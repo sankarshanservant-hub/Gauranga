@@ -57,7 +57,8 @@ PREFACE_B = PREFACE.replace('*Перевод с санскрита на русс
     '## Оглавление', """**Устройство полной версии.** Для каждой шлоки даны: санскритский текст деванагари, восстановленный
 по изданию 1951 г. и бенгальскому изданию Бхактисиддханты (при расхождении предпочтено чтение
 Бхактисиддханты; это наша выверенная редакция, а не перепечатка какого-либо одного издания);
-транслитерация IAST; пословный перевод (с опорой на пословный разбор Бхактисиддханты); перевод.
+транслитерация IAST; пословный перевод — полный перевод анвайи (пословного разбора) Бхактисиддханты
+в его порядке слов (в квадратных скобках — подразумеваемые слова, добавленные им); перевод.
 
 После каждой шлоки дан перевод «Гаудия-бхашьи» Бхактисиддханты Сарасвати
 (1874–1937) — его бенгальского перевода-толкования из издания Гаудия Матха (Калькутта, 1-е изд.).
@@ -95,6 +96,9 @@ def load_bhashya():
     return res
 
 
+DROP_ANVAYA_NOTES = False
+
+
 def with_bhashya(text, bh):
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
@@ -110,7 +114,10 @@ def with_bhashya(text, bh):
             lab = '**Гаудия-бхашья' + (' (бенг. изд., № 75 — повтор шлоки)' if key == '17b' else '') + '.**'
             out.append('>> ' + lab + (f' *{tema}*' if tema else ''))
             for p in paras:
-                out.append('\n'.join('>> ' + l for l in p.split('\n')))
+                if DROP_ANVAYA_NOTES:
+                    p = '\n'.join(l for l in p.split('\n') if not l.startswith('Из пословного толкования'))
+                if p.strip():
+                    out.append('\n'.join('>> ' + l for l in p.split('\n')))
     return '\n\n'.join(out)
 
 
@@ -139,12 +146,38 @@ def load_skt(d=None):
     return res
 
 
+def load_anvaya():
+    """{номер: {'anvaya': str, 'diff': [строки]}} из bss/a0*.md (основная нумерация)."""
+    res = {}
+    d = os.path.join(HERE, 'bss')
+    for f in sorted(os.listdir(d)):
+        if not kb.re.match(r'a0\d\.md$', f):
+            continue
+        for part in kb.re.split(r'^### ', open(os.path.join(d, f), encoding='utf-8').read(), flags=kb.re.M)[1:]:
+            head, _, body = part.partition('\n')
+            rec, cur = {'anvaya': '', 'diff': []}, None
+            for line in body.split('\n'):
+                if m := kb.re.match(r'^(ANVAYA|DIFF):\s*(.*)', line):
+                    cur = m.group(1).lower()
+                    if cur == 'anvaya':
+                        rec['anvaya'] = m.group(2).strip()
+                    elif m.group(2).strip() and m.group(2).strip().lower() not in ('нет', 'нет.'):
+                        rec['diff'].append(m.group(2).strip())
+                elif cur == 'anvaya' and line.strip():
+                    rec['anvaya'] += ' ' + line.strip()
+                elif cur == 'diff' and line.strip().startswith('-'):
+                    rec['diff'].append(line.strip()[1:].strip())
+            res[head.strip()] = rec
+    return res
+
+
 def iast(lines):
     from indic_transliteration import sanscript
     return [sanscript.transliterate(l, 'devanagari', 'iast').replace('ṃ', 'ṁ') for l in lines]
 
 
-def with_skt(text, sk):
+def with_skt(text, sk, an=None):
+    an = an or {}
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
         m = kb.re.match(r'^\*\*([\d–-]+)\.\*\*', para.strip())
@@ -160,13 +193,15 @@ def with_skt(text, sk):
             out.append(f'### Шлока {k}')
             out.append('\n'.join(rec['skt']))
             out.append('\n'.join(f'*{l}*' for l in iast(rec['skt'])))
-            if rec.get('wfw'):
+            if an.get(k, {}).get('anvaya'):
+                out.append('*Пословно (анвайя Бхактисиддханты):* ' + an[k]['anvaya'])
+            elif rec.get('wfw'):
                 out.append('*Пословно:* ' + rec['wfw'])
         out.append(para)
     return '\n\n'.join(out)
 
 
-def build(out, preface, bh=None, sk=None):
+def build(out, preface, bh=None, sk=None, an=None):
     toc, body = [], []
     files = ['00-vvedenie'] if bh is not None and os.path.exists(os.path.join(HERE, 'ru', '00-vvedenie.md')) else []
     files += [f'{i:02d}' for i in (1, 2, 3, 4)]
@@ -179,7 +214,7 @@ def build(out, preface, bh=None, sk=None):
         if bh is not None:
             text = with_bhashya(text, bh)
             if sk:
-                text = with_skt(text, sk)
+                text = with_skt(text, sk, an)
             if key == '04' and 'END' in bh:
                 text = text.split('\n\n[^')[0] + '\n\n' + '\n\n'.join('>> ' + p for p in bh['END'][1]) + \
                     ('\n\n[^' + text.split('\n\n[^', 1)[1] if '\n\n[^' in text else '')
@@ -192,7 +227,30 @@ def build(out, preface, bh=None, sk=None):
     print(out, 'ok', len(blocks))
 
 
+def diff_report(an):
+    """Сводка расхождений нашего перевода с толкованием Бхактисиддханты → bss/RASHOZHDENIYA.md."""
+    if not an:
+        return
+    keys = sorted(an, key=lambda k: int(kb.re.match(r'\d+', k).group()))
+    rows = [(k, d) for k in keys for d in an[k]['diff']]
+    nsense = len({k for k, d in rows if '[смысл]' in d})
+    lines = ['# Расхождения перевода с толкованием Бхактисиддханты', '',
+             'Сравнение русского перевода (ru/01–04.md) с анвайей и анувада «Гаудия-бхашьи». '
+             '[смысл] — меняет смысл, [оттенок] — нюанс. Перевод пока не исправлен.', '',
+             f'Всего замечаний: {len(rows)}; шлок с расхождениями по смыслу: {nsense}.', '']
+    for k in keys:
+        if an[k]['diff']:
+            lines.append(f'## Шлока {k}')
+            lines += [f'- {d}' for d in an[k]['diff']]
+            lines.append('')
+    open(os.path.join(HERE, 'bss', 'RASHOZHDENIYA.md'), 'w', encoding='utf-8').write('\n'.join(lines))
+    print('diff report:', len(rows), 'items,', nsense, 'verses [смысл]')
+
+
 if __name__ == '__main__':
     build(OUT, PREFACE)
     if os.path.isdir(os.path.join(HERE, 'bss')):
-        build(OUT + '-full', PREFACE_B, load_bhashya(), load_skt())
+        an = load_anvaya()
+        DROP_ANVAYA_NOTES = bool(an)
+        build(OUT + '-full', PREFACE_B, load_bhashya(), load_skt(), an)
+        diff_report(an)
