@@ -237,13 +237,17 @@ def diff_report(an):
     lines = ['# Расхождения перевода с толкованием Бхактисиддханты', '',
              'Сравнение русского перевода (ru/01–04.md) с анвайей и анувада «Гаудия-бхашьи». '
              '[смысл] — меняет смысл, [оттенок] — нюанс. Перевод пока не исправлен.', '',
-             f'Всего замечаний: {len(rows)}; шлок с расхождениями по смыслу: {nsense}.', '']
+             f'Всего замечаний: {len(rows)}; шлок с расхождениями по смыслу: {nsense}.', '',
+             '**Шлоки с расхождениями по смыслу:** ' + ', '.join(k for k in keys if any('[смысл]' in d for d in an[k]['diff'])) + '.', '']
     for k in keys:
         if an[k]['diff']:
             lines.append(f'## Шлока {k}')
             lines += [f'- {d}' for d in an[k]['diff']]
             lines.append('')
     open(os.path.join(HERE, 'bss', 'RASHOZHDENIYA.md'), 'w', encoding='utf-8').write('\n'.join(lines))
+    blocks = kb.parse('\n'.join(lines))
+    kb.build_pdf(blocks, os.path.join(HERE, 'bss', 'RASHOZHDENIYA.pdf'), 'Расхождения с Бхактисиддхантой', '')
+    kb.build_docx(blocks, os.path.join(HERE, 'bss', 'RASHOZHDENIYA.docx'))
     print('diff report:', len(rows), 'items,', nsense, 'verses [смысл]')
 
 
