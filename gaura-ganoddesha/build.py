@@ -7,6 +7,8 @@ import importlib.util, os
 HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'govinda-kadacha', 'build.py'))
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
+spec2 = importlib.util.spec_from_file_location('cc', os.path.join(HERE, '..', 'chaitanya-chandramrita', 'build.py'))
+cc = importlib.util.module_from_spec(spec2); spec2.loader.exec_module(cc)
 
 OUT = 'Gaura-Ganoddesha-Dipika-ru'
 PREFACE = """# Шри Гаура-ганоддеша-дипика
@@ -40,7 +42,18 @@ PREFACE = """# Шри Гаура-ганоддеша-дипика
 
 """
 
-if __name__ == '__main__':
+PREFACE_FULL = PREFACE.replace('*Перевод с санскрита на русский*',
+    '*Перевод с санскрита на русский*\n\n*Санскритский текст, транслитерация и пословный перевод*').replace('## Оглавление',
+    """**Полная версия.** Для каждой шлоки даны санскритский текст деванагари (выверенный: ошибки перекодировки
+из шрифта Kruti Dev исправлены по метру, грамматике и изображениям страниц издания), транслитерация IAST,
+пословный перевод и перевод.
+
+---
+
+## Оглавление""")
+
+
+def build(out, preface, full=False):
     toc, body = [], []
     for i in (1, 2, 3):
         text = open(os.path.join(HERE, 'ru', f'{i:02d}.md'), encoding='utf-8').read().strip()
@@ -48,10 +61,18 @@ if __name__ == '__main__':
         title = text.splitlines()[0].lstrip('# ').strip()
         sub = kb.re.search(r'^\*([^*\[].+)\*$', text, kb.re.M)
         toc.append(f'- {title} — {sub.group(1)}' if sub else f'- {title}')
+        if full:
+            text = cc.with_skt(text, cc.load_skt(os.path.join(HERE, 'skt')))
         body.append(text)
-    md = PREFACE + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
-    open(os.path.join(HERE, OUT + '.md'), 'w', encoding='utf-8').write(md)
+    md = preface + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
-    kb.build_docx(blocks, os.path.join(HERE, OUT + '.docx'))
-    kb.build_pdf(blocks, os.path.join(HERE, OUT + '.pdf'), 'Шри Гаура-ганоддеша-дипика', 'Кави Карнапура (рус. пер.)')
-    print('ok', len(blocks))
+    kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))
+    kb.build_pdf(blocks, os.path.join(HERE, out + '.pdf'), 'Шри Гаура-ганоддеша-дипика', 'Кави Карнапура (рус. пер.)')
+    print(out, 'ok', len(blocks))
+
+
+if __name__ == '__main__':
+    build(OUT, PREFACE)
+    if os.path.isdir(os.path.join(HERE, 'skt')) and any(f.startswith('s0') for f in os.listdir(os.path.join(HERE, 'skt'))):
+        build(OUT + '-full', PREFACE_FULL, full=True)

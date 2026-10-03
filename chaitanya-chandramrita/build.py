@@ -114,10 +114,10 @@ def with_bhashya(text, bh):
     return '\n\n'.join(out)
 
 
-def load_skt():
+def load_skt(d=None):
     """{номер: {'skt': [строки], 'wfw': str, 'var': str}} из skt/s0*.md."""
     res = {}
-    d = os.path.join(HERE, 'skt')
+    d = d or os.path.join(HERE, 'skt')
     if not os.path.isdir(d):
         return res
     for f in sorted(os.listdir(d)):
@@ -147,7 +147,7 @@ def iast(lines):
 def with_skt(text, sk):
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
-        m = kb.re.match(r'^\*\*(\d+)\.\*\*', para.strip())
+        m = kb.re.match(r'^\*\*([\d–-]+)\.\*\*', para.strip())
         keys = []
         if m:
             keys = [m.group(1)]
