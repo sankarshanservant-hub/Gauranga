@@ -8,6 +8,7 @@ import os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_DIR = '/usr/share/fonts/truetype/liberation'
+DEVA_FONT = os.path.join(HERE, '..', 'fonts', 'NotoSerifDevanagari-Regular.ttf')
 
 META = {
     'ru': dict(
@@ -132,6 +133,8 @@ def parse(md):
             rows = [[c.strip() for c in l.strip().strip('|').split('|')] for l in lines
                     if not re.match(r'^\s*\|[\s:|-]+\|\s*$', l)]
             blocks.append(('table', rows))
+        elif re.search(r'[\u0900-\u097F]', para) and not re.match(r'^\*\*\d', first) and not first.startswith('>'):
+            blocks.append(('deva', lines))
         elif all(l.startswith('>>') for l in lines):
             blocks.append(('comment', [l.lstrip('>').strip() for l in lines]))
         elif all(l.startswith('>') for l in lines):
@@ -227,6 +230,16 @@ def build_docx(blocks, path):
                 if i:
                     p.add_run().add_break()
                 docx_runs(p, f'*{l}*' if l and not l.startswith('*') else l)
+        elif kind == 'deva':
+            from docx.oxml.ns import qn
+            p.paragraph_format.left_indent = Cm(1.0)
+            for i, l in enumerate(data):
+                if i:
+                    p.add_run().add_break()
+                r = p.add_run(l)
+                r.font.size = Pt(12)
+                r._element.get_or_add_rPr().get_or_add_rFonts().set(qn('w:cs'), 'Noto Serif Devanagari')
+                r._element.get_or_add_rPr().get_or_add_rFonts().set(qn('w:hAnsi'), 'Noto Serif Devanagari')
         elif kind == 'comment':
             p.paragraph_format.left_indent = Cm(1.0)
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
@@ -264,6 +277,8 @@ def build_pdf(blocks, path, title, author):
     for name, f in [('Serif', 'LiberationSerif-Regular.ttf'), ('Serif-B', 'LiberationSerif-Bold.ttf'),
                     ('Serif-I', 'LiberationSerif-Italic.ttf'), ('Serif-BI', 'LiberationSerif-BoldItalic.ttf')]:
         pdfmetrics.registerFont(TTFont(name, os.path.join(FONT_DIR, f)))
+    if os.path.exists(DEVA_FONT):
+        pdfmetrics.registerFont(TTFont('Deva', DEVA_FONT))
     addMapping('Serif', 0, 0, 'Serif'); addMapping('Serif', 1, 0, 'Serif-B')
     addMapping('Serif', 0, 1, 'Serif-I'); addMapping('Serif', 1, 1, 'Serif-BI')
 
@@ -275,6 +290,8 @@ def build_pdf(blocks, path, title, author):
         'p': ParagraphStyle('p', base, spaceAfter=5, alignment=TA_JUSTIFY),
         'verse': ParagraphStyle('verse', base, leftIndent=0.9 * cm, firstLineIndent=-0.9 * cm, spaceAfter=4),
         'quote': ParagraphStyle('quote', base, leftIndent=1.0 * cm, spaceAfter=5),
+        'deva': ParagraphStyle('deva', base, fontName='Deva', fontSize=12.5, leading=21, leftIndent=1.0 * cm,
+                               spaceAfter=3, shaping=1),
         'comment': ParagraphStyle('comment', base, fontSize=10, leading=13.5, leftIndent=1.0 * cm,
                                   spaceAfter=4, alignment=TA_JUSTIFY),
         'note': ParagraphStyle('note', base, fontSize=9, leading=12, leftIndent=0.5 * cm, spaceAfter=3,

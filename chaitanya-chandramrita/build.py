@@ -103,7 +103,59 @@ def with_bhashya(text, bh):
     return '\n\n'.join(out)
 
 
-def build(out, preface, bh=None):
+def load_skt():
+    """{номер: {'skt': [строки], 'wfw': str, 'var': str}} из skt/s0*.md."""
+    res = {}
+    d = os.path.join(HERE, 'skt')
+    if not os.path.isdir(d):
+        return res
+    for f in sorted(os.listdir(d)):
+        if not kb.re.match(r's0\d\.md$', f):
+            continue
+        for part in kb.re.split(r'^### ', open(os.path.join(d, f), encoding='utf-8').read(), flags=kb.re.M)[1:]:
+            head, _, body = part.partition('\n')
+            rec, cur = {'skt': []}, None
+            for line in body.split('\n'):
+                if m := kb.re.match(r'^(SKT|VAR|WFW|CHECK|FIX|NOTE|RU):\s*(.*)', line):
+                    cur = m.group(1).lower()
+                    if cur != 'skt':
+                        rec[cur] = m.group(2).strip()
+                elif cur == 'skt' and line.strip() and not line.startswith('```'):
+                    rec['skt'].append(line.strip())
+                elif cur and cur != 'skt' and line.strip():
+                    rec[cur] += ' ' + line.strip()
+            res[head.strip()] = rec
+    return res
+
+
+def iast(lines):
+    from indic_transliteration import sanscript
+    return [sanscript.transliterate(l, 'devanagari', 'iast').replace('ṃ', 'ṁ') for l in lines]
+
+
+def with_skt(text, sk):
+    out = []
+    for para in kb.re.split(r'\n\s*\n', text):
+        m = kb.re.match(r'^\*\*(\d+)\.\*\*', para.strip())
+        keys = []
+        if m:
+            keys = [m.group(1)]
+        elif para.strip().startswith('(Поклоняюсь Шри Кришне Чайтанье'):
+            keys = ['13a']
+        for k in keys:
+            rec = sk.get(k)
+            if not rec or not rec['skt']:
+                continue
+            out.append(f'### Шлока {k}')
+            out.append('\n'.join(rec['skt']))
+            out.append('\n'.join(f'*{l}*' for l in iast(rec['skt'])))
+            if rec.get('wfw'):
+                out.append('*Пословно:* ' + rec['wfw'])
+        out.append(para)
+    return '\n\n'.join(out)
+
+
+def build(out, preface, bh=None, sk=None):
     toc, body = [], []
     files = ['00-vvedenie'] if bh is not None and os.path.exists(os.path.join(HERE, 'ru', '00-vvedenie.md')) else []
     files += [f'{i:02d}' for i in (1, 2, 3, 4)]
@@ -115,6 +167,8 @@ def build(out, preface, bh=None):
         toc.append(f'- {title} — {sub.group(1)}' if sub and key != '00-vvedenie' else f'- {title}')
         if bh is not None:
             text = with_bhashya(text, bh)
+            if sk:
+                text = with_skt(text, sk)
             if key == '04' and 'END' in bh:
                 text = text.split('\n\n[^')[0] + '\n\n' + '\n\n'.join('>> ' + p for p in bh['END'][1]) + \
                     ('\n\n[^' + text.split('\n\n[^', 1)[1] if '\n\n[^' in text else '')
@@ -130,4 +184,4 @@ def build(out, preface, bh=None):
 if __name__ == '__main__':
     build(OUT, PREFACE)
     if os.path.isdir(os.path.join(HERE, 'bss')):
-        build(OUT + '-bhashya', PREFACE_B, load_bhashya())
+        build(OUT + '-full', PREFACE_B, load_bhashya(), load_skt())
