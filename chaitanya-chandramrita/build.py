@@ -46,18 +46,88 @@ PREFACE = """# Шри Чайтанья-чандрамрита
 
 """
 
-if __name__ == '__main__':
+PREFACE_B = PREFACE.replace('*Перевод с санскрита на русский*',
+    '*Перевод с санскрита на русский*\n\n*С «Гаудия-бхашьей» Бхактисиддханты Сарасвати (перевод с бенгальского)*').replace(
+    '## Оглавление', """В этой версии после каждой шлоки дан перевод «Гаудия-бхашьи» Бхактисиддханты Сарасвати
+(1874–1937) — его бенгальского перевода-толкования из издания Гаудия Матха (Калькутта, 1-е изд.).
+Для каждой шлоки переведены заголовок-резюме и связное толкование (*anuvāda*); из пословного
+разбора (*anvaya*) добавлены лишь толкования, которых нет в связном тексте. Бенгальский текст
+известен по OCR-копии; нечитаемые места отмечены «[…]». Номера шлок — по изданию 1951 г.;
+в бенгальском издании шлока 17 повторена ещё раз под № 75, поэтому начиная с № 75 его номера
+на единицу больше.
+
+---
+
+## Оглавление""")
+
+
+def load_bhashya():
+    """{номер по изд. 1951: (тема, [абзацы])} из bss/b0*.md (нумерация бенгальского изд.)."""
+    res = {}
+    for f in sorted(kb.re.sub('', '', x) for x in os.listdir(os.path.join(HERE, 'bss'))):
+        if not kb.re.match(r'b0\d\.md$', f):
+            continue
+        text = open(os.path.join(HERE, 'bss', f), encoding='utf-8').read()
+        for part in kb.re.split(r'^### ', text, flags=kb.re.M)[1:]:
+            head, _, body = part.partition('\n')
+            head = head.strip()
+            if not head.isdigit():
+                res[head] = (None, [p.strip() for p in kb.re.split(r'\n\s*\n', body) if p.strip()])
+                continue
+            n = int(head)
+            lines = body.strip().split('\n')
+            tema = lines[0].split(':', 1)[1].strip() if lines and lines[0].startswith('ТЕМА') else None
+            rest = '\n'.join(lines[1:] if tema is not None else lines)
+            paras = [p.strip() for p in kb.re.split(r'\n\s*\n', rest) if p.strip()]
+            key = n if n <= 74 else ('17b' if n == 75 else n - 1)
+            res[key] = (tema, paras)
+    return res
+
+
+def with_bhashya(text, bh):
+    out = []
+    for para in kb.re.split(r'\n\s*\n', text):
+        out.append(para)
+        m = kb.re.match(r'^\*\*(\d+)\.\*\*', para.strip())
+        if not m:
+            continue
+        n = int(m.group(1))
+        for key in ([n, '17b'] if n == 17 else [n]):
+            if key not in bh:
+                continue
+            tema, paras = bh[key]
+            lab = '**Гаудия-бхашья' + (' (бенг. изд., № 75 — повтор шлоки)' if key == '17b' else '') + '.**'
+            out.append('>> ' + lab + (f' *{tema}*' if tema else ''))
+            for p in paras:
+                out.append('\n'.join('>> ' + l for l in p.split('\n')))
+    return '\n\n'.join(out)
+
+
+def build(out, preface, bh=None):
     toc, body = [], []
-    for i in (1, 2, 3, 4):
-        text = open(os.path.join(HERE, 'ru', f'{i:02d}.md'), encoding='utf-8').read().strip()
-        text = kb.re.sub(r'\[\^([^\]]+)\]', lambda m: f'[^{i:02d}-{m.group(1)}]', text)
+    files = ['00-vvedenie'] if bh is not None and os.path.exists(os.path.join(HERE, 'ru', '00-vvedenie.md')) else []
+    files += [f'{i:02d}' for i in (1, 2, 3, 4)]
+    for key in files:
+        text = open(os.path.join(HERE, 'ru', key + '.md'), encoding='utf-8').read().strip()
+        text = kb.re.sub(r'\[\^([^\]]+)\]', lambda m: f'[^{key[:2]}-{m.group(1)}]', text)
         title = text.splitlines()[0].lstrip('# ').strip()
         sub = kb.re.search(r'^\*([^*\[].+)\*$', text, kb.re.M)
-        toc.append(f'- {title} — {sub.group(1)}' if sub else f'- {title}')
+        toc.append(f'- {title} — {sub.group(1)}' if sub and key != '00-vvedenie' else f'- {title}')
+        if bh is not None:
+            text = with_bhashya(text, bh)
+            if key == '04' and 'END' in bh:
+                text = text.split('\n\n[^')[0] + '\n\n' + '\n\n'.join('>> ' + p for p in bh['END'][1]) + \
+                    ('\n\n[^' + text.split('\n\n[^', 1)[1] if '\n\n[^' in text else '')
         body.append(text)
-    md = PREFACE + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
-    open(os.path.join(HERE, OUT + '.md'), 'w', encoding='utf-8').write(md)
+    md = preface + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
-    kb.build_docx(blocks, os.path.join(HERE, OUT + '.docx'))
-    kb.build_pdf(blocks, os.path.join(HERE, OUT + '.pdf'), 'Шри Чайтанья-чандрамрита', 'Прабодхананда Сарасвати (рус. пер.)')
-    print('ok', len(blocks))
+    kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))
+    kb.build_pdf(blocks, os.path.join(HERE, out + '.pdf'), 'Шри Чайтанья-чандрамрита', 'Прабодхананда Сарасвати (рус. пер.)')
+    print(out, 'ok', len(blocks))
+
+
+if __name__ == '__main__':
+    build(OUT, PREFACE)
+    if os.path.isdir(os.path.join(HERE, 'bss')):
+        build(OUT + '-bhashya', PREFACE_B, load_bhashya())

@@ -132,6 +132,8 @@ def parse(md):
             rows = [[c.strip() for c in l.strip().strip('|').split('|')] for l in lines
                     if not re.match(r'^\s*\|[\s:|-]+\|\s*$', l)]
             blocks.append(('table', rows))
+        elif all(l.startswith('>>') for l in lines):
+            blocks.append(('comment', [l.lstrip('>').strip() for l in lines]))
         elif all(l.startswith('>') for l in lines):
             blocks.append(('quote', [l.lstrip('>').strip() for l in lines]))
         elif re.match(r'^\[\^[^\]]+\]:', first):
@@ -225,6 +227,13 @@ def build_docx(blocks, path):
                 if i:
                     p.add_run().add_break()
                 docx_runs(p, f'*{l}*' if l and not l.startswith('*') else l)
+        elif kind == 'comment':
+            p.paragraph_format.left_indent = Cm(1.0)
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            for i, l in enumerate(data):
+                if i:
+                    p.add_run().add_break()
+                docx_runs(p, l, size=10)
         elif kind == 'note':
             p.paragraph_format.left_indent = Cm(0.5)
             docx_runs(p, f'**{data[0]}.** {data[1]}', size=9)
@@ -266,6 +275,8 @@ def build_pdf(blocks, path, title, author):
         'p': ParagraphStyle('p', base, spaceAfter=5, alignment=TA_JUSTIFY),
         'verse': ParagraphStyle('verse', base, leftIndent=0.9 * cm, firstLineIndent=-0.9 * cm, spaceAfter=4),
         'quote': ParagraphStyle('quote', base, leftIndent=1.0 * cm, spaceAfter=5),
+        'comment': ParagraphStyle('comment', base, fontSize=10, leading=13.5, leftIndent=1.0 * cm,
+                                  spaceAfter=4, alignment=TA_JUSTIFY),
         'note': ParagraphStyle('note', base, fontSize=9, leading=12, leftIndent=0.5 * cm, spaceAfter=3,
                                alignment=TA_JUSTIFY),
         'bullet': ParagraphStyle('bullet', base, leftIndent=0.6 * cm, firstLineIndent=-0.35 * cm, spaceAfter=3),
