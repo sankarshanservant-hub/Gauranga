@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-C860DERCBS"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-C860DERCBS');
+        </script>
+        
+        <!--title data-template="config:app-title">App Title</title-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Famine and Dearth">
+        <meta name="creator" content="Hannah Petrie">
+        <meta name="creator" content="Charlotte Tupman">
+        <meta name="creator" content="Gary Stringer">
+        <link rel="shortcut icon" href="$shared/resources/images/exist_icon_16x16.ico">
+        <link rel="stylesheet" type="text/css" href="$shared/resources/css/bootstrap-3.0.3.min.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/facets.css">
+        <!--<script type="text/javascript" src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js"/>-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> 
+        <script type="text/javascript" src="$shared/resources/scripts/loadsource.js"></script>
+        <script type="text/javascript" src="$shared/resources/scripts/bootstrap-3.0.3.min.js"></script>
+        <script type="text/javascript" src="resources/js/jquery.color-2.1.2.min.js"></script>
+        <script type="text/javascript" src="resources/js/functions.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Great+Vibes|IM+Fell+English|IM+Fell+English+SC" rel="stylesheet">
+    </head>
+    <body id="body">
+        <!--navbar-default or navbar-inverse-->
+        
+        <div id="header" role="header">            
+            <a href="index.html"> 
+                <hgroup>  
+                    <!--<div class="surround">-->
+                    <h1 class="site-title">
+                        <!--<a href="index.html" class="home-link">-->
+                        Famine <span class="heading-small">and</span> Dearth <span class="heading-small">in</span> India <span class="heading-medium">and</span> Britain <span class="heading-small">1550-1800</span><!--</a>-->
+                    </h1>
+                    <h2 class="site-subtitle">
+                        Connected Cultural Histories <span class="heading-medium">of</span> Food Security
+                    </h2>
+                    <!--</div>-->         
+                </hgroup>
+            </a>  
+        </div>
+        
+        <!--@todo highlight the current page in a different colour in the menu-->
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--Large text with site title-->
+                <!--V1--><!--<a data-template="config:app-title" class="navbar-brand" href="./index.html">Famine and Dearth</a>-->
+                <!--V2--><!--<a class="navbar-brand" href="./index.html">Famine and Dearth</a>-->
+                <!--V3-->
+                <a class="navbar-brand" href="./index.html">
+                    <span class="glyphicon glyphicon-home"></span>
+                </a>
+            </div>
+            
+            <div class="navbar-collapse collapse" id="navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    
+                    <!--Use class="dropdown" if you want to add a dropdown menu item-->
+                    <!--<li class="dropdown" id="about">--><!--<a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+                        
+                        <!-\-<li class="dropdown" id="list">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">List of all files</a>-\->--><!-- <ul class="dropdown-menu">
+                                <li>
+                                    <a href="index.html">Home</a>
+                                </li>
+                            </ul>--><!--</li>-->
+                    <!--Either have a home button or the branded site title button, not both. -->
+                    <!-- <li>
+                        <a href="../hannah_test/index.html">Home</a>
+                    </li>-->
+                    <li id="about" class="dropdown">
+                        <a href="about.html" class="dropdown-toggle" id="nav-about" data-toggle="dropdown">About<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="team.html" id="nav-team">Team</a>
+                            </li>
+                            <!--<li>
+                                <a href="editing.html" id="nav-editorial">Editorial policy</a>
+                            </li>-->
+                            <li>
+                                <a href="encoding.html" id="nav-encoding">Encoding rationale</a>
+                            </li>
+                            <li>
+                                <a href="tech.html" id="nav-technical">Technical details</a>
+                            </li>
+                            <li>
+                                <a href="links.html" id="nav-reading">Further reading</a><!--Blog links-->
+                            </li>
+                            <li>
+                                <a href="acknowledgements.html" id="nav-acknowledgements">Acknowledgements</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <!-- Introduction -->
+                    <li>
+                        <a href="intro.html" target="blank">Introduction</a>
+                    </li>
+                    
+                    <!-- Browse -->
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="listfiles.html" id="nav-browse">Browse<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="listfiles.html" id="nav-genre">By genre</a>
+                            </li>
+                            <li>
+                                <a href="listfilesbytitle.html" id="nav-title">By title</a>
+                            </li>                            
+                            <li>
+                                <a href="listfilesbyauthor.html" id="nav-author">By author</a>
+                            </li>
+                            <li>
+                                <a href="listfilesbydate.html" id="nav-date">By date</a>
+                            </li>                  
+                            <li>
+                                <a href="listfilesbylanguage.html" id="nav-language">By language</a>
+                            </li>
+                            <li>
+                                <a href="listfilesbykeyword.html" id="nav-keyword">By keyword</a>
+                            </li>
+                            <li class="divider"></li>
+                            <!-- Random page -->
+                            <li><a href="displayhtml.html?id=fp_00314_en_theragingturke" id="random-page">Display a random text</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="dropdown search">
+                        <a class="dropdown-toggle" data-toggle="dropdown" id="nav-search">Search<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <!--<li>
+                                <a href="search.html" id="nav-basic">Basic search</a>
+                            </li>-->
+                            <li>
+                                <a href="facets.html" id="nav-facets">Advanced search</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li class="dropdown map">
+                        <a class="dropdown-toggle" id="nav-map" data-toggle="dropdown" href="http://humanities-research.exeter.ac.uk/famineanddearth/map/">Mundy Map<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="aboutthemap.html" id="nav-aboutthemap">About the Map</a>
+                            </li>
+                            
+                            <!--<li>
+                                <a href="tech.html#map" >Technical details</a>
+                            </li>
+                            <li>
+                                <a href="journeys.html">Peter Mundy's journeys</a>
+                            </li>-->
+                            <li>
+                                <a id="nav-mundymap" href="http://humanities-research.exeter.ac.uk/famineanddearth/map/">The Mundy Map</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="http://foodsecurity.exeter.ac.uk/" target="blank">Blog</a>
+                    </li>
+                   
+
+                </ul>
+                <form class="nav navbar-form navbar-right" role="search" action="search.html">
+                    <!--div class="form-group">
+                        <label for="searchterm" class="sr-only">Search: </label>
+                        <input type="text" class="form-control" placeholder="Please use advanced search" name="searchterm" id="searchterm"/>
+                    </div>
+                    <button type="submit" class="btn btn-default" disabled="disabled">Go</button-->
+                <a href="facets.html" id="advanced">Advanced Search</a>
+                </form>
+                
+              
+            </div>
+        </nav>
+        
+        <!--Div containing the page content-->
+        <div id="content" class="container">
+    
+    <div id="main-text-col" class="col-md-9 html text">
+   
+        <div id="metadata-jump-button" class="text-center">
+            <a href="#metadata-sidebar" class="btn btn-primary" role="button">Jump to source text information</a>
+        </div>
+        <!--<div id="metadata-jump-button" class="text-center">
+            <form action="#metadata-sidebar">
+                <input type="submit" value="Jump to source text info"/>
+            </form> 
+        </div>-->
+    
+    <h1 class="textTitle">
+                    <div class="Chaitanyamangal">Chaitanyamangal</div>
+                </h1>
+                <div class="introNotes alert">
+                    <h2>About this text</h2>
+                    <h3>Introductory notes</h3>
+                    <p>
+                        <p>Dr. Bimanbihari Majumdar and Sukhamay Mukhopadhyay edited the version of Chaitanyamangal, brought out by the Asiatic Society as part of its Bibliotheca Indica series in 1971. Jayananda was a devotee of Chaitanyadev the Bhakti Saint who popularised Vaishnavism in the 16th Century. The editors believe Jayananda, an younger contemporary of Chaitanya, composed the work between 1550 to 1560. The work stands distinct from contemporary Vaishnava literature as it follows the Mangalkavya tradition. The work was composed in the form of ballads to be sung across villages.</p>
+                        <p>Chaitanyamangal also, true to the tradition of Mangalkavyas, offers light on the lives and practices of the contemporary village society. The section on Visnupriya's Baramasya may be mentioned in this regard. Such Baramasya's are not regular features of Mangalkavya though they are absent in Vaishnava literature.</p>
+                        <h3>Selection details</h3>
+                        <p>Chaitanyamangal also, true to the tradition of Mangalkavyas, offers light on the lives and practices of the contemporary village society. The section on Visnupriya's Baramasya may be mentioned in this regard. Such Baramasya's are not regular features of Mangalkavya though they are absent in Vaishnava literature.</p>
+                    </p>
+                </div>
+                <div class="bn">
+                    <div class="body">
+                        <section class="section" id="index.xml-body.1_div.1">
+                            <div class="pagebreak" id="index.xml-pb-d62e253">[Page 10]</div>
+                            <header>
+                                <h1><span class="headingNumber">1. </span><span class="head">নদীয়া-১</span></h1>
+                            </header>
+                            <div class="byline">ততঃ কথা দিশা ।</div>
+                            <div id="fp_00203_001" class="lg">
+                                <div class="l">শ্রীহট্ট দেশের মধ্যে জয়পুর গ্রাম ।</div>
+                                <div class="l">সর্বসুখময় স্থান ক্ষিতি অনুপাম ।।</div>
+                                <div class="l">দীঘি সরোবর কূপ তড়াগ সোপান ।</div>
+                                <div class="l">দেউল দেহারা মঠ নানা পুষ্পোদ্যান ।।</div>
+                                <div class="l">সুতার শঞ্চম(?) ঘড় নগর চাতর ।</div>
+                                <div class="l">ইষ্টকারচিত দ্বার প্রাচীর ভিতর ।।</div>
+                                <div class="l">নাটশাল পাঠশাল চৌখন্ডী বাঙ্গালি ।</div>
+                                <div class="l">ধ্বজ কল হংস পারাবত করে কেলি ।।</div>
+                                <div class="l">নারিকেল পনস গুবাক আম্র বটে ।</div>
+                                <div class="l">বকুল চম্পক তাল কদম্ব নিকটে ।।</div>
+                                <div class="l">অশ্বত্থ তেঁতুল নিম্ব জাম্বু খর্জূরে ।</div>
+                                <div class="l">নারেঙ্গ ছোলঙ্গ বিল্ব লবঙ্গান্তশষ্পুরে ।।</div>
+                                <div class="l">হিঙ্গুল হরিতাল স্তম্ভ চন্দ্রার্ক তিলাকে ।</div>
+                                <div class="l">ময়ূর সারস শুক রহি দ্বার মুখে ।।</div>
+                                <div class="l">চৌখন্ডী চৌতারা টঙ্গী কত শাস্ত্রশালা ।</div>
+                                <div class="l">প্রাসাদ মন্দির প্রপা রক্ষ জাল মালা ।।</div>
+                                <div class="l">পূর্বে সরস্বতী উত্তরে গোমতী ।</div>
+                                <div class="l">পশ্চিমে ঢোল সমুদ্র দক্ষিণে করাতি ।।</div>
+                                <div class="l">জয়পুরে যত যত ব্রাম্ভনের ঘর।</div>
+                                <div class="l">দিব্যমূর্তি মহাবিদ্যা মহা ধনেশ্বর ।।</div>
+                                <div class="l">রবির মহাকুল মহাবংশ প্রসূত ।</div>
+                                <div class="l">দিগ্বিজয়ী নিজ দর্শন ব্যাখ্যা চতুর্মুখ ।।</div>
+                                <div class="l">হেন বংশে জগন্নাথ মিশ্রের উৎপত্তি ।</div>
+                                <div class="l">শচী বিভা দিল নীলাম্বর চক্রবর্তী ।।</div>
+                                <div class="l">বাসুদেব চক্রবর্তী জন্মিলা নিকটে ।</div>
+                                <div class="l">নন্দ যশোদা লইলা জমুনার জলে ।</div>
+                                <div class="l">রামকৃষ্ণ অবশ্য জম্মিব মোর কুলে ।।</div>
+                                <div class="l">একচাকা খলকপুর গ্রাম রম্য স্থান ।</div>
+                                <div class="l">রম্য রাঢ় দেশ পূর্ব গোকুল সমান ।।</div>
+                                <div class="l">তাহে নন্দ যশোদা জন্মিব দ্বিজ বংশে।</div>
+                                <div class="l">পদ্মাবতী পরমানন্দ নাম ধরি শেষে ।।</div>
+                                <div class="l">দ্বিজকুলে দশরথ কৌশল্যাদি সতী ।</div>
+                                <div class="l">ধরিল মাধবানন্দ নাম লভ্যমতী ।।</div>
+                                <div class="l">যে যে বংশে যে জন্মিব প্রেমসুখে ।</div>
+                                <div class="l">উত্তরখন্ডে সকল কহিব একে একে ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদ্বন্দ্ব ।</div>
+                                <div class="l">চৈতন্য মঙ্গল কিছু রচে, জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.2">
+                            <div class="pagebreak" id="index.xml-pb-d62e298">[Page 10]</div>
+                            <header>
+                                <h1><span class="headingNumber">2. </span><span class="head">নদীয়া-২</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা</div>
+                            <div id="fp_00203_002" class="lg">
+                                <div class="l">শ্রীহট্ট দেশে অনাচার দুর্ভিক্ষ জন্মিল ।</div>
+                                <div class="l">ডাকা চুরি অনাবৃষ্টি মড়ক লাগিল ।।</div>
+                                <div class="l">উচ্ছন্ন হইল দেশ অরিষ্ট দেখিয়া ।</div>
+                                <div class="l">নানা দেশে সর্বলোক গেল পালাইয়া ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e306">[Page 11]</div>
+                                <div class="l">নীলাম্বর চক্রবর্তী মিশ্র জগন্নাথে ।</div>
+                                <div class="l">সবান্ধবে জয়পুরে ছাড়িল উৎপাতে ।।</div>
+                                <div class="l">কোন দেশে রহিব সভার অনুমান ।</div>
+                                <div class="l">এ দেশে না পাব রক্ষা চল অন্যস্থান ।।</div>
+                                <div class="l">আমা সভার বসতি যোগ্য গঙ্গার কুলে ।</div>
+                                <div class="l">নন্দ যেন উৎপাতে ছাড়িলেন গোকুলে ।।</div>
+                                <div class="l">পূর্বে মোরে কয়্যাছিল এক যতিরাজ ।</div>
+                                <div class="l">এ দেশ ছাড়িয়া যাহ নদীয়া সমাঝ ।।</div>
+                                <div class="l">অনাচার দেশে বসতি যোগ্য নহে ।</div>
+                                <div class="l">শ্রীহট্টে উত্তম জন তিলার্ধ না রহে ।।</div>
+                                <div class="l">কৃষ্ণ আর্তি রতি মতি সমাজে বসতি ।</div>
+                                <div class="l">তীর্থ প্রীতে ং্যান প্রীতে জিতেন্দ্রিয় যতি ।।</div>
+                                <div class="l">গঙ্গা বৈষ্ণব মহাপ্রসাদে বিশ্বাস ।</div>
+                                <div class="l">অল্প ভাগ্যে নহে লোক এসব প্রকাশ ।।</div>
+                                <div class="l">গঙ্গাস্নান করিব বসে নবদ্বীপে ।</div>
+                                <div class="l">বৈকুণ্ঠে নিবাস আর কিবা জপতপে ।।</div>
+                                <div class="l">দিব্য দোলা চড়ি মিশ্র সবান্ধবে আসি ।।</div>
+                                <div class="l">গঙ্গা নবদ্বীপ দেখে প্রেমানন্দে ভাসি ।</div>
+                                <div class="l">ভূমি স্বর্গ নবদ্বীপ পৃথিবীমণ্ডলে ।</div>
+                                <div class="l">নানা বর্গে লোক বসে জাহ্নবীর কুলে ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যচন্দ্রচরণকমলে ।</div>
+                                <div class="l">জয়ানন্দানন্দে গাএ প্রভুর মঙ্গল ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.3">
+                            <div class="pagebreak" id="index.xml-pb-d62e332">[Page 11]</div>
+                            <header>
+                                <h1><span class="headingNumber">3. </span><span class="head">নদীয়া-৩</span></h1>
+                            </header>
+                            <div class="byline">সুই রাগ ।</div>
+                            <div id="fp_00203_003" class="lg">
+                                <div class="l">নানা চিত্রে ধাতু বিচিত্র নগরী</div>
+                                <div class="l">নানা জাতি বস্যে তথা ।</div>
+                                <div class="l">চূর্ণ বিলেপিত দেউল দেহারা</div>
+                                <div class="l">নানা বর্ণে বৃক্ষলতা ।।</div>
+                                <div class="l">জয় জয় ধন্য নদীয়া নগরী</div>
+                                <div class="l">অলকানন্দার কুলে ।</div>
+                                <div class="l">কমলা ভাবিনী ক্রীড়া করে তথি</div>
+                                <div class="l">রাজিত বকুল মালে ।।</div>
+                                <div class="l">প্রতি ঘরের উপরি বিচিত্র কলস</div>
+                                <div class="l">চঞ্চল পতাকা উড়ে ।</div>
+                                <div class="l">পূর্বে যেন ছিল অযোধ্যা নগরী</div>
+                                <div class="l">বিজুরী ছটাক পড়ে ।।</div>
+                                <div class="l">নাট পাঠশাল দীঘি সরোবর </div>
+                                <div class="l">কুপ তড়াগ সোপান ।</div>
+                                <div class="l">মঠ মন্ডপ সুযন্ত্রিত চত্বর</div>
+                                <div class="l">কুন্দ তুলসী উদ্যান ।।</div>
+                                <div class="l">প্রতি দ্বারে শোভে বিচিএ কপাট</div>
+                                <div class="l">প্রতি কুলী পড়ে হাট ।</div>
+                                <div class="l">প্রতি কুলী নৃত্য গীত আনন্দিত</div>
+                                <div class="l">প্রতি ঘরে বেদপাঠ ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e357">[Page 12]</div>
+                                <div class="l">দ্বিজরূপ ধরি দেবতা গন্ধর্ব</div>
+                                <div class="l">জন্ম লভিল নবদ্বীপে ।</div>
+                                <div class="l">হআ দ্বিজ নারী ইন্দ্র বিদ্যাধরী</div>
+                                <div class="l">সঙ্গীত গঙ্গার সমীপে ।।</div>
+                                <div class="l">স্বর্গ ছাড়ি যত গন্ধর্ব মন্ডলী</div>
+                                <div class="l">জন্মিল বৈদ্য বনিতা ।</div>
+                                <div class="l">দেব ঋষি মুনি দ্বিজ রূপ ধরি</div>
+                                <div class="l">অধ্যয়ন শ্রুতি গীতা ।।</div>
+                                <div class="l">গোধুলি সমএ মৃদঙ্গ পাখা তহি</div>
+                                <div class="l">চন্দ্রাতপ শোভে করে।।</div>
+                                <div class="l">ইষ্টকা রচিত প্রাচীর প্রাঙ্গন </div>
+                                <div class="l">সুযন্ত্রিত গৃহ দ্বার ।।</div>
+                                <div class="l">হিঙ্গুল হরিতালে কাচ ঢাল </div>
+                                <div class="l">চৌখন্ডী চৌকার শাল ।</div>
+                                <div class="l">শালে রসাল বিশালক স্তম্ভ</div>
+                                <div class="l">রাজিত চন্দ্রার্ক তিলাকে ।</div>
+                                <div class="l">ময়ূর শুক সারস পারাবত</div>
+                                <div class="l">সিংহ হংস পাখা ।</div>
+                                <div class="l">বিচিত্র চামর চন্দ্রাতপ</div>
+                                <div class="l">প্রতি ঘরে সুন্দর শাখা ।।</div>
+                                <div class="l">ডাবর বাটা গুবাক সম্পুট</div>
+                                <div class="l">দর্পণ রসবাটিকা ।</div>
+                                <div class="l">তাম্র হান্ডি রস পিত্তল কলস</div>
+                                <div class="l">বারানসীর ত্রিপদিকা ।।</div>
+                                <div class="l">শঙ্খ বাটাবাটি সরঙ্গি থাল</div>
+                                <div class="l">রসময় সব খুরি ।</div>
+                                <div class="l">তিরোহিত গাড়ু তাম্র মুখারস মন্ডল</div>
+                                <div class="l">শীতল পিত্তল ঝারি ।।</div>
+                                <div class="l">পাষাণ ভাজন অতি সুগঠন </div>
+                                <div class="l">খড়িকা রঙ্গিকা পড়া ।</div>
+                                <div class="l">উড়িআ গৌড়িয়া কুলুপা চিরনি</div>
+                                <div class="l">বিচিত্র শাঁপুড়া ।।</div>
+                                <div class="l">টাড় গাঁঠ্যা কড়ি হিরন্য মাদুলী</div>
+                                <div class="l">কেয়ূর কঙ্কন রত্ন নূপুরে ।</div>
+                                <div class="l">হেম কিআ পাতা বিদ্রুম মুকুতা</div>
+                                <div class="l">কাশ্মীর দেশের খুরে ।।</div>
+                                <div class="l">তবক বসর পান কাটা কাঞ্চী</div>
+                                <div class="l">দেশের বিচিত্র বেণী ।</div>
+                                <div class="l">পাটানেত ভোট সকলাত কম্বল</div>
+                                <div class="l">শ্রীরাম খানি জমখা ।</div>
+                                <div class="l">ভোট্ট দেশের ইন্দ্রনীলমণি</div>
+                                <div class="l">লক্ষ্মীবিলাস তারকা ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e404">[Page 13]</div>
+                                <div class="l">লেখিতে না পারি দাস দাসী যত</div>
+                                <div class="l">মিশ্রের মন্দিরে খাটে ।</div>
+                                <div class="l">যে যে দ্রব্য সব ভুবনদুর্লভ</div>
+                                <div class="l">বিকাএ নদ্যার হাটে ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্য গদাধর প্রাণনাথ</div>
+                                <div class="l">পদপঙ্কজ মকরন্দে ।</div>
+                                <div class="l">চৈতন্য মঙ্গল নিগম নিগূঢ়</div>
+                                <div class="l">গাএ দ্বিজ জয়ানন্দে ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.4">
+                            <div class="pagebreak" id="index.xml-pb-d62e415">[Page 13]</div>
+                            <header>
+                                <h1><span class="headingNumber">4. </span><span class="head">নদীয়া-৪</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div id="fp_00203_004" class="lg">
+                                <div class="l">ধন্য ধন্য সপ্তদ্বীপ মধ্যে জম্বুদ্বীপ ।</div>
+                                <div class="l">ধন্য ধন্য গৌড় দেশ উৎকল সমীপ ।।</div>
+                                <div class="l">একচাকা খলকপুর পদ্মাবতী কক্ষে ।</div>
+                                <div class="l">জন্মিলা অনন্ত মাঘ মাসে শুক্ল পক্ষে ।।</div>
+                                <div class="l">জাতকর্ম করিয়া ঠাকুরে নাম থুইল ।</div>
+                                <div class="l">বালক্রীড়া করি কত আত্ম প্রকাশিল ।।</div>
+                                <div class="l">উন্মাদ বৈরাগ্য মহা ঔদ্ধত্য দেখিয়া ।</div>
+                                <div class="l">শাস্ত্র শালে পড়াইল যজ্ঞসুত্র দিয়া ।।</div>
+                                <div class="l">মাতা পিতা ভ্রাতা কত দেখিল প্রকাশ ।</div>
+                                <div class="l">অষ্টাদশ বৎসরে ছাড়িল গৃহবাস ।।</div>
+                                <div class="l">প্রয়াগেতে যতিরাজ ঈশ্বরপুরী ।</div>
+                                <div class="l">সন্ন্যাস করিল তথা গুরু লক্ষ্য করি ।</div>
+                                <div class="l">অবধূত প্রেমে নিত্যানন্দ নাম ধরি ।।</div>
+                                <div class="l">কাশীপুরে রহিলা সকল তীর্থ করি ।</div>
+                                <div class="l">বঙ্গে বামনবলা গ্রাম লভ্যবতী ঠাকুরাণী ।</div>
+                                <div class="l">তার গর্ভে জন্মিল অদ্বৈত শিরোমণি ।।</div>
+                                <div class="l">কমলাক্ষ নাম সুতিকাগৃহ বাসে ।</div>
+                                <div class="l">সুপ্রকাশে অদ্বৈত পদবী হবে শেষে ।।</div>
+                                <div class="l">শচীগর্ভে অষ্টকন্যা যথাকালে হৈল </div>
+                                <div class="l">দৈব নিবন্ধে দিন কথোকাল গেল ।।</div>
+                                <div class="l">জগন্নাথ মিশ্র হইল মিশ্র পুরন্দ্র ।</div>
+                                <div class="l">সৎকবি পন্ডিত মহা তার্কিক সুন্দর ।।</div>
+                                <div class="l">উগ্রতপ দেখি সর্বলোক চমৎকার ।</div>
+                                <div class="l">স্নান সন্ধ্যা নিত্য শ্রাদ্ধ দেব আচার ।।</div>
+                                <div class="l">বলি হোম জপ সন্ধ্যা পূজা ধূপ দীপে ।</div>
+                                <div class="l">শ্রীভাগবত পাঠ গোবিন্দ সমীপে ।।</div>
+                                <div class="l">আর এক পুত্র হৈল বিশ্বরূপ নামে ।</div>
+                                <div class="l">দুর্ভিক্ষ জন্মিল বড় নবদ্বীপ গ্রামে ।।</div>
+                                <div class="l">নিরবধি ডাকা চুরি অরিষ্ট দেখিয়া ।</div>
+                                <div class="l">নানা দেশে সর্বলোক গেল পালাইয়া ।।</div>
+                                <div class="l">তবে জগন্নাথ মিশ্র দেখিয়া কৌতুকে ।</div>
+                                <div class="l">বিশ্বরূপ দশকর্ম করিল একে একে ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e453">[Page 14]</div>
+                                <div class="l">আচম্বিতে নবদ্বীপে হৈল রাজভয় ।</div>
+                                <div class="l">ব্রাহ্মণ ধরিয়া রাজা জাতি প্রাণ লয় ।।</div>
+                                <div class="l">নবদ্বীপে শঙ্খধ্বনি শুনে যার ঘরে ।</div>
+                                <div class="l">ধন প্রাণ লএ তার জাতি নাশ করে ।।</div>
+                                <div class="l">কপালে তিলক দেখে যজ্ঞ সুত্র কান্ধে ।</div>
+                                <div class="l">ঘর দ্বার লুটে তার লৌহপাশে বান্ধে ।।</div>
+                                <div class="l">দেউল দেহারা ভাঙ্গে উপাড়ে তুলসী ।</div>
+                                <div class="l">জীবনভএ স্থির নহে নবদ্বীপে বাসী ।।</div>
+                                <div class="l">গঙ্গাস্নানে বিরোধিল হাট ঘাট যত ।</div>
+                                <div class="l">অশ্বত্থ পনস বৃক্ষ কাটে শত শত ।।</div>
+                                <div class="l">পিরল্যা গ্রামেতে বস্যে যতেক যবনে ।</div>
+                                <div class="l">উচ্ছন্ন করিল নবদ্বীপের ব্রাহ্মণে ।।</div>
+                                <div class="l">ব্রাহ্মণে যবনে বাদ যুগে যুগে আছে ।</div>
+                                <div class="l">বিষম পিরল্যা গ্রাম নবদ্বীপ কাছে ।।</div>
+                                <div class="l">গৌড়েশ্বর বিদ্যমানে দিল মিথ্যাবাদ ।</div>
+                                <div class="l">নবদ্বীপের বিপ্র তুমার করিব প্রমাদ ।।</div>
+                                <div class="l">গৌড়ে ব্রাহ্মণ রাজা হবে হেন আছে ।</div>
+                                <div class="l">নিশ্চিন্তে না থাকিহ প্রমাদ হএ পাছে ।।</div>
+                                <div class="l">নবদ্বীপের ব্রাহ্মণ অবশ্য হব রাজা ।</div>
+                                <div class="l">গন্ধর্বে লিখন আছে ধনুর্ময় প্রজা ।।</div>
+                                <div class="l">এই মিথ্যা কথা রাজার মনেতে লাগিল ।</div>
+                                <div class="l">নদীয়া উচ্ছন্ন কর রাজা আজ্ঞা দিল ।।</div>
+                                <div class="l">বিশারদসুত সার্বভৌম ভট্টাচারয্য ।</div>
+                                <div class="l">সবংশে উৎকল গেল ছাড়ি গৌড় রাজ্য ।।</div>
+                                <div class="l">উৎকলে প্রতাপ্ররুদ্র ধনুর্ময় রাজা ।</div>
+                                <div class="l">রত্নসিংহাসনে সার্বভৌমের কৈল পূজা ।।</div>
+                                <div class="l">তার ভ্রাতা বিদ্যাবাচস্পতি গৌড়ে বসি ।</div>
+                                <div class="l">বিশারদ নিবাস করিল বারাণসী ।।</div>
+                                <div class="l">বিদ্যাবিরিঞ্চি বিদ্যারণ্য নবদ্বীপে ।</div>
+                                <div class="l">ভট্টাচারয্যশিরোমণি সভার সমীপে ।।</div>
+                                <div class="l">নদীয়া উচ্ছন্ন হৈল শুনি গৌড়েশ্বর ।</div>
+                                <div class="l">রাত্রিকালে স্বপ্ন দেখে মহা ঘোরতর ।।</div>
+                                <div class="l">কালী খড়গ খর্পরধারিণী দিগম্বরী ।</div>
+                                <div class="l">মুণ্ডমালা গলে কাট কাট শব্দ করি ।।</div>
+                                <div class="l">ধরিআ রাজার কেশে বুকে মারি শেল ।</div>
+                                <div class="l">কর্ণরন্ধ্রে নাসারন্ধ্রে ঢালে তপ্ত তেল ।।</div>
+                                <div class="l">আজি তোর গঙ্গায় পেলামু গৌড় পাট ।</div>
+                                <div class="l">সবংশে কাটিমু তোর হস্তী ঘোড়া ঠাট ।।</div>
+                                <div class="l">গৌড়েন্দ্র বলেন মাতা মোর দেহে থাক ।</div>
+                                <div class="l">নবদ্বীপ বসাইব আজি প্রাণ রাখ ।।</div>
+                                <div class="l">নাকে খত দিল রাজা তবে কালী ছাড়ে ।</div>
+                                <div class="l">মুর্ছা গেলা গৌড়েন্দ্র ধরণী তলে পড়ে ।।</div>
+                                <div class="l">প্রভাতে কহিল স্বপ্ন রাজবিশ্বাসে ।</div>
+                                <div class="l">শুনিঞা আশ্চর্জ্য স্বপ্ন সর্বলোকে ত্রাসে ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e503">[Page 15]</div>
+                                <div class="l">গৌড়েন্দ্রর আজ্ঞা নবদ্বীপ সুখে বসু ।</div>
+                                <div class="l">রাজকুর নাঞি সর্বলোক চাষ চষু ।।</div>
+                                <div class="l">আজি হইতে হাট ঘাট বিরোধ যে করে ।</div>
+                                <div class="l">রাজকর দন্ডী হএ ত্রিশূল সে পরে ।।</div>
+                                <div class="l">দেউল দেহারা ভাঙ্গে অশ্বত্থ যে কাটে ।</div>
+                                <div class="l">ত্রিশূল চড়াহ তারে নদীয়ার হাটে ।।</div>
+                                <div class="l">বৈদ্য ব্রাহ্মণ যত নবদ্বীপে বস্যে ।।</div>
+                                <div class="l">নানা মহোৎসব করুক মনের সন্তোষে ।।</div>
+                                <div class="l">নাটগীত বাদ্য বাজুক প্রতি ঘরে ঘরে ।</div>
+                                <div class="l">কলসে পতাকা উড়ূক মন্দির উপরে ।।</div>
+                                <div class="l">পুষ্পের বাজার পড়ূ গন্ধের উভার ।</div>
+                                <div class="l">শঙ্খ ঘন্টা বাজুক যন্ত্র জয়কার ।।</div>
+                                <div class="l">পূর্বে যেন ছিল নবদ্বীপ রাজধানী ।</div>
+                                <div class="l">তাহাকে শতেক গুণ অধিক যেন শুনি ।।</div>
+                                <div class="l">নবদ্বীপ সীমাএ যবন যদি দেখ ।</div>
+                                <div class="l">আপন ইৎসাএ মার প্রাণে পাছে রাখ ।।</div>
+                                <div class="l">দেবপূজা কর সুখে য হোম দান ।</div>
+                                <div class="l">হাটঘাট মানা নাঞি কর গঙ্গাস্নান ।।</div>
+                                <div class="l">নবদ্বীপের প্রজাএ কি মোর অধিকার ।</div>
+                                <div class="l">সত্য সত্য বলি আমি সংসারের সার ।।</div>
+                                <div class="l">রাজার আজ্ঞা এ নবদ্বীপ পুন সৃষ্টি ।</div>
+                                <div class="l">শরৎকালে রাত্রিশেষে হইল পুষ্পবৃষ্টি ।।</div>
+                                <div class="l">মহা মহা জন যে ছাড়িআছিল গ্রাম ।</div>
+                                <div class="l">আল্যা সভে হআ পূর্ণকাম ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে নদীয়াখণ্ড রচে জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.5">
+                            <div class="pagebreak" id="index.xml-pb-d62e533">[Page 19]</div>
+                            <header>
+                                <h1><span class="headingNumber">5. </span><span class="head">নদীয়া-৯</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div class="byline">বারাড়ি রাগ</div>
+                            <div id="fp_00203_005" class="lg">
+                                <div class="l">কেন বা কান্দ বাছা ঘন দুধ তোল ।</div>
+                                <div class="l">কলেতে না রহ আঁখি না মেল ।।</div>
+                                <div class="l">না জানি হইল কোন উদরে ব্যথা ।</div>
+                                <div class="l">কত না খায় তুমি মাএর মাথা ।।</div>
+                                <div class="l">ও না আয় আয় ।</div>
+                                <div class="l">কি লাগি কান্দে মোর গৌরাঙ্গ রায় ।</div>
+                                <div class="l">ছাঁদন অঙ্গখানি দেখিল কে ।</div>
+                                <div class="l">না জানি পাইল কোন দানব দে ।।</div>
+                                <div class="l">মুখে না দেহ স্তন তপত গা ।</div>
+                                <div class="l">কথা না পাইল পুতের উপর বা ।।</div>
+                                <div class="l">মাএর দুঃখ দেখি গৌরাঙ্গ চান্দে </div>
+                                <div class="l">কোলেতে নিন্দ গেল আর না কান্দে ।।</div>
+                                <div class="l">শচী ঠাকুরানীর মনে হইল ইৎসা ।</div>
+                                <div class="l">জয়ানন্দ বলে প্রভুর কান্দনা মিছা ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.6">
+                            <div class="pagebreak" id="index.xml-pb-d62e554">[Page 20]</div>
+                            <header>
+                                <h1><span class="headingNumber">6. </span><span class="head">নদীয়া-১১</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div id="fp_00203_006" class="lg">
+                                <div class="l">আর দিন প্রভাতে বালক সব সঙ্গে ।</div>
+                                <div class="l">সুরনদীতীরে বালক্রীড়া করে রঙ্গে ।।</div>
+                                <div class="l">খাট পাট সিংহাসনে বালির আওাশ ।</div>
+                                <div class="l">বালির দেবালয় কেহো করএ প্রকাশ ।।</div>
+                                <div class="l">বালির দেবালএ অন্ন ব্যঞ্জন রন্ধন ।</div>
+                                <div class="l">বালির গোপীনাথে কেহ করে নিবেদন ।।</div>
+                                <div class="l">কেহ কেহ বলে ভাই মহাপ্রসাদ খাই ।</div>
+                                <div class="l">কেহো বলে কয়া খেড়ি খেলি আইস ভাই ।।</div>
+                                <div class="l">চৌদিগে বালক সব গঙ্গাজলে ভাসে ।</div>
+                                <div class="l">মাঝে গৌরাঙ্গ চান্দ করিল প্রকাশে ।।</div>
+                                <div class="l">প্রেমে আকুল গঙ্গা জন নাঞি চলে ।</div>
+                                <div class="l">প্রদক্ষিণ করে গঙ্গা তরঙ্গের ছলে ।।</div>
+                                <div class="l">এথা শচী থাকুরানী ঘরে ঘরে চায়্যা ।</div>
+                                <div class="l">সুরনদী তীরে গেলা উদ্দেশ পাইয়া ।।</div>
+                                <div class="l">রজনী প্রভাতে আইলে ক্রীড়া করিবারে ।</div>
+                                <div class="l">সপ্ত ঘটী হইল কেন না আস মন্দিরে ।</div>
+                                <div class="l">আমার বাপের ঠাকুর হাপুতির বাছা ।</div>
+                                <div class="l">ও মোর গোশারি প্রাণ শচীগর্ভ সাঁচা ।।</div>
+                                <div class="l">ও মোর অমূল্য ধন ও মোর ধিআন ।</div>
+                                <div class="l">ও মোর ঘরের ঠাকুর ও মোর পরান ।।</div>
+                                <div class="l">মাএর বিলাপ শুনি দয়া উপজিল ।</div>
+                                <div class="l">কয়া খেড়ি সঙ্কলিয়া মন্দিরে চলিল ।।</div>
+                                <div class="l">রাজপথ দিয়া নিজ গৃহ প্রবেশিতে ।</div>
+                                <div class="l">হুঙ্কার দিআ পড়ে উচ্ছিষ্ট কুন্ডেতে ।।</div>
+                                <div class="l">সকল উচ্ছিষ্ট হাঁড়ি একত্র করিয়া ।</div>
+                                <div class="l">ব্রহ্ম বাখানিল তার উপরে বসিয়া ।।</div>
+                                <div class="l">সর্বভুত সম করি আত্মবৎ দয়া ।</div>
+                                <div class="l">পুরীষ চন্দন ভেদ এই সব মায়া ।।</div>
+                                <div class="l">যত দিন এ সব প্রকাশ নহে দেহে ।</div>
+                                <div class="l">ততদিন সংসার আচারভ্রষ্ট নহে ।।</div>
+                                <div class="l">এত অনুভব ইহা কহিল বিশেষে ।</div>
+                                <div class="l">রড় দিয়া স্তন পিয়া শচীকোলে হাসে ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e592">[Page 21]</div>
+                                <div class="l">চিন্তিয়া চৈতন্য গদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে নদীয়াখণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.7">
+                            <div class="pagebreak" id="index.xml-pb-d62e597">[Page 24]</div>
+                            <header>
+                                <h1><span class="headingNumber">7. </span><span class="head">নদীয়া-১৮</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div class="byline">সিন্ধুড়া</div>
+                            <div id="fp_00203_007" class="lg">
+                                <div class="l">পাটের ধড়া পাটের থোপা </div>
+                                <div class="l">সোনারূপার কাঁঠি ।</div>
+                                <div class="l">মণি মুকুতা প্রবাল হার</div>
+                                <div class="l">মদনমোহন লাঠি ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e606">[Page 25]</div>
+                                <div class="l">কনক চাঁপার জুতি অঙ্গ</div>
+                                <div class="l">ঝলমল করে ।</div>
+                                <div class="l">রূপ দেখিয়া মদন চান্দ</div>
+                                <div class="l">ক্ষেণে জীএ মরে ।।</div>
+                                <div class="l">আর নাহি খেলাতে জাএ</div>
+                                <div class="l">নগর চাতরে ।</div>
+                                <div class="l">ছাল্যা ধরা রাজার দূত </div>
+                                <div class="l">ফিরে ঘরে ঘরে ।।</div>
+                                <div class="l">আবির চন্দন কুমকুম চূড়া</div>
+                                <div class="l">শ্রীঅঙ্গে সৌরভে ।</div>
+                                <div class="l">ঝাঁকে ঝাঁকে ভ্রমর উড়্যা</div>
+                                <div class="l">বুলে মধুলোভে ।।</div>
+                                <div class="l">কত সৌদামিনী তোমার</div>
+                                <div class="l">অঙ্গে ঝলকে ।</div>
+                                <div class="l">রূপ দেখিয়া কুলবধূ </div>
+                                <div class="l">ঘরে নাঞি থাকে ।।</div>
+                                <div class="l">চাঁচর কেশে বকুল মালা</div>
+                                <div class="l">বদন সুধানিধি ।</div>
+                                <div class="l">কত অনুমানি তুমা</div>
+                                <div class="l">নিরমাইল বিধি ।।</div>
+                                <div class="l">জয়ানন্দ বলে শুন শচীঠাকুরানী ।</div>
+                                <div class="l">মুঞি মরিআ জাঙ তুমার পুত্রের নিছনি ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.8">
+                            <div class="pagebreak" id="index.xml-pb-d62e632">[Page 27]</div>
+                            <header>
+                                <h1><span class="headingNumber">8. </span><span class="head">নদীয়া-২১</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div id="fp_00203_008" class="lg">
+                                <div class="l">আর একদিন নবদ্বীপের ভিতরে ।</div>
+                                <div class="l">শিশুগণ সঙ্গে গৌর খেলে ঘরে ঘরে ।।</div>
+                                <div class="l">অনেক বালক সংখ্যা করিতে না পারি ।</div>
+                                <div class="l">কুকুরের ছা এক রড় দিয়া ধরি ।।</div>
+                                <div class="l">আলিঙ্গন দিয়া তীরে বলে দয়ানিধি ।।</div>
+                                <div class="l">এতদিনে তুমারে প্রসন্ন হইল বিধি ।।</div>
+                                <div class="l">গঙ্গাদাস বলি তার নাম থুইল ।</div>
+                                <div class="l">শিকলে বান্ধিআ তার ঘৃতান্নে পুষিল ।।</div>
+                                <div class="l">যথা গৌরাঙ্গ শিশু তথা গঙ্গাদাস ।</div>
+                                <div class="l">তার মুখে হরিনাম করিল প্রকাশ ।।</div>
+                                <div class="l">হরি বল গঙ্গাদাস গৌরচন্দ্র ডাকে ।</div>
+                                <div class="l">হরি ধ্বনি শুনি কুকুর কোথাহ না থাকে ।।</div>
+                                <div class="l">প্রভু বলে এ কুকুর আছিল ব্রাম্ভণ ।</div>
+                                <div class="l">বৈষ্ণবনিন্দক বড় পরায়ণ ।।</div>
+                                <div class="l">বৈষ্ণব মাগিল অন্ন না দিলেক তারে ।</div>
+                                <div class="l">বেদনিন্দ্য শূদ্রে অন্ন খাব মোর ঘরে ।।</div>
+                                <div class="l">বৈষ্ণব ভান্ডি সে দ্বিজে করিল আলাপ ।</div>
+                                <div class="l">সেই ক্রোধে বৈষ্ণব ব্রাম্ভণে দিল শাঁপ ।।</div>
+                                <div class="l">প্রলাপে বৈষ্ণবে দ্বিজ উচ্ছিষ্টান্ন দিল</div>
+                                <div class="l">সেই শাপে নবদ্বীপে কুকুর হইল ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e657">[Page 28]</div>
+                                <div class="l">গৌরচন্দ্র ভোজন করিয়া অবশেষ ।</div>
+                                <div class="l">কর্মবন্ধ কুক্কুরের পাপ হইল শেষ ।।</div>
+                                <div class="l">উচ্ছিষ্টান্ন খাইয়া কুকুর গঙ্গাদাস ।</div>
+                                <div class="l">পূর্ব অপরাধ তার সব হৈল নাশ ।।</div>
+                                <div class="l">কথোদিনে কুকুরের শাপান্ত ঘুচিল ।</div>
+                                <div class="l">গঙ্গাএ প্রাণ ছাড়ি কুকুর মুক্ত হইল ।।</div>
+                                <div class="l">আশ্চর্য দেখিঞা নবদ্বীপ লোকে ত্রাস ।</div>
+                                <div class="l">গৌরাঙ্গপ্রসাদে মুক্ত কুকুর গঙ্গাদাস ।।</div>
+                                <div class="l">অসীম চৈতন্যলীলা শুনিতে সুছন্দ ।</div>
+                                <div class="l">গঙ্গাদাস কুকুর ছাড়িল ভবনন্দ ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্য গদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে নদীয়াখণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.9">
+                            <div class="pagebreak" id="index.xml-pb-d62e672">[Page 32]</div>
+                            <header>
+                                <h1><span class="headingNumber">9. </span><span class="head">নদীয়া-২৫</span></h1>
+                            </header>
+                            <div class="byline">তত দিশা কথা ।</div>
+                            <div id="fp_00203_009" class="lg">
+                                <div class="l">জয় জয় ।।</div>
+                                <div class="l">গৌরচন্দ্রে ভিক্ষা জে দিল নরনারী ।</div>
+                                <div class="l">জন্ম জন্ম লক্ষ্মী তার না ছাড়িব গারি ।।</div>
+                                <div class="l">নীলাম্বর চক্রবর্তী জংগ্যে পূর্ণা দিল ।</div>
+                                <div class="l">অভিষেক তিলক দক্ষিণা উৎসর্গিল ।।</div>
+                                <div class="l">মৌনব্রতী হআ গৌরচন্দ্র গৃহে রহি ।</div>
+                                <div class="l">হবিষ্যান্ন ভোজন করাল্য মাতামহী ।।</div>
+                                <div class="l">দিব্য সিংহাসনে নিদ্রা গেলা বিশ্বম্ভর ।</div>
+                                <div class="l">প্রাতঃ সন্ধ্যা করাইল মিশ্র পুরন্দর ।।</div>
+                                <div class="l">দৈব রমনী দ্বিজ রমনী অনেক ।</div>
+                                <div class="l">পঞ্চকষাএ দ্বিজ পঞ্চামৃত করি অভিষেক ।।</div>
+                                <div class="l">মধ্যাহ্ন সমএ করিহ হবিষ্য ভোজনে ।</div>
+                                <div class="l">অপরাহ্নে সন্ধ্যা কুশশয্যাএ শয়নে ।।</div>
+                                <div class="l">হবিষ্যান্ন ভোজন ত্রিসন্ধ্যা প্রতিদিনে ।</div>
+                                <div class="l">পাসরিল বাল্যক্রীড়া কীর্তন শ্রবনে ।।</div>
+                                <div class="l">ব্রহ্মচারী হইল তুমি হবিষ্যান্ন খায় ।</div>
+                                <div class="l">আমি পড়ি তুমি কেন পড়িতে না জায় ।।</div>
+                                <div class="l">আজি তুমি কোন পুস্তক না লেখ ।</div>
+                                <div class="l">তিন দিবস শূদ্র মুখ নাঞি দেখ ।।</div>
+                                <div class="l">শিশুর বচন শুনি হাসে গৌরচন্দ্র ।</div>
+                                <div class="l">ঠারে কহিল মাএ করিয়া প্রবন্ধে ।।</div>
+                                <div class="l">তিন মোয়া দুগ্ধ লাড়ু সভাকারে দেহ ।</div>
+                                <div class="l">মাল্য চন্দনে তুষিআ সভারে পাঠাহ ।।</div>
+                                <div class="l">এই মতে সভে প্রবোধিল শচীমাতা ।</div>
+                                <div class="l">তবে শচী মাএরে কহিল সর্বকথা ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e703">[Page 33]</div>
+                                <div class="l">সাত দিবস ছিল মৌনব্রত হয়্যা ।</div>
+                                <div class="l">অষ্ট দিনে মৌন ভাঙ্গে গুরু আঞগ্যা লয়া ।</div>
+                                <div class="l">সুদর্শন গঙ্গাদাস দুই বিদ্যাগুরু ।</div>
+                                <div class="l">আশীর্বাদ দিতে আইলা রত্নমালা ছিরু ।।</div>
+                                <div class="l">গুরু গুরুপত্নীরে হইলা নমস্কার ।</div>
+                                <div class="l">দিব্যমূর্তি দেখি সভার মনে চমৎকার ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্য গদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে নদীয়াখণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.10">
+                            <div class="pagebreak" id="index.xml-pb-d62e714">[Page 64]</div>
+                            <header>
+                                <h1><span class="headingNumber">10. </span><span class="head">নদীয়া-৫৫</span></h1>
+                            </header>
+                            <div class="byline">কথা দিশা ।</div>
+                            <div id="fp_00203_010" class="lg">
+                                <div class="l">লক্ষ্মী ঠাকুরানী গৌরচন্দ্রের সেবা করি ।</div>
+                                <div class="l">না গেলা বাপের বাড়ি নদিয়া নগরী ।।</div>
+                                <div class="l">শাশুড়ির সেবা হৈতেঁ আন নাঞি মনে ।</div>
+                                <div class="l">গৌরাঙ্গচরণ ধ্যান করি রাত্রি দিনে ।।</div>
+                                <div class="l">একদিন গৌরাঙ্গ রন্ধনশালা গিয়া ।</div>
+                                <div class="l">মাএরে কহিল কিছু হাসিয়া হাসিয়া ।।</div>
+                                <div class="l">বৃদ্ধ শরীর তুমার কত দুঃখ পায় ।</div>
+                                <div class="l">তুমার বহু রান্ধে জদি তুমি অন্ন খায় ।</div>
+                                <div class="l">জদি বলি তুমার বহু তুমার সেবা করি ।</div>
+                                <div class="l">তুমার সেবায় লক্ষ্মী ভবার্ণবে তরি ।।</div>
+                                <div class="l">আজি হৈতে মা তুমি ছাড়হ রন্ধন ।</div>
+                                <div class="l">লক্ষ্মীর রন্ধনে করহ ভোজন ।।</div>
+                                <div class="l">ভাল ভাল করিআ করিল অঙ্গীকার ।</div>
+                                <div class="l">আজি হৈতে লক্ষ্মীর হব রন্ধনের ভার ।।</div>
+                                <div class="l">মাএর বচন শুনি গৌরচন্দ্র হাসে ।</div>
+                                <div class="l">ভোজন করাব কালি শ্রীহরিদাসে ।।</div>
+                                <div class="l">শ্রীনিবাস পন্ডিত ঠাকুর চারি ভাই ।</div>
+                                <div class="l">বাসুদেব মুকুন্দ দত্ত লেখক জগাই ।।</div>
+                                <div class="l">বক্রেশ্বর পন্ডিত ভগাই গঙ্গাদাসে ।</div>
+                                <div class="l">ভোজন করাই কালি পিষ্টক পায়সে ।।</div>
+                                <div class="l">সকল বৈষ্ণবে আজি দেহ নিমন্ত্রণ ।</div>
+                                <div class="l">লক্ষ্মীর রন্ধনে কালি সভার ভোজন ।।</div>
+                                <div class="l">রজনী প্রভাতে গৌরচন্দ্র আজ্ঞা দিল ।</div>
+                                <div class="l">দুখী দাসী মালিনীরে ডাকিয়া আনিল ।।</div>
+                                <div class="l">কেহো চালু কুটে কেহো নারিকেল কুরে ।</div>
+                                <div class="l">খিরি খিরাড়া কেহো দিয়া পিঠা পুরে ।।</div>
+                                <div class="l">কেহো মুগ পিশে কেহো দুগ্ধে দেয় জ্বাল ।</div>
+                                <div class="l">হলিদ্রা পিঠালি বাটে কেহো গুন্ডে ঝাল ।।</div>
+                                <div class="l">কেহো কাষ্ঠ আনে কেহো আনাজ পাখালে ।।</div>
+                                <div class="l">গঙ্গাজলে স্নান করে লক্ষ্মী ঠাকুরানী ।</div>
+                                <div class="l">পরিল বিচিত্র সরু দিব্য বস্ত্রখানি ।।</div>
+                                <div class="l">রন্ধনশালাএ প্রবেশিলা লক্ষ্মী মাতা ।</div>
+                                <div class="l">শচী ঠাকুরানী গেলা দেখাবারে তথা ।।</div>
+                                <div class="l">পঞ্চাশ ব্যাঞ্জন অন্ন রান্ধিল কৌতুকে ।</div>
+                                <div class="l">পিষ্টক পায়স অন্ন রান্ধিল একে একে ।।</div>
+                                <div class="l">তুলসী মঞ্জরী দিআ কৃষ্ণে নিবেদিল ।</div>
+                                <div class="l">সারি দিআ সকল বৈষ্ণবে বসাইল ।।</div>
+                                <div class="l">ঘৃতান্নে সভারে দিল শাক মুগ সুপ ।</div>
+                                <div class="l">ছেনা বড়ি লাফরা পটোল বস্তুক ।।</div>
+                                <div class="l">হিঙ্গ ঝাল ঝোল ভাজা তোলা কাঁজি বড়া ।</div>
+                                <div class="l">বড়াম্বু শর্করা নাড়ু মিঠামুখ বিড়া ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e762">[Page 65]</div>
+                                <div class="l">খিরি অমৃতগুটিকা খেবাড়া নবাত ।</div>
+                                <div class="l">মনোহর পুরি দুগ্ধপুলি দুগ্ধজাত ।।</div>
+                                <div class="l">আস্যা নারিকেল পুলি শাঁকর কাঁকরা ।</div>
+                                <div class="l">চন্দ্রকাতি পাএস পরমান্ন শর্করা ।।</div>
+                                <div class="l">গুটিকা ডালিমা মধু শ্রবাসাত পুলি ।</div>
+                                <div class="l">মন সন্তোষ নয়নসুখ গঙ্গাজল শিঅলি ।।</div>
+                                <div class="l">মচ্চ্যা ছেনা দুগ্ধ পুলি কোবা মুণ্ড শর ।</div>
+                                <div class="l">অনুপাম জগন্নাথ ভোগ সর্ব সুখসার ।।</div>
+                                <div class="l">পিঠা পানা ভোজনে বৈষ্ণবে সন্তোষিলা ।</div>
+                                <div class="l">মাল্য চন্দন দিয়া সভারে ভুষিলা ।।</div>
+                                <div class="l">কর্পূর তাম্বুল দিল দিল সরু বাস ।</div>
+                                <div class="l">কৃষ্ণকেলি দিয়া তুষ্ট কৈল শ্রীনিবাস ।।</div>
+                                <div class="l">লক্ষ্মী বিলাস দিল শ্রীহরিদাসে ।</div>
+                                <div class="l">সকল বৈষ্ণব গেলা নিজ নিজ বাসে ।।</div>
+                                <div class="l">এই মতে নবদ্বীপে বৈসে গৌরচন্দ্র ।</div>
+                                <div class="l">চৈতন্যমঙ্গল গীত রচে জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.11">
+                            <div class="pagebreak" id="index.xml-pb-d62e782">[Page 124]</div>
+                            <header>
+                                <h1><span class="headingNumber">11. </span><span class="head">বৈরাগ্য-২৪</span></h1>
+                            </header>
+                            <div class="byline">তত কথা দিশা ।</div>
+                            <div id="fp_00203_011" class="lg">
+                                <div class="l">আগম নিগম গীতা করঙ্ক কৌপীন ।</div>
+                                <div class="l">বৈরাগ্য সংসার ছাড়ি হৈলা উদাসীন ।।</div>
+                                <div class="l">সিংহাসন পালঙ্ক ছাড়িয়া ভূমিশয্যা ।</div>
+                                <div class="l">ছাড়িল বৃন্দার সেবা কৃষ্ণ পরিচর্যা ।।</div>
+                                <div class="l">লক্ষ্মীর বিলাস ছাড়ি তরুতলে বাস ।</div>
+                                <div class="l">বৈরাগ্য ছাড়িল ঝাঁট হইব সন্ন্যাস ।।</div>
+                                <div class="l">রত্ন কুন্ডল হার হিরণ্য মাদুলি ।</div>
+                                <div class="l">সুখময় বসন না পরে কৃষ্ণকেলি ।।</div>
+                                <div class="l">বিষ্ণুতৈল ছাড়ি প্রভু সুগন্ধি পরাগ ।</div>
+                                <div class="l">চাঁচর কেশ ধূলাএ ধুসর তিন ভাগ ।।</div>
+                                <div class="l">জে ঠাকুর দিব্য মালা পরে শতে শতে ।</div>
+                                <div class="l">সে প্রভু গলে ডোর নাম গ্রন্থ কতে ।।</div>
+                                <div class="l">জে অঙ্গে কীর্তনানন্দে ধূলাএ ধূসর ।।</div>
+                                <div class="l">সুবাসিত কর্পূর তাম্বুল যার মুখে ।</div>
+                                <div class="l">সে প্রভু হরিতুকি খাএ কোন সুখে ।।</div>
+                                <div class="l">মহাবৈরাগ্য দেখি পার্ষদে উন্মাদ ।</div>
+                                <div class="l">তা দেখি গৌরাঙ্গ সভাএ করিল প্রসাদ ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e804">[Page 125]</div>
+                                <div class="l">হেনকালে নিত্যানন্দ নবদ্বীপে আসি ।</div>
+                                <div class="l">সন্ন্যাসরহস্য যত গৌরাঙ্গে প্রকাশি ।।</div>
+                                <div class="l">শুনিয়া আনন্দ হইলা গৌরচন্দ্র ।</div>
+                                <div class="l">গঙ্গা পার হয়্যা আগে রৈলা নিত্যানন্দ ।।</div>
+                                <div class="l">মুকুন্দ দত্ত বৈদ্য গোবিন্দ কর্মকার ।</div>
+                                <div class="l">মোর সঙ্গে আস্য কাঁটোয়া গঙ্গাপার ।।</div>
+                                <div class="l">আচার্যরত্ন চন্দ্রশেখর আচার্য হরি ।</div>
+                                <div class="l">বাসুদেব দত্ত শুক্লাম্বর ব্রহ্মচারী ।।</div>
+                                <div class="l">বক্রেশ্বর পন্ডিত ভগাই গঙ্গাদাস ।</div>
+                                <div class="l">তুমা সভার বিদ্যামানে লইব সন্ন্যাস ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে বৈরাগ্যখণ্ড রচে জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.12">
+                            <div class="pagebreak" id="index.xml-pb-d62e820">[Page 159]</div>
+                            <header>
+                                <h1><span class="headingNumber">12. </span><span class="head">উৎকল -১৬</span></h1>
+                            </header>
+                            <div class="byline">প্রথম মহাপ্রসাদ মহিমা দিশা ।।</div>
+                            <div id="fp_00203_012" class="lg">
+                                <div class="l">একদিন চৈতন্য গোসাঞি সিংহদ্বারে ।</div>
+                                <div class="l">বৈষ্ণব মহিমা প্রকাশিল সভাকারে ।।</div>
+                                <div class="l">বৈষ্ণবের জন্ম কর্ম কে বলিতে পারে ।</div>
+                                <div class="l">বৈষ্ণবের জাতিভেদ কে বলিতে পারে ।</div>
+                                <div class="l">বৈষ্ণবের জাতিভেদ নাহিখ সংসারে ।</div>
+                                <div class="l">বৈষ্ণবের হৃদয়ে কৃষ্ণ সর্বদা বিহরে ।।</div>
+                                <div class="l">বৈষ্ণবের সঙ্গে কৃষ্ণ সতত রভস ।</div>
+                                <div class="l">বৈষ্ণবের স্তবে সে আপনি প্রভু বশ ।।</div>
+                                <div class="l">বৈষ্ণবের কুড়্যা ঘর কৃষ্ণের আলয় ।</div>
+                                <div class="l">বৈষ্ণবের শাক অন্ন কেবল সুধাময় ।।</div>
+                                <div class="l">বৈষ্ণবের খুদ মুষ্টি করঙ্কের জল ।</div>
+                                <div class="l">হাথ পাতি কৃষ্ণ তাহা নেন শকল ।।</div>
+                                <div class="l">বৈষ্ণবের তৃণশয্যা ছিড়া পাতে ভাত ।</div>
+                                <div class="l">ভোজনে শয়নে সুখ পান জগন্নাথ ।।</div>
+                                <div class="l">বৈষ্ণবের গুঞ্জাহার কৌস্তভ সমান ।</div>
+                                <div class="l">বৈষ্ণবের মৃত্তিকাভান্ডেতে জলপান ।।</div>
+                                <div class="l">বৈষ্ণবের কাশ্যাসন ফল হরিতকি ।</div>
+                                <div class="l">বৈষ্ণবের এ সব দ্রব্যেতেঁ কৃষ্ণ সুখি ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e843">[Page 160]</div>
+                                <div class="l">বৈষ্ণবের তালপত্র ছত্র গিরি ধরে ।</div>
+                                <div class="l">ইন্দ্র-রাজছত্রে দৃকপাত নাই করে ।।</div>
+                                <div class="l">নিম্বকাঠ ঘসিয়া বৈষ্ণব কৃষ্ণে দেন ।</div>
+                                <div class="l">অবৈষ্ণবের চুয়া চন্দন নাঞি নেন ।।</div>
+                                <div class="l">বৈষ্ণব যে দ্রব্য খান কৃষ্ণ তাহা খান ।</div>
+                                <div class="l">বৈষ্ণব জথারে জান কৃষ্ণ তথা জান ।।</div>
+                                <div class="l">বৈষ্ণব সন্তোষ হইলে কৃষ্ণের সন্তোষ ।</div>
+                                <div class="l">বৈষ্ণব নিন্দাএ বড় কৃষ্ণের আক্রোশ ।।</div>
+                                <div class="l">বৈষ্ণবের দুঃখে কৃষ্ণের বড় দুঃখ ।</div>
+                                <div class="l">বৈষ্ণব বিমুখ জারে কৃষ্ণ বিমুখ ।।</div>
+                                <div class="l">বৈষ্ণব চরণধূলা পড়ে জার ঘরে ।</div>
+                                <div class="l">সবংশে পবিত্র হয়্যা জাএ বৈকুণ্ঠেরে ।।</div>
+                                <div class="l">বৈষ্ণবের পাদোদক পড়ে জখা জথা ।</div>
+                                <div class="l">সে স্থানের অমঙ্গল না হএ সর্বথা ।।</div>
+                                <div class="l">বৈষ্ণব ভোজন হএ কৃষ্ণের ভোজন ।</div>
+                                <div class="l">বৈষ্ণব শয়নে হয় কৃষ্ণের শয়ন ।।</div>
+                                <div class="l">অবশ্য বৈষ্ণবের অন্ন মাগিয়া খাইব ।</div>
+                                <div class="l">তাহা না পাইলে তবে জল ফুটি খাব ।।</div>
+                                <div class="l">তাহা না খাইলে হএ বেদের নিন্দা ।</div>
+                                <div class="l">পার্থ যেত বৈষ্ণব স্যান্নং তদ্ভাবে জানি ভবেৎ ।। শ্লোক ।।</div>
+                                <div class="l">বৈষ্ণবের আলিঙ্গন লাগে জার গাএ ।</div>
+                                <div class="l">তাহার অঙ্গের পাপ রসাতল জাএ ।।</div>
+                                <div class="l">বৈষ্ণবের অঙ্গে মালা চন্দন জে দেই ।।</div>
+                                <div class="l">বৈষ্ণব-ভোজন শেষ পত্র জেবা নেই ।।</div>
+                                <div class="l">প্রদক্ষিণ হঞা দন্ডবৎ হএ ভুমে ।</div>
+                                <div class="l">গঙ্গাদি সকল তীর্থফল পাএ জথাক্রমে ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে উৎকলখণ্ড রচে জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.13">
+                            <div class="pagebreak" id="index.xml-pb-d62e876">[Page 193]</div>
+                            <header>
+                                <h1><span class="headingNumber">13. </span><span class="head">প্রকাশ-১০</span></h1>
+                            </header>
+                            <div class="byline">ততঃ কথা দিশা ।</div>
+                            <div id="fp_00203_013" class="lg">
+                                <div class="l">নীলাচলে চৈতন্য পারিষদ সঙ্গে বসি ।</div>
+                                <div class="l">রায় রামানন্দেরে কহিল প্রভু হাসি ।।</div>
+                                <div class="l">কৃষ্ণ হেন ঠাকুর না দেখি ত্রিজগতে ।</div>
+                                <div class="l">কৃষ্ণেরে ভজিল জীব নিস্তারে জে মতে ।।</div>
+                                <div class="l">কোন প্রকার করি জীব কৃষ্ণ জদি ভজে ।</div>
+                                <div class="l">কৃষ্ণেরে ভজিলে তারে ত্রিজগতে পুজে ।।</div>
+                                <div class="l">পরম বৈষ্ণব গোসাঞি নারদ ঠাকুর ।</div>
+                                <div class="l">যার নাম শ্রবণে পাতক জাএ দূর ।।</div>
+                                <div class="l">ইন্দ্রদ্যুম্ন মহারাজ তারে জিজ্ঞাসিল ।</div>
+                                <div class="l">ধ্বজারোপণ কথা নারদে কহিল ।।</div>
+                                <div class="l">সেই কথা শুন রামানন্দ রাএ ।</div>
+                                <div class="l">পাপী নিষ্পাপী মুক্ত কৃষ্ণের কৃপাএ ।।</div>
+                                <div class="l">পূর্বে সত্যযুগে এক রাজা চক্রবর্তী ।</div>
+                                <div class="l">সুমতি রাজার নাম ভার্য্যা সত্যবতী ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e895">[Page 194]</div>
+                                <div class="l">চন্দ্রবংশে জন্ম রাজা ধর্মে তৎপর ।</div>
+                                <div class="l">একছত্রি রাজা সপ্তদ্বীপের ভিতর ।।</div>
+                                <div class="l">পবিত্র ধার্মিক রাজা কৃষ্ণকথাএ রত ।</div>
+                                <div class="l">শান্ত দান্ত জিতেন্দ্রিয় সরবগুণান্বিত ।।</div>
+                                <div class="l">রাজা রাজমহিষী দুজনে জাতিস্মর ।</div>
+                                <div class="l">দেউল দেহারা মঠ জলার্থে তৎপর ।।</div>
+                                <div class="l">দিব্য দেবা দেবে রাজা কৃষ্ণসেবা করে ।</div>
+                                <div class="l">দম্পত্য সহিত নৃত্য জম্বুদ্বীপান্তরে ।।</div>
+                                <div class="l">সত্যবতী অনেক সতী সব সঙ্গে করি ।</div>
+                                <div class="l">দেবালয়ে নৃত্য করে লজ্জা পরিহরি ।।</div>
+                                <div class="l">সহস্রেক শিষ্য সঙ্গে বিভাণ্ডক মুনি ।</div>
+                                <div class="l">দেখিবারে গেলা রাজার প্রতিষ্ঠা শুনি ।।</div>
+                                <div class="l">দ্বাদশী দিনে রাজা ধ্বজা রোপণ করে ।</div>
+                                <div class="l">হেনকালে বিভাণ্ডক গেল রাজদ্বারে ।।</div>
+                                <div class="l">পাদ্য অর্ঘ্য আচমনী চন্দন মালা দিয়া ।</div>
+                                <div class="l">মুনিরে বসাল্য রাজা ষড়ঙ্গে পূজিয়া ।।</div>
+                                <div class="l">আজি মোর সুপ্রভাত হইল রজনী ।</div>
+                                <div class="l">মোর দেবালয়ে আইল বিভাণ্ডক মুনি ।।</div>
+                                <div class="l">আজি কৃত কৃত্য মোর সফল জীবন ।</div>
+                                <div class="l">মহাভাগ সঙ্গে মোর হৈল সন্দর্শন ।।</div>
+                                <div class="l">বিভাণ্ডক বলে আইস রাজা চক্রবর্তী ।</div>
+                                <div class="l">সপ্তদ্বীপের রাজা হইলে কোন পুণ্য শক্তি ।।</div>
+                                <div class="l">তুমার স্ত্রী সকল লজ্জা পরিহারি কেন বাঁচি ।</div>
+                                <div class="l">নিরবধি বিষ্ণুর মন্দির বেড়িল নাচি ।।</div>
+                                <div class="l">ইহার কারণ মোরে কহ নৃপবর ।</div>
+                                <div class="l">ধ্বজা রোপণে কেন এতেক তৎপর ।।</div>
+                                <div class="l">রাজা বলে কোন ধর্ম করি নাঞি আমি ।</div>
+                                <div class="l">আর জন্মে শূদ্র ছিলাঙ নাম মালিনী ।।</div>
+                                <div class="l">আমার পাপের কথা কহনে না জায় ।</div>
+                                <div class="l">নানা দেশে ভ্রমিল্যাঙ নাহিখ সহায় ।।</div>
+                                <div class="l">দেবতার দ্রব্য চুরি করি বিপ্রধন ।</div>
+                                <div class="l">মদ্য শূকর মাংসে বেউশ্যার সঙ্গম ।।</div>
+                                <div class="l">স্ত্রীপুত্র মা বাপ ছাড়িল জ্ঞাতিবর্গ ।</div>
+                                <div class="l">মহাপাপী চোর তস্কর বড় উপসর্গ ।।</div>
+                                <div class="l">মনোদুঃখে এ কারণে ভ্রমি নিরন্তর ।</div>
+                                <div class="l">মৃগমাংস খাই মৃগ মারি নিরন্তর ।।</div>
+                                <div class="l">নিদাঘ কালে ক্ষুধা তৃষাএ পীড়িত ।</div>
+                                <div class="l">ভাঙ্গা দেবালয় তথা দেখিল আচম্বিত ।।</div>
+                                <div class="l">তাহার নিকটে এক সরোবর দেখি </div>
+                                <div class="l">হংস কারণ্ডব তাহে চরে নানা পাথি ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e940">[Page 195]</div>
+                                <div class="l">চারিদিকে পুষ্পোদ্যান মাঝে দেবালয় ।</div>
+                                <div class="l">সরোবরে জল পীল সুশীতলময় ।।</div>
+                                <div class="l">বিষ্ণু দেবালয় আমি রহিল্যাঙ তথা ।</div>
+                                <div class="l">ভাঙ্গা ঘর ছাইলাঙ দিআ তৃণ কাষ্ঠ বাতা ।।</div>
+                                <div class="l">লেপিআ মুছিআ ঘর ব্যাধ মূর্তি করি ।</div>
+                                <div class="l">রহিল্যাঙ বিংশতি বৎসর মৃগ মারি ।।</div>
+                                <div class="l">হেন কালে এক রাজমহিষী দুঃখিতা ।</div>
+                                <div class="l">পরিবার ছাড়িয়া আইলা আমার তথা ।।</div>
+                                <div class="l">জীর্ণ বস্ত্র পরিধান আইল্যা সন্ধ্যাকালে ।।</div>
+                                <div class="l">দুঃখিত হইআ আমার ঠাঞি আসি মেলে ।।</div>
+                                <div class="l">এই দুঃখবতী দেখি দয়া উপজিল ।</div>
+                                <div class="l">মনস্তাপ দেখিআ সকল জিজ্ঞাসিল ।।</div>
+                                <div class="l">কোন জাতি কুথা ঘর কি নাম জিজ্ঞাসি ।</div>
+                                <div class="l">কি কারণে মহারণ্যে একলা ভ্রমসি ।।</div>
+                                <div class="l">সুশীতল জল দিল মাংস বন্য ফল ।</div>
+                                <div class="l">সুস্থির হইআ মোরে কহিল সকল ।।</div>
+                                <div class="l">চণ্ডাল কুলে জন্ম কুইলিনি মোর নাম ।</div>
+                                <div class="l">রূপ দাম্ভি করিলু পর্বতে বিশ্রাম ।।</div>
+                                <div class="l">সুন্দর সুস্থির যুবা বল্বন্ত স্বামী ।</div>
+                                <div class="l">তনু পরপুরুষেতে রত ছিল্যাঙ আমি ।।</div>
+                                <div class="l">নাক কান কাটিলেক অসতী দেখিআ ।</div>
+                                <div class="l">চৌসণ্ডির কুলে আমা রাখিল বান্ধিয়া ।।</div>
+                                <div class="l">পরপুরুষ সনে একশত বার ।</div>
+                                <div class="l">ধরিআ মারএ স্বামী না করে বিচার ।।</div>
+                                <div class="l">একদিন আমার কুবুদ্ধি সঞ্চরিল ।</div>
+                                <div class="l">গলাএ কাটারি দিআ স্বামীরে মারিল ।।</div>
+                                <div class="l">হেন স্বামী কাটিয়া হইল্যাঙ বাহির ।</div>
+                                <div class="l">একেলা ভ্রমিঞা বুলি কোথাহ নহি স্থির ।</div>
+                                <div class="l">দৈবযোগে দুই জনে হইল মিলনে ।</div>
+                                <div class="l">পচইশ বৎসর ঘর কৈল সেই বনে ।।</div>
+                                <div class="l">বর্ষাকালে মদ্য খায়্যা নাচিতে নাচিতে ।</div>
+                                <div class="l">কাপড় চিরিয়া ঠেঙ্গাএ বান্ধি আচম্বিতে ।।</div>
+                                <div class="l">পুতিয়া থুইল ঠেঙ্গা সেই ঘরের চুড়ে । </div>
+                                <div class="l">বাতাসের ঠেঙ্গার ফালি ধ্বজা জেন উড়ে ।।</div>
+                                <div class="l">হেন কালে বজ্র পড়িল দুঁহার মুণ্ডে ।</div>
+                                <div class="l">দুই জনে প্রাণ ছাড়িল সেই দন্ডে ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e980">[Page 216]</div>
+                                <div class="l">যমদূত আসি কত প্রহার করিতে ।</div>
+                                <div class="l">চারি বিষ্ণুদূত তথা আইল আচম্বিতে ।।</div>
+                                <div class="l">ছাড় ছাড় বলি গদার বাড়ি মেইল ।</div>
+                                <div class="l">বিষ্ণুদূতে আসিয়া সে দুঁহা উদ্ধারিল ।।</div>
+                                <div class="l">জে পাকে বৈকুণ্ঠে গেল্যাঙ শুন বিভাণ্ডক ।</div>
+                                <div class="l">মহাপাপী হআ তবু না গেল্যাঙ নরক ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে প্রকাশখণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.14">
+                            <div class="pagebreak" id="index.xml-pb-d62e991">[Page 215]</div>
+                            <header>
+                                <h1><span class="headingNumber">14. </span><span class="head">বিজয়-১</span></h1>
+                            </header>
+                            <div class="byline">ততঃ কথা দিশা ।</div>
+                            <div id="fp_00203_014" class="lg">
+                                <div class="l">এই অবধি হইল তীর্থখন্ড সাঙ্গ ।</div>
+                                <div class="l">বিজয়খন্ড প্রথম যাত্রা করিল গৌরাঙ্গ ।।</div>
+                                <div class="l">সপারিষদে আচার্য গোসাঞি নীলাচলে ।</div>
+                                <div class="l">নিত্যানন্দ স্বরূপ অক্ষয় বটমূলে ।।</div>
+                                <div class="l">হেনকালে চৈতন্য গদাধর সঙ্গে ।</div>
+                                <div class="l">ভবিষ্য কথা কহিতে লাগিলা নিজ রঙ্গে ।।</div>
+                                <div class="l">কলিযুগে হবেক জতেক দুরাচার ।</div>
+                                <div class="l">একে একে কহেন সকল সারোদ্ধার ।।</div>
+                                <div class="l">ব্রাহ্মণে হরিবেক বেদ ইন্দ্র হরিবেক জল ।</div>
+                                <div class="l">নানা ছলে রাজা অর্থ হরিবে সকল ।।</div>
+                                <div class="l">পৃথিবী হরিবেন শস্য রাজা ম্লেচ্ছ জাতি ।</div>
+                                <div class="l">কপিলা হরিবে ক্ষীরে স্বতন্ত্রা যুবতী ।।</div>
+                                <div class="l">ব্রাহ্মণ হরিবেক বেদ শূদ্র বৈশ্যাচার ।</div>
+                                <div class="l">ভগিনী হরিবে ভাই যুগের বেভার ।।</div>
+                                <div class="l">গুরুপত্নী হরিবেক শিষ্য পাপমতি ।</div>
+                                <div class="l">স্থাপ্য হরিবেক জত উত্তম জাতি ।।</div>
+                                <div class="l">ব্রহ্মস্ব দেবস্ব সব হরিব উত্তম ।</div>
+                                <div class="l">নীচ উচ্চ হবেক উত্তম অধম ।</div>
+                                <div class="l">কুলধর্ম হরিবেক যত বৃক্ষ লতা ।</div>
+                                <div class="l">কুলবধূ লজ্জা ভয় হরিব সর্বথা ।।</div>
+                                <div class="l">গঙ্গা হরিবেন জল ছাড়িব তুলসী ।</div>
+                                <div class="l">যবনে উচ্ছন্ন করিবেক বারানসী ।।</div>
+                                <div class="l">পুজাচর্য্যা হরিবেক জত দেবালয় ।</div>
+                                <div class="l">তীর্থ আগম্য হরিবেক জানিহ নিশ্চয় ।।</div>
+                                <div class="l">দেউল দেহারা মঠ ভাঙ্গিবে যবনে ।</div>
+                                <div class="l">সন্ধ্যা বেদ দেবার্চনা ছাড়িব ব্রাহ্মণে ।।</div>
+                                <div class="l">ক্ষেত্রি সত্বহীন হবে যুদ্ধে শৃগাল ।</div>
+                                <div class="l">তিন জাতি সবে লক্ষ্মী বাড়িবে বিশাল ।।</div>
+                                <div class="l">গোপোষণ বাণিজ্য ছাড়িব বৈশ্য দেবা ।</div>
+                                <div class="l">শূদ্র সব ছাড়িবেক ব্রাহ্মণের সেবা ।।</div>
+                                <div class="l">পৃথিবী ছাড়িব অবধূত যতি সতী ।</div>
+                                <div class="l">মৎস্য মাংস খাবে সব বিধবা যুবতী ।।</div>
+                                <div class="l">পিতা লঙ্ঘিবেক পুত্র গুরু লঙ্ঘিবেক শিষ্য ।</div>
+                                <div class="l">বিধবা ব্রাহ্মণী সব খাইব আমিষ্য ।।</div>
+                                <div class="l">স্বামী লঙ্ঘিবে স্ত্রী কপটী সংসার ।</div>
+                                <div class="l">ভাল বংশে জন্মিআ হবেক দুরাচার ।।</div>
+                                <div class="l">ব্রাহ্মণে ছাড়িব একাদশী যজ্ঞ দান ।</div>
+                                <div class="l">শূদ্রসব করিবেক পুরাণ বাখান ।</div>
+                                <div class="l">চন্ডালিনী শূদ্রী করিব একাদশী ।</div>
+                                <div class="l">উত্তম জনের ঘর ছাড়িব তুলসী ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e1038">[Page 216]</div>
+                                <div class="l">শূদ্রিণী লইআ ঘর করিব সন্ন্যাসী ।</div>
+                                <div class="l">অর্থ সঞ্চয় করিবেক জত তীর্থবাসী ।।</div>
+                                <div class="l">শূদ্রিণী লইআ ঘর করিবে ব্রাহ্মণ ।</div>
+                                <div class="l">ব্রাহ্মণী লইআ ঘর করিব সর্বজন ।।</div>
+                                <div class="l">সন্ন্যাসী করিব অর্থসঞ্চয় বানিজ্যা ।</div>
+                                <div class="l">শূদ্র-দেবালয়ে হবে কৃষ্ণ পরিচর্য্যা ।।</div>
+                                <div class="l">নাহা লুহা লবণ বেচিবে ব্রাহ্মণে ।</div>
+                                <div class="l">কন্যা বেচিবেক যে সর্বশাস্ত্র জানে ।।</div>
+                                <div class="l">[১৩৪খ]</div>
+                                <div class="l">ব্রাহ্মণে রাখিব দাড়ি পারস্য কহিবে ।</div>
+                                <div class="l">মোজা পাগড়ি হাথে কামান ধরিবে ।।</div>
+                                <div class="l">মনসবি আবৃত্তি করিবে দ্বিজবরে ।</div>
+                                <div class="l">ডাকা চুরি ঘাটি সাধিবেক নিরন্তরে ।।</div>
+                                <div class="l">শূদ্রে পুজিবেক মূর্তি শালগ্রাম শিলা । </div>
+                                <div class="l">কার্যাপণে বিকাবেক সুরভি কপিলা ।।</div>
+                                <div class="l">ঘৃত মধু তিল কুশ যব জাতাঙ্কুর ।</div>
+                                <div class="l">দধি লাজ দূর্বা ধান স্বস্তিক সিন্দুর ।।</div>
+                                <div class="l">এ সব ছাড়িবেক পৃথ্বী কলি অবশেষে ।</div>
+                                <div class="l">অশ্বত্থ কদম্ব নিম্ব না থাকিব দেশে ।।</div>
+                                <div class="l">শঙ্খ ঘন্টা মৃদঙ্গ চামর চন্দ্রাতপ ।</div>
+                                <div class="l">কলিশেষে পৃথিবী ছাড়িব এ সব ।।</div>
+                                <div class="l">ছাগী প্রায় ধেনু হবে নৃত্য প্রায় মেঘ ।</div>
+                                <div class="l">অঙ্গুষ্ঠ প্রায় মনুষ্য পতঙ্গ প্রায় বেগ ।।</div>
+                                <div class="l">সাত আট বৎসরে স্ত্রী গর্ভ ধরিবে ।</div>
+                                <div class="l">এক গর্ভে পাঁচ সাত ছাওয়াল জন্মিবে ।।</div>
+                                <div class="l">শূদ্র জগৎগুরু হবে ম্লেচ্ছ হবে রাজা ।</div>
+                                <div class="l">রাজা সর্বস্ব নিবেক দুঃখী হবে প্রজা ।</div>
+                                <div class="l">পাপী দিঘা পূর্বাট মরিবেক সদগুন ।।</div>
+                                <div class="l">অল্প বিদ্যায় হবেক মহা বিদ্বান ।</div>
+                                <div class="l">অপ্লে ধনে হবেক সে মহা ধনবান ।।</div>
+                                <div class="l">কলিযুগে অল্প পূন্যে মুক্তিপদ পাই ।</div>
+                                <div class="l">কলি ধন্য সধন্য সর্বলোকে গাই ।।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে বিজয়খণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                        <section class="section" id="index.xml-body.1_div.15">
+                            <div class="pagebreak" id="index.xml-pb-d62e1077">[Page 220]</div>
+                            <header>
+                                <h1><span class="headingNumber">15. </span><span class="head">বিজয়-৫</span></h1>
+                            </header>
+                            <div id="fp_00203_015" class="lg">
+                                <div class="l">শান্তিপুর চৈতন্য অদ্বৈত সঙ্গে রঙ্গে ।</div>
+                                <div class="l">অদ্বৈত জিজ্ঞাসে এক সন্ন্যাসী প্রসঙ্গে ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e1082">[Page 221]</div>
+                                <div class="l">চৈতন্যের কেবা হএ কেশব ভারতী ।</div>
+                                <div class="l">অদ্বৈত কহেন গুরু হএ শুন মহামতি ।।</div>
+                                <div class="l">শুনিঞা অদ্বৈতপুত্র অচ্যুতানন্দ ।</div>
+                                <div class="l">আচার্য্য গোসাঞি সঙ্গে করিলেন দ্বন্দ্ব ।।</div>
+                                <div class="l">অযোগ্য বলিলে গোসাঞি বড় দুঃখ পাই ।</div>
+                                <div class="l">কেশব ভারতী গুরু চৈতন্য গোসাঞি ।।</div>
+                                <div class="l">পাঁচ বৎসরের ছাওয়াল অচ্যুতানন্দ ।</div>
+                                <div class="l">রূপে কার্ত্তিক যেন দেখিতে সুছন্দ ।</div>
+                                <div class="l">গদাধর পন্ডিতের তিহোঁ এক শিষ্য ।</div>
+                                <div class="l">অদ্বৈতনন্দন যানে ভূত ভবিষ্য ।।</div>
+                                <div class="l">আই ঠাকুরানী গেলা অদ্বৈত মন্দিরে ।</div>
+                                <div class="l">প্রসাদ করিল বড় মুরারি গুপ্তেরে ।।</div>
+                                <div class="l">হেনকালে কুষ্ঠরোগী এক ব্রাহ্মণ ।</div>
+                                <div class="l">বৈষ্ণব নিন্দক ছিল বেদপরায়ণ ।।</div>
+                                <div class="l">শ্রীনিবাসের দ্বারে হয়্যাছে অপরাধ ।</div>
+                                <div class="l">তারে আজ্ঞা দিল প্রভু করিয়া প্রসাদ ।।</div>
+                                <div class="l">বৈষ্ণবনিন্দক তার দেহে কুষ্ঠ হএ ।</div>
+                                <div class="l">অদৃশ্য অস্পৃশ্য হয়্যা জা এ যমালয় ।।</div>
+                                <div class="l">জে মুখে কাঁটা ফুটে সে মুখে বাহিরাএ ।</div>
+                                <div class="l">শ্রীনিবাসে ভজ গিয়া হইবে সহায় ।।</div>
+                                <div class="l">আচার্য্য গোসাঞির গুরু মাধবেন্দ্র পুরী ।</div>
+                                <div class="l">উপদেশ দিয়াছিলা বুঝিতে না পারি ।।</div>
+                                <div class="l">তার আরাধনা দিবস নিকট হইল ।</div>
+                                <div class="l">রন্ধনের অধিকার আই ঠাকুরাণী নিল ।।</div>
+                                <div class="l">কীর্তন্যা মুকুন্দ মুরারি গুপ্ত ভাণ্ডারী ।</div>
+                                <div class="l">ঝাঁটি ছড়া দেই ভবানন্দ অধিকারী ।।</div>
+                                <div class="l">গোবিন্দ গোবিন্দআনন্দ শঙ্খ বাজাএ ।</div>
+                                <div class="l">বুদ্ধিমন্ত খান চন্দন দেই গাএ ।।</div>
+                                <div class="l">চন্দ্রশেখর গোপীনাথ শ্রীগর্ভ নন্দন ।</div>
+                                <div class="l">শ্বেত চামর ঢুলাএ এই চারি ব্রাহ্মণ ।।</div>
+                                <div class="l">দামোদর স্বরূপ পরমানন্দ পুরী ।</div>
+                                <div class="l">ভোজন করান হাথে বেত্র ধরি ।।</div>
+                                <div class="l">পটোল বাস্তুক শাকের পরিপাটি ।</div>
+                                <div class="l">বাসুদেব দত্ত জানেন ইহার পরিপাটি ।।</div>
+                                <div class="l">বক্রেশ্বর দামোদর দেন প্রসাদমালা ।</div>
+                                <div class="l">কেহো প্রসাদ খাএ কেহো চিড়া কলা ।।</div>
+                                <div class="l">ঘৃত মধু চিড়া গুড় নবাত শর্করা ।</div>
+                                <div class="l">নাছে বাটে ঘাটে কত ফুলের পশরা ।।</div>
+                                <div class="l">আম্র নারিকেল কাঁটাল দধি দুগ্ধ ।</div>
+                                <div class="l">ধুপ দীপ চন্দন অগোর যব মুদ্গ ।।</div>
+                                <div class="l">খাহ লেহ দেহ এই এই মাত্র শুনি ।</div>
+                                <div class="l">আনন্দে নাচেন চৈতন্য শিরোমণি ।।</div>
+                                <div class="l">রাত্রিকালে কত বর্ণে লোক আইসে জায় ।</div>
+                                <div class="l">নাছে বাটে শান্তিপুরে সভে নাচে গায় ।।</div>
+                                <div class="l">রজনী প্রভাত হইল আরাধনা সাঙ্গ ।</div>
+                                <div class="l">কুমারহট্ট চলিলা ঠাকুর গৌরাঙ্গ ।।</div>
+                                <div class="l">শ্রীনিবাস মন্দিরে রহিলা কুমারহট্টে ।</div>
+                                <div class="l">আচার্য্য পুরন্দর জিজ্ঞাসিলা বল্লভ ভট্টে ।।</div>
+                                <div class="l">শিবানন্দ সেন গেলা বাসুদেব দত্ত ।</div>
+                                <div class="l">কহিতে লাগিলা বাসুদেবের মহত্ত্ব ।।</div>
+                                <div class="pagebreak" id="index.xml-pb-d62e1137">[Page 222]</div>
+                                <div class="l">বাসুদেবের কিনা আমি শুন শ্রীনিবাস ।</div>
+                                <div class="l">বাসুদেব দত্ত আমাএ করাএ প্রকাশ ।।</div>
+                                <div class="l">শ্রীনিবাসে জিজ্ঞাসিলা কেমতে কুলাহ ।</div>
+                                <div class="l">এত পরিকর ইহাএ কি ধন ভাঙ্গাহ ।।</div>
+                                <div class="l">সংসার না চলে জদি শুন শ্রীনিবাস ।</div>
+                                <div class="l">সকল ছাড়িয়া তুমি করহ সন্ন্যাস ।।</div>
+                                <div class="l">হাথে তিন তালি দিয়া বলেন শ্রীনিবাস ।</div>
+                                <div class="l">লাগে লাগে হএ জদি তিন উপবাস ।।</div>
+                                <div class="l">নহে নহে ঘরে মুষ্টিভিক্ষা করিব ।</div>
+                                <div class="l">গলাএ কলসী বান্ধি গঙ্গাএ মরিব ।।</div>
+                                <div class="l">ইহা শুনি হাসি হাসি বলে দয়ানিধি ।</div>
+                                <div class="l">আর দুঃখ তুমি না পাইবে জন্মাবধি ।।</div>
+                                <div class="l">তবে শত শত পারিষদ নিত্যানন্দ সঙ্গে ।</div>
+                                <div class="l">গোসাঞি গেলা পানিহাটি গ্রাম নিজ রঙ্গে ।</div>
+                                <div class="l">রাঘব পন্ডিত ঘরে ভোজন করিল ।</div>
+                                <div class="l">রাঘবের শাক অন্ন প্রভু প্রশংসিল ।।</div>
+                                <div class="l">শাকে বড় প্রিয় গোসাঞি আম্রে বড় প্রিয় ।</div>
+                                <div class="l">শ্রীনিবাস বলে রাঘব জিয় জিয় ।।</div>
+                                <div class="l">নিত্যানন্দ বলেন আমি শাক খাই নাঞি ।</div>
+                                <div class="l">সভারে খাওয়াএ চৈতন্য গোসাঞি ।।</div>
+                                <div class="l">বৌশার পড়িল শাকে জত করেন ব্যয় ।</div>
+                                <div class="l">জত জত দেন শাক ততোধিক হএ ।।</div>
+                                <div class="l">অদ্যাপি ঘোষণা আছে এই পানিহাটি ।</div>
+                                <div class="l">রাঘবের শাক অন্ন পরিপাটি ।</div>
+                                <div class="l">চিন্তিয়া চৈতন্যগদাধরপদদন্দ্ব ।</div>
+                                <div class="l">আনন্দে বিজয়খণ্ড গাএ জয়ানন্দ ।।</div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+                <div class="footer">Famine &amp; Dearth: a series of electronic texts, collected by Ayesha Mukherjee and Amlan Das Gupta</div>
+    </div>
+   <!-- <div class="col-md-1">
+    </div>-->
+    <div id="metadata-col" class="col-md-3 metadata"><!--col-md-offset-2 -->
+        <div class="alert alert-translation">
+                    <p>This text is in its original language, and has an English translation:<br><!--<span class="tei-title">Translation full string: </span>{$original}<br/>
+                     <span class="tei-title">Translation xml:id: </span>{$orig-xmlid}<br/>
+                     <span class="tei-title">Link to translation: </span>--><a href="displayhtml.html?id=fp_00467_en_translationchaitanyamangal">Translation</a></p>
+                </div>
+        <div class="alert alert-generic alert-selection" id="selection-info">This is a selection from the original text</div>
+        
+   <div class="source-head header alert alert-generic">
+                    <h2 id="metadata-sidebar">Keywords</h2>
+                    <p><a href="keywordtexts.html?keyword=অনাবৃষ্টি">অনাবৃষ্টি</a>, <a href="keywordtexts.html?keyword=অন্ন">অন্ন</a>, <a href="keywordtexts.html?keyword=দুগ্ধ">দুগ্ধ</a>, <a href="keywordtexts.html?keyword=দুর্ভিক্ষ">দুর্ভিক্ষ</a>, <a href="keywordtexts.html?keyword=মড়ক">মড়ক</a>, <a href="keywordtexts.html?keyword=মড়ক">মড়ক</a>, <a href="keywordtexts.html?keyword=শাক">শাক</a></p>
+                    <h2 id="metadata-sidebar">Source text</h2>
+                    <p><span class="tei-title">Title: </span>Chaitanyamangal</p>
+                    <p><span class="tei-title">Author: </span>Jayananda</p>
+                    <p><span class="tei-title">Publisher: </span>The Asiatic Society</p>
+                    <p><span class="tei-title">Publication date: </span><a href="datetexts.html?date=1971">1971</a></p>
+                    <p>Original compiled c.1550-1560</p>
+                    <p><span class="tei-title">Edition: </span>2nd Edition</p>
+                    <p><span class="tei-title">Place of publication: </span>Kolkata</p>
+                    <p><span class="tei-title">Provenance/location: </span>This text was transcribed from images available at the Digital Library of India: http://www.dli.ernet.in/.
+                  Original compiled c.1550-1560
+               </p>
+                    <h2 id="metadata-sidebar">Digital edition</h2>
+                    <p><span class="tei-title">Original author(s): </span>Jayananda</p>
+                    <p><span class="tei-title">Language: </span>Bengali</p>
+                    <p><span class="tei-title">Selection used: </span>
+                        <ul>
+                            <li>1 ) pages 10 to 15</li>
+                        </ul>
+                        <ul>
+                            <li>2 ) page 19</li>
+                        </ul>
+                        <ul>
+                            <li>3 ) pages 20 to 21</li>
+                        </ul>
+                        <ul>
+                            <li>4 ) pages 24 to 25</li>
+                        </ul>
+                        <ul>
+                            <li>5 ) pages 27 to 28</li>
+                        </ul>
+                        <ul>
+                            <li>6 ) pages 32 to 33</li>
+                        </ul>
+                        <ul>
+                            <li>7 ) pages 64 to 65</li>
+                        </ul>
+                        <ul>
+                            <li>8 ) pages 124 to 125</li>
+                        </ul>
+                        <ul>
+                            <li>9 ) pages 159 to 160</li>
+                        </ul>
+                        <ul>
+                            <li>10 ) pages 193 to 196</li>
+                        </ul>
+                        <ul>
+                            <li>11 ) pages 214 to 215</li>
+                        </ul>
+                        <ul>
+                            <li>12 ) pages 220 to 222</li>
+                        </ul>
+                    </p>
+                    <p><span class="tei-title">Responsibility: </span>
+                        <p>Texts collected by: Ayesha Mukherjee, Amlan Das Gupta, Azarmi Dukht Safavi</p>
+                        <p>Texts transcribed by: Muhammad Irshad Alam, Bonisha Bhattacharya, Arshdeep Singh Brar, Muhammad Ehteshamuddin, Kahkashan Khalil, Sarbajit Mitra</p>
+                        <p>Texts encoded by: Bonisha Bhattacharya, Shreya Bose, Lucy Corley, Kinshuk Das, Bedbyas Datta, Arshdeep Singh Brar, Sarbajit Mitra, Josh Monk, Reesoom Pal</p>
+                        <p>Encoding checking by: Hannah Petrie, Gary Stringer, Charlotte Tupman</p>
+                    </p>
+                </div>
+
+
+   
+<div class="alert alert-generic">
+                    <p class="folder-path"><!--<span class="tei-title">Category: </span> {$folder}<br/>--><!--<span class="tei-title">Tree: </span> {$topFolder}<br/>--><!--<span class="tei-title">Path: </span> {$path}<br/> --><!--<span class="tei-title">ID: </span> {$id}<br/>--><span class="tei-title">Genre: </span>India &gt; poetry</p>
+                </div>
+        <div id="metadata-sidebar-button" class="text-center">
+            <a href="#metadata-jump-button" class="btn btn-primary toplink" role="button">Jump to top</a>
+        </div>
+    </div>
+    
+</div>
+        
+        <!--Change back from container-fluid to container if necessary--> 
+        <div class="container" id="footer-container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <footer>
+                        <a href="http://www.ahrc.ac.uk" target="blank">
+                            <img class="logo" id="ahrc" src="resources/images/ahrc.jpg">
+                        </a>
+                        <a href="http://www.exeter.ac.uk" target="blank">
+                            <img class="logo" id="exeter" src="resources/images/uoe.gif">
+                        </a>
+                        <a href="http://www.jaduniv.edu.in/" target="blank">
+                            <img class="logo" id="jadavpur" src="resources/images/jadavpur.png">
+                        </a>
+                       <!-- <a href="http://www.amu.ac.in" target="blank">
+                            <img class="logo" id="aligarh" src="resources/images/amu-logo-120.jpg"/>
+                        </a>-->
+                        <a href="http://amu.ac.in/persian.jsp?did=10013" target="blank">
+                            <img class="logo" id="persian" src="resources/images/persian-logo-120.jpg">
+                        </a>
+                       <!-- <a class="poweredby" id="exist" href="http://exist-db.org">
+                            <img src="$shared/resources/images/powered-by.svg" alt="Powered by eXist-db"/>
+                        </a>-->
+                        
+                    </footer>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+       <!-- <div class="row">-->
+        <div class="col-md-12 contact">
+            <!--To center div, set an offset equal to half of the remaining size of the row (note that it only works for even numbers)-->
+            <div class="col-md-6 col-md-offset-3">
+                <p>For more information about the project, contact 
+                    <a href="http://humanities.exeter.ac.uk/english/staff/mukherjee/">Dr Ayesha Mukherjee</a> at the University of Exeter.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <p>
+                    <a href="acknowledgements.html">Acknowledgements</a>
+                </p>
+            </div>
+        </div>
+        <!--</div>-->
+        <!--<br/>
+        <h3>Search using index:</h3>
+        <form method="post" action="modules/search-2.xquery">
+            <input type="text" name="searchphrase" size="40"/>
+            <input type="submit" value="Search!"/>
+        </form>-->
+    </body>
+</html>
