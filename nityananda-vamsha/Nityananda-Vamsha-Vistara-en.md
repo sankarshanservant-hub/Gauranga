@@ -456,14 +456,14 @@ he was saying "Krishna, Krishna", and streams of tears flowed from his eyes.
 **131.** Gauridasa with his people fell at his feet;
 the Lord raised him up with a slap.
 
-**132.** "You have all forgotten yourselves, foolish cowherds!"[^01-30] —
+**132.** "You have forgotten everything, foolish cowherd boy!"[^01-30] —
 saying this, the Lord embraced him round the neck.
 
 **133.** Gauridasa Pandita wept, clasping his feet:
 "You yourself hid away[^01-31] and made me forget everything!
 
-**134.** Varnashrama-dharma and my kin do not let me go,
-but you can do anything — such is your lordly play.
+**134.** You have not freed me from varnashrama-dharma and caste,
+yet you can do anything — such is your lordly play.
 
 **135.** Now please let your holy feet come to us,
 and when you have seen, do what is fitting."
@@ -1854,7 +1854,7 @@ of the Shandilya gotra, the full moon of the Ojha family[^03-25].
 **144.** He has one son, named Virachandra;
 for beauty, virtues, lineage and character he is praised everywhere."
 
-**145.** Thus they gave the full account to the brahmanas,
+**145.** Thus they told the brahmanas about themselves,
 and all, rejoicing in their hearts, said: "Good, good!"
 
 *[p. 36]*
@@ -2961,8 +2961,8 @@ the Prabhu lifted him up with her holy hand.
 **82.** Taking him by the chin, she smelled his head[^05-24]
 and, imparting her own power to him, blessed him.
 
-**83.** Remembering Krishna, Krishna and the Mother of the world,
-[and charging him] to serve Sri Bankima-deva Prabhu[^05-25],
+**83.** Remembering "Krishna, Krishna!", the Mother of the world,
+having performed service to Sri Bankima-deva Prabhu[^05-25],
 
 **84.** the Prabhu set out for Vrindavana,
 and the Gosai, taking everyone, went back home.
@@ -3188,7 +3188,7 @@ Vrindavana Dasa tells the *Spreading of the Lineage*.
 [^05-22]: Gopijana-vallabha is apparently a member of the family (according to some sources a son of Virachandra); Jahnava leaves him at Ekachakra and initiates him (couplets 75–79). The "Prabhu" serving Bankima-deva in couplet 71 is apparently he.
 [^05-23]: The Gosai here is Gopijana-vallabha.
 [^05-24]: Smelling the head is a traditional gesture of parental affection and blessing.
-[^05-25]: The couplet is syntactically incomplete; "[and charging him]" is supplied from the sense.
+[^05-25]: "Mother of the world" (jagan-mata) is an epithet of Jahnava; she is the subject of couplets 83–84 and herself serves the Deity before departing.
 [^05-26]: The copies have "pada eje … viṣṇudyāne"; read as "padavraje … viṣṇusthāne". The shrine of Vishnu at Gaya is the Vishnupada temple with the footprint of Vishnu.
 [^05-27]: The Gayalis are the hereditary priests of Gaya; the copies have "gadhā~laẏa]/gāla ghara", read as "Gayali houses".
 [^05-28]: At Kashi (Varanasi) the Ganga flows north (uttara-vahini), which is considered especially auspicious.
@@ -4419,7 +4419,7 @@ beholding the wondrous pastime of Gaura-Virachandra.
 "Krishna, Krishna! Rama, Rama! Hari, glory, glory!"
 
 **101.** The world of the gods, the world of men and the world of the nagas, joining together,
-performed sankirtana, crying, "Hari! Krishna, Krishna!"
+performed sankirtana, crying, "O Krishna, Krishna!"
 
 **102.** Such pastimes Gaura Raya performed on earth —
 and again, in the form of Virachandra, he floods [the world] with prema.
@@ -6340,7 +6340,7 @@ and, overflowing with prema, embraced Jiva:
 without Chaitanya's mercy there is no such revelation.
 
 **193.** Prabhu showed great kindness to your family:
-I have heard that formerly he saw them in person."
+I have heard that formerly they saw Him in person."
 
 **194.** Jiva said: "You are Chaitanya himself,
 come here to show me mercy.
@@ -6384,7 +6384,7 @@ taught Sanatana the truth of bhakti,
 **207.** so [Virachandra] told Jiva Gosai
 about bhakti — the essence of siddhanta, the greatness of bhakti.
 
-**208.** With Jiva there was much exchange of mercy.
+**208.** Jiva received much mercy.
 At that time the pujari Gosaidasa[^10-37] arrived.
 
 **209.** Coming, he fell flat at Prabhu's feet
@@ -6949,7 +6949,7 @@ Vrindavana Dasa tells the "Vamsha-vistara."
 [^10-34]: A well-known shloka ("mukam karoti vachalam…"), usually ending "paramananda-madhavam"; here "paramanandishvaram."
 [^10-35]: The shloka is badly corrupted in both copies; restored after the known text ("ambhodhih sthalatam sthalam jaladhitam dhuli-lavah shailatam…", Padyavali). Some words of the third line are illegible in the copies.
 [^10-36]: A pun: "jiva" is both the name of Jiva Gosvami and "living being": he taught both Jiva and the living beings.
-[^10-37]: Gosaidasa — a pujari, judging from the context of the Govinda temple.
+[^10-37]: Gosaidasa — a pujari, apparently of the Govinda temple.
 [^10-38]: The text has "piñchana" (literally "peacock feather"), apparently a peacock-feather fan; the reading is not entirely clear.
 [^10-39]: Thakura — the temple Deity.
 [^10-40]: "Devalaya" — literally "temple," here the temple people.
