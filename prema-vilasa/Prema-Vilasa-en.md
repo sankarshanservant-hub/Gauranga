@@ -40,6 +40,8 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 - Vilasa 9. The Birth of Narottama
 - Vilasa 10. Narottama Receives Prema from the Padmavati
 - Vilasa 11. Narottama in Vrindavana: Initiation by Lokanatha
+- Vilasa 12. The Titles Acharya and Thakura Mahashaya; the Story of Shyamananda
+- Vilasa 13. The Theft of the Books and the Conversion of Vira Hambira
 
 ---
 
@@ -6608,3 +6610,2673 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^11-53]: "kiśorī kiśora", the youthful Radha and Krishna.
 [^11-54]: "iṣṭa-goṣṭhī", a conversation among devotees about the object of their worship.
 [^11-55]: The second line of the couplet is found only in the 1913 edition.
+
+---
+
+# Vilasa 12. The Titles Acharya and Thakura Mahashaya; the Story of Shyamananda
+
+*Jiva gives Narottama the name Thakura Mahashaya; the meeting of Srinivasa and Narottama; Srinivasa solves the riddle of the withered creepers and receives the title Acharya; the festival at the end of Kartika and the decision to send both with the books to Gauda; the youth of Duhkhi Krishnadasa, his initiation by Hridaya Chaitanya at Ambika and his coming to Vrindavana; his studies with Jiva; Radha's lost anklet and the name Shyamananda; the farewell to Lokanatha and Gopala Bhatta*
+
+**1.** Glory, glory to Sri Chaitanya, glory to the ocean of mercy!
+Glory, glory to Nityananda, the utmost limit of rasa!
+
+**2.** Glory to Advaitachandra, glory to the life of those who have nothing!
+Glory, glory to Gaura's devotees, treasuries of virtue!
+
+**3.** Glory, glory to Sri Jahnava and Virachandra, our lord!
+Be merciful and make this fallen one your own.
+
+**4.** Listen, listen, hearers, attentively
+to the account of the virtues of Srinivasa and Narottama.
+
+**5.** Whatever I have written, still more remains;
+yet I write, by the command of my Prabhu.
+
+**6.** The Creator did not give me a hundred hands, feet and mouths —
+then I would write and tell, and the pain of my heart would go.
+
+**7.** The two great souls who descended as the form of prema —
+how they took shelter at the guru's feet in Vraja,
+
+**8.** how, from the time they settled in Vrindavana,
+they practised sadhana and remembrance in supreme delight,
+
+**9.** how they served the guru and studied the books of bhakti —
+with whom each studied what — of this I write.
+
+**10.** His name was Srinivasa, but he became famed as Acharya;
+the reason for this I will write — it is most necessary.
+
+**11.** And Narottama received the name Thakura Mahashaya;
+all this was seen with people's own eyes — of that there is no doubt.
+
+**12.** How the two of them met one another,
+on what day, to which kunja, to which place they would go,
+
+**13.** how the two came together to Gauda —
+of that joy and of that road I will write in detail.
+
+**14.** I write, making the Prabhu's command my strength,
+in just the way he gave me that command.
+
+**15.** The book Prema-vilasa is by the command of his holy mouth;
+whatever remains I shall make manifest.
+
+**16.** Narottama's sadhana and remembrance —
+what is beyond reach for one whose mind is deep?
+
+**17.** For some days he studied with his own Prabhu,[^12-1]
+and sometimes he would go to Sri Jiva and put questions to him.
+
+**18.** He read the dramas and the Sandarbhas with the Gosani;
+[Jiva] himself taught him, sitting with him in seclusion.
+
+**19.** Thus time passed in blissful absorption;
+Sri Jiva showed him boundless, special affection.
+
+**20.** Sri Jiva Gosani says: "Listen, friend —
+I will tell you all that is in my mind.
+
+**21.** How, and what command came to you, from what service
+your hand was burned — tell it with joy."
+
+**22.** Saying "As you command," he told everything in detail;
+Sri Jiva's body thrilled, and he wept.[^12-2]
+
+**23.** In another mood, holding him by both arms, he says:
+"From today your name is Vilasa Manjari.
+
+**24.** You, mahashaya, are the form of Sri Rupa's play."
+[Narottama replies:] "Such names cannot apply to me."
+
+**25.** Then the Gosani smiles and says: "This is not strange:[^12-3]
+you and I have one and the same siddha-name.[^12-4]
+
+**26.** Who can fathom the intent of your sadhana?
+From today your name is Thakura Mahashaya."
+
+**27.** The Thakura bows down, the Gosani embraces him;
+meekly and humbly he speaks imploring words:
+
+**28.** "If you permit, I will tell you once more
+in what way Radhika's command came to me.
+
+**29.** With her own holy mouth she spoke the name Champaka Manjari,
+knowing that the virtues of both [names] are equal in sweetness."
+
+**30.** Again Sri Jiva Gosani embraces him:
+"Such a state of sadhana and remembrance I have never seen.
+
+**31.** For you nothing remains unknown any longer:
+in Vrindavana you have attained every perfection.
+
+**32.** You, who were born as the form of Gauranga's prema —
+by your prema the whole world will be flooded."[^12-5]
+
+**33.** One day on the bank of the Kunda[^12-6] Sri Dasa Gosvami
+heard in full about the name "Thakura Mahashaya".
+
+**34.** Krishnadasa Kaviraja heard from him
+that [Narottama's] excellence in bhajana is attested everywhere.
+
+**35.** Sri Dasa Gosvami says: "Listen, Krishnadasa:
+Narottama Dasa has become a manifestation of mercy.
+
+**36.** The service he gave his guru, his way of bhajana —
+of these we have just now seen the evidence.
+
+**37.** When one performs sadhana with the guru's mercy, so it comes to be —
+in Sri Rupa's books there is a decisive statement on this."
+
+**38.** He the fame of whose bhajana is in Gauda and Vrindavana —
+whoever hears of him is helplessly overcome by prema.
+
+**39.** Lokanatha and Gopala Bhatta, these two Gosanis,
+were sitting together in one place, talking of Krishna.
+
+**40.** At that time they heard of all these things:
+such bhajana had fallen to his lot in full.
+
+**41.** Sri Bhatta Gosani says: "Blessed is this life:
+in Vrindavana all one's desires are fulfilled."
+
+**42.** Lokanatha Gosani laughs, putting his hand to his mouth;
+with his mouth he says nothing, but within he is full of joy.
+
+**43.** Sri Bhatta Gosani says to Lokanatha:
+"One to whom your mercy is such as this,
+
+**44.** whom Sri Jiva Gosani, the shakti of Sri Rupa,
+calls his friend — the like of him I have not seen.
+
+**45.** One in whose heart is the mercy of Radhika-ji —
+rightly is he named Thakura Mahashaya."
+
+**46.** However many of his virtues I write, they cannot be told.
+Now I will write in full of the meeting with Srinivasa.
+
+**47.** This is not Sanskrit — it is set in payar;
+[in it] the words grow and much is composed.[^12-7]
+
+**48.** One day, when Narottama was in the Gosani's presence,
+at that time Srinivasa came unexpectedly.
+
+**49.** Sri Lokanatha Gosani was sitting;
+Srinivasa bowed down and stood [before him].
+
+**50.** Narottama stood in that same place with joined palms;
+and then Srinivasa saw him with his eyes.
+
+**51.** Crying "Come, friend!" he ran and embraced him;
+like a blind man who has gained eyes, he deemed his life blessed.
+
+**52.** "Now I know that fate has become favourable,
+since I have met you in Vrindavana.
+
+**53.** Great joy has come from meeting you —
+as if one wretched from birth had found many jewels."
+
+**54.** Thakura Mahashaya says: "Listen, mahashaya,
+be kind and show mercy to me, a poor one."
+
+**55.** In the presence of the Prabhu he is afraid to speak;
+with joined palms he speaks humbly.
+
+**56.** The bodies of both thrilled with prema, streams of tears in their eyes.
+"How long is it since you came?"
+
+**57.** "For a year and three months I have been seeing the Prabhu;
+in the month of Vaishakha I took shelter at the Prabhu's feet,
+
+**58.** and three months more have passed since — so I tell you."[^12-8]
+The hearts of both were overwhelmed; for a moment they composed themselves.
+
+**59.** On the fifth day of the bright fortnight of the month of Shravana
+these two met in a kunja near the Gosani.
+
+**60.** The Gosani, smiling, says to Srinivasa:
+"Do you know now where his home is?"
+
+**61.** Srinivasa says to the Prabhu:
+"He is the son of Krishnananda Raya of Garerhat.
+
+**62.** He is of the highest virtue, his name is Narottama;
+through his connection with your feet he is dear to me as life."
+
+**63.** From that day their affection grew ever deeper;
+sometimes [one] comes to [the other's] lodging, joyful at heart,
+
+**64.** sometimes the two meet in Vrindavana
+and, sitting in seclusion, converse together.
+
+**65.** Srinivasa serves his own Gosani:
+sometimes he cooks and feeds him.
+
+**66.** He goes to Sri Jiva Gosani to study books;
+sometimes he goes off to another kunja and is absorbed in remembrance.
+
+**67.** All that Jiva had studied with Sri Rupa
+he revealed, with all its meaning, in Srinivasa's heart.
+
+**68.** He taught him the dramas of the Vraja-lila and the Sandarbhas
+and made him expert in the meaning of Sri Rupa's books.
+
+**69.** One day Sri Jiva was studying a book —
+what is written in the Lalita-madhava:[^12-9]
+
+**70.** Krishna's departure for Mathura, full of deep sorrow,
+and Radha's companions, ready in that separation to give up their lives.
+
+**71.** The Gosani [Rupa] wrote it, and Jiva ponders it —
+and then, losing consciousness, he fell to the ground.
+
+**72.** After a long while, coming to himself, he rose and sat;
+crying "Ah, I die!" he looks about him on every side.
+
+**73.** The trees, the creepers, the kunjas — all have withered;
+they stand with heads bowed, and moisture rains down from them.
+
+**74.** But before him is a kadamba tree, and on it have blossomed
+two or four flowers; seeing them, he rejoiced.
+
+**75.** Seeing this, the Gosani fell to thinking;
+and at that moment Srinivasa arrived.
+
+**76.** The Gosani said: "Srinivasa, sit down;
+a question has arisen in my mind; I will put it to you."
+
+**77.** "Prabhu, what capacity have I to understand,
+that you should ask me and I should give an answer?
+
+**78.** You yourself will speak through the body you have nurtured;[^12-10]
+if I have fortune enough, I shall hear it all."
+
+**79.** The Gosani says: "Srinivasa, consider:
+the trees, the creepers, the kunjas have all withered,
+
+**80.** and moisture drips from them — this is most strange:
+[for here] the creepers are ever fresh, and the six seasons are constant.
+
+**81.** Why then should it be so in this Vrindavana,
+where the creepers are ever fresh and all six seasons abide always?
+
+**82.** Seeing this, my heart was astonished;
+who else is there who could explain this truth?
+
+**83.** Tell me and save my life — I am distraught;
+if you do not tell me, this thorn will remain in my heart."
+
+**84.** Srinivasa says: "Prabhu, I beg at your feet:
+in a prahara I will come back to you."
+
+**85.** "Good, good," the Gosani said to him;
+"sit in seclusion in your lodging and ponder it in your heart."
+
+**86.** As he pondered, a thought arose in his heart;
+by its power he will tell him everything.
+
+**87.** Meditating in his mind on Sri Rupa's feet, he went;
+arriving, he saw the Gosani sitting there.
+
+**88.** The other saw Srinivasa from afar with his eyes
+and with great affection seated him near himself:
+
+**89.** "Speak, speak, Srinivasa, so that I may have peace."
+With joined palms, standing before him, he sets it all out:
+
+**90.** "This Vrindavana exists for Krishna's lilas,[^12-11]
+and especially all its kunja-groves.
+
+**91.** When Krishna goes home, all the kunjas, creepers and groves
+grow dejected and wither.
+
+**92.** But when, at the time of some lila, he comes to that forest,
+the withering passes and they bloom, glad at heart.
+
+**93.** And all the more so his going elsewhere:[^12-12]
+how then can the trees and creepers live?"
+
+**94.** Hearing this hint, the Gosani wept from both eyes,
+and again, joyful at heart, he questions Srinivasa.[^12-13]
+
+**95.** [Srinivasa replies:] "And the kadamba that blooms on it —
+[Krishna] planted it in childhood with his own hand.
+
+**96.** Living in Mathura, Krishna thinks in his mind:
+'How big has that plant I planted grown?'
+
+**97.** That is why it blooms again and again.
+This is as far as my understanding reaches — I have told it."
+
+**98.** Embracing him, the Gosani weeps: "You have given me back my life;
+you are the shakti of my Prabhu — of this there is no doubt.
+
+**99.** From today your name is Srinivasa Acharya;
+for the establishing of dharma you will carry out the work."
+
+**100.** In the evening, [going] to see Govinda's arati,
+he took Srinivasa with him.
+
+**101.** Having seen the arati, he bowed down;
+the pujari brought and gave [him] Govinda's prasada garland.
+
+**102.** He told everyone about Srinivasa:
+"Hear, all of you, something of his worth."
+
+**103.** One by one he related all his virtues:
+"From today his name is Acharya."
+
+**104.** All agreed, saying, "As you command";
+they brought and gave [him] Govinda's prasada flower garland,
+
+**105.** applied a tilaka of flowers, anointed him with kunkuma;
+and then all together raised the cry "Acharya!"
+
+**106.** Acharya Thakura's heart was gladdened;
+in tears, he bowed down again and again.
+
+**107.** He addressed each as was fitting;
+Sri Jiva Gosani came and embraced him.
+
+**108.** From there he returns to his own lodging;
+from that day the title Acharya was his.
+
+**109.** Lokanatha Gosani, hearing of all this,
+was filled with supreme joy and grace.
+
+**110.** [Srinivasa] went to the feet of his own Prabhu and bowed down;
+he placed his hand on his head and gave him many blessings.
+
+**111.** That very moment he went to Lokanatha Gosani
+and, bowing, fell at his feet.
+
+**112.** He himself, with his own mouth, called him Acharya:
+"By Sri Jiva's command you have become an arya."[^12-14]
+
+**113.** Thakura Mahashaya came and prostrated himself;
+greeting him, the Acharya embraced him.
+
+**114.** That night Sri Jiva Gosani reflected:
+"I will carry out my Prabhu's command in every way.
+
+**115.** All the dharma that accords with my Prabhu's books —
+in Gauda no one knows its essence.
+
+**116.** Taking all these books, the Acharya will go to Gauda,
+and Thakura Mahashaya will go with him as his helper."
+
+**117.** To complete the Kartika vow [with] a great festival,
+Sri Jiva Gosani made extensive preparations.
+
+**118.** How much shall I write of the provisions?
+Cartloads of goods arrived — hundreds upon hundreds of loads.
+
+**119.** He sends letters to all the Vaishnavas, to the bank of the Kunda —
+to Sri Dasa Gosvami and the steadfast Kaviraja.
+
+**120.** Everywhere he wrote letters: "Arrive on the day of dashami;[^12-15]
+be merciful, and all of you come together without fail."
+
+**121.** To Sri Bhatta Gosani and Lokanatha Gosani,
+to Bhugarbha and all the others in various places.
+
+**122.** How much more shall I write of the invitations?
+Vaishnavas began to come from wherever they were.
+
+**123.** Some arrived on the day of dashami,
+some came the next day, on ekadashi.
+
+**124.** With great respect the Gosani gave them lodgings —
+to each according to his devotion and his standing.
+
+**125.** To write of all the comings and goings would be too long;
+everyone came — who could count them?
+
+**126.** From the night of ekadashi the cooking began:
+some make flatbreads, some cook rice,
+
+**127.** they make sweets, fried dishes, vegetable dishes and more;
+Sri Jiva Gosvami, seeing it, rejoices beyond measure.
+
+**128.** By the tenth danda of the day all was ready;
+everywhere was the hum of talk about Krishna and Krishna's name.
+
+**129.** They performed the bathing [of the Deities] with all the rites[^12-16]
+and carefully set out the food.
+
+**130.** Before Radha-Krishna, Sri Chaitanya and Nityananda
+they brought and placed the food with care,
+
+**131.** [and also for] Sanatana, Rupa, Raghunatha Bhatta,
+Svarupa, Sri Ramananda and the countless associates.
+
+**132.** The Acharya himself offered the bhoga to all;
+Sri Jiva Gosani then directs [what is to be done] in order.
+
+**133.** Having seated all for the meal, they came out;[^12-17]
+then Sri Jiva grew somewhat calm.
+
+**134.** After two more dandas Sri Jiva Gosani
+told the Acharya to offer [the Deities] water to rinse their mouths.
+
+**135.** Then Sri Jiva Gosani went himself
+and called and brought Raghunatha and Gopala Bhatta.
+
+**136.** Lokanatha Gosani came, and all the others;
+countless Vaishnavas — hundreds upon hundreds — came and sat.
+
+**137.** Coming, all sat in the courtyard of the kunja;
+hundreds of lamps were lit in that place.[^12-18]
+
+**138.** Acharya Thakura performed the arati with betel;
+everywhere many hymns are recited.
+
+**139.** He looks upon all the devotees with a joyful heart;
+coming out, he bows down and offers praise.
+
+**140.** Then Sri Jiva Gosani humbly [says]:
+"If you permit, I will arrange a place for the meal."
+
+**141.** All together agreed at once
+and sat down in their places to take prasada.
+
+**142.** The seats were arranged as befitted each;
+some sat to the right of one, some to the left.
+
+**143.** Bowing down, the Acharya serves the food;
+at the fragrance of the prasada everyone's heart rejoices.
+
+**144.** Sri Jiva himself has the dishes served to all;
+he is in tears and counts himself blessed.
+
+**145.** He gazes on everyone — how beautiful they are:
+like forms made of prema shedding a divine radiance.
+
+**146.** At that moment the Gosani rises, weeping:
+"Where have my Prabhus gone — Rupa and Sanatana?"
+
+**147.** The waves of prema that arose then —
+how much shall I write of every episode?
+
+**148.** All rinsed their mouths, and were given spices to freshen the mouth;
+Sri Jiva's heart was filled with supreme delight.
+
+**149.** All went to their lodgings and sat in their places,
+wholly absorbed in talk about Krishna.
+
+**150.** The next day there was a great festival in the same way,
+and the dishes and provisions were even more.
+
+**151.** All the Gosanis sat together
+and joyfully talk of Krishna's lilas.
+
+**152.** Then Sri Jiva, finding an occasion in the talk,
+tells everyone about Srinivasa:
+
+**153.** "With great labour I have taught him all the shastras;
+now all of you together, show him mercy.
+
+**154.** The shakti of my Prabhu is upon him;
+Sri Bhatta Gosani has shown him great mercy.
+
+**155.** From the day he took shelter at these feet
+he became expert in all the shastras and their reasoning.
+
+**156.** All of you were formerly one company;
+that is why the Prabhu gave [you] Vrindavana.
+
+**157.** By that shakti and compassion [my Prabhu] made hundreds of thousands [of lines] of books,[^12-19]
+and you helped him greatly in this.
+
+**158.** Of all lands, the Prabhu's very own is Gauda:
+there dwell all the mahantas, in great numbers.
+
+**159.** This dharma becomes manifest when the books are spread;
+devise the way in which this may come about."
+
+**160.** All, agreeing, say one thing:
+"All know fully what Rupa's nature is.
+
+**161.** By whatever means this may be accomplished,
+we will all help with great joy."
+
+**162.** Then Sri Jiva says: "Listen, mahashayas:
+let Srinivasa Acharya go, if you are merciful.
+
+**163.** No one else is fit to spread this;
+and let Thakura Mahashaya go with him.
+
+**164.** Lokanatha Gosani has shown him the greatest mercy;
+the two are equal in worth and perfect in all things.
+
+**165.** Loading a cart with books, let them go to Gauda;
+at the command of all, these two will gladly go."
+
+**166.** [All reply:] "Whatever you command has the consent of all.
+You two, accept it."
+
+**167.** Acharya Thakura and Thakura Mahashaya,
+prostrating themselves, say humbly:
+
+**168.** "If you permit, Prabhu, we will stay in Vrindavana
+and serve the Prabhu's feet day and night.
+
+**169.** To see all of you — our minds have no other wish;
+all dharma will be preserved if this be permitted."
+
+**170.** "The highest preserving of dharma, Prabhu,[^12-20] is the preaching of dharma;
+at the command of all, go to Gauda."
+
+**171.** Sri Jiva Gosvami says to Bhatta Gosvami:
+"Whatever you consider right has my consent."
+
+**172.** To Lokanatha he says: "What is your command?"
+[He replies:] "Whatever you command, he will take as his duty."
+
+**173.** Then both prostrated themselves;
+[the elders], drawing them near and placing their hands on their heads,
+
+**174.** all together imparted shakti to the two of them:
+"Rupa and Sanatana are merciful to you both.
+
+**175.** Narottama and Srinivasa, you are the life of all;
+by Sri Rupa's command, make [this dharma] manifest everywhere.
+
+**176.** Everywhere the two of you will be victorious;
+your branches will spread throughout the world."
+
+**177.** And that day once again there was a joyful feast;
+all stayed there together at their ease.
+
+**178.** In the morning, having bathed, they took their leave;
+I do not know how much happiness there was.
+
+**179.** Sri Acharya Thakura and Thakura Mahashaya,
+prostrating themselves [before all], depart, floating in prema.
+
+**180.** All showed them mercy with great joy in their hearts;
+seeing auspicious signs everywhere, people come and go.
+
+**181.** "Whose power but Gauranga's could do so much?
+Set dharma in motion — may there be victory everywhere!"
+
+**182.** Taking leave of all, [the guests] go to their own places;
+and then Sri Jiva Gosvami reflected in his mind.
+
+**183.** In the town of Mathura there was a merchant, his servant;
+with his own hand he wrote a letter and sent it to him.
+
+**184.** Hearing the letter, the merchant came in haste,
+prostrated himself and touched his head to his feet.
+
+**185.** "[I need] a good cart and four bullocks that are strong,
+and with them ten men — men you know yourself."
+
+**186.** Calling the Acharya, he introduced them to one another:
+"My Prabhu described hundreds of thousands [of lines] of books;[^12-21]
+
+**187.** in them are the lilas of Radha and Krishna and the conduct of Vaishnavas.
+He will take them to Gauda and preach there.
+
+**188.** Bring waxcloth and wrap them over with it;
+on the road they will take it all, keeping it hidden."
+
+**189.** He put some money into his hand;
+and the other, joyful at heart, also helped somewhat.
+
+**190.** "Within ten days get everything ready and bring it to me;
+you yourself will go along with the cart."
+
+**191.** Saying "As you command," he went home
+and quickly got the cart and the waxcloth ready.
+
+**192.** Sri Jiva Gosvami, through a Vaishnava,
+called Thakura Mahashaya and sat [with him] in another kunja.
+
+**193.** "Listen, Narottama, I will tell you one thing:
+this Shyamananda has been living here with me.
+
+**194.** Take him with you — in the joy of talk about Krishna;
+and [from there] send him to his own country, giving him someone to go with him.
+
+**195.** Give him money for expenses too, so that he suffers no hardship;
+help him in every way."
+
+**196.** "Listen, listen, Shyamananda, to my words:
+this Narottama is my life.
+
+**197.** As you know me, so know him;
+about matters of bhajana, ask him.
+
+**198.** What out of fear you did not ask me,
+whatever is in your mind — ask him.
+
+**199.** Or about the limbs of sadhana and the siddha body —
+he will explain all the hidden subjects to you."
+
+**200.** All the account of him that I have heard from beginning to end
+I will write down, making it plain.
+
+**201.** First I will write of his birth — what land he is from;
+I will write in detail of his coming to Vrindavana,
+
+**202.** of how he renounced worldly life and came —
+I write this in detail: such was my guru's command.[^12-22]
+
+**203.** Listen, hearers, put [your doubts] aside;
+do not hold it against me that I break the order.
+
+**204.** I write all this having heard it from the Prabhu's mouth;
+hearing all this, you will feel no distress.
+
+**205.** He was born not in Gauda but in the south;
+I relate something about this.[^12-23]
+
+**206.** Born of a good family, in the Sadgopa caste[^12-24] —
+how did he come to know the essence of Bhagavata-dharma?
+
+**207.** He had sadhana earned beforehand;
+without it, who would come to such a state?
+
+**208.** His heart turned away from the world: "How can I attain Krishna?
+I must certainly take a guru."
+
+**209.** Rising in the night, he left home and went to a distant land;
+he cast everything away and took the dress of a vairagi.
+
+**210.** His father and mother, grieving, searched for him long,
+made many enquiries, but did not find him.
+
+**211.** Leaving the road on his left, he goes by the lower way;
+after some days he reaches the village of Narajol.[^12-25]
+
+**212.** Through Chewa-nagara he goes to Khanakul;
+seeing Gopinatha,[^12-26] he feels great joy.
+
+**213.** Seeing that holy seat, he counted himself fortunate;
+where he is going, where he will stay — he knows nothing.
+
+**214.** The next day, in the evening, he came to Ambika
+and sat alone, having gone to a secluded spot.
+
+**215.** The beauty of that Thakura's temple-house[^12-27] was enchanting;
+seeing Chaitanya and Nityananda, he rejoiced at heart.
+
+**216.** They performed the arati to the sound of many conches and bells;
+nothing was heard but the sankirtana of Krishna's name.
+
+**217.** Some dance, some weep, some roll on the ground;
+in that bliss his heart sank, it touched his very soul.
+
+**218.** A prahara of the night passed; the Vaishnavas [sat down] to eat;
+seeing [him], one of the servants came up to him.
+
+**219.** He asked: "Tell me, brother, where do you live?"
+He replied: "I live in the southern country."
+
+**220.** At the bidding of Thakura Mahashaya — to take prasada —
+he entered the house together with the Vaishnavas.
+
+**221.** He saw the Thakura sitting with the Vaishnavas,
+speaking of Krishna — now weeping, now laughing.
+
+**222.** Seeing him, he bowed down and took prasada;
+having taken prasada freely, he rinsed his mouth.
+
+**223.** Going to his place, he thinks to himself:
+"What service shall I do to spend my time?"
+
+**224.** At night he lay down to sleep; morning came;
+he sweeps the rasa-mandala, singing of Krishna.
+
+**225.** At that moment the Thakura comes; [the youth] prostrates himself;
+[the Thakura] looked at him with joy in his heart.
+
+**226.** Looking at one another, both bowed;
+saying "Good, good," the Thakura went into the inner rooms.
+
+**227.** From that day, as [the youth] went on serving,
+[the Thakura], seeing this extraordinary youth, was pleased at heart.
+
+**228.** He does his work with perfect purity; seeing this, [the Thakura] is glad.
+Another day the Thakura called him.[^12-28]
+
+**229.** Coming before him, he bowed down again and again;
+his body trembling, he stands with both palms joined.
+
+**230.** "What country are you from, son? Tell me about yourself.
+You are detached from the world — whom do you have?"
+
+**231.** "On earth I have no one; I am wretched from birth.
+Seeing your feet, I have become happy."
+
+**232.** Seeing the extraordinary youth, [the Thakura] was much pleased;
+he himself said to the pujari who served there:
+
+**233.** "Give him prasada freely.
+Serve, son, and stay in this place."
+
+**234.** Day by day [the youth's] service increased;
+seeing it, everyone was very glad.
+
+**235.** The Thakura's kindness grows day by day;
+he works splendidly — and in everyone's heart affection for him arose.
+
+**236.** One day the Thakura, sitting in the natamandira,[^12-29]
+seeing the youth's service, says to him, smiling:
+
+**237.** "Listen, child, you are alone — have you no one else?"
+"Prabhu, in this world what I truly have is your feet."
+
+**238.** "Whose disciple are you? Of what family [of succession]?"
+"These two feet I have truly made my all.
+
+**239.** I have no one in the world, Prabhu; I am utterly poor;
+I am not worthy to speak — and I am without bhakti.
+
+**240.** Who but you is the purifier of the fallen?
+Be merciful, give me shelter at your fearless feet."
+
+**241.** [The Thakura] understood that he wished to become his disciple;
+from that day [the youth] worked with the greatest diligence.
+
+**242.** One day, when the Thakura was sitting in a certain place,
+[the youth], with joined palms, addresses him:
+
+**243.** "Prabhu, your descent is for the deliverance of the poor and lowly;
+and there is no one in the world as fallen as I."
+
+**244.** Gazing at his form, he weeps: "I have no one;
+in life and in death my refuge is your two feet."
+
+**245.** The Prabhu showed mercy, called him to his side,
+and holding his head, gave Hari-nama into his ear.
+
+**246.** He bows down many times and gazes at his face;
+[the Thakura], calling him, placed his feet upon his head.
+
+**247.** From then on he was bidden to serve [the Thakura] personally;
+day by day his zeal and love grew.
+
+**248.** He is most attentive to the Vaishnavas, devoted to Krishna's name;
+on seeing the Prabhu he offers praise with joined palms.
+
+**249.** The command came: "Go, son, and bathe";
+at once all run to the bank of the Ganges.
+
+**250.** Having bathed in the Ganges, he came to him;
+seeing him, the Thakura said: "Sit here."
+
+**251.** Taking his hand in his own, he graciously gave him the Krishna-mantra:
+"Chant the mantra a hundred times, meditating on Krishna."
+
+**252.** He told him the whole way of bhajana;
+tears flow from [the youth's] eyes, his hair stands on end unceasingly.
+
+**253.** Again and again he prostrates himself and bows:
+"True are Krishna's two feet, true is Krishna's name."
+
+**254.** "From today your name is Duhkhi Krishnadasa;[^12-30]
+serve me, living in this place."
+
+**255.** From that day he is devoted to Krishna's name:
+in seclusion, waking through the night, he chants Krishna's name.
+
+**256.** Hunger and thirst have left him; he drinks the nectar of prema;
+the Vaishnavas sing of his sadhana.
+
+**257.** Seeing his strong faith, the Thakura himself [says]:
+"Sit by me, son, I will tell you something.
+
+**258.** Listen further, son, about my Prabhu,
+whose life is Chaitanya and Nityananda.
+
+**259.** Subala Thakura, Krishna's dear and intimate friend —
+he is my Prabhu Gauridasa, the sprout of prema.
+
+**260.** Day and night he is with Chaitanya and Nityananda;
+I cannot bear the waves of his prema.
+
+**261.** Even in their presence he showed [the pangs of] separation from the two Prabhus —
+he whose play with them is always, before and after.
+
+**262.** Having manifested [their] images, he set about feeding them;
+they did not eat, and spoke not a word.
+
+**263.** Hearing of this, the two Prabhus [came] to the Pandita,
+called him and said something — hear the account:
+
+**264.** 'We have heard that you have manifested two images;
+bring them here — we will look at them.'
+
+**265.** He brought the two images and set them before them:
+they were just like the two Prabhus themselves.
+
+**266.** 'Go and cook — we shall eat.'
+The Pandita cooked, deep in thought.
+
+**267.** Rice, kshira, many vegetable dishes — he prepared four offerings;
+the two Prabhus brought the two images and seated them.
+
+**268.** They say: 'Eat, let us see — all four of us; let our eyes be soothed!'
+The two images and the two Prabhus ate.
+
+**269.** Having rinsed his mouth, the Prabhu says to the Pandita:
+'Know this for certain, Gauridasa:
+
+**270.** we are two, and these are two — which of us will you see?'
+The Prabhu says: 'These two will stay in your house.
+
+**271.** You will not be able to live without seeing us — I tell you;
+whenever you wish, we will come to your house.
+
+**272.** In the form of these two images, we two
+will eat in your house every day.'
+
+**273.** That Prabhu made me his own;
+the lord of my life gave me the service of these two.
+
+**274.** I have told you everything — listen attentively;
+I have told you all this, seeing that you are worthy."
+
+**275.** He is wholly detached, there is nothing else in his mind;
+he cries out constantly: "Vrindavana!"
+
+**276.** One day he stood before the Prabhu;
+he is afraid at heart and cannot speak.
+
+**277.** "Speak, son, do not be afraid — what is it you would say?"
+"If you permit, I will go to Sri Vrindavana."
+
+**278.** "Good, good," the Prabhu said to him;
+"may Vrindavana soon show you mercy.
+
+**279.** Go to Vrindavana, son, and listen [to the teachings there]."
+So Hridaya Chaitanya Dasa understood his words.[^12-31]
+
+**280.** Rising in the morning, the Thakura gave him leave;
+he bowed down, and [the Thakura] placed his feet upon his head.
+
+**281.** There the two Prabhus are seated; the Thakura came [before them]:
+"Show abundant mercy to Krishnadasa!"
+
+**282.** Bringing a cloth that was prasada, he tied it on his head;
+bowing down, weeping, the youth departs slowly.
+
+**283.** In great detachment he sings Krishna's name unceasingly;
+without a care for food, he walks along the road.
+
+**284.** Remembering his Prabhu, he weeps:
+"When shall I come and see Vrindavana with my own eyes?"
+
+**285.** How much shall I write of what happened on the road?
+In how many places, how many times [the waves of prema] rose — hundreds upon hundreds.
+
+**286.** Little by little he came to Mathura;
+he weeps and rolls on the ground in prema.
+
+**287.** Seeing Krishna's birthplace, he wept long;
+wandering about, he came to the Vishrama ghat.
+
+**288.** At night he resolves in his mind: "All Vrindavana
+I will wander through and see everything everywhere."
+
+**289.** Morning came — he walks towards Vrindavana;
+he cannot walk, abundant tears fall on his breast.
+
+**290.** From afar he saw the chakra[^12-32] of Govinda's [temple];
+seeing it, he lost consciousness and fell to the ground.
+
+**291.** Beholding Govinda, maddened with prema,
+weeping and weeping, he falls down in obeisance.
+
+**292.** Coming to Vrindavana, he sees all those places
+and, bowing down, weeps, beside himself.
+
+**293.** He sees Dhira-samira and Vamshivata,
+he sees the whole bank of the Yamuna,
+
+**294.** he sees Chir-ghat and Amli-tala;[^12-33]
+to see the forests he went to Govardhana.
+
+**295.** Then he came to the two kundas, the lakes;
+he prostrates himself many times before Kundeshvara.[^12-34]
+
+**296.** Having circumambulated the Kunda, he bows down;
+[people] tell him of the many virtues of Sri Dasa Gosvami.
+
+**297.** He asked, and people say: "Here [he is]";
+gazing at his form, he bows down.
+
+**298.** [The Gosvami] is absorbed in sadhana and speaks to no one;
+tears fall from both his eyes; [the youth] remains standing.
+
+**299.** After a while the Gosani spoke:
+"Where have you come from, Vaishnava?"
+
+**300.** Prostrating himself, he answers:
+"I was born in the southern country; [I have come] to see the Prabhu's feet."
+
+**301.** "What is your name? At whose feet have you taken shelter?"
+"My name is Duhkhi Krishnadasa, I submit.
+
+**302.** My Prabhu is Hridaya Chaitanya Dasa Mahashaya";
+hearing this, the Gosani's heart rejoiced the more.
+
+**303.** "My parama-guru is Gauridasa Pandita Thakura."
+Hearing this, the Gosani was filled with abundant joy.
+
+**304.** "Sit, sit, son, Duhkhi Krishnadasa!
+[Gauridasa is] the joyful play of Sri Chaitanya and Nityananda.
+
+**305.** Tell me, is all well with your teacher?"[^12-35]
+Whatever he asked, he told him all.
+
+**306.** Gladdened, [the Gosvami] showed him great mercy:
+"Go now to another kunja and see the Kaviraja."
+
+**307.** Saying "As you command," he goes to see him;
+he sees him inside his hut, absorbed in remembrance.
+
+**308.** Two or four dandas passed — he remains standing;
+finding the moment, he falls down in obeisance.
+
+**309.** [The Kaviraja] is very old, his body frail, his voice barely audible;
+after a while he sees [someone] lying on the ground.
+
+**310.** "Who are you, who are you, son? Tell me.
+Why do you pain your body with so many prostrations?"
+
+**311.** Rising, he gives his name — Duhkhi Krishnadasa:
+"I have come in the hope of seeing the Prabhu's feet."
+
+**312.** "Good, good, come here and tell me about yourself:
+where have you come from?
+
+**313.** I do not know you, and my eyes see very poorly;
+at which mahashaya's feet have you taken shelter?"
+
+**314.** "I was born in the southern country, in the village of Ambuyavali;[^12-36]
+my Prabhu's name is Hridaya Chaitanya Dasa.
+
+**315.** My Prabhu's Prabhu is Gauridasa Pandita;
+his service to Chaitanya and Nityananda is unbroken."
+
+**316.** With great kindness he seated him close by,
+and, seating him close by, touched his body.
+
+**317.** He asked for all the good news;
+again and again he asks, and the youth tells it once more.
+
+**318.** Thus, having seen him, he stayed by the Kunda,
+[and later] came again to Vrindavana, longing to see it.
+
+**319.** Coming there, he beheld Sri Madanamohana
+and, losing consciousness, fell to the ground at once.
+
+**320.** Then he came and saw Sri Jiva Gosani;
+the Gosani was sitting — and seeing him, he was glad.
+
+**321.** Having seen him, he cannot take his eyes away;
+gazing intently, he bowed down.
+
+**322.** The Gosani says: "Vaishnava, do not bow;
+tell me about yourself — stop all these obeisances."
+
+**323.** Seeing him, the Gosani was very pleased:
+"Where have you come from just now?
+
+**324.** What is your name? Tell me the name of your Thakura."
+Smiling, the Gosani questions him gently.
+
+**325.** He says: "My name is Duhkhi Krishnadasa;
+my father and mother live in the southern country.
+
+**326.** Hridaya Chaitanya Dasa is my Thakura,
+and the Pandita Thakura is his Prabhu."
+
+**327.** Hearing this, he shows him great mercy:
+"Seeing you, I am truly very glad."
+
+**328.** Seeing his detachment, the Gosani thinks to himself:
+"With me he will find happiness in the end."
+
+**329.** "Sit, Vaishnava, I will ask you about everything:
+will you go back to your country, or stay here for good?"
+
+**330.** "Who can stay without your mercy?
+Such is my wish — I want to stay."
+
+**331.** Seeing his devotion, his meekness and humility,
+he says: "Stay in this kunja; take shelter here.
+
+**332.** If you have a wish in your mind to study,
+I will teach you all the shastras — study diligently.
+
+**333.** You will receive prasada here and practise sadhana;
+doing a chore or two, you will study with me."[^12-37]
+
+**334.** Saying "As you command," he bowed down again and again;
+[Jiva] placed his hand on his head with joy in his heart.
+
+**335.** Choosing an auspicious day, he began his studies,
+and, studying, became highly proficient.
+
+**336.** At night he practises sadhana in another kunja;
+sometimes he listens to books of bhakti with joy in his heart.
+
+**337.** Grammar was completed; he reads some poetry;
+sometimes, sitting, he copies something from the books of bhakti.
+
+**338.** Through his studies he became very learned,
+and the Gosani bids him study the books of bhakti.
+
+**339.** The Bhakti-rasamrita-sindhu — from the very beginning;
+as he studied it, his heart rejoiced.
+
+**340.** As he went into siddhanta, vaidhi and raga, and tattva,
+the Gosani would raise objections[^12-38] — and was glad at heart.
+
+**341.** With him he studies the Ujjvala[^12-39] with its commentary
+and became competent in everything, in expounding and in hearing.
+
+**342.** While studying the books on the lilas of Radha and Krishna,
+he says humbly before the Gosani:
+
+**343.** "What mood, what endeavour, what manner of sadhana —
+let your command be given to this lowly one."
+
+**344.** Then the Gosani told him of the five rasas,
+and especially let him hear of the madhura-rasa:
+
+**345.** of this bhava, of the bearer of bhava, of the raga approved [by Rupa] —
+he tells him without reserve, as to his follower.
+
+**346.** As he listened, longing[^12-40] arose in Krishnadasa,
+and humbly he began to speak:
+
+**347.** "As you have bidden, so accept me —
+[into] the essence of dharma approved by Sri Rupa.
+
+**348.** If one takes shelter of the view of him whose books these are,
+then every perfection becomes a giver of boons.
+
+**349.** Seeing you and relishing these books,
+longing arose in my mind, but out of fear I did not speak.
+
+**350.** You, full of mercy, have accepted me;
+by your grace I have learned this essence of bhava."
+
+**351.** The Gosani accepted him — [his life] bore fruit;
+receiving [this], he gained strength like a lion's.
+
+**352.** After two or four days he seated him close by
+and gave him the six-syllable mantra of Radhika-ji.
+
+**353.** The five names of Krishna and the five names of Radhika —
+he explained the rule for the times of chanting them.
+
+**354.** Then he told him in particular of the kama-bija —
+how to chant it joined with the lilas of Radha and Krishna.
+
+**355.** He took on the mood of a sakhi, as her follower,[^12-41] —
+and the time of service, and the sadhana approved for each.
+
+**356.** "What you have heard here — I have told you the essence;
+later you will hear all the rest in full.
+
+**357.** Listen, Krishnadasa, to what must and must not be done:
+Hridaya Chaitanya Dasa is assuredly your guru.
+
+**358.** He gave you the Krishna-mantra; from his mercy
+and together with his mercy all these attainments come.
+
+**359.** If you commit an offence against him, all will be destroyed;
+keep these words of mine in your heart."
+
+**360.** "Whatever the Prabhu commands is my duty."
+Coming outside, he prostrated himself without end.
+
+**361.** From the day he heard this, he practises sadhana:
+he studies with the Gosani and sits in remembrance in the kunja.
+
+**362.** At night, sitting, his mind absorbed in the lilas of Radha and Krishna,
+how many bhavas he feels as he contemplates them!
+
+**363.** One day Radha and Krishna with their sakhis
+were all dancing and singing in the kunja, in manifold waves [of delight].[^12-42]
+
+**364.** Radha and the sakhis held one another arm in arm,[^12-43]
+and in the middle Krishnachandra shone all the more.
+
+**365.** The sakhis dance with joyful hearts;
+in the middle dances Krishna, the enchanter of the world.
+
+**366.** All the sakhis sing and play instruments there;[^12-44]
+Radha dances, Krishna watches.
+
+**367.** The sakhis play many wonderful instruments and sing;
+Radhika dances, and sometimes makes the sakhis dance.
+
+**368.** Thus [they] dance for Krishna's pleasure;
+in this rasa all are enraptured, their eyes soothed.
+
+**369.** Radhika danced there without stint;
+from her left foot an anklet slipped off and fell.
+
+**370.** She herself did not know, nor did the sakhis know,
+whether it was on her foot or where it had fallen.
+
+**371.** After the dance [Radha and Krishna] go and lie down on the couch;
+the sakhis watch, putting their eyes to the lattice window.
+
+**372.** They spent the night in the rasa of love — and the night came to its end;
+the sakhis bade them rise.
+
+**373.** Rising after a long while, their bodies heavy with sweet languor,
+in shame and fear they get up and go each to their own home.
+
+**374.** The sakhis went off to their dwellings;
+the anklet lay there — no one knew.
+
+**375.** At that time Duhkhi Krishnadasa rose,
+joyful at heart that he would see the Rasa-sthali.
+
+**376.** He gazes at the footprints and prostrates himself;
+tears flow from his eyes, joy is in his heart.
+
+**377.** [And there,] covered with leaves, lies a jewelled anklet;
+from its fragrance prema swells abundantly.
+
+**378.** He picked it up, [placed it] on his head, and walks slowly;
+he cannot walk — prema has filled his heart.
+
+**379.** He came to the place where the Gosani was;
+the Gosani saw the wondrous anklet with his own eyes.
+
+**380.** He knew in his mind whose anklet this was;[^12-45]
+taking it in his hands, he prostrates himself before it.
+
+**381.** He pressed it to his breast and his face, to his eyes, placed it on his head;
+the Gosani's throat choked, and he fell to the ground.
+
+**382.** Krishnadasa raised the Gosani and seated him;
+holding the anklet to his breast, [Jiva] began to weep:
+
+**383.** "How much sadhana you have done, for how long!
+The limit of your good fortune I cannot tell."
+
+**384.** He kissed Krishnadasa and held him to his breast:
+"The kunkuma from [her] feet has touched your head."
+
+**385.** Again and again he smells the crown of his head[^12-46]
+and deems his own life fortunate.
+
+**386.** On both sides, in the middle of the breast,[^12-47] a dot of kunkuma —
+the place shone like the full moon.
+
+**387.** A tilaka in the shape of Krishna's foot, with Radhika's dot,
+he made for him, rejoicing in his own heart.[^12-48]
+
+**388.** "All the mahashayas will rejoice at this;
+from today your name is Shyamananda.[^12-49]
+
+**389.** A tilaka in the shape of Hari's foot is attested everywhere [in scripture];
+knowing this, accept it — and let no one find fault with it."
+
+**390.** He showed great mercy to that Shyamananda;
+the other, full of joy, bows down without end.
+
+**391.** That Shyamananda the Gosani then sent off,
+placing his hand in the hand of Thakura Mahashaya.
+
+**392.** However many his branches will be, wherever they may be —
+how many sinners, sufferers, people of low birth they will deliver!
+
+**393.** All this I cannot write, though I perceive it;
+all this I heard from the holy mouth of my Prabhu.
+
+**394.** I merely write, making that command my strength;
+whoever reviles this is ignorant.
+
+**395.** He is a devotee of Krishna, so in this there is nothing to wonder at;
+all the shastras proclaim it again and again.
+
+**396.** In the morning [Jiva] sent a man to Mathura:
+"Quickly bring the men here with the cart."
+
+**397.** Then Jiva Gosani thought in his mind:
+"Call Thakura Mahashaya and bring him to me;
+
+**398.** call Srinivasa Acharya and bring him here;
+bring both quickly — there is a reason."
+
+**399.** Acharya Thakura and Thakura Mahashaya [came];
+seeing them, the Gosani rejoiced at heart:
+
+**400.** "Take leave, each of you, of your own Prabhu,
+and come to me with joy in your hearts."
+
+**401.** The two went to Lokanatha Gosani
+and, arriving, told him of the Gosani's [command].
+
+**402.** Hearing it, he was deeply grieved;
+Narottama, weeping, says:
+
+**403.** "The Gosani's command is my task;
+if the command is broken, great harm results."
+
+**404.** [Lokanatha says:] "All instruction and initiation I gave you before;
+you are worthy, and I know you will carry this out.
+
+**405.** But one thing I doubt — this is my fear:
+I know well that [for you] the time of marriage [has come].[^12-50]
+
+**406.** Living amid worldly affairs, keep complete renunciation;
+give up oil, always keep to havishya.[^12-51]
+
+**407.** First of all perform the service of Gauranga,
+and after that the service of Radha and Krishna.
+
+**408.** As service to Krishna, so service to the Vaishnavas:
+carry them out as one.
+
+**409.** Sankirtana, great festivals, processions and the like —
+hold them, carefully keeping my command."
+
+**410.** Calling the Acharya, he entrusted [Narottama] into his hands:
+"Take Narottama carefully on the road,
+
+**411.** so that the dharma I have spoken of may be preserved;
+never be careless, always help him."
+
+**412.** Saying "As you command," the two bowed down;
+again and again they weep, gazing at his face.
+
+**413.** Calling them, he embraced them and [placed] his feet on their heads:
+"You alone I know as my very life.
+
+**414.** This decrepit body of mine has no strength left;
+come again, so that you may see [me] once more."
+
+**415.** Calling Acharya Thakura, the Gosani embraced him
+and, holding him with both hands, speaks, shedding tears:
+
+**416.** "The life in my body departs along with [you];
+I have told you this — the charge is no longer mine."
+
+**417.** Acharya Thakura took the dust of his feet:
+"As Narottama is to you, so let Srinivasa be.
+
+**418.** Show such mercy that in the minds of us both it may be:
+birth after birth may we never forget your feet."
+
+**419.** Weeping and weeping, the two came out;
+their hearts were distraught, they could not compose themselves.
+
+**420.** That very moment they went to Sri Bhatta Gosvami;
+seeing them, the Gosani understood the whole reason.
+
+**421.** Arriving, they bowed down, prostrated themselves and offered praise.
+"Sit, sit, children, hear my words.
+
+**422.** Sri Rupa's books are to be preached in Gauda;
+who will do it? I see no one like [you] in the world.
+
+**423.** You will preach all dharma according to the books
+and keep your own dharma.
+
+**424.** As I told you before what each must do,
+so teach everyone.
+
+**425.** This is my own work; go with care,
+and do as the Gosani commands.
+
+**426.** Do this work, children, with undivided minds;
+and come once more to Vrindavana.
+
+**427.** I shall look at you once more to my eyes' content —
+then my desire will be fulfilled.
+
+**428.** Srinivasa and Narottama, you two —
+from today the life has left my body."[^12-52]
+
+**429.** What state came over him then, only he knows;
+for a whole prahara he lay on the ground, weeping.
+
+**430.** Srinivasa says: "Prabhu, what more can I say?
+I was not able to serve you for long.
+
+**431.** I had many desires — fate has thwarted them;
+[when] shall I see your feet with my eyes again?"
+
+**432.** Embracing Narottama, Srinivasa weeps:
+"The fault of my own karma has come to light."
+
+**433.** At Narottama's weeping a stone would split:
+"Leaving the Prabhu's feet, where am I going?
+
+**434.** In his mercy he himself gave me his two feet;
+has the fruit of some offence now ripened?"
+
+**435.** Both roll on the ground, crying "Lord of my life!"
+"What happiness do you seek, O heart, going off on the road?"
+
+**436.** The state that came then cannot be written;
+not a drop of it touched the body of this sinner.[^12-53]
+
+**437.** Who has such love for the guru?
+Hearing it and writing it, my heart is amazed.
+
+**438.** What virtues, what prema, what a state the two were in!
+Only by the power of fortune do I hold even the slightest hope of it.
+
+**439.** Whoever, setting argument aside, listens to this,
+at the end attains the feet of Radha and Krishna.
+
+**440.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the twelfth vilasa of the Prema-vilasa.*
+
+[^12-1]: A variant given in the 1913 edition: "For some days he stayed with his own Prabhu." The Prabhu is Lokanatha Gosvami.
+[^12-2]: A variant given in the 1913 edition: "his body thrilled, and he wept in great prema".
+[^12-3]: A variant given in the 1913 edition: "This is nothing."
+[^12-4]: According to Gaudiya tradition, the siddha form of Jiva Gosvami himself is Vilasa Manjari. Cf. ch. 11, where Lokanatha gives Narottama the form of Vilasa Manjari.
+[^12-5]: The 1913 edition has the past tense: "the whole world was flooded".
+[^12-6]: Radha-kunda, where Raghunatha Dasa Gosvami (Sri Dasa Gosvami) lived.
+[^12-7]: The sense seems to be that in Bengali payar the narrative inevitably grows long, unlike concise Sanskrit.
+[^12-8]: Literally "three months over and above — I report". Initiation in Vaishakha plus three months brings us to Shravana, the date of this meeting (59).
+[^12-9]: The Lalita-madhava, a drama by Rupa Gosvami; it describes Krishna's departure for Mathura and the gopis' separation from him.
+[^12-10]: Literally "your planted body", i.e. Srinivasa himself, nurtured by Jiva's teaching.
+[^12-11]: A variant given in the 1913 edition: "for Krishna's play (vilasa)".
+[^12-12]: That is, Krishna's departure for Mathura described in the Lalita-madhava.
+[^12-13]: The line apparently introduces the question about the kadamba, which is not given directly.
+[^12-14]: A play on words: "acharya" and "arya" (noble, honourable).
+[^12-15]: Dashami and ekadashi, the tenth and eleventh lunar days (here of the bright fortnight of Kartika).
+[^12-16]: Literally "they performed the bathing, doing all the samskaras"; who was bathed is not stated — apparently the Deities before the offering.
+[^12-17]: That is, having offered the food to the Deities and the eternal associates, they came out of the shrine, leaving them to "eat".
+[^12-18]: Both editions have "candrākṣa" (?); perhaps "candrātapa", canopies. The translation is conjectural.
+[^12-19]: Literally "a lakh (a hundred thousand) of books"; the 1999 edition below has "my Prabhu described a lakh of books". Tradition speaks of the "lakh of shlokas" written by Rupa and Sanatana.
+[^12-20]: The address "Prabhu" here seems to come from the elders to the Acharya, or else the line is Jiva's own reply; neither edition marks the speaker.
+[^12-21]: See note 19.
+[^12-22]: A variant given in the 1913 edition: "…at whose feet he took shelter and renounced the world".
+[^12-23]: A variant given in the 1913 edition: "…why he was born in Madhyadesha".
+[^12-24]: So the 1999 edition (sadgopa, a farming caste); the 1913 edition has "in the family of the gopijanas" (?).
+[^12-25]: So the 1999 edition; the 1913 edition has "Naradeu" (?).
+[^12-26]: Khanakul, the seat of Abhirama; Gopinatha, the Deity worshipped there.
+[^12-27]: Ambika (Kalna), the seat of Gauridasa Pandita; the Thakura here is his disciple Hridaya Chaitanya, keeper of the images of Chaitanya and Nityananda. Below (220) he is called Thakura Mahashaya — not to be confused with Narottama.
+[^12-28]: Both editions have "called me" — apparently a corruption or a trace of a first-person account.
+[^12-29]: The natamandira, the open hall in front of a temple's shrine.
+[^12-30]: The 1913 edition here and below often has "Duhkhini Krishnadasa"; so too in places the 1999 edition.
+[^12-31]: The sense of the line is unclear; perhaps it means that Hridaya Chaitanya understood his disciple's wish.
+[^12-32]: "cakrabeḍa", apparently the chakra (wheel finial) on the spire of Govinda's temple, visible from afar.
+[^12-33]: Amli-tala, the spot under a tamarind tree (imli) by the Yamuna associated with Mahaprabhu.
+[^12-34]: Kundeshvara, Shiva as guardian of Radha-kunda.
+[^12-35]: Literally "of the adhikari", i.e. of his guru, Hridaya Chaitanya.
+[^12-36]: So the 1999 edition (অম্বুয়াবলি); the 1913 edition has "Anuyavali". The reading is uncertain.
+[^12-37]: A variant given in the 1913 edition: "for a prahara or two you will study with me".
+[^12-38]: "pūrvapakṣa", putting forward an opponent's objection so that the pupil may refute it.
+[^12-39]: Rupa Gosvami's Ujjvala-nilamani (here apparently with Jiva's commentary).
+[^12-40]: "lobha", "greed, longing": in Rupa's teaching, that which awakens raganuga-bhakti.
+[^12-41]: A variant given in the 1913 edition: "he took on the mood of a sakhi, following the sakhis".
+[^12-42]: A variant of the second line given in the 1913 edition: "were singing and dancing there in great delight".
+[^12-43]: So in the variant given in the 1913 edition; the main text of both editions is unclear ("Radha — the sakhis with her own arm, with the other arm").
+[^12-44]: A variant given in the 1913 edition: "the sakhis dance with arms linked".
+[^12-45]: A variant given in the 1913 edition: "he knew in his heart whose anklet this was".
+[^12-46]: Smelling the crown of the head is a sign of tender, parental love.
+[^12-47]: A variant given in the 1913 edition: "between the brows". The main text apparently describes the application of tilaka.
+[^12-48]: That is, the special tilaka worn by Shyamananda's followers. The line is somewhat unclear in both editions.
+[^12-49]: "Shyamananda", "the joy of Shyama (Krishna)".
+[^12-50]: That is, his family will press Narottama to marry. The reading of the line is conjectural.
+[^12-51]: Havishya, plain ascetic food (rice with ghee, without spices) prescribed during vows.
+[^12-52]: The 1913 edition has "from the very beginning".
+[^12-53]: That is, the author laments that he himself has no share in such a state.
+
+---
+
+# Vilasa 13. The Theft of the Books and the Conversion of Vira Hambira
+
+*Farewell to Gopala Bhatta and Lokanatha; Jiva sends the books in a chest on a cart; the journey through Agra and Jharikhanda; Vira Hambira's men rob the cart near Gopalpur; the passing of Krishnadasa Kaviraja; Narottama returns to Kheturi and instructs Shyamananda; Srinivasa in Vishnupura: his exposition of the Bhagavata at court, the recovery of the books, the initiation of the king and of the pandita Vyasa; news sent to Narottama; Srinivasa with his mother at Yajigrama; Ramachandra of Teliya Budhari seeks to meet him*
+
+**1.** Glory, glory to Chaitanya, the purifier of the fallen!
+Glory, glory to Nityananda, the wealth of those who have nothing!
+
+**2.** Glory to Advaitachandra, the utmost limit of virtue!
+Glory, glory to the devotees, the fulfilment of desires!
+
+**3.** Glory, glory to Sri Jahnava, glory to Virachandra!
+When I took shelter at such holy feet,
+
+**4.** by the strength of that command I write of the power of those feet;
+hear what gain came to me from hearing and writing.
+
+**5.** The words I hear from the Prabhu's mouth I write down;[^13-1]
+what has come of writing them I see with my own eyes.
+
+**6.** Seating me close by, he tells it in order;
+to whom shall I tell how my heart rejoices as I listen?
+
+**7.** Whatever I hear I write down on paper,
+and some four dandas later I read it aloud in his presence.
+
+**8.** His heart was gladdened, and he showed great mercy;
+the words of his holy mouth are perfection, those feet my refuge.
+
+**9.** "Go, Srinivasa, my son — why do you weep?
+Write [to me] of good and ill on your journey.
+
+**10.** Narottama will be with you in all things;
+two bodies, one life — so all people sing.
+
+**11.** Your going has brought me so much pain;
+when I have news, good or ill, I shall live again.[^13-2]
+
+**12.** Go carefully on the road, so that no harm befalls."
+Weeping and weeping, the Gosani says this.[^13-3]
+
+**13.** He embraced them both with the greatest mercy:
+"Carry out that work so that no loss befalls."
+
+**14.** Saying "As you command," the Acharya went out;
+he cannot walk, his body has grown weak.
+
+**15.** Remaining before the Gosani,[^13-4] Thakura Mahashaya
+bows down and says to him:
+
+**16.** "This Narottama is but a semblance of your servant;
+to attain these two feet — I have no other hope."
+
+**17.** "Go, Narottama, my son, what more can I say?
+In Vrindavana you have attained every perfection.
+
+**18.** You will live together with Srinivasa."
+Hearing this, his heart was gladdened.
+
+**19.** Saying "As you command," he went out of the kunja;
+however much he tries to calm his heart, it will not be calm.
+
+**20.** Then they went to Sri Jiva Gosani;
+having made ready a chest, he is packing books into it in seclusion.
+
+**21.** All the books of Sri Rupa and his own books
+he laid inside it layer upon layer.
+
+**22.** With the help of many people the chest was carried out
+and all of it loaded onto the cart.
+
+**23.** In the presence of all he put a lock on it
+and wrapped it in waxcloth, tightly on every side.
+
+**24.** All the money for the road he gave to the three:
+"Wherever you go, be careful."
+
+**25.** With joyful hearts they yoked the bullocks,
+meditating on the feet of Rupa and Sanatana,
+
+**26.** remembering Chaitanya, Nityananda, Advaita and the devotees —
+for every blessing.
+
+**27.** The cart came to the door of Govinda's [temple];
+together with Sri Jiva they go to behold [Him].
+
+**28.** They saw Govinda seated on the throne,
+and, bowing down many times, they addressed Him:
+
+**29.** "For the welfare of Srinivasa and Narottama
+be merciful — we pray at Your feet."
+
+**30.** The pujari placed prasada garlands round the necks of both;
+bowing down, the two set off towards Mathura.
+
+**31.** Together with Sri Jiva Gosvami in the town of Mathura
+they all gathered and spent the night.
+
+**32.** Sending the merchant, he obtained a royal pass;
+in it [an order] was written to let them through the toll-posts as far as Jajpur.[^13-5]
+
+**33.** Morning came; all, joyful at heart,
+go along the road, slowing their pace at times.
+
+**34.** Outside the town, at the hour of parting,
+Sri Jiva embraced them and says:
+
+**35.** "Gaurangasundara is the crown jewel of all rasas;
+his shakti is the bodies of Sanatana and Rupa.
+
+**36.** The form of Sri Gauranga's prema is in the bodies of these two;
+know in your hearts that Rupa and Sanatana are [his] shakti.[^13-6]
+
+**37.** By the command of that Chaitanya, to make prema manifest,
+Rupa and Sanatana described it [in their books].
+
+**38.** The dharma that is in those books is manifest in you;
+you two are able to make it manifest everywhere.[^13-7]
+
+**39.** This is not my command — it is the Prabhu's order:
+go quickly, both of you, to Gauranga's own land.
+
+**40.** May your journey be easy and auspicious.
+I carry out the command — even at the cost of my life.[^13-8]
+
+**41.** Srinivasa and Narottama, you are my life;
+stay together, do not go separate ways."
+
+**42.** Clasping them round the neck, he weeps, losing consciousness:
+"My heart is enchanted by the virtues of you two.
+
+**43.** In life and in death you will remain in my heart;
+you and I know this — it is no concern of anyone else."
+
+**44.** Sri Jiva Gosvami, taking Shyamananda by the hand,
+showed him great mercy, joyful at heart:
+
+**45.** "When you reach your country, serve Krishna, serve the Vaishnavas,
+preach dharma, set prema in motion.
+
+**46.** Go to your country without anxiety — everywhere there will be blessing;
+through your branches all will be flooded [with prema].
+
+**47.** Achyutananda's son, named Murari Dasa,
+has set his heart on your shelter."[^13-9]
+
+**48.** "I told you of this before — pay heed to it,"
+and, taking [Shyamananda] by the hand, he entrusted him to Narottama:
+
+**49.** "You will explain the subjects to him according to the Ganoddesha;[^13-10]
+let him know in his heart what must and must not be done in sadhana.[^13-11]
+
+**50.** In accordance with the book Bhakti-rasamrita
+explain everything to him freely and clearly.
+
+**51.** Through the Ujjvala, the best book on the lilas of rasa,
+instruct him, and send him quickly to his own country.
+
+**52.** Give him two men as companions and money for the road,
+so that he suffers no hardship and goes with joy in his heart."
+
+**53.** They began to weep, clasping his two feet;
+embracing them, he sent them off.
+
+**54.** With them go ten armed Hindus[^13-12]
+and two cart-drivers, so that they suffer no hardship.
+
+**55.** "On the road, ward off every [danger];
+let no one's mind waver in any way."
+
+**56.** So the three go, weeping and weeping,
+remembering Rupa, Sanatana and Jiva.
+
+**57.** The Gosani went back to Sri Vrindavana,
+always thinking of the road and wishing them well.
+
+**58.** Showing the royal pass, they go from place to place;
+they spent one night at Agra.
+
+**59.** Rising at dawn, they then go on quickly;
+chanting Krishna's name, they go along the road with silent minds.
+
+**60.** At night they sit talking of Krishna;
+how the day passes they do not notice.
+
+**61.** Showing the royal pass everywhere,
+they went as far as the town of Tarikta.[^13-13]
+
+**62.** For some days they went easily along the royal road;
+then they resolved to go by the Jharikhanda road.[^13-14]
+
+**63.** Keeping the country of Magadha on their left, they go along the road;
+going by the forest road, they feel great joy.
+
+**64.** The three go along merrily, talking of Krishna;
+a good distance they cover in accounts of Krishna's lilas.
+
+**65.** Leaving the Jhari country behind, they came on,
+and go towards Tamluk, joyful in mind.[^13-15]
+
+**66.** At night they sit in talk about the object of worship, speaking of Krishna;
+so they go on happily, not noticing the forest.
+
+**67.** Cuckoos and peacocks call, [the peacocks] dance;
+seeing this, they feel bhava as if in Vrindavana.
+
+**68.** Mahaprabhu felt great joy in Jharikhanda;[^13-16]
+seeing [these places], they weep, tremble, their hair stands on end.
+
+**69.** In supreme bliss they know no sorrow;
+it does not even cross their minds that good or ill might befall.
+
+**70.** The king of Vishnupura, named Vira Hambira,
+lives by banditry; he is utterly wicked.[^13-17]
+
+**71.** In his service were many men called "reckoners",[^13-18]
+and hundreds of phansiyara stranglers, killers of men.[^13-19]
+
+**72.** These people go to every country and kill;
+they went along following the cart.
+
+**73.** Reckoning, they go along the road through other men's kingdoms;
+since it is another's country, they do not kill, but go alongside.
+
+**74.** [The travellers,] keeping Panchavati on the left, [passed] Raghunathpur;
+saying, "This is our own country!" they were filled with great joy.
+
+**75.** In a village called Maliyara there is a bhaumik;[^13-20]
+they stayed there at ease, without fear.
+
+**76.** [The bandits,] reckoning, see that the cart is full of great wealth —
+diamonds, gems, rubies, so many priceless jewels!
+
+**77.** Two of them went ahead and tell the king;
+"Gold, diamonds, rubies," said the evil-minded ones.
+
+**78.** The king asked: "How many people are with it?"
+"Fifteen people," they said for certain.
+
+**79.** "Take two hundred men and go;
+do not take their lives, but bring all the wealth."
+
+**80.** Many musketeers and archers
+go to rob the cart, having laid their plans.
+
+**81.** There is a village, Gopalpur, most charming;
+there the travellers stopped for the night, joyful at heart.
+
+**82.** Two praharas of the night passed in the sweetness of talk about Krishna;
+some lay down, some are sitting.
+
+**83.** All of them, like Death itself, fell upon them;
+"Kill, kill! Cut, cut!" they cry as they loot.
+
+**84.** All stood frozen with fear;
+[the bandits] plundered the cart — no one took up arms.
+
+**85.** By the forest road they took [the cart] to the king;
+morning came — and all [the travellers] were in distress.
+
+**86.** The king himself came out to take the cart;
+seeing the cart's bullocks, he rejoices at heart.
+
+**87.** He has the cart placed inside his palace;
+sending the people away, he opens the cart and looks.
+
+**88.** He saw a large chest inside;
+seeing its beauty, the king rejoices.
+
+**89.** In it he saw a great many books;
+great sorrow came over his heart, and he fell to thinking.
+
+**90.** Coming out, the king summoned the men;
+all who had gone [on the raid] came.
+
+**91.** "By what road did the cart come? Tell me, brothers;
+from how far away did you bring it?[^13-21]
+
+**92.** […] with you, king, we came with it;[^13-22]
+when we reckon, we see all kinds of wealth [in it]."
+
+**93.** "A cart of goods, king," so all report;
+[the king] grew thoughtful, but says nothing to anyone.
+
+**94.** He had the chest, just as it was, placed in the treasury
+and told the people to keep it carefully.
+
+**95.** Meanwhile Acharya Thakura and Thakura Mahashaya
+wander about, saying nothing to anyone.
+
+**96.** Shyamananda was stunned;
+on all of them fell a heavy burden of great sorrow.
+
+**97.** To the cart-drivers and [escort] he says:
+"Listen, brothers, to what more I have to say.
+
+**98.** Of [the ways of] this country one cannot even speak;
+coming to our own country, we have found sorrow in our hearts.
+
+**99.** All that was with us has been taken;
+do not grieve — go to your homes.
+
+**100.** What has happened I shall write to the Gosvami
+and set out all our sorrow in a letter."
+
+**101.** "Good, good," the people said to him;
+[he] took them all into the village.
+
+**102.** There he asked for paper and pen
+and wrote in everyone's presence what had happened.
+
+**103.** They went off on their way;
+and [the Acharya and his companions] go from village to village asking, weeping without cease.
+
+**104.** Nowhere do they find a trace, people say nothing;
+who can bear the sorrow that has settled in their hearts?
+
+**105.** "Sri Krishna Chaitanya Prabhu, Nityananda Raya!
+To bring [the books] home — and such sorrow was our lot!
+
+**106.** Rupa, Sanatana, Jiva, Prabhu, lord of my life!
+With what joy shall I pass my days, orphaned?
+
+**107.** So much labour spent to come so far!
+I have committed an offence — I left the Prabhu's service."
+
+**108.** So he thinks to himself, sitting in the forest;
+his life is ebbing away, a great thorn has lodged in his heart.
+
+**109.** "All the commands that were given have come to nothing;
+who knows this sorrow, to whom shall I tell it?"
+
+**110.** As if mad, he wanders from village to village,[^13-23]
+weeping without cease and pondering within himself.
+
+**111.** There is a reason for this — it can be perceived;
+know for certain that this is Chaitanya's will.
+
+**112.** Rupa, Sanatana and Jiva set this play in motion:
+[the bandits] stole all the books, taking them for wealth.
+
+**113.** And this is not without ground — for that alone is true wealth;
+the "reckoner" reckoned [rightly] — what fault is there in him?
+
+**114.** All the questions and answers with Ramananda[^13-24]
+the Kaviraja wrote down with joy in his heart.
+
+**115.** Rasa, bhakti, the truth of Krishna, the account of prema —
+how many proofs of it shall I set down?
+
+**116.** One who knows that truth understands it in his heart;
+he will understand the reason for what I write.
+
+**117.** "Tell me, Raya, which wealth counts as wealth among all riches?"
+"He who has prema for Radha and Krishna is the richest of men."[^13-25]
+
+**118.** In all of Sri Rupa's books, in the accounts of the lilas —
+how much wealth of prema there is in their waves!
+
+**119.** The wealth of prema is strung in them letter by letter;
+[the "reckoner"] counted them in his heart as a touchstone.
+
+**120.** The word of the one who reckoned is not false;
+and there is a reason why [the books] were stolen.
+
+**121.** In whatever way the books came into his house,[^13-26]
+there is an inconceivable power in them: it makes prema arise in the heart.
+
+**122.** If [prema] arises in a few people, who takes note?
+But if it arises in a king, all people come to know.
+
+**123.** Whoever grasps the sense of my writing
+will later grasp its further purpose as well.
+
+**124.** Meanwhile Acharya Thakura laments in his grief.
+After some days the messenger reached the town of Mathura.
+
+**125.** The next day, bringing the letter to the Gosani,
+he handed over the letter and gave the whole message by word of mouth.
+
+**126.** Sri Jiva read the letter and understood the matter;
+he told everything to Lokanatha Gosani.
+
+**127.** Sri Bhatta Gosani heard it all
+and, weeping, says: "I have felt great pain."
+
+**128.** Raghunatha and the Kaviraja, both hearing this,
+weeping and weeping, fall and roll on the ground.
+
+**129.** The Kaviraja says: "Prabhu, I do not understand the reason:
+what was done, what has happened?" — and he ponders within.
+
+**130.** In his old age the Kaviraja could no longer walk;
+with that grief he departed from the world.
+
+**131.** Sitting on the bank of the Kunda, he lamented without cease —
+and then the Gosani, overwhelmed, rushed forward and fell headlong.[^13-27]
+
+**132.** "How much pain of separation can my life bear?
+All the sorrow of my heart — who knows it?
+
+**133.** Sri Krishna Chaitanya, Nityananda, full of mercy!
+Besides you, whom else do I have?
+
+**134.** Advaita and all the devotees, compassionate of heart,
+be kind, all of you, to Krishnadasa.
+
+**135.** Prabhu Rupa, Sanatana, Bhatta Raghunatha,
+where have you gone, Prabhus? Make me your own.
+
+**136.** Lokanatha, Gopala Bhatta, Sri Jiva Gosani,
+show me mercy — I have no one.
+
+**137.** Sri Dasa Gosani, grant me your feet,
+on which I meditated — to attain them in life and in death."
+
+**138.** Hand on his breast, Raghunatha Dasa weeps:
+"A thorn has lodged in my heart, my hope is unfulfilled.
+
+**139.** If you go, where else, who else is there for me?"
+Sobbing aloud, he weeps, holding his hand.
+
+**140.** "You are going and leaving me an orphan;
+how shall I pass my days, bearing this sorrow?"
+
+**141.** Fixing his eyes on Raghunatha's face,
+Krishnadasa took his feet and pressed them to his own breast:
+
+**142.** "O, grant me a place to dwell on the bank of Radha-kunda;
+Raghunatha, dear to Radha, be merciful."
+
+**143.** Contemplating [his place] in that company where he abides,[^13-28]
+with his eyes closed he gave up his life.
+
+**144.** Raghunatha Dasa weeps, hand on his breast:
+"You have gone, leaving me an orphan."
+
+**145.** How much shall I write of the grief — it cannot be told;
+crying "Kaviraja, Kaviraja!" all sing his virtues.
+
+**146.** All the accounts of the perfected cannot be told;
+only one who has received mercy understands them in his heart.
+
+**147.** At this time such an event took place;
+if I do not write of it, my Prabhu's command is broken.
+
+**148.** If an offence lies in that, words will not come to my lips;
+now I write it — hear the account.
+
+**149.** The two mahashayas wander about searching,
+and in that grief they take Shyamananda with them.
+
+**150.** One night the two take counsel;
+Acharya Thakura says: "This is what I think:
+
+**151.** go to your own country, to your home;
+my heart grieves with this grief.[^13-29]
+
+**152.** If this is not accomplished, no other aim is needed:
+all will be in vain, the command will not be kept.
+
+**153.** Who took them — this I must certainly find out;
+then I will do whatever can be done.
+
+**154.** I will write a letter and send it to you by a messenger;
+obtaining a royal letter, I will act accordingly.
+
+**155.** Or else, having found out, I will come to you
+and go [there], taking horsemen with me.
+
+**156.** Follow this plan — then all will be accomplished;
+rise in the morning and set out."
+
+**157.** In the morning the two took leave of each other;
+how much grief rose in their hearts then!
+
+**158.** Taking his hand, [Srinivasa] says: "Listen, Narottama:
+if I do not find the books, I shall give up my life."
+
+**159.** Weeping and weeping, the two parted;
+the one goes home, the other wanders about.
+
+**160.** Thakura Mahashaya is sorrowful within and without;
+he does not know where he goes or where he stays.
+
+**161.** Shyamananda goes with him, saying nothing;
+he walks along the road, fallen into a stupor of grief.
+
+**162.** After some days [Narottama] came to his own country;
+he goes home without clothes, in the guise of a beggar.
+
+**163.** Hearing of it, his mother and father came running;
+gazing at his face, they fall and roll on the ground.
+
+**164.** All his kin, as many as there were, came;
+coming, they bowed down and clasped his feet.
+
+**165.** Gazing at his form, they fall down weeping;
+they cry "Hari!" and, rejoicing, look at his face.
+
+**166.** Subjects, ministers and friends came from all over the country;
+one by one they speak to him, weeping.
+
+**167.** Falling at his feet, they weep — and grief and sorrow passed;
+brahmanas, good people and many others came.
+
+**168.** He entered his house, absorbed in joy;
+all the people sit, surrounding his dwelling.
+
+**169.** All rejoiced and sank into prema;
+crying "Ha, ha, Radha-Krishna!" he rolls on the ground.
+
+**170.** His mother, father and kin count themselves fortunate:
+once again they have seen the form of prema with their eyes.
+
+**171.** Three times [a day] he bathes, practises remembrance and kirtana;
+seeing this, all the people rejoice at heart.
+
+**172.** Day and night vanish, who knows where, in his absorption in prema;
+he chants Hari-nama until the day is done.
+
+**173.** "The good fortune of many births has dawned for me,"
+someone says; "give me some command."
+
+**174.** Someone says: "Taking shelter at such feet,
+worshipping Radha and Krishna, one's sins are destroyed."
+
+**175.** He says nothing to anyone, remains silent,
+at times remembering Sanatana and Rupa:
+
+**176.** "Prabhu Lokanatha, where are you, lord of my life?
+When shall I see those feet before my eyes?"
+
+**177.** In seclusion, in a grove, he sits alone,
+softly, softly uttering Hari-nama.
+
+**178.** Such sadhana he performs that people do not know of it;
+at the sight of him everyone's grief and sorrow depart.
+
+**179.** If he shows his kindness — what virtues one gains,
+what prema one attains, within and without!
+
+**180.** Later I will write of all these wondrous things:
+in what persons, here and there, he made prema manifest.
+
+**181.** Now I write of him — hear the account
+of why Shyamananda had come with him.
+
+**182.** "I wish to ask something — hear me, mahashaya:
+whatever the command of Gosvami-ji may be…"
+
+**183.** Saying "Good, good," he began to tell him
+the subjects [set out] in the Ganoddesha-dipika:
+
+**184.** the way of remembering one's own siddha body —
+at what time what service, with whom one abides;
+
+**185.** he speaks of the abode of rati, of the determination of the yutha,[^13-30]
+of constant service in the form of special longing;[^13-31]
+
+**186.** dress according to colour and rasa — all this according to the shastras;
+to abide together with the sakhi who is the form of the guru;[^13-32]
+
+**187.** the bank of the Kunda, Varshana, Nandishvara,
+dwelling at Javata — [there] one will be intent on service.
+
+**188.** He explained the limbs of sadhana through the Rasamrita-sindhu —
+raga and vaidhi, as they are practised.
+
+**189.** "Join all sadhana with raga" —
+this is Sri Rupa's firm word.
+
+**190.** And what he said on the subject of sadhya and sadhana —
+by this such limbs of sadhana are protected.
+
+**191.** Being careful towards Krishna's devotees and towards Krishna,
+[the practitioner] is protected from offences against the name and offences in service.
+
+**192.** He told in detail all that must be considered,
+and what, accordingly, the conduct of a Vaishnava is.
+
+**193.** Keeping him for ten days, he gave him leave,
+giving him money and two men as help on the road.
+
+**194.** At parting, the grief of separation of both:
+"Now fate has shattered all our happiness."
+
+**195.** Shyamananda went off to his own country;
+who can describe what happened then?
+
+**196.** Then Thakura Mahashaya came outside
+and, weeping and weeping, sent him off.
+
+**197.** [Shyamananda] bowed down, the Thakura embraced him;
+and Shyamananda, stricken with grief, departed.
+
+**198.** Going a little way, he bows down;
+going a little further, he looks back at his face.
+
+**199.** He walks along the road with his hand on his head;
+the sorrow that came then — to whom shall I tell it?
+
+**200.** Meanwhile Acharya Thakura, wandering in the forest,
+one day came into Vishnupura.
+
+**201.** He knows no one, and no one knows him;
+some take him for a Baul.[^13-33]
+
+**202.** One outer cloth and one kaupina,
+[and] a cloth a cubit and a half long with which he wipes his body —
+
+**203.** and that an old, very dirty garment;
+he wanders about the town like a wayfaring guest.[^13-34]
+
+**204.** Sometimes he begs alms and eats, sometimes he drinks only water;
+where he stays, where he goes — he has neither place nor shelter.
+
+**205.** Having wandered about the town for ten days,
+one day he was sitting under a tree.
+
+**206.** At that moment a young brahmana came by;
+seeing him, [Srinivasa] asked: "What is your name?"
+
+**207.** He said: "My name is Krishnavallabha;
+I live in the king's realm, under the king's patronage."
+
+**208.** Seeing the beauty of the brahmana's son, he was pleased,
+and humbly asked him something:
+
+**209.** "Tell me, who is the king here, what is his name?
+Is he righteous, or of another disposition?"
+
+**210.** He says: "The king is very wicked;
+he lives by banditry all the time, and there is no restraining him.
+
+**211.** He kills, he cuts, he loots wealth — neither ghat nor road is passable;
+his name is Vira Hambira, the king of the Malla throne.[^13-35]
+
+**212.** So time went by, some days passed —
+[and now] he has robbed two carts and brought back the wealth.
+
+**213.** A brahmana pandita comes and recites the Purana;
+the king sits and listens, the brahmana sits and recites.
+
+**214.** We sit and listen for two or four dandas;
+he has no faith in it — a villain, a pashandi."
+
+**215.** [Srinivasa] asked him: "Have you studied anything?"
+"I have done grammar," I replied.[^13-36]
+
+**216.** "Do you understand the drift of a shloka, what its meaning is?"
+"If I study literature and poetics, then I will understand."
+
+**217.** Then he talked with him about the sutras of sandhi;
+the two discuss with great delight.
+
+**218.** The brahmana's son was filled with great affection:
+"Thakura, you yourself could teach me.
+
+**219.** I am looking for much learning — someone to teach me."
+"I can teach you," [Srinivasa] agreed.
+
+**220.** "There is a village called Deuli, not very far:
+across the river, half a krosha away, is my home.
+
+**221.** If you will be kind to me, come to my house."
+Hearing his words, [Srinivasa] rejoiced at heart
+
+**222.** and, saying "Let us go," [went] with a joyful mind;
+the brahmana walks with him, gazing at his feet.
+
+**223.** The two went to the house; seating him in the house,
+the youth ran and brought water to wash his feet.
+
+**224.** Coming and sitting down, he asks him to cook,
+and joyfully brought everything needed for cooking.
+
+**225.** The Thakura says: "Son, listen to me:
+I cook only boiled and roasted vegetables.
+
+**226.** I am a brahmana from foreign parts, unknown here;
+if you permit, I will fetch the water myself and eat."
+
+**227.** The youth brought him a pot for water;
+he rose, went and fetched the water himself.
+
+**228.** Having cooked, they all ate;
+he teaches the youth well and is happy at heart.
+
+**229.** Having studied with him, [the youth] goes to the royal court
+and in the evening comes back home.
+
+**230.** After sitting a while, the Thakura asks him:
+"What did you read, what did you hear? Tell me."
+
+**231.** He says: "The pandita read the Bhagavata;
+having listened, the king rose and went into his inner rooms."
+
+**232.** "Hearing this, I wish to get in there;
+all my hope rests on you.
+
+**233.** Take me to the royal court:
+I have a wish to see him."
+
+**234.** The young brahmana says: "As you command;
+I will certainly go with you."
+
+**235.** The next day, having eaten, the two go
+and came to where the king was present.
+
+**236.** The pandita reads the Bhagavata, the king listens;
+[the pandita] explains the meaning, knowing neither good nor bad.
+
+**237.** That day he came back to his lodging, the brahmana's house;
+the next day he goes again to the king.
+
+**238.** [The pandita] reads the Rasa-panchadhyayi[^13-37] without knowing its true meaning;
+the Thakura, sitting, says:
+
+**239.** "This book, the Bhagavata, was spoken by Vyasa;
+the commentary of Sridhara Svami is accepted.
+
+**240.** What is this you are expounding? It cannot be understood;
+such a meaning does not come from a pandita's insight."
+
+**241.** The pandita does not listen; the king glances at him;
+that day they came home, and the next day they go again.
+
+**242.** That day the pandita expounds the Panchadhyayi;
+"The meaning has come out wrong," [Srinivasa] says.
+
+**243.** The king, having heard the pandita's exposition, sits [and says]:
+"Why do you not set forth the explanation from the Svami's commentary?"
+
+**244.** The pandita grew angry; the king says to him:
+"What meaning are you giving? Why does the brahmana find fault with it?"
+
+**245.** The pandita says: "Maharaja, the meaning of the Bhagavata —
+who besides me has the ability to expound it?
+
+**246.** Where has this petty brahmana come from, who puts in his word?
+What can you expound? Come, sit here."
+
+**247.** The king says: "Expound it, young brahmana."
+The Thakura, rising, says: "As you command."
+
+**248.** Sitting down, he expounds, and joyfully reads it again;
+a single shloka he explains in so many ways.
+
+**249.** Hearing it, the king was filled with supreme delight;
+and the brahmana [pandita] was greatly afraid before the king.
+
+**250.** Tears flow from [Srinivasa's] eyes in many streams;
+the pandita was struck dumb and stands like a heron.
+
+**251.** Again he reads the shloka in blissful absorption
+and explains the meaning in endless detail.
+
+**252.** Hearing it, the king's heart rejoices;
+all the people in the assembly are amazed.
+
+**253.** "Where has this brahmana come from, where is his home?"
+Evening came, and then he tied the cord round the book.
+
+**254.** The pandita falls at his feet with joy in his heart:
+"You are most discerning, be merciful to me.
+
+**255.** You are a pandita who appreciates merit, you have grasped the [book's] intent;
+by letting me hear its meaning, Thakura, you have bought me."
+
+**256.** Bowing down, the king asks:
+"Where have you come from, mahashaya?"
+
+**257.** "My name is Srinivasa, I live in this country;
+I had a wish to see the royal assembly.
+
+**258.** As is the maharaja, so is the pandita of his assembly;
+hearing and seeing it, my heart rejoices."
+
+**259.** Through his royal servants [the king] gave him lodging on his own premises;
+rising from his seat himself, he showed him great honour.
+
+**260.** With an escort he went to his lodging,
+washed his feet and sat down on his seat.
+
+**261.** The pandita came [to him] with the brahmana's son;
+after they had stayed a little while, [Srinivasa] sent them off.
+
+**262.** At night the king came to the Thakura
+and begs him to eat.
+
+**263.** The Thakura says: "Maharaja, I eat once a day;
+wherever I stay, I do not eat a second time."
+
+**264.** The king says: "If only you would permit yourself to eat a little…"
+"If it is something uncooked — a little; nothing else."[^13-38]
+
+**265.** The king had milk, sugar and ukhra[^13-39] brought,
+and the Thakura, sitting at night, took a light refreshment.
+
+**266.** The king went to his palace to sleep;
+and the Thakura's heart was filled with great joy.
+
+**267.** The Thakura sits on his seat with a joyful heart,
+remembering and calling out: "Rupa, Sanatana!
+
+**268.** My Prabhu, Sri Gopala Bhatta, lord of my life!
+To whom has Srinivasa told such sorrow?
+
+**269.** Sri Jiva Gosani was merciful to me —
+on that hope alone have I kept my life."
+
+**270.** The night was drawing to its end, a little remained;
+again and again he recites hymns in blissful absorption.
+
+**271.** The king cannot sleep; he listens with his own ears
+and, listening, reflects within himself:
+
+**272.** "Can there be a man on earth with so many virtues?
+In seeing him, my good fortune has dawned."
+
+**273.** In the morning he rose and went to the Thakura;
+standing, he looks at him and bows down.
+
+**274.** The Thakura says: "Sit down; it is good that you have come;
+it is great good fortune to see a king in the morning."
+
+**275.** The king says: "What you say is true;
+[but] at the sight of you so many sins are destroyed."
+
+**276.** The Thakura says: "I bathe every morning."
+Saying "As you command," the king made the arrangements.
+
+**277.** He had two new water-pots brought,
+and, taking them himself, set them before the Thakura:
+
+**278.** "Water-pots — accept these, Thakura, you have no [others];
+your descent is for the saving of the fallen."
+
+**279.** The Prabhu says: "I am a brahmana under your protection;
+whatever you wish, that is my wish too."
+
+**280.** Summoning the pandita, the king asked him:
+"What did you hear yesterday? Tell me."
+
+**281.** "Maharaja, looking at him I am amazed;
+I have not the power to understand that meaning."
+
+**282.** Taking him along, the king went to the Thakura
+and gave him over to his service.
+
+**283.** They brought and gave [the Thakura] everything needed for his worship;
+he does everything with his own hands.
+
+**284.** Having eaten, the king went and sat down
+and had the book brought and placed before the Thakura.
+
+**285.** The Thakura sat down and untied the book's cord;
+as he began, there was no end to his joy.
+
+**286.** Hearing the exposition from his holy mouth, even a stone would melt;
+the king weeps, clutching his head with his hand.
+
+**287.** The king gazes at his form and looks at his face:
+"Who would show mercy to such a sinner?
+
+**288.** At night I did not sleep, [listening to] this mahashaya;
+I shall go and take shelter at the feet of Srinivasa."
+
+**289.** "Srinivasa — who is he? Who knows him?
+He has only just come, and he is living in your palace."[^13-40]
+
+**290.** "Such a thing I have never heard nor seen even in a dream;
+whom shall I tell? Who will explain the reason?"
+
+**291.** Such an exposition the Thakura gives as no one has ever heard;
+[the king] beats his breast and looks at his face.
+
+**292.** [The Thakura] read no further, and tied the cord round the book;
+the king sits weeping, crying, "Alas, alas!"
+
+**293.** The pandita heard all the meanings he gave:
+"Such I have never heard in all the world."
+
+**294.** Gazing at the beauty of his form, the pandita weeps;
+tears flow from his eyes, he falls to the ground.
+
+**295.** Seeing this, the Thakura is silent and says nothing;
+the king, rising and bowing down, addresses him:
+
+**296.** "Tell me, Thakura, where have you come from,
+what is your name? Tell me, so that my mind may be at rest."
+
+**297.** "My name is Srinivasa; I have come from Vrindavana
+to make known the hundreds of thousands [of lines] of Sri Rupa's books.
+
+**298.** I was to take them to Gauda and spread them there;
+but someone has stolen my life.
+
+**299.** For their sake I wander through so many lands and forests;
+sleep and food are gone, nothing else is in my mind.
+
+**300.** My Prabhu — his name is Sri Gopala Bhatta;
+Sri Jiva Gosani gave me the command.
+
+**301.** The Gosani [gave us] ten armed men and two cart-drivers;
+on the road there was no trouble, good or bad.
+
+**302.** I, Shyamananda and Thakura Mahashaya
+came all that way without fear.
+
+**303.** At night we came to Gopalpur and stopped;
+many armed men came in the night and robbed us.
+
+**304.** There was a cart full of books and other goods;
+they looted it and went off to their own country — such is my plight."
+
+**305.** The king says: "Great is the good fortune of my lineage
+that you have come to this country.
+
+**306.** Had there been no theft, you would not have come;
+who else is there so merciful to the fallen?
+
+**307.** The cart with all that is in it is intact, just as it was;
+impose on me whatever punishment is fitting, mahashaya.
+
+**308.** You have come for my deliverance;
+there is no other sinner as great as I."
+
+**309.** Saying this, the king weeps and falls to the ground;
+his golden body rolls in the dust.[^13-41]
+
+**310.** Tears stream from both his eyes, he dances as if mad.
+"Where have you kept the books? Let us go and see."
+
+**311.** Saying "As you command," the king goes along with him;
+the Thakura came and saw that everything was there.
+
+**312.** The Thakura prostrates himself, joyful at heart;
+the king, falling at his feet, weeps bitterly.
+
+**313.** The Thakura goes to his lodging to bathe:
+"Bring sandalwood, tulasi and garlands here —
+
+**314.** I will worship the books, for every blessing."
+The king himself brought everything and set it before him.
+
+**315.** Sitting on a new seat, he performs the worship;
+the Thakura says: "King, go and bathe."
+
+**316.** Going into his inner rooms, the king bathed;
+coming to the Thakura, he bowed down.
+
+**317.** The Thakura says: "Sit down, hear Krishna's name."
+Saying "As you command," the king lent his ear.
+
+**318.** Seating the king close by, he utters the Hari-nama —
+he bestowed on him the great mantra, the Hari-nama.
+
+**319.** He had him touch the books and put a garland round his neck;[^13-42]
+then the Thakura rose and went to his lodging.
+
+**320.** The king went, called the pandita,
+and appointed him to [the Thakura's] service.
+
+**321.** The pandita came, prostrated himself and bowed down;
+the Thakura asks him: "What is your name?"
+
+**322.** "I am a worthless wretch," he answered the Thakura;
+and he himself said that his teacher had named him Vyasa.
+
+**323.** "Since then everyone calls me Vyasa.
+If you permit, I give myself over to your feet."
+
+**324.** The Thakura let him hear Krishna's name in his ear;
+together with the name he gave him the names of Radha and Krishna.
+
+**325.** He weeps at his feet and bows down;
+and at once [the Thakura] drank water from his hand.
+
+**326.** The Prabhu with his own hand put tilaka on his forehead,
+made him his own and placed his feet on his head.
+
+**327.** The king came and saw it all for himself;
+tears flow from his eyes, he is overwhelmed with joy.
+
+**328.** "The third day of the dark fortnight of Ashadha —
+there will be no better day after that," he judged in particular.
+
+**329.** On that day the king was to receive initiation into the mantra;
+in the Thakura's presence [the king] prepared a great many things.
+
+**330.** [The Thakura] gave him the mantra of Radha and Krishna, all the meditations and the rest,
+and instructed him according to Sri Rupa's books.
+
+**331.** [The king] with joy in his heart offered many gifts
+and addresses [the Thakura's] lotus feet:
+
+**332.** "If you permit, Prabhu, live in this town;
+to see you and hear you — that is my desire."
+
+**333.** The Thakura accepted his words
+and stayed with the king with a joyful heart.
+
+**334.** The Thakura's disciple Vyasa, the learned pandita —
+[the Thakura] teaches him the Bhagavata with all his heart.
+
+**335.** He teaches him Sri Rupa's books in blissful absorption;
+such a spiritual turn in the king is proclaimed in every land.
+
+**336.** To the king he gave the name Haricharana Dasa;
+with body, mind and speech [the king] hopes in the Thakura's feet.
+
+**337.** One day the king sits before the Prabhu;
+and then the Thakura began to speak:
+
+**338.** "This Vyasa is your brother through his connection with me;
+he has freely studied many books and shastras.
+
+**339.** You are the maharaja, and he is the pandita of your assembly;
+he will recite everything, and you, listen with joy.
+
+**340.** Listen and practise bhajana — this is the great thing.
+From today I give him the name Sri Vyasa Acharya."
+
+**341.** Saying "As you command," the king bowed down.
+"As is the king, so is the pandita of your assembly![^13-43]
+
+**342.** Listen, king, to a word from my heart;
+you and I know it — no one else has a part in it.
+
+**343.** Quickly find two men, with money for the road,
+to go to the country of Garerhat, to the village of Kheturi.
+
+**344.** Thakura Narottama is grieving at heart;
+the men will take a letter and deliver it to him in his inner rooms."
+
+**345.** Saying "As you command," the king summoned the men;
+that very moment the Thakura wrote the good news.
+
+**346.** The men took the letter and set off quickly;
+with joined palms the king says [to the Thakura]:
+
+**347.** "Who is Narottama, Prabhu, where is his home?
+When I hear of him, there is joy in my heart."
+
+**348.** The Thakura says: "King, you will be very glad [to hear]:
+he and I were together in Vrindavana.
+
+**349.** The two of us came with the books;
+thieves took the books, and we wandered about in grief.
+
+**350.** With great sorrow I sent him home;
+grieved by this sorrow, he is anxious at heart.
+
+**351.** There is a country called Garerhat; its zamindar
+is Krishnananda Raya, a man of the greatest generosity.
+
+**352.** His son from an early age was indifferent to home;
+Mahaprabhu gave him the name Narottama Dasa.[^13-44]
+
+**353.** Then he went to Vrindavana
+and took shelter at Lokanatha's feet.
+
+**354.** How much shall I tell of his way of bhajana?
+We lived in one place, and our minds were one.
+
+**355.** In Vrindavana he received the name Thakura Mahashaya;
+the power of Krishna-bhajana is in him beyond doubt."
+
+**356.** Hearing this, the king rejoiced at heart:
+"How might I see such a mahashaya?"
+
+**357.** The Thakura says: "To see him is had only with great difficulty;[^13-45]
+what devotee of Krishna is his equal?
+
+**358.** One life in two bodies — his and mine:
+he knows my mind, and I know his."
+
+**359.** The two men who had gone with the letter
+after some days arrived at the village of Kheturi.
+
+**360.** The Thakura [Narottama] was sitting absorbed in the sweetness of Krishna's lilas;
+and at that moment the two men came in.
+
+**361.** He asked: "Where have you come here from?"
+"Our home is Vishnupura; [here is] a letter from Acharya Thakura."
+
+**362.** Rising, he took the letter in his own hand
+and asked them whether the Thakura was well.
+
+**363.** The men say: "He is well; he has written of it in the letter."
+Opening the envelope, he read the letter himself.
+
+**364.** As he read, his heart filled with joy;
+tears from his eyes fall upon his breast.
+
+**365.** "Call the musicians, let the music play!"
+In every land, in every village the news was proclaimed.
+
+**366.** After five days, writing a letter,
+he sent the men off with it, giving them money for the road.
+
+**367.** He wrote: "Your well-being is a great joy to me;
+only when I see you will my sorrow go."
+
+**368.** The men brought that letter and gave it to the Thakura [Srinivasa];
+he asks them: "Tell me all the good news."
+
+**369.** The king is sitting [there]; the men began to tell:
+"The moment he heard, musical instruments resounded, splitting the sky.
+
+**370.** Tears flowed from his eyes, running down his chin;
+how should we know why he weeps?"
+
+**371.** The Thakura reads the letter and lets the king hear it all;
+so many streams flow from his eyes — he cries, "Alas, alas!
+
+**372.** When will such a day come that I see Narottama
+and tell him everything — joy and sorrow, just as it was?"
+
+**373.** A young brahmana named Krishnavallabha,
+in whose house the Thakura first lodged,
+
+**374.** later took shelter at his feet;
+he is endowed with many virtues and many wondrous aspirations.
+
+**375.** The king receives wondrous intimations at every moment;
+saying "Thakura!" he finds joy day by day.
+
+**376.** One day the Thakura said to the king:
+"I will go to Rarh: I have need to.
+
+**377.** My mother is living in Yajigrama all alone;
+I wish to see her two feet."
+
+**378.** The king gave many provisions — two or four heavy loads —
+and gave many people as escort: it became a great company.
+
+**379.** Vyasa Acharya goes along, and Krishnavallabha;
+thus they all set off for Rarh.
+
+**380.** They took many books with them — Puranas, the Bhagavata;
+the king was in great sorrow, pining constantly.
+
+**381.** After four days they came to Yajigrama;
+going to his mother's feet, he bowed down.
+
+**382.** His mother does not ask [who he is]; her heart trembles with fear;[^13-46]
+the Thakura said: "My name is Srinivasa."
+
+**383.** The life that had left her returned to her body;[^13-47]
+holding his hand, his mother weeps and gazes at his face.
+
+**384.** His mother questioned him, and he told everything at her feet:
+"By your mercy I have come back from Vrindavana."
+
+**385.** The Thakura's glory spread through the world;
+for some days he stays there with his mother.
+
+**386.** There a wondrous story took place.
+There is a large village, Teliya Budhari,[^13-48]
+
+**387.** on the bank of the Padmavati; across the river is the country of Garerhat;
+[the village is] some distance off on this bank; I write in detail.
+
+**388.** [There lived a man] born in the Ambashtha community,[^13-49] respected by the people;
+of his virtues I shall write much, both before and after.
+
+**389.** Two brothers from one womb, most excellent:
+the great scholar Ramachandra and the younger, Govinda.
+
+**390.** All people know that Ramachandra is childless;[^13-50]
+he heard with his own ears of all the Thakura's virtues.
+
+**391.** A longing to see [the Thakura] seized him, and he sets off for Vishnupura;
+he walks along the road — and abundant joy rises in his heart.
+
+**392.** With one servant he came to Katwa,
+and heard of the most excellent worship of Gauranga [there].[^13-51]
+
+**393.** Going there, he beholds [Gauranga], absorbed in bliss;
+all those sitting there are praising the Thakura's virtues.
+
+**394.** Some say: "He has come from Vrindavana";
+some say: "His home is in Vishnupura."
+
+**395.** Some say: "Of such power we have never heard";
+some say: "A great pandita, a young brahmana."
+
+**396.** Some say: "I saw him just now in Yajigrama:
+he is of the same complexion as Gauranga."
+
+**397.** Some say: "His mother has been here;
+coming from Vrindavana, he has seen her."
+
+**398.** Ramachandra listens attentively to these words
+and at once set out, gladdened.
+
+**399.** Going out of the village, he asked the people:
+"Tell me, brothers, how far is Yajigrama?"
+
+**400.** The people say: "One krosha from here."
+Hearing this, he goes quickly along the road to see him.
+
+**401.** Arriving in Yajigrama, he asks the people;
+[they tell him:] "Acharya Thakura has gone off to another village."
+
+**402.** Someone says: "His mother's house is here;
+he himself went to Khanda this morning."
+
+**403.** He took lodging; not seeing [the Thakura], he was anxious;
+the next day the Thakura came back to the village.
+
+**404.** When the Thakura went to Srikhanda,
+whatever happened there, and how it came about —
+
+**405.** that I will tell later, as the narrative goes;
+arriving there, he was, as it were, plunged into waves of separation.
+
+**406.** Some write merely on hearsay, writing anything at all;
+but I write this account by my own Prabhu's command.
+
+**407.** Whoever finds fault with it will answer for it himself —
+gain or loss, with reason or without.[^13-52]
+
+**408.** Even an evil-minded person caught in maya who hears this but once
+will turn his mind to Krishna — this I say for certain.
+
+**409.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the thirteenth vilasa of the Prema-vilasa.*
+
+[^13-1]: A variant given in the 1913 edition: "The words I see in the Prabhu's mouth I write down." The Prabhu is apparently the author's guru; cf. 12, 204, 393.
+[^13-2]: A variant given in the 1913 edition: "when I have good news, I shall stay alive".
+[^13-3]: The speaker is Gopala Bhatta Gosvami, Srinivasa's guru (cf. ch. 12, 420–428).
+[^13-4]: Here Lokanatha Gosvami, Narottama's guru.
+[^13-5]: Literally "with the chaukis (toll-posts) of Jajpur". The 1913 edition seems to have "Jaipur" (?); translated according to the 1999 edition.
+[^13-6]: A variant given in the 1913 edition: "The two bear the form of Sri Gauranga's prema; that Rupa and Sanatana are [his] shakti I know for certain."
+[^13-7]: A variant given in the 1913 edition: "Those books and that dharma are your revelation; it falls to you two to preach them."
+[^13-8]: Literally "carrying out the command, shall I part with my life?" The sense is unclear: Jiva seems to say that he sends them off although it is like death to him.
+[^13-9]: Apparently Murari is the future Rasikananda, son of Achyuta (Achyutananda) of Rohini, Shyamananda's chief disciple; Jiva's words sound like a prophecy.
+[^13-10]: The Gaura-ganoddesha-dipika / Radha-krishna-ganoddesha-dipika, works on the associates of Krishna and Chaitanya (the latter by Rupa Gosvami).
+[^13-11]: A variant given in the 1913 edition: "You will hold discourses according to the Ganoddesha; explain to him what must and must not be done in sadhana."
+[^13-12]: A variant given in the 1913 edition: "Ten armed men go along with the chest."
+[^13-13]: So the 1999 edition ("tarikṭā"); in the 1913 edition the name is illegible. The place is unidentified.
+[^13-14]: Jharikhanda, the forested region between Bihar and Orissa through which Mahaprabhu once passed.
+[^13-15]: Tamluk (Tamralipta) lies far to the south of the route to Vishnupura; perhaps a corruption.
+[^13-16]: Cf. Chaitanya-charitamrita, Madhya 17: in the forests of Jharikhanda Mahaprabhu made tigers, deer and peacocks sing and dance.
+[^13-17]: A variant given in the 1913 edition: "he is utterly unstable". Vira Hambira is the same king who will later become Srinivasa's disciple.
+[^13-18]: "gaṇitā", diviners or astrologers who supposedly determined by calculation where wealth was being carried (cf. 76, 113).
+[^13-19]: Phansiyaras, robbers who strangled their victims with a noose. A variant given in the 1913 edition: "hundreds of hansiyaras and mansuriyas" (?).
+[^13-20]: A bhaumik, a landholder or local chief.
+[^13-21]: A variant given in the 1913 edition: "from how far did you come to overtake it?"
+[^13-22]: The first line is corrupt in the 1913 edition ("tomāra sahita rājā āsi tāra sane") and missing in the 1999 edition.
+[^13-23]: A variant given in the 1913 edition: "he wanders from door to door".
+[^13-24]: Mahaprabhu's conversation with Ramananda Raya, recorded by Krishnadasa Kaviraja (Chaitanya-charitamrita, Madhya 8). The first line is found only in the 1913 edition.
+[^13-25]: Cf. Chaitanya-charitamrita, Madhya 8.248.
+[^13-26]: A variant given in the 1913 edition: "In whatever way the books of the lilas came into the royal house".
+[^13-27]: Literally "the Gosani, surging up, fell, taking a leap"; perhaps it means that he threw himself into the Kunda. The reading is conjectural.
+[^13-28]: That is, on his place in Radha's company (gana) in the spiritual world.
+[^13-29]: A variant given in the 1913 edition: "grieving with this grief, I shall [search] without cease".
+[^13-30]: The yutha, a group of sakhis under one of Radha's principal friends.
+[^13-31]: "lālasā", ardent longing, one of the stages of raganuga-sadhana.
+[^13-32]: In raganuga-sadhana the guru is conceived in the form of a sakhi (manjari) under whom the disciple serves.
+[^13-33]: The Bauls, Bengali wandering ascetic singers.
+[^13-34]: A variant given in the 1913 edition: "with a very emaciated body he wanders about the town".
+[^13-35]: "mallapāṭa", the throne of the kings of the Malla dynasty (Mallabhum), whose capital was Vishnupura.
+[^13-36]: So in both editions: here the account is given in Krishnavallabha's own words (cf. ch. 12, note 28).
+[^13-37]: The Rasa-panchadhyayi, the five chapters of the Bhagavata Purana (10.29–33) on the rasa-lila.
+[^13-38]: "ātapa", literally "sun-dried" (uncooked rice and the like); the line is apparently Srinivasa's reply.
+[^13-39]: Ukhra, a sweet made of puffed rice with molasses.
+[^13-40]: The speaker is not marked; apparently the bewilderment of those present, or of the pandita, addressed to the king.
+[^13-41]: A variant given in the 1913 edition: "Rising, the Prabhu placed his feet on his head."
+[^13-42]: So the 1913 edition ("grantha-sparśa"); the 1999 edition has "brahma-sparśa" (?).
+[^13-43]: An echo of Srinivasa's words in 258 — now without irony. The speaker is not marked.
+[^13-44]: According to tradition, Narottama's name had been foreseen by Mahaprabhu himself (cf. the earlier chapters).
+[^13-45]: A variant given in the 1913 edition: "only by great fortune does one get to see him".
+[^13-46]: That is, his mother apparently does not recognize her emaciated ascetic son.
+[^13-47]: So the 1999 edition ("the prana that had gone came back inside"); a variant given in the 1913 edition: "my life had all but left me — I tell you".
+[^13-48]: Teliya Budhari, the home village of Ramachandra Kaviraja and Govinda Kaviraja on the bank of the Padma (Padmavati).
+[^13-49]: The Ambashthas, the physicians' caste (vaidya).
+[^13-50]: So the 1999 edition (aputraka); the 1913 edition has "apūrva", "extraordinary".
+[^13-51]: Katwa, where Mahaprabhu took sannyasa; an image of Gauranga is worshipped there.
+[^13-52]: A variant given in the 1913 edition: "good or bad, with reason or without".
