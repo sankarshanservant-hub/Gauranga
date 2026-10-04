@@ -76,7 +76,7 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 def build(lang):
     m = META[lang]
     toc, body = [], []
-    for i in range(1, 24):
+    for i in range(1, 26):
         key = f'{i:02d}'
         path = os.path.join(HERE, lang, key + '.md')
         if not os.path.exists(path):
