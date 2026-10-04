@@ -26,8 +26,9 @@ META = {
 
 **Источник.** Издание 1913 г. (Калькутта, Багбазар; общественное достояние), сверенное по двум
 независимым OCR-копиям (изд. 1913 г. и его перепечатки 1999 г.). Переведён **только текст поэмы**:
-предисловия и примечания издателей не переводились. Переведены виласы 1–23; 24-я виласа (поздняя
-генеалогическая вставка) и приложение в перевод не входят.
+предисловия и примечания издателей не переводились. Переведены виласы 1–23 и заключительная «Полувиласа» (письма
+Шринивасы и Дживы Госвами и стихотворный указатель содержания); основной текст 24-й виласы (поздняя
+генеалогическая вставка) не переводился — его содержание передано лишь в указателе.
 
 **Принципы.** Двустишия-паяры переведены построчно, без рифмы, и пронумерованы в каждой виласе
 (в оригинале нумерации нет); трипади, песни и санскритские шлоки идут под одним номером. Испорченные
@@ -57,8 +58,9 @@ Vishnupura.
 
 **Source.** The edition of 1913 (Calcutta, Bagbazar; public domain), collated from two independent OCR
 copies (the 1913 edition and its 1999 reprint). **Only the poem itself** is translated: the editors'
-prefaces and notes are not. Vilasas 1–23 are translated; the twenty-fourth vilasa (a late genealogical
-addition) and the appendix are not included.
+prefaces and notes are not. Vilasas 1–23 are translated, together with the closing "Half-vilasa"
+(the letters of Srinivasa and Jiva Gosvami and the verse index of contents); the main text of the
+twenty-fourth vilasa (a late genealogical addition) is not translated, its contents appear only in the index.
 
 **Principles.** The payar couplets are translated line by line, without rhyme, and numbered within each
 vilasa (the original has no numbering); tripadi stanzas, songs and Sanskrit verses are numbered as single

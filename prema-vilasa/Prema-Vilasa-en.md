@@ -17,8 +17,9 @@ Vishnupura.
 
 **Source.** The edition of 1913 (Calcutta, Bagbazar; public domain), collated from two independent OCR
 copies (the 1913 edition and its 1999 reprint). **Only the poem itself** is translated: the editors'
-prefaces and notes are not. Vilasas 1–23 are translated; the twenty-fourth vilasa (a late genealogical
-addition) and the appendix are not included.
+prefaces and notes are not. Vilasas 1–23 are translated, together with the closing "Half-vilasa"
+(the letters of Srinivasa and Jiva Gosvami and the verse index of contents); the main text of the
+twenty-fourth vilasa (a late genealogical addition) is not translated, its contents appear only in the index.
 
 **Principles.** The payar couplets are translated line by line, without rhyme, and numbered within each
 vilasa (the original has no numbering); tripadi stanzas, songs and Sanskrit verses are numbered as single
@@ -52,6 +53,7 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 - Vilasa 21. Madhava Acharya; Jagai and Madhai
 - Vilasa 22. Mukunda and Vasudeva Datta; Pundarika Vidyanidhi and Gadadhara
 - Vilasa 23. Mahaprabhu's Gurus; Srivasa and Vrindavana Dasa; Rupa, Sanatana and Jiva
+- The Half-vilasa (Ardha-vilasa). Letters and Index
 
 ---
 
@@ -19990,3 +19992,3342 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^23-24]: See ch. 19.
 [^23-25]: A jaya-patra is a written acknowledgement of defeat which the loser in a disputation gives to the victor; Rupa and Sanatana signed it without entering into debate.
 [^23-26]: A play on words: "jiva" means both "living being" and the name Jiva.
+
+---
+
+# The Half-vilasa (Ardha-vilasa). Letters and Index
+
+*An appendix to the poem: six letters — Srinivasa Acharya writes to Jiva Gosvami; Jiva answers Srinivasa (on Bhugarbha's passing, on grief for Gopala Bhatta, on the revision of his books and on Shyamadasa Acharya); Ramachandra, Narottama and Govindadasa ask Jiva to explain the verse "seva sadhaka-rupena," and Jiva answers them and separately Govinda Kaviraja — the Sanskrit text of each letter with the author's Bengali rendering; then an index of the contents of all the vilasas*
+
+## Letters
+
+*The Half-vilasa. Letters. Here begins the section of letters.*[^25-1]
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Glory to Srinivasa, Narottama and Shyamananda!
+Glory to Virachandra and all his devotees!
+
+**3.** Listen, listen, O hearers, with one mind:
+I shall describe the letters, their meaning, and also an index.
+
+**4.** Six letters I have seen with my own eyes;
+here I make them known together with their meaning.
+
+**5.** Srinivasa's letter to Sri Jiva Gosvami
+I now write down — look, O hearers.
+
+### Letter 1 (Srinivasa to Jiva Gosvami)
+
+**6.** *Glory to Sri Krishna![^25-2]*
+*Svasti! To the feet of the worshipful Sri Jiva Gosvami, whose pair of feet grants me every good. I, the servant named Srinivasa, bowing again and again, submit: I wish to know of your well-being, for no news of it has reached me for a long time; [write,] so that we may be glad. I myself remain in bodily health, and so do the others — Vrindavana Dasa and the rest. Please write also of the well-being of the feet of Sri Gopala Bhatta and the other gosvamis. Further: are the revised [copies] of the Sri Rasamrita-sindhu, the Madhava-mahotsava, the Uttara-champu and the Harinamamrita grammar[^25-3] ready or not? If they are, please send them. And also: accept the obeisances of all our people. And to all the honored ones there convey my obeisances.*
+
+**7.** "Svasti," the auspicious word, is written in the letter.[^25-4]
+To him whose feet give me every good —
+
+**8.** to that worshipful Sri Jiva Gosvami, at his feet,
+bowing again and again, I make known:
+
+**9.** "I, the servant Srinivasa, wish to know of your welfare:
+for a long time I have had no news of it.
+
+**10.** Knowing it, I shall be exceedingly happy.
+I am free of illness and well, and so are [my] companions.
+
+**11.** Know that my son Vrindavana Dasa and the others are well.[^25-5]
+Please write of the welfare of Gopala Bhatta Gosvami and the [other] worshipful ones.
+
+**12.** And further: the Rasamrita-sindhu, the Madhava-mahotsava,
+the Uttara-champu, the Harinamamrita grammar and all the rest —
+
+**13.** have they been revised? I should like to know.
+If they have been revised, I hope you will send them.
+
+**14.** Accept the obeisances of all our people.
+In Vrindavana convey my obeisances to the worshipful ones." Thus.
+
+**15.** The letter that Sri Jiva Gosani
+wrote to Srinivasa — see it here.
+
+### Letter 2 (Jiva Gosvami to Srinivasa)
+
+**16.** *Glory to Sri Vrindavana-natha!*
+*Svasti! To the feet of Sri Srinivasa Acharya, whose pair of feet grants me every joy. The one named Jiva, having bowed, submits. I always long [to know] of your well-being, but [news] of it has not come for many days; [write,] so that we may be glad. I myself am at present in bodily health, and so are the others. But the feet of Sri Bhugarbha Gosvami have given up the body, and given himself to Sri Vrindavana-natha — and, what is especially [notable], in full awareness.[^25-6] Please write of the well-being of your associates, especially of Sri Vrindavana Dasa, and also whether he studies at all. Further: concerning Sri Vyasa Sharma — how and where [he] or Sri Vasudeva Kaviraja is[^25-7] — write that too. And also: in the revision of the Sri Rasamrita-sindhu, the Sri Madhava-mahotsava, the Uttara-champu and the Harinamamrita grammar a little still remains; moreover the rains [have come] — so for now [the books] have not been sent; they are to be sent later, when fate is favorable. And also: accept, as is fitting, the obeisances and so on of all here; and to all there convey my obeisances and so on. To the honorable king, auspicious blessings.[^25-8]*
+
+**17.** "Svasti," the auspicious word, is written in the letter.
+To him whose feet give me every good —
+
+**18.** to that Srinivasa Acharya Gosvami, at his feet,
+I, Jiva, bowing, make known in order:
+
+**19.** "I always wish for your welfare and good,
+[but] for many days now I have had no news of it.
+
+**20.** Send it and make me glad.
+Know that here I am at present free of illness.
+
+**21.** I am well, and know that all the others are well too.
+But the feet of Sri Bhugarbha Gosvami —
+
+**22.** he has left his body, giving himself to Krishna;
+and this in particular: it took place in full awareness.
+
+**23.** Let me know of the welfare of your associates,
+especially the welfare of your son Vrindavana Dasa.
+
+**24.** Is Vrindavana studying, O mahashaya?
+[And of] Vyasa and Vasudeva, your two disciples —
+
+**25.** how Vasudeva stands toward Vyasa Sharma and where he lives —
+write me about all these doings.
+
+**26.** And further: the Rasamrita-sindhu, the Madhava-mahotsava,
+the Uttara-champu, the Harinamamrita grammar — all of them:
+
+**27.** a little of their revision still remains,
+and the rainy season has come and set in.
+
+**28.** For now I shall not send them;
+when fate is favorable, I shall send them later.
+
+**29.** And from all here, obeisances as is fitting;
+to all there, my obeisances as is fitting.
+
+**30.** By the words "and so on" [are meant] blessings, embraces, kola-kuli:[^25-9]
+convey to each whatever is fitting.
+
+**31.** To King Vira Hambira give the news:
+I send him auspicious blessings." Thus.
+
+**32.** O hearers, all of you great souls!
+Look also at another letter of Jiva Gosvami.
+
+### Letter 3 (Jiva Gosvami to Srinivasa)
+
+**33.** *Glory to Sri Vrindavana-natha!*
+*Svasti! To Sri Srinivasa Acharya, most eminent, best of friends, praised for every virtue. From here, from Sri Vrindavana, from the one called Jiva,[^25-10] this message beginning with "svasti," with obeisance, embrace and good wishes. The good here — the longed-for good in the form of dwelling in Sri Vrindavana — abides constantly. Though I am eager [for news] so as to feel your [welfare], at times, by not hearing of it and by hearing the contrary, I am pained at heart. Therefore I should be consoled by being let to hear of it properly — at least now. Further: the reply to your former letter [was given] earlier; now I submit […]:[^25-11] "Grief is opposed to devotion to the Lord and burns the senses and the body; still one ought to grieve, if by grief [grief] were removed."[^25-12] And also: this Sri Shyamadasa Acharya is of one mind with you in the highest matters, and learned as well; therefore it is fitting that, in mutual affection, you consider with him [questions of] devotion to the Lord and so on. With such a helper the pashandis too will be crushed. He is now carrying there the revised and examined books Vaishnava-toshani, Durgama-sangamani and Sri Gopala-champu.[^25-13] Therefore you should engage with him in the revision of the books and of their interpretation, and regard him as your own, as one to be cared for.[^25-14] And also: if the Harinamamrita grammar that was earlier sent to you is to be taught, then, consulting the bhashya, the vritti and so on, the errors and the like should be corrected. Another, supplementary book[^25-15] is here; if it is wanted, let me know. The Sri Uttara-gopala-champu is now written, but it still has to be examined — this I report. When will there again be such good fortune — news of you? Even hearing of you from afar, one should think of you.[^25-16] To Sri Vrindavana Dasa and the others, to Sri Gopaladasa and the rest,[^25-17] and to you, the feet of Sri Srinivasa Acharya — good thoughts.*
+
+**34.** To the best of friends, praised for every virtue,
+the most eminent Srinivasa Acharya Gosani —
+
+**35.** this Sri Jiva Gosani, from here, from Vrindavana,
+with obeisance, embrace and good wishes,
+
+**36.** writes this auspicious letter beginning with "svasti."
+The longed-for good — dwelling in Vrindavana —
+
+**37.** here I live [in it]: know that there is no misfortune.
+I am always eager to know of your welfare.
+
+**38.** At times I do not hear of it,
+and hearing the contrary, I die of burning pain in my heart.
+
+**39.** Therefore now, as far as possible,
+let me hear [of you] and set my heart at peace.
+
+**40.** Your former letter I answered earlier;
+now I make one request of you.
+
+**41.** I have heard that you, on hearing of Bhatta Gosani's departure,[^25-18]
+are grieving greatly.
+
+**42.** If grief could drive away grief,
+then grieving would be counted a duty.
+
+**43.** [But] by grieving grief never goes away —
+O Srinivasa, I tell you.
+
+**44.** All know that grief is opposed to devotion to Krishna;
+it burns the body and the senses unceasingly.
+
+**45.** Therefore it is not fitting to grieve;
+give up grief, Srinivasa Mahashaya.
+
+**46.** The son of Vyasa Acharya,[^25-19] Shyamadasa Acharya,
+is the best of panditas, of one heart with you in the highest matters.
+
+**47.** Therefore, with great affection, together with him
+it is fitting for you to consider [questions of] devotion to the Lord.
+
+**48.** With such a helper the pashandis will be turned to dust —
+O Srinivasa, I tell you truly.
+
+**49.** The Vaishnava-toshani, the Durgama-sangamani
+and the book Sri Gopala-champu,
+
+**50.** having revised and examined them,
+Shyamadasa Acharya, coming [here], has now taken [with him].
+
+**51.** Therefore with the revision of the books and of their interpretation
+always be engaged together with him.
+
+**52.** Regard him as your own, as one to be cared for —
+O Srinivasa, I tell you firmly.[^25-20]
+
+**53.** And further: earlier the Harinamamrita grammar
+I sent to you.
+
+**54.** If you teach it, then, consulting the bhashya and vritti,[^25-21]
+correct the errors and so on — this I write.
+
+**55.** Another, supplementary book is here;
+if you want it, let me know, and I shall send it later.
+
+**56.** I have now written the Uttara-champu, keeping Krishna's name in mind,[^25-22]
+but it still remains to be examined.
+
+**57.** This is my request — listen, mahashaya:
+when will such good fortune rise again,
+
+**58.** when in letters of reply [will come] all the news of you?
+Even hearing of you from afar, I shall think of you.
+
+**59.** The son of King Vira Hambira is called Dhari Hambira;
+his other name is Sri Gopaladasa.
+
+**60.** Of you, of your son Vrindavana Dasa and the others —
+of all I think unceasingly with good wishes." Thus.
+
+**61.** Govinda, Ramachandra and Narottama
+write to Jiva Gosvami this most excellent letter.
+
+### Letter 4 (Ramachandra, Narottama and Govindadasa to Jiva Gosvami)
+
+**62.** *Glory to Sri Krishna!*
+*To the most worshipful one, whose pair of feet grants every good — the worshipful Srila Jiva Gosvami Mahashaya, at the lotuses of his holy feet. From the lowest of servants — Sri Ramachandra, Narottama and Govindadasa — with countless obeisances, this petition. Here all are well. For the well-being of the honored ones there — the worshipful Srila Lokanatha and the other gosvamis — and for your well-being we pray. Further: what is to be done in the course of constant remembrance — please write of that. Although from your instruction on [the verse] "Service, in the form of the sadhaka and in the form of the siddha…"[^25-23] we have learned something, still, because of sophistic arguments,[^25-24] our hearts are in doubt, and we wish to learn a clear explanation of the words "service in the form of the sadhaka" and the rest. Therefore please send it together with your blessing. Some nectar-songs composed by us[^25-25] have been sent [to you]; out of your mercy accept them. To all the honored ones there convey our countless obeisances.*
+
+**63.** To the most worshipful one, whose pair of feet grants every good —
+the worshipful Sri Jiva Gosvami Mahashaya,
+
+**64.** at his lotus feet we, the lowest of servants —
+Ramachandra, Narottama and Govindadasa —
+
+**65.** with countless obeisances [offer] a petition:
+here all are well.
+
+**66.** The honored, worshipful ones there —
+Lokanatha Gosvami and all the others —
+
+**67.** their welfare and your welfare
+we long to know: let us know and dispel [our] unease.
+
+**68.** And further: what is to be done in the course of constant remembrance —
+kindly write it and send it.
+
+**69.** Although through your instructions we do know [it],
+still, from sophistic arguments, our hearts are in doubt.
+
+**70.** Because of the words "Service, in the form of the sadhaka"
+many arguments are arising, and from them doubt in the heart.
+
+**71.** The words "Service, in the form of the sadhaka" and the rest —
+by a clear explanation of them resolve [our] doubts.
+
+**72.** With the explanation send us your blessing as well.
+The songs composed by us we are sending — look at them.
+
+**73.** Kindly accept them —
+this is our petition again and again to [your] holy feet.
+
+**74.** To all the honored ones there
+convey our countless obeisances." Thus.
+
+**75.** To Govinda, Ramachandra and Narottama
+Sri Jiva Gosvami writes this excellent letter.
+
+### Letter 5 (Jiva Gosvami to Ramachandra, Narottama and Govindadasa)
+
+**76.** *Glory to Sri Vrindavana-chandra!*
+*Svasti! To Sri Ramachandra Kaviraja, Sri Narottama Dasa and the one called Sri Govindadasa — praised by all the Vaishnavas, the abode of joy and the very wealth of one like me. I, named Jiva, from Sri Vrindavana, with an embrace submit: my special wish is your well-being. Having received a letter full of affection, I long for just that again and again. The songs that you, showing affection to me, have sent[^25-26] have brought me the greatest good. What need to say much to those whose love is free of any motive? Further: the course of constant remembrance that you ask about again and again is clearly set out in the Rasamrita-sindhu — [in the verse] "Service, in the form of the sadhaka…" and so on. Here "in the form of the sadhaka" means in the outward body; "in the form of the siddha" means in the body conceived in accordance with service to one's own beloved [deity].[^25-27] Further, [service] in the form of the siddha is only by following raga, and it is manifold according to differences of time, place and lila: how much [of it] can be written? Service in the form of the sadhaka, however, is to be understood as [performed] in three ways, according to the agamas[^25-28] and the rest. Srimad Acharya Mahashaya[^25-29] will instruct you in this. For he is our all in all. What more [to say]?*
+
+**77.** To those praised in the whole community of Vaishnavas[^25-30] —
+Ramachandra, Narottama and Govinda Kaviraja,
+
+**78.** the abode of joy and the very wealth of one like me —
+with an embrace, gladdened, I address this message.
+
+**79.** I, Sri Jiva Gosani, from Vrindavana:
+my constant and special wish — I want to know of your welfare.
+
+**80.** I have received a letter full of affection;
+I long to receive [such letters] again and again.
+
+**81.** Out of love for me all these holy songs
+you have sent — in this lies my greatest good.
+
+**82.** To one who is the vessel of causeless affection
+what need is there of many [words]?
+
+**83.** The course of constant remembrance that you ask for again and again —
+its divisions are in the Rasamrita-sindhu.
+
+**84.** There [is given] the authority: "Service, in the form of the sadhaka," and so on;
+here I give its explanation — look, O wise one.
+
+**85.** "The form of the sadhaka" means the outward body;
+"the form of the siddha" means the body conceived in accordance with service to one's own beloved [deity].
+
+**86.** Service in the form of the siddha, it is said, is by raga;
+by differences of time, place and lila it is manifold.
+
+**87.** Some of this I shall write later.
+Service in the form of the sadhaka is according to the agamas;
+
+**88.** it is performed in three ways:
+by body, by speech and by mind — know this for certain.
+
+**89.** Srinivasa Acharya will give instruction;
+he is my all in all — know this especially." Thus.
+
+**90.** To Govinda Sri Jiva Gosani writes a letter;
+I make it known — look at it here.
+
+### Letter 6 (Jiva Gosvami to Govinda Kaviraja)
+
+**91.** *Glory to Sri Vrindavana-chandra!*
+*Svasti! To Sri Govinda Kaviraja, the object of supreme love, a great bhagavata. Jiva's remembrance of Krishna — to you, honored ones, together with good thoughts. Here [all] is well; of [the welfare] there I greatly wish [to know].[^25-31] There you are our friends; therefore we always wish to hear of your well-being: take care of that. Your own songs full of descriptions of Sri Krishna, which you have sent now and also before — by them we are satisfied as by nectar; and yet, hoping for ever new ones, again and again we find ourselves unsatisfied. Therefore show kindness in this too. Further: earlier, by the hand of Shyamadasa the mridanga player,[^25-32] the Brihad-bhagavatamrita[^25-33] was sent for Sri Srinivasa Acharya Gosvami; whether it has reached there or not — write and free us from doubt. What need to say much: this is written to you, honored ones, merciful by your very nature. From here, auspicious blessings to Sri Narottama and the Kaviraja.[^25-34] From here, the obeisances of Sri Krishnadasa.[^25-35] Thus.*
+
+**92.** To the object of supreme love, Sri Govinda Kaviraja,
+a great bhagavata, king of the best devotees —
+
+**93.** I write, together with good thoughts for you all,
+the unceasing remembrance of Krishna [from] Sri Jiva Gosani.
+
+**94.** Know that all here are well;
+I wish good to all there.
+
+**95.** There you shine for me as friends;
+therefore always to know of your welfare is my concern.
+
+**96.** It is fitting to take care of this.
+Now you have sent your own songs full of descriptions of Krishna;
+
+**97.** you sent them before as well — by them
+I have been satisfied as by nectar.
+
+**98.** [But] again, in hope of ever new songs,
+again I feel unsatisfied — I tell you so.
+
+**99.** Therefore it is fitting to show kindness in this:
+receiving the nectar of songs, the heart will rejoice.
+
+**100.** For Srinivasa the Brihad-bhagavatamrita
+was sent through Shyamadasa the mridanga player.
+
+**101.** Whether it has arrived or not — write quickly,
+then I shall be freed from doubt.
+
+**102.** What need is there to write much more?
+You are by nature merciful, glorious and good.
+
+**103.** To the two devotees, Narottama and Ramachandra,
+convey there my auspicious blessings.
+
+**104.** Here Sri Krishnadasa Kaviraja
+sends obeisances to your whole company.
+
+*Thus ends the section of letters.*
+
+## Index
+
+*Here begins the section of the index.*
+
+**105.** Listen, listen, listeners, with one mind:
+I set out the index of the Prema-vilasa.
+
+**106.** Having completed the book in twenty-four chapters,
+I now show the index of all the chapters.
+
+### Vilasa 1
+
+**107.** In the first vilasa Nityananda went to Gauda;
+having come to Gauda, he distributed prema-bhakti.
+
+**108.** Mahaprabhu asks for news of Gauda:
+Advaita, abandoning bhakti, again expounds mukti.
+
+**109.** Hearing this, Mahaprabhu grew angry;
+at that time Svarupa and Ramananda came.
+
+**110.** The reading of Nityananda's letter, conversation with them;
+the darshan of Jagannatha, the meeting with Sarvabhauma.
+
+**111.** In Kashi Mishra's abode the Bhattacharya reads the letter;
+the Bhattacharya's anger, his boasting and challenge.[^25-36]
+
+**112.** At the Bhattacharya's words Prabhu becomes glad;
+he writes letters to Advaita and Nityananda.
+
+**113.** Prabhu's conversation with the Bhattacharya;
+counsel on how to make bhakti firm.
+
+**114.** Thinking of a vessel for prema, to reveal prema in Gauda,
+he summons the Earth, so that she may give the prema entrusted to her.
+
+**115.** Having received the command, the Earth vanished;
+he told of this to Svarupa and Ramananda.
+
+**116.** Crying "Nityananda!" Prabhu swoons and weeps;
+by Hari-nama he comes to, and converses with Sarvabhauma.
+
+**117.** Hearing of the obstruction to bhakti, Mahaprabhu says in sorrow:
+"That Advaita should be an opponent cannot be believed."
+
+**118.** Unhappy at heart, Advaita, to frighten [Prabhu],
+again expounds knowledge — there is a reason for this:
+
+**119.** that Prabhu might be born again in the form of prema —
+this is the reason for the second teaching of knowledge.
+
+**120.** Counsel on preserving bhakti, a vision in a dream,
+a conversation with Jagannatha.
+
+**121.** A childless brahmana named Chaitanya Dasa
+received the boon of a son, who will soon obtain prema.
+
+**122.** Jagadananda's arrival from Vrindavana;
+news of Vrindavana, the account of Advaita's riddle.
+
+**123.** Hearing it, Prabhu enters another state; the prema that was in the ocean
+the ocean, having obtained leave, gave to the Earth.
+
+**124.** Under the weight of prema the Earth began to sway;
+in fear Jagannatha's pujari came to Prabhu
+
+**125.** and told him of the people's fear;
+the Earth is stilled, the people reassured, the pujari dismissed.
+
+**126.** [Prabhu] remembers the Earth, inquires about Chaitanya Dasa,
+and tells her to give prema to his wife Lakshmipriya.
+
+**127.** Lakshmipriya obtains prema before Jagannatha;
+performing sankirtana, Prabhu calls Srinivasa.
+
+**128.** Of Chaitanya Dasa's future son Srinivasa —
+this is set down in the letter that goes to Nityananda.
+
+**129.** Sanatana's letter from Vrindavana and so on;
+Prabhu is pleased at Gopala Bhatta's going to Vrindavana.
+
+**130.** A letter is sent to Sanatana in Vrindavana;
+praise of Gopala Bhatta, the gift of a cord and a seat.
+
+**131.** Receiving the letter, Rupa, Sanatana and Lokanatha rejoice;
+an account of the life of Lokanatha Gosvami.
+
+**132.** Thinking of Narottama, Prabhu calls out "Narottama!";
+Sanatana's separation, his swoon, and his revival through Rupa's care.
+
+**133.** Receiving the cord and seat and reading the letter,
+Gopala swoons in bliss and rolls on the ground.
+
+**134.** The account of Srinivasa, Sanatana's dream;
+Prabhu describes Srinivasa to Svarupa.
+
+**135.** The thought of Srinivasa spreads everywhere;
+to obtain a son, Chaitanya Dasa performs purashcharana.[^25-37]
+
+**136.** The dreams of Chaitanya Dasa and Lakshmipriya;
+the conversation of husband and wife.
+
+**137.** The villagers' sankirtana, the zamindar's prohibition;
+to the drum he has the names of Durga and Shiva proclaimed.
+
+**138.** At the proclaiming of the names of Durga and Shiva "Radha-Krishna" sounds;
+hearing this, the people rejoiced.
+
+**139.** The zamindar Durgadasa comes to Chaitanya Dasa's house,
+eats, and tells the story of his dream:
+
+**140.** in the dream he saw Gaura-Nitai and heard sankirtana;
+the conversation of Durgadasa and Chaitanya Dasa.
+
+**141.** The glory of Lakshmipriya's pregnancy, Srinivasa's birth —
+this is the substance I have described in the first vilasa.
+
+### Vilasa 2
+
+**142.** In the second vilasa is the festival of Srinivasa's birth.
+Now, honored listeners, hear of the third vilasa.
+
+### Vilasa 3
+
+**143.** The account of Srinivasa and Narottama;
+the beginning of Srinivasa's studies, their interruption, his dejection.
+
+**144.** A vision in a dream, the uttering of the names of Radha and Krishna;
+the conversation of Chaitanya Dasa and Lakshmipriya.
+
+**145.** At his mother's bidding Srinivasa goes to study;
+a conversation with the teacher.
+
+**146.** Distracted, Srinivasa could not study;
+having returned home, he obtained learning in a dream.
+
+**147.** I have set out the index of the third vilasa;
+listeners, hear the index of the fourth vilasa.
+
+### Vilasa 4
+
+**148.** Srinivasa's acquaintance with Narahari Sarakara;
+conversation and the awakening of prema.
+
+**149.** Srinivasa's grief in separation from Chaitanya, his lament, a voice from the sky;
+there too we hear that he must go to Vrindavana.
+
+**150.** The death of Srinivasa's father; having performed the shraddha and other rites,
+Srinivasa moved his home from Chakhandi to Yajigrama.
+
+**151.** Srinivasa goes to Srikhanda, meets Raghunandana;
+conversation, a meeting with Narahari.
+
+**152.** Virachandra's command to go to Vrindavana;
+the instruction to take initiation from Gopala Bhatta.
+
+**153.** In a dream Mahaprabhu commands him to go to Vrindavana
+to study the books of Rupa and Sanatana and others.
+
+**154.** He tells his dream to the Sarakara;
+conversation; for some days he lives in Khanda.
+
+**155.** Gadadhara Pandita Gosvami is in Nilachala;
+Srinivasa goes there to study the Bhagavata.
+
+**156.** The darshan of Jagannatha, acquaintance with Gadadhara;
+conversation; there is talk of studying the Bhagavata.
+
+**157.** Srinivasa comes back to Khanda, to Narahari,
+to fetch [a copy of] the Bhagavata at Gadadhara's bidding.
+
+**158.** Having met Virachandra[^25-38] and Narahari,
+he hurries with the Bhagavata to the Kshetra.[^25-39]
+
+**159.** Hearing in Jajpur of the Pandita Gosani's departure,
+grieving, he at once sets out for Khanda.
+
+**160.** Having seen the Sarakara, [in order] to go to Vrindavana
+he arrives in Navadvipa.
+
+**161.** Acquaintance and conversation with Vamshivadana;
+[his] account of the Pandita Gosani's hidden [departure], and lament.
+
+**162.** Ishana came and saw Srinivasa,
+went to Vishnupriya and told her.
+
+**163.** Srinivasa cooked half a ser of rice —
+and even ten vairagis ate their fill.
+
+**164.** Hearing from Ishana's lips of a meal for eleven,
+[Vishnupriya] herself came to the bank of the Ganga and saw the boy.
+
+**165.** Srinivasa came to Prabhu's house and bowed to the Ishvari;
+acquaintance, conversation — he obtained the Ishvari's grace.
+
+**166.** Vishnupriya's rule for taking Hari-nama:
+two new clay pots she keeps by her at all times;
+
+**167.** in one she keeps rice, and having chanted Hari-nama once,
+at the end of the chanting she puts one grain into the other pot;
+
+**168.** the grains that gather over three praharas[^25-40] of chanting
+she cooks, offers to Prabhu, and eats.
+
+**169.** A description of the glory of the Name and of Vishnupriya's greatness,
+whose sadhana and bhajana have no equal.
+
+**170.** Srinivasa is sent to Abhirama;
+Ishana goes with him.
+
+**171.** Srinivasa arrives in Shantipur
+and sees Advaita Prabhu, who had departed three years before.
+
+**172.** Srinivasa's conversation with Advaita:
+he told the reason for the second teaching of knowledge.
+
+**173.** At the second teaching of knowledge Prabhu's anger arose —
+and from this came the birth of Srinivasa and Narottama.
+
+**174.** The cry "Advaita is Govinda," the account of Kamadeva Nagara;
+the rejection of Nagara and the story of Advaita's departure.
+
+**175.** Of those who were rejected I have told in the twenty-fourth vilasa[^25-41] —
+for the sake of protecting dharma.
+
+**176.** Acquaintance with Mother Sita, Achyuta and others;
+Srinivasa partakes of prasada and obtains Sita's grace.
+
+**177.** Some of Advaita's sons hold to Nagara's view,
+and some hold to Achyuta's view.
+
+**178.** I have set out the index of the fourth vilasa;
+listeners, hear the index of the fifth vilasa.
+
+### Vilasa 5
+
+**179.** Srinivasa Acharya goes to Khardaha;
+the conversation of Virachandra and Jahnava.
+
+**180.** Srinivasa arrives through Ishana;
+Jahnava and Virachandra, learning [of him], sent for him.
+
+**181.** Jahnava's grace, the command to go to Vrindavana;
+she gives a letter [to] Abhirama — that he should strike [him] with the whip.
+
+**182.** To test [him], Abhirama gave Srinivasa cowries;
+buying food and cooking it, he, on seeing Vaishnavas, fed them.
+
+**183.** At the time of the meal Abhirama, through the Vaishnavas,
+tested Srinivasa and struck him with the whip.
+
+**184.** Having met Malini,
+Srinivasa set out for Khanda, where Narahari was.
+
+**185.** From Khanda Srinivasa went to Yajigrama
+and told his mother all that had happened.
+
+**186.** With his mother's leave he goes to Vrindavana;
+Sri Rupa reveals this to Jiva.
+
+**187.** The way to Vrindavana is described — what it is like;
+in Kashi, a stay in Chandrashekhara's house.
+
+**188.** A conversation with Chandrashekhara's disciple;
+he sees the place where Mahaprabhu sat, and other things.
+
+**189.** Going from Kashi by way of Prayaga to Vrindavana,
+on the road he met a Vrajavasi.
+
+**190.** From him he hears news of Vrindavana:
+Sanatana Gosvami has gone into hiding;
+
+**191.** hearing of the departure of Rupa and Raghunatha Bhatta,
+he laments bitterly at Krishna's Vishrama ghat.
+
+**192.** A description of his lament — the index of the fifth vilasa is complete.
+Listeners, hear the index of the sixth vilasa.
+
+### Vilasa 6
+
+**193.** In a dream Rupa and Sanatana Gosvami [tell] Srinivasa
+to take initiation from Gopala Bhatta and to study.[^25-42]
+
+**194.** Having seen the dream, Srinivasa found peace;
+Sri Jiva learned in a dream of Srinivasa's coming.
+
+**195.** [Jiva] received the command to teach Srinivasa;
+Srinivasa came to the temple of Govindaji.
+
+**196.** The darshan of Govinda, Srinivasa overcome by ecstasy;
+Jiva Gosvami came and took him to his own abode.
+
+**197.** Acquaintance, conversation with Jiva;
+Jiva takes him to Gopala Bhatta.
+
+**198.** Acquaintance with the Bhatta, an exchange of words;
+Gopala Bhatta shows Srinivasa grace.
+
+**199.** On another day Srinivasa comes with Jiva —
+the darshan of Radha-ramana, initiation and instruction from the Bhatta.
+
+**200.** I have set out the index of the sixth vilasa;
+listeners, hear the index of the seventh vilasa.
+
+### Vilasa 7
+
+**201.** The account of Vishvarupa, the lineage of Shachi's father;
+of Lokanatha Pandita — everything is described.
+
+**202.** Vishvarupa studies with Advaita;
+having become a great scholar, he takes sannyasa.
+
+**203.** In sannyasa his name is Shankararanya Puri;
+an account of how Vishvarupa attained perfection.
+
+**204.** Of Hadai Pandita; the birth of Nityananda;
+for fourteen years Nityananda lives at home.
+
+**205.** A certain sannyasi came to Hadai's house
+and, asking [for him] as alms, took away Nityananda, the treasury of virtues.
+
+**206.** Nitai became his disciple, taking the guise of an avadhuta;
+the name of that sannyasi is Ishvara Puri.
+
+**207.** A detailed account of Vishvarupa and Nityananda
+I have given in the twenty-fourth vilasa.
+
+**208.** Mahaprabhu's birth; of Lokanatha Gosvami
+I have written in detail.
+
+**209.** Lokanatha was born in Yashohara, in the village of Talagadi;
+seeing preparations for his marriage, he runs away.
+
+**210.** Coming to Navadvipa, he met Mahaprabhu;
+he saw Gadai, Nitai, Advaita and the others.
+
+**211.** Prabhu's conversation with Lokanatha:
+of Vrindavana, and an account of the coming sannyasa.
+
+**212.** The command to Lokanatha to go to Vrindavana;
+instruction to Lokanatha, ecstasy [at the thought] of Vrindavana.
+
+**213.** A conversation about bhajana;
+Lokanatha's former feeling was awakened.
+
+**214.** Sri Bhugarbha Gosvami came there;
+Prabhu and Gadai commanded [them] to go to Vrindavana.
+
+**215.** Lokanatha and Bhugarbha go together to Vrindavana;
+"Rupa, Raghu, Sanatana and the Bhatta will come to Vrindavana later."
+
+**216.** Saying this, [Prabhu] sends Lokanatha and Bhugarbha to Vrindavana;
+the two travel by the Tajpur road.
+
+**217.** A description of the road — and so they come to Vrajapuri;
+wandering through Mathura, they come to know various places.
+
+**218.** I have set out the index of the seventh vilasa;
+listeners, hear the index of the eighth vilasa.
+
+### Vilasa 8
+
+**219.** Mahaprabhu's first journey to Vrindavana:
+at the ghat of Tartipur[^25-43] Prabhu only crosses the Padma.
+
+**220.** Prabhu rejoices on seeing the Padmavati;
+Nityananda converses with Prabhu.
+
+**221.** After the conversation Prabhu reveals his mind:
+"I wish to stay on the bank of the Padmavati."
+
+**222.** By way of Chaturpura Prabhu goes to Ramakeli;
+the meeting with Rupa and Sanatana.
+
+**223.** From there he came to Kanai Natashala;
+performing sankirtana, he called Narottama.
+
+**224.** The manifestation of prema, ecstasy, tears pouring down;
+"On the bank of the Padma a devotee named Narottama will be born" —
+
+**225.** so the devotees surmised;
+a conversation with Nityananda.
+
+**226.** He wished to hold kirtana at Garerhat and to leave prema [there];
+turning back from Natashala, he came to Garerhat.
+
+**227.** Seeing the beauty of the Padmavati, he went to Kudodarapura;
+bathing in the Padma, he began kirtana.
+
+**228.** Nityananda brought the kirtana to a halt;
+together with Nitai, Prabhu gave prema to the Padmavati.
+
+**229.** He commanded her to give the prema to Narottama
+and told how to recognize Narottama.
+
+**230.** Having shown grace to the Padma, he did not go to Vrindavana —
+Mahaprabhu returned to Nilachala.
+
+**231.** And in the eighth it is also determined what prema is.
+The index of the ninth vilasa I shall tell in order.
+
+### Vilasa 9
+
+**232.** Nityananda distributes prema in Gauda;
+Virachandra appeared as the form of prema.
+
+**233.** "As forms of prema Narottama and Srinivasa will be born;
+through them prema-bhakti will be revealed."
+
+**234.** The Majumdar's worship, a voice from the sky:
+he hears the words, "A son named Narottama will be born."
+
+**235.** The conversation of Krishnananda and Narayani;
+a dream, the arrival of an astrologer.
+
+**236.** From the astrologer's lips he heard of the future son's greatness;
+on the bright panchami of the month of Magha Narottama was born.
+
+**237.** I have set out the index of the ninth vilasa;
+listeners, hear the index of the tenth vilasa.
+
+### Vilasa 10
+
+**238.** The festival of Narottama's birth and his first feeding with rice,
+the chuda tonsure,[^25-44] the piercing of the ears, and the beginning of his studies.
+
+**239.** By twelve years he becomes a great scholar;
+his parents set about getting him married.
+
+**240.** At Nitai's command in a dream Naru bathes in the Padma;
+the Padmavati grants Narottama prema.
+
+**241.** A conversation takes place; when he obtained prema,
+Gaurahari entered Naru in the form of prema.
+
+**242.** Coming out of the water, mad with prema, he dances and sings;
+having searched him out, his mother and father take Naru away.
+
+**243.** The return home; coming to his senses, [Naru] talks with his father;
+seeing his state, the father is grieved at heart.
+
+**244.** The parents' lament; an ojha is brought;
+taking it for the evil eye of a spirit, the ojha exorcizes him.
+
+**245.** The illness does not go; a kaviraja, examining his condition,
+calls it a wind disorder and prescribes shiva-ghrita.[^25-45]
+
+**246.** Naru says, "There is no illness — I shall go to Vrindavana";
+hearing this, his parents forbid it.
+
+**247.** To deceive his parents, Naru became [outwardly] well
+and applied himself with special zeal to worldly affairs.
+
+**248.** In his heart Naru thinks of leaving home;
+a horseman comes from the jagirdar to fetch Naru.
+
+**249.** Naru sets out to meet the Padshah
+and, in order to go to Vrindavana, flees by night.
+
+**250.** His mother and father hear of Naru's flight;
+lamenting, they send men out everywhere.
+
+**251.** They searched, but could not bring Narottama back;
+hearing this, his parents grieve deeply.
+
+**252.** An account of Narottama's journey on the road:
+worn out by the road, he laments.
+
+**253.** Sores came out on his feet — he cannot walk;
+a certain brahmana comes with milk.
+
+**254.** The brahmana gave the milk and vanished;
+Narottama fell asleep on that very spot.
+
+**255.** In a dream Rupa and Sanatana tell him to drink the milk:
+Gauranga himself brought it.[^25-46]
+
+**256.** A conversation; the command to go to Vrindavana
+and to become the disciple of Lokanatha Gosani.
+
+**257.** Having shown Naru grace, the two Gosanis vanished;
+waking, lamenting, Narottama drinks the milk.
+
+**258.** I have set out the index of the tenth vilasa;
+listeners, hear the index of the eleventh vilasa.
+
+### Vilasa 11
+
+**259.** Naru meets Gaudiya Vaishnavas;
+in Kashi he goes to Chandrashekhara's house.
+
+**260.** With a certain Vaishnava, Chandrashekhara's disciple,
+there was a conversation — and the heart rejoiced.
+
+**261.** From there, by way of Prayaga, he goes to Mathura;
+a stay in Mathura; a vision in a dream to Jiva Gosani.
+
+**262.** Jiva Gosani sends a Vaishnava from Vrindavana
+to bring Narottama from Mathura.
+
+**263.** Narottama goes with the Vaishnava to Vrindavana;
+seeing the temple of Govinda, he swoons with prema.
+
+**264.** Jiva Gosani comes, sees Naru's bhakti,
+and tells of it to Lokanatha Gosvami.
+
+**265.** Lokanatha came there with Jiva
+and laid his hand on the body of the swooning Narottama.
+
+**266.** Coming to his senses, Narottama bowed to the Gosani;
+after conversing, he saw Govinda and swooned again.
+
+**267.** Taking the swooning Narottama, Lokanatha Gosani
+went with Jiva Gosvami to [his] kunja.
+
+**268.** In the kunja he comes to, partakes of prasada;
+Naru's conversation with Lokanatha Gosani.
+
+**269.** From the Gosani Narottama receives Hari-nama;
+talk of guru and disciple; he chants two hundred thousand names by count.
+
+**270.** Narottama's service to the guru, instruction and initiation;
+he performs sadhana and bhajana; in a dream, the vision of Sri Radha.
+
+**271.** Having instructed him, Sri Radhika vanished;
+Naru told his dream to the Gosani.
+
+**272.** In the kunja of the sakhi Champakalata — the boiling down of milk;
+[he is] Champaka Manjari, a follower of Manjulali.
+
+**273.** Praising [him], Lokanatha gave Narottama a command:
+[his are] the name Champaka Manjari and the service of boiling milk.
+
+**274.** In meditation Naru contemplates the lila and performs mental service:
+boiling down the milk, [he sees it] boil over — and holds it back with his hand.
+
+**275.** Narottama did not notice that he had burned his hand;
+coming to outer awareness, he saw the burned hand.
+
+**276.** His service to the Gosani was missed — he was distressed at heart
+and told the Gosani of the mental service.
+
+**277.** Lokanatha informed Jiva Gosvami;
+the two Gosanis show Narottama great grace.
+
+**278.** Narottama falls at the feet of the two Gosanis;
+Jiva Gosani addresses him as friend.
+
+**279.** I have set out the index of the eleventh vilasa;
+listeners, hear the index of the twelfth vilasa.
+
+### Vilasa 12
+
+**280.** Narottama studies the scriptures of bhakti;
+hearing of his bhajana, [all] rejoice at heart.
+
+**281.** Jiva, seeing in him [the form of] Rupa Gosani's lila,
+gave him another siddha name — Vilasa Manjari.
+
+**282.** Champaka Manjari and Vilasa Manjari —
+the two [names] are joined, and Narottama now bears them.
+
+**283.** Calling him friend, Jiva gave him the title "Thakura Mahashaya";
+all the Vaishnavas rejoiced.
+
+**284.** The account of the name Champaka Manjari given by Radhika,
+of the bhajana, and of the title received from Jiva Gosvami.
+
+**285.** Hearing [this], Dasa Gosvami, Krishnadasa Kaviraja
+and the whole company of devotees rejoiced.
+
+**286.** Gopala Bhatta rejoices hearing of his bhajana;
+the conversation of Gopala Bhatta and Lokanatha.
+
+**287.** Srinivasa went to Lokanatha Gosvami,
+bowed, and then met Narottama.
+
+**288.** Calling Narottama friend, he embraced him;
+the conversation of Srinivasa and Narottama.
+
+**289.** Lokanatha and Srinivasa converse;
+the love of Srinivasa and Narottama grows.
+
+**290.** Srinivasa's service to the guru, his study of the scriptures of bhakti;
+the conversation of Jiva Gosani and Srinivasa.
+
+**291.** One day Jiva put a question to Srinivasa
+and, hearing a good answer, gave him the title of Acharya.
+
+**292.** Jiva, in the temple of Govinda, to all the Vaishnavas,
+praising Srinivasa, tells of the conferring of the title.
+
+**293.** Hearing of the title of Acharya [given] to Srinivasa,
+Lokanatha and Gopala Bhatta rejoiced at heart.
+
+**294.** Srinivasa went to Lokanatha
+and met with Narottama.
+
+**295.** For the great festival of the Karttika vow Jiva Gosvami
+sent invitations to all the Vaishnavas.
+
+**296.** With Lokanatha, Bhugarbha, Gopala Bhatta,
+Dasa Gosvami and Krishnadasa Kaviraja
+
+**297.** all the Vaishnavas came;
+in the last part of the night of Ekadashi the cooking began.
+
+**298.** On the day of Dvadashi, after ten dandas,[^25-47] the bhoga was offered;
+Srinivasa served and fed everyone.
+
+**299.** Jiva Gosvami, before all the Vaishnavas,
+praises Narottama and Srinivasa highly.
+
+**300.** To spread the Vaishnava books in Gauda,
+Jiva Gosani obtains the consent of the Vaishnavas.
+
+**301.** "Srinivasa and Narottama will spread the books" —
+and the Vaishnavas impart power to the two.
+
+**302.** Jiva Gosani summons a merchant of Mathura
+by letter to Sri Vrindavana.
+
+**303.** He is told to provide a cart to carry the books;
+as commanded, the merchant brought and provided a cart.
+
+**304.** Shyamananda is another devotee; I shall tell of him —
+[one with whom] all the Vaishnavas are pleased in every way.
+
+**305.** Jiva Gosani, through a Vaishnava, sends for Narottama;
+he meets Shyamananda.
+
+**306.** That [Narottama] should take Shyamananda with him and [then] send him to his own country —
+so Jiva commands Narottama.
+
+**307.** Sri Jiva Gosani says to Shyamananda:
+"Learn the hidden truth of bhajana from Narottama."
+
+**308.** The account of Duhkhi Krishnadasa, Shyamananda:
+he was born in the southern country, in Ambuyavali,[^25-48] in a sadgopa family.
+
+**309.** Running away from home, he goes to Khanakul;
+having seen Gopinatha, he hurries to Ambika.
+
+**310.** Seeing the images of Chaitanya and Nityananda
+and hearing sankirtana, he rejoiced at heart.
+
+**311.** He sweeps the temple yard, partakes of prasada;
+Hridaya Chaitanya asks him who he is.
+
+**312.** The exchange between Hridaya and Shyamananda;
+giving him initiation, [Hridaya] names him Duhkhi Krishnadasa.
+
+**313.** His bhajana, a conversation with the guru;
+the account of Gauridasa Pandita, the installation of Gaura-Nitai.
+
+**314.** Hearing of the installation of their images, Gaura and Nitai —
+the two brothers — came to Gauridasa Pandita's house.
+
+**315.** Gauridasa offers bhoga: the two Prabhus and the two images —
+the four eat together; seeing this, he exults.
+
+**316.** Of the boon given to Gauridasa [Hridaya] tells Shyamananda;
+hearing it, Shyamananda is lost in the bliss of prema.
+
+**317.** With his guru's leave Shyamananda
+went to Sri Vrindavana and saw Govinda.
+
+**318.** He circumambulates the places of lila, goes to Radha-kunda;
+he becomes acquainted with Dasa Gosvami and Krishnadasa Kaviraja.
+
+**319.** He has a conversation with Krishnadasa;
+Shyamananda goes to Vrindavana.
+
+**320.** Having seen Madanamohana, he goes to Sri Jiva,
+tells who he is — a conversation takes place.
+
+**321.** Shyamananda learns bhajana, studies the scriptures;
+in a dream he sees the rasa-lila.
+
+**322.** In the rasa he sees the dance of Krishna and the sakhis;
+unnoticed, a nupura fell from Radha's foot.
+
+**323.** When the lila ended, all departed;
+the nupura had fallen — and no one took it up.
+
+**324.** On waking, Shyamananda goes to the Rasa-sthali,
+finds Radha's nupura and shows it to Jiva Gosani.
+
+**325.** Telling his dream, he handed over the nupura;
+Jiva Gosani in prema embraced Shyamananda.
+
+**326.** A tilaka in the form of the nupura, with a dot, Shyamananda
+put on, wholly joyful at heart.
+
+**327.** Shyamananda's name had been Duhkhi Krishnadasa;
+Jiva Gosvami named him Shyamananda.
+
+**328.** Taking Shyamai by the hand, Jiva Gosani gave him into Naru's hands;
+loading the books, he had the cart brought to the door.
+
+**329.** Srinivasa and Narottama go to Jiva;
+each goes to his own Prabhu and asks leave to depart.
+
+**330.** Lokanatha gave instructions to Narottama;
+Gopala Bhatta instructed Srinivasa.
+
+**331.** I have set out the index of the twelfth vilasa;
+listeners, hear the index of the thirteenth vilasa.
+
+### Vilasa 13
+
+**332.** Lokanatha Gosani and the Bhatta Gosani
+both bade farewell to Srinivasa and Narottama.
+
+**333.** Srinivasa and Narottama go to Jiva Gosani;
+the books are packed in a chest and wrapped in cloth.
+
+**334.** Having loaded [the chest] on the cart, Jiva, at the door of Govindaji,
+receives the garland that is Sri Govindaji's command.
+
+**335.** Taking Srinivasa, Narottama and Shyamananda,
+Jiva Gosani goes with the cart to Mathura.
+
+**336.** Having taken leave of all, he returned to Vrindavana;
+and they set out on the road through Jharikhanda.
+
+**337.** All that happened on the road is told;
+men from Vishnupura come and find out about the chest.
+
+**338.** Hearing from the men, King Vira Hambira,
+[thinking it] wealth reckoned by the diviners, steals the cart.
+
+**339.** On seeing the cart the king was glad;
+opening the chest and seeing books, he was greatly dismayed.
+
+**340.** No harm was done to the men who were with the cart;
+hearing [about the books], the king, pleased, took the books into his house.
+
+**341.** News of the theft of the books is sent to Vrindavana;
+Shyamai, Naru and Srinivasa go about searching for the books.
+
+**342.** Not finding the books, all were grieved;
+learning of the theft of the books, Jiva Gosvami is in sorrow.
+
+**343.** Krishnadasa Kaviraja departed from the world;
+Dasa Gosvami's lament is described.
+
+**344.** Srinivasa and Narottama take counsel;
+Srinivasa says, "I shall search for the books from house to house."
+
+**345.** Srinivasa searches for the books from house to house;
+Naru goes with Shyamananda to his own country.
+
+**346.** Seeing Narottama, his parents rejoice;
+sadhana, bhajana, the rules, the mental service — all of it
+
+**347.** at Jiva's command he imparted to Shyamananda;
+after some days Shyamananda went to his own country.
+
+**348.** Meanwhile Srinivasa, wandering on and on,
+arrived in Vishnupura.
+
+**349.** A brahmana's son named Krishnavallabha —
+Srinivasa's conversation with him.
+
+**350.** The story of the theft of the cart comes out;
+Srinivasa conceived hope of recovering the books.
+
+**351.** The king of Vishnupura is Vira Hambira;
+hearing of his character, he was reassured:
+
+**352.** by day the reading of the Puranas, by night theft and robbery;
+he protects his subjects like sons and does no harm to the land.
+
+**353.** Having discussed grammar, the brahmana youth
+wished to study with Srinivasa.
+
+**354.** Srinivasa goes with Krishnavallabha to the village of Deuli;
+Srinivasa stayed in his house.
+
+**355.** Srinivasa goes with Krishnavallabha to the palace
+and listens to the Sri Bhagavata-purana.
+
+**356.** On another day, coming there, he heard the Rasa-panchadhyayi
+and objected, saying, "The verses are not being explained correctly."
+
+**357.** Hearing this, the pandita says angrily and haughtily,
+"Then you explain them, sir, let us see!"
+
+**358.** At the king's command Srinivasa sat on the [reader's] seat
+and expounded each verse in many ways.
+
+**359.** The king rejoiced, the pandita took fright;
+the pandita bowed at Srinivasa's feet.
+
+**360.** After the reading, a conversation with the king;
+honoring him, they give him refreshment and a lodging.
+
+**361.** Hearing Srinivasa recite hymns at the end of the night,
+the king was filled with bhakti; a conversation with the pandita.
+
+**362.** From the pandita's lips praise of Srinivasa's learning
+the king heard, and was greatly pleased at heart.
+
+**363.** [The king] hears the Bhagavata from Srinivasa;
+prema awakens in the king, a vision in a dream.
+
+**364.** The king learned who Srinivasa was;
+conversation, the account of the theft of the books.
+
+**365.** The king took Srinivasa and showed him the books;
+the king and the court pandita became Srinivasa's disciples.
+
+**366.** [The pandita], having studied the gosvamis' books with Srinivasa,
+received the name Vyasa Acharya.
+
+**367.** King Vira Hambira is given the name Haricharana Dasa;
+[Srinivasa] tells [him] about Thakura Narottama.
+
+**368.** News of the recovery of the books is sent to Narottama;
+it is also made known that the king has become a disciple.
+
+**369.** Hearing the news of the recovery of the books, Naru rejoices;[^25-49]
+hearing of Narottama, the king is glad.
+
+**370.** News of the recovery of the books is sent to Vrindavana;
+hearing it, the gosvamis rejoiced at heart.
+
+**371.** The king and the court pandita have become Srinivasa's disciples —
+hearing this, the gosvamis were filled with joy.
+
+**372.** Having initiated Krishnavallabha, Srinivasa
+goes with the books to Yajigrama, exulting at heart.
+
+**373.** Coming home, he bowed to his mother;
+there was talk of Ramachandra and Govinda of Teliya Budhari.
+
+**374.** Hearing of Srinivasa, Ramachandra Kaviraja,
+king of devotees, sets out for Yajigrama.
+
+**375.** Having seen Gauranga at Katwa
+and heard praise of Srinivasa, he goes to Yajigrama.
+
+**376.** I have set out the index of the thirteenth vilasa;
+the index of the fourteenth vilasa begins.
+
+### Vilasa 14
+
+**377.** Srinivasa went to Khanda;
+an exchange of words with Raghunandana.
+
+**378.** Grief at Narahari's departure;
+from Khanda Srinivasa came back to Yajigrama.
+
+**379.** Acquaintance with Ramachandra Kaviraja;
+in conversation [Srinivasa] asks about Kheturi.
+
+**380.** The distance from Teliya Budhari to Kheturi;
+an account of Vyasacharya and Ramachandra.
+
+**381.** In the debate Ramachandra won the victory;
+the debate between Srinivasa and Ramachandra is described.
+
+**382.** Ramachandra's initiation, the study of the Bhagavata;
+reading the gosvamis' books, he rejoices at heart.
+
+**383.** Praise of Ramachandra; [asking him] to come home,
+Govinda writes [him] a letter in great humility.
+
+**384.** Hearing the letter was disregarded, he sends a letter again:
+he writes of his illness — let him come, bringing Srinivasa.
+
+**385.** Govinda begs Bhagavati[^25-50] for deliverance;
+Bhagavati says that he must take initiation into Krishna's mantra.
+
+**386.** Having written all this in a letter,
+he sends the letter to Ramachandra.
+
+**387.** Govinda's son Divyasimha sends men with a letter
+to bring Srinivasa, grieving at heart.
+
+**388.** Receiving the letter, Ramachandra, taking Srinivasa,
+came and arrived at the village of Teliya Budhari.
+
+**389.** Seeing Govinda bedridden and suffering, Srinivasa
+placed his foot on his head and comforted him.
+
+**390.** By Srinivasa's grace Govinda's illness was destroyed;
+Govinda took initiation from Srinivasa.
+
+**391.** At Srinivasa's command Govinda Kaviraja,
+king of devotees, describes in song the lila of Gaura and the lila of Krishna.
+
+**392.** Srinivasa came to Teliya Budhari;
+hearing of it, Narottama arrives at Teliya Budhari.
+
+**393.** The meeting with Srinivasa Acharya;
+acquaintance with Ramachandra and Govinda.
+
+**394.** Narottama goes to Kheturi with Vyasacharya;
+Srinivasa set out for Yajigrama.
+
+**395.** Images of Gauranga and Vallavikanta
+Narottama had made, exulting at heart.
+
+**396.** Srinivasa goes to Kheturi with Ramachandra;
+all the mahantas were invited.
+
+**397.** On Phalguna Purnima the Vaishnavas came to Kheturi;
+the abhisheka of Gauranga and Vallavikanta was performed.
+
+**398.** On Phalguna Purnima, for these two images,
+the abhisheka was performed by Srinivasa Mahashaya.
+
+**399.** Lodgings are given to the mahantas in various places;
+the great sankirtana sounds in various places.
+
+**400.** Mad with prema, Srinivasa dances gently;
+the great bliss of Krishnananda, Narottama's father.
+
+**401.** Mad with prema, Krishnananda gives away all kinds of gifts;
+after the kirtana the mahantas partake of prasada.
+
+**402.** On another day, kirtana until the second prahara;
+mad with prema, Naru dances and sings and will not be calmed.
+
+**403.** Absorbed in feeling, he is unconscious until the third prahara;
+through Srinivasa's great efforts he regains consciousness.
+
+**404.** At the end of the festival the mahantas take their leave;
+Srinivasa, Ramachandra and Narottama talk of Krishna.
+
+**405.** Srinivasa takes leave; Ramachandra stays in Narottama's house;
+a very deep love arose between Narottama and Ramachandra.
+
+**406.** Two panditas, Harirama and Ramakrishna —
+at the ghat they debate with Ramachandra and Narottama.
+
+**407.** Harirama and Ramakrishna, in Narottama's house,
+gladly accepted hospitality.
+
+**408.** Harirama, Ramakrishna, Ramachandra, Narottama —
+at night the four debate for a long time.
+
+**409.** Harirama and Ramakrishna were defeated;
+at night a vision in a dream, and afterwards both took initiation.
+
+**410.** Harirama receives the mantra from Ramachandra;
+Ramakrishna receives the mantra from Narottama.
+
+**411.** I have set out the index of the fourteenth vilasa;
+listeners, hear the index of the fifteenth vilasa.
+
+### Vilasa 15
+
+**412.** The fifteenth vilasa should have been made the sixteenth —
+by mistake it was written down as the fifteenth.[^25-51]
+
+**413.** Jahnava, setting out for Vrindavana a second time,
+after some days arrived at Kheturi.
+
+**414.** She saw the order of the deities' service;
+Jahnava's conversation with Narottama.
+
+**415.** Praise of Narottama; Jahnava goes to Vrindavana;
+the meeting with Sri Jiva Gosvami.
+
+**416.** Through Jiva Gosvami, acquaintance with the Vaishnavas;
+before Lokanatha Gosvami she praises Narottama.
+
+**417.** Praise of Ramachandra before Gopala Bhatta
+Jahnava offered with a joyful heart.
+
+**418.** I have set out the index of the fifteenth vilasa;
+listeners, hear the index of the sixteenth vilasa.
+
+### Vilasa 16
+
+**419.** The sixteenth should have been made the fifteenth —
+by mistake it was written down as the sixteenth.
+
+**420.** When I composed and finished each chapter,
+five hundred devotees copied it.
+
+**421.** For this reason I could not rearrange the chapters;
+old age and illness also stood in the way.
+
+**422.** Rupa Gosani's disciple is Jiva Gosani Mahashaya;
+Dasa Gosvami's disciple is Krishnadasa Kaviraja.
+
+**423.** Their bhajana and sadhana are described;
+Jahnava's first journey to Vrindavana.
+
+**424.** With her I too go, Nityananda Dasa;
+Rupa Gosani's grace was revealed to me.
+
+**425.** Acquaintance with all the gosvamis;
+she sees Govinda, Gopinatha and Madanamohana.
+
+**426.** The great festival is described;
+Jahnava's conversation with Rupa.
+
+**427.** Of the glory of the gosvamis Sri Rupa Gosani
+told Jahnava.
+
+**428.** The Lalita-madhava, the Vidagdha-madhava, the Dana-keli-kaumudi,
+the Bhakti-rasamrita-sindhu, the Ujjvala-nilamani and others —
+
+**429.** these books she heard from Rupa Gosani;
+the subject of the Dana-keli-kaumudi is described.
+
+**430.** At Madanamohana's left there was no Radha;
+Sri Jahnava Devi had a dream:
+
+**431.** she is told to have [an image of] the Thakurani made and sent;[^25-52]
+Jahnava goes to Radha-kunda.
+
+**432.** With Dasa Gosvami and Krishnadasa Kaviraja
+meeting, she hears of the greatness of Radha-kunda.
+
+**433.** They tell the distances along the roads to the places of lila;
+the subject of sadhya and sadhana[^25-53] is described.
+
+**434.** From Radha-kunda Jahnava went to Vrindavana;
+from Rupa she heard of the sixty-four limbs of bhakti.
+
+**435.** The Thakurani takes leave of the gosvamis;
+Gopala Bhatta asks that Srinivasa be sent [to him].
+
+**436.** Jahnava Thakurani goes to her own country;
+the glory of the water that has washed a Vaishnava's feet is proclaimed.
+
+**437.** The Thakurani forbids me to marry;
+the Thakurani goes to Khanda to meet Narahari.
+
+**438.** The Bhatta's command to send Srinivasa to Vrindavana;
+the Thakurani set out for Khardaha.
+
+**439.** An account of Chaitanya Dasa the Auliya;
+Chaitanya Dasa the Auliya goes to Vrindavana.
+
+**440.** The glory of Srinivasa and Narottama is told;
+Srinivasa's two marriages are described to Gopala Bhatta.
+
+**441.** Chaitanya Dasa the Auliya came back to his own country
+and gave Srinivasa the news of Vrindavana.
+
+**442.** I have set out the index of the sixteenth vilasa;
+listeners, hear the index of the seventeenth vilasa.
+
+### Vilasa 17
+
+**443.** From Gauda a Vaishnava went to Vrindavana;
+Jiva Gosani learned the news from him:
+
+**444.** of the virtues of Srinivasa, Narottama and Ramachandra,
+of the order of Narottama's service to the holy images;
+
+**445.** of how flawlessly Narottama serves the Vaishnavas —
+he told it truly to Sri Jiva Gosvami.
+
+**446.** Two Vaishnavas, named Ramadasa and Krishnadasa,
+set out from Vrindavana for the Kshetra-dhama.
+
+**447.** […][^25-54] —
+Lokanatha, Gopala Bhatta and Jiva give [them] their blessings.
+
+**448.** The two Vaishnavas go to Garerhat, to Kheturi;
+a conversation with Narottama and Ramachandra.
+
+**449.** They convey the blessings of Lokanatha and Jiva to Narottama,
+and make known Gopala Bhatta's blessing to Ramachandra.
+
+**450.** There was a conversation with the two Vaishnavas;
+before the bhoga was offered, the two Vaishnavas asked for food and ate.
+
+**451.** The reason for their eating before the bhoga is explained;
+the two Vaishnavas go to Katwa.
+
+**452.** Having seen Mahaprabhu, they go to Yajigrama
+and convey to Srinivasa the blessings of Gopala Bhatta and Jiva.
+
+**453.** The Vaishnavas talked with Srinivasa;
+from there the two Vaishnavas went to Shyamananda.
+
+**454.** They convey Jiva Gosvami's blessing to Shyamananda;
+the Vaishnavas' conversation with Shyamai.
+
+**455.** They see the bhakti of Murari, Shyamananda's disciple;
+the two Vaishnavas set out for Nilachala.
+
+**456.** Having seen Jagannatha, the two returned to Vrindavana
+and began to tell of everyone's virtues:
+
+**457.** of Murari, Ramachandra and Shyamananda,
+of Narottama and Srinivasa — and the gosvamis rejoice in their virtues.
+
+**458.** The death of Srinivasa's mother, the funeral rites and festival —
+all this Srinivasa performed at the proper time.
+
+**459.** Raghunandana of Khanda and the sensible Sulochana
+urge Srinivasa to marry.
+
+**460.** Srinivasa says, "I have no command from my guru to marry";
+Raghu says, "The Gosani will give the command to marry."
+
+**461.** Having received the command of Sri Gopala Bhatta Gosvami,
+Srinivasa marries the daughter of the brahmana Gopala Dasa.
+
+**462.** Srinivasa's brothers-in-law, Shyamadasa and Ramacharana,
+study with Srinivasa.
+
+**463.** [There is a brahmana] of Gopalpur named Raghu Chakravarti —
+Srinivasa married again, taking his daughter.
+
+**464.** Srinivasa lives in Vishnupura with his two wives;
+Virabhadra Prabhu comes to Vishnupura.
+
+**465.** Acquaintance and conversation with the king;
+Virachandra takes his meal in the Acharya's house.
+
+**466.** Srinivasa's two wives, to Virabhadra Prabhu,
+putting garlands and sandal paste on him, bow down.
+
+**467.** In humility and meekness they stand with joined palms;
+Prabhu names Padmavati Gauranga-priya.
+
+**468.** He gave chewed tambula and the boon of a son;
+taking his leave, Virabhadra goes to Khardaha.
+
+**469.** The birth of Srinivasa's son was made known to Virabhadra;
+Virabhadra came to Vishnupura.
+
+**470.** Into the ear of Srinivasa's newborn son
+Virachandra Prabhu speaks the Hari-nama.
+
+**471.** Having given Hari-nama, he named him Gati-Govinda.
+When the boy reached thirteen years,
+
+**472.** to give him the mantra, Srinivasa Prabhu, with earnest entreaty,
+brought Vira to Vishnupura.
+
+**473.** Virabhadra blessed Gati-Govinda;
+at Vira's command Srinivasa gave him the mantra.
+
+**474.** Gati studies the scriptures under Virabhadra;
+having gained learning, he pursued sadhana and its goal.
+
+**475.** Narottama's bhajana is described in every respect;
+in the nineteenth I told of the six deities:
+
+**476.** Gauranga, Vallavikanta, Sri Krishna,
+Vraja-mohana, Radha-ramana, Radha-kanta — these are the six.
+
+**477.** In the seventeenth the service of the six deities is mentioned;
+in the nineteenth the abhisheka of the six deities is described in detail.
+
+**478.** The appearance day of Radharani, the appearance day of Gauranga,
+and all the days of the gosvamis' departure —
+
+**479.** on these days, sankirtana and the eating of many delicacies;
+a description of the love of Ramachandra and Narottama.
+
+**480.** The rules of Srinivasa's and Ramachandra's sadhana;
+Ramachandra's wife sends a letter to Narottama:
+
+**481.** she asks him to send Ramachandra home;
+at Narottama's request Ramachandra went home.
+
+**482.** The first night Ramachandra stays at home,
+and at the end of the night he goes off to Kheturi.
+
+**483.** At the time of mangala-arati he arrived at Kheturi;
+in remorse Ramachandra beats himself with a broom.
+
+**484.** On Mahashaya's body are the marks of the broom, his back is swollen;
+he forbade beating Rama's body with a broom.[^25-55]
+
+**485.** Ganganarayana Chakravarti, the foremost of panditas,
+reviles Harirama and Ramakrishna greatly.
+
+**486.** Harirama and Ramakrishna with Ganganarayana
+debate various scriptures day and night.
+
+**487.** Brought to understanding in debate, [Ganganarayana] receives teaching at heart —
+Ganganarayana's initiation by Narottama.
+
+**488.** Under Narottama Ganganarayana
+studies the Bhagavata, the scriptures of bhakti, the gosvamis' books.
+
+**489.** Harichandra Raya,[^25-56] the zamindar of Jalapantha —
+an account of him; Thakura Mahashaya gave him initiation.
+
+**490.** Harirama, Ramakrishna and the pandita Ganganarayana
+asked Narottama about dharma.
+
+**491.** Narottama taught sadhana, bhajana and dharma;
+I have set out its essence here.
+
+**492.** The essence of bhajana is set forth in the Prema-bhakti-chandrika,
+in which the essence of bhakti is contained in abundance.
+
+**493.** The rendering of Rupa's words, the account of the succession of gurus,
+bhajana in raga — I have described here.
+
+**494.** Base people leave the good path and take an evil path —
+the censure of non-devotees sunk in evil deeds.
+
+**495.** I have set out the index of the seventeenth vilasa;
+listeners, hear the index of the eighteenth vilasa.
+
+### Vilasa 18
+
+**496.** Of all the gosvamis who dwell in Vrindavana,
+of their branches and sub-branches I have told.
+
+**497.** The account of Sri Rupa and Sanatana Gosvami;
+the account of Kashishvara Pandita and Bhugarbha Gosvami.
+
+**498.** Kashishvara's disciple is the Vrajavasi Bhaktakashi;
+Govinda Gosani and Yadava Acharya are two Vrajavasis.
+
+**499.** The Vrajavasi Krishna Pandita, whose name is Krishnadasa,
+known as Krishnadasa Brahmachari.
+
+**500.** Raghunatha Bhatta Gosvami, the most excellent;
+the seventh is Dasa Gosvami, Yadunandana's disciple.[^25-57]
+
+**501.** The bhajana of Srila Dasa Gosvami is described:
+dwelling at Radha-kunda, service to the stone from Govardhana.
+
+**502.** Dasa Gosvami's disciple is Krishnadasa Kaviraja:
+having composed the Chaitanya-charitamrita, he is blessed among devotees.
+
+**503.** Gopala Bhatta, Trimalla Bhatta, Prabodhananda Sarasvati —
+the lives of these great souls I have written as I could.
+
+**504.** Mahaprabhu came to the Bhatta's house;
+Mahaprabhu's grace is described.
+
+**505.** Gopala Bhatta Gosvami goes to Vrindavana;
+the meeting with Rupa and Sanatana.
+
+**506.** Gopala composed the Hari-bhakti-vilasa;
+I have described Gopala Bhatta's branches.
+
+**507.** He entrusted the service of Radha-ramana to Gopinatha;
+the Vrajavasi Harivamsha he rejected.
+
+**508.** On Ekadashi Harivamsha's eating of tambula
+the Gosani forbade — he did not obey.
+
+**509.** For this reason the Bhatta rejected Harivamsha;
+Harivamsha was deprived of the service of Radha-ramana.
+
+**510.** He installed an image of Radha-vallabha
+and handed the service over to his sons Vanachandra and Vrindavanachandra.
+
+**511.** Harivamsha went into the forest and began austerities;
+a robber cut off Harivamsha's head and threw it into the Yamuna.
+
+**512.** Harivamsha's severed head, crying "Radha, Radha,"
+floats and comes to the feet of Gopala Bhatta Gosani.
+
+**513.** Forgiving the offense, he shows grace — Harivamsha is liberated.
+Of Jiva Gosvami, Sri Rupa's disciple, I have told as I could;
+
+**514.** more of him is described in the twenty-third vilasa.
+Here the story of the ruler of Rajmahal is told:
+
+**515.** Raghavendra Raya and his sons Santosha and Chand Raya;
+their might is described here.
+
+**516.** [Chand Raya] rebelled against the state and committed many sins;
+the Padshah himself trembled in fear of him.
+
+**517.** A brahma-daitya entered Chand Raya's body;
+the physicians' treatment does no good.
+
+**518.** A diviner says: "By the grace of Narottama Thakura Mahashaya
+he will recover" — so the reckoning shows.
+
+**519.** Raghava gave a letter to Krishnananda Raya;
+Narottama disregarded it; Chand Raya had a dream.
+
+**520.** At Bhagavati's command Chand Raya
+sends men with a letter to Narottama.
+
+**521.** Learning the letter's content, Narottama with Ramachandra
+deliberated for some time what ought and ought not to be done.
+
+**522.** Gauranga commanded that Chand Raya be delivered;
+Narottama went with Ramachandra to his house.
+
+**523.** Raghavendra's greeting; Narottama showed himself to Chand Raya;
+the brahma-daitya's speech — the daitya left Chand Raya.
+
+**524.** The brahma-daitya is delivered, Chand Raya freed from illness;
+the remorse of Chand and Santosha — they fell at the Thakura's feet.
+
+**525.** Raghavendra, Chand and Santosha, from Thakura Mahashaya,
+received initiation with joyful hearts.
+
+**526.** Chand Raya sends a letter to the Padshah;
+Raghava, Chand and Santosha go to Kheturi.
+
+**527.** The darshan of the deities, partaking of prasada, hearing sankirtana;
+Raghavendra, Chand and Santosha return home.
+
+**528.** While bathing in the Ganga, Chand Raya is seized by the Padshah's men
+and taken captive before the Padshah.
+
+**529.** Having judged him, [the Padshah] keeps Chand Raya in prison;
+hearing this, the grieving Raghavendra sends men.
+
+**530.** Breaching the prison, they get through to Chand Raya;
+they talk with him and urge him to flee.
+
+**531.** He will not agree to flee — the men depart;
+in the prison, in solitude, Chand Raya's bhajana.
+
+**532.** The Padshah had Chand Raya brought out of prison
+bound, to have him killed by an elephant.
+
+**533.** They drove an elephant at Chand Raya;
+seizing the elephant, Chand hurled it far away.
+
+**534.** Again in fury they bring the elephant to kill him —
+tearing out its trunk, he kills it.
+
+**535.** The Nawab's conversation with Chand Raya;
+he heard of Narottama's virtues.
+
+**536.** By the Nawab's favor Chand Raya is released;
+the Nawab granted Chand Raya estates.
+
+**537.** Sending word home, Chand goes to Kheturi;
+Raghavendra and Santosha come to Kheturi.
+
+**538.** Thakura Mahashaya talked with Chand;
+having talked with his father and brother, he went back to his own country.
+
+**539.** His rule of the land, Chand Raya's alliance with the Nawab;
+I have written the praise of Sri Thakura Mahashaya.
+
+**540.** Having completed eighteen vilasas, [I] went to Vrindavana;
+the nineteenth and twentieth I wrote after returning from Vrindavana.
+
+**541.** I have set out the index of the eighteenth vilasa;
+listeners, hear the index of the nineteenth vilasa.
+
+### Vilasa 19
+
+**542.** Those events that were told briefly or not told at all —
+of them something is written here in more detail.
+
+**543.** A description of Ramachandra Kaviraja's greatness;
+Srinivasa's samadhi: he beholds the water-play of Radha and Krishna.
+
+**544.** Even on the second day Srinivasa's samadhi is not broken;
+seeing this, everyone is greatly distressed.
+
+**545.** Ramachandra Kaviraja comes to Vishnupura;
+having reassured [all], he sits by [the one in] samadhi.
+
+**546.** The vision of the lila; Ramachandra Kaviraja comes to outer awareness;
+coming to himself, Srinivasa embraces Ramachandra.
+
+**547.** All, content, took their meal.
+[Next] Shyamananda's greatness is described.
+
+**548.** From Kheturi Shyamananda went to Ambika;
+an exchange of words with Hridaya Chaitanya.
+
+**549.** The account of Vrindavana and of the theft of the books;
+he told in full the news of the recovery of the books.
+
+**550.** Shyamananda goes to his own country, the preaching of bhakti;
+sankirtana; the oppression of the yavana Sher Khan.
+
+**551.** The yavana comes, falls at his feet and tells his dream;
+by Shyamananda's grace the yavana Sher Khan is delivered.
+
+**552.** Sri Shyamananda, coming to Rayani,
+[meets] the prince Achyutananda — Rasika Murari;
+
+**553.** having initiated him, in Balarampur, Nrisimhapur
+and Gopivallabhapur he preaches dharma.
+
+**554.** The revelation of Govinda's service, entrusted to Rasika;
+a certain sannyasi comes to Gopivallabhapur.
+
+**555.** The sannyasi's name is Damodara, a Vedantist;
+a debate with Shyamananda — and his defeat.
+
+**556.** The sannyasi, having seen a dream, took initiation; on his [Shyamananda's] body
+he sees a radiant sacred thread — and the devotees see it too.
+
+**557.** Covering the thread's radiance, Shyamai performs sankirtana;
+a description of Shyamananda's siddha name and bhajana.
+
+**558.** Gadadhara Dasa's departure — the grief of Yadunandana and others;
+Narahari Sarakara's departure — the grief of Raghunandana and others.
+
+**559.** The foremost of the disciples of Gadadhara Dasa at Katwa —
+he whose name is Yadunandana Chakravarti.
+
+**560.** Raghunandana's conversation with him;
+the days of two festivals are fixed, preparations made.
+
+**561.** Invitations to both festivals were sent out;
+Raghunandana, coming to Katwa, put everything in order.
+
+**562.** The arrival of the mahantas, the list of their names;
+the darshan of Gauranga, sankirtana of the Name, partaking of prasada.
+
+**563.** The mahantas take leave and go to Khanda;
+in the sankirtana at Khanda Virabhadra gives sight to a blind man.
+
+**564.** The leave-taking of the mahantas at the Khanda festival is described.
+In the fourteenth the abhisheka of Gauranga and Vallavikanta was told.
+
+**565.** Gauranga, Vallavikanta, Sri Krishna,
+Vraja-mohana, Radha-ramana, Radha-kanta — these are the six.
+
+**566.** In the seventeenth only the names of the six deities and their service were mentioned;
+the guru commanded that the second abhisheka of the six deities be described.
+
+**567.** Here the reason for the second abhisheka is explained.
+Jahnava, the second time, from Vrindavana
+
+**568.** comes to Kheturi and sees Gauranga and Vallavikanta;
+after the meal, a conversation, joy at heart.
+
+**569.** She conveys the blessings of Lokanatha Gosvami and others,
+comes to Yajigrama, to Srinivasa's home;
+
+**570.** a conversation; she conveyed the blessings of Gopala Bhatta and others;
+from there the Ishvari went to Khardaha.
+
+**571.** When the Ishvari had gone, here in Narottama
+a divine feeling arose in his heart:
+
+**572.** "Gauranga and Vallavikanta Raya [stand] alone —
+there is no Thakurani at their left; their beauty is not full.
+
+**573.** I shall install further images of Krishna,
+and, seeing the divine couple, I shall float in bliss."
+
+**574.** Thinking this, Narottama went to sleep at night
+and in a dream saw six images with their beloveds.
+
+**575.** He sees Gauranga and Vallavikanta vanish;
+the command is given to install six new images.
+
+**576.** In the dream he learns the names of the six deities as well:
+"At the time of the abhisheka of these six deities
+
+**577.** these two images, Gauranga and Vallavikanta,
+will unite with the newly consecrated Gauranga and Vallavikanta.
+
+**578.** Those two and these six will become one;
+the Lord will abide in the six images."
+
+**579.** Having shown such a dream, Gauranga and Vallavikanta Raya
+vanished — and Naru's sleep was broken.
+
+**580.** At the time of mangala-arati, at the temple door
+Narottama and Ramachandra arrive.
+
+**581.** The pujari reports that the images cannot be seen;
+not seeing the deities, Ramachandra and Narottama weep.
+
+**582.** Narottama tells Ramachandra his dream;
+Narottama and Ramachandra take counsel.
+
+**583.** Talk of bringing Srinivasa from Vishnupura;
+the worship of Gauranga and Vallavikanta is arranged in a shalagrama.[^25-58]
+
+**584.** A letter comes from Vishnupura: the Acharya has gone to Vrindavana;
+Ramachandra is sent to Vrindavana to bring Srinivasa.
+
+**585.** Narottama goes to Nilachala, the darshan of Jagannatha;
+he goes to Shyamananda, and returns to Gauda.
+
+**586.** Having gone to Khardaha, Shantipur, Ambika,
+passing through Navadvipa, Khanda, Katwa, Ekachakra,
+
+**587.** coming home, he sees the six deities in a dream
+and makes preparations to have the deities carved.
+
+**588.** Sending for stone carvers, Narottama
+has six deities made together with their beloveds.
+
+**589.** The five images of Krishna were excellently made,
+but the image of Gaura could not be made well.
+
+**590.** Seeing this, Thakura Mahashaya laments and worries;
+in a dream, Gauranga's words: "However you try, it will not be made;
+
+**591.** in a newly made image of Gaura the Lord
+will not abide" — so he made known.
+
+**592.** Before his sannyasa Mahaprabhu himself made his own image,
+and it stands in Vipradasa's rice granary.
+
+**593.** He commands that image to be brought and consecrated;
+saying this, Gauranga vanished.
+
+**594.** Narottama went to Vipradasa's rice granary
+and from the snake-filled granary brought out Gauranga.
+
+**595.** The snakes vanished from the granary;
+Vipradasa obtained the nectar of Narottama's grace.
+
+**596.** The Acharya came back from Vrindavana to Vishnupura
+and sent a letter to Narottama.
+
+**597.** From Vishnupura Srinivasa comes to Teliya Budhari;
+hearing of it, Narottama goes to Srinivasa.
+
+**598.** Conversation about Vrindavana;
+the account of finding Gauranga, and of the dream.
+
+**599.** Srinivasa commands preparations to be made;
+Narottama with Ramachandra and others goes to Kheturi.
+
+**600.** Coming to Kheturi, he set about preparing the abhisheka
+and sent letters of invitation everywhere.
+
+**601.** The beginning of the sankirtana, the arrival of the mahantas;
+the names of the mahantas are listed.
+
+**602.** Narottama has a dream together with the devotees:
+"Mahaprabhu manifests himself in the sankirtana."
+
+**603.** To perform the abhisheka on Phalguna Purnima
+he obtains the consent of Jahnava and the mahantas.
+
+**604.** The beginning of the abhisheka; the names of the six deities are proclaimed;
+it is done according to the rules of Sri Krishna's great abhisheka.
+
+**605.** The abhisheka and puja of the six deities are performed
+according to the rules of the ten-syllable Gopala mantra.
+
+**606.** Jahnava asks how Gauranga's puja is to be done;
+Srinivasa says: according to the rules of the ten-syllable Gopala mantra.
+
+**607.** Sri Jahnava praises Srinivasa;
+Narottama bows to the mahantas.
+
+**608.** Garlands and sandal paste are offered to the mahantas;
+the great sankirtana — Narottama's song.
+
+**609.** In the kirtana Prabhu appears with his companions;
+with his companions Prabhu disappeared.
+
+**610.** Prabhu's disappearance, lament; by Prabhu's will
+coming to themselves, [all] sprinkle phagu[^25-59] on the deities.
+
+**611.** All the mahantas, having sprinkled phagu on the deities,
+play phagu with one another, singing Krishna's lila.
+
+**612.** Having finished the kirtana, they partake of prasada;
+after the evening arati the abhisheka for Mahaprabhu's appearance takes place.
+
+**613.** According to the rules of Sri Krishna's birth festival
+they perform the abhisheka for Mahaprabhu's appearance and offer bhoga.
+
+**614.** The deities are put to rest, the mahantas partake of prasada;
+on the third day the leave-taking of the mahantas is described.
+
+**615.** The arrangements for the service; the singing of the Chaitanya-mangala;
+the account of Lochana Dasa; the singing of the Krishna-mangala.
+
+**616.** The account of Madhava Acharya, the names of his ancestors;
+of Sanatana and Kalidasa, the story of Kalidasa Parashara.
+
+**617.** Vishnupriya; Madhava's birth; Vishnupriya's marriage;
+Madhava's studies, his gaining of learning; [he] sees Mahaprabhu's abhisheka.
+
+**618.** Hearing the Hari-nama uttered by Mahaprabhu, he is filled with prema;
+he asks about the rule of the Name — [Prabhu] tells him to chant by count.
+
+**619.** Detachment from the world; in a dream the command to compose songs on the Bhagavata;
+after Prabhu's sannyasa he sets forth the Tenth Canto in songs.
+
+**620.** Some things he took from other Puranas and inserted;
+naming [the book] Krishna-mangala, he offered it at Prabhu's feet.
+
+**621.** The devotees show grace to Madhava;
+at Prabhu's command Madhava takes initiation from Advaita Prabhu.
+
+**622.** Indifferent to the world, Madhava did not marry;
+running away, he went to Vrindavana and took sannyasa.
+
+**623.** He surrenders himself to Rupa, learns bhajana and service;
+[his] true form; in sannyasa his name is Kavivallabha Acharya.
+
+**624.** Hearing of his mother's death, Madhava goes to Shantipur
+and comes to Kheturi with Achyutananda Prabhu.
+
+**625.** From Kheturi Madhava went to Vrindavana;
+I have written of him also in the twenty-fourth vilasa.
+
+**626.** How flawless the service at Narottama's is, is described:
+whoever saw it felt joy arise in his heart.
+
+**627.** The temple is built; six deities in six chambers;
+the service is done according to the rules of the eight periods.[^25-60]
+
+**628.** All year round, sankirtana, the reading of the Sri Bhagavata;
+the Chaitanya-bhagavata and the Chaitanya-charitamrita are read too.[^25-61]
+
+**629.** Seeing that [the book] is like the Bhagavata,
+they named the Chaitanya-mangala the Chaitanya-bhagavata.
+
+**630.** The Chaitanya-mangala, the Krishna-mangala, Govinda's songs of the lila of Gaura and Krishna,
+the songs of Narottama, Vidyapati and Chandidasa — they refresh mind and heart.
+
+**631.** All year round they sing them all in turn;
+every year on Phalguna Purnima the mahantas gather.
+
+**632.** Every year at the festival all the Vaishnavas meet.
+Jahnava's third journey to Vrindavana is written of.
+
+**633.** An attack by robbers on the road to Vrindavana;
+the deliverance of Qutbuddin and the other robbers is described.
+
+**634.** The account of Madhava Acharya, Ganga's husband:
+born in a Varendra family, he became a Radhi.
+
+**635.** Having married Ganga, Nityananda's daughter,
+by Nityananda's grace he became a Radhi kulina.
+
+**636.** In the twenty-first vilasa I described this in detail;
+in the twenty-fourth, his genealogy.
+
+**637.** In another year the mahantas come on Phalguna Purnima;
+abhisheka, the phagu game, partaking of prasada.
+
+**638.** Vasu's songs of Gaura, Chandidasa's songs of Krishna's lila;
+Narottama's songs of Krishna's lila, imbued with bhakti.
+
+**639.** Above the sankirtana, by the power of Naru's bhakti,
+drawn there, Radha and Krishna appear.
+
+**640.** Their disappearance; praise of Naru's bhajana;
+Narottama's samadhi — he beholds Krishna's lila.
+
+**641.** On the third day he comes to himself — all are amazed.
+Gurudasa Bhattacharya, who lives in Gopalpur,
+
+**642.** stricken with leprosy, having seen a dream,
+obtains Naru's grace and is cured.
+
+**643.** Gurudasa's initiation by Narottama;
+the initiation of Jagannatha Acharya of Budhari.
+
+**644.** By Narottama's grace the brahmana robbers from Bengal
+were delivered; their names are listed.
+
+**645.** The account of Raja Narasimha of Pakkapalli
+and of how the pandita Rupa Narayana came to him.
+
+**646.** In Bengal, at Egarasindur, on the bank of the Brahmaputra,
+[lived] Lakshminatha Lahiri, a judicious kulina.
+
+**647.** His son Rupa Narayana shunned learning;
+the father punishes him, he disregards the punishment — the father grieves.
+
+**648.** In anger [the father] puts ashes in his son's rice;
+heartsick, Rupa Narayana leaves home.
+
+**649.** Having studied grammar in the village of Panditbari, [he became] Chakravarti,
+and studying further in Navadvipa, he obtained the title Acharya.
+
+**650.** Coming to Nilachala, in the sankirtana
+he sees Mahaprabhu and has the darshan of Jagannatha.
+
+**651.** Going to Puna in Maharashtra, he studies the Vedas and Vedanta,
+obtains the title Sarasvati and [sets out] to conquer the quarters.
+
+**652.** Coming to Vrindavana, to Rupa and Sanatana,
+he demands a debate — the gosvamis concede defeat.
+
+**653.** Since they conceded defeat without debate, Rupa Narayana,
+drunk with tamas, calls the gosvamis cowards.
+
+**654.** Hearing this, Jiva Gosvami asked who he was;
+the debate lasted seven days — Rupa was defeated.
+
+**655.** The defeated Rupa Narayana, clasping Jiva Gosvami's feet,
+says, "By your grace I have obtained knowledge."
+
+**656.** The pandita Rupa Narayana with Jiva Gosvami
+came to Rupa and Sanatana Gosvami.
+
+**657.** He bowed and showed great humility and meekness;
+in their grace, forgiving the offense, they placed their feet on his head.
+
+**658.** Rupa and Sanatana praised Rupa Narayana;
+Rupa Narayana wished to take initiation into the Gopala mantra.
+
+**659.** A voice from the sky — a command to Rupa and Sanatana;
+receiving the command, Rupa and Sanatana give him Hari-nama.
+
+**660.** "From Narottama Rupa Narayana
+will take initiation into Krishna's mantra," says the voice from the sky.
+
+**661.** Narayana entered the devoted pandita Rupa Narayana;
+the two gosvamis gave him the name Rupa Narayana.
+
+**662.** Rupachandra's name became Rupa Narayana;
+the two gosvamis impart power to him.
+
+**663.** The study of the scriptures of bhakti under Jiva Gosvami;
+having obtained the grace of the residents of Vrindavana, he goes to Nilachala.
+
+**664.** Hearing of Mahaprabhu's departure, he was grieved;
+seeing Mahaprabhu in a dream, he found comfort.
+
+**665.** Talk of his [future] meeting with Narasimha Raya —
+hearing it, Rupa Narayana is wholly glad.
+
+**666.** The Pandita Gosani and the other residents of Nilachala —
+having obtained the grace of them all, Rupa Narayana is happy.
+
+**667.** Svarupa Gosani imparted power to Rupa Narayana
+and instructed him in the truth of sadhana and bhajana.
+
+**668.** Having wandered for some time, Rupa Narayana came to Gauda;
+hearing of Nityananda's departure, he lamented.
+
+**669.** In a dream he received the darshan of Nityananda;
+some days later he hears of Advaita Prabhu's departure.
+
+**670.** He laments; in a dream, the darshan of Advaita;
+at a ghat on the Ganga, the meeting with Narasimha Raya.
+
+**671.** Narasimha, taking Rupa Narayana, went to his house;
+hearing of it, many brahmana panditas came to the palace.
+
+**672.** In debate with Rupa Narayana the panditas are defeated;
+praise of Rupa Narayana's learning spreads through the land.
+
+**673.** Raja Narasimha makes Rupa Narayana his minister.
+From Rupa Narayana I, the author of this book, learned yoga —
+
+**674.** I, Nityananda Dasa, his story
+have carefully written down in this book.
+
+**675.** One day panditas came to Narasimha's assembly
+and, under pretext of preaching Vaishnava dharma, revile Narottama:
+
+**676.** "Narottama's disciples are brahmanas; the influence of the Shaktas is passing."
+Narasimha and Rupa Narayana take counsel.
+
+**677.** Raja Narasimha and Rupa Narayana,
+taking the panditas, set out for Kheturi.
+
+**678.** A halt at Kumarpur; Narottama hears:
+"Narasimha has come with panditas to debate."
+
+**679.** Ramachandra, Govinda, Ganganarayana,
+Harirama, Ramakrishna and some others,
+
+**680.** disguised as shopkeepers, set up a market in Kumarpur;
+conversation in Sanskrit, debate — the students and panditas are defeated.
+
+**681.** Seeing that the panditas wanted to flee, Rupa Narayana
+began to proclaim the greatness of Vaishnava dharma.
+
+**682.** The shopkeepers made Narasimha a gift of goods.
+At night the panditas saw a dream:
+
+**683.** Bhagavati says to the panditas:
+"Narottama has attained brahmanhood through sadhana."
+
+**684.** Instructed to take initiation, they go to Kheturi;
+the darshan of the deities — all are initiated by Narottama.
+
+**685.** The pandita Rupa Narayana and Narasimha Raya
+with their wives receive initiation from Narottama.
+
+**686.** The pujari Balarama and the pujari Rupa Narayana
+receive initiation from Narottama and live in Kheturi.
+
+**687.** A captivating festival on Phalguna Purnima;
+the arrival of the mahantas; on the third day, an assembly of Vaishnavas.
+
+**688.** Srinivasa reads the Bhagavata, Virabhadra gives an address:
+on the greatness of Vaishnava dharma, on accepting Krishna's mantra.
+
+**689.** Sadhana of a mantra outside a sampradaya bears no fruit;
+one initiated into a Vishnu mantra by a non-Vaishnava goes to hell;
+
+**690.** for one instructed by a non-Vaishnava, the rule of renewed initiation.
+I have described something of the Vaishnava's greatness:
+
+**691.** if one of any birth, having received Krishna's mantra, performs sadhana,
+he attains brahmanhood — so the scriptures say.
+
+**692.** Having written this, [I tell how,] seeing Narottama's sacred thread,
+the pashandis [shrink] as if turned to dust.
+
+**693.** Praise of Narottama in the sankirtana of the Name:
+Narasimha plays the khol, Rupa Narayana sings.
+
+**694.** Virabhadra, overwhelmed with feeling, embraced Rupa Narayana
+and gave him the title "Gosvami."
+
+**695.** For Madanamohana in Vrindavana an image of Radha
+Sri Jahnava sent, rejoicing at heart.
+
+**696.** How in the sankirtana at Khanda the blind Ramai received sight —
+of this I have told somewhat more fully.
+
+**697.** The ill-fated Jayagopala Dasa of Kadra,
+for slighting his guru's prasada, was rejected by Virabhadra.
+
+**698.** Prabhu Virabhadra goes to Nilachala;
+at Gopivallabhapur, a meeting with Shyamai.
+
+**699.** From there, going to Khardaha, he sets out for Vrindavana
+by way of Ambika, Shantipur, Khanda, Katwa, Teliya Budhari;
+
+**700.** passing through Kheturi, having seen Vrindavana, he tours Ekachakra;
+by way of Kheturi, Yajigrama, Khanda and Katwa he goes to Khardaha.
+
+**701.** I have set out the index of the nineteenth vilasa;
+listeners, hear the index of the twentieth vilasa.
+
+### Vilasa 20
+
+**702.** The branches of Ramachandra, Shyamananda and Narottama,
+and also of Srinivasa, I have described.
+
+**703.** Of Shyamananda, Narottama and Srinivasa —
+the true nature of them all I have revealed.
+
+**704.** Having completed the twentieth vilasa, I told about myself,
+thinking that, stricken with illness, I might not survive.
+
+**705.** Freed from the illness, I composed four more vilasas —
+thus came the twenty-first, twenty-second, twenty-third and twenty-fourth.
+
+**706.** I have set out the index of the twentieth vilasa;
+listeners, hear the index of the twenty-first vilasa.
+
+### Vilasa 21
+
+**707.** A Varendra of the Maitra family — Vishveshvara Acharya;
+a Radhi of the Chatta family — Bhagiratha Acharya.
+
+**708.** Their friendship was very close,
+and their wives too were great friends.
+
+**709.** Vishveshvara's son was named Madhava;
+while Madhava was an infant, his mother died.
+
+**710.** At the time of death, calling Bhagiratha's wife,
+she entrusted Madhava into her hands
+
+**711.** and, leaving this world, went to the next.
+In grief for his wife Vishveshvara cares no more for house and home.
+
+**712.** Giving his own son to Bhagiratha,
+Vishveshvara leaves home and goes wandering to holy places.
+
+**713.** Bhagiratha's sons are Srinatha and Sripati;
+he raises Madhava as a third son.
+
+**714.** By study Madhava became the foremost of panditas;
+deep is his devotion to Sri Nityananda.
+
+**715.** Madhava marries Ganga, Nityananda's daughter;
+though born a Varendra, he later becomes a Radhi —
+
+**716.** because Bhagiratha took him as his son,
+and also by the grace of Nityananda Prabhu.
+
+**717.** Gaining the status of a Chatta, he became a Chatta kulina
+and became known as "the Chatta of Vanga."
+
+**718.** In the nineteenth briefly, in the twenty-first I described it in detail;
+in the twenty-fourth vilasa, the genealogy.
+
+**719.** Jagai and Madhai, two sons of the nobility of Nadia —
+their story is told in detail.
+
+**720.** I have set out the index of the twenty-first vilasa;
+the index of the twenty-second vilasa begins.
+
+### Vilasa 22
+
+**721.** The Ambashthas Mukunda Datta and Vasudeva Datta —
+an account of them both is given in the book.
+
+**722.** Boundless is the greatness of Vasudeva Datta:
+for the sake of living beings he wishes to suffer hell himself.
+
+**723.** The two brothers from Chittagong are Prabhu's beloved devotees;
+I describe the true nature of both — both devoted to Prabhu.
+
+**724.** The zamindar of Chakrashala in Chittagong —
+he whose name is Pundarika Vidyanidhi:
+
+**725.** detached within, outwardly bearing the marks of a worldly man;
+he has a house in Navadvipa as well.
+
+**726.** The account of his wife, a description of the true nature of both;
+Madhava lives in Chittagong, in the village of Beleti.
+
+**727.** Pundarika and Madhava study together;
+Madhava Mishra also receives the title of Acharya.
+
+**728.** Having described the true nature of Madhava and his wife, [I tell how]
+Madhava moved his home from Chittagong to Navadvipa.
+
+**729.** Gadadhara Pandita was born in Navadvipa;
+Mahaprabhu and Gadai study together.
+
+**730.** Madhava and Pundarika are branches of Mahaprabhu;
+Prabhu draws Pundarika to Nadia.
+
+**731.** Through Mukunda, Gadai meets Pundarika;
+seeing Pundarika's worldly manner, Gadai has doubts.
+
+**732.** Understanding what was in Gadai's mind, Mukunda
+recited a verse of the Bhagavata — and [Pundarika] was filled with bliss.
+
+**733.** The nature of Pundarika's bhakti was revealed;
+Gadadhara's doubt vanished — he acknowledged his offense.
+
+**734.** Gadadhara is initiated by Pundarika;
+the manifestation of Gadai's service to Gopinatha.
+
+**735.** Prabhu writes a verse into Gadai Pandita's Gita;
+Gadadhara's conversation with Mahaprabhu.
+
+**736.** Gadai's elder brother is Vaninatha, also called Jagannatha;
+his son Nayana Mishra is initiated by Gadai.
+
+**737.** Gadai, having entrusted Gopinatha's service to Nayana,
+departed; Nayana settles in Bharatpur.
+
+**738.** In the twenty-fourth [vilasa], of Gadadhara Pandita Gosani —
+his genealogy I have written with love in my heart:
+
+**739.** from Varendra came Vilasa Acharya Bhaduri;
+becoming court pandita of Raja Chitrasena, he settles in Chittagong.
+
+**740.** The account of his son Madhava Mishra;
+his sons are Vaninatha and Gadadhara.
+
+**741.** All this I have written in the twenty-fourth.
+This is the index of the twenty-second; now the index of the twenty-third is revealed.
+
+### Vilasa 23
+
+**742.** Listeners, hear the index of the twenty-third vilasa:
+the account of Ishvara Puri and Keshava Bharati.
+
+**743.** I have told of Srivasa's earlier life in detail:
+Srivasa lived in Kumarahatta and in Navadvipa.
+
+**744.** Mahaprabhu's abhisheka in Srivasa's house;
+in ecstasy, then coming to outer awareness, Prabhu said to Srivasa:
+
+**745.** "Do you remember how with a slap I saved your life?
+Tell of it in detail before everyone."
+
+**746.** At Prabhu's command Srivasa describes his youth:
+in a dream he saw the Supreme Person;
+
+**747.** he hears that he has one year left to live,
+and receives instruction to worship Krishna.
+
+**748.** The sadhana of Hari-nama; on the day of his death,
+hearing the Bhagavata from Devananda.
+
+**749.** Death has come — he falls from the veranda;
+by the Supreme Person's slap he receives [new] life.
+
+**750.** Prabhu's words; the account of Narayani:
+at one year old she lost her mother and father.
+
+**751.** When Narayani was four years old,
+she received the remnants of Mahaprabhu's meal — his grace.
+
+**752.** Narayani's marriage is described,
+to the brahmana Vaikuntha of Kumarahatta.
+
+**753.** While Narayani was with child, Vaikunthadasa died;
+widowed, Narayani in Srivasa's house
+
+**754.** lives; there Vrindavana [Dasa] was born.
+Vrindavana Dasa lives in Mamgachhi.
+
+**755.** Vrindavana studies and gains learning;
+the departure of Nitai, Chaitanya and Advaita is described.
+
+**756.** Later Vrindavana lives in the village of Denur
+and there composes the Chaitanya-bhagavata.
+
+**757.** Of Rupa, Sanatana, Vallabha and Jiva Gosvami —
+of them all I have written.
+
+**758.** The gosvamis' father lived in Naihati;
+for fear of the yavanas he settled in Vanga, at Chandradvipa.
+
+**759.** From Chandradvipa Vallabha, Rupa and Sanatana
+came to the village of Ramakeli and built a house there.
+
+**760.** On his way to Vrindavana, Prabhu came to Ramakeli;
+having shown grace to Rupa and Sanatana, he went to Kanai Natashala.
+
+**761.** Mahaprabhu went no further toward Vrindavana;
+from there he set out for Nilachala.
+
+**762.** At night in his sleep Rupa Gosani was stung by an insect;
+his wife lit a lamp [making a wick] from Rupa's cloth.
+
+**763.** The conversation of Rupa and his wife;
+Rupa's awakening, and then and there he left home.
+
+**764.** Rupa sent Sanatana a riddle-letter;
+after reflection, Sanatana unlocked the letter's meaning.
+
+**765.** Sanatana's awakening, imprisonment, release, leaving home;
+worn out by the road, he sleeps on the ground, receives counsel from an old woman.
+
+**766.** On the old woman's counsel Sanatana gives up his former habits;
+Rupa's instruction at Prayaga, Sanatana's instruction at Kashi.
+
+**767.** Mahaprabhu imparts power to both;
+by Prabhu's grace both go to Vrindavana.
+
+**768.** The story of Damodara Chaube and Madana-gopala;
+everything about how the deity got the name Madanamohana.
+
+**769.** The deity plays with Chaube's son;
+in a dream Sanatana is told to take the deity.
+
+**770.** Sanatana brings Madanamohana;
+the manifestation of service; a merchant's boat runs aground.
+
+**771.** The merchant vowed to build a temple;
+the boat moved, he made a profit, and he built the temple.
+
+**772.** Jiva's birth, studies; having gained learning,
+before his mother [put on] the [widow's] garb,[^25-62] he goes off to Vrindavana.
+
+**773.** Initiation from Rupa; he composed the Six Sandarbhas;
+the first world-conquering pandita he overcame, the second he defeated.
+
+**774.** Seeing tamas in Jiva, Rupa rejects Jiva;
+rejected by his guru, Jiva goes into the depths of the forest.
+
+**775.** In the forest he composed the Sarva-samvadini,
+a most excellent philosophy, renowned on earth.
+
+**776.** Sanatana met Jiva;
+seeing how emaciated he was, he understood his whole situation.
+
+**777.** Sanatana was filled with great compassion for Jiva
+and by skillful words moved Rupa to be gracious to Jiva.
+
+**778.** By Rupa's grace Jiva's offense is removed;
+afterwards he composes the Krama-sandarbha and other books.
+
+**779.** I have set out the index of the twenty-third vilasa;
+listeners, hear the index of the twenty-fourth vilasa.
+
+### Vilasa 24
+
+**780.** […] Balarama, Sadashiva, the principle of Mahavishnu[^25-63] —
+this I have written, setting it out plainly.
+
+**781.** Sadashiva's austerities, his seeing Krishna face to face;
+the dialogue of Krishna and Sadashiva — the account of how Sadashiva became Advaita.
+
+**782.** In Srihatta, in the land of Laur, King Divyasimha;
+Kuvera […] performed worship.[^25-64]
+
+**783.** The account of Kuvera Acharya and Divyasimha;
+I have also told the story of Vijaya Puri.
+
+**784.** Kuvera's six sons; four sons passed from the world,
+two sons went off wandering to holy places.
+
+**785.** In grief for her sons Nabha Devi is ever distraught;
+with Nabha Devi Kuvera came to Shantipur.
+
+**786.** Nabha Devi conceives; Kuvera goes to Naragrama;
+a conversation with King Divyasimha.
+
+**787.** Advaita's birth on the full moon of Magha;
+the name-giving, the first feeding of rice, the beginning of studies.
+
+**788.** He studies and plays together with the prince;
+the prince mocks him, Advaita roars.
+
+**789.** The prince faints, Advaita runs away;
+hearing of it, the king comes and laments; Kuvera comes.
+
+**790.** They searched out the runaway Advaita and brought him back;
+by Advaita's grace the prince regained consciousness.
+
+**791.** Advaita's sacred thread; he goes to the Kali temple;
+because he does not bow to Kali, Kuvera scolds him harshly.
+
+**792.** Scolded by Kuvera, Advaita bows to Kali —
+the image split apart, and Kalika vanished.
+
+**793.** Seeing Advaita's deed, everyone is amazed;
+a conversation takes place between Advaita and Divyasimha.
+
+**794.** At Advaita's command King Divyasimha
+installed an image of Vishnu [in place of] Kali, for worship.
+
+**795.** Advaita went to Shantipur;
+his studies under Shantacharya of Phuliya.
+
+**796.** Literature, poetics, smriti, Veda, Puranas,
+Agamas, philosophy, the Yoga-vasishtha and other [works] by name.
+
+**797.** He brings his mother and father to Shantipur;
+he reads the Bhagavata under Shantacharya.
+
+**798.** He obtains the title of Acharya; a wonder during his studies:
+he brings a lotus out of a pond swarming with snakes,
+
+**799.** and walks on the water as on dry land;
+seeing it, all the people were amazed.
+
+**800.** Advaita's mother and father passed from the world;
+having offered pinda at Gaya, Advaita went to the holy places.
+
+**801.** A meeting with Madhavendra Puri took place;
+under him Advaita studied the scriptures of bhakti.
+
+**802.** The dialogue of Madhavendra Puri and Advaita;
+at Kashi, a meeting with Vijaya Puri.
+
+**803.** Going to Vrindavana, Advaita makes the circuit;
+in a dream the Lord appeared to him.
+
+**804.** The story of Madanamohana: Advaita obtains Madanamohana;
+abhisheka; Advaita sets off on the circuit.
+
+**805.** Seeing the mlecchas approaching, Madanamohana,
+becoming [little] Gopala, hides beneath flowers.
+
+**806.** Hearing from people that the mlecchas have carried off the image,
+Advaita comes home, does not see the deity, and tears fill his eyes.
+
+**807.** At night the fasting Advaita has a dream;
+the deity is found, joy, the offering of food.
+
+**808.** On the bank of the Yamuna Advaita informs the priest
+that the deity has been found; the pujari comes to the temple.
+
+**809.** Madanamohana becomes known by the name Madana-gopala;
+in a dream the deity tells Advaita of Chaube's greatness.
+
+**810.** [The deity] wishes to go to Chaube, and ordered that he be given to Chaube;
+Advaita's sorrow; [the Lord] told of the image painted by Vishakha.[^25-65]
+
+**811.** [The Lord] commands him to take it to Shantipur
+and perform its abhisheka under the name Madana-gopala.
+
+**812.** Having said this, the Lord vanished.
+Chaube's coming and the dialogue of Chaube and Advaita are described.
+
+**813.** Chaube departs, taking Madanamohana;
+Advaita receives the painted image.
+
+**814.** Taking that image, Advaita went to Shantipur
+and performed its abhisheka under the name Madana-gopala.
+
+**815.** That image of Krishna Advaita Mahashaya
+worships always with the utmost devotion.
+
+**816.** Madhavendra Puri comes to Shantipur;
+Advaita receives initiation from Madhavendra.
+
+**817.** Madhavendra set off south to fetch sandalwood from the Malaya hills;
+with the sandalwood he came to Remuna.
+
+**818.** The story of the sweet rice offered to Sri Gopinatha —
+how [the deity] got the name Kshira-chora Gopinatha.[^25-66]
+
+**819.** That is described; the sandalwood is offered to Gopinatha;
+Puri's going to Vrindavana and his passing are described.
+
+**820.** King Divyasimha comes to Shantipur;
+he receives initiation from Advaita Prabhu and the name Krishnadasa.
+
+**821.** Krishnadasa went to Vrindavana;
+he became known by the name Krishnadasa Brahmachari.
+
+**822.** Great is his friendship with Kashishvara Gosvami;
+everyone calls him a resident of Vrindavana.
+
+**823.** The world-conquering Bada Shyamadasa Acharya, coming to Shantipur,
+was defeated in debate with Advaita.
+
+**824.** Initiation from Advaita, study of the Bhagavata;
+he became known by the name Bhagavata Acharya.
+
+**825.** Pandita Srinatha Acharya Chakravarti:
+initiation from Advaita, study of the Bhagavata, good renown.
+
+**826.** In Kumarahatta he installs the deity Krishna-raya;
+he composes the Chaitanya-mata-manjusha, a commentary on the Bhagavata.[^25-67]
+
+**827.** He is the guru of the poet Karnapura.
+I set out the account of Brahma Haridasa:[^25-68]
+
+**828.** Haridasa's origin is in a brahmana family;
+through the sin of eating the food of yavanas he is counted a yavana.
+
+**829.** The story of Malaya Qazi; Haridasa goes to Shantipur;
+initiation from Advaita, study of the scriptures of bhakti.
+
+**830.** Brahma Haridasa every day
+chants three hundred thousand names of Hari — his rule is made known.
+
+**831.** The pandita Yadunandana comes to Shantipur;
+in debate with Haridasa he is defeated.
+
+**832.** Yadunandana received initiation from Advaita
+and studied the Srimad Bhagavata.
+
+**833.** Boundless is the glory of that Yadunandana:
+Raghunatha Dasa Gosvami became his disciple.
+
+**834.** Advaita fed Haridasa the shraddha dish[^25-69] —
+great censure of him arose in society.
+
+**835.** At Advaita's command Haridasa shows his power:
+he took away fire, and dread arose in people's hearts.
+
+**836.** Together they all go to Advaita;
+at Advaita's command they all come to Haridasa.
+
+**837.** Having given back the fire, Haridasa goes to Phuliya;
+Ramadasa receives initiation from Haridasa.
+
+**838.** Many residents of Phuliya become Vaishnavas;
+Haridasa goes to Kuliya.
+
+**839.** In the great forest he sings the Name and practises austerity;
+hearing the Name, snakes and tigers were liberated.
+
+**840.** Going to Shantipur, Haridasa practises austerity in solitude;
+over the eating of the shraddha dish a faction arises in society.
+
+**841.** Censure of Advaita; Haridasa shows his sacred thread;
+the brahmanas hostile to Advaita bring Haridasa,
+
+**842.** and, taking him for a great sage, seat him and eat with him in one row;[^25-70]
+Advaita comes, and [the brahmanas] learn who Haridasa is.
+
+**843.** Seeing Haridasa's power and his austerity,
+the brahmanas grew meek and went to Advaita.
+
+**844.** A plea for pardon of the offense — Advaita is gracious.
+Haridasa goes to Navadvipa; the qazi detains him:
+
+**845.** seizing him, he handed him over to the prison —
+in the prison Haridasa performs sankirtana.
+
+**846.** The qazi in anger, tying Haridasa up in a sack,
+threw him into the middle of the Ganga.
+
+**847.** Some days later the sack came up in fishermen's nets;
+taking it for treasure, they gave it to the qazi.
+
+**848.** Cutting open the sack, they see Haridasa in a yogic posture,
+chanting the Name — dread arose in the qazi's heart.
+
+**849.** Sunk in the water, Haridasa did not die.
+With joined palms [the qazi] begs pardon for the offense.
+
+**850.** Forgiving him, Haridasa goes to Benapol;
+there he practises austerity and delivers a courtesan.
+
+**851.** A courtesan sent by the qazi, a woman of supreme beauty,
+came at the qazi's order to destroy Haridasa's virtue.
+
+**852.** The courtesan fails in her purpose, her sins are destroyed;
+by Haridasa's grace the courtesan takes up Hari-nama.
+
+**853.** Having delivered the courtesan, Haridasa wanders the holy places.
+I describe Haridasa's true nature:
+
+**854.** Brahma, creator of the universe — through the sin of stealing the calves;[^25-71]
+Brahma, son of the sage Richika — through his father's curse;
+
+**855.** the bhagavata Prahlada — through an offense to a Vaishnava:
+these three together are the most fortunate Haridasa.
+
+**856.** I have described all this;
+then I described Advaita's marriage.
+
+**857.** Near Saptagrama is the village of Narayanapura;
+there lived [a brahmana] named Nrisimha Bhaduri.
+
+**858.** His two daughters are Sri and Sita Devi;[^25-72]
+in the village of Phuliya, their marriage to Advaita.
+
+**859.** The marriage is arranged through Bada Shyamadasa Acharya;
+the expenses are borne by Hiranya and Govardhana.
+
+**860.** On the day of the pakasparsha,[^25-73] as [the bride] was serving rice,
+the wind blew away her veil.
+
+**861.** With a plate in both hands she cannot cover herself;
+manifesting two more arms, she draws the veil over her head.
+
+**862.** Everyone sees her four-armed. After the marriage
+Advaita moves his school from Nadia to Shantipur.
+
+**863.** Opening a school in Shantipur, he teaches his students;
+the initiation of Sri [and] Sita by Advaita is described.
+
+**864.** Of Sita Devi five sons were born,
+of Sri Devi one son was born.
+
+**865.** With a mother's love Sita suckles Chhota Shyamadasa;
+Sita shows Chhota Shyamadasa her four-armed form.
+
+**866.** The story of Jangali and Nandini, Sita's maidservants;
+the greatness of Jangali's austerity; the deliverance of a king — all [is described].
+
+**867.** A dialogue takes place between Ishana and Advaita.
+At Advaita's roar Krishna with his associates to Nadia
+
+**868.** comes — this is described; the preaching of the doctrine of bhakti.
+And Mahaprabhu's devotion to Advaita as to a guru;
+
+**869.** Advaita's grief: Advaita, in vexation,[^25-74] against bhakti,
+expounds the Yoga-vasishtha.
+
+**870.** Hearing Advaita expound the doctrine of knowledge,
+[Prabhu] goes in anger to Shantipur, taking Nityananda with him.
+
+**871.** Having punished Advaita, he showed him grace
+and ordered him to turn the followers of knowledge into followers of bhakti.
+
+**872.** Advaita preaches the doctrine of bhakti to all his disciples;
+giving up the doctrine of knowledge, all take up the doctrine of bhakti.
+
+**873.** Agala, Pagala, and also Kamadeva Nagara,
+and Shankara besides, did not accept the doctrine of bhakti.[^25-75]
+
+**874.** These four transgressed the guru's word,
+and Advaita rejected them all.
+
+**875.** Having rejected their guru, they went off to various lands;
+of what became of them I spoke in the fourth vilasa.
+
+**876.** In the nineteenth I told something of Madhava Acharya;
+in the twenty-fourth, describing the rest, I repeated myself.
+
+**877.** In my old age I constantly make mistakes:
+not everything comes to mind at every time.
+
+**878.** That is why the fault of repetition remains:
+what I recalled after describing it in the nineteenth,
+
+**879.** I set out in detail in the twenty-fourth.
+From Srihatta Durgadasa came to Nadia;
+
+**880.** his sons were Sanatana, Parashara and Kalidasa;
+Kalidasa's son was Madhavadasa.
+
+**881.** Madhava hears Hari-nama from Prabhu's lips;
+detachment; from Nadia he goes to Kuliya.[^25-76]
+
+**882.** He studies under Advaita
+and composes the book Krishna-mangala.
+
+**883.** At Srikshetra [the book] is presented to Mahaprabhu;
+Madhava's initiation by Advaita is described.
+
+**884.** Madhava became known by the name Kavivallabha Acharya;
+strong is Madhava's wish to become a sannyasi.
+
+**885.** To go from Nilachala to Vrindavana,
+Prabhu comes to Gauda:
+
+**886.** Panihati, Kumarahatta and Kulina-grama;
+by way of Shantipur Prabhu comes to rest at Kuliya.
+
+**887.** There for seven days he stays in Madhava Acharya's house;
+from there, by way of Nadia, he goes on to Ramakeli.
+
+**888.** The meeting with Rupa and Sanatana, Kanai Natashala;
+from there Prabhu turned back without reaching Vrindavana.
+
+**889.** From Nilachala Prabhu by the Jharikhanda road
+went to Vrindavana — [Madhava] came to hear of it.[^25-77]
+
+**890.** Without marrying, Madhava left home;
+going to Vrindavana, he became a sannyasi.
+
+**891.** He takes sannyasa from Paramananda Puri
+and learns bhajana from Rupa and Sanatana.
+
+**892.** In grief for her son, Madhava's mother gives up her life;
+hearing of it, Madhava came to Shantipur,
+
+**893.** and by way of Kheturi went to Vrindavana.
+I have described Mahaprabhu's genealogy:
+
+**894.** I gave the names of Madhu Mishra's four sons
+and told of Upendra Mishra's seven sons.
+
+**895.** From Srihatta Jagannatha moved his home to Nadia;
+Chandrashekhara of Srihatta [also] has a house in Nadia.
+
+**896.** The account of that Chandrashekhara Acharyaratna;
+a description of Nilambara Chakravarti of Srihatta.
+
+**897.** Nilambara made his home in Belpukhuria;
+two sons and two daughters were born to him.
+
+**898.** Jagannatha marries Shachi;
+Chandrashekhara marries Sarvajaya.
+
+**899.** A brief account of Vishvarupa and Nityananda
+I gave in the seventh vilasa.
+
+**900.** In the twenty-fourth vilasa I have described in detail
+the tidings of Vishvarupa and Nityananda.
+
+**901.** Vishvarupa's birth, his studies under Advaita;
+his initiation and sannyasa from Ishvara Puri are made known.
+
+**902.** The son of Ratnagarbha Acharya, named Lokanatha —
+Vishvarupa takes him along to the southern lands.
+
+**903.** He took sannyasa; his name is Shankararanya Puri;
+Lokanatha Pandita, his maternal cousin, became his disciple.
+
+**904.** The meeting of Vishvarupa with Ishvara Puri;
+Vishvarupa places his own power in Ishvara Puri,
+
+**905.** saying that he should place that power in Nityananda —
+and Vishvarupa vanished.
+
+**906.** The account of Hadai Ojha and the story of his sons;
+in household life Nityananda had another name too — Chidananda.[^25-78]
+
+**907.** In household life he was known as Nityananda;
+in sannyasa his name is Nityananda Avadhuta.
+
+**908.** Balarama [tells] Ishvara Puri about Nityananda
+and orders him to give Nityananda initiation and sannyasa.
+
+**909.** Having said this in a dream, Balai vanished;
+Ishvara Puri set off for the village of Ekachakra.
+
+**910.** He became a guest in the house of Hadai Ojha
+and […] took Nityananda-svarupa with him.[^25-79]
+
+**911.** Having given Nityananda initiation, he made him a sannyasi
+and established Vishvarupa's power in Nityananda.
+
+**912.** Nityananda becomes an avadhuta sannyasi;
+the conversation of Ishvara Puri and Nityananda.
+
+**913.** Ishvara Puri went off to search for Madhavendra;
+Nityananda set out to wander through all the holy places.
+
+**914.** Madhavendra and Ishvara Puri met;
+Nitai meets Madhavendra and Ishvara Puri.
+
+**915.** Nityananda sees Madhavendra as his guru;
+Madhavendra regards Nityananda as a friend.
+
+**916.** After staying together for some days, they all went their ways;
+wandering, Nityananda came to Vrindavana.
+
+**917.** A meeting with Ishvara Puri took place;
+Nitai asks Ishvara Puri about Krishna.
+
+**918.** Ishvara Puri says: "Krishna, leaving Vrindavana,
+has descended in Navadvipa, taking the name Gauranga."
+
+**919.** Nityananda went to Navadvipa;
+the meeting with Mahaprabhu took place.
+
+**920.** What had remained unwritten in the seventh through forgetfulness,
+I have, on recalling it, placed in the twenty-fourth.
+
+**921.** That is why the fault of repetition has come to me:
+I am old, and my mistakes are unceasing.
+
+**922.** Mahaprabhu's first journey to Vrindavana;
+at that time, the drawing of Narottama on the Padmavati.[^25-80]
+
+**923.** That is described in the eighth vilasa:
+Naru was first drawn during Prabhu's lila in Bengal.
+
+**924.** Mahaprabhu comes from Nadia to Bengal;
+on the bank of the Padma, the play of learning and the sankirtana of the Name.
+
+**925.** By the sankirtana on the bank of the Padma he draws Narottama;
+to see his father's birthplace Prabhu sets off for Srihatta.
+
+**926.** By way of Faridpur he goes to Vikramapura and Nurpur;
+by way of Suvarnagrama he arrives at Egarasindur.
+
+**927.** From there by way of Betal he came to Bhitadiya
+and stayed as a guest in the house of Lakshminatha Lahiri.
+
+**928.** The best of Vaishnavas, the most excellent Lakshminatha Lahiri —
+his conversation with Mahaprabhu.
+
+**929.** Lakshminatha asks Prabhu for the blessing of a son;
+receiving Prabhu's blessing, he obtains a son, Rupa Narayana.
+
+**930.** Briefly the life of Rupa Narayana
+I have described in the nineteenth with joy in my heart.
+
+**931.** Lakshminatha's lineage; the account of Padmagarbha Acharya;
+the story of Purushottama Acharya is described.
+
+**932.** Padmagarbha married in Nadia,
+and of that wife Purushottama Acharya was born.
+
+**933.** Coming to Bhitadiya, Padmagarbha married [again],
+and of that wife Lakshminatha and others were born.
+
+**934.** A dualist commentary on the Upanishads, a commentary on the Paingi-rahasya-brahmana,
+and commentaries on the Gita and the Krama-dipika with [explanation of] the secret meaning Padmagarbha wrote.[^25-81]
+
+**935.** At the urging of Lakshminatha, son of that Padmagarbha,
+Mahaprabhu stays some days in his house.
+
+**936.** From there Mahaprabhu went to Srihatta
+and met his grandmother and grandfather.
+
+**937.** In a moment Prabhu finishes copying out the Chandi;[^25-82]
+seeing it, his grandfather is astonished.
+
+**938.** His grandmother fed Prabhu sweet jackfruit;
+the grandmother and grandfather have a dream — Prabhu's grace.
+
+**939.** From Srihatta Prabhu comes to the bank of the Padma:
+the play of learning and the sankirtana of the Name.
+
+**940.** All those turned away [from God] who do not accept Chaitanya —
+I have told of all those sinners:
+
+**941.** Shrigala Vasudeva, Kapindra Vishnudasa,
+and the account of Chudadhari Madhava, the pujari, is disclosed.[^25-83]
+
+**942.** Nityananda wished to marry;
+the pandita Krishnadasa Hod arranged it.
+
+**943.** Uddharana Datta proposes to Suryadasa that he give his daughter in marriage;
+Suryadasa's anger; at night he has a dream.
+
+**944.** Suryadasa came to Nitai;
+telling the dream, he took Nitai to Shaligrama.
+
+**945.** They see the daughter named Vasudha dead of a snakebite;
+by Nityananda's grace she came back to life.
+
+**946.** According to the rites [Nityananda] took Vasudha as his wife,
+and as dowry Nityananda receives Jahnava.
+
+**947.** Nityananda's two marriages are described;
+Suryadasa gained honor among the brahmanas.
+
+**948.** Scriptural proofs forbidding a sannyasi to take a wife,
+and an account of the fault of the "vantashi."[^25-84]
+
+**949.** The remedy for Nitai's fault; the "Virabhadri" fault;[^25-85]
+Nitai, content, lives in Khardaha.
+
+**950.** By Abhirama's obeisances Nityananda's offspring
+perished; at last Ganga and Vira, portions of the Lord, are born.
+
+**951.** At Abhirama's obeisances they do not die;
+seeing this, Abhirama floats in an ocean of bliss.
+
+**952.** The account of Gangavallabha Madhava Acharya[^25-86]
+I gave in the nineteenth in the form of a brief outline.
+
+**953.** In the twenty-first vilasa I set out somewhat more in detail,
+and the remaining part I placed in the twenty-fourth vilasa.
+
+**954.** In my old age I constantly make mistakes:
+not everything comes to mind at every time.
+
+**955.** That is why the fault of repetition has arisen:
+whatever came back to memory I wrote in another chapter.
+
+**956.** The account of Bhagiratha Acharya, a resident of Nanyapura;
+the story of the genealogy of Gangavallabha Madhava.
+
+**957.** The marriage of Gangavallabha Madhava Acharya is described;
+scriptural proofs are given forbidding marriage with a guru's daughter.
+
+**958.** Devivara in the Khardaha mela[^25-87]
+very gladly made Madhava a kulina.
+
+**959.** His sons passed into the mela of Dasharatha Ghataka —
+in the mela of Dasharatha Ghataka they obtain kulina status.
+
+**960.** Madhava's true nature. Virabhadra, to receive initiation,
+sets off for Shantipur, taking a boat:
+
+**961.** intending to receive a mantra from Advaita,
+he travels to Shantipur without telling his mother.
+
+**962.** Hearing the music, his mother understood what was afoot
+and sent Abhirama to bring Vira back.
+
+**963.** Unable to call him back, [Abhirama] threw his flute[^25-88] —
+the boat broke apart, and the people climbed out on the bank.
+
+**964.** The conversation of Virabhadra and Abhirama;
+Vira went to Jahnava.
+
+**965.** Seeing Jahnava four-armed, Virachandra
+in great joy took initiation from his mother.
+
+**966.** Vira goes to the Padshah;
+manifesting his power, he obtains a stone.
+
+**967.** From it he had an image of Shyamasundara carved
+and had its abhisheka performed by Achyuta Gosvami.
+
+**968.** At Svamibana, Nanda-dulala; at Vallabhapura,
+Vallabhaji: [they were carved] from the remainder of that stone.[^25-89]
+
+**969.** The daughters of Yadunandana, a resident of Jhamatpur,
+Srimati and Narayani, blessed with beauty —
+
+**970.** Virachandra married both daughters;
+three sons and one daughter were born to Virabhadra.
+
+**971.** The story of Devivara, the account of the establishing of the melas;
+the fast of Yogeshvara's aunt, the song of the aunt's grief.
+
+**972.** Devivara's austerity; he receives a boon;
+according to the "faults" he determines [the families of] kulinas.
+
+**973.** Dhadha, Nadha, Virabhadri, Mulukjuri —
+I describe all these principal "faults."[^25-90]
+
+**974.** The proud Devivara declares his guru to be without lineage;
+the guru's curse; [Devivara] goes to Virabhadra.
+
+**975.** Devivara heard of the greatness of the Vaishnavas
+and took initiation into the Gopala mantra from Virabhadra.
+
+**976.** The genealogy of Nityananda, the genealogy of Advaita,
+and the genealogy of Gadadhara Pandita Gosani —
+
+**977.** these three genealogies I have gladly written;
+of Gadai's family I write some particulars.
+
+**978.** The raja of Chittagong named Chitrasena
+takes Vilasa Acharya from Varendra, from Vaniata,[^25-91]
+
+**979.** and, making him his court pandita, kept him [by him];
+he built a house in Chittagong, in the village of Beleti.
+
+**980.** His son is the high-minded Madhava Acharya;
+great is his love for Pundarika Vidyanidhi.
+
+**981.** A son was born to Madhava in Chittagong;
+they named him Jagannatha, and also Vaninatha.
+
+**982.** From Chittagong the worthy Madhava Mishra,
+coming to Navadvipa, made his home [there].
+
+**983.** Having come to Nadia, Madhava had another son;
+they named him Gadadhara, Gauranga's friend.
+
+**984.** Gadadhara's nephew is Nayana Mishra;
+in passing something is told of him too.
+
+**985.** I described this in detail in the twenty-second vilasa;
+in the twenty-fourth, describing the rest, I repeated myself.
+
+**986.** In my old age I constantly make mistakes:
+not everything comes to mind at every time.
+
+**987.** That is why the fault of repetition has arisen:
+whatever came back to memory I described in another chapter.
+
+**988.** I have told of the Radhis and the Varendras,
+and in that connection of King Adishura.
+
+**989.** I have defined the lands of Rarh and Varendra.
+The sonless king ponders how to obtain a son.
+
+**990.** Through five Kaushikas[^25-92] he performed a sacrifice for a son,
+but it bore not the slightest fruit.
+
+**991.** He brings five brahmanas from Kanauj;
+with them come five kshatriya servants.
+
+**992.** Not seeing the king, the five brahmanas from Kanauj
+place their blessing on a dry piece of wood.
+
+**993.** As soon as it was placed, the wood came to life;
+the king came and worshipped the feet of them all.
+
+**994.** The five brahmanas, having the king and queen keep the chandrayana vow,
+perform the sacrifice for a son according to the rules.
+
+**995.** As fruit of the sacrifice a son and a daughter were born to the king;
+the five brahmanas from Kanauj went back to their country.
+
+**996.** Their kinsmen excommunicated them all,
+and with wives, sons and the rest they come to Gauda.
+
+**997.** The five brahmanas received five villages on the bank of the Ganga;
+the descendants of the five rishis are described.
+
+**998.** The sons of the five rishis live in Rarh and Varendra;
+the Radhis, Varendras and Saptashatis — Ballala's establishment.[^25-93]
+
+**999.** Ballala divides the Radhis, Varendras and Saptashatis;
+I gladly write down the names of the panditas of Ballala's assembly.
+
+**1000.** According to the merits of the brahmanas the most fortunate Ballala
+made three divisions: kulinas, shrotriyas, kashta-shrotriyas.[^25-94]
+
+**1001.** In Ballala's time kulinas and shrotriyas intermarried,
+while no one entered into ties with kashta-shrotriyas.
+
+**1002.** For a long time this rule held among the Radhis and Varendras;
+later this rule disappeared.
+
+**1003.** Marriage of kulina with kulina is best;
+marriage of kulina with shrotriya is middling.
+
+**1004.** Marriage of a kashta-shrotriya with a kulina did not take place:
+if he made such a marriage, a kulina lost his kulina status
+
+**1005.** and was counted among the kashta-shrotriyas.
+Marriages between shuddha-shrotriyas and kashta-shrotriyas were customary;
+
+**1006.** by this the shuddha-shrotriya did not lose honor,
+while the kashta-shrotriya, giving a daughter to a shuddha-shrotriya, gained honor.
+
+**1007.** Gradually this began to slacken;
+Udayana Acharya introduced new rules.
+
+**1008.** Among the Varendras parivarta and karana are made law;[^25-95]
+a kulina is forbidden to give a daughter to a shrotriya.
+
+**1009.** Devivara introduced the "bound" parivarta among the Radhis,
+and by this the "sarvadvari" was abolished.[^25-96]
+
+**1010.** By that rule of parivarta, giving a kulina's daughter
+to a shrotriya was counted forbidden.
+
+**1011.** Giving a daughter outside the "bound house" was also forbidden;
+because of this, daughters born of kulinas' daughters remained unmarried.
+
+**1012.** So long as the shrotriyas did not receive kulinas' daughters,
+they began to take the daughters of kashta-shrotriyas.
+
+**1013.** The dispute of the Radhis and Varendras is described;
+among the Radhis eight villages, among the Varendras eight villages receive kulina status.
+
+**1014.** Lists of the names of the Radhi and Varendra kulinas;
+I have described the genealogies of the kulinas of both divisions.
+
+**1015.** A description of the siddha and sadhya shrotriyas of the Radhis and Varendras;
+an account of the kashta-shrotriyas of the Radhis and Varendras.
+
+**1016.** The account of the vamshajas of the Radhis and the kaps of the Varendras[^25-97] —
+I have described this in particular.
+
+**1017.** The raja of Tahirpur, Kamsanarayana Raya —
+of him I write something here.
+
+**1018.** The excesses of the kaps, the decline of the kulinas' lineage;
+by giving honor to the kaps the raja preserves the kulinas' lineage.
+
+**1019.** The account of Udayana Bhaduri and Madhu Maitra —
+some of it I wrote in the account of the kaps.
+
+**1020.** Raja Kamsanarayana introduces new rules:
+the establishing of kulina status through ekavarta and kusha.
+
+**1021.** The karana with kusha grass was brought into use by the raja,
+one of the twelve Bhuiyans, whose power was boundless.[^25-98]
+
+**1022.** I have described the thirty-six melas of the Radhis
+and determined the eight patis of the Varendras.[^25-99]
+
+**1023.** A detailed account of the parivarta of the Radhis;
+an explanation of the meaning of "palti," "prakriti," "saparyaya,"
+
+**1024.** and also "vara," "arti," "kshemya," "uchita,"
+and "labhya" — the meaning of all these is explained.[^25-100]
+
+**1025.** A detailed account of the parivarta and karana instituted by Udayana;
+a description of the ekavarta and karana instituted by Kamsanarayana.
+
+**1026.** A detailed explanation of the "obligatory" karana;
+kulinas are forbidden to take a daughter outside a karana.
+
+**1027.** If after the karana the girl does not marry that bridegroom,
+or if that bridegroom dies by fate,
+
+**1028.** then the girl, [already] promised to another by karana, is called "dhemni";[^25-101]
+for her there is no rule of a further marriage.
+
+**1029.** The kaps have [only] the "obligatory" karana, no other karana;
+I make known what a "kushachharani" girl is.
+
+**1030.** A "nibandhava" girl a kulina may not take;
+without a karana a kap may take a nibandhava girl.
+
+**1031.** A nibandhava girl is permitted to a shrotriya as well;
+what the "phota" of the shrotriyas is, is explained.
+
+**1032.** A karana within one's own gotra is forbidden; who has the right to a karana is determined;
+the "pokra" fault; there is also an account of "suspended" kulinas.
+
+**1033.** The karana within the family; a description of the "bhai-kara" fault;
+the "avadhyata" fault; and the karana made in return for a favor.
+
+**1034.** The six faults of the shrotriyas; how a kulina becomes a kap —
+an explanation of this; an account of the division of the kaps by kusha.
+
+**1035.** The "garbhashuda" fault: how a kap-kulina becomes a shrotriya —
+an explanation of this; and what the "shrotriyanta" fault is.
+
+**1036.** A kap-kulina, having become a shrotriya, will give daughters to kulinas;
+for the two who made a karana with kusha there will be no "obligatory" karana.
+
+**1037.** In the "obligatory" karana there is provision for "breaking the kusha";
+an account of a shrotriya's passing from a lower pati to a higher one.
+
+**1038.** The account of the Radhis and Varendras [is placed] in the book
+for one reason only: the command of Sri Guru.
+
+**1039.** In my old age I constantly make mistakes:
+not everything comes to mind at every time.
+
+**1040.** Having begun to write about someone,
+I wrote in one chapter whatever came to mind;
+
+**1041.** and some days later, recalling something more about him,
+I placed it in another chapter.
+
+**1042.** For this reason there are many faults of repetition;
+my body is sick, I have no strength to correct them.
+
+**1043.** Mistakes and slips, trembling hands — I am feeble all the time;
+that is why I could not correct the book and write it out again.
+
+**1044.** If you see repetitions and other faults here,
+O listeners, do not be troubled at heart.
+
+**1045.** Worthy listeners, correct the book yourselves;
+humbly I ask: forgive me my offenses.
+
+**1046.** The letter of Govinda, Ramachandra and Narottama,
+and also the letter of Srinivasa Acharya,
+
+**1047.** and the four letters of Sri Jiva Gosvami
+I have written down with joy in my heart in the Half-vilasa.
+
+**1048.** In the index I have in a way set out the outline of the book,
+so that the listeners may understand it easily.
+
+**1049.** I composed this book in old age;
+I know that it is complete by the grace of Sri Guru's feet.
+
+**1050.** The lotus feet of Sri Guru are my wealth;
+at the feet of guru, Krishna and the Vaishnavas, countless obeisances.
+
+**1051.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Half-vilasa of the Prema-vilasa.
+
+*Thus in the Prema-vilasa ends the half-vilasa called "The Description of the Letters and the Index."*
+
+*By the grace of Sri Chaitanya, in the Shaka year reckoned by [the words] "paksha, two, tithi,"*
+*this Prema-vilasa reached completion in [the month of] Phalguna.[^25-102]*
+
+*The book is complete.*
+
+[^25-1]: So the 1913 edition opens the appendix to the poem: the "Half-vilasa" is a supplementary part after the twenty-fourth vilasa, containing the letters and an index of contents.
+[^25-2]: This invocation appears only in the 1913 edition.
+[^25-3]: The Bhakti-rasamrita-sindhu is Rupa Gosvami's treatise (Jiva wrote a commentary on it, the Durgama-sangamani); the Madhava-mahotsava, the Gopala-champu (its second part being the Uttara-champu) and the grammar Hari-namamrita-vyakarana are Jiva's own works. Srinivasa asks about revised copies that were to be carried to Bengal.
+[^25-4]: The author explains the opening "svasti" ("may it be well"), the customary auspicious word at the head of a letter.
+[^25-5]: Vrindavana Dasa here is Srinivasa's son (not the author of the Chaitanya-bhagavata).
+[^25-6]: That is, he departed consciously, in remembrance of the Lord.
+[^25-7]: Vyasa Sharma is apparently Vyasa Acharya, Srinivasa's disciple and the father of Shyamadasa Acharya (cf. 46); Vasudeva Kaviraja is also Srinivasa's disciple (24). The Sanskrit phrase is not entirely clear; the Bengali rendering (25) takes it as a question about how Vasudeva stands toward Vyasa Sharma and where he lives.
+[^25-8]: The Sanskrit has "to the honorable king"; the Bengali rendering (31) names him: Vira Hambira, king of Vishnupura.
+[^25-9]: Kola-kuli is a breast-to-breast embrace, the greeting of equals. The author explains what is meant by "and so on" in the Sanskrit "obeisances and so on."
+[^25-10]: The reading is conjectural: in both copies these words are corrupt.
+[^25-11]: Here the text is damaged in both copies (in the 1999 edition the line ends are lost, in the 1913 edition several words are illegible). According to the Bengali rendering (40–41), this passage said that Jiva had heard of Srinivasa's grief over the departure of Gopala Bhatta Gosvami.
+[^25-12]: The verse is quoted without a source; its end reads uncertainly in both copies, and the sense is confirmed by the Bengali rendering (42–44).
+[^25-13]: The Vaishnava-toshani is Sanatana Gosvami's commentary on the Tenth Canto of the Bhagavata-purana; the Durgama-sangamani is Jiva's commentary on the Bhakti-rasamrita-sindhu; the Gopala-champu is Jiva's poem.
+[^25-14]: This sentence survives only in the 1913 edition, and even there damaged; the sense is restored from the Bengali rendering (51–52).
+[^25-15]: Literally "another supplement-book" (parishesha), apparently an appendix to the grammar.
+[^25-16]: Anudhyana is remembrance, a prayerful good thought about someone; the same word at the end of the letter is rendered "good thoughts."
+[^25-17]: According to the Bengali rendering (59), Sri Gopaladasa is another name of Dhari Hambira, son of Vira Hambira (not to be confused with Gopala Dasa, Srinivasa's father-in-law).
+[^25-18]: Gopala Bhatta Gosvami.
+[^25-19]: Vyasa Acharya is Srinivasa's disciple (cf. 24–25).
+[^25-20]: The last word of the line reads uncertainly (from the 1913 edition; lost in the 1999 edition); by rhyme and sense it is probably "firmly."
+[^25-21]: Bhashya and vritti: commentary and gloss, i.e. the commentaries on the grammar.
+[^25-22]: The beginning of the line follows the 1913 edition (lost in the 1999 edition); the reading "I have written" is conjectural. Cf. the Sanskrit: "the Uttara-gopala-champu is now written, but it still has to be examined."
+[^25-23]: Bhakti-rasamrita-sindhu 1.2.295: "Service here [is rendered] both in the form of the sadhaka and in the form of the siddha by one who longs for that feeling, following the people of Vraja." Sadhaka: one who practices; siddha: one who has attained perfection.
+[^25-24]: The reading is conjectural (the word is corrupt in the 1913 edition, and this part of the letter is lost in the 1999 edition); it is confirmed by the Bengali rendering (69). The Sanskrit of this letter is restored on the whole from the 1913 edition.
+[^25-25]: The word "nectar-songs" survives in the 1913 edition in the margin; "songs" is confirmed by the Bengali rendering (72). Govindadasa and Narottama are known as authors of padas (songs).
+[^25-26]: The word before "songs" is corrupt in both copies; it is rendered by sense and from the Bengali rendering (81).
+[^25-27]: That is, in a spiritual body visualized in meditation and suited to the service of one's chosen deity.
+[^25-28]: The agamas are sacred scriptures on worship (tantras).
+[^25-29]: That is, Srinivasa Acharya (so in the Bengali rendering, 89); honorific plural.
+[^25-30]: The last word of the line reads differently in the two editions and is corrupt; the sense is "praised among all the Vaishnavas."
+[^25-31]: The end of the sentence is corrupt in both copies; the sense follows the Bengali rendering (94).
+[^25-32]: A player of the mridanga drum. It is unclear whether this is the same Shyamadasa Acharya mentioned in Letter 3.
+[^25-33]: The Brihad-bhagavatamrita is a work of Sanatana Gosvami.
+[^25-34]: That is, Ramachandra Kaviraja (so in the Bengali rendering, 103).
+[^25-35]: According to the Bengali rendering (104), Krishnadasa Kaviraja.
+[^25-36]: "Malsat": slapping one's own shoulders, the gesture by which a wrestler challenges an opponent; Sarvabhauma threatens to subdue the preacher of mukti (cf. Vilasa 1).
+[^25-37]: Purashcharana: a preparatory vow of repeating a mantra with rites in order to attain a particular aim.
+[^25-38]: In Vilasa 4 itself Virachandra happens to be in Narahari's house in Khanda that day (4.148).
+[^25-39]: The Kshetra ("holy place"): Puri.
+[^25-40]: A prahara is a quarter of the day or night, about three hours.
+[^25-41]: The twenty-fourth vilasa is not included in the main text of this translation; its contents are represented only by the index below.
+[^25-42]: The end of the line is corrupt in both copies; it is rendered by sense (cf. Vilasa 6).
+[^25-43]: Cf. 8.15, where the name reads just as uncertainly.
+[^25-44]: Chuda-karana: the rite of the first tonsure, in which a tuft is left on the crown.
+[^25-45]: Shiva-ghrita: ghee prepared with jackal's flesh ("shiva," jackal), a remedy for madness (cf. 10.86).
+[^25-46]: At the end of the line is an unclear word, "matiman" ("wise one"), perhaps an address to Narottama; rendered by sense.
+[^25-47]: A danda is a measure of time of about 24 minutes; ten dandas is about four hours after sunrise.
+[^25-48]: Here "Ambuya"; cf. 12.314, where the village is called Ambuyavali.
+[^25-49]: The end of the line is corrupt in both copies; rendered by sense.
+[^25-50]: Bhagavati is the goddess Durga, who in Vilasa 14 tells Govinda to remember Krishna-Govinda.
+[^25-51]: The author admits that Vilasas 15 and 16 ought to have changed places: Vilasa 16 describes Jahnava's first journey to Vrindavana, and Vilasa 15 her second.
+[^25-52]: That is, an image of Radha, to be placed beside Madanamohana.
+[^25-53]: Sadhya is the goal; sadhana the means of attaining it.
+[^25-54]: The first line of the couplet is lost: in the 1913 edition only its last word ("to … / at …") survives, and in the 1999 edition the whole passage is lost.
+[^25-55]: That is, the blows Ramachandra dealt himself appeared on Narottama's body (cf. 17.303).
+[^25-56]: Here the name is given in the form "Harishchandra."
+[^25-57]: The sense of "seventh" is unclear. Yadunandana Acharya is Raghunatha Dasa's guru (cf. 18.30).
+[^25-58]: That is, while the images are missing, the worship of Gauranga and Vallavikanta is performed before a shalagrama, a sacred stone embodying Vishnu.
+[^25-59]: Phagu: the red powder with which people sprinkle one another at Holi (Phalguna Purnima).
+[^25-60]: Ashtakala: service distributed over the eight periods of the day and night, following the lila of Radha and Krishna.
+[^25-61]: The line is restored from scattered remnants in the 1913 edition (it is lost in the 1999 edition); the reading is conjectural.
+[^25-62]: The sense is unclear ("mātāra nikaṭa veśa dhāraṇa"); possibly "having put on [ascetic] garb before his mother" or "before his mother put on a widow's garb."
+[^25-63]: The opening of the couplet is damaged in both copies; it is translated from the surviving words. The subject is the nature of Advaita Acharya as Sadashiva and Mahavishnu.
+[^25-64]: The middle of the line is lost in both copies (in the 1999 edition the whole line); what survives is translated.
+[^25-65]: Vishakha is Radha's companion; the reference is to the picture of Krishna painted by her, which Advaita receives in place of the image (813–814).
+[^25-66]: Kshira-chora Gopinatha: "Gopinatha the thief of sweet rice," the deity at Remuna.
+[^25-67]: Srinatha Chakravarti's commentary on the Bhagavata Purana.
+[^25-68]: Brahma Haridasa is Haridasa Thakura; the epithet is explained below (854–855).
+[^25-69]: Shraddha-patra: the memorial dish (portion) offered at the shraddha rite to the most worthy brahmana.
+[^25-70]: The beginning of the line is damaged in both copies ("…jñāne"); understood as "taking him for a great sage."
+[^25-71]: Cf. Bhagavata Purana 10.13: Brahma stole Krishna's calves and cowherd boys.
+[^25-72]: So the 1999 edition ("two daughters"); in the 1913 edition the word is damaged. The two daughters, Sri and Sita, both become Advaita's wives (cf. 864).
+[^25-73]: Pakasparsha: the wedding rite at which the new bride first serves food to her husband's family.
+[^25-74]: The last word of the line is unclear (1913 edition "hañā buddha"; the line is lost in the 1999 edition); translated by the sense.
+[^25-75]: Cf. the index to vilasa 4 (174), which also mentions the rejection of Nagara.
+[^25-76]: So the 1913 edition; the 1999 edition reads "to Phuliya." Cf. 886–887: Madhava Acharya's house is in Kuliya.
+[^25-77]: The subject of the second line is not named; by the sense, Madhava.
+[^25-78]: The line is unclear; possibly Chidananda is the name of another of Hadai Ojha's sons.
+[^25-79]: The couplet is badly damaged in both copies; the sense is restored conjecturally.
+[^25-80]: The Padmavati is the river Padma.
+[^25-81]: The title Paingi-rahasya-brahmana is given as the copies have it; the Krama-dipika is a manual of worship of Krishna by mantra.
+[^25-82]: The Chandi is the Devi-mahatmya, a hymn in praise of the Goddess.
+[^25-83]: "Shrigala" means "jackal," "Kapindra" "king of monkeys": apparently abusive nicknames of Chaitanya's opponents. Chudadhari: "wearer of the crest."
+[^25-84]: Vantashi, "one who eats what he has vomited": a name for one who, having taken sannyasa, returns to household life.
+[^25-85]: Virabhadri is the name of one of the "faults" (dosha) by which kulina families are classified (cf. 973).
+[^25-86]: Gangavallabha, "Ganga's husband": Madhava Acharya, Nityananda's son-in-law (cf. 634–636, 715–718).
+[^25-87]: A mela is a grouping of kulina families within which marriages are made; the institution of the melas is ascribed to Devivara Ghataka (cf. 971–972).
+[^25-88]: Vamshi: literally "flute."
+[^25-89]: The name of the first place is given as the copies have it and is unclear.
+[^25-90]: Names of "faults" (dosha), lineage defects by which Devivara divided the kulinas into melas; they are given as in the copies.
+[^25-91]: The place-name is read uncertainly (1913 edition; lost in the 1999 edition).
+[^25-92]: That is, local brahmanas (apparently of the Kaushika lineage), as distinct from the five brahmanas from Kanauj.
+[^25-93]: Radhis, Varendras and Saptashatis are classes of the brahmanas of Bengal; tradition ascribes the institution of their divisions to King Ballala Sena.
+[^25-94]: A kulina is a brahmana of the highest lineage; a shrotriya is of the next class; a kashta-shrotriya (literally "lean shrotriya") is the lowest. A shuddha-shrotriya (1005) is a "pure" shrotriya.
+[^25-95]: Parivarta and karana are kinds of marriage exchanges and compacts between kulina families; their varieties are listed in 1023–1037. The technical terms of these lines are given in transliteration.
+[^25-96]: Sarvadvari is apparently the earlier "open" order, under which marriages between families were not restricted.
+[^25-97]: The vamshajas (among the Radhis) and the kaps (among the Varendras) are classes of former kulinas who have lost full kulina status.
+[^25-98]: The twelve Bhuiyans were the great landholding rulers of Bengal; here, Raja Kamsanarayana.
+[^25-99]: Patis are groupings of families among the Varendras, corresponding to the melas of the Radhis.
+[^25-100]: Here and below are technical terms of kulina marriage; in the index they are only named.
+[^25-101]: The words in quotation marks in 1028–1035 are names cited in the text; their meaning was explained in the twenty-fourth vilasa itself.
+[^25-102]: The year is given in number-words: "paksha" = 2, "two" = 2, "tithi" = 15. By the usual rule (the numbers are read from right to left) this is the year 1522 of the Shaka era; the text gives no other indication of the date. In the 1913 edition the end of the verse ("reached completion") is not fully preserved.
