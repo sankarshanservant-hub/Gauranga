@@ -37,6 +37,9 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 - Vilasa 6. The Vision of Rupa and Sanatana; Srinivasa's Initiation
 - Vilasa 7. Lokanatha and Bhugarbha
 - Vilasa 8. The Prema Left for Narottama
+- Vilasa 9. The Birth of Narottama
+- Vilasa 10. Narottama Receives Prema from the Padmavati
+- Vilasa 11. Narottama in Vrindavana: Initiation by Lokanatha
 
 ---
 
@@ -4646,3 +4649,1962 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^08-11]: Variant: "why, I wonder, will you [abide] near Narottama?"
 [^08-12]: The first line of the couplet ("nava-putra deva rati kanyā tāra mātā" in the 1913 edition) is unclear; perhaps Narottama's kin (son, daughter, mother) are listed.
 [^08-13]: This couplet is found only in the 1913 edition.
+
+---
+
+# Vilasa 9. The Birth of Narottama
+
+*Why Mahaprabhu left prema in Gauda; Virachandra; the plan concerning Narottama and Srinivasa; signs and Narayani's dream; the astrologer's prediction; the birth of Narottama and the universal rejoicing*
+
+**1.** Glory, glory to Sri Chaitanya, glory to Nityananda!
+Glory to Advaita-chandra, glory to the host of Gaura's devotees!
+
+**2.** From the road to Vrindavana [Mahaprabhu] came to Nilachala,
+and through Vaishnavas he sent prema to Gauda.
+
+**3.** With Nityananda the Prabhu took counsel in private:[^09-1]
+"Gauda has surely been left without bhakti."
+
+**4.** Nityananda Prabhu came to Gauda
+and revealed the treasure of prema in all its endless fullness.
+
+**5.** In the form of prema Virachandra appeared
+and began [the work] so that prema would remain hereafter.
+
+**6.** To the feet of such a Virachandra — millions of obeisances:
+from him prema spread through Gauda.
+
+**7.** All these wondrous events are hidden from people;
+no one has written this inner truth in the shastras.
+
+**8.** Therefore I write — listen attentively;
+there is a reason for it, and so I write this.
+
+**9.** Sri Chaitanya, Nityananda, Advaita and the other devotees —
+all of Chaitanya's circle are devoted to this.[^09-2]
+
+**10.** In the Kali age they descended in various lands —
+all of them, by a former word, at Chaitanya's command.
+
+**11.** Through the sankirtana of Hari-nama living beings became intoxicated;
+for his own secret purpose Chaitanya came.
+
+**12.** Even if his own circle does not know it,
+it is present both inwardly and outwardly — the shastras are the proof.
+
+**13.** All this Gaura-raya tastes,
+and Svarupa and Ramananda assist him in it.
+
+**14.** The Prabhu tastes it in his own heart;
+others taste it by ascertaining the shastras.
+
+**15.** By the Lord's command shastras come to light;
+therefore he sent a letter to Vrindavana.
+
+**16.** [Those who] went to Vrindavana, the land granted them by Chaitanya,[^09-3]
+none of them will come to Gauda again.
+
+**17.** One composes a shastra and the others assist;
+for this reason they all always stay together.
+
+**18.** Then Gauranga reflects in his own mind:
+"When I go, the world will be left without prema.
+
+**19.** Those who came with me will go [with me] in every way;
+by what means, then, will prema be preserved?"
+
+**20.** For this reason — two manifestations of prema:
+Narottama in Garerhat, Srinivasa in Rarh.
+
+**21.** What I write, I write by the strength of the Prabhu's command;
+otherwise how would I ever know all this?
+
+**22.** Above all, there is Sri Rupa's description;[^09-4]
+I tell [it] — let no one think otherwise.
+
+**23.** What was seen — all this I write down;
+whoever writes it, such a description is accessible.[^09-5]
+
+**24.** I myself, who write this, am devoid of all power;
+the strength of my Prabhu's command — that alone is skilled.
+
+**25.** As the command is, so I write — do not find fault;
+listen according to your need.
+
+**26.** The Majumdar[^09-6] performed the worship of his chosen Deity:
+for the sake of a son he offered tulasi to the shalagrama.
+
+**27.** The Lord was pleased by this, and a voice came from the sky;
+these words resounded: "A son will surely come.
+
+**28.** A wondrous son will be born" — all heard it.
+"His name is Narottama; [this] I tell you.
+
+**29.** A boy will be born, and you will have great joy;
+everywhere there will be a rain of prema — so I have said."
+
+**30.** The Prabhu wishes to preserve prema, the eternal substance;
+in the month of Vaishakha there will be a conception.[^09-7]
+
+**31.** Narayani was the name of Raya's wife;
+at the conception the whole earth rejoiced.
+
+**32.** She who was named Narayani, a woman of spotless conduct,
+called the Majumdar and tells him a marvellous thing:
+
+**33.** "This is not a thing to speak of openly — listen attentively
+and keep it carefully in your heart."
+
+**34.** Narayani says: "I saw a dream:
+a jewel of a man entered my body.[^09-8]
+
+**35.** From your body he entered into mine;
+such a dream I saw at the end of the night."
+
+**36.** [The Majumdar] became intoxicated with prema, and his joy was boundless;
+everything became joy, there was no more sorrow.
+
+**37.** One day an astrologer came to the assembly
+and, choosing an auspicious moment, began to calculate.
+
+**38.** The Majumdar [sat] in the assembly with his ministers and friends,
+and that man, taking a book in his hand, began the reckoning:
+
+**39.** "The boy who will be born from Narayani's womb —
+at his birth there will remain no grief or sorrow in the land.
+
+**40.** In this womb a mahapurusha abides;
+misfortune will be dispelled, and good will come to Raya."
+
+**41.** At that time a letter came from the zamindar;[^09-9]
+with many assurances he sent a man.
+
+**42.** In that letter were two thousand coins[^09-10] —
+all the astrologer's words were proved true.
+
+**43.** The astrologer says: "Day by day joy will grow;
+as soon as he is born, the misfortunes of all the subjects will depart."
+
+**44.** The astrologer said: "I give him the name Narottama;
+in the highest goal [of life] he will be most excellent.
+
+**45.** This holy month of Magha that is now coming —
+on the fifth day of the bright fortnight he will appear."[^09-11]
+
+**46.** Having heard this, they dismissed the astrologer,
+honoured him and gave him much wealth.
+
+**47.** Ten months and ten days came to completion;
+the days were counted one by one, and the dark fortnight passed.
+
+**48.** On the fifth day of the bright fortnight, at an auspicious moment,
+at the hour of cow-dust,[^09-12] the jewel of a man appeared.
+
+**49.** Seeing her son's face, the mother rejoiced;
+in that joy the Majumdar smiles softly.
+
+**50.** Of the joy there was then, what can I say!
+The world was filled with blessing — hear the song of his virtues.[^09-13]
+
+**51.** *Sri-raga*:[^09-14]
+The world was filled with blessing — Narottama appeared,
+Hari-nama in every house.
+The blind from birth and all the rest — every body filled with prema,
+tears and trembling on everyone's frame.
+
+**52.** [There rose] the great cry of Hari-nama,[^09-15] all were intoxicated with prema,
+all [distinctions of] varna and ashrama went far away.
+Brahmanas and shudras play together, all were intoxicated with prema,
+all became heroes in [chanting] Krishna's name.
+
+**53.** The cows together with their calves, lowing incessantly,
+all run with their tails raised over their heads.
+Brahmanas recite blessings, some run headlong,
+abandoning grief and sorrow, all dance.
+
+**54.** The wives of good families cannot go out of their houses,
+yet their hearts long to dance.
+All things grow irksome to them — wealth, home, husband and kin:
+without seeing [the child] they cannot live.
+
+**55.** Gathering together: "When shall we all see the boy?" —
+they humbly entreat the Creator.
+At night, together with their husbands, they came to see the boy
+and in joy gaze upon his face.
+
+**56.** All cast off shame and fear, their hearts full of joy —
+they cannot stay at home.
+Now they rush hither and thither, now they cry, "Alas, alas!
+This pain we cannot bear!"
+
+**57.** Filling platters with gold and paddy, they go together;
+the house was filled with gifts.
+Seeing the boy's radiance, like the full moon,
+the dark house was lit up.
+
+**58.** To the bards and dancers — various jewelled ornaments;
+much wealth was given to all.[^09-16]
+The prisoners were set free, and they all ran off —
+so sings his praises Nityananda Dasa.
+
+*Thus ends the ninth vilasa of the Prema-vilasa.*
+
+[^09-1]: Literally "Nityananda Prabhu took counsel in private"; by the sense, Mahaprabhu and Nityananda take counsel together.
+[^09-2]: The first line of the couplet is found only in the 1913 edition.
+[^09-3]: "dattabhūmi", "the granted land": Vrindavana, where Chaitanya sent Rupa, Sanatana and the other Gosvamis.
+[^09-4]: Probably Rupa's teaching on prema is meant (cf. ch. 8, couplet 108).
+[^09-5]: The sense is unclear. A variant given in the 1913 edition: "whoever describes it, [describes] what he has seen and experienced".
+[^09-6]: Majumdar, an official title (revenue collector); here Krishnananda Raya (Datta), Narottama's father.
+[^09-7]: Vaishakha, April–May.
+[^09-8]: "puruṣa-ratna", "a jewel among men"; the newborn is so called below (48).
+[^09-9]: The first line of the couplet is found only in the 1913 edition. The zamindar is the landholder to whom the Majumdar was subordinate.
+[^09-10]: Apparently two thousand coins were granted (or remitted) to the Majumdar in the letter — the fulfilment of the predicted good fortune.
+[^09-11]: The fifth day of the bright fortnight of Magha (January–February), the festival of Vasanta Panchami.
+[^09-12]: "godhūli", "cow-dust": evening twilight, when the herds return.
+[^09-13]: This couplet is found only in the 1913 edition.
+[^09-14]: The name of the raga to which the song is sung. What follows are tripadi stanzas, each under one number.
+[^09-15]: The beginning of the stanza is restored from the fragment "harināma mahārava" printed separately at the foot of the page in the 1913 edition; in the 1999 edition the first part of the stanza is lost.
+[^09-16]: A variant given in the 1913 edition: "All there was in the house, all the gifts they received — all was given to the brahmanas."
+
+---
+
+# Vilasa 10. Narottama Receives Prema from the Padmavati
+
+*Narottama's childhood; in a dream Nityananda bids him receive prema; the Padmavati gives Narottama prema and he turns golden; his parents' grief; the exorcist; the summons to the ruler and Narottama's departure for Vrindavana*
+
+**1.** Glory, glory to Sri Chaitanya, glory to Nityananda!
+Glory to Advaita-chandra, glory to the host of Gaura's devotees!
+
+**2.** Glory, glory to Srinivasa, the shelter of the rasa of bhakti!
+Glory, glory to Narottama Thakura Mahashaya!
+
+**3.** Glory, glory to Shyamananda, king of rasa among devotees!
+Glory, glory to Ramachandra Kaviraja, best of devotees![^10-1]
+
+**4.** As soon as he was born, musicians took their seats at the door;
+for eight days the auspicious rites went on.
+
+**5.** Hundreds of brahmanas from the villages, reciting sacred tales,
+read the Vedas for the son's sake — the sound of the Vedas resounds.
+
+**6.** The days were counted one by one, and six months passed;
+with great care they performed the annaprashana.[^10-2]
+
+**7.** At an auspicious moment mother and father put rice into his mouth;
+with great joy they fed the brahmanas.
+
+**8.** They held a great feast for the kinsfolk, a large gathering;
+to each they distributed gifts as befitted him.
+
+**9.** The king[^10-3] heard of the beautiful boy
+and sends gifts of every kind — gold, silver and many other things.
+
+**10.** Through his agent he sent all the gifts,
+and they put golden ornaments on [the boy's] body.
+
+**11.** When he was five years old, his ears were pierced,
+and when the time came for study, they put chalk in his hand.[^10-4]
+
+**12.** Listening to lessons together with [other] boys,
+he then began to read books.
+
+**13.** He came to the age of twelve;
+seeing his beauty, his father and mother rejoiced at heart.
+
+**14.** For the marriage they called an astrologer in private:
+"No delay can be borne — arrange the marriage quickly."
+
+**15.** Seeing [his parents'] efforts, he grew afraid,
+and at that time he firmly resolved in his mind to leave home.
+
+**16.** That very night in a dream came Nityananda Prabhu,
+laid his hand on his breast and smiles softly:
+
+**17.** "Why are you so unconcerned — have you forgotten everything?
+In the morning go and receive prema from the Padmavati.
+
+**18.** Go to bathe — at your own ghat you will obtain it;
+if you marry, you will later fall into trouble."
+
+**19.** At that Narottama awoke;
+not seeing that form, his anxiety grew.
+
+**20.** Looking neither at father nor mother nor anyone else,
+in the morning he rose and went to bathe in the Padmavati.
+
+**21.** He went along the road alone, chanting Hari-nama;
+seeing the Padmavati, he bowed down many times.
+
+**22.** Saying "Gauranga!", he came and stood on the bank,
+and to bathe he went down into the water.
+
+**23.** At the touch of his feet the Padmavati surged up:
+she remembered the words of Chaitanya Prabhu.
+
+**24.** "He at whose touch the transformations of prema arise in you,
+to him you will hand over prema" — so he had firmly said.[^10-5]
+
+**25.** "Surely this is that Narottama who has come to me" —
+and Padma humbly speaks these words:
+
+**26.** "For you Chaitanya Gosani
+has left prema — take that prema from me.
+
+**27.** Listen, listen, Narottama, this is my request:
+leaving prema, the Prabhu went to Nilachala-puri.
+
+**28.** Take what is yours, holding out your hands:
+my strength cannot bear the weight.
+
+**29.** Under the weight of prema the Padmavati has lost all discernment;
+take this prema and preach it everywhere."
+
+**30.** Because of that prema the Padmavati is restless to this day;[^10-6]
+from the transformations of prema her heart is agitated.
+
+**31.** Heeding no direction, she floods with her waters,
+and no longer do all people dwell on her banks.[^10-7]
+
+**32.** "The two brothers[^10-8] left prema with me;
+take what is yours, and you will find joy in your heart."
+
+**33.** Narottama says: "What shall I do if I take prema?
+What will happen if I take it — I shall see right now."
+
+**34.** So saying, the Padmavati took him by the hand,
+and Narottama went along with the Padmavati.
+
+**35.** Under the weight of prema, the Padmavati, having found Narottama,
+lifted up the prema in rapture and placed it in his hands.
+
+**36.** The Padmavati says: "Where will you keep it?
+If you eat it, intoxication will come; listen, noble one."
+
+**37.** Holding out his hands, he took the prema from the Padmavati
+and, his body racked with thirst, he ate it.
+
+**38.** As soon as he ate it, his body became golden;
+he laughs, weeps, dances, sings — he was filled with prema.
+
+**39.** Not seeing Narottama, [at home] they raised an uproar;
+all received word that Narottama was on the bank of the Padma.
+
+**40.** Weeping, they came to the riverbank;
+not seeing Narottama, they were beside themselves.
+
+**41.** Because Narottama had eaten prema, his colour had changed;
+not recognising the boy, they fell into great distress.
+
+**42.** They do not see their son — they see a golden child;
+not seeing their own son, they were overwhelmed with grief.
+
+**43.** "Ah, ah, Narottama!" they cried, and fell down on the bank;
+hundreds of thousands of people gathered at the Padmavati ghat.[^10-9]
+
+**44.** Even pregnant women came, walking slowly;
+all the people weep, distraught at heart.
+
+**45.** Of all this Narottama knows nothing;
+he has no outer awareness and looks about in all directions.
+
+**46.** People do not understand what it is — he is like a baul:[^10-10]
+now he leaps and falls, now suddenly runs.
+
+**47.** What a sight his body is — blood at the pores of his skin;
+crying "O Gauranga!", now and again he laments.
+
+**48.** At times his body becomes like a dry log,
+now it trembles with bristling hair, now it rolls on the ground.[^10-11]
+
+**49.** Amid the clamour of the people and his mother's weeping,
+mother and father went [to him], and he came to his senses.[^10-12]
+
+**50.** Mother and father see: he laughs, dances, weeps —
+Narottama has fallen into Chaitanya's snare.
+
+**51.** Seeing his mother and father weeping,
+Naru[^10-13] stands in the midst of all the people.
+
+**52.** "Here I am before you, mother — why do you weep?"
+"Let us go home, child, listen to me!"
+
+**53.** Saying "Child, child!", she took Narottama in her arms
+and kissed his lotus face hundreds of times:
+
+**54.** "My Narai, a blind woman's staff, my child!
+In the blink of an eye, child, I lose you.
+
+**55.** Seeing you golden, dear one, I cannot recognise you;
+yet the sweetness of your beauty is a balm to my eyes.
+
+**56.** Come, come, dear one, come, let us go home!"
+But he cannot walk along the road — he keeps dancing.
+
+**57.** For the press of the crowd they cannot move along the road;
+it seemed as though he had begun to dance in sankirtana.
+
+**58.** Again and again he gives thunderous shouts and roars without end,
+weeps with his face turned upward, a hundred streams from his eyes.
+
+**59.** The way home became endless;
+seeing their son's condition, [the parents] lost their wits.
+
+**60.** Again and again he leaps, again and again he runs;
+the earth seems to split from his repeated falls.
+
+**61.** Seeing this, mother and father were beside themselves;
+holding him together, they calmed him and sat him down.
+
+**62.** He cannot sit on the ground and lay down;
+in the madness of prema, as if in a swoon, he lost consciousness.
+
+**63.** The mother kept [people] from coming to the outer gate;
+taking Naru in her arms, the mother entered the house.
+
+**64.** Laying him down gently, they left him in solitude;
+overcome by grief, mother and father fell to the ground.
+
+**65.** After a while Naru begins to weep —
+hearing it, even a stone would melt.
+
+**66.** "Chaitanya, Chaitanya!" he cries, slapping his arms:[^10-14]
+"Not seeing your face, my life is breaking apart!
+
+**67.** To whom shall I tell my sorrow, who will believe me?
+Mother, my heart does not wish to stay at home."
+
+**68.** Hearing Naru's words, she was beside herself;
+clasping Narottama by the neck, she began to weep:
+
+**69.** "Listen, listen, my child, why is it so?
+For what sorrow do you weep, dear one? Tell me, let me hear.
+
+**70.** Let me rather die before you:
+my heart is breaking, the grief is unbearable."
+
+**71.** Seeing his mother's grief, he grew afraid at heart:
+"Do not worry, mother, I beg you.
+
+**72.** I am tormented by hunger, mother — bring me something to eat;
+when I have eaten, I will tell everything right here."
+
+**73.** All the food was already prepared;
+with great care they fed him all of it.
+
+**74.** Having eaten, he sat down beside his father
+and began to speak: "I have fallen into great trouble.
+
+**75.** A golden child entered my heart;
+since then my life has become like this.
+
+**76.** I will not stay here — I will go to Vrindavana;
+do not try to keep me."
+
+**77.** As he spoke, prema arose in his body;
+his tears drenched both his body and his clothes.
+
+**78.** He cannot hold his body still, such a trembling came over him;
+again and again he leaps with his feet together.
+
+**79.** Now he calls, "Lord of my life, Gauranga!",
+now, coming out into the courtyard, he falls headlong.
+
+**80.** "We have lost our son!" weep the mother and father;
+both of them weep with heads bowed.
+
+**81.** "Our son went alone to bathe in the Padmavati,
+and since then our son has lost his senses.
+
+**82.** When asked, he stands up and weeps bitterly;
+crying 'Gauranga!', he weeps with his hand on his breast.
+
+**83.** Some golden god [has entered] our son's body;
+bring an exorcist to drive out that spirit."
+
+**84.** With great effort they brought that exorcist:[^10-15]
+"Tell us in detail what spirit has seized him."
+
+**85.** The exorcist says: "It is no spirit but some deity;
+know for certain that this is the great disease of wind.[^10-16]
+
+**86.** Kill a jackal and prepare shiva-ghrita:[^10-17]
+the disease will not remain, and the sweetness of his beauty will return."
+
+**87.** Hearing of the jackal, [Narottama] began to laugh:
+"Father, will you keep me by killing a living being?
+
+**88.** If out of love for your son, father, you kill a jackal,
+the disease will not be cured but will grow worse.
+
+**89.** Father, mother, it is no disease — I will go to Vrindavana!"
+Uttering the name of Vrindavana, he weeps.
+
+**90.** Father and mother say: "We will take poison and die:
+not seeing you, dear one, we will lose our lives.
+
+**91.** Never say such words again, dear one —
+will you go off as a beggar, leaving house and home?"[^10-18]
+
+**92.** Naru says [to himself]: "Now a great calamity has come:
+I shall no longer get to see Vraja and Vrindavana."
+
+**93.** In his mind Narottama devised a stratagem
+and began to act like a worldly man.
+
+**94.** To his father and mother he says: "I am well;
+do not grieve on my account."
+
+**95.** Seeing this, father and mother are very glad;
+but when night comes, Narottama is in torment:
+
+**96.** "How shall I go to Sri Vrindavana?
+Otherwise life will not remain in my body."
+
+**97.** All night long Narottama gets not a moment's sleep,
+while father, mother and household are all content.
+
+**98.** At this time a [horseman][^10-19] of the jagirdar
+came to take Narottama and sat down at the door.
+
+**99.** [The letter said:] "On reading this letter, come — I wish to see your son;
+I shall bestow on him a robe of honour and a horse."
+
+**100.** Yet out of love for his son [the father] was greatly afraid
+and pondered in his mind what course to take.
+
+**101.** Taking his ministers and friends, he sat down beside Naru
+and told him in his ear: "They have sent for you."
+
+**102.** "Good, good!" said [Narottama], and began to laugh,
+and told his father: "I will go with the horseman."
+
+**103.** His mother says: "Light of my eyes, you shall go nowhere!
+Even if I were offered a hundred thousand, I would not send you."
+
+**104.** Narottama speaks to his mother and father:
+"If I go, that king will be pleased at heart."
+
+**105.** They brought an astrologer and fixed an auspicious day;
+at the departure they entrusted Naru into [the horseman's] hands.
+
+**106.** In his heart Narottama rejoiced:
+"Prabhu Nityananda has come to my aid."
+
+**107.** [The mother says:] "If you go to the king's court, what shall I do?
+Not seeing you, dear one, I cannot live.
+
+**108.** Come back in ten days or so, dear one, quickly;
+when you come, we will joyfully get you married.
+
+**109.** If you go, dear one, then without you
+I will go to Vrindavana — so I have resolved in my mind."[^10-20]
+
+**110.** [The father] consoled Naru's mother in many ways,
+brought Narottama and handed him over to [the horseman]:
+
+**111.** "Keep Naru carefully, close to your breast;
+wherever you go, keep him always before your eyes."
+
+**112.** Taking his son by the hand, he went out of the house;
+taking his son in his arms, he kissed him many times.
+
+**113.** Naru prostrated himself and took his leave,
+turning back again and again to look.
+
+**114.** Laughing, he hastens along with the horseman,
+while in his heart prema surges in waves of emotion.
+
+**115.** As he goes, he reflects: "Choosing a good moment,
+[…] I want to go."[^10-21]
+
+**116.** That night he does not sleep but stays awake all night:
+"How wondrous is Chaitanya's mercy!
+
+**117.** Prabhu Nityananda has shown me mercy" —
+from agitation and joy of heart there is no sleep for him.
+
+**118.** When the people had fallen fast asleep,
+he rose and, saying "Nityananda!", went out.
+
+**119.** Saying "My Prabhu Chaitanya!", he goes westward;
+on the road Naru looks round lest anyone see him from behind.
+
+**120.** Little by little he got away, and the guards remained [behind];
+Narottama was gone — and the news reached his home.
+
+**121.** Then the mother, receiving the news of Naru,
+came out of the house and fell down:
+
+**122.** "Naru, why have you left your helpless mother?
+Not seeing you, dear one, I shall give up my life!
+
+**123.** Ah, my Naru, my son, where have you gone?" —
+with dishevelled hair she weeps like a madwoman.
+
+**124.** "I do not know where my Naru has gone, leaving me;
+cruel Providence has given me such sorrow!
+
+**125.** How will Naru's tender body walk?
+Tormented by hunger, whom will he ask for food?
+
+**126.** At the time of running away, Naru, you showed such affection —
+where have you gone, leaving your helpless mother?
+
+**127.** Is there anyone who will bring back my Naru?
+I will give him everything, whatever he asks."
+
+**128.** All the kinsfolk gathered together;
+to console her, they all sat holding her:
+
+**129.** "We will send men to catch Naru and bring him back;
+how far can he have gone? We will surely find him."
+
+**130.** They sent out many men in all directions:
+giving a hundred coins, they sent a hundred men.
+
+**131.** The men searched in every direction;
+they found him, but he would not come back — so they hurried to report.[^10-22]
+
+**132.** They tried hard but could not turn him back;
+they gave him money for the journey and one man to go with him.
+
+**133.** Returning, the men brought word to the house:
+"We tried hard, but even so he did not come back."
+
+**134.** Hearing that he had not come back, the mother fainted;
+crying "Ah, ah, Naru!" again and again, she fell to the ground.
+
+**135.** All the people went to console the rani;[^10-23]
+in the rani's despair her heart was breaking.
+
+**136.** Whoever hears of the manner of Naru's departure,
+by that very hearing renunciation grows strong in him.
+
+**137.** Such is the way of one to whom Chaitanya is merciful;
+now I will write of how he journeyed to Vrindavana.
+
+**138.** All day long he makes no effort to eat;
+he eats only after two or three days of fasting.
+
+**139.** From walking along the road great sores came up on his feet;
+he lies beneath a tree, unconscious:
+
+**140.** "My journey to Vrindavana has not succeeded;
+I have not seen the feet of Prabhu Lokanatha!"
+
+**141.** So saying, he remained lying beneath the tree;
+crying "Prabhu Lokanatha!", he was distraught:
+
+**142.** "Where is Prabhu Gaura-raya? I cannot see him.[^10-24]
+What will become of me, where shall I go?
+
+**143.** I shall not see Prabhu Rupa and Sanatana with my eyes;
+who knows the sorrow of my heart?
+
+**144.** Hearing [of them], longing arose — but where shall I find them?
+I do not know what I shall gain or lose, what will become of me."
+
+**145.** Now hear of Narottama's condition:
+beneath the tree the waves of prema rose up.
+
+**146.** Who could tell of all the separation he felt?
+On hearing it the heart breaks and finds no footing.
+
+**147.** [There came] a golden brahmana with a pot of milk:
+"Narottama, drink this milk.
+
+**148.** Come, dear Narottama, drink this milk:
+your sores will heal, and you will go on your way with ease."
+
+**149.** Leaving the milk, that brahmana vanished,
+and [Narottama], worn out by the journey, fell into a deep sleep.
+
+**150.** At the end of the night both Sanatana and Rupa came;
+laying a hand on his breast, they say: "All your troubles are over.
+
+**151.** Listen, listen, Narottama, drink the milk:
+Sri Chaitanya Prabhu himself came and gave you the milk.
+
+**152.** We two brothers have come to see you;
+come, come, Narottama, let us go to Vrindavana.
+
+**153.** Gauranga himself brought you the milk:
+seeing your exhaustion and pain from the road, he showed great mercy."
+
+**154.** At this Narottama came to his senses,
+and in separation from the three he wept much.
+
+**155.** "Ah, ah, Gauranga! Where are Rupa and Sanatana?" —
+rolling on the ground he weeps, his mind overpowered.
+
+**156.** How much can I tell of his weeping and sobbing at that time!
+Who has the power to describe his condition then?
+
+**157.** Seeing his distress, Rupa was moved;
+unable to bear it, the two came near him.
+
+**158.** By the fragrance of their bodies he obtained their visible presence;
+looking around, his heart was choked with emotion.
+
+**159.** Their two bodies surpass the lustre of gold;
+the sacred thread shines on their shoulders, their lips are red.
+
+**160.** What rows of teeth! Their smile is a heap of nectar;
+on their heads a very fine shikha; they speak with a smile.
+
+**161.** A lovely tilaka shines on their foreheads;
+necklaces of tulasi beads adorn their necks.
+
+**162.** The two brothers count Hari-nama on the fingers of both hands
+and from time to time call out: "Prabhu Chaitanya Gosani!"
+
+**163.** Thus [Narottama] saw them beneath the tree.
+"Listen, listen, Narottama," they say, and tell him something:
+
+**164.** "This childhood age is no time for renunciation,
+yet the Prabhu's mercy upon you is boundless.
+
+**165.** You, a prince, have never known a trace of sorrow;
+in leaving home the body suffers great hardship.
+
+**166.** You go alone along paths through mountains and caves —
+know that this is how Mahaprabhu's mercy comes.
+
+**167.** Do not worry — rise, dear one, go to Vrindavana;
+knowing your heart, he showed himself to you for this.
+
+**168.** The Prabhu has placed prema within you;[^10-25]
+with it you will flood the whole world.
+
+**169.** In it many chandalas and yavanas will float;
+your followers will cover the whole earth.[^10-26]
+
+**170.** The two Prabhus appeared in Gauda
+and filled the world with the play of prema.
+
+**171.** For the sake of their play they are two — yet are they not one life?
+Know for certain that there is proof of this.
+
+**172.** In this his mercy is mighty;
+he carefully made it known to his own and to others.
+
+**173.** We two brothers — what wretched fools we are!
+yet he implanted his own power in us."
+
+**174.** Sanatana says: "Listen, Narottama:
+in the two bodies he is one and the same life.
+
+**175.** In the same way Narottama and Srinivasa:
+when the Prabhu became unmanifest, you two appeared."
+
+**176.** Hearing these words, Narottama gazes at their faces,
+humbly offers praises and prostrates himself.
+
+**177.** He weeps bitterly and rolls on the ground;
+the two placed their feet on Narottama's head.
+
+**178.** Thus I have told of Narottama's journey
+and the vision he received on the way beneath the tree.
+
+**179.** How Sanatana and Rupa showed him mercy —
+this I have described by my Prabhu's command.
+
+**180.** Whoever hears this with faith
+will soon attain the feet of Radha and Krishna.
+
+**181.** One to whom Gauranga himself is merciful
+abandons worldly life, and renunciation is born in his heart.
+
+**182.** [One to whom] Rupa and Sanatana show deep mercy
+has his heart's desire fulfilled and his heart full of joy.
+
+**183.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the tenth vilasa of the Prema-vilasa.*
+
+[^10-1]: Ramachandra Kaviraja, the closest companion and disciple of Srinivasa Acharya.
+[^10-2]: Annaprashana, the rite of a child's first feeding with rice.
+[^10-3]: Apparently the local ruler, overlord of Narottama's father; below (98) he is called a jagirdar.
+[^10-4]: "hāte khaṛi", the rite of beginning to learn letters: chalk (or a slate pencil) is put into the child's hand and he is taught to write his first letters.
+[^10-5]: A variant given in the 1913 edition: "to him you will hand over prema, my deposit".
+[^10-6]: The first line of the couplet is found only in the 1913 edition.
+[^10-7]: An allusion to the turbulent and changeable nature of the river Padma, which often shifts its course and erodes its banks.
+[^10-8]: Chaitanya and Nityananda.
+[^10-9]: The second line of the couplet, as well as couplets 44 and 45, are found only in the 1913 edition.
+[^10-10]: A baul, a wandering mystic singer, a "madman" of divine love.
+[^10-11]: A variant given in the 1913 edition: "now it trembles with bristling hair, now he breathes heavily".
+[^10-12]: The first line of the couplet is found only in the 1913 edition; who "came to his senses" — Narottama or the parents — is unclear from the text.
+[^10-13]: Naru, Narai: diminutive names of Narottama.
+[^10-14]: "mālasāṭa", slapping the arms or thighs with the palms, a wrestler's gesture of challenge; here a sign of frenzy.
+[^10-15]: An ojha, an exorcist who drives out spirits, a village healer.
+[^10-16]: "mahā-vāyu": in Ayurveda a disorder of "wind" (vata), to which madness was attributed.
+[^10-17]: Shiva-ghrita, ghee prepared with jackal's flesh ("shiva", jackal), a remedy for madness.
+[^10-18]: So in the 1913 edition; the 1999 edition has: "we will go off as beggars, leaving house and home".
+[^10-19]: The line is broken off in the 1913 edition ("e kāle jāgiradārera eka …") and lost in the 1999 edition. "Horseman" (āśoẏāra) is restored from couplet 102. A jagirdar is the holder of a land grant (jagir).
+[^10-20]: The words apparently belong to the mother; another reading is possible: this is Narottama's own thought.
+[^10-21]: The second line is corrupt ("yāiteī cāi āmi rāja barādhari"); the translation is conjectural.
+[^10-22]: Following the 1999 edition ("pāila nā phirila"); the 1913 edition has "nā pāila nā phirila", "they did not find him and came back".
+[^10-23]: Rani, "queen", i.e. Narottama's mother as the wife of a lord. In the 1913 edition the couplet is enclosed in brackets.
+[^10-24]: A variant given in the 1913 edition: "And the Prabhu, the lord of Vraja, I cannot see."
+[^10-25]: Literally "in your belly", an allusion to Narottama's having eaten prema (see 37).
+[^10-26]: A variant given in the 1913 edition: "your followers will deliver (fill) the earth".
+
+---
+
+# Vilasa 11. Narottama in Vrindavana: Initiation by Lokanatha
+
+*Narottama's journey through Varanasi and Prayaga to Mathura; in a dream Rupa bids Jiva bring him; the meeting with Lokanatha and the talk on the need for a guru; a year of Hari-nama and Narottama's secret service to his guru; initiation; Lokanatha's teachings on sadhana; Radha grants Narottama a service and the name Champaka Manjari; the burned hand*
+
+**1.** Glory, glory to Sri Chaitanya, glory to the Merciful One!
+Glory, glory to Nityananda, whose heart is full of compassion!
+
+**2.** Glory, glory to Sri Jahnava, glory to Virachandra!
+Glory, glory to all who are bound to their mercy!
+
+**3.** Glory to Srinivasa, glory, glory to Narottama!
+Only by great fortune is shelter at their feet obtained.
+
+**4.** [Rupa and Sanatana] commanded: "Leave your grief, go to Madhupuri;[^11-1]
+go and see the sweetness of Lokanatha's feet."
+
+**5.** Thus I have told of the vision of the two brothers;
+this meeting on the road made the whole journey auspicious.
+
+**6.** "In Vrindavana you will find joy — do not delay;
+at Radha-kunda bow down to the feet of Raghunatha.
+
+**7.** Take shelter at the feet of Lokanatha Gosani:
+whoever takes his shelter attains every perfection."
+
+**8.** At that time [he met] five or six Gaudiya Vaishnavas;
+on the road they questioned him and he became acquainted with them all.
+
+**9.** They say: "Let us go together — why do you weep on the road?"
+And, his heart overflowing with prema, he went along with them.[^11-2]
+
+**10.** With joy in his heart he goes in the company of the vairagis;
+the sores on his feet healed, and he walks along slowly.
+
+**11.** He had heard that the Prabhu had come to Varanasi:
+"I shall surely go to see that place.
+
+**12.** All the more since it is on the way: if I do not see it,
+I may commit an offence by neglecting it.
+
+**13.** The Prabhu went there, and it is an abode of great souls;
+whoever becomes acquainted with them there obtains Krishna-bhakti."
+
+**14.** Having crossed over, he first went to Rajghat —
+the ghat from which the road leads to Vishveshvara.[^11-3]
+
+**15.** He carefully performed the circumambulation, obeisances and the rest,
+and from there he went northward.
+
+**16.** To the left of the ghat stands a most charming house;
+seeing it with his eyes, he rejoiced at heart.
+
+**17.** A house with its gate facing east, a tulasi altar on the left;
+seeing Sanatana's place,[^11-4] he bowed down.
+
+**18.** Going inside the dwelling, he saw
+an old Vaishnava sitting and performing sadhana.
+
+**19.** Seeing him with his eyes, [Narottama] prostrated himself;
+"Come, come!" said the other, and his heart rejoiced.
+
+**20.** Rising, he came, returned the obeisance and embraced [the guest],
+brought water and offered it to him to wash his feet.
+
+**21.** Narottama says: "Whatever you command;
+if I drink your water, bhakti will arise in me."[^11-5]
+
+**22.** That mahashaya asked: "Tell me, where is your home?
+Seeing you, my heart is filled with gladness."
+
+**23.** "My name is Narottama, I live in Garerhat;
+to see Vrindavana — that is my hope.
+
+**24.** It has been fulfilled — I have seen you."
+["]Be so kind as to eat something here.["]
+
+**25.** After a while, having eaten and sitting together,
+the other, smiling, tells him about himself:
+
+**26.** "Sri Chandrashekhara Acharya[^11-6] is my master;
+by his command I serve steadfastly at this place."
+
+**27.** There he spent [the day] in the rasa of talks about Krishna;
+he lay down to sleep, and the night came to its end.
+
+**28.** Then he took leave of him
+and, remembering [him] in his heart, went on his way.
+
+**29.** At Prayaga he bathed, deeming it great good fortune;
+staying there, he spent that night.
+
+**30.** Going on little by little, he came to Mathura;
+having seen Bhuteshvara,[^11-7] he went on to the gate of Keshava-raya.
+
+**31.** With his own eyes he saw Sri Krishna's birthplace;
+tears flow in a hundred streams, no words come from his lips.
+
+**32.** Having bathed at [the] Vishrama [ghat], he stayed in the town.
+Meanwhile in Vrindavana a command came [to Jiva] from Sri Rupa in a dream:
+
+**33.** "Listen, listen, Jiva: I am sending someone;
+he lives in Garerhat, his name is Narottama.
+
+**34.** With love entrust him to Lokanatha;
+since yesterday he has been at [the] Vishranti [ghat] in Mathura."
+
+**35.** On waking, [Jiva] rejoiced in his heart
+and gave a command to the Vaishnavas with him:
+
+**36.** "Go and bring Narottama from Mathura;
+do not delay — bring him quickly."
+
+**37.** They all came to Vishranti and bathed;
+at that very ghat, at that very spot, they found him:
+
+**38.** "Come quickly, do not delay any longer;
+you will come here again and bathe at the ghat."
+
+**39.** "As you command," he said, and went with them in haste,
+anxious with prema to see the temple of Govinda.
+
+**40.** Seeing the beauty of the temple, his prema surged up;
+crying "O Govinda!", he fell into a deep swoon.
+
+**41.** Seeing his ecstasy, Sri Jiva Gosani
+went to Lokanatha Gosani and told him everything:
+
+**42.** "Come quickly, Gosani, I will go with you;
+in this body I see such waves of emotion!
+
+**43.** He is so young, yet such is his renunciation;
+a mighty bhava has manifestly appeared in him.
+
+**44.** Such beauty of form — what a golden body!
+His body sways with waves of prema.
+
+**45.** My master commanded me to bring him,
+and I have brought him from the Vishranti ghat.
+
+**46.** Gauranga is merciful, gathering all worthy vessels;
+I count such company my good fortune."
+
+**47.** The Gosani [Jiva] came, bringing Lokanatha with him,
+and the Gosani saw Narottama lying [senseless].
+
+**48.** Seeing his great prema, the Gosani sat down beside him
+and asks the Vaishnavas: "Which one is named Narottama?"
+
+**49.** "Here, see — Narottama, lying on the ground."
+"Good," he said, and himself laid his hand on his breast.
+
+**50.** At the touch of his hand Narottama came to his senses;
+Narottama clasped the feet of his own master.
+
+**51.** With tears in his eyes the Gosani took him in his arms;
+receiving his touch, Narottama was overwhelmed with joy.
+
+**52.** "I saw in a dream that you would come today;
+meeting you, a blind man has received eyes.
+
+**53.** In his mercy Chaitanya has sent you:
+he has brought a treasure and given it to a poor man."[^11-8]
+
+**54.** Taking him by the hand, they led him to the temple of Govinda,
+and Jiva Gosani, holding his hand, entrusted him [to Lokanatha].
+
+**55.** Seeing his natural prema, [Lokanatha] was filled with mercy:
+"Without effort Providence has brought me a jewel."
+
+**56.** Taking him by the hand, he showed him Govinda;
+seeing Govinda's face, [Narottama] lost consciousness.
+
+**57.** Supporting him, [Lokanatha] took him to his own kunja;
+at the sight of his guru prema rose in him wave upon wave.
+
+**58.** At this time Govinda's command came;[^11-9]
+[Lokanatha] took Narottama with him to partake of prasada.
+
+**59.** Seeing his renunciation, the Gosani asked him about everything,
+and Narottama told him everything from beginning to end:
+
+**60.** "A golden child entered my heart;
+by his power I saw the feet of Sri Rupa.
+
+**61.** I am still without shelter[^11-10] — how can I sit with you?
+How can I sit together [with you] and partake of prasada?"
+
+**62.** Having heard everything, the Gosani smiled
+and once more asked him something:
+
+**63.** "You yourself said: a golden child —
+you saw him directly with your own eyes.
+
+**64.** He himself entered your heart;
+he is the guru of the world, and you want to take a guru?
+
+**65.** Attend: Chaitanya himself in the form of prema
+has bestowed that prema on your heart.
+
+**66.** That prema for which all perform bhajana —
+I have understood its cause in your heart.
+
+**67.** What need do you have to take a guru?
+That which is to be attained is in your heart.
+
+**68.** Is there any limit to it, listen, Narottama?
+Without and within you have such a treasure of prema.
+
+**69.** With that mercy, with that prema, you have come to Vrindavana;
+what need have you of a guru's work, of the goal and its fruit?
+
+**70.** In whose heart he dwells day and night,
+what is there left for him that he has not obtained?
+
+**71.** By that mercy you have seen Govinda;
+his command came — and you partook of prasada."
+
+**72.** Narottama says: "Prabhu, I am most wretched;
+only your command is wise.
+
+**73.** To speak before you, Prabhu, I am afraid at heart;
+I will make my request once more, if you permit."
+
+**74.** "Tell me, dear one, what have you to say?"
+Prostrating himself, [Narottama] set forth everything:
+
+**75.** "Chaitanya himself descended in the Kali age[^11-11]
+and delivered all — chandalas, yavanas and the rest.
+
+**76.** He is the guru of the world, all people serve him,
+and yet he established the proper order.
+
+**77.** He himself established the law of [accepting] a guru,
+and likewise all his companions, the whole circle of the Prabhu.
+
+**78.** By whatever command the guru instructs the disciple,
+in accordance with his word the disciple attains what is to be attained.
+
+**79.** I have no guru's command — what can I say?
+How shall I ever know what is to be done and what is not?
+
+**80.** What can I, worthless one, say in the Prabhu's presence?
+I have not even the worthiness to make a request.
+
+**81.** That prema, that child which are in my heart —
+when Mahaprabhu's command comes, then all will be fulfilled."
+
+**82.** Having heard everything, the Gosani smiled
+and, filled with mercy, the Gosani told him everything [in reply].
+
+**83.** [Narottama said:] "Even to sit in the same place [with you] I am very much afraid:
+I am not worthy to sit with the Prabhu."
+
+**84.** Seeing Narottama, all were glad at heart,
+and to help him they all entreat [Lokanatha]:
+
+**85.** "In Vrindavana there is no proper or improper time for giving a mantra;
+quickly give the mantra into Narottama's ear."
+
+**86.** Lokanatha says: "A command alone will not do:
+the injunction of the shastras has fixed [a term] of one year.
+
+**87.** I will give Hari-nama into his ear, since he wishes to sit [with us]" —
+and he began to say: "Hare Krishna, Hare Krishna…"
+
+**88.** "Krishna's name, dear one, holds great power;
+if attachment to it arises, you will surely obtain everything."
+
+**89.** [So] a year passed for Narottama in Hari-nama;
+having given [him] Hari-nama, [Lokanatha] partook of prasada [with him].
+
+**90.** I will tell of this more fully — listen attentively:
+I will explain in detail what a guru must be and what a disciple.
+
+**91.** On hearing this, be attentive at heart;
+if anyone acts so, he is fortunate.
+
+**92.** Taking Narottama inside, the Gosani speaks to him —
+[and] only one who knows the heart of it understands this:
+
+**93.** "There is Mahaprabhu's command concerning Hari-nama:
+for the protection of living beings it is to be given now.
+
+**94.** Wandering through many bodies, a living being obtains a human body;
+to protect it, a great medicine is needed.
+
+**95.** In other bodies, one after another, are the being's sin, suffering and disease,
+and there is no means there that destroys them.
+
+**96.** All the sins and sufferings it undergoes from birth to birth —
+and in forgetfulness the being does not know itself.
+
+**97.** Having obtained a human body, it must remedy all this [by sadhana];
+if it does not, it will receive such bodies again.
+
+**98.** Such a disease Krishna removes in the form of a devotee:
+when he gives Krishna's name, he is in the form of the guru.
+
+**99.** This [teaching] on guru and disciple is in the shastras;
+whoever knows it surely acts upon it.
+
+**100.** If one does not act so, the shastra becomes an empty repetition of words;[^11-12]
+for this reason Krishna's grace does not come to such a one.
+
+**101.** In the form of Krishna he preaches through the shastras;
+[the disciple] must weigh the words of one who is a true guru.
+
+**102.** For a year [the disciple] will observe the guru's nature
+and, gaining faith in his heart, will understand his greatness.
+
+**103.** Carefully observing what the guru does,
+he will serve continually as is fitting.
+
+**104.** The guru, for his part, will understand the disciple's conduct
+and judge in his mind whether he is worthy or unworthy.
+
+**105.** [The disciple] will practise Hari-nama, always staying with the guru,
+and will long in every way for the company of Vaishnavas.
+
+**106.** The disciple must know this, making his attachment firm in his heart;
+otherwise how will all the being's evil-mindedness go?
+
+**107.** Practising the great mantra Hare Krishna day and night,
+he feels: 'When will the Prabhu's mercy come — after an entire yuga?'[^11-13]
+
+**108.** When the longing grows stronger, the guru shows mercy;
+only a few people can understand this.
+
+**109.** Understanding the disciple's heart, the guru [imparts] what is confided in trust;
+without worthiness there will be no mercy at all.
+
+**110.** This is the ancient word, listen, Narottama;
+this is the reason why Krishna's mercy does not arise [in some].
+
+**111.** The Gosvamis do not permit taking many disciples;
+in this there is purity — listen attentively.
+
+**112.** If one takes two or four disciples, prema bears fruit;
+if one takes many, everything becomes fruitless.[^11-14]
+
+**113.** What I have told you, listen to carefully;
+and how many more accounts of it there are![^11-15]
+
+**114.** Krishna's name, dear one, bears the fruit of prema;
+if attachment to it arises, you will surely obtain everything."
+
+**115.** [So] a year passed for Narottama in Hari-nama;
+from then on he performed this sadhana day and night.
+
+**116.** Two hundred thousand names were his sadhana, sitting in seclusion;
+he chants the names by count, staying awake at night as well.[^11-16]
+
+**117.** In the morning he comes, bows down and offers praises,
+and, standing, contemplates the form [of his guru] with his eyes.
+
+**118.** "Narottama, are you well?" [Lokanatha] asks.
+"I am at ease — such is the power of [your] feet."
+
+**119.** "Good, good," says the Gosani, and smiles to himself.
+Prostrating himself, [Narottama] says: "This is my request:
+
+**120.** whatever you command — you know my heart."
+In this way he constantly comes and goes.[^11-17]
+
+**121.** Sometimes he comes at mealtime
+and, receiving the remnants from [his guru's] plate, sits in seclusion.
+
+**122.** Sometimes he serves his feet;
+whatever command is given, he listens to it.
+
+**123.** Sometimes he goes to see the places of Vrindavana
+and prostrates himself where Krishna's pastimes took place.
+
+**124.** Sometimes he converses with Sri Jiva;
+hearing of Krishna's pastimes, his heart is swept away in prema.
+
+**125.** And there was one more sadhana that Narottama performed:
+at the end of the night he made this service his rule.
+
+**126.** The place where Gosani-ji goes to relieve himself[^11-18] —
+there he goes and cleans it thoroughly.
+
+**127.** For [his guru's] cleansing he sifts earth and brings it;
+day after day he performs this service.
+
+**128.** The Gosani says: "Who is it that does this?
+I do not understand for what reason he does it."
+
+**129.** Narottama goes there at such a time
+when no one at all is at that place.
+
+**130.** He keeps a broom buried in the earth;
+taking it out, he serves with joy in his heart.
+
+**131.** He considers himself blessed, his body fulfilled:
+"To obtain the Prabhu's feet — this is my strength!"
+
+**132.** As he speaks, he weeps, pressing the broom to his breast;
+five or seven streams flow, drenching his breast:
+
+**133.** "Prabhu Lokanatha is Narottama's life!
+By the good fortune of many births I have obtained your feet."
+
+**134.** The Gosani, astonished, ponders in his mind:
+"How am I to know whose doing this is?"
+
+**135.** In this way he deliberates within himself:
+"Whom shall I ask? Who does such a thing?"
+
+**136.** Hear, then, of Narottama's sadhana:
+whoever hears this will be utterly astonished.
+
+**137.** Such a thing is seen nowhere, nor heard of anywhere else —
+who else will have such love for his guru?
+
+**138.** Thus he performs sadhana and service day after day;
+to the feet of such a Narottama, a thousand obeisances.
+
+**139.** While he thus served day after day,
+the Gosani says: "I must certainly find out [who it is]."
+
+**140.** From Vaishakha to Vaishakha a year went by;
+then the Gosani made a decision in his mind:
+
+**141.** "When six dandas[^11-19] of the night remain,
+at that time I will go out to relieve myself.
+
+**142.** Then I will find out who does this;
+otherwise this pain of heart is unbearable.
+
+**143.** In separation from Sri Rupa my heart has lost all its zest,
+and on top of that, such an offence in Vrindavana![^11-20]
+
+**144.** Is there some Vrajavasi who does such a thing?
+To tell people — I would be ashamed.
+
+**145.** [Otherwise] what can I do? What remedy is there?" —
+thus the Gosani's days pass in sorrow of heart.
+
+**146.** After that Narottama came for darshana;
+he prostrated himself, and the Gosani asked him something:
+
+**147.** "Are you well, Narottama? Tell me, let me hear."
+"All perfection is the Prabhu's mercy — this I know."
+
+**148.** "I am ashamed to say it — it cannot be spoken" —
+and, with a wry smile, the Gosani sighs deeply: "Alas, alas!"
+
+**149.** Narottama bowed and took his leave;
+he constantly chants two hundred thousand names by count.
+
+**150.** The next day the Gosani went out to relieve himself
+when six dandas of the night remained.
+
+**151.** At that time Narottama was at that very place:
+he was sweeping, and the Gosani stood behind him.
+
+**152.** Narottama stands before him, the broom pressed to his breast;
+"Who are you? Who are you?" [the Gosani] began to ask.
+
+**153.** Narottama says: "Prabhu, I am but the semblance of a servant;
+I have placed my hope in your two lotus feet."
+
+**154.** The Gosani says: "Narottama, you do such work!
+It pains me greatly, dear one — stop all this."
+
+**155.** Narottama says: "By good fortune is such service obtained;
+show me such mercy that my mind turns to nothing else."
+
+**156.** So saying, the Gosani sat down to relieve himself,
+and Narottama remained at that place all the while.
+
+**157.** Rising, [the Gosani] comes and calls: "Narottama Dasa!"
+With folded hands he stood before him, his heart rejoicing.
+
+**158.** "Bring earth, bring water — quickly!"
+Bringing earth, he also brought [a vessel] full of water.
+
+**159.** With both hands he offers the earth and pours the water;
+obtaining service directly, he was filled with strength.
+
+**160.** With joined palms Narottama prostrates himself,
+and [the Gosani], raising his foot, placed it on his head.
+
+**161.** The Gosani says: "Narottama, go and bathe" —
+and he bathed joyfully in the Yamuna.
+
+**162.** Having bathed joyfully and gaily in the Yamuna,
+the Gosani goes to his kunja, and this one goes with him.
+
+**163.** Narottama washed his feet with his own hands;
+the Gosani sat down on his seat to perform remembrance.
+
+**164.** He applied tilaka and recited hymns with deep feeling,
+prostrating himself again and again, with joy in his heart.
+
+**165.** Narottama is sitting in the kunja;
+[the Gosani] called: "Come, dear one, come into this hut!"
+
+**166.** Then he prostrated himself and bowed many times;
+calling him, [the Gosani] took him into his presence, and he offered many praises.
+
+**167.** [The Gosani] had tulasi, sandal paste and flower garlands brought,
+kunkuma, musk and [all things] for adornment.[^11-21]
+
+**168.** "Sit on the left side, dear one, listen to my words:
+clasp [my] two feet and surrender yourself.
+
+**169.** In a temple of jewels, in the midst of a jewelled throne,
+shines Sri Nanda-nandana, and on his left, Radhika.
+
+**170.** Make Sri Vilasa Manjari your own self —
+Vilasa Manjari, the attendant of Manjulali.[^11-22]
+
+**171.** On Krishna's left are Lalita and the others in their circle;
+on Radhika's left remember the manjaris.
+
+**172.** Place garlands and sandal on the breasts of Radha and Krishna,
+anoint their bodies with kunkuma and musk.
+
+**173.** Worship the sakhis one by one."
+And he entrusted him into the hands of the sakhis:
+
+**174.** "Vilasa Manjari is the attendant of you all" —
+so he entrusted her to the sakhi who is in the form of the guru.
+
+**175.** Having him wash his hands, he made him receive the mantra:
+first he made him hear the mantra of Radha and Krishna;[^11-23]
+
+**176.** with great care he made him hear the kama-bija,[^11-24]
+and afterwards, sitting, he explained everything in detail:
+
+**177.** "Go and bow down to Sri Jiva Gosani;
+ask him to accept you."
+
+**178.** Having washed his hands, Narottama goes outside,
+offering entreaties and prostrating himself many times.
+
+**179.** Calling him, [the Gosani] showed him mercy — placed his feet on his head;
+with joy in his heart the Gosani gave him charanamrita.[^11-25]
+
+**180.** Narottama goes to Sri Jiva Gosani;
+going there, he prostrated himself, bowed down and offered praises.
+
+**181.** [Jiva] showed him great mercy, embraced him,
+and, smiling, says: "Come, Narottama!"
+
+**182.** With great love the Gosani seated him beside himself
+and, glad at heart, asks him questions.
+
+**183.** "My heart's wish is fulfilled, what I longed for is accomplished:
+all perfection comes by relying on your mercy.
+
+**184.** Protect me, Gosani, by giving me your own strength;
+what more can I say — everything has been fulfilled."
+
+**185.** Then he went back to his own Gosani;
+the Gosani [at that time] was eating and saw him:
+
+**186.** "Come, come, Narottama, sit here" —
+and, filled with mercy, he gave him the remnants from his plate.
+
+**187.** Thus I have told of Narottama's initiation into the mantra;
+later I will tell of the Gosani's teachings on dharma.
+
+**188.** Of the worship and the manner of sadhana that he performed
+I, a sinner, write, bowing down.
+
+**189.** Whoever hears this even once with his own ears,
+to him the entourage of Radha and Krishna will show mercy.
+
+**190.** And of one who practises this sadhana and bhajana,
+what can I say by writing?
+
+**191.** This is truly the most secret worship;
+how many people are indifferent to it!
+
+**192.** From those turned outward this must be kept hidden;
+speak of it [only] to one who is such [himself].
+
+**193.** In the morning Narottama came to the Gosvami
+and, bowing down, makes a request:
+
+**194.** "What shall I ask, Prabhu — about the manner of worship?
+Be merciful, Prabhu, give me bhakti [as it is held] in the sampradaya."
+
+**195.** "Sit down, dear Narottama, I will tell you of the worship:
+how to contemplate Radha and Krishna in the mind.
+
+**196.** Sadhana is twofold — in the siddha body and in the sadhaka body;
+I will tell it in order — listen.
+
+**197.** The chief [object] of sadhana is Krishna in a body [playing] human pastimes;
+the measure of his age is up to sixteen years.
+
+**198.** Such is the established kind of sadhana;
+[in it] Radha and the host of sakhis appear as mature.[^11-26]
+
+**199.** The highest of the dearest sakhis are Lalita and Vishakha;
+the host of manjaris excels [them] in service.
+
+**200.** They are called sakhis, but think of themselves as maidservants;
+I will write down together the list of their names:
+
+**201.** Sri Rupa, Lavanga, Rati, Rasa, Guna,
+Manjulali and others — such are their names.
+
+**202.** Know the position of the sakhis in the places of the pastimes:
+this is what is to be done, this is what to long for, this is what is attained.
+
+**203.** Nandishvara, Javata, Sanketa, Varshana,
+the kundas, the kunjas, [the places of] the rasa — know all these places.
+
+**204.** Knowing the time of each of the eternal pastimes,
+serve, understanding to whose group you belong.
+
+**205.** Coming and going with the sakhi [who is] the guru's form,
+understanding her signs, serve with eager longing."
+
+**206.** Narottama says: "Prabhu, this is my request:
+how am I to understand this teaching on the sadhaka?"
+
+**207.** "Dwelling [in the mind] in the time [of the pastimes] in accordance with the mood,
+know within yourself both remembrance and service."
+
+**208.** "I will serve, dwelling together with the sakhi;
+in what place, knowing which part [of the rite], shall I chant the mantra?"
+
+**209.** "Fixing your eyes on the window of the kunja,
+chant the mantra while gazing on [the form of] the one whose mantra it is."
+
+**210.** "At what time should the kama-bija be chanted?
+Explain in detail, Prabhu — hear me, O merciful one."
+
+**211.** "Know that the kama-bija is enchantment;
+by the sweetness of the mantra [Krishna] will be subdued everywhere.
+
+**212.** Chanting the mantra, gaze on each one in turn;
+in it the enchantment is revealed.
+
+**213.** When Radha and Krishna lie down at the time of love,
+at that time remember this mantra.
+
+**214.** Thus I have told you of this — listen;
+and whatever more there is, I will tell in due order.
+
+**215.** All the sakhis are entitled to serve the Samartha;[^11-27]
+take their shelter, following them.
+
+**216.** One who has taken [their] shelter in every way,
+wherever they dwell, will abide there.
+
+**217.** They are all to be known as ragatmika;
+consider [thus]: they alone are my shelter.
+
+**218.** Know the two groups — of Radha and of Chandravali;
+by nature [they are] dakshina and vama.[^11-28]
+
+**219.** Know Chandravali in your mind as dakshina, harsh,
+and Radha as vama, gentle: this is [our] longing.
+
+**220.** Know the sakhis of Radhika
+and understand their fivefold nature, [expressed] in their names.[^11-29]
+
+**221.** Know in your mind who has what entitlement [to service];
+by relying on them, [one gains] love for Radha and Krishna."
+
+**222.** "They alone are my shelter — such is [my] understanding;
+be merciful, Prabhu, tell [me more], for I am a sinner.[^11-30]
+
+**223.** How much mercy you have shown me, a worthless being!
+Such discourse is found nowhere else.
+
+**224.** A thought has arisen in my mind;
+I will put it before you, if you permit.
+
+**225.** From the mantra you first graciously gave me[^11-31]
+I understood in my heart the separation of Krishna and Radha.
+
+**226.** What service should be done at the time of separation?
+Let a command be given me for each one separately.
+
+**227.** [Krishna] goes home with his companions to Nandishvara,
+[while Radha] goes from the kunda to Vrishabhanu's house.
+
+**228.** Thus I have understood the course of separation from Krishna;
+on this my mind shall dwell day and night.
+
+**229.** How am I to serve, contemplating this in my heart?
+Let a command be given me for each one separately.
+
+**230.** This I have laid before you;
+be merciful, tell me, that [it] may shine forth in my heart."
+
+**231.** "Ah, dear Narottama, if this is not known,
+what worship is there, what attainment? I will tell you in private.
+
+**232.** In separation from Krishna, Radha's heart grieves,
+and all the sakhis [tell] of Krishna's pastimes with deep feeling.
+
+**233.** To calm her heart they speak of his beauty and virtues,
+of where he stays and what he does there.
+
+**234.** Then joy is born in Radha's heart;
+know in your heart with whom [among the sakhis] you dwell."
+
+**235.** "By what means, then, shall I serve?
+Tell me about this, Prabhu, by your merciful command."
+
+**236.** "When Radhika stays with the master of the house,[^11-32]
+then serve her the more.
+
+**237.** When they are together, having met,
+the sakhis serve with joyful hearts.
+
+**238.** So contemplate, [in keeping with] the nature of [your] body;
+if one does not do this, an obstacle arises.
+
+**239.** Thus in the group [of sakhis] the longing for service is gained,
+the hope [to offer] kunkuma and the rest, water and sandal, and to behold [it all].
+
+**240.** Whoever hears all this will know it by experience:
+all these are the acts of a body made of ragatmika.
+
+**241.** For attaining that body are all these means;
+know that Sri Rupa has written of them in [his] book.
+
+**242.** Now I will tell of the way of parakiya and svakiya,[^11-33]
+and point out the places where they dwell.
+
+**243.** Parakiya is Radha, among the sakhis;
+all those of the svakiya [circle] are beyond Vrindavana.
+
+**244.** Satyabhama and the other queens —
+in them svakiya is complete; know this and praise it.
+
+**245.** My way is the way of parakiya;[^11-34]
+you, following the sakhis, taste this.
+
+**246.** The body made of contemplation is the way of taking shelter in bhava;
+when all that is perfected, that [siddha] body is attained.
+
+**247.** Ah, Narottama, I tell you of sadhana:
+make your mind enter into it completely.
+
+**248.** Some consider Vrindavana to be Goloka,
+others think it equal to Dvaraka and the rest.
+
+**249.** They take shelter of one thing, and something else is attained:
+they do not listen to Sri Rupa's books or come to understand them.
+
+**250.** Know this for certain through the shastras:
+by doing what, one gains what, who goes where."
+
+**251.** "I am afraid to petition you again and again
+[about all] that concerns the mantra, the worship and the name…"
+
+**252.** "To one who asks with an aching heart, everything is attainable;
+why should you be afraid to ask?
+
+**253.** I will teach you everything — stay in Vrindavana;
+I will plant this [in you] so that it may spread.
+
+**254.** Who knows such worship, such dharma?
+Who in all the world discusses it?
+
+**255.** Prema has arisen in your heart;
+it is what makes you speak such words, I think.
+
+**256.** Hear about the mantra — the essence of [all] the parts of sadhana;
+sit and hear all that there is besides.
+
+**257.** Hear the kama-gayatri — there is no bija in it;
+I will also tell of the two fivefold names, how they are used.[^11-35]
+
+**258.** To one who has heard this I will tell of sadhana,
+of what is to be done and not done, and of all the rules.
+
+**259.** I will tell of ashraya, alambana and uddipana,[^11-36]
+of what is attainable and unattainable, of causes and non-causes.
+
+**260.** [I will tell of] the siddha body made of contemplation, and of the parts of sadhana,
+and the manner in which it manifests.
+
+**261.** Taking shelter in Krishna, one abandons the karma that is the cause [of bondage] —
+one whose way is exclusive refuge [in him].
+
+**262.** If one does not act so, [that body] does not manifest;
+through association with [people] given to karma[^11-37] all this is destroyed.
+
+**263.** The eternally perfect body [that follows] raga —
+when one performs sadhana, it is, as it were, nourished.
+
+**264.** Taking shelter at the guru's feet and all the rest —
+the sixty-four parts [of sadhana], in all their sections.
+
+**265.** As the body gains strength by eating,
+so [sadhana] makes the siddha body strong.
+
+**266.** One who has no strength in the sadhaka body
+is without support — nothing awakens in him."
+
+**267.** "I have a request, Prabhu — forgive my offence:
+I greatly wish to hear from your holy lips.
+
+**268.** You yourself, Prabhu, spoke of raga and vaidhi;
+the sixty-four parts are vaidhi — for what reason?"
+
+**269.** "You have asked well, dear one, listen further:
+when there is doubt, one cannot perform sadhana.
+
+**270.** One who performs sadhana out of fear of the shastras [that prescribe] good and evil —
+of him, as the Gosani writes, it is said: [his way] is vaidhi.
+
+**271.** Mahaprabhu infused his power into Rupa,
+and by that command he propagated the shastra on sadhana.
+
+**272.** He sent the Prabhu this essence of the book
+and in a letter set out the discrimination of the essential and the inessential.
+
+**273.** Taking the book and the letter, a man went to Purushottama;
+hearing [of them], the Prabhu rejoiced at heart.[^11-38]
+
+**274.** He called Ramananda and Svarupa and gathered them together:
+'A letter has been sent from Vrindavana.
+
+**275.** See, O two great souls: he has written a book —
+what is attainable and what is not.'
+
+**276.** 'As you command,' said the two, and took the book on their laps,
+and on seeing the book they read it, overwhelmed with joy.
+
+**277.** From that day all perform sadhana —
+Gauranga himself and all his own circle.
+
+**278.** The Prabhu quickly wrote a letter with his own hand;
+whatever the Prabhu commanded, he wrote in it:
+
+**279.** 'This kind of dharma is the essence of the parts of sadhana;
+one who practises it himself can deliver [others].'
+
+**280.** Taking that letter, the man came to Vrindavana;
+[all] sat down and heard the contents of the letter.
+
+**281.** From that day all perform sadhana,
+and such a great treasure spread through the world.
+
+**282.** One who himself practises dharma and teaches it to people —
+to him Gauranga himself shows mercy.
+
+**283.** One who teaches dharma to others but does not keep it himself —
+to him Chaitanya never shows mercy.
+
+**284.** One who does not practise himself but [only] draws distinctions
+will not attain Krishna in any birth.
+
+**285.** His offence against the Prabhu grows strong,
+and, causing grief to Sri Rupa's heart, he goes to Rasatala.[^11-39]
+
+**286.** Even having taken shelter at the guru's feet, he passes his life in vain:
+whatever he does flies away like empty words.
+
+**287.** Narottama, you have heard this account of sadhana;
+he attains it whose heart is filled with longing.
+
+**288.** Chant Hari-nama, making no difference between the name and the Named;
+to one attached to it Chaitanya is merciful.
+
+**289.** First of all he made [people] take Hari-nama;
+by it the karma and jnana of living beings were cut off.
+
+**290.** Therefore he whom we call Krishna Chaitanya is the guru;
+therefore there is the command: the name is a wish-fulfilling tree.
+
+**291.** Whoever would be a Vaishnava will take Hari-nama;
+to one who chants the name by count Gaura is merciful.
+
+**292.** In keeping with [the Prabhu's] original intent all take Hari-nama;
+some a hundred thousand, especially singing aloud.
+
+**293.** Narottama chants a hundred thousand names by count:
+by chanting the name he holds all of Gauranga's power.
+
+**294.** One who chants a hundred thousand names of Hari attains Krishna's feet;
+when a knot is completed, let him make one obeisance.[^11-40]
+
+**295.** Know [that here is] the prema of sweetness, natural attachment;
+contemplate it deeply, with a divine mind.
+
+**296.** These are the parts of sadhana, listen, Narottama;
+little by little the sadhana will become perfect.
+
+**297.** One by one [the names] hold great power to give Krishna;
+for the sadhaka's sadhana they are exceedingly powerful.
+
+**298.** And a very feeble person — where is he to go?
+Let him sit at the door and chant the name with devotion.[^11-41]
+
+**299.** Narottama, enter into this with your mind;
+your two feet are my life."[^11-42]
+
+**300.** One who has the desire to attain Krishna
+must be careful that no obstacle arises.
+
+**301.** The names of Radha and Krishna, and the devotees —
+here be careful [not] to commit offence.
+
+**302.** If one offends these three, there is no welfare:
+the two [— the name and the devotees —] possess virtues equal to Krishna's.
+
+**303.** One who, born in the world, has taken shelter at the guru's feet —
+in his heart this offence does not arise.
+
+**304.** Chaitanya, Bhagavan himself, has love for them;
+one who disregards them suffers great loss.
+
+**305.** An example of this — see Sri Rupa Gosani:
+look [at him] and you will know; it is evident everywhere.
+
+**306.** See the way Sri Dasa Gosvami[^11-43] performs bhajana:
+to the Vaishnavas he has seen and heard of he shows the greatest devotion.
+
+**307.** Be careful, Narottama, hear one word:
+let no offence arise in any way, within or without.
+
+**308.** Is there anyone in the world so worthy?
+One whose conduct is such — him my heart longs [to see].
+
+**309.** Having heard and seen this, my child, set your heart's love on it:
+on seeing any Vaishnava at all, show him the greatest devotion.
+
+**310.** Being superior, behave like an inferior:
+know for certain that this is the means of attaining Krishna.
+
+**311.** Cherish all that you have heard day and night;
+practise bhajana and remembrance, dwelling in Vrindavana."
+
+**312.** Going out, [Narottama] prostrated himself and bowed,
+and with a joyful heart he took up residence in Vrindavana.
+
+**313.** Sitting in the kunja, he remembers all the parts of sadhana;
+how much can I tell of what was in his heart!
+
+**314.** As he had been commanded, so he did;[^11-44]
+day by day his sadhana-bhakti grew.
+
+**315.** He serves the Prabhu whenever there is need;
+in this way he spends his days and nights.
+
+**316.** One day he lay down in the kunja,
+partly asleep, partly awake.
+
+**317.** The daughter of Vrishabhanu came into that kunja
+and, smiling, speaks to Narottama:
+
+**318.** "You have taken shelter at the guru's feet and serve the guru;
+whatever he commands, that you carry out in your sadhana.[^11-45]
+
+**319.** In your mental service you have realised so much;
+all your service is in the form of supreme longing.
+
+**320.** Seeing how firm you are in every mood,
+my heart became very glad.
+
+**321.** At midday in my kunja is the meeting with Krishna;
+there the sakhis perform much service.
+
+**322.** There kshira[^11-46] is cooked, which gives Krishna delight;
+every delight is found in Champakalata's kunja.
+
+**323.** Your eternal service is to boil down the milk;
+my delight lies in what makes Krishna happy."
+
+**324.** Then Narottama came to his senses[^11-47]
+and, rising, began to reflect within himself.
+
+**325.** What mood came over him then, no one knows;
+until the third prahara[^11-48] he rolled on the ground.
+
+**326.** Coming to his senses, he reasoned in his mind:
+"My duty is [to do] as the Prabhu commands."
+
+**327.** Having reasoned thus, he goes to the Prabhu
+and tells him in full what he had seen.
+
+**328.** Bowing down many times in many ways,
+he speaks carefully before the Prabhu:
+
+**329.** "I was lying in the kunja, partly conscious,
+and I see: creepers, trees, ground — all are golden.
+
+**330.** Before me was a divine woman of incomparable beauty;
+she said: 'Wake up, O Narottama!
+
+**331.** At midday in my kunja is the meeting with Krishna;[^11-49]
+there the sakhis perform much service.
+
+**332.** In Champakalata's kunja kshira is cooked;
+from today your service is to boil down the milk.
+
+**333.** The name given to you is Champaka Manjari'[^11-50] —
+and weeping I prostrated myself [before her].
+
+**334.** My heart wishes to tell you of this;
+you are my master — command as you will."
+
+**335.** Trembling, sweat and abundant tears came over him;
+coming to himself, the Gosani rejoiced at heart:
+
+**336.** "Blessed, blessed are you, Narottama, fortunate one:
+she whose feet [we seek] has herself given you a command.
+
+**337.** She for whose service I take such pains,
+whom I remember in sadhana, staying awake day and night —
+
+**338.** serve [her] from today; this is your name;
+in this is all my happiness and joy."
+
+**339.** From then on he joyfully performed the service commanded,
+and his service to the Prabhu and his sadhana grew.
+
+**340.** Every day he serves with the greatest delight.
+What happened one day I will tell at the end.[^11-51]
+
+**341.** In his mind the Thakura[^11-52] boils down the milk
+and with a joyful heart beholds the pastimes.
+
+**342.** He feeds the fire with dry wood, and [the milk] boils up again and again;
+he ponders in his mind: how can I prevent it?
+
+**343.** When it boiled up once more,
+he held back the milk with his hand.
+
+**344.** His hand was burned, but in his outward [awareness] he did not know it;
+taking the milk off [the fire], he set it down right there.
+
+**345.** Coming to his senses, he sees that his hand is burned;
+he cries: "Alas, alas! What more is there to consider?
+
+**346.** My service to Gosani-ji will be interrupted;
+surely I have committed an offence."
+
+**347.** Even so, he comes to the Prabhu to report [it];
+from afar the Gosani saw Narottama:
+
+**348.** "You, who know, have acted like one who does not know!"
+"Come, come," says the Gosani, lamenting: "Alas, alas!"
+
+**349.** Covering his hand with his shawl, [Narottama] bows down;
+the Prabhu says: "Narottama, come near me."
+
+**350.** Taking him in his arms, the Gosani wept long:
+"The youthful Pair[^11-53] has shown you mercy!"
+
+**351.** Sri Jiva Gosani too showed him great mercy:
+"Such bhajana and remembrance I have neither seen nor heard of."
+
+**352.** The two together held many intimate talks;[^11-54]
+they formed a close and heartfelt friendship.
+
+**353.** Never seen, never heard is such a wondrous thing:
+he is one who is in friendship with Sri Jiva Gosani!
+
+**354.** How much can I write of the bounds of Narottama's prema!
+Simply by hearing it one attains prema for Radha and Krishna.
+
+**355.** Whoever will perform such sadhana and remembrance
+will become a companion of the sakhis — this I have understood to be the reason.
+
+**356.** Such love for one's guru is unheard of in the three worlds;
+in Vrindavana he attained every perfection directly.
+
+**357.** [He is] one in whose heart are Gauranga and Gauranga's prema,
+upon whom rests the mercy of Rupa and Sanatana.
+
+**358.** Diksha and shiksha of every kind [he received] from his guru:
+he raises questions and hears the detailed explanation.
+
+**359.** Whatever the Gosani commands, in that he is diligent;
+for one who acts [so], the witness is right there.[^11-55]
+
+**360.** All that [happened to him] at home, on the road and in Vrindavana —
+who could tell it all to the end?
+
+**361.** By the good fortune of many births he obtained the holy feet;
+day and night he floats in prema with a joyful heart.
+
+**362.** By command I write of the manner of his bhajana,
+but my wicked mind cannot touch even a particle of it.
+
+**363.** He whose nights and days pass in remembrance and sadhana —
+I write something of his virtues, but what can I compare them to?
+
+**364.** Later I will write of the glory of his service and bhajana;
+in it all who were touched by it were immersed.
+
+**365.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the eleventh vilasa of the Prema-vilasa.*
+
+[^11-1]: Madhupuri, Mathura.
+[^11-2]: A variant given in the 1913 edition: "Do not delay, come — we will go along with you."
+[^11-3]: Rajghat, a ghat on the northern edge of Varanasi where the Ganges was crossed; Vishveshvara is Vishvanatha, Shiva as lord of Kashi. Literally "the ghat at which Vishveshvara took the road"; the sense is unclear.
+[^11-4]: Apparently the house of Chandrashekhara in Varanasi, where Mahaprabhu stayed and where Sanatana came to him.
+[^11-5]: A variant given in the 1913 edition: "by your mercy bhakti will arise in me".
+[^11-6]: Chandrashekhara, the devotee of Varanasi who was Mahaprabhu's host.
+[^11-7]: Bhuteshvara, Shiva as guardian of Mathura; Keshava-raya, the temple of Keshavadeva at Krishna's birthplace.
+[^11-8]: A variant given in the 1913 edition: "he has brought wealth and given it to a poor man".
+[^11-9]: That is, the invitation to partake of the prasada of Govinda's temple.
+[^11-10]: That is, not yet initiated, without a guru.
+[^11-11]: A variant given in the 1913 edition: "Sri Krishna Chaitanya himself descended".
+[^11-12]: "anuvāda", literally "restatement, repetition".
+[^11-13]: Literally "in what yuga will the Prabhu's mercy come?" — i.e. every moment of waiting seems a yuga.
+[^11-14]: The second line of the couplet is found only in the 1913 edition.
+[^11-15]: A variant of the first line given in the 1913 edition: "Such is the conduct of a disciple who has accepted a guru."
+[^11-16]: A variant of the second line given in the 1913 edition: "he comes and performs such service to the Prabhu as befits him".
+[^11-17]: The first line of the couplet is found only in the 1913 edition.
+[^11-18]: "bahirdeśa", going "outside", beyond the dwelling, to relieve oneself.
+[^11-19]: A danda is 24 minutes; six dandas are about two and a half hours. The 1999 edition here has "three dandas"; below (150) both editions have six.
+[^11-20]: Lokanatha considers it an offence that someone in Vrindavana should secretly perform such menial work for him.
+[^11-21]: "keśera racanā", literally "the arranging of hair"; a variant given in the 1913 edition: "and Keshava's garland".
+[^11-22]: Manjulali is the spiritual form (siddha-rupa) of Lokanatha himself (cf. ch. 7, 215); Narottama is given the form of her attendant, Vilasa Manjari.
+[^11-23]: The 1913 edition has "the mantra of Radha".
+[^11-24]: The kama-bija, the seed syllable "klīṁ", found in Krishna's mantras.
+[^11-25]: Charanamrita, the water with which the feet of the guru or the Deity have been washed.
+[^11-26]: The line is unclear ("vyaktatā pravīṇa rādhā sakhīgaṇa āra"); the translation is conjectural.
+[^11-27]: Samartha, "all-powerful" (samartha-rati), the highest kind of love, belonging to Radha; here Radha herself.
+[^11-28]: Dakshina, "compliant", and vama, "contrary": two types of heroine in Rupa Gosvami's poetics (Ujjvala-nilamani). Below (219) the epithets seem to be distributed unusually — so in both editions.
+[^11-29]: The five kinds of sakhi: sakhi, nitya-sakhi, prana-sakhi, priya-sakhi and parama-preshtha-sakhi.
+[^11-30]: A variant of the second line given in the 1913 edition: "such is my worship too — a part of sadhana".
+[^11-31]: A variant given in the 1913 edition: "from the mantra you gave me separately". Apparently the separate mantras of Radha and of Krishna are meant (cf. 175).
+[^11-32]: That is, in her husband's house (parakiya-bhava).
+[^11-33]: Parakiya, love for another's wife (Radha and the gopis); svakiya, love in lawful marriage (the queens of Dvaraka).
+[^11-34]: The first line of the couplet is found only in the 1913 edition.
+[^11-35]: The kama-gayatri, the gayatri addressed to Krishna as Kama. "The two fivefold names" is unclear; perhaps the five arrows of Kama are meant.
+[^11-36]: Ashraya, the bearer of love; alambana, its object and support; uddipana, that which awakens it (terms of the theory of rasa).
+[^11-37]: "karmadrohi", literally "people of karma hostile (to bhakti?)"; the reading is conjectural.
+[^11-38]: The second line is corrupt in the 1913 edition ("śunikrā kale gra ānandita mana") and lost in the 1999 edition; translated according to the sense. Purushottama is Puri.
+[^11-39]: Rasatala, one of the nether worlds, the underworld.
+[^11-40]: "granthi", a knot on the string or beads used for counting names: after each full round one bows down.
+[^11-41]: A variant of the first line given in the 1913 edition: "if there is strength in one who has attachment".
+[^11-42]: The second line is odd in the guru's mouth; a variant given in the 1913 edition: "soon you will obtain the great treasure, prema for Krishna".
+[^11-43]: Raghunatha Dasa Gosvami. The second line of the couplet is found only in the 1913 edition.
+[^11-44]: The first line of the couplet is found only in the 1913 edition.
+[^11-45]: The second line is found only in the 1913 edition.
+[^11-46]: Kshira, milk boiled down until thick. Champakalata is one of Radha's eight principal sakhis.
+[^11-47]: Couplets 324–326 are found only in the 1913 edition.
+[^11-48]: A prahara is a quarter of the day (about three hours); the third prahara is the early part of the afternoon.
+[^11-49]: A variant given in the 1913 edition: "At midday on my bank is the meeting with Krishna" (perhaps an allusion to Radha-kunda).
+[^11-50]: Radha gives Narottama a new spiritual name, Champaka Manjari (cf. 170, where Lokanatha gives him the form of Vilasa Manjari).
+[^11-51]: A variant of the second line given in the 1913 edition: "so day by day he floats in the bliss of prema".
+[^11-52]: The Thakura, Narottama (Thakura Mahashaya).
+[^11-53]: "kiśorī kiśora", the youthful Radha and Krishna.
+[^11-54]: "iṣṭa-goṣṭhī", a conversation among devotees about the object of their worship.
+[^11-55]: The second line of the couplet is found only in the 1913 edition.
