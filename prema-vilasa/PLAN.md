@@ -14,4 +14,4 @@
 Перед частью 1: составить GLOSSARY.md (имена RU/EN, взять за основу ../nityananda-vamsha/GLOSSARY.md), TASK.md
 (по образцу ../nityananda-vamsha/TASK.md, но одна OCR-копия), разрезать источник по виласам в src/.
 
-Статус: подготовка сделана (src/ — две OCR-копии по виласам, GLOSSARY.md, TASK.md, build.py); часть 1 в работе.
+Статус: подготовка сделана (src/ — две OCR-копии по виласам, GLOSSARY.md, TASK.md, build.py); часть 1 (в. 1–4) готова; часть 2 в работе.
