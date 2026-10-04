@@ -48,6 +48,10 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 - Vilasa 17. News from Vrindavana; Srinivasa's Family; Narottama's Bhajana
 - Vilasa 18. Gopala Bhatta; the Deliverance of Chand Raya
 - Vilasa 19. The Six Deities of Kheturi; Rupa Narayana; Virachandra's Travels
+- Vilasa 20. The Branches of Srinivasa, Narottama and Shyamananda
+- Vilasa 21. Madhava Acharya; Jagai and Madhai
+- Vilasa 22. Mukunda and Vasudeva Datta; Pundarika Vidyanidhi and Gadadhara
+- Vilasa 23. Mahaprabhu's Gurus; Srivasa and Vrindavana Dasa; Rupa, Sanatana and Jiva
 
 ---
 
@@ -18035,3 +18039,1954 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-113]: Variant given in both editions: "Meeting everyone, he came to Gopivallabhapur".
 [^19-114]: Variant given in both editions: "In the Virachandra-charita I have recorded this account in detail; / whoever hears it, tears of joy flow from him".
 [^19-115]: Here the Ishvari is Srinivasa's elder wife (cf. 30, 51). In the 1913 edition 906–907 are enclosed in brackets.
+
+---
+
+# Vilasa 20. The Branches of Srinivasa, Narottama and Shyamananda
+
+*A list of the disciples ("branches") of Srinivasa Acharya — beginning with his guru Gopala Bhatta — of Narottama — beginning with Lokanatha — and of Shyamananda — beginning with Gauridasa Pandita and Hridaya Chaitanya; the three teachers as manifestations of the power of Chaitanya, Nityananda and Advaita; the disciples of Ramachandra Kaviraja; the author speaks of himself*
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Glory, glory to Srinivasa Acharya Thakura!
+Glory, glory to Narottama, full of the rasa of prema!
+
+**3.** Glory, glory to Shyamananda, the ocean of bhakti!
+Glory, glory to Ramachandra, bearer of all virtues!
+
+**4.** Listen, listen, O hearers, with one mind:
+now I shall describe the branches of them all.
+
+**5.** Trimalla, Venkata and Sri Prabodhananda —
+three brothers, great panditas, lived in Tailanga.[^20-1]
+
+**6.** Sri Gopala Bhatta is the son of Venkata,
+the dearest disciple of Prabodhananda Sarasvati.
+
+**7.** When Srila Mahaprabhu went to the south,
+he kept the vow of chaturmasya in Venkata's house.[^20-2]
+
+**8.** By Mahaprabhu's mercy [Gopala] gained the taste of sweetness
+and always worshipped the feet of Radha and Krishna in the mood of Vraja.
+
+**9.** Having obtained the Lord of his life in his own home,
+Gopala Bhatta served him at his father's command with great joy.
+
+**10.** Mahaprabhu made the truth known to Gopala,
+and by Prabhu's mercy the mood of Vraja awoke in him.
+
+**11.** Sri Gopala Bhatta is Sri Guna Manjari;
+Srinivasa Acharya Thakura is his disciple.
+
+**12.** Srinivasa's siddha name is Sri Mani Manjari;
+the tree called Srinivasa has many branches.
+
+**13.** The best branch is Ramachandra Kaviraja,
+whose love for Narottama is boundless.
+
+**14.** Sri Govinda Kaviraja is an excellent sadhaka,
+by whose nectar of songs the world is purified.
+
+**15.** The two Kavirajas have two wives;
+to them the Acharya, the jewel of virtues, showed mercy.
+
+**16.** Ramachandra's wife was called Ratnamala,
+and Govinda's wife was named Mahamaya.[^20-3]
+
+**17.** Govinda's son was named Divyasimha;
+to him the Acharya Mahashaya showed mercy.
+
+**18.** Srinivasa Acharya gave to both his wives
+the mantra of initiation with great joy in his heart.
+
+**19.** The Acharya's elder wife was named Draupadi;
+later she became known by the name Ishvari.
+
+**20.** The Acharya's younger wife was named Padmavati;
+later she came to be called Gauranga-priya.
+
+**21.** To his three sons and three daughters
+[the Acharya] gave the mantra with joy in his heart.
+
+**22.** The eldest is Vrindavana, the middle one Radhakrishna Acharya,
+the youngest Gati-Govinda,[^20-4] foremost in all virtues.
+
+**23.** The eldest daughter is Hemalata, the middle one Krishnapriya;
+the youngest daughter is called Kanchana-latika.
+
+**24.** However many branches and offshoots they may have,
+some fortunate person will make them known.
+
+**25.** Haridasa Acharya, who lived in Kanchana-Nagariya,
+a branch of Sri Mahaprabhu, foremost in all virtues —
+
+**26.** his sons Gokulananda and Sri Dasa
+studied with Srinivasa Acharya.
+
+**27.** The elder is Sri Gokulananda, the younger Sri Dasa;
+at their father's command they took initiation from Srinivasa.
+
+**28.** These two branches of the Acharya are full of the rasa of bhakti:
+at the sight of them the pashandis are seized with fear.
+
+**29.** Gokulananda's son is Krishnavallabha;
+to him the Acharya Mahashaya showed mercy.
+
+**30.** Narasimha Kaviraja and Raghunatha Kara —
+these the Acharya Thakura made his disciples.
+
+**31.** The branch Ramakrishna Chatta is an abode of virtues;
+his son Gopivallabha Chatta is also a branch.
+
+**32.** Gopivallabha Chatta is foremost among kulinas;
+the Acharya gave him his daughter Hemalata in marriage.
+
+**33.** The branch Sri Kumuda Chatta is a vessel of all virtues;
+his son Sri Chaitanya is Krishnapriya's husband.[^20-5]
+
+**34.** Kalanidhi Chatta and his son-in-law
+named Sri Rajendra Banda,[^20-6] endowed with all virtues;
+
+**35.** Kalanidhi's two daughters, Rajendra's wives,
+Sri Malati and Phulavi[^20-7] Thakurani —
+
+**36.** to all of them the Acharya Thakura showed mercy.
+The branch Vrindavana Chatta is full of the rasa of prema.
+
+**37.** Another branch is Sri Govinda Chakravarti,
+who in bhajana is called Bhavuka Chakravarti.[^20-8]
+
+**38.** He lived in the village of Borakhuli.
+Another branch is Gopala Dasa, the abode of all virtues.
+
+**39.** Govinda Chakravarti's son is Sri Rajavallabha;
+this branch of the Acharya is rare in the world.
+
+**40.** Karnapura Kaviraja and Vamshidasa Thakura
+are branches of the Acharya, their home in Bahadurpur.
+
+**41.** Gopaladasa Thakura, whose home is in Budhuipara,
+is a disciple of the Acharya, a hero in Krishna-kirtana.
+
+**42.** A branch is Sri Rupa Ghataka and Raghunandana Dasa;
+he became known by the title Ghataka.[^20-9]
+
+**43.** To Sudhakara Mandala together with his wife Shyamapriya
+Srinivasa Acharya showed favour.
+
+**44.** Their sons Radhavallabha, Kamadeva and Gopala
+are branches of the Acharya, supremely compassionate.
+
+**45.** Ishvari's father, named Sri Gopala Chakravarti,
+is the Acharya's father-in-law, renowned everywhere.
+
+**46.** His two sons, the Acharya's brothers-in-law, are [also] branches;
+they are called Shyamadasa and Ramacharana.
+
+**47.** To them the Acharya, full of virtues, showed mercy;
+another disciple is the one called Raghu Chakravarti —
+
+**48.** Gauranga-priya's father, the Acharya's father-in-law:
+he knows nothing other than the Acharya's feet.
+
+**49.** The disciple Krishnadasa Chatta lives in Faridpur;
+Mohanadasa and Vanamalidasa, vaidyas, are full of bhakti.
+
+**50.** A branch is Radhavallabha Dasa, and also Mathuradasa;
+a disciple is Radhakrishna Dasa, and also Madanadasa.[^20-10]
+
+**51.** Ramadasa Kavivallabha is a great scribe:
+he wrote out many books for the Acharya.[^20-11]
+
+**52.** The father of Vanamali Dasa was named Gopala Dasa;
+branches are Atmarama, Nakadi, and Chatta Shyamadasa.
+
+**53.** Durgadasa and Gopiramana Dasa are vaidyas by caste;
+Raghunatha Dasa and Sri Dasa are renowned as kavirajas.
+
+**54.** Gokulananda Chakravarti, Gokulananda Dasa,
+Gopaladasa Thakura, and Chatta Shyamadasa;
+
+**55.** Radhakrishna Dasa and Ramadasa Thakura;
+the branch Mukunda Thakura is a hero of great bhakti.
+
+**56.** Vyasa Chakravarti, a resident of Vana-Vishnupur,
+by the mercy of his Prabhu received the title of Acharya.
+
+**57.** His wife, named Indumukhi, is a disciple;
+another branch is his son, named Shyamadasa.
+
+**58.** A branch is King Vira Hambira, the one who stole the books;
+Jiva Gosani named him Chaitanya Dasa.
+
+**59.** To Queen Sulakshana [the Acharya] showed mercy;
+to the prince Dhari Hambira he gave initiation.[^20-12]
+
+**60.** To Karunadasa Majumdar, born of the Karana caste,[^20-13]
+and to his two sons he freely showed mercy.
+
+**61.** They were named Janaki Ramadasa and Prakashadasa;
+as the Acharya's letter-writers they received the title Vishvasa.[^20-14]
+
+**62.** Ramadasa, Gopaladasa and Vallavi Kavipati —
+three disciples of the Acharya, [like] Brihaspati in intellect.
+
+**63.** Krishnavallabha Chakravarti of the village of Deuli,
+at whose house the Acharya was first a guest —
+
+**64.** this mahashaya brought the news of the stolen books;
+to him the Acharya showed great mercy.
+
+**65.** Narayana, Nrisimha, Vasudeva Kaviraja;
+another branch is Vrindavanadasa Kaviraja;
+
+**66.** Bhagavan Kaviraja, Srimanta Chakravarti,
+Raghunandana and Gaurangadasa, who love sankirtana;
+
+**67.** Gopijanavallabha Thakura, Thakura Srimanta —
+to the mercy [they received] from the Acharya there is no end.
+
+**68.** Chaitanya Dasa, Govindadasa and Tulasi Ramadasa,
+the brahmana Balaramadasa, ever with Hari-nama on his lips.
+
+**69.** Jayarama Chaudhuri Mahashaya from the land of Utkala[^20-15] —
+to him the merciful Acharya showed mercy.
+
+**70.** The brahmana Sri Harivallabha Sarakara Thakura,
+the branch Krishnavallabha Chakravarti, full of bhakti;
+
+**71.** Krishna Purohita Thakura, a resident of Gauda;
+another branch is Shyama Chatta, who has many disciples;
+
+**72.** Jayarama Chakravarti, a resident of Gauda;
+Thakuradasa Thakura, who loves sankirtana;
+
+**73.** Shyamasundara Dasa, Mathuradasa and Atmarama —
+residents of Mathura, sons of brahmanas;
+
+**74.** Sri Govindarama and Sri Gopala Dasa —
+branches of the Acharya Prabhu, living at Sri Kunda;[^20-16]
+
+**75.** Mohanadasa, Vrajananda Dasa and Harirama,
+Hari Prasada, Sukhananda, the branch Muktarama;
+
+**76.** Kalanidhi Acharya Mahashaya from Vanga,[^20-17]
+towards whom the Acharya's mercy is boundless;
+
+**77.** Ramasharana, Rasikadasa and Premadasa —
+these the Acharya Srinivasa made his disciples.
+
+**78.** Such is the description of Srinivasa Acharya's branches.
+Now I shall record the branches of Narottama.
+
+**79.** Who can count the Mahashaya's many disciples?
+I shall only point out the direction a little.[^20-18]
+
+**80.** Sri Krishna Chaitanya is a special appearance of Sri Krishna;
+giving Hari-nama, he delivered every land.
+
+**81.** His disciple is the wise Lokanatha Gosani,
+who lived in the village of Talagadi in Yashohara.
+
+**82.** At Mahaprabhu's command he settled in Vrindavana;
+Sri Radha-vinoda-deva is the [deity] he manifested.
+
+**83.** Lokanatha Gosani is Manjulali Manjari;
+his disciple Narottama is renowned everywhere.
+
+**84.** Sri Thakura Mahashaya is Champaka Manjari;
+in his mental service his hand was burnt.[^20-19]
+
+**85.** The tree called Narottama has countless branches;
+he purified the whole world.
+
+**86.** Balarama Chakravarti, a resident of Kheturi,
+is the Mahashaya's dear disciple, with great love for Gauranga.
+
+**87.** A Radhi brahmana of the Savarna gotra,
+he served the sacred image[^20-20] and became known by the title Pujari.
+
+**88.** Another branch is Sri Rupa Narayana Pujari,
+a Radhi of the Savarna gotra, living in Sri Kheturi.
+
+**89.** Ravi Raya Pujari is a Vaidika brahmana
+living in Budhari, his most beloved branch.
+
+**90.** Another branch is Sri Gopiramana Chakravarti,
+whose love for nama-sankirtana is boundless.
+
+**91.** The Mahashaya's elder brother was named Ramakanta;
+his son is Radhavallabha Datta, of great serenity.
+
+**92.** To him the Thakura Mahashaya showed mercy;
+[he is] endowed with all virtues, a shelter of the rasa of bhakti.
+
+**93.** Purushottama and Krishnananda were two brothers:
+the elder was Purushottama, the younger Krishnananda.[^20-21]
+
+**94.** The son of Purushottama Datta is Sri Santosha Raya;
+he had great love for Govinda Kaviraja.
+
+**95.** Sri Santosha Raya's way of life Govinda Kaviraja,
+filled with love, set forth in songs.
+
+**96.** The Mahashaya's younger brother is his disciple;
+he is always engaged in the Mahashaya's service.
+
+**97.** Another disciple is Ramakrishna Acharya Mahashaya,
+whose home is at Goyasa, where the Ganga and the Padma meet.
+
+**98.** He is a Radhi brahmana, foremost among panditas;
+his disciples and their disciples filled the world.
+
+**99.** Another branch is Ganganarayana Chakravarti,
+who lived in the village of Gambhila on the bank of the Ganga.
+
+**100.** Ever immersed in love for Krishna, he performs bhajana;
+everyone calls him Thakura Chakravarti.
+
+**101.** He is a Varendra brahmana, foremost among panditas;
+every day he fed five hundred students.
+
+**102.** With joy in his heart he always teaches the various shastras;
+his disciples and their disciples filled the world.
+
+**103.** The branch Radhavallabha Chaudhuri, Nava Gaurangadasa;
+the branch Narayana Ghosha, the branch Gaurangadasa;
+
+**104.** Krishnasimha, Vinoda Raya, Phagu Chaudhuri,
+who dances in sankirtana crying, "Hari, Hari!";
+
+**105.** Raja Govindarama and Vasanta Raya;
+the branch Prabhurama Datta, and Shitala Raya —
+
+**106.** this Raya's way of devotion is truly wonderful:
+whoever hears of it feels boundless joy in his heart.
+
+**107.** Dharmadasa Chaudhuri and Nityananda Dasa,
+the branch Dharu Chaudhuri, and Chandidasa;
+
+**108.** the devotional way of Bhaktadasa[^20-22] is excellent in every respect —
+to him Thakura Narottama showed mercy.
+
+**109.** Bancharama[^20-23] Bhadra and Ramabhadra Raya —
+to them the Thakura Mahashaya showed mercy.
+
+**110.** The branch Janakivallabha Chaudhuri and Srimanta Datta —
+they dance in sankirtana as if maddened;
+
+**111.** Purushottama, Gokula Dasa and Haridasa;
+the branch Gangahari Dasa, detached in every respect.
+
+**112.** Raja Narasimha Raya is excellent in every respect —
+to him Thakura Narottama showed mercy.
+
+**113.** Narasimha Raya's wife is Rupamala;
+this branch is always enraptured by Hari-nama.[^20-24]
+
+**114.** Rupa Narayana Gosani is supremely generous:
+whoever hears his singing, his heart melts.
+
+**115.** Virachandra Gosani Prabhu, hearing his singing,
+shed tears in the joy of prema that streamed down his face.
+
+**116.** Virachandra Prabhu, knowing Rupa's power,
+graciously bestowed on him the title of Gosvami.
+
+**117.** Formerly his name was Rupachandra;
+in Vrindavana he came to be called Rupa Narayana.
+
+**118.** He lived at Egarasindur,
+in Vanga, beyond the Brahmaputra, [towards] Kamarupa.[^20-25]
+
+**119.** He is foremost among the kulinas of the Varendra brahmanas,
+versed in many shastras, a supreme scholar;
+
+**120.** full of great devotion, an abode of all virtues —
+in mercy the Thakura Mahashaya gave him initiation.
+
+**121.** The branch Jagannatha Acharya is a supreme scholar,
+a Vaidika brahmana living in the village of Teliya Budhari.
+
+**122.** The branch Krishna Acharya is supremely generous,
+a Varendra brahmana, his home in Gopalpur.
+
+**123.** Another branch is Radhakrishna Bhattacharya,
+foremost in every way — in lineage, character, beauty and virtues.
+
+**124.** He is a Radhi brahmana living in Navadvipa,
+always chanting Hari-nama with exultation in his heart.
+
+**125.** The kirtaniya Devidasa knows many shastras;
+the Mahashaya whispered the initiation mantra into his ear.
+
+**126.** The branches Vaishnavacharana and Shivarama Dasa,
+Krishnadasa Vairagi and Batuya Ramadasa.[^20-26]
+
+**127.** The disciple Narayana Raya is supremely generous;
+the branch Ramadasa Raya[^20-27] is a vessel of all virtues;
+
+**128.** Krishnadasa Thakura and Shankara Vishvasa,
+Madana Raya, and the branch Budu Chaitanya Dasa.
+
+**129.** Harichandra Raya, the zamindar of Jalapantha,
+a wicked pashandi and robber, plundered the country.
+
+**130.** Sri Thakura Narottama showed him mercy,
+and afterwards he was called Haridasa.
+
+**131.** He chants Hari-nama ceaselessly, keeping count;
+seeing him a Vaishnava, the pashandis are afraid.
+
+**132.** Raghavendra Raya, zamindar of the northern part of Garerhat,
+was a man of the purest conduct.
+
+**133.** He was born in a brahmana family;
+Thakura Narottama made him his disciple.
+
+**134.** His wife was named Vishnupriya;
+[the Mahashaya], full of compassion, made her a disciple.[^20-28]
+
+**135.** Raghavendra Raya had two sons —
+great robbers, rebels against the king, wicked and depraved.
+
+**136.** The elder was Chand Raya, the younger Santosha Raya;
+to them the Thakura Mahashaya showed mercy.
+
+**137.** Later both brothers became great Vaishnavas
+and effortlessly gave up all worldly things.
+
+**138.** To the two wives of these two Rayas
+the Mahashaya showed mercy with a compassionate heart.
+
+**139.** Chand Raya's wife was named Kanakapriya,
+Santosha Raya's wife Nalini.
+
+**140.** Other branches are Gandharva Raya, Gangadasa Raya,
+Vraja Raya, Radhakrishna Dasa, Krishna Raya.
+
+**141.** Dayarama Dasa Thakura, of noble character,
+is always charmed by the Thakura Mahashaya's virtues.
+
+**142.** Other branches are Jagat Raya, Haridasa Thakura,
+Srikanta, Kshira Chaudhuri — a hero of great devotion.
+
+**143.** The branch Rupa Raya purifies the world:
+he delivered many yavanas.
+
+**144.** Chandrashekhara, Ganesha Chaudhuri, Sri Govinda Raya,
+Mathuradasa, Bhagavatadasa, Sri Jagadisha Raya —
+
+**145.** all of them are servants of their Prabhu:
+whatever the Mahashaya says, they do at once.
+
+**146.** Another branch is Narottama Majumdar,
+and the supremely generous one named Mahesha Chaudhuri.
+
+**147.** Another branch is the Vaidika brahmana Shankara Bhattacharya,
+living in Naihati, foremost in all virtues;
+
+**148.** Gosani Dasa, Murari Dasa, Sri Vasanta Datta,
+the branch Shyamadasa Thakura, enraptured by sankirtana;
+
+**149.** Gopala Datta, Ramadeva Datta and Gangadasa Datta,
+Manohara Ghosha and Arjuna Vishvasa, of the purest conduct.
+
+**150.** Other branches are Kamala Sena, Yadava Kaviraja,
+the branch Manohara Vishvasa, Krishna Kaviraja.
+
+**151.** Another branch is Vishnudasa Kaviraja Thakura,
+the ornament of the vaidya lineage, living in Kumaranagara.
+
+**152.** Another disciple is Mukuta Maitra, known to all people;
+everyone says his home is in Faridpur.
+
+**153.** The branch Govardhana Bhandari[^20-29] is known everywhere;
+the Mahashaya loves him dearly.
+
+**154.** Balakadasa Vairagi, Vairagi Gaurangadasa,
+Viharidasa Vairagi and Vairagi Gokuladasa —
+
+**155.** all these branches are deeply devoted to the Mahashaya.
+The branch Prasadadasa Vairagi is devoted to service.
+
+**156.** Another branch is the most fortunate one named Vipradasa,
+in whose rice granary Gauranga was found.[^20-30]
+
+**157.** His wife was named Bhagavati;
+to her the Thakura Mahashaya showed mercy.[^20-31]
+
+**158.** He has two sons, beautiful in form —
+Yadunatha and Ramanatha, oceans of bhakti.
+
+**159.** To them the Thakura Mahashaya showed mercy;
+their home is in the village of Pachpara.
+
+**160.** Gurudasa Bhattacharya, a Vaidika brahmana,
+by the Mahashaya's mercy was freed from leprosy.
+
+**161.** Becoming his disciple, he always chants Hari-nama;
+his home is in Gopalpur, in the land of Rarh.
+
+**162.** Narasimha Raya brought many panditas,
+and Sri Thakura Mahashaya showed mercy to them all.
+
+**163.** I shall name a few of them —
+hearing this, all the listeners will rejoice:
+
+**164.** Yadunatha Vidyabhushana, full of the rasa of bhakti,
+Kashinatha Tarka-bhushana, a shelter of the rasa of bhakti;
+
+**165.** Haridasa Shiromani, an abode of all virtues,
+Durgadasa Vidyaratna, always chanting Hari-nama;
+
+**166.** Shivanarayana Vidya-vagisha, of high wisdom,
+Chandrakanta Nyaya-panchanana, steadfast in the rasa of bhakti.[^20-32]
+
+**167.** Those who practised robbery in Chand Raya's band
+the Mahashaya in his mercy delivered:
+
+**168.** Vanamali Chatta and Govinda Bhaduri,[^20-33]
+Nilamani Mukhuti, Lalita Ghoshal, above all;
+
+**169.** Kalidasa Chatta, Ramajaya Chakravarti,
+Harinatha Ganguli and Shiva Chakravarti.
+
+**170.** When the Mahashaya wandered through various places,
+he made many disciples — who can count them?
+
+**171.** Of them, those whose names I was able to learn
+I have briefly recorded in this book:
+
+**172.** Kashinatha Bhaduri, Ramajaya Maitra,
+Narayana Sanyal and Mishra Purandara,
+
+**173.** Vidhu Chakravarti and Kamalakanta Kara,
+Raghunatha Vaidya and Mishra Haladhara.
+
+**174.** Thus I have named Narottama's branches.
+Now I shall enumerate the branches of Shyamananda.
+
+**175.** Shyamananda's many branches I do not know;
+what I write I have heard from people's lips.
+
+**176.** Suryadasa Sarakhela is the best of panditas;
+his brother Gauridasa is the bearer of all virtues.
+
+**177.** Formerly he lived in Shaligrama;
+coming to Ambika, he settled on the bank of the Ganga.
+
+**178.** Gauridasa Pandita Mahashaya is Subala the friend;
+he manifested the service of Gaura and Nityananda.
+
+**179.** Gauridasa is the dear branch of Nityananda Prabhu,
+at whose command he settled in Ambika.
+
+**180.** His disciple is Hridaya Chaitanya Mahashaya;
+his siddha name is the sakhi Sri Sudhira.
+
+**181.** His disciple is Duhkhi Krishnadasa of the Sadgopa caste;
+the name Shyamananda was revealed in Vrindavana.
+
+**182.** When he found Sri Radha's anklet,
+Sri Jiva Gosvami showed him great favour.
+
+**183.** Then Sri Jiva, filled with joy,
+on that very day named him Shyamananda.
+
+**184.** Shyamananda's siddha name is Kanaka Manjari;
+Jiva in his mercy taught him the truth.
+
+**185.** Shyamananda Prabhu is an avesha of Advaita;
+who knows the end of his disciples?
+
+**186.** The tree called Shyamananda has countless branches;
+now I shall tell a little — listen attentively.
+
+**187.** The branch Sri Kishoridasa is full of the rasa of bhakti;
+to him Shyamananda Mahashaya showed mercy.
+
+**188.** Another branch is the wise one named Dinabandhu;
+he lived in the village of Dharenda.
+
+**189.** Nimu Gopa, Kanai Gopa and Hari Gopa —
+all of them lived in the village of Dharenda.
+
+**190.** The best branches are Rasikananda and Sri Murari,[^20-34]
+whose fame and virtues the whole land of Utkala sings.
+
+**191.** The wives of these two brahmanas
+Shyamananda made his disciples with joy in his heart.
+
+**192.** Rasikananda's wife was named Malati,
+Murari's wife Shachirani.[^20-35]
+
+**193.** These two mahashayas are dear to Shyamananda;
+their home is at Rayani, on the bank of the river Suvarnarekha.
+
+**194.** They will have many disciples and disciples of disciples;
+some fortunate person will describe them at length.
+
+**195.** Another branch is the yogi Damodara, a great sage;
+for many days he disputed with Shyamananda.
+
+**196.** Shyamananda, splitting open his breast, showed the sacred thread;[^20-36]
+seeing it, the best of yogis took the initiation mantra.
+
+**197.** Yadunatha, Ramabhadra, Sri Jagadishvara —
+disciples of Shyamananda living in Balarampur.
+
+**198.** Dhruvananda, Purushottama, Krishnahari Dasa —
+dear disciples of Shyamananda living in Nrisimhapur.
+
+**199.** Uddhava, Akrura, Madhusudana, Govinda,
+Jagannatha, Gadadhara and Sundarananda,[^20-37]
+
+**200.** Hari Raya, Kalinatha, Sri Krishnakishora —
+branches of Shyamananda living in Gopivallabhapur.
+
+**201.** Other branches are Chintamani, Sri Jagadishvara,
+Virabhadra, Radhamohana, the branch Haladhara.
+
+**202.** Other branches are Radhananda, Nayana Bhaskara;
+the branch named Gauridasa is the bearer of all virtues.
+
+**203.** The branches Shikhidhvaja and Gopala, strong in bhajana,
+dance in sankirtana crying, "Hari, Hari bol!"
+
+**204.** Another branch is the yavana robber named Sher Khan;
+now his name is Sri Chaitanya Dasa.
+
+**205.** Giving up worldly things, he became a true Vaishnava;
+always on his lips is "Nitai, Chaitanya, Advaita!"
+
+**206.** In sankirtana he dances, weeps, rolls on the ground,
+and constantly chants Hari-nama, keeping count.
+
+**207.** Thus I have enumerated the branches.
+Now I shall speak of the true nature of the three Prabhus.
+
+**208.** Srinivasa, Narottama and Shyamananda — these three
+were born of Mahaprabhu's prema and became adept in it.
+
+**209.** Srinivasa is the power of Sri Mahaprabhu;
+Narottama is called the power of Nityananda.
+
+**210.** Shyamananda is the power of Advaita Prabhu,
+by whose mercy the people of Utkala gained bliss.
+
+**211.** Srinivasa, Narottama and Shyamananda
+are avesha-avataras of Chaitanya, Nityananda and Advaita.
+
+**212.** Srinivasa is a portion of Sri Chaitanya;
+Narottama is called a portion of Nityananda.
+
+**213.** Shyamananda is a portion of Advaita;
+he made Utkala blessed with the bliss of sankirtana.
+
+**214.** As it is said by a certain Vaishnava:[^20-38]
+*He who was Nityananda became Narottama;
+Sri Chaitanya became Srinivasa;
+he who is called Sri Advaita became Shyamananda:
+thus the three appeared.*
+
+**215.** When those three had disappeared, the power of these three
+made every land blessed by bestowing the mood of bhakti.[^20-39]
+
+**216.** At the feet of these three are my countless obeisances;
+be merciful, three Prabhus, knowing [me] to be wretched.
+
+**217.** Listen, listen, O hearers, with one mind:
+now I shall describe the branches of Ramachandra.
+
+**218.** There lived in Khanda a certain Chiranjiva Sena;
+his wife's name, it is said, was Sunanda.
+
+**219.** Two sons were born to him, full of virtues:
+the elder named Ramachandra, the younger Govinda.
+
+**220.** When their father was gone, they lived for some time
+in Kumaranagara, in the house of their maternal grandfather.
+
+**221.** Then, coming to the village called Teliya Budhari,
+they settled there with great joy.
+
+**222.** Srinivasa's disciple Ramachandra Kaviraja —
+his power is manifest among people.
+
+**223.** Ramachandra's siddha name is Karuna Manjari;
+now I shall write the names of his three branches.
+
+**224.** The branch Harirama Acharya is a supreme pandita,
+a Radhi brahmana, known in the world.
+
+**225.** Where the Ganga and the Padma meet,
+in the village of Goyasa, is his home.
+
+**226.** The Radhi brahmana named Vallabha Majumdar
+is a branch of the Kaviraja, an abode of all virtues.
+
+**227.** Another branch is Balarama Kavipati,
+a supreme pandita living in Budhari.
+
+**228.** Thus I have told of the branches of them all.
+Now listen attentively to what I shall say.
+
+**229.** This book I have written in obedience to the guru's command;
+whether what I write is good or bad, I do not know at all.
+
+**230.** What I saw, what I heard from the holy lips,
+that I wrote in this book, meditating on her feet.
+
+**231.** My initiating guru is Jahnava Ishvari;
+what mercy she showed me I cannot tell.
+
+**232.** Virachandra Prabhu is my shiksha-guru;
+he showed me boundless compassion.
+
+**233.** My mother is Saudamini, my father Atmarama Dasa;
+I was born in the Ambashtha caste and lived in Srikhanda.[^20-40]
+
+**234.** I was an only son; leaving me a child,
+mother and father both departed to the other world.
+
+**235.** Left an orphan, I brooded ceaselessly;
+and at night I saw a wonderful dream.
+
+**236.** Jahnava Ishvari says, "Have no worry at all:
+go to Khardaha and take the mantra from me."
+
+**237.** Having seen the dream, I came to Khardaha,
+and the Ishvari made me a vessel of her mercy.
+
+**238.** Formerly my name was Balarama Dasa;
+now with her holy lips [she] named me Nityananda Dasa.
+
+**239.** Thus I have made myself known.
+At the feet of guru, Krishna and the Vaishnavas — millions of obeisances.
+
+**240.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the twentieth vilasa of the Prema-vilasa, called "The Description of the Branches of Srinivasa, Narottama and Shyamananda Gosvami".*
+
+[^20-1]: Tailanga (Telingana) is the Telugu-speaking country in the south of India. Trimalla Bhatta, Venkata Bhatta and Prabodhananda Sarasvati are the brothers with whom Mahaprabhu stayed at Ranga-kshetra (cf. ch. 18).
+[^20-2]: Chaturmasya: the four months of the rainy season, when wandering ascetics remain in one place.
+[^20-3]: In the 1913 edition this couplet is apparently enclosed in brackets.
+[^20-4]: The text has "Govinda-gati"; cf. the name Gati-Govinda in earlier vilasas.
+[^20-5]: Literally "bhatar", husband, provider.
+[^20-6]: Banda is a short form of the surname Bandyopadhyaya (Banerji).
+[^20-7]: The reading of the name is uncertain: "Phulabbi" (1913 edition) / "Phulavi" (1999 edition).
+[^20-8]: Bhavuka: "full of feeling (bhava)".
+[^20-9]: Ghataka: a matchmaker and genealogist. The line can also be understood: "A branch is Sri Rupa Ghataka, [and also] Raghunandana Dasa".
+[^20-10]: The reading of the name is uncertain ("রদণদাব" in the 1913 edition); possibly Ramanadasa. In the 1999 edition 42–51 are missing (a gap in the column).
+[^20-11]: Literally "a great akhariya", a master of writing, a copyist.
+[^20-12]: Dhari (Dhadi) Hambira is, according to tradition, the son of Vira Hambira.
+[^20-13]: The Karanas are a scribal caste close to the Kayasthas.
+[^20-14]: Vishvasa ("trusted") is a title of secretaries and confidential agents.
+[^20-15]: Utkala is Orissa. Variant given in both editions: "Dayarama Chaudhuri Mahashaya from the land of Utkala".
+[^20-16]: That is, at Radha-kunda.
+[^20-17]: Vanga is East Bengal.
+[^20-18]: Literally "show [only] the direction" (dig-darshana), that is, give only a sample.
+[^20-19]: An allusion to a well-known story: in meditation Narottama was boiling milk for Radha and Krishna and, lifting the boiling pot, burnt his hand — and the burn remained on his body too.
+[^20-20]: That is, the deities of Kheturi (cf. ch. 19).
+[^20-21]: That is, Narottama's father Krishnananda and his elder brother Purushottama; so Santosha (94), and apparently also Ramakanta (91), called his "elder brother", are Narottama's cousins.
+[^20-22]: Or: "of this devoted servant". Taking it as a name is conjectural.
+[^20-23]: The text has "Baucharama" (বৌচারাম), probably a corruption of Bancharama (বাঁচারাম).
+[^20-24]: In the 1913 edition this couplet is enclosed in brackets.
+[^20-25]: Kamarupa is Assam. Egarasindur is a village on the left bank of the Brahmaputra (now in Mymensingh district, Bangladesh).
+[^20-26]: Variant given in both editions: "…and Chatuya Ramadasa".
+[^20-27]: Following the 1913 edition; the 1999 edition has "Ramachandra Raya".
+[^20-28]: In the 1913 edition this couplet is enclosed in brackets.
+[^20-29]: Bhandari: treasurer, keeper of the storehouse.
+[^20-30]: Cf. ch. 19, where the image of Gauranga is found in Vipradasa's granary.
+[^20-31]: In the 1913 edition this couplet is enclosed in brackets.
+[^20-32]: Vidyabhushana, Tarka-bhushana, Shiromani, Vidyaratna, Vidya-vagisha, Nyaya-panchanana are scholarly titles (cf. ch. 19). Variant given in both editions: "Shivacharana Vidya-vagisha, of high wisdom".
+[^20-33]: Variant given in both editions: "Govinda Barudi".
+[^20-34]: Here Rasikananda and Murari are named as two different persons, each with his own wife (191–192); usually Rasikananda and Murari are one person (Rasika-Murari).
+[^20-35]: In the 1913 edition this couplet is apparently enclosed in brackets.
+[^20-36]: Cf. ch. 19, where Shyamananda likewise reveals the thread to the yogi Damodara; Narottama's similar miracle is told there too.
+[^20-37]: Both editions give an addition at this point: "…and Anandananda".
+[^20-38]: A tripadi quoted as the words of "a certain Vaishnava".
+[^20-39]: Variant given in both editions: "When those three were manifest, these three appeared".
+[^20-40]: In the 1913 edition a bracket opens at this couplet. Ambashtha is the caste of vaidyas (physicians).
+
+---
+
+# Vilasa 21. Madhava Acharya; Jagai and Madhai
+
+*The lineage of Madhava Acharya, husband of Ganga: son of the Varendra Vishveshvara, adopted by the Radhi Bhagiratha; on the unity of the Radhi and Varendra; the origin of Jagai and Madhai, their crimes, and their deliverance by Nityananda and Mahaprabhu*
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Srinivasa, Narottama and Shyamananda —
+writing the lives of these three, I have found joy.
+
+**3.** Listen, listen, O hearers, with one mind:
+now I shall tell of other devotees.
+
+**4.** Vishveshvara Acharya of the Kashyapa gotra, of the Maitra clan,[^21-1]
+was a supreme pandita, foremost in all virtues.
+
+**5.** Bhagiratha Acharya of the Kashyapa gotra, of the Chatta clan —
+his fame spread over the earth, [his] good deeds everywhere.
+
+**6.** This mahashaya is foremost among panditas,
+a benefactor of others, a shelter of all virtues.
+
+**7.** Vishveshvara and Bhagiratha were born in the same village;
+childhood friends, they studied together.
+
+**8.** The two friends had one life, only their bodies were different;
+their friendship cannot be described.
+
+**9.** Vishveshvara's wife was named Mahalakshmi;
+Bhagiratha's wife is called Sri Jayadurga.[^21-2]
+
+**10.** Between Mahalakshmi and Jayadurga was a deep love:
+one soul, only their bodies different.
+
+**11.** Srinatha and Sripati are Bhagiratha's sons;
+Srinatha is called Ghataka Acharya.[^21-3]
+
+**12.** Mahalakshmi gave birth to one son
+and within a few days departed to the other world.
+
+**13.** On the day when Mahalakshmi was leaving the world,
+Jayadurga was beside her.
+
+**14.** Mahalakshmi says, "Sister, this son of mine
+I give to you: now he is your son."
+
+**15.** Having said this, she departed to the other world;
+Jayadurga, grieving for her friend, wept bitterly.
+
+**16.** Taking the newborn son on her lap,
+Jayadurga went to her own home.
+
+**17.** The boy was named Madhava;
+day by day he grew like the crescent moon.
+
+**18.** Vishveshvara, grieving for his wife, was disconsolate;
+one day he called Bhagiratha and said:
+
+**19.** "Friend Bhagiratha, hear my words:
+I shall go to Kashi, become a sannyasi, and not remain at home.
+
+**20.** This son, Madhava, I give to you;
+raise him as your third son."
+
+**21.** Having said this, Vishveshvara took his leave,
+and for all Bhagiratha's efforts he did not stay at home.
+
+**22.** Madhava became Bhagiratha's third son,
+and he raised him with great care.
+
+**23.** Having accepted Madhava as his son,
+Bhagiratha was glad at heart.
+
+**24.** In due time Madhava received the sacred thread
+and began to study the various shastras.
+
+**25.** Having studied many shastras, he became a great pandita
+and was renowned by the title of Acharya.
+
+**26.** Madhava Acharya became a devotee of Nityananda,
+ever attached to Nityananda's lotus feet.
+
+**27.** To Madhava Acharya Mahashaya, a kulina of the highest rank,
+Nityananda gave his daughter Ganga.
+
+**28.** No one wished to marry a sannyasi's daughter;
+Madhava Acharya married her at his guru's command.[^21-4]
+
+**29.** Because Bhagiratha had accepted him as his son,
+and moreover by the great mercy of Nityananda Prabhu —
+
+**30.** for this reason Madhava, the treasury of virtues,
+became the foremost kulina in the Chatta lineage.
+
+**31.** But some kulinas call him "the Chatta of Vanga",
+and others call him "the Varendra Chatuti".[^21-5]
+
+**32.** Thus I have told of Madhava the Varendra:
+how he became a Radhi, and for what reason.
+
+**33.** Five twice-born came to Adishura's sacrifice;
+their descendants are the Radhi and Varendra communities.[^21-6]
+
+**34.** Between Radhi and Varendra there is no difference at all:
+the difference we see comes from enmity.
+
+**35.** There have been many marriages between Radhi and Varendra;
+the difference of name comes from the difference of region — this is evident.
+
+**36.** Listen, listen, O hearers, with one mind:
+now attend to what I shall tell.
+
+**37.** In Navadvipa lived Shubhananda Raya,
+born in a brahmana family, a kulina.
+
+**38.** The zamindar of Navadvipa, he was known as a raja;
+his good fame was proclaimed at home and abroad.
+
+**39.** He had a great friendship with the Padshah;
+he had two sons, most handsome.
+
+**40.** The elder was Raghunatha, the younger Janardana Dasa,
+supreme panditas, abodes of all virtues.
+
+**41.** Raghunatha's son was named Jagannatha,
+and Janardana's son was called Madhava.
+
+**42.** The elder, Jagannatha, was called Jagai,
+the younger, Madhava, was called Madhai.
+
+**43.** These two mahashayas were the rajas of Nadia;
+in their youth they became fearsome robbers.
+
+**44.** They plundered the country, killed people, did not acknowledge the Padshah;
+for fear of them even the kazi[^21-7] dared not come forward.
+
+**45.** Bad company overcame both brothers:
+they ate meat and drank wine with relish.
+
+**46.** They gave up sandhya, prayers and all rites
+and took to harlots and other men's wives.
+
+**47.** Seeing another man's wife, they would ruin her chastity;
+Jagai and Madhai became famous in the land as robbers.
+
+**48.** Jagai and Madhai commit theft and dacoity;
+to the sins they committed I find no end.
+
+**49.** Cow-killing, brahmana-killing — all the sins there are —
+among sins there was not one left that they had not done.
+
+**50.** The two brothers were delivered by merciful Nitai:
+being struck, he gives prema — I have never seen one so merciful!
+
+**51.** One day Nityananda, together with Haridasa,
+went merrily to Jagai and Madhai.
+
+**52.** Nitai says, "Listen, Jagai and Madhai!
+Say 'Krishna, Krishna' — then I shall be very happy."
+
+**53.** Hearing this, Jaga and Madha, like fire in their anger,
+came running at them to kill them.
+
+**54.** Seeing their anger, Nityananda and Haridasa
+fled to Mahaprabhu.
+
+**55.** Nitai says, "Listen, Gaura, Bhagavan!
+Deliver the great sinners Jagai and Madhai."
+
+**56.** Prabhu says, "Sripada, since you have compassion [for them],
+these two sinners will surely obtain the shade of [my] feet."
+
+**57.** Another day Nitai saw, a little way from Prabhu's house,
+Jaga and Madha, having drunk wine, lying senseless.
+
+**58.** Seeing their wretched state, he felt great compassion
+and went up to them swiftly.
+
+**59.** Nitai says, "Listen, Jagai and Madhai!
+Say 'Krishna', worship Krishna — there is no one but Krishna."
+
+**60.** Hearing this, Madhai took a shard of a pot[^21-8]
+and in anger struck Nitai on the head.
+
+**61.** Seeing the blood, Jagai's heart turned:
+when Madhai would strike again, Jaga held him back.
+
+**62.** As soon as Prabhu heard that Nitai's head was bleeding,
+calling to mind the Chakra,[^21-9] he came there in wrath.
+
+**63.** Nitai says, "Spare these two brothers, Prabhu!
+Give them to me as alms, Prabhu Chaitanya Gosani."
+
+**64.** Seeing the Chakra, Jaga and Madha were terrified;
+by Nityananda's mercy the Chakra vanished.
+
+**65.** Nitai says, "Jagai held Madhai back from striking;
+the blood is flowing, but I feel no pain."
+
+**66.** Hearing that Jagai had protected him, [Prabhu]
+embraced Jagai with great joy.
+
+**67.** When Mahaprabhu showed favour to Jagai,
+Madhai's heart became good at that very moment.
+
+**68.** Weeping, Madhai falls at Prabhu's feet:
+"Have mercy on me, Prabhu, I take refuge."
+
+**69.** "You struck Nitai; your offence will go
+if he casts his glance on you."
+
+**70.** Hearing this, Madhai falls at Nitai's feet;
+embracing him, [Nitai] freed him from his offence.
+
+**71.** Nitai says, "Take all my merit,
+and give me the burden of your sins.
+
+**72.** All your offences are forgiven;
+may Mahaprabhu, the Lord of the world, make you pure."
+
+**73.** Having said this, he placed tulasi in his hand
+and joyfully took all his sins upon himself.
+
+**74.** Nitai's golden complexion turned black;
+taking the name of Krishna, he burnt the sins to ashes.
+
+**75.** When Prabhu Nitai took the name of Krishna,
+at that moment his body became golden.
+
+**76.** The two became disciples of the two Prabhus
+and praise them with joyful hearts.
+
+**77.** Mahaprabhu embraced them both and said,
+"From today you two are my servants."
+
+**78.** Nitai, embracing them both, says,
+"You two have become my dear disciples."
+
+**79.** Jagai and Madhai became great devotees;
+they are counted among the branches of the two Prabhus.
+
+**80.** Jaya and Vijaya, the gatekeepers of Vaikuntha, cast down by a curse,
+were liberated in three births through enmity [to the Lord] — so the shastras say.[^21-10]
+
+**81.** In the Kali age they took birth by their own will
+and, though great sinners, obtained Prabhu's mercy.
+
+**82.** If a devotee sinks into sin,
+[the Lord] binds him with the rope of mercy and lifts him with His own hand.
+
+**83.** Whoever hears of the deliverance of Jagai and Madhai
+easily attains Chaitanya's feet.
+
+**84.** All that I have written, I wrote in obedience to the guru;
+whether I wrote well or badly, I do not know at all.
+
+**85.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the twenty-first vilasa of the Prema-vilasa.*
+
+[^21-1]: Literally "gain" (গাঁই), the clan name of Bengali brahmanas after their ancestral village. Maitra is a Varendra brahmana clan, Chatta (Chattopadhyaya) a Radhi one; hence the discussion in 29–35.
+[^21-2]: In the 1913 edition a square bracket opens here (the closing one is not visible).
+[^21-3]: Ghataka: a genealogist and matchmaker (cf. ch. 20).
+[^21-4]: In the 1913 edition 27–28 are enclosed in brackets. Cf. ch. 19, which speaks of the marriage of Ganga and Madhava Acharya.
+[^21-5]: That is, some consider him a Radhi brahmana of the Chatta clan, others a Varendra (Chatuti being the form of the clan name among the Varendra).
+[^21-6]: On Adishura see ch. 19.
+[^21-7]: The kazi is a Muslim judge and district administrator.
+[^21-8]: Literally "the rim of a [broken] pot".
+[^21-9]: The Sudarshana-chakra, the discus weapon of Vishnu.
+[^21-10]: According to the Bhagavata Purana, Jaya and Vijaya, cursed by the sages the Kumaras, were born three times as demon enemies of Vishnu (Hiranyakashipu and Hiranyaksha, Ravana and Kumbhakarna, Shishupala and Dantavakra) and were liberated by being slain by him.
+
+---
+
+# Vilasa 22. Mukunda and Vasudeva Datta; Pundarika Vidyanidhi and Gadadhara
+
+*The brothers Mukunda and Vasudeva Datta of Chittagong and Vasudeva's prayer for the deliverance of all souls; Pundarika Vidyanidhi and Madhava Mishra as manifestations of Vrishabhanu; the birth of Gadadhara, his doubt on seeing Pundarika and his initiation by him; Mahaprabhu writes a shloka in Gadadhara's Gita; Gadadhara hands the service of Gopinatha to Nayanananda Mishra*
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Listen, listen, O hearers, attentively;
+attend to what I shall now describe.
+
+**3.** The Ishvari commanded me to describe [this];
+the guru's command is strongest — I took it into my heart.
+
+**4.** In the land of Chittagong there is the village of Chakrashala;
+there lived the respected Datta family of the Ambashthas.[^22-1]
+
+**5.** In that family were born two bhagavatas[^22-2] —
+Sri Mukunda Datta and Vasudeva Datta.
+
+**6.** That both brothers are devotees of Krishna, everyone knows;
+Vasudeva is the elder, Mukunda the younger.
+
+**7.** Both came and settled in Navadvipa —
+two dear servants of Sri Krishna Chaitanya Prabhu.
+
+**8.** Sri Mukunda Datta was Prabhu's fellow student;
+he constantly held learned debates with Prabhu.
+
+**9.** The greatness of Vasudeva Datta is boundless:
+whoever hears of it, his heart melts.
+
+**10.** Vasudeva says, "Prabhu, grant me this boon:
+let all living beings go to the abode of Vaikuntha.
+
+**11.** Taking upon myself the sins of all beings,
+I shall suffer hell for ever for their sake.
+
+**12.** Deliver all living beings, Prabhu;
+my desire is to suffer hell in their stead."
+
+**13.** So great is this great soul's compassion for living beings —
+at his feet are my millions of obeisances.
+
+**14.** Mukunda Datta's true form is Madhukantha,
+and Vasudeva Datta is called Madhuvrata.[^22-3]
+
+**15.** These two mahashayas are Prabhu's singers;
+Prabhu loves their singing beyond measure.
+
+**16.** These two mahashayas are branches of Mahaprabhu;
+by remembering them one gains prema-bhakti for Krishna.
+
+**17.** The zamindar of the village of Chakrashala in Chittagong,
+very wealthy and of very pure conduct —
+
+**18.** a Varendra brahmana, excellent in lineage —
+his name is Pundarika Vidyanidhi.
+
+**19.** He is very merciful to the poor and the wretched;
+seeing a worthy recipient, he always gives away wealth.
+
+**20.** In Navadvipa he has a residence;
+from time to time he comes to Navadvipa and lives there.
+
+**21.** Sometimes he lives in Chittagong,
+sometimes he comes and stays in Navadvipa.
+
+**22.** This mahashaya is a disciple of Madhavendra Puri;
+outwardly he always behaves like a worldly man.
+
+**23.** In his heart there is the deepest devotion to Krishna,
+but no one can recognize him as a detached Vaishnava.
+
+**24.** His wife is Ratnavati, whose devotion is deep;
+she is always diligent in the worship of Sri Krishna.
+
+**25.** Pundarika Vidyanidhi is Vrishabhanu,
+and his wife Ratnavati is called Kirtida.[^22-4]
+
+**26.** Prabhu drew [him], crying, "Father Pundarika!" —
+and he came secretly from Chittagong to Navadvipa.
+
+**27.** His dear friend is Sri Madhava Mishra;
+his home is in the village of Beleti in Chittagong.
+
+**28.** He is a Varendra brahmana of the purest conduct,
+a supreme pandita, excellent in lineage.
+
+**29.** Pundarika and Madhava studied together:
+one soul, only their bodies different.
+
+**30.** Some call Madhava Mishra,
+and others call him Acharya.
+
+**31.** Coming to Navadvipa, he made his home there;
+this mahashaya is a disciple of Madhavendra Puri.
+
+**32.** Sri Radha's father, Vrishabhanu Mahashaya,
+appeared in the form of Sri Madhava Mishra.
+
+**33.** She who was Sri Radha's mother, Kirtida,
+has now become Madhava's wife Ratnavati.
+
+**34.** Vrishabhanu, in different manifestations, became Pundarika and Madhava;
+Kirtida too, in different manifestations, the two Ratnavatis.
+
+**35.** Madhava's wife Ratnavati is a devotee of Krishna,
+always attached to the worship of Sri Krishna.[^22-5]
+
+**36.** Pundarika and Madhava are great devotees of Mahaprabhu;
+both are renowned as branches of Mahaprabhu.
+
+**37.** In Navadvipa Ratnavati conceived;
+seeing this, Madhava Mishra was overjoyed.
+
+**38.** On the new-moon day[^22-6] of Vaishakha, at a most auspicious moment,
+Ratnavati gave birth to a jewel of a son.
+
+**39.** He is Gadadhara, the beloved of Gauranga;
+this mahashaya is the manifest form of Sri Radha.[^22-7]
+
+**40.** Sri Radha and Sri Krishna united are the Lord Gauranga;
+in another manifestation Radha became Gadadhara.
+
+**41.** In order to serve Gauranga,
+she took birth assuming the form of Gadadhara.
+
+**42.** Gadadhara studied together with Mahaprabhu;
+fortunate one, from childhood he was detached from the world.
+
+**43.** Mahaprabhu drew Pundarika [to himself],
+and he came secretly to Navadvipa.
+
+**44.** Prabhu weeps: "I have seen Father Pundarika!" —
+and the devotees understood that Pundarika had come.
+
+**45.** Mukunda loved Gadadhara dearly;
+Mukunda says, "A great Vaishnava has just come.
+
+**46.** He is a great Vaishnava, his devotion is deep;
+when you see him, your heart will rejoice."
+
+**47.** Having said this, he took Gadadhara with him
+and arrived at Vidyanidhi's house.
+
+**48.** Mukunda and Gadadhara bowed to Pundarika;
+[he] asked Mukunda, "Who is this youth?"
+
+**49.** Mukunda says, "You have come after a long time;
+that is why you did not recognize him.
+
+**50.** He is Madhava Mishra's son, named Gadadhara,
+a supreme pandita, utterly detached from the world."
+
+**51.** Seeing Vidyanidhi, Gadadhara
+fell into deep doubt.
+
+**52.** The dress and adornment of the Vaishnava look holy,
+but his manner is that of an inveterate worldling, like a prince.
+
+**53.** Seeing an inveterate worldling, Gadai was dejected at heart:
+"What a detached Vaishnava Mukunda has shown me!"
+
+**54.** Outwardly the manner of a worldling, inwardly deep devotion —
+this Mukunda and Vasudeva know well.
+
+**55.** Understanding what was in Gadadhara's mind,
+Mukunda joyfully recites a shloka from the Bhagavata.
+
+**56.** Hearing the shloka, Pundarika began to weep;
+maddened with love for Krishna, he lost outward consciousness.
+
+**57.** "Where is Krishna? Where is Krishna?" he cried, beside himself;
+by his kicking and flinging himself about everything was smashed.
+
+**58.** Crying "Krishna, Krishna!" he fell unconscious;
+Gadai sees on his body the signs of sattvika.[^22-8]
+
+**59.** All the doubts there had been vanished:
+"I have committed a great offence against him."
+
+**60.** Gadai says, "Mukunda, seeing his worldly conduct,
+I fell into great doubt.
+
+**61.** By this I have committed a great offence;
+in my heart is the wish to take the mantra from him.
+
+**62.** If I become his disciple, he will not hold the offence against me;
+therefore I shall take initiation from him.
+
+**63.** You will tell him all this."
+At that moment Pundarika regained consciousness.
+
+**64.** Gadadhara and Mukunda fell at his feet;
+embracing them, he raised them both and held them to his breast.
+
+**65.** Mukunda says, "Seeing your worldly conduct,
+Gadai fell into great doubt.
+
+**66.** Therefore, acknowledging his offence,
+he wishes to take initiation from you."
+
+**67.** Pundarika says, "I am very happy;
+choosing an auspicious day, I shall make him my disciple."
+
+**68.** Having said this, he embraced Gadadhara
+and on another day gave him the mantra.
+
+**69.** Srila Gadadhara is Sri Radhika, the Lakshmi of Vraja;
+he is always diligent in the service of Sri Krishna Chaitanya.
+
+**70.** He understands Chaitanya's lilas one after another
+and, judging the moment, Gadai stands on [his] left.[^22-9]
+
+**71.** On his neck Gadai wears an image of Sri Krishna
+and always serves it with love.
+
+**72.** He manifested the service of Sri Gopinatha;
+seeing this, Sri Mahaprabhu was filled with delight.
+
+**73.** Listen, listen, O hearers, with one mind:
+hear the story of another day.
+
+**74.** Pandita Gosani was copying the Gita;
+Mahaprabhu came there.
+
+**75.** Prabhu says, "Listen, Pandita Gosani,
+what book are you writing? Tell me."
+
+**76.** The Pandita says, "I am copying the Sri Gita."
+Hearing this, Prabhu snatched the Gita from his hand.
+
+**77.** Taking the manuscript, he wrote one shloka in it
+and, saying, "Take it, Gadadhara," gave it into his hand.
+
+**78.** Seeing the shloka, Gadadhara rejoiced at heart;
+bowing down, he praised it.
+
+**79.** Prabhu at once embraced him;
+within a few days Gadai completed the Gita.
+
+**80.** Pandita Gosani's elder brother is Vaninatha;
+some call him Jagannatha.
+
+**81.** Vaninatha always worships Gauranga's feet;
+other than Gauranga's feet he knows nothing.
+
+**82.** Vaninatha's son is Nayanananda Mishra Gosani;
+to his virtues there is no end.
+
+**83.** Gosani, making him his disciple, transmitted power to him,
+and Nayana received Pandita Gosani's service.
+
+**84.** When the time came for Pandita Gosani's departure,
+he called Nayanananda and said this:
+
+**85.** "This image of Krishna used to be on my neck;
+serve it always with great love.
+
+**86.** To you I entrust this service of Sri Gopinatha;
+serve him with devotion and do not worship other goddesses and gods.
+
+**87.** This Gita written in my own hand I give to you;
+Mahaprabhu wrote one shloka in it.
+
+**88.** Worship it with devotion."
+Having said this, Pandita Gosani disappeared.
+
+**89.** Seeing this, Sri Nayana Gosani lamented bitterly,
+but then by Prabhu's will he grew calm.
+
+**90.** Nayana, having performed Pandita Gosani's funeral rites,
+made his home at Bharatpur in the land of Rarh.
+
+**91.** All this I have written, placing the guru's command on my head;
+may I never forget the feet of Sri Guru and the Vaishnavas.
+
+**92.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the twenty-second vilasa of the Prema-vilasa.*
+
+[^22-1]: The Ambashthas are the caste of vaidyas (cf. ch. 20).
+[^22-2]: A bhagavata is a devotee of Bhagavan.
+[^22-3]: Madhukantha and Madhuvrata are singers in Vraja, in Krishna's eternal lila.
+[^22-4]: Vrishabhanu and Kirtida are Radha's father and mother. In the 1913 edition 24–25 are enclosed in brackets.
+[^22-5]: In the 1913 edition this couplet is enclosed in brackets.
+[^22-6]: Literally "on the kuhu day", the new moon.
+[^22-7]: In the 1913 edition 37–39 are enclosed in brackets.
+[^22-8]: The sattvika-bhavas are involuntary bodily manifestations of ecstasy: tears, trembling, stupor, perspiration and so on.
+[^22-9]: That is, as Radha, whose place is on Krishna's left.
+
+---
+
+# Vilasa 23. Mahaprabhu's Gurus; Srivasa and Vrindavana Dasa; Rupa, Sanatana and Jiva
+
+*Ishvara Puri and Keshava Bharati, the gurus of Mahaprabhu; Srivasa's family and Srivasa's account of how his life was prolonged; Narayani and the birth of Vrindavana Dasa, author of the Chaitanya-bhagavata; the lineage of Rupa and Sanatana, their renunciation and the riddle letter; Madanamohana in the house of Damodara Chaube and the temples of Vrindavana; Jiva Gosvami, his anger at a rival, his banishment and forgiveness*
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Listen, listen, O hearers, with one mind:
+now I shall tell of Ishvara Puri and Keshava Bharati.
+
+**3.** The Radhi brahmana Shyamasundara Acharya,
+a resident of Kumarahatta, was foremost in all virtues.
+
+**4.** His son Ishvara Puri, [like] Brihaspati in intellect,
+was deeply versed in the Vedas, Vedanta and other shastras.
+
+**5.** The supreme pandita Ishvara, leaving household life,
+became a disciple of Madhavendra and took sannyasa.
+
+**6.** In the ashrama of sannyasa he was named Ishvara Puri;
+he constantly served Madhavendra's feet.
+
+**7.** The Varendra brahmana Srila Kalinatha Acharya,
+a resident of Kuliya, was foremost in all virtues.
+
+**8.** Becoming a disciple of Madhavendra, he took sannyasa;
+in the world he is known by the name Keshava Bharati.
+
+**9.** Keshava Bharati and Ishvara Puri —
+one soul, only their bodies different.
+
+**10.** Keshava Bharati is Prabhu's guru of sannyasa;
+his initiating guru is Ishvara Puri: all know this.
+
+**11.** Thus I have told of Prabhu's gurus.
+Now hear the story of Srivasa Acharya.
+
+**12.** The Vaidika Jaladhara Pandita of Srihatta[^23-1]
+lived in Navadvipa with his wife.
+
+**13.** Five sons were born to him, great scholars,
+rich in virtues — in beauty, merit, character and piety.
+
+**14.** The eldest of all was Nalina Pandita Mahashaya,
+whose daughter was named Narayani.
+
+**15.** Srivasa Pandita and Sri Rama Pandita,
+Sripati Pandita and Srikanta Pandita.
+
+**16.** Srikanta's other name is Srinidhi;
+these four brothers of one womb are great devotees of Krishna.
+
+**17.** They lived in Kumarahatta and also in Navadvipa;
+all of them went back and forth between Navadvipa and Kumarahatta.
+
+**18.** Most of the time they lived in Navadvipa,
+and sometimes they stayed in Kumarahatta.
+
+**19.** In Navadvipa, in Srivasa's house, Gaurahari,
+showing mercy to the devotees, revealed the Mahaprakasha.[^23-2]
+
+**20.** Prabhu Gaurachandra sat on Vishnu's couch;
+at the abhisheka the devotees had joy in their hearts.
+
+**21.** Vrindavana Dasa described this at length;
+I have not written of it in detail.
+
+**22.** [But] at the beginning of Srivasa's youth
+there was a wondrous event — hear all of it.
+
+**23.** After the abhisheka Prabhu Srila Gaurachandra,
+Hari full of bliss, was immersed in bliss.
+
+**24.** All the devotees offered worship, praises and obeisances,
+yet outward consciousness did not return to Sri Gaurachandra.
+
+**25.** Eighteen praharas[^23-3] passed for Prabhu like a moment,
+and still Sri Gaurangachandra did not come to outward consciousness.
+
+**26.** Then Advaita, Srivasa and all the devotees, as many as there were,
+first prostrated themselves on the ground with love.
+
+**27.** Seeing the devotees' distress, Prabhu returned to outward consciousness
+and placed his feet on the head of each.
+
+**28.** Beside themselves with joy, all the devotees
+began the sankirtana of Hari-nama.
+
+**29.** From the seat of kirtana Prabhu says to Advaita:
+"You brought me down from Goloka."
+
+**30.** Advaita says, "I am the smallest of the small;
+you came to show mercy to living beings.
+
+**31.** You have come to establish bhakti-yoga;
+that is why people see you, receiving mercy.
+
+**32.** *Likewise, for the paramahamsas, the sages pure of heart,
+[you have come] to establish bhakti-yoga — how then shall we women see you?*[^23-4]"
+
+**33.** Having heard Advaita, [Prabhu] then said to Srivasa,
+"With a slap of my palm I preserved your life.
+
+**34.** Hey, Srivasa, if you remember that affair,
+tell it in detail before the whole assembly."
+
+**35.** Receiving the command from the holy lips, Srivasa then
+told everything from beginning to end.
+
+**36.** Srivasa says, "Until sixteen I was unruly:
+I honoured neither gods, nor guru, nor brahmanas at all.
+
+**37.** My mind was always on bad deeds and idle talk;
+not once did I show devotion to Bhagavan.
+
+**38.** But one night in sleep a Supreme Person
+mercifully instructed me:
+
+**39.** 'Hey, you lowest of brahmanas, with a fickle heart!
+You have only one year left to live.
+
+**40.** Do not waste your time any longer:
+go quickly and worship Sri Krishna.'
+
+**41.** Having said this, that god disappeared;
+on waking I see that dawn has come.
+
+**42.** Knowing my life to be short, I became downcast;
+all my faults — frivolity and the rest — left me.
+
+**43.** I thought ceaselessly of my welfare in the next world
+and found a saying in the Naradiya Purana:
+
+**44.** *The name of Hari, the name of Hari, only the name of Hari!
+In the Kali age there is no, no, no other way.*[^23-5]
+
+**45.** Seeing this, I became immersed in Hari-nama;
+my mind no longer turned to worldly life.
+
+**46.** Seeing my devotion to Sri Krishna, everyone
+constantly mocked me in various ways.
+
+**47.** But I felt no pain from it at all:
+I was ceaselessly reckoning the day of my death.
+
+**48.** The days went by, and a year passed:
+the day of death arrived.
+
+**49.** Devananda Pandita is a teacher of the Bhagavata;
+on the day of my death I hurried to him.
+
+**50.** I listened to the Bhagavata — the story of Prahlada,
+as Devananda Pandita expounded it.
+
+**51.** As I was listening, the hour of death came:
+from the veranda I fell into the courtyard.
+
+**52.** Just then a Great Person came
+and, slapping me with his palm, brought me back to life.
+
+**53.** Receiving [a new] span of life, I rose;
+all lifted me up and carried me into the house."
+
+**54.** Prabhu says, "Hey, Srivasa, [it was I who] appeared to you in a dream,
+gave you a span of life and saved you from death.
+
+**55.** Hey, Srivasa, you are Narada, my servant;
+Sri Rama Pandita is Parvata, the best of sages.
+
+**56.** Sripati and Srikanta are his manifestations;
+you four brothers are my eternal servants."
+
+**57.** Hearing Prabhu's words, all the devotees
+were immersed in an ocean of bliss.
+
+**58.** This happened before Prabhu's birth,
+and was revealed on the day of the Mahaprakasha.
+
+**59.** Srivasa's elder brother was Nalina Pandita;
+his daughter Narayani is known to the world.[^23-6]
+
+**60.** When Narayani was one year old,
+her mother and father departed to the other world.
+
+**61.** Srivasa's wife brought her up;
+Narayani came to partake of Prabhu's remnants.
+
+**62.** By Sri Gauranga's command and mercy Narayani
+cries "O Krishna!" — weeps and falls to the ground.
+
+**63.** To a four-year-old girl, innocent,
+Prabhu gave the remnants of his meal.
+
+**64.** That Kilimbika who in Vrindavana ate Krishna's remnants
+is now Narayani.[^23-7]
+
+**65.** Having taken sannyasa, Mahaprabhu remained in Nilachala,
+and Srivasa and Sri Rama went to Kumarahatta.
+
+**66.** There was a brahmana named Vaikunthadasa, a resident of Kumarahatta;
+Narayani was married to him.
+
+**67.** From her womb Vrindavana Dasa was born;
+he is a manifestation of Srila Vedavyasa.
+
+**68.** While Vrindavana Dasa was still in the womb,
+his father Vaikunthadasa departed to heaven.
+
+**69.** Seeing his brother's daughter pregnant and widowed,
+Srivasa brought her and kept her in his own house.
+
+**70.** As a child of five, Vrindavana Dasa
+settled with his mother at Mamgachhi.[^23-8]
+
+**71.** Vasudeva Datta, a vessel of Prabhu's mercy,
+maintained Vrindavana together with his mother.
+
+**72.** They lived at Vasudeva Datta's temple,
+and Vrindavana began to study the various shastras.
+
+**73.** Having studied many shastras, he became a great pandita;
+by him the book Chaitanya-mangala was composed.
+
+**74.** The Chaitanya-mangala is like the Bhagavata;
+seeing this, all the devotees in Vrindavana
+
+**75.** gave it the name Chaitanya-bhagavata;
+reading it, the devotees are filled with boundless joy.
+
+**76.** Two years after Chaitanya's disappearance,
+Nityananda vanished from sight.
+
+**77.** Two years after that Sri Advaita Raya,
+dismissing both Prabhus, went to his own abode.[^23-9]
+
+**78.** Having invoked, completed the worship,
+and dismissed, he went to his own abode.
+
+**79.** After the disappearance of the three Prabhus,
+Vrindavana settled in the village of Denur.
+
+**80.** Thus I have briefly told of Vrindavana Dasa;
+hearing this, the listeners will be glad at heart.
+
+**81.** Listen, listen, O hearers, with one mind:
+attend to what I shall now tell.
+
+**82.** A Vaidika brahmana of Karnata in the south,
+of the Yajurveda and the Bharadvaja gotra —
+
+**83.** the son of Mukundadeva, named Sri Kumara,
+lived at Naihati on the bank of the Ganga.
+
+**84.** For fear of the yavanas Kumara left Naihati
+and lived for some time at Chandradvipa in Vanga.
+
+**85.** Among his sons three were foremost among panditas:
+Sanatana, Rupa and Sri Vallabha by name.
+
+**86.** They became favourites of the yavana king
+and, coming to the village of Ramakeli, settled there.
+
+**87.** Formerly Sanatana's name was Dabir Khas,
+and Sri Rupa's former name was Sakar Mallik.[^23-10]
+
+**88.** Vallabha's other name is Anupama;
+his son is Jiva Gosani, the best of panditas.
+
+**89.** On the pretext of going to Vraja, Chaitanya Bhagavan
+set out for the village of Ramakeli.
+
+**90.** Prabhu showed great mercy to Rupa and Sanatana,
+and the names Rupa and Sanatana became manifest.
+
+**91.** On that journey Mahaprabhu did not go to Vraja:
+from Kanai Natashala he returned to Nilachala.
+
+**92.** One day Rupa Gosani, having done the state business,
+came home late at night.[^23-11]
+
+**93.** Having eaten and so on, he lay down,
+and then some insect came and bit him.
+
+**94.** Gosani tells his wife to light a lamp:
+"A terrible poisonous insect has bitten me."
+
+**95.** In her haste his wife found nothing
+and set fire to Rupa Gosani's garment.
+
+**96.** Gosani says, "A very costly garment has burnt."
+His wife says, "I have done my duty.
+
+**97.** Serving the husband, worshipping the husband is the essence [of duty] for a woman;
+beside it wealth, diamonds and pearls are dust."
+
+**98.** Rupa says, "Beloved, you have done your duty —
+why have I not seen my own duty?"
+
+**99.** Having said this, Rupa gained great discernment
+and quickly sent a man to Sri Chaitanya.
+
+**100.** The man came back and reported to Sri Rupa:
+Prabhu had gone by the forest path to Vrindavana.
+
+**101.** Hearing this, the two brothers wished to give up worldly life;
+giving much wealth, they engaged two brahmanas
+
+**102.** and had them perform two purashcharanas of the Krishna mantra,
+so as to attain Chaitanya's feet quickly.
+
+**103.** Having performed the purashcharana, Rupa left home;
+seeing Sanatana's delay, he wrote a letter.
+
+**104.** Rupa says, "To give up worldly life is no simple matter:
+Sanatana's attachment to worldly things is deep."
+
+**105.** In the letter he wrote only these few syllables:
+"ya-ri, ra-la, i-ram, na-ya" — listen, O most wise.[^23-12]
+
+**106.** Reading the letter, Sanatana began to ponder;
+after long thought he uncovered the letter's meaning.
+
+**107.** As it is said:
+*Where has the city of Mathura of the Lord of the Yadus gone?
+Where has Northern Koshala of the Lord of the Raghus gone?
+Reflecting thus, make your mind steady:
+this world is not lasting — understand this.*[^23-13]
+
+**108.** As soon as Sanatana uncovered the letter's meaning,
+that very moment his desire for worldly things left him.
+
+**109.** Sanatana says, "The king is fond of me;
+if the king is displeased, that will be my way [to freedom]."
+
+**110.** Having said this, Sanatana gave up state business
+and day and night discussed the Bhagavata with panditas.
+
+**111.** Seeing his affairs ruined, the king grew very angry,
+bound Sanatana and put him in prison.
+
+**112.** He informed Rupa of everything by a letter;
+receiving the letter, Rupa told him where the money [was].[^23-14]
+
+**113.** Giving the money, Sanatana bought his release
+and fled in haste to meet Prabhu.
+
+**114.** Wearied by the road, Gosani Sanatana
+lay down at the foot of a tree.
+
+**115.** Under his head, his sides, his palms and his soles
+[he put] clods of earth as pillows, and lay on the ground.
+
+**116.** Seeing this, an old woman says laughing,
+"A rich man's son has become a dervish![^23-15]
+
+**117.** He gave up worldly life and lies on the ground —
+yet with clods of earth he shows his former habits!"
+
+**118.** Sanatana quickly rose and bowed to the old woman:
+"Mother, you are a guru: you have given me instruction."
+
+**119.** Having said this, Sanatana went on from there;
+by Chaitanya's mercy the root of worldliness in him was destroyed.
+
+**120.** At Prayaga Prabhu infused power into Sri Rupa,
+in the holy city of Varanasi he instructed Sanatana.
+
+**121.** Thus Rupa and Sanatana, by Chaitanya's mercy,
+gave up worldly life, and both went to Vrindavana.
+
+**122.** Krishnadasa Kaviraja described this at length;
+what remained I have written here.
+
+**123.** What Krishnadasa Kaviraja did not write,
+I have described, having heard it from the lips of Vaishnavas.
+
+**124.** Listen, listen, O hearers, with one mind:
+now I shall tell of the appearance of Madana-gopala.
+
+**125.** Damodara Chaube and his wife Sri Vallabha
+serve Madana-gopala with devotion.
+
+**126.** Madana-gopala they call Madanamohana
+and raise him with a parent's love for a son.
+
+**127.** With Chaube's son the Thakura[^23-16] is in a mood of friendship:
+sometimes they fight and complain [of each other].
+
+**128.** They eat and drink together, sleep together,
+and the two wander about together.
+
+**129.** When Rupa and Sanatana came to Vrindavana,
+Madanamohana came [to Sanatana] in a dream and said:
+
+**130.** "Hey, Sanatana, I am in Chaube's house;
+bring me and serve me with care."
+
+**131.** On the pretext of begging alms Sanatana goes to Chaube's house;
+Chaube serves Madanamohana as his son.
+
+**132.** Of the parental love of Chaube and his wife
+I can in no way tell with a single mouth.
+
+**133.** Seeing this feeling, Sanatana was amazed
+and thought of them as Nanda and Yashoda.[^23-17]
+
+**134.** Seeing Sanatana, Madanamohana says,
+"Take me with you wherever you wish."
+
+**135.** Madanamohana says to Chaube and his wife,
+"You raised me with a parent's love.
+
+**136.** Listen, mother and father, to one word:
+you will dwell in Goloka — it shall surely be so.
+
+**137.** I shall go with Sanatana;
+do not grieve at all."[^23-18]
+
+**138.** Hearing this, both wept aloud,
+and he consoled them with the sweetest words.
+
+**139.** Bowing to Chaube, Gosani Sanatana
+took Madanamohana to his own abode.
+
+**140.** He manifested the service of Madanamohana;
+seeing this, the people of Vraja rejoiced.
+
+**141.** Madanamohana wished to dwell in a temple —
+and by providence a merchant's boat ran aground on a sandbank.
+
+**142.** The merchant came there, prostrated himself on the ground
+and, bowing, said with joined palms:
+
+**143.** "Let my boat go on — from the profit of my trade
+I shall build a temple; hear me, Gosani."
+
+**144.** As soon as he said this, the boat floated freely,
+and on that voyage the merchant made a great profit.
+
+**145.** Having built the temple of Sri Madana-gopala,
+he joyfully arranged for the service.
+
+**146.** Gradually other merchants came
+and all together began to build temples:
+
+**147.** for Govinda, Gopinatha, Radha-Damodara,
+Radha-vinoda, Radha-ramana, Shyamasundara.
+
+**148.** Having built temples for these deities,
+they joyfully arranged for the service.
+
+**149.** These seven deities are the kings of Vrindavana;
+people from many lands come to worship them.
+
+**150.** Now I shall tell of Sri Jiva Gosvami;
+listen, listen, O hearers, with one mind.
+
+**151.** Vallabha's son is named Sri Jiva Gosani;
+there is no pandita equal to him in any land.
+
+**152.** His most keen intellect enchants the world;
+he composed the philosophical Sandarbhas and the Sarva-samvadini.
+
+**153.** The Sarva-samvadini is a supplement to the Sandarbhas,
+a most excellent book, famed on earth.
+
+**154.** In the Sandarbhas he examined all philosophical systems,
+and in the Sarva-samvadini set forth the examination of the Advaita doctrine and so on.
+
+**155.** Having become learned in all shastras and an author of shastras,
+he asks his mother for news of his paternal uncles.[^23-19]
+
+**156.** His mother says, "Son, your two uncles
+have become renunciants and perform bhajana in Vraja.
+
+**157.** They expound the Bhagavata, write commentaries and books of bhakti,
+constantly chant the Name and worship Krishna.
+
+**158.** They teach bhakti to Krishna and practise it themselves;
+whoever sees them is immersed in devotion to Krishna.
+
+**159.** Their renunciation cannot be described in words;
+whoever sees them falls at your uncles' feet.
+
+**160.** They wear a waist-string and kaupina, covered with an outer cloth,
+and by begging they get food for the belly."
+
+**161.** [Jiva asks:] "How do they wear the string, the kaupina and the outer cloth?
+How do they beg and gather food?"
+
+**162.** His mother says, "They shave their heads, keeping a shikha;[^23-20]
+they wear the string and kaupina and cover them with the outer cloth.
+
+**163.** With a karanga[^23-21] in hand they beg a handful from door to door
+and wander from forest to forest, crying 'Sri Krishna Chaitanya!'"
+
+**164.** Hearing his mother's words, Jiva did exactly that
+and, having begged, says, "Mother, is this what you said?"
+
+**165.** His mother says, "Son, your two uncles
+wander about in Vrindavana just like this."
+
+**166.** His mother says, "Son, seeing you in this garb,
+I feel great pain in my heart."
+
+**167.** Jiva says, "Mother, do not grieve:
+by your mercy all my sorrows will go.
+
+**168.** By telling me of the garb you have done me a kindness:
+through you the whole family is delivered."[^23-22]
+
+**169.** Having said this, Jiva went to Vrindavana,
+came to Sri Rupa and took initiation.
+
+**170.** In Vrindavana Jiva always performed bhajana;
+the Gosvami composed the philosophy of the Six Sandarbhas.
+
+**171.** First a certain digvijayi[^23-23] came to Vrindavana;
+his name was Rupa Narayana.
+
+**172.** He was defeated in debate by Sri Jiva
+and afterwards took the initiation mantra according to Sri Chaitanya's teaching.
+
+**173.** Of this great pandita, the devotee Rupa Narayana,
+I have already told.[^23-24]
+
+**174.** Some time later another powerful pandita
+came to Vrindavana.
+
+**175.** He took a certificate of victory[^23-25] from Rupa and Sanatana —
+and anger arose in the heart of Sri Jiva Gosvami.
+
+**176.** Defeating that pandita in debate,
+he snatched from him all the certificates of victory.
+
+**177.** Dejected, the pandita came to Rupa;
+Rupa, giving him a certificate of victory, consoled him.
+
+**178.** Sri Rupa called Sri Jiva and said to him,
+"Fool, you have put on the garb of renunciation before your time.
+
+**179.** You did not grow angry at [your own] anger;
+therefore I shall not look upon your face again."
+
+**180.** Rejected by his guru, Jiva, in deep dejection,
+went into a lonely forest.
+
+**181.** There he composed the book Sarva-samvadini,
+but did not write in it the names of his gurus Rupa and Sanatana.
+
+**182.** Jiva remains in great sorrow, his body grown thin;
+by chance Sanatana saw him and came near.
+
+**183.** Seeing Sanatana, Jiva bowed down;
+Sanatana consoled and encouraged Jiva.
+
+**184.** Sanatana went to Rupa and said one thing to him:
+"Tell me without fail: what is the duty towards jivas?"[^23-26]
+
+**185.** Rupa says, "Gosani, you know everything:
+compassion for jivas and a taste for the Name — this you accept."
+
+**186.** Sanatana says, "Then why is there no compassion?"
+Rupa Gosani, laughing, says, "You are compassionate."
+
+**187.** Rupa Gosani said, "Since you have shown compassion,
+there is no offence: I have forgiven him."
+
+**188.** Having said this, he then summoned Sri Jiva,
+and both placed their holy feet on his head.
+
+**189.** Having received mercy, Jiva with undivided joy in his heart
+composed the Krama-sandarbha and other books.
+
+**190.** All this I have written in obedience to the guru's command;
+whether I wrote well or badly, I do not know at all.
+
+**191.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the Prema-vilasa.
+
+*Thus ends the twenty-third vilasa of the Prema-vilasa.*
+
+[^23-1]: Srihatta is Sylhet (now in Bangladesh).
+[^23-2]: The Mahaprakasha ("great manifestation") is the day when Mahaprabhu in Srivasa's house sat on Vishnu's throne, received abhisheka and revealed his divine nature to the devotees; it is described in detail in Vrindavana Dasa's Chaitanya-bhagavata.
+[^23-3]: A prahara is a quarter of the day or night, about three hours.
+[^23-4]: Bhagavata Purana 1.8.20 (Kunti's prayer).
+[^23-5]: A well-known shloka from the Brihan-naradiya Purana.
+[^23-6]: In the 1913 edition a bracket opens here (the closing one is not visible).
+[^23-7]: According to the Gaura-ganoddesha-dipika, Narayani is Kilimbika, sister of Ambika, Krishna's nurse.
+[^23-8]: Mamgachhi is a village near Navadvipa.
+[^23-9]: The image is taken from the rite of puja: the deity is "invoked" (avahana) at the beginning of worship and "dismissed" (visarjana) at the end; cf. 78.
+[^23-10]: Dabir Khas and Sakar Mallik are Persian titles at the court of the Sultan of Bengal (Husain Shah).
+[^23-11]: At this couplet a square bracket opens in the 1913 edition; the closing one apparently stands after the colophon of the vilasa.
+[^23-12]: These are the final and initial syllables of the lines of the shloka quoted in 107 (in the Bengali reading: ya[dupateh]…[pu]ri, ra[ghupateh]…[kosha]la, i[ti]…[sthi]ram, na…[dhara]ya).
+[^23-13]: The shloka is quoted without naming its source.
+[^23-14]: Variant given in both editions: "…Rupa indicated [where the money was]". Cf. Chaitanya-charitamrita, Madhya 19: Rupa left money for Sanatana with a merchant.
+[^23-15]: In the 1913 edition a bracket opens here (the closing one is not visible). A dervish is a Muslim mendicant ascetic.
+[^23-16]: That is, the deity Madana-gopala.
+[^23-17]: In the 1913 edition a bracket opens here (the closing one is not visible).
+[^23-18]: In the 1913 edition 136–138 are enclosed in brackets.
+[^23-19]: In the 1913 edition 155–165 and 166–168 are enclosed in brackets.
+[^23-20]: The shikha is the tuft of hair on the crown kept by Vaishnavas and brahmanas.
+[^23-21]: A karanga is a renunciant's water vessel (of coconut shell or gourd).
+[^23-22]: That is, through the son's renunciation — in the traditional view, the renunciation of one delivers the whole family.
+[^23-23]: A digvijayi is a scholar who tours the lands defeating rivals in disputation (cf. ch. 19).
+[^23-24]: See ch. 19.
+[^23-25]: A jaya-patra is a written acknowledgement of defeat which the loser in a disputation gives to the victor; Rupa and Sanatana signed it without entering into debate.
+[^23-26]: A play on words: "jiva" means both "living being" and the name Jiva.
