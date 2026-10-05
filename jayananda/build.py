@@ -64,6 +64,9 @@ text (editions of 1905 and 1971) is not freely available, so everything that cou
 3. **His note** of 1898 on the authenticity of the poem.
 4. **An excerpt from Jadunath Sarkar** (1922): his English translation of the scene of Chaitanya's passing
    according to Jayananda, reproduced as published.
+5. **Quotations from the poem in later authors**: 88 passages gathered from D. C. Sen (1914), Girijashankar
+   Raychaudhuri (1946), B. B. Majumdar (1939/1959), Sukumar Sen (1940) and others; only Jayananda's verse is
+   translated, arranged by khanda.
 
 Vasu's articles and Sarkar's book are in the public domain. Verse is translated line by line, without rhyme;
 corrupt passages are discussed in the translator's notes; Vasu's own notes are marked as such. Names follow
