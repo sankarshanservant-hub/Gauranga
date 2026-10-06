@@ -85,6 +85,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 2. Beholding Sri Mathura-mandala
   - Prakrama 4, Sarga 3. The Account of the Twelve Forests
   - Prakrama 4, Sarga 4. Beholding the Ghats, Wells and Other Places of Mathura-mandala
+  - Prakrama 4, Sarga 5. The Story of the Setubandha Lake
+  - Prakrama 4, Sarga 6. Beholding Mahavana and Other Places
+  - Prakrama 4, Sarga 7. Beholding the Sites of the Stealing of the Garments and Other Pastimes
+  - Prakrama 4, Sarga 8. Beholding Sri Govardhana and Other Places
 
 ---
 
@@ -3856,3 +3860,226 @@ Bhaktisiddhanta Sarasvati.
 [^404-8]: Agastya: the great sage, a hero of the Puranas.
 [^404-9]: Devaki: Krishna's mother; Kamsa killed her infants by dashing them against a stone.
 [^404-10]: Bhuteshvara ("Lord of Beings"): a linga of Shiva, the guardian of Mathura.
+
+---
+
+## Prakrama 4, Sarga 5. The Story of the Setubandha Lake
+
+*Through a sleepless night the Lord yearns for Krishna; Krishnadasa tells Him the extent of Mathura-mandala and the story of the Setubandha Lake, where Krishna, calling Himself Rama, built a dam of stones and trees in a contest with Radha; hearing this secret, the Lord dances in Radha's mood*
+
+**1.** Then the Lord, though He had lain down to rest, was filled with the rasa of devotion: full of longing, He sang of Krishna's pastimes and shed tears of love.
+
+**2.** Every moment He asked, "Krishnadasa, talk to Me! This night has grown so long — it torments Me."
+
+**3.** He answered, "Listen, O Lord. The learned say that Mathura-mandala extends for eighty-four kroshas[^405-1].
+
+**4.** I shall show You all of it in order, if You will keep Your mind steady; then I too shall be happy, O You who love Your devotees.
+
+**5.** Going a little way north of the pond, behold the lake called Setubandha — Sri Krishna Himself made it."
+
+**6.** Hearing this, the Lord, His whole body thrilling, said in wonder and with respect, "Tell Me all about it, Krishnadasa."
+
+**7.** Thus drinking the words of Sri Gaurachandra, nectar to the ears, and remembering Krishna, he began with a smile:
+
+**8.** "Once Hari, the crown of rasikas, who delights in the sports of rasa with the gopis, was frolicking in this lake like a young elephant and prattling, 'I am the best of the Raghus!'[^405-2]
+
+**9.** Radha, the crest-jewel of lovely women, said to Him, 'You are a cowherd's son who grazes the cattle. That king was the guardian of truth and dharma — his deeds are beyond anyone else.
+
+**10.** To bridge the ocean and slay Ravana — that befits him alone. Don't go parading your own virtues, you thief of young girls' clothes and ornaments!'[^405-3]
+
+**11.** Krishna, a treasury of fun whose one delight is the rasa of laughter and pranks, replied, 'I alone am the treasure-house of every virtue — know that, for you are only a cowherd girl.
+
+**12.** Though stones can never be split, not by all the mountains, nor by great riches and arrows[^405-4], still behold, O treasure of feeling, the power of one who possesses every jewel of virtue!'
+
+**13.** Hearing the gist of the words of Radhika, supreme among rasikas, all her friends gathered in a band and eagerly brought stones and the like together with heaps of trees, and with them He built the dam. Watching it, they bowed to Him with cries of 'Victory!' and sang His praise.
+
+**14.** Glory to the pastimes of Sri Radha and Krishna with the gopis[^405-5], rich in the sweetest rasa of laughter and the other rasas, ever full of love! Hearing of them, the supreme rasikas joyfully remember those Two; laughing at the bliss of knowledge, they eagerly cast away even liberation entire."
+
+**15.** Hearing this most wonderful secret of Krishna, Gaurahari, possessed by the rasa of Radha, danced in helpless joy.
+
+*Thus ends the fifth sarga, "The Story of the Setubandha Lake" (Setubandha-sarovara-prasanga), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^405-1]: Krosha: a measure of distance, about three kilometres; eighty-four kroshas is the traditional circuit of Vraja-mandala.
+[^405-2]: The best of the Raghus: Rama, who built the bridge to Lanka (Setubandha means "the building of the bridge").
+[^405-3]: An allusion to the stealing of the gopis' garments (Bhagavata Purana 10.22).
+[^405-4]: The sense of this half of the verse is obscure in the text; the rendering is conjectural.
+[^405-5]: The printed text of this verse has two gaps (at the beginning of its second and third lines); the translation follows the surviving words.
+
+---
+
+## Prakrama 4, Sarga 6. Beholding Mahavana and Other Places
+
+*Crossing the Yamuna, Krishnadasa shows the Lord Mahavana and Nanda's house — the places of Krishna's childhood pastimes: the liberation of Putana, the binding of Damodara, the broken Arjuna trees; Gokula, Gopeshvara, Sapta-samudra, the houses of Ayana, Ananda and Upananda; the story of Nanda handing Krishna to a gopi on a stormy day moves the Lord; the sarga ends with Vraja moving to Bhadraka and Bhandira*
+
+**1.** Conversing thus, the brahmana crossed the daughter of the Sun together with the Lord and showed Him the house of Nanda — Mahavana.
+
+**2.** "Here Putana attained liberation, here the cart was shattered, here Hari slew the wicked Trinavarta[^406-1].
+
+**3.** Here Krishna, yawning, showed His mother the wondrous universe within His belly, and she, though frightened, gave Him her blessing.
+
+**4.** Here too, it is said, Garga performed the name-giving rite[^406-2]; here Krishna ate clay and revealed the universal form.
+
+**5.** Here Hari Himself held the churning-rod for the curd; here the Lord would begin to dance to delight His mother.
+
+**6.** Yashoda took Him on her lap, laughed as she gazed at His face, and, full of tenderness, gave Him the breast.
+
+**7.** Seeing the milk boiling over, the good woman quickly set Him down, took the milk off the hearth and went back to her churning[^406-3].
+
+**8.** But Krishna grew angry and broke the pot with a stone; He went into the house, ate His fill of fresh butter and, climbing on the mortar, stood there laughing.
+
+**9.** Then Yashoda, perceiving her son's mischief and seeing Him prattle and laugh, bound Him with a rope — and so it was here that He received the name Damodara[^406-4], He who bestows love.
+
+**10.** Here the Lord Damodara broke the twin Arjuna trees[^406-5]; here the Lord who bestows all fruits gave away grain and ate fruit[^406-6].
+
+**11.** To the south of this lies Gokula, which is called Goloka; here Hari played His childhood games with His mother.
+
+**12.** Behold here the god Gopeshvara[^406-7], O Lord of all lords, and here the pond Sapta-samudra, which purifies the worlds.
+
+**13.** In the village to the west is the house of Ayana[^406-8], full of rasa; to the south of it lived a cowherd named Ananda.
+
+**14.** In the middle of the village is the house of Upananda, which gave joy to Krishna, and on its western side is the grove where Ravana performed austerities.
+
+**15.** To the north of it, O Krishna, is the hermitage of the sage Durvasa, and near it, O Lord, are Lohavana and Bilvavana.
+
+**16.** Behold this place too: here Nanda would happily play with Krishna, and He gave him the most wonderful rasa of His childhood pastimes.
+
+**17.** Seeing the clouds gathering, Nanda said to a lovely gopi, 'Take Krishna and quickly bring Him to the mistress of my house.'[^406-9]
+
+**18.** She set Him on her lap and kissed Him, beside herself with bliss; and when He held her tightly in His arms, she was overcome with wonder and left quite helpless."
+
+**19.** Hearing of this exultation of Krishna's rasa, of the glory of the Child, Gaura-Krishna Himself lovingly embraced Krishnadasa.
+
+**20.** "Behold this too, O Govinda: here is an auspicious deed of Gopala — this pond was made by Hari when He came here to graze the cows.
+
+**21.** Here also the good Upananda, surrounded by the cowherds, summoned Nanda and, taking counsel for Krishna's welfare,
+
+**22.** mounted the carts with all Vraja, together with Rama and Krishna, and went to Bhadraka and Bhandira[^406-10]; there they lived for two months."
+
+*Thus ends the sixth sarga, "Beholding Mahavana and Other Places" (Mahavana-adi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^406-1]: Putana: the demoness who tried to poison the infant Krishna with her breast; the cart beneath which Krishna lay He overturned with His little foot; Trinavarta: the whirlwind demon (Bhagavata Purana 10.6–7).
+[^406-2]: Garga: the priest of the Yadus, who secretly named Krishna and Balarama (Bhagavata Purana 10.8).
+[^406-3]: The reading of this line is a conjectural restoration.
+[^406-4]: Damodara: "He whose belly (udara) is bound with a rope (dama)" (Bhagavata Purana 10.9).
+[^406-5]: The twin Arjuna trees: Nalakuvara and Manigriva, sons of Kubera, cursed by Narada; Krishna, tied to the mortar, uprooted them (Bhagavata Purana 10.10).
+[^406-6]: An allusion to the fruit-seller to whom the child Krishna gave a handful of grain, and who filled His hands with fruit in return (Bhagavata Purana 10.11).
+[^406-7]: Gopeshvara ("Lord of the Cowherds"): a local deity of Mahavana.
+[^406-8]: Ayana: the cowherd who, by tradition, was considered Radha's husband.
+[^406-9]: Compare the opening of Jayadeva's Gita-govinda, where Nanda, seeing the clouds, bids Radha take Krishna home.
+[^406-10]: Bhadraka and Bhandira: two of the twelve forests of Vraja (see sarga 3).
+
+---
+
+## Prakrama 4, Sarga 7. Beholding the Sites of the Stealing of the Garments and Other Pastimes
+
+*Krishnadasa leads the Lord through Vrindavana: the fort of carts, the places where Vatsasura, Bakasura, Aghasura, Dhenuka and Pralamba were slain, where Brahma stole the calves, where Kaliya was subdued, the Ghat of the Twelve Adityas, the Bhandira banyan, the Ishika forest where Krishna swallowed the forest fire, the place where He stole the gopis' garments, and where He accepted food from the brahmanas' wives*
+
+**1.** "And then, across the Yamuna, lies the eternal Vrindaranya; there Nanda and the other cowherds tirelessly made their dwelling.
+
+**2.** Behold: here the fathers and other elders made a fort of carts; guarded by them, Rama and Krishna played with the cows and the cowherd folk.
+
+**3.** Here, at the root of a kapittha tree, Janardana slew Vatsasura, who had taken the form of a calf, and also Bakasura, who came in the guise of a crane, O Gaurachandra[^407-1].
+
+**4.** Here too Sri Rama and Janardana, the two Lords of the world, played with their friends, who carried flutes, sticks and the like — amid throngs of monkeys and birds, amid the cries of peacocks and other sounds."
+
+**5.** Hearing this, the Lord Gaurachandra — the crown of the kings of rasikas, who had Himself taken the beautiful form of a devotee — was filled with the rasa of Krishna, enfolded by the rasas of both His pastimes, the former and the present, as the object of love and as its abode[^407-2].
+
+**6.** "Behold here, O Gauranga: here Agha too came in the form of a serpent — Baka's younger brother, a great sinner — and Hari slew him[^407-3].
+
+**7.** Here the Self-born[^407-4], seeing Krishna's merry feast with His kin and friends, stole away the calves and His companions for a year.
+
+**8.** Here Dhenuka was slain and mercifully set free; here Kaliya was subdued[^407-5] — behold this crystal-clear pool.
+
+**9.** Behold here too, O Teacher of the world, the image of the Subduer of Kaliya. Here Krishna, pretending to be chilled, came up out of the water.
+
+**10.** And here the twelve Adityas[^407-6] rose in the sky; so those versed in the Vedas call this place the Ghat of the Twelve Adityas.
+
+**11.** Here too Nanda's son, who takes away His devotees' sorrows, delivered the calf-herding boys from the forest fire.
+
+**12.** Having lost a game, Krishna gladly carried a boy named Shridama, while Pralamba carried the son of Rohini[^407-7].
+
+**13.** But He saw through the demon, clenched His lotus hand into a fist and struck him on the head, and the demon fell down lifeless.
+
+**14.** Behold the greatest banyan in Vrindaranya, called Bhandira. And here is the forest called Ishika. The herd, lured by the grass,
+
+**15.** wandered into it, and Krishna brought it back with the sound of His flute. And when Sri Hari saw His companions caught in the midst of the forest fire,
+
+**16.** He who loves His devotees took the fire into His palm and drank it[^407-8]. Behold too what Sri Krishna, the knower of rasa, did here.
+
+**17.** Desiring Him alone as their husband, the maidens kept a vow[^407-9]. Here, on the bank of the Yamuna, they laid aside their clothes and ornaments
+
+**18.** and went into the water. Then the crown of gallants took their clothes and nimbly climbed a nipa tree[^407-10].
+
+**19.** He laughs — and the trees laugh with Him. And they, shivering with cold and imbued with pure feeling, satisfied Krishna.
+
+**20.** Here Krishna, together with Sri Rama, pointing out to him the trees of Vrindaranya and praising them, went on to the Yamuna.
+
+**21.** And then, here, the Enjoyer of sacrifices accepted food from the brahmanas' wives[^407-11] and ate it with the boys and with mighty Bala."
+
+*Thus ends the seventh sarga, "Beholding the Sites of the Stealing of the Garments and Other Pastimes" (Vastra-harana-adi-lila-sthali-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^407-1]: Vatsasura and Bakasura: demons sent by Kamsa, who took the forms of a calf and of a huge crane (Bhagavata Purana 10.11).
+[^407-2]: Vishaya is the object of love (Krishna), ashraya its abode (the devotee). In His former pastime the Lord, as Krishna, was the object of love; in the present one, as Gaura, He is its abode.
+[^407-3]: Aghasura swallowed the cowherd boys and calves in the form of a huge serpent and was slain by Krishna from within (Bhagavata Purana 10.12).
+[^407-4]: The Self-born (Svayambhu): Brahma (Bhagavata Purana 10.13).
+[^407-5]: Dhenuka: the ass-demon slain by Balarama; Kaliya: the many-headed serpent who poisoned the Yamuna and whom Krishna subdued by dancing on his heads (Bhagavata Purana 10.15–16).
+[^407-6]: The Adityas: the twelve sons of Aditi, solar deities; according to local tradition, they rose to warm Krishna as He came out of Kaliya's pool.
+[^407-7]: Shridama: a friend of Krishna; the son of Rohini: Balarama. The demon Pralamba, who had slipped into the cowherd boys' game, tried to carry Balarama off (Bhagavata Purana 10.18).
+[^407-8]: Bhagavata Purana 10.17 and 10.19.
+[^407-9]: The vow to the goddess Katyayani, which the gopis kept to obtain Krishna as their husband (Bhagavata Purana 10.22).
+[^407-10]: Nipa: the kadamba tree.
+[^407-11]: Bhagavata Purana 10.23.
+
+---
+
+## Prakrama 4, Sarga 8. Beholding Sri Govardhana and Other Places
+
+*Krishnadasa tells of Vraja's move to Nandishvara and shows the Lord Govardhana: the Mano-Ganga, where Krishna took the gopis out in a boat, and the place where He levied a toll on them — here the Lord, contemplating that pastime, loses outward awareness and weeps over a stone; the circle of the rasa dance, the place of the Annakuta, the Deities Hariraya and Gopalaraya, the ponds at the foot of the hill; praising Govardhana, the Lord breaks into dance*
+
+**1.** "Then Nanda, fearing Kamsa, again took counsel with his people and settled with all Vraja at Nandishvara[^408-1].
+
+**2.** On lovely Govardhana Hill, on the bank of the heavenly river Manasa[^408-2], Krishna and Rama sported continually with their friends.
+
+**3.** To dispel Indra's pride, Hari, they say, at seven years of age joyfully held up the hill, thinking of the protection of His own people[^408-3].
+
+**4.** Eager for the play of rasa, Krishna went boating on the Ganga — there where the people of the cowherd settlement go to Mathura and back[^408-4].
+
+**5.** Here Hari, wishing to show grace to His devotees, entered a cleft in the rocks to levy a toll, and sported, delighting the gopis."
+
+**6.** Beholding this, Sri Gaurachandra, in His eagerness to taste rasa, abandoned outward awareness: He saw the dark Splendour adorned with flute, Shrivatsa mark[^408-5] and stick, with flowers and fresh leaves — Him who said, "Give Me the toll, Radha, you who are full of rasa, you pure one — to Me, a worthy recipient!" And thus Gaura praises Him: "Glory, oh, glory to Him, the Lord of Radhika's life!"
+
+**7.** And at once the Lord of all, suddenly possessed by the rasa of devotion, weeping, wetted the stone with His tears and anointed His head with it.
+
+**8.** "Behold: to the east of the hill are two ponds[^408-6] that bestow the rasa of Krishna, and to the south of them the excellent circle of the rasa dance.
+
+**9.** Here is the place where Sri Radha and Krishna enjoyed the rasa pastime; behold — only devotees filled with the rasas of love can perceive it."
+
+**10.** Being one with Radha and Madhava and stirred by each of Their moods, Gauranga re-enacted each of Their pastimes.
+
+**11.** To Krishna, who was revealing these moods, the best of brahmanas said, "Behold on the hill the place of Radhika's worship.
+
+**12.** And here is the place of the Annakuta[^408-7], which crushed the pride of the lord of the gods: seeing Indra's onslaught, Hari became the Holder of Govardhana.
+
+**13.** Behold on the hill the Lord called Hariraya, and above Him, to the south, the one named Gopalaraya[^408-8].
+
+**14.** When Indra's pride had been dispelled, the good Surabhi[^408-9], urged by Brahma, joyfully bathed with the water of the heavenly river
+
+**15.** Govinda, who was served by the Vedas and the rest at that supreme festival; and even great Indra, who had offended, became free from fear by praising Him.
+
+**16.** Behold to the south of the hill the pond that removes all sins; and beyond it are five ponds — of Brahma, Rudra, Indra and Surya,
+
+**17.** and the auspicious pond named 'Moksha', which removes all sins." Beholding them, the Lord Gaurahari — Krishna — said lovingly to the brahmana:
+
+**18.** "Blessed in the world is this king of mountains alone, where Sri Krishna and Rama — ah! — ever play joyfully with the cowherd boys!" So speaks Sri Gaurachandra Himself, the giver of the rasa of perfect love — and Sri Govardhana himself, eagerly worshipping Him, begins to dance.
+
+*Thus ends the eighth sarga, "Beholding Sri Govardhana and Other Places" (Shri-Govardhana-adi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^408-1]: Nandishvara: the hill at Nandagrama where, according to tradition, Nanda settled.
+[^408-2]: That is, the Mano-Ganga (Manasi-Ganga), the sacred lake at Govardhana.
+[^408-3]: Bhagavata Purana 10.25.
+[^408-4]: The sense of the second half of the verse is obscure in the text; the rendering is conjectural.
+[^408-5]: Shrivatsa: the mark on Vishnu's chest.
+[^408-6]: Apparently Radha-kunda and Shyama-kunda.
+[^408-7]: Annakuta ("mountain of food"): the offering to Govardhana which the cowherds, on Krishna's advice, made in place of the sacrifice to Indra (Bhagavata Purana 10.24).
+[^408-8]: Hariraya and Gopalaraya: Deities of Krishna on Govardhana.
+[^408-9]: Surabhi: the celestial cow, mother of all cows; the bathing of Krishna (Govinda) after the lifting of Govardhana is told in Bhagavata Purana 10.27.

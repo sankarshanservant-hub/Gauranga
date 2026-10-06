@@ -87,6 +87,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 2. Beholding Sri Mathura-mandala
   - Prakrama 4, Sarga 3. The Account of the Twelve Forests
   - Prakrama 4, Sarga 4. Beholding the Ghats, Wells and Other Places of Mathura-mandala
+  - Prakrama 4, Sarga 5. The Story of the Setubandha Lake
+  - Prakrama 4, Sarga 6. Beholding Mahavana and Other Places
+  - Prakrama 4, Sarga 7. Beholding the Sites of the Stealing of the Garments and Other Pastimes
+  - Prakrama 4, Sarga 8. Beholding Sri Govardhana and Other Places
 
 ---
 
@@ -19565,3 +19569,1042 @@ Bhaktisiddhanta Sarasvati.
 [^404-8]: Agastya: the great sage, a hero of the Puranas.
 [^404-9]: Devaki: Krishna's mother; Kamsa killed her infants by dashing them against a stone.
 [^404-10]: Bhuteshvara ("Lord of Beings"): a linga of Shiva, the guardian of Mathura.
+
+---
+
+## Prakrama 4, Sarga 5. The Story of the Setubandha Lake
+
+*Through a sleepless night the Lord yearns for Krishna; Krishnadasa tells Him the extent of Mathura-mandala and the story of the Setubandha Lake, where Krishna, calling Himself Rama, built a dam of stones and trees in a contest with Radha; hearing this secret, the Lord dances in Radha's mood*
+
+### Verse 1
+
+ततः सुप्तोऽपि भगवान् भक्तिरससमन्वितः।
+उत्कण्ठितः कृष्णलीलां गायन् प्रेमाश्रु मोचयन्॥१॥
+
+*tataḥ supto'pi bhagavān bhaktirasasamanvitaḥ|*
+*utkaṇṭhitaḥ kṛṣṇalīlāṁ gāyan premāśru mocayan||1||*
+
+*Word for word:* tatah — then; suptah — lying down to sleep; api — though; bhagavan — the Lord; bhakti-rasa-samanvitah — filled with the rasa of devotion; utkanthitah — full of longing; krishna-lilam — the pastimes of Krishna; gayan — singing; prema-ashru — tears of love; mochayan — shedding.
+
+**1.** Then the Lord, though He had lain down to rest, was filled with the rasa of devotion: full of longing, He sang of Krishna's pastimes and shed tears of love.
+
+### Verse 2
+
+प्रतिक्षणं पृष्टवान् स कृष्णदास वदस्व मे।
+शर्वरी दीर्घतां प्राप्ता मम दुःखप्रदायिनी॥२॥
+
+*pratikṣaṇaṁ pṛṣṭavān sa kṛṣṇadāsa vadasva me|*
+*śarvarī dīrghatāṁ prāptā mama duḥkhapradāyinī||2||*
+
+*Word for word:* prati-kshanam — every moment; prishtavan — asked; sah — He; krishnadasa — O Krishnadasa; vadasva — speak; me — to Me; sharvari — the night; dirghatam — length; prapta — has reached; mama — to Me; duhkha-pradayini — causing pain.
+
+**2.** Every moment He asked, "Krishnadasa, talk to Me! This night has grown so long — it torments Me."
+
+### Verse 3
+
+स प्राह शृणु हे नाथ मथुरामण्डलस्य च।
+प्रमाणं कथ्यते विज्ञैश्चतुरशीतिक्रोशकम्॥३॥
+
+*sa prāha śṛṇu he nātha mathurāmaṇḍalasya ca|*
+*pramāṇaṁ kathyate vijñaiścaturaśītikrośakam||3||*
+
+*Word for word:* sah — he; praha — said; shrinu — hear; he natha — O Lord; mathura-mandalasya — of Mathura-mandala; cha — and; pramanam — the extent; kathyate — is declared; vijnaih — by the learned; chatuh-ashiti-kroshakam — of eighty-four kroshas.
+
+**3.** He answered, "Listen, O Lord. The learned say that Mathura-mandala extends for eighty-four kroshas[^405-1].
+
+### Verse 4
+
+क्रमतो दर्शयिष्यामि स्थिरचित्तो भवान् यदि।
+भविष्यसि ततो मह्यं सुखं स्याद्भक्तवत्सल॥४॥
+
+*kramato darśayiṣyāmi sthiracitto bhavān yadi|*
+*bhaviṣyasi tato mahyaṁ sukhaṁ syādbhaktavatsala||4||*
+
+*Word for word:* kramatah — in order; darshayishyami — I shall show; sthira-chittah — steady-minded; bhavan — You; yadi — if; bhavishyasi — will be; tatah — then; mahyam — to me; sukham — happiness; syat — will be; bhakta-vatsala — O You who love Your devotees.
+
+**4.** I shall show You all of it in order, if You will keep Your mind steady; then I too shall be happy, O You who love Your devotees.
+
+### Verse 5
+
+आगत्य कुण्डोत्तरतः कियद्दूरे सरोवरम्।
+सेतुबन्धाख्यकं पश्य श्रीकृष्णेन च निर्मितम्॥५॥
+
+*āgatya kuṇḍottarataḥ kiyaddūre sarovaram|*
+*setubandhākhyakaṁ paśya śrīkṛṣṇena ca nirmitam||5||*
+
+*Word for word:* agatya — going; kunda-uttaratah — north of the pond; kiyat-dure — a little way off; sarovaram — the lake; setubandha-akhyakam — called Setubandha; pashya — behold; shri-krishnena — by Sri Krishna; cha — indeed; nirmitam — made.
+
+**5.** Going a little way north of the pond, behold the lake called Setubandha — Sri Krishna Himself made it."
+
+### Verse 6
+
+श्रुत्वा सविस्मयं प्राह पुलकाञ्चितविग्रहः।
+अस्य विवरणं ब्रूहि कृष्णदासेति सादरम्॥६॥
+
+*śrutvā savismayaṁ prāha pulakāñcitavigrahaḥ|*
+*asya vivaraṇaṁ brūhi kṛṣṇadāseti sādaram||6||*
+
+*Word for word:* shrutva — hearing; sa-vismayam — in wonder; praha — said; pulaka-anchita-vigrahah — His body thrilled with gooseflesh; asya — of this; vivaranam — the account; bruhi — tell; krishnadasa — O Krishnadasa; iti — thus; sa-adaram — respectfully.
+
+**6.** Hearing this, the Lord, His whole body thrilling, said in wonder and with respect, "Tell Me all about it, Krishnadasa."
+
+### Verse 7
+
+इति श्रीगौरचन्द्रस्य वचनं श्रवणामृतम्।
+पिबन् कृष्णमनुस्मृत्य प्राह प्रहसिताननः॥७॥
+
+*iti śrīgauracandrasya vacanaṁ śravaṇāmṛtam|*
+*piban kṛṣṇamanusmṛtya prāha prahasitānanaḥ||7||*
+
+*Word for word:* iti — thus; shri-gaurachandrasya — of Sri Gaurachandra; vachanam — the words; shravana-amritam — nectar for the ears; piban — drinking; krishnam — Krishna; anusmritya — remembering; praha — said; prahasita-ananah — with a smiling face.
+
+**7.** Thus drinking the words of Sri Gaurachandra, nectar to the ears, and remembering Krishna, he began with a smile:
+
+### Verse 8
+
+एकदा रसिकशेखरो हरि-
+र्गोपिकारसविनोदविनोदी।
+सरसि चात्र नवकुञ्जरतुल्यः
+क्रीडति रघुवरोऽहमिति जल्पन्॥८॥
+
+*ekadā rasikaśekharo hari-*
+*rgopikārasavinodavinodī|*
+*sarasi cātra navakuñjaratulyaḥ*
+*krīḍati raghuvaro'hamiti jalpan||8||*
+
+*Word for word:* ekada — once; rasika-shekharah — the crown of rasikas; harih — Hari; gopika-rasa-vinoda-vinodi — who delights in the sports of rasa with the gopis; sarasi — in the lake; cha — and; atra — here; nava-kunjara-tulyah — like a young elephant; kridati — was sporting; raghu-varah — the best of the Raghus; aham — I am; iti — thus; jalpan — prattling.
+
+**8.** "Once Hari, the crown of rasikas, who delights in the sports of rasa with the gopis, was frolicking in this lake like a young elephant and prattling, 'I am the best of the Raghus!'[^405-2]
+
+### Verse 9
+
+प्राह तं रमणीशिरोमणिराधा
+गोपपुत्रस्त्वमसि गोधनचारी।
+सत्यधर्मप्रतिपालकराज-
+स्तस्य कर्म परदुर्घटमेव॥९॥
+
+*prāha taṁ ramaṇīśiromaṇirādhā*
+*gopaputrastvamasi godhanacārī|*
+*satyadharmapratipālakarāja-*
+*stasya karma paradurghaṭameva||9||*
+
+*Word for word:* praha — said; tam — to Him; ramani-shiromani-radha — Radha, the crest-jewel of beautiful women; gopa-putrah — a cowherd's son; tvam — you; asi — are; godhana-chari — a grazer of cattle; satya-dharma-pratipalaka-rajah — the king, protector of truth and dharma; tasya — his; karma — deed; para-durghatam — impossible for others; eva — indeed.
+
+**9.** Radha, the crest-jewel of lovely women, said to Him, 'You are a cowherd's son who grazes the cattle. That king was the guardian of truth and dharma — his deeds are beyond anyone else.
+
+### Verse 10
+
+सिन्धुबन्धनरावणनाशन-
+मेतदेव हि तस्य सुशोभनम्।
+मा कुरु निजगुणप्रकाशनं
+बालिकावसनभूषणचौर॥१०॥
+
+*sindhubandhanarāvaṇanāśana-*
+*metadeva hi tasya suśobhanam|*
+*mā kuru nijaguṇaprakāśanaṁ*
+*bālikāvasanabhūṣaṇacaura||10||*
+
+*Word for word:* sindhu-bandhana-ravana-nashanam — bridging the ocean and destroying Ravana; etat — this; eva — alone; hi — indeed; tasya — to him; su-shobhanam — befitting; ma kuru — do not make; nija-guna-prakashanam — a display of your own virtues; balika-vasana-bhushana-chaura — O thief of young girls' clothes and ornaments.
+
+**10.** To bridge the ocean and slay Ravana — that befits him alone. Don't go parading your own virtues, you thief of young girls' clothes and ornaments!'[^405-3]
+
+### Verse 11
+
+कृष्ण आह परमकौतुकराशि-
+र्हास्यकौतुकरसैकविलासी।
+सर्वसद्गुणनिधिरहमेव
+जानीहीति त्वमसि गोपकुमारी॥११॥
+
+*kṛṣṇa āha paramakautukarāśi-*
+*rhāsyakautukarasaikavilāsī|*
+*sarvasadguṇanidhirahameva*
+*jānīhīti tvamasi gopakumārī||11||*
+
+*Word for word:* krishnah — Krishna; aha — said; parama-kautuka-rashih — a treasury of the greatest fun; hasya-kautuka-rasa-eka-vilasi — whose one delight is the rasa of laughter and pranks; sarva-sat-guna-nidhih — the treasure-house of all good qualities; aham — I; eva — alone; janihi — know; iti — this; tvam — you; asi — are; gopa-kumari — a cowherd girl.
+
+**11.** Krishna, a treasury of fun whose one delight is the rasa of laughter and pranks, replied, 'I alone am the treasure-house of every virtue — know that, for you are only a cowherd girl.
+
+### Verse 12
+
+सर्वपर्वतमहाधनबाणैः
+प्रस्तरा यदि कदापि न भेद्याः।
+तर्हि सर्वगुणरत्नसमेतं
+पश्यत भावनिधेऽपि प्रभावम्॥१२॥
+
+*sarvaparvatamahādhanabāṇaiḥ*
+*prastarā yadi kadāpi na bhedyāḥ|*
+*tarhi sarvaguṇaratnasametaṁ*
+*paśyata bhāvanidhe'pi prabhāvam||12||*
+
+*Word for word:* sarva-parvata-maha-dhana-banaih — by all the mountains, great riches (?) and arrows; prastarah — stones; yadi — if; kada api — ever; na bhedyah — cannot be split; tarhi — then; sarva-guna-ratna-sametam — endowed with all the jewels of virtue; pashyata — behold (you all); bhava-nidhe — O treasure of feeling; api — indeed; prabhavam — the power.
+
+**12.** Though stones can never be split, not by all the mountains, nor by great riches and arrows[^405-4], still behold, O treasure of feeling, the power of one who possesses every jewel of virtue!'
+
+### Verse 13
+
+श्रुत्वा सर्वाः परमरसिकाराधिकावाक्यसारं
+बद्ध्वा वृन्दं परमरभसात् प्रस्तरादीन् स्वसख्यः।
+आनिन्युस्ताः सतरुनिचयांस्तेन बद्धं कृतं तत्
+पश्यन्त्यस्ताः सजयध्वनिभिस्तं प्रणम्याशशंसुः॥१३॥
+
+*śrutvā sarvāḥ paramarasikārādhikāvākyasāraṁ*
+*baddhvā vṛndaṁ paramarabhasāt prastarādīn svasakhyaḥ|*
+*āninyustāḥ satarunicayāṁstena baddhaṁ kṛtaṁ tat*
+*paśyantyastāḥ sajayadhvanibhistaṁ praṇamyāśaśaṁsuḥ||13||*
+
+*Word for word:* shrutva — hearing; sarvah — all; parama-rasika-radhika-vakya-saram — the gist of the words of Radhika, supreme among rasikas; baddhva — forming; vrindam — a band; parama-rabhasat — with great eagerness; prastara-adin — stones and the like; sva-sakhyah — her friends; aninyuh — brought; tah — they; sa-taru-nichayan — together with heaps of trees; tena — by Him; baddham — bridged; kritam — was made; tat — that; pashyantyah — watching; tah — they; sa-jaya-dhvani-bhih — with cries of "Victory!"; tam — to Him; pranamya — bowing; ashashamsuh — praised.
+
+**13.** Hearing the gist of the words of Radhika, supreme among rasikas, all her friends gathered in a band and eagerly brought stones and the like together with heaps of trees, and with them He built the dam. Watching it, they bowed to Him with cries of 'Victory!' and sang His praise.
+
+### Verse 14
+
+श्रीराधाकृष्णलीला परममधुरहास्यरसादिप्रयुक्ता
+[…] गोपिकाभिर्जयति च परमं सन्ततप्रेमपूर्णा।
+यां […] श्रुत्वापि परमरसिकास्तौ स्मरेयुः सुखेन
+ज्ञानानन्दं हसन्तः सरभसमखिलं मोक्षमप्याक्षिपन्ति॥१४॥
+
+*śrīrādhākṛṣṇalīlā paramamadhurahāsyarasādiprayuktā*
+*[…] gopikābhirjayati ca paramaṁ santatapremapūrṇā|*
+*yāṁ […] śrutvāpi paramarasikāstau smareyuḥ sukhena*
+*jñānānandaṁ hasantaḥ sarabhasamakhilaṁ mokṣamapyākṣipanti||14||*
+
+*Word for word:* shri-radha-krishna-lila — the pastimes of Sri Radha and Krishna; parama-madhura-hasya-rasa-adi-prayukta — imbued with the sweetest rasa of laughter and the rest; […]; gopikabhih — with the gopis; jayati — glory; cha — and; paramam — supreme; santata-prema-purna — full of unceasing love; yam — of which; […]; shrutva — hearing; api — even; parama-rasikah — the supreme rasikas; tau — those Two; smareyuh — would remember; sukhena — joyfully; jnana-anandam — the bliss of knowledge; hasantah — laughing at; sa-rabhasam — eagerly; akhilam — entire; moksham — liberation; api — even; akshipanti — cast away.
+
+**14.** Glory to the pastimes of Sri Radha and Krishna with the gopis[^405-5], rich in the sweetest rasa of laughter and the other rasas, ever full of love! Hearing of them, the supreme rasikas joyfully remember those Two; laughing at the bliss of knowledge, they eagerly cast away even liberation entire."
+
+### Verse 15
+
+एतद्गौरहरिः कृष्णरहस्यं परमाद्भुतम्।
+श्रुत्वा राधारसावेशो ननर्त विवशं मुदा॥१५॥
+
+*etadgaurahariḥ kṛṣṇarahasyaṁ paramādbhutam|*
+*śrutvā rādhārasāveśo nanarta vivaśaṁ mudā||15||*
+
+*Word for word:* etat — this; gaurahari — Gaurahari; krishna-rahasyam — secret of Krishna; parama-adbhutam — most wonderful; shrutva — hearing; radha-rasa-aveshah — possessed by the rasa of Radha; nanarta — danced; vivasham — helplessly; muda — with joy.
+
+**15.** Hearing this most wonderful secret of Krishna, Gaurahari, possessed by the rasa of Radha, danced in helpless joy.
+
+*Thus ends the fifth sarga, "The Story of the Setubandha Lake" (Setubandha-sarovara-prasanga), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^405-1]: Krosha: a measure of distance, about three kilometres; eighty-four kroshas is the traditional circuit of Vraja-mandala.
+[^405-2]: The best of the Raghus: Rama, who built the bridge to Lanka (Setubandha means "the building of the bridge").
+[^405-3]: An allusion to the stealing of the gopis' garments (Bhagavata Purana 10.22).
+[^405-4]: The sense of this half of the verse is obscure in the text; the rendering is conjectural.
+[^405-5]: The printed text of this verse has two gaps (at the beginning of its second and third lines); the translation follows the surviving words.
+
+---
+
+## Prakrama 4, Sarga 6. Beholding Mahavana and Other Places
+
+*Crossing the Yamuna, Krishnadasa shows the Lord Mahavana and Nanda's house — the places of Krishna's childhood pastimes: the liberation of Putana, the binding of Damodara, the broken Arjuna trees; Gokula, Gopeshvara, Sapta-samudra, the houses of Ayana, Ananda and Upananda; the story of Nanda handing Krishna to a gopi on a stormy day moves the Lord; the sarga ends with Vraja moving to Bhadraka and Bhandira*
+
+### Verse 1
+
+एवं संकथयन् विप्रो भानुजां प्रभुणा समम्।
+उत्तीर्य दर्शयामास नन्दगेहं महावनम्॥१॥
+
+*evaṁ saṁkathayan vipro bhānujāṁ prabhuṇā samam|*
+*uttīrya darśayāmāsa nandagehaṁ mahāvanam||1||*
+
+*Word for word:* evam — thus; samkathayan — conversing; viprah — the brahmana; bhanu-jam — the daughter of the Sun; prabhuna — with the Lord; samam — together; uttirya — crossing; darshayam asa — showed; nanda-geham — the house of Nanda; maha-vanam — Mahavana.
+
+**1.** Conversing thus, the brahmana crossed the daughter of the Sun together with the Lord and showed Him the house of Nanda — Mahavana.
+
+### Verse 2
+
+पूतनामोक्षणं चात्र शकटस्य विमोचनम्।
+तृणावर्तस्य दुर्वृत्तेर्हरिणात्र कृतो वधः॥२॥
+
+*pūtanāmokṣaṇaṁ cātra śakaṭasya vimocanam|*
+*tṛṇāvartasya durvṛtterhariṇātra kṛto vadhaḥ||2||*
+
+*Word for word:* putana-mokshanam — the liberation of Putana; cha — and; atra — here; shakatasya — of the cart; vimochanam — the shattering; trinavartasya — of Trinavarta; durvritteh — the wicked; harina — by Hari; atra — here; kritah — was done; vadhah — the slaying.
+
+**2.** "Here Putana attained liberation, here the cart was shattered, here Hari slew the wicked Trinavarta[^406-1].
+
+### Verse 3
+
+जृम्भमाणेन कृष्णेन चोदरे विश्वमद्भुतम्।
+दर्शितमत्र मात्रे सा भीताप्याशिषमाददौ॥३॥
+
+*jṛmbhamāṇena kṛṣṇena codare viśvamadbhutam|*
+*darśitamatra mātre sā bhītāpyāśiṣamādadau||3||*
+
+*Word for word:* jrimbhamanena — yawning; krishnena — by Krishna; cha — and; udare — in His belly; vishvam — the universe; adbhutam — wondrous; darshitam — was shown; atra — here; matre — to His mother; sa — she; bhita — frightened; api — though; ashisham — blessing; adadau — gave.
+
+**3.** Here Krishna, yawning, showed His mother the wondrous universe within His belly, and she, though frightened, gave Him her blessing.
+
+### Verse 4
+
+अत्रैव नामकरणं गर्गेण विहितं किल।
+मृत्तिकाभक्षणं चात्र विश्वरूपप्रदर्शनम्॥४॥
+
+*atraiva nāmakaraṇaṁ gargeṇa vihitaṁ kila|*
+*mṛttikābhakṣaṇaṁ cātra viśvarūpapradarśanam||4||*
+
+*Word for word:* atra — here; eva — indeed; nama-karanam — the name-giving rite; gargena — by Garga; vihitam — was performed; kila — it is said; mrittika-bhakshanam — the eating of clay; cha — and; atra — here; vishva-rupa-pradarshanam — the showing of the universal form.
+
+**4.** Here too, it is said, Garga performed the name-giving rite[^406-2]; here Krishna ate clay and revealed the universal form.
+
+### Verse 5
+
+दधिमन्थनदण्डं हि धृतवान् हि हरिः स्वयम्।
+मातृहर्षाय भगवान् नर्तितुं ह्युपचक्रमे॥५॥
+
+*dadhimanthanadaṇḍaṁ hi dhṛtavān hi hariḥ svayam|*
+*mātṛharṣāya bhagavān nartituṁ hyupacakrame||5||*
+
+*Word for word:* dadhi-manthana-dandam — the churning-rod for curd; hi — indeed; dhritavan — held; hi — indeed; harih — Hari; svayam — Himself; matri-harshaya — for His mother's joy; bhagavan — the Lord; nartitum — to dance; hi — indeed; upachakrame — began.
+
+**5.** Here Hari Himself held the churning-rod for the curd; here the Lord would begin to dance to delight His mother.
+
+### Verse 6
+
+यशोदा तं क्रोडे कृत्वा हसन्ती वीक्ष्य तन्मुखम्।
+स्तनं संपाययामास कौतूहलसमन्विता॥६॥
+
+*yaśodā taṁ kroḍe kṛtvā hasantī vīkṣya tanmukham|*
+*stanaṁ saṁpāyayāmāsa kautūhalasamanvitā||6||*
+
+*Word for word:* yashoda — Yashoda; tam — Him; krode — on her lap; kritva — taking; hasanti — laughing; vikshya — looking at; tat-mukham — His face; stanam — the breast; sampayayam asa — gave to suck; kautuhala-samanvita — full of delight.
+
+**6.** Yashoda took Him on her lap, laughed as she gazed at His face, and, full of tenderness, gave Him the breast.
+
+### Verse 7
+
+दुग्धमुत्तापनं वीक्ष्य तं स्थाप्य सत्वरं सती।
+चुल्लीस्थं दुग्धमुत्तार्य प्रायान्मन्थनसंस्थितम्॥७॥
+
+*dugdhamuttāpanaṁ vīkṣya taṁ sthāpya satvaraṁ satī|*
+*cullīsthaṁ dugdhamuttārya prāyānmanthanasaṁsthitam||7||*
+
+*Word for word:* dugdham — the milk; uttapanam — boiling over; vikshya — seeing; tam — Him; sthapya — putting down; satvaram — quickly; sati — the good woman; chulli-stham — standing on the hearth; dugdham — the milk; uttarya — taking off; prayat — went; manthana-samsthitam — to the place of churning.
+
+**7.** Seeing the milk boiling over, the good woman quickly set Him down, took the milk off the hearth and went back to her churning[^406-3].
+
+### Verse 8
+
+कृष्णोऽपि क्रोधेन समन्वितः स्वयं
+भाण्डं च भित्त्वा दृषदश्मना किल।
+गृहं प्रविष्टो नवनीतकं चा-
+शित्वोलूखलाङ्घ्र्युपरि स्थितो हसन्॥८॥
+
+*kṛṣṇo'pi krodhena samanvitaḥ svayaṁ*
+*bhāṇḍaṁ ca bhittvā dṛṣadaśmanā kila|*
+*gṛhaṁ praviṣṭo navanītakaṁ cā-*
+*śitvolūkhalāṅghryupari sthito hasan||8||*
+
+*Word for word:* krishnah — Krishna; api — for His part; krodhena — with anger; samanvitah — filled; svayam — Himself; bhandam — the pot; cha — and; bhittva — breaking; drishat-ashmana — with a stone; kila — they say; griham — the house; pravishtah — entering; navanitakam — fresh butter; cha — and; ashitva — eating; ulukhala-anghri-upari — upon the mortar; sthitah — stood; hasan — laughing.
+
+**8.** But Krishna grew angry and broke the pot with a stone; He went into the house, ate His fill of fresh butter and, climbing on the mortar, stood there laughing.
+
+### Verse 9
+
+ततो यशोदा स्वसुतस्य कर्म तत्
+प्रलापितं चापि हसन्तमूह्य।
+बबन्ध दाम्ना तमतो हि नाम्ना
+दामोदरात्रैव बभूव प्रेमदः॥९॥
+
+*tato yaśodā svasutasya karma tat*
+*pralāpitaṁ cāpi hasantamūhya|*
+*babandha dāmnā tamato hi nāmnā*
+*dāmodarātraiva babhūva premadaḥ||9||*
+
+*Word for word:* tatah — then; yashoda — Yashoda; sva-sutasya — of her son; karma — the deed; tat — that; pralapitam — the prattle; cha — and; api — also; hasantam — laughing; uhya — perceiving; babandha — bound; damna — with a rope; tam — Him; atah — therefore; hi — indeed; namna — by name; damodara — Damodara; atra — here; eva — indeed; babhuva — became; prema-dah — the giver of love.
+
+**9.** Then Yashoda, perceiving her son's mischief and seeing Him prattle and laugh, bound Him with a rope — and so it was here that He received the name Damodara[^406-4], He who bestows love.
+
+### Verse 10
+
+दामोदरोऽत्र भगवान् बभञ्ज यमलार्जुनौ।
+धान्यं दत्त्वा फलं चात्र बुभुजे फलदेश्वरः॥१०॥
+
+*dāmodaro'tra bhagavān babhañja yamalārjunau|*
+*dhānyaṁ dattvā phalaṁ cātra bubhuje phaladeśvaraḥ||10||*
+
+*Word for word:* damodarah — Damodara; atra — here; bhagavan — the Lord; babhanja — broke; yamala-arjunau — the twin Arjuna trees; dhanyam — grain; dattva — giving; phalam — fruit; cha — and; atra — here; bubhuje — ate; phala-da-ishvarah — the Lord who bestows the fruits.
+
+**10.** Here the Lord Damodara broke the twin Arjuna trees[^406-5]; here the Lord who bestows all fruits gave away grain and ate fruit[^406-6].
+
+### Verse 11
+
+अस्य दक्षिणपार्श्वे च गोलोकाख्यं तु गोकुलम्।
+बाल्यलीलां हि मात्रापि ह्यकरोदथ स हरिः॥११॥
+
+*asya dakṣiṇapārśve ca golokākhyaṁ tu gokulam|*
+*bālyalīlāṁ hi mātrāpi hyakarodatha sa hariḥ||11||*
+
+*Word for word:* asya — of this; dakshina-parshve — on the south side; cha — and; goloka-akhyam — called Goloka; tu — indeed; gokulam — Gokula; balya-lilam — childhood pastimes; hi — indeed; matra — with His mother; api — also; hi — indeed; akarot — performed; atha — and; sah — He; harih — Hari.
+
+**11.** To the south of this lies Gokula, which is called Goloka; here Hari played His childhood games with His mother.
+
+### Verse 12
+
+गोपेश्वरं देवमत्र पश्य सर्वेश्वरेश्वर।
+सप्तसामुद्रकं कुण्डमत्र भुवनपावनम्॥१२॥
+
+*gopeśvaraṁ devamatra paśya sarveśvareśvara|*
+*saptasāmudrakaṁ kuṇḍamatra bhuvanapāvanam||12||*
+
+*Word for word:* gopeshvaram — Gopeshvara; devam — the god; atra — here; pashya — behold; sarva-ishvara-ishvara — O Lord of all lords; sapta-samudrakam — Sapta-samudra; kundam — the pond; atra — here; bhuvana-pavanam — purifying the worlds.
+
+**12.** Behold here the god Gopeshvara[^406-7], O Lord of all lords, and here the pond Sapta-samudra, which purifies the worlds.
+
+### Verse 13
+
+आयानस्य गृहं ग्रामे पश्चिमे रसपूर्वकम्।
+आनन्दाख्यो गोपकोऽप्यवसत्तस्यापि दक्षिणे॥१३॥
+
+*āyānasya gṛhaṁ grāme paścime rasapūrvakam|*
+*ānandākhyo gopako'pyavasattasyāpi dakṣiṇe||13||*
+
+*Word for word:* ayanasya — of Ayana; griham — the house; grame — in the village; pashchime — to the west; rasa-purvakam — full of rasa; ananda-akhyah — named Ananda; gopakah — a cowherd; api — also; avasat — lived; tasya — of it; api — too; dakshine — to the south.
+
+**13.** In the village to the west is the house of Ayana[^406-8], full of rasa; to the south of it lived a cowherd named Ananda.
+
+### Verse 14
+
+उपनन्दगृहं ग्राममध्ये कृष्णसुखप्रदम्।
+अस्य पश्चिमभागे च रावणस्य तपोवनम्॥१४॥
+
+*upanandagṛhaṁ grāmamadhye kṛṣṇasukhapradam|*
+*asya paścimabhāge ca rāvaṇasya tapovanam||14||*
+
+*Word for word:* upananda-griham — the house of Upananda; grama-madhye — in the middle of the village; krishna-sukha-pradam — that gave joy to Krishna; asya — of it; pashchima-bhage — on the western side; cha — and; ravanasya — of Ravana; tapah-vanam — the grove of austerities.
+
+**14.** In the middle of the village is the house of Upananda, which gave joy to Krishna, and on its western side is the grove where Ravana performed austerities.
+
+### Verse 15
+
+दुर्वाससो मुनेः कृष्ण आश्रमं ह्युत्तरेऽस्य च।
+अस्यापि निकटे लोहवनं बिल्ववनं प्रभो॥१५॥
+
+*durvāsaso muneḥ kṛṣṇa āśramaṁ hyuttare'sya ca|*
+*asyāpi nikaṭe lohavanaṁ bilvavanaṁ prabho||15||*
+
+*Word for word:* durvasasah — of Durvasa; muneh — the sage; krishna — O Krishna; ashramam — the hermitage; hi — indeed; uttare — to the north; asya — of it; cha — and; asya — of it; api — too; nikate — near; loha-vanam — Lohavana; bilva-vanam — Bilvavana; prabho — O Lord.
+
+**15.** To the north of it, O Krishna, is the hermitage of the sage Durvasa, and near it, O Lord, are Lohavana and Bilvavana.
+
+### Verse 16
+
+अत्रापि पश्य नन्दस्य कृष्णं क्रीडयतः सुखम्।
+बाल्यलीलारसं तस्मै ददाति परमाद्भुतम्॥१६॥
+
+*atrāpi paśya nandasya kṛṣṇaṁ krīḍayataḥ sukham|*
+*bālyalīlārasaṁ tasmai dadāti paramādbhutam||16||*
+
+*Word for word:* atra — here; api — also; pashya — behold; nandasya — of Nanda; krishnam — Krishna; kridayatah — playing with; sukham — happily; balya-lila-rasam — the rasa of childhood pastimes; tasmai — to him; dadati — gives; parama-adbhutam — most wonderful.
+
+**16.** Behold this place too: here Nanda would happily play with Krishna, and He gave him the most wonderful rasa of His childhood pastimes.
+
+### Verse 17
+
+मेघागमं च दृष्ट्वा स नन्द आह सुगोपिकाम्।
+कृष्णमादाय मद्गेहेश्वर्यै शीघ्रं समर्पय॥१७॥
+
+*meghāgamaṁ ca dṛṣṭvā sa nanda āha sugopikām|*
+*kṛṣṇamādāya madgeheśvaryai śīghraṁ samarpaya||17||*
+
+*Word for word:* megha-agamam — the coming of clouds; cha — and; drishtva — seeing; sah — he; nandah — Nanda; aha — said; su-gopikam — to a lovely gopi; krishnam — Krishna; adaya — taking; mat-geha-ishvaryai — to the mistress of my house; shighram — quickly; samarpaya — hand over.
+
+**17.** Seeing the clouds gathering, Nanda said to a lovely gopi, 'Take Krishna and quickly bring Him to the mistress of my house.'[^406-9]
+
+### Verse 18
+
+सापि तं स्वाङ्कमारोप्य चुम्ब्य चानन्दविह्वला।
+गाढमालिङ्गिता तेन विस्मिता विवशाभवत्॥१८॥
+
+*sāpi taṁ svāṅkamāropya cumbya cānandavihvalā|*
+*gāḍhamāliṅgitā tena vismitā vivaśābhavat||18||*
+
+*Word for word:* sa — she; api — and; tam — Him; sva-ankam — on her lap; aropya — placing; chumbya — kissing; cha — and; ananda-vihvala — overwhelmed with bliss; gadham — tightly; alingita — embraced; tena — by Him; vismita — amazed; vivasha — helpless; abhavat — became.
+
+**18.** She set Him on her lap and kissed Him, beside herself with bliss; and when He held her tightly in His arms, she was overcome with wonder and left quite helpless."
+
+### Verse 19
+
+श्रुत्वा कृष्णरसोल्लासं बालकस्यैव वैभवम्।
+गौरकृष्णः कृष्णदासं प्रेम्णालिङ्गितवान् स्वयम्॥१९॥
+
+*śrutvā kṛṣṇarasollāsaṁ bālakasyaiva vaibhavam|*
+*gaurakṛṣṇaḥ kṛṣṇadāsaṁ premṇāliṅgitavān svayam||19||*
+
+*Word for word:* shrutva — hearing; krishna-rasa-ullasam — the exultation of Krishna's rasa; balakasya — of the Child; eva — indeed; vaibhavam — the glory; gaura-krishnah — Gaura-Krishna; krishnadasam — Krishnadasa; premna — with love; alingitavan — embraced; svayam — Himself.
+
+**19.** Hearing of this exultation of Krishna's rasa, of the glory of the Child, Gaura-Krishna Himself lovingly embraced Krishnadasa.
+
+### Verse 20
+
+अत्र पश्य च गोविन्द गोपालचरितं शुभम्।
+गोचारणगतेनात्र कुण्डं च हरिणा कृतम्॥२०॥
+
+*atra paśya ca govinda gopālacaritaṁ śubham|*
+*gocāraṇagatenātra kuṇḍaṁ ca hariṇā kṛtam||20||*
+
+*Word for word:* atra — here; pashya — behold; cha — and; govinda — O Govinda; gopala-charitam — the deed of Gopala; shubham — auspicious; go-charana-gatena — who had come to graze the cows; atra — here; kundam — a pond; cha — and; harina — by Hari; kritam — was made.
+
+**20.** "Behold this too, O Govinda: here is an auspicious deed of Gopala — this pond was made by Hari when He came here to graze the cows.
+
+### Verse 21
+
+अत्रैव चोपनन्दोऽपि नन्दमाहूय सुन्दरः।
+गोपैः परिवृतो युक्तिं कृत्वा कृष्णसुखाय च॥२१॥
+
+*atraiva copanando'pi nandamāhūya sundaraḥ|*
+*gopaiḥ parivṛto yuktiṁ kṛtvā kṛṣṇasukhāya ca||21||*
+
+*Word for word:* atra — here; eva — indeed; cha — and; upanandah — Upananda; api — also; nandam — Nanda; ahuya — summoning; sundarah — the good; gopaih — by the cowherds; parivritah — surrounded; yuktim — counsel; kritva — taking; krishna-sukhaya — for Krishna's welfare; cha — and.
+
+**21.** Here also the good Upananda, surrounded by the cowherds, summoned Nanda and, taking counsel for Krishna's welfare,
+
+### Verse 22
+
+सव्रजः शकटमारुह्य रामकृष्णसमन्वितः।
+ययौ भद्रकभाण्डीरं द्वौ मासौ तत्र चावसत्॥२२॥
+
+*savrajaḥ śakaṭamāruhya rāmakṛṣṇasamanvitaḥ|*
+*yayau bhadrakabhāṇḍīraṁ dvau māsau tatra cāvasat||22||*
+
+*Word for word:* sa-vrajah — with all Vraja; shakatam — the carts; aruhya — mounting; rama-krishna-samanvitah — together with Rama and Krishna; yayau — went; bhadraka-bhandiram — to Bhadraka and Bhandira; dvau masau — two months; tatra — there; cha — and; avasat — dwelt.
+
+**22.** mounted the carts with all Vraja, together with Rama and Krishna, and went to Bhadraka and Bhandira[^406-10]; there they lived for two months."
+
+*Thus ends the sixth sarga, "Beholding Mahavana and Other Places" (Mahavana-adi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^406-1]: Putana: the demoness who tried to poison the infant Krishna with her breast; the cart beneath which Krishna lay He overturned with His little foot; Trinavarta: the whirlwind demon (Bhagavata Purana 10.6–7).
+[^406-2]: Garga: the priest of the Yadus, who secretly named Krishna and Balarama (Bhagavata Purana 10.8).
+[^406-3]: The reading of this line is a conjectural restoration.
+[^406-4]: Damodara: "He whose belly (udara) is bound with a rope (dama)" (Bhagavata Purana 10.9).
+[^406-5]: The twin Arjuna trees: Nalakuvara and Manigriva, sons of Kubera, cursed by Narada; Krishna, tied to the mortar, uprooted them (Bhagavata Purana 10.10).
+[^406-6]: An allusion to the fruit-seller to whom the child Krishna gave a handful of grain, and who filled His hands with fruit in return (Bhagavata Purana 10.11).
+[^406-7]: Gopeshvara ("Lord of the Cowherds"): a local deity of Mahavana.
+[^406-8]: Ayana: the cowherd who, by tradition, was considered Radha's husband.
+[^406-9]: Compare the opening of Jayadeva's Gita-govinda, where Nanda, seeing the clouds, bids Radha take Krishna home.
+[^406-10]: Bhadraka and Bhandira: two of the twelve forests of Vraja (see sarga 3).
+
+---
+
+## Prakrama 4, Sarga 7. Beholding the Sites of the Stealing of the Garments and Other Pastimes
+
+*Krishnadasa leads the Lord through Vrindavana: the fort of carts, the places where Vatsasura, Bakasura, Aghasura, Dhenuka and Pralamba were slain, where Brahma stole the calves, where Kaliya was subdued, the Ghat of the Twelve Adityas, the Bhandira banyan, the Ishika forest where Krishna swallowed the forest fire, the place where He stole the gopis' garments, and where He accepted food from the brahmanas' wives*
+
+### Verse 1
+
+ततश्च यमुनापारे वृन्दारण्यं सनातनम्।
+तत्र नन्दादयो गोपा वासं चक्रुरतन्द्रिताः॥१॥
+
+*tataśca yamunāpāre vṛndāraṇyaṁ sanātanam|*
+*tatra nandādayo gopā vāsaṁ cakruratandritāḥ||1||*
+
+*Word for word:* tatah — then; cha — and; yamuna-pare — across the Yamuna; vrinda-aranyam — Vrindaranya; sanatanam — eternal; tatra — there; nanda-adayah — Nanda and the others; gopah — the cowherds; vasam — dwelling; chakruh — made; atandritah — untiring.
+
+**1.** "And then, across the Yamuna, lies the eternal Vrindaranya; there Nanda and the other cowherds tirelessly made their dwelling.
+
+### Verse 2
+
+पश्यात्र शकटैर्दुर्गं कृतं पित्रादिभिर्वृतौ।
+रामकृष्णौ खेलतश्च गोगोपालजनैः सह॥२॥
+
+*paśyātra śakaṭairdurgaṁ kṛtaṁ pitrādibhirvṛtau|*
+*rāmakṛṣṇau khelataśca gogopālajanaiḥ saha||2||*
+
+*Word for word:* pashya — behold; atra — here; shakataih — of carts; durgam — the fort; kritam — made; pitri-adibhih — by the fathers and others; vritau — surrounded; rama-krishnau — Rama and Krishna; khelatah — played; cha — and; go-gopala-janaih — with the cows and cowherd folk; saha — together.
+
+**2.** Behold: here the fathers and other elders made a fort of carts; guarded by them, Rama and Krishna played with the cows and the cowherd folk.
+
+### Verse 3
+
+कपित्थमूलेऽत्र जनार्दनेन
+वधः कृतो वत्सकरूपधारिणः।
+वत्सासुरस्य बकवेशधारिणो
+बकासुरस्यापि च गौरचन्द्र॥३॥
+
+*kapitthamūle'tra janārdanena*
+*vadhaḥ kṛto vatsakarūpadhāriṇaḥ|*
+*vatsāsurasya bakaveśadhāriṇo*
+*bakāsurasyāpi ca gauracandra||3||*
+
+*Word for word:* kapittha-mule — at the root of the kapittha tree; atra — here; janardanena — by Janardana; vadhah — the slaying; kritah — was done; vatsaka-rupa-dharinah — who took the form of a calf; vatsa-asurasya — of Vatsasura; baka-vesha-dharinah — who took the guise of a crane; baka-asurasya — of Bakasura; api — also; cha — and; gaurachandra — O Gaurachandra.
+
+**3.** Here, at the root of a kapittha tree, Janardana slew Vatsasura, who had taken the form of a calf, and also Bakasura, who came in the guise of a crane, O Gaurachandra[^407-1].
+
+### Verse 4
+
+अत्रैव श्रीरामजनार्दनौ च
+सवेणुवेत्रादियुतैः सखीजनैः।
+चिक्रीडतुर्वानरपक्षसङ्कुलै-
+र्मयूरकेकादिरुतैर्जगत्पती॥४॥
+
+*atraiva śrīrāmajanārdanau ca*
+*saveṇuvetrādiyutaiḥ sakhījanaiḥ|*
+*cikrīḍaturvānarapakṣasaṅkulai-*
+*rmayūrakekādirutairjagatpatī||4||*
+
+*Word for word:* atra — here; eva — indeed; shri-rama-janardanau — Sri Rama and Janardana; cha — and; sa-venu-vetra-adi-yutaih — carrying flutes, sticks and the like; sakhi-janaih — with their friends; chikridatuh — played; vanara-paksha-sankulaih — amid throngs of monkeys and birds; mayura-keka-adi-rutaih — amid the cries of peacocks and other sounds; jagat-pati — the two Lords of the world.
+
+**4.** Here too Sri Rama and Janardana, the two Lords of the world, played with their friends, who carried flutes, sticks and the like — amid throngs of monkeys and birds, amid the cries of peacocks and other sounds."
+
+### Verse 5
+
+श्रुत्वा स्वयं कृष्णरसेन पूर्णः
+श्रीभक्तरूपो रसिकेन्द्रमौलिः।
+पूर्वापराभ्यां विषयाश्रयावृतो
+लीलारसाभ्यां प्रभुगौरचन्द्रः॥५॥
+
+*śrutvā svayaṁ kṛṣṇarasena pūrṇaḥ*
+*śrībhaktarūpo rasikendramauliḥ|*
+*pūrvāparābhyāṁ viṣayāśrayāvṛto*
+*līlārasābhyāṁ prabhugauracandraḥ||5||*
+
+*Word for word:* shrutva — hearing; svayam — Himself; krishna-rasena — with the rasa of Krishna; purnah — was filled; shri-bhakta-rupah — in the beautiful form of a devotee; rasika-indra-maulih — the crown of the kings of rasikas; purva-aparabhyam — by the former and the present; vishaya-ashraya-avritah — enveloped as both object and abode (of love); lila-rasabhyam — by the rasas of the pastimes; prabhu-gaurachandrah — the Lord Gaurachandra.
+
+**5.** Hearing this, the Lord Gaurachandra — the crown of the kings of rasikas, who had Himself taken the beautiful form of a devotee — was filled with the rasa of Krishna, enfolded by the rasas of both His pastimes, the former and the present, as the object of love and as its abode[^407-2].
+
+### Verse 6
+
+अत्र पश्य च गौराङ्ग सर्परूपधरोऽप्यघः।
+बकानुजो महापापः प्राप्तस्तं चाहनद्धरिः॥६॥
+
+*atra paśya ca gaurāṅga sarparūpadharo'pyaghaḥ|*
+*bakānujo mahāpāpaḥ prāptastaṁ cāhanaddhariḥ||6||*
+
+*Word for word:* atra — here; pashya — behold; cha — and; gauranga — O Gauranga; sarpa-rupa-dharah — taking the form of a serpent; api — also; aghah — Agha; baka-anujah — Baka's younger brother; maha-papah — the great sinner; praptah — came; tam — him; cha — and; ahanat — slew; harih — Hari.
+
+**6.** "Behold here, O Gauranga: here Agha too came in the form of a serpent — Baka's younger brother, a great sinner — and Hari slew him[^407-3].
+
+### Verse 7
+
+स्वजनैः सखिभिश्चात्र दृष्ट्वा भोजनकौतुकम्।
+स्वयम्भूर्वत्सरं वत्सस्वजनापहरोऽभवत्॥७॥
+
+*svajanaiḥ sakhibhiścātra dṛṣṭvā bhojanakautukam|*
+*svayambhūrvatsaraṁ vatsasvajanāpaharo'bhavat||7||*
+
+*Word for word:* svajanaih — with His own; sakhibhih — with His friends; cha — and; atra — here; drishtva — seeing; bhojana-kautukam — the merry feast; svayambhuh — the Self-born (Brahma); vatsaram — for a year; vatsa-svajana-apaharah — the stealer of the calves and His companions; abhavat — became.
+
+**7.** Here the Self-born[^407-4], seeing Krishna's merry feast with His kin and friends, stole away the calves and His companions for a year.
+
+### Verse 8
+
+धेनुकस्य वधश्चात्र कृपयास्य विमोचनम्।
+कालीयदमनं चात्र ह्रदं पश्य सुनिर्मलम्॥८॥
+
+*dhenukasya vadhaścātra kṛpayāsya vimocanam|*
+*kālīyadamanaṁ cātra hradaṁ paśya sunirmalam||8||*
+
+*Word for word:* dhenukasya — of Dhenuka; vadhah — the slaying; cha — and; atra — here; kripaya — by mercy; asya — his; vimochanam — liberation; kaliya-damanam — the subduing of Kaliya; cha — and; atra — here; hradam — the pool; pashya — behold; su-nirmalam — crystal-clear.
+
+**8.** Here Dhenuka was slain and mercifully set free; here Kaliya was subdued[^407-5] — behold this crystal-clear pool.
+
+### Verse 9
+
+कालीयदमनीं चात्र मूर्तिं पश्य जगद्गुरो।
+शीतार्तच्छलतः कृष्ण उत्थितोऽत्र जलाद्बहिः॥९॥
+
+*kālīyadamanīṁ cātra mūrtiṁ paśya jagadguro|*
+*śītārtacchalataḥ kṛṣṇa utthito'tra jalādbahiḥ||9||*
+
+*Word for word:* kaliya-damanim — the subduer of Kaliya; cha — and; atra — here; murtim — the image; pashya — behold; jagat-guro — O Teacher of the world; shita-arta-chhalatah — on the pretext of being chilled; krishnah — Krishna; utthitah — rose; atra — here; jalat — from the water; bahih — out.
+
+**9.** Behold here too, O Teacher of the world, the image of the Subduer of Kaliya. Here Krishna, pretending to be chilled, came up out of the water.
+
+### Verse 10
+
+अत्र वै द्वादशादित्या उत्थिता गगनोपरि।
+द्वादशादित्यघट्टोऽयं कथ्यते वेदपारगैः॥१०॥
+
+*atra vai dvādaśādityā utthitā gaganopari|*
+*dvādaśādityaghaṭṭo'yaṁ kathyate vedapāragaiḥ||10||*
+
+*Word for word:* atra — here; vai — indeed; dvadasha-adityah — the twelve Adityas; utthitah — rose; gagana-upari — in the sky; dvadasha-aditya-ghattah — the Ghat of the Twelve Adityas; ayam — this; kathyate — is called; veda-paragaih — by those versed in the Vedas.
+
+**10.** And here the twelve Adityas[^407-6] rose in the sky; so those versed in the Vedas call this place the Ghat of the Twelve Adityas.
+
+### Verse 11
+
+अत्रैव वत्सपालानां दावाग्नेः परिमोचनम्।
+कृतं नन्दकुमारेण भक्तदुःखापहारिणा॥११॥
+
+*atraiva vatsapālānāṁ dāvāgneḥ parimocanam|*
+*kṛtaṁ nandakumāreṇa bhaktaduḥkhāpahāriṇā||11||*
+
+*Word for word:* atra — here; eva — indeed; vatsa-palanam — of the calf-herding boys; dava-agneh — from the forest fire; parimochanam — the deliverance; kritam — was done; nanda-kumarena — by Nanda's son; bhakta-duhkha-apaharina — who takes away His devotees' sorrows.
+
+**11.** Here too Nanda's son, who takes away His devotees' sorrows, delivered the calf-herding boys from the forest fire.
+
+### Verse 12
+
+क्रीडापराजितः कृष्णः श्रीदामानाम बालकम्।
+उवाह परमप्रीतः प्रलम्बो रोहिणीसुतम्॥१२॥
+
+*krīḍāparājitaḥ kṛṣṇaḥ śrīdāmānāma bālakam|*
+*uvāha paramaprītaḥ pralambo rohiṇīsutam||12||*
+
+*Word for word:* krida-parajitah — defeated in the game; krishnah — Krishna; shridama nama — named Shridama; balakam — the boy; uvaha — carried; parama-pritah — most gladly; pralambah — Pralamba; rohini-sutam — the son of Rohini.
+
+**12.** Having lost a game, Krishna gladly carried a boy named Shridama, while Pralamba carried the son of Rohini[^407-7].
+
+### Verse 13
+
+ज्ञात्वासुरं पुनः सोऽपि मुष्टीकृत्य कराम्बुजम्।
+शिरस्यताडयत्तस्य सोऽपतद्गतजीवितः॥१३॥
+
+*jñātvāsuraṁ punaḥ so'pi muṣṭīkṛtya karāmbujam|*
+*śirasyatāḍayattasya so'patadgatajīvitaḥ||13||*
+
+*Word for word:* jnatva — recognising; asuram — the demon; punah — then; sah — He; api — indeed; mushtikritya — clenching into a fist; kara-ambujam — His lotus hand; shirasi — on the head; atadayat — struck; tasya — his; sah — he; apatat — fell; gata-jivitah — lifeless.
+
+**13.** But He saw through the demon, clenched His lotus hand into a fist and struck him on the head, and the demon fell down lifeless.
+
+### Verse 14
+
+भाण्डीराख्यं वटं वृन्दारण्ये पश्य महत्तमम्।
+ईषिकाख्यवनं ह्यत्र गोधनं तृणलोभितम्॥१४॥
+
+*bhāṇḍīrākhyaṁ vaṭaṁ vṛndāraṇye paśya mahattamam|*
+*īṣikākhyavanaṁ hyatra godhanaṁ tṛṇalobhitam||14||*
+
+*Word for word:* bhandira-akhyam — called Bhandira; vatam — the banyan; vrinda-aranye — in Vrindaranya; pashya — behold; mahattamam — the greatest; ishika-akhya-vanam — the forest called Ishika; hi — indeed; atra — here; go-dhanam — the herd; trina-lobhitam — lured by the grass.
+
+**14.** Behold the greatest banyan in Vrindaranya, called Bhandira. And here is the forest called Ishika. The herd, lured by the grass,
+
+### Verse 15
+
+प्रविष्टं वेणुनादेन कृष्णेनानीतमप्युत।
+दावानले मध्यगं च स्वगणं वीक्ष्य श्रीहरिः॥१५॥
+
+*praviṣṭaṁ veṇunādena kṛṣṇenānītamapyuta|*
+*dāvānale madhyagaṁ ca svagaṇaṁ vīkṣya śrīhariḥ||15||*
+
+*Word for word:* pravishtam — that had entered; venu-nadena — by the sound of the flute; krishnena — by Krishna; anitam — brought back; api uta — and also; dava-anale — in the forest fire; madhya-gam — caught in the midst; cha — and; sva-ganam — His own people; vikshya — seeing; shri-harih — Sri Hari.
+
+**15.** wandered into it, and Krishna brought it back with the sound of His flute. And when Sri Hari saw His companions caught in the midst of the forest fire,
+
+### Verse 16
+
+पपौ करतलीकृत्यानलं भक्तजनप्रियः।
+पश्य चात्र रसज्ञेन श्रीकृष्णेन कृतं हि यत्॥१६॥
+
+*papau karatalīkṛtyānalaṁ bhaktajanapriyaḥ|*
+*paśya cātra rasajñena śrīkṛṣṇena kṛtaṁ hi yat||16||*
+
+*Word for word:* papau — drank; karatali-kritya — taking into His palm; analam — the fire; bhakta-jana-priyah — who loves His devotees; pashya — behold; cha — and; atra — here; rasa-jnena — by the knower of rasa; shri-krishnena — by Sri Krishna; kritam — was done; hi — indeed; yat — what.
+
+**16.** He who loves His devotees took the fire into His palm and drank it[^407-8]. Behold too what Sri Krishna, the knower of rasa, did here.
+
+### Verse 17
+
+तमेव पतिमिच्छन्त्यो व्रतं चेरुः कुमारिकाः।
+अत्रैव यमुनातीरे वस्त्राभरणरक्षिताः॥१७॥
+
+*tameva patimicchantyo vrataṁ ceruḥ kumārikāḥ|*
+*atraiva yamunātīre vastrābharaṇarakṣitāḥ||17||*
+
+*Word for word:* tam — Him; eva — alone; patim — as husband; ichchhantyah — desiring; vratam — a vow; cheruh — observed; kumarikah — the maidens; atra — here; eva — indeed; yamuna-tire — on the bank of the Yamuna; vastra-abharana-rakshitah — having laid aside their clothes and ornaments.
+
+**17.** Desiring Him alone as their husband, the maidens kept a vow[^407-9]. Here, on the bank of the Yamuna, they laid aside their clothes and ornaments
+
+### Verse 18
+
+विशन्त्यो जलमेवैतास्ततो नागरशेखरः।
+आदाय तासां वस्त्राणि नीपमारुह्य सत्वरः॥१८॥
+
+*viśantyo jalamevaitāstato nāgaraśekharaḥ|*
+*ādāya tāsāṁ vastrāṇi nīpamāruhya satvaraḥ||18||*
+
+*Word for word:* vishantyah — entering; jalam — the water; eva — indeed; etah — they; tatah — then; nagara-shekharah — the crown of gallants; adaya — taking; tasam — their; vastrani — clothes; nipam — a nipa tree; aruhya — climbing; satvarah — swiftly.
+
+**18.** and went into the water. Then the crown of gallants took their clothes and nimbly climbed a nipa tree[^407-10].
+
+### Verse 19
+
+हसति शाखिभिः सार्धं ततस्ताः शीतवेपिताः।
+कृष्णं सन्तोषयामासुः शुद्धभावेन भाविताः॥१९॥
+
+*hasati śākhibhiḥ sārdhaṁ tatastāḥ śītavepitāḥ|*
+*kṛṣṇaṁ santoṣayāmāsuḥ śuddhabhāvena bhāvitāḥ||19||*
+
+*Word for word:* hasati — laughs; shakhibhih — the trees; sardham — together with; tatah — then; tah — they; shita-vepitah — shivering with cold; krishnam — Krishna; santoshayam asuh — satisfied; shuddha-bhavena — with pure feeling; bhavitah — imbued.
+
+**19.** He laughs — and the trees laugh with Him. And they, shivering with cold and imbued with pure feeling, satisfied Krishna.
+
+### Verse 20
+
+श्रीरामेण समं कृष्णस्तमुद्दिश्य वनस्पतीन्।
+वृन्दारण्यस्थितानत्र प्रशंसन् यमुनां गतः॥२०॥
+
+*śrīrāmeṇa samaṁ kṛṣṇastamuddiśya vanaspatīn|*
+*vṛndāraṇyasthitānatra praśaṁsan yamunāṁ gataḥ||20||*
+
+*Word for word:* shri-ramena — with Sri Rama; samam — together; krishnah — Krishna; tam — to him; uddishya — pointing out; vanaspatin — the trees; vrinda-aranya-sthitan — standing in Vrindaranya; atra — here; prashamsan — praising; yamunam — to the Yamuna; gatah — went.
+
+**20.** Here Krishna, together with Sri Rama, pointing out to him the trees of Vrindaranya and praising them, went on to the Yamuna.
+
+### Verse 21
+
+ततोऽत्र विप्रपत्नीभ्यश्चान्नमादाय यज्ञभुक्।
+बुभुजे बालकैः सार्धं बलेनापि बलीयसा॥२१॥
+
+*tato'tra viprapatnībhyaścānnamādāya yajñabhuk|*
+*bubhuje bālakaiḥ sārdhaṁ balenāpi balīyasā||21||*
+
+*Word for word:* tatah — then; atra — here; vipra-patnibhyah — from the brahmanas' wives; cha — and; annam — the food; adaya — accepting; yajna-bhuk — the Enjoyer of sacrifices; bubhuje — ate; balakaih — with the boys; sardham — together; balena — with Bala; api — and; baliyasa — the mighty.
+
+**21.** And then, here, the Enjoyer of sacrifices accepted food from the brahmanas' wives[^407-11] and ate it with the boys and with mighty Bala."
+
+*Thus ends the seventh sarga, "Beholding the Sites of the Stealing of the Garments and Other Pastimes" (Vastra-harana-adi-lila-sthali-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^407-1]: Vatsasura and Bakasura: demons sent by Kamsa, who took the forms of a calf and of a huge crane (Bhagavata Purana 10.11).
+[^407-2]: Vishaya is the object of love (Krishna), ashraya its abode (the devotee). In His former pastime the Lord, as Krishna, was the object of love; in the present one, as Gaura, He is its abode.
+[^407-3]: Aghasura swallowed the cowherd boys and calves in the form of a huge serpent and was slain by Krishna from within (Bhagavata Purana 10.12).
+[^407-4]: The Self-born (Svayambhu): Brahma (Bhagavata Purana 10.13).
+[^407-5]: Dhenuka: the ass-demon slain by Balarama; Kaliya: the many-headed serpent who poisoned the Yamuna and whom Krishna subdued by dancing on his heads (Bhagavata Purana 10.15–16).
+[^407-6]: The Adityas: the twelve sons of Aditi, solar deities; according to local tradition, they rose to warm Krishna as He came out of Kaliya's pool.
+[^407-7]: Shridama: a friend of Krishna; the son of Rohini: Balarama. The demon Pralamba, who had slipped into the cowherd boys' game, tried to carry Balarama off (Bhagavata Purana 10.18).
+[^407-8]: Bhagavata Purana 10.17 and 10.19.
+[^407-9]: The vow to the goddess Katyayani, which the gopis kept to obtain Krishna as their husband (Bhagavata Purana 10.22).
+[^407-10]: Nipa: the kadamba tree.
+[^407-11]: Bhagavata Purana 10.23.
+
+---
+
+## Prakrama 4, Sarga 8. Beholding Sri Govardhana and Other Places
+
+*Krishnadasa tells of Vraja's move to Nandishvara and shows the Lord Govardhana: the Mano-Ganga, where Krishna took the gopis out in a boat, and the place where He levied a toll on them — here the Lord, contemplating that pastime, loses outward awareness and weeps over a stone; the circle of the rasa dance, the place of the Annakuta, the Deities Hariraya and Gopalaraya, the ponds at the foot of the hill; praising Govardhana, the Lord breaks into dance*
+
+### Verse 1
+
+पुनश्च कंसभीतेन संमन्त्र्य स्वजनैः सह।
+नन्दीश्वरे निवासश्च चक्रे नन्देन सव्रजम्॥१॥
+
+*punaśca kaṁsabhītena saṁmantrya svajanaiḥ saha|*
+*nandīśvare nivāsaśca cakre nandena savrajam||1||*
+
+*Word for word:* punah — again; cha — and; kamsa-bhitena — fearing Kamsa; sammantrya — taking counsel; sva-janaih — with his people; saha — together; nandishvare — at Nandishvara; nivasah — a dwelling; cha — and; chakre — was made; nandena — by Nanda; sa-vrajam — with all Vraja.
+
+**1.** "Then Nanda, fearing Kamsa, again took counsel with his people and settled with all Vraja at Nandishvara[^408-1].
+
+### Verse 2
+
+गोवर्धनगिरौ रम्ये मनःस्वर्गनदीतटे।
+नित्यं विहरतः कृष्णरामौ सखिसमन्वितौ॥२॥
+
+*govardhanagirau ramye manaḥsvarganadītaṭe|*
+*nityaṁ viharataḥ kṛṣṇarāmau sakhisamanvitau||2||*
+
+*Word for word:* govardhana-girau — on Govardhana Hill; ramye — lovely; manah-svarga-nadi-tate — on the bank of the heavenly river of the mind (the Mano-Ganga); nityam — always; viharatah — sport; krishna-ramau — Krishna and Rama; sakhi-samanvitau — with their friends.
+
+**2.** On lovely Govardhana Hill, on the bank of the heavenly river Manasa[^408-2], Krishna and Rama sported continually with their friends.
+
+### Verse 3
+
+इन्द्रगर्वनिरासार्थं सप्तवर्षो हरिः किल।
+गिरिं दधार हर्षेण स्वानां रक्षां विचिन्तयन्॥३॥
+
+*indragarvanirāsārthaṁ saptavarṣo hariḥ kila|*
+*giriṁ dadhāra harṣeṇa svānāṁ rakṣāṁ vicintayan||3||*
+
+*Word for word:* indra-garva-nirasa-artham — to dispel Indra's pride; sapta-varshah — seven years old; harih — Hari; kila — it is said; girim — the hill; dadhara — held up; harshena — joyfully; svanam — of His own people; raksham — the protection; vichintayan — thinking of.
+
+**3.** To dispel Indra's pride, Hari, they say, at seven years of age joyfully held up the hill, thinking of the protection of His own people[^408-3].
+
+### Verse 4
+
+नौक्रीडां कृतवान् कृष्णो गङ्गायां रसकौतुकी।
+कुर्वन्ति मथुरां गोष्ठे लोका गमननिर्गमे॥४॥
+
+*naukrīḍāṁ kṛtavān kṛṣṇo gaṅgāyāṁ rasakautukī|*
+*kurvanti mathurāṁ goṣṭhe lokā gamananirgame||4||*
+
+*Word for word:* nau-kridam — boating sport; kritavan — made; krishnah — Krishna; gangayam — on the Ganga (the Mano-Ganga); rasa-kautuki — eager for the play of rasa; kurvanti — make; mathuram — (the way) to Mathura; goshthe — in the cowherd settlement; lokah — the people; gamana-nirgame — in going and coming.
+
+**4.** Eager for the play of rasa, Krishna went boating on the Ganga — there where the people of the cowherd settlement go to Mathura and back[^408-4].
+
+### Verse 5
+
+अत्र दाननिमित्तं हि प्रस्तरांशं विशन् हरिः।
+गोपिका रमयन् रेमे भक्तानुग्रहकाम्यया॥५॥
+
+*atra dānanimittaṁ hi prastarāṁśaṁ viśan hariḥ|*
+*gopikā ramayan reme bhaktānugrahakāmyayā||5||*
+
+*Word for word:* atra — here; dana-nimittam — for the sake of the toll; hi — indeed; prastara-amsham — into a cleft of the rocks; vishan — entering; harih — Hari; gopikah — the gopis; ramayan — delighting; reme — sported; bhakta-anugraha-kamyaya — wishing to show grace to His devotees.
+
+**5.** Here Hari, wishing to show grace to His devotees, entered a cleft in the rocks to levy a toll, and sported, delighting the gopis."
+
+### Verse 6
+
+पश्यन् श्रीगौरचन्द्रः स रसनकुतुकाद्बाह्यवृत्तिं विहाय
+वंशीश्रीवत्सवेत्रैः कुसुमकिसलयैर्मण्डितं श्यामधाम।
+दानं मे देहि राधे रसवति विमले दानपात्रेऽवदद्यो
+ह्येवं तं स्तौति गौरः स जयति खलु भो राधिकाप्राणनाथः॥६॥
+
+*paśyan śrīgauracandraḥ sa rasanakutukādbāhyavṛttiṁ vihāya*
+*vaṁśīśrīvatsavetraiḥ kusumakisalayairmaṇḍitaṁ śyāmadhāma|*
+*dānaṁ me dehi rādhe rasavati vimale dānapātre'vadadyo*
+*hyevaṁ taṁ stauti gauraḥ sa jayati khalu bho rādhikāprāṇanāthaḥ||6||*
+
+*Word for word:* pashyan — beholding; shri-gaurachandrah — Sri Gaurachandra; sah — He; rasana-kutukat — out of eagerness to taste rasa; bahya-vrittim — outward awareness; vihaya — abandoning; vamshi-shrivatsa-vetraih — with flute, Shrivatsa and stick; kusuma-kisalayaih — with flowers and fresh leaves; manditam — adorned; shyama-dhama — the dark Splendour; danam — the toll; me — to Me; dehi — give; radhe — O Radha; rasavati — O you full of rasa; vimale — O pure one; dana-patre — to a worthy recipient; avadat — said; yah — who; hi — indeed; evam — thus; tam — Him; stauti — praises; gaurah — Gaura; sah — He; jayati — glory to; khalu — indeed; bhoh — oh (interjection); radhika-prana-nathah — the Lord of Radhika's life.
+
+**6.** Beholding this, Sri Gaurachandra, in His eagerness to taste rasa, abandoned outward awareness: He saw the dark Splendour adorned with flute, Shrivatsa mark[^408-5] and stick, with flowers and fresh leaves — Him who said, "Give Me the toll, Radha, you who are full of rasa, you pure one — to Me, a worthy recipient!" And thus Gaura praises Him: "Glory, oh, glory to Him, the Lord of Radhika's life!"
+
+### Verse 7
+
+तदैव सहसा भक्तिरसाविष्टोऽखिलेश्वरः।
+पाषाणं सजलं कृत्वा लिलेप शिरसि रुदन्॥७॥
+
+*tadaiva sahasā bhaktirasāviṣṭo'khileśvaraḥ|*
+*pāṣāṇaṁ sajalaṁ kṛtvā lilepa śirasi rudan||7||*
+
+*Word for word:* tada — then; eva — at once; sahasa — suddenly; bhakti-rasa-avishtah — possessed by the rasa of devotion; akhila-ishvarah — the Lord of all; pashanam — the stone; sa-jalam — wet; kritva — making; lilepa — anointed; shirasi — His head; rudan — weeping.
+
+**7.** And at once the Lord of all, suddenly possessed by the rasa of devotion, weeping, wetted the stone with His tears and anointed His head with it.
+
+### Verse 8
+
+गिरेः पूर्वे कुण्डयुग्मं पश्य कृष्णरसप्रदम्।
+अस्य दक्षिणपार्श्वे च रासमण्डलमुत्तमम्॥८॥
+
+*gireḥ pūrve kuṇḍayugmaṁ paśya kṛṣṇarasapradam|*
+*asya dakṣiṇapārśve ca rāsamaṇḍalamuttamam||8||*
+
+*Word for word:* gireh — of the hill; purve — to the east; kunda-yugmam — the pair of ponds; pashya — behold; krishna-rasa-pradam — that bestow the rasa of Krishna; asya — of it; dakshina-parshve — on the south side; cha — and; rasa-mandalam — the circle of the rasa dance; uttamam — excellent.
+
+**8.** "Behold: to the east of the hill are two ponds[^408-6] that bestow the rasa of Krishna, and to the south of them the excellent circle of the rasa dance.
+
+### Verse 9
+
+श्रीराधाकृष्णयो रासविलासस्थानमत्र वै।
+पश्य प्रेमरसैः पूर्णैर्भक्तैरेव विभाव्यते॥९॥
+
+*śrīrādhākṛṣṇayo rāsavilāsasthānamatra vai|*
+*paśya premarasaiḥ pūrṇairbhaktaireva vibhāvyate||9||*
+
+*Word for word:* shri-radha-krishnayoh — of Sri Radha and Krishna; rasa-vilasa-sthanam — the place of the rasa pastime; atra — here; vai — indeed; pashya — behold; prema-rasaih — with the rasas of love; purnaih — filled; bhaktaih — by devotees; eva — only; vibhavyate — is perceived.
+
+**9.** Here is the place where Sri Radha and Krishna enjoyed the rasa pastime; behold — only devotees filled with the rasas of love can perceive it."
+
+### Verse 10
+
+राधामाधवयोरैक्यात्तत्तद्भावविभावितः।
+तत्तल्लीलानुकरणं गौराङ्गः समदर्शयत्॥१०॥
+
+*rādhāmādhavayoraikyāttattadbhāvavibhāvitaḥ|*
+*tattallīlānukaraṇaṁ gaurāṅgaḥ samadarśayat||10||*
+
+*Word for word:* radha-madhavayoh — with Radha and Madhava; aikyat — because of His oneness; tat-tat-bhava-vibhavitah — stirred by each of Their moods; tat-tat-lila-anukaranam — the re-enactment of each of Their pastimes; gaurangah — Gauranga; samadarshayat — displayed.
+
+**10.** Being one with Radha and Madhava and stirred by each of Their moods, Gauranga re-enacted each of Their pastimes.
+
+### Verse 11
+
+भावप्रकाशकं कृष्णं प्राह ब्राह्मणसत्तमः।
+पर्वतोपरि संपश्य राधिकाराधनस्थलम्॥११॥
+
+*bhāvaprakāśakaṁ kṛṣṇaṁ prāha brāhmaṇasattamaḥ|*
+*parvatopari saṁpaśya rādhikārādhanasthalam||11||*
+
+*Word for word:* bhava-prakashakam — who was revealing these moods; krishnam — to Krishna; praha — said; brahmana-sattamah — the best of brahmanas; parvata-upari — on the hill; sampashya — behold; radhika-aradhana-sthalam — the place of Radhika's worship.
+
+**11.** To Krishna, who was revealing these moods, the best of brahmanas said, "Behold on the hill the place of Radhika's worship.
+
+### Verse 12
+
+अन्नकूटस्थलं चात्र सुरेशगर्वनाशकम्।
+इन्द्रोत्पातं हरिर्वीक्ष्य गोवर्धनधरोऽभवत्॥१२॥
+
+*annakūṭasthalaṁ cātra sureśagarvanāśakam|*
+*indrotpātaṁ harirvīkṣya govardhanadharo'bhavat||12||*
+
+*Word for word:* anna-kuta-sthalam — the place of the Annakuta; cha — and; atra — here; sura-isha-garva-nashakam — which destroyed the pride of the lord of the gods; indra-utpatam — Indra's onslaught; harih — Hari; vikshya — seeing; govardhana-dharah — the Holder of Govardhana; abhavat — became.
+
+**12.** And here is the place of the Annakuta[^408-7], which crushed the pride of the lord of the gods: seeing Indra's onslaught, Hari became the Holder of Govardhana.
+
+### Verse 13
+
+पर्वतोपरि तं पश्य हरिरायाख्यकं विभुम्।
+तस्योपरि दक्षिणेऽपि गोपालरायसंज्ञकम्॥१३॥
+
+*parvatopari taṁ paśya harirāyākhyakaṁ vibhum|*
+*tasyopari dakṣiṇe'pi gopālarāyasaṁjñakam||13||*
+
+*Word for word:* parvata-upari — on the hill; tam — that; pashya — behold; hariraya-akhyakam — called Hariraya; vibhum — Lord; tasya — of Him; upari — above; dakshine — to the south; api — also; gopalaraya-samjnakam — named Gopalaraya.
+
+**13.** Behold on the hill the Lord called Hariraya, and above Him, to the south, the one named Gopalaraya[^408-8].
+
+### Verse 14
+
+इन्द्रगर्वनिरासे च ब्रह्मणा चोदिता सती।
+सुरभी स्वर्णदीतोयेनाभिषेकं मुदाकरोत्॥१४॥
+
+*indragarvanirāse ca brahmaṇā coditā satī|*
+*surabhī svarṇadītoyenābhiṣekaṁ mudākarot||14||*
+
+*Word for word:* indra-garva-nirase — when Indra's pride had been dispelled; cha — and; brahmana — by Brahma; chodita — urged; sati — the good; surabhi — Surabhi; svarnadi-toyena — with the water of the heavenly river; abhishekam — the ceremonial bathing; muda — joyfully; akarot — performed.
+
+**14.** When Indra's pride had been dispelled, the good Surabhi[^408-9], urged by Brahma, joyfully bathed with the water of the heavenly river
+
+### Verse 15
+
+गोविन्दस्य च वेदाद्यैः सेवितस्य महोत्तमे।
+कृतागस्को महेन्द्रोऽपि यं स्तुत्वा निर्भयोऽभवत्॥१५॥
+
+*govindasya ca vedādyaiḥ sevitasya mahottame|*
+*kṛtāgasko mahendro'pi yaṁ stutvā nirbhayo'bhavat||15||*
+
+*Word for word:* govindasya — of Govinda; cha — and; veda-adyaih — by the Vedas and others; sevitasya — served; maha-uttame — at the supreme festival; krita-agaskah — who had committed an offence; maha-indrah — great Indra; api — even; yam — whom; stutva — praising; nirbhayah — fearless; abhavat — became.
+
+**15.** Govinda, who was served by the Vedas and the rest at that supreme festival; and even great Indra, who had offended, became free from fear by praising Him.
+
+### Verse 16
+
+सर्वपापहरं कुण्डं पश्य पर्वतदक्षिणे।
+अस्योपरि पञ्चकुण्डं ब्रह्मरुद्रेन्द्रसूर्यकम्॥१६॥
+
+*sarvapāpaharaṁ kuṇḍaṁ paśya parvatadakṣiṇe|*
+*asyopari pañcakuṇḍaṁ brahmarudrendrasūryakam||16||*
+
+*Word for word:* sarva-papa-haram — that removes all sins; kundam — the pond; pashya — behold; parvata-dakshine — south of the hill; asya — of it; upari — beyond; pancha-kundam — the five ponds; brahma-rudra-indra-suryakam — of Brahma, Rudra, Indra and Surya.
+
+**16.** Behold to the south of the hill the pond that removes all sins; and beyond it are five ponds — of Brahma, Rudra, Indra and Surya,
+
+### Verse 17
+
+मोक्षेतिकुण्डसंज्ञं च सर्वपापहरं शुभम्।
+पश्यन् गौरहरिः कृष्णः प्रेम्णोवाच द्विजं प्रभुः॥१७॥
+
+*mokṣetikuṇḍasaṁjñaṁ ca sarvapāpaharaṁ śubham|*
+*paśyan gaurahariḥ kṛṣṇaḥ premṇovāca dvijaṁ prabhuḥ||17||*
+
+*Word for word:* moksha-iti-kunda-samjnam — the pond named "Moksha"; cha — and; sarva-papa-haram — removing all sins; shubham — auspicious; pashyan — beholding; gaurahari — Gaurahari; krishnah — Krishna; premna — with love; uvacha — said; dvijam — to the brahmana; prabhuh — the Lord.
+
+**17.** and the auspicious pond named 'Moksha', which removes all sins." Beholding them, the Lord Gaurahari — Krishna — said lovingly to the brahmana:
+
+### Verse 18
+
+धन्योऽयं गिरिराज एव जगति श्रीकृष्णरामौ मुदा
+यत्र क्रीडत एव सन्ततमहो गोपालबालैः सह।
+एवं जल्पति प्रेमपूर्णरसदः श्रीगौरचन्द्रः स्वयं
+श्रीगोवर्धन एव साग्रहमपि तं पूजयन् नृत्यति॥१८॥
+
+*dhanyo'yaṁ girirāja eva jagati śrīkṛṣṇarāmau mudā*
+*yatra krīḍata eva santatamaho gopālabālaiḥ saha|*
+*evaṁ jalpati premapūrṇarasadaḥ śrīgauracandraḥ svayaṁ*
+*śrīgovardhana eva sāgrahamapi taṁ pūjayan nṛtyati||18||*
+
+*Word for word:* dhanyah — blessed; ayam — this; giri-rajah — king of mountains; eva — alone; jagati — in the world; shri-krishna-ramau — Sri Krishna and Rama; muda — joyfully; yatra — where; kridatah — play; eva — indeed; santatam — ever; aho — ah!; gopala-balaih — with the cowherd boys; saha — together; evam — thus; jalpati — speaks; prema-purna-rasa-dah — the giver of the rasa of perfect love; shri-gaurachandrah — Sri Gaurachandra; svayam — Himself; shri-govardhanah — Sri Govardhana; eva — himself; sa-agraham — eagerly; api — too; tam — Him; pujayan — worshipping; nrityati — dances.
+
+**18.** "Blessed in the world is this king of mountains alone, where Sri Krishna and Rama — ah! — ever play joyfully with the cowherd boys!" So speaks Sri Gaurachandra Himself, the giver of the rasa of perfect love — and Sri Govardhana himself, eagerly worshipping Him, begins to dance.
+
+*Thus ends the eighth sarga, "Beholding Sri Govardhana and Other Places" (Shri-Govardhana-adi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^408-1]: Nandishvara: the hill at Nandagrama where, according to tradition, Nanda settled.
+[^408-2]: That is, the Mano-Ganga (Manasi-Ganga), the sacred lake at Govardhana.
+[^408-3]: Bhagavata Purana 10.25.
+[^408-4]: The sense of the second half of the verse is obscure in the text; the rendering is conjectural.
+[^408-5]: Shrivatsa: the mark on Vishnu's chest.
+[^408-6]: Apparently Radha-kunda and Shyama-kunda.
+[^408-7]: Annakuta ("mountain of food"): the offering to Govardhana which the cowherds, on Krishna's advice, made in place of the sacrifice to Indra (Bhagavata Purana 10.24).
+[^408-8]: Hariraya and Gopalaraya: Deities of Krishna on Govardhana.
+[^408-9]: Surabhi: the celestial cow, mother of all cows; the bathing of Krishna (Govinda) after the lifting of Govardhana is told in Bhagavata Purana 10.27.

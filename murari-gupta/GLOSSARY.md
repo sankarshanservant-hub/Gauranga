@@ -270,3 +270,25 @@
 | कंसकूप, अगस्त्य (कुण्ड), सप्तसामुद्र (कुण्ड) | Колодец Камсы, (пруд) Агастьи, Сапта-самудра | the Well of Kamsa, (the pond of) Agastya, Sapta-samudra |
 | भूतेश्वर (लिङ्ग) | Бхутешвара | Bhuteshvara |
 | दशाश्वमेध (घट्ट), सोमतीर्थ, कण्ठाभरण, नागतीर्थ, संयम (कुण्ड) | Дашашвамедха-гхат, Сома-тиртха, Кантхабхарана, Нага-тиртха, Самьяма | the Dashashvamedha Ghat, the Soma-tirtha, Kanthabharana, Naga-tirtha, Samyama |
+| सेतुबन्ध (सरोवर, Враджа) | (озеро) Сетубандха | the Setubandha Lake |
+| क्रोश | крош (кроша) | krosha |
+| पूतना, शकट, तृणावर्त | Путана, повозка (Шакатасура), Тринаварта | Putana, the cart (Shakatasura), Trinavarta |
+| गर्ग, यशोदा, दामोदर, यमलार्जुन | Гарга, Яшода, Дамодара, два дерева арджуна | Garga, Yashoda, Damodara, the twin Arjuna trees |
+| गोलोक, गोपेश्वर | Голока, Гопешвара | Goloka, Gopeshvara |
+| आयान, आनन्द (гопа), उपनन्द | Аяна, Ананда (пастух), Упананда | Ayana, Ananda (a cowherd), Upananda |
+| दुर्वासस्, लोहवन, बिल्ववन | Дурваса, Лохавана, Билвавана | Durvasa, Lohavana, Bilvavana |
+| भद्रक, भाण्डीर (वट) | Бхадрака, Бхандира (баньян) | Bhadraka, Bhandira (the banyan) |
+| वृन्दारण्य | Вриндаранья | Vrindaranya |
+| वत्सासुर, बकासुर, अघ, धेनुक, कालीय, प्रलम्ब | Ватсасура, Бакасура, Агха (Агхасура), Дхенука, Калия, Праламба | Vatsasura, Bakasura, Agha (Aghasura), Dhenuka, Kaliya, Pralamba |
+| श्रीदाम, रोहिणीसुत | Шридама, сын Рохини | Shridama, the son of Rohini |
+| स्वयम्भू | Самосущий (Брахма) | the Self-born (Brahma) |
+| द्वादशादित्य (घट्ट) | гхат Двенадцати Адитьев | the Ghat of the Twelve Adityas |
+| ईषिका (वन) | лес Ишика | the Ishika forest |
+| नीप | нипа (кадамба) | nipa (kadamba) |
+| विषय, आश्रय | вишая (объект любви), ашрая (обитель любви) | vishaya (object of love), ashraya (abode of love) |
+| नन्दीश्वर | Нандишвара | Nandishvara |
+| मनःस्वर्गनदी | небесная река Манаса (Мано-Ганга) | the heavenly river Manasa (the Mano-Ganga) |
+| अन्नकूट | Аннакута | the Annakuta |
+| हरिराय, गोपालराय | Харирая, Гопаларая | Hariraya, Gopalaraya |
+| सुरभि | Сурабхи | Surabhi |
+| सर्वपापहर, ब्रह्म-, रुद्र-, इन्द्र-, सूर्य-, मोक्ष- (कुण्ड) | пруд, смывающий все грехи; пруды Брахмы, Рудры, Индры, Сурьи, «Мокша» | the pond that removes all sins; the ponds of Brahma, Rudra, Indra, Surya, "Moksha" |
