@@ -76,6 +76,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 3, Sarga 12. Mercy to Sarvabhauma
   - Prakrama 3, Sarga 13. Consoling Sarvabhauma
   - Prakrama 3, Sarga 14. Sri Jiyada-Nrisimha
+  - Prakrama 3, Sarga 15. The Joyous Meeting with Sri Paramananda Puri
+  - Prakrama 3, Sarga 16. Beholding Sri Jagannatha
+  - Prakrama 3, Sarga 17. Mercy to Devananda
+  - Prakrama 3, Sarga 18. Beholding Sri Gopinatha after the Journey through Gauda
 
 ---
 
@@ -3348,3 +3352,261 @@ Bhaktisiddhanta Sarasvati.
 [^314-8]: This prayer is also quoted in Krishnadasa Kaviraja's "Chaitanya Charitamrita" (Madhya 7.96).
 [^314-9]: Verses 26–27 briefly repeat vv. 1–2; v. 27, like v. 22, survives in all the editions only as a half-verse.
 [^314-10]: The second half of the verse is obscure; the rendering is conjectural.
+
+---
+
+## Prakrama 3, Sarga 15. The Joyous Meeting with Sri Paramananda Puri
+
+*The Lord reveals to Ramananda Raya the secret of the pastimes of Vrindavana, passes through Panchavati and Shrirangam, spends the rainy season with the brahmana Trimalla and blesses his son Gopala, and on the way back meets Paramananda Puri*
+
+**1.** Then, on a clear and auspicious morning, the Lord, the Teacher of the world, singing of Hari, His composure quite broken by love, set out for the city of Kanchi to see Sri Ramananda Raya[^315-1].
+
+**2.** Ramananda, in his own house, having finished his worship of Krishna, was meditating on the Supreme Brahman, the son of the king of Vraja — and three times he beheld the great and wondrous sweetness of Gauranga, and was utterly astonished.
+
+**3.** Opening his eyes, he saw that very form — the Supreme Brahman in the dress of a sannyasi. Bowing his head to the ground and joining his palms, he asked, "Where have You come from, my Lord?"
+
+**4.** The Lord laughed and said, "How can you not remember, O bee at the lotus feet of Sri Radhika?" And having thus made Himself known, Hari Himself embraced him with both arms.
+
+**5.** The crown of the kings of rasikas revealed to him the wondrous secret of the pastimes in the forest of Vrinda, bade him go quickly to Kshetra[^315-2], and, having comforted him, Janardana went His way.
+
+**6.** Singing "Sri Rama! Govinda! Krishna!", Krishna crossed the Godavari and entered the great forest of Sri Panchavati[^315-3], overwhelmed by the remembrance of Sri Rama and Sita.
+
+**7.** Then Sri Jagadishvara, the Lord, walked on over the earth, lighting up every quarter of the sky; crossing the Kaveri, He beheld Sri Ranganatha[^315-4] and, in great joy, reverently danced.
+
+**8.** Near Sri Ranganatha a brahmana was reciting the Gita without properly understanding it; but seeing him filled with tears of love, Krishna embraced him and said, "This indeed is true learning in scripture!"[^315-5]
+
+**9.** There, too, a certain excellent brahmana, foremost among the worthy, seeing the Lord — tall, golden, and filled with tears of love — concluded in his mind that this was the One called "Krishna-varna"[^315-6], and said so to his kinsman.
+
+**10.** Thinking, "Oh, what good fortune is mine!", the Bhatta-raja named Trimalla[^315-7] clasped the Lord's holy feet in both hands and, overjoyed, made his heartfelt plea:
+
+**11.** "O great soul, O Lord! Out of compassion You must ever show us mercy — for in this very descent, which blows away Maya, You have drenched the world with the nectar of mercy.
+
+**12.** None but Krishna can deliver all people — the unmoving creatures and the moving and all the rest. And now the rainy season has come, O Master: do what is good and fair for me, Your servant."[^315-8]
+
+**13.** Hearing these sweet and lovely words of His devotee, the Lord embraced him and entered his house. And the wise brahmana washed His lotus feet and, together with all his household, lovingly received that water.
+
+**14.** When the Lord of the world was comfortably seated, the best of brahmanas named Trimalla, overflowing with love, served Him together with his wife, his sons and all his kinsfolk.
+
+**15.** His little boy named Gopala[^315-9] was then standing at the Lord's side. Seeing him, the Lord, His heart melting with compassion,
+
+**16.** placed His lotus foot on the boy's head and said, "Say 'Hari'!" And the boy, filled with joy, gave up his childish games and began to sing of Krishna and to dance.
+
+**17.** Thus Hari, the Infallible, absorbed in the mood of the sankirtana of Sri Krishna, happily spent the rainy season there, honoured by the brahmanas of Sri Ranga-kshetra with alms of food and drink and the like.
+
+**18.** The Lord of rasikas, whose body was beautiful as Mount Meru[^315-10], was intoxicated with chanting the names and qualities of Krishna; His voice faltered with the delight of Radhika's rasa, and His body was flooded with the waters of love.
+
+**19.** Having stayed thus at Ranga-kshetra, He went on, and on the road He met a disciple of Sri Madhava Puri[^315-11] named Paramananda.
+
+**20.** Seeing the form of Gauranga, Sri Paramananda Puri remembered his guru's words, and was adorned with tears of love and thrilling hair.
+
+**21.** And the Lord too, the guardian of dharma, in supreme delight fell down like a stick, His head to the ground, before Puripada and his servant.
+
+**22.** In alarm Puri said, "You should not do so! You alone are the Lord of the worlds, the One who awakens consciousness in the world.[^315-12]
+
+**23.** I know who You are: You are Bhagavan Himself, who has taken the form of a devotee of Sri Krishna; You have assumed the mood of Sri Radha and thirst for the rasa of sweetness."
+
+**24.** Hearing his words, Krishna laughed and replied respectfully, "Know that My heart is bound by your love — of this there is no doubt.
+
+**25.** Go to the most delightful Kshetra and stay there until I return." So saying, Hari went on His way.
+
+*Thus ends the fifteenth sarga, "The Joyous Meeting with Sri Paramananda Puri" (Shri-Paramananda-puri-sanga-utsava), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^315-1]: Ramananda Raya: a great devotee who governed a southern province under King Prataparudra. Murari Gupta places the meeting in Kanchi; in Krishnadasa Kaviraja's "Chaitanya Charitamrita" it takes place on the bank of the Godavari.
+[^315-2]: Kshetra (Shri-kshetra): Puri, the abode of Jagannatha.
+[^315-3]: Panchavati: the forest on the Godavari where Rama and Sita lived in exile.
+[^315-4]: Ranganatha: Vishnu reclining on the serpent Shesha, at Shrirangam, on an island in the Kaveri.
+[^315-5]: The same story is told in the "Chaitanya Charitamrita" (Madhya 9): the brahmana knew little Sanskrit, but as he read the Gita he saw Krishna on Arjuna's chariot and wept.
+[^315-6]: "Krishna-varna": "He who chants the syllables Krish-na", or "He who is called Krishna"; words from the Bhagavata (11.5.32: krishna-varnam tvishakrishnam) which the Gaudiya Vaishnavas apply to Sri Chaitanya.
+[^315-7]: Trimalla Bhatta: a brahmana of Shrirangam. In the "Chaitanya Charitamrita" the Lord's host is Venkata Bhatta, and Trimalla is his brother.
+[^315-8]: That is, to stay with him for the four months of the rains (chaturmasya), when sannyasis do not travel.
+[^315-9]: Gopala: later Gopala Bhatta Gosvami, one of the six Gosvamis of Vrindavana; in later biographies he is the son of Venkata Bhatta.
+[^315-10]: Meru: the golden mountain at the centre of the world; the comparison speaks of the Lord's golden colour and tall stature.
+[^315-11]: Madhava Puri: Madhavendra Puri, the guru of Ishvara Puri and of Paramananda Puri.
+[^315-12]: A play on words in the original: jagac-chaitanya-karaka, "the One who awakens consciousness (chaitanya) in the world", that is, "who gives the world Chaitanya."
+
+---
+
+## Prakrama 3, Sarga 16. Beholding Sri Jagannatha
+
+*The Lord delivers seven Gandharvas embodied as tamala trees, dances before Rameshvara at Setubandha, on the way back meets Ramananda Raya again, and returns to Puri and Jagannatha*
+
+**1.** Going on His way like this, O brahmana[^316-1], the one Friend of the world saw some fine tamala trees; laughing, He embraced them — and by His mere touch He delivered them.
+
+**2.** At that very moment they took the forms of seven Gandharvas[^316-2]; sunk in an ocean of bliss at the sight of Him, they cast off the sin born of a sage's curse, bowed to the Lord and departed for their own auspicious realm.
+
+**3.** Then the Supreme Brahman made manifest, intoxicated with the rasa of Krishna, went on repeating the auspicious syllables: "Sri Rama! Govinda! Hari! Murari! Janardana! Shridhara! Vasudeva!
+
+**4.** Protector of Your devotees! King of the Raghus! Lord of Sita! Lord of Lakshmana's life! Heart's friend of Sugriva, who grieved deeply over the slaying of Vali[^316-3]! Giver of joy to the Wind's son! Enemy of Ravana!"
+
+**5.** Intoxicated with the nectar of these and other names, Hari swiftly reached Sri Setubandha and beheld the wondrous Rameshvara linga[^316-4] — for Hari is ever the dearest of all to Sri Shankara.
+
+**6.** Bowing to that lord with joined palms and beholding Sadashiva, the giver of rasa to Gauri, the Lord of all began to dance there, and in His ecstasy the earth bowed down beneath Him at every step.
+
+**7.** All who saw Sri Gaurachandra, the one Friend of the world, intoxicated with His own rasa, were utterly amazed — and, eluding them, He vanished from sight.
+
+**8.** Having seen all the holy places one after another, the Lord, the ocean of mercy, turned back and, seized by a strong desire to see Sri Jagannatha, made His way towards Sri Kshetra, the king of holy places.
+
+**9.** Following the bank of the Godavari, the Lord, the refuge of the good, came there and stayed; and, warmly honoured once more by Sri Ramananda Raya, the knower of rasa, He shone with happiness in that brahmana's house.
+
+**10.** At night they talked of the holy places, delighting in the rasa of Sri Radhika and Krishna; and then the Lord commanded: "Come soon — you should always behold the holy Lotus-eyed One: there is no other happiness."
+
+**11.** Thus the crown of the kings of rasikas, Sri Gaurachandra, spent that night with the Raya — in the joy of their meeting it passed like a moment; and once more He was minded to set out.
+
+**12.** Together with the brahmana Sri Vishnudasa the Lord beheld Janardana at Alalanatha[^316-5], bowed to Him, stayed there some days, and came to the Blue Cave[^316-6] of the Lord of all.
+
+**13.** Staying in the house of Sri Kashinatha, Hari, accompanied by Sri Sarvabhauma and others, washed His feet and, longing to see Sri Jagannatha, went to the holy jewel-temple.
+
+**14.** Standing by the holy pillar of Garuda[^316-7], Sri Krishna Himself, the Husband of Shri, filled with the rasa of devotion, beheld the Lord of all, the Lord, the Supreme Brahman — Himself, together with His elder brother.
+
+**15.** And the devotees, sunk in an ocean of happiness, beheld side by side the Beautiful Dark One and the Beautiful Golden One[^316-8], and could not have enough of the sight; and like misers who have come upon wealth, they could not speak of it to anyone.
+
+**16.** Glory to him — to Rama named Nityananda, the guru of every rasa, immersed in love for Gaura, the giver of love to all! With the hosts of devotees he gazed on the two forms made of rasa, the dark and the golden, and ceaselessly he roared, gave lion-cries, shouted "Jaya! Jaya!" and danced wildly, filled with the sight of the Bearer of the mace[^316-9].
+
+**17.** Just then the wise and high-minded priest, at Sri Krishna's command, took His garland, entwined with tulasi, and offered it to Sri Gaurachandra, who regarded Himself as a mere devotee, and to all His devotees.
+
+**18.** The Purifier of the world, Hari Himself, full of tears of love and thrilling all over, together with His devotees received the prasada garland of the Lord of the world upon His head, bowing low.
+
+*Thus ends the sixteenth sarga, "Beholding Sri Jagannatha" (Shri-Jagannatha-darshana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^316-1]: Murari is addressing Damodara Pandita, his interlocutor.
+[^316-2]: Gandharvas: celestial singers and musicians. In the "Chaitanya Charitamrita" (Madhya 9) a similar story is told of seven tala palms touched by the Lord.
+[^316-3]: The sense of this epithet in the editions is unclear; the translation is conjectural.
+[^316-4]: Setubandha: the place on the southern coast from which Rama built the bridge to Lanka; Rameshvara: the linga of Shiva said to have been installed by Rama.
+[^316-5]: Alalanatha: a temple of Vishnu at Brahmagiri, south of Puri (cf. sarga 14).
+[^316-6]: That is, to Nilachala (the "Blue Mountain"), Puri.
+[^316-7]: The Garuda pillar in the temple of Jagannatha, from which Sri Chaitanya used to behold the Deity.
+[^316-8]: The Dark One is Jagannatha; the Golden One is Sri Chaitanya Himself, standing before Him.
+[^316-9]: The end of the verse is corrupt in the editions; it may also be understood as "filled with the sight of Gadadhara." The translation is conjectural.
+
+---
+
+## Prakrama 3, Sarga 17. Mercy to Devananda
+
+*The Lord announces that He is going to Mathura; Nrisimhananda paves His road in his mind and foretells that He will turn back at Natyashala; at Vachaspati's house the Lord delivers the afflicted and instructs Devananda Pandita about the Bhagavata*
+
+**1.** One day Bhagavan Krishna, surrounded by His devotees, said, "With your consent I am going to Mathura."
+
+**2.** Burning with grief, they stood before Him with joined palms and said, "How could anyone wish to part from Your feet, O Lotus-eyed One?
+
+**3.** For wherever You are, there are all the holy places, there are Vrindavana and Madhu[^317-1] — in embodied form they stand at Your side, intent on serving You.
+
+**4.** For the delight of Your pastimes You will go to Mathura, O Lord — and yet You ought to uplift and protect those who grieve."
+
+**5.** "I shall return soon": so the Treasury of mercy consoled them, and set off for the house of Vachaspati[^317-2] to see the Ganga.
+
+**6.** Hearing of this, Nrisimhananda[^317-3] sank into meditation and began in his mind to lay out a road[^317-4] from Kshetra all the way to Madhupura —
+
+**7.** paving it with gold, silver, coral, and heaps of gems and jewels, spreading it with the finest Chinese silks and rows of stalkless flowers.
+
+**8.** That road was adorned with pools full of lotuses, blue water-lilies and other water-flowers, with jewelled steps down to the water, with cygnets and water-fowl.
+
+**9.** Thus, step by step, the brahmana brought the road as far as the dancing-place[^317-5], and there he depicted the forest pastimes, remembering the exploits of Krishna
+
+**10.** and the Lord's partiality towards His devotees. And, happy, laughing and dancing, he said before the devotees:
+
+**11.** "Bhagavan will not go to Mathura now — know that from Krishna's dancing-place He will come back."
+
+**12.** Hearing these auspicious words, all the devotees drank them in like nectar; then they walked around him and fell to the ground like sticks.
+
+**13.** And he, his heart full of love, bowed to them in return; they all embraced one another and were overjoyed, as if they had already obtained the happiness of seeing the Lord.
+
+**14.** Meanwhile Achyuta Himself, performing the sankirtana of Sri Krishna that brings good to the world, came, surrounded by His own people, to the house of Vachaspati, the best of brahmanas.
+
+**15.** The dwellers of glorious Navadvipa, and other people — those who dwell in the world of the gods — having beheld in person the lotus face of the Lord, longed for a hundred eyes on every side.
+
+**16.** Staying some days in the brahmana's house, Krishna delivered all the people — the dumb, the blind, the deaf and the rest.
+
+**17.** The learned Devananda Pandita[^317-6], who had received the mercy of Vakreshvara, came to the Lord's feet, confessed his former ill will,
+
+**18.** and asked what his true good might be. And the Treasury of mercy said to him: "Know that the Srimad Bhagavatam is Sri Krishna Himself, directly — the embodiment of being, consciousness and bliss,
+
+**19.** free from envy and every taint[^317-7]. Whoever reads it, tasting the rasa of devotion, will attain bliss."
+
+**20.** Hearing this, the brahmana bowed his head and, covered with the dust of His feet, immersed in the rasa of Gaurachandra, danced most wondrously.
+
+*Thus ends the seventeenth sarga, "Mercy to Devananda" (Devananda-anugraha), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^317-1]: Madhu (Madhupura, Madhupuri): Mathura.
+[^317-2]: Vachaspati: a brahmana living by the Ganga in Bengal; according to other biographies, Vidya-Vachaspati, the brother of Sarvabhauma.
+[^317-3]: Nrisimhananda: Pradyumna Brahmachari, a devotee of the Lord, so named for his worship of Nrisimha. The story is also told in the "Chaitanya Charitamrita" (Madhya 1).
+[^317-4]: The word rendered here as "road" is obscure in the editions; the sense is clear from verses 7–9.
+[^317-5]: The dancing-place: Kanai Natyashala, a village on the road to Vrindavana, from which the Lord turned back on that occasion.
+[^317-6]: Devananda Pandita: a reciter of the Bhagavata in Navadvipa who had once offended Srivasa; he received the Lord's mercy through the intercession of Vakreshvara Pandita (told at length in Vrindavana Dasa's "Chaitanya Bhagavata").
+[^317-7]: Cf. Bhagavata 1.1.2: this book is for the righteous, who are free from envy.
+
+---
+
+## Prakrama 3, Sarga 18. Beholding Sri Gopinatha after the Journey through Gauda
+
+*At Ramakeli the Lord blesses Sanatana and his brother; He turns back from Natyashala, stays with Advaita, meets His mother and the devotees of Navadvipa, and returns to Puri, where with Nityananda and Gadadhara He honours the prasada of Gopinatha*
+
+**1.** Then Krishna, surrounded by His devotees, came to Ramakeli[^318-1]. Hearing of this, Sanatana came there to see the Lord's feet.
+
+**2.** Seeing the Lord, he rejoiced at heart; together with his younger brother he fell to the ground and, holding a straw between his teeth[^318-2], said to Keshava:
+
+**3.** "There is no sinner like me, no such offender anywhere. I am ashamed even to excuse myself — what can I say, O Purushottama?"
+
+**4.** Janardana placed His foot on his head and said, "You are a dweller of Vrindavana — truly, truly, there is no doubt.
+
+**5.** I wish to go at leisure to Mathura together with you. But to reveal the lost holy places[^318-3], and Vrindavana as well —
+
+**6.** that is your task: all of it will come about by My mercy — for My mercy is devotion itself embodied, and it bestows loving devotion."
+
+**7.** Hearing this, the most wise Sri Sanatana, with his younger brother, said, "Vrindavana is the pleasure-garden of Krishnachandra, lovely and auspicious:
+
+**8.** there Krishna plays for ever with Sri Radha; it is for ever beyond the reach of yogis, of gods and siddhas, of men and of other beings.
+
+**9.** It is a solitary place — what joy would there be in going there with crowds of people? With the sword of Your mercy You have cut my strong chain —
+
+**10.** my royal ministership and the rest — and brought me into Your presence. So now infuse Your power into me, O Krishna, and do as You please."
+
+**11.** Having drunk the nectar of his words, the Lord laughed and said, "Krishna will always fulfil your desires."
+
+**12.** Having comforted him thus, Krishna went as far as the dancing-place[^318-4], and at night He reflected: "Truly, it was well said, there is no doubt:
+
+**13.** through the mouth of the wise Sanatana it was Madhava Himself who spoke to Me — the forest of Vrinda is indeed solitary and very hard to attain.
+
+**14.** To go there with crowds of people is nothing but misery, without doubt. I shall go there leaving all company behind; and now I shall turn south."
+
+**15.** Having considered thus, Bhagavan Sri Krishna, whose very self is the rasa of dense bliss, rose in the morning and, together with Nityananda,
+
+**16.** went joyfully and swiftly to the abode of Advaita Acharya. Honoured by him, the Giver of happiness to His devotees stayed there.
+
+**17.** With Achyuta[^318-5] He ceaselessly increased the joy of play, delighting in the rasa of jests, and was full of mercy towards Haridasa.
+
+**18.** At night, surrounded by His devotees, He performed the sankirtana of Hari and, in supreme delight, danced together with Nityananda.
+
+**19.** The crest-jewel of those devoted to their mothers had His mother and the devotees brought from Navadvipa and dispelled their grief;
+
+**20.** and the food of four kinds[^318-6] that she had duly cooked He ate amid the hundredfold delight of the devotees, sporting with Nityananda.
+
+**21.** Thus, eating and drinking with the devotees in village after village, in house after house, and giving them joy, He went on to Sri Purushottama.
+
+**22.** Glorious Nityananda-Rama and Sri Gadadhara Pandita, intoxicated with the nectar of love for Gaura, were dear as life to Gauranga.
+
+**23.** Followed by these two, Krishna beheld Gopinatha[^318-7] — the son of Nanda in person, the all-powerful One, with the flute at His lips.
+
+**24.** Hari, who delights in the longings of the gopis, embraced Him and stood still; and Gadadhara, seeing there the one self of Gaura and Krishna, was happy.
+
+**25.** He, who in his own nature is Radha Herself[^318-8], held Gopinatha to his breast, brought Him with eager joy and installed Him immovably.
+
+**26.** The food he himself had cooked — the remnants of Gopinatha — Gadadhara, thrilling all over, set before Gaurachandra;
+
+**27.** and at his urging the Lord joyfully divided Gopinatha's prasada into three portions and ate first[^318-9].
+
+**28.** And Gadadhara, rapt in rasa, first fed Nityananda with his own hand, and then ate himself.
+
+**29.** And afterwards Gauranga, Himself the knower of rasa, sat at ease with Gadadhara; and when Rama had retired to rest, longing for the rasa dance and intoxicated with the rasa of delight, He rejoiced in Him who is the delight of the delights of rasa[^318-10].
+
+*Thus ends the eighteenth sarga, "Beholding Sri Gopinatha after the Journey through Gauda" (Gauda-desha-bhramana-anantaram Shri-Gopinatha-darshana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^318-1]: Ramakeli: a village near Gauda, the capital of Bengal, where Sanatana and his younger brother Rupa served as ministers of the sultan.
+[^318-2]: A straw between the teeth: a sign of utter humility and of begging forgiveness.
+[^318-3]: The lost holy places of Vraja, which Rupa and Sanatana uncovered at the Lord's command.
+[^318-4]: Kanai Natyashala (see sarga 17, verses 9–11).
+[^318-5]: Achyuta (Achyutananda): the son of Advaita Acharya.
+[^318-6]: The four kinds of food: what is chewed, sucked, licked and drunk.
+[^318-7]: Gopinatha: the Deity of Krishna with the flute at Puri served by Gadadhara Pandita (Tota-Gopinatha).
+[^318-8]: According to the Gaudiya Vaishnavas, Gadadhara Pandita is an incarnation of Sri Radha.
+[^318-9]: In verses 26–27 the subject is not clearly expressed; the translation is conjectural.
+[^318-10]: The second half of the verse survives only in the Bengali edition (Calcutta, 1945) and plays on the words rasa (the dance), rasa (the taste of love) and Rama; the translation is conjectural. Rama is Nityananda.

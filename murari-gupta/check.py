@@ -9,7 +9,7 @@ def nums_tr(t):
     return re.findall(r'^\*\*([\d–-]+)\.\*\*', t, re.M)
 
 def notes(t):
-    refs = set(re.findall(r'\[\^([^\]]+)\](?!:)', t)); defs = set(re.findall(r'^\[\^([^\]]+)\]:', t, re.M))
+    refs = set(re.findall(r'(?<!^)\[\^([^\]]+)\]', re.sub(r'(?m)^\[\^[^\]]+\]:', '', t))); defs = set(re.findall(r'^\[\^([^\]]+)\]:', t, re.M))
     return refs, defs
 
 def check(s):

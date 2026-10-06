@@ -220,3 +220,22 @@
 | पुण्डय | Пундая (земледелец) | Pundaya (a farmer) |
 | मायाम्बुफल | плод маямбу | mayambu fruit |
 | जियड (भक्त) | Джияда (преданный) | Jiyada (a devotee) |
+| काञ्ची (नगर) | Канчи | Kanchi |
+| गोदावरी | Годавари | the Godavari |
+| पञ्चवटी | Панчавати | Panchavati |
+| कावेरी | Кавери | the Kaveri |
+| श्रीरङ्गनाथ, रङ्गक्षेत्र | Шри Ранганатха, Ранга-кшетра (Шрирангам) | Sri Ranganatha, Ranga-kshetra (Shrirangam) |
+| त्रिमल्ल (भट्टराज) | Трималла (Бхатта) | Trimalla (Bhatta) |
+| गोपाल (बाल, त्रिमल्लस्य) | Гопала (сын Трималлы; Гопала Бхатта) | Gopala (Trimalla's son; Gopala Bhatta) |
+| गन्धर्व | гандхарвы | Gandharvas |
+| रामेश्वर (लिङ्ग) | Рамешвара (линга) | the Rameshvara (linga) |
+| विष्णुदास (द्विज) | Вишнудас (брахман) | Vishnudasa (a brahmana) |
+| नीलकन्दर | Синяя пещера (Нилачала) | the Blue Cave (Nilachala) |
+| गरुडस्तम्भ | столп Гаруды | the Garuda pillar |
+| नृसिंहानन्द | Нрисимхананда | Nrisimhananda |
+| मधु, मधुपुर | Мадху, Мадхупура (Матхура) | Madhu, Madhupura (Mathura) |
+| नाट्यस्थल (कृष्णनाट्यस्थल) | место плясок (Канай-Натьяшала) | the dancing-place (Kanai Natyashala) |
+| वक्रेश्वर | Вакрешвара | Vakreshvara |
+| रामकेलि | Рамакели | Ramakeli |
+| अच्युत (अद्वैतपुत्र) | Ачьюта (сын Адвайты) | Achyuta (Advaita's son) |
+| गोपीनाथ (पुरी, गदाधरस्य) | Гопинатха (в Пури, божество Гададхары) | Gopinatha (at Puri, Gadadhara's Deity) |
