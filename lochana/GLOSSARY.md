@@ -56,3 +56,16 @@
 | যুগ-অবতার, অংশ, কলা | аватара юги, часть, доля | yuga-avatara, portion, part |
 | সাঙ্গোপাঙ্গ (অঙ্গ, উপাঙ্গ, অস্ত্র, পার্ষদ) | с членами и приближёнными (члены, приближённые, оружие, спутники) | with limbs and sub-limbs (limbs, sub-limbs, weapons, associates) |
 | তথা (শব্দ) | «татха» («так же») | "tatha" ("likewise") |
+| দারুব্রহ্ম | Дару-брахма («Брахман в дереве», Джаганнатха) | Daru-brahman ("Brahman in wood", Jagannatha) |
+| মহাবৈকুণ্ঠ | Маха-Вайкунтха | Maha-Vaikuntha |
+| তিলোত্তমা, মধুপ্রিয়া, চন্দ্রমুখী | Тилоттама, Мадхуприя, Чандрамукхи | Tilottama, Madhupriya, Chandramukhi |
+| সুলক্ষণা (লক্ষণা), সুভদ্রা, ভদ্রা | Сулакшана (Лакшмана), Субхадра, Бхадра | Sulakshana (Lakshmana), Subhadra, Bhadra |
+| রঙ্গ (পুরী) | Ранга (город в Голоке) | Ranga (city in Goloka) |
+| ক্ষীরোদ, ক্ষীরজলনিধি | Молочный океан | the Ocean of Milk |
+| হাড়ো ওঝা (পরমানন্দ) | Хадо Оджха (Парамананда) | Hado Ojha (Paramananda) |
+| কুবের পণ্ডিত | Кувера Пандит (детское имя Нитьянанды у Лочана Даса) | Kuvera Pandita (Nityananda's childhood name in Lochana Dasa) |
+| মধুমতী | Мадхумати (Нарахари во Врадже) | Madhumati (Narahari in Vraja) |
+| অষ্টকলাই | аштакалай («восемь видов бобов», обряд 8-го дня) | ashtakalai ("eight kinds of pulses", 8th-day rite) |
+| সিন্দুর, পিঠালি | синдур, питхали | sindura, pithali |
+| জন্মলীলা, বাল্যলীলা | Джанма-лила, Балья-лила | Janma-lila, Balya-lila |
+| ধীরললিত | дхира-лалита (игривый герой) | dhira-lalita (playful hero) |

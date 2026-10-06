@@ -49,6 +49,7 @@
 | @raghunandana | Рагхунандана (Тхакур) | Raghunandana (Thakura) | сын Мукунды Даса, племянник Нарахари, Шрикханда |
 | @mukunda-dasa | Мукунда Дас (Шрикханда) | Mukunda Dasa (of Shrikhanda) | брат Нарахари, отец Рагхунанданы |
 | @vrindavana-dasa | Вриндаван Дас (Тхакур) | Vrindavana Dasa (Thakura) | автор «Чайтанья-бхагаваты» |
+| @abhirama | Абхирама Тхакур (Госвами) | Abhirama Thakura (Gosvami) | Рамадас, один из двенадцати гопалов |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -65,3 +66,4 @@
 | @sanaka-kumaras | Санака и другие Кумары | Sanaka and the other Kumaras | сыновья Брахмы |
 | @vyasa | Вьяса | Vyasa | Вьясадева, Бадараяна |
 | @garga-muni | Гарга Муни | Garga Muni | жрец рода Ядавов; ср. @nilambara-chakravarti |
+| @revati | Ревати | Revati | супруга Баларамы |
