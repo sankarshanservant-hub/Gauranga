@@ -8,7 +8,7 @@ def check(n):
         print(n, 'НЕТ ФАЙЛА'); return False
     t = {k: open(f, encoding='utf-8').read() for k, f in p.items()}
     ok = True
-    nums = {k: re.findall(r'^\*\*(\d+[a-zа-я]?)\.\*\*', v, re.M) for k, v in t.items()}
+    nums = {k: re.findall(r'^\*\*(\d+[a-zа-я]?(?:\+\d+)?)\.\*\*', v, re.M) for k, v in t.items()}
     if nums['ru'] != nums['en']:
         ok = False; print(n, 'номера RU/EN расходятся:', len(nums['ru']), len(nums['en']))
         for a, b in zip(nums['ru'], nums['en']):
