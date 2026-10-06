@@ -66,6 +66,10 @@ Bhaktisiddhanta Sarasvati.
 - **Prakrama Three**
   - Prakrama 3, Sarga 1. The Words of the Women of Kantakanagara
   - Prakrama 3, Sarga 2. The Purification of the Ashrama of Sannyasa
+  - Prakrama 3, Sarga 3. Wandering in the Radha Country
+  - Prakrama 3, Sarga 4. Pastimes at Sri Advaita's House
+  - Prakrama 3, Sarga 5. The Breaking of the Staff
+  - Prakrama 3, Sarga 6. Wandering in the Southern Country
 
 ---
 
@@ -13111,3 +13115,1403 @@ Bhaktisiddhanta Sarasvati.
 [^302-4]: That is, at the end of the solar month of Magha (January–February).
 [^302-5]: Keshava Bharati, who became the guru of Krishna Chaitanya, the Guru of all the worlds.
 [^302-6]: Hence the title of the sarga: sannyasa, accepted by the Lord and filled with love, purifies the very order of sannyasa.
+
+---
+
+## Prakrama 3, Sarga 3. Wandering in the Radha Country
+
+*Not hearing the name of Hari in the Radha country, the Lord resolves to give up His body; a cowherd boy taught by Nityananda calls out "Hari!"; the Lord sends Chandrashekhara to Navadvipa; Chandrashekhara's account of the Lord's three days of rapture*
+
+### Verse 1
+
+अथ नत्वा गुरोः पादं तमनुज्ञाप्य माधवः।
+तदाज्ञया व्रजन्देशं राढं गूढो महाभुजः॥१॥
+
+*atha natvā guroḥ pādaṁ tamanujñāpya mādhavaḥ|*
+*tadājñayā vrajandeśaṁ rāḍhaṁ gūḍho mahābhujaḥ||1||*
+
+*Word for word:* atha — then; natva — bowing; guroh — of the guru; padam — to the foot; tam — him; anujnapya — taking leave of; madhavah — Madhava; tat-ajnaya — by his command; vrajan — going; desham — to the country; radham — Radha; gudhah — in secret; maha-bhujah — the mighty-armed.
+
+**1.** Then Madhava bowed to His guru's feet, took leave of him and, at his command, set out, keeping Himself hidden, for the Radha country. The mighty-armed one
+
+### Verse 2
+
+नित्यावधूतेन सह कृष्णगाथां मुहुर्मुहुः।
+पथि गच्छन्लपन्नृत्यन्गायन्स्वभक्तिभावितः॥२॥
+
+*nityāvadhūtena saha kṛṣṇagāthāṁ muhurmuhuḥ|*
+*pathi gacchanlapannṛtyangāyansvabhaktibhāvitaḥ||2||*
+
+*Word for word:* nitya-avadhutena saha — together with Nitya(nanda) the Avadhuta; krishna-gatham — the tale of Krishna; muhuh muhuh — again and again; pathi — on the road; gachchhan — going; lapan — telling; nrityan — dancing; gayan — singing; sva-bhakti-bhavitah — absorbed in His own devotion.
+
+**2.** went along the road together with Nityananda the Avadhuta, telling the tales of Krishna again and again, dancing and singing, absorbed in His own devotion.
+
+### Verse 3
+
+ध्यायन्कृष्णपदाम्भोजमात्मनात्मात्मविग्रहम्।
+व्रजन्प्रेमाश्रुधाराभिर्निर्झरैर्गिरिशृङ्गवत्॥३॥
+
+*dhyāyankṛṣṇapadāmbhojamātmanātmātmavigraham|*
+*vrajanpremāśrudhārābhirnirjharairgiriśṛṅgavat||3||*
+
+*Word for word:* dhyayan — meditating; krishna-pada-ambhojam — on the lotus feet of Krishna; atmana — within Himself; atma-atma-vigraham — the embodied Self of His self; vrajan — going; prema-ashru-dharabhih — with streams of tears of love; nirjharaih — with waterfalls; giri-shringa-vat — like a mountain peak.
+
+**3.** He walked on, meditating within Himself on the lotus feet of Krishna — the embodied Self of His own self — and with the streams of His tears of love He looked like a mountain peak with waterfalls pouring down it.
+
+### Verse 4
+
+विप्लुताक्षः क्वचित्कम्पपुलकाञ्चितविग्रहः।
+विह्वलः स्खलितः क्वापि क्वचिद्द्रुतगतिर्व्रजन्॥४॥
+
+*viplutākṣaḥ kvacitkampapulakāñcitavigrahaḥ|*
+*vihvalaḥ skhalitaḥ kvāpi kvaciddrutagatirvrajan||4||*
+
+*Word for word:* vipluta-akshah — His eyes flooded; kvachit — at times; kampa-pulaka-anchita-vigrahah — His body marked with trembling and thrills of rapture; vihvalah — overwhelmed; skhalitah — stumbling; kvapi — at times; kvachit — at times; druta-gatih — with rapid gait; vrajan — going.
+
+**4.** At times His eyes were flooded with tears, at times His body was seized with trembling and thrills of rapture; at times He stumbled in His agitation, and at times He hurried along.
+
+### Verse 5
+
+मत्तकरीन्द्रवत्क्वापि तेजसा ववृधे क्वचित्।
+क्वचिद्गायति गोविन्द कृष्ण कृष्णेति सादरम्॥५॥
+
+*mattakarīndravatkvāpi tejasā vavṛdhe kvacit|*
+*kvacidgāyati govinda kṛṣṇa kṛṣṇeti sādaram||5||*
+
+*Word for word:* matta-kari-indra-vat — like a maddened king of elephants; kvapi — at times; tejasa — in might; vavridhe — He grew; kvachit — at times; kvachit — at times; gayati — He sings; govinda — O Govinda; krishna krishna — O Krishna, Krishna; iti — thus; sa-adaram — with reverence.
+
+**5.** At times He moved like a maddened king of elephants, at times He seemed to grow with the might that filled Him, and at times He reverently sang, "Govinda! Krishna! Krishna!"
+
+### Verse 6
+
+तत्र देशे हरेर्नामाश्रुत्वा चातीवविह्वलः।
+प्रविश्याहं जले क्षिप्रं त्यजामि देहमात्मनः॥६॥
+
+*tatra deśe harernāmāśrutvā cātīvavihvalaḥ|*
+*praviśyāhaṁ jale kṣipraṁ tyajāmi dehamātmanaḥ||6||*
+
+*Word for word:* tatra — in that; deshe — land; hareh — of Hari; nama — the name; ashrutva — not hearing; cha — and; ativa-vihvalah — utterly distraught; pravishya — entering; aham — I; jale — into the water; kshipram — at once; tyajami — shall give up; deham — the body; atmanah — My own.
+
+**6.** Not hearing the name of Hari in that land, He was utterly distraught and said, "I will enter the water at once and give up this body!
+
+### Verse 7
+
+न शृणोमि हरेर्नाम कथं ब्राह्मणसंस्थितिः।
+इति निश्चित्य तोयस्य समीपं स व्रजन्प्रभुः॥७॥
+
+*na śṛṇomi harernāma kathaṁ brāhmaṇasaṁsthitiḥ|*
+*iti niścitya toyasya samīpaṁ sa vrajanprabhuḥ||7||*
+
+*Word for word:* na shrinomi — I do not hear; hareh — of Hari; nama — the name; katham — how; brahmana-samsthitih — (is this) a dwelling of brahmanas; iti — thus; nishchitya — resolving; toyasya — to the water; samipam — near; sah — He; vrajan — going; prabhuh — the Lord.
+
+**7.** I do not hear the name of Hari — how can this be a dwelling-place of brahmanas?" Having resolved thus, the Lord went towards the water,
+
+### Verse 8
+
+ददर्श बालकांस्तत्र गवां सङ्घविहारिणः।
+नित्यानन्दावधूतेन शिक्षितान्हरिकीर्तनम्॥८॥
+
+*dadarśa bālakāṁstatra gavāṁ saṅghavihāriṇaḥ|*
+*nityānandāvadhūtena śikṣitānharikīrtanam||8||*
+
+*Word for word:* dadarsha — He saw; balakan — boys; tatra — there; gavam — with the cows; sangha-viharinah — roaming in a band; nityananda-avadhutena — by Nityananda the Avadhuta; shikshitan — taught; hari-kirtanam — the chanting of Hari.
+
+**8.** and there He saw some boys herding their cows together; Nityananda the Avadhuta had taught them to chant the name of Hari.
+
+### Verse 9
+
+तत्रैको बालकोऽत्युच्चं हरिं वद हरिं वद।
+इति प्रोवाच हर्षेण पुनः पुनरुदारधीः॥९॥
+
+*tatraiko bālako'tyuccaṁ hariṁ vada hariṁ vada|*
+*iti provāca harṣeṇa punaḥ punarudāradhīḥ||9||*
+
+*Word for word:* tatra — there; ekah — one; balakah — boy; ati-uchcham — very loudly; harim vada — "Say 'Hari'"; harim vada — "Say 'Hari'"; iti — thus; provacha — called out; harshena — joyfully; punah punah — again and again; udara-dhih — noble-minded.
+
+**9.** And one of the boys, a noble-hearted lad, called out joyfully, loudly, again and again: "Say 'Hari'! Say 'Hari'!"
+
+### Verse 10
+
+तच्छ्रुत्वा हृषितो देवः संरक्षन्देहमात्मनः।
+तत्रैव प्ररुरोदार्तो विह्वलश्चापतद्भुवि॥१०॥
+
+*tacchrutvā hṛṣito devaḥ saṁrakṣandehamātmanaḥ|*
+*tatraiva prarurodārto vihvalaścāpatadbhuvi||10||*
+
+*Word for word:* tat — that; shrutva — hearing; hrishitah — delighted; devah — the Lord; samrakshan — preserving; deham — the body; atmanah — His own; tatra eva — right there; praruroda — wept aloud; artah — anguished; vihvalah — overwhelmed; cha — and; apatat — fell; bhuvi — to the ground.
+
+**10.** Hearing this, the Lord was delighted and resolved to preserve His body. But right there He wept aloud in anguish and fell to the ground, overwhelmed.
+
+### Verse 11
+
+सान्त्वितश्चावधूतेन वृन्दारण्यस्य वार्तया।
+किमद्भुतं ततो गत्वा शिक्षां चक्रे महामतिः॥११॥
+
+*sāntvitaścāvadhūtena vṛndāraṇyasya vārtayā|*
+*kimadbhutaṁ tato gatvā śikṣāṁ cakre mahāmatiḥ||11||*
+
+*Word for word:* santvitah — consoled; cha — and; avadhutena — by the Avadhuta; vrindaranyasya — of Vrindavana; vartaya — with news; kim adbhutam — what a wonder!; tatah — then; gatva — going on; shiksham chakre — gave instruction; maha-matih — the great-minded one.
+
+**11.** The Avadhuta consoled Him with news of Vrindavana. What a wonder! Then, going on, the great-minded Lord gave me[^303-1] a charge:
+
+### Verse 12
+
+नवद्वीपं प्रगच्छ त्वं मां प्राह श्रीनिकेतनः।
+ततोऽहं शोकदुःखार्तो नवद्वीपं व्रजन्नपि॥१२॥
+
+*navadvīpaṁ pragaccha tvaṁ māṁ prāha śrīniketanaḥ|*
+*tato'haṁ śokaduḥkhārto navadvīpaṁ vrajannapi||12||*
+
+*Word for word:* navadvipam — to Navadvipa; pragachchha — go; tvam — you; mam — to me; praha — said; shri-niketanah — the Abode of Shri; tatah — then; aham — I; shoka-duhkha-artah — stricken with grief and sorrow; navadvipam — to Navadvipa; vrajan — going; api — though (already).
+
+**12.** "Go to Navadvipa," the Abode of Shri[^303-2] told me. And when I, stricken with grief and sorrow, was already setting out for Navadvipa, He added,
+
+### Verse 13
+
+नमो नारायणायेति मद्वाक्यं भक्तसन्निधौ।
+वक्तव्यं भवता येन ममानन्दो भविष्यति॥१३॥
+
+*namo nārāyaṇāyeti madvākyaṁ bhaktasannidhau|*
+*vaktavyaṁ bhavatā yena mamānando bhaviṣyati||13||*
+
+*Word for word:* namah narayanaya — "Obeisance to Narayana"; iti — thus; mat-vakyam — My word; bhakta-sannidhau — in the presence of the devotees; vaktavyam — should be spoken; bhavata — by you; yena — whereby; mama — My; anandah — joy; bhavishyati — will be.
+
+**13.** "Give the devotees this word from Me: 'Namo narayanaya'[^303-3]. That will make Me glad."
+
+### Verse 14
+
+श्रुत्वा सर्वं हरेर्वाक्यं गौराङ्गे न्यस्तजीवनः।
+स्थितोऽहं परमार्तोऽपि गौरचन्द्रविचेष्टितम्॥१४॥
+
+*śrutvā sarvaṁ harervākyaṁ gaurāṅge nyastajīvanaḥ|*
+*sthito'haṁ paramārto'pi gauracandraviceṣṭitam||14||*
+
+*Word for word:* shrutva — having heard; sarvam — all; hareh — of Hari; vakyam — the word; gaurange — to Gauranga; nyasta-jivanah — having entrusted my life; sthitah — remained; aham — I; parama-artah — in deep distress; api — though; gaurachandra-vicheshtitam — the doings of Gaurachandra.
+
+**14.** I heard all that Hari said, yet I, who had given my life to Gauranga, stayed on, though in deep distress. And Gaurachandra's doings were revealed to me,
+
+### Verse 15
+
+ज्ञातं बाह्योपसंक्रान्तं निभृतं परमाद्भुतम्।
+सगद्गदं स च प्राह श्रीकृष्णनाममङ्गलम्॥१५॥
+
+*jñātaṁ bāhyopasaṁkrāntaṁ nibhṛtaṁ paramādbhutam|*
+*sagadgadaṁ sa ca prāha śrīkṛṣṇanāmamaṅgalam||15||*
+
+*Word for word:* jnatam — became known (to me); bahya-upasankrantam — what came forth outwardly; nibhritam — what was hidden; parama-adbhutam — most wondrous; sa-gadgadam — in a faltering voice; sah — He; cha — and; praha — uttered; shri-krishna-nama-mangalam — the auspicious name of Sri Krishna.
+
+**15.** both those that came forth outwardly and those that were hidden, all most wondrous. In a faltering voice He kept uttering the auspicious name of Sri Krishna.
+
+### Verse 16
+
+हसति स्खलति क्वापि कम्पति गायति क्वचित्।
+रोदिति व्रजति क्वापि पतति स्वपिति क्षितौ॥१६॥
+
+*hasati skhalati kvāpi kampati gāyati kvacit|*
+*roditi vrajati kvāpi patati svapiti kṣitau||16||*
+
+*Word for word:* hasati — He laughs; skhalati — stumbles; kvapi — at times; kampati — trembles; gayati — sings; kvachit — at times; roditi — weeps; vrajati — walks; kvapi — at times; patati — falls; svapiti — sleeps; kshitau — on the ground.
+
+**16.** At times He laughs, stumbles, trembles, at times He sings; at times He weeps, wanders off, falls down, or sleeps on the bare ground.
+
+### Verse 17
+
+गोपीभावैर्दासभावैरीशभावैः क्वचित्क्वचित्।
+आत्मतन्त्रः स्वात्मरतः शिक्षयन्स्वजनानयम्॥१७॥
+
+*gopībhāvairdāsabhāvairīśabhāvaiḥ kvacitkvacit|*
+*ātmatantraḥ svātmarataḥ śikṣayansvajanānayam||17||*
+
+*Word for word:* gopi-bhavaih — in the moods of a gopi; dasa-bhavaih — in the moods of a servant; isha-bhavaih — in the moods of the Lord; kvachit kvachit — now one, now another; atma-tantrah — self-dependent; sva-atma-ratah — delighting in Himself; shikshayan — teaching; sva-janan — His own people; ayam — He.
+
+**17.** Now in the mood of a gopi, now in the mood of a servant, now in the mood of the Lord — so He, self-dependent and delighting in Himself, was teaching His own.
+
+### Verse 18
+
+तृतीयदिवसं यावन्न सस्मार स्वविग्रहम्।
+महाभीतो व्याकुलोऽहं किं करोमीति चिन्तितः॥१८॥
+
+*tṛtīyadivasaṁ yāvanna sasmāra svavigraham|*
+*mahābhīto vyākulo'haṁ kiṁ karomīti cintitaḥ||18||*
+
+*Word for word:* tritiya-divasam yavat — until the third day; na sasmara — did not remember; sva-vigraham — His own body; maha-bhitah — greatly afraid; vyakulah — anxious; aham — I; kim — what; karomi — shall I do; iti — thus; chintitah — kept thinking.
+
+**18.** Until the third day He did not remember His body, and I, greatly afraid and anxious, kept thinking, "What am I to do?"
+
+### Verse 19
+
+ततः परदिने देहं सस्मार मधुसूदनः।
+ततोऽहमागतो गेहमाज्ञया न्यासिनां गुरोः॥१९॥
+
+*tataḥ paradine dehaṁ sasmāra madhusūdanaḥ|*
+*tato'hamāgato gehamājñayā nyāsināṁ guroḥ||19||*
+
+*Word for word:* tatah — then; para-dine — on the next day; deham — the body; sasmara — remembered; madhusudanah — Madhusudana; tatah — then; aham — I; agatah — came; geham — home; ajnaya — by the command; nyasinam — of sannyasis; guroh — of the guru.
+
+**19.** Only on the following day did Madhusudana remember His body, and then, at the command of the Guru of sannyasis[^303-4], I came home.
+
+### Verse 20
+
+आचार्यगेहे श्रीकृष्णः परश्वो वा गमिष्यति।
+तत्रैव भवतां भावि दर्शनं तस्य निश्चितम्॥२०॥
+
+*ācāryagehe śrīkṛṣṇaḥ paraśvo vā gamiṣyati|*
+*tatraiva bhavatāṁ bhāvi darśanaṁ tasya niścitam||20||*
+
+*Word for word:* acharya-gehe — to the house of the Acharya; shri-krishnah — Sri Krishna; parashvah — the day after tomorrow; va — perhaps; gamishyati — will come; tatra eva — there indeed; bhavatam — of you; bhavi — will be; darshanam — the sight; tasya — of Him; nishchitam — certainly.
+
+**20.** Sri Krishna will come to the Acharya's house[^303-5], perhaps the day after tomorrow; there you will surely see Him.
+
+### Verse 21
+
+इति श्रुतं श्रीहरिकीर्तनादिकं
+मया च दृष्टं भगवत्कृतं शुभम्।
+समग्रमेतत्कथितं सुमङ्गलं
+हरेर्गुणं सर्वसुखप्रदं नृणाम्॥२१॥
+
+*iti śrutaṁ śrīharikīrtanādikaṁ*
+*mayā ca dṛṣṭaṁ bhagavatkṛtaṁ śubham|*
+*samagrametatkathitaṁ sumaṅgalaṁ*
+*harerguṇaṁ sarvasukhapradaṁ nṛṇām||21||*
+
+*Word for word:* iti — thus; shrutam — heard; shri-hari-kirtana-adikam — the chanting of Sri Hari and the rest; maya — by me; cha — and; drishtam — seen; bhagavat-kritam — done by Bhagavan; shubham — auspicious; samagram — in full; etat — this; kathitam — has been told; su-mangalam — most auspicious; hareh — of Hari; gunam — the glory; sarva-sukha-pradam — granting every happiness; nrinam — to men.
+
+**21.** Thus have I heard and seen the auspicious chanting of Sri Hari and the other deeds of Bhagavan, and I have told it all in full. This blessed account of Hari's glory grants every happiness to men.
+
+*Thus ends the third sarga, "Wandering in the Radha Country" (Radhadesha-bhramana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^303-1]: From here to the end of the sarga the narrator is Chandrashekhara Acharyaratna, who has returned to the devotees in Navadvipa (cf. Sargas 3.1 and 3.4).
+[^303-2]: The Abode of Shri (Shriniketana) — an epithet of the Lord as the abode of the goddess Lakshmi.
+[^303-3]: "Obeisance to Narayana" — the customary greeting of sannyasis: having become a sannyasi, the Lord sends the devotees a greeting according to the rule of His new ashrama.
+[^303-4]: Apparently the Lord Himself, who has just accepted sannyasa (cf. v. 12).
+[^303-5]: Advaita Acharya's, at Shantipura.
+
+---
+
+## Prakrama 3, Sarga 4. Pastimes at Sri Advaita's House
+
+*The devotees of Navadvipa lament the Lord's sannyasa; Nityananda brings Shachi and the Vaishnavas to Advaita's house; the Lord comes there and spends a day and a night with them in kirtana, takes leave of Haridasa, Advaita and Gopinatha Acharya, and departs for Purushottama*
+
+### Verse 1
+
+आचार्यरत्नाद्धि निशम्य तद्वचो
+हरेर्गुणास्वादविभिन्नधैर्याः।
+आर्तस्वरैर्वा रुरुदुः सुदुःखिता
+अद्वैतमुख्या द्विजसज्जनास्ततः॥१॥
+
+*ācāryaratnāddhi niśamya tadvaco*
+*harerguṇāsvādavibhinnadhairyāḥ|*
+*ārtasvarairvā ruruduḥ suduḥkhitā*
+*advaitamukhyā dvijasajjanāstataḥ||1||*
+
+*Word for word:* acharyaratnat — from the Acharyaratna; hi — indeed; nishamya — hearing; tat — that; vachah — account; hareh — of Hari; guna-asvada-vibhinna-dhairyah — their composure shattered by relishing (the tale of His) qualities; arta-svaraih — with cries of anguish; va — as it were; ruruduh — wept; su-duhkhitah — deeply grieved; advaita-mukhyah — headed by Advaita; dvija-sajjanah — the virtuous brahmanas; tatah — then.
+
+**1.** Hearing this account from the Acharyaratna, the virtuous brahmanas headed by Advaita lost their composure as they relished the tale of Hari's virtues, and, deeply grieved, they wept aloud as if in pain.
+
+### Verse 2
+
+अथ श्रीजगदीशो हि भक्तानामार्तिनाशकः।
+अद्वैताचार्यनिलये गच्छामीति मनो दधे॥२॥
+
+*atha śrījagadīśo hi bhaktānāmārtināśakaḥ|*
+*advaitācāryanilaye gacchāmīti mano dadhe||2||*
+
+*Word for word:* atha — now; shri-jagadishah — the Lord of the world; hi — indeed; bhaktanam — of the devotees; arti-nashakah — the dispeller of distress; advaita-acharya-nilaye — to the abode of Advaita Acharya; gachchhami — I shall go; iti — thus; manah dadhe — resolved.
+
+**2.** And the Lord of the world, who dispels the distress of His devotees, resolved, "I shall go to the abode of Advaita Acharya."
+
+### Verse 3
+
+परिव्रज्य राढदेशं लोकैकनयनोत्सवः।
+अवधूतं महात्मानं प्रोवाच मधुरं वचः॥३॥
+
+*parivrajya rāḍhadeśaṁ lokaikanayanotsavaḥ|*
+*avadhūtaṁ mahātmānaṁ provāca madhuraṁ vacaḥ||3||*
+
+*Word for word:* parivrajya — having wandered through; radha-desham — the Radha country; loka-eka-nayana-utsavah — the one festival for the eyes of the people; avadhutam — to the Avadhuta; maha-atmanam — the great soul; provacha — spoke; madhuram — sweet; vachah — words.
+
+**3.** Having wandered through the Radha country, He who is the one festival for the eyes of the people spoke sweetly to the great soul, the Avadhuta:
+
+### Verse 4
+
+गच्छ त्वं जाह्नवीतीरे नवद्वीपं मनोरमम्।
+मातरं परया भक्त्या मम नामपुरःसरम्॥४॥
+
+*gaccha tvaṁ jāhnavītīre navadvīpaṁ manoramam|*
+*mātaraṁ parayā bhaktyā mama nāmapuraḥsaram||4||*
+
+*Word for word:* gachchha — go; tvam — you; jahnavi-tire — on the bank of the Jahnavi; navadvipam — to Navadvipa; manoramam — the charming; mataram — mother; paraya — with the highest; bhaktya — devotion; mama — My; nama-purahsaram — with mention of the name.
+
+**4.** "Go to charming Navadvipa on the bank of the Jahnavi. With the highest devotion, in My name,
+
+### Verse 5
+
+संशान्तय्य सुखीकृत्वा श्रीकृष्णचरितादिना।
+तत्रत्यान्वैष्णवान्सर्वाञ्छ्रीवासादीन्मम प्रियान्॥५॥
+
+*saṁśāntayya sukhīkṛtvā śrīkṛṣṇacaritādinā|*
+*tatratyānvaiṣṇavānsarvāñchrīvāsādīnmama priyān||5||*
+
+*Word for word:* samshantayya — having calmed; sukhi-kritva — having comforted; shri-krishna-charita-adina — with the deeds of Sri Krishna and the like; tatratyan — who live there; vaishnavan — the Vaishnavas; sarvan — all; shrivasa-adin — Srivasa and the rest; mama — to Me; priyan — dear.
+
+**5.** calm and comfort My mother with tales of Sri Krishna's deeds and the like; and all the Vaishnavas there who are dear to Me, Srivasa and the rest,
+
+### Verse 6
+
+समानयाचार्यगेहं यावत्तत्र व्रजाम्यहम्।
+श्रुत्वाज्ञां जगदीशस्य जगाम त्वरया मुदा॥६॥
+
+*samānayācāryagehaṁ yāvattatra vrajāmyaham|*
+*śrutvājñāṁ jagadīśasya jagāma tvarayā mudā||6||*
+
+*Word for word:* samanaya — bring; acharya-geham — to the house of the Acharya; yavat — while; tatra — there; vrajami — am going; aham — I; shrutva — hearing; ajnam — the command; jagadishasya — of the Lord of the world; jagama — went; tvaraya — in haste; muda — with joy.
+
+**6.** bring to the Acharya's house, while I go there Myself." Hearing the command of the Lord of the world, Nityananda set out in haste and with joy
+
+### Verse 7
+
+नवद्वीपं श्रिया युक्तं श्रीवासस्याश्रमं शुभम्।
+विज्ञाप्य केशवाज्ञां स श्रीवासादिभिरन्वितः॥७॥
+
+*navadvīpaṁ śriyā yuktaṁ śrīvāsasyāśramaṁ śubham|*
+*vijñāpya keśavājñāṁ sa śrīvāsādibhiranvitaḥ||7||*
+
+*Word for word:* navadvipam — to Navadvipa; shriya — with splendour; yuktam — endowed; shrivasasya — of Srivasa; ashramam — to the dwelling; shubham — auspicious; vijnapya — announcing; keshava-ajnam — the command of Keshava; sah — he; shrivasa-adibhih — by Srivasa and the others; anvitah — accompanied.
+
+**7.** for Navadvipa, rich in splendour, to the auspicious dwelling of Srivasa. There he announced the command of Keshava[^304-1], and then the compassionate Nityananda, together with Srivasa and the others,
+
+### Verse 8
+
+श्रीशचीचरणद्वन्द्वं नमस्कृत्य कृताञ्जलिः।
+सान्त्वयित्वा च तां भक्त्या नित्यानन्दो दयानिधिः॥८॥
+
+*śrīśacīcaraṇadvandvaṁ namaskṛtya kṛtāñjaliḥ|*
+*sāntvayitvā ca tāṁ bhaktyā nityānando dayānidhiḥ||8||*
+
+*Word for word:* shri-shachi-charana-dvandvam — to the two feet of Sri Shachi; namaskritya — bowing; krita-anjalih — with joined palms; santvayitva — consoling; cha — and; tam — her; bhaktya — with devotion; nityanandah — Nityananda; daya-nidhih — the treasure-house of compassion.
+
+**8.** bowed with joined palms to the feet of Sri Shachi and consoled her with devotion.
+
+### Verse 9
+
+तया पाचितमन्नं च भुक्त्वा स्थित्वा परे दिने।
+सर्वैस्तैर्ब्राह्मणैः शूद्रैर्वैद्यैरपि महामनाः॥९॥
+
+*tayā pācitamannaṁ ca bhuktvā sthitvā pare dine|*
+*sarvaistairbrāhmaṇaiḥ śūdrairvaidyairapi mahāmanāḥ||9||*
+
+*Word for word:* taya — by her; pachitam — cooked; annam — the food; cha — and; bhuktva — having eaten; sthitva — having stayed (the night); pare — on the next; dine — day; sarvaih — with all; taih — those; brahmanaih — brahmanas; shudraih — shudras; vaidyaih — vaidyas; api — too; maha-manah — the magnanimous one.
+
+**9.** He ate the food she had cooked and stayed the night, and on the next day the magnanimous Nityananda, with all of them — brahmanas, shudras and vaidyas —
+
+### Verse 10
+
+जगामाद्वैतनिलयं सहर्षस्त्वरयान्वितः।
+शची च परया प्रीत्या पुत्रं श्रीपुरुषोत्तमम्॥१०॥
+
+*jagāmādvaitanilayaṁ saharṣastvarayānvitaḥ|*
+*śacī ca parayā prītyā putraṁ śrīpuruṣottamam||10||*
+
+*Word for word:* jagama — went; advaita-nilayam — to the abode of Advaita; sa-harshah — joyful; tvaraya anvitah — in haste; shachi — Shachi; cha — and; paraya — with the highest; pritya — love; putram — the son; shri-purushottamam — Sri Purushottama.
+
+**10.** hurried joyfully to the abode of Advaita. Shachi too hastened to the same place, to Advaita's house, thinking with the highest love of her son, Sri Purushottama.
+
+### Verse 11
+
+मत्वा जगाम तत्रैव गेहेऽद्वैतस्य सत्वरा।
+सर्वे ते तद्दिनं स्थित्वा भुक्त्वान्नं पावनं महत्॥११॥
+
+*matvā jagāma tatraiva gehe'dvaitasya satvarā|*
+*sarve te taddinaṁ sthitvā bhuktvānnaṁ pāvanaṁ mahat||11||*
+
+*Word for word:* matva — thinking (of her son as Purushottama); jagama — went; tatra eva — to that very place; gehe — to the house; advaitasya — of Advaita; satvara — in haste; sarve — all; te — they; tat-dinam — that day; sthitva — staying; bhuktva — having eaten; annam — the food; pavanam — purifying; mahat — great.
+
+**11.** All of them stayed there that day and partook of the great, purifying food
+
+### Verse 12
+
+श्रीयुताद्वैतवर्यस्य शिवांशस्य महात्मनः।
+ततः परदिने पुष्पग्रामादागच्छति प्रभौ॥१२॥
+
+*śrīyutādvaitavaryasya śivāṁśasya mahātmanaḥ|*
+*tataḥ paradine puṣpagrāmādāgacchati prabhau||12||*
+
+*Word for word:* shri-yuta-advaita-varyasya — of the venerable, excellent Advaita; shiva-amshasya — a portion of Shiva; maha-atmanah — the great soul; tatah — then; para-dine — on the next day; pushpa-gramat — from Pushpagrama; agachchhati — as (He) was coming; prabhau — the Lord.
+
+**12.** of the venerable Advaita, that great soul, a portion of Shiva. And on the next day, as the Lord was coming from Pushpagrama[^304-2],
+
+### Verse 13
+
+सर्वे ते मुदिता जग्मुस्तन्मङ्गलमहोत्सवाः।
+अश्रुकम्पपुलकाद्यैः पूर्णाः परमविह्वलाः॥१३॥
+
+*sarve te muditā jagmustanmaṅgalamahotsavāḥ|*
+*aśrukampapulakādyaiḥ pūrṇāḥ paramavihvalāḥ||13||*
+
+*Word for word:* sarve — all; te — they; muditah — joyful; jagmuh — went (to meet Him); tat-mangala-maha-utsavah — for whom that was a great auspicious festival; ashru-kampa-pulaka-adyaih — with tears, trembling, thrills of rapture and the rest; purnah — filled; parama-vihvalah — utterly overwhelmed.
+
+**13.** they all went out joyfully to meet Him: for them it was a great and auspicious festival. Filled with tears, trembling and thrills of rapture, they were beside themselves.
+
+### Verse 14
+
+तप्तकाञ्चनवपुर्धृतदण्डो
+रक्तवस्त्रपरिवेष्टितदेहः।
+मेरुशृङ्ग इव गैरिकयुक्त-
+स्तेजसा हरिरिव प्रचकाशे॥१४॥
+
+*taptakāñcanavapurdhṛtadaṇḍo*
+*raktavastrapariveṣṭitadehaḥ|*
+*meruśṛṅga iva gairikayukta-*
+*stejasā haririva pracakāśe||14||*
+
+*Word for word:* tapta-kanchana-vapuh — His body like molten gold; dhrita-dandah — holding the staff; rakta-vastra-pariveshtita-dehah — His body wrapped in red cloth; meru-shringah — a peak of Meru; iva — like; gairika-yuktah — streaked with red ochre; tejasa — in radiance; harih — the sun; iva — like; prachakashe — He shone.
+
+**14.** His body was like molten gold, a staff was in His hand, and His frame was wrapped in red cloth: like a peak of Meru streaked with red ochre, He shone like the sun.
+
+### Verse 15
+
+तं विलोक्य नृहरिं हरिदासाः
+प्राणमात्मन इवाशु प्रणेमुः।
+दण्डवद्भुवि निपत्य महान्तः
+कान्तवक्त्रकमलं मुमुदुश्च॥१५॥
+
+*taṁ vilokya nṛhariṁ haridāsāḥ*
+*prāṇamātmana ivāśu praṇemuḥ|*
+*daṇḍavadbhuvi nipatya mahāntaḥ*
+*kāntavaktrakamalaṁ mumuduśca||15||*
+
+*Word for word:* tam — Him; vilokya — seeing; nriharim — Nrihari; hari-dasah — the servants of Hari; pranam — to the life-breath; atmanah — their own; iva — as if; ashu — at once; pranemuh — bowed down; danda-vat — like a staff; bhuvi — on the ground; nipatya — falling; mahantah — the great souls; kanta-vaktra-kamalam — (at) the lovely lotus face; mumuduh — rejoiced; cha — and.
+
+**15.** Seeing Nrihari, the servants of Hari at once bowed down to Him as if to their own breath of life; the great souls fell to the ground like staffs and rejoiced at the sight of His lovely lotus face.
+
+### Verse 16
+
+नेत्रवारिझरपूरितदेहा
+हर्षगद्गदरवाः पुलकाङ्गाः।
+तान्विलोक्य भगवान्कृपाम्बुधि-
+र्दृष्टिवृष्टिभिरलङ्कृतदेहान्॥१६॥
+
+*netravārijharapūritadehā*
+*harṣagadgadaravāḥ pulakāṅgāḥ|*
+*tānvilokya bhagavānkṛpāmbudhi-*
+*rdṛṣṭivṛṣṭibhiralaṅkṛtadehān||16||*
+
+*Word for word:* netra-vari-jhara-purita-dehah — their bodies bathed in streams of tears; harsha-gadgada-ravah — their voices choked with joy; pulaka-angah — their limbs thrilling; tan — them; vilokya — looking upon; bhagavan — Bhagavan; kripa-ambudhih — the ocean of mercy; drishti-vrishtibhih — with showers of glances; alankrita-dehan — their bodies adorned.
+
+**16.** Their bodies were bathed in streams of tears, their voices choked with joy, their limbs thrilled. Bhagavan, the ocean of mercy, looked upon them, and the shower of His glances adorned them.
+
+### Verse 17
+
+स्पर्शनेन मुदितान्हसितेन
+भाषितेन दृढहस्तग्रहेण।
+पूर्णकामविभवान्स्मितकान्त-
+दिव्यपद्मवदनः स हि चक्रे॥१७॥
+
+*sparśanena muditānhasitena*
+*bhāṣitena dṛḍhahastagraheṇa|*
+*pūrṇakāmavibhavānsmitakānta-*
+*divyapadmavadanaḥ sa hi cakre||17||*
+
+*Word for word:* sparshanena — by touch; muditan — delighted; hasitena — by laughter; bhashitena — by speech; dridha-hasta-grahena — by a firm clasp of the hand; purna-kama-vibhavan — rich in fulfilled desires; smita-kanta-divya-padma-vadanah — His divine lotus face lovely with a smile; sah — He; hi — indeed; chakre — made.
+
+**17.** By His touch, His smile, His words and the firm clasp of His hand, He whose divine lotus face was lovely with a smile delighted them and fulfilled all their desires.
+
+### Verse 18
+
+तेऽपि हृष्टमनसः पुलकेन
+पूरिताङ्गविभवाः सुखमीयुः।
+तैः सुरेश इव देवसमूहै-
+रागतः स भगवान्सहसैव॥१८॥
+
+*te'pi hṛṣṭamanasaḥ pulakena*
+*pūritāṅgavibhavāḥ sukhamīyuḥ|*
+*taiḥ sureśa iva devasamūhai-*
+*rāgataḥ sa bhagavānsahasaiva||18||*
+
+*Word for word:* te — they; api — too; hrishta-manasah — glad at heart; pulakena — with thrills of rapture; purita-anga-vibhavah — the splendour of their bodies brimming; sukham iyuh — attained happiness; taih — with them; sura-ishah — the lord of the gods; iva — like; deva-samuhaih — with hosts of gods; agatah — came; sah — He; bhagavan — Bhagavan; sahasa eva — straightway.
+
+**18.** And they, glad at heart, the splendour of their bodies brimming with thrills of rapture, attained happiness. With them, like the lord of the gods with the hosts of the gods, Bhagavan came straightway
+
+### Verse 19
+
+अद्वितीयगुरुवर्यनिकेतं
+रोचयन्स नितरां पदपद्मैः।
+आसने समुपविश्य सुक्लृप्ते
+राजमान इव तिग्मदीधितिः॥१९॥
+
+*advitīyaguruvaryaniketaṁ*
+*rocayansa nitarāṁ padapadmaiḥ|*
+*āsane samupaviśya suklṛpte*
+*rājamāna iva tigmadīdhitiḥ||19||*
+
+*Word for word:* advitiya-guru-varya-niketam — the dwelling of the peerless (Advaita), the most excellent guru; rochayan — illuminating; sah — He; nitaram — wholly; pada-padmaih — with His lotus feet; asane — on a seat; samupavishya — sitting down; su-klripte — well prepared; rajamanah — shining; iva — like; tigma-didhitih — the sun of fierce rays.
+
+**19.** and, wholly illuminating with His lotus feet the dwelling of the peerless[^304-3], most excellent guru, sat down on the seat prepared for Him and shone like the sun of fierce rays.
+
+### Verse 20
+
+सञ्जगौ हरिकथां सगद्गदं
+नेत्रवारिभिरलङ्कृतदेहः।
+बदरिकाश्रम इव ऋषिमध्ये
+राजति स्म स नारायणदेवः॥२०॥
+
+*sañjagau harikathāṁ sagadgadaṁ*
+*netravāribhiralaṅkṛtadehaḥ|*
+*badarikāśrama iva ṛṣimadhye*
+*rājati sma sa nārāyaṇadevaḥ||20||*
+
+*Word for word:* sanjagau — sang; hari-katham — the story of Hari; sa-gadgadam — in a faltering voice; netra-varibhih — with tears; alankrita-dehah — His body adorned; badarika-ashrame — at Badarikashrama; iva — as; rishi-madhye — amid the sages; rajati sma — shone; sah — He; narayana-devah — the god Narayana.
+
+**20.** In a faltering voice He sang the story of Hari; His body was adorned with tears, and He shone like the god Narayana amid the sages at Badarikashrama[^304-4].
+
+### Verse 21
+
+श्रीशचीं प्रणिपत्याह सादरं करुणामयः।
+तिष्ठामि सततं मातस्तव सन्निहितो ह्यहम्॥२१॥
+
+*śrīśacīṁ praṇipatyāha sādaraṁ karuṇāmayaḥ|*
+*tiṣṭhāmi satataṁ mātastava sannihito hyaham||21||*
+
+*Word for word:* shri-shachim — to Sri Shachi; pranipatya — bowing down; aha — said; sa-adaram — respectfully; karuna-mayah — the compassionate one; tishthami — I abide; satatam — always; matah — O mother; tava — you; sannihitah — near; hi — surely; aham — I.
+
+**21.** The compassionate one bowed respectfully to Sri Shachi and said, "Mother, I am always near you."
+
+### Verse 22
+
+अद्वैताचार्यवर्येण दत्तमन्नं चतुर्विधम्।
+बुभुजे यज्ञभुङ्नाथो भक्तैर्भक्तजनेष्टदः॥२२॥
+
+*advaitācāryavaryeṇa dattamannaṁ caturvidham|*
+*bubhuje yajñabhuṅnātho bhaktairbhaktajaneṣṭadaḥ||22||*
+
+*Word for word:* advaita-acharya-varyena — by the excellent Advaita Acharya; dattam — offered; annam — food; chatuh-vidham — of four kinds; bubhuje — ate; yajna-bhuk-nathah — the Lord who enjoys the sacrifices; bhaktaih — with the devotees; bhakta-jana-ishta-dah — granting the desires of His devotees.
+
+**22.** The Lord who enjoys the sacrifices, who grants His devotees their desires, ate together with the devotees the four kinds of food[^304-5] offered by the excellent Advaita Acharya.
+
+### Verse 23
+
+तत्र सुप्तो रजन्यां स शेषे यामे समुत्थितः।
+गायन्कलपदं कृष्णं ननर्त स्वजनैः सह॥२३॥
+
+*tatra supto rajanyāṁ sa śeṣe yāme samutthitaḥ|*
+*gāyankalapadaṁ kṛṣṇaṁ nanarta svajanaiḥ saha||23||*
+
+*Word for word:* tatra — there; suptah — having slept; rajanyam — at night; sah — He; sheshe — in the last; yame — watch; samutthitah — rising; gayan — singing of; kala-padam — sweetly; krishnam — Krishna; nanarta — danced; sva-janaih saha — with His own.
+
+**23.** He slept there that night, and in the last watch He rose and, sweetly singing of Krishna, danced with His own.
+
+### Verse 24
+
+अथ प्रभाते विमले श्रीवासादीन्द्विजोत्तमान्।
+वाचा मधुरयोवाच गच्छत स्वाश्रमान्प्रति॥२४॥
+
+*atha prabhāte vimale śrīvāsādīndvijottamān|*
+*vācā madhurayovāca gacchata svāśramānprati||24||*
+
+*Word for word:* atha — then; prabhate — at dawn; vimale — clear; shrivasa-adin — to Srivasa and the rest; dvija-uttaman — the best of brahmanas; vacha — in words; madhuraya — sweet; uvacha — said; gachchhata — go; sva-ashraman prati — to your homes.
+
+**24.** Then, in the clear dawn, He said sweetly to Srivasa and the other best of brahmanas, "Go to your homes.
+
+### Verse 25
+
+यास्यामि देवदेवेशपुरुषोत्तमदर्शने।
+सार्वभौमद्विजेन्द्रेण सार्धं पश्यामि तं हरिम्॥२५॥
+
+*yāsyāmi devadeveśapuruṣottamadarśane|*
+*sārvabhaumadvijendreṇa sārdhaṁ paśyāmi taṁ harim||25||*
+
+*Word for word:* yasyami — I shall go; deva-deva-isha-purushottama-darshane — to see Purushottama, the Lord of the god of gods; sarvabhauma-dvija-indrena — with Sarvabhauma, the king of brahmanas; sardham — together; pashyami — I shall see; tam — that; harim — Hari.
+
+**25.** I shall go to see Purushottama, the Lord of the god of gods; together with Sarvabhauma[^304-6], the king of brahmanas, I shall see that Hari.
+
+### Verse 26
+
+युष्माभिरत्र कर्तव्यं सदैव हरिकीर्तनम्।
+विमत्सरैर्विशेषेण जागरे हरिवासरे॥२६॥
+
+*yuṣmābhiratra kartavyaṁ sadaiva harikīrtanam|*
+*vimatsarairviśeṣeṇa jāgare harivāsare||26||*
+
+*Word for word:* yushmabhih — by you; atra — here; kartavyam — should be performed; sada eva — always; hari-kirtanam — the chanting of Hari; vimatsaraih — free from envy; visheshena — especially; jagare — during the vigil; hari-vasare — on the day of Hari.
+
+**26.** And you, free from envy, should always chant the name of Hari here, especially during the vigil on the day of Hari[^304-7]."
+
+### Verse 27
+
+एवं विसृज्य तान्सर्वानद्वैताचार्यमग्रतः।
+समालिङ्ग्य च बाहुभ्यां ययौ प्रेमाश्रुलोचनः॥२७॥
+
+*evaṁ visṛjya tānsarvānadvaitācāryamagrataḥ|*
+*samāliṅgya ca bāhubhyāṁ yayau premāśrulocanaḥ||27||*
+
+*Word for word:* evam — thus; visrijya — dismissing; tan — them; sarvan — all; advaita-acharyam — Advaita Acharya; agratah — first of all; samalingya — embracing; cha — and; bahubhyam — with both arms; yayau — went; prema-ashru-lochanah — His eyes full of tears of love.
+
+**27.** Having thus dismissed them all, the Lord first embraced Advaita Acharya with both arms and set off, His eyes full of tears of love.
+
+### Verse 28
+
+ततस्तृणं स्वदशनैर्धृत्वा श्रीहरिदासकः।
+पपात दण्डवद्भूमौ पादमूले जगत्पतेः॥२८॥
+
+*tatastṛṇaṁ svadaśanairdhṛtvā śrīharidāsakaḥ|*
+*papāta daṇḍavadbhūmau pādamūle jagatpateḥ||28||*
+
+*Word for word:* tatah — then; trinam — a blade of grass; sva-dashanaih — with his teeth; dhritva — holding; shri-haridasakah — Sri Haridasa; papata — fell; danda-vat — like a staff; bhumau — on the ground; pada-mule — at the feet; jagat-pateh — of the Lord of the world.
+
+**28.** Then Sri Haridasa, holding a blade of grass between his teeth[^304-8], fell like a staff to the ground at the feet of the Lord of the world.
+
+### Verse 29
+
+तद्दृष्ट्वा व्यथितो नाथस्तमुवाचाश्रुलोचनः।
+एवंरूपेणाहमेव जगन्नाथपदाम्बुजे॥२९॥
+
+*taddṛṣṭvā vyathito nāthastamuvācāśrulocanaḥ|*
+*evaṁrūpeṇāhameva jagannāthapadāmbuje||29||*
+
+*Word for word:* tat — that; drishtva — seeing; vyathitah — pained; nathah — the Lord; tam — to him; uvacha — said; ashru-lochanah — with tears in His eyes; evam-rupena — in just this way; aham eva — I Myself; jagannatha-pada-ambuje — at the lotus feet of Jagannatha.
+
+**29.** Seeing this, the Lord was pained, and with tears in His eyes He said to him, "In just this way I Myself
+
+### Verse 30
+
+निपत्य संवदिष्यामि यथा त्वयि कृपा हरेः।
+भवेन्निश्चितमित्युक्त्वा समालिङ्ग्य च तं पुनः॥३०॥
+
+*nipatya saṁvadiṣyāmi yathā tvayi kṛpā hareḥ|*
+*bhavenniścitamityuktvā samāliṅgya ca taṁ punaḥ||30||*
+
+*Word for word:* nipatya — falling; samvadishyami — I shall speak; yatha — so that; tvayi — upon you; kripa — the mercy; hareh — of Hari; bhavet — may be; nishchitam — surely; iti — thus; uktva — saying; samalingya — embracing; cha — and; tam — him; punah — again.
+
+**30.** will fall at the lotus feet of Jagannatha and plead that the mercy of Hari will surely rest upon you." So saying, He embraced him again
+
+### Verse 31
+
+विससर्ज च तं प्रीत्या तमुवाच द्विजर्षभः।
+श्रीयुताद्वैतवर्यस्तु भगवन्तं जगद्गुरुम्॥३१॥
+
+*visasarja ca taṁ prītyā tamuvāca dvijarṣabhaḥ|*
+*śrīyutādvaitavaryastu bhagavantaṁ jagadgurum||31||*
+
+*Word for word:* visasarja — dismissed; cha — and; tam — him; pritya — lovingly; tam — to Him; uvacha — spoke; dvija-rishabhah — the bull among brahmanas; shri-yuta-advaita-varyah — the venerable, excellent Advaita; tu — then; bhagavantam — to Bhagavan; jagat-gurum — the Guru of the world.
+
+**31.** and lovingly let him go. Then the venerable Advaita, the bull among brahmanas, said to Bhagavan, the Guru of the world,
+
+### Verse 32
+
+भगवद्गमनं श्रुत्वा तव मे न कथं भवेत्।
+प्रेमा नाथ तवेयं किं कृपा तं प्राह केशवः॥३२॥
+
+*bhagavadgamanaṁ śrutvā tava me na kathaṁ bhavet|*
+*premā nātha taveyaṁ kiṁ kṛpā taṁ prāha keśavaḥ||32||*
+
+*Word for word:* bhagavat-gamanam — of Your Lordship's departure; shrutva — having heard; tava — for You; me — in me; na — not; katham — how; bhavet — arises; prema — love; natha — O Lord; tava — Your; iyam — this; kim — (is it); kripa — mercy; tam — to him; praha — said; keshavah — Keshava.
+
+**32.** "How is it, O Lord, that hearing of Your departure I feel no love for You? Is this Your mercy?"[^304-9] Keshava answered him,
+
+### Verse 33
+
+एवं स्याच्चेत्तव प्रेमा कथं मे गमनं भवेत्।
+इत्युक्त्वा तं समालिङ्ग्य दृढस्निग्धैरनुव्रतैः॥३३॥
+
+*evaṁ syāccettava premā kathaṁ me gamanaṁ bhavet|*
+*ityuktvā taṁ samāliṅgya dṛḍhasnigdhairanuvrataiḥ||33||*
+
+*Word for word:* evam — thus; syat — were; chet — if; tava — your; prema — love; katham — how; me — My; gamanam — going; bhavet — could take place; iti — thus; uktva — saying; tam — him; samalingya — embracing; dridha-snigdhaih — steadfast in affection; anuvrataih — by faithful followers.
+
+**33.** "If your love were to show itself so, how could I go?" So saying, He embraced him. And as He was leaving with His faithful companions, steadfast in affection —
+
+### Verse 34
+
+गदाधरादिभिर्विप्रैर्गच्छन्तं तं द्विजोत्तमः।
+गोपीनाथाचार्यमुख्यः प्रोवाच प्रीणयन्हरिम्॥३४॥
+
+*gadādharādibhirviprairgacchantaṁ taṁ dvijottamaḥ|*
+*gopīnāthācāryamukhyaḥ provāca prīṇayanharim||34||*
+
+*Word for word:* gadadhara-adibhih — by Gadadhara and the other; vipraih — brahmanas; gachchhantam — going; tam — to Him; dvija-uttamah — the best of brahmanas; gopinatha-acharya-mukhyah — foremost among them, Gopinatha Acharya; provacha — spoke; prinayan — gladdening; harim — Hari.
+
+**34.** Gadadhara and the other brahmanas — the best of brahmanas, Gopinatha Acharya[^304-10], foremost among them, spoke to Hari, wishing to please Him:
+
+### Verse 35
+
+भगवंस्त्वद्वपुरहं द्रष्टुमिच्छामि कामद।
+तच्छ्रुत्वा वचनं तस्य वसनं समपाकरोत्॥३५॥
+
+*bhagavaṁstvadvapurahaṁ draṣṭumicchāmi kāmada|*
+*tacchrutvā vacanaṁ tasya vasanaṁ samapākarot||35||*
+
+*Word for word:* bhagavan — O Bhagavan; tvat-vapuh — Your body; aham — I; drashtum — to see; ichchhami — wish; kama-da — O fulfiller of desires; tat — that; shrutva — hearing; vachanam — word; tasya — his; vasanam — the garment; samapakarot — removed.
+
+**35.** "O Bhagavan, fulfiller of desires, I wish to see Your body." Hearing his words, the Lord took off His garment.
+
+### Verse 36
+
+अनावृतं कायदण्डं तप्तचामीकरप्रभम्।
+घनापाये यथा मेरुशृङ्गं चन्द्रकराञ्चितम्॥३६॥
+
+*anāvṛtaṁ kāyadaṇḍaṁ taptacāmīkaraprabham|*
+*ghanāpāye yathā meruśṛṅgaṁ candrakarāñcitam||36||*
+
+*Word for word:* anavritam — uncovered; kaya-dandam — the staff-straight body; tapta-chamikara-prabham — glowing like molten gold; ghana-apaye — when the clouds disperse; yatha — as; meru-shringam — the peak of Meru; chandra-kara-anchitam — touched by the rays of the moon.
+
+**36.** And he saw that uncovered body, straight and slender as a staff, glowing like molten gold — like the peak of Meru touched by the rays of the moon when the clouds have dispersed.
+
+### Verse 37
+
+इति श्रुत्वा हरेः कीर्तिं प्रयाणं पुरुषोत्तमे।
+लभते परमप्रेमानन्दं गौरपदाम्बुजे॥३७॥
+
+*iti śrutvā hareḥ kīrtiṁ prayāṇaṁ puruṣottame|*
+*labhate paramapremānandaṁ gaurapadāmbuje||37||*
+
+*Word for word:* iti — thus; shrutva — hearing; hareh — of Hari; kirtim — the glory; prayanam — the departure; purushottame — to Purushottama; labhate — one attains; parama-prema-anandam — the bliss of supreme love; gaura-pada-ambuje — for the lotus feet of Gaura.
+
+**37.** Whoever thus hears of the glory of Hari, of His departure for Purushottama, attains the bliss of supreme love for the lotus feet of Gaura[^304-11].
+
+### Verse 38
+
+दृष्ट्वा श्रुत्वा नमस्कृत्य जगाम स द्विजोत्तमः।
+भगवानपि संहृष्टो जगाम पुरुषोत्तमम्॥३८॥
+
+*dṛṣṭvā śrutvā namaskṛtya jagāma sa dvijottamaḥ|*
+*bhagavānapi saṁhṛṣṭo jagāma puruṣottamam||38||*
+
+*Word for word:* drishtva — having seen; shrutva — having heard; namaskritya — having bowed; jagama — went away; sah — that; dvija-uttamah — best of brahmanas; bhagavan — Bhagavan; api — too; samhrishtah — joyful; jagama — went; purushottamam — to Purushottama.
+
+**38.** Having seen, having heard and having bowed, that best of brahmanas went away; and Bhagavan, full of joy, set off for Purushottama.
+
+### Verse 39
+
+पुरुषोत्तमदेवस्य सम्यग्दर्शनजं फलम्।
+लभेत मनुजो नित्यं पठनात्तत्फलं लभेत्॥३९॥
+
+*puruṣottamadevasya samyagdarśanajaṁ phalam|*
+*labheta manujo nityaṁ paṭhanāttatphalaṁ labhet||39||*
+
+*Word for word:* purushottama-devasya — of the god Purushottama; samyak-darshana-jam — born of seeing perfectly; phalam — the fruit; labheta — (which) would gain; manujah — a man; nityam — constantly; pathanat — by reciting; tat-phalam — that fruit; labhet — he will gain.
+
+**39.** Whatever fruit a man would gain by perfectly beholding the god Purushottama, that very fruit he gains by constantly reciting this account.
+
+*Thus ends the fourth sarga, "Pastimes at Sri Advaita's House" (Sri Advaita-vati-vihara), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^304-1]: Keshava is here a name of the Lord (Krishna Chaitanya).
+[^304-2]: Pushpagrama ("Flower Village") — apparently Phuliya, a village near Shantipura.
+[^304-3]: "Peerless" (advitiya, literally "without a second") — a play on the name Advaita ("Non-dual").
+[^304-4]: At Badarikashrama in the Himalayas the god Narayana, in the form of a sage, performs austerities surrounded by the rishis.
+[^304-5]: That is, food that is chewed, sucked, licked and drunk.
+[^304-6]: Vasudeva Sarvabhauma, a learned brahmana of Navadvipa who lived in Puri; the meeting with him is described in the following sargas.
+[^304-7]: The day of Hari is Ekadashi, the eleventh day of the lunar fortnight, kept with fasting and a night vigil.
+[^304-8]: A blade of grass between the teeth is a sign of utter humility.
+[^304-9]: Advaita wonders that he feels no pain of separation and asks whether it is the Lord who holds his love in check; the Lord replies that if it showed itself in full, He would be unable to leave.
+[^304-10]: Gopinatha Acharya, a brahmana of Navadvipa who later met the Lord in Puri.
+[^304-11]: In Haridasa Dasa's edition (witness C) this verse comes after the next one, which is more natural to the sense.
+
+---
+
+## Prakrama 3, Sarga 5. The Breaking of the Staff
+
+*The Lord travels towards Purushottama with His companions, singing the names of Rama and Krishna; the toll-collectors; Nityananda breaks the Lord's sannyasa staff, and the Lord, feigning anger, admits that he has done His will*
+
+### Verse 1
+
+ततः प्रतस्थे भगवान्मुकुन्द-
+गदाधराद्यैर्द्विजसज्जनैः प्रभुः।
+पुरोऽवधूतं प्रणिधाय देवो
+रराज काव्येन यथोडुपेशः॥१॥
+
+*tataḥ pratasthe bhagavānmukunda-*
+*gadādharādyairdvijasajjanaiḥ prabhuḥ|*
+*puro'vadhūtaṁ praṇidhāya devo*
+*rarāja kāvyena yathoḍupeśaḥ||1||*
+
+*Word for word:* tatah — then; pratasthe — set out; bhagavan — Bhagavan; mukunda-gadadhara-adyaih — with Mukunda, Gadadhara and the rest; dvija-sajjanaih — virtuous brahmanas; prabhuh — the Lord; purah — in front; avadhutam — the Avadhuta; pranidhaya — placing; devah — the Lord; raraja — shone; kavyena — with Kavya (Venus); yatha — as; udu-peshah — the lord of the stars (the moon).
+
+**1.** Then Bhagavan, the Lord, set out with Mukunda, Gadadhara and other virtuous brahmanas; placing the Avadhuta in front, the Lord shone like the moon, the lord of the stars, beside Kavya[^305-1].
+
+### Verse 2
+
+गच्छन्क्वचिद्गायति कृष्णगीतं
+क्वचिद्वदेदर्थमलब्धसंज्ञम्।
+क्वचिद्द्रुतं याति शनैः क्वचित्स्खल-
+द्गतिः क्वचित्प्रेमविभिन्नधैर्यः॥२॥
+
+*gacchankvacidgāyati kṛṣṇagītaṁ*
+*kvacidvadedarthamalabdhasaṁjñam|*
+*kvaciddrutaṁ yāti śanaiḥ kvacitskhala-*
+*dgatiḥ kvacitpremavibhinnadhairyaḥ||2||*
+
+*Word for word:* gachchhan — going; kvachit — at times; gayati — sings; krishna-gitam — a song of Krishna; kvachit — at times; vadet — utters; artham — a sense; alabdha-samjnam — that finds no name; kvachit — at times; drutam — quickly; yati — goes; shanaih — slowly; kvachit — at times; skhalat-gatih — with stumbling gait; kvachit — at times; prema-vibhinna-dhairyah — His composure shattered by love.
+
+**2.** As He went, at times He sang a song of Krishna, at times He uttered something indistinct for which there were no words; at times He walked fast, at times slowly, at times stumbling, and at times His composure was shattered by love.
+
+### Verse 3
+
+सायं क्वचिद्भक्ष्यमुपस्थितं भवे-
+त्तदन्नमश्नाति हरिर्यथाविधि।
+रात्रौ च गायत्यथ रौति धैर्यं
+विसृज्य देवो महतां सुखाय॥३॥
+
+*sāyaṁ kvacidbhakṣyamupasthitaṁ bhave-*
+*ttadannamaśnāti hariryathāvidhi|*
+*rātrau ca gāyatyatha rauti dhairyaṁ*
+*visṛjya devo mahatāṁ sukhāya||3||*
+
+*Word for word:* sayam — in the evening; kvachit — somewhere; bhakshyam — food; upasthitam — offered; bhavet — happens to be; tat — that; annam — food; ashnati — eats; harih — Hari; yatha-vidhi — according to rule; ratrau — at night; cha — and; gayati — sings; atha — and; rauti — cries out; dhairyam — restraint; visrijya — casting aside; devah — the Lord; mahatam — of the great souls; sukhaya — for the joy.
+
+**3.** If in the evening some food happened to be offered somewhere, Hari ate it according to the rule. And at night the Lord cast aside all restraint and sang and wept, to the joy of the great souls.
+
+### Verse 4
+
+स्वयं पपाठ भगवाञ्श्लोकमेकं शृणुष्व तम्।
+यं श्रुत्वा तत्पदाम्भोजे रतिः स्यादनपायिनी॥४॥
+
+*svayaṁ papāṭha bhagavāñślokamekaṁ śṛṇuṣva tam|*
+*yaṁ śrutvā tatpadāmbhoje ratiḥ syādanapāyinī||4||*
+
+*Word for word:* svayam — Himself; papatha — recited; bhagavan — Bhagavan; shlokam — verse; ekam — one; shrinushva — hear; tam — it; yam — which; shrutva — hearing; tat-pada-ambhoje — for His lotus feet; ratih — attachment; syat — will be; anapayini — unfailing.
+
+**4.** Bhagavan Himself would recite one verse — hear[^305-2] it: whoever hears it will gain unfailing attachment to His lotus feet:
+
+### Verse 5
+
+राम राघव राम राघव राम राघव पाहि माम्।
+कृष्ण केशव कृष्ण केशव कृष्ण केशव त्राहि माम्॥५॥
+
+*rāma rāghava rāma rāghava rāma rāghava pāhi mām|*
+*kṛṣṇa keśava kṛṣṇa keśava kṛṣṇa keśava trāhi mām||5||*
+
+*Word for word:* rama — O Rama; raghava — O Raghava; pahi — protect; mam — me; krishna — O Krishna; keshava — O Keshava; trahi — save; mam — me.
+
+**5.** "Rama, Raghava, Rama, Raghava, Rama, Raghava, protect me! Krishna, Keshava, Krishna, Keshava, Krishna, Keshava, save me!"
+
+### Verse 6
+
+एवं कलपदं गायन्हसंस्तत्त्वविदां वरः।
+इमान्सुशिक्षयँल्लोकाँल्लोकानां पालकोऽव्ययः॥६॥
+
+*evaṁ kalapadaṁ gāyanhasaṁstattvavidāṁ varaḥ|*
+*imānsuśikṣaya~llokā~llokānāṁ pālako'vyayaḥ||6||*
+
+*Word for word:* evam — thus; kala-padam — sweetly; gayan — singing; hasan — smiling; tattva-vidam — of the knowers of truth; varah — the best; iman — these; su-shikshayan — instructing well; lokan — people; lokanam — of the worlds; palakah — the protector; avyayah — the imperishable.
+
+**6.** So, sweetly singing and smiling, the best of the knowers of truth, the imperishable protector of the worlds, gave fine instruction to these people.
+
+### Verse 7
+
+पथिकान्याचकान्दृष्ट्वा क्वचिद्दानी समागतः।
+आहूय तान्निवृत्तोऽभूत्स्वयमेव गतक्लमः॥७॥
+
+*pathikānyācakāndṛṣṭvā kvaciddānī samāgataḥ|*
+*āhūya tānnivṛtto'bhūtsvayameva gataklamaḥ||7||*
+
+*Word for word:* pathikan — travellers; yachakan — mendicants; drishtva — seeing; kvachit — once; dani — a toll-collector; samagatah — who had come up; ahuya — calling out to; tan — them; nivrittah abhut — turned back; svayam eva — of his own accord; gata-klamah — his weariness gone.
+
+**7.** Once a toll-collector came up; seeing that they were mendicant travellers, he called out to them — and then turned back of his own accord, as if relieved of a burden[^305-3].
+
+### Verse 8
+
+कदाचिदपरो दानी पथि गत्वा जगद्गुरुम्।
+वारयामास दानार्थी यात्रिकाणां गणैर्वृतम्॥८॥
+
+*kadācidaparo dānī pathi gatvā jagadgurum|*
+*vārayāmāsa dānārthī yātrikāṇāṁ gaṇairvṛtam||8||*
+
+*Word for word:* kadachit — once; aparah — another; dani — toll-collector; pathi — on the road; gatva — approaching; jagat-gurum — the Guru of the world; varayam asa — stopped; dana-arthi — demanding the toll; yatrikanam — of pilgrims; ganaih — by crowds; vritam — surrounded.
+
+**8.** Another time a different toll-collector, demanding the toll, came out onto the road and stopped the Guru of the world, who was surrounded by crowds of pilgrims.
+
+### Verse 9
+
+तमाह भगवान्गच्छ दूरं त्वं करसंज्ञया।
+ततोऽगच्छत्तदानीं स भगवान्मुदितो ययौ॥९॥
+
+*tamāha bhagavāngaccha dūraṁ tvaṁ karasaṁjñayā|*
+*tato'gacchattadānīṁ sa bhagavānmudito yayau||9||*
+
+*Word for word:* tam — to him; aha — said; bhagavan — Bhagavan; gachchha — go; duram — away; tvam — you; kara-samjnaya — with a sign of the hand; tatah — then; agachchhat — went off; tadanim — at once; sah — he; bhagavan — Bhagavan; muditah — joyful; yayau — went on.
+
+**9.** Bhagavan said to him, "Go away!" with a sign of His hand. The man left at once, and Bhagavan went on joyfully.
+
+### Verse 10
+
+अवधूतकरे दण्डं दत्त्वा स्वीयं जगद्गुरुः।
+अग्रे जगाम च पश्चान्नित्यानन्दः शनैर्ययौ॥१०॥
+
+*avadhūtakare daṇḍaṁ dattvā svīyaṁ jagadguruḥ|*
+*agre jagāma ca paścānnityānandaḥ śanairyayau||10||*
+
+*Word for word:* avadhuta-kare — into the Avadhuta's hand; dandam — the staff; dattva — giving; sviyam — His own; jagat-guruh — the Guru of the world; agre — ahead; jagama — went; cha — and; pashchat — behind; nityanandah — Nityananda; shanaih — slowly; yayau — walked.
+
+**10.** Once the Guru of the world gave His staff into the Avadhuta's hand and walked on ahead, while Nityananda walked slowly behind.
+
+### Verse 11
+
+दूयमानेन मनसाचिन्तयत्स उदारधीः।
+अहं विहरमाणोऽसौ प्रभुर्मे दण्डधारकः॥११॥
+
+*dūyamānena manasācintayatsa udāradhīḥ|*
+*ahaṁ viharamāṇo'sau prabhurme daṇḍadhārakaḥ||11||*
+
+*Word for word:* duyamanena — pained; manasa — with a mind; achintayat — thought; sah — he; udara-dhih — the noble-minded; aham — I; viharamanah — roam at pleasure; asau — while this; prabhuh — Lord; me — my; danda-dharakah — bears the staff.
+
+**11.** With an aching heart the noble Nityananda thought, "I roam at will, and my Lord carries a staff!
+
+### Verse 12
+
+असौ श्रीभगवान्साक्षाद्दृश्यते प्रज्वलन्नलम्।
+शङ्खचक्रगदापद्मधरो देवः श्रियान्वितः॥१२॥
+
+*asau śrībhagavānsākṣāddṛśyate prajvalannalam|*
+*śaṅkhacakragadāpadmadharo devaḥ śriyānvitaḥ||12||*
+
+*Word for word:* asau — He; shri-bhagavan — Sri Bhagavan; sakshat — directly; drishyate — is seen; prajvalan — blazing; alam — intensely; shankha-chakra-gada-padma-dharah — holding conch, discus, club and lotus; devah — the God; shriya — with Shri; anvitah — accompanied.
+
+**12.** For He is Sri Bhagavan Himself: I see Him with my own eyes, blazing brightly — the God who holds the conch, discus, club and lotus, together with Shri.
+
+### Verse 13
+
+लौकिकीं दर्शयंश्चेष्टां न्यासदण्डधरो हरिः।
+मुरलीवादनः पूर्वं जगन्मोहनरूपकः॥१३॥
+
+*laukikīṁ darśayaṁśceṣṭāṁ nyāsadaṇḍadharo hariḥ|*
+*muralīvādanaḥ pūrvaṁ jaganmohanarūpakaḥ||13||*
+
+*Word for word:* laukikim — worldly; darshayan — displaying; cheshtam — conduct; nyasa-danda-dharah — bearing the staff of renunciation; harih — Hari; murali-vadanah — the player of the flute; purvam — formerly; jagat-mohana-rupakah — whose form enchants the world.
+
+**13.** And here is Hari displaying worldly conduct and carrying the staff of renunciation — He who once played the flute, whose form enchants the world,
+
+### Verse 14
+
+राधारसविलासी च श्रीहरेः सन्निधौ स्थितः।
+तं दृष्ट्वा प्राह भगवान्दण्डं मे देहि माचिरम्॥१४॥
+
+*rādhārasavilāsī ca śrīhareḥ sannidhau sthitaḥ|*
+*taṁ dṛṣṭvā prāha bhagavāndaṇḍaṁ me dehi māciram||14||*
+
+*Word for word:* radha-rasa-vilasi — who sported in rasa with Radha; cha — and; shri-hareh — of Sri Hari; sannidhau — near; sthitah — having come to stand; tam — him; drishtva — seeing; praha — said; bhagavan — Bhagavan; dandam — the staff; me — to Me; dehi — give; ma-chiram — without delay.
+
+**14.** who sported in rasa with Radha!" With such thoughts he came up beside Sri Hari. Seeing him, Bhagavan said, "Give Me the staff — quickly."
+
+### Verse 15
+
+अवधूतस्ततः प्राह दैवाद्भूमौ पदं मम।
+प्रस्खलत्तेन दण्डस्ते भग्नो भीत्येत्युवाच सः॥१५॥
+
+*avadhūtastataḥ prāha daivādbhūmau padaṁ mama|*
+*praskhalattena daṇḍaste bhagno bhītyetyuvāca saḥ||15||*
+
+*Word for word:* avadhutah — the Avadhuta; tatah — then; praha — said; daivat — by chance; bhumau — on the ground; padam — foot; mama — my; praskhalat — slipped; tena — thereby; dandah — staff; te — Your; bhagnah — broke; bhitya — in fear; iti — thus; uvacha — spoke; sah — he.
+
+**15.** Then the Avadhuta said, "By chance my foot slipped on the ground, and with that Your staff broke." So he spoke, in fear.
+
+### Verse 16
+
+ततश्चुकोप भगवानवधूतं जगाद च।
+दण्डे मे संस्थिता देवाः शिवाद्याः सहशक्तयः॥१६॥
+
+*tataścukopa bhagavānavadhūtaṁ jagāda ca|*
+*daṇḍe me saṁsthitā devāḥ śivādyāḥ sahaśaktayaḥ||16||*
+
+*Word for word:* tatah — then; chukopa — grew angry; bhagavan — Bhagavan; avadhutam — to the Avadhuta; jagada — said; cha — and; dande — in the staff; me — My; samsthitah — reside; devah — the gods; shiva-adyah — headed by Shiva; saha-shaktayah — together with their shaktis.
+
+**16.** And Bhagavan grew angry and said to the Avadhuta, "In My staff reside the gods headed by Shiva, together with their shaktis[^305-4].
+
+### Verse 17
+
+तेषां पीडां विधाय त्वं बभञ्ज मम दण्डकम्।
+देवपीडाकृतं दोषं नो जानासि किमल्पकम्॥१७॥
+
+*teṣāṁ pīḍāṁ vidhāya tvaṁ babhañja mama daṇḍakam|*
+*devapīḍākṛtaṁ doṣaṁ no jānāsi kimalpakam||17||*
+
+*Word for word:* tesham — to them; pidam — pain; vidhaya — causing; tvam — you; babhanja — broke; mama — My; dandakam — staff; deva-pida-kritam — arising from causing pain to the gods; dosham — the sin; no janasi — do you not know; kim — whether; alpakam — (it is) slight.
+
+**17.** You have caused them pain and broken My staff. Do you not know that the sin of causing pain to the gods is no small thing?"
+
+### Verse 18
+
+तच्छ्रुत्वा प्राह तं देवो हितं तेषां कृतं मया।
+ततः क्षणात्त्यक्तरोषो भगवानिदमब्रवीत्॥१८॥
+
+*tacchrutvā prāha taṁ devo hitaṁ teṣāṁ kṛtaṁ mayā|*
+*tataḥ kṣaṇāttyaktaroṣo bhagavānidamabravīt||18||*
+
+*Word for word:* tat — that; shrutva — hearing; praha — said; tam — to Him; devah — the divine one (Nityananda); hitam — good; tesham — for them; kritam — done; maya — by me; tatah — then; kshanat — in a moment; tyakta-roshah — His anger gone; bhagavan — Bhagavan; idam — this; abravit — said.
+
+**18.** Hearing this, the divine Nityananda answered Him, "I have done them good"[^305-5]. And in a moment Bhagavan let go of His anger and said,
+
+### Verse 19
+
+गत्वा च श्रीजगन्नाथं दृष्ट्वा श्रीपुरुषोत्तमम्।
+स्थित्वा कतिपयं मासं पार्श्वे श्रीचक्रिणो मया॥१९॥
+
+*gatvā ca śrījagannāthaṁ dṛṣṭvā śrīpuruṣottamam|*
+*sthitvā katipayaṁ māsaṁ pārśve śrīcakriṇo mayā||19||*
+
+*Word for word:* gatva — having gone; cha — and; shri-jagannatham — to Sri Jagannatha; drishtva — having seen; shri-purushottamam — Sri Purushottama; sthitva — having stayed; katipayam — some; masam — months; parshve — beside; shri-chakrinah — the holder of the discus; maya — by Me.
+
+**19.** "After going to Sri Jagannatha, seeing Sri Purushottama and staying some months beside the holder of the discus,
+
+### Verse 20
+
+न्यासो दण्डस्य कर्तव्यो ममासीन्मतिरीदृशी।
+तमसौ च बभञ्जोर्व्यां क्षिप्तवान्किं करोम्यहम्॥२०॥
+
+*nyāso daṇḍasya kartavyo mamāsīnmatirīdṛśī|*
+*tamasau ca babhañjorvyāṁ kṣiptavānkiṁ karomyaham||20||*
+
+*Word for word:* nyasah — the laying down; dandasya — of the staff; kartavyah — was to be done; mama — My; asit — was; matih — intention; idrishi — such; tam — it; asau — he; cha — but; babhanja — broke; urvyam — to the ground; kshiptavan — threw; kim — what; karomi — can do; aham — I.
+
+**20.** I was to lay down the staff — that was My intention. But he has broken it and thrown it on the ground. What am I to do now?"
+
+### Verse 21
+
+इत्युक्त्वा तं क्रोडीकृत्वा प्रोवाच मधुराक्षरम्।
+मदभिप्रायमेव त्वं कर्तुमर्हसि सर्वदा॥२१॥
+
+*ityuktvā taṁ kroḍīkṛtvā provāca madhurākṣaram|*
+*madabhiprāyameva tvaṁ kartumarhasi sarvadā||21||*
+
+*Word for word:* iti — thus; uktva — saying; tam — him; krodi-kritva — taking into His embrace; provacha — said; madhura-aksharam — in sweet words; mat-abhiprayam — My intention; eva — just; tvam — you; kartum arhasi — should carry out; sarvada — always.
+
+**21.** So saying, He took him into His embrace and spoke sweetly: "You must always carry out just what I intend"[^305-6].
+
+*Thus ends the fifth sarga, "The Breaking of the Staff" (Danda-bhanjana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^305-1]: Kavya is the planet Venus (Shukra). Nityananda, walking in front, is compared to Venus, the Lord to the moon.
+[^305-2]: The narrator, Murari, is addressing Damodara (see Sarga 3.1).
+[^305-3]: Literally "his weariness gone": on seeing the Lord and His companions, the toll-collector apparently gave up his greed of his own accord.
+[^305-4]: Shaktis are divine energies, the consorts of the gods.
+[^305-5]: That is, he has set free the gods confined in the staff.
+[^305-6]: The Lord admits that by breaking the staff Nityananda has only carried out His own innermost wish.
+
+---
+
+## Prakrama 3, Sarga 6. Wandering in the Southern Country
+
+*The Lord travels towards Purushottama: Tamolipta; Remuna, where Gopinatha lets His crown fall to Him; the river Vaitarani; Yajapura (Jajpur) with the Boar, Viraja, Nabhi-Gaya and countless lingas of Shiva*
+
+### Verse 1
+
+इत्युक्त्वा प्रययौ देवो हरिकीर्तनतत्परः।
+पथस्था देवता दृष्ट्वा नत्वा स्तुत्वा यथाविधि॥१॥
+
+*ityuktvā prayayau devo harikīrtanatatparaḥ|*
+*pathasthā devatā dṛṣṭvā natvā stutvā yathāvidhi||1||*
+
+*Word for word:* iti — thus; uktva — having spoken; prayayau — set out; devah — the Lord; hari-kirtana-tatparah — intent on chanting the name of Hari; patha-sthah — standing by the road; devatah — deities; drishtva — seeing; natva — bowing; stutva — praising; yatha-vidhi — as is proper.
+
+**1.** So saying, the Lord set out again, wholly intent on chanting the name of Hari; whenever He saw images of the gods standing by the road, He bowed to them and offered praises, as is proper.
+
+### Verse 2
+
+तमोलिप्ते महापुण्ये हरेः क्षेत्रे जगद्गुरुः।
+ब्रह्मकुण्डे कृतस्नानो ददर्श मधुसूदनम्॥२॥
+
+*tamolipte mahāpuṇye hareḥ kṣetre jagadguruḥ|*
+*brahmakuṇḍe kṛtasnāno dadarśa madhusūdanam||2||*
+
+*Word for word:* tamolipte — at Tamolipta; maha-punye — most holy; hareh — of Hari; kshetre — in the sacred abode; jagat-guruh — the Guru of the world; brahma-kunde — in the Brahma-kunda; krita-snanah — having bathed; dadarsha — beheld; madhusudanam — Madhusudana.
+
+**2.** At Tamolipta[^306-1], the most holy abode of Hari, the Guru of the world bathed in the Brahma-kunda and beheld Madhusudana.
+
+### Verse 3
+
+ततो जगाम भगवान्दिनैः कतिपयैः प्रभुः।
+रेमुणायां महापुर्यां द्रष्टुं गोपालदेवकम्॥३॥
+
+*tato jagāma bhagavāndinaiḥ katipayaiḥ prabhuḥ|*
+*remuṇāyāṁ mahāpuryāṁ draṣṭuṁ gopāladevakam||3||*
+
+*Word for word:* tatah — then; jagama — came; bhagavan — Bhagavan; dinaih — in days; katipayaih — a few; prabhuh — the Lord; remunayam — to Remuna; maha-puryam — the great town; drashtum — to see; gopala-devakam — the god Gopala.
+
+**3.** Then, within a few days, Bhagavan, the Lord, came to the great town of Remuna to see the god Gopala —
+
+### Verse 4
+
+वाराणस्यामुद्धवेन स्थापितं पूजितं पुरा।
+ब्राह्मणानुग्रहार्थाय तत्र गत्वा स्थितं हरिम्॥४॥
+
+*vārāṇasyāmuddhavena sthāpitaṁ pūjitaṁ purā|*
+*brāhmaṇānugrahārthāya tatra gatvā sthitaṁ harim||4||*
+
+*Word for word:* varanasyam — in Varanasi; uddhavena — by Uddhava; sthapitam — installed; pujitam — worshipped; pura — of old; brahmana-anugraha-arthaya — to show favour to a brahmana; tatra — there; gatva — having gone; sthitam — abiding; harim — Hari.
+
+**4.** that Hari who of old was installed and worshipped by Uddhava in Varanasi, and who, to show favour to a brahmana, went there and remained[^306-2].
+
+### Verse 5
+
+गोपीनाथमिति केचिदाहुस्तं करुणानिधिम्।
+क्षीरचौरादिलीलां यश्चकार भक्तहेतवे॥५॥
+
+*gopīnāthamiti kecidāhustaṁ karuṇānidhim|*
+*kṣīracaurādilīlāṁ yaścakāra bhaktahetave||5||*
+
+*Word for word:* gopinatham — Gopinatha; iti — thus; kechit — some; ahuh — call; tam — Him; karuna-nidhim — the treasury of mercy; kshira-chaura-adi-lilam — the pastime of the thief of sweet rice and others; yah — who; chakara — performed; bhakta-hetave — for the sake of a devotee.
+
+**5.** Some call that treasury of mercy Gopinatha: for the sake of His devotee He performed the pastime of the thief of sweet rice, and others besides[^306-3].
+
+### Verse 6
+
+सर्वं प्रमाणमेवात्र भक्तवाक्यानुगो हरिः।
+ददर्श तत्र गत्वासौ भगवान्प्राकृतो यथा॥६॥
+
+*sarvaṁ pramāṇamevātra bhaktavākyānugo hariḥ|*
+*dadarśa tatra gatvāsau bhagavānprākṛto yathā||6||*
+
+*Word for word:* sarvam — everything; pramanam — proof; eva — indeed; atra — here; bhakta-vakya-anugah — who follows the words of His devotees; harih — Hari; dadarsha — beheld; tatra — there; gatva — going; asau — He; bhagavan — Bhagavan; prakritah yatha — like an ordinary man.
+
+**6.** Everything here bears witness that Hari follows the words of His devotees. Bhagavan went there and, like an ordinary man, beheld Him.
+
+### Verse 7
+
+दण्डवद्भुवि निपत्य सुरेशं
+तं प्रणम्य करुणार्द्रमुखेन्दुः।
+नर्तनं निजजनैः सह चक्रे
+कीर्तनं सरसिजायतनेत्रः॥७॥
+
+*daṇḍavadbhuvi nipatya sureśaṁ*
+*taṁ praṇamya karuṇārdramukhenduḥ|*
+*nartanaṁ nijajanaiḥ saha cakre*
+*kīrtanaṁ sarasijāyatanetraḥ||7||*
+
+*Word for word:* danda-vat — like a staff; bhuvi — on the ground; nipatya — falling; sura-isham — to the Lord of the gods; tam — that; pranamya — bowing; karuna-ardra-mukha-induh — His moon-face moist with compassion; nartanam — dancing; nija-janaih saha — with His own; chakre — performed; kirtanam — kirtana; sarasija-ayata-netrah — His eyes long like lotuses.
+
+**7.** Falling to the ground like a staff, He bowed to the Lord of the gods; His moon-face grew moist with compassion, and He, whose eyes are long like lotuses, danced with His own and sang kirtana.
+
+### Verse 8
+
+तत्क्षणान्मुररिपोः प्रतिमाया
+मौलिलग्नमुकुटं च समाप।
+तदवलोक्य करपद्मयुगेन
+तद्दधार श्रीशचीसुत एषः॥८॥
+
+*tatkṣaṇānmuraripoḥ pratimāyā*
+*maulilagnamukuṭaṁ ca samāpa|*
+*tadavalokya karapadmayugena*
+*taddadhāra śrīśacīsuta eṣaḥ||8||*
+
+*Word for word:* tat-kshanat — at that very moment; mura-ripoh — of the Enemy of Mura; pratimayah — of the image; mauli-lagna-mukutam — the crown fixed on the head; cha — and; samapa — reached (Him); tat — that; avalokya — seeing; kara-padma-yugena — with His two lotus hands; tat — it; dadhara — caught; shri-shachi-sutah — the son of Sri Shachi; eshah — He.
+
+**8.** And at that very moment the crown fixed on the head of the image of the Enemy of Mura fell right to Him. Seeing this, the son of Sri Shachi caught it in His two lotus hands.
+
+### Verse 9
+
+तत्प्रसादमधिगत्य स्वमूर्ध्ना
+सन्दधार च रराज च हृष्टः।
+अद्भुतं तमवलोक्य सुरेशं
+खे ननन्द नतकन्धरचित्तः॥९॥
+
+*tatprasādamadhigatya svamūrdhnā*
+*sandadhāra ca rarāja ca hṛṣṭaḥ|*
+*adbhutaṁ tamavalokya sureśaṁ*
+*khe nananda natakandharacittaḥ||9||*
+
+*Word for word:* tat-prasadam — that grace; adhigatya — receiving; sva-murdhna — on His own head; sandadhara — placed; cha — and; raraja — shone; cha — and; hrishtah — joyful; adbhutam — wondrous; tam — that; avalokya — beholding; sura-isham — Lord of the gods; khe — in the inner space (of the heart); nananda — rejoiced; nata-kandhara-chittah — with bowed neck and heart.
+
+**9.** Receiving that grace, He placed the crown on His own head and shone with joy; and, beholding the wondrous Lord of the gods, He rejoiced in the depths of His heart[^306-4], with bowed head and soul.
+
+### Verse 10
+
+तत्र नृत्यमकरोदतुलश्री-
+र्न्यासिनां वरः सुधाकरकान्तिः।
+वैष्णवैः सह दिनान्तरमन्तः
+सायमेव विरराम महात्मा॥१०॥
+
+*tatra nṛtyamakarodatulaśrī-*
+*rnyāsināṁ varaḥ sudhākarakāntiḥ|*
+*vaiṣṇavaiḥ saha dināntaramantaḥ*
+*sāyameva virarāma mahātmā||10||*
+
+*Word for word:* tatra — there; nrityam akarot — danced; atula-shrih — of peerless beauty; nyasinam — of sannyasis; varah — the best; sudhakara-kantih — radiant as the moon; vaishnavaih saha — with the Vaishnavas; dina-antaram antah — all through the day; sayam eva — only in the evening; virarama — stopped; maha-atma — the great soul.
+
+**10.** And there He of peerless beauty, the best of sannyasis, radiant as the moon, danced with the Vaishnavas all through the day, and only in the evening did the great soul stop.
+
+### Verse 11
+
+तं विलोक्य मुदिता जनसङ्घा-
+स्तुष्टुवुर्मुहुरमुं प्रशशंसुः।
+तत्र सोऽपि रजनीं प्रणिनाय
+भक्ष्यमन्नमुपभोज्य मुनीशः॥११॥
+
+*taṁ vilokya muditā janasaṅghā-*
+*stuṣṭuvurmuhuramuṁ praśaśaṁsuḥ|*
+*tatra so'pi rajanīṁ praṇināya*
+*bhakṣyamannamupabhojya munīśaḥ||11||*
+
+*Word for word:* tam — Him; vilokya — seeing; mudita — delighted; jana-sanghah — the crowds of people; tushtuvuh — hymned; muhuh — again and again; amum — Him; prashashamsuh — praised; tatra — there; sah — He; api — and; rajanim — the night; praninaya — spent; bhakshyam annam — food to eat; upabhojya — having partaken of; muni-ishah — the lord of sages.
+
+**11.** Seeing Him, the crowds of people rejoiced and hymned and praised Him again and again. And the lord of sages, having partaken of the food offered, spent the night there.
+
+### Verse 12
+
+प्रातरम्बुजमुखः स जगाम
+देशमन्यनगराणि लङ्घयन्।
+प्राप्य कालमनु कम्बुसुकण्ठो
+वेगिनीं सुरनदीझरच्युताम्॥१२॥
+
+*prātarambujamukhaḥ sa jagāma*
+*deśamanyanagarāṇi laṅghayan|*
+*prāpya kālamanu kambusukaṇṭho*
+*veginīṁ suranadījharacyutām||12||*
+
+*Word for word:* pratah — in the morning; ambuja-mukhah — lotus-faced; sah — He; jagama — went on; desham — the country; anya-nagarani — other towns; langhayan — passing by; prapya — reaching; kalam anu — in time; kambu-su-kanthah — His lovely neck like a conch; veginim — the swift (river); sura-nadi-jhara-chyutam — flowing down from the stream of the river of the gods.
+
+**12.** In the morning the lotus-faced Lord, whose lovely neck is like a conch, went on, passing through the country and other towns, and in time He reached a swift river flowing down from the stream of the river of the gods —
+
+### Verse 13
+
+तां विलोक्य वरवैतरणीं स
+सर्वपातककुलं जनतायाः।
+दर्शनेन यमवैतरणी सा
+जातु भाति किमु तत्स्नपनेन॥१३॥
+
+*tāṁ vilokya varavaitaraṇīṁ sa*
+*sarvapātakakulaṁ janatāyāḥ|*
+*darśanena yamavaitaraṇī sā*
+*jātu bhāti kimu tatsnapanena||13||*
+
+*Word for word:* tam — that; vilokya — seeing; vara-vaitaranim — the excellent Vaitarani; sah — He; sarva-pataka-kulam — the whole host of sins; janatayah — of the people; darshanena — by the sight (of her); yama-vaitarani — Yama's Vaitarani; sa — that; jatu — ever; bhati — appears; kim u — how much less; tat-snapanena — by bathing in her.
+
+**13.** the excellent Vaitarani[^306-5], which washes away the whole host of people's sins. Whoever sees her will never face the Vaitarani of Yama — how much less one who bathes in her!
+
+### Verse 14
+
+स्नानमत्र विधिना स विधाय
+तं ददर्श वरशूकररूपम्।
+यस्य दर्शनवशान्मनुजानां
+सप्तसप्ततिकुलं दिवमीयात्॥१४॥
+
+*snānamatra vidhinā sa vidhāya*
+*taṁ dadarśa varaśūkararūpam|*
+*yasya darśanavaśānmanujānāṁ*
+*saptasaptatikulaṁ divamīyāt||14||*
+
+*Word for word:* snanam — bath; atra — here; vidhina — according to rule; sah — He; vidhaya — taking; tam — Him; dadarsha — beheld; vara-shukara-rupam — in the form of the excellent Boar; yasya — whose; darshana-vashat — by virtue of the sight; manujanam — of men; sapta-saptati-kulam — seventy-seven generations; divam — to heaven; iyat — go.
+
+**14.** Having bathed here according to the rule, He beheld the Lord in the form of the excellent Boar: by virtue of the sight of Him seventy-seven generations of a man's line go to heaven.
+
+### Verse 15
+
+तं विलोक्य मुदितः स जगाम
+याजपुरनामनगरीं द्विजभूमिम्।
+यत्र यज्ञमकरोच्चतुर्मुखः
+शासनं द्विजवराय ददौ च॥१५॥
+
+*taṁ vilokya muditaḥ sa jagāma*
+*yājapuranāmanagarīṁ dvijabhūmim|*
+*yatra yajñamakaroccaturmukhaḥ*
+*śāsanaṁ dvijavarāya dadau ca||15||*
+
+*Word for word:* tam — Him; vilokya — beholding; muditah — delighted; sah — He; jagama — came; yajapura-nama-nagarim — to the town called Yajapura; dvija-bhumim — the land of brahmanas; yatra — where; yajnam — a sacrifice; akarot — performed; chatur-mukhah — the Four-faced; shasanam — a grant of land; dvija-varaya — to the best of brahmanas; dadau — gave; cha — and.
+
+**15.** Having seen Him, He came joyfully to the town called Yajapura[^306-6], the land of brahmanas, where the Four-faced one performed a sacrifice and granted land to the best of brahmanas.
+
+### Verse 16
+
+यत्र मृत्युमधिगम्य तु विश्वाः
+पापिनोऽपि शिवरूपधराः स्युः।
+तत्र लिङ्गशतशो हि समीक्ष्य
+शङ्करस्य शिरसानमदीशः॥१६॥
+
+*yatra mṛtyumadhigamya tu viśvāḥ*
+*pāpino'pi śivarūpadharāḥ syuḥ|*
+*tatra liṅgaśataśo hi samīkṣya*
+*śaṅkarasya śirasānamadīśaḥ||16||*
+
+*Word for word:* yatra — where; mrityum — death; adhigamya — meeting; tu — indeed; vishvah — all; papinah — sinners; api — even; shiva-rupa-dharah — bearing the form of Shiva; syuh — become; tatra — there; linga-shatashah — lingas by the hundred; hi — indeed; samikshya — seeing; shankarasya — of Shankara; shirasa — with His head; anamat — bowed; ishah — the Lord.
+
+**16.** Those who die there, even sinners, take on the form of Shiva. Seeing there the lingas of Shankara by the hundred, the Lord bowed His head to them.
+
+### Verse 17
+
+स जगाम विरजामुखपद्म-
+दर्शनाय भगवान्करुणाब्धिः।
+यां विलोक्य जगतां जनुकोटि-
+मात्रमघं ह्यखिलं प्रजहाति॥१७॥
+
+*sa jagāma virajāmukhapadma-*
+*darśanāya bhagavānkaruṇābdhiḥ|*
+*yāṁ vilokya jagatāṁ janukoṭi-*
+*mātramaghaṁ hyakhilaṁ prajahāti||17||*
+
+*Word for word:* sah — He; jagama — went; viraja-mukha-padma-darshanaya — to see the lotus face of Viraja; bhagavan — Bhagavan; karuna-abdhih — the ocean of mercy; yam — whom; vilokya — on seeing; jagatam — of people; janu-koti-matram — amassed over millions of births; agham — sin; hi — indeed; akhilam — all; prajahati — departs.
+
+**17.** Bhagavan, the ocean of mercy, went to see the lotus face of Viraja[^306-7]; whoever beholds her is freed from all the sins amassed over millions of births.
+
+### Verse 18
+
+तां विलोक्य प्रणमन्समयाचत्
+प्रेमभक्तिमतुलां जगदीशः।
+आजगाम गयनाभिमनर्घ्यं
+पैत्रतीर्थमरविन्दमुखेशः॥१८॥
+
+*tāṁ vilokya praṇamansamayācat*
+*premabhaktimatulāṁ jagadīśaḥ|*
+*ājagāma gayanābhimanarghyaṁ*
+*paitratīrthamaravindamukheśaḥ||18||*
+
+*Word for word:* tam — her; vilokya — seeing; pranaman — bowing; samayachat — begged for; prema-bhaktim — devotion in love; atulam — peerless; jagat-ishah — the Lord of the world; ajagama — came; gaya-nabhim — to Gaya-nabhi; anarghyam — priceless; paitra-tirtham — the holy place for the rites of the ancestors; aravinda-mukha-ishah — the lotus-faced Lord.
+
+**18.** Seeing her, the Lord of the world bowed down and begged for peerless loving devotion. Then the lotus-faced Lord came to priceless Gaya-nabhi[^306-8], the holy place for the rites of the ancestors.
+
+### Verse 19
+
+ब्रह्मकुण्डपयसि द्विजवर्यः
+स्नानमाशु विदधे विधानवित्।
+यत्र यज्ञवराहप्रकाश-
+दर्शनेन जगतां सुखमासीत्॥१९॥
+
+*brahmakuṇḍapayasi dvijavaryaḥ*
+*snānamāśu vidadhe vidhānavit|*
+*yatra yajñavarāhaprakāśa-*
+*darśanena jagatāṁ sukhamāsīt||19||*
+
+*Word for word:* brahma-kunda-payasi — in the waters of the Brahma-kunda; dvija-varyah — the best of brahmanas; snanam — bath; ashu — at once; vidadhe — took; vidhana-vit — knowing the injunctions; yatra — where; yajna-varaha-prakasha-darshanena — by the sight of the manifestation of Yajna-Varaha; jagatam — to the worlds; sukham — happiness; asit — came.
+
+**19.** The best of brahmanas, versed in the injunctions, at once bathed in the waters of the Brahma-kunda, where the manifestation of Yajna-Varaha[^306-9], appearing to view, brought happiness to the worlds.
+
+### Verse 20
+
+बभ्राम तत्र भगवान्नगरीं निरीक्ष्य
+भूतेशलिङ्गमवलोक्य महानुभावः।
+वाराणसीमिव सदाशिवराजधानीं
+यत्र त्रिलोचनमुखाः शिवलिङ्गकोटिः॥२०॥
+
+*babhrāma tatra bhagavānnagarīṁ nirīkṣya*
+*bhūteśaliṅgamavalokya mahānubhāvaḥ|*
+*vārāṇasīmiva sadāśivarājadhānīṁ*
+*yatra trilocanamukhāḥ śivaliṅgakoṭiḥ||20||*
+
+*Word for word:* babhrama — wandered; tatra — there; bhagavan — Bhagavan; nagarim — the town; nirikshya — viewing; bhuta-isha-lingam — the linga of the Lord of beings; avalokya — beholding; maha-anubhavah — the great-souled; varanasim — Varanasi; iva — like; sadashiva-rajadhanim — the capital of Sadashiva; yatra — where; trilochana-mukhah — headed by Trilochana; shiva-linga-kotih — millions of Shiva lingas.
+
+**20.** The great-souled Bhagavan wandered there, viewing the town and beholding the linga of the Lord of beings: the town is like Varanasi, the capital of Sadashiva, where there are millions of Shiva lingas headed by Trilochana[^306-10].
+
+### Verse 21
+
+श्रुत्वा हरेरिदमनन्तसुखं लभेत
+पुण्यां कथां सकलपापहरां मनुष्यः।
+तीर्थाटनस्य च फलं पितृतीर्थसर्व-
+यज्ञक्रियाफलमशेषगुणान्वितः स्यात्॥२१॥
+
+*śrutvā hareridamanantasukhaṁ labheta*
+*puṇyāṁ kathāṁ sakalapāpaharāṁ manuṣyaḥ|*
+*tīrthāṭanasya ca phalaṁ pitṛtīrthasarva-*
+*yajñakriyāphalamaśeṣaguṇānvitaḥ syāt||21||*
+
+*Word for word:* shrutva — having heard; hareh — of Hari; idam — this; ananta-sukham — endless happiness; labheta — will gain; punyam — holy; katham — account; sakala-papa-haram — that takes away all sins; manushyah — a man; tirtha-atanasya — of pilgrimage; cha — and; phalam — the fruit; pitri-tirtha-sarva-yajna-kriya-phalam — the fruit of all sacrificial rites at the holy places of the ancestors; ashesha-guna-anvitah — endowed with every virtue; syat — will become.
+
+**21.** Whoever hears this holy account of Hari, which takes away all sins, will gain endless happiness, the fruit of pilgrimage and the fruit of all sacrificial rites at the holy places of the ancestors, and will be endowed with every virtue.
+
+*Thus ends the sixth sarga, "Wandering in the Southern Country" (Dakshinadesha-bhramana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^306-1]: Tamolipta (Tamralipta), an ancient port town in south-western Bengal (present-day Tamluk).
+[^306-2]: All the witnesses read "in Varanasi". Cf. the legend of the deity Gopala who followed a brahmana in order to bear witness to the word given him.
+[^306-3]: Gopinatha of Remuna is known as Kshirachora, "the Thief of Sweet Rice": He hid a pot of sweet rice for His devotee Madhavendra Puri.
+[^306-4]: Literally "in space"; understood as the space of the heart. The reading is doubtful.
+[^306-5]: The Vaitarani is a river in Orissa; a river of the same name in the realm of Yama, the god of death, bars sinners from the other world.
+[^306-6]: Yajapura ("City of the Sacrifice"), present-day Jajpur in Orissa.
+[^306-7]: Viraja is the goddess worshipped at Yajapura.
+[^306-8]: Gaya-nabhi (Nabhi-Gaya), a holy place in Yajapura where, according to legend, lies the navel of the demon Gaya; here, as at Gaya, rites for the ancestors are performed.
+[^306-9]: Yajna-Varaha, the Boar who is the embodiment of sacrifice (Vishnu as Varaha).
+[^306-10]: Trilochana ("the Three-eyed"), one of the principal lingas of Shiva in Varanasi.

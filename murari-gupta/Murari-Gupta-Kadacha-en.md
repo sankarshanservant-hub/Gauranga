@@ -64,6 +64,10 @@ Bhaktisiddhanta Sarasvati.
 - **Prakrama Three**
   - Prakrama 3, Sarga 1. The Words of the Women of Kantakanagara
   - Prakrama 3, Sarga 2. The Purification of the Ashrama of Sannyasa
+  - Prakrama 3, Sarga 3. Wandering in the Radha Country
+  - Prakrama 3, Sarga 4. Pastimes at Sri Advaita's House
+  - Prakrama 3, Sarga 5. The Breaking of the Staff
+  - Prakrama 3, Sarga 6. Wandering in the Southern Country
 
 ---
 
@@ -2560,3 +2564,279 @@ Bhaktisiddhanta Sarasvati.
 [^302-4]: That is, at the end of the solar month of Magha (January–February).
 [^302-5]: Keshava Bharati, who became the guru of Krishna Chaitanya, the Guru of all the worlds.
 [^302-6]: Hence the title of the sarga: sannyasa, accepted by the Lord and filled with love, purifies the very order of sannyasa.
+
+---
+
+## Prakrama 3, Sarga 3. Wandering in the Radha Country
+
+*Not hearing the name of Hari in the Radha country, the Lord resolves to give up His body; a cowherd boy taught by Nityananda calls out "Hari!"; the Lord sends Chandrashekhara to Navadvipa; Chandrashekhara's account of the Lord's three days of rapture*
+
+**1.** Then Madhava bowed to His guru's feet, took leave of him and, at his command, set out, keeping Himself hidden, for the Radha country. The mighty-armed one
+
+**2.** went along the road together with Nityananda the Avadhuta, telling the tales of Krishna again and again, dancing and singing, absorbed in His own devotion.
+
+**3.** He walked on, meditating within Himself on the lotus feet of Krishna — the embodied Self of His own self — and with the streams of His tears of love He looked like a mountain peak with waterfalls pouring down it.
+
+**4.** At times His eyes were flooded with tears, at times His body was seized with trembling and thrills of rapture; at times He stumbled in His agitation, and at times He hurried along.
+
+**5.** At times He moved like a maddened king of elephants, at times He seemed to grow with the might that filled Him, and at times He reverently sang, "Govinda! Krishna! Krishna!"
+
+**6.** Not hearing the name of Hari in that land, He was utterly distraught and said, "I will enter the water at once and give up this body!
+
+**7.** I do not hear the name of Hari — how can this be a dwelling-place of brahmanas?" Having resolved thus, the Lord went towards the water,
+
+**8.** and there He saw some boys herding their cows together; Nityananda the Avadhuta had taught them to chant the name of Hari.
+
+**9.** And one of the boys, a noble-hearted lad, called out joyfully, loudly, again and again: "Say 'Hari'! Say 'Hari'!"
+
+**10.** Hearing this, the Lord was delighted and resolved to preserve His body. But right there He wept aloud in anguish and fell to the ground, overwhelmed.
+
+**11.** The Avadhuta consoled Him with news of Vrindavana. What a wonder! Then, going on, the great-minded Lord gave me[^303-1] a charge:
+
+**12.** "Go to Navadvipa," the Abode of Shri[^303-2] told me. And when I, stricken with grief and sorrow, was already setting out for Navadvipa, He added,
+
+**13.** "Give the devotees this word from Me: 'Namo narayanaya'[^303-3]. That will make Me glad."
+
+**14.** I heard all that Hari said, yet I, who had given my life to Gauranga, stayed on, though in deep distress. And Gaurachandra's doings were revealed to me,
+
+**15.** both those that came forth outwardly and those that were hidden, all most wondrous. In a faltering voice He kept uttering the auspicious name of Sri Krishna.
+
+**16.** At times He laughs, stumbles, trembles, at times He sings; at times He weeps, wanders off, falls down, or sleeps on the bare ground.
+
+**17.** Now in the mood of a gopi, now in the mood of a servant, now in the mood of the Lord — so He, self-dependent and delighting in Himself, was teaching His own.
+
+**18.** Until the third day He did not remember His body, and I, greatly afraid and anxious, kept thinking, "What am I to do?"
+
+**19.** Only on the following day did Madhusudana remember His body, and then, at the command of the Guru of sannyasis[^303-4], I came home.
+
+**20.** Sri Krishna will come to the Acharya's house[^303-5], perhaps the day after tomorrow; there you will surely see Him.
+
+**21.** Thus have I heard and seen the auspicious chanting of Sri Hari and the other deeds of Bhagavan, and I have told it all in full. This blessed account of Hari's glory grants every happiness to men.
+
+*Thus ends the third sarga, "Wandering in the Radha Country" (Radhadesha-bhramana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^303-1]: From here to the end of the sarga the narrator is Chandrashekhara Acharyaratna, who has returned to the devotees in Navadvipa (cf. Sargas 3.1 and 3.4).
+[^303-2]: The Abode of Shri (Shriniketana) — an epithet of the Lord as the abode of the goddess Lakshmi.
+[^303-3]: "Obeisance to Narayana" — the customary greeting of sannyasis: having become a sannyasi, the Lord sends the devotees a greeting according to the rule of His new ashrama.
+[^303-4]: Apparently the Lord Himself, who has just accepted sannyasa (cf. v. 12).
+[^303-5]: Advaita Acharya's, at Shantipura.
+
+---
+
+## Prakrama 3, Sarga 4. Pastimes at Sri Advaita's House
+
+*The devotees of Navadvipa lament the Lord's sannyasa; Nityananda brings Shachi and the Vaishnavas to Advaita's house; the Lord comes there and spends a day and a night with them in kirtana, takes leave of Haridasa, Advaita and Gopinatha Acharya, and departs for Purushottama*
+
+**1.** Hearing this account from the Acharyaratna, the virtuous brahmanas headed by Advaita lost their composure as they relished the tale of Hari's virtues, and, deeply grieved, they wept aloud as if in pain.
+
+**2.** And the Lord of the world, who dispels the distress of His devotees, resolved, "I shall go to the abode of Advaita Acharya."
+
+**3.** Having wandered through the Radha country, He who is the one festival for the eyes of the people spoke sweetly to the great soul, the Avadhuta:
+
+**4.** "Go to charming Navadvipa on the bank of the Jahnavi. With the highest devotion, in My name,
+
+**5.** calm and comfort My mother with tales of Sri Krishna's deeds and the like; and all the Vaishnavas there who are dear to Me, Srivasa and the rest,
+
+**6.** bring to the Acharya's house, while I go there Myself." Hearing the command of the Lord of the world, Nityananda set out in haste and with joy
+
+**7.** for Navadvipa, rich in splendour, to the auspicious dwelling of Srivasa. There he announced the command of Keshava[^304-1], and then the compassionate Nityananda, together with Srivasa and the others,
+
+**8.** bowed with joined palms to the feet of Sri Shachi and consoled her with devotion.
+
+**9.** He ate the food she had cooked and stayed the night, and on the next day the magnanimous Nityananda, with all of them — brahmanas, shudras and vaidyas —
+
+**10.** hurried joyfully to the abode of Advaita. Shachi too hastened to the same place, to Advaita's house, thinking with the highest love of her son, Sri Purushottama.
+
+**11.** All of them stayed there that day and partook of the great, purifying food
+
+**12.** of the venerable Advaita, that great soul, a portion of Shiva. And on the next day, as the Lord was coming from Pushpagrama[^304-2],
+
+**13.** they all went out joyfully to meet Him: for them it was a great and auspicious festival. Filled with tears, trembling and thrills of rapture, they were beside themselves.
+
+**14.** His body was like molten gold, a staff was in His hand, and His frame was wrapped in red cloth: like a peak of Meru streaked with red ochre, He shone like the sun.
+
+**15.** Seeing Nrihari, the servants of Hari at once bowed down to Him as if to their own breath of life; the great souls fell to the ground like staffs and rejoiced at the sight of His lovely lotus face.
+
+**16.** Their bodies were bathed in streams of tears, their voices choked with joy, their limbs thrilled. Bhagavan, the ocean of mercy, looked upon them, and the shower of His glances adorned them.
+
+**17.** By His touch, His smile, His words and the firm clasp of His hand, He whose divine lotus face was lovely with a smile delighted them and fulfilled all their desires.
+
+**18.** And they, glad at heart, the splendour of their bodies brimming with thrills of rapture, attained happiness. With them, like the lord of the gods with the hosts of the gods, Bhagavan came straightway
+
+**19.** and, wholly illuminating with His lotus feet the dwelling of the peerless[^304-3], most excellent guru, sat down on the seat prepared for Him and shone like the sun of fierce rays.
+
+**20.** In a faltering voice He sang the story of Hari; His body was adorned with tears, and He shone like the god Narayana amid the sages at Badarikashrama[^304-4].
+
+**21.** The compassionate one bowed respectfully to Sri Shachi and said, "Mother, I am always near you."
+
+**22.** The Lord who enjoys the sacrifices, who grants His devotees their desires, ate together with the devotees the four kinds of food[^304-5] offered by the excellent Advaita Acharya.
+
+**23.** He slept there that night, and in the last watch He rose and, sweetly singing of Krishna, danced with His own.
+
+**24.** Then, in the clear dawn, He said sweetly to Srivasa and the other best of brahmanas, "Go to your homes.
+
+**25.** I shall go to see Purushottama, the Lord of the god of gods; together with Sarvabhauma[^304-6], the king of brahmanas, I shall see that Hari.
+
+**26.** And you, free from envy, should always chant the name of Hari here, especially during the vigil on the day of Hari[^304-7]."
+
+**27.** Having thus dismissed them all, the Lord first embraced Advaita Acharya with both arms and set off, His eyes full of tears of love.
+
+**28.** Then Sri Haridasa, holding a blade of grass between his teeth[^304-8], fell like a staff to the ground at the feet of the Lord of the world.
+
+**29.** Seeing this, the Lord was pained, and with tears in His eyes He said to him, "In just this way I Myself
+
+**30.** will fall at the lotus feet of Jagannatha and plead that the mercy of Hari will surely rest upon you." So saying, He embraced him again
+
+**31.** and lovingly let him go. Then the venerable Advaita, the bull among brahmanas, said to Bhagavan, the Guru of the world,
+
+**32.** "How is it, O Lord, that hearing of Your departure I feel no love for You? Is this Your mercy?"[^304-9] Keshava answered him,
+
+**33.** "If your love were to show itself so, how could I go?" So saying, He embraced him. And as He was leaving with His faithful companions, steadfast in affection —
+
+**34.** Gadadhara and the other brahmanas — the best of brahmanas, Gopinatha Acharya[^304-10], foremost among them, spoke to Hari, wishing to please Him:
+
+**35.** "O Bhagavan, fulfiller of desires, I wish to see Your body." Hearing his words, the Lord took off His garment.
+
+**36.** And he saw that uncovered body, straight and slender as a staff, glowing like molten gold — like the peak of Meru touched by the rays of the moon when the clouds have dispersed.
+
+**37.** Whoever thus hears of the glory of Hari, of His departure for Purushottama, attains the bliss of supreme love for the lotus feet of Gaura[^304-11].
+
+**38.** Having seen, having heard and having bowed, that best of brahmanas went away; and Bhagavan, full of joy, set off for Purushottama.
+
+**39.** Whatever fruit a man would gain by perfectly beholding the god Purushottama, that very fruit he gains by constantly reciting this account.
+
+*Thus ends the fourth sarga, "Pastimes at Sri Advaita's House" (Sri Advaita-vati-vihara), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^304-1]: Keshava is here a name of the Lord (Krishna Chaitanya).
+[^304-2]: Pushpagrama ("Flower Village") — apparently Phuliya, a village near Shantipura.
+[^304-3]: "Peerless" (advitiya, literally "without a second") — a play on the name Advaita ("Non-dual").
+[^304-4]: At Badarikashrama in the Himalayas the god Narayana, in the form of a sage, performs austerities surrounded by the rishis.
+[^304-5]: That is, food that is chewed, sucked, licked and drunk.
+[^304-6]: Vasudeva Sarvabhauma, a learned brahmana of Navadvipa who lived in Puri; the meeting with him is described in the following sargas.
+[^304-7]: The day of Hari is Ekadashi, the eleventh day of the lunar fortnight, kept with fasting and a night vigil.
+[^304-8]: A blade of grass between the teeth is a sign of utter humility.
+[^304-9]: Advaita wonders that he feels no pain of separation and asks whether it is the Lord who holds his love in check; the Lord replies that if it showed itself in full, He would be unable to leave.
+[^304-10]: Gopinatha Acharya, a brahmana of Navadvipa who later met the Lord in Puri.
+[^304-11]: In Haridasa Dasa's edition (witness C) this verse comes after the next one, which is more natural to the sense.
+
+---
+
+## Prakrama 3, Sarga 5. The Breaking of the Staff
+
+*The Lord travels towards Purushottama with His companions, singing the names of Rama and Krishna; the toll-collectors; Nityananda breaks the Lord's sannyasa staff, and the Lord, feigning anger, admits that he has done His will*
+
+**1.** Then Bhagavan, the Lord, set out with Mukunda, Gadadhara and other virtuous brahmanas; placing the Avadhuta in front, the Lord shone like the moon, the lord of the stars, beside Kavya[^305-1].
+
+**2.** As He went, at times He sang a song of Krishna, at times He uttered something indistinct for which there were no words; at times He walked fast, at times slowly, at times stumbling, and at times His composure was shattered by love.
+
+**3.** If in the evening some food happened to be offered somewhere, Hari ate it according to the rule. And at night the Lord cast aside all restraint and sang and wept, to the joy of the great souls.
+
+**4.** Bhagavan Himself would recite one verse — hear[^305-2] it: whoever hears it will gain unfailing attachment to His lotus feet:
+
+**5.** "Rama, Raghava, Rama, Raghava, Rama, Raghava, protect me! Krishna, Keshava, Krishna, Keshava, Krishna, Keshava, save me!"
+
+**6.** So, sweetly singing and smiling, the best of the knowers of truth, the imperishable protector of the worlds, gave fine instruction to these people.
+
+**7.** Once a toll-collector came up; seeing that they were mendicant travellers, he called out to them — and then turned back of his own accord, as if relieved of a burden[^305-3].
+
+**8.** Another time a different toll-collector, demanding the toll, came out onto the road and stopped the Guru of the world, who was surrounded by crowds of pilgrims.
+
+**9.** Bhagavan said to him, "Go away!" with a sign of His hand. The man left at once, and Bhagavan went on joyfully.
+
+**10.** Once the Guru of the world gave His staff into the Avadhuta's hand and walked on ahead, while Nityananda walked slowly behind.
+
+**11.** With an aching heart the noble Nityananda thought, "I roam at will, and my Lord carries a staff!
+
+**12.** For He is Sri Bhagavan Himself: I see Him with my own eyes, blazing brightly — the God who holds the conch, discus, club and lotus, together with Shri.
+
+**13.** And here is Hari displaying worldly conduct and carrying the staff of renunciation — He who once played the flute, whose form enchants the world,
+
+**14.** who sported in rasa with Radha!" With such thoughts he came up beside Sri Hari. Seeing him, Bhagavan said, "Give Me the staff — quickly."
+
+**15.** Then the Avadhuta said, "By chance my foot slipped on the ground, and with that Your staff broke." So he spoke, in fear.
+
+**16.** And Bhagavan grew angry and said to the Avadhuta, "In My staff reside the gods headed by Shiva, together with their shaktis[^305-4].
+
+**17.** You have caused them pain and broken My staff. Do you not know that the sin of causing pain to the gods is no small thing?"
+
+**18.** Hearing this, the divine Nityananda answered Him, "I have done them good"[^305-5]. And in a moment Bhagavan let go of His anger and said,
+
+**19.** "After going to Sri Jagannatha, seeing Sri Purushottama and staying some months beside the holder of the discus,
+
+**20.** I was to lay down the staff — that was My intention. But he has broken it and thrown it on the ground. What am I to do now?"
+
+**21.** So saying, He took him into His embrace and spoke sweetly: "You must always carry out just what I intend"[^305-6].
+
+*Thus ends the fifth sarga, "The Breaking of the Staff" (Danda-bhanjana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^305-1]: Kavya is the planet Venus (Shukra). Nityananda, walking in front, is compared to Venus, the Lord to the moon.
+[^305-2]: The narrator, Murari, is addressing Damodara (see Sarga 3.1).
+[^305-3]: Literally "his weariness gone": on seeing the Lord and His companions, the toll-collector apparently gave up his greed of his own accord.
+[^305-4]: Shaktis are divine energies, the consorts of the gods.
+[^305-5]: That is, he has set free the gods confined in the staff.
+[^305-6]: The Lord admits that by breaking the staff Nityananda has only carried out His own innermost wish.
+
+---
+
+## Prakrama 3, Sarga 6. Wandering in the Southern Country
+
+*The Lord travels towards Purushottama: Tamolipta; Remuna, where Gopinatha lets His crown fall to Him; the river Vaitarani; Yajapura (Jajpur) with the Boar, Viraja, Nabhi-Gaya and countless lingas of Shiva*
+
+**1.** So saying, the Lord set out again, wholly intent on chanting the name of Hari; whenever He saw images of the gods standing by the road, He bowed to them and offered praises, as is proper.
+
+**2.** At Tamolipta[^306-1], the most holy abode of Hari, the Guru of the world bathed in the Brahma-kunda and beheld Madhusudana.
+
+**3.** Then, within a few days, Bhagavan, the Lord, came to the great town of Remuna to see the god Gopala —
+
+**4.** that Hari who of old was installed and worshipped by Uddhava in Varanasi, and who, to show favour to a brahmana, went there and remained[^306-2].
+
+**5.** Some call that treasury of mercy Gopinatha: for the sake of His devotee He performed the pastime of the thief of sweet rice, and others besides[^306-3].
+
+**6.** Everything here bears witness that Hari follows the words of His devotees. Bhagavan went there and, like an ordinary man, beheld Him.
+
+**7.** Falling to the ground like a staff, He bowed to the Lord of the gods; His moon-face grew moist with compassion, and He, whose eyes are long like lotuses, danced with His own and sang kirtana.
+
+**8.** And at that very moment the crown fixed on the head of the image of the Enemy of Mura fell right to Him. Seeing this, the son of Sri Shachi caught it in His two lotus hands.
+
+**9.** Receiving that grace, He placed the crown on His own head and shone with joy; and, beholding the wondrous Lord of the gods, He rejoiced in the depths of His heart[^306-4], with bowed head and soul.
+
+**10.** And there He of peerless beauty, the best of sannyasis, radiant as the moon, danced with the Vaishnavas all through the day, and only in the evening did the great soul stop.
+
+**11.** Seeing Him, the crowds of people rejoiced and hymned and praised Him again and again. And the lord of sages, having partaken of the food offered, spent the night there.
+
+**12.** In the morning the lotus-faced Lord, whose lovely neck is like a conch, went on, passing through the country and other towns, and in time He reached a swift river flowing down from the stream of the river of the gods —
+
+**13.** the excellent Vaitarani[^306-5], which washes away the whole host of people's sins. Whoever sees her will never face the Vaitarani of Yama — how much less one who bathes in her!
+
+**14.** Having bathed here according to the rule, He beheld the Lord in the form of the excellent Boar: by virtue of the sight of Him seventy-seven generations of a man's line go to heaven.
+
+**15.** Having seen Him, He came joyfully to the town called Yajapura[^306-6], the land of brahmanas, where the Four-faced one performed a sacrifice and granted land to the best of brahmanas.
+
+**16.** Those who die there, even sinners, take on the form of Shiva. Seeing there the lingas of Shankara by the hundred, the Lord bowed His head to them.
+
+**17.** Bhagavan, the ocean of mercy, went to see the lotus face of Viraja[^306-7]; whoever beholds her is freed from all the sins amassed over millions of births.
+
+**18.** Seeing her, the Lord of the world bowed down and begged for peerless loving devotion. Then the lotus-faced Lord came to priceless Gaya-nabhi[^306-8], the holy place for the rites of the ancestors.
+
+**19.** The best of brahmanas, versed in the injunctions, at once bathed in the waters of the Brahma-kunda, where the manifestation of Yajna-Varaha[^306-9], appearing to view, brought happiness to the worlds.
+
+**20.** The great-souled Bhagavan wandered there, viewing the town and beholding the linga of the Lord of beings: the town is like Varanasi, the capital of Sadashiva, where there are millions of Shiva lingas headed by Trilochana[^306-10].
+
+**21.** Whoever hears this holy account of Hari, which takes away all sins, will gain endless happiness, the fruit of pilgrimage and the fruit of all sacrificial rites at the holy places of the ancestors, and will be endowed with every virtue.
+
+*Thus ends the sixth sarga, "Wandering in the Southern Country" (Dakshinadesha-bhramana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^306-1]: Tamolipta (Tamralipta), an ancient port town in south-western Bengal (present-day Tamluk).
+[^306-2]: All the witnesses read "in Varanasi". Cf. the legend of the deity Gopala who followed a brahmana in order to bear witness to the word given him.
+[^306-3]: Gopinatha of Remuna is known as Kshirachora, "the Thief of Sweet Rice": He hid a pot of sweet rice for His devotee Madhavendra Puri.
+[^306-4]: Literally "in space"; understood as the space of the heart. The reading is doubtful.
+[^306-5]: The Vaitarani is a river in Orissa; a river of the same name in the realm of Yama, the god of death, bars sinners from the other world.
+[^306-6]: Yajapura ("City of the Sacrifice"), present-day Jajpur in Orissa.
+[^306-7]: Viraja is the goddess worshipped at Yajapura.
+[^306-8]: Gaya-nabhi (Nabhi-Gaya), a holy place in Yajapura where, according to legend, lies the navel of the demon Gaya; here, as at Gaya, rites for the ancestors are performed.
+[^306-9]: Yajna-Varaha, the Boar who is the embodiment of sacrifice (Vishnu as Varaha).
+[^306-10]: Trilochana ("the Three-eyed"), one of the principal lingas of Shiva in Varanasi.

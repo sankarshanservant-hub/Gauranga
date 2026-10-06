@@ -179,3 +179,16 @@
 | मुकुन्द (эпитет Господа) | Мукунда | Mukunda |
 | कण्टक (ग्राम, पुरी) | Кантака (= Кантаканагара) | Kantaka (= Kantakanagara) |
 | साधु (купец) | купец | merchant |
+| श्रीनिकेतन | Обитель Шри (Шриникетана) | the Abode of Shri (Shriniketana) |
+| पुष्पग्राम | Пушпаграма (Пхулия) | Pushpagrama (Phuliya) |
+| बदरिकाश्रम | Бадарикашрама | Badarikashrama |
+| हरिवासर | день Хари (экадаши) | the day of Hari (Ekadashi) |
+| गोपीनाथ आचार्य | Гопинатха Ачарья | Gopinatha Acharya |
+| तमोलिप्त | Тамолипта (Тамралипта, Тамлук) | Tamolipta (Tamralipta, Tamluk) |
+| रेमुणा, गोपाल (देव), क्षीरचोर गोपीनाथ | Ремуна, Гопала, Гопинатха Кширачора | Remuna, Gopala, Gopinatha Kshirachora |
+| वैतरणी | Вайтарани | the Vaitarani |
+| याजपुर | Яджапура (Джаджпур) | Yajapura (Jajpur) |
+| गयनाभि | Гая-набхи (Набхи-Гая) | Gaya-nabhi (Nabhi-Gaya) |
+| यज्ञवराह | Яджна-Вараха | Yajna-Varaha |
+| त्रिलोचन (लिङ्ग), सदाशिव, भूतेश | Трилочана, Садашива, Владыка существ | Trilochana, Sadashiva, the Lord of beings |
+| दानी | сборщик пошлины | toll-collector |
