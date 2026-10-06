@@ -30,6 +30,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 1, Sarga 2. Narada's Sorrow
   - Prakrama 1, Sarga 3. Narada's Inquiry
   - Prakrama 1, Sarga 4. On the Descents
+  - Prakrama 1, Sarga 5. The Appearance of Sri Chaitanya
+  - Prakrama 1, Sarga 6. The Description of the Pastimes from Birth among the Childhood Plays
+  - Prakrama 1, Sarga 7. The Childhood Plays
+  - Prakrama 1, Sarga 8. The Passing of Jagannatha Mishra
 
 ---
 
@@ -316,3 +320,298 @@ Bhaktisiddhanta Sarasvati.
 [^104-4]: According to tradition, Haridasa is a portion of Brahma, who appeared as a devotee to atone for an offence.
 [^104-5]: The avatara of the Dvapara age is usually named otherwise; here Murari Gupta names Prithu, the king who first established the order of worship.
 [^104-6]: Bhargava is Parashurama, the descendant of Bhrigu.
+
+---
+
+## Prakrama 1, Sarga 5. The Appearance of Sri Chaitanya
+
+*Shachi bears in her womb a portion of Hari; the hymn of the gods to Shachi; the Lord's birth on the full-moon night of Phalguna during a lunar eclipse; the prediction of Nilambara Chakravarti; the rites after the birth*
+
+**1.** "Hear attentively, O brahmana, the new story of the descent of Chaitanya — the all-powerful Lord of the world, the ocean of compassion.
+
+**2.** When the best of the divine sages[^105-1] had gone to his own hermitage, the Supreme Bhagavan Achyuta entered the mind of Jagannatha, the brahmana sage.
+
+**3.** In due time the chaste wife received the great splendour he had placed in her. Thus the virtuous Shachi, devoted to her husband,
+
+**4.** auspicious, conceived a child — a portion of Hari — as the Ganga once received the seed of Shambhu[^105-2]; and her radiance waxed like the moon in the bright fortnight.
+
+**5.** Seeing her beauty and her glow like molten gold, Jagannatha, graced with good fortune, rejoiced with all his heart.
+
+**6.** Then, seeing her so, Brahma and the other gods, the Gandharvas, the immortals and the dwellers of the sky together with Indra
+
+**7.** joined their palms in joy; with tears in their voices and eyes, their heads bowed in obeisance, they all joyfully sang her praise:
+
+**8.** 'We bow to you who ever bear Him in your womb! You are Aditi, the mother of Hari; you bear in your womb the radiance of moon, sun and fire, you bear pure being in your womb; you are steadfastness and forbearance;
+
+**9.** you bear freedom from malice in your womb; you are perfection; you bear in your womb the Veda — Hari Himself. You are Devaki, Rohini and Yashoda — in every guise the source of being[^105-3].
+
+**10.** You bear in your womb Him who will spread the holiest of sacrifices — kirtana, whose fruit no (ordinary) sacrifice can attain.
+
+**11.** Not even millions of sacrifices could give the joy that arises in such as us from half a moment of hearing the kirtana of Nrihari.
+
+**12.** Oh! Great was the nectar of immortality that Hari Himself once gave after churning the ocean[^105-4] — yet a sweetness a million times greater
+
+**13.** we taste here, hearing the glory of Sri Hari: for the sake of the kirtana of Hari the mind counts even liberation as nothing.'
+
+**14.** Having spoken thus, the gods with Indra bowed to her and, placing Brahma at their head, departed, singing the glory of Sri Hari,
+
+**15.** to their own city. Overjoyed that a portion of the Lord of Shri had been born on earth, they praised the good fortune of (the age of) Kali and danced, overwhelmed with love.
+
+**16.** And then at midnight, in the auspicious month of Phalguna, when the moon, the lord of the night, was full, at an hour rich in every excellence and fanned by a pure breeze,
+
+**17.** when the minds of the gods and the saints were serene and the waters of the heavenly river cool and pure — Hari Himself was born.
+
+**18.** The son he had obtained was golden; His eyes were like blossoming lotuses, His face like the shining full moon, and by His own splendour He drove the darkness from every quarter.
+
+**19.** And Sri Jagannatha Mishra Purandara, like a poor man who has found the padma treasure[^105-5], could not reach the further shore of his ocean of joy, and his voice kept faltering with love.
+
+**20.** At the hour of His birth Rahu swallowed the moon entirely: defeated by the lotus face of Krishna, the moon, as if out of shame, hid in the mouth of the enemy of the gods[^105-6].
+
+**21.** At that holy hour the people sang the kirtana of Narahari and offered worship, and then, keeping themselves pure, they bathed in the waters of the Jahnavi, gave gifts and performed the rite of cleansing from sin.
+
+**22.** The hosts of gods with Mahendra, led by the Lotus-born and Mahesha, rejoiced; the apsaras gave themselves to dancing, and the leaders (of the Gandharvas) rained down flowers.
+
+**23.** Delighted by His birth, Nilambara Chakravarti, the knower of all scriptures, hurried to the home of his son-in-law.
+
+**24.** The wise man, who knew (from the stars) the hour of his grandson's birth, called Jagannatha and, addressing Shachi, spoke these words:
+
+**25.** 'Oh! This lion among men is born when Brihaspati (Jupiter) stands in exaltation[^105-7]. He will be the eternal protector of the whole world;
+
+**26.** of noble character, the refuge of all dharmas, the best of sannyasis, He will gladden all beings like the full moon pouring nectar.
+
+**27.** He will forever deliver both lineages — his father's and his mother's.' When the brahmana had spoken thus, all the people rejoiced.
+
+**28.** Hearing these words of her father, the mother was filled with great joy, and the Vatsya[^105-8] held a great festival — the jatakarma, the birth rite of his son.
+
+**29.** He gave the brahmanas betel, sandal paste, garlands and fragrances, and in due order performed the auspicious rites beginning with the utthana, the rite of "rising"[^105-9]."
+
+*Thus ends the fifth sarga, "The Appearance of Sri Chaitanya" (Sri Chaitanya-avirbhava), of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^105-1]: Narada, at whose entreaty the Lord agreed to descend (Sarga 1.03).
+[^105-2]: An allusion to the birth of Skanda: the seed of Shiva (Shambhu) was received by the Ganga.
+[^105-3]: The reading of the last word of the verse is uncertain; the translation is tentative.
+[^105-4]: The churning of the Milk Ocean by the gods and asuras, from which the nectar of immortality (amrita) was obtained.
+[^105-5]: Padma is one of the nine treasures (nidhi) of Kubera.
+[^105-6]: The Lord's birth coincided with a lunar eclipse; Rahu is the demon, "the enemy of the gods," who swallows the moon.
+[^105-7]: The "exalted position" (uccha) of a planet in astrology is the sign of its greatest strength.
+[^105-8]: The Vatsya is Jagannatha Mishra, of the Vatsya clan.
+[^105-9]: Probably the rite marking the end of the lying-in period; another understanding is possible — the child's first standing up.
+
+---
+
+## Prakrama 1, Sarga 6. The Description of the Pastimes from Birth among the Childhood Plays
+
+*Vishvambhara's infancy: the naming, His form, childhood plays; the wandering brahmana; the broken pots; the teaching on pure and impure; the brick thrown at His mother; the two coconuts; the sound of ankle bells*
+
+**1.** Some time passed, and the husband and wife, watching their sweetly babbling infant crawl about on His knees, were filled with great joy.
+
+**2.** On His smiling face, like a red lotus, shone the rays of "the king of the twice-born"[^106-1], dispelling the darkness in the minds of the saints.
+
+**3.** "He has sustained the universe from of old," thought the father, and he himself gave Him the most beautiful name Sriman Vishvambhara[^106-2].
+
+**4.** Hari's body gleamed like molten gold, His eyes were wide as shining lotuses; clad only in the wind, He wore a silver necklace and a garland in His curls.
+
+**5.** His face was like the full moon, His babble sweet as nectar; bracelets on His wrists and armlets on His arms adorned the charming child.
+
+**6.** Pure, His palms and soles red as a lotus or ground vermilion, He grew day by day, waxing digit by digit like the moon in the bright fortnight.
+
+**7.** In time the infant of boundless radiance began to walk, and treading with His red feet He soothed the earth's burning, born of separation (from Him)[^106-3].
+
+**8.** Janardana ate the food of a brahmana who wandered among the holy places, and so reminded him of the wonder in the house of Nanda[^106-4].
+
+**9.** He played with the boys of His age, (swinging) shoots of trees, and the children, struck by them, all romped joyfully before Him.
+
+**10.** Hari, a child by His own maya, played like a monkey: standing on one foot, He would touch another boy's knee with His knee.
+
+**11.** Once, seeing His mother angrily about to seize Him, He grew angry Himself and smashed the pots.
+
+**12.** He whom Yashoda once bound with cattle ropes for a broken pot[^106-5] — Him Shachi now feared: looking at His face, she trembled.
+
+**13.** Then He sat down in an impure place, on a heap of discarded clay pots piled one upon another, and laughed in front of His mother.
+
+**14.** Seeing this, Shachi said: "Child, come away from that loathsome place! Bathe again, be clean, and climb onto my lap."
+
+**15.** At these words Bhagavan, the knower of all truths, wholly imbued with the mood of Dattatreya[^106-6], who completes (the knowledge) of the all-knowing, answered her:
+
+**16.** "Listen: pure and impure are mere notions of the mind. For the world is (only) earth, water, air, fire, ether and mind; and here shines only the one Hari, the ocean of compassion, whose lotus feet are non-dual and prior to all the outspread manifestation. Know that there is nothing else.
+
+**17.** Therefore I am pure and in no way impure. Know this, mother, and harbour no other doubt here."
+
+**18.** When her son had spoken thus, she hastily took Him by the hand, led Him (to the river) and bathed Him in the clear waters of the heavenly river.
+
+**19.** After some time Shachi again saw her son seated on a heap of thrown-away clay pots and scolded Him:
+
+**20.** "Foolish one! Why do you sit in an impure, forbidden place?" Hearing these words of His mother, filled with anger,
+
+**21.** Sriman Vishvambhara said: "Foolish woman! There is nothing impure anywhere. I told you this before — so why do you reproach Me?"
+
+**22.** With these words He angrily threw a brick at her face. Stricken by the blow, she fainted and fell.
+
+**23.** Then all the women gathered and sprinkled her with cool water. And then Hari, who acts in human ways, came there
+
+**24.** and at once burst into tears Himself: "Mother, mother!" — and laid on her face His beautiful hand, which takes away every sorrow.
+
+**25.** Shachi came to herself at once, took her son onto her lap and, beside herself with love for him, rejoiced with all her heart.
+
+**26.** Then a merry woman, fond of a joke, said to the Teacher of the world: "Go and fetch two coconuts for your mother,
+
+**27.** bring them and give them to her — then she will be well. If not, she will die — and what will you do then?"
+
+**28.** Hearing her words, He (slipped down) from His mother's lap[^106-7], went out, brought and gave two coconuts.
+
+**29.** Hari brought a pair of coconuts whose stalks still glistened with sap, as if they had just fallen. The astonished women asked: "Where did you get this fruit?"
+
+**30.** Then the great-hearted (boy), the banner of the Vatsa clan[^106-8], silenced them all with a fierce "hum!" and turned His smiling lotus face to His mother.
+
+**31.** Now hear more of the wonderful deeds of the Great Soul — the Supreme Self, the Lord of maya: excellent deeds, beyond all that is worldly.
+
+**32.** One night Shachi, having fallen asleep, noticed that the house seemed full of people; alarmed, she took her son, who lay on her lap,
+
+**33.** and in fear hastily sent Sriman Vishvambhara Hari to her husband's room; and on the way the gods worshipped Him[^106-9].
+
+**34.** As the son walked there, the jingling of ankle bells came again and again from His bare feet. Hearing it, the alarmed Vatsya asked Shachi, and Shachi the Vatsya: "What is this? Where does this sound come from?"
+
+**35.** When the son came near, the brahmana saw in great amazement that his son's lotus feet were quite bare. "Then where did the sweet jingling of ankle bells come from?" (he wondered) — and, embracing his son, he was filled with joy.
+
+*Thus ends the sixth sarga, "The Description of the Pastimes from Birth among the Childhood Plays" (Balya-krida: janmadi-lila-varnana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^106-1]: "The king of the twice-born" (dvijaraja) is the moon; but "the twice-born" (dvija) are also the teeth: a play on words — the shining of His teeth in His smile.
+[^106-2]: Vishvambhara means "He who sustains the universe."
+[^106-3]: The earth, according to tradition, suffered in separation from Krishna's feet after His departure.
+[^106-4]: The story of the pilgrim brahmana whose food, offered to the Lord, was eaten by the infant Nimai; so too the infant Krishna once ate the food of a wandering brahmana in the house of Nanda.
+[^106-5]: An allusion to the Bhagavata Purana (10.9): Yashoda bound the child Krishna when He broke the pot of curd.
+[^106-6]: Dattatreya is an incarnation of the Lord, an avadhuta who made no distinction between pure and impure.
+[^106-7]: The end of the line is corrupt in the sources; the reading is tentative.
+[^106-8]: The Vatsa clan (gotra) is the clan of Jagannatha Mishra (cf. "the Vatsya").
+[^106-9]: The people Shachi saw in the house were evidently the gods, come to worship the Lord.
+
+---
+
+## Prakrama 1, Sarga 7. The Childhood Plays
+
+*The story of Vishvarupa: his sannyasa and the parents' blessing; Vishvambhara's promise to serve his parents; His pranks and the dream of Jagannatha Mishra; Vishvambhara asks His mother not to eat on Ekadashi; the question of Damodara*
+
+**1.** Having heard this, and blissful in meditation on Hari's lotus feet, Damodara asked to hear the holy story of Hari's elder brother:
+
+**2.** "Tell me truly the great and renowned story of Vishvarupa." Hearing this, (Murari) replied: "Listen, O brahmana, and I shall tell you."
+
+**3.** With these words the physician[^107-1] began the heart-charming, auspicious and purifying story of Vishvarupa, the portion of Baladeva.
+
+**4.** Sriman Sri Vishvarupa, a treasury of every virtue, utterly pure, became an acharya at sixteen by hearing of the Self and reflecting upon it. Of powerful intellect, a devotee full of love, all-knowing, he was ever joyful, his heart clinging to the feet of Narahari; peaceful and content, unattached to the world, he knew the Vedas and knew rasa.
+
+**5.** In private the father was considering a suitable bride for his son; but the brahmana's son himself came to know all that he was pondering in his heart.
+
+**6.** Learning thus all his father's hidden intentions, the forbearing Vishvarupa left home, crossed the heavenly river and took sannyasa, which others cannot attain.
+
+**7.** When he heard of this, the father was overwhelmed, and the virtuous mother wept bitterly. But then both, wishing their son well, said: "May our son remain true to the dharma of sannyasa!"
+
+**8.** Having given their son this blessing, both kept their fortitude like sages; casting off grief, they took their son — the Lord of the world — onto their laps and at once were filled with joy.
+
+**9.** Then Hari said: "Father, My brother has left you and gone far away. It is I who will serve you and mother — and may you always be happy."
+
+**10.** Hearing such words from their son — weighty, deep, charming and full of meaning — the mother and father embraced Him and, with tears of joy in their eyes, were filled with delight.
+
+**11.** Their limbs were sated with the sweetness of His touch; bathed in tears, they knew nothing else — as accomplished yogis, absorbed in their own yoga, see neither this world nor the next.
+
+**12.** He studied, serving His father with all His heart, yet He was also caught up in play among a band of boys: romping with His companions, grey with dust, even when hungry He forgot all about food.
+
+**13.** Once, seeing his son so wilful, the father, wishing Him well, scolded Him: "You have thrown aside your lessons and everything else, and you play with the boys though you are hungry!"
+
+**14.** Then at night, toward dawn, the foremost of the best brahmanas appeared to him in a dream and said: "Do you not value your son? Or are you like a beast that knows nothing of the worth of a touchstone?
+
+**15.** Deck a beast's body in jewelled silks — will it not chew those silks?"[^107-2] Mishra fearlessly replied: "Even if my son is Narayana Himself,
+
+**16.** still it is my duty to punish Him." To this the brahmana said: "Rightly spoken." With these words the foremost of brahmanas departed, and the Vatsya, waking, told (of the dream).
+
+**17.** Hearing of the dream, the people rejoiced and joyfully saw in Vishvambhara, the best of the best, the fulfilment of their hopes; but the father considered Him his own son, and the mother was content.
+
+**18.** Once, when He was at home, His body, red as the rays of the rising sun, blazed with its own light, and He said: "Mother, do as I tell you."
+
+**19.** Seeing her son blazing with His own light, the frightened and astonished mother said: "Child, whatever you say I shall do; tell me yourself what is on your mind."
+
+**20.** Hearing these words, sweet as nectar, He said to her: "Mother, on the day of Hari you must not eat."[^107-3] Hearing her son, she gladly agreed: "So be it."
+
+**21.** Then, having eaten the betel nut and other things that a certain brahmana had offered (to the Lord), He spoke to her again: "I am going. Guard the body of your son, which for half a moment will lie motionless."
+
+**22.** So saying, He suddenly rose and fell to the ground like a stick. Thinking that Vishvambhara had left her, the mother, in deep grief,
+
+**23.** bathed Him with the waters of the Ganga, which are like nectar. Then He awoke, recovered and lived happily again,
+
+**24.** shining with His natural radiance. Hearing of this, the astonished Jagannatha said: "We do not understand this divine maya."
+
+**25.** Hearing this wondrous story, the brahmana Damodara said: "What is this you have told, good friend? Krishna Himself, the teacher of the world,
+
+**26.** was born (here) — how then could He say to His mother, 'I am going; guard your son, good lady'? About this I have a great doubt.
+
+**27.** Is this the maya of the Lord of the world? Please explain it — for the deeds of Hari are done for the good of the world."
+
+*Thus ends the seventh sarga, "The Childhood Plays" (Balya-krida), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^107-1]: Murari Gupta was a physician (vaidya) by caste and occupation.
+[^107-2]: The sense: you do not value your son, as a beast knows the worth neither of the touchstone nor of precious silk.
+[^107-3]: The lunar day of Hari is Ekadashi, the eleventh day of the lunar fortnight, a fast day.
+
+---
+
+## Prakrama 1, Sarga 8. The Passing of Jagannatha Mishra
+
+*Murari's answer: the Lord enters the devotee's heart, and the devotee takes on His form (the examples of Prahlada, the gopis and Narada); Vishvambhara's studies; the illness and passing of Jagannatha Mishra on the bank of the Ganga; the funeral rites*
+
+**1.** Having heard him, (Murari) thought and reflected, bowed to Hari and spoke again: "Listen with all your attention.
+
+**2.** When a person meditates on Bhagavan, sings His kirtana and hears (of Him), Hari enters the heart of that great soul.
+
+**3.** And then he imitates Him: forgetting his own body and all the rest, he constantly bears within him His splendour and His might.
+
+**4.** So it is for a time; and then he returns to outer consciousness and does his ordinary acts — as once Prahlada did:
+
+**5.** in the ocean he became identified (with the Lord), and on the shore the remembrance of his body returned[^108-1]. So indeed the virtuous gopis too at times experience such identification[^108-2].
+
+**6.** The Lord did this to teach the world a lesson: for a devotee of Krishna there can be such identity of form (with Him).
+
+**7.** And so that people here should not be bewildered, He taught: the devotee's body is truly the very self of Bhagavan; of this there is no doubt.
+
+**8.** Krishna, having slain Keshi, showed Narada His glory and His power; and then the best of sages
+
+**9.** fell to the ground like a stick. And a Vaishnava who goes to the city of Mathura obtains at that place a hundredfold greater reward[^108-3].
+
+**10.** So too Rama, the source of the world, showed His universal form to Shiva, and then again performed human deeds[^108-4].
+
+**11.** Now, O brahmana, hear further the auspicious story of Chaitanya: whoever hears it with faith, though mortal, is freed from the bondage of worldly existence.
+
+**12.** Living in the house of His teacher, the Victorious One studied all the Vedas, and then He Himself, the husband of Sarasvati[^108-5], taught students.
+
+**13.** His father too, greatly fortunate, happily studied the Vedanta and other scriptures. And when Jagannatha, the bull among brahmanas, had returned (home),
+
+**14.** by the will of fate a life-taking fever came upon him. Seeing His father in such a state, Hari Himself, together with His mother,
+
+**15.** went to the bank of the Jahnavi — the beautiful Lord Vishvambhara, surrounded by His devotees absorbed in the kirtana of Hari.
+
+**16.** Then Hari embraced both His father's feet and said in a faltering voice: 'Father, My master! Where are you going, leaving Me so soon?'
+
+**17.** He lovingly drank in with his ears the nectar of his son's words and replied: 'I have entrusted You wholly to the feet of Raghunatha.'[^108-6]
+
+**18.** By day, when the host of the best gods with Mahendra had appeared in the sky and the people were absorbed in the sankirtana of Hari, the best of brahmanas, standing in the waters of the heavenly river,
+
+**19.** left his body, mounted the chariot of the heaven-dwellers and went to the abode of Hari. Though the body of that great soul is eternally perfect, he (showed death) at his own will, so that his conduct might serve the good of the world.
+
+**20.** Then Shachi, utterly broken by grief, lamented her husband who had attained perfection; surrounded by a crowd of women, she fell at the feet of her lord and cried out like an osprey.
+
+**21.** As the ocean of mercy wept again and again for His father, streams of tears fell from His eyes; leaving on His chest a trace like a necklace of elephant-pearls[^108-7], they shone.
+
+**22.** Then, consoled by His relatives, the Lord, full of grief, performed together with the brahmanas all the holy rites fitting for the end of life, according to the injunctions.
+
+**23.** As if downcast, loving His father, He performed with the accumulated wealth the sacrifice to the ancestors, and then in due order the holy rite of honouring the brahmanas, presenting them with land and other gifts[^108-8].
+
+**24.** Whoever tirelessly tells thus of the departure to heaven of the Lord's father will attain the heavenly river and, swiftly casting off impurity, will go to the abode of Hari."
+
+*Thus ends the eighth sarga, "The Passing of Jagannatha Mishra" (Jagannatha-mishra-samsiddhi), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^108-1]: Prahlada, thrown into the ocean at Hiranyakashipu's command, became absorbed in meditation on the Lord and felt himself one with Him; on the shore he again became aware of his body.
+[^108-2]: The gopis, in separation from Krishna, imitated His pastimes, identifying themselves with Him.
+[^108-3]: The place where the demon Keshi was slain in Vrindavana is revered as holy (Keshi-ghat).
+[^108-4]: Rama is Ramachandra, the avatara of Vishnu; Shiva is His great worshipper.
+[^108-5]: The husband of Sarasvati (the goddess of learning) — the Lord as master of all knowledge.
+[^108-6]: Raghunatha ("Lord of the Raghus") is Ramachandra.
+[^108-7]: By poetic convention, pearls are born in the foreheads of elephants.
+[^108-8]: The sense of the word "dharadibhajanaih" is unclear; the translation is tentative.
