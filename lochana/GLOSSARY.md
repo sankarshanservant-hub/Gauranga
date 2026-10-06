@@ -151,3 +151,11 @@
 | পদ্যাবলী | «Падьявали» | Padyavali |
 | মূল প্রকৃতি | изначальная пракрити (шакти) | the original prakriti (shakti) |
 | নামাভাস, কৈবল্য | намабхаса, кайвалья | namabhasa, kaivalya |
+| শ্যামগড়া (রাগ), তরজা | шьямагада (рага), тараджа (напев) | shyamagada (raga), taraja (tune) |
+| অপ্রাকৃত মদন | неземной Мадана (апракрита Мадана) | the transcendental Madana (aprakrita Madana) |
+| আবরণ (-ক্রম) | аварана (круги, «покровы» спутников) | avarana (circles, "enclosures" of associates) |
+| ভাট | бхат (певец-славослов) | bhata (bard) |
+| অধ্যাত্ম (-তত্ত্ব, -চর্চা) | учение о Самости (адхьятма), рассуждения о Самости | the doctrine of the Self (adhyatma), speculation about the Self |
+| কমলাক্ষ | Камалакша (мирское имя Адвайты) | Kamalaksha (Advaita's worldly name) |
+| হরি-হর | Хари-Хара | Hari-Hara |
+| ভক্ত-অবতার | аватара в облике преданного (бхакта-аватара) | the avatara in the form of a devotee (bhakta-avatara) |

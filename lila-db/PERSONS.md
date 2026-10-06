@@ -59,6 +59,7 @@
 | @kashinatha | Кашинатха (Мишра) | Kashinatha (Mishra) | брахман-сват второй женитьбы Господа |
 | @vakreshvara | Вакрешвара Пандит | Vakreshvara Pandita | |
 | @shridhara | Шридхара (Кхолавеча) | Shridhara (Kholavecha) | Шридхара Пандит Навадвипы |
+| @srirama-pandita | Шри Рама Пандит | Sri Rama Pandita | младший брат Шривасы |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
