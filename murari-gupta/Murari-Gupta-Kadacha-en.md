@@ -34,6 +34,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 1, Sarga 6. The Description of the Pastimes from Birth among the Childhood Plays
   - Prakrama 1, Sarga 7. The Childhood Plays
   - Prakrama 1, Sarga 8. The Passing of Jagannatha Mishra
+  - Prakrama 1, Sarga 9. The Adhivasa before the Marriage to Lakshmi
+  - Prakrama 1, Sarga 10. The Wedding
+  - Prakrama 1, Sarga 11. The Festival of Sri Lakshmi's Departure
+  - Prakrama 1, Sarga 12. The Consolation of Shachi; Lakshmi's Departure to Heaven
 
 ---
 
@@ -615,3 +619,287 @@ Bhaktisiddhanta Sarasvati.
 [^108-6]: Raghunatha ("Lord of the Raghus") is Ramachandra.
 [^108-7]: By poetic convention, pearls are born in the foreheads of elephants.
 [^108-8]: The sense of the word "dharadibhajanaih" is unclear; the translation is tentative.
+
+---
+
+## Prakrama 1, Sarga 9. The Adhivasa before the Marriage to Lakshmi
+
+*Vishvambhara studies under the scholars of Navadvipa; He meets Vallabhacharya's daughter on her way to the Ganga; Vanamali Acharya's proposal: Shachi's refusal and consent; Vallabhacharya's consent; preparations for the wedding and the adhivasa rite*
+
+**1.** Then the glorious Lord continued His studies — under Sri Vishnu Pandita, under Sudarshana Pandita and under Sri Gangadasa Pandita.
+
+**2.** He Himself bestowed knowledge on brahmanas; and from those who were the greatest of scholars He received knowledge, for their own great benefit.
+
+**3.** For the instruction of the world, He whose human form is assumed by His own maya studied under the scholars and the venerable Sudarshana;
+
+**4.** and the knower of rasas, His face lit with a smile, would jest with His brahmana fellow students in the dialect of Vanga[^109-1], laughing with them as they laughed in return.
+
+**5.** Some time passed, and He went, eager and delighted, to the house of Vanamali Acharya, who was devoted to Him, to see him[^109-2].
+
+**6.** Having taken leave of the Acharya, Hari was walking back when on the road He saw the daughter of Vallabhacharya, surrounded by her friends.
+
+**7.** The lovely-faced girl was on her way to bathe in the waters of the Jahnavi. Seeing her so, and knowing in His heart why she had taken birth[^109-3],
+
+**8.** the glorious Lord Vishvambhara, who delighted in the taste of learning, returned with His companions to His own home.
+
+**9.** The next day Vanamali Acharya, the best of brahmanas, came there again — to the house of Sri Hari — and, bowing to Shachi, addressed her with sweet words:
+
+**10.** "If you wish to see your son, the glorious Vishvambhara, married, choose for Him as His bride the daughter of the excellent Vallabhacharya — a maiden like a daughter of the gods."
+
+**11.** Hearing this, Shachi said: "My little son is still a boy, and He has lost His father. Let Him study — that is what we must see to."
+
+**12.** Having heard her, the Acharya went away not very glad at heart. And there, on the road, he saw Krishna, radiant with joy.
+
+**13.** At once Bhagavan bowed to him, embraced him warmly and asked him sweetly: "Where are you going today, sir?"
+
+**14.** He replied: "I have been to see Your mother's feet and proposed to her that You be married. But she
+
+**15.** gave no credence to it, and so I go away downcast." When he had said this, Hari gave no reply; He only laughed and went on His way.
+
+**16.** Coming home, He said to His mother: "What did you say to the Acharya? He is walking along the road so sad.
+
+**17.** Why did you not please him with kind words, mother?" Understanding this wish of her son, the good Shachi at once sent a trusted person again
+
+**18.** to bring the Acharya back quickly. The Acharya came at once, bowed and said:
+
+**19.** "For what purpose, mistress, has your ladyship summoned me? Let her tell me. I was overjoyed to hear your call, and here I am before you."
+
+**20.** Then Shachi said to him: "What you proposed about the marriage — please carry it out.
+
+**21.** You are a friend and dearly love my son; you yourself proposed it before out of affection — what more need I say to you?"
+
+**22.** Having heard her, the Acharya bowed and replied: "Mistress, your word I always carry out, bearing it on my head."
+
+**23.** So saying, he set out for the place where Vallabha, the best of Mishras, lived. Vallabha rose hastily to meet him,
+
+**24.** himself brought a seat and offered it as custom prescribes; then he humbly asked Vanamali Acharya:
+
+**25.** "Has kindness to me alone brought you here, or is there some business? Then command me."
+
+**26.** At this the Acharya said: "Hear what I have to say. The son of Mishra Purandara, Sri Vishvambhara Pandita,
+
+**27.** the abode of every virtue — He is the one fit to be your daughter's husband. And so I tell you now: give Him your fair daughter."
+
+**28.** Having heard him, the Mishra considered the matter and said: "Listen: if good fortune wills it, this will come to pass.
+
+**29.** But I am poor and can give nothing; only the girl herself can I give. Decide, then, what is to be done.
+
+**30.** If Bhagavan Hari is pleased with me and with my daughter — only then will the best of scholars become my son-in-law.
+
+**31.** As a pearl is joined to a gem only by a thread, so their union will come about only through your goodness[^109-4]."
+
+**32.** Greatly pleased at these words, the Acharya replied respectfully: "Thanks to your humility and affection, all will turn out well."
+
+**33.** So saying, the Acharya returned and told Shachi everything, blissful with joy at Gaurachandra's wedding.
+
+**34.** When she had learned all this, Shachi said to her son: "The time has come, my child: now perform the marriage rite."
+
+**35.** Having heard His mother's words, Hari reflected in His mind and, honouring her command, quickly gathered all that was needed.
+
+**36.** Then came the auspicious time of the wedding — the abode of every good quality, bringing blessing to all. Mridangas and panava drums were beaten,
+
+**37.** the chanting of the Vedas rose from the great assembly of brahmanas, all the quarters were adorned with rows of lamps, flags and the like,
+
+**38.** and everything was fragrant with the incense of deodar, aguru, ushira, sandal and other scents — and the best of brahmanas performed for Hari the pre-wedding rite of adhivasa[^109-5].
+
+*Thus ends the ninth sarga, "The Adhivasa before the Marriage to Sri Lakshmi" (Shri-lakshmy-udvahe adhivasa-prasanga), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^109-1]: Vanga is the eastern part of Bengal; the family of Jagannatha Mishra came from there (from Shrihatta).
+[^109-2]: Vanamali Acharya, a brahmana of Navadvipa, took on the role of matchmaker.
+[^109-3]: Vallabhacharya's daughter is Lakshmipriya, Lakshmi herself, who appeared in order to become the Lord's consort.
+[^109-4]: A play on words: guna means both "thread" and "virtue."
+[^109-5]: The adhivasa is a rite of consecration on the eve of a wedding or other festival: the bridegroom is anointed with sandal paste, adorned with flowers and surrounded with incense.
+
+---
+
+## Prakrama 1, Sarga 10. The Wedding
+
+*The adhivasa and the nandimukha shraddha; Vishvambhara's tears for His father and His consolation; the wedding procession to Vallabhacharya's house; the giving away of the bride; the Lord's return home with Lakshmi*
+
+**1.** Then again and again He gave the brahmanas betel nuts, fragrant garlands and perfumes with sandal of incomparable fragrance; and all the people rejoiced and sang for joy.
+
+**2.** Vallabha too arrived — with auspicious brahmanas, with men, with the chaste wives of brahmanas and others — honoured his son-in-law with perfumes and fragrant garlands, and performed for Him the auspicious adhivasa.
+
+**3.** In the morning, when the sun had risen clear and red, Hari Himself duly performed His bath, worshipped the ancestors, the gods and the rest, and then together with the brahmanas performed the nandimukha shraddha[^110-1].
+
+**4.** And the great festival swelled: the lovely chanting of the Yajur Veda rose from the brahmanas, mridangas, bheris, patahas and other drums resounded, and bright, auspicious cries rang out from the lotus mouths of lovely women[^110-2].
+
+**5.** Shachi joyfully honoured the women of the family and all the kinsfolk who had gathered, and said: "What can I do, bereft of my husband? Here everything must be done by such as you yourselves."
+
+**6.** Hearing these sorrowful words from His mother, He longed for His father and His heart burned; He shed teardrops larger than pearls, and they were like a necklace on His chest.
+
+**7.** Seeing her son so full of sorrow, Shachi, astonished, said together with the chaste wives: "My child[^110-3], why do You Yourself, at an auspicious rite, shed this inauspicious water from Your eyes?"
+
+**8.** Having drunk in His mother's words, He, His face darkened by sighs at the memory of His father, stood by her and replied in a voice as deep as the thunder of a fresh rain-cloud:
+
+**9.** "Mother, have I no wealth and no people, that today you spoke like a helpless woman, as though we had no one to lean on — because, you think, My father has gone and is seen no more?
+
+**10.** You yourself saw how, three times over, brahmanas and good people were given vessels full of choice betel nuts and perfumes of unrivalled quality, enough to anoint the whole body.
+
+**11.** And how generously it was spent on other worthy people — you know that: on each as much as he wished. I have the power to do deeds beyond mortals, and yet I follow the ways of the world.
+
+**12.** I may have lost My father, but My power is fathomless; even so, My mother's words wound Me." Hearing what He said, His mother calmed Him with sweet words.
+
+**13.** And Sri Gaurachandra — the one friend of the world, charming to women, beautiful in His smile — was adorned with cosmetics, pairs of garments, jewels and priceless garlands,
+
+**14.** and with unflagging faith anointed with sandal and the perfumes of choice aguru: this was done by the sons of the brahmanas, who had come at that auspicious hour to Him, the bull among men.
+
+**15.** At that same hour the excellent Vallabha Mishra, having completed the rites for the ancestors and the gods, adorned with ornaments his daughter, fair as the finest gold.
+
+**16.** Then he sent the most worthy brahmanas to bring the bridegroom. They came and said with blessings: "For good fortune, set out quickly, to the chanting of the Sama Veda!"
+
+**17.** And Hari Himself, in a palanquin, with the good people sent by the best of brahmanas, amid cries of "Victory!" and rows of blazing lamps, set out for the Mishra's house — as Shiva once went to the golden peak[^110-4].
+
+**18.** The Mishra came out to meet Him, himself led Him into his house and honoured Him as bridegroom: with water for His feet and the rest, with the finest perfumes, garments and garlands, and with incense of choice aguru.
+
+**19.** The bridegroom shone like the full moon: His smiling face outshone Kama, and His slender body, pure and bright as Sumeru, gleamed with the lustre of molten gold.
+
+**20.** His arms glittered with armlets, bracelets and rings, His palms were lovely as lotuses — and Hari, who grants the desires of all who take shelter of Him, at once became like a mighty wish-fulfilling tree.
+
+**21.** Vallabha brought his daughter, beautifully adorned and radiant as the moon — her radiance dispelled all darkness — and duly gave her at the feet of the Teacher of the world. And then the beauty of the two shone forth.
+
+**22.** Their moon-like faces, blazing with beauty as if in contest, were like the moon with Rohini[^110-5]; they heightened each other's loveliness and, like Hara and Parvati, showered each other with handfuls of flowers.
+
+**23.** When the Lord of Kamala had taken His seat, Lakshmi too sat down there shyly. Then the pure Vallabha, versed in the rites, came forward and sat before them to give away his daughter according to rule.
+
+**24.** By offering water to His lotus feet Prajapati once obtained the power to create the world[^110-6]; and to those very feet, whose shining nails dispel the darkness, Vallabha offered water for washing.
+
+**25.** To Him to whom great Indra yielded his royal throne — a jewelled lion-seat spread with a rug[^110-7] — to Him, clad in the finest yellow garments, Vallabha, drinking Him in with his eyes, offered a fine silken seat.
+
+**26.** Having performed in due order and according to rule the rites beginning with the offering of arghya — the hair on his body bristling with joy — the grateful Vallabha formally gave away his lotus-eyed daughter, placing her hand in Hari's.
+
+**27.** When the great and auspicious festival was over, the almighty Vishvambhara, who relieves the Earth of her affliction[^110-8], took Lakshmi and, hailed by the people, went home in a palanquin.
+
+*Thus ends the tenth sarga, "The Wedding" (Vaivahika), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^110-1]: The nandimukha shraddha is a rite honouring the ancestors, performed before a joyful event such as a wedding.
+[^110-2]: That is, the ulu-dhvani, the joyful ululation of women customary at Bengali festivals.
+[^110-3]: Literally "father," an affectionate way of addressing a son in Bengal.
+[^110-4]: A comparison with Shiva's wedding procession to the house of Himavat, the father of Parvati (cf. v. 22).
+[^110-5]: Rohini is the constellation who is the favourite wife of the Moon god.
+[^110-6]: Prajapati is Brahma: he was able to create the world by the grace of the Lord, whom he worshipped.
+[^110-7]: Indra (Mahendra), king of the gods, honours the Lord as his master.
+[^110-8]: A play on words: Vishvambhara ("He who sustains the universe") relieves the affliction of Vishvabhara ("the All-bearing," the Earth).
+
+---
+
+## Prakrama 1, Sarga 11. The Festival of Sri Lakshmi's Departure
+
+*Lakshmi enters Shachi's house; the Lord's journey to East Bengal and the people's wonder; His stay on the bank of the Padmavati; Lakshmi's service to her mother-in-law; the snakebite and Lakshmi's departure in the waters of the Ganga*
+
+**1.** Then Shachi, together with the wives of the brahmanas, held a great festival and led her daughter-in-law, with her husband, into her house.
+
+**2.** To the brahmanas she gave food, perfumes and garlands with devotion, and to others — the chief craftsmen and the dancers — she gave money.
+
+**3.** And the Lord lived happily in that auspicious house with His family, shining like the moon among the stars in a clear sky.
+
+**4.** At a mere glance from Lakshmi and Narayana all blessings came of themselves to the house of Sri Shachi — as if to proclaim their own good fortune.
+
+**5.** Once settled in household life, He set out for the east with good companions to earn wealth, purifying those lands as He went.
+
+**6.** Whatever land the Victorious One came to, He whose face was like the full moon, everywhere the people who lived there were filled with joy at the sight of Him.
+
+**7.** Gazing at His face, they could never reach the farther shore of the ocean of satisfaction[^111-1]. And the women said: "Whose son is He, whose very sight purifies?
+
+**8.** By what merit did His mother bear in her womb this best of men, who surpasses Kandarpa? His like has never been seen anywhere.
+
+**9.** Which girl, having long worshipped Shankara[^111-2], has become His wife? He is Narayana, and she, without a doubt, is Lakshmi herself."
+
+**10.** Hearing such words from the people everywhere, Hari went on His way, increasing their love with the moist glance of His eyes, which reached to His ears.
+
+**11.** He came to the bank of the river Padmavati[^111-3], bathed according to rule and stayed there, worshipped by saintly people full of faith.
+
+**12.** And that great river, the swift Padmavati with her broad sandbanks, became as purifying as the Ganga.
+
+**13.** She was adorned with crocodiles, makaras[^111-4] and fish darting like lightning, and her broad banks were graced with the dwellings of the virtuous.
+
+**14.** Her waters, cleansed by Vishvambhara's bath, take away sin, and she, the auspicious one, became the greatest of holy places. Dwelling on her bank, Hari
+
+**15.** gave delight to the eyes of great and virtuous souls; and the Slayer of Madhu[^111-5], eager to see the saintly, rejoiced exceedingly.
+
+**16.** So the merciful Master, the Almighty, who delighted in the taste of learning, spent several months there teaching all the brahmanas.
+
+**17.** Meanwhile the blessed Lakshmi, whose husband was her very life and who was faithful to her vows, served Shachi by massaging her feet and in many other ways.
+
+**18.** In the shrine of the deities she plastered and swept the floor, drew svastikas and other auspicious signs, and offered incense, lamps and the rest, food offerings and carefully made garlands.
+
+**19.** Shachi was so pleased with her service, her speech, her good nature and her deeds that for a long time she felt her happiness complete.
+
+**20.** Her hair bristled with tenderness for her son's matchless wife; out of love she cherished her like a daughter — just as she did her own son.
+
+**21.** So she lived in the house; but in time, by the will of fate, a snake came and bit her on the sole of her foot. Seeing Lakshmi (so), Shachi,
+
+**22.** seized with great fear, sent word about her daughter-in-law to the healers of snake poison, summoned them, and strove to draw out the poison.
+
+**23.** But for all the many mantras Shachi tried, the poison did not leave. Then, deeming it the work of Time, she carefully brought her
+
+**24.** into the waters of Jahnu's daughter[^111-6], adorned her daughter-in-law with a garland of tulasi and, together with the other women, sang the kirtana of Hari.
+
+**25.** And when the clear sky had filled with the chariots of the Gandharvas, and Brahma and the other gods with the perfected yogis were singing an auspicious song,
+
+**26.** Mahalakshmi, the mother of the world, remembering the lotus feet of Krishna, gave up her body in the heavenly river to go to her Lord.
+
+**27.** And she went to her own beautiful abode, unattainable for Indra and the other gods, the very form of all that is auspicious —
+
+**28.** Lakshmi, endowed with supreme splendour — to the abode revered by the worlds.
+
+*Thus ends the eleventh sarga, "The Festival of Sri Lakshmi's Departure" (Shri-lakshmi-vijaya-utsava)[^111-7], of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^111-1]: That is, they could never look at Him enough.
+[^111-2]: Girls worship Shiva (Shankara) to obtain a worthy husband.
+[^111-3]: The Padmavati (Padma) is the main branch of the Ganga in East Bengal.
+[^111-4]: The makara is a mythical water creature, the mount of Varuna and of the Ganga.
+[^111-5]: Madhu is a demon slain by Vishnu; "Slayer of Madhu" (Madhuha) is a name of the Lord.
+[^111-6]: Jahnu's daughter (Jahnavi) is the Ganga.
+[^111-7]: Vijaya here means "departure" (as in the Bengali usage for the passing of saints).
+
+---
+
+## Prakrama 1, Sarga 12. The Consolation of Shachi; Lakshmi's Departure to Heaven
+
+*Shachi's lament for her daughter-in-law; the Lord's return from East Bengal; Shachi tells Him what has happened; the Lord consoles His mother with the story of an apsara cursed by Indra*
+
+**1.** Then Shachi grievingly lamented for her daughter-in-law, who had been devoted to dharma, and the streams of tears flowing from her eyes bathed her breast.
+
+**2.** She said: "Lowest of serpents! What is this wicked deed you have done? Why did you not bite me with your terrible fangs, and spare my daughter-in-law?
+
+**3.** My righteous son entrusted his wife with serving me, and went away, surrounded by his students, to earn wealth and grain for me.
+
+**4.** How shall I, bereft of my daughter-in-law, now look upon my son's face?" Having lamented thus bitterly, overcome with grief, she left (the body of) her noble daughter-in-law and gave instructions:
+
+**5.** "Perform the holy rite befitting our family." And a kinsman then performed it. And Shachi went home, shedding copious tears from eyes restless with weeping.
+
+**6.** Soon her relatives and friends consoled her, and for a long time she remained as if at peace: she remembered her son's face, and her mouth was full of the name of Krishna.
+
+**7.** Some days later the Supreme Lord joyfully brought home what the great saints had offered Him — silver, gold and cloth.
+
+**8.** Seeing that her son had returned, radiant as the full moon, Shachi was not very glad at heart: she went to Him carrying in her heart the great pain of losing her daughter-in-law.
+
+**9.** The lotus-eyed Lord, seeing Shachi, fell at her feet and placed the dust of her feet on His head; and when He looked at His mother's face, all clouded over, He was greatly surprised.
+
+**10.** The Sinless One presented her with all the wealth He had gained and said, His words sprinkled with the nectar of a smile: "Tell Me, mother, why is your face so joyless today? How is your daughter-in-law?"
+
+**11.** Gladdened by these nectar-like words, Shachi, in a voice that failed at the memory of her excellent daughter-in-law, told Him from her heart the whole story, while drops rolled from her lotus eyes.
+
+**12.** At once His eyes grew moist and His body was filled with both grief and joy[^112-1]. Having heard these words, Madhusudana answered His mother, looking at her with eyes moist with compassion.
+
+**13.** Concealing everything with words strong to hide His own self, the Lord of the world said: "Listen to how this apsara, a heavenly maiden, recently came down to earth.
+
+**14.** Once, in the assembly of Maghavan[^112-2], the moon-faced apsara by the will of fate faltered for a moment in her dance step. Seeing this and having considered it, the lord of the gods cursed her: 'Become the daughter of a man!'
+
+**15.** Then she fell at his feet, and he said to her: 'Become the wife of the Lord of all, O lovely one! Having known the radiant feet of Hari, which even the gods can hardly attain, you will come back here again —
+
+**16.** ah, you will return! Go, most lovely one!' The words of the lord of the gods filled her with joy. And now, in the waters of the river of the gods, she has cast off the sin born of the curse of the lord of the gods, and has gone.
+
+**17.** Or else it was the Mistress of the world herself, in the form of Lakshmi, who went to the lotus feet of her Lord[^112-3]. So enough of grief: what must be comes to pass — the whole world is wrought by Time."
+
+**18.** Hearing these words of her moon-faced son, Shachi gave up her grief. Thus did Hari, having taken on a human nature, conceal His manifest glory.
+
+**19.** And it is no wonder at all that Bhagavan Himself told a story of the gods — He by the power of whose might the Grandsire creates and Ishvara destroys the three worlds[^112-4].
+
+*Thus ends the twelfth sarga, "The Removal of Sri Shachi's Grief; Lakshmi's Departure to Heaven" (Shri-shachi-shoka-apanodana, Lakshmi-svarga-gamana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^112-1]: The beginning of the verse is corrupt in all witnesses; the translation is conjectural.
+[^112-2]: Maghavan is Indra, king of the gods.
+[^112-3]: First the Lord tells the "concealing" story of the apsara (v. 13), and then hints at the truth: His consort is Lakshmi herself.
+[^112-4]: The Grandsire is Brahma; Ishvara is Shiva.

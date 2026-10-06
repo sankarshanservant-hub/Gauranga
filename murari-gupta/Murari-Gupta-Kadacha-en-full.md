@@ -36,6 +36,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 1, Sarga 6. The Description of the Pastimes from Birth among the Childhood Plays
   - Prakrama 1, Sarga 7. The Childhood Plays
   - Prakrama 1, Sarga 8. The Passing of Jagannatha Mishra
+  - Prakrama 1, Sarga 9. The Adhivasa before the Marriage to Lakshmi
+  - Prakrama 1, Sarga 10. The Wedding
+  - Prakrama 1, Sarga 11. The Festival of Sri Lakshmi's Departure
+  - Prakrama 1, Sarga 12. The Consolation of Shachi; Lakshmi's Departure to Heaven
 
 ---
 
@@ -2961,3 +2965,1407 @@ Bhaktisiddhanta Sarasvati.
 [^108-6]: Raghunatha ("Lord of the Raghus") is Ramachandra.
 [^108-7]: By poetic convention, pearls are born in the foreheads of elephants.
 [^108-8]: The sense of the word "dharadibhajanaih" is unclear; the translation is tentative.
+
+---
+
+## Prakrama 1, Sarga 9. The Adhivasa before the Marriage to Lakshmi
+
+*Vishvambhara studies under the scholars of Navadvipa; He meets Vallabhacharya's daughter on her way to the Ganga; Vanamali Acharya's proposal: Shachi's refusal and consent; Vallabhacharya's consent; preparations for the wedding and the adhivasa rite*
+
+### Verse 1
+
+ततः पपाठ स पुनः श्रीमान् श्रीविष्णुपण्डितात्।
+सुदर्शनात्पण्डिताच्च श्रीगङ्गादासपण्डितात्॥१॥
+
+*tataḥ papāṭha sa punaḥ śrīmān śrīviṣṇupaṇḍitāt|*
+*sudarśanātpaṇḍitācca śrīgaṅgādāsapaṇḍitāt||1||*
+
+*Word for word:* tatah — then; papatha — studied; sah — He; punah — further; shriman — the glorious; shri-vishnu-panditat — under Sri Vishnu Pandita; sudarshanat — under Sudarshana; panditat — Pandita; cha — and; shri-gangadasa-panditat — under Sri Gangadasa Pandita.
+
+**1.** Then the glorious Lord continued His studies — under Sri Vishnu Pandita, under Sudarshana Pandita and under Sri Gangadasa Pandita.
+
+### Verse 2
+
+ब्राह्मणेभ्यो ददौ विद्यां ये पण्डितमहत्तमाः।
+तेषां महोपकाराय तेभ्यो विद्यां गृहीतवान्॥२॥
+
+*brāhmaṇebhyo dadau vidyāṁ ye paṇḍitamahattamāḥ|*
+*teṣāṁ mahopakārāya tebhyo vidyāṁ gṛhītavān||2||*
+
+*Word for word:* brahmanebhyah — to brahmanas; dadau — He gave; vidyam — knowledge; ye — those who; pandita-mahattamah — the greatest of scholars; tesham — their; maha-upakaraya — for the great benefit; tebhyah — from them; vidyam — knowledge; grihitavan — He received.
+
+**2.** He Himself bestowed knowledge on brahmanas; and from those who were the greatest of scholars He received knowledge, for their own great benefit.
+
+### Verse 3
+
+लोकशिक्षामनुचरन् मायामनुजविग्रहः।
+ततः पठन् पण्डितेषु श्रीमत्सुदर्शनेषु च॥३॥
+
+*lokaśikṣāmanucaran māyāmanujavigrahaḥ|*
+*tataḥ paṭhan paṇḍiteṣu śrīmatsudarśaneṣu ca||3||*
+
+*Word for word:* loka-shiksham — the instruction of the world; anucharan — following; maya-manuja-vigrahah — whose human form is assumed by His own maya; tatah — then; pathan — studying; panditeshu — among the scholars; shrimat-sudarshaneshu — with the venerable Sudarshana; cha — and.
+
+**3.** For the instruction of the world, He whose human form is assumed by His own maya studied under the scholars and the venerable Sudarshana;
+
+### Verse 4
+
+सतीर्थैः प्रहसन् विप्रैर्हसद्भिः परिहासकम्।
+उवाच वङ्गजैर्वाक्यै रसज्ञः सस्मिताननः॥४॥
+
+*satīrthaiḥ prahasan viprairhasadbhiḥ parihāsakam|*
+*uvāca vaṅgajairvākyai rasajñaḥ sasmitānanaḥ||4||*
+
+*Word for word:* satirthaih — with fellow students; prahasan — laughing; vipraih — with brahmanas; hasadbhih — who were laughing; parihasakam — in jest; uvacha — spoke; vanga-jaih — born in Vanga (East Bengali); vakyaih — with words; rasa-jnah — the knower of rasas; sasmita-ananah — with a smiling face.
+
+**4.** and the knower of rasas, His face lit with a smile, would jest with His brahmana fellow students in the dialect of Vanga[^109-1], laughing with them as they laughed in return.
+
+### Verse 5
+
+ततः कालेन कियताचार्यस्य वनमालिनः।
+जगाम पुर्यां तं द्रष्टुं कौतुकात्प्रणतस्य सः॥५॥
+
+*tataḥ kālena kiyatācāryasya vanamālinaḥ|*
+*jagāma puryāṁ taṁ draṣṭuṁ kautukātpraṇatasya saḥ||5||*
+
+*Word for word:* tatah — then; kalena — after a time; kiyata — some; acharyasya — of the Acharya; vanamalinah — Vanamali; jagama — went; puryam — to the dwelling; tam — him; drashtum — to see; kautukat — out of eager delight; pranatasya — devoted (to Him); sah — He.
+
+**5.** Some time passed, and He went, eager and delighted, to the house of Vanamali Acharya, who was devoted to Him, to see him[^109-2].
+
+### Verse 6
+
+आभाष्य गच्छताचार्यं हरिणा ददृशे पथि।
+वल्लभाचार्यदुहिता सखीजनसमावृता॥६॥
+
+*ābhāṣya gacchatācāryaṁ hariṇā dadṛśe pathi|*
+*vallabhācāryaduhitā sakhījanasamāvṛtā||6||*
+
+*Word for word:* abhashya — having taken leave of; gachchhata — by (Him) going; acharyam — the Acharya; harina — by Hari; dadrishe — was seen; pathi — on the road; vallabha-acharya-duhita — the daughter of Vallabhacharya; sakhi-jana-samavrita — surrounded by her friends.
+
+**6.** Having taken leave of the Acharya, Hari was walking back when on the road He saw the daughter of Vallabhacharya, surrounded by her friends.
+
+### Verse 7
+
+स्नानार्थं जाह्नवीतोये गच्छन्ती रुचिरानना।
+दृष्ट्वा तां तादृशीं ज्ञात्वा मनसा जन्मकारणम्॥७॥
+
+*snānārthaṁ jāhnavītoye gacchantī rucirānanā|*
+*dṛṣṭvā tāṁ tādṛśīṁ jñātvā manasā janmakāraṇam||7||*
+
+*Word for word:* snana-artham — to bathe; jahnavi-toye — in the waters of the Jahnavi; gachchhanti — going; ruchira-anana — with a lovely face; drishtva — having seen; tam — her; tadrishim — such; jnatva — knowing; manasa — in His mind; janma-karanam — the reason for the birth.
+
+**7.** The lovely-faced girl was on her way to bathe in the waters of the Jahnavi. Seeing her so, and knowing in His heart why she had taken birth[^109-3],
+
+### Verse 8
+
+तस्या जगाम निलयं स्वमेव स्वजनैः सह।
+श्रीमान्विश्वम्भरो देवो विद्यारसकुतूहली॥८॥
+
+*tasyā jagāma nilayaṁ svameva svajanaiḥ saha|*
+*śrīmānviśvambharo devo vidyārasakutūhalī||8||*
+
+*Word for word:* tasyah — her (with janma-karanam, v. 7); jagama — went; nilayam — to the house; svam eva — His own; sva-janaih — with His companions; saha — together; shriman — the glorious; vishvambharah — Vishvambhara; devah — the Lord; vidya-rasa-kutuhali — delighting in the taste of learning.
+
+**8.** the glorious Lord Vishvambhara, who delighted in the taste of learning, returned with His companions to His own home.
+
+### Verse 9
+
+अपरेद्युः पुनस्तत्र वनमाली द्विजोत्तमः।
+आचार्यः श्रीहरेर्गेहमागत्य प्रणमन् शचीम्।
+उवाच मधुरां वाणीं श्रीमद्विश्वम्भरस्य ते॥९॥
+
+*aparedyuḥ punastatra vanamālī dvijottamaḥ|*
+*ācāryaḥ śrīharergehamāgatya praṇaman śacīm|*
+*uvāca madhurāṁ vāṇīṁ śrīmadviśvambharasya te||9||*
+
+*Word for word:* aparedyuh — the next day; punah — again; tatra — there; vanamali — Vanamali; dvija-uttamah — the best of brahmanas; acharyah — the Acharya; shri-hareh — of Sri Hari; geham — to the house; agatya — having come; pranaman — bowing; shachim — to Shachi; uvacha — spoke; madhuram — sweet; vanim — words; shrimad-vishvambharasya — of the glorious Vishvambhara; te — your.
+
+**9.** The next day Vanamali Acharya, the best of brahmanas, came there again — to the house of Sri Hari — and, bowing to Shachi, addressed her with sweet words:
+
+### Verse 10
+
+सुतस्योद्वाहनार्थाय कन्यां सुरसुतोपमाम्।
+वल्लभाचार्यवर्यस्य वरयस्व यदीच्छसि॥१०॥
+
+*sutasyodvāhanārthāya kanyāṁ surasutopamām|*
+*vallabhācāryavaryasya varayasva yadīcchasi||10||*
+
+*Word for word:* sutasya — of (your) son; udvahana-arthaya — for the marriage; kanyam — the maiden; sura-suta-upamam — like a daughter of the gods; vallabha-acharya-varyasya — of the excellent Vallabhacharya; varayasva — choose (as bride); yadi — if; ichchhasi — you wish.
+
+**10.** "If you wish to see your son, the glorious Vishvambhara, married, choose for Him as His bride the daughter of the excellent Vallabhacharya — a maiden like a daughter of the gods."
+
+### Verse 11
+
+एतच्छ्रुत्वा शची प्राह बालोऽसौ मम पुत्रकः।
+पित्रा विहीनः पठतु तत्रोद्योगो विधीयताम्॥११॥
+
+*etacchrutvā śacī prāha bālo'sau mama putrakaḥ|*
+*pitrā vihīnaḥ paṭhatu tatrodyogo vidhīyatām||11||*
+
+*Word for word:* etat — this; shrutva — hearing; shachi — Shachi; praha — said; balah — a boy; asau — He; mama — my; putrakah — little son; pitra — of a father; vihinah — bereft; pathatu — let Him study; tatra — to that; udyogah — effort; vidhiyatam — let be given.
+
+**11.** Hearing this, Shachi said: "My little son is still a boy, and He has lost His father. Let Him study — that is what we must see to."
+
+### Verse 12
+
+इति श्रुत्वा वचस्तस्या नातिहृष्टमना ययौ।
+आचार्यो दृष्टवांस्तत्र पथि कृष्णं मुदान्वितम्॥१२॥
+
+*iti śrutvā vacastasyā nātihṛṣṭamanā yayau|*
+*ācāryo dṛṣṭavāṁstatra pathi kṛṣṇaṁ mudānvitam||12||*
+
+*Word for word:* iti — thus; shrutva — hearing; vachah — the words; tasyah — her; na-ati-hrishta-manah — not very glad at heart; yayau — went away; acharyah — the Acharya; drishtavan — saw; tatra — there; pathi — on the road; krishnam — Krishna; muda-anvitam — full of joy.
+
+**12.** Having heard her, the Acharya went away not very glad at heart. And there, on the road, he saw Krishna, radiant with joy.
+
+### Verse 13
+
+भगवांस्तं प्रणम्याशु समालिङ्ग्य सुनिर्भरम्।
+क्व भवानद्य गन्तासि पप्रच्छ मधुरं वचः॥१३॥
+
+*bhagavāṁstaṁ praṇamyāśu samāliṅgya sunirbharam|*
+*kva bhavānadya gantāsi papraccha madhuraṁ vacaḥ||13||*
+
+*Word for word:* bhagavan — Bhagavan; tam — to him; pranamya — bowing; ashu — at once; samalingya — embracing; su-nirbharam — closely; kva — where; bhavan — you (respectful); adya — today; ganta asi — are going; paprachchha — asked; madhuram — sweet; vachah — words.
+
+**13.** At once Bhagavan bowed to him, embraced him warmly and asked him sweetly: "Where are you going today, sir?"
+
+### Verse 14
+
+स आह मातुश्चरणं तव दृष्ट्वा समागतः।
+निवेदितं मया तस्यै तवोद्वाहाय तत्र सा॥१४॥
+
+*sa āha mātuścaraṇaṁ tava dṛṣṭvā samāgataḥ|*
+*niveditaṁ mayā tasyai tavodvāhāya tatra sā||14||*
+
+*Word for word:* sah — he; aha — said; matuh — of the mother; charanam — the feet; tava — Your; drishtva — having seen; samagatah — I have come; niveditam — it was proposed; maya — by me; tasyai — to her; tava — Your; udvahaya — for the marriage; tatra — then; sa — she.
+
+**14.** He replied: "I have been to see Your mother's feet and proposed to her that You be married. But she
+
+### Verse 15
+
+श्रद्धां न विदधे तेन विमनाः संव्रजाम्यहम्।
+इत्युक्ते नोत्तरं दत्त्वा प्रहस्य प्रययौ हरिः॥१५॥
+
+*śraddhāṁ na vidadhe tena vimanāḥ saṁvrajāmyaham|*
+*ityukte nottaraṁ dattvā prahasya prayayau hariḥ||15||*
+
+*Word for word:* shraddham — confidence; na — not; vidadhe — she placed; tena — therefore; vimanah — downcast; samvrajami — am going; aham — I; iti — thus; ukte — when it was said; na — not; uttaram — a reply; dattva — giving; prahasya — laughing; prayayau — went on; harih — Hari.
+
+**15.** gave no credence to it, and so I go away downcast." When he had said this, Hari gave no reply; He only laughed and went on His way.
+
+### Verse 16
+
+आगत्य स्वाश्रमं प्राह मातरं किं त्वयोदितम्।
+आचार्याय वचः सोऽपि विमनाः पथि गच्छति॥१६॥
+
+*āgatya svāśramaṁ prāha mātaraṁ kiṁ tvayoditam|*
+*ācāryāya vacaḥ so'pi vimanāḥ pathi gacchati||16||*
+
+*Word for word:* agatya — coming; sva-ashramam — to His own home; praha — said; mataram — to His mother; kim — what; tvaya — by you; uditam — was said; acharyaya — to the Acharya; vachah — word; sah — he; api — indeed; vimanah — sad; pathi — along the road; gachchhati — is going.
+
+**16.** Coming home, He said to His mother: "What did you say to the Acharya? He is walking along the road so sad.
+
+### Verse 17
+
+कथं न तस्य सम्प्रीतिः कृता मातः प्रियोक्तिभिः।
+एतज्ज्ञात्वा सुतस्याशु मतमाप्तजनं पुनः॥१७॥
+
+*kathaṁ na tasya samprītiḥ kṛtā mātaḥ priyoktibhiḥ|*
+*etajjñātvā sutasyāśu matamāptajanaṁ punaḥ||17||*
+
+*Word for word:* katham — why; na — not; tasya — his; sampritih — satisfaction; krita — was given; matah — O mother; priya-uktibhih — with kind words; etat — this; jnatva — understanding; sutasya — of her son; ashu — at once; matam — the wish; apta-janam — a trusted person; punah — again.
+
+**17.** Why did you not please him with kind words, mother?" Understanding this wish of her son, the good Shachi at once sent a trusted person again
+
+### Verse 18
+
+आचार्यं त्वरया नेतुं प्रेषयामास सा शुभा।
+आचार्यः सहसागत्य नमस्कृत्याब्रवीदिदम्॥१८॥
+
+*ācāryaṁ tvarayā netuṁ preṣayāmāsa sā śubhā|*
+*ācāryaḥ sahasāgatya namaskṛtyābravīdidam||18||*
+
+*Word for word:* acharyam — the Acharya; tvaraya — quickly; netum — to bring; preshayamasa — sent; sa — she; shubha — the auspicious lady; acharyah — the Acharya; sahasa — at once; agatya — coming; namaskritya — bowing; abravit — said; idam — this.
+
+**18.** to bring the Acharya back quickly. The Acharya came at once, bowed and said:
+
+### Verse 19
+
+कथमीश्वरि मामाज्ञामकरोत्तद्ब्रवीतु मे।
+संप्रहृष्टो वचः श्रुत्वा भवत्याः सन्निधावहम्॥१९॥
+
+*kathamīśvari māmājñāmakarottadbravītu me|*
+*saṁprahṛṣṭo vacaḥ śrutvā bhavatyāḥ sannidhāvaham||19||*
+
+*Word for word:* katham — for what reason; ishvari — O mistress; mam — to me; ajnam — a command; akarot — (your ladyship) has given; tat — that; bravitu — may (your ladyship) tell; me — me; samprahrishtah — overjoyed; vachah — the message; shrutva — having heard; bhavatyah — of your ladyship; sannidhau — in the presence; aham — I (am).
+
+**19.** "For what purpose, mistress, has your ladyship summoned me? Let her tell me. I was overjoyed to hear your call, and here I am before you."
+
+### Verse 20
+
+एवमुक्ते ततः प्राह तं शची यत्त्वया वचः।
+उद्वाहार्थं तु कथितं तत्कर्तुं त्वमिहार्हसि॥२०॥
+
+*evamukte tataḥ prāha taṁ śacī yattvayā vacaḥ|*
+*udvāhārthaṁ tu kathitaṁ tatkartuṁ tvamihārhasi||20||*
+
+*Word for word:* evam — thus; ukte — when it was said; tatah — then; praha — said; tam — to him; shachi — Shachi; yat — which; tvaya — by you; vachah — word; udvaha-artham — concerning the marriage; tu — indeed; kathitam — was spoken; tat — that; kartum — to carry out; tvam — you; iha — here; arhasi — please.
+
+**20.** Then Shachi said to him: "What you proposed about the marriage — please carry it out.
+
+### Verse 21
+
+त्वं सुहृद्वत्सलोऽतीव सुतस्य स्वयमेव तत्।
+पुरा प्रोक्तं स्नेहवशात्तत्र त्वां किं वदाम्यहम्॥२१॥
+
+*tvaṁ suhṛdvatsalo'tīva sutasya svayameva tat|*
+*purā proktaṁ snehavaśāttatra tvāṁ kiṁ vadāmyaham||21||*
+
+*Word for word:* tvam — you; suhrit — a friend; vatsalah — loving; ativa — very; sutasya — to (my) son; svayam eva — yourself; tat — that; pura — before; proktam — was spoken; sneha-vashat — out of affection; tatra — about it; tvam — to you; kim — what; vadami — shall say; aham — I.
+
+**21.** You are a friend and dearly love my son; you yourself proposed it before out of affection — what more need I say to you?"
+
+### Verse 22
+
+एतच्छ्रुत्वा वचस्तस्याः प्राहाचार्यो नमन्वचः।
+ईश्वरि त्वद्वचो नित्यं करोमि शिरसा वहन्॥२२॥
+
+*etacchrutvā vacastasyāḥ prāhācāryo namanvacaḥ|*
+*īśvari tvadvaco nityaṁ karomi śirasā vahan||22||*
+
+*Word for word:* etat — these; shrutva — hearing; vachah — words; tasyah — her; praha — spoke; acharyah — the Acharya; naman — bowing; vachah — words; ishvari — O mistress; tvat-vachah — your word; nityam — always; karomi — I carry out; shirasa — on my head; vahan — bearing.
+
+**22.** Having heard her, the Acharya bowed and replied: "Mistress, your word I always carry out, bearing it on my head."
+
+### Verse 23
+
+इत्युक्त्वा प्रययौ तत्र वल्लभो मिश्रसत्तमः।
+यत्र तिष्ठति तत्रैव सोऽप्युद्यम्य त्वरान्वितः॥२३॥
+
+*ityuktvā prayayau tatra vallabho miśrasattamaḥ|*
+*yatra tiṣṭhati tatraiva so'pyudyamya tvarānvitaḥ||23||*
+
+*Word for word:* iti — thus; uktva — having said; prayayau — set out; tatra — there; vallabhah — Vallabha; mishra-sattamah — the best of Mishras; yatra — where; tishthati — lives; tatra eva — to that very place; sah — he; api — and; udyamya — rising; tvara-anvitah — in haste.
+
+**23.** So saying, he set out for the place where Vallabha, the best of Mishras, lived. Vallabha rose hastily to meet him,
+
+### Verse 24
+
+दिदेशासनमानीय स्वयमेव यथाविधि।
+मिश्रः पप्रच्छ विनयादाचार्यं वनमालिनम्॥२४॥
+
+*dideśāsanamānīya svayameva yathāvidhi|*
+*miśraḥ papraccha vinayādācāryaṁ vanamālinam||24||*
+
+*Word for word:* didesha — offered; asanam — a seat; aniya — bringing; svayam eva — himself; yatha-vidhi — as custom prescribes; mishrah — the Mishra; paprachchha — asked; vinayat — humbly; acharyam — the Acharya; vanamalinam — Vanamali.
+
+**24.** himself brought a seat and offered it as custom prescribes; then he humbly asked Vanamali Acharya:
+
+### Verse 25
+
+ममानुग्रह एवात्र तवागमनकारणम्।
+अन्यद्वास्ति कियत्कार्यं तदाज्ञां कर्तुमर्हसि॥२५॥
+
+*mamānugraha evātra tavāgamanakāraṇam|*
+*anyadvāsti kiyatkāryaṁ tadājñāṁ kartumarhasi||25||*
+
+*Word for word:* mama — to me; anugrahah — kindness; eva — only; atra — here; tava — your; agamana-karanam — the reason for coming; anyat — other; va — or; asti — is there; kiyat — some; karyam — business; tat — then; ajnam — command; kartum — to give; arhasi — please.
+
+**25.** "Has kindness to me alone brought you here, or is there some business? Then command me."
+
+### Verse 26
+
+एवमुक्ते ततः प्राहाचार्यः शृणु वचो मम।
+मिश्रपुरन्दरसुतः श्रीविश्वम्भरपण्डितः॥२६॥
+
+*evamukte tataḥ prāhācāryaḥ śṛṇu vaco mama|*
+*miśrapurandarasutaḥ śrīviśvambharapaṇḍitaḥ||26||*
+
+*Word for word:* evam — thus; ukte — when it was said; tatah — then; praha — said; acharyah — the Acharya; shrinu — hear; vachah — the word; mama — my; mishra-purandara-sutah — the son of Mishra Purandara; shri-vishvambhara-panditah — Sri Vishvambhara Pandita.
+
+**26.** At this the Acharya said: "Hear what I have to say. The son of Mishra Purandara, Sri Vishvambhara Pandita,
+
+### Verse 27
+
+स एव तव कन्याया योग्यः सद्गुणसंश्रयः।
+पतिस्तेन वदाम्यद्य देहि तस्मै सुतां शुभाम्॥२७॥
+
+*sa eva tava kanyāyā yogyaḥ sadguṇasaṁśrayaḥ|*
+*patistena vadāmyadya dehi tasmai sutāṁ śubhām||27||*
+
+*Word for word:* sah eva — He alone; tava — your; kanyayah — for the daughter; yogyah — fit; sat-guna-samshrayah — the abode of all virtues; patih — husband; tena — therefore; vadami — I say; adya — now; dehi — give; tasmai — to Him; sutam — daughter; shubham — your fair.
+
+**27.** the abode of every virtue — He is the one fit to be your daughter's husband. And so I tell you now: give Him your fair daughter."
+
+### Verse 28
+
+तच्छ्रुत्वा वचनं तस्य मिश्रः कार्यं विचार्य च।
+उवाच श्रूयतां भाग्यवशादेतद्भविष्यति॥२८॥
+
+*tacchrutvā vacanaṁ tasya miśraḥ kāryaṁ vicārya ca|*
+*uvāca śrūyatāṁ bhāgyavaśādetadbhaviṣyati||28||*
+
+*Word for word:* tat — that; shrutva — hearing; vachanam — speech; tasya — his; mishrah — the Mishra; karyam — the matter; vicharya — having considered; cha — and; uvacha — said; shruyatam — let it be heard; bhagya-vashat — by the power of good fortune; etat — this; bhavishyati — will come to pass.
+
+**28.** Having heard him, the Mishra considered the matter and said: "Listen: if good fortune wills it, this will come to pass.
+
+### Verse 29
+
+मया धनविहीनेन किञ्चिद्दातुं न शक्यते।
+कन्यकैव प्रदातव्या तत्राज्ञां कर्तुमर्हसि॥२९॥
+
+*mayā dhanavihīnena kiñciddātuṁ na śakyate|*
+*kanyakaiva pradātavyā tatrājñāṁ kartumarhasi||29||*
+
+*Word for word:* maya — by me; dhana-vihinena — who have no wealth; kinchit — anything; datum — to give; na — not; shakyate — can be; kanyaka — the girl; eva — only; pradatavya — is to be given; tatra — in that; ajnam — decision; kartum — to make; arhasi — please.
+
+**29.** But I am poor and can give nothing; only the girl herself can I give. Decide, then, what is to be done.
+
+### Verse 30
+
+यदि वा मे हरिः प्रीतो भगवान्दुहितुर्भवेत्।
+तदैव मे संभवति जामाता पण्डितोत्तमः॥३०॥
+
+*yadi vā me hariḥ prīto bhagavānduhiturbhavet|*
+*tadaiva me saṁbhavati jāmātā paṇḍitottamaḥ||30||*
+
+*Word for word:* yadi — if; va — indeed; me — with me; harih — Hari; pritah — pleased; bhagavan — Bhagavan; duhituh — with (my) daughter; bhavet — should be; tada eva — only then; me — my; sambhavati — becomes; jamata — son-in-law; pandita-uttamah — the best of scholars.
+
+**30.** If Bhagavan Hari is pleased with me and with my daughter — only then will the best of scholars become my son-in-law.
+
+### Verse 31
+
+रत्नेन मुक्तासंयोगो गुणेनैव यथा भवेत्।
+तथा भवद्गुणेनैवानयोर्योगो भविष्यति॥३१॥
+
+*ratnena muktāsaṁyogo guṇenaiva yathā bhavet|*
+*tathā bhavadguṇenaivānayoryogo bhaviṣyati||31||*
+
+*Word for word:* ratnena — with a gem; mukta-samyogah — the joining of a pearl; gunena — by a thread (by virtue); eva — only; yatha — as; bhavet — comes about; tatha — so; bhavad-gunena — by your virtue; eva — only; anayoh — of these two; yogah — the union; bhavishyati — will come about.
+
+**31.** As a pearl is joined to a gem only by a thread, so their union will come about only through your goodness[^109-4]."
+
+### Verse 32
+
+इत्युक्ते परमप्रीत आचार्यः प्राह सादरम्।
+भवद्विनयवात्सल्यात्सर्वं सम्पद्यते शुभम्॥३२॥
+
+*ityukte paramaprīta ācāryaḥ prāha sādaram|*
+*bhavadvinayavātsalyātsarvaṁ sampadyate śubham||32||*
+
+*Word for word:* iti — thus; ukte — when it was said; parama-pritah — greatly pleased; acharyah — the Acharya; praha — said; sa-adaram — respectfully; bhavad-vinaya-vatsalyat — owing to your humility and affection; sarvam — everything; sampadyate — will be accomplished; shubham — auspiciously.
+
+**32.** Greatly pleased at these words, the Acharya replied respectfully: "Thanks to your humility and affection, all will turn out well."
+
+### Verse 33
+
+इत्युक्त्वा पुनरागम्य सर्वं शच्यै न्यवेदयत्।
+आचार्यो गौरचन्द्रस्य विवाहानन्दनिर्वृतः॥३३॥
+
+*ityuktvā punarāgamya sarvaṁ śacyai nyavedayat|*
+*ācāryo gauracandrasya vivāhānandanirvṛtaḥ||33||*
+
+*Word for word:* iti — thus; uktva — having spoken; punah — again; agamya — coming; sarvam — everything; shachyai — to Shachi; nyavedayat — reported; acharyah — the Acharya; gaura-chandrasya — of Gaurachandra; vivaha-ananda-nirvritah — blissful with joy at the wedding.
+
+**33.** So saying, the Acharya returned and told Shachi everything, blissful with joy at Gaurachandra's wedding.
+
+### Verse 34
+
+एतत्सर्वं संविदित्वा सुतं प्रोवाच सा शची।
+समयोऽयं कुरुष्वात्र तात वैवाहिकं विधिम्॥३४॥
+
+*etatsarvaṁ saṁviditvā sutaṁ provāca sā śacī|*
+*samayo'yaṁ kuruṣvātra tāta vaivāhikaṁ vidhim||34||*
+
+*Word for word:* etat — this; sarvam — all; samviditva — having learned; sutam — to her son; provacha — said; sa — she; shachi — Shachi; samayah — the time; ayam — this (is); kurushva — perform; atra — now; tata — my child; vaivahikam — the marriage; vidhim — rite.
+
+**34.** When she had learned all this, Shachi said to her son: "The time has come, my child: now perform the marriage rite."
+
+### Verse 35
+
+तच्छ्रुत्वा वचनं मातुर्विमृश्य मनसा हरिः।
+आज्ञां तस्याः पुरस्कृत्य द्रव्याण्याशु समाहरत्॥३५॥
+
+*tacchrutvā vacanaṁ māturvimṛśya manasā hariḥ|*
+*ājñāṁ tasyāḥ puraskṛtya dravyāṇyāśu samāharat||35||*
+
+*Word for word:* tat — that; shrutva — hearing; vachanam — the word; matuh — of His mother; vimrishya — reflecting; manasa — in His mind; harih — Hari; ajnam — the command; tasyah — her; puraskritya — honouring; dravyani — the requisites; ashu — quickly; samaharat — gathered.
+
+**35.** Having heard His mother's words, Hari reflected in His mind and, honouring her command, quickly gathered all that was needed.
+
+### Verse 36
+
+ततो वैवाहिके काले मङ्गले सद्गुणाश्रये।
+सर्वेषामेव शुभदे मृदङ्गपणवाहते॥३६॥
+
+*tato vaivāhike kāle maṅgale sadguṇāśraye|*
+*sarveṣāmeva śubhade mṛdaṅgapaṇavāhate||36||*
+
+*Word for word:* tatah — then; vaivahike — at the wedding; kale — time; mangale — auspicious; sat-guna-ashraye — the abode of good qualities; sarvesham — to all; eva — indeed; shubha-de — bestowing blessing; mridanga-panava-ahate — when mridangas and panava drums were beaten.
+
+**36.** Then came the auspicious time of the wedding — the abode of every good quality, bringing blessing to all. Mridangas and panava drums were beaten,
+
+### Verse 37
+
+भूदेवगणसङ्घस्य वेदध्वनिनिनादिते।
+दीपमालापताकाद्यैरलङ्कृतदिगन्तरे॥३७॥
+
+*bhūdevagaṇasaṅghasya vedadhvanininādite|*
+*dīpamālāpatākādyairalaṅkṛtadigantare||37||*
+
+*Word for word:* bhudeva-gana-sanghasya — of the assembled hosts of brahmanas; veda-dhvani-ninadite — resounding with the sound of the Vedas; dipa-mala-pataka-adyaih — with rows of lamps, flags and the like; alankrita-dig-antare — when the quarters were adorned.
+
+**37.** the chanting of the Vedas rose from the great assembly of brahmanas, all the quarters were adorned with rows of lamps, flags and the like,
+
+### Verse 38
+
+देवदार्वगुरूशीरचन्दनादिप्रधूपिते।
+अधिवासं हरेश्चक्रे विवाहे द्विजसत्तमाः॥३८॥
+
+*devadārvagurūśīracandanādipradhūpite|*
+*adhivāsaṁ hareścakre vivāhe dvijasattamāḥ||38||*
+
+*Word for word:* devadaru-aguru-ushira-chandana-adi-pradhupite — perfumed with the incense of deodar, aguru, ushira, sandal and so on; adhivasam — the adhivasa; hareh — of Hari; chakre — performed; vivahe — for the wedding; dvija-sattamah — the best of brahmanas.
+
+**38.** and everything was fragrant with the incense of deodar, aguru, ushira, sandal and other scents — and the best of brahmanas performed for Hari the pre-wedding rite of adhivasa[^109-5].
+
+*Thus ends the ninth sarga, "The Adhivasa before the Marriage to Sri Lakshmi" (Shri-lakshmy-udvahe adhivasa-prasanga), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^109-1]: Vanga is the eastern part of Bengal; the family of Jagannatha Mishra came from there (from Shrihatta).
+[^109-2]: Vanamali Acharya, a brahmana of Navadvipa, took on the role of matchmaker.
+[^109-3]: Vallabhacharya's daughter is Lakshmipriya, Lakshmi herself, who appeared in order to become the Lord's consort.
+[^109-4]: A play on words: guna means both "thread" and "virtue."
+[^109-5]: The adhivasa is a rite of consecration on the eve of a wedding or other festival: the bridegroom is anointed with sandal paste, adorned with flowers and surrounded with incense.
+
+---
+
+## Prakrama 1, Sarga 10. The Wedding
+
+*The adhivasa and the nandimukha shraddha; Vishvambhara's tears for His father and His consolation; the wedding procession to Vallabhacharya's house; the giving away of the bride; the Lord's return home with Lakshmi*
+
+### Verse 1
+
+ततो द्विजेभ्यः प्रददौ मुहुर्मुहुः पूगानि माल्यानि च गन्धवन्ति।
+सचन्दनं गन्धमनन्यसौरभं जनाश्च सर्वे जहृषुर्जगुर्मुदा॥१॥
+
+*tato dvijebhyaḥ pradadau muhurmuhuḥ pūgāni mālyāni ca gandhavanti|*
+*sacandanaṁ gandhamananyasaurabhaṁ janāśca sarve jahṛṣurjagurmudā||1||*
+
+*Word for word:* tatah — then; dvijebhyah — to the brahmanas; pradadau — He gave; muhuh muhuh — again and again; pugani — betel nuts; malyani — garlands; cha — and; gandhavanti — fragrant; sa-chandanam — with sandal; gandham — perfume; ananya-saurabham — of incomparable fragrance; janah — the people; cha — and; sarve — all; jahrishuh — rejoiced; jaguh — sang; muda — with joy.
+
+**1.** Then again and again He gave the brahmanas betel nuts, fragrant garlands and perfumes with sandal of incomparable fragrance; and all the people rejoiced and sang for joy.
+
+### Verse 2
+
+स वल्लभोऽभ्येत्य सुमङ्गलैर्द्विजैर्नरैश्च भूदेवपतिव्रतादिभिः।
+जामातरं गन्धसुगन्धिमाल्यैः शुभाधिवासं विदधे समर्च्य तम्॥२॥
+
+*sa vallabho'bhyetya sumaṅgalairdvijairnaraiśca bhūdevapativratādibhiḥ|*
+*jāmātaraṁ gandhasugandhimālyaiḥ śubhādhivāsaṁ vidadhe samarcya tam||2||*
+
+*Word for word:* sah — he; vallabhah — Vallabha; abhyetya — arriving; su-mangalaih — auspicious; dvijaih — with brahmanas; naraih — with men; cha — and; bhudeva-pativrata-adibhih — with the chaste wives of brahmanas and others; jamataram — the son-in-law; gandha-sugandhi-malyaih — with perfumes and fragrant garlands; shubha-adhivasam — the auspicious adhivasa; vidadhe — performed; samarchya — having honoured; tam — Him.
+
+**2.** Vallabha too arrived — with auspicious brahmanas, with men, with the chaste wives of brahmanas and others — honoured his son-in-law with perfumes and fragrant garlands, and performed for Him the auspicious adhivasa.
+
+### Verse 3
+
+अथ प्रभाते विमलेऽरुणेऽर्के स्वयं कृतस्नानविधिर्यथावत्।
+हरिः समभ्यर्च्य पितॄन्सुरादीन्नान्दीमुखश्राद्धमथाकरोद्द्विजैः॥३॥
+
+*atha prabhāte vimale'ruṇe'rke svayaṁ kṛtasnānavidhiryathāvat|*
+*hariḥ samabhyarcya pitṝnsurādīnnāndīmukhaśrāddhamathākaroddvijaiḥ||3||*
+
+*Word for word:* atha — then; prabhate — in the morning; vimale — when clear; arune — red; arke — the sun; svayam — Himself; krita-snana-vidhih — having performed His bath; yathavat — duly; harih — Hari; samabhyarchya — having worshipped; pitrin — the ancestors; sura-adin — the gods and others; nandimukha-shraddham — the nandimukha shraddha; atha — then; akarot — performed; dvijaih — with the brahmanas.
+
+**3.** In the morning, when the sun had risen clear and red, Hari Himself duly performed His bath, worshipped the ancestors, the gods and the rest, and then together with the brahmanas performed the nandimukha shraddha[^110-1].
+
+### Verse 4
+
+ततो द्विजानां यजुषां सुनिस्वनैर्मृदङ्गभेरीपटहादिनादितैः।
+वराङ्गनावक्त्रसरोजमङ्गलोज्ज्वलस्वनैराववृधे महोत्सवः॥४॥
+
+*tato dvijānāṁ yajuṣāṁ sunisvanairmṛdaṅgabherīpaṭahādināditaiḥ|*
+*varāṅganāvaktrasarojamaṅgalojjvalasvanairāvavṛdhe mahotsavaḥ||4||*
+
+*Word for word:* tatah — then; dvijanam — of the brahmanas; yajusham — of the Yajus hymns; su-nisvanaih — with the lovely sound; mridanga-bheri-pataha-adi-naditaih — with the sounds of mridangas, bheris, patahas and other drums; vara-angana-vaktra-saroja-mangala-ujjvala-svanaih — with the bright, auspicious cries from the lotus mouths of lovely women; avavridhe — swelled; maha-utsavah — the great festival.
+
+**4.** And the great festival swelled: the lovely chanting of the Yajur Veda rose from the brahmanas, mridangas, bheris, patahas and other drums resounded, and bright, auspicious cries rang out from the lotus mouths of lovely women[^110-2].
+
+### Verse 5
+
+शची सुसंपूज्य कुलस्त्रियं मुदा तत्रागतान्बन्धुजनांश्च सर्वशः।
+उवाच किं भर्तृविहीनया मया कर्तव्यमेवात्र भवद्विधैः स्वयम्॥५॥
+
+*śacī susaṁpūjya kulastriyaṁ mudā tatrāgatānbandhujanāṁśca sarvaśaḥ|*
+*uvāca kiṁ bhartṛvihīnayā mayā kartavyamevātra bhavadvidhaiḥ svayam||5||*
+
+*Word for word:* shachi — Shachi; su-sampujya — having richly honoured; kula-striyam — the women of the family; muda — joyfully; tatra — there; agatan — who had come; bandhu-janan — the kinsfolk; cha — and; sarvashah — all; uvacha — said; kim — what; bhartri-vihinaya — bereft of a husband; maya — by me; kartavyam — is to be done; eva — indeed; atra — here; bhavad-vidhaih — by such as you; svayam — yourselves.
+
+**5.** Shachi joyfully honoured the women of the family and all the kinsfolk who had gathered, and said: "What can I do, bereft of my husband? Here everything must be done by such as you yourselves."
+
+### Verse 6
+
+स्वमातुरित्थं करुणान्वितं वचो निशम्य तातं परितप्तचित्तः।
+मुक्ताफलस्थूलतराश्रुबिन्दूनुवाह वक्षःस्थलहारविभ्रमान्॥६॥
+
+*svamāturitthaṁ karuṇānvitaṁ vaco niśamya tātaṁ paritaptacittaḥ|*
+*muktāphalasthūlatarāśrubindūnuvāha vakṣaḥsthalahāravibhramān||6||*
+
+*Word for word:* sva-matuh — of His mother; ittham — such; karuna-anvitam — full of pathos; vachah — words; nishamya — hearing; tatam — for His father; paritapta-chittah — His heart burning; mukta-phala-sthulatara-ashru-bindun — teardrops larger than pearls; uvaha — He shed; vakshah-sthala-hara-vibhraman — resembling a necklace on His chest.
+
+**6.** Hearing these sorrowful words from His mother, He longed for His father and His heart burned; He shed teardrops larger than pearls, and they were like a necklace on His chest.
+
+### Verse 7
+
+निरीक्ष्य पुत्रं करुणान्वितं शची सुविस्मिता प्राह पतिव्रताभिः।
+पितः कथं मङ्गलकर्मणि स्वयममङ्गलं वारि विमुञ्चसे दृशोः॥७॥
+
+*nirīkṣya putraṁ karuṇānvitaṁ śacī suvismitā prāha pativratābhiḥ|*
+*pitaḥ kathaṁ maṅgalakarmaṇi svayamamaṅgalaṁ vāri vimuñcase dṛśoḥ||7||*
+
+*Word for word:* nirikshya — seeing; putram — her son; karuna-anvitam — full of sorrow; shachi — Shachi; su-vismita — greatly astonished; praha — said; pativratabhih — together with the chaste wives; pitah — "father" (an endearment for a son); katham — why; mangala-karmani — during an auspicious rite; svayam — Yourself; amangalam — inauspicious; vari — water; vimunchase — You shed; drishoh — from Your eyes.
+
+**7.** Seeing her son so full of sorrow, Shachi, astonished, said together with the chaste wives: "My child[^110-3], why do You Yourself, at an auspicious rite, shed this inauspicious water from Your eyes?"
+
+### Verse 8
+
+स मातुरित्थं वचनं निपीय पितृस्मृतिश्वासमलीमसाननः।
+मातुः समीपं प्रतिवाचमाददे नवीनगम्भीरघनस्वनं यथा॥८॥
+
+*sa māturitthaṁ vacanaṁ nipīya pitṛsmṛtiśvāsamalīmasānanaḥ|*
+*mātuḥ samīpaṁ prativācamādade navīnagambhīraghanasvanaṁ yathā||8||*
+
+*Word for word:* sah — He; matuh — of His mother; ittham — such; vachanam — speech; nipiya — having drunk in; pitri-smriti-shvasa-malimasa-ananah — His face darkened by sighs at the memory of His father; matuh — of His mother; samipam — near; prativacham — a reply; adade — uttered; navina-gambhira-ghana-svanam — the deep thunder of a fresh rain-cloud; yatha — like.
+
+**8.** Having drunk in His mother's words, He, His face darkened by sighs at the memory of His father, stood by her and replied in a voice as deep as the thunder of a fresh rain-cloud:
+
+### Verse 9
+
+धनानि वा मे मनुजाश्च मातर्न सन्ति किं येन वचः समीरितम्।
+त्वयाद्य दीनेव पराश्रयं यतः पिता ममादर्शनतामगादिति॥९॥
+
+*dhanāni vā me manujāśca mātarna santi kiṁ yena vacaḥ samīritam|*
+*tvayādya dīneva parāśrayaṁ yataḥ pitā mamādarśanatāmagāditi||9||*
+
+*Word for word:* dhanani — wealth; va — or; me — to Me; manujah — people; cha — and; matah — O mother; na — not; santi — are there; kim — is it that; yena — so that; vachah — words; samiritam — were spoken; tvaya — by you; adya — today; dina — a helpless woman; iva — like; para-ashrayam — leaning on others; yatah — since; pita — father; mama — My; adarshanatam — invisibility; agat — has gone to; iti — thinking.
+
+**9.** "Mother, have I no wealth and no people, that today you spoke like a helpless woman, as though we had no one to lean on — because, you think, My father has gone and is seen no more?
+
+### Verse 10
+
+त्वयैव दृष्टं द्विजसज्जनेभ्यः सुपूगपूर्णानि च भाजनानि।
+वारत्रयं दातुमनन्यसारं सर्वाङ्गसंलेपनयोग्यगन्धम्॥१०॥
+
+*tvayaiva dṛṣṭaṁ dvijasajjanebhyaḥ supūgapūrṇāni ca bhājanāni|*
+*vāratrayaṁ dātumananyasāraṁ sarvāṅgasaṁlepanayogyagandham||10||*
+
+*Word for word:* tvaya eva — by you yourself; drishtam — it was seen; dvija-sajjanebhyah — to brahmanas and good people; su-puga-purnani — full of choice betel nuts; cha — and; bhajanani — vessels; vara-trayam — three times; datum — being given; ananya-saram — of unrivalled quality; sarva-anga-samlepana-yogya-gandham — perfume enough to anoint the whole body.
+
+**10.** You yourself saw how, three times over, brahmanas and good people were given vessels full of choice betel nuts and perfumes of unrivalled quality, enough to anoint the whole body.
+
+### Verse 11
+
+अन्येषु योग्येषु च सुव्ययो यत्तत्त्वं विजानासि यथा यथेष्टम्।
+अमर्त्यकार्येषु ममास्ति शक्तिस्तथापि लोकाचरितं करोमि॥११॥
+
+*anyeṣu yogyeṣu ca suvyayo yattattvaṁ vijānāsi yathā yatheṣṭam|*
+*amartyakāryeṣu mamāsti śaktistathāpi lokācaritaṁ karomi||11||*
+
+*Word for word:* anyeshu — on others; yogyeshu — worthy; cha — and; su-vyayah — generous spending; yat — which; tat — that; tvam — you; vijanasi — know; yatha — how; yatha-ishtam — as much as was wished; amartya-karyeshu — for superhuman deeds; mama — My; asti — there is; shaktih — power; tatha api — even so; loka-acharitam — the ways of the world; karomi — I follow.
+
+**11.** And how generously it was spent on other worthy people — you know that: on each as much as he wished. I have the power to do deeds beyond mortals, and yet I follow the ways of the world.
+
+### Verse 12
+
+पित्रा विहीनोऽहमगाधशक्तिस्तथापि मातुर्वचसा दुनोमि।
+इतीरितं तस्य निशम्य माता तं शान्तयित्वा मधुरैर्वचोभिः॥१२॥
+
+*pitrā vihīno'hamagādhaśaktistathāpi māturvacasā dunomi|*
+*itīritaṁ tasya niśamya mātā taṁ śāntayitvā madhurairvacobhiḥ||12||*
+
+*Word for word:* pitra — of a father; vihinah — bereft; aham — I; agadha-shaktih — of fathomless power; tatha api — even so; matuh — of mother; vachasa — by the words; dunomi — am pained; iti — thus; iritam — spoken; tasya — His; nishamya — hearing; mata — the mother; tam — Him; shantayitva — having calmed; madhuraih — with sweet; vachobhih — words.
+
+**12.** I may have lost My father, but My power is fathomless; even so, My mother's words wound Me." Hearing what He said, His mother calmed Him with sweet words.
+
+### Verse 13
+
+प्रसाधनैरंशुकरत्नयुग्मैर्विभूषयामासुरनर्घ्यमाल्यैः।
+श्रीगौरचन्द्रं जगदेकबन्धुं स्त्रीणां मनोज्ञं रुचिरं स्मयेन॥१३॥
+
+*prasādhanairaṁśukaratnayugmairvibhūṣayāmāsuranarghyamālyaiḥ|*
+*śrīgauracandraṁ jagadekabandhuṁ strīṇāṁ manojñaṁ ruciraṁ smayena||13||*
+
+*Word for word:* prasadhanaih — with cosmetics; amshuka-ratna-yugmaih — with pairs of garments and with jewels; vibhushayam asuh — they adorned; anarghya-malyaih — with priceless garlands; shri-gaura-chandram — Sri Gaurachandra; jagat-eka-bandhum — the one friend of the world; strinam — to women; manojnam — charming; ruchiram — beautiful; smayena — with His smile.
+
+**13.** And Sri Gaurachandra — the one friend of the world, charming to women, beautiful in His smile — was adorned with cosmetics, pairs of garments, jewels and priceless garlands,
+
+### Verse 14
+
+सचन्दनैरागुरुसारगन्धैः समालिपन्पुत्रमदीनश्रद्धाः।
+तदा कुमाराः पृथिवीसुराणां समागताः पुरुषर्षभं शुभे॥१४॥
+
+*sacandanairāgurusāragandhaiḥ samālipanputramadīnaśraddhāḥ|*
+*tadā kumārāḥ pṛthivīsurāṇāṁ samāgatāḥ puruṣarṣabhaṁ śubhe||14||*
+
+*Word for word:* sa-chandanaih — with sandal; aguru-sara-gandhaih — with perfumes of choice aguru; samalipan — anointed; putram — the son (of Shachi); adina-shraddhah — with unflagging faith; tada — then; kumarah — the sons; prithivi-suranam — of the brahmanas ("gods on earth"); samagatah — who had come; purusha-rishabham — to the bull among men; shubhe — at the auspicious (hour).
+
+**14.** and with unflagging faith anointed with sandal and the perfumes of choice aguru: this was done by the sons of the brahmanas, who had come at that auspicious hour to Him, the bull among men.
+
+### Verse 15
+
+तस्मिन्क्षणे वल्लभमिश्रवर्यः कार्यं पितॄणामथ देवतानाम्।
+समाप्य कन्यां वरहेमगौरीं विभूषितामाभरणैः स चक्रे॥१५॥
+
+*tasminkṣaṇe vallabhamiśravaryaḥ kāryaṁ pitṝṇāmatha devatānām|*
+*samāpya kanyāṁ varahemagaurīṁ vibhūṣitāmābharaṇaiḥ sa cakre||15||*
+
+*Word for word:* tasmin — at that; kshane — moment; vallabha-mishra-varyah — the excellent Vallabha Mishra; karyam — the rite; pitrinam — to the ancestors; atha — and; devatanam — to the deities; samapya — having completed; kanyam — his daughter; vara-hema-gaurim — fair as the finest gold; vibhushitam — adorned; abharanaih — with ornaments; sah — he; chakre — made.
+
+**15.** At that same hour the excellent Vallabha Mishra, having completed the rites for the ancestors and the gods, adorned with ornaments his daughter, fair as the finest gold.
+
+### Verse 16
+
+ततो द्विजानानयने वरेण्यान्वरस्य संप्रेषितवान्समेत्य।
+ऊचुश्च ते मङ्गलपूर्वमाशु शुभाय यात्रां कुरु सामघोषैः॥१६॥
+
+*tato dvijānānayane vareṇyānvarasya saṁpreṣitavānsametya|*
+*ūcuśca te maṅgalapūrvamāśu śubhāya yātrāṁ kuru sāmaghoṣaiḥ||16||*
+
+*Word for word:* tatah — then; dvijan — brahmanas; anayane — to bring; varenyan — most worthy; varasya — the bridegroom; sampreshitavan — he sent; sametya — arriving; uchuh — said; cha — and; te — they; mangala-purvam — with blessings; ashu — quickly; shubhaya — for good fortune; yatram — the procession; kuru — make; sama-ghoshaih — to the chanting of the Sama Veda.
+
+**16.** Then he sent the most worthy brahmanas to bring the bridegroom. They came and said with blessings: "For good fortune, set out quickly, to the chanting of the Sama Veda!"
+
+### Verse 17
+
+स्वयं हरिर्विप्रवरस्य सज्जनैर्मनुष्ययानैर्जयनिस्वनैर्ययौ।
+प्रदीप्तदीपावलिभिर्निकेतनं मिश्रस्य हैमं शिखरं शिवो यथा॥१७॥
+
+*svayaṁ harirvipravarasya sajjanairmanuṣyayānairjayanisvanairyayau|*
+*pradīptadīpāvalibhirniketanaṁ miśrasya haimaṁ śikharaṁ śivo yathā||17||*
+
+*Word for word:* svayam — Himself; harih — Hari; vipra-varasya — of the best of brahmanas; sajjanaih — with the good people; manushya-yanaih — in palanquins; jaya-nisvanaih — with cries of "Victory!"; yayau — went; pradipta-dipa-avalibhih — with rows of blazing lamps; niketanam — to the house; mishrasya — of the Mishra; haimam — to the golden; shikharam — peak; shivah — Shiva; yatha — as.
+
+**17.** And Hari Himself, in a palanquin, with the good people sent by the best of brahmanas, amid cries of "Victory!" and rows of blazing lamps, set out for the Mishra's house — as Shiva once went to the golden peak[^110-4].
+
+### Verse 18
+
+ततोऽभिगम्याश्रममात्मनो नयन्मिश्रः स्वयं तं वरयांबभूव।
+पाद्यादिना गन्धवरांशुमाल्यैर्धूपैस्तथैवागुरुसारयुक्तैः॥१८॥
+
+*tato'bhigamyāśramamātmano nayanmiśraḥ svayaṁ taṁ varayāṁbabhūva|*
+*pādyādinā gandhavarāṁśumālyairdhūpaistathaivāgurusārayuktaiḥ||18||*
+
+*Word for word:* tatah — then; abhigamya — coming out to meet; ashramam — to the house; atmanah — his own; nayan — leading; mishrah — the Mishra; svayam — himself; tam — Him; varayam babhuva — honoured as bridegroom; padya-adina — with water for the feet and the rest; gandha-vara-amshu-malyaih — with the finest perfumes, garments and garlands; dhupaih — with incense; tatha eva — and likewise; aguru-sara-yuktaih — mixed with choice aguru.
+
+**18.** The Mishra came out to meet Him, himself led Him into his house and honoured Him as bridegroom: with water for His feet and the rest, with the finest perfumes, garments and garlands, and with incense of choice aguru.
+
+### Verse 19
+
+बभौ वरः पूर्णनिशाकरप्रभो जितस्मरस्मेरमुखेन रोचिषा।
+प्रतप्तचामीकररोचिषा लसत्सुमेरुशुद्धोज्ज्वलदेहयष्टिः॥१९॥
+
+*babhau varaḥ pūrṇaniśākaraprabho jitasmarasmeramukhena rociṣā|*
+*prataptacāmīkararociṣā lasatsumeruśuddhojjvaladehayaṣṭiḥ||19||*
+
+*Word for word:* babhau — shone; varah — the bridegroom; purna-nishakara-prabhah — radiant as the full moon; jita-smara-smera-mukhena — with a smiling face that surpassed Kama; rochisha — with splendour; pratapta-chamikara-rochisha — with the lustre of molten gold; lasat — gleaming; sumeru-shuddha-ujjvala-deha-yashtih — His slender body pure and bright as Sumeru.
+
+**19.** The bridegroom shone like the full moon: His smiling face outshone Kama, and His slender body, pure and bright as Sumeru, gleamed with the lustre of molten gold.
+
+### Verse 20
+
+करद्वयेनाङ्गदकङ्कणाङ्गुरीविराजितेनाब्जतलाभिशोभिना।
+अनल्पकल्पद्रुममाशु चक्रे समाश्रितानामभिलाषदो हरिः॥२०॥
+
+*karadvayenāṅgadakaṅkaṇāṅgurīvirājitenābjatalābhiśobhinā|*
+*analpakalpadrumamāśu cakre samāśritānāmabhilāṣado hariḥ||20||*
+
+*Word for word:* kara-dvayena — with His two arms; angada-kankana-anguri-virajitena — glittering with armlets, bracelets and rings; abja-tala-abhishobhina — beautiful with lotus palms; analpa-kalpa-drumam — into a mighty wish-fulfilling tree; ashu — at once; chakre — made (Himself); samashritanam — of those who take shelter; abhilasha-dah — the giver of desires; harih — Hari.
+
+**20.** His arms glittered with armlets, bracelets and rings, His palms were lovely as lotuses — and Hari, who grants the desires of all who take shelter of Him, at once became like a mighty wish-fulfilling tree.
+
+### Verse 21
+
+सुतां समानीय निशाकरप्रभां प्रभाविनिध्वस्ततमःसमग्राम्।
+स्वलङ्कृतां साधु ददौ जगद्गुरोः पादे विरेजेऽथ तयोरभिख्या॥२१॥
+
+*sutāṁ samānīya niśākaraprabhāṁ prabhāvinidhvastatamaḥsamagrām|*
+*svalaṅkṛtāṁ sādhu dadau jagadguroḥ pāde vireje'tha tayorabhikhyā||21||*
+
+*Word for word:* sutam — his daughter; samaniya — bringing; nishakara-prabham — radiant as the moon; prabha-vinidhvasta-tamah-samagram — who dispelled all darkness by her radiance; su-alankritam — beautifully adorned; sadhu — duly; dadau — he gave; jagat-guroh — of the Teacher of the world; pade — at the feet; vireje — shone forth; atha — then; tayoh — of the two; abhikhya — the beauty.
+
+**21.** Vallabha brought his daughter, beautifully adorned and radiant as the moon — her radiance dispelled all darkness — and duly gave her at the feet of the Teacher of the world. And then the beauty of the two shone forth.
+
+### Verse 22
+
+तयोर्मुखेन्दुः समरोज्ज्वलश्रिया सरोहिणीचन्द्रसमः सुशोभाम्।
+पुपोषतुः पुष्पचयैरसिञ्चतां परस्परं तौ हरपार्वतीव॥२२॥
+
+*tayormukhenduḥ samarojjvalaśriyā sarohiṇīcandrasamaḥ suśobhām|*
+*pupoṣatuḥ puṣpacayairasiñcatāṁ parasparaṁ tau harapārvatīva||22||*
+
+*Word for word:* tayoh — of the two; mukha-induh — the moon of the face; samara-ujjvala-shriya — with beauty blazing as if in contest; sa-rohini-chandra-samah — like the moon with Rohini; su-shobham — loveliness; puposhatuh — the two increased; pushpa-chayaih — with handfuls of flowers; asinchatam — showered; parasparam — each other; tau — the two; hara-parvati — Hara and Parvati; iva — like.
+
+**22.** Their moon-like faces, blazing with beauty as if in contest, were like the moon with Rohini[^110-5]; they heightened each other's loveliness and, like Hara and Parvati, showered each other with handfuls of flowers.
+
+### Verse 23
+
+अथोपविष्टे कमलाधिनाथे लक्ष्मीश्च तत्रोपविवेश ह्रीयुता।
+पुरस्ततोऽभ्येत्य शुचिः समाविशद्दातुं स कन्यां विधिना विधानवित्॥२३॥
+
+*athopaviṣṭe kamalādhināthe lakṣmīśca tatropaviveśa hrīyutā|*
+*purastato'bhyetya śuciḥ samāviśaddātuṁ sa kanyāṁ vidhinā vidhānavit||23||*
+
+*Word for word:* atha — then; upavishte — when He was seated; kamala-adhinathe — the Lord of Kamala; lakshmih — Lakshmi; cha — and; tatra — there; upavivesha — sat down; hri-yuta — shyly; purah — in front; tatah — then; abhyetya — approaching; shuchih — pure; samavishat — sat down; datum — to give; sah — he; kanyam — his daughter; vidhina — according to rule; vidhana-vit — the knower of rites.
+
+**23.** When the Lord of Kamala had taken His seat, Lakshmi too sat down there shyly. Then the pure Vallabha, versed in the rites, came forward and sat before them to give away his daughter according to rule.
+
+### Verse 24
+
+यस्याङ्घ्रिपद्मे विनिवेद्य पाद्यं प्रजापतिः प्राप जगत्सिसृक्षाम्।
+तत्रैव पाद्यं विदधे स वल्लभो नखद्युतिध्वस्ततमःसमूहे॥२४॥
+
+*yasyāṅghripadme vinivedya pādyaṁ prajāpatiḥ prāpa jagatsisṛkṣām|*
+*tatraiva pādyaṁ vidadhe sa vallabho nakhadyutidhvastatamaḥsamūhe||24||*
+
+*Word for word:* yasya — whose; anghri-padme — to the lotus feet; vinivedya — having offered; padyam — water for the feet; prajapatih — Prajapati; prapa — obtained; jagat-sisriksham — the will to create the world; tatra eva — to those very (feet); padyam — water for the feet; vidadhe — offered; sah — that; vallabhah — Vallabha; nakha-dyuti-dhvasta-tamah-samuhe — which dispel the mass of darkness with the radiance of their nails.
+
+**24.** By offering water to His lotus feet Prajapati once obtained the power to create the world[^110-6]; and to those very feet, whose shining nails dispel the darkness, Vallabha offered water for washing.
+
+### Verse 25
+
+यस्मै महेन्द्रोऽधिनृपासनं ददौ सरत्नसिंहासनकम्बलावृतम्।
+तस्मै स कौशेयसुविष्टरासनं ददौ निपीतं वरपीतवाससे॥२५॥
+
+*yasmai mahendro'dhinṛpāsanaṁ dadau saratnasiṁhāsanakambalāvṛtam|*
+*tasmai sa kauśeyasuviṣṭarāsanaṁ dadau nipītaṁ varapītavāsase||25||*
+
+*Word for word:* yasmai — to whom; maha-indrah — great Indra; adhinripa-asanam — a royal throne; dadau — gave; sa-ratna-simhasana-kambala-avritam — spread with a jewelled lion-seat and a rug; tasmai — to Him; sah — he; kausheya-su-vishtara-asanam — a fine silken seat; dadau — gave; nipitam — drinking (Him) in (with his eyes); vara-pita-vasase — clad in excellent yellow garments.
+
+**25.** To Him to whom great Indra yielded his royal throne — a jewelled lion-seat spread with a rug[^110-7] — to Him, clad in the finest yellow garments, Vallabha, drinking Him in with his eyes, offered a fine silken seat.
+
+### Verse 26
+
+क्रमेण सोऽर्घ्यादिकमेव कर्म विधानतो हर्षतनूरुहोद्गमैः।
+कृत्वा कृतज्ञः प्रददौ हरेः करे कन्यां समुत्सृज्य सरोजलोचनाम्॥२६॥
+
+*krameṇa so'rghyādikameva karma vidhānato harṣatanūruhodgamaiḥ|*
+*kṛtvā kṛtajñaḥ pradadau hareḥ kare kanyāṁ samutsṛjya sarojalocanām||26||*
+
+*Word for word:* kramena — in due order; sah — he; arghya-adikam — beginning with arghya; eva — indeed; karma — the rites; vidhanatah — according to the rules; harsha-tanuruha-udgamaih — with his hair bristling with joy; kritva — having performed; krita-jnah — grateful; pradadau — gave; hareh — of Hari; kare — into the hand; kanyam — his daughter; samutsrijya — formally relinquishing; saroja-lochanam — lotus-eyed.
+
+**26.** Having performed in due order and according to rule the rites beginning with the offering of arghya — the hair on his body bristling with joy — the grateful Vallabha formally gave away his lotus-eyed daughter, placing her hand in Hari's.
+
+### Verse 27
+
+ततो निवृत्तेऽतिमहोत्सवे शुभे लक्ष्मीं समादाय निजां पुरीं ययौ।
+विश्वम्भरो विश्वभरार्तिहा विभुर्मनुष्ययानैर्मनुजाभिनन्दितः॥२७॥
+
+*tato nivṛtte'timahotsave śubhe lakṣmīṁ samādāya nijāṁ purīṁ yayau|*
+*viśvambharo viśvabharārtihā vibhurmanuṣyayānairmanujābhinanditaḥ||27||*
+
+*Word for word:* tatah — then; nivritte — when was over; ati-maha-utsave — the very great festival; shubhe — auspicious; lakshmim — Lakshmi; samadaya — taking; nijam — to His own; purim — home; yayau — went; vishvambharah — Vishvambhara; vishvabhara-arti-ha — who removes the affliction of the Earth; vibhuh — the Almighty; manushya-yanaih — in palanquins; manuja-abhinanditah — hailed by the people.
+
+**27.** When the great and auspicious festival was over, the almighty Vishvambhara, who relieves the Earth of her affliction[^110-8], took Lakshmi and, hailed by the people, went home in a palanquin.
+
+*Thus ends the tenth sarga, "The Wedding" (Vaivahika), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^110-1]: The nandimukha shraddha is a rite honouring the ancestors, performed before a joyful event such as a wedding.
+[^110-2]: That is, the ulu-dhvani, the joyful ululation of women customary at Bengali festivals.
+[^110-3]: Literally "father," an affectionate way of addressing a son in Bengal.
+[^110-4]: A comparison with Shiva's wedding procession to the house of Himavat, the father of Parvati (cf. v. 22).
+[^110-5]: Rohini is the constellation who is the favourite wife of the Moon god.
+[^110-6]: Prajapati is Brahma: he was able to create the world by the grace of the Lord, whom he worshipped.
+[^110-7]: Indra (Mahendra), king of the gods, honours the Lord as his master.
+[^110-8]: A play on words: Vishvambhara ("He who sustains the universe") relieves the affliction of Vishvabhara ("the All-bearing," the Earth).
+
+---
+
+## Prakrama 1, Sarga 11. The Festival of Sri Lakshmi's Departure
+
+*Lakshmi enters Shachi's house; the Lord's journey to East Bengal and the people's wonder; His stay on the bank of the Padmavati; Lakshmi's service to her mother-in-law; the snakebite and Lakshmi's departure in the waters of the Ganga*
+
+### Verse 1
+
+ततः शची द्विजस्त्रीभिः कृत्वा सुमहदुत्सवम्।
+स्नुषां प्रवेशयामास निजगेहे सभर्तृकाम्॥१॥
+
+*tataḥ śacī dvijastrībhiḥ kṛtvā sumahadutsavam|*
+*snuṣāṁ praveśayāmāsa nijagehe sabhartṛkām||1||*
+
+*Word for word:* tatah — then; shachi — Shachi; dvija-stribhih — with the brahmanas' wives; kritva — having held; su-mahat — a very great; utsavam — festival; snusham — her daughter-in-law; praveshayam asa — led in; nija-gehe — into her house; sa-bhartrikam — together with her husband.
+
+**1.** Then Shachi, together with the wives of the brahmanas, held a great festival and led her daughter-in-law, with her husband, into her house.
+
+### Verse 2
+
+ब्राह्मणेभ्यो ददावन्नं गन्धं माल्यं सभक्तितः।
+अन्येभ्यः शिल्पिमुख्येभ्यो नटेभ्यः प्रददौ धनम्॥२॥
+
+*brāhmaṇebhyo dadāvannaṁ gandhaṁ mālyaṁ sabhaktitaḥ|*
+*anyebhyaḥ śilpimukhyebhyo naṭebhyaḥ pradadau dhanam||2||*
+
+*Word for word:* brahmanebhyah — to the brahmanas; dadau — she gave; annam — food; gandham — perfume; malyam — garlands; sa-bhaktitah — with devotion; anyebhyah — to others; shilpi-mukhyebhyah — to the chief craftsmen; natebhyah — to the dancers; pradadau — gave; dhanam — money.
+
+**2.** To the brahmanas she gave food, perfumes and garlands with devotion, and to others — the chief craftsmen and the dancers — she gave money.
+
+### Verse 3
+
+ततो वसन् शुभे गेहे सकुटुम्बः सुखी प्रभुः।
+रराज नभसि स्वच्छे नक्षत्रैरिव चन्द्रमाः॥३॥
+
+*tato vasan śubhe gehe sakuṭumbaḥ sukhī prabhuḥ|*
+*rarāja nabhasi svacche nakṣatrairiva candramāḥ||3||*
+
+*Word for word:* tatah — then; vasan — living; shubhe — in the auspicious; gehe — house; sa-kutumbah — with His family; sukhi — happy; prabhuh — the Lord; raraja — shone; nabhasi — in the sky; svachchhe — clear; nakshatraih — with the stars; iva — like; chandramah — the moon.
+
+**3.** And the Lord lived happily in that auspicious house with His family, shining like the moon among the stars in a clear sky.
+
+### Verse 4
+
+लक्ष्मीनारायणदृष्टिमात्रे सर्वशुभानि हि।
+आजग्मुः श्रीशचीगेहे स्वभाग्यख्यापनाय च॥४॥
+
+*lakṣmīnārāyaṇadṛṣṭimātre sarvaśubhāni hi|*
+*ājagmuḥ śrīśacīgehe svabhāgyakhyāpanāya ca||4||*
+
+*Word for word:* lakshmi-narayana-drishti-matre — at the mere glance of Lakshmi and Narayana; sarva-shubhani — all blessings; hi — indeed; ajagmuh — came; shri-shachi-gehe — to the house of Sri Shachi; sva-bhagya-khyapanaya — to proclaim their own good fortune; cha — and.
+
+**4.** At a mere glance from Lakshmi and Narayana all blessings came of themselves to the house of Sri Shachi — as if to proclaim their own good fortune.
+
+### Verse 5
+
+ततो गृहाश्रमे स्थित्वा धनार्थं प्रययौ दिशि।
+पूर्वस्यां सज्जनैः सार्धं देशान्कुर्वन्सुनिर्मलान्॥५॥
+
+*tato gṛhāśrame sthitvā dhanārthaṁ prayayau diśi|*
+*pūrvasyāṁ sajjanaiḥ sārdhaṁ deśānkurvansunirmalān||5||*
+
+*Word for word:* tatah — then; griha-ashrame — in household life; sthitva — being settled; dhana-artham — for the sake of wealth; prayayau — set out; dishi — in the direction; purvasyam — eastern; sajjanaih — with good companions; sardham — together; deshan — the lands; kurvan — making; su-nirmalan — utterly pure.
+
+**5.** Once settled in household life, He set out for the east with good companions to earn wealth, purifying those lands as He went.
+
+### Verse 6
+
+यं यं देशं ययौ जिष्णू राकापतिनिभाननः।
+तत्र तत्रैव तत्रस्था जना दृष्ट्वा मुदान्विताः॥६॥
+
+*yaṁ yaṁ deśaṁ yayau jiṣṇū rākāpatinibhānanaḥ|*
+*tatra tatraiva tatrasthā janā dṛṣṭvā mudānvitāḥ||6||*
+
+*Word for word:* yam yam — whatever; desham — land; yayau — He went to; jishnuh — the Victorious; raka-pati-nibha-ananah — whose face was like the full moon; tatra tatra eva — in each and every place; tatra-sthah — dwelling there; janah — the people; drishtva — seeing (Him); muda-anvitah — were filled with joy.
+
+**6.** Whatever land the Victorious One came to, He whose face was like the full moon, everywhere the people who lived there were filled with joy at the sight of Him.
+
+### Verse 7
+
+पश्यन्तो वदनं तस्य तृप्तिवारिधिपारगाः।
+न बभूवुः स्त्रियश्चोचुः कस्यायं शुद्धदर्शनः॥७॥
+
+*paśyanto vadanaṁ tasya tṛptivāridhipāragāḥ|*
+*na babhūvuḥ striyaścocuḥ kasyāyaṁ śuddhadarśanaḥ||7||*
+
+*Word for word:* pashyantah — gazing; vadanam — at the face; tasya — His; tripti-varidhi-paragah — reaching the far shore of the ocean of satisfaction; na — not; babhuvuh — they became; striyah — the women; cha — and; uchuh — said; kasya — whose; ayam — this; shuddha-darshanah — whose sight purifies.
+
+**7.** Gazing at His face, they could never reach the farther shore of the ocean of satisfaction[^111-1]. And the women said: "Whose son is He, whose very sight purifies?
+
+### Verse 8
+
+मात्रास्य केन पुण्येन धृतो गर्भे नरोत्तमः।
+असौ विजितकन्दर्पो दृष्टपूर्वो न हि क्वचित्॥८॥
+
+*mātrāsya kena puṇyena dhṛto garbhe narottamaḥ|*
+*asau vijitakandarpo dṛṣṭapūrvo na hi kvacit||8||*
+
+*Word for word:* matra — by the mother; asya — His; kena — by what; punyena — merit; dhritah — was borne; garbhe — in the womb; nara-uttamah — the best of men; asau — He; vijita-kandarpah — who surpasses Kandarpa; drishta-purvah — seen before; na — not; hi — indeed; kvachit — anywhere.
+
+**8.** By what merit did His mother bear in her womb this best of men, who surpasses Kandarpa? His like has never been seen anywhere.
+
+### Verse 9
+
+पत्नीत्वमस्य प्राप्ता का चिराराधितशङ्करा।
+असौ नारायणः सैव लक्ष्मीरेव न संशयः॥९॥
+
+*patnītvamasya prāptā kā cirārādhitaśaṅkarā|*
+*asau nārāyaṇaḥ saiva lakṣmīreva na saṁśayaḥ||9||*
+
+*Word for word:* patnitvam — wifehood; asya — His; prapta — attained; ka — which woman; chira-aradhita-shankara — who long worshipped Shankara; asau — He; narayanah — Narayana; sa — she; eva — indeed; lakshmih — Lakshmi; eva — surely; na — no; samshayah — doubt.
+
+**9.** Which girl, having long worshipped Shankara[^111-2], has become His wife? He is Narayana, and she, without a doubt, is Lakshmi herself."
+
+### Verse 10
+
+एवं बहुविधां वाचं श्रुत्वा तत्र जनेरिताम्।
+आकर्णार्द्रदृशा तेषां प्रीतिं तन्वन्ययौ हरिः॥१०॥
+
+*evaṁ bahuvidhāṁ vācaṁ śrutvā tatra janeritām|*
+*ākarṇārdradṛśā teṣāṁ prītiṁ tanvanyayau hariḥ||10||*
+
+*Word for word:* evam — such; bahu-vidham — many kinds of; vacham — words; shrutva — hearing; tatra — there; jana-iritam — spoken by the people; akarna-ardra-drisha — with a moist glance of eyes reaching to the ears; tesham — their; pritim — love; tanvan — increasing; yayau — went on; harih — Hari.
+
+**10.** Hearing such words from the people everywhere, Hari went on His way, increasing their love with the moist glance of His eyes, which reached to His ears.
+
+### Verse 11
+
+पद्मावतीनदीतीरे गत्वा स्नात्वा यथाविधि।
+तत्रावसत्साधुजनैः पूजितः श्रद्धयान्वितैः॥११॥
+
+*padmāvatīnadītīre gatvā snātvā yathāvidhi|*
+*tatrāvasatsādhujanaiḥ pūjitaḥ śraddhayānvitaiḥ||11||*
+
+*Word for word:* padmavati-nadi-tire — to the bank of the Padmavati river; gatva — going; snatva — bathing; yatha-vidhi — according to rule; tatra — there; avasat — He stayed; sadhu-janaih — by saintly people; pujitah — worshipped; shraddhaya — with faith; anvitaih — filled.
+
+**11.** He came to the bank of the river Padmavati[^111-3], bathed according to rule and stayed there, worshipped by saintly people full of faith.
+
+### Verse 12
+
+गङ्गातुल्या पावनी सा बभूव सुमहानदी।
+पद्मावती महावेगा महापुलिनसंयुता॥१२॥
+
+*gaṅgātulyā pāvanī sā babhūva sumahānadī|*
+*padmāvatī mahāvegā mahāpulinasaṁyutā||12||*
+
+*Word for word:* ganga-tulya — equal to the Ganga; pavani — purifying; sa — she; babhuva — became; su-maha-nadi — the very great river; padmavati — the Padmavati; maha-vega — swift-flowing; maha-pulina-samyuta — with broad sandbanks.
+
+**12.** And that great river, the swift Padmavati with her broad sandbanks, became as purifying as the Ganga.
+
+### Verse 13
+
+कुम्भीरैर्मकरैर्मीनैर्विद्युद्भिरिव चञ्चलैः।
+शोभिता सज्जनावासविराजितमहत्तटा॥१३॥
+
+*kumbhīrairmakarairmīnairvidyudbhiriva cañcalaiḥ|*
+*śobhitā sajjanāvāsavirājitamahattaṭā||13||*
+
+*Word for word:* kumbhiraih — with crocodiles; makaraih — with makaras; minaih — with fish; vidyudbhih — lightning flashes; iva — like; chanchalaih — darting; shobhita — adorned; sajjana-avasa-virajita-mahat-tata — whose broad banks were graced with the dwellings of the virtuous.
+
+**13.** She was adorned with crocodiles, makaras[^111-4] and fish darting like lightning, and her broad banks were graced with the dwellings of the virtuous.
+
+### Verse 14
+
+विश्वम्भरस्नानधौतजलौघाघहरा शुभा।
+महातीर्थतमा साभूत्तत्तीरे निवसन्हरिः॥१४॥
+
+*viśvambharasnānadhautajalaughāghaharā śubhā|*
+*mahātīrthatamā sābhūttattīre nivasanhariḥ||14||*
+
+*Word for word:* vishvambhara-snana-dhauta-jala-ogha-agha-hara — whose waters, cleansed by Vishvambhara's bath, take away sin; shubha — auspicious; maha-tirthatama — the greatest of holy places; sa — she; abhut — became; tat-tire — on her bank; nivasan — dwelling; harih — Hari.
+
+**14.** Her waters, cleansed by Vishvambhara's bath, take away sin, and she, the auspicious one, became the greatest of holy places. Dwelling on her bank, Hari
+
+### Verse 15
+
+महात्मनां सुपुण्यानां कुर्वन्नयनयोः सुखम्।
+मुमोद मधुहातीव साधुदर्शनलालसः॥१५॥
+
+*mahātmanāṁ supuṇyānāṁ kurvannayanayoḥ sukham|*
+*mumoda madhuhātīva sādhudarśanalālasaḥ||15||*
+
+*Word for word:* maha-atmanam — of great souls; su-punyanam — of the virtuous; kurvan — giving; nayanayoh — to the eyes; sukham — delight; mumoda — rejoiced; madhu-ha — the Slayer of Madhu; ativa — greatly; sadhu-darshana-lalasah — eager to see the saintly.
+
+**15.** gave delight to the eyes of great and virtuous souls; and the Slayer of Madhu[^111-5], eager to see the saintly, rejoiced exceedingly.
+
+### Verse 16
+
+दयालुरनयत्स्वामी मासान्कतिपयान्विभुः।
+पाठयन्ब्राह्मणान्सर्वान्विद्यारसकुतूहली॥१६॥
+
+*dayāluranayatsvāmī māsānkatipayānvibhuḥ|*
+*pāṭhayanbrāhmaṇānsarvānvidyārasakutūhalī||16||*
+
+*Word for word:* dayaluh — the merciful; anayat — spent; svami — Master; masan — months; katipayan — several; vibhuh — the Almighty; pathayan — teaching; brahmanan — the brahmanas; sarvan — all; vidya-rasa-kutuhali — delighting in the taste of learning.
+
+**16.** So the merciful Master, the Almighty, who delighted in the taste of learning, spent several months there teaching all the brahmanas.
+
+### Verse 17
+
+अथ लक्ष्मीर्महाभागा पतिप्राणा धृतव्रता।
+शच्याः शुश्रूषणं चक्रे पादसंवाहनादिभिः॥१७॥
+
+*atha lakṣmīrmahābhāgā patiprāṇā dhṛtavratā|*
+*śacyāḥ śuśrūṣaṇaṁ cakre pādasaṁvāhanādibhiḥ||17||*
+
+*Word for word:* atha — meanwhile; lakshmih — Lakshmi; maha-bhaga — the most fortunate; pati-prana — whose husband was her very life; dhrita-vrata — faithful to her vows; shachyah — to Shachi; shushrushanam — service; chakre — rendered; pada-samvahana-adibhih — by massaging her feet and so on.
+
+**17.** Meanwhile the blessed Lakshmi, whose husband was her very life and who was faithful to her vows, served Shachi by massaging her feet and in many other ways.
+
+### Verse 18
+
+देवतानां गृहे लेपमार्जनस्वस्तिकादिकम्।
+धूपदीपादिनैवेद्यं माल्यं प्रादात्सुसंस्कृतम्॥१८॥
+
+*devatānāṁ gṛhe lepamārjanasvastikādikam|*
+*dhūpadīpādinaivedyaṁ mālyaṁ prādātsusaṁskṛtam||18||*
+
+*Word for word:* devatanam — of the deities; grihe — in the shrine; lepa-marjana-svastika-adikam — plastering, sweeping, drawing svastikas and the like; dhupa-dipa-adi-naivedyam — incense, lamps and the rest, and food offerings; malyam — garlands; pradat — she offered; su-samskritam — carefully prepared.
+
+**18.** In the shrine of the deities she plastered and swept the floor, drew svastikas and other auspicious signs, and offered incense, lamps and the rest, food offerings and carefully made garlands.
+
+### Verse 19
+
+तस्याः सा सेवया वाण्या सौशील्येन च कर्मणा।
+अतीव सुचिरं प्रीता शची पूर्तिममन्यत॥१९॥
+
+*tasyāḥ sā sevayā vāṇyā sauśīlyena ca karmaṇā|*
+*atīva suciraṁ prītā śacī pūrtimamanyata||19||*
+
+*Word for word:* tasyah — her; sa — she; sevaya — by the service; vanya — by the speech; saushilyena — by the good nature; cha — and; karmana — by the deeds; ativa — greatly; su-chiram — for long; prita — pleased; shachi — Shachi; purtim — fulfilment; amanyata — felt.
+
+**19.** Shachi was so pleased with her service, her speech, her good nature and her deeds that for a long time she felt her happiness complete.
+
+### Verse 20
+
+वधूं सुतस्यान्यतमां स्नेहोद्गततनूरुहा।
+कन्यामिव स्नेहवशाल्लालयन्ती स्वपुत्रवत्॥२०॥
+
+*vadhūṁ sutasyānyatamāṁ snehodgatatanūruhā|*
+*kanyāmiva snehavaśāllālayantī svaputravat||20||*
+
+*Word for word:* vadhum — the bride; sutasya — of her son; anyatamam — matchless; sneha-udgata-tanuruha — her hair bristling with tenderness; kanyam — a daughter; iva — like; sneha-vashat — out of love; lalayanti — cherishing; sva-putra-vat — like her own son.
+
+**20.** Her hair bristled with tenderness for her son's matchless wife; out of love she cherished her like a daughter — just as she did her own son.
+
+### Verse 21
+
+एवं स्थिता गृहे काले दैवादागत्य कुण्डली।
+अदशत्पादमूले तां लक्ष्मीमालक्ष्य सा शची॥२१॥
+
+*evaṁ sthitā gṛhe kāle daivādāgatya kuṇḍalī|*
+*adaśatpādamūle tāṁ lakṣmīmālakṣya sā śacī||21||*
+
+*Word for word:* evam — thus; sthita — (while she was) living; grihe — in the house; kale — in time; daivat — by fate; agatya — coming; kundali — a snake; adashat — bit; pada-mule — on the sole of the foot; tam — her; lakshmim — Lakshmi; alakshya — seeing; sa — she; shachi — Shachi.
+
+**21.** So she lived in the house; but in time, by the will of fate, a snake came and bit her on the sole of her foot. Seeing Lakshmi (so), Shachi,
+
+### Verse 22
+
+व्यजिज्ञपन्महाभीतियुक्ता जाङ्गलिकान्स्नुषाम्।
+समानीयाकरोद्यत्नं तद्विषस्य प्रमार्जने॥२२॥
+
+*vyajijñapanmahābhītiyuktā jāṅgalikānsnuṣām|*
+*samānīyākarodyatnaṁ tadviṣasya pramārjane||22||*
+
+*Word for word:* vyajijnapat — she informed; maha-bhiti-yukta — seized with great fear; jangalikan — the snake-poison healers; snusham — about her daughter-in-law; samaniya — summoning (them); akarot — made; yatnam — effort; tat-vishasya — of that poison; pramarjane — to remove.
+
+**22.** seized with great fear, sent word about her daughter-in-law to the healers of snake poison, summoned them, and strove to draw out the poison.
+
+### Verse 23
+
+शची मन्त्रैर्बहुविधैर्नाभूत्तद्विषमार्जनम्।
+ततः कालकृतं मत्वा समानीय प्रयत्नतः॥२३॥
+
+*śacī mantrairbahuvidhairnābhūttadviṣamārjanam|*
+*tataḥ kālakṛtaṁ matvā samānīya prayatnataḥ||23||*
+
+*Word for word:* shachi — Shachi; mantraih — with mantras; bahu-vidhaih — of many kinds; na — not; abhut — took place; tat-visha-marjanam — the removal of that poison; tatah — then; kala-kritam — the work of Time; matva — deeming it; samaniya — bringing (her); prayatnatah — with care.
+
+**23.** But for all the many mantras Shachi tried, the poison did not leave. Then, deeming it the work of Time, she carefully brought her
+
+### Verse 24
+
+जह्नुकन्यापयोमध्ये तुलसीदामभूषिताम्।
+कृत्वा वधूं सह स्त्रीभिश्चकार हरिकीर्तनम्॥२४॥
+
+*jahnukanyāpayomadhye tulasīdāmabhūṣitām|*
+*kṛtvā vadhūṁ saha strībhiścakāra harikīrtanam||24||*
+
+*Word for word:* jahnu-kanya-payo-madhye — in the waters of Jahnu's daughter; tulasi-dama-bhushitam — adorned with a garland of tulasi; kritva — placing; vadhum — the young wife; saha — together; stribhih — with the women; chakara — performed; hari-kirtanam — the kirtana of Hari.
+
+**24.** into the waters of Jahnu's daughter[^111-6], adorned her daughter-in-law with a garland of tulasi and, together with the other women, sang the kirtana of Hari.
+
+### Verse 25
+
+आयाते विमले व्योम्नि गन्धर्वरथसङ्कुले।
+ब्रह्मादिभिर्योगसिद्धैर्गीयमाने सुमङ्गले॥२५॥
+
+*āyāte vimale vyomni gandharvarathasaṅkule|*
+*brahmādibhiryogasiddhairgīyamāne sumaṅgale||25||*
+
+*Word for word:* ayate — when there had come; vimale — clear; vyomni — in the sky; gandharva-ratha-sankule — crowded with Gandharva chariots; brahma-adibhih — by Brahma and the others; yoga-siddhaih — by perfected yogis; giyamane — while being sung; su-mangale — the auspicious (song).
+
+**25.** And when the clear sky had filled with the chariots of the Gandharvas, and Brahma and the other gods with the perfected yogis were singing an auspicious song,
+
+### Verse 26
+
+महालक्ष्मीर्जगन्माता गन्तुं स्वप्रभुसन्निधौ।
+स्मृत्वा कृष्णपदाम्भोजं स्वर्नद्यां देहमत्यजत्॥२६॥
+
+*mahālakṣmīrjaganmātā gantuṁ svaprabhusannidhau|*
+*smṛtvā kṛṣṇapadāmbhojaṁ svarnadyāṁ dehamatyajat||26||*
+
+*Word for word:* maha-lakshmih — Mahalakshmi; jagat-mata — the mother of the world; gantum — to go; sva-prabhu-sannidhau — into the presence of her Lord; smritva — remembering; krishna-pada-ambhojam — the lotus feet of Krishna; svar-nadyam — in the heavenly river; deham — her body; atyajat — gave up.
+
+**26.** Mahalakshmi, the mother of the world, remembering the lotus feet of Krishna, gave up her body in the heavenly river to go to her Lord.
+
+### Verse 27
+
+ततो जगाम निलयमात्मनश्च सुशोभनम्।
+इन्द्रादिभिरगम्यं च सर्वमङ्गलरूपकम्॥२७॥
+
+*tato jagāma nilayamātmanaśca suśobhanam|*
+*indrādibhiragamyaṁ ca sarvamaṅgalarūpakam||27||*
+
+*Word for word:* tatah — then; jagama — she went; nilayam — to the abode; atmanah — her own; cha — and; su-shobhanam — most beautiful; indra-adibhih — by Indra and the others; agamyam — unattainable; cha — and; sarva-mangala-rupakam — the very form of all auspiciousness.
+
+**27.** And she went to her own beautiful abode, unattainable for Indra and the other gods, the very form of all that is auspicious —
+
+### Verse 28
+
+लक्ष्म्या परमया युक्ता लक्ष्मीर्लोकनमस्कृतम्॥२८॥
+
+*lakṣmyā paramayā yuktā lakṣmīrlokanamaskṛtam||28||*
+
+*Word for word:* lakshmya — with splendour; paramaya — supreme; yukta — endowed; lakshmih — Lakshmi; loka-namaskritam — (to the abode) revered by the worlds.
+
+**28.** Lakshmi, endowed with supreme splendour — to the abode revered by the worlds.
+
+*Thus ends the eleventh sarga, "The Festival of Sri Lakshmi's Departure" (Shri-lakshmi-vijaya-utsava)[^111-7], of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^111-1]: That is, they could never look at Him enough.
+[^111-2]: Girls worship Shiva (Shankara) to obtain a worthy husband.
+[^111-3]: The Padmavati (Padma) is the main branch of the Ganga in East Bengal.
+[^111-4]: The makara is a mythical water creature, the mount of Varuna and of the Ganga.
+[^111-5]: Madhu is a demon slain by Vishnu; "Slayer of Madhu" (Madhuha) is a name of the Lord.
+[^111-6]: Jahnu's daughter (Jahnavi) is the Ganga.
+[^111-7]: Vijaya here means "departure" (as in the Bengali usage for the passing of saints).
+
+---
+
+## Prakrama 1, Sarga 12. The Consolation of Shachi; Lakshmi's Departure to Heaven
+
+*Shachi's lament for her daughter-in-law; the Lord's return from East Bengal; Shachi tells Him what has happened; the Lord consoles His mother with the story of an apsara cursed by Indra*
+
+### Verse 1
+
+अथ तां विललाप दुःखिता स्ववधूं धर्मपरायणां शची।
+विगलन्नयनाम्बुधारया स्तनयोः क्षालनमेव साकरोत्॥१॥
+
+*atha tāṁ vilalāpa duḥkhitā svavadhūṁ dharmaparāyaṇāṁ śacī|*
+*vigalannayanāmbudhārayā stanayoḥ kṣālanameva sākarot||1||*
+
+*Word for word:* atha — then; tam — for her; vilalapa — lamented; duhkhita — grieving; sva-vadhum — her daughter-in-law; dharma-parayanam — devoted to dharma; shachi — Shachi; vigalat-nayana-ambu-dharaya — with the stream of tears flowing from her eyes; stanayoh — of her breasts; kshalanam — bathing; eva — only; sa — she; akarot — did.
+
+**1.** Then Shachi grievingly lamented for her daughter-in-law, who had been devoted to dharma, and the streams of tears flowing from her eyes bathed her breast.
+
+### Verse 2
+
+अवदद्भुजगाधम त्वया किमिदं कर्म दुरात्मना कृतम्।
+विकटैर्दशनैः कथं न मामदशस्त्वं हि विहाय मे स्नुषाम्॥२॥
+
+*avadadbhujagādhama tvayā kimidaṁ karma durātmanā kṛtam|*
+*vikaṭairdaśanaiḥ kathaṁ na māmadaśastvaṁ hi vihāya me snuṣām||2||*
+
+*Word for word:* avadat — she said; bhujaga-adhama — O lowest of serpents; tvaya — by you; kim — what; idam — this; karma — deed; duratmana — wicked one; kritam — was done; vikataih — with terrible; dashanaih — fangs; katham — why; na — not; mam — me; adashah — did you bite; tvam — you; hi — indeed; vihaya — sparing; me — my; snusham — daughter-in-law.
+
+**2.** She said: "Lowest of serpents! What is this wicked deed you have done? Why did you not bite me with your terrible fangs, and spare my daughter-in-law?
+
+### Verse 3
+
+विनियुज्य वधूं निषेवणे मम पुत्रो गतवान्सुधार्मिकः।
+धनधान्यसमर्जनाय मे ह्यन्तेवासिजनैः सुसंवृतः॥३॥
+
+*viniyujya vadhūṁ niṣevaṇe mama putro gatavānsudhārmikaḥ|*
+*dhanadhānyasamarjanāya me hyantevāsijanaiḥ susaṁvṛtaḥ||3||*
+
+*Word for word:* viniyujya — having engaged; vadhum — his wife; nishevane — in service; mama — to me; putrah — son; gatavan — went away; su-dharmikah — the righteous; dhana-dhanya-samarjanaya — to earn wealth and grain; me — my; hi — indeed; antevasi-janaih — by his students; su-samvritah — surrounded.
+
+**3.** My righteous son entrusted his wife with serving me, and went away, surrounded by his students, to earn wealth and grain for me.
+
+### Verse 4
+
+तदिदं वदनं कथं स्नुषापरिहीना तनयस्य पश्यतु।
+इति विलप्य भृशं शुचाकुला कुलवतीमपहाय समादिशत्॥४॥
+
+*tadidaṁ vadanaṁ kathaṁ snuṣāparihīnā tanayasya paśyatu|*
+*iti vilapya bhṛśaṁ śucākulā kulavatīmapahāya samādiśat||4||*
+
+*Word for word:* tat — therefore; idam — this; vadanam — face; katham — how; snusha-parihina — bereft of her daughter-in-law; tanayasya — of her son; pashyatu — shall she look on; iti — thus; vilapya — lamenting; bhrisham — bitterly; shucha-akula — overcome with grief; kulavatim — the noble lady; apahaya — leaving; samadishat — she instructed.
+
+**4.** How shall I, bereft of my daughter-in-law, now look upon my son's face?" Having lamented thus bitterly, overcome with grief, she left (the body of) her noble daughter-in-law and gave instructions:
+
+### Verse 5
+
+कुरु निजं कुलयोग्यसुसत्क्रियामकरोत्स्वस्वजनस्त्वनन्तरम्।
+निजगृहं समगात्परिदेवनलोलनयनयोः परिमुच्य जलं घनम्॥५॥
+
+*kuru nijaṁ kulayogyasusatkriyāmakarotsvasvajanastvanantaram|*
+*nijagṛhaṁ samagātparidevanalolanayanayoḥ parimucya jalaṁ ghanam||5||*
+
+*Word for word:* kuru — perform; nijam — your own; kula-yogya-su-sat-kriyam — the holy rite befitting the family; akarot — performed; sva-sva-janah — her kinsman; tu — and; anantaram — thereupon; nija-griham — to her house; samagat — she went; paridevana-lola-nayanayoh — from eyes restless with weeping; parimuchya — shedding; jalam — tears; ghanam — copious.
+
+**5.** "Perform the holy rite befitting our family." And a kinsman then performed it. And Shachi went home, shedding copious tears from eyes restless with weeping.
+
+### Verse 6
+
+स्वजनबन्धुभिराशु विबोधिता स्थितवती सुखितेव चिरं शची।
+स्वस्य पुत्रवदनं स्मरती सा कृष्णनामपरिपूर्णमुखासीत्॥६॥
+
+*svajanabandhubhirāśu vibodhitā sthitavatī sukhiteva ciraṁ śacī|*
+*svasya putravadanaṁ smaratī sā kṛṣṇanāmaparipūrṇamukhāsīt||6||*
+
+*Word for word:* sva-jana-bandhubhih — by relatives and friends; ashu — soon; vibodhita — consoled; sthitavati — remained; sukhita — at ease; iva — as if; chiram — for long; shachi — Shachi; svasya — her own; putra-vadanam — son's face; smarati — remembering; sa — she; krishna-nama-paripurna-mukha — her mouth full of the name of Krishna; asit — was.
+
+**6.** Soon her relatives and friends consoled her, and for a long time she remained as if at peace: she remembered her son's face, and her mouth was full of the name of Krishna.
+
+### Verse 7
+
+अथ कियद्दिवसात्परिहर्षितः परमसाधुभिरेव निवेदितम्।
+रजतकाञ्चनचेलसमन्वितं समनयत्स्वगृहं परमेश्वरः॥७॥
+
+*atha kiyaddivasātpariharṣitaḥ paramasādhubhireva niveditam|*
+*rajatakāñcanacelasamanvitaṁ samanayatsvagṛhaṁ parameśvaraḥ||7||*
+
+*Word for word:* atha — then; kiyad-divasat — after some days; pariharshitah — joyful; parama-sadhubhih — by the great saints; eva — indeed; niveditam — what had been offered; rajata-kanchana-chela-samanvitam — consisting of silver, gold and cloth; samanayat — brought; sva-griham — to His home; parama-ishvarah — the Supreme Lord.
+
+**7.** Some days later the Supreme Lord joyfully brought home what the great saints had offered Him — silver, gold and cloth.
+
+### Verse 8
+
+अथ निरीक्ष्य शची सुतमागतं सपदि पूर्णनिशाकरसम्प्रभम्।
+न मनसातितुतोष बहुव्यथां हृदि वहन्त्यगमत्स्नुषयार्पिताम्॥८॥
+
+*atha nirīkṣya śacī sutamāgataṁ sapadi pūrṇaniśākarasamprabham|*
+*na manasātitutoṣa bahuvyathāṁ hṛdi vahantyagamatsnuṣayārpitām||8||*
+
+*Word for word:* atha — then; nirikshya — seeing; shachi — Shachi; sutam — her son; agatam — arrived; sapadi — suddenly; purna-nishakara-samprabham — radiant as the full moon; na — not; manasa — at heart; ati-tutosha — was greatly gladdened; bahu-vyatham — great pain; hridi — in her heart; vahanti — carrying; agamat — she went (to Him); snushaya-arpitam — caused by (the loss of) her daughter-in-law.
+
+**8.** Seeing that her son had returned, radiant as the full moon, Shachi was not very glad at heart: she went to Him carrying in her heart the great pain of losing her daughter-in-law.
+
+### Verse 9
+
+अथ निरीक्ष्य शचीं कमलेक्षणः परिनिपत्य पदोः पदरेणुकम्।
+शिरसि संविदधे जननीमुखं विमलिनं स निरीक्ष्य सुविस्मितः॥९॥
+
+*atha nirīkṣya śacīṁ kamalekṣaṇaḥ parinipatya padoḥ padareṇukam|*
+*śirasi saṁvidadhe jananīmukhaṁ vimalinaṁ sa nirīkṣya suvismitaḥ||9||*
+
+*Word for word:* atha — then; nirikshya — seeing; shachim — Shachi; kamala-ikshanah — the lotus-eyed Lord; parinipatya — falling down; padoh — at her feet; pada-renukam — the dust of her feet; shirasi — on His head; samvidadhe — placed; janani-mukham — His mother's face; vimalinam — clouded; sah — He; nirikshya — seeing; su-vismitah — greatly surprised.
+
+**9.** The lotus-eyed Lord, seeing Shachi, fell at her feet and placed the dust of her feet on His head; and when He looked at His mother's face, all clouded over, He was greatly surprised.
+
+### Verse 10
+
+स्मितसुधोक्षितया च गिरानघो यदधिलब्धधनं सुसमर्पयन्।
+समवदद्वद मातरलं मुखं विरसमेव तवाद्य कथं स्नुषा॥१०॥
+
+*smitasudhokṣitayā ca girānagho yadadhilabdhadhanaṁ susamarpayan|*
+*samavadadvada mātaralaṁ mukhaṁ virasameva tavādya kathaṁ snuṣā||10||*
+
+*Word for word:* smita-sudha-ukshitaya — sprinkled with the nectar of a smile; cha — and; gira — with words; anaghah — the Sinless One; yat — whatever; adhilabdha-dhanam — wealth He had gained; su-samarpayan — presenting; samavadat — said; vada — tell; matah — mother; alam — quite; mukham — face; virasam — joyless; eva — indeed; tava — your; adya — today; katham — how is; snusha — your daughter-in-law.
+
+**10.** The Sinless One presented her with all the wealth He had gained and said, His words sprinkled with the nectar of a smile: "Tell Me, mother, why is your face so joyless today? How is your daughter-in-law?"
+
+### Verse 11
+
+इति सुधावचसा मुदिता शची वरवधूस्मृतिसन्नगिरावदत्।
+सकलमेव वधूकथनं हृदा परिगलन्नयनाम्बुजबिन्दुभिः॥११॥
+
+*iti sudhāvacasā muditā śacī varavadhūsmṛtisannagirāvadat|*
+*sakalameva vadhūkathanaṁ hṛdā parigalannayanāmbujabindubhiḥ||11||*
+
+*Word for word:* iti — such; sudha-vachasa — by nectar-like words; mudita — gladdened; shachi — Shachi; vara-vadhu-smriti-sanna-gira — in a voice failing at the memory of the excellent bride; avadat — told; sakalam — the whole; eva — indeed; vadhu-kathanam — story of the bride; hrida — from her heart; parigalat-nayana-ambuja-bindubhih — with drops falling from her lotus eyes.
+
+**11.** Gladdened by these nectar-like words, Shachi, in a voice that failed at the memory of her excellent daughter-in-law, told Him from her heart the whole story, while drops rolled from her lotus eyes.
+
+### Verse 12
+
+आशु चार्द्रदृशापि चाम्बिकायाः शोकहर्षपरिपूरितदेहः।
+इति निशम्य वचो मधुसूदनः समवदत्करुणार्द्रदृशाम्बिकाम्॥१२॥
+
+*āśu cārdradṛśāpi cāmbikāyāḥ śokaharṣaparipūritadehaḥ|*
+*iti niśamya vaco madhusūdanaḥ samavadatkaruṇārdradṛśāmbikām||12||*
+
+*Word for word:* ashu — at once; cha — and; ardra-drisha — with moistened eyes; api — also; cha — and; ambikayah — at (the words) of His mother; shoka-harsha-paripurita-dehah — His body filled with grief and joy; iti — such; nishamya — having heard; vachah — words; madhu-sudanah — Madhusudana; samavadat — spoke; karuna-ardra-drisha — with eyes moist with compassion; ambikam — to His mother.
+
+**12.** At once His eyes grew moist and His body was filled with both grief and joy[^112-1]. Having heard these words, Madhusudana answered His mother, looking at her with eyes moist with compassion.
+
+### Verse 13
+
+आत्मगोपनबलैर्वचनैस्तद्गोपयन्हि सकलं जगदीशः।
+शृणु यथेयमवातरदप्सरा सुरवधूः पृथिवीमनु साम्प्रतम्॥१३॥
+
+*ātmagopanabalairvacanaistadgopayanhi sakalaṁ jagadīśaḥ|*
+*śṛṇu yatheyamavātaradapsarā suravadhūḥ pṛthivīmanu sāmpratam||13||*
+
+*Word for word:* atma-gopana-balaih — strong in concealing Himself; vachanaih — with words; tat — that; gopayan — concealing; hi — indeed; sakalam — everything; jagat-ishah — the Lord of the world; shrinu — hear; yatha — how; iyam — this; avatarat — descended; apsara — apsara; sura-vadhuh — a heavenly maiden; prithivim anu — to the earth; sampratam — now.
+
+**13.** Concealing everything with words strong to hide His own self, the Lord of the world said: "Listen to how this apsara, a heavenly maiden, recently came down to earth.
+
+### Verse 14
+
+मघवतः सदसीन्दुनिभाननां स्खलितनृत्यपदां विधिना क्षणम्।
+समवलोक्य शशाप सुरेश्वरो भव नरस्य सुतेत्यवधार्य तत्॥१४॥
+
+*maghavataḥ sadasīndunibhānanāṁ skhalitanṛtyapadāṁ vidhinā kṣaṇam|*
+*samavalokya śaśāpa sureśvaro bhava narasya sutetyavadhārya tat||14||*
+
+*Word for word:* maghavatah — of Maghavan (Indra); sadasi — in the assembly; indu-nibha-ananam — the moon-faced one; skhalita-nritya-padam — whose dance step faltered; vidhina — by fate; kshanam — for a moment; samavalokya — seeing; shashapa — cursed; sura-ishvarah — the lord of the gods; bhava — become; narasya — of a man; suta — the daughter; iti — thus; avadharya — having considered; tat — that.
+
+**14.** Once, in the assembly of Maghavan[^112-2], the moon-faced apsara by the will of fate faltered for a moment in her dance step. Seeing this and having considered it, the lord of the gods cursed her: 'Become the daughter of a man!'
+
+### Verse 15
+
+समपतत्पदयोरिति तां पुनः सकलनाथवधूर्भव शोभने।
+पुनरिहाभिमुखं सुरदुर्लभं समनुभूय हरेः पदमुज्ज्वलम्॥१५॥
+
+*samapatatpadayoriti tāṁ punaḥ sakalanāthavadhūrbhava śobhane|*
+*punarihābhimukhaṁ suradurlabhaṁ samanubhūya hareḥ padamujjvalam||15||*
+
+*Word for word:* samapatat — she fell; padayoh — at his feet; iti — then; tam — to her; punah — again; sakala-natha-vadhuh — the wife of the Lord of all; bhava — become; shobhane — O lovely one; punah — again; iha — here; abhimukham — back; sura-durlabham — hard for the gods to attain; samanubhuya — having experienced; hareh — of Hari; padam — the feet; ujjvalam — radiant.
+
+**15.** Then she fell at his feet, and he said to her: 'Become the wife of the Lord of all, O lovely one! Having known the radiant feet of Hari, which even the gods can hardly attain, you will come back here again —
+
+### Verse 16
+
+बत गमिष्यसि गच्छ सुशोभने सुरपतेर्वचसातिमुमोद सा।
+सुरनदीसलिले परिमुच्य तं त्रिदशशापजपापमथागमत्॥१६॥
+
+*bata gamiṣyasi gaccha suśobhane surapatervacasātimumoda sā|*
+*suranadīsalile parimucya taṁ tridaśaśāpajapāpamathāgamat||16||*
+
+*Word for word:* bata — ah; gamishyasi — you will return; gachchha — go; su-shobhane — O most lovely one; sura-pateh — of the lord of the gods; vachasa — at the words; ati-mumoda — rejoiced greatly; sa — she; sura-nadi-salile — in the waters of the river of the gods; parimuchya — casting off; tam — that; tridasha-shapa-ja-papam — sin born of the gods' curse; atha — now; agamat — she has gone.
+
+**16.** ah, you will return! Go, most lovely one!' The words of the lord of the gods filled her with joy. And now, in the waters of the river of the gods, she has cast off the sin born of the curse of the lord of the gods, and has gone.
+
+### Verse 17
+
+किंवा लक्ष्मीरूपा जगदीश्वरी निजप्रभुचरणाब्जमगात्स्वयम्।
+तदलमेव शुचा भवितव्यता भवति कालकृतं सकलं जगत्॥१७॥
+
+*kiṁvā lakṣmīrūpā jagadīśvarī nijaprabhucaraṇābjamagātsvayam|*
+*tadalameva śucā bhavitavyatā bhavati kālakṛtaṁ sakalaṁ jagat||17||*
+
+*Word for word:* kimva — or else; lakshmi-rupa — in the form of Lakshmi; jagat-ishvari — the Mistress of the world; nija-prabhu-charana-abjam — to the lotus feet of her Lord; agat — went; svayam — herself; tat — therefore; alam — enough; eva — indeed; shucha — of grief; bhavitavyata — what must be; bhavati — comes to pass; kala-kritam — wrought by Time; sakalam — the whole; jagat — world.
+
+**17.** Or else it was the Mistress of the world herself, in the form of Lakshmi, who went to the lotus feet of her Lord[^112-3]. So enough of grief: what must be comes to pass — the whole world is wrought by Time."
+
+### Verse 18
+
+इति निशम्य शची सुतस्य तद्वचनमिन्दुमुखस्य शुचं जहौ।
+प्रकटवैभवगोपनकारणं मनुजभावधरस्य हरेस्ततः॥१८॥
+
+*iti niśamya śacī sutasya tadvacanamindumukhasya śucaṁ jahau|*
+*prakaṭavaibhavagopanakāraṇaṁ manujabhāvadharasya harestataḥ||18||*
+
+*Word for word:* iti — thus; nishamya — hearing; shachi — Shachi; sutasya — of her son; tat — those; vachanam — words; indu-mukhasya — moon-faced; shucham — grief; jahau — gave up; prakata-vaibhava-gopana-karanam — the means of concealing His manifest glory; manuja-bhava-dharasya — who had assumed human nature; hareh — of Hari; tatah — such (it was).
+
+**18.** Hearing these words of her moon-faced son, Shachi gave up her grief. Thus did Hari, having taken on a human nature, conceal His manifest glory.
+
+### Verse 19
+
+न खलु चित्रमिदं भगवान्स्वयं सुरकथावचनं कृतवान्हि यत्।
+यदनुभावरसेन पितामहः सृजति हन्ति जगत्त्रयमीश्वरः॥१९॥
+
+*na khalu citramidaṁ bhagavānsvayaṁ surakathāvacanaṁ kṛtavānhi yat|*
+*yadanubhāvarasena pitāmahaḥ sṛjati hanti jagattrayamīśvaraḥ||19||*
+
+*Word for word:* na — not; khalu — at all; chitram — strange; idam — this; bhagavan — Bhagavan; svayam — Himself; sura-katha-vachanam — a story of the gods; kritavan — told; hi — indeed; yat — that; yat-anubhava-rasena — by the power of whose might; pitamahah — the Grandsire (Brahma); srijati — creates; hanti — destroys; jagat-trayam — the three worlds; ishvarah — Ishvara (Shiva).
+
+**19.** And it is no wonder at all that Bhagavan Himself told a story of the gods — He by the power of whose might the Grandsire creates and Ishvara destroys the three worlds[^112-4].
+
+*Thus ends the twelfth sarga, "The Removal of Sri Shachi's Grief; Lakshmi's Departure to Heaven" (Shri-shachi-shoka-apanodana, Lakshmi-svarga-gamana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^112-1]: The beginning of the verse is corrupt in all witnesses; the translation is conjectural.
+[^112-2]: Maghavan is Indra, king of the gods.
+[^112-3]: First the Lord tells the "concealing" story of the apsara (v. 13), and then hints at the truth: His consort is Lakshmi herself.
+[^112-4]: The Grandsire is Brahma; Ishvara is Shiva.
