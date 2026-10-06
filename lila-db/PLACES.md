@@ -27,3 +27,4 @@
 | #svarga | небеса (обители богов) | heaven | |
 | #vaikuntha | Вайкунтха | Vaikuntha | обитель Нараяны |
 | #brahmaloka | Брахмалока (Сатьялока) | Brahmaloka (Satyaloka) | обитель Брахмы |
+| #padmavati | Падмавати (река Падма) | the Padmavati (river Padma) | Восточная Бенгалия; ср. #east-bengal |

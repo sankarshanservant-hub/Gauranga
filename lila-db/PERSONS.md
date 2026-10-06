@@ -54,6 +54,8 @@
 | @sudarshana-pandita | Сударшана Пандит | Sudarshana Pandita | учитель Господа в Навадвипе; ср. диск @sudarshana |
 | @vanamali-acharya | Ванамали Ачарья | Vanamali Acharya | сват первой женитьбы Господа |
 | @vallabhacharya | Валлабхачарья (Валлабха Мишра) | Vallabhacharya (Vallabha Mishra) | отец Лакшмиприи |
+| @sanatana-mishra | Санатана Мишра (Санатана Пандит) | Sanatana Mishra (Sanatana Pandita) | отец Вишнуприи; не путать с @sanatana-gosvami |
+| @kashinatha | Кашинатха (Мишра) | Kashinatha (Mishra) | брахман-сват второй женитьбы Господа |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -71,3 +73,5 @@
 | @vyasa | Вьяса | Vyasa | Вьясадева, Бадараяна |
 | @garga-muni | Гарга Муни | Garga Muni | жрец рода Ядавов; ср. @nilambara-chakravarti |
 | @revati | Ревати | Revati | супруга Баларамы |
+| @ganga-devi | Ганга-деви (богиня Ганга) | Ganga-devi (the goddess Ganga) | река Ганга как божество; место — #ganga |
+| @ganesha | Ганеша | Ganesha | Ганешвара, сын Парвати |

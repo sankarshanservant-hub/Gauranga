@@ -107,3 +107,23 @@
 | শিঙ্গা, বরগো, দামামা, দগড়, দোসরি, মোহরি (মুহরি), ডিণ্ডিম | шинга, барго, дамама, дагар, досари, мохари (мухари), диндима | shinga, bargo, damama, dagar, dosari, mohari (muhari), dindima |
 | পাঁচশর | Пятистрельный (Камадева) | the Five-arrowed One (Kamadeva) |
 | মায়ামানুষবিগ্রহ | явивший по йогамайе человеческий облик | He who by yogamaya has manifested a human form |
+| ছোড়লা | чхорла (свадебный помост) | chhorla (wedding platform) |
+| বর উরথা (বরণ) | вар-урати (обряд встречи жениха) | bar-urati (welcoming of the bridegroom) |
+| গোধূলি | годхули («час коровьей пыли», сумерки) | godhuli ("hour of cow-dust", dusk) |
+| পঞ্চ-গরাসি | панча-граси (обряд пяти глотков) | pancha-grasi (rite of the five mouthfuls) |
+| বাসর (-ঘর) | басара (свадебный покой) | basara (bridal chamber) |
+| ছামুনি | чхамуни (значение неясно) | chhamuni (meaning unclear) |
+| ভৃগুরাম | Бхригурама | Bhrigurama |
+| পাণ্ডব-বর্জিত দেশ | страна, которую обошли Пандавы (пандава-варджита) | the land the Pandavas avoided (pandava-varjita) |
+| পদ্মাবতী (পদ্মা) | Падмавати (река Падма) | the Padmavati (river Padma) |
+| দ্রবব্রহ্ম | Брахман в жидком виде (драва-брахма) | Brahman in liquid form (drava-brahma) |
+| শব্দব্রহ্ম | звук-Брахман (шабда-брахман) | sound-Brahman (shabda-brahman) |
+| ত্রিপাদ-সম্ভবা | «рождённая из третьего шага» (Ганга) | "born of the third step" (the Ganga) |
+| ওঝা | заклинатель (оджха) | snake-charmer (ojha) |
+| অপ্সরা | апсара | apsara |
+| গান্ধার (রাগ) | гандхара | gandhara |
+| কাশীনাথ (মিশ্র) | Кашинатха (Мишра) | Kashinatha (Mishra) |
+| সনাতন পণ্ডিত (মিশ্র) | Санатана Пандит (Санатана Мишра) | Sanatana Pandita (Sanatana Mishra) |
+| বিষ্ণুপ্রিয়া | Вишнуприя | Vishnupriya |
+| গণক | астролог | astrologer |
+| অহল্যা | Ахалья | Ahalya |
