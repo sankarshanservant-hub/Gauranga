@@ -30,3 +30,5 @@
 | #padmavati | Падмавати (река Падма) | the Padmavati (river Padma) | Восточная Бенгалия; ср. #east-bengal |
 | #mandara | Мандара (гора) | Mandara (mountain) | Бихар, на пути в Гаю; святыня Мадхусуданы |
 | #house-nandana-acharya | дом Нанданы Ачарьи | house of Nandana Acharya | Навадвипа; здесь остановился Нитьянанда |
+| #house-chandrashekhara | дом Чандрашекхары Ачарьи | house of Chandrashekhara Acharya | Навадвипа; действо (натака) Господа в бхавах гопи, Лакшми и Изначальной Шакти |
+| #madhuvana | Мадхувана | Madhuvana | лес во Врадже на Ямуне; место подвижничества Дхрувы |

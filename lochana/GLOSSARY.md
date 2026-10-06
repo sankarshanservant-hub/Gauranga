@@ -198,3 +198,17 @@
 | মুরলীবদন | Держащий у уст флейту (Мурали-вадана) | He who holds the flute to His lips (Murali-vadana) |
 | ভীষ্মক-কন্যা | дочь Бхишмаки (Рукмини) | the daughter of Bhishmaka (Rukmini) |
 | আচার্যরত্ন | Ачарьяратна (Чандрашекхара) | Acharyaratna (Chandrashekhara) |
+| সংকীর্তন-যজ্ঞ, পঞ্চম বেদ | санкиртана-ягья, пятая Веда | sankirtana-yajna, the fifth Veda |
+| স্রুব, কুণ্ড, গৃহস্থ (যজমান), গৃহিণী | ковш (срува), жертвенная яма (кунда), хозяин (яджамана), хозяйка | ladle (sruva), sacrificial pit (kunda), master (yajamana), mistress |
+| সালোক্যাদি মুক্তি | мукти — салокья и прочие | the liberations — salokya and the rest |
+| দেবঘর | покой Божества | the Deity's chamber |
+| শ্রীস্তব | «Шри-става» (гимн Лакшми) | the Sri-stava (hymn to Lakshmi) |
+| চণ্ডী, ঈশ্বরী | Чанди, Владычица | Chandi, the Mistress |
+| শ্রীদাম, সুদাম, ললিতা | Шридама, Судама, Лалита | Shridama, Sudama, Lalita |
+| কেশব ভারতী | Кешава Бхарати | Keshava Bharati |
+| ষষ্ঠী-সমাস | сложение с родительным падежом (шаштхи-самаса) | genitive compound (shashthi-samasa) |
+| হাপুতি | мать, потерявшая детей | a mother bereft of her children |
+| আহিরী, সুহই (রাগ) | ахири, сухаи | ahiri, suhai |
+| ধ্রুব, উত্তানপাদ, সুরুচি, সুনীতি, উত্তম | Дхрува, Уттанапада, Суручи, Сунити, Уттама | Dhruva, Uttanapada, Suruchi, Suniti, Uttama |
+| স্বায়ম্ভুব মনু, প্রিয়ব্রত | Сваямбхува Ману, Прияврата | Svayambhuva Manu, Priyavrata |
+| দ্বাদশাক্ষর মন্ত্র | двенадцатисложная мантра | the twelve-syllable mantra |
