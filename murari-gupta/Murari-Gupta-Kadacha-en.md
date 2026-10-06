@@ -97,6 +97,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 14. The Favour to Gauridasa during the Pastimes in Navadvipa after the Journey to Vrindavana
   - Prakrama 4, Sarga 15. The Pastimes in Navadvipa and the Sight of Purushottama after the Journey to Vrindavana
   - Prakrama 4, Sarga 16. The Favour to Prataparudra
+  - Prakrama 4, Sarga 17. The Favour to the Devotees
+  - Prakrama 4, Sarga 18. The Play on Lake Narendra
+  - Prakrama 4, Sarga 19. The Kirtana of Gauranga Performed by Sri Advaita Prabhu
+  - Prakrama 4, Sarga 20. The Play in the Gundicha Temple
 
 ---
 
@@ -2312,9 +2316,9 @@ Bhaktisiddhanta Sarasvati.
 
 **11.** Bhagavan, of surpassing splendour, joyfully led the kirtana and the dance, and soon He assumed the mood of Kamala[^216-6] — His body took on her beauty and her feeling.
 
-**12.** There, in the middle of the shrine, stood the image of Krishna's divine form. Humbly approaching it, with the fringe of a new cloth
+**12.** There, in the middle of the shrine, stood the Deity of Krishna in His divine form. Humbly approaching it, with the fringe of a new cloth
 
-**13.** He took the flowers off the image and placed them there again — and was filled with the affection of millions of mothers, full of the rasa of loving devotion.
+**13.** He took the flowers off the Deity and placed them there again — and was filled with the affection of millions of mothers, full of the rasa of loving devotion.
 
 **14.** At the command of Him who comprises all the gods, the foremost brahmanas, rejoicing and glad at heart, bowed down to that woman and glorified her with hymns of praise and verses of the Vedas.
 
@@ -2816,7 +2820,7 @@ Bhaktisiddhanta Sarasvati.
 
 *The Lord travels towards Purushottama: Tamolipta; Remuna, where Gopinatha lets His crown fall to Him; the river Vaitarani; Yajapura (Jajpur) with the Boar, Viraja, Nabhi-Gaya and countless lingas of Shiva*
 
-**1.** So saying, the Lord set out again, wholly intent on chanting the name of Hari; whenever He saw images of the gods standing by the road, He bowed to them and offered praises, as is proper.
+**1.** So saying, the Lord set out again, wholly intent on chanting the name of Hari; whenever He saw the forms of the gods standing by the road, He bowed to them and offered praises, as is proper.
 
 **2.** At Tamolipta[^306-1], the most holy abode of Hari, the Guru of the world bathed in the Brahma-kunda and beheld Madhusudana.
 
@@ -2830,7 +2834,7 @@ Bhaktisiddhanta Sarasvati.
 
 **7.** Falling to the ground like a staff, He bowed to the Lord of the gods; His moon-face grew moist with compassion, and He, whose eyes are long like lotuses, danced with His own and sang kirtana.
 
-**8.** And at that very moment the crown fixed on the head of the image of the Enemy of Mura fell right to Him. Seeing this, the son of Sri Shachi caught it in His two lotus hands.
+**8.** And at that very moment the crown fixed on the head of the Deity of the Enemy of Mura fell right to Him. Seeing this, the son of Sri Shachi caught it in His two lotus hands.
 
 **9.** Receiving that grace, He placed the crown on His own head and shone with joy; and, beholding the wondrous Lord of the gods, He rejoiced in the depths of His heart[^306-4], with bowed head and soul.
 
@@ -3077,7 +3081,7 @@ Bhaktisiddhanta Sarasvati.
 
 **7.** A moment later, seeing that the Lord had risen, they anxiously gathered round Him, as the senses gather round the life within. The people did not know His true nature[^310-5], and Bhagavan, as was His way, said to them:
 
-**8.** "See for yourselves: there, above the house of Hari, stands the Lord — a boy shining like a great sapphire!" The brahmanas did not see the boy, but, looking at the image of the Lord, they answered, "Yes, we see."
+**8.** "See for yourselves: there, above the house of Hari, stands the Lord — a boy shining like a great sapphire!" The brahmanas did not see the boy, but, looking at the Deity of the Lord, they answered, "Yes, we see."
 
 **9.** Then He for whom they feared that He might swoon again said to them, "Look at the banner above the house of Hari: make out the boy whose face again and again puts to shame millions of full moons!
 
@@ -3114,7 +3118,7 @@ Bhaktisiddhanta Sarasvati.
 [^310-6]: The son of Mrikandu is the sage Markandeya; his tirtha (the Markandeya pond) is at Puri.
 [^310-7]: Aghora: one of the mantras of Shiva (named after one of his faces).
 [^310-8]: That is, of Jagannatha.
-[^310-9]: The image of Jagannatha has rounded arms without hands; the Lord grieves at not seeing His palms, and Jagannatha in His mercy shows Him His hand (vv. 17–18).
+[^310-9]: The Deity of Jagannatha has rounded arms without hands; the Lord grieves at not seeing His palms, and Jagannatha in His mercy shows Him His hand (vv. 17–18).
 [^310-10]: In all the editions only half of this verse survives.
 
 ---
@@ -3171,7 +3175,7 @@ Bhaktisiddhanta Sarasvati.
 
 
 [^311-1]: The first line of this verse is metrically short in all the editions; the text seems damaged, though the sense is clear.
-[^311-2]: That is, away from the image of Jagannatha, out of the temple.
+[^311-2]: That is, away from the Deity of Jagannatha, out of the temple.
 [^311-3]: Narahari ("Hari in human form"): here a name of Krishna.
 [^311-4]: The opening of the verse is corrupt in all the editions; the rendering is conjectural.
 
@@ -3290,63 +3294,63 @@ Bhaktisiddhanta Sarasvati.
 
 ## Prakrama 3, Sarga 14. Sri Jiyada-Nrisimha
 
-*The Lord travels south: at Kurma-kshetra He heals the leper brahmana Vasudeva; at Jiyada-Nrisimha He tells the ancient story of that deity; at Alalanatha He awakens love for Krishna in the people He embraces on the way*
+*The Lord travels south: at Alalanatha He awakens love for Krishna in the people He embraces on the way; at Kurma-kshetra He heals the leper brahmana Vasudeva; at Jiyada-Nrisimha He tells the ancient story of that Deity*
 
-**1.** Then Bhagavan, wishing to show grace to the people, set out and at Kurma-kshetra[^314-1] beheld Jagannatha in the form of the Tortoise.
+**1.** Meanwhile Sarvabhauma Bhattacharya[^314-1][^314-2] was so distressed that he was as if senseless; and so too all the devotees were troubled at heart at that time.
 
-**2.** A certain brahmana named Kurma, for whom the sight of the Lord was a great festival, joyfully offered Him hospitality and counted that day well spent.
+**2.** Sri Krishna Chaitanya, for His part, set out southward and, coming to Alalanatha[^314-3], lost all control of His body for love:
 
-**3.** And Vasudeva[^314-2], the best of brahmanas, seeing Sri Purushottama, recognised Him as Krishna in the rapture of that sight and began to dance.
+**3.** loudly, again and again, He cried, "Krishna, Krishna, Krishna!" — now rolling on the ground, now swooning, now babbling,
 
-**4.** Bhagavan embraced that brahmana, a leper and the best of great devotees, and he shone like gold.
+**4.** now singing the names "Govinda, Krishna, Rama!" — and at the sight of Alalanatha His whole body was flooded with great love.
 
-**5.** Seeing both His devotees filled with love, the Husband of Shri said to them, "By My command lead the people to devotion to Krishna — easily and joyfully."
+**5.** Meeting a man on the road, He embraced him and passed His power into him; and the man, overwhelmed by love, at once began to dance and sing for joy.
 
-**6.** So saying, Hari Gaurachandra at once vanished, chanting "Krishna, Krishna!" and leaving His people in amazement.
+**6.** Bathed in a hundred streams of love, that man went home, and whenever he met the people of other villages he embraced them with love.
 
-**7.** Going on a little further, He beheld with great delight the Nrisimha called Jiyada[^314-3]; His eyes filled with tears of love and the hair of His body stood on end.
+**7.** And they in turn, at rest in love, sang and rejoiced. Thus, from one to another, He made them all alike.
 
-**8.** And the Lord of the worlds Himself, dear to His devotees, told the ancient story of how this Nrisimha submitted to His devotee:
+**8.** He spent one night in the land of Alalanatha, and on the next day He rose, completed His morning duties,
 
-**9.** "Once there lived here a farmer named Pundaya, known for growing mayambu fruit[^314-4].
+**9.** and, setting out for the southern country, sang thus and danced:
 
-**10.** Murari, taking the form of a boar, tore his field to pieces, and the strong and virtuous cowherd fought with Him.
+**10.** "Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O!
 
-**11.** But the Boar, pierced by his arrow, began to cry out, 'Rama, Rama!' — and from this the cowherd knew that He was the Lord, and he began to fast and keep other vows.
+**11.** Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, save me! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, protect me!"[^314-4]
 
-**12.** And the merciful Bhagavan said, 'Sprinkle this place with milk, and you will surely see Me together with the king.' Such was His word.
+**12.** Reciting this mantra, He was flooded with tears of love; He rolled on the ground and ran, shaken with trembling; saying, "Here is Hari!" He wept, His voice choked with tears, and cast loving glances at the trees and creepers.
 
-**13.** Hearing the word of Bhagavan, the cowherd, overflowing with love, made the command known to the king, and the king carried it out exactly."[^314-5]
+**13.** When He came to Kurma-kshetra, where Janardana dwells in the form of the Tortoise, the best of brahmanas, named Kurma, set about honouring Him
 
-**14.** Meanwhile Sarvabhauma Bhattacharya[^314-6] was so distressed that he was as if senseless; and so too all the devotees were troubled at heart at that time.
+**14.** and with faith fed the Lord on fine food — prasada[^314-5].
 
-**15.** Sri Krishna Chaitanya, for His part, set out southward and, coming to Alalanatha[^314-7], lost all control of His body for love:
+**15.** Then Bhagavan, wishing to show grace to the people, set out and at Kurma-kshetra[^314-6] beheld Jagannatha in the form of the Tortoise.
 
-**16.** loudly, again and again, He cried, "Krishna, Krishna, Krishna!" — now rolling on the ground, now swooning, now babbling,
+**16.** A certain brahmana named Kurma, for whom the sight of the Lord was a great festival, joyfully offered Him hospitality and counted that day well spent.
 
-**17.** now singing the names "Govinda, Krishna, Rama!" — and at the sight of Alalanatha His whole body was flooded with great love.
+**17.** And Vasudeva[^314-7], the best of brahmanas, seeing Sri Purushottama, recognised Him as Krishna in the rapture of that sight and began to dance.
 
-**18.** Meeting a man on the road, He embraced him and passed His power into him; and the man, overwhelmed by love, at once began to dance and sing for joy.
+**18.** Bhagavan embraced that brahmana, a leper and the best of great devotees, and he shone like gold.
 
-**19.** Bathed in a hundred streams of love, that man went home, and whenever he met the people of other villages he embraced them with love.
+**19.** Seeing both His devotees filled with love, the Husband of Shri said to them, "By My command lead the people to devotion to Krishna — easily and joyfully."
 
-**20.** And they in turn, at rest in love, sang and rejoiced. Thus, from one to another, He made them all alike.
+**20.** So saying, Hari Gaurachandra at once vanished, chanting "Krishna, Krishna!" and leaving His people in amazement.
 
-**21.** He spent one night in the land of Alalanatha, and on the next day He rose, completed His morning duties,
+**21.** Going on a little further, He beheld with great delight the Nrisimha called Jiyada[^314-8]; His eyes filled with tears of love and the hair of His body stood on end.
 
-**22.** and, setting out for the southern country, sang thus and danced:
+**22.** And the Lord of the worlds Himself, dear to His devotees, told the ancient story of how this Nrisimha submitted to His devotee:
 
-**23.** "Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O!
+**23.** "Once there lived here a farmer named Pundaya, known for growing mayambu fruit[^314-9].
 
-**24.** Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, save me! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, protect me!"[^314-8]
+**24.** Murari, taking the form of a boar, tore his field to pieces, and the strong and virtuous cowherd fought with Him.
 
-**25.** Reciting this mantra, He was flooded with tears of love; He rolled on the ground and ran, shaken with trembling; saying, "Here is Hari!" He wept, His voice choked with tears, and cast loving glances at the trees and creepers.
+**25.** But the Boar, pierced by his arrow, began to cry out, 'Rama, Rama!' — and from this the cowherd knew that He was the Lord, and he began to fast and keep other vows.
 
-**26.** When He came to Kurma-kshetra, where Janardana dwells in the form of the Tortoise, the best of brahmanas, named Kurma, set about honouring Him
+**26.** And the merciful Bhagavan said, 'Sprinkle this place with milk, and you will surely see Me together with the king.' Such was His word.
 
-**27.** and with faith fed the Lord on fine food — prasada[^314-9].
+**27.** Hearing the word of Bhagavan, the cowherd, overflowing with love, made the command known to the king, and the king carried it out exactly.
 
-**28.** "Merely by the pouring of milk Bhagavan revealed Himself — His holy form — to the virtuous, and, as He did, kept the others away[^314-10].
+**28.** Merely by the pouring of milk Bhagavan revealed Himself — His holy form — to the virtuous, and, as He did, kept the others away[^314-10].
 
 **29.** Some time later a man who lived by trade came, accompanied by his wife, wishing to behold the Lord.
 
@@ -3360,16 +3364,15 @@ Bhaktisiddhanta Sarasvati.
 
 *Thus ends the fourteenth sarga, "The Story of Sri Jiyada-Nrisimha" (Sri-Jiyada-Nrisimha-prasanga), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
 
-
-[^314-1]: Kurma-kshetra (Srikurmam): a shrine of Vishnu in the form of the Tortoise on the coast south of Orissa.
-[^314-2]: Vasudeva: a brahmana suffering from leprosy, whom the Lord healed (v. 4).
-[^314-3]: Jiyada-Nrisimha: the deity of Nrisimha at Simhachala (near Vishakhapatnam); the origin of the name is told in vv. 29–32.
-[^314-4]: The farmer's name and the name of the crop are obscure in the editions and are given as they read.
-[^314-5]: The story of Jiyada continues in v. 28. In the Bengali edition (Calcutta, 1945) the verses of this sarga stand in a different order: first 14–27, then 1–13 and 28–33; that order matches the Lord's route (Alalanatha — Kurma-kshetra — Jiyada-Nrisimha) and does not break the story. Here the order and numbering of the base edition are kept.
-[^314-6]: These and the following events take place after the Lord's departure from Puri (end of sarga 13).
-[^314-7]: Alalanatha: a temple of Vishnu at Brahmagiri, south of Puri.
-[^314-8]: This prayer is also quoted in Krishnadasa Kaviraja's "Chaitanya Charitamrita" (Madhya 7.96).
-[^314-9]: Verses 26–27 briefly repeat vv. 1–2; v. 27, like v. 22, survives in all the editions only as a half-verse.
+[^314-1]: These and the following events take place after the Lord's departure from Puri (end of sarga 13).
+[^314-2]: The verses of this sarga are given in the order of the Bengali edition (Calcutta, 1945): in this order the narrative follows the Lord's route (Alalanatha — Kurma-kshetra — Jiyada-Nrisimha) without a break. In the principal edition (Haridasa Shastri) verses 1–14 of this sarga stand as 14–27 and verses 15–27 as 1–13, so that the story of Jiyada is broken there; verses 28–33 are the same.
+[^314-3]: Alalanatha: a temple of Vishnu at Brahmagiri, south of Puri.
+[^314-4]: This prayer is also quoted in Krishnadasa Kaviraja's "Chaitanya Charitamrita" (Madhya 7.96).
+[^314-5]: Verses 13–14 and 15–16 tell of the same event; v. 14, like v. 9, survives in all the editions only as a half-verse.
+[^314-6]: Kurma-kshetra (Srikurmam): a shrine of Vishnu in the form of the Tortoise on the coast south of Orissa.
+[^314-7]: Vasudeva: a brahmana suffering from leprosy, whom the Lord healed (v. 18).
+[^314-8]: Jiyada-Nrisimha: the Deity of Nrisimha at Simhachala (near Vishakhapatnam); the origin of the name is told in vv. 29–32.
+[^314-9]: The farmer's name and the name of the crop are obscure in the editions and are given as they read.
 [^314-10]: The second half of the verse is obscure; the rendering is conjectural.
 
 ---
@@ -3806,7 +3809,7 @@ Bhaktisiddhanta Sarasvati.
 
 ## Prakrama 4, Sarga 4. Beholding the Ghats, Wells and Other Places of Mathura-mandala
 
-*Krishnadasa shows the Lord Mathura: its walls and gates, Kamsa's palace, the prison and "the place where He passed water" as the infant Krishna, the houses of Uddhava, the washerman, the garland-maker, Kubja, Vasudeva and Ugrasena, the arena, the image of Gatashrama, the twelve ghats, the Well of Kamsa and other holy places; having gone round the city, the Lord takes His meal in Krishnadasa's house*
+*Krishnadasa shows the Lord Mathura: its walls and gates, Kamsa's palace, the prison and "the place where He passed water" as the infant Krishna, the houses of Uddhava, the washerman, the garland-maker, Kubja, Vasudeva and Ugrasena, the arena, the Deity of Gatashrama, the twelve ghats, the Well of Kamsa and other holy places; having gone round the city, the Lord takes His meal in Krishnadasa's house*
 
 **1.** "Hear, O ocean of compassion, the auspicious account of the land of Mathura. Behold first Madhupuri, the most beautiful royal capital.
 
@@ -3836,7 +3839,7 @@ Bhaktisiddhanta Sarasvati.
 
 **14.** In the south-east corner of the arena is the auspicious house of Vasudeva, and to the north-east of it is the house of Ugrasena[^404-4], built by the Creator.
 
-**15.** And south of it behold the image of Krishna as Gatashrama[^404-5]." Seeing it, Sri Gaurachandra thrilled all over.
+**15.** And south of it behold the Deity of Krishna as Gatashrama[^404-5]." Seeing it, Sri Gaurachandra thrilled all over.
 
 **16.** "Vishrama, Shramashanta, the ghat called Kamsakhali, Prayaga, the one named Tindu, Saptarshi, Moksha, Koti,
 
@@ -3864,7 +3867,7 @@ Bhaktisiddhanta Sarasvati.
 [^404-2]: The washerman: Kamsa's royal dyer, whom Krishna slew on entering Mathura; the garland-maker is Sudama, who crowned Krishna and Balarama with garlands (Bhagavata Purana 10.41).
 [^404-3]: Kubja: the hunchbacked maidservant of Kamsa whom Krishna made straight (Bhagavata Purana 10.42).
 [^404-4]: Ugrasena: Kamsa's father, deposed by him and restored to the throne by Krishna.
-[^404-5]: Gatashrama ("Freed from Weariness"): the image of Krishna resting after His victory over Kamsa, at the Vishrama Ghat.
+[^404-5]: Gatashrama ("Freed from Weariness"): the Deity of Krishna resting after His victory over Kamsa, at the Vishrama Ghat.
 [^404-6]: Ghats: bathing steps on the bank of the Yamuna.
 [^404-7]: The arena (ranga-bhumi) where Krishna and Balarama overcame Kamsa's wrestlers.
 [^404-8]: Agastya: the great sage, a hero of the Puranas.
@@ -4000,7 +4003,7 @@ Bhaktisiddhanta Sarasvati.
 
 **8.** Here Dhenuka was slain and mercifully set free; here Kaliya was subdued[^407-5] — behold this crystal-clear pool.
 
-**9.** Behold here too, O Teacher of the world, the image of the Subduer of Kaliya. Here Krishna, pretending to be chilled, came up out of the water.
+**9.** Behold here too, O Teacher of the world, the Deity of the Subduer of Kaliya. Here Krishna, pretending to be chilled, came up out of the water.
 
 **10.** And here the twelve Adityas[^407-6] rose in the sky; so those versed in the Vedas call this place the Ghat of the Twelve Adityas.
 
@@ -4124,7 +4127,7 @@ Bhaktisiddhanta Sarasvati.
 
 **12.** Behold this place, Gauranga, You who long for the rasa of Govinda: here the Beloved of rasa assumed sovereignty over Vrindavana.
 
-**13.** So, delighting in the rasa of the dance, He suddenly vanished, taking one of them with Him[^409-10], to increase the gopis' passion; behold that place.
+**13.** So, delighting in the rasa of the dance, He suddenly vanished, taking one of them with Him[^409-10], to heighten the gopis' love; behold that place.
 
 **14.** Who could describe, or even hear in full, her wondrous story? He was subject to her love, she held her Beloved in her power — and yet her
 
@@ -4414,7 +4417,7 @@ Bhaktisiddhanta Sarasvati.
 
 ## Prakrama 4, Sarga 14. The Favour to Gauridasa during the Pastimes in Navadvipa after the Journey to Vrindavana
 
-*The Lord comes to Kuliya, and the people of Navadvipa beg Him to return; Shachi welcomes and feeds her son; praise of Gauranga and Nityananda; the Lord leaves His image with Vishnupriya and sports with Gadadhara, Srivasa and Shridhara; in the house of Gauridasa Pandita, Gaura and Nityananda manifest Their images, eternal like all the Lord's forms*
+*The Lord comes to Kuliya, and the people of Navadvipa beg Him to return; Shachi welcomes and feeds her son; praise of Gauranga and Nityananda; the Lord leaves His Deity with Vishnupriya and sports with Gadadhara, Srivasa and Shridhara; in the house of Gauridasa Pandita, Gaura and Nityananda manifest Themselves as Deities, eternal like all the Lord's forms*
 
 **1.** Thus, travelling the road stage by stage, Gaurachandra came to the town called Kuliya[^414-1]. Hearing of the great treasure, the rest of the people of glorious Navadvipa went there too.
 
@@ -4430,7 +4433,7 @@ Bhaktisiddhanta Sarasvati.
 
 **7.** Glory for ever to Nityananda, intoxicated with love for Gaura! Taking Navadvipa, radiant with dense bliss, as his refuge, he serves his own Lord with hosts of loving devotees in their various moods, and with kirtanas of the nectar of His name destroys the threefold misery of the three worlds.
 
-**8.** Coming in a prakasha form[^414-4] to His beloved, Krishna made an image of Himself and abides in it; and she, Lakshmi herself, serves the Lord[^414-5].
+**8.** Coming in a prakasha form[^414-4] to His beloved, Krishna manifested His Deity form and abides in it; and she, Lakshmi herself, serves the Lord[^414-5].
 
 **9.** And together with Gadadhara, Gaurangachandra, the knower of rasa, sports day and night with the people of glorious Navadvipa, whose hearts are immersed in the sankirtana of Sri Krishna.
 
@@ -4440,9 +4443,9 @@ Bhaktisiddhanta Sarasvati.
 
 **12.** Then — glory to them! — Nityananda and Gaurachandra, the two Lords, the lords of the lords of all, came to the house of the pandita named Gauridasa[^414-7].
 
-**13.** Bound by his love, they each manifested a lovely, auspicious image of themselves, full of their own rasas and endowed with every power,
+**13.** Bound by his love, they each manifested a lovely, auspicious Deity of Themselves, full of their own rasas and endowed with every power,
 
-**14.** and in great delight gave them to him; dwelling there as they pleased, they partook, together with those two images, of food of many tastes.
+**14.** and in great delight gave them to him; dwelling there as they pleased, they partook, together with those two Deities, of food of many tastes.
 
 **15.** Seeing those two whose forms are being, consciousness and bliss, that best of brahmanas served them always with the pure rasa of friendship.
 
@@ -4456,9 +4459,9 @@ Bhaktisiddhanta Sarasvati.
 [^414-2]: A gesture of humble entreaty. The reading follows witness C; Haridasa Shastri's edition has "holding their cloths in their hands."
 [^414-3]: That is, food that is chewed, sucked, licked and drunk.
 [^414-4]: Prakasha: the Lord's manifestation in several places at once in one and the same form.
-[^414-5]: The beloved is Vishnupriya; the image is the form of the Lord which she served after He took sannyasa.
+[^414-5]: The beloved is Vishnupriya; the Deity is the form of the Lord which she served after He took sannyasa.
 [^414-6]: Shridhara was a poor seller of banana leaves and fruit in Navadvipa with whom the Lord loved to banter.
-[^414-7]: Gauridasa Pandita, an associate of the Lord from Ambika-Kalna; the images of Gaura and Nityananda spoken of next were worshipped in his house.
+[^414-7]: Gauridasa Pandita, an associate of the Lord from Ambika-Kalna; the Deities of Gaura and Nityananda spoken of next were worshipped in his house.
 
 ---
 
@@ -4571,3 +4574,254 @@ Bhaktisiddhanta Sarasvati.
 [^416-4]: Shringara: the rasa of conjugal love.
 [^416-5]: In Gaudiya Vaishnava tradition the lower pair of arms of the six-armed form usually holds the staff and waterpot of a sannyasi; here it is described in the pose of dance.
 [^416-6]: Verses 17–19 are Bhagavata Purana 10.34.20–22, with omissions.
+
+---
+
+## Prakrama 4, Sarga 17. The Favour to the Devotees
+
+*The devotees of Gauda, headed by Advaita, set out for Nilachala; the Lord sends His companions to meet them, and then Himself goes out with the devotees of the Kshetra to Lake Narendra, where the meeting takes place*
+
+**1.** Now all the devotees who lived in Gauda wished to go to Nilachala to see Gauranga.
+
+**2.** There was glorious Advaita Acharya, the Lord and teacher of the worlds, with his followers, full of supreme bliss; Srivasa with his brothers;
+
+**3.** Sri Chandrashekhara Acharya, called Acharyaratna; Pundarika Vidyanidhi, the treasury of love;
+
+**4.** the pandita named Gangadasa, endowed with every good quality; Vakreshvara Pandita and Pradyumna Brahmachari[^417-1];
+
+**5.** Haridasa Thakura and Haridasa the brahmana; Sri Vasudeva Datta and Sri Mukunda Datta;
+
+**6.** Sri Shivananda Sena with his sons and wife; Sri Govinda Ghosha and Mukunda, the best of singers;
+
+**7.** Vijaya the scribe and Sri Sadashiva Pandita; Purushottama, Sanjaya and the pandita named Shriman;
+
+**8.** Sri Nandana and Shuklambara Brahmachari; and the blissful devotee Shridhara, known as Kholavecha[^417-2];
+
+**9.** the scribe-pandita and the pandita named Gopinatha; Sri Garbha Pandita and Vanamali Pandita;
+
+**10.** Jagadisha Pandita and the Vaishnava named Hiranya; Buddhimanta Khan and Sri Purandara Acharya;
+
+**11.** Raghava Pandita and Murari, the lion among physicians[^417-3]; Sri Garuda Pandita and Gopinatha Simha;
+
+**12.** Sri Rama Pandita and Sri Narayana Pandita; Damodara Pandita and Raghunandana Thakura;
+
+**13.** Sri Mukunda, Narahari, Chiranjiva and Sulochana[^417-4]; Ramananda Vasu, Satyaraja[^417-5] and others.
+
+**14.** All of them, whose very life is Sri Krishna Chaitanya, full of love, came with Acharya Prabhu to Purushottama.
+
+**15.** Hari, the Lord of all, at once sent the devotees who were near Him to meet the devotees who had arrived at glorious Lake Narendra.
+
+**16.** Then the Lord, whose life is His devotees, who is subject to His devotees and ever gives them joy, resolved to go Himself.
+
+**17.** Nityananda Prabhu and Sri Gadadhara Pandita; Sri Paramananda Puri and Sri Sarvabhauma Bhatta;
+
+**18.** Jagadananda Pandita and Sri Kashi Mishra; Damodara Svarupa and Shankara Pandita;
+
+**19.** Sri Kashishvara Gosvami and Bhagavan Pandita; Srila Pradyumna Mishra and Sri Paramananda Patra;
+
+**20.** Sri Ramananda Raya and Govinda the doorkeeper; Brahmananda Bharati, Sri Rupa and Sri Sanatana;
+
+**21.** Sri Raghunatha Dasa and Sri Raghunatha the physician; the one called Sri Narayana-nanda[^417-6]; the son of the Acharya and his delight,
+
+**22.** Achyutananda Gosvami, dear to Gauranga as life itself; the one known as Shikhi Mahiti, Vaninatha and others —
+
+**23.** all the devotees who lived in the Kshetra went with the Lord. Accompanied by them, Krishna Chaitanya, who loves His devotees,
+
+**24.** the Supreme Lord, came to the shore of glorious Lake Narendra; and there divine Advaita too arrived with his devotees.
+
+**25.** At the very sight of the two of them all were filled with great jubilation: tears, trembling and the other signs of love seemed then to appear in bodily form.
+
+*Thus ends the seventeenth sarga, "The Favour to the Devotees" (Bhakta-anugraha), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^417-1]: Pradyumna Brahmachari is the one whom the Lord named Nrisimhananda.
+[^417-2]: "Kholavecha" (Bengali): "seller of khola," cups and leaves of the banana plant; Shridhara was a poor banana-seller of Navadvipa.
+[^417-3]: That is, the author of the poem himself, Murari Gupta, a physician by caste.
+[^417-4]: Mukunda, Narahari (Sarakara), Chiranjiva and Sulochana were devotees of Shrikhanda.
+[^417-5]: Ramananda Vasu and Satyaraja (Khan) were devotees of Kulinagrama.
+[^417-6]: The name is unclear; possibly two persons are meant, Narayana and Nanda.
+
+---
+
+## Prakrama 4, Sarga 18. The Play on Lake Narendra
+
+*The Lord meets the devotees of Gauda and Himself bows to the Vaishnavas; the festival Deities come to Lake Narendra, and Gaura plays in the water with His devotees, as Krishna once did with the gopis in the Yamuna; then the Lord goes to the temple and beholds Jagannatha*
+
+**1.** Seized by ecstatic feeling, overwhelmed by supreme bliss, they all fall flat on the ground like rods, crying "Hari!"
+
+**2.** And the Lord too, together with the Vaishnavas, bowed to the Vaishnavas, showing people of every ashrama and station how the Vaishnavas are to be honoured.
+
+**3.** "Even if a man's conduct has been very bad, if he worships Me with devotion to no other, he must certainly be regarded as a saint"[^418-1] — so it was spoken by the mouth of Krishna.
+
+**4.** Having revealed this for the good of all people, the Lord of the world paid homage to the Vaishnavas — a homage that shatters the pride of sannyasa and every other pride.
+
+**5.** Pervaded by trembling, tears and bristling hair, their bodies adorned with dust, they danced, bowed and sang again and again.
+
+**6.** Intoxicated with the bliss of seeing Gauranga, they forgot themselves and only cried, "Gauranga! Glory to Gauranga! Gauranga!"
+
+**7.** So too did the wives of the Vaishnavas, who saw Mahaprabhu from afar — but who knows the summit of their love, who could ever describe it?
+
+**8.** Truly they were filled with devotion to Sri Hari, of that there is no doubt: their mouths were full of Sri Krishna's name, and they were bathed in tears of love, their hair standing on end.
+
+**9.** Just then Rama and Krishna, and Sri Yatra-Govinda too[^418-2], came to Lake Narendra for play in the water.
+
+**10.** There too were the servants of Gaura and of Govinda — with great pomp, adorned with the sankirtana of Hari's name, with throngs of devotees and all the rest.
+
+**11.** And Govinda, Rama and Krishna, boarding a boat, make merry upon the water in great joy.
+
+**12.** Gaurachandra too entered the water with His devotees, playfully — He who delights in rasa with Gadadhara and gives joy to Nityananda.
+
+**13.** The dearest of Advaita Acharya, with Svarupa and the others, sports in supreme bliss, as of old in the Yamuna.
+
+**14.** That Hari, the Lord of Sanatana, Rupa and Sri Raghunatha, dear to Murari, Rama, Srivasa and Gauridasa,
+
+**15.** who has as His helpers Paramananda Puri, Vamshi[^418-3] and Ramananda, who gives honour to Kashishvara and delight to Haridasa —
+
+**16.** Gaura-Govinda, the Lord of the Vrindavana forests, the son of Shachi, manifesting Himself many times over[^418-4], sports together with each of His devotees.
+
+**17.** Each one thinks, "It is with me that Gauranga is playing," and so the devotees make merry in the water together with Him.
+
+**18.** So once in the Yamuna Govinda, eager for the rasa of the rasa dance, played many kinds of games with the gopis,
+
+**19.** and the gopis delighted Krishna, absorbed in water-play, with the ever-new graceful plays of their love.
+
+**20.** Having thus held the water-play as befitted, Gauranga, and Rama and Krishna, and Sri Yatra-Govinda
+
+**21.** rise from the lake; They are adorned with the finest ornaments and worshipped with offerings, and each is attended by His own servants.
+
+**22.** With dancing, music, sweet singing and the rest, Rama and Krishna and Sri Yatra-Govinda joyfully went with their own people to the temple.
+
+**23.** And Gauranga, with His own devotees and with the supreme sankirtana of Krishna, went in the mood of a devotee to the temple of Sri Hari.
+
+**24.** Seeing the face of Jagannatha, He and His devotees were overwhelmed with love, and leaning against the Garuda pillar He stood, longing to behold Him.
+
+**25.** Rejoicing in Nityananda's joy, surrounded by His devotees, Gaurachandra sees the two side by side — Rama and Janardana[^418-5].
+
+*Thus ends the eighteenth sarga, "The Play on Lake Narendra" (Narendra-saro-vihara), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^418-1]: Bhagavad-gita 9.30.
+[^418-2]: Rama, Krishna and Yatra-Govinda are festival Deities (utsava-murtis) of the Jagannatha temple, who at the Chandana-yatra festival are brought to Lake Narendra for play in a boat.
+[^418-3]: Vamshi: probably Vamshivadana, a companion of the Lord.
+[^418-4]: Literally, "by His self-manifestation": the Lord manifests Himself simultaneously in many forms (prakasha), so that each devotee plays with Him in person.
+[^418-5]: That is, Balarama and Jagannatha on the temple altar.
+
+---
+
+## Prakrama 4, Sarga 19. The Kirtana of Gauranga Performed by Sri Advaita Prabhu
+
+*In Kashi Mishra's house the Lord and His devotees partake of Jagannatha's prasada, and He Himself feeds them; the devotees are lodged in houses, their wives cook for the Lord, and Advaita feeds Him in private; Advaita begins a new kirtana of Gaurachandra's names, and all dance in ecstasy*
+
+**1.** Then the Lord, the Lord of the world, leaning on Nityananda, soon came with the devotees to the house of Kashinatha[^419-1].
+
+**2.** Together with Nityananda, Srila Advaita and the others He partook of Jagannatha's prasada, offered by Svarupa and the others —
+
+**3.** foods of four kinds[^419-2] — and then He who fulfils His devotees' desires began to feed His own devotees, fondling them as if they were His sons.
+
+**4.** "Eat, eat, eat!" said Hari, the treasury of mercy, the rasa of parental love embodied, to Jagadananda, Svarupa and the others.
+
+**5.** Thus, skilfully addressing each in turn, and having fed the Vaishnavas with abundant foods of four kinds,
+
+**6.** the Lord of the world, when the rinsing of the mouth and other rites were completed, adorned them in due order with sandal paste and flower garlands.
+
+**7.** The devotees of Gauda headed by Nityananda and Advaita, and also the Vaishnavas living in Utkala and in Shvetadvipa[^419-3] —
+
+**8.** all of them the compassionate Lord, who loves His devotees, cherished with a parent's tenderness, and then He sat happily among them, eager for sankirtana.
+
+**9.** By the king's order the mahapatra[^419-4] named Chandaneshvara lodged the devotees comfortably in various houses.
+
+**10.** Thus all the devotees, given to sankirtana, stayed with the Lord, who delights in sankirtana.
+
+**11.** From the provisions they had carefully brought for the Lord's pleasure, the Vaishnavas' wives cooked with the greatest reverence a meal
+
+**12.** of four kinds of flavours, sprinkled with ghee; and the Lord, with His devotees and His elder brother, happily ate it.
+
+**13.** Divine Advaita himself cooked excellent, most sweet rice and, bringing it with his wife,
+
+**14.** fed in private milk-rice with ghee to Krishna Chaitanya, who loves His devotees, dear to him as his own life.
+
+**15.** Thus in turn Srivasa Pandita and the others, with their wives, served the Lord, Gauranga, to their heart's content.
+
+**16.** And then Advaita Gosvami, having taken counsel with his own people, begins a new and auspicious sankirtana of Gaurachandra's names.
+
+**17.** Forming a circle with the Vaishnavas, he rejoices, dances wildly, leaping high, roars, and at times runs about.
+
+**18.** Lord Nityananda too dances, imbued with love for Gauranga — at the stamping of his feet in the dance the three worlds tremble.
+
+**19.** "O Gaurachandra, my life and all, deliver me, O Lord! O beloved of Nityananda, Gaura, who give rasa to Gadadhara!
+
+**20.** O You who are dear as life to Srivasa and the others, giver of love, ocean of compassion!" Such sankirtana Gauranga Himself, who loves kirtana,
+
+**21.** took to be the sankirtana of Krishna, and overpowered by love He sang; and the bliss of that kirtana shone forth, filling the whole universe.
+
+**22.** Each one sees Gaurachandra dancing right before him, as the boys who feasted in the forest saw Krishna in their midst[^419-5].
+
+**23.** And though he is the Lord himself, Nityananda, great in power, dances in the madness of love together with divine Advaita Acharya.
+
+**24.** He strides like a maddened lion, as if setting the very earth in motion[^419-6] — but he is the giver of love for Gauranga: what wonder is there in that?
+
+**25.** Gadadhara too, who gives joy to Gauranga, dances in bliss; and all the others headed by Srivasa, whose hearts are given to Gaura, dance blissfully.
+
+**26.** Only one into whose heart this kirtana of Gauranga's qualities has entered can bear witness to it — not others, though they be millions and have reached the far shore of knowledge.
+
+*Thus ends the nineteenth sarga, "The Kirtana of Gauranga Performed by Sri Advaita Prabhu" (Shrimad-advaita-prabhu-kritam shri-gauranga-kirtanam), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^419-1]: Kashinatha is Kashi Mishra, in whose house at Puri the Lord lived.
+[^419-2]: The four kinds of food: what is chewed, sucked, licked and drunk.
+[^419-3]: Shvetadvipa ("the White Island") is the Lord's abode in the Ocean of Milk; what is meant here (celestial Vaishnavas or some locality) is unclear.
+[^419-4]: Mahapatra: the title of a high official at the court of the king of Orissa.
+[^419-5]: Cf. Bhagavata Purana 10.13.8: at the forest meal each of the cowherd boys saw Krishna facing him.
+[^419-6]: The reading of this passage is unclear; the translation is conjectural.
+
+---
+
+## Prakrama 4, Sarga 20. The Play in the Gundicha Temple
+
+*The Lord asks Damodara Pandita about His mother's devotion; the bathing festival, the anavasara and the journey to Alalanatha; the Ratha-yatra: in the mood of Radha the Lord leads Jagannatha to Gundicha as to Vrindavana*
+
+**1.** Once Krishna[^420-1] asked Sri Damodara Pandita, "Tell Me truly: is My mother's devotion to Krishna firm?"
+
+**2.** Hearing this, he answered angrily, "It is only by her grace that there is in You that devotion, full of the rasa of Krishna, whose nature is eternal bliss!"
+
+**3.** Hearing this, the Lord tenderly embraced the brahmana and said, "My friend, all that you have said to Me is true.
+
+**4.** It is only by her command that I live in this Kshetra, of that there is no doubt — and yet her love draws Me back to her again and again."
+
+**5.** Then Hari, with His devotees and His elder brother, beheld in great joy the great bathing festival[^420-2] of Sri Jagadisha.
+
+**6.** Afterwards, seeing that the anavasara[^420-3] of Rama and Madhava had come, the Lord, tormented by grief, went with His devotees to Alalanatha[^420-4];
+
+**7.** beholding the Lord there, He stayed seven nights, and then hastened back to see the Netrotsava[^420-5] of the Lord of the world and His elder brother.
+
+**8.** The Lord, who regards Himself as a devotee, holding Nityananda's hand, danced with His own people in the bliss of the rasa of sankirtana.
+
+**9.** Then, coming to His own dwelling surrounded by His devotees, Hari partook of the mahaprasada given by the devotees and shone with happiness.
+
+**10.** Thus Sri Gaurachandra, deeply intoxicated with the rasa of eternal bliss, hastened with His devotees to see the auspicious chariot festival of Hari and Rama, full of great majesty.
+
+**11.** Seeing Rama and Madhusudana, and Subhadra together with Sudarshana[^420-6] — the two standing on their chariots and her standing on her chariot — He joyfully bowed to them together with His elder brother.
+
+**12.** The chariots, like Mount Sumeru, roll swiftly towards the temple of Sri Gundicha, and before them goes Gaurachandra with His devotees, imbued with every feeling of love.
+
+**13.** Beholding the lotus face of Jagannatha and remembering the vast splendour of Kurukshetra[^420-7], Hari went surrounded by His devotees, who were immersed in the ocean of the bliss of sankirtana.
+
+**14.** Utterly intoxicated by the weight of Sri Radhika's love, laughing and weeping, He said, "It is You, My Lord — come! I am going to Vraja-mandala, O mighty one, to Vrindavana, where the lovely flute is sounding."
+
+**15.** Saying this — the elephant of His mind plunged deep in the ocean of the sweetness of dance and song — He swiftly reached the temple of Sri Gundicha together with the chariot of the Lord of the world.
+
+**16.** When Rama and Janardana, coming together, had happily entered the glorious temple and taken their places on the jewelled, self-luminous altars, He, seeing this, ardently exclaimed, "Have You come?"
+
+**17.** "Sri Hari has come to Vrindavana!" the Lord proclaimed aloud, echoing the cries of the crowd; and, going through the whole lovely garden, thirsting for His own bliss, He was filled with every feeling of love.
+
+**18.** Beholding all the splendour of the rasa of Jagannatha's food offerings and other services, He performs a great kirtana together with the devotees.
+
+**19.** Regarding all this as the very rasa play, auspicious and full of waves of play and dance, of the Foe of Mura who sports in Vrindaranya, Sri Hari — the son of Sri Nanda Himself, the relisher of the rasa of devotion, in the form of Gauranga, whose body bears the sweetness of Sri Radha's rasa — assumed the splendour of His own kingdom[^420-8].
+
+*Thus ends the twentieth sarga, "The Play in the Gundicha Temple" (Shri-gundicha-mandira-vilasa), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^420-1]: That is, Sri Krishna Chaitanya.
+[^420-2]: The Snana-yatra: the bathing festival of Jagannatha on the full moon of the month of Jyaishtha.
+[^420-3]: The anavasara: the two weeks after the Snana-yatra, when the Deities are hidden from the pilgrims' sight.
+[^420-4]: Alalanatha: the Deity of Vishnu at Brahmagiri, not far from Puri.
+[^420-5]: The Netrotsava ("festival of the eyes"): the day when Jagannatha appears again after the anavasara, on the eve of the Ratha-yatra.
+[^420-6]: Sudarshana, the Lord's disc, worshipped on the chariot together with Subhadra.
+[^420-7]: The meeting of Krishna with the people of Vraja at Kurukshetra; at the Ratha-yatra the Lord, in Radha's mood, as it were brings Krishna back from Kurukshetra to Vrindavana (the Gundicha temple).
+[^420-8]: That is, Krishna Himself, having assumed in the form of Gauranga the mood and lustre of Radha, enjoys at Gundicha, as in Vrindavana, the treasure of His own abode.

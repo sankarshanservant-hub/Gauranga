@@ -323,3 +323,21 @@
 | आराधनतिथि | день поминовения (арадхана) | day of remembrance (aradhana) |
 | गजपति | Гаджапати | the Gajapati |
 | प्रलम्बारि, मुरद्विष् | Враг Праламбы (Баларама), Враг Муры (Кришна) | the Enemy of Pralamba (Balarama), the Foe of Mura (Krishna) |
+| प्रद्युम्न ब्रह्मचारी, हरिदास द्विज | Прадьюмна Брахмачари, Харидас-брахман | Pradyumna Brahmachari, Haridasa the brahmana |
+| शिवानन्द सेन, गोविन्द घोष | Шивананда Сена, Говинда Гхош | Shivananda Sena, Govinda Ghosha |
+| लेखक विजय, सदाशिव पण्डित, पुरुषोत्तम, सञ्जय, श्रीमान् पण्डित | писец Виджая, Садашива Пандит, Пурушоттама, Санджая, Шриман Пандит | Vijaya the scribe, Sadashiva Pandita, Purushottama, Sanjaya, Shriman Pandita |
+| श्रीनन्दन, खोलावेचा (श्रीधर) | Шри Нандана, Кхолавеча (Шридхара) | Sri Nandana, Kholavecha (Shridhara) |
+| गोपीनाथ पण्डित, श्रीगर्भ, जगदीश, हिरण्य | Гопинатха Пандит, Шри Гарбха, Джагадиша, Хиранья | Gopinatha Pandita, Sri Garbha, Jagadisha, Hiranya |
+| बुद्धिमन्त खान, पुरन्दर आचार्य, गरुड पण्डित, गोपीनाथ सिंह | Буддхиманта Кхан, Пурандара Ачарья, Гаруда Пандит, Гопинатха Симха | Buddhimanta Khan, Purandara Acharya, Garuda Pandita, Gopinatha Simha |
+| श्रीराम पण्डित, श्रीनारायण पण्डित | Шри Рама Пандит, Шри Нараяна Пандит | Sri Rama Pandita, Sri Narayana Pandita |
+| मुकुन्द, चिरञ्जीव, सुलोचन (Шрикханда); रामानन्द वसु, सत्यराज (Кулинаграма) | Мукунда, Чиранджива, Сулочана; Рамананда Васу, Сатьяраджа | Mukunda, Chiranjiva, Sulochana; Ramananda Vasu, Satyaraja |
+| जगदानन्द, भगवान् पण्डित, प्रद्युम्न मिश्र, परमानन्द पात्र | Джагадананда, Бхагаван Пандит, Прадьюмна Мишра, Парамананда Патра | Jagadananda, Bhagavan Pandita, Pradyumna Mishra, Paramananda Patra |
+| गोविन्द (द्वारपाल), ब्रह्मानन्द भारती | Говинда (привратник), Брахмананда Бхарати | Govinda (the doorkeeper), Brahmananda Bharati |
+| रघुनाथ दास, रघुनाथ (वैद्य), नारायणनन्द (?) | Рагхунатха Дас, Рагхунатха (лекарь), Нараяна-нанда (?) | Raghunatha Dasa, Raghunatha (the physician), Narayana-nanda (?) |
+| अच्युतानन्द, शिखि माहिति, वाणीनाथ | Ачьютананда (сын Адвайты), Шикхи Махити, Ванинатха | Achyutananda (Advaita's son), Shikhi Mahiti, Vaninatha |
+| यात्रागोविन्द, रामकृष्ण (उत्सवमूर्ति) | Ятра-Говинда, Рама и Кришна (праздничные Божества) | Yatra-Govinda, Rama and Krishna (festival Deities) |
+| वंशी (спутник) | Вамши (Вамшивадана?) | Vamshi (Vamshivadana?) |
+| महापात्र, चन्दनेश्वर | махапатра (сановник), Чанданешвара | mahapatra (minister), Chandaneshvara |
+| श्वेतद्वीप | Шветадвипа | Shvetadvipa |
+| स्नानयात्रा, अनवसर, नेत्रोत्सव, रथयात्रा (स्यन्दनोत्सव) | Снана-ятра, анавасара, Нетротсава, Ратха-ятра (праздник колесниц) | the Snana-yatra, the anavasara, the Netrotsava, the Ratha-yatra (chariot festival) |
+| सुभद्रा, सुदर्शन (चक्र), सुमेरु, कुरुक्षेत्र | Субхадра, Сударшана (диск), Сумеру, Курукшетра | Subhadra, Sudarshana (the disc), Sumeru, Kurukshetra |
