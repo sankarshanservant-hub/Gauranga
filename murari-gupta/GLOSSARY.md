@@ -345,3 +345,7 @@
 | पद्मावती (мать Нитьянанды), विभीषण, रामदास (колофон 4.21) | Падмавати, Вибхишана, Рамадас | Padmavati, Vibhishana, Ramadasa |
 | पानिहाट, सप्तग्राम, त्रिवेणी (मुक्तवेणी), बडगाछी | Панихати, Саптаграма, Тривени (Мукта-вени), Бадагачхи | Panihati, Saptagrama, the Triveni (Mukta-veni), Badagachhi |
 | गदाधर (दास), पुरन्दर (पण्डित?), उद्धारण (दत्त), सुन्दर(ानन्द), श्रीराम/रामदास (अभिराम), कृष्णदास (Бадагачхи) | Гададхара (Дас), Пурандара (Пандит?), Уддхарана (Датта), Сундара(нанда), Шри Рама / Рамадас (Абхирама), Кришнадас | Gadadhara (Dasa), Purandara (Pandita?), Uddharana (Datta), Sundara(nanda), Sri Rama / Ramadasa (Abhirama), Krishnadasa |
+| चटकगिरि (चटकपर्वत) | холм Чатака (Чатака-парвата) | Chataka hill (Chataka-parvata) |
+| रेवती, रोहिणीनन्दन, यशोदानन्दन | Ревати, Рохининандана, Яшоданандана | Revati, Rohininandana, Yashodanandana |
+| जङ्घाल | насыпная дорога (?) | raised road (?) |
+| ग्रन्थानुकथन | пересказ книги (Грантха-анукатхана) | recapitulation of the book (Grantha-anukathana) |

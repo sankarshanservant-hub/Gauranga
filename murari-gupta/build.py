@@ -29,7 +29,8 @@ INTRO = {
 «Шри Кришна-чайтанья-чаритамрита» — санскритская поэма Мурари Гупты, земляка и спутника Шри Чайтаньи, свидетеля
 его жизни в Навадвипе; в традиции её зовут «Кадачей» («записками») Мурари Гупты. Это самое раннее жизнеописание
 Махапрабху; на него опирались Вриндаван Дас, Кавикарнапура, Лочана Дас и Кришнадас Кавираджа. Поэма разделена на
-четыре пракрамы (части) и 78 сарг (песней).
+четыре пракрамы (части) и 78 сарг (песней); по счёту самого автора (4.26.21) в ней 1927 шлок. Последняя шлока
+датирует окончание книги 1435 годом (эры Шака), то есть 1513 г. н. э.
 
 **Источник.** Санскритский текст восстановлен по трём распознанным (OCR) копиям: двум сканам издания Харидаса Шастри
 (Вриндаван) и изданию Харидаса Даса (Калькутта, 1945, бенгальское письмо); чтения выверены по метру и грамматике.
@@ -41,7 +42,8 @@ INTRO = {
 *Sri Krishna-chaitanya-charitamrita* is the Sanskrit poem of Murari Gupta, a fellow-countryman and companion of
 Sri Chaitanya and an eyewitness of his life in Navadvipa; tradition calls it Murari Gupta's *Kadacha* ("notes"). It
 is the earliest biography of Mahaprabhu, drawn upon by Vrindavana Dasa, Kavikarnapura, Lochana Dasa and Krishnadasa
-Kaviraja. The poem is divided into four *prakramas* (parts) and 78 *sargas* (cantos).
+Kaviraja. The poem is divided into four *prakramas* (parts) and 78 *sargas* (cantos); by the author's own count (4.26.21)
+it has 1,927 verses. The last verse dates the completion of the book to the year 1435 (of the Shaka era), that is, 1513 CE.
 
 **Source.** The Sanskrit text has been reconstructed from three OCR copies: two scans of the edition of Haridasa
 Shastri (Vrindavana) and the edition of Haridasa Dasa (Calcutta, 1945, Bengali script); readings were checked against

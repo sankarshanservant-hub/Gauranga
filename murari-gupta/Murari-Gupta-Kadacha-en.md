@@ -13,7 +13,8 @@
 *Sri Krishna-chaitanya-charitamrita* is the Sanskrit poem of Murari Gupta, a fellow-countryman and companion of
 Sri Chaitanya and an eyewitness of his life in Navadvipa; tradition calls it Murari Gupta's *Kadacha* ("notes"). It
 is the earliest biography of Mahaprabhu, drawn upon by Vrindavana Dasa, Kavikarnapura, Lochana Dasa and Krishnadasa
-Kaviraja. The poem is divided into four *prakramas* (parts) and 78 *sargas* (cantos).
+Kaviraja. The poem is divided into four *prakramas* (parts) and 78 *sargas* (cantos); by the author's own count (4.26.21)
+it has 1,927 verses. The last verse dates the completion of the book to the year 1435 (of the Shaka era), that is, 1513 CE.
 
 **Source.** The Sanskrit text has been reconstructed from three OCR copies: two scans of the edition of Haridasa
 Shastri (Vrindavana) and the edition of Haridasa Dasa (Calcutta, 1945, Bengali script); readings were checked against
@@ -104,6 +105,9 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 21. Grace to Ramadasa
   - Prakrama 4, Sarga 22. The Festival of the Meeting of Sri Nityananda and Advaita
   - Prakrama 4, Sarga 23. The Pastimes of Sri Nityananda
+  - Prakrama 4, Sarga 24. The Pastimes in the Circle of Devotees
+  - Prakrama 4, Sarga 25. Recapitulation of the Book: From the Birth of Sri Krishna to the Darshan of Gopinatha
+  - Prakrama 4, Sarga 26. [The Conclusion of the Poem]
 
 ---
 
@@ -5030,3 +5034,249 @@ Bhaktisiddhanta Sarasvati.
 [^423-4]: A single earring is a mark of Balarama.
 [^423-5]: Badagachhi: a village in Bengal; Krishnadasa was a companion of Nityananda who lived there.
 [^423-6]: Ramadasa: apparently Abhirama (Ramadasa), a companion of Nityananda, Shridama in Krishna's lila (cf. 4.22.11).
+
+---
+
+## Prakrama 4, Sarga 24. The Pastimes in the Circle of Devotees
+
+*Gaura in Puri, filled with Radha's mood: His divine madness; Ramananda and Svarupa sing of the rasa-lila; Nityananda comes from Gauda; Gaura and Nityananda speak of the bhakti of Vraja; the names of Krishna and Balarama*
+
+**1.** Then Sri Gaurangachandra, surrounded by Svarupa and others and filled with the sweetness of Sri Radha's mood, was no longer aware of anything else.
+
+**2.** Together with Ramananda, Hari Himself, who yields to His devotees, tasted the splendour of Krishna's sweetness and gave His devotees to taste it.
+
+**3.** The forests and groves that recalled Vrindavana, and His search for Sri Krishna in them; what recalled the Yamuna —
+
+**4.** and His fall into the sea, as Svarupa and others have made known[^424-1]; His five senses drawn by the five qualities of Krishna[^424-2];
+
+**5.** His fall among the cows and His rapture in the shape of a tortoise; the broken speech and the tales born of remembering the Sri rasa-lila;
+
+**6.** Chataka hill, seen by Him as Govardhana[^424-3]; the tasting of the nectar of Krishna's lips, wholly in the mood of the gopis;
+
+**7.** the divine madness that flared up at the mere thought of Mathura — all this arose in Bhagavan Himself, whose very nature is the rasa of bhakti and prema.
+
+**8.** His form was filled with the eight ecstatic transformations, the sattvika and the rest, and Ramananda and Svarupa served Him with what is called "the Rasa"[^424-4] —
+
+**9.** with verses befitting His mood, with singing of the rasa-lila and the like, they revealed the knowledge of the rasa of the pastimes of Sri Radha and Krishna.
+
+**10.** And Sri Chaitanya, rasa embodied, drank that wondrous nectar for the ears unceasingly, with the pure prema of Sri Radha.
+
+**11.** He whose nature is dense being, consciousness and bliss, He who is the beloved of Radha, was ever immersed in the rasa of a bliss imbued with Her mood.
+
+**12.** Whatever pastimes Krishna, the Lord of all lords, may perform — who can describe them, unless he has received His mercy?
+
+**13.** Ramananda, Svarupa, the one named Paramananda, Kashishvara, Vasudeva[^424-5], Govinda and others,
+
+**14.** and other connoisseurs of rasa, wholly given to Krishna's sankirtana, served Him constantly; and Krishna, imbued with the mood of a devotee, delighted in their service.
+
+**15.** Meanwhile Sri Nityananda, the Lord, having reached Sri Navadvipa, intoxicated with the rasa of Sri Chaitanya, sang His names and qualities,
+
+**16.** and He ever shone in fullness, proud of Gauranga's qualities: obeying His command, He stayed in Gauda, yet even there Gaura revealed Himself to Him.
+
+**17.** He acts by His own will, He is a knower of rasa: who can fathom His doings? Longing to see Gaura, He set out for Sri Purushottama.
+
+**18.** Coming to the flower garden and meditating on beautiful Gauranga, He rose and bowed, fell to the ground and bowed again and again.
+
+**19.** With deep roars of "hum!" and cries of "Glory to Gauranga!", in the highest love and great bliss, He praised Gaurachandra.
+
+**20.** Thus the two Supreme Lords, Krishna and Rama, drawn by the rasa of loving devotion, greeted each other.
+
+**21.** Sri Shachinandana said to Sri Nityananda, the Lord, "Son of Nanda[^424-6], You ever bestow the bhakti of Nanda's cowherd village.
+
+**22.** On Your body — an ocean of the bliss of Krishna's play — I see the supreme ninefold bhakti in the form of ornaments and the like[^424-7].
+
+**23.** The bhakti of the dwellers of Nanda's Gokula is the hardest of all to attain: only the pure in heart realise it, and among men it is attained but rarely.
+
+**24.** Yet You, by Your own will and with love, give that bhakti to women, children and all the rest. Is there any giver like You in this? Tell Me at once!"
+
+**25.** He laughed and replied, "Lord! It is You who give and take away, You who protect, You who bestow prema and are merciful to people — You alone, for You move all."
+
+**26.** On the one side is Nityananda with His associates, on the other Vishvambhara with Svarupa and others: both are forms of bliss, ever full of prema.
+
+**27.** Together with Gadadhara, constantly attended, They play at Their pleasure, overwhelmed with prema in Krishna's kirtana:
+
+**28.** "Yashodanandana, Krishna, Sri Gopi-prana-vallabha, Sri Radha-ramana, Ramanuja, Rasa-rasotsuka!
+
+**29.** Rohininandana, Krishna, Yajna, Rama, Bala, Hari, Revati-prana-natha, Rasa-keli-mahotsava!"[^424-8]
+
+**30.** Thus They sing the names, surrounded by hosts of devotees. Let everyone remember Them — Sri Krishna Chaitanya and Nityananda-Rama.
+
+*Thus ends the twenty-fourth sarga, "The Pastimes in the Circle of Devotees" (Bhakta-mandala-vilasa), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^424-1]: Taking the sea for the Yamuna, the Lord threw Himself into it; Svarupa and other devotees searched for Him and found Him. These pastimes of the Lord's last years in Puri are told in detail in Krishnadasa Kaviraja's "Chaitanya-charitamrita" (Antya-lila, chs. 14–18).
+[^424-2]: Krishna's form, voice, fragrance, the taste of His lips and His touch each draw one of the five senses — sight, hearing, smell, taste and touch.
+[^424-3]: Chataka-parvata: a sand hill on the seashore near Puri.
+[^424-4]: That is, with narration and songs of the rasa-lila, Krishna's dance with the gopis (cf. the next verse).
+[^424-5]: Paramananda: Paramananda Puri; Vasudeva: probably Vasudeva Datta; Govinda: the Lord's servant.
+[^424-6]: Nityananda is Balarama, who grew up in Nanda's house together with Krishna.
+[^424-7]: Cf. 4.23.13–15. The nine kinds of bhakti are hearing, chanting, remembering, serving the Lord's feet, worship, prayer, servitude, friendship and surrender of the self (Bhagavata Purana 7.5.23).
+[^424-8]: Names of Krishna and Balarama: Yashodanandana, son of Yashoda; Gopi-prana-vallabha, beloved of the gopis, dear to them as life; Radha-ramana, delight of Radha; Ramanuja, younger brother of Rama; Rasa-rasotsuka, eager for the rasa of the rasa dance; Rohininandana, son of Rohini (Balarama); Revati-prana-natha, lord of the life of Revati, Balarama's consort; Rasa-keli-mahotsava, He whose great festival is the play of the rasa dance.
+
+---
+
+## Prakrama 4, Sarga 25. Recapitulation of the Book: From the Birth of Sri Krishna to the Darshan of Gopinatha
+
+*Murari lists the contents of the poem, from the reason for the Lord's descent to His return from Gauda to Puri and the darshan of Gopinatha*
+
+**1.** So, brahmana[^425-1], I have told you the life of Sri Krishna in brief, like a sutra; Srivasa and other great souls will describe it in detail.
+
+**2.** Here Sri Gauranga Mahaprabhu is described again and again; and now, so that the fruit of the narrative may be tasted, its sequence is set out.
+
+**3.** The reason for Sri Krishna's descent, and His deeds; the sorrow of Narada on seeing people turned away from God;
+
+**4.** his journey to Vaikuntha and the consolation Sri Krishna gave him; the account of all the avataras, and the birth of Krishna[^425-2];
+
+**5.** the childhood pastimes and the rest; how He ate the wandering brahmana's food; the sannyasa of Vishvarupa, whose essence is Nityananda[^425-3];
+
+**6.** the passing of Jagannatha Mishra and the account of grief and sorrow; the charm of His pastimes of learning; how He freed His mother from grief;
+
+**7.** the marriage with Lakshmi; her passing while the Prabhu had gone to the eastern land; the consoling of grieving Shachi;
+
+**8.** the marriage with Vishnupriya, a splendour of supreme bliss; the meeting with Ishvara Puri and the completion of the rites at Gaya;
+
+**9.** the manifestation of ecstatic feelings and the form of the Boar; the auspicious beginning of sankirtana and the driving away of the clouds;
+
+**10.** His going away and plunging into the Ganga because of a false interpretation of the holy Name[^425-4]; the Lord's submission to the hosts of devotees; the meeting with Srila Advaita;
+
+**11.** mercy to the devotees; the meeting with Sri Nityananda; the bliss of beholding the six-armed form, which revealed Balarama;
+
+**12.** the cleansing of Hari's temple, to which the rasa of bhakti drew Him; the accepting of the devotees' gifts and the display of great majesty;
+
+**13.** the pastimes of dancing, singing and the rest; the plunge into the Ganga; the brahmana's curse, which turned into a blessing and became the cause of the deliverance of living beings;
+
+**14.** absorption in Balarama's rasa, the drinking of honey, the dancing and the rest; the Lord in the dress of a gopi, and the description of the sweetness of His dancing and singing;
+
+**15.** the consoling of Murari Gupta and others before the sannyasa; the lament of the people of Navadvipa and of the town of Kantaka[^425-5];
+
+**16.** the taking of the sannyasa name and the manifestation of the bliss of prema; the blessing of the Radha country and the sending of Chandrashekhara;
+
+**17.** how Nityananda ended Navadvipa's grief; the pastimes at Shantipura among the devotees;
+
+**18.** then the breaking of the staff; the darshan of Sri Gopinatha; the holy darshan of the Boar, and also of Viraja;
+
+**19.** the Vaitarani, Yajapura and the holy Shiva-lingas; the manifestation of many feelings; the darshan of Sri Bhuvaneshvara;
+
+**20.** the auspicious exposition of the rule on accepting the remnants of offerings[^425-6]; the vision of Gopala upon the temple and the Prabhu's weeping[^425-7];
+
+**21.** the darshan of the Shiva-linga at the lake of Markandeya; then the splendour of the bliss of beholding Sri Jagannatha;
+
+**22.** the renewed darshan of His holy face together with Sarvabhauma and others; the auspicious honouring and partaking of the holy mahaprasada;
+
+**23.** the deliverance of Sarvabhauma; Hari's journey south; the darshan of Kurmanatha and the mercy to the brahmana Kurma;
+
+**24.** the deliverance of Vasudeva[^425-8] and the imparting of power; the joyful relishing of the story of the Nrisimha called Jiyada;
+
+**25.** the auspicious meeting with Srila Ramananda Raya, which bestows all good; the meeting with Paramananda Puri, the disciple of Sri Madhava;
+
+**26.** the darshan of Panchavati, Ranga-kshetra and Ranganatha; how the Prabhu sent Sri Paramananda Puri on from there to the Kshetra;
+
+**27.** the darshan of the linga of Sri Rameshvara at Setubandha; then the description of the bliss of beholding Sri Jagannatha;
+
+**28.** the auspicious journey to Gauda with the aim of going to Vrindaranya; the most wondrous majesty of Krishna in Vachaspati's house;
+
+**29.** the glorification of the Srimad-Bhagavatam addressed to Devananda, and the auspicious account of the marks of its reciter and of its hearer;
+
+**30.** the excellent road laid by Sri Nrisimhananda[^425-9], and how along it, as far as Ramakeli and the place of Krishna's dancing[^425-10],
+
+**31.** the Lord journeyed; then the auspicious coming to Srila Advaita's house and the meeting once more with the devotees of Navadvipa;
+
+**32.** the joy of the holy meal and the worship of His mother's feet; and, on reaching Purushottama, the darshan of Sri Gopinatha[^425-11].
+
+*Thus ends the twenty-fifth sarga, "The Account from the Birth of Sri Krishna to the Darshan of Gopinatha" (Shri-krishna-janmadi-gopinatha-darshana-paryanta-kathana), in the "Recapitulation of the Book" (Grantha-anukathana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^425-1]: Damodara Pandita, to whom Murari narrates the poem (cf. 1.02.15). Verses 3–32 list the contents of the first three prakramas of the poem.
+[^425-2]: That is, the appearance of Sri Krishna Chaitanya (1.05).
+[^425-3]: According to Gaudiya Vaishnava tradition, Vishvarupa, after taking sannyasa, entered into Nityananda (Balarama).
+[^425-4]: Cf. 2.04.33–34: hearing a brahmana's son speak slightingly of Krishna, the Lord went away and plunged into the Ganga together with His students.
+[^425-5]: Kantaka: Kantakanagara (Katwa), where the Lord took sannyasa.
+[^425-6]: The remnants of offerings to Shiva at Bhubaneshvara (3.09).
+[^425-7]: Above the temple of Jagannatha a boy with a flute appeared to the Lord (3.10).
+[^425-8]: The leper brahmana whom the Lord healed at Kurma-kshetra (3.14).
+[^425-9]: The road that Nrisimhananda laid out for the Lord in his mind (3.17.6–9); the word in the text apparently means a raised road or causeway.
+[^425-10]: Kanai Natyashala, from where the Lord turned back (3.17–3.18).
+[^425-11]: Gadadhara Pandita's Deity in Puri (3.18.23–27).
+
+---
+
+## Prakrama 4, Sarga 26. [The Conclusion of the Poem]
+
+*The contents of the fourth prakrama; the fruit of hearing; the number of sargas and verses; Damodara, Advaita and Srivasa praise the book; Murari dances; the date of completion*
+
+**1.** Also described is how the devotees wept when the Lord left for Vrindavana, and how the Prabhu consoled them;
+
+**2.** the journey by the forest path, Kashi, the darshan of Vishveshvara[^426-1] and the meeting with Tapana and others;
+
+**3.** the darshan of Lord Madhava at Prayaga[^426-2]; the way along the Yamuna; the forest of Agra, Renuka and other places, and Mathura;
+
+**4.** the ghats, wells and other holy places that He visited with Krishnadasa; Vrindaranya and all the twelve forests;
+
+**5.** in every village, in every forest, at every pond, the eternal and manifold manifestation of Krishna, and the re-enacting of His pastimes;
+
+**6.** the telling and the hearing, from Krishna's birth to the slaying of Kamsa and the rest, and the manifestation of each of those forms;
+
+**7.** the most wondrous description of His madness of love, its transformations and the rest; His manifestation in the home of every dweller of Vraja;
+
+**8.** the return; the meeting with Rupa at Prayaga and with Sanatana at Kashi; and, at the request of Tapana and others,
+
+**9.** the story of the deliverance of the people of Kashi, which removes sin; how He drank buttermilk from a cowherd; the auspicious coming to Navadvipa;
+
+**10.** the eternal pastimes there and in the house of Gauridasa[^426-3]; then the coming to the Acharya's house and the auspicious meeting;
+
+**11.** the devotees' rapture in rasa; the worship of His mother's feet; the honouring of Madhava Puri[^426-4]; then the departure for Niladri;
+
+**12.** the deliverance of Prataparudra; the sight of the Ratha-yatra and other festivals; the meeting with the devotees at Narendra Lake and the kirtana of Hari;
+
+**13.** the meal served by the devotees, and the singing of Gauranga's qualities begun by Advaita Prabhu; the mercy to Ramadasa[^426-5];
+
+**14.** Nityananda's pastimes and the rest, the singing of Gauranga's qualities; then the manifestation of divine madness and other states;
+
+**15.** the singing of the rasa-lila and the like by Ramananda, Svarupa and others; the description of Nityananda's pastimes and so on; His meeting with Gaura;
+
+**16.** and the splendour of Nityananda and Gaurangachandra, surrounded by Their devotees, together with Gadadhara, in the flower garden at Gundicha.
+
+**17.** Contemplating thus the life of Krishna Chaitanya, the wise are immersed forever in the ocean of the nectar of pure prema.
+
+**18.** For Krishna Himself, though He is the Lord, is the abode of the rasa of bhakti[^426-6], and tastes the wondrous sweetness of love for Himself and of His own Name.
+
+**19.** What splendour of prema would not arise from simply tasting His pastimes? Therefore, casting off envy, hear the glorification of Gauranga.
+
+**20.** This poem has four prakramas and seventy-eight sargas: the first has sixteen, the second eighteen,
+
+**21.** the third the same, the fourth twenty-six; and the verses number nineteen hundred and twenty-seven[^426-7].
+
+**22.** A lover of rasa who reads these verses with the greatest reverence will be forever filled with prema — and so will one of feeling heart, even by hearing them.
+
+**23.** Having heard all this glorification of the qualities of Nityananda and Gauranga, Sri Damodara Pandita bowed to Murari and said:
+
+**24.** "I have reached my goal, I have reached my goal, I have reached my goal — of this there is no doubt! Blessed are you, who fill hearts with the rasa of Krishna Chaitanya!"
+
+**25.** Srila Advaita Prabhu too, having joyfully heard this most sweet, well-ordered string of jewels of Srila Gaurangachandra's pastimes, said in delight to Sri Murari, "You are ever [devoted] to Ramachandra[^426-8]; that is why He has revealed through you this jewel of a book.
+
+**26.** For this Sri Rama has appeared in the world as Gaura[^426-9], and through this book He brings forth the very essence of the sweetness of prema. Hearing it, all the highest connoisseurs of rasa, their hearts full of prema, sing of Him, the giver of the highest bliss, and cast aside even liberation."
+
+**27.** Srivasa Pandita, receiving the book, joyful and most eager, said to Murari in a voice choked with love:
+
+**28.** "It is you who, to free the worlds from bondage, have set down in a book the pastimes of Hari, Bhagavan: hearing it, a person will be freed from fear."
+
+**29.** Thus all the devotees, having heard the wondrous narrative of the book, bowed to Murari and spoke among themselves of his tale.
+
+**30.** And Murari, duly bowing to them and clasping their lotus feet, cries out with love, "Glory to Krishna Chaitanya and Rama!"[^426-10] — and dances and calls aloud.
+
+**31.** Embracing one another, they were all filled with the rasa of Sri Gaurachandra: "Through one man Shripati has revealed His pastimes for the good of the world — this is a deep secret!"[^426-11]
+
+**32.** This book was completed at the end of fourteen hundred years, in the thirty-fifth year, on the seventh day of the bright half of the month of Ashadha[^426-12].
+
+*Thus ends the twenty-sixth sarga of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita." The book is complete.*
+
+[^426-1]: Vishveshvara: Shiva, the lord of Kashi; Tapana: Tapana Mishra (cf. 4.13).
+[^426-2]: Veni-Madhava, the Deity of the Lord at Prayaga.
+[^426-3]: In the house of Gauridasa Pandita, Gaura and Nityananda manifested Themselves in Deities and eternally reside there (4.14).
+[^426-4]: Madhavendra Puri, the guru of Ishvara Puri, on the day of his remembrance (4.15).
+[^426-5]: See 4.21 and the note on its colophon.
+[^426-6]: That is, He takes the position of a devotee, as Sri Chaitanya, to taste the sweetness His devotees taste (cf. 4.24.11).
+[^426-7]: In the edition's numbering followed in this translation there are 1,926 verses.
+[^426-8]: Murari is a devotee of Ramachandra (cf. 2.07, where the Lord calls him Ramadasa). The manuscripts have a gap here; the word "devoted" is supplied from the sense.
+[^426-9]: To Murari, a devotee of Ramachandra, Gaura revealed Himself as Rama. Gaura is Krishna Himself, the source of all avataras, and Ramachandra too is present in Him.
+[^426-10]: Rama: Nityananda-Rama (Balarama); cf. 4.24.30.
+[^426-11]: Shripati, "the Consort of Sri (Lakshmi)," is a name of the Lord. The sense of the verse is not entirely clear; "through one man" probably means through Murari.
+[^426-12]: That is, in the year 1435, apparently of the Shaka era, which is 1513 CE; the bright half of Ashadha falls in June–July. This date is earlier than some of the events the poem describes (the journey to Vrindavana and what follows), so its relation to the final text of the poem is unclear.
