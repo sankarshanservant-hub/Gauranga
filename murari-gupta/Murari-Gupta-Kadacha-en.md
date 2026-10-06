@@ -89,6 +89,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 6. Beholding Mahavana and Other Places
   - Prakrama 4, Sarga 7. Beholding the Sites of the Stealing of the Garments and Other Pastimes
   - Prakrama 4, Sarga 8. Beholding Sri Govardhana and Other Places
+  - Prakrama 4, Sarga 9. Beholding the Site of the Great Rasa Dance
+  - Prakrama 4, Sarga 10. Beholding the Sacred Bowers, the Yamuna and Other Places
+  - Prakrama 4, Sarga 11. Hearing of the Pastimes Beginning with Akrura's Coming
+  - Prakrama 4, Sarga 12. The Narration of the Slaying of Kamsa and Other Events
 
 ---
 
@@ -4083,3 +4087,256 @@ Bhaktisiddhanta Sarasvati.
 [^408-7]: Annakuta ("mountain of food"): the offering to Govardhana which the cowherds, on Krishna's advice, made in place of the sacrifice to Indra (Bhagavata Purana 10.24).
 [^408-8]: Hariraya and Gopalaraya: Deities of Krishna on Govardhana.
 [^408-9]: Surabhi: the celestial cow, mother of all cows; the bathing of Krishna (Govinda) after the lifting of Govardhana is told in Bhagavata Purana 10.27.
+
+---
+
+## Prakrama 4, Sarga 9. Beholding the Site of the Great Rasa Dance
+
+*Krishnadasa shows the Lord the place where Varuna carried off Nanda, the Brahma-kunda, the ashoka grove and the site of the rasa dance; Gaurachandra, shining forth, reveals the festival of the rasa with His devotees; the brahmana continues his account — the song at the Vamshivata, Krishna's disappearance with one gopi, His return and the great rasa on the bank of the Yamuna; hearing it, the Lord manifests Radha and Krishna within Himself*
+
+**1.** "Here in the waters of the Yamuna, Varuna, longing to see Krishna, carried off Nanda, who was worn thin by the vow of the Dvadashi[^409-1].
+
+**2.** Learning of this, the Lord Himself brought His father back from there; and then, having made His own people bathe in the Brahma-kunda, from the world of Brahman[^409-2]
+
+**3.** the Almighty brought the cowherd clan back to Vrindavana. Behold this pond, O Krishna[^409-3] — supremely lovely and very hard to attain.
+
+**4.** And to the north of the Brahma-kunda is a lovely grove of ashoka trees, where Krishna sports with Sri Radha; behold it.
+
+**5.** Here, on the full moon of Karttika, Hari, the Lord of the lords of the gods, Sri Shyamasundara, danced the rasa with the gopis[^409-4]."
+
+**6.** And at once Hari, Gaurachandra, the foremost of those who relish rasa, radiant like a great gem, plainly revealed Himself: with His devotees, wildly dancing in the rasa of the rasa dance, resplendent in many lovely garments as though sprinkled with jewels — the Lord triumphs!
+
+**7.** With a sweet radiance like a flower in bloom He made manifest lovely Vrindavana, full of rasa, with the spring breezes of its woods and the festivals of the rasa. What shall I say of the whole site of the rasa, already so lovely? There He shone — the beloved of the gopis, who humbles the pride of Madana[^409-5].
+
+**8.** The brahmana saw Him so; and yet, since the Lord was veiled by His own maya, he went on showing Him the auspicious places of the former pastimes.
+
+**9.** "Now behold that place over there: here, by the Vamshivata[^409-6], Govinda stood and sang the kama-bija[^409-7] that enchants the gopis.
+
+**10.** Hearing that charming song, the gopis gathered here. Krishna gave them love, while outwardly He instructed them in dharma[^409-8].
+
+**11.** Giving them pure sattva[^409-9] and bhava, giving them prema, Krishna, the Lord of the lords of yoga, danced the rasa with them right here.
+
+**12.** Behold this place, Gauranga, You who long for the rasa of Govinda: here the Beloved of rasa assumed sovereignty over Vrindavana.
+
+**13.** So, delighting in the rasa of the dance, He suddenly vanished, taking one of them with Him[^409-10], to increase the gopis' passion; behold that place.
+
+**14.** Who could describe, or even hear in full, her wondrous story? He was subject to her love, she held her Beloved in her power — and yet her
+
+**15.** playful Krishna left, laughing, though He stayed close by. Not seeing Krishna, she was distraught; and her friends,
+
+**16.** gathering together — the gopis, subject to love — became absorbed in Krishna's pastimes from His birth onward, an absorption that revealed in them, one after another, His forms[^409-11].
+
+**17.** To them, tormented by the sickness of separation, Krishna — Narayana Himself — smiling, showed His own form[^409-12].
+
+**18.** Honoured by them and defeated in their banter, Krishna, the knower of dharma, formed a circle and danced the rasa[^409-13].
+
+**19.** Truly, enraptured by the rasa of the sweetness of play, Hari led the fair women to the bank of Yama's sister[^409-14], and, manifesting many forms — He who crushes Ananga[^409-15], the conqueror of the world — He shone, Himself entwined in the arms of the beauties of Vraja."
+
+**20.** Hearing of the splendour of the rasa pastimes, Sri Gaurachandra Hari — all His composure shattered by the madness of love, resplendent with the essence of sweetness — deeply contemplated Radha and Krishna surrounded by the throngs of the women of Vraja, and, displaying the two of them within His own self, He shone forth[^409-16].
+
+*Thus ends the ninth sarga, "Beholding the Site of the Great Rasa Dance" (Maharasa-sthali-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^409-1]: The Dvadashi is the twelfth lunar day, which follows the Ekadashi fast. Nanda entered the Yamuna before the proper hour, and a servant of Varuna, lord of the waters, led him away; see Bhagavata Purana 10.28.
+[^409-2]: Ibid. 10.28.16–17: Krishna had the cowherds plunge into the "lake of Brahman" and showed them His own abode.
+[^409-3]: Krishnadasa addresses the Lord by the name of Krishna.
+[^409-4]: The rasa dance is described in Bhagavata Purana 10.29–33; tradition places it on the autumn full moon of Karttika.
+[^409-5]: Madana: the god of love (Kamadeva).
+[^409-6]: The Vamshivata: the banyan in Vrindavana beneath which Krishna played His flute.
+[^409-7]: Kama-bija: the "seed of love," the secret syllable of a mantra addressed to Krishna; here, the calling of His flute.
+[^409-8]: Cf. Bhagavata Purana 10.29.18–27: Krishna tells the gopis who have come to go back to their husbands and do their duty.
+[^409-9]: Vishuddha-sattva: "pure being," the transcendent nature free from the gunas of matter, in which bhava awakens.
+[^409-10]: According to Gaudiya Vaishnava tradition, Sri Radha (cf. Bhagavata Purana 10.30.35–41).
+[^409-11]: Bhagavata Purana 10.30.14–23: separated from Krishna, the gopis act out His pastimes, becoming like Him.
+[^409-12]: Ibid. 10.32.2.
+[^409-13]: Ibid. 10.32.17–22 (Krishna owns Himself the gopis' debtor) and 10.33.
+[^409-14]: The Yamuna, sister of Yama, the god of death.
+[^409-15]: Ananga ("the Bodiless"): the god of love.
+[^409-16]: According to Gaudiya Vaishnava teaching, Sri Chaitanya is Radha and Krishna in one form.
+
+---
+
+## Prakrama 4, Sarga 10. Beholding the Sacred Bowers, the Yamuna and Other Places
+
+*Krishnadasa goes on showing the Lord the places of Vraja: where Rama and Krishna in spring attire danced with the gopis and slew Shankhachuda; Kumudavana; the Ambika forest, where Sudarshana was delivered; the town of Vrishabhanu, where Radha appeared; Raivataka Hill, where Baladeva crushed Dvivida and drew the Yamuna to himself; Pavana Lake; Kamyavana with Picchala Hill; Khadiravana and the bowers of Radha and Madhava; hearing of them, the Lord weeps and once more reveals to the world the mood of the cowherd village*
+
+**1.** "And now behold this place: here Sri Rama and Krishna, the knowers of rasa, in spring attire and adorned with gold, sported with the beauties of Vraja — with the leaders of their groups.
+
+**2.** They danced with the gopis and sang, full of ardour, and the lovely women, singing and dancing, were their adornment.
+
+**3.** While they sported thus, the wicked Shankhachuda began to molest the gopis, and the two brothers caught sight of him.
+
+**4.** Krishna slew the villain and took the jewel from his head; and that precious stone, the Syamantaka[^410-1], was given to Sri Baladeva.
+
+**5.** Sri Krishna gave it playfully as the gopis looked on; and Baladeva, with his own dear companions, passed it on to Krishna's beloved.
+
+**6.** 'This is the fruit for those who have eyes…'[^410-2] — so the beauties of Vraja sang here of the lovely faces of Mukunda and Bala as they went with the cows from forest to forest." Hearing that song, the Lord, all thrilling, weeps aloud.
+
+**7.** "Behold the forest named Kumuda: here Krishna and Rama sport to their hearts' content with Shridama, Subala and the others.
+
+**8.** Here, on the bank of the Sarasvati, is the forest called Ambika, where the people of Vraja worship the god Shankara and Gauri.
+
+**9.** By a sage's curse a gandharva named Sudarshana had received the body of a serpent; when he had swallowed Nanda halfway, Krishna delivered him by the touch of His foot[^410-3].
+
+**10.** Renowned once more as a gandharva, he stood before Hari, pleasing Him with praise, and then from here he went joyfully to his own abode, glorifying Krishna.
+
+**11.** Behold the town of Vrishabhanu[^410-4] — here appeared Radha, the Queen of Vrindavana, Mahalakshmi, who sports with Krishna.
+
+**12.** Behold Raivataka Hill[^410-5] — here Baladeva, foremost in rasa, sporting with the gopis, crushed Dvivida to powder.
+
+**13.** He went to the bank of the Yamuna, dragging the Kalindi[^410-6] to himself, and, entering the water, the Unfallen One sported with the gopis to his heart's content.
+
+**14.** Reaching the bank, he arrayed himself in garments and fine ornaments, adorned his companions as well, and sports with the gopis — he whose delight is Krishna.
+
+**15.** Behold, to the north of Nandagrama, the lake called Pavana, where Nanda's cows and calves graze, tended by Krishna.
+
+**16.** And to the west of Nandishvara is the forest of Kamya[^410-7]; here stands the pure hill called Picchala.
+
+**17.** On Picchala Krishna and Rama play with the boys. Arishta, Keshi, Vyoma and others — in the forms of a bull, a horse and a ram[^410-8] —
+
+**18.** were all put to death by Krishna and became worthy of liberation. And here Krishna plays with the boys forever.
+
+**19.** Behold, beautiful Gauranga, the forest named Khadira — lovely, full of fruits and flowers, pervaded by gentle breezes.
+
+**20.** Here Radha and Krishna, with the gopis, full of merriment, ceaselessly play at buying and selling[^410-9].
+
+**21.** Amid the bowers, the fresh jasmine, the young tamalas, salas and arjunas, amid the ashokas, the fresh madhavi creepers and the clusters of young mango trees, in a place ardently adorned by peacocks, parrots and cuckoos, abiding among lovely flowers — Radha and Madhava triumph!
+
+**22.** Ever together — with the sweet sounds of the flute and the clever doings of their charming friends, with bold young maidens, with festivals of laughter, song and dance — devoted to pastimes full of the intoxication of Kama[^410-10], the Queen and the King of the rasa dance are eager to cherish a special rasa."
+
+**23.** Hearing of the splendour of Radha and Krishna's pastimes, He, though weeping, was intent on manifesting each of those forms; and, having again revealed to the world the essence of supreme sweetness, filled with the mood of the cowherd village, dense bliss itself — this Sri Shachinandana triumphs above all!
+
+*Thus ends the tenth sarga, "Beholding the Sacred Bowers, the Yamuna and Other Places" (Shri-nikunja-yamuna-adi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^410-1]: Bhagavata Purana 10.34.25–32. The name Syamantaka, which there belongs to another jewel (10.56), is here given to Shankhachuda's gem.
+[^410-2]: The opening of the gopis' song in the Bhagavata Purana (10.21.7): "This is the fruit for those who have eyes; we know no other…"
+[^410-3]: Bhagavata Purana 10.34.1–18: in the Ambika forest, where the cowherds had come for a festival of Shiva, a serpent seized Nanda; at the touch of Krishna's foot he became the gandharva Sudarshana again.
+[^410-4]: Vrishabhanu is Radha's father; his town is Barsana.
+[^410-5]: In the Bhagavata Purana (10.67) Baladeva slays the ape Dvivida on Raivataka Hill near Dvaraka; here the place is shown in Vraja.
+[^410-6]: The Kalindi is the Yamuna. Baladeva, intoxicated with varuni, called the Yamuna to him, and when she did not come he dragged her with his plough (Bhagavata Purana 10.65.24–32); there too, on leaving the water, he receives garments and ornaments.
+[^410-7]: Kamyavana: one of the twelve forests of Vraja.
+[^410-8]: Arishta in the form of a bull, Keshi in the form of a horse (Bhagavata Purana 10.36–37); Vyoma carried off the boys who were playing "sheep and thieves" (ibid. 10.37.26–33).
+[^410-9]: Probably the game in which the gopis sell Krishna milk and butter and He haggles with them.
+[^410-10]: Kama (in the text, Smara): the god of love.
+
+---
+
+## Prakrama 4, Sarga 11. Hearing of the Pastimes Beginning with Akrura's Coming
+
+*Krishnadasa tells of the manifest pastimes: Akrura comes to Vraja for Rama and Krishna; Yashoda despairs and her sons console her; the gopis fall into divine madness, yet each sees her own Lord at her side; Rama and Krishna leave for Mathura with Akrura; Akrura's vision in the Yamuna, the washerman, Sudaman, Kubja, the broken bow, the night on Nanda's lap; listening, the Lord is filled with each of these moods*
+
+**1.** "Thus He sports in the lands of Vraja with His eternal pastimes. But hear also what is told according to the manifest pastimes[^411-1].
+
+**2.** Sent by Kamsa, Akrura came by chariot; on the way he remembered Sri Rama and Krishna, longing to see Them,
+
+**3.** filled with many hopes, covered with tears of love and thrills of joy. And here he saw the purifying marks of Their lotus feet[^411-2].
+
+**4.** Seeing Sri Rama and Keshava, he hastily got down from the chariot, placed dust on his head and fell to the ground, stretched out like a rod.
+
+**5.** They honoured him and led him with great respect to their home, and the noble-hearted Nanda regaled him with fine food, drink and all the rest.
+
+**6.** Hearing of Kamsa's intention, Nanda, together with Rama and Krishna, proclaimed to the cowherd village the journey to Mathura[^411-3].
+
+**7–8.** Hearing this, Yashoda — the very essence of parental love for Rama and Krishna — looked upon her sons, the givers of the highest joy, took them by the hand, drew them onto her lap and hurriedly said to Hari:
+
+**9.** 'So will you two abandon me and go off to Mathura? How shall I keep my life if I do not see the moon of your faces?'
+
+**10.** 'No, no, Mother — we shall stay close to you, in your lap. Know that this is true, true, without a doubt.'
+
+**11.** Hearing this, she, overwhelmed with love, kissed their faces; then she grew calm and felt happiness: Rama and Krishna abide in her heart.
+
+**12.** But meanwhile, utterly helpless, her heart burning with grief, she deemed the whole world empty and kept asking her maids, 'Who is this king's messenger, like Yama[^411-4], who has come from afar to Nanda's door — he who torments the life of all the people of Vraja?'
+
+**13.** Hearing this, all the women of Vraja, whose every longing belonged wholly to Rama and Krishna, seized by many emotions, showed the clear signs of divine madness[^411-5].
+
+**14.** But meanwhile all the fair-browed women of Vraja, overwhelmed with love, joyfully saw their own Lord — each one at her own side.
+
+**15.** Krishna's beloveds were filled with the great bliss of seeing Him. Who could describe the splendour of their love?
+
+**16.** The leaders of all the groups, all the gopis, love embodied, He comforted with the words 'I shall come back soon'; and,
+
+**17.** taking both their hands in their own, kissing and embracing them, Rama and Krishna sported with them, showing that they were in their power.
+
+**18.** Then Akrura, with Rama and Krishna, the joy of all Vraja, crossed the Mano-Ganga and set out from the settlement of Vraja for the city.
+
+**19.** Having gone some distance, Akrura entered the Yamuna to bathe, and there he saw Rama and Janardana seated on the chariot[^411-6];
+
+**20.** beholding their majesty, he bowed to them in wonder; and, after hearing many things from them, he came with them to Mathura.
+
+**21.** Having slain the washerman named Sudurmukha and taken heaps of clothes, the two brothers went on together to the house of Sudaman[^411-7].
+
+**22.** Sudaman arrayed them and their companions, and Kubja anointed their bodies with sandal paste.
+
+**23.** Madhava made her perfect in beauty and broke the bow; then, with Rama, He came to the carts and ate what His mother gave Him[^411-8].
+
+**24.** At night Hari, who loves His devotees, slept happily with Rama on Nanda's lap, fondled by him."
+
+**25.** Hearing this, Sri Gauranga was imbued with each of those emotions and became possessed by rasa; and Krishnadasa was amazed.
+
+*Thus ends the eleventh sarga, "Hearing of the Pastimes Beginning with Akrura's Coming" (Akrura-gamana-adi-lila-shravana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^411-1]: The manifest pastimes (prakata-lila) are those that Krishna displays before the eyes of the world, as distinct from the eternal ones (nitya-lila), which never cease in Vraja.
+[^411-2]: Cf. Bhagavata Purana 10.38.25–26: seeing Krishna's footprints in the pasture, Akrura rolls in the dust.
+[^411-3]: Kamsa had invited Rama and Krishna to the festival of the bow, intending to kill them; Nanda announces to the cowherds the journey to Mathura with tribute (Bhagavata Purana 10.39.10–12).
+[^411-4]: Literally "like Shamana," that is, Yama, the lord of death.
+[^411-5]: Cf. Bhagavata Purana 10.39.13–31: the grief of the gopis at the news of Krishna's departure.
+[^411-6]: Ibid. 10.39.40–55: plunging into the water, Akrura sees Rama and Krishna both in the water and on the chariot, and then Ananta and Vishnu.
+[^411-7]: Ibid. 10.41.32–52: Krishna slays the king's insolent washerman (unnamed in the Purana) and takes the clothes; the garland-maker Sudaman adorns the brothers with garlands.
+[^411-8]: Ibid. 10.42.1–25: Kubja, Kamsa's hunchbacked maidservant, anoints Krishna with sandal paste, and He straightens her; then He breaks the bow at the festival and in the evening returns to the cowherds' carts outside the city.
+
+---
+
+## Prakrama 4, Sarga 12. The Narration of the Slaying of Kamsa and Other Events
+
+*Krishnadasa briefly recounts the Mathura pastimes: Kamsa, frightened by evil omens, arranges a contest; Rama and Krishna slay the elephant Kuvalayapida, the wrestlers and Kamsa himself; Nanda returns to Nandishvara and the brothers receive the sacred thread; the Lord, cherishing these pastimes, shows the people of Vraja now a dark form, now a golden one, and each sees in Him their own Krishna — the Lord of their life, in whom Radha and Krishna are one*
+
+**1.** Then Krishnadasa said, "Hear of Kamsa's doings: now something will be told of what that villain did.
+
+**2.** At night Kamsa saw many harbingers of death[^412-1], and, deeply troubled, he hastily had the platforms and everything else made ready.
+
+**3.** Seated on the platform, he summoned his kinsmen and friends, gathered them and seated them there too, and, mad with arrogance, he said:
+
+**4.** 'Bring Nanda with all the cowherds and seat them with ceremony on the platform. And where are those two who are so eager for a good fight? I shall watch them fight to my heart's content!'
+
+**5.** After that the two Lords, Rama and Janardana, slew the king of elephants stationed at the gate[^412-2], and, holding his tusks, they entered the splendid arena.
+
+**6.** Having slain Chanura and Mushtika with their followers, and Kamsa too[^412-3], joyfully acclaimed by all and caressed by their parents, the brothers came to Nanda and cheerfully said to him:
+
+**7.** 'Father, if you are well disposed towards me, I should like to see Mathura for some time. Then, Father, all will be well with me; and let my elder brother go happily with you.'
+
+**8.** Hearing this, Nanda laughed and said, 'You are an unbridled child, like a maddened lion; who could ever tame you?
+
+**9.** And you too, Balarama, ought to stay here — just as you used to go off at times to Vrindavana to graze the cows.'[^412-4]
+
+**10.** Joyfully embracing them and receiving their respectful salutations, Nanda went to Nandishvara — and Krishna and Rama abode in his heart.
+
+**11.** After that Vasudeva and Devaki joyfully had their sons invested with the sacred thread and the Gayatri[^412-5].
+
+**12.** Who, with his small understanding, can describe the deeds of Sri Krishna, in which Brahma and all who see the far shore are bewildered?"
+
+**13.** Thus Krishna Chaitanya, rasa embodied, held in the highest esteem the Mathura pastimes, told in brief, as in a sutra.
+
+**14.** Now dark, now golden[^412-6], now re-enacting the pastimes[^412-7], the Lord showed His pure devotees both the form that enchants the world and His own form that bestows love —
+
+**15.** a blessing for their minds and ears; and blissfully He dances, sings, cries out, laughs and runs.
+
+**16.** As He sported thus, His pastimes, ever full of bliss, appeared to all the dwellers of Vraja in house after house —
+
+**17.** those beginning with the deliverance of Putana and ending with the slaying of the demon Vyoma, those that took place in Vrindavana, and those that passed to another abode[^412-8].
+
+**18.** And all of them, full of power, ever bestowing every perfection, eternally bestowing loving devotion, are supreme; they are Krishna Himself.
+
+**19.** Some saw Gaurachandra as an infant with butter in His hand, others as a boy[^412-9] grazing the calves by the Yamuna with Shridama and the rest, others as a youth lustrous as a new cloud, surrounded by the gopis, with the flute set to His lips, tender as new shoots.
+
+**20.** So, seeing Him, all the supreme connoisseurs of rasa, the dwellers of glorious Vrindavana — the flocks of birds, the deer and the beasts, young and old — thronging around Him in joy and each delighting Him with their own rasa, saw in Him their own, and took Him, in whom Radha and Krishna are one, as their Lord of life.
+
+*Thus ends the twelfth sarga, "The Narration of the Slaying of Kamsa and Other Events" (Kamsa-vadha-adi-varnana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^412-1]: The evil omens described in Bhagavata Purana 10.42.27–31.
+[^412-2]: The elephant Kuvalayapida (Bhagavata Purana 10.43).
+[^412-3]: Chanura and Mushtika were Kamsa's wrestlers (ibid. 10.44).
+[^412-4]: In the Bhagavata Purana (10.45.20–24) Krishna Himself sends Nanda back, promising to return. The sense of v. 9 is not quite clear: Nanda apparently allows Balarama too to stay for a time, as though he had only gone off to the pasture.
+[^412-5]: Ibid. 10.45.26–29.
+[^412-6]: Dark is Krishna's form, golden is Gaura's.
+[^412-7]: That is, acting out Krishna's pastimes in ecstasy.
+[^412-8]: Putana was the first of the demons slain by Krishna in Vraja (Bhagavata Purana 10.6), Vyoma the last of the asuras of Vraja (ibid. 10.37). "Another abode": Mathura and Dvaraka.
+[^412-9]: Pauganda is the age from five to ten; kaishora, youth, from ten to sixteen.

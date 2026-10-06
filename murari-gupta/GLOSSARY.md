@@ -292,3 +292,23 @@
 | हरिराय, गोपालराय | Харирая, Гопаларая | Hariraya, Gopalaraya |
 | सुरभि | Сурабхи | Surabhi |
 | सर्वपापहर, ब्रह्म-, रुद्र-, इन्द्र-, सूर्य-, मोक्ष- (कुण्ड) | пруд, смывающий все грехи; пруды Брахмы, Рудры, Индры, Сурьи, «Мокша» | the pond that removes all sins; the ponds of Brahma, Rudra, Indra, Surya, "Moksha" |
+| वरुण | Варуна | Varuna |
+| ब्रह्मकुण्ड | Брахма-кунда | the Brahma-kunda |
+| श्यामसुन्दर | Шьямасундара | Shyamasundara |
+| वंशीवट | Вамшивата | the Vamshivata |
+| कामबीज | кама-биджа | kama-bija |
+| मदन, अनङ्ग | Мадана, Ананга (бог любви) | Madana, Ananga (the god of love) |
+| शङ्खचूड, स्यमन्तक | Шанкхачуда, Сьямантака | Shankhachuda, the Syamantaka |
+| कुमुदवन, श्रीदाम, सुबल | Кумудавана, Шридама, Субала | Kumudavana, Shridama, Subala |
+| अम्बिका (वन), सुदर्शन (गन्धर्व) | лес Амбика, Сударшана (гандхарва) | the Ambika forest, Sudarshana (the gandharva) |
+| वृषभानु(पुर), महालक्ष्मी | (город) Вришабхану, Махалакшми | (the town of) Vrishabhanu, Mahalakshmi |
+| रैवतक, द्विविद, कालिन्दी | Райватака, Двивида, Калинди | Raivataka, Dvivida, the Kalindi |
+| नन्दग्राम, पावन (सरोवर) | Нандаграма, озеро Павана | Nandagrama, Pavana Lake |
+| काम्यवन, पिच्छल, खदिरवन | Камьявана, Пиччхала, Кхадиравана | Kamyavana, Picchala, Khadiravana |
+| अरिष्ट, व्योम | Аришта, Вьома | Arishta, Vyoma |
+| सुदुर्मुख (रजक), सुदामन् (मालाकार), कुब्जा | Судурмукха (прачка), Судаман (цветочник), Кубджа | Sudurmukha (the washerman), Sudaman (the garland-maker), Kubja |
+| चाणूर, मुष्टिक, कुवलयापीड | Чанура, Муштика, Кувалаяпида | Chanura, Mushtika, Kuvalayapida |
+| शमन (यम) | Шамана (Яма) | Shamana (Yama) |
+| गायत्री | Гаятри | the Gayatri |
+| शचीनन्दन | Шачинандана | Shachinandana |
+| पौगण्ड, कैशोर | пауганда (отрочество), кайшора (юность) | pauganda (boyhood), kaishora (youth) |
