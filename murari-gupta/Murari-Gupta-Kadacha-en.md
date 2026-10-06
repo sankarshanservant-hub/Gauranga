@@ -55,6 +55,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 2, Sarga 10. The Pastimes of Dance
   - Prakrama 2, Sarga 11. The Plunge into the Jahnavi
   - Prakrama 2, Sarga 12. The Great Manifestation and the Ablution
+  - Prakrama 2, Sarga 13. The Brahmana's Curse as a Boon
+  - Prakrama 2, Sarga 14. Absorption in Balabhadra
+  - Prakrama 2, Sarga 15. Description of the Gopis' Mood — Bhakti-yoga
+  - Prakrama 2, Sarga 16. The Manifestation of All Energies
 
 ---
 
@@ -2061,3 +2065,244 @@ Bhaktisiddhanta Sarasvati.
 [^212-1]: Vijaya is apparently Vijaya Dasa, a devotee of Navadvipa and a copyist of books.
 [^212-2]: The Lord is already contemplating sannyasa, for which He will have to leave His mother.
 [^212-3]: Bhagavata Purana 10.81.16 — the words of the poor brahmana Sudama, whom Krishna embraced. Murari applies them to himself.
+
+---
+
+## Prakrama 2, Sarga 13. The Brahmana's Curse as a Boon
+
+*The Lord and His devotees clean the temple; He refuses to heal a leper who offended Srivasa, but at Srivasa's request promises to save him, and Jagai and Madhai as well; the Lord accepts the curse of an offended brahmana as a blessing to take sannyasa*
+
+**1.** On another day the Lord, teaching His own people devotion, took a broom in His hand and went with the brahmanas to the temple.
+
+**2.** He carried a hoe on His shoulder and wore a loincloth about His fine hips; a turban of new cloth crowned His head, and He shone like the rising sun.
+
+**3.** The great souls headed by the Acharya, hoes and brooms in hand, became Krishna's sweepers[^213-1], and, coming to the gate of the temple,
+
+**4.** these virtuous men swept the wall clean together with Krishna. In this way Nrihari gave His instruction hundreds of thousands of times:
+
+**5.** though Bhagavan depends on no one but Himself, the glorious Lord Gaurachandra, the supreme cause of the worlds, taught out of compassion.
+
+**6.** One day, seeing Janardana walking along the road, a certain leper bowed down to Him, his neck humbly bent,
+
+**7.** and said: "Bhagavan, everyone calls You the eternal Person, the Lord of the lords of the gods. Deliver me, a sinner!
+
+**8.** O Lord, protect me from this terrible, unbearable leprosy!" Hearing this, Bhagavan grew angry, and His eyes became like red lotuses.
+
+**9.** He said: "Wicked man, hater of Vaishnavas! You have shown enmity to Srivasa Pandita — how can you be happy?
+
+**10.** You spoke unspeakable words against that best of Vaishnavas, pure as gold refined in fire; for a hundred births you shall be a leper, wasting limb by limb.
+
+**11.** One who hates the Vaishnavas I never deliver. This body is My outer life; the Vaishnava is My inner life.
+
+**12.** Those who out of great delusion hate the Vaishnava fall into an unclean hell. But those who bow before the Vaishnavas and yet in some way bear enmity to Me —
+
+**13.** them I shall deliver, wherever they are, from their heap of great sins." Having said this, the Lord went to Srivasa's blessed house.
+
+**14.** There Bhagavan sat down and happily enjoyed the company of His own. Then the Teacher of the world, softened by compassion, said to Srivasa Pandita:
+
+**15.** "On the road I met a leper, corrupted by an offence against you. He will suffer every hell, and no deliverance is in sight for him."
+
+**16.** Srivasa replied: "Lord, whoever offends me — in short, deliver him. This is the boon I always ask.
+
+**17.** Deliver also Jagannatha, Madhava and the others, full of sin though they are[^213-2]." "So be it," said Bhagavan, who tears out the root of all sins.
+
+**18.** Once a certain brahmana came to see Purushottama dancing, but did not see Him: the doorkeeper kept him outside.
+
+**19.** Angered, he saw the Teacher of the world the next day on the bank of the Ganga and, foul-mouthed and flaring up, spoke out to curse Him.
+
+**20.** Breaking the sacred thread upon his chest, he cursed Him in his wrath: "Since, when I went there during Your dancing, I was stopped
+
+**21.** by Your doorkeeper, go now — out of worldly life!" Hearing the brahmana's words, the Supreme Bhagavan rejoiced:
+
+**22.** "The curse of an angry brahmana has become a boon for Me! Taking the order of sannyasa, I shall deliver all people."
+
+**23.** Whoever hears thus, with supreme faith, of Hari's curse will be freed from a brahmana's curse and will find new happiness.
+
+*Thus ends the thirteenth sarga, "The Brahmana's Curse as a Boon" (Brahma-shapa-vara), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^213-1]: Haddipa (Bengali hadi) — a sweeper, a man of the lowest caste who removes refuse. The great devotees gladly take on the humblest service of Krishna.
+[^213-2]: Jagannatha and Madhava are the brothers Jagai and Madhai, notorious sinners of Navadvipa, later delivered by the Lord and Nityananda.
+
+---
+
+## Prakrama 2, Sarga 14. Absorption in Balabhadra
+
+*The Lord takes on the mood of Balarama: He calls for honey-wine, dances as if drunk, sees Halayudha and displays His form; the devotees see Balarama's companions and His golden club*
+
+**1.** One morning at dawn, when the sun shone clear in the sky, the divine Gaurachandra, while teaching His pupils and remembering many sages, brahmanas and saintly people, became imbued with the mood of Nilambara[^214-1].
+
+**2.** Making everyone laugh, He cried, "Give Me honey now!" — and then again He heard that deep sound, like the roar of a thundercloud: at that moment He heard Halayudha, the blue-clad Lord, white as a mountain;
+
+**3.** and, seeing that wondrous Lord with Saunanda[^214-2] in His hand and beautiful lotus eyes, Hari, the protector of all worlds, in splendid attire, glad at heart and gladdening the people, began to dance together with those sages.
+
+**4.** Joyful, accompanied by brahmanas singing the name of Hari, He went to the house of Murari the physician, and there, as red as the sun in the east, He said: "Give Me nectar strong with honey!"
+
+**5.** The Victorious One Himself took in His hand a vessel full of water and drank the purifying water; then, as if drunk, He danced, laughed aloud and rolled on the ground, while the best of the brahmanas praised Him as the Plough-bearer.
+
+**6.** People fell to the ground at His lotus feet and rejoiced exceedingly, again and again. Thus the Lord, playing the part of Baladeva, danced and spoke in a gentle voice:
+
+**7.** "I am not that Krishna who is content with words — let them bring Me a fine and wondrous drink!" And saying, "This one is a wrestler!", with a single finger He flung a brahmana far away onto the ground.
+
+**8.** The man fell and was terrified. So Bhagavan sported in His play: from early morning till the day's end the Lord, playing the part of Baladeva,
+
+**9.** frolicked in wondrous form and attire; then, having bathed, He went home and ate surrounded by His own — Sri Gaurachandra Himself, the master of the worlds, the Lord.
+
+**10.** On another day the Lord's body burned, and again and again He fell into a swoon, remembering Him — Balarama — in the forest; His hair was dishevelled, and the brahmanas sprinkled Him with water.
+
+**11.** Coming to Himself, the Lord said to Gadadhara in a faltering voice: "Find all our friends and bring them here — I want to look upon those true Vaishnavas."
+
+**12.** At His command the greatest souls, headed by Acharyaratna[^214-3], gladly assembled. Seeing Hari overwhelmed, His voice breaking, they were bewildered and sorely distressed,
+
+**13.** and said: "Dear Lord, tell us Yourself: what is the cause?" Hearing this, Hari, deeply shaken, answered them: "I have seen Halayudha, like a white mountain,
+
+**14.** the golden Saunanda in His hand, shining like the thousand-rayed sun at dawn, adorned with the finest gold." Hearing this, the venerable Chandrashekhara Acharya said to Him: "Lord, tell us of the One
+
+**15.** whom You have seen." And at once Hari, as if gone there, beheld the Plough-bearer. And again the Almighty, wholly absorbed in Him, joyfully danced in His attire.
+
+**16.** Hari rejoiced like the moon, His heart delighted by the true Vaishnavas — by their playful dancing and banter, the gestures of their hands, their strength like that of holy mountains, and their steps surpassing the bliss of heaven.
+
+**17.** Thus the Enjoyer of sacrifices spent that day until evening in the sacrifice of beautiful sankirtana, which brings good to the world. Later, in the afternoon, when the Lord was once more about to dance, the divine fragrance of varuni
+
+**18.** filled every quarter, and the people, breathing it in, rejoiced. Then the best of excellent brahmanas, named Sri Rama, saw that a multitude of beings had come there:
+
+**19.** each had a lotus at one ear and eyes wide as lotuses; they shone with the radiance of a fine earring set in the other ear, and their heads were bound with white cloth[^214-4]. Hearing of this, the others danced in delight.
+
+**20.** And there a certain Vanamali clearly saw on the ground the golden Saunanda, shining like the rays of the sun; his hair stood on end, and his body was wet with tears.
+
+**21.** Then the Lord of all worlds, intoxicated with the rasa of absorption in Halayudha, began to dance, and the Avadhuta, seeing this, in that same rasa drew Gaurachandra to his chest.
+
+**22.** The heavenly beings in the sky with their lords, sated by this unsurpassed feeling, bowed down; filled with tears of love, thrilling all over, they kept repeating: "Sri Rama! Narayana! Krishna!"
+
+**23.** Thus the Lord spent that night; then He went to the waters of the heavenly river, plunged into them with His own and, laughing, leisurely played a game.
+
+**24.** Then the Conqueror of foes went to His own house, and the people, bowing to Hari, went to their dwellings; at dawn they all gathered again to see His lotus feet.
+
+**25.** Many such deeds did Mukunda perform, absorbed in Halayudha — Lord Sri Krishna Chaitanya, Hari Himself, filled with devotion to Himself and seeking the good of the worlds.
+
+**26.** Whoever hears of the deeds of the blessed Plough-bearer, which the Lord performed in wondrous attire, will always be intoxicated with the rasa of devotion, and after death will taste the nectar of Sri Purushottama.
+
+*Thus ends the fourteenth sarga, "Absorption in Balabhadra" (Balabhadra-avesha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^214-1]: Nilambara ("the Blue-clad"), Halayudha ("He whose weapon is the plough"), the Plough-bearer, Balabhadra and Baladeva are names of Balarama, Krishna's elder brother. Balarama is fond of the intoxicating drink varuni, hence the demand for honey.
+[^214-2]: Saunanda is Balarama's club (mace).
+[^214-3]: Acharyaratna is Chandrashekhara Acharya.
+[^214-4]: This is the appearance of Balarama and His companions: an earring in one ear and a lotus at the other.
+
+---
+
+## Prakrama 2, Sarga 15. Description of the Gopis' Mood — Bhakti-yoga
+
+*The Lord speaks of His vision of Varaha and Halayudha and asks for His flute; in Chandrashekhara's house a play is staged: the Lord in women's dress, Srivasa as Narada, Gadadhara as a gopi; Narada speaks of the greatness of devotion*
+
+**1.** Krishna spoke nectarean words, charming in their soft tone, in a lovely, faltering voice: "Lord Varaha, whose body is sacrifice, the Upholder of the earth, has embraced me[^215-1].
+
+**2.** Halayudha has entered my heart — and has become the One with the flute in His hand, a salve for the eyes[^215-2]." Hearing these words of His, the great brahmanas rejoiced in delight and danced.
+
+**3.** Laughing, Krishna said to Srivasa: "Give Me My excellent flute now!" He replied: "Lord, it is in Your house, kept by the daughter of Bhishmaka[^215-3].
+
+**4.** The flute cannot be had at this hour: it is night, and the door of the inner rooms is shut." Hearing this, the Teacher of the world laughed, and spent that night with the devotees.
+
+**5.** In the morning the joyful lords of the twice-born bowed to Hari and went to the waters of the heavenly river; having bathed, they gladly worshipped Hari, partook of prasada and were filled with supreme joy.
+
+**6.** Whoever hears of this great play of Murari will be freed from the ocean of existence; whoever recites it will gain love for His lotus feet and will quickly be freed from hosts of grave diseases.
+
+**7.** At His lotus feet the splendid ocean of Kamala's love ever shone; and now His mind, seeking shelter at the lotus feet of Krishna, came under the sway of the mood of the young cowherd women.
+
+**8.** Once the Lord, whose moon-face sheds the nectar of smiles, put on the beautiful attire of a woman and held a dance with His own in the courtyard of Chandrashekhara's house[^215-4].
+
+**9.** There the best of the twice-born, the great elder brother of Shripati, appeared as Narada[^215-5] — the divine sage, son of the Unborn, fell to the ground like a rod and bowed down to the Unconquered One.
+
+**10.** "Recognize me," he said softly to the brahmana Sri Gadadhara, and went on: "O gopi, you bowed down at the feet of the divine sage, bending your neck and your heart, and said:
+
+**11.** 'Master, I have left my father and mother to serve the lotus feet of Krishna here — so let the mercy of your lotus feet be upon me, that I may serve Him, the ocean of mercy.'
+
+**12.** Then, hearing your sincere words, the sage, his face beaming with joy, answered you: 'Apsara, for hundreds of months of Magha, constantly perform in the waters of the river of the gods
+
+**13.** your bath with a single-pointed mind — then you will attain the service of Krishna's lotus feet.' You carried out the sage's word, and because of it you were born here in Gokula[^215-6],
+
+**14.** and, moistened by the waves of a rasa full of love, you attained the highest devotion to Hari, surpassing all, which is hard to attain in the three worlds even for a sage — the devotion that Shukadeva joyfully sings.
+
+**15.** As it is said: 'Again and again I revere the dust of the feet of the women of Nanda's Vraja, whose singing of Hari purifies the three worlds.'[^215-7]
+
+**16.** What shall I say of the greatness of devotion to Hari? A brahmana's son named Ajamila, laden with every sin, seized by the guardians of torment, merely thought of his son — and went free[^215-8].
+
+**17.** Grant that by the power of the mere name one may reach the far shore of the ocean of existence, so very hard to cross, and even, with one's companions, the abode of the Ocean of mercy — how much more, then, by devoted service to the Unborn!"
+
+**18.** When the best of brahmanas had spoken thus, the best of the twice-born were at once filled with joy and rasa, moistened by the waves of rasa from the ocean of love.
+
+**19.** A mere ray of the moonlight of His toenails — that is the supreme; together with His companions, the lords of the gods, the best of sages, Brahma and the others, He enacted a wholly pure play, full of the nectar of the names of the cowherd men and women; and the story of the apsara and the rest clearly shows only His play in human form[^215-9].
+
+*Thus ends the fifteenth sarga, "Description of the Gopis' Mood — Bhakti-yoga" (Gopi-bhava-varnana — Bhakti-yoga), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^215-1]: Varaha is the incarnation of Vishnu as a boar who raised the Earth from the waters; "He whose body is sacrifice" is His standing epithet.
+[^215-2]: The mood of Balarama (see sarga 2.14) gives way to the mood of Krishna with His flute.
+[^215-3]: Bhishmaka's daughter is Rukmini, Krishna's consort; here the name refers to the Lord's wife (Vishnupriya).
+[^215-4]: The play at the house of Chandrashekhara Acharya, in which the Lord took a woman's role and His companions played other parts, is also described at length in other lives of the Lord.
+[^215-5]: Shripati's elder brother is Srivasa.
+[^215-6]: Narada (Srivasa) reminds Gadadhara, who is playing a gopi, of her former birth as an apsara.
+[^215-7]: Bhagavata Purana 10.47.63 — Uddhava's words about the gopis of Vraja.
+[^215-8]: Bhagavata Purana, canto 6, chapters 1–2: dying, the sinful Ajamila called out to his son named Narayana; the messengers of Yama withdrew, and he was saved.
+[^215-9]: The verse is obscure; the reading and interpretation are conjectural.
+
+---
+
+## Prakrama 2, Sarga 16. The Manifestation of All Energies
+
+*The play in Chandrashekhara's house continues: Haridasa, Advaita and Nityananda enter; the Lord appears as a gopi, then in the mood of Kamala and of the Goddess, displays all power, feeds the devotees with milk and in the morning returns home*
+
+**1.** Then Haridasa, like the full moon, entered first, a staff in his hand[^216-1]. "Sing the kirtana of Hari!" he proclaimed, awakening the three worlds, which burn with suffering.
+
+**2.** Drinking in those words of the lotus-faced Haridasa, the Vaishnavas danced; their hair bristled with joy, and their bodies were drenched with the tears that welled from their eyes.
+
+**3.** Then the king of the Vaishnavas entered, shining like the fierce-rayed sun, as though scattering a radiance like nectar all around — the great soul whose face was lovely as a lotus.
+
+**4.** The excellent Advaita, born of a portion of the Lord[^216-2], moist with the rasa of Hari's feet, danced together with the other followers like a maddened lion, untamable within.
+
+**5.** The saintly ones in the assembly, gazing at him with joyful lotus eyes, drank in the wondrous moon of his face; their hearts were overpowered, and they sank into the rasas of the ocean of love.
+
+**6.** Baladeva[^216-3] too entered, in the dress of a gopi, delighting in a special rasa; he held the bud-like hand of the Lord of his life, and his whole body was flooded with tears.
+
+**7.** And Bhagavan Himself entered, Vasudeva in a special attire[^216-4], like the moon; His body was the colour of molten gold, and He was like the king of the peaks of the golden mountain set in motion.
+
+**8.** Like a gopi, with a fine bodice on His breast, wearing conch-shell bangles and red garments, His lotus feet praised by the tinkling of His anklets, He danced, slender-waisted and lithe.
+
+**9.** When the light that shone from Nrihari's body had driven the darkness from the face of the earth, the breeze from Malaya[^216-5], laden with divine fragrance, blew again and again, stirring the malati jasmine.
+
+**10.** And the moon, though known for the waning that brings distress and sorrow, shone in the sky as if full-orbed, on a path thronged by the lord of the gods, Mahesha and the guardians of the worlds with their hosts.
+
+**11.** Bhagavan, of surpassing splendour, joyfully led the kirtana and the dance, and soon He assumed the mood of Kamala[^216-6] — His body took on her beauty and her feeling.
+
+**12.** There, in the middle of the shrine, stood the image of Krishna's divine form. Humbly approaching it, with the fringe of a new cloth
+
+**13.** He took the flowers off the image and placed them there again — and was filled with the affection of millions of mothers, full of the rasa of loving devotion.
+
+**14.** At the command of Him who comprises all the gods, the foremost brahmanas, rejoicing and glad at heart, bowed down to that woman and glorified her with hymns of praise and verses of the Vedas.
+
+**15.** And at that very moment there arose in Him again the mood of the Goddess Herself, who bears all power[^216-7]; the good people were filled with joy and praised Her with royal hymns composed by the gods.
+
+**16.** Seated on a beautifully arranged seat, that likeness of the Goddess spoke again: "I have come in here wishing to watch your dancing — I came out of curiosity."
+
+**17.** "O Goddess, grant us loving devotion to Your lotus feet," they replied. And She said: "If devotion to Me arises in you, people will say:
+
+**18.** 'This one is a votary of Chandi.'"[^216-8] So She said to them with a smile. Then the brahmanas bowed to Her to the ground, and She, like the sun, embraced Haridasa, who was like the moon.
+
+**19.** And he became then like a child of five — a most wondrous sight. Someone there said: "O Goddess, look upon this lowly Murari!"
+
+**20.** Hearing this, She, melting with compassion, shed tears of love from Her two lotus eyes; and at once, accepting the worship of Her own, beautifully attired,
+
+**21.** He — the Foe of the asura hosts — brought forth breast-milk and gave it to the best of the gods to drink. Seeing the Lord, His lovely eyes moist with compassion, His own people were filled with joy.
+
+**22.** And at once the mood of the Sovereign arose once more in Bhagavan. Seeing this, the best of the twice-born bowed with tear-filled eyes to the Lord of the world and joyfully praised Him.
+
+**23.** Thus Bhagavan spent the whole night, and in the morning the moon-faced Lord went to His house; as though holding a splendid staff in His hand, Nrihari appeared to the people like a flame of the fierce-rayed sun.
+
+*Thus ends the sixteenth sarga, "The Manifestation of All Energies" (Sarva-shakti-prakasha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^216-1]: The play in Chandrashekhara's house (see sarga 2.15) continues: Haridasa comes out first, staff in hand, like a herald or a watchman.
+[^216-2]: Advaita Acharya is revered as the incarnation of a portion of Mahavishnu.
+[^216-3]: Baladeva is Nityananda.
+[^216-4]: Vasudeva is a name of Krishna. The compound may also be understood as "in a special attire prepared by Vasudeva."
+[^216-5]: The breeze from the Malaya hills in South India, where sandalwood grows, is famed in poetry for its coolness and fragrance.
+[^216-6]: Kamala is Lakshmi, the Lord's eternal consort.
+[^216-7]: The Goddess (Bhagavati) is the original energy of the Lord, possessing all powers.
+[^216-8]: Chandi is the fierce Goddess (Durga). The Lord jokes: people will take those devoted to Him in the form of the Goddess for Shaktas, votaries of Chandi.

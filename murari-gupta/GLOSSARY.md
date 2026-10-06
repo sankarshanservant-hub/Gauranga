@@ -164,3 +164,13 @@
 | हर (Шива), महिम्नःस्तोत्र | Хара, «Гимн о величии (Шивы)» | Hara, the "Hymn on the Greatness (of Shiva)" |
 | विजय (दास) | Виджая (Даса) | Vijaya (Dasa) |
 | कैवल्य | кайвалья (освобождение) | kaivalya (liberation) |
+| हड्डिप | хаддипа (подметальщик) | haddipa (sweeper) |
+| जगन्नाथ, माधव (братья-грешники) | Джаганнатха и Мадхава (Джагай и Мадхай) | Jagannatha and Madhava (Jagai and Madhai) |
+| नीलाम्बर, हलायुध (Баларама) | Ниламбара, Халаюдха | Nilambara, Halayudha |
+| सौनन्द, सौनन्दन | Саунанда (палица Баларамы) | Saunanda (Balarama's club) |
+| वराह (यज्ञवपुः) | Вараха | Varaha |
+| श्रीपति (брат Шривасы) | Шрипати | Shripati |
+| अजामिल | Аджамила | Ajamila |
+| भीष्मात्मजा | дочь Бхишмаки (Рукмини) | Bhishmaka's daughter (Rukmini) |
+| भगवती, चाण्ड | Богиня (Бхагавати), почитатель Чанди | the Goddess (Bhagavati), a votary of Chandi |
+| मलय (पवन) | ветер с Малаи | the breeze from Malaya |
