@@ -153,3 +153,14 @@
 | नारायण (спутник Господа) | Нараяна | Narayana |
 | नन्दनाचार्य | Нандана Ачарья | Nandana Acharya |
 | षड्भुज | шестирукий облик (шадбхуджа) | the six-armed form (shadbhuja) |
+| पुरुषोत्तम (эпитет Господа) | Пурушоттама («Высший из людей») | Purushottama ("the Highest of persons") |
+| शार्ङ्ग, कौस्तुभ, मकरकुण्डल | Шарнга (лук), Каустубха, серьги-макары | Sharnga (the bow), the Kaustubha, makara earrings |
+| वारुणी | варуни (хмельной напиток Баларамы) | varuni (Balarama's intoxicating drink) |
+| कौपीन | каупина | kaupina |
+| हलिन् | Носящий плуг (Баларама) | the Plough-bearer (Balarama) |
+| त्रिदश, अमृत (боги) | Тридцать, бессмертные | the Thirty, the immortals |
+| वनमाली (भिक्षु, द्विज) | Ванамали (нищенствующий брахман) | Vanamali (a mendicant brahmana) |
+| नृसिंह, नरसिंह | Нрисимха, Нарасимха | Nrisimha, Narasimha |
+| हर (Шива), महिम्नःस्तोत्र | Хара, «Гимн о величии (Шивы)» | Hara, the "Hymn on the Greatness (of Shiva)" |
+| विजय (दास) | Виджая (Даса) | Vijaya (Dasa) |
+| कैवल्य | кайвалья (освобождение) | kaivalya (liberation) |

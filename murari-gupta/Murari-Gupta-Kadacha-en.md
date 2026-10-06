@@ -51,6 +51,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 2, Sarga 6. [The Greatness of Advaita]
   - Prakrama 2, Sarga 7. Grace to the Devotees
   - Prakrama 2, Sarga 8. Grace to the Avadhuta
+  - Prakrama 2, Sarga 9. The Acceptance of the Devotees' Worship
+  - Prakrama 2, Sarga 10. The Pastimes of Dance
+  - Prakrama 2, Sarga 11. The Plunge into the Jahnavi
+  - Prakrama 2, Sarga 12. The Great Manifestation and the Ablution
 
 ---
 
@@ -1812,3 +1816,248 @@ Bhaktisiddhanta Sarasvati.
 [^208-4]: The pastimes of Krishna and Balarama in Vrindavana; Nityananda is revered as Balarama. Before meeting the Lord he had wandered for many years among the holy places.
 [^208-5]: The six-armed form (shadbhuja) unites the features of Rama, Krishna and Gaura Himself.
 [^208-6]: The second line of the verse can also be understood as Nityananda's words to the Lord.
+
+---
+
+## Prakrama 2, Sarga 9. The Acceptance of the Devotees' Worship
+
+*The Lord sees the boy Krishna in a dream; Nityananda beholds the forms of Hari in Srivasa's house; messengers summon Advaita; Advaita comes, and the Lord accepts the worship of His devotees*
+
+**1.** Having heard this narrative, the great soul Damodara was overjoyed, and he spoke again to Murari the physician: "Tell me of the wondrous true form of the All-powerful One's body — the form which Purushottama[^209-1] beheld even in a dream."
+
+**2.** And Murari again told him a holy tale of Krishna, a great festival for the pure in heart: "This new Krishna saw in a dream the true form of Krishna, richly arrayed in every garment and ornament.
+
+**3.** In the night Bhagavan wept, utterly overcome. Seeing her son so, His mother, in great astonishment, said to Him: 'Child, why are You so beside Yourself today?' Hearing this, in a moment He regained His composure and said to Shachi:
+
+**4.** 'Today in a dream I saw a Boy whose lustre was like a fresh rain-cloud. He was adorned with a peacock feather and bracelets of pure gold, curling locks played upon His forehead, He held a flute in His hand, and His yellow garments shone like the rays of the sun.
+
+**5.** When I saw Him I was so shaken that tears bathed My whole body; I weep — and then boundless happiness arose in Me.' Hearing these nectarean words from her son's lips, fair-faced Shachi was filled with joy and smiled.
+
+**6.** And Vishvambhara, His whole body adorned with thick rows of bristling hair, poured an ocean of tears of love from His eyes. Meanwhile, before long, the Avadhuta arrived and shone in the blessed house of Srivasa.
+
+**7.** There the Avadhuta shone, desiring one thing only — the happiness of all the worlds, his face streaming with tears of love. He beheld a form of Hari hardly to be attained on earth — radiant, lotus-eyed, splendidly attired:
+
+**8.** on one side He held the fine club, the discus and the conch, on the left the lovely flute, the excellent bow Sharnga[^209-2] and the thousand-petalled lotus; He glowed like molten gold, He was adorned with the splendid Kaustubha, and divine makara earrings gleamed upon His cheeks;
+
+**9.** a wondrous jewel shone on His brow, on His lovely neck lay an ornament of blue lotuses and a necklace of emerald beads, He was resplendent with a white necklace set in silver, and His garments were golden as the rays of the sun. Seeing this, the Avadhuta was beside himself.
+
+**10.** Next he saw the same form, now without the arms that clasped the flute[^209-3] — with four splendid arms; and, flooded with joy, a moment later he saw Him two-armed, in the form whose deeds befit the world of men — and then he laughed.
+
+**11.** Having thus seen the true form of Hari, which is hard to attain even in heaven, the divine Avadhuta at once broke into dance; embracing his own people there, he sank wholly into an ocean of fresh waters.
+
+**12.** Glory to Krishna's elder brother[^209-4], filled with the rasa of Gaura! Peals of laughter grace his cheeks, his eyes are lovely with the intoxication of varuni; clad in blue, he bears the pestle, the plough and the staff.
+
+**13.** The Lord said to Srivasa and Rama, to Murari the physician and to Narayana: "Go to Advaita's house and let the best of brahmanas know: this Avadhuta will come to him."[^209-5]
+
+**14.** Hearing these words of Hari, they went joyfully to Advaita's lotus feet; arriving on the blessed bank of the heavenly river[^209-6], they bowed to him and conveyed Hari's infinitely holy command.
+
+**15.** Hearing of the Lord's wondrous, brilliant power, the Acharya rejoiced, sang and danced; and again and again he sank into the great ocean of bliss and rose to its surface.
+
+**16.** Having stayed there two days, they returned home, meditating on His lotus feet; and, led by the Acharya, they reported everything at Hari's lotus feet and at once were filled with joy.
+
+**17.** Having come there, the Acharya at an auspicious time beheld Him whose eyes are lotus petals. Seeing His face, he let out a lion's roar and drew near to Mukunda, who takes away the sorrows of those who surrender to Him.
+
+**18.** Seated on a fine seat in the midst of Srivasa's shrine room, Hari suddenly shone with the lustre of molten gold, like the sun at dawn that delights the eyes.
+
+**19.** Seeing the moon of His face, the great souls led by the Acharya rejoiced and sang with melting hearts; they offered food, arghya and fine garments, and, exultant, fell prostrate on the ground.
+
+**20.** Having accepted the worship of the brahmanas, Bhagavan at once shared out His grace among them and joyfully gave them cloth and fine garlands; and they, receiving these, danced with abandon.
+
+**21.** In great rapture, the hair of their bodies standing on end, their hearts sunk in the ocean of bliss, they saw themselves and others as freed from every ill, and held liberation[^209-7] to be the merest trifle.
+
+**22.** For joy they knew neither day nor night: from sunrise to the day's end they gave themselves to dancing, and so they spent the night as well. And at dawn, when the dancing was over, by the command of the Lord of the world,
+
+**23.** those best of excellent brahmanas, led by the best of physicians[^209-8], came home uttering the name of Hari, and all of them joyfully told their wives the whole story of Hari, the Teacher of the world.
+
+*Thus ends the ninth sarga, "The Acceptance of the Devotees' Worship" (Bhakta-puja-upagrahana), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^209-1]: Purushottama ("the Highest of persons") here is Lord Gaura Himself; Damodara asks to hear of the vision He Himself had in a dream (vv. 2–5).
+[^209-2]: Sharnga is Vishnu's bow. These six attributes point to the six-armed form spoken of in the previous sarga.
+[^209-3]: The reading is conjectural: the arms that held the flute vanish, and the four-armed form remains.
+[^209-4]: Krishna's elder brother is Balarama, who appeared as Nityananda; the blue garments, the plough and the pestle are his marks, and the intoxication of varuni (wine) is an image of his rapture in love.
+[^209-5]: The syntax of the second half of the verse is unclear; another reading is possible: "Go to Advaita's house — this Avadhuta too will go, to inform the best of brahmanas." Rama is Sri Rama Pandita, Srivasa's brother; Narayana is a companion of the Lord in Navadvipa.
+[^209-6]: The heavenly river is the Ganga; on its bank, at Shantipura, lived Advaita.
+[^209-7]: Kaivalya is liberation as merging into Brahman, which to devotees is a trifle beside love for the Lord.
+[^209-8]: Apparently Murari Gupta himself, a physician by calling.
+
+---
+
+## Prakrama 2, Sarga 10. The Pastimes of Dance
+
+*The Lord honours Haridasa and sends Advaita home; the shreds of Nityananda's kaupina; the Lord carries Srivasa away and reappears; pastimes in the mood of the gopis; the washing of the Avadhuta's feet; Haridasa and Advaita come*
+
+**1.** Having bathed in the heavenly river and worshipped the Lord of the world, they came once more into the presence of lotus-eyed Vishvambhara; and the Lord too looked upon them with delight.
+
+**2.** Then He saw the excellent Sri Haridasa[^210-1] — an intoxicated bee at the lotus feet of Sri Krishna, cool and soothing, a festival for the eyes of the saintly, full of grace, like the newly risen moon.
+
+**3.** Seeing him, Hari of mighty fame embraced this devotee of His feet tightly in both arms and offered him a seat; and he in turn bowed down to Him.
+
+**4.** At once the Lord anointed him with sandal paste, put a garland on him and gave him mahaprasada — unsurpassed food of the four kinds[^210-2], full of every flavour; and he ate it at His command.
+
+**5.** And the wise Haridasa, his face clear as the moon, dwelt happily in Hari's house, shining like a god; steadfast, he sang again and again the auspicious praise of Hari and rejoiced in the eternal happiness of the soul.
+
+**6.** The beginningless Bhagavan made merry thus with him, together with the Acharya, and sent him to his own abode; and the lion Advaita too went away rejoicing.
+
+**7.** Then the Lord, humble and composed, escorted the departing Avadhuta a long way and said to him: "Give these noble brahmanas one cloth of your kaupina[^210-3]."
+
+**8.** Then, to fulfil the wish of His words, he gave Him a kaupina; the Lord took it, divided the cloth Himself and gave the pieces to His servants. Joyfully receiving them,
+
+**9.** they placed this gift of Nrihari's grace on their heads and came with Krishna to His house; and there, all composure broken by love, they fell to the ground and wept in deep grief.
+
+**10.** Then the brahmanas, the "gods on earth," plunged into the waters of the heavenly river, bathed and performed the rite of worshipping Hari; and in the evening they came again, and the noble ones made merry and sang together with Hari.
+
+**11.** Embracing His servants and clasping them in His two lotus hands, He of endless fame rolls upon the ground; and, bearing boundless bliss within Him, He danced with the gait of a lion.
+
+**12.** Taking up Srivasa in both arms, He carried him far away from their midst; and, not seeing Him, those best of Hari's servants were bewildered and amazed.
+
+**13.** The great souls searched but did not find Him. Knowing that they were troubled, the Unborn, who delights in His own free will, Himself appeared before them, and they eagerly crowded round Him on every side.
+
+**14.** And each of them, looking with entire devotion, gained through the nature of the gopis, upon Krishna, the Lord with the forest garland, prayed: "May the Great Lord show me grace, so that this Bhagavan may become my beloved!"
+
+**15.** For here is Sri Krishna Himself, full of rasa and wholly intent on awakening the feeling of the cowherd women. Perceiving in the devotees who bowed before Him the feeling of the gopis, He performs the pastime of stealing the garments[^210-4] and other pastimes.
+
+**16.** And so once, at nightfall, the Holder of the discus — the knower of rasa, the giver of rasa to men — pulled the garments off His servants with His two lotus hands and left them naked.
+
+**17.** Having played this game, in a moment the Lord gave back all their garments; and they gladly put them on again and made merry together with Murari[^210-5].
+
+**18.** Singing the name of Hari, He danced again with them, pure of heart — the Lord of playful gait, whose lustre of molten gold destroys the impurity of the world.
+
+**19.** Then the Avadhuta came again and, happy, made merry; at once he broke into dance and sang of Hari's qualities. As once the cowherd boys played with Krishna and the Plough-bearer[^210-6], so here too did the Lotus-eyed One.
+
+**20.** When the dancing was over, Bhagavan said to the foremost brahmanas: "Wash the Avadhuta's feet and take that water." And they reverently carried out His command.
+
+**21.** Having drunk the water of his feet, they, filled with rasa, joyfully dance and sing and cry aloud together with Sri Gaurachandra; and the Avadhuta, laughing, fell to the ground.
+
+**22.** And then He[^210-7] rejoiced, dispelling the dire sorrow of men's hearts with the nectarean flood of His speech, with His gait, His laughter and the glances of the Lotus-eyed One.
+
+**23.** Knowing that He was sporting thus, the Thirty[^210-8], standing in the sky, bowed to Him in His beautiful attire; greatly amazed, filled with songs of praise, the immortals extolled Him and gazed upon Him in delight.
+
+**24.** There came the excellent Sri Haridasa: on his breast shone a crystal jewel like a moon, his feet were adorned with lovely anklets; and the sage danced beside the Lord.
+
+**25.** The wise and excellent Advaita came again. Hari, the Lord who loves His devotees, Himself worshipped him with water for the feet, arghya, scents, unbroken rice, sandal and the rest, and then gave him His bidding.
+
+**26.** With reverent awe and respect accepting and eating, with a loud roar, that supremely great prasada, the best of acharyas, whose renown is wide, made merry with Hari in a great festival.
+
+**27.** Whoever hears this auspicious narrative of Krishna will be filled with love, will gain pure feeling and unimpaired learning, and at the end of the body will go to the abode of Hari.
+
+*Thus ends the tenth sarga, "The Pastimes of Dance" (Nritya-vilasa), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^210-1]: Haridasa is Haridasa Thakura, the great devotee of the holy name.
+[^210-2]: The four kinds of food are those that are chewed, sucked, licked and drunk.
+[^210-3]: A kaupina is a renunciate's loincloth. The Lord gave the shreds of Nityananda's kaupina to the devotees as a sacred relic.
+[^210-4]: The stealing of the garments is Krishna's pastime in Vrindavana, when He carried off the clothes of the bathing gopis; here the Lord repeats it with devotees in whom the feeling of the gopis has awakened.
+[^210-5]: "Murari" ("Enemy of Mura") is here apparently an epithet of the Lord; it may also be understood as "together with Murari Gupta."
+[^210-6]: The Plough-bearer is Balarama. Nityananda (Balarama) and Gaura (Krishna) play with the devotees as once with the cowherd boys of Vrindavana.
+[^210-7]: The Lord; it may also be understood that Nityananda rejoiced in the speech, gait, laughter and glances of the Lotus-eyed One.
+[^210-8]: The Thirty (tridasha) are the gods, conventionally thirty-three in number.
+
+---
+
+## Prakrama 2, Sarga 11. The Plunge into the Jahnavi
+
+*The brahmana Vanamali sees the boy Krishna; the Lord in the mood of Nrisimha; the Lord as Shiva on a singer's shoulders; a brahmana woman takes the dust of His feet, and the Lord throws Himself into the Ganga*
+
+**1.** Once a certain mendicant brahmana named Vanamali came there with his son; he saw the Lord of the god of gods and broke into dance.
+
+**2.** Seeing him, Bhagavan lovingly sang of Hari together with him; and he and his son rejoiced happily by the grace of Hari.
+
+**3.** Once, while Hari was dancing, absorbed in kirtana, that brahmana saw a certain dark boy clad in yellow garments.
+
+**4.** "I have seen the Lord, I have seen Him!" he cried, jubilant; and that best of brahmanas, who lived as a mendicant, held that his birth had attained its purpose.
+
+**5.** Taking his son by the hands, he came into the Lord's presence; and so the mendicant, his whole body thrilled, the hair of his body standing in rows,
+
+**6.** bathed in streams of tears of love, danced together with the Holder of the discus. Once Srivasa Pandita, having performed the rite for his ancestors,
+
+**7.** was listening, pure of mind, to the great Thousand Names of Krishna[^211-1]; and Bhagavan came there, having heard the names of Hari.
+
+**8.** Possessed by the mood of Nrisimha[^211-2] and enraged, the Lord swiftly seized a club and ran, with the form and might of Nrisimha.
+
+**9.** Seeing the Lord in such a state, everyone fled. And Nrihari, seeing them take to flight,
+
+**10.** in a moment threw down the club, came back to Himself and sat down on His seat. Then He said: "I do not know whether I have committed some offence."
+
+**11.** Hearing these words, all said: "You have no offence at all, O Lord of the world! Whoever only remembers having seen You,
+
+**12.** the Lord in the form of Narasimha — in him the very seed of sin is surely burnt away. How could You ever commit an offence, O Giver of honour?"
+
+**13.** Now on another day a certain singer came; having bowed to Hari with devotion, he sat down there on the ground
+
+**14.** and sang a sweet-toned song of Shiva with tender syllables. Hearing it, Bhagavan was pleased and, possessed by the mood of Shiva, broke into dance.
+
+**15.** Then He swiftly rose and climbed onto the singer's shoulders, and Srivasa Pandita recited a hymn to Shiva. And there, upon that great bull[^211-3], Hari, His lotus eyes grown round,
+
+**16.** became Hara[^211-4] — with matted locks, sounding the horn and the damaru, singing of Rama — the Lord of the worlds, containing all the gods within Him.
+
+**17.** Sri Mukunda in a most beautiful voice performed the hymn "On the Greatness"[^211-5]; then the All-powerful came down from the singer's shoulders and sat down. And all of them, flooded with the rasa of Hari's pastimes, rejoiced
+
+**18.** and for joy perform kirtana; and the Teacher of the world made merry together with them, singing the song of Hari, and danced again and again —
+
+**19.** the glorious Lord Vishvambhara, filled with the feeling of devotion. And on the next day, when the dancing was over, He fell to the ground like a rod,
+
+**20.** and as the Lord lay so, from His lotus feet
+
+**21.** a certain brahmana woman came and took the precious dust. Then Bhagavan rose and, learning of her deed,
+
+**22.** overcome by great sorrow, was full of remorse in every way[^211-6]. Then He suddenly sprang up and swiftly
+
+**23.** threw Himself into the waters of the Jahnavi and sank. But right there the mighty Avadhuta caught hold of Him; holding Him fast, the mighty-armed one climbed out with Him onto the bank.
+
+**24.** Srivasa, Haridasa and others came running, terrified and distressed, and, full of fear, at once surrounded the Lord of the gods.
+
+**25.** The brahmana Shuklambara and others, yearning with love, wept; but, knowing that the Lord was fully calmed and happy, they began to speak of Krishna among themselves.
+
+*Thus ends the eleventh sarga, "The Plunge into the Jahnavi" (Jahnavi-patana), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^211-1]: The Vishnu-sahasranama ("Thousand Names of Vishnu") from the Mahabharata or a similar hymn recited at rites.
+[^211-2]: Nrisimha (Narasimha, Nrihari) is the Man-lion, the incarnation of Vishnu who tore apart the demon Hiranyakashipu for the sake of His devotee Prahlada.
+[^211-3]: The singer on whose shoulders the Lord sits is likened to Nandin, the bull on which Shiva rides.
+[^211-4]: Hara is Shiva. The horn, the damaru drum and the matted locks are his marks; Shiva is the greatest devotee of Rama, ever repeating His name.
+[^211-5]: The Shiva-mahimna-stotra ("Hymn on the Greatness of Shiva"), ascribed to Pushpadanta. Mukunda is Mukunda Datta, the singer among the Lord's companions.
+[^211-6]: Taking the dust of someone's feet is a sign of worship, as before the Lord or a saint. The Lord, playing the part of a devotee, held Himself unworthy of such honour, and the woman's deed filled Him with remorse.
+
+---
+
+## Prakrama 2, Sarga 12. The Great Manifestation and the Ablution
+
+*The Lord returns from the northern bank of the Ganga; Murari consoles Him; the Lord reveals His great majesty, and the devotees bathe and worship Him*
+
+**1.** Then together with the Lord they hurried to Murari's house; having sat there a little while, they went on to the dwelling of Vijaya[^212-1].
+
+**2.** Having spent the night there, at dawn the Supreme Bhagavan went to the northern bank of the Jahnavi and roamed swiftly about.
+
+**3.** The saintly, peaceful brahmanas, the best of the twice-born, said humbly: "Be gracious, Bhagavan! Come back again to Your home."
+
+**4.** Hearing their humble plea, the glorious Lord Vishvambhara, the joy of His devotees' hearts, was softened by compassion and turned back.
+
+**5.** And then all of them, glad at heart, their grief cast off, full of joy, came again with Hari to the house of Srivasa.
+
+**6.** There Bhagavan said before them all: "Hear My word, you who give the rasa of Krishna.
+
+**7.** When I abandon My mother and go away to distant lands, everyone will say of Me: 'He has done wrong.'"[^212-2]
+
+**8.** Hearing this, Murari said: "No, Lord, no one will say so. No person, no living being, is able to speak thus of the Eternal One."
+
+**9.** Hearing these words of his, Bhagavan, delighted, embraced humble Murari with His beautiful arms and entered the house.
+
+**10.** Then the physician, overjoyed, the hair of his body standing in rows, recited an ancient verse — hear it:
+
+**11.** "Where am I, a pauper, most sinful, and where is Krishna, the abode of Shri! And yet me, a brahmana by birth alone, He embraced with His arms."[^212-3]
+
+**12.** Hearing this, the Lord revealed a wondrous and complete state and suddenly shone forth, His splendour like that of the thousand-rayed sun.
+
+**13.** Sitting down on His seat, the Lord spoke sweetly: "Know this body to be the supreme concentration of being and consciousness."
+
+**14.** And all of them rejoiced, and the hair of their bodies stood on end. Then Srivasa Pandita bathed the Lord
+
+**15.** with the clear waters of the heavenly river and worshipped Him according to rule; Nityananda, of great splendour, held an umbrella over His head.
+
+**16.** Gadadhara offers betel to His beautiful lips, and others serve the Lord with chamara whisks, fans and the like.
+
+**17.** Immersed in the rasa of sankirtana, they sing of Hari on every side; and so, in rapture and amazement, they danced and sang.
+
+*Thus ends the twelfth sarga, "The Great Manifestation and the Ablution" (Mahaprakasha-abhisheka), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^212-1]: Vijaya is apparently Vijaya Dasa, a devotee of Navadvipa and a copyist of books.
+[^212-2]: The Lord is already contemplating sannyasa, for which He will have to leave His mother.
+[^212-3]: Bhagavata Purana 10.81.16 — the words of the poor brahmana Sudama, whom Krishna embraced. Murari applies them to himself.
