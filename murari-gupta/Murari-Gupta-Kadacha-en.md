@@ -38,6 +38,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 1, Sarga 10. The Wedding
   - Prakrama 1, Sarga 11. The Festival of Sri Lakshmi's Departure
   - Prakrama 1, Sarga 12. The Consolation of Shachi; Lakshmi's Departure to Heaven
+  - Prakrama 1, Sarga 13. The Marriage of Sri Vishnupriya: The Consolation of Sri Sanatana
+  - Prakrama 1, Sarga 14. The Marriage of Sri Vishnupriya
+  - Prakrama 1, Sarga 15. The Meeting with Srimad Ishvara Puri
+  - Prakrama 1, Sarga 16. The Journey to Gaya
 
 ---
 
@@ -903,3 +907,273 @@ Bhaktisiddhanta Sarasvati.
 [^112-2]: Maghavan is Indra, king of the gods.
 [^112-3]: First the Lord tells the "concealing" story of the apsara (v. 13), and then hints at the truth: His consort is Lakshmi herself.
 [^112-4]: The Grandsire is Brahma; Ishvara is Shiva.
+
+---
+
+## Prakrama 1, Sarga 13. The Marriage of Sri Vishnupriya: The Consolation of Sri Sanatana
+
+*Shachi seeks the daughter of Sanatana Mishra as a bride for her son; the betrothal and the preparations; the Lord pretends to know nothing of the wedding, and the grieved Sanatana and his wife resign themselves; the Lord removes their sorrow*
+
+**1.** Then the Lord lived in His charming home with His mother, with good people and kinsmen, and rejoiced like Purandara[^113-1] with Aditi among the gods.
+
+**2.** One day Shachi, having thought about her son's marriage, said to Kashinatha, the best of brahmanas: "Go now
+
+**3.** to the venerable brahmana Sanatana, the learned pandita, the best of the righteous, and ask him to give his daughter to my son according to the rite."
+
+**4.** Having heard her words, Kashinatha, that excellent brahmana, conveyed all this to the high-souled pandita.
+
+**5.** (He replied:) "Go, O tiger among the twice-born. When we have considered what needs to be done and settled the time, we shall send a worthy brahmana (to you)."
+
+**6.** Having heard everything, he consulted with his wife and kinsmen, decided that this ought to be done, and then spoke (thus) to Kashinatha.
+
+**7.** Hearing his words, Kashinatha returned and reported everything to Shachi just as it had been said, and she was delighted.
+
+**8.** After some time the pandita Sri Sanatana — pure, devoted to right conduct, a Vaishnava, a protector of people,
+
+**9.** compassionate and hospitable, of good character, kind in speech and pure — sent a certain brahmana. He came, bowed to Shachi,
+
+**10.** and said to her: "O virtuous lady! The pandita Sri Sanatana begs to give to your son, so learned and high-souled,
+
+**11.** his daughter, who is endowed with every virtue, with beauty and nobility." Then the virtuous Shachi, delighted, replied:
+
+**12.** "This alliance, the abode of all good qualities, has always been dear to me. It must certainly be performed at an auspicious hour" — so she said to him.
+
+**13.** Then the best of brahmanas, delighted, said in a sweet voice: "Having won your splendid son as her husband, may Vishnupriya prove true to her name[^113-2].
+
+**14.** And may Srimad Vishvambhara Prabhu, having married her, be as blissful
+
+**15.** as Krishna was blissful when He won Rukmini. I am telling you the truth." Hearing these words of the best of brahmanas, Shachi was filled with joy.
+
+**16.** The brahmana went back and reported everything to the pandita. Then, filled with joy, the pandita Sri Sanatana,
+
+**17.** a capable man, quickly gathered all the provisions, ornaments and everything else, and then, learning the appointed time, made ready to perform the adhivasa.
+
+**18.** Just then the astrologer came and humbly said: "On the road I gladly met Srimad Vishvambhara Prabhu
+
+**19.** and asked Him: 'O Bhagavan, O sinless one, today is Your adhivasa before the wedding. Why, dear one, do I see delay there?'
+
+**20.** Hearing this, the Lord, His lotus face shining with a smile, answered me: 'Where did you get that? Whose wedding? Tell Me.'
+
+**21.** Having heard such words from Him, I have come to you. Now that you have heard this, do whatever is fitting."
+
+**22.** Hearing these words of the astrologer, the venerable Sanatana was deeply grieved, but, summoning all his fortitude, he said:
+
+**23.** "I have prepared everything — the provisions and the ornaments. And yet, through the fault of fate, He has shown no regard for it.
+
+**24.** What am I to do now? I have given no offence in any way." Then his wife, pure in her vows, her heart anxious —
+
+**25.** born of a noble family, devoted to Vishnu, wholly given to serving her husband — grieved herself, spoke to that sorrowful best of panditas.
+
+**26.** The faithful wife said to her husband: "If Srimad Vishvambhara does not do it of His own accord, the fault is not ours. Why then, my lord,
+
+**27.** are you so grieved? It is not for us to say even the least word: we must not press this matter. Give up your sorrow and be happy."
+
+**28.** Hearing these words of his beloved and feeling tenderness for her, he said together with his kinsmen: "This, then, is firmly resolved:
+
+**29.** if the best of brahmanas does not do it, neither shall we." And then Bhagavan learned that the brahmana couple were grieving —
+
+**30.** that they, devoted to Vishnu and free of envy, were seized with vexation and shame — and the Lord Bhagavan, kind to brahmanas, took away their sorrow.
+
+*Thus ends the thirteenth sarga, "The Consolation of Sri Sanatana" (Shri-sanatana-santvana), in the account of Sri Vishnupriya's marriage, of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^113-1]: Purandara is Indra; Aditi is the mother of Indra and the other gods. The Lord, living with His mother among friends, is likened to Indra beside Aditi among the gods.
+[^113-2]: The name Vishnupriya means "beloved of Vishnu."
+
+---
+
+## Prakrama 1, Sarga 14. The Marriage of Sri Vishnupriya
+
+*Moved by Sanatana's grief, the Lord consents to the wedding; the adhivasa of bridegroom and bride; the wedding procession and the rite in Sanatana's house; Shachi welcomes the couple home*
+
+**1.** Then Bhagavan Krishna, whose heart is devoted to compassion, remembered their sorrow and sent His own brahmana to them,
+
+**2.** and, like an ordinary man, He conciliated them with sweet words through the mouth of that brahmana and resolved to marry their daughter.
+
+**3.** And so came the auspicious day of the adhivasa, marked by a favourable conjunction of the lagna, the moon and the nakshatra[^114-1]. Hosts of saintly brahmanas gathered,
+
+**4.** mridangas and panavas resounded, everything rang with the sound of the Vedas, and all the quarters were adorned with incense, lamps and banners.
+
+**5.** After the recitation of blessings and the worship of the forefathers and the gods, Prabhu performed the rite of adhivasa together with the brahmanas.
+
+**6.** Then Hari of great fame lavishly presented the twice-born and the good people with sandal paste, perfumes, betel[^114-2] and garlands.
+
+**7.** At that time the venerable Sri Sanatana, the noble pandita, arrived, full of reverence, his heart rejoicing.
+
+**8.** He sent brahmanas and virtuous brahmana wives and had the adhivasa of his high-souled son-in-law performed according to the rite,
+
+**9.** while he himself performed his daughter's adhivasa according to the rite and, immersed in the rapture of great joy, felt nothing of the pains of worldly existence.
+
+**10.** The next morning Bhagavan, having bathed in the waters of the Jahnavi and performed His daily rites, went on His way accompanied by saintly men.
+
+**11.** When, having attentively worshipped the forefathers with the nandimukha rite[^114-3], He was seated, vigorous young sons of brahmanas at once approached Him
+
+**12.** and adorned Srimad Vishvambhara, the Lord radiant as millions of suns, with garments, ornaments and garlands, perfumes and the rest.
+
+**13.** At that very moment Sri Sanatana Pandita quickly had his daughter adorned with garments, ornaments, garlands, perfumes and the rest,
+
+**14.** and, knowing that the hour of the wedding had come, sent excellent brahmanas to bring his son-in-law with honour.
+
+**15.** Arriving, those best of brahmanas humbly said: "The auspicious hour of Your wedding has come.
+
+**16.** Set forth in triumph on this auspicious errand, make up Your mind to go to the pandita's house! Who can describe his good fortune?"
+
+**17.** Hearing the words of the brahmanas, Bhagavan smiled graciously[^114-4], at once bowed to His mother, mounted a litter and joyfully set out amid cries of "jaya!", the chanting of the Vedas, the sound of mridangas and patahas,
+
+**18.** and the music of vinas, panavas, bronze cymbals and the rest.
+
+**19.** Surrounded by rows of lamps and other lights, like the moon among the stars, He shone in a palanquin white as the rays of the autumn moon:
+
+**20.** golden-hued, like a second peak of Meru in the Milk Ocean, Hari Himself revealed a beauty that enchants the world.
+
+**21.** Seeing that his son-in-law had arrived, (Sanatana,) his hair standing on end with joy, rose, brought Him in with honour, offered Him according to the rite water for His feet and a seat,
+
+**22.** and honoured Him as the bridegroom with garments, garlands and unguents. His body was golden like molten gold, and on His chest lay a garland of malati flowers —
+
+**23.** like the peak of Meru down which the Ganga flows in a twofold stream. His face was like the rising full moon, His eyes like lotuses.
+
+**24.** Seeing her son-in-law, the mother-in-law rejoiced, her face bright with a smile. She and the brahmana women gathered there — with lamps, svastikas, parched rice and other auspicious things —
+
+**25.** joyfully performed the nirmanchhana rite[^114-5] over the son-in-law: filled with supreme bliss and eager delight, they knew well what pleases the heart.
+
+**26.** Sri Sanatana Pandita brought his divine daughter and with full attention offered her at the feet of his son-in-law.
+
+**27.** Then, amid cries of "jaya, jaya!", the sound of the Vedas from the brahmanas' lips and the din of many instruments, a great festival began.
+
+**28.** Vishnu and Vishnupriya showered each other with flowers: Great Bliss itself, the Almighty Himself, had visibly descended.
+
+**29.** Then mighty-armed Hari sat on a bright seat spread with a clean cloth, and beside Him the lovely bride,
+
+**30.** like Krishna in Dvaravati with fair-faced Rukmini, and their radiance grew like that of the moon and Rohini[^114-6].
+
+**31.** Sri Sanatana came forward, gave his daughter's hand into the lotus hand (of the Lord) according to the rite, and, having given her away, considered his life fulfilled.
+
+**32.** When the wedding was complete and a great festival had been held, the Teacher of the worlds returned with His wife to His own house.
+
+**33.** Seeing Him soon arrive home with the bride, greeted by the gods on earth[^114-7], the lovely-faced mother of Murari[^114-8] joyfully performed, with the virtuous women, the rite of entering the house.
+
+*Thus ends the fourteenth sarga, "The Marriage of Sri Vishnupriya" (Shri-vishnupriya-vivaha), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^114-1]: The lagna is the zodiacal sign rising at the moment of the rite; a nakshatra is a lunar asterism. Their favourable conjunction with the moon determines the time of the wedding.
+[^114-2]: Betel (tambula): betel leaves with areca nut and spices, offered to guests.
+[^114-3]: The nandimukha are forefathers honoured with a special rite (nandimukha shraddha) before a wedding and other joyful occasions.
+[^114-4]: Literally, "with a gracious face."
+[^114-5]: Nirmanchhana: the rite of waving lamps and other auspicious things around the bridegroom to ward off the evil eye.
+[^114-6]: Rohini is the nakshatra who is the favourite consort of the moon-god.
+[^114-7]: The gods on earth are the brahmanas.
+[^114-8]: Murari ("Enemy of Mura") is Krishna; here, Gauranga.
+
+---
+
+## Prakrama 1, Sarga 15. The Meeting with Srimad Ishvara Puri
+
+*The Lord lives at home, teaching and gladdening His mother and wife; the journey to Gaya for His father's rite; a fever cured by the water from brahmanas' feet; the meeting with Ishvara Puri and initiation into the mantra*
+
+**1.** Then Hari, greeted by the townspeople, lived at home: He taught brahmanas, vaidyas[^115-1] and good people and observed the rules of good worldly rites — and this was a wondrous work of His mercy.
+
+**2.** By His eloquence He took away the glory of Vachaspati, by His poetry that of Kavya, by His radiance the splendour of the moon[^115-2]. When the Lord of the gods Himself had come to earth, did they not give back to Hari what had been entrusted to them?
+
+**3.** He taught the greatest of brahmanas — those who in former births had amassed heaps of merit. How can we describe the great merit of those fortunate ones, whose teacher the Teacher of the world Himself became?
+
+**4.** Gleaming like pure gold, He shone with beauty, sweetness, playfulness and charm. Vishnupriya caressed His lotus feet; full of rasa, He was the crown of the kings of rasikas[^115-3].
+
+**5.** Rapt in the play of learning, Hari walked along the road swinging His arms, thronged by His students; and coming home to His mother, He always gave her joy equally with His beloved wife.
+
+**6.** Then Achyuta, teaching people, resolved to perform the rite for His father. Knower of the injunctions, He duly performed the shraddha and set out for Gaya with the gods on earth[^115-4].
+
+**7.** Going along the road, He behaved like an ordinary man: He laughed and amused the good with His jests, and on the plains graced by herds of antelope He delighted in watching the frolics of the animals.
+
+**8.** Having joyfully bathed in the river Chorandhayaka and performed His daily rites according to the rules, He satisfied the gods and forefathers with libations, and then, with His dear companions, climbed Mount Mandara and saw the deities there[^115-5].
+
+**9.** Then Prabhu quickly came down to the house of a brahmana at the foot of the mountain; and, giving a lesson to people, He fell ill with a burning fever.
+
+**10.** "On the way, by the will of fate, My body has grown weak," He thought anxiously. "How now will My rite for My father be performed at Gaya? An obstacle has arisen to a good work."
+
+**11.** Then, considering a remedy for the fever Himself, He recognised the service of brahmanas' feet as the best of all, and, arranging it so, Bhagavan drank the water that had washed their feet.
+
+**12.** All those brahmanas had taken shelter in Madhusudana and ceaselessly meditated on Krishna's feet. That is why Prabhu, who regarded Himself as one of Krishna's people, drank the water from their feet.
+
+**13.** And the fever abated. Having shown them what devotion to the feet of brahmanas is, He went to the holy place called Punahpuna[^115-6] and there worshipped the brahmanas and the gods.
+
+**14.** Crossing the river and going on, He, teaching people, worshipped the forefathers and the gods at the pond called Brahma-kunda in Rajagriha[^115-7], the most sacred of holy places.
+
+**15.** …For the sake of His mother's husband[^115-8] He came slowly, with the gods on earth, to Gaya, wishing to see the feet of the Club-bearer[^115-9].
+
+**16.** There the Supreme Lord saw the auspicious Ishvara Puri, the best of sannyasis, devoted to Hari's feet. With the deepest devotion of His heart He bowed to him, and he was pleased. Then the Lord said:
+
+**17.** "O revered one! By good fortune I have seen your lotus feet today. Tell Me yourself, O master, O treasury of mercy, how I may cross the ocean of worldly existence and taste the nectar of Krishna's lotus feet."
+
+**18.** Hearing these nectarean words of Hari, Puri, who knew His heart, gladly gave Him the best of mantras — the ten-syllable one[^115-10]. Having received it, Gaurachandra Himself, overwhelmed by devotion, praised him:
+
+**19.** "O sannyasi, O merciful one! Through contact with your feet I have today attained a rare fulfilment — intoxication with the honey of Sri Krishna's lotus feet, by which I shall cross the endless round of birth and death."
+
+*Thus ends the fifteenth sarga, "The Meeting with Srimad Ishvara Puri" (Shrimad-ishvara-puri-darshana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^115-1]: Vaidyas: the community of physicians, to which Murari Gupta himself belonged.
+[^115-2]: Vachaspati is Brihaspati, the preceptor of the gods and the model of eloquence; Kavya is Shukra, the preceptor of the asuras and the model of the poet. The sense: their eloquence and poetry, and the moon's radiance, belong originally to the Lord, and when He came to earth they gave Him back, as it were, what had been deposited with them.
+[^115-3]: Rasa is the taste, the inner experience of loving service; rasikas are those able to relish it.
+[^115-4]: That is, with brahmanas.
+[^115-5]: Mandara is a sacred hill in Bihar (near present-day Bhagalpur), where Madhusudana is worshipped.
+[^115-6]: Punahpuna (the present Punpun) is a sacred river on the way to Gaya.
+[^115-7]: Rajagriha (present-day Rajgir) is an ancient holy town in Bihar.
+[^115-8]: In all witnesses only half of this verse survives. Literally "with His mother's husband," that is, apparently, for the sake of His late father, Jagannatha Mishra; the sense is conjectural.
+[^115-9]: The Club-bearer is Gadadhara, Vishnu as worshipped at Gaya; His footprint (Vishnu-pada) is the chief shrine of Gaya.
+[^115-10]: The ten-syllable mantra is the mantra of Gopala-Krishna.
+
+---
+
+## Prakrama 1, Sarga 16. The Journey to Gaya
+
+*Ancestral rites at the holy places of Gaya; Jagannatha Mishra appears to accept the pinda; love awakens at the footprint of Vishnu; a voice from the sky bids the Lord return home; His ecstasy in Navadvipa; a brief glance ahead — sannyasa, Puri, the South, Mathura; the fruit of hearing*
+
+**1.** Himself showing what devotion to the guru should be, He worshipped the forefathers and the gods at the Phalgu, and on the peak of Pretashila, on spots bearing the dust of Brahma's fingers, offered pindas to the forefathers[^116-1].
+
+**2.** Having worshipped the gods, He gave the brahmanas as much dakshina as they wished on behalf of His forefathers; then He quickly came down and went north. Having performed the ancestral rite at Dakshina-manasa
+
+**3.** and at the (pond) called Uttara-manasa, He went with the brahmanas to Jihvachapala. Having performed there the shraddha for the forefathers and the gods, He went joyfully to the head of Gaya[^116-2].
+
+**4.** At the Sixteen Altars[^116-3], together with the best of brahmanas, He performed the ancestral rite and offered the pinda — and Srimad Jagannatha Purandara, appearing visibly, joyfully accepted it.
+
+**5.** Just so, long ago, the pinda offered by Sri Rama was accepted by his father, who came for it[^116-4]. Thus Hari's deeds are alike everywhere — and yet this event is the rarest of all.
+
+**6.** Seeing the footprint of Hari at the Vishnupada, He was overjoyed, but said to Himself: "Why, on seeing the marks of Hari's lotus foot, have I felt no awakening of love?"
+
+**7.** At that moment, by providence, the footprint was bathed again and again with very cool water[^116-5] — and Bhagavan trembled, His hair stood on end, and His chest was washed by a hundred streams of tears of love.
+
+**8.** Beside Himself with the festival of love for Krishna's lotus feet, at once free of all attachment, He wished to leave Gaya and go to lovely Madhuvana[^116-6], frequented by saints.
+
+**9.** Then a bodiless voice, deep as a fresh rain-cloud, called Him and said: "Go to Your home. Afterwards, in due time, O Lord, You will go by Your own will both to Madhuvana and elsewhere.
+
+**10.** You are certainly the Lord of all, able in every way to do or not to do. Yet, O Lord, the word spoken by Your servants You must surely make true."
+
+**11.** Having heard this divine speech, He came home, surrounded by His kinsmen, and fell at His mother's feet in obeisance; and Shachi's eyes filled with tears of joy.
+
+**12.** Living at home, His composure shattered by love, He would weep long and cry out loudly again and again, and at times, trembling, He would joyfully call in a faltering voice: "Hari! Krishna! Hari!"
+
+**13.** At times, with Srivasa, the brahmanas and others, He sang in new ways and danced, full of feeling, and, imitating various avatars, He took delight in this and taught the people.
+
+**14.** He renounced all action at Hari's lotus feet and became the best of sannyasis. Then, surrounded by great souls headed by Mukunda, dear to Hari, He went to the best of kshetras[^116-7]
+
+**15.** and long beheld the Lord, the Master of Purushottama — the true bliss surpassing everlasting joy and happiness. Having attained this, He went with wise and saintly men along the road to the bridge built by Lord Raghava[^116-8].
+
+**16.** Embracing the seven tamala trees[^116-9] that stand there, He wept long. Then Prabhu came to Kurma and saw the Lord of the world in the form of a tortoise[^116-10].
+
+**17.** Then He came back to the kshetra called Sri Purushottama and saw the face of Jagannatha. Having stayed there some days, Achyuta went to Mathura, the city of the Enemy of Madhu.
+
+**18.** Reaching the land adorned with the marks of (Krishna's) lotus feet, the Teacher of the world wept, rolling vehemently on the ground, and stayed there some days, eager only to taste the nectar of love.
+
+**19.** Thus, having spread supreme bliss in Madhupuri, Prabhu suddenly left in joy and again, step by step, in the company of saints, came to the supreme abode — the playground of Purushottama.
+
+**20.** Whoever hears how Hari performed the rites at the holy place gains the greatest fruit of pilgrimage to Gaya; and a man full of faith and complete longing reaches, at the end of the body, a pure destination.
+
+*Thus ends the sixteenth sarga, "The Journey to Gaya" (Gaya-gamana), of the first prakrama of the great poem "Sri Krishna-chaitanya-charitamrita." Thus the first prakrama is complete.*
+
+[^116-1]: The Phalgu is the sacred river of Gaya; Pretashila is a hill near Gaya where pindas (balls of rice) are offered to the forefathers. Its stones, by local tradition, bear the marks of Brahma's fingers. The reading "on the peak of Pretashila" is conjectural.
+[^116-2]: Dakshina-manasa, Uttara-manasa and Jihvachapala (Jihvalola) are holy places of Gaya where shraddha is performed. "The head of Gaya" is the spot on the head of the asura Gaya on which Vishnu placed His foot; the shrine of the Vishnupada stands there.
+[^116-3]: The Sixteen Altars (Shodasha-vedi) are the place of pinda offerings by the Vishnupada temple.
+[^116-4]: Rama's father is Dasharatha.
+[^116-5]: Literally "its": apparently the footprint of Vishnu; it may also be understood that the Lord Himself was drenched with cool water.
+[^116-6]: Madhuvana, the forest of Madhu, is the region of Mathura (Vraja).
+[^116-7]: Verses 14–19 briefly anticipate events described in detail in the following prakramas: the sannyasa, the life in Puri (the kshetra of Purushottama), and the pilgrimages to the South and to Mathura.
+[^116-8]: Raghava is Rama; the bridge (Setubandha) is the bridge to Lanka built by Rama.
+[^116-9]: The tamala is a tree with dark bark whose colour recalls Krishna.
+[^116-10]: Kurma is Kurma-kshetra (Srikurmam) in the South, where Vishnu is worshipped in the form of the Tortoise.

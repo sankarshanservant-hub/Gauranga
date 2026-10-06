@@ -104,3 +104,26 @@
 | हर, पार्वती | Хара, Парвати | Hara, Parvati |
 | रोहिणी | Рохини | Rohini |
 | प्रजापति, पितामह | Праджапати, Прародитель (Брахма) | Prajapati, the Grandsire (Brahma) |
+| काशीनाथ (द्विज) | Кашинатха (брахман-сват) | Kashinatha (the brahmana go-between) |
+| पुरन्दर, अदिति | Пурандара (Индра), Адити | Purandara (Indra), Aditi |
+| रुक्मिणी, द्वारवती | Рукмини, Дваравати (Дварака) | Rukmini, Dvaravati (Dvaraka) |
+| गणक | звездочёт | astrologer |
+| निर्मञ्छन | нирманчхана | nirmanchhana |
+| मुरारि (эпитет Кришны) | Мурари («Враг Муры») | Murari ("Enemy of Mura") |
+| काव्य (शुक्र) | Кавья (Шукра) | Kavya (Shukra) |
+| वैद्य | вайдья (лекарь) | vaidya (physician) |
+| चोरान्धयक (नद) | Чорандхаяка (река) | the Chorandhayaka (river) |
+| मन्दार | Мандара (гора) | Mandara (hill) |
+| पुनःपुना | Пунахпуна | Punahpuna |
+| राजगृह, ब्रह्मकुण्ड | Раджагриха, Брахма-кунда | Rajagriha, Brahma-kunda |
+| गदाभृत् | Носитель палицы (Гададхара Гаи) | the Club-bearer (Gadadhara of Gaya) |
+| दशाक्षर (मन्त्र) | десятисложная мантра | the ten-syllable mantra |
+| फल्गु, प्रेत(शिला) | Пхалгу, Преташила | the Phalgu, Pretashila |
+| दक्षिणमानस, उत्तरमानस | Дакшина-манаса, Уттара-манаса | Dakshina-manasa, Uttara-manasa |
+| जिह्वाचपल | Джихвачапала (Джихвалола) | Jihvachapala (Jihvalola) |
+| विष्णुपदी, विष्णुपद | Вишнупада | the Vishnupada |
+| षोडशवेदिका | Шестнадцать алтарей (Шодаша-веди) | the Sixteen Altars (Shodasha-vedi) |
+| मधोर्वन, मधुपुरी | Мадхувана, Мадхупури | Madhuvana, Madhupuri |
+| राघव | Рагхава (Рама) | Raghava (Rama) |
+| कूर्म (क्षेत्र) | Курма (Курма-кшетра) | Kurma (Kurma-kshetra) |
+| तमाल | тамала | tamala |
