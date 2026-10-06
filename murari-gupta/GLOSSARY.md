@@ -127,3 +127,13 @@
 | राघव | Рагхава (Рама) | Raghava (Rama) |
 | कूर्म (क्षेत्र) | Курма (Курма-кшетра) | Kurma (Kurma-kshetra) |
 | तमाल | тамала | tamala |
+| श्रीराम (брат Шривасы) | Шри Рама (Рамай Пандит) | Sri Rama (Ramai Pandita) |
+| कमला, कमलाध्यक्ष | Камала (Лакшми), Владыка Камалы | Kamala (Lakshmi), the Lord of Kamala |
+| अम्बष्ठ | амбаштха (каста вайдьев) | Ambashtha (the vaidya caste) |
+| वराह, शूकर | Вараха, Вепрь | Varaha, the Boar |
+| षण्मुख, षड्वदन (स्कन्द) | Шестиликий (Сканда) | the Six-faced (Skanda) |
+| कपिल | Капила | Kapila |
+| चक्रपाणि | Держащий диск | the Holder of the discus |
+| मन्दिरा | мандира (тарелочки) | mandira (cymbals) |
+| सुरनदी, द्युनदी | река богов, небесная река (Ганга) | the river of the gods, the heavenly river (the Ganga) |
+| अचलभिद् | Сокрушитель гор (Индра) | the Splitter of mountains (Indra) |

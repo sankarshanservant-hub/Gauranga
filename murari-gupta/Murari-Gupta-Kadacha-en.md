@@ -42,6 +42,11 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 1, Sarga 14. The Marriage of Sri Vishnupriya
   - Prakrama 1, Sarga 15. The Meeting with Srimad Ishvara Puri
   - Prakrama 1, Sarga 16. The Journey to Gaya
+- **Prakrama Two**
+  - Prakrama 2, Sarga 1. The Manifestation of Ecstasy
+  - Prakrama 2, Sarga 2. Absorption in the Boar
+  - Prakrama 2, Sarga 3. Dispelling the Clouds
+  - Prakrama 2, Sarga 4. Immersion in the Heavenly River
 
 ---
 
@@ -1177,3 +1182,323 @@ Bhaktisiddhanta Sarasvati.
 [^116-8]: Raghava is Rama; the bridge (Setubandha) is the bridge to Lanka built by Rama.
 [^116-9]: The tamala is a tree with dark bark whose colour recalls Krishna.
 [^116-10]: Kurma is Kurma-kshetra (Srikurmam) in the South, where Vishnu is worshipped in the form of the Tortoise.
+
+---
+
+# Prakrama Two
+
+---
+
+## Prakrama 2, Sarga 1. The Manifestation of Ecstasy
+
+*Opening of the second prakrama: Damodara Pandita asks to hear of the Lord's pastimes in Navadvipa; Murari's prayers; Shachi asks her Son for prema; the Lord's ecstatic states in Navadvipa*
+
+**1.** Having heard this, Sri Damodara Pandita[^201-1] said: "What pastimes did the Lord, the treasury of pastimes, perform in Navadvipa?
+
+**2.** Tell of them now in detail — it is an elixir for every ear." And then Murari, delighting the brahmana, began to speak:
+
+**3.** "Hear my brief account, great and wondrous. Having bowed to the lotus feet of Chaitanya, Lord of the gods, I shall begin."
+
+**4.** O Chaitanya-chandra! Let the radiance of the moons of Your toenails fill the sheath of the soul together with its host of eleven senses[^201-2] — fill it within and without — and may it ever nourish and gladden me, who have taken refuge in You.
+
+**5.** O Chaitanya-chandra! Those who, even after seeing Your lotus feet, do not recognize You, O Almighty, as the Supreme Lord — slaves of delusion, devoid of rasa and feeling — are deluded by Your far-spread and mighty maya.
+
+**6.** O Chaitanya-chandra! Even the gods do not know Your lotus feet — how then could others? But those to whom You show mercy, O Mukunda, whose form is moist with compassion, worship You, bow to You and know You always.
+
+**7.** Bowing to the thousand-petalled lotus of Your feet, I say: O Almighty, let Your command be my strength in this task, so that my speech may be filled with the essence of the nectar of Your stories, O Most Excellent, O Nrihari, O ocean of the nectar of compassion!
+
+**8.** Having returned home, Krishna Hari, the treasury of compassion, His eyes full of tears of love, taught the brahmanas in His house every day.
+
+**9.** One day the saintly Shachi, seeing her son weeping in his sleep, asked in astonishment: "What is this? Why are you weeping?"
+
+**10.** Sriman Vishvambhara, the Lord, overwhelmed by love, heard this but said nothing to His mother, and she grew anxious.
+
+**11.** In time, by Hari's mercy, she recognized the signs of prema and humbly begged Him for that devotion to Govinda:
+
+**12.** "Whatever wealth you have gained, wherever it was, you have always given it to me. What then is this wealth called prema, rare even for the gods, that you have gained in Gaya?
+
+**13.** Give it to me today, dear son, if you have any pity for me, so that I may sport unceasingly in the ocean of Krishna's rasa."
+
+**14.** Hearing these words, He answered His mother with affection: "Mother, by the mercy of the Vaishnavas this will come to be for you."
+
+**15.** Hearing this, the saintly Shachi was delighted and became filled with devotion. And Sri Chaitanya-deva respectfully said to the brahmanas:
+
+**16.** "My mother has asked Me for love of Hari. Consider, then, how she may obtain this most rare devotion to Hari."
+
+**17.** Hearing this, they all said: "She will have that devotion to the Lord of the world of which You speak — the devotion called prema, rare even for sages."
+
+**18.** Hearing this, Sri Shachi-devi — devotion personified — obtained firm devotion to Hari and became full of love.
+
+**19.** And from then on He would at times weep, bathed in many streams of tears, and both His nostrils were flooded by two streams of mucus.
+
+**20.** When the Lord rolled on the ground in the hermitage of the brahmana Shuklambara, the ceaseless stream of mucus was drawn away again and again
+
+**21.** and tirelessly thrown far off by Shuklambara Brahmachari — ever pure, and full of the rasa of love for Gaurachandra[^201-3].
+
+**22.** He would weep all day, and on waking at nightfall would say: "It is day." People would answer: "It is night."
+
+**23.** So, melted by love, He would weep aloud the whole night through, and only when the first prahara[^201-4] of the day had passed did Hari come to Himself.
+
+**24.** Then He would ask: "How much of the night is left?" and someone would answer: "It is day." Through excess of love He could not tell day from night.
+
+**25.** Sometimes, hearing the name of Hari or a song about Him, He was overwhelmed and at the mere sound fell to the ground like a stick; sometimes He trembled.
+
+**26.** Sometimes He reverently sang: "Govinda! Krishna! Krishna!" — and sometimes His voice faltered, His body shook violently and its hair stood on end.
+
+**27.** Sometimes He fell into a stupor, sometimes He came to Himself; and sometimes, having bathed, the Lord of the earth performed worship.
+
+**28.** Having offered food to Bhagavan, He would then eat it; sometimes He taught the brahmanas, and at night He sang and danced.
+
+**29.** Thus, displaying with great reverence love for Hari in manifold forms,
+
+**30.** the Teacher of the world constantly instructed the people — He, Bhagavan Krishna Himself, wishing to show the world His favour.
+
+*Thus ends the first sarga, "The Manifestation of Ecstasy" (Bhava-prakasha), of the second prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^201-1]: The poem is framed as a dialogue: Murari Gupta tells Damodara Pandita of the Lord's life. "This" is the account of the first prakrama, which ended with the Lord's return from Gaya.
+[^201-2]: The eleven senses are the five organs of knowledge, the five organs of action, and the mind.
+[^201-3]: Shuklambara Brahmachari was a poor brahmana of Navadvipa who lived on alms; one of the Lord's first companions.
+[^201-4]: A prahara ("watch") is an eighth part of the day and night, about three hours.
+
+---
+
+## Prakrama 2, Sarga 2. Absorption in the Boar
+
+*The Lord's ecstasy at the sound of a flute; kirtanas in Srivasa's house; a heavenly voice consoles the Lord; in Murari's house He takes on the form of the Boar and speaks of Himself and the Vedas; His explanation of the verse on the holy name*
+
+**1.** Once, while walking along the road with Srivasa Pandita, who was adorned by his brothers, Hari heard the sound of a flute and was overwhelmed.
+
+**2.** He fell to the ground like a stick and for a moment lost consciousness; then He cried out in various ways, but soon came to Himself.
+
+**3.** At times, blessing the foremost brahmanas, laughing, His face radiant with beauty, He rejoiced in the company of worthy people; and at times the Lord of Kamala[^202-1]
+
+**4.** also performed worldly acts for the maintenance of the body, displaying His pastimes in Navadvipa — He, the Lord of the earth.
+
+**5.** With Srivasa Pandita and the great-souled Sri Rama[^202-2], in their house, with Mukunda and another vaidya[^202-3], the Lord
+
+**6.** danced and sang songs of Krishna together with those devoted to Hari — night after night, and by day as well — His body thrilling with love.
+
+**7.** Once, while staying at home, utterly overwhelmed by love, He (cried): "Where am I to live, where am I to stay? How can My mind be fixed on Hari?"
+
+**8.** Then a deity, calling Him respectfully by name, addressed Him in that overwhelmed state: "Know Yourself to be a portion of Hari on earth.
+
+**9.** You have descended, O Bhagavan, so that people may attain love. Do not grieve: this sacrifice called kirtana, on earth in the age of Kali,
+
+**10.** will be fully accomplished by Your grace — of this there is no doubt." Hearing these words of the divine voice, He was filled with joy.
+
+**11.** Once, by providence, Hari, out of compassion for the lowly, came to the house of the vaidya Murari, His eyes moist with love.
+
+**12.** Entering the shrine-room, the Almighty sat down, bathed in streams of love like a mountain in waterfalls.
+
+**13.** "Ah! This mighty boar, huge as a mountain, is goring Me with his two tusks!" He said, and step by step He began to back away.
+
+**14.** "Ah! This best of boars is goring Me with his tusks!" Mahaprabhu said again, and quickly retreated.
+
+**15.** Then, a moment later, Himself revealing in ecstasy His nature as the Lord, He went on all fours, resting His knees and both hands on the ground,
+
+**16.** and, rolling His round lotus eyes and making all resound with His roar, He lifted a brass water-pot on the tips of His tusks.
+
+**17.** For a moment He turned His face upward; then, holding the brass pot, He said to humble Murari: "Describe My true form."
+
+**18.** Astonished, he bowed to the ground and said: "You are the Lord made visible; but Your true form I do not know, O Bhagavan, O lotus-eyed one.
+
+**19.** You alone know Yourself by Yourself, O Supreme Person[^202-4]." And as he kept repeating these words of the Gita,
+
+**20.** Bhagavan again asked him in a very gentle voice: "And does the Veda know Me?" The vaidya answered the Lord:
+
+**21.** "The Veda has no power to describe You: You are ever hidden." Hearing this, Bhagavan said: "The Veda mocks Me thoroughly:
+
+**22.** it calls Me handless and footless." With these words Bhagavan, knower of the essence of the Vedas, fashioned of the meaning of all the Vedas, recalled and recited this verse:
+
+**23.** "Without hands and feet, He is swift and grasps; without eyes He sees, without ears He hears; He knows the universe, but no one knows Him; Him they call the foremost, primeval Person[^202-5]."
+
+**24.** Having recited these words of the Veda with a laugh, the Lord said: "The Veda does not know Me at all — that is certain."
+
+**25.** The Ambashtha[^202-6] said: "O Bhagavan, be merciful to me!" The merciful Bhagavan answered him: "(May you have) love for Me."
+
+**26.** Having said this, the beautiful Lord Vishvambhara, devoted to Hari's kirtana, went home with a smile.
+
+**27.** The next day, while at the house of Srivasa Pandita, He explained a verse which I shall now quote — listen:
+
+**28.** "The name of Hari, the name of Hari, the name of Hari alone is the only one! In Kali there is no, no, no other way[^202-7]."
+
+**29.** "'Na' is the man, the Original Person, who in Kali is present possessing form. Know, then, that His form is the Name; He is the 'only one'[^202-8].
+
+**30.** Three times 'the name of Hari' — to confirm (the truth) for all embodied beings; and the word 'eva' ('alone') — to destroy the sins of living beings.
+
+**31.** 'The only one' is understood as revealing all truths; whereas the proponents of non-duality say it is the extinction of karma already bearing fruit.
+
+**32.** Supplying 'may it be,' they take 'the only one' to mean liberation, kaivalya; but (the Name) is full of mercy and bestows the taste of the rasa of love for Krishna.
+
+**33.** The name of Hari is His very form. Whoever says otherwise has no, no way," — so He Himself said.
+
+**34.** "So says this Boar, the Person who comprises all the gods" — having said this, He began to dance, and above all to sing kirtana.
+
+**35.** Whoever constantly and attentively hears or recounts this will surely come to love Hari and will become free from sin;
+
+**36.** at the lotus feet of Sri Chaitanya his awareness that He is the Lord will become firm, and at the end of life unfailing remembrance of Chaitanya-deva will come to him.
+
+*Thus ends the second sarga, "Absorption in the Boar" (Varaha-avesha), in the description of Chaitanya's descent, of the second prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^202-1]: Kamala is Lakshmi, the consort of Vishnu.
+[^202-2]: Sri Rama (Ramai Pandita) was Srivasa's younger brother.
+[^202-3]: A vaidya is a member of the physician caste. Mukunda Datta was a vaidya; "another vaidya" is apparently the author himself, Murari Gupta.
+[^202-4]: Bhagavad-gita 10.15.
+[^202-5]: Shvetashvatara Upanishad 3.19 (as the poem reads it).
+[^202-6]: Ambashtha is the name of the vaidya caste; here, Murari.
+[^202-7]: A verse of the Brihan-naradiya Purana. In verses 29–33 the Lord comments on its words.
+[^202-8]: "Na" (nā) means "man, person"; the explanation apparently plays on the beginning of the word nama ("name"). The sense of verses 29–32 is unclear in places; the translation is tentative.
+
+---
+
+## Prakrama 2, Sarga 3. Dispelling the Clouds
+
+*The gods come to serve the Lord; He grants boons to His devotees and prema to Shuklambara; Gadadhara's service; the Lord dispels the clouds that hindered the kirtana, while the gods look on from the sky*
+
+**1.** Then the Lord entered His house and shone with the light of a thousand moons. And He said: "Who are these beings who have come and are staying here — the four-faced one, the six-faced and the five-faced?[^203-1]"
+
+**2.** Hearing this, the best of the best brahmanas, named Srivasa, said to Him: "The gods have come — Brahma and Shiva, the Six-faced one and others — O Lord, to serve You, the ocean of the nectar of the rasa of love."
+
+**3.** The next day the pure Lord sat on an exalted seat and touched the bodies of His devotees with His feet.
+
+**4.** Srivasa Pandita and the others, bowing their heads to Hari, asked for devotion to His feet — devotion in the form of love, so very rare.
+
+**5.** The Lord, loving to His devotees, granted them the boons they desired. Then Shuklambara Brahmachari said to Him, the bull among men:
+
+**6.** "O Bhagavan, I have been to Mathura and to Dvaravati, and still I am very unhappy. Knowing this, give me loving devotion." The Lord answered him:
+
+**7.** "Do not jackals go there too? What is that to Me?" On hearing this he fell to the ground, and Janardana said to him:
+
+**8.** "Let there be love in you this very day!" — and at that very moment, overwhelmed by love, he fell at the feet of Vishnu and wept.
+
+**9.** Then all of them, exultant at heart, joyfully sang with Him songs of Krishna, and His names again and again.
+
+**10.** The very wise Gadadhara, a brahmana of noble family and a loving devotee, always stayed near His feet.
+
+**11.** One night, while with him, the Lord spoke auspicious words: "In the morning you will give My prasada to the Vaishnavas."
+
+**12.** Having said this, Hari placed in his hand the garlands from His body. Then, at the clear dawn, they all assembled,
+
+**13.** and he handed to each what had been assigned to him. Then, joyful, they bathed in the waters of the river of the gods[^203-2],
+
+**14.** worshipped the Lord of the world, offered Him food, and with glad hearts came again to Him — the Lord of the God of gods.
+
+**15.** Every day Gadadhara joyfully anointed Him with sandal paste and constantly adorned His body with garlands and other things.
+
+**16.** In the bedchamber he made a bed for Him and slept happily near Him. Hear with faith the nectarean word about him:
+
+**17.** so at times in Vraja, in a jewelled chamber, Sri Radha, having made the bed, sleeps near Krishna, immersed in love.
+
+**18.** In the evening the joyful Lord, eager for kirtana, (sang) together with them.
+
+**19.** And they, intoxicated with the bliss of sankirtana, danced and sang together with Sriman Vishvambhara, enraptured with supreme bliss.
+
+**20.** Once the sky was covered with deeply rumbling clouds, lit by lightning, and at once the thunder pealed.
+
+**21.** All the Vaishnavas were saddened: "An obstacle has arisen — clouds over Hari's kirtana," and they were filled with anxiety.
+
+**22.** Then Hari came there; taking up the mandira[^203-3], He sang of Krishna together with His own people, fulfilling the desires of the gods.
+
+**23.** And the winds tore the masses of cloud apart and drove them to the ends of the horizon, and the sky became clear and tinted with moonbeams.
+
+**24.** Then, with the saints devoted to sankirtana, the Lord danced, the anklets jingling on His lotus feet.
+
+**25.** All resounded with the dense sound from the lotus mouths of the saintly brahmana wives[^203-4]; the quarters, to the delight of all, were intoxicated by the fragrance of abundant flowers;
+
+**26.** and in the sky stood the host of the gods — and there was a great festival: the bliss of Sri Krishna's kirtana, enchanting to every ear.
+
+**27.** Those whose merits, earned over many births, are countless as the waters of the ocean, now utterly at peace, dance together with Lord Krishna, covered with thrills of joy and tears, like the happy gods in heaven with the Splitter of mountains[^203-5].
+
+*Thus ends the third sarga, "Dispelling the Clouds" (Megha-nivarana), of the second prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^203-1]: The four-faced one is Brahma; the six-faced is Skanda (Karttikeya), Shiva's son; the five-faced is Shiva.
+[^203-2]: The river of the gods is the Ganga.
+[^203-3]: The mandira is a pair of small brass cymbals that keep the rhythm in kirtana.
+[^203-4]: That is, the auspicious "ulu-ulu" sound with which Bengali women greet a festive occasion.
+[^203-5]: The Splitter of mountains is Indra, king of the gods.
+
+---
+
+## Prakrama 2, Sarga 4. Immersion in the Heavenly River
+
+*Shuklambara's ecstasy; the Lord's dances and play; the parable of the conjurer; instructions to Mukunda and Murari; the service of Srivasa and Rama; the Lord bathes in the Ganga after hearing Krishna's name reviled*
+
+**1.** The brahmana named Shuklambara wept there constantly; falling to the ground like a stick, he said again and again:
+
+**2.** "Now You have made Navadvipa into Mathura[^204-1], O dear one!" — and, lamenting thus, he wept on the ground, overwhelmed by love.
+
+**3.** Sometimes the Supreme Person danced with His hand on a friend's shoulder, and sometimes the hair of His body stood on end.
+
+**4.** Sometimes, in the mood of the Lord, He gave boons to His servants. Thus, dancing in manifold forms, He taught the people.
+
+**5.** Once at night, making a festival, the Almighty, well pleased, climbed onto the shoulders of His own people and played with them, delighting them.
+
+**6.** On another day He sat on the ground and, making all the quarters resound with the clapping of His hands, said: "Look, here is a conjurer's trick!
+
+**7.** Look, look: I have planted a wondrous seed in the ground! Look, look: a sprout has come up — and in the twinkling of an eye it has become a tree!
+
+**8.** Look: a mass of flowers has blossomed on it! Look, look: now there is fruit! Look: the fruit is ripe — and now it is being gathered!
+
+**9.** Yet there is no fruit and no tree at all, for it is all made in a moment by maya; and if such a thing is shown in a deserted place, nothing is gained.
+
+**10.** But by showing it before a lord, (the conjurer) gains abundant wealth. So too every work done by maya is fruitless in itself;
+
+**11.** but all that is done for the Lord's sake will bear fruit. Therefore let the wise perform every work for the service of the Lord."
+
+**12.** Then, seeing Mukunda the Ambashtha[^204-2] standing before Him, Bhagavan said: "Can it be that you are expounding a knowledge of Brahman of your own?"
+
+**13.** Having said this, the Subduer of foes Himself recited a verse on the glory of the name of Sri Rama, containing the hidden meaning of the Vedas:
+
+**14.** "The yogis take delight in the Infinite, whose nature is truth, bliss and consciousness; therefore the Supreme Brahman is designated by the word 'Rama'[^204-3]."
+
+**15.** And again Bhagavan, instructing that vaidya, said: "You hold that meditation on the Four-armed is the best,
+
+**16.** and that meditation on the Two-armed is inferior. But making distinctions in the Supreme Lord brings nothing but misery.
+
+**17.** If you know what is good for you, then diligently meditate on the Two-armed alone: it grants all fruits."
+
+**18.** Then Mukunda, the best of singers, a bee at the lotus feet of Gauranga, bowing his neck, said to the Lord:
+
+**19.** "I have bathed to my heart's content in the waters of the river of the gods, and my body is adorned with the dust of the feet of the Vaishnavas; now place on my head this excellent umbrella of Your lotus feet — consecrate me into the office of Your servant[^204-4]."
+
+**20.** Having heard these words, Bhagavan, well pleased, placed His lotus foot on his head, and at once he was filled with joy;
+
+**21.** the hair of the wise man's body stood on end and his eyes filled with tears. Then the lotus-eyed Bhagavan said to Murari:
+
+**22.** "How is it that you, vaidya, have composed a song on the doctrine of the Self? If you care for your life, or if you long for love of Hari,
+
+**23.** then give up that song and compose a verse about Hari yourself." Hearing this, the wise physician humbly answered the Lord:
+
+**24.** "Sriman Narayana, now hidden, is the guru, the ocean of affection[^204-5]. So that this descent of Yours may now be told,
+
+**25.** give such a command, O Lord of the gods." Hearing this, Bhagavan said to him with a smile: "So it will be for him.
+
+**26.** Whatever this vaidya says will be the truest truth." Hearing these words of Hari, he said nothing more, out of awe.
+
+**27.** Murari rejoiced then. And Sriman Srivasa Pandita, devoted to pure and good conduct and dedicated to the service of Hari,
+
+**28.** after bathing in the morning would worship Hari properly, according to rule, and serve Him daily together with his brothers.
+
+**29.** Joyfully singing with them the name of Hari and songs about Him, bathing Him with pure waters and offering the finest articles,
+
+**30.** feeding Him with fruits and milk-foods, that best of brahmanas rejoiced at heart. His younger brother Rama, endowed with grace and loving to his brother,
+
+**31.** dear to all beings and devoted to serving his elder, wise, served Hari day after day together with his brother.
+
+**32.** Srivasa and Rama were ever dear to Nrihari, and the Holder of the discus played with them; in their house the Lord danced — like the great-souled Kapila in an assembly of sages[^204-6].
+
+**33.** On another day, while the Immeasurable One was teaching His students, a brahmana's son said to Him: "He who is called Sri Krishna is surely of maya." Hearing such words from that scoundrel,
+
+**34.** the Lord covered His ears with His hands and, accompanied by His students, went to the heavenly river[^204-7]; having bathed with His clothes on, together with all His students, He, the treasury of play, returned to His home.
+
+**35.** Whoever reads thus of Hari's immersion in the heavenly river will obtain the fruit of a sacrifice; and even one who hears it obtains that fruit — pure devotion to Hari and remembrance of Him.
+
+*Thus ends the fourth sarga, "Immersion in the Heavenly River" (Dyunadi-majjana), of the second prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^204-1]: Mathura is the place of Krishna's birth and pastimes.
+[^204-2]: Mukunda Datta, the celebrated kirtana singer; Ambashtha is the caste of the vaidyas (physicians).
+[^204-3]: A verse of the Padma Purana, also quoted in the Chaitanya-charitamrita (Madhya 9.29).
+[^204-4]: Literally, "perform the abhisheka (consecration) into the office of servant," as at a royal coronation.
+[^204-5]: Verse 24 is syntactically unclear; the translation is tentative. The Lord's reply (vv. 25–26) is understood as His blessing on Murari to tell of His descent — that is, to compose this poem.
+[^204-6]: Kapila is the sage, a descent of Vishnu, the teacher of the Sankhya doctrine.
+[^204-7]: The heavenly river is the Ganga.
