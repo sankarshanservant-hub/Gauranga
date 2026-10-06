@@ -68,6 +68,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 3, Sarga 4. Pastimes at Sri Advaita's House
   - Prakrama 3, Sarga 5. The Breaking of the Staff
   - Prakrama 3, Sarga 6. Wandering in the Southern Country
+  - Prakrama 3, Sarga 7. Beholding Sri Viraja
+  - Prakrama 3, Sarga 8. Beholding Mahadeva
+  - Prakrama 3, Sarga 9. The Rule on Eating the Remnants of Offerings to Shiva
+  - Prakrama 3, Sarga 10. Beholding Sri Purushottama
 
 ---
 
@@ -2840,3 +2844,248 @@ Bhaktisiddhanta Sarasvati.
 [^306-8]: Gaya-nabhi (Nabhi-Gaya), a holy place in Yajapura where, according to legend, lies the navel of the demon Gaya; here, as at Gaya, rites for the ancestors are performed.
 [^306-9]: Yajna-Varaha, the Boar who is the embodiment of sacrifice (Vishnu as Varaha).
 [^306-10]: Trilochana ("the Three-eyed"), one of the principal lingas of Shiva in Varanasi.
+
+---
+
+## Prakrama 3, Sarga 7. Beholding Sri Viraja
+
+*Mukunda vouches that the toll-collectors are harmless, but at the barrier he is bound and held until evening; the chief of the toll-collectors comes to the Lord to make amends; next morning the Lord goes to Viraja, the sight of whom is equal to the sight of Bhagavan*
+
+**1.** Then Mukunda the vaidya[^307-1] bowed with devotion to the Lord and, his face beaming, joyfully said to the Lord of the world:
+
+**2.** "Bhagavan, here there is not the least danger from the toll-collectors: I know the people who live here through and through, arrogant as they may be."
+
+**3.** Hearing this, Bhagavan, His youthful face lovely with a smile, said, "So that is all there is to our danger: you have already seen to our protection."
+
+**4.** So saying, Hari — Krishna Himself, the beloved of Lakshmi, now bearing the bamboo staff of a sannyasi — set out to beg alms, to teach people by His own example.
+
+**5.** Nityananda the Avadhuta, endowed with every power, the glorious Gadadhara, the brahmana, Mukunda and the other virtuous companions also went out to gather alms.
+
+**6.** But here the toll-collector barred their way too: in his anger he bound Mukunda and kept him under guard the whole day.
+
+**7.** Only at the hour of evening, after taking the finest blanket, did he release them all, and they went away downcast.
+
+**8.** They went to some brahmanas, received alms and ate. But Nityananda, full of great might — the Lord Himself — who could keep track of him[^307-2]?
+
+**9.** Then they went to sleep in a pavilion at a brahmana's dwelling, and there the large-hearted Nityananda arrived, laughing at the one who had been bound.
+
+**10.** There too came Bhagavan Himself, having gathered His alms; and on seeing Him they told Him all that the toll-collectors had done by force.
+
+**11.** Hearing this, Bhagavan said, "Wait — all will be well, all will be well." And His power at once sent the ruler there[^307-3].
+
+**12.** At that very moment the chief of the toll-collectors arrived and worshipped the lotus feet of Hari, and the great souls headed by Mukunda told him what had happened.
+
+**13.** And he said, "For this I shall have all the men posted at the barrier beaten, those villains, so that they never do such a thing again."
+
+**14.** Hearing what his servants had done, the chief of the toll-collectors was grieved, and he gave them a new and costly blanket.
+
+**15.** Having spoken thus, he bowed down and went off to his wealthy house; and from then on, giving up everything, he meditated with a purified mind on the foot of Hari.
+
+**16.** Having thus soothed their wounded pride, the Lord of the gods slept happily through the night, and in the morning He rose in haste
+
+**17.** and went to see Viraja[^307-4], the sole purifier of all the worlds: whoever beholds her with faith and devotion is freed from the bonds of worldly existence.
+
+**18.** Whatever fruit a man gains by seeing Bhagavan, that same fruit he obtains by seeing the face of Viraja.
+
+**19.** Both in Kashi and at Viraja, where the divine and glorious Trilochana[^307-5] dwells in person, death bestows liberation.
+
+**20.** Whatever joy Shankara feels when a man dies in Varanasi, still greater is His joy when one dies at Viraja.
+
+**21.** Having beheld her, Krishna, the sole purifier of all the worlds, went on His way, singing the names of Krishna in sankirtana together with the company of His devotees.
+
+*Thus ends the seventh sarga, "Beholding Sri Viraja" (Sri-Viraja-darshana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^307-1]: Literally "the Ambashtha", the vaidya (physician) caste to which Mukunda Datta belonged.
+[^307-2]: That is, Nityananda had wandered off on his own and turned up only later (v. 9).
+[^307-3]: The "ruler" is the chief of the toll-collectors (vv. 12–14). The Lord sends no one for him: it is His power that brings the ruler there.
+[^307-4]: Viraja is the goddess worshipped at Yajapura (Jajpur); see Sarga 3.06, v. 17.
+[^307-5]: Trilochana ("the Three-eyed") is Shiva; his principal linga in Varanasi bears the same name (cf. Sarga 3.06, v. 20).
+
+---
+
+## Prakrama 3, Sarga 8. Beholding Mahadeva
+
+*The Lord comes to Ekamraka (Bhubaneshvara), the city of Shiva that rivals Kashi; the temple, the city and the Bindu-sarovara pond are described; bowing to Krittivasa, He offers Shiva a hymn of eight verses, praying for love of Hari*
+
+**1.** Then, striding like the king of birds, He came by stages to the place called Ekamraka[^308-1], where on the summit of the king of mountains the god Girisha dwells with Girija and all the guardians of the worlds.
+
+**2.** There He saw the great temple of Shiva, shining with every beauty, its banners fluttering, whitewashed and lofty, with a splendid spire and fine gateways — like a second White Mountain[^308-2].
+
+**3.** Falling to the ground, the Lord bowed to that abode of Shiva crowned with a trident: bearing on its banner a wave of the heavenly river, it seems to rise playfully into the sky.
+
+**4.** Then with supreme joy He went into the city of Purari[^308-3] to behold the Lord. There dwell millions of the Lord's lingas, headed by Vishveshvara, and most holy tirthas.
+
+**5.** There millions of mansions shine, rich in fine gateways, their tops hung with gleaming, fluttering cloth; and the people, decked with ornaments and anointed with lovely perfumes, have all they desire, as in the realm of Indra[^308-4].
+
+**6.** There are millions of tirthas headed by Manikarnika[^308-5]; whoever leaves the body there at once attains the highest good, which yogis reach through fierce yoga over four ages.
+
+**7.** There the best of the gods gathered drops from all the tirthas and made a pond called Maha-Bindu-sarovara[^308-6]; by bathing in it one attains the pure abode.
+
+**8.** Swiftly leaving Kashi to dwell here, the most worthy god Mahesha, pure in his might, summoned all the holy tirthas and established them in this best of sacred lands.
+
+**9.** The god Krittivasa[^308-7] himself dwells here in the form of a linga, and Ishvari with him; worshipped by the lords of ascetics, he himself enjoys every exquisite divine delight.
+
+**10.** Adorned with fragrant garlands and rows of lamps with wicks of fine camphor, filled with the boom of mridangas, the call of fine conches, and goddesses absorbed in dance[^308-8] —
+
+**11.** such was the house of Purari, white as the moon, which Hari, the supreme Lord, entered with His servants, as the Lotus-born[^308-9], a bee at the lotus feet of Krishna, enters the festive palace of the great Indra.
+
+**12.** Laying His body on the ground like a staff, He bowed His head before Krittivasa; and the Bearer of the discus, His body thrilling with rapture, praised Girisha in a faltering voice:
+
+**13.** "Obeisance, obeisance to you for ever — lord of the Thirty, master of the bhutas and all other beings, Mrida the Gracious, whose crest is the young moon rising from the waves of the Ganga, festival of Gauri's eyes!
+
+**14.** Obeisance to him whose faces shine like molten gold, the moon, the blue lotus, coral and the rain-cloud[^308-10], who in the arena of his splendid dance grants the boons desired — to the lord of kaivalya, whose emblem is the bull!
+
+**15.** Obeisance be to you, who with your eyes — the moon, the sun and fire — dispel the darkness; to you, the good of the world, whose splendour outshines thousands of moons and thousands of suns!
+
+**16.** Obeisance to him whose form blazes with the jewels of the king of serpents, who is divinely radiant in a garment of tiger-skin, who is seated on a thousand-petalled lotus, whose two arms wear splendid armlets;
+
+**17.** to him who gives joy to his servants with the nectar flowing from his lotus feet graced with fine anklets; to him who is adorned with a host of wondrous jewels! Grant now love — love for Hari!
+
+**18.** To him who is the king of the bees drunk on the nectar of names such as 'Sri Rama, Govinda, Mukunda, Shauri, Sri Krishna, Narayana, Vasudeva', to the destroyer of all sorrow — obeisance!
+
+**19.** To him whom Sri Narada and others constantly ask about what is most secret, who swiftly grants boons, who grants them the joy of devotion to Hari — to Shiva, the guru of all, obeisance, obeisance!
+
+**20.** To you, the auspicious festival of Sri Gauri's eyes, the lord of her life, the giver of rasa, ever skilled in singing with longing of the lilas of Govinda — obeisance to you!"
+
+**21.** Whoever, full of feeling, hears this wonderful and great octad to Shiva will soon gain love for Hari, knowledge and realization, unprecedented glory and the highest honour.
+
+**22.** The servants of Shiva eagerly adorned Him who had thus praised […][^308-11], Him of incomparable form, with fine garlands and perfumes; then He settled in houses outside the temple.
+
+**23.** Then He ate the food offered by the devotees and spent the night there in happy sleep; and in the morning He rose, sang the lila of Krishna, and was filled with happiness.
+
+**24.** Whoever recites this hymn to Purari, composed by the lotus-eyed Purushottama[^308-12], will gain even here eternal love, so hard to attain even for the hosts of sages and gods.
+
+*Thus ends the eighth sarga, "Beholding Mahadeva" (Mahadeva-darshana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^308-1]: Ekamraka (Ekamra) is Bhubaneshvara in Orissa, the holy city of Shiva. Girisha ("Lord of the Mountains") and Girija ("Daughter of the Mountains") are Shiva and Parvati; the "king of mountains" is the Himalaya, where Shiva dwells on Kailasa: here in Ekamraka he dwells just as he does there.
+[^308-2]: The White Mountain is Kailasa, the abode of Shiva.
+[^308-3]: Purari ("Enemy of the Three Cities") is Shiva, who burned the three flying cities of the asuras.
+[^308-4]: The reading and sense of this passage are uncertain.
+[^308-5]: Manikarnika is a famous tirtha (ghat) in Kashi; the description of Ekamraka echoes Kashi, since Shiva brought the holy places of Kashi here (v. 8). Vishveshvara is the principal linga of Kashi.
+[^308-6]: Bindu-sarovara ("the Lake of Drops") is a sacred pond in Bhubaneshvara.
+[^308-7]: Krittivasa ("Clad in a Hide") is Shiva; this is the name of the principal linga of Bhubaneshvara (the Lingaraja temple). Ishvari is his consort.
+[^308-8]: Apparently the temple dancers.
+[^308-9]: Brahma, who was born from the lotus growing from Vishnu's navel.
+[^308-10]: Understood as the five faces of Shiva, each of its own colour. The reading is conjectural.
+[^308-11]: All the editions have a lacuna of a few syllables here (probably a name or epithet of the Lord).
+[^308-12]: That is, by the Lord Himself; it may also be understood as "will gain love for Purushottama".
+
+---
+
+## Prakrama 3, Sarga 9. The Rule on Eating the Remnants of Offerings to Shiva
+
+*At Bhubaneshvara the Lord longs for Shiva's prasada and, when it is brought, partakes of it with reverence; Murari explains to Damodara Pandita why Bhrigu's curse does not touch the remnants of offerings to Shiva when he is worshipped as the best of Vaishnavas*
+
+**1.** Having bathed in the Bindu lake[^309-1] and beheld Sri Bhuvaneshvara[^309-2], Bhagavan, steeped in the bliss of love, sat at rest in happiness.
+
+**2.** Then the Lord ate the excellent food offered by the devotees and joyfully went to sleep there, meditating on the lotus feet of Krishna.
+
+**3.** Bhagavan thought, "If only we could have the mahaprasada of the God of gods, the Bearer of the trident, we would partake of it."
+
+**4.** As He was thinking thus, a certain brahmana came and stood before Him, holding Mahadeva's prasada in both hands,
+
+**5.** and said, "Please accept the prasada of Mahadeva." Hearing this, the Lord at once rose, received it on His head with an obeisance,
+
+**6.** and, taking the mahaprasada, partook of it with His servants as though it were nectar: thus Hari showed that Shiva is dear to Sri Krishna.
+
+**7.** In the morning Hari again rose in haste, full of joy, bathed in the Bindu lake, bowed to Shiva and went on His way.
+
+**8.** Hearing how the Lord had eaten the nirmalya[^309-3] of Shiva, Sri Damodara Pandita, a man of great power, objected:
+
+**9.** "The nirmalya of the god Shiva is not eaten, because of Bhrigu's curse[^309-4]. How then could Bhagavan, the best of men, knowing this, have eaten it?"
+
+**10.** Hearing this, Murari said to the best of brahmanas, "Listen to the story of the nectar of Sri Shiva's nirmalya.
+
+**11.** In truth, when Sri Krishna made His auspicious arrival, Mahadeva joyfully offered Him hospitality — that is why He partook of it. But hear more.
+
+**12.** When people worship Maheshvara, regarding him as the best of Vaishnavas[^309-5], He too accepts what they offer; such food is supremely purifying.
+
+**13.** Those who see a difference between Sri Krishna and Krishna's devotees fall down. And to teach such malignant opponents, Hari Himself, in the form of a devotee —
+
+**14.** the Lord of the gods, the Lord of the world, the benefactor of all embodied beings — Himself does as He teaches: He accepts the nirmalya with reverence.
+
+**15.** The brahmana's curse applies only where a linga has been installed by people and is worshipped with a notion of difference; where there is oneness, it never applies.
+
+**16.** In the presence of a self-manifest linga[^309-6] Hari and Shankara are one; when worship is offered with a sense of non-difference, the curse never applies.
+
+**17.** Therefore Hari and Shankara are still more pleased there; and the worship of the self-manifest linga here, in non-difference, surpasses all.
+
+**18.** Whoever eats the mahaprasada there will attain liberation, be freed from grave disease and gain lasting prosperity.
+
+**19.** But those who out of delusion do not eat it become offenders against Hari and Shiva, lose their fortune and fall ill.
+
+**20.** Wherever Vaishnavas come to the beginningless linga and worship Sri Shiva with the greatest reverence for the pleasure of Sri Krishna,
+
+**21.** there is no doubt at all about accepting the nirmalya. Devotion alone, O brahmana, always brings good to all embodied beings."
+
+*Thus ends the ninth sarga, "The Rule on Eating the Remnants of Offerings to Sri Shiva" (Sri-Shiva-nirmalya-bhojana-vyavastha), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^309-1]: The Bindu lake is the Bindu-sarovara, the sacred pond of Bhubaneshvara (see Sarga 3.08, v. 7).
+[^309-2]: Bhuvaneshvara ("Lord of the Worlds") is Shiva as worshipped at Ekamraka (Krittivasa, Sarga 3.08); the town itself takes its name from him.
+[^309-3]: Nirmalya: the remnants (flowers, food, etc.) of offerings made to a deity.
+[^309-4]: At Daksha's sacrifice the sage Bhrigu cursed the followers of Shiva (Bhagavata Purana 4.2); the prohibition against eating the remnants of offerings to Shiva was traced to this. Damodara Pandita is the listener to whom Murari tells this account (cf. Sarga 3.01, v. 1).
+[^309-5]: Cf. Bhagavata Purana 12.13.16: "As Shambhu is the best of Vaishnavas…"
+[^309-6]: That is, a linga that has manifested of itself, not one installed by people (v. 15).
+
+---
+
+## Prakrama 3, Sarga 10. Beholding Sri Purushottama
+
+*Passing the Kapota-linga and the river Bhargavi, the Lord sees the temple of Jagannatha and falls senseless; above the temple a boy with a flute appears to Him; after bathing at the tirtha of Markandeya He enters the temple, and Jagannatha stretches out His hand to Him*
+
+**1.** Hear once more the holy, heart-charming account of the Lord Chaitanya, the great soul who showers fresh nectar.
+
+**2.** Then Bhagavan, the Unborn, the one friend of the righteous, set out joyfully with His companions; seeing the excellent linga worshipped by a dove[^310-1], Hari bowed and soon went on.
+
+**3.** Seeing other holy lingas of Shiva as well, He bowed to them with joy and continued on His way; in the mighty river Bhargavi[^310-2] He bathed according to rule and went on again.
+
+**4.** Soon He beheld the beautiful temple of Hari: whitewashed, shining like the autumn moon, crowned with the discus, its banners tossed by the wind — the brilliant ornament of the Blue Mountain[^310-3].
+
+**5.** With its lustre, its height[^310-4] and its splendour the temple put the peak of Kailasa to shame again and again, and with hands of cloth set waving by the wind it seemed to beckon the Lotus-eyed One.
+
+**6.** And suddenly Hari, the Slayer of foes, the inner Self of all, fell motionless to the ground. Seeing this, all His noble companions swooned, like bodies bereft of the breath of life.
+
+**7.** A moment later, seeing that the Lord had risen, they anxiously gathered round Him, as the senses gather round the life within. The people did not know His true nature[^310-5], and Bhagavan, as was His way, said to them:
+
+**8.** "See for yourselves: there, above the house of Hari, stands the Lord — a boy shining like a great sapphire!" The brahmanas did not see the boy, but, looking at the image of the Lord, they answered, "Yes, we see."
+
+**9.** Then He for whom they feared that He might swoon again said to them, "Look at the banner above the house of Hari: make out the boy whose face again and again puts to shame millions of full moons!
+
+**10.** With His hand — the red lotus of His palm, with its rosy fingers astir — He draws Me to Himself; and how beautiful He is as He puts His lips to the flute and sets the fingers of His right and left hands on its holes!
+
+**11.** Who is He, radiant as a thousand moons, whose smile enchants My mind?" Saying this, He who gleams like molten gold hastened on in utmost longing with His servants.
+
+**12.** Gazing at the temple of the Lord of the world, He stumbled again and again; streams of tears poured from His eyes, and He was like a peak of Sumeru coursed by waterfalls. Thus He came to the tirtha of the son of Mrikandu[^310-6].
+
+**13.** This tirtha with its gleaming banks the fierce Bearer of the discus Himself made with His discus for Mahesha, and by bathing in it men have attained the world of Shiva. Hastening there, the Lord performed all that is prescribed.
+
+**14.** Having bathed, the Lord murmured the Aghora mantra[^310-7] and bowed down like a staff to the linga of Shankara; and having praised Mahesha with most auspicious hymns, the Lord went to the great abode of the Lord of sacrifice[^310-8].
+
+**15.** The hair of His body stood on end, His chest was bathed in the waters of His lotus eyes, His mind was absorbed in the Supreme Self; thus He entered the festive house of the Lord of the gods and, seeing the Master of the worlds, bowed down.
+
+**16.** Again He fell to the ground like a staff, bowing again and again, His face distraught with the weight of love. And after a moment, perceiving that the hands of the Lord of the world were like clenched fists[^310-9], He was overwhelmed and wept bitterly.
+
+**17.** Seeing Him thus, Hari Purushottama stretched out to Him His soft hand marked with the lotus and showed Him its red palm; and Chaitanyadeva, delighted, laughed for joy.
+
+**18.** And He said, "O ocean of mercy, be gracious, Lord of the gods, worshipped by Mahesha!" But no longer seeing the fingers of that hand, tender as a young shoot, He was overwhelmed and wept twice as much.
+
+**19.** And seeing them again, He was filled with the greatest jubilation, and His slender body was drenched with streams of tears of joy[^310-10].
+
+**20.** People who hear and sing of these wondrous doings of the two of Them come to see the highest truth and reach the supreme abode of Murari, from which there is never again a fall.
+
+*Thus ends the tenth sarga, "Beholding Sri Purushottama" (Sri-Purushottama-darshana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^310-1]: The Kapota-linga ("the linga of the dove"), a shrine of Shiva on the way from Bhubaneshvara to Puri.
+[^310-2]: The Bhargavi is a river in Orissa flowing near Puri.
+[^310-3]: The Blue Mountain is Nilachala (Nilagiri), the hill on which the temple of Jagannatha stands at Purushottama (Puri).
+[^310-4]: The rendering of this word is conjectural.
+[^310-5]: The second half of the verse is obscure; the rendering is conjectural.
+[^310-6]: The son of Mrikandu is the sage Markandeya; his tirtha (the Markandeya pond) is at Puri.
+[^310-7]: Aghora: one of the mantras of Shiva (named after one of his faces).
+[^310-8]: That is, of Jagannatha.
+[^310-9]: The image of Jagannatha has rounded arms without hands; the Lord grieves at not seeing His palms, and Jagannatha in His mercy shows Him His hand (vv. 17–18).
+[^310-10]: In all the editions only half of this verse survives.

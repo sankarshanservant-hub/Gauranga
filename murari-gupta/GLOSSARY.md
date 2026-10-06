@@ -192,3 +192,20 @@
 | यज्ञवराह | Яджна-Вараха | Yajna-Varaha |
 | त्रिलोचन (लिङ्ग), सदाशिव, भूतेश | Трилочана, Садашива, Владыка существ | Trilochana, Sadashiva, the Lord of beings |
 | दानी | сборщик пошлины | toll-collector |
+| दानीश | начальник сборщиков пошлины | the chief of the toll-collectors |
+| एकाम्रक | Экамрака (= Экамра, Бхуванешвара) | Ekamraka (= Ekamra, Bhubaneshvara) |
+| गिरीश, गिरिजा, गौरी, मृड | Гириша, Гириджа, Гаури, Мрида | Girisha, Girija, Gauri, Mrida |
+| पुरारि | Пурари («Враг Трёх градов», Шива) | Purari ("Enemy of the Three Cities", Shiva) |
+| कृत्तिवासस्, ईश्वरी | Криттиваса, Ишвари | Krittivasa, Ishvari |
+| विश्वेश्वर, मणिकर्णिका | Вишвешвара, Маникарника | Vishveshvara, Manikarnika |
+| (महा)बिन्दुसरोवर, बिन्दुसरस् | (Маха-)Бинду-саровара, Бинду-сарас | the (Maha-)Bindu-sarovara, the Bindu lake |
+| श्वेतगिरि | Белая гора (Кайласа) | the White Mountain (Kailasa) |
+| भुवनेश्वर (Шива) | Бхуванешвара («Владыка миров») | Bhuvaneshvara ("Lord of the Worlds") |
+| भृगु | Бхригу | Bhrigu |
+| निर्माल्य | нирмалья (остатки подношений) | nirmalya (remnants of offerings) |
+| कपोतलिङ्ग | Капота-линга | the Kapota-linga |
+| भार्गवी (नदी) | Бхаргави | the Bhargavi |
+| नीलगिरि | Синяя гора (Нилачала) | the Blue Mountain (Nilachala) |
+| मृकण्डु, मार्कण्डेय | Мриканду, Маркандея | Mrikandu, Markandeya |
+| अघोर (मन्त्र) | Агхора (мантра) | the Aghora (mantra) |
+| रथाङ्गिन्, उग्रचक्रिन् | Носящий диск, Грозный Носитель диска | the Bearer of the discus, the fierce Bearer of the discus |
