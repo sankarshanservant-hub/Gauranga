@@ -72,6 +72,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 3, Sarga 8. Beholding Mahadeva
   - Prakrama 3, Sarga 9. The Rule on Eating the Remnants of Offerings to Shiva
   - Prakrama 3, Sarga 10. Beholding Sri Purushottama
+  - Prakrama 3, Sarga 11. The Glory of Mahaprasada
+  - Prakrama 3, Sarga 12. Mercy to Sarvabhauma
+  - Prakrama 3, Sarga 13. Consoling Sarvabhauma
+  - Prakrama 3, Sarga 14. Sri Jiyada-Nrisimha
 
 ---
 
@@ -3089,3 +3093,258 @@ Bhaktisiddhanta Sarasvati.
 [^310-8]: That is, of Jagannatha.
 [^310-9]: The image of Jagannatha has rounded arms without hands; the Lord grieves at not seeing His palms, and Jagannatha in His mercy shows Him His hand (vv. 17–18).
 [^310-10]: In all the editions only half of this verse survives.
+
+---
+
+## Prakrama 3, Sarga 11. The Glory of Mahaprasada
+
+*The Lord comes to the house of Sarvabhauma, who, astonished by His form, sends his younger brother with Him to the temple; at the sight of Jagannatha the Lord falls senseless, recovers in Sarvabhauma's house and partakes of mahaprasada, whose glory the poet proclaims*
+
+**1.** Having heard this, Sri Damodara Pandita, the best of brahmanas, asked, "How did Bhagavan see the Lord Purushottama?
+
+**2.** Who helped Him to see Him, and what did Janardana Himself do?" Hearing this, Gupta the physician was pleased and began the auspicious account.
+
+**3.** "Listen attentively, O brahmana, to the divine story of Sri Jagadisha, the Lord of the world — a story that purifies the three worlds and is born of the bliss of beholding Him.
+
+**4.** First the Lord went to the house of Vasudeva Sarvabhauma, and the wise Sarvabhauma rose in haste and bowed down before Him like a staff.
+
+**5.** Seeing him, Hari Bhagavan said in a faltering voice, 'How shall I see Jagannatha, the eternal Lord of the gods?'
+
+**6.** Hearing His words, the renowned Sarvabhauma opened wide his lotus eyes and looked Him over.
+
+**7.** He gleamed like molten gold, like a second peak of Meru; His face was like the full moon, His eyes like lotuses.
+
+**8.** His nose was fine, His neck like a conch, His chest broad, His arms mighty, and His lips, red as bandhuka buds, charmed the heart.
+
+**9.** His teeth were like jasmine flowers, His smile far outshone the moonbeams, His arms hung down to His knees, and His lotus feet were radiant.
+
+**10.** He glowed with love for Krishna, the hair of His body stood constantly on end, and His feet were arched like a tortoise's back. Seeing all this, Sarvabhauma was at first astonished, and he thought:
+
+**11.** 'Can this tiger among men, bearing the marks of a great person, be a god who has taken form and, as it seems, descended from Vaikuntha?
+
+**12.** Or is He the One whose form is being, consciousness and bliss, rasa embodied? Or is He the Lord Himself, the benefactor of all living beings?'
+
+**13.** Reflecting thus, Sarvabhauma, pure of mind, said to his younger brother, 'Go today with the illustrious Chaitanya, the great soul,
+
+**14.** quickly to the abode of Bhagavan, and see to it that He beholds Purushottama, the infinite Person, without difficulty.'
+
+**15.** Hearing Sarvabhauma's wonderful, nectarean words, his intelligent younger brother set out together with Chaitanya.
+
+**16.** Going with him to the temple of Sri Hari, Bhagavan beheld the lotus-eyed Lord Purushottama.
+
+**17.** No sooner had He seen Him than His slender body trembled with rapture, His broad chest was flooded with streams of tears of love, a shiver ran through Him, His moon-face was bathed in abundant tears — and He fell like a peak of the golden mountain toppled by the wind[^311-1].
+
+**18.** Bhagavan lay senseless on the ground, His hands clenched into fists, His cloth and belt slipping off. Seeing Him helpless, the brahmanas at once caught Him up in their arms and bore Him before them away from Bhagavan[^311-2].
+
+**19.** Regaining consciousness in the fine house of Sri Sarvabhauma, He again began the sankirtana of Narahari[^311-3] and danced there — the sovereign of all persons, His golden body covered with rows of bristling hair.
+
+**20.** Then Bhagavan, together with His devotee, took His meal: the nectar of Purushottama's great mahaprasada, offered by that devotee — food that is the best of elixirs for those sick with the disease of worldly existence, and beyond the reach even of Indra.
+
+**21.** One who eats this food casts off every sin and gains dharma, wealth, the fulfilment of desire, immortality and greatness. But the fool who will not eat it loses his dharma and goes the way of a hog.
+
+**22.** That which Chaitanyadeva, having appeared here, eats beside Himself with love, that which even Shiva eats[^311-4] — if anyone here will not eat it, thinking, 'This has been brought from afar,' or seeing that a dog-eater has touched it, alas, he becomes a hog.
+
+*Thus ends the eleventh sarga, "The Glory of Sri Mahaprasada" (Sri-Mahaprasada-mahima), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^311-1]: The first line of this verse is metrically short in all the editions; the text seems damaged, though the sense is clear.
+[^311-2]: That is, away from the image of Jagannatha, out of the temple.
+[^311-3]: Narahari ("Hari in human form"): here a name of Krishna.
+[^311-4]: The opening of the verse is corrupt in all the editions; the rendering is conjectural.
+
+---
+
+## Prakrama 3, Sarga 12. Mercy to Sarvabhauma
+
+*The evening darshan of Jagannatha; Sarvabhauma, taking the Lord for an ordinary man, wishes to invest Him again with the sacred thread and teach Him Vedanta; the Lord reveals to him the hidden meaning of Vedanta, Sarvabhauma falls at His feet and offers prayers, and the Lord embraces him*
+
+**1.** Having eaten the prasada of Nrihari[^312-1], Bhagavan entered His temple in the evening and beheld the Lotus-eyed One, perfumed with incense, lit by many lamps and adorned with many garlands,
+
+**2.** radiant as a thousand full moons, the colour of a fresh rain-cloud. He bowed to the ground before Him who is called Purushottama, and with wide-open eyes drank in His form again and again.
+
+**3.** His mind was immersed in an ocean of bliss, His chest was washed by streams of tears, waves of thrilling hair adorned His body, and His golden form was like a peak of the golden mountain.
+
+**4.** The Lord shone like a king among brahmanas, and He stayed there until the hour when the shower of flowers is offered; then, bowing once more to Sri Purushottama, the Lord of the ashramas[^312-2] went back to His lodging.
+
+**5.** Arriving there, He again sang through the night the glory of Hari of wondrous valour; beside Himself, His composure shattered by love, He rolled on the ground and knew nothing else at all.
+
+**6.** Thus the great soul stayed there for some days; the saintly worshipped His feet, and the Lotus-eyed One joyfully instructed the good with the charming nectar of His words.
+
+**7.** Then one day Sri Sarvabhauma, his mind deluded, came to the Lord; taking Chaitanyadeva for an ordinary man, he said a few words among his own people.
+
+**8.** Yet even that delusion was an excess of Janardana's mercy toward Sri Sarvabhauma: whatever Hari, the Lord Himself, does is truly for the good of the world.
+
+**9.** "This man is born of a great family and is a fine scholar, but he is so young — how can he keep the dharma of sannyasa? Let us make him twice-born again and teach him the Vedanta of the Self."
+
+**10.** Learning of this, Hari answered with a smile, "Let Me be given the sacred thread again — then I shall present the brahmana with flowers, betel nuts and fragrant garlands."[^312-3]
+
+**11.** Someone who heard these words of Murari[^312-4] went and repeated them to Sri Sarvabhauma; and he, out of fear, never said anything of the kind again, but was confused and full of shame.
+
+**12.** Then one afternoon, in the presence of many brahmanas, before Sarvabhauma, Mahaprabhu set forth the hidden meaning of Vedanta — the teaching of shelter at the lotus feet of Murari.
+
+**13.** Understanding this conclusion of Vedanta and counting all he had known before as worthless, the great soul Sarvabhauma, his mind blossoming with wonder, fell at Chaitanya's lotus feet.
+
+**14.** "You are Bhagavan, the Lord who loves the Vedas, yet the world never knows You; and I too, my mind clouded by Your maya, O Lord, did not recognise Your lotus feet that had appeared in the world right before me.
+
+**15.** Once You descended to earth in the house of Vasudeva and slew the great asuras headed by Kamsa; then, having returned to Your abode, You have appeared again in the house of a brahmana.
+
+**16.** You have descended for the good of the world, to let Your own people taste the splendour of the play of Your sweetness and to give them joy. Protect me, wretched as I am, O ocean of the nectar of compassion!
+
+**17.** The one primeval Person, an ocean of mercy, has taken the form of Sri Krishna Chaitanya to teach renunciation, knowledge and the yoga of devotion to Himself. In Him I take refuge.
+
+**18.** He has appeared under the name of Krishna Chaitanya to make manifest once more the yoga of devotion to Himself, lost with the passage of time. May the bee of my mind sink deeper and deeper into His lotus feet!"[^312-5]
+
+**19.** When Sarvabhauma had spoken thus, the Husband of Shri, who submits to His devotees, impulsively, with feeling and tenderness, took him by the hand, pressed him to His heart and embraced him with His two beautiful arms.
+
+*Thus ends the twelfth sarga, "Mercy to Sarvabhauma" (Sarvabhauma-anugraha), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^312-1]: Nrihari ("Hari in human form"): here Jagannatha.
+[^312-2]: The Lord of the ashramas: the Lord as a sannyasi, in the highest of the four ashramas.
+[^312-3]: The Lord's playful reply: at the investiture the pupil presents gifts to his brahmana teacher.
+[^312-4]: Here Murari ("Enemy of Mura") is a name of Krishna, that is, of the Lord Himself.
+[^312-5]: Verses 17–18 are also quoted as Sarvabhauma's prayer in Krishnadasa Kaviraja's "Chaitanya Charitamrita" (Madhya 6.254–255).
+
+---
+
+## Prakrama 3, Sarga 13. Consoling Sarvabhauma
+
+*The Lord resolves to visit the holy places and takes leave of Jagannatha, who bestows His garland on Him; He takes leave of Kashi Mishra and of Sarvabhauma and consoles them with the promise of a speedy return*
+
+**1.** Thus for some time the Lord sported with the Vaishnavas. Then, having taken counsel with the wise Sri Kashinatha Mishra[^313-1], the foremost of Vaishnavas,
+
+**2.** Bhagavan Krishna, of great splendour, resolved to go to other holy lands in order to purify the tirthas.
+
+**3.** He went to Jagannatha and, beholding Sri Purushottama, bowed to Him with devotion, drenched with streams of tears from His eyes.
+
+**4.** With joined palms Hari, His beautiful form filled with love, addressed Him in a faltering voice with sweet words:
+
+**5.** "O God, since I have no right to dwell in Your land, the wish has arisen in Me to go to other lands, O Lord.
+
+**6.** Your face is like the full moon, Your eyes like autumn lotuses, Your lips like long bimba fruits, Your chest broad and beautiful:
+
+**7.** who, having seen You, would wish to go to another land, O Hari? It must be that You have no such mercy for Me as would let Me stay here[^313-2].
+
+**8.** I shall go to see Your other lands, O Janardana. Grant, O God, that I may make My way to the tirthas.
+
+**9.** As long as the mind is restless and not yet perfectly pure, a man should wander everywhere among the holy tirthas.
+
+**10.** But when the mind has become perfectly pure, the man of steady mind settles for ever in Purushottama, as a traveller settles in his own home."
+
+**11.** As Chaitanya was speaking thus, the garland hanging from Krishna's neck fell onto the foot of His throne.
+
+**12.** By Jagannatha's command the temple door-keeper joyfully took it up and placed that garland on Chaitanya's head as a token of grace.
+
+**13.** Then Hari too, of great splendour, His face blossoming, full of love and of the holy names, set out with the gait of a striding elephant;
+
+**14.** and, to teach the people, the son of Sri Shachi, His eyes moist with love, came to the dwelling of Kashi Mishra and said to him:
+
+**15.** "You may behold the Lord Purushottama, but I, deprived by Jagannatha, am going on pilgrimage to the tirthas."
+
+**16.** Hearing this, Kashinatha was stricken with despair: he fell like a staff on the ground at the Lord's feet and burst into tears.
+
+**17.** "Why did the grief of losing a son not befall me? Why did I not fall gravely ill? Why instead has this separation from Chaitanya's lotus feet come to me?"
+
+**18.** Thus, full of grief, he rolled on the ground again and again, and the Lord, His heart melting with compassion, consoled him with the promise of returning and with other words.
+
+**19.** Then Bhagavan, the Teacher of the world, went to the house of Sri Sarvabhauma and asked his leave to set out for the tirthas.
+
+**20.** Hearing this, Sarvabhauma clasped Krishna's lotus feet and said with sobs, "Why has a thunderbolt not struck my head, O mighty-armed one?
+
+**21.** How shall I keep my life without Your feet, O Lord? Take me with You wherever You go!"
+
+**22.** Hearing this, Keshava laughed, took him by both hands and said, "I shall return before long."
+
+**23.** And, embracing him while he was still speaking, the Lord, whose form is full of compassion and who is skilled in every way of comforting, consoled him with His love.
+
+*Thus ends the thirteenth sarga, "Consoling Sarvabhauma" (Sarvabhauma-santvana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^313-1]: Kashinatha Mishra (Kashi Mishra): a Vaishnava of Puri, in whose house the Lord later lived.
+[^313-2]: The Lord speaks in loving self-abasement: He explains His wish to leave such beauty by saying that Jagannatha has not granted Him the mercy to stay.
+
+---
+
+## Prakrama 3, Sarga 14. Sri Jiyada-Nrisimha
+
+*The Lord travels south: at Kurma-kshetra He heals the leper brahmana Vasudeva; at Jiyada-Nrisimha He tells the ancient story of that deity; at Alalanatha He awakens love for Krishna in the people He embraces on the way*
+
+**1.** Then Bhagavan, wishing to show grace to the people, set out and at Kurma-kshetra[^314-1] beheld Jagannatha in the form of the Tortoise.
+
+**2.** A certain brahmana named Kurma, for whom the sight of the Lord was a great festival, joyfully offered Him hospitality and counted that day well spent.
+
+**3.** And Vasudeva[^314-2], the best of brahmanas, seeing Sri Purushottama, recognised Him as Krishna in the rapture of that sight and began to dance.
+
+**4.** Bhagavan embraced that brahmana, a leper and the best of great devotees, and he shone like gold.
+
+**5.** Seeing both His devotees filled with love, the Husband of Shri said to them, "By My command lead the people to devotion to Krishna — easily and joyfully."
+
+**6.** So saying, Hari Gaurachandra at once vanished, chanting "Krishna, Krishna!" and leaving His people in amazement.
+
+**7.** Going on a little further, He beheld with great delight the Nrisimha called Jiyada[^314-3]; His eyes filled with tears of love and the hair of His body stood on end.
+
+**8.** And the Lord of the worlds Himself, dear to His devotees, told the ancient story of how this Nrisimha submitted to His devotee:
+
+**9.** "Once there lived here a farmer named Pundaya, known for growing mayambu fruit[^314-4].
+
+**10.** Murari, taking the form of a boar, tore his field to pieces, and the strong and virtuous cowherd fought with Him.
+
+**11.** But the Boar, pierced by his arrow, began to cry out, 'Rama, Rama!' — and from this the cowherd knew that He was the Lord, and he began to fast and keep other vows.
+
+**12.** And the merciful Bhagavan said, 'Sprinkle this place with milk, and you will surely see Me together with the king.' Such was His word.
+
+**13.** Hearing the word of Bhagavan, the cowherd, overflowing with love, made the command known to the king, and the king carried it out exactly."[^314-5]
+
+**14.** Meanwhile Sarvabhauma Bhattacharya[^314-6] was so distressed that he was as if senseless; and so too all the devotees were troubled at heart at that time.
+
+**15.** Sri Krishna Chaitanya, for His part, set out southward and, coming to Alalanatha[^314-7], lost all control of His body for love:
+
+**16.** loudly, again and again, He cried, "Krishna, Krishna, Krishna!" — now rolling on the ground, now swooning, now babbling,
+
+**17.** now singing the names "Govinda, Krishna, Rama!" — and at the sight of Alalanatha His whole body was flooded with great love.
+
+**18.** Meeting a man on the road, He embraced him and passed His power into him; and the man, overwhelmed by love, at once began to dance and sing for joy.
+
+**19.** Bathed in a hundred streams of love, that man went home, and whenever he met the people of other villages he embraced them with love.
+
+**20.** And they in turn, at rest in love, sang and rejoiced. Thus, from one to another, He made them all alike.
+
+**21.** He spent one night in the land of Alalanatha, and on the next day He rose, completed His morning duties,
+
+**22.** and, setting out for the southern country, sang thus and danced:
+
+**23.** "Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, O!
+
+**24.** Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, save me! Krishna, Krishna, Krishna, Krishna, Krishna, Krishna, protect me!"[^314-8]
+
+**25.** Reciting this mantra, He was flooded with tears of love; He rolled on the ground and ran, shaken with trembling; saying, "Here is Hari!" He wept, His voice choked with tears, and cast loving glances at the trees and creepers.
+
+**26.** When He came to Kurma-kshetra, where Janardana dwells in the form of the Tortoise, the best of brahmanas, named Kurma, set about honouring Him
+
+**27.** and with faith fed the Lord on fine food — prasada[^314-9].
+
+**28.** "Merely by the pouring of milk Bhagavan revealed Himself — His holy form — to the virtuous, and, as He did, kept the others away[^314-10].
+
+**29.** Some time later a man who lived by trade came, accompanied by his wife, wishing to behold the Lord.
+
+**30.** Intoxicated with the bliss of that sight, he entered the holy temple, and on reaching and beholding the holy lotus feet he was filled with joy.
+
+**31.** Bhagavan said to that good man, 'Choose the boon you desire.' — 'My name is Jiyada: take that name, O Lord of the world!'
+
+**32.** The Source of the world said, 'So be it,' and from then on He became renowned as Sri Jiyada-Nrisimha. For Hari is ever submissive to His devotees."
+
+**33.** Having told this, Hari Himself, Sri Gauranga Mahaprabhu, vanished from there — and who saw Him go?
+
+*Thus ends the fourteenth sarga, "The Story of Sri Jiyada-Nrisimha" (Sri-Jiyada-Nrisimha-prasanga), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^314-1]: Kurma-kshetra (Srikurmam): a shrine of Vishnu in the form of the Tortoise on the coast south of Orissa.
+[^314-2]: Vasudeva: a brahmana suffering from leprosy, whom the Lord healed (v. 4).
+[^314-3]: Jiyada-Nrisimha: the deity of Nrisimha at Simhachala (near Vishakhapatnam); the origin of the name is told in vv. 29–32.
+[^314-4]: The farmer's name and the name of the crop are obscure in the editions and are given as they read.
+[^314-5]: The story of Jiyada continues in v. 28. In the Bengali edition (Calcutta, 1945) the verses of this sarga stand in a different order: first 14–27, then 1–13 and 28–33; that order matches the Lord's route (Alalanatha — Kurma-kshetra — Jiyada-Nrisimha) and does not break the story. Here the order and numbering of the base edition are kept.
+[^314-6]: These and the following events take place after the Lord's departure from Puri (end of sarga 13).
+[^314-7]: Alalanatha: a temple of Vishnu at Brahmagiri, south of Puri.
+[^314-8]: This prayer is also quoted in Krishnadasa Kaviraja's "Chaitanya Charitamrita" (Madhya 7.96).
+[^314-9]: Verses 26–27 briefly repeat vv. 1–2; v. 27, like v. 22, survives in all the editions only as a half-verse.
+[^314-10]: The second half of the verse is obscure; the rendering is conjectural.

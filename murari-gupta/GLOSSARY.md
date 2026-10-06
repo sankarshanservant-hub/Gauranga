@@ -209,3 +209,14 @@
 | मृकण्डु, मार्कण्डेय | Мриканду, Маркандея | Mrikandu, Markandeya |
 | अघोर (मन्त्र) | Агхора (мантра) | the Aghora (mantra) |
 | रथाङ्गिन्, उग्रचक्रिन् | Носящий диск, Грозный Носитель диска | the Bearer of the discus, the fierce Bearer of the discus |
+| महाप्रसाद (महिमा) | (величие) махапрасада | (the glory of) mahaprasada |
+| अनुज (सार्वभौमस्य) | младший брат (Сарвабхаумы) | (Sarvabhauma's) younger brother |
+| श्रीपति (эпитет Господа) | Супруг Шри | the Husband of Shri |
+| काशीनाथ मिश्र, काशीमिश्र | Кашинатха Мишра, Каши Мишра | Kashinatha Mishra, Kashi Mishra |
+| प्रतिहारी | храмовый привратник | the temple door-keeper |
+| कूर्म (द्विज) | Курма (брахман) | Kurma (a brahmana) |
+| वासुदेव (द्विज, कुष्ठी) | Васудева (брахман, больной проказой) | Vasudeva (the leper brahmana) |
+| आलालनाथ | Алаланатха | Alalanatha |
+| पुण्डय | Пундая (земледелец) | Pundaya (a farmer) |
+| मायाम्बुफल | плод маямбу | mayambu fruit |
+| जियड (भक्त) | Джияда (преданный) | Jiyada (a devotee) |
