@@ -227,3 +227,9 @@
 | ন্যাসিবর, ন্যাসিরাজ, ন্যাসিমণি | лучший из санньяси, царь санньяси, драгоценный камень среди санньяси | best of sannyasis, king of sannyasis, jewel among sannyasis |
 | অচ্যুতানন্দ | Ачьюта-ананда (неколебимое блаженство) | Achyuta-ananda (unfailing bliss) |
 | রাঢ়দেশ | Радха-деша (Рарх) | Radha-desha (Rarh) |
+| চূড়া | чуда (пучок волос с павлиньим пером) | chuda (topknot with a peacock feather) |
+| নাপিত হরিদাস | цирюльник Харидас (в Катве; имя — только в изд. 1983 г.) | Haridasa the barber (at Katwa; the name only in the 1983 edition) |
+| পূরবী-সিন্ধুড়া (রাগ) | пураби-синдхура | purabi-sindhura |
+| মকর, কুম্ভ (সংক্রান্তি) | Макара (Козерог), Кумбха (Водолей) | Makara (Capricorn), Kumbha (Aquarius) |
+| রাসবিনোদিয়া | Услада танца раса (раса-винодия) | He who delights in the rasa dance (rasa-vinodiya) |
+| নটবর-শেখর | венец лучших плясунов (натавара-шекхара) | crest-jewel of dancers (natavara-shekhara) |
