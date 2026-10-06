@@ -11,3 +11,27 @@
 | সূত্রখণ্ড, আদিখণ্ড, মধ্যখণ্ড, শেষখণ্ড | Сутра-кханда, Ади-кханда, Мадхья-кханда, Шеша-кханда | Sutra-khanda, Adi-khanda, Madhya-khanda, Shesha-khanda |
 | রাগ, দিশা, পয়ার, ত্রিপদী | рага, диша (припев), паяр, трипади | raga, disha (refrain), payar, tripadi |
 | নাগর, নাগরী | нагара (возлюбленный-горожанин), нагари | nagara, nagari |
+| গণেশ্বর, পার্বতীতনয় | Ганешвара (Ганеша), сын Парвати | Ganeshvara (Ganesha), son of Parvati |
+| হরগৌরী | Хара и Гаури | Hara and Gauri |
+| বাণীনাথ | Владыка речи (Ванинатха, Брахма) | Lord of speech (Vaninatha, Brahma) |
+| গর্গ (= নীলাম্বর চক্রবর্তী) | Гарга | Garga |
+| পণ্ডিত গোসাঞি (গদাধর) | Пандит Госани | Pandita Gosani |
+| গোবিন্দ গোসাঞি | Говинда Госани | Govinda Gosani |
+| বিষ্ণুপুরী | Вишнупури | Vishnupuri |
+| গদাধর দাস | Гададхара Дас | Gadadhara Dasa |
+| গুপ্ত বেজা (বৈদ্য) | Гупта-вайдья | Gupta the vaidya |
+| বাসু দত্ত, মুকুন্দ | Васу Датта, Мукунда | Vasu Datta, Mukunda |
+| শ্রীরাম, সুন্দর (সুন্দরানন্দ) | Шри Рама, Сундара (Сундарананда) | Sri Rama, Sundara (Sundarananda) |
+| গোবিন্দ, মাধব, বাসু ঘোষ | Говинда, Мадхава, Васу Гхош | Govinda, Madhava, Vasu Ghosha |
+| রঘুনন্দন, মুকুন্দ দাস | Рагхунандана, Мукунда Дас | Raghunandana, Mukunda Dasa |
+| শ্রীমূর্তি | Шри Мурти (Божество) | Sri Murti (the Deity) |
+| মহান্ত | махант | mahanta |
+| পাঁচালি (-প্রবন্ধ) | панчали (песенный сказ) | panchali (sung narrative) |
+| বঙ্গজ | уроженец Восточной Бенгалии (бангаджа) | East Bengali (bangaja) |
+| কাত্যায়নী | Катьяяни | Katyayani |
+| মিত্রবিন্দা, নগ্নজিতা, সুশীলা, সুবালা | Митравинда, Нагнаджити, Сушила, Субала | Mitravinda, Nagnajiti, Sushila, Subala |
+| সত্যভামা | Сатьябхама | Satyabhama |
+| নৈমিষ (-অরণ্য) | Наймиша, лес Наймиша (Наймишаранья) | Naimisha, the Naimisha forest (Naimisharanya) |
+| জৈমিনি-ভারত | «Джаймини-бхарата» | Jaimini-bharata |
+| নিছনি, নির্মঞ্ছন | ничхани, нирманчхана | nichhani, nirmanchhana |
+| মূর্চ্ছা (в песнях) | мурчха | murchha |

@@ -37,7 +37,7 @@ def check(n):
             for tag in ('BN:', 'WFW-RU:', 'WFW-EN:'):
                 if tag not in part: ok = False; print(n, 'bn', h, 'нет', tag)
             bnpart = part.split('BN:', 1)[-1].split('VAR:')[0].split('WFW-RU:')[0]
-            if re.search(r'[a-zA-Z\u0900-\u097f]', bnpart): ok = False; print(n, 'bn', h, 'в BN не бенгальское письмо')
+            if re.search(r'[a-zA-Z\u0900-\u0963\u0966-\u097f]', bnpart): ok = False; print(n, 'bn', h, 'в BN не бенгальское письмо')
     print(n, 'OK' if ok else 'ОШИБКИ', f"({len(nums['ru'])} двустиший/строф)")
     return ok
 

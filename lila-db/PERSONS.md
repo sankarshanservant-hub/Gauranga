@@ -46,6 +46,9 @@
 | @sanatana-gosvami | Санатана Госвами | Sanatana Gosvami | |
 | @jagai-madhai | Джагай и Мадхай | Jagai and Madhai | братья (оба) |
 | @lochana-dasa | Лочан Дас | Lochana Dasa | автор (для записей kind: author) |
+| @raghunandana | Рагхунандана (Тхакур) | Raghunandana (Thakura) | сын Мукунды Даса, племянник Нарахари, Шрикханда |
+| @mukunda-dasa | Мукунда Дас (Шрикханда) | Mukunda Dasa (of Shrikhanda) | брат Нарахари, отец Рагхунанданы |
+| @vrindavana-dasa | Вриндаван Дас (Тхакур) | Vrindavana Dasa (Thakura) | автор «Чайтанья-бхагаваты» |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -53,3 +56,4 @@
 | @brahma | Брахма | Brahma | |
 | @uddhava | Уддхава | Uddhava | |
 | @rukmini | Рукмини | Rukmini | |
+| @satyabhama | Сатьябхама | Satyabhama | царица Двараки |
