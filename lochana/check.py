@@ -22,6 +22,22 @@ def check(n):
         if defs - refs: ok = False; print(n, k, 'определения без ссылки:', sorted(defs - refs))
     if set(re.findall(r'\[\^([^\]]+)\]', t['ru'])) != set(re.findall(r'\[\^([^\]]+)\]', t['en'])):
         ok = False; print(n, 'метки сносок RU/EN различаются')
+    bnf = os.path.join(HERE, 'bn', n + '.md')
+    if not os.path.exists(bnf):
+        ok = False; print(n, 'нет bn/' + n + '.md')
+    else:
+        bt = open(bnf, encoding='utf-8').read()
+        bnums = [h.strip() for h in re.findall(r'^### (.+)$', bt, re.M)]
+        if bnums != nums['ru']:
+            ok = False; print(n, 'номера bn и ru расходятся:', len(bnums), len(nums['ru']))
+            for a, b in zip(bnums, nums['ru']):
+                if a != b: print('   первое расхождение:', a, b); break
+        for part in re.split(r'^### ', bt, flags=re.M)[1:]:
+            h = part.split('\n', 1)[0].strip()
+            for tag in ('BN:', 'WFW-RU:', 'WFW-EN:'):
+                if tag not in part: ok = False; print(n, 'bn', h, 'нет', tag)
+            bnpart = part.split('BN:', 1)[-1].split('VAR:')[0].split('WFW-RU:')[0]
+            if re.search(r'[a-zA-Z\u0900-\u097f]', bnpart): ok = False; print(n, 'bn', h, 'в BN не бенгальское письмо')
     print(n, 'OK' if ok else 'ОШИБКИ', f"({len(nums['ru'])} двустиший/строф)")
     return ok
 

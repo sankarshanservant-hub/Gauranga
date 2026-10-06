@@ -62,23 +62,73 @@ where it differs from later Gaudiya Vaishnava theology, this is noted in the foo
 }
 
 
-def build(lang):
+def bn2lat(s):
+    from indic_transliteration import sanscript
+    s = s.replace('\u09df', '\u09af\u09bc').replace('\u09dc', '\u09a1\u09bc').replace('\u09dd', '\u09a2\u09bc').replace('ৎ', 'ত্')
+    d = ''.join(chr(ord(c) - 0x80) if '\u0980' <= c <= '\u09ff' else c for c in s)
+    return sanscript.transliterate(d, 'devanagari', 'iast').replace('r̤', 'ṛ').replace('||', '॥').replace('|', '।')
+
+
+def load_bn(key):
+    f = os.path.join(HERE, 'bn', key + '.md')
+    out = []
+    if not os.path.exists(f):
+        return out
+    for part in re.split(r'^### ', open(f, encoding='utf-8').read(), flags=re.M)[1:]:
+        head, _, body = part.partition('\n')
+        rec, cur = {'n': head.strip(), 'bn': []}, None
+        for line in body.split('\n'):
+            if m := re.match(r'^(BN|VAR|WFW-RU|WFW-EN|NOTE):\s*(.*)', line):
+                cur = m.group(1).lower()
+                if cur != 'bn': rec[cur] = m.group(2).strip()
+            elif cur == 'bn' and line.strip() and not line.startswith('#'):
+                rec['bn'].append(line.strip())
+            elif cur and cur != 'bn' and line.strip() and not line.startswith('#'):
+                rec[cur] += ' ' + line.strip()
+        out.append(rec)
+    return out
+
+
+def with_bn(text, recs, lang):
+    out, i = [], 0
+    for para in re.split(r'\n\s*\n', text):
+        m = re.match(r'^\*\*(\d+[a-zа-я]?)\.\*\*', para.strip())
+        if m and i < len(recs) and recs[i]['n'] == m.group(1):
+            r = recs[i]; i += 1
+            if r['bn']:
+                out.append('\n'.join(r['bn']))
+                out.append('\n'.join(f'*{bn2lat(l)}*' for l in r['bn']))
+                w = r.get('wfw-' + lang)
+                if w: out.append(('*Пословно:* ' if lang == 'ru' else '*Word for word:* ') + w)
+        out.append(para)
+    return '\n\n'.join(out)
+
+
+def build(lang, full=False):
     m = META[lang]
     toc, body = [], []
     for path in sorted(glob.glob(os.path.join(HERE, lang, '[0-9][0-9].md'))):
         key = os.path.basename(path)[:2]
         text = open(path, encoding='utf-8').read().strip()
         text = re.sub(r'\[\^([^\]]+)\]', lambda mm: f'[^{key}-{mm.group(1)}]', text)
+        if full:
+            text = with_bn(text, load_bn(key), lang)
         toc.append('- ' + text.splitlines()[0].lstrip('# ').strip())
         body.append(text)
-    md = m['preface'] + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
-    open(os.path.join(HERE, m['out'] + '.md'), 'w', encoding='utf-8').write(md)
+    pre = m['preface']
+    out = m['out']
+    if full:
+        out += '-full'
+        pre = pre.replace('---', ('*Бенгальский текст, транслитерация, пословный перевод и перевод*' if lang == 'ru' else '*Bengali text, transliteration, word-for-word and translation*') + '\n\n---', 1)
+    md = pre + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
-    kb.build_docx(blocks, os.path.join(HERE, m['out'] + '.docx'))
-    kb.build_pdf(blocks, os.path.join(HERE, m['out'] + '.pdf'), m['title'], m['author'])
-    print(lang, 'ok', len(blocks))
+    kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))
+    kb.build_pdf(blocks, os.path.join(HERE, out + '.pdf'), m['title'], m['author'])
+    print(out, 'ok', len(blocks))
 
 
 if __name__ == '__main__':
     for lang in (sys.argv[1:] or ['ru', 'en']):
         build(lang)
+        build(lang, full=True)
