@@ -218,3 +218,12 @@
 | ত্রিভঙ্গ | Трибханга, трижды изогнутый (Кришна с флейтой) | Tribhanga, thrice-bent (Krishna with the flute) |
 | ধ্রুবলোক, ধ্রুবপুরী | Дхрувалока, Дхрувапури | Dhruvaloka, Dhruvapuri |
 | যোগিনী | йогини | yogini |
+| করুণশ্রী (রাগ) | карунашри | karunashri |
+| নিছনি | ничхани (обряд: взять на себя беды любимого) | nichhani (taking the beloved's misfortunes on oneself) |
+| রামাই | Рамай (Шри Рама Пандит) | Ramai (Sri Rama Pandita) |
+| সুমেরু, বান্ধুলী | Сумеру, бандхули (цветок) | Sumeru, bandhuli (flower) |
+| কণ্টকনগর, কাঞ্চননগর | Кантаканагара, Канчананагара (Катва) | Kantakanagara, Kanchananagara (Katwa) |
+| মালসাট | хлопать себя по плечам (жест борца) | slapping the arms (a wrestler's gesture) |
+| ন্যাসিবর, ন্যাসিরাজ, ন্যাসিমণি | лучший из санньяси, царь санньяси, драгоценный камень среди санньяси | best of sannyasis, king of sannyasis, jewel among sannyasis |
+| অচ্যুতানন্দ | Ачьюта-ананда (неколебимое блаженство) | Achyuta-ananda (unfailing bliss) |
+| রাঢ়দেশ | Радха-деша (Рарх) | Radha-desha (Rarh) |
