@@ -137,3 +137,19 @@
 | मन्दिरा | мандира (тарелочки) | mandira (cymbals) |
 | सुरनदी, द्युनदी | река богов, небесная река (Ганга) | the river of the gods, the heavenly river (the Ganga) |
 | अचलभिद् | Сокрушитель гор (Индра) | the Splitter of mountains (Indra) |
+| कमलाक्ष | Камалакша (мирское имя Адвайты) | Kamalaksha (Advaita's worldly name) |
+| हरिहर | Харихара | Harihara |
+| उद्धव, अक्रूर | Уддхава, Акрура | Uddhava, Akrura |
+| गोपाल चापल | Гопала Чапала | Gopala Chapala |
+| पिशाच, पैशाच (नरक) | пишачи, ад пишачей | pishachas, the hell of the pishachas |
+| सीता, लक्ष्मण, शेष | Сита, Лакшмана, Шеша | Sita, Lakshmana, Shesha |
+| मारीच, सुबाहु, खर, त्रिशिरस्, दूषण, कबन्ध | Марича, Субаху, Кхара, Тришира, Душана, Кабандха | Maricha, Subahu, Khara, Trishiras, Dushana, Kabandha |
+| सुग्रीव, दशमुख (रावण) | Сугрива, Десятиглавый (Равана) | Sugriva, the Ten-headed (Ravana) |
+| पिनाक, भार्गवेन्द्र (परशुराम) | Пинака, владыка Бхаргавов (Парашурама) | Pinaka, the lord of the Bhargavas (Parashurama) |
+| कुशिक, ककुत्स्थ, जनक | Кушика, Какутстха, Джанака | Kushika, Kakutstha, Janaka |
+| बृहस्पति, कवि (ग्रह) | Брихаспати, Кави (Юпитер, Венера) | Brihaspati, Kavi (Jupiter, Venus) |
+| रामदास (Мурари) | Рамадас («слуга Рамы») | Ramadasa ("servant of Rama") |
+| नारायणी | Нараяни | Narayani |
+| नारायण (спутник Господа) | Нараяна | Narayana |
+| नन्दनाचार्य | Нандана Ачарья | Nandana Acharya |
+| षड्भुज | шестирукий облик (шадбхуджа) | the six-armed form (shadbhuja) |

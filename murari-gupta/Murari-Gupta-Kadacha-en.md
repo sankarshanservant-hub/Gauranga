@@ -47,6 +47,10 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 2, Sarga 2. Absorption in the Boar
   - Prakrama 2, Sarga 3. Dispelling the Clouds
   - Prakrama 2, Sarga 4. Immersion in the Heavenly River
+  - Prakrama 2, Sarga 5. The Telling of Ecstasy
+  - Prakrama 2, Sarga 6. [The Greatness of Advaita]
+  - Prakrama 2, Sarga 7. Grace to the Devotees
+  - Prakrama 2, Sarga 8. Grace to the Avadhuta
 
 ---
 
@@ -1502,3 +1506,309 @@ Bhaktisiddhanta Sarasvati.
 [^204-5]: Verse 24 is syntactically unclear; the translation is tentative. The Lord's reply (vv. 25–26) is understood as His blessing on Murari to tell of His descent — that is, to compose this poem.
 [^204-6]: Kapila is the sage, a descent of Vishnu, the teacher of the Sankhya doctrine.
 [^204-7]: The heavenly river is the Ganga.
+
+---
+
+## Prakrama 2, Sarga 5. The Telling of Ecstasy
+
+*The Lord goes with His devotees to Advaita in Shantipura; their meeting; a discourse on bhakti in the Kali age; a non-Vaishnava at the festival; pastimes in Advaita's house; instruction in jnana-yoga and the praise of pure devotion*
+
+**1.** Then, accompanied by Srivasa and others, He set out for the town, eager to see His devotee Advaita, the best of acharyas.
+
+**2.** On the way the Lord, full of joy, sang songs of Hari again and again, and at times He broke into dance together with His own people, who danced as well.
+
+**3.** On arriving, He fell to the earth like a stick before the Acharya: regarding a Vaishnava as Vishnu Himself, He taught this to others.
+
+**4.** Seeing Him, the Acharya, the teacher of the world, at once rose, came up to Him in reverent agitation, and he too fell to the ground.
+
+**5.** They clasped each other in an embrace, and both were seized by the longing of love: their bodies were filled with trembling, tears, the thrill of the hair and the other signs of ecstasy.
+
+**6.** Then, sitting down, the Lord began a heart-endearing discourse on Hari — captivating the mind, taking away sin, bestowing the fruits of liberation and love.
+
+**7.** Advaita then said: "Those fools who claim that in the Kali age there is no devotion on earth — let them see it today with their own eyes!"
+
+**8.** Hearing this, Bhagavan, His lips trembling slightly, said: "If there is no devotion to Nrihari, what then is there at all, here on earth?
+
+**9.** Devotion alone exists in this world — the essence of all, the bringer of happiness. And whoever says that it does not exist has been born in vain.
+
+**10.** And so devotion to Krishna abides — serene and eternal; and for one who has it, the bonds of karma fall away and love for Hari is born."
+
+**11.** Then Srinivasa, noticing in Hari's assembly, right in front, a certain brahmana who was plainly no Vaishnava, said in distress:
+
+**12.** "This brahmana has come to disrupt Krishna's festival." Hearing this, Bhagavan replied: "He will not come in here.
+
+**13.** Have no anxiety over this, O best of brahmanas; be happy: bewildered by Vishnu's maya, that brahmana has not come here at all."
+
+**14.** Having come Himself to Shantipura and seen Advaita, the great lord[^205-1], the Lord, telling of Krishna's majesty, was wholly filled with Him.
+
+**15.** Then, given over to play, He laid His right arm on Srivasa's right shoulder and His left on Gadadhara;
+
+**16.** placing His lotus feet in the lap of Sri Rama Pandita[^205-2], Hari rejoiced with them in the presence of Srimad Advaita Acharya.
+
+**17.** There He ate choice food, anointed His limbs with sandal paste, and, delighting the people, sang of Krishna and danced.
+
+**18.** The wise Acharya, beholding the great festival of Sri Gaurachandra's bliss of love, felt himself fulfilled by grace.
+
+**19.** Krishna, the Teacher of the world, having performed kirtana with the Acharya and played there like a god, then returned to His own home.
+
+**20.** Afterwards the Lord began to expound the meaning of the truth of the Self:[^205-3] "Hari alone is the master, and He abides in the form of individual beings.
+
+**21.** Having withdrawn all into Himself, He remains alone — the Self, the Lord Himself, the witness of all within and without, the cause of all causes."
+
+**22.** So saying, the Lord quickly opened His hand, then Himself clenched it again into a fist, and showed His hand as if in a dance[^205-4].
+
+**23.** Again He spoke of the truth — of Him whose nature is pure being: "There even becoming is meaningless; grasp the Real.
+
+**24.** Brahman is one; therefore there is no other form at all. The form of 'another' arises only from the lack of this knowledge.
+
+**25.** Look at these two fingers of My hand: one is smeared with honey — lick it with your tongue; but the other is smeared with pus.
+
+**26.** Seeing that one, you cannot in your disgust bear to look at the other even for a moment. Yet to one who knows Brahman without distinctions, everything is fair.
+
+**27.** So too Bhagavan is one — the beginningless, imperishable Person; and the soul is liberated by relishing the whole[^205-5] — not otherwise."
+
+**28.** Thus, having expounded jnana-yoga in many ways, He fell silent — the treasury of mercy, whose lotus feet dwell in the hearts of the noble.
+
+**29.** Then, having let them hear this knowledge, the Lord of the world realized Krishna — the Master of the universe, attainable by knowledge — and, remembering His lotus feet, thrilled all over;
+
+**30.** and, filled with unending longing, He said in a faltering voice: "Devotion alone is supreme, for it reveals love for Krishna."
+
+**31.** His throat choked with tears of love, Bhagavan spoke these words: "His heart melted, his speech faltering, My devotee weeps freely, and laughs,
+
+**32.** and freely dances and sings — and so, ceaselessly, day and night, he purifies the three worlds and guards them from every calamity."[^205-6]
+
+**33.** So saying, Sriman Vishvambhara, the Lord who reveals devotion to Himself, danced with a joyful heart together with His own people.
+
+*Thus ends the fifth sarga, "The Telling of Ecstasy" (Bhava-kathana), of the second prakrama of the great poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^205-1]: Advaita Acharya is revered as a descent of Mahavishnu, one with Sadashiva; hence the epithet "great lord" (maheshvara).
+[^205-2]: Sri Rama Pandita (Ramai) is Srivasa's younger brother.
+[^205-3]: Verses 20–27 expound jnana-yoga, the path of knowledge (cf. v. 28); after this the Lord proclaims devotion supreme (vv. 30–32).
+[^205-4]: The opened palm and clenched fist depict the manifestation of the world and its withdrawal into the Lord.
+[^205-5]: Literally, "from the taste of the totality" (samagri-rasa); the sense is unclear and the translation tentative.
+[^205-6]: Cf. Bhagavata Purana 11.14.24, where Krishna likewise describes the devotee who purifies the world.
+
+---
+
+## Prakrama 2, Sarga 6. [The Greatness of Advaita]
+
+*The Lord with His club threatens the haters of devotees; the world as a great forest; Advaita's arrival and dance; the Lord promises love to his children; the greatness of Advaita-Kamalaksha; the doctrine of the Self forbidden*
+
+**1.** On another day the greatly renowned Advaita Acharya came to Navadvipa to see the Lord Vishvambhara.
+
+**2.** While he, having bathed and worshipped the Lord, was on his way to see Him, Bhagavan, who was staying in Srivasa's abode,
+
+**3.** placed a flower on the tip of a staff and said with a smile: "So I have worshipped My club. It is the chastisement of the wicked:
+
+**4.** with it I shall always chastise those who hate My devotees. For a devotee is ever dearer to Me than life — of this there is no doubt.
+
+**5.** There is a certain wicked man[^206-1] here, a hater of My devotees. I shall make him a leper, and then —
+
+**6.** before long — a dweller in the hell of the pishachas: this I say in truth. And his disciples too I shall destroy, turning them into eaters of filth.
+
+**7.** I wish to go away to the forest — yet here too is a great forest: some are like tigers, others like stones,
+
+**8.** some like trees, some men like grass, and some like beasts. And so this world is a vast forest.
+
+**9.** But those who delight in drinking the honey of Sri Krishna's lotus feet — they alone are called human beings, the benefactors of all creatures.
+
+**10.** I have heard that Advaita, the best of acharyas, has arrived here. Why then does he not come? Let us go to him, to where he is staying."
+
+**11.** At that very moment the Acharya himself arrived there, bearing a gift; he offered it at the Lord's lotus feet
+
+**12.** and fell to the ground like a stick. Then the Lord took him by the hand and said: "It is for your sake that I have come here."[^206-2]
+
+**13.** Having said this and gladdened him, the Lord sat down on a cot, and at His command Advaita Acharya began to dance.
+
+**14.** Seeing this, Bhagavan was pleased and said to him: "These children of yours are begging Me for loving devotion, so hard to attain.
+
+**15.** For your sake, child, I shall give it." Hearing this, the Acharya, flooded with joy, replied: "O Bhagavan, they are followers of Your feet. O abode of compassion, what could be beyond their reach when You love them?"
+
+**16.** Then all sat down beside the Holder of the discus; and in that moonlit night the Mighty-armed spoke again:
+
+**17.** "Kamalaksha[^206-3], you are My foremost devotee: it is for your sake that I have come. So be happy, dancing and singing."
+
+**18.** Hearing these words of Bhagavan, Sriman Srivasa Pandita, humbly bowing at His lotus feet, spoke in sweet words:
+
+**19.** "Is he really Your devotee, O Bhagavan? It is only Your mercy, O Lord!" Hearing this, Bhagavan grew angry, rebuked him, and said:
+
+**20.** "Are Uddhava and Akrura[^206-4] My devotees of boundless love, and is this Acharya beneath them? Why do you speak so?
+
+**21.** Or is there some other devotee of Mine in this Bharata-varsha equal to the Acharya? Since you speak so, you are an ignorant brahmana!"
+
+**22.** Hearing these words of Bhagavan, he fell silent out of fear.
+
+**23.** Then Bhagavan said: "Never, anywhere, are you to speak of the doctrine of the Self[^206-5]. And if it is to your taste,
+
+**24.** then love will not be given to you — this is the very truth."
+
+**25.** Hearing this, Srivasa Pandita said to the Lord of the world: "May I forget it, so that I never speak of it."
+
+**26.** Murari said: "O Bhagavan, I do not know the doctrine of the Self." The Lord replied to him: "You do — for you have heard it from Kamalaksha."[^206-6]
+
+**27.** Hearing at once these words of the Lord, the noble ones rejoiced at heart and, intoxicated with the wine of the lotus feet of Harihara[^206-7], danced like the gods at a splendid festival.
+
+*Thus ends the sixth sarga of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^206-1]: Possibly the brahmana Gopala Chapala, struck with leprosy for offending Srivasa (his story is told in the Chaitanya-charitamrita, Adi 17).
+[^206-2]: According to tradition, the Lord descended in answer to the prayers of Advaita Acharya.
+[^206-3]: Kamalaksha is the worldly name of Advaita Acharya.
+[^206-4]: Uddhava and Akrura are intimate devotees of Krishna.
+[^206-5]: Sanskrit adhyatma: the doctrine of the Self and its identity with Brahman, as the Lord Himself had expounded it in 2.5.20–28.
+[^206-6]: Cf. 2.4.22, where the Lord rebukes Murari for his song on the doctrine of the Self.
+[^206-7]: Harihara: Hari and Hara (Vishnu and Shiva) in a single form; here, as in 2.7.6, apparently an epithet of Gaura. It may also be understood as "Hari (Gaura) and Hara (Advaita, revered as one with Sadashiva)."
+
+---
+
+## Prakrama 2, Sarga 7. Grace to the Devotees
+
+*The appearance of the dancing Lord; the meaning of Srivasa's name; Murari's "Ramashtaka" and the name "Ramadasa"; service to Srivasa as worship of the Lord; Narayani receives the remnants of His meal*
+
+**1.** His head was wrapped in new white cloth; He wore a necklace like young coral; His bracelets were tinted by the splendour of His fine arms, and His hands were like freshly opened lotuses — and He shone.
+
+**2.** He wore a loincloth bound with a fluttering cloth, a crimson outer garment and a dancer's attire, and His arms, hanging down to His fine hips, plainly resembled the king of serpents[^207-1].
+
+**3.** Anklets were graced by His lotus feet; the splendour of His lovely nails tinted the moon, the glow of His soles tinted coral; shining like molten gold, He moved with slow steps.
+
+**4.** He danced, His lotus face aglow, while around Him His own people, devoted to His name, sweetly sang the honeyed songs of the Enemy of Madhu — as the lord of the gods dances in heaven amid the hosts of the gods.
+
+**5.** The nectar of the ringing of fine mandiras struck by both hands of the Lord of Kamala, joined with sweet-voiced singing, unceasingly gave joy to the good-hearted dwelling on earth.
+
+**6.** Then the wondrous Harihara[^207-2] sat down here on a seat covered with a new blanket and took delight; and in the temple, surrounded by His own people, the Giver of boons grew in His own radiance.
+
+**7.** Then Madhusudana said sweetly to Srivasa: "Shri is devotion, and you are her abode; that is why you are called Srivasa."
+
+**8.** And to Gopinatha[^207-3] He said: "You are known as My servant."
+
+**9.** Then the Compassionate One said to Murari: "Recite that poem of yours yourself."[^207-4] Hearing this, he recited it in lovely syllables:
+
+*The Eight Verses*
+
+**10.** "The rays of the gems of His gleaming crown light up the quarters; He wears earrings like the rising Brihaspati and Kavi[^207-5]; His face is like a spotless moon. Rama, the teacher of the three worlds, I worship ever.
+
+**11.** His eyes are like lotuses awakened by the rays of the rising sun; His lips are like ripe bimba fruit, His nose is lovely; His charming smile outshines the moonbeams. Rama, the teacher of the three worlds, I worship ever.
+
+**12.** His neck is like a conch; the Unborn, His form is like a lotus; adorned with a string of pearls and a golden necklace, He shines like a rain-cloud with lightning and a flock of cranes. Rama, the teacher of the three worlds, I worship ever.
+
+**13.** At His side is Sita: on her upturned palm rests a thousand-petalled lotus gleaming like molten gold, and her lovely fingers give it five petals more than a hundred[^207-6]. The best of the Raghus I worship ever.
+
+**14.** Before Him stands the best of bowmen, his body bright as gold, devoted to serving his elder brother, richly adorned — the excellent Lakshmana, the abode called Shesha[^207-7]. Rama, the teacher of the three worlds, I worship ever.
+
+**15.** He is the moon over the ocean of the dynasty of the Raghu kings; slaying Maricha and the rakshasas led by Subahu, He protected the sacrifice — the treasure of merit of the line of Kushika[^207-8]. Rama, the teacher of the three worlds, I worship ever.
+
+**16.** He slew Khara and Trishiras with their hosts, slew Kabandha, and freed the holy Dandaka forest from defilement — and from Dushana[^207-9]; slaying Sugriva's enemy, He made friendship with him. Raghava, the slayer of the Ten-headed, I worship.
+
+**17.** Breaking Pinaka, He celebrated His wedding with Janaka's daughter, and on the way home He conquered the lord of the Bhargavas and brought joy to His father[^207-10]. The best of Kakutstha's line, Rama, the teacher of the three worlds, I worship ever."
+
+**18.** Having heard these eight verses on the Joy of the Raghus, the lion among kings, Bhagavan placed His foot on the head of Murari the physician and wrote on his forehead: "You are Ramadasa."[^207-11] "Be so by My grace!"
+
+**19.** Then Bhagavan recited a verse — hear it from me, O brahmana[^207-12].
+
+**20.** "Neither yoga nor Sankhya nor dharma, O Uddhava, neither Vedic study nor austerity nor renunciation win Me over as does mighty devotion to Me."[^207-13]
+
+**21.** Having recited it, He said to all assembled there: "Act according to Srivasa's judgement:
+
+**22.** whatever he decides will always be for your good. Service to the elder brother of Sri Rama Pandita is worship of Me.
+
+**23.** Grasp this firmly with your understanding and serve Srivasa: by this every blessing will ever be yours."
+
+**24.** So saying, He who loves those who bow to Him took delight in gladdening the people; and all, seeing His love for His devotees, were filled with happiness.
+
+**25.** There Bhagavan partook of the milk and betel offered by Srivasa, accepted the garland and incense, and gave the remnants to His servant.
+
+**26.** And the fair Narayani[^207-14], the sweetly radiant daughter of Srivasa's brother, as yet unmarried, received the remnants of Hari's meal and wept.
+
+**27.** Thus the Lord Murari spent the whole night for the joy of the hearts of His own; a span as long as a great year He deemed a moment[^207-15] — and the best of the noble enjoyed unbroken happiness.
+
+*Thus ends the seventh sarga, "Grace to the Devotees" (Bhakta-anugraha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^207-1]: The text of this verse is partly damaged; the translation follows the general sense.
+[^207-2]: Harihara: Hari and Hara (Vishnu and Shiva) in a single form; here an epithet of Gaura.
+[^207-3]: Gopinatha is a brahmana of Navadvipa, a companion of the Lord.
+[^207-4]: Verses 10–17 are the "Ramashtaka," the eight verses of Murari Gupta, a devotee of Rama.
+[^207-5]: Brihaspati and Kavi (Shukra) are the planets Jupiter and Venus.
+[^207-6]: The lotus is called "hundred-petalled" (shatapatra); Sita's five fingers appear as five more petals.
+[^207-7]: Lakshmana is a descent of Shesha (Ananta), the serpent on whom Vishnu reclines.
+[^207-8]: Rama protected the sacrifice of the sage Vishvamitra, a descendant of Kushika, from the rakshasas Maricha and Subahu.
+[^207-9]: A pun: adushana means both "undefiled" and "without Dushana" (a rakshasa, Khara's brother). Trishiras and Kabandha are rakshasas of the Dandaka forest; Sugriva's enemy is Valin; the Ten-headed is Ravana.
+[^207-10]: Pinaka is Shiva's bow; the lord of the Bhargavas is Parashurama; the father is King Dasharatha.
+[^207-11]: Ramadasa means "servant of Rama."
+[^207-12]: Murari addresses his listener, Damodara Pandita.
+[^207-13]: Bhagavata Purana 11.14.20.
+[^207-14]: Narayani, Srivasa's niece, later became the mother of Vrindavana Dasa Thakura, author of the Chaitanya-bhagavata.
+[^207-15]: The sense of the line is unclear; the translation is tentative.
+
+---
+
+## Prakrama 2, Sarga 8. Grace to the Avadhuta
+
+*The Lord sends His devotees for Nityananda; the meeting in the house of Nandana Acharya; the Lord honours Nityananda; in Srivasa's house He reveals to him His six-armed, four-armed and two-armed forms*
+
+**1.** In the morning, when it grew light, all bowed to the Bull among men and went to their own dwellings; having bathed, worshipped the Lord and performed the other rites,
+
+**2.** and having eaten as was fitting, they came again to His lotus feet. Seeing them, Bhagavan Madhusudana was filled with joy
+
+**3.** and said: "The Avadhuta[^208-1] has come, a great soul named Nityananda. Bring him here.
+
+**4.** Rama, and you, Murari, and Narayana and Mukunda[^208-2] — go quickly to where that great-minded one is staying."
+
+**5.** Then at His command they all went south, to the outskirts of the village; having searched there and not found him, they returned to the Lord.
+
+**6.** Bowing to the Best of gods, they said: "Today we did not see him." He told them: "Go again, now:
+
+**7.** in the evening that great-hearted one will be seen in his lodging." Hearing this, they went gladly each to his place and performed their daily rites.
+
+**8.** And in the evening the Teacher of the world, walking along the road, saw Murari and said to him: "Come, let us go to where he is.
+
+**9.** The best of sages has come to the house of Nandana Acharya[^208-3]. I too am going there to see that bull among men."
+
+**10.** Then the Lord, with Murari and the band of devotees, immersed in the rasa of the bliss of love, went to the fine house of Nandana Acharya
+
+**11.** and there saw the divine Nityananda, comfortably lodged.
+
+**12.** Bhagavan bowed to him with devotion, began a sweet-sounding sankirtana of Hari, and danced joyfully and gracefully.
+
+**13.** And after Him danced the greatly renowned Nityananda — with roars and laughter, the hair of his body standing on end.
+
+**14.** When the dance was over, the Lord of Kamala purified the head of His servant with the dust of Nityananda's feet.
+
+**15.** Then He set out for home, telling on the way auspicious things about him: "Ah, how this great soul speaks of Krishna, the source of all good!
+
+**16.** First knowledge arises in a man, then devotion to Hari, and then, in due order, detachment from enjoyments surely follows."
+
+**17.** Speaking thus, the Lord of the gods came along the road to His own house and told all this at His mother's feet.
+
+**18.** When the next day came, He gave the wise Nityananda a meal, having anointed his whole body with sandal paste;
+
+**19.** He offered him a garland, arghya and food, and worshipped him. Thus did He honour Nityananda Mahaprabhu.
+
+**20.** Having stayed there, on the next day he went to Srivasa's abode, and Srivasa invited the Avadhuta for a meal.
+
+**21.** The Pandita lovingly served him a finely prepared meal, and he partook with reverence of that excellent, great and purifying food.
+
+**22.** And as he stayed there, at that very moment Bhagavan came. Sitting on a fine seat in the beautiful shrine room,
+
+**23.** the Lord remembered the dear pastime of old[^208-4] and said in a sweet voice: "Look at Me: it is for My sake that you have taken such pains."
+
+**24.** Hearing these heartfelt words of the great soul and looking at Him with devotion, the Avadhuta did not grasp their special meaning.
+
+**25.** Knowing this, Bhagavan said to all the Vaishnavas: "Go outside the house, all of you," and they went out.
+
+**26.** Then the Lord, the Master of all, playfully revealed to Nityananda His majesty and His sweetness.
+
+**27.** He saw the great six-armed form of Krishna[^208-5]; in a moment, the four-armed form; and in another moment the Lord became two-armed.
+
+**28.** Seeing this greatest of wonders, the wise one, seized with joy and amazement, laughed, and then at once broke into a joyful dance.
+
+**29.** At the Lord's command he told no one of this, and the hair of his body thrilled intensely. And the Lord, delighted, said: "You are My brother who sported in Vrindavana!"[^208-6]
+
+**30.** Whoever thus hears all the deeds of Nrihari will surely obtain the fruit of sacrifice; he delights in the lotus feet of Mukunda, and the name of Hari ever shines forth within him.
+
+*Thus ends the eighth sarga, "Grace to the Avadhuta" (Avadhuta-anugraha), of the second prakrama of the poem "Sri Krishna-chaitanya-charitamrita."*
+
+[^208-1]: An avadhuta is a wandering renunciate who stands above outward rules; so the poem calls Nityananda.
+[^208-2]: Rama is apparently Sri Rama Pandita, Srivasa's brother; Narayana is one of the Lord's companions in Navadvipa; Mukunda is Mukunda Datta.
+[^208-3]: Nandana Acharya is a devotee of Navadvipa in whose house Nityananda stayed.
+[^208-4]: The pastimes of Krishna and Balarama in Vrindavana; Nityananda is revered as Balarama. Before meeting the Lord he had wandered for many years among the holy places.
+[^208-5]: The six-armed form (shadbhuja) unites the features of Rama, Krishna and Gaura Himself.
+[^208-6]: The second line of the verse can also be understood as Nityananda's words to the Lord.
