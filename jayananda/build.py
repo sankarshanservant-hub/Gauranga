@@ -34,6 +34,10 @@ META = {
 5. **Цитаты из поэмы у позднейших авторов** — 88 отрывков, собранных из работ Д. Ч. Сена (1914),
    Гириджашанкара Райчаудхури (1946), Б. Маджумдара (1939/1959), Сукумара Сена (1940) и др.; переведены
    только стихи Джаянанды, расположены по кхандам.
+6. **Отрывки из описаний рукописей и другие находки** — стихи, приведённые в каталогах рукописей (отчёты
+   «Сахитья-паришат-патрики», каталоги Бангия Сахитья Паришат 1923 г., Калькуттского университета 1928 г.,
+   Вишва-Бхарати), в статьях С. Ч. Митры («Прабаси», 1904) и др.; эпизод о Дхруве («Дхрува-чаритра»);
+   плач по двенадцати месяцам в редакции «Падакалпатару».
 
 Статьи Васу и книга Саркара — общественное достояние. Стихи переведены построчно, без рифмы; испорченные
 места оговорены в примечаниях переводчика; примечания Васу помечены особо. Имена — по `GLOSSARY.md`.
@@ -70,6 +74,10 @@ text (editions of 1905 and 1971) is not freely available, so everything that cou
 5. **Quotations from the poem in later authors**: 88 passages gathered from D. C. Sen (1914), Girijashankar
    Raychaudhuri (1946), B. B. Majumdar (1939/1959), Sukumar Sen (1940) and others; only Jayananda's verse is
    translated, arranged by khanda.
+6. **Passages from manuscript catalogues and other finds**: verse quoted in manuscript catalogues
+   (Sahitya-Parishat-Patrika puthi reports, BSP 1923, Calcutta University 1928, Visva-Bharati), in S. C. Mitra's
+   articles (Prabasi, 1904) and elsewhere; the Dhruva episode ("Dhruva-charitra"); the baromasya in the
+   Padakalpataru redaction.
 
 Vasu's articles and Sarkar's book are in the public domain. Verse is translated line by line, without rhyme;
 corrupt passages are discussed in the translator's notes; Vasu's own notes are marked as such. Names follow
