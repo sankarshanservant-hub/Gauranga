@@ -175,3 +175,26 @@
 | অজামিল | Аджамила | Ajamila |
 | রোহিণী-তনয় | сын Рохини (Баларама) | the son of Rohini (Balarama) |
 | শনি | Шани (Сатурн) | Shani (Saturn) |
+| বনমালী (বিপ্র, ভিক্ষুক) | Ванамали (бедный брахман из Банги; не Ванамали Ачарья) | Vanamali (a poor brahmana from Banga; not Vanamali Acharya) |
+| নবীন বিধাতা, নব বিধাতা | новый Творец (навина видхата) | the new Creator (navina vidhata) |
+| মদনগোপাল | Мадана-Гопала | Madana-Gopala |
+| বহুলা, ভাণ্ডীর, মধুবন, তাল (বন) | Бахула, Бхандира, Мадхувана, Талавана | Bahula, Bhandira, Madhuvana, Talavana |
+| নৃসিংহ, নরহরি (= Нрисимха) | Нрисимха, Нрихари | Nrisimha, Nrihari |
+| সহস্রনাম | «Тысяча имён» («Вишну-сахасранама») | the "Thousand Names" (Vishnu-sahasranama) |
+| মহিম্ন-স্তব | «Махимна-става» («Шива-махимна-стотра») | the Mahimna-stava (Shiva-mahimna-stotra) |
+| ডম্বরু | дамару | damaru |
+| পাপ-পরিগ্রহ, পাপদান | принятие грехов, дар грехов | acceptance of sins, gift of sins |
+| বিজয় মিশ্র | Виджая Мишра (по-видимому, Виджая Дас) | Vijaya Mishra (probably Vijaya Dasa) |
+| জগদানন্দ | Джагадананда (Пандит) | Jagadananda (Pandita) |
+| হড্ডিপ | хаддипа (подметальщик) | haddipa (sweeper) |
+| নেত-ধটী, কোদাল, সম্মার্জনী (ঝাঁটা) | повязка-дхати, мотыга, метла | loincloth, hoe, broom |
+| চিদানন্দ | сознание и блаженство (Чидананда) | consciousness and bliss (Chidananda) |
+| কুষ্ঠব্যাধি | прокажённый | leper |
+| অকিঞ্চন-নাথ | Владыка неимущих | Lord of the destitute |
+| গদাধর-বন্ধু, গদাইর গৌরাঙ্গ | Друг Гададхары, Гауранга Гадаи | Friend of Gadadhara, Gadai's Gauranga |
+| হলায়ুধ, হলধর, বলদেব | Халаюдха, Халадхара, Баладева | Halayudha, Haladhara, Baladeva |
+| বারুণী | варуни | varuni |
+| বরাহ-ঠাকুর | Господь Вараха | Lord Varaha |
+| মুরলীবদন | Держащий у уст флейту (Мурали-вадана) | He who holds the flute to His lips (Murali-vadana) |
+| ভীষ্মক-কন্যা | дочь Бхишмаки (Рукмини) | the daughter of Bhishmaka (Rukmini) |
+| আচার্যরত্ন | Ачарьяратна (Чандрашекхара) | Acharyaratna (Chandrashekhara) |

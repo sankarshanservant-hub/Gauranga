@@ -13,6 +13,8 @@
 | @balarama | Баларама | Balarama | |
 | @rama | Рама (Рамачандра) | Rama (Ramachandra) | Рагхунатха; лила Рамы |
 | @jagannatha-deity | Джаганнатха (Божество в Пури) | Jagannatha (Deity of Puri) | |
+| @nrisimha | Нрисимха (Нарасимха) | Nrisimha (Narasimha) | аватара Человеко-льва; бхава Нрисимхи у Гауры |
+| @varaha | Вараха (Вепрь) | Varaha (the Boar) | аватара; бхава Варахи у Гауры |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -62,6 +64,9 @@
 | @srirama-pandita | Шри Рама Пандит | Sri Rama Pandita | младший брат Шривасы |
 | @nandana-acharya | Нандана Ачарья | Nandana Acharya | в его доме в Навадвипе остановился Нитьянанда |
 | @gopinatha-navadvipa | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) | спутник Господа; не путать с Гопинатхой Ачарьей (Пури) |
+| @vanamali-vipra | Ванамали (бедный брахман из Бенгалии) | Vanamali (a poor brahmana from Bengal) | пришёл с сыном, увидел в Гауре Кришну; не путать с @vanamali-acharya |
+| @jagadananda-pandita | Джагадананда Пандит | Jagadananda Pandita | |
+| @vasu-ghosha | Васу Гхош | Vasu Ghosha | певец-киртания, автор пад |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
