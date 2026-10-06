@@ -81,3 +81,17 @@
 | নৈবেদ্য | подношение (наиведья) | offering (naivedya) |
 | সিদ্ধ | сиддхи | siddhas |
 | রসকাঁটি | бусы-расаканти | rasakanti beads |
+| ভাটিয়ারী, সিন্ধুড়া, পঠমঞ্জরী, বরাড়ী (রাগ) | бхатияри, синдхура, патхаманджари, варади | bhatiyari, sindhura, pathamanjari, varadi |
+| শূদ্রমুনি | шудра-муни (мудрец не из брахманов) | shudra-muni (a sage who is not a brahmana) |
+| শঙ্করারণ্য | Шанкараранья (санньяса-имя Вишварупы) | Shankararanya (Vishvarupa's sannyasa name) |
+| মুখাগ্নি | мукхагни (огонь в уста умершему) | mukhagni (fire placed in the mouth of the dead) |
+| হাতে খড়ি | хатэ кхади («мел в руку», начало обучения) | hate khadi ("chalk in the hand", start of learning) |
+| চূড়াকরণ (চূড়াকর্ম), কর্ণবেধ | чудакарана, прокалывание ушей | chudakarana, ear-piercing |
+| উপনয়ন, উপবীত, পইতা | упанаяна, священный шнур | upanayana, sacred thread |
+| অধিবাস, নান্দীমুখ শ্রাদ্ধ | адхиваса, нандимукха-шраддха | adhivasa, nandimukha-shraddha |
+| ভেউর, কাহাল, সাহিনী (সানাই), কপিলাস, নিসান, রবাব, উপাঙ্গ, পাখোয়াজ | бхеур, кахал, сахини (санаи), капиласа, нисан, рабаб, упанга, пакхоадж | bheur, kahal, sahini (sanai), kapilasa, nisan, rabab, upanga, pakhoyaj |
+| খদিকা, কদলক | воздушный рис (кхаи), бананы | puffed rice (khai), bananas |
+| কার্য-অবতার, যুগ-অবতার | карья-аватара (аватара ради особой цели), юга-аватара | karya-avatara (avatara for a special purpose), yuga-avatara |
+| পরিচর্যা (-ধর্ম) | служение (паричарья), дхарма служения | service (paricharya), the dharma of service |
+| গোপিকা-লম্পট | жаждущий любви гопи (гопика-лампата) | the One who longs for the gopis' love (gopika-lampata) |
+| সুদর্শন (পণ্ডিত) | Сударшана (Пандит) | Sudarshana (Pandita) |
