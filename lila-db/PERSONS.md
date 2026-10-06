@@ -50,6 +50,10 @@
 | @mukunda-dasa | Мукунда Дас (Шрикханда) | Mukunda Dasa (of Shrikhanda) | брат Нарахари, отец Рагхунанданы |
 | @vrindavana-dasa | Вриндаван Дас (Тхакур) | Vrindavana Dasa (Thakura) | автор «Чайтанья-бхагаваты» |
 | @abhirama | Абхирама Тхакур (Госвами) | Abhirama Thakura (Gosvami) | Рамадас, один из двенадцати гопалов |
+| @vishnu-pandita | Вишну Пандит | Vishnu Pandita | учитель Господа в Навадвипе |
+| @sudarshana-pandita | Сударшана Пандит | Sudarshana Pandita | учитель Господа в Навадвипе; ср. диск @sudarshana |
+| @vanamali-acharya | Ванамали Ачарья | Vanamali Acharya | сват первой женитьбы Господа |
+| @vallabhacharya | Валлабхачарья (Валлабха Мишра) | Vallabhacharya (Vallabha Mishra) | отец Лакшмиприи |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

@@ -95,3 +95,15 @@
 | পরিচর্যা (-ধর্ম) | служение (паричарья), дхарма служения | service (paricharya), the dharma of service |
 | গোপিকা-লম্পট | жаждущий любви гопи (гопика-лампата) | the One who longs for the gopis' love (gopika-lampata) |
 | সুদর্শন (পণ্ডিত) | Сударшана (Пандит) | Sudarshana (Pandita) |
+| শ্রী, বিভাস, ধানশী, তুড়ী, বিহাগড়া (রাগ) | шри, вибхаса, дханаши, тури, бихагара | shri, vibhasa, dhanashi, tudi, bihagara |
+| বনমালী আচার্য | Ванамали Ачарья | Vanamali Acharya |
+| বল্লভ আচার্য (বল্লভ মিশ্র) | Валлабха Ачарья (Валлабха Мишра), Валлабхачарья | Vallabha Acharya (Vallabha Mishra), Vallabhacharya |
+| লক্ষ্মী ঠাকুরাণী | Лакшми Тхакурани | Lakshmi Thakurani |
+| বাঞ্ছাকল্পতরু | Древо исполнения желаний (ванчха-калпатару) | the Wish-fulfilling Tree (vanchha-kalpataru) |
+| দ্বিজচাঁদ | Двиджачанд («луна среди брахманов») | Dvijachand ("moon among brahmanas") |
+| আইহ-সুহ (আইও-সুইও) | замужние женщины (аихо-сухо) | married women (aiho-suho) |
+| পানী সাহা (জল সাহা) | принесение воды (пани сахи, джал-саха) | fetching of water (pani sahi, jal-saha) |
+| কুশণ্ডিকা | кушандика | kushandika |
+| শিঙ্গা, বরগো, দামামা, দগড়, দোসরি, মোহরি (মুহরি), ডিণ্ডিম | шинга, барго, дамама, дагар, досари, мохари (мухари), диндима | shinga, bargo, damama, dagar, dosari, mohari (muhari), dindima |
+| পাঁচশর | Пятистрельный (Камадева) | the Five-arrowed One (Kamadeva) |
+| মায়ামানুষবিগ্রহ | явивший по йогамайе человеческий облик | He who by yogamaya has manifested a human form |
