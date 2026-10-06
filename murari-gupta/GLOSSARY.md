@@ -70,3 +70,12 @@
 | महाप्रसाद | махапрасад | mahaprasada |
 | सन्न्यास, सन्न्यासी | санньяса, санньяси | sannyasa, sannyasi |
 | प्रक्रम, सर्ग | пракрама (часть), сарга (песнь) | prakrama (part), sarga (canto) |
+| नीलाम्बर चक्रवर्ती | Ниламбара Чакраварти | Nilambara Chakravarti |
+| मिश्र पुरन्दर (जगन्नाथ) | Мишра Пурандара | Mishra Purandara |
+| दामोदर पण्डित (ब्रह्मचारी) | Дамодара Пандит | Damodara Pandita |
+| गोपीनाथ (द्विज, नवद्वीप) | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) |
+| माधवपुरी | Мадхава Пури (= Мадхавендра Пури) | Madhava Puri (= Madhavendra Puri) |
+| वात्स्य | Ватсья (род) | Vatsya (clan) |
+| वाचस्पति, बृहस्पति | Вачаспати, Брихаспати | Vachaspati, Brihaspati |
+| भार्गव | Бхаргава | Bhargava |
+| नृहरि | Нрихари | Nrihari |
