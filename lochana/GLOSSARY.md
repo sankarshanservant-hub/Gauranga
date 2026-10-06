@@ -35,3 +35,24 @@
 | জৈমিনি-ভারত | «Джаймини-бхарата» | Jaimini-bharata |
 | নিছনি, নির্মঞ্ছন | ничхани, нирманчхана | nichhani, nirmanchhana |
 | মূর্চ্ছা (в песнях) | мурчха | murchha |
+| জৈমিনিভারত | «Джаймини-бхарата» | Jaimini-bharata |
+| নন্দী, মহাকাল | Нанди, Махакала | Nandi, Mahakala |
+| শূলপাণি, পশুপতি, যোগেশ্বর | Держащий трезубец (Шулапани), Пашупати, владыка йоги | the Trident-bearer (Shulapani), Pashupati, lord of yoga |
+| ভবানী, মহামায়া, আদ্যাশক্তি, বৈষ্ণবী | Бхавани, Махамайя, Изначальная Шакти, Вайшнави | Bhavani, Mahamaya, the primal Shakti, Vaishnavi |
+| লখিমী (লক্ষ্মী) | Лакшми | Lakshmi |
+| সুদর্শন | Сударшана | Sudarshana |
+| বৈকুণ্ঠনাথ | Владыка Вайкунтхи | the Lord of Vaikuntha |
+| মহাপ্রসাদ, উচ্ছিষ্ট, অধরামৃত | махапрасад, остатки (трапезы Господа), нектар уст | mahaprasada, remnants, nectar of the lips |
+| মালসাট | маласат (хлопки борца) | malasat (wrestler's slaps) |
+| দিগ্বাহ | носители сторон света (дигаджи) | bearers of the quarters (diggajas) |
+| কল্পতরু | древо желаний | wish-fulfilling tree |
+| উৎকলখণ্ড, প্রতাপরুদ্র | «Уткала-кханда», Пратапарудра | Utkala-khanda, Prataparudra |
+| বিরিঞ্চি, চতুর্মুখ | Брахма, Четырёхликий | Brahma, the Four-faced one |
+| সনকাদি | Санака и прочие (Кумары) | Sanaka and the others (the Kumaras) |
+| হংস (অবতার) | Хамса | Hamsa |
+| চতুঃশ্লোকী | четыре шлоки (чатух-шлоки) | the four verses (chatuh-shloki) |
+| গর্গমুনি | Гарга Муни | Garga Muni |
+| করভাজন | Карабхаджана | Karabhajana |
+| যুগ-অবতার, অংশ, কলা | аватара юги, часть, доля | yuga-avatara, portion, part |
+| সাঙ্গোপাঙ্গ (অঙ্গ, উপাঙ্গ, অস্ত্র, পার্ষদ) | с членами и приближёнными (члены, приближённые, оружие, спутники) | with limbs and sub-limbs (limbs, sub-limbs, weapons, associates) |
+| তথা (শব্দ) | «татха» («так же») | "tatha" ("likewise") |

@@ -57,3 +57,11 @@
 | @uddhava | Уддхава | Uddhava | |
 | @rukmini | Рукмини | Rukmini | |
 | @satyabhama | Сатьябхама | Satyabhama | царица Двараки |
+| @narayana | Нараяна (Вишну, Владыка Вайкунтхи) | Narayana (Vishnu, Lord of Vaikuntha) | |
+| @lakshmi | Лакшми | Lakshmi | супруга Нараяны на Вайкунтхе |
+| @sudarshana | Сударшана | Sudarshana | диск Господа |
+| @nandi | Нанди | Nandi | слуга и страж Шивы |
+| @prithivi | Притхиви (богиня Земли) | Prithivi (the Earth goddess) | Махи, Васумати |
+| @sanaka-kumaras | Санака и другие Кумары | Sanaka and the other Kumaras | сыновья Брахмы |
+| @vyasa | Вьяса | Vyasa | Вьясадева, Бадараяна |
+| @garga-muni | Гарга Муни | Garga Muni | жрец рода Ядавов; ср. @nilambara-chakravarti |
