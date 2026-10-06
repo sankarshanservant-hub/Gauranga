@@ -29,3 +29,4 @@
 | #brahmaloka | Брахмалока (Сатьялока) | Brahmaloka (Satyaloka) | обитель Брахмы |
 | #padmavati | Падмавати (река Падма) | the Padmavati (river Padma) | Восточная Бенгалия; ср. #east-bengal |
 | #mandara | Мандара (гора) | Mandara (mountain) | Бихар, на пути в Гаю; святыня Мадхусуданы |
+| #house-nandana-acharya | дом Нанданы Ачарьи | house of Nandana Acharya | Навадвипа; здесь остановился Нитьянанда |

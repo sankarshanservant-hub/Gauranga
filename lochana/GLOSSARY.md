@@ -159,3 +159,19 @@
 | কমলাক্ষ | Камалакша (мирское имя Адвайты) | Kamalaksha (Advaita's worldly name) |
 | হরি-হর | Хари-Хара | Hari-Hara |
 | ভক্ত-অবতার | аватара в облике преданного (бхакта-аватара) | the avatara in the form of a devotee (bhakta-avatara) |
+| যথারাগ | рага — любая (ятха-рага) | raga — any (yatha-raga) |
+| গোপীনাথ (দ্বিজ, নবদ্বীপ) | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) |
+| রঘুবীরাষ্টক | «Рагхувира-аштака» («Рамаштака» Мурари) | Raghuvira-ashtaka (Murari's Ramashtaka) |
+| রামদাস (Мурари) | Рамадас | Ramadasa |
+| শ্রীপাদ, অবধূত | Шрипада, Авадхута | Shripada, the Avadhuta |
+| নন্দন-আচার্য | Нандана Ачарья | Nandana Acharya |
+| কানাঞি (কানু) | Канай (Кану) | Kanai (Kanu) |
+| রেবতী | Ревати | Revati |
+| ষড়্ভুজ | шестирукий облик (шадбхуджа) | the six-armed form (shadbhuja) |
+| কৌপীন | каупина | kaupina |
+| লখিমী | Лакшми | Lakshmi |
+| সনাতন (Кумара) | Санатана (один из Кумаров) | Sanatana (one of the Kumaras) |
+| গুর্জরী (রাগ) | гурджари | gurjari |
+| অজামিল | Аджамила | Ajamila |
+| রোহিণী-তনয় | сын Рохини (Баларама) | the son of Rohini (Balarama) |
+| শনি | Шани (Сатурн) | Shani (Saturn) |
