@@ -212,3 +212,9 @@
 | ধ্রুব, উত্তানপাদ, সুরুচি, সুনীতি, উত্তম | Дхрува, Уттанапада, Суручи, Сунити, Уттама | Dhruva, Uttanapada, Suruchi, Suniti, Uttama |
 | স্বায়ম্ভুব মনু, প্রিয়ব্রত | Сваямбхува Ману, Прияврата | Svayambhuva Manu, Priyavrata |
 | দ্বাদশাক্ষর মন্ত্র | двенадцатисложная мантра | the twelve-syllable mantra |
+| ইন্দ্র, কুবের, বরুণ, বায়ু, সূর্য, চন্দ্র | Индра, Кубера, Варуна, Ваю, Сурья, Чандра | Indra, Kubera, Varuna, Vayu, Surya, Chandra |
+| বিশ্বকর্মা, গরুড় | Вишвакарма, Гаруда | Vishvakarma, Garuda |
+| কমলা (Лакшми) | Камала | Kamala |
+| ত্রিভঙ্গ | Трибханга, трижды изогнутый (Кришна с флейтой) | Tribhanga, thrice-bent (Krishna with the flute) |
+| ধ্রুবলোক, ধ্রুবপুরী | Дхрувалока, Дхрувапури | Dhruvaloka, Dhruvapuri |
+| যোগিনী | йогини | yogini |
