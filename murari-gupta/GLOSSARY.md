@@ -312,3 +312,14 @@
 | गायत्री | Гаятри | the Gayatri |
 | शचीनन्दन | Шачинандана | Shachinandana |
 | पौगण्ड, कैशोर | пауганда (отрочество), кайшора (юность) | pauganda (boyhood), kaishora (youth) |
+| श्रीरूप, सानुज (अनुपम) | Шри Рупа, его младший брат (Анупама) | Sri Rupa, his younger brother (Anupama) |
+| सनातन (गोस्वामी) | Санатана | Sanatana |
+| वेणी, माधव (वेणीमाधव) | Вени (Тривени), Мадхава (Вени-Мадхава) | the Veni (Triveni), Madhava (Veni-Madhava) |
+| गौडदेश | Гауда (Бенгалия) | Gauda (Bengal) |
+| हृषीकेश | Хришикеша | Hrishikesha |
+| कुलिया | Кулия | Kuliya |
+| श्रीधर (продавец бананов) | Шридхара | Shridhara |
+| प्रकाश (रूप) | пракаша | prakasha |
+| आराधनतिथि | день поминовения (арадхана) | day of remembrance (aradhana) |
+| गजपति | Гаджапати | the Gajapati |
+| प्रलम्बारि, मुरद्विष् | Враг Праламбы (Баларама), Враг Муры (Кришна) | the Enemy of Pralamba (Balarama), the Foe of Mura (Krishna) |
