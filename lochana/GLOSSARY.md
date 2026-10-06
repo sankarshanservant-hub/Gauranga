@@ -69,3 +69,15 @@
 | সিন্দুর, পিঠালি | синдур, питхали | sindura, pithali |
 | জন্মলীলা, বাল্যলীলা | Джанма-лила, Балья-лила | Janma-lila, Balya-lila |
 | ধীরললিত | дхира-лалита (игривый герой) | dhira-lalita (playful hero) |
+| অন্নপ্রাশন | первое кормление рисом (аннапрашана) | first rice-feeding (annaprashana) |
+| বিশ্বম্ভর | Вишвамбхара | Vishvambhara |
+| হাউ | бука («хау») | bogey (hau) |
+| স্বস্ত্যয়ন | свастьяяна | svastyayana |
+| খঞ্জন | трясогузка (кханджана) | wagtail (khanjana) |
+| মগরা (খাড়ু) | браслеты-магара (ножные) | magara anklets |
+| কুলীন | кулина (знатный род) | kulina (noble family) |
+| গিরিধর, ত্রিবিক্রম, ধরাধর | Гиридхара, Тривикрама, Дхарадхара | Giridhara, Trivikrama, Dharadhara |
+| ষষ্ঠী (-ব্রত) | Шаштхи (обет Шаштхи) | Shashthi (the vow of Shashthi) |
+| নৈবেদ্য | подношение (наиведья) | offering (naivedya) |
+| সিদ্ধ | сиддхи | siddhas |
+| রসকাঁটি | бусы-расаканти | rasakanti beads |
