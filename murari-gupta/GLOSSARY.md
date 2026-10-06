@@ -239,3 +239,34 @@
 | रामकेलि | Рамакели | Ramakeli |
 | अच्युत (अद्वैतपुत्र) | Ачьюта (сын Адвайты) | Achyuta (Advaita's son) |
 | गोपीनाथ (पुरी, गदाधरस्य) | Гопинатха (в Пури, божество Гададхары) | Gopinatha (at Puri, Gadadhara's Deity) |
+| काशीश्वर | Кашишвара | Kashishvara |
+| राघव (पण्डित), वासुदेव (दत्त) | Рагхава (Пандит), Васудева (Датта) | Raghava (Pandita), Vasudeva (Datta) |
+| शङ्कर (पण्डित) | Шанкара (Пандит) | Shankara (Pandita) |
+| खण्ड, रघुनन्दन | Кханда (Шрикханда), Рагхунандана | Khanda (Shrikhanda), Raghunandana |
+| कुलीनग्राम | Кулинаграма | Kulinagrama |
+| बलदेव (спутник Господа) | Баладева (Балабхадра Бхаттачарья) | Baladeva (Balabhadra Bhattacharya) |
+| रघुनाथ (तपनमिश्रसुत) | Рагхунатха (сын Тапаны Мишры; Рагхунатха Бхатта) | Raghunatha (Tapana Mishra's son; Raghunatha Bhatta) |
+| चन्द्रशेखर (वैद्य, Каши) | Чандрашекхара (лекарь в Каши) | Chandrashekhara (the physician of Kashi) |
+| कालिन्दी, भानुजा | Калинди, дочь Солнца (Ямуна) | the Kalindi, the daughter of the Sun (the Yamuna) |
+| विश्वेश्वर (Каши) | Вишвешвара | Vishveshvara |
+| प्रयाग, माधव (Праяги), अक्षयवट, त्रिवेणी | Праяга, Шри Мадхава (Вени-Мадхава), Акшая-ват, Тривени | Prayaga, Sri Madhava (Veni-Madhava), Akshaya-vata, the Triveni |
+| पारीन्द्र | лев | lion |
+| अग्र (वन) | лес Агры (предположительно) | the forest of Agra (conjectural) |
+| रेणुका (ग्राम), जामदग्नि | Ренука, сын Джамадагни (Парашурама) | Renuka, the son of Jamadagni (Parashurama) |
+| राजग्राम, गोकुल | Раджаграма, Гокула | Rajagrama, Gokula |
+| महारण्य, महद्वन | Махаранья, Великий лес (Махавана) | Maharanya, the Great Forest (Mahavana) |
+| कृष्णदास (द्विज, Матхура) | Кришнадас (брахман Матхуры) | Krishnadasa (the brahmana of Mathura) |
+| मधुमण्डल, मथुरामण्डल | Мадху-мандала, Матхура-мандала | Madhu-mandala, Mathura-mandala |
+| द्वादश वन: भद्र, बिल्व (श्री), लोह, भाण्डीर(क), महावन, ताल, खदिर, बहुल, कुमुद, काम्य, मधु, वृन्दावन | двенадцать лесов: Бхадра, Билва (Шри), Лоха, Бхандира, Махавана, Тала, Кхадира, Бахула, Кумуда, Камья, Мадху, Вриндавана | the twelve forests: Bhadra, Bilva (Shri), Loha, Bhandira, Mahavana, Tala, Khadira, Bahula, Kumuda, Kamya, Madhu, Vrindavana |
+| मोहन (वन) | Мохана (лес) | Mohana (forest) |
+| मानसा गङ्गा, मनोगङ्गा | Манаса-Ганга, Мано-Ганга | the Manasa-Ganga, the Mano-Ganga |
+| कंस, देवकी, वसुदेव (отец Кришны), उग्रसेन, कुब्जा | Камса, Деваки, Васудева, Уграсена, Кубджа | Kamsa, Devaki, Vasudeva, Ugrasena, Kubja |
+| रजक, मालाकार | прачка (красильщик), цветочник | the washerman (dyer), the garland-maker |
+| रङ्गस्थल, रङ्गभूमि | арена | the arena |
+| मूत्रस्थान | «место, где (Кришна) помочился» | "the place where (Krishna) passed water" |
+| गतश्रम (कृष्णमूर्ति) | Гаташрама | Gatashrama |
+| घट्ट | гхат | ghat |
+| विश्राम, श्रमशान्त, कंसखाली, प्रयाग, तिन्दु, सप्तर्षि, मोक्ष, कोटि, बोधि, शिव, गणेश (घट्ट) | Вишрама, Шрамашанта, Камсакхали, Праяга, Тинду, Саптарши, Мокша, Коти, Бодхи, Шива, Ганеша (гхаты) | Vishrama, Shramashanta, Kamsakhali, Prayaga, Tindu, Saptarshi, Moksha, Koti, Bodhi, Shiva, Ganesha (ghats) |
+| कंसकूप, अगस्त्य (कुण्ड), सप्तसामुद्र (कुण्ड) | Колодец Камсы, (пруд) Агастьи, Сапта-самудра | the Well of Kamsa, (the pond of) Agastya, Sapta-samudra |
+| भूतेश्वर (लिङ्ग) | Бхутешвара | Bhuteshvara |
+| दशाश्वमेध (घट्ट), सोमतीर्थ, कण्ठाभरण, नागतीर्थ, संयम (कुण्ड) | Дашашвамедха-гхат, Сома-тиртха, Кантхабхарана, Нага-тиртха, Самьяма | the Dashashvamedha Ghat, the Soma-tirtha, Kanthabharana, Naga-tirtha, Samyama |

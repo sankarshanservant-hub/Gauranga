@@ -80,6 +80,11 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 3, Sarga 16. Beholding Sri Jagannatha
   - Prakrama 3, Sarga 17. Mercy to Devananda
   - Prakrama 3, Sarga 18. Beholding Sri Gopinatha after the Journey through Gauda
+- **Prakrama Four**
+  - Prakrama 4, Sarga 1. Mercy to Tapana Mishra and Other Dwellers of Kashi on the Way to Vrindavana
+  - Prakrama 4, Sarga 2. Beholding Sri Mathura-mandala
+  - Prakrama 4, Sarga 3. The Account of the Twelve Forests
+  - Prakrama 4, Sarga 4. Beholding the Ghats, Wells and Other Places of Mathura-mandala
 
 ---
 
@@ -3610,3 +3615,244 @@ Bhaktisiddhanta Sarasvati.
 [^318-8]: According to the Gaudiya Vaishnavas, Gadadhara Pandita is an incarnation of Sri Radha.
 [^318-9]: In verses 26–27 the subject is not clearly expressed; the translation is conjectural.
 [^318-10]: The second half of the verse survives only in the Bengali edition (Calcutta, 1945) and plays on the words rasa (the dance), rasa (the taste of love) and Rama; the translation is conjectural. Rama is Nityananda.
+
+---
+
+# Prakrama Four
+
+---
+
+## Prakrama 4, Sarga 1. Mercy to Tapana Mishra and Other Dwellers of Kashi on the Way to Vrindavana
+
+*The Lord sings and dances at Nilachala with the devotees of Puri and of Gauda, then takes leave of them and, seeing nothing around Him but Vrindavana, hastens northward; at Kashi He stays with Tapana Mishra, blesses his son Raghunatha and turns the people of the city to devotion to Hari*
+
+**1.** Thus at Nilachala He whose mind was filled with the sankirtana of Sri Krishna sang of the rasas of the rasa dance, and danced together with Svarupa, Gadadhara and the others — He who delights in the Holy Name.
+
+**2.** Together with Sri Sarvabhauma came Sri Ramananda and the other residents of the Kshetra[^401-1], filled with the rasa of Sri Gaura, and joyfully drank in with their eyes the lotus face of the Lord.
+
+**3.** They listen to the auspicious sankirtana of the Name and sing, drowned in an ocean of bliss; and all of them dance, beside themselves, with Gaurangachandra, the crown of the kings of rasikas.
+
+**4.** Kashishvara, Rama, Mukunda and the others foremost among them, Vakreshvara, Raghava and Vasudeva, Sri Shankara, Sri Haridasa, Gauridasa and the rest — the dwellers of Gauda[^401-2] —
+
+**5.** and Sri Raghunandana and the others who live at Khanda, and the dwellers of Kulinagrama[^401-3] — all whose hearts are imbued with feeling for Gauranga — joyfully dance and sing and bow down without cease.
+
+**6.** When the dancing was over, the Lord Achyuta Himself, full of compassion for His devotees, said, "If I have your blessing, I shall go to lovely Vrindavana, so very hard to reach."
+
+**7.** They drink the nectar of Gauranga's lotus face, and though they are filled with it, they are deeply grieved. Weeping, they fall at Gauranga's lotus feet and, with straws between their teeth[^401-4], they say:
+
+**8.** "O Lord, You are the Moon of Vrindavana Himself, and yet You always ask Your servants' consent before You do anything. Then make our faces bright now with joy and bliss!"[^401-5]
+
+**9.** Hearing this, He laughed and said, "I am always with you," and with these words He quickly made ready to depart.
+
+**10.** Embracing them as they wept and consoling them again and again with the words "I shall come back," Krishna set out for auspicious Vrindavana.
+
+**11.** The Lord ran on, full of longing, like a maddened lion, and His companions, Baladeva[^401-6] and the others, devotedly ran after Him.
+
+**12.** Wherever the Supreme Lord saw hills and rivers, He saw in them Govardhana, Vrindavana and the Kalindi[^401-7].
+
+**13.** Thundering with intoxicated cries and striding like a maddened elephant, He now dances, now runs, now cries aloud, now rolls on the ground.
+
+**14.** Going on thus by stages, the Lord came to Kashi, and at the sight of the great linga of Vishveshvara[^401-8] He was overwhelmed with bliss.
+
+**15.** There a certain brahmana, a true Vaishnava named Tapana[^401-9], saw the Lord, was overjoyed and led Him to his own house.
+
+**16.** He honoured Krishna by washing His feet and with every other service; and the Teacher of the world, having taken His meal in that house and sitting at ease,
+
+**17.** stayed there, honoured also by his son Raghunatha[^401-10]; and on that great-souled boy He bestowed great mercy.
+
+**18.** And though He Himself lived in the house of Chandrashekhara the physician[^401-11], He truly turned the people of Kashi to devotion to Hari:
+
+**19.** delighting in the sankirtana of Hari and surrounded by His devotees, He would always throw up His arm and call out, "Say 'Hari'!"
+
+*Thus ends the first sarga, "Mercy to Tapana Mishra and Other Dwellers of Kashi on the Way to Sri Vrindavana" (Shri-Vrindavana-gamana-purvakam Kashi-vasi-Tapana-Mishra-adi-anugraha), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^401-1]: The Kshetra: Purushottama-kshetra, that is, Puri (Nilachala).
+[^401-2]: Rama here is apparently Nityananda; Raghava is Raghava Pandita, Vasudeva is Vasudeva Datta, and Shankara is Shankara Pandita, the brother of Damodara Pandita.
+[^401-3]: Khanda (Shrikhanda): the village of Narahari Sarakara and his nephew Raghunandana; Kulinagrama: the village of the Vasu family (Satyaraja Khan and Ramananda Vasu) in Bengal.
+[^401-4]: A straw between the teeth: a sign of utter humility and supplication.
+[^401-5]: The reading of the second half of the verse differs between the editions; the translation is conjectural.
+[^401-6]: Baladeva: the Lord's companion on the journey to Vrindavana, the brahmana Balabhadra Bhattacharya.
+[^401-7]: The Kalindi: the Yamuna, daughter of Kalinda.
+[^401-8]: Vishveshvara: the principal linga of Shiva at Kashi (Varanasi).
+[^401-9]: Tapana Mishra: a brahmana of East Bengal who had received instruction from the Lord during His travels in East Bengal and at His word had settled in Kashi.
+[^401-10]: Raghunatha: later Raghunatha Bhatta, one of the six Gosvamis of Vrindavana.
+[^401-11]: Chandrashekhara: a physician (vaidya) and scribe at Kashi, a devotee of the Lord; not to be confused with Chandrashekhara Acharyaratna of Navadvipa.
+
+---
+
+## Prakrama 4, Sarga 2. Beholding Sri Mathura-mandala
+
+*By way of Prayaga, Agra, Renuka, Rajagrama and Gokula the Lord comes to Mathura; there the brahmana Krishnadasa meets Him, and the Lord bids him reveal to Him the holy places of Mathura-mandala; the night passes in talk of the pastimes of Vraja*
+
+**1.** Then the Lord came to Prayaga and, seeing Sri Madhava[^402-1], He was filled with the nectar of the bliss of love and danced with His companions.
+
+**2.** He saw the glorious Akshaya-vata[^402-2], bathed at the Triveni[^402-3], plunged into the Yamuna and danced with the bearing of a lion.
+
+**3.** With deep rumbling cries, wrapped in tears of love and thrills of rapture, He went on and on, and having crossed the Yamuna He saw the forest of Agra[^402-4].
+
+**4.** There lies a village named Renuka, the home of the great-souled son of Jamadagni, the lord of warriors[^402-5]; to that holy place He then went.
+
+**5.** There He saw the Yamuna, ever turned toward the forest of Vrinda; then He came to Rajagrama[^402-6] and, beholding Gokula, was overwhelmed.
+
+**6.** Beholding Maharanya[^402-7], He saw Mathura too — the royal capital, endowed with great majesty and supremely beautiful,
+
+**7.** the supreme object of worship on earth even for Sri Vaikuntha and the other abodes, the place where Sri Krishna appeared, the bestower of loving devotion.
+
+**8.** At the sight of it Gaurahari, possessed by every transformation of love, laughed, danced, wept and rolled on the ground, His whole body thrilling.
+
+**9.** There a certain brahmana, best of the best, seeing Hari, lost all composure in love; his hair bristled, his voice faltered, and that virtuous man fell at the feet of the Lord of the world.
+
+**10.** "Who are you, good sir, whose composure love has shattered? By good fortune I have seen you," said the Lord Himself. And he, delighted, answered the Lord: "I am Your servant, O Lord, treasury of mercy.
+
+**11.** Though I am Krishnadasa[^402-8] in name only, yet I have had the good fortune of seeing You. O treasury of mercy, purify me with the dust of the Vaishnavas' feet, O Gaura, youthful son of Nanda!"
+
+**12.** Hearing this, the Lord was immersed in an ocean of the rasa of joy and said, "It is you who are truly a servant of Krishna. For you know all the secret pastimes of Sri Krishna's abode — tell them, O best of men!"
+
+**13.** And he said to Him, "Listen, O Keshava, O Lord! Though You Yourself take the part of a devotee, yet place Your feet in my heart and reveal Your own Madhu-mandala[^402-9]."
+
+**14.** Drinking the nectar of his words, Hari spoke in a voice as deep as a thundercloud: "By My command may the pastimes of Sri Krishna and the holy places shine forth to you with ease on every side."
+
+**15.** Then the brahmana fell for joy at His lotus feet: "O Lord, treasury of mercy! When You have placed Your feet on my head, I shall show You everything."
+
+**16.** So he spoke, intoxicated with the rasa of Gaura, dancing and weeping, his composure shattered by love; and the Lord of the gopis sang again and again of the splendour of the water-sports after the sacred rasa dance[^402-10].
+
+**17.** Thus that night Hari, in His world-enchanting play, talked happily of the sports of Vraja and, wholly filled with the rasa of bhakti, sang of the dance of the love-play of Sri Radhika and Krishna.
+
+*Thus ends the second sarga, "Beholding Sri Mathura-mandala" (Shri-Mathura-mandala-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^402-1]: Sri Madhava: Veni-Madhava, the Deity of Vishnu at Prayaga (Allahabad).
+[^402-2]: Akshaya-vata: "the undying banyan," the sacred tree at Prayaga.
+[^402-3]: The Triveni: the confluence of three rivers (the Ganga, the Yamuna and the hidden Sarasvati) at Prayaga.
+[^402-4]: Both the reading and the sense of this place are conjectural; it may also mean "and saw a forest ahead."
+[^402-5]: The son of Jamadagni is Parashurama; Renuka, Parashurama's mother, gave her name to the village (now Runakta near Agra).
+[^402-6]: Rajagrama: a village on the way to Gokula; its exact location is uncertain.
+[^402-7]: Maharanya ("the Great Forest"): Mahavana, where Gokula lies.
+[^402-8]: Krishnadasa: "servant of Krishna."
+[^402-9]: Madhu-mandala: the land of Madhu, that is, Mathura-mandala.
+[^402-10]: The water-sports: Krishna's play with the gopis in the Yamuna after the rasa dance (Bhagavata Purana 10.33).
+
+---
+
+## Prakrama 4, Sarga 3. The Account of the Twelve Forests
+
+*The Lord asks the brahmana Krishnadasa to show Him Mathura-mandala, and he describes the Yamuna and the twelve forests of Vraja — seven on the western bank and five on the eastern*
+
+**1.** Thus, having passed that night as if it were a single moment, the son of Shachi, full of eagerness, quickly called the brahmana as the night drew to its end,
+
+**2.** and said, "Show Me Mathura-mandala, My friend! Tell Me of it in such a way that I may feel the highest joy."
+
+**3.** And he replied, "O brahmana[^403-1], in the land of Mathura the Yamuna stands above all: finding delight in her,
+
+**4.** Krishna — the Lord of all lords, the Supreme Soul in human form, who delights in the rasa of the cowherd boys and the gopis — played happily, fond of the rasa dance and of sport in the water.
+
+**5.** On the western side of the Kalindi lie the glorious Madhuvana and Vrindavana, and also Kumuda, Khadira, Tala, Kamya and Bahula.
+
+**6.** To the east of her lie the forests named Bhadra, Bilva, Loha and Bhandira, and the Great Forest; on these the rasikas meditate for the sake of love.
+
+**7.** Bhadra, Shri[^403-2], Loha, Bhandira, Mahavana, Tala, Khadira, Bahula, Kumuda, Kamya, Madhu and Vrindavana —
+
+**8.** these twelve lovely forests ever bestow love for Sri Krishna. Their greatness is known to the devotees, and never to others.
+
+**9.** On the western side of the Yamuna stands the great palace of Kamsa[^403-3]; to the north of it lies the most lovely forest of Vrinda, so hard to attain.
+
+**10.** To the south-west of the city[^403-4] lies the forest named Kumuda, which gives joy to Hari; to the south of it is the forest named Khadira, which delights Krishna.
+
+**11.** To the west of Mathura is Talavana, dear to Keshava. There flows a river named Manasa-Ganga, the purifier of the worlds —
+
+**12.** west of the forest of Vrinda, at the slope of Govardhana Hill, where Sri Krishna plays at boating and other sports[^403-5].
+
+**13.** To the west of Mathura is the great hill named Govardhana, and further west still is Kamyavana, an elixir for Krishna.
+
+**14.** Near it flows the most holy and auspicious river Sarasvati, and north of Madhupuri she runs after the Yamuna.
+
+**15.** To the north-east of Mathura is the auspicious forest named Bahula, where the Slayer of Kamsa plays after crossing the Mano-Ganga,
+
+**16.** and also the forest named Mohana[^403-6]. So I have described, O mighty-armed one, the seven forests west of the Yamuna; now hear further.
+
+**17.** On her eastern bank, O lord of rasikas, are five forests; by the power of her mercy they have been revealed to me in full.
+
+**18.** Very near the Yamuna lies the Great Forest, hard to attain; to the west of it is lovely Bilva, which bestows the fruit of love for Krishna.
+
+**19.** To the north of it lie the forest named Loha, and Bhadravana as well, and the great and lovely Bhandiravana, which bestows devotion to Krishna.
+
+**20.** These twelve lovely forests are Mathura-mandala, O Lord. In them Krishna, the Lord of the lords of yoga, takes His pleasure.
+
+**21.** I shall show You each one of them, for Your favour, O Hrishikesha, will surely rest upon me — and through it comes release from the round of births."
+
+*Thus ends the third sarga, "The Account of the Twelve Forests" (Dvadasha-vana-prasanga), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^403-1]: The brahmana Krishnadasa addresses the Lord, who is a brahmana by birth.
+[^403-2]: Shri (Shrivana): another name of Bilva.
+[^403-3]: Kamsa: the king of Mathura, Krishna's uncle, slain by Him.
+[^403-4]: Literally "from her," apparently from Mathura.
+[^403-5]: Literally "with the nauka-khanda play," apparently Krishna's boat pastime with the gopis; the exact sense of the word is unclear.
+[^403-6]: The forest Mohana is not named in the lists of verses 5 and 7; it is apparently Madhuvana, which is otherwise not mentioned among the seven western forests.
+
+---
+
+## Prakrama 4, Sarga 4. Beholding the Ghats, Wells and Other Places of Mathura-mandala
+
+*Krishnadasa shows the Lord Mathura: its walls and gates, Kamsa's palace, the prison and "the place where He passed water" as the infant Krishna, the houses of Uddhava, the washerman, the garland-maker, Kubja, Vasudeva and Ugrasena, the arena, the image of Gatashrama, the twelve ghats, the Well of Kamsa and other holy places; having gone round the city, the Lord takes His meal in Krishnadasa's house*
+
+**1.** "Hear, O ocean of compassion, the auspicious account of the land of Mathura. Behold first Madhupuri, the most beautiful royal capital.
+
+**2.** On three sides a lofty fortress wall surrounds it, an excellent rampart, and to the east of the city the daughter of the Sun[^404-1] flows southward.
+
+**3.** To the north and to the south are two gates with jewelled doors; in the south-west is the royal palace, adorned with many jewels,
+
+**4.** with gates on the east and north set with jewels and diamonds; and on the north side of the palace is the dais where the king sat.
+
+**5.** In the north-west of the city is the prison, and to the south of it behold at your leisure 'the place where He passed water.'
+
+**6.** I shall tell You how it came about — listen attentively, O Lord. The noble Vasudeva, in fear of Kamsa,
+
+**7.** took Krishna and, great-hearted, was carrying Him to the cowherd settlement of Nanda. Realising that Krishna on his lap was passing water, he quickly and gladly
+
+**8.** climbed onto this stone and stood on it for a moment, O Lord; and this mark of Krishna's water remains upon the stone to this day.
+
+**9.** That is why all the people call this 'the place where He passed water.' And to the south of it — behold — is the house of Uddhava."
+
+**10.** Hearing this, the Lord gave a thunderous roar. Seeing Him roar, the best of brahmanas was alarmed, and, wise as he was, he joined his palms and said:
+
+**11.** "Hear my word, O Krishna, performer of pastimes, O Teacher of the world: be calm — the mere sight of these places will surely bring You joy.
+
+**12.** Behold: east of Uddhava's house is the house of the washerman[^404-2], and east of the washerman's house is the house of the garland-maker.
+
+**13.** South of it is the house of Kubja[^404-3], built by the gods, and south-west of Kubja's house is the splendid arena.
+
+**14.** In the south-east corner of the arena is the auspicious house of Vasudeva, and to the north-east of it is the house of Ugrasena[^404-4], built by the Creator.
+
+**15.** And south of it behold the image of Krishna as Gatashrama[^404-5]." Seeing it, Sri Gaurachandra thrilled all over.
+
+**16.** "Vishrama, Shramashanta, the ghat called Kamsakhali, Prayaga, the one named Tindu, Saptarshi, Moksha, Koti,
+
+**17.** Bodhi, Shiva, Ganesha and the rest — these are called the twelve ghats[^404-6]; know that they follow one another southward — a king among holy places, full of great splendour.
+
+**18.** In the south of the city is the arena that gave joy to Krishna[^404-7], and to the south of it behold the well dug against Sri Krishna:
+
+**19.** Kamsa dug it, and so it is called the Well of Kamsa. And to the south-west of it is a pond made by Agastya[^404-8].
+
+**20.** To the north of the city is the pond called Sapta-samudra ('Seven Oceans'). Behold the stone prepared for destroying the sons of Devaki[^404-9]
+
+**21.** by Kamsa." And, laughing, the brahmana spoke again to the laughing Lord: "To the north of it, O Lord, behold the linga Bhuteshvara[^404-10].
+
+**22.** And behold too the Yamuna joined by the Sarasvati, and the Dashashvamedha Ghat, and right there the Soma-tirtha,
+
+**23.** the tirtha called Kanthabharana, the one named Naga-tirtha, the pond named Samyama and the other holy places that crowd the whole extent of the city."
+
+**24.** Thus the Supreme Lord went round Mathura, keeping it on His right, and happily took His alms — His meal — in the house of Krishnadasa.
+
+**25.** Then, while Krishnadasa served His two feet, the Lord, remembering, spoke of the sweetness of the supreme bliss of Sri Krishna.
+
+*Thus ends the fourth sarga, "Beholding the Ghats, Wells and Other Places of Mathura-mandala" (Mathura-mandala-ghatta-kupadi-darshana), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^404-1]: The daughter of the Sun: the Yamuna.
+[^404-2]: The washerman: Kamsa's royal dyer, whom Krishna slew on entering Mathura; the garland-maker is Sudama, who crowned Krishna and Balarama with garlands (Bhagavata Purana 10.41).
+[^404-3]: Kubja: the hunchbacked maidservant of Kamsa whom Krishna made straight (Bhagavata Purana 10.42).
+[^404-4]: Ugrasena: Kamsa's father, deposed by him and restored to the throne by Krishna.
+[^404-5]: Gatashrama ("Freed from Weariness"): the image of Krishna resting after His victory over Kamsa, at the Vishrama Ghat.
+[^404-6]: Ghats: bathing steps on the bank of the Yamuna.
+[^404-7]: The arena (ranga-bhumi) where Krishna and Balarama overcame Kamsa's wrestlers.
+[^404-8]: Agastya: the great sage, a hero of the Puranas.
+[^404-9]: Devaki: Krishna's mother; Kamsa killed her infants by dashing them against a stone.
+[^404-10]: Bhuteshvara ("Lord of Beings"): a linga of Shiva, the guardian of Mathura.
