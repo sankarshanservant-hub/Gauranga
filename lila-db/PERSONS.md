@@ -11,6 +11,7 @@
 | @krishna | Кришна | Krishna | в лилах Враджи и Двараки |
 | @radha | Радха | Radha | |
 | @balarama | Баларама | Balarama | |
+| @rama | Рама (Рамачандра) | Rama (Ramachandra) | Рагхунатха; лила Рамы |
 | @jagannatha-deity | Джаганнатха (Божество в Пури) | Jagannatha (Deity of Puri) | |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
@@ -56,6 +57,8 @@
 | @vallabhacharya | Валлабхачарья (Валлабха Мишра) | Vallabhacharya (Vallabha Mishra) | отец Лакшмиприи |
 | @sanatana-mishra | Санатана Мишра (Санатана Пандит) | Sanatana Mishra (Sanatana Pandita) | отец Вишнуприи; не путать с @sanatana-gosvami |
 | @kashinatha | Кашинатха (Мишра) | Kashinatha (Mishra) | брахман-сват второй женитьбы Господа |
+| @vakreshvara | Вакрешвара Пандит | Vakreshvara Pandita | |
+| @shridhara | Шридхара (Кхолавеча) | Shridhara (Kholavecha) | Шридхара Пандит Навадвипы |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

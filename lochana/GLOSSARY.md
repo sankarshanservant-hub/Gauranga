@@ -127,3 +127,27 @@
 | বিষ্ণুপ্রিয়া | Вишнуприя | Vishnupriya |
 | গণক | астролог | astrologer |
 | অহল্যা | Ахалья | Ahalya |
+| রামকেলি, করুণ-শ্রী (রাগ) | рамакели, каруна-шри | ramakeli, karuna-shri |
+| ধূলাখেলা (-জাত) | напев «дхулакхела» | the tune "dhulakhela" |
+| দণ্ডিম | дандима (значение неясно) | dandima (meaning unclear) |
+| গৃধিনী | коршун (гридхини; в сравнении ушей) | vulture (gridhini; in the simile of ears) |
+| রামকদলী (রাম-কদলক) | банан рамакадали | ramakadali plantain |
+| চতুর্দোল | носилки (чатурдола) | palanquin (chaturdola) |
+| মহালক্ষ্মী (о Вишнуприи) | Махалакшми | Mahalakshmi |
+| ব্রহ্মণ্য (দেব) | Брахманья («благой к брахманам») | Brahmanya ("kind to brahmanas") |
+| চির (নদী), মন্দার, পুনঃপুনা, রাজগিরি, ব্রহ্মকুণ্ড | река Чира, Мандара, Пунахпуна, Раджагири, Брахма-кунда | the river Chira, Mandara, Punahpuna, Rajagiri, Brahma-kunda |
+| ফল্গু, প্রেতশিলা, উদীচী, দক্ষিণমানস, উত্তরমানস, জিহ্বালোল, ষোড়শ বেদী | Пхалгу, Преташила, Удичи, Дакшина-манаса, Уттара-манаса, Джихвалола, Шестнадцать алтарей | the Phalgu, Pretashila, Udichi, Dakshina-manasa, Uttara-manasa, Jihvalola, the Sixteen Altars |
+| বিষ্ণুপদ, গয়াশির | Вишнупада, глава Гаи | the Vishnupada, the head of Gaya |
+| ন্যাসিবর, মহাভাগবত | лучший из санньяси, маха-бхагавата | the best of sannyasis, maha-bhagavata |
+| গোপীনাথ-মহামন্ত্র | великая мантра Гопинатхи | the great mantra of Gopinatha |
+| ধবলী, শাঙলী | Дхавали, Шангали (коровы) | Dhavali, Shangali (cows) |
+| মধুপুরী | Мадхупури (Матхура) | Madhupuri (Mathura) |
+| প্রেমদান-লীলা | Према-дана-лила | Prema-dana-lila |
+| শুক্লাম্বর ব্রহ্মচারী | Шукламбара Брахмачари | Shuklambara Brahmachari |
+| বক্রেশ্বর, শ্রীধর, শ্রীমান্, সঞ্জয়, ধনঞ্জয়, নীলাম্বর | Вакрешвара, Шридхара, Шриман, Санджая, Дхананджая, Ниламбара | Vakreshvara, Shridhara, Shriman, Sanjaya, Dhananjaya, Nilambara |
+| শ্রীরাম পণ্ডিত, মহেশ পণ্ডিত, নন্দন আচার্য, রুদ্র পণ্ডিত, দামোদর পণ্ডিত | Шри Рама Пандит, Махеша Пандит, Нандана Ачарья, Рудра Пандит, Пандит Дамодара | Sri Rama Pandita, Mahesha Pandita, Nandana Acharya, Rudra Pandita, Pandita Damodara |
+| গান্ধর্বা, গান্ধর্বিকা | Гандхарвика (Радха) | Gandharvika (Radha) |
+| কিশোর-কিশোরী | Кишора и Кишори, Юная Чета | Kishora and Kishori, the Youthful Couple |
+| পদ্যাবলী | «Падьявали» | Padyavali |
+| মূল প্রকৃতি | изначальная пракрити (шакти) | the original prakriti (shakti) |
+| নামাভাস, কৈবল্য | намабхаса, кайвалья | namabhasa, kaivalya |

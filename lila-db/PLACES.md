@@ -28,3 +28,4 @@
 | #vaikuntha | Вайкунтха | Vaikuntha | обитель Нараяны |
 | #brahmaloka | Брахмалока (Сатьялока) | Brahmaloka (Satyaloka) | обитель Брахмы |
 | #padmavati | Падмавати (река Падма) | the Padmavati (river Padma) | Восточная Бенгалия; ср. #east-bengal |
+| #mandara | Мандара (гора) | Mandara (mountain) | Бихар, на пути в Гаю; святыня Мадхусуданы |
