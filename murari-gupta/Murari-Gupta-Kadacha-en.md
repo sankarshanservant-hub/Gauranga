@@ -101,6 +101,9 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 4, Sarga 18. The Play on Lake Narendra
   - Prakrama 4, Sarga 19. The Kirtana of Gauranga Performed by Sri Advaita Prabhu
   - Prakrama 4, Sarga 20. The Play in the Gundicha Temple
+  - Prakrama 4, Sarga 21. Grace to Ramadasa
+  - Prakrama 4, Sarga 22. The Festival of the Meeting of Sri Nityananda and Advaita
+  - Prakrama 4, Sarga 23. The Pastimes of Sri Nityananda
 
 ---
 
@@ -4825,3 +4828,205 @@ Bhaktisiddhanta Sarasvati.
 [^420-6]: Sudarshana, the Lord's disc, worshipped on the chariot together with Subhadra.
 [^420-7]: The meeting of Krishna with the people of Vraja at Kurukshetra; at the Ratha-yatra the Lord, in Radha's mood, as it were brings Krishna back from Kurukshetra to Vrindavana (the Gundicha temple).
 [^420-8]: That is, Krishna Himself, having assumed in the form of Gauranga the mood and lustre of Radha, enjoys at Gundicha, as in Vrindavana, the treasure of His own abode.
+
+---
+
+## Prakrama 4, Sarga 21. Grace to Ramadasa
+
+*Jagannatha returns from Gundicha; the Lord sends home the devotees of Gauda and sends Nityananda to Bengal; a poor brahmana from Dravida and Vibhishana at Gaura's feet*
+
+**1.** Thus for three days Krishna sports there, in the jewelled temple, the circle of the rasa dance, as the Lord of the devotees beholds it.
+
+**2.** When the Lord of the world, the Master of the Blue Mountain, whom the Gajapati king serves, had stayed lovingly at Gundicha for nine days together with His elder brother, Gaurachandra, following His chariot with the whole host of devotees,
+
+**3.** celebrated the processions of Hora-panchami and the festival of Sri Lakshmi's victory[^421-1]; and then Sri Purushottama of the pastimes went to Nilachala.
+
+**4.** After this Sri Shachinandana Hari, together with Rama, the son of Padmavati[^421-2], and with the Vaishnavas, beholds the younger brother of Rama seated in the midst of the glorious jewelled throne.
+
+**5.** "On the Blue Mountain, in the midst of the Conch, on a hundred-petalled lotus, He sits upon a jewelled throne, adorned with every ornament, lovely as a fresh rain cloud, together with His elder brother; He is at Bhadra's left, and the wheel is with Him; Brahma, Rudra and the others worship Him. Him, the one essence of the Vedas, full of all qualities, the Supreme Brahman in His fullness[^421-3], I remember."
+
+**6.** Having meditated on Him thus, Krishna went to the flower garden of Mishra[^421-4], and, seated comfortably there, He sent home the devotees who lived in Gauda —
+
+**7.** the Lord sent them back for the happiness of His mother, for she is devotion to Sri Hari embodied, love embodied[^421-5].
+
+**8.** Embracing Nityananda and taking both His hands, He said in a faltering voice, "Go to Gauda: You are the Lord.
+
+**9.** Let it be known that Your body is the keeper of My trust. Knowing this, Prabhu, You are free to act as You wish.
+
+**10.** Those who are called fools, low, dull and blind, and all other sinners — make every one of them worthy of love for Krishna."
+
+**11.** Laughing, Nityananda replied, "Prabhu, I am Your dancer. I shall do as You command, for You are the director of the play[^421-6]."
+
+**12.** While the two were talking thus in the company of Svarupa and his companions, of Sri Paramananda Puri, Ramananda and others,
+
+**13.** a certain poor brahmana from Dravida, a man of excellent understanding, arrived; he had come for wealth, and out of longing to see Jagannatha.
+
+**14.** Having laid his need before Jagannatha, he stayed there for seven whole days, awaiting an answer.
+
+**15.** Not obtaining what he desired, he went in sorrow to the seashore, and there he met Vibhishana[^421-7], who by providence had come to the same place.
+
+**16.** He asked him, "Tell me, who are you, and where are you going? I have been going for seven days to have the darshana of Sri Jagannatha."
+
+**17.** "My name is Vibhishana," he answered, and went on his way; and the brahmana — truly a mountain of good fortune — went along with him.
+
+**18.** Sri Vibhishana came to Gaurachandra, and seeing His holy feet he fell to the ground like a rod.
+
+**19.** Seeing this wonder, the brahmana, flooded with love, began to praise his poverty and his sorrow, and danced in delight.
+
+**20.** Then the Lord, the Master, the wish-fulfilling tree, said to Vibhishana, "Give wealth to this best of brahmanas,
+
+**21.** and satisfy him, so that he may be freed from the disease of sorrow." With joined palms Vibhishana took these words upon his head.
+
+**22.** Hearing this, the best of brahmanas said, "Do not abandon me! Grant that I may attain Your feet, O Teacher of the world!
+
+**23.** O Jagannatha, Hrishikesha, You who carry souls across the ocean of samsara! You Yourself are Krishna, who gives love to the fallen: deliver me!"
+
+**24.** The ocean of compassion said to him, "Go to your home. Enjoy these goods, and then give them up: one who constantly worships the feet of Sri Krishna
+
+**25.** attains devotion, and the wealth of love comes to him." Hearing this, the brahmana bowed down and went home.
+
+**26.** And Vibhishana, having praised Him and bowed again and again, went to his lovely home, meditating on His lotus feet.
+
+*Thus ends the twenty-first sarga, "Grace to Ramadasa"[^421-8], of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^421-1]: Hora-panchami (usually Hera-panchami): the fifth day after the chariots set out, when Lakshmi, left behind in the temple, comes to Gundicha in search of Jagannatha; the "festival of Lakshmi's victory" is the celebration connected with her coming.
+[^421-2]: Padmavati is the mother of Nityananda; Rama is Nityananda (Balarama). "The younger brother of Rama" is Krishna, that is, Jagannatha.
+[^421-3]: A meditation from the Puranas: Puri (Sri Kshetra) has the shape of a conch; "the wheel" is the Sudarshana. "The Supreme Brahman" here is not an impersonal effulgence but the Lord Jagannatha Himself, possessed of form, ornaments and all qualities (cf. Bhagavad-gita 14.27: "I am the basis of Brahman").
+[^421-4]: Probably Kashi Mishra, in whose house the Lord lived at Puri.
+[^421-5]: The reading of this passage in the editions is corrupt; the translation follows the sense.
+[^421-6]: The sutradhara: the director of a stage play, "the holder of the strings"; all His companions are actors in His lila.
+[^421-7]: Vibhishana: Ravana's brother, the great devotee of Ramachandra, who received long life from Him; tradition holds that he comes to Puri for the darshana of Jagannatha.
+[^421-8]: Ramadasa means "servant of Rama." The name does not occur in the text of the sarga; probably Vibhishana, the servant of Ramachandra, is meant (the Lord also gave this name to Murari himself; see 2.07.18).
+
+---
+
+## Prakrama 4, Sarga 22. The Festival of the Meeting of Sri Nityananda and Advaita
+
+*Nityananda comes to Gauda: His bathing and adornment in the house of Raghava Pandita at Panihati; play with His cowherd friends; Gadadhara Dasa; Saptagrama and the Triveni; Uddharana; the meeting with Advaita at Shantipura*
+
+**1.** Then Sri Gaurachandra, surrounded by the host of His devotees, smiled and spoke to Nityananda again:
+
+**2.** "What I told You before You must surely carry out: go now to Gauda!" Hearing this, the Prabhu set off laughing
+
+**3.** to the lovely town of Panihati[^422-1], where Raghava Pandita had his home. The brahmana bowed before Him, and He, in great joy, clasped him to His breast and said:
+
+**4.** "Raghava, quickly perform My ceremonial bath with fragrant water, and adorn Me with sandal, flowers and all the rest.
+
+**5.** Adorn My body with jewels as well — of gold, silver, coral, gems and pearls —
+
+**6.** so that the heart's desire of Gaurachandra, the Lord of My life, ever full of being, consciousness and bliss, may be fulfilled."
+
+**7.** Hearing all this, the brahmana joyfully had everything prepared at once by his people; with the fragrant water of the river of the gods[^422-2]
+
+**8.** he bathed Him, immersing Him in it, adorned Him with jewels, with scents, sandal and flowers, and fell before Him on the ground like a rod.
+
+**9.** Adorned with every ornament, He shone like the son of Nanda — for He is Baladeva Himself, who Himself has taken the form of a cowherd boy.
+
+**10.** And His friends headed by Shridama, in the form of the cowherd boys of Vraja, adorned with vamshi and venu flutes, horns and other ornaments —
+
+**11.** Sri Rama, Sundara, Gauridasa[^422-3] and other great souls who love kirtana — ever sport in Nityananda's company.
+
+**12.** Thus the Lord Rama played with them in the waters of the Jahnavi and danced the tandava in house after house of His devotees;
+
+**13.** rejoicing in bliss, He came to the house of Gadadhara[^422-4]. Gadadhara, filled with the mood of the gopis, was overwhelmed with love on seeing Him;
+
+**14.** together with Him, blissful in kirtana, he came to the town of Saptagrama[^422-5], and on the bank of the Triveni, while Gauranga's qualities were being sung,
+
+**15.** he danced in supreme bliss, displaying the mood of the gopis. And Nityananda, the giver of the bliss of Gauranga's kirtana,
+
+**16.** having raised great rejoicing there, went to the house of Purandara[^422-6] and gave him happiness with the rasa of love.
+
+**17.** There, where all the seven sages lovingly remember the feet of the Lord — the place that the knowers of the Vedas call Mukta-veni[^422-7] —
+
+**18.** the currents of the Ganga, the Yamuna and the Sarasvati ever flow, and to see them is a great festival.
+
+**19.** By bathing there, or even by remembering it, people attain liberation — and attain devotion to Hari, which destroys every sorrow[^422-8].
+
+**20.** There Nityananda Prabhu performs, in house after house of the merchants, a great sankirtana of the name of Krishna Chaitanya.
+
+**21.** The joy of sankirtana that once there was in Navadvipa — that same supreme joy came here too by Nityananda's grace.
+
+**22.** Having stayed in the house of Uddharana[^422-9], the Teacher of the world, immersed in the rasa of Gaurachandra, then went with him to Shantipura.
+
+**23.** Seeing Nityananda's face, the wise Srila Advaita filled all the quarters with a thundering "hu-hum,"
+
+**24.** praised Him with the greatest joy and bowed down again and again. And the Prabhu embraced him and bowed to him in turn; having stayed there happily
+
+**25.** and given joy to him as well, the Prabhu, intoxicated with Gauranga's qualities, He who gladdens the world, went on to Navadvipa.
+
+*Thus ends the twenty-second sarga, "The Festival of the Meeting of Sri Nityananda and Advaita" (Shri-nityananda-advaita-sangotsava), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^422-1]: Panihati: a village on the Ganga north of Calcutta; Raghava Pandita, a companion of the Lord, lived there.
+[^422-2]: That is, the Ganga.
+[^422-3]: Sri Rama is apparently Ramadasa (Abhirama), Shridama in Krishna's lila; Sundara is Sundarananda; Gauridasa is Gauridasa Pandita. All of them are cowherd friends of Krishna and Balarama in Vraja.
+[^422-4]: Gadadhara Dasa, a companion of Nityananda, whose heart was filled with the mood of the gopis (not to be confused with Gadadhara Pandita).
+[^422-5]: Saptagrama: an old trading town in Bengal, near the place where the Ganga, the Yamuna and the Sarasvati part (the Triveni).
+[^422-6]: Apparently Purandara Pandita, one of Nityananda's companions.
+[^422-7]: Mukta-veni ("the loosened braid"): the place in Bengal where the three rivers part, as distinct from the Yukta-veni ("the bound braid"), their confluence at Prayaga.
+[^422-8]: Liberation is only a by-product of the holy place; its highest gift is devotion to Hari, for whose sake Nityananda came there with the sankirtana.
+[^422-9]: Uddharana Datta: a companion of Nityananda from Saptagrama, of the merchant community.
+
+---
+
+## Prakrama 4, Sarga 23. The Pastimes of Sri Nityananda
+
+*Nityananda with Shachi: she sees Rama and Krishna eating her food; Nityananda's appearance; robbers become devotees; Krishnadasa of Badagachhi; Nityananda fills the world with the name of Krishna Chaitanya*
+
+**1.** Coming then to Navadvipa, eager above all to see Sri Shachi, He bowed at her feet and said, "Mother, I have come, and I am happy!"
+
+**2.** Hearing this, the mother at once placed both her hands on His head, called Him "my child," and kissed Him again and again.
+
+**3.** She said sweetly, "Child, stay in my house, so that I may always see You — You who cut away sorrow."
+
+**4.** Laughing, He replied to her, "Mother, listen, I will tell you the truth: I and My younger brother[^423-1] always live beside you, always close to you.
+
+**5.** The food you cook is filled with the nectar of Sri Krishna's lips[^423-2] — it is out of longing for it, Mother, that I always stay near you."
+
+**6.** Hearing this, she laughed; and excellent cooked shali rice, dal, sweet rice and other dishes — all that wonderful food —
+
+**7.** she offered to Him, gazing at His lotus face. And He who loves His devotees began to eat, laughing, together with His younger brother.
+
+**8.** Seeing Rama and Krishna eating, she was plunged in an ocean of joy. Seeing her thus, Nityananda, the treasury of mercy,
+
+**9.** said, "Mother, tell Me now: are My words true?" She replied, "Child, Your words are true, like the word of the Lord Himself.
+
+**10.** And yet I wish always to see You together with Your younger brother." — "As you command, Mother: it is My task unceasingly to bring you joy."
+
+**11.** Thus, staying there, Nityananda, the giver of every joy, brought supreme bliss to the residents of Navadvipa;
+
+**12.** He made all people imbued with the rasa of Krishna Chaitanya, and, blissful in Gauranga's kirtana, He danced with His own people.
+
+**13.** His body was anointed with scents and sandal; He was clad in blue garments and adorned with ornaments of gold, silver, coral and the like;
+
+**14.** His beautiful lotus mouth was filled with camphor, betel and other spices; He held an iron staff and was adorned with a silver necklace and the Kaustubha[^423-3];
+
+**15.** beautiful, wearing a single earring[^423-4], adorned with a forest garland, flute in hand, He ceaselessly sang Gauranga's qualities.
+
+**16.** Gangs of thieves and robbers, seeing His ornaments, made every effort to steal them — the villains!
+
+**17.** But the great Prabhu Nityananda, full of mercy, made those very men full of the bliss of Gauranga's kirtana.
+
+**18.** Thus sporting, rapt in the rasa of Krishna Chaitanya, He performs all kinds of pastimes in the play of a cowherd boy.
+
+**19.** Coming to the bank of the Ganga and sporting in the houses of His devotees, the Prabhu, full of affection, came to the house of Krishnadasa.
+
+**20.** He, a resident of Badagachhi[^423-5], having attained the unattainable Lord, was beside himself with bliss and danced, waving his cloth.
+
+**21.** The village called Badagachhi is most holy: there the pastimes of Nityananda-svarupa were destined to unfold.
+
+**22.** Together with Krishnadasa, surrounded by Ramadasa[^423-6] and others, sporting and blissful in kirtana, He came back to Sri Navadvipa.
+
+**23.** Having filled the three worlds with the name of Sri Krishna Chaitanya, He shone with His cowherd boys as once in Nanda's Vraja —
+
+**24.** surrounded by associates adorned with staffs, vamshi flutes, horns, venu flutes and gunja garlands, who rained down the nectar of Krishna's kirtana —
+
+**25.** Baladeva Himself, the cowherd who sports in Vrindaranya, dear as life to Gauranga, showing the world that very form.
+
+*Thus ends the twenty-third sarga, "The Pastimes of Sri Nityananda" (Shri-nityananda-vilasa), of the fourth prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^423-1]: Nityananda is Balarama, and His younger brother is Krishna, who has appeared as Gauranga, the son of Shachi.
+[^423-2]: That is, the Lord Himself eats what she cooks, and the food becomes His prasada, filled with the nectar of His lips.
+[^423-3]: The Kaustubha: the jewel on the Lord's chest.
+[^423-4]: A single earring is a mark of Balarama.
+[^423-5]: Badagachhi: a village in Bengal; Krishnadasa was a companion of Nityananda who lived there.
+[^423-6]: Ramadasa: apparently Abhirama (Ramadasa), a companion of Nityananda, Shridama in Krishna's lila (cf. 4.22.11).

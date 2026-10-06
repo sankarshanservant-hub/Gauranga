@@ -341,3 +341,7 @@
 | श्वेतद्वीप | Шветадвипа | Shvetadvipa |
 | स्नानयात्रा, अनवसर, नेत्रोत्सव, रथयात्रा (स्यन्दनोत्सव) | Снана-ятра, анавасара, Нетротсава, Ратха-ятра (праздник колесниц) | the Snana-yatra, the anavasara, the Netrotsava, the Ratha-yatra (chariot festival) |
 | सुभद्रा, सुदर्शन (चक्र), सुमेरु, कुरुक्षेत्र | Субхадра, Сударшана (диск), Сумеру, Курукшетра | Subhadra, Sudarshana (the disc), Sumeru, Kurukshetra |
+| होरापञ्चमी, लक्ष्मीविजयोत्सव | Хора-панчами (Хера-панчами), праздник победы Лакшми | Hora-panchami (Hera-panchami), the festival of Lakshmi's victory |
+| पद्मावती (мать Нитьянанды), विभीषण, रामदास (колофон 4.21) | Падмавати, Вибхишана, Рамадас | Padmavati, Vibhishana, Ramadasa |
+| पानिहाट, सप्तग्राम, त्रिवेणी (मुक्तवेणी), बडगाछी | Панихати, Саптаграма, Тривени (Мукта-вени), Бадагачхи | Panihati, Saptagrama, the Triveni (Mukta-veni), Badagachhi |
+| गदाधर (दास), पुरन्दर (पण्डित?), उद्धारण (दत्त), सुन्दर(ानन्द), श्रीराम/रामदास (अभिराम), कृष्णदास (Бадагачхи) | Гададхара (Дас), Пурандара (Пандит?), Уддхарана (Датта), Сундара(нанда), Шри Рама / Рамадас (Абхирама), Кришнадас | Gadadhara (Dasa), Purandara (Pandita?), Uddharana (Datta), Sundara(nanda), Sri Rama / Ramadasa (Abhirama), Krishnadasa |
