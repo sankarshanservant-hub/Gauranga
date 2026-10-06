@@ -174,3 +174,8 @@
 | भीष्मात्मजा | дочь Бхишмаки (Рукмини) | Bhishmaka's daughter (Rukmini) |
 | भगवती, चाण्ड | Богиня (Бхагавати), почитатель Чанди | the Goddess (Bhagavati), a votary of Chandi |
 | मलय (पवन) | ветер с Малаи | the breeze from Malaya |
+| शुक | Шука | Shuka |
+| शङ्कर | Шанкара (Шива) | Shankara (Shiva) |
+| मुकुन्द (эпитет Господа) | Мукунда | Mukunda |
+| कण्टक (ग्राम, पुरी) | Кантака (= Кантаканагара) | Kantaka (= Kantakanagara) |
+| साधु (купец) | купец | merchant |

@@ -59,6 +59,11 @@ Bhaktisiddhanta Sarasvati.
   - Prakrama 2, Sarga 14. Absorption in Balabhadra
   - Prakrama 2, Sarga 15. Description of the Gopis' Mood — Bhakti-yoga
   - Prakrama 2, Sarga 16. The Manifestation of All Energies
+  - Prakrama 2, Sarga 17. The Admonition of Sri Murari Gupta
+  - Prakrama 2, Sarga 18. The Prelude to Sannyasa
+- **Prakrama Three**
+  - Prakrama 3, Sarga 1. The Words of the Women of Kantakanagara
+  - Prakrama 3, Sarga 2. The Purification of the Ashrama of Sannyasa
 
 ---
 
@@ -2306,3 +2311,252 @@ Bhaktisiddhanta Sarasvati.
 [^216-6]: Kamala is Lakshmi, the Lord's eternal consort.
 [^216-7]: The Goddess (Bhagavati) is the original energy of the Lord, possessing all powers.
 [^216-8]: Chandi is the fierce Goddess (Durga). The Lord jokes: people will take those devoted to Him in the form of the Goddess for Shaktas, votaries of Chandi.
+
+---
+
+## Prakrama 2, Sarga 17. The Admonition of Sri Murari Gupta
+
+*For a week the Lord's wondrous radiance lingers; Srivasa asks about the dharma of the ages, and the Lord speaks of the holy name; the Lord longs to leave for Mathura, and Murari holds Him back*
+
+**1.** In the homestead of Sri Chandrashekhara Acharyaratna[^217-1], where Mahaprabhu had danced, a radiance shone forth — wondrous in very truth.
+
+**2.** For seven days Hari's radiance was cool like moonlight, yet dazzling to the eyes like lightning — pure and gladdening to the heart.
+
+**3.** All who came there said, "How is it that we cannot open our eyes? It is as if we were seeing lightning on the earth!"
+
+**4.** Hearing this, the Vaishnavas, out of joy, said nothing: those greatly fortunate souls knew the truth of it, but did not reveal it to people turned away from God.
+
+**5.** Then Srivasa asked Bhagavan, the teacher of the world, "The chanting of Hari's name is declared for the age of Kali alone.
+
+**6.** Is the fruit of the Satya age and the others, then, in any way less?[^217-2]" Hearing this, Bhagavan replied, "Listen, and I shall tell you.
+
+**7.** In the Satya age, when dharma is whole, the fruit is attained by meditation alone; in the Treta age the same fruit comes by sacrifice alone; in the Dvapara age,
+
+**8.** by worship. But in Kali people, because of their sins, are capable of none of these; and so Hari Himself, Bhagavan, the Lord, has come in the form of the name and shone forth[^217-3].
+
+**9.** In Krita and the ages that follow, the three ways — meditation, sacrifice, worship and the rest — are carried out by human strength; but in the terrible, sinful age of Kali He comes Himself."
+
+**10.** Hearing this, the brahmana Srivasa, the best of pandits, rejoiced and recognized the auspicious holy name as the essence of all the aims of human life.
+
+**11.** Thus, performing the sankirtana of Hari in town after town, the Lord — Hari, the Sovereign of the worlds — delivered the mlechchhas and others.
+
+**12.** One day Bhagavan, bathed in tears, said, "I can no longer stay here. I am going to the city of Mathura."
+
+**13.** In the anguish of separation from Krishna He broke His sacred thread[^217-4]. Hearing His words, the humble physician Murari said:
+
+**14.** "Bhagavan, You can do anything, You know all truths; You are free to go or to stay. Even so, by the way of the noble[^217-5], You surely ought not to go.
+
+**15.** If You, O Lord, act as You alone will, then all people too will act as they will — and fall into impurity.
+
+**16.** Consider this, dear one: that You Yourself should pass from Your own ashrama into another — which of the greatest would say it must be so?
+
+**17.** Should You leave today, it will be the end of all embodied beings: they will be left without Chaitanya, without consciousness[^217-6]. What more can I say to You?"
+
+**18.** Hari was ever surrounded by His devotees, Nityananda was with Him, and Gadadhara served Him with fragrances and other offerings — for He dwells among His devotees[^217-7].
+
+**19.** Hearing Murari's words, Bhagavan fell silent, overwhelmed by love; all His desires were fulfilled in the bliss of Krishna's sankirtana.
+
+*Thus ends the seventeenth sarga, "The Admonition of Sri Murari Gupta," of the second prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+[^217-1]: Chandrashekhara Acharyaratna was the Lord's maternal uncle; the play described in sargas 2.15–16 was staged in his house.
+[^217-2]: Srivasa asks: if the chanting of the name is declared specifically for the Kali age, are the ways of the other ages not inferior to it? The Lord's answer (vv. 7–9) shows that in every age the same fruit is attained, but in Kali the Lord comes Himself — as the holy name.
+[^217-3]: The name of Hari is not different from Hari Himself.
+[^217-4]: The sacred thread is the mark of the twice-born householder; by breaking it the Lord foreshadows His leaving home and accepting sannyasa.
+[^217-5]: The reading and sense of this passage are not entirely clear.
+[^217-6]: A play on words: "bereft of consciousness" in Sanskrit is "bereft of chaitanya."
+[^217-7]: Literally "going with the devotees" (bhakta-ga).
+
+---
+
+## Prakrama 2, Sarga 18. The Prelude to Sannyasa
+
+*In a dream the Lord is given the mantra of sannyasa; Keshava Bharati comes to Navadvipa; the Lord consoles Srivasa, instructs Murari, and in Kantakanagara accepts sannyasa. End of the second prakrama*
+
+**1.** Some days later Bhagavan, who had taken a human form for the sake of His mission, said, "I dreamt that a certain excellent brahmana came to Me,
+
+**2.** and, smiling sweetly, spoke the mantra of sannyasa into My ear. Since hearing it I have been grieving, weeping by night and by day.
+
+**3.** How can I abandon dear Hari, My Lord? What else could befit Me?" Hearing this, Murari said, "In that mantra is Bhagavan Himself.
+
+**4.** Understand it in Your mind as a compound in the genitive case, and be happy[^218-1]."
+
+**5.** To this the Lord replied, "Still My mind is troubled. What am I to do with the power of words?[^218-2]" And saying this, He wept.
+
+**6.** Hearing this, all were stricken, distraught at the coming separation from Krishna — like the fair-browed maidens of Vraja, distraught when Krishna's journey to Mathura was at hand.
+
+**7.** Some days later the venerable Keshava Bharati came there — the best of sannyasis, mighty and blazing like the sun.
+
+**8.** He came of his own accord, brought by all the merits he had earned in former births. And there, by good fortune, he saw Krishna, shining like molten gold —
+
+**9.** the lotus-eyed Hari, overwhelmed by love. Seeing Him, the best of sannyasis was filled with bliss.
+
+**10.** Bhagavan, the Lord Himself, seeing the lord of sannyasis before Him, was filled with the bliss of love; He rose and bowed down to him.
+
+**11.** Seeing Him bathed in streams of the tears of love for Krishna, the venerable Keshava Bharati, a man of great understanding, was pleased and said:
+
+**12.** "You are Shuka or Prahlada — of this I am certain. Or else You are Bhagavan Himself, the Lord, the cause of all?"
+
+**13.** Hearing such praise of Himself, the great-minded Lord was pained, and He wept twice as much, flooded with streams of the tears of love.
+
+**14.** Then the best of sannyasis, astonished at what he saw, said to Bhagavan, "You are Krishna, the Lord — of this there is no doubt."
+
+**15.** Hearing such great praise of Himself, the Lord was dismayed; He bowed to the best of sannyasis and went to His own house.
+
+**16.** And Bhagavan — the purifier of all beings, the abode of Shri — resolved to take sannyasa, leaving His prosperous home.
+
+**17.** Then Mukunda said to the Vaishnavas, "O best of the twice-born! Look upon the Lord, the womb of the world, while He is still here:
+
+**18.** in a little while the teacher of the world will leave His home and go." Hearing the words of the wise Mukunda, all were stricken with grief.
+
+**19.** Then Bhagavan said to Srivasa, the bull among the twice-born, "It is for your sake, for the sake of love, that I shall go to distant lands.
+
+**20.** As merchants[^218-3] sail by ship to distant lands and, bringing back wealth from there, give it to their kin, so shall I:
+
+**21.** I shall bring from distant lands and give you an unbroken stream of love, by which you will behold Sri Krishna, worshipped by all the gods."
+
+**22.** Hearing this, Srivasa again spoke to the Lord, Sri Hari: "O Lord, how shall I stay alive when parted from You?"
+
+**23.** Bhagavan replied, "I Myself abide always in your shrine, O king of brahmanas. Do not wonder at this."
+
+**24.** Hearing His words, the bull among the twice-born was amazed: "The Lord pervades all — whose power could ever hold Him?"
+
+**25.** Then, in the evening, Hari in His compassion came with Sri Haridasa to Murari's house, and Murari fell at Hari's feet.
+
+**26.** Having bowed, glad at heart he brought and offered Him a seat; then he bowed to Haridasa and himself stood close by.
+
+**27.** And the ocean of mercy said to Murari, "Hear My word: that to which you have always been indifferent, do from now on as I tell you[^218-4].
+
+**28.** Listen to Me attentively: today I give you an instruction — keep it firmly in mind.
+
+**29.** The excellent Advaita Acharya is truly great: he is the abode of virtues, a portion of the Lord. Serve him with care and reverence.
+
+**30.** Thus I have disclosed this secret instruction to you for your happiness." Having said this, the Lord, so loving to His devotees, went home.
+
+**31.** And on the next day Krishna went to the fine village of Kantaka[^218-5] and took sannyasa,
+
+**32.** making the venerable Keshava Bharati, the best of those who have reached the far shore of Brahman, His guru, and so fulfilling his life.
+
+**33.** Whoever thus hears the deeds of Hari at once casts off the host of his sins and comes to the soles of Nrihari's feet; he will gain incomparable devotion and freedom from attachment to all that is ignoble.
+
+*Thus ends the eighteenth sarga, "The Prelude to Sannyasa" (Sannyasa-sutra), of the second prakrama of the poem "Sri Krishna Chaitanya Charitamrita." Thus the second prakrama is complete.*
+
+
+[^218-1]: Murari suggests interpreting the sannyasa mantra, which speaks of identity with Brahman, through the genitive case: not "I am He" but "I am His," that is, the Lord's servant. This is how the Gaudiya Vaishnava tradition understands the great sayings of the Upanishads.
+[^218-2]: That is, the interpretation does not remove the direct sense of the mantra's words.
+[^218-3]: The word sadhu here, as commonly in Bengal, means a merchant engaged in overseas trade.
+[^218-4]: The sense is unfolded in v. 29: the Lord bids Murari to serve Advaita Acharya diligently. It may also be understood as "you are always detached — so carry out My word."
+[^218-5]: Kantaka (Kantakanagara) is present-day Katwa on the bank of the Ganga.
+
+---
+
+# Prakrama Three
+
+---
+
+## Prakrama 3, Sarga 1. The Words of the Women of Kantakanagara
+
+*Damodara asks Murari to tell of the Lord's sannyasa; verses of invocation; the Lord leaves Navadvipa; Chandrashekhara returns and tells how the people of Kantakanagara gazed at the Lord and what the women said of Him*
+
+**1.** Having heard the wondrous, unworldly account of Hari, Damodara[^301-1] spoke again to the excellent Murari: "Tell, then, how Bhagavan took sannyasa, how He went to other lands and to Purushottama[^301-2],
+
+**2.** and which holy places, beloved of hosts of sages, the Ancient One, whose compassion charms the heart, went to see." Hearing the words of the best of the twice-born, the physician replied, "Listen, and I shall tell you the heart-delighting account of Hari.
+
+**3.** May Bhagavan soon grant me incomparable power, so that my speech may be skilled in telling of Him — of Him whose wondrous deeds, when their nectar is tasted by the ear, make speech fair, and from the sweetness of remembering whose name liberation comes of itself, unbidden[^301-3].
+
+**4.** I worship Him — the divine Chaitanya, the spotless Person, unborn, eternal in form, golden like the finest gold. The pure-minded, whose hearts are tinged by the radiance of the nails of His lotus feet, at once come to know the Truth.
+
+**5.** I praise the nectar of the worship of Bhagavan, whose nature is Brahman, and Him whose feet are revered by hosts of gods: even the lord Sri Shankara[^301-4], drinking unceasingly the honey of His lotus feet, is filled with love.
+
+**6.** Having thus instructed the physician, the Lord went home, full of the tenderness that His devotees' service awakens in Him. Calm, Gaurachandra, the lord of all rasikas, spent the night in rapture, and rising, He departed.
+
+**7.** Bhagavan crossed the divine river[^301-5] and went away. Learning of it, the foremost of the twice-born lost heart: they fell into boundless dismay and wept, burning with grief; racked with sorrow and distraught, they were worn down by anguish.
+
+**8.** On the seventh day there came to them, who had lost all their lustre, Sri Chandrashekhara Acharyaratna, a mine of virtues, a jewel among men, golden like fine molten gold — by his radiance he seemed to eclipse the beauty of the full moon.
+
+**9.** They asked him for the nectar of the account of the Lotus-eyed One, and he replied, "I shall tell you everything." And Sri Chandrashekhara, foremost among the best of brahmanas, in a voice choked with tears began to tell them of Krishna[^301-6].
+
+**10.** "As the Lord walked along the road, people gazed at His face and drank with their eyes the beauty of the body of Him who is the ornament of men; and learning that He was going to take sannyasa, they joyfully bowed down at His lotus feet.
+
+**11.** There Bhagavan Mukunda[^301-7] danced, His chest wet with the tears of love, His body covered with thrills of rapture, while the great souls headed by the Acharyaratna joyfully sang a song of Krishna's lotus feet.
+
+**12.** At that moment, in the town called Kantaka, there gathered the best of brahmanas and good folk, women, children and elders full of joy; the deaf, the blind and the hunchbacked were led there by the hand.
+
+**13.** The women too came hurrying: some carrying full pitchers, some with articles of worship on their hips, and some, heavy with child, supported under the arms by their friends.
+
+**14.** All of them, with burning hearts, drank the honey-wine of Janardana's lotus face; and others, gazing at Him as at a golden lotus blended with the young sun, could not cease to marvel.
+
+**15.** And they said, 'Whose is this youth, such as was never seen before, whose face shines like the rising moon? He was born for the good and the welfare of the world; surely it was through great merit that his mother bore him in her womb.
+
+**16.** This handsome youth has conquered Kamadeva with his beauty and surpassed the very lord of speech[^301-8] with his words. Some woman, by her good deeds, became his wife — and by some deeds, it seems, she now pines in separation!
+
+**17.** His mother, not seeing her son's face, lives on as one lifeless, burning with many sorrows — as the people of Vraja grieved when Krishna went away, wishing to see Mathura.'
+
+**18.** And others, more discerning, said plainly, 'This is the son of Sri Nanda Himself, imbued with the feelings of the cowherd women, who has appeared in the dress of a sannyasi to accomplish His own purpose.'
+
+**19.** Many such fair words and others besides passed in their talk with one another; drinking in the face of lotus-eyed Vishvambhara, they forgot their own bodies."
+
+*Thus ends the first sarga, "The Words of the Women of Kantakanagara" (Kantakanagara-nagari-vachana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^301-1]: Damodara Pandita, who questions Murari: the poem is framed as their dialogue.
+[^301-2]: Purushottama is Puri, the city of Jagannatha.
+[^301-3]: The syntax of the second half of the verse is not entirely clear; the translation gives the probable sense.
+[^301-4]: Shankara is Shiva.
+[^301-5]: The Ganga.
+[^301-6]: The reading is conjectural.
+[^301-7]: Mukunda is here a name of the Lord Himself.
+[^301-8]: The lord of speech is Brihaspati, the preceptor of the gods.
+
+---
+
+## Prakrama 3, Sarga 2. The Purification of the Ashrama of Sannyasa
+
+*The Lord asks the people of Kantakanagara for their blessing; in the dwelling of Keshava Bharati He "initiates" His guru into the mantra of sannyasa and accepts sannyasa; guru and disciple dance in kirtana*
+
+**1.** When the dance was over, Bhagavan wept: love for Hari had shattered His composure. Seeing this, all who had gathered there wept too, their eyes clouded with tears of love.
+
+**2.** Then Hari rose and in a faltering voice said to the assembled people, "Fathers and mothers, bless Me now, so that I may always remember Hari."
+
+**3.** Hearing this, they were overcome with shame, as if stripped bare[^302-1], and went away from there, weeping all the while; their bodies were filled with love for Sri Krishna, and they themselves with the rasa of true devotion.
+
+**4.** Having consoled them with the nectar of the sight of Himself, the great-souled Bhagavan Gaurachandra went with the foremost Vaishnavas to the dwelling of the guru named Sri Keshava.
+
+**5.** Bowing to His guru's feet, Hari, the ocean of mercy, stayed there; He sang the auspicious names of Sri Rama and Narayana and Their qualities, and love shattered His composure.
+
+**6.** In the afternoon He, the pure one, performed the rites prescribed for sannyasa, so as to attain Nrihari[^302-2], while the venerable Acharyaratna, versed in the injunctions, duly performed the worship of Krishna.
+
+**7.** Then the Lord, seeking His guru's good, went up to him and said into his ear, "In a dream I received an excellent mantra. Hear it — will you approve of it?"
+
+**8.** And three times He Himself spoke into his very ear the pure mantra prescribed for sannyasa. Hearing it, the other replied to Hari, "This is indeed the mantra of sannyasa, supreme and purifying."
+
+**9.** Thus the one Lord of the worlds, the changeless, eternal guru, under a pretext gave initiation to His own guru[^302-3]. And with joined palms the Lord said, "O guru, grant Me today the sannyasa I long for."
+
+**10.** And at the auspicious moment when the sun passes from Capricorn into Aquarius[^302-4], the wise Sri Keshava, a great soul versed in the rite, gave Hari the mantra of sannyasa.
+
+**11.** And then Hari's slender body thrilled with rapture, His chest grew wet with tears of bliss, and the Lord Himself said in a faltering voice, "I have truly renounced the world!"
+
+**12.** Seeing Hari about to leave, the guru himself hastily placed the staff, together with the cloth, in His hand, saying, "Ho there, ho there, take it!" Hearing the guru's word, Hari, eager in devotion to His guru, accepted them,
+
+**13.** and, honouring His guru's command, He, the conqueror of foes, stayed there that day. And at night the Lord soon began kirtana and dancing there together with the guru.
+
+**14.** There the guru of the Guru of the worlds[^302-5] danced together with Krishna in great happiness; filled with bliss, the great soul now held the happiness of Brahman to be utterly paltry.
+
+**15.** When the dance was over, he said to Hari, "Someone here snatched this staff from my hand, clasped me with both arms and said, 'You too — dance!'
+
+**16.** And then, flooded with bliss, I joyfully joined the dance, quite beside myself." Hearing his words, all those present, together with the Vaishnavas, were amazed, and love shattered their composure.
+
+**17.** Hearing this weighty, meaningful word of His guru, Hari Himself — the great soul, delighting in Himself, the abode of all virtues — was filled with great joy and danced there together with His own.
+
+**18.** And Bharati, his soul flooded with love, flung his water-pot and staff far away and danced together with the Lord — to purify the dharma of sannyasa[^302-6].
+
+**19.** Whoever thus hears of the auspicious sannyasa that Bhagavan Himself accepted, which brings bliss to the twice-born, will attain liberation and whatever his heart desires.
+
+*Thus ends the second sarga, "The Purification of the Ashrama of Sannyasa" (Sannyasashrama-pavana), of the third prakrama of the poem "Sri Krishna Chaitanya Charitamrita."*
+
+
+[^302-1]: Literally "naked"; probably an image of shame: the Lord asks a blessing of them, His servants. The reading may be corrupt.
+[^302-2]: Nrihari is here Krishna: Gaura, playing the part of a devotee, accepts sannyasa in order to attain Him.
+[^302-3]: The Lord Himself speaks the mantra into Keshava Bharati's ear, as though initiating him, and only then receives it from him.
+[^302-4]: That is, at the end of the solar month of Magha (January–February).
+[^302-5]: Keshava Bharati, who became the guru of Krishna Chaitanya, the Guru of all the worlds.
+[^302-6]: Hence the title of the sarga: sannyasa, accepted by the Lord and filled with love, purifies the very order of sannyasa.
