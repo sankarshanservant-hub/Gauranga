@@ -3403,3 +3403,335 @@
   event: ev-navadvipa-radha-bhava-gadadhara
   verses:
     - {file: "padas/ru/08.md", from: "16.1", to: "16.4"}
+
+- id: pad-0163
+  source: padas
+  ref: "Васу Гхош, ПК 1494 = ГПТ1 с. 131 (№ 59) «নবদ্বীপে উদয় করিলা দ্বিজ-রাজ»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 80.95
+  title: "Луна среди звёзд-спутников: Гаура в киртане с Гададхарой вспоминает Вриндаван"
+  summary: "В Навадвипе взошла луна — Гаура среди спутников; весь в пыли, Он качается на волнах бхавы, поёт «Хари, Хари», замирает в позе трибханги, положив руку на плечо Гададхары; вспоминая Вриндаван, плачет и проливает на мир ливень святого имени."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к весенней расе (ПК, 3-я шакха, 27-й паллав). По Маджумдару — пада о бхаве Господа."
+  themes: [kirtan, ecstasy, krishna-lila]
+  bhava: [krishna]
+  teaching: [holy-name]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/09.md", from: "1.1", to: "1.4"}
+
+- id: pad-0164
+  source: padas
+  ref: "Васу Гхош, ПК 973 = ПК 2176 = ГПТ1 с. 161 (№ 15) «চল দেখি গিয়া গোরা অতি মনোহরে»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 133.64
+  title: "«Пойдём, посмотрим на Гору!»: облик Гауры в Надии"
+  summary: "Поэт зовёт посмотреть на Гору: тело ярче пробного золота, руки до колен, алые одежды, гирлянда малати до стоп; он готов отдать за Него жизнь."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Переведена редакция ПК 973 (гаура-чандрика к ночному абхисаре); редакция ПК 2176 и ГПТ1 — нагари-бхава (концовка «отдам юность»), не переводилась. По Маджумдару ПК 973 — пада об облике."
+  themes: [author, ecstasy]
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/09.md", from: "2.1", to: "2.4"}
+
+- id: pad-0165
+  source: padas
+  ref: "Васу Гхош, ПК 656 (= ПК 2474) = ГПТ1 с. 361–362 (№ 53) «শুতিয়াছে গোরাচাঁদ শয়ন-মন্দিরে»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 133.65
+  title: "Горачанд почивает в опочивальне, истомлённый"
+  summary: "Горачанд, царь танцоров, истомлённый, почивает на дивном ложе; Творец словно процедил молнию из туч и вложил в Него всю расу; Васудев Гхош смотрит с радостью."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к разделу «расаласа» (истома после ночной игры). ПК 2474 — та же пада (по указателю ПК т. 5; в скане т. 4 страниц нет). По Маджумдару — пада о бхаве."
+  themes: [ecstasy, krishna-lila]
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/09.md", from: "3.1", to: "3.4"}
+
+- id: pad-0166
+  source: padas
+  ref: "Васу Гхош, ПК 1409 = ГПТ1 с. 333 (№ 38) «না জানিয়ে গোরাচাঁদের কোন ভাব মনে»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 134.871
+  title: "Игра в лодке на Ганге: Гаура — кормчий, рядом Гададхара"
+  summary: "Гаура со спутниками идёт на берег Ганги, всходит в лодку с Гададхарой и Сам правит ею; все кричат «Тонем!» и вычерпывают воду, вспоминая прежнюю игру Кришны, а Господь, глядя на Гададхару, тихо улыбается."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Рамананда, ПК 1417 (порция 06)"
+  notes: "Гаура-чандрика к разделу «наука-виласа» (ПК, 3-я шакха, 26-й паллав). По Маджумдару — пада о бхаве."
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  event: ev-nauka-vilasa-navadvipa
+  verses:
+    - {file: "padas/ru/09.md", from: "4.1", to: "4.5"}
+
+- id: pad-0167
+  source: padas
+  ref: "Васу Гхош, ПК 54 = ГПТ1 с. 297 (№ 16) «আরে মোর গোরা দ্বিজমণি»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 134.56
+  title: "Господь в бхаве Кришны зовёт: «Радха, Радха!»"
+  summary: "Гора зовёт «Радха, Радха», плачет и катается по земле, с великим усердием повторяет имя Радхи, из глаз текут реки слёз, Он то и дело лишается чувств."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@radha"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Ч.-ч. Ади 17 («Гопи, гопи!»)"
+  notes: "Гаура-чандрика к разделу «пурварага Шри Кришны» (ПК, 1-я шакха). По Маджумдару — пада о бхаве."
+  themes: [ecstasy, krishna-lila]
+  bhava: [krishna]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/09.md", from: "5.1", to: "5.4"}
+
+- id: pad-0168
+  source: padas
+  ref: "Васу Гхош, ПК 2041 = ГПТ1 с. 312 (№ 17) «সকল ভকত মেলি আনন্দে হুলাহুলি»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 134.57
+  title: "Утром преданные находят Господа не спавшим: «Какая бхава в Его сердце?»"
+  summary: "Преданные с радостными кликами приходят увидеть Гаурангу, но Он не спал всю ночь, лицо потускнело; Он садится на землю в стороне; преданные встревожены, омывают Ему лицо, убирают волосы: «Гора — воплощённая бхава»."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика «на другой день» к разделу о воспоминаниях полной встречи (ПК, 16-й паллав); место не названо (ГПТ2 — в антья-лиле). По Маджумдару — пада о бхаве."
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/09.md", from: "6.1", to: "6.4"}
+
+- id: pad-0169
+  source: padas
+  ref: "Васу Гхош, ПК 1598 = ГПТ1 с. 313 (№ 1) «আজু কেনে গোরাচাঁদের বিরস বয়ান»"
+  file: "padas/ru/09.md"
+  period: P07
+  order: 134.58
+  title: "Господь в бхаве Радхи, предчувствующей разлуку: «Кто пришёл?»"
+  summary: "Невесело лицо Горачанда; «Кто пришёл? Кто пришёл?» — спрашивает Он и плачет; преданные лишились чувств, не понимая причины; восклицая «Хари, Хари», Гора тяжко вздыхает."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к разделу «предстоящая разлука» (приезд Акруры; ПК, 4-я шакха, 2-й паллав). По Маджумдару — пада о бхаве."
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/09.md", from: "7.1", to: "7.4"}
+
+- id: pad-0170
+  source: padas
+  ref: "Васу Гхош, ПК 1634 = ГПТ2 (разд. о разлуке, № 4) «রোই রোই জপে গোরা কৃষ্ণ-নাম-মধু»"
+  file: "padas/ru/09.md"
+  period: P14
+  order: 100.1
+  title: "Плача, Гора повторяет имя Кришны под деревом, оставив всё"
+  summary: "Плача, Гора повторяет медвяное имя Кришны; Тот, Чьих стоп не обретают Шива и Брахма, сидит под деревом, оставив общество и удобства; Его золотое тело украшено сокровищами бхавы; глядя на Него, плачут все."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shiva", "@brahma"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к разделу «свершившаяся разлука» (ПК, 4-я шакха, 4-й паллав). Время и место не названы; по смыслу — после санньясы. По Маджумдару — пада о бхаве."
+  themes: [ecstasy, separation]
+  bhava: [radha, sannyasi]
+  teaching: [holy-name]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/09.md", from: "8.1", to: "8.4"}
+
+- id: pad-0171
+  source: padas
+  ref: "Васу Гхош, ПК 1635 = КГЧ 12.1 = КГЧ 23.1 = ГПТ2 № 11 «বিরলে বসিয়া একেশ্বরে»"
+  file: "padas/ru/09.md"
+  period: P14
+  order: 100.2
+  title: "Господь-санньяси один повторяет имя Хари: «Оставил игры с Лакшми, флейту — взял посох»"
+  summary: "В уединении Господь непрестанно повторяет имя Хари; телу, умащавшемуся сандалом, мила только пыль; оставив игры с Лакшми, Он живёт под деревом, оставив флейту, взял посох санньяси; не знает ни дня, ни ночи."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Вторая гаура-чандрика к разделу «свершившаяся разлука» (ПК). В КГЧ и ГПТ2 — более полная редакция. Время и место не названы. По Маджумдару — пада о бхаве."
+  themes: [separation, sannyasa, ecstasy]
+  bhava: [sannyasi, radha]
+  teaching: [holy-name]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/09.md", from: "9.1", to: "9.5"}
+
+- id: pad-0172
+  source: padas
+  ref: "Васу Гхош, ПК 451 = ГПТ1 с. 312 (№ 19) «মঝু মনে লাগল শেল»"
+  file: "padas/ru/09.md"
+  period: P09
+  order: 30.5
+  title: "«Гаура отвернулся от меня»: плач разлучённой души"
+  summary: "В сердце вонзилось копьё: Гаура отвернулся; жизнь стала бесплодной, горе некому рассказать; если больше не видеть лица Горы — какая радость в жизни? Без Горы не удержать жизни."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к разделу «калахантарита» (ПК, 2-я шакха); говорящий не назван; ГПТ2 — среди плачей Вишнуприи после санньясы. Маджумдар паду не разбирает."
+  themes: [separation]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "padas/ru/09.md", from: "10.1", to: "10.5"}
+
+- id: pad-0173
+  source: padas
+  ref: "Васу Гхош, ПК 2279 = ГПТ1 с. 387 (№ 14) «কত দিনে হেরব গোরাচাঁদের মুখ»"
+  file: "padas/ru/09.md"
+  period: P10
+  order: 5.5
+  title: "«Когда же я увижу лицо Горачанда?»: тоска преданных"
+  summary: "Когда увидеть лицо Горачанда, когда Он обнимет, когда уши услышат Его речи? Народ Надии плачет, не видя Горы."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Раздел ПК «тоска преданных» в паллаве о санньясе (4-я шакха, 21-й паллав). По Маджумдару — става/пратхана."
+  themes: [separation]
+  event: ev-gauda-devotees-longing-first-year
+  verses:
+    - {file: "padas/ru/09.md", from: "11.1", to: "11.4"}
+
+- id: pad-0174
+  source: padas
+  ref: "Васу Гхош, ПК 2314 = КГЧ 27.2 = ГПТ1 с. 423–424 (№ 31) «নিতাই কেবল পতিত জনার বন্ধু»"
+  file: "padas/ru/09.md"
+  period: PX
+  order: 8.13
+  title: "«Один Нитай — друг падших»: Нитай в разлуке зовёт Гаурангу"
+  summary: "Нитай — друг падших, океан драгоценностей среди нищих; озираясь, Он зовёт «Господь Гора Рай!» и падает без чувств, громовым голосом зовёт «Брат, брат!»; Он спас мир санкиртаной — отчего же Васу остался обделён?"
+  persons: ["@vasu-ghosha", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "ПК, 22-й паллав («Описание достоинств Шри Нитьянанды»). По Маджумдару — пада Васу о Нитьянанде."
+  themes: [author, mercy, separation]
+  teaching: [associates-tattva, holy-name]
+  verses:
+    - {file: "padas/ru/09.md", from: "12.1", to: "12.4"}
+
+- id: pad-0175
+  source: padas
+  ref: "Васу Гхош, ПК 2315 «সংকীর্তনে নিত্যানন্দ নাচে»"
+  file: "padas/ru/09.md"
+  period: P12
+  order: 110.1
+  title: "Нитьянанда пляшет в санкиртане под пение Говинды и Мадхавы Гхошей и обнимает падших"
+  summary: "Нитьянанда пляшет в санкиртане, поют Говинда и Мадхава Гхоши; обняв падших за шею, Он плачет: «Я много задолжал вам — берите товар премы, дам прему с лихвой»; Васу изнывает в слезах, вспоминая эту милость."
+  persons: ["@vasu-ghosha", "@nityananda", "@govinda-ghosha", "@madhava-ghosha"]
+  places: ["#gauda"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Антья 5"
+  notes: "ПК, 22-й паллав. Место не названо; по участию братьев Гхош — киртаны Нитьянанды в Гауде. По Маджумдару — пада Васу о Нитьянанде."
+  themes: [kirtan, mercy]
+  teaching: [associates-tattva, prema]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "padas/ru/09.md", from: "13.1", to: "13.8"}
+
+- id: pad-0176
+  source: padas
+  ref: "Васу Гхош, ПК 2192 = ГПТ1 с. 4 (№ 3) «জয় জয় জগন্নাথ শচীর নন্দন»"
+  file: "padas/ru/09.md"
+  period: PX
+  order: 8.14
+  title: "«Он — Гаура, Он — Кришна, Он — Джаганнатха»"
+  summary: "Слава Джаганнатхе, сыну Шачи: в Нилачале Он держит раковину, диск, булаву и лотос, в Надии — посох и сосуд санньяси; прежде убил Равану и явил игры Голоки, ныне в бхаве Радхи пришёл как Гора и проповедал имя Харе Кришна."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi", "@radha", "@jagannatha-deity"]
+  places: ["#puri", "#navadvipa"]
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Става (ПК, 20-й паллав). По Маджумдару — става/пратхана Васу. В каталоге — ВГ-001 и ВГ-131."
+  themes: [author, revelation]
+  teaching: [gaura-tattva, holy-name]
+  verses:
+    - {file: "padas/ru/09.md", from: "14.1", to: "14.5"}
+
+- id: pad-0177
+  source: padas
+  ref: "Васу Гхош (в ГПТ — Нарахари), ПК 2345 = ГПТ1 с. 12–13 (№ 30) «গৌরাঙ্গ নহিত কি মেনে হইত»"
+  file: "padas/ru/09.md"
+  period: PX
+  order: 8.15
+  title: "«Если бы не было Гауранги…»"
+  summary: "Если бы не Гауранга, кто открыл бы миру величие Радхи и предел расы премы, вход в сладость Вриндавана и преданность в бхаве гопи? Нет никого милостивее Его; поэт укоряет себя за каменное сердце."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@radha"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Става (ПК, 23-й паллав). В ПК подпись Васу, в ГПТ1/ГПТ2 — Нарахари (каталог: НГ-002); атрибуция спорна. По Маджумдару — става Васу."
+  themes: [author, mercy]
+  teaching: [gaura-tattva, prema]
+  verses:
+    - {file: "padas/ru/09.md", from: "15.1", to: "15.4"}
+
+- id: pad-0178
+  source: padas
+  ref: "Васу Гхош, ПК 3007 «গৌরাঙ্গ তুমি মোরে দয়া না ছাড়িহ»"
+  file: "padas/ru/09.md"
+  period: PX
+  order: 8.16
+  title: "Пратхана: «Гауранга, не лиши меня милости»"
+  summary: "Поэт просит Гаурангу не лишать его милости и держать у алых стоп: ради них он оставил всё и простился с родом; он просит приюта в тени Его стоп."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Пратхана (ПК, 36-й паллав). По Маджумдару — става/пратхана Васу."
+  themes: [author, mercy]
+  verses:
+    - {file: "padas/ru/09.md", from: "16.1", to: "16.4"}
+
+- id: pad-0179
+  source: padas
+  ref: "Васу Гхош, ПК 3008 «আরে মোর গৌরাঙ্গ সোণা»"
+  file: "padas/ru/09.md"
+  period: PX
+  order: 8.17
+  title: "Пратхана: «О мой Гауранга, золото моё!»"
+  summary: "Поэт обрёл Гаурангу после долгих молитв; своего у него нет никого — он просит держать его у стоп, дать нектар премы и тень прохладных стоп измученному."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Пратхана (ПК, 36-й паллав). По Маджумдару — става/пратхана Васу."
+  themes: [author, mercy]
+  verses:
+    - {file: "padas/ru/09.md", from: "17.1", to: "17.4"}
