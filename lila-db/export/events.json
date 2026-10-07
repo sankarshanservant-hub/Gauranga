@@ -4442,13 +4442,28 @@
    "pad-0272",
    "pad-0273",
    "pad-0110",
+   "pad-0343",
+   "pad-0344",
+   "pad-0345",
+   "pad-0346",
+   "pad-0347",
+   "pad-0348",
+   "pad-0349",
+   "pad-0350",
+   "pad-0351",
+   "pad-0354",
    "pad-0153",
+   "pad-0353",
    "pad-0154",
+   "pad-0355",
    "pad-0155",
+   "pad-0356",
    "pad-0156",
+   "pad-0357",
    "pad-0163",
    "lcm-0121",
    "mkc-0087",
+   "pad-0336",
    "pad-0219"
   ],
   "sources": [
@@ -5550,6 +5565,7 @@
    "jcm-0047",
    "lcm-0139",
    "pvl-0182",
+   "pad-0352",
    "lcm-0140"
   ],
   "sources": [
@@ -5557,6 +5573,7 @@
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -5655,12 +5672,14 @@
   "entries": [
    "kcm-0080",
    "lcm-0143",
-   "mkc-0108"
+   "mkc-0108",
+   "pad-0358"
   ],
   "sources": [
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -5765,6 +5784,9 @@
    "pad-0135",
    "pad-0002",
    "pad-0003",
+   "pad-0339",
+   "pad-0340",
+   "pad-0341",
    "pad-0004",
    "pad-0291",
    "pad-0292",
@@ -16218,6 +16240,7 @@
    23
   ],
   "entries": [
+   "pad-0338",
    "pad-0005",
    "pad-0320",
    "pad-0006",
@@ -16237,6 +16260,7 @@
    "pad-0220",
    "pad-0265",
    "pad-0330",
+   "pad-0359",
    "pad-0042",
    "pad-0043",
    "pad-0044",
@@ -16840,9 +16864,12 @@
    "pad-0211",
    "pad-0129",
    "pad-0150",
+   "pad-0334",
    "pad-0151",
+   "pad-0335",
    "pad-0152",
    "pad-0164",
+   "pad-0337",
    "pad-0165"
   ],
   "sources": [
@@ -17152,6 +17179,36 @@
   "entries": [
    "pad-0297",
    "pad-0298"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-gaura-arati-navadvipa",
+  "title": "Арати Гауранги в Навадвипе: Адвайта совершает арати, спутники поют и танцуют",
+  "title_en": "Arati of Gauranga in Navadvipa: Advaita performs arati, the associates sing and dance",
+  "period": "P07",
+  "order": 127.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "revelation"
+  ],
+  "notes": "Известно по паде с подписью «Нарахари-паху» (ГПТ 4.1, № 21 = БР 12): Гададхара украшает Господа цветами, Адвайта совершает арати, Нарахари машет чамарой, Вакрешвара танцует; боги, Шива и Брахма плачут от любви. Вероятно, сочинение Нарахари Чакраварти.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0342"
   ],
   "sources": [
    "padas"

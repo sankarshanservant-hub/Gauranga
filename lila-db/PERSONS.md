@@ -223,6 +223,7 @@
 | @sher-khan | Шер Хан | Sher Khan | патхан, наместник в Уткале, обращённый Шьяманандой |
 | @damodara-yogi | Дамодара (йогин-ведантист) | Damodara (the Vedantist yogi) | санньяси, побеждённый в споре Шьяманандой и ставший его учеником |
 | @yadunandana-chakravarti | Ядунандана Чакраварти | Yadunandana Chakravarti | из Катоа, ученик Гададхары Даса; не путать с @yadunandana-acharya |
+| @narahari-chakravarti | Нарахари Чакраварти (Гханашьяма Дас) | Narahari Chakravarti (Ghanashyama Dasa) | автор «Бхакти-ратнакары», «Нароттама-виласы», «Гита-чандродаи» (XVIII в.); не путать с @narahari-sarakara |
 | @vipradasa | Випрадас | Vipradasa | торговец зерном близ Кхетури, в чьём амбаре найден образ Гауранги |
 | @madhava-acharya-kavivallabha | Мадхава Ачарья (Кавиваллабха) | Madhava Acharya (Kavivallabha) | двоюродный брат Вишнуприи, автор «Кришна-мангалы»; посвящён Адвайтой; не путать с @madhava-acharya-ganga |
 | @madhava-acharya-ganga | Мадхава Ачарья (супруг Ганги) | Madhava Acharya (husband of Ganga) | варендра-брахман, ученик и зять Нитьянанды; не путать с @madhava-acharya-kavivallabha |

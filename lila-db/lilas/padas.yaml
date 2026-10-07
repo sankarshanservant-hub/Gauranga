@@ -6687,3 +6687,542 @@
   event: ev-navadvipa-radha-bhava-gadadhara
   verses:
     - {file: "padas/ru/16.md", from: "2.1", to: "2.4"}
+
+- id: pad-0331
+  source: padas
+  ref: "Нарахари (Саркар?), ГПТ1 с. 11 (№ 27) «গৌরলীলা দরশনে ইচ্ছা বড় হয় মনে»"
+  file: "padas/ru/17.md"
+  period: PX
+  order: 9.01
+  title: "Желание записать Гаура-лилу на родном языке: «тот, кто напишет эту книгу, ещё не родился»"
+  summary: "Поэт, видящий лилу Гауры, хочет записать её по-бенгальски, но не умеет; автор книги о ней ещё не родился; лилу Гауры и Гададхары не описать даже Сарасвати и Шиве — пусть песни поэта помогут явить её миру."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@gadadhara-pandita", "@sarasvati-devi", "@shiva"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "Лочан Дас, ЧМ, Сутра-кханда 1 (ст. 9, 61)"
+  notes: "Приложение ГПТ-Нарахари (НГ-001). Атрибуция: вероятно Нарахари Саркар (указатель ГПТ2, с. 8; нет в БР; простой бенгальский). Только ГПТ."
+  themes: [author]
+  verses:
+    - {file: "padas/ru/17.md", from: "1.1", to: "1.4"}
+
+- id: pad-0332
+  source: padas
+  ref: "Нарахари Дас (Саркар?), ГПТ1 с. 11–12 (№ 28) «ব্রজভূম করি শূন্য নদীয়ায় অবতীর্ণ»"
+  file: "padas/ru/17.md"
+  period: PX
+  order: 9.02
+  title: "«Ты — тот самый Канай Враджа»: житель Враджа узнаёт Кришну в Гауре"
+  summary: "Опустошив Врадж, Кришна сошёл в Надию, сменив цвет и бхаву; нет ни пера, ни жёлтых одежд, ни флейты, ни трибханги, — но ум не обманется: Гаура — тот самый Канай Враджа; о встрече двоих в тот день говорить больно."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@krishna"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: C
+  parallels: "ЧЧ Мадхья 8"
+  notes: "Новая строка каталога НГ-236. Атрибуция: вероятно Нарахари Саркар (указатель ГПТ2; нет в БР). Только ГПТ."
+  themes: [author, revelation]
+  teaching: [gaura-tattva]
+  verses:
+    - {file: "padas/ru/17.md", from: "2.1", to: "2.4"}
+
+- id: pad-0333
+  source: padas
+  ref: "Нарахари (Саркар?), ГПТ1 с. 12 (№ 29) «রসে তনু ঢরঢর গৌরকিশোরবর»"
+  file: "padas/ru/17.md"
+  period: PX
+  order: 9.03
+  title: "Шьяма стал Гаурангой: «внутри тёмный, снаружи золотой»"
+  summary: "Шьяма Двапара в Кали зовётся Шри Кришна Чайтанья — так поэт толкует слова Гарги в Бхагавате; внутри Он Шьяма, снаружи золотой: чтобы играть с Раи, из любви Он принял золотое тело; поэт боится говорить о сокровенном и молчать не может."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@krishna", "@radha", "@garga-muni"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 1.5–6; 3.36–40, 81; 4.55–56"
+  notes: "Новая строка каталога НГ-237. Атрибуция: вероятно Нарахари Саркар (указатель ГПТ2; нет в БР). Только ГПТ."
+  themes: [author]
+  teaching: [gaura-tattva]
+  scriptures: ["Бхаг. 10.8.13"]
+  verses:
+    - {file: "padas/ru/17.md", from: "3.1", to: "3.4"}
+
+- id: pad-0334
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 135 (№ 70) «নাচত ভুবনমনোমোহন» = БР 12 (изд. 1912, с. 835–836)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 133.61
+  title: "Облик Гауры в танце: «Чарующий ум всех миров»"
+  summary: "Танцует Гаура, цветом ярче чампаки, золота и лотоса, в сандале и китайском шёлке; брови — вереница пчёл, ожерелье и серьги колышутся, кудри рассыпаются, руки-побеги и стопы держат сотни ритмов."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-238. Атрибуция: вероятно Нарахари Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan]
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/17.md", from: "4.1", to: "4.4"}
+
+- id: pad-0335
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 135 (№ 72) «নদীয়ার মাঝারে নাচয়ে গোরাচাঁদ» = БР 12 (изд. 1912, с. 907)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 133.62
+  title: "Горачанд, танцующий посреди Надии: облик от лица до стоп"
+  summary: "Танцующий посреди Надии Горачанд — силок для всех сердец; лик — осенняя луна, речь — нектар, очи — обитель любви, брови посрамляют лук Камы, перед ногтями стоп теряет сознание Кама; это Нагара Гокулы, океан расы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-072). Вероятно Чакраварти: в БР — среди песен жителей Надии. Мотив горожанок — сноска о позиции традиции («гаура-нагари» не принимается)."
+  themes: [kirtan]
+  bhava: [krishna]
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/17.md", from: "5.1", to: "5.13"}
+
+- id: pad-0336
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 136 (№ 73) «সুরধুনীতীরে গৌর নটনাগর» = БР 12 (изд. 1912, с. 911)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 133.63
+  title: "Танец Гауры на берегу Ганги: слёзы при виде Гададхары"
+  summary: "На берегу Ганги Гаура танцует со спутниками, восклицая «Хари, Хари!»; увидев Гададхару, Он льёт слёзы, как туча в сезон дождей, и земля колеблется под Его стопами."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари; в каталоге ошибочно НН-006 (Наянананда), новая строка НГ-239. Вероятно Чакраварти: в БР Ишана показывает Шринивасе место танца на берегу Ганги."
+  themes: [kirtan, ecstasy]
+  bhava: [krishna]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "6.1", to: "6.4"}
+
+- id: pad-0337
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 151–152 (№ 119) «বিহরত সুরসরিত-তীর» = БР 12 (изд. 1912, с. 890)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 133.64
+  title: "Юный Гаура у берега Ганги: туча милости"
+  summary: "Юный Гаура гуляет у Ганги; сияние тела затмевает молнию, золото и кункуму, лик — силок для глаз, брови — змеи, широкая грудь, тонкий стан, стопы-лотосы, вокруг которых кружат пчёлы-преданные; туча милости, Он всегда проливает нектар премы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари; в каталоге — под первой строкой соседней пады Васу (НГ-073 → исправлено). Вероятно Чакраварти (БР; враджабули). Мотив горожанок — сноска."
+  themes: [mercy]
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/17.md", from: "7.1", to: "7.4"}
+
+- id: pad-0338
+  source: padas
+  ref: "Нарахари (Саркар или Чакраварти), ГПТ1 с. 154 (№ 128) «কি জানি কি ভাবে ভাবিত অন্তর» = БР 12 (изд. 1912, с. 909)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 133.65
+  title: "Гаура держит руку Гададхары: «Гора — Чарующий Гокулу»"
+  summary: "Погружённый в неведомую бхаву, с алыми глазами, Гаура держит руку Гададхары и говорит что-то медовое; губы — бандхули, зубы — молния; в облике нагары танцует Похититель сердец женщин Надии — Гора, Чарующий Гокулу."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-074). Атрибуция не установлена: указатель ГПТ2 — Саркар (с. 104), но в БР пада вложена в уста жительницы Надии («কাচিৎ»). Мотив горожанок — сноска."
+  themes: [ecstasy]
+  bhava: [krishna]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/17.md", from: "8.1", to: "8.3"}
+
+- id: pad-0339
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 241–242 (№ 14) «আজু অভিষেক সুখের অবধি» = БР 12 (изд. 1912, с. 893)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 127.31
+  title: "Абхишека в доме Шриваса: «предел счастья»"
+  summary: "Гаура сидит на троне; Нитьянанда и Адвайта читают мантры, Шривас и другие льют на Его голову благоуханную воду; Джагадиша, Васудева, Нараяна, Мукунда, Мадхава поют, Говинда и Говиндананда играют на кхоле, танцует Вакрешвара; незримые боги сыплют цветы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@mukunda-datta", "@madhava-ghosha", "@govinda-ghosha", "@vakreshvara"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Мадхья 9; ПК 1536 (Васу Гхош)"
+  notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-240. Вероятно Чакраварти: в БР приведена за падой Васу Гхоша ПК 1536."
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "padas/ru/17.md", from: "9.1", to: "9.8"}
+
+- id: pad-0340
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 242 (№ 15) «কি আনন্দ শ্রীবাসভবনে» = БР 12 (изд. 1912, с. 894)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 127.32
+  title: "Абхишека в доме Шриваса: золотой трон, клич «улу-улу»"
+  summary: "Спутники сажают Господа на золотой трон, читают мантры и льют на Его голову воду из кувшинов; женщины издают клич «улу-улу», боги пляшут, глядя на абхишеку; поэт отдаёт себя Господу."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Мадхья 9"
+  notes: "Приложение ГПТ-Нарахари (НГ-136; в каталоге ошибочно в разделе нагари-бхавы). Вероятно Чакраварти (БР)."
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "padas/ru/17.md", from: "10.1", to: "10.8"}
+
+- id: pad-0341
+  source: padas
+  ref: "Нарахари, ГПТ1 с. 242 (№ 16) «শ্রীশচী মায়েরে আগে করি»"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 127.33
+  title: "Абхишека: женщины Надии с Шачи приходят к Шривасу; Шачи украшает Сына"
+  summary: "Женщины Надии рядами идут за Шачи в дом Шриваса посмотреть на абхишеку; преданные льют на голову Горы воду Ганги, отирают Его и одевают в сухой шёлк; Шачи наносит Ему сандал, горочану и чуа; звучат «улу-улу», кхол, караталы и рамшинга."
+  persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@shachi", "@srivasa"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Мадхья 9"
+  notes: "Приложение ГПТ-Нарахари (НГ-137; в каталоге ошибочно в разделе нагари-бхавы). Атрибуция не установлена (Саркар или Чакраварти): в БР нет; простой бенгальский. Только ГПТ."
+  themes: [revelation, family]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "padas/ru/17.md", from: "11.1", to: "11.4"}
+
+- id: pad-0342
+  source: padas
+  ref: "Нарахари-паху (Чакраварти?), ГПТ1 с. 244 (№ 21) «জয় জয় আরতি গৌরকিশোর» = БР 12 (изд. 1912, с. 846–847)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 127.6
+  title: "Арати Гауранги: Адвайта с подносом светильников, Нарахари с чамарой"
+  summary: "Юный Гаура сияет на троне; Адвайта, захваченный премой, совершает арати; справа Нитьянанда, слева Гададхара; Шривас бросает цветы, Нарахари машет чамарой, Шукламбара умащает сандалом, Мурари восклицает «Джая»; певцы поют, Вакрешвара танцует; боги, Шива и Брахма плачут от любви."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@srivasa", "@narahari-sarakara", "@shuklambara", "@murari-gupta", "@madhava-ghosha", "@vasu-ghosha", "@purushottama-pandita", "@vijaya-dasa", "@mukunda-datta", "@vakreshvara", "@shridhara", "@gauridasa-pandita", "@haridasa-thakura", "@indra", "@shiva", "@brahma"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (в каталоге ПА-005 — ошибочно Парамананда). Вероятно Чакраварти (БР; враджабули; подпись «নরহরি-পহু»). Эпитет «похититель сердец юных жён» — сноска о мотиве горожанок."
+  themes: [kirtan, revelation]
+  bhava: [aishvarya]
+  event: ev-gaura-arati-navadvipa
+  verses:
+    - {file: "padas/ru/17.md", from: "12.1", to: "12.10"}
+
+- id: pad-0343
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 261 (№ 44) «নাচত গৌর পুরব-রসে ভোর» = БР 12 (изд. 1912, с. 836)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.81
+  title: "Танец Гауры в расе прежней лилы: Кали-юга бежит от Его рыка"
+  summary: "Гаура танцует, погружённый в расу Кришна-лилы; улыбка рассеивает тьму греха, земля дрожит от поступи; Он рычит, как лев, и Кали-юга бежит; спутники поют, гремят кхол и караталы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-241). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "13.1", to: "13.4"}
+
+- id: pad-0344
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 262 (№ 45) «নৃত্যত গৌরচন্দ্র জনরঞ্জন» = БР 12 (изд. 1912, с. 839)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.82
+  title: "Танец Гауры и Нитьянанды: «две золотые горы»"
+  summary: "Танцуют Гаурачандра и Нитьянанда: их взгляд похищает гордость Камы, лица сияют, как луны; спутники поют, звучит мардала, боги сыплют цветы, мир полон клича «Джая!»."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-140). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, celestial]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "14.1", to: "14.2"}
+
+- id: pad-0345
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 262 (№ 46) «আজু কি আনন্দ সংকীর্তনে» = БР 12 (изд. 1912, с. 839)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.83
+  title: "Санкиртана Гауры и Нитьянанды: «Господь и слуги — в одном состоянии»"
+  summary: "Гаура и Нитьянанда танцуют со спутниками; все вне себя от премы: плачут, рычат, дрожат, обнимаются, берут прах со стоп друг друга и катаются по земле; поэт воспевает Господа."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-141). Вероятно Чакраварти: есть в БР, хотя язык — простой бенгальский трипади."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "15.1", to: "15.4"}
+
+- id: pad-0346
+  source: padas
+  ref: "Нарахари, ГПТ1 с. 262 (№ 47) «নাচত গৌরাঙ্গচাঁদ বিভোর ভাবেতে»"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.84
+  title: "Гаура танцует в бхаве, Гададхара — слева, Нитай идёт следом"
+  summary: "Гауранга танцует, захваченный бхавой; в той же бхаве слева танцует Гададхара; Нитай ходит следом, чтобы золотое тело Господа не упало; Господь обнимает падших."
+  persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-142). Атрибуция не установлена: в БР нет; простой бенгальский пайар. Только ГПТ."
+  themes: [kirtan, ecstasy, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "16.1", to: "16.4"}
+
+- id: pad-0347
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 263 (№ 49) «নাচত গৌরচন্দ্র গুণধাম» = БР 12 (изд. 1912, с. 841)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.85
+  title: "Танец Гауры, обители достоинств"
+  summary: "Сияние тела Гауры затмевает золотую Меру и молнии; улыбка, серьги, кудри в цветах, гирлянда, игра рук, ритм стоп; спутники поют раги, звучат кхол и хамак."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-143; в БР — «у самого дома» Господа). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "17.1", to: "17.4"}
+
+- id: pad-0348
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 263 (№ 50) «নাচত গৌরচন্দ্র নটভূপ» = БР 12 (изд. 1912, с. 842)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.86
+  title: "Танец Гауры, царя танцоров"
+  summary: "Облик Гауры сокрушает гордость сотни тысяч Кам; Он рычит в бхаве, раскидывает руки, улыбается; преданные поют, океан премы затопил землю."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-144). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "18.1", to: "18.4"}
+
+- id: pad-0349
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 264 (№ 52) «নাচত দ্বিজকুলচন্দ্র গৌরহরি» = БР 12 (изд. 1912, с. 882)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.87
+  title: "Танец Гаурахари, луны брахманского рода"
+  summary: "Гаурахари танцует в бхаве прежней лилы; тело в мурашках, кудри — туча на золотой горе, гирлянда малати; спутники поют, мир тонет в океане счастья."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-145). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "19.1", to: "19.4"}
+
+- id: pad-0350
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 264 (№ 53) «নাচত গৌর নিখিল-নট-পণ্ডিত» = БР 12 (изд. 1912, с. 883)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.88
+  title: "Танец Гауры: слон Кали трепещет, злые ищут прибежища"
+  summary: "Сияние Гауры освещает все стороны света; Он рычит сильнее льва, и Кали трепещет; прыжки колеблют землю; спутники поют; злые, дрожа, ищут прибежища у Его стоп."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-242). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "20.1", to: "20.4"}
+
+- id: pad-0351
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 265 (№ 54) «সুরধুনীতীর পরম নিরমল থল» = БР 12 (изд. 1912, с. 891)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.89
+  title: "Танец Гаура-кишоры на берегу Ганги"
+  summary: "На чистом месте у Ганги ликуют преданные, поют и играют; танцует Гаура-кишора в сандаловой пасте, лик затмевает осенние луны, сверкает ожерелье, звенят ножные колокольчики."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-146. Эпитет «похититель сердец женщин» — сноска о мотиве горожанок). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "21.1", to: "21.4"}
+
+- id: pad-0352
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 265 (№ 55) «আজু কি আনন্দ নদীয়ানগরে» = БР 12 (изд. 1912, с. 898)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 121.5
+  title: "Надия смотрит на преображённых Джагая и Мадхая"
+  summary: "Жители Надии сбегаются посмотреть на Джагая и Мадхая: сияют, как солнце, плачут, дрожат, катаются в пыли, омывают слезами стопы Нитая, берут прах со стоп Адвайты, Гададхары, Шриваса и с соломинкой в зубах молят о милости."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagai-madhai", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Мадхья 13–15; ЧЧ Ади 17"
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-243; в каталоге смешана со свадебной падой НГ-030). Вероятно Чакраварти (есть в БР). Рассказ после освобождения — ЧБ Мадхья 13–15."
+  themes: [mercy, ecstasy]
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "padas/ru/17.md", from: "22.1", to: "22.4"}
+
+- id: pad-0353
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 265–266 (№ 56) «নাচত গৌর নটন-পণ্ডিতবর» = БР 12 (изд. 1912, с. 901)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.91
+  title: "Танец Гауры, раздающего прему"
+  summary: "Гаура, лучший из танцоров, с поднятыми руками восклицает «Хари, Хари!»; спутники поют, гремят инструменты; Он раздаёт миру сокровище премы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-147). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "23.1", to: "23.4"}
+
+- id: pad-0354
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 266 (№ 57) «বলি-কলি-মত্ত-মতঙ্গজ-মরদন» = БР 12 (изд. 1912, с. 901)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.9
+  title: "Лев-Гаура, сокрушитель слона Кали, танцует в Надии"
+  summary: "Лев-Гаура танцует в Надии; мир полон клича «Джая!», люди сбегаются, спутники поют, гремят барабаны, земля дрожит; раздавая прему, Господь обнимает грешников."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-244). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "24.1", to: "24.4"}
+
+- id: pad-0355
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 266 (№ 58) «নাচত গৌর নটন-জনরঞ্জন» = БР 12 (изд. 1912, с. 902)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.92
+  title: "Гаура в танце обнимает Гададхару, слушая о прежней любви"
+  summary: "Слушая повесть о прежней любви, Гаура трепещет и плачет; увидев Гададхару, вновь обнимает его и говорит о сокровенном; вздымается океан премы, грешники плывут в счастье."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-245). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "25.1", to: "25.4"}
+
+- id: pad-0356
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 266–267 (№ 59) «নাচত গৌর পরম-সুখ-সদনা» = БР 12 (изд. 1912, с. 902)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.93
+  title: "Танец Гауры, обители высшего счастья"
+  summary: "Тело в мурашках, взгляд полон сострадания, поступь царственного слона; с дрожащим голосом Гаура восклицает «Хари, Хари!», раздаёт сокровище премы и исполняет желания всех."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (НГ-148). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "26.1", to: "26.4"}
+
+- id: pad-0357
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 267 (№ 60) «নাচত শচীতনয় গৌর» = БР 12 (изд. 1912, с. 903)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 80.94
+  title: "Танец Гауры, сына Шачи"
+  summary: "Сладость Гауры чарует ум; тело в мурашках, улыбка льёт нектар, ножные колокольчики звенят в ритм, Кама стыдится Его движений; мир поёт Его достоинства."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-246). Вероятно Чакраварти (есть в БР; враджабули)."
+  themes: [kirtan]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/17.md", from: "27.1", to: "27.4"}
+
+- id: pad-0358
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 283–284 (4.3, № 22) «আজু শঙ্করচরিত শুনি» = БР 12 (изд. 1912, с. 834)"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 125.3
+  title: "Сын Шачи в бхаве Шанкары"
+  summary: "Услышав песнь о деяниях Шанкары, Господь принимает бхаву Шивы: сияние ярче серебряной горы, тело в пепле, рог и дамару, три глаза, змеи вместо украшений, спутанные джаты."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shiva"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Мадхья 8"
+  notes: "Приложение ГПТ-Нарахари (НГ-153). Вероятно Чакраварти: в БР — в пересказе эпизода с певцом Шивы. Бхава Шивы — одна из бхав Господа, не превращение Бога в полубога (сноска)."
+  themes: [revelation, ecstasy]
+  bhava: [shiva]
+  event: ev-shiva-singer
+  verses:
+    - {file: "padas/ru/17.md", from: "28.1", to: "28.4"}
+
+- id: pad-0359
+  source: padas
+  ref: "Нарахари Дас (Саркар?), ГПТ1 с. 292 (4.3, № 52) «কি ভাবে গৌরাঙ্গ মোর ভাবিত থাকে»"
+  file: "padas/ru/17.md"
+  period: P07
+  order: 134.36
+  title: "Господь в бхаве Кришны: Ганга — Ямуна, сад — Вриндаван, Гададхара — Радха"
+  summary: "Захваченный бхавой, Гауранга зовёт «Радха!», видя Гангу, вспоминает Ямуну, сад принимает за Вриндаван, встаёт в тройной изгиб и просит флейту; принимая Гададхару за Радху, не сводит с него глаз; Гададхара, поняв бхаву, становится слева."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "ПК 2122 (Нарахари Саркар); Рупа, Чайтаньяштака 1.6; ЧЧ Антья 14–15"
+  notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-247. Вероятно Саркар: указатель ГПТ2 (с. 187–188), нет в БР, простой бенгальский, мотивы ПК 2122. Только ГПТ."
+  themes: [ecstasy, krishna-lila]
+  bhava: [krishna]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/17.md", from: "29.1", to: "29.5"}
