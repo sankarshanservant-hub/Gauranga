@@ -1,0 +1,8 @@
+{
+  "rest_visible_rgba_pixel_exact": true,
+  "transparent_rgb_normalized_to_zero": true,
+  "parts": 10,
+  "new_generation_calls": 0,
+  "godot_runtime_tested": false,
+  "animation_scope": "joint and translation test, not production walking cycle"
+}

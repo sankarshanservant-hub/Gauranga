@@ -1,0 +1,181 @@
+{
+  "version": "0.1",
+  "status": "TECHNICAL_DRAFT",
+  "origin": [
+    845,
+    1230
+  ],
+  "source_canvas": [
+    1446,
+    2048
+  ],
+  "view": "right-facing artistic profile; one visible eye",
+  "parts": [
+    {
+      "name": "head",
+      "file": "assets/head.png",
+      "bbox": [
+        709,
+        745,
+        945,
+        1010
+      ],
+      "pivot": [
+        832,
+        940
+      ],
+      "parent": "root",
+      "z": 0
+    },
+    {
+      "name": "torso_and_shawl",
+      "file": "assets/torso_and_shawl.png",
+      "bbox": [
+        625,
+        940,
+        1114,
+        1220
+      ],
+      "pivot": [
+        845,
+        1230
+      ],
+      "parent": "root",
+      "z": 0
+    },
+    {
+      "name": "lower_costume",
+      "file": "assets/lower_costume.png",
+      "bbox": [
+        459,
+        1220,
+        1085,
+        1840
+      ],
+      "pivot": [
+        845,
+        1230
+      ],
+      "parent": "root",
+      "z": 0
+    },
+    {
+      "name": "rear_foot",
+      "file": "assets/rear_foot.png",
+      "bbox": [
+        603,
+        1800,
+        685,
+        1930
+      ],
+      "pivot": [
+        630,
+        1810
+      ],
+      "parent": "root",
+      "z": 0
+    },
+    {
+      "name": "front_foot",
+      "file": "assets/front_foot.png",
+      "bbox": [
+        912,
+        1840,
+        1018,
+        1936
+      ],
+      "pivot": [
+        930,
+        1850
+      ],
+      "parent": "root",
+      "z": 0
+    },
+    {
+      "name": "arm_down_upper",
+      "file": "assets/arm_down_upper.png",
+      "bbox": [
+        663,
+        1000,
+        750,
+        1250
+      ],
+      "pivot": [
+        735,
+        1005
+      ],
+      "parent": "root",
+      "z": 10
+    },
+    {
+      "name": "arm_down_forearm",
+      "file": "assets/arm_down_forearm.png",
+      "bbox": [
+        663,
+        1220,
+        708,
+        1430
+      ],
+      "pivot": [
+        680,
+        1235
+      ],
+      "parent": "arm_down_upper",
+      "z": 10
+    },
+    {
+      "name": "arm_down_hand",
+      "file": "assets/arm_down_hand.png",
+      "bbox": [
+        669,
+        1400,
+        753,
+        1516
+      ],
+      "pivot": [
+        686,
+        1415
+      ],
+      "parent": "arm_down_forearm",
+      "z": 10
+    },
+    {
+      "name": "arm_open_forearm",
+      "file": "assets/arm_open_forearm.png",
+      "bbox": [
+        1027,
+        1030,
+        1170,
+        1151
+      ],
+      "pivot": [
+        1032,
+        1148
+      ],
+      "parent": "root",
+      "z": 20
+    },
+    {
+      "name": "arm_open_hand",
+      "file": "assets/arm_open_hand.png",
+      "bbox": [
+        1140,
+        1011,
+        1273,
+        1086
+      ],
+      "pivot": [
+        1155,
+        1055
+      ],
+      "parent": "arm_open_forearm",
+      "z": 20
+    }
+  ],
+  "limits": [
+    "Lower costume includes hanging shawl and is intentionally static.",
+    "No hidden legs or hidden shoulder anatomy reconstructed.",
+    "Arms are from an earlier generated draft, not original artist pixels.",
+    "Left view and three-quarter views are not included."
+  ]
+}

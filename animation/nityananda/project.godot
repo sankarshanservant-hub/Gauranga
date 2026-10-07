@@ -1,0 +1,10 @@
+config_version=5
+[application]
+config/name="Nityananda Profile Joint Test"
+run/main_scene="res://main.tscn"
+[display]
+window/size/viewport_width=1100
+window/size/viewport_height=900
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.96, 0.95, 0.92, 1)
