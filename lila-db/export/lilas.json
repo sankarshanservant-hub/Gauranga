@@ -13847,7 +13847,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "jcm-0043",
@@ -13908,7 +13908,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0079",
@@ -13971,7 +13971,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0043",
@@ -14035,7 +14035,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "pvl-0230",
@@ -14100,7 +14100,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0063",
@@ -14160,7 +14160,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0065",
@@ -14282,7 +14282,70 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "pad-0001",
+  "source": "padas",
+  "ref": "Говинда Гхош, ПК 1597 «গোরা গেলা পূর্বদেশ»",
+  "file": "padas/ru/01.md",
+  "period": "P05",
+  "order": 72,
+  "title": "Разлука в Навадвипе, пока Нимай в Восточной Бенгалии",
+  "summary": "Гора ушёл в Восточный край: плачут Лакшмиприя и Шачи, Малини утешает Шачи, горожанки Надии не находят себе места; поэт ждёт дня, когда снова увидит Гаурангу на пути к Ганге.",
+  "persons": [
+   "@govinda-ghosha",
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@shachi",
+   "@malini"
+  ],
+  "places": [
+   "#navadvipa",
+   "#east-bengal"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "ЧБ Ади 14; ЧЧ Ади 16; Мурари 1.11.5–20; Лочан lcm-0079–0080",
+  "notes": "Лакшмиприя ещё жива (по ЧБ и Мурари она скрылась, пока Господь был в отъезде).",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "years": [
+   1505,
+   1506
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: ни намёка на божественность Нимая и киртан — пада сложена во время самой поездки, до Гаи; возможно, первая пада о Гауре",
+  "event": "ev-east-bengal-tour",
+  "verses": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 12,
+    "line_to": 26,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L12-L26",
+    "file_en": "padas/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L12-L26"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "age": [
+   19,
+   20
+  ],
+  "attestation": 6
  },
  {
   "id": "lcm-0081",
