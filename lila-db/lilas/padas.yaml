@@ -4827,7 +4827,7 @@
   notes: "Только ГПТ; новая строка каталога ВГ-156. По Маджумдару, пады Васу о детстве — вымысел поэта."
   themes: [family, pranks]
   bhava: [child]
-  event: ev-nimai-first-steps
+  event: ev-first-steps
   verses:
     - {file: "padas/ru/12.md", from: "4.1", to: "4.5"}
 
@@ -5531,7 +5531,7 @@
   divergence: "Мурари, предсказывающий санньясу младенцу, в житиях не упоминается."
   themes: [family, pranks]
   bhava: [child]
-  event: ev-nimai-first-steps
+  event: ev-first-steps
   verses:
     - {file: "padas/ru/13.md", from: "11.1", to: "11.3"}
 
@@ -7752,3 +7752,574 @@
   themes: [author, revelation]
   verses:
     - {file: "padas/ru/18.md", from: "28.1", to: "28.5"}
+
+- id: pad-0388
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 65 (2.2, № 10) «নদীয়ার নারী পুরুষ সুকৃতি মানি» = БР 12 (изд. 1912, с. 768; изд. 1960, ст. 956–959)"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 20.5
+  title: "Первое кормление рисом: Дитя на коленях у Ниламбары"
+  summary: "Мужчины и женщины Надии сходятся с дарами на аннапрашану Нимая; Дитя в новых украшениях сидит на коленях у Ниламбары и, вкушая сладкий рис, улыбается; все славят Шачи и Джаганнатху."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nilambara-chakravarti", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4; ЧЧ Ади 14; Мурари 1.6"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка каталога НГ-262. Вероятно Чакраварти: есть в БР. По Маджумдару, пады о детстве Нимая — поздние."
+  themes: [family, festival]
+  bhava: [child]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "padas/ru/19.md", from: "1.1", to: "1.4"}
+
+- id: pad-0389
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 65 (2.2, № 11) «জগন্নাথ মিশ্র মহাসুখে» = БР 12 (изд. 1912, с. 769; изд. 1960, ст. 970–979)"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 10.5
+  title: "Нимай на коленях у отца и ползание по двору"
+  summary: "Джаганнатха Мишра ласкает сына; Нимай слезает с его колен, ползает по двору, оглядываясь; Шачи зовёт Его на руки, и Он, улыбаясь, забирается к ней."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Мурари 1.6; ЧЧ Ади 14"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-006. Вероятно Чакраварти: есть в БР (сразу за падой Васу Гхоша «এক মুখে কি কহিব»)."
+  themes: [family]
+  bhava: [child]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "padas/ru/19.md", from: "2.1", to: "2.10"}
+
+- id: pad-0390
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 65 (2.2, № 12) «শচী ঠাকুরাণী চারু ছাঁদে» = БР 12 (изд. 1912, с. 770–771; изд. 1960, ст. 990–997)"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 30.5
+  title: "Шачи учит Гору ходить"
+  summary: "Шачи протягивает сыну палец; Он встаёт, делает несколько шагов, падает; мать берёт Его на руки и кормит грудью."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Мурари 1.6; ЧБ Ади 4"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-263. Вероятно Чакраварти: есть в БР (там же цитата Мурари о первых шагах)."
+  themes: [family]
+  bhava: [child]
+  event: ev-first-steps
+  verses:
+    - {file: "padas/ru/19.md", from: "3.1", to: "3.8"}
+
+- id: pad-0391
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 66–67 (2.2, № 15 «গৌরবদন সুখসদন সুধাময়») = «Гаура-чарита-чинтамани», гл. 5, пада 8"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.01
+  title: "Старцы Навадвипы любуются лицом Гауры"
+  summary: "Старики, дрожа и плача, опираясь друг на друга, говорят: кто сотворил сына Мишры, похитившего наш слух, ум и глаза; миг без Него — как кальпа; над нами смеются, дом опостылел, к своим сыновьям нет любви."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-007. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "4.1", to: "4.6"}
+
+- id: pad-0392
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 67 (2.2, № 16 «রজনী প্রভাত তেজি নিজ গৃহ») = «Гаура-чарита-чинтамани», гл. 5, пада 6"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.02
+  title: "Старцы молят богов о благе Гауры"
+  summary: "На рассвете старцы с посохами приходят во двор Шачи и молят Брахму, Вишну, Шиву, Сарасвати и Бхагавати о долгой жизни, славе, учёности Гауры и о том, чтобы всегда видеть Нимая."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-008; сноска о ватсалье и молитвах полубогам. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "5.1", to: "5.6"}
+
+- id: pad-0393
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 67 (2.2, № 17 «গৌরস্নেহভরে গর গর গাত») = «Гаура-чарита-чинтамани», гл. 5, пада 5"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.03
+  title: "Старцы на рассвете спешат к Гауре"
+  summary: "Переполненные любовью старики рассказывают о Гауре домашним, поднимаются с постелей и, дрожа, с посохами, идут к Нему."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-009. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "6.1", to: "6.4"}
+
+- id: pad-0394
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 67 (2.2, № 18 «শুন মোর বাণী না জানি কি হবে») = «Гаура-чарита-чинтамани», гл. 5, пада 4"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.04
+  title: "Старик посылает домашних к Шачи"
+  summary: "Одряхлевший старик просит домашних почитать богов, одаривать брахманов, посылать Нимаю подарки, научить Шачи благим обрядам и взять с Нимая клятву оставить упрямство."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-264; поэт вводит себя в лилу («пойдите с Нарахари»). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "7.1", to: "7.4"}
+
+- id: pad-0395
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 68 (2.2, № 19 «নিশি পরভাত সময়ে যেরূপ আনন্দ শচীর ঘরে») = «Гаура-чарита-чинтамани», гл. 7, пада 1 (глава о горожанках-нагари)"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.05
+  title: "Радость на рассвете в доме Шачи"
+  summary: "Неописуемая радость в доме Шачи на рассвете: Гаура раскинул во дворе сеть, чарующую мир; люди сбегаются и не могут уйти."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-265; в ГЧЧ открывает главу о нагари — мотив горожанок, сноска; сама пада без нагари-мотива. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "8.1", to: "8.4"}
+
+- id: pad-0396
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 68 (2.2, № 20 «আহা মরি মরি গৌরাঙ্গচাঁদের চরিতে») = «Гаура-чарита-чинтамани», гл. 5, пада 1"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.06
+  title: "Жители Надии не живут без Гауры; Гора говорит со стариками"
+  summary: "Жители Надии не могут пережить ночь без Гауры и просыпаются с Его именем; Гора, полный нежности, ласково говорит со старыми родными."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-010. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "9.1", to: "9.4"}
+
+- id: pad-0397
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 68 (2.2, № 21 «শুন হে সুমতি অতি নিরজনে») = «Гаура-чарита-чинтамани», гл. 5, пада 2"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.07
+  title: "«Сын Владыки Враджа явился здесь»"
+  summary: "Старик по секрету говорит: кажется, Сын Владыки Враджа явился здесь; Шриваса, Мурари не живут без Его даршана, Адвайта постоянно здесь и всем рассказывает о Нём."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@srivasa", "@murari-gupta", "@advaita"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-011. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family, revelation]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "10.1", to: "10.4"}
+
+- id: pad-0398
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 68–69 (2.2, № 22 «শুন ওহে সতি নদীয়া বসতি») = «Гаура-чарита-чинтамани», гл. 5, пада 3"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.08
+  title: "Старик просит жену молиться о Нимае"
+  summary: "Старик говорит жене: на старости лет он насмотрелся на Нимая; пусть она чтит богов, даёт обеты, одарит звездочётов и с Нарахари совершит благие обряды в доме Шачи."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-266. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "11.1", to: "11.4"}
+
+- id: pad-0399
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 69 (2.2, № 23 «আজু শুভক্ষণে পোহাইল নিশি») = «Гаура-чарита-чинтамани», гл. 6, пада 1"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.09
+  title: "Гора среди спутников, как луна среди звёзд"
+  summary: "Жители Надии бегут на рассвете в дом Шачи; Гора сидит посреди двора в кругу спутников; все забыли себя."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-012 (каталог: ошибочно № 13). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "12.1", to: "12.6"}
+
+- id: pad-0400
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 69 (2.2, № 24 «অদ্বৈতঘরণী সীতা ঠাকুরাণী») = «Гаура-чарита-чинтамани», гл. 6, пада 2"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.1
+  title: "Сита Тхакурани любуется Гаурой и наставляет Шачи"
+  summary: "Сита, супруга Адвайты, не мигая смотрит на улыбку Гауры, плачет, наставляет Шачи и благословляет."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@sita-thakurani", "@advaita", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-267. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "13.1", to: "13.4"}
+
+- id: pad-0401
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 69–70 (2.2, № 25 «শ্রীবাসবনিতা অতি সুচরিতা») = «Гаура-чарита-чинтамани», гл. 6, пада 3"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.11
+  title: "Малини, жена Шривасы, любуется Гаурой"
+  summary: "Стыдливая и целомудренная жена Шривасы, прикрыв лицо, стоит рядом с Ситой и любуется Гаурой, сидящим среди спутников."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@malini", "@srivasa", "@sita-thakurani"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-013 (каталог: ошибочно № 15). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "14.1", to: "14.4"}
+
+- id: pad-0402
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 70 (2.2, № 26 «রজনীপ্রভাতে শচীদেবী চিতে») = «Гаура-чарита-чинтамани», гл. 6, пада 4"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.12
+  title: "Шачи просит Ситу благословить Нимая"
+  summary: "Шачи, обняв стопы Ситы, просит благословить Нимая на долгую жизнь, чтобы Он оставался дома и после ухода Вишварупы не было разлуки."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@sita-thakurani", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-268; в ГЧЧ — «Вишварупа — это мой Нитай» (вариант). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family, separation]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "15.1", to: "15.6"}
+
+- id: pad-0403
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 70–71 (2.2, № 27 «শচীর আলয় আলো হইয়াছে») = «Гаура-чарита-чинтамани», гл. 6, пада 5"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.13
+  title: "Пожилые женщины молят богов о благе Нимая"
+  summary: "Пожилые женщины отдают Нимаю свои заслуги, обещают почитать Шиву, Гангу, Чанди и Лакшми, чтобы Он жил долго, не уезжал на чужбину и был богат; любят Его больше собственных сыновей."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-269; сноска о ватсалье. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "16.1", to: "16.12"}
+
+- id: pad-0404
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 71 (2.2, № 28 «আজু কি আনন্দ শ্রীশচীভবনে») = «Гаура-чарита-чинтамани», гл. 6, пада 6"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.14
+  title: "Вишвамбхара дарит каждому счастье в его бхаве"
+  summary: "На рассвете Вишвамбхара сидит среди спутников и отвечает каждому в его бхаве; старики и старухи плачут и пересказывают Его деяния."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-014. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "17.1", to: "17.4"}
+
+- id: pad-0405
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 71 (2.2, № 29) «নদীয়ার অতি পুণ্যবতী পতিব্রতাগণের» = БР 12 (изд. 1912, с. 771; изд. 1960, ст. 1000–1003)"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 10.6
+  title: "Женщины Надии на рассвете несут дары Младенцу"
+  summary: "Благочестивые женщины Надии, думая больше о сыне Шачи, чем о своих детях, на рассвете несут Ему подносы с дарами, видят Его на коленях матери, берут на руки и забывают себя."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-270. Вероятно Чакраварти: есть в БР (Ишана: женщины Навадвипы приходили сюда на рассвете). Ватсалья, не нагари."
+  themes: [family]
+  bhava: [child]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "padas/ru/19.md", from: "18.1", to: "18.4"}
+
+- id: pad-0406
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 72 (2.2, № 30) «শুন শুন প্রাণসখি তোমারে বলিয়ে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 7"
+  file: "padas/ru/19.md"
+  period: P07
+  order: 41.15
+  title: "«Каушалья, Яшода, Шачи»: хвала матери Гауры"
+  summary: "Женщина говорит подруге: благословенна жизнь в Надии — как Каушалья в Трету и Яшода в Двапару, так в Кали Шачи; какой-то бог смилостивился — Нимай, бывший сорванцом, теперь хорош."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-271. Вероятно Чакраварти: есть в ГЧЧ."
+  themes: [family]
+  event: ev-navadvipa-elders-morning-darshan
+  verses:
+    - {file: "padas/ru/19.md", from: "19.1", to: "19.4"}
+
+- id: pad-0407
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 72 (2.2, № 31) «নিমাইচাঁদের কথা তোমারে বলিয়ে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 8"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 3.5
+  title: "Новорождённый плачет и не берёт грудь; Адвайта успокаивает Его"
+  summary: "Женщина вспоминает: родившись в полнолуние фалгуна во время затмения, Младенец неистово плакал и не брал грудь, пока великий аскет из Шантипура каким-то способом не заставил Его сосать."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@advaita", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Ади 13; ЧБ Ади 3; «Адвайта-пракаша» 10"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-015. Вероятно Чакраварти: есть в ГЧЧ. Сноска о явлении Господа (не рождение, как у обусловленных душ)."
+  divergence: "По «Адвайта-пракаше», Младенец взял грудь, услышав святое имя; здесь Адвайта успокаивает Его «какой-то хитростью»."
+  themes: [family, revelation]
+  bhava: [child]
+  event: ev-newborn-refuses-milk
+  verses:
+    - {file: "padas/ru/19.md", from: "20.1", to: "20.4"}
+
+- id: pad-0408
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 72–73 (2.2, № 32; дублет — № 42, с. 76) «পরাণ নিমাই মোর খেপা বড় বটে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 9"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 12
+  title: "Плач Младенца утихает от имени Хари"
+  summary: "Ползающий Нимай, взобравшись к Шачи на руки, безутешно рыдает; одна женщина, хлопнув в ладоши, говорит «Хари» — Он смеётся, все поют «Хари», и Он, держась за руку матери, пляшет."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Ади 14; ЧБ Ади 4"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-016 (= НГ-023 — сокращённый дублет без эпизода с именем Хари). Вероятно Чакраварти: есть в ГЧЧ."
+  themes: [kirtan, family]
+  bhava: [child]
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "padas/ru/19.md", from: "21.1", to: "21.6"}
+
+- id: pad-0409
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 73 (2.2, № 33) «নিমাই চঞ্চল খেপা কিছুই না মানে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 10"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 32
+  title: "Дитя ложится на змея; плач о пролетевшей птице"
+  summary: "Играя со своей тенью, Нимай ложится на капюшон змеи и ловит её, когда та уползает; Шачи уносит Его; затем Он горько плачет, требуя поймать пролетевшую птицу, пока Сам не забывает о ней."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4; БР 12 (изд. 1960, ст. 982–983)"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-272. Вероятно Чакраварти: есть в ГЧЧ. Змей — Ананта (сноска)."
+  themes: [revelation, pranks]
+  bhava: [child]
+  event: ev-child-lies-on-snake
+  verses:
+    - {file: "padas/ru/19.md", from: "22.1", to: "22.6"}
+
+- id: pad-0410
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 73 (2.2, № 34) «সোণার নিমাই মোর পরাণ-পুতলি গো» = «Гаура-чарита-чинтамани», гл. 6, пада 11"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 14
+  title: "«Я — сын пастуха»: Нимай и масло"
+  summary: "Нимай, плача, требует масла и катается в пыли; съев принесённое матерью масло, говорит, что Он — сын пастуха; на вопрос «какого?» убегает, а Шачи смущена."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-017. Вероятно Чакраварти: есть в ГЧЧ."
+  themes: [pranks, krishna-lila, revelation]
+  bhava: [child, krishna]
+  event: ev-nimai-cowherd-son-butter
+  verses:
+    - {file: "padas/ru/19.md", from: "23.1", to: "23.4"}
+
+- id: pad-0411
+  source: padas
+  ref: "Нарахари (?), ГПТ1 с. 73 (2.2, № 35) «একদিন নির্জনে নিমাই ঘরে বুলে গো», двустишия 1–2"
+  file: "padas/ru/19.md"
+  period: P02
+  order: 36
+  title: "Следы стоп со знаками флага и ваджры"
+  summary: "Шачи тайно показывает Мишре дивные следы в доме; он видит знаки флага, ваджры, стрекала и говорит, что это следы их домашнего Божества Гопалы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
+  themes: [revelation, family]
+  bhava: [child]
+  event: ev-footprints-gopala
+  verses:
+    - {file: "padas/ru/19.md", from: "24.1", to: "24.2"}
+
+- id: pad-0412
+  source: padas
+  ref: "Нарахари (?), ГПТ1 с. 74 (2.2, № 35), двустишие 3"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 4
+  title: "Флейта и имя Радхи в устах Нимая"
+  summary: "Шачи слышит, как из уст Нимая льётся звук флейты и имя «Радха», и от страха умолкает."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@radha"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
+  themes: [revelation, krishna-lila]
+  bhava: [child, krishna]
+  event: ev-flute-sound-radha-name
+  verses:
+    - {file: "padas/ru/19.md", from: "24.3", to: "24.3"}
+
+- id: pad-0413
+  source: padas
+  ref: "Нарахари (?), ГПТ1 с. 74 (2.2, № 35), двустишия 4–6"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 3
+  title: "Воры уносят Нимая и возвращают Его к дому"
+  summary: "Двое воров ради украшений уносят Нимая; Шачи с плачем ищет Его; сбитые с толку воры приходят к дому Шачи, оставляют дитя и бегут; поэт посмеивается над ними."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
+  themes: [pranks, revelation]
+  bhava: [child]
+  event: ev-thieves-carry-off-nimai
+  verses:
+    - {file: "padas/ru/19.md", from: "24.4", to: "24.6"}
+
+- id: pad-0414
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 74 (2.2, № 36) «শুনয়ে নিমাইর কথা একদিন সুখে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 12"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 80.5
+  title: "«Я — Бог богов»: Нимай съедает подношение"
+  summary: "Шачи поклоняется божеству, чтобы Нимай стал спокойнее; Он съедает подношение и говорит: «Я — Бог богов, почему ты не поклоняешься Мне?»; Шачи в страхе гонится за Ним, а Он жалуется отцу, что мать не даёт Ему есть."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан Дас, Ади-кханда"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-018. Вероятно Чакраварти: есть в ГЧЧ."
+  divergence: "Божество не названо (у Лочана — богиня Шаштхи); вместо наставления о поливе корня — шутка «Я — Бог богов» и жалоба отцу."
+  themes: [pranks, revelation]
+  bhava: [child]
+  event: ev-shashthi-offering-eaten
+  verses:
+    - {file: "padas/ru/19.md", from: "25.1", to: "25.4"}
+
+- id: pad-0415
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 74 (2.2, № 37) «এ মোর নিমাইচাঁদ খাইতে চাহিলে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 13"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 15
+  title: "Проказы Нимая в домах Надии"
+  summary: "Если промедлить с едой, Нимай крушит дом; не боится ни отца, ни матери, боится лишь Вишварупы; бродит по Надии, забирается в чужие дома и доводит детей до слёз."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishvarupa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 6; ЧЧ Ади 14"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-019. Вероятно Чакраварти: есть в ГЧЧ."
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-nimai-pranks-neighbours
+  verses:
+    - {file: "padas/ru/19.md", from: "26.1", to: "26.4"}
+
+- id: pad-0416
+  source: padas
+  ref: "Нарахари (?), ГПТ1 с. 74–75 (2.2, № 38) «একদিন নিমাই প্রবেশি গৃহমাঝে গো»"
+  file: "padas/ru/19.md"
+  period: P03
+  order: 30.5
+  title: "Нимай на выброшенных горшках: «нечистота — в твоём уме»"
+  summary: "Нимай смешивает в доме все припасы; Шачи гонится за Ним с палкой; Он садится на груду выброшенных горшков и говорит, что горшок, где варили бхогу Вишну, не может быть нечист; изумлённая мать купает Его."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: teaching
+  authority: D
+  parallels: "ЧЧ Ади 14; ЧБ Ади 6; Мурари 1.6"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-020. Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер. Сноска: не майявада — всё, связанное со служением Вишну, чисто."
+  themes: [pranks, teaching]
+  bhava: [child]
+  teaching: [purity]
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "padas/ru/19.md", from: "27.1", to: "27.5"}
+
+- id: pad-0417
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 75 (2.2, № 39) «নিমাইচাঁদের এ চরিত কত কব গো» = «Гаура-чарита-чинтамани», гл. 6, пада 14"
+  file: "padas/ru/19.md"
+  period: P04
+  order: 22
+  title: "Проказы Нимая на гхатах Ганги"
+  summary: "Во время омовения Нимай досаждает мужчинам и женщинам и ссорится с несущими подношения; на жалобы родителям отвечает благонравием; Он — как Кану в доме Нанды."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 6"
+  notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-274. Вероятно Чакраварти: есть в ГЧЧ."
+  themes: [pranks, krishna-lila]
+  bhava: [child]
+  event: ev-ganga-ghat-pranks
+  verses:
+    - {file: "padas/ru/19.md", from: "28.1", to: "28.4"}

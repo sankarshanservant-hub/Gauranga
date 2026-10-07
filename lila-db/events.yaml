@@ -5439,16 +5439,6 @@
   themes: [festival, kirtan]
   notes: "Господь пляшет с преданными, осыпая их цветным порошком; жители Пури сбегаются смотреть. Известно по паде Мадхави Даса (ПК 2290)."
 
-- id: ev-nimai-first-steps
-  title: "Первые шаги Нимая"
-  title_en: "Nimai's first steps"
-  period: P02
-  order: 30
-  cc: ""
-  cb: "Ади 4"
-  themes: [family, pranks]
-  notes: "Известно по паде с подписью Васу Гхоша (ГПТ): малыш держится за палец матери, падает, катается в пыли."
-
 - id: ev-gaura-morning-navadvipa
   title: "Утро Господа в Навадвипе: пробуждение и путь к Ганге"
   title_en: "The Lord's morning in Navadvipa: awakening and going to the Ganga"
@@ -5546,3 +5536,101 @@
   cb: ""
   themes: [festival, krishna-lila]
   notes: "По «Бхакти-ратнакаре» (12-я волна) и падам ГПТ 5.1: Господь объявил Видьянидхи (в Кришна-лиле — Вришабхану, отцу Радхи), что завтра у него праздник рождения Радхики; на другой день Он со спутниками в наряде пастухов праздновал у него."
+
+- id: ev-navadvipa-elders-morning-darshan
+  title: "Утро в доме Шачи: старики и пожилые женщины Навадвипы любуются Гаурой"
+  title_en: "Morning at Shachi's house: the elders of Navadvipa gaze at Gaura"
+  period: P07
+  order: 41
+  cc: ""
+  cb: ""
+  themes: [family, revelation]
+  notes: "Цикл «утренних игр» в «Гаура-чарита-чинтамани» Нарахари Чакраварти (гл. 5–6) и пады с подписью Нарахари в ГПТ 2.2: на рассвете Гаура сидит во дворе дома Шачи среди спутников; старики и пожилые женщины Навадвипы, Сита Тхакурани, Малини и сама Шачи любуются Им, молят богов о Его благе и вспоминают Его детские проказы (рассказанные эпизоды — отдельными событиями периодов P02–P04). Обрамление — время после возвращения Господа из Гаи (упомянуты Шриваса, Мурари, Адвайта, Нитай), но поэт свободно смешивает его с детством; датировка условна."
+
+- id: ev-crying-stops-at-holy-name
+  title: "Младенец плачет и затихает, услышав имя Хари"
+  title_en: "The Infant cries and is stilled on hearing the name of Hari"
+  period: P02
+  order: 12
+  cc: "Ади 14"
+  cb: "Ади 4"
+  themes: [kirtan, family]
+  bhava: [child]
+  notes: "Безутешный плач Младенца прекращается, когда женщины, хлопая в ладоши, поют «Хари» — так Господь заставляет всех петь святое имя."
+
+- id: ev-child-lies-on-snake
+  title: "Дитя ложится на змея во дворе (Ананта служит Господу)"
+  title_en: "The Child lies down on a snake in the courtyard (Ananta serves the Lord)"
+  period: P02
+  order: 32
+  cc: ""
+  cb: "Ади 4"
+  themes: [revelation, family]
+  bhava: [child]
+  notes: "Ползающий Младенец ложится на кольца змея во дворе дома Мишры; все в ужасе; по БР 12 — это Ананта-дева прошёл здесь, чтобы послужить Господу."
+
+- id: ev-footprints-gopala
+  title: "Следы стоп со знаками флага и ваджры в доме Мишры"
+  title_en: "Footprints with the marks of flag and vajra in Mishra's house"
+  period: P02
+  order: 36
+  cc: ""
+  cb: "Ади 4"
+  themes: [revelation, family]
+  bhava: [child]
+  notes: "Шачи и Джаганнатха Мишра видят в доме следы маленьких стоп со знаками флага, ваджры, стрекала и решают, что это ходил их домашний Бала-Гопала."
+
+- id: ev-thieves-carry-off-nimai
+  title: "Воры уносят Нимая ради украшений и, заблудившись, возвращают Его к дому"
+  title_en: "Thieves carry Nimai off for His ornaments and, bewildered, bring Him back home"
+  period: P03
+  order: 3
+  cc: ""
+  cb: "Ади 4"
+  themes: [pranks, revelation]
+  bhava: [child]
+  notes: "Двое воров уносят нарядного ребёнка на плечах; сбитые с толку силой Господа (вишну-майей), они приходят к дому Джаганнатхи Мишры, ставят Нимая наземь и бегут; родные не понимают, что произошло."
+
+- id: ev-flute-sound-radha-name
+  title: "Шачи слышит из уст Нимая звук флейты и имя Радхи"
+  title_en: "Shachi hears the sound of a flute and Radha's name from Nimai's mouth"
+  period: P03
+  order: 4
+  cc: ""
+  cb: ""
+  themes: [revelation, krishna-lila]
+  bhava: [child, krishna]
+  notes: "Известно лишь по паде с подписью Нарахари (ГПТ 2.2, № 35; атрибуция не установлена): Шачи пугается и умолкает."
+
+- id: ev-nimai-cowherd-son-butter
+  title: "Нимай просит масла и называет Себя сыном пастуха"
+  title_en: "Nimai begs for butter and calls Himself a cowherd's son"
+  period: P03
+  order: 14
+  cc: ""
+  cb: ""
+  themes: [pranks, krishna-lila, revelation]
+  bhava: [child, krishna]
+  notes: "Пада с подписью Нарахари (ГПТ 2.2, № 34 = «Гаура-чарита-чинтамани»): съев масло, Нимай говорит, что Он — сын пастуха; на вопрос «какого?» убегает, а Шачи смущена."
+
+- id: ev-nimai-pranks-neighbours
+  title: "Проказы Нимая в домах Навадвипы; боится Он лишь Вишварупы"
+  title_en: "Nimai's pranks in the houses of Navadvipa; He fears only Vishvarupa"
+  period: P03
+  order: 15
+  cc: "Ади 14"
+  cb: "Ади 6"
+  themes: [pranks, family]
+  bhava: [child]
+  notes: "Нимай крушит дом, если промедлить с едой, бродит по Надии, забирается в чужие дома, доводит детей до слёз; соседи жалуются; слушается Он лишь старшего брата."
+
+- id: ev-ganga-ghat-pranks
+  title: "Проказы Нимая на гхатах Ганги и жалобы Джаганнатхе Мишре"
+  title_en: "Nimai's pranks on the ghats of the Ganga and the complaints to Jagannatha Mishra"
+  period: P04
+  order: 22
+  cc: "Ади 14"
+  cb: "Ади 6"
+  themes: [pranks, family]
+  bhava: [child]
+  notes: "Во время омовения Нимай досаждает купающимся мужчинам и женщинам, отнимает подношения у идущих на пуджу; на жалобы родителям Он отвечает показным благонравием."
