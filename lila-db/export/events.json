@@ -1436,7 +1436,8 @@
    "mkc-0016",
    "pvl-0041",
    "pad-0128",
-   "pad-0232"
+   "pad-0232",
+   "pad-0281"
   ],
   "sources": [
    "advaita-prakasha",
@@ -16775,6 +16776,36 @@
    "pad-0260",
    "pad-0261",
    "pad-0262"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-jiva-gosvami-writings",
+  "title": "Сочинения Шри Дживы Госвами во Вриндаване",
+  "title_en": "The writings of Sri Jiva Gosvami in Vrindavana",
+  "period": "P15",
+  "order": 120,
+  "cc": "Ади 10.85",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "learning"
+  ],
+  "notes": "Перечень книг Дживы (Гопала-чампу, Шат-сандарбха, Хари-намамрита-вьякарана и др.) — в паде с подписью Баларамы Даса (ГПТ).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pad-0282"
   ],
   "sources": [
    "padas"

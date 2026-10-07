@@ -5670,3 +5670,151 @@
   event: ev-navadvipa-awaits-lord-return
   verses:
     - {file: "padas/ru/13.md", from: "18.1", to: "18.5"}
+
+- id: pad-0278
+  source: padas
+  ref: "Баларама Дас, ПК 2299 = КГЧ 23.2 = ГПТ1 с. 426–427 (№ 43) «রূপে গুণে অনুপমা»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.15
+  title: "Нитьянанда-Баларама: отчего Он стал авадхутой?"
+  summary: "Тот, с кем в раса-лиле играли несметные девы Враджа, Баларама, источник Санкаршаны и Шеши, ныне авадхута в гуще санкиртаны; Нитьянанда погрузил всех в расу Гауры — лишь поэт остался в стороне."
+  persons: ["@balarama-dasa-poet", "@nityananda", "@balarama", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "Бхаг. 10.65; ЧЧ Ади 5"
+  notes: "Новая строка каталога; ядро (ПК, КГЧ). В КГЧ и ГПТ полустишия двух последних строф переставлены."
+  themes: [author, revelation]
+  bhava: [balarama]
+  verses:
+    - {file: "padas/ru/13.md", from: "19.1", to: "19.4"}
+
+- id: pad-0279
+  source: padas
+  ref: "Баларама Дас, ПК 2298 = ГПТ1 с. 427 (№ 44) «গজেন্দ্র-গমনে যায়»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.16
+  title: "Идёт Авадхута — океан милости"
+  summary: "Нитьянанда идёт поступью царя слонов, сотрясая землю и пугая безбожников, творит Хари-санкиртану; это Баларама, сын Рохини, источник Шешашайи и Санкаршаны, ныне нищим странником спасающий три мира; служение Его стопам дарует лилы Враджа."
+  persons: ["@balarama-dasa-poet", "@nityananda", "@balarama"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 5–6"
+  notes: "Новая строка каталога; ядро (ПК)."
+  themes: [author, mercy]
+  bhava: [balarama]
+  verses:
+    - {file: "padas/ru/13.md", from: "20.1", to: "20.6"}
+
+- id: pad-0280
+  source: padas
+  ref: "Баларама Дас, ПК 2348 = ГПТ1 с. 449–450 (№ 35) «বন্দিব অদ্বৈত শিরে»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.17
+  title: "Хвала Адвайте: он привёл Господа на землю"
+  summary: "Поэт склоняется перед Адвайтой, призвавшим на землю Махапрабху, сына Нанды и Шачи; Адвайта даром бхакти спас высоких и низких; поток премы — от Нитая, Адвайта — его волна, ветер Чайтаньи поднял её до Голоки; обделён лишь поэт."
+  persons: ["@balarama-dasa-poet", "@advaita", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 3; ЧБ Ади 2"
+  notes: "В каталоге (БД-029) числилась «только ГПТ»; найдена в ПК (начало 24-го паллава) — ядро."
+  themes: [author, mercy]
+  verses:
+    - {file: "padas/ru/13.md", from: "21.1", to: "21.6"}
+
+- id: pad-0281
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 450 (№ 36) «ভাবের আবেশে বহু সীতাপতি মোর পহুঁ»"
+  file: "padas/ru/13.md"
+  period: P01
+  order: 70.5
+  title: "Адвайта с рёвом возвещает: «Привёл! Он взошёл в Надии!»"
+  summary: "Погружённый в бхаву Адвайта вдруг вскакивает с громовым рёвом: «Привёл, привёл на землю! Спаситель мира взошёл в Надии!» — и пляшет; с владыкой Шантипура пляшут мужчины и женщины, рёв пронзает семь небес, три мира узнают о пришествии Махапрабху."
+  persons: ["@balarama-dasa-poet", "@advaita", "@mahaprabhu"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 13; ЧБ Ади 2"
+  notes: "Только ГПТ (БД-030)."
+  themes: [revelation, ecstasy]
+  event: ev-gaura-appearance
+  verses:
+    - {file: "padas/ru/13.md", from: "22.1", to: "22.4"}
+
+- id: pad-0282
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 466 (№ 39) «রূপ সনাতন সঙ্গে শ্রীজীব গোসাঞি»"
+  file: "padas/ru/13.md"
+  period: P15
+  order: 120.5
+  title: "Книги Шри Дживы Госвами"
+  summary: "Вместе с Рупой и Санатаной Шри Джива написал бессчётные книги о бхакти; поэт перечисляет «Гопала-вирудавали», «Мадхава-махотсаву», «Гопала-чампу», «Сапта-сандарбху», «Харинамамрита-вьякарану» и др.: Джива отворил врата бхакти."
+  persons: ["@balarama-dasa-poet", "@jiva-gosvami", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: C
+  parallels: "ЧЧ Ади 10.85"
+  notes: "Только ГПТ (БД-031); поэт не ранее конца XVI в."
+  themes: [learning, teaching]
+  event: ev-jiva-gosvami-writings
+  verses:
+    - {file: "padas/ru/13.md", from: "23.1", to: "23.6"}
+
+- id: pad-0283
+  source: padas
+  ref: "Рамачандра (Госвами?), ГПТ1 с. 492 (№ 25) «হাহা মোর কি ছার অদৃষ্ট»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.18
+  title: "«Я не родился, когда явился Гаура»: молитва внука Вамшиваданы"
+  summary: "Поэт горюет, что не видел ни Гауры, ни Нитьянанды, ни Адвайты, ни Нарахари Саркара, ни Шриваса и Гадаи; он внук Вамшиваданы, но дурён умом."
+  persons: ["@ramai-jahnava", "@mahaprabhu", "@nityananda", "@advaita", "@narahari-sarakara", "@srivasa", "@gadadhara-pandita", "@vamshivadana"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ (РЧ-003). Поэт — внук Вамшиваданы (Рамачандра Госвами), не современник Господа."
+  themes: [author, separation]
+  verses:
+    - {file: "padas/ru/13.md", from: "24.1", to: "24.4"}
+
+- id: pad-0284
+  source: padas
+  ref: "Рамачандра (Госвами?), ГПТ1 с. 492–493 (№ 26) «প্রভুর লাগিয়া যাব কোন্ দেশে»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.19
+  title: "Тоска по Гауранге: «Гора — мой господин, моё прибежище»"
+  summary: "Поэт не знает, в какую страну идти за Господом; Гора — его господин, прибежище и богатство; душа, став птицей, улетит к Нему, тело смешается с пылью Его стоп."
+  persons: ["@ramai-jahnava", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ; новая строка каталога (РЧ-007). «Пати» — господин в духе дасья, не нагари-бхава (сноска)."
+  themes: [author, separation]
+  verses:
+    - {file: "padas/ru/13.md", from: "25.1", to: "25.4"}
+
+- id: pad-0285
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 515–516 (№ 59) «ভাই রে সাধুসঙ্গ কর সাধু হৈয়া»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.2
+  title: "Молитва: общение со святыми и воспевание Нитая и Чайтаньи"
+  summary: "Поэт призывает общаться со святыми и воспевать Нитая и Чайтанью, не тратя даром редкое человеческое тело; себя он сравнивает с плодом макала — красивым снаружи и негодным внутри."
+  persons: ["@balarama-dasa-poet", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Мадхья 22"
+  notes: "Только ГПТ (БД-033)."
+  themes: [author]
+  verses:
+    - {file: "padas/ru/13.md", from: "26.1", to: "26.4"}
