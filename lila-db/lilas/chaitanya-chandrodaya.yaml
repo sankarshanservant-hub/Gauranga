@@ -1,0 +1,1972 @@
+# Кави Карнапура, «Шри Чайтанья-чандродая» (драма в 10 актах, 1572) — лилы в порядке изложения (формат — ../README.md).
+# Текст без нумерации стихов по метке **N.** в начале строки: отрезки указаны фрагментами строк (from_text/to_text).
+# Аллегорические сцены (Кали, Адхарма, Вирага, Бхакти, Майтри, Према-бхакти, Ганга и Океан) — kind: vision или
+# в рамке реальной лилы. Записи добавлять в конец.
+
+- id: ccd-0001
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, нанди, ст. 1"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: PX
+  order: 0
+  title: "Благословение: да истребит Гаурачандра тьму"
+  summary: "Нанди драмы: Гаурачандра лунными камнями бхакти отбивает охоту к земным сокровищам и вонзает шип скорби в Кали."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **1.** У сокровищ — Кумуды, Падмы, Шан", to_text: "> да истребит Гаурачандра тьму чувственн"}
+
+- id: ccd-0002
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, пролог, ст. 2–7"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: PX
+  order: 1
+  title: "Пролог: по велению Пратапарудры на празднике Гундичи ставится драма о Чайтанье"
+  summary: "Сутрадхара рассказывает, что в праздник шествия Джаганнатхи в Гундичу царь Пратапарудра, скорбящий о сокрытии Махапрабху, велел представить драму «Чайтанья-чандродая», сочинённую Парамананда Дасом, сыном Шивананды Сены; описывает Чайтанью как древо желаний, корень которого — Мадхавендра Пури, побег — Адвайта, ствол — Нитьянанда."
+  persons: ["@prataparudra", "@kavi-karnapura", "@shivananda-sena", "@mahaprabhu", "@madhavendra-puri", "@advaita", "@nityananda", "@vakreshvara", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Рамка драмы: представление дано уже после ухода Господа (ст. 2: «без Махапрабху мы считаем пустым»). Ст. 6–7 — образ древа Чайтаньи (ср. ЧЧ Ади 9). Автор назван «Парамананда Дас, облагодетельствованный Шринатхой»."
+  themes: [author, jagannatha]
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(По окончании нанди.)*", to_text: "> такое дерево желаний — Чайтанья — явил"}
+
+- id: ccd-0003
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, пролог, ст. 8–13"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: PX
+  order: 2
+  title: "Пролог: ради чего нисшёл Чайтанья — бхакти и совместное воспевание Имени"
+  summary: "Сутрадхара объясняет парипаршвике: Кришна стал Чайтаньей, чтобы явить бхакти-йогу, главное в которой — совместное воспевание Имени; освобождение преданного — облик спутника, а не кайвалья; Кали не вредит прибегшим к стопам Вишну. За сценой гневается Кали, задетый словом «доша-кара»."
+  persons: ["@mahaprabhu", "@kali-personified", "@adharma"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Богословское введение; ссылки на шастры — по сноскам перевода (часть ст. 8–12)."
+  themes: [author, teaching]
+  teaching: [gaura-tattva, holy-name, bhakti-supremacy, yuga-dharma]
+  scriptures: ["Бхаг. 11.2.40", "Бхаг. 3.25.35", "Бхаг. 3.25.32–33", "Бхаг. 12.3.43", "Бхаг. 9.24.61", "Бхаг. 11.5.38"]
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Парипаршвика.** Почтенный, какова цель", to_text: "*Конец пролога.*"}
+
+- id: ccd-0004
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 14–19"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 126.5
+  title: "Кали и Адхарма: мальчик из Навадвипы рассекает сердце Кали"
+  summary: "Олицетворённый Кали признаётся другу Адхарме, что его время минуло: мальчик, родившийся у Шачи от Джаганнатхи Мишры в Навадвипе, — Хари, нисшедший учить бхакти-йоге, — сокрушает его силу; Адхарма смеётся над его страхом."
+  persons: ["@kali-personified", "@adharma", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: "Аллегорическая сцена: Кали и Адхарма — олицетворения."
+  themes: [celestial, revelation]
+  teaching: [yuga-dharma]
+  event: ev-kali-adharma-dismay
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(Затем входит Кали, которому прислужива", to_text: "И так:"}
+
+- id: ccd-0005
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 20"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P01
+  order: 70
+  title: "Явление в полнолуние во время затмения: весь мир повторяет имя Хари"
+  summary: "Кали говорит, что Господь, родившись в полнолуние, под предлогом затмения заставил всех людей мира разом повторять имя Хари."
+  persons: ["@kali-personified", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0018; Лочан: lcm-0035; Мурари: mkc-0016"
+  notes: "Упоминание (ст. 19–20) в аллегорической сцене. Год явления — Шака 1407 — Карнапура называет в заключительном стихе 4 драмы (после акта 10)."
+  themes: [revelation, celestial]
+  calendar: "полнолуние; лунное затмение"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **20.** Он, рождаясь в полнолуние, под", to_text: "**Адхарма.** И это — твоё заблуждение: т"}
+
+- id: ccd-0006
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 21–25"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P01
+  order: 5
+  title: "Кали о спутниках, нисшедших прежде Господа"
+  summary: "Кали перечисляет спутников, которых Господь явил на земле ещё до Своего нисхождения: Адвайта — обитель Шамбху, Нитьянанда — сияние Санкаршаны, Шриваса — могущество Нарады; Ачарьяратна, Харидас, Мурари, Гангадас, Гададхара, Видьянидхи, Мукунда, Вакрешвара, Шукламбара, Дамодара, Шанкара, Джагадананда и другие."
+  persons: ["@kali-personified", "@adharma", "@advaita", "@nityananda", "@srivasa", "@srirama-pandita", "@chandrashekhara-acharya", "@haridasa-thakura", "@murari-gupta", "@gangadasa-pandita", "@gadadhara-pandita", "@pundarika-vidyanidhi", "@mukunda-datta", "@vakreshvara", "@shuklambara", "@damodara-pandita", "@shankara-pandita", "@jagadananda-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0014; Лочан: lcm-0029; Мурари: mkc-0010, mkc-0012"
+  notes: "Отождествления спутников (ст. 23): Адвайта — Шамбху (Шива), Нитьянанда — Санкаршана, Шриваса — Нарада; ср. «Гаура-ганоддеша-дипику» того же автора."
+  themes: [celestial]
+  teaching: [associates-tattva]
+  event: ev-associates-descend
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **21.** Где вы — великие могуществом, ", to_text: "**Кали.** Друг мой, способность привлека"}
+
+- id: ccd-0007
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 26–27"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 126.5
+  title: "Кали доказывает Адхарме божественность Вишвамбхары"
+  summary: "Способность привлекать сердца всех — признак Бхагавана: уже в младенчестве у Вишвамбхары были глубина, память, учёность, сладость и бесчисленные иные качества, и сами Кали с Адхармой, не боящиеся никого из живых существ, боятся Его."
+  persons: ["@kali-personified", "@adharma", "@mahaprabhu"]
+  places: []
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [revelation, celestial]
+  teaching: [gaura-tattva]
+  scriptures: ["Бг. 10.41"]
+  event: ev-kali-adharma-dismay
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **26.** Шива, Шива! Ещё в младенчестве", to_text: "Так Господь сказал вообще [о каждом отде"}
+
+- id: ccd-0008
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 28–29"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P05
+  order: 80
+  title: "Кали о двух женитьбах Господа: исчезновение Лакшмиприи, Вишнуприя"
+  summary: "Кали объясняет: с Владыкой нисходит Его энергия Шри; приняв её, подражавшую людям, Господь через несколько дней заставил её исчезнуть; затем Он взял в жёны Вишнуприю — воплощение частицы Бху — и, желая преподать урок отречения, оставит и её."
+  persons: ["@kali-personified", "@adharma", "@mahaprabhu", "@lakshmipriya", "@vishnupriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0044; Лочан: lcm-0081, lcm-0082; Мурари: mkc-0044, mkc-0045"
+  notes: "Упоминание (ст. 28–29); вторая женитьба — ev-marriage-vishnupriya. Лакшмиприя — Шри (Лакшми), Вишнуприя — частица Бху (Земли)."
+  themes: [family, celestial]
+  teaching: [associates-tattva]
+  scriptures: ["«Вишну-пурана» 1.9.143"]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Царь эпохи, говорят, он жен", to_text: "> он, вечно новый, желая явить урок отре"}
+
+- id: ccd-0009
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 30"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P04
+  order: 10
+  title: "Кали о санньясе Вишварупы"
+  summary: "Старший брат Господа Вишварупа — Санкаршана, — не взяв жены, первым принял странничество, передал своё сияние владыке-пури и исчез."
+  persons: ["@kali-personified", "@vishvarupa"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0028; Лочан: lcm-0055, lcm-0056; Мурари: mkc-0027, mkc-0028"
+  notes: "Упоминание (ст. 30). «Владыка-пури» — по сноске перевода Парамананда Пури; ср. акт 8: в Парамананду Пури «вошла вся божественная мощь» Вишварупы."
+  themes: [sannyasa, family]
+  divergence: "Вишварупа, уходя, передаёт своё сияние (могущество) Парамананде Пури — подробность, которой нет у Мурари и Лочана Даса."
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **30.** Его старший брат, не взяв себе", to_text: "> передав своё сияние владыке-пури (Пара"}
+
+- id: ccd-0010
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 31–34"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 126.5
+  title: "Адхарма предлагает шесть министров Кали — Каму и прочих"
+  summary: "Адхарма, почувствовав силу Великого имени, советует натравить на Господа шесть министров во главе с Камой (Вожделением), покоривших даже Брахму и Шиву; Кали отвечает, что Кама некогда был побеждён Нараяной, а Хари обольстить невозможно."
+  persons: ["@kali-personified", "@adharma"]
+  places: []
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: "Аллегория."
+  themes: [celestial]
+  teaching: [holy-name]
+  event: ev-kali-adharma-dismay
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма** *(подумав мгновение, про себ", to_text: "И всё же они уже назначены мною. Они дал"}
+
+- id: ccd-0011
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 35–37"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P06
+  order: 40
+  title: "Кали о Гае: обряд по отцу, посвящение от Ишвары Пури, киртан по возвращении"
+  summary: "В начале юности Господь оставил новую жену, ушёл в Гаю и совершил обряд по отцу; там Он принял Ишвару Пури и получил от него десятисложную мантру, которой владел Мадхавендра Пури; вернувшись, Он с Шривасой, Рамой и Харидасом поёт, пляшет и плачет, погружая три мира в блаженство."
+  persons: ["@kali-personified", "@mahaprabhu", "@ishvara-puri", "@madhavendra-puri", "@srivasa", "@srirama-pandita", "@haridasa-thakura"]
+  places: ["#gaya", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0034; Лочан: lcm-0093; Мурари: mkc-0057"
+  notes: "Упоминание (ст. 35–37); возвращение и киртан — ev-return-from-gaya-teaching. Мантра — десятисложная (гопала-мантра, по сноске перевода)."
+  themes: [pilgrimage, kirtan]
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **35.** В самом начале юности он остав", to_text: "Как же жалкому Каме найти тут свой случа"}
+
+- id: ccd-0012
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 38"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 121
+  title: "Кали об освобождении Джаганнатхи и Мадхавы (Джагая и Мадхая)"
+  summary: "Адхарма предлагает Гнев; Кали рассказывает, как Господь позвал к себе братьев-брахманов Джаганнатху и Мадхаву, грабителей, погрязших в пяти великих грехах, попросил отдать Ему все их грехи, и, взяв воду из Его руки, они просияли, со слезами повторяли «Кришна, Кришна» и стали великими преданными."
+  persons: ["@kali-personified", "@adharma", "@mahaprabhu", "@jagai-madhai"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0047; Лочан: lcm-0139, lcm-0140"
+  notes: "Рассказ Кали в аллегорической сцене (упоминание)."
+  themes: [mercy, offense]
+  divergence: "Нет нападения на Нитьянанду и призыва Сударшаны: Господь Сам зовёт братьев и принимает их грехи, давая воду из Своей руки (у Лочана — туласи)."
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Друг, не говори так!", to_text: "**Кали.** Друг мой, что может сделать ем"}
+
+- id: ccd-0013
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, вишкамбхака (Кали и Адхарма), ст. 39–54"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 127
+  title: "Махапракаша: великое омовение Вишвамбхары в доме Шривасы (глазами Кали)"
+  summary: "Кали и Адхарма слышат и видят из-за сцены: Шриваса с братьями готовит сто восемь кувшинов воды Ганги, женщины носят воду, под чтение «Пуруша-сукты» совершается великое омовение Господа; восемнадцать страж Он неподвижен в собственном блаженстве; по просьбе Адвайты преданные славят Его, Он открывает глаза, говорит «Будьте умом во Мне!» и возлагает стопы им на головы. Кали и Адхарма уходят искать пристанища у хулителей Господа."
+  persons: ["@kali-personified", "@adharma", "@mahaprabhu", "@srivasa", "@srirama-pandita", "@mukunda-datta", "@gadadhara-pandita", "@advaita"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0145; Мурари: mkc-0110"
+  notes: "Махапракаша-абхишека (ср. ЧБ Мадхья 9 — «семь страж»; у Карнапуры — «восемнадцать страж», ст. 51). Аллегорическая рамка: Кали «приставляет» Адхарму, Ложь и Лицемерие к хулителям Господа (ст. 54)."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva]
+  divergence: "Повествование — со стороны олицетворённых Кали и Адхармы; эпизода со шлокой Судамы (Мурари 2.12) нет."
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(За сценой — радостный шум.)*", to_text: "*Конец вишкамбхаки (вводной сцены).*"}
+
+- id: ccd-0014
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 55–57"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 127
+  title: "Господь на ложе: «Адвайта, ты низвёл Меня из Голоки»"
+  summary: "Пробудившись от сна собственного блаженства, Господь говорит Адвайте, что тот низвёл Его из Голоки половодьем своей любви; Адвайта отвечает, что Господь Сам явился по милости к миру, чтобы, как сын царя Враджа, увлажнить расой сердца парамахамс."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa"]
+  places: ["#house-srivasa", "#goloka"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0145; Мурари: mkc-0110"
+  notes: ""
+  themes: [revelation, teaching]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Бхаг. 1.8.20", "Бхаг. 10.47.25"]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(Затем входит, восседая на ложе, в боже", to_text: "в обители Шри Вриндаваны, иначе называем"}
+
+- id: ccd-0015
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 58–60"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P01
+  order: 3
+  title: "Шриваса вспоминает, как Господь вырвал его у смерти"
+  summary: "По просьбе Господа Шриваса рассказывает: до шестнадцати лет он был горд и оскорблял брахманов; во сне некто предрёк ему смерть через год; найдя стих «Харер нама», он прибег к одному имени Хари, а в назначенный день, слушая о Прахладе в доме Девананды Пандита, упал замертво и очнулся. Господь открывает, что сон показал Он и Он же вернул ему жизнь; тело Шривасы преображено вхождением силы Нарады."
+  persons: ["@mahaprabhu", "@srivasa", "@advaita", "@devananda-pandita"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ о событии до явления Господа (P01). Шриваса — носитель силы Нарады."
+  themes: [mercy, revelation]
+  teaching: [holy-name, associates-tattva]
+  event: ev-srivasa-saved-from-death
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Господь.** Шривас! Помнишь, как я здес", to_text: "**Господь.** Адвайта, это правда."}
+
+- id: ccd-0016
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 61"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 86
+  title: "Укор Мурари за приверженность адхьятме"
+  summary: "Адвайта просит милости для Мурари и Мукунды; Господь говорит, что у каждого из них «великое беззаконие»: в уме Мурари нет расы бхакти, лишь одержимость созерцанием «высшего Я» — он и поныне всякий миг изучает «Васиштху»; тому, кто резвится в океане нектара бхакти, не нужна вода канав."
+  persons: ["@mahaprabhu", "@advaita", "@murari-gupta", "@mukunda-datta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0113; Мурари: mkc-0079"
+  notes: "Тот же эпизод продолжается укором Мукунде (следующая запись); милость обоим — там же."
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, vedanta]
+  scriptures: ["Бхаг. 6.12.22"]
+  event: ev-murari-adhyatma-instruction
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адвайта.** Господь! И Мурари, Мукунда ", to_text: "> кто резвится в океане нектара, — что е"}
+
+- id: ccd-0017
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 62–64"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 84
+  title: "Укор Мукунде за почитание лишь четырёхрукого облика; милость обоим"
+  summary: "Мукунда утверждает, что почитать надо лишь четырёхрукого Бхагавана; Господь учит: четырёхрукость — по Его желанию, природна же двурукость («Высший Брахман — в облике человека»). По мольбе Адвайты Господь возлагает стопы на головы Мурари и Мукунды, и они молят стать слугами слуг Его преданных."
+  persons: ["@mahaprabhu", "@advaita", "@mukunda-datta", "@murari-gupta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0112; Мурари: mkc-0078"
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  scriptures: ["Бхаг. 7.10.48", "Бхаг. 7.15.75", "Бг. 10.15", "Бхаг. 10.9.21", "Бхаг. 6.11.24"]
+  event: ev-mukunda-datta-instruction
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адвайта.** А чем провинился Мукунда?", to_text: "**Господь.** Да будет так."}
+
+- id: ccd-0018
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 65–66"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 72
+  title: "Милость к Шукламбаре: сердце аскета тает у стоп Господа"
+  summary: "Шукламбара говорит, что обошёл множество святых мест, но ум его не успокоился, и кладёт голову на стопы Господа; Шриваса показывает Гададхаре, как твёрдое сердце брахмана-подвижника растаяло от одного касания стоп."
+  persons: ["@shuklambara", "@mahaprabhu", "@srivasa", "@gadadhara-pandita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0106; Мурари: mkc-0072, mkc-0075"
+  notes: ""
+  themes: [mercy, ecstasy]
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Шукламбара** *(смиренно)*. Владыка!", to_text: "> и изливается через глаза и волоски."}
+
+- id: ccd-0019
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 67–70"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 127.5
+  title: "Шачи видит сына в величии; её вина перед Шривасой и прощение"
+  summary: "Шачи, бранившая преданных за то, что киртан «свёл с ума» её сына, приведена Адвайтой; увидев сына в собственном блаженстве, она славит Его как Высшую Личность и пытается схватить Его стопы. Господь говорит, что милость придёт к ней, когда исчезнет её вина перед Шривасой и другими; Адвайта заступается: у матери нет проступков перед сыновьями."
+  persons: ["@shachi", "@mahaprabhu", "@advaita", "@srivasa", "@gadadhara-pandita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Оскорбление преданного — «враг волн бхавы». Ср. ЧБ Мадхья 22 (там — оскорбление Адвайты)."
+  themes: [offense, family, revelation]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 10.3.31"]
+  event: ev-shachi-vaishnava-aparadha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
+
+- id: ccd-0020
+  source: chaitanya-chandrodaya
+  ref: "Акт 1, главная сцена, ст. 71–73"
+  file: "chaitanya-chandrodaya/ru/01.md"
+  period: P07
+  order: 127
+  title: "Преданные молят Господа вернуться к облику преданного; киртан"
+  summary: "По совету Адвайты все славят Господа, прося вновь явить облик, в котором Он радовал их с детства; Господь, вспомнив настроение преданного, возвращается к обычной природе, сожалеет о времени, «потраченном во сне», и зовёт всех воспевать Кришну."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0145; Мурари: mkc-0110"
+  notes: "Завершение махапракаши."
+  themes: [revelation, kirtan]
+  bhava: [devotee]
+  teaching: [gaura-tattva]
+  scriptures: ["Бг. 11.51"]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Все.** Господин, так и сделаем. *(Вмес", to_text: "*Так заканчивается первый акт «Шри Чайта"}
+
+- id: ccd-0021
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви), ст. 1–17"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 112.5
+  title: "Вирага на земле Кали встречает Бхакти-деви: Господь нисшёл как преданный"
+  summary: "Олицетворённая Отрешённость (Вирага) скитается по земле, где учёные, жрецы и подвижники служат брюху и Кали; небесный голос велит искать родных там, где бхакти. Бхакти-деви объясняет: в Кали нет иной дхармы, кроме дхармы Господа, и Гаурачандра нисшёл в облике преданного, взяв с Собой чистую бхакти; с Ним нисошла и Камала — никто в Навадвипе не беден."
+  persons: ["@viraga", "@bhakti-devi", "@mahaprabhu", "@kali-personified"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: "Аллегория (P07 — время действия рассказа)."
+  themes: [celestial, teaching]
+  teaching: [yuga-dharma, gaura-tattva, bhakti-supremacy]
+  event: ev-viraga-meets-bhakti
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "*(Входит Вирага.)*", to_text: "> с дрожью, оцепенением, слезами, потом "}
+
+- id: ccd-0022
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви), ст. 18–19"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 113.5
+  title: "Пьяный портной-млеччха пляшет, увидев Господа в доме Шривасы"
+  summary: "Когда Вишвамбхара обходил святилище в доме Шривасы, Его увидел пьяный млеччха-портной, шивший в южном дворе: опьянённый этим зрелищем сильнее, чем вином, он в слезах пустился в пляс; с тех пор он, прибегнув к имени, в одежде авадхуты поёт санкиртану, хоть его и бьют яванские наставники, и твердит: «Только Вишвамбхара — Бог»."
+  persons: ["@bhakti-devi", "@viraga", "@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Бхакти-деви."
+  themes: [mercy, muslims, revelation]
+  event: ev-muslim-tailor
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Владычица, неужели он всегда", to_text: "**Вирага.** Так оно и есть. А дальше, да"}
+
+- id: ccd-0023
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви)"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 131
+  title: "Бхава Баларамы во дворе Мурари в полнолунную ночь"
+  summary: "В полнолунную ночь во дворе Мурари преданные чувствуют аромат кадамбари и видят плуг и палицу; Вишвамбхара говорит, что сейчас явится Санкаршана, и Сам, с покрасневшими глазами и серьгой в одном ухе, становится Таланкой (Баларамой) и пляшет под песни о Его деяниях."
+  persons: ["@bhakti-devi", "@mahaprabhu", "@murari-gupta", "@balarama"]
+  places: ["#house-murari"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0149, lcm-0150; Мурари: mkc-0115, mkc-0116"
+  notes: "Рассказ Бхакти-деви."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Потом, в другой день, в", to_text: "**Бхакти-деви.** И, ещё не договорив это"}
+
+- id: ccd-0024
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви), ст. 20–23"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 109
+  title: "Аватары по порядку; шестирукий облик, явленный Нитьянанде"
+  summary: "Изобразив по порядку главных аватар — Будду, Вараху, Нрисимху, — Господь по беспричинной милости являет Нитьянанде шестирукий облик; Нитьянанда, оцепенев от блаженства, долго возносит хвалу."
+  persons: ["@bhakti-devi", "@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0127; Мурари: mkc-0095"
+  notes: "Рассказ Бхакти-деви; бхавы Варахи и Нрисимхи — упоминание (ev-varaha-bhava-murari, ev-nrisimha-bhava-shrivasa)."
+  themes: [revelation]
+  bhava: [aishvarya, varaha, nrisimha]
+  teaching: [gaura-tattva]
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Так, по порядку изобраз", to_text: "**Вирага.** Ах, это поистине удивительно"}
+
+- id: ccd-0025
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви)"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 45
+  title: "Господь в мокрой одежде падает на улице, услышав имя и стих «Бхагаваты»"
+  summary: "Когда Господь возвращается с омовения в Ганге, студенты на улице читают Ему имя Господа, стих «Бхагаватам» или песню, и Он падает в грязь, катаясь в исступлении; товарищи смеются, домашние снова ведут Его омыться, а мать горюет, что сын теряет власть над собой."
+  persons: ["@bhakti-devi", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Бхакти-деви."
+  themes: [ecstasy]
+  event: ev-prema-on-street
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Вот так я рассказала о ", to_text: "**Вирага.** Ах, он поистине во власти бл"}
+
+- id: ccd-0026
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви)"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 129
+  title: "Прокажённый брахман исцелён водой со стоп Адвайты"
+  summary: "Возвращавшегося от дома Ачарьяратны Господа встречает недостойный брахман, сочащийся гноем, и требует исцеления как доказательства Его божественности; Господь говорит, что болезнь от греха и уйдёт, если тот выпьет воду, омывшую стопы Адвайты, — и, когда тот так делает, тело его становится лучше прежнего."
+  persons: ["@bhakti-devi", "@mahaprabhu", "@advaita", "@chandrashekhara-acharya"]
+  places: ["#navadvipa", "#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0089; Лочан: lcm-0147; Мурари: mkc-0112, mkc-0113"
+  notes: "Рассказ Бхакти-деви."
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  divergence: "Средство исцеления — вода со стоп Адвайты; об оскорблении Шривасы (Мурари 2.13, Лочан) не говорится."
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** В другой день, в упоени", to_text: "**Бхакти-деви.** Тогда недостойный брахм"}
+
+- id: ccd-0027
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, правешака (Вирага и Бхакти-деви), ст. 24"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 112.5
+  title: "Бхакти-деви спешит к Господу в дом Шривасы; Вирага находит прибежище"
+  summary: "Бхакти-деви говорит, что её Господин в доме Шривасы ведёт сокровенную беседу с Адвайтой, и уверяет Вирагу, что Гаура станет его прибежищем; оба уходят туда."
+  persons: ["@bhakti-devi", "@viraga", "@mahaprabhu", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: "Аллегория; переход к главной сцене."
+  themes: [celestial]
+  event: ev-viraga-meets-bhakti
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Что же тут удивительного для", to_text: "Итак, пойдём, пойдём вместе. *(Оба уходя"}
+
+- id: ccd-0028
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, главная сцена"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 98
+  title: "Господь и Адвайта в доме Шривасы: «жить вместе всегда»; приглашение Шачи"
+  summary: "Господь шутливо славит Адвайту как Рагхунатху, говорит, что думает, как им всегда жить вместе; Шриваса и Адвайта играют словами: бхакти — «возлюбленная Вишну», потому Господь и принял Вишнуприю; Шачи передаёт, что Адвайта должен отдыхать и есть в её доме вместе с Вишвамбхарой."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@shachi", "@vishnupriya"]
+  places: ["#house-srivasa", "#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0119, lcm-0120; Мурари: mkc-0085, mkc-0086"
+  notes: ""
+  themes: [teaching, family, prasada]
+  teaching: [bhakti-supremacy, associates-tattva]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "*(Затем входят: восседающий Господь Вишв", to_text: "**Адвайта.** Зачем говорить «его»? Скажи"}
+
+- id: ccd-0029
+  source: chaitanya-chandrodaya
+  ref: "Акт 2, главная сцена, ст. 25–33"
+  file: "chaitanya-chandrodaya/ru/02.md"
+  period: P07
+  order: 98.5
+  title: "Адвайта видит в сердце Шьямасундару: «Лицезрение всех аватар»"
+  summary: "Шриваса напоминает Господу обещание показать Адвайте Свой истинный облик, как Нитьянанде — шестирукий; Господь говорит, что истинный Его облик — тот, что любит Адвайта, и являет его в сердце Адвайты; Адвайта в самадхи описывает Кришну во Врадже как видимого воочию; Господь, скрыв облик, называет это сном наяву, а Шриваса настаивает, что Адвайта видел истину. Шачи зовёт всех к трапезе."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@shachi", "@krishna"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Название акта — «Лицезрение всех аватар». Господь отрицает Свою божественность («Это у него от дремоты»), Шриваса шутливо спорит с Ним."
+  themes: [revelation, krishna-lila, ecstasy]
+  bhava: [krishna]
+  teaching: [gaura-tattva]
+  event: ev-advaita-sees-krishna-form
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "*(Адвайта шепчет что-то на ухо Шривасу.)", to_text: "*Так заканчивается второй акт «Шри Шри Ч"}
+
+- id: ccd-0030
+  source: chaitanya-chandrodaya
+  ref: "Акт 3, правешака (Майтри и Према-бхакти), ст. 1–9"
+  file: "chaitanya-chandrodaya/ru/03.md"
+  period: P07
+  order: 134.5
+  title: "Майтри и Према-бхакти: родословная бхакти"
+  summary: "Олицетворённое Дружелюбие (Майтри), бежавшее от слуг Кали, встречает Према-бхакти, и та объясняет её родословную: от Милости Бхагавана и Привязанности к Его людям родились Вивека и дочери-бхакти; бхакти, причастные расе, бывают десяти видов, а выше всех — према, нераздельное блаженство, в котором, как волны, всплывают все расы."
+  persons: ["@maitri", "@prema-bhakti", "@viraga"]
+  places: []
+  kind: vision
+  authority: A
+  parallels: ""
+  notes: "Аллегория."
+  themes: [celestial, teaching]
+  teaching: [prema, bhakti-supremacy]
+  event: ev-maitri-meets-prema-bhakti
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/03.md", from_text: "*(Входит Майтри.)*", to_text: "Вот я и объяснила тебе твою родословную."}
+
+- id: ccd-0031
+  source: chaitanya-chandrodaya
+  ref: "Акт 3, правешака (Майтри и Према-бхакти), ст. 10–16"
+  file: "chaitanya-chandrodaya/ru/03.md"
+  period: P07
+  order: 135
+  title: "Замысел действа в доме Ачарьяратны: Господь будет Радхой, Адвайта — Кришной"
+  summary: "Према-бхакти рассказывает: Вишвамбхара, исполнивший игры всех аватар, желает воспроизвести бхаву Владычицы Вриндавана и сыграет Радху, Адвайта наденет наряд Кришны (но явится Сам Хари), Харидас — распорядитель, Мукунда — помощник, Васудева-ачарья — костюмер, Йогамайя в облике старухи войдёт в Нитьянанду; Шриваса будет Нарадой, Шукламбара — его снатакой, Гангадас — привратником; зрители — лишь достойные и жёны преданных."
+  persons: ["@prema-bhakti", "@maitri", "@mahaprabhu", "@advaita", "@haridasa-thakura", "@mukunda-datta", "@nityananda", "@yogamaya", "@srivasa", "@shuklambara", "@gangadasa-pandita", "@srirama-pandita", "@chandrashekhara-acharya", "@pundarika-vidyanidhi"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0153, lcm-0154, lcm-0155; Мурари: mkc-0118, mkc-0119, mkc-0120, mkc-0121"
+  notes: "Действо (натака) — однактная драма о «сборе пошлины» (дана-лила)."
+  themes: [krishna-lila, revelation]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Бхаг. 10.90.48", "«Сахитья-дарпана» 6.289"]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/03.md", from_text: "**Майтри.** Госпожа! Куда же ты сейчас и", to_text: "**Према-бхакти.** Тогда идём."}
+
+- id: ccd-0032
+  source: chaitanya-chandrodaya
+  ref: "Акт 3, действо: пролог и выход Кришны, ст. 17–39"
+  file: "chaitanya-chandrodaya/ru/03.md"
+  period: P07
+  order: 135
+  title: "Действо в доме Ачарьяратны: Харидас-распорядитель, Нарада идёт во Вриндаван, выход Кришны"
+  summary: "Харидас в роли распорядителя совершает почитание сцены и пролог; Шриваса-Нарада со снатакой Шукламбарой, пляшущий от любви ко Вриндавану, идёт на звук флейты; выходит Адвайта в облике Кришны с друзьями — и Према-бхакти видит, что это не наряд: нисшёл Сам Кришна; видушака Кусумасава сообщает о старухе-йогини, ведущей юных красавиц к Гопишваре."
+  persons: ["@haridasa-thakura", "@mukunda-datta", "@srivasa", "@narada", "@shuklambara", "@advaita", "@krishna", "@prema-bhakti", "@maitri"]
+  places: ["#house-chandrashekhara", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0153, lcm-0154, lcm-0155; Мурари: mkc-0118, mkc-0119, mkc-0120, mkc-0121"
+  notes: "В Шривасе «естественно пребывает Нарада» (ст. 13 и реплика Према-бхакти)."
+  themes: [krishna-lila, revelation]
+  bhava: [radha]
+  scriptures: ["Бхаг. 1.7.10", "Бхаг. 10.33.36", "Бхаг. 1.6.39", "Бхаг. 10.14.34"]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/03.md", from_text: "*(Входит Харидас, взявший на себя роль р", to_text: "*(Уходят оба.)*"}
+
+- id: ccd-0033
+  source: chaitanya-chandrodaya
+  ref: "Акт 3, действо: дана-лила, ст. 40–60"
+  file: "chaitanya-chandrodaya/ru/03.md"
+  period: P07
+  order: 135
+  title: "Господь играет Радху в дана-лиле; старуха-Йогамайя исчезает в Нитьянанде"
+  summary: "Радха (Господь) с Лалитой и старухой идёт к Гопишваре и рвёт цветы лаванги; Кришна (Адвайта) с Субалой и Кусумасавой преграждает путь и требует пошлину; после шуточных препирательств Кришна хватает край одежды Радхи — и тут старуха вновь становится Нитьянандой: Йогамайя, рассудив, что незавершённая раса слаще, исчезает, и действо обрывается, ибо это лила Самого Господа. За сценой кричат: «Санньяси!»"
+  persons: ["@mahaprabhu", "@radha", "@krishna", "@advaita", "@lalita", "@nityananda", "@yogamaya", "@prema-bhakti", "@maitri"]
+  places: ["#house-chandrashekhara", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0153, lcm-0154, lcm-0155; Мурари: mkc-0118, mkc-0119, mkc-0120, mkc-0121"
+  notes: "Финал (ст. 60 и далее): «в дом Бхагавана входит какой-то санньяси» — переход к акту 4 (Кешава Бхарати)."
+  themes: [krishna-lila, ecstasy]
+  bhava: [radha]
+  teaching: [prema]
+  divergence: "У Карнапуры Господь играет Радху в дана-лиле, Адвайта — Кришну, Нитьянанда — старуху; в ЧБ (Мадхья 18) Господь является в бхаве Рукмини и Лакшми, у Лочана Даса — в бхаве гопи, Лакшми и Изначальной Шакти."
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/03.md", from_text: "*(За сценой.)* Увы, почтенная! Какой дор", to_text: "*Так заканчивается третий акт «Шри Чайта"}
+
+- id: ccd-0034
+  source: chaitanya-chandrodaya
+  ref: "Акт 4, вступительная сцена, ст. 1"
+  file: "chaitanya-chandrodaya/ru/04.md"
+  period: P07
+  order: 144
+  title: "Шачи тревожится о почтении сына к Кешаве Бхарати; сожжённая книга Вишварупы"
+  summary: "Шачи делится с женой Ачарьяратны страхом: сын просил у неё милостыню для санньяси Кешавы Бхарати и выказал ему великую преданность. Она признаётся сыну, что сожгла книгу, оставленную ему Вишварупой, боясь, что и он уйдёт в санньясу; Господь, на миг опечалившись, просит у неё прощения, говорит, что ненадолго уйдёт искать то, что сделает всех счастливыми, и велит ей всегда смотреть на Кришну; Шачи отвечает: «Ты и есть мой Кришна»."
+  persons: ["@shachi", "@mahaprabhu", "@keshava-bharati", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0056; Лочан: lcm-0162, lcm-0163, lcm-0164, lcm-0165, lcm-0166, lcm-0167"
+  notes: "Кешава Бхарати уже побывал в Навадвипе (ev-keshava-bharati-navadvipa; ср. конец акта 3)."
+  themes: [family, sannyasa, separation]
+  teaching: [sannyasa-teaching]
+  divergence: "Уникальная подробность: Шачи сожгла книгу, которую Вишварупа велел передать Вишвамбхаре, когда тот станет учёным."
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Входит владычица Шачи, за которой след", to_text: "**Шачи.** Да будет так. Ты и есть мой Кр"}
+
+- id: ccd-0035
+  source: chaitanya-chandrodaya
+  ref: "Акт 4, Адвайта и последний киртан, ст. 2–14"
+  file: "chaitanya-chandrodaya/ru/04.md"
+  period: P08
+  order: 10
+  title: "Адвайта приходит из Шантипура; ночной киртан у Шривасы; наутро Господа нет"
+  summary: "Адвайта возвращается из своего города; по зову Господа все собираются в залитом луной дворе Шривасы на санкиртану; Гангадас видит, как пляшут Вишвамбхара и Адвайта, под утро засыпает и видит дурной сон; на рассвете посланный Шачи ищет Господа, не пришедшего домой."
+  persons: ["@advaita", "@mahaprabhu", "@srirama-pandita", "@srivasa", "@gangadasa-pandita", "@shachi"]
+  places: ["#house-srivasa", "#shantipura", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0062; Лочан: lcm-0172; Мурари: mkc-0130"
+  notes: ""
+  themes: [kirtan, sannyasa, separation]
+  divergence: "Господь уходит не из дома ночью (ЧЧ, Мурари), а под утро после киртана в доме Шривасы."
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Уходят все. Затем входит Адвайта.)*", to_text: "**Гангадас** *(упав духом)*. Ох! Кажется"}
+
+- id: ccd-0036
+  source: chaitanya-chandrodaya
+  ref: "Акт 4, плач преданных, ст. 15–34"
+  file: "chaitanya-chandrodaya/ru/04.md"
+  period: P08
+  order: 20
+  title: "Плач преданных о пропавшем Господе; Мурари догадывается, что с Ним Нитьянанда и Ачарьяратна"
+  summary: "Адвайта, Шриваса, Гададхара, Вакрешвара, Мурари, Мукунда, Джагадананда, Дамодара, Харидас и Видьянидхи в отчаянии плачут и теряют сознание; Мурари рассуждает: раз нет Нитьянанды и Ачарьяратны, они с Господом, — и Мукунда идёт утешить этим Шачи; за сценой слышен плач возвращающегося Ачарьяратны."
+  persons: ["@advaita", "@srivasa", "@gangadasa-pandita", "@gadadhara-pandita", "@vakreshvara", "@murari-gupta", "@mukunda-datta", "@jagadananda-pandita", "@damodara-pandita", "@haridasa-thakura", "@pundarika-vidyanidhi", "@shachi"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0173; Мурари: mkc-0131"
+  notes: ""
+  themes: [separation, sannyasa]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Затем входят Адвайта и другие, в уныни", to_text: "**Все** *(прислушавшись, обращаясь в сто"}
+
+- id: ccd-0037
+  source: chaitanya-chandrodaya
+  ref: "Акт 4, весть Ачарьяратны, ст. 35–43"
+  file: "chaitanya-chandrodaya/ru/04.md"
+  period: P09
+  order: 30
+  title: "Ачарьяратна приносит весть о санньясе; слово Нитьянанды"
+  summary: "Ачарьяратна возвращается в слезах и на ухо, а затем вслух сообщает Адвайте, что Господь принял санньясу; все падают без чувств; Шачи, догадавшись сама, стойко принимает весть. Ачарьяратна передаёт слова Нитьянанды: он пойдёт следом за Господом и разными уловками приведёт Его в дом Адвайты; Адвайта славит дружбу Нитьянанды."
+  persons: ["@chandrashekhara-acharya", "@advaita", "@gangadasa-pandita", "@shachi", "@nityananda", "@murari-gupta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0064; Лочан: lcm-0187, lcm-0188; Мурари: mkc-0132, mkc-0143"
+  notes: ""
+  themes: [separation, sannyasa]
+  divergence: "Ачарьяратну отсылает назад Нитьянанда (у Мурари и Лочана — Сам Господь посылает Чандрашекхару)."
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Затем входит Ачарья-ратна.)*", to_text: "Ачарья! Расскажи всё с самого начала."}
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Адвайта.** А ты почему не пошёл за ним", to_text: "*Так заканчивается четвёртый акт «Шри Ча"}
+
+- id: ccd-0038
+  source: chaitanya-chandrodaya
+  ref: "Акт 4, рассказ Ачарьяратны, ст. 41–42"
+  file: "chaitanya-chandrodaya/ru/04.md"
+  period: P08
+  order: 40
+  title: "Рассказ Ачарьяратны: санньяса в Катоне от Кешавы Бхарати; имя «Шри Кришна Чайтанья»"
+  summary: "В конце ночи, после пляски, Господь взял Ачарьяратну за руку, позвал Нитьянанду, переправился через Гангу и пришёл в деревню Катону к Кешаве Бхарати; наутро велел Ачарьяратне совершить предварительные обряды и принял санньясу по правилам; имя санньяси — «Шри Кришна Чайтанья». Адвайта толкует: Кешава Бхарати — сама Шрути, речь Кешавы."
+  persons: ["@chandrashekhara-acharya", "@mahaprabhu", "@nityananda", "@keshava-bharati", "@advaita"]
+  places: ["#katwa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0061, jcm-0063; Лочан: lcm-0175, lcm-0176, lcm-0177, lcm-0178, lcm-0179, lcm-0180, lcm-0181, lcm-0182, lcm-0183, lcm-0184; Мурари: mkc-0128, mkc-0133, mkc-0134, mkc-0135, mkc-0136, mkc-0137, mkc-0138"
+  notes: "Спутники Господа при санньясе — только Нитьянанда и Ачарьяратна."
+  themes: [sannyasa]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Бхаг. 11.14.3"]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Ачарья-ратна.** Ах, только ради этого ", to_text: "> он не помнит и самого себя, — ах, увы,"}
+
+- id: ccd-0039
+  source: chaitanya-chandrodaya
+  ref: "Акт 5, странствие в экстазе, ст. 1–12"
+  file: "chaitanya-chandrodaya/ru/05.md"
+  period: P09
+  order: 10
+  title: "Господь в экстазе бредёт к Вриндавану; пастушата и «Ямуна»"
+  summary: "Только что принявший санньясу Шри Кришна Чайтанья, вне внешнего сознания, бредёт, словно гонимая ветром пыльца, к Вриндавану; Нитьянанда не поспевает за Ним. Пастушата кричат «Скажите „Хари“!», и Господь, очнувшись, спрашивает дорогу во Вриндаван; Нитьянанда подучивает мальчика указать путь к дому Адвайты, называет Гангу Ямуной, и Господь, славя её, совершает омовение; Нитьянанда тайно посылает весть Адвайте."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#radha-desha", "#ganga", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0185; Мурари: mkc-0139, mkc-0141"
+  notes: "Господь повторяет стих нищенствующего монаха (Бхаг. 11.23.57); три дня без пищи (слова Нитьянанды)."
+  themes: [ecstasy, sannyasa, pilgrimage]
+  bhava: [sannyasi]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/05.md", from_text: "*(Входит Шри Кришна Чайтанья, за ним — Н", to_text: "Посмотрю-ка, скоро ли придёт Адвайта. *("}
+
+- id: ccd-0040
+  source: chaitanya-chandrodaya
+  ref: "Акт 5, встреча с Адвайтой, ст. 13–24"
+  file: "chaitanya-chandrodaya/ru/05.md"
+  period: P09
+  order: 45
+  title: "Адвайта на лодке увозит Господа в Шантипур; первое подаяние и толпы"
+  summary: "Адвайта с бесчисленной свитой приходит к Ганге и рыдает перед Господом; тот, думая, что Он во Вриндаване, понимает уловку Шрипады; Адвайта даёт Ему новые одежды и на лодке везёт в свой дом. Туда стекаются тысячи людей; после трапезы, которой Господь, не евший со дня санньясы, принимает подаяние, Адвайта сажает Его в высоком шатре, чтобы все могли видеть; в шутливом споре Господь объясняет, что принял посох лишь для обуздания ума."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: ""
+  themes: [sannyasa, prasada, teaching]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/05.md", from_text: "*(Входит Адвайта, изображая нетерпение, ", to_text: "**Люди.** Ах, это идут все жители места "}
+
+- id: ccd-0041
+  source: chaitanya-chandrodaya
+  ref: "Акт 5, встреча с Шачи, ст. 25–30"
+  file: "chaitanya-chandrodaya/ru/05.md"
+  period: P09
+  order: 45
+  title: "Шачи и жители Навадвипы в доме Адвайты"
+  summary: "Приходят все жители Навадвипы; Шачи, дрожа от смешанных чувств, обнимает сына-санньяси: «Сынок, я вижу в тебе лишь младенца у груди… больше никогда тебя не отпущу!»; Господь славит её как мать вселенной. Адвайта велит обслужить всех, вплоть до чандалов; Господь уединяется с давно не виденными близкими."
+  persons: ["@shachi", "@mahaprabhu", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: ""
+  themes: [family, separation]
+  bhava: [sannyasi]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/05.md", from_text: "*(Затем входят все жители Навадвипы.)*", to_text: "*Так заканчивается 5-й акт «Шри Чайтанья"}
+
+- id: ccd-0042
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан), ст. 1–4"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 55
+  title: "Ганга скорбит: совет у Шачи, и Господь уходит из Шантипура в Пурушоттаму"
+  summary: "Олицетворённая Ганга рассказывает супругу-Океану (Ратнакаре): в доме Адвайты Господь сказал, что санньяси не подобает жить близ родной земли, и попросил отпустить Его; Шачи решила: пусть лучше идёт в край Джаганнатхи — оттуда будут доходить вести. Господь пробыл ещё три дня, ел пищу Шачи и матери Ачьютананды, а на четвёртый ушёл с Нитьянандой, Джагаданандой, Дамодарой и Мукундой; Адвайта горько плакал."
+  persons: ["@ganga-devi", "@ratnakara", "@mahaprabhu", "@advaita", "@shachi", "@srivasa", "@sita-thakurani", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0193, lcm-0194, lcm-0195, lcm-0196; Мурари: mkc-0146, mkc-0147"
+  notes: "Аллегорическая рамка (Ганга и Океан). Пури избран по решению Шачи (ср. ЧЧ Мадхья 3). «Мать Ачьютананды» — Сита Тхакурани."
+  themes: [separation, family, sannyasa]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "*(Входит Ратнакара", to_text: "**Ганга.** Тогда, чтобы порадовать мать "}
+
+- id: ccd-0043
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан), ст. 5–7"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 70
+  title: "Путь лесами во время войны Гауды с Гаджапати"
+  summary: "Хотя из-за вражды владыки Гауды с Гаджапати никто не ходит этой дорогой, Господь с четырьмя спутниками идёт, оставив царскую дорогу, забитую войсками вассалов Гаджапати, лесными тропами; барсы, слоны, буйволы и носороги, получив каплю Его сладости, замирают в оцепенении."
+  persons: ["@ganga-devi", "@ratnakara", "@mahaprabhu"]
+  places: ["#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0067; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: "Звери на пути — ср. Джхарикханда (ev-jharikhanda-animals), но здесь — на пути в Пури."
+  themes: [pilgrimage, mercy]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Увы! Сейчас, когда царь-я", to_text: "Так несколько дней он шёл из леса в лес,"}
+
+- id: ccd-0044
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан), ст. 8–11"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 80
+  title: "Ремуна: венок падает с Гопинатхи на голову Господа; стихи о Его руках"
+  summary: "Господь выходит на царскую дорогу, чтобы поклониться древнему изваянию Господа с флейтой близ Ремуны; когда Он простирается, с головы Божества на Его голову падает венок, и Господь слагает стихи о левой и правой руке Того, у чьих уст флейта."
+  persons: ["@ganga-devi", "@ratnakara", "@mahaprabhu", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0201; Мурари: mkc-0152, mkc-0153"
+  notes: "Спор о «древности» двурукого Гопинатхи и четырёхруких изваяний."
+  themes: [deities, pilgrimage]
+  event: ev-remuna-gopala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Зачем?", to_text: "> красоту того, у чьих уст — флейта."}
+
+- id: ccd-0045
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан), ст. 12–14"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 85
+  title: "Катака: Сакши-гопала опускает флейту, желая беседовать с Господом"
+  summary: "Господь идёт в Катаку к Сакши-гопале — Божеству, что пришло свидетелем за брахманом и остановилось у пределов Махендры, а позже было перенесено царём Пурушоттама-девой в столицу; Господь, словно видя Его вышедшим из Своего сердца, слагает стих о лотосной стопе, а Божество, опустив флейту, будто хочет с Ним заговорить."
+  persons: ["@ganga-devi", "@ratnakara", "@mahaprabhu", "@sakshi-gopala"]
+  places: ["#cuttack"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [deities, pilgrimage]
+  divergence: "Порядок пути: Ремуна → Катака → Камалапура; Яджапур и Бхуванешвара не упомянуты."
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ганга.** Снова выйдя на лесную тропу, ", to_text: "**Ганга.** Пробыв там тот день, на следу"}
+
+- id: ccd-0046
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан)"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 75
+  title: "Камалапура: Нитьянанда ломает посох Господа"
+  summary: "В деревне Камалапура, пока Господь, омывшись, идёт вперёд к храму, Нитьянанда со словами «На что этот посох — обломок нежданной напасти?» ломает Его посох и бросает в реку."
+  persons: ["@ganga-devi", "@ratnakara", "@nityananda", "@mahaprabhu"]
+  places: ["#kamalapura"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0200; Мурари: mkc-0151"
+  notes: "Упоминание."
+  themes: [sannyasa]
+  event: ev-danda-broken
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ганга.** Затем, придя в деревню под на", to_text: "**Ганга.** Затем, придя в деревню под на"}
+
+- id: ccd-0047
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, правешака (Ганга и Океан), ст. 15–16"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P09
+  order: 90
+  title: "Мукунда показывает Господу храм Джаганнатхи"
+  summary: "Мукунда, увидев храм Джаганнатхи, восклицает: не рука ли это земли, поднятая к солнцу? Океан радуется, что Хари поселился у баньяна на его берегу, и уводит Гангу смотреть."
+  persons: ["@mukunda-datta", "@mahaprabhu", "@ganga-devi", "@ratnakara", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0207, lcm-0208; Мурари: mkc-0161, mkc-0162"
+  notes: ""
+  themes: [jagannatha, pilgrimage]
+  event: ev-first-sight-jagannatha-temple
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ганга.** Тогда Мукунда, увидев храм Бх", to_text: "*Конец вступительной сцены (правешака).*"}
+
+- id: ccd-0048
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, Гопинатха Ачарья и Сарвабхаума, ст. 17–21"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P10
+  order: 5
+  title: "Гопинатха Ачарья приводит Господа к Сарвабхауме; спор о божественности Господа"
+  summary: "Мукунда находит Гопинатху Ачарью, шурина Сарвабхаумы; тот ведёт Господа к Бхаттачарье, и Сарвабхаума, узнав, что Он — внук Ниламбары Чакраварти и сын Джаганнатхи Мишры, поручает сыну Чанданешваре устроить Ему даршан. Наедине Сарвабхаума сожалеет, что юноша принял санньясу в традиции Бхарати, и хочет дать Ему йога-патту и учить Веданте; Гопинатха утверждает, что Он — Сам Бог, познаваемый лишь Его милостью, и спорит с учениками."
+  persons: ["@mukunda-datta", "@nityananda", "@gopinatha-acharya", "@mahaprabhu", "@sarvabhauma", "@chandaneshvara", "@jagadananda-pandita", "@damodara-pandita", "@nilambara-chakravarti", "@jagannatha-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0209, lcm-0212; Мурари: mkc-0163, mkc-0165"
+  notes: ""
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, sannyasa-teaching]
+  divergence: "Господь не падает без чувств при первом даршане и не переносится в дом Сарвабхаумы: Гопинатха сначала представляет Его Сарвабхауме, и тот посылает с Ним Чанданешвару к Джаганнатхе."
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "*(Входит Господь в глубоком самозабвении", to_text: "**Гопинатха-ачарья.** Пойдём же следом з"}
+
+- id: ccd-0049
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, первый даршан, ст. 22–25"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P10
+  order: 10
+  title: "Первый даршан Джаганнатхи (за сценой)"
+  summary: "За сценой Нитьянанда и другие описывают друг другу святой лик Джаганнатхи и Господа, созерцающего Его, — «единый Господь словно раздвоился на вкушаемого и вкушающего»."
+  persons: ["@nityananda", "@gopinatha-acharya", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0210; Мурари: mkc-0164"
+  notes: ""
+  themes: [jagannatha, ecstasy]
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**За сценой.** Ах, чудо!", to_text: "**Гопинатха-ачарья.** Прекрасно, Нитьяна"}
+
+- id: ccd-0050
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, вечер у Господа"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P10
+  order: 5
+  title: "Сарвабхаума «приглашает» Господа принять йога-патту; скорбь Гопинатхи"
+  summary: "Гопинатха приводит Господа в жилище в доме тётки Сарвабхаумы и передаёт приглашение Бхаттачарьи на трапезу и его желание дать Господу йога-патту и учить Веданте; Господь принимает это смиренно, а Гопинатха, уязвлённый словами шурина, не ест махапрасада, пока Господь не обещает, что Лотосоокий исполнит его желание."
+  persons: ["@gopinatha-acharya", "@mahaprabhu", "@chandaneshvara", "@mukunda-datta", "@damodara-pandita", "@jagadananda-pandita", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0209, lcm-0212; Мурари: mkc-0163, mkc-0165"
+  notes: ""
+  themes: [prasada, teaching]
+  bhava: [devotee]
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "*(Входит Господь, оцепеневший от блаженс", to_text: "**Господь.** Хорошо, хорошо."}
+
+- id: ccd-0051
+  source: chaitanya-chandrodaya
+  ref: "Акт 6, утро: милость к Сарвабхауме, ст. 26–44"
+  file: "chaitanya-chandrodaya/ru/06.md"
+  period: P10
+  order: 30
+  title: "Господь приносит Сарвабхауме прасад; обращение Бхаттачарьи и его два стиха"
+  summary: "На рассвете Господь видит пробуждение Джаганнатхи, получает от служителей гирлянду и рисовый прасад и идёт прямо к спальне Сарвабхаумы; тот, не омывшись, тотчас съедает прасад и в экстазе катается по земле. Сарвабхаума приходит к Господу, славит Его как Падманабху, излагает, что высшая цель шастр — бескорыстная бхакти к Мурари, а Брахман обладает свойствами, и присылает два стиха о Кришне Чайтанье; Господь разрывает листок, а Мукунда переписывает их на стену."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@mukunda-datta", "@damodara-pandita", "@jagadananda-pandita", "@nityananda", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0214, lcm-0215; Мурари: mkc-0167, mkc-0168"
+  notes: "Ст. 43–44 — знаменитые стихи Сарвабхаумы («Чайтанья-шатака»; ср. ЧЧ Мадхья 6)."
+  themes: [mercy, prasada, teaching]
+  teaching: [vedanta, bhakti-supremacy, gaura-tattva, prasada-teaching]
+  divergence: "Нет семидневного спора о Веданте и явления шестирукого облика: обращение совершается прасадом на следующее утро после встречи."
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "*(Все проводят часы в любезной беседе.)*", to_text: "*Так заканчивается шестой акт «Шри Чайта"}
+
+- id: ccd-0052
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, Пратапарудра и Сарвабхаума, ст. 1–2"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 5
+  title: "Пратапарудра расспрашивает Сарвабхауму об ушедшем на юг Господе"
+  summary: "Царь Гаджапати желает поклониться пришедшему из Гауды царю подвижников; Сарвабхаума говорит, что тот — Сам Бхагаван и несколько дней назад ушёл на юг, вероятно, до Сетубандхи; брахманы-спутники пойдут с Ним лишь до Годавари — ради встречи с Раманандой, которого прежде высмеивали, а ныне, по милости Господа, познали."
+  persons: ["@prataparudra", "@sarvabhauma", "@mahaprabhu", "@ramananda-raya"]
+  places: ["#puri", "#godavari", "#setubandha"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0169, mkc-0170"
+  notes: ""
+  themes: [pilgrimage, separation]
+  scriptures: ["Бхаг. 1.13.10"]
+  divergence: "Сарвабхаума посылает с Господом брахманов-спутников до Годавари (в ЧЧ Господь идёт с одним слугой Кришнадасом)."
+  event: ev-departure-for-south
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "*(Входит Сарвабхаума.)*", to_text: "**Бхаттачарья.** Сила Господа сама себя "}
+
+- id: ccd-0053
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ брахманов, ст. 3"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 10
+  title: "Алаланатха и Курма-кшетра: исцеление прокажённого Васудевы"
+  summary: "Вернувшиеся с Годавари брахманы рассказывают: Господь, поклонившись Алаланатхе, без пищи стремительно шёл с санкиртаной до Курма-кшетры, остановился у брахмана Курмы и там Сам нашёл брахмана Васудеву, больного проказой, который возвращал на тело падавших червей; Господь обнял его, и тело Васудевы стало прекрасным; на его страх перед почётом Господь обещает, что ум его не обратится ни к чему, кроме памятования о Господе."
+  persons: ["@mahaprabhu", "@prataparudra", "@sarvabhauma", "@kurma-vipra", "@vasudeva-vipra"]
+  places: ["#alalanatha", "#kurma-kshetra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0217; Мурари: mkc-0172"
+  notes: "Алаланатха — упоминание (ev-alalanatha-prema-chain)."
+  themes: [mercy, pilgrimage, deities]
+  scriptures: ["Бхаг. 10.81.16"]
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Привратник** *(входя)*. Бхаттачарья! Б", to_text: "**Сарвабхаума.** А дальше, дальше?"}
+
+- id: ccd-0054
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ брахманов, ст. 4–6"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 20
+  title: "Нрисимха-кшетра: Господь славит Нрисимху"
+  summary: "Господь приходит в Нрисимха-кшетру, видит Господа Нрисимху, возносит хвалу, кланяется, обходит Его и идёт дальше."
+  persons: ["@mahaprabhu", "@jiyada-nrisimha"]
+  places: ["#simhachala"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0218, lcm-0219; Мурари: mkc-0173, mkc-0174"
+  notes: ""
+  themes: [deities, pilgrimage]
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** А потом он, чья сила непост", to_text: "**Сарвабхаума.** Ты говоришь истинно. Та"}
+
+- id: ccd-0055
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ брахманов, ст. 7–18"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 30
+  title: "Встреча с Раманандой Раем на Годавари: вопросы и ответы о высшем"
+  summary: "На берегу Годавари к Господу, как притянутый мантрой, приходит Рамананда Рай; в беседе Господь отвергает подвижничество как внешнее, а Рамананда отвечает, что знание — преданность Хари, высшее — игры Враджа и поклонение Радхе и Кришне; когда он говорит о любви божественной четы, где нет различия «он — возлюбленный, я — возлюбленная», Господь прикрывает ему рот рукой. Рамананда обвивает стопы Господа волосами: каким видел Его во сне, таким видит наяву."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma", "@prataparudra", "@radha", "@krishna"]
+  places: ["#godavari"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0074; Лочан: lcm-0220; Мурари: mkc-0175"
+  notes: "Рамананда «не обладал особым знанием о Господе», но говорит, как давний друг. Сарвабхаума толкует: любовь без упадхи не терпит условий; жест Господа указывает на сокровенность."
+  themes: [teaching, ecstasy]
+  bhava: [radha]
+  teaching: [prema, bhakti-supremacy]
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** Затем он пришёл на берег Го", to_text: "**Брахман.** Как прикажешь."}
+
+- id: ccd-0056
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ Малла-бхатты, ст. 19–20"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 25
+  title: "Посол царя Карнаты: пандиты Юга при виде Господа оставляют свои учения"
+  summary: "Министр царя Карнаты Малла-бхатта рассказывает: на юге мало сатватов и много еретиков, а с приходом Господа люди и пандиты, лишь увидев Его красоту, с дрожью и слезами оставили свои учения; царь Карнаты послал тайных брахманов следить за Ним до Сетубандхи и обратно."
+  persons: ["@malla-bhatta", "@prataparudra", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#puri", "#setubandha"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [mercy, pilgrimage]
+  event: ev-south-conversions
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "*(Царь даёт им награду. Брахманы почтите", to_text: "**Царь.** Министр, расскажи."}
+
+- id: ccd-0057
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ Малла-бхатты, ст. 21"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 47
+  title: "Еретики подносят нечистую пищу как прасад; птица уносит её"
+  summary: "Еретики решают обмануть погружённого в экстаз Господа и подносят Ему на блюде нечистейшую пищу, назвав её прасадом; Господь, не в силах отвергнуть «прасад», берёт её и поднимает руку, и огромная птица уносит пищу клювом."
+  persons: ["@malla-bhatta", "@mahaprabhu", "@sarvabhauma"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [offense, prasada, ecstasy]
+  event: ev-bird-snatches-impure-food
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Однажды Господь шёл, п", to_text: "> и его-то здесь вздумали морочить эти н"}
+
+- id: ccd-0058
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ Малла-бхатты, ст. 22–25"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 35
+  title: "Брахман, повторявший «Рама», после встречи с Господом повторяет «Кришна»"
+  summary: "Брахман, с детства преданный имени Рамы, увидев Господа, не может остановить в своих устах имя «Кришна»; Сарвабхаума поясняет: оба имени обозначают Брахман, но Шри Кришна Чайтанья — Сам Кришна, и при виде Его является образ Кришны; потому имя Кришны выше имени Рамы."
+  persons: ["@malla-bhatta", "@mahaprabhu", "@sarvabhauma", "@prataparudra"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [mercy, teaching]
+  teaching: [holy-name, gaura-tattva]
+  event: ev-rama-name-to-krishna-name
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** На другой день он случ", to_text: "так что имя Кришны выше имени Рамы."}
+
+- id: ccd-0059
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, рассказ Малла-бхатты"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 45
+  title: "Вайшнавы Юга становятся последователями Кришны; брахман, читающий Гиту с ошибками"
+  summary: "Почитатели Рагху на юге, привязанные к Панчавати и другим местам Рамы, увидев Господа, становятся сторонниками Кришны. Безграмотный брахман читает «Гиту» с ошибками, но в слезах видит Кришну на колеснице Арджуны; Господь называет его высшим, кто вправе читать «Гиту», обнимает, и тот восклицает: «Ты и есть Он!»"
+  persons: ["@malla-bhatta", "@mahaprabhu"]
+  places: ["#panchavati"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0177"
+  notes: "Панчавати — упоминание (ср. ev-panchavati-rama-bhava)."
+  themes: [mercy, ecstasy]
+  teaching: [scripture]
+  event: ev-gita-reading-brahmana
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Это верно. Мы тоже при", to_text: "**Сарвабхаума.** Так оно и есть."}
+
+- id: ccd-0060
+  source: chaitanya-chandrodaya
+  ref: "Акт 7, возвращение Господа, ст. 26"
+  file: "chaitanya-chandrodaya/ru/07.md"
+  period: P11
+  order: 90
+  title: "За сценой возвещают: Господь вернулся с юга"
+  summary: "Царь тоскует о встрече; за сценой слышны клики «Славлю Хари!» и голос Гопинатхи Ачарьи — Господь вернулся в Пурушоттаму, и Сарвабхаума спешит к Нему."
+  persons: ["@prataparudra", "@sarvabhauma", "@gopinatha-acharya", "@malla-bhatta", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0226; Мурари: mkc-0182, mkc-0183"
+  notes: ""
+  themes: [pilgrimage, jagannatha]
+  event: ev-return-from-south
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Царь** *(с тоской)*. Ах, когда же я см", to_text: "*Так заканчивается седьмой акт «Шри Чайт"}
+
+- id: ccd-0061
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, возвращение с юга"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P11
+  order: 90
+  title: "Господь говорит Сарвабхауме, что по сердцу Ему лишь учение Рамананды"
+  summary: "Вернувшись, Господь говорит Сарвабхауме: обойдя множество земель, Он не встретил подобных ему, кроме Рамананды Рая; вайшнавы там — почитатели Нараяны, таттвавади того же рода, многие — шиваиты, а еретиков великое множество; по сердцу Ему пришлось только учение Рамананды."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0226; Мурари: mkc-0182, mkc-0183"
+  notes: ""
+  themes: [teaching, pilgrimage]
+  teaching: [prema]
+  event: ev-return-from-south
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "*(Входит Шри Кришна Чайтанья, сопровожда", to_text: "**Сарвабхаума.** Он лишь вошёл в твоё со"}
+
+- id: ccd-0062
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, поселение в Пури, ст. 1–3"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 2
+  title: "Жилище в доме Каши Мишры; знакомство с приближёнными Джаганнатхи"
+  summary: "По решению царя Господа поселяют в доме Каши Мишры у Львиных ворот; пашупалы надевают на Него гирлянду прасада; Сарвабхаума представляет Ему слуг Джаганнатхи, махапатр, братьев Рамананды с Ванинатхой и их отца Бхавананду Рая; на слова Сарвабхаумы, что Джаганнатха — Брахман в дереве, а Он — Брахман в человеке, Господь закрывает уши."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@kashi-mishra", "@vaninatha-raya", "@chandaneshvara", "@prataparudra"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, prasada]
+  bhava: [devotee]
+  teaching: [gaura-tattva]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Гопинатха-ачарья.** Бхаттачарья! Подум", to_text: "**Все** *(прислушавшись)*. О, настало вр"}
+
+- id: ccd-0063
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, приход спутников, ст. 4–9"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 5
+  title: "Парамананда Пури приходит из Варанаси"
+  summary: "Господь вспоминает о Парамананде Пури — ученике Мадхавендры Пури, в которого, говорят, вошла вся мощь Вишварупы; после даршана Джаганнатхи тот приходит из Варанаси, томимый желанием лишь видеть Господа, и Господь кланяется ему."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@madhavendra-puri", "@vishvarupa", "@sarvabhauma"]
+  places: ["#puri", "#kashi"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: ""
+  themes: [jagannatha]
+  divergence: "Встреча с Парамананда Пури — в Пури, по его приходе из Варанаси (в ЧЧ Мадхья 9 — на юге, затем в Пури); в него «вошла мощь Вишварупы»."
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Шри Кришна Чайтанья** *(про себя)*. Ах", to_text: "**Сарвабхаума.** Ах, какая природная люб"}
+
+- id: ccd-0064
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, приход спутников, ст. 10–11"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 5
+  title: "Приход Сварупы Дамодары"
+  summary: "Приходит Дамодара-Сварупа — ученик Чайтаньянанды, великий отречённый, отказавшийся по просьбе гуру изучать и преподавать Веданту; он кланяется стопам Господа, и Господь, поднимая, обнимает его."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@gopinatha-acharya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: ""
+  themes: [jagannatha]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Шри Кришна Чайтанья** *(изображая, что", to_text: "*(Дамодара-Сварупа подходит и кланяется "}
+
+- id: ccd-0065
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, приход спутников, ст. 12–14"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 5
+  title: "Говинда, посланный Ишварой Пури, становится слугой Господа"
+  summary: "Говинда приходит по велению Ишвары Пури, который пожелал, чтобы его слуга служил Господу; на сомнение Сарвабхаумы, как принять в слуги не-брахмана, Господь отвечает, что милость Хари не смотрит на касту (Кришна принял пищу Видуры), и принимает Говинду по приказу гуру."
+  persons: ["@govinda-servant", "@ishvara-puri", "@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: ""
+  themes: [teaching]
+  teaching: [vaishnava]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "> **12.** Преданный служению Ишваре Пури", to_text: "**Шри Кришна Чайтанья.** Что ж, хотя не "}
+
+- id: ccd-0066
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, приход спутников, ст. 15–22"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 5
+  title: "Брахмананда Бхарати сбрасывает оленью шкуру"
+  summary: "Господь Сам идёт к почитаемому санньяси Брахмананде Бхарати, но, видя его в шкуре, делает вид, что не узнаёт его: «Будь это он, разве стал бы рабом внешнего облачения?»; Брахмананда понимает намёк, сбрасывает шкуру и надевает поданную Дамодарой одежду; Господь кланяется ему, и тот в шутливом споре называет Господа золотым Брахманом."
+  persons: ["@brahmananda-bharati", "@mahaprabhu", "@mukunda-datta", "@damodara-pandita", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: ""
+  themes: [sannyasa, teaching]
+  teaching: [sannyasa-teaching, vedanta]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Мукунда** *(поспешно входя)*. Свамин! ", to_text: "**Брахмананда.** Как тебе угодно. *(Уход"}
+
+- id: ccd-0067
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, отказ видеть царя, ст. 23–25"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 300
+  title: "Господь отказывается видеть царя; Нитьянанда ушёл в Гауду"
+  summary: "Сарвабхаума просит позволения привести томящегося царя; Господь закрывает уши: для отрёкшегося видеть людей, преданных чувственному, хуже яда, — и грозит уйти, если просьба повторится. Мукунда сообщает, что Нитьянанда ушёл в Гауду и придёт с Адвайтой ко времени праздника Гундичи."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@prataparudra", "@mukunda-datta", "@nityananda", "@gopinatha-acharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0070, jcm-0075; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: "Уход Нитьянанды в Гауду на время южного паломничества — упоминание."
+  themes: [sannyasa, teaching]
+  teaching: [sannyasa-teaching]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Шри Кришна Чайтанья.** Сарвабхаума! И ", to_text: "**Гопинатха-ачарья.** Ах, Господь уже уш"}
+
+- id: ccd-0068
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, царь и Сарвабхаума, ст. 26–30"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 300
+  title: "Скорбь Пратапарудры; Сарвабхаума советует хитрость на празднике колесниц"
+  summary: "Царь в слезах даёт обет либо расстаться с жизнью, либо увидеть стопы Господа; Сарвабхаума тайно советует: в день праздника колесниц, когда Господь после пляски отдохнёт в саду, погрузившись в блаженство, прийти одному, без царского облачения, и припасть к Нему."
+  persons: ["@prataparudra", "@sarvabhauma", "@gopinatha-acharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0070, jcm-0075; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: ""
+  themes: [separation, jagannatha]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "> **26.** Близок победный выезд колесниц", to_text: "**Сарвабхаума.** Так и будет."}
+
+- id: ccd-0069
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, прибытие гаудийцев, ст. 31–33"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 20
+  title: "Преданные Гауды у озера Нарендра; Гопинатха называет царю каждого"
+  summary: "Лазутчик сообщает о тысячах людей за Читротпалой; это гаудийские преданные во главе с Адвайтой. Царь с террасы видит, как Дамодара с гирляндой прасада спешит им навстречу, и слышит их киртан; Гопинатха Ачарья называет каждого — Адвайту, Нитьянанду, Шривасу, Вакрешвару, Ачарьяратну, Видьянидхи, Харидаса, Гададхару, Мурари, Гангадаса и других; Ванинатха несёт им махапрасад. Царь велит Каши Мишре исполнять желания Господа и пускать гаудийцев к Нему беспрепятственно; до праздника колесниц — два дня."
+  persons: ["@prataparudra", "@sarvabhauma", "@gopinatha-acharya", "@damodara-pandita", "@advaita", "@nityananda", "@srivasa", "@vakreshvara", "@chandrashekhara-acharya", "@pundarika-vidyanidhi", "@haridasa-thakura", "@gadadhara-pandita", "@murari-gupta", "@gangadasa-pandita", "@raghava-pandita", "@kashishvara", "@vasudeva-datta", "@shivananda-sena", "@vaninatha-raya", "@kashi-mishra"]
+  places: ["#puri", "#narendra-sarovara"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0235, mkc-0236, mkc-0238"
+  notes: "Сарвабхаума объясняет, почему паломники, не постившись, сразу принимают махапрасад: веление Господа — воочию."
+  themes: [kirtan, prasada, jagannatha]
+  teaching: [prasada-teaching]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Привратник** *(входя)*. Государь! Из с", to_text: "**Царь.** Бхаттачарья! Подойди поближе и"}
+
+- id: ccd-0070
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, встреча в доме Каши Мишры, ст. 34–42"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 20
+  title: "Встреча Господа с Адвайтой и преданными Гауды"
+  summary: "Говинда подносит Адвайте гирлянду; в доме Каши Мишры Господь кланяется Нитьянанде, обнимает Адвайту, называет по именам даже тех, кого не видел, раздаёт прасад Джаганнатхи; Он ласково говорит с Васудевой, Шиванандой, Рагхавой, вверяет Сварупе Шанкару, брата Дамодары, просит Адвайту поклониться Пури-ишваре и называет Сварупу Своим сердцем."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@govinda-servant", "@damodara-pandita", "@gopinatha-acharya", "@vasudeva-datta", "@mukunda-datta", "@shivananda-sena", "@raghava-pandita", "@shankara-pandita", "@svarupa-damodara", "@paramananda-puri", "@gadadhara-pandita", "@vaninatha-raya"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0235, mkc-0236, mkc-0238"
+  notes: "Гададхаре отведено место близ Ямешвары «на все времена»."
+  themes: [prasada, kirtan]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "**Сарвабхаума.** Царь повелел как раз то", to_text: "**Шри Кришна Чайтанья.** Так и есть. *(У"}
+
+- id: ccd-0071
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, праздник колесниц, ст. 43–50"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 70
+  title: "Праздник колесниц: Господь пляшет перед Джаганнатхой (глазами Гопинатхи)"
+  summary: "Через два дня начинается праздник колесниц; Гопинатха Ачарья видит три колесницы и слышит санкиртану, в которой Золотой Хари пляшет перед Луной Нилачалы, и по знаку Сарвабхаумы понимает, что переодетый царь придёт к Господу в сад."
+  persons: ["@gopinatha-acharya", "@sarvabhauma", "@prataparudra", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0242"
+  notes: ""
+  themes: [jagannatha, kirtan, festival]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "> **43.** И Шатадхрити лишился твёрдости", to_text: "Из знака Бхаттачарьи я понял, что теперь"}
+
+- id: ccd-0072
+  source: chaitanya-chandrodaya
+  ref: "Акт 8, милость к Пратапарудре, ст. 51–56"
+  file: "chaitanya-chandrodaya/ru/08.md"
+  period: P12
+  order: 300
+  title: "Царь в простой одежде обнимает стопы Господа в саду"
+  summary: "После пляски Господь с закрытыми глазами отдыхает в садовой беседке, повторяя стих «И потому лебеди прибегают к Твоим стопам…»; Пратапарудра, сняв царское облачение, подходит и обнимает Его стопы; Господь, не открывая глаз, крепко обнимает его и снова и снова повторяет: «Кто же, о царь… не стал бы служить стопам Мукунды?» Услышав, что колесница трогается, Господь уходит, а царь остаётся оцепеневшим от блаженства."
+  persons: ["@mahaprabhu", "@prataparudra", "@gopinatha-acharya", "@sarvabhauma"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0070, jcm-0075; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: ""
+  themes: [mercy, jagannatha, ecstasy]
+  calendar: "Ратха-ятра"
+  divergence: "Царь не читает Господу «Гопи-гиту» (ЧЧ Мадхья 14): он молча обнимает стопы, а Господь, не узнавая его, обнимает и повторяет стих «Бхагаваты»."
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/08.md", from_text: "*(Затем входит Шри Кришна Чайтанья — нед", to_text: "*Так заканчивается 8-й акт «Шри Чайтанья"}
+
+- id: ccd-0073
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, правешака (чета киннаров), ст. 1–2"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P14
+  order: 5
+  title: "Киннары о трёх видах милости Господа; преданные Гауды приходят каждый год"
+  summary: "Небесная чета киннаров вспоминает прекрасный праздник Гундичи этого года и говорит, что Господь милует троими способами: являясь воочию, входя в сердце другого и являясь от одной мысли. Воочию Его видят приходящие в Пурушоттаму: жители Кханды во главе с Нарахари и Рагхунанданой, потомки Гунараджи из Кулинаграмы во главе с Раманандой, Ньяя-ачарья Бхагаван, оставшийся в Пури на всю жизнь."
+  persons: ["@mahaprabhu", "@narahari-sarakara", "@raghunandana", "@ramananda-vasu", "@advaita", "@nakula-brahmachari"]
+  places: ["#puri", "#shrikhanda", "#kulinagrama"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рамка — разговор киннаров (небожителей)."
+  themes: [jagannatha, celestial, mercy]
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "*(Входит чета киннаров.)*", to_text: "А Ньяя-ачарья по имени Бхагаван"}
+
+- id: ccd-0074
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, правешака (чета киннаров), ст. 3"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P14
+  order: 20
+  title: "Накула Брахмачари из Амбуграмы, в которого вошёл Господь; испытание Шивананды"
+  summary: "В Амбуграме брахмачари Накула впадает в состояние, будто одержим, и все убеждены, что в него вошёл Шри Чайтанья; Шивананда, сомневаясь, задумывает: если тот позовёт его издалека и назовёт его избранную мантру — это истина; Накула зовёт его из толпы и говорит, что его мантра — четырёхсложная, божество — Гаура-Гопала."
+  persons: ["@nakula-brahmachari", "@shivananda-sena", "@mahaprabhu"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [revelation, mercy]
+  event: ev-nakula-brahmachari
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Мужчина.** Рассказ о том, как он входи", to_text: "**Мужчина.** Тогда по воле судьбы туда в"}
+
+- id: ccd-0075
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, правешака (чета киннаров)"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P12
+  order: 280
+  title: "Весть через Шриканту; Нрисимхананда «приводит» Господа и Тот вкушает три угощения"
+  summary: "Господь шутливо велит Шриканте передать Адвайте, чтобы в этом году не приходили, — Он Сам придёт и в пауше будет у Шивананды; но, удержанный Раманандой, не приходит. Нрисимхананда (Прадьюмна Брахмачари) в самадхи «приводит» Его в дом Рагхавы, готовит три подношения — Чайтанье, Джаганнатхе и Нрисимхе — и внутренним оком видит, что все три вкушает один Господь; на следующий год Господь в Пури подтверждает, что в пауше принял у него подаяние."
+  persons: ["@shrikanta-sena", "@mahaprabhu", "@advaita", "@shivananda-sena", "@jagadananda-pandita", "@ramananda-raya", "@nrisimhananda", "@raghava-pandita", "@paramananda-puri", "@svarupa-damodara", "@jagannatha-deity", "@nrisimha"]
+  places: ["#puri", "#panihati", "#kumarahatta"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [prasada, revelation]
+  calendar: "пауша"
+  event: ev-nrisimhananda-three-offerings
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Женщина.** Благородный супруг! А каков", to_text: "**Мужчина.** Тогда Шивананда сказал: «Уч"}
+
+- id: ccd-0076
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, правешака (чета киннаров), ст. 4"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 2
+  title: "Рамананда два года удерживает Господа; уход в Матхуру через Гауду"
+  summary: "Рамананда, не вынося разлуки, своими просьбами два года удерживал Господа, говорившего «сегодня», «завтра»; наконец, получив его согласие, Господь отправляется в Матхуру через Гауду; киннары уверены, что Он вернётся."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@prataparudra", "@sarvabhauma"]
+  places: ["#puri", "#mathura"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0184"
+  notes: ""
+  themes: [separation, pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Женщина.** Чудо, чудо! Так расскажи же", to_text: "*— Конец вступительной сцены (правешаки)"}
+
+- id: ccd-0077
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, царь, Сарвабхаума и Рамананда, ст. 5–8"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 2
+  title: "Скорбь царя; Рамананда провожает Господа до Бхадраки"
+  summary: "Царь благодарен Рамананде, который вывел Господа на дорогу из столицы, где царь увидел Его, коснулся Его стоп и испил нектар Его речи; с Господом ушли Пури-ишвара, Дамодара, Джагадананда, Гопинатха, Говинда; по царской грамоте на каждой стоянке Ему готовят жильё и угощение. Рамананда, проводив Господа до Бхадраки, плачет; его люди пойдут до самого царства Гауды."
+  persons: ["@prataparudra", "@sarvabhauma", "@ramananda-raya", "@mahaprabhu", "@paramananda-puri", "@damodara-pandita", "@jagadananda-pandita", "@gopinatha-acharya", "@govinda-servant"]
+  places: ["#puri", "#bhadraka"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0184"
+  notes: "Ст. 5: по устроению Рамананды царь на дороге увидел Господа и коснулся Его стоп — ср. ev-prataparudra-mercy."
+  themes: [separation, pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "*(Входят сидящий на троне Царь и Сарвабх", to_text: "**Рамананда.** До пределов ваших владени"}
+
+- id: ccd-0078
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестника, ст. 9–10"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 3
+  title: "Правитель-турок у границы Гауды становится преданным и даёт лодку"
+  summary: "У входа в Гауду пограничный правитель-турок, пьяница и злодей, грозит идущим из Ориссы; но его посланец, а затем он сам, придя с тремя-четырьмя людьми, от взгляда Господа покрывается мурашками и в слезах просит позволения служить; он даёт новую лодку, сам плывёт впереди, оберегая от речных разбойников, мимо Мантрешвары до Пиччханады, получает от Господа махапрасад и становится великим бхагаватой; за один день лодка доходит до Панихати."
+  persons: ["@mahaprabhu", "@gopinatha-acharya", "@prataparudra", "@ramananda-raya"]
+  places: ["#panihati"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [muslims, mercy, pilgrimage, prasada]
+  scriptures: ["Бхаг. 10.14"]
+  event: ev-yavana-governor-boat
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Привратник** *(входя)*. Государь! Из л", to_text: "**Сарвабхаума.** Рагхава-пандит."}
+
+- id: ccd-0079
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестника, ст. 11–14"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 7
+  title: "Панихати, Кумарахатта, дом Шивананды и Васудевы: толпы жаждут воды со стоп Господа"
+  summary: "В Панихати, у Рагхавы Пандита, берег Ганги превращается в толпу, и Господь с трудом доходит до дома; по воде Он приходит в Кумарахатту к Шривасе, где люди выкапывают ямы, собирая пыль с Его стоп; Джагадананда украшает дорогу к дому Шивананды, Господь входит в его домашний храм, затем на миг — к Васудеве; люди входят в воду по горло, чтобы получить воду с Его стоп."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@srivasa", "@jagadananda-pandita", "@shivananda-sena", "@vasudeva-datta"]
+  places: ["#panihati", "#kumarahatta", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [mercy, pilgrimage]
+  event: ev-gauda-journey-ganga-villages
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** То, что там случилось, — чу", to_text: "Затем Джагадананда по обеим сторонам пут"}
+
+- id: ccd-0080
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестника, ст. 15–17"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 7.5
+  title: "У Адвайты и семь дней в Кулии напротив Навадвипы"
+  summary: "Господь приходит к дому Адвайты, где Ему кланяется Харидас, и высаживается в Кулии напротив Навадвипы, в доме Мадхава Даса; семь дней Он остаётся там ради жителей Навадвипы: плата за перевоз вырастает от какини до каршапан, толпа за ночь ломает бамбуковую ограду, и Господь не может даже сходить к Ганге."
+  persons: ["@mahaprabhu", "@advaita", "@haridasa-thakura"]
+  places: ["#shantipura", "#kulia", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0086; Лочан: lcm-0246; Мурари: mkc-0226, mkc-0228"
+  notes: ""
+  themes: [mercy, pilgrimage]
+  divergence: "Кулия — по пути в Гауду (до Рамакели), а не на обратном пути из Вриндавана (Мурари, Лочан); встреча с Шачи не упомянута."
+  event: ev-kuliya-shachi-meeting
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** Затем он прибыл к дому Адва", to_text: "> и потому сама земля там и сям сильно п"}
+
+- id: ccd-0081
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестника, ст. 18"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 11
+  title: "Султан Гауды видит толпы: «Кто так притягивает людей — это Бог»"
+  summary: "Когда Господь идёт по берегу Ганги напротив столицы, владыка Гауды из шатра видит толпы и спрашивает, что это; министр Кешава Васу отвечает, что это великий человек Шри Кришна Чайтанья идёт из Пурушоттамы в Матхуру, и султан говорит: «Тот, кто так притягивает людей, — Бог». Молва гласит, что, пройдя ещё немного, Господь повернул назад."
+  persons: ["@gauda-sultan", "@keshava-vasu", "@mahaprabhu"]
+  places: ["#gauda", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0087"
+  notes: "Поворот назад — ev-natashala-kanai-return (место не названо)."
+  themes: [muslims]
+  event: ev-gauda-sultan-sees-crowds
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "И ещё слышно: когда Господь шёл по тому ", to_text: "> и, из боязни людских толп, тайно ушёл "}
+
+- id: ccd-0082
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, весть Каши Мишры"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 25
+  title: "Господь вернулся с пути и тайно ушёл во Вриндаван лесной дорогой"
+  summary: "Каши Мишра подтверждает: из боязни людских толп Господь повернул назад и ушёл из Пури никем не замеченный, сказав: «Считай, что Я уже вернулся»; за Ним тайно посланы брахманы, чтобы подавать Ему милостыню, и царь велит скороходам доставлять о Нём вести."
+  persons: ["@kashi-mishra", "@prataparudra", "@sarvabhauma", "@mahaprabhu", "@chandaneshvara"]
+  places: ["#puri", "#jharikhanda"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0193"
+  notes: ""
+  themes: [separation, pilgrimage]
+  event: ev-departure-for-vrindavana
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь** *(с изумлением)*. Слышится как ", to_text: "**Каши-Мишра.** Государь! Я уже сообщил "}
+
+- id: ccd-0083
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестников, ст. 19–29"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 90
+  title: "Господь во Вриндаване: обнимает деревья, бежит за телятами, падает у Говардханы"
+  summary: "Вестники рассказывают: Господь был в Матхуре и Вриндаване, на Ямуне и у Говардханы; Он обнимал лианы и деревья с плачем, падал при виде коров, лишался чувств, увидев сияние, подобное шее павлина, бросался за телятами по колючкам; олени слизывали пену с Его уст, птицы пили Его слёзы, павлины рыдали вслед. Видя, что Его тело держится лишь божественной силой, Балабхадра Бхаттачарья и другие словно силой увели Его из Вриндавана."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@prataparudra"]
+  places: ["#vrindavana", "#mathura", "#govardhana"]
+  kind: lila
+  authority: A
+  parallels: "Лочан: lcm-0235, lcm-0237, lcm-0238, lcm-0241, lcm-0242, lcm-0243; Мурари: mkc-0204, mkc-0206, mkc-0207, mkc-0208, mkc-0209, mkc-0212, mkc-0214, mkc-0215, mkc-0216, mkc-0217, mkc-0218, mkc-0219, mkc-0220"
+  notes: "Пребывание во Вриндаване кратко: «Его словно притянул Джаганнатха» (Сарвабхаума)."
+  themes: [ecstasy, krishna-lila, pilgrimage]
+  bhava: [radha]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Привратник** *(входя)*. Государь! У во", to_text: "> того Шри Рупу вместе с Анупамой Господ"}
+
+- id: ccd-0084
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестников, ст. 30"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 182
+  title: "Праяга: милость Рупе и Анупаме"
+  summary: "В Праяге Господь облагодетельствовал беседами и объятиями Шри Рупу вместе с Анупамой и вложил в Рупу облик Своих игр."
+  persons: ["@mahaprabhu", "@rupa-gosvami"]
+  places: ["#prayaga"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда: jcm-0095; Лочан: lcm-0230; Мурари: mkc-0223"
+  notes: ""
+  themes: [mercy, teaching]
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь.** Сарвабхаума! Отчего же он, так", to_text: "> подобного ему самому, — Господь, едины"}
+
+- id: ccd-0085
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестников, ст. 31–33"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 35
+  title: "Варанаси: Господь у Чандрашекхары; все идут видеть Его, кроме завистливых санньяси"
+  summary: "В Варанаси Господь остановился в доме брахмана Чандрашекхары; словно по велению Вишвешвары, весь город — брахмачари, домохозяева, отшельники, жрецы — пришёл Его увидеть, кроме нескольких завистливых главарей санньяси."
+  persons: ["@mahaprabhu", "@chandrashekhara-vaidya", "@prataparudra", "@sarvabhauma"]
+  places: ["#kashi"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0195"
+  notes: "Чандрашекхара назван «земным богом» (брахманом); в ЧЧ — вайдья (писец)."
+  themes: [mercy, sannyasa]
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Вестники.** А затем в Варанаси —", to_text: "**Сарвабхаума.** Махараджа! Пока не побе"}
+
+- id: ccd-0086
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, рассказ вестников, ст. 34–38"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 185
+  title: "Санатана в Варанаси: Господь обнимает его; поручение прославить Вриндаван"
+  summary: "Старший брат Рупы, украшение двора владыки Гауды, оставив богатство, приходит в облике авадхуты и стоит снаружи, собирая пыль со стоп выходящих; всеведущий Господь велит привести его, сходит вниз и обнимает. По молве, Рупа и Санатана придут в Пурушоттаму, а затем по слову Господа отправятся во Вриндаван — восстановить утраченные предания об играх Вриндавана."
+  persons: ["@sanatana-gosvami", "@rupa-gosvami", "@mahaprabhu", "@prataparudra", "@sarvabhauma", "@ramananda-raya"]
+  places: ["#kashi", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0224"
+  notes: ""
+  themes: [mercy, teaching]
+  event: ev-sanatana-kashi-instruction
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Вестники.** А затем —", to_text: "> Господь там же окропил нектаром милост"}
+
+- id: ccd-0087
+  source: chaitanya-chandrodaya
+  ref: "Акт 9, возвращение, ст. 39–40"
+  file: "chaitanya-chandrodaya/ru/09.md"
+  period: P13
+  order: 215
+  title: "Господь возвращается из Вриндавана на Нилачалу"
+  summary: "Клики «Слава!» возвещают возвращение Господа; Его встречают Парамананда Пури и Сварупа; Господь говорит, что общение с великими душами прекраснее служения тиртхам, — оттого Он и вернулся так скоро; Сарвабхаума и Рамананда простираются перед Ним, и Каши Мишра зовёт Его к Джаганнатхе, ожидающему после валлабха-бхоги."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@kashi-mishra", "@sarvabhauma", "@ramananda-raya", "@jagannatha-deity", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, pilgrimage]
+  event: ev-return-to-puri-from-vrindavana
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "*(За сценой издалека громкий шум: «Слава", to_text: "*Так заканчивается девятый акт «Шри Шри "}
+
+- id: ccd-0088
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, правешака (странник и Гандхарва), ст. 1"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 10
+  title: "Собака, шедшая с Шиванандой, у Господа повторяет «Кришна»"
+  summary: "Слуга Адвайты Гандхарва рассказывает страннику: Шивананда, опекающий паломников, заботился о приставшей к нему собаке, кормил её и платил за её перевоз; однажды её забыли покормить, и она пропала. В Пурушоттаме Шивананда увидел её подле Господа на берегу океана: Господь бросал ей кусочки кокоса-прасада, говоря «Скажи: Кришна!», и она повторяла «Кришна, Кришна»; Шивананда попросил у неё прощения, и больше её никто не видел."
+  persons: ["@shivananda-sena", "@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [mercy, prasada]
+  teaching: [holy-name]
+  event: ev-shivananda-dog
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входит некий странник.)*", to_text: "**Странник.** Брат! Сегодня у меня благо"}
+
+- id: ccd-0089
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, правешака (странник и Гандхарва), ст. 2"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 12
+  title: "Шивананда в колодках у начальника переправ; сон о Шри Кришне Чайтанье"
+  summary: "Шивананда платит пошлину за всех паломников; однажды в области Ремуна своевольный сановник Гаджапати, пока царь воевал на юге, пересчитывает людей, требует подать за прошлые годы и заковывает Шивананду; ночью он спрашивает: «Кто больше — Джаганнатха или Чайтанья?» — и, услышав «Кришна Чайтанья», признаётся, что Господь во сне велел освободить Его человека, и отпускает всех без пошлины. Странник из Северного Радха прислан Нарахари Дасом; Адвайта опекает юного Шринатху."
+  persons: ["@shivananda-sena", "@advaita", "@mahaprabhu", "@narahari-sarakara"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [mercy, pilgrimage]
+  event: ev-shivananda-toll-arrest
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "**Гандхарва.** Брат, послушай.", to_text: "**Гандхарва.** А я пойду за Шиванандой. "}
+
+- id: ccd-0090
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, вишкамбхака (Шивананда), ст. 3–4"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 30
+  title: "Человек Говардханы Даса идёт с Шиванандой разыскать Рагхунатху Даса"
+  summary: "К Шивананде приходит посланный Говардханой Дасом, чтобы разыскать Рагхунатху Даса; Шивананда славит Рагхунатху — ученика Ядунанданы, последователя Сварупы, сокровищницу отречения — и берёт посланного под опеку. Гандхарва передаёт повеление Адвайты отправляться; в этом году хотят увидеть и праздник омовения."
+  persons: ["@shivananda-sena", "@raghunatha-dasa", "@svarupa-damodara", "@advaita"]
+  places: ["#kumarahatta", "#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Отец Рагхунатхи (Говардхана) ищет сына, ушедшего к Господу."
+  themes: [sannyasa, pilgrimage]
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*— Вставная сцена (вишкамбхака) —*", to_text: "**Шивананда.** Этого-то все и желают. Ид"}
+
+- id: ccd-0091
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, вишкамбхака (Сарвабхаума)"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 40
+  title: "Сарвабхаума по пути в Варанаси встречает паломников из Гауды"
+  summary: "Сарвабхаума, без согласия Господа, самовольно идёт в Варанаси, чтобы заставить принять учение Господа; по дороге он встречает идущих в Пури гаудийцев — Адвайту, Нитьянанду, Шривасу, Харидаса, Гададхару Даса, Говинду Гхоша, Нарахари, Рамананду Васу, Гауридаса и других — и остаётся с ними на ночь; Шриканта уходит вперёд."
+  persons: ["@sarvabhauma", "@advaita", "@nityananda", "@srivasa", "@haridasa-thakura", "@gadadhara-dasa", "@govinda-ghosha", "@narahari-sarakara", "@ramananda-vasu", "@gauridasa-pandita", "@shrikanta-sena", "@shivananda-sena"]
+  places: ["#kashi"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [teaching, pilgrimage]
+  event: ev-sarvabhauma-to-varanasi
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входит без отдёргивания занавеса", to_text: "**Адвайта.** Пойдём, Бхаттачарья, пойдём"}
+
+- id: ccd-0092
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, встреча с гаудийцами, ст. 5–9"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 5
+  title: "Шриканта рассказывает, кто идёт; Господь встречает Адвайту и паломников"
+  summary: "Шриканта перечисляет Господу идущих: сыновья Адвайты, юный Шринатха, сын Васудевы, сыновья Шивананды, сын Рамананды Васу; Господь вспоминает, что в прошлом году Адвайта говорил с царём. Ванинатха приносит махапрасад, Каши Мишра сообщает, что царь уступил гаудийцам свои места для просмотра омовения; Господь выходит навстречу пляшущему Адвайте, обнимает всех и раздаёт рисовый прасад."
+  persons: ["@shrikanta-sena", "@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@govinda-servant", "@advaita", "@vasudeva-datta", "@shivananda-sena", "@ramananda-vasu", "@vaninatha-raya", "@kashi-mishra", "@shankara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Сыновья Адвайты названы: Вишну Дас, Гопала Дас и другие."
+  themes: [jagannatha, prasada, kirtan]
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входят Сварупа и Говинда.)*", to_text: "**Сварупа.** Говинда! Пойдём вслед за Го"}
+
+- id: ccd-0093
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, праздник омовения, ст. 10–18"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 60
+  title: "Снана-ятра глазами царя и царицы: два Бога друг против друга"
+  summary: "Царь, чтобы не стеснять Господа, смотрит праздник омовения с террасы дворца вместе с царицей; гаудийцы сидят на башне напротив купальни; в великий день Джьяйштхи взвивается флаг; царица видит Гаурачандру и вместо Джаганнатхи славит Его; Господь и Джаганнатха, оба омытые — водой омовения и слезами, — стоят, не мигая глядя друг на друга."
+  persons: ["@prataparudra", "@kashi-mishra", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0241"
+  notes: ""
+  themes: [jagannatha, festival, ecstasy]
+  calendar: "джьяйштха (Снана-пурнима)"
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входят царь, находящийся на террасе дв", to_text: "> с благоговением образуют вокруг него к"}
+
+- id: ccd-0094
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, анавасара, ст. 19–27"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 60
+  title: "Анавасара: разлука Господа; Сварупа рассеивает её киртаном у Рохини-кунды"
+  summary: "В пору анавасары Господь, не видя Джаганнатхи, оставляет омовение, повторение имён и даже милостыню и беспрестанно рыдает; Сварупа с близкими после выхода Гопинатхи начинает сладчайший киртан у Рохини-кунды о звуке флейты, на гаудийском языке, — и Господь две стражи пляшет на один припев; вайшнав Шубхананда пьёт пену с Его уст. Царь смотрит с храмовой террасы."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@kashi-mishra", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0241"
+  notes: ""
+  themes: [separation, kirtan, ecstasy]
+  bhava: [radha]
+  divergence: "Господь не уходит к Алаланатхе (Мурари, ЧЧ): разлуку в Пури рассеивает киртан Сварупы."
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "> **19.** Когда Господь вселенной вступи", to_text: "*(Оглядывается кругом.)*"}
+
+- id: ccd-0095
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, уборка Гундичи, ст. 28–40"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 65
+  title: "Господь с преданными метёт и моет храм Гундичи"
+  summary: "Туласи Мишра и его человек рассказывают царю: Господь со спутниками сам сметает паутину и пыль в храме Гундичи, ставит людей друг другу на плечи, собирает сор в край одежды, моет мандапы и двор, начинает киртан; затем все чистят мандапу Нарасимханатхи, играют в воде в пруду Индрадьюмны и вкушают прасад, принесённый Ванинатхой."
+  persons: ["@prataparudra", "@mahaprabhu", "@kashi-mishra", "@vaninatha-raya"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, kirtan, festival]
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "**За сценой.** Ах, какое великое чудо!", to_text: "**Туласи-Мишра.** Как велишь. *(Уходит.)"}
+
+- id: ccd-0096
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, праздник колесниц, ст. 41–58"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 70
+  title: "Ратха-ятра глазами цариц: пляска Господа в трёх кругах киртана"
+  summary: "Каши Мишра описывает убранные колесницы; царь предпочитает служению при выезде лицезрение пляски Махапрабху. Царицы с террасы видят: Господь в трёх кругах преданных — Кашишвара, Говинда, Сварупа, Пури-ишвара; царь, ища просвета, ходит, опираясь о Харичандану, и умиротворяет Шривасу, ударившего того; Господь в неистовой тандаве падает в обморок и пробуждается от той же песни, Сварупа удерживает Его руку; Джаганнатха с колесницы словно тянет к Нему руки. Царь велит пышно устроить выезд Лакшми на Хера-панчами."
+  persons: ["@kashi-mishra", "@prataparudra", "@mahaprabhu", "@kashishvara", "@govinda-servant", "@svarupa-damodara", "@paramananda-puri", "@srivasa", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари: mkc-0242"
+  notes: ""
+  themes: [jagannatha, kirtan, ecstasy, festival]
+  bhava: [radha]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "*(Входит Каши-Мишра.)*", to_text: "**Царь.** Начни это с сегодняшнего дня; "}
+
+- id: ccd-0097
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, Хера-панчами, ст. 59–68"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: P14
+  order: 75
+  title: "Хера-панчами: Господь, Сварупа и Шриваса о гневе Лакшми и мане гопи"
+  summary: "В саду Джаганнатха-валлабха Адвайта и другие делят дни угощения Господа. Господь говорит, что Джаганнатха под предлогом Гундичи уходит в сады, напоминающие Вриндаван, а Лакшми гневается; на выезде богини её служанки связывают слуг Джаганнатхи; Сварупа противопоставляет её «гнев» утончённости мана гопи, Шриваса защищает величие Лакшми, и Господь говорит, что Шривасе, как Нараде, мила Дварака, а Сварупе — Вриндаван."
+  persons: ["@kashi-mishra", "@mahaprabhu", "@advaita", "@svarupa-damodara", "@srivasa", "@paramananda-puri", "@lakshmi", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, festival, krishna-lila, teaching]
+  teaching: [prema]
+  event: ev-hera-panchami
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "**Каши-Мишра** *(про себя)*. Погляжу-ка,", to_text: "**Шри Кришна Чайтанья.** Шривас, ты, как"}
+
+- id: ccd-0098
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, заключение (бхарата-вакья), ст. 69–75"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: PX
+  order: 900
+  title: "Мольба Адвайты и обещание Господа: «сделаю вас преданными Вриндавану»"
+  summary: "Адвайта говорит, что по милости Господа им выпали эти праздники; Господь сокрушил Кали, возвестил путь бхакти и прему, науку махабхавы гопи; преданные не ищут ни дхармы, ни освобождения — лишь жить с Ним и в ином мире. Господь обещает сделать их, в телах, равных Ему сиянием, единственно преданными Вриндавану. Заключительное благословение: пусть поэты слагают и актёры представляют Его игры до конца кальпы."
+  persons: ["@advaita", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Бхарата-вакья (ст. 75) — формальное завершение драмы."
+  themes: [author, teaching]
+  teaching: [prema, gaura-tattva, bhakti-supremacy]
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "**Адвайта.** Господи!", to_text: "*Так заканчивается 10-й акт «Шри Чайтань"}
+
+- id: ccd-0099
+  source: chaitanya-chandrodaya
+  ref: "Акт 10, заключительные стихи автора, ст. 1–4"
+  file: "chaitanya-chandrodaya/ru/10.md"
+  period: PX
+  order: 901
+  title: "Заключительные стихи Карнапуры: скорбь об ушедших спутниках; даты явления и создания драмы"
+  summary: "Автор говорит, что поэзия родилась в нём по милости остатков Господа, что он сложил рассказ, как видел и слышал, когда круг любимцев Господа остался лишь в памяти, и скорбит, что пережил бхагават; Гаура Хари явился в лето Шаки 1407, а книга создана в Шаке 1494."
+  persons: ["@kavi-karnapura", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Стих 4: Шака 1407 (1486) — явление Господа (опора датировки ev-gaura-appearance); Шака 1494 (1572) — год создания драмы."
+  themes: [author]
+  verses:
+    - {file: "chaitanya-chandrodaya/ru/10.md", from_text: "## Заключительные стихи автора", to_text: "*Здесь завершается драма, называемая «Ча"}

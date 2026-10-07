@@ -1,6 +1,16 @@
 # Сводные лилы-события: одно событие — общая карточка, к которой привязаны записи разных источников (поле `event`).
 # Формат — README.md, раздел «События». Записи добавлять в порядке шкалы (period, order).
 
+- id: ev-earth-complains-to-brahma
+  title: "Земля жалуется Брахме на бремя Кали-юги"
+  title_en: "The Earth complains to Brahma of the burden of Kali-yuga"
+  period: P00
+  order: 5
+  cc: ""
+  cb: ""
+  themes: [celestial]
+  notes: "Джаянанда, Ади-кханда (по цитатам)."
+
 - id: ev-narada-kali-sorrow
   title: "Скорбь Нарады о людях Кали-юги"
   title_en: "Narada's grief over the people of Kali-yuga"
@@ -181,6 +191,16 @@
   themes: [celestial, kirtan]
   notes: "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра)."
 
+- id: ev-srivasa-saved-from-death
+  title: "Шриваса спасён от смерти: вещий сон и прибежище в святом имени"
+  title_en: "Srivasa saved from death: the prophetic dream and refuge in the holy name"
+  period: P01
+  order: 3
+  cc: ""
+  cb: ""
+  themes: [mercy, celestial]
+  notes: "Карнапура, «Чайтанья-чандродая», акт 1: до явления Господа; Господь открывает, что сон был послан Им."
+
 - id: ev-associates-descend
   title: "Нисхождение спутников Господа"
   title_en: "The descent of the Lord's associates"
@@ -190,6 +210,16 @@
   cb: "Ади 2"
   themes: [celestial]
   notes: "Мурари 1.04; отождествления — «Гаура-ганоддеша-дипика»."
+
+- id: ev-mishra-family-migrates-navadvipa
+  title: "Переселение Ниламбары Чакраварти и Джаганнатхи Мишры из Шрихатты в Навадвипу"
+  title_en: "Nilambara Chakravarti and Jagannatha Mishra migrate from Shrihatta to Navadvipa"
+  period: P01
+  order: 8
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "Джаянанда, Надия-кханда, разд. 2: голод и мор в Шрихатте."
 
 - id: ev-jagannatha-mishra-marries-shachi
   title: "Женитьба Джаганнатхи Мишры на Шачи"
@@ -210,6 +240,16 @@
   cb: ""
   themes: [family]
   notes: "Мурари 1.02.5–10."
+
+- id: ev-gauda-king-persecutes-navadvipa
+  title: "Гонения владыки Гауды на брахманов Навадвипы и восстановление Надии"
+  title_en: "The Gauda king persecutes the brahmanas of Navadvipa, and Nadia is restored"
+  period: P01
+  order: 25
+  cc: ""
+  cb: ""
+  themes: [muslims]
+  notes: "Джаянанда, Надия-кханда, разд. 4 (до явления Господа)."
 
 - id: ev-lord-enters-shachi-womb
   title: "Господь входит в лоно Шачи"
@@ -253,7 +293,7 @@
   years: [1486, 1486]
   age: [0, 0]
   date_conf: точно
-  date_basis: "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения"
+  date_basis: "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)"
   cc: "Ади 13"
   cb: "Ади 3"
   themes: [revelation, celestial, family]
@@ -396,6 +436,16 @@
   themes: [pranks, family]
   notes: ""
 
+- id: ev-boy-gauranga-beauty
+  title: "Красота отрока Гауранги; Шачи боится за сына"
+  title_en: "The beauty of the boy Gauranga; Shachi fears for her son"
+  period: P03
+  order: 45
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "Джаянанда, Надия-кханда, разд. 18."
+
 - id: ev-brick-two-coconuts
   title: "Кирпич, брошенный в мать, и два кокоса"
   title_en: "The brick thrown at His mother and the two coconuts"
@@ -455,6 +505,16 @@
   cb: ""
   themes: [pranks, mercy, teaching]
   notes: ""
+
+- id: ev-childhood-companions
+  title: "Товарищи детских игр Господа"
+  title_en: "The Lord's childhood playmates"
+  period: P03
+  order: 92
+  cc: ""
+  cb: ""
+  themes: [pranks]
+  notes: "Джаянанда (по цитатам): Шриваса с братьями, Мукунда, Мурари и другие — товарищи детства."
 
 - id: ev-child-kirtan
   title: "Детский киртан Нимая"
@@ -558,6 +618,16 @@
   themes: [departure, family, separation]
   notes: "Мурари 1.08.13–24."
 
+- id: ev-gadadhara-jagadananda-in-lords-house
+  title: "Шачи приводит в дом Гададхару и Джагадананду"
+  title_en: "Shachi brings Gadadhara and Jagadananda into the house"
+  period: P04
+  order: 65
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "Джаянанда, Надия-кханда (в т. ч. разд. 29)."
+
 - id: ev-study-gangadasa
   title: "Учёба у Гангадаса Пандита"
   title_en: "Study under Gangadasa Pandita"
@@ -597,6 +667,16 @@
   cb: "Ади 10"
   themes: [family, festival]
   notes: "Мурари 1.09.34–1.11.2."
+
+- id: ev-lakshmi-feast-vaishnavas
+  title: "Лакшмиприя служит свекрови и готовит пир для вайшнавов"
+  title_en: "Lakshmipriya serves her mother-in-law and cooks a feast for the Vaishnavas"
+  period: P05
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [family, prasada]
+  notes: "Джаянанда, Надия-кханда, разд. 55."
 
 - id: ev-evening-strolls-ganga
   title: "Прогулки Господа с друзьями к Ганге"
@@ -728,6 +808,16 @@
   themes: [ecstasy, pilgrimage, deities]
   notes: "Мурари 1.16.1–7."
 
+- id: ev-gaya-ascetic-samadhi
+  title: "Белый от подвижничества отшельник выходит из самадхи при виде Гауранги"
+  title_en: "An ascetic white with austerity breaks his samadhi on seeing Gauranga"
+  period: P06
+  order: 55
+  cc: ""
+  cb: ""
+  themes: [revelation]
+  notes: "Джаянанда (по цитатам); контекст — путь в Гаю или из Гаи."
+
 - id: ev-gaya-heavenly-voice-return
   title: "Небесный голос в Гае; возвращение в Навадвипу"
   title_en: "The heavenly voice in Gaya; return to Navadvipa"
@@ -747,6 +837,16 @@
   cb: "Мадхья 1"
   themes: [teaching, learning]
   notes: "Мурари 2.1.8."
+
+- id: ev-chhakari-worship
+  title: "Чхакари и Чандракала почитают Гаурачандру"
+  title_en: "Chhakari and Chandrakala worship Gaurachandra"
+  period: P07
+  order: 12
+  cc: ""
+  cb: ""
+  themes: [revelation]
+  notes: "Джаянанда (по цитатам)."
 
 - id: ev-shachi-receives-prema
   title: "Шачи обретает прему"
@@ -777,6 +877,16 @@
   cb: ""
   themes: [kirtan, ecstasy]
   notes: ""
+
+- id: ev-prema-on-street
+  title: "Господь падает в преме на улице, услышав имя от студентов"
+  title_en: "The Lord falls in prema on the street on hearing the Name from students"
+  period: P07
+  order: 45
+  cc: ""
+  cb: ""
+  themes: [ecstasy]
+  notes: "Карнапура, ЧЧд акт 2 (рассказ Бхакти-деви)."
 
 - id: ev-flute-sound-radha-bhava
   title: "Господь слышит флейту в бхаве Радхи"
@@ -968,6 +1078,16 @@
   themes: [revelation, kirtan, teaching]
   notes: "Мурари 2.6.10–27."
 
+- id: ev-advaita-sees-krishna-form
+  title: "Адвайта созерцает в сердце облик Кришны"
+  title_en: "Advaita beholds Krishna's form in his heart"
+  period: P07
+  order: 98.5
+  cc: ""
+  cb: ""
+  themes: [revelation, krishna-lila]
+  notes: "Карнапура, ЧЧд акт 2 («Лицезрение всех аватар»): по просьбе Шривасы Господь являет Адвайте Свой облик в его сердце."
+
 - id: ev-murari-ramadasa
   title: "Мурари читает «Рамаштаку» и становится Рамадасом"
   title_en: "Murari recites the Ramashtaka and becomes Ramadasa"
@@ -1058,6 +1178,16 @@
   themes: [ecstasy]
   notes: "Мурари 2.9.13–16."
 
+- id: ev-viraga-meets-bhakti
+  title: "Вирага встречает Бхакти-деви (аллегория)"
+  title_en: "Viraga meets Bhakti-devi (allegory)"
+  period: P07
+  order: 112.5
+  cc: ""
+  cb: ""
+  themes: [celestial, teaching]
+  notes: "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 2): Отрешённость, скитаясь по охваченной Кали земле, узнаёт от Бхакти-деви о деяниях Гауры в Навадвипе."
+
 - id: ev-advaita-worships-lord-shrivasa
   title: "Адвайта поклоняется Господу в доме Шривасы"
   title_en: "Advaita worships the Lord at Shrivasa's house"
@@ -1067,6 +1197,16 @@
   cb: ""
   themes: [revelation, prasada]
   notes: "Мурари 2.9.17–23."
+
+- id: ev-muslim-tailor
+  title: "Портной-мусульманин в доме Шривасы видит Господа"
+  title_en: "The Muslim tailor at Srivasa's house sees the Lord"
+  period: P07
+  order: 113.5
+  cc: ""
+  cb: ""
+  themes: [mercy, muslims, revelation]
+  notes: "Карнапура, ЧЧд акт 2; ср. ЧБ Мадхья-кханда (портной-мусульманин, шивший одежду для Шривасы)."
 
 - id: ev-haridasa-arrives
   title: "Приход Харидаса; Господь чтит его"
@@ -1198,6 +1338,16 @@
   themes: [separation, teaching]
   notes: "Мурари 2.11.19–25, 2.12.1–4."
 
+- id: ev-kali-adharma-dismay
+  title: "Кали и Адхарма страшатся явления Господа (аллегория)"
+  title_en: "Kali and Adharma dismayed by the Lord's advent (allegory)"
+  period: P07
+  order: 126.5
+  cc: ""
+  cb: ""
+  themes: [celestial, revelation]
+  notes: "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 1): олицетворённые Кали и Адхарма обсуждают явление Господа и видят махапракашу в доме Шривасы."
+
 - id: ev-murari-sudama-verse-abhisheka
   title: "Мурари и шлока Судамы; омовение Господа"
   title_en: "Murari and Sudama's verse; the Lord's ablution"
@@ -1207,6 +1357,16 @@
   cb: ""
   themes: [revelation, sannyasa]
   notes: "Мурари 2.12.5–17. Первое предвестие санньясы."
+
+- id: ev-shachi-vaishnava-aparadha
+  title: "Оскорбление Шачи перед преданными и его прощение"
+  title_en: "Shachi's offence to the devotees and its forgiveness"
+  period: P07
+  order: 127.5
+  cc: ""
+  cb: ""
+  themes: [offense, family, mercy]
+  notes: "Карнапура, ЧЧд акт 1 (оскорбление Шривасы и других); ср. ЧБ Мадхья 22 (оскорбление Адвайты)."
 
 - id: ev-cleaning-temple
   title: "Господь с преданными убирает храм"
@@ -1268,6 +1428,16 @@
   themes: [teaching, kirtan]
   notes: ""
 
+- id: ev-maitri-meets-prema-bhakti
+  title: "Майтри встречает Према-бхакти (аллегория)"
+  title_en: "Maitri meets Prema-bhakti (allegory)"
+  period: P07
+  order: 134.5
+  cc: ""
+  cb: ""
+  themes: [celestial, teaching]
+  notes: "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 3): родословная бхакти; Према-бхакти ведёт Майтри смотреть действо в доме Ачарьяратны."
+
 - id: ev-chandrashekhara-drama
   title: "Действо в доме Чандрашекхары"
   title_en: "The drama at Chandrashekhara's house"
@@ -1297,6 +1467,16 @@
   cb: ""
   themes: [separation, ecstasy, sannyasa]
   notes: "Мурари 2.17.12–19."
+
+- id: ev-lord-preaches-vanity-of-world
+  title: "Господь в экстазе проповедует тщету мира"
+  title_en: "The Lord in ecstasy preaches the vanity of the world"
+  period: P07
+  order: 139.5
+  cc: ""
+  cb: ""
+  themes: [teaching, ecstasy, sannyasa]
+  notes: "Джаянанда, Вайрагья-кханда (начало)."
 
 - id: ev-sannyasa-mantra-dream
   title: "Сон о мантре санньясы"
@@ -1337,6 +1517,16 @@
   cb: ""
   themes: [separation, family, teaching]
   notes: "Включает рассказ о Дхруве (Бхаг. 4.8–12; у Лочана Даса — вероятная вставка) и видение Шачи."
+
+- id: ev-lord-tells-dhruva-story
+  title: "Господь рассказывает Шачи повесть о Дхруве"
+  title_en: "The Lord tells Shachi the story of Dhruva"
+  period: P07
+  order: 144.5
+  cc: ""
+  cb: ""
+  themes: [teaching, family, sannyasa]
+  notes: "Джаянанда, Вайрагья-кханда («Дхрува-чаритра» в списках ходила отдельно)."
 
 - id: ev-vishnupriya-pleads-before-sannyasa
   title: "Мольба Вишнуприи перед санньясой; четырёхрукий облик"
@@ -1559,6 +1749,16 @@
   themes: [mercy, pilgrimage, revelation]
   notes: "Мурари 3.7."
 
+- id: ev-sakshi-gopala
+  title: "Даршан Сакши-гопалы"
+  title_en: "Darshan of Sakshi-gopala"
+  period: P09
+  order: 85
+  cc: "Мадхья 5"
+  cb: ""
+  themes: [deities, pilgrimage]
+  notes: "По Карнапуре (ЧЧд акт 6) — в Катаке, куда Божество перенёс царь Пурушоттама-дева; Господь слагает стих о лотосной стопе."
+
 - id: ev-ekamra-bhubaneshvara
   title: "Экамра (Бхуванешвара): Господь чтит Шиву"
   title_en: "Ekamra (Bhubaneshvara): the Lord honours Shiva"
@@ -1671,6 +1871,16 @@
   themes: [deities, pilgrimage, teaching]
   notes: "Мурари 3.14.21–32 (предания о пастухе и купце, рассказанные Господом)."
 
+- id: ev-south-conversions
+  title: "Жители и пандиты Юга становятся вайшнавами при виде Господа"
+  title_en: "The people and pandits of the South become Vaishnavas on seeing the Lord"
+  period: P11
+  order: 25
+  cc: ""
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "Карнапура, ЧЧд акт 7 (рассказ посла царя Карнаты Малла-бхатты); ср. ЧЧ Мадхья 7, 9."
+
 - id: ev-ramananda-raya-godavari
   title: "Встреча с Раманандой Раем"
   title_en: "Meeting with Ramananda Raya"
@@ -1680,6 +1890,16 @@
   cb: ""
   themes: [revelation, teaching, krishna-lila]
   notes: "Мурари 3.15.1–5."
+
+- id: ev-rama-name-to-krishna-name
+  title: "Брахман, повторявший имя Рамы, начинает повторять имя Кришны"
+  title_en: "The brahmana who chanted Rama begins to chant Krishna"
+  period: P11
+  order: 35
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "Карнапура, ЧЧд акт 7."
 
 - id: ev-panchavati-rama-bhava
   title: "Панчавати: Господь в бхаве Рамы"
@@ -1700,6 +1920,16 @@
   cb: ""
   themes: [mercy, teaching, deities]
   notes: "Мурари 3.15.7–8 (у Ранганатхи)."
+
+- id: ev-bird-snatches-impure-food
+  title: "Нечистая пища под видом прасада: птица уносит её с руки Господа"
+  title_en: "Impure food offered as prasada: a bird snatches it from the Lord's hand"
+  period: P11
+  order: 47
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [offense, prasada]
+  notes: "Карнапура, ЧЧд акт 7 (у Карнапуры — «еретики»; в ЧЧ — буддисты)."
 
 - id: ev-srirangam-chaturmasya
   title: "Шрирангам: чатурмасья у Бхатт"
@@ -1755,6 +1985,16 @@
   themes: [pilgrimage, jagannatha]
   notes: "Мурари 3.16.8–18 (ночь с Раманандой, Алаланатха, даршан у столпа Гаруды)."
 
+- id: ev-kashi-mishra-residence
+  title: "Господь поселяется в доме Каши Мишры; слуги Джаганнатхи"
+  title_en: "The Lord settles in Kashi Mishra's house; the servants of Jagannatha"
+  period: P12
+  order: 2
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [jagannatha]
+  notes: "Карнапура, ЧЧд акт 8."
+
 - id: ev-devotees-gather-nilachala
   title: "Преданные из разных краёв собираются к Господу в Нилачале"
   title_en: "Devotees from many lands gather around the Lord in Nilachala"
@@ -1764,6 +2004,26 @@
   cb: ""
   themes: [kirtan, jagannatha]
   notes: "Мурари 4.01.1–5."
+
+- id: ev-glory-of-vaishnavas-lion-gate
+  title: "Господь у Львиных ворот возвещает славу вайшнавов"
+  title_en: "At the Lion Gate the Lord proclaims the glory of the Vaishnavas"
+  period: P12
+  order: 8
+  cc: ""
+  cb: ""
+  themes: [teaching, jagannatha]
+  notes: "Джаянанда, Уткала-кханда, разд. 16."
+
+- id: ev-lord-narrates-jagannatha-glory
+  title: "Господь рассказывает Рамананде о величии Кшетры и явлении Джаганнатхи"
+  title_en: "The Lord tells Ramananda of the glory of the Kshetra and the appearance of Jagannatha"
+  period: P12
+  order: 9
+  cc: ""
+  cb: ""
+  themes: [jagannatha, teaching]
+  notes: "Джаянанда, Пракаша-кханда: предания Пури (Нила-Мадхава, Индрадьюмна, Вишвакарма, баньян) в устах Господа."
 
 - id: ev-gauda-devotees-arrive-puri
   title: "Преданные Гауды приходят в Пури; встреча у озера Нарендра"
@@ -1817,6 +2077,16 @@
   themes: [festival, jagannatha, separation]
   notes: "Мурари 4.20.5–9."
 
+- id: ev-gundicha-marjana
+  title: "Уборка храма Гундичи"
+  title_en: "The cleaning of the Gundicha temple"
+  period: P12
+  order: 65
+  cc: "Мадхья 12"
+  cb: ""
+  themes: [jagannatha, kirtan, festival]
+  notes: "Карнапура, ЧЧд акт 10. Ср. ev-cleaning-temple (Мурари 2.13)."
+
 - id: ev-ratha-yatra-gundicha
   title: "Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу"
   title_en: "Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha"
@@ -1827,6 +2097,16 @@
   cb: ""
   themes: [festival, jagannatha, ecstasy]
   notes: "Мурари 4.20.10–4.21.5 (без указания года)."
+
+- id: ev-hera-panchami
+  title: "Хера-панчами: гневный выезд богини Лакшми"
+  title_en: "Hera-panchami: the angry procession of goddess Lakshmi"
+  period: P12
+  order: 75
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [jagannatha, festival, krishna-lila]
+  notes: "Карнапура, ЧЧд акт 10: беседа Господа, Сварупы и Шривасы о мане гопи и величии Лакшми."
 
 - id: ev-nityananda-sent-to-gauda
   title: "Господь посылает Нитьянанду проповедовать в Гауду"
@@ -1903,6 +2183,9 @@
   title_en: "The Lord announces His departure for Mathura (the journey through Gauda)"
   period: P13
   order: 2
+  years: [1514, 1514]
+  date_conf: вероятно
+  date_basis: "Карнапура, «Чайтанья-чандродая», акт 9 (слова киннаров и Сарвабхаумы): после возвращения с Юга (1512) Господь, удерживаемый Раманандой, медлил два года"
   cc: "Мадхья 16"
   cb: ""
   themes: [separation, pilgrimage]
@@ -2202,6 +2485,187 @@
   themes: [mercy, celestial, jagannatha]
   notes: "Мурари 4.21."
 
+- id: ev-lord-warns-prataparudra-war
+  title: "Господь отговаривает Пратапарудру от войны с Гаудой"
+  title_en: "The Lord dissuades Prataparudra from war with Gauda"
+  period: P12
+  order: 310
+  cc: ""
+  cb: ""
+  themes: [teaching, muslims]
+  notes: "Джаянанда, Виджая-кханда (цит. у Н. Васу)."
+
+- id: ev-yavana-governor-boat
+  title: "Мусульманский правитель пограничья становится преданным и даёт Господу лодку"
+  title_en: "The Muslim frontier governor becomes a devotee and provides the Lord a boat"
+  period: P13
+  order: 3
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [muslims, mercy, pilgrimage]
+  notes: "Карнапура, ЧЧд акт 9."
+
+- id: ev-jayananda-named
+  title: "Господь в Амаипуре у Субуддхи Мишры даёт имя Джаянанде"
+  title_en: "At Amaipura, in Subuddhi Mishra's house, the Lord names Jayananda"
+  period: P13
+  order: 4
+  cc: ""
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "Джаянанда, Виджая-кханда: на пути из Пури в Гауду; маршрут через Бхадрак, Соро, Ремуну, Дантан, Джалешвару, Бардхаману."
+
+- id: ev-gauda-journey-ganga-villages
+  title: "Путь по Ганге через Гауду: Панихати, Кумарахатта, дом Шивананды"
+  title_en: "The journey along the Ganga through Gauda: Panihati, Kumarahatta, Shivananda's house"
+  period: P13
+  order: 7
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [pilgrimage, mercy]
+  notes: "Карнапура, ЧЧд акт 9."
+
+- id: ev-gauda-sultan-sees-crowds
+  title: "Владыка Гауды видит толпы, идущие за Господом"
+  title_en: "The Sultan of Gauda sees the crowds following the Lord"
+  period: P13
+  order: 11
+  cc: "Мадхья 1"
+  cb: ""
+  themes: [muslims]
+  notes: "Карнапура, ЧЧд акт 9: министр Кешава Васу объясняет султану, кто идёт; султан признаёт Господа Богом."
+
+- id: ev-varanasi-sannyasis
+  title: "Господь и санньяси Варанаси"
+  title_en: "The Lord and the sannyasis of Varanasi"
+  period: P13
+  order: 187
+  cc: "Мадхья 25"
+  cb: ""
+  themes: [sannyasa, teaching]
+  notes: "Джаянанда (Тиртха-кханда, краткое жизнеописание): Господь «посрамил санньяси-еретика»; старые санньяси уходят в Нилачалу."
+
+- id: ev-achyutananda-keshava-bharati-dispute
+  title: "Малолетний Ачьютананда спорит с Адвайтой: Кешава Бхарати — не гуру Чайтаньи"
+  title_en: "Young Achyutananda disputes with Advaita: Keshava Bharati is not Chaitanya's guru"
+  period: P13
+  order: 211
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  notes: "Джаянанда, Виджая-кханда, разд. 5; ср. ЧЧ Ади 12."
+
+- id: ev-srivasa-test-sannyasa
+  title: "Господь испытывает Шривасу: «Оставь всё и прими санньясу»"
+  title_en: "The Lord tests Srivasa: \"Give up everything and take sannyasa\""
+  period: P13
+  order: 213
+  cc: ""
+  cb: ""
+  themes: [teaching, mercy]
+  notes: "Джаянанда, Виджая-кханда, разд. 5 (Кумарахатта); там же — слава Васудевы Датты."
+
+- id: ev-raghava-shak-panihati
+  title: "Господь вкушает шак и рис Рагхавы Пандита в Панихати"
+  title_en: "The Lord eats Raghava Pandita's shak and rice at Panihati"
+  period: P13
+  order: 214
+  cc: ""
+  cb: ""
+  themes: [prasada]
+  notes: "Джаянанда, Виджая-кханда, разд. 5."
+
+- id: ev-return-to-puri-from-vrindavana
+  title: "Возвращение Господа из Вриндавана в Пури"
+  title_en: "The Lord's return from Vrindavana to Puri"
+  period: P13
+  order: 215
+  cc: "Мадхья 25"
+  cb: ""
+  themes: [pilgrimage, jagannatha]
+  notes: "Карнапура, ЧЧд акт 9: из Варанаси Господь возвращается один; Его встречают Парамананда Пури и Сварупа."
+
+- id: ev-gauda-devotees-yearly-visit
+  title: "Ежегодное паломничество преданных Гауды к Господу в Пури"
+  title_en: "The yearly pilgrimage of the Gauda devotees to the Lord in Puri"
+  period: P14
+  order: 5
+  cc: ""
+  cb: ""
+  themes: [jagannatha, kirtan, festival]
+  notes: "Карнапура, ЧЧд акты 9–10 (Шивананда Сена — опекун паломников); ср. ЧЧ Антья 10, 12."
+
+- id: ev-shivananda-dog
+  title: "Собака Шивананды Сены получает милость Господа"
+  title_en: "Shivananda Sena's dog receives the Lord's mercy"
+  period: P14
+  order: 10
+  cc: "Антья 1"
+  cb: ""
+  themes: [mercy, prasada]
+  notes: "Карнапура, ЧЧд акт 10 (у Карнапуры — «ещё до того, как Господь ходил в Матхуру»)."
+
+- id: ev-shivananda-toll-arrest
+  title: "Сборщик пошлины в Ремуне заковывает Шивананду; Господь является ему во сне"
+  title_en: "The toll officer at Remuna fetters Shivananda; the Lord appears in his dream"
+  period: P14
+  order: 12
+  cc: ""
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "Карнапура, ЧЧд акт 10."
+
+- id: ev-nakula-brahmachari
+  title: "Господь «входит» в Накулу Брахмачари; испытание Шивананды"
+  title_en: "The Lord \"enters\" Nakula Brahmachari; Shivananda's test"
+  period: P14
+  order: 20
+  cc: "Антья 2"
+  cb: ""
+  themes: [revelation, mercy]
+  notes: "Карнапура, ЧЧд акт 9: милость «через сердце другого»."
+
+- id: ev-nrisimhananda-three-offerings
+  title: "Нрисимхананда подносит три угощения, и Господь вкушает все три"
+  title_en: "Nrisimhananda offers three meals and the Lord eats all three"
+  period: P14
+  order: 21
+  calendar: "пауша"
+  cc: "Антья 2"
+  cb: ""
+  themes: [prasada, revelation]
+  notes: "Карнапура, ЧЧд акт 9 («явление от одной лишь мысли»); у Карнапуры — в год, когда Господь, удержанный Раманандой, не пошёл в Гауду (т. е. до 1514), в ЧЧ — в антья-лиле."
+
+- id: ev-raghunatha-dasa-joins-lord
+  title: "Рагхунатха Дас приходит к Господу в Пури"
+  title_en: "Raghunatha Dasa comes to the Lord in Puri"
+  period: P14
+  order: 30
+  cc: "Антья 6"
+  cb: ""
+  themes: [sannyasa, mercy]
+  notes: "Карнапура, ЧЧд акт 10: человек Говардханы Даса идёт с Шиванандой разыскать Рагхунатху; хвала Рагхунатхе — ученику Ядунанданы, последователю Сварупы."
+
+- id: ev-sarvabhauma-to-varanasi
+  title: "Сарвабхаума самовольно уходит в Варанаси проповедовать учение Господа"
+  title_en: "Sarvabhauma leaves for Varanasi on his own to spread the Lord's teaching"
+  period: P14
+  order: 40
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  notes: "Карнапура, ЧЧд акт 10."
+
+- id: ev-lord-prophesies-kali-age
+  title: "Господь предсказывает бедствия века Кали"
+  title_en: "The Lord foretells the calamities of the Kali age"
+  period: P14
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  notes: "Джаянанда: Виджая-кханда, разд. 1 (Гададхаре в Нилачале); пророчества о храмах и лжевайшнавах — Вайрагья-кханда."
+
 - id: ev-lord-disappearance
   title: "Сокрытие Господа"
   title_en: "The Lord's disappearance"
@@ -2216,6 +2680,38 @@
   cb: ""
   themes: [departure, jagannatha, separation]
   notes: "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано."
+
+- id: ev-nityananda-marriage
+  title: "Женитьба Нитьянанды на Васудхе и Джахнаве; подвиги Его спутников"
+  title_en: "Nityananda marries Vasudha and Jahnava; the feats of His associates"
+  period: P15
+  order: 20
+  cc: ""
+  cb: ""
+  themes: [family, kirtan]
+  notes: "Джаянанда, Уттара-кханда (краткое жизнеописание у Н. Васу)."
+
+- id: ev-nityananda-departure
+  title: "Уход Нитьянанды"
+  title_en: "The departure of Nityananda"
+  period: P15
+  order: 30
+  calendar: "ашвина, тёмная половина, 8-й лунный день"
+  cc: ""
+  cb: ""
+  themes: [departure]
+  notes: "Джаянанда, Уттара-кханда."
+
+- id: ev-advaita-departure
+  title: "Уход Адвайты Ачарьи"
+  title_en: "The departure of Advaita Acharya"
+  period: P15
+  order: 40
+  calendar: "пауша, светлая половина, 13-й лунный день"
+  cc: ""
+  cb: ""
+  themes: [departure]
+  notes: "Джаянанда, Уттара-кханда."
 
 - id: ev-tattva-nityananda-advaita
   title: "Истина о Нитьянанде и Адвайте"

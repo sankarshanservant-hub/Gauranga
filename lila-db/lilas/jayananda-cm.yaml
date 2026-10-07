@@ -1,0 +1,2236 @@
+# Джаянанда, «Чайтанья-мангала» (фрагменты и свидетельства) — лилы по порядку изложения поэмы (формат — ../README.md).
+# Полного текста нет: записи собраны по кхандам поэмы (Ади, Надия, Вайрагья, Санньяса, Уткала, Пракаша, Тиртха, Виджая,
+# Уттара); одна запись — один эпизод, отрезки — из всех файлов перевода (01 фрагменты, 02–04 статьи Васу и Саркара —
+# по фрагментам строк, 05 цитаты, 06 рукописи; метки «2:25» — повторные номера в файле). Внутри кханды порядок
+# эпизодов, известных лишь по цитатам, — по традиционной хронологии. Проза Васу/Саркара — kind: author. Записи добавлять в конец.
+
+- id: jcm-0001
+  source: jayananda-cm
+  ref: "Ади-кханда: начальные поклонения (описания рукописей; цитаты)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: PX
+  order: 0
+  title: "Начальные поклонения: Гададхара, Нитьянанда, Адвайта, Харидас, Пури; мать Господа, спутники Адвайты, жёны Нитьянанды"
+  summary: "Автор чтит Гададхару, владыку жизни, Нитьянанду в облике великого борца, Адвайту, неотличного от Чайтаньи, Харидаса Тхакура, Шривасу, Парамананду Пури, Вишну Пури, Мадхавендру Пури и Ишвару Пури; чтит Аи-тхакурани (Шачи), которой Пандит Госани дал мантру, спутников Адвайты и жён Нитьянанды — Васу и Джахнави."
+  persons: ["@jayananda", "@gadadhara-pandita", "@nityananda", "@advaita", "@haridasa-thakura", "@srivasa", "@paramananda-puri", "@madhavendra-puri", "@ishvara-puri", "@shachi", "@vasudha", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Шачи получила посвящение от Гададхары Пандита (05, отр. 2) — подробность Джаянанды."
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1", to: "7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "2:1", to: "2:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "3:1", to: "3:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "4:1", to: "4:1"}
+
+- id: jcm-0002
+  source: jayananda-cm
+  ref: "Ади-кханда: поклонение мудрецам и тиртхам (рукопись № 546)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: PX
+  order: 1
+  title: "Поклонение мудрецам и тиртхам; облик Гауранги"
+  summary: "Автор чтит Нараду, Вальмики, Вьясу и других мудрецов, святые места от Айодхьи до Праяги, Гангу, туласи и вайшнавов, прежде всего Гауду и Навадвипу, и описывает облик Шри Кришна Чайтаньи — луны Навадвипы."
+  persons: ["@jayananda", "@mahaprabhu", "@narada", "@vyasa"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "3:1", to: "9"}
+
+- id: jcm-0003
+  source: jayananda-cm
+  ref: "Начальное поклонение Ганеше и заключительный колофон поэмы (рукопись Аз. об-ва № 184)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: PX
+  order: 2
+  title: "Поклонение Ганеше; колофон «Чайтанья-мангалы»"
+  summary: "Рукопись начинается призыванием Радха-Кришны и поклоном Ганеше и кончается колофоном Джаянанды: «Размышляя о стопах Чайтаньи и Гададхары, Джаянанда поёт „Чайтанья-мангалу“»."
+  persons: ["@jayananda", "@ganesha"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "2:1", to: "2:2"}
+
+- id: jcm-0004
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, вступление (рукопись, колофон Шака 1601)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 3
+  title: "Н. Васу о рукописи «Чайтанья-мангалы»: девять кханд, колофон писца 1601 г. Шака"
+  summary: "Нагендранатх Васу описывает неполную рукопись поэмы (76 листов, без л. 1, 17–36, 38–40), колофон писца Дхармадаса Ачарьи (Шака 1601) и перечень сведений, которые даёт поэма."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "# Нагендранатх Васу. Поэт Джаянанда и «Ч", to_text: "Помимо этих главных предметов, в этой не"}
+
+- id: jcm-0005
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, «Сведения о поэте», цит. 1–3 (л. 2, 43, 54)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 4
+  title: "Джаянанда о себе: рождение в вайшакху, имя Гуйя, отец Субуддхи Мишра, род Бандьягхати"
+  summary: "Джаянанда родился в светлый двенадцатый день вайшакхи в доме деда по матери; в детстве его звали Гуйя, имя Джаянанда он получил по милости Чайтаньи; отец — Субуддхи Мишра, ученик Господа, мать — Родани, служанка Нитьянанды; дядья мало преданы Чайтанье; род Бандьягхати поклоняется Рагхунатхе."
+  persons: ["@jayananda", "@subuddhi-mishra", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  calendar: "вайшакха, светлая половина, 12-й лунный день (рождение Джаянанды)"
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "## Сведения о поэте", to_text: "> Джаянанда в блаженстве поёт Тиртха-кха"}
+
+- id: jcm-0006
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, «Сведения о поэте», цит. 5–6 и разбор (л. 2, 43, 9)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 5
+  title: "Благословение Вирабхадры, Абхирамы и повеление Гададхары; Васу о времени жизни поэта"
+  summary: "Джаянанда говорит, что распространяет песнь по гирлянде-прасаду Вирабхадры, благословению Абхирамы и повелению Гададхары Пандита; Васу выводит из этого и из сведений ЧЧ (Шака 1407 — явление, 1455 — сокрытие), что поэт родился до возвращения Господа-санньяси в Гауду."
+  persons: ["@jayananda", "@virabhadra", "@abhirama", "@gadadhara-pandita", "@subuddhi-mishra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> *[с. 199]*", to_text: "> слова эти истинны, и Джаянанда тому св"}
+
+- id: jcm-0007
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897: перечень прежних поэтов (Ади-кханда, 2.2.9–12; 3.1.1–3)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 6
+  title: "Джаянанда о прежних поэтах: от Вальмики и Вьясы до Вриндавана Даса"
+  summary: "Автор перечисляет предшественников: Вальмики, Криттибаса, Вьясу, Гунараджа Хана, Джаядеву, Видьяпати, Чандидаса; Сарвабхаума первым возвестил «Чайтанья-чаритру» и сложил «Тысячу имён Чайтаньи»; Парамананда Пури — «Говинда-виджаю», Вриндаван Дас — книгу в трёх кхандах, Гауридас Пандит, Парамананда Гупта, Гопала Басу; Джаянанда поёт последним. Васу датирует поэму временем после сокрытия Адвайты."
+  persons: ["@jayananda", "@sarvabhauma", "@paramananda-puri", "@vrindavana-dasa", "@gauridasa-pandita", "@lochana-dasa"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "Теперь следует рассмотреть, когда поэт с", to_text: "Как бы то ни было, теперь мы можем в общ"}
+
+- id: jcm-0008
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897: девять кханд (3.1.3–6)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 7
+  title: "Девять кханд «Чайтанья-мангалы»"
+  summary: "Ади-кханда — дхарма и деяния юг; Надия — рождение; Вайрагья — оставление дома; Санньяса; Уткала — уход в Нилачалу; Пракаша — светлое явление; Тиртха — обход тиртх; Виджая — уход в град Вайкунтхи; Уттара — песнь о спутниках и аватарах."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "Чтобы разделить жизнь Чайтаньи и песнь н", to_text: "> кто её слушает, у того все грехи уходя"}
+
+- id: jcm-0009
+  source: jayananda-cm
+  ref: "Ади-кханда: «Бедствия Кали-юги» (цит. Г. Райчаудхури); «Жалоба Земли» (С. Сен)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P00
+  order: 5
+  title: "Земля плачет у дверей Брахмы: беззаконие века Кали"
+  summary: "В Кали-югу настало великое беззаконие: царь-млеччха отнимает плоды, варны смешались, нет подвижников и верных жён; Земля, плача, идёт к Брахме и просит отдать власть над веком Кали другому; всё, что совершит Гауранга как аватара эпохи, — киртан во всех краях — спасёт всех, вплоть до чандалов."
+  persons: ["@prithivi", "@brahma", "@mahaprabhu"]
+  places: ["#brahmaloka"]
+  kind: pre-advent
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [celestial]
+  teaching: [yuga-dharma]
+  event: ev-earth-complains-to-brahma
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "1", to: "8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "4:1", to: "4:2"}
+
+- id: jcm-0010
+  source: jayananda-cm
+  ref: "Ади-кханда: «Пророчество Нарады» (С. Сен)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P00
+  order: 31
+  title: "Пророчество Нарады: в роду дваждырождённых родится Гаура-Бхагаван"
+  summary: "Нарада предрекает: все люди станут вайшнавами, в брахманском роду родится Гаура-Бхагаван и подарит прему всем существам, в каждом доме и деревне будут храмы."
+  persons: ["@narada", "@mahaprabhu"]
+  places: []
+  kind: prophecy
+  authority: C
+  parallels: "Лочан: lcm-0022"
+  notes: ""
+  themes: [celestial]
+  teaching: [yuga-dharma, gaura-tattva]
+  event: ev-gaura-advent-proclaimed
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "5:1", to: "3:3"}
+
+- id: jcm-0011
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 1 (фрагм. 1); статья Н. Васу 1897, «Особые сведения» 1 (5.2.5–6)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 10
+  title: "Джаяпур в Шрихатте; брак Джаганнатхи Мишры с Шачи; кто где родится"
+  summary: "Деревня Джаяпур в Шрихатте полна учёных брахманских семей из рода Рави; в таком роду родился Джаганнатха Мишра, и Ниламбара Чакраварти отдал ему в жёны Шачи. Нанда и Яшода поклялись, что Рама и Кришна родятся в их роду: они родятся в Экачакре как Падмавати и Парамананда (родители Нитьянанды), а Дашаратха и Каушалья — как Мадхавананда и Лабхьямати."
+  persons: ["@jagannatha-mishra", "@shachi", "@nilambara-chakravarti", "@nanda", "@yashoda", "@padmavati", "@jayananda"]
+  places: ["#jayapura-shrihatta", "#shrihatta", "#ekachakra"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0004"
+  notes: "Васу сопоставляет сведения о Джаяпуре с «Кришна-чайтаньодаявали» Прадьюмны Мишры (Бараганга)."
+  themes: [family, celestial]
+  divergence: "Родина предков названа точно: Джаяпур в Шрихатте; отождествления родителей Нитьянанды (Нанда и Яшода) и Адвайты (Дашаратха и Каушалья) — особенность Джаянанды."
+  event: ev-jagannatha-mishra-marries-shachi
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "1", to: "19"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "## Особые сведения", to_text: "*[с. 211]*"}
+
+- id: jcm-0012
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 2 (фрагм. 2); статья Н. Васу 1897, «Состояние страны»"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 8
+  title: "Голод и мор в Шрихатте: семья Мишры переселяется в Навадвипу"
+  summary: "В Шрихатте поднялись беззаконие, голод, разбой и мор; Ниламбара Чакраварти и Джаганнатха Мишра со всей роднёй решают жить на берегу Ганги, среди людей, верящих в Гангу, вайшнавов и махапрасад, — как велел им некогда один царь подвижников, — и в паланкинах прибывают в Навадвипу."
+  persons: ["@nilambara-chakravarti", "@jagannatha-mishra", "@shachi"]
+  places: ["#shrihatta", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family]
+  event: ev-mishra-family-migrates-navadvipa
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "2:1", to: "2:13"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "## Состояние страны", to_text: "> Джаянанда в блаженстве поёт „Мангалу“ "}
+
+- id: jcm-0013
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 3 (фрагм. 3); статья Н. Васу 1897, «Состояние страны»"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 2
+  title: "Хвала городу Надии: храмы, рынки, боги и гандхарвы в облике брахманов"
+  summary: "Город Надия на берегу Алакананды подобен Айодхье: храмы, школы, пруды, сады туласи, в каждом доме чтение Веды; боги, риши и гандхарвы родились там брахманами и вайдьями; перечислены утварь, украшения и ткани в доме Мишры и на рынках Надии."
+  persons: ["@jagannatha-mishra", "@lakshmi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0003"
+  notes: ""
+  themes: [celestial]
+  event: ev-navadvipa-vaishnavas-before-advent
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "3:1", to: "2:17"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> *Рага сухи.*", to_text: "> сокровенную тайну нигам."}
+
+- id: jcm-0014
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 4, 1–9 (фрагм. 4)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 5
+  title: "Рождение и юность Нитьянанды; рождение Адвайты"
+  summary: "В Экачакре-Кхалакпуре от Падмавати в светлую половину магхи родился Ананта (Нитьянанда); на восемнадцатом году он ушёл из дома, принял санньясу от Ишвары Пури в Праяге, стал Авадхутой, обошёл тиртхи и поселился в Каши. В Ванге, в Баманабале, у Лабхьявати родился Адвайта, в младенчестве — Камалакша."
+  persons: ["@nityananda", "@padmavati", "@ishvara-puri", "@advaita"]
+  places: ["#ekachakra", "#prayaga", "#kashi"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0006; Лочан: lcm-0029; Мурари: mkc-0010, mkc-0012"
+  notes: ""
+  themes: [celestial, family]
+  calendar: "магха, светлая половина (рождение Нитьянанды)"
+  divergence: "Нитьянанда принимает санньясу от Ишвары Пури в Праяге (в других источниках — иначе)."
+  event: ev-associates-descend
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "4:1", to: "4:9"}
+
+- id: jcm-0015
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 4, 10–16 (фрагм. 4); статья Н. Васу 1897"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 20
+  title: "Восемь дочерей Шачи; Мишра Пурандара; рождение Вишварупы и голод в Навадвипе"
+  summary: "У Шачи родилось восемь дочерей; Джаганнатха стал Мишрой Пурандарой — поэтом, логиком, суровым подвижником, читающим «Бхагавату» перед Говиндой; родился сын Вишварупа, в Навадвипе начался голод, а Мишра совершил для сына десять обрядов."
+  persons: ["@shachi", "@jagannatha-mishra", "@vishvarupa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0005"
+  notes: ""
+  themes: [family]
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "4:10", to: "3:16"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> *Рага канада.*", to_text: "> совершил для Вишварупы один за другим "}
+
+- id: jcm-0016
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 4, 17–51 (фрагм. 4); статья Н. Васу 1897"
+  file: "jayananda/ru/01-fragments.md"
+  period: P01
+  order: 25
+  title: "Гонения на брахманов Навадвипы; сон владыки Гауды о Кали; Надия восстановлена"
+  summary: "По навету яванов из деревни Пиралья, сказавших, что брахман из Навадвипы станет царём Гауды, владыка Гауды велит разорить Надию: ломают храмы, вырывают туласи, запрещают омовение в Ганге; Сарвабхаума с родом уходит в Уткалу к Пратапарудре. Ночью царю снится грозная Кали, и он, устрашившись, велит заселить Навадвипу вновь, без подати; великие люди возвращаются."
+  persons: ["@gauda-sultan", "@sarvabhauma", "@prataparudra", "@vidya-vachaspati"]
+  places: ["#navadvipa", "#gauda", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Васу в комментарии связывает рассказ с притеснениями мусульман из Пиралии. Богиня Кали здесь — в сне царя (не олицетворение века)."
+  themes: [muslims]
+  divergence: "Уход Сарвабхаумы в Уткалу объяснён гонениями в Навадвипе; у других авторов этого рассказа нет."
+  event: ev-gauda-king-persecutes-navadvipa
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "3:17", to: "51"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Вдруг в Навадвипе настал страх перед ц", to_text: "> Джаянанда в блаженстве слагает Надия-к"}
+
+- id: jcm-0017
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, «Состояние страны»: разбор и перечень кушаний"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 8
+  title: "Н. Васу: быт Навадвипы по поэме; перечень кушаний"
+  summary: "Васу пересказывает сведения поэмы о море в Шрихатте, притеснениях из Пиралии и домашней утвари и приводит перечень тогдашних кушаний из поэмы."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "Из приведённых стихов мы можем узнать ли", to_text: "> соари, сома-данда, хати-шунда, дохара»"}
+
+- id: jcm-0018
+  source: jayananda-cm
+  ref: "Надия-кханда: «Рождение Гаурачандры» (Г. Райчаудхури); «Рождение во время затмения» (рукопись № 546, л. 11 об.)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P01
+  order: 70
+  title: "Рождение в полнолуние пхалгуны во время затмения"
+  summary: "Настало полнолуние пхалгуны; Нараяни пришла принимать роды, Шачи родила Гаурачандру. В родильном покое пляшут; иные видят золотое тельце четырёхруким; вся Навадвипа ликует при лунном затмении, у всех существ трепещет тело, все, вплоть до чандалов, спасены."
+  persons: ["@shachi", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0005; Лочан: lcm-0035; Мурари: mkc-0016"
+  notes: "Нараяни здесь — повитуха («мать-кормилица»); у других авторов Нараяни — племянница Шривасы."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "5:1", to: "2:2"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "6:1", to: "3:5"}
+
+- id: jcm-0019
+  source: jayananda-cm
+  ref: "Надия-кханда: «Первые месяцы младенца» (Г. Райчаудхури)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P02
+  order: 20
+  title: "Шестой день, имя Вишвамбхара на двадцатый день, первое кормление; звон браслетов"
+  summary: "На шестой день почитают богиню родильного покоя; на двадцатый дают имя Вишвамбхара, прославляется и имя «Нимаи Пандит»; в шесть месяцев — первое кормление рисом, и все зовут Его Нимаи; на ногах ползающего младенца вдруг звенят золотые браслеты."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0038; Мурари: mkc-0019"
+  notes: "Звон браслетов — ср. ev-gods-worship-infant-anklets."
+  themes: [festival, family]
+  bhava: [child]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "6:1", to: "2:6"}
+
+- id: jcm-0020
+  source: jayananda-cm
+  ref: "Надия-кханда: «Младенчество Нимаи» (Г. Райчаудхури)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P02
+  order: 10
+  title: "Младенец Нимаи: красота и любовь Мишры Пурандары"
+  summary: "Младенец в браслетах-макарах чарует луну и Маданов; Мишра Пурандара ни о чём не думает, кроме сына, и за едой и во сне зовёт: «Сыночек мой, Нимаи!»; дитя пляшет, хлопает в ладоши, катается в пыли, а Шачи и Мишра радуются."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi", "@jayananda"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0037; Мурари: mkc-0020"
+  notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "1–2", to: "9"}
+
+- id: jcm-0021
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 9 (фрагм. 5)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P02
+  order: 35
+  title: "Колыбельная Шачи: младенец плачет, мать боится сглаза"
+  summary: "Шачи укачивает плачущего, срыгивающего молоко Гаурангу и боится сглаза и демонов; видя горе матери, младенец засыпает у неё на руках; Джаянанда говорит: плач Господа был притворством."
+  persons: ["@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0040"
+  notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-shachi-lullaby
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "5:1", to: "5:7"}
+
+- id: jcm-0022
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 11 (фрагм. 6); цит. «Детские проказы» 2–4"
+  file: "jayananda/ru/01-fragments.md"
+  period: P03
+  order: 30
+  title: "Игры на берегу Ганги; Ганга обходит Гаурангу; поучение на выброшенных горшках"
+  summary: "На рассвете мальчики строят на берегу песчаный храм и подносят еду песчаному Гопинатхе; Ганга в смятении любви под видом волн обходит Гаурангу кругом. Шачи, плача, зовёт сына; Он прыгает в яму с объедками, садится на выброшенные горшки и толкует: все существа равны, различие нечистот и сандала — майя, но пока это не проявилось в теле, мирских правил оставлять нельзя."
+  persons: ["@mahaprabhu", "@shachi", "@ganga-devi"]
+  places: ["#ganga", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0044; Мурари: mkc-0024"
+  notes: "Поклонение Ганги — ср. ev-ganga-rises-to-lord."
+  themes: [teaching, pranks]
+  bhava: [child]
+  teaching: [purity, maya]
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "6:1", to: "4:17"}
+    - {file: "jayananda/ru/05-quotes.md", from: "2–3", to: "4:4"}
+
+- id: jcm-0023
+  source: jayananda-cm
+  ref: "Надия-кханда: «Детские проказы» 1, 5–6 (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P03
+  order: 50
+  title: "Кирпич в лицо матери; Нимаи срывает с отца священный шнур"
+  summary: "Нимаи ударяет мать кирпичом в лицо — по лицу Шачи течёт кровь, она падает без чувств, а Он убегает; в другой раз Он срывает с отца священный шнур и убегает в дом дяди по матери."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0046; Мурари: mkc-0025"
+  notes: "Шнур отца — подробность Джаянанды. Двустишие 6 — обрывок."
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "7:1", to: "7:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "4:5", to: "4:6"}
+
+- id: jcm-0024
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 18 (фрагм. 7)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P03
+  order: 45
+  title: "Наряд и красота отрока Гауранги; мать прячет Его от царского посланца"
+  summary: "Отрок Гауранга в шёлковом дхоти и ожерельях сияет, как золотая чампака, — Мадана то умирает, то оживает; Он больше не ходит играть на площадь, потому что по домам ходит царский посланец, хватающий детей; Джаянанда готов умереть выкупом за сына Шачи."
+  persons: ["@mahaprabhu", "@shachi", "@jayananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-boy-gauranga-beauty
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "7:1", to: "7:7"}
+
+- id: jcm-0025
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 21 (фрагм. 8)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P03
+  order: 70
+  title: "Щенок Гангадас: проклятый брахман освобождён остатками пищи Господа"
+  summary: "Гаура хватает щенка, называет его Гангадасом, сажает на цепь, кормит рисом с гхи и учит повторять «Хари»; Господь открывает, что пёс был брахманом-хулителем вайшнавов, проклятым вайшнавом; съев остатки трапезы Господа, пёс избавляется от грехов и, оставив тело в Ганге, обретает освобождение."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0049, lcm-0050"
+  notes: ""
+  themes: [mercy, offense, prasada]
+  bhava: [child]
+  teaching: [vaishnava, prasada-teaching]
+  divergence: "Щенок назван Гангадасом и оказывается проклятым брахманом-хулителем; в кратком жизнеописании поэмы освобождение пса приписано Харидасу."
+  event: ev-puppy-deliverance
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "8:1", to: "5:16"}
+
+- id: jcm-0026
+  source: jayananda-cm
+  ref: "Надия-кханда: «Обряд стрижки; первые буквы» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P04
+  order: 25
+  title: "Пострижение и прокалывание ушей; первые буквы и гнев Сударшаны"
+  summary: "С песнопениями совершают обряд стрижки и прокалывания ушей; Нимаи, ползая, учит тридцать четыре буквы и спрашивает гуру, почему «ка» зовётся «ка», — и Сударшана в гневе бьёт Его палкой."
+  persons: ["@mahaprabhu", "@sudarshana-pandita", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0058"
+  notes: "Первые буквы — ср. ev-hate-khadi."
+  themes: [learning, festival, pranks]
+  event: ev-chudakarana-karnavedha
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "8:1", to: "5:4"}
+
+- id: jcm-0027
+  source: jayananda-cm
+  ref: "Надия-кханда: «Учение у Гангадаса» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P04
+  order: 70
+  title: "Учение у Гангадаса Пандита"
+  summary: "В доме пандита Гангадаса Он являет учёность, изучая грамматики Чандры и Сарасваты, поэмы, драмы, смрити, логику и поэтику."
+  persons: ["@mahaprabhu", "@gangadasa-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0066; Мурари: mkc-0034"
+  notes: ""
+  themes: [learning]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "9:1", to: "5:2"}
+
+- id: jcm-0028
+  source: jayananda-cm
+  ref: "Надия-кханда: «Вишварупа» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P04
+  order: 10
+  title: "Любовь Вишварупы к Нимаи; санньяса под именем Шанкараранья"
+  summary: "Вишварупа приносит Гауранге всё лучшее и не может жить без Него: «Нимаи — моя жизнь»; приняв санньясу, он получает имя Шри Шанкараранья."
+  persons: ["@vishvarupa", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0009; Лочан: lcm-0055, lcm-0056; Мурари: mkc-0027, mkc-0028"
+  notes: ""
+  themes: [family, sannyasa]
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "10:1", to: "5:3"}
+
+- id: jcm-0029
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 25 (фрагм. 9); цит. «Учение, упанаяна, болезнь отца»"
+  file: "jayananda/ru/01-fragments.md"
+  period: P04
+  order: 40
+  title: "Упанаяна Вишвамбхары: обет молчания, хавишья, благословение учителей; озорство в школе"
+  summary: "На восьмом году от зачатия Вишвамбхаре дают священный шнур по митхильскому уставу; Ниламбара Чакраварти завершает жертву, бабушка кормит хавишьей, семь дней Он соблюдает молчание, дети дразнят брахмачари, а учителя Сударшана и Гангадас благословляют Его. Изучая «Калапу», Он задирает толкователей, рвёт книгу, разбивает кувшины в доме гуру; от горя по Вишварупе у отца открывается жар, и брахманы относят его к Ганге."
+  persons: ["@mahaprabhu", "@nilambara-chakravarti", "@jagannatha-mishra", "@shachi", "@sudarshana-pandita", "@gangadasa-pandita", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0061"
+  notes: "Жар от горя по Вишварупе — переход к кончине отца (ev-jagannatha-mishra-departure)."
+  themes: [festival, learning, pranks]
+  event: ev-upanayana
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "9:1", to: "6:16"}
+    - {file: "jayananda/ru/05-quotes.md", from: "11:1", to: "14"}
+
+- id: jcm-0030
+  source: jayananda-cm
+  ref: "Надия-кханда: «Кончина Джаганнатхи Мишры» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P04
+  order: 60
+  title: "Кончина Джаганнатхи Мишры в антарджале"
+  summary: "Харидас Тхакур прибегает в дом гуру: «Твой отец — в антарджале!»; Гауранга бросает книгу, берёт отца на колени и плачет, совершает сожжение; отец вверяет Его возлюбленному Джаганнатхе."
+  persons: ["@jagannatha-mishra", "@mahaprabhu", "@haridasa-thakura"]
+  places: ["#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0065; Мурари: mkc-0033"
+  notes: ""
+  themes: [family, departure, separation]
+  calendar: "джьяйштха, тёмная половина, 8-й лунный день"
+  divergence: "Весть приносит Харидас Тхакур (по Джаянанде он уже в Навадвипе в детство Господа)."
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "12:1", to: "4:8"}
+
+- id: jcm-0031
+  source: jayananda-cm
+  ref: "Надия-кханда: «Товарищи детских игр» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P03
+  order: 92
+  title: "Товарищи детских игр Гаурачандры"
+  summary: "С Гаурачандрой в дом гуру ходят и играют Шриваса с братьями, Васудева и Мукунда Датта, писец Джагай, Шригарбха, Мурари, Говинда, Шридхара, Гангадас, Дамодара, Чандрашекхара, Вакрешвара и другие."
+  persons: ["@mahaprabhu", "@srivasa", "@vasudeva-datta", "@mukunda-datta", "@murari-gupta", "@shridhara", "@damodara-pandita", "@chandrashekhara-acharya", "@vakreshvara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [pranks]
+  divergence: "Будущие спутники (Шриваса, Мурари и др.) — товарищи Его детских игр."
+  event: ev-childhood-companions
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "13:1", to: "7:5"}
+
+- id: jcm-0032
+  source: jayananda-cm
+  ref: "Надия-кханда (в т. ч. разд. 29): цитаты 15–17"
+  file: "jayananda/ru/05-quotes.md"
+  period: P04
+  order: 65
+  title: "Шачи приносит в дом Гададхару и Джагадананду; поручение о Гададхаре"
+  summary: "Гададхара и Джагадананда живут в доме Гауранги и служат Ему; Шачи приводит их, неся на руках; о Гададхаре дано поручение: «Оберегай, корми и расти его, через несколько дней дай ему священный шнур»."
+  persons: ["@gadadhara-pandita", "@jagadananda-pandita", "@shachi", "@mahaprabhu", "@srivasa", "@murari-gupta", "@vakreshvara"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family]
+  divergence: "Гададхара и Джагадананда растут в доме Шачи (подробность Джаянанды)."
+  event: ev-gadadhara-jagadananda-in-lords-house
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "14:1", to: "9:4"}
+    - {file: "jayananda/ru/05-quotes.md", from: "15:1", to: "11:2"}
+    - {file: "jayananda/ru/05-quotes.md", from: "16:1", to: "16:1"}
+
+- id: jcm-0033
+  source: jayananda-cm
+  ref: "Надия-кханда: «Путь в Гаю» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P06
+  order: 10
+  title: "Отправление в Гаю со спутниками"
+  summary: "Господь отправляется из Навадвипы в Гаю с Харидасом, Гададхарой, Гопинатхой, Мурари, Мукундой, Вакрешварой, Джагаданандой, Говиндой и Ачарьяратной."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@gadadhara-pandita", "@gopinatha-navadvipa", "@murari-gupta", "@mukunda-datta", "@vakreshvara", "@jagadananda-pandita", "@chandrashekhara-acharya"]
+  places: ["#navadvipa", "#gaya"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0090; Мурари: mkc-0054"
+  notes: ""
+  themes: [pilgrimage]
+  divergence: "Состав спутников в Гаю (Харидас, Гададхара, Мурари и др.) отличается от других источников."
+  event: ev-departure-for-gaya
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "17:1", to: "12:2"}
+
+- id: jcm-0034
+  source: jayananda-cm
+  ref: "Надия-кханда: «Встреча с Ишварой Пури» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P06
+  order: 40
+  title: "Ишвара Пури в Раджагрихе даёт десятисложную мантру Гопалы"
+  summary: "Миновав трудный путь, в Магадхе, в Раджагрихе, Господь встречает Ишвару Пури, и тот даёт Ему десятисложную мантру Гопалы, исполненную силы премы и бхакти."
+  persons: ["@mahaprabhu", "@ishvara-puri"]
+  places: ["#rajagriha", "#gaya"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0011; Лочан: lcm-0093; Мурари: mkc-0057"
+  notes: ""
+  themes: [pilgrimage, teaching]
+  divergence: "Встреча с Ишварой Пури — в Раджагрихе (в других источниках — в Гае)."
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "18:1", to: "18:1"}
+
+- id: jcm-0035
+  source: jayananda-cm
+  ref: "Надия-кханда: «Намерение идти в Матхуру» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P06
+  order: 60
+  title: "Господь хочет идти в Матхуру; плач Гададхары удерживает Его"
+  summary: "«Я пойду в Матхуру, не пойду на родину», — говорит Господь; Гададхара плачет, и, услышав плач всех, Он не идёт в Матхуру."
+  persons: ["@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#gaya", "#mathura"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0095; Мурари: mkc-0061"
+  notes: ""
+  themes: [separation, pilgrimage]
+  divergence: "Господа удерживает плач Гададхары и спутников (у Мурари и Лочана — небесный голос)."
+  event: ev-gaya-heavenly-voice-return
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "19:1", to: "10:3"}
+
+- id: jcm-0036
+  source: jayananda-cm
+  ref: "Надия-кханда: «Отшельник на пути» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P06
+  order: 55
+  title: "Отшельник, побелевший от подвижничества, выходит из самадхи"
+  summary: "Владыка мудрецов, совершавший подвиг целую кальпу и ставший белым, при виде Гауранги выходит из самадхи."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation]
+  event: ev-gaya-ascetic-samadhi
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "20:1", to: "20:1"}
+
+- id: jcm-0037
+  source: jayananda-cm
+  ref: "Надия-кханда: «После возвращения из Гаи», «Толки о его безумии» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P07
+  order: 10
+  title: "После Гаи: неистовая пляска, мольба Шачи, возвращение к учению; толки о «ветре»"
+  summary: "Видя Его неистовую пляску, люди пугаются; Шачи просит сына жить дома и не неистовствовать, и Он сдерживает чувства, по совету Ачарьяратны снова учится и учит, соблюдает сандхьи, бали и шраддху. Люди толкуют, что от постной пищи или от учения у Него «разыгрался ветер»."
+  persons: ["@mahaprabhu", "@shachi", "@chandrashekhara-acharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0097; Мурари: mkc-0064"
+  notes: ""
+  themes: [ecstasy, learning, family]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "21:1", to: "10"}
+    - {file: "jayananda/ru/05-quotes.md", from: "27:1", to: "27:1"}
+
+- id: jcm-0038
+  source: jayananda-cm
+  ref: "Надия-кханда: «Почитание Гаурачандры в доме Чхакари» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P07
+  order: 12
+  title: "Чхакари и Чандракала почитают стопы Гаурачандры"
+  summary: "Чхакари и Чандракала приводят Гаурачандру в дом и почитают Его стопы, познав в Нём облик Враджа."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation]
+  event: ev-chhakari-worship
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "22:1", to: "22:1"}
+
+- id: jcm-0039
+  source: jayananda-cm
+  ref: "Надия-кханда: «Лакшми молится о браке» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 10
+  title: "Лакшми молится Шиве о браке и встречает Господа у Ганги"
+  summary: "На берегу Ганги Лакшми почитает Шанкару и просит, чтобы Луна Навадвипы взял её руку; у неё дрожит левый глаз, и перед ней появляется Гаурачандра: «Иди домой, Лакшми, твоя свадьба в этом месяце»."
+  persons: ["@lakshmipriya", "@mahaprabhu", "@shiva"]
+  places: ["#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0067; Мурари: mkc-0035"
+  notes: ""
+  themes: [family]
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "23:1", to: "6:7"}
+
+- id: jcm-0040
+  source: jayananda-cm
+  ref: "Надия-кханда: «Сватовство Лакшми», «Прежний уговор о браке» (цитаты); «Желание невесты» (рукопись № 544)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 15
+  title: "Сватовство Лакшми: желание невесты и прежний уговор"
+  summary: "Лакшми просит отца отдать её за жениха с гирляндой бакулы в кудрях и шнуром на плече, который пляшет в киртане, а теперь от стыда опускает голову; Шачи смеётся. Мишра Пурандара и Ачарья Пурандара ещё прежде договорились об этом союзе."
+  persons: ["@lakshmipriya", "@shachi", "@jagannatha-mishra", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0068, lcm-0069; Мурари: mkc-0036, mkc-0037"
+  notes: ""
+  themes: [family]
+  divergence: "Уговор о браке заключили ещё Мишра Пурандара и Ачарья Пурандара (сват Ванамали не упомянут)."
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "24:1", to: "13:3"}
+    - {file: "jayananda/ru/05-quotes.md", from: "25:1", to: "25:1"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "7:1", to: "2:8"}
+
+- id: jcm-0041
+  source: jayananda-cm
+  ref: "Надия-кханда: «Свадьба: женщины Надии», «Свадебные обряды» (цитаты); «Женщины Надии смотрят на жениха» (С. Сен)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 25
+  title: "Свадьба: женщины Надии смотрят на жениха"
+  summary: "Женщины Надии, покинув дома, сбегаются смотреть на жениха и, не в силах сдержать сердце, говорят о его красоте; «как Сита — для Рамы, как Рукмини — для Кришны, так для Гауранги — Гададхара». Гаура проводит ночь в доме тестя и совершает обряды по родовому обычаю и Веде."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@gadadhara-pandita", "@jayananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0070, lcm-0071, lcm-0072, lcm-0073, lcm-0074, lcm-0075, lcm-0076; Мурари: mkc-0038, mkc-0039, mkc-0040, mkc-0041, mkc-0042"
+  notes: "Отр. 38 (свадебные обряды) не называет невесту. Чувства женщин к Гауранге автор передаёт как влечение сердца; в гаудия-вайшнавском понимании это притяжение к Господу, а не мирская страсть."
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "26:1", to: "6:8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "8:1", to: "5:4"}
+    - {file: "jayananda/ru/05-quotes.md", from: "37:1", to: "24:2"}
+
+- id: jcm-0042
+  source: jayananda-cm
+  ref: "Надия-кханда, разд. 55 (фрагм. 10)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P05
+  order: 50
+  title: "Лакшми принимает кухню у Шачи и кормит вайшнавов"
+  summary: "Лакшми не уходит в отцовский дом, служа свекрови; Гауранга уговаривает мать передать кухню невестке и приглашает Харидаса, Шриниваса с братьями, Васудеву, Мукунду Датту, писца Джагая, Вакрешвару и других; служанки Дукхи и Малини помогают, Лакшми готовит рис и пятьдесят приправ, подносит Кришне с туласи, угощает вайшнавов и дарит им ткани."
+  persons: ["@lakshmipriya", "@shachi", "@mahaprabhu", "@haridasa-thakura", "@srivasa", "@vasudeva-datta", "@mukunda-datta", "@vakreshvara", "@malini"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [prasada, family]
+  divergence: "У Джаянанды Лакшмиприя кормит Харидаса, Шривасу и других вайшнавов — круг преданных собирается вокруг Господа ещё при её жизни."
+  event: ev-lakshmi-feast-vaishnavas
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "10:1", to: "2:29"}
+
+- id: jcm-0043
+  source: jayananda-cm
+  ref: "Надия-кханда: «Уход в Бенгалию; Лакшми в разлуке» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 65
+  title: "Уход в Бенгалию «под предлогом заработка»; Лакшми чтит шнур Господа"
+  summary: "Сказав Лакшми служить матери, Господь отдаёт ей шнур со Своего плеча и уходит в Бенгалию, где приобретает несметные богатства; Лакшми почитает Его шнур, ставит тилаку из пыли Его стоп и каждый день смотрит на нарисованный ею на дощечке образ Гауранги."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi"]
+  places: ["#east-bengal"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0079, lcm-0080; Мурари: mkc-0043"
+  notes: ""
+  themes: [separation, pilgrimage, family]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "28:1", to: "10:6"}
+
+- id: jcm-0044
+  source: jayananda-cm
+  ref: "Надия-кханда: «Весть о кончине Лакшми», «Кончина Лакшми» 1–9 (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 80
+  title: "Кончина Лакшми от укуса змеи"
+  summary: "Чёрная змея жалит Лакшми в мизинец правой ноги; умирая, она просит надеть ей на шею шнур мужа и отнести её к Ганге, в антарджалу; Шачи причитает над ней. Услышав весть о её кончине, Господь пляшет в киртане в блаженстве премы."
+  persons: ["@lakshmipriya", "@shachi", "@mahaprabhu", "@haridasa-thakura"]
+  places: ["#ganga", "#east-bengal"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0008; Лочан: lcm-0081, lcm-0082; Мурари: mkc-0044, mkc-0045"
+  notes: "Змеиный укус у Джаянанды буквален; в ЧБ — «змея разлуки». Лакшмиприя — энергия Лакшми, её уход — сокрытие."
+  themes: [departure, family, separation]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "29:1", to: "29:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "30:1", to: "3:9"}
+
+- id: jcm-0045
+  source: jayananda-cm
+  ref: "Надия-кханда: «Кончина Лакшми» 10–14 (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P05
+  order: 85
+  title: "Возвращение: «Мир преходящ, лишь Кришна истинен» — утешение Шачи; Вишнуприя"
+  summary: "Господь утешает мать: мир преходящ, лишь Кришна истинен, богатство — беда; «Я вручил тебя Гададхаре и Джагадананде». Затем упоминается девушка Вишнуприя в первой юности."
+  persons: ["@mahaprabhu", "@shachi", "@gadadhara-pandita", "@jagadananda-pandita", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0083; Мурари: mkc-0046"
+  notes: "Вишнуприя — переход к ev-vishnupriya-matchmaking."
+  themes: [family, teaching]
+  teaching: [maya]
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "2:10", to: "2:14"}
+
+- id: jcm-0046
+  source: jayananda-cm
+  ref: "Надия-кханда: «Нитьянанда в Навадвипе» (цитаты); конец Надия-кханды (рукопись № 546, л. 41)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P07
+  order: 106
+  title: "Нитьянанда в Навадвипе: «Ты — Вишварупа?»; Шачи чтит Его; шестирукий облик"
+  summary: "Нитьянанда приходит, опьянённый, с блуждающим взором; люди говорят, что Он — Вишварупа, и просят открыться; Шачи говорит: «Сыночки мои, Нимаи и Нитай!» и чтит Нитьянанду; Гаурачандра становится шестируким; спутники из Гауды, Банги, Теленги, Магадхи, Уткалы заполняют Навадвипу. Здесь кончается Надия-кханда."
+  persons: ["@nityananda", "@mahaprabhu", "@shachi", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0124, lcm-0125; Мурари: mkc-0091, mkc-0092, mkc-0093"
+  notes: "Шестирукий облик — ev-six-armed-form-nityananda; Шачи и Нитьянанда — ev-nityananda-meal-shachi."
+  themes: [revelation, family]
+  bhava: [aishvarya]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "31:1", to: "12:6"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "9:1", to: "6:4"}
+
+- id: jcm-0047
+  source: jayananda-cm
+  ref: "Начало Вайрагья-кханды: сказание о Джагае и Мадхае (рукопись № 546; цитаты 33–37)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 121
+  title: "Джагай и Мадхай: злодеяния, удар Мадхая, принятие грехов"
+  summary: "Двое братьев-брахманов, Джагай и Мадхай, читают «Маснави», пьют, убивают и грабят; Мадхай ранит Нитьянанду черепком, а Джагай Его спасает; Гаурачандра дарует Джагаю према-бхакти, Нитьянанда даёт Мадхаю имя Хари; братья вкладывают свои грехи Господу в руки, Он льёт им на головы воду Ганги — Его лицо чернеет и снова сияет золотой луной."
+  persons: ["@jagai-madhai", "@nityananda", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0012; Лочан: lcm-0139, lcm-0140"
+  notes: ""
+  themes: [mercy, offense]
+  teaching: [holy-name]
+  divergence: "Братья читают персидскую «Маснави»; Господь, приняв их грехи, на миг чернеет лицом (у Лочана — вкладывают туласи)."
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "5:5", to: "4:7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "32:1", to: "32:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "33:1", to: "9:7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "34:1", to: "14:6"}
+    - {file: "jayananda/ru/05-quotes.md", from: "35:1", to: "35:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "36:1", to: "23:2"}
+
+- id: jcm-0048
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, «Особые сведения» 2 (14.2.11–13; 73.2.9)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P07
+  order: 114
+  title: "Харидас Тхакур присоединяется к пляске Гаурачандры; его родина и родители"
+  summary: "Однажды, когда Гаурачандра плясал в Навадвипе, пришёл Харидас Тхакур — великий отречённый с телом из чистого золота; мать его — Уджджвала, отец — Манохара; родом он из деревни Калагачхи на Сварнади, из низкого рода. В другом месте сказано: «Из Бураны пришёл Харидас»."
+  persons: ["@haridasa-thakura", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0132; Мурари: mkc-0100"
+  notes: ""
+  themes: [kirtan]
+  divergence: "Родина Харидаса — Калагачхи, родители — Уджджвала и Манохара (по ЧБ — Бурана)."
+  event: ev-haridasa-arrives
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "2. Автор «Чайтанья-бхагаваты» Вриндаван ", to_text: "В Буране происходило много игр Харидаса;"}
+
+- id: jcm-0049
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: начало и конец (рукопись 1165 г. б. э.); «Благословение Джаянанде»"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: PX
+  order: 10
+  title: "Начало и колофон Вайрагья-кханды"
+  summary: "«Однажды Гаурачандра пляшет в Навадвипе и предлагает всем прему…» — и колофон: кто слушает Вайрагья-кханду, обретает избавление; благословите Джаянанду, чтобы «Чайтанья-мангалу» пели из края в край."
+  persons: ["@jayananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "10:1", to: "7:3"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "11:1", to: "11:1"}
+
+- id: jcm-0050
+  source: jayananda-cm
+  ref: "Вайрагья-кханда (рукописи Вишва-Бхарати № 1903, № 552, № 548); цит. «Наставление о карме»"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 139.5
+  title: "Господь в экстазе зовёт места Враджа и проповедует тщету мира"
+  summary: "Пляша в санкиртане, Гауранга с рыком садится на престол, зовёт Вриндаван, Говардхану, Кеши-гхат, Радху, Нанду и Яшоду, плачет и смеётся; затем возвещает: мир — сеть майи, жена, сын и богатство — смерть, лишь служение Кришне истинно, вайшнав не копит богатства и рождается ради избавления мира; удачи и беды — плоды кармы."
+  persons: ["@mahaprabhu", "@krishna", "@radha"]
+  places: ["#navadvipa", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, ecstasy, sannyasa]
+  bhava: [radha]
+  teaching: [maya, bhakti-supremacy, vaishnava]
+  event: ev-lord-preaches-vanity-of-world
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "12:1", to: "36"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–11", to: "1–11"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "13:1", to: "6:7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "38:1", to: "10:7"}
+
+- id: jcm-0051
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: «Пророчество о храмах» (рукопись № 548); «Пророчество о лжевайшнавах» (цитаты)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 139.6
+  title: "Пророчество о храмах в каждом доме и о лжевайшнавах"
+  summary: "В Кали-югу в каждом доме будет храм: в одном — пересуды, в другом прасада не получишь, в третьем — непрестанный киртан и кормление вайшнавов; иные будут кормить семью, приняв облик вайшнава, ездить в паланкинах с богатством махантов."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: prophecy
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [vaishnava]
+  event: ev-lord-prophesies-kali-age
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "14:1", to: "9:4"}
+    - {file: "jayananda/ru/05-quotes.md", from: "42:1", to: "29:2"}
+
+- id: jcm-0052
+  source: jayananda-cm
+  ref: "Вайрагья-кханда (рукописи № 1903, «Дхрува-чаритра» № 549, № 556, № 552); цит. «Почему он принимает санньясу», «Зачем ему отречение»"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 142
+  title: "Господь объявляет Шривасе об отречении; мольба Шривасы; Шачи"
+  summary: "На исходе ночи Господь говорит Шривасе, что оставил желание мирской жизни; Шриваса напоминает, что Он сам учил: кроме санкиртаны нет дхармы, и как Он в доме Чандрашекхары являл бхаву Лакшми, гопи и Рукмини и кормил вайшнавов грудью, — все умрут от Его отречения. Господь отвечает, что, видя Шривасу, забывает об отречении. Санньяса нужна, чтобы соблюсти родовую дхарму и дхарму эпохи: «Я — в двенадцати образах». Приходит Шачи, и Он хочет рассказать ей о Дхруве."
+  persons: ["@mahaprabhu", "@srivasa", "@shachi", "@chandrashekhara-acharya", "@haridasa-thakura", "@murari-gupta", "@gangadasa-pandita", "@abhirama", "@jagadananda-pandita", "@vakreshvara"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0160, lcm-0161, lcm-0169; Мурари: mkc-0126"
+  notes: "Упоминание действа в доме Чандрашекхары — ev-chandrashekhara-drama."
+  themes: [sannyasa, separation, teaching]
+  teaching: [sannyasa-teaching, yuga-dharma]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "15:1", to: "2:24"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–6", to: "1–6"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "16:1", to: "2–8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–3", to: "3:11"}
+    - {file: "jayananda/ru/05-quotes.md", from: "39:1", to: "11:7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "46:1", to: "25:3"}
+
+- id: jcm-0053
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: «Дхрува-чаритра» (рукописи № 551, 1141 г. б. э., Аз. об-во № 84, № 555, № 549, № 550, № 547, 1203 г. б. э.)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 144.5
+  title: "Повесть о Дхруве, рассказанная Господом"
+  summary: "Сын Сваямбхувы Ману Уттанапада имел двух жён — Суручи и Сунити; Суручи сталкивает пятилетнего Дхруву с престола, упрекая, что его мать не служила Кришне; Нарада даёт Дхруве восьмисложную мантру; после сурового подвижничества Дхрува возвращается, отец делает его царём, тридцать шесть тысяч лет он правит и вместе с матерью уходит в Дхрувалоку, где поёт о Кришне."
+  persons: ["@mahaprabhu", "@dhruva", "@uttanapada", "@suniti", "@narada", "@shachi"]
+  places: ["#madhuvana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Повесть служит утешением Шачи перед санньясой; в рукописях ходила как отдельная «Дхрува-чаритра» с колофонами Вайрагья-кханды."
+  themes: [teaching, family]
+  teaching: [bhakti-supremacy, scripture]
+  scriptures: ["Бхаг. 4.8–12"]
+  event: ev-lord-tells-dhruva-story
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "35:1", to: "18:7"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "2:1–2", to: "2:3–4"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "36:1", to: "23:5"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "37:1", to: "15:8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "38:1", to: "25:5"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "39:1", to: "10:11"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "40:1", to: "11:10"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "41:1", to: "18:8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "42:1", to: "36:2"}
+
+- id: jcm-0054
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: конец сказания о Гаджендре; беседа с Харидасом (рукопись № 556, л. 20)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P07
+  order: 139.5
+  title: "Конец сказания о Гаджендре; Господь говорит Харидасу об отречении"
+  summary: "Гандхарва, освобождённый от проклятия, уходит в свой мир — такова милость Кришны: не делайте различий по касте среди вайшнавов; затем Гаурачандра говорит Харидасу: тот же сон — на престоле и на траве, еда, сон и соитие есть у всех существ."
+  persons: ["@mahaprabhu", "@haridasa-thakura"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, sannyasa]
+  teaching: [vaishnava, sannyasa-teaching]
+  event: ev-lord-preaches-vanity-of-world
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "17:1", to: "3:12"}
+
+- id: jcm-0055
+  source: jayananda-cm
+  ref: "Вайрагья-кханда, разд. 24, 1–9 (фрагм. 11); цит. «Отречение Гауранги», «Великое отречение», «Клики»"
+  file: "jayananda/ru/01-fragments.md"
+  period: P07
+  order: 153
+  title: "Отречение Гауранги дома: оставляет украшения и ложе; Шачи возвращает Его"
+  summary: "Господь оставляет престол, ложе, служение Божеству, радости с Лакшми, серьги, ткани, душистое масло; спит на земле, носит шнур с узелками для счёта имён; с книгами и кувшином в руке уходит, не сказав Шривасе и Мурари, но мать бежит следом и уводит Его домой; Вишнуприя припадает к Его стопам, Малини и Нараяни плачут."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya", "@malini", "@gadadhara-pandita", "@srivasa", "@murari-gupta"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0171"
+  notes: ""
+  themes: [sannyasa, separation, family]
+  bhava: [sannyasi]
+  event: ev-last-night-vishnupriya
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "11:1", to: "9:9"}
+    - {file: "jayananda/ru/05-quotes.md", from: "40:1", to: "15"}
+    - {file: "jayananda/ru/05-quotes.md", from: "45:1", to: "31:2"}
+    - {file: "jayananda/ru/05-quotes.md", from: "47:1", to: "47:1"}
+
+- id: jcm-0056
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: «Плач Шачи» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P07
+  order: 144
+  title: "Плач Шачи: «Не уходи, покинув мать!»"
+  summary: "Шачи причитает: нет Мишры Пурандары, Вишварупа ушёл, восемь дочерей умерли, невестка Лакшми скончалась, Вишнуприя останется беззащитной, — пляши в киртане дома, к чему санньяса? Господь утешает её рассказами из итихас."
+  persons: ["@shachi", "@mahaprabhu", "@jagannatha-mishra", "@vishvarupa", "@lakshmipriya", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0034; Лочан: lcm-0162, lcm-0163, lcm-0164, lcm-0165, lcm-0166, lcm-0167"
+  notes: ""
+  themes: [separation, family, sannyasa]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "41:1", to: "9:8"}
+
+- id: jcm-0057
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: «Вишнуприя» (цитаты); «Мольба Вишнуприи» (рукопись № 548); «Барамасья Вишнуприи» (статья Н. Васу 1897; «Пада-калпатару»)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P07
+  order: 150
+  title: "Мольба Вишнуприи и «Барамасья» — плач двенадцати месяцев"
+  summary: "Вишнуприя месяц за месяцем, от пхалгуны до магхи, напоминает Господу радости дома и просит не уходить; Он отвечает: «С женой санньясы не бывает… всё ложно, никто никому не принадлежит», закрывает уши; она, приняв обет молчания, берёт Его священный шнур; утешив её, Он уходит принимать санньясу. Н. Васу разбирает, принадлежит ли «Барамасья» Джаянанде или Лочану Дасу."
+  persons: ["@vishnupriya", "@mahaprabhu", "@jayananda", "@lochana-dasa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0168"
+  notes: "«Барамасья» в «Пада-калпатару» (пады 1777–1788) частично подписана Лочаной Дасом; Васу считает её сочинением Джаянанды."
+  themes: [separation, family, sannyasa]
+  teaching: [sannyasa-teaching, maya]
+  event: ev-vishnupriya-pleads-before-sannyasa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "1–3", to: "5:9"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "18:1", to: "11:5"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "## Поэтическое дарование", to_text: "Видя подпись Лочаны Даса в паде, приведё"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "43:1", to: "35–37"}
+
+- id: jcm-0058
+  source: jayananda-cm
+  ref: "Вайрагья-кханда, разд. 24, 10–15 (фрагм. 11); статья Н. Васу 1897, «Особые сведения» 3 (42.2.4–5); рукописи № 544, № 545"
+  file: "jayananda/ru/01-fragments.md"
+  period: P08
+  order: 30
+  title: "Нитьянанда открывает тайны санньясы; Господь зовёт спутников в Катоа"
+  summary: "Нитьянанда приходит в Навадвипу, открывает Гауранге все тайны санньясы и, переправившись через Гангу, уходит вперёд; Господь зовёт с Собой Мукунду Датту, Говинду-кузнеца, Ачарьяратну, Ачарью Хари, Васудеву Датту, Шукламбару, Вакрешвару, Бхагая и Гангадаса: «При вас Я приму санньясу»."
+  persons: ["@nityananda", "@mahaprabhu", "@mukunda-datta", "@govinda-karmakara", "@chandrashekhara-acharya", "@vasudeva-datta", "@shuklambara", "@vakreshvara", "@gangadasa-pandita"]
+  places: ["#navadvipa", "#katwa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0174"
+  notes: "Васу: «Карча» Говинды Даса составлена этим Говиндой-кузнецом."
+  themes: [sannyasa]
+  divergence: "Нитьянанда приходит открыть Господу тайны санньясы; среди спутников — Говинда-кузнец."
+  event: ev-nityananda-follows-to-katwa
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "9:10", to: "8:15"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "3. Многие говорят, что спутником Махапра", to_text: "Жизнеописание Чайтаньи, распространённое"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "19:1", to: "9–16"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–5", to: "7–14"}
+
+- id: jcm-0059
+  source: jayananda-cm
+  ref: "Вайрагья-кханда: «Дядя Госани», «Поклонение Пандиту Госани; иносказание о теле» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: PX
+  order: 11
+  title: "Поклонение Гададхаре Пандиту; иносказание о теле-домике; дядя Господа Рамананда"
+  summary: "Автор чтит Пандита Госани (Гададхару), чьей премой наполнились все существа, и сравнивает тело с домиком в три с половиной локтя с десятью дверями, ворами и разбойниками внутри, где текут Ганга и Ямуна (ида и пингала); упомянут дядя Господа по матери Рамананда."
+  persons: ["@jayananda", "@gadadhara-pandita"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "43:1", to: "43:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "44:1", to: "23:4"}
+
+- id: jcm-0060
+  source: jayananda-cm
+  ref: "Санньяса-кханда: начальное поклонение Ганеше (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: PX
+  order: 12
+  title: "Поклонение Ганеше в начале Санньяса-кханды"
+  summary: "Прежде всего автор чтит бога — сына Шивы, при памяти о котором не остаётся препятствий."
+  persons: ["@jayananda", "@ganesha"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "48:1", to: "48:1"}
+
+- id: jcm-0061
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «Описание Катоа» (цитаты; рукопись № 544, л. 65)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P08
+  order: 40
+  title: "Описание города Катоа, где живёт Кешава Бхарати"
+  summary: "Благословен город Катоа на Ганге, где живёт Кешава Бхарати: учёные брахманы, сады, храмы, рынки, арки с кувшинами; это «сокровенный Варанаси» с гхатом Индрешвары; видящий его жителей очищается от грехов."
+  persons: ["@keshava-bharati", "@jayananda"]
+  places: ["#katwa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0038; Лочан: lcm-0175, lcm-0176, lcm-0177, lcm-0178, lcm-0179, lcm-0180, lcm-0181, lcm-0182, lcm-0183, lcm-0184; Мурари: mkc-0128, mkc-0133, mkc-0134, mkc-0135, mkc-0136, mkc-0137, mkc-0138"
+  notes: ""
+  themes: [sannyasa]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "49:1", to: "2:15"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–4", to: "12:5"}
+
+- id: jcm-0062
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «Путь в Катоа» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P08
+  order: 10
+  title: "Путь в Катоа: Говинда несёт книги Господа"
+  summary: "Агамы, нигамы и Гиту, кувшин и набедренную повязку Господа несёт на плече Говинда."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: ["#katwa"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0035; Лочан: lcm-0172; Мурари: mkc-0130"
+  notes: ""
+  themes: [sannyasa, pilgrimage]
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "50:1", to: "50:1"}
+
+- id: jcm-0063
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «Тарпана перед санньясой: родословие», «Женщины Навадвипы; шлока о себе», «Имя Кришна-Чайтанья; гамчха Вишнуприи» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P08
+  order: 40
+  title: "Тарпана перед санньясой; «Я — слуга слуги Гопинатхи»; имя Кришна-Чайтанья"
+  summary: "Перед санньясой Господь совершает шраддху и тарпану: в поднебесье на колесницах приходят посмотреть Его отец, дед Джанардана Мишра и прадеды, Лакшми; возлиянием Он ублаготворяет мать, учителя Гангадаса, Ишвару Пури, Нараяни, Малини, Ситу и других. Женщины Навадвипы в чувствах гопи покидают дома; пляша, Он читает: «Я не брахман… Я — слуга слуги Гопинатхи», и люди говорят, что Нимаи стал гьяни. Санньяси получает имя Кришна-Чайтанья; гамчху Вишнуприи Он отдаёт Нитьянанде, а тот — Ганге."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@lakshmipriya", "@shachi", "@gangadasa-pandita", "@ishvara-puri", "@malini", "@sita-thakurani", "@vishnupriya", "@nityananda", "@advaita"]
+  places: ["#katwa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0038; Лочан: lcm-0175, lcm-0176, lcm-0177, lcm-0178, lcm-0179, lcm-0180, lcm-0181, lcm-0182, lcm-0183, lcm-0184; Мурари: mkc-0128, mkc-0133, mkc-0134, mkc-0135, mkc-0136, mkc-0137, mkc-0138"
+  notes: "Чувства женщин к Господу автор описывает как страсть; в гаудия-вайшнавском понимании это влечение к Кришне в бхаве гопи (према), а не мирская страсть."
+  themes: [sannyasa, family]
+  bhava: [sannyasi, gopi]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Падьявали 74 («нахам випро…»)"]
+  divergence: "Тарпана живым и умершим и явление предков в поднебесье — подробности Джаянанды; родословие Мишр (Джанардана, Дхананджая, Рамакришна, Вирупакша, Кширачандра) отличается от других родословных."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "51:1", to: "4:11"}
+    - {file: "jayananda/ru/05-quotes.md", from: "52:1", to: "17:7"}
+    - {file: "jayananda/ru/05-quotes.md", from: "53:1", to: "27:4"}
+
+- id: jcm-0064
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «Скорбь после санньясы; плач Вишнуприи» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P09
+  order: 30
+  title: "Скорбь после санньясы: Гададхара бросается в Гангу; плач Вишнуприи"
+  summary: "Услышав о санньясе, Адвайта лишается чувств, Гададхара бросается в Гангу, Харидас погружается в самадхи, женщины плачут; Вишнуприя причитает: «Что сделал Кешава Бхарати!.. ты женился на мне по просьбе матери, чтобы обмануть людей… где твои кудри?»"
+  persons: ["@advaita", "@gadadhara-pandita", "@haridasa-thakura", "@vishnupriya", "@keshava-bharati", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0037; Лочан: lcm-0187, lcm-0188; Мурари: mkc-0132, mkc-0143"
+  notes: ""
+  themes: [separation, sannyasa]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "54:1", to: "5:12"}
+
+- id: jcm-0065
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «Вести после санньясы» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P09
+  order: 20
+  title: "Вести после санньясы: Говиндананда в Шантипур, Мукунда в Навадвипу"
+  summary: "Говиндананда идёт в Шантипур, Мукунду посылают в Навадвипу; «ступай вперёд в Джаганнатха-кшетру, я приду по твоему письму»; Нитьянанда с Рамадасом, Парамешварой и Сундаранандой уходят, радуясь."
+  persons: ["@mukunda-datta", "@nityananda", "@abhirama", "@sundarananda", "@mahaprabhu"]
+  places: ["#shantipura", "#navadvipa", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0186; Мурари: mkc-0140, mkc-0142"
+  notes: ""
+  themes: [sannyasa]
+  divergence: "Вестники — Говиндананда и Мукунда (у Мурари и Лочана — Чандрашекхара)."
+  event: ev-chandrashekhara-sent-back
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "55:1", to: "31:3"}
+
+- id: jcm-0066
+  source: jayananda-cm
+  ref: "Санньяса-кханда: «В Шантипуре», «Из Катоа в Шантипур» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P09
+  order: 45
+  title: "Из Катоа в Шантипур; Шачи и преданные в доме Адвайты"
+  summary: "Из дома Бхарати в Катоа Гауранга со спутниками идёт по берегу Ганги, переправляется у Самудрагари и останавливается у Адвайты; приводят Шачи; Он зовёт всех идти с Ним в страну Одру; Харидасу первому подают постную пищу."
+  persons: ["@mahaprabhu", "@advaita", "@shachi", "@haridasa-thakura", "@keshava-bharati"]
+  places: ["#katwa", "#shantipura", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0040, ccd-0041; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: ""
+  themes: [family, prasada]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "56:1", to: "29:4"}
+    - {file: "jayananda/ru/05-quotes.md", from: "57:1", to: "40:2"}
+
+- id: jcm-0067
+  source: jayananda-cm
+  ref: "Уткала-кханда: «Путь из Шантипура в Пури» (цитаты); «Путь в Камалапур» (Ш. Митра)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P09
+  order: 70
+  title: "Путь из Шантипура в Пури: Кулинаграм, Тамалипта, Ремуна, Соро, Бхадрак, Камалапур"
+  summary: "Оставив Гангу слева, Господь через Кулинаграм, Тамалипту, Мантрешвару, Суварнарекху, Дантан, Джалешвару, Амарду, Баншду, Ремуну (даршан Гопинатхи), Соро (линга Сиддхешвары), Бхадрак и Катхатипару приходит в Камалапур."
+  persons: ["@mahaprabhu", "@murari-gupta", "@gopala-remuna"]
+  places: ["#kulinagrama", "#tamluk", "#remuna", "#bhadraka", "#kamalapura"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0043; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "58:1", to: "25:5"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "22:1", to: "22:1"}
+
+- id: jcm-0068
+  source: jayananda-cm
+  ref: "Уткала-кханда: «Джаджпур» (Ш. Митра); статья Н. Васу 1897, «Особые сведения» 1 (48.2.1)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P09
+  order: 82
+  title: "Джаджпур: Хари-Вараха, Вираджа, Набхи-гая; предки Господа жили в Джаджпуре"
+  summary: "Джаджпур на реке Папахаре — престол Брахмы, где пребывает Хари-Вараха, гхаты Брахма-шасаны и Дашашвамедхи, Брахма-кунда, богиня Вираджа и Набхи-гая. Предки Чайтаньи жили в Джаджпуре и бежали в Шрихатту из страха перед царём Бхрамарой; в их роду был вайшнав Камала-лочана, в доме которого отдыхал Господь."
+  persons: ["@mahaprabhu", "@viraja-devi", "@varaha", "@brahma"]
+  places: ["#jajpur", "#shrihatta"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0202; Мурари: mkc-0154, mkc-0156"
+  notes: ""
+  themes: [pilgrimage, deities]
+  divergence: "Предки Господа — выходцы из Джаджпура (бежали от царя Бхрамары)."
+  event: ev-jajpur-viraja
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "20:1", to: "13:5"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "Где же жили предки Чайтаньи до того, как", to_text: "В истории Уткалы нет ясного упоминания о"}
+    - {file: "jayananda/ru/05-quotes.md", from: "59:1", to: "59:1"}
+
+- id: jcm-0069
+  source: jayananda-cm
+  ref: "Уткала-кханда: «Экамра-канана» (Ш. Митра)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P09
+  order: 86
+  title: "Экамра: храм Капилешвары"
+  summary: "В Экамре, манговом лесу, где без одного крор лингамов, Господь видит храм в Капилешваре."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#bhubaneshvara"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0204, lcm-0205, lcm-0206; Мурари: mkc-0157, mkc-0158, mkc-0159, mkc-0160"
+  notes: ""
+  themes: [pilgrimage, deities]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "21:1", to: "21:1"}
+
+- id: jcm-0070
+  source: jayananda-cm
+  ref: "Уткала-кханда: «Царь и царица Чандракала» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P12
+  order: 300
+  title: "Царь спрыгивает со слона перед Господом; гирлянда царице Чандракале"
+  summary: "Увидев Господа, царь в изумлении спрыгивает со слона и падает на землю; главной из ста жён царя, Чандракале, Гаурачандра даёт гирлянду со Своей шеи."
+  persons: ["@prataparudra", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0067, ccd-0068, ccd-0072; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: ""
+  themes: [mercy]
+  divergence: "Царь встречает Господа и падает перед Ним в Уткала-кханде, вскоре по Его приходе; ср. затворничество Господа от царя в ЧЧ."
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "60:1", to: "42:2"}
+
+- id: jcm-0071
+  source: jayananda-cm
+  ref: "Уткала-кханда, разд. 16 (фрагм. 12)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P12
+  order: 8
+  title: "У Львиных ворот Чайтанья возвещает славу вайшнавов"
+  summary: "Нет у вайшнава касты; в его сердце всегда Кришна; хижина вайшнава — обитель Кришны, его шак и рис — нектар, Кришна берёт его горсть сечки и воду из кувшина; что ест вайшнав, то ест Кришна; хула на вайшнава гневит Кришну; прах со стоп вайшнава очищает род; пищу вайшнава надо выпросить и съесть."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, jagannatha, prasada]
+  teaching: [vaishnava, prasada-teaching]
+  event: ev-glory-of-vaishnavas-lion-gate
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "12:1", to: "3:23"}
+
+- id: jcm-0072
+  source: jayananda-cm
+  ref: "Уткала-кханда: колофон (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: PX
+  order: 13
+  title: "Колофон Уткала-кханды"
+  summary: "Песнь Уткала-кханды — неиссякаемый источник нектара, люди пьют его ушами."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "61:1", to: "61:1"}
+
+- id: jcm-0073
+  source: jayananda-cm
+  ref: "Пракаша-кханда: начало и колофоны (цитаты; рукописи 1109 г. б. э., Аз. об-ва № 182)"
+  file: "jayananda/ru/05-quotes.md"
+  period: PX
+  order: 14
+  title: "Начало и колофон Пракаша-кханды"
+  summary: "«В Пракаша-кханде слушайте: Госани по порядку рассказывает о величии Кшетры»; колофоны Пракаша-кханды."
+  persons: ["@jayananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "62:1", to: "43:2"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "24:1", to: "15:4"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "2:1–5", to: "12:6"}
+    - {file: "jayananda/ru/05-quotes.md", from: "68:1", to: "68:1"}
+
+- id: jcm-0074
+  source: jayananda-cm
+  ref: "Пракаша-кханда: «Упрёк Раю Рамананде», «Самораскрытие» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P12
+  order: 9.5
+  title: "Рамананда Рай приходит к Господу; упрёк и самораскрытие: «Чайтанья — это Джаганнатха»"
+  summary: "На берегу океана к Господу приходит Рамананда Рай; Чайтанья, смеясь, упрекает его, что тот, сидя на алом седалище правителя, отвернулся от санкиртаны и не сложил ладоней в служении Джаганнатхе; затем Господь открывает: «Я — Кришна-Чайтанья; Чайтанья — это Джаганнатха; ради воплощения эпохи Я родился в брахманском роду»."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0055; Лочан: lcm-0220; Мурари: mkc-0175"
+  notes: ""
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva]
+  divergence: "Встреча с Раманандой — в Пури, с упрёком за мирскую службу (в ЧЧ — беседа на Годавари о высшей преме)."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "63:1", to: "24:6"}
+    - {file: "jayananda/ru/05-quotes.md", from: "64:1", to: "64:1"}
+
+- id: jcm-0075
+  source: jayananda-cm
+  ref: "Пракаша-кханда: «Царь идёт к Чайтанье», «Царицы» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P12
+  order: 300
+  title: "Пратапарудра по слову Сарвабхаумы идёт к Чайтанье; царицы держат зонт"
+  summary: "Услышав обо всём от Сарвабхаумы, царь идёт в Нилачалу повидать Чайтанью; все царицы обходят Господа и по Его повелению держат над Ним золотой зонт."
+  persons: ["@prataparudra", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0067, ccd-0068, ccd-0072; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: ""
+  themes: [mercy]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "65:1", to: "65:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "66:1", to: "66:1"}
+
+- id: jcm-0076
+  source: jayananda-cm
+  ref: "Пракаша-кханда (рукописи «Джаганнатха-мангала» № 203–204, Калькутт. ун-т № 554, № 553, Аз. об-во № 183)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P12
+  order: 9
+  title: "Господь рассказывает Рамананде о Нила-Мадхаве, Муктишиле и неувядающем баньяне; Вишвакарма вырезает образы"
+  summary: "По просьбе Рамананды в доме Каши Мишры, в обители Тота, Господь рассказывает: прежде на Голубой горе был образ Нила-Мадхавы; Хари погрузился в йога-нидру, став Муктишилой; неувядающий баньян поднялся из Паталы. Вишвакарма тайно вырезает из одного ствола три образа, но царь открывает двери прежде срока."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@kashi-mishra", "@jagannatha-deity", "@indradyumna"]
+  places: ["#puri", "#house-kashi-mishra", "#tota"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [jagannatha, teaching]
+  teaching: [scripture]
+  event: ev-lord-narrates-jagannatha-glory
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "23:1", to: "3:19"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–8", to: "4:18"}
+
+- id: jcm-0077
+  source: jayananda-cm
+  ref: "Пракаша-кханда: «Золотой храм Индрадьюмны», «Баньян, сова и черепаха», «Каменный храм», «Индрадьюмна просит…», «Облик Гопалы…», «Индрадьюмна становится камнем» (рукописи)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P12
+  order: 9
+  title: "Предание об Индрадьюмне: золотой храм, баньян, сова и черепаха, каменный храм"
+  summary: "Индрадьюмна из Солнечной династии строит золотой храм; Кришна в облике Будды входит в него и скрывается; за одно мгновение Брахмы проходит шестьдесят тысяч лет; баньян и сова отсылают царя к черепахе Курме; Брахма велит строить храм из камня, ибо царь-млеччха разрушит золотой; царь просит Джаганнатху взять в жёны его дочь Сатьявати; Господь говорит о величии Кшетры, и Индрадьюмна, по своей просьбе, становится каменным изваянием позади Гаруды, получая на голову воду омовения подношений."
+  persons: ["@indradyumna", "@jagannatha-deity", "@brahma", "@gadadhara-pandita", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Рассказ Господа (рамка — беседа с Раманандой). Божество названо «Гададхара» (Держащий палицу)."
+  themes: [jagannatha, deities]
+  teaching: [scripture]
+  event: ev-lord-narrates-jagannatha-glory
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "25:1", to: "9:8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "26:1", to: "4:16"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "27:1", to: "11:8"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "28:1", to: "14:7"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "29:1", to: "4:19"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "30:1", to: "10:9"}
+
+- id: jcm-0078
+  source: jayananda-cm
+  ref: "Пракаша-кханда, разд. 10 (фрагм. 13)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P12
+  order: 9
+  title: "Сказание о водружении знамени: царь Сумати и царица Сатьявати"
+  summary: "Господь рассказывает Рамананде сказание Нарады царю Индрадьюмне: праведный царь Сумати и царица Сатьявати объясняют мудрецу Вибхандаке, что в прошлом рождении были грешником-охотником Малини и чандалкой Куилини, убившей мужа; живя в полуразрушенном храме Вишну, они в хмелю привязали лоскут к шесту над хижиной — и, убитые молнией, были спасены посланцами Вишну от посланцев Ямы."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@narada", "@indradyumna"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [scripture, bhakti-supremacy]
+  event: ev-lord-narrates-jagannatha-glory
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "13:1", to: "2:49"}
+
+- id: jcm-0079
+  source: jayananda-cm
+  ref: "Пракаша-кханда: «„Джаганнатха-чарита“: брахман Ведагарбха» (рукопись № 204); «Игроки в храме Вишну» (С. Сен); «Сказание о Вринде» (цитаты)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P12
+  order: 9
+  title: "Почему уязвимы стопы Кришны (брахман Ведагарбха); игроки в храме; сказание о Вринде"
+  summary: "На вопрос Рамананды, как стрела вонзилась в алмазное тело Кришны, Господь рассказывает: Кришна размазал по телу пищу, брошенную в гневе брахманом Ведагарбхой, но, почитая её как прасад, не намазал стоп — потому они остались уязвимы. Упомянуты игроки в кости в храме Вишну, получившие милость, и сказание о Вринде, ставшей туласи, и шалаграме."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@krishna", "@lakshmi", "@jayananda"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, krishna-lila, prasada]
+  teaching: [scripture, prasada-teaching]
+  event: ev-lord-narrates-jagannatha-glory
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "31:1", to: "6:18"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "32:1", to: "23:4"}
+    - {file: "jayananda/ru/05-quotes.md", from: "67:1", to: "32:4"}
+
+- id: jcm-0080
+  source: jayananda-cm
+  ref: "Тиртха-кханда: «Санньяси Варанаси уходят в Нилачалу» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P13
+  order: 187
+  title: "Старые санньяси Варанаси уходят в Нилачалу"
+  summary: "Услышав письмо, все старые санньяси покидают Варанаси и уходят в Нилачалу."
+  persons: ["@mahaprabhu"]
+  places: ["#kashi", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [sannyasa]
+  event: ev-varanasi-sannyasis
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "69:1", to: "69:1"}
+
+- id: jcm-0081
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 1 (фрагм. 14); статья Н. Васу 1897, «Особые сведения» 5"
+  file: "jayananda/ru/01-fragments.md"
+  period: P14
+  order: 50
+  title: "Господь предсказывает Гададхаре бедствия века Кали"
+  summary: "Закончилась Тиртха-кханда; в Нилачале, когда Адвайта и Нитьянанда у неувядающего баньяна, Господь говорит Гададхаре о будущем: брахманы оставят Веду, отпустят бороды и заговорят по-персидски, цари будут из млеччхов, яваны разорят Варанаси и разрушат храмы, санньяси будут копить богатство, шудры — толковать пураны; на исходе Кали исчезнут раковины, туласи и святыни; но в век Кали малой заслугой достигают освобождения."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@advaita", "@nityananda"]
+  places: ["#puri", "#kashi"]
+  kind: prophecy
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [yuga-dharma]
+  event: ev-lord-prophesies-kali-age
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "14:1", to: "3:37"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "5. Как ныне при английском владычестве м", to_text: "> царь отнимет всё, подданные будут в ну"}
+
+- id: jcm-0082
+  source: jayananda-cm
+  ref: "Виджая-кханда (70.2), статья Н. Васу 1897, «Особые сведения» 4"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P12
+  order: 310
+  title: "Господь отговаривает Пратапарудру от похода на Гауду"
+  summary: "Когда между Гаудой и Уткалой поднялась смута, Пратапарудра просит позволения воевать; Господь говорит, что владыка Гауды — Калаявана, яваны разорят Одру и Джаганнатха покинет Нилачалу, и советует покорять Канчи и другие царства, но не Гауду; царь уходит воевать в Виджаянагар."
+  persons: ["@prataparudra", "@mahaprabhu", "@gauda-sultan", "@jagannatha-deity"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Васу использует рассказ для датировки войны (после первого прихода Господа в Нилачалу)."
+  themes: [teaching, muslims]
+  event: ev-lord-warns-prataparudra-war
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "4. Некоторые жизнеописатели пишут, что к", to_text: "> отправился в Виджаянагар воевать». (Ви"}
+
+- id: jcm-0083
+  source: jayananda-cm
+  ref: "Виджая-кханда: «Нитьянанде вверена Гауда» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P12
+  order: 90
+  title: "Нитьянанде вверена Гауда; Пратапарудра одаряет Его"
+  summary: "«Нитьянанда Госани, твоя доля — страна Гауда; с сегодняшнего дня Я заставлю Тебя оставить облик авадхуты»; поняв желание Господа, Пратапарудра почитает Нитьянанду многими дарами."
+  persons: ["@mahaprabhu", "@nityananda", "@prataparudra"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0243, mkc-0245"
+  notes: ""
+  themes: [kirtan]
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "70:1", to: "46:2"}
+
+- id: jcm-0084
+  source: jayananda-cm
+  ref: "Виджая-кханда (70.2.15; 71.1.1–3): статья Н. Васу 1897, «Сведения о поэте», цит. 4; цит. «Путь из Пури в Гауду»"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P13
+  order: 4
+  title: "По пути в Гауду Господь у Субуддхи Мишры в Амаипуре даёт имя Джаянанде"
+  summary: "По повелению Джаганнатхи Чайтанья идёт в Гауду через Тунгану, Бхадрак, Соро, Ремуну, Баншду, Дантан, Джалешвару, Мандарану и Бардхаману; в зной джьяйштхи Он отдыхает в Амаипуре у Субуддхи Мишры, Своего давнего ученика, даёт его сыну Гуйе имя Джаянанда, а Родани угощает Его; затем Он идёт в Надию и в Баяру."
+  persons: ["@mahaprabhu", "@subuddhi-mishra", "@jayananda"]
+  places: ["#amaipura", "#bhadraka", "#remuna"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Опора датировки рождения Джаянанды у Васу: до возвращения Господа в Гауду."
+  themes: [mercy, pilgrimage]
+  calendar: "джьяйштха"
+  event: ev-jayananda-named
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> 4. «Чайтанья отправился в страну Гауду", to_text: "> этой надеждой живёт Джаянанда». (70.2."}
+    - {file: "jayananda/ru/05-quotes.md", from: "2:1–3", to: "2:1–3"}
+
+- id: jcm-0085
+  source: jayananda-cm
+  ref: "Виджая-кханда: «В Баяре» (С. Сен)"
+  file: "jayananda/ru/06-manuscripts.md"
+  period: P13
+  order: 8
+  title: "В Баяре, в доме Видья-вачаспати, тысячи людей идут увидеть Господа"
+  summary: "В деревне Баяра живёт Видья-вачаспати Бхаттачарья; Чайтанья приходит в его дом, и тысячи людей идут Его увидеть."
+  persons: ["@vidya-vachaspati", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0186"
+  notes: ""
+  themes: [mercy]
+  event: ev-vidya-vachaspati-house
+  verses:
+    - {file: "jayananda/ru/06-manuscripts.md", from: "33:1", to: "27:2"}
+
+- id: jcm-0086
+  source: jayananda-cm
+  ref: "Виджая-кханда: «Чайтанья в Кулии» (изд. 1905, с. 140–141)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P13
+  order: 10
+  title: "Кулия: Господь на помосте; Шачи и Вишнуприя; милость Девананде"
+  summary: "Господь стоит на высоком помосте лицом к востоку, и миллионы людей Навадвипы бегут видеть Его; Аи-тхакурани (Шачи) и Вишнуприя лишаются чувств; Господь, поклонившись матери, велит ей с невесткой идти домой, не переправляясь через Гангу; хулителя вайшнавов Девананду Он делает Своим слугой."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya", "@murari-gupta", "@shuklambara", "@devananda-pandita"]
+  places: ["#kulia", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0080; Лочан: lcm-0246; Мурари: mkc-0226, mkc-0228"
+  notes: "Девананда — ev-devananda-mercy."
+  themes: [family, mercy, separation]
+  divergence: "Вишнуприя видит Господа в Кулии (по пути в Гауду); Шачи и Вишнуприя прибегают в толпе."
+  event: ev-kuliya-shachi-meeting
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "71:1", to: "6:12"}
+
+- id: jcm-0087
+  source: jayananda-cm
+  ref: "Виджая-кханда: «В Рамакели» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P13
+  order: 11
+  title: "Рамакели: царь велит схватить Кришна-Чайтанью; Господь поворачивает в Шантипур"
+  summary: "Видя Его красоту, женщины не подвязывают волос, деревья склоняются, камни раскалываются; царь говорит: «Что это за Кришна-Чайтанья, перед которым деревья склоняют головы? Кешава Хан, схвати его и приведи»; услышав это, Чайтанья со спутниками поворачивает назад, в Шантипур."
+  persons: ["@gauda-sultan", "@keshava-vasu", "@mahaprabhu"]
+  places: ["#ramakeli", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0081"
+  notes: ""
+  themes: [muslims]
+  divergence: "Султан велит схватить Господа, и Господь поэтому поворачивает назад (у Карнапуры и в ЧЧ султан признаёт Его Богом)."
+  event: ev-gauda-sultan-sees-crowds
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "72:1", to: "34:4"}
+
+- id: jcm-0088
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 5, 1–7 (фрагм. 15)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P13
+  order: 211
+  title: "Пятилетний Ачьютананда спорит с Адвайтой: Кешава Бхарати — не гуру Чайтаньи"
+  summary: "В Шантипуре Адвайта говорит, что Кешава Бхарати — гуру Чайтаньи; его пятилетний сын Ачьютананда, ученик Гададхары, знающий прошлое и будущее, возражает отцу. Аи-тхакурани приходит в дом Адвайты и оказывает милость Мурари Гупте."
+  persons: ["@advaita", "@achyutananda", "@keshava-bharati", "@mahaprabhu", "@gadadhara-pandita", "@shachi", "@murari-gupta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [gaura-tattva]
+  event: ev-achyutananda-keshava-bharati-dispute
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "15:1", to: "15:7"}
+
+- id: jcm-0089
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 5, 8–11 (фрагм. 15)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P13
+  order: 211.5
+  title: "Прокажённый хулитель вайшнавов отослан к Шринивасу"
+  summary: "В Шантипур приходит прокажённый брахман, оскорбивший Шриниваса у его дверей; Господь говорит: у хулителя вайшнавов на теле проказа; как вошла заноза, так и выйдет — ступай поклонись Шринивасу."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0026; Лочан: lcm-0147; Мурари: mkc-0112, mkc-0113"
+  notes: ""
+  themes: [offense, mercy]
+  teaching: [vaishnava]
+  divergence: "Эпизод отнесён к пребыванию в Шантипуре после санньясы (у Мурари и Лочана — Навадвипа до санньясы)."
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "13:8", to: "13:11"}
+
+- id: jcm-0090
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 5, 12–24 (фрагм. 15)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P13
+  order: 212
+  title: "Праздник памяти Мадхавендры Пури у Адвайты"
+  summary: "В день поминовения Мадхавендры Пури, гуру Адвайты, Аи-тхакурани стряпает, Мукунда поёт, Мурари — ключник, Бхавананда подметает, Сварупа Дамодара и Парамананда Пури распоряжаются трапезой, Васудева Датта подаёт шак; всю ночь в Шантипуре пляшут и поют, Чайтанья пляшет в блаженстве; наутро Он уходит в Кумарахатту."
+  persons: ["@advaita", "@madhavendra-puri", "@shachi", "@mukunda-datta", "@murari-gupta", "@svarupa-damodara", "@paramananda-puri", "@vasudeva-datta", "@vakreshvara", "@damodara-pandita", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0231"
+  notes: ""
+  themes: [festival, prasada, kirtan]
+  event: ev-madhavendra-puri-aradhana
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "13:12", to: "5:24"}
+
+- id: jcm-0091
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 5, 25–32 (фрагм. 15)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P13
+  order: 213
+  title: "Кумарахатта: слава Васудевы Датты; Господь испытывает Шривасу"
+  summary: "В доме Шриниваса в Кумарахатте Господь говорит, что Он — купленный слуга Васудевы Датты; спрашивает Шриниваса, на что тот содержит большую семью, и советует оставить всё и принять санньясу; Шринивас, трижды хлопнув в ладоши, отвечает, что не пойдёт просить, а скорее утопится в Ганге; Господь обещает, что нужды он больше не узнает."
+  persons: ["@mahaprabhu", "@srivasa", "@vasudeva-datta", "@shivananda-sena"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [vaishnava]
+  event: ev-srivasa-test-sannyasa
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "5:25", to: "4:32"}
+
+- id: jcm-0092
+  source: jayananda-cm
+  ref: "Виджая-кханда, разд. 5, 33–39 (фрагм. 15)"
+  file: "jayananda/ru/01-fragments.md"
+  period: P13
+  order: 214
+  title: "Панихати: шак и рис Рагхавы Пандита"
+  summary: "С сотнями спутников и Нитьянандой Господь приходит в Панихати и ест в доме Рагхавы Пандита, хваля его шак; Нитьянанда шутит, что шака Он не ел — Чайтанья кормит им всех; шака, сколько ни раздают, становится всё больше; и поныне в Панихати славятся шак и рис Рагхавы."
+  persons: ["@mahaprabhu", "@nityananda", "@raghava-pandita", "@srivasa"]
+  places: ["#panihati"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [prasada]
+  event: ev-raghava-shak-panihati
+  verses:
+    - {file: "jayananda/ru/01-fragments.md", from: "4:33", to: "3:39"}
+
+- id: jcm-0093
+  source: jayananda-cm
+  ref: "Виджая-кханда: «Спутники Нитьянанды», «Проповедь Нитьянанды в Гауде» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P12
+  order: 110
+  title: "Нитьянанда наполняет Гауду санкиртаной; Его спутники"
+  summary: "Через три месяца Нитьянанда уходит в Гауду и в каждом доме заводит санкиртану, велит Бхаскаре Дасу дать святые образы в каждый дом; перечислены селения от Панихати и Саптаграма до Кхардахи и Пхулии; Авадхута в облике великого борца, в золоте и шелках; среди Его спутников — Пурандара, Сундарананда, Джагадиша и Хиранья, Пурушоттама Датта, Вайшнавананда."
+  persons: ["@nityananda", "@purandara-pandita", "@sundarananda"]
+  places: ["#panihati", "#saptagrama", "#kumarahatta", "#phulia"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0247, mkc-0251"
+  notes: ""
+  themes: [kirtan]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "73:1", to: "15:8"}
+    - {file: "jayananda/ru/05-quotes.md", from: "74:1", to: "17"}
+
+- id: jcm-0094
+  source: jayananda-cm
+  ref: "Виджая-кханда: «Дабир Кхас уходят в Нилачалу» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P13
+  order: 12
+  title: "Дабир Кхас — два брата — уходят в Нилачалу"
+  summary: "Шри Кришна-Чайтанья остаётся в радости, а Дабир Кхас, два брата, уходят в Нилачалу."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0188"
+  notes: ""
+  themes: [mercy, sannyasa]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "77:1", to: "77:1"}
+
+- id: jcm-0095
+  source: jayananda-cm
+  ref: "Виджая-кханда: «Рупа и Санатана во Вриндаване» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P13
+  order: 182
+  title: "Во Вриндаване Господь узнаёт Дабир Кхаса и даёт братьям имена Рупа и Санатана"
+  summary: "Во Вриндаване Господь видит Кеши-гхат, дом Уддхавы, омут Калии, дом Нанды и узнаёт братьев Дабир Кхаса, отрёкшихся от богатств владыки Гауды; прежде они были сыновьями Брахмы, рождёнными из ума, павшими от проклятия; узрев Чайтанью, они освобождаются, и Он даёт им имена Рупа и Санатана; затем Он уходит к Сетубандхе."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana", "#setubandha"]
+  kind: lila
+  authority: C
+  parallels: "Карнапура (ЧЧд): ccd-0084; Лочан: lcm-0230; Мурари: mkc-0223"
+  notes: ""
+  themes: [mercy, sannyasa]
+  divergence: "Встреча и наречение Рупы и Санатаны — во Вриндаване (в ЧЧ — в Праяге и Варанаси); после Вриндавана Господь идёт на юг, к Сетубандхе."
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "78:1", to: "8:12"}
+
+- id: jcm-0096
+  source: jayananda-cm
+  ref: "Уттара-кханда: краткое жизнеописание Чайтаньи (статья Н. Васу 1897, с. 220–221), ч. 1: рождение — Гая"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 20
+  title: "Краткое жизнеописание: от рождения до Гаи"
+  summary: "Рождение в пхалгуну при затмении; знаки на стопах; змея держит капюшон над спящим младенцем; плач-притворство; воры уносят Его ради украшений и сбиваются с пути; киртан в песчаном домике; кирпич и бутоны туласи; съедает подношения в доме Хираньи и брахмана; бьёт учителя книгой; гирлянда падает на кувшин Ганеши; укушенный змеёй гонец Чхалиядхара; джут Шридхары; пёс Гангадас; санньяса брата; учение у Гангадаса; смерть отца; женитьба на Лакшми; дигвиджая; Ванга и смерть Лакшми от змеи; Вишнуприя; Гая, Ишвара Пури в Раджагири, освобождённое изваяние и исчезнувшая старуха."
+  persons: ["@jayananda", "@mahaprabhu", "@shachi", "@jagannatha-mishra", "@sudarshana-pandita", "@shridhara", "@haridasa-thakura", "@gangadasa-pandita", "@lakshmipriya", "@vishnupriya", "@ishvara-puri", "@madhavendra-puri"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Обзор в конце поэмы; многие подробности (змея над младенцем, Чхалиядхара, старуха в Гае) известны только отсюда."
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "О языке и поэтическом даре Джаянанды мож", to_text: "> выпив воду от стоп, старуха исчезла"}
+
+- id: jcm-0097
+  source: jayananda-cm
+  ref: "Краткое жизнеописание (Н. Васу 1897), ч. 2: Навадвипа — санньяса — Пури"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 21
+  title: "Краткое жизнеописание: Навадвипа, санньяса, приход в Пури"
+  summary: "Кунда в доме Шриваса; «ветер»; явление на престоле; приход Нитьянанды, шестирукий облик, Вепрь — Мурари, Халадхара; сломанный посох в вьяса-пудже, прыжок в Гангу; Джагай и Мадхай; разрушен дом кази в Симулии, «семистражная» бхава; мешок Шукламбары; бхава Рукмини; вода из сосуда Шридхары; оживший сын Шриваса говорит об истине души; Девананда; Джаяпур, служанка Дукхи, Нараяни; санньяса в Катоа, имя Кришна-Чайтанья; двенадцать дней в Шантипуре; дом Каши Мишры и Тота."
+  persons: ["@jayananda", "@mahaprabhu", "@nityananda", "@murari-gupta", "@srivasa", "@jagai-madhai", "@shuklambara", "@shridhara", "@devananda-pandita", "@narayani", "@achyutananda", "@keshava-bharati", "@vakreshvara", "@advaita", "@kashi-mishra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Вернувшись из Гаи, в доме Шриниваса", to_text: "> по повелению Джаганнатхи он там посели"}
+
+- id: jcm-0098
+  source: jayananda-cm
+  ref: "Краткое жизнеописание (Н. Васу 1897), ч. 3: Нилачала, Гауда, паломничества"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 22
+  title: "Краткое жизнеописание: Сарвабхаума, Рамананда, Гауда, Вриндаван, юг; пустая обитель Ямы"
+  summary: "Веданта с Сарвабхаумой и шестирукий облик; Парамананда Пури у Сетубандхи; Рамананда; восьмирукий облик Пратапарудре; путь в Гауду, дом Вачаспати; Нитьянанда в Гауде со спутниками в божественных бхавах; Дабир Кхас — Рупа и Санатана; Варанаси, Праяга, Айодхья, Матхура, Венката, исцелённый прокажённый Гаруда Мишра, Шива- и Вишну-Канчи; двадцать восемь лет в Нилачале; Яма жалуется Брахме, что ад опустел."
+  persons: ["@jayananda", "@mahaprabhu", "@sarvabhauma", "@paramananda-puri", "@ramananda-raya", "@prataparudra", "@vaninatha-raya", "@vidya-vachaspati", "@nityananda", "@abhirama", "@gadadhara-dasa", "@raghava-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@brahma"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  divergence: "«Двадцать восемь лет в Нилачале» (в ЧЧ — 24 года после санньясы, из них 18 — в Нилачале без перерыва)."
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> *[с. 223]*", to_text: "> С Индрой и Шанкарой он сам отправился "}
+    - {file: "jayananda/ru/05-quotes.md", from: "75:1", to: "75:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "76:1", to: "76:1"}
+
+- id: jcm-0099
+  source: jayananda-cm
+  ref: "Виджая-кханда (75.2.14–15; 76.1.1–3) — статья Н. Васу 1897, «Особые сведения» 6 и краткое жизнеописание; Дж. Саркар 1922"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P15
+  order: 10
+  title: "Уход Господа по Джаянанде: рана от кирпича на Ратха-ятре, последние дни в Тоте"
+  summary: "Ночью в обители Тота Господь объявляет, что уйдёт на Вайкунтху, и назначает светлую седьмую ашадхи; вверяет Адвайте Нитьянанду и санкиртану, Гададхару делает распорядителем дома, Харидасу велит построить сад-обитель на берегу. Во время пляски на Ратха-ятре кирпич ранит Его левую ногу; Адвайта уходит в Гауду; Господь играет в воде в Нарендре; на шестой день боль усиливается, Он ложится в Тоте и говорит Гададхаре, что уйдёт завтра в десятую данду ночи; боги подают колесницу со знаменем Гаруды, и Он уходит на Вайкунтху; «призрачное тело» остаётся лежать; знамения на земле."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@haridasa-thakura", "@prataparudra", "@jagannatha-deity"]
+  places: ["#puri", "#tota", "#narendra-sarovara"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0250"
+  notes: "По гаудия-вайшнавскому пониманию тело Господа духовно (сач-чид-ананда), и Его уход — сокрытие (антардхана), а не смерть мирского тела; рассказ Джаянанды о ране от кирпича и об оставшемся «призрачном теле» традицией не принят (в ЧЧ уход не описан; у Лочана Даса Господь входит в Джаганнатху). Запись передаёт текст источника как есть. В том же отрывке: уход Харидаса — светлый 14-й день пхалгуны (раньше Господа); смерть Махендры Бхарати."
+  themes: [departure, jagannatha, celestial]
+  calendar: "ашадха: рана на Ратха-ятре; уход назначен на светлую седьмую ашадхи"
+  divergence: "Причина ухода — рана левой ноги (у Саркара — большого пальца) от кирпича на Ратха-ятре и болезнь в Тоте; ни Мурари, ни Карнапура, ни ЧЧ этого не сообщают."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "6. Как Махапрабху сокрылся, — этой разди", to_text: "Теперь мы узнали, что во время Ратха-ятр"}
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> В Нилачале, ночью, Чайтанья в обители ", to_text: "> были падения метеоров, удары молний, землетрясения."}
+    - {file: "jayananda/ru/04-sarkar-1922.md", from_text: "**Последняя сцена** (перевод из «Чайтань", to_text: "Когда Он плясал на Биджае праздника коле"}
+
+- id: jcm-0100
+  source: jayananda-cm
+  ref: "Уттара-кханда: краткое жизнеописание (Н. Васу 1897); Дж. Саркар 1922; цит. «После ухода Чайтаньи»"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P15
+  order: 10
+  title: "После ухода: скорбь спутников и обет Нитьянанды"
+  summary: "Нитьянанда и Адвайта узнают об уходе, Вишнуприя и Шачи лишаются чувств; Рамадас и спутники Адвайты онемели; Нитьянанда утешает всех и даёт обет: сделает вайшнавами всех, вплоть до чандалов и яванов, не различая каст, и даст всем прему-бхакти; «Кто пришёл — Адвайта, тот и есть Чайтанья». Вайшнавы восклицают: «Слава!»"
+  persons: ["@nityananda", "@advaita", "@vishnupriya", "@shachi", "@abhirama"]
+  places: ["#gauda", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "Лочан: lcm-0250"
+  notes: "По гаудия-вайшнавскому пониманию тело Господа духовно (сач-чид-ананда), и Его уход — сокрытие (антардхана), а не смерть мирского тела; рассказ Джаянанды о ране от кирпича и об оставшемся «призрачном теле» традицией не принят (в ЧЧ уход не описан; у Лочана Даса Господь входит в Джаганнатху). Запись передаёт текст источника как есть."
+  themes: [departure, separation, kirtan]
+  teaching: [holy-name]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Нитьянанда и Адвайта Ачарья Госани усл", to_text: "> все вайшнавы восклицают: «Слава, слава"}
+    - {file: "jayananda/ru/04-sarkar-1922.md", from_text: "Нитьянанда утешил учеников и поклялся пе", to_text: "Нитьянанда утешил учеников и поклялся пе"}
+    - {file: "jayananda/ru/05-quotes.md", from: "79:1", to: "52:2"}
+
+- id: jcm-0101
+  source: jayananda-cm
+  ref: "Уттара-кханда: «Упрёк Нитьянанде» (цитаты)"
+  file: "jayananda/ru/05-quotes.md"
+  period: P14
+  order: 110
+  title: "Господь упрекает Нитьянанду за пышный киртан в Гауде"
+  summary: "Гаурачандра спрашивает Нитьянанду: неужели в Гауде над Ним нет власти, что Он, с караталами, мридангами, гирляндами, рогом, тростью и браслетами, выпрашивая даяния на празднества, пляшет в санкиртане? Нитьянанда, улыбаясь, отвечает: «Суровый киртан — не дхарма Кали-юги»."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: C
+  parallels: "Мурари: mkc-0253"
+  notes: ""
+  themes: [kirtan, teaching]
+  divergence: "Вместо беседы о бхакти Враджа (Мурари) — упрёк за пышность киртана в Гауде."
+  event: ev-nityananda-returns-to-puri
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "2:1–2", to: "29:6"}
+
+- id: jcm-0102
+  source: jayananda-cm
+  ref: "Уттара-кханда: краткое жизнеописание (Н. Васу 1897, с. 225–226)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P15
+  order: 20
+  title: "Нитьянанда в облике борца берёт в жёны Васу и Джахнаву; чудеса Его спутников"
+  summary: "Нитьянанда, со шнуром и шикхой, странствует в облике великого борца и берёт в жёны Васу и Джахнаву, дочерей Сурьядаса; от Васу рождается Вирабхадра. Его спутники в экстазе: Мурари Чайтаньядас ловит тигра, Сундарананда — крокодила, Гангадас семь дней в омуте Ганги, Гададхара Дас бросается в огонь, Мурари Гупта как Хануман; Нитьянанда поселяется в Кхардахе, род Адвайты — в Шантипуре; бесчисленны слуги Чайтаньи и Нитьянанды."
+  persons: ["@nityananda", "@vasudha", "@jahnava", "@virabhadra", "@sundarananda", "@gadadhara-dasa", "@murari-gupta", "@purandara-pandita", "@gauridasa-pandita", "@advaita", "@sita-thakurani"]
+  places: ["#gauda", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family, kirtan, ecstasy]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Через некоторое время Нитьянанда, нося", to_text: "> всё тяжкое бремя земли было снято."}
+
+- id: jcm-0103
+  source: jayananda-cm
+  ref: "Уттара-кханда: краткое жизнеописание (Н. Васу 1897, с. 226)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P15
+  order: 30
+  title: "Уход Нитьянанды в ашвину"
+  summary: "Сказав Гауридасу Пандиту, что пребывает на земле, Нитьянанда в тёмный восьмой день ашвины уходит на Вайкунтху; в экадаши земля содрогается; маханты утешаются, видя Вирабхадру."
+  persons: ["@nityananda", "@gauridasa-pandita", "@virabhadra"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [departure]
+  calendar: "ашвина, тёмная половина, 8-й лунный день"
+  event: ev-nityananda-departure
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Нитьянанда сказал Гауридасу Пандиту:", to_text: "> увидев Вирабхадру, совершенно утешилис"}
+
+- id: jcm-0104
+  source: jayananda-cm
+  ref: "Уттара-кханда: краткое жизнеописание (Н. Васу 1897, с. 226); рукопись «около 250 лет» (№ 545)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P15
+  order: 40
+  title: "Скорбь Ситы и Адвайты; уход Адвайты в паушу"
+  summary: "У Ситы и Адвайты в сердце скорбь о Чайтанье и Нитьянанде; через сколько-то дней Адвайта по своей воле говорит, что оставит землю, и в светлый тринадцатый день пауши уходит на Вайкунтху."
+  persons: ["@advaita", "@sita-thakurani"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [departure, separation]
+  calendar: "пауша, светлая половина, 13-й лунный день"
+  event: ev-advaita-departure
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> У Ситы и Адвайты в сердце осталась вел", to_text: "> Ачарья Госани ушёл на Вайкунтху."}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "1–2", to: "1–2"}
+
+- id: jcm-0105
+  source: jayananda-cm
+  ref: "Уттара-кханда: заключительный колофон поэмы (Н. Васу 1897; рукописи 1601 г. Шака, № 545)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 30
+  title: "Заключительное благословение и колофон Уттара-кханды"
+  summary: "«Свасти! Слава „Чайтанья-мангале“, венцу аватар»; кто поёт о Чайтанье, тот Его слуга; потомкам — благословение Джаянанды; колофон Уттара-кханды и приписки писцов о завершении поэмы в девяти кхандах."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Свасти! Слава, слава «Чайтанья-мангале", to_text: "*Шри Нагендранатх Васу*"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "34:1", to: "28:2"}
+    - {file: "jayananda/ru/06-manuscripts.md", from: "24:3", to: "4–7"}
+
+- id: jcm-0106
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897, «Язык» (с. 215–217)"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 31
+  title: "Н. Васу о языке поэмы: формы и редкие слова (с примерами)"
+  summary: "Васу приводит примеры старобенгальских форм и необиходных слов из разных кханд поэмы (плач Индрадьюмны, насмешки детей над брахмачари, гибель рода Яду, Сарвабхаума и Джаганнатха, Матхура и др.)."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "## Язык", to_text: "> «Услышав стук „тхаси-тхуси“ внутри хра"}
+
+- id: jcm-0107
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1897: послесловие о Лочане Дасе и Вриндаване Дасе"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: PX
+  order: 32
+  title: "Н. Васу: Джаянанда, Лочан Дас и Вриндаван Дас (послесловие)"
+  summary: "Васу сопоставляет время создания «Чайтанья-мангалы» Джаянанды (вскоре после 1480 г. Шака) и Лочана Даса, приводя паду Лочана из «Пада-самудры»."
+  persons: ["@jayananda", "@lochana-dasa", "@vrindavana-dasa", "@narahari-sarakara"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "*[с. 227]*", to_text: "Нам теперь тоже кажется, что «Чайтанья-м"}
+
+- id: jcm-0108
+  source: jayananda-cm
+  ref: "Статья Н. Васу 1898 «Ещё немного о поэте Джаянанде»"
+  file: "jayananda/ru/03-vasu-1898.md"
+  period: PX
+  order: 33
+  title: "Н. Васу 1898: другие сочинения Джаянанды; принадлежность к ветви Гададхары"
+  summary: "Васу сообщает о других сочинениях Джаянанды («Дхрува-чаритра», «Прахлада-чаритра»), о списках поэмы из Вишнупура и о свидетельстве «Шакха-нирнаямриты» Ядунатхи Даса, называющей Джаянанду автором «Чайтанья-виласы» из ветви Гададхары Пандита; отождествляет родственника поэта Хридаянанду."
+  persons: ["@jayananda", "@gadadhara-pandita", "@subuddhi-mishra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/03-vasu-1898.md", from_text: "# Нагендранатх Васу. Ещё немного о поэте", to_text: "*Шри Нагендранатх Васу*"}
+
+- id: jcm-0109
+  source: jayananda-cm
+  ref: "Дж. Саркар 1922, предисловие"
+  file: "jayananda/ru/04-sarkar-1922.md"
+  period: PX
+  order: 34
+  title: "Дж. Саркар о Джаянанде (род. ок. 1511, поэма ок. 1568)"
+  summary: "Саркар называет Джаянанду Мишру (род. ок. 1511 г.) автором «Чайтанья-мангалы» (ок. 1568 г.) и единственным источником рассказа о кончине Чайтаньи."
+  persons: ["@jayananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/04-sarkar-1922.md", from_text: "# Джадунатх Саркар о Джаянанде (1922)", to_text: "Джаянанда Мишра (род. ок. 1511 г.) напис"}
+
+- id: jcm-0110
+  source: jayananda-cm
+  ref: "Цитаты: «Кханда не установлена» (отр. 84–88)"
+  file: "jayananda/ru/05-quotes.md"
+  period: PX
+  order: 35
+  title: "Разрозненные строки без установленного места в поэме"
+  summary: "Плач жителей Пхулии; Сушена Пандит, любимый Харидасом; толпы у ворот и гхатов; наставление омываться в Ганге и повторять имя Хари; брахман, потерявший капитал; Мишра Пурандара кого-то ударил; «пусть Джаянанда умрёт, приняв беды Надии»; запевы."
+  persons: ["@jayananda", "@haridasa-thakura", "@jagannatha-mishra"]
+  places: ["#phulia"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Контекст строк не известен."
+  themes: [author]
+  verses:
+    - {file: "jayananda/ru/05-quotes.md", from: "80:1", to: "42:3"}
+    - {file: "jayananda/ru/05-quotes.md", from: "81:1", to: "81:1"}
+    - {file: "jayananda/ru/05-quotes.md", from: "82:1", to: "54:2"}
+    - {file: "jayananda/ru/05-quotes.md", from: "83:1", to: "32:5"}
+    - {file: "jayananda/ru/05-quotes.md", from: "84:1", to: "84:1"}

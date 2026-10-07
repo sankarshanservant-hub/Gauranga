@@ -1,5 +1,24 @@
 [
  {
+  "id": "ev-earth-complains-to-brahma",
+  "title": "Земля жалуется Брахме на бремя Кали-юги",
+  "title_en": "The Earth complains to Brahma of the burden of Kali-yuga",
+  "period": "P00",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "Джаянанда, Ади-кханда (по цитатам).",
+  "entries": [
+   "jcm-0009"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
   "id": "ev-narada-kali-sorrow",
   "title": "Скорбь Нарады о людях Кали-юги",
   "title_en": "Narada's grief over the people of Kali-yuga",
@@ -220,9 +239,11 @@
   ],
   "notes": "",
   "entries": [
+   "jcm-0010",
    "lcm-0022"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -361,10 +382,32 @@
   ],
   "notes": "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра).",
   "entries": [
+   "jcm-0013",
    "mkc-0003"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-srivasa-saved-from-death",
+  "title": "Шриваса спасён от смерти: вещий сон и прибежище в святом имени",
+  "title_en": "Srivasa saved from death: the prophetic dream and refuge in the holy name",
+  "period": "P01",
+  "order": 3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "celestial"
+  ],
+  "notes": "Карнапура, «Чайтанья-чандродая», акт 1: до явления Господа; Господь открывает, что сон был послан Им.",
+  "entries": [
+   "ccd-0015"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -380,13 +423,36 @@
   ],
   "notes": "Мурари 1.04; отождествления — «Гаура-ганоддеша-дипика».",
   "entries": [
+   "ccd-0006",
+   "jcm-0014",
    "lcm-0029",
    "mkc-0010",
    "mkc-0012"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-mishra-family-migrates-navadvipa",
+  "title": "Переселение Ниламбары Чакраварти и Джаганнатхи Мишры из Шрихатты в Навадвипу",
+  "title_en": "Nilambara Chakravarti and Jagannatha Mishra migrate from Shrihatta to Navadvipa",
+  "period": "P01",
+  "order": 8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Джаянанда, Надия-кханда, разд. 2: голод и мор в Шрихатте.",
+  "entries": [
+   "jcm-0012"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -402,9 +468,11 @@
   ],
   "notes": "Мурари 1.02.1–4: Шачи — дочь Ниламбары Чакраварти; гуру даёт Джаганнатхе звание «Мишра Пурандара».",
   "entries": [
+   "jcm-0011",
    "mkc-0004"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -421,10 +489,31 @@
   ],
   "notes": "Мурари 1.02.5–10.",
   "entries": [
+   "jcm-0015",
    "mkc-0005"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-gauda-king-persecutes-navadvipa",
+  "title": "Гонения владыки Гауды на брахманов Навадвипы и восстановление Надии",
+  "title_en": "The Gauda king persecutes the brahmanas of Navadvipa, and Nadia is restored",
+  "period": "P01",
+  "order": 25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "muslims"
+  ],
+  "notes": "Джаянанда, Надия-кханда, разд. 4 (до явления Господа).",
+  "entries": [
+   "jcm-0016"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -512,7 +601,7 @@
    0
   ],
   "date_conf": "точно",
-  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
   "themes": [
@@ -522,10 +611,14 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "ccd-0005",
+   "jcm-0018",
    "lcm-0035",
    "mkc-0016"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -615,10 +708,12 @@
    1
   ],
   "entries": [
+   "jcm-0020",
    "lcm-0037",
    "mkc-0020"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -647,10 +742,12 @@
    1
   ],
   "entries": [
+   "jcm-0019",
    "lcm-0038",
    "mkc-0019"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -709,9 +806,11 @@
    1
   ],
   "entries": [
+   "jcm-0021",
    "lcm-0040"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -865,10 +964,12 @@
    5
   ],
   "entries": [
+   "jcm-0022",
    "lcm-0044",
    "mkc-0024"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -934,6 +1035,35 @@
   ]
  },
  {
+  "id": "ev-boy-gauranga-beauty",
+  "title": "Красота отрока Гауранги; Шачи боится за сына",
+  "title_en": "The beauty of the boy Gauranga; Shachi fears for her son",
+  "period": "P03",
+  "order": 45,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Джаянанда, Надия-кханда, разд. 18.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "jcm-0024"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
   "id": "ev-brick-two-coconuts",
   "title": "Кирпич, брошенный в мать, и два кокоса",
   "title_en": "The brick thrown at His mother and the two coconuts",
@@ -958,10 +1088,12 @@
    5
   ],
   "entries": [
+   "jcm-0023",
    "lcm-0046",
    "mkc-0025"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1050,10 +1182,12 @@
    5
   ],
   "entries": [
+   "jcm-0025",
    "lcm-0049",
    "lcm-0050"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -1121,6 +1255,35 @@
   ]
  },
  {
+  "id": "ev-childhood-companions",
+  "title": "Товарищи детских игр Господа",
+  "title_en": "The Lord's childhood playmates",
+  "period": "P03",
+  "order": 92,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks"
+  ],
+  "notes": "Джаянанда (по цитатам): Шриваса с братьями, Мукунда, Мурари и другие — товарищи детства.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "jcm-0031"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
   "id": "ev-child-kirtan",
   "title": "Детский киртан Нимая",
   "title_en": "Nimai's childhood kirtana",
@@ -1176,12 +1339,16 @@
    10
   ],
   "entries": [
+   "ccd-0009",
+   "jcm-0028",
    "lcm-0055",
    "mkc-0027",
    "lcm-0056",
    "mkc-0028"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1240,9 +1407,11 @@
    10
   ],
   "entries": [
+   "jcm-0026",
    "lcm-0058"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -1336,9 +1505,11 @@
    10
   ],
   "entries": [
+   "jcm-0029",
    "lcm-0061"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -1433,12 +1604,43 @@
    10
   ],
   "entries": [
+   "jcm-0030",
    "lcm-0065",
    "mkc-0033"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-gadadhara-jagadananda-in-lords-house",
+  "title": "Шачи приводит в дом Гададхару и Джагадананду",
+  "title_en": "Shachi brings Gadadhara and Jagadananda into the house",
+  "period": "P04",
+  "order": 65,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Джаянанда, Надия-кханда (в т. ч. разд. 29).",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "jcm-0032"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -1465,10 +1667,12 @@
    10
   ],
   "entries": [
+   "jcm-0027",
    "lcm-0066",
    "mkc-0034"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1496,10 +1700,12 @@
    22
   ],
   "entries": [
+   "jcm-0039",
    "lcm-0067",
    "mkc-0035"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1527,12 +1733,14 @@
    22
   ],
   "entries": [
+   "jcm-0040",
    "lcm-0068",
    "mkc-0036",
    "lcm-0069",
    "mkc-0037"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1561,6 +1769,7 @@
    22
   ],
   "entries": [
+   "jcm-0041",
    "lcm-0070",
    "mkc-0038",
    "lcm-0071",
@@ -1575,8 +1784,39 @@
    "mkc-0042"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-lakshmi-feast-vaishnavas",
+  "title": "Лакшмиприя служит свекрови и готовит пир для вайшнавов",
+  "title_en": "Lakshmipriya serves her mother-in-law and cooks a feast for the Vaishnavas",
+  "period": "P05",
+  "order": 50,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "prasada"
+  ],
+  "notes": "Джаянанда, Надия-кханда, разд. 55.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "jcm-0042"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -1664,11 +1904,13 @@
    22
   ],
   "entries": [
+   "jcm-0043",
    "lcm-0079",
    "mkc-0043",
    "lcm-0080"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1700,10 +1942,14 @@
   "entries": [
    "lcm-0081",
    "mkc-0044",
+   "ccd-0008",
+   "jcm-0044",
    "lcm-0082",
    "mkc-0045"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1733,10 +1979,12 @@
    22
   ],
   "entries": [
+   "jcm-0045",
    "lcm-0083",
    "mkc-0046"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1838,10 +2086,12 @@
    23
   ],
   "entries": [
+   "jcm-0033",
    "lcm-0090",
    "mkc-0054"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1935,10 +2185,14 @@
    23
   ],
   "entries": [
+   "ccd-0011",
+   "jcm-0034",
    "lcm-0093",
    "mkc-0057"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2009,6 +2263,35 @@
   ]
  },
  {
+  "id": "ev-gaya-ascetic-samadhi",
+  "title": "Белый от подвижничества отшельник выходит из самадхи при виде Гауранги",
+  "title_en": "An ascetic white with austerity breaks his samadhi on seeing Gauranga",
+  "period": "P06",
+  "order": 55,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Джаянанда (по цитатам); контекст — путь в Гаю или из Гаи.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "jcm-0036"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
   "id": "ev-gaya-heavenly-voice-return",
   "title": "Небесный голос в Гае; возвращение в Навадвипу",
   "title_en": "The heavenly voice in Gaya; return to Navadvipa",
@@ -2032,10 +2315,12 @@
    23
   ],
   "entries": [
+   "jcm-0035",
    "lcm-0095",
    "mkc-0061"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2064,12 +2349,43 @@
    24
   ],
   "entries": [
+   "jcm-0037",
    "lcm-0097",
    "mkc-0064"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-chhakari-worship",
+  "title": "Чхакари и Чандракала почитают Гаурачандру",
+  "title_en": "Chhakari and Chandrakala worship Gaurachandra",
+  "period": "P07",
+  "order": 12,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Джаянанда (по цитатам).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "jcm-0038"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -2164,6 +2480,35 @@
   ],
   "sources": [
    "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-prema-on-street",
+  "title": "Господь падает в преме на улице, услышав имя от студентов",
+  "title_en": "The Lord falls in prema on the street on hearing the Name from students",
+  "period": "P07",
+  "order": 45,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy"
+  ],
+  "notes": "Карнапура, ЧЧд акт 2 (рассказ Бхакти-деви).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0025"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -2351,11 +2696,13 @@
    24
   ],
   "entries": [
+   "ccd-0018",
    "lcm-0106",
    "mkc-0072",
    "mkc-0075"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2545,10 +2892,12 @@
    24
   ],
   "entries": [
+   "ccd-0017",
    "lcm-0112",
    "mkc-0078"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2577,10 +2926,12 @@
    24
   ],
   "entries": [
+   "ccd-0016",
    "lcm-0113",
    "mkc-0079"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2769,14 +3120,46 @@
    24
   ],
   "entries": [
+   "ccd-0028",
    "lcm-0119",
    "mkc-0085",
    "mkc-0086",
    "lcm-0120"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-advaita-sees-krishna-form",
+  "title": "Адвайта созерцает в сердце облик Кришны",
+  "title_en": "Advaita beholds Krishna's form in his heart",
+  "period": "P07",
+  "order": 98.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "krishna-lila"
+  ],
+  "notes": "Карнапура, ЧЧд акт 2 («Лицезрение всех аватар»): по просьбе Шривасы Господь являет Адвайте Свой облик в его сердце.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0029"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -2899,6 +3282,7 @@
    24
   ],
   "entries": [
+   "jcm-0046",
    "lcm-0124",
    "mkc-0091",
    "mkc-0092",
@@ -2906,6 +3290,7 @@
    "lcm-0125"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2966,10 +3351,12 @@
    24
   ],
   "entries": [
+   "ccd-0024",
    "lcm-0127",
    "mkc-0095"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3069,6 +3456,37 @@
   ]
  },
  {
+  "id": "ev-viraga-meets-bhakti",
+  "title": "Вирага встречает Бхакти-деви (аллегория)",
+  "title_en": "Viraga meets Bhakti-devi (allegory)",
+  "period": "P07",
+  "order": 112.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "notes": "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 2): Отрешённость, скитаясь по охваченной Кали земле, узнаёт от Бхакти-деви о деяниях Гауры в Навадвипе.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0021",
+   "ccd-0027"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
   "id": "ev-advaita-worships-lord-shrivasa",
   "title": "Адвайта поклоняется Господу в доме Шривасы",
   "title_en": "Advaita worships the Lord at Shrivasa's house",
@@ -3101,6 +3519,37 @@
   ]
  },
  {
+  "id": "ev-muslim-tailor",
+  "title": "Портной-мусульманин в доме Шривасы видит Господа",
+  "title_en": "The Muslim tailor at Srivasa's house sees the Lord",
+  "period": "P07",
+  "order": 113.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "muslims",
+   "revelation"
+  ],
+  "notes": "Карнапура, ЧЧд акт 2; ср. ЧБ Мадхья-кханда (портной-мусульманин, шивший одежду для Шривасы).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0022"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
   "id": "ev-haridasa-arrives",
   "title": "Приход Харидаса; Господь чтит его",
   "title_en": "Haridasa arrives; the Lord honours him",
@@ -3125,10 +3574,12 @@
    24
   ],
   "entries": [
+   "jcm-0048",
    "lcm-0132",
    "mkc-0100"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3379,10 +3830,14 @@
    24
   ],
   "entries": [
+   "ccd-0012",
+   "jcm-0047",
    "lcm-0139",
    "lcm-0140"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -3516,6 +3971,38 @@
   ]
  },
  {
+  "id": "ev-kali-adharma-dismay",
+  "title": "Кали и Адхарма страшатся явления Господа (аллегория)",
+  "title_en": "Kali and Adharma dismayed by the Lord's advent (allegory)",
+  "period": "P07",
+  "order": 126.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "notes": "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 1): олицетворённые Кали и Адхарма обсуждают явление Господа и видят махапракашу в доме Шривасы.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0004",
+   "ccd-0007",
+   "ccd-0010"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
   "id": "ev-murari-sudama-verse-abhisheka",
   "title": "Мурари и шлока Судамы; омовение Господа",
   "title_en": "Murari and Sudama's verse; the Lord's ablution",
@@ -3539,12 +4026,47 @@
    24
   ],
   "entries": [
+   "ccd-0013",
+   "ccd-0014",
+   "ccd-0020",
    "lcm-0145",
    "mkc-0110"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-shachi-vaishnava-aparadha",
+  "title": "Оскорбление Шачи перед преданными и его прощение",
+  "title_en": "Shachi's offence to the devotees and its forgiveness",
+  "period": "P07",
+  "order": 127.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "family",
+   "mercy"
+  ],
+  "notes": "Карнапура, ЧЧд акт 1 (оскорбление Шривасы и других); ср. ЧБ Мадхья 22 (оскорбление Адвайты).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0019"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -3603,11 +4125,15 @@
    24
   ],
   "entries": [
+   "ccd-0026",
    "lcm-0147",
    "mkc-0112",
-   "mkc-0113"
+   "mkc-0113",
+   "jcm-0089"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3670,12 +4196,14 @@
    24
   ],
   "entries": [
+   "ccd-0023",
    "lcm-0149",
    "mkc-0115",
    "mkc-0116",
    "lcm-0150"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3743,6 +4271,36 @@
   ]
  },
  {
+  "id": "ev-maitri-meets-prema-bhakti",
+  "title": "Майтри встречает Према-бхакти (аллегория)",
+  "title_en": "Maitri meets Prema-bhakti (allegory)",
+  "period": "P07",
+  "order": 134.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "notes": "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 3): родословная бхакти; Према-бхакти ведёт Майтри смотреть действо в доме Ачарьяратны.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "ccd-0030"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
   "id": "ev-chandrashekhara-drama",
   "title": "Действо в доме Чандрашекхары",
   "title_en": "The drama at Chandrashekhara's house",
@@ -3767,6 +4325,9 @@
    24
   ],
   "entries": [
+   "ccd-0031",
+   "ccd-0032",
+   "ccd-0033",
    "lcm-0153",
    "mkc-0118",
    "mkc-0119",
@@ -3776,6 +4337,7 @@
    "lcm-0155"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3843,6 +4405,38 @@
   "sources": [
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-lord-preaches-vanity-of-world",
+  "title": "Господь в экстазе проповедует тщету мира",
+  "title_en": "The Lord in ecstasy preaches the vanity of the world",
+  "period": "P07",
+  "order": 139.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "ecstasy",
+   "sannyasa"
+  ],
+  "notes": "Джаянанда, Вайрагья-кханда (начало).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "jcm-0050",
+   "jcm-0054"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -3934,12 +4528,14 @@
    24
   ],
   "entries": [
+   "jcm-0052",
    "lcm-0160",
    "mkc-0126",
    "lcm-0161",
    "lcm-0169"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3969,6 +4565,8 @@
    24
   ],
   "entries": [
+   "ccd-0034",
+   "jcm-0056",
    "lcm-0162",
    "lcm-0163",
    "lcm-0164",
@@ -3977,7 +4575,40 @@
    "lcm-0167"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-tells-dhruva-story",
+  "title": "Господь рассказывает Шачи повесть о Дхруве",
+  "title_en": "The Lord tells Shachi the story of Dhruva",
+  "period": "P07",
+  "order": 144.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "family",
+   "sannyasa"
+  ],
+  "notes": "Джаянанда, Вайрагья-кханда («Дхрува-чаритра» в списках ходила отдельно).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "jcm-0053"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -4005,9 +4636,11 @@
    24
   ],
   "entries": [
+   "jcm-0057",
    "lcm-0168"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -4067,9 +4700,11 @@
    24
   ],
   "entries": [
+   "jcm-0055",
    "lcm-0171"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -4097,10 +4732,14 @@
   ],
   "notes": "Мурари 3.1.6–7.",
   "entries": [
+   "ccd-0035",
+   "jcm-0062",
    "lcm-0172",
    "mkc-0130"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4129,10 +4768,12 @@
    24
   ],
   "entries": [
+   "ccd-0036",
    "lcm-0173",
    "mkc-0131"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4161,9 +4802,11 @@
    24
   ],
   "entries": [
+   "jcm-0058",
    "lcm-0174"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
   ]
  },
@@ -4193,6 +4836,9 @@
   ],
   "notes": "Мурари 2.18.31–33, 3.1.10–3.3.1.",
   "entries": [
+   "ccd-0038",
+   "jcm-0061",
+   "jcm-0063",
    "lcm-0175",
    "mkc-0128",
    "lcm-0176",
@@ -4212,6 +4858,8 @@
    "lcm-0184"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4240,11 +4888,13 @@
    24
   ],
   "entries": [
+   "ccd-0039",
    "lcm-0185",
    "mkc-0139",
    "mkc-0141"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4272,11 +4922,13 @@
    24
   ],
   "entries": [
+   "jcm-0065",
    "lcm-0186",
    "mkc-0140",
    "mkc-0142"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4306,11 +4958,15 @@
   ],
   "entries": [
    "mkc-0132",
+   "ccd-0037",
+   "jcm-0064",
    "lcm-0187",
    "mkc-0143",
    "lcm-0188"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4403,11 +5059,16 @@
    24
   ],
   "entries": [
+   "ccd-0040",
+   "ccd-0041",
+   "jcm-0066",
    "lcm-0191",
    "mkc-0145",
    "lcm-0192"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4437,6 +5098,7 @@
    24
   ],
   "entries": [
+   "ccd-0042",
    "lcm-0193",
    "mkc-0146",
    "lcm-0194",
@@ -4445,6 +5107,7 @@
    "lcm-0196"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4504,10 +5167,14 @@
    24
   ],
   "entries": [
+   "ccd-0043",
+   "jcm-0067",
    "lcm-0197",
    "mkc-0149"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4569,10 +5236,12 @@
    24
   ],
   "entries": [
+   "ccd-0046",
    "lcm-0200",
    "mkc-0151"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4603,10 +5272,12 @@
   ],
   "entries": [
    "mkc-0152",
+   "ccd-0044",
    "lcm-0201",
    "mkc-0153"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4635,11 +5306,13 @@
    24
   ],
   "entries": [
+   "jcm-0068",
    "lcm-0202",
    "mkc-0154",
    "mkc-0156"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4678,6 +5351,36 @@
   ]
  },
  {
+  "id": "ev-sakshi-gopala",
+  "title": "Даршан Сакши-гопалы",
+  "title_en": "Darshan of Sakshi-gopala",
+  "period": "P09",
+  "order": 85,
+  "cc": "Мадхья 5",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage"
+  ],
+  "notes": "По Карнапуре (ЧЧд акт 6) — в Катаке, куда Божество перенёс царь Пурушоттама-дева; Господь слагает стих о лотосной стопе.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "ccd-0045"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
   "id": "ev-ekamra-bhubaneshvara",
   "title": "Экамра (Бхуванешвара): Господь чтит Шиву",
   "title_en": "Ekamra (Bhubaneshvara): the Lord honours Shiva",
@@ -4702,6 +5405,7 @@
    24
   ],
   "entries": [
+   "jcm-0069",
    "lcm-0204",
    "mkc-0157",
    "mkc-0158",
@@ -4711,6 +5415,7 @@
    "mkc-0160"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4740,12 +5445,14 @@
    24
   ],
   "entries": [
+   "ccd-0047",
    "lcm-0207",
    "mkc-0161",
    "lcm-0208",
    "mkc-0162"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4775,12 +5482,15 @@
    24
   ],
   "entries": [
+   "ccd-0048",
+   "ccd-0050",
    "lcm-0209",
    "mkc-0163",
    "lcm-0212",
    "mkc-0165"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4808,10 +5518,12 @@
    24
   ],
   "entries": [
+   "ccd-0049",
    "lcm-0210",
    "mkc-0164"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4906,10 +5618,12 @@
   "entries": [
    "lcm-0214",
    "mkc-0167",
+   "ccd-0051",
    "lcm-0215",
    "mkc-0168"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4939,10 +5653,12 @@
    26
   ],
   "entries": [
+   "ccd-0052",
    "mkc-0169",
    "mkc-0170"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -5002,10 +5718,12 @@
    26
   ],
   "entries": [
+   "ccd-0053",
    "lcm-0217",
    "mkc-0172"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5035,14 +5753,46 @@
    26
   ],
   "entries": [
+   "ccd-0054",
    "lcm-0218",
    "mkc-0173",
    "lcm-0219",
    "mkc-0174"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-south-conversions",
+  "title": "Жители и пандиты Юга становятся вайшнавами при виде Господа",
+  "title_en": "The people and pandits of the South become Vaishnavas on seeing the Lord",
+  "period": "P11",
+  "order": 25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Карнапура, ЧЧд акт 7 (рассказ посла царя Карнаты Малла-бхатты); ср. ЧЧ Мадхья 7, 9.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "ccd-0056"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5070,12 +5820,46 @@
    26
   ],
   "entries": [
+   "ccd-0055",
    "lcm-0220",
-   "mkc-0175"
+   "mkc-0175",
+   "jcm-0074"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-rama-name-to-krishna-name",
+  "title": "Брахман, повторявший имя Рамы, начинает повторять имя Кришны",
+  "title_en": "The brahmana who chanted Rama begins to chant Krishna",
+  "period": "P11",
+  "order": 35,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "notes": "Карнапура, ЧЧд акт 7.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "ccd-0058"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5135,10 +5919,42 @@
    26
   ],
   "entries": [
+   "ccd-0059",
    "mkc-0177"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-bird-snatches-impure-food",
+  "title": "Нечистая пища под видом прасада: птица уносит её с руки Господа",
+  "title_en": "Impure food offered as prasada: a bird snatches it from the Lord's hand",
+  "period": "P11",
+  "order": 47,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "offense",
+   "prasada"
+  ],
+  "notes": "Карнапура, ЧЧд акт 7 (у Карнапуры — «еретики»; в ЧЧ — буддисты).",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "ccd-0057"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5297,12 +6113,44 @@
   ],
   "entries": [
    "mkc-0182",
+   "ccd-0060",
+   "ccd-0061",
    "lcm-0226",
    "mkc-0183"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-kashi-mishra-residence",
+  "title": "Господь поселяется в доме Каши Мишры; слуги Джаганнатхи",
+  "title_en": "The Lord settles in Kashi Mishra's house; the servants of Jagannatha",
+  "period": "P12",
+  "order": 2,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "jagannatha"
+  ],
+  "notes": "Карнапура, ЧЧд акт 8.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "ccd-0062"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5329,12 +6177,80 @@
    28
   ],
   "entries": [
+   "ccd-0063",
+   "ccd-0064",
+   "ccd-0065",
+   "ccd-0066",
    "lcm-0228",
    "mkc-0192"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-glory-of-vaishnavas-lion-gate",
+  "title": "Господь у Львиных ворот возвещает славу вайшнавов",
+  "title_en": "At the Lion Gate the Lord proclaims the glory of the Vaishnavas",
+  "period": "P12",
+  "order": 8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "jagannatha"
+  ],
+  "notes": "Джаянанда, Уткала-кханда, разд. 16.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "jcm-0071"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-narrates-jagannatha-glory",
+  "title": "Господь рассказывает Рамананде о величии Кшетры и явлении Джаганнатхи",
+  "title_en": "The Lord tells Ramananda of the glory of the Kshetra and the appearance of Jagannatha",
+  "period": "P12",
+  "order": 9,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "teaching"
+  ],
+  "notes": "Джаянанда, Пракаша-кханда: предания Пури (Нила-Мадхава, Индрадьюмна, Вишвакарма, баньян) в устах Господа.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "jcm-0076",
+   "jcm-0077",
+   "jcm-0078",
+   "jcm-0079"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
@@ -5362,11 +6278,14 @@
    28
   ],
   "entries": [
+   "ccd-0069",
+   "ccd-0070",
    "mkc-0235",
    "mkc-0236",
    "mkc-0238"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -5488,10 +6407,44 @@
    28
   ],
   "entries": [
-   "mkc-0241"
+   "mkc-0241",
+   "ccd-0093",
+   "ccd-0094"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-gundicha-marjana",
+  "title": "Уборка храма Гундичи",
+  "title_en": "The cleaning of the Gundicha temple",
+  "period": "P12",
+  "order": 65,
+  "cc": "Мадхья 12",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "kirtan",
+   "festival"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10. Ср. ev-cleaning-temple (Мурари 2.13).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "ccd-0095"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5520,10 +6473,44 @@
    28
   ],
   "entries": [
-   "mkc-0242"
+   "ccd-0071",
+   "mkc-0242",
+   "ccd-0096"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-hera-panchami",
+  "title": "Хера-панчами: гневный выезд богини Лакшми",
+  "title_en": "Hera-panchami: the angry procession of goddess Lakshmi",
+  "period": "P12",
+  "order": 75,
+  "cc": "Мадхья 14",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "krishna-lila"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10: беседа Господа, Сварупы и Шривасы о мане гопи и величии Лакшми.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "ccd-0097"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
   ]
  },
  {
@@ -5550,10 +6537,12 @@
    28
   ],
   "entries": [
+   "jcm-0083",
    "mkc-0243",
    "mkc-0245"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -5612,10 +6601,12 @@
    28
   ],
   "entries": [
+   "jcm-0093",
    "mkc-0247",
    "mkc-0251"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -5734,11 +6725,18 @@
    28
   ],
   "entries": [
+   "ccd-0067",
+   "ccd-0068",
+   "ccd-0072",
+   "jcm-0070",
+   "jcm-0075",
    "lcm-0248",
    "mkc-0233",
    "mkc-0234"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5749,6 +6747,12 @@
   "title_en": "The Lord announces His departure for Mathura (the journey through Gauda)",
   "period": "P13",
   "order": 2,
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Карнапура, «Чайтанья-чандродая», акт 9 (слова киннаров и Сарвабхаумы): после возвращения с Юга (1512) Господь, удерживаемый Раманандой, медлил два года",
   "cc": "Мадхья 16",
   "cb": "",
   "themes": [
@@ -5756,20 +6760,17 @@
    "pilgrimage"
   ],
   "notes": "Мурари 3.17.1–5.",
-  "years": [
-   1514,
-   1516
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
   "age": [
    28,
-   30
+   28
   ],
   "entries": [
+   "ccd-0076",
+   "ccd-0077",
    "mkc-0184"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -5830,9 +6831,11 @@
    30
   ],
   "entries": [
+   "jcm-0085",
    "mkc-0186"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -5891,9 +6894,11 @@
    30
   ],
   "entries": [
+   "jcm-0094",
    "mkc-0188"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -5983,9 +6988,11 @@
    30
   ],
   "entries": [
+   "ccd-0082",
    "mkc-0193"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -6047,9 +7054,11 @@
    30
   ],
   "entries": [
+   "ccd-0085",
    "mkc-0195"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -6110,9 +7119,13 @@
   ],
   "entries": [
    "lcm-0230",
+   "ccd-0084",
+   "jcm-0095",
    "mkc-0223"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6246,6 +7259,7 @@
    30
   ],
   "entries": [
+   "ccd-0083",
    "lcm-0235",
    "mkc-0204",
    "lcm-0237",
@@ -6267,6 +7281,7 @@
    "mkc-0220"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6428,9 +7443,11 @@
    30
   ],
   "entries": [
+   "ccd-0086",
    "mkc-0224"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
    "murari-kcc"
   ]
  },
@@ -6491,11 +7508,15 @@
    30
   ],
   "entries": [
+   "ccd-0080",
+   "jcm-0086",
    "lcm-0246",
    "mkc-0226",
    "mkc-0228"
   ],
   "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6620,9 +7641,11 @@
    30
   ],
   "entries": [
+   "jcm-0090",
    "mkc-0231"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -6681,9 +7704,11 @@
    47
   ],
   "entries": [
+   "jcm-0101",
    "mkc-0253"
   ],
   "sources": [
+   "jayananda-cm",
    "murari-kcc"
   ]
  },
@@ -6721,6 +7746,548 @@
   ]
  },
  {
+  "id": "ev-lord-warns-prataparudra-war",
+  "title": "Господь отговаривает Пратапарудру от войны с Гаудой",
+  "title_en": "The Lord dissuades Prataparudra from war with Gauda",
+  "period": "P12",
+  "order": 310,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "muslims"
+  ],
+  "notes": "Джаянанда, Виджая-кханда (цит. у Н. Васу).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "jcm-0082"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-yavana-governor-boat",
+  "title": "Мусульманский правитель пограничья становится преданным и даёт Господу лодку",
+  "title_en": "The Muslim frontier governor becomes a devotee and provides the Lord a boat",
+  "period": "P13",
+  "order": 3,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "muslims",
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "ccd-0078"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-jayananda-named",
+  "title": "Господь в Амаипуре у Субуддхи Мишры даёт имя Джаянанде",
+  "title_en": "At Amaipura, in Subuddhi Mishra's house, the Lord names Jayananda",
+  "period": "P13",
+  "order": 4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Джаянанда, Виджая-кханда: на пути из Пури в Гауду; маршрут через Бхадрак, Соро, Ремуну, Дантан, Джалешвару, Бардхаману.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "jcm-0084"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-gauda-journey-ganga-villages",
+  "title": "Путь по Ганге через Гауду: Панихати, Кумарахатта, дом Шивананды",
+  "title_en": "The journey along the Ganga through Gauda: Panihati, Kumarahatta, Shivananda's house",
+  "period": "P13",
+  "order": 7,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "mercy"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "ccd-0079"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-gauda-sultan-sees-crowds",
+  "title": "Владыка Гауды видит толпы, идущие за Господом",
+  "title_en": "The Sultan of Gauda sees the crowds following the Lord",
+  "period": "P13",
+  "order": 11,
+  "cc": "Мадхья 1",
+  "cb": "",
+  "themes": [
+   "muslims"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9: министр Кешава Васу объясняет султану, кто идёт; султан признаёт Господа Богом.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "ccd-0081",
+   "jcm-0087"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya",
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-varanasi-sannyasis",
+  "title": "Господь и санньяси Варанаси",
+  "title_en": "The Lord and the sannyasis of Varanasi",
+  "period": "P13",
+  "order": 187,
+  "cc": "Мадхья 25",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "teaching"
+  ],
+  "notes": "Джаянанда (Тиртха-кханда, краткое жизнеописание): Господь «посрамил санньяси-еретика»; старые санньяси уходят в Нилачалу.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "jcm-0080"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-achyutananda-keshava-bharati-dispute",
+  "title": "Малолетний Ачьютананда спорит с Адвайтой: Кешава Бхарати — не гуру Чайтаньи",
+  "title_en": "Young Achyutananda disputes with Advaita: Keshava Bharati is not Chaitanya's guru",
+  "period": "P13",
+  "order": 211,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Джаянанда, Виджая-кханда, разд. 5; ср. ЧЧ Ади 12.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "jcm-0088"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-srivasa-test-sannyasa",
+  "title": "Господь испытывает Шривасу: «Оставь всё и прими санньясу»",
+  "title_en": "The Lord tests Srivasa: \"Give up everything and take sannyasa\"",
+  "period": "P13",
+  "order": 213,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "notes": "Джаянанда, Виджая-кханда, разд. 5 (Кумарахатта); там же — слава Васудевы Датты.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "jcm-0091"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-raghava-shak-panihati",
+  "title": "Господь вкушает шак и рис Рагхавы Пандита в Панихати",
+  "title_en": "The Lord eats Raghava Pandita's shak and rice at Panihati",
+  "period": "P13",
+  "order": 214,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada"
+  ],
+  "notes": "Джаянанда, Виджая-кханда, разд. 5.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "jcm-0092"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-return-to-puri-from-vrindavana",
+  "title": "Возвращение Господа из Вриндавана в Пури",
+  "title_en": "The Lord's return from Vrindavana to Puri",
+  "period": "P13",
+  "order": 215,
+  "cc": "Мадхья 25",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "jagannatha"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9: из Варанаси Господь возвращается один; Его встречают Парамананда Пури и Сварупа.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "ccd-0087"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-gauda-devotees-yearly-visit",
+  "title": "Ежегодное паломничество преданных Гауды к Господу в Пури",
+  "title_en": "The yearly pilgrimage of the Gauda devotees to the Lord in Puri",
+  "period": "P14",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "kirtan",
+   "festival"
+  ],
+  "notes": "Карнапура, ЧЧд акты 9–10 (Шивананда Сена — опекун паломников); ср. ЧЧ Антья 10, 12.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0073",
+   "ccd-0092"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-shivananda-dog",
+  "title": "Собака Шивананды Сены получает милость Господа",
+  "title_en": "Shivananda Sena's dog receives the Lord's mercy",
+  "period": "P14",
+  "order": 10,
+  "cc": "Антья 1",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "prasada"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10 (у Карнапуры — «ещё до того, как Господь ходил в Матхуру»).",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0088"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-shivananda-toll-arrest",
+  "title": "Сборщик пошлины в Ремуне заковывает Шивананду; Господь является ему во сне",
+  "title_en": "The toll officer at Remuna fetters Shivananda; the Lord appears in his dream",
+  "period": "P14",
+  "order": 12,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0089"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-nakula-brahmachari",
+  "title": "Господь «входит» в Накулу Брахмачари; испытание Шивананды",
+  "title_en": "The Lord \"enters\" Nakula Brahmachari; Shivananda's test",
+  "period": "P14",
+  "order": 20,
+  "cc": "Антья 2",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "mercy"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9: милость «через сердце другого».",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0074"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-nrisimhananda-three-offerings",
+  "title": "Нрисимхананда подносит три угощения, и Господь вкушает все три",
+  "title_en": "Nrisimhananda offers three meals and the Lord eats all three",
+  "period": "P14",
+  "order": 21,
+  "calendar": "пауша",
+  "cc": "Антья 2",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "revelation"
+  ],
+  "notes": "Карнапура, ЧЧд акт 9 («явление от одной лишь мысли»); у Карнапуры — в год, когда Господь, удержанный Раманандой, не пошёл в Гауду (т. е. до 1514), в ЧЧ — в антья-лиле.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0075"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-raghunatha-dasa-joins-lord",
+  "title": "Рагхунатха Дас приходит к Господу в Пури",
+  "title_en": "Raghunatha Dasa comes to the Lord in Puri",
+  "period": "P14",
+  "order": 30,
+  "cc": "Антья 6",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "mercy"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10: человек Говардханы Даса идёт с Шиванандой разыскать Рагхунатху; хвала Рагхунатхе — ученику Ядунанданы, последователю Сварупы.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0090"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-sarvabhauma-to-varanasi",
+  "title": "Сарвабхаума самовольно уходит в Варанаси проповедовать учение Господа",
+  "title_en": "Sarvabhauma leaves for Varanasi on his own to spread the Lord's teaching",
+  "period": "P14",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Карнапура, ЧЧд акт 10.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "ccd-0091"
+  ],
+  "sources": [
+   "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-lord-prophesies-kali-age",
+  "title": "Господь предсказывает бедствия века Кали",
+  "title_en": "The Lord foretells the calamities of the Kali age",
+  "period": "P14",
+  "order": 50,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Джаянанда: Виджая-кханда, разд. 1 (Гададхаре в Нилачале); пророчества о храмах и лжевайшнавах — Вайрагья-кханда.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "jcm-0051",
+   "jcm-0081"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
   "id": "ev-lord-disappearance",
   "title": "Сокрытие Господа",
   "title_en": "The Lord's disappearance",
@@ -6746,10 +8313,103 @@
   ],
   "notes": "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано.",
   "entries": [
+   "jcm-0099",
+   "jcm-0100",
    "lcm-0250"
   ],
   "sources": [
+   "jayananda-cm",
    "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-marriage",
+  "title": "Женитьба Нитьянанды на Васудхе и Джахнаве; подвиги Его спутников",
+  "title_en": "Nityananda marries Vasudha and Jahnava; the feats of His associates",
+  "period": "P15",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "kirtan"
+  ],
+  "notes": "Джаянанда, Уттара-кханда (краткое жизнеописание у Н. Васу).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "jcm-0102"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-departure",
+  "title": "Уход Нитьянанды",
+  "title_en": "The departure of Nityananda",
+  "period": "P15",
+  "order": 30,
+  "calendar": "ашвина, тёмная половина, 8-й лунный день",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure"
+  ],
+  "notes": "Джаянанда, Уттара-кханда.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "jcm-0103"
+  ],
+  "sources": [
+   "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-advaita-departure",
+  "title": "Уход Адвайты Ачарьи",
+  "title_en": "The departure of Advaita Acharya",
+  "period": "P15",
+  "order": 40,
+  "calendar": "пауша, светлая половина, 13-й лунный день",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure"
+  ],
+  "notes": "Джаянанда, Уттара-кханда.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "jcm-0104"
+  ],
+  "sources": [
+   "jayananda-cm"
   ]
  },
  {
