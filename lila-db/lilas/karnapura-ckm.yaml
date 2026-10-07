@@ -3040,3 +3040,368 @@
   event: ev-ratha-yatra-gundicha
   verses:
     - {file: "karnapura-mahakavya/ru/17.md", from: "53", to: "66"}
+
+
+- id: kcm-0160
+  source: karnapura-ckm
+  ref: "Сарга 18, 1–6"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P12
+  order: 70
+  title: "Восемь дней в саду у Гундичи; обратное шествие"
+  summary: "Восемь дней Господь с преданными играет в саду у Гундичи, утоляя тоску по Вриндавану, а затем сопровождает обратное шествие Джаганнатхи к Синей горе."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 14.73–105"
+  divergence: "По ЧЧ Джаганнатха пребывает в Гундиче девять дней."
+  themes: [jagannatha, krishna-lila]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "1", to: "6"}
+
+- id: kcm-0161
+  source: karnapura-ckm
+  ref: "Сарга 18, 7–16"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P12
+  order: 30
+  title: "Водные игры в Нарендра-сарасе; Господь возлежит на Адвайте"
+  summary: "Господь играет с преданными в водах Нарендры — они окружают Его, как лепестки лотоса; Он дремлет, лёжа на Адвайте, плывущем по воде; затем Джаганнатха торжественно возвращается в храм."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#narendra-sarovara"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.18.9–25; ЧЧ Мадхья 14.76–91"
+  themes: [krishna-lila, festival]
+  event: ev-narendra-jala-keli
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "7", to: "16"}
+
+- id: kcm-0162
+  source: karnapura-ckm
+  ref: "Сарга 18, 17–45"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P14
+  order: 3
+  title: "Распорядок дня Господа в Пури"
+  summary: "Господь встаёт в последнюю стражу ночи, омывается, надевает алую одежду и с Говиндой и Сварупой Дамодарой созерцает Джаганнатху от первой службы до дхупы, со слезами и немигающими глазами; Адвайта и Господь почитают друг друга, Шриваса-«Нарада» кланяется Ему; по докладу Говинды Господь принимает посетителей, затем совершает полуденные обряды и трапезу."
+  persons: ["@mahaprabhu", "@govinda-servant", "@svarupa-damodara", "@advaita", "@srivasa", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 15.9–11"
+  themes: [jagannatha, kirtan]
+  event: ev-lord-daily-routine-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "17", to: "45"}
+
+- id: kcm-0163
+  source: karnapura-ckm
+  ref: "Сарга 18, 46–51"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P12
+  order: 72
+  title: "Двенадцать праздников; Господь в облике пастуха на празднике Макары"
+  summary: "Каждый год Господь радуется двенадцати праздникам Уткалы; на празднике Макары, по желанию приняв облик пастуха, Он несёт на коромысле топлёное масло и молоко и искусно крутит посох — подбрасывает, подбивает ногой, вертит под руками и коленями."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 15.17–25"
+  divergence: "В ЧЧ — на Нанда-махотсаве (после Джанмаштами), а не на Макаре."
+  themes: [festival, krishna-lila]
+  bhava: [sakha]
+  event: ev-gopa-vesha-dadhi-utsava
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "46", to: "51"}
+
+- id: kcm-0164
+  source: karnapura-ckm
+  ref: "Сарга 18, 52–59"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P14
+  order: 4
+  title: "Дола-ятра"
+  summary: "На празднике качелей Господь, расписанный алыми, белыми и куркумовыми порошками, пляшет перед качелями Говинды; оба Владыки — Говинда и сын Шачи, золотые, как гора, — то и дело взглядывают друг на друга."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  themes: [festival, jagannatha]
+  event: ev-dola-yatra-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "52", to: "59"}
+
+- id: kcm-0165
+  source: karnapura-ckm
+  ref: "Сарга 18, 60–63"
+  file: "karnapura-mahakavya/ru/18.md"
+  period: P14
+  order: 5
+  title: "Двадцать лет в Пури; Ратха-ятра каждый год"
+  summary: "Каждый год на Ратха-ятре Господь играет с пришедшими из Бенгалии и пляшет перед колесницей Баладевы, опоры мира; так двадцать лет Он блистает в Пурушоттаме, а за это время, желая увидеть Матхуру, уходит на берег Бхагиратхи."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1.17–21"
+  divergence: "У Карнапуры — «двадцать лет» в Пури; по ЧЧ — восемнадцать (из 24 лет после санньясы шесть ушло на странствия)."
+  themes: [jagannatha, kirtan]
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "karnapura-mahakavya/ru/18.md", from: "60", to: "63"}
+
+
+- id: kcm-0166
+  source: karnapura-ckm
+  ref: "Сарга 19, 1–12"
+  file: "karnapura-mahakavya/ru/19.md"
+  period: P13
+  order: 2
+  title: "Решение идти в Матхуру через Гауду; спутники; ткань для матери"
+  summary: "По окончании чатурмасьи Господь решает идти в Матхуру берегом Ганги; Рамананда в скорби говорит, что в Виджая-дашами, день ухода Господа, сам окажется в «десятом состоянии»; с Господом идут Говинда, Джагадананда, Дамодара Пандит и Парамананда Пури; берут махапрасад для вайшнавов Бенгалии, а освящённую ткань от Пратапарудры по совету Пури посылают матери."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@govinda-servant", "@jagadananda-pandita", "@damodara-pandita", "@paramananda-puri", "@prataparudra", "@shachi"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.17.1–5; ЧЧ Мадхья 16.4–8, 85–94"
+  themes: [departure, separation]
+  calendar: "после чатурмасьи; уход — в Виджая-дашами (ашвина)"
+  date_conf: вероятно
+  date_basis: "Махакавья 19.4–5; ЧЧ Мадхья 16.94"
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "karnapura-mahakavya/ru/19.md", from: "1", to: "12"}
+
+- id: kcm-0167
+  source: karnapura-ckm
+  ref: "Сарга 19, 13–19"
+  file: "karnapura-mahakavya/ru/19.md"
+  period: P13
+  order: 2.5
+  title: "Дамодара опаздывает: Господь бьёт его книжкой песен"
+  summary: "Накануне ухода Господь зовёт Дамодару петь с Ним по пути к первой службе Джаганнатхи; тот опаздывает, Господь ждёт его у Львиных врат и, увидев, «Океан любви», в любовном гневе бьёт его по спине книжкой песен."
+  persons: ["@mahaprabhu", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гнев Господа — проявление любви к близкому слуге («из любви», ст. 19)."
+  themes: [pranks, jagannatha]
+  event: ev-damodara-late-gita-pustika
+  verses:
+    - {file: "karnapura-mahakavya/ru/19.md", from: "13", to: "19"}
+
+- id: kcm-0168
+  source: karnapura-ckm
+  ref: "Сарга 19, 20–34"
+  file: "karnapura-mahakavya/ru/19.md"
+  period: P13
+  order: 2
+  title: "Прощание с Джаганнатхой и Пури"
+  summary: "Увидев Джаганнатху и вознеся Ему хвалы, Господь выступает в путь, отпускает провожающих во главе с Каши Мишрой; Рамананда в паланкине следует за Ним."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@kashi-mishra", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.95–98"
+  themes: [departure, separation, jagannatha]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "karnapura-mahakavya/ru/19.md", from: "20", to: "34"}
+
+- id: kcm-0169
+  source: karnapura-ckm
+  ref: "Сарга 19, 35–80"
+  file: "karnapura-mahakavya/ru/19.md"
+  period: P13
+  order: 2
+  title: "Путь до Катака: Бхуванешвара, дом Рамананды, Свапнешвара, дерево бакула"
+  summary: "Ванинатха присылает махапрасад; осенью Господь обнимает деревья, как деревья Вриндавана, видит Бхуванешвару, останавливается в новом доме, приготовленном Раманандой; в Катаке видит храм Гопинатхи (Сакши-Гопалы), обедает у брахмана Свапнешвары и отдыхает в саду под деревом бакула."
+  persons: ["@mahaprabhu", "@vaninatha-raya", "@ramananda-raya", "@sakshi-gopala"]
+  places: ["#bhubaneshvara", "#cuttack"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.98–102"
+  themes: [pilgrimage, krishna-lila]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "karnapura-mahakavya/ru/19.md", from: "35", to: "80"}
+
+- id: kcm-0170
+  source: karnapura-ckm
+  ref: "Сарга 19, 81–100"
+  file: "karnapura-mahakavya/ru/19.md"
+  period: P13
+  order: 2
+  title: "Пратапарудра в Катаке; переправа в Чатурдвару"
+  summary: "Пратапарудра приходит с четырёхчастным войском, падает к стопам Господа, плачет и катается по земле; он велит Мангарадже и Харичандане сопровождать Господа за Маханади и ставить памятные столбы; Господь ночует в Чатурдваре."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya"]
+  places: ["#cuttack"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.102–126"
+  themes: [mercy, departure]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "karnapura-mahakavya/ru/19.md", from: "81", to: "100"}
+
+
+- id: kcm-0171
+  source: karnapura-ckm
+  ref: "Сарга 20, 1–10"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 2
+  title: "Путь через Ориссу; Рамананда возвращается от Бхадры"
+  summary: "Господь отпускает царских министров; по письменным приказам царя для Него повсюду заранее строят жилища, толпы встречают Его кликами «Идёт!»; когда спрашивают, где Кришна-Чайтанья, Он и Парамананда Пури в шутку указывают друг на друга; у Бхадры Господь отпускает Рамананду, и тот в разлуке возвращается в Кшетру."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@ramananda-raya"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.151–156"
+  divergence: "По ЧЧ (Мадхья 16.153–155) Рамананда прощается с Господом в Ремуне; у Карнапуры — у Бхадры."
+  themes: [departure, pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "1", to: "10"}
+
+- id: kcm-0172
+  source: karnapura-ckm
+  ref: "Сарга 20, 11–19"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 7
+  title: "Гауда: у Рагхавы Пандита, Шривасы, Васудевы и Шивананды"
+  summary: "Достигнув Гауды и жаждая увидеть Гангу, Господь пять-шесть дней проводит в обители Рагхавы, затем приходит в дом Шривасы, где за два-три дня стекаются сотни тысяч людей; ночью Он тайно уплывает на лодке, бывает у Васудевы и Шивананды Сена, а Шриваса и другие в горе ищут Его."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@srivasa", "@vasudeva-datta", "@shivananda-sena"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.202–206"
+  themes: [pilgrimage, separation]
+  event: ev-gauda-journey-ganga-villages
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "11", to: "19"}
+
+- id: kcm-0173
+  source: karnapura-ckm
+  ref: "Сарга 20, 20–25"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 15
+  title: "Шантипур: встреча с Адвайтой и Шачи"
+  summary: "Плывя по Ганге с песнями имён, Господь приходит в деревню Адвайты; они обнимаются у дверей, приходит Шачи, мать трёх миров; шесть дней Господь вкушает пищу, приготовленную матерью, а Адвайта ежедневно угощает стекающиеся толпы."
+  persons: ["@mahaprabhu", "@advaita", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.18.15–21; ЧЧ Мадхья 16.210–212"
+  divergence: "По ЧЧ Господь бывает в Шантипуре дважды — до и после Рамакели и Канай-Натшалы (десять дней); у Карнапуры — один раз, до поворота назад."
+  themes: [family, mercy]
+  event: ev-shantipura-after-natashala
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "20", to: "25"}
+
+- id: kcm-0174
+  source: karnapura-ckm
+  ref: "Сарга 20, 26–30"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 8
+  title: "К западу от Навадвипы: толпы жителей Надии"
+  summary: "Господь приходит в место за Гангой, к западу от Навадвипы, и все жители Навадвипы — немые, хромые, слепые, старики, дети и женщины — стекаются к Нему; Он не раз скрывается от толп и через пять-шесть дней уходит дальше вместе с людьми."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.17.14–16; ЧЧ Мадхья 16.207–209"
+  notes: "По ЧЧ — дом Видья-Вачаспати и неделя в доме Мадхавы Даса (по преданию, в Кулии)."
+  themes: [mercy]
+  event: ev-vidya-vachaspati-house
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "26", to: "30"}
+
+- id: kcm-0175
+  source: karnapura-ckm
+  ref: "Сарга 20, 31–34"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 5
+  title: "Поворот с пути к Ямуне; возвращение в Пури"
+  summary: "В местности «Гопинатха» Господь, увидев кого-то, исполняется любви; томясь по берегам Калинди, Он уходит на запад, но, рассудив что-то в сердце, поворачивает назад и после долгой милости к жителям возвращается к Ниладри, побывав на берегу Ганги, где Он явился."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.18.12–14; ЧЧ Мадхья 16.211, 265–274"
+  notes: "Место «Гопинатха» (ст. 31) по нашим источникам не установить. По ЧЧ Господь поворачивает у Канай-Натшалы, вспомнив слова Санатаны, что с толпой во Вриндаван не ходят."
+  themes: [departure, pilgrimage]
+  event: ev-natashala-kanai-return
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "31", to: "34"}
+
+- id: kcm-0176
+  source: karnapura-ckm
+  ref: "Сарга 20, 35–37"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P13
+  order: 25
+  title: "Второй поход к Ямуне; Рамананда оставляет тело в разлуке"
+  summary: "Пробыв немного в Пури, Господь снова уходит к берегам Калинди, оставив всех в муке разлуки; Рамананда, истаявший от разлуки, оставляет жизнь; через некоторое время Господь возвращается к Чёрной горе, радуя людей."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.01.6–10; ЧЧ Мадхья 17"
+  notes: "Слова о Рамананде (ст. 36) — поэтическое выражение глубины его разлуки; вечный спутник Господа не подвластен мирской смерти."
+  divergence: "По ЧЧ второй поход во Вриндаван идёт через лес Джхарикханду, а Рамананда до конца остаётся с Господом в Пури (Антья 20); у Карнапуры Рамананда «оставил жизнь» от разлуки."
+  themes: [departure, separation]
+  event: ev-departure-for-vrindavana
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "35", to: "37"}
+
+- id: kcm-0177
+  source: karnapura-ckm
+  ref: "Сарга 20, 38–41"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P15
+  order: 10
+  title: "Итог: сорок семь лет игр; Господь уходит в Свою обитель"
+  summary: "Погрузив мир в океан любви, а затем в огонь разлуки, и связав Своих людей из разных стран взаимной любовью, Господь, приняв санньясу на двадцать четвёртом году, три года странствовав и двадцать лет пробыв в Пури, — после сорока семи лет игр на земле уходит в Свою обитель."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Уход Господа — сокрытие (возвращение в Свою обитель), а не смерть; как именно, Карнапура не описывает."
+  divergence: "По ЧЧ (Мадхья 1.15–21) — 24 года в Навадвипе, 6 лет странствий, 18 лет в Пури, всего 48 лет; у Карнапуры — 3 года странствий, 20 лет в Пури, 47 лет."
+  themes: [departure]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "38", to: "41"}
+
+- id: kcm-0178
+  source: karnapura-ckm
+  ref: "Сарга 20, 42–49"
+  file: "karnapura-mahakavya/ru/20.md"
+  period: P15
+  order: 12
+  title: "Заключение автора: источник — записи Мурари; дата завершения поэмы"
+  summary: "Поэт кланяется Мурари Гупте, знавшему игры Господа с детства, чьи записи стали основой поэмы; просит мудрых принять «Чайтанья-чандра-чаритамриту»; называет себя младшим сыном Шивананды Сена; герой поэмы — «стойко-возвышенный»; поэма завершена в 1464 г. Шака, в месяц Шучи (ашадха), в понедельник, во вторую титхи."
+  persons: ["@murari-gupta", "@shivananda-sena"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Важнейшее свидетельство о зависимости Махакавьи от «Кадачи» Мурари Гупты."
+  themes: [author]
+  calendar: "ашадха (Шучи), тёмная половина, 2-я титхи, понедельник"
+  years: [1542, 1542]
+  date_conf: точно
+  date_basis: "Махакавья 20.49 (хронограмма «Веды, расы, шрути, луна» = 1464 Шака)"
+  verses:
+    - {file: "karnapura-mahakavya/ru/20.md", from: "42", to: "49"}
