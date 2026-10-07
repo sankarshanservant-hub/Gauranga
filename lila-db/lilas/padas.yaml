@@ -9222,3 +9222,498 @@
   event: ev-marriage-vishnupriya
   verses:
     - {file: "padas/ru/21.md", from: "24.1", to: "24.4"}
+
+- id: pad-0464
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 100 (2.4, № 18) «গৌর রসিক-শেখরবর» = БР 12 (изд. 1912, с. 809–810; изд. 1960, ст. 1495–1498)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.921
+  title: "Свадебное шествие ко дому Санатаны Мишры; полубоги на свадьбе"
+  summary: "Гаура на паланкине, окружённый брахманами, едет на свадьбу; звучат инструменты четырёх родов; невидимые небесные танцовщицы и гандхарвы, Ананта, Брахма, Шива, Индра, Ганеша, Парвати ликуют; обойдя Надию, шествие подходит к дому Мишры."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@brahma", "@shiva", "@indra", "@ganesha", "@parvati"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-057. Вероятно Чакраварти: есть в БР. Сноски: Вишнуприя — Бху-шакти, обряды — лила; полубоги — слуги Господа."
+  themes: [festival, celestial, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "1.1", to: "1.4"}
+
+- id: pad-0465
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 100 (2.4, № 19) «গোরাচাঁদের বিবাহ দেখিবারে» = БР 12 (изд. 1912, с. 810; изд. 1960, ст. 1499–1502)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.922
+  title: "Жёны Надии наряжаются, чтобы увидеть вторую свадьбу"
+  summary: "Жёны знатных семей с великим желанием наряжаются — сурьма, косы с золотыми заколками, синдур, ожерелья, цветы, шёлковые сари — и идут на свадьбу; увидев Господа, шепчутся."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-058. Вероятно Чакраварти: есть в БР. Сноска: мотив горожанок — позиция традиции (не гаура-нагари)."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "2.1", to: "2.4"}
+
+- id: pad-0466
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 101 (2.4, № 20) «সই অই দেখ নদীয়ার চাঁদে» = БР 12 (изд. 1912, с. 810; изд. 1960, ст. 1503–1506)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.923
+  title: "Женщина любуется женихом: «Подруга, смотри — Луна Надии!»"
+  summary: "Женщина говорит подруге о красоте жениха: сотни Камадев падают к Его стопам; лицо, взгляд, улыбка; венец, кудри, жёлтая нить и дурва, золотое зеркало."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-059. Вероятно Чакраварти: есть в БР. Сноска: формула любовной лирики — о всепривлекающей красоте Господа. Следующая пада ГПТ (№ 21) — нагари-бхава, в раздел нагари-пад."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "3.1", to: "3.4"}
+
+- id: pad-0467
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 101 (2.4, № 22) «সনাতন মিশ্রের ভবনে» = БР 12 (изд. 1912, с. 811–812; изд. 1960, ст. 1511–1526)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.924
+  title: "Встреча жениха в доме Санатаны Мишры"
+  summary: "Санатана с роднёй выходит навстречу жениху; толпы народа, слепые, хромые и немощные спешат увидеть Гауру; горят сотни светильников; Мишра, обняв зятя, вводит Его в дом, осыпает цветами и совершает обряд встречи."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 146–147"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-061. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "4.1", to: "4.16"}
+
+- id: pad-0468
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 102 (2.4, № 23) «নদীয়ার শশী বিলসয়ে চারু» = БР 12 (изд. 1912, с. 812; изд. 1960, ст. 1527–1530)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.925
+  title: "Мать Вишнуприи встречает жениха под свадебным навесом"
+  summary: "Мать Вишнуприи под разными предлогами любуется женихом; с замужними женщинами возлагает Ему на голову рис и дурву, семь раз обходит Его со светильником и, уходя, не может отвести глаз."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан (порция 22), ст. 149–152"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-062. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "5.1", to: "5.4"}
+
+- id: pad-0469
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 102 (2.4, № 24) «সনাতন মিশ্রের ঘরণী» = БР 12 (изд. 1912, с. 812–813; изд. 1960, ст. 1531–1548)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.926
+  title: "Свадьба: обмен гирляндами, канья-дана, хома"
+  summary: "Вишнуприю наряжают и выносят под навес; она первой подносит гирлянду и отдаёт себя стопам Господа, Гаура надевает гирлянду ей на шею; Санатана совершает канья-дану и дарит приданое; хома."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 155–160"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-063. Вероятно Чакраварти: есть в БР. Сноска: Вишнуприя — вечная энергия Господа, её «самоотдача» — служение Ему."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "6.1", to: "6.18"}
+
+- id: pad-0470
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 103 (2.4, № 25) «দেখি পহুঁক বিবাহ মাধুরী» = БР 12 (изд. 1912, с. 813; изд. 1960, ст. 1549–1552)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.927
+  title: "Полубоги невидимо осыпают свадьбу цветами"
+  summary: "Шеша, Шива, Брахма, Индра, Ганапати и другие, запрудив небесный путь колесницами, невидимо осыпают свадьбу цветами и восхваляют удачу Санатаны."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra", "@shiva", "@brahma", "@indra", "@ganesha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-064. Вероятно Чакраварти: есть в БР."
+  themes: [celestial, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "7.1", to: "7.4"}
+
+- id: pad-0471
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 103 (2.4, № 26) «দেব-রমণীবৃন্দ বিরচি বেশ» = БР 12 (изд. 1912, с. 813–814; изд. 1960, ст. 1553–1556)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.928
+  title: "Небожительницы любуются свадьбой Гауры"
+  summary: "Наряженные небожительницы кружат по небу, считая глаза вознаграждёнными; полными глазами впивают облик Господа и Его возлюбленной и отдают за Них жизнь."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-065. Вероятно Чакраварти: есть в БР. Сноска: небожительницы приходят созерцать лилу и служить Господу."
+  themes: [celestial, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "8.1", to: "8.4"}
+
+- id: pad-0472
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 103 (2.4, № 27) «আহা মরি মরি সুরনারীগণ» = БР 12 (изд. 1912, с. 814; изд. 1960, ст. 1557–1560)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.929
+  title: "Небожительницы о Санатане, «отдавшем дочь Кришне»"
+  summary: "Небожительницы переговариваются: Санатана не помнит себя от счастья, отдав дочь Кришне; совершая хому, он не сводит глаз с лица зятя; жена Мишры словно обезумела от радости."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-287 (новая строка). Вероятно Чакраварти: есть в БР."
+  themes: [celestial, festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "9.1", to: "9.4"}
+
+- id: pad-0473
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 104 (2.4, № 28) «দেব দেবরমণী উল্লাসে» = БР 12 (изд. 1912, с. 814–815; изд. 1960, ст. 1561–1570)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.930
+  title: "Боги беседуют о свадьбе; молодых ведут в брачный покой"
+  summary: "Боги и небожительницы тихо беседуют: счастливы жители Надии; брахманы сокрушаются, что не смогли отдать дочь такому жениху; Санатана завершает хому; Вишнуприю и Гауру ведут в брачный покой."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-066. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family, celestial]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "10.1", to: "10.10"}
+
+- id: pad-0474
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 104 (2.4, № 29) «নদীয়া-বিনোদ গোরা» = БР 12 (изд. 1912, с. 815; изд. 1960, ст. 1571–1574)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.931
+  title: "Брачный покой: женщины угощают и умащают жениха"
+  summary: "Жёны знатных семей усаживают Вишвамбхару и Вишнуприю в брачном покое; одна умащает Гауру сандалом, другая ставит шкатулку с бетелем, третья шутит, иная подносит цветы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-288 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: свадебные шутки в брачном покое — не нагари-бхава; позиция традиции."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "11.1", to: "11.4"}
+
+- id: pad-0475
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 104 (2.4, № 30) «বাসর ঘরেতে গোরারায়। রূপে কোটি মদন মাতায়» = БР 12 (изд. 1912, с. 815–816; изд. 1960, ст. 1575–1582)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.932
+  title: "Брачный покой: женщины любуются Гаурой"
+  summary: "В брачном покое красота Гауры опьяняет миллионы Камадев; женщины не сводят глаз с Его лица, шепчутся, трепещут; одна отдаёт жизнь к Его стопам; поэт жаждет увидеть эти игры."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-289 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: мотив горожанок — позиция традиции."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "12.1", to: "12.8"}
+
+- id: pad-0476
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 105 (2.4, № 31) «বাসর ঘরেতে গোরারায়। বিষ্ণুপ্রিয়া সহ» = БР 12 (изд. 1912, с. 816; изд. 1960, ст. 1583–1594)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.933
+  title: "Утро после свадьбы: кушандика и прощание с Санатаной"
+  summary: "Ночь в брачном покое; на рассвете Господь совершает кушандику и просит отпустить Его домой; Санатана вручает Ему дочь; Господь кланяется старшим, Его благословляют рисом и дурвой."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 166–174"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-067. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "13.1", to: "13.12"}
+
+- id: pad-0477
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 105 (2.4, № 32) «বরজ-ভূষণ গৌর-বিধুবর» = БР 12 (изд. 1912, с. 816–817; изд. 1960, ст. 1595–1598)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.934
+  title: "Возвращение с Вишнуприей: «Лакшми и Владыка Лакшми»"
+  summary: "Гаура с возлюбленной едет на паланкине домой; люди говорят: «Это Лакшми и Владыка Лакшми»; музыка, пляски, пение; в сумерки, помедлив на берегу Ганги, Он приходит домой."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-068. Вероятно Чакраварти: есть в БР. Сноска: узнавание Лакшми и Нараяны в молодых."
+  themes: [festival, family, revelation]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "14.1", to: "14.4"}
+
+- id: pad-0478
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 106 (2.4, № 33) «গোরাচাঁদ বিবাহ করিয়া» = БР 12 (изд. 1912, с. 817–818; изд. 1960, ст. 1599–1610)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.935
+  title: "Шачи встречает сына и невестку"
+  summary: "Невидимые боги осыпают путь цветами; Шачи, вне себя от радости, обводит молодых дарами, целует сына и вводит их в дом; Вишвамбхара с Вишнуприей садятся на трон."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 175–178"
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-069. Вероятно Чакраварти: есть в БР. В БР двумя двустишиями больше (Шачи ждёт у дома)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "15.1", to: "15.10"}
+
+- id: pad-0479
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 106 (2.4, № 34) «গোরা গুণমণি সুঘড়-শেখর» = БР 12 (изд. 1912, с. 818; изд. 1960, ст. 1611–1614)"
+  file: "padas/ru/22.md"
+  period: P05
+  order: 100.936
+  title: "Господь одаряет и отпускает гостей свадьбы"
+  summary: "Гаура одаряет бхатов, плясунов, певцов, музыкантов, нищих и брахманов одеждами, украшениями, богатством; все расходятся, воспевая Его славу; Шачи чтит женщин."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-070. Вероятно Чакраварти: есть в БР. Далее в ГПТ № 35–38 — отрывок ЧМ Лочана, № 39–40 — Вриндаван Дас (вне состава)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/22.md", from: "16.1", to: "16.4"}
+
+- id: pad-0480
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 343 (5.2, № 1) «জাগহ জন-মন-চোর চতুরবর» = ГЧЧ (кирана 2, пада 23)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.581
+  title: "Пробуждение Гауры: «Ты, дорожащий санкиртаной больше жизни»"
+  summary: "Песнь пробуждения на исходе ночи: «Пробудись, драгоценность сердца Радхи! Ты, не находящий вкуса в еде и сне, слушая о лилах Враджа, и дорожащий санкиртаной больше жизни, — что за сон Тобой овладел?»"
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-171. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноски: аштакалия — вечная лила; сон Господа — погружённость в лилы Враджа; Гаура — Кришна в бхаве Радхи (ЧЧ Ади 1.5)."
+  themes: [ecstasy, kirtan]
+  bhava: [radha]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "17.1", to: "17.4"}
+
+- id: pad-0481
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 343 (5.2, № 2) «উঠ উঠ আজি একি অদ্ভুত ঘুম» = ГЧЧ (кирана 2, пада 22)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.582
+  title: "Пробуждение Гауры: шутливый упрёк «ленивцу»"
+  summary: "Будящий шутливо корит спящего Гауру: над Ним смеются; хорошо, что Гададхара, Нарахари и другие тоже спят и нет «прежних страхов» Враджа; если станет поздно, пусть не винит Нарахари."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-172. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: намёк на нишанта-лилу Враджа; Гададхара — Радха, Нарахари — Мадхумати (ГГД)."
+  themes: [ecstasy, krishna-lila]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "18.1", to: "18.4"}
+
+- id: pad-0482
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 344 (5.2, № 3) «শুন শুন ওহে কিছু না বুঝিয়ে» = ГЧЧ (кирана 3, пада 8)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.583
+  title: "У ложа спящего Гауры: Гададхара растирает Его стопы"
+  summary: "Ночь прошла, а Гаура спит; Гададхара сидит у стоп и растирает их, Нарахари шепчет ему на ухо, иные дремлют, опьянённые Гаура-расой, кто-то настаивает, чтобы Господа разбудили."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-173. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
+  themes: [ecstasy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "19.1", to: "19.4"}
+
+- id: pad-0483
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 344 (5.2, № 4) «জাগ জাগ ওহে গৌরশশী» = ГЧЧ (кирана 2, пада 20)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.584
+  title: "Пробуждение Гауры: спутники ждут во дворе, как чакоры"
+  summary: "Спутники, покинув дома, собрались во дворе, как чакоры без луны; Гауру просят встать, показаться, сказать слово и обнять их."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-174. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
+  themes: [ecstasy, mercy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "20.1", to: "20.4"}
+
+- id: pad-0484
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 344 (5.2, № 5) «পোহাইল নিশি পাইল পরাণ» = ГЧЧ (кирана 2, пада 21)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.585
+  title: "Пробуждение Гауры: «Нимай-пандит всё спит!»"
+  summary: "Все спешат к Гауре; брахманы, идущие к Ганге, смеются, что Нимай-пандит всё спит; будящий просит Его встать и совершить утренние обряды."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-290 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
+  themes: [ecstasy, pranks]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "21.1", to: "21.4"}
+
+- id: pad-0485
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 345 (5.2, № 6) «জাগহ জগজীবন নব নদীয়াপুরচাঁদ হে» = ГЧЧ (кирана 2, пада 16)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.586
+  title: "Гимн пробуждения: «Пробудись, Жизнь мира, новая Луна Надии!»"
+  summary: "Торжественный гимн пробуждения с чередой эпитетов Гауры: благой царь-Камадева, корень расы, золотой лотос в сердцах преданных, Царь танцоров, Тот, Чьи стопы почитают боги."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-291 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
+  themes: [ecstasy, revelation]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "22.1", to: "22.5"}
+
+- id: pad-0486
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 345 (5.2, № 7) «তেজহ শয়ন গৌর গুণধাম» = ГЧЧ (кирана 2, пада 17)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.587
+  title: "Пробуждение Гауры: картины рассвета"
+  summary: "Луна побледнела, восток заалел, ночной лотос закрылся, пчёлы летят к дневному, чакравака соединилась с супругом — «оставь ложе, Гаура»."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-292 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
+  themes: [ecstasy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "23.1", to: "23.4"}
+
+- id: pad-0487
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 345 (5.2, № 8) «নিশিগত শশী দরপ দূরে» = ГЧЧ (кирана 2, пада 18)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.588
+  title: "Пробуждение Гауры: «не веришь — спроси Нарахари»"
+  summary: "Луна утратила гордость, звёзды спрятались, люди Надии проснулись — «оставь ложе, Гора; не веришь мне — спроси Нарахари»."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-175. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». В ГЧЧ поёт попугай, ссылаясь на Нарахари."
+  themes: [ecstasy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "24.1", to: "24.4"}
+
+- id: pad-0488
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 346 (5.2, № 9) «জাগ জাগ ওহে জীবন গোরা» = ГЧЧ (кирана 2, пада 19)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.589
+  title: "Пробуждение Гауры: «Скажи, что Ты делаешь ночью?»"
+  summary: "Соседи проснулись и посмеиваются; люди Надии бегут к дому Гауры; павлины не пляшут, пчёлы не жужжат, чакора плачет — «встань и выйди во двор»."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-293 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: шутливый упрёк любящего."
+  themes: [ecstasy, pranks]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "25.1", to: "25.4"}
+
+- id: pad-0489
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 346 (5.2, № 10) «আজু রজনীশেষ সময় সুখ-সমাজ সাজে» = ГЧЧ (кирана 2, пада 14)"
+  file: "padas/ru/22.md"
+  period: P07
+  order: 134.590
+  title: "Предрассветная Навадвипа: природа ликует"
+  summary: "На исходе ночи поют попугаи и кукушки, жужжат пчёлы, пляшут павлины, кричат лебеди и журавли, воркуют голуби; роса на траве — как слёзы радости: несравненна Надия на земле."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-294 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: Навадвипа-дхама не отлична от Вриндавана."
+  themes: [ecstasy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/22.md", from: "26.1", to: "26.4"}
