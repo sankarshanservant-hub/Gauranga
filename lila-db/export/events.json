@@ -1,1 +1,5331 @@
-[]
+[
+ {
+  "id": "ev-narada-kali-sorrow",
+  "title": "Скорбь Нарады о людях Кали-юги",
+  "title_en": "Narada's grief over the people of Kali-yuga",
+  "period": "P00",
+  "order": 10,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "Мурари 1.02–1.03.",
+  "entries": [
+   "lcm-0007"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-dvaraka-rukmini",
+  "title": "Нарада в Двараке: слёзы Рукмини и обет Кришны явиться Гаурой",
+  "title_en": "Narada in Dvaraka: Rukmini's tears and Krishna's vow to appear as Gaura",
+  "period": "P00",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation",
+   "krishna-lila"
+  ],
+  "notes": "Причина явления — желание Кришны познать любовь Радхи (ср. ЧЧ Ади 4). У Мурари (1.03) Нарада молит Господа о мире в Кали на Вайкунтхе.",
+  "entries": [
+   "lcm-0008",
+   "lcm-0009"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-uddhava-naimisharanya",
+  "title": "Нарада и Уддхава в Наймишаранье",
+  "title_en": "Narada and Uddhava in Naimisharanya",
+  "period": "P00",
+  "order": 22,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "notes": "По Лочану Дасу — из «Джаймини-бхараты».",
+  "entries": [
+   "lcm-0010"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-lakshmi-mahaprasada",
+  "title": "Нарада получает махапрасад от Лакшми",
+  "title_en": "Narada obtains mahaprasada from Lakshmi",
+  "period": "P00",
+  "order": 24,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "celestial"
+  ],
+  "notes": "Предание о махапрасаде (Пури).",
+  "entries": [
+   "lcm-0011",
+   "lcm-0012"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shiva-mahaprasada-dance",
+  "title": "Шива вкушает махапрасад и пляшет",
+  "title_en": "Shiva tastes mahaprasada and dances",
+  "period": "P00",
+  "order": 25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "celestial",
+   "ecstasy"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0013"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-parvati-mahaprasada-vow",
+  "title": "Обет Парвати раздать махапрасад всем",
+  "title_en": "Parvati's vow to distribute mahaprasada to all",
+  "period": "P00",
+  "order": 26,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "celestial"
+  ],
+  "notes": "Предание Пури: богиня Вимала первой получает махапрасад Джаганнатхи.",
+  "entries": [
+   "lcm-0014"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-kailasa-message",
+  "title": "Нарада возвещает на Кайласе нисхождение богов",
+  "title_en": "Narada announces on Kailasa the descent of the gods",
+  "period": "P00",
+  "order": 27,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0015"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-brahmaloka",
+  "title": "Нарада у Брахмы: весть о явлении Господа",
+  "title_en": "Narada with Brahma: the news of the Lord's advent",
+  "period": "P00",
+  "order": 28,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0016",
+   "lcm-0021"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-brahma-hamsa-bhagavata-origin",
+  "title": "Рассказ Брахмы: Хамса, четыре шлоки и происхождение «Бхагаваты»",
+  "title_en": "Brahma's account: Hamsa, the four verses and the origin of the Bhagavata",
+  "period": "P00",
+  "order": 29,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0017"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-brahma-yuga-avatara-discourse",
+  "title": "Брахма о юга-аватарах и золотом аватаре Кали",
+  "title_en": "Brahma on the yuga-avataras and the golden avatara of Kali",
+  "period": "P00",
+  "order": 30,
+  "cc": "Ади 3",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0018",
+   "lcm-0019",
+   "lcm-0020"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaura-advent-proclaimed",
+  "title": "Весть о явлении Гауры в трёх мирах",
+  "title_en": "The news of Gaura's advent spreads through the three worlds",
+  "period": "P00",
+  "order": 31,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0022"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-jagannatha-nilachala",
+  "title": "Нарада у Джаганнатхи в Нилачале",
+  "title_en": "Narada with Jagannatha in Nilachala",
+  "period": "P00",
+  "order": 32,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "revelation",
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0023"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-vaikuntha",
+  "title": "Нарада у Владыки Вайкунтхи",
+  "title_en": "Narada with the Lord of Vaikuntha",
+  "period": "P00",
+  "order": 33,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0024"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-goloka-gaura",
+  "title": "Нарада видит Гауру в Голоке",
+  "title_en": "Narada sees Gaura in Goloka",
+  "period": "P00",
+  "order": 34,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0025",
+   "lcm-0026"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaura-reveals-reasons-advent",
+  "title": "Господь открывает спутникам причины Своего явления",
+  "title_en": "The Lord reveals to His associates the reasons for His advent",
+  "period": "P00",
+  "order": 36,
+  "cc": "Ади 3–4",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "revelation"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0027"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-narada-shvetadvipa-balarama",
+  "title": "Нарада у Баларамы на Шветадвипе",
+  "title_en": "Narada with Balarama on Shvetadvipa",
+  "period": "P00",
+  "order": 37,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "",
+  "entries": [
+   "lcm-0028"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-associates-descend",
+  "title": "Нисхождение спутников Господа",
+  "title_en": "The descent of the Lord's associates",
+  "period": "P01",
+  "order": 5,
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "Мурари 1.04; отождествления — «Гаура-ганоддеша-дипика».",
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "lcm-0029"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-enters-shachi-womb",
+  "title": "Господь входит в лоно Шачи",
+  "title_en": "The Lord enters Shachi's womb",
+  "period": "P01",
+  "order": 50,
+  "years": [
+   1485,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "themes": [
+   "revelation",
+   "family"
+  ],
+  "notes": "Мурари 1.05.",
+  "entries": [
+   "lcm-0032"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-advaita-worships-shachi-womb",
+  "title": "Адвайта поклоняется лону Шачи",
+  "title_en": "Advaita worships Shachi's womb",
+  "period": "P01",
+  "order": 55,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Известно лишь Лочану Дасу (нет у Мурари, в ЧБ и ЧЧ).",
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "lcm-0033"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gods-praise-lord-in-womb",
+  "title": "Хвала богов Господу в лоне Шачи",
+  "title_en": "The gods praise the Lord in Shachi's womb",
+  "period": "P01",
+  "order": 60,
+  "cc": "",
+  "cb": "Ади 2",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "notes": "Мурари 1.05.",
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "lcm-0034"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaura-appearance",
+  "title": "Явление Шри Гауранги",
+  "title_en": "The appearance of Sri Gauranga",
+  "period": "P01",
+  "order": 70,
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "themes": [
+   "revelation",
+   "celestial",
+   "family"
+  ],
+  "notes": "Мурари 1.05.",
+  "entries": [
+   "lcm-0035"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-birth-festival-nimai-name",
+  "title": "Празднование рождения; имя Нимай",
+  "title_en": "Birth celebrations; the name Nimai",
+  "period": "P02",
+  "order": 5,
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "notes": "",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "lcm-0036"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-infant-with-shachi",
+  "title": "Младенец Нимай на руках у Шачи",
+  "title_en": "Baby Nimai in Shachi's arms",
+  "period": "P02",
+  "order": 10,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.06.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "lcm-0037"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-annaprashana-vishvambhara-name",
+  "title": "Первое кормление рисом; имя Вишвамбхара",
+  "title_en": "First feeding of rice; the name Vishvambhara",
+  "period": "P02",
+  "order": 20,
+  "cc": "Ади 14",
+  "cb": "Ади 4",
+  "themes": [
+   "festival",
+   "family"
+  ],
+  "notes": "Мурари 1.06.3 (имя даёт отец).",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "lcm-0038"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-first-steps",
+  "title": "Первые шаги Вишвамбхары",
+  "title_en": "Vishvambhara's first steps",
+  "period": "P02",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.06.7.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "lcm-0039"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shachi-lullaby",
+  "title": "Колыбельная Шачи",
+  "title_en": "Shachi's lullaby",
+  "period": "P02",
+  "order": 35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "lcm-0040"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gods-worship-infant-anklets",
+  "title": "Боги поклоняются младенцу; звон нупуров на босых ногах",
+  "title_en": "The gods worship the infant; anklet bells on bare feet",
+  "period": "P02",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation",
+   "family"
+  ],
+  "notes": "Мурари 1.06.32–35.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "lcm-0041"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-child-dust-broken-pots",
+  "title": "Детские шалости: игры в пыли и разбитые горшки",
+  "title_en": "Childhood pranks: playing in the dust and the broken pots",
+  "period": "P03",
+  "order": 10,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "notes": "Мурари 1.06.10–12.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0042"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-svastyayana-for-nimai",
+  "title": "Жертвоприношение ради блага Нимая",
+  "title_en": "A sacrifice for Nimai's welfare",
+  "period": "P03",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0043"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-discarded-pots-teaching",
+  "title": "Господь среди выброшенных горшков: наставление о чистом и нечистом",
+  "title_en": "The Lord among discarded pots: teaching on pure and impure",
+  "period": "P03",
+  "order": 30,
+  "cc": "Ади 14",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "pranks"
+  ],
+  "notes": "Мурари 1.06.13–18.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0044"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-play-with-vishvarupa",
+  "title": "Игры Вишвамбхары с Вишварупой",
+  "title_en": "Vishvambhara plays with Vishvarupa",
+  "period": "P03",
+  "order": 32,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "pranks"
+  ],
+  "notes": "Только изд. 1983 г. «Чайтанья-мангалы».",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0252"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nimai-pretends-deaf",
+  "title": "Нимай притворяется, что не слышит мать",
+  "title_en": "Nimai pretends not to hear His mother",
+  "period": "P03",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0045"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-brick-two-coconuts",
+  "title": "Кирпич, брошенный в мать, и два кокоса",
+  "title_en": "The brick thrown at His mother and the two coconuts",
+  "period": "P03",
+  "order": 50,
+  "cc": "Ади 14",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "revelation",
+   "family"
+  ],
+  "notes": "Мурари 1.06.19–30.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0046"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shachi-forgets-majesty",
+  "title": "Шачи постигает величие сына и вновь забывает его",
+  "title_en": "Shachi realizes her son's majesty and forgets it again",
+  "period": "P03",
+  "order": 55,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0047"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nimai-asks-for-moon",
+  "title": "Нимай просит луну с неба",
+  "title_en": "Nimai asks for the moon",
+  "period": "P03",
+  "order": 60,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0048"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-puppy-deliverance",
+  "title": "Щенок Нимая и его освобождение",
+  "title_en": "Nimai's puppy and its deliverance",
+  "period": "P03",
+  "order": 70,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "mercy"
+  ],
+  "notes": "Известно лишь Лочану Дасу; ср. собаку Шивананды Сены (ЧЧ Антья 1).",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0049",
+   "lcm-0050"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shashthi-offering-eaten",
+  "title": "Нимай съедает подношение богине Шаштхи",
+  "title_en": "Nimai eats the offering to goddess Shashthi",
+  "period": "P03",
+  "order": 80,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "teaching",
+   "deities"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0051"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-murari-yoga-mockery",
+  "title": "Нимай высмеивает йогу Мурари Гупты",
+  "title_en": "Nimai mocks Murari Gupta's yoga",
+  "period": "P03",
+  "order": 90,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "mercy",
+   "teaching"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0052",
+   "lcm-0053"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-child-kirtan",
+  "title": "Детский киртан Нимая",
+  "title_en": "Nimai's childhood kirtana",
+  "period": "P03",
+  "order": 95,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "pranks"
+  ],
+  "notes": "",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "lcm-0054"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vishvarupa-sannyasa",
+  "title": "Санньяса Вишварупы",
+  "title_en": "Vishvarupa's sannyasa",
+  "period": "P04",
+  "order": 10,
+  "cc": "Ади 15",
+  "cb": "Ади 7",
+  "themes": [
+   "sannyasa",
+   "family",
+   "separation"
+  ],
+  "notes": "Мурари 1.07.1–10.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0055",
+   "lcm-0056"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-hate-khadi",
+  "title": "Начало обучения (хатэ-кхади)",
+  "title_en": "Beginning of schooling (hate-khadi)",
+  "period": "P04",
+  "order": 20,
+  "cc": "Ади 15",
+  "cb": "",
+  "themes": [
+   "learning",
+   "festival"
+  ],
+  "notes": "",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0057"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-chudakarana-karnavedha",
+  "title": "Первое пострижение и прокалывание ушей",
+  "title_en": "First tonsure and ear-piercing",
+  "period": "P04",
+  "order": 25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "family"
+  ],
+  "notes": "",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0058"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-bird-tracks-game-father-anger",
+  "title": "Игра на берегу Ганги и гнев отца",
+  "title_en": "Games on the Ganga bank and His father's anger",
+  "period": "P04",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "family",
+   "learning"
+  ],
+  "notes": "Мурари 1.07.12–13.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0059"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-mishra-dream",
+  "title": "Сон Джаганнатхи Мишры",
+  "title_en": "Jagannatha Mishra's dream",
+  "period": "P04",
+  "order": 35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "family",
+   "revelation"
+  ],
+  "notes": "Мурари 1.07.14–17.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0060"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-upanayana",
+  "title": "Упанаяна Вишвамбхары",
+  "title_en": "Vishvambhara's sacred-thread ceremony",
+  "period": "P04",
+  "order": 40,
+  "cc": "",
+  "cb": "Ади 8",
+  "themes": [
+   "festival",
+   "ecstasy"
+  ],
+  "notes": "",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0061"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-pandits-recognize-vishvambhara",
+  "title": "Пандиты рассуждают об аватарах и признают в Вишвамбхаре Господа",
+  "title_en": "The pandits discuss the avataras and recognize Vishvambhara as the Lord",
+  "period": "P04",
+  "order": 45,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "revelation"
+  ],
+  "notes": "Богословие — ср. ЧЧ Ади 3–4.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0062"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-ekadashi-instruction-shachi",
+  "title": "Наставление матери об экадаши",
+  "title_en": "The Lord instructs His mother on Ekadashi",
+  "period": "P04",
+  "order": 50,
+  "calendar": "экадаши",
+  "cc": "Ади 15",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "festival",
+   "family"
+  ],
+  "notes": "Мурари 1.07.18–27, 1.08 (вместе с толкованием Мурари Дамодаре о теле Господа и теле преданного).",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0063",
+   "lcm-0064"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-mishra-departure",
+  "title": "Уход Джаганнатхи Мишры",
+  "title_en": "Jagannatha Mishra's passing",
+  "period": "P04",
+  "order": 60,
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "themes": [
+   "departure",
+   "family",
+   "separation"
+  ],
+  "notes": "Мурари 1.08.13–24.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0065"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-study-gangadasa",
+  "title": "Учёба у Гангадаса Пандита",
+  "title_en": "Study under Gangadasa Pandita",
+  "period": "P04",
+  "order": 70,
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "themes": [
+   "learning",
+   "pranks"
+  ],
+  "notes": "Мурари 1.09.1–4.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "lcm-0066"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lakshmipriya-first-meeting",
+  "title": "Первая встреча с Лакшмиприей у Ганги",
+  "title_en": "First meeting with Lakshmipriya by the Ganga",
+  "period": "P05",
+  "order": 10,
+  "cc": "",
+  "cb": "Ади 10",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.09.5–8.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0067"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lakshmipriya-matchmaking",
+  "title": "Сватовство Лакшмиприи (Ванамали Ачарья)",
+  "title_en": "Arranging the marriage with Lakshmipriya (Vanamali Acharya)",
+  "period": "P05",
+  "order": 15,
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.09.9–33.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0068",
+   "lcm-0069"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-marriage-lakshmipriya",
+  "title": "Свадьба с Лакшмиприей",
+  "title_en": "Marriage with Lakshmipriya",
+  "period": "P05",
+  "order": 25,
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "notes": "Мурари 1.09.34–1.11.2.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0070",
+   "lcm-0071",
+   "lcm-0072",
+   "lcm-0073",
+   "lcm-0074",
+   "lcm-0075",
+   "lcm-0076"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-evening-strolls-ganga",
+  "title": "Прогулки Господа с друзьями к Ганге",
+  "title_en": "The Lord's evening walks to the Ganga with friends",
+  "period": "P05",
+  "order": 57,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Песнь только изд. 1983 г.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0253"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-ganga-rises-to-lord",
+  "title": "Ганга поднимается к стопам Господа",
+  "title_en": "The Ganga rises to the Lord's feet",
+  "period": "P05",
+  "order": 60,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "deities"
+  ],
+  "notes": "Известно лишь Лочану Дасу; включает рассказ брахмана о рождении Ганги.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0077",
+   "lcm-0078"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-east-bengal-tour",
+  "title": "Путешествие в Восточную Бенгалию",
+  "title_en": "Journey to East Bengal",
+  "period": "P05",
+  "order": 65,
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "themes": [
+   "pilgrimage",
+   "learning",
+   "kirtan"
+  ],
+  "notes": "Мурари 1.11.5–16.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0079",
+   "lcm-0080"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lakshmipriya-departure",
+  "title": "Уход Лакшмиприи",
+  "title_en": "Lakshmipriya's departure",
+  "period": "P05",
+  "order": 80,
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "themes": [
+   "departure",
+   "separation",
+   "family"
+  ],
+  "notes": "Мурари 1.11.17–1.12.6.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0081",
+   "lcm-0082"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-return-from-east-bengal",
+  "title": "Возвращение из Восточной Бенгалии; утешение Шачи",
+  "title_en": "Return from East Bengal; consoling Shachi",
+  "period": "P05",
+  "order": 85,
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "themes": [
+   "family",
+   "separation",
+   "teaching"
+  ],
+  "notes": "Мурари 1.12.7–19.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0083"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vishnupriya-matchmaking",
+  "title": "Сватовство Вишнуприи",
+  "title_en": "Arranging the marriage with Vishnupriya",
+  "period": "P05",
+  "order": 90,
+  "cc": "",
+  "cb": "Ади 15",
+  "themes": [
+   "family",
+   "pranks"
+  ],
+  "notes": "Мурари 1.13.1–1.14.2.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0084",
+   "lcm-0085"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-marriage-vishnupriya",
+  "title": "Свадьба с Вишнуприей",
+  "title_en": "Marriage with Vishnupriya",
+  "period": "P05",
+  "order": 100,
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "notes": "Мурари 1.14.3–33.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "lcm-0086",
+   "lcm-0087",
+   "lcm-0088",
+   "lcm-0089"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-departure-for-gaya",
+  "title": "Отправление в Гаю",
+  "title_en": "Departure for Gaya",
+  "period": "P06",
+  "order": 10,
+  "cc": "Ади 17",
+  "cb": "Ади 17",
+  "themes": [
+   "pilgrimage",
+   "family"
+  ],
+  "notes": "Мурари 1.15.1–6.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0090"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaya-journey-deer-lesson",
+  "title": "В пути в Гаю: урок об оленях",
+  "title_en": "On the way to Gaya: the lesson of the deer",
+  "period": "P06",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "teaching"
+  ],
+  "notes": "Мурари 1.15.7.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0091"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-mandara-fever-brahmana-water",
+  "title": "Лихорадка на Мандаре, исцелённая водой со стоп брахмана",
+  "title_en": "Fever at Mandara cured by a brahmana's foot-water",
+  "period": "P06",
+  "order": 30,
+  "cc": "",
+  "cb": "Ади 17",
+  "themes": [
+   "pilgrimage",
+   "teaching",
+   "deities"
+  ],
+  "notes": "Мурари 1.15.8–14.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0092"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaya-ishvara-puri-initiation",
+  "title": "Встреча с Ишварой Пури в Гае и посвящение",
+  "title_en": "Meeting Ishvara Puri in Gaya and initiation",
+  "period": "P06",
+  "order": 40,
+  "cc": "Ади 17",
+  "cb": "Ади 17",
+  "themes": [
+   "ecstasy",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 1.15.15–19.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0093"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaya-vishnupada-prema",
+  "title": "Обряды в Гае; према у Вишнупады",
+  "title_en": "Rites in Gaya; prema at the Vishnupada",
+  "period": "P06",
+  "order": 50,
+  "cc": "",
+  "cb": "Ади 17",
+  "themes": [
+   "ecstasy",
+   "pilgrimage",
+   "deities"
+  ],
+  "notes": "Мурари 1.16.1–7.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0094"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaya-heavenly-voice-return",
+  "title": "Небесный голос в Гае; возвращение в Навадвипу",
+  "title_en": "The heavenly voice in Gaya; return to Navadvipa",
+  "period": "P06",
+  "order": 60,
+  "cc": "",
+  "cb": "Ади 17",
+  "themes": [
+   "celestial",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 1.16.8–11.",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "lcm-0095"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-return-from-gaya-teaching",
+  "title": "После Гаи: Господь учит учеников, что истинное знание — бхакти",
+  "title_en": "After Gaya: the Lord teaches His students that true knowledge is bhakti",
+  "period": "P07",
+  "order": 10,
+  "cc": "Ади 17",
+  "cb": "Мадхья 1",
+  "themes": [
+   "teaching",
+   "learning"
+  ],
+  "notes": "Мурари 2.1.8.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0097"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shachi-receives-prema",
+  "title": "Шачи обретает прему",
+  "title_en": "Shachi receives prema",
+  "period": "P07",
+  "order": 20,
+  "cc": "",
+  "cb": "Мадхья 22",
+  "themes": [
+   "ecstasy",
+   "family",
+   "mercy"
+  ],
+  "notes": "Мурари 2.1.9–18. В ЧБ (Мадхья 22) — после прощения оскорбления Адвайты.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0098"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shuklambara-house-prema",
+  "title": "Према Господа в доме Шукламбары",
+  "title_en": "The Lord's prema at Shuklambara's house",
+  "period": "P07",
+  "order": 30,
+  "cc": "",
+  "cb": "Мадхья 1",
+  "themes": [
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.1.19–30.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0099"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-associates-gather",
+  "title": "Спутники собираются вокруг Господа",
+  "title_en": "The associates gather around the Lord",
+  "period": "P07",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0100"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-flute-sound-radha-bhava",
+  "title": "Господь слышит флейту в бхаве Радхи",
+  "title_en": "The Lord hears the flute in Radha's mood",
+  "period": "P07",
+  "order": 50,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.2.1–6.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0101"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-heavenly-voice-you-are-ishvara",
+  "title": "Небесный голос: «Ты Сам — Ишвара»",
+  "title_en": "The heavenly voice: \"You Yourself are Ishvara\"",
+  "period": "P07",
+  "order": 55,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "notes": "Мурари 2.2.7–10.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0102"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-varaha-bhava-murari",
+  "title": "Бхава Вепря в доме Мурари",
+  "title_en": "The Boar mood at Murari's house",
+  "period": "P07",
+  "order": 60,
+  "cc": "",
+  "cb": "Мадхья 3",
+  "themes": [
+   "revelation",
+   "teaching"
+  ],
+  "notes": "Мурари 2.2.11–26.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0103"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-harer-nama-explained",
+  "title": "Толкование шлоки «харер нама»",
+  "title_en": "Explanation of the \"harer nama\" verse",
+  "period": "P07",
+  "order": 65,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "notes": "Мурари 2.2.27–34.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0104"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gods-receive-prema",
+  "title": "Боги приходят к Господу за премой",
+  "title_en": "The gods come to the Lord for prema",
+  "period": "P07",
+  "order": 70,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "mercy",
+   "revelation"
+  ],
+  "notes": "Мурари 2.3.1–4.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0105"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shuklambara-mercy",
+  "title": "Милость к Шукламбаре Брахмачари",
+  "title_en": "Mercy to Shuklambara Brahmachari",
+  "period": "P07",
+  "order": 72,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "notes": "Мурари 2.3.5–9.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0106"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gadadhara-receives-prema",
+  "title": "Гададхара обретает прему",
+  "title_en": "Gadadhara receives prema",
+  "period": "P07",
+  "order": 74,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.3.10–17.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0107"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-rasa-shrivasa-vrindavana",
+  "title": "Раса в доме Шривасы: явление Вриндавана",
+  "title_en": "Rasa at Shrivasa's house: Vrindavana revealed",
+  "period": "P07",
+  "order": 76,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "notes": "Известно лишь Лочану Дасу.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0108"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-clouds-dispersed-kirtan",
+  "title": "Господь рассеивает тучи над киртаном",
+  "title_en": "The Lord disperses the clouds over the kirtana",
+  "period": "P07",
+  "order": 78,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "revelation"
+  ],
+  "notes": "Мурари 2.3.18–27.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0109"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-gaura-dance-with-devotees",
+  "title": "Танец Гауры с преданными (песни о красоте Гауры)",
+  "title_en": "Gaura's dance with the devotees (songs of Gaura's beauty)",
+  "period": "P07",
+  "order": 80,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "Описательные песни; Мурари 2.4.3–5.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0110",
+   "lcm-0121"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-mango-tree",
+  "title": "Чудо с манговым деревом",
+  "title_en": "The miracle of the mango tree",
+  "period": "P07",
+  "order": 82,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "teaching"
+  ],
+  "notes": "Мурари 2.4.6–11.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0111"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-mukunda-datta-instruction",
+  "title": "Наставление Мукунде Датте о поклонении Кришне",
+  "title_en": "Instruction to Mukunda Datta on worshipping Krishna",
+  "period": "P07",
+  "order": 84,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "notes": "Мурари 2.4.12–21.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0112"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-murari-adhyatma-instruction",
+  "title": "Наставление Мурари Гупте оставить рассуждения о Самости",
+  "title_en": "Murari Gupta is told to give up speculation on the Self",
+  "period": "P07",
+  "order": 86,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "notes": "Мурари 2.4.22–27.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0113"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-dance-shrivasa-house",
+  "title": "Господь пляшет в доме Шривасы и Шри Рамы",
+  "title_en": "The Lord dances in the house of Shrivasa and Shri Rama",
+  "period": "P07",
+  "order": 88,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan"
+  ],
+  "notes": "Мурари 2.4.27–32.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0114"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-blasphemous-student-ganga-bath",
+  "title": "Ученик-хулитель: Господь омывается в Ганге",
+  "title_en": "A blaspheming student: the Lord bathes in the Ganga",
+  "period": "P07",
+  "order": 90,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "teaching"
+  ],
+  "notes": "Мурари 2.4.33–34.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0115"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-visit-advaita",
+  "title": "Господь посещает Адвайту",
+  "title_en": "The Lord visits Advaita",
+  "period": "P07",
+  "order": 92,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "prasada"
+  ],
+  "notes": "Мурари 2.5.1–19 (Шантипур).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0116"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jnana-path-bhakti-supreme",
+  "title": "Господь излагает путь знания и возвещает высшее — бхакти",
+  "title_en": "The Lord expounds the path of knowledge and proclaims bhakti supreme",
+  "period": "P07",
+  "order": 94,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.5.20–33.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0117"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-honors-club",
+  "title": "Господь чтит Свою палицу",
+  "title_en": "The Lord honours His club",
+  "period": "P07",
+  "order": 96,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "revelation"
+  ],
+  "notes": "Мурари 2.6.1–10.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0118"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-advaita-comes-to-navadvipa",
+  "title": "Адвайта приходит к Господу в Навадвипу",
+  "title_en": "Advaita comes to the Lord in Navadvipa",
+  "period": "P07",
+  "order": 98,
+  "cc": "",
+  "cb": "Мадхья 6",
+  "themes": [
+   "revelation",
+   "kirtan",
+   "teaching"
+  ],
+  "notes": "Мурари 2.6.10–27.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0119",
+   "lcm-0120"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-murari-ramadasa",
+  "title": "Мурари читает «Рамаштаку» и становится Рамадасом",
+  "title_en": "Murari recites the Ramashtaka and becomes Ramadasa",
+  "period": "P07",
+  "order": 104,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "mercy"
+  ],
+  "notes": "Мурари 2.7.6–18; ср. испытание верности Мурари Раме (ЧЧ Мадхья 15.137–157).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0122"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shrivasa-service-teaching",
+  "title": "Служение Шривасе — служение Господу",
+  "title_en": "Service to Shrivasa is service to the Lord",
+  "period": "P07",
+  "order": 105,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "prasada"
+  ],
+  "notes": "Мурари 2.7.19–27.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0123"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-first-meeting",
+  "title": "Первая встреча с Нитьянандой (в доме Нанданы Ачарьи)",
+  "title_en": "First meeting with Nityananda (at Nandana Acharya's house)",
+  "period": "P07",
+  "order": 106,
+  "cc": "Ади 17",
+  "cb": "Мадхья 3",
+  "themes": [
+   "ecstasy",
+   "revelation",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.8.1–17.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0124",
+   "lcm-0125"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-meal-shachi",
+  "title": "Нитьянанда в доме Господа; Шачи принимает Его как сына",
+  "title_en": "Nityananda at the Lord's home; Shachi accepts Him as her son",
+  "period": "P07",
+  "order": 108,
+  "cc": "",
+  "cb": "Мадхья 8",
+  "themes": [
+   "prasada",
+   "family"
+  ],
+  "notes": "Мурари 2.8.18–19; в ЧБ — сон Шачи о Кришне и Балараме и приглашение Нитьянанды.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0126"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-six-armed-form-nityananda",
+  "title": "Шестирукий облик, явленный Нитьянанде",
+  "title_en": "The six-armed form revealed to Nityananda",
+  "period": "P07",
+  "order": 109,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.8.20–29.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0127"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-dream-of-krishna",
+  "title": "Господь видит во сне Кришну и плачет",
+  "title_en": "The Lord sees Krishna in a dream and weeps",
+  "period": "P07",
+  "order": 110,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.9.2–6.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0128"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-sees-forms",
+  "title": "Нитьянанда созерцает облики Господа",
+  "title_en": "Nityananda beholds the Lord's forms",
+  "period": "P07",
+  "order": 111,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Мурари 2.9.6–11.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0129"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-visits-advaita",
+  "title": "Нитьянанда у Адвайты Ачарьи",
+  "title_en": "Nityananda visits Advaita Acharya",
+  "period": "P07",
+  "order": 112,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.9.13–16.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0130"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-advaita-worships-lord-shrivasa",
+  "title": "Адвайта поклоняется Господу в доме Шривасы",
+  "title_en": "Advaita worships the Lord at Shrivasa's house",
+  "period": "P07",
+  "order": 113,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "prasada"
+  ],
+  "notes": "Мурари 2.9.17–23.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0131"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-haridasa-arrives",
+  "title": "Приход Харидаса; Господь чтит его",
+  "title_en": "Haridasa arrives; the Lord honours him",
+  "period": "P07",
+  "order": 114,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "prasada",
+   "kirtan"
+  ],
+  "notes": "Мурари 2.10.2–6.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0132"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-kaupina",
+  "title": "Каупина Нитьянанды, разделённая между преданными",
+  "title_en": "Nityananda's kaupina shared among the devotees",
+  "period": "P07",
+  "order": 115,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Мурари 2.10.6–9.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0133"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-disappears-with-shrivasa",
+  "title": "Господь исчезает со Шривасой",
+  "title_en": "The Lord disappears with Shrivasa",
+  "period": "P07",
+  "order": 116,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "separation",
+   "kirtan"
+  ],
+  "notes": "Мурари 2.10.10–13.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0134"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-takes-clothes",
+  "title": "Господь в шутку отнимает у преданных одежды",
+  "title_en": "The Lord playfully takes the devotees' clothes",
+  "period": "P07",
+  "order": 116,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.10.16–17.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0254"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-foot-water",
+  "title": "Преданные возлагают на головы воду со стоп Нитьянанды",
+  "title_en": "The devotees place water from Nityananda's feet on their heads",
+  "period": "P07",
+  "order": 117,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "kirtan"
+  ],
+  "notes": "Мурари 2.10.18–21.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0135"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-haridasa-brahma",
+  "title": "В Харидасе являет себя Брахма",
+  "title_en": "Brahma manifests in Haridasa",
+  "period": "P07",
+  "order": 118,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "celestial",
+   "prasada"
+  ],
+  "notes": "Мурари 2.10.24–26.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0136"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-reasons-advent-told-devotees",
+  "title": "Господь открывает близким причины Своего нисхождения",
+  "title_en": "The Lord tells His intimates the reasons for His descent",
+  "period": "P07",
+  "order": 119,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "revelation"
+  ],
+  "notes": "Ср. ЧЧ Ади 3–4.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0137"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-preaching-door-to-door",
+  "title": "Повеление раздавать имя в каждом доме",
+  "title_en": "The order to give the holy name in every home",
+  "period": "P07",
+  "order": 120,
+  "cc": "",
+  "cb": "Мадхья 13",
+  "themes": [
+   "kirtan",
+   "teaching"
+  ],
+  "notes": "",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0138"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jagai-madhai-deliverance",
+  "title": "Освобождение Джагая и Мадхая",
+  "title_en": "Deliverance of Jagai and Madhai",
+  "period": "P07",
+  "order": 121,
+  "cc": "Ади 17",
+  "cb": "Мадхья 13",
+  "themes": [
+   "mercy",
+   "offense",
+   "kirtan"
+  ],
+  "notes": "У Мурари (2.13) — лишь обещание Господа спасти братьев.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0139",
+   "lcm-0140"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vanamali-brahmana-vision",
+  "title": "Нищий брахман Ванамали с сыном видит в Гауре Кришну",
+  "title_en": "The poor brahmana Vanamali and his son see Krishna in Gaura",
+  "period": "P07",
+  "order": 123,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "mercy",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 2.11.1–6.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0141"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nrisimha-bhava-shrivasa",
+  "title": "Бхава Нрисимхи в доме Шривасы",
+  "title_en": "The Nrisimha mood at Shrivasa's house",
+  "period": "P07",
+  "order": 124,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Мурари 2.11.6–12.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0142"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shiva-singer",
+  "title": "Певец Шивы: Господь в бхаве Шивы",
+  "title_en": "The singer of Shiva's glories: the Lord in Shiva's mood",
+  "period": "P07",
+  "order": 125,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "revelation",
+   "deities"
+  ],
+  "notes": "Мурари 2.11.13–19.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0143"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jump-into-ganga",
+  "title": "Господь бросается в Гангу",
+  "title_en": "The Lord throws Himself into the Ganga",
+  "period": "P07",
+  "order": 126,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "teaching"
+  ],
+  "notes": "Мурари 2.11.19–25, 2.12.1–4.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0144"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-murari-sudama-verse-abhisheka",
+  "title": "Мурари и шлока Судамы; омовение Господа",
+  "title_en": "Murari and Sudama's verse; the Lord's ablution",
+  "period": "P07",
+  "order": 127,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "sannyasa"
+  ],
+  "notes": "Мурари 2.12.5–17. Первое предвестие санньясы.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0145"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-cleaning-temple",
+  "title": "Господь с преданными убирает храм",
+  "title_en": "The Lord and His devotees clean the temple",
+  "period": "P07",
+  "order": 128,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "deities"
+  ],
+  "notes": "Мурари 2.13; ср. уборку храма Гундичи (ЧЧ Мадхья 12).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0146"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-leper-shrivasa-offense",
+  "title": "Прокажённый, оскорбивший Шривасу",
+  "title_en": "The leper who offended Shrivasa",
+  "period": "P07",
+  "order": 129,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "offense",
+   "mercy"
+  ],
+  "notes": "Мурари 2.13. В ЧЧ — Гопала Чапала, прощён после санньясы.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0147"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-brahmana-curse-sannyasa",
+  "title": "Проклятие брахмана — благословение санньясы",
+  "title_en": "A brahmana's curse becomes the blessing of sannyasa",
+  "period": "P07",
+  "order": 130,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "offense",
+   "sannyasa",
+   "mercy"
+  ],
+  "notes": "Мурари 2.13.18–23.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0148",
+   "lcm-0255"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-balarama-bhava",
+  "title": "Бхава Баларамы: «Дайте мёду!»",
+  "title_en": "The mood of Balarama: \"Bring Me honey!\"",
+  "period": "P07",
+  "order": 131,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.14.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0149",
+   "lcm-0150"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-flute-request",
+  "title": "Господь просит Свою флейту",
+  "title_en": "The Lord asks for His flute",
+  "period": "P07",
+  "order": 133,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "pranks"
+  ],
+  "notes": "Мурари 2.15.1.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0151"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sankirtana-yajna-teaching",
+  "title": "Господь о величии санкиртана-ягьи",
+  "title_en": "The Lord on the glory of the sankirtana-yajna",
+  "period": "P07",
+  "order": 134,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "notes": "",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0152"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-chandrashekhara-drama",
+  "title": "Действо в доме Чандрашекхары",
+  "title_en": "The drama at Chandrashekhara's house",
+  "period": "P07",
+  "order": 135,
+  "cc": "",
+  "cb": "Мадхья 18",
+  "themes": [
+   "krishna-lila",
+   "revelation",
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.15.7–2.17.4 (вместе с семидневным сиянием).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0153",
+   "lcm-0154",
+   "lcm-0155"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shrivasa-yuga-dharma-question",
+  "title": "Вопрос Шривасы о юга-дхарме",
+  "title_en": "Shrivasa's question on the yuga-dharma",
+  "period": "P07",
+  "order": 138,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "notes": "Мурари 2.17.5–10.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0156"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-longing-vrindavana-murari",
+  "title": "Тоска по Вриндавану; Мурари удерживает Господа",
+  "title_en": "Longing for Vrindavana; Murari restrains the Lord",
+  "period": "P07",
+  "order": 139,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "ecstasy",
+   "sannyasa"
+  ],
+  "notes": "Мурари 2.17.12–19.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0157"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sannyasa-mantra-dream",
+  "title": "Сон о мантре санньясы",
+  "title_en": "The dream of the sannyasa mantra",
+  "period": "P07",
+  "order": 140,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "celestial"
+  ],
+  "notes": "Мурари 2.18.1–6.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0158"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-keshava-bharati-navadvipa",
+  "title": "Кешава Бхарати в Навадвипе; решение принять санньясу",
+  "title_en": "Keshava Bharati in Navadvipa; the decision to take sannyasa",
+  "period": "P07",
+  "order": 141,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "ecstasy"
+  ],
+  "notes": "Мурари 2.18.7–16.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0159"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sannyasa-decision-devotees-grief",
+  "title": "Преданные узнают о решении Господа принять санньясу",
+  "title_en": "The devotees learn of the Lord's decision to take sannyasa",
+  "period": "P07",
+  "order": 142,
+  "cc": "",
+  "cb": "Мадхья 26",
+  "themes": [
+   "sannyasa",
+   "separation",
+   "teaching"
+  ],
+  "notes": "Мурари 2.18.17–23 (вместе с обещанием Шривасе пребывать в его доме).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0160",
+   "lcm-0161",
+   "lcm-0169"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-consoles-shachi-before-sannyasa",
+  "title": "Господь утешает Шачи перед санньясой",
+  "title_en": "The Lord consoles Shachi before sannyasa",
+  "period": "P07",
+  "order": 144,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family",
+   "teaching"
+  ],
+  "notes": "Включает рассказ о Дхруве (Бхаг. 4.8–12; у Лочана Даса — вероятная вставка) и видение Шачи.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0162",
+   "lcm-0163",
+   "lcm-0164",
+   "lcm-0165",
+   "lcm-0166",
+   "lcm-0167"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vishnupriya-pleads-before-sannyasa",
+  "title": "Мольба Вишнуприи перед санньясой; четырёхрукий облик",
+  "title_en": "Vishnupriya's plea before the sannyasa; the four-armed form",
+  "period": "P07",
+  "order": 150,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family",
+   "revelation"
+  ],
+  "notes": "",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0168"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-murari-serve-advaita",
+  "title": "Наставление Мурари служить Адвайте",
+  "title_en": "Murari is instructed to serve Advaita",
+  "period": "P07",
+  "order": 152,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "separation"
+  ],
+  "notes": "Мурари 2.18.25–30.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0170"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-last-night-vishnupriya",
+  "title": "Последние дни дома и последняя ночь с Вишнуприей",
+  "title_en": "The last days at home and the last night with Vishnupriya",
+  "period": "P07",
+  "order": 153,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "separation"
+  ],
+  "notes": "Только изд. 1983 г.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "lcm-0171"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-leaving-navadvipa",
+  "title": "Господь покидает Навадвипу",
+  "title_en": "The Lord leaves Navadvipa",
+  "period": "P08",
+  "order": 10,
+  "years": [
+   1510,
+   1510
+  ],
+  "age": [
+   23,
+   24
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "санньяса — в конце 24-го года жизни, в месяце магха 1510 г. (Шака 1431; ЧЧ Ади 17, Мадхья 1)",
+  "cc": "Ади 17",
+  "cb": "Мадхья 28",
+  "themes": [
+   "sannyasa",
+   "separation"
+  ],
+  "notes": "Мурари 3.1.6–7.",
+  "entries": [
+   "lcm-0172"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lament-after-lord-leaves",
+  "title": "Плач Шачи и Вишнуприи после ухода Господа",
+  "title_en": "Shachi and Vishnupriya lament after the Lord leaves",
+  "period": "P08",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "notes": "Мурари 3.1.7.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0173"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-follows-to-katwa",
+  "title": "Нитьянанда со спутниками идёт за Господом в Катву",
+  "title_en": "Nityananda and companions follow the Lord to Katwa",
+  "period": "P08",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "separation"
+  ],
+  "notes": "",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0174"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sannyasa-katwa",
+  "title": "Санньяса в Катве",
+  "title_en": "Sannyasa at Katwa",
+  "period": "P08",
+  "order": 40,
+  "calendar": "магха; санкранти",
+  "years": [
+   1510,
+   1510
+  ],
+  "age": [
+   23,
+   24
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "санньяса — в конце 24-го года жизни, в месяце магха 1510 г. (Шака 1431; ЧЧ Ади 17, Мадхья 1)",
+  "cc": "Ади 17",
+  "cb": "Мадхья 28",
+  "themes": [
+   "sannyasa",
+   "ecstasy",
+   "separation"
+  ],
+  "notes": "Мурари 2.18.31–32, 3.1.10–3.3.1.",
+  "entries": [
+   "lcm-0175",
+   "lcm-0176",
+   "lcm-0177",
+   "lcm-0178",
+   "lcm-0179",
+   "lcm-0180",
+   "lcm-0181",
+   "lcm-0182",
+   "lcm-0183",
+   "lcm-0184"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-radha-desha-wandering",
+  "title": "Три дня в Радха-деше",
+  "title_en": "Three days in Radha-desha",
+  "period": "P09",
+  "order": 10,
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "themes": [
+   "ecstasy",
+   "sannyasa",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.3.1–18.",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0185"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-chandrashekhara-sent-back",
+  "title": "Господь отпускает Чандрашекхару в Навадвипу",
+  "title_en": "The Lord sends Chandrashekhara back to Navadvipa",
+  "period": "P09",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Мурари 3.3.11–19.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0186"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-navadvipa-lament-after-sannyasa",
+  "title": "Плач Навадвипы по Господу после санньясы",
+  "title_en": "Navadvipa laments the Lord after His sannyasa",
+  "period": "P09",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "notes": "Мурари 3.4.1.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0187",
+   "lcm-0188"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-devotees-bind-lord-by-name",
+  "title": "Преданные Навадвипы связывают Господа святым именем",
+  "title_en": "The devotees of Navadvipa bind the Lord with the holy name",
+  "period": "P09",
+  "order": 35,
+  "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "themes": [
+   "kirtan",
+   "separation",
+   "mercy"
+  ],
+  "notes": "Мурари 3.4.2–4 (Господь посылает Нитьянанду в Навадвипу).",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0189"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-nityananda-brings-navadvipa-to-shantipura",
+  "title": "Нитьянанда приводит Шачи и жителей Надии в Шантипур",
+  "title_en": "Nityananda brings Shachi and the people of Nadia to Shantipura",
+  "period": "P09",
+  "order": 40,
+  "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "notes": "Мурари 3.4.3–10.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0190"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shantipura-reunion",
+  "title": "Встреча с Шачи и преданными в доме Адвайты в Шантипуре",
+  "title_en": "Reunion with Shachi and the devotees at Advaita's house in Shantipura",
+  "period": "P09",
+  "order": 45,
+  "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "themes": [
+   "family",
+   "prasada",
+   "kirtan"
+  ],
+  "notes": "Мурари 3.4.12–23.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0191",
+   "lcm-0192"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-farewell-shantipura",
+  "title": "Прощание с преданными в Шантипуре",
+  "title_en": "Farewell to the devotees in Shantipura",
+  "period": "P09",
+  "order": 55,
+  "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "themes": [
+   "separation",
+   "teaching",
+   "kirtan"
+  ],
+  "notes": "Мурари 3.4.23–33 (вместе с узлом премы Адвайты).",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0193",
+   "lcm-0194",
+   "lcm-0195",
+   "lcm-0196"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-journey-to-puri",
+  "title": "Путь в Нилачалу",
+  "title_en": "The journey to Nilachala",
+  "period": "P09",
+  "order": 70,
+  "cc": "",
+  "cb": "Антья 2",
+  "themes": [
+   "pilgrimage",
+   "ecstasy",
+   "sannyasa"
+  ],
+  "notes": "Мурари 3.5.1–6; стих «Рама Рагхава» — ЧЧ Мадхья 7.96.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0197"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-toll-collectors-pilgrims",
+  "title": "Сборщики пошлины на пути в Пури",
+  "title_en": "The toll collectors on the way to Puri",
+  "period": "P09",
+  "order": 72,
+  "cc": "",
+  "cb": "Антья 2",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.5.7–9.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0198",
+   "lcm-0199"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-danda-broken",
+  "title": "Нитьянанда ломает посох Господа",
+  "title_en": "Nityananda breaks the Lord's staff",
+  "period": "P09",
+  "order": 75,
+  "cc": "Мадхья 5",
+  "cb": "Антья 2",
+  "themes": [
+   "sannyasa",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.5.10–21.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0200"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-remuna-gopala",
+  "title": "Тамолук и Ремуна: Божество роняет Господу венец",
+  "title_en": "Tamluk and Remuna: the Deity drops His crown for the Lord",
+  "period": "P09",
+  "order": 80,
+  "cc": "Мадхья 4",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage",
+   "ecstasy"
+  ],
+  "notes": "Мурари 3.6.2–11.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0201"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jajpur-viraja",
+  "title": "Вайтарани, Яджапур и богиня Вираджа",
+  "title_en": "Vaitarani, Jajpur and the goddess Viraja",
+  "period": "P09",
+  "order": 82,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "deities"
+  ],
+  "notes": "Мурари 3.6.12–21.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0202"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-toll-collector-binds-mukunda",
+  "title": "Сборщик пошлины связывает Мукунду",
+  "title_en": "A toll collector binds Mukunda",
+  "period": "P09",
+  "order": 84,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage",
+   "revelation"
+  ],
+  "notes": "Мурари 3.7.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0203"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-ekamra-bhubaneshvara",
+  "title": "Экамра (Бхуванешвара): Господь чтит Шиву",
+  "title_en": "Ekamra (Bhubaneshvara): the Lord honours Shiva",
+  "period": "P09",
+  "order": 86,
+  "cc": "",
+  "cb": "Антья 2",
+  "themes": [
+   "deities",
+   "pilgrimage",
+   "prasada"
+  ],
+  "notes": "Мурари 3.7.20–3.9.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0204",
+   "lcm-0205",
+   "lcm-0206"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-first-sight-jagannatha-temple",
+  "title": "Господь видит храм Джаганнатхи",
+  "title_en": "The Lord sights Jagannatha's temple",
+  "period": "P09",
+  "order": 90,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "ecstasy",
+   "revelation"
+  ],
+  "notes": "Мурари 3.10.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0207",
+   "lcm-0208"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sarvabhauma-meeting",
+  "title": "Встреча с Сарвабхаумой",
+  "title_en": "Meeting with Sarvabhauma",
+  "period": "P10",
+  "order": 5,
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "themes": [
+   "jagannatha",
+   "prasada",
+   "learning"
+  ],
+  "notes": "Мурари 3.11.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0209",
+   "lcm-0212"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-first-darshan-jagannatha",
+  "title": "Первый даршан Джаганнатхи",
+  "title_en": "First darshan of Jagannatha",
+  "period": "P10",
+  "order": 10,
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "cc": "Мадхья 6",
+  "cb": "Антья 2",
+  "themes": [
+   "jagannatha",
+   "ecstasy"
+  ],
+  "notes": "Мурари 3.11.",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0210"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-embraces-gaura",
+  "title": "Джаганнатха сходит с трона и обнимает Господа",
+  "title_en": "Jagannatha steps down from His throne and embraces the Lord",
+  "period": "P10",
+  "order": 11,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "revelation"
+  ],
+  "notes": "Только изд. 1983 и 1903 гг. «Чайтанья-мангалы»; другие жития этого не рассказывают.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0211"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-turns-golden",
+  "title": "Вечерний даршан: Джаганнатха становится золотистым",
+  "title_en": "Evening darshan: Jagannatha turns golden",
+  "period": "P10",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "ecstasy",
+   "revelation"
+  ],
+  "notes": "Мурари 3.12.1.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0213"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-sarvabhauma-deliverance",
+  "title": "Освобождение Сарвабхаумы",
+  "title_en": "Deliverance of Sarvabhauma",
+  "period": "P10",
+  "order": 30,
+  "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "themes": [
+   "mercy",
+   "revelation",
+   "learning"
+  ],
+  "notes": "Мурари 3.12.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "lcm-0214",
+   "lcm-0215"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-kurma-vasudeva",
+  "title": "Курма-кшетра: брахманы Курма и Васудева",
+  "title_en": "Kurma-kshetra: the brahmanas Kurma and Vasudeva",
+  "period": "P11",
+  "order": 10,
+  "cc": "Мадхья 7",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage",
+   "teaching"
+  ],
+  "notes": "Мурари 3.13–3.14.20.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0217"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jiyada-nrisimha",
+  "title": "У Джияда-Нрисимхи (Симхачалам)",
+  "title_en": "At Jiyada-Nrisimha (Simhachalam)",
+  "period": "P11",
+  "order": 20,
+  "cc": "Мадхья 8",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage",
+   "teaching"
+  ],
+  "notes": "Мурари 3.14.21–32 (предания о пастухе и купце, рассказанные Господом).",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0218",
+   "lcm-0219"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-ramananda-raya-godavari",
+  "title": "Встреча с Раманандой Раем",
+  "title_en": "Meeting with Ramananda Raya",
+  "period": "P11",
+  "order": 30,
+  "cc": "Мадхья 8",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "teaching",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 3.15.1–5.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0220"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-panchavati-rama-bhava",
+  "title": "Панчавати: Господь в бхаве Рамы",
+  "title_en": "Panchavati: the Lord in Rama's mood",
+  "period": "P11",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "ecstasy"
+  ],
+  "notes": "Мурари 3.15.6.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0221"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-srirangam-chaturmasya",
+  "title": "Шрирангам: чатурмасья у Бхатт",
+  "title_en": "Srirangam: the chaturmasya with the Bhattas",
+  "period": "P11",
+  "order": 50,
+  "calendar": "чатурмасья",
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "deities",
+   "festival",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.15.7–18.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0222"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-paramananda-puri-meeting",
+  "title": "Встреча с Парамананда Пури",
+  "title_en": "Meeting with Paramananda Puri",
+  "period": "P11",
+  "order": 60,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.15.19–25.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0223"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-saptatala-deliverance",
+  "title": "Избавление семи пальм",
+  "title_en": "Deliverance of the seven palm trees",
+  "period": "P11",
+  "order": 70,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 3.16.1–2 (деревья тамала).",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0224"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-setubandha-rameshvara",
+  "title": "Сетубандха: Рамешвара",
+  "title_en": "Setubandha: Rameshvara",
+  "period": "P11",
+  "order": 80,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "deities",
+   "ecstasy"
+  ],
+  "notes": "Мурари 3.16.3–7.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0225"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-return-from-south",
+  "title": "Возвращение с Юга в Пури",
+  "title_en": "Return from the South to Puri",
+  "period": "P11",
+  "order": 90,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "jagannatha"
+  ],
+  "notes": "Мурари 3.16.8–13.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "lcm-0226"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-devotees-gather-nilachala",
+  "title": "Преданные из разных краёв собираются к Господу в Нилачале",
+  "title_en": "Devotees from many lands gather around the Lord in Nilachala",
+  "period": "P12",
+  "order": 5,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "jagannatha"
+  ],
+  "notes": "",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "lcm-0228"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-mercy",
+  "title": "Милость к Пратапарудре",
+  "title_en": "Mercy to Prataparudra",
+  "period": "P12",
+  "order": 300,
+  "cc": "Мадхья 11–14",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "jagannatha",
+   "revelation"
+  ],
+  "notes": "Мурари 4.16.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "lcm-0248"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-natashala-kanai-return",
+  "title": "Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы",
+  "title_en": "Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala",
+  "period": "P13",
+  "order": 5,
+  "cc": "Мадхья 1; Мадхья 16",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "mercy"
+  ],
+  "notes": "Мурари 3.17.5–8.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0227"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-jharikhanda-animals",
+  "title": "Путь через Джхарикханду: пляшут тигры и олени",
+  "title_en": "Through Jharikhanda: tigers and deer dance",
+  "period": "P13",
+  "order": 30,
+  "cc": "Мадхья 17",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "ecstasy",
+   "mercy"
+  ],
+  "notes": "Мурари 4.01 (путь через Каши).",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0229"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-rupa-prayaga",
+  "title": "Встреча с Рупой Госвами в Праяге",
+  "title_en": "Meeting with Rupa Gosvami at Prayaga",
+  "period": "P13",
+  "order": 40,
+  "cc": "Мадхья 19",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage",
+   "teaching"
+  ],
+  "notes": "Мурари 4.01–4.02.1. У Лочана Даса объединена со встречей с Санатаной (в ЧЧ — в Каши, Мадхья 20).",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0230"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-arrival-mathura",
+  "title": "Прибытие в Матхуру",
+  "title_en": "Arrival in Mathura",
+  "period": "P13",
+  "order": 50,
+  "cc": "Мадхья 17",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "ecstasy",
+   "separation"
+  ],
+  "notes": "Мурари 4.02.1–8.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0231"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-krishnadasa-mathura-guide",
+  "title": "Брахман Кришнадас — проводник Господа по Матхура-мандале",
+  "title_en": "The brahmana Krishnadasa, the Lord's guide in Mathura-mandala",
+  "period": "P13",
+  "order": 60,
+  "cc": "Мадхья 17",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "mercy"
+  ],
+  "notes": "Мурари 4.02.9–4.03.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0232"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-mathura-sightseeing",
+  "title": "Господь осматривает святыни Матхуры",
+  "title_en": "The Lord visits the holy places of Mathura",
+  "period": "P13",
+  "order": 70,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "notes": "Мурари 4.04–4.05.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0233",
+   "lcm-0234"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vraja-parikrama",
+  "title": "Обход Враджа-мандалы: места лил Кришны",
+  "title_en": "Circumambulation of Vraja-mandala: the places of Krishna's lilas",
+  "period": "P13",
+  "order": 90,
+  "cc": "Мадхья 18",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "notes": "Мурари 4.04–4.12.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0235",
+   "lcm-0237",
+   "lcm-0238",
+   "lcm-0241",
+   "lcm-0242",
+   "lcm-0243"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-bilvavana-lord-swoons",
+  "title": "Билвавана: рассказ о Радхе и Младенце Кришне; Господь теряет сознание",
+  "title_en": "Bilvavana: the story of Radha and baby Krishna; the Lord swoons",
+  "period": "P13",
+  "order": 100,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy",
+   "pilgrimage"
+  ],
+  "notes": "Известно лишь Лочану Дасу (предание о Бхандиравана).",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0236"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-govardhana-visit",
+  "title": "Господь у Говардханы",
+  "title_en": "The Lord at Govardhana",
+  "period": "P13",
+  "order": 130,
+  "cc": "Мадхья 18",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "notes": "Мурари 4.07–4.08.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0239"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-ashoka-grove-blossoms",
+  "title": "Роща ашок расцветает от взгляда Господа",
+  "title_en": "An ashoka grove blossoms at the Lord's glance",
+  "period": "P13",
+  "order": 140,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "krishna-lila",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 4.08–4.09.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0240"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-vraja-residents-see-krishna",
+  "title": "Жители Враджа видят в Господе Кришну",
+  "title_en": "The people of Vraja see Krishna in the Lord",
+  "period": "P13",
+  "order": 180,
+  "cc": "Мадхья 18",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "mercy"
+  ],
+  "notes": "Мурари 4.13.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0244"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-cowherd-buttermilk-jewels",
+  "title": "Милость к пастуху: кувшин пахты наполняется самоцветами",
+  "title_en": "Mercy to a cowherd: the buttermilk pot fills with jewels",
+  "period": "P13",
+  "order": 190,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "notes": "Мурари 4.13.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0245"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-kuliya-shachi-meeting",
+  "title": "Кулия и Навадвипа: встреча с Шачи",
+  "title_en": "Kuliya and Navadvipa: meeting with Shachi",
+  "period": "P13",
+  "order": 200,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "family",
+   "separation",
+   "teaching"
+  ],
+  "notes": "Мурари 4.14.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0246"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-shantipura-second-visit",
+  "title": "Снова у Адвайты в Шантипуре; возвращение в Пури",
+  "title_en": "Again at Advaita's house in Shantipura; return to Puri",
+  "period": "P13",
+  "order": 210,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "jagannatha"
+  ],
+  "notes": "Мурари 4.15.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "lcm-0247"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-dravida-brahmana-vibhishana",
+  "title": "Бедный брахман из Дравиды и Вибхишана",
+  "title_en": "The poor brahmana from Dravida and Vibhishana",
+  "period": "P14",
+  "order": 900,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "celestial",
+   "jagannatha"
+  ],
+  "notes": "Мурари 4.21.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "lcm-0249"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-lord-disappearance",
+  "title": "Сокрытие Господа",
+  "title_en": "The Lord's disappearance",
+  "period": "P15",
+  "order": 10,
+  "calendar": "ашадха",
+  "years": [
+   1533,
+   1533
+  ],
+  "age": [
+   47,
+   47
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "традиционно 1533 г. (Шака 1455), ашадха; Лочан (изд. 1983): 7-я титхи ашадхи, воскресенье",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure",
+   "jagannatha",
+   "separation"
+  ],
+  "notes": "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано.",
+  "entries": [
+   "lcm-0250"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-tattva-nityananda-advaita",
+  "title": "Истина о Нитьянанде и Адвайте",
+  "title_en": "The truth about Nityananda and Advaita",
+  "period": "PX",
+  "order": 4,
+  "cc": "Ади 5–6",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Богословская тема, не эпизод жизни; Нитьянанда — Баларама (Шеша), Адвайта — Маха-Вишну и Садашива.",
+  "entries": [
+   "lcm-0005"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-damodara-murari-question",
+  "title": "Вопрос Дамодары Пандита Мурари Гупте о причинах явления Гауры",
+  "title_en": "Damodara Pandita's question to Murari Gupta on the reasons for Gaura's advent",
+  "period": "PX",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Рамка повествования Мурари Гупты (Мурари 1.01–1.02).",
+  "entries": [
+   "lcm-0006"
+  ],
+  "sources": [
+   "lochana-cm"
+  ]
+ }
+]

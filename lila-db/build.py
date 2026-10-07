@@ -51,14 +51,14 @@ def labels(path):
 
 
 def find(lab, path, start=0):
-    """Индекс стиха с меткой lab ('25' или '2:25' — второе вхождение) начиная с позиции start."""
+    """Индекс стиха с меткой lab ('25' или '2:25' — k-е вхождение), считая от позиции start."""
     L = labels(path)
-    k, _, v = lab.rpartition(':') if ':' in lab else ('1', '', lab)
+    k, v = (lab.split(':', 1) if ':' in lab else ('1', lab))
     n = 0
     for i in range(start, len(L)):
         if L[i][0] == v:
             n += 1
-            if n == int(k or 1) or start: return i
+            if n == int(k): return i
     return None
 
 

@@ -77,7 +77,7 @@
   title: "Освобождение Джагая и Мадхая"
   title_en: "Deliverance of Jagai and Madhai"
   period: P07
-  order: 400
+  order: 400                   # шагами 10 (можно дробные — 405.5), чтобы вставлять события других источников
   years: [1509, 1509]
   date_conf: вероятно
   date_basis: "…"

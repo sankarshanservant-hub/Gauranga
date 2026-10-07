@@ -15,6 +15,9 @@
   authority: B
   parallels: ""
   notes: "Стих 19 у Бхактисиддханты — Гарга (= Ниламбара Чакраварти), в изд. 1983 — эпитет Нитьянанды. Ст. 37 — предание о том, как Божество Гопинатхи в Шрикханде съело ладду из рук мальчика Рагхунанданы (упоминание). Ст. 36+1 — только изд. 1983 г.: Господь прежде всех дал Рагхунандане гирлянду и сандал (упоминание; авторитетность этой подробности на ступень ниже — C)."
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/01.md", from: "1", to: "44"}
 
 - id: lcm-0002
   source: lochana-cm
@@ -31,6 +34,9 @@
   authority: B
   parallels: "Мурари 1.01–1.02 (рамка: вопрос Дамодары)"
   notes: ""
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/01.md", from: "45", to: "61"}
 
 - id: lcm-0003
   source: lochana-cm
@@ -47,6 +53,10 @@
   authority: B
   parallels: ""
   notes: "Оглавление в стихах (упоминание лил); окончание (82–89) — в порции 02."
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/01.md", from: "62", to: "81"}
+    - {file: "lochana/ru/02.md", from: "82", to: "89"}
 
 - id: lcm-0004
   source: lochana-cm
@@ -63,6 +73,9 @@
   authority: B
   parallels: ""
   notes: "Оглавление в стихах (упоминание лил). Шеша-кханда здесь лишь обещана, без перечня."
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/02.md", from: "90", to: "124"}
 
 - id: lcm-0005
   source: lochana-cm
@@ -79,6 +92,12 @@
   authority: B
   parallels: ""
   notes: "Адвайта назван только Махешей; традиция (ГГД, ЧЧ Ади 6) видит в Нём Маха-Вишну и Садашиву."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  divergence: "Адвайта назван только Махешей (ЧЧ Ади 6 и ГГД: Маха-Вишну и Садашива)."
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "lochana/ru/02.md", from: "125", to: "135"}
 
 - id: lcm-0006
   source: lochana-cm
@@ -95,6 +114,11 @@
   authority: B
   parallels: "Мурари 1.02 (вопрос Дамодары)"
   notes: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, yuga-dharma]
+  event: ev-damodara-murari-question
+  verses:
+    - {file: "lochana/ru/02.md", from: "1", to: "14"}
 
 - id: lcm-0007
   source: lochana-cm
@@ -111,6 +135,12 @@
   authority: B
   parallels: "Мурари 1.02–1.03 (Нарада видит землю в Кали)"
   notes: "Ст. 22–23: боги, мудрецы, Катьяяни и Ядавы рождаются на земле (по A — повествование; по изд. 1983 — замысел Нарады). Окончание (33–37) — в порции 03."
+  themes: [celestial]
+  teaching: [yuga-dharma]
+  event: ev-narada-kali-sorrow
+  verses:
+    - {file: "lochana/ru/02.md", from: "15", to: "32"}
+    - {file: "lochana/ru/03.md", from: "33", to: "37"}
 
 - id: lcm-0008
   source: lochana-cm
@@ -127,6 +157,11 @@
   authority: B
   parallels: ""
   notes: "Прямо соответствует традиционной причине явления Гауры — желанию Кришны познать любовь Радхи (ЧЧ Ади 1.6, гл. 4); у Бхактисиддханты в изложении: Рукмини узнала, что Кришна примет бхаву Радхи, и боится разлуки."
+  themes: [krishna-lila, separation, celestial]
+  teaching: [prema]
+  event: ev-narada-dvaraka-rukmini
+  verses:
+    - {file: "lochana/ru/03.md", from: "38", to: "79"}
 
 - id: lcm-0009
   source: lochana-cm
@@ -143,6 +178,12 @@
   authority: B
   parallels: "Мурари 1.03 (Нарада у Господа на Вайкунтхе молит о мире в Кали)"
   notes: "У Мурари Нарада приходит на Вайкунтху; у Лочана Даса — в Двараку, к Рукмини."
+  themes: [revelation, celestial]
+  teaching: [gaura-tattva, holy-name]
+  divergence: "У Мурари (1.03) Нарада приходит к Господу на Вайкунтху; у Лочана Даса — в Двараку, к Рукмини."
+  event: ev-narada-dvaraka-rukmini
+  verses:
+    - {file: "lochana/ru/03.md", from: "80", to: "116"}
 
 - id: lcm-0010
   source: lochana-cm
@@ -159,6 +200,13 @@
   authority: B
   parallels: ""
   notes: "По словам автора — из «Джаймини-бхараты» (беседа Нарады и Уддхавы), «тридцать вторая глава» (ст. 156). Окончание эпизода (154–156) — в порции 04."
+  themes: [celestial, teaching]
+  teaching: [yuga-dharma, holy-name]
+  scriptures: ["Джаймини-бхарата", "Бхаг. 12.3.52"]
+  event: ev-narada-uddhava-naimisharanya
+  verses:
+    - {file: "lochana/ru/03.md", from: "117", to: "153"}
+    - {file: "lochana/ru/04.md", from: "154", to: "156"}
 
 - id: lcm-0011
   source: lochana-cm
@@ -175,6 +223,12 @@
   authority: B
   parallels: ""
   notes: "Рассказ Нарады о махапрасаде продолжается в lcm-0012–0014. Ст. 172+1 (Нараду за руку ведут и с почётом усаживают) — только изд. 1983 г."
+  themes: [prasada, celestial]
+  teaching: [prasada-teaching]
+  scriptures: ["Бхаг. 11.6.46"]
+  event: ev-narada-lakshmi-mahaprasada
+  verses:
+    - {file: "lochana/ru/04.md", from: "157", to: "190"}
 
 - id: lcm-0012
   source: lochana-cm
@@ -191,6 +245,11 @@
   authority: B
   parallels: ""
   notes: "Предание, связанное с Пури (махапрасад Джаганнатхи)."
+  themes: [prasada, celestial]
+  teaching: [prasada-teaching]
+  event: ev-narada-lakshmi-mahaprasada
+  verses:
+    - {file: "lochana/ru/04.md", from: "191", to: "218"}
 
 - id: lcm-0013
   source: lochana-cm
@@ -207,6 +266,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [prasada, ecstasy, celestial]
+  teaching: [prasada-teaching]
+  event: ev-shiva-mahaprasada-dance
+  verses:
+    - {file: "lochana/ru/04.md", from: "219", to: "249"}
 
 - id: lcm-0014
   source: lochana-cm
@@ -223,6 +287,11 @@
   authority: B
   parallels: ""
   notes: "По словам автора — беседа Вишну и Катьяяни из «Брахма-пураны», «Уткала-кханда», распространённая царём Пратапарудрой (ст. 272). Древо желаний, вероятно, — Калпа-вата в Пури. Ст. 262: «Хара и Гаури — Моё тело» — см. сноску о гаудийском понимании."
+  themes: [prasada, celestial, revelation]
+  teaching: [prasada-teaching, gaura-tattva]
+  event: ev-parvati-mahaprasada-vow
+  verses:
+    - {file: "lochana/ru/04.md", from: "250", to: "271"}
 
 - id: lcm-0015
   source: lochana-cm
@@ -239,6 +308,11 @@
   authority: B
   parallels: ""
   notes: "«Родятся в семьях брахманов» — обобщение автора."
+  themes: [celestial]
+  scriptures: ["Брахма-пурана, Уткала-кханда"]
+  event: ev-narada-kailasa-message
+  verses:
+    - {file: "lochana/ru/04.md", from: "272", to: "275"}
 
 - id: lcm-0016
   source: lochana-cm
@@ -255,6 +329,12 @@
   authority: B
   parallels: "Мурари 1.03 (Нарада молит Господа о мире в Кали)"
   notes: ""
+  themes: [celestial, teaching]
+  teaching: [yuga-dharma, holy-name]
+  scriptures: ["Бхаг. 12.3.51"]
+  event: ev-narada-brahmaloka
+  verses:
+    - {file: "lochana/ru/05.md", from: "276", to: "287"}
 
 - id: lcm-0017
   source: lochana-cm
@@ -271,6 +351,12 @@
   authority: B
   parallels: ""
   notes: "Автор соединяет Бхаг. 11.13 (Хамса и Кумары), 2.9.32–35 (чатух-шлоки Брахме) и 1.4–1.7 (Нарада и Вьяса)."
+  themes: [teaching, celestial]
+  teaching: [scripture, prema]
+  scriptures: ["Бхаг. 11.13", "Бхаг. 2.9.32–35", "Бхаг. 1.4–1.7"]
+  event: ev-brahma-hamsa-bhagavata-origin
+  verses:
+    - {file: "lochana/ru/05.md", from: "288", to: "318"}
 
 - id: lcm-0018
   source: lochana-cm
@@ -287,6 +373,12 @@
   authority: B
   parallels: ""
   notes: "Продолжение (Кали-юга, золотой облик) — lcm-0019."
+  themes: [teaching]
+  teaching: [yuga-dharma, scripture]
+  scriptures: ["Бхаг. 10.8.13", "Бхаг. 11.5.19–31"]
+  event: ev-brahma-yuga-avatara-discourse
+  verses:
+    - {file: "lochana/ru/05.md", from: "319", to: "347"}
 
 - id: lcm-0019
   source: lochana-cm
@@ -303,6 +395,13 @@
   authority: B
   parallels: "ЧЧ Ади 3 (те же стихи о юга-аватарах)"
   notes: "Ряд толкований — собственные толкования Лочана Даса: «анга» = Баларама (Нитьянанда), «юге юге» = Двапара и Кали; стих «Падма-пураны» (ЧЧ Мадхья 6.182) истолкован как свидетельство нисхождения Господа в Двапару и Кали."
+  themes: [teaching]
+  teaching: [gaura-tattva, yuga-dharma, scripture]
+  scriptures: ["Бхаг. 11.5.32", "Бхаг. 1.3.28", "Бхаг. 10.8.13", "Брихат-сахасранама-стотра", "Падма-пурана", "Гита 4.8", "Гита 4.7"]
+  divergence: "Собственные толкования автора: «анга» = Баларама (Нитьянанда), «юге юге» = Двапара и Кали; ЧЧ Ади 3 толкует иначе."
+  event: ev-brahma-yuga-avatara-discourse
+  verses:
+    - {file: "lochana/ru/06.md", from: "348", to: "413"}
 
 - id: lcm-0020
   source: lochana-cm
@@ -319,6 +418,12 @@
   authority: B
   parallels: "ЧЧ Ади 3 (стих «суварна-варно хеманго…»)"
   notes: ""
+  themes: [teaching, kirtan]
+  teaching: [holy-name, yuga-dharma, gaura-tattva]
+  scriptures: ["Гита 4.8", "Махабхарата, Шанти-парва (Вишну-сахасранама)", "Бхавишья-пурана", "Бхаг. 11.5.38"]
+  event: ev-brahma-yuga-avatara-discourse
+  verses:
+    - {file: "lochana/ru/06.md", from: "414", to: "449"}
 
 - id: lcm-0021
   source: lochana-cm
@@ -335,6 +440,12 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [teaching, celestial]
+  teaching: [prema, vaishnava]
+  scriptures: ["Бхаг. 10.47.61"]
+  event: ev-narada-brahmaloka
+  verses:
+    - {file: "lochana/ru/07.md", from: "450", to: "467"}
 
 - id: lcm-0022
   source: lochana-cm
@@ -351,6 +462,11 @@
   authority: B
   parallels: ""
   notes: "В изд. 1983 г. описание упадка дхармы подробнее (четыре двустишия вместо одного)."
+  themes: [celestial]
+  teaching: [yuga-dharma]
+  event: ev-gaura-advent-proclaimed
+  verses:
+    - {file: "lochana/ru/07.md", from: "468", to: "480"}
 
 - id: lcm-0023
   source: lochana-cm
@@ -367,6 +483,11 @@
   authority: B
   parallels: ""
   notes: "Связь с обетом Катьяяни о махапрасаде — lcm-0014."
+  themes: [jagannatha, revelation, celestial]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  event: ev-narada-jagannatha-nilachala
+  verses:
+    - {file: "lochana/ru/07.md", from: "481", to: "502"}
 
 - id: lcm-0024
   source: lochana-cm
@@ -383,6 +504,11 @@
   authority: B
   parallels: ""
   notes: "В изд. 1983 г. вместо «часть» — «отражение» (чхая). Ряд строк темен."
+  themes: [revelation, celestial]
+  teaching: [gaura-tattva]
+  event: ev-narada-vaikuntha
+  verses:
+    - {file: "lochana/ru/07.md", from: "503", to: "513"}
 
 - id: lcm-0025
   source: lochana-cm
@@ -399,6 +525,11 @@
   authority: B
   parallels: ""
   notes: "Видение Гауры в Голоке среди цариц Двараки и гопи — образ, свойственный Лочану Дасу."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  event: ev-narada-goloka-gaura
+  verses:
+    - {file: "lochana/ru/07.md", from: "514", to: "530"}
 
 - id: lcm-0026
   source: lochana-cm
@@ -415,6 +546,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [revelation, celestial]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-narada-goloka-gaura
+  verses:
+    - {file: "lochana/ru/08.md", from: "531", to: "543"}
 
 - id: lcm-0027
   source: lochana-cm
@@ -431,6 +567,12 @@
   authority: B
   parallels: "ЧЧ Ади 3–4 (причины нисхождения)"
   notes: ""
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, yuga-dharma, holy-name]
+  scriptures: ["Гита 4.8"]
+  event: ev-gaura-reveals-reasons-advent
+  verses:
+    - {file: "lochana/ru/08.md", from: "544", to: "567"}
 
 - id: lcm-0028
   source: lochana-cm
@@ -447,6 +589,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [celestial]
+  teaching: [associates-tattva]
+  event: ev-narada-shvetadvipa-balarama
+  verses:
+    - {file: "lochana/ru/08.md", from: "568", to: "598"}
 
 - id: lcm-0029
   source: lochana-cm
@@ -463,6 +610,12 @@
   authority: B
   parallels: "Мурари 1.04 (спутники — частицы Владыки и богов); ЧЧ Ади 6 (Адвайта), Ади 5 (Нитьянанда); «Гаура-ганоддеша-дипика»"
   notes: "Имена отца Нитьянанды «Парамананда» и детское имя «Кувера Пандит» — только у Лочана Даса. Перечень спутников дан без порядка старшинства (ст. 619); названы также Каши Мишра, Гопинатха, Васудева Датта, Говинда, Вакрешвара, Парамананда Пури, Джагадананда, Рагхава Пандит, Кашишвара, Мадхава и Васу Гхош, Уддхарана Датта и др."
+  themes: [celestial]
+  teaching: [associates-tattva]
+  divergence: "Отец Нитьянанды назван Парамананда, детское имя — Кувера Пандит (только у Лочана Даса); Адвайта — воплощение Махеши (ЧЧ Ади 6: Маха-Вишну и Садашива)."
+  event: ev-associates-descend
+  verses:
+    - {file: "lochana/ru/08.md", from: "599", to: "631"}
 
 - id: lcm-0030
   source: lochana-cm
@@ -479,6 +632,9 @@
   authority: B
   parallels: "ЧЧ Мадхья 15.121–125 (Мукунда и павлинье перо); «Гаура-ганоддеша-дипика» 177 (Мадхумати)"
   notes: ""
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/08.md", from: "632", to: "659"}
 
 - id: lcm-0031
   source: lochana-cm
@@ -495,6 +651,9 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/08.md", from: "660", to: "679"}
 
 - id: lcm-0032
   source: lochana-cm
@@ -511,6 +670,10 @@
   authority: B
   parallels: "Мурари 1.05"
   notes: ""
+  themes: [revelation, family]
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "lochana/ru/09.md", from: "1", to: "13"}
 
 - id: lcm-0033
   source: lochana-cm
@@ -527,6 +690,10 @@
   authority: B
   parallels: ""
   notes: "В других главных житиях (Мурари, ЧБ, ЧЧ) этот эпизод не описан."
+  themes: [revelation, family]
+  event: ev-advaita-worships-shachi-womb
+  verses:
+    - {file: "lochana/ru/09.md", from: "14", to: "31"}
 
 - id: lcm-0034
   source: lochana-cm
@@ -543,6 +710,11 @@
   authority: B
   parallels: "Мурари 1.05 (гимн богов Шачи)"
   notes: ""
+  themes: [celestial, revelation]
+  teaching: [gaura-tattva]
+  event: ev-gods-praise-lord-in-womb
+  verses:
+    - {file: "lochana/ru/09.md", from: "31", to: "46"}
 
 - id: lcm-0035
   source: lochana-cm
@@ -559,6 +731,12 @@
   authority: B
   parallels: "Мурари 1.05; ЧЧ Ади 13.89–98"
   notes: "Восторг женщин описан в духе нагари-бхавы Лочана Даса (ст. 59, 75)."
+  themes: [revelation, celestial, family]
+  bhava: [child]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "lochana/ru/09.md", from: "47", to: "80"}
 
 - id: lcm-0036
   source: lochana-cm
@@ -575,6 +753,10 @@
   authority: B
   parallels: "Мурари 1.05 (обряды после рождения); ЧЧ Ади 13.118 (имя Нимай)"
   notes: ""
+  themes: [family, festival]
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "lochana/ru/09.md", from: "81", to: "92"}
 
 - id: lcm-0037
   source: lochana-cm
@@ -591,6 +773,11 @@
   authority: B
   parallels: "Мурари 1.06"
   notes: "Раздел продолжается в порции 10 (наречение имени Вишвамбхара, ст. 103 и далее)."
+  themes: [family]
+  bhava: [child]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "lochana/ru/09.md", from: "93", to: "102"}
 
 - id: lcm-0038
   source: lochana-cm
@@ -607,6 +794,12 @@
   authority: B
   parallels: "Мурари 1.06.3 (имя Вишвамбхара)"
   notes: ""
+  themes: [festival, family]
+  bhava: [child]
+  divergence: "Имя Вишвамбхара дано при аннапрашане как «весть Сарасвати»; у Мурари (1.06.3) имя даёт отец."
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "lochana/ru/10.md", from: "103", to: "108"}
 
 - id: lcm-0039
   source: lochana-cm
@@ -623,6 +816,11 @@
   authority: B
   parallels: "Мурари 1.06.7"
   notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-first-steps
+  verses:
+    - {file: "lochana/ru/10.md", from: "109", to: "120"}
 
 - id: lcm-0040
   source: lochana-cm
@@ -639,6 +837,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [family]
+  bhava: [child]
+  event: ev-shachi-lullaby
+  verses:
+    - {file: "lochana/ru/10.md", from: "121", to: "124"}
 
 - id: lcm-0041
   source: lochana-cm
@@ -655,6 +858,12 @@
   authority: B
   parallels: "Мурари 1.06.32–35 (боги в доме, звон колокольчиков)"
   notes: "Танец младенца с богами, воспевающего Радху и Кришну, — подробность Лочана Даса."
+  themes: [celestial, revelation, krishna-lila]
+  bhava: [child, radha]
+  divergence: "Танец младенца с богами, воспевающего Радху и Кришну, — подробность Лочана Даса; у Шачи до Вишварупы умерли семь дочерей (ЧЧ Ади 13.73: восемь)."
+  event: ev-gods-worship-infant-anklets
+  verses:
+    - {file: "lochana/ru/10.md", from: "125", to: "153"}
 
 - id: lcm-0042
   source: lochana-cm
@@ -671,6 +880,11 @@
   authority: B
   parallels: "Мурари 1.06.10–12"
   notes: ""
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-child-dust-broken-pots
+  verses:
+    - {file: "lochana/ru/10.md", from: "154", to: "174"}
 
 - id: lcm-0043
   source: lochana-cm
@@ -687,6 +901,10 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [family, festival]
+  event: ev-svastyayana-for-nimai
+  verses:
+    - {file: "lochana/ru/10.md", from: "175", to: "190"}
 
 - id: lcm-0044
   source: lochana-cm
@@ -703,6 +921,13 @@
   authority: B
   parallels: "Мурари 1.06.13–18; ЧЧ Ади 14"
   notes: "В изд. 1983 г. и 1903 г. после эпизода — два двустишия об играх с Вишварупой (у Бхактисиддханты их нет)."
+  themes: [teaching, pranks]
+  bhava: [child]
+  teaching: [purity, bhakti-supremacy]
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "lochana/ru/10.md", from: "191", to: "206"}
+    - {file: "lochana/ru/10.md", from: "207", to: "207"}
 
 - id: lcm-0045
   source: lochana-cm
@@ -719,6 +944,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-nimai-pretends-deaf
+  verses:
+    - {file: "lochana/ru/11.md", from: "208", to: "213"}
 
 - id: lcm-0046
   source: lochana-cm
@@ -735,6 +965,12 @@
   authority: B
   parallels: "Мурари 1.06.19–30"
   notes: "В A обморок назван «কপট» (мнимым); в B и C — просто обморок."
+  themes: [pranks, revelation, family]
+  bhava: [child]
+  divergence: "По изд. Бхактисиддханты обморок Шачи «мнимый»; у Мурари (1.06.22) она от удара теряет сознание."
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "lochana/ru/11.md", from: "214", to: "241"}
 
 - id: lcm-0047
   source: lochana-cm
@@ -751,6 +987,12 @@
   authority: B
   parallels: "ср. Бхаг. 10.8.43 (Яшода забывает величие); 10.6.21–29 (охранные имена)"
   notes: ""
+  themes: [family, revelation]
+  bhava: [child]
+  scriptures: ["Бхаг. 10.8.43", "Бхаг. 10.6.21–29"]
+  event: ev-shachi-forgets-majesty
+  verses:
+    - {file: "lochana/ru/11.md", from: "242", to: "261"}
 
 - id: lcm-0048
   source: lochana-cm
@@ -767,6 +1009,12 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [pranks, family]
+  bhava: [child]
+  calendar: "пурнима"
+  event: ev-nimai-asks-for-moon
+  verses:
+    - {file: "lochana/ru/11.md", from: "262", to: "281"}
 
 - id: lcm-0049
   source: lochana-cm
@@ -783,6 +1031,11 @@
   authority: B
   parallels: ""
   notes: "Эпизод со щенком в других главных житиях не описан."
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-puppy-deliverance
+  verses:
+    - {file: "lochana/ru/11.md", from: "282", to: "322"}
 
 - id: lcm-0050
   source: lochana-cm
@@ -799,6 +1052,10 @@
   authority: C
   parallels: "ср. ЧЧ Антья 1.16–33 (собака Шивананды Сены достигает Вайкунтхи)"
   notes: "В изд. 1903 г. весь отрывок в скобках (есть не во всех рукописях); в изложении Бхактисиддханты щенок уходит на Вайкунтху, в тексте — на Голоку. В A нумерация перескакивает с 330 на 340."
+  themes: [mercy, celestial]
+  event: ev-puppy-deliverance
+  verses:
+    - {file: "lochana/ru/12.md", from: "324", to: "357"}
 
 - id: lcm-0051
   source: lochana-cm
@@ -815,6 +1072,13 @@
   authority: B
   parallels: ""
   notes: "Шлока Бхаг. 4.31.14 в изд. 1903 г. дана как вставка издателя."
+  themes: [pranks, teaching, deities]
+  bhava: [child]
+  teaching: [bhakti-supremacy]
+  scriptures: ["Бхаг. 4.31.14"]
+  event: ev-shashthi-offering-eaten
+  verses:
+    - {file: "lochana/ru/12.md", from: "358", to: "380"}
 
 - id: lcm-0052
   source: lochana-cm
@@ -831,6 +1095,12 @@
   authority: B
   parallels: ""
   notes: "Продолжение — lcm-0053 (Мурари у родителей Господа и у Адвайты, порция 13)."
+  themes: [pranks, mercy, teaching]
+  bhava: [child]
+  teaching: [bhakti-supremacy]
+  event: ev-murari-yoga-mockery
+  verses:
+    - {file: "lochana/ru/12.md", from: "381", to: "399"}
 
 - id: lcm-0053
   source: lochana-cm
@@ -847,6 +1117,11 @@
   authority: B
   parallels: ""
   notes: "Продолжение lcm-0052. В A нумерация сбита (400, 401, 401, затем снова 393–403); в переводе повторы различены буквами."
+  themes: [revelation, mercy]
+  teaching: [gaura-tattva]
+  event: ev-murari-yoga-mockery
+  verses:
+    - {file: "lochana/ru/13.md", from: "400", to: "403"}
 
 - id: lcm-0054
   source: lochana-cm
@@ -863,6 +1138,12 @@
   authority: B
   parallels: ""
   notes: "В изложении Бхактисиддханты — «представление санкиртана-лилы» с мальчиками-сверстниками."
+  themes: [kirtan, pranks]
+  bhava: [child]
+  teaching: [holy-name]
+  event: ev-child-kirtan
+  verses:
+    - {file: "lochana/ru/13.md", from: "404", to: "421"}
 
 - id: lcm-0055
   source: lochana-cm
@@ -879,6 +1160,10 @@
   authority: B
   parallels: "Мурари 1.07.1–6"
   notes: "У Лочана Даса — в конце балья-лилы; по шкале — период санньясы Вишварупы. Рамка «Мурари рассказывает Дамодаре» взята из жития Мурари."
+  themes: [sannyasa, family]
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "lochana/ru/13.md", from: "422", to: "441"}
 
 - id: lcm-0056
   source: lochana-cm
@@ -895,6 +1180,10 @@
   authority: B
   parallels: "Мурари 1.07.7–10"
   notes: "В A двустишие 453 утрачено при распознавании; восстановлено по изд. 1903 и 1983 гг."
+  themes: [separation, family, sannyasa]
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "lochana/ru/13.md", from: "442", to: "456"}
 
 - id: lcm-0057
   source: lochana-cm
@@ -911,6 +1200,10 @@
   authority: B
   parallels: ""
   notes: "Ст. 459+1–459+3 — только изд. 1983 г. (авторитетность этой подробности на ступень ниже — C): Господь произносит «ка, кха, га, гха», за два-три дня выучивается писать все буквы и день и ночь пишет и читает имена Кришны."
+  themes: [learning, festival]
+  event: ev-hate-khadi
+  verses:
+    - {file: "lochana/ru/14.md", from: "457", to: "459+3"}
 
 - id: lcm-0058
   source: lochana-cm
@@ -927,6 +1220,10 @@
   authority: B
   parallels: ""
   notes: "Ст. 472+1 (подпись Лочана Даса) — только изд. 1983 г."
+  themes: [festival, family]
+  event: ev-chudakarana-karnavedha
+  verses:
+    - {file: "lochana/ru/14.md", from: "460", to: "472+1"}
 
 - id: lcm-0059
   source: lochana-cm
@@ -943,6 +1240,10 @@
   authority: B
   parallels: "Мурари 1.07.12–13 (отец бранит сына за игры)"
   notes: ""
+  themes: [pranks, family, learning]
+  event: ev-bird-tracks-game-father-anger
+  verses:
+    - {file: "lochana/ru/14.md", from: "473", to: "500"}
 
 - id: lcm-0060
   source: lochana-cm
@@ -959,6 +1260,11 @@
   authority: B
   parallels: "Мурари 1.07.14–17"
   notes: "У Мурари брахман говорит о сыне Мишры в третьем лице, у Лочана Даса — от лица Господа."
+  themes: [celestial, family, revelation]
+  divergence: "У Мурари (1.07.14–16) брахман во сне говорит о сыне Мишры в третьем лице, у Лочана Даса — от лица Самого Господа."
+  event: ev-jagannatha-mishra-dream
+  verses:
+    - {file: "lochana/ru/14.md", from: "501", to: "516"}
 
 - id: lcm-0061
   source: lochana-cm
@@ -975,6 +1281,15 @@
   authority: B
   parallels: ""
   notes: "Предвестие санньясы на упанаяне — мотив Лочана Даса. Ст. 530+1 — только изд. 1983 г.: нагари окружают Гаурангу, желая умастить Его (мотив нагари-бхавы; авторитетность подробности — C)."
+  themes: [festival, ecstasy, sannyasa]
+  years: [1494, 1495]
+  age: [8, 8]
+  date_conf: вероятно
+  date_basis: "Лочан: упанаяна на девятом году"
+  divergence: "Предвестие санньясы на упанаяне — мотив Лочана Даса."
+  event: ev-upanayana
+  verses:
+    - {file: "lochana/ru/15.md", from: "517", to: "546"}
 
 - id: lcm-0062
   source: lochana-cm
@@ -991,6 +1306,12 @@
   authority: B
   parallels: "ЧЧ Ади 3 (нисхождение раз в день Брахмы; цвета юга-аватар), Ади 4 (Радха — хладини; аватара юги входит в Кришну)"
   notes: "Учитель Сударшана Пандит упомянут и у Мурари (1.09.1). Строка 603 (о Кали-юге иных кальп) испорчена в A."
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, yuga-dharma, prema]
+  scriptures: ["Бхаг. 11.5.20–32", "Бхаг. 10.8.13"]
+  event: ev-pandits-recognize-vishvambhara
+  verses:
+    - {file: "lochana/ru/15.md", from: "547", to: "614"}
 
 - id: lcm-0063
   source: lochana-cm
@@ -1007,6 +1328,12 @@
   authority: B
   parallels: "Мурари 1.07.18–24"
   notes: ""
+  themes: [teaching, festival, family]
+  teaching: [purity]
+  calendar: "экадаши"
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "lochana/ru/16.md", from: "615", to: "628"}
 
 - id: lcm-0064
   source: lochana-cm
@@ -1023,6 +1350,11 @@
   authority: B
   parallels: "Мурари 1.07.25–27, 1.08.1–10"
   notes: "Толкование «тела преданного» — по Мурари; по гаудия-вайшнавскому пониманию тело Господа не отлично от Него, а Махапрабху — Кришна в облике преданного (см. сноски в переводе)."
+  themes: [teaching]
+  teaching: [vaishnava, gaura-tattva]
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "lochana/ru/16.md", from: "629", to: "654"}
 
 - id: lcm-0065
   source: lochana-cm
@@ -1039,6 +1371,11 @@
   authority: B
   parallels: "Мурари 1.08.13–24"
   notes: ""
+  themes: [departure, family, teaching]
+  teaching: [maya]
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "lochana/ru/16.md", from: "655", to: "696"}
 
 - id: lcm-0066
   source: lochana-cm
@@ -1055,6 +1392,11 @@
   authority: B
   parallels: "Мурари 1.09.1–4"
   notes: ""
+  themes: [learning, pranks]
+  bhava: [teacher]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "lochana/ru/17.md", from: "697", to: "710"}
 
 - id: lcm-0067
   source: lochana-cm
@@ -1071,6 +1413,10 @@
   authority: B
   parallels: "Мурари 1.09.5–8"
   notes: ""
+  themes: [family]
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "lochana/ru/17.md", from: "711", to: "718"}
 
 - id: lcm-0068
   source: lochana-cm
@@ -1087,6 +1433,10 @@
   authority: B
   parallels: "Мурари 1.09.9–22"
   notes: "Ст. 756+1 (связующее двустишие: Шачи с почтением отвечает Ачарье) — только изд. 1983 г."
+  themes: [family]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "lochana/ru/17.md", from: "719", to: "760"}
 
 - id: lcm-0069
   source: lochana-cm
@@ -1103,6 +1453,10 @@
   authority: B
   parallels: "Мурари 1.09.23–33"
   notes: ""
+  themes: [family]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "lochana/ru/17.md", from: "761", to: "779"}
 
 - id: lcm-0070
   source: lochana-cm
@@ -1119,6 +1473,11 @@
   authority: B
   parallels: "Мурари 1.09.34–38, 1.10.1–2"
   notes: "Песни нагари (ст. 18–33) — мотив нагари-бхавы Лочана Даса."
+  themes: [family, festival]
+  divergence: "Песни горожанок (нагари) — мотив нагари-бхавы Лочана Даса, которого нет у Мурари."
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/18.md", from: "1", to: "33"}
 
 - id: lcm-0071
   source: lochana-cm
@@ -1135,6 +1494,10 @@
   authority: B
   parallels: "Мурари 1.10.3–12"
   notes: "Ст. 40+1–40+9 — только изд. 1983 г. (в изд. 1903 г. — в скобках; авторитетность на ступень ниже — C): нагари, умащая Господа перед свадебным омовением, теряют самообладание; Господа омывают водой Ганги, и нагари окружают Его (нагари-бхава Лочана Даса)."
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/18.md", from: "34", to: "61"}
 
 - id: lcm-0072
   source: lochana-cm
@@ -1151,6 +1514,10 @@
   authority: B
   parallels: "Мурари 1.10.13–17"
   notes: "Строфы о нагари (ст. 72, 78–92) — нагари-бхава Лочана Даса. Только в изд. 1983 г. (авторитетность на ступень ниже — C): ст. 72+1–72+6 (волнение женщин при виде Гауранги), 81+1, 86+1–86+2 (шествие нагари)."
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/18.md", from: "62", to: "92"}
 
 - id: lcm-0073
   source: lochana-cm
@@ -1167,6 +1534,10 @@
   authority: B
   parallels: "Мурари 1.10.18–22"
   notes: ""
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/19.md", from: "93", to: "118"}
 
 - id: lcm-0074
   source: lochana-cm
@@ -1183,6 +1554,10 @@
   authority: B
   parallels: "Мурари 1.10.23–26"
   notes: "Ст. 120–128 (перечень аватар) — только в A (в изд. 1903 г. — дополнительное чтение одной рукописи, в изд. 1983 г. нет). Ст. 136–147 — нагари-бхава Лочана Даса. Ст. 137+1–137+6 и 140+1–140+3 (женщины в свадебном покое: склоняются к Господу, кладут Ему в рот бетель, сажают Лакшми Ему на колени) — только изд. 1983 г. (авторитетность подробностей — C)."
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/19.md", from: "119", to: "147"}
 
 - id: lcm-0075
   source: lochana-cm
@@ -1199,6 +1574,10 @@
   authority: B
   parallels: "Мурари 1.10.26–27"
   notes: ""
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/19.md", from: "148", to: "171"}
 
 - id: lcm-0076
   source: lochana-cm
@@ -1215,6 +1594,10 @@
   authority: B
   parallels: "Мурари 1.10.27, 1.11.1–2"
   notes: "Далее в изд. 1983 и 1903 гг. — песнь на рагу синдхура (ст. 184+1–184+9, см. lcm-0253); в A её нет."
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "lochana/ru/19.md", from: "172", to: "184"}
 
 - id: lcm-0253
   source: lochana-cm
@@ -1231,7 +1614,8 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 г. (в изд. 1903 г. тоже есть); авторитетность на ступень ниже. Мотив нагари-бхавы Лочана Даса (см. ru/09, сноска 9). Две строфы испорчены в обоих изданиях."
-  themes: [pranks, learning]
+  themes: [family]
+  event: ev-evening-strolls-ganga
   verses:
     - {file: "lochana/ru/19.md", from: "184+1", to: "184+9"}
 
@@ -1250,6 +1634,10 @@
   authority: B
   parallels: ""
   notes: "У Мурари Гупты и в других ранних житиях этого эпизода нет. Только в изд. 1983 г. (авторитетность подробностей — C): ст. 14+1–14+2 (брахман живёт в хижине у Ганги, моля увидеть Гангу и Гаурангу вместе) и 22+1–22+5 (Ганга в зримом облике с молитвенно сложенными руками касается стоп Господа, брахман видит это; Господь трепещет от её любви; в изд. 1903 г. ст. 22+1–22+2 — в сноске)."
+  themes: [revelation, deities]
+  event: ev-ganga-rises-to-lord
+  verses:
+    - {file: "lochana/ru/20.md", from: "1", to: "34"}
 
 - id: lcm-0078
   source: lochana-cm
@@ -1266,6 +1654,12 @@
   authority: B
   parallels: ""
   notes: "Вставное пураническое сказание; Бхактисиддханта в изложении понимает «таяние» Господа как пот от экстаза при киртане."
+  themes: [teaching, deities]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 5.17.1", "Бхаг. 8.21.1–4"]
+  event: ev-ganga-rises-to-lord
+  verses:
+    - {file: "lochana/ru/20.md", from: "35", to: "60"}
 
 - id: lcm-0079
   source: lochana-cm
@@ -1282,6 +1676,10 @@
   authority: B
   parallels: "Мурари 1.11.5"
   notes: ""
+  themes: [family, pilgrimage, separation]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "lochana/ru/20.md", from: "61", to: "75"}
 
 - id: lcm-0080
   source: lochana-cm
@@ -1298,6 +1696,11 @@
   authority: B
   parallels: "Мурари 1.11.5–16"
   notes: "Ст. 76–86 — нагари-бхава Лочана Даса; ст. 86 — Гаура как Кришна с цветом Радхи. Ст. 86+1–86+2 (Господь оборачивается и с любовью смотрит на женщин) — только изд. 1983 г. (есть и в изд. 1903 г.)."
+  themes: [pilgrimage, kirtan, learning]
+  teaching: [holy-name]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "lochana/ru/20.md", from: "76", to: "103"}
 
 - id: lcm-0081
   source: lochana-cm
@@ -1314,6 +1717,10 @@
   authority: B
   parallels: "Мурари 1.11.17–20"
   notes: ""
+  themes: [family]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "lochana/ru/20.md", from: "104", to: "108"}
 
 - id: lcm-0082
   source: lochana-cm
@@ -1330,6 +1737,12 @@
   authority: B
   parallels: "Мурари 1.11.21–28, 1.12.1–6"
   notes: "У Лочана Даса змея — воплощённая разлука; в A Лакшми уходит в град Индры, а её «часть» — на Вайкунтху (в изд. 1983 г. наоборот). Традиция видит в Лакшмиприи саму Лакшми."
+  themes: [departure, separation, family]
+  teaching: [maya]
+  divergence: "Укус змеи — воплощённая разлука с Господом; по изд. Бхактисиддханты Лакшми уходит в град Индры, а её часть — на Вайкунтху (Мурари 1.12.17: сама Лакшми ушла к стопам Господа)."
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "lochana/ru/21.md", from: "109", to: "139"}
 
 - id: lcm-0083
   source: lochana-cm
@@ -1346,6 +1759,10 @@
   authority: B
   parallels: "Мурари 1.12.7–19"
   notes: "Рассказ об апсаре — утешение, скрывающее истину (ср. Мурари 1.12.13, 1.12.17)."
+  themes: [family, separation]
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "lochana/ru/21.md", from: "140", to: "160"}
 
 - id: lcm-0084
   source: lochana-cm
@@ -1362,6 +1779,10 @@
   authority: B
   parallels: "Мурари 1.13.1–17"
   notes: ""
+  themes: [family]
+  event: ev-vishnupriya-matchmaking
+  verses:
+    - {file: "lochana/ru/21.md", from: "1", to: "44"}
 
 - id: lcm-0085
   source: lochana-cm
@@ -1378,6 +1799,10 @@
   authority: B
   parallels: "Мурари 1.13.18–30, 1.14.1–2"
   notes: "Ст. 54+1–54+8 — только изд. 1983 г. (в изд. 1903 г. — в сноске; авторитетность подробности — C): Санатана с плачем падает на землю и молит Господа, вспоминая Рукмини и царевен Нараки, взять в жёны его дочь."
+  themes: [family, pranks]
+  event: ev-vishnupriya-matchmaking
+  verses:
+    - {file: "lochana/ru/21.md", from: "45", to: "78"}
 
 - id: lcm-0086
   source: lochana-cm
@@ -1394,6 +1819,10 @@
   authority: B
   parallels: "Мурари 1.14.3–13"
   notes: "Только в изд. 1983 г. (авторитетность подробностей — C): ст. 95+1–95+4 (жёны ночью с песнями приносят воду и на рассвете приходят в дом Шачи; в изд. 1903 г. — в примечании), 98+1–98+5 (нагари умащают и омывают Господа, теряя самообладание), 105+1–105+2 (нагари окружают Гаурангу, как звёзды луну)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "lochana/ru/22.md", from: "79", to: "121"}
 
 - id: lcm-0087
   source: lochana-cm
@@ -1410,6 +1839,10 @@
   authority: B
   parallels: "Мурари 1.14.14–20"
   notes: "Мотив нагари-бхавы (ст. 135–145). Строфа 142+1 — только изд. 1983 г. (есть и в изд. 1903 г.)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "lochana/ru/22.md", from: "122", to: "145"}
 
 - id: lcm-0088
   source: lochana-cm
@@ -1426,6 +1859,10 @@
   authority: B
   parallels: "Мурари 1.14.21–31"
   notes: "Лочан Дас называет Вишнуприю Махалакшми (ст. 156, 162); гаудия-вайшнавы почитают её как Бху-шакти. Сцена в свадебном покое — в духе нагари-бхавы. Строфа 164+1 — только изд. 1983 г. (есть и в изд. 1903 г.)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "lochana/ru/22.md", from: "146", to: "166"}
 
 - id: lcm-0089
   source: lochana-cm
@@ -1442,6 +1879,10 @@
   authority: B
   parallels: "Мурари 1.14.32–33"
   notes: ""
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "lochana/ru/22.md", from: "167", to: "178"}
 
 - id: lcm-0090
   source: lochana-cm
@@ -1458,6 +1899,10 @@
   authority: B
   parallels: "Мурари 1.15.1–6"
   notes: "Ст. 13+1 (Шачи просит поднести пинду в Гае и за неё) — только изд. 1983 г."
+  themes: [pilgrimage, family]
+  event: ev-departure-for-gaya
+  verses:
+    - {file: "lochana/ru/23.md", from: "1", to: "17"}
 
 - id: lcm-0091
   source: lochana-cm
@@ -1474,6 +1919,11 @@
   authority: B
   parallels: "Мурари 1.15.7"
   notes: ""
+  themes: [teaching, pilgrimage]
+  teaching: [bhakti-supremacy]
+  event: ev-gaya-journey-deer-lesson
+  verses:
+    - {file: "lochana/ru/23.md", from: "18", to: "28"}
 
 - id: lcm-0092
   source: lochana-cm
@@ -1490,6 +1940,12 @@
   authority: B
   parallels: "Мурари 1.15.8–14"
   notes: "Бхактисиддханта в изложении: болезнь и исцеление — лила, разыгранная, чтобы научить почитанию брахманов."
+  themes: [pilgrimage, teaching, deities]
+  teaching: [vaishnava, purity]
+  scriptures: ["Падма-пурана"]
+  event: ev-mandara-fever-brahmana-water
+  verses:
+    - {file: "lochana/ru/23.md", from: "29", to: "57"}
 
 - id: lcm-0093
   source: lochana-cm
@@ -1506,6 +1962,12 @@
   authority: B
   parallels: "Мурари 1.15.15–19; ЧБ Ади 17"
   notes: "У Лочана Даса встреча — по дороге, до обрядов в Гае; мантра названа «мантрой Гопинатхи» (у Мурари и Вриндавана Даса — десятисложная). По Бхактисиддханте, Господь попросил мантру, чтобы оказать милость Ишваре Пури. Ст. 75+1–75+2 — только изд. 1983 г. (в изд. 1903 г. — в примечании; авторитетность подробности — C): Ишвара Пури видит Господа в облике Кришны с флейтой, вспоминает слова Мадхавендры Пури и понимает, что Кришна явился."
+  themes: [ecstasy, pilgrimage]
+  bhava: [radha, krishna, devotee]
+  divergence: "Встреча с Ишварой Пури — по дороге, до обрядов в Гае; мантра названа «мантрой Гопинатхи» (у Мурари 1.15.18 и в ЧБ Ади 17 — десятисложная мантра)."
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "lochana/ru/23.md", from: "58", to: "75+2"}
 
 - id: lcm-0094
   source: lochana-cm
@@ -1522,6 +1984,11 @@
   authority: B
   parallels: "Мурари 1.16.1–7"
   notes: ""
+  themes: [ecstasy, pilgrimage, deities]
+  bhava: [devotee]
+  event: ev-gaya-vishnupada-prema
+  verses:
+    - {file: "lochana/ru/23.md", from: "76", to: "92"}
 
 - id: lcm-0095
   source: lochana-cm
@@ -1538,6 +2005,11 @@
   authority: B
   parallels: "Мурари 1.16.8–11"
   notes: ""
+  themes: [celestial, pilgrimage, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-gaya-heavenly-voice-return
+  verses:
+    - {file: "lochana/ru/23.md", from: "93", to: "109"}
 
 - id: lcm-0096
   source: lochana-cm
@@ -1554,6 +2026,9 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/23.md", from: "110", to: "124"}
 
 - id: lcm-0097
   source: lochana-cm
@@ -1570,6 +2045,13 @@
   authority: B
   parallels: "Мурари 2.1.8"
   notes: ""
+  themes: [teaching, learning]
+  bhava: [teacher]
+  teaching: [bhakti-supremacy]
+  scriptures: ["Падьявали"]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "lochana/ru/24.md", from: "1", to: "16"}
 
 - id: lcm-0098
   source: lochana-cm
@@ -1586,6 +2068,13 @@
   authority: B
   parallels: "Мурари 2.1.9–18; ЧБ Мадхья 22"
   notes: "Ст. 31+1 (лишь вайшнавы могут дать прему) — только изд. 1983 г."
+  themes: [ecstasy, family, separation]
+  bhava: [radha]
+  teaching: [vaishnava, prema]
+  divergence: "Шачи обретает прему сразу, по слову Господа о милости вайшнавов; в ЧБ (Мадхья 22) — лишь после прощения оскорбления Адвайты."
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "lochana/ru/24.md", from: "17", to: "34"}
 
 - id: lcm-0099
   source: lochana-cm
@@ -1602,6 +2091,12 @@
   authority: B
   parallels: "Мурари 2.1.19–30"
   notes: ""
+  themes: [ecstasy]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  event: ev-shuklambara-house-prema
+  verses:
+    - {file: "lochana/ru/24.md", from: "35", to: "52"}
 
 - id: lcm-0100
   source: lochana-cm
@@ -1618,6 +2113,10 @@
   authority: B
   parallels: ""
   notes: "Отождествление некоторых имён (Ниламбара, Харидас, Дамодара Пандит) предположительно."
+  themes: [kirtan, ecstasy]
+  event: ev-associates-gather
+  verses:
+    - {file: "lochana/ru/24.md", from: "53", to: "64"}
 
 - id: lcm-0101
   source: lochana-cm
@@ -1634,6 +2133,11 @@
   authority: B
   parallels: "Мурари 2.2.1–6"
   notes: ""
+  themes: [ecstasy, krishna-lila, kirtan]
+  bhava: [radha]
+  event: ev-flute-sound-radha-bhava
+  verses:
+    - {file: "lochana/ru/24.md", from: "65", to: "77"}
 
 - id: lcm-0102
   source: lochana-cm
@@ -1650,6 +2154,11 @@
   authority: B
   parallels: "Мурари 2.2.7–10"
   notes: ""
+  themes: [celestial, revelation]
+  teaching: [gaura-tattva, holy-name]
+  event: ev-heavenly-voice-you-are-ishvara
+  verses:
+    - {file: "lochana/ru/24.md", from: "78", to: "83"}
 
 - id: lcm-0103
   source: lochana-cm
@@ -1666,6 +2175,13 @@
   authority: B
   parallels: "Мурари 2.2.11–26; 2.7.13–18"
   notes: ""
+  themes: [revelation, teaching]
+  bhava: [varaha, rama]
+  teaching: [prema, vedanta]
+  scriptures: ["Гита 10.15", "Шветашватара-уп. 3.19"]
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "lochana/ru/24.md", from: "84", to: "121"}
 
 - id: lcm-0104
   source: lochana-cm
@@ -1682,6 +2198,14 @@
   authority: B
   parallels: "Мурари 2.2.27–34"
   notes: "Толкование «кевалам» как «кайвальи» — вслед за Мурари; ср. иное толкование в ЧЧ Ади 17.21–25."
+  themes: [teaching, kirtan]
+  bhava: [varaha]
+  teaching: [holy-name, yuga-dharma]
+  scriptures: ["Брихан-нарадия-пурана 38.126"]
+  divergence: "«Кевалам» истолковано как кайвалья — вслед за Мурари (2.2.29–33); ЧЧ Ади 17.21–25 толкует иначе."
+  event: ev-harer-nama-explained
+  verses:
+    - {file: "lochana/ru/24.md", from: "122", to: "138"}
 
 - id: lcm-0105
   source: lochana-cm
@@ -1698,6 +2222,11 @@
   authority: B
   parallels: "Мурари 2.3.1–4"
   notes: ""
+  themes: [celestial, mercy, revelation]
+  bhava: [aishvarya]
+  event: ev-gods-receive-prema
+  verses:
+    - {file: "lochana/ru/25.md", from: "139", to: "158"}
 
 - id: lcm-0106
   source: lochana-cm
@@ -1714,6 +2243,12 @@
   authority: B
   parallels: "Мурари 2.3.5–9"
   notes: "Ст. 174+1 (Шукламбара всю ночь повторяет имя Кришны) — только изд. 1983 г."
+  themes: [mercy, teaching]
+  teaching: [bhakti-supremacy]
+  scriptures: ["Нарада-панчаратра 1.2.6"]
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "lochana/ru/25.md", from: "159", to: "175"}
 
 - id: lcm-0107
   source: lochana-cm
@@ -1730,6 +2265,11 @@
   authority: B
   parallels: "Мурари 2.3.10–17"
   notes: ""
+  themes: [mercy, ecstasy]
+  teaching: [vaishnava]
+  event: ev-gadadhara-receives-prema
+  verses:
+    - {file: "lochana/ru/25.md", from: "176", to: "187"}
 
 - id: lcm-0108
   source: lochana-cm
@@ -1746,6 +2286,12 @@
   authority: B
   parallels: ""
   notes: "Только у Лочана Даса (участие преданных Шрикханды); в других житиях этой сцены нет."
+  themes: [revelation, krishna-lila, kirtan]
+  bhava: [krishna]
+  divergence: "Только у Лочана Даса: Гададхара — Радха, Нарахари — Мадхумати, Рагхунандана — Мадана (преданные Шрикханды)."
+  event: ev-rasa-shrivasa-vrindavana
+  verses:
+    - {file: "lochana/ru/25.md", from: "188", to: "197"}
 
 - id: lcm-0109
   source: lochana-cm
@@ -1762,6 +2308,10 @@
   authority: B
   parallels: "Мурари 2.3.18–27"
   notes: ""
+  themes: [kirtan, revelation]
+  event: ev-clouds-dispersed-kirtan
+  verses:
+    - {file: "lochana/ru/25.md", from: "198", to: "213"}
 
 - id: lcm-0110
   source: lochana-cm
@@ -1778,6 +2328,11 @@
   authority: B
   parallels: "Мурари 2.4.3–5"
   notes: "Песнь в духе нагари-бхавы (ср. ru/09, сноска 9)."
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "lochana/ru/25.md", from: "1", to: "24"}
 
 - id: lcm-0111
   source: lochana-cm
@@ -1794,6 +2349,11 @@
   authority: B
   parallels: "Мурари 2.4.6–11"
   notes: ""
+  themes: [revelation, teaching]
+  teaching: [maya]
+  event: ev-mango-tree
+  verses:
+    - {file: "lochana/ru/26.md", from: "25", to: "46"}
 
 - id: lcm-0112
   source: lochana-cm
@@ -1810,6 +2370,12 @@
   authority: B
   parallels: "Мурари 2.4.12–21"
   notes: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  scriptures: ["Падма-пурана («раманте йогино ’нанте»)", "Бхаг. 1.3.28"]
+  event: ev-mukunda-datta-instruction
+  verses:
+    - {file: "lochana/ru/26.md", from: "47", to: "63"}
 
 - id: lcm-0113
   source: lochana-cm
@@ -1826,6 +2392,11 @@
   authority: B
   parallels: "Мурари 2.4.22–27"
   notes: ""
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, maya]
+  event: ev-murari-adhyatma-instruction
+  verses:
+    - {file: "lochana/ru/26.md", from: "64", to: "80"}
 
 - id: lcm-0114
   source: lochana-cm
@@ -1842,6 +2413,11 @@
   authority: B
   parallels: "Мурари 2.4.27–32"
   notes: ""
+  themes: [kirtan]
+  teaching: [vaishnava]
+  event: ev-dance-shrivasa-house
+  verses:
+    - {file: "lochana/ru/26.md", from: "81", to: "86"}
 
 - id: lcm-0115
   source: lochana-cm
@@ -1858,6 +2434,11 @@
   authority: B
   parallels: "Мурари 2.4.33–34"
   notes: ""
+  themes: [offense, teaching]
+  teaching: [gaura-tattva]
+  event: ev-blasphemous-student-ganga-bath
+  verses:
+    - {file: "lochana/ru/26.md", from: "87", to: "93"}
 
 - id: lcm-0116
   source: lochana-cm
@@ -1874,6 +2455,11 @@
   authority: B
   parallels: "Мурари 2.5.1–19"
   notes: "Лочан Дас не называет места; у Мурари (2.5.14) — Шантипур. Участие Нарахари и Рагхунанданы — только у Лочана."
+  themes: [kirtan, prasada]
+  divergence: "Место не названо; у Мурари (2.5.14) — Шантипур; участие Нарахари и Рагхунанданы — только у Лочана Даса."
+  event: ev-visit-advaita
+  verses:
+    - {file: "lochana/ru/26.md", from: "1", to: "2:35"}
 
 - id: lcm-0117
   source: lochana-cm
@@ -1890,6 +2476,11 @@
   authority: B
   parallels: "Мурари 2.5.20–33"
   notes: "В ст. 42 A: «без освобождения нет знания Кришны», B: «без бхакти»."
+  themes: [teaching, ecstasy]
+  teaching: [bhakti-supremacy, vedanta, prema]
+  event: ev-jnana-path-bhakti-supreme
+  verses:
+    - {file: "lochana/ru/27.md", from: "36", to: "60"}
 
 - id: lcm-0118
   source: lochana-cm
@@ -1906,6 +2497,11 @@
   authority: B
   parallels: "Мурари 2.6.1–10"
   notes: "Ненавистник — возможно, Гопала Чапала (ЧЧ Ади 17)."
+  themes: [offense, revelation]
+  teaching: [vaishnava]
+  event: ev-lord-honors-club
+  verses:
+    - {file: "lochana/ru/27.md", from: "61", to: "72"}
 
 - id: lcm-0119
   source: lochana-cm
@@ -1922,6 +2518,11 @@
   authority: B
   parallels: "Мурари 2.6.10–17"
   notes: ""
+  themes: [revelation, kirtan]
+  bhava: [aishvarya]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "lochana/ru/27.md", from: "73", to: "89"}
 
 - id: lcm-0120
   source: lochana-cm
@@ -1938,6 +2539,11 @@
   authority: B
   parallels: "Мурари 2.6.18–27"
   notes: ""
+  themes: [teaching]
+  teaching: [associates-tattva, bhakti-supremacy]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "lochana/ru/27.md", from: "90", to: "109"}
 
 - id: lcm-0121
   source: lochana-cm
@@ -1954,6 +2560,10 @@
   authority: B
   parallels: ""
   notes: "Описательная песнь; образы в духе нагари-бхавы (ст. 114, 117)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "lochana/ru/27.md", from: "110", to: "118"}
 
 - id: lcm-0122
   source: lochana-cm
@@ -1970,6 +2580,13 @@
   authority: B
   parallels: "Мурари 2.7.6–18; ЧЧ Мадхья 15.137–157 (испытание верности Мурари Раме)"
   notes: "Лочан Дас говорит «у Себя дома» (ст. 1), но по ст. 25–28 и Мурари (2.7.6) — в доме Шривасы. Наставление петь о Радхе и Кришне (ст. 16–17) — только у Лочана."
+  themes: [revelation, mercy, teaching]
+  bhava: [rama]
+  scriptures: ["Мурари 2.7.10–11 («Рамаштака»)"]
+  divergence: "Наставление Мурари петь о Радхе и Кришне — только у Лочана Даса (нет у Мурари)."
+  event: ev-murari-ramadasa
+  verses:
+    - {file: "lochana/ru/28.md", from: "1", to: "17"}
 
 - id: lcm-0123
   source: lochana-cm
@@ -1986,6 +2603,12 @@
   authority: B
   parallels: "Мурари 2.7.19–27"
   notes: ""
+  themes: [teaching, prasada]
+  teaching: [vaishnava, bhakti-supremacy]
+  scriptures: ["Бхаг. 11.14.20"]
+  event: ev-shrivasa-service-teaching
+  verses:
+    - {file: "lochana/ru/28.md", from: "18", to: "28"}
 
 - id: lcm-0124
   source: lochana-cm
@@ -2002,6 +2625,11 @@
   authority: B
   parallels: "Мурари 2.8.1–14; ЧБ Мадхья-кханда (приход Нитьянанды в дом Нанданы Ачарьи)"
   notes: "Искали «к югу от селения» (ст. 33), как у Мурари (2.8.5). Ст. 69+1 (Господь снова простирается перед Нитьянандой) — только изд. 1983 г."
+  themes: [ecstasy, revelation, krishna-lila]
+  bhava: [balarama]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "lochana/ru/28.md", from: "29", to: "73"}
 
 - id: lcm-0125
   source: lochana-cm
@@ -2018,6 +2646,11 @@
   authority: B
   parallels: "Мурари 2.8.15–17"
   notes: ""
+  themes: [teaching]
+  teaching: [associates-tattva, prema]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "lochana/ru/28.md", from: "74", to: "78"}
 
 - id: lcm-0126
   source: lochana-cm
@@ -2034,6 +2667,11 @@
   authority: B
   parallels: "Мурари 2.8.18–19 (трапеза); ЧБ Мадхья-кханда (сон Шачи о Кришне и Балараме)"
   notes: "Сцена с Шачи — у Лочана (у Мурари её нет). Ст. 80+1–80+17 — только изд. 1983 г. (в изд. 1903 г. — в сноске; авторитетность подробностей — C): Господь раздаёт преданным куски каупины Нитьянанды и поит их водой с Его стоп; Нитьянанда пляшет, и земля дрожит; Шачи узнаёт в Нитьянанде Вишварупу, Господь велит ей хранить это в тайне."
+  themes: [prasada, family]
+  divergence: "Сцена с Шачи — только у Лочана Даса (нет у Мурари)."
+  event: ev-nityananda-meal-shachi
+  verses:
+    - {file: "lochana/ru/28.md", from: "79", to: "90"}
 
 - id: lcm-0127
   source: lochana-cm
@@ -2050,6 +2688,12 @@
   authority: B
   parallels: "Мурари 2.8.20–29; ЧЧ Мадхья 6 (шестирукий облик Сарвабхауме)"
   notes: "Видение Радхи и Кришны (ст. 104) — у Лочана; у Мурари — шестирукий, четырёхрукий и двурукий облик. Ст. 106+1–106+30 — только изд. 1983 г. (в изд. 1903 г. — в сноске; авторитетность подробностей — C): песнь с описанием шестирукого облика и красоты Нитьянанды в бхаве Баларамы; Он зовёт пастушков и коров Враджа, оба Господа падают к стопам друг друга, Гаура вспоминает с «братом Балаем» игры во Врадже."
+  themes: [revelation, krishna-lila]
+  bhava: [aishvarya, radha, krishna, balarama]
+  divergence: "Видение Радхи и Кришны в Гауре — у Лочана Даса; у Мурари (2.8.20–29) — лишь шести-, четырёх- и двурукий облик."
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "lochana/ru/28.md", from: "91", to: "106+30"}
 
 - id: lcm-0128
   source: lochana-cm
@@ -2066,6 +2710,11 @@
   authority: B
   parallels: "Мурари 2.9.2–6"
   notes: ""
+  themes: [ecstasy, krishna-lila]
+  bhava: [devotee]
+  event: ev-dream-of-krishna
+  verses:
+    - {file: "lochana/ru/29.md", from: "1", to: "14"}
 
 - id: lcm-0129
   source: lochana-cm
@@ -2082,6 +2731,12 @@
   authority: B
   parallels: "Мурари 2.9.6–11"
   notes: "У Мурари (2.9.6–7) видение — в доме Шривасы."
+  themes: [revelation]
+  bhava: [aishvarya]
+  divergence: "У Мурари (2.9.6–7) видение — в доме Шривасы."
+  event: ev-nityananda-sees-forms
+  verses:
+    - {file: "lochana/ru/29.md", from: "15", to: "23"}
 
 - id: lcm-0130
   source: lochana-cm
@@ -2098,6 +2753,12 @@
   authority: B
   parallels: "Мурари 2.9.13–16"
   notes: "Лочан Дас не называет места; по Мурари (2.9.14) — на берегу Ганги, в доме Адвайты (Шантипур)."
+  themes: [ecstasy]
+  teaching: [associates-tattva]
+  divergence: "Место не названо; у Мурари (2.9.14) — дом Адвайты на берегу Ганги."
+  event: ev-nityananda-visits-advaita
+  verses:
+    - {file: "lochana/ru/29.md", from: "24", to: "35"}
 
 - id: lcm-0131
   source: lochana-cm
@@ -2114,6 +2775,13 @@
   authority: B
   parallels: "Мурари 2.9.17–23"
   notes: "Присутствие Нарахари и Рагхунанданы — только у Лочана."
+  themes: [revelation, prasada]
+  bhava: [aishvarya]
+  teaching: [bhakti-supremacy]
+  divergence: "Присутствие Нарахари и Рагхунанданы — только у Лочана Даса."
+  event: ev-advaita-worships-lord-shrivasa
+  verses:
+    - {file: "lochana/ru/29.md", from: "36", to: "58"}
 
 - id: lcm-0132
   source: lochana-cm
@@ -2130,6 +2798,10 @@
   authority: B
   parallels: "Мурари 2.10.2–6"
   notes: ""
+  themes: [mercy, prasada, kirtan]
+  event: ev-haridasa-arrives
+  verses:
+    - {file: "lochana/ru/29.md", from: "59", to: "69"}
 
 - id: lcm-0133
   source: lochana-cm
@@ -2146,6 +2818,11 @@
   authority: B
   parallels: "Мурари 2.10.6–9"
   notes: ""
+  themes: [separation]
+  teaching: [vaishnava]
+  event: ev-nityananda-kaupina
+  verses:
+    - {file: "lochana/ru/29.md", from: "70", to: "80"}
 
 - id: lcm-0134
   source: lochana-cm
@@ -2162,6 +2839,12 @@
   authority: B
   parallels: "Мурари 2.10.10–13"
   notes: "Плач Шачи — только у Лочана."
+  themes: [revelation, separation, kirtan]
+  teaching: [prema]
+  divergence: "Плач Шачи — только у Лочана Даса."
+  event: ev-lord-disappears-with-shrivasa
+  verses:
+    - {file: "lochana/ru/29.md", from: "81", to: "109"}
 
 - id: lcm-0254
   source: lochana-cm
@@ -2179,6 +2862,7 @@
   parallels: "Мурари 2.10.16–17"
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в основном тексте); в изд. Бхактисиддханты нет, авторитетность на ступень ниже. У Мурари эта игра понята как повторение игры Кришны с одеждами гопи."
   themes: [pranks, krishna-lila]
+  event: ev-lord-takes-clothes
   verses:
     - {file: "lochana/ru/30.md", from: "2+1", to: "2+7"}
 
@@ -2197,6 +2881,13 @@
   authority: B
   parallels: "Мурари 2.10.18–21"
   notes: "Перед этим в изд. 1983 г. — игра Господа с одеждами преданных (ст. 2+1–2+7, см. lcm-0254)."
+  themes: [ecstasy, kirtan]
+  bhava: [krishna]
+  teaching: [vaishnava]
+  event: ev-nityananda-foot-water
+  verses:
+    - {file: "lochana/ru/30.md", from: "1", to: "2"}
+    - {file: "lochana/ru/30.md", from: "3", to: "23"}
 
 - id: lcm-0136
   source: lochana-cm
@@ -2213,6 +2904,10 @@
   authority: B
   parallels: "Мурари 2.10.24–26"
   notes: "Порядок ст. 28–30 в изд. 1983 г. иной (угощение относится к Адвайте)."
+  themes: [revelation, celestial, prasada]
+  event: ev-haridasa-brahma
+  verses:
+    - {file: "lochana/ru/30.md", from: "24", to: "34"}
 
 - id: lcm-0137
   source: lochana-cm
@@ -2229,6 +2924,12 @@
   authority: B
   parallels: "ЧЧ Ади 3–4 (причины нисхождения)"
   notes: "Присутствие Нарахари и Рагхунанданы — только у Лочана. Названы также Шриман и Санджая."
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, yuga-dharma, prema]
+  scriptures: ["Гита 4.8"]
+  event: ev-reasons-advent-told-devotees
+  verses:
+    - {file: "lochana/ru/30.md", from: "35", to: "48"}
 
 - id: lcm-0138
   source: lochana-cm
@@ -2245,6 +2946,12 @@
   authority: B
   parallels: "ЧБ Мадхья 13; ЧЧ Ади 17"
   notes: "Ст. 62+1 (тысяча писцов за сто рождений не сочтут их грехов) — только изд. 1983 г. (в изд. 1903 г. — в сноске)."
+  themes: [kirtan, mercy]
+  teaching: [holy-name]
+  scriptures: ["Бхаг. 6.1–2"]
+  event: ev-preaching-door-to-door
+  verses:
+    - {file: "lochana/ru/30.md", from: "49", to: "79"}
 
 - id: lcm-0139
   source: lochana-cm
@@ -2261,6 +2968,11 @@
   authority: B
   parallels: "ЧБ Мадхья 13; ЧЧ Ади 17; Мурари 2.13 (обещание спасти Джагая и Мадхая)"
   notes: "У Лочана (изд. Бхактисиддханты) черепок бросают оба брата; в ЧБ — один Мадхай, а Джагай удерживает его. Только в изд. 1983 г. (авторитетность подробностей — C): ст. 96+1, 99+1, 101+1 (угрозы братьев и пение преданных); 102+1–102+4 (Нитьянанда со слезами смотрит на братьев, сердце Джагая тает, и он застывает; черепок бросает один Мадхай); 105+1–105+5 (Нитьянанда, не замечая раны, просит братьев петь имя Хари; Господь отирает Его кровь); 111+1–111+4 (Господь призывает Сударшану, Мурари Гупта просит позволения убить братьев, Нитьянанда удерживает его); 117+1, 122+1–122+2, 123+1–123+2 (Нитьянанда удерживает Сударшану; Господь: через Нитьянанду придёт спасение душ Кали). Продолжение (раскаяние братьев) — ст. 127–169, в следующей порции."
+  themes: [offense, mercy, kirtan]
+  divergence: "По изд. Бхактисиддханты черепок бросают оба брата; в ЧБ (Мадхья 13) — один Мадхай, а Джагай удерживает его."
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "lochana/ru/30.md", from: "80", to: "126"}
 
 - id: lcm-0140
   source: lochana-cm
@@ -2277,6 +2989,12 @@
   authority: B
   parallels: "ЧБ Мадхья 13; ЧЧ Ади 17; Мурари 2.13 (только обещание)"
   notes: "Обрядовый дар грехов с листом туласи. Ст. 146+1 (Аджамила из любви к сыну назвал имя Нараяны и достиг Вайкунтхи) и 148+1 (тысяча писцов не сочтут грехов братьев) — только изд. 1983 г."
+  themes: [mercy, ecstasy]
+  teaching: [holy-name]
+  divergence: "Господь принимает грехи братьев обрядовым даром с листом туласи у Ганги; у Мурари (2.13) — лишь обещание спасти их."
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "lochana/ru/31.md", from: "127", to: "169"}
 
 - id: lcm-0141
   source: lochana-cm
@@ -2293,6 +3011,11 @@
   authority: B
   parallels: "Мурари 2.11.1–6"
   notes: "Не Ванамали Ачарья (сват). Видение Вриндавана — у Лочана подробнее, чем у Мурари. Ст. 6+1 (брахман, опалённый нищетой, пришёл в эти края) — только изд. 1983 г."
+  themes: [revelation, mercy, krishna-lila]
+  bhava: [krishna]
+  event: ev-vanamali-brahmana-vision
+  verses:
+    - {file: "lochana/ru/31.md", from: "1", to: "36"}
 
 - id: lcm-0142
   source: lochana-cm
@@ -2309,6 +3032,12 @@
   authority: B
   parallels: "Мурари 2.11.6–12"
   notes: ""
+  themes: [revelation]
+  bhava: [nrisimha]
+  scriptures: ["Вишну-сахасранама"]
+  event: ev-nrisimha-bhava-shrivasa
+  verses:
+    - {file: "lochana/ru/31.md", from: "37", to: "49"}
 
 - id: lcm-0143
   source: lochana-cm
@@ -2325,6 +3054,12 @@
   authority: B
   parallels: "Мурари 2.11.13–19"
   notes: "Певец не назван по имени."
+  themes: [ecstasy, deities]
+  bhava: [shiva]
+  scriptures: ["Шива-махимна-стотра"]
+  event: ev-shiva-singer
+  verses:
+    - {file: "lochana/ru/31.md", from: "50", to: "63"}
 
 - id: lcm-0144
   source: lochana-cm
@@ -2341,6 +3076,12 @@
   authority: B
   parallels: "Мурари 2.11.19–25; 2.12.1–4"
   notes: "У Лочана — «брахман», у Мурари и в изложении Бхактисиддханты — брахманка. Виджая Мишра — по-видимому, Виджая Дас. Ст. 77+1 (плачут Гададхара, Нарахари, Васудева, Джагадананда) — только изд. 1983 г. (в изд. 1903 г. — в сноске)."
+  themes: [separation, teaching]
+  bhava: [devotee]
+  divergence: "Пыль со стоп берёт брахман; у Мурари (2.11.21) и в изложении Бхактисиддханты — брахманка."
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "lochana/ru/32.md", from: "64", to: "92"}
 
 - id: lcm-0145
   source: lochana-cm
@@ -2357,6 +3098,12 @@
   authority: B
   parallels: "Мурари 2.12.5–17"
   notes: "Первое предвестие санньясы."
+  themes: [revelation, sannyasa, teaching]
+  bhava: [aishvarya]
+  scriptures: ["Бхаг. 10.81.16"]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "lochana/ru/32.md", from: "93", to: "113"}
 
 - id: lcm-0146
   source: lochana-cm
@@ -2373,6 +3120,12 @@
   authority: B
   parallels: "Мурари 2.13 (уборка храма); ср. ЧЧ Мадхья 12 (Гундича)"
   notes: "Нарахари, Рагхунандана и Мукунда Дас в перечне — только у Лочана. Ст. 133+1 (слово автора о силе памяти о стопах Гауранги) — только изд. 1983 г."
+  themes: [teaching, deities, mercy]
+  teaching: [vaishnava]
+  divergence: "Нарахари, Рагхунандана и Мукунда Дас в перечне — только у Лочана Даса."
+  event: ev-cleaning-temple
+  verses:
+    - {file: "lochana/ru/32.md", from: "114", to: "135"}
 
 - id: lcm-0147
   source: lochana-cm
@@ -2389,6 +3142,13 @@
   authority: B
   parallels: "Мурари 2.13; ЧЧ Ади 17 (Гопала Чапала)"
   notes: "В ЧЧ прощение испрошено позднее, после санньясы. В изд. 1983 г. иная редакция ст. 20–25 и 34 (переведена в сноске): по велению Господа преданные идут к прокажённому, и Шриваса исцеляет его водой со своих стоп — тело становится золотым. Только изд. 1983 г. (авторитетность подробностей — C): ст. 36+1 (исцелённый в экстазе премы), 43+1–43+2 (Господь пляшет, в теле брахмана проявляется према)."
+  themes: [offense, mercy]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 9.4.68"]
+  divergence: "Прокажённый прощён и исцелён ещё в Навадвипе; в ЧЧ (Ади 17) Гопала Чапала получает прощение лишь после санньясы Господа."
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "lochana/ru/32.md", from: "1", to: "44"}
 
 - id: lcm-0148
   source: lochana-cm
@@ -2405,6 +3165,10 @@
   authority: B
   parallels: "Мурари 2.13.18–23; ЧЧ Ади 17"
   notes: "В изд. 1983 г. далее — раздел о скорби Шачи, услышавшей о проклятии (ст. 69+1–69+22, см. lcm-0255); в изд. Бхактисиддханты его нет."
+  themes: [offense, sannyasa, mercy]
+  event: ev-brahmana-curse-sannyasa
+  verses:
+    - {file: "lochana/ru/33.md", from: "45", to: "69"}
 
 - id: lcm-0255
   source: lochana-cm
@@ -2421,7 +3185,8 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 г. (раздел без заголовка; в изд. 1903 г. нет); в изд. Бхактисиддханты нет, авторитетность на ступень ниже."
-  themes: [family, offense]
+  themes: [family, separation]
+  event: ev-brahmana-curse-sannyasa
   verses:
     - {file: "lochana/ru/33.md", from: "69+1", to: "69+22"}
 
@@ -2440,6 +3205,12 @@
   authority: B
   parallels: "Мурари 2.14.1–9"
   notes: "Место: у Лочана (изд. Бхактисиддханты) — «к Адвайте и Мурари»; в изд. 1983 г. и в изложении Бхактисиддханты — дом Адвайты; у Мурари — дом Мурари."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  divergence: "Место — у Адвайты и Мурари; у Мурари (2.14.4) — дом Мурари."
+  event: ev-balarama-bhava
+  verses:
+    - {file: "lochana/ru/33.md", from: "1", to: "19"}
 
 - id: lcm-0150
   source: lochana-cm
@@ -2456,6 +3227,11 @@
   authority: B
   parallels: "Мурари 2.14.10–24"
   notes: "Ванамали (ст. 50) не отождествлён; у Мурари он видит золотую палицу Саунанду."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "lochana/ru/33.md", from: "20", to: "2:58"}
 
 - id: lcm-0151
   source: lochana-cm
@@ -2472,6 +3248,11 @@
   authority: B
   parallels: "Мурари 2.15.1"
   notes: "«Дочь Бхишмаки» (Рукмини) — шутливо о Вишнуприи."
+  themes: [revelation, pranks]
+  bhava: [varaha, balarama, krishna]
+  event: ev-flute-request
+  verses:
+    - {file: "lochana/ru/33.md", from: "2:59", to: "71"}
 
 - id: lcm-0152
   source: lochana-cm
@@ -2488,6 +3269,12 @@
   authority: B
   parallels: ""
   notes: "В изд. 1983 г. — отдельная глава «संकीर्तन यज्ञ»."
+  themes: [teaching, kirtan]
+  teaching: [holy-name, yuga-dharma, associates-tattva]
+  scriptures: ["Бхаг. 11.5.32"]
+  event: ev-sankirtana-yajna-teaching
+  verses:
+    - {file: "lochana/ru/34.md", from: "72", to: "92"}
 
 - id: lcm-0153
   source: lochana-cm
@@ -2504,6 +3291,13 @@
   authority: B
   parallels: "Мурари 2.15.7–19, 2.16.1–8; ЧБ Мадхья 18"
   notes: "В ЧБ Господь в бхаве Рукмини, Гададхара — Её подруга, Харидас — страж; у Лочана Гададхара прославлен как Радха."
+  themes: [krishna-lila, ecstasy, revelation]
+  bhava: [gopi]
+  teaching: [prema]
+  divergence: "В ЧБ (Мадхья 18) Господь в бхаве Рукмини, Гададхара — Её подруга; у Лочана Даса Гададхара прославлен как Радха."
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "lochana/ru/34.md", from: "93", to: "117"}
 
 - id: lcm-0154
   source: lochana-cm
@@ -2520,6 +3314,12 @@
   authority: B
   parallels: "Мурари 2.16.9–23; ЧБ Мадхья 18"
   notes: "Изначальная Шакти — у Лочана она же Чанди и Катьяяни; по гаудия-вайшнавскому пониманию — внутренняя шакти (йогамайя), бхаву которой являет Господь. У Мурари и в ЧБ Господь кормит преданных грудным молоком; у Лочана — лишь «материнская нежность»."
+  themes: [revelation, ecstasy]
+  bhava: [shakti, aishvarya]
+  divergence: "У Мурари (2.16.20–21) и в ЧБ (Мадхья 18) Господь поит преданных молоком из груди; у Лочана Даса — лишь материнская нежность."
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "lochana/ru/34.md", from: "118", to: "137"}
 
 - id: lcm-0155
   source: lochana-cm
@@ -2536,6 +3336,10 @@
   authority: B
   parallels: "Мурари 2.17.1–4"
   notes: ""
+  themes: [revelation]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "lochana/ru/35.md", from: "1", to: "13"}
 
 - id: lcm-0156
   source: lochana-cm
@@ -2552,6 +3356,12 @@
   authority: B
   parallels: "Мурари 2.17.5–10"
   notes: ""
+  themes: [teaching, kirtan]
+  teaching: [yuga-dharma, holy-name]
+  scriptures: ["Бхаг. 12.3.52"]
+  event: ev-shrivasa-yuga-dharma-question
+  verses:
+    - {file: "lochana/ru/35.md", from: "14", to: "24"}
 
 - id: lcm-0157
   source: lochana-cm
@@ -2568,6 +3378,11 @@
   authority: B
   parallels: "Мурари 2.17.12–19"
   notes: "В изложении Бхактисиддханты — «в бхаве Радхи»."
+  themes: [separation, ecstasy, sannyasa]
+  bhava: [radha]
+  event: ev-longing-vrindavana-murari
+  verses:
+    - {file: "lochana/ru/35.md", from: "25", to: "40"}
 
 - id: lcm-0158
   source: lochana-cm
@@ -2584,6 +3399,11 @@
   authority: B
   parallels: "Мурари 2.18.1–6"
   notes: "В изложении (по оглавлению) Бхактисиддханты Господь рассказывает сон матери; в поэме — всем близким."
+  themes: [sannyasa, family]
+  teaching: [sannyasa-teaching]
+  event: ev-sannyasa-mantra-dream
+  verses:
+    - {file: "lochana/ru/35.md", from: "41", to: "59"}
 
 - id: lcm-0159
   source: lochana-cm
@@ -2600,6 +3420,11 @@
   authority: B
   parallels: "Мурари 2.18.7–16"
   notes: ""
+  themes: [sannyasa, ecstasy]
+  bhava: [devotee]
+  event: ev-keshava-bharati-navadvipa
+  verses:
+    - {file: "lochana/ru/35.md", from: "60", to: "79"}
 
 - id: lcm-0160
   source: lochana-cm
@@ -2616,6 +3441,11 @@
   authority: B
   parallels: "Мурари 2.18.17–22"
   notes: "Ст. 107+1–107+3 (в речи Мукунды — сравнение с обманутой женщиной, оставшейся без опоры) — только изд. 1983 г. (в изд. 1903 г. есть)."
+  themes: [separation, sannyasa]
+  bhava: [radha]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "lochana/ru/35.md", from: "80", to: "134"}
 
 - id: lcm-0161
   source: lochana-cm
@@ -2632,6 +3462,11 @@
   authority: B
   parallels: "Мурари 2.18.23"
   notes: ""
+  themes: [teaching, separation, sannyasa]
+  teaching: [maya, bhakti-supremacy, sannyasa-teaching]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "lochana/ru/36.md", from: "135", to: "157"}
 
 - id: lcm-0162
   source: lochana-cm
@@ -2648,6 +3483,10 @@
   authority: B
   parallels: ""
   notes: "«Васудева Гхош» — Васу Гхош. В изд. 1903 г. двустишие с перечнем Гададхары, Нарахари и др. дано как чтение одной рукописи. Ст. 34+1 (подпись Лочана Даса; в изд. 1983 г. на ней глава кончается) — только изд. 1983 г. (в изд. 1903 г. — в скобках)."
+  themes: [separation, family]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/36.md", from: "1", to: "34+1"}
 
 - id: lcm-0163
   source: lochana-cm
@@ -2664,6 +3503,12 @@
   authority: C
   parallels: "«Бхагавата» 4.8–9"
   notes: "Вероятная вставка: в изд. 1983 г. повести нет, в изд. 1903 г. она дана в сноске как чтение одной рукописи; у Бхактисиддханты — в основном тексте. Пересказ вольный (у Суручи семь сыновей и др.). Продолжение — в следующей порции."
+  themes: [teaching, family]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхаг. 4.8–9", "Падьявали"]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/36.md", from: "35", to: "93"}
 
 - id: lcm-0164
   source: lochana-cm
@@ -2680,6 +3525,12 @@
   authority: C
   parallels: "«Бхагавата» 4.8–9, 4.12"
   notes: "Вероятная вставка: в изд. 1983 г. нет, в изд. 1903 г. — в сноске; у Бхактисиддханты — в основном тексте. Пересказ вольный (испытания богов, Трибханга, сорок лет царствования)."
+  themes: [teaching, family]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхаг. 4.8–9", "Бхаг. 4.12"]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/37.md", from: "94", to: "174"}
 
 - id: lcm-0165
   source: lochana-cm
@@ -2696,6 +3547,10 @@
   authority: C
   parallels: ""
   notes: "Нет в изд. 1983 г.; в изд. 1903 г. — в той же сноске, что и повесть о Дхруве."
+  themes: [family, separation, sannyasa]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/37.md", from: "175", to: "179"}
 
 - id: lcm-0166
   source: lochana-cm
@@ -2712,6 +3567,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [teaching, family]
+  teaching: [maya, bhakti-supremacy, sannyasa-teaching]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/37.md", from: "180", to: "205"}
 
 - id: lcm-0167
   source: lochana-cm
@@ -2728,6 +3588,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [revelation, family, krishna-lila]
+  bhava: [krishna]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "lochana/ru/37.md", from: "206", to: "221"}
 
 - id: lcm-0168
   source: lochana-cm
@@ -2744,6 +3609,12 @@
   authority: B
   parallels: ""
   notes: "Строфа 11+1 — только в изд. 1983 г. (переведена в тексте)."
+  themes: [separation, family, revelation]
+  bhava: [aishvarya]
+  teaching: [maya]
+  event: ev-vishnupriya-pleads-before-sannyasa
+  verses:
+    - {file: "lochana/ru/38.md", from: "1", to: "40"}
 
 - id: lcm-0169
   source: lochana-cm
@@ -2760,6 +3631,10 @@
   authority: B
   parallels: "Мурари 2.18.19–23"
   notes: ""
+  themes: [separation]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "lochana/ru/38.md", from: "41", to: "52"}
 
 - id: lcm-0170
   source: lochana-cm
@@ -2776,6 +3651,11 @@
   authority: B
   parallels: "Мурари 2.18.25–30"
   notes: "В изд. 1903 г. ст. 60–61 (единство тела Господа со спутниками) — в скобках."
+  themes: [teaching, separation]
+  teaching: [associates-tattva]
+  event: ev-murari-serve-advaita
+  verses:
+    - {file: "lochana/ru/38.md", from: "52", to: "68"}
 
 - id: lcm-0171
   source: lochana-cm
@@ -2792,6 +3672,10 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 г. и в изд. 1903 г.; Бхактисиддханта раздел не включил (описание в духе нагари-бхавы). Authority понижена на ступень."
+  themes: [family, separation]
+  event: ev-last-night-vishnupriya
+  verses:
+    - {file: "lochana/ru/38.md", from: "68+1", to: "68+39"}
 
 - id: lcm-0172
   source: lochana-cm
@@ -2808,6 +3692,10 @@
   authority: B
   parallels: "Мурари 3.1.6–7"
   notes: "Ночь перед уходом (с Вишнуприей) описана только в изд. 1983 г. — lcm-0171."
+  themes: [sannyasa, separation]
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "lochana/ru/39.md", from: "1", to: "8"}
 
 - id: lcm-0173
   source: lochana-cm
@@ -2824,6 +3712,10 @@
   authority: B
   parallels: "Мурари 3.1.7"
   notes: ""
+  themes: [separation, family]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "lochana/ru/39.md", from: "9", to: "34"}
 
 - id: lcm-0174
   source: lochana-cm
@@ -2840,6 +3732,10 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [sannyasa, separation]
+  event: ev-nityananda-follows-to-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "35", to: "44"}
 
 - id: lcm-0175
   source: lochana-cm
@@ -2856,6 +3752,12 @@
   authority: B
   parallels: "Мурари 2.18.31–32"
   notes: "Лочан Дас называет Катву то Кантаканагарой, то Канчананагарой."
+  themes: [sannyasa, ecstasy, separation]
+  bhava: [krishna]
+  divergence: "Господь идёт в Катву в настроении Кришны, тоскующего по Радхе («Где Радха?»); по ЧЧ — Гаура в бхаве Радхи."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "45", to: "56"}
 
 - id: lcm-0176
   source: lochana-cm
@@ -2872,6 +3774,11 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [sannyasa, ecstasy]
+  teaching: [sannyasa-teaching]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "57", to: "88"}
 
 - id: lcm-0177
   source: lochana-cm
@@ -2888,6 +3795,10 @@
   authority: B
   parallels: "Мурари 3.2.7–9; Мурари 2.18.1–5 (сон о мантре)"
   notes: "Ст. 91+1–91+3 — только в изд. 1983 г. (в изд. 1903 г. — в сноске)."
+  themes: [sannyasa, revelation]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "89", to: "95"}
 
 - id: lcm-0178
   source: lochana-cm
@@ -2904,6 +3815,10 @@
   authority: C
   parallels: "ЧБ Мадхья 28 (Гададхара в Катве)"
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в сноске, чтение одной рукописи); authority понижена."
+  themes: [sannyasa]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "95+1", to: "95+5"}
 
 - id: lcm-0179
   source: lochana-cm
@@ -2920,6 +3835,10 @@
   authority: B
   parallels: "Мурари 3.1.10–18; 3.2.1–3"
   notes: "Ст. 100+1–100+3 и 105+1–105+3 — только в изд. 1983 г."
+  themes: [sannyasa, separation]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/39.md", from: "96", to: "112"}
 
 - id: lcm-0180
   source: lochana-cm
@@ -2936,6 +3855,10 @@
   authority: B
   parallels: "Мурари 3.2.6; ЧБ Мадхья 28"
   notes: "Ст. 124+1–124+2, 125+1–125+3, 135+1, 136+1–136+4 — только в изд. 1983 г. (часть — в сноске изд. 1903 г.)."
+  themes: [sannyasa, mercy]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/40.md", from: "113", to: "137"}
 
 - id: lcm-0181
   source: lochana-cm
@@ -2952,6 +3875,12 @@
   authority: B
   parallels: "Мурари 3.2.10–11; ЧБ Мадхья 28 (имя даёт Бхарати)"
   notes: "У Лочана Даса имя возвещает голос с неба, в ЧБ его даёт Кешава Бхарати. Ст. 143+1–143+4 (пляска, Нитьянанда) и 151+1 — только в изд. 1983 г."
+  themes: [sannyasa, celestial, ecstasy]
+  calendar: "конец магхи; санкранти (переход Солнца из Макары в Кумбху)"
+  divergence: "Имя «Шри Кришна Чайтанья» возвещает голос с неба; в ЧБ (Мадхья 28) его даёт Кешава Бхарати."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/40.md", from: "138", to: "151+1"}
 
 - id: lcm-0182
   source: lochana-cm
@@ -2968,6 +3897,10 @@
   authority: C
   parallels: "Мурари 3.2.12"
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в основном тексте, кроме 151+6); authority понижена."
+  themes: [sannyasa]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/40.md", from: "151+2", to: "151+6"}
 
 - id: lcm-0183
   source: lochana-cm
@@ -2984,6 +3917,10 @@
   authority: B
   parallels: "Мурари 3.2.13–18"
   notes: "Ст. 155+1–155+4 — только в изд. 1983 г. (в изд. 1903 г. — в основном тексте)."
+  themes: [kirtan, sannyasa, ecstasy]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/40.md", from: "152", to: "155+4"}
 
 - id: lcm-0184
   source: lochana-cm
@@ -3000,6 +3937,11 @@
   authority: B
   parallels: "Мурари 3.3.1"
   notes: "Ст. 163+1 — только в изд. 1983 г."
+  themes: [sannyasa, separation]
+  teaching: [sannyasa-teaching]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "lochana/ru/40.md", from: "156", to: "163+1"}
 
 - id: lcm-0185
   source: lochana-cm
@@ -3016,6 +3958,11 @@
   authority: B
   parallels: "Мурари 3.3.1–10, 3.3.16–18; ЧБ Антья 1"
   notes: ""
+  themes: [ecstasy, sannyasa, pilgrimage]
+  bhava: [gopi, devotee]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "lochana/ru/40.md", from: "164", to: "180"}
 
 - id: lcm-0186
   source: lochana-cm
@@ -3032,6 +3979,10 @@
   authority: B
   parallels: "Мурари 3.3.11–14, 3.3.19"
   notes: "Ст. 181+1–181+2 (поручение рассказать о санньясе) и 183+1 — только в изд. 1983 г."
+  themes: [separation]
+  event: ev-chandrashekhara-sent-back
+  verses:
+    - {file: "lochana/ru/40.md", from: "181", to: "185"}
 
 - id: lcm-0187
   source: lochana-cm
@@ -3048,6 +3999,10 @@
   authority: B
   parallels: "Мурари 3.4.1"
   notes: ""
+  themes: [separation, family]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "lochana/ru/41.md", from: "1", to: "14"}
 
 - id: lcm-0188
   source: lochana-cm
@@ -3064,6 +4019,10 @@
   authority: B
   parallels: ""
   notes: "Ст. 15+1–15+15, 31+1, 32+1 — только в изд. 1983 г. (в изд. 1903 г. нет)."
+  themes: [separation, family]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "lochana/ru/41.md", from: "14", to: "33"}
 
 - id: lcm-0189
   source: lochana-cm
@@ -3080,6 +4039,12 @@
   authority: B
   parallels: "Мурари 3.4.2–4"
   notes: "У Мурари Господь посылает Нитьянанду без рассказа о воспевании имени в Навадвипе."
+  themes: [kirtan, separation, mercy]
+  teaching: [holy-name]
+  divergence: "Связанный именем Господь Сам посылает Нитьянанду в Навадвипу; у Мурари (3.4.2–4) — без рассказа о воспевании имени; в ЧЧ (Мадхья 3) Нитьянанда хитростью приводит Господа в Шантипур."
+  event: ev-devotees-bind-lord-by-name
+  verses:
+    - {file: "lochana/ru/41.md", from: "34", to: "45"}
 
 - id: lcm-0190
   source: lochana-cm
@@ -3096,6 +4061,10 @@
   authority: B
   parallels: "Мурари 3.4.3–10"
   notes: ""
+  themes: [separation, family]
+  event: ev-nityananda-brings-navadvipa-to-shantipura
+  verses:
+    - {file: "lochana/ru/41.md", from: "46", to: "69"}
 
 - id: lcm-0191
   source: lochana-cm
@@ -3112,6 +4081,11 @@
   authority: B
   parallels: "Мурари 3.4.12–21; ЧЧ Мадхья 3"
   notes: "Ст. 75+1–75+5, 76+1–76+5 — только в изд. 1983 г."
+  themes: [family, separation, mercy]
+  bhava: [sannyasi]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "lochana/ru/41.md", from: "70", to: "87"}
 
 - id: lcm-0192
   source: lochana-cm
@@ -3128,6 +4102,10 @@
   authority: B
   parallels: "Мурари 3.4.22–23; ЧЧ Мадхья 3"
   notes: "Ст. 88+1–88+3 и 91+1–91+4 — только в изд. 1983 г. (в изд. 1903 г. — в сноске)."
+  themes: [prasada, kirtan]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "lochana/ru/41.md", from: "88", to: "94"}
 
 - id: lcm-0193
   source: lochana-cm
@@ -3144,6 +4122,11 @@
   authority: B
   parallels: "Мурари 3.4.23–26"
   notes: ""
+  themes: [teaching, kirtan, separation]
+  teaching: [holy-name, vaishnava]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "lochana/ru/42.md", from: "1", to: "10"}
 
 - id: lcm-0194
   source: lochana-cm
@@ -3160,6 +4143,11 @@
   authority: B
   parallels: "Мурари 3.4.28–30"
   notes: ""
+  themes: [separation, jagannatha]
+  bhava: [devotee]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "lochana/ru/42.md", from: "11", to: "16"}
 
 - id: lcm-0195
   source: lochana-cm
@@ -3176,6 +4164,10 @@
   authority: B
   parallels: "Мурари 3.4.24–27"
   notes: ""
+  themes: [separation, family]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "lochana/ru/42.md", from: "17", to: "63"}
 
 - id: lcm-0196
   source: lochana-cm
@@ -3192,6 +4184,10 @@
   authority: B
   parallels: "Мурари 3.4.31–33"
   notes: "Ст. 75+1–75+2 (Адвайта катается в пыли; Господь снова завязывает узел) — только в изд. 1983 г."
+  themes: [separation, ecstasy]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "lochana/ru/42.md", from: "64", to: "80"}
 
 - id: lcm-0197
   source: lochana-cm
@@ -3208,6 +4204,13 @@
   authority: B
   parallels: "Мурари 3.5.1–6; ЧЧ Мадхья 3 (спутники), 7.96 (стих)"
   notes: "Состав спутников у Лочана Даса иной, чем в ЧЧ (Нитьянанда, Джагадананда, Дамодара, Мукунда)."
+  themes: [pilgrimage, ecstasy, sannyasa]
+  bhava: [sannyasi, devotee]
+  calendar: "Дола-ятра (пхалгуна-пурнима)"
+  divergence: "Спутники Господа названы иначе (Гададхара, Нарахари, Шринивас, Мурари и др.); по ЧЧ (Мадхья 3) с Ним идут Нитьянанда, Джагадананда, Дамодара и Мукунда."
+  event: ev-journey-to-puri
+  verses:
+    - {file: "lochana/ru/43.md", from: "81", to: "95"}
 
 - id: lcm-0198
   source: lochana-cm
@@ -3224,6 +4227,10 @@
   authority: B
   parallels: "Мурари 3.5.7; ЧБ Антья 2"
   notes: ""
+  themes: [mercy, pilgrimage]
+  event: ev-toll-collectors-pilgrims
+  verses:
+    - {file: "lochana/ru/43.md", from: "96", to: "111"}
 
 - id: lcm-0199
   source: lochana-cm
@@ -3240,6 +4247,10 @@
   authority: B
   parallels: "Мурари 3.5.8–9"
   notes: ""
+  themes: [mercy, revelation]
+  event: ev-toll-collectors-pilgrims
+  verses:
+    - {file: "lochana/ru/43.md", from: "112", to: "115"}
 
 - id: lcm-0200
   source: lochana-cm
@@ -3256,6 +4267,11 @@
   authority: B
   parallels: "Мурари 3.5.10–21; ЧБ Антья 2; ЧЧ Мадхья 5"
   notes: "У Лочана Даса Нитьянанда прямо объясняет поступок горем преданных; в ЧЧ и ЧБ посох сломан на три части и брошен в реку Бхарги. Гнев Господа — лила (кродха-лила, по оглавлению Бхактисиддханты)."
+  themes: [sannyasa, pilgrimage]
+  divergence: "Нитьянанда прямо объясняет поступок горем преданных; у Мурари (3.5.10–21) сначала ссылается на то, что споткнулся; в ЧЧ (Мадхья 5) и ЧБ (Антья 2) посох сломан на три части и брошен в реку Бхарги."
+  event: ev-danda-broken
+  verses:
+    - {file: "lochana/ru/43.md", from: "116", to: "149"}
 
 - id: lcm-0201
   source: lochana-cm
@@ -3272,6 +4288,11 @@
   authority: B
   parallels: "Мурари 3.6.2–11; ЧЧ Мадхья 4–5 (Ремуна)"
   notes: "У Мурари и Лочана Даса Божество Ремуны — Гопала, установленный Уддхавой; в ЧЧ — Гопинатха-Кширачора."
+  themes: [deities, pilgrimage, ecstasy]
+  divergence: "Божество Ремуны — Гопала, установленный Уддхавой в Варанаси (так и у Мурари); в ЧЧ (Мадхья 4) — Гопинатха-Кширачора."
+  event: ev-remuna-gopala
+  verses:
+    - {file: "lochana/ru/44.md", from: "1", to: "21"}
 
 - id: lcm-0202
   source: lochana-cm
@@ -3288,6 +4309,11 @@
   authority: B
   parallels: "Мурари 3.6.12–21"
   notes: ""
+  themes: [pilgrimage, deities]
+  teaching: [bhakti-supremacy]
+  event: ev-jajpur-viraja
+  verses:
+    - {file: "lochana/ru/44.md", from: "22", to: "35"}
 
 - id: lcm-0203
   source: lochana-cm
@@ -3304,6 +4330,12 @@
   authority: B
   parallels: "Мурари 3.7"
   notes: "Видение во сне — у Лочана Даса (у Мурари начальник просто приходит к Господу). Ст. 53+1 — только в изд. 1983 г."
+  themes: [mercy, pilgrimage, revelation]
+  scriptures: ["Шанти-шатака"]
+  divergence: "Господь является начальнику сборщиков во сне; у Мурари (3.7.12) тот просто приходит к Господу."
+  event: ev-toll-collector-binds-mukunda
+  verses:
+    - {file: "lochana/ru/44.md", from: "36", to: "73"}
 
 - id: lcm-0204
   source: lochana-cm
@@ -3320,6 +4352,12 @@
   authority: B
   parallels: "Мурари 3.7.20–21, 3.8"
   notes: "Текст гимна (ст. 88+1 = Мурари 3.8.13–14) — только в изд. 1983 и 1903 гг."
+  themes: [deities, pilgrimage]
+  bhava: [devotee]
+  scriptures: ["Мурари 3.8.13–14 (гимн Шиве)"]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "lochana/ru/44.md", from: "74", to: "92"}
 
 - id: lcm-0205
   source: lochana-cm
@@ -3336,6 +4374,10 @@
   authority: C
   parallels: "Мурари 3.9"
   notes: "Только в изд. 1983 г. и (с вариантами) в изд. 1903 г.; в изд. Бхактисиддханты нет."
+  themes: [prasada, deities]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "lochana/ru/44.md", from: "92+1", to: "92+5"}
 
 - id: lcm-0206
   source: lochana-cm
@@ -3352,6 +4394,12 @@
   authority: B
   parallels: "Мурари 3.9"
   notes: "Бхактисиддханта в изложении: нельзя принимать нирмалью Шивы, почитаемого не-преданными."
+  themes: [teaching, prasada, deities]
+  teaching: [prasada-teaching, vaishnava]
+  scriptures: ["Бхаг. 4.2"]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "lochana/ru/44.md", from: "93", to: "111"}
 
 - id: lcm-0207
   source: lochana-cm
@@ -3368,6 +4416,11 @@
   authority: B
   parallels: "Мурари 3.10"
   notes: ""
+  themes: [jagannatha, ecstasy, revelation]
+  bhava: [devotee]
+  event: ev-first-sight-jagannatha-temple
+  verses:
+    - {file: "lochana/ru/45.md", from: "112", to: "132"}
 
 - id: lcm-0208
   source: lochana-cm
@@ -3384,6 +4437,10 @@
   authority: B
   parallels: "Мурари 3.10.12–18"
   notes: ""
+  themes: [jagannatha, ecstasy]
+  event: ev-first-sight-jagannatha-temple
+  verses:
+    - {file: "lochana/ru/45.md", from: "133", to: "146"}
 
 - id: lcm-0209
   source: lochana-cm
@@ -3400,6 +4457,11 @@
   authority: B
   parallels: "Мурари 3.11; ЧЧ Мадхья 6"
   notes: "У Мурари с Господом идёт младший брат Сарвабхаумы; по ЧЧ, Сарвабхаума сам приносит Господа без чувств из храма к себе. Ст. 148+1–148+2 (приветствие «намо нараяная» и благословение) и 153+1 — только в изд. 1983 г."
+  themes: [jagannatha, learning]
+  divergence: "Господь сначала приходит в дом Сарвабхаумы, и тот посылает с Ним сына (у Мурари — младшего брата); по ЧЧ (Мадхья 6) Сарвабхаума находит Господа без чувств в храме и приносит к себе."
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "lochana/ru/45.md", from: "147", to: "160"}
 
 - id: lcm-0210
   source: lochana-cm
@@ -3416,6 +4478,11 @@
   authority: B
   parallels: "Мурари 3.11; ЧЧ Мадхья 6"
   notes: ""
+  themes: [jagannatha, ecstasy, kirtan]
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "lochana/ru/45.md", from: "161", to: "168"}
+    - {file: "lochana/ru/45.md", from: "169", to: "174"}
 
 - id: lcm-0211
   source: lochana-cm
@@ -3432,6 +4499,10 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 и 1903 гг.; в изд. Бхактисиддханты нет. Другие жития этого не рассказывают."
+  themes: [jagannatha, revelation]
+  event: ev-jagannatha-embraces-gaura
+  verses:
+    - {file: "lochana/ru/45.md", from: "168+1", to: "168+4"}
 
 - id: lcm-0212
   source: lochana-cm
@@ -3448,6 +4519,11 @@
   authority: B
   parallels: "Мурари 3.11"
   notes: ""
+  themes: [prasada, jagannatha, teaching]
+  teaching: [prasada-teaching]
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "lochana/ru/45.md", from: "175", to: "202"}
 
 - id: lcm-0213
   source: lochana-cm
@@ -3464,6 +4540,10 @@
   authority: B
   parallels: "Мурари 3.12.1"
   notes: "Ст. 204+1–204+2 (подношение и сияние Джаганнатхи) — только в изд. 1983 и 1903 гг."
+  themes: [jagannatha, ecstasy, revelation]
+  event: ev-jagannatha-turns-golden
+  verses:
+    - {file: "lochana/ru/45.md", from: "203", to: "214"}
 
 - id: lcm-0214
   source: lochana-cm
@@ -3480,6 +4560,11 @@
   authority: B
   parallels: "Мурари 3.12; ЧЧ Мадхья 6"
   notes: "Ст. 223+1–223+4 (хула о еде и плаче «Радха!») — только в изд. 1983 и 1903 гг.; 231+1–231+2 (ответ Господа теми же словами) — только в изд. 1983 г."
+  themes: [learning, sannyasa]
+  teaching: [sannyasa-teaching, vedanta]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "lochana/ru/45.md", from: "215", to: "234"}
 
 - id: lcm-0215
   source: lochana-cm
@@ -3496,6 +4581,14 @@
   authority: B
   parallels: "Мурари 3.12; ЧЧ Мадхья 6"
   notes: "Ст. 237+1–237+14 (доводы Господа из Вед, «Брахма-самхиты», «Бхагаваты» и др.) и 247+1–247+4 (молитва Сарвабхаумы) — только в изд. 1983 г. По ЧЧ — четырёхрукий и двурукий облик; шестирукий — по преданию."
+  themes: [mercy, revelation, teaching]
+  bhava: [aishvarya]
+  teaching: [vedanta, gaura-tattva]
+  scriptures: ["Чайтанья-шатака (Сарвабхаума)"]
+  divergence: "Господь являет шестирукий облик (по преданию); по ЧЧ (Мадхья 6) — четырёхрукий, затем двурукий; там же семь дней толкования веданты и стих об атмарамах."
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "lochana/ru/45.md", from: "235", to: "248"}
 
 - id: lcm-0216
   source: lochana-cm
@@ -3512,6 +4605,9 @@
   authority: B
   parallels: ""
   notes: ""
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/45.md", from: "249", to: "257"}
 
 - id: lcm-0217
   source: lochana-cm
@@ -3528,6 +4624,12 @@
   authority: B
   parallels: "Мурари 3.13–3.14.13–20; ЧЧ Мадхья 7"
   notes: "О проказе Васудевы Лочан Дас не говорит (лишь «стали чисты»)."
+  themes: [mercy, pilgrimage, teaching]
+  teaching: [holy-name, yuga-dharma]
+  divergence: "Об исцелении прокажённого Васудевы не сказано (лишь «стали чисты»); в ЧЧ (Мадхья 7) он исцеляется от объятий Господа."
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "lochana/ru/46.md", from: "1", to: "14"}
 
 - id: lcm-0218
   source: lochana-cm
@@ -3544,6 +4646,13 @@
   authority: B
   parallels: "Мурари 3.14.21–28; ЧЧ Мадхья 8.3–4 (лишь посещение)"
   notes: "Предание, рассказанное Господом. Вставки только изд. 1983 г.: Пунда поручает поле Кришне (22+1–22+2), его жалобы (23+1–23+3, 41+1–41+2), Господь принимает его грехи (42+1–42+2), царь чтит пастуха как гуру, Господь хвалит его за то, что не судил преданного по касте (59+1–59+5), пастух отказывается от царства (71+1–71+4); эти подробности — на уровне C."
+  themes: [deities, teaching, pilgrimage]
+  bhava: [devotee]
+  teaching: [vaishnava]
+  divergence: "Предание рассказано Господом подробно (у Мурари 3.14.21–28 — коротко); в ЧЧ (Мадхья 8) Господь лишь посещает Божество."
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "lochana/ru/46.md", from: "15", to: "71+4"}
 
 - id: lcm-0219
   source: lochana-cm
@@ -3560,6 +4669,11 @@
   authority: B
   parallels: "Мурари 3.14.29–32"
   notes: "Предание, рассказанное Господом. Рассказ о том, как жёны ушли к Кришне вопреки мужу (72+1–72+12, 77+1), — только в изд. 1983 г. (уровень C). У Мурари купец приходит с одной женой."
+  themes: [deities, teaching]
+  divergence: "У Мурари (3.14.29–30) купец приходит с одной женой."
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "lochana/ru/46.md", from: "72", to: "81"}
 
 - id: lcm-0220
   source: lochana-cm
@@ -3576,6 +4690,12 @@
   authority: B
   parallels: "Мурари 3.15.1–5; ЧЧ Мадхья 8 (на Годавари, облик Расараджи-Махабхавы — 8.268–282)"
   notes: "Место: у Лочана Даса (A, C) и Мурари — Канчи, в изд. 1983 г. — Видьянагара (как в ЧЧ). Облик Кришны (107–110) в изд. 1903 г. лишь в сноске. Только в изд. 1983 г. (уровень C): омовение царя в Годавари (85+1–85+2), «Я — сын Нанды» (104+1–104+2), видение Радхи и Кришны на престоле во Вриндаване (112+1–112+4), десять дней бесед о Кришне (113+1–113+4)."
+  themes: [revelation, krishna-lila]
+  bhava: [krishna]
+  divergence: "Встреча в Канчи, в покоях Рамананды (так и у Мурари); по ЧЧ (Мадхья 8) — на берегу Годавари, с долгими беседами и обликом Расараджи-Махабхавы."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "lochana/ru/46.md", from: "82", to: "114"}
 
 - id: lcm-0221
   source: lochana-cm
@@ -3592,6 +4712,11 @@
   authority: B
   parallels: "Мурари 3.15.6"
   notes: ""
+  themes: [pilgrimage, ecstasy]
+  bhava: [rama]
+  event: ev-panchavati-rama-bhava
+  verses:
+    - {file: "lochana/ru/47.md", from: "115", to: "123"}
 
 - id: lcm-0222
   source: lochana-cm
@@ -3608,6 +4733,12 @@
   authority: B
   parallels: "Мурари 3.15.7–18; ЧЧ Мадхья 9 (у Венкаты Бхатты)"
   notes: "Только в изд. 1983 г. (уровень C): помесячные праздники чатурмасьи — Ратха-ятра в ашадху, праздник качелей в шравану, Джанмаштами в бхадру (Господь пляшет в одежде пастуха), киртан в ашвину (132+1–132+5)."
+  themes: [deities, festival, ecstasy]
+  calendar: "чатурмасья"
+  divergence: "Чатурмасья — у Трималлы Бхатты; по ЧЧ (Мадхья 9) — у его брата Венкаты Бхатты."
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "lochana/ru/47.md", from: "124", to: "133"}
 
 - id: lcm-0223
   source: lochana-cm
@@ -3624,6 +4755,12 @@
   authority: B
   parallels: "Мурари 3.15.19–25; ЧЧ Мадхья 9"
   notes: "Шлока «Ваю-пураны» (ст. 137) в изд. 1903 г. лишь в сноске. Только в изд. 1983 г. (уровень C): Господь пляшет и плачет, слыша имя Мадхавендры: «Ныне Моя санньяса принесла плод» (142+1–142+4)."
+  themes: [revelation, pilgrimage]
+  teaching: [gaura-tattva]
+  scriptures: ["Ваю-пурана"]
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "lochana/ru/47.md", from: "134", to: "144"}
 
 - id: lcm-0224
   source: lochana-cm
@@ -3640,6 +4777,11 @@
   authority: B
   parallels: "Мурари 3.16.1–2 (деревья тамала); ЧЧ Мадхья 9"
   notes: "Только в изд. 1983 г. (уровень C): гандхарвы в божественных телах уходят на Вайкунтху, люди называют Господа аватарой Рамы (4+1–4+2)."
+  themes: [mercy, pilgrimage]
+  divergence: "У Мурари (3.16.1–2) — деревья тамала."
+  event: ev-saptatala-deliverance
+  verses:
+    - {file: "lochana/ru/47.md", from: "1", to: "4+2"}
 
 - id: lcm-0225
   source: lochana-cm
@@ -3656,6 +4798,11 @@
   authority: B
   parallels: "Мурари 3.16.3–7; ЧЧ Мадхья 9"
   notes: ""
+  themes: [pilgrimage, deities, ecstasy]
+  bhava: [rama]
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "lochana/ru/47.md", from: "5", to: "11"}
 
 - id: lcm-0226
   source: lochana-cm
@@ -3672,6 +4819,11 @@
   authority: B
   parallels: "Мурари 3.16.8–13"
   notes: "Вторая чатурмасья (на Годавари) — только у Лочана Даса; по ЧЧ (Мадхья 9) на юге одна чатурмасья (Шрирангам)."
+  themes: [pilgrimage, jagannatha]
+  divergence: "Вторая чатурмасья на Годавари — только у Лочана Даса; по ЧЧ (Мадхья 9) на юге одна чатурмасья (Шрирангам)."
+  event: ev-return-from-south
+  verses:
+    - {file: "lochana/ru/47.md", from: "12", to: "17"}
 
 - id: lcm-0227
   source: lochana-cm
@@ -3688,6 +4840,11 @@
   authority: B
   parallels: "Мурари 3.17.5–8; ЧЧ Мадхья 1.155–162"
   notes: "У Мурари и в ЧЧ Нрисимхананда жив, мостит дорогу от Кулии и предсказывает возвращение Господа от Натшалы Канаи; у Лочана Даса он уходит из мира, не закончив дорогу. О пути через Бенгалию (Рамакели, Кулия) здесь не сказано."
+  themes: [pilgrimage, mercy]
+  divergence: "Нрисимхананда уходит из мира, не закончив дорогу; у Мурари (3.17.5–8) и в ЧЧ (Мадхья 1) он жив и предсказывает возвращение Господа от Канайр Натшалы."
+  event: ev-natashala-kanai-return
+  verses:
+    - {file: "lochana/ru/47.md", from: "18", to: "24"}
 
 - id: lcm-0228
   source: lochana-cm
@@ -3704,6 +4861,10 @@
   authority: B
   parallels: ""
   notes: "Упоминание."
+  themes: [kirtan, jagannatha]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "lochana/ru/47.md", from: "25", to: "28"}
 
 - id: lcm-0229
   source: lochana-cm
@@ -3720,6 +4881,11 @@
   authority: B
   parallels: "Мурари 4.01; ЧЧ Мадхья 17"
   notes: ""
+  themes: [pilgrimage, ecstasy, mercy]
+  divergence: "У Мурари (4.01) Господь идёт из Пури через Каши."
+  event: ev-jharikhanda-animals
+  verses:
+    - {file: "lochana/ru/47.md", from: "29", to: "35"}
 
 - id: lcm-0230
   source: lochana-cm
@@ -3736,6 +4902,11 @@
   authority: B
   parallels: "Мурари 4.01–4.02.1; ЧЧ Мадхья 19–20"
   notes: "По ЧЧ, с Рупой Господь встречается в Праяге, а с Санатаной в Каши — на обратном пути из Вриндавана; у Лочана Даса — встреча с обоими на пути в Матхуру."
+  themes: [mercy, pilgrimage]
+  divergence: "Встреча с Рупой и Санатаной вместе, на пути в Матхуру; по ЧЧ (Мадхья 19–20) с Рупой — в Праяге, с Санатаной — в Каши на обратном пути."
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "lochana/ru/47.md", from: "36", to: "38"}
 
 - id: lcm-0231
   source: lochana-cm
@@ -3752,6 +4923,11 @@
   authority: B
   parallels: "Мурари 4.02.1–8"
   notes: ""
+  themes: [pilgrimage, ecstasy, separation]
+  bhava: [radha]
+  event: ev-arrival-mathura
+  verses:
+    - {file: "lochana/ru/47.md", from: "39", to: "47"}
 
 - id: lcm-0232
   source: lochana-cm
@@ -3768,6 +4944,10 @@
   authority: B
   parallels: "Мурари 4.02.9–13, 4.03"
   notes: ""
+  themes: [pilgrimage, krishna-lila, mercy]
+  event: ev-krishnadasa-mathura-guide
+  verses:
+    - {file: "lochana/ru/47.md", from: "48", to: "84"}
 
 - id: lcm-0233
   source: lochana-cm
@@ -3784,6 +4964,12 @@
   authority: B
   parallels: "Мурари 4.04"
   notes: ""
+  themes: [pilgrimage, krishna-lila, ecstasy]
+  bhava: [krishna]
+  event: ev-mathura-sightseeing
+  verses:
+    - {file: "lochana/ru/48.md", from: "85", to: "115"}
+    - {file: "lochana/ru/48.md", from: "132", to: "137"}
 
 - id: lcm-0234
   source: lochana-cm
@@ -3800,6 +4986,10 @@
   authority: B
   parallels: "Мурари 4.05"
   notes: "Повесть, рассказанная Кришнадасом. Ст. 128+1 — только в изд. 1983 г."
+  themes: [krishna-lila, teaching]
+  event: ev-mathura-sightseeing
+  verses:
+    - {file: "lochana/ru/48.md", from: "116", to: "131"}
 
 - id: lcm-0235
   source: lochana-cm
@@ -3816,6 +5006,11 @@
   authority: B
   parallels: "Мурари 4.04–4.06 (места Матхура-мандалы); Бхагавата 10.1–10.11"
   notes: ""
+  themes: [krishna-lila, pilgrimage]
+  scriptures: ["Бхаг. 10.1–10.11"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/48.md", from: "138", to: "163"}
 
 - id: lcm-0236
   source: lochana-cm
@@ -3832,6 +5027,11 @@
   authority: B
   parallels: "Гарга-самхита, Брахма-вайварта-пурана (Бхандиравана)"
   notes: "Предание о Бхандиравана (у Лочана Даса — Билвавана); лила Радхи и Кришны неземная (апракрита) — см. сноску в переводе."
+  themes: [krishna-lila, ecstasy]
+  scriptures: ["Гарга-самхита", "Брахма-вайварта-пурана"]
+  event: ev-bilvavana-lord-swoons
+  verses:
+    - {file: "lochana/ru/48.md", from: "164", to: "171"}
 
 - id: lcm-0237
   source: lochana-cm
@@ -3848,6 +5048,12 @@
   authority: B
   parallels: "Бхагавата 10.11"
   notes: "Ст. 175+1 — только в изд. 1983 г."
+  themes: [krishna-lila, ecstasy, pilgrimage]
+  bhava: [sakha]
+  scriptures: ["Бхаг. 10.11"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/48.md", from: "172", to: "189"}
 
 - id: lcm-0238
   source: lochana-cm
@@ -3864,6 +5070,11 @@
   authority: B
   parallels: "Бхагавата 10.11–10.20"
   notes: ""
+  themes: [krishna-lila, pilgrimage]
+  scriptures: ["Бхаг. 10.11–10.20"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/48.md", from: "190", to: "205"}
 
 - id: lcm-0239
   source: lochana-cm
@@ -3880,6 +5091,12 @@
   authority: B
   parallels: "Мурари 4.07–4.08; Бхагавата 10.22–10.25"
   notes: ""
+  themes: [krishna-lila, ecstasy, pilgrimage]
+  bhava: [radha, krishna]
+  scriptures: ["Бхаг. 10.22–10.25"]
+  event: ev-govardhana-visit
+  verses:
+    - {file: "lochana/ru/49.md", from: "206", to: "231"}
 
 - id: lcm-0240
   source: lochana-cm
@@ -3896,6 +5113,12 @@
   authority: B
   parallels: "Мурари 4.08–4.09; Бхагавата 10.24–10.28"
   notes: ""
+  themes: [revelation, krishna-lila, deities]
+  scriptures: ["Бхаг. 10.24–10.28"]
+  calendar: "картика-пурнима (упоминается)"
+  event: ev-ashoka-grove-blossoms
+  verses:
+    - {file: "lochana/ru/49.md", from: "232", to: "247"}
 
 - id: lcm-0241
   source: lochana-cm
@@ -3912,6 +5135,13 @@
   authority: B
   parallels: "Мурари 4.09; Бхагавата 10.29–10.33"
   notes: "Ст. 300+1 — 300+9, 302+1, 303+1, 306+1 — 306+3 (поиски гопи, подражание лилам, Радха плачет) — только в изд. 1983 г.; для них авторитетность на ступень ниже (C)."
+  themes: [krishna-lila, ecstasy]
+  bhava: [gopi, krishna]
+  teaching: [prema]
+  scriptures: ["Бхаг. 10.29–10.33"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/49.md", from: "248", to: "315"}
 
 - id: lcm-0242
   source: lochana-cm
@@ -3928,6 +5158,11 @@
   authority: B
   parallels: "Мурари 4.10; Бхагавата 10.34–10.37"
   notes: ""
+  themes: [krishna-lila, pilgrimage]
+  scriptures: ["Бхаг. 10.34–10.37"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/50.md", from: "316", to: "338"}
 
 - id: lcm-0243
   source: lochana-cm
@@ -3944,6 +5179,11 @@
   authority: B
   parallels: "Мурари 4.11–4.12; Бхагавата 10.38–10.45"
   notes: "Ст. 379+1 — 379+3 (упанаяна Кришны) — нет в изд. Бхактисиддханты, есть в изд. 1903 и 1983 гг.; ст. 356–360 нет в изд. 1983 г."
+  themes: [krishna-lila, separation]
+  scriptures: ["Бхаг. 10.38–10.45"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "lochana/ru/50.md", from: "339", to: "411"}
 
 - id: lcm-0244
   source: lochana-cm
@@ -3960,6 +5200,11 @@
   authority: B
   parallels: "Мурари 4.13"
   notes: ""
+  themes: [revelation, mercy]
+  bhava: [krishna, child]
+  event: ev-vraja-residents-see-krishna
+  verses:
+    - {file: "lochana/ru/50.md", from: "412", to: "433"}
 
 - id: lcm-0245
   source: lochana-cm
@@ -3976,6 +5221,10 @@
   authority: B
   parallels: "Мурари 4.13"
   notes: "Ст. 9+1 — 9+2, 13+1 — только в изд. 1983 г."
+  themes: [mercy, revelation]
+  event: ev-cowherd-buttermilk-jewels
+  verses:
+    - {file: "lochana/ru/51.md", from: "1", to: "21"}
 
 - id: lcm-0246
   source: lochana-cm
@@ -3992,6 +5241,12 @@
   authority: B
   parallels: "Мурари 4.14; ЧЧ Мадхья 16 (Кулия — на пути во Вриндаван)"
   notes: "У Лочана Даса (как у Мурари) — после Вриндавана. Ст. 53+1 — 53+3 (Господь напоминает Шачи, что она — Его мать во всех нисхождениях) — только в изд. 1983 г.; вписаны в эту запись, авторитетность их ниже (C)."
+  themes: [family, separation, teaching]
+  teaching: [maya, bhakti-supremacy]
+  divergence: "Кулия — на обратном пути из Вриндавана (так и у Мурари 4.14); по ЧЧ (Мадхья 16) — на пути во Вриндаван, а возвращение — через Праягу и Каши."
+  event: ev-kuliya-shachi-meeting
+  verses:
+    - {file: "lochana/ru/51.md", from: "22", to: "56"}
 
 - id: lcm-0247
   source: lochana-cm
@@ -4008,6 +5263,10 @@
   authority: B
   parallels: "Мурари 4.15"
   notes: ""
+  themes: [kirtan, jagannatha]
+  event: ev-shantipura-second-visit
+  verses:
+    - {file: "lochana/ru/51.md", from: "57", to: "69"}
 
 - id: lcm-0248
   source: lochana-cm
@@ -4024,6 +5283,13 @@
   authority: B
   parallels: "Мурари 4.16; ЧЧ Мадхья 11–14"
   notes: "У Лочана Даса — после возвращения из Вриндавана; по ЧЧ встреча — на Ратха-ятре 1512 г., царь читает «Гопи-гиту»; шестирукий облик в ЧЧ явлен Сарвабхауме (Мадхья 6)."
+  themes: [mercy, jagannatha, revelation]
+  bhava: [aishvarya, sannyasi]
+  teaching: [sannyasa-teaching]
+  divergence: "Встреча — после возвращения из Вриндавана, с шестируким обликом; по ЧЧ (Мадхья 11–14) — на Ратха-ятре 1512 г., царь читает «Гопи-гиту»."
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "lochana/ru/51.md", from: "70", to: "125"}
 
 - id: lcm-0249
   source: lochana-cm
@@ -4040,6 +5306,10 @@
   authority: B
   parallels: "Мурари 4.21"
   notes: "По Бхактисиддханте — незадолго до сокрытия Господа. Ст. 29+1 — только в изд. 1983 г. Здесь кончается текст изд. Бхактисиддханты."
+  themes: [mercy, celestial, jagannatha]
+  event: ev-dravida-brahmana-vibhishana
+  verses:
+    - {file: "lochana/ru/52.md", from: "1", to: "94"}
 
 - id: lcm-0250
   source: lochana-cm
@@ -4056,6 +5326,12 @@
   authority: C
   parallels: "Джаянанда, «Чайтанья-мангала» (иная версия: рана стопы); предание о Тота-Гопинатхе; в ЧЧ и у Мурари нет"
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в сноске); авторитетность на ступень ниже. «Слияние» — антардхана-лила, возвращение Господа в Свой облик Джаганнатхи, а не безличное растворение (см. сноску в переводе). Харидас Тхакур в перечне скорбящих — поэтическая вольность (по ЧЧ он ушёл раньше)."
+  themes: [departure, jagannatha, separation]
+  calendar: "ашадха, 7-я титхи (саптами), воскресенье, третья прахара"
+  divergence: "Господь входит в Джаганнатху; у Джаянанды — уход после раны стопы, по преданию — в Тота-Гопинатху; у Мурари и в ЧЧ уход не описан. Харидас в перечне скорбящих — поэтическая вольность (по ЧЧ Антья 11 он ушёл раньше)."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "lochana/ru/52.md", from: "94+1", to: "94+38"}
 
 - id: lcm-0251
   source: lochana-cm
@@ -4072,6 +5348,9 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в сноске, с добавочными строками)."
+  themes: [author]
+  verses:
+    - {file: "lochana/ru/52.md", from: "94+39", to: "94+69"}
 
 - id: lcm-0252
   source: lochana-cm
@@ -4088,3 +5367,7 @@
   authority: C
   parallels: ""
   notes: "Только в изд. 1983 г. (в изд. 1903 г. — в скобках, как строки не всех рукописей); авторитетность на ступень ниже. Упоминание, без подробностей."
+  themes: [family, pranks]
+  event: ev-play-with-vishvarupa
+  verses:
+    - {file: "lochana/ru/10.md", from: "206+1", to: "206+2"}
