@@ -612,6 +612,16 @@
   themes: [family, celestial]
   notes: "«Адвайта-пракаша» (D), гл. 14: магха, светлая половина, 13-й лунный день, 1395 г. Шака; отец — Хадаи Пандит, мать — Падмавати."
 
+- id: ev-nityananda-leaves-home
+  title: "Нитьянанда покидает дом со странствующим санньяси"
+  title_en: "Nityananda leaves home with a wandering sannyasi"
+  period: P01
+  order: 31
+  cc: ""
+  cb: "Ади 9"
+  themes: [pilgrimage, family]
+  notes: "«Према-виласа», виласа 7: санньяси выпрашивает у Хадаи Пандита сына как милостыню."
+
 - id: ev-lord-enters-shachi-womb
   title: "Господь входит в лоно Шачи"
   title_en: "The Lord enters Shachi's womb"
@@ -1942,7 +1952,6 @@
   themes: [revelation, ecstasy]
   notes: "Мурари 2.14."
 
-
 - id: ev-flute-request
   title: "Господь просит Свою флейту"
   title_en: "The Lord asks for His flute"
@@ -2032,6 +2041,27 @@
   cb: ""
   themes: [teaching, ecstasy, sannyasa]
   notes: "Джаянанда, Вайрагья-кханда (начало)."
+
+- id: ev-lokanatha-sent-to-vrindavana
+  title: "Локанатха приходит к Господу в Навадвипу и послан с Бхугарбхой во Вриндаван"
+  title_en: "Lokanatha comes to the Lord in Navadvipa and is sent with Bhugarbha to Vrindavana"
+  period: P07
+  order: 139.6
+  cc: ""
+  cb: ""
+  themes: [teaching, separation]
+  teaching: [prema]
+  notes: "«Према-виласа», виласа 7: сокровенная беседа о бхаве Радхи и причине санньясы."
+
+- id: ev-lokanatha-bhugarbha-in-vraja
+  title: "Локанатха и Бхугарбха во Врадже узнают места лилы"
+  title_en: "Lokanatha and Bhugarbha in Vraja recognize the sites of the pastimes"
+  period: P07
+  order: 139.65
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, pilgrimage]
+  notes: "«Према-виласа», виласа 7: поселяются у Чир-гхата."
 
 - id: ev-sannyasa-mantra-dream
   title: "Сон о мантре санньясы"
@@ -3243,6 +3273,16 @@
   themes: [pilgrimage, mercy]
   notes: "Мурари 3.17.6–13 (Нрисимхананда), 3.18.12–14 (поворот назад)."
 
+- id: ev-prema-left-in-padma
+  title: "Господь оставляет прему в реке Падме для будущего Нароттамы"
+  title_en: "The Lord leaves prema in the Padma river for the future Narottama"
+  period: P13
+  order: 6
+  cc: ""
+  cb: ""
+  themes: [ecstasy, kirtan, mercy]
+  notes: "«Према-виласа», виласа 8: после поворота от Канаи-Натшалы, в Гарерхате (Кудодарпур)."
+
 - id: ev-vidya-vachaspati-house
   title: "Господь в доме Видья-Вачаспати: толпы жаждут Его видеть"
   title_en: "The Lord at Vidya-vachaspati's house: crowds long to see Him"
@@ -3558,6 +3598,17 @@
   themes: [teaching, learning]
   notes: "«Адвайта-пракаша» (D), гл. 19."
 
+- id: ev-rupa-sends-book-to-lord
+  title: "Рупа посылает Господу в Пури книгу о садхане, и Господь одобряет её"
+  title_en: "Rupa sends the Lord in Puri his book on sadhana, and the Lord approves it"
+  period: P14
+  order: 13.5
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture]
+  notes: "«Према-виласа», виласа 11 (в наставлении Локанатхи Нароттаме)."
+
 - id: ev-sanatana-puri-sores
   title: "Санатана в Пури: язвы исчезают от объятия Господа"
   title_en: "Sanatana in Puri: his sores vanish at the Lord's embrace"
@@ -3610,6 +3661,17 @@
   themes: [departure, kirtan]
   notes: "«Адвайта-пракаша» (D), гл. 19."
 
+- id: ev-kalidasa-foot-water
+  title: "Калидас пьёт воду со стоп Господа у Львиных ворот"
+  title_en: "Kalidasa drinks the water of the Lord's feet at the Lion Gate"
+  period: P14
+  order: 70
+  cc: "Антья 16"
+  cb: ""
+  themes: [prasada, mercy]
+  teaching: [vaishnava, prasada-teaching]
+  notes: "«Према-виласа», виласа 16 (в наставлении Джахнавы)."
+
 - id: ev-advaita-jnana-again
   title: "Адвайта снова «проповедует знание»: Господь является из Пури; трое учеников отвергнуты"
   title_en: "Advaita again 'preaches knowledge': the Lord appears from Puri; three disciples rejected"
@@ -3621,6 +3683,17 @@
   teaching: [bhakti-supremacy]
   notes: "«Адвайта-пракаша» (D), гл. 20: отвергнуты Камадева Нагара, Агала и Пагала."
 
+- id: ev-prema-for-srinivasa
+  title: "Махапрабху и Джаганнатха предназначают прему будущему Шринивасу"
+  title_en: "Mahaprabhu and Jagannatha destine prema for the future Srinivasa"
+  period: P14
+  order: 94
+  cc: ""
+  cb: ""
+  themes: [jagannatha, celestial]
+  teaching: [prema]
+  notes: "«Према-виласа», виласа 1: Земля, землетрясение в Нилачале, сон о Чайтанье Дасе."
+
 - id: ev-advaita-tarja
   title: "Загадка (тарджа) Адвайты, переданная Господу Джагаданандой"
   title_en: "Advaita's riddle (tarja) carried to the Lord by Jagadananda"
@@ -3630,6 +3703,59 @@
   cb: ""
   themes: [separation, revelation]
   notes: "«Адвайта-пракаша» (D), гл. 21; там же рассказ Джагадананды о служении Вишнуприи."
+
+- id: ev-lord-sends-seat-gopala-bhatta
+  title: "Господь посылает Гопале Бхатте Свои пояс-шнур и сиденье"
+  title_en: "The Lord sends Gopala Bhatta His waist-cord and seat"
+  period: P14
+  order: 96
+  cc: ""
+  cb: ""
+  themes: [separation]
+  notes: "«Према-виласа», виласа 1."
+
+- id: ev-gosvamis-foresee-srinivasa
+  title: "Госвами Вриндавана во сне узнают о будущем Шринивасе"
+  title_en: "The Gosvamis of Vrindavana learn in dreams of the coming Srinivasa"
+  period: P14
+  order: 97
+  cc: ""
+  cb: ""
+  themes: [celestial]
+  notes: "«Према-виласа», виласа 1."
+
+- id: ev-chakhandi-zamindar-drum
+  title: "Барабан в Чакханди звучит «Радха-Кришна»: обращение заминдара Дургадаса"
+  title_en: "The drum at Chakhandi sounds 'Radha-Krishna': the conversion of the zamindar Durgadasa"
+  period: P14
+  order: 98
+  cc: ""
+  cb: ""
+  themes: [mercy, kirtan]
+  teaching: [holy-name]
+  notes: "«Према-виласа», виласа 1: Шринивас ещё во чреве."
+
+- id: ev-srinivasa-birth
+  title: "Рождение Шринивасы Ачарьи"
+  title_en: "The birth of Srinivasa Acharya"
+  period: P14
+  order: 99
+  calendar: "вайшакха, пурнима"
+  cc: ""
+  cb: ""
+  themes: [family, festival]
+  notes: "«Према-виласа», виласы 1–2: по тексту — при жизни Махапрабху. Год текст не называет."
+
+- id: ev-narottama-birth
+  title: "Рождение Нароттамы"
+  title_en: "The birth of Narottama"
+  period: P14
+  order: 99.5
+  calendar: "магха, светлая половина, 5-й день (Васанта-панчами)"
+  cc: ""
+  cb: ""
+  themes: [family, festival]
+  notes: "«Према-виласа», виласа 9: сын Кришнананды Датты и Нараяни в Гарерхате; зачатие в вайшакху."
 
 - id: ev-gambhira-divine-madness
   title: "Божественное безумие Господа в бхаве Радхи (последние годы в Пури)"
@@ -3857,6 +3983,16 @@
   themes: [departure, jagannatha, separation]
   notes: "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано."
 
+- id: ev-gadadhara-departure
+  title: "Уход Гададхары Пандита"
+  title_en: "The departure of Gadadhara Pandita"
+  period: P15
+  order: 15
+  cc: ""
+  cb: ""
+  themes: [departure, separation]
+  notes: "«Према-виласа», виласа 4: Шринивас узнаёт о нём в Яджпуре на пути в Пури."
+
 - id: ev-nityananda-marriage
   title: "Женитьба Нитьянанды на Васудхе и Джахнаве; подвиги Его спутников"
   title_en: "Nityananda marries Vasudha and Jahnava; the feats of His associates"
@@ -3939,6 +4075,438 @@
   cb: ""
   themes: [departure]
   notes: "Джаянанда, Уттара-кханда."
+
+- id: ev-srinivasa-schooling
+  title: "Детство и учёба Шринивасы: учитель Дхананджая и милость Сарасвати"
+  title_en: "Srinivasa's childhood and studies: the teacher Dhananjaya and Sarasvati's grace"
+  period: P15
+  order: 45
+  cc: ""
+  cb: ""
+  themes: [learning, family]
+  notes: "«Према-виласа», виласа 3."
+
+- id: ev-srinivasa-meets-narahari
+  title: "Шринивас встречает Нарахари Саркара; плач о том, что родился поздно"
+  title_en: "Srinivasa meets Narahari Sarakara; his lament at being born too late"
+  period: P15
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [separation, celestial]
+  notes: "«Према-виласа», виласа 4."
+
+- id: ev-srinivasa-father-death-yajigrama
+  title: "Смерть Чайтаньи Даса; Шринивас с матерью переселяется в Яджиграм"
+  title_en: "Death of Chaitanya Dasa; Srinivasa and his mother move to Yajigrama"
+  period: P15
+  order: 52
+  calendar: "пхалгуна, 5-й день (переселение)"
+  cc: ""
+  cb: ""
+  themes: [family, departure]
+  notes: "«Према-виласа», виласа 4."
+
+- id: ev-srinivasa-shrikhanda
+  title: "Шринивас в Шрикханде: Нарахари указывает ему гуру — Гопалу Бхатту"
+  title_en: "Srinivasa at Shrikhanda: Narahari names Gopala Bhatta as his guru"
+  period: P15
+  order: 54
+  cc: ""
+  cb: ""
+  themes: [teaching, celestial]
+  notes: "«Према-виласа», виласа 4."
+
+- id: ev-srinivasa-gadadhara-puri
+  title: "Шринивас у Гададхары Пандита в Пури"
+  title_en: "Srinivasa with Gadadhara Pandita in Puri"
+  period: P15
+  order: 56
+  cc: ""
+  cb: ""
+  themes: [separation, learning]
+  notes: "«Према-виласа», виласа 4."
+
+- id: ev-srinivasa-vishnupriya-mercy
+  title: "Милость Вишнуприи к Шринивасу в Навадвипе"
+  title_en: "Vishnupriya's mercy to Srinivasa in Navadvipa"
+  period: P15
+  order: 58
+  cc: ""
+  cb: ""
+  themes: [mercy, prasada]
+  notes: "«Према-виласа», виласа 4."
+
+- id: ev-srinivasa-shantipura
+  title: "Шринивас в Шантипуре: видение Адвайты и милость Ситы"
+  title_en: "Srinivasa at Shantipura: the vision of Advaita and Sita's mercy"
+  period: P15
+  order: 60
+  cc: ""
+  cb: ""
+  themes: [revelation, prasada]
+  notes: "«Према-виласа», виласа 4: Адвайта к тому времени ушёл три года назад."
+
+- id: ev-srinivasa-khardaha-jahnava
+  title: "Шринивас в Кхардахе у Джахнавы и Вирачандры"
+  title_en: "Srinivasa at Khardaha with Jahnava and Virachandra"
+  period: P15
+  order: 62
+  cc: ""
+  cb: ""
+  themes: [mercy, prasada]
+  notes: "«Према-виласа», виласа 5."
+
+- id: ev-abhirama-whip-srinivasa
+  title: "Абхирама испытывает Шринивасу и трижды ударяет его плетью"
+  title_en: "Abhirama tests Srinivasa and strikes him thrice with his whip"
+  period: P15
+  order: 63
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Према-виласа», виласа 5."
+
+- id: ev-srinivasa-journey-vrindavana
+  title: "Шринивас прощается с матерью и идёт во Вриндаван"
+  title_en: "Srinivasa takes leave of his mother and journeys to Vrindavana"
+  period: P15
+  order: 64
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, separation]
+  notes: "«Према-виласа», виласа 5: через Раджмахал, Патну, Варанаси, Праягу, Агру, Матхуру."
+
+- id: ev-rupa-sanatana-departure
+  title: "Уход Санатаны, Рагхунатхи Бхатты и Рупы Госвами"
+  title_en: "The departure of Sanatana, Raghunatha Bhatta and Rupa Gosvami"
+  period: P15
+  order: 64.5
+  cc: ""
+  cb: ""
+  themes: [departure, separation]
+  notes: "«Према-виласа», виласа 5: все трое уходят, пока Шринивас в пути."
+
+- id: ev-srinivasa-vision-rupa-sanatana
+  title: "Рупа и Санатана являются Шринивасу после своего ухода"
+  title_en: "Rupa and Sanatana appear to Srinivasa after their departure"
+  period: P15
+  order: 66
+  cc: ""
+  cb: ""
+  themes: [revelation, separation]
+  notes: "«Према-виласа», виласа 6."
+
+- id: ev-srinivasa-arrives-vrindavana
+  title: "Шринивас во Вриндаване: Джива и Гопала Бхатта принимают его"
+  title_en: "Srinivasa in Vrindavana: Jiva and Gopala Bhatta receive him"
+  period: P15
+  order: 67
+  cc: ""
+  cb: ""
+  themes: [deities, ecstasy]
+  notes: "«Према-виласа», виласа 6."
+
+- id: ev-srinivasa-initiation
+  title: "Посвящение Шринивасы у Гопалы Бхатты"
+  title_en: "Srinivasa's initiation by Gopala Bhatta"
+  period: P15
+  order: 68
+  cc: ""
+  cb: ""
+  themes: [teaching, deities]
+  teaching: [prema, vaishnava]
+  notes: "«Према-виласа», виласа 6: перед Радха-раманой; наставления о садхане."
+
+- id: ev-shyamananda-initiation-ambika
+  title: "Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике"
+  title_en: "The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika"
+  period: P15
+  order: 69
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "«Према-виласа», виласа 12."
+
+- id: ev-shyamananda-comes-to-vrindavana
+  title: "Духкхи Кришнадас приходит во Вриндаван: Рагхунатха Дас, Кришнадас Кавираджа, Джива"
+  title_en: "Duhkhi Krishnadasa comes to Vrindavana: Raghunatha Dasa, Krishnadasa Kaviraja, Jiva"
+  period: P15
+  order: 69.5
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, deities]
+  notes: "«Према-виласа», виласа 12."
+
+- id: ev-narottama-receives-prema
+  title: "Нароттама получает прему от реки Падмавати"
+  title_en: "Narottama receives prema from the river Padmavati"
+  period: P15
+  order: 70
+  cc: ""
+  cb: ""
+  themes: [mercy, ecstasy]
+  notes: "«Према-виласа», виласа 10: по сну Нитьянанды; Нароттама становится золотым."
+
+- id: ev-narottama-leaves-home
+  title: "Нароттама тайно уходит из дома во Вриндаван"
+  title_en: "Narottama secretly leaves home for Vrindavana"
+  period: P15
+  order: 71
+  cc: ""
+  cb: ""
+  themes: [family, separation, pilgrimage]
+  notes: "«Према-виласа», виласа 10: уходит от всадника джагирдара."
+
+- id: ev-narottama-path-vision
+  title: "Путь Нароттамы во Вриндаван: молоко от Гауранги, видение Рупы и Санатаны"
+  title_en: "Narottama's journey to Vrindavana: milk from Gauranga, the vision of Rupa and Sanatana"
+  period: P15
+  order: 72
+  cc: ""
+  cb: ""
+  themes: [mercy, revelation]
+  notes: "«Према-виласа», виласа 10."
+
+- id: ev-narottama-meets-lokanatha
+  title: "Нароттама во Вриндаване: Джива приводит его к Локанатхе"
+  title_en: "Narottama in Vrindavana: Jiva brings him to Lokanatha"
+  period: P15
+  order: 74
+  cc: ""
+  cb: ""
+  themes: [deities, teaching]
+  notes: "«Према-виласа», виласа 11: по сну Рупы; спор о необходимости гуру; год Хари-намы."
+
+- id: ev-narottama-initiation
+  title: "Тайное служение Нароттамы Локанатхе и его посвящение"
+  title_en: "Narottama's secret service to Lokanatha and his initiation"
+  period: P15
+  order: 75
+  calendar: "через год, от вайшакхи до вайшакхи"
+  cc: ""
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [vaishnava, prema]
+  notes: "«Према-виласа», виласа 11: облик Виласа-манджари; наставления о рагануга-садхане."
+
+- id: ev-narottama-champaka-manjari
+  title: "Радха дарует Нароттаме служение и имя Чампака-манджари; обожжённая рука"
+  title_en: "Radha grants Narottama service and the name Champaka-manjari; the burned hand"
+  period: P15
+  order: 76
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, revelation]
+  notes: "«Према-виласа», виласа 11."
+
+- id: ev-narottama-thakura-mahashaya
+  title: "Джива нарекает Нароттаму «Тхакур Махашая»"
+  title_en: "Jiva names Narottama 'Thakura Mahashaya'"
+  period: P15
+  order: 77
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Према-виласа», виласа 12."
+
+- id: ev-srinivasa-narottama-shyamananda-vrindavana
+  title: "Шринивас, Нароттама и Шьямананда во Вриндаване: встреча и учение у Дживы Госвами"
+  title_en: "Srinivasa, Narottama and Shyamananda in Vrindavana: meeting and study with Jiva Gosvami"
+  period: P15
+  order: 78
+  calendar: "шравана, светлая половина, 5-й день (встреча Шринивасы и Нароттамы)"
+  cc: ""
+  cb: ""
+  themes: [learning, teaching]
+  teaching: [scripture]
+  notes: "«Према-виласа», виласа 12."
+
+- id: ev-srinivasa-acharya-title
+  title: "Загадка увядших лиан: Шринивас получает звание Ачарьи"
+  title_en: "The riddle of the withered creepers: Srinivasa receives the title Acharya"
+  period: P15
+  order: 79
+  cc: ""
+  cb: ""
+  themes: [learning, krishna-lila]
+  notes: "«Према-виласа», виласа 12: по «Лалита-мадхаве» Рупы."
+
+- id: ev-shyamananda-nupura
+  title: "Нупура Радхи: Духкхи Кришнадас получает имя Шьямананда"
+  title_en: "Radha's anklet: Duhkhi Krishnadasa receives the name Shyamananda"
+  period: P15
+  order: 79.5
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, revelation]
+  notes: "«Према-виласа», виласа 12: тилака в форме стопы Хари."
+
+- id: ev-books-mission-decision
+  title: "Праздник Дживы в конце карттики: решение отправить Шринивасу и Нароттаму с книгами в Гауду"
+  title_en: "Jiva's festival at the end of Kartika: Srinivasa and Narottama are chosen to take the books to Gauda"
+  period: P15
+  order: 80
+  calendar: "карттика, светлая половина, дашами–экадаши (завершение обета карттики)"
+  cc: ""
+  cb: ""
+  themes: [festival, prasada, teaching]
+  notes: "«Према-виласа», виласа 12."
+
+- id: ev-books-leave-vrindavana
+  title: "Шринивас, Нароттама и Шьямананда покидают Вриндаван с книгами Госвами"
+  title_en: "Srinivasa, Narottama and Shyamananda leave Vrindavana with the Gosvamis' books"
+  period: P15
+  order: 82
+  cc: ""
+  cb: ""
+  themes: [separation, pilgrimage]
+  notes: "«Према-виласа», виласы 12–13: повозка с книгами, прощание с Локанатхой и Гопалой Бхаттой."
+
+- id: ev-books-stolen-vana-vishnupura
+  title: "Люди царя Виры Хамбира похищают повозку с книгами Госвами"
+  title_en: "King Vira Hambira's men steal the cart with the Gosvamis' books"
+  period: P15
+  order: 84
+  cc: ""
+  cb: ""
+  themes: [offense, separation]
+  notes: "«Према-виласа», виласа 13: у Гопалпура близ Вишнупура."
+
+- id: ev-krishnadasa-kaviraja-departure
+  title: "Уход Кришнадаса Кавираджи"
+  title_en: "The departure of Krishnadasa Kaviraja"
+  period: P15
+  order: 85
+  cc: ""
+  cb: ""
+  themes: [departure, separation]
+  notes: "«Према-виласа», виласа 13: от горя при вести о похищении книг, у Радха-кунды."
+
+- id: ev-narottama-returns-kheturi
+  title: "Нароттама возвращается в Кхетури и наставляет Шьямананду"
+  title_en: "Narottama returns to Kheturi and instructs Shyamananda"
+  period: P15
+  order: 86
+  cc: ""
+  cb: ""
+  themes: [family, teaching]
+  notes: "«Према-виласа», виласа 13."
+
+- id: ev-vira-hambira-conversion
+  title: "Шринивас в Вишнупуре: толкование «Бхагаваты», обретение книг и обращение царя Виры Хамбира"
+  title_en: "Srinivasa in Vishnupura: the Bhagavata exposition, recovery of the books and conversion of King Vira Hambira"
+  period: P15
+  order: 87
+  calendar: "ашадха, тёмная половина, 3-й день (посвящение царя)"
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching, learning]
+  teaching: [scripture]
+  notes: "«Према-виласа», виласа 13: царь — Харичарана Дас, пандит — Вьяса Ачарья."
+
+- id: ev-srinivasa-returns-yajigrama
+  title: "Шринивас возвращается к матери в Яджиграм"
+  title_en: "Srinivasa returns to his mother at Yajigrama"
+  period: P15
+  order: 88
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», виласа 13."
+
+- id: ev-srinivasa-raghunandana-shrikhanda
+  title: "Шринивас у Рагхунанданы в Шрикханде после ухода Нарахари"
+  title_en: "Srinivasa with Raghunandana at Shrikhanda after Narahari's departure"
+  period: P15
+  order: 88.5
+  cc: ""
+  cb: ""
+  themes: [separation, departure]
+  notes: "«Према-виласа», виласа 14: автор — очевидец, сидел слева от Рагхунанданы."
+
+- id: ev-ramachandra-kaviraja-meets-srinivasa
+  title: "Рамачандра Кавираджа ищет Шринивасу и становится его учеником"
+  title_en: "Ramachandra Kaviraja seeks out Srinivasa and becomes his disciple"
+  period: P15
+  order: 89
+  cc: ""
+  cb: ""
+  themes: [mercy, learning]
+  notes: "«Према-виласа», виласы 13–14."
+
+- id: ev-govinda-kaviraja-initiation
+  title: "Исцеление и посвящение Говинды Кавираджи"
+  title_en: "The healing and initiation of Govinda Kaviraja"
+  period: P15
+  order: 90
+  cc: ""
+  cb: ""
+  themes: [mercy, celestial]
+  notes: "«Према-виласа», виласа 14: Богиня велит ему помнить Говинду; Шринивас в Будхари; поэт Говиндадас."
+
+- id: ev-kheturi-festival
+  title: "Праздник в Кхетури: установление Гауранги и Валлавиканты"
+  title_en: "The Kheturi festival: installation of Gauranga and Vallavikanta"
+  period: P15
+  order: 92
+  calendar: "пхалгуна, пурнима"
+  cc: ""
+  cb: ""
+  themes: [festival, kirtan, deities]
+  notes: "«Према-виласа», виласа 14 (первый праздник); Джахнава в Кхетури — виласа 15."
+
+- id: ev-harirama-ramakrishna-conversion
+  title: "Обращение брахманов Харирамы и Рамакришны у Падмавати"
+  title_en: "The conversion of the brahmanas Harirama and Ramakrishna at the Padmavati"
+  period: P15
+  order: 93
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching, learning]
+  teaching: [bhakti-supremacy, purity]
+  notes: "«Према-виласа», виласа 14."
+
+- id: ev-jahnava-kheturi
+  title: "Джахнава в Кхетури: четыре дня у Нароттамы"
+  title_en: "Jahnava at Kheturi: four days with Narottama"
+  period: P15
+  order: 94
+  cc: ""
+  cb: ""
+  themes: [festival, prasada]
+  notes: "«Према-виласа», виласа 15: по пути во Вриндаван, после праздника установления."
+
+- id: ev-jahnava-vrindavana
+  title: "Путешествие Джахнавы во Вриндаван; встреча с Госвами"
+  title_en: "Jahnava's journey to Vrindavana; meeting with the Gosvamis"
+  period: P15
+  order: 95
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, krishna-lila]
+  notes: "«Према-виласа», виласы 15–16; «Нитьянанда-вамша-вистара», гл. 4–5."
+
+- id: ev-jahnava-radha-for-madana-mohana
+  title: "Мадана-мохан во сне просит Джахнаву прислать изваяние Радхи"
+  title_en: "Madana-mohana in a dream asks Jahnava to send Him an image of Radha"
+  period: P15
+  order: 95.5
+  cc: ""
+  cb: ""
+  themes: [deities, celestial]
+  notes: "«Према-виласа», виласа 16."
+
+- id: ev-srinivasa-marriage
+  title: "Женитьба Шринивасы; огорчение Гопалы Бхатты"
+  title_en: "Srinivasa's marriage; Gopala Bhatta's displeasure"
+  period: P15
+  order: 96
+  calendar: "пхалгуна (женитьба)"
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», виласы 16–17: весть приносит Чайтанья Дас Аулия."
 
 - id: ev-tattva-nityananda-advaita
   title: "Истина о Нитьянанде и Адвайте"

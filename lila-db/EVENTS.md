@@ -229,6 +229,7 @@
 - jayananda-cm (C): Надия-кханда, разд. 4, 1–9 (фрагм. 4) — [4:1–4:9](../jayananda/ru/01-fragments.md?plain=1#L211-L235) · `jcm-0014`
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 599–631 — [599–631](../lochana/ru/08.md?plain=1#L303-L399) · `lcm-0029`
 - murari-kcc (A): Пракрама 1, сарга 4, шлоки 1–7 — [1–7](../murari-gupta/ru/1.04.md?plain=1#L5-L17) · `mkc-0010`
+- prema-vilasa (C): Виласа 7, 6–15 — [6–15](../prema-vilasa/ru/07.md?plain=1#L20-L47) · `pvl-0037`
 - murari-kcc (A): Пракрама 1, сарга 4, шлоки 13–16 — [13–16](../murari-gupta/ru/1.04.md?plain=1#L29-L35) · `mkc-0012`
 
 ## Переселение Ниламбары Чакраварти и Джаганнатхи Мишры из Шрихатты в Навадвипу / Nilambara Chakravarti and Jagannatha Mishra migrate from Shrihatta to Navadvipa  `ev-mishra-family-migrates-navadvipa`
@@ -262,6 +263,11 @@
 ## Явление Нитьянанды в Экачакре / Nityananda's appearance at Ekachakra  `ev-nityananda-birth`
 
 - advaita-prakasha (D): Гл. 14, 65–70 — [65. Теперь пос–70. Тот, кто в](../advaita-prakash/14.md?plain=1#L69-L74) · `apr-0072`
+- prema-vilasa (C): Виласа 7, 29–34 — [29–34](../prema-vilasa/ru/07.md?plain=1#L89-L104) · `pvl-0039`
+
+## Нитьянанда покидает дом со странствующим санньяси / Nityananda leaves home with a wandering sannyasi  `ev-nityananda-leaves-home`
+
+- prema-vilasa (C): Виласа 7, 35–48 — [35–48](../prema-vilasa/ru/07.md?plain=1#L107-L146) · `pvl-0040`
 
 ## Господь входит в лоно Шачи / The Lord enters Shachi's womb  `ev-lord-enters-shachi-womb`
 
@@ -286,6 +292,7 @@
 - jayananda-cm (C): Надия-кханда: «Рождение Гаурачандры» (Г. Райчаудхури); «Рождение во время затмения» (рукопись № 546, л. 11 об.) — [5:1–2:2](../jayananda/ru/05-quotes.md?plain=1#L58-L61); [6:1–3:5](../jayananda/ru/06-manuscripts.md?plain=1#L101-L113) · `jcm-0018`
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 47–80 — [47–80](../lochana/ru/09.md?plain=1#L149-L248) · `lcm-0035`
 - murari-kcc (A): Пракрама 1, сарга 5, шлоки 16–22 — [16–22](../murari-gupta/ru/1.05.md?plain=1#L35-L47) · `mkc-0016`
+- prema-vilasa (C): Виласа 7, 49–53 — [49–53](../prema-vilasa/ru/07.md?plain=1#L149-L161) · `pvl-0041`
 
 ## Ниламбара Чакраварти предсказывает величие новорождённого / Nilambara Chakravarti foretells the newborn's greatness  `ev-nilambara-prediction` (1486–1486, возраст 0–0, вероятно)
 
@@ -411,6 +418,7 @@
 - jayananda-cm (C): Надия-кханда: «Вишварупа» (цитаты) — [10:1–5:3](../jayananda/ru/05-quotes.md?plain=1#L158-L163) · `jcm-0028`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 422–441 — [422–441](../lochana/ru/13.md?plain=1#L134-L191) · `lcm-0055`
 - murari-kcc (A): Пракрама 1, сарга 7, шлоки 1–8 — [1–8](../murari-gupta/ru/1.07.md?plain=1#L5-L19) · `mkc-0027`
+- prema-vilasa (C): Виласа 7, 16–28 — [16–28](../prema-vilasa/ru/07.md?plain=1#L50-L86) · `pvl-0038`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 442–456 — [442–456](../lochana/ru/13.md?plain=1#L196-L266) · `lcm-0056`
 - murari-kcc (A): Пракрама 1, сарга 7, шлоки 9–11 — [9–11](../murari-gupta/ru/1.07.md?plain=1#L21-L25) · `mkc-0028`
 
@@ -1022,6 +1030,17 @@
 
 - jayananda-cm (C): Вайрагья-кханда (рукописи Вишва-Бхарати № 1903, № 552, № 548); цит. «Наставление о карме» — [12:1–36](../jayananda/ru/06-manuscripts.md?plain=1#L210-L304); [1–11–1–11](../jayananda/ru/06-manuscripts.md?plain=1#L313-L313); [13:1–6:7](../jayananda/ru/06-manuscripts.md?plain=1#L319-L334); [38:1–10:7](../jayananda/ru/05-quotes.md?plain=1#L596-L614) · `jcm-0050`
 - jayananda-cm (C): Вайрагья-кханда: конец сказания о Гаджендре; беседа с Харидасом (рукопись № 556, л. 20) — [17:1–3:12](../jayananda/ru/06-manuscripts.md?plain=1#L474-L509) · `jcm-0054`
+
+## Локанатха приходит к Господу в Навадвипу и послан с Бхугарбхой во Вриндаван / Lokanatha comes to the Lord in Navadvipa and is sent with Bhugarbha to Vrindavana  `ev-lokanatha-sent-to-vrindavana` (1509–1510, возраст 23–24, оценка)
+
+- prema-vilasa (C): Виласа 7, 54–87 — [54–87](../prema-vilasa/ru/07.md?plain=1#L164-L263) · `pvl-0042`
+- prema-vilasa (C): Виласа 7, 88–148 — [88–148](../prema-vilasa/ru/07.md?plain=1#L266-L446) · `pvl-0043`
+- prema-vilasa (C): Виласа 7, 149–228 — [149–228](../prema-vilasa/ru/07.md?plain=1#L449-L686) · `pvl-0044`
+- prema-vilasa (C): Виласа 7, 229–274 — [229–274](../prema-vilasa/ru/07.md?plain=1#L689-L824) · `pvl-0045`
+
+## Локанатха и Бхугарбха во Врадже узнают места лилы / Lokanatha and Bhugarbha in Vraja recognize the sites of the pastimes  `ev-lokanatha-bhugarbha-in-vraja` (1509–1510, возраст 23–24, оценка)
+
+- prema-vilasa (C): Виласа 7, 275–316 — [275–316](../prema-vilasa/ru/07.md?plain=1#L827-L950) · `pvl-0046`
 
 ## Сон о мантре санньясы / The dream of the sannyasa mantra  `ev-sannyasa-mantra-dream` (1509–1510, возраст 23–24, оценка)
 
@@ -1737,7 +1756,13 @@
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 18–24 — [18–24](../lochana/ru/47.md?plain=1#L189-L219) · `lcm-0227`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 6–13 — [6–13](../murari-gupta/ru/3.17.md?plain=1#L15-L29) · `mkc-0185`
+- prema-vilasa (C): Виласа 8, 13–28 — [13–28](../prema-vilasa/ru/08.md?plain=1#L41-L86) · `pvl-0049`
 - murari-kcc (A): Пракрама 3, сарга 18, шлоки 12–14 — [12–14](../murari-gupta/ru/3.18.md?plain=1#L27-L31) · `mkc-0189`
+
+## Господь оставляет прему в реке Падме для будущего Нароттамы / The Lord leaves prema in the Padma river for the future Narottama  `ev-prema-left-in-padma` (1514–1516, возраст 28–30, оценка)
+
+- prema-vilasa (C): Виласа 8, 29–62 — [29–62](../prema-vilasa/ru/08.md?plain=1#L89-L188) · `pvl-0050`
+- prema-vilasa (C): Виласа 8, 63–113 — [63–113](../prema-vilasa/ru/08.md?plain=1#L191-L341) · `pvl-0051`
 
 ## Путь по Ганге через Гауду: Панихати, Кумарахатта, дом Шивананды / The journey along the Ganga through Gauda: Panihati, Kumarahatta, Shivananda's house  `ev-gauda-journey-ganga-villages` (1514–1516, возраст 28–30, оценка)
 
@@ -1923,6 +1948,7 @@
 
 - advaita-prakasha (D): Гл. 20, 26–55 — [26. Господь Ни–55. Затем Гаур](../advaita-prakash/20.md?plain=1#L30-L59) · `apr-0137`
 - murari-kcc (A): Пракрама 4, сарга 14, шлоки 12–17 — [12–17](../murari-gupta/ru/4.14.md?plain=1#L27-L37) · `mkc-0229`
+- prema-vilasa (C): Виласа 12, 257–274 — [257–274](../prema-vilasa/ru/12.md?plain=1#L773-L824) · `pvl-0078`
 - advaita-prakasha (D): Гл. 20, 56–77 — [56. Чтобы освя–77. Что я, нич](../advaita-prakash/20.md?plain=1#L60-L81) · `apr-0138`
 
 ## Снова у Адвайты в Шантипуре; возвращение в Пури / Again at Advaita's house in Shantipura; return to Puri  `ev-shantipura-second-visit` (1514–1516, возраст 28–30, оценка)
@@ -1977,6 +2003,10 @@
 
 - advaita-prakasha (D): Гл. 19, 50–61 — [50. Величию Шр–61. Поступаясь](../advaita-prakash/19.md?plain=1#L54-L65) · `apr-0129`
 
+## Рупа посылает Господу в Пури книгу о садхане, и Господь одобряет её / Rupa sends the Lord in Puri his book on sadhana, and the Lord approves it  `ev-rupa-sends-book-to-lord` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 11, 271–281 — [271–281](../prema-vilasa/ru/11.md?plain=1#L815-L845) · `pvl-0067`
+
 ## Санатана в Пури: язвы исчезают от объятия Господа / Sanatana in Puri: his sores vanish at the Lord's embrace  `ev-sanatana-puri-sores` (1516–1533, возраст 30–47, оценка)
 
 - advaita-prakasha (D): Гл. 19, 72–100 — [72. Затем Шачи–100. Так Он ра](../advaita-prakash/19.md?plain=1#L76-L104) · `apr-0131`
@@ -2018,15 +2048,51 @@
 
 - advaita-prakasha (D): Гл. 19, 142–154 — [142. Теперь по–154. Уповая на](../advaita-prakash/19.md?plain=1#L146-L158) · `apr-0135`
 
+## Калидас пьёт воду со стоп Господа у Львиных ворот / Kalidasa drinks the water of the Lord's feet at the Lion Gate  `ev-kalidasa-foot-water` (1516–1533, возраст 30–47, оценка)
+
+
 ## Адвайта снова «проповедует знание»: Господь является из Пури; трое учеников отвергнуты / Advaita again 'preaches knowledge': the Lord appears from Puri; three disciples rejected  `ev-advaita-jnana-again` (1516–1533, возраст 30–47, оценка)
 
 - advaita-prakasha (D): Гл. 20, 95–128 — [95. А Шри Адва–128. Сита и Ад](../advaita-prakash/20.md?plain=1#L99-L132) · `apr-0140`
+- prema-vilasa (C): Виласа 1, 8–40 — [8–40](../prema-vilasa/ru/01.md?plain=1#L28-L124) · `pvl-0002`
+- prema-vilasa (C): Виласа 4, 294–315 — [294–315](../prema-vilasa/ru/04.md?plain=1#L884-L947) · `pvl-0026`
 - advaita-prakasha (D): Гл. 20, 129–146 — [129. Затем веч–146. Уповая на](../advaita-prakash/20.md?plain=1#L133-L150) · `apr-0141`
+
+## Махапрабху и Джаганнатха предназначают прему будущему Шринивасу / Mahaprabhu and Jagannatha destine prema for the future Srinivasa  `ev-prema-for-srinivasa` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 1, 41–97 — [41–97](../prema-vilasa/ru/01.md?plain=1#L127-L295) · `pvl-0003`
+- prema-vilasa (C): Виласа 1, 107–135 — [107–135](../prema-vilasa/ru/01.md?plain=1#L325-L409) · `pvl-0005`
+- prema-vilasa (C): Виласа 1, 136–166 — [136–166](../prema-vilasa/ru/01.md?plain=1#L412-L502) · `pvl-0006`
 
 ## Загадка (тарджа) Адвайты, переданная Господу Джагаданандой / Advaita's riddle (tarja) carried to the Lord by Jagadananda  `ev-advaita-tarja` (1516–1533, возраст 30–47, оценка)
 
 - advaita-prakasha (D): Гл. 21, 1–32 — [1. Слава, слав–32. Услышав эт](../advaita-prakash/21.md?plain=1#L5-L36) · `apr-0142`
+- prema-vilasa (C): Виласа 1, 98–106 — [98–106](../prema-vilasa/ru/01.md?plain=1#L298-L322) · `pvl-0004`
 - advaita-prakasha (D): Гл. 21, 33–60 — [33. Через неск–60. Услышав эт](../advaita-prakash/21.md?plain=1#L37-L64) · `apr-0143`
+
+## Господь посылает Гопале Бхатте Свои пояс-шнур и сиденье / The Lord sends Gopala Bhatta His waist-cord and seat  `ev-lord-sends-seat-gopala-bhatta` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 1, 167–215 — [167–215](../prema-vilasa/ru/01.md?plain=1#L505-L649) · `pvl-0007`
+
+## Госвами Вриндавана во сне узнают о будущем Шринивасе / The Gosvamis of Vrindavana learn in dreams of the coming Srinivasa  `ev-gosvamis-foresee-srinivasa` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 1, 216–243 — [216–243](../prema-vilasa/ru/01.md?plain=1#L652-L733) · `pvl-0008`
+
+## Барабан в Чакханди звучит «Радха-Кришна»: обращение заминдара Дургадаса / The drum at Chakhandi sounds 'Radha-Krishna': the conversion of the zamindar Durgadasa  `ev-chakhandi-zamindar-drum` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 1, 255–302 — [255–302](../prema-vilasa/ru/01.md?plain=1#L769-L910) · `pvl-0010`
+
+## Рождение Шринивасы Ачарьи / The birth of Srinivasa Acharya  `ev-srinivasa-birth` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 1, 244–254 — [244–254](../prema-vilasa/ru/01.md?plain=1#L736-L766) · `pvl-0009`
+- prema-vilasa (C): Виласа 1, 303–319 — [303–319](../prema-vilasa/ru/01.md?plain=1#L913-L961) · `pvl-0011`
+- prema-vilasa (C): Виласа 2, 1–12 — [1–12](../prema-vilasa/ru/02.md?plain=1#L5-L54) · `pvl-0012`
+
+## Рождение Нароттамы / The birth of Narottama  `ev-narottama-birth` (1516–1533, возраст 30–47, оценка)
+
+- prema-vilasa (C): Виласа 9, 26–46 — [26–46](../prema-vilasa/ru/09.md?plain=1#L80-L140) · `pvl-0053`
+- prema-vilasa (C): Виласа 9, 47–58 — [47–58](../prema-vilasa/ru/09.md?plain=1#L143-L191) · `pvl-0054`
+- prema-vilasa (C): Виласа 10, 1–15 — [1–15](../prema-vilasa/ru/10.md?plain=1#L5-L47) · `pvl-0055`
 
 ## Божественное безумие Господа в бхаве Радхи (последние годы в Пури) / The Lord's divine madness in Radha's mood (the last years in Puri)  `ev-gambhira-divine-madness` (1516–1533, возраст 30–47, оценка)
 
@@ -2047,6 +2113,10 @@
 - lochana-cm (C): Шеша-кханда, гл. 4 «Сокрытие Господа», 94+1 — 94+38 (только изд. 1983 г.) — [94+1–94+38](../lochana/ru/52.md?plain=1#L300-L411) · `lcm-0250`
 - advaita-prakasha (D): Гл. 21, 70–97 — [70. А тем врем–97. В его волн](../advaita-prakash/21.md?plain=1#L74-L101) · `apr-0146`
 
+## Уход Гададхары Пандита / The departure of Gadadhara Pandita  `ev-gadadhara-departure` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 148–163 — [148–163](../prema-vilasa/ru/04.md?plain=1#L446-L491) · `pvl-0020`
+
 ## Женитьба Нитьянанды на Васудхе и Джахнаве; подвиги Его спутников / Nityananda marries Vasudha and Jahnava; the feats of His associates  `ev-nityananda-marriage` (1533–1534, возраст 47–48, оценка)
 
 - advaita-prakasha (D): Гл. 20, 1–25 — [1. Слава, слав–25. Так они ве](../advaita-prakash/20.md?plain=1#L5-L29) · `apr-0136`
@@ -2056,6 +2126,7 @@
 ## Обет Вишнуприи: зёрнышко риса на каждое имя / Vishnupriya's vow: one grain of rice for each name  `ev-vishnupriya-austerity` (1533–1534, возраст 47–48, оценка)
 
 - advaita-prakasha (D): Гл. 22, 65–87 — [65. После праз–87. Состояние м](../advaita-prakash/22.md?plain=1#L69-L91) · `apr-0151`
+- prema-vilasa (C): Виласа 4, 223–235 — [223–235](../prema-vilasa/ru/04.md?plain=1#L671-L707) · `pvl-0022`
 
 ## Уход Нитьянанды / The departure of Nityananda  `ev-nityananda-departure` (1533–1534, возраст 47–48, оценка)
 
@@ -2082,6 +2153,203 @@
 
 - advaita-prakasha (D): Гл. 22, 97–132 — [97. Теперь пос–132. Ради очищ](../advaita-prakash/22.md?plain=1#L101-L136) · `apr-0153`
 - jayananda-cm (C): Уттара-кханда: краткое жизнеописание (Н. Васу 1897, с. 226); рукопись «около 250 лет» (№ 545) — [> У Ситы и Адвайты в сердце осталась вел–> Ачарья Госани ушёл на Вайкунтху.](../jayananda/ru/02-vasu-1897.md?plain=1#L1552-L1559); [1–2–1–2](../jayananda/ru/06-manuscripts.md?plain=1#L1075-L1075) · `jcm-0104`
+
+## Детство и учёба Шринивасы: учитель Дхананджая и милость Сарасвати / Srinivasa's childhood and studies: the teacher Dhananjaya and Sarasvati's grace  `ev-srinivasa-schooling` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 3, 15–27 — [15–27](../prema-vilasa/ru/03.md?plain=1#L47-L83) · `pvl-0014`
+- prema-vilasa (C): Виласа 3, 28–54 — [28–54](../prema-vilasa/ru/03.md?plain=1#L86-L164) · `pvl-0015`
+
+## Шринивас встречает Нарахари Саркара; плач о том, что родился поздно / Srinivasa meets Narahari Sarakara; his lament at being born too late  `ev-srinivasa-meets-narahari` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 1–44 — [1–44](../prema-vilasa/ru/04.md?plain=1#L5-L134) · `pvl-0016`
+
+## Смерть Чайтаньи Даса; Шринивас с матерью переселяется в Яджиграм / Death of Chaitanya Dasa; Srinivasa and his mother move to Yajigrama  `ev-srinivasa-father-death-yajigrama` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 45–74 — [45–74](../prema-vilasa/ru/04.md?plain=1#L137-L224) · `pvl-0017`
+
+## Шринивас в Шрикханде: Нарахари указывает ему гуру — Гопалу Бхатту / Srinivasa at Shrikhanda: Narahari names Gopala Bhatta as his guru  `ev-srinivasa-shrikhanda` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 75–113 — [75–113](../prema-vilasa/ru/04.md?plain=1#L227-L341) · `pvl-0018`
+
+## Шринивас у Гададхары Пандита в Пури / Srinivasa with Gadadhara Pandita in Puri  `ev-srinivasa-gadadhara-puri` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 114–147 — [114–147](../prema-vilasa/ru/04.md?plain=1#L344-L443) · `pvl-0019`
+
+## Милость Вишнуприи к Шринивасу в Навадвипе / Vishnupriya's mercy to Srinivasa in Navadvipa  `ev-srinivasa-vishnupriya-mercy` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 164–222 — [164–222](../prema-vilasa/ru/04.md?plain=1#L494-L668) · `pvl-0021`
+- prema-vilasa (C): Виласа 4, 236–251 — [236–251](../prema-vilasa/ru/04.md?plain=1#L710-L755) · `pvl-0023`
+
+## Шринивас в Шантипуре: видение Адвайты и милость Ситы / Srinivasa at Shantipura: the vision of Advaita and Sita's mercy  `ev-srinivasa-shantipura` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 4, 252–272 — [252–272](../prema-vilasa/ru/04.md?plain=1#L758-L818) · `pvl-0024`
+- prema-vilasa (C): Виласа 4, 273–293 — [273–293](../prema-vilasa/ru/04.md?plain=1#L821-L881) · `pvl-0025`
+
+## Шринивас в Кхардахе у Джахнавы и Вирачандры / Srinivasa at Khardaha with Jahnava and Virachandra  `ev-srinivasa-khardaha-jahnava` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 5, 1–34 — [1–34](../prema-vilasa/ru/05.md?plain=1#L5-L104) · `pvl-0027`
+
+## Абхирама испытывает Шринивасу и трижды ударяет его плетью / Abhirama tests Srinivasa and strikes him thrice with his whip  `ev-abhirama-whip-srinivasa` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 5, 35–75 — [35–75](../prema-vilasa/ru/05.md?plain=1#L107-L227) · `pvl-0028`
+
+## Шринивас прощается с матерью и идёт во Вриндаван / Srinivasa takes leave of his mother and journeys to Vrindavana  `ev-srinivasa-journey-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 5, 76–93 — [76–93](../prema-vilasa/ru/05.md?plain=1#L230-L281) · `pvl-0029`
+- prema-vilasa (C): Виласа 5, 107–146 — [107–146](../prema-vilasa/ru/05.md?plain=1#L323-L440) · `pvl-0031`
+
+## Уход Санатаны, Рагхунатхи Бхатты и Рупы Госвами / The departure of Sanatana, Raghunatha Bhatta and Rupa Gosvami  `ev-rupa-sanatana-departure` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 5, 94–106 — [94–106](../prema-vilasa/ru/05.md?plain=1#L284-L320) · `pvl-0030`
+- prema-vilasa (C): Виласа 5, 147–172 — [147–172](../prema-vilasa/ru/05.md?plain=1#L443-L518) · `pvl-0032`
+
+## Рупа и Санатана являются Шринивасу после своего ухода / Rupa and Sanatana appear to Srinivasa after their departure  `ev-srinivasa-vision-rupa-sanatana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 6, 1–48 — [1–48](../prema-vilasa/ru/06.md?plain=1#L5-L146) · `pvl-0033`
+
+## Шринивас во Вриндаване: Джива и Гопала Бхатта принимают его / Srinivasa in Vrindavana: Jiva and Gopala Bhatta receive him  `ev-srinivasa-arrives-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 6, 49–100 — [49–100](../prema-vilasa/ru/06.md?plain=1#L149-L302) · `pvl-0034`
+
+## Посвящение Шринивасы у Гопалы Бхатты / Srinivasa's initiation by Gopala Bhatta  `ev-srinivasa-initiation` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
+
+## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 200–256 — [200–256](../prema-vilasa/ru/12.md?plain=1#L602-L770) · `pvl-0077`
+
+## Духкхи Кришнадас приходит во Вриндаван: Рагхунатха Дас, Кришнадас Кавираджа, Джива / Duhkhi Krishnadasa comes to Vrindavana: Raghunatha Dasa, Krishnadasa Kaviraja, Jiva  `ev-shyamananda-comes-to-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 275–319 — [275–319](../prema-vilasa/ru/12.md?plain=1#L827-L959) · `pvl-0079`
+
+## Нароттама получает прему от реки Падмавати / Narottama receives prema from the river Padmavati  `ev-narottama-receives-prema` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 10, 16–38 — [16–38](../prema-vilasa/ru/10.md?plain=1#L50-L116) · `pvl-0056`
+- prema-vilasa (C): Виласа 10, 39–97 — [39–97](../prema-vilasa/ru/10.md?plain=1#L119-L293) · `pvl-0057`
+
+## Нароттама тайно уходит из дома во Вриндаван / Narottama secretly leaves home for Vrindavana  `ev-narottama-leaves-home` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 10, 98–137 — [98–137](../prema-vilasa/ru/10.md?plain=1#L296-L413) · `pvl-0058`
+
+## Путь Нароттамы во Вриндаван: молоко от Гауранги, видение Рупы и Санатаны / Narottama's journey to Vrindavana: milk from Gauranga, the vision of Rupa and Sanatana  `ev-narottama-path-vision` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 10, 138–183 — [138–183](../prema-vilasa/ru/10.md?plain=1#L416-L551) · `pvl-0059`
+- prema-vilasa (C): Виласа 11, 1–31 — [1–31](../prema-vilasa/ru/11.md?plain=1#L5-L95) · `pvl-0060`
+
+## Нароттама во Вриндаване: Джива приводит его к Локанатхе / Narottama in Vrindavana: Jiva brings him to Lokanatha  `ev-narottama-meets-lokanatha` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 11, 32–58 — [32–58](../prema-vilasa/ru/11.md?plain=1#L98-L176) · `pvl-0061`
+- prema-vilasa (C): Виласа 11, 59–89 — [59–89](../prema-vilasa/ru/11.md?plain=1#L179-L269) · `pvl-0062`
+
+## Тайное служение Нароттамы Локанатхе и его посвящение / Narottama's secret service to Lokanatha and his initiation  `ev-narottama-initiation` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 11, 90–114 — [90–114](../prema-vilasa/ru/11.md?plain=1#L272-L344) · `pvl-0063`
+- prema-vilasa (C): Виласа 11, 115–164 — [115–164](../prema-vilasa/ru/11.md?plain=1#L347-L494) · `pvl-0064`
+- prema-vilasa (C): Виласа 11, 165–192 — [165–192](../prema-vilasa/ru/11.md?plain=1#L497-L578) · `pvl-0065`
+- prema-vilasa (C): Виласа 11, 193–270 — [193–270](../prema-vilasa/ru/11.md?plain=1#L581-L812) · `pvl-0066`
+- prema-vilasa (C): Виласа 11, 282–311 — [282–311](../prema-vilasa/ru/11.md?plain=1#L848-L935) · `pvl-0068`
+
+## Радха дарует Нароттаме служение и имя Чампака-манджари; обожжённая рука / Radha grants Narottama service and the name Champaka-manjari; the burned hand  `ev-narottama-champaka-manjari` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 11, 312–339 — [312–339](../prema-vilasa/ru/11.md?plain=1#L938-L1019) · `pvl-0069`
+- prema-vilasa (C): Виласа 11, 340–365 — [340–365](../prema-vilasa/ru/11.md?plain=1#L1022-L1097) · `pvl-0070`
+
+## Джива нарекает Нароттаму «Тхакур Махашая» / Jiva names Narottama 'Thakura Mahashaya'  `ev-narottama-thakura-mahashaya` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 17–47 — [17–47](../prema-vilasa/ru/12.md?plain=1#L53-L143) · `pvl-0072`
+
+## Шринивас, Нароттама и Шьямананда во Вриндаване: встреча и учение у Дживы Госвами / Srinivasa, Narottama and Shyamananda in Vrindavana: meeting and study with Jiva Gosvami  `ev-srinivasa-narottama-shyamananda-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 48–68 — [48–68](../prema-vilasa/ru/12.md?plain=1#L146-L206) · `pvl-0073`
+- prema-vilasa (C): Виласа 12, 320–362 — [320–362](../prema-vilasa/ru/12.md?plain=1#L962-L1088) · `pvl-0080`
+
+## Загадка увядших лиан: Шринивас получает звание Ачарьи / The riddle of the withered creepers: Srinivasa receives the title Acharya  `ev-srinivasa-acharya-title` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 69–113 — [69–113](../prema-vilasa/ru/12.md?plain=1#L209-L341) · `pvl-0074`
+
+## Нупура Радхи: Духкхи Кришнадас получает имя Шьямананда / Radha's anklet: Duhkhi Krishnadasa receives the name Shyamananda  `ev-shyamananda-nupura` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 363–395 — [363–395](../prema-vilasa/ru/12.md?plain=1#L1091-L1187) · `pvl-0081`
+
+## Праздник Дживы в конце карттики: решение отправить Шринивасу и Нароттаму с книгами в Гауду / Jiva's festival at the end of Kartika: Srinivasa and Narottama are chosen to take the books to Gauda  `ev-books-mission-decision` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 114–181 — [114–181](../prema-vilasa/ru/12.md?plain=1#L344-L545) · `pvl-0075`
+
+## Шринивас, Нароттама и Шьямананда покидают Вриндаван с книгами Госвами / Srinivasa, Narottama and Shyamananda leave Vrindavana with the Gosvamis' books  `ev-books-leave-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 12, 182–199 — [182–199](../prema-vilasa/ru/12.md?plain=1#L548-L599) · `pvl-0076`
+- prema-vilasa (C): Виласа 12, 396–440 — [396–440](../prema-vilasa/ru/12.md?plain=1#L1190-L1322) · `pvl-0082`
+- prema-vilasa (C): Виласа 13, 9–69 — [9–69](../prema-vilasa/ru/13.md?plain=1#L29-L209) · `pvl-0084`
+
+## Люди царя Виры Хамбира похищают повозку с книгами Госвами / King Vira Hambira's men steal the cart with the Gosvamis' books  `ev-books-stolen-vana-vishnupura` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 70–94 — [70–94](../prema-vilasa/ru/13.md?plain=1#L212-L284) · `pvl-0085`
+- prema-vilasa (C): Виласа 13, 95–123 — [95–123](../prema-vilasa/ru/13.md?plain=1#L287-L371) · `pvl-0086`
+
+## Уход Кришнадаса Кавираджи / The departure of Krishnadasa Kaviraja  `ev-krishnadasa-kaviraja-departure` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 124–146 — [124–146](../prema-vilasa/ru/13.md?plain=1#L374-L440) · `pvl-0087`
+
+## Нароттама возвращается в Кхетури и наставляет Шьямананду / Narottama returns to Kheturi and instructs Shyamananda  `ev-narottama-returns-kheturi` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 147–199 — [147–199](../prema-vilasa/ru/13.md?plain=1#L443-L599) · `pvl-0088`
+
+## Шринивас в Вишнупуре: толкование «Бхагаваты», обретение книг и обращение царя Виры Хамбира / Srinivasa in Vishnupura: the Bhagavata exposition, recovery of the books and conversion of King Vira Hambira  `ev-vira-hambira-conversion` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 200–260 — [200–260](../prema-vilasa/ru/13.md?plain=1#L602-L782) · `pvl-0089`
+- prema-vilasa (C): Виласа 13, 261–312 — [261–312](../prema-vilasa/ru/13.md?plain=1#L785-L938) · `pvl-0090`
+- prema-vilasa (C): Виласа 13, 313–345 — [313–345](../prema-vilasa/ru/13.md?plain=1#L941-L1037) · `pvl-0091`
+- prema-vilasa (C): Виласа 13, 346–372 — [346–372](../prema-vilasa/ru/13.md?plain=1#L1040-L1118) · `pvl-0092`
+
+## Шринивас возвращается к матери в Яджиграм / Srinivasa returns to his mother at Yajigrama  `ev-srinivasa-returns-yajigrama` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 373–385 — [373–385](../prema-vilasa/ru/13.md?plain=1#L1121-L1157) · `pvl-0093`
+
+## Шринивас у Рагхунанданы в Шрикханде после ухода Нарахари / Srinivasa with Raghunandana at Shrikhanda after Narahari's departure  `ev-srinivasa-raghunandana-shrikhanda` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 14, 1–29 — [1–29](../prema-vilasa/ru/14.md?plain=1#L5-L89) · `pvl-0095`
+
+## Рамачандра Кавираджа ищет Шринивасу и становится его учеником / Ramachandra Kaviraja seeks out Srinivasa and becomes his disciple  `ev-ramachandra-kaviraja-meets-srinivasa` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 13, 386–409 — [386–409](../prema-vilasa/ru/13.md?plain=1#L1160-L1229) · `pvl-0094`
+- prema-vilasa (C): Виласа 14, 30–101 — [30–101](../prema-vilasa/ru/14.md?plain=1#L92-L305) · `pvl-0096`
+
+## Исцеление и посвящение Говинды Кавираджи / The healing and initiation of Govinda Kaviraja  `ev-govinda-kaviraja-initiation` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 14, 102–175 — [102–175](../prema-vilasa/ru/14.md?plain=1#L308-L527) · `pvl-0097`
+- prema-vilasa (C): Виласа 14, 176–204 — [176–204](../prema-vilasa/ru/14.md?plain=1#L530-L635) · `pvl-0098`
+
+## Праздник в Кхетури: установление Гауранги и Валлавиканты / The Kheturi festival: installation of Gauranga and Vallavikanta  `ev-kheturi-festival` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 14, 205–235 — [205–235](../prema-vilasa/ru/14.md?plain=1#L638-L728) · `pvl-0099`
+- prema-vilasa (C): Виласа 14, 236–310 — [236–310](../prema-vilasa/ru/14.md?plain=1#L731-L958) · `pvl-0100`
+- prema-vilasa (C): Виласа 14, 311–339 — [311–339](../prema-vilasa/ru/14.md?plain=1#L961-L1045) · `pvl-0101`
+
+## Обращение брахманов Харирамы и Рамакришны у Падмавати / The conversion of the brahmanas Harirama and Ramakrishna at the Padmavati  `ev-harirama-ramakrishna-conversion` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 14, 340–395 — [340–395](../prema-vilasa/ru/14.md?plain=1#L1048-L1213) · `pvl-0102`
+
+## Джахнава в Кхетури: четыре дня у Нароттамы / Jahnava at Kheturi: four days with Narottama  `ev-jahnava-kheturi` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 15, 1–37 — [1–37](../prema-vilasa/ru/15.md?plain=1#L5-L113) · `pvl-0103`
+
+## Путешествие Джахнавы во Вриндаван; встреча с Госвами / Jahnava's journey to Vrindavana; meeting with the Gosvamis  `ev-jahnava-vrindavana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 15, 38–59 — [38–59](../prema-vilasa/ru/15.md?plain=1#L116-L179) · `pvl-0104`
+- prema-vilasa (C): Виласа 16, 95–145 — [95–145](../prema-vilasa/ru/16.md?plain=1#L287-L437) · `pvl-0108`
+- prema-vilasa (C): Виласа 16, 159–219 — [159–219](../prema-vilasa/ru/16.md?plain=1#L479-L659) · `pvl-0110`
+- prema-vilasa (C): Виласа 16, 220–250 — [220–250](../prema-vilasa/ru/16.md?plain=1#L662-L752) · `pvl-0111`
+- prema-vilasa (C): Виласа 16, 251–281 — [251–281](../prema-vilasa/ru/16.md?plain=1#L755-L845) · `pvl-0112`
+- prema-vilasa (C): Виласа 16, 282–300 — [282–300](../prema-vilasa/ru/16.md?plain=1#L848-L902) · `pvl-0113`
+
+## Мадана-мохан во сне просит Джахнаву прислать изваяние Радхи / Madana-mohana in a dream asks Jahnava to send Him an image of Radha  `ev-jahnava-radha-for-madana-mohana` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 16, 146–158 — [146–158](../prema-vilasa/ru/16.md?plain=1#L440-L476) · `pvl-0109`
+
+## Женитьба Шринивасы; огорчение Гопалы Бхатты / Srinivasa's marriage; Gopala Bhatta's displeasure  `ev-srinivasa-marriage` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 16, 301–343 — [301–343](../prema-vilasa/ru/16.md?plain=1#L905-L1031) · `pvl-0114`
 
 ## Истина о Нитьянанде и Адвайте / The truth about Nityananda and Advaita  `ev-tattva-nityananda-advaita`
 

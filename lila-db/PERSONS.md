@@ -20,6 +20,9 @@
 | @ranganatha-deity | Ранганатха (Божество в Шрирангаме) | Ranganatha (Deity at Shrirangam) | |
 | @gopinatha-deity-puri | Гопинатха (Тота-Гопинатха, Пури) | Gopinatha (Tota-Gopinatha, Puri) | Божество Кришны с флейтой, которому служил Гададхара Пандит |
 | @sakshi-gopala | Сакши-гопала (Божество-свидетель) | Sakshi-gopala (the witness Deity) | Божество Гопалы, пришедшее свидетелем за брахманом; по Карнапуре — в Катаке (Каттаке) |
+| @govinda-deity | Говинда (Говиндадева) — Божество во Вриндаване | Govinda (Govindadeva), the Deity of Vrindavana | Божество, которому служил Рупа Госвами |
+| @radha-ramana-deity | Радха-рамана — Божество во Вриндаване | Radha-ramana, the Deity of Vrindavana | Божество Гопалы Бхатты Госвами |
+| @madana-mohana-vrindavana | Мадана-мохана — Божество во Вриндаване | Madana-mohana, the Deity of Vrindavana | Божество Санатаны Госвами; не путать с @madana-gopala-deity |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -174,6 +177,35 @@
 | @chhota-haridasa | Младший Харидас (певец) | Junior Haridasa (the singer) | певец при Господе в Пури, отвергнутый за разговор с женщиной (ЧЧ Антья 2); не путать с @haridasa-thakura |
 | @raghunatha-advaita-grandson | Рагхунатха, внук Адвайты | Raghunatha, Advaita's grandson | сын Кришна Мишры («Адвайта-пракаша»); не путать с @raghunatha-dasa, @raghunatha-bhatta |
 | @dolagovinda | Долаговинда | Dolagovinda | сын Кришна Мишры, внук Адвайты («Адвайта-пракаша») |
+| @srinivasa-acharya | Шринивас Ачарья (Тхакур) | Srinivasa Acharya (Thakura) | сын Чайтаньи Даса и Лакшмиприи из Чакханди; ученик Гопалы Бхатты; привёз в Гауду книги Госвами; не путать с @srivasa |
+| @chaitanya-dasa | Чайтанья Дас (Ачарья) | Chaitanya Dasa (Acharya) | брахман из Чакханди (Гангадхара Бхаттачарья), отец Шринивасы Ачарьи («Према-виласа») |
+| @lakshmipriya-chakhandi | Лакшмиприя (мать Шринивасы) | Lakshmipriya (Srinivasa's mother) | дочь Баларамы Даса, жена Чайтаньи Даса; не путать с @lakshmipriya |
+| @durgadasa-raya | Дургадас Рай | Durgadasa Raya | заминдар Чакханди, обращённый ещё до рождения Шринивасы («Према-виласа» 1) |
+| @dhananjaya-vidyanivasa | Дхананджая Видьянивас | Dhananjaya Vidyanivasa | учитель Шринивасы в детстве («Према-виласа» 3) |
+| @nayana-sena | Наяна Сена | Nayana Sena | житель Шрикханды («Према-виласа» 4) |
+| @vamshivadana | Вамшивадана (Вамши) Дас | Vamshivadana (Vamshi) Dasa | спутник Господа; после Его ухода — при Вишнуприи в Навадвипе |
+| @ishana-navadvipa | Ишана (слуга в доме Господа) | Ishana (servant of the Lord's household) | слуга Шачи и Вишнуприи в Навадвипе; не путать с @ishana-nagara |
+| @kamadeva-nagara | Камадева Нагара | Kamadeva Nagara | последователь Адвайты, проповедовавший учение, расходившееся с бхакти Махапрабху; отвергнут («Адвайта-пракаша», «Према-виласа») |
+| @narottama-dasa | Нароттама Дас (Тхакур Махашая) | Narottama Dasa (Thakura Mahashaya) | сын Кришнананды Датты (Рая) из Кхетури (Гарерхат); ученик Локанатхи Госвами |
+| @bhugarbha | Бхугарбха (Госвами) | Bhugarbha (Gosvami) | спутник Господа, во Вриндаване — друг Локанатхи; Нандимукхи (по «Према-виласе») |
+| @nityananda-dasa-author | Нитьянанда Дас (автор «Према-виласы») | Nityananda Dasa (author of the Prema-vilasa) | Баларама Дас, ученик Джахнавы (для записей kind: author); не путать с @nityananda |
+| @ramachandra-kaviraja | Рамачандра Кавираджа | Ramachandra Kaviraja | ученик Шринивасы Ачарьи, друг Нароттамы; брат Говинды Кавираджи |
+| @govinda-kaviraja | Говинда Кавираджа (Говиндадас) | Govinda Kaviraja (Govindadasa) | поэт, брат Рамачандры Кавираджи, ученик Шринивасы Ачарьи |
+| @malini-abhirama | Малини (супруга Абхирамы) | Malini (Abhirama's wife) | удержала руку Абхирамы с плетью («Према-виласа» 5); не путать с @malini |
+| @lokanatha-pandita | Локанатха Пандит (сын Ратнагарбхи) | Lokanatha Pandita (son of Ratnagarbha) | двоюродный брат и спутник Вишварупы, его ученик после санньясы («Према-виласа» 7); не путать с @lokanatha |
+| @krishnananda-datta | Кришнананда Датта (Рай, Маджумдар) | Krishnananda Datta (Raya, Majumdar) | отец Нароттамы, правитель Гарерхата (Кхетури) |
+| @narayani-kheturi | Нараяни (мать Нароттамы) | Narayani (Narottama's mother) | супруга Кришнананды Датты; не путать с @narayani |
+| @shyamananda | Шьямананда (Духкхи Кришнадас) | Shyamananda (Duhkhi Krishnadasa) | ученик Хридая Чайтаньи; во Вриндаване — у Дживы Госвами; проповедник в Ориссе |
+| @hridaya-chaitanya | Хридая Чайтанья (Дас) | Hridaya Chaitanya (Dasa) | ученик Гауридаса Пандита в Амбике, гуру Шьямананды |
+| @krishnadasa-kaviraja | Кришнадас Кавираджа (Госвами) | Krishnadasa Kaviraja (Gosvami) | автор «Чайтанья-чаритамриты»; жил у Радха-кунды |
+| @vira-hambira | Вира Хамбир (Харичарана Дас) | Vira Hambira (Haricharana Dasa) | царь Вишнупура (Маллабхум), похитивший книги Госвами и ставший учеником Шринивасы |
+| @krishnavallabha | Кришнавальлабха | Krishnavallabha | юноша-брахман из Деули близ Вишнупура, ученик Шринивасы |
+| @vyasa-acharya | Вьяса Ачарья | Vyasa Acharya | придворный пандит Виры Хамбира, ученик Шринивасы; не путать с @vyasa |
+| @rasikananda | Расикананда (Мурари Дас) | Rasikananda (Murari Dasa) | сын Ачьютананды (раджи) из Рохини, главный ученик Шьямананды; не путать с @achyutananda |
+| @harirama-acharya | Харирама (Ачарья) | Harirama (Acharya) | брахман-пандит, ученик Рамачандры Кавираджи («Према-виласа» 14) |
+| @ramakrishna-acharya | Рамакришна (Ачарья) | Ramakrishna (Acharya) | брахман-пандит, брат Харирамы, ученик Нароттамы («Према-виласа» 14) |
+| @kalidasa | Калидас | Kalidasa | дядя Рагхунатхи Даса; вкушал остатки пищи вайшнавов, у Львиных ворот выпил воду со стоп Господа (ЧЧ Антья 16) |
+| @chaitanya-dasa-auliya | Чайтанья Дас Аулия | Chaitanya Dasa the Auliya | ученик Джахнавы, «безумный в Боге» странник; не путать с @chaitanya-dasa |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -212,6 +244,7 @@
 | @yogamaya | Йогамайя (Паурнамаси) | Yogamaya (Paurnamasi) | внутренняя энергия Господа, устраивающая Его игры; во Врадже — старица Паурнамаси |
 | @yama | Яма (Ямараджа, Дхармараджа) | Yama (Yamaraja, Dharmaraja) | владыка смерти, сын Солнца |
 | @madana-gopala-deity | Мадана-Мохана (Мадана-Гопала) — Божество | Madana-Mohana (Madana-Gopala), the Deity | Божество Кришны, обретённое Адвайтой во Врадже («Адвайта-пракаша»), которому служил Адвайта в Шантипуре |
+| @sarasvati-devi | Сарасвати (богиня учёности) | Sarasvati (goddess of learning) |  |
 | **Аллегорические лица** ||||
 | @kali-personified | Кали (олицетворение века Кали) | Kali (personification of the Kali age) | «царь эпохи» в аллегорических сценах; не путать с богиней Кали |
 | @adharma | Адхарма (Беззаконие) | Adharma (Irreligion) | олицетворение; друг и слуга Кали |
