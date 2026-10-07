@@ -1127,10 +1127,12 @@
   "notes": "«Адвайта-пракаша» (D), гл. 9–10: обет Адвайты явить Кришну и громовые призывы.",
   "entries": [
    "apr-0035",
-   "pvl-0224"
+   "pvl-0224",
+   "pad-0316"
   ],
   "sources": [
    "advaita-prakasha",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -1447,6 +1449,7 @@
    "pvl-0041",
    "pad-0128",
    "pad-0232",
+   "pad-0317",
    "pad-0281"
   ],
   "sources": [
@@ -3576,12 +3579,15 @@
    23
   ],
   "entries": [
+   "kcm-0032",
    "jcm-0033",
+   "kcm-0033",
    "lcm-0090",
    "mkc-0054"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3610,10 +3616,12 @@
    23
   ],
   "entries": [
+   "kcm-0034",
    "lcm-0091",
    "mkc-0055"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3643,10 +3651,12 @@
    23
   ],
   "entries": [
+   "kcm-0035",
    "lcm-0092",
    "mkc-0056"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3678,6 +3688,7 @@
    "apr-0068",
    "ccd-0011",
    "jcm-0034",
+   "kcm-0036",
    "lcm-0093",
    "mkc-0057"
   ],
@@ -3685,6 +3696,7 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3746,10 +3758,12 @@
   ],
   "entries": [
    "mkc-0058",
+   "kcm-0037",
    "lcm-0094",
    "mkc-0060"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3809,12 +3823,15 @@
   "entries": [
    "apr-0069",
    "jcm-0035",
+   "kcm-0038",
    "lcm-0095",
-   "mkc-0061"
+   "mkc-0061",
+   "kcm-0039"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3845,12 +3862,14 @@
   "entries": [
    "apr-0070",
    "jcm-0037",
+   "kcm-0041",
    "lcm-0097",
    "mkc-0064"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3939,10 +3958,13 @@
    24
   ],
   "entries": [
+   "kcm-0040",
+   "kcm-0046",
    "lcm-0098",
    "mkc-0065"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4125,10 +4147,12 @@
    24
   ],
   "entries": [
+   "kcm-0042",
    "lcm-0103",
    "mkc-0069"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4157,10 +4181,12 @@
    24
   ],
   "entries": [
+   "kcm-0049",
    "lcm-0104",
    "mkc-0070"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4223,12 +4249,14 @@
   ],
   "entries": [
    "ccd-0018",
+   "kcm-0050",
    "lcm-0106",
    "mkc-0072",
    "mkc-0075"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4290,10 +4318,12 @@
    24
   ],
   "entries": [
+   "kcm-0051",
    "lcm-0107",
    "mkc-0073"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4353,10 +4383,12 @@
    24
   ],
   "entries": [
+   "kcm-0052",
    "lcm-0109",
    "mkc-0074"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4385,6 +4417,8 @@
    24
   ],
   "entries": [
+   "kcm-0062",
+   "kcm-0071",
    "lcm-0110",
    "mkc-0076",
    "pad-0099",
@@ -4392,8 +4426,11 @@
    "pad-0108",
    "pad-0182",
    "pad-0183",
+   "pad-0319",
    "pad-0184",
+   "pad-0321",
    "pad-0185",
+   "pad-0322",
    "pad-0186",
    "pad-0187",
    "pad-0190",
@@ -4415,6 +4452,7 @@
    "pad-0219"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -4444,10 +4482,12 @@
    24
   ],
   "entries": [
+   "kcm-0053",
    "lcm-0111",
    "mkc-0077"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4477,11 +4517,13 @@
   ],
   "entries": [
    "ccd-0017",
+   "kcm-0054",
    "lcm-0112",
    "mkc-0078"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4511,11 +4553,13 @@
   ],
   "entries": [
    "ccd-0016",
+   "kcm-0055",
    "lcm-0113",
    "mkc-0079"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4543,10 +4587,13 @@
    24
   ],
   "entries": [
+   "kcm-0048",
+   "kcm-0056",
    "lcm-0114",
    "mkc-0080"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4575,10 +4622,12 @@
    24
   ],
   "entries": [
+   "kcm-0057",
    "lcm-0115",
    "mkc-0081"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4607,10 +4656,12 @@
    24
   ],
   "entries": [
+   "kcm-0058",
    "lcm-0116",
    "mkc-0082"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4639,10 +4690,12 @@
    24
   ],
   "entries": [
+   "kcm-0059",
    "lcm-0117",
    "mkc-0083"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4671,10 +4724,12 @@
    24
   ],
   "entries": [
+   "kcm-0060",
    "lcm-0118",
    "mkc-0084"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4705,6 +4760,8 @@
   ],
   "entries": [
    "ccd-0028",
+   "kcm-0043",
+   "kcm-0061",
    "lcm-0119",
    "mkc-0085",
    "mkc-0086",
@@ -4712,6 +4769,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4770,10 +4828,12 @@
    24
   ],
   "entries": [
+   "kcm-0063",
    "lcm-0122",
    "mkc-0088"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4802,10 +4862,12 @@
    24
   ],
   "entries": [
+   "kcm-0064",
    "lcm-0123",
    "mkc-0089"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4870,6 +4932,7 @@
   "entries": [
    "apr-0073",
    "jcm-0046",
+   "kcm-0065",
    "lcm-0124",
    "mkc-0091",
    "mkc-0092",
@@ -4879,6 +4942,7 @@
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -4940,12 +5004,14 @@
   ],
   "entries": [
    "ccd-0024",
+   "kcm-0066",
    "lcm-0127",
    "mkc-0095",
    "pad-0060"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -4975,10 +5041,12 @@
    24
   ],
   "entries": [
+   "kcm-0067",
    "lcm-0128",
    "mkc-0096"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5006,10 +5074,12 @@
    24
   ],
   "entries": [
+   "kcm-0068",
    "lcm-0129",
    "mkc-0097"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5037,10 +5107,12 @@
    24
   ],
   "entries": [
+   "kcm-0069",
    "lcm-0130",
    "mkc-0098"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5138,10 +5210,12 @@
    24
   ],
   "entries": [
+   "kcm-0070",
    "lcm-0131",
    "mkc-0099"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5203,11 +5277,13 @@
   ],
   "entries": [
    "jcm-0048",
+   "kcm-0072",
    "lcm-0132",
    "mkc-0100"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5235,10 +5311,12 @@
    24
   ],
   "entries": [
+   "kcm-0073",
    "lcm-0133",
    "mkc-0101"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5268,10 +5346,12 @@
    24
   ],
   "entries": [
+   "kcm-0074",
    "lcm-0134",
    "mkc-0102"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5300,10 +5380,12 @@
    24
   ],
   "entries": [
+   "kcm-0075",
    "lcm-0254",
    "mkc-0103"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5332,10 +5414,12 @@
    24
   ],
   "entries": [
+   "kcm-0076",
    "lcm-0135",
    "mkc-0104"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5365,10 +5449,12 @@
    24
   ],
   "entries": [
+   "kcm-0077",
    "lcm-0136",
    "mkc-0105"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5499,10 +5585,12 @@
    24
   ],
   "entries": [
+   "kcm-0078",
    "lcm-0141",
    "mkc-0106"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5530,10 +5618,12 @@
    24
   ],
   "entries": [
+   "kcm-0079",
    "lcm-0142",
    "mkc-0107"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5563,10 +5653,12 @@
    24
   ],
   "entries": [
+   "kcm-0080",
    "lcm-0143",
    "mkc-0108"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5595,10 +5687,12 @@
    24
   ],
   "entries": [
+   "kcm-0081",
    "lcm-0144",
    "mkc-0109"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5662,6 +5756,10 @@
    "ccd-0013",
    "ccd-0014",
    "ccd-0020",
+   "kcm-0044",
+   "kcm-0045",
+   "kcm-0047",
+   "kcm-0082",
    "lcm-0145",
    "mkc-0110",
    "pad-0135",
@@ -5676,6 +5774,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -5771,10 +5870,12 @@
    24
   ],
   "entries": [
+   "kcm-0083",
    "lcm-0146",
    "mkc-0111"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5804,6 +5905,7 @@
   ],
   "entries": [
    "ccd-0026",
+   "kcm-0084",
    "lcm-0147",
    "mkc-0112",
    "mkc-0113",
@@ -5812,6 +5914,7 @@
   "sources": [
    "chaitanya-chandrodaya",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5841,11 +5944,13 @@
    24
   ],
   "entries": [
+   "kcm-0085",
    "lcm-0148",
    "lcm-0255",
    "mkc-0114"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5875,6 +5980,8 @@
   ],
   "entries": [
    "ccd-0023",
+   "kcm-0086",
+   "kcm-0087",
    "lcm-0149",
    "mkc-0115",
    "mkc-0116",
@@ -5882,6 +5989,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5910,10 +6018,12 @@
    24
   ],
   "entries": [
+   "kcm-0088",
    "lcm-0151",
    "mkc-0117"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6006,6 +6116,8 @@
    "ccd-0031",
    "ccd-0032",
    "ccd-0033",
+   "kcm-0093",
+   "kcm-0094",
    "lcm-0153",
    "mkc-0118",
    "mkc-0119",
@@ -6016,6 +6128,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6044,10 +6157,12 @@
    24
   ],
   "entries": [
+   "kcm-0095",
    "lcm-0156",
    "mkc-0122"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6267,10 +6382,12 @@
    24
   ],
   "entries": [
+   "kcm-0096",
    "lcm-0158",
    "mkc-0124"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6299,10 +6416,12 @@
    24
   ],
   "entries": [
+   "kcm-0097",
    "lcm-0159",
    "mkc-0125"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6334,6 +6453,7 @@
   "entries": [
    "gkr-0005",
    "jcm-0052",
+   "kcm-0098",
    "lcm-0160",
    "mkc-0126",
    "gkr-0006",
@@ -6345,6 +6465,7 @@
   "sources": [
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -6478,10 +6599,12 @@
    24
   ],
   "entries": [
+   "kcm-0099",
    "lcm-0170",
    "mkc-0127"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6586,6 +6709,7 @@
   ],
   "entries": [
    "ccd-0036",
+   "kcm-0100",
    "lcm-0173",
    "mkc-0131",
    "pad-0245",
@@ -6598,6 +6722,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -6697,6 +6822,7 @@
    "gkr-0012",
    "jcm-0061",
    "jcm-0063",
+   "kcm-0101",
    "lcm-0175",
    "mkc-0128",
    "pad-0050",
@@ -6726,6 +6852,7 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -6757,6 +6884,7 @@
   "entries": [
    "apr-0080",
    "ccd-0039",
+   "kcm-0102",
    "lcm-0185",
    "mkc-0139",
    "pad-0073",
@@ -6765,6 +6893,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -6846,6 +6975,7 @@
    "pad-0264",
    "pad-0304",
    "pad-0221",
+   "pad-0323",
    "pad-0222",
    "pad-0223",
    "lcm-0188"
@@ -6914,12 +7044,14 @@
    24
   ],
   "entries": [
+   "kcm-0103",
    "lcm-0190",
    "mkc-0144",
    "pad-0118",
    "pad-0276"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -6955,6 +7087,7 @@
    "ccd-0041",
    "gkr-0014",
    "jcm-0066",
+   "kcm-0104",
    "lcm-0191",
    "mkc-0145",
    "pad-0247",
@@ -6971,6 +7104,7 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -7003,6 +7137,7 @@
   "entries": [
    "apr-0084",
    "ccd-0042",
+   "kcm-0105",
    "lcm-0193",
    "mkc-0146",
    "pad-0249",
@@ -7017,6 +7152,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -7205,6 +7341,7 @@
    "apr-0085",
    "ccd-0043",
    "jcm-0067",
+   "kcm-0106",
    "lcm-0197",
    "mkc-0149"
   ],
@@ -7213,6 +7350,7 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7275,11 +7413,13 @@
   ],
   "entries": [
    "ccd-0046",
+   "kcm-0109",
    "lcm-0200",
    "mkc-0151"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7312,12 +7452,14 @@
    "mkc-0152",
    "apr-0086",
    "ccd-0044",
+   "kcm-0107",
    "lcm-0201",
    "mkc-0153"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7415,11 +7557,13 @@
   ],
   "entries": [
    "ccd-0045",
-   "gkr-0023"
+   "gkr-0023",
+   "kcm-0108"
   ],
   "sources": [
    "chaitanya-chandrodaya",
-   "govinda-karcha"
+   "govinda-karcha",
+   "karnapura-ckm"
   ]
  },
  {
@@ -7449,6 +7593,7 @@
   "entries": [
    "gkr-0024",
    "jcm-0069",
+   "kcm-0110",
    "lcm-0204",
    "mkc-0157",
    "mkc-0158",
@@ -7460,6 +7605,7 @@
   "sources": [
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7531,6 +7677,7 @@
    "apr-0088",
    "ccd-0048",
    "ccd-0050",
+   "kcm-0113",
    "lcm-0209",
    "mkc-0163",
    "pad-0027",
@@ -7543,6 +7690,7 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "govinda-karcha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -7574,6 +7722,7 @@
    "apr-0087",
    "ccd-0049",
    "gkr-0026",
+   "kcm-0111",
    "lcm-0210",
    "mkc-0164",
    "gkr-0105"
@@ -7582,6 +7731,7 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "govinda-karcha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7678,6 +7828,9 @@
    "mkc-0167",
    "apr-0089",
    "ccd-0051",
+   "kcm-0114",
+   "kcm-0116",
+   "kcm-0117",
    "lcm-0215",
    "mkc-0168",
    "pad-0052"
@@ -7685,6 +7838,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -7715,6 +7869,7 @@
    26
   ],
   "entries": [
+   "kcm-0118",
    "ccd-0052",
    "gkr-0030",
    "mkc-0169",
@@ -7724,6 +7879,7 @@
   "sources": [
    "chaitanya-chandrodaya",
    "govinda-karcha",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -7783,12 +7939,14 @@
    26
   ],
   "entries": [
+   "kcm-0119",
    "ccd-0053",
    "lcm-0217",
    "mkc-0172"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7818,6 +7976,7 @@
    26
   ],
   "entries": [
+   "kcm-0120",
    "ccd-0054",
    "lcm-0218",
    "mkc-0173",
@@ -7826,6 +7985,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7889,12 +8049,14 @@
    26
   ],
   "entries": [
+   "kcm-0122",
    "apr-0090",
    "ccd-0055",
    "gkr-0032",
    "lcm-0220",
    "mkc-0175",
    "pad-0313",
+   "kcm-0129",
    "jcm-0074"
   ],
   "sources": [
@@ -7902,6 +8064,7 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -8457,6 +8620,7 @@
    26
   ],
   "entries": [
+   "kcm-0121",
    "gkr-0053",
    "gkr-0064",
    "gkr-0066",
@@ -8464,7 +8628,8 @@
    "gkr-0087"
   ],
   "sources": [
-   "govinda-karcha"
+   "govinda-karcha",
+   "karnapura-ckm"
   ]
  },
  {
@@ -8588,12 +8753,14 @@
    24
   ],
   "entries": [
+   "kcm-0123",
    "lcm-0222",
    "mkc-0178",
    "pvl-0133",
    "pvl-0172"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "prema-vilasa"
@@ -8624,11 +8791,13 @@
   ],
   "entries": [
    "gkr-0055",
+   "kcm-0125",
    "lcm-0223",
    "mkc-0179"
   ],
   "sources": [
    "govinda-karcha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -8657,10 +8826,12 @@
    26
   ],
   "entries": [
+   "kcm-0126",
    "lcm-0224",
    "mkc-0180"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -8691,11 +8862,13 @@
   ],
   "entries": [
    "gkr-0056",
+   "kcm-0128",
    "lcm-0225",
    "mkc-0181"
   ],
   "sources": [
    "govinda-karcha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -9466,11 +9639,13 @@
   "entries": [
    "gkr-0027",
    "ccd-0062",
-   "gkr-0102"
+   "gkr-0102",
+   "kcm-0132"
   ],
   "sources": [
    "chaitanya-chandrodaya",
-   "govinda-karcha"
+   "govinda-karcha",
+   "karnapura-ckm"
   ]
  },
  {
@@ -9503,12 +9678,17 @@
    "ccd-0065",
    "ccd-0066",
    "gkr-0103",
+   "kcm-0135",
+   "kcm-0136",
+   "kcm-0137",
+   "kcm-0138",
    "lcm-0228",
    "mkc-0192"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "govinda-karcha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -9663,6 +9843,11 @@
    "apr-0094",
    "ccd-0069",
    "ccd-0070",
+   "kcm-0139",
+   "kcm-0140",
+   "kcm-0142",
+   "kcm-0143",
+   "kcm-0144",
    "mkc-0235",
    "mkc-0236",
    "mkc-0238"
@@ -9670,6 +9855,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -9700,10 +9886,12 @@
   ],
   "entries": [
    "apr-0095",
+   "kcm-0161",
    "mkc-0237"
   ],
   "sources": [
    "advaita-prakasha",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -9793,12 +9981,17 @@
    28
   ],
   "entries": [
+   "kcm-0130",
+   "kcm-0145",
+   "kcm-0146",
+   "kcm-0148",
    "mkc-0241",
    "ccd-0093",
    "ccd-0094"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -9827,10 +10020,12 @@
    28
   ],
   "entries": [
+   "kcm-0147",
    "ccd-0095"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "karnapura-ckm"
   ]
  },
  {
@@ -9890,6 +10085,17 @@
   ],
   "entries": [
    "ccd-0071",
+   "kcm-0149",
+   "kcm-0150",
+   "kcm-0151",
+   "kcm-0152",
+   "kcm-0153",
+   "kcm-0154",
+   "kcm-0155",
+   "kcm-0157",
+   "kcm-0158",
+   "kcm-0159",
+   "kcm-0160",
    "mkc-0242",
    "pad-0305",
    "pad-0306",
@@ -9902,6 +10108,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "murari-kcc",
    "padas"
   ]
@@ -10102,6 +10309,7 @@
    "pad-0204",
    "pad-0137",
    "pad-0310",
+   "pad-0327",
    "mkc-0251"
   ],
   "sources": [
@@ -10263,6 +10471,7 @@
    "gkr-0104",
    "jcm-0070",
    "jcm-0075",
+   "kcm-0133",
    "lcm-0248",
    "mkc-0233",
    "mkc-0234"
@@ -10272,6 +10481,7 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -10303,11 +10513,17 @@
    "apr-0096",
    "ccd-0076",
    "ccd-0077",
+   "kcm-0166",
+   "kcm-0168",
+   "kcm-0169",
+   "kcm-0170",
+   "kcm-0171",
    "mkc-0184"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -10335,12 +10551,14 @@
    30
   ],
   "entries": [
+   "kcm-0175",
    "lcm-0227",
    "mkc-0185",
    "pvl-0049",
    "mkc-0189"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "prema-vilasa"
@@ -10403,10 +10621,12 @@
   ],
   "entries": [
    "jcm-0085",
+   "kcm-0174",
    "mkc-0186"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -10534,10 +10754,12 @@
   "entries": [
    "apr-0097",
    "apr-0099",
+   "kcm-0173",
    "mkc-0190"
   ],
   "sources": [
    "advaita-prakasha",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -10628,11 +10850,13 @@
   "entries": [
    "apr-0101",
    "ccd-0082",
+   "kcm-0176",
    "mkc-0193"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -12092,6 +12316,9 @@
    "pad-0138",
    "pad-0037",
    "pad-0274",
+   "pad-0324",
+   "pad-0325",
+   "pad-0326",
    "pad-0038",
    "pad-0039",
    "pad-0040",
@@ -12319,10 +12546,12 @@
    30
   ],
   "entries": [
-   "ccd-0079"
+   "ccd-0079",
+   "kcm-0172"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "karnapura-ckm"
   ]
  },
  {
@@ -12536,11 +12765,13 @@
    "apr-0119",
    "ccd-0073",
    "ccd-0092",
+   "kcm-0165",
    "apr-0132"
   ],
   "sources": [
    "advaita-prakasha",
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "karnapura-ckm"
   ]
  },
  {
@@ -12721,10 +12952,12 @@
    47
   ],
   "entries": [
+   "kcm-0141",
    "ccd-0091"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "karnapura-ckm"
   ]
  },
  {
@@ -12786,12 +13019,14 @@
    "apr-0145",
    "jcm-0099",
    "jcm-0100",
+   "kcm-0177",
    "lcm-0250",
    "apr-0146"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm"
   ]
  },
@@ -15984,6 +16219,7 @@
   ],
   "entries": [
    "pad-0005",
+   "pad-0320",
    "pad-0006",
    "pad-0188",
    "pad-0189",
@@ -16090,6 +16326,7 @@
   "entries": [
    "pad-0011",
    "pad-0012",
+   "pad-0318",
    "pad-0066",
    "pad-0114",
    "pad-0299",
@@ -16942,6 +17179,338 @@
   ],
   "entries": [
    "kcm-0003"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-shrivasa-narrates-vrindavana-lila",
+  "title": "Шриваса рассказывает Господу о Его играх во Вриндаване",
+  "title_en": "Shrivasa narrates to the Lord His pastimes in Vrindavana",
+  "period": "P07",
+  "order": 133.1,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila"
+  ],
+  "notes": "Известно лишь Махакавье (8.58–10.80): после просьбы о флейте Господь, погружённый в блаженство, твердит «Говори!», и Шриваса пространно описывает игры Кришны с гопи — прогулку в лесу, купание в Ямуне, ночь в самоцветном чертоге.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "kcm-0089",
+   "kcm-0090",
+   "kcm-0091",
+   "kcm-0092"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-sarvabhauma-verse-lord-returns",
+  "title": "Имя «Кришна» в стихе Сарвабхаумы: Господь возвращается в Пури",
+  "title_en": "The name «Krishna» in Sarvabhauma's verse: the Lord returns to Puri",
+  "period": "P10",
+  "order": 32,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "mercy"
+  ],
+  "notes": "Известно лишь Махакавье (12.35–58): уходя на юг, Господь берёт у Гопинатхи рукопись, видит в стихе Сарвабхаумы слово «Кришна», падает в экстазе, а наутро, считая, что оскорбил Сарвабхауму, возвращается в Кшетру, чтобы служить ему.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "kcm-0115"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-maya-sita-kurma-purana",
+  "title": "Брахман-почитатель Рамы и призрачная Сита («Курма-пурана»)",
+  "title_en": "The devotee of Rama and the illusory Sita (Kurma Purana)",
+  "period": "P11",
+  "order": 75,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "pilgrimage"
+  ],
+  "notes": "ЧЧ Мадхья 9.179–215: брахман Рамадаса в Южной Матхуре скорбит, что ракшас коснулся Ситы; Господь приносит ему из Рамешварама листы «Курма-пураны» о призрачной Сите. Махакавья 13.9–13.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "kcm-0124"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-krishnadasa-bhattathari",
+  "title": "Слуга Кришнадас и бхаттатхари",
+  "title_en": "The servant Krishnadasa and the Bhattatharis",
+  "period": "P11",
+  "order": 82.5,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "ЧЧ Мадхья 9.226–231: бхаттатхари соблазняют слугу Господа Калу Кришнадаса, и Господь силой вызволяет его. Махакавья 13.20–30.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "kcm-0127"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-second-chaturmasya-ramananda",
+  "title": "Вторая чатурмасья с Раманандой на Годавари",
+  "title_en": "A second chaturmasya with Ramananda on the Godavari",
+  "period": "P12",
+  "order": 62,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "pilgrimage"
+  ],
+  "notes": "Известно лишь Махакавье (13.60–61): после анавасары Господь снова идёт на Годавари, четыре месяца проводит с Раманандой и в предзимье возвращается с ним в Пури. В ЧЧ (Мадхья 11) Рамананда сам приезжает в Пури.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "kcm-0131"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-shikhi-mahiti-dream",
+  "title": "Сон Шикхи Махити",
+  "title_en": "Shikhi Mahiti's dream",
+  "period": "P12",
+  "order": 7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "jagannatha"
+  ],
+  "notes": "Известно лишь Махакавье (13.89–109): писец храма Шикхи Махити видит во сне Гаурахари, входящего в Джаганнатху и выходящего из Него, затем встречает Господа в Джаганмохане и получает Его объятие; с ним брат Мурари Махити и сестра Мадхави-деви.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "kcm-0134"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-rupa-sanatana-anupama-ratha-garden",
+  "title": "Рупа, Санатана и Анупама у Господа в саду во время Ратха-ятры",
+  "title_en": "Rupa, Sanatana and Anupama with the Lord in the garden during Ratha-yatra",
+  "period": "P14",
+  "order": 11,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "prasada"
+  ],
+  "notes": "Известно лишь Махакавье (17.8–24): три брата вместе приходят в сад, где Господь отдыхает во время Ратха-ятры, славят Его гимнами Брахмы и словами гопи, с травинками в зубах; Господь отсылает их к Джаганнатхе, читает стих na me ’bhaktaś catur-vedī, кланяется им и раздаёт махапрасад. По ЧЧ (Антья 1, 4) братья приходили в Пури порознь, а Анупама умер в Бенгалии.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "kcm-0156"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-lord-daily-routine-puri",
+  "title": "Распорядок дня Господа в Пури",
+  "title_en": "The Lord's daily routine in Puri",
+  "period": "P14",
+  "order": 3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "kirtan"
+  ],
+  "notes": "Махакавья 18.17–45: Господь встаёт в последнюю стражу ночи, омывается, надевает алую одежду и с Говиндой и Сварупой созерцает Джаганнатху от первой службы до дхупы; затем принимает преданных и посетителей по докладу Говинды, совершает полуденные обряды и трапезу.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "kcm-0162"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-gopa-vesha-dadhi-utsava",
+  "title": "Господь в облике пастуха: горшки с молоком и вращение посоха",
+  "title_en": "The Lord as a cowherd: pots of milk and the twirling staff",
+  "period": "P12",
+  "order": 72,
+  "cc": "Мадхья 15",
+  "cb": "",
+  "themes": [
+   "festival",
+   "krishna-lila"
+  ],
+  "notes": "ЧЧ Мадхья 15.17–25: на Нанда-махотсаве Господь несёт на плечах горшки с молоком и йогуртом и искусно крутит посох; Махакавья 18.48–50 относит это к празднику Макары.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "kcm-0163"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-dola-yatra-puri",
+  "title": "Дола-ятра в Пури: Господь пляшет у качелей Говинды",
+  "title_en": "Dola-yatra in Puri: the Lord dances before Govinda's swing",
+  "period": "P14",
+  "order": 4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "notes": "Махакавья 18.52–59: на празднике качелей Господь, расписанный цветными порошками, пляшет перед качелями праздничного Божества Говинды.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "kcm-0164"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
+  "id": "ev-damodara-late-gita-pustika",
+  "title": "Дамодара опаздывает к утренней службе: «наказание» книжкой",
+  "title_en": "Damodara late for the morning service: the «punishment» with a song-book",
+  "period": "P13",
+  "order": 2.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "jagannatha"
+  ],
+  "notes": "Известно лишь Махакавье (19.13–19): накануне ухода в Матхуру Господь зовёт Дамодару Пандита петь с Ним по пути к первой службе Джаганнатхи; тот опаздывает, и Господь, «Океан любви», в любовном гневе бьёт его книжкой песен.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "kcm-0167"
   ],
   "sources": [
    "karnapura-ckm"

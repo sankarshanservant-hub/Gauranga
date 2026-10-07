@@ -6355,3 +6355,297 @@
   event: ev-ramananda-raya-godavari
   verses:
     - {file: "padas/ru/14.md", from: "28.1", to: "28.4"}
+
+- id: pad-0314
+  source: padas
+  ref: "Кришнадас, ГПТ1 с. 14 (№ 35) «আরে রে নিন্দুক ভাই»"
+  file: "padas/ru/15.md"
+  period: PX
+  order: 8.26
+  title: "Обличение хулителя: Гауранга — суть всех аватар"
+  summary: "Поэт обличает хулителя: когда Бхарату охватили пьянство и поклонение якшам и Вишахари, Шри Чайтанья явился в Навадвипе, раздал всем имя Хари, спас Джагая и Мадхая, соединил брахманов с яванами."
+  persons: ["@krishnadasa-poet", "@mahaprabhu", "@jagai-madhai"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: D
+  parallels: "ЧБ Ади 2; ЧБ Мадхья 13; ЧЧ Ади 17"
+  notes: "Только ГПТ (новая строка каталога КР-022); язык поздний (XVIII–XIX вв.)."
+  themes: [author, mercy]
+  teaching: [holy-name, yuga-dharma]
+  verses:
+    - {file: "padas/ru/15.md", from: "1.1", to: "1.5"}
+
+- id: pad-0315
+  source: padas
+  ref: "Кришнадас, ГПТ1 с. 14–15 (№ 36) «শান্তিপুরের বুড়ামালী»"
+  file: "padas/ru/15.md"
+  period: PX
+  order: 8.27
+  title: "Иносказание: Адвайта приносит росток, садовник Нитай раздаёт плоды древа Чайтаньи"
+  summary: "Старый садовник из Шантипура приносит росток из Вайкунтхи, Нитай сажает в Надии древо Чайтаньи; его плоды — Имя и прему — Нитай раздаёт всем, вплоть до чандалов и яванов; поэт сокрушается о своей судьбе."
+  persons: ["@krishnadasa-poet", "@advaita", "@nityananda", "@mahaprabhu"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 9 (древо бхакти)"
+  notes: "Только ГПТ (новая строка каталога КР-023); иносказание отличается от ЧЧ Ади 9 (там садовник — Сам Господь)."
+  themes: [author, mercy]
+  teaching: [holy-name, prema]
+  verses:
+    - {file: "padas/ru/15.md", from: "2.1", to: "2.6"}
+
+- id: pad-0316
+  source: padas
+  ref: "Кану Дас, ГПТ1 с. 448 (№ 32) «একদিন কমলাক্ষ কন হরিদাসে»"
+  file: "padas/ru/15.md"
+  period: P01
+  order: 4.5
+  title: "Адвайта сетует Харидасу, что Господь всё ещё не явился"
+  summary: "Адвайта (Камалакша) говорит Харидасу: много лет прошло, а Владыка Вайкунтхи, обещавший сойти ради страдающих живых существ, всё не является; поэт: Господь не говорит неправды — Он непременно явится."
+  persons: ["@kanu-thakura", "@advaita", "@haridasa-thakura"]
+  places: ["#shantipura"]
+  kind: pre-advent
+  authority: D
+  parallels: "ЧЧ Ади 3; ЧБ Ади 2"
+  notes: "Только ГПТ (новая строка каталога КД-012); язык поздний."
+  themes: [celestial]
+  divergence: "Обещание, данное Адвайте Владыкой Вайкунтхи, в ЧЧ и ЧБ не описано (ЧЧ Ади 3 — решение Адвайты призвать Кришну)."
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "padas/ru/15.md", from: "3.1", to: "3.6"}
+
+- id: pad-0317
+  source: padas
+  ref: "Кану Дас, ГПТ1 с. 449 (№ 33) «চৌদ্দশত সাত শাকে»"
+  file: "padas/ru/15.md"
+  period: P01
+  order: 70.4
+  title: "В час явления Господа Адвайта с кликом «Привёл Гауру!» пляшет перед Харидасом"
+  summary: "В полнолуние пхалгуны 1407 г. Шаки, во время затмения, Адвайта подносит Ганге туласи, вдруг вскакивает и пляшет, восклицая «Привёл Гауру в Надию!»; Харидас понимает, что родился Гауранга."
+  persons: ["@kanu-thakura", "@advaita", "@haridasa-thakura", "@mahaprabhu"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Ади 13; ЧЧ Ади 3"
+  notes: "Только ГПТ (новая строка каталога КД-013); язык поздний."
+  themes: [ecstasy, celestial]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  date_basis: "Сама пада: 1407 г. Шаки, полнолуние пхалгуны, затмение (как ЧЧ Ади 13)"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "padas/ru/15.md", from: "4.1", to: "4.5"}
+
+- id: pad-0318
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 330 (№ 29) «অভিরাম ডাকে দ্বারেতে»"
+  file: "padas/ru/15.md"
+  period: P07
+  order: 134.72
+  title: "Абхирама зовёт Гауру на пастбище"
+  summary: "Абхирама у дверей зовёт Гауру играть: игра Враджа — выпас коров, игра Надии — санкиртана; Гаура в обиде сидит на коленях у Шачи; наконец Горачанд идёт на пастбище, Васу несёт зонт."
+  persons: ["@vasu-ghosha", "@abhirama", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "порция 01, п. 11–12; порция 14, п. 14–15"
+  notes: "Только ГПТ (ВГ-174; в каталоге — «без подписи», ВВ-007); подпись — Васу как участник; язык разговорный, поздний."
+  themes: [krishna-lila, pranks]
+  bhava: [sakha]
+  event: ev-goshtha-lila-navadvipa
+  verses:
+    - {file: "padas/ru/15.md", from: "5.1", to: "5.4"}
+
+- id: pad-0319
+  source: padas
+  ref: "Йадунандана, ПК 2099 = ГПТ1 с. 138 (№ 80) «গৌরাঙ্গ-সুন্দর নট-পুরন্দর»"
+  file: "padas/ru/15.md"
+  period: P07
+  order: 80.61
+  title: "Танец Гауранги, явленного тела премы"
+  summary: "Гауранга, владыка плясунов, словно новая туча или золотой Мадана из нектара, пляшет — океан блаженства; поэт жаждет Его алых стоп."
+  persons: ["@yadunandana-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Новая строка каталога ЙН-014; Йадунандана Чакраварти или поздний Йадунандана Дас — не установлено."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/15.md", from: "6.1", to: "6.3"}
+
+- id: pad-0320
+  source: padas
+  ref: "Наянананда (?), ПК 2083 (без подписи) = ГПТ1 с. 284 (№ 23) «নাচে রে ভালি গৌরকিশোর বর-রঙ্গিয়া»"
+  file: "padas/ru/15.md"
+  period: P07
+  order: 134.15
+  title: "Танец Гауры в бхаве Радхи; Гададхара встаёт по левую руку"
+  summary: "Гаура пляшет, вспоминая Вриндаван, Говардхан и Ямуну, зовёт флейту; в бхаве Радхи принимает Её цвет и повторяет «Радха, Радха!»; Гададхара, поняв намёк, встаёт слева."
+  persons: ["@nayanananda-mishra", "@mahaprabhu", "@gadadhara-pandita", "@radha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 4"
+  notes: "Новая строка каталога НН-031; в ПК без подписи, подпись Наянананды только в ГПТ."
+  themes: [ecstasy, krishna-lila]
+  bhava: [krishna, radha]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/15.md", from: "7.1", to: "7.3"}
+
+- id: pad-0321
+  source: padas
+  ref: "Йаду, ПК 2101 = БР с. 925–926 = ГПТ1 с. 257 (№ 30) «গোরা মোর বড়ই রঙ্গিয়া»"
+  file: "padas/ru/15.md"
+  period: P07
+  order: 80.62
+  title: "Киртан на берегу Ганги: Гаура пляшет среди спутников"
+  summary: "На берегу Ганги Гаура пляшет посреди спутников: Гададхара и Нарахари по сторонам, поют Шриваса, Харидас, Мукунда, Мурари, Васу, Рамаи, Дамодара, Джагадиша; вздымается океан премы."
+  persons: ["@yadunandana-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara", "@srivasa", "@haridasa-thakura", "@mukunda-datta", "@murari-gupta", "@damodara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Мадхья 8; ЧЧ Ади 17"
+  notes: "Новая строка каталога ЙД-017; подпись «যদু» — вероятно, Йадунандана Чакраварти (в БР рядом его пады)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/15.md", from: "8.1", to: "8.6"}
+
+- id: pad-0322
+  source: padas
+  ref: "Рамананда, ГПТ1 с. 335 (№ 45) «দ্রাং দ্রিমিকি দ্রিমি মাদল বাজত»"
+  file: "padas/ru/15.md"
+  period: P07
+  order: 80.63
+  title: "Танец Господа под мадалу: Шриваса поёт, с Ним Нитьянанда и Адвайта"
+  summary: "Гремит мадала, Шриваса и спутники поют; Господь в алых одеждах сияет, как утреннее солнце, дрожит, восклицает «Хари!», лелея прежнюю прему; с Ним Нитьянанда и Адвайта."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@srivasa", "@nityananda", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Мадхья 8"
+  notes: "Только ГПТ (новая строка каталога РМ-017); подпись «Рамананда» без «Васу»; в ГПТ — раздел «раса и махараса»."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/15.md", from: "9.1", to: "9.4"}
+
+- id: pad-0323
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 372 (№ 21) «পড়িয়া ধরণীতলে শোকে শচী»"
+  file: "padas/ru/15.md"
+  period: P09
+  order: 30.6
+  title: "Плач Шачи: «Стану йогини и пойду искать Гаурангу»"
+  summary: "Шачи, упав на землю, сетует на рок, похитивший Горачанда; украшения и ложе Его брошены, Надия во тьме; она готова стать йогини и продаться в служанки тому, кто вернёт ей сына; поэт: Нимай стал санньяси ради живых существ."
+  persons: ["@vasu-ghosha", "@shachi", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1"
+  notes: "Только ГПТ (новая строка каталога ВГ-175); в цикле Васу ПК 2221–2229 нет."
+  themes: [separation, family, sannyasa]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "padas/ru/15.md", from: "10.1", to: "10.4"}
+
+- id: pad-0324
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 290 (№ 42) «স্বরূপের মুখে শুনি মানলীলা»"
+  file: "padas/ru/15.md"
+  period: P14
+  order: 100.61
+  title: "Услышав от Сварупы о мана-лиле, Господь пляшет с возгласом «Радха-кунда!»"
+  summary: "Услышав от Сварупы о мана-лиле, Господь в бхаве Радхи пляшет, восклицая «Радха-кунда!», медленно идёт к «Ямуне» и сидит у воды, склонив лицо."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@svarupa-damodara", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 10; Антья 14–19"
+  notes: "Только ГПТ (новая строка каталога ВГ-176); Маджумдар сомневается в падах ГПТ о Сварупе под именем Васу."
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/15.md", from: "11.1", to: "11.4"}
+
+- id: pad-0325
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 306 (№ 24) «স্বরূপের কাছে গৌরহরি»"
+  file: "padas/ru/15.md"
+  period: P14
+  order: 100.62
+  title: "Господь в бхаве обманутой в ожидании Радхи плачет перед Сварупой"
+  summary: "Плача перед Сварупой, Господь говорит словами Радхи: напрасно расставлены силки любви — Кала-чанд не пришёл в кунджу, ночь прошла впустую; и катается по земле."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@svarupa-damodara", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–19"
+  notes: "Только ГПТ (новая строка каталога ВГ-177); продолжение — порция 12, п. 28."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/15.md", from: "12.1", to: "12.5"}
+
+- id: pad-0326
+  source: padas
+  ref: "Чайтаньядас, ПК 1867 = ГПТ1 с. 281 (№ 12) «কি বলিব বিধাতারে এ দুখ সহায়»"
+  file: "padas/ru/15.md"
+  period: P14
+  order: 100.63
+  title: "Божественное безумие: Господь трёт лицо, падает без чувств, дыхание замирает"
+  summary: "Господь сидит с поблёкшим лицом, слёзы льются, как небесная Ганга на Сумеру; то трёт лицо и голову, то вскакивает и бежит, то падает без чувств; дыхание замирает, все плачут."
+  persons: ["@chaitanya-dasa-poet", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 14, 17, 19"
+  notes: "Новая строка каталога ЧД-008; в ПК — гаура-чандрика к десяти состояниям дивьонмады Радхи."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_basis: "Маджумдар: Чайтаньядас — вероятно, современник (ветвь Гададхара)"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/15.md", from: "13.1", to: "13.4"}
+
+- id: pad-0327
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 424 (№ 32) «নিতাই আমার পরম দয়াল»"
+  file: "padas/ru/15.md"
+  period: P12
+  order: 110.6
+  title: "Половодье премы Нитьянанды затопляет Надию и Шантипур"
+  summary: "Нитай приносит половодье премы: волна уносит грешных и страждущих, преданные резвятся в ней, Надия и Шантипур затонули и затеяли гонки на лодках; Нитай смеётся, поэт барахтается."
+  persons: ["@vasu-ghosha", "@nityananda"]
+  places: ["#navadvipa", "#shantipura", "#gauda"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Ади 7; ЧБ Антья 5–6"
+  notes: "Только ГПТ (новая строка каталога ВГ-178); язык разговорный, поздний."
+  themes: [mercy, ecstasy]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "padas/ru/15.md", from: "14.1", to: "14.3"}
+
+- id: pad-0328
+  source: padas
+  ref: "Кану Дас, ГПТ1 с. 431–432 (№ 59) «আওত নিত্যানন্দ অদভুত চাঁদ»"
+  file: "padas/ru/15.md"
+  period: PX
+  order: 8.28
+  title: "Хвала Нитьянанде: луна, рассеивающая тьму именем «Харе Кришна»"
+  summary: "Грядёт Нитьянанда — дивная луна с поступью танцора; нектаром слов окропляет опалённых мирским бытием, лучами имени «Харе Кришна» рассеивает тьму дурных желаний; поэт уповает на стопы супруга Джахнавы."
+  persons: ["@kanu-thakura", "@nityananda", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧБ Мадхья 13"
+  notes: "Только ГПТ (КД-011)."
+  themes: [author, mercy]
+  teaching: [holy-name]
+  verses:
+    - {file: "padas/ru/15.md", from: "15.1", to: "15.4"}
