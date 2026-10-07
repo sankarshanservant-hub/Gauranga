@@ -1309,7 +1309,8 @@
   "entries": [
    "apr-0072",
    "pvl-0039",
-   "pad-0126"
+   "pad-0126",
+   "pad-0522"
   ],
   "sources": [
    "advaita-prakasha",
@@ -5037,6 +5038,7 @@
    "kcm-0065",
    "lcm-0124",
    "mkc-0091",
+   "pad-0523",
    "mkc-0092",
    "mkc-0093",
    "lcm-0125"
@@ -5046,7 +5048,8 @@
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -10385,11 +10388,15 @@
   ],
   "entries": [
    "mkc-0246",
-   "nvv-0004"
+   "nvv-0004",
+   "pad-0528",
+   "pad-0529",
+   "pad-0530"
   ],
   "sources": [
    "murari-kcc",
-   "nityananda-vamsha"
+   "nityananda-vamsha",
+   "padas"
   ]
  },
  {
@@ -10416,14 +10423,20 @@
    28
   ],
   "entries": [
+   "pad-0525",
    "jcm-0093",
    "mkc-0247",
    "pad-0051",
    "pad-0175",
+   "pad-0533",
    "pad-0097",
    "pad-0204",
+   "pad-0534",
+   "pad-0535",
+   "pad-0536",
    "pad-0137",
    "pad-0310",
+   "pad-0537",
    "pad-0327",
    "mkc-0251"
   ],
@@ -13264,6 +13277,8 @@
   ],
   "entries": [
    "pad-0309",
+   "pad-0531",
+   "pad-0532",
    "apr-0136",
    "jcm-0102",
    "nvv-0005",
@@ -16190,11 +16205,14 @@
    "nvv-0033",
    "nvv-0043",
    "nvv-0045",
-   "nvv-0047"
+   "nvv-0047",
+   "pad-0526",
+   "pad-0527"
   ],
   "sources": [
    "lochana-cm",
-   "nityananda-vamsha"
+   "nityananda-vamsha",
+   "padas"
   ]
  },
  {
@@ -17156,6 +17174,9 @@
    "pad-0493",
    "pad-0494",
    "pad-0495",
+   "pad-0538",
+   "pad-0539",
+   "pad-0540",
    "pad-0237",
    "pad-0275"
   ],
@@ -17807,7 +17828,17 @@
   "entries": [
    "pad-0490",
    "pad-0505",
-   "pad-0506"
+   "pad-0506",
+   "pad-0512",
+   "pad-0513",
+   "pad-0514",
+   "pad-0515",
+   "pad-0516",
+   "pad-0517",
+   "pad-0518",
+   "pad-0519",
+   "pad-0520",
+   "pad-0521"
   ],
   "sources": [
    "padas"
@@ -17872,6 +17903,39 @@
   ],
   "entries": [
    "pad-0504"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nityananda-balarama-rasa-navadvipa",
+  "title": "Нитьянанда вспоминает расу Баларамы у Ганги; Господь в экстазе",
+  "title_en": "Nityananda remembers Balarama's rasa by the Ganga; the Lord in ecstasy",
+  "period": "P07",
+  "order": 134.885,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада ГПТ 5.1 № 44 и БР 12; навадвипский период",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "balarama"
+  ],
+  "notes": "Весенней лунной ночью у Ганги Нитьянанда, Сам Баларама, вспоминает Свою прежнюю раса-лилу (Бхаг. 10.65) и трепещет; видя это, Гаурасундара приходит в экстаз, спутники поют о расе Баларамы, боги и люди пляшут. БР 12 (изд. 1960, ст. 3350–3354; пада с подписью Нарахари, ГПТ 5.1 № 44).",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0524"
   ],
   "sources": [
    "padas"
