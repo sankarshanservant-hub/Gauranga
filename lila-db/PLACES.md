@@ -45,3 +45,6 @@
 | #ranga-kshetra | Ранга-кшетра (Шрирангам) | Ranga-kshetra (Shrirangam) | на Кавери; Ранганатха |
 | #setubandha | Сетубандха (Рамешварам) | Setubandha (Rameshvaram) | мост Рамы; линга Рамешвары |
 | #alalanatha | Алаланатха (Брахмагири) | Alalanatha (Brahmagiri) | к югу от Пури |
+| #kanai-natashala | Натшала Канаи (Канаи-Натшала) | Kanai-Natyashala (Kanair Natashala) | селение на пути из Бенгалии к Матхуре (у Раджмахала); отсюда Господь повернул назад |
+| #jharikhanda | Джхарикханда (лесной край) | Jharikhanda (the forest country) | лесная область между Ориссой и Каши; путь Господа во Вриндаван |
+| #gokula | Гокула (Махавана) | Gokula (Mahavana) | на восточном берегу Ямуны напротив Матхуры |

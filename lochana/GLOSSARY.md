@@ -262,3 +262,33 @@
 | খন্দ, শসা, মায়াম্বু | урожай, «шаса», маямбу | crop, "shasa", mayambu |
 | সাধু, সওদাগর, ডিঙ্গা | купец, лодка | merchant, boat |
 | জীয়ড় (সাধু) | Джияда (купец) | Jiyada (a merchant) |
+| বিদ্যানগর (изд. 1983 г.), কাঞ্চীনগর | Видьянагара, Канчи-нагара | Vidyanagara, Kanchi-nagara |
+| রাজপুত্র (о Рамананде) | царевич (раджапутра) | prince (rajaputra) |
+| কানড়া-কুসুম | цветок канада | kanada flower |
+| ত্রিমল্ল ভট্ট (ভট্টাচার্য, ভট্টরায়) | Трималла Бхатта (Бхаттачарья, Бхатта Рай) | Trimalla Bhatta (Bhattacharya, Bhatta Raya) |
+| ঝুলনা, কৃষ্ণ-জন্মযাত্রা | праздник качелей, праздник рождения Кришны | the swing festival, the festival of Krishna's birth |
+| পরমানন্দপুরী, মাধবেন্দ্রপুরী | Парамананда Пури, Мадхавендра Пури | Paramananda Puri, Madhavendra Puri |
+| সপ্ততাল | семь пальм (саптатала) | the seven palms (saptatala) |
+| রামেশ্বর লিঙ্গ, অঙ্গদ, সুগ্রীব, বিভীষণ | линга Рамешвары, Ангада, Сугрива, Вибхишана | the linga of Rameshvara, Angada, Sugriva, Vibhishana |
+| আলালনাথ, বিষ্ণুদাস উড়িয়া | Алаланатха, ория Вишнудас | Alalanatha, Vishnudasa the Oriya |
+| নৃসিংহানন্দ | Нрисимхананда | Nrisimhananda |
+| কানাইর নাটশালা | Натшала Канаи | Kanai's Natashala |
+| জাঙ্গাল, আলি | дорога-насыпь (джангал), насыпь | raised road (jangala), embankment |
+| ঝারিখণ্ড | Джхарикханда | Jharikhanda |
+| বেণী, অক্ষয়বট, রেণুকা, রাজগ্রাম | Вени, Акшая-ват, Ренука, Раджаграма | the Veni, the Akshaya-vata, Renuka, Rajagrama |
+| অক্রূর | Акрура | Akrura |
+| কৃষ্ণদাস (দ্বিজ, মথুরা) | Кришнадас (брахман Матхуры) | Krishnadasa (a brahmana of Mathura) |
+| কুমুদ, খদির, তাল, কাম্যক, বহুলা, মহাবন, বিল্ব, লোহ, ভাণ্ডীর (বন) | Кумуда, Кхадира-вана, Тала-вана, Камьяка-вана, Бахула, Махавана, Билва, Лоха, Бхандира | Kumuda, Khadira-vana, Tala-vana, Kamyaka-vana, Bahula, Mahavana, Bilva, Loha, Bhandira |
+| মানসগঙ্গা, কালীদহ | Манаса-Ганга, Калия-даха | the Manasa-Ganga, the Kaliya-daha |
+| যোজন, আউট | йоджана, три с половиной (аут) | yojana, three and a half (aut) |
+| মূত্রস্থান | «место, где помочился» (мутра-стхана) | the "place where He passed water" (mutra-sthana) |
+| রজক, মালাকার, কুবুজী, রঙ্গস্থান (রঙ্গভূমি) | прачка, цветочник, Кубджа, арена | the washerman, the garland-maker, Kubja, the arena |
+| বিশ্রান্তিঘাট, গতশ্রম, কংসখালি, প্রয়াগঘাট, তিন্দুক, সপ্ততীর্থ, ঋষিতীর্থ, মোক্ষতীর্থ, কোটিতীর্থ, বোধিতীর্থ, গণেশতীর্থ | Вишранти-гхат, Гаташрама, Камса-кхали, Праяга-гхат, Тиндука, Саптатиртха, Ришитиртха, Мокшатиртха, Котитиртха, Бодхитиртха, Ганешатиртха | the Vishranti-ghata, Gatashrama, Kamsa-khali, the Prayaga-ghata, Tinduka, Saptatirtha, Rishitirtha, Mokshatirtha, Kotitirtha, Bodhitirtha, Ganeshatirtha |
+| কংসকূপ, অগস্ত্যকুণ্ড, সেতুবন্ধ-সরোবর | Камса-купа, Агастья-кунда, озеро Сетубандха | the Kamsa-kupa, the Agastya-kunda, the Setubandha lake |
+| সপ্তসমুদ্রক-কুণ্ড, ভূতেশ্বর, সরস্বতী-কুণ্ড, দশাশ্বমেধ, সোমতীর্থ, কণ্ঠাভরণ-মজ্জন, নাগতীর্থ, সংযমন | Саптасамудрака-кунда, Бхутешвара, Сарасвати-кунда, Дашашвамедха, Сома-тиртха, Кантхабхарана-маджджана, Нага-тиртха, Самьямана | the Saptasamudraka-kunda, Bhuteshvara, the Sarasvati-kunda, Dashashvamedha, the Soma-tirtha, Kanthabharana-majjana, the Naga-tirtha, Samyamana |
+| গোপেশ্বর, আয়ান, উপনন্দ, সুন্দর গোপ, দুর্বাসা | Гопешвара, Аяна, Упананда, пастух Сундара, Дурваса | Gopeshvara, Ayana, Upananda, the cowherd Sundara, Durvasa |
+| বিল্ববন, ভদ্রবন | Билвавана, Бхадра(-вана) | Bilvavana, Bhadra(-vana) |
+| বৎসক (বৎসাসুর), বকাসুর, অঘাসুর, ধেনুক, কালীয়, প্রলম্ব | Ватсасура, Бакасура, Агхасура, Дхенука, Калия, Праламба | Vatsasura, Bakasura, Aghasura, Dhenuka, Kaliya, Pralamba |
+| দ্বাদশ-আদিত্য-ঘাট, কালীয়দমন | гхат Двенадцати Адитьев, Калия-дамана | the ghata of the Twelve Adityas, Kaliya-damana |
+| পাঁচনী, ঈষীকা-মুঞ্জাটবী | пастуший посох (панчани), заросли тростника ишика и мунджа | cowherd's stick (panchani), thickets of ishika and munja reeds |
+| কালী, ধবলী (коровы) | Кали, Дхавали | Kali, Dhavali |

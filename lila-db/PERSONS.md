@@ -76,6 +76,9 @@
 | @jiyada-sadhu | Джияда (купец) | Jiyada (a merchant) | в предании о Джияда-Нрисимхе |
 | @trimalla-bhatta | Трималла Бхатта | Trimalla Bhatta | брахман из Шрирангама; у Господа в чатурмасью |
 | @paramananda-puri | Парамананда Пури | Paramananda Puri | ученик Мадхавендры Пури |
+| @nrisimhananda | Нрисимхананда (Брахмачари) | Nrisimhananda (Brahmachari) | Прадьюмна Брахмачари; в уме мостил Господу дорогу до Матхуры (у Лочана Даса — санньяси) |
+| @vishnudasa | Вишнудас (ория) | Vishnudasa (an Oriya) | преданный у Алаланатхи (Мурари 3.16.12 — брахман) |
+| @krishnadasa-mathura | Кришнадас (брахман Матхуры) | Krishnadasa (a brahmana of Mathura) | показал Господу Матхура-мандалу (Мурари 4.02–4.06) |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
