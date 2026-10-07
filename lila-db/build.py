@@ -35,7 +35,52 @@ THEMES = section_codes('THEMES.md', 'Темы')
 BHAVAS = section_codes('THEMES.md', 'Бхава')
 TEACHINGS = section_codes('THEMES.md', 'Темы учения')
 CONF = {'точно', 'вероятно', 'оценка', ''}
-LISTS = ('persons', 'places', 'themes', 'bhava', 'teaching', 'scriptures')
+WARN = []
+LISTS = ('persons', 'places', 'themes', 'bhava', 'teaching', 'scriptures', 'verses')
+ROOT = os.path.dirname(HERE)
+REPO_URL = 'https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/'
+_labels = {}
+
+
+def labels(path):
+    """[(метка стиха, номер строки)] в файле перевода: строки вида **N.**"""
+    if path not in _labels:
+        f = os.path.join(ROOT, path)
+        _labels[path] = [(m.group(1), i + 1) for i, l in enumerate(open(f, encoding='utf-8')) if (m := re.match(r'^\*\*([^*]+?)\.\*\*', l))] if os.path.exists(f) else None
+    return _labels[path]
+
+
+def find(lab, path, start=0):
+    """Индекс стиха с меткой lab ('25' или '2:25' — второе вхождение) начиная с позиции start."""
+    L = labels(path)
+    k, _, v = lab.rpartition(':') if ':' in lab else ('1', '', lab)
+    n = 0
+    for i in range(start, len(L)):
+        if L[i][0] == v:
+            n += 1
+            if n == int(k or 1) or start: return i
+    return None
+
+
+def resolve_verses(e, where, errors):
+    out = []
+    for s in e.get('verses') or []:
+        if not isinstance(s, dict) or not {'file', 'from', 'to'} <= set(s):
+            errors.append(f'{where}: verses — элементы {{file, from, to}}'); continue
+        path, fr, to = s['file'], str(s['from']), str(s['to'])
+        L = labels(path)
+        if L is None: errors.append(f'{where}: нет файла {path}'); continue
+        i = find(fr, path)
+        j = find(to, path, i) if i is not None else None
+        if i is None or j is None: errors.append(f'{where}: в {path} нет стиха {fr if i is None else to}'); continue
+        en = path.replace('/ru/', '/en/')
+        Len = labels(en) if en != path else None
+        r = {'file': path, 'from': fr, 'to': to, 'line': L[i][1], 'line_to': L[j][1], 'count': j - i + 1,
+             'url': f"{REPO_URL}{path}?plain=1#L{L[i][1]}-L{L[j][1]}"}
+        if Len and i < len(Len) and j < len(Len):
+            r['file_en'] = en; r['url_en'] = f"{REPO_URL}{en}?plain=1#L{Len[i][1]}-L{Len[j][1]}"
+        out.append(r)
+    return out
 
 
 def check_common(e, where, errors):
@@ -61,7 +106,7 @@ def load_events(errors):
     ev = {}
     for e in data:
         where = f"events.yaml:{e.get('id')}"
-        for k in ('id', 'title', 'period'):
+        for k in ('id', 'title', 'title_en', 'period'):
             if k not in e: errors.append(f'{where}: нет поля {k}')
         if e.get('id') in ev: errors.append(f'{where}: повтор id')
         check_common(e, where, errors)
@@ -84,6 +129,9 @@ def load(errors, events):
             if e.get('authority') not in ('A', 'B', 'C', 'D'): errors.append(f'{where}: authority A/B/C/D')
             if e.get('event') and e['event'] not in events: errors.append(f"{where}: событие {e['event']} нет в events.yaml")
             check_common(e, where, errors)
+            if 'verses' in e: e['verses_resolved'] = resolve_verses(e, where, errors)
+            elif e.get('kind') != 'author': WARN.append(f'{where}: нет verses')
+            if not e.get('event') and e.get('kind') != 'author': WARN.append(f'{where}: нет event')
             entries.append(e)
     return entries
 
@@ -146,6 +194,8 @@ def build():
         date = f" ({'; '.join(when)})" if when else ''
         out.append(f"- **{e['title']}**{date} — {e['summary']}  ")
         meta = f"  `{e['id']}` · {e['source']}, {e['ref']} · ур. {e['authority']}"
+        for v in e.get('verses_resolved') or []:
+            meta += f" · [{v['file']} {v['from']}–{v['to']}](../{v['file']}?plain=1#L{v['line']}-L{v['line_to']})"
         for k in ('themes', 'bhava', 'teaching'):
             if e.get(k): meta += f" · {k}: {', '.join(e[k])}"
         meta += f" · {' '.join(e.get('persons') or [])} · {' '.join(e.get('places') or [])}"
@@ -155,7 +205,20 @@ def build():
         if e.get('notes'): meta += f" · *{e['notes']}*"
         out.append(meta)
     open(os.path.join(HERE, 'TIMELINE.md'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
-    print(len(full), 'записей;', len(events), 'событий;', len(errors), 'ошибок')
+    # EVENTS.md: одна лила — все её описания в разных писаниях
+    ev_md = ['# Лилы-события: одна лила во всех писаниях', '', '*Собрано `build.py`; не править вручную.*', '']
+    for ev in sorted(evout, key=lambda x: (order.index(x['period']) if x['period'] in order else 99, x.get('order') or 0)):
+        y = ev.get('years'); a = ev.get('age')
+        when = f" ({y[0]}–{y[1]}, возраст {a[0]}–{a[1]}, {ev.get('date_conf', '')})" if y and a else ''
+        ev_md += [f"## {ev['title']} / {ev['title_en']}  `{ev['id']}`{when}", '']
+        for x in by_event.get(ev['id'], []):
+            links = '; '.join(f"[{v['from']}–{v['to']}](../{v['file']}?plain=1#L{v['line']}-L{v['line_to']})" for v in x.get('verses_resolved') or [])
+            ev_md.append(f"- {x['source']} ({x['authority']}): {x['ref']} — {links} · `{x['id']}`")
+        ev_md.append('')
+    open(os.path.join(HERE, 'EVENTS.md'), 'w', encoding='utf-8').write('\n'.join(ev_md) + '\n')
+    if '-w' in sys.argv:
+        for x in WARN: print('предупр.', x)
+    print(len(full), 'записей;', len(events), 'событий;', len(errors), 'ошибок;', len(WARN), 'предупреждений (без verses/event; -w — показать)')
     return not errors
 
 
