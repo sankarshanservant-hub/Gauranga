@@ -1450,7 +1450,11 @@
    "pad-0128",
    "pad-0232",
    "pad-0317",
-   "pad-0281"
+   "pad-0281",
+   "pad-0419",
+   "pad-0420",
+   "pad-0421",
+   "pad-0422"
   ],
   "sources": [
    "advaita-prakasha",
@@ -1587,7 +1591,8 @@
    "apr-0044",
    "lcm-0036",
    "mkc-0018",
-   "pad-0233"
+   "pad-0233",
+   "pad-0423"
   ],
   "sources": [
    "advaita-prakasha",
@@ -2279,10 +2284,12 @@
    5
   ],
   "entries": [
-   "jcm-0031"
+   "jcm-0031",
+   "pad-0429"
   ],
   "sources": [
-   "jayananda-cm"
+   "jayananda-cm",
+   "padas"
   ]
  },
  {
@@ -2312,6 +2319,8 @@
    "lcm-0054",
    "pad-0131",
    "pad-0133",
+   "pad-0426",
+   "pad-0428",
    "pad-0271"
   ],
   "sources": [
@@ -2450,11 +2459,14 @@
   ],
   "entries": [
    "jcm-0026",
-   "lcm-0058"
+   "lcm-0058",
+   "pad-0430",
+   "pad-0431"
   ],
   "sources": [
    "jayananda-cm",
-   "lochana-cm"
+   "lochana-cm",
+   "padas"
   ]
  },
  {
@@ -2550,11 +2562,14 @@
   ],
   "entries": [
    "jcm-0029",
-   "lcm-0061"
+   "lcm-0061",
+   "pad-0432",
+   "pad-0433"
   ],
   "sources": [
    "jayananda-cm",
-   "lochana-cm"
+   "lochana-cm",
+   "padas"
   ]
  },
  {
@@ -2997,13 +3012,15 @@
    "jcm-0039",
    "kcm-0023",
    "lcm-0067",
-   "mkc-0035"
+   "mkc-0035",
+   "pad-0434"
   ],
   "sources": [
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -3072,6 +3089,11 @@
    "kcm-0025",
    "lcm-0070",
    "mkc-0038",
+   "pad-0435",
+   "pad-0436",
+   "pad-0437",
+   "pad-0438",
+   "pad-0439",
    "kcm-0026",
    "lcm-0071",
    "mkc-0039",
@@ -3089,7 +3111,8 @@
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -17352,7 +17375,9 @@
    "pad-0402",
    "pad-0403",
    "pad-0404",
-   "pad-0406"
+   "pad-0406",
+   "pad-0424",
+   "pad-0425"
   ],
   "sources": [
    "padas"
@@ -17586,7 +17611,8 @@
    5
   ],
   "entries": [
-   "pad-0415"
+   "pad-0415",
+   "pad-0427"
   ],
   "sources": [
    "padas"

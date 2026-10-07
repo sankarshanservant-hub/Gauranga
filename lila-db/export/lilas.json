@@ -7193,6 +7193,277 @@
   "attestation": 8
  },
  {
+  "id": "pad-0419",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 59 (2.1, № 19) «ফাল্গুন-পূর্ণিমা শুভক্ষণে» = БР 12 (изд. 1912, с. 764; изд. 1960, ст. 907–916)",
+  "file": "padas/ru/20.md",
+  "period": "P01",
+  "order": 70.61,
+  "title": "Шачи любуется новорождённым; ликование Джаганнатхи Мишры",
+  "summary": "В благой час полнолуния пхалгуны Шачи не может наглядеться на сына; Джаганнатха Мишра, услышав весть, плывёт в счастье и совершает благие обряды; Ганга и Земля забывают горести, мир расцветает, уходит тьма греха.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra",
+   "@ganga-devi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 13; ЧБ Ади 2–3; Мурари 1.5",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-276. Вероятно Чакраварти: есть в БР. Сноска: «рождение» — явление (авирбхава) по воле Господа.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "calendar": "пхалгуна, пурнима",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "2.1",
+    "to": "2.10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "2.1",
+    "to": "2.10",
+    "line": 43,
+    "line_to": 61,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L43-L61",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L46-L64"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
+ },
+ {
+  "id": "pad-0420",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 59–60 (2.1, № 20) «ফাল্গুন-পূর্ণিমা মঙ্গলের সীমা» = БР 12 (изд. 1912, с. 764–765; изд. 1960, ст. 917–920)",
+  "file": "padas/ru/20.md",
+  "period": "P01",
+  "order": 70.62,
+  "title": "Явилась Луна Гокулы: толпы во тьме затмения спешат к Младенцу",
+  "summary": "В полнолуние пхалгуны в каждом доме Надии — океан радости; Шачи с сыном в родильном покое; во тьме лунного затмения бесчисленные люди бегут увидеть Младенца и забывают себя.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 13; ЧБ Ади 2–3",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-277. Вероятно Чакраварти: есть в БР.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "bhava": [
+   "child",
+   "krishna"
+  ],
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 79,
+    "line_to": 88,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L79-L88",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L85-L94"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
+ },
+ {
+  "id": "pad-0421",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 60 (2.1, № 21) «পরম শুভ শচীগর্ভে বিলসত» = БР 12 (изд. 1912, с. 765; изд. 1960, ст. 921–924)",
+  "file": "padas/ru/20.md",
+  "period": "P01",
+  "order": 70.63,
+  "title": "Явление во время затмения: Господь прежде явил Своё имя",
+  "summary": "Боги славят Владыку Гокулы в лоне Шачи; в ночь полнолуния, когда Раху поглотил луну, Господь явился, прежде явив Своё имя; входящие в дом Мишры теряют голову от счастья; гордыня Кали сокрушена.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@kali-personified"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 13",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-278. Вероятно Чакраварти: есть в БР; враджабули.",
+  "themes": [
+   "revelation",
+   "celestial",
+   "kirtan"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "4.1",
+    "to": "4.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "4.1",
+    "to": "4.4",
+    "line": 102,
+    "line_to": 111,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L102-L111",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L108-L117"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
+ },
+ {
+  "id": "pad-0422",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 60–61 (2.1, № 22) «জয় জয় জয় মঙ্গলরব» = БР 12 (изд. 1912, с. 765–766; изд. 1960, ст. 925–928)",
+  "file": "padas/ru/20.md",
+  "period": "P01",
+  "order": 70.64,
+  "title": "Небесное торжество при явлении Гауры: боги сыплют цветы, поют киннары",
+  "summary": "Ночью полнолуния пхалгуны из лона Шачи явился Гаура, отрада Враджа; боги сыплют с неба цветы, киннары поют, небесные танцовщицы пляшут; весна, ветер с Малаи, вздымается Ганга; веселье в доме Мишры.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@ganga-devi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 2–3; ЧЧ Ади 13",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-279. Вероятно Чакраварти: есть в БР; пышный враджабули с ритмическими слогами.",
+  "themes": [
+   "celestial",
+   "revelation",
+   "festival"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "calendar": "пхалгуна, пурнима",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "5.1",
+    "to": "5.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "5.1",
+    "to": "5.4",
+    "line": 124,
+    "line_to": 139,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L124-L139",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L132-L147"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
+ },
+ {
   "id": "kcm-0011",
   "source": "karnapura-ckm",
   "ref": "Сарга 2, 56–59",
@@ -7730,6 +8001,74 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/12.md?plain=1#L93-L105",
     "file_en": "padas/en/12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/12.md?plain=1#L98-L110"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "age": [
+   0,
+   0
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0423",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 61–62 (2.1, № 24) «ভুবনমনোচোরা গোকুলপতি গোরা» = БР 12 (изд. 1912, с. 766–767; изд. 1960, ст. 937–942)",
+  "file": "padas/ru/20.md",
+  "period": "P02",
+  "order": 5.31,
+  "title": "Праздник рождения: женщины с дарами, Сита и Малини, пастухи с йогуртом — «обычай дома Нанды»",
+  "summary": "Женщины Надии и, смешавшись с ними, жёны богов несут дары; Сита-деви и Малини совершают благие обряды; пастухи и пастушки разбрызгивают во дворе йогурт и пляшут, боги в облике пастухов пляшут с ними; в доме Мишры — обычай дома Нанды.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra",
+   "@sita-thakurani",
+   "@malini"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 13; ЧБ Ади 3; ср. Бхаг. 10.5",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-004. Вероятно Чакраварти: есть в БР. Визит Ситы — также событие ev-sita-visits-newborn.",
+  "themes": [
+   "festival",
+   "family",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-birth-festival-nimai-name",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "6.1",
+    "to": "6.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "6.1",
+    "to": "6.6",
+    "line": 154,
+    "line_to": 169,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L154-L169",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L165-L180"
    }
   ],
   "years": [
@@ -10035,6 +10374,70 @@
   "attestation": 1
  },
  {
+  "id": "pad-0427",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 76–77 (2.2, № 44) «আরে মোর সোণার নিমাই» = БР 12 (изд. 1912, с. 772; изд. 1960, ст. 1014–1017)",
+  "file": "padas/ru/20.md",
+  "period": "P03",
+  "order": 15.1,
+  "title": "Шачи просит Нимая играть дома",
+  "summary": "Шачи упрашивает Нимая не ходить по чужим дворам: пусть дети приходят к Нему, она даст всё, что Он захочет, а позовут — пусть скажет, что отец не велит; без Него ей нет жизни.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-025. Вероятно Чакраварти: есть в БР. Отнесено к событию о проказах Нимая в домах Навадвипы (просьба матери — ответ на них).",
+  "themes": [
+   "family",
+   "pranks"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-nimai-pranks-neighbours",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "10.1",
+    "to": "10.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "10.1",
+    "to": "10.4",
+    "line": 252,
+    "line_to": 261,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L252-L261",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L265-L274"
+   }
+  ],
+  "cc": "Ади 14",
+  "cb": "Ади 6",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0043",
   "source": "lochana-cm",
   "ref": "Ади-кханда, «Балья-лила», 175–190",
@@ -11615,7 +12018,69 @@
    1,
    5
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0429",
+  "source": "padas",
+  "ref": "Нарахари (?), ГПТ1 с. 77 (2.2, № 46) «আজি আঙ্গিনা পর নদীয়া বালক সঙ্গে»",
+  "file": "padas/ru/20.md",
+  "period": "P03",
+  "order": 92.1,
+  "title": "Нимай играет во дворе с мальчиками Надии",
+  "summary": "Дитя Шачи играет во дворе с мальчиками Надии, как луна среди звёзд; Шачи, вне себя от радости, целует Его, отирает пот и обмахивает; поэт стоит рядом с чамарой.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-275. Атрибуция не установлена: нет ни в БР, ни в ГЧЧ; враджабули; поэт в подписи служит в лиле (манаси-сева).",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-childhood-companions",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "12.1",
+    "to": "12.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "12.1",
+    "to": "12.4",
+    "line": 298,
+    "line_to": 307,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L298-L307",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L313-L322"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0054",
@@ -11791,6 +12256,136 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/07.md?plain=1#L323-L338",
     "file_en": "padas/en/07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/07.md?plain=1#L333-L348"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0426",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 76 (2.2, № 43) «নাচো আরে বাপ বিশ্বম্ভর» = БР 12 (изд. 1912, с. 772; изд. 1960, ст. 1005–1012)",
+  "file": "padas/ru/20.md",
+  "period": "P03",
+  "order": 95.3,
+  "title": "Женщины хлопают в ладоши: Вишвамбхара пляшет под «Хари-бол»",
+  "summary": "Добродетельные женщины, хлопая в ладоши и приговаривая «Хари-бол», уговаривают Вишвамбхару плясать, обещая масло и сливки; глядя на мать, Он пляшет с возгласом «Хари-бол».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 4",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-024. Вероятно Чакраварти: есть в БР (Ишана: «здесь — дивный танец Нимая»).",
+  "themes": [
+   "kirtan",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-child-kirtan",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "9.1",
+    "to": "9.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "9.1",
+    "to": "9.8",
+    "line": 225,
+    "line_to": 239,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L225-L239",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L237-L251"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0428",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 77 (2.2, № 45) «রঙ্গে নাচয়ে শচীর বালা» = БР 12 (изд. 1913, с. 775; изд. 1960, ст. 1049–1056)",
+  "file": "padas/ru/20.md",
+  "period": "P03",
+  "order": 95.4,
+  "title": "Дитя Шачи пляшет во дворе, приговаривая «Хари»",
+  "summary": "Серое от пыли Дитя весело пляшет во дворе, хлопая в ладоши и приговаривая «Хари»; мать даёт Ему сливки; Он кружится, звенят бубенцы и нупуры.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 4",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-026. Вероятно Чакраварти: есть в БР (сразу за падами Васу Гхоша ПК 1151, 1161).",
+  "themes": [
+   "kirtan",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "event": "ev-child-kirtan",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "11.1",
+    "to": "11.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "11.1",
+    "to": "11.8",
+    "line": 273,
+    "line_to": 287,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L273-L287",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L288-L302"
    }
   ],
   "years": [
@@ -12726,7 +13321,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "lcm-0058",
@@ -12786,7 +13381,132 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "pad-0430",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 79 (2.3, № 1) «আজু কি আনন্দময় লোকগতি অতিশয়» = БР 12 (изд. 1912, с. 781; изд. 1960, ст. 1156–1159)",
+  "file": "padas/ru/20.md",
+  "period": "P04",
+  "order": 25.1,
+  "title": "Чудакарана Нимая: цирюльник повязывает у ушей жёлтую нить",
+  "summary": "Дом Шачи полон народу; Мишра, нарядив Вишвамбхару, совершает чудакарану по Ведам и обычаю; цирюльник, сделав своё дело, повязывает у ушей жёлтую нить; женщины ликуют, брахманы читают Веды, бхаты слагают хвалы.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "Лочан Дас, Ади-кханда (Пауганда-лила 460–472); БР 12, ст. 1160–1161",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-280. Вероятно Чакраварти: есть в БР; сразу за падой БР рассказывает, что уши Господа оказались проколотыми прежде обряда. Сноска: самскары Господь принимает, следуя лиле, а не по нужде.",
+  "themes": [
+   "festival",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-chudakarana-karnavedha",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "13.1",
+    "to": "13.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "13.1",
+    "to": "13.4",
+    "line": 321,
+    "line_to": 330,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L321-L330",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L336-L345"
+   }
+  ],
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pad-0431",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 79 (2.3, № 2) «আজু নিরুপম গৌরচন্দ্র-চূড়া» = БР 12 (изд. 1912, с. 782; изд. 1960, ст. 1163–1166)",
+  "file": "padas/ru/20.md",
+  "period": "P04",
+  "order": 25.2,
+  "title": "Торжество чудакараны Гаурачандры: Веды, сказители, боги в небе",
+  "summary": "На чудакарану Гаурачандры жёны Навадвипы ликуют, брахманы поют Веды, суты, магадхи и бандины слагают сказания, музыканты и танцоры отбивают ритм; Мишра одаряет просителей, боги в небе возглашают «джая».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-027. Вероятно Чакраварти: есть в БР; пышный враджабули.",
+  "themes": [
+   "festival",
+   "celestial"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-chudakarana-karnavedha",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "14.1",
+    "to": "14.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "14.1",
+    "to": "14.4",
+    "line": 349,
+    "line_to": 358,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L349-L358",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L366-L375"
+   }
+  ],
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
  },
  {
   "id": "lcm-0059",
@@ -13165,7 +13885,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "lcm-0061",
@@ -13228,7 +13948,136 @@
    }
   ],
   "cb": "Ади 8",
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "pad-0432",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 79–80 (2.3, № 3) «কি আনন্দ নদীয়ানগরে শ্রীশচীদেবীর পুত্র ধরিবেন যজ্ঞসূত্র» = БР 12 (изд. 1912, с. 783; изд. 1960, ст. 1173–1178)",
+  "file": "padas/ru/20.md",
+  "period": "P04",
+  "order": 40.1,
+  "title": "Упанаяна: Гаура с посохом и сумой просит подаяния",
+  "summary": "По Надии весть, что сын Шачи примет священный шнур; все спешат в дом Мишры с дарами; Мишра даёт сыну шнур; Гаура в красной одежде, с посохом и сумой просит подаяния, и небесные жёны, смешавшись с людьми, и Его спутники подают Ему.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 8; Лочан Дас, Ади-кханда (Пауганда-лила 517–546)",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-281 (прежде смешивалась со свадебной падой № 11). Вероятно Чакраварти: есть в БР. Соседняя № 4 (Господь в облике Ваманы) — подпись Гханашьямы, вне состава.",
+  "themes": [
+   "festival",
+   "family",
+   "celestial"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-upanayana",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "15.1",
+    "to": "15.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "15.1",
+    "to": "15.6",
+    "line": 372,
+    "line_to": 387,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L372-L387",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L389-L404"
+   }
+  ],
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pad-0433",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 80 (2.3, № 5) «গৌরসুন্দর পরম শুভক্ষণে ধরল যজ্ঞোপবীত» = БР 12 (изд. 1912, с. 784; изд. 1960, ст. 1193–1196)",
+  "file": "padas/ru/20.md",
+  "period": "P04",
+  "order": 40.2,
+  "title": "Гаурасундара принимает священный шнур",
+  "summary": "В благой час Гаурасундара принимает священный шнур; Шачи и Мишра совершают обряды; женщины ликуют, бхаты славят, поют певцы и пляшут танцоры; боги вне себя от этой лилы.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 8",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-028. Вероятно Чакраварти: есть в БР; враджабули.",
+  "themes": [
+   "festival",
+   "celestial"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-upanayana",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "16.1",
+    "to": "16.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "16.1",
+    "to": "16.4",
+    "line": 403,
+    "line_to": 412,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L403-L412",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L421-L430"
+   }
+  ],
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
  },
  {
   "id": "lcm-0062",
@@ -15009,7 +15858,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0023",
@@ -15065,7 +15914,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0067",
@@ -15125,7 +15974,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0035",
@@ -15185,7 +16034,70 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "pad-0434",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 83 (2.3, № 10) «বল্লভদুহিতা লক্ষ্মী সুচরিতা» = БР 12 (изд. 1912, с. 787; изд. 1960, ст. 1232–1235)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 10.1,
+  "title": "Первая встреча Гауры и Лакшмиприи у Ганги",
+  "summary": "Лакшми, дочь Валлабхи, идёт с подругами на омовение и, увидев Гауранга-чанду, не может сдержать сокровенной любви; Гора узнаёт Свою возлюбленную; их взгляды тайком встречаются, и Он с улыбкой идёт домой.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#ganga",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 10; Мурари 1.9",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-029. Вероятно Чакраварти: есть в БР. Сноска: Лакшмиприя — вечная супруга Господа; их любовь не мирская.",
+  "themes": [
+   "family"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-lakshmipriya-first-meeting",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "17.1",
+    "to": "17.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "17.1",
+    "to": "17.4",
+    "line": 425,
+    "line_to": 434,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L425-L434",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L443-L452"
+   }
+  ],
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
  },
  {
   "id": "jcm-0040",
@@ -15636,7 +16548,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "jcm-0041",
@@ -15729,7 +16641,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "kcm-0025",
@@ -15787,7 +16699,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0070",
@@ -15852,7 +16764,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0038",
@@ -15929,7 +16841,315 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "pad-0435",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 83 (2.3, № 11) «কি আনন্দ নদীয়া-নগরে নিমাইর বিবাহকথা» = БР 12 (изд. 1912, с. 788; изд. 1960, ст. ≈1245–1252)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 25.1,
+  "title": "Весть о свадьбе Нимая: бхаты, астрологи, садовники и просители спешат к дому Шачи",
+  "summary": "В каждом доме Надии говорят о свадьбе Нимая; все жаждут её увидеть; бегут бхаты, танцоры, музыканты, астрологи, садовники с гирляндами и сотни бедных просителей.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 10; ЧЧ Ади 15; Мурари 1.9",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-030 (свадебная часть строки). Вероятно Чакраварти: есть в БР (после рассказа о сватовстве Ванамали).",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "18.1",
+    "to": "18.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "18.1",
+    "to": "18.8",
+    "line": 448,
+    "line_to": 462,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L448-L462",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L468-L482"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0436",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 83 (2.3, № 12) «নদীয়ার নববধূ সব বিরলেতে কহে» = БР 12 (изд. 1912, с. 788; изд. 1960, ст. 1253–1256)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 25.2,
+  "title": "Молодые жёны Надии радуются свадьбе: «сегодня адхиваса»",
+  "summary": "Молодые жёны Надии славят Валлабху Ачарью и его жену, обретающих такого зятя, и Лакшми, обретающую мужа прекраснее Камы; хвалят сватовство Ванамали и зовут друг друга наряжаться к адхивасе.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@vallabhacharya",
+   "@vanamali-acharya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 10",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-031. Вероятно Чакраварти: есть в БР. Речь молодых жён — радость о свадьбе, не нагари-бхава.",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "19.1",
+    "to": "19.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "19.1",
+    "to": "19.4",
+    "line": 473,
+    "line_to": 482,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L473-L482",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L494-L503"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0437",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 83–84 (2.3, № 13) «শ্রীশচী-আলয় অতি শোভাময়» = БР 12 (изд. 1912, с. 789; изд. 1960, ст. 1257–1260)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 25.3,
+  "title": "Женщины знатных семей идут к Шачи на адхивасу",
+  "summary": "Женщины знатных семей наряжаются и вереницами, озаряя улицы Надии, идут к Шачи, кланяются ей и, увидев во дворе Господа, утешают сердце.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-032. Вероятно Чакраварти: есть в БР. Сноска: не нагари-бхава; позиция традиции о «гаура-нагари».",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "20.1",
+    "to": "20.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "20.1",
+    "to": "20.4",
+    "line": 496,
+    "line_to": 505,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L496-L505",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L518-L527"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0438",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 84 (2.3, № 14) «শোভাময় শচীর অঙ্গনে» = БР 12 (изд. 1912, с. 789–790; изд. 1960, ст. 1261–1272)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 25.4,
+  "title": "Адхиваса Нимая в доме Шачи",
+  "summary": "Брахманы поют Веды, родные подносят благовония и гирлянды; Гора среди собрания затмевает мириады Кам; Валлабха Ачарья, совершив адхивасу, уходит домой; Шачи с замужними женщинами совершает благие обряды; боги смешались с людьми.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 10",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-033. Вероятно Чакраварти: есть в БР.",
+  "themes": [
+   "festival",
+   "family",
+   "celestial"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "21.1",
+    "to": "21.12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "21.1",
+    "to": "21.12",
+    "line": 519,
+    "line_to": 541,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L519-L541",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L542-L564"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0439",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 84 (2.3, № 15) «আজু স্নেহেতে বিহ্বল হৈয়া» = БР 12 (изд. 1912, с. 790; изд. 1960, ст. 1273–1276)",
+  "file": "padas/ru/20.md",
+  "period": "P05",
+  "order": 25.5,
+  "title": "Адхиваса Лакшмиприи в доме Валлабхи Ачарьи",
+  "summary": "Валлабха Ачарья с родными-брахманами совершает адхивасу невесты; мать наряжает Лакшми и усаживает на трон; Лакшми ликует, получая благовония и гирлянду, а вокруг невидимо толпятся небесные жёны.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@lakshmipriya",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади 10",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-034. Вероятно Чакраварти: есть в БР.",
+  "themes": [
+   "festival",
+   "family",
+   "celestial"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "22.1",
+    "to": "22.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "22.1",
+    "to": "22.4",
+    "line": 554,
+    "line_to": 563,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L554-L563",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L578-L587"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
  },
  {
   "id": "kcm-0026",
@@ -15984,7 +17204,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0130",
@@ -16099,7 +17319,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0039",
@@ -16160,7 +17380,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0072",
@@ -16223,7 +17443,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0040",
@@ -16283,7 +17503,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0060",
@@ -16407,7 +17627,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0061",
@@ -16527,7 +17747,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0041",
@@ -16587,7 +17807,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0077",
@@ -16769,7 +17989,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0076",
@@ -16831,7 +18051,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0042",
@@ -16891,7 +18111,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0253",
@@ -23080,6 +24300,131 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/19.md?plain=1#L507-L516",
     "file_en": "padas/en/19.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/19.md?plain=1#L535-L544"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0424",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 75 (2.2, № 40) «নিমাইচাঁদের কথা অতি অপরূপ গো» = «Гаура-чарита-чинтамани», гл. 6, пада 15",
+  "file": "padas/ru/20.md",
+  "period": "P07",
+  "order": 41.16,
+  "title": "«Нимай и Нитай — два зрачка её очей»: пожилая женщина о Нимае",
+  "summary": "Пожилая женщина Навадвипы дивится: прежний шалун Нимай стал степенным, Его чтут пандиты, с Ним неразлучны Шриваса и Мурари; Нитай любит Его, как Балай Кришну; Шачи — словно Владычица Враджа.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@nityananda",
+   "@shachi",
+   "@srivasa",
+   "@murari-gupta",
+   "@yashoda",
+   "@balarama"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 5; ЧБ, Мадхья-кханда (сон Шачи о Кришне и Балараме)",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-021. Вероятно Чакраварти: есть в ГЧЧ (цикл утра в доме Шачи после Гаи).",
+  "themes": [
+   "family",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-navadvipa-elders-morning-darshan",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 184,
+    "line_to": 193,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L184-L193",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L196-L205"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0425",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 75–76 (2.2, № 41) «নদীয়ার যত বৃদ্ধনারীগণে» = «Гаура-чарита-чинтамани», гл. 6, пада 16",
+  "file": "padas/ru/20.md",
+  "period": "P07",
+  "order": 41.17,
+  "title": "Пожилые женщины Надии благословляют Гаурангу",
+  "summary": "Пожилые женщины Надии, полные нежности, говорят друг с другом, глядят на лицо Гауранги, почитают себя счастливыми и вновь и вновь благословляют Его.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-022. Вероятно Чакраварти: есть в ГЧЧ (последняя пада 6-й главы).",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-navadvipa-elders-morning-darshan",
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "8.1",
+    "to": "8.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "8.1",
+    "to": "8.4",
+    "line": 208,
+    "line_to": 214,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L208-L214",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L220-L226"
    }
   ],
   "years": [
@@ -112315,6 +113660,67 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/17.md?plain=1#L78-L87",
     "file_en": "padas/en/17.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/17.md?plain=1#L82-L91"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0418",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 26 (1.3, № 2) «শচীসুত গৌরহরি নবদ্বীপে অবতরি» = БР 12 (изд. 1912, с. 914; изд. 1960, ст. 3605–3608)",
+  "file": "padas/ru/20.md",
+  "period": "PX",
+  "order": 9.2,
+  "title": "Обзор лилы Гауры: санкиртана, санньяса, према Радхики в Нилачале",
+  "summary": "Сын Шачи явился в Навадвипе и открыл санкиртану; приняв санньясу, странствовал и остался в Нилачале, опьянённый любовью Радхики; спутники вне себя от премы; Господь даровал миру сокровище, недоступное богам.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@nityananda",
+   "@advaita",
+   "@gadadhara-pandita",
+   "@srivasa",
+   "@radha"
+  ],
+  "places": [
+   "#navadvipa",
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 4; Антья 14–20",
+  "notes": "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-003. Вероятно Чакраварти: есть в БР (Ишана — Шринивасе, после рассказа об уходе Господа в Пури).",
+  "themes": [
+   "author",
+   "kirtan",
+   "sannyasa"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "holy-name"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/20.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 19,
+    "line_to": 28,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/20.md?plain=1#L19-L28",
+    "file_en": "padas/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/20.md?plain=1#L22-L31"
    }
   ],
   "attestation": 1
