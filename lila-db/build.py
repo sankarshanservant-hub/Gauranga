@@ -65,8 +65,19 @@ def find(lab, path, start=0):
 def resolve_verses(e, where, errors):
     out = []
     for s in e.get('verses') or []:
+        if isinstance(s, dict) and {'file', 'from_text', 'to_text'} <= set(s):
+            # тексты без нумерации стихов (драма, проза): отрезок по фрагментам строк
+            f = os.path.join(ROOT, s['file'])
+            if not os.path.exists(f): errors.append(f"{where}: нет файла {s['file']}"); continue
+            lines = open(f, encoding='utf-8').read().split('\n')
+            a = next((i for i, l in enumerate(lines) if s['from_text'] in l), None)
+            b = next((i for i in range(a or 0, len(lines)) if s['to_text'] in lines[i]), None) if a is not None else None
+            if a is None or b is None: errors.append(f"{where}: в {s['file']} не найден фрагмент «{s['from_text'] if a is None else s['to_text']}»"); continue
+            out.append({'file': s['file'], 'from': s['from_text'], 'to': s['to_text'], 'line': a + 1, 'line_to': b + 1,
+                        'count': None, 'url': f"{REPO_URL}{s['file']}?plain=1#L{a + 1}-L{b + 1}"})
+            continue
         if not isinstance(s, dict) or not {'file', 'from', 'to'} <= set(s):
-            errors.append(f'{where}: verses — элементы {{file, from, to}}'); continue
+            errors.append(f'{where}: verses — элементы {{file, from, to}} или {{file, from_text, to_text}}'); continue
         path, fr, to = s['file'], str(s['from']), str(s['to'])
         L = labels(path)
         if L is None: errors.append(f'{where}: нет файла {path}'); continue
