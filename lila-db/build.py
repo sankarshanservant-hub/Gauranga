@@ -113,10 +113,13 @@ def check_common(e, where, errors):
 
 
 def load_events(errors):
-    data = yaml.safe_load(read('events.yaml')) or []
+    # events.yaml — основной; events-*.yaml — события, заведённые параллельными работами (напр. events-karnapura.yaml)
+    data = []
+    for f in ['events.yaml'] + sorted(os.path.basename(x) for x in glob.glob(os.path.join(HERE, 'events-*.yaml'))):
+        data += [(f, e) for e in (yaml.safe_load(read(f)) or [])]
     ev = {}
-    for e in data:
-        where = f"events.yaml:{e.get('id')}"
+    for f, e in data:
+        where = f"{f}:{e.get('id')}"
         for k in ('id', 'title', 'title_en', 'period'):
             if k not in e: errors.append(f'{where}: нет поля {k}')
         if e.get('id') in ev: errors.append(f'{where}: повтор id')
@@ -138,7 +141,7 @@ def load(errors, events):
             if e.get('source') not in SOURCES: errors.append(f"{where}: неизвестный источник {e.get('source')}")
             if e.get('kind') not in KINDS: errors.append(f"{where}: неизвестный kind {e.get('kind')}")
             if e.get('authority') not in ('A', 'B', 'C', 'D'): errors.append(f'{where}: authority A/B/C/D')
-            if e.get('event') and e['event'] not in events: errors.append(f"{where}: событие {e['event']} нет в events.yaml")
+            if e.get('event') and e['event'] not in events: errors.append(f"{where}: событие {e['event']} нет в events*.yaml")
             check_common(e, where, errors)
             if 'verses' in e: e['verses_resolved'] = resolve_verses(e, where, errors)
             elif e.get('kind') != 'author': WARN.append(f'{where}: нет verses')
