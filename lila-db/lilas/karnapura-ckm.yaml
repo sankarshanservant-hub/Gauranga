@@ -2870,3 +2870,173 @@
   event: ev-ratha-yatra-gundicha
   verses:
     - {file: "karnapura-mahakavya/ru/15.md", from: "100", to: "110"}
+
+
+- id: kcm-0151
+  source: karnapura-ckm
+  ref: "Сарга 16, 1–16"
+  file: "karnapura-mahakavya/ru/16.md"
+  period: P12
+  order: 70
+  title: "Ратха-ятра: Господь читает стихи перед колесницей; колесница"
+  summary: "Перед колесницей Джаганнатхи Господь, подняв руку, читает три стиха — из «Мукунда-малы», Бхагаваты (10.90.48) и «nāhaṁ vipro…»; поэт описывает облик пляшущего Гауры, высокую, как новый царь гор, колесницу, праздник жителей Пури и пыль до небес — но всех пленяет пляшущий Гауранга."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.20.10–4.21.5; ЧЧ Мадхья 13.78–80"
+  themes: [jagannatha, festival, kirtan]
+  scriptures: ["Мукунда-мала 2", "Бхаг. 10.90.48", "Падьявали 63"]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/16.md", from: "1", to: "16"}
+
+- id: kcm-0152
+  source: karnapura-ckm
+  ref: "Сарга 16, 17–29"
+  file: "karnapura-mahakavya/ru/16.md"
+  period: P12
+  order: 70
+  title: "Пляска перед колесницей; три круга; обморок Господа"
+  summary: "Звук киртана пробивает оболочку вселенной; Господь кружится колесом, слёзы летят вокруг ореолом; вокруг — три круга: певцы, преданные во главе с Каши Мишрой, держащиеся за руки, и снаружи Пратапарудра; когда Господь в оцепенении блаженства лежит на земле, колесница останавливается; преданные берут Его на колени, Адвайта поддерживает Его, а царь служит Его стопам."
+  persons: ["@mahaprabhu", "@advaita", "@prataparudra", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 13.82–105, 14.48–55"
+  divergence: "В ЧЧ Пратапарудра служит стопам Господа позднее, в саду (Мадхья 14.6–7); второй круг ведут Мукунда и Кашишвара."
+  themes: [jagannatha, ecstasy, kirtan]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/16.md", from: "17", to: "29"}
+
+- id: kcm-0153
+  source: karnapura-ckm
+  ref: "Сарга 16, 30–36"
+  file: "karnapura-mahakavya/ru/16.md"
+  period: P12
+  order: 70
+  title: "Преданные у пляшущего Господа; Господь вкушает собственную стопу"
+  summary: "Парамананда Пури пьёт нектар пляски; Сварупа Дамодара обнимает стопы Господа, рядом Кашишвара, Каши Мишра, Говинда; Господь ставит стопу на головы преданных, прижимает собственную стопу к сердцу и «вкушает» её."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@kashishvara", "@kashi-mishra", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  themes: [ecstasy, mercy]
+  bhava: [krishna]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/16.md", from: "30", to: "36"}
+
+- id: kcm-0154
+  source: karnapura-ckm
+  ref: "Сарга 16, 37–49"
+  file: "karnapura-mahakavya/ru/16.md"
+  period: P12
+  order: 70
+  title: "Пляшущий Гаура; чудо с гирляндой"
+  summary: "Развёрнутое описание пляшущего Господа, на которого Джаганнатха смотрит не мигая; раскрутив гирлянду, Господь бросает её — и она оказывается на шее того, кого Он пожелал, хоть бы тот стоял далеко; глядя на лунное лицо Джаганнатхи, Он погружается в океан блаженства."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: miracle
+  authority: A
+  parallels: "ЧЧ Мадхья 13.99"
+  themes: [jagannatha, ecstasy]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/16.md", from: "37", to: "49"}
+
+
+- id: kcm-0155
+  source: karnapura-ckm
+  ref: "Сарга 17, 1–7"
+  file: "karnapura-mahakavya/ru/17.md"
+  period: P12
+  order: 70
+  title: "Отдых Господа в саду на пути колесницы"
+  summary: "После пляски перед колесницей Господь входит в сад, любимый Джаганнатхой, где Ему служат ветер и лесные богини."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 13.194–204"
+  themes: [jagannatha]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/17.md", from: "1", to: "7"}
+
+- id: kcm-0156
+  source: karnapura-ckm
+  ref: "Сарга 17, 8–24"
+  file: "karnapura-mahakavya/ru/17.md"
+  period: P14
+  order: 11
+  title: "Рупа, Санатана и Анупама в саду"
+  summary: "Три брата — «три океана расы» — приходят к Господу и славят Его гимнами Брахмы; Господь, скрывая чувства, отсылает их к Джаганнатхе, читает стих «Не дорог Мне непреданный, хоть бы он знал четыре Веды…» и кланяется им; с травинками в зубах они читают слова гопи, Господь твердит «Говорите!» и раздаёт им махапрасад из трёх горшков."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@anupama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  divergence: "По ЧЧ братья приходили в Пури порознь: Анупама умер в Бенгалии, Рупа пришёл один (Антья 1.37–39), Санатана — позже (Антья 4); у Карнапуры все трое приходят вместе на Ратха-ятру."
+  themes: [mercy, prasada]
+  teaching: [vaishnava]
+  scriptures: ["na me ’bhaktaś catur-vedī…"]
+  event: ev-rupa-sanatana-anupama-ratha-garden
+  verses:
+    - {file: "karnapura-mahakavya/ru/17.md", from: "8", to: "24"}
+
+- id: kcm-0157
+  source: karnapura-ckm
+  ref: "Сарга 17, 25–42"
+  file: "karnapura-mahakavya/ru/17.md"
+  period: P12
+  order: 70
+  title: "Пляска в саду под песни Васудевы Датты; пляска Вакрешвары"
+  summary: "Господь неистово пляшет в саду, а затем пляшет наедине с Вакрешварой; Васудева Датта поёт, и в Господе проявляются восемь саттвика-бхав; затем Он отдыхает на берегу пруда."
+  persons: ["@mahaprabhu", "@vakreshvara", "@vasudeva-datta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 14.98–101"
+  themes: [kirtan, ecstasy]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/17.md", from: "25", to: "42"}
+
+- id: kcm-0158
+  source: karnapura-ckm
+  ref: "Сарга 17, 43–52"
+  file: "karnapura-mahakavya/ru/17.md"
+  period: P12
+  order: 70
+  title: "Омовение Господа в саду; махапрасад"
+  summary: "Кришнадаса, слуга Нитьянанды, поливает Господа водой из сотни кувшинов; Адвайта и Господь поливают друг друга; Говинда подаёт свежую одежду, и Господь с преданными со смехом и шутками вкушает махапрасад и гуляет по саду."
+  persons: ["@mahaprabhu", "@advaita", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 14.23–42"
+  themes: [prasada]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/17.md", from: "43", to: "52"}
+
+- id: kcm-0159
+  source: karnapura-ckm
+  ref: "Сарга 17, 53–66"
+  file: "karnapura-mahakavya/ru/17.md"
+  period: P12
+  order: 70
+  title: "Господь толкает колесницу; Джаганнатху вносят в храм"
+  summary: "Вернувшись к колеснице, Господь толкает её, хлопает в ладоши и держится за канаты, а спутники поют о Его играх; на закате колесница останавливается, Джаганнатху по подушкам вносят в храм, и Господь с Говиндой снова видит Его. Так Господь играет каждый год."
+  persons: ["@mahaprabhu", "@govinda-servant", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 14.48–55"
+  themes: [jagannatha, festival]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/17.md", from: "53", to: "66"}
