@@ -4748,3 +4748,580 @@
   event: ev-kuliya-shachi-meeting
   verses:
     - {file: "padas/ru/11.md", from: "25.1", to: "25.5"}
+
+- id: pad-0231
+  source: padas
+  ref: "Васу Гхош (по ГПТ), ПК 2347 (без подписи) = ГПТ1 с. 46–47 (№ 68) «অবতার বড় অবতার কৈলা বড়»"
+  file: "padas/ru/12.md"
+  period: PX
+  order: 8.22
+  title: "Великое воплощение: плач премы в каждом доме"
+  summary: "Такой милости не было ни в одну югу: в каждом доме плач премы, имя Хари провозглашено; Гаура пригнал к пристани ладью с премой и открыл базар; Джагай и Мадхай спасены именем."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@jagai-madhai"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 3, 17; ЧБ Мадхья 13"
+  notes: "В ПК без подписи (кончается на 1.4); заключительное двустишие с подписью Васудевы Гхоша — только ГПТ. Новая строка каталога ВГ-154."
+  themes: [author, mercy]
+  teaching: [holy-name, yuga-dharma, prema]
+  verses:
+    - {file: "padas/ru/12.md", from: "1.1", to: "1.5"}
+
+- id: pad-0232
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 51 (№ 3) «নদীয়া-আকাশে আসি উদিল গৌরাঙ্গ-শশী»"
+  file: "padas/ru/12.md"
+  period: P01
+  order: 70.3
+  title: "Луна Гауранга взошла в ночь затмения"
+  summary: "В небе Надии взошла луна Гауранга, и небесная луна от стыда скрылась в затмении; звучат раковины и барабаны, Джаганнатха Мишра и Шачи счастливы, боги смешались с людьми, небесные девы и женщины Надии смотрят на Младенца; отец раздаёт дары."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 13; ЧБ Ади 2"
+  notes: "Только ГПТ. По Маджумдару, пады Васу о рождении и детстве — вымысел поэта. «Роды» — явление Господа (сноска)."
+  themes: [family, celestial, festival]
+  bhava: [child]
+  teaching: [gaura-tattva]
+  calendar: "пхалгуна, пурнима (лунное затмение)"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "padas/ru/12.md", from: "2.1", to: "2.5"}
+
+- id: pad-0233
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 62 (№ 1) «মিশ্র পুরন্দর কিছু মনে বিচারিয়া»"
+  file: "padas/ru/12.md"
+  period: P02
+  order: 5.3
+  title: "Имянаречение: Шачи просит имя «Нимай»"
+  summary: "Пурандара Мишра зовёт семейного жреца, одаряет его; тот возлагает аргхью и благословение на голову младенца; Шачи, называя сына бесценным, просит дать ему имя «Нимай»."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Ади 3–4; ЧЧ Ади 13–14"
+  notes: "Только ГПТ; новая строка каталога ВГ-155. По Маджумдару, пады Васу о детстве — вымысел поэта."
+  divergence: "По ЧБ и ЧЧ имя «Нимай» дали женщины, а при имянаречении дано имя Вишвамбхара; здесь имя «Нимай» просит у жреца Шачи."
+  themes: [family]
+  bhava: [child]
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "padas/ru/12.md", from: "3.1", to: "3.5"}
+
+- id: pad-0234
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 63 (№ 6) «মায়ের অঙ্গুলি ধরি শিশু গৌরহরি»"
+  file: "padas/ru/12.md"
+  period: P02
+  order: 30
+  title: "Первые шаги Нимая"
+  summary: "Держась за палец матери, малыш Гаурахари ковыляет, тянет её за руку, спотыкается и падает; не даётся на руки и катается в пыли; Шачи вытирает и целует Его."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Ади 4; Мурари 1.6"
+  notes: "Только ГПТ; новая строка каталога ВГ-156. По Маджумдару, пады Васу о детстве — вымысел поэта."
+  themes: [family, pranks]
+  bhava: [child]
+  event: ev-nimai-first-steps
+  verses:
+    - {file: "padas/ru/12.md", from: "4.1", to: "4.5"}
+
+- id: pad-0235
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 63–64 (№ 7) «পূর্ণিমা-রজনী চাঁদ গগনে উদয়»"
+  file: "padas/ru/12.md"
+  period: P03
+  order: 60.2
+  title: "«Дай луну, мама!» — и картина Радхи-Кришны"
+  summary: "В полнолуние малыш Нимай плачет, прося луну; она не приходит, и Он в отчаянии падает в пыль; Шачи даёт Ему картину Радхи и Кришны, и Он счастлив: на ней, говорит поэт, Господь видит Своё лицо."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi", "@radha", "@krishna"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ; новая строка каталога ВГ-157. По Маджумдару, пады Васу о детстве — вымысел поэта. Подпись: Гаура — Радха и Кришна в одном облике (ЧЧ Ади 1.5)."
+  themes: [family, pranks]
+  bhava: [child]
+  teaching: [gaura-tattva]
+  event: ev-nimai-asks-for-moon
+  verses:
+    - {file: "padas/ru/12.md", from: "5.1", to: "5.5"}
+
+- id: pad-0236
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 347 (№ 11) «উঠ উঠ গোরাচাঁদ নিশি পোহাইল»"
+  file: "padas/ru/12.md"
+  period: P07
+  order: 134.6
+  title: "Пробуждение Гауры: «Сколько Ты спишь в истоме премы?»"
+  summary: "Ночь прошла, Надия проснулась, кукует кукушка, взошла заря; поэт будит Гору, спящего в истоме премы."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ (раздел аштакалия)."
+  themes: [ecstasy]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/12.md", from: "6.1", to: "6.4"}
+
+- id: pad-0237
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 351 (№ 24) «বায়স কোকিলকুল ঘুঘু দহিয়াল-রব»"
+  file: "padas/ru/12.md"
+  period: P07
+  order: 134.61
+  title: "Утро Гауры: умащение и путь к Ганге"
+  summary: "Кричат птицы, зовут спутники; Гора встаёт, протирает глаза, совершает утренние обязанности, умащается маслом и со всеми идёт к Ганге."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ (раздел аштакалия); следующая пада ГПТ (игры в воде) — ПК 1108 (порция 05)."
+  themes: [family]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/12.md", from: "7.1", to: "7.4"}
+
+- id: pad-0238
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 326 (№ 17) «ঝুলত গোরাচাঁদ সুন্দর রঙ্গিয়া»"
+  file: "padas/ru/12.md"
+  period: P07
+  order: 134.76
+  title: "Джхулан: в бхаве Радхи Гаура восклицает «Флейта!»"
+  summary: "Горачанда качается на качелях, опьянённый премой; в бхаве Радхи по лицу текут слёзы; поняв Его бхаву, Гададхара качается слева; глядя ему в лицо, Гора восклицает: «Флейта!»"
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ. Бхава Радхи — чистая према (сноска)."
+  themes: [festival, ecstasy]
+  bhava: [radha]
+  event: ev-jhulana-navadvipa
+  verses:
+    - {file: "padas/ru/12.md", from: "8.1", to: "8.3"}
+
+- id: pad-0239
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 367 (№ 4) «বিষ্ণুপ্রিয়া সঙ্গিনীরে পাইয়া বিরলে»"
+  file: "padas/ru/12.md"
+  period: P07
+  order: 152.1
+  title: "Предчувствие Вишнуприи: Надия опустела"
+  summary: "Наедине с подругой Вишнуприя говорит о дурных знаках: Надия кажется опустевшей, дёргается правая сторона тела, упала серьга, поникли деревья у Ганги, остановилось течение, умолкла кукушка; поэт боится, что Гора покинет Навадвипу."
+  persons: ["@vasu-ghosha", "@vishnupriya", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ1 (в скане ГПТ2 страницы нет); новая строка каталога ВГ-158."
+  themes: [separation, family]
+  event: ev-vishnupriya-omens
+  verses:
+    - {file: "padas/ru/12.md", from: "9.1", to: "9.6"}
+
+- id: pad-0240
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 367 (№ 6) «পাগলিনী বিষ্ণুপ্রিয়া ভিজা বস্ত্র চুলে»"
+  file: "padas/ru/12.md"
+  period: P07
+  order: 152.2
+  title: "Вишнуприя рассказывает Шачи о дурных знаках"
+  summary: "Вишнуприя в мокрой одежде прибегает домой и, плача, говорит Шачи: при омовении упало в воду кольцо из носа, дёргается правый глаз, справа видится змея; поэт: сегодня владыка твоей жизни покинет Навадвипу."
+  persons: ["@vasu-ghosha", "@vishnupriya", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья 25–26"
+  notes: "Только ГПТ1 (в скане ГПТ2 страницы нет); новая строка каталога ВГ-159."
+  themes: [separation, family]
+  event: ev-vishnupriya-omens
+  verses:
+    - {file: "padas/ru/12.md", from: "10.1", to: "10.6"}
+
+- id: pad-0241
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 369 (№ 11) «প্রভু কহে নিজগুণে দেওত সন্ন্যাস»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 40.1
+  title: "Катва: «Если смерть придёт раньше пятидесяти?» — цирюльник не смеет брить"
+  summary: "Господь просит Кешаву Бхарати о санньясе; люди Катвы отговаривают, Бхарати напоминает о пятидесяти годах; Господь: если смерть придёт раньше, когда же общение со святыми? Бхарати соглашается; цирюльник не смеет касаться головы Господа, и Господь велит ему оставить ремесло, обещая счастье по милости Кришны и обитель Вишну."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#katwa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Мадхья 28; ЧЧ Ади 17, Мадхья 3; Лочан, Мадхья-кханда (цирюльник Харидас); Мурари 2.18"
+  notes: "Только ГПТ; новая строка каталога ВГ-160."
+  themes: [sannyasa, mercy]
+  teaching: [sannyasa-teaching]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "padas/ru/12.md", from: "11.1", to: "11.13"}
+
+- id: pad-0242
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 369 (№ 12) «মধুশীল বলে গোসাঞি না ভাঁড়াও মোরে»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 40.2
+  title: "Цирюльник Мадхушил узнаёт Господа и просит Его стоп"
+  summary: "Цирюльник Мадхушил говорит: «Не обманывай меня — Ты Сам Бог; тот Кришна, что сохранит меня, — это Ты»; прежде чем обрить Господа, он просит поставить святые стопы ему на голову, и Господь исполняет его просьбу."
+  persons: ["@vasu-ghosha", "@mahaprabhu"]
+  places: ["#katwa"]
+  kind: lila
+  authority: C
+  parallels: "Лочан, Мадхья-кханда (цирюльник Харидас); «Карча» Говинды (цирюльник Дева)"
+  notes: "Только ГПТ; новая строка каталога ВГ-161. Имя цирюльника — Мадхушил."
+  themes: [sannyasa, mercy, revelation]
+  teaching: [gaura-tattva]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "padas/ru/12.md", from: "12.1", to: "12.6"}
+
+- id: pad-0243
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 370–371 (№ 15) «প্রভুর মুণ্ডন দেখি কান্দে যত পশু পাখী»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 40.3
+  title: "Обритый Господь просит вайшнавов благословить Его санньясу"
+  summary: "Видя Господа обритым, плачут звери, птицы и люди, корова бежит к Нему с травой в зубах; Господь в каупине, с посохом, просит вайшнавов благословить Его, чтобы санньяса не стала насмешкой и Он обрёл во Врадже Владыку Враджа, и бежит по стране Рарх с криком «Где Вриндаван?», а Нитьянанда рядом."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@nityananda"]
+  places: ["#katwa", "#radha-desha"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Мадхья 28, Антья 1"
+  notes: "Только ГПТ; «двойник» пады ПК 2225 (те же строки о благословении; порция 04, п. 13). «Майя» в обиходном смысле (сноска)."
+  themes: [sannyasa, separation]
+  bhava: [sannyasi, devotee]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "padas/ru/12.md", from: "13.1", to: "13.5"}
+
+- id: pad-0244
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 371 (№ 18) «গৌরাঙ্গে সন্ন্যাস দিয়া ভারতী কাঁদিলা»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 40.4
+  title: "Кешава Бхарати плачет: «Ты мой гуру, я вижу Кришну»"
+  summary: "Дав Гауранге санньясу и имя Шри Кришна Чайтанья, Бхарати плачет; Господь просит благословения на любовь к Кришне, а Бхарати отвечает, что видит в Нём Кришну и что лишь ради мирского обычая Господь зовёт его гуру."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#katwa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Мадхья 28; «Карча» Говинды"
+  notes: "Только ГПТ; новая строка каталога ВГ-162."
+  themes: [sannyasa, revelation]
+  teaching: [gaura-tattva]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "padas/ru/12.md", from: "14.1", to: "14.5"}
+
+- id: pad-0245
+  source: padas
+  ref: "Васу Гхош (по ГПТ), ПК 2269 (без подписи) = ГПТ1 с. 374 (№ 25) «স্বপনে গিয়াছিলুঁ ক্ষীরোদ-সায়রে»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 20.3
+  title: "Плач Шачи: «Кто увёл моего сына в далёкий край?»"
+  summary: "Во сне Шачи ходила к Молочному океану, но не нашла сына; судьба разрушила её «базар»; откуда взялся Кешава Бхарати? Она вырастила сына пандитом — кто увёл его? Шачи зовёт: «Нимай, иди сюда!»"
+  persons: ["@vasu-ghosha", "@shachi", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Антья 1"
+  notes: "В ПК без подписи (рук. П-Р-Са — с иным припевом); подпись Васу — только ГПТ."
+  themes: [separation, family]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "padas/ru/12.md", from: "15.1", to: "15.4"}
+
+- id: pad-0246
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 374 (№ 27) «নদীয়া ছাড়িয়া গেল গৌরাঙ্গ সুন্দরে»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 30.2
+  title: "Преданные Надии тонут в океане скорби"
+  summary: "Гауранга покинул Надию: плачут Адвайта, Шривас, Гададхара, Васудева Датта, Мурари, Вакрешвара, Васудев и Нарахари, Рагхунандана катается в пыли, Харидас плачет с закрытыми глазами, Нитьянанда — глядя на Шачи; поэт вспоминает киртаны Надии."
+  persons: ["@vasu-ghosha", "@advaita", "@srivasa", "@gadadhara-pandita", "@vasudeva-datta", "@murari-gupta", "@vakreshvara", "@narahari-sarakara", "@raghunandana", "@haridasa-thakura", "@nityananda", "@shachi", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Антья 1; ЧЧ Мадхья 3"
+  notes: "Только ГПТ. Поэт собирает всех спутников в одну картину, не заботясь о местонахождении каждого."
+  themes: [separation]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "padas/ru/12.md", from: "16.1", to: "16.5"}
+
+- id: pad-0247
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 379–380 (№ 44) «শুনিয়া মায়ের বাণী কহে প্রভু গুণমণি»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 45.1
+  title: "Господь утешает Шачи: «Из рождения в рождение ты — Моя мать»"
+  summary: "В Шантипуре Господь утешает мать примерами матери Дхрувы, Каушальи и Яшоды, велит поклоняться Кришне и обещает приходить на её зов; просит благословения уйти в Нилачалу; Шачи молчит в слезах; поэт молит Господа вернуться в Надию."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1"
+  notes: "Только ГПТ; новая строка каталога ВГ-163. Отвечает на паду ГПТ № 43 (= ПК 2233, подпись Валлабхи Даса)."
+  themes: [family, separation, teaching]
+  bhava: [sannyasi]
+  scriptures: ["Бхаг. 4.8"]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "padas/ru/12.md", from: "17.1", to: "17.6"}
+
+- id: pad-0248
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 380 (№ 45) «নানান প্রকারে প্রভু মায়েরে সান্ত্বায়»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 45.2
+  title: "Киртан во дворе Адвайты: Шантипур стал Навадвипой"
+  summary: "Господь утешает мать, Сита увещевает Шачи; во дворе Адвайты Гаура пляшет, обнимая Нитая, Адвайта ходит следом с раскинутыми руками; Шачи внешне печальна, но в сердце блаженствует; десять дней Господь живёт у Адвайты."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi", "@sita-thakurani", "@advaita", "@nityananda"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1"
+  notes: "Только ГПТ."
+  themes: [kirtan, ecstasy, family]
+  bhava: [sannyasi]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "padas/ru/12.md", from: "18.1", to: "18.11"}
+
+- id: pad-0249
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 380–381 (№ 47) «প্রভু করুণ-স্বরে ভকত প্রবোধ করে»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 55.1
+  title: "Прощание в Шантипуре: «Через путников вы получите вести обо Мне»"
+  summary: "Господь, плача, со сложенными ладонями просит преданных о милости и позволении жить в Нилачале — вести будут приносить путники; обняв Адвайту и взяв пыль со стоп Шачи, Он уходит, и Шантипур наполняется плачем."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@advaita", "@shachi", "@vishnupriya"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1–2"
+  notes: "Только ГПТ."
+  themes: [separation, sannyasa]
+  bhava: [sannyasi]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "padas/ru/12.md", from: "19.1", to: "19.4"}
+
+- id: pad-0250
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 382 (№ 53) «অদ্বৈত-বিলাপে প্রভু হইলা বিকল»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 55.2
+  title: "Господь утешает Адвайту: «Ты сам определил ход Моей лилы»"
+  summary: "От плача Адвайты Господь в слезах говорит: Адвайта сам определил ход Его лилы; если не пойти в Нилачалу, лила расстроится и не будет проповедано имя Хари; не скорби, как обычный человек, — Я всегда с тобой. Адвайта утешается."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 3 (призыв Адвайты)"
+  notes: "Только ГПТ."
+  themes: [separation, teaching]
+  teaching: [associates-tattva, holy-name]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "padas/ru/12.md", from: "20.1", to: "20.6"}
+
+- id: pad-0251
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 383 (№ 1) «আমার নিমাই গেল রে কেমন করে প্রাণ»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 20.4
+  title: "«Ушёл мой Нимай»: Бхагаван стал санньяси ради живых существ"
+  summary: "Шачи плачет: Нимай ушёл с Бхарати, с чётками из туласи, и всякому раздаёт имя Хари; Вишнуприя бьётся в пыли; поэт утешает Шачи: Бхагаван стал санньяси, чтобы спасти живые существа."
+  persons: ["@vasu-ghosha", "@shachi", "@vishnupriya", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 17"
+  notes: "Только ГПТ."
+  themes: [separation, family, sannyasa]
+  teaching: [holy-name]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "padas/ru/12.md", from: "21.1", to: "21.3"}
+
+- id: pad-0252
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 383 (№ 2) «হেদে রে নদীয়ার চাঁদ বাছা রে নিমাই»"
+  file: "padas/ru/12.md"
+  period: P09
+  order: 45.3
+  title: "Шачи молит сына вернуться: «Тебе снова дадут священный шнур»"
+  summary: "Обняв сына и целуя Его, Шачи молит: у неё никого нет, Он бросил старую мать и Вишнуприю, плачет вся Надия; пусть вернётся петь киртан со Шривасом, Харидасом, Мурари, Мукундой и Васу — брахманы снова дадут Ему священный шнур."
+  persons: ["@vasu-ghosha", "@shachi", "@mahaprabhu", "@vishnupriya", "@srivasa", "@haridasa-thakura", "@murari-gupta", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3"
+  notes: "Только ГПТ. Место встречи не названо; по объятиям — вероятно, Шантипур."
+  themes: [family, separation]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "padas/ru/12.md", from: "22.1", to: "22.8"}
+
+- id: pad-0253
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 387–388 (№ 17) «কাঁদে দেবী বিষ্ণুপ্রিয়া নিজ অঙ্গ আছাড়িয়া»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 20.5
+  title: "Плач Вишнуприи: «Даже Рама взял с собой Джанаки»"
+  summary: "Катаясь по земле, Вишнуприя укоряет Господа: по чьему слову Он принял санньясу? Рама взял Джанаки в лес, Кришна послал гопи Уддхаву с вестью; не видя Его, она отдаст тело Ганге."
+  persons: ["@vasu-ghosha", "@vishnupriya", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ; разночтения по примечаниям ГПТ1."
+  themes: [separation, family]
+  scriptures: ["Бхаг. 10.46–47"]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "padas/ru/12.md", from: "23.1", to: "23.4"}
+
+- id: pad-0254
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 388 (№ 21) «হেদে রে পরাণ নিলজিয়া»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 20.6
+  title: "Вишнуприя корит свою «бесстыдную» жизнь"
+  summary: "Вишнуприя корит жизнь, что не покидает тела: Гауранга стал санньяси и ушёл, счастье этой жизни кончилось."
+  persons: ["@vasu-ghosha", "@vishnupriya", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ."
+  themes: [separation, family]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "padas/ru/12.md", from: "24.1", to: "24.5"}
+
+- id: pad-0255
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 389 (№ 22) «ধিক যাউ এ ছার জীবনে»"
+  file: "padas/ru/12.md"
+  period: P08
+  order: 20.7
+  title: "«Куда ушёл Гора, жизнь моей жизни?»"
+  summary: "Позор ничтожной жизни: Гора ушёл; не увидеть лица, не услышать речей; разлука осталась копьём в сердце; день и ночь — мысль о Его алых стопах, сокровище нищей; судьба отвернулась."
+  persons: ["@vasu-ghosha", "@vishnupriya", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ; говорящая не названа (по месту в разделе — Вишнуприя или Шачи); разночтения по примечаниям ГПТ1."
+  themes: [separation]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "padas/ru/12.md", from: "25.1", to: "25.7"}
+
+- id: pad-0256
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 409–410 (№ 23) «শুনিয়া ভকত-দুখ বিদরিয়া যায় বুক»"
+  file: "padas/ru/12.md"
+  period: P13
+  order: 200.05
+  title: "Господь в миг приходит в Надию: «Пусть молния ударит в санньясу!»"
+  summary: "Услышав о скорби преданных, Господь в мгновение ока приходит в Надию; Гададхара лежит без чувств; Господь восклицает: «Что Я наделал! Не пойду в Нилачалу, останусь с преданными» — и теряет сознание; Его кладут на колени Гададхаре, и оба плывут в блаженстве."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 16; ЧБ Антья 3"
+  notes: "Только ГПТ; в ГПТ стоит перед падой Васу ПК 2041 (приход преданных Надии к Господу)."
+  divergence: "Гададхара в Надии и намерение Господа остаться — расходятся с ЧЧ Мадхья 16 (Гададхара провожал Господа до Катака)."
+  themes: [separation, ecstasy]
+  bhava: [sannyasi]
+  event: ev-kuliya-shachi-meeting
+  verses:
+    - {file: "padas/ru/12.md", from: "26.1", to: "26.5"}
+
+- id: pad-0257
+  source: padas
+  ref: "Васу Гхош (?), ГПТ1 с. 341 (№ 64) «আজু রে কনকাচল নীলাচলে গোরা» (≈ ПК 1463, Говинда Дас)"
+  file: "padas/ru/12.md"
+  period: P12
+  order: 6.6
+  title: "Пхагу в Нилачале: Гора улыбается, глядя на Гададхару"
+  summary: "Гора, подобный золотой горе, забылся в игре красок вместе с Говиндой; алые от краски преданные поют; по Его телу разливаются бхавы, глаза полузакрыты; глядя на Гададхару, Он тихо улыбается."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "ПК 1463 (Говинда Дас); ПК 2290 (Мадхави Дас)"
+  notes: "Сокращённая редакция пады Говинды Даса ПК 1463 с подписью Васу; атрибуция Васу Гхошу крайне сомнительна."
+  themes: [festival, ecstasy]
+  calendar: "пхалгуна (Дола-ятра)"
+  event: ev-phagu-nilachala
+  verses:
+    - {file: "padas/ru/12.md", from: "27.1", to: "27.4"}
+
+- id: pad-0258
+  source: padas
+  ref: "Васу Гхош (?), ГПТ1 с. 306–307 (№ 25) «স্বরূপের করে ধরি বলে কাঁদি গৌরহরি»"
+  file: "padas/ru/12.md"
+  period: P14
+  order: 100.97
+  title: "В бхаве Радхи: «Идём, Сварупа, к Ганге»"
+  summary: "Держа Сварупу за руку, Господь в бхаве обманутой в ожидании Радхи плачет: ночь прошла напрасно, Шьяма не пришёл, ложе увяло; Он зовёт Сварупу к Ганге — пустить всё по воде и броситься в воду; в чьей кундже проводит ночь тёмный месяц?"
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@svarupa-damodara", "@krishna", "@radha"]
+  places: ["#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Антья 14–19"
+  notes: "Только ГПТ. По Маджумдару — не Васу: Сварупа не был спутником Господа в Навадвипе, а Ганга указывает на Навадвипу. Бхава Радхи — чистая према (сноска)."
+  divergence: "Сварупа с Господом у Ганги (то есть в Навадвипе) — анахронизм."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/12.md", from: "28.1", to: "28.4"}
+
+- id: pad-0259
+  source: padas
+  ref: "Васу Гхош (?), ГПТ1 с. 353 (№ 30) «কি আনন্দ খণ্ডপুরে ঠাকুর নরহরির ঘরে»"
+  file: "padas/ru/12.md"
+  period: P15
+  order: 88.36
+  title: "Праздник в Шрикханде у Нарахари: Гаура между двумя Прабху"
+  summary: "В доме Нарахари в Шрикханде собираются маханты, двенадцать гопалов, шестьдесят четыре маханта и шесть Госвами; Шринивас рассаживает всех, в середине — Гаурахари между Нитьянандой и Адвайтой; Рагхунандана разносит угощение, Махапрабху кормит Нитая, Нарахари и Гададхара — друг друга; Шринивас раздаёт гирлянды и сандал."
+  persons: ["@vasu-ghosha", "@narahari-sarakara", "@mahaprabhu", "@nityananda", "@advaita", "@srinivasa-acharya", "@raghunandana", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-bhatta", "@raghunatha-dasa"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: D
+  parallels: "«Према-виласа» 19; «Бхакти-ратнакара» (праздник в Кхетури)"
+  notes: "Только ГПТ. По Маджумдару — подделка: шесть Госвами никогда не покидали Вриндаван вместе; Шринивас пришёл в Шрикханду после ухода Господа. Присутствие Господа понимается как явление (авирбхава) в киртане (сноска)."
+  divergence: "Господь, Гададхара, Шринивас и шесть Госвами на одном празднике — анахронизм."
+  themes: [festival, prasada]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "padas/ru/12.md", from: "29.1", to: "29.7"}

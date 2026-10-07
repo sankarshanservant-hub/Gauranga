@@ -1435,7 +1435,8 @@
    "lcm-0035",
    "mkc-0016",
    "pvl-0041",
-   "pad-0128"
+   "pad-0128",
+   "pad-0232"
   ],
   "sources": [
    "advaita-prakasha",
@@ -1566,12 +1567,14 @@
   "entries": [
    "apr-0044",
    "lcm-0036",
-   "mkc-0018"
+   "mkc-0018",
+   "pad-0233"
   ],
   "sources": [
    "advaita-prakasha",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -2106,10 +2109,12 @@
    5
   ],
   "entries": [
-   "lcm-0048"
+   "lcm-0048",
+   "pad-0235"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "padas"
   ]
  },
  {
@@ -6520,8 +6525,13 @@
    "ccd-0036",
    "lcm-0173",
    "mkc-0131",
+   "pad-0245",
+   "pad-0251",
    "pad-0017",
-   "pad-0070"
+   "pad-0253",
+   "pad-0070",
+   "pad-0254",
+   "pad-0255"
   ],
   "sources": [
    "chaitanya-chandrodaya",
@@ -6627,8 +6637,12 @@
    "lcm-0175",
    "mkc-0128",
    "pad-0050",
+   "pad-0241",
    "pad-0071",
+   "pad-0242",
    "pad-0072",
+   "pad-0243",
+   "pad-0244",
    "lcm-0176",
    "lcm-0177",
    "lcm-0178",
@@ -6761,6 +6775,7 @@
    "mkc-0143",
    "pad-0074",
    "pad-0075",
+   "pad-0246",
    "pad-0091",
    "pad-0093",
    "pad-0172",
@@ -6875,7 +6890,10 @@
    "jcm-0066",
    "lcm-0191",
    "mkc-0145",
+   "pad-0247",
    "apr-0082",
+   "pad-0248",
+   "pad-0252",
    "apr-0083",
    "pad-0202",
    "pad-0224",
@@ -6920,6 +6938,8 @@
    "ccd-0042",
    "lcm-0193",
    "mkc-0146",
+   "pad-0249",
+   "pad-0250",
    "pad-0019",
    "pad-0203",
    "lcm-0194",
@@ -11172,6 +11192,7 @@
    "jcm-0086",
    "lcm-0246",
    "mkc-0226",
+   "pad-0256",
    "pad-0023",
    "pad-0077",
    "pad-0230",
@@ -12001,6 +12022,7 @@
    "pad-0041",
    "pad-0055",
    "pad-0056",
+   "pad-0258",
    "pad-0057",
    "pad-0058"
   ],
@@ -14484,9 +14506,11 @@
    48
   ],
   "entries": [
-   "pvl-0147"
+   "pvl-0147",
+   "pad-0259"
   ],
   "sources": [
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -16529,7 +16553,8 @@
   "entries": [
    "pad-0064",
    "pad-0065",
-   "pad-0116"
+   "pad-0116",
+   "pad-0238"
   ],
   "sources": [
    "padas"
@@ -16624,7 +16649,99 @@
    28
   ],
   "entries": [
-   "pad-0121"
+   "pad-0121",
+   "pad-0257"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nimai-first-steps",
+  "title": "Первые шаги Нимая",
+  "title_en": "Nimai's first steps",
+  "period": "P02",
+  "order": 30,
+  "cc": "",
+  "cb": "Ади 4",
+  "themes": [
+   "family",
+   "pranks"
+  ],
+  "notes": "Известно по паде с подписью Васу Гхоша (ГПТ): малыш держится за палец матери, падает, катается в пыли.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "pad-0234"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-gaura-morning-navadvipa",
+  "title": "Утро Господа в Навадвипе: пробуждение и путь к Ганге",
+  "title_en": "The Lord's morning in Navadvipa: awakening and going to the Ganga",
+  "period": "P07",
+  "order": 134.6,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Известно по падам аштакалии в ГПТ (Васу Гхош и др.).",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0236",
+   "pad-0237"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-vishnupriya-omens",
+  "title": "Дурные предзнаменования Вишнуприи накануне санньясы",
+  "title_en": "Vishnupriya's ill omens on the eve of the sannyasa",
+  "period": "P07",
+  "order": 152,
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Накануне ухода Господа из Навадвипы (санньяса в начале 1510 г.)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "notes": "Вишнуприя замечает дурные знаки (упавшее в Гангу кольцо из носа, подёргивание правого глаза) и говорит о них подруге и Шачи. Известно по падам с подписью Васу Гхоша (ГПТ).",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "pad-0239",
+   "pad-0240"
   ],
   "sources": [
    "padas"
