@@ -18,18 +18,6 @@ META = {
 
 ---
 
-## От переводчика
-
-«Шри Чайтанья-мангала» — бенгальская песенная поэма Лочана Даса, ученика Нарахари Саркара Тхакура из Шрикханды,
-написанная в 1560-е годы. Она следует санскритской «Кадаче» Мурари Гупты, дополняя её преданиями школы Шрикханды,
-и делится на четыре кханды: Сутра, Ади, Мадхья и Шеша. Перевод сделан по изданию Шрилы Бхактисиддханты Сарасвати
-(1922); испорченные места текста восстановлены по изданию 1983 г. (Вриндаван) и 1903 г. Нумерация двустиший — как в
-издании Бхактисиддханты. Его прозаические изложения содержания разделов переведены и даны курсивом в начале разделов.
-Текст Лочана Даса передан без поправок; где он расходится с позднейшим гаудия-вайшнавским богословием, это оговорено
-в примечаниях.
-
----
-
 ## Оглавление
 
 """),
@@ -41,18 +29,6 @@ META = {
 *Following the edition of Srila Bhaktisiddhanta Sarasvati (Sri Chaitanya Math, 1922)*
 
 *Translated from the Bengali*
-
----
-
-## Translator's note
-
-*Sri Chaitanya-mangala* is a Bengali song-poem by Lochana Dasa, a disciple of Narahari Sarakara Thakura of
-Shrikhanda, composed in the 1560s. It follows Murari Gupta's Sanskrit *Kadacha*, enlarging it with the traditions of
-the Shrikhanda school, and is divided into four khandas: Sutra, Adi, Madhya and Shesha. The translation follows the
-edition of Srila Bhaktisiddhanta Sarasvati (1922); corrupt places have been restored from the editions of 1983
-(Vrindavana) and 1903. The couplets are numbered as in Bhaktisiddhanta's edition. His prose summaries of the sections
-are translated and given in italics at the head of the sections. Lochana Dasa's text is rendered without correction;
-where it differs from later Gaudiya Vaishnava theology, this is noted in the footnotes.
 
 ---
 
