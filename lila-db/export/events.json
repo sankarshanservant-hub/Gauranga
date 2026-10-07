@@ -13681,6 +13681,38 @@
   ]
  },
  {
+  "id": "ev-srinivasa-mother-departure",
+  "title": "Кончина матери Шринивасы",
+  "title_en": "The passing of Srinivasa's mother",
+  "period": "P15",
+  "order": 95.9,
+  "calendar": "магха",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "departure",
+   "festival"
+  ],
+  "notes": "«Према-виласа», виласа 17: поминальный праздник в Яджиграме.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0120"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
   "id": "ev-srinivasa-marriage",
   "title": "Женитьба Шринивасы; огорчение Гопалы Бхатты",
   "title_en": "Srinivasa's marriage; Gopala Bhatta's displeasure",
@@ -13704,7 +13736,172 @@
    48
   ],
   "entries": [
-   "pvl-0114"
+   "pvl-0114",
+   "pvl-0121"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-vrindavana-messengers-gauda",
+  "title": "Посланцы Госвами из Вриндавана у Нароттамы, Шринивасы и Шьямананды",
+  "title_en": "Messengers of the Gosvamis from Vrindavana visit Narottama, Srinivasa and Shyamananda",
+  "period": "P15",
+  "order": 97,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "prasada"
+  ],
+  "notes": "«Према-виласа», виласа 17: Кришнадас (ученик Пуджари Тхакура) и Рамадас (ученик Бхугарбхи).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0116",
+   "pvl-0117",
+   "pvl-0118",
+   "pvl-0119"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-gati-govinda-birth",
+  "title": "Вирачандра благословляет жену Шринивасы; рождение и посвящение Гати-Говинды",
+  "title_en": "Virachandra blesses Srinivasa's wife; the birth and initiation of Gati-Govinda",
+  "period": "P15",
+  "order": 97.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "mercy"
+  ],
+  "notes": "«Према-виласа», виласа 17.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0122"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-narottama-bhajana-kheturi",
+  "title": "Служение и бхаджан Нароттамы в Кхетури; дружба с Рамачандрой",
+  "title_en": "Narottama's service and bhajana at Kheturi; his friendship with Ramachandra",
+  "period": "P15",
+  "order": 98,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "festival",
+   "prasada"
+  ],
+  "notes": "«Према-виласа», виласа 17: шесть Божеств Кхетури, распорядок дня.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0123",
+   "pvl-0124"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-ganganarayana-conversion",
+  "title": "Обращение Ганганараяны Чакраварти и Харичандры Рая",
+  "title_en": "The conversion of Ganganarayana Chakravarti and Harichandra Raya",
+  "period": "P15",
+  "order": 99,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "teaching": [
+   "purity",
+   "bhakti-supremacy"
+  ],
+  "notes": "«Према-виласа», виласа 17.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0125"
+  ],
+  "sources": [
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-prema-bhakti-chandrika",
+  "title": "Наставления Нароттамы и Рамачандры о вайдхи и раге; «Према-бхакти-чандрика»",
+  "title_en": "Narottama's and Ramachandra's teachings on vaidhi and raga; the Prema-bhakti-chandrika",
+  "period": "P15",
+  "order": 99.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "prema",
+   "holy-name",
+   "vaishnava"
+  ],
+  "notes": "«Према-виласа», виласа 17.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "pvl-0126",
+   "pvl-0127"
   ],
   "sources": [
    "prema-vilasa"

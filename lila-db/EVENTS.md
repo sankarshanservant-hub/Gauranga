@@ -2347,9 +2347,39 @@
 
 - prema-vilasa (C): Виласа 16, 146–158 — [146–158](../prema-vilasa/ru/16.md?plain=1#L440-L476) · `pvl-0109`
 
+## Кончина матери Шринивасы / The passing of Srinivasa's mother  `ev-srinivasa-mother-departure` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 145–155 — [145–155](../prema-vilasa/ru/17.md?plain=1#L437-L467) · `pvl-0120`
+
 ## Женитьба Шринивасы; огорчение Гопалы Бхатты / Srinivasa's marriage; Gopala Bhatta's displeasure  `ev-srinivasa-marriage` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 16, 301–343 — [301–343](../prema-vilasa/ru/16.md?plain=1#L905-L1031) · `pvl-0114`
+- prema-vilasa (C): Виласа 17, 156–174 — [156–174](../prema-vilasa/ru/17.md?plain=1#L470-L524) · `pvl-0121`
+
+## Посланцы Госвами из Вриндавана у Нароттамы, Шринивасы и Шьямананды / Messengers of the Gosvamis from Vrindavana visit Narottama, Srinivasa and Shyamananda  `ev-vrindavana-messengers-gauda` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 9–46 — [9–46](../prema-vilasa/ru/17.md?plain=1#L29-L140) · `pvl-0116`
+- prema-vilasa (C): Виласа 17, 47–99 — [47–99](../prema-vilasa/ru/17.md?plain=1#L143-L299) · `pvl-0117`
+- prema-vilasa (C): Виласа 17, 100–116 — [100–116](../prema-vilasa/ru/17.md?plain=1#L302-L350) · `pvl-0118`
+- prema-vilasa (C): Виласа 17, 117–144 — [117–144](../prema-vilasa/ru/17.md?plain=1#L353-L434) · `pvl-0119`
+
+## Вирачандра благословляет жену Шринивасы; рождение и посвящение Гати-Говинды / Virachandra blesses Srinivasa's wife; the birth and initiation of Gati-Govinda  `ev-gati-govinda-birth` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 175–233 — [175–233](../prema-vilasa/ru/17.md?plain=1#L527-L701) · `pvl-0122`
+
+## Служение и бхаджан Нароттамы в Кхетури; дружба с Рамачандрой / Narottama's service and bhajana at Kheturi; his friendship with Ramachandra  `ev-narottama-bhajana-kheturi` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 234–258 — [234–258](../prema-vilasa/ru/17.md?plain=1#L704-L776) · `pvl-0123`
+- prema-vilasa (C): Виласа 17, 259–309 — [259–309](../prema-vilasa/ru/17.md?plain=1#L779-L929) · `pvl-0124`
+
+## Обращение Ганганараяны Чакраварти и Харичандры Рая / The conversion of Ganganarayana Chakravarti and Harichandra Raya  `ev-ganganarayana-conversion` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 310–367 — [310–367](../prema-vilasa/ru/17.md?plain=1#L932-L1109) · `pvl-0125`
+
+## Наставления Нароттамы и Рамачандры о вайдхи и раге; «Према-бхакти-чандрика» / Narottama's and Ramachandra's teachings on vaidhi and raga; the Prema-bhakti-chandrika  `ev-prema-bhakti-chandrika` (1533–1534, возраст 47–48, оценка)
+
+- prema-vilasa (C): Виласа 17, 368–413 — [368–413](../prema-vilasa/ru/17.md?plain=1#L1112-L1252) · `pvl-0126`
+- prema-vilasa (C): Виласа 17, 414–468 — [414–468](../prema-vilasa/ru/17.md?plain=1#L1255-L1423) · `pvl-0127`
 
 ## Истина о Нитьянанде и Адвайте / The truth about Nityananda and Advaita  `ev-tattva-nityananda-advaita`
 
