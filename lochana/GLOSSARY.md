@@ -292,3 +292,24 @@
 | দ্বাদশ-আদিত্য-ঘাট, কালীয়দমন | гхат Двенадцати Адитьев, Калия-дамана | the ghata of the Twelve Adityas, Kaliya-damana |
 | পাঁচনী, ঈষীকা-মুঞ্জাটবী | пастуший посох (панчани), заросли тростника ишика и мунджа | cowherd's stick (panchani), thickets of ishika and munja reeds |
 | কালী, ধবলী (коровы) | Кали, Дхавали | Kali, Dhavali |
+| গোপকুমারিকা | пастушки (дочери пастухов) | cowherd maidens |
+| নন্দীশ্বর, মানসগঙ্গা, অন্নকূট | Нандишвара, Манаса-Ганга, Аннакута | Nandishvara, the Manasa-Ganga, the Annakuta |
+| দান, দানচৌতারা | пошлина (дана-лила), помост сборщика пошлины | toll (dana-lila), the toll-collector's platform |
+| হরিরায়, গোপালরায়, গোবিন্দরায় | Харирай, Гопалрай, Говиндарай (Божества) | Hariraya, Gopalaraya, Govindaraya (Deities) |
+| ব্রহ্মকুণ্ড, রুদ্রকুণ্ড, ইন্দ্রকুণ্ড, সূর্যকুণ্ড, মোক্ষকুণ্ড | Брахма-кунда, Рудра-кунда, Индра-кунда, Сурья-кунда, Мокша-кунда | the Brahma-kunda, Rudra-kunda, Indra-kunda, Surya-kunda, Moksha-kunda |
+| কুসুমবন, রাসমণ্ডল, অশোকবন | Кусума-вана, круг раса, роща ашок | Kusuma-vana, the rasa circle, the ashoka grove |
+| রাধা-কদম্ব | Радха-кадамба | the Radha-kadamba |
+| রবাব, উপাঙ্গ, স্বরমণ্ডল, মন্দিরা, ডম্ফ, পাখোয়াজ | рабаб, упанга, сварамандала, мандира, дампха, пакхавадж | rabab, upanga, svaramandala, mandira, dampha, pakhavaj |
+| কোন্দলিয়া, অম্বিকাবন, পিছলি পাথর, পাবন-সরোবর | Кондалия, лес Амбики (Амбика-вана), скользкий камень, Павана-саровара | Kondaliya, the forest of Ambika (Ambika-vana), the sliding stone, the Pavana-sarovara |
+| সুদর্শন (বিদ্যাধর), শঙ্খচূড়, অরিষ্ট, কেশী, ব্যোম | видьядхара Сударшана, Шанкхачуда, Аришта, Кеши, Вьома | the vidyadhara Sudarshana, Shankhachuda, Arishta, Keshi, Vyoma |
+| দুর্মুখ (রজক), সুদামা (মালী), কুব্জা, ত্রিবক্রা | прачка Дурмукха, цветочник Судама, Кубджа, трижды согбенная | Durmukha the washerman, Sudama the garland-maker, Kubja, the thrice-bent |
+| চাণুর, মুষ্টিক, শাল, কঙ্ক | Чанура, Муштика, Шала, Канка | Chanura, Mushtika, Shala, Kanka |
+| বিশ্রান্তিঘাট, কংসখালি | Вишранти-гхат, Камса-кхали | the Vishranti-ghata, Kamsa-khali |
+| ভাটিয়ালী, বিভাস, শ্যামগড়া, ললিত (রাগ) | бхатияли, вибхаса, шьямагада, лалита | bhatiyali, vibhasa, shyamagada, lalita |
+| ঘোল | пахта | buttermilk |
+| বারকোণা-ঘাট | Баракона-гхат | the Barakona-ghata |
+| কুলিয়া | Кулия | Kulia |
+| পড়িছা | падичха (управитель храма) | padichha (temple superintendent) |
+| কাশীমিশ্র | Каши Мишра | Kashi Mishra |
+| গোবিন্দ (সেবক) | Говинда (слуга Господа) | Govinda (the Lord's servant) |
+| ষড়ভুজ | шестирукий облик (шадбхуджа) | the six-armed form (shadbhuja) |
