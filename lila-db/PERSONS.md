@@ -15,6 +15,7 @@
 | @jagannatha-deity | Джаганнатха (Божество в Пури) | Jagannatha (Deity of Puri) | |
 | @nrisimha | Нрисимха (Нарасимха) | Nrisimha (Narasimha) | аватара Человеко-льва; бхава Нрисимхи у Гауры |
 | @varaha | Вараха (Вепрь) | Varaha (the Boar) | аватара; бхава Варахи у Гауры |
+| @gopala-remuna | Гопала (Гопинатха) в Ремуне | Gopala (Gopinatha) of Remuna | Божество; позднее известен как Кширачора-Гопинатха |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -90,3 +91,4 @@
 | @indra | Индра | Indra | царь небожителей |
 | @uttanapada | Уттанапада | Uttanapada | царь, отец Дхрувы; в повести о Дхруве |
 | @suniti | Сунити | Suniti | мать Дхрувы; в повести о Дхруве |
+| @viraja-devi | Вираджа (богиня в Яджапуре) | Viraja (the goddess at Yajapura) | |

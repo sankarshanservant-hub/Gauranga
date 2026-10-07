@@ -233,3 +233,25 @@
 | মকর, কুম্ভ (সংক্রান্তি) | Макара (Козерог), Кумбха (Водолей) | Makara (Capricorn), Kumbha (Aquarius) |
 | রাসবিনোদিয়া | Услада танца раса (раса-винодия) | He who delights in the rasa dance (rasa-vinodiya) |
 | নটবর-শেখর | венец лучших плясунов (натавара-шекхара) | crest-jewel of dancers (natavara-shekhara) |
+| দোল (যাত্রা) | праздник Дола (Дола-ятра) | the Dola festival (Dola-yatra) |
+| দানী, দানীশ্বর | сборщик пошлины, начальник сборщиков | toll-collector, chief of the toll-collectors |
+| তমোলুক | Тамолук (Тамлук) | Tamoluk (Tamluk) |
+| রেমুণা, গোপাল (Ремуна) | Ремуна, Гопала | Remuna, Gopala |
+| বৈতরণী, বরাহ-ঠাকুর, যাজপুর | Вайтарани, Господь Вараха, Яджапур | the Vaitarani, Lord Varaha, Yajapura |
+| বিরজা, নাভিগয়া | Вираджа, Набхи-гая | Viraja, Nabhi-gaya |
+| একাম্র (নগর), শিবপুরী | Экамра (Бхуванешвара), город Шивы | Ekamra (Bhubaneshvara), the town of Shiva |
+| (মহা)বিন্দু-সরোবর, ত্রিলোচন, বিশ্বেশ্বর | (Маха-)Бинду-саровара, Трилочана, Вишвешвара | the (Maha-)Bindu-sarovara, Trilochana, Vishveshvara |
+| শান্তিশতক | «Шанти-шатака» | the Shanti-shataka |
+| নির্মাল্য | остатки подношений (нирмалья) | remnants of offerings (nirmalya) |
+| ভৃগু, ব্রহ্মণ্যদেব | Бхригу, Брахманья-дева | Bhrigu, Brahmanya-deva |
+| পানা | пана (сладкий напиток) | pana (a sweet drink) |
+| সন্দেশ | сандеш (бенгальская сладость) | sandesh (a Bengali sweet) |
+| কপোতেশ্বর, ভার্গবী (নদী) | Капотешвара, Бхаргави | Kapoteshvara, the Bhargavi |
+| মার্কণ্ডেয়-সরঃ, যজ্ঞেশ্বর | пруд Маркандеи, Яджнешвара | the lake of Markandeya, Yajneshvara |
+| সিংহদ্বার, নাটমন্দির, গরুড় (স্তম্ভ) | Львиные ворота, Ната-мандир, [колонна] Гаруды | the Lion Gate, the Nata-mandira, [the pillar of] Garuda |
+| পাণ্ডা | панда (храмовый жрец) | panda (temple priest) |
+| অচল-ব্রহ্ম, সচল-মূরতি | неподвижный Брахман (Джаганнатха), движущийся образ (Гаура) | the unmoving Brahman (Jagannatha), the moving form (Gaura) |
+| টোটা | сад (тота) | garden (tota) |
+| সরস্বতী-কান্ত | Владыка Сарасвати | the Lord of Sarasvati |
+| চৈতন্য-সহস্রনাম | «Тысяча имён Чайтаньи» | the "Thousand Names of Chaitanya" |
+| ব্রহ্মসংহিতা, বরাহসংহিতা, গৌতমীয়তন্ত্র, সনৎকুমারসংহিতা | «Брахма-самхита», «Вараха-самхита», «Гаутамия-тантра», «Санаткумара-самхита» | Brahma-samhita, Varaha-samhita, Gautamiya-tantra, Sanatkumara-samhita |
