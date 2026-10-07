@@ -5391,3 +5391,40 @@
   cb: ""
   themes: [festival, kirtan, ecstasy]
   notes: "Преданные раскачивают Господа на качелях, горожане сбегаются на киртан; известно по падам (Васу Гхош, Нарахари, Уддхава Дас)."
+
+- id: ev-nauka-vilasa-navadvipa
+  title: "Игра в лодке на Ганге (Навадвипа)"
+  title_en: "The boat play on the Ganga (Navadvipa)"
+  period: P07
+  order: 134.87
+  date_conf: оценка
+  date_basis: "без датировки; навадвипский период"
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, ecstasy]
+  notes: "Господь, став юным лодочником, играет с Гададхарой и спутниками в лодке посреди Ганги, вспоминая игру Кришны в лодке на Ямуне; народ Надии смотрит с обоих берегов. Известно по паде Рамананды (ПК 1417)."
+
+- id: ev-nityananda-dance-shrivasa-courtyard
+  title: "Танец Нитьянанды во дворе Шривасы"
+  title_en: "Nityananda's dance in Shrivasa's courtyard"
+  period: P07
+  order: 116
+  date_conf: оценка
+  date_basis: "навадвипский период (после прихода Нитьянанды)"
+  cc: ""
+  cb: ""
+  themes: [kirtan, ecstasy]
+  notes: "Нитьянанда, опьянённый любовью к Гауранге, пляшет в облике борца во дворе Шривасы; Адвайта, Шривас, Мукунда, Гададхара, Абхирама. Известно по паде, которую КГЧ приписывает Шанкаре Гхошу, а ГПТ — Вриндавану Дасу (о танце Гауранги)."
+
+- id: ev-phagu-nilachala
+  title: "Праздник красок (пхагу) Господа со спутниками в Нилачале"
+  title_en: "The Lord's festival of colours (phagu) with His companions in Nilachala"
+  period: P12
+  order: 6.5
+  date_conf: оценка
+  date_basis: "без датировки; пурийский период"
+  calendar: "пхалгуна (Дола-ятра)"
+  cc: ""
+  cb: ""
+  themes: [festival, kirtan]
+  notes: "Господь пляшет с преданными, осыпая их цветным порошком; жители Пури сбегаются смотреть. Известно по паде Мадхави Даса (ПК 2290)."

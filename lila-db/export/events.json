@@ -4288,12 +4288,17 @@
   "entries": [
    "lcm-0110",
    "mkc-0076",
+   "pad-0099",
+   "pad-0108",
+   "pad-0109",
+   "pad-0110",
    "lcm-0121",
    "mkc-0087"
   ],
   "sources": [
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6767,11 +6772,13 @@
   ],
   "entries": [
    "lcm-0190",
-   "mkc-0144"
+   "mkc-0144",
+   "pad-0118"
   ],
   "sources": [
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -15802,6 +15809,8 @@
    "pad-0045",
    "pad-0046",
    "pad-0047",
+   "pad-0112",
+   "pad-0113",
    "pad-0063",
    "pad-0088",
    "pad-0089"
@@ -15837,6 +15846,7 @@
    23
   ],
   "entries": [
+   "pad-0111",
    "pad-0009",
    "pad-0010",
    "pad-0007"
@@ -15874,7 +15884,8 @@
   "entries": [
    "pad-0011",
    "pad-0012",
-   "pad-0066"
+   "pad-0066",
+   "pad-0114"
   ],
   "sources": [
    "padas"
@@ -15937,7 +15948,8 @@
    23
   ],
   "entries": [
-   "pad-0082"
+   "pad-0082",
+   "pad-0107"
   ],
   "sources": [
    "padas"
@@ -16263,6 +16275,7 @@
    47
   ],
   "entries": [
+   "pad-0119",
    "pad-0025"
   ],
   "sources": [
@@ -16295,6 +16308,7 @@
   "entries": [
    "pad-0030",
    "pad-0031",
+   "pad-0120",
    "pad-0076"
   ],
   "sources": [
@@ -16357,7 +16371,11 @@
   ],
   "entries": [
    "pad-0061",
-   "pad-0062"
+   "pad-0062",
+   "pad-0103",
+   "pad-0104",
+   "pad-0105",
+   "pad-0106"
   ],
   "sources": [
    "padas"
@@ -16390,7 +16408,102 @@
   ],
   "entries": [
    "pad-0064",
-   "pad-0065"
+   "pad-0065",
+   "pad-0116"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nauka-vilasa-navadvipa",
+  "title": "Игра в лодке на Ганге (Навадвипа)",
+  "title_en": "The boat play on the Ganga (Navadvipa)",
+  "period": "P07",
+  "order": 134.87,
+  "date_conf": "оценка",
+  "date_basis": "без датировки; навадвипский период",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "notes": "Господь, став юным лодочником, играет с Гададхарой и спутниками в лодке посреди Ганги, вспоминая игру Кришны в лодке на Ямуне; народ Надии смотрит с обоих берегов. Известно по паде Рамананды (ПК 1417).",
+  "years": [
+   1509,
+   1510
+  ],
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0115"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nityananda-dance-shrivasa-courtyard",
+  "title": "Танец Нитьянанды во дворе Шривасы",
+  "title_en": "Nityananda's dance in Shrivasa's courtyard",
+  "period": "P07",
+  "order": 116,
+  "date_conf": "оценка",
+  "date_basis": "навадвипский период (после прихода Нитьянанды)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "Нитьянанда, опьянённый любовью к Гауранге, пляшет в облике борца во дворе Шривасы; Адвайта, Шривас, Мукунда, Гададхара, Абхирама. Известно по паде, которую КГЧ приписывает Шанкаре Гхошу, а ГПТ — Вриндавану Дасу (о танце Гауранги).",
+  "years": [
+   1509,
+   1510
+  ],
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0117"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-phagu-nilachala",
+  "title": "Праздник красок (пхагу) Господа со спутниками в Нилачале",
+  "title_en": "The Lord's festival of colours (phagu) with His companions in Nilachala",
+  "period": "P12",
+  "order": 6.5,
+  "date_conf": "оценка",
+  "date_basis": "без датировки; пурийский период",
+  "calendar": "пхалгуна (Дола-ятра)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "kirtan"
+  ],
+  "notes": "Господь пляшет с преданными, осыпая их цветным порошком; жители Пури сбегаются смотреть. Известно по паде Мадхави Даса (ПК 2290).",
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "pad-0121"
   ],
   "sources": [
    "padas"

@@ -2127,3 +2127,505 @@
   date_basis: "Маджумдар: стути Нитьянанде Кану Тхакура (ветвь Нитьянанды)"
   verses:
     - {file: "padas/ru/05.md", from: "20.1", to: "20.4"}
+
+# --- Порция 06 (padas/ru/06.md) ---
+
+- id: pad-0099
+  source: padas
+  ref: "Васу Рамананда, БР (с. 952) = КГЧ (29-я кшанада, № 1) «চৌদিগে গোবিন্দধ্বনি শুনি পহুঁ হাসে»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 80.5
+  title: "«Со всех сторон — „Говинда!“»: киртан Гауры и Нитьянанды"
+  summary: "Со всех сторон звучит «Говинда!»; Господь смеётся, дрожащими устами говорит, запинаясь, и пляшет вместе с Нитьянандой; поют Говинда, Мадхава, Васу и Мукунда; обретя Своих, Господь забывается во вкусе киртана, а поэт жадно пьёт нектар, как чакора."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@nityananda", "@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha", "@mukunda-datta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Мадхья 8, 23"
+  notes: "Вторая редакция (КГЧ, ГПТ) иная в середине: поёт Рамананда, Господь зовёт Мукунду, Мурари и Васу. Маджумдар выводит из порядка имён старшинство Говинды Гхоша."
+  themes: [kirtan, ecstasy]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца навадвипского киртана (1509)"
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/06.md", from: "1.1", to: "1.4"}
+
+- id: pad-0100
+  source: padas
+  ref: "Нарахари, ПК 2288 «অনুপাম গোরা-অবতার»"
+  file: "padas/ru/06.md"
+  period: PX
+  order: 7.96
+  title: "Хвала Гаура-аватаре: имя Хари в век Кали"
+  summary: "Несравненный Гора распространил вкус девятеричной бхакти, не разбирая каст; с сострадательными глазами Он раздал имя Хари, и люди Кали-юги, сколько ни грешат, переправляются, взяв имя, — то, чего в иные юги достигали великим трудом."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 3, 7; Бхаг. 12.3.52"
+  notes: "Атрибуция Саркару не доказана (возможно, Нарахари Чакраварти); Маджумдар паду не разбирает."
+  themes: [author, mercy]
+  teaching: [holy-name, yuga-dharma]
+  verses:
+    - {file: "padas/ru/06.md", from: "2.1", to: "2.5"}
+
+- id: pad-0101
+  source: padas
+  ref: "Без подписи в ПК (ГПТ — Нарахари Дас), ПК 2344 «পাসরা না যায় আমার গোরাচাঁদের লীলা»"
+  file: "padas/ru/06.md"
+  period: PX
+  order: 7.97
+  title: "«Не забыть мне лил Горачанды»"
+  summary: "От достоинств Горачанды плачут звери и птицы и тают камни; имя, ради которого Шива стал йогом и которое недоступно Брахме, Господь Сам раздал трём мирам; Нитьянанда (в ГПТ — поэт) забывается в блаженстве, видя Его золотое сияние."
+  persons: ["@mahaprabhu", "@nityananda", "@shiva", "@brahma"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "В ПК подписи нет; в ГПТ1/ГПТ2 последняя строка с подписью Нарахари Даса."
+  themes: [author, mercy]
+  teaching: [holy-name]
+  verses:
+    - {file: "padas/ru/06.md", from: "3.1", to: "3.3"}
+
+- id: pad-0102
+  source: padas
+  ref: "Йадунатх Дас, ПК 2191 = ГПТ1 с. 35 (№ 27) «অপরূপ চাঁদ উদয় নদিয়াপুরে»"
+  file: "padas/ru/06.md"
+  period: PX
+  order: 7.98
+  title: "Дивная Луна взошла в Надии"
+  summary: "В Надии взошла дивная Луна — Гауранга: тьма ушла из трёх миров, скорбь живых существ уничтожена даром премы; Господь, воспеваемый Шешей, Шивой, Нарадой и Брахмой, слыша о Своих достоинствах, катается по земле, и из Его глаз льётся нектар премы."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@narada", "@shiva", "@brahma"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: B
+  parallels: ""
+  notes: "По Б. Б. Маджумдару (1961), Йадунатх Кавичандра — современник Господа."
+  themes: [author, ecstasy]
+  teaching: [prema]
+  verses:
+    - {file: "padas/ru/06.md", from: "4.1", to: "4.4"}
+
+- id: pad-0103
+  source: padas
+  ref: "Шанкара Гхош, КГЧ (24-я кшанада, № 1) «দেখ দেখ সুন্দর শচী-নন্দনা»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 133.53
+  title: "Облик Сына Шачи, поющего «Хари, Хари» в Навадвипе"
+  summary: "Руки Сына Шачи — до колен, поступь — как у опьянённого слона, на теле колышется гирлянда мальати, лик прекраснее осенней луны, глаза полны слёз блаженства; со спутниками Он непрестанно играет и поёт «Хари, Хари» посреди Навадвипы."
+  persons: ["@shankara-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: ""
+  notes: "Единственный свидетель — КГЧ; Шанкара Гхош — мридангист, спутник Господа (Б. Б. Маджумдар, 1961)."
+  themes: [author, kirtan]
+  date_conf: оценка
+  date_basis: "Б. Б. Маджумдар (1961): Шанкара Гхош — поэт-современник навадвипского периода"
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "5.1", to: "5.5"}
+
+- id: pad-0104
+  source: padas
+  ref: "Васудева Датта (КГЧ, 22-я кшанада, № 1) = Говинда Дас (ПК 2925) «অপরূপ গোরা নটরাজ»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 133.54
+  title: "Гора — царь танца в Навадвипе"
+  summary: "Дивный Гора, царь танца, резвится в Навадвипе: вьющиеся благоуханные кудри, сандаловая тилака, руки прекраснее хобота слона, ожерелье на груди, как Ганга на склоне Сумеру; алые стопы с ногтями-лунами, вокруг которых, как пчёлы, теряют голову преданные."
+  persons: ["@vasudeva-datta", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Атрибуция спорна: КГЧ — Васудева Датта, ПК и ГПТ — Говинда Дас (Б. Б. Маджумдар предпочитает КГЧ). Строка о целомудренных жёнах — образ неотразимости красоты Господа, не нагари-бхава (сноска)."
+  themes: [author]
+  date_conf: оценка
+  date_basis: "Б. Б. Маджумдар (1961): единственная пада Васудевы Датты, современника"
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "6.1", to: "6.4"}
+
+- id: pad-0105
+  source: padas
+  ref: "Рамананда, ПК 2162 = ГПТ1 с. 124 (№ 40) и с. 137 (№ 76) «দেখ দেখ অদভুত সুন্দর শচিসুত»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 133.55
+  title: "Сын Шачи, поющий «Хари, Хари», и слёзы, как жемчуг"
+  summary: "Тело Сына Шачи, трепещущее от премы, ярче золотых лучей, уста поют «Хари, Хари», кудри вьются над каплями сандала, из глаз текут слёзы, как жемчуг с ослабевшей нити; Он погрузил мир в океан пения Своих имён, лишь поэт считает себя обделённым."
+  persons: ["@ramananda-vasu", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Подпись «Рамананда» без «Васу»: атрибуция Васу Рамананде не доказана."
+  themes: [author, ecstasy]
+  date_conf: оценка
+  date_basis: "без датировки; поэт, по-видимому, современник (если Васу Рамананда)"
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "7.1", to: "7.4"}
+
+- id: pad-0106
+  source: padas
+  ref: "Рамананда, ПК 2163 = ГПТ1 с. 124 (№ 41) «দেখত বেকত গৌর অদভুত»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 133.56
+  title: "Гаура на берегу Ганги вспоминает лилы Враджа"
+  summary: "Золотой Гаура, озаряющий берег Ганги, вспоминает достоинства лил Враджа и не может устоять: тело в мурашках, льются слёзы; опьянённый пением преданных, Он искусно пляшет и восклицает «Харибол»; поэт молит Очистителя падших переправить его."
+  persons: ["@ramananda-vasu", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Подпись «Рамананда»; в каталоге этапа 1 вторая копия ГПТ2 (3.1 № 77) была ошибочно приписана Парамананде."
+  themes: [ecstasy, kirtan, krishna-lila]
+  date_conf: оценка
+  date_basis: "без датировки"
+  event: ev-gaura-beauty-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "8.1", to: "8.4"}
+
+- id: pad-0107
+  source: padas
+  ref: "Вамши(вадана), ПК 26 = ГПТ1 с. 247 (№ 30) «জয় জয় নবদ্বীপ মাঝ»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.56
+  title: "Кхол-мангала в доме Адвайты накануне праздника киртана"
+  summary: "По велению Гауранги Адвайта готовит освящение мриданги (кхол-мангалу) и адхивасу великого праздника: Нитай раздаёт вайшнавам гирлянды и сандал, Говинда играет на мриданге, Адвайта — на караталах, Харидас поёт, Шривас держит напев, Гора пляшет; завтра — праздник киртана."
+  persons: ["@vamshivadana", "@mahaprabhu", "@advaita", "@nityananda", "@haridasa-thakura", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ПК 23 (Парамешвара Дас)"
+  notes: "Подпись «Вамши»; Маджумдар относит её к Вамшивадане, отличая от Вамшидаса. Говинда — вероятно, Говинда Гхош или Говинда Датта."
+  themes: [kirtan, festival]
+  date_conf: оценка
+  date_basis: "навадвипский период (1509)"
+  event: ev-kirtan-festival-advaita-house
+  verses:
+    - {file: "padas/ru/06.md", from: "9.1", to: "9.4"}
+
+- id: pad-0108
+  source: padas
+  ref: "Чайтаньядас, ПК 664 = БР (с. 951) «মহাভুজ নাচত চৈতন্য রায়»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 80.6
+  title: "Длиннорукий Чайтанья пляшет, слыша Свои имена"
+  summary: "Золотое тело пляшущего Чайтаньи полно бесчисленных бхав; слыша киртан Своих имён и достоинств, Он забывается в танце, люди Надии забыли горе и плывут на волнах премы; дождь премы оросил весь мир, и лишь поэт считает себя обделённым."
+  persons: ["@chaitanya-dasa-poet", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "БР, тар. 12"
+  notes: "Нарахари Чакраварти приводит паду в БР как свидетельство; в рук. П-Р — подпись Васу Гхоша."
+  themes: [kirtan, ecstasy]
+  date_conf: оценка
+  date_basis: "навадвипский киртан (БР); Маджумдар: Чайтаньядас — вероятно, современник"
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/06.md", from: "10.1", to: "10.4"}
+
+- id: pad-0109
+  source: padas
+  ref: "Нарахари, ПК 2097 = ГПТ1 с. 256–257 (№ 26) «নাচে শচীসুত লীলা অদভুত»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 80.7
+  title: "Сын Шачи пляшет, опираясь на Гададхару"
+  summary: "Сын Шачи пляшет, опираясь на Гададхару; подняв руки, восклицает «Хари, Хари», опьянённый Своим вкусом; из алых глаз день и ночь льются слёзы; всем — хромым, слепым, падшим — Он раздал прему, упрашивая принять её."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 4"
+  notes: "Атрибуция Саркару вероятна, но не доказана; Маджумдар паду не разбирает."
+  themes: [kirtan, ecstasy, mercy]
+  date_conf: оценка
+  date_basis: "без датировки (навадвипский киртан)"
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/06.md", from: "11.1", to: "11.4"}
+
+- id: pad-0110
+  source: padas
+  ref: "Рамананда Дас, ПК 2096 = ГПТ1 с. 256 (№ 25) «আরে মোর নাচত গৌরকিশোর»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 80.8
+  title: "Пляшет юный Гаура; кхол и караталы для санкиртаны"
+  summary: "Юный Гаура пляшет, озаряя десять сторон: лицо прекраснее осенней луны, кудри, как пчёлы на лотосе, льются пот и слёзы; Он Сам «нанизал» Свои достоинства в киртан, который поют спутники, и ввёл кхол и караталы для сокрушения безбожия."
+  persons: ["@ramananda-vasu", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Мадхья 23"
+  notes: "Подпись «Рамананда Дас»: атрибуция Васу Рамананде не доказана."
+  themes: [kirtan, ecstasy]
+  date_conf: оценка
+  date_basis: "без датировки"
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/06.md", from: "12.1", to: "12.5"}
+
+- id: pad-0111
+  source: padas
+  ref: "Рамананда, ПК 2060 = ГПТ1 с. 249 (№ 4) «নাচত গৌর নটবর রসিয়া»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.461
+  title: "Гаура-танцор зовёт «Раи» и играет на флейте"
+  summary: "Гаура пляшет, не находя предела океану премы; вспоминая Вриндаван, вздыхает и, смеясь, зовёт «Раи, Раи»; не скрывая сокровенного, встаёт в позу трибханги и играет на флейте; рычит, как лев, катается по земле, разрубая петли греха и благочестия."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@radha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ПК 2120 (Парамананда)"
+  notes: "Подпись «Рамананда»: атрибуция Васу Рамананде не доказана."
+  themes: [ecstasy, krishna-lila, kirtan]
+  bhava: [krishna]
+  date_conf: оценка
+  date_basis: "без датировки (навадвипский период)"
+  event: ev-natavara-vesha-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "13.1", to: "13.4"}
+
+- id: pad-0112
+  source: padas
+  ref: "Йадунатх Дас, ПК 2125 = ГПТ1 с. 36 (№ 29) «আমার গৌরাঙ্গ জানে প্রেমের মরম»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.465
+  title: "«Ра» — и трепет, «дха» — и слёзы: Гауранга в бхаве Радхи"
+  summary: "Гауранга, знающий суть премы, в размышлении принимает цвет Радхи: едва вымолвит «Ра» — содрогается всем телом, едва вымолвит «дха» — льёт слёзы; потоки слёз бегут по земле, ум погружён в бхаву Гаури."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@radha"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 4"
+  notes: "Новая пада (в каталоге этапа 1 отсутствовала)."
+  themes: [ecstasy]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Б. Б. Маджумдар (1961): Йадунатх Дас — современник, писавший о бхавах Гауры как очевидец"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/06.md", from: "14.1", to: "14.4"}
+
+- id: pad-0113
+  source: padas
+  ref: "Йадунатх Дас, ПК 2126 = БР (с. 918–919) «গদাধর নরহরি করে ধরি গৌরহরি»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.466
+  title: "«Где Владычица Моей жизни? Где Говардхан?»"
+  summary: "Держась за руки Гададхары и Нарахари, Гаурахари катается по земле, воспевая лес Вринды; вспомнив игры в Нидхуване, рыдает: «Ямуна!»; вспоминает дружбу Субалы, Вринду, Лалиту, Вишакху и восклицает: «Где Владычица Моей жизни, где Говардхан, где Моя флейта и жёлтые одежды?»"
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara", "@radha", "@lalita", "@vrinda-devi"]
+  places: ["#navadvipa", "#govardhana"]
+  kind: lila
+  authority: A
+  parallels: "ПК 2128 (Говинда Гхош); ПК 2122 (Нарахари)"
+  notes: "Нарахари Чакраварти приводит паду в БР как свидетельство; в каталоге этапа 1 ошибочно числилась за Шиванандой Сеном (ПК 2123)."
+  themes: [ecstasy, krishna-lila]
+  bhava: [krishna]
+  date_conf: оценка
+  date_basis: "Б. Б. Маджумдар (1961): свидетельство очевидца о бхаве Господа в Навадвипе"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/06.md", from: "15.1", to: "15.4"}
+
+- id: pad-0114
+  source: padas
+  ref: "Вамшидас, ПК 2851 = ГПТ1 с. 282 (№ 19) «ভাবাবেশে গোরাচাঁদ বিভোর হইয়া»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.74
+  title: "Горачанда зовёт Шридаму и Балараму"
+  summary: "В экстазе Горачанда зовёт друзей-пастушков Шридаму, Субалу, Васудаму и «старшего брата Балараму», кличет коров Дхавали и Шангали и, восклицая «Калинди! Ямуна!», плывёт в слезах премы, вспоминая прошлое."
+  persons: ["@mahaprabhu", "@balarama"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: "ПК 2564 (Вамшивадана), ПК 1169 (Чайтаньядас)"
+  notes: "Подпись «Вамшидас»: по Маджумдару, Вамшидас — поздний поэт (ученик Шринивасы), не Вамшивадана."
+  themes: [ecstasy, krishna-lila]
+  bhava: [sakha]
+  date_conf: оценка
+  date_basis: "без датировки"
+  event: ev-goshtha-lila-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "16.1", to: "16.4"}
+
+- id: pad-0115
+  source: padas
+  ref: "Рамананда, ПК 1417 = ГПТ1 с. 333–334 (№ 43) «আরে মোর আরে মোর গৌরাঙ্গ রায়»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.87
+  title: "Гауранга — юный лодочник на Ганге"
+  summary: "Гауранга, став юным лодочником, играет с Гададхарой и спутниками в лодке посреди Ганги, как в прежней игре; лодка едва не тонет под ветром, а Гора смеётся; народ Надии на обоих берегах восклицает «Харибол»; поэт считает себя единственным обделённым."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Подпись «Рамананда»: атрибуция Васу Рамананде не доказана. Строка о юных жёнах — образ неотразимой красоты (сноска)."
+  themes: [krishna-lila, ecstasy]
+  date_conf: оценка
+  date_basis: "без датировки"
+  event: ev-nauka-vilasa-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "17.1", to: "17.4"}
+
+- id: pad-0116
+  source: padas
+  ref: "Рамананда Дас, ПК 2615 = ГПТ1 с. 326 (№ 18) «সুরধুনি-তিরে আজু গৌর কিশোর»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 134.753
+  title: "Гаура с Гададхарой на цветочных качелях"
+  summary: "На берегу Ганги спутники сплели качели из цветов; Гаура качается вместе с Гададхарой, поднимаются волны премы; Мукунда, Мадхава, Васу и Харидас поют о прежних играх; поэт надеется увидеть такие игры Надии."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@gadadhara-pandita", "@mukunda-datta", "@madhava-ghosha", "@vasu-ghosha", "@haridasa-thakura"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: C
+  parallels: "ПК 1550 (Васу Гхош), ПК 1559 (Нарахари)"
+  notes: "Подпись «Рамананда Дас»; в ПК — гаура-чандрика к лиле качелей в восьмичастной лиле."
+  themes: [festival, ecstasy]
+  date_conf: оценка
+  date_basis: "без датировки"
+  event: ev-jhulana-navadvipa
+  verses:
+    - {file: "padas/ru/06.md", from: "18.1", to: "18.5"}
+
+- id: pad-0117
+  source: padas
+  ref: "Шанкара Гхош (КГЧ, 30-я кшанада, № 2) = Вриндаван Дас (ГПТ1 с. 275, № 88) «শ্রীবাস-অঙ্গনে বিনোদ বন্ধানে»"
+  file: "padas/ru/06.md"
+  period: P07
+  order: 116
+  title: "Нитьянанда пляшет во дворе Шривасы"
+  summary: "Во дворе Шриваса пляшет Нитьянанда, опьянённый любовью к Брату: в облике борца прыгает и рычит, орошая землю дождём премы; люди и боги сбегаются смотреть, Адвайта ревёт, Шривас плачет у Его стоп, Мукунда рыдает, обняв Гададхару, плачет Абхирама."
+  persons: ["@shankara-ghosha", "@nityananda", "@mahaprabhu", "@advaita", "@srivasa", "@mukunda-datta", "@gadadhara-pandita", "@abhirama"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Атрибуция спорна: КГЧ — Шанкара Гхош (пада о Нитьянанде), ГПТ — Вриндаван Дас (пада о Гауранге, без строфы 19.3)."
+  themes: [kirtan, ecstasy]
+  date_conf: оценка
+  date_basis: "навадвипский период"
+  event: ev-nityananda-dance-shrivasa-courtyard
+  verses:
+    - {file: "padas/ru/06.md", from: "19.1", to: "19.8"}
+
+- id: pad-0118
+  source: padas
+  ref: "Мурари (ГПТ — вар. подписи Васу Гхош), ПК 2231 = ГПТ1 с. 378 (№ 40) «প্রেমাবেশে প্রভুরে রাখিয়া শান্তিপুরে»"
+  file: "padas/ru/06.md"
+  period: P09
+  order: 40.1
+  title: "Нитьянанда приносит Шачи весть о санньясе"
+  summary: "Оставив Господа в Шантипуре, Нитьянанда приходит в Надию; думая о горе Шачи, катается по земле в пути; стоя перед матерью, с разрывающимся сердцем говорит: «Гаура принял санньясу и пришёл в Шантипур; Он послал Меня за тобой». Плачут Шачи, Нитай и вся Надия."
+  persons: ["@murari-gupta", "@nityananda", "@shachi", "@mahaprabhu"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1"
+  notes: "Маджумдар: авторство Мурари Гупты не доказано (в ГПТ1 — вариант подписи Васу Гхоша); в ГПТ — пространная редакция."
+  themes: [sannyasa, separation, family]
+  date_conf: оценка
+  date_basis: "через несколько дней после санньясы (1510)"
+  event: ev-nityananda-brings-navadvipa-to-shantipura
+  verses:
+    - {file: "padas/ru/06.md", from: "20.1", to: "20.7"}
+
+- id: pad-0119
+  source: padas
+  ref: "Мадхави Дас, ПК 1853 = ГПТ1 с. 407 (№ 17) «নীলাচল হৈতে শচীরে দেখিতে»"
+  file: "padas/ru/06.md"
+  period: P14
+  order: 119.5
+  title: "Джагадананда подходит к осиротевшей Надии"
+  summary: "Джагадананда идёт из Нилачалы повидать Шачи и издали видит Надию, подобную Гокуле в разлуке: листья опадают не в срок, солнце не светит, птицы не едят и плачут, повторяя имя Горачанды, коровы стоят безмолвно — и Пандит падает наземь."
+  persons: ["@madhavi-dasa", "@jagadananda-pandita", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 12; ПК 1854 (Чандрашекхара)"
+  notes: "Поэт называет Джагадананду своим господином (тхакуром). Продолжение — ПК 1854 (порция 01, п. 25)."
+  themes: [separation, family]
+  date_conf: оценка
+  date_basis: "ЧЧ Антья 12 (поездки Джагадананды в Навадвипу)"
+  event: ev-jagadananda-visits-shachi
+  verses:
+    - {file: "padas/ru/06.md", from: "21.1", to: "21.5"}
+
+- id: pad-0120
+  source: padas
+  ref: "Рамананда, ПК 2257 = ГПТ1 с. 261 (№ 42) «ভাল ভালি নাচে গৌরাঙ্গ রঙ্গিয়া»"
+  file: "padas/ru/06.md"
+  period: P12
+  order: 6.2
+  title: "Гауранга просит у Сварупы флейту"
+  summary: "Гауранга пляшет в киртане, Нитай поддерживает Его; Мурари, Мукунда и Васу поют; Господь просит Нарахари говорить, смотрит на Гададхару, просит у Сварупы (и Рупы) чарующую флейту и встаёт в позу трибханги; Адвайта ликует, могучий Кашишвара поддерживает его."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@nityananda", "@murari-gupta", "@mukunda-datta", "@vasu-ghosha", "@narahari-sarakara", "@gadadhara-pandita", "@svarupa-damodara", "@rupa-gosvami", "@advaita", "@kashishvara"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Место не названо; присутствие Сварупы, Рупы и Кашишвары указывает на Нилачалу. Рук. П-Р-Са — без Рупы. Подпись «Рамананда»: атрибуция Васу Рамананде не доказана."
+  themes: [kirtan, ecstasy, krishna-lila]
+  bhava: [krishna]
+  date_conf: оценка
+  date_basis: "по составу спутников — пурийский период (после 1516)"
+  event: ev-nilachala-sankirtana
+  verses:
+    - {file: "padas/ru/06.md", from: "22.1", to: "22.5"}
+
+- id: pad-0121
+  source: padas
+  ref: "Мадхави Дас, ПК 2290 = ГПТ1 с. 260 (№ 39) «আনন্দে নাচত সঙ্গে ভকত»"
+  file: "padas/ru/06.md"
+  period: P12
+  order: 6.5
+  title: "Пхагу в Нилачале"
+  summary: "Юный Гаура в блаженстве пляшет с преданными посреди Нилачалы, они осыпают друг друга порошком пхагу; женщины Пури сбегаются смотреть, жители Нилачалы с восторгом глядят на игру; звучат караталы и кхол."
+  persons: ["@madhavi-dasa", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Атрибуция Мадхави (Деви) не установлена."
+  themes: [festival, kirtan]
+  date_conf: оценка
+  date_basis: "без датировки; пурийский период"
+  event: ev-phagu-nilachala
+  verses:
+    - {file: "padas/ru/06.md", from: "23.1", to: "23.4"}
+
+- id: pad-0122
+  source: padas
+  ref: "Рамананда, ПК 3057 = ГПТ1 с. 491–492 «হরি হরি ঐছে কি হোয়ব হামার»"
+  file: "padas/ru/06.md"
+  period: PX
+  order: 7.99
+  title: "Молитва увидеть игры Гауры в Надии"
+  summary: "Поэт молится о счастье увидеть игры Гауры в Надии: киртан на берегу Ганги, Господа на Его месте в доме Шриваса, где Нитьянанда держит зонт, а Гададхара сидит слева, — и Его, позвавшего мать, за трапезой дома."
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@shachi"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Молитва-мечта о лилах Навадвипы — форма, обычная у поздних поэтов; атрибуция Васу Рамананде сомнительна."
+  themes: [author]
+  verses:
+    - {file: "padas/ru/06.md", from: "24.1", to: "24.5"}
