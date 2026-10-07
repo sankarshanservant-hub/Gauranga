@@ -25481,7 +25481,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "ccd-0014",
@@ -25549,7 +25549,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "ccd-0020",
@@ -25614,7 +25614,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0145",
@@ -25683,7 +25683,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0110",
@@ -25754,7 +25754,68 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "pad-0002",
+  "source": "padas",
+  "ref": "Васу Гхош, БР (с. 893) = ПК 1536 «শঙ্খ দুন্দুভি-নাদ»",
+  "file": "padas/ru/01.md",
+  "period": "P07",
+  "order": 127.2,
+  "title": "Абхишека Горачанды в доме Шриваса",
+  "summary": "Под звуки раковин и литавр спутники совершают абхишеку Горачанды; горожанки несут аргхью, жители Надии ликуют и поют.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "ЧБ Мадхья 9; Мурари 2.12; Лочан lcm-0145; «Чайтанья-чандродая», акт 1",
+  "notes": "В ПК — гаура-чандрика к снана-ятре. Нарахари Чакраварти (БР, тар. 12) приводит паду как свидетельство очевидца.",
+  "themes": [
+   "revelation",
+   "festival"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Маджумдар: БР приводит паду как свидетельство очевидца абхишеки 1509 г.",
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "2.1",
+    "to": "2.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "2.1",
+    "to": "2.4",
+    "line": 44,
+    "line_to": 53,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L44-L53",
+    "file_en": "padas/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L45-L54"
+   }
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 4
  },
  {
   "id": "pvl-0155",
@@ -25902,6 +25963,137 @@
    24
   ],
   "attestation": 1
+ },
+ {
+  "id": "pad-0003",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1537 «তৈল হরিদ্রা আর কুঙ্কুম কস্তূরী»",
+  "file": "padas/ru/01.md",
+  "period": "P07",
+  "order": 127.3,
+  "title": "Абхишека: умащение, омовение и облачение Горы",
+  "summary": "Женщины умащают тело Горы маслом, куркумой, кункумой и мускусом; льют благоуханную воду с сандалом, отирают и облачают Его в павильоне омовения.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "ЧБ Мадхья 9",
+  "notes": "",
+  "themes": [
+   "revelation",
+   "festival"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Маджумдар: ПК 1536, 1537, 1571 — пады очевидца об абхишеке 1509 г.",
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 67,
+    "line_to": 76,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L67-L76",
+    "file_en": "padas/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L68-L77"
+   }
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0004",
+  "source": "padas",
+  "ref": "Говинда, Мадхава и Васу Гхош, ПК 1538 «বসিলা গৌরাঙ্গচন্দ্র রত্ন-সিংহাসনে»",
+  "file": "padas/ru/01.md",
+  "period": "P07",
+  "order": 127.4,
+  "title": "После абхишеки: Господь на троне, арати Шачи",
+  "summary": "Гауранга на троне: Шриваса умащает Его сандалом, Гададхар надевает гирлянду; Он вкушает приношения с Нитьянандой; Шачи с Малини совершает арати и благословляет Его рисом и дурвой; Адвайта подносит туласи; приходят боги и люди.",
+  "persons": [
+   "@govinda-ghosha",
+   "@madhava-ghosha",
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@srivasa",
+   "@gadadhara-pandita",
+   "@nityananda",
+   "@shachi",
+   "@malini",
+   "@advaita"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "ЧБ Мадхья 9; ЧЧ Ади 17",
+  "notes": "Бханита трёх братьев Гхош.",
+  "themes": [
+   "revelation",
+   "festival",
+   "prasada"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Маджумдар: та же абхишека 1509 г., описание очевидцев",
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "4.1",
+    "to": "4.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "4.1",
+    "to": "4.8",
+    "line": 86,
+    "line_to": 107,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L86-L107",
+    "file_en": "padas/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L88-L109"
+   }
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 4
  },
  {
   "id": "ccd-0019",
