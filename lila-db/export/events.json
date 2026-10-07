@@ -4461,6 +4461,14 @@
    "pad-0156",
    "pad-0357",
    "pad-0163",
+   "pad-0360",
+   "pad-0361",
+   "pad-0362",
+   "pad-0363",
+   "pad-0364",
+   "pad-0366",
+   "pad-0367",
+   "pad-0368",
    "lcm-0121",
    "mkc-0087",
    "pad-0336",
@@ -6006,6 +6014,7 @@
    "kcm-0087",
    "lcm-0149",
    "mkc-0115",
+   "pad-0369",
    "mkc-0116",
    "lcm-0150"
   ],
@@ -6013,7 +6022,8 @@
    "chaitanya-chandrodaya",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -16261,6 +16271,7 @@
    "pad-0265",
    "pad-0330",
    "pad-0359",
+   "pad-0370",
    "pad-0042",
    "pad-0043",
    "pad-0044",
@@ -16554,6 +16565,7 @@
   ],
   "entries": [
    "pad-0086",
+   "pad-0380",
    "pad-0205"
   ],
   "sources": [
@@ -16589,6 +16601,11 @@
    23
   ],
   "entries": [
+   "pad-0381",
+   "pad-0382",
+   "pad-0383",
+   "pad-0384",
+   "pad-0385",
    "pad-0014",
    "pad-0087",
    "pad-0201",
@@ -16903,8 +16920,12 @@
   ],
   "entries": [
    "pad-0064",
+   "pad-0371",
    "pad-0065",
+   "pad-0372",
    "pad-0116",
+   "pad-0373",
+   "pad-0374",
    "pad-0238"
   ],
   "sources": [
@@ -17209,6 +17230,102 @@
   ],
   "entries": [
    "pad-0342"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nagara-kirtana-kazi",
+  "title": "Ночное шествие с киртаном по Навадвипе и усмирение Кази",
+  "title_en": "The night kirtana procession through Navadvipa and the subduing of the Kazi",
+  "period": "P07",
+  "order": 122.5,
+  "cc": "Ади 17",
+  "cb": "Мадхья 23",
+  "themes": [
+   "kirtan",
+   "muslims",
+   "mercy"
+  ],
+  "notes": "После запрета Кази петь киртан Господь ведёт ночью по городу огромное шествие с тысячами светильников; Кази смиряется. Пада с подписью Нарахари (ГПТ 4.2, № 68 = БР 12) описывает само шествие.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0365"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nanda-utsava-navadvipa",
+  "title": "Джанмаштами и Нанда-утсава в доме Шривасы: Господь в наряде пастуха (Навадвипа)",
+  "title_en": "Janmashtami and Nanda-utsava in the house of Shrivasa: the Lord in cowherd dress (Navadvipa)",
+  "period": "P07",
+  "order": 134.76,
+  "calendar": "бхадра, кришна-аштами — кришна-навами",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "krishna-lila"
+  ],
+  "notes": "По рассказу «Бхакти-ратнакары» (12-я волна) и падам с подписью Нарахари (ГПТ 5.1): накануне Господь объявил день рождения Кришны, ночью совершили абхишеку, утром Он со спутниками в наряде пастухов плясал во дворе Шривасы, обливаясь йогуртом и куркумой. Ср. Нанда-утсаву в Пури (ЧЧ Мадхья 15.17–25; событие ev-gopa-vesha-dadhi-utsava).",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0375",
+   "pad-0376",
+   "pad-0377"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-radhashtami-navadvipa",
+  "title": "Радхаштами в доме Пундарики Видьянидхи (Навадвипа)",
+  "title_en": "Radhashtami in the house of Pundarika Vidyanidhi (Navadvipa)",
+  "period": "P07",
+  "order": 134.77,
+  "calendar": "бхадра, шукла-аштами",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "krishna-lila"
+  ],
+  "notes": "По «Бхакти-ратнакаре» (12-я волна) и падам ГПТ 5.1: Господь объявил Видьянидхи (в Кришна-лиле — Вришабхану, отцу Радхи), что завтра у него праздник рождения Радхики; на другой день Он со спутниками в наряде пастухов праздновал у него.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0378",
+   "pad-0379"
   ],
   "sources": [
    "padas"
