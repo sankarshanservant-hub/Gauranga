@@ -2250,3 +2250,283 @@
   event: ev-srinivasa-marriage
   verses:
     - {file: "prema-vilasa/ru/16.md", from: "301", to: "343"}
+
+- id: pvl-0115
+  source: prema-vilasa
+  ref: "Виласа 17, 1–8"
+  file: "prema-vilasa/ru/17.md"
+  period: PX
+  order: 21
+  title: "Поклонения; два махашаи в Гауде исполняют слово гуру"
+  summary: "Слава Чайтанье, Нитьянанде, Адвайте, преданным, Шринивасу и Нароттаме, явившему Гауру — образ премы Радхи и Кришны; автор по повелению своего Прабху описывает тех, кто принёс сокровище премы, — двух махашаев, исполняющих в Гауде слово гуру."
+  persons: ["@nityananda-dasa-author", "@mahaprabhu", "@nityananda", "@advaita", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#gauda"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "1", to: "8"}
+
+- id: pvl-0116
+  source: prema-vilasa
+  ref: "Виласа 17, 9–46"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 97
+  title: "Гаудийский вайшнав рассказывает Госвами о Кхетури и Вишнупуре; Локанатха, Джива и Гопала Бхатта посылают в Гауду Кришнадаса и Рамадаса с посланиями"
+  summary: "Вайшнав из Гауды рассказывает Дживе об обращении Виры Хамбира, о Рамачандре Кавирадже и о несравненном служении вайшнавам в Кхетури; Локанатха и Джива плачут от радости, Гопала Бхатта хочет увидеть Рамачандру; Кришнадас, ученик Пуджари Тхакура, и Рамадас, ученик Бхугарбхи, отправляются в Гауду и Пури; Локанатха велит Нароттаме беречься оскорблений, Джива называет Кхетури нивой, где плодоносит древо премы, и велит им скорее попросить там еды, чтобы испытать Нароттаму, а Шьямананде — хранить дхарму и служить вайшнавам; Гопала Бхатта зовёт Шринивасу снова прийти."
+  persons: ["@jiva-gosvami", "@lokanatha", "@gopala-bhatta", "@bhugarbha", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@govinda-kaviraja", "@vira-hambira", "@shyamananda"]
+  places: ["#vrindavana", "#kheturi", "#vana-vishnupura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Игра слов Кхетури — «нива» (kheti; сноска перевода)."
+  themes: [separation]
+  event: ev-vrindavana-messengers-gauda
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "9", to: "46"}
+
+- id: pvl-0117
+  source: prema-vilasa
+  ref: "Виласа 17, 47–99"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 97.1
+  title: "Посланцы в Кхетури: Нароттама и Рамачандра омывают им стопы, кормят бхогой Гауранги до подношения; Гаура во сне одобряет"
+  summary: "В краю Гарерхата все поют о Кришне; в Кхетури Нароттама и Рамачандра сами омывают стопы гостям, слушают послания и плачут, вспоминая своих гуру; по слову Дживы гости просят есть немедленно, и Нароттама велит подать им приготовленную для Гауранги бхогу, а затем готовит и подносит её заново; ночью Гаура говорит ему: Джива испытывал его, и когда ели вайшнавы, ел Он Сам, а повторное подношение — соблюдение порядка шастр; гости уходят, поражённые любовью к гуру и вайшнавам."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@lokanatha", "@jiva-gosvami", "@gopala-bhatta", "@mahaprabhu"]
+  places: ["#kheturi", "#padmavati"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [prasada, deities, mercy]
+  teaching: [vaishnava, prasada-teaching]
+  event: ev-vrindavana-messengers-gauda
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "47", to: "99"}
+
+- id: pvl-0118
+  source: prema-vilasa
+  ref: "Виласа 17, 100–116"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 97.2
+  title: "Посланцы у Шринивасы в Яджиграме; путь в Пурушоттаму"
+  summary: "Через Катоа, где они видят изваяние Махапрабху, посланцы приходят в Яджиграм; при имени Вриндавана и вести о милости Гопалы Бхатты Шринивас падает на землю: Прабху не забыл его, а он лежит в колодце мирской жизни; он слушает слова Дживы и принимает гостей как посланных гуру; наутро они уходят в Пурушоттаму, дивясь увиденному."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#katwa", "#yajigrama", "#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [separation]
+  event: ev-vrindavana-messengers-gauda
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "100", to: "116"}
+
+- id: pvl-0119
+  source: prema-vilasa
+  ref: "Виласа 17, 117–144"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 97.3
+  title: "Посланцы у Шьямананды и Мурари Даса в южной стране"
+  summary: "В южной стране все поклоняются Кришне; ученики Шьямананды ведут посланцев к нему; Мурари Дас омывает им стопы, Шьямананда в смирении плачет, что забыл стопы Дживы, а гуру и ученик катаются по земле; рассказчик решает вернуться во Вриндаван, и Мурари Дас даёт ему на дорогу сто монет; во Вриндаване Госвами плачут, слушая рассказ."
+  persons: ["@shyamananda", "@rasikananda", "@jiva-gosvami"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Повествование местами переходит в первое лицо — говорит один из вайшнавов (сноска перевода)."
+  themes: [separation, mercy]
+  teaching: [vaishnava]
+  event: ev-vrindavana-messengers-gauda
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "117", to: "144"}
+
+- id: pvl-0120
+  source: prema-vilasa
+  ref: "Виласа 17, 145–155"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 95.9
+  title: "Кончина матери Шринивасы в магху; поминальный праздник; Рагхунандана и Сулочана советуют жениться"
+  summary: "В паушу Шринивас приходит в Яджиграм к занемогшей матери, и в магху она достигает Кришны; с помощью царя Вишнупура он устраивает махотсаву, куда сходятся маханты и сотни вайшнавов; Рагхунандана и Сулочана из Кханды советуют ему жениться, раз он живёт в Яджиграме; Шринивас боится, что нет повеления гуру, но Рагхунандана говорит, что это не дело высшей цели."
+  persons: ["@srinivasa-acharya", "@lakshmipriya-chakhandi", "@vira-hambira", "@raghunandana"]
+  places: ["#yajigrama", "#shrikhanda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Сулочана — один из Тхакуров Шрикханды (сноска перевода)."
+  themes: [family, departure, festival]
+  calendar: "пауша — магха (болезнь и кончина матери)"
+  event: ev-srinivasa-mother-departure
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "145", to: "155"}
+
+- id: pvl-0121
+  source: prema-vilasa
+  ref: "Виласа 17, 156–174"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 96
+  title: "Две женитьбы Шринивасы: дочь Гопалы Даса из Яджиграма и Падмавати, дочь Рагху Чакраварти"
+  summary: "По старанию Рагхунанданы и Сулочаны Шринивас женится на дочери брахмана-землевладельца Гопалы Даса из Яджиграма в третий день вайшакхи и обучает её братьев Шьямадаса и Рамачарана; позже Падмавати, дочь Рагху Чакраварти из Гопалпура, сама просит отца отдать её Тхакуру, и Шринивас женится на ней и увозит её в Вишнупур; две жены живут в любви, но к двадцати пяти годам детей нет, и звездочёт предсказывает сына."
+  persons: ["@srinivasa-acharya", "@raghunandana", "@draupadi-ishvari", "@gauranga-priya"]
+  places: ["#yajigrama", "#vana-vishnupura", "#radha-desha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Имя первой жены (Драупади, Ишвари) в этой виласе не названо; неясно, чей возраст — двадцать пять лет (сноска перевода)."
+  themes: [family]
+  calendar: "вайшакха, 3-й лунный день (первая свадьба)"
+  divergence: "В виласе 16 Чайтанья Дас Аулия сообщает, что Шринивас женился в пхалгуну; здесь первая свадьба — в третий день вайшакхи."
+  event: ev-srinivasa-marriage
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "156", to: "174"}
+
+- id: pvl-0122
+  source: prema-vilasa
+  ref: "Виласа 17, 175–233"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 97.5
+  title: "Вирачандра в Вишнупуре: трапеза у Шринивасы, имя Гауранга-прия и тамбула для Падмавати; рождение, Хари-нама и посвящение Гати-Говинды"
+  summary: "Сын Нитьянанды Вирачандра приходит во дворец Виры Хамбира, и царю кажется, что это облик Гауранги; Шринивас приводит его в дом, младшая жена Падмавати готовит ему трапезу, Тхакурани умащают его сандалом; Вирачандра нарекает её Гауранга-прией, предсказывает сына и даёт ей разжёванную тамбулу, передавая силу; рождается сын, Вирачандра даёт ему Хари-наму и имя Гати-Говинда (правая нога ступает косо); в тринадцать лет Вирачандра велит Шринивасу самому дать сыну мантру: «Я — шакти Нитьянанды, ты — Чайтаньи, мы одно» — и, благословив Говинду, уходит по повелению Шримати."
+  persons: ["@virabhadra", "@vira-hambira", "@srinivasa-acharya", "@gauranga-priya", "@draupadi-ishvari", "@gati-govinda", "@jahnava", "@mahaprabhu", "@nityananda"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Священный шнур при аннапрашане — так в тексте (сноска перевода); Шримати — Джахнава."
+  themes: [family, mercy, prasada]
+  teaching: [associates-tattva]
+  event: ev-gati-govinda-birth
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "175", to: "233"}
+
+- id: pvl-0123
+  source: prema-vilasa
+  ref: "Виласа 17, 234–258"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 98
+  title: "Шесть Божеств Кхетури и порядок служения: двадцать пять серов риса, пять арати, праздники рождения Радхи и Гауранги и дни ухода Госвами"
+  summary: "Автор переходит от Шринивасы к бхаджану Нароттамы: в Кхетури служат Гауранге, Валлавиканте, Кришна-раю, Враджа-мохану, Радха-рамане и Радха-канте; ежедневно варят двадцать пять серов риса, многие блюда, кширу и сладости, готовя с повязанным тканью ртом, отдельно варят пропаренный рис для вайшнавов; пять раз в день арати и трапеза; особые праздники — рождение Радхарани и Гауранги, дни ухода Госвами; служение вайшнавам — как служение Кришне."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@radha", "@mahaprabhu", "@nityananda-dasa-author", "@jahnava"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Шримати» (236) — Джахнава; шесть Божеств (сноска перевода)."
+  themes: [deities, festival, prasada]
+  teaching: [vaishnava]
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "234", to: "258"}
+
+- id: pvl-0124
+  source: prema-vilasa
+  ref: "Виласа 17, 259–309"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 98.1
+  title: "Распорядок дня Нароттамы и Рамачандры; письмо жены Кавираджи; удар метлой, принятый на спину Нароттамы"
+  summary: "Нароттама и Рамачандра неразлучны: спят четыре данды, встают к мангала-арати, омываются, памятуют, обходят храм, поливают туласи, повторяют сто тысяч имён, разбирают «Бхагавату» и танцуют на вечернем арати; Нароттама содержит дом Кавираджи, у которого лишь жена; по её письму Нароттама заклинанием отсылает Рамачандру домой, но тот к рассвету возвращается и, подметая Раса-мандалу, в раскаянии бьёт себя метлой по спине — и спина вспухает у Нароттамы; оба плачут, обнявшись."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@mahaprabhu", "@harirama-acharya", "@ramakrishna-acharya"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Раса-мандала — по-видимому, площадка при храме в Кхетури (сноска перевода)."
+  themes: [deities, kirtan, family]
+  teaching: [holy-name]
+  calendar: "Прабодхини экадаши — полная махотсава"
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "259", to: "309"}
+
+- id: pvl-0125
+  source: prema-vilasa
+  ref: "Виласа 17, 310–367"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 99
+  title: "Злонравный кулин Ганганараяна Чакраварти побеждён шастрами и становится учеником Нароттамы; Харичандра Рай, бывший разбойник"
+  summary: "Ганганараяна Чакраварти высмеивает братьев Рамакришну и Харираму за то, что брахманы ставят вайшнавов выше брахманов; в споре у него дома они приводят «Бхагавату» о Пуруше и варнах, шлоку «Крийайога-сары» о бхакти и шлоку о том, что не-вайшнав не может быть гуру; Ганганараяна кается и в Кхетури принимает мантру Радхи-Кришны от Нароттамы и изучает у него книги о бхакти; также Нароттама принимает Харичандру Рая, заминдара Джалапантхи, бывшего разбойника, отдавшего ему всё достояние."
+  persons: ["@ganganarayana-chakravarti", "@ramakrishna-acharya", "@harirama-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@harichandra-raya", "@lokanatha", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [mercy, teaching, learning]
+  teaching: [purity, bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 11.5.2–3", "«Крийайога-сара» (шлока)", "«Падма-пурана» (в «Хари-бхакти-виласе» 1.54)"]
+  event: ev-ganganarayana-conversion
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "310", to: "367"}
+
+- id: pvl-0126
+  source: prema-vilasa
+  ref: "Виласа 17, 368–413"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 99.5
+  title: "Наставления о мирской жизни, шраддхе и карме: вайшнав спасает предков; вайдхи и рага; «Према-бхакти-чандрика»"
+  summary: "Харирама, Рамакришна и Ганганараяна спрашивают, как, живя в миру, следовать дхарме Махапрабху — повелению Рупы; Нароттама учит единонаправленной бхакти, непривязанности к миру и пути махаджан, а на вопрос о шраддхе и долге родителям приводит шлоки: предки пляшут, когда в роду рождается вайшнав; Рамачандра говорит, что обряды мешают твёрдой бхакти (Бхаг. 11.29.34), рай не сравнить с Вриндаваном, и порицает тех, кто под видом раги пренебрегает шастрами; по просьбе Рамачандры Нароттама в тот же день сочиняет «Према-бхакти-чандрику» — переложение учения «Синдху»."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@harirama-acharya", "@ramakrishna-acharya", "@ganganarayana-chakravarti", "@rupa-gosvami", "@advaita", "@sanatana-gosvami", "@raghunatha-dasa", "@gopala-bhatta", "@raghunatha-bhatta", "@lokanatha"]
+  places: ["#kheturi"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Ряд двустиший неясен (372, 375, 380, 383, 386; сноски перевода)."
+  themes: [teaching]
+  teaching: [bhakti-supremacy, vaishnava, purity]
+  scriptures: ["Бхаг. 11.29.34 (начало)", "две шлоки о предках вайшнава (без указания источника)", "Нароттама Дас, «Према-бхакти-чандрика»"]
+  event: ev-prema-bhakti-chandrika
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "368", to: "413"}
+
+- id: pvl-0127
+  source: prema-vilasa
+  ref: "Виласа 17, 414–468"
+  file: "prema-vilasa/ru/17.md"
+  period: P15
+  order: 99.6
+  title: "Рамачандра о недостойных ачарьях; Нароттама о служении в сиддха-деха, паракии и аштакала-лиле; сто тысяч имён"
+  summary: "Рамачандра приводит шлоки Рупы о том, что лучше обнимать змей и тигров и жить в клетке пламени, чем общаться с отвернувшимися от Кришны, и порицает ачарьев, хвалящихся родом и богатством; Нароттама учит памятованию в совершенном теле вместе с сакхи — образом гуру, о паракии выше свакии, о пяти порах лилы, даёт ученикам сиддха-имена и говорит о Хари-наме: у Махапрабху было триста тысяч имён, сто тысяч Он даровал преданным, и Рупа и Рагхунатха Дас повторяли сто тысяч."
+  persons: ["@ramachandra-kaviraja", "@narottama-dasa", "@harirama-acharya", "@ramakrishna-acharya", "@ganganarayana-chakravarti", "@rupa-gosvami", "@raghunatha-dasa", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#kheturi"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Двустишие 457 есть только в изд. 1913 г. (сноска перевода)."
+  themes: [teaching, krishna-lila]
+  teaching: [holy-name, prema, vaishnava]
+  scriptures: ["шлоки «Лучше, считаю, обнимать змей…» и «Лучше пребывать в клетке пламени…» (по тексту — у Рупы)"]
+  event: ev-prema-bhakti-chandrika
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "414", to: "468"}
+
+- id: pvl-0128
+  source: prema-vilasa
+  ref: "Виласа 17, 469–499"
+  file: "prema-vilasa/ru/17.md"
+  period: PX
+  order: 21.1
+  title: "Автор обличает противников бхакти и недостойных ачарьев-адхикари"
+  summary: "Автор, пишущий по повелению своего Прабху, предсказывает многих противников бхакти: одни не повторяют имени, другие оставляют путь махаджан, предаются обыденной любви и празднословию; ачарьи-адхикари с сотнями учеников собирают деньги, не чтят вайшнавов, роднятся с шактами и шиваитами ради кулинства и поклоняются иным богам; он призывает избегать запретного — слово гуру и вайшнавов сильнее всего."
+  persons: ["@nityananda-dasa-author", "@jahnava", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author, offense]
+  teaching: [vaishnava]
+  verses:
+    - {file: "prema-vilasa/ru/17.md", from: "469", to: "499"}

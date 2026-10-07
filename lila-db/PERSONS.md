@@ -206,6 +206,11 @@
 | @ramakrishna-acharya | Рамакришна (Ачарья) | Ramakrishna (Acharya) | брахман-пандит, брат Харирамы, ученик Нароттамы («Према-виласа» 14) |
 | @kalidasa | Калидас | Kalidasa | дядя Рагхунатхи Даса; вкушал остатки пищи вайшнавов, у Львиных ворот выпил воду со стоп Господа (ЧЧ Антья 16) |
 | @chaitanya-dasa-auliya | Чайтанья Дас Аулия | Chaitanya Dasa the Auliya | ученик Джахнавы, «безумный в Боге» странник; не путать с @chaitanya-dasa |
+| @draupadi-ishvari | Драупади (Ишвари), первая жена Шринивасы | Draupadi (Ishvari), Srinivasa's first wife | дочь Гопалы Даса из Яджиграма |
+| @gauranga-priya | Падмавати (Гауранга-прия), вторая жена Шринивасы | Padmavati (Gauranga-priya), Srinivasa's second wife | дочь Рагху Чакраварти из Гопалпура; мать Гати-Говинды; не путать с @padmavati |
+| @gati-govinda | Гати-Говинда | Gati-Govinda | сын Шринивасы Ачарьи и Гауранга-прии, ученик отца |
+| @ganganarayana-chakravarti | Ганганараяна Чакраварти | Ganganarayana Chakravarti | брахман-кулин, ставший учеником Нароттамы |
+| @harichandra-raya | Харичандра Рай | Harichandra Raya | заминдар Джалапантхи, бывший разбойник, ученик Нароттамы |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
