@@ -324,3 +324,8 @@
 | কোগ্রাম | Ко-грам | Kogram |
 | সদানন্দী, কমলাকর দাস | Садананди, Камалакара Дас (родители Лочана Даса) | Sadanandi, Kamalakara Dasa (Lochana Dasa's parents) |
 | অভয়া দাসী, পুরুষোত্তম গুপ্ত | Абхая Даси, Пурушоттама Гупта (бабушка и дед по матери) | Abhaya Dasi, Purushottama Gupta (maternal grandparents) |
+| অনঙ্গ | Ананга («Бестелесный», Камадева) | Ananga ("the Bodiless", Kamadeva) |
+| চকোর | чакора (птица, питающаяся лунным светом) | chakora (bird that feeds on moonlight) |
+| উদ্বর্তন | благовонная мазь (удвартана) | fragrant paste (udvartana) |
+| নরক (অসুর), বিদর্ভ | Нарака (Бхаумасура), Видарбха | Naraka (Bhaumasura), Vidarbha |
+| বাধাই | праздничная музыка (бадхаи) | festive music (badhai) |
