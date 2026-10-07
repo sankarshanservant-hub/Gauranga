@@ -6205,6 +6205,7 @@
    "lcm-0160",
    "mkc-0126",
    "gkr-0006",
+   "pad-0015",
    "lcm-0161",
    "lcm-0169"
   ],
@@ -6212,7 +6213,8 @@
    "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6413,14 +6415,16 @@
    "gkr-0008",
    "jcm-0062",
    "lcm-0172",
-   "mkc-0130"
+   "mkc-0130",
+   "pad-0016"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6449,12 +6453,14 @@
   "entries": [
    "ccd-0036",
    "lcm-0173",
-   "mkc-0131"
+   "mkc-0131",
+   "pad-0017"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6827,6 +6833,7 @@
    "ccd-0042",
    "lcm-0193",
    "mkc-0146",
+   "pad-0019",
    "lcm-0194",
    "mkc-0147",
    "lcm-0195",
@@ -6836,7 +6843,8 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -11060,13 +11068,15 @@
    "jcm-0086",
    "lcm-0246",
    "mkc-0226",
+   "pad-0023",
    "mkc-0228"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -11127,11 +11137,13 @@
    "apr-0137",
    "mkc-0229",
    "pvl-0078",
+   "pad-0024",
    "apr-0138"
   ],
   "sources": [
    "advaita-prakasha",
    "murari-kcc",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -15662,10 +15674,12 @@
   ],
   "notes": "Богословская тема, не эпизод жизни: Бхаг. 11.5.32, 7.9.38, 10.8.13; пуранические шлоки.",
   "entries": [
-   "nvv-0044"
+   "nvv-0044",
+   "pad-0026"
   ],
   "sources": [
-   "nityananda-vamsha"
+   "nityananda-vamsha",
+   "padas"
   ]
  },
  {
@@ -15710,6 +15724,300 @@
   ],
   "sources": [
    "nityananda-vamsha"
+  ]
+ },
+ {
+  "id": "ev-navadvipa-radha-bhava-gadadhara",
+  "title": "Господь в бхаве Радхи с Гададхарой: песни о Вриндаване (Навадвипа)",
+  "title_en": "The Lord in Radha's mood with Gadadhara: songs of Vrindavana (Navadvipa)",
+  "period": "P07",
+  "order": 134,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады очевидцев 1509 г. (Мурари, Рамачандра, Парамананда)",
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "notes": "Собирательное событие для пад современников о бхавах Господа в Навадвипе: зовёт «Радха!», вспоминает Гокулу, прильнув к Гададхаре; Нарахари Саркар рядом.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0005",
+   "pad-0006",
+   "pad-0008"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-natavara-vesha-navadvipa",
+  "title": "Господь в наряде Натавары (Кришны-танцора) играет на флейте (Навадвипа)",
+  "title_en": "The Lord in the dress of Natavara (Krishna the dancer) plays the flute (Navadvipa)",
+  "period": "P07",
+  "order": 134.5,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады очевидцев 1509 г. (Васу Гхош в БР, Парамананда); в Пури такого наряда Господь не надевал",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Павлинье перо, трижды изогнутая поза, флейта; известно по падам современников.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0009",
+   "pad-0010",
+   "pad-0007"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-goshtha-lila-navadvipa",
+  "title": "Гоштха-лила в Навадвипе: Господь в бхаве пастушка кличет коров",
+  "title_en": "Goshtha-lila in Navadvipa: the Lord in the mood of a cowherd calls the cows",
+  "period": "P07",
+  "order": 134.7,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады очевидцев 1509 г. (Васу Гхош в БР, Вамшивадана ПК 2564)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "notes": "Нитьянанда трубит в рог, с ним Гауридас, Абхирама, Сундарананда; объясняет гопа-бхаву спутников Нитьянанды.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0011",
+   "pad-0012"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-dana-lila-navadvipa",
+  "title": "Дана-лила на дорогах Надии",
+  "title_en": "The dana-lila (toll pastime) on the roads of Nadia",
+  "period": "P07",
+  "order": 134.8,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада очевидца (Васу Гхош, БР; ПК 1368)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Господь в бхаве Кришны вспоминает дана-лилу.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0013"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-holi-navadvipa-gadadhara",
+  "title": "Холи в Навадвипе: Господь с Гададхарой в бхаве Кришны",
+  "title_en": "Holi in Navadvipa: the Lord with Gadadhara in Krishna's mood",
+  "period": "P07",
+  "order": 134.9,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Шивананды Сена и Васу Гхоша (БР), видимо 1509 г.",
+  "calendar": "пхалгуна-пурнима (холи)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "С Нарахари, Мукундой, Мурари, Васу Гхошем.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0014"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-gauda-devotees-longing-first-year",
+  "title": "Тоска преданных Гауды по Господу в первый год санньясы",
+  "title_en": "The Gauda devotees' longing for the Lord in the first year of His sannyasa",
+  "period": "P10",
+  "order": 5,
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Васу Рамананды («ныне весна») и Нарахари Саркара (первая чатурмасья) написаны в 1510 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Собирательное событие для пад современников, написанных в разлуке с Господом вскоре после санньясы.",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "pad-0018",
+   "pad-0020"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-gadadhara-leaves-kshetra-sannyasa",
+  "title": "Гададхара оставляет кшетра-санньясу, чтобы идти за Господом в Гауду",
+  "title_en": "Gadadhara abandons his kshetra-sannyasa to follow the Lord to Gauda",
+  "period": "P13",
+  "order": 195,
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "ЧЧ Мадхья 16: на пути Господа в Гауду (во Вриндаван); Маджумдар: пада Шивананды ПК 2355 — 1514/15",
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "separation",
+   "deities"
+  ],
+  "notes": "Господь в Каттаке убеждает Гададхару вернуться к служению Гопинатхе.",
+  "age": [
+   28,
+   28
+  ],
+  "entries": [
+   "pad-0021"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-shachi-dream-nimai",
+  "title": "Сон Шачи: Нимай приходит из Нилачалы домой",
+  "title_en": "Shachi's dream: Nimai comes home from Nilachala",
+  "period": "P12",
+  "order": 300,
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада Васу Гхоша (БР) о годах разлуки, ок. 1514/15",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family",
+   "celestial"
+  ],
+  "notes": "Известно по паде Васу Гхоша в «Бхакти-ратнакаре»; ср. ЧЧ Антья 3 (Господь незримо вкушает стряпню Шачи).",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "pad-0022"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-jagadananda-visits-shachi",
+  "title": "Джагадананда приходит из Пури к Шачи в Навадвипу",
+  "title_en": "Jagadananda comes from Puri to Shachi in Navadvipa",
+  "period": "P14",
+  "order": 120,
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Антья 12 (поездки Джагадананды в Навадвипу по поручению Господа)",
+  "cc": "Антья 12",
+  "cb": "",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "notes": "Пада Чандрашекхары (ПК 1854, вслед за ПК 1853 Мадхави Даса) описывает приход Джагадананды и радость Навадвипы.",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "pad-0025"
+  ],
+  "sources": [
+   "padas"
   ]
  }
 ]
