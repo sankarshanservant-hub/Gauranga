@@ -1903,7 +1903,7 @@
   order: 90
   title: "Говинда Кавираджа при смерти: Богиня велит ему помнить Говинду; Шринивас в Будхари исцеляет и посвящает его"
   summary: "Говинда, младший брат Рамачандры, тяжело болен и зовёт брата, но тот не оставляет учения; Говинда, достигший совершенства в мантре Деви, молит её об освобождении, и божественный голос отвечает: освобождение дарует лишь Говинда — Полный Брахман, Сын Нанды, которому молятся сотни Дург, — прими мантру Радхи-Кришны; Говинда посылает за Шринивасом; в Будхари Шринивас вкушает угощение, Говинда ест его остатки и исцеляется, а наутро Шринивас даёт ему Хари-наму, мантру Кришны и мантру Радхики."
-  persons: ["@govinda-kaviraja", "@ramachandra-kaviraja", "@srinivasa-acharya", "@krishna", "@radha"]
+  persons: ["@govinda-kaviraja", "@ramachandra-kaviraja", "@srinivasa-acharya", "@durga", "@krishna", "@radha"]
   places: ["#teliya-budhari", "#yajigrama"]
   kind: miracle
   authority: C
@@ -1950,7 +1950,7 @@
   parallels: ""
   notes: "Реплики в 228–232 распределены по смыслу (сноска перевода)."
   themes: [festival, deities]
-  event: ev-kheturi-festival
+  event: ev-kheturi-first-installation
   verses:
     - {file: "prema-vilasa/ru/14.md", from: "205", to: "235"}
 
@@ -1972,7 +1972,7 @@
   bhava: [radha]
   calendar: "пхалгуна, пурнима"
   scriptures: ["Рупа Госвами, «Удджвала-ниламани» (шлока)"]
-  event: ev-kheturi-festival
+  event: ev-kheturi-first-installation
   verses:
     - {file: "prema-vilasa/ru/14.md", from: "236", to: "310"}
 
@@ -1991,7 +1991,7 @@
   parallels: ""
   notes: ""
   themes: [separation, krishna-lila]
-  event: ev-kheturi-festival
+  event: ev-kheturi-first-installation
   verses:
     - {file: "prema-vilasa/ru/14.md", from: "311", to: "339"}
 
@@ -2530,3 +2530,2178 @@
   teaching: [vaishnava]
   verses:
     - {file: "prema-vilasa/ru/17.md", from: "469", to: "499"}
+
+- id: pvl-0129
+  source: prema-vilasa
+  ref: "Виласа 18, 1–9"
+  file: "prema-vilasa/ru/18.md"
+  period: PX
+  order: 21.2
+  title: "Автор пишет по повелению Тхакурани, носящей шакти Гауранги"
+  summary: "Слава Махапрабху, Нитьянанде, Адвайте, Гададхаре и преданным; автор не пишет о ветвях Госвами Вриндавана по шастрам, как другие, а следует повелению Прабху — своей Тхакурани, носящей шакти Гауранги; о её вечном облике во Вриндаване он умалчивает, зная её сердце, и избегает споров о сиддханте."
+  persons: ["@nityananda-dasa-author", "@jahnava", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Прабху автора — Джахнава (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "1", to: "9"}
+
+- id: pvl-0130
+  source: prema-vilasa
+  ref: "Виласа 18, 10–30"
+  file: "prema-vilasa/ru/18.md"
+  period: PX
+  order: 21.3
+  title: "Последователи Госвами Вриндавана: Кашишвара, ученик Ишвары Пури; Гададхара, Пундарика и Бхугарбха; Локанатха; Бхактакаши, Кришна Пандит; Рагхунатха Бхатта"
+  summary: "Рупа и Санатана — носители шакти Прабху; в краю Матхуры славен Кашишвара, ученик Ишвары Пури, вручённый им Чайтанье; Гададхара — шакти Прабху, ученик Пундарики Видьянидхи, а Бхугарбха — ученик Гададхары; Локанатха — первый среди отрешённых, его слуга — Нароттама; ученик Кашишвары Бхактакаши, Говинда Госани, Ядава Ачарья, Кришна Пандит; сварупы Кашишвары и Кришнадаса — Кели-кала и Кункума; Рагхунатха Бхатта неотлучно с Рупой и Санатаной."
+  persons: ["@nityananda-dasa-author", "@rupa-gosvami", "@sanatana-gosvami", "@kashishvara", "@ishvara-puri", "@mahaprabhu", "@gadadhara-pandita", "@pundarika-vidyanidhi", "@bhugarbha", "@lokanatha", "@narottama-dasa", "@raghunatha-bhatta"]
+  places: ["#mathura", "#vrindavana"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Перечень ветвей (родословие учеников) — изложение автора."
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "10", to: "30"}
+
+- id: pvl-0131
+  source: prema-vilasa
+  ref: "Виласа 18, 31–43"
+  file: "prema-vilasa/ru/18.md"
+  period: P14
+  order: 30
+  title: "Рагхунатха Дас, ученик Ядунанданы: в Пури вверен Сварупе, получает гирлянду из гунджи и камень с Говардханы и уходит во Вриндаван к Радха-кунде"
+  summary: "Ученик Ядунанданы Ачарьи Рагхунатха Дас силой милости Нитьянанды оставляет богатство, приходит в Нилачалу и в предельном отречении живёт при Господе; Господь вверяет его Сварупе — Лалите в лиле, — затем, дав ему гирлянду из гунджи и камень с Говардханы, вручает его Радхе и посылает во Вриндаван; он предаётся Рупе и Санатане и живёт у Радха-кунды, пятьдесят шесть данд в сутки в бхаджане, а рядом — его ученик Кавираджа."
+  persons: ["@raghunatha-dasa", "@yadunandana-acharya", "@nityananda", "@mahaprabhu", "@svarupa-damodara", "@radha", "@rupa-gosvami", "@sanatana-gosvami", "@krishnadasa-kaviraja"]
+  places: ["#puri", "#vrindavana", "#radha-kunda", "#govardhana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ядунандана — ученик «Ачарьи Госани» (Адвайты); строка 43 («мой гуру Ядунандана») неясна (сноски перевода)."
+  themes: [sannyasa, mercy]
+  teaching: [associates-tattva]
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "31", to: "43"}
+
+- id: pvl-0132
+  source: prema-vilasa
+  ref: "Виласа 18, 44–52"
+  file: "prema-vilasa/ru/18.md"
+  period: P14
+  order: 105
+  title: "Нитьянанда является Кришнадасу Кавирадже в Джхаматпуре и посылает его во Вриндаван"
+  summary: "Когда Кришнадас Кавираджа жил в Гауде, в селении Джхаматпур ему явился Нитьянанда со спутниками и повелел идти во Вриндаван; в своей книге Кавираджа называет себя учеником Прабху, хотя во Вриндаване принял прибежище у Рагхунатхи — таково поведение совершенных; Рупа и Санатана оказали ему милость."
+  persons: ["@krishnadasa-kaviraja", "@nityananda", "@raghunatha-dasa", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#gauda", "#vrindavana"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "Ср. ЧЧ Ади 5 (сноска перевода)."
+  themes: [mercy, celestial]
+  event: ev-kaviraja-nityananda-jhamatpur
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "44", to: "52"}
+
+- id: pvl-0133
+  source: prema-vilasa
+  ref: "Виласа 18, 53–82"
+  file: "prema-vilasa/ru/18.md"
+  period: P11
+  order: 50
+  title: "Махапрабху в Шрирангаме у Трималлы Бхатты: вопрос о Лакшми, явление Своего облика; повеление обучить Гопалу и не женить его; Прабодхананда"
+  summary: "Странствуя по югу, Махапрабху проводит чатурмасью в доме Трималлы Бхатты, служившего Лакшми-Нараяне, и шутя спрашивает, почему верная Лакшми жаждет общества Кришны; Бхатта признаёт в Нём Лакшми-Нараяну; Господь обнимает его, передаёт шакти, открывает ему враджа-лилу и являет Свой облик всей семье; сына Гопалу Бхатту Он велит обучить и не женить, а после ухода родителей прислать во Вриндаван, и поручает это Прабодхананде."
+  persons: ["@mahaprabhu", "@trimalla-bhatta", "@gopala-bhatta", "@prabodhananda-sarasvati", "@lakshmi", "@narayana", "@krishna", "@ranganatha-deity"]
+  places: ["#ranga-kshetra", "#kaveri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Отец Гопалы Бхатты здесь — Трималла (в других источниках — Венката Бхатта, брат Трималлы); Прабодхананда — родственник и будущий гуру Гопалы (сноски перевода)."
+  themes: [revelation, deities, teaching]
+  bhava: [krishna]
+  teaching: [prema]
+  divergence: "Отцом Гопалы Бхатты назван Трималла Бхатта; Господь являет семье Свой облик и велит не женить Гопалу."
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "53", to: "82"}
+
+- id: pvl-0134
+  source: prema-vilasa
+  ref: "Виласа 18, 83–98"
+  file: "prema-vilasa/ru/18.md"
+  period: P14
+  order: 95.8
+  title: "Прабодхананда посылает Гопалу Бхатту к Рупе и Санатане; «Хари-бхакти-виласа», отданная Санатане"
+  summary: "На исходе дней Прабодхананда Сарасвати напоминает Гопале Бхатте повеление Господа и отправляет его с письмом к Рупе и Санатане; через Джхарикханду и Матхуру тот приходит во Вриндаван, братья принимают его как жизнь и велят составить «Хари-бхакти-виласу» о поведении, обрядах и правилах вайшнавов; завершённую книгу он вручает Санатане, который принимает её как свою; в первой шлоке Гопала Бхатта славит своего гуру."
+  persons: ["@prabodhananda-sarasvati", "@gopala-bhatta", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#jharikhanda", "#mathura", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, learning]
+  teaching: [purity, scripture]
+  scriptures: ["Гопала Бхатта, «Хари-бхакти-виласа»"]
+  event: ev-hari-bhakti-vilasa
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "83", to: "98"}
+
+- id: pvl-0135
+  source: prema-vilasa
+  ref: "Виласа 18, 99–136"
+  file: "prema-vilasa/ru/18.md"
+  period: P15
+  order: 99.8
+  title: "Ученики Гопалы Бхатты; Харивамша жуёт прасадный бетель в экадаши, отвергнут и служит Радха-валлабхе; его голова плывёт по Ямуне к Гопале Бхатте"
+  summary: "Ученики Гопалы Бхатты — Шринивас, Харивамша, Гопинатха Пуджари (служитель Радха-раманы), Шамбхурама и Макаранда из Гуджарата; учёный Харивамша дважды приходит в экадаши, жуя прасадный бетель Радхи, и отвечает, что не может отвергнуть прасад; Бхатта отвергает его, и тот являет образ Радха-валлабхи; позже разбойники отрубают ему голову, и она, повторяя «Радха», плывёт против течения к гхату Гопалы Бхатты и просит прощения; Бхатта прощает и касается её стопой, и Харивамша освобождается; оскорбление не уходит и от потомков оскорбителя."
+  persons: ["@gopala-bhatta", "@harivamsha", "@srinivasa-acharya", "@radha-ramana-deity", "@radha"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Харивамша — по-видимому, Хит Харивамша, основатель поклонения Радха-валлабхе (сноска перевода); шлока о прасаде Хари, кроме экадаши, — без указания источника. Рассказ отражает предание школы Гопалы Бхатты."
+  themes: [offense, mercy]
+  teaching: [vaishnava, purity]
+  scriptures: ["«Прасад Хари следует принимать всегда, кроме экадаши» (полушлока)"]
+  event: ev-harivamsha-fall
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "99", to: "136"}
+
+- id: pvl-0136
+  source: prema-vilasa
+  ref: "Виласа 18, 137–151"
+  file: "prema-vilasa/ru/18.md"
+  period: PX
+  order: 21.4
+  title: "Джива — ученик Рупы; пять плодов древа Чайтаньи; ветви Шринивасы и Нароттамы; Нароттама велит ученикам повторять лакх имён"
+  summary: "Джива — ученик Рупы; приходы и уходы Госвами — ради счастья Гауранги, древа желаний, приносящего пять плодов; Шринивас и Нароттама наделены властью проповедовать, и ветвям их нет числа; Нароттама, в чьём сердце Гауранга, проводит время в ятрах, праздниках и служении и, считая себя недостойным, велит ученикам с самого начала брать число в лакх имён."
+  persons: ["@nityananda-dasa-author", "@jiva-gosvami", "@rupa-gosvami", "@mahaprabhu", "@srinivasa-acharya", "@narottama-dasa"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Что за пять плодов, не поясняется (сноска перевода)."
+  themes: [author, teaching]
+  teaching: [holy-name]
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "137", to: "151"}
+
+- id: pvl-0137
+  source: prema-vilasa
+  ref: "Виласа 18, 152–210"
+  file: "prema-vilasa/ru/18.md"
+  period: P15
+  order: 101
+  title: "Грехи Чанд Рая; Читрагупта и Яма; брахма-дайтья овладевает им; Дурга во сне велит искать прибежища у Нароттамы"
+  summary: "Сыновья брахмана Рагхавендры Рая, Сантоша и могучий Чанд Рай, — заминдары-разбойники: Чанд Рай с пятью тысячами конников не платит подати падишаху, грабит, убивает, пьёт вино, приносит в жертву Дурге множество животных; Читрагупта говорит Яме, что они грешнее Джагая и Мадхая; Чанд Раем овладевает брахма-дайтья, и астролог говорит, что спасти может лишь Нароттама; отец Нароттамы не решается передать просьбу; тогда Дурга в облике брахманки говорит Чанд Раю: кто, оставив Кришну, поклоняется ей, того она губит, её господин Шива служит Кришне, — пусть примет прибежище у Нароттамы, ибо Шринивас и Нароттама — одна жизнь."
+  persons: ["@chand-raya", "@santosha-raya", "@raghavendra-raya", "@yama", "@chitragupta", "@jagai-madhai", "@durga", "@shiva", "@narottama-dasa", "@krishnananda-datta", "@srinivasa-acharya", "@govinda-kaviraja", "@mahaprabhu", "@nityananda"]
+  places: ["#kheturi"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "Брахма-дайтья — дух умершего брахмана; Тхакурани здесь — Дурга (сноски перевода). Слова Дурги выражают подчинённость внешней энергии Кришне."
+  themes: [offense, celestial, mercy]
+  teaching: [bhakti-supremacy, associates-tattva]
+  event: ev-chand-raya-deliverance
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "152", to: "210"}
+
+- id: pvl-0138
+  source: prema-vilasa
+  ref: "Виласа 18, 211–301"
+  file: "prema-vilasa/ru/18.md"
+  period: P15
+  order: 101.1
+  title: "Гаура-рай велит Нароттаме идти к Чанд Раю; изгнание брахма-дайтьи; посвящение Чанд Рая, Сантоши и Рагхавендры; Яма бросает свитки грехов в воду"
+  summary: "Чанд Рай посылает двух брахманов с письмом; ночью Гаура-рай с престола велит Нароттаме идти и спасти грешников; Нароттама с Рамачандрой и вайшнавами приходит, селение встречает его банановыми деревьями и гирляндами; брахма-дайтья кричит, что, увидев Нароттаму, спасён, называет Кхетури Гупта-Вриндаваном и по слову Нароттамы уходит; Чанд Рай, Сантоша и Рагхавендра с плачем предаются ему и получают Хари-наму, а наутро мантру Радхи и Кришны; Яма велит Читрагупте бросить в воду свитки их грехов — их спасение выше спасения Джагая и Мадхая; они подносят селения, золото и коней."
+  persons: ["@chand-raya", "@santosha-raya", "@raghavendra-raya", "@narottama-dasa", "@ramachandra-kaviraja", "@krishnananda-datta", "@mahaprabhu", "@yama", "@chitragupta", "@jagai-madhai"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Гаура-рай — Божество Гауранги в Кхетури, говорящее с Нароттамой ночью (сноска перевода)."
+  themes: [mercy, offense, celestial]
+  teaching: [holy-name]
+  event: ev-chand-raya-deliverance
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "211", to: "301"}
+
+- id: pvl-0139
+  source: prema-vilasa
+  ref: "Виласа 18, 302–372"
+  file: "prema-vilasa/ru/18.md"
+  period: P15
+  order: 101.2
+  title: "Чанд Рай изъявляет покорность навабу; с семьёй на десяти лодках приплывает в Кхетури; киртан Девидаса и экстаз"
+  summary: "По повелению Нароттамы Чанд Рай отправляет навабу письмо через вакила, но чиновники боятся его; Нароттама возвращается в Кхетури, а Чанд Рай, Сантоша и Рагхавендра везут его на десяти украшенных лодках с припасами; в Кхетури Чанд Рай кланяется Кришнананде; ночью перед Гаурангой поёт Девидас, Нароттама, Рамачандра, Кришнананда и гости плачут и катаются по земле, раздают дары; десять ночей длятся беседы о Кришне; Чанд Рай с семьёй прощается и уплывает домой, храня повеление."
+  persons: ["@chand-raya", "@santosha-raya", "@raghavendra-raya", "@narottama-dasa", "@ramachandra-kaviraja", "@krishnananda-datta", "@mahaprabhu"]
+  places: ["#kheturi", "#padmavati"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Смысл 303–306 неясен (сноска перевода); 338–340 — строки исполняемой песни."
+  themes: [kirtan, ecstasy, festival]
+  event: ev-chand-raya-deliverance
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "302", to: "372"}
+
+- id: pvl-0140
+  source: prema-vilasa
+  ref: "Виласа 18, 373–497"
+  file: "prema-vilasa/ru/18.md"
+  period: P15
+  order: 101.5
+  title: "Чанд Рай схвачен у Ганги и брошен навабом в подземелье; отвергает мантру Кали и бегство подкопом; вырывает хобот слону; наваб возвращает ему владения"
+  summary: "При паломничестве к Ганге сипаи наваба хватают Чанд Рая; наваб велит бить его плетью и бросить в подземелье; отец посылает человека с мантрой Кали, который делает подкоп, но Чанд Рай отказывается слушать иную мантру, кроме данной Прабху, и в темнице, питаясь именем, в мыслях служит Радхе и Кришне как манджари; наваб велит бросить его под разъярённого слона, и Чанд Рай, вспомнив Нароттаму, вырывает слону хобот; выслушав его рассказ, наваб обнимает его, жалует коня, облачение и грамоту на владения; Чанд Рай идёт пешком в Кхетури, отец кается, а позже наваб даёт ему паргану Ахиди."
+  persons: ["@chand-raya", "@raghavendra-raya", "@santosha-raya", "@narottama-dasa", "@ramachandra-kaviraja", "@radha", "@krishna", "@lalita"]
+  places: ["#ganga", "#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "В темнице Чанд Рай мыслит себя в духовном теле манджари (сноска перевода). Наваб — по-видимому, патхан (афганец)."
+  themes: [muslims, mercy, krishna-lila]
+  teaching: [holy-name, vaishnava]
+  event: ev-chand-raya-elephant
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "373", to: "497"}
+
+- id: pvl-0141
+  source: prema-vilasa
+  ref: "Виласа 18, 498–521"
+  file: "prema-vilasa/ru/18.md"
+  period: PX
+  order: 21.5
+  title: "Заключение: Шринивас спас Виру Хамбира, Нароттама — Чанд Рая; автор пишет по повелению Прабху"
+  summary: "Через Ачарью Тхакура и Тхакура Махашаю взошла према Чайтаньи и Нитая: Шринивас спас Виру Хамбира, Нароттама — Чанд Рая; Нароттама — образец бхакти ничего не имеющих, без гордыни и зависти; автор обещает описать главных учеников и ветви обоих и снова говорит, что пишет по повелению своего Прабху (Джахнавы), а Гопала Бхатта, Локанатха, Шринивас и Нароттама — очистители падших."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@vira-hambira", "@chand-raya", "@gopala-bhatta", "@lokanatha", "@jahnava", "@virabhadra", "@rupa-gosvami"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/18.md", from: "498", to: "521"}
+
+- id: pvl-0142
+  source: prema-vilasa
+  ref: "Виласа 19, 1–55"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 102
+  title: "Шринивас в самадхи ищет в Ямуне носовое кольцо Радхи; Рамачандра в облике Каруна-манджари находит его и возвращает Ачарью к сознанию"
+  summary: "В Вишнупуре Шринивас, медитируя в сиддха-облике Мани-манджари, видит водные игры Радхи и Кришны; Радха теряет носовое кольцо, Рупа-манджари велит Гуна-манджари найти его, а та поручает Мани-манджари; два дня тело Ачарьи неподвижно, жёны, царь, Вьяса и Кришнавальлабха в тревоге; по слову старшей жены зовут Рамачандру, который в облике Каруна-манджари находит кольцо под листом лотоса, и оно возвращается Радхе; оба приходят в себя, и Рамачандра вкушает прасад с тарелки гуру."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@draupadi-ishvari", "@gauranga-priya", "@vira-hambira", "@vyasa-acharya", "@krishnavallabha", "@radha", "@krishna", "@mahaprabhu", "@shyamananda", "@narottama-dasa"]
+  places: ["#vana-vishnupura"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "Ишвари — здесь старшая жена Шринивасы (сноска перевода)."
+  themes: [krishna-lila, ecstasy]
+  event: ev-srinivasa-samadhi-nose-ring
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "1", to: "55"}
+
+- id: pvl-0143
+  source: prema-vilasa
+  ref: "Виласа 19, 56–92"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 103
+  title: "Шьямананда возвращается через Амбику в Уткалу; Шер Хан, разбивший кхолы, видит во сне Чайтанью и принимает прибежище; Расика и Мурари"
+  summary: "Шьямананда через Гауду приходит в Амбику к Хридае Чайтанье, а узнав, что книги нашлись, уходит в Уткалу, в родную Дхаренду, где распространяет нама-санкиртану; наместник-патхан Шер Хан разбивает кхолы и караталы — от грозного возгласа Шьямананды у яванов сгорают бороды и их рвёт кровью; во сне Господь говорит Шер Хану: «Я — твой Аллах», — являет золотистый облик Чайтаньи и велит принять мантру Кришны у Шьямананды; затем в Раяни на Суварнарекхе Шьямананда оказывает милость сыновьям раджи Ачьютананды, Расике и Мурари, и вручает Расике служение Говинде в Гопиваллабхапуре."
+  persons: ["@shyamananda", "@hridaya-chaitanya", "@sher-khan", "@mahaprabhu", "@rasikananda"]
+  places: ["#ambika-kalna", "#dharenda", "#gopivallabhapura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Слова Господа «Я — твой Аллах» в сне Шер Хана — по тексту; обычно Расикананда и Мурари — одно лицо (сноска перевода)."
+  themes: [mercy, kirtan, muslims]
+  teaching: [holy-name]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "56", to: "92"}
+
+- id: pvl-0144
+  source: prema-vilasa
+  ref: "Виласа 19, 93–112"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 103.5
+  title: "Шьямананда побеждает в споре йогина-ведантиста Дамодару; сияющий шнур на теле гопа; авеша Адвайты"
+  summary: "В Гопиваллабхапуре санньяси-ведантист много дней спорит с Шьяманандой, и тот опровергает адвайта-ваду учением Госвами; во сне йогину открыто, что пастух-гоп стал брахманом силой бхаджана; Дамодара получает мантру Кришны и видит на Шьямананде сияющий священный шнур, который тот скрывает при приходе Расики; Шьямананда исполнен авеши Адвайты; его сиддха-имя — Канака-манджари."
+  persons: ["@shyamananda", "@damodara-yogi", "@rasikananda", "@advaita", "@nityananda-dasa-author"]
+  places: ["#gopivallabhapura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Шьямананда по рождению из гопов (садгопов) (сноска перевода)."
+  themes: [learning, mercy, revelation]
+  teaching: [vedanta, purity]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "93", to: "112"}
+
+- id: pvl-0145
+  source: prema-vilasa
+  ref: "Виласа 19, 113–116"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 88.2
+  title: "Весть о сокрытии Вишнуприи"
+  summary: "По повелению Тхакурани автор берётся описать праздники в Катоа и Кханде, о которых прежде умолчал: когда услышали, что Вишнуприя Тхакурани скрылась из мира, скорбь преданных была неописуема."
+  persons: ["@vishnupriya", "@nityananda-dasa-author", "@jahnava"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Упоминание. Двустишия 114–116 в изд. 1913 г. в скобках (сноска перевода)."
+  themes: [departure, separation]
+  event: ev-vishnupriya-departure
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "113", to: "116"}
+
+- id: pvl-0146
+  source: prema-vilasa
+  ref: "Виласа 19, 117–124"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 88.3
+  title: "Гададхара Дас скрывается в кришна-аштами карттики, Нарахари Саркар — в кришна-экадаши аграхаяны"
+  summary: "В скорби по Вишнуприи Гададхара Дас слабеет и скрывается в восьмой день тёмной половины карттики; Нарахари Саркар долго плачет о нём и сам скрывается в одиннадцатый день тёмной половины аграхаяны; Рагхунандана, Сулочана и Ядунандана безутешны."
+  persons: ["@gadadhara-dasa", "@narahari-sarakara", "@yadunandana-chakravarti", "@raghunandana", "@vishnupriya"]
+  places: ["#katwa", "#shrikhanda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [departure, separation]
+  calendar: "карттика, кришна-аштами (Гададхара Дас); аграхаяна, кришна-экадаши (Нарахари)"
+  event: ev-gadadhara-dasa-narahari-departure
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "117", to: "124"}
+
+- id: pvl-0147
+  source: prema-vilasa
+  ref: "Виласа 19, 125–178"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 88.35
+  title: "Поминальные праздники в Катоа и Кханде: Рагхунандана и Ядунандана; съезд ветвей Махапрабху, Нитьянанды, Адвайты и Гададхары; слепой прозревает"
+  summary: "Рагхунандана с Лочаной приходит в Катоа к Ядунандане Чакраварти, ученику Гададхары Даса; они назначают поминальный праздник и рассылают приглашения; в Катоа сходятся ветви Махапрабху (Шрипати, Шринидхи, Кави Карнапура и др.), Нитьянанды (среди них автор, Вриндаван Дас, явивший «Чайтанья-мангалу», Вирачандра, Мадхава Ачарья — муж Ганги, Джагай и Мадхай), Адвайты (Ачьютананда, Кришна Мишра, Гопала, Мадхава Ачарья с «Кришна-мангалой») и Гададхары (Наянананда); все кланяются месту санньясы и Гауранге Катоа, затем празднуют в Кханде, где по милости Вирачандры прозревает слепой."
+  persons: ["@raghunandana", "@lochana-dasa", "@yadunandana-chakravarti", "@gadadhara-dasa", "@narahari-sarakara", "@kavi-karnapura", "@nityananda-dasa-author", "@vrindavana-dasa", "@virabhadra", "@madhava-acharya-ganga", "@ganga-nityananda", "@jagai-madhai", "@madhava-acharya-kavivallabha", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@gadadhara-pandita", "@ramai-blind", "@mahaprabhu"]
+  places: ["#katwa", "#shrikhanda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Разбивка перечня на имена не всегда надёжна; «Чайтанья-мангала» — первоначальное название «Чайтанья-бхагаваты»; Лочана (Сулочана) — по-видимому, Лочан Дас (сноски перевода). Джагай и Мадхай названы Джаганнатхой и Мадхавой среди спутников Нитьянанды."
+  themes: [festival, kirtan, departure]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "125", to: "178"}
+
+- id: pvl-0148
+  source: prema-vilasa
+  ref: "Виласа 19, 179–208"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 95.7
+  title: "Джахнава во второй раз возвращается из Вриндавана: Кхетури (благословения Локанатхи и Гопалы Бхатты), Яджиграм, Кхардаха"
+  summary: "По повелению Ишвари автор описывает вторичную абхишеку шести Божеств; прежде Джахнава во второй раз со спутниками (и с автором) возвращается из Вриндавана в Кхетури, кланяется Гауранге и Валлавиканте и передаёт Нароттаме благословение Локанатхи, Рамачандре — Гопалы Бхатты, обоим — Дживы; затем в Яджиграме передаёт Шринивасу благословение Бхатты и возвращается в Кхардаху."
+  persons: ["@jahnava", "@nityananda-dasa-author", "@narottama-dasa", "@ramachandra-kaviraja", "@srinivasa-acharya", "@lokanatha", "@gopala-bhatta", "@jiva-gosvami"]
+  places: ["#kheturi", "#yajigrama", "#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Двустишия 186–196 в изд. 1913 г. в скобках (сноска перевода)."
+  themes: [pilgrimage, mercy]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "179", to: "208"}
+
+- id: pvl-0149
+  source: prema-vilasa
+  ref: "Виласа 19, 209–249"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 104
+  title: "Нароттама жаждет видеть Кришну с Возлюбленной; сон о шести Божествах; Гауранга и Валлавиканта исчезают из храма; поездка Нароттамы в Пури и Гауду"
+  summary: "Видя Валлавиканту без Радхи, Нароттама жаждет увидеть «домашний мир» Кришны; во сне Гауранга и Валлавиканта говорят, что приняли шесть образов — Гауранга, Валлавиканта, Шри Кришна, Враджа-мохан, Радха-рамана, Радха-канта — и прежние два скрылись, чтобы соединиться с новыми при абхишеке; утром храм пуст, Нароттама велит поклоняться шалаграме; узнав, что Шринивас ушёл во Вриндаван, он посылает за ним Рамачандру, а сам идёт в Нилачалу, к Шьямананде и по святым местам Гауды."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@srinivasa-acharya", "@shyamananda", "@mahaprabhu", "@krishna", "@radha", "@jagannatha-deity"]
+  places: ["#kheturi", "#puri", "#kharadaha", "#shantipura", "#ambika-kalna", "#navadvipa", "#shrikhanda", "#katwa", "#ekachakra"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [deities, celestial, pilgrimage]
+  event: ev-kheturi-six-deities
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "209", to: "249"}
+
+- id: pvl-0150
+  source: prema-vilasa
+  ref: "Виласа 19, 250–300"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 104.1
+  title: "Образ Гауры не удаётся ваятелям; во сне Чайтанья открывает, что сам изваял Свой образ до санньясы и спрятал в амбаре Випрадаса; змеи исчезают; встреча с Шринивасом; приготовления к абхишеке"
+  summary: "Пять образов Кришны выходят превосходными, а образ Гауры не получается; Господь во сне говорит, что не будет пребывать в нём: до санньясы Он изваял Свой образ, погрузил его в Гангу и поместил в зернохранилище Випрадаса; Нароттама входит в амбар, змеи исчезают, он выносит образ, и Випрадас с родом принимает прибежище; люди узнают в образе прежнего Гаурангу; Шринивас с Рамачандрой возвращаются из Вриндавана, встречаются с Нароттамой в Будхари и велят готовить абхишеку к Пхалгуна-пурниме; рассылаются приглашения."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@vipradasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@lokanatha"]
+  places: ["#kheturi", "#teliya-budhari", "#vana-vishnupura", "#katwa", "#yajigrama", "#kharadaha", "#shantipura", "#ambika-kalna", "#navadvipa", "#shrikhanda"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Образ, изваянный Самим Господом до санньясы и погружённый в Гангу (262) — подробность «Према-виласы»."
+  themes: [deities, celestial]
+  event: ev-kheturi-six-deities
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "250", to: "300"}
+
+- id: pvl-0151
+  source: prema-vilasa
+  ref: "Виласа 19, 301–333"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 105
+  title: "Съезд в Кхетури: Шринивас с учениками, Шьямананда с Расикой, Джахнава с Вирачандрой и Мадхавой, сыновья Адвайты, Ядунандана, Рагхунандана; сон Нароттамы о пляске Господа"
+  summary: "В Кхетури приходят Шринивас, Рамачандра, Говинда, Вьяса, Кришнавальлабха и другие, Шьямананда с Расикой и Мурари из Уткалы, Джахнава из Кхардахи с Вирачандрой, зятем Мадхавой Ачарьей и многими, Хридая Чайтанья, Гопала и Ачьютананда из Шантипура с Мадхавой Ачарьей — певцом «Кришна-мангалы», Шрипати и Шринидхи из Навадвипы, Ядунандана из Катоа, Рагхунандана с Лочаной из Кханды, Наянананда и другие; Нароттама принимает всех, а ночью Чайтанья во сне обещает назавтра плясать в санкиртане со Своими преданными."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@vyasa-acharya", "@krishnavallabha", "@shyamananda", "@rasikananda", "@jahnava", "@virabhadra", "@madhava-acharya-ganga", "@hridaya-chaitanya", "@gopala-dasa-advaita", "@achyutananda", "@madhava-acharya-kavivallabha", "@yadunandana-chakravarti", "@raghunandana", "@lochana-dasa", "@santosha-raya", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Перечни имён частично неоднозначны (сноски перевода)."
+  themes: [festival, celestial]
+  calendar: "пхалгуна, пурнима"
+  event: ev-kheturi-festival
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "301", to: "333"}
+
+- id: pvl-0152
+  source: prema-vilasa
+  ref: "Виласа 19, 334–370"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 105.1
+  title: "Абхишека шести Божеств в Пхалгуна-пурниму; Шринивас поклоняется Гауре мантрой Божественной Четы; Джахнава: «Чайтанья — Радха и Кришна в одном облике»"
+  summary: "Получив разрешение Джахнавы и всех махатм, Нароттама совершает великую абхишеку шести Божеств, произнося свой стих «Гауранга, Валлавиканта, Шри Кришна, Враджа-мохана, Радха-рамана, Радха-канта — поклон Тебе!»; в день Дола-ятры и рождения Махапрабху Божества возводят на трон, боги сыплют цветы; Шринивас облачает их и поклоняется по правилам десятислоговой мантры Гопалы, а на вопрос Джахнавы объясняет, что по повелению Госвами поклоняется Чайтанье мантрой Божественной Четы; Джахнава одобряет: Чайтанья — Радха и Кришна в одном облике; Шринивас раздаёт гирлянды и сандал."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@jahnava", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Двустишия 357–366 и 368 в изд. 1913 г. отчасти в скобках (сноска перевода)."
+  themes: [deities, festival]
+  teaching: [gaura-tattva]
+  calendar: "пхалгуна, пурнима (Дола-ятра, Гаура-пурнима)"
+  event: ev-kheturi-festival
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "334", to: "370"}
+
+- id: pvl-0153
+  source: prema-vilasa
+  ref: "Виласа 19, 371–411"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 105.2
+  title: "Киртан Нароттамы: Гаура-рай со Своими спутниками является и пляшет в санкиртане и исчезает; праздник красок; абхишека в день рождения Махапрабху"
+  summary: "Нароттама начинает санкиртану (Девидас на кхоле, Гауранга Дас на караталах) и поёт о Гауре в бхаве Радхи; его голос притягивает Горачанда, и Он является с Нитьянандой, Адвайтой, Шривасом, Гададхарой, Мурари, Харидасом, Сварупой, Рупой, Санатаной, Гауридасом и пляшет со всеми, а затем исчезает; преданные плачут, Ачьютананда утешает Нароттаму: Господь покорён его премой; Джахнава и все осыпают Божество и друг друга цветным порошком; вечером Шринивас по повелению Ишвари совершает абхишеку Гаура-раю по правилам Джанмаштами; наутро все расходятся."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@murari-gupta", "@haridasa-thakura", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami", "@gauridasa-pandita", "@achyutananda", "@srinivasa-acharya", "@shyamananda", "@jahnava", "@virabhadra", "@gopala-dasa-advaita", "@ramachandra-kaviraja", "@hridaya-chaitanya", "@raghunandana"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "«Кришна и Гаура — одно; кто видит различие, идёт в ад» (406); медитация по «Падма-пуране» (405; сноска перевода)."
+  themes: [kirtan, revelation, festival]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "371", to: "411"}
+
+- id: pvl-0154
+  source: prema-vilasa
+  ref: "Виласа 19, 412–416"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 98.2
+  title: "В доме Нароттамы поют «Чайтанья-мангалу» Лочана Даса, затем «Кришна-мангалу»"
+  summary: "Порядок служения у Нароттамы чудесен: в его доме всегда поют песни «Чайтанья-мангалы», сочинённой Лочаной Дасом — вайдьей из Шрикханды, учеником Нарахари, — а затем «Кришна-мангалу», от которой у слушателей тает сердце."
+  persons: ["@narottama-dasa", "@lochana-dasa", "@narahari-sarakara", "@madhava-acharya-kavivallabha"]
+  places: ["#kheturi", "#shrikhanda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Свидетельство о раннем бытовании «Чайтанья-мангалы» Лочана Даса."
+  themes: [kirtan, learning]
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "412", to: "416"}
+
+- id: pvl-0155
+  source: prema-vilasa
+  ref: "Виласа 19, 417–458"
+  file: "prema-vilasa/ru/19.md"
+  period: P07
+  order: 127.2
+  title: "Мадхава Ачарья, двоюродный брат Вишнуприи: при абхишеке Господа в доме Шриваса становится Его преданным; посвящение от Адвайты; «Кришна-мангала»; санньяса во Вриндаване"
+  summary: "Сын Калидаса (Парашары) Мишры, брата Санатаны Мишры — отца Вишнуприи, Мадхава рано остаётся без отца и становится учёным Ачарьей; во время абхишеки Гауранги в доме Шриваса он видит Господа и обезумевает от любви, затем, услышав маха-мантру из Его уст, получает стопу Господа на голову и повеление повторять Имя по счёту — сто тысяч; после санньясы Господа он перелагает Десятую песнь «Бхагаваты» в «Кришна-мангалу» и подносит её Господу, и по Его велению Адвайта посвящает его в Хари-наму, мантру Радхи-Кришны, кама-гаятри и кама-биджу; спасаясь от женитьбы, он бежит во Вриндаван к Рупе, принимает санньясу; он — сакхи Мадхави, прозван Кавиваллабхой, «Вьясой века Кали»; после смерти матери он приходит с Ачьютой в Кхетури на абхишеку; автор странствовал с ним во Вриндаване."
+  persons: ["@madhava-acharya-kavivallabha", "@sanatana-mishra", "@vishnupriya", "@mahaprabhu", "@srivasa", "@advaita", "@rupa-gosvami", "@achyutananda", "@nityananda-dasa-author", "@jahnava"]
+  places: ["#navadvipa", "#house-srivasa", "#vrindavana", "#shantipura", "#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Дом Шринивасы» (429) — по-видимому, дом Шриваса Пандита (сноска перевода). Отец Санатаны Мишры — Дургадас Мишра, мать — Виджая, жена Санатаны — Махамайя."
+  themes: [mercy, learning, kirtan]
+  teaching: [holy-name]
+  scriptures: ["Мадхава Ачарья, «Кришна-мангала» (по Бхаг., песнь 10)"]
+  event: ev-madhava-acharya-krishna-mangala
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "417", to: "458"}
+
+- id: pvl-0156
+  source: prema-vilasa
+  ref: "Виласа 19, 459–473"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 98.3
+  title: "Храм шести Божеств; служение восьми пор; чтение «Бхагаваты», «Чайтанья-бхагаваты» и «Чайтанья-чаритамриты»; песни Говиндадаса, Видьяпати и Чандидаса; ежегодный праздник в Пхалгуна-пурниму"
+  summary: "Нароттама строит храм с шестью покоями для шести Божеств и служит им по восьми порам дня; весь год идёт санкиртана; читают «Шримад-Бхагавату», «Чайтанья-бхагавату» — прежде звавшуюся «Чайтанья-мангалой», — и «Чайтанья-чаритамриту»; поют «Чайтанья-мангалу», «Кришна-мангалу», песни Говинды, Видьяпати и Чандидаса; каждый год в Пхалгуна-пурниму в Кхетури — великий праздник."
+  persons: ["@narottama-dasa", "@govinda-kaviraja", "@vidyapati", "@vrindavana-dasa", "@krishnadasa-kaviraja"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Название «Чайтанья-бхагавата» дано махатмами Вриндавана вместо «Чайтанья-мангалы» (465–466)."
+  themes: [deities, kirtan, festival]
+  calendar: "пхалгуна, пурнима (ежегодно)"
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "459", to: "473"}
+
+- id: pvl-0157
+  source: prema-vilasa
+  ref: "Виласа 19, 474–494"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 95.8
+  title: "Чудеса на пути Джахнавы из Кхетури во Вриндаван: разбойник Кутбуддин и змеи; Чандика во сне укрощает глумившихся пашанди"
+  summary: "Автор, сопровождавший Тхакурани, видел: атаман Кутбуддин с яванами всю ночь блуждает, не находя путников, видит ползущих к ним змей, слышит голос «Это Тхакурани вас укротила» и сдаётся Джахнаве — она оказывает милость, и яваны поют о Кришне; в другой деревне глумившимся пашанди является разгневанная Чандика и велит принять прибежище у Джахнавы, и они становятся её спутниками; вернувшись из Вриндавана, Джахнава гостит в Кхетури."
+  persons: ["@jahnava", "@nityananda-dasa-author", "@durga"]
+  places: ["#kheturi", "#vrindavana"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Чандика — грозный облик Дурги; 474–494 в изд. 1913 г. в скобках (сноски перевода)."
+  themes: [mercy, muslims, pilgrimage]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "474", to: "494"}
+
+- id: pvl-0158
+  source: prema-vilasa
+  ref: "Виласа 19, 495–507"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 21
+  title: "Мадхава Ачарья, варендра-брахман и ученик Нитьянанды, по повелению гуру женится на Ганге и становится рархи; автор учился у него игре на инструментах"
+  summary: "При Джахнаве всегда находится Мадхава Ачарья, искусный певец и музыкант, варендра-брахман высочайшего рода, ученик Нитьянанды, знающий лишь Нитая; Нитьянанда отдал ему в жёны дочь Гангу, и он женился по повелению гуру, хотя рархи и варендра обычно не роднятся — автор доказывает их общее происхождение от пяти брахманов Адишуры; Мадхаву зовут Шантану, а Гангу — самой Гангой; автор учился у него игре на инструментах."
+  persons: ["@madhava-acharya-ganga", "@ganga-nityananda", "@nityananda", "@jahnava", "@nityananda-dasa-author"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Здесь Мадхава Ачарья — супруг Ганги, а не автор «Кришна-мангалы»; 498–503 в изд. 1913 г. в скобках (сноски перевода)."
+  themes: [family]
+  event: ev-ganga-marries-madhava
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "495", to: "507"}
+
+- id: pvl-0159
+  source: prema-vilasa
+  ref: "Виласа 19, 508–534"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 106
+  title: "Праздник Пхалгуна-пурнимы в Кхетури: Радха и Кришна являются над киртаном; голос с неба «Благословен Нароттама!»; самадхи Нароттамы"
+  summary: "На празднике собираются Шринивас, Шьямананда, Вирачандра, Ачьютананда; после абхишеки и игры красками поют песни Васу Гхоша и Чандидаса, Девидас и Мадхава Ачарья играют на мриданге; силой бхакти Нароттамы Кришна с Возлюбленной является в небе над санкиртаной в сиянии молнии, звенят нупуры — и исчезает; Нароттама падает без чувств, с неба звучит «Благословен Нароттама!»; в другой раз Нароттама два дня в самадхи созерцает раса-лилу, и Шринивас приводит его в сознание."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@shyamananda", "@virabhadra", "@achyutananda", "@ramachandra-kaviraja", "@madhava-acharya-ganga", "@vasu-ghosha", "@santosha-raya", "@govinda-kaviraja", "@radha", "@krishna"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Нароттама назван авеша-аватарой Бхагавана (527)."
+  themes: [revelation, kirtan, festival]
+  calendar: "пхалгуна, пурнима"
+  event: ev-radha-krishna-appear-kheturi
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "508", to: "534"}
+
+- id: pvl-0160
+  source: prema-vilasa
+  ref: "Виласа 19, 535–571"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 107
+  title: "Гурудас Бхаттачарья, хуливший Нароттаму как шудру, поражён проказой; Бхавани во сне велит покаяться; Джаганнатха Ачарья; бывшие воины Чанд Рая"
+  summary: "Ведийский брахман Гурудас Бхаттачарья из Гопалпура, поносивший Нароттаму, заболевает проказой; Бхавани во сне говорит ему: Нароттама — воплощение премы Чайтаньи и авеша Нитьянанды, кто предан Вишну, у того шнур в сердце, а чандала-вайшнав лучше брахмана; он кается, и стопа Нароттамы исцеляет его; пандит Джаганнатха Ачарья из Будхари, гневавшийся, что Нароттама посвящает брахманов, видит во сне, что тот — авеша Бхагавана, и принимает посвящение; учениками становятся и брахманы-разбойники, бывшие воины Чанд Рая."
+  persons: ["@gurudasa-bhattacharya", "@narottama-dasa", "@durga", "@mahaprabhu", "@nityananda", "@chand-raya"]
+  places: ["#kheturi", "#teliya-budhari"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Шлока о чандале-вайшнаве — без указания источника (сноска перевода)."
+  themes: [mercy, offense]
+  teaching: [purity, vaishnava]
+  scriptures: ["шлока «Даже чандала, преданный Вишну, — лучший из дваждырождённых…»"]
+  event: ev-narottama-delivers-brahmanas
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "535", to: "571"}
+
+- id: pvl-0161
+  source: prema-vilasa
+  ref: "Виласа 19, 572–599"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 108
+  title: "Рупачандра Лахири из Камарупы: неуч, бежавший из дома, становится учёным; видит Махапрабху в санкиртане в Нилачале; Сарасвати Пуны; дигвиджая"
+  summary: "У раджи Нарасимхи Рая, родича Нароттамы, живёт пандит Рупа Нараяна; автор рассказывает его жизнь со слов Нарасимхи: сын варендра-кулина Лакшминатхи Лахири из Бхитадии близ Эгарасиндура в Камарупе, озорник Рупачандра, обиженный отцом, уходит из дома, учится в Пандитбари и Навадвипе, становится Ачарьей, в Нилачале видит Махапрабху в санкиртане, изучает Веды в Пуне, получает звание Сарасвати и странствует, побеждая пандитов."
+  persons: ["@rupa-narayana", "@narasimha-raya", "@narottama-dasa", "@mahaprabhu", "@jagannatha-deity", "@nityananda-dasa-author"]
+  places: ["#navadvipa", "#puri", "#pune"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Видение Махапрабху в санкиртане в Пури (594) — упоминание."
+  themes: [learning]
+  event: ev-rupa-narayana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "572", to: "599"}
+
+- id: pvl-0162
+  source: prema-vilasa
+  ref: "Виласа 19, 600–658"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 108.1
+  title: "Рупа и Санатана признают себя побеждёнными; Джива семь дней спорит с Рупачандрой и побеждает; голос с неба: Хари-нама — от Госвами, мантра — от Нароттамы; в него входит Нараяна — имя Рупа Нараяна"
+  summary: "Во Вриндаване Рупачандра вызывает на спор Рупу и Санатану, но они признают себя побеждёнными; Джива спорит с ним семь дней, опровергает адвайта-ваду и утверждает превосходство бхакти над гьяной, кармой и йогой; Рупачандра кается у стоп Дживы, Рупы и Санатаны и просит посвящения; голос с неба велит дать ему Хари-наму, а мантру Гопалы он получит от Нароттамы, который родится в Кхетури и в двенадцать лет придёт к Локанатхе; в него входит Нараяна, и Госвами нарекают его Рупой Нараяной; он учится у Дживы «Бхагавате» с комментариями Шридхары Свами и «Тошани», «Бхагаватамритам», «Расамрите», «Удджвале» и «Сандарбхам» и кланяется всем Госвами."
+  persons: ["@rupa-narayana", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@narottama-dasa", "@lokanatha", "@narayana", "@raghunatha-bhatta", "@gopala-bhatta", "@bhugarbha", "@kashishvara", "@mahaprabhu"]
+  places: ["#vrindavana", "#mathura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "По тексту Рупа и Санатана предсказывают рождение Нароттамы (644–645), т. е. Рупачандра во Вриндаване до его рождения."
+  themes: [learning, mercy, celestial]
+  teaching: [bhakti-supremacy, vedanta, holy-name]
+  scriptures: ["«Бхагавата» с комментариями Шридхары Свами и «Вайшнава-тошани»", "«Лагху-» и «Брихад-бхагаватамрита»", "«Бхакти-расамрита-синдху», «Удджвала-ниламани», «Сандарбхи»"]
+  event: ev-rupa-narayana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "600", to: "658"}
+
+- id: pvl-0163
+  source: prema-vilasa
+  ref: "Виласа 19, 659–697"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 108.2
+  title: "Рупа Нараяна в Нилачале после ухода Господа: сон о Гауре, милость Гададхары, Сварупы, Даса Госвами и Рамананды; сны о Нитьянанде и Адвайте; встреча с Нарасимхой Раем; автор учился у него йоге"
+  summary: "В Нилачале Рупа Нараяна узнаёт, что Махапрабху скрылся, и во сне Гаура велит ему ждать встречи с Нарасимхой Раем и принять мантру от Нароттамы; он получает милость Гададхары, Сварупы, Рагхунатхи Даса и Рамананды Рая; в Гауде узнаёт об уходе Нитьянанды, затем Адвайты, и каждый во сне обещает ему встречу с Нарасимхой; на Ганге раджа Нарасимха приводит его во дворец, где он побеждает всех пандитов; автор изучал у него йога-шастру."
+  persons: ["@rupa-narayana", "@mahaprabhu", "@gadadhara-pandita", "@svarupa-damodara", "@raghunatha-dasa", "@ramananda-raya", "@nityananda", "@advaita", "@narasimha-raya", "@narottama-dasa", "@nityananda-dasa-author", "@jagannatha-deity"]
+  places: ["#puri", "#gauda", "#ganga"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "По тексту Гададхара, Сварупа и Рамананда живы после ухода Господа."
+  themes: [departure, celestial, learning]
+  event: ev-rupa-narayana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "659", to: "697"}
+
+- id: pvl-0164
+  source: prema-vilasa
+  ref: "Виласа 19, 698–773"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 109
+  title: "Пандиты жалуются на шудру Нароттаму, посвящающего брахманов; ученики, переодетые маслоделом и винокуром, побеждают их на санскрите в Кумарпуре; Бхагавати во сне; Нарасимха, Рупа Нараяна и пандиты принимают посвящение"
+  summary: "Брахманы жалуются Нарасимхе Раю, что Нароттама, сын Кришнананды Датты, даёт мантру брахманам, упразднил жертвы и обряды; Рупа Нараяна советует идти в Кхетури; в Кумарпуре Рамачандра, Говинда, Ганганараяна, Харихара, Рамакришна и Джаганнатха, переодетые маслоделом, винокуром, бару и горшечником, отвечают школярам и учителям на санскрите и побеждают их; Бхагавати с мечом во сне велит пандитам принять посвящение у Нароттамы — авеша-аватары Господа, у кого в сердце сияет шнур; пандиты (Ядунатха Видьябхушана, Кашинатха Тарка-бхушана и др.), раджа с женой и Рупа Нараяна — получив Хари-наму, мантру Гопалы, кама-гаятри и кама-биджу — становятся учениками."
+  persons: ["@narasimha-raya", "@rupa-narayana", "@narottama-dasa", "@krishnananda-datta", "@ramachandra-kaviraja", "@govinda-kaviraja", "@ganganarayana-chakravarti", "@ramakrishna-acharya", "@durga"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Отец Нароттамы здесь — Кришнананда Датта; шлоки 734–735 без указания источника (сноски перевода)."
+  themes: [learning, mercy, offense]
+  teaching: [purity, vaishnava]
+  scriptures: ["«Вайшнав — высшая дхарма…» (шлока)", "«Здоровья пусть просят у Солнца… освобождения — у Джанарданы» (шлока)"]
+  event: ev-narasimha-raya-conversion
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "698", to: "773"}
+
+- id: pvl-0165
+  source: prema-vilasa
+  ref: "Виласа 19, 774–783"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 107.1
+  title: "Братья Баларама и Рупа Нараяна из Кхетури по сну принимают посвящение и становятся пуджари"
+  summary: "Двое братьев-рархи из готры Саварна, Баларама и Рупа Нараяна из Кхетури, увидев во сне, что получили мантру от Нароттамы, приходят к нему; он посвящает их, и, видя их према-бхакти, ставит на служение Божествам — в Кхетури их зовут Пуджари; учеников Нароттамы не счесть."
+  persons: ["@narottama-dasa"]
+  places: ["#kheturi"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Этот Рупа Нараяна — не пандит из Камарупы (сноска перевода)."
+  themes: [mercy, deities]
+  event: ev-narottama-delivers-brahmanas
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "774", to: "783"}
+
+- id: pvl-0166
+  source: prema-vilasa
+  ref: "Виласа 19, 784–829"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 110
+  title: "Великое собрание на третий день после Пхалгуна-пурнимы: речь Вирабхадры о превосходстве вайшнавской дхармы, мантрах сампрадаи и дваждырождённости через посвящение"
+  summary: "На собрание сходятся Шьямананда с Расикой, Хридая Чайтанья, сыновья Адвайты, Васудха, Джахнава, Ганга и Вирачандра, Мадхава Ачарья, Рагхунандана, Ядунандана, Вира Хамбир, Шринивас и множество пашанди; Шринивас толкует «Бхагавату», а Вирабхадра говорит: вайшнавская дхарма выше ганапатьи, сауры, шайвы и шакты, мантра Кришны — высшая и принимается лишь от вайшнава в сампрадае (Шри, Брахма, Рудра, Санака), полученную от не-вайшнава следует принять заново; посвящение делает дваждырождённым, как раса делает бронзу золотом; Нароттама из каястхов — часть Нитьянанды, и, рассекши грудь, он покажет шнур."
+  persons: ["@virabhadra", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@rasikananda", "@hridaya-chaitanya", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@vasudha", "@jahnava", "@ganga-nityananda", "@madhava-acharya-ganga", "@raghunandana", "@yadunandana-chakravarti", "@vira-hambira", "@krishnavallabha", "@vyasa-acharya", "@sundarananda", "@nityananda", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Говорящий — Вирабхадра (по изд. 1999 г.; сноска перевода). В перечне назван Сундарананда (791)."
+  themes: [teaching, festival]
+  teaching: [purity, vaishnava, associates-tattva]
+  scriptures: ["«Гаутамия-тантра» (мантры Кришны; сампрадая)", "«Падма-пурана» (четыре сампрадаи)", "«Хари-бхакти-виласа» (о величии гуру и посвящения)", "«Бхакти-сандарбха» (шлока о пса-едящем)", "шлока «Преданные Бхагавана — не шудры…»"]
+  event: ev-narottama-sacred-thread
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "784", to: "829"}
+
+- id: pvl-0167
+  source: prema-vilasa
+  ref: "Виласа 19, 830–858"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 110.1
+  title: "Нароттама, как Хануман, рассекает грудь и являет сияющий шнур; пашанди кланяются; Рупа Нараяна поёт, Вирачандра жалует ему звание Госвами; сиддха-имя Нараяни-манджари"
+  summary: "По повелению Вирачандры и собрания Нароттама рассекает грудь и являет сияющий, как солнечный луч, священный шнур; пашанди дрожат и кланяются, и он, скрыв шнур, оказывает им милость; в санкиртане поёт Рупа Нараяна, а Нарасимха Рай играет на кхоле; Вирабхадра, узнав его историю, признаёт его шакти Шри Рупы и жалует звание Госвами; все благословляют его, а Нароттама даёт ему сиддха-имя Нараяни-манджари."
+  persons: ["@narottama-dasa", "@virabhadra", "@rupa-narayana", "@narasimha-raya", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@srinivasa-acharya", "@shyamananda", "@raghunandana", "@ramachandra-kaviraja", "@vasudha", "@jahnava", "@ganga-nityananda", "@govinda-kaviraja", "@rupa-gosvami"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Сравнение с Хануманом, показавшим в сердце Раму и Ситу (сноска перевода)."
+  themes: [revelation, kirtan, mercy]
+  teaching: [purity]
+  event: ev-narottama-sacred-thread
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "830", to: "858"}
+
+- id: pvl-0168
+  source: prema-vilasa
+  ref: "Виласа 19, 859–864"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 95.55
+  title: "Джахнава отправляет во Вриндаван изваяние Радхи, и Госвами ставят его слева от Мадана-мохана; восемь сыновей Джахнавы и поклон Абхирамы"
+  summary: "Как обещала во Вриндаване, Джахнава велит изготовить изваяние Шри Радхи для Мадана-мохана и отправляет его; Госвами с радостью ставят Радху слева от Него; подробнее автор писал о Джахнаве в «Вирачандра-чарите»: из восьми её сыновей семеро расстались с жизнью от поклона Абхирамы, а последний — Вирабхадра (Вирачандра)."
+  persons: ["@jahnava", "@madana-mohana-vrindavana", "@radha", "@abhirama", "@virabhadra", "@nityananda-dasa-author"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Вариант обоих изданий — изваяние для Гопинатхи; по преданию, поклон Абхирамы губил всякого, кто не был воплощением божества (сноски перевода). «Вирачандра-чарита» — по словам автора, его другое сочинение."
+  themes: [deities, family]
+  divergence: "По варианту обоих изданий изваяние Радхи отправлено для Гопинатхи, а не для Мадана-мохана (ср. виласу 16)."
+  event: ev-jahnava-radha-for-madana-mohana
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "859", to: "864"}
+
+- id: pvl-0169
+  source: prema-vilasa
+  ref: "Виласа 19, 865–877"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 88.36
+  title: "На поминальном празднике Нарахари в Шрикханде Вирачандра дарует зрение слепому Рамаи; отлучение Джаягопалы"
+  summary: "На поминальном празднике Нарахари в Шрикханде слепой Рамаи слышит киртан, но не видит танца и плачет; Вирачандра касается его глаз: «Смотри, Рамаи: в этой санкиртане танцуют все», — и тот прозревает и падает к его стопам, а с неба звучит «Благословен!»; Вирачандра отлучает Джаягопалу из Кадры за пренебрежение милостью гуру и извещает об этом письмом Шринивасу и махатм."
+  persons: ["@virabhadra", "@ramai-blind", "@narahari-sarakara", "@jayagopala", "@srinivasa-acharya", "@nityananda-dasa-author"]
+  places: ["#shrikhanda"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Подробно — в «Вирачандра-чарите» (по словам автора)."
+  themes: [mercy, kirtan, offense]
+  event: ev-virachandra-heals-blind-ramai
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "865", to: "877"}
+
+- id: pvl-0170
+  source: prema-vilasa
+  ref: "Виласа 19, 878–916"
+  file: "prema-vilasa/ru/19.md"
+  period: P15
+  order: 111
+  title: "Странствия Вирачандры: Нилачала и Гопиваллабхапур; путь во Вриндаван через Амбику, Шантипур, Навадвипу, Кханду, Яджиграм и Кхетури; Божества Вриндавана; Экачакра; возвращение в Кхардаху"
+  summary: "С позволения матери Вирачандра идёт в Нилачалу, видит Джаганнатху и места лил Махапрабху, встречается со Шьяманандой в Гопиваллабхапуре и возвращается в Кхардаху; затем через Амбику, Шантипур, Навадвипу, Кханду, Яджиграм, Катоа, Будхари и Кхетури идёт во Вриндаван, встречается с Госвами, обходит Матхура-мандалу, видит Говинду, Гопинатху, Мадана-мохана, Радха-Дамодару, Радха-раману и Радха-винода; на обратном пути посещает Экачакру — место рождения Нитьянанды, — Кхетури, где передаёт Нароттаме благословение Локанатхи, и Яджиграм — Шринивасу благословение Гопалы Бхатты; в Кхардахе кланяется Васудхе и Джахнаве; автор пишет по повелению гуру."
+  persons: ["@virabhadra", "@jahnava", "@vasudha", "@shyamananda", "@narottama-dasa", "@srinivasa-acharya", "@draupadi-ishvari", "@gauranga-priya", "@lokanatha", "@gopala-bhatta", "@nityananda", "@jagannatha-deity", "@govinda-deity", "@madana-mohana-vrindavana", "@radha-ramana-deity", "@nityananda-dasa-author"]
+  places: ["#puri", "#gopivallabhapura", "#kharadaha", "#ambika-kalna", "#shantipura", "#navadvipa", "#shrikhanda", "#yajigrama", "#katwa", "#teliya-budhari", "#kheturi", "#vrindavana", "#mathura", "#ekachakra"]
+  kind: lila
+  authority: C
+  parallels: "«Нитьянанда-вамша-вистара», гл. 7–10"
+  notes: "Кратко; подробно — по словам автора, в «Вирачандра-чарите»."
+  themes: [pilgrimage, deities]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "prema-vilasa/ru/19.md", from: "878", to: "916"}
+
+- id: pvl-0171
+  source: prema-vilasa
+  ref: "Виласа 20, 1–4"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 21.6
+  title: "Поклонения; переход к описанию ветвей"
+  summary: "Слава Чайтанье, Нитьянанде, Адвайте, преданным, Шринивасу, Нароттаме, Шьямананде и Рамачандре; автор переходит к описанию ветвей всех их."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "1", to: "4"}
+
+- id: pvl-0172
+  source: prema-vilasa
+  ref: "Виласа 20, 5–10"
+  file: "prema-vilasa/ru/20.md"
+  period: P11
+  order: 50.1
+  title: "Три брата-пандита Тайланги; Махапрабху проводит чатурмасью в доме Венкаты и открывает Гопале Бхатте настроение Враджа"
+  summary: "Трималла, Венката и Прабодхананда — братья-пандиты из Тайланги; Гопала Бхатта — сын Венкаты и ученик Прабодхананды; когда Махапрабху ходил на юг, Он соблюдал чатурмасью в доме Венкаты, и по Его милости Гопала обрёл вкус настроения Враджа и с повеления отца служил Господу."
+  persons: ["@mahaprabhu", "@trimalla-bhatta", "@prabodhananda-sarasvati", "@gopala-bhatta"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Упоминание (начало перечня ветвей)."
+  themes: [mercy, festival]
+  divergence: "Отцом Гопалы Бхатты здесь назван Венката (как в ЧЧ), а в виласе 18 — Трималла."
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "5", to: "10"}
+
+- id: pvl-0173
+  source: prema-vilasa
+  ref: "Виласа 20, 11–78"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 21.7
+  title: "Ветви Шринивасы Ачарьи: Рамачандра и Говинда Кавираджи с жёнами, жёны и дети Шринивасы, Гокулананда, Вира Хамбир (Чайтанья Дас), Вьяса, Кришнавальлабха и др."
+  summary: "Гопала Бхатта — Гуна-манджари, Шринивас — Мани-манджари; лучшая ветвь — Рамачандра Кавираджа, затем Говинда Кавираджа (жёны Ратнамала и Махамая, сын Дивьясимха); жёны Шринивасы — Драупади (Ишвари) и Падмавати (Гауранга-прия), сыновья Вриндаван, Радхакришна и Гати-Говинда, дочери Хемалата, Кришнаприя и Канчана-латика; далее — Гокулананда и Шри Дас, зятья, тести, писцы, Вьяса Чакраварти, царь Вира Хамбир (названный Дживой Чайтанья Дасом) с царицей Сулакшаной и царевичем Дхари Хамбиром, Кришнавальлабха и десятки других учеников."
+  persons: ["@nityananda-dasa-author", "@gopala-bhatta", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@draupadi-ishvari", "@gauranga-priya", "@gati-govinda", "@vyasa-acharya", "@vira-hambira", "@jiva-gosvami", "@krishnavallabha"]
+  places: ["#vana-vishnupura", "#radha-kunda"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Перечень ветвей; в изд. 1999 г. 42–51 отсутствуют (сноска перевода). Царь назван здесь Чайтанья Дасом (имя от Дживы), в виласе 13 — Харичараной Дасом (имя от Шринивасы)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "11", to: "78"}
+
+- id: pvl-0174
+  source: prema-vilasa
+  ref: "Виласа 20, 79–174"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 21.8
+  title: "Ветви Нароттамы: от Локанатхи (Радха-винода) — пуджари Кхетури, родичи Датта, Рамакришна и Ганганараяна, раджа Нарасимха, Рупа Нараяна, Чанд Рай, Випрадас, пандиты и бывшие разбойники"
+  summary: "Чайтанья — особое явление Кришны; Его ученик Локанатха из Талагади (Манджулали-манджари), явивший Радха-винода, — гуру Нароттамы (Чампака-манджари); ветви Нароттамы — пуджари Баларама и Рупа Нараяна, Рави Рай, Радхаваллабха и Сантоша Датта (дядя и двоюродные братья), Рамакришна из Гояса, Ганганараяна из Гамбхилы, кормивший пятьсот учеников, раджа Нарасимха с женой Рупамалой, Рупа Нараяна Госани из Эгарасиндура, Джаганнатха Ачарья, киртания Девидас, Харичандра (Харидас), Рагхавендра с женой и сыновьями Чанд Раем и Сантошей и их жёнами, Випрадас с семьёй, Гурудас, пандиты Нарасимхи и бывшие разбойники Чанд Рая и др."
+  persons: ["@nityananda-dasa-author", "@mahaprabhu", "@lokanatha", "@narottama-dasa", "@krishnananda-datta", "@santosha-raya", "@govinda-kaviraja", "@ramakrishna-acharya", "@ganganarayana-chakravarti", "@narasimha-raya", "@rupa-narayana", "@virabhadra", "@harichandra-raya", "@raghavendra-raya", "@chand-raya", "@vipradasa", "@gurudasa-bhattacharya"]
+  places: ["#kheturi", "#talagadi", "#teliya-budhari"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "По тексту отец Нароттамы Кришнананда — младший брат Пурушоттамы, отца Сантоши (93–94; сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "79", to: "174"}
+
+- id: pvl-0175
+  source: prema-vilasa
+  ref: "Виласа 20, 175–206"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 21.9
+  title: "Ветви Шьямананды: от Гауридаса (Субалы) и Хридаи Чайтаньи (сакхи Судхира); Расикананда и Мурари с жёнами, йогин Дамодара, Шер Хан (Чайтанья Дас) и др."
+  summary: "Сурьядас Саркхел — лучший из пандитов, его брат Гауридас (друг Субала) по велению Нитьянанды поселился в Амбике и явил служение Гауре и Нитьянанде; его ученик Хридая Чайтанья (сакхи Судхира) — гуру Духкхи Кришнадаса из садгопов, нарёченного Дживой Шьяманандой (Канака-манджари) за найденную нупуру Радхи; Шьямананда — авеша Адвайты; ветви — Кишоридас, Динабандху, гопы Дхаренды, Расикананда и Мурари из Раяни с жёнами Малати и Шачирани, йогин Дамодара (которому Шьямананда показал шнур), ученики Баларамапура, Нрисимхапура, Гопиваллабхапура и бывший разбойник-яван Шер Хан, ныне Чайтанья Дас."
+  persons: ["@nityananda-dasa-author", "@suryadasa-pandita", "@gauridasa-pandita", "@nityananda", "@hridaya-chaitanya", "@shyamananda", "@jiva-gosvami", "@radha", "@advaita", "@rasikananda", "@damodara-yogi", "@sher-khan"]
+  places: ["#ambika-kalna", "#dharenda", "#gopivallabhapura"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Здесь Расикананда и Мурари — два лица с разными жёнами; обычно — одно лицо (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "175", to: "206"}
+
+- id: pvl-0176
+  source: prema-vilasa
+  ref: "Виласа 20, 207–216"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 22
+  title: "Истина о трёх Прабху: Шринивас — сила Чайтаньи, Нароттама — Нитьянанды, Шьямананда — Адвайты"
+  summary: "Шринивас, Нароттама и Шьямананда родились от премы Махапрабху: Шринивас — сила и частица Чайтаньи, Нароттама — Нитьянанды, Шьямананда — Адвайты, — авеша-аватары трёх Прабху; приводится трипади «некоего вайшнава»: кто был Нитьянандой, стал Нароттамой, Чайтанья — Шринивасом, Адвайта — Шьяманандой; после ухода трёх Прабху их сила сделала благословенными все страны."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Речь об авеше (нисхождении силы) Господа в преданных, а не о тождестве их с Господом; трипади «кто был Нитьянандой — стал Нароттамой» в гаудия-вайшнавском понимании означает явление в них силы трёх Прабху."
+  themes: [author, teaching]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "207", to: "216"}
+
+- id: pvl-0177
+  source: prema-vilasa
+  ref: "Виласа 20, 217–227"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 22.1
+  title: "Род и ветви Рамачандры Кавираджи: сыновья Чиранджива Сены из Кханды; ученики Харирама, Валлабха Маджумдар, Баларама Кавипати"
+  summary: "Чиранджива Сена из Кханды и его жена Сунанда — родители Рамачандры и Говинды; после смерти отца братья жили в Кумарнагаре у деда по матери, затем поселились в Телия Будхари; сиддха-имя Рамачандры — Каруна-манджари; его ветви — пандит Харирама Ачарья из Гояса, Валлабха Маджумдар и Баларама Кавипати из Будхари."
+  persons: ["@nityananda-dasa-author", "@ramachandra-kaviraja", "@govinda-kaviraja", "@srinivasa-acharya", "@harirama-acharya"]
+  places: ["#shrikhanda", "#teliya-budhari"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "217", to: "227"}
+
+- id: pvl-0178
+  source: prema-vilasa
+  ref: "Виласа 20, 228–240"
+  file: "prema-vilasa/ru/20.md"
+  period: PX
+  order: 22.2
+  title: "Автор о себе: Баларама Дас из Шрикханды, сын Атмарамы и Саудамини; сиротой по сну пришёл в Кхардаху; Джахнава — гуру посвящения, Вирачандра — шикша-гуру; имя Нитьянанда Дас"
+  summary: "Автор написал книгу по велению гуру, записывая виденное и слышанное из её святых уст: его гуру посвящения — Джахнава, шикша-гуру — Вирачандра; он — единственный сын Атмарамы Даса и Саудамини из рода амбаштха в Шрикханде; рано осиротев, он увидел сон, где Джахнава велела прийти в Кхардаху и принять у неё мантру; прежде его звали Баларама Дас, а она нарекла его Нитьянандой Дасом."
+  persons: ["@nityananda-dasa-author", "@jahnava", "@virabhadra"]
+  places: ["#shrikhanda", "#kharadaha"]
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "С двустишия 233 в изд. 1913 г. открывается скобка (сноска перевода) — возможный признак позднего добавления."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/20.md", from: "228", to: "240"}
+
+- id: pvl-0179
+  source: prema-vilasa
+  ref: "Виласа 21, 1–3"
+  file: "prema-vilasa/ru/21.md"
+  period: PX
+  order: 22.3
+  title: "Поклонения; переход к рассказам о других преданных"
+  summary: "Описав жизнь Шринивасы, Нароттамы и Шьямананды, автор переходит к рассказам о других преданных."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Виласы 21–23 — поздние добавления к поэме (родословия, сведения о спутниках); уровень D."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/21.md", from: "1", to: "3"}
+
+- id: pvl-0180
+  source: prema-vilasa
+  ref: "Виласа 21, 4–35"
+  file: "prema-vilasa/ru/21.md"
+  period: P15
+  order: 21.1
+  title: "Родословие Мадхавы Ачарьи: сын варендры Вишвешвары, усыновлённый рархи Бхагиратхой; женитьба на Ганге; рархи и варендра едины"
+  summary: "Друзья детства Вишвешвара Майтра и Бхагиратха Чатта; умирающая Махалакшми отдаёт новорождённого Мадхаву Джаядурге, а Вишвешвара, уходя в Каши санньясином, — Бхагиратхе; Мадхава, учёный Ачарья и преданный Нитьянанды, по велению гуру женится на Ганге — дочери «санньяси», которую никто не брал, — и становится первым кулином рода Чатта; одни зовут его «Чатта из Ванги», другие — варендрой; автор доказывает единство рархи и варендра от пяти брахманов Адишуры."
+  persons: ["@madhava-acharya-ganga", "@ganga-nityananda", "@nityananda"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). 27–28 в изд. 1913 г. в скобках (сноска перевода)."
+  themes: [family]
+  divergence: "Мадхава — по рождению варендра, ставший рархи через усыновление Бхагиратхой Чаттой; в виласе 19 — рархи «по повелению гуру» через женитьбу."
+  event: ev-ganga-marries-madhava
+  verses:
+    - {file: "prema-vilasa/ru/21.md", from: "4", to: "35"}
+
+- id: pvl-0181
+  source: prema-vilasa
+  ref: "Виласа 21, 36–49"
+  file: "prema-vilasa/ru/21.md"
+  period: P07
+  order: 120.9
+  title: "Происхождение Джагая и Мадхая: внуки Шубхананды Рая, заминдара Навадвипы; их злодеяния"
+  summary: "Шубхананда Рай, брахман-кулин и заминдар Навадвипы, друг падишаха, имел сыновей Рагхунатху и Джанардану; их сыновья Джаганнатха (Джагай) и Мадхава (Мадхай), раджи Надии, в юности стали разбойниками: грабили, убивали, не признавали падишаха, так что и кази их боялся, пили вино, ели мясо, оставили сандхью, бесчестили чужих жён — не осталось греха, ими не совершённого."
+  persons: ["@jagai-madhai"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D)."
+  themes: [offense, muslims]
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "prema-vilasa/ru/21.md", from: "36", to: "49"}
+
+- id: pvl-0182
+  source: prema-vilasa
+  ref: "Виласа 21, 50–85"
+  file: "prema-vilasa/ru/21.md"
+  period: P07
+  order: 121
+  title: "Спасение Джагая и Мадхая: Мадхай бьёт Нитьянанду черепком, Господь призывает Чакру; Нитьянанда принимает их грехи и чернеет телом; Джая и Виджая"
+  summary: "Нитьянанда с Харидасом просят Джагая и Мадхая повторять имя Кришны, те гонятся за ними; Нитьянанда просит Гауру спасти их; в другой раз Мадхай бьёт Нитая черепком по голове, Джагай удерживает его; Господь в гневе призывает Чакру, но Нитай просит братьев в милостыню; Господь обнимает Джагая, Мадхай кается и по слову Господа падает к стопам Нитая; Нитай берёт их грехи, даёт лист туласи — его золотое тело чернеет и, когда он произносит имя Кришны, вновь становится золотым; братья становятся учениками двух Прабху; они — Джая и Виджая, родившиеся по своей воле."
+  persons: ["@jagai-madhai", "@nityananda", "@haridasa-thakura", "@mahaprabhu", "@sudarshana", "@nityananda-dasa-author"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Отождествление с Джаей и Виджаей — по тексту (сноска перевода)."
+  themes: [mercy, offense]
+  teaching: [holy-name]
+  divergence: "Нитьянанда принимает грехи братьев, и его тело чернеет, а при имени Кришны вновь становится золотым; братья — воплощения Джаи и Виджаи."
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "prema-vilasa/ru/21.md", from: "50", to: "85"}
+
+- id: pvl-0183
+  source: prema-vilasa
+  ref: "Виласа 22, 1–3"
+  file: "prema-vilasa/ru/22.md"
+  period: PX
+  order: 22.4
+  title: "Автор пишет по повелению Ишвари"
+  summary: "Ишвари велела автору описать то, что следует; веление гуру сильнее всего."
+  persons: ["@nityananda-dasa-author", "@jahnava"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "1", to: "3"}
+
+- id: pvl-0184
+  source: prema-vilasa
+  ref: "Виласа 22, 4–16"
+  file: "prema-vilasa/ru/22.md"
+  period: P12
+  order: 88
+  title: "Мукунда и Васудева Датта из Читтагонга; молитва Васудевы: «Пусть все уйдут на Вайкунтху, а я буду терпеть ад за них»"
+  summary: "Братья Мукунда и Васудева Датта из рода амбаштха в Чакрашале (Читтагонг) поселились в Навадвипе; Мукунда — соученик Господа, спорщик и певец; Васудева молит Господа взять грехи всех существ на себя и вечно терпеть ад, лишь бы все ушли на Вайкунтху; в вечной лиле они — певцы Мадхукантха и Мадхуврата."
+  persons: ["@mukunda-datta", "@vasudeva-datta", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D); ср. ЧЧ Мадхья 15."
+  themes: [mercy, kirtan]
+  teaching: [vaishnava]
+  event: ev-vasudeva-datta-prayer
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "4", to: "16"}
+
+- id: pvl-0185
+  source: prema-vilasa
+  ref: "Виласа 22, 17–41"
+  file: "prema-vilasa/ru/22.md"
+  period: P02
+  order: 6
+  title: "Пундарика Видьянидхи и Мадхава Мишра — проявления Вришабхану; рождение Гададхары в новолуние вайшакхи — проявление Радхи"
+  summary: "Пундарика Видьянидхи, богатый заминдар из Чакрашалы, ученик Мадхавендры Пури, внешне мирской, а внутри глубоко преданный, и его жена Ратнавати — Вришабхану и Киртида; его друг Мадхава Мишра из Белети, тоже ученик Мадхавендры, и его жена Ратнавати — тоже проявления Вришабхану и Киртиды; в Навадвипе в новолуние вайшакхи у Мадхавы рождается Гададхара — проявленный образ Радхи, родившейся, чтобы служить Гауранге, в котором соединены Радха и Кришна."
+  persons: ["@pundarika-vidyanidhi", "@madhava-mishra", "@gadadhara-pandita", "@madhavendra-puri", "@mahaprabhu", "@radha"]
+  places: ["#navadvipa", "#east-bengal"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Двустишия 24–25, 35, 37–39 в изд. 1913 г. в скобках (сноски перевода)."
+  themes: [family, celestial]
+  teaching: [associates-tattva, gaura-tattva]
+  calendar: "вайшакха, амавасья (рождение Гададхары)"
+  event: ev-gadadhara-birth
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "17", to: "41"}
+
+- id: pvl-0186
+  source: prema-vilasa
+  ref: "Виласа 22, 42–68"
+  file: "prema-vilasa/ru/22.md"
+  period: P07
+  order: 73
+  title: "Господь зовёт «Отец Пундарика!»; Мукунда ведёт Гададхару к Видьянидхи; сомнение Гададхары, экстаз Пундарики от шлоки «Бхагаваты», посвящение"
+  summary: "Господь притягивает Пундарику в Навадвипу и плачет: «Я увидел отца Пундарику!»; Мукунда ведёт к нему отрешённого Гададхару, но тот, видя повадки царевича-мирянина, сомневается; Мукунда читает шлоку из «Бхагаваты», и Пундарика в экстазе крушит всё вокруг, восклицая «Где Кришна?»; Гададхара видит в нём саттвика-бхавы, признаёт своё оскорбление и, чтобы искупить его, просит посвящения; Пундарика с радостью даёт ему мантру."
+  persons: ["@mahaprabhu", "@pundarika-vidyanidhi", "@mukunda-datta", "@gadadhara-pandita", "@madhava-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D); ср. ЧБ Мадхья 7."
+  themes: [offense, ecstasy, mercy]
+  teaching: [vaishnava]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "42", to: "68"}
+
+- id: pvl-0187
+  source: prema-vilasa
+  ref: "Виласа 22, 69–79"
+  file: "prema-vilasa/ru/22.md"
+  period: P14
+  order: 18
+  title: "Гададхара — Радхика; служение Гопинатхе; Господь вписывает шлоку в переписываемую Гададхарой «Гиту»"
+  summary: "Гададхара — Радхика, Лакшми Враджа, всегда служащий Чайтанье и становящийся слева от Него; он носит на шее образ Кришны и явил служение Гопинатхе, чем Господь был обрадован; однажды, когда Гададхара переписывал «Гиту», Господь выхватил рукопись, вписал в неё шлоку и вернул; Гададхара прославил её и закончил книгу."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Какая шлока вписана, не сказано."
+  themes: [teaching, deities]
+  teaching: [associates-tattva, scripture]
+  event: ev-lord-writes-in-gadadhara-gita
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "69", to: "79"}
+
+- id: pvl-0188
+  source: prema-vilasa
+  ref: "Виласа 22, 80–92"
+  file: "prema-vilasa/ru/22.md"
+  period: P15
+  order: 15.1
+  title: "Уходя, Гададхара вручает Наянананде Мишре образ Кришны со своей шеи, служение Гопинатхе и «Гиту» со шлокой Господа"
+  summary: "Племянник Гададхары Наянананда Мишра, сын его брата Ванинатхи, — его ученик и сила; перед уходом Гададхара вручает ему образ Кришны, который носил на шее, служение Гопинатхе с запретом поклоняться иным богам и «Гиту» со шлокой, вписанной Махапрабху, — и скрывается; Наянананда совершает погребальные обряды и поселяется в Бхаратпуре в Рархе."
+  persons: ["@gadadhara-pandita", "@nayanananda-mishra", "@gopinatha-deity-puri", "@mahaprabhu", "@nityananda-dasa-author"]
+  places: ["#puri", "#radha-desha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D)."
+  themes: [departure, deities]
+  divergence: "Уход Гададхары описан как передача служения Наянананде; в виласе 4 Шринивас лишь узнаёт о нём в Яджпуре."
+  event: ev-gadadhara-departure
+  verses:
+    - {file: "prema-vilasa/ru/22.md", from: "80", to: "92"}
+
+- id: pvl-0189
+  source: prema-vilasa
+  ref: "Виласа 23, 1–11"
+  file: "prema-vilasa/ru/23.md"
+  period: PX
+  order: 22.5
+  title: "Учителя Махапрабху: Ишвара Пури из Кумарахатты и Кешава Бхарати из Кулии — ученики Мадхавендры"
+  summary: "Ишвара Пури — сын рархи-брахмана Шьямасундары Ачарьи из Кумарахатты, знаток Вед, ставший учеником Мадхавендры и санньяси; Кешава Бхарати — варендра Калинатха Ачарья из Кулии, тоже ученик Мадхавендры; они — одна душа в двух телах; Кешава Бхарати — гуру Господа в санньясе, Ишвара Пури — гуру посвящения."
+  persons: ["@nityananda-dasa-author", "@ishvara-puri", "@keshava-bharati", "@madhavendra-puri", "@mahaprabhu"]
+  places: ["#kumarahatta", "#kulia"]
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D); родословные сведения."
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "1", to: "11"}
+
+- id: pvl-0190
+  source: prema-vilasa
+  ref: "Виласа 23, 12–58"
+  file: "prema-vilasa/ru/23.md"
+  period: P01
+  order: 3
+  title: "Семья Шриваса; в день Махапракаши Господь велит Шривасу рассказать, как в юности ему была продлена жизнь; Шривас — Нарада"
+  summary: "Сыновья Джаладхары Пандита из Шрихатты — Налина, Шривас, Шри Рама, Шрипати и Шриканта (Шринидхи) — живут в Навадвипе и Кумарахатте; в доме Шриваса Господь являет Махапракашу и восемнадцать прахар не приходит во внешнее сознание; затем Он говорит Адвайте, что тот привёл Его с Голоки, и велит Шривасу рассказать собранию: буйному шестнадцатилетнему Шривасу Высший Человек во сне предрёк год жизни; Шривас обратился к Хари-наме (шлока «Нарадия-пураны»), в день смерти слушал у Девананды историю Прахлады, упал с веранды и был оживлён ударом ладони; Господь открывает, что это был Он, а Шривас — Нарада, Шри Рама — Парвата."
+  persons: ["@srivasa", "@srirama-pandita", "@narayani", "@mahaprabhu", "@advaita", "@devananda-pandita", "@vrindavana-dasa", "@narada"]
+  places: ["#navadvipa", "#house-srivasa", "#kumarahatta", "#shrihatta"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Махапракаша подробно описана Вриндаваном Дасом (21; сноска перевода)."
+  themes: [revelation, celestial]
+  teaching: [holy-name, associates-tattva]
+  scriptures: ["Бхаг. 1.8.20 (молитва Кунти)", "«Брихан-нарадия-пурана» («харер нама…»)"]
+  divergence: "Жизнь Шривасе продлевает Сам Господь ударом ладони, когда тот падает с веранды у Девананды; рассказ открывается в день Махапракаши."
+  event: ev-srivasa-saved-from-death
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "12", to: "58"}
+
+- id: pvl-0191
+  source: prema-vilasa
+  ref: "Виласа 23, 59–64"
+  file: "prema-vilasa/ru/23.md"
+  period: P07
+  order: 105.5
+  title: "Сирота Нараяни у жены Шриваса вкушает остатки трапезы Господа и плачет «О Кришна!»"
+  summary: "Нараяни, дочь Налины Пандита, в год остаётся сиротой и растёт у жены Шриваса; четырёхлетней девочке Господь даёт остатки Своей трапезы, и по Его велению она восклицает «О Кришна!», плачет и падает на землю; она — Килимбика, вкушавшая остатки Кришны во Вриндаване."
+  persons: ["@narayani", "@malini", "@srivasa", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Отождествление с Килимбикой — по «Гаура-ганоддеша-дипике» (сноска перевода)."
+  themes: [prasada, mercy]
+  event: ev-narayani-remnants
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "59", to: "64"}
+
+- id: pvl-0192
+  source: prema-vilasa
+  ref: "Виласа 23, 65–75"
+  file: "prema-vilasa/ru/23.md"
+  period: P12
+  order: 130
+  title: "Нараяни выходит за Вайкунтхадаса; рождение Вриндавана Даса — проявления Вьясы; учение у Васудевы Датты; «Чайтанья-мангала», названная «Чайтанья-бхагаватой»"
+  summary: "После санньясы Господа Шривас и Шри Рама уходят в Кумарахатту; Нараяни выходит за брахмана Вайкунтхадаса, который умирает, пока она беременна; Шривас берёт её к себе; рождается Вриндаван Дас — проявление Ведавьясы; пятилетним он с матерью живёт в Мамгачхи при храме Васудевы Датты, учится и становится пандитом; его «Чайтанья-мангалу», подобную «Бхагавате», преданные Вриндавана нарекли «Чайтанья-бхагаватой»."
+  persons: ["@narayani", "@srivasa", "@srirama-pandita", "@vrindavana-dasa", "@vasudeva-datta", "@vyasa"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Мамгачхи — деревня близ Навадвипы (сноска перевода)."
+  themes: [family, learning]
+  event: ev-vrindavana-dasa-birth
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "65", to: "75"}
+
+- id: pvl-0193
+  source: prema-vilasa
+  ref: "Виласа 23, 76"
+  file: "prema-vilasa/ru/23.md"
+  period: P15
+  order: 30
+  title: "Нитьянанда скрывается через два года после ухода Чайтаньи"
+  summary: "Через два года после ухода Чайтаньи Нитьянанда скрылся из глаз."
+  persons: ["@nityananda", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D); упоминание."
+  themes: [departure]
+  years: [1535, 1535]
+  date_conf: оценка
+  date_basis: "ПВ 23.76 (поздняя виласа): через два года после ухода Чайтаньи (традиционно 1533 г.)"
+  event: ev-nityananda-departure
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "76", to: "76"}
+
+- id: pvl-0194
+  source: prema-vilasa
+  ref: "Виласа 23, 77–80"
+  file: "prema-vilasa/ru/23.md"
+  period: P15
+  order: 40
+  title: "Ещё через два года уходит Адвайта, «отпустив» обоих Прабху; Вриндаван Дас поселяется в Денуре"
+  summary: "Ещё через два года Адвайта Рай, словно в конце пуджи отпустив обоих Прабху, ушёл в Свою обитель; после ухода трёх Прабху Вриндаван Дас поселился в деревне Денур."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@vrindavana-dasa"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D); образ из чина пуджи — авахана и висарджана (сноска перевода)."
+  themes: [departure]
+  years: [1537, 1537]
+  date_conf: оценка
+  date_basis: "ПВ 23.76–77 (поздняя виласа): через четыре года после ухода Чайтаньи (традиционно 1533 г.)"
+  divergence: "Адвайта уходит через четыре года после Господа (в «Адвайта-пракаше» — в 125 лет, ок. 1558 г.)."
+  event: ev-advaita-departure
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "77", to: "80"}
+
+- id: pvl-0195
+  source: prema-vilasa
+  ref: "Виласа 23, 81–91"
+  file: "prema-vilasa/ru/23.md"
+  period: P13
+  order: 12
+  title: "Род Рупы и Санатаны: сын Мукундадевы Кумара из Карнаты, Найхати и Чандрадвипа; Дабир Кхас и Сакар Маллик в Рамакели; милость Господа"
+  summary: "Брахман-вайдика из Карнаты, Кумара, сын Мукундадевы, из страха перед яванами переселяется из Найхати в Чандрадвипу; его сыновья Санатана, Рупа и Валлабха (Анупама, отец Дживы) становятся любимцами царя-явана под именами Дабир Кхас и Сакар Маллик и живут в Рамакели; под предлогом похода во Врадж Господь приходит в Рамакели, оказывает им милость и даёт имена Рупа и Санатана, а затем от Канаи-Натшалы возвращается в Нилачалу."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@jiva-gosvami", "@mahaprabhu", "@gauda-sultan"]
+  places: ["#ramakeli", "#kanai-natashala", "#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D)."
+  themes: [mercy, muslims]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "81", to: "91"}
+
+- id: pvl-0196
+  source: prema-vilasa
+  ref: "Виласа 23, 92–123"
+  file: "prema-vilasa/ru/23.md"
+  period: P13
+  order: 12.5
+  title: "Отречение Рупы: жена поджигает дорогую одежду, ища ядовитое насекомое; пурашчараны; письмо-загадка Санатане; темница, выкуп и урок старухи о комьях земли"
+  summary: "Ночью Рупу кусает насекомое, и жена, торопясь, поджигает его дорогую одежду, говоря, что служение мужу дороже богатства; Рупа понимает, что не исполняет своего долга, и посылает к Господу, ушедшему лесом во Вриндаван; братья нанимают брахманов для пурашчаран; Рупа уходит и посылает Санатане письмо из слогов «я-ри, ра-ла, и-рам, на-я» — ключ к шлоке о непостоянстве мира; Санатана оставляет службу, царь бросает его в темницу, он выкупается деньгами, оставленными Рупой, и бежит; старуха смеётся, что он подложил под себя комья земли, и он кланяется ей как гуру; в Праяге Господь вкладывает силу в Рупу, в Варанаси наставляет Санатану; автор дополняет рассказ Кришнадаса Кавираджи."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu", "@gauda-sultan", "@krishnadasa-kaviraja", "@nityananda-dasa-author"]
+  places: ["#ramakeli", "#prayaga", "#kashi", "#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Шлока «Куда ушёл град Матхура Владыки Ядавов…» — без указания источника (сноски перевода)."
+  themes: [sannyasa, muslims]
+  scriptures: ["шлока «Куда ушёл град Матхура Владыки Ядавов?..»"]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "92", to: "123"}
+
+- id: pvl-0197
+  source: prema-vilasa
+  ref: "Виласа 23, 124–149"
+  file: "prema-vilasa/ru/23.md"
+  period: P14
+  order: 17
+  title: "Мадана-мохан в доме Дамодары Чаубе велит Санатане взять Его; купец, чья лодка сошла с мели, строит храм; семь Божеств Вриндавана"
+  summary: "Дамодара Чаубе и его жена растят Мадана-гопала как сына, а Он дружески играет с их сыном; во сне Он велит Санатане взять Его; Санатана, приходя за подаянием, дивится их родительской любви, как у Нанды и Яшоды; Мадана-мохан обещает Чаубе Голоку и уходит с Санатаной; купец, чья лодка села на мель, обещает построить храм, лодка плывёт, и он строит храм; другие купцы строят храмы Говинде, Гопинатхе, Радха-Дамодаре, Радха-виноде, Радха-рамане и Шьямасундаре — семи царям Вриндавана."
+  persons: ["@damodara-chaube", "@madana-mohana-vrindavana", "@sanatana-gosvami", "@rupa-gosvami", "@govinda-deity", "@radha-ramana-deity", "@nanda", "@yashoda"]
+  places: ["#mathura", "#vrindavana"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). 136–138 в изд. 1913 г. в скобках (сноска перевода)."
+  themes: [deities, celestial]
+  event: ev-madana-mohana-chaube
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "124", to: "149"}
+
+- id: pvl-0198
+  source: prema-vilasa
+  ref: "Виласа 23, 150–170"
+  file: "prema-vilasa/ru/23.md"
+  period: P15
+  order: 12
+  title: "Джива расспрашивает мать об облике дядей-отшельников, облачается так же и уходит во Вриндаван к Рупе"
+  summary: "Сын Валлабхи Джива, автор «Сандарбх» и «Сарва-самвадини», спрашивает мать о дядях; она рассказывает, что они во Врадже носят шнурок, каупину и внешнюю ткань, бреют голову, оставляя шикху, и просят подаяние с карангой; Джива тут же облачается так же и просит подаяния, мать скорбит, а он утешает её: благодаря ей спасён весь род; он уходит во Вриндаван, принимает посвящение у Рупы и создаёт «Шесть сандарбх»."
+  persons: ["@jiva-gosvami", "@anupama", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). 155–168 в изд. 1913 г. в скобках (сноска перевода)."
+  themes: [sannyasa, family, learning]
+  scriptures: ["Джива Госвами, «Шесть сандарбх», «Сарва-самвадини»"]
+  event: ev-jiva-comes-to-vrindavana
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "150", to: "170"}
+
+- id: pvl-0199
+  source: prema-vilasa
+  ref: "Виласа 23, 171–191"
+  file: "prema-vilasa/ru/23.md"
+  period: P15
+  order: 13
+  title: "Дигвиджайи Рупа Нараяна побеждён Дживой; Джива отнимает грамоту победы у пандита, получившего её от Рупы и Санатаны, — Рупа изгоняет его; «Сарва-самвадини»; прощение по ходатайству Санатаны"
+  summary: "Первым во Вриндаван пришёл дигвиджайи Рупа Нараяна, побеждённый Дживой; позже другой пандит получает от Рупы и Санатаны грамоту о победе без спора, и Джива в гневе побеждает его и отнимает грамоту; Рупа называет его глупцом, прежде времени надевшим одеяние отрешённого, и отвергает его; Джива в лесу пишет «Сарва-самвадини», не упоминая в ней своих гуру; Санатана находит исхудавшего Дживу и спрашивает Рупу о долге в отношении «джив» — сострадании; Рупа смеясь прощает Дживу, оба кладут стопы ему на голову, и он пишет «Крама-сандарбху» и другие книги."
+  persons: ["@jiva-gosvami", "@rupa-narayana", "@rupa-gosvami", "@sanatana-gosvami", "@nityananda-dasa-author"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя виласа (D). Игра слов «джива» — живое существо и имя Дживы (сноска перевода)."
+  themes: [offense, learning, mercy]
+  teaching: [vaishnava]
+  scriptures: ["Джива Госвами, «Сарва-самвадини», «Крама-сандарбха»"]
+  event: ev-jiva-exiled-by-rupa
+  verses:
+    - {file: "prema-vilasa/ru/23.md", from: "171", to: "191"}
+
+- id: pvl-0200
+  source: prema-vilasa
+  ref: "Полувиласа, 1–5"
+  file: "prema-vilasa/ru/25.md"
+  period: PX
+  order: 22.6
+  title: "Полувиласа: автор обнародует шесть писем, которые видел своими глазами, и указатель"
+  summary: "Слава Чайтанье, Нитьянанде, Адвайте, Шринивасу, Нароттаме, Шьямананде и Вирачандре; автор обнародует шесть писем, виденных им своими глазами, с толкованием и указатель содержания."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@virabhadra", "@jiva-gosvami"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "«Полувиласа» (письма и указатель) — позднее добавление к поэме; уровень D."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "1", to: "5"}
+
+- id: pvl-0201
+  source: prema-vilasa
+  ref: "Полувиласа, письма 1–2 (6–32)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 112
+  title: "Письмо Шринивасы Дживе о выверенных книгах; ответ Дживы: Бхугарбха оставил тело в полном сознании; книги задержаны дождями"
+  summary: "Шринивас спрашивает Дживу о благополучии Гопалы Бхатты и других Госвами и о том, выверены ли «Расамрита-синдху», «Мадхава-махотсава», «Уттара-чампу» и грамматика «Харинамамрита»; Джива отвечает, что Бхугарбха оставил тело, предав себя Кришне в полном сознании, спрашивает об учёбе сына Шринивасы Вриндавана Даса и о Вьясе и Васудеве, сообщает, что выверка почти закончена, но из-за дождей книги будут посланы позже, и благословляет царя Виру Хамбира; санскритские письма даны с бенгальским переложением автора."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@gopala-bhatta", "@bhugarbha", "@vyasa-acharya", "@vira-hambira", "@nityananda-dasa-author"]
+  places: ["#vrindavana", "#vana-vishnupura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя часть (D). Вриндаван Дас — здесь сын Шринивасы (сноска перевода); упоминание ухода Бхугарбхи."
+  themes: [learning, departure]
+  scriptures: ["«Бхакти-расамрита-синдху»", "Джива Госвами, «Мадхава-махотсава», «Гопала-чампу», «Хари-намамрита-вьякарана»"]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "6", to: "32"}
+
+- id: pvl-0202
+  source: prema-vilasa
+  ref: "Полувиласа, письмо 3 (33–61)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 112.1
+  title: "Письмо Дживы Шринивасу: не скорбеть об уходе Гопалы Бхатты; Шьямадас Ачарья везёт «Вайшнава-тошани», «Дургама-сангамани» и «Гопала-чампу»"
+  summary: "Джива пишет, что слышал о скорби Шринивасы по ушедшему Гопале Бхатте: скорбь противна преданности и не прогоняет скорби; он посылает с Шьямадасом Ачарьей, сыном Вьясы, выверенные «Вайшнава-тошани», «Дургама-сангамани» и «Гопала-чампу», велит вместе с ним выверять книги и разбирать вопросы бхакти, исправлять грамматику «Харинамамрита» по бхашье и вритти, сообщает о написанной «Уттара-гопала-чампу» и шлёт добрые пожелания Вриндавану Дасу и Гопаладасу (Дхари Хамбиру)."
+  persons: ["@jiva-gosvami", "@srinivasa-acharya", "@gopala-bhatta", "@vyasa-acharya", "@vira-hambira", "@nityananda-dasa-author"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Поздняя часть (D). Упоминание ухода Гопалы Бхатты (сноска перевода: Бхатта Госани — Гопала Бхатта)."
+  themes: [learning, departure, teaching]
+  scriptures: ["Санатана Госвами, «Вайшнава-тошани»", "Джива Госвами, «Дургама-сангамани», «Гопала-чампу», «Хари-намамрита-вьякарана»"]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "33", to: "61"}
+
+- id: pvl-0203
+  source: prema-vilasa
+  ref: "Полувиласа, письма 4–6 (62–104)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 112.2
+  title: "Рамачандра, Нароттама и Говиндадас спрашивают Дживу о стихе «сева садхака-рупена»; ответ Дживы: служение во внешнем теле и в мыслимом теле сиддхи; письмо Говинде о песнях и «Брихад-бхагаватамрите»"
+  summary: "Ученики посылают Дживе свои песни и просят ясно истолковать стих «Бхакти-расамрита-синдху» о служении в облике садхаки и сиддхи; Джива отвечает: облик садхаки — внешнее тело, облик сиддхи — тело, мыслимое для служения своему возлюбленному Божеству; служение в облике сиддхи — по следованию раге и многообразно, в облике садхаки — согласно агамам, телом, речью и умом; наставит их Шринивас; отдельно он пишет Говинде Кавирадже, что ненасытен к его песням, спрашивает, дошла ли посланная Шринивасу «Брихад-бхагаватамрита», и передаёт поклоны Кришнадаса Кавираджи."
+  persons: ["@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja", "@jiva-gosvami", "@lokanatha", "@srinivasa-acharya", "@krishnadasa-kaviraja", "@nityananda-dasa-author"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Поздняя часть (D). Кришнадас Кавираджа здесь жив (ср. виласу 13, сноска перевода к 104)."
+  themes: [teaching, learning, kirtan]
+  teaching: [prema, scripture]
+  scriptures: ["«Бхакти-расамрита-синдху» 1.2.295 («сева садхака-рупена…»)", "Санатана Госвами, «Брихад-бхагаватамрита»"]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "62", to: "104"}
+
+- id: pvl-0204
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласам 1–23 (105–779)"
+  file: "prema-vilasa/ru/25.md"
+  period: PX
+  order: 22.7
+  title: "Указатель содержания вилас 1–23"
+  summary: "Завершив книгу в двадцати четырёх главах, автор излагает указатель: по порядку перечисляются эпизоды каждой виласы — от тревоги Махапрабху о Гауде и рождения Шринивасы до рассказов о Шривасе, Вриндаване Дасе, Рупе, Санатане и Дживе; автор, в частности, признаёт, что виласы 15 и 16 следовало поменять местами."
+  persons: ["@nityananda-dasa-author", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@jahnava", "@virabhadra"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Поздняя часть (D). Указатель — краткий пересказ уже размеченных вилас; в виласе 16 — первое путешествие Джахнавы во Вриндаван, в виласе 15 — второе (сноска перевода к указателю)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "105", to: "779"}
+
+- id: pvl-0205
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (780–781)"
+  file: "prema-vilasa/ru/25.md"
+  period: P00
+  order: 35
+  title: "[Указатель к в. 24] Подвижничество Садашивы, явление ему Кришны; Садашива становится Адвайтой"
+  summary: "По указателю, 24-я виласа описывала природу Баларамы, Садашивы и Махавишну, подвижничество Садашивы, явление ему Кришны и беседу, после которой Садашива стал Адвайтой."
+  persons: ["@shiva", "@krishna", "@narayana", "@advaita", "@balarama"]
+  places: []
+  kind: pre-advent
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0001"
+  notes: "Только в указателе: основной текст 24-й виласы (поздней вставки) не переведён; начало двустишия испорчено (сноска перевода)."
+  themes: [celestial]
+  teaching: [associates-tattva]
+  event: ev-advaita-advent-cause
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "780", to: "781"}
+
+- id: pvl-0206
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (782–787)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.1
+  title: "[Указатель к в. 24] Кувера и Набха-деви: сыновья, переселение в Шантипур, зачатие, возвращение в Нараграм; рождение Адвайты в полнолуние магхи"
+  summary: "В краю Лаур в Шрихатте — раджа Дивьясимха и Кувера Ачарья; из шести сыновей Куверы четверо умерли, двое ушли странствовать; в скорби Кувера с Набха-деви приходит в Шантипур, она зачинает, и Кувера возвращается в Нараграм; Адвайта рождается в полнолуние магхи; имянаречение, первый рис, начало учения."
+  persons: ["@kubera-acharya", "@labha", "@divya-simha", "@advaita", "@vijaya-puri"]
+  places: ["#lauda", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0002, apr-0004"
+  notes: "Только в указателе (24-я виласа не переведена). Мать Адвайты названа Набха-деви."
+  themes: [family]
+  calendar: "магха, пурнима"
+  divergence: "Адвайта рождается в полнолуние магхи (в «Адвайта-пракаше» — в седьмой лунный день магхи); мать — Набха-деви (там — Лабха)."
+  event: ev-advaita-birth
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "782", to: "787"}
+
+- id: pvl-0207
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (788–790)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.2
+  title: "[Указатель к в. 24] Царевич насмехается — от рыка Адвайты падает без чувств и оживлён"
+  summary: "Адвайта учится и играет с царевичем; от его рыка насмешник падает без чувств, Адвайта убегает; его находят, и по его милости царевич приходит в себя."
+  persons: ["@advaita", "@divya-simha", "@kubera-acharya"]
+  places: ["#lauda"]
+  kind: miracle
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0006"
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [pranks]
+  event: ev-advaita-revives-prince
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "788", to: "790"}
+
+- id: pvl-0208
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (791–794)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.25
+  title: "[Указатель к в. 24] Поклон Адвайты раскалывает изваяние Кали; на её месте раджа ставит образ Вишну"
+  summary: "После упанаяны Адвайта не кланяется Кали, отец бранит его; когда он кланяется, изваяние раскалывается и богиня исчезает; по велению Адвайты Дивьясимха ставит на её место образ Вишну."
+  persons: ["@advaita", "@kubera-acharya", "@divya-simha"]
+  places: ["#lauda"]
+  kind: miracle
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0007"
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [deities]
+  event: ev-advaita-kali-image-splits
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "791", to: "794"}
+
+- id: pvl-0209
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (795–799)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.35
+  title: "[Указатель к в. 24] Учение у Шантачарьи из Пхулии; лотос из пруда со змеями; хождение по воде"
+  summary: "Адвайта учится в Шантипуре у Шантачарьи из Пхулии словесности, смрити, Ведам, пуранам, философии и «Бхагавате», приводит туда родителей, получает звание Ачарьи и достаёт лотос из пруда, кишащего змеями, идя по воде, как по суше."
+  persons: ["@advaita", "@shanta-vedantavagisha", "@kubera-acharya", "@labha"]
+  places: ["#shantipura", "#phulia"]
+  kind: miracle
+  authority: D
+  parallels: "«Адвайта-пракаша» (ev-advaita-lotus-miracle)"
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [learning, revelation]
+  event: ev-advaita-lotus-miracle
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "795", to: "799"}
+
+- id: pvl-0210
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (800–802)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.5
+  title: "[Указатель к в. 24] После ухода родителей и пинды в Гае Адвайта странствует; встреча с Мадхавендрой Пури и с Виджаей Пури в Каши"
+  summary: "Родители Адвайты уходят из мира; совершив пинду в Гае, он странствует, встречает Мадхавендру Пури, изучает у него писания о бхакти, а в Каши встречает Виджаю Пури."
+  persons: ["@advaita", "@madhavendra-puri", "@vijaya-puri", "@kubera-acharya", "@labha"]
+  places: ["#gaya", "#kashi"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [pilgrimage, teaching]
+  event: ev-advaita-meets-madhavendra
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "800", to: "802"}
+
+- id: pvl-0211
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (803–815)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.6
+  title: "[Указатель к в. 24] Адвайта обретает Мадана-мохана во Вриндаване; Божество уходит к Чаубе, а Адвайта получает картину Вишакхи — Мадана-гопала в Шантипуре"
+  summary: "Во Вриндаване Адвайта во сне обретает Мадана-мохана, совершает абхишеку; при нашествии млеччхов Божество скрывается маленьким Гопалой под цветами и снова обретено; Оно желает уйти к Чаубе и велит отдать Себя ему, а Адвайте открывает изображение, написанное Вишакхой; с этим изображением Адвайта уходит в Шантипур и поклоняется ему под именем Мадана-гопал."
+  persons: ["@advaita", "@madana-gopala-deity", "@madana-mohana-vrindavana", "@damodara-chaube"]
+  places: ["#vrindavana", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "«Адвайта-пракаша» (ev-advaita-madana-mohana, ev-advaita-vishakha-painting)"
+  notes: "Только в указателе (24-я виласа не переведена); Вишакха — подруга Радхи (сноска перевода)."
+  themes: [deities]
+  divergence: "Мадана-мохан, обретённый Адвайтой, уходит к Чаубе (ср. виласу 23, где от Чаубе Его берёт Санатана); Адвайта поклоняется картине Вишакхи."
+  event: ev-advaita-madana-mohana
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "803", to: "815"}
+
+- id: pvl-0212
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (816)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.7
+  title: "[Указатель к в. 24] Мадхавендра в Шантипуре посвящает Адвайту"
+  summary: "Мадхавендра Пури приходит в Шантипур, и Адвайта получает у него посвящение."
+  persons: ["@madhavendra-puri", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [teaching]
+  event: ev-advaita-madhavendra-initiation
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "816", to: "816"}
+
+- id: pvl-0213
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (817–819)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.75
+  title: "[Указатель к в. 24] Мадхавендра с сандалом в Ремуне; Кшира-чора Гопинатха; уход Мадхавендры"
+  summary: "Мадхавендра идёт на юг за сандалом с гор Малая, приходит в Ремуну; рассказ о сладком рисе, давшем Гопинатхе имя Кшира-чора; сандал поднесён Гопинатхе; путь Пури во Вриндаван и его уход."
+  persons: ["@madhavendra-puri", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [deities, prasada]
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "817", to: "819"}
+
+- id: pvl-0214
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (820–822)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.85
+  title: "[Указатель к в. 24] Раджа Дивьясимха принимает посвящение у Адвайты — Кришнадас Брахмачари во Вриндаване"
+  summary: "Раджа Дивьясимха приходит в Шантипур, получает посвящение у Адвайты и имя Кришнадас, уходит во Вриндаван, где прославился как Кришнадас Брахмачари, друг Кашишвары."
+  persons: ["@divya-simha", "@advaita", "@kashishvara"]
+  places: ["#shantipura", "#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [mercy]
+  event: ev-divya-simha-krishnadasa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "820", to: "822"}
+
+- id: pvl-0215
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (823–826)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.8
+  title: "[Указатель к в. 24] Дигвиджайи Бада Шьямадас побеждён Адвайтой — Бхагавата Ачарья; Шринатха Чакраварти, гуру Карнапуры"
+  summary: "Покоритель сторон света Бада Шьямадас Ачарья терпит поражение от Адвайты, принимает посвящение и прославляется как Бхагавата Ачарья; пандит Шринатха Ачарья Чакраварти, тоже ученик Адвайты, устанавливает в Кумарахатте Кришна-рая, пишет комментарий «Чайтанья-мата-манджуша» и становится гуру Карнапуры."
+  persons: ["@shyamadasa-acharya", "@advaita", "@kavi-karnapura"]
+  places: ["#shantipura", "#kumarahatta"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [learning]
+  event: ev-advaita-name-digvijayi
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "823", to: "826"}
+
+- id: pvl-0216
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (827–830)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.9
+  title: "[Указатель к в. 24] Брахма-Харидас: брахман, «ставший яваном»; Малай Кази; посвящение у Адвайты; триста тысяч имён"
+  summary: "Харидас родом из брахманов, но за вкушение пищи яванов причислен к яванам; рассказ о Малае Кази; в Шантипуре он получает посвящение у Адвайты, изучает писания о бхакти и ежедневно повторяет триста тысяч имён."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [mercy]
+  teaching: [holy-name]
+  event: ev-haridasa-comes-to-advaita
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "827", to: "830"}
+
+- id: pvl-0217
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (831–833)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.92
+  title: "[Указатель к в. 24] Ядунандана, побеждённый Харидасом, — ученик Адвайты и гуру Рагхунатхи Даса"
+  summary: "Пандит Ядунандана, побеждённый в споре Харидасом, получает посвящение у Адвайты и изучает «Бхагавату»; его учеником стал Рагхунатха Дас Госвами."
+  persons: ["@yadunandana-acharya", "@haridasa-thakura", "@advaita", "@raghunatha-dasa"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [learning]
+  event: ev-yadunandana-tarka-chudamani
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "831", to: "833"}
+
+- id: pvl-0218
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (834–839)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 2.95
+  title: "[Указатель к в. 24] Шраддха-патра Харидасу; Харидас отнимает огонь; Пхулия, Кулия, освобождение змей и тигров"
+  summary: "Адвайта кормит Харидаса поминальным блюдом, общество осуждает его; по велению Адвайты Харидас «отнимает огонь», затем возвращает его, уходит в Пхулию (Рамадас получает от него посвящение), затем в Кулию, где в лесу от его Имени освобождаются змеи и тигры."
+  persons: ["@advaita", "@haridasa-thakura"]
+  places: ["#shantipura", "#phulia", "#kulia"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [offense, mercy]
+  teaching: [holy-name]
+  event: ev-shraddha-patra-haridasa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "834", to: "839"}
+
+- id: pvl-0219
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (840–844)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 2.9
+  title: "[Указатель к в. 24] Раскол в обществе; Харидас являет шнур, брахманы-противники едят с ним в одном ряду и смиряются"
+  summary: "Из-за поминального блюда в Шантипуре раскол; хулители Адвайты приводят Харидаса, приняв его за мудреца, едят с ним в одном ряду, а при приходе Адвайты узнают, кто он, — Харидас являет священный шнур, и брахманы смиряются и просят прощения у Адвайты."
+  persons: ["@advaita", "@haridasa-thakura"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [offense]
+  event: ev-shantipura-brahmins-haridasa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "840", to: "844"}
+
+- id: pvl-0220
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (845–849)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 2.7
+  title: "[Указатель к в. 24] Кази бросает Харидаса в мешке в Гангу; рыбаки вылавливают его живым"
+  summary: "В Навадвипе кази бросает Харидаса в темницу, где тот поёт санкиртану, затем, завязав в мешок, бросает в Гангу; через несколько дней рыбаки вылавливают мешок, и в нём Харидас в позе йоги повторяет Имя; устрашённый кази просит прощения."
+  persons: ["@haridasa-thakura"]
+  places: ["#navadvipa", "#ganga"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [muslims, offense]
+  teaching: [holy-name]
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "845", to: "849"}
+
+- id: pvl-0221
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (850–853)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 2.6
+  title: "[Указатель к в. 24] Бенаполь: блудница, посланная кази, принимает Хари-наму"
+  summary: "Простив кази, Харидас уходит в Бенаполь; посланная кази прекрасная блудница не достигает цели, её грехи уничтожены, и она принимает Хари-наму; затем Харидас странствует по святым местам."
+  persons: ["@haridasa-thakura"]
+  places: ["#benapola"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [mercy]
+  teaching: [holy-name]
+  event: ev-haridasa-prostitute
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "850", to: "853"}
+
+- id: pvl-0222
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (854–855)"
+  file: "prema-vilasa/ru/25.md"
+  period: P00
+  order: 38.5
+  title: "[Указатель к в. 24] Природа Харидаса: Брахма (за похищение телят), Брахма, сын Ричики, и Прахлада соединились в нём"
+  summary: "Истинная природа Харидаса: в нём соединились Брахма, творец мира, — за грех похищения телят, Брахма, сын мудреца Ричики, — по проклятию отца, и Прахлада — за оскорбление вайшнава."
+  persons: ["@haridasa-thakura", "@brahma"]
+  places: []
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена); ср. Бхаг. 10.13 (сноска перевода)."
+  themes: [celestial]
+  teaching: [associates-tattva]
+  event: ev-brahma-steals-calves-haridasa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "854", to: "855"}
+
+- id: pvl-0223
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (856–866)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 1.96
+  title: "[Указатель к в. 24] Женитьба Адвайты на Шри и Сите, дочерях Нрисимхи Бхадури; четырёхрукая Сита; школа в Шантипуре; сыновья; Джангали и Нандини"
+  summary: "Дочери Нрисимхи Бхадури из Нараянапура Шри и Сита выходят за Адвайту в Пхулии при посредстве Бада Шьямадаса; на обряде пакаспарши ветер срывает покрывало, и Сита являет ещё две руки, чтобы покрыть голову; Адвайта переносит школу из Надии в Шантипур, посвящает жён; у Ситы пять сыновей, у Шри — один; Сита являет четырёхрукий облик Чхоте Шьямадасу; рассказ о служанках Ситы Джангали и Нандини."
+  persons: ["@advaita", "@sita-thakurani", "@shri-thakurani", "@nrisimha-bhaduri", "@shyamadasa-acharya"]
+  places: ["#narayanapura", "#phulia", "#shantipura", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family, revelation]
+  event: ev-advaita-marries-sita
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "856", to: "866"}
+
+- id: pvl-0224
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (867–868)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 4
+  title: "[Указатель к в. 24] Беседа Ишаны с Адвайтой; на рык Адвайты Кришна со спутниками приходит в Надию"
+  summary: "Беседа Ишаны с Адвайтой; на рык Адвайты Кришна со спутниками нисходит в Надию; проповедь бхакти и почтение Махапрабху к Адвайте как к гуру."
+  persons: ["@advaita", "@ishana-nagara", "@mahaprabhu", "@krishna"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [celestial]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "867", to: "868"}
+
+- id: pvl-0225
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (869–875)"
+  file: "prema-vilasa/ru/25.md"
+  period: P07
+  order: 112.8
+  title: "[Указатель к в. 24] Адвайта толкует «Йога-васиштху»; Господь с Нитьянандой наказывает Его; Агала, Пагала, Камадева Нагара и Шанкара отвергнуты"
+  summary: "В досаде Адвайта толкует «Йога-васиштху» вопреки бхакти; услышав это, Господь с Нитьянандой в гневе идёт в Шантипур, наказывает Адвайту, оказывает Ему милость и велит обратить приверженцев знания к бхакти; все ученики принимают бхакти, кроме Агалы, Пагалы, Камадевы Нагары и Шанкары, и Адвайта их отвергает."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@kamadeva-nagara"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена); ср. указатель к виласе 4 (сноска перевода)."
+  themes: [teaching, offense]
+  teaching: [bhakti-supremacy]
+  divergence: "Отвержение Камадевы Нагары с Агалой и Пагалой связано с наказанием Адвайты за «Йога-васиштху» (в виласе 4 и «Адвайта-пракаше» — иначе)."
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "869", to: "875"}
+
+- id: pvl-0226
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (876–893)"
+  file: "prema-vilasa/ru/25.md"
+  period: P07
+  order: 127.2
+  title: "[Указатель к в. 24] Ещё о Мадхаве Ачарье: учёба у Адвайты, «Кришна-мангала» поднесена Господу в Шрикшетре; Господь семь дней у него в Кулии; санньяса у Парамананды Пури"
+  summary: "Автор, признавая повторы по старческой забывчивости, дополняет рассказ о Мадхаве Ачарье: он слышит Хари-наму из уст Господа, уходит в Кулию, учится у Адвайты, подносит «Кришна-мангалу» Махапрабху в Шрикшетре, получает посвящение от Адвайты; на пути во Вриндаван через Гауду Господь семь дней живёт в его доме в Кулии; не женившись, Мадхава уходит во Вриндаван, принимает санньясу у Парамананды Пури и учится у Рупы и Санатаны."
+  persons: ["@madhava-acharya-kavivallabha", "@mahaprabhu", "@advaita", "@paramananda-puri", "@rupa-gosvami", "@sanatana-gosvami", "@nityananda-dasa-author"]
+  places: ["#kulia", "#puri", "#panihati", "#kumarahatta", "#kulinagrama", "#ramakeli", "#kanai-natashala", "#vrindavana", "#kheturi"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена). Указание на Кулию — по изд. 1913 г. (сноска перевода)."
+  themes: [mercy, learning]
+  divergence: "Санньяса Мадхавы — у Парамананды Пури (в виласе 19 — при Рупе во Вриндаване без указания санньяса-гуру)."
+  event: ev-madhava-acharya-krishna-mangala
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "876", to: "893"}
+
+- id: pvl-0227
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (894–898)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 8
+  title: "[Указатель к в. 24] Родословие Махапрабху: сыновья Мадху Мишры и Упендры Мишры; Джаганнатха, Чандрашекхара и Ниламбара из Шрихатты; женитьба на Шачи и Сарваджае"
+  summary: "Родословие Махапрабху: четыре сына Мадху Мишры и семь сыновей Упендры Мишры; Джаганнатха и Чандрашекхара Ачарьяратна переселяются из Шрихатты в Надию; Ниламбара Чакраварти селится в Белпукхурии; Джаганнатха женится на Шачи, Чандрашекхара — на Сарваджае."
+  persons: ["@jagannatha-mishra", "@chandrashekhara-acharya", "@nilambara-chakravarti", "@shachi", "@mahaprabhu"]
+  places: ["#shrihatta", "#navadvipa", "#belpukhuria"]
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family]
+  event: ev-mishra-family-migrates-navadvipa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "894", to: "898"}
+
+- id: pvl-0228
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (899–905)"
+  file: "prema-vilasa/ru/25.md"
+  period: P04
+  order: 10
+  title: "[Указатель к в. 24] Вишварупа учится у Адвайты, принимает санньясу у Ишвары Пури (Шанкараранья), берёт с собой Локанатху Пандита и передаёт свою мощь Ишваре Пури для Нитьянанды"
+  summary: "Вишварупа учится у Адвайты, принимает посвящение и санньясу у Ишвары Пури под именем Шанкараранья Пури, берёт с собой на юг двоюродного брата Локанатху Пандита; встретив Ишвару Пури, он вкладывает в него свою мощь, чтобы тот передал её Нитьянанде, и исчезает."
+  persons: ["@vishvarupa", "@advaita", "@ishvara-puri", "@lokanatha-pandita", "@nityananda"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [sannyasa, departure]
+  divergence: "Санньяса-гуру Вишварупы — Ишвара Пури; его мощь через Ишвару Пури передана Нитьянанде."
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "899", to: "905"}
+
+- id: pvl-0229
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (906–921)"
+  file: "prema-vilasa/ru/25.md"
+  period: P01
+  order: 31
+  title: "[Указатель к в. 24] Баларама во сне велит Ишваре Пури посвятить Нитьянанду; санньяса-авадхута; встречи с Мадхавендрой; Ишвара Пури во Вриндаване посылает Нитьянанду к Гауранге"
+  summary: "Хадаи Ойха и его сыновья; по сну, в котором Баларама велит дать Нитьянанде посвящение и санньясу, Ишвара Пури приходит в Экачакру, гостит у Хадаи, уводит Нитьянанду, посвящает его, делает санньяси-авадхутой и вкладывает в него мощь Вишварупы; Нитьянанда странствует, встречает Мадхавендру, видя в нём гуру, а во Вриндаване Ишвара Пури говорит ему, что Кришна нисшёл в Навадвипе как Гауранга."
+  persons: ["@hadai-pandita", "@nityananda", "@ishvara-puri", "@balarama", "@madhavendra-puri", "@vishvarupa", "@mahaprabhu", "@nityananda-dasa-author"]
+  places: ["#ekachakra", "#vrindavana", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена); двустишие 910 сильно повреждено (сноска перевода)."
+  themes: [sannyasa, pilgrimage]
+  divergence: "Санньяса-гуру Нитьянанды — Ишвара Пури, посвятивший его по сну от Баларамы."
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "906", to: "921"}
+
+- id: pvl-0230
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (922–941)"
+  file: "prema-vilasa/ru/25.md"
+  period: P05
+  order: 65
+  title: "[Указатель к в. 24] Путешествие Господа в Бенгалию: санкиртана на Падме привлекает Нароттаму; Шрихатта и дед с бабушкой; Лакшминатха Лахири получает благословение на сына"
+  summary: "Махапрабху приходит из Надии в Бенгалию, на берегу Падмы устраивает игры учёности и санкиртану, привлекая Нароттаму; через Фаридпур, Викрамапур, Эгарасиндур и Бхитадию, где гостит у Лакшминатхи Лахири и благословляет его на сына — будущего Рупу Нараяну, — Он идёт в Шрихатту на родину отца, видит деда и бабушку, мгновенно переписывает «Чанди», бабушка кормит Его джекфрутом; называются и противники Чайтаньи."
+  persons: ["@mahaprabhu", "@narottama-dasa", "@lakshminatha-lahiri", "@rupa-narayana"]
+  places: ["#east-bengal", "#padmavati", "#shrihatta"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [pilgrimage, learning, family]
+  divergence: "Господь посещает Шрихатту, родину отца, и видит деда и бабушку; в доме Лакшминатхи Лахири благословляет рождение Рупы Нараяны."
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "922", to: "941"}
+
+- id: pvl-0231
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (942–951)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 20
+  title: "[Указатель к в. 24] Женитьба Нитьянанды: Уддхарана сватает, Сурьядас гневается и видит сон; Васудха оживлена после укуса змеи; Джахнава — приданое; Кхардаха; Ганга и Вира"
+  summary: "Нитьянанда пожелал жениться, Кришнадас Ход устраивает дело, Уддхарана Датта предлагает Сурьядасу выдать дочь; Сурьядас гневается, но после сна ведёт Нитая в Шалиграм, где Васудха умерла от укуса змеи, — по милости Нитьянанды она оживает; Нитьянанда берёт в жёны Васудху, а в приданое — Джахнаву; доводы шастр о санньяси и браке, искупление; Нитай живёт в Кхардахе; дети гибнут от поклонов Абхирамы, пока не рождаются Ганга и Вира, частицы Господа."
+  persons: ["@nityananda", "@uddharana-datta", "@suryadasa-pandita", "@vasudha", "@jahnava", "@abhirama", "@ganga-nityananda", "@virabhadra"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0139"
+  notes: "Только в указателе (24-я виласа не переведена). «Ванташи», «вирабхадри» — названия «пороков» (сноски перевода)."
+  themes: [family, mercy]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "942", to: "951"}
+
+- id: pvl-0232
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (952–959)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 21.2
+  title: "[Указатель к в. 24] Родословие Мадхавы Ачарьи, супруга Ганги; Девивара делает его кулином"
+  summary: "Автор, признавая повторы, дополняет рассказ о Гангаваллабхе Мадхаве Ачарье: Бхагиратха Ачарья из Наньяпура, родословие Мадхавы, его женитьба (доводы о запрете брака с дочерью гуру), Девивара в Кхардаха-меле делает его кулином, а сыновья переходят в мелу Дашаратхи Гхатаки."
+  persons: ["@madhava-acharya-ganga", "@ganga-nityananda", "@nityananda-dasa-author"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family]
+  event: ev-ganga-marries-madhava
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "952", to: "959"}
+
+- id: pvl-0233
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (960–965)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 34
+  title: "[Указатель к в. 24] Вирабхадра тайком плывёт за мантрой к Адвайте; Абхирама разбивает лодку брошенной флейтой; посвящение у четырёхрукой Джахнавы"
+  summary: "Вирабхадра, желая получить мантру у Адвайты, тайно от матери плывёт в Шантипур; Джахнава, услышав музыку, посылает Абхираму вернуть его; не дозвавшись, Абхирама бросает свою флейту — лодка разбивается, люди выбираются на берег; после беседы с Абхирамой Вира приходит к матери, видит её четырёхрукой и с радостью принимает у неё посвящение."
+  persons: ["@virabhadra", "@jahnava", "@abhirama", "@advaita"]
+  places: ["#kharadaha", "#shantipura", "#ganga"]
+  kind: miracle
+  authority: D
+  parallels: "«Адвайта-пракаша»: apr-0152"
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family, revelation]
+  divergence: "Вирабхадру возвращает Абхирама, разбивший лодку флейтой (в «Адвайта-пракаше» его отсылает к матери Сам Адвайта)."
+  event: ev-virabhadra-initiation
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "960", to: "965"}
+
+- id: pvl-0234
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (966–968)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 37
+  title: "[Указатель к в. 24] Вира у падишаха получает камень — Шьямасундара, установленный руками Ачьюты; Нанда-дулал и Валлабхаджи"
+  summary: "Вира приходит к падишаху и, явив могущество, получает камень, из которого велит изваять Шьямасундару; абхишеку совершает Ачьюта Госвами; из остатка камня — Нанда-дулал в Свамибане и Валлабхаджи в Валлабхапуре."
+  persons: ["@virabhadra", "@achyutananda"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена); название первого места неясно (сноска перевода)."
+  themes: [deities, muslims]
+  event: ev-virachandra-shyamasundara
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "966", to: "968"}
+
+- id: pvl-0235
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (969–970)"
+  file: "prema-vilasa/ru/25.md"
+  period: P15
+  order: 36.5
+  title: "[Указатель к в. 24] Вирачандра женится на Шримати и Нараяни, дочерях Ядунанданы из Джхаматпура"
+  summary: "Вирачандра женится на двух дочерях Ядунанданы из Джхаматпура — Шримати и Нараяни; у него рождаются три сына и дочь."
+  persons: ["@virabhadra"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family]
+  event: ev-virachandra-marriage
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "969", to: "970"}
+
+- id: pvl-0236
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (971–975)"
+  file: "prema-vilasa/ru/25.md"
+  period: PX
+  order: 22.8
+  title: "[Указатель к в. 24] Девивара Гхатака: учреждение мел, «пороки» кулинов; проклятие гуру и посвящение у Вирабхадры"
+  summary: "История Девивары: учреждение мел кулинов, его подвижничество и благословение, разделение кулинов по «порокам»; гордый Девивара объявляет своего гуру безродным, получает проклятие, идёт к Вирабхадре и, услышав о величии вайшнавов, принимает посвящение в мантру Гопалы."
+  persons: ["@nityananda-dasa-author", "@virabhadra"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "971", to: "975"}
+
+- id: pvl-0237
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (976–987)"
+  file: "prema-vilasa/ru/25.md"
+  period: P02
+  order: 6
+  title: "[Указатель к в. 24] Родословие Гададхары: Виласа Ачарья при радже Читтагонга; Мадхава Мишра в Белети; Ванинатха; рождение Гададхары в Надии; Наяна Мишра"
+  summary: "Три родословия — Нитьянанды, Адвайты и Гададхары; раджа Читтагонга Читрасена берёт из Варендры пандита Виласу Ачарью, тот селится в Белети; его сын Мадхава Ачарья, друг Пундарики Видьянидхи, в Читтагонге обретает сына Джаганнатху (Ванинатху), а переселившись в Навадвипу — Гададхару, друга Гауранги; племянник Гададхары — Наяна Мишра."
+  persons: ["@madhava-mishra", "@pundarika-vidyanidhi", "@gadadhara-pandita", "@nayanananda-mishra", "@mahaprabhu", "@nityananda-dasa-author"]
+  places: ["#east-bengal", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена)."
+  themes: [family]
+  event: ev-gadadhara-birth
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "976", to: "987"}
+
+- id: pvl-0238
+  source: prema-vilasa
+  ref: "Полувиласа, указатель к виласе 24 (988–1037)"
+  file: "prema-vilasa/ru/25.md"
+  period: PX
+  order: 22.9
+  title: "[Указатель к в. 24] Рархи и варендра: жертвоприношение Адишуры, пятеро брахманов из Каннауджа; деления Баллалы; правила кулинских браков (Удаяна, Девивара, Камсанараяна)"
+  summary: "Указатель перечисляет содержание обширного раздела 24-й виласы о бенгальских брахманах: бездетный раджа Адишура и пятеро брахманов из Каннауджа, оживлённое сухое дерево и рождение царских детей; поселение их потомков в Рархе и Варендре; деления Баллалы на рархи, варендр и сапташати и на кулинов, шротриев и кашта-шротриев; правила париварты и караны Удаяны Ачарьи, Девивары и раджи Камсанараяны из Тахирпура; мелы, пати и «пороки» кулинов."
+  persons: ["@nityananda-dasa-author"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Только в указателе (24-я виласа не переведена): родословный и сословный раздел, к лилам Господа отношения не имеет."
+  themes: [author]
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "988", to: "1037"}
+
+- id: pvl-0239
+  source: prema-vilasa
+  ref: "Полувиласа, 1038–1051 и колофон"
+  file: "prema-vilasa/ru/25.md"
+  period: PX
+  order: 23
+  title: "Заключение: книга сочинена в старости, с повторами; письма и указатель в «Полувиласе»; завершена в пхалгуну 1522 г. Шака"
+  summary: "Автор объясняет, что раздел о рархи и варендрах помещён по повелению гуру, а повторы — от старческой забывчивости и дрожи в руках, из-за которых он не смог переписать книгу набело; просит слушателей исправить её; в «Полувиласе» записаны письма Шринивасы, учеников и четыре письма Дживы и указатель; книга сочинена в старости и завершена милостью гуру — по колофону, в месяце пхалгуна года Шака «пакша, два, титхи»."
+  persons: ["@nityananda-dasa-author", "@jahnava", "@virabhadra", "@srinivasa-acharya", "@jiva-gosvami", "@govinda-kaviraja", "@ramachandra-kaviraja", "@narottama-dasa"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Год «пакша, два, титхи» = 1522 Шака (сноска перевода); колофон в изд. 1913 г. сохранился не полностью."
+  themes: [author]
+  calendar: "пхалгуна"
+  years: [1601, 1601]
+  date_conf: оценка
+  date_basis: "Полувиласа, колофон: завершена в пхалгуну 1522 г. Шака (по сноске перевода; пхалгуна 1522 г. Шака ≈ февраль–март 1601 г.)"
+  verses:
+    - {file: "prema-vilasa/ru/25.md", from: "1038", to: "1051"}

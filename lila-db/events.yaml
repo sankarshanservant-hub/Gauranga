@@ -718,6 +718,17 @@
   themes: [family, festival]
   notes: ""
 
+- id: ev-gadadhara-birth
+  title: "Рождение Гададхары Пандита"
+  title_en: "The birth of Gadadhara Pandita"
+  period: P02
+  order: 6
+  calendar: "вайшакха, амавасья"
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», виласа 22 (D): сын Мадхавы Мишры и Ратнавати в Навадвипе."
+
 - id: ev-infant-with-shachi
   title: "Младенец Нимай на руках у Шачи"
   title_en: "Baby Nimai in Shachi's arms"
@@ -1039,6 +1050,26 @@
   cb: "Ади 8"
   themes: [learning, pranks]
   notes: "Мурари 1.09.1–4."
+
+- id: ev-nityananda-kundalitala
+  title: "Кундалитала: Нитьянанда-авадхута усмиряет змея в Экачакре"
+  title_en: "Kundalitala: Nityananda the Avadhuta subdues the serpent at Ekachakra"
+  period: P05
+  order: 2
+  cc: ""
+  cb: ""
+  themes: [mercy, celestial]
+  notes: "«Нитьянанда-вамша-вистара», гл. 5 (рассказ Мадхавы из Экачакры): Нитьянанда закрывает нору змея своей серьгой-кундалой; время — странствия авадхуты до встречи с Господом (условно)."
+
+- id: ev-nityananda-awakens-shridama
+  title: "Нитьянанда-авадхута во Вриндаване пробуждает Шридаму — Абхираму"
+  title_en: "Nityananda the Avadhuta in Vrindavana awakens Shridama, who becomes Abhirama"
+  period: P05
+  order: 3
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, revelation]
+  notes: "«Нитьянанда-вамша-вистара», гл. 10 (рассказ Вирачандры со слов Уддхараны Датты); время — странствия авадхуты (условно)."
 
 - id: ev-krishna-mishra-birth
   title: "Рождение Кришнадаса (Кришна Мишры), сына Адвайты; младенец отдан Шри"
@@ -1481,6 +1512,17 @@
   themes: [mercy, teaching]
   notes: "Мурари 2.3.5–9."
 
+- id: ev-gadadhara-initiation-pundarika
+  title: "Пундарика Видьянидхи в Навадвипе: Гададхара сомневается в нём и принимает у него посвящение"
+  title_en: "Pundarika Vidyanidhi in Navadvipa: Gadadhara doubts him and takes initiation from him"
+  period: P07
+  order: 73
+  cc: ""
+  cb: "Мадхья 7"
+  themes: [offense, mercy]
+  teaching: [vaishnava]
+  notes: "«Према-виласа», виласа 22 (D)."
+
 - id: ev-gadadhara-receives-prema
   title: "Гададхара обретает прему"
   title_en: "Gadadhara receives prema"
@@ -1901,6 +1943,17 @@
   cb: ""
   themes: [revelation, sannyasa]
   notes: "Мурари 2.12.5–17. Первое предвестие санньясы."
+
+- id: ev-madhava-acharya-krishna-mangala
+  title: "Мадхава Ачарья (Кавиваллабха): милость Господа, посвящение от Адвайты, «Кришна-мангала»"
+  title_en: "Madhava Acharya (Kavivallabha): the Lord's mercy, initiation from Advaita, the Krishna-mangala"
+  period: P07
+  order: 127.2
+  cc: ""
+  cb: ""
+  themes: [mercy, kirtan, learning]
+  teaching: [holy-name]
+  notes: "«Према-виласа», виласа 19: двоюродный брат Вишнуприи; позднее — санньяси во Вриндаване."
 
 - id: ev-shachi-vaishnava-aparadha
   title: "Оскорбление Шачи перед преданными и его прощение"
@@ -3180,6 +3233,17 @@
   themes: [prasada, mercy]
   notes: "«Адвайта-пракаша» (D), гл. 18: град; Ишана рвёт священный шнур, чтобы служить стопам Господа."
 
+- id: ev-vasudeva-datta-prayer
+  title: "Молитва Васудевы Датты взять на себя грехи всех существ"
+  title_en: "Vasudeva Datta's prayer to take upon himself the sins of all beings"
+  period: P12
+  order: 88
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [mercy]
+  teaching: [vaishnava]
+  notes: "«Према-виласа», виласа 22 (D)."
+
 - id: ev-nityananda-sent-to-gauda
   title: "Господь посылает Нитьянанду проповедовать в Гауду"
   title_en: "The Lord sends Nityananda to preach in Gauda"
@@ -3239,6 +3303,16 @@
   cb: ""
   themes: [mercy]
   notes: "Мурари 4.23.13–18."
+
+- id: ev-vrindavana-dasa-birth
+  title: "Рождение Вриндавана Даса у Нараяни"
+  title_en: "The birth of Vrindavana Dasa to Narayani"
+  period: P12
+  order: 130
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», виласа 23 (D): после санньясы Господа, в Кумарахатте; позднее — «Чайтанья-мангала» (названная во Вриндаване «Чайтанья-бхагаватой»)."
 
 - id: ev-prataparudra-mercy
   title: "Милость к Пратапарудре"
@@ -3312,6 +3386,16 @@
   cb: ""
   themes: [mercy, pilgrimage]
   notes: "Мурари 3.18.1–11."
+
+- id: ev-rupa-sanatana-renunciation
+  title: "Отречение Рупы и Санатаны; письмо-загадка и темница Санатаны"
+  title_en: "The renunciation of Rupa and Sanatana; the riddle-letter and Sanatana's imprisonment"
+  period: P13
+  order: 12.5
+  cc: "Мадхья 19"
+  cb: ""
+  themes: [sannyasa, muslims]
+  notes: "«Према-виласа», виласа 23 (D): дополняет ЧЧ рассказами, «услышанными из уст вайшнавов»."
 
 - id: ev-shantipura-after-natashala
   title: "После Канай-Натшалы: у Адвайты в Шантипуре, встреча с Шачи"
@@ -3640,6 +3724,26 @@
   teaching: [holy-name, sannyasa-teaching]
   notes: "«Адвайта-пракаша» (D), гл. 18."
 
+- id: ev-madana-mohana-chaube
+  title: "Мадана-мохан из дома Дамодары Чаубе переходит к Санатане; храмы Вриндавана"
+  title_en: "Madana-mohana leaves Damodara Chaube's house for Sanatana; the temples of Vrindavana"
+  period: P14
+  order: 17
+  cc: ""
+  cb: ""
+  themes: [deities, celestial]
+  notes: "«Према-виласа», виласа 23 (D)."
+
+- id: ev-lord-writes-in-gadadhara-gita
+  title: "Господь вписывает шлоку в «Гиту», переписанную Гададхарой"
+  title_en: "The Lord writes a verse into the Gita copied by Gadadhara"
+  period: P14
+  order: 18
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  notes: "«Према-виласа», виласа 22 (D)."
+
 - id: ev-chhota-haridasa-punished
   title: "Господь отвергает Младшего Харидаса"
   title_en: "The Lord rejects Junior Haridasa"
@@ -3704,6 +3808,17 @@
   themes: [separation, revelation]
   notes: "«Адвайта-пракаша» (D), гл. 21; там же рассказ Джагадананды о служении Вишнуприи."
 
+- id: ev-hari-bhakti-vilasa
+  title: "Гопала Бхатта приходит во Вриндаван и составляет «Хари-бхакти-виласу»"
+  title_en: "Gopala Bhatta comes to Vrindavana and compiles the Hari-bhakti-vilasa"
+  period: P14
+  order: 95.8
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  teaching: [purity, scripture]
+  notes: "«Према-виласа», виласа 18: по письму Прабодхананды; книга отдана Санатане."
+
 - id: ev-lord-sends-seat-gopala-bhatta
   title: "Господь посылает Гопале Бхатте Свои пояс-шнур и сиденье"
   title_en: "The Lord sends Gopala Bhatta His waist-cord and seat"
@@ -3766,6 +3881,16 @@
   cb: ""
   themes: [ecstasy, separation, krishna-lila]
   notes: "Мурари 4.24.1–14 — краткий перечень (падение в море, облик черепахи среди коров, Чатака-парвата и др.); отдельные эпизоды можно выделить в свои события при появлении подробных источников."
+
+- id: ev-kaviraja-nityananda-jhamatpur
+  title: "Нитьянанда во сне в Джхаматпуре посылает Кришнадаса Кавираджу во Вриндаван"
+  title_en: "Nityananda in a dream at Jhamatpur sends Krishnadasa Kaviraja to Vrindavana"
+  period: P14
+  order: 105
+  cc: "Ади 5"
+  cb: ""
+  themes: [mercy, celestial]
+  notes: "«Према-виласа», виласа 18."
 
 - id: ev-nityananda-returns-to-puri
   title: "Нитьянанда приходит из Гауды к Господу в Пури; беседа о бхакти Враджа"
@@ -3983,6 +4108,27 @@
   themes: [departure, jagannatha, separation]
   notes: "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано."
 
+- id: ev-jiva-comes-to-vrindavana
+  title: "Джива оставляет дом и приходит во Вриндаван к Рупе"
+  title_en: "Jiva leaves home and comes to Rupa in Vrindavana"
+  period: P15
+  order: 12
+  cc: ""
+  cb: ""
+  themes: [sannyasa, family]
+  notes: "«Према-виласа», виласа 23 (D)."
+
+- id: ev-jiva-exiled-by-rupa
+  title: "Рупа изгоняет Дживу за гнев на побеждённого пандита и прощает по ходатайству Санатаны"
+  title_en: "Rupa banishes Jiva for his anger at a defeated pandit and forgives him at Sanatana's intercession"
+  period: P15
+  order: 13
+  cc: ""
+  cb: ""
+  themes: [offense, learning]
+  teaching: [vaishnava]
+  notes: "«Према-виласа», виласа 23 (D): «Сарва-самвадини»."
+
 - id: ev-gadadhara-departure
   title: "Уход Гададхары Пандита"
   title_en: "The departure of Gadadhara Pandita"
@@ -4001,7 +4147,48 @@
   cc: ""
   cb: ""
   themes: [family, kirtan]
-  notes: "Джаянанда, Уттара-кханда (краткое жизнеописание у Н. Васу)."
+  notes: "Джаянанда, Уттара-кханда (краткое жизнеописание у Н. Васу); «Нитьянанда-вамша-вистара», гл. 1 (подробно)."
+
+- id: ev-nityananda-settles-khardaha
+  title: "Нитьянанда поселяется в Кхардахе; служение Шьямасундаре"
+  title_en: "Nityananda settles at Khardaha; the service of Shyamasundara"
+  period: P15
+  order: 20.5
+  cc: ""
+  cb: ""
+  themes: [family, deities]
+  notes: "«Нитьянанда-вамша-вистара», гл. 1."
+
+- id: ev-ganga-marries-madhava
+  title: "Ганга, дочь Нитьянанды, выдана за Мадхаву Ачарью"
+  title_en: "Ganga, Nityananda's daughter, is given in marriage to Madhava Acharya"
+  period: P15
+  order: 21
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», виласа 19: брак рархи с варендрой по повелению гуру."
+
+- id: ev-virachandra-birth
+  title: "Рождение Вирачандры (Вирабхадры)"
+  title_en: "The birth of Virachandra (Virabhadra)"
+  period: P15
+  order: 22
+  calendar: "маргаширша, светлая половина, 4-й день"
+  cc: ""
+  cb: ""
+  themes: [family, celestial]
+  notes: "«Нитьянанда-вамша-вистара», гл. 2: зачатие — 9-й день тёмной половины осеннего месяца, рождение — 4-й день светлой половины маргаширши; боги приходят взглянуть на младенца."
+
+- id: ev-virachandra-recognized
+  title: "Абхирама и Адвайта узнают в младенце Вирачандре Гаурангу"
+  title_en: "Abhirama and Advaita recognize Gauranga in the infant Virachandra"
+  period: P15
+  order: 23
+  cc: ""
+  cb: ""
+  themes: [revelation, family]
+  notes: "«Нитьянанда-вамша-вистара», гл. 2: трижды повторённый поклон Абхирамы; «Тот самый вор!» Адвайты."
 
 - id: ev-vishnupriya-austerity
   title: "Обет Вишнуприи: зёрнышко риса на каждое имя"
@@ -4023,7 +4210,17 @@
   cc: ""
   cb: ""
   themes: [departure]
-  notes: "Джаянанда, Уттара-кханда."
+  notes: "Джаянанда, Уттара-кханда; «Нитьянанда-вамша-вистара», гл. 3: уход в Банкимдеву в Экачакре."
+
+- id: ev-virachandra-abhisheka
+  title: "Великое помазание Вирачандры после ухода Нитьянанды"
+  title_en: "Virachandra's great anointing after Nityananda's departure"
+  period: P15
+  order: 31
+  cc: ""
+  cb: ""
+  themes: [festival, separation]
+  notes: "«Нитьянанда-вамша-вистара», гл. 3: помазание совершает Адвайта с собранием преданных."
 
 - id: ev-khardaha-festival-three-offerings
   title: "Праздник в Кхардахе: три угощения для трёх Господ"
@@ -4043,7 +4240,7 @@
   cc: ""
   cb: ""
   themes: [teaching, family]
-  notes: "«Адвайта-пракаша» (D), гл. 22."
+  notes: "«Адвайта-пракаша» (D), гл. 22; «Нитьянанда-вамша-вистара», гл. 3: Вирачандра плывёт к Адвайте, Рамадас раскалывает лодку, мантру даёт Джахнава."
 
 - id: ev-advaita-grandsons
   title: "Внуки Адвайты Рагхунатха и Долаговинда — подобия Гауры и Нитьянанды"
@@ -4064,6 +4261,56 @@
   cb: ""
   themes: [family, deities, teaching]
   notes: "«Адвайта-пракаша» (D), гл. 21: Баларама и Джагадиша устанавливают другое Божество."
+
+- id: ev-narayani-from-ocean
+  title: "Океан вручает брахману Судхамае девочку Нараяни, будущую жену Вирачандры"
+  title_en: "The Ocean entrusts the girl Narayani, Virachandra's future wife, to the brahmana Sudhamaya"
+  period: P15
+  order: 36.2
+  cc: ""
+  cb: ""
+  themes: [celestial, family]
+  notes: "«Нитьянанда-вамша-вистара», гл. 3."
+
+- id: ev-virachandra-marriage
+  title: "Женитьба Вирачандры на дочерях Ядунанданы из Джхаматпура"
+  title_en: "Virachandra's marriage to the daughters of Yadunandana of Jhamatpur"
+  period: P15
+  order: 36.5
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Према-виласа», указатель к виласе 24 (D): Шримати и Нараяни; «Нитьянанда-вамша-вистара», гл. 3–4: Нараяни — дочь Океана, воспитанная Судхамаей; вторая жена — Вишнуприя."
+
+- id: ev-virachandra-shyamasundara
+  title: "Вирачандра получает камень у падишаха; Шьямасундара Кхардахи"
+  title_en: "Virachandra obtains a stone from the Padishah; Shyamasundara of Khardaha"
+  period: P15
+  order: 37
+  cc: ""
+  cb: ""
+  themes: [deities, muslims]
+  notes: "«Према-виласа», указатель к виласе 24 (D): абхишека руками Ачьюты; из остатка камня — Нанда-дулал и Валлабхаджи."
+
+- id: ev-virachandra-neda-nedi
+  title: "Вирачандра и нэра-нэри: усмирение монахов-нада"
+  title_en: "Virachandra and the Nera-Neri: the humbling of the nada monks"
+  period: P15
+  order: 37.5
+  cc: ""
+  cb: ""
+  themes: [mercy, offense]
+  notes: "«Нитьянанда-вамша-вистара», гл. 3: 1200 нада и 1300 нади; происхождение вайшнавов-самбхоги."
+
+- id: ev-virachandra-children
+  title: "Сыновья и дочь Вирачандры"
+  title_en: "Virachandra's sons and daughter"
+  period: P15
+  order: 38
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Нитьянанда-вамша-вистара», гл. 3: Гопиджанаваллабха, Рамакришна, Рамачандра; дочь — за Парватичараной Мукхуйей."
 
 - id: ev-advaita-departure
   title: "Уход Адвайты Ачарьи"
@@ -4415,6 +4662,47 @@
   themes: [family]
   notes: "«Према-виласа», виласа 13."
 
+- id: ev-vishnupriya-departure
+  title: "Уход Вишнуприи"
+  title_en: "The departure of Vishnupriya"
+  period: P15
+  order: 88.2
+  cc: ""
+  cb: ""
+  themes: [departure, separation]
+  notes: "«Према-виласа», виласа 19 (упоминание)."
+
+- id: ev-gadadhara-dasa-narahari-departure
+  title: "Уход Гададхары Даса и Нарахари Саркара"
+  title_en: "The departure of Gadadhara Dasa and Narahari Sarakara"
+  period: P15
+  order: 88.3
+  calendar: "Гададхара Дас — карттика, тёмная половина, 8-й день; Нарахари — аграхаяна, тёмная половина, 11-й день"
+  cc: ""
+  cb: ""
+  themes: [departure, separation]
+  notes: "«Према-виласа», виласа 19: оба уходят от скорби по Вишнуприи."
+
+- id: ev-katwa-khanda-memorial-festivals
+  title: "Поминальные праздники в Катоа и Шрикханде"
+  title_en: "The memorial festivals at Katwa and Shrikhanda"
+  period: P15
+  order: 88.35
+  cc: ""
+  cb: ""
+  themes: [festival, kirtan, departure]
+  notes: "«Према-виласа», виласа 19: устроены Рагхунанданой и Ядунанданой Чакраварти; перечень собравшихся ветвей Махапрабху, Нитьянанды, Адвайты и Гададхары."
+
+- id: ev-virachandra-heals-blind-ramai
+  title: "Вирачандра исцеляет слепого Рамаи в киртане в Шрикханде"
+  title_en: "Virachandra heals the blind Ramai during kirtan at Shrikhanda"
+  period: P15
+  order: 88.36
+  cc: ""
+  cb: ""
+  themes: [mercy, kirtan]
+  notes: "«Према-виласа», виласа 19 (подробно — по словам автора, в «Вирачандра-чарите»)."
+
 - id: ev-srinivasa-raghunandana-shrikhanda
   title: "Шринивас у Рагхунанданы в Шрикханде после ухода Нарахари"
   title_en: "Srinivasa with Raghunandana at Shrikhanda after Narahari's departure"
@@ -4445,16 +4733,16 @@
   themes: [mercy, celestial]
   notes: "«Према-виласа», виласа 14: Богиня велит ему помнить Говинду; Шринивас в Будхари; поэт Говиндадас."
 
-- id: ev-kheturi-festival
-  title: "Праздник в Кхетури: установление Гауранги и Валлавиканты"
-  title_en: "The Kheturi festival: installation of Gauranga and Vallavikanta"
+- id: ev-kheturi-first-installation
+  title: "Первый праздник в Кхетури: установление Гауранги и Валлавиканты"
+  title_en: "The first Kheturi festival: installation of Gauranga and Vallavikanta"
   period: P15
   order: 92
   calendar: "пхалгуна, пурнима"
   cc: ""
   cb: ""
   themes: [festival, kirtan, deities]
-  notes: "«Према-виласа», виласа 14 (первый праздник); Джахнава в Кхетури — виласа 15."
+  notes: "«Према-виласа», виласа 14; великий праздник шести Божеств — ev-kheturi-festival (виласа 19)."
 
 - id: ev-harirama-ramakrishna-conversion
   title: "Обращение брахманов Харирамы и Рамакришны у Падмавати"
@@ -4477,6 +4765,26 @@
   themes: [festival, prasada]
   notes: "«Према-виласа», виласа 15: по пути во Вриндаван, после праздника установления."
 
+- id: ev-chandana-mandala-chariot
+  title: "Чандана Мандал в Мангалкоте: колесница для Джахнавы и Латадхама"
+  title_en: "Chandana Mandala at Mangalkot: the chariot for Jahnava and Latadhama"
+  period: P15
+  order: 94.5
+  cc: ""
+  cb: ""
+  themes: [mercy, revelation, kirtan]
+  notes: "«Нитьянанда-вамша-вистара», гл. 4: на пути Джахнавы во Вриндаван; видения её облика; на колесницу по её велению восходит Гопиджанаваллабха."
+
+- id: ev-jahnava-ekachakra
+  title: "Джахнава в Экачакре на родине Нитьянанды; посвящение Гопиджанаваллабхи"
+  title_en: "Jahnava at Ekachakra, Nityananda's birthplace; Gopijanavallabha's initiation"
+  period: P15
+  order: 94.7
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, kirtan, deities]
+  notes: "«Нитьянанда-вамша-вистара», гл. 5: Кундалитала, служение Банкима-деве."
+
 - id: ev-jahnava-vrindavana
   title: "Путешествие Джахнавы во Вриндаван; встреча с Госвами"
   title_en: "Jahnava's journey to Vrindavana; meeting with the Gosvamis"
@@ -4486,6 +4794,16 @@
   cb: ""
   themes: [pilgrimage, krishna-lila]
   notes: "«Према-виласа», виласы 15–16; «Нитьянанда-вамша-вистара», гл. 4–5."
+
+- id: ev-jahnava-gopinatha
+  title: "Гопинатха во Вриндаване сажает Джахнаву по левую руку от Себя"
+  title_en: "Gopinatha of Vrindavana seats Jahnava at His left side"
+  period: P15
+  order: 95.3
+  cc: ""
+  cb: ""
+  themes: [deities, revelation]
+  notes: "«Нитьянанда-вамша-вистара», гл. 5; предание о вхождении Джахнавы в Божество Гопинатхи (её изваяние стоит рядом с Гопинатхой)."
 
 - id: ev-jahnava-radha-for-madana-mohana
   title: "Мадана-мохан во сне просит Джахнаву прислать изваяние Радхи"
@@ -4537,7 +4855,7 @@
   cc: ""
   cb: ""
   themes: [family, mercy]
-  notes: "«Према-виласа», виласа 17."
+  notes: "«Према-виласа», виласа 17; «Нитьянанда-вамша-вистара», гл. 9: разжёванный бетель Вирачандры, посвящение хромого Гати на дороге."
 
 - id: ev-narottama-bhajana-kheturi
   title: "Служение и бхаджан Нароттамы в Кхетури; дружба с Рамачандрой"
@@ -4571,6 +4889,196 @@
   teaching: [prema, holy-name, vaishnava]
   notes: "«Према-виласа», виласа 17."
 
+- id: ev-harivamsha-fall
+  title: "Падение Харивамши: бетель в экадаши; отрубленная голова плывёт к Гопале Бхатте"
+  title_en: "Harivamsha's fall: betel on Ekadashi; the severed head floats to Gopala Bhatta"
+  period: P15
+  order: 99.8
+  cc: ""
+  cb: ""
+  themes: [offense, mercy]
+  teaching: [vaishnava, purity]
+  notes: "«Према-виласа», виласа 18."
+
+- id: ev-chand-raya-deliverance
+  title: "Нароттама избавляет Чанд Рая от брахма-дайтьи и посвящает его с братом и отцом"
+  title_en: "Narottama frees Chand Raya from a brahma-daitya and initiates him with his brother and father"
+  period: P15
+  order: 101
+  cc: ""
+  cb: ""
+  themes: [mercy, celestial, offense]
+  notes: "«Према-виласа», виласа 18: Дурга во сне направляет Чанд Рая к Нароттаме."
+
+- id: ev-chand-raya-elephant
+  title: "Чанд Рай в плену у наваба: отказ от мантры Кали и победа над слоном"
+  title_en: "Chand Raya in the Nawab's prison: refusal of the Kali mantra and victory over the elephant"
+  period: P15
+  order: 101.5
+  cc: ""
+  cb: ""
+  themes: [muslims, mercy]
+  teaching: [holy-name]
+  notes: "«Према-виласа», виласа 18."
+
+- id: ev-srinivasa-samadhi-nose-ring
+  title: "Самадхи Шринивасы: Рамачандра в сиддха-теле находит носовое кольцо Радхи"
+  title_en: "Srinivasa's samadhi: Ramachandra in his spiritual body finds Radha's nose-ring"
+  period: P15
+  order: 102
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, ecstasy]
+  notes: "«Према-виласа», виласа 19: Мани-манджари (Шринивас) и Каруна-манджари (Рамачандра)."
+
+- id: ev-shyamananda-utkala
+  title: "Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара"
+  title_en: "Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara"
+  period: P15
+  order: 103
+  cc: ""
+  cb: ""
+  themes: [mercy, kirtan, muslims]
+  notes: "«Према-виласа», виласа 19."
+
+- id: ev-kheturi-six-deities
+  title: "Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса"
+  title_en: "The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary"
+  period: P15
+  order: 104
+  cc: ""
+  cb: ""
+  themes: [deities, celestial]
+  notes: "«Према-виласа», виласа 19: образ, изваянный Самим Господом до санньясы."
+
+- id: ev-kheturi-festival
+  title: "Великий праздник в Кхетури: абхишека шести Божеств; Махапрабху со спутниками является в киртане"
+  title_en: "The great Kheturi festival: abhisheka of the six Deities; Mahaprabhu with His associates appears in the kirtan"
+  period: P15
+  order: 105
+  calendar: "пхалгуна, пурнима (Дола-ятра, Гаура-пурнима)"
+  cc: ""
+  cb: ""
+  themes: [festival, kirtan, deities]
+  notes: "«Према-виласа», виласа 19: с Джахнавой, Вирачандрой, сыновьями Адвайты и спутниками всех ветвей; первое установление — ev-kheturi-first-installation."
+
+- id: ev-radha-krishna-appear-kheturi
+  title: "Радха и Кришна являются над киртаном в Кхетури; самадхи Нароттамы"
+  title_en: "Radha and Krishna appear above the kirtan at Kheturi; Narottama's samadhi"
+  period: P15
+  order: 106
+  calendar: "пхалгуна, пурнима (ежегодный праздник)"
+  cc: ""
+  cb: ""
+  themes: [revelation, kirtan, festival]
+  notes: "«Према-виласа», виласа 19."
+
+- id: ev-narottama-delivers-brahmanas
+  title: "Нароттама спасает хулителей-брахманов: Гурудас Бхаттачарья, Джаганнатха Ачарья, воины Чанд Рая"
+  title_en: "Narottama delivers brahmana blasphemers: Gurudasa Bhattacharya, Jagannatha Acharya, Chand Raya's warriors"
+  period: P15
+  order: 107
+  cc: ""
+  cb: ""
+  themes: [mercy, offense]
+  teaching: [purity, vaishnava]
+  notes: "«Према-виласа», виласа 19."
+
+- id: ev-rupa-narayana
+  title: "Пандит Рупа Нараяна: дигвиджая, поражение от Дживы, Хари-нама от Рупы и Санатаны"
+  title_en: "The pandit Rupa Narayana: his digvijaya, defeat by Jiva, Hari-nama from Rupa and Sanatana"
+  period: P15
+  order: 108
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  teaching: [bhakti-supremacy]
+  notes: "«Према-виласа», виласа 19: видел Махапрабху в Пури; после ухода Господа, Нитьянанды и Адвайты — сны о них."
+
+- id: ev-narasimha-raya-conversion
+  title: "Раджа Нарасимха Рай и пандиты, пришедшие спорить, принимают посвящение у Нароттамы"
+  title_en: "Raja Narasimha Raya and the pandits who came to debate take initiation from Narottama"
+  period: P15
+  order: 109
+  cc: ""
+  cb: ""
+  themes: [mercy, learning, offense]
+  teaching: [purity, vaishnava]
+  notes: "«Према-виласа», виласа 19: ученики Нароттамы, переодетые торговцами, побеждают пандитов в Кумарпуре."
+
+- id: ev-narottama-sacred-thread
+  title: "Нароттама являет священный шнур в сердце; речь Вирачандры о превосходстве вайшнава"
+  title_en: "Narottama reveals the sacred thread in his heart; Virachandra's speech on the superiority of the Vaishnava"
+  period: P15
+  order: 110
+  cc: ""
+  cb: ""
+  themes: [revelation, teaching]
+  teaching: [purity, vaishnava]
+  notes: "«Према-виласа», виласа 19: на третий день после Пхалгуна-пурнимы; Рупа Нараяна получает звание Госвами."
+
+- id: ev-virachandra-pilgrimage
+  title: "Странствия Вирачандры: Нилачала, Вриндаван, Экачакра"
+  title_en: "Virachandra's pilgrimages: Nilachala, Vrindavana, Ekachakra"
+  period: P15
+  order: 111
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "«Према-виласа», виласа 19 (кратко; подробно — по словам автора, в «Вирачандра-чарите»); «Нитьянанда-вамша-вистара», гл. 7–10."
+
+- id: ev-virachandra-dhaka-governor
+  title: "Вирачандра в Дакке: знамя-кханди, наводнение и милость правителю-явану"
+  title_en: "Virachandra at Dhaka: the khandi banner, the flood and mercy to the Muslim governor"
+  period: P15
+  order: 111.1
+  cc: ""
+  cb: ""
+  themes: [muslims, mercy, offense]
+  notes: "«Нитьянанда-вамша-вистара», гл. 7."
+
+- id: ev-virachandra-maldah
+  title: "Вирачандра в Малдахе: ливень обходит киртан; праздник Дурлабхи Чхатри"
+  title_en: "Virachandra at Maldah: the rain spares the kirtan; Durlabha Chhatri's festival"
+  period: P15
+  order: 111.2
+  cc: ""
+  cb: ""
+  themes: [kirtan, festival, prasada]
+  notes: "«Нитьянанда-вамша-вистара», гл. 8: Малдах становится шрипатом."
+
+- id: ev-virachandra-vishnupura
+  title: "Вирачандра в Вана-Вишнупуре: Маллик, Шринивас и милость царю Вире Хамбиру; «Гупта-Вриндаван»"
+  title_en: "Virachandra at Vana-Vishnupura: Mallik, Srinivasa and mercy to King Vira Hambira; 'Gupta-Vrindavana'"
+  period: P15
+  order: 111.4
+  cc: ""
+  cb: ""
+  themes: [kirtan, mercy, teaching]
+  notes: "«Нитьянанда-вамша-вистара», гл. 9."
+
+- id: ev-virachandra-jiva-vrindavana
+  title: "Вирачандра во Вриндаване: встреча с Дживой Госвами, арати и киртан в храме"
+  title_en: "Virachandra in Vrindavana: meeting Jiva Gosvami, arati and kirtan in the temple"
+  period: P15
+  order: 111.7
+  cc: ""
+  cb: ""
+  themes: [teaching, kirtan, deities]
+  teaching: [prema, bhakti-supremacy]
+  notes: "«Нитьянанда-вамша-вистара», гл. 10."
+
+- id: ev-jiva-srinivasa-letters
+  title: "Переписка Дживы Госвами со Шринивасом, Нароттамой, Рамачандрой и Говиндой"
+  title_en: "Jiva Gosvami's correspondence with Srinivasa, Narottama, Ramachandra and Govinda"
+  period: P15
+  order: 112
+  cc: ""
+  cb: ""
+  themes: [teaching, learning]
+  teaching: [scripture, prema]
+  notes: "«Према-виласа», «Полувиласа» (D): шесть писем с переложением; уход Бхугарбхи и Гопалы Бхатты; толкование «сева садхака-рупена» (БРС 1.2.295)."
+
 - id: ev-tattva-nityananda-advaita
   title: "Истина о Нитьянанде и Адвайте"
   title_en: "The truth about Nityananda and Advaita"
@@ -4600,3 +5108,35 @@
   cb: ""
   themes: [teaching]
   notes: "Богословская тема, не эпизод жизни. Мурари 1.04.17–33; ср. рассуждения Брахмы (ev-brahma-yuga-avatara-discourse) и пандитов (ev-pandits-recognize-vishvambhara) у Лочана Даса."
+
+- id: ev-tattva-gaura-scripture-proofs
+  title: "Свидетельства шастр о сокровенном нисшествии Гауранги"
+  title_en: "Scriptural evidence of Gauranga's hidden descent"
+  period: PX
+  order: 7
+  cc: "Ади 3"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, scripture]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 11.5.32, 7.9.38, 10.8.13; пуранические шлоки."
+
+- id: ev-tattva-holy-name
+  title: "Святое имя — дхарма века Кали"
+  title_en: "The holy name, the dharma of the age of Kali"
+  period: PX
+  order: 8
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  teaching: [holy-name, yuga-dharma]
+  notes: "Богословская тема, не эпизод жизни."
+
+- id: ev-legend-shiva-bhuvaneshvara
+  title: "Сказание о Шиве, царе Каши и диске Сударшане; Шива получает Экамра-канану (Бхуванешвару)"
+  title_en: "The legend of Shiva, the King of Kashi and the Sudarshana disc; Shiva receives Ekamra-kanana (Bhubaneshvara)"
+  period: PX
+  order: 9
+  cc: ""
+  cb: "Антья 2"
+  themes: [krishna-lila, teaching, celestial]
+  notes: "Пересказ лилы Кришны (Бхаг. 10.66), не эпизод жизни: в ЧБ его рассказывает Господь в Экамре, в «Нитьянанда-вамша-вистаре» (гл. 10) — Вирачандра в Каши."

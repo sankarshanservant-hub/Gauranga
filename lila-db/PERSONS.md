@@ -23,6 +23,11 @@
 | @govinda-deity | Говинда (Говиндадева) — Божество во Вриндаване | Govinda (Govindadeva), the Deity of Vrindavana | Божество, которому служил Рупа Госвами |
 | @radha-ramana-deity | Радха-рамана — Божество во Вриндаване | Radha-ramana, the Deity of Vrindavana | Божество Гопалы Бхатты Госвами |
 | @madana-mohana-vrindavana | Мадана-мохана — Божество во Вриндаване | Madana-mohana, the Deity of Vrindavana | Божество Санатаны Госвами; не путать с @madana-gopala-deity |
+| @shyamasundara-khardaha | Шьямасундара — Божество в Кхардахе | Shyamasundara, the Deity of Khardaha | Божество Нитьянанды и Вирачандры |
+| @bankima-raya | Банкима Рай (Банкимдева) — Божество в Экачакре | Bankima Raya (Bankimadeva), the Deity of Ekachakra | в Него, по преданию, вошёл Нитьянанда |
+| @gopinatha-vrindavana | Гопинатха — Божество во Вриндаване | Gopinatha, the Deity of Vrindavana | Божество Мадху Пандита; рядом — изваяние Джахнавы |
+| @vishvanatha-kashi | Вишвешвара (Вишванатха) — Божество в Каши | Vishveshvara (Vishvanatha), the Deity of Kashi | Шива |
+| @veni-madhava | Вени-Мадхава — Божество в Праяге | Veni-Madhava, the Deity of Prayaga | |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -211,6 +216,46 @@
 | @gati-govinda | Гати-Говинда | Gati-Govinda | сын Шринивасы Ачарьи и Гауранга-прии, ученик отца |
 | @ganganarayana-chakravarti | Ганганараяна Чакраварти | Ganganarayana Chakravarti | брахман-кулин, ставший учеником Нароттамы |
 | @harichandra-raya | Харичандра Рай | Harichandra Raya | заминдар Джалапантхи, бывший разбойник, ученик Нароттамы |
+| @harivamsha | Харивамша (враджаваси) | Harivamsha (the Vrajavasi) | ученик Гопалы Бхатты, отвергнутый за бетель в экадаши; по-видимому, Хит Харивамша, основатель поклонения Радха-валлабхе («Према-виласа» 18) |
+| @chand-raya | Чанд Рай | Chand Raya | брахман-заминдар, разбойник и шакта, избавленный Нароттамой от брахма-дайтьи и ставший его учеником |
+| @santosha-raya | Сантоша Рай | Santosha Raya | брат Чанд Рая, ученик Нароттамы |
+| @raghavendra-raya | Рагхавендра Рай | Raghavendra Raya | отец Чанд Рая и Сантоши, ученик Нароттамы |
+| @sher-khan | Шер Хан | Sher Khan | патхан, наместник в Уткале, обращённый Шьяманандой |
+| @damodara-yogi | Дамодара (йогин-ведантист) | Damodara (the Vedantist yogi) | санньяси, побеждённый в споре Шьяманандой и ставший его учеником |
+| @yadunandana-chakravarti | Ядунандана Чакраварти | Yadunandana Chakravarti | из Катоа, ученик Гададхары Даса; не путать с @yadunandana-acharya |
+| @vipradasa | Випрадас | Vipradasa | торговец зерном близ Кхетури, в чьём амбаре найден образ Гауранги |
+| @madhava-acharya-kavivallabha | Мадхава Ачарья (Кавиваллабха) | Madhava Acharya (Kavivallabha) | двоюродный брат Вишнуприи, автор «Кришна-мангалы»; посвящён Адвайтой; не путать с @madhava-acharya-ganga |
+| @madhava-acharya-ganga | Мадхава Ачарья (супруг Ганги) | Madhava Acharya (husband of Ganga) | варендра-брахман, ученик и зять Нитьянанды; не путать с @madhava-acharya-kavivallabha |
+| @ganga-nityananda | Ганга (дочь Нитьянанды) | Ganga (Nityananda's daughter) | дочь Нитьянанды и Васудхи, супруга Мадхавы Ачарьи; не путать с @ganga-devi |
+| @gurudasa-bhattacharya | Гурудас Бхаттачарья | Gurudasa Bhattacharya | брахман из Гопалпура, хуливший Нароттаму и исцелённый им от проказы |
+| @narasimha-raya | Нарасимха Рай | Narasimha Raya | раджа Паккапалли, родич Нароттамы, его ученик |
+| @rupa-narayana | Рупа Нараяна (Рупачандра) | Rupa Narayana (Rupachandra) | пандит из Камарупы, побеждённый Дживой; получил Хари-наму от Рупы и Санатаны, мантру — от Нароттамы |
+| @ramai-blind | Рамаи (слепой) | Ramai (the blind man) | прозревший по милости Вирачандры в Шрикханде; не путать с @abhirama |
+| @jayagopala | Джаягопала | Jayagopala | из Кадры, отлучённый Вирачандрой за пренебрежение милостью гуру |
+| @madhava-mishra | Мадхава Мишра | Madhava Mishra | отец Гададхары Пандита, из Белети (Читтагонг) |
+| @nayanananda-mishra | Наянананда Мишра | Nayanananda Mishra | племянник и ученик Гададхары Пандита, наследник служения Гопинатхе |
+| @damodara-chaube | Дамодара Чаубе | Damodara Chaube | брахман-чаубе Матхуры, в чьём доме служили Мадана-мохану |
+| @lakshminatha-lahiri | Лакшминатха Лахири | Lakshminatha Lahiri | варендра-кулин из Бхитадии (Камарупа), отец Рупы Нараяны; принимал Господа («Према-виласа», указатель к в. 24) |
+| @sudhamaya | Судхамая (Мукхути) | Sudhamaya (Mukhuti) | брахман из Махеша, зять Пипилая; приёмный отец Нараяни, жены Вирачандры («Нитьянанда-вамша-вистара») |
+| @vidyunmala | Видьюнмала | Vidyunmala | жена Судхамаи из Махеша |
+| @narayani-virachandra | Нараяни (жена Вирачандры) | Narayani (Virachandra's wife) | по «Нитьянанда-вамша-вистаре» — дочь Океана, воспитанная Судхамаей; по «Према-виласе» — дочь Ядунанданы из Джхаматпура; не путать с @narayani и @narayani-kheturi |
+| @chakradeva | Чакрадева | Chakradeva | правитель из рода Гаджапати в Ориссе, ученик Вакрешвары («Нитьянанда-вамша-вистара») |
+| @gopijanavallabha | Гопиджанаваллабха | Gopijanavallabha | старший сын Вирачандры |
+| @ramakrishna-virachandra | Рамакришна (сын Вирачандры) | Ramakrishna (Virachandra's son) | второй сын Вирачандры; не путать с @ramakrishna-acharya |
+| @ramachandra-virachandra | Рамачандра (сын Вирачандры) | Ramachandra (Virachandra's son) | третий сын Вирачандры; не путать с @ramachandra-kaviraja |
+| @parvaticharana | Парватичарана Мукхуйя | Parvaticharana Mukhuya | муж дочери Вирачандры |
+| @vishnupriya-virachandra | Вишнуприя (вторая жена Вирачандры) | Vishnupriya (Virachandra's second wife) | ученица Джахнавы; не путать с @vishnupriya |
+| @chandana-mandala | Чандана Мандал | Chandana Mandala | богатый купец-вайшнав из Мангалкота, построивший колесницу для Джахнавы |
+| @ramai-jahnava | Рамаи (Рамачандра) Госвами | Ramai (Ramachandra) Gosvami | приёмный сын и ученик Джахнавы; не путать с @ramai-blind и @ramachandra-virachandra |
+| @jnanadasa | Джнянадас | Jnanadasa | спутник Джахнавы («Нитьянанда-вамша-вистара») |
+| @madhava-ekachakra | Мадхава (родич Хадаи Пандита) | Madhava (a kinsman of Hadai Pandita) | житель Экачакры, принимавший Джахнаву |
+| @haridasa-pandita-govinda | Харидас Пандит (служитель Говинды) | Haridasa Pandita (servant of Govinda) | главный жрец Говиндадевы во Вриндаване |
+| @gosai-dasa-pujari | Госаи Дас Пуджари | Gosai Dasa Pujari | служитель Мадана-мохана во Вриндаване |
+| @nrisimha-dasa-nada | Нрисимха Дас (глава нада) | Nrisimha Dasa (leader of the nadas) | спутник Вирачандры, глава нада-знаменосцев («Нитьянанда-вамша-вистара») |
+| @dhaka-governor | Правитель Дакки | the governor of Dhaka | мусульманский правитель, получивший милость Вирачандры («Нитьянанда-вамша-вистара») |
+| @durlabha-chhatri | Дурлабха Чхатри | Durlabha Chhatri | сын Кешавы Чхатри, визирь государя Гауды; устроил праздник Вирачандре в Малдахе |
+| @parameshvara-dasa-mallik | Парамешвара Дас Маллик | Parameshvara Dasa Mallik | вайшнав из спутников Нитьянанды близ Вана-Вишнупура («Нитьянанда-вамша-вистара») |
+| @kashiraja | Царь Каши | the King of Kashi | союзник Паундраки, получивший дар от Шивы и убитый диском Кришны (Бхаг. 10.66) |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -250,6 +295,11 @@
 | @yama | Яма (Ямараджа, Дхармараджа) | Yama (Yamaraja, Dharmaraja) | владыка смерти, сын Солнца |
 | @madana-gopala-deity | Мадана-Мохана (Мадана-Гопала) — Божество | Madana-Mohana (Madana-Gopala), the Deity | Божество Кришны, обретённое Адвайтой во Врадже («Адвайта-пракаша»), которому служил Адвайта в Шантипуре |
 | @sarasvati-devi | Сарасвати (богиня учёности) | Sarasvati (goddess of learning) |  |
+| @durga | Дурга (Деви, Махамайя) | Durga (Devi, Mahamaya) | богиня, внешняя энергия Господа; в «Према-виласе» — служанка Кришны, направляющая своих почитателей к Говинде; ср. @yogamaya |
+| @chitragupta | Читрагупта | Chitragupta | писец Ямы, ведущий счёт грехам |
+| @ananga-manjari | Ананга-манджари | Ananga-manjari | младшая сестра Радхи; её воплощением считается Джахнава |
+| @vrinda-devi | Вринда-деви | Vrinda-devi | богиня Вриндавана, устроительница игр Радхи и Кришны |
+| @vasuki | Васуки | Vasuki | царь нагов |
 | **Аллегорические лица** ||||
 | @kali-personified | Кали (олицетворение века Кали) | Kali (personification of the Kali age) | «царь эпохи» в аллегорических сценах; не путать с богиней Кали |
 | @adharma | Адхарма (Беззаконие) | Adharma (Irreligion) | олицетворение; друг и слуга Кали |

@@ -1,0 +1,1538 @@
+# «Нитьянанда-вамша-вистара» (приписывается Вриндавану Дасу Тхакуру) — лилы в порядке изложения (формат — ../README.md).
+# Перевод — nityananda-vamsha/ru/01.md–10.md (2251 двустишие, нумерация внутри глав). Метки стихов — **N.**
+# Поэма о роде Нитьянанды: женитьба на Васудхе и Джахнаве, Вирачандра (Вирабхадра), Джахнава и Васудха,
+# странствия Вирачандры. Основная часть — P15; лилы Нитьянанды и Господа при Его жизни привязаны к общим событиям.
+# Источник уровня C (поздний; атрибуция Вриндавану Дасу сомнительна). Отождествление Вирачандры с Гаурангой —
+# позиция автора; по «Чайтанья-чаритамрите» (Ади 11.8) Вирабхадра — Кширодакашайи Вишну, «ствол» ветви Нитьянанды.
+# Датировки — только на записях и лишь там, где текст даёт опору. Записи добавлять в конец.
+
+- id: nvv-0001
+  source: nityananda-vamsha
+  ref: "Глава 1, 1–5"
+  file: "nityananda-vamsha/ru/01.md"
+  period: PX
+  order: 24
+  title: "Начальные поклонения: Чайтанья, Нитьянанда, Адвайта; желание воспеть Нитьянанду и Вирачандру"
+  summary: "Слава Чайтанье, Нитьянанде и Адвайте; автор, сравнивая себя с птичкой, жаждущей океана, просит вайшнавов дать ему силы рассказать о недосказанном в играх Нитьянанды и Чайтаньи и о достоинствах Вирачандры."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Атрибуция поэмы Вриндавану Дасу — по самому тексту (подписи глав)."
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "1", to: "5"}
+
+- id: nvv-0002
+  source: nityananda-vamsha
+  ref: "Глава 1, 6–46"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P12
+  order: 90
+  title: "Тайный совет в Нилачале: Господь велит Нитьянанде стать домохозяином и обещает явиться в его доме"
+  summary: "Наедине Чайтанья велит Нитьянанде идти в Гауду и стать домохозяином ради спасения людей и обещает вновь прийти в его дом сокровенным воплощением, неизвестным шастрам; Нитьянанда сетует, что, сделав его авадхутой, Господь теперь вновь посылает его в мирскую жизнь, но принимает приказ; Господь говорит об их единстве («как две половинки зерна чечевицы») и обещает, что Нитьянанда всегда найдёт Его в своей пляске и в стряпне Шачи; ночь они проводят в слезах, утром смотрят на Джаганнатху."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#puri"]
+  kind: prophecy
+  authority: C
+  parallels: "ЧЧ Мадхья 15 (Господь посылает Нитьянанду в Гауду)"
+  notes: "Обещанное «сокровенное воплощение» в доме Нитьянанды — Вирачандра (гл. 2). Отождествление Вирачандры с Гаурой — позиция автора; по ЧЧ Ади 11.8 Вирабхадра — проявление Кширодакашайи Вишну. Слова «ты — шакти, я — обладатель шакти» и «кто ты, тот и я» говорят о единстве Господа и Его первого проявления, а не о безличном тождестве."
+  themes: [teaching, separation]
+  teaching: [associates-tattva]
+  scriptures: ["Бхаг. 10.46–47"]
+  divergence: "Повеление идти в Гауду соединено с повелением жениться и с пророчеством о новом явлении Господа в доме Нитьянанды."
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "6", to: "46"}
+
+- id: nvv-0003
+  source: nityananda-vamsha
+  ref: "Глава 1, 47–55"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P14
+  order: 100
+  title: "Господь погружён в бхаву Радхи и разлуку с Кришной; вкушает её со Сварупой"
+  summary: "С того дня Господь день и ночь говорит языком разлуки с Кришной в настроении Радхи, вкушая эту расу лишь со Сварупой Дамодарой и хранящий санкиртану имени как дхарму века; сокровенный замысел, открытый Нитьянанде, Он лишь намёком раскрывает самым близким."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–20"
+  notes: "Краткое упоминание."
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "47", to: "55"}
+
+- id: nvv-0004
+  source: nityananda-vamsha
+  ref: "Глава 1, 56–87"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P12
+  order: 100
+  title: "Нитьянанда в Гауде: киртан и пиры в доме Рагхавы в Панихати"
+  summary: "Преданные под предлогом паломничества расходятся; Нитьянанда с махантами идёт через Гауду, затопляя народ премой, и приходит в Панихати к Рагхаве: от Тривени стекаются толпы, днём пиршество, ночью киртан; описаны его украшения, облик борца-героя и смена бхав — разлука с Кришной, настроение служителя Радхи, настроение Рамы и дружбы."
+  persons: ["@nityananda", "@raghava-pandita"]
+  places: ["#panihati", "#saptagrama"]
+  kind: lila
+  authority: C
+  parallels: "ЧБ Антья 5"
+  notes: ""
+  themes: [kirtan, ecstasy, prasada]
+  bhava: [balarama, sakha]
+  event: ev-nityananda-panihati-abhisheka
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "56", to: "87"}
+
+- id: nvv-0005
+  source: nityananda-vamsha
+  ref: "Глава 1, 88–117"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20
+  title: "Нитьянанда сватается к дочери Сурьядаса в Амбике; отказ и сон Сурьядаса о Балараме"
+  summary: "Нитьянанда с Уддхараной Даттой приходит в Амбика-нагар к Сурьядасу Пандиту и просит его дочь; тот, введённый в заблуждение майей, отказывает из страха за касту, и Нитьянанда уходит. Сурьядас рассказывает домашним сон: великий муж на колеснице с пальмовым знаменем, с плугом и палицей, в синих одеждах, сказал ему: «Я женюсь на твоей дочери»; Васудха плачет, родные колеблются."
+  persons: ["@nityananda", "@uddharana-datta", "@suryadasa-pandita", "@vasudha"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: C
+  parallels: "Джаянанда, Уттара-кханда (кратко); «Према-виласа», виласа 24 (D)"
+  notes: "«Майя» о Сурьядасе — покров на вечном спутнике ради игры (йогамайя), а не неведение обусловленной души."
+  themes: [family, revelation]
+  bhava: [balarama]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "88", to: "117"}
+
+- id: nvv-0006
+  source: nityananda-vamsha
+  ref: "Глава 1, 118–148"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20
+  title: "Смертельный недуг Васудхи; Гауридас приводит Нитьянанду; оживление и шестирукий облик"
+  summary: "Васудха внезапно падает без чувств, лекари признают апасмару и велят нести её к Ганге; Гауридас Пандит объявляет: кто спасёт её, тому отдадут дочь, и вместе со всеми падает к стопам Нитьянанды под баньяном («Ты всё позабыл, глупый пастушок!»). От ветерка и аромата тела Прабху Васудха приходит в сознание и уходит в дом, а Нитьянанда во дворе являет шестирукий облик (лук и стрелы, плуг и палица, посох и камандалу)."
+  persons: ["@vasudha", "@suryadasa-pandita", "@gauridasa-pandita", "@nityananda"]
+  places: ["#ambika-kalna"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Гауридас — Субала Враджа (ст. 132)."
+  themes: [revelation, mercy, family]
+  bhava: [aishvarya, balarama]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "118", to: "148"}
+
+- id: nvv-0007
+  source: nityananda-vamsha
+  ref: "Глава 1, 149–254"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20
+  title: "Новая упанаяна Нитьянанды и свадьба с Васудхой"
+  summary: "Пандиты и кулачарьи решают заново дать Нитьянанде священный шнур с готрой прежнего ашрама; брахманы удивляются, что пищу ему готовит Уддхарана, сувáрна-баник. После упанаяны (милостыня у тёщи, шутливый «уход на учение») — адхивас, свадебные обряды, наряжание жениха Гауридасом (как Субала наряжал Раму) и невесты, свадебное шествие по селению при богах в облике людей, обход невесты вокруг жениха, сампрадана, ночь в басаре и кушандика."
+  persons: ["@nityananda", "@vasudha", "@suryadasa-pandita", "@gauridasa-pandita", "@uddharana-datta"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ст. 224 — подпись Вриндавана Даса с именем Джахнавы."
+  themes: [family, festival, celestial]
+  teaching: [purity]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "149", to: "254"}
+
+- id: nvv-0008
+  source: nityananda-vamsha
+  ref: "Глава 1, 255–275"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20
+  title: "Нитьянанда узнаёт в Джахнаве свою полную шакти и берёт её «в приданое»"
+  summary: "Когда младшая дочь Сурьядаса Джахнава подаёт ему прасад, у неё соскальзывает покрывало и она поправляет его ещё двумя руками; Нитьянанда узнаёт в ней свою полную шакти, сажает Васудху слева, Джахнаву справа и просит Сурьядаса отдать младшую дочь в приданое; тот, ликуя, соглашается."
+  persons: ["@nityananda", "@jahnava", "@vasudha", "@suryadasa-pandita"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family, revelation]
+  bhava: [shakti]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "255", to: "275"}
+
+- id: nvv-0009
+  source: nityananda-vamsha
+  ref: "Глава 1, 276–297"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20
+  title: "Сурьядас и Гауридас видят Нитьянанду Баларамой на ложе Ананты с четырёхрукими супругами"
+  summary: "Нитьянанда являет величие: он возлежит на ложе Ананты, Васудха и Джахнава служат ему, Брахма, Шива, Санака, Нарада, Вьяса и Шука возносят хвалу; братья Сурьядас и Гауридас, привлечённые сиянием, видят четырёхрукого Баладеву с плугом, палицей и чётками и четырёхруких дочерей; Прабху скрывает величие и называет их вечными слугами Кришны."
+  persons: ["@nityananda", "@vasudha", "@jahnava", "@suryadasa-pandita", "@gauridasa-pandita", "@brahma", "@shiva", "@narada"]
+  places: ["#ambika-kalna"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation, celestial]
+  bhava: [balarama, aishvarya]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "276", to: "297"}
+
+- id: nvv-0010
+  source: nityananda-vamsha
+  ref: "Глава 1, 298–306"
+  file: "nityananda-vamsha/ru/01.md"
+  period: P15
+  order: 20.5
+  title: "Нитьянанда основывает шрипат в Кхардахе и служение Шьямасундаре"
+  summary: "Чтобы исполнить повеление Махапрабху и открыть «торжище премы», Нитьянанда поселяется в Кхардахе, исполняет обязанности домохозяина и учреждает служение Шьямасундаре; Васудха и Джахнава служат ему, обе молят Чайтанью, чтобы из рождения в рождение их супругом был Нитьянанда; подпись Вриндавана Даса и колофон главы."
+  persons: ["@nityananda", "@vasudha", "@jahnava", "@shyamasundara-khardaha"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [family, deities]
+  event: ev-nityananda-settles-khardaha
+  verses:
+    - {file: "nityananda-vamsha/ru/01.md", from: "298", to: "306"}
+
+- id: nvv-0011
+  source: nityananda-vamsha
+  ref: "Глава 2, 1–8"
+  file: "nityananda-vamsha/ru/02.md"
+  period: PX
+  order: 24
+  title: "Хвала Нитьянанде, Васудхе и Джахнаве; о новом нисхождении Господа в век Кали"
+  summary: "Санскритская строфа и песня-трипади: слава Нитьянанде — второму телу Кришны, супругу Васудхи-Ревати вместе с Джахнавой; без Гауры мир лишён вкуса Хари, и милостивый Господь нисходит вновь; хвала Васудхе и Джахнаве."
+  persons: ["@vrindavana-dasa", "@nityananda", "@vasudha", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/02.md", from: "1", to: "8"}
+
+- id: nvv-0012
+  source: nityananda-vamsha
+  ref: "Глава 2, 9–25"
+  file: "nityananda-vamsha/ru/02.md"
+  period: P15
+  order: 22
+  title: "Рождение Вирачандры у Васудхи"
+  summary: "Из лона Васудхи, словно луна из Молочного океана, является Вирачандра с тридцатью двумя признаками махапуруши; помня своё обещание, Господь в осенний 9-й день тёмной половины входит в лоно, и после пятнадцати месяцев Васудха рождает его на 4-й день светлой половины маргаширши; три мира ликуют, знатные женщины славят Васу-Лакшми; автор: у Господа нет земного рождения — лишь явление и сокрытие; в Вирачандре — вновь нисхождение Гауры."
+  persons: ["@virabhadra", "@vasudha", "@nityananda", "@vrindavana-dasa"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  calendar: "маргаширша, светлая половина, 4-й день (зачатие — осенью, 9-й день тёмной половины)"
+  parallels: ""
+  notes: "Отождествление Вирачандры с Гаурой — позиция автора; по ЧЧ Ади 11.8 Вирабхадра — Кширодакашайи Вишну. Слова о «явлении и сокрытии» Господа — в согласии с Гитой 4.9 (не обычное рождение)."
+  themes: [family, revelation]
+  teaching: [associates-tattva]
+  event: ev-virachandra-birth
+  verses:
+    - {file: "nityananda-vamsha/ru/02.md", from: "9", to: "25"}
+
+- id: nvv-0013
+  source: nityananda-vamsha
+  ref: "Глава 2, 26–59"
+  file: "nityananda-vamsha/ru/02.md"
+  period: P15
+  order: 23
+  title: "Абхирама кланяется младенцу Вирачандре и узнаёт в нём Гаурангу"
+  summary: "Абхирама приходит к «Даде Балаю» посмотреть на сына; Васудха тревожится, слыша, что от его поклонов раскалываются божества, и передаёт ребёнка Джахнаве; Абхирама трижды простирается перед младенцем, тот улыбается, пробуждаясь от йога-нидры; Абхирама восклицает: «Это он!» — облик тот же, что у Гауранги; описан Абхирама в наряде пастушка — Шридама Враджа."
+  persons: ["@abhirama", "@nityananda", "@vasudha", "@jahnava", "@virabhadra"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 24 (D)"
+  notes: "По преданию (сноска перевода), поклон Абхирамы губил сыновей Нитьянанды, рождённых до Вирачандры, и раскалывал ненастоящие божества."
+  themes: [revelation, family]
+  bhava: [child]
+  event: ev-virachandra-recognized
+  verses:
+    - {file: "nityananda-vamsha/ru/02.md", from: "26", to: "59"}
+
+- id: nvv-0014
+  source: nityananda-vamsha
+  ref: "Глава 2, 60–68"
+  file: "nityananda-vamsha/ru/02.md"
+  period: P15
+  order: 23
+  title: "Адвайта приходит из Шантипура и узнаёт «того самого вора»"
+  summary: "Адвайта, увидев младенца, силой бхакти понимает, что это Гаурачандра, и с тарджей восклицает: «Снова вор явился — в дом губителя каст! Тот самый вор!»; много раз кланяется, обходит ребёнка и уходит; вайшнавы дивятся."
+  persons: ["@advaita", "@virabhadra", "@nityananda"]
+  places: ["#kharadaha", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [revelation]
+  event: ev-virachandra-recognized
+  verses:
+    - {file: "nityananda-vamsha/ru/02.md", from: "60", to: "68"}
+
+- id: nvv-0015
+  source: nityananda-vamsha
+  ref: "Глава 2, 69–79"
+  file: "nityananda-vamsha/ru/02.md"
+  period: P15
+  order: 22
+  title: "Детские игры Вирачандры; боги в облике людей приходят на него взглянуть"
+  summary: "Вирачандра растёт и чарует всех красотой; Брахма и боги в человеческом облике каждый день приходят посмотреть на него и славят его как независимого Господа; сам Нитьянанда очарован и не думает о нём как о сыне; колофон главы."
+  persons: ["@virabhadra", "@brahma", "@nityananda", "@vrindavana-dasa"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ст. 78 («меж Вирачандрой и Гаурачандрой нет различия») — позиция автора; см. запись nvv-0012."
+  themes: [celestial, revelation]
+  bhava: [child]
+  event: ev-virachandra-birth
+  verses:
+    - {file: "nityananda-vamsha/ru/02.md", from: "69", to: "79"}
+
+- id: nvv-0016
+  source: nityananda-vamsha
+  ref: "Глава 3, 1–2"
+  file: "nityananda-vamsha/ru/03.md"
+  period: PX
+  order: 24
+  title: "Шлока о Вирачандре-луне; слава Нитьянанде"
+  summary: "Санскритская шлока: Вирачандра — луна, рассеивающая тьму Кали и раздающая нектар премы; слава милостивому Нитьянанде."
+  persons: ["@vrindavana-dasa", "@virabhadra", "@nityananda", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "1", to: "2"}
+
+- id: nvv-0017
+  source: nityananda-vamsha
+  ref: "Глава 3, 3–34"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 36.2
+  title: "Бездетный брахман Судхамая из Махеша в Пури; Океан вручает ему девочку Нараяни"
+  summary: "Судхамая (Мукхути), зять Пипилая, с женой Видьюнмалой, раздав имущество брахманам, идёт с паломниками на Чандана-ятру в Нилачалу, проводит там Ратха-ятру и чатурмасью и поселяется в шалаше на берегу океана; Океан является во плоти и вручает им девочку Нараяни — Лакшми, переданную ему Гангой: её мужем станет сын Нитьянанды Вирачандра, сам Гауранга, который вскоре придёт сюда."
+  persons: ["@sudhamaya", "@vidyunmala", "@ratnakara", "@narayani-virachandra", "@jagannatha-deity"]
+  places: ["#mahesh", "#puri"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Пипилай — по сноске перевода, Камалакара Пипилай, один из двенадцати гопалов."
+  themes: [celestial, family, jagannatha]
+  event: ev-narayani-from-ocean
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "3", to: "34"}
+
+- id: nvv-0018
+  source: nityananda-vamsha
+  ref: "Глава 3, 35–49"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 30
+  title: "Нитьянанда в разлуке с Гаурой; уход в Банкимдеву в Экачакре"
+  summary: "Нитьянанда, второе тело Чайтаньи, плачет в разлуке с Ним, поёт о Гауранге и даже в Шьямасундаре видит сияние Гауры; войдя в храм, он скрывается, затем, придя в себя, с Васудхой и Джахнавой уходит в Экачакру, несколько дней созерцает Банкимдеву и исчезает в Нём; автор не в силах описывать эту разлуку."
+  persons: ["@nityananda", "@vasudha", "@jahnava", "@shyamasundara-khardaha", "@bankima-raya"]
+  places: ["#kharadaha", "#ekachakra"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 23 (D)"
+  notes: "Предание об уходе Нитьянанды в Банкима Рая в Экачакре."
+  themes: [departure, separation]
+  event: ev-nityananda-departure
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "35", to: "49"}
+
+- id: nvv-0019
+  source: nityananda-vamsha
+  ref: "Глава 3, 50–66"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 31
+  title: "Великий праздник и помазание Вирачандры Адвайтой"
+  summary: "Вайшнавы, лишённые Прабху, видят опору лишь в Вирачандре и уговаривают тоскующего юношу устроить великий праздник и принять помазание; рассылают приглашения махантам — кто приходит, кто присылает дары, а несчастные отвернувшиеся (их имён автор не называет) остаются вне его милости; Адвайта со всем собранием совершает помазание и про себя узнаёт «того самого вора»."
+  persons: ["@virabhadra", "@advaita"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ст. 56: «Гопала» (имя испорчено) и дядя Прабху по матери собирают припасы."
+  themes: [festival, separation]
+  event: ev-virachandra-abhisheka
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "50", to: "66"}
+
+- id: nvv-0020
+  source: nityananda-vamsha
+  ref: "Глава 3, 67–105"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 34
+  title: "Вирачандра плывёт к Адвайте за посвящением; Рамадас раскалывает лодку; Джахнава являет шестирукий облик и даёт мантру"
+  summary: "Вирачандра тайно отплывает к Адвайте в Шантипур за посвящением; Джахнава посылает Чандрашекхару вернуть его; киртания Рамадас в гневе бросает что-то в лодку, и она раскалывается — Прабху идёт по воде в деревянных сандалиях и возвращается; Рамадас славит его как гуру мира. Вирачандра видит мать с чётками в двух руках, двумя поправляющей одежду и с плугом и палицей в двух других, просит прощения и получает от неё мантру; в экстазе он катается в пыли, хватает вайшнавов за стопы и видит в сердце Шьямасундару с флейтой."
+  persons: ["@virabhadra", "@jahnava", "@abhirama", "@advaita"]
+  places: ["#kharadaha", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "«Адвайта-пракаша», гл. 22 (D)"
+  notes: "Рамадас — по сноске перевода, возможно Абхирама Тхакур. Чандрашекхара — по тексту «Пандит», точнее не определён. Шестирукий облик Джахнавы с оружием Баларамы — её единство с Нитьянандой как его шакти."
+  themes: [revelation, ecstasy, family]
+  bhava: [shakti, aishvarya]
+  divergence: "В «Адвайта-пракаше» сам Адвайта отсылает Вирабхадру к Джахнаве; здесь Вирачандра уходит к Адвайте тайно, а возвращает его Рамадас, расколов лодку."
+  event: ev-virabhadra-initiation
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "67", to: "105"}
+
+- id: nvv-0021
+  source: nityananda-vamsha
+  ref: "Глава 3, 106–126"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 36.3
+  title: "Вирачандра идёт в Нилачалу и на юг: его чтят как вновь явившегося Гаурачандру"
+  summary: "Пожелав вести семейную жизнь и искать возлюбленную, Вирачандра после праздника явления Нитьянанды (13-й день светлой половины магхи) идёт с вайшнавами в Нилачалу; Абхирама представляет ему Сарвабхауму и спутников Махапрабху, приходит сын Пратапарудры; он видит Дола-ятру, и жители Пури говорят: «Это сам Кришна Чайтанья»; затем странствует по югу, как прежде Махапрабху, и возвращается в Нилачалу."
+  persons: ["@virabhadra", "@abhirama", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  calendar: "выход — после магха-шукла-трайодаши (явления Нитьянанды); в Пури — Дола-ятра"
+  parallels: "«Према-виласа», виласа 19 (кратко)"
+  notes: "Участие Сарвабхаумы хронологически сомнительно (сноска перевода)."
+  themes: [pilgrimage, jagannatha, kirtan]
+  divergence: "Вирачандра в Пури встречается с Сарвабхаумой и сыном Пратапарудры — анахронизм."
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "106", to: "126"}
+
+- id: nvv-0022
+  source: nityananda-vamsha
+  ref: "Глава 3, 127–176"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 36.5
+  title: "Женитьба Вирачандры на Нараяни у Судхамаи; Вакрешвара посвящает царя Чакрадеву"
+  summary: "Вирачандра приходит в хижину Судхамаи, Нараяни узнаёт в нём своего Господа и гирлянда сама падает ему на шею; спутники называют родословную (сын Нитьянанды, внук Хадаи Бандьопадхьяи, готра Шандилья); приданое — пять харитаки; Океан в облике человека открывает брахману, что жених — Нараяна, тот же, что Джаганнатха, одаряет его драгоценностями, гандхарвы и Нарада приходят на свадьбу. Вакрешвара по велению Прабху даёт мантру Радхи-Кришны царю Чакрадеве из рода Гаджапати, и тот с войском провожает чету."
+  persons: ["@virabhadra", "@narayani-virachandra", "@sudhamaya", "@vidyunmala", "@ratnakara", "@vakreshvara", "@chakradeva", "@narada", "@hadai-pandita"]
+  places: ["#puri", "#chilka"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», указатель к виласе 24 (D)"
+  notes: "Участие Вакрешвары хронологически сомнительно (сноска перевода)."
+  themes: [family, celestial, mercy]
+  divergence: "По «Према-виласе» Вирачандра женится на Шримати и Нараяни, дочерях Ядунанданы из Джхаматпура; здесь Нараяни — дочь Океана, воспитанная брахманом Судхамаей из Махеша, свадьба — близ Пури."
+  event: ev-virachandra-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "127", to: "176"}
+
+- id: nvv-0023
+  source: nityananda-vamsha
+  ref: "Глава 3, 177–197"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 36.6
+  title: "Возвращение Вирачандры с Нараяни в Кхардаху; встреча Ганги и матерей"
+  summary: "Простившись с Сарвабхаумой и спутниками Махапрабху и взяв тюки махапрасада, Вирачандра с Лакшми в паланкине под санкиртану возвращается в Кхардаху; на гхате их встречают горожане, Ганга-деви — старшая сестра, шакти Нитьянанды в теле из воды, — вводит чету в дом, обе матери любуются; домом управляет Мадхава Ачарья, муж Ганги."
+  persons: ["@virabhadra", "@narayani-virachandra", "@ganga-nityananda", "@vasudha", "@jahnava", "@madhava-acharya-ganga", "@sarvabhauma"]
+  places: ["#puri", "#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ганга названа воплощением реки Ганги."
+  themes: [family, prasada]
+  event: ev-virachandra-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "177", to: "197"}
+
+- id: nvv-0024
+  source: nityananda-vamsha
+  ref: "Глава 3, 198–238"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 37.5
+  title: "Вирачандра усмиряет нада: огонь от их голода и сотворённые нади; наставление об отказе от женского общества"
+  summary: "1200 нада служат в Кхардахе; однажды голодные нада требуют еды прежде подношения Шьямасундаре, и в доме вспыхивает огонь; Вирачандра взглядом гасит его и, чтобы умалить их силу, одним знаком творит 1300 юных нади и раздаёт их нада в жёны — так появились вайшнавы-самбхоги; разумные нада бегут и месяцами скрываются под водой, освобождаясь от петли майи, и их обители становятся святыми местами. Автор учит избегать женского общества, а живущим в семье — опираться на имена Нитая и Чайтаньи и поклоняться в настроении игр Радхи и Кришны."
+  persons: ["@virabhadra", "@vasudha", "@jahnava", "@shyamasundara-khardaha"]
+  places: ["#kharadaha"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "Предание об обращении буддийских монахов и монахинь нэра-нэри (сноска перевода). Автор подаёт семейную жизнь нада как наказание и прямо ставит выше отказ от общения с женщинами — это не освящение мирской страсти; «майя Прабху» здесь — его игра-испытание (йогамайя)."
+  themes: [mercy, offense, teaching]
+  teaching: [holy-name, maya]
+  event: ev-virachandra-neda-nedi
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "198", to: "238"}
+
+- id: nvv-0025
+  source: nityananda-vamsha
+  ref: "Глава 3, 239–243"
+  file: "nityananda-vamsha/ru/03.md"
+  period: P15
+  order: 38
+  title: "Три сына и дочь Вирачандры"
+  summary: "Вирачандра являет потомство: сыновей Гопиджанаваллабху, Рамакришну и Рамачандру — носителей трёх шакти — и младшую дочь, выданную за Парватичарану Мукхуйю."
+  persons: ["@virabhadra", "@gopijanavallabha", "@ramakrishna-virachandra", "@ramachandra-virachandra", "@parvaticharana"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 24 (D)"
+  notes: "Имя дочери в тексте испорчено; по «Према-виласе» (сноска перевода) — Бхуванамохини."
+  themes: [family]
+  event: ev-virachandra-children
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "239", to: "243"}
+
+- id: nvv-0026
+  source: nityananda-vamsha
+  ref: "Глава 3, 244–258"
+  file: "nityananda-vamsha/ru/03.md"
+  period: PX
+  order: 25
+  title: "Наказ хранить книгу в тайне; Вирачандра одобряет прочитанную ему книгу"
+  summary: "Автор перечисляет, кому нельзя рассказывать эти сокровенные предметы (торгующим мантрами, оскорбителям гуру, ненавистникам Нитьянанды, приверженцам кармы, йоги и знания) и кому можно — безраздельным вайшнавам своего круга; записав книгу, он прочёл её Прабху, и тот, обняв его, велел держать её в тайне для слуг дома; колофон главы."
+  persons: ["@vrindavana-dasa", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Утверждение, что книга прочитана Вирачандре, — опора для отнесения поэмы ко времени Вирачандры (по самому тексту)."
+  themes: [author]
+  teaching: [vaishnava]
+  verses:
+    - {file: "nityananda-vamsha/ru/03.md", from: "244", to: "258"}
+
+- id: nvv-0027
+  source: nityananda-vamsha
+  ref: "Глава 4, 1–2"
+  file: "nityananda-vamsha/ru/04.md"
+  period: PX
+  order: 24
+  title: "Слава Нитьянанде, Вирачандре, Васудхе и Джахнаве"
+  summary: "Начальные славословия главы: Нитьянанде, очищающему падших, Вирачандре — «тому самому сыну Шачи», Васудхе и Джахнаве."
+  persons: ["@vrindavana-dasa", "@nityananda", "@virabhadra", "@vasudha", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "1", to: "2"}
+
+- id: nvv-0028
+  source: nityananda-vamsha
+  ref: "Глава 4, 3–13"
+  file: "nityananda-vamsha/ru/04.md"
+  period: P15
+  order: 36.7
+  title: "Второй брак Вирачандры — с Вишнуприей; две невестки служат Васудхе и Джахнаве"
+  summary: "Вирачандра берёт вторую жену — Вишнуприю, которую Джахнава делает своей ученицей; Нараяни и Вишнуприя, как Лакшми и Сарасвати, служат Вирачандре, двум матерям и Шьямасундаре; три сына Вирачандры — воплощение добродетелей."
+  persons: ["@virabhadra", "@vishnupriya-virachandra", "@narayani-virachandra", "@jahnava", "@vasudha", "@shyamasundara-khardaha"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ст. 11: Вирачандра «по сути — сам Нитьянанда» (ср. гл. 2, где он — Гаура)."
+  themes: [family]
+  divergence: "По «Према-виласе» жёны Вирачандры — Шримати и Нараяни, дочери Ядунанданы; здесь — Нараяни (дочь Океана) и Вишнуприя."
+  event: ev-virachandra-marriage
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "3", to: "13"}
+
+- id: nvv-0029
+  source: nityananda-vamsha
+  ref: "Глава 4, 14–30"
+  file: "nityananda-vamsha/ru/04.md"
+  period: P15
+  order: 95
+  title: "Джахнава отпрашивается во Вриндаван; мольба Вирачандры; выход через Катву"
+  summary: "Джахнава, тоскуя по сыну владыки Враджа, просит Вирачандру отпустить её; тот славит её как Ананга-манджари, свою избранную владычицу, и просится с ней, но она велит ему прийти позже; с вайшнавами, слугами и служанками, в паланкине, поданном Гопиджанаваллабхой, она переправляется через Гангу, три дня празднует в Кантака-нагаре, где был обрит Махапрабху, и решает идти через Рарх, чтобы увидеть родину Нитьянанды."
+  persons: ["@jahnava", "@virabhadra", "@gopijanavallabha"]
+  places: ["#kharadaha", "#katwa"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласы 15–16"
+  notes: "Хвала Вирачандры (ст. 17–18: «ты — Радха и Кришна, Нитьянанда, Гауранга») — гипербола любви сына-ученика; по «Гаура-ганоддеша-дипике» Джахнава — Ананга-манджари."
+  themes: [pilgrimage, separation]
+  divergence: "По «Према-виласе» Джахнава идёт во Вриндаван через Кхетури (после праздника у Нароттамы); здесь — через Катву, Рарх и Экачакру, затем Гаю, Каши и Праягу."
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "14", to: "30"}
+
+- id: nvv-0030
+  source: nityananda-vamsha
+  ref: "Глава 4, 31–56"
+  file: "nityananda-vamsha/ru/04.md"
+  period: P15
+  order: 94.5
+  title: "Чандана Мандал из Мангалкота ложится на пути Джахнавы; видения её облика в его доме"
+  summary: "Богатый купец-вайшнав Чандана Мандал, построивший колесницу, с семьёй ложится поперёк дороги; Рамаи представляет его, Джахнава велит ему повторять «Кришна» и идти к нему в дом; Мандал в экстазе готовит встречу и предаёт ей дом, семью и богатство, а собравшиеся видят её каждый по своей бхаве: четырёх- и восьмирукой, Дургой, Гангой, Гаятри, Владычицей Вриндавана, Кришной, Баларамой с Шридамой, предводительницей гопи."
+  persons: ["@jahnava", "@chandana-mandala", "@ramai-jahnava", "@brahma", "@shiva", "@durga"]
+  places: ["#mangalkot"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "Видения «по бхаве каждого» (ст. 56) — не тождество Джахнавы с Дургой: Дурга — служанка Господа, внешняя энергия."
+  themes: [revelation, mercy, ecstasy]
+  bhava: [shakti, aishvarya]
+  event: ev-chandana-mandala-chariot
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "31", to: "56"}
+
+- id: nvv-0031
+  source: nityananda-vamsha
+  ref: "Глава 4, 57–74"
+  file: "nityananda-vamsha/ru/04.md"
+  period: PX
+  order: 4
+  title: "Отступление: Нитьянанда — гуру пяти рас; «Нитья» — Радха, «Ананда» — Кришна"
+  summary: "Автор: Нитьянанда служит Кришне во всех расах — как слуга, друг, в родительской любви и через свои шакти-возлюбленные; в облике главной пракрити он сам служит Кришне; кто чего хочет, пусть поклоняется стопам Нитая; лишённые веры в него гибнут; Радха и Кришна, соединившись, — это Нитьянанда-Рама (цитата из «Беседы Земли и Шеши» в «Брахманда-пуране»)."
+  persons: ["@vrindavana-dasa", "@nityananda", "@krishna", "@radha", "@prithivi"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Позиция автора: по «Чайтанья-чаритамрите» (Ади 4.55–56) Радха и Кришна едины в Гауре, а Нитьянанда — Баларама, первое проявление и слуга Кришны; источник цитаты не установлен (сноска перевода). Служение Нитьянанды «в облике пракрити» — духовное служение Ананга-манджари, а не мирское."
+  themes: [teaching]
+  teaching: [associates-tattva, prema]
+  scriptures: ["«Брахманда-пурана», «Беседа Земли и Шеши» (источник не установлен)"]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "57", to: "74"}
+
+- id: nvv-0032
+  source: nityananda-vamsha
+  ref: "Глава 4, 75–106"
+  file: "nityananda-vamsha/ru/04.md"
+  period: P15
+  order: 94.5
+  title: "По велению Джахнавы Гопиджанаваллабха восходит на колесницу Мандала; Латадхама"
+  summary: "Перед уходом Мандал с семьёй, с травинками в зубах, умоляет Джахнаву взойти на его колесницу; она поручает это Гопиджанаваллабхе, и тот, взойдя, являет четырёхрукий облик в жёлтых одеждах; Мандал с людьми тянет колесницу под киртан, никто не чувствует голода; на ночь все остаются; Мандал отдаёт пройденную колесницей землю, и там основывают шрипат Латадхама — «обитель лиан»."
+  persons: ["@jahnava", "@chandana-mandala", "@gopijanavallabha"]
+  places: ["#mangalkot"]
+  kind: lila
+  authority: C
+  calendar: ""
+  parallels: ""
+  notes: "«Двенадцать лет» (ст. 75), по сноске перевода, вероятно, ошибка вместо «двенадцати дней»."
+  themes: [mercy, kirtan, revelation]
+  bhava: [aishvarya]
+  event: ev-chandana-mandala-chariot
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "75", to: "106"}
+
+- id: nvv-0033
+  source: nityananda-vamsha
+  ref: "Глава 4, 107–119"
+  file: "nityananda-vamsha/ru/04.md"
+  period: PX
+  order: 4
+  title: "Отступление: потомки Нитьянанды и самозванцы; хулители Нитьянанды"
+  summary: "Потомки Прабху — львы против слона Кали, наделённые правом спасать; самозванцы в облачении садху, выдающие себя за Прабху и торгующие мантрами, тонут в Рауреве; Нитьянанда — предел милости к падшим, но хулящий его сознательно губит себя."
+  persons: ["@vrindavana-dasa", "@nityananda"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, offense]
+  teaching: [vaishnava, associates-tattva]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "107", to: "119"}
+
+- id: nvv-0034
+  source: nityananda-vamsha
+  ref: "Глава 4, 120–129"
+  file: "nityananda-vamsha/ru/04.md"
+  period: PX
+  order: 25
+  title: "Молитвы автора к Нитьянанде, Гауре, Вирачандре, Васудхе и Джахнаве"
+  summary: "Автор продался без платы стопам Нитьянанды, сына Падмавати, по милости Гауры; молит быть его слугой из рождения в рождение и не видеть лиц отвернувшихся от Нитьянанды; подпись и колофон главы."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@virabhadra", "@vasudha", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/04.md", from: "120", to: "129"}
+
+- id: nvv-0035
+  source: nityananda-vamsha
+  ref: "Глава 5, 1–4"
+  file: "nityananda-vamsha/ru/05.md"
+  period: PX
+  order: 24
+  title: "Слава Нитьянанде и Вирачандре; начало рассказа о пути Джахнавы"
+  summary: "Слава Нитьянанде, жизни Васудхи и Джахнавы, и Вирачандре, «неотличному от Чайтаньи»; автор начинает рассказ о том, как Джахнава шла во Вриндаван."
+  persons: ["@vrindavana-dasa", "@nityananda", "@virabhadra", "@jahnava"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "1", to: "4"}
+
+- id: nvv-0036
+  source: nityananda-vamsha
+  ref: "Глава 5, 5–25"
+  file: "nityananda-vamsha/ru/05.md"
+  period: P15
+  order: 94.7
+  title: "Джахнава идёт в Экачакру; киртан у Мадхавы, видения змей и богов"
+  summary: "Джахнава зовёт Рамадаса, Рамаи, Сундарананду и Джнянадаса и решает идти в Экачакру у Маурешвары; жители провожают её с плачем, один мандал, оставив угодья, идёт с ней; в Экачакре они останавливаются в Кундалитале, их принимает Мадхава, родич Хадаи Пандита; в ночном киртане одни видят змей из подземного мира с самоцветами на головах, другие — богов на небесных колесницах."
+  persons: ["@jahnava", "@abhirama", "@ramai-jahnava", "@sundarananda", "@jnanadasa", "@madhava-ekachakra"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Рамадас — возможно, Абхирама."
+  themes: [pilgrimage, kirtan, celestial]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "5", to: "25"}
+
+- id: nvv-0037
+  source: nityananda-vamsha
+  ref: "Глава 5, 26–57"
+  file: "nityananda-vamsha/ru/05.md"
+  period: P05
+  order: 2
+  title: "Рассказ Мадхавы о Кундалитале: Нитьянанда-авадхута усмиряет змея и закрывает нору серьгой"
+  summary: "Мадхава рассказывает: странствуя нагим авадхутой с кундалой в ухе и посохом, Нитьянанда пришёл на родину, когда жители бежали от огромного удава, требовавшего ежедневной жертвы; Прабху, расхохотавшись, вернул их, сел у норы, взял явившегося змея за капюшон, произнёс над ним мантру, и змей уполз, а Прабху закрыл нору своей серьгой — место стало святым Кундалиталой, а кундала с тех пор растёт; автор призывает уверовать в Нитьянанду и не хулить его."
+  persons: ["@madhava-ekachakra", "@nityananda", "@jahnava"]
+  places: ["#ekachakra"]
+  kind: miracle
+  authority: C
+  parallels: "ЧБ Ади 9 (странствия Нитьянанды; о возвращении на родину — по сноске перевода, ЧБ Ади 8)"
+  notes: "Рассказ вложен в путешествие Джахнавы (P15)."
+  themes: [mercy, sannyasa]
+  event: ev-nityananda-kundalitala
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "26", to: "57"}
+
+- id: nvv-0038
+  source: nityananda-vamsha
+  ref: "Глава 5, 58–84"
+  file: "nityananda-vamsha/ru/05.md"
+  period: P15
+  order: 94.7
+  title: "Джахнава в доме рождения Нитьянанды; Банкима-дева; посвящение и наставление Гопиджанаваллабхи"
+  summary: "Джахнава видит Экачакру как сокровенный Шветадвипа, входит в дом рождения Нитьянанды, видит Банкима-деву; Гопиджанаваллабха ведёт великую санкиртану и служит Божеству; томясь разлукой, Джахнава наедине даёт ему великую мантру, учит проповеди бхакти и правилам садху, велит вернуться домой и быть гуру мира, а сама с Рамаи, Сундараной, носильщиками и служанкой уходит во Вриндаван; Гопиджанаваллабха падает без чувств, она благословляет его, передав свою силу."
+  persons: ["@jahnava", "@gopijanavallabha", "@bankima-raya", "@ramai-jahnava", "@sundarananda"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [deities, kirtan, teaching]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "58", to: "84"}
+
+- id: nvv-0039
+  source: nityananda-vamsha
+  ref: "Глава 5, 85–122"
+  file: "nityananda-vamsha/ru/05.md"
+  period: P15
+  order: 95
+  title: "Путь Джахнавы через Гаю, Каши и Праягу во Вриндаван; встреча с Рупой и Санатаной"
+  summary: "Рамаи прокладывает путь; Джахнава видит стопы Вишну в Гае и три дня угощает брахманов, в Каши — Вишвешвару, в Праяге — Мадхаву и омывается в Тривени; у Вриндавана оставляет паланкин, простирается и в безумии любви зовёт Радху, Кришну, Раму, Киртиду, Вришабхану, Яшоду и Рохини; Рупа и Санатана падают к её стопам, видят в ней Владычицу Вриндавана, лишаются чувств и славят её как высшую чит-шакти; она называет их избранниками милости своего Прабху."
+  persons: ["@jahnava", "@ramai-jahnava", "@vishvanatha-kashi", "@veni-madhava", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#gaya", "#kashi", "#prayaga", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласы 15–16"
+  notes: "Хвалы Рупы и Санатаны («ты — Владычица Вриндавана») обращены к Джахнаве как к Ананга-манджари, вечной спутнице Радхи."
+  themes: [pilgrimage, ecstasy, revelation]
+  bhava: [shakti]
+  divergence: "Рупа и Санатана к этому времени уже ушли (так отмечает и издатель, по сноске перевода); в «Према-виласе» Джахнаву во Вриндаване встречают Джива, Гопала Бхатта и другие."
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "85", to: "122"}
+
+- id: nvv-0040
+  source: nityananda-vamsha
+  ref: "Глава 5, 123–147"
+  file: "nityananda-vamsha/ru/05.md"
+  period: P15
+  order: 95.3
+  title: "Гопинатха сажает Джахнаву слева от Себя: она — золотое изваяние подле Него; богословие Ананги и Рамы"
+  summary: "Харидас, служитель Говинды, и Госаи Дас, служитель Мадана-мохана, приносят ей гирлянду и прасад; Джахнава входит в храм Гопинатхи и, не мигая, смотрит на Него; двери сами закрываются, Гопинатха усаживает её слева от Себя, и, когда их открывают, все видят её золотым изваянием по левую руку Гопинатхи, а Радху — справа. Автор: Нитьянанда и Гопинатха — одно тело, Джахнава — Ананга, женский облик Рамы; Чайтанья — Радха и Кришна в одном облике, Рама-Нитьянанда участвует в Его играх."
+  persons: ["@jahnava", "@gopinatha-vrindavana", "@radha", "@haridasa-pandita-govinda", "@gosai-dasa-pujari", "@nityananda"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "По преданию (сноска перевода), Джахнава вошла в Божество Гопинатхи; рядом с Ним стоит её изваяние. Отождествление Нитьянанды с Гопинатхой и Ананги с «женским телом Рамы» — позиция автора (ст. 138 о Чайтанье как едином облике Радхи и Кришны согласна с ЧЧ Ади 4)."
+  themes: [deities, revelation, departure]
+  teaching: [associates-tattva]
+  event: ev-jahnava-gopinatha
+  verses:
+    - {file: "nityananda-vamsha/ru/05.md", from: "123", to: "147"}
+
+- id: nvv-0041
+  source: nityananda-vamsha
+  ref: "Глава 6, 1–9"
+  file: "nityananda-vamsha/ru/06.md"
+  period: PX
+  order: 24
+  title: "Слава Нитьянанде, другу Радхи; любовь Чайтаньи и Нитая"
+  summary: "Слава Нитьянанде, проповеднику любви Радхи и Кришны и любимому телу Чайтаньи; любовь двух Прабху знают лишь они сами и те, кого они одарили милостью; неверующего карает жезл Ямы."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/06.md", from: "1", to: "9"}
+
+- id: nvv-0042
+  source: nityananda-vamsha
+  ref: "Глава 6, 10–25"
+  file: "nityananda-vamsha/ru/06.md"
+  period: PX
+  order: 8
+  title: "Явленное и неявленное; откровение в санкиртане и в Вирачандре; имя Кришны неотлично от Кришны"
+  summary: "Господь «явлен» в проявленном мире и «неявлен» за его пределами, но открывается преданным в санкиртане, а в облике Вирачандры — со всеми признаками; Его постигают лишь бхакти, а не знанием, кармой или йогой; Нитай и Чайтанья принесли святое имя — дхарму Кали: имя — Брахман, Кришна и Его имя едины, именем Кришна покорён; без любви бритьё головы не спасает от Ямы; према — пятая цель жизни."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@virabhadra"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [holy-name, yuga-dharma, bhakti-supremacy]
+  event: ev-tattva-holy-name
+  verses:
+    - {file: "nityananda-vamsha/ru/06.md", from: "10", to: "25"}
+
+- id: nvv-0043
+  source: nityananda-vamsha
+  ref: "Глава 6, 26–53"
+  file: "nityananda-vamsha/ru/06.md"
+  period: PX
+  order: 4
+  title: "Нитьянанда — гуру, Адвайта — вайшнав, Чайтанья — Бог; Нитьянанда — Баларама (шлоки «Беседы Земли и Шеши»)"
+  summary: "Нитьянанда — в облике гуру, Адвайта — в облике вайшнава, Чайтанья — Бог; в Кали они — гуру, дающий мантру, и гуру-наставник; лишённый преданности Нитьянанде — грешник, любящий его — почитаем. Кого Веды воспевают как Кришну и Балараму, те в Кали — Чайтанья и Нитай; Баларама — второе тело Кришны, иногда играет как высшая Пракрити; шлоки «Брахманда-пураны» и «Упапураны»: «Рама» — «ра» (Радха) и «ма» (Мадхусудана), «Нитья» — Радха, «Ананда» — Кришна."
+  persons: ["@vrindavana-dasa", "@nityananda", "@advaita", "@mahaprabhu", "@balarama", "@krishna", "@radha", "@prithivi"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Ади 5–6"
+  notes: "Ст. 26 согласуется с ЧЧ Ади 1.32 (Господь, Его проявление, Его воплощение, бхакта-рупа, бхакта-сварупа и т. д.). Этимологии «Рама» и «Нитьянанда» из имён Радхи и Кришны и Баларама «как высшая Пракрити» — позиция автора; по Бхактисиддханте, Радха и Кришна едины в Гауре, Нитьянанда — Баларама, первое проявление Кришны. Источники шлок не установлены, текст их испорчен (сноски перевода)."
+  themes: [teaching]
+  teaching: [associates-tattva, scripture]
+  scriptures: ["«Брахманда-пурана», «Беседа Земли и Шеши»", "«Упапурана»"]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "nityananda-vamsha/ru/06.md", from: "26", to: "53"}
+
+- id: nvv-0044
+  source: nityananda-vamsha
+  ref: "Глава 6, 54–79"
+  file: "nityananda-vamsha/ru/06.md"
+  period: PX
+  order: 7
+  title: "Свидетельства шастр о нисшествии Гауранги; Гаура — Кришна, принявший чувство Радхи"
+  summary: "Шлоки «Бхагаваты», «Нарада-», «Вамана-», «Брахма-», «Гаруда-», «Курма-», «Деви-», «Сканда-пураны» и «Махабхараты»: Господь родится у Шачи на берегу Ганги золотистым, примет санньясу и киртан, будет сокрыт в Кали (Триюга), Его почитают санкиртаной; Кришна — объект, Радха — прибежище, и, приняв её чувство и сияние, явился Гауранга; Ананга-манджари — частица женской природы Баларамы, служащая Радхе."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@krishna", "@radha", "@shachi", "@narada"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Ади 3–4"
+  notes: "Текст пуранических шлок испорчен; часть из них известна лишь по цитатам вайшнавских авторов (сноски перевода)."
+  themes: [teaching]
+  bhava: [radha]
+  teaching: [gaura-tattva, scripture, yuga-dharma]
+  scriptures: ["Бхаг. 2.9.32", "Бхаг. 7.9.38", "Бхаг. 11.5.32", "Бхаг. 10.8.13", "«Нарада-пурана»", "«Вамана-пурана»", "«Брахма-пурана»", "«Гаруда-пурана»", "«Курма-пурана»", "«Деви-пурана»", "«Сканда-пурана»", "«Махабхарата»"]
+  event: ev-tattva-gaura-scripture-proofs
+  verses:
+    - {file: "nityananda-vamsha/ru/06.md", from: "54", to: "79"}
+
+- id: nvv-0045
+  source: nityananda-vamsha
+  ref: "Глава 6, 80–89"
+  file: "nityananda-vamsha/ru/06.md"
+  period: PX
+  order: 4
+  title: "Ананга-манджари и Джахнава; Нитьянанда — самопроявление Чайтаньи; молитва автора"
+  summary: "Ананга-манджари — частица женской природы Баларамы и проявление Радхики: Рама — Нитьянанда, Джахнава — Ананга, они играют с Кришной; Нитьянанда — самопроявление Чайтаньи и гуру, дающий мантру; различающему их — ад; автор молит всегда помнить двух братьев; колофон главы."
+  persons: ["@vrindavana-dasa", "@nityananda", "@jahnava", "@mahaprabhu", "@krishna", "@radha"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Ананга-манджари как «женская природа Баларамы» — позиция автора (традиция потомков Нитьянанды); по «Гаура-ганоддеша-дипике» Джахнава — Ананга-манджари."
+  themes: [teaching, author]
+  teaching: [associates-tattva]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "nityananda-vamsha/ru/06.md", from: "80", to: "89"}
+
+- id: nvv-0046
+  source: nityananda-vamsha
+  ref: "Глава 7, 1–7"
+  file: "nityananda-vamsha/ru/07.md"
+  period: PX
+  order: 24
+  title: "Хвала Вирачандре-герою, обители расы Чайтаньи"
+  summary: "Вира — кара для злодеев, одолевший слона Кувалаю, явивший величие Радхики; песня-трипади: обитель расы Чайтаньи вновь явилась в Кали под именем Вирачандры и затопила падших блаженством; автор сетует, что остался обделён."
+  persons: ["@vrindavana-dasa", "@virabhadra", "@nityananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "1", to: "7"}
+
+- id: nvv-0047
+  source: nityananda-vamsha
+  ref: "Глава 7, 8–22"
+  file: "nityananda-vamsha/ru/07.md"
+  period: PX
+  order: 4
+  title: "Отступление: Нитьянанда — Санкаршана, опора творения, брат и возлюбленная Кришны"
+  summary: "Нитьянанда — изначальный бог, старший брат и сокровище жизни Чайтаньи, в теле которого Чайтанья играет; в нём одном все расы — дружба, служение, родительская и супружеская любовь; как Санкаршана в Паравьоме он своей частью творит мир, как старший брат Говинды играет с Кришной, а в облике возлюбленной совершает с ним игры раса; различающие Кришну и Раму губят себя."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@krishna", "@balarama"]
+  places: []
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Ади 5"
+  notes: "Ст. 13–15 согласны с ЧЧ Ади 5 (Баларама — Санкаршана, источник Маха-Вишну). Ст. 16 («в облике возлюбленной… игры раса») — намёк на Ананга-манджари (сноска перевода), позиция автора; это духовная лила, не мирская."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "8", to: "22"}
+
+- id: nvv-0048
+  source: nityananda-vamsha
+  ref: "Глава 7, 23–27"
+  file: "nityananda-vamsha/ru/07.md"
+  period: PX
+  order: 25
+  title: "Автор пишет то, что внушает Чайтанья"
+  summary: "Опираясь на силу «нектара уст Чайтаньи», автор, обезумев от качеств Нитьянанды, пишет то, что внушает ему Чайтанья, просит не вменять ему оскорбления и зовёт вкусить игры Вирачандры."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "По сноске перевода, «нектар уст» — намёк на предание о том, что мать Вриндавана Даса Нараяни в детстве получила остатки пищи Господа."
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "23", to: "27"}
+
+- id: nvv-0049
+  source: nityananda-vamsha
+  ref: "Глава 7, 28–76"
+  file: "nityananda-vamsha/ru/07.md"
+  period: P15
+  order: 111
+  title: "Вирачандра решает обойти мир ради охраны бхакти; шествие с нада по Восточной стране"
+  summary: "Вирачандра размышляет: в присутствии Господа все держались дхармы, а теперь творят недолжное — Прабху оставил его с вайшнавами-военачальниками надзирать за миром и карать отвергающих бхакти. С великим шествием — знамёна, паланкин, нада с жезлами и криками «Вира!», Джнянадас, Рамадас, Нитьянанда Дас, Рамаи, глава нада Нрисимха Дас с кханди — он идёт по Восточной Бенгалии, учёностью и силой покоряя пандитов и еретиков, раздаёт Хари-наму; во время его танца люди видят его четырёх- и шестируким, Халадхарой, Вамшидхарой, авадхутой."
+  persons: ["@virabhadra", "@nrisimha-dasa-nada", "@jnanadasa", "@abhirama", "@ramai-jahnava"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 19 (кратко)"
+  notes: "«Покарать чакрой» (ст. 34) — образ покровительства бхакти, а не буквальное истребление (сноска перевода)."
+  themes: [kirtan, pilgrimage, revelation]
+  bhava: [aishvarya, balarama]
+  teaching: [holy-name]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "28", to: "76"}
+
+- id: nvv-0050
+  source: nityananda-vamsha
+  ref: "Глава 7, 77–152"
+  file: "nityananda-vamsha/ru/07.md"
+  period: P15
+  order: 111.1
+  title: "Дакка: никто не может выдернуть знамя Нрисимхи Даса; огонь и потоп; правитель-яван видит Вирачандру восьмируким и предаётся"
+  summary: "Вирачандра посылает Нрисимху Даса с кханди к правителю-явану Дакки; тот велит выдернуть «посох индуса», но сотни воинов прилипают к древкам; вспыхивает огонь, а нада, забравшись на вышку, затопляют город потоком; деван признаёт гнев Госая, и правитель с соломинкой на шее молит Нрисимху Даса о прощении; издали он видит Вирачандру тёмным, восьмируким, с раковиной, диском, палицей, лотосом, Гандивой и чётками, и своих пиров у его стоп; признав «пира индусов» Господом всех, он ведёт его в город, подносит дары, и Вирачандра велит ему с людьми повторять «Кришна» и объявляет их освобождёнными."
+  persons: ["@virabhadra", "@nrisimha-dasa-nada", "@dhaka-governor"]
+  places: ["#dhaka"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: "«Майя» Вирачандры (ст. 91) — его сила (йогамайя), здесь — ради наказания надменности и милости."
+  themes: [muslims, mercy, revelation]
+  bhava: [aishvarya]
+  event: ev-virachandra-dhaka-governor
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "77", to: "152"}
+
+- id: nvv-0051
+  source: nityananda-vamsha
+  ref: "Глава 7, 153–166"
+  file: "nityananda-vamsha/ru/07.md"
+  period: P15
+  order: 111
+  title: "Покорив Бенгалию, Вирачандра идёт на Север; хулители, отрицающие воплощение в Кали, начинают петь «Говинда»"
+  summary: "Покорив Бенгалию, Вирачандра несёт према-бхакти на Север, раздаёт имена Нитьянанды и Чайтаньи и учит поклонению Радхе и Кришне и санкиртане; хулители, твердившие, что в Кали нет воплощения Кришны кроме Калки и что всё это — обман ради пропитания, силой его шакти начинают плакать, восклицая «Нитьянанда! Чайтанья!»; колофон главы."
+  persons: ["@virabhadra", "@vrindavana-dasa"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [mercy, offense, kirtan]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/07.md", from: "153", to: "166"}
+
+- id: nvv-0052
+  source: nityananda-vamsha
+  ref: "Глава 8, 1–3"
+  file: "nityananda-vamsha/ru/08.md"
+  period: PX
+  order: 24
+  title: "Пранама Нитьянанде с жемчужинами в ушах; слава Баладеве"
+  summary: "Шлока «нитьянандам ахам ванде карне ламбита-мауктикам» и слава Нитьянанде-Раме, даровавшему прему не имеющим пути."
+  persons: ["@vrindavana-dasa", "@nityananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "1", to: "3"}
+
+- id: nvv-0053
+  source: nityananda-vamsha
+  ref: "Глава 8, 4–13"
+  file: "nityananda-vamsha/ru/08.md"
+  period: P15
+  order: 111
+  title: "Жители Севера — шиваиты, шакты, йоги — начинают воспевать «Нитай! Чайтанья!»"
+  summary: "Жители Северной страны, чья садхана — вино, мясо, обеты Камакхье и песни о Махипале, по милости Вирачандры оставляют прежнюю природу, поют санкиртану, поклоняются Радхе, Кришне и Вриндавану; так обуздал их Вира-аватара, связав сетью милосердия."
+  persons: ["@virabhadra"]
+  places: []
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [mercy, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "4", to: "13"}
+
+- id: nvv-0054
+  source: nityananda-vamsha
+  ref: "Глава 8, 14–41"
+  file: "nityananda-vamsha/ru/08.md"
+  period: P15
+  order: 111.2
+  title: "Малдах: яваны кланяются Вирачандре; буря и ливень обходят двор киртана"
+  summary: "В Малдахе на Махананде, владении государя Гауды, все при виде Вирачандры начинают произносить имя Кришны, яваны приходят с поклоном-курнишем, каждый дом устраивает праздник; во время ночного киртана собирается буря, и Вирачандра велит ей проливаться за пределами двора — целую прахару дождь льёт вокруг, а внутри светло, благоухает мускус и боги сыплют цветы."
+  persons: ["@virabhadra"]
+  places: ["#maldah"]
+  kind: miracle
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [kirtan, muslims, celestial]
+  event: ev-virachandra-maldah
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "14", to: "41"}
+
+- id: nvv-0055
+  source: nityananda-vamsha
+  ref: "Глава 8, 42–115"
+  file: "nityananda-vamsha/ru/08.md"
+  period: P15
+  order: 111.2
+  title: "Дурлабха Чхатри, сын Кешавы Чхатри, узнаёт в Вирачандре Гаурангу и устраивает великий праздник; Малдах становится шрипатом"
+  summary: "Из Рамакели приходит Дурлабха Чхатри, визирь государя Гауды, сын Кешавы Чхатри, видевшего Махапрабху с Рупой и Санатаной; увидев в Вирачандре черты Гауранги (лишь одежда домохозяина), он рассказывает о вещем сне и устраивает праздник: скупает весь базар, чтобы каждый ел даром, угрожая торговцам за отказ; боги и Васуки с нагами в облике людей поют киртан, как в Навадвипе; Вирачандра делает всё маха-прасадом, Дурлабха уносит остатки с его блюда, дарит деньги, коней и дарственную на место праздника — и Малдах становится шрипатом."
+  persons: ["@virabhadra", "@durlabha-chhatri", "@keshava-vasu", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@brahma", "@vasuki"]
+  places: ["#maldah", "#ramakeli"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [festival, prasada, celestial]
+  event: ev-virachandra-maldah
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "42", to: "115"}
+
+- id: nvv-0056
+  source: nityananda-vamsha
+  ref: "Глава 8, 116–139"
+  file: "nityananda-vamsha/ru/08.md"
+  period: P15
+  order: 111
+  title: "Вирачандра в Экачакре: према перед Банкима-девой, великий праздник, Вирачандрапур"
+  summary: "В Экачакре, месте рождения Нитьянанды, Вирачандра в преме перед Банкима-девой зовёт Нитьянанду и Гаурачандру; на все деньги, собранные на Востоке и Севере, он устраивает праздник, своими руками подносит угощение Божеству и раздаёт прасад брахманам и вайшнавам; пробыв три дня, нарекает селение Вирачандрапуром."
+  persons: ["@virabhadra", "@bankima-raya"]
+  places: ["#ekachakra", "#virachandrapura"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 19 (кратко)"
+  notes: ""
+  themes: [festival, deities, prasada]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "116", to: "139"}
+
+- id: nvv-0057
+  source: nityananda-vamsha
+  ref: "Глава 8, 140–148"
+  file: "nityananda-vamsha/ru/08.md"
+  period: P15
+  order: 111
+  title: "Странствие по Рарху: люди знают лишь Нитая и Чайтанью"
+  summary: "Вирачандра идёт к «Шри Кундале» и видит, что в Рархе, прежде обузданном Нитьянандой, люди знают лишь имена Нитая и Чайтаньи и поклонение Радхе и Кришне; теперь их затопил премой Вирачандра; колофон главы."
+  persons: ["@virabhadra", "@nityananda"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Шри Кундала» не отождествлена (сноска перевода); возможно, Кундалитала в Экачакре (гл. 5)."
+  themes: [pilgrimage, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/08.md", from: "140", to: "148"}
+
+- id: nvv-0058
+  source: nityananda-vamsha
+  ref: "Глава 9, 1–15"
+  file: "nityananda-vamsha/ru/09.md"
+  period: PX
+  order: 24
+  title: "Песня о милости Нитая и Чайтаньи; молитва автора"
+  summary: "Шлока Нитьянанде и песня-трипади: имя Нитая и Чайтаньи сильнее философского камня; автор признаётся, что не обрёл веры и не избавился от жажды мирского, и молит, чтобы его уста, уши, глаза, руки и ум принадлежали лишь им."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "1", to: "15"}
+
+- id: nvv-0059
+  source: nityananda-vamsha
+  ref: "Глава 9, 16–33"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111
+  title: "Вирачандра в Рархе: при виде «Кундалы» он падает, вспоминая Нитьянанду; санкиртана"
+  summary: "Весь Рарх стекается к Вирачандре с дарами; увидев «Кундалу», он в смятении зовёт ушедшего Нитьянанду и падает, а от звука «Нитай-Чайтанья» поднимается с рыком и танцует; затем решает идти вдоль Ганги и едет верхом впереди слуг."
+  persons: ["@virabhadra", "@nityananda"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Кундала» — вероятно, место, связанное с Нитьянандой (сноска перевода)."
+  themes: [separation, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "16", to: "33"}
+
+- id: nvv-0060
+  source: nityananda-vamsha
+  ref: "Глава 9, 34–69"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 97.5
+  title: "Вирачандра трижды бьёт плетью хромого Гати-Говинду за пренебрежение Рагхунанданой и посвящает его; рассказ о его рождении"
+  summary: "Навстречу в паланкине едет хромой Гати; Вирачандра, не сходя с коня, трижды бьёт его плетью: «Считая Рагхунандану шудрой, ты возвращаешься, не приняв посвящения!» — и по его просьбе даёт ему мантру. Под баньяном он рассказывает: в Тайланге он встретил Шринивасу, ученика Гопалы Бхатты, который поведал, как, смущённый брахманами («брахман станет учеником шудры!»), бежал от посвящения у Нарахари Саркара, получил мантру и книги у Гопалы Бхатты и теперь молит о сыне, пусть хромом или слепом, для продолжения служения; Вирачандра дал его жене свой разжёванный бетель — и родился Гати."
+  persons: ["@virabhadra", "@gati-govinda", "@raghunandana", "@srinivasa-acharya", "@gopala-bhatta", "@narahari-sarakara", "@chaitanya-dasa"]
+  places: ["#tailanga", "#yajigrama", "#shrikhanda", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа», виласа 17"
+  notes: "Рагхунандана — вайдья, которого брахманы причисляли к шудрам; Вирачандра осуждает кастовое предубеждение против вайшнава (сноска перевода)."
+  themes: [mercy, offense, family]
+  teaching: [vaishnava]
+  divergence: "В «Према-виласе» Нарахари сам направляет Шринивасу к Гопале Бхатте, а Вирачандра благословляет его жену в Бенгалии; здесь Шринивас бежит от посвящения у Нарахари из-за слов брахманов, а встреча с Вирачандрой происходит в Тайланге на юге."
+  event: ev-gati-govinda-birth
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "34", to: "69"}
+
+- id: nvv-0061
+  source: nityananda-vamsha
+  ref: "Глава 9, 70–110"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111.4
+  title: "Путь в Ванабхуми; Парамешвара Дас Маллик, слуга Нитьянанды, принимает Вирачандру"
+  summary: "По пути в Ванабхуми Вирачандра учит дхарме санкиртаны и служения гостям; у реки близ Вишнупура его встречает Парамешвара Дас Маллик из спутников Нитьянанды и плачет: «Ты — Нитьянанда, ты — сын Шачи!»; Вирачандра, узнав в нём сосуд милости отца, обнимает его; Маллик с родом пьёт чаранамриту, совершает поклонение с шестнадцатью подношениями, устраивают киртан и трапезу, у стоп Прабху сидит Гати-Говинда."
+  persons: ["@virabhadra", "@parameshvara-dasa-mallik", "@gati-govinda", "@nityananda"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [mercy, kirtan, prasada]
+  teaching: [holy-name]
+  event: ev-virachandra-vishnupura
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "70", to: "110"}
+
+- id: nvv-0062
+  source: nityananda-vamsha
+  ref: "Глава 9, 111–128"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111.4
+  title: "Наставление Вирачандры Гати-Говинде: рагануга-бхаджан в свите Ананга-манджари, Хари-нама, смирение"
+  summary: "На вопрос Гати, как переправиться через мирское бытие, Вирачандра излагает айшварью и мадхурью, прибежище у гуру, девять видов бхакти, вечные игры Радхи и Кришны и учит служить Дочери Вришабхану, следуя за Ананга-манджари, в настроении своей сакхи; в Кали цель — Чайтанья и Нитай, без Хари-намы нет пути; беречься оскорблений вайшнавов, оставить гордость и чтить всех."
+  persons: ["@virabhadra", "@gati-govinda", "@ananga-manjari", "@radha"]
+  places: ["#vana-vishnupura"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 22 (рагануга-бхакти)"
+  notes: "Текст называет описанное «рагатмика-бхаджаном»; по сути это рагануга — следование за вечными спутницами Радхи (сноска перевода)."
+  themes: [teaching]
+  teaching: [prema, holy-name, vaishnava]
+  event: ev-virachandra-vishnupura
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "111", to: "128"}
+
+- id: nvv-0063
+  source: nityananda-vamsha
+  ref: "Глава 9, 129–213"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111.4
+  title: "Ночной киртан у Маллика: Шринивас Ачарья прибегает на звук и узнаёт Вирачандру; Вирачандра в доме Шриниваса"
+  summary: "В ночном киртане люди видят Вирачандру то отроком-пастушком, то Баларамой с плугом, то Шьямасундарой с флейтой, Мадана-моханом, санньяси, четырёхруким под зонтом Ананты; Шринивас Ачарья, сидевший с вайшнавами, бежит на звук, Маллик представляет его, и Вирачандра обнимает его, а Шринивас танцует. Утром Шринивас и Гати приглашают Прабху; Вирачандра говорит Шринивасу: «Между тобою и мною нет различия»; дома Шринивас с семьёй пьёт воду его стоп, сам готовит угощение и славит служение вайшнавам."
+  persons: ["@virabhadra", "@srinivasa-acharya", "@gati-govinda", "@parameshvara-dasa-mallik"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Слова людей «тот же Прабху вновь явил себя» и ст. 194 («тот самый Гаура в облике Виры») — позиция автора, см. nvv-0012."
+  themes: [kirtan, revelation, prasada]
+  bhava: [aishvarya, balarama, krishna]
+  teaching: [vaishnava]
+  event: ev-virachandra-vishnupura
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "129", to: "213"}
+
+- id: nvv-0064
+  source: nityananda-vamsha
+  ref: "Глава 9, 214–272"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111.4
+  title: "Царь Вира Хамбир, привлечённый киртаном, падает без чувств; сон о Вирачандре-Чайтанье; Шринивас разъясняет"
+  summary: "Царь Вира Хамбир в собрании хочет увидеть Прабху, но боится быть отвергнутым как мирянин; звук киртана влечёт его, как флейта Кришны гопи, он видит Вирачандру посреди киртана, Шриниваса с опахалом — и падает; Вирачандра обнимает его и дарует стопы. Под утро царь видит во сне Вирачандру со спутниками, затем санньяси-Чайтанью с камандалу, затем облик с плугом и флейтой: «Знаешь ли ты меня?»; Шринивас объясняет: Вирачандра — сам Чайтанья, явившийся тайно; оба плачут «Ах, Гаура!»."
+  persons: ["@vira-hambira", "@virabhadra", "@srinivasa-acharya", "@gati-govinda", "@mahaprabhu"]
+  places: ["#vana-vishnupura"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [kirtan, mercy, revelation]
+  bhava: [sannyasi, balarama]
+  event: ev-virachandra-vishnupura
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "214", to: "272"}
+
+- id: nvv-0065
+  source: nityananda-vamsha
+  ref: "Глава 9, 273–351"
+  file: "nityananda-vamsha/ru/09.md"
+  period: P15
+  order: 111.4
+  title: "Вирачандра в роще у Вишнупура теряет сознание; во дворце Виры Хамбира; наставление о дхарме домохозяина и отрешённого; «Гупта-Вриндаван»"
+  summary: "Увидев утром рощу, мальчика с флейтой и коров, Вирачандра падает в преме; царь видит на его стопах знаки знамени, ваджры и стрекала и зовёт его во дворец, омывает ему стопы, пьёт чаранамриту и славит его как Кришну и суть Чайтаньи; Вирачандра велит не раскрывать, кто он. Вирачандра учит: домохозяину — служить гостям, гуру, Кришне и вайшнавам и петь имя, отрешённому — избегать мирских людей; царь, как Юдхиштхира по слову Вьясы, обращает подданных к санкиртане, Вишнупур прославляется как «Гупта-Вриндаван»; Вирачандра благословляет род царя, предупреждая, что с потерей веры в Нитьянанду погибнет и богатство; колофон главы."
+  persons: ["@virabhadra", "@vira-hambira", "@nityananda"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [teaching, mercy, kirtan]
+  teaching: [holy-name, sannyasa-teaching, vaishnava]
+  event: ev-virachandra-vishnupura
+  verses:
+    - {file: "nityananda-vamsha/ru/09.md", from: "273", to: "351"}
+
+- id: nvv-0066
+  source: nityananda-vamsha
+  ref: "Глава 10, 1–6"
+  file: "nityananda-vamsha/ru/10.md"
+  period: PX
+  order: 24
+  title: "Песня: «Будет ли у меня ещё такое рождение?»"
+  summary: "Слава Чайтанье, Нитьянанде и Вирачандре; песня-пада автора: увижу ли я вновь нисхождение Гауры в Надии, явившего тайное сокровище Голоки — санкиртану; одно желание — петь о Нитае и Чайтанье."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "1", to: "6"}
+
+- id: nvv-0067
+  source: nityananda-vamsha
+  ref: "Глава 10, 7–28"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.5
+  title: "Вирачандра отпускает спутников в Кхардаху; храм Мадана-мохана, изогнутого от поклона Абхирамы"
+  summary: "Наполнив Рарх премой, Вирачандра решает идти во Вриндаван, отсылает Рамаи, Сундарананду и других в Кхардаху и идёт через Джхарикханду; у одного храма, услышав имя Божества — Мадана-мохан, он в преме размышляет, что Гаура — Кришна, покрытый сиянием Радхи; на вопрос, почему Божество изогнуто сильнее обычного, пуджари отвечает: от поклона Абхирамы; Вирачандра: «Кришна умеет возвеличить своего преданного»."
+  persons: ["@virabhadra", "@ramai-jahnava", "@sundarananda", "@abhirama"]
+  places: ["#jharikhanda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Ст. 19–23 (Гаура — Радха и Кришна в одном облике) согласны с ЧЧ Ади 4. Местоположение храма не названо."
+  themes: [deities, pilgrimage]
+  teaching: [gaura-tattva]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "7", to: "28"}
+
+- id: nvv-0068
+  source: nityananda-vamsha
+  ref: "Глава 10, 29–56"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P05
+  order: 3
+  title: "Рассказ Вирачандры: Нитьянанда-авадхута пробуждает Шридаму из Говардханы — тот становится Абхирамой"
+  summary: "Странствуя авадхутой, Нитьянанда приходит во Вриндаван и зовёт: «Брат мой, Шридама!»; из Говардханы выходит пастушок с рогом и не узнаёт бритоголового Балараму иного цвета; он хлопает его по руке и убегает к Ямуне, Нитьянанда настигает его, принимает белый облик с плугом и палицей, плугом тянет его и велит «Вырасти!» — тот становится махапурушей ростом в четыре локтя, Абхирамой Гопалой; на вопрос о Кришне Рама отвечает, что тот нисшёл в Навадвипе со всеми пастухами. Вирачандра слышал это от Уддхараны Датты."
+  persons: ["@virabhadra", "@nityananda", "@abhirama", "@uddharana-datta"]
+  places: ["#vrindavana", "#govardhana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Рассказ вложен в путь Вирачандры (P15). Абхирама — Шридама (ср. гл. 2)."
+  themes: [krishna-lila, revelation]
+  bhava: [balarama, sakha]
+  event: ev-nityananda-awakens-shridama
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "29", to: "56"}
+
+- id: nvv-0069
+  source: nityananda-vamsha
+  ref: "Глава 10, 57–92"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.5
+  title: "Через Джхарикханду: разбойники, звери и птицы повторяют имя Кришны; Гая и Каши"
+  summary: "Вирачандра идёт тем же путём, что Гаурачандра во Вриндаван: воры и душегубы Джхарикханды становятся преданными; в лесу он зовёт тигров, медведей, оленей и птиц повторять «Кришна» — и звери, не причиняя вреда друг другу, поют имя; приняв лес за Вриндаван, он плачет «Ха, Вриндавана-чандра!»; в Гае видит Вишну-паду, три дня угощает брахманов, в Каши — Вишвешвару."
+  persons: ["@virabhadra", "@vishvanatha-kashi"]
+  places: ["#jharikhanda", "#gaya", "#kashi"]
+  kind: lila
+  authority: C
+  parallels: "ср. ЧЧ Мадхья 17 (Господь в Джхарикханде)"
+  notes: ""
+  themes: [mercy, pilgrimage, ecstasy]
+  teaching: [holy-name]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "57", to: "92"}
+
+- id: nvv-0070
+  source: nityananda-vamsha
+  ref: "Глава 10, 93–152"
+  file: "nityananda-vamsha/ru/10.md"
+  period: PX
+  order: 9
+  title: "Рассказ Вирачандры в Каши: Шива, царь Каши и диск Сударшана; Шива получает Экамра-канану близ Пурушоттамы"
+  summary: "Шива дал царю Каши дар одолеть Вишну; побеждённый, царь вновь идёт на Двараку с войском Шивы; Кришна диском срубает царю голову, отражает пашупату и посылает Сударшану сжечь Каши; Шива в страхе скитается и, придя к Кришне, отрекается от тамо-гуны; Кришна даёт ему Экамра-канану — Бхуванешвару, к северу от Пурушоттама-кшетры, величие которой (неподвластность Яме, сон как самадхи, речь как хвала) Он описывает; по мольбе Шивы Кришна делает его хранителем всех Своих святых мест: «Кто, называя себя Моим преданным, не чтит тебя, тот насмехается надо Мной»."
+  persons: ["@virabhadra", "@shiva", "@krishna", "@kashiraja", "@sudarshana", "@kartikeya", "@ganesha"]
+  places: ["#kashi", "#dvaraka", "#bhubaneshvara", "#puri"]
+  kind: teaching
+  authority: C
+  parallels: "Бхаг. 10.66; ЧБ Антья 2"
+  notes: "Тамо-гуна Шивы — по повелению Кришны ради Его игры; Шива — величайший вайшнав."
+  themes: [krishna-lila, teaching, celestial]
+  scriptures: ["Бхаг. 10.66"]
+  event: ev-legend-shiva-bhuvaneshvara
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "93", to: "152"}
+
+- id: nvv-0071
+  source: nityananda-vamsha
+  ref: "Глава 10, 153–162"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.6
+  title: "Праяга; Вирачандра вступает во Вриндаван и молится Вринда-деви"
+  summary: "Три дня Вирачандра танцует в киртане в Праяге перед Вени-Мадхавой; вступив во Вриндаван, он простирается и славит все существа Вриндавана, молит Вринда-деви сделать его спутницей Радхи и Ананги, а Кришну и Баладеву — разорвать узы мирского."
+  persons: ["@virabhadra", "@veni-madhava", "@vrinda-devi", "@krishna", "@balarama"]
+  places: ["#prayaga", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, krishna-lila]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "153", to: "162"}
+
+- id: nvv-0072
+  source: nityananda-vamsha
+  ref: "Глава 10, 163–181"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.7
+  title: "Вайшнавы Гауды встречают Вирачандру; даршан Говинды, Мадана-мохана и Гопинатхи с Джахнавой"
+  summary: "Гаудийские вайшнавы Вриндавана во главе с «Гаудешварой Госаи» выходят с киртаном и видят в Вирачандре сына Шачи; у ворот храма от аромата тела Кришны он падает; он созерцает стопы и лик Говинды, грудь Мадана-мохана, а увидев слева от Гопинатхи Шри Джахнаву, лишается чувств до третьей стражи и, придя в себя, зовёт: «Ха, Джахнава! Гопинатха!»."
+  persons: ["@virabhadra", "@govinda-deity", "@madana-mohana-vrindavana", "@gopinatha-vrindavana", "@jahnava"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "«Шри Джахнава» слева от Гопинатхи — её изваяние (ср. гл. 5, nvv-0040; сноска перевода)."
+  themes: [deities, ecstasy, separation]
+  event: ev-virachandra-jiva-vrindavana
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "163", to: "181"}
+
+- id: nvv-0073
+  source: nityananda-vamsha
+  ref: "Глава 10, 182–207"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.7
+  title: "Джива Госвами и Вирачандра: беседа о према-бхакти"
+  summary: "Харидас представляет Дживу, племянника Санатаны; Вирачандра прославляет Рупу и Санатану, явивших Божества силой бхакти, и просит Дживу говорить; Джива читает шлоки «мукам кароти вачалам» и «амбходхих стхалатам» и излагает бхакти, называя Вирачандру самим Чайтаньей в тайном воплощении; Вирачандра, как некогда Господь Санатане в Каши, открывает Дживе суть учения о према-бхакти, и оба катаются в пыли, восклицая «Ха, Кришна Чайтанья!»."
+  persons: ["@virabhadra", "@jiva-gosvami", "@haridasa-pandita-govinda", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: C
+  parallels: ""
+  notes: "Слова Дживы «ты — сам Чайтанья» — позиция автора (см. nvv-0012). Беседа не изложена: автор «боится растянуть книгу»."
+  themes: [teaching, ecstasy]
+  teaching: [prema, bhakti-supremacy]
+  scriptures: ["«мукам кароти вачалам…»", "«Падьявали» («амбходхих стхалатам…»)"]
+  event: ev-virachandra-jiva-vrindavana
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "182", to: "207"}
+
+- id: nvv-0074
+  source: nityananda-vamsha
+  ref: "Глава 10, 208–244"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.7
+  title: "Вирачандра совершает арати; пуджари совершает арати ему; киртан в храме: «Это воистину нисшедший Чайтанья»"
+  summary: "Пуджари Госаи-дас зовёт Вирачандру на вечернее арати и вкладывает ему в руку светильник; затем он совершает арати самому Вирачандре, и тот упрекает его: «Не подобает так поступать с живым существом»; в киртане во дворе земля дрожит от его шагов, тело то растёт, то истончается, его видят Шьямасундарой с флейтой, Баларамой, золотым санньяси с посохом, сиянием зари; жители Враджа и служители храма говорят: «Это сам Кришна Чайтанья»."
+  persons: ["@virabhadra", "@gosai-dasa-pujari"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Вирачандра сам называет себя «живым существом» и отказывается от поклонения — смирение, отличающееся от слов автора о нём как о Гауре."
+  themes: [kirtan, revelation, deities]
+  bhava: [krishna, balarama, sannyasi]
+  event: ev-virachandra-jiva-vrindavana
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "208", to: "244"}
+
+- id: nvv-0075
+  source: nityananda-vamsha
+  ref: "Глава 10, 245–301"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.8
+  title: "Вирачандра бродит по Вриндавану; видение танца раса у Вамшивата"
+  summary: "Каждый день киртан в рощах; под Амли-талой он плачет о Кришне Чайтанье, у Шрингара-вата — о Нитьянанде; у Вамшивата поёт маха-мантру, и павлины, олени, кукушки, деревья поют имена. Однажды лунной ночью на отмели он в настроении гопи видит танец раса: Радха и Кришна в середине, гопи отбивают такт; на рассвете Кришна исчезает, и спутники находят его без чувств у Дхира-самира с окровавленным лицом и не могут поднять, пока не запевают имя Кришны."
+  persons: ["@virabhadra", "@radha", "@krishna", "@vrinda-devi"]
+  places: ["#vrindavana", "#vamshivata"]
+  kind: vision
+  authority: C
+  parallels: ""
+  notes: "Танец раса — трансцендентная према Враджа, не мирская страсть (Бхаг. 10.33.39–40)."
+  themes: [krishna-lila, ecstasy, kirtan]
+  bhava: [gopi]
+  teaching: [holy-name]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "245", to: "301"}
+
+- id: nvv-0076
+  source: nityananda-vamsha
+  ref: "Глава 10, 302–343"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.8
+  title: "Бахулавана, Шьяма-кунда и Радха-кунда: у гхата Джахнавы Вирачандра вспоминает игры Кришны с Ананга-манджари"
+  summary: "Вирачандра плачет у пруда Бахулы, падает под тамалой у Шьяма-кунды, где сидел Махапрабху, и приходит к тому месту Радха-кунды, где отдыхала Джахнава; вспоминая, как по знаку Радхи Кришна нарядил Ананга-манджари, обнял и поцеловал её, а она, смутившись, бранила Его, и Радха смеялась, — он катается под тамалой, зовя Радху-Кришну, младшую сестру Радхи, Джахнаву, Нитьянанду и Гаурахари; три дня проводит там."
+  persons: ["@virabhadra", "@ananga-manjari", "@radha", "@krishna", "@lalita", "@jahnava", "@mahaprabhu"]
+  places: ["#bahulavana", "#radha-kunda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Игры Ананга-манджари с Кришной по знаку Радхи — особенность традиции потомков Нитьянанды; у Госвами манджари ищут лишь служения союзу Радхи и Кришны. Сцена — духовная према Враджа, к ней не применимо мирское понимание."
+  themes: [krishna-lila, separation, ecstasy]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "302", to: "343"}
+
+- id: nvv-0077
+  source: nityananda-vamsha
+  ref: "Глава 10, 344–362"
+  file: "nityananda-vamsha/ru/10.md"
+  period: P15
+  order: 111.8
+  title: "Манаса-гхат, Кусума-саровара, Говардхана и Дана-гхати"
+  summary: "Омывшись у Манаса-гхата и увидев Панча-пандаву, Вирачандра у Кусума-саровары зовёт Уддхаву, в настроении гопи в разлуке касается Говардханы как Кришны, а у Дана-гхати, вспомнив игры со сбором пошлины, лежит бездыханным, пока преданные не запевают о Дана-кханде; так он обходит все леса Вриндавана."
+  persons: ["@virabhadra", "@uddhava", "@krishna"]
+  places: ["#govardhana", "#kusuma-sarovara", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [krishna-lila, separation, pilgrimage]
+  bhava: [gopi]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "344", to: "362"}
+
+- id: nvv-0078
+  source: nityananda-vamsha
+  ref: "Глава 10, 363–378"
+  file: "nityananda-vamsha/ru/10.md"
+  period: PX
+  order: 25
+  title: "Заключение автора: Гаура, Нитьянанда и Вирачандра — моя жизнь"
+  summary: "Автор, без знаний и умения писать шлоки, пишет паяром ради очищения; Гаурачандра — его богатство, второе тело — Нитьянанда, второе тело — Вирачандра, неотличный от Гауранги, «поистине сын Шачи»; он молит быть слугой Нитьянанды из рождения в рождение и получить тень стоп Гаурачандры; колофон поэмы."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@virabhadra"]
+  places: []
+  kind: author
+  authority: C
+  parallels: ""
+  notes: "Отождествление Вирачандры с Гаурангой — позиция автора (см. nvv-0012)."
+  themes: [author]
+  verses:
+    - {file: "nityananda-vamsha/ru/10.md", from: "363", to: "378"}
