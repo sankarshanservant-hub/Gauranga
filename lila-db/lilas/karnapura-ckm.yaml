@@ -1,0 +1,581 @@
+# Кави Карнапура, «Шри Чайтанья-чаритамрита-махакавья» (1542) — лилы в порядке изложения (формат — ../README.md).
+# Перевод: karnapura-mahakavya/ru/NN.md (NN — номер сарги; метки стихов **N.**). Записи добавлять в конец.
+# Параллели с Мурари даны по нумерации нашего перевода (пракрама.сарга.шлока).
+
+- id: kcm-0001
+  source: karnapura-ckm
+  ref: "Сарга 1, 1–7"
+  file: "karnapura-mahakavya/ru/01.md"
+  period: PX
+  order: 0
+  title: "Мангалачарана: Гауранга — Кришна, ставший золотым"
+  summary: "Благословляющие стихи: Тот, кто плясал во Вриндаване с гопи, обнимаемый ими, стал золотым Гаурангой и сияет в Навадвипе; поэт склоняется перед Его стопами, милостью и сладостью."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#navadvipa", "#vrindavana"]
+  kind: author
+  authority: A
+  parallels: "Мурари 1.01.1–7"
+  themes: [author]
+  teaching: [gaura-tattva]
+  verses:
+    - {file: "karnapura-mahakavya/ru/01.md", from: "1", to: "7"}
+
+- id: kcm-0002
+  source: karnapura-ckm
+  ref: "Сарга 1, 8–12"
+  file: "karnapura-mahakavya/ru/01.md"
+  period: PX
+  order: 1
+  title: "Самоумаление поэта: откуда он знает о лилах"
+  summary: "Карнапура говорит, что одно видел сам, другое слышал от тех, для кого игры Господа — сама жизнь, и просит мудрых не искать изъянов в его труде."
+  persons: ["@kavi-karnapura", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: "Мурари 1.01.8–15"
+  themes: [author]
+  verses:
+    - {file: "karnapura-mahakavya/ru/01.md", from: "8", to: "12"}
+
+- id: kcm-0003
+  source: karnapura-ckm
+  ref: "Сарга 1, 13–29"
+  file: "karnapura-mahakavya/ru/01.md"
+  period: P15
+  order: 11
+  title: "Рамка поэмы: плач преданных после сокрытия Господа"
+  summary: "Явив милость и затопив мир нектаром любви, Господь сокрылся; близкие спутники ушли вслед за Ним, а оставшиеся рыдают, взывают к Гауранге и живут, вспоминая Его качества."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: post-advent
+  authority: A
+  notes: "Поэма открывается не рождением, а скорбью после сокрытия Господа. Карнапура пишет как очевидец этой поры (ок. 1542)."
+  themes: [separation, departure]
+  divergence: "У Мурари такой рамки нет (его рамка — беседа с Дамодарой)."
+  event: ev-devotees-lament-after-disappearance
+  verses:
+    - {file: "karnapura-mahakavya/ru/01.md", from: "13", to: "29"}
+
+- id: kcm-0004
+  source: karnapura-ckm
+  ref: "Сарга 2, 1–11"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 2
+  title: "Слава Навадвипы и Ганги; жители города и Адвайта"
+  summary: "Хвала Навадвипе на берегу Ганги, её брахманам, врачам и вайшьям; город украшает Адвайта, чья любовь привела Господа."
+  persons: ["@advaita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.01.16–24"
+  notes: "Стихи 5–8 — калапака (одно предложение)."
+  themes: [author]
+  event: ev-navadvipa-vaishnavas-before-advent
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "1", to: "11"}
+
+- id: kcm-0005
+  source: karnapura-ckm
+  ref: "Сарга 2, 12–16"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 10
+  title: "Шриваса; Джаганнатха Мишра берёт в жёны Шачи"
+  summary: "В Навадвипе живут Шриваса и Джаганнатха Мишра; Ниламбара Чакраварти, оценив достоинства Мишры, отдаёт ему в жёны дочь Шачи."
+  persons: ["@srivasa", "@jagannatha-mishra", "@shachi", "@nilambara-chakravarti"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.02.1–4"
+  themes: [family]
+  event: ev-jagannatha-mishra-marries-shachi
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "12", to: "16"}
+
+- id: kcm-0006
+  source: karnapura-ckm
+  ref: "Сарга 2, 17–21"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 20
+  title: "Смерть дочерей; рождение и учёность Вишварупы"
+  summary: "Дочери супругов одна за другой умирают; в горе они прибегают к Господу, и рождается Вишварупа, ещё ребёнком изучивший агамы и Веды."
+  persons: ["@jagannatha-mishra", "@shachi", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.02.5–10"
+  themes: [family]
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "17", to: "21"}
+
+- id: kcm-0007
+  source: karnapura-ckm
+  ref: "Сарга 2, 22–24"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 50
+  title: "Шачи носит Господа тринадцать месяцев"
+  summary: "Шачи сияет, нося Господа в лоне; проходит тринадцать месяцев, и срок завершается в месяц тапасья."
+  persons: ["@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.05.1–4"
+  themes: [family, revelation]
+  calendar: "тапасья (пхалгуна)"
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "22", to: "24"}
+
+- id: kcm-0008
+  source: karnapura-ckm
+  ref: "Сарга 2, 25–37"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 69
+  title: "Природа готовится к явлению: ранняя весна и ночь полнолуния"
+  summary: "Весна, узнав, что скоро явится Господь, приходит раньше срока и наряжается; в ночь полнолуния пхалгуны проясняются стороны света, веют благие ветры, кукушки впервые кричат «Победа!»."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Поэтическое описание (утпрекша) знамений перед рождением."
+  themes: [celestial]
+  calendar: "пхалгуна, пурнима"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "25", to: "37"}
+
+- id: kcm-0009
+  source: karnapura-ckm
+  ref: "Сарга 2, 38–44"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P01
+  order: 70
+  title: "Явление Господа во время лунного затмения; гороскоп"
+  summary: "Господь является, озаряя стороны света; случается лунное затмение, и люди кричат «Хари!» — Он пожелал явиться в воспевании Своего имени; Мишра раздаёт дары, планеты стоят благоприятно, знак — Лев."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.05.16–22; Карнапура, «Чайтанья-чандродая» 1.20"
+  themes: [revelation, kirtan]
+  bhava: [child]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  date_conf: точно
+  date_basis: "Махакавья 2.33–39: полнолуние весеннего месяца, лунное затмение; год — по ЧЧ Ади 13"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "38", to: "44"}
+
+- id: kcm-0010
+  source: karnapura-ckm
+  ref: "Сарга 2, 45–55"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P02
+  order: 10
+  title: "Красота новорождённого: мир служит каждой черте Его облика"
+  summary: "Всё прекрасное в мире словно существует лишь затем, чтобы служить красоте лица, глаз и членов младенца Гауры."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.06.4–6"
+  themes: [revelation]
+  bhava: [child]
+  event: ev-infant-with-shachi
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "45", to: "55"}
+
+- id: kcm-0011
+  source: karnapura-ckm
+  ref: "Сарга 2, 56–59"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P02
+  order: 2
+  title: "Ниламбара Чакраварти находит благие признаки; обряды рождения"
+  summary: "Ниламбара Чакраварти насчитывает множество благих признаков и предрекает, что младенец спасёт оба рода; Мишра совершает обряды рождения и выхода из родильной комнаты."
+  persons: ["@nilambara-chakravarti", "@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.05.23–29"
+  themes: [family, festival]
+  bhava: [child]
+  event: ev-nilambara-prediction
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "56", to: "59"}
+
+- id: kcm-0012
+  source: karnapura-ckm
+  ref: "Сарга 2, 60–62"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P02
+  order: 20
+  title: "Младенец ползает и лепечет; имя Вишвамбхара"
+  summary: "Младенец ползает, унимая жар земли, и лепечет первые слова; отец, предвидя, что Он наполнит мир киртаном, нарекает Его Вишвамбхарой."
+  persons: ["@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.06.1–3"
+  themes: [family]
+  bhava: [child]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "60", to: "62"}
+
+- id: kcm-0013
+  source: karnapura-ckm
+  ref: "Сарга 2, 63–67"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P02
+  order: 30
+  title: "Детство: пляска в браслетах и первые шаги"
+  summary: "Золотой ребёнок растёт, как молодая луна, пляшет под звон браслетов, начинает ступать по земле и играет со сверстниками."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.06.7, 9–12"
+  themes: [pranks]
+  bhava: [child]
+  event: ev-first-steps
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "63", to: "67"}
+
+- id: kcm-0014
+  source: karnapura-ckm
+  ref: "Сарга 2, 68–79"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P03
+  order: 30
+  title: "На груде выброшенных горшков: наставление матери о чистом и нечистом"
+  summary: "Рассердившись на мать, Нимай бьёт горшки и садится на груду выброшенной посуды; Шачи зовёт Его омыться, а Он учит её, что для Атмана нет чистого и нечистого; когда она бранит Его снова, Он бросает в неё ком."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: A
+  parallels: "Мурари 1.06.13–18"
+  notes: "Речь ребёнка построена на доводах недвойственности (2.72–76) — это детская игра Господа, а не Его учение; в гаудия-вайшнавском толковании Он лишь шутливо обыгрывает речь ведантистов."
+  themes: [pranks, teaching]
+  bhava: [child]
+  teaching: [purity]
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "68", to: "79"}
+
+- id: kcm-0015
+  source: karnapura-ckm
+  ref: "Сарга 2, 80–85"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P03
+  order: 50
+  title: "Шачи падает от удара; два кокоса"
+  summary: "От удара Шачи падает без чувств; женщины приводят её в себя и в шутку говорят, что мать исцелят два кокоса; Нимай тут же приносит свежесорванную пару, а на вопрос, откуда, лишь грозно отвечает «Хум!»."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: A
+  parallels: "Мурари 1.06.19–30"
+  themes: [pranks, revelation]
+  bhava: [child]
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "80", to: "85"}
+
+- id: kcm-0016
+  source: karnapura-ckm
+  ref: "Сарга 2, 86–89"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P02
+  order: 40
+  title: "Ночью дом полон незримых гостей; звон браслетов с босых стоп"
+  summary: "Шачи чудится, что дом ночью полон людей; когда сын идёт в комнату отца, родители слышат звон браслетов с Его босых стоп, и Мишра в радости обнимает Его."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: A
+  parallels: "Мурари 1.06.31–35"
+  themes: [celestial, revelation]
+  bhava: [child]
+  event: ev-gods-worship-infant-anklets
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "86", to: "89"}
+
+- id: kcm-0017
+  source: karnapura-ckm
+  ref: "Сарга 2, 90–101"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P04
+  order: 10
+  title: "Санньяса Вишварупы; Вишвамбхара утешает родителей"
+  summary: "Шестнадцатилетний Вишварупа, узнав, что отец ищет ему невесту, переплывает Гангу и принимает санньясу; родители лишаются чувств от горя, а Вишвамбхара обещает сам служить им, и они утешаются."
+  persons: ["@vishvarupa", "@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.07.1–11; «Чайтанья-чандродая» 1.30"
+  themes: [sannyasa, family, separation]
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "90", to: "101"}
+
+- id: kcm-0018
+  source: karnapura-ckm
+  ref: "Сарга 2, 102–107"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P04
+  order: 35
+  title: "Отец бранит своевольного сына; сон Джаганнатхи Мишры"
+  summary: "Отец бранит сына за игры; ночью во сне брахман с красными от гнева глазами упрекает Мишру: тот не чтит сына, как должно; услышав об этом сне, люди признают Господа."
+  persons: ["@jagannatha-mishra", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: A
+  parallels: "Мурари 1.07.12–17"
+  themes: [celestial, family, revelation]
+  event: ev-jagannatha-mishra-dream
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "102", to: "107"}
+
+- id: kcm-0019
+  source: karnapura-ckm
+  ref: "Сарга 2, 108–115"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P04
+  order: 50
+  title: "Наставление об экадаши; «Я ухожу» — и обморок"
+  summary: "Господь велит матери не есть в день Хари; затем, отбросив бетель, говорит: «Береги тело сына, Я ухожу» — и падает без чувств; очнувшись, Он сияет, и отец изумлён."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: A
+  parallels: "Мурари 1.07.18–24"
+  themes: [teaching, festival, revelation]
+  teaching: [purity]
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "108", to: "115"}
+
+- id: kcm-0020
+  source: karnapura-ckm
+  ref: "Сарга 2, 116"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P04
+  order: 55
+  title: "Учёба в доме учителя (упоминание)"
+  summary: "Живя в доме учителя, Господь мигом постигает все науки."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробнее об учителях — Махакавья 3.2–4."
+  themes: [learning]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "116", to: "116"}
+
+- id: kcm-0021
+  source: karnapura-ckm
+  ref: "Сарга 2, 117–122"
+  file: "karnapura-mahakavya/ru/02.md"
+  period: P04
+  order: 60
+  title: "Уход Джаганнатхи Мишры на берегу Ганги"
+  summary: "Мишра слабеет от лихорадки; Господь кладёт стопы отца себе на грудь и плачет; отец вверяет сына стопам Рагхунатхи; Шачи омывает стопы мужа слезами, и под киртан и дождь цветов он оставляет тело, стоя в водах Ганги."
+  persons: ["@jagannatha-mishra", "@mahaprabhu", "@shachi", "@rama"]
+  places: ["#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.08.11–24"
+  themes: [family, separation, departure]
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "karnapura-mahakavya/ru/02.md", from: "117", to: "122"}
+
+- id: kcm-0022
+  source: karnapura-ckm
+  ref: "Сарга 3, 1–4"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P04
+  order: 70
+  title: "Учёба у Вишну, Сударшаны и Гангадасы"
+  summary: "Юный Гауранга учится у пандитов Вишну и Сударшаны, затем постигает грамматику у Гангадасы и блистает красноречием среди однокашников."
+  persons: ["@mahaprabhu", "@vishnu-pandita", "@sudarshana-pandita", "@gangadasa-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.09.1–4"
+  themes: [learning]
+  bhava: [teacher]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "1", to: "4"}
+
+- id: kcm-0023
+  source: karnapura-ckm
+  ref: "Сарга 3, 5–11"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 10
+  title: "Встреча с Лакшмиприей на пути к Ганге"
+  summary: "Возвращаясь от Ванамали Ачарьи, Господь встречает на дороге дочь Валлабхачарьи, золотую, как лиана, и они обмениваются взглядами."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vanamali-acharya"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.09.5–8"
+  themes: [family]
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "5", to: "11"}
+
+- id: kcm-0024
+  source: karnapura-ckm
+  ref: "Сарга 3, 12–39"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 15
+  title: "Сватовство Лакшмиприи: Ванамали, Шачи и Валлабхачарья"
+  summary: "Ванамали Ачарья предлагает брак; Шачи сначала молчит, и Нимай упрекает мать; затем Ванамали идёт к Валлабхачарье, славит жениха, и отец невесты соглашается."
+  persons: ["@vanamali-acharya", "@shachi", "@mahaprabhu", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.09.9–33"
+  themes: [family]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "12", to: "39"}
+
+- id: kcm-0025
+  source: karnapura-ckm
+  ref: "Сарга 3, 40–74"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 25
+  title: "Свадьба с Лакшмиприей"
+  summary: "Назначают срок, совершают адхивасу и нандимукха-шраддху; Шачи-вдова не может совершать обряды, и Нимай плачет об отце; невесту украшают, процессия с паланкином идёт к дому Валлабхи, совершается обряд, и Шачи встречает молодых дома."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.09.34–38, 1.10.1–27, 1.11.1–4"
+  themes: [family, festival]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "40", to: "74"}
+
+- id: kcm-0026
+  source: karnapura-ckm
+  ref: "Сарга 3, 75–81"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 26
+  title: "Семейная жизнь; красота Лакшмиприи"
+  summary: "Описание домашней жизни Господа и красоты Лакшмиприи от ногтей до макушки (накха-шикха)."
+  persons: ["@mahaprabhu", "@lakshmipriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Поэтическое описание (накха-шикха); красота Лакшмиприи — красота шакти Господа, не мирская."
+  themes: [family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "75", to: "81"}
+
+- id: kcm-0027
+  source: karnapura-ckm
+  ref: "Сарга 3, 82–95"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 65
+  title: "Путешествие в Восточную Бенгалию; омовение в Падмавати"
+  summary: "Ради милости Господь отправляется в Восточную Бенгалию; люди и женщины очарованы Им; Он омывается в Падмавати, делая её счастливой, и несколько месяцев учит там."
+  persons: ["@mahaprabhu"]
+  places: ["#east-bengal", "#padmavati"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.11.5–16"
+  themes: [pilgrimage, learning, mercy]
+  bhava: [teacher]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "82", to: "95"}
+
+- id: kcm-0028
+  source: karnapura-ckm
+  ref: "Сарга 3, 96–118"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 80
+  title: "Уход Лакшмиприи; плач Шачи"
+  summary: "Лакшмиприя дома служит свекрови и тоскует по мужу; её кусает змея, лекари бессильны, и на берегу Ганги она оставляет тело; Шачи горько оплакивает невестку."
+  persons: ["@lakshmipriya", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.11.17–28, 1.12.1–6; «Чайтанья-чандродая» 1.28–29"
+  themes: [separation, departure, family]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "96", to: "118"}
+
+- id: kcm-0029
+  source: karnapura-ckm
+  ref: "Сарга 3, 119–126"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 85
+  title: "Возвращение Господа; утешение Шачи"
+  summary: "Господь возвращается, видит печаль матери и, поняв всё без слов, говорит, что Лакшми не была простым человеком и ушла по высшей причине; Шачи обретает покой."
+  persons: ["@mahaprabhu", "@shachi", "@lakshmipriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.12.7–19"
+  themes: [family, separation, teaching]
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "119", to: "126"}
+
+- id: kcm-0030
+  source: karnapura-ckm
+  ref: "Сарга 3, 127–135"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 90
+  title: "Сватовство Вишнуприи"
+  summary: "Шачи посылает брахмана к Санатане Мишре; тот, посовещавшись с родными, соглашается, присылает посланца и назначает срок свадьбы дочери Вишнуприи."
+  persons: ["@shachi", "@sanatana-mishra", "@vishnupriya", "@kashinatha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.13.1–17"
+  notes: "Брахман-сват в тексте не назван; по Мурари — Кашинатха."
+  themes: [family]
+  event: ev-vishnupriya-matchmaking
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "127", to: "135"}
+
+- id: kcm-0031
+  source: karnapura-ckm
+  ref: "Сарга 3, 136–144"
+  file: "karnapura-mahakavya/ru/03.md"
+  period: P05
+  order: 100
+  title: "Свадьба с Вишнуприей"
+  summary: "Санатана совершает адхивасу; утром брахманы зовут Господа, Он едет в белом паланкине к дому Санатаны, совершается обряд, и под музыку и клики «Джая!» Он привозит невесту домой к радостной Шачи."
+  persons: ["@mahaprabhu", "@vishnupriya", "@sanatana-mishra", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.14.3–33"
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "karnapura-mahakavya/ru/03.md", from: "136", to: "144"}
