@@ -66,7 +66,7 @@
 | @shridhara | Шридхара (Кхолавеча) | Shridhara (Kholavecha) | Шридхара Пандит Навадвипы |
 | @srirama-pandita | Шри Рама Пандит | Sri Rama Pandita | младший брат Шривасы |
 | @nandana-acharya | Нандана Ачарья | Nandana Acharya | в его доме в Навадвипе остановился Нитьянанда |
-| @gopinatha-navadvipa | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) | спутник Господа; не путать с Гопинатхой Ачарьей (Пури) |
+| @gopinatha-navadvipa | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) | спутник Господа в Навадвипе; возможно, тот же, что Гопинатха Ачарья (родом из Навадвипы, позднее в Пури) — отождествление не доказано |
 | @vanamali-vipra | Ванамали (бедный брахман из Бенгалии) | Vanamali (a poor brahmana from Bengal) | пришёл с сыном, увидел в Гауре Кришну; не путать с @vanamali-acharya |
 | @jagadananda-pandita | Джагадананда Пандит | Jagadananda Pandita | |
 | @vasu-ghosha | Васу Гхош | Vasu Ghosha | певец-киртания, автор пад |
@@ -109,3 +109,4 @@
 | @suniti | Сунити | Suniti | мать Дхрувы; в повести о Дхруве |
 | @viraja-devi | Вираджа (богиня в Яджапуре) | Viraja (the goddess at Yajapura) | |
 | @vibhishana | Вибхишана | Vibhishana | брат Раваны, царь Ланки; по преданию, приходит видеть Джаганнатху |
+| @rama-muni-dravida | Рама (мудрец из Дравиды) | Rama (a sage of Dravida) | по Мурари 1.04.9–11 — прежнее рождение Харидаса: поднёс Господу неомытую туласи |

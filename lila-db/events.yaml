@@ -161,6 +161,26 @@
   themes: [celestial]
   notes: ""
 
+- id: ev-haridasa-previous-birth
+  title: "Прежнее рождение Харидаса: неомытая туласи"
+  title_en: "Haridasa's previous birth: the unwashed tulasi"
+  period: P00
+  order: 38
+  cc: ""
+  cb: ""
+  themes: [offense, celestial]
+  notes: "Мурари 1.04.8–12: мудрец Рама из Дравиды поднёс Господу неомытую туласи и потому родился в роду яванов; Харидас — также частица Брахмы."
+
+- id: ev-navadvipa-vaishnavas-before-advent
+  title: "Навадвипа и её вайшнавы до явления Господа"
+  title_en: "Navadvipa and its Vaishnavas before the Lord's advent"
+  period: P01
+  order: 2
+  cc: ""
+  cb: "Ади 2"
+  themes: [celestial, kirtan]
+  notes: "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра)."
+
 - id: ev-associates-descend
   title: "Нисхождение спутников Господа"
   title_en: "The descent of the Lord's associates"
@@ -170,6 +190,26 @@
   cb: "Ади 2"
   themes: [celestial]
   notes: "Мурари 1.04; отождествления — «Гаура-ганоддеша-дипика»."
+
+- id: ev-jagannatha-mishra-marries-shachi
+  title: "Женитьба Джаганнатхи Мишры на Шачи"
+  title_en: "Jagannatha Mishra marries Shachi"
+  period: P01
+  order: 10
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "Мурари 1.02.1–4: Шачи — дочь Ниламбары Чакраварти; гуру даёт Джаганнатхе звание «Мишра Пурандара»."
+
+- id: ev-vishvarupa-birth
+  title: "Смерть восьми дочерей Шачи и рождение Вишварупы"
+  title_en: "The death of Shachi's eight daughters and the birth of Vishvarupa"
+  period: P01
+  order: 20
+  cc: "Ади 13"
+  cb: ""
+  themes: [family]
+  notes: "Мурари 1.02.5–10."
 
 - id: ev-lord-enters-shachi-womb
   title: "Господь входит в лоно Шачи"
@@ -213,11 +253,25 @@
   years: [1486, 1486]
   age: [0, 0]
   date_conf: точно
-  date_basis: "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98)"
+  date_basis: "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения"
   cc: "Ади 13"
   cb: "Ади 3"
   themes: [revelation, celestial, family]
   notes: "Мурари 1.05."
+
+- id: ev-nilambara-prediction
+  title: "Ниламбара Чакраварти предсказывает величие новорождённого"
+  title_en: "Nilambara Chakravarti foretells the newborn's greatness"
+  period: P02
+  order: 2
+  years: [1486, 1486]
+  age: [0, 0]
+  date_conf: вероятно
+  date_basis: "сразу после рождения (Мурари 1.05.23)"
+  cc: ""
+  cb: ""
+  themes: [family, revelation]
+  notes: "Мурари 1.05.23–27: Юпитер в экзальтации; предсказана санньяса."
 
 - id: ev-birth-festival-nimai-name
   title: "Празднование рождения; имя Нимай"
@@ -281,6 +335,16 @@
   cb: ""
   themes: [celestial, revelation, family]
   notes: "Мурари 1.06.32–35."
+
+- id: ev-tirthika-brahmana
+  title: "Брахман-паломник: Дитя съедает его подношение"
+  title_en: "The pilgrim brahmana: the Child eats his offering"
+  period: P03
+  order: 5
+  cc: ""
+  cb: ""
+  themes: [revelation, prasada, krishna-lila]
+  notes: "Мурари 1.06.8 (упоминание); подробно — «Чайтанья-бхагавата», Ади-кханда."
 
 - id: ev-child-dust-broken-pots
   title: "Детские шалости: игры в пыли и разбитые горшки"
@@ -407,6 +471,7 @@
   title_en: "Vishvarupa's sannyasa"
   period: P04
   order: 10
+  date_basis: "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)"
   cc: "Ади 15"
   cb: "Ади 7"
   themes: [sannyasa, family, separation]
@@ -642,6 +707,16 @@
   cb: "Ади 17"
   themes: [ecstasy, pilgrimage]
   notes: "Мурари 1.15.15–19."
+
+- id: ev-jagannatha-mishra-accepts-pinda
+  title: "Джаганнатха Мишра является в Гае принять пинду"
+  title_en: "Jagannatha Mishra appears in Gaya to accept the pinda"
+  period: P06
+  order: 45
+  cc: ""
+  cb: ""
+  themes: [family, celestial, pilgrimage]
+  notes: "Мурари 1.16.4–5 (у Шестнадцати алтарей; сравнение с Рамой и Дашаратхой)."
 
 - id: ev-gaya-vishnupada-prema
   title: "Обряды в Гае; према у Вишнупады"
@@ -1831,3 +1906,13 @@
   cb: ""
   themes: [teaching]
   notes: "Рамка повествования Мурари Гупты (Мурари 1.01–1.02)."
+
+- id: ev-avatara-kinds
+  title: "Виды аватар: аватары юг и аватары ради особого дела"
+  title_en: "Kinds of avataras: yuga-avataras and avataras for a special purpose"
+  period: PX
+  order: 6
+  cc: "Мадхья 20"
+  cb: ""
+  themes: [teaching]
+  notes: "Богословская тема, не эпизод жизни. Мурари 1.04.17–33; ср. рассуждения Брахмы (ev-brahma-yuga-avatara-discourse) и пандитов (ev-pandits-recognize-vishvambhara) у Лочана Даса."

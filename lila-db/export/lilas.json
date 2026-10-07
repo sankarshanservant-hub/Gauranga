@@ -63,7 +63,72 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/03.md?plain=1#L5-L17"
    }
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0008",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 2, шлоки 22–29; сарга 3, шлоки 1–4",
+  "file": "murari-gupta/ru/1.02.md",
+  "period": "P00",
+  "order": 10,
+  "title": "Нарада видит землю, охваченную Кали",
+  "summary": "Нарада, странствуя с виной Махати в поисках вайшнавов, видит землю под властью млеччхов, людей грешных и недолговечных, царей-грабителей и гордых учёных-хулителей святых; размыслив, что имя Хари спасает всех, кроме оскорбителей вайшнавов и хулителей имени, он отправляется на Вайкунтху.",
+  "persons": [
+   "@narada"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0007",
+  "notes": "Млеччхи и яваны (2.26, 2.28) — по сноске перевода, мусульманские правители Бенгалии.",
+  "themes": [
+   "celestial",
+   "offense"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava",
+   "yuga-dharma"
+  ],
+  "event": "ev-narada-kali-sorrow",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "22",
+    "to": "29"
+   },
+   {
+    "file": "murari-gupta/ru/1.03.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "22",
+    "to": "29",
+    "line": 47,
+    "line_to": 61,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.02.md?plain=1#L47-L61",
+    "file_en": "murari-gupta/en/1.02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L47-L61"
+   },
+   {
+    "file": "murari-gupta/ru/1.03.md",
+    "from": "1",
+    "to": "4",
+    "line": 5,
+    "line_to": 11,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.03.md?plain=1#L5-L11",
+    "file_en": "murari-gupta/en/1.03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.03.md?plain=1#L5-L11"
+   }
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0008",
@@ -117,7 +182,63 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/03.md?plain=1#L20-L177"
    }
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0009",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 3, шлоки 5–23",
+  "file": "murari-gupta/ru/1.03.md",
+  "period": "P00",
+  "order": 20,
+  "title": "Нарада на Вайкунтхе молит Господа нисойти; Господь соглашается",
+  "summary": "Нарада видит Вайкунтху и четырёхрукого Кришну, которому служит Шри, падает в экстазе; Господь поднимает его и спрашивает о деле; Нарада молит защитить людей Кали и просит нисойти в род Ватсья сыном Джаганнатхи — очищать умы, а не убивать асуров; с Ним нисойдут Рудра и мудрецы; Господь отвечает: «Да будет так».",
+  "persons": [
+   "@narada",
+   "@krishna",
+   "@narayana",
+   "@lakshmi",
+   "@jagannatha-mishra",
+   "@shiva"
+  ],
+  "places": [
+   "#vaikuntha"
+  ],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0009 (обет Кришны в Двараке)",
+  "notes": "Причина явления у Мурари — мольба Нарады о людях Кали; о бхаве Радхи как причине здесь не сказано.",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "yuga-dharma"
+  ],
+  "divergence": "Нарада приходит к Господу на Вайкунтху (у Лочана Даса — в Двараку, к Кришне и Рукмини).",
+  "event": "ev-narada-dvaraka-rukmini",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.03.md",
+    "from": "5",
+    "to": "23"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.03.md",
+    "from": "5",
+    "to": "23",
+    "line": 13,
+    "line_to": 49,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.03.md?plain=1#L13-L49",
+    "file_en": "murari-gupta/en/1.03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.03.md?plain=1#L13-L49"
+   }
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0009",
@@ -174,7 +295,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/03.md?plain=1#L184-L294"
    }
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "lcm-0010",
@@ -1092,6 +1213,112 @@
   "attestation": 1
  },
  {
+  "id": "mkc-0011",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 4, шлоки 8–12",
+  "file": "murari-gupta/ru/1.04.md",
+  "period": "P00",
+  "order": 38,
+  "title": "Прежнее рождение Харидаса: мудрец Рама и неомытая туласи",
+  "summary": "Харидас — частица мудреца: в Дравиде мудрец Рама поднёс Господу туласи, которую сын уронил на землю и не омыл снова, и за это родился в роду яванов; праведный и мудрый Харидас — также частица Брахмы и истинный преданный.",
+  "persons": [
+   "@haridasa-thakura",
+   "@rama-muni-dravida",
+   "@brahma"
+  ],
+  "places": [
+   "#dravida"
+  ],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "«Гаура-ганоддеша-дипика» (Харидас — Брахма и Прахлада)",
+  "notes": "Мурари передаёт лишь суть рассказа «брахмана, укушенного змеёй» (возможно, имя рассказчика — Нагадашта; сноска перевода). Предание, известное лишь Мурари среди переведённых источников.",
+  "themes": [
+   "offense",
+   "celestial"
+  ],
+  "teaching": [
+   "associates-tattva",
+   "purity"
+  ],
+  "event": "ev-haridasa-previous-birth",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "8",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "8",
+    "to": "12",
+    "line": 19,
+    "line_to": 27,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.04.md?plain=1#L19-L27",
+    "file_en": "murari-gupta/en/1.04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.04.md?plain=1#L19-L27"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "mkc-0003",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 1, шлоки 16–24",
+  "file": "murari-gupta/ru/1.01.md",
+  "period": "P01",
+  "order": 2,
+  "title": "Навадвипа и её вайшнавы; Джаганнатха Мишра",
+  "summary": "Навадвипа — край, подобный Вайкунтхе, где живут праведные брахманы-вайшнавы; там блистают Шриваса, Гопинатха, Адвайта, Чандрашекхара и Харидас, течёт Ганга и живёт Джаганнатха — учитель Вед, погружённый в созерцание стоп Кришны.",
+  "persons": [
+   "@srivasa",
+   "@gopinatha-navadvipa",
+   "@advaita",
+   "@chandrashekhara-acharya",
+   "@haridasa-thakura",
+   "@jagannatha-mishra",
+   "@ganga-devi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Гопинатха (шл. 19) — брахман Навадвипы; по сноске перевода, по-видимому, Гопинатха Ачарья, позднее встречающийся в Нилачале. Описание по большей части вневременное (преданные показаны такими, какими их знал автор).",
+  "themes": [
+   "celestial",
+   "kirtan"
+  ],
+  "event": "ev-navadvipa-vaishnavas-before-advent",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "16",
+    "to": "24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "16",
+    "to": "24",
+    "line": 35,
+    "line_to": 51,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.01.md?plain=1#L35-L51",
+    "file_en": "murari-gupta/en/1.01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.01.md?plain=1#L35-L51"
+   }
+  ],
+  "cb": "Ади 2",
+  "attestation": 1
+ },
+ {
   "id": "lcm-0029",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Грантхарамбха», 599–631",
@@ -1161,16 +1388,210 @@
   ],
   "cc": "Ади 13",
   "cb": "Ади 2",
-  "years": [
-   1486,
-   1486
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0010",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 4, шлоки 1–7",
+  "file": "murari-gupta/ru/1.04.md",
+  "period": "P01",
+  "order": 5,
+  "title": "Нисхождение спутников: Мадхавендра Пури, Адвайта, Чандрашекхара, Шриваса, Мукунда",
+  "summary": "Дамодара спрашивает, кто нисошёл вместе с Господом и каковы виды нисхождений; Мурари рассказывает о преданных — обликах Владыки: одна частица Владыки явилась надвое — Мадхавендрой Пури и Адвайтой Ачарьей; Чандрашекхара — частица Луны, Шриваса — Нарады, Мукунда — гандхарва.",
+  "persons": [
+   "@damodara-pandita",
+   "@murari-gupta",
+   "@madhavendra-puri",
+   "@advaita",
+   "@chandrashekhara-acharya",
+   "@srivasa",
+   "@narada",
+   "@mukunda-datta"
   ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0029; «Гаура-ганоддеша-дипика»",
+  "notes": "«Частица» не умаляет Адвайту: по гаудия-вайшнавскому учению Он — Маха-Вишну (с Садашивой), неотличный от Господа; Мадхавендра Пури — Его гуру (сноска перевода). Мукунда «из рода врачей, певец» — Мукунда Датта.",
+  "themes": [
+   "celestial",
+   "teaching"
   ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "divergence": "Адвайта и Мадхавендра Пури — одна частица Владыки, явившаяся надвое (ЧЧ Ади 6 и ГГД: Адвайта — Маха-Вишну и Садашива); Шриваса — частица Нарады.",
+  "event": "ev-associates-descend",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "1",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "1",
+    "to": "7",
+    "line": 5,
+    "line_to": 17,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.04.md?plain=1#L5-L17",
+    "file_en": "murari-gupta/en/1.04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.04.md?plain=1#L5-L17"
+   }
+  ],
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0012",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 4, шлоки 13–16",
+  "file": "murari-gupta/ru/1.04.md",
+  "period": "P01",
+  "order": 6,
+  "title": "Нитьянанда — частица Баладевы, второй облик Кришны; нисхождение богов и мудрецов",
+  "summary": "Авадхута Нитьянанда родился частицей Баладевы — Он великий йог, Сам Господь, второй облик Шри Кришны, дорогой Гауранге, как жизнь; Его рода и деяний не описать; и сотни богов и мудрецов родились частицами на земле.",
+  "persons": [
+   "@nityananda",
+   "@balarama",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0029; ЧЧ Ади 5",
+  "notes": "«Частица» не умаляет Нитьянанду: Мурари тут же называет Его «Самим Господом» и «вторым обликом Кришны» (сноска перевода); по гаудия-вайшнавскому учению Он — Сам Баларама.",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-associates-descend",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "13",
+    "to": "16"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "13",
+    "to": "16",
+    "line": 29,
+    "line_to": 35,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.04.md?plain=1#L29-L35",
+    "file_en": "murari-gupta/en/1.04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.04.md?plain=1#L29-L35"
+   }
+  ],
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0004",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 2, шлоки 1–4",
+  "file": "murari-gupta/ru/1.02.md",
+  "period": "P01",
+  "order": 10,
+  "title": "Джаганнатха Мишра Пурандара берёт в жёны Шачи",
+  "summary": "Гуру даёт Джаганнатхе звание «Мишра Пурандара»; Ниламбара Чакраварти отдаёт ему в жёны свою дочь Шачи, и Мишра живёт домохозяином, умножая дхарму.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@shachi",
+   "@nilambara-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-jagannatha-mishra-marries-shachi",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "1",
+    "to": "4",
+    "line": 5,
+    "line_to": 11,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.02.md?plain=1#L5-L11",
+    "file_en": "murari-gupta/en/1.02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L5-L11"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "mkc-0005",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 2, шлоки 5–10",
+  "file": "murari-gupta/ru/1.02.md",
+  "period": "P01",
+  "order": 20,
+  "title": "Смерть восьми дочерей; рождение Вишварупы",
+  "summary": "Восемь дочерей Шачи умирают; она мысленно молит Хари о сыне, Мишра совершает обряд для предков, и рождается сын, наречённый Вишварупой, — знаток Вед и логики, отрешённый, опьянённый расой «Бхагаваты».",
+  "persons": [
+   "@shachi",
+   "@jagannatha-mishra",
+   "@vishvarupa"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-vishvarupa-birth",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "5",
+    "to": "10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "5",
+    "to": "10",
+    "line": 13,
+    "line_to": 23,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.02.md?plain=1#L13-L23",
+    "file_en": "murari-gupta/en/1.02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L13-L23"
+   }
+  ],
+  "cc": "Ади 13",
   "attestation": 1
  },
  {
@@ -1229,7 +1650,69 @@
   "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
   "cc": "Ади 13",
   "cb": "Ади 2",
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0014",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 5, шлоки 1–4",
+  "file": "murari-gupta/ru/1.05.md",
+  "period": "P01",
+  "order": 50,
+  "title": "Ачьюта входит в ум Джаганнатхи и в лоно Шачи",
+  "summary": "Когда Нарада удалился, Верховный Бхагаван Ачьюта вошёл в ум Джаганнатхи Мишры, и целомудренная Шачи приняла вложенное им сияние; её красота прибывала, как луна в светлую половину месяца.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0032",
+  "notes": "Не обычное зачатие: как Господь вошёл в ум Васудевы, а через него — в Деваки (Бхаг. 10.2.16–18), так и здесь (сноска перевода). «Частица Хари» не значит, что явился лишь отчасти: в шл. 17 «родился Сам Хари».",
+  "themes": [
+   "revelation",
+   "family"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "scriptures": [
+   "Бхаг. 10.2.16–18"
+  ],
+  "event": "ev-lord-enters-shachi-womb",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "1",
+    "to": "4",
+    "line": 5,
+    "line_to": 11,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.05.md?plain=1#L5-L11",
+    "file_en": "murari-gupta/en/1.05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.05.md?plain=1#L5-L11"
+   }
+  ],
+  "years": [
+   1485,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "attestation": 2
  },
  {
   "id": "lcm-0033",
@@ -1279,16 +1762,6 @@
     "file_en": "lochana/en/09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/09.md?plain=1#L50-L101"
    }
-  ],
-  "years": [
-   1486,
-   1486
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
   ],
   "attestation": 1
  },
@@ -1345,17 +1818,64 @@
    }
   ],
   "cb": "Ади 2",
-  "years": [
-   1486,
-   1486
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0015",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 5, шлоки 5–15",
+  "file": "murari-gupta/ru/1.05.md",
+  "period": "P01",
+  "order": 60,
+  "title": "Гимн богов Шачи, носящей Господа во чреве",
+  "summary": "Брахма, Индра и боги со слезами славят Шачи как Адити, Деваки, Рохини и Яшоду, носящую во чреве Того, кто распространит киртану — жертвоприношение, превосходящее все прочие, сладость которого выше нектара бессмертия и освобождения; затем с песнями удаляются, восхваляя удачу Кали.",
+  "persons": [
+   "@brahma",
+   "@indra",
+   "@shachi",
+   "@jagannatha-mishra",
+   "@mahaprabhu"
   ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
+  "places": [
+   "#house-jagannatha-mishra"
   ],
-  "attestation": 1
+  "kind": "vision",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0034",
+  "notes": "",
+  "themes": [
+   "celestial",
+   "kirtan",
+   "revelation"
+  ],
+  "teaching": [
+   "holy-name",
+   "bhakti-supremacy"
+  ],
+  "divergence": "Боги славят саму Шачи (у Лочана Даса — Господа в её лоне, а Шачи это видит).",
+  "event": "ev-gods-praise-lord-in-womb",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "5",
+    "to": "15"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "5",
+    "to": "15",
+    "line": 13,
+    "line_to": 33,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.05.md?plain=1#L13-L33",
+    "file_en": "murari-gupta/en/1.05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.05.md?plain=1#L13-L33"
+   }
+  ],
+  "cb": "Ади 2",
+  "attestation": 2
  },
  {
   "id": "lcm-0035",
@@ -1420,9 +1940,142 @@
    0
   ],
   "date_conf": "точно",
-  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98)",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения",
   "cc": "Ади 13",
   "cb": "Ади 3",
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0016",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 5, шлоки 16–22",
+  "file": "murari-gupta/ru/1.05.md",
+  "period": "P01",
+  "order": 70,
+  "date": "пхалгуна-пурнима, полночь; лунное затмение",
+  "title": "Явление Господа в полночь полнолуния пхалгуны, во время лунного затмения",
+  "summary": "В полночь полнолуния благого месяца пхалгуна рождается Сам Хари — золотистый, лотосоокий; Раху поглощает луну, словно устыдившуюся Его лика; люди поют киртану, омываются в Ганге и раздают дары, боги ликуют, апсары пляшут, льётся дождь цветов.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@brahma",
+   "@shiva",
+   "@indra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0035; ЧЧ Ади 13.89–98",
+  "notes": "",
+  "themes": [
+   "revelation",
+   "celestial",
+   "kirtan"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "calendar": "пхалгуна, пурнима; полночь; лунное затмение",
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Мурари 1.05.16, 20: полночь, полнолуние пхалгуны, лунное затмение; год (Шака 1407) — по ЧЧ Ади 13",
+  "divergence": "Время рождения — полночь (ЧЧ Ади 13: в вечерние сумерки).",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "16",
+    "to": "22"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "16",
+    "to": "22",
+    "line": 35,
+    "line_to": 47,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.05.md?plain=1#L35-L47",
+    "file_en": "murari-gupta/en/1.05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.05.md?plain=1#L35-L47"
+   }
+  ],
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0017",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 5, шлоки 23–27",
+  "file": "murari-gupta/ru/1.05.md",
+  "period": "P02",
+  "order": 2,
+  "title": "Предсказание Ниламбары Чакраварти",
+  "summary": "Дед Господа Ниламбара Чакраварти, знаток шастр, по часу рождения предсказывает: внук родился, когда Юпитер в экзальтации; Он будет защитником мира, прибежищем всех дхарм, лучшим из санньяси и спасёт оба рода; все радуются.",
+  "persons": [
+   "@nilambara-chakravarti",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "prophecy",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Пророчество о санньясе Господа — уже при рождении.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-nilambara-prediction",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "23",
+    "to": "27"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "23",
+    "to": "27",
+    "line": 49,
+    "line_to": 57,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.05.md?plain=1#L49-L57",
+    "file_en": "murari-gupta/en/1.05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.05.md?plain=1#L49-L57"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения (Мурари 1.05.23)",
   "attestation": 1
  },
  {
@@ -1487,7 +2140,70 @@
    0,
    0
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0018",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 5, шлоки 28–29",
+  "file": "murari-gupta/ru/1.05.md",
+  "period": "P02",
+  "order": 5,
+  "title": "Джатакарма и обряды после рождения",
+  "summary": "Джаганнатха Мишра справляет праздник джатакармы, раздаёт брахманам бетель, сандал, гирлянды и благовония и по порядку совершает обряды, начиная с уттханы.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0036",
+  "notes": "Имя Нимай у Мурари не упомянуто.",
+  "themes": [
+   "festival",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-birth-festival-nimai-name",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "28",
+    "to": "29"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.05.md",
+    "from": "28",
+    "to": "29",
+    "line": 59,
+    "line_to": 61,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.05.md?plain=1#L59-L61",
+    "file_en": "murari-gupta/en/1.05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.05.md?plain=1#L59-L61"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "age": [
+   0,
+   0
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0037",
@@ -1548,7 +2264,65 @@
    0,
    1
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0020",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 4–6",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P02",
+  "order": 10,
+  "title": "Красота младенца Вишвамбхары",
+  "summary": "Золотистый младенец с лотосными глазами, одетый лишь ветром, в серебряном ожерелье и браслетах, с алыми ладонями и ступнями, растёт день ото дня, как луна в светлую половину месяца.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0037",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-infant-with-shachi",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "4",
+    "to": "6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "4",
+    "to": "6",
+    "line": 11,
+    "line_to": 15,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L11-L15",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L11-L15"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0038",
@@ -1612,7 +2386,70 @@
    0,
    1
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0019",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 1–3",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P02",
+  "order": 20,
+  "title": "Отец нарекает младенца Вишвамбхарой",
+  "summary": "Родители радуются ползающему, лепечущему младенцу; отец, помыслив, что Он издревле поддерживает вселенную, сам даёт Ему имя Шриман Вишвамбхара.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0038",
+  "notes": "Об обряде первого кормления рисом Мурари не говорит; имя даёт отец.",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-annaprashana-vishvambhara-name",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "1",
+    "to": "3"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "1",
+    "to": "3",
+    "line": 5,
+    "line_to": 9,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L5-L9",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L5-L9"
+   }
+  ],
+  "cc": "Ади 14",
+  "cb": "Ади 4",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0039",
@@ -1676,7 +2513,66 @@
    0,
    1
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0021",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлока 7",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P02",
+  "order": 30,
+  "title": "Первые шаги: алые стопы унимают жар земли",
+  "summary": "Младенец начинает ходить, и Его алые стопы унимают жар земли, страдавшей в разлуке с Ним.",
+  "persons": [
+   "@mahaprabhu",
+   "@prithivi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0039",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-first-steps",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "7",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "7",
+    "to": "7",
+    "line": 17,
+    "line_to": 17,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L17-L17",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L17-L17"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0040",
@@ -1805,6 +2701,131 @@
    0,
    1
   ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0026",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 31–35",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P02",
+  "order": 40,
+  "title": "Ночью дом полон богов; звон колокольчиков на босых ногах",
+  "summary": "Ночью Шачи видит, что дом полон людей, и в страхе отсылает сына к мужу; по пути Ему поклоняются боги, а от Его босых ног доносится звон ножных колокольчиков; изумлённый Джаганнатха видит, что стопы босы, и с радостью обнимает сына.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0041",
+  "notes": "Люди в доме — по-видимому, боги, пришедшие поклониться Господу (сноска перевода).",
+  "themes": [
+   "celestial",
+   "revelation",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "divergence": "Танца младенца с богами и песен о Радхе и Кришне (Лочан) у Мурари нет.",
+  "event": "ev-gods-worship-infant-anklets",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "31",
+    "to": "35"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "31",
+    "to": "35",
+    "line": 65,
+    "line_to": 73,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L65-L73",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L65-L73"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0022",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлока 8",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P03",
+  "order": 5,
+  "title": "Брахман-паломник: Дитя съедает его подношение",
+  "summary": "Джанардана съедает пищу странствующего по святым местам брахмана и тем напоминает ему о том же чуде в доме Нанды.",
+  "persons": [
+   "@mahaprabhu",
+   "@krishna"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "ЧБ Ади-кханда (рассказ о брахмане-паломнике)",
+  "notes": "Упоминание в одну шлоку; подробный рассказ — в «Чайтанья-бхагавате».",
+  "themes": [
+   "revelation",
+   "prasada",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "child",
+   "krishna"
+  ],
+  "event": "ev-tirthika-brahmana",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "8",
+    "to": "8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "8",
+    "to": "8",
+    "line": 19,
+    "line_to": 19,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L19-L19",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L19-L19"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
   "attestation": 1
  },
  {
@@ -1867,7 +2888,71 @@
    1,
    5
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0023",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 9–12",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P03",
+  "order": 10,
+  "title": "Игры со сверстниками, «обезьянка» и разбитые горшки",
+  "summary": "Хари, явившийся ребёнком силой йогамайи, играет с мальчиками, размахивая побегами, по-обезьяньи стоит на одной ноге; когда разгневанная мать хочет схватить Его, Он в гневе разбивает горшки, и Шачи — словно Яшода — трепещет, взглянув на Его лицо.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0042",
+  "notes": "Йогамайя — внутренняя энергия Господа, не внешняя майя (сноска перевода).",
+  "themes": [
+   "pranks",
+   "family",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "scriptures": [
+   "Бхаг. 10.9"
+  ],
+  "event": "ev-child-dust-broken-pots",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "9",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "9",
+    "to": "12",
+    "line": 21,
+    "line_to": 27,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L21-L27",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L21-L27"
+   }
+  ],
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0043",
@@ -2010,7 +3095,76 @@
    1,
    5
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0024",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 13–18",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P03",
+  "order": 30,
+  "title": "На груде выброшенных горшков: «чистое и нечистое — домысел ума»",
+  "summary": "Мальчик садится на груду выброшенных горшков; на упрёк Шачи Он, в настроении Даттатреи, отвечает: чистое и нечистое — лишь домысел ума, мир состоит из стихий, а сияет в нём один Хари — потому Он чист; мать уводит Его и омывает в Ганге.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0044; ЧЧ Ади 14",
+  "notes": "«Нет ничего иного» — нет ничего отдельного от Хари: мир — Его энергия (Бхаг. 1.5.20); это не учение о безличном единстве: Недвойственный — Сам Хари, личность (сноска перевода).",
+  "themes": [
+   "teaching",
+   "pranks"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "teaching": [
+   "purity",
+   "maya"
+  ],
+  "scriptures": [
+   "Бхаг. 1.5.20"
+  ],
+  "event": "ev-discarded-pots-teaching",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "13",
+    "to": "18"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "13",
+    "to": "18",
+    "line": 29,
+    "line_to": 39,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L29-L39",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L29-L39"
+   }
+  ],
+  "cc": "Ади 14",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0252",
@@ -2196,7 +3350,69 @@
    1,
    5
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0025",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 6, шлоки 19–30",
+  "file": "murari-gupta/ru/1.06.md",
+  "period": "P03",
+  "order": 50,
+  "title": "Кирпич, брошенный в мать, и два кокоса",
+  "summary": "Снова застав сына на груде горшков, Шачи бранит Его; Он в гневе бросает ей в лицо кирпич, она падает без чувств; Он плачет «Мама!» и Его прикосновение приводит её в себя; по шутке соседки Он приносит два свежих кокоса и грозным «хум!» заставляет изумлённых женщин умолкнуть.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0046; ЧЧ Ади 14",
+  "notes": "",
+  "themes": [
+   "pranks",
+   "revelation",
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-brick-two-coconuts",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "19",
+    "to": "30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.06.md",
+    "from": "19",
+    "to": "30",
+    "line": 41,
+    "line_to": 63,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.06.md?plain=1#L41-L63",
+    "file_en": "murari-gupta/en/1.06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.06.md?plain=1#L41-L63"
+   }
+  ],
+  "cc": "Ади 14",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0047",
@@ -2769,6 +3985,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/13.md?plain=1#L133-L190"
    }
   ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cc": "Ади 15",
   "cb": "Ади 7",
   "years": [
@@ -2781,7 +3998,73 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0027",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 1–8",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 10,
+  "title": "Санньяса Вишварупы; благословение родителей",
+  "summary": "По просьбе Дамодары Мурари рассказывает о Вишварупе — частице Баладевы: в шестнадцать лет он стал ачарьей, отрешённый и преданный; узнав, что отец ищет ему невесту, он оставил дом, переправился через Гангу и принял санньясу; родители, поплакав, благословили его быть верным дхарме санньясы.",
+  "persons": [
+   "@damodara-pandita",
+   "@murari-gupta",
+   "@vishvarupa",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0055–0056",
+  "notes": "Вишварупа — частица Баладевы (по традиции — Санкаршана). Возраст Вишварупы (16 лет) — косвенная опора для датировки: он относится к брату, а не к Господу.",
+  "themes": [
+   "sannyasa",
+   "family",
+   "separation"
+  ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту — тогда он уходит в санньясу",
+  "event": "ev-vishvarupa-sannyasa",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "1",
+    "to": "8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "1",
+    "to": "8",
+    "line": 5,
+    "line_to": 19,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L5-L19",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L5-L19"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 7",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0056",
@@ -2833,6 +4116,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/13.md?plain=1#L195-L265"
    }
   ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cc": "Ади 15",
   "cb": "Ади 7",
   "years": [
@@ -2845,7 +4129,71 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0028",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 9–11",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 15,
+  "title": "Вишвамбхара обещает служить родителям",
+  "summary": "Хари говорит отцу: «Брат ушёл далеко; служить тебе и матери буду Я — а ты будь счастлив»; родители обнимают Его и в слезах радости забывают обо всём, как йоги в самадхи.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0056",
+  "notes": "",
+  "themes": [
+   "family",
+   "separation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-vishvarupa-sannyasa",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "9",
+    "to": "11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "9",
+    "to": "11",
+    "line": 21,
+    "line_to": 25,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L21-L25",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L21-L25"
+   }
+  ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
+  "cc": "Ади 15",
+  "cb": "Ади 7",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0057",
@@ -3026,7 +4374,68 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0029",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 12–13",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 30,
+  "title": "Игры с мальчиками; отец бранит сына",
+  "summary": "Вишвамбхара учится и служит отцу, но, заигравшись с мальчиками, весь в пыли, забывает о еде; отец бранит Его за то, что Он забросил учение.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0059",
+  "notes": "Игра по следам птиц (Лочан) у Мурари не названа.",
+  "themes": [
+   "pranks",
+   "family",
+   "learning"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-bird-tracks-game-father-anger",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "12",
+    "to": "13"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "12",
+    "to": "13",
+    "line": 27,
+    "line_to": 29,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L27-L29",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L27-L29"
+   }
+  ],
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0060",
@@ -3088,7 +4497,66 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0030",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 14–17",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 35,
+  "title": "Сон Джаганнатхи Мишры: «Пусть даже мой сын — Сам Нараяна»",
+  "summary": "Под утро Мишре снится лучший из брахманов и упрекает: он не ценит сына, как скотина — философский камень; Мишра бесстрашно отвечает, что, будь его сын хоть Сам Нараяна, долг отца — наказывать Его, и брахман соглашается; люди, услышав о сне, радуются.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "vision",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0060",
+  "notes": "Пример ватсалья-премы: отец, даже зная о божественности сына, сохраняет отцовское отношение.",
+  "themes": [
+   "celestial",
+   "family",
+   "revelation"
+  ],
+  "event": "ev-jagannatha-mishra-dream",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "14",
+    "to": "17"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "14",
+    "to": "17",
+    "line": 31,
+    "line_to": 37,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L31-L37",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L31-L37"
+   }
+  ],
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0061",
@@ -3285,7 +4753,75 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0031",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 18–24",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 50,
+  "title": "Наставление об экадаши; Вишвамбхара на миг замирает",
+  "summary": "Сияя собственным алым светом, Вишвамбхара велит матери не есть в день Хари (экадаши), и она соглашается; съев бетель, поднесённый брахманом, Он говорит: «Я ухожу; береги тело сына» — и падает недвижим; мать омывает Его водой Ганги, и Он приходит в Себя; Джаганнатха дивится йогамайе.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0063",
+  "notes": "Йогамайя — внутренняя энергия Господа (сноска перевода).",
+  "themes": [
+   "teaching",
+   "festival",
+   "family"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "teaching": [
+   "purity"
+  ],
+  "calendar": "экадаши",
+  "event": "ev-ekadashi-instruction-shachi",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "18",
+    "to": "24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "18",
+    "to": "24",
+    "line": 39,
+    "line_to": 51,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L39-L51",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L39-L51"
+   }
+  ],
+  "cc": "Ади 15",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0064",
@@ -3350,7 +4886,91 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0032",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 7, шлоки 25–27; сарга 8, шлоки 1–10",
+  "file": "murari-gupta/ru/1.07.md",
+  "period": "P04",
+  "order": 52,
+  "title": "Сомнение Дамодары и ответ Мурари: Господь входит в сердце преданного",
+  "summary": "Дамодара спрашивает, как Сам Кришна мог сказать матери «Я ухожу, береги сына»; Мурари отвечает: когда преданный созерцает Господа, поёт и слушает о Нём, Хари входит в его сердце, и тот на время принимает Его облик и мощь, как Прахлада в океане или гопи; тело преданного — душа Бхагавана; примеры Нарады у Кеши-тиртхи и Рамы, явившего Шиве вселенский облик.",
+  "persons": [
+   "@damodara-pandita",
+   "@murari-gupta",
+   "@mahaprabhu",
+   "@narada",
+   "@rama",
+   "@shiva"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0064",
+  "notes": "Отождествление (тадатмья) — полное погружение любви, а не растворение преданного в Боге; «тело преданного — душа Бхагавана» — по Бхаг. 9.4.68: святые — сердце Господа, это не значит, что преданный становится Богом (сноски перевода).",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava",
+   "gaura-tattva"
+  ],
+  "scriptures": [
+   "Бхаг. 10.30",
+   "Бхаг. 9.4.68"
+  ],
+  "event": "ev-ekadashi-instruction-shachi",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "25",
+    "to": "27"
+   },
+   {
+    "file": "murari-gupta/ru/1.08.md",
+    "from": "1",
+    "to": "10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.07.md",
+    "from": "25",
+    "to": "27",
+    "line": 53,
+    "line_to": 57,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.07.md?plain=1#L53-L57",
+    "file_en": "murari-gupta/en/1.07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.07.md?plain=1#L53-L57"
+   },
+   {
+    "file": "murari-gupta/ru/1.08.md",
+    "from": "1",
+    "to": "10",
+    "line": 5,
+    "line_to": 23,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.08.md?plain=1#L5-L23",
+    "file_en": "murari-gupta/en/1.08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.08.md?plain=1#L5-L23"
+   }
+  ],
+  "calendar": "экадаши",
+  "cc": "Ади 15",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0065",
@@ -3416,7 +5036,71 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0033",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 8, шлоки 11–24",
+  "file": "murari-gupta/ru/1.08.md",
+  "period": "P04",
+  "order": 60,
+  "title": "Уход Джаганнатхи Мишры на берегу Ганги",
+  "summary": "Изучив Веды в доме учителя, Господь начинает учить; Джаганнатху Мишру настигает смертельная лихорадка; его приносят на берег Ганги под киртан, Вишвамбхара обнимает стопы отца, тот вручает сына стопам Рагхунатхи и днём, стоя в Ганге, при сонме богов восходит на небесной колеснице в обитель Хари; плач Шачи и Господа; Господь совершает поминальные обряды.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@rama",
+   "@indra"
+  ],
+  "places": [
+   "#ganga",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0065",
+  "notes": "Шл. 12 — упоминание: Господь изучил Веды, живя в доме учителя, и стал обучать учеников ещё при жизни отца (ср. 1.09.1: далее учится у пандитов). Тело Мишры вечно совершенно; смерть он явил по своей воле ради блага мира (шл. 19).",
+  "themes": [
+   "departure",
+   "family",
+   "separation"
+  ],
+  "event": "ev-jagannatha-mishra-departure",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.08.md",
+    "from": "11",
+    "to": "24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.08.md",
+    "from": "11",
+    "to": "24",
+    "line": 25,
+    "line_to": 51,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.08.md?plain=1#L25-L51",
+    "file_en": "murari-gupta/en/1.08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.08.md?plain=1#L25-L51"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0066",
@@ -3482,7 +5166,71 @@
    5,
    10
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0034",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 9, шлоки 1–4",
+  "file": "murari-gupta/ru/1.09.md",
+  "period": "P04",
+  "order": 70,
+  "title": "Учёба у Вишну Пандита, Сударшаны и Гангадаса",
+  "summary": "Господь продолжает учение у Вишну Пандита, Сударшаны Пандита и Гангадаса Пандита — ради их же блага и научения мира; Сам одаривает знанием брахманов и шутит с соучениками на восточнобенгальском наречии.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnu-pandita",
+   "@sudarshana-pandita",
+   "@gangadasa-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0066",
+  "notes": "Речь Ванги — восточная Бенгалия, откуда (из Шрихатты) происходил род Мишры (сноска перевода).",
+  "themes": [
+   "learning",
+   "pranks"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "event": "ev-study-gangadasa",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "1",
+    "to": "4",
+    "line": 5,
+    "line_to": 11,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.09.md?plain=1#L5-L11",
+    "file_en": "murari-gupta/en/1.09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.09.md?plain=1#L5-L11"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0067",
@@ -3542,7 +5290,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0035",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 9, шлоки 5–8",
+  "file": "murari-gupta/ru/1.09.md",
+  "period": "P05",
+  "order": 10,
+  "title": "Встреча с дочерью Валлабхачарьи на пути к Ганге",
+  "summary": "Возвращаясь от Ванамали Ачарьи, Господь видит на дороге дочь Валлабхачарьи, идущую с подругами омыться в Ганге, постигает сердцем, ради чего она родилась, и возвращается домой.",
+  "persons": [
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@vanamali-acharya",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0067",
+  "notes": "Дочь Валлабхачарьи — Лакшмиприя, сама Лакшми (сноска перевода).",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-lakshmipriya-first-meeting",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "5",
+    "to": "8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "5",
+    "to": "8",
+    "line": 13,
+    "line_to": 19,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.09.md?plain=1#L13-L19",
+    "file_en": "murari-gupta/en/1.09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.09.md?plain=1#L13-L19"
+   }
+  ],
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0068",
@@ -3603,7 +5411,68 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0036",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 9, шлоки 9–22",
+  "file": "murari-gupta/ru/1.09.md",
+  "period": "P05",
+  "order": 15,
+  "title": "Сватовство Ванамали Ачарьи: отказ и согласие Шачи",
+  "summary": "Ванамали Ачарья предлагает Шачи женить сына на дочери Валлабхачарьи; Шачи отказывает — сын ещё мальчик и лишился отца, пусть учится; встретив опечаленного Ачарью, Господь смеётся, а дома упрекает мать; Шачи вновь зовёт Ачарью и просит устроить свадьбу.",
+  "persons": [
+   "@vanamali-acharya",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0068",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "date_basis": "Мурари 1.09.11: Шачи — «сынок ещё мальчик», уже без отца (после ухода Джаганнатхи Мишры)",
+  "event": "ev-lakshmipriya-matchmaking",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "9",
+    "to": "22"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "9",
+    "to": "22",
+    "line": 21,
+    "line_to": 47,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.09.md?plain=1#L21-L47",
+    "file_en": "murari-gupta/en/1.09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.09.md?plain=1#L21-L47"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0069",
@@ -3664,7 +5533,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0037",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 9, шлоки 23–33",
+  "file": "murari-gupta/ru/1.09.md",
+  "period": "P05",
+  "order": 20,
+  "title": "Валлабха Мишра соглашается отдать дочь",
+  "summary": "Ванамали Ачарья приходит к Валлабхе Мишре и предлагает отдать дочь за Вишвамбхару Пандита; бедный Валлабха отвечает, что может дать лишь саму дочь, и союз состоится, если будет доволен Хари; Ачарья с радостью сообщает Шачи.",
+  "persons": [
+   "@vanamali-acharya",
+   "@vallabhacharya",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0069",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-lakshmipriya-matchmaking",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "23",
+    "to": "33"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "23",
+    "to": "33",
+    "line": 49,
+    "line_to": 69,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.09.md?plain=1#L49-L69",
+    "file_en": "murari-gupta/en/1.09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.09.md?plain=1#L49-L69"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0070",
@@ -3729,7 +5658,84 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0038",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 9, шлоки 34–38; сарга 10, шлоки 1–2",
+  "file": "murari-gupta/ru/1.09.md",
+  "period": "P05",
+  "order": 25,
+  "title": "Приготовления к свадьбе и адхиваса",
+  "summary": "По слову матери Господь собирает всё нужное; в благой час под мриданги и пение Вед, среди светильников и благовоний брахманы совершают адхивасу; Господь одаривает брахманов, а Валлабха с брахманами и их жёнами приходит почтить зятя и совершает адхивасу.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0070",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "34",
+    "to": "38"
+   },
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "1",
+    "to": "2"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.09.md",
+    "from": "34",
+    "to": "38",
+    "line": 71,
+    "line_to": 79,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.09.md?plain=1#L71-L79",
+    "file_en": "murari-gupta/en/1.09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.09.md?plain=1#L71-L79"
+   },
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "1",
+    "to": "2",
+    "line": 5,
+    "line_to": 7,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.10.md?plain=1#L5-L7",
+    "file_en": "murari-gupta/en/1.10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.10.md?plain=1#L5-L7"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0071",
@@ -3789,7 +5795,68 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0039",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 10, шлоки 3–12",
+  "file": "murari-gupta/ru/1.10.md",
+  "period": "P05",
+  "order": 30,
+  "title": "Нандимукха-шраддха; слёзы об отце",
+  "summary": "Утром Господь совершает омовение и нандимукха-шраддху; Шачи говорит, что без мужа ничего не может сделать сама, и Господь, вспомнив отца, плачет; на её упрёк Он отвечает, что всего у них вдоволь и сила Его неизмерима, но слова матери ранят Его; мать утешает Его.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0071",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival",
+   "separation"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "3",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "3",
+    "to": "12",
+    "line": 9,
+    "line_to": 27,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.10.md?plain=1#L9-L27",
+    "file_en": "murari-gupta/en/1.10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.10.md?plain=1#L9-L27"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0072",
@@ -3852,7 +5919,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0040",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 10, шлоки 13–20",
+  "file": "murari-gupta/ru/1.10.md",
+  "period": "P05",
+  "order": 35,
+  "title": "Наряд жениха и свадебное шествие к дому Валлабхи",
+  "summary": "Сыновья брахманов наряжают и умащают Гаурачандру; Валлабха украшает дочь и присылает брахманов за женихом; на носилках, при светильниках и кликах «Победа!», Господь отправляется к дому Мишры, где Валлабха встречает и чтит Его.",
+  "persons": [
+   "@mahaprabhu",
+   "@vallabhacharya",
+   "@lakshmipriya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0072–0073",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "13",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "13",
+    "to": "20",
+    "line": 29,
+    "line_to": 43,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.10.md?plain=1#L29-L43",
+    "file_en": "murari-gupta/en/1.10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.10.md?plain=1#L29-L43"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0073",
@@ -3913,7 +6040,7 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "lcm-0074",
@@ -3974,7 +6101,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0041",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 10, шлоки 21–27",
+  "file": "murari-gupta/ru/1.10.md",
+  "period": "P05",
+  "order": 45,
+  "title": "Валлабха отдаёт Лакшми Господу; возвращение домой",
+  "summary": "Валлабха приводит сияющую дочь; молодые, как Хара и Парвати, осыпают друг друга цветами; Валлабха омывает стопы Господа, подносит аргхью и по обряду вкладывает руку дочери в руку Хари; после праздника Вишвамбхара на носилках увозит Лакшми домой.",
+  "persons": [
+   "@mahaprabhu",
+   "@vallabhacharya",
+   "@lakshmipriya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0074–0076",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "21",
+    "to": "27"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.10.md",
+    "from": "21",
+    "to": "27",
+    "line": 45,
+    "line_to": 57,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.10.md?plain=1#L45-L57",
+    "file_en": "murari-gupta/en/1.10.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.10.md?plain=1#L45-L57"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0075",
@@ -4035,7 +6222,7 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "lcm-0076",
@@ -4097,7 +6284,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0042",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 11, шлоки 1–4",
+  "file": "murari-gupta/ru/1.11.md",
+  "period": "P05",
+  "order": 55,
+  "title": "Шачи вводит молодых в дом; все блага приходят в дом",
+  "summary": "Шачи с жёнами брахманов устраивает празднество, вводит невестку с сыном в дом и одаривает брахманов, ремесленников и плясунов; от одного взгляда Лакшми и Нараяны все блага сами приходят в дом Шачи.",
+  "persons": [
+   "@shachi",
+   "@mahaprabhu",
+   "@lakshmipriya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0076",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "1",
+    "to": "4",
+    "line": 5,
+    "line_to": 11,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.11.md?plain=1#L5-L11",
+    "file_en": "murari-gupta/en/1.11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.11.md?plain=1#L5-L11"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0253",
@@ -4348,7 +6595,71 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0043",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 11, шлоки 5–16",
+  "file": "murari-gupta/ru/1.11.md",
+  "period": "P05",
+  "order": 65,
+  "title": "Путешествие в Восточную Бенгалию; Падмавати становится святыней",
+  "summary": "Утвердившись в семейной жизни, Господь с учениками идёт на восток ради богатства; повсюду люди не могут наглядеться на Него, женщины называют Его Нараяной, а жену Его — Лакшми; на берегу Падмавати Он омывается, и река становится святой, как Ганга; несколько месяцев Он живёт там, обучая брахманов.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#east-bengal",
+   "#padmavati"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0079–0080",
+  "notes": "",
+  "themes": [
+   "pilgrimage",
+   "learning"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "date_basis": "Мурари 1.11.16: на Падмавати Господь провёл несколько месяцев",
+  "divergence": "У Мурари — только обучение брахманов; раздачи имени Хари в Восточной Бенгалии (Лочан, ЧБ Ади 14) он не упоминает.",
+  "event": "ev-east-bengal-tour",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "5",
+    "to": "16"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "5",
+    "to": "16",
+    "line": 13,
+    "line_to": 35,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.11.md?plain=1#L13-L35",
+    "file_en": "murari-gupta/en/1.11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.11.md?plain=1#L13-L35"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0080",
@@ -4414,7 +6725,7 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "lcm-0081",
@@ -4473,7 +6784,66 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0044",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 11, шлоки 17–20",
+  "file": "murari-gupta/ru/1.11.md",
+  "period": "P05",
+  "order": 75,
+  "title": "Лакшми служит Шачи и Божествам",
+  "summary": "В отсутствие мужа Лакшми служит свекрови — растирает ей стопы, — убирает покой Божеств, рисует благие знаки, подносит курения, светильники, пищу и гирлянды; Шачи любит её, как дочь.",
+  "persons": [
+   "@lakshmipriya",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0081",
+  "notes": "",
+  "themes": [
+   "family",
+   "deities"
+  ],
+  "event": "ev-lakshmipriya-departure",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "17",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "17",
+    "to": "20",
+    "line": 37,
+    "line_to": 43,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.11.md?plain=1#L37-L43",
+    "file_en": "murari-gupta/en/1.11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.11.md?plain=1#L37-L43"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0082",
@@ -4540,7 +6910,86 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0045",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 11, шлоки 21–28; сарга 12, шлоки 1–6",
+  "file": "murari-gupta/ru/1.11.md",
+  "period": "P05",
+  "order": 80,
+  "title": "Укус змеи и уход Лакшми в водах Ганги; плач Шачи",
+  "summary": "Змея жалит Лакшми в подошву; заклинатели бессильны, и Шачи относит её в Гангу, украшает гирляндой туласи и поёт киртан; при колесницах гандхарвов и песнях богов Махалакшми, вспоминая стопы Кришны, оставляет тело и уходит в свою обитель; Шачи горько оплакивает невестку, родич совершает обряд.",
+  "persons": [
+   "@lakshmipriya",
+   "@shachi",
+   "@brahma"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0082",
+  "notes": "Лакшмиприя — вечная супруга Господа, сама Лакшми; «оставила тело» означает лишь уход из земной лилы (сноска перевода).",
+  "themes": [
+   "departure",
+   "separation",
+   "family"
+  ],
+  "divergence": "Змея — обычная (у Лочана Даса — воплощённая разлука с Господом); Лакшми уходит в свою обитель как Махалакшми (у Лочана, изд. Бхактисиддханты, — в град Индры).",
+  "event": "ev-lakshmipriya-departure",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "21",
+    "to": "28"
+   },
+   {
+    "file": "murari-gupta/ru/1.12.md",
+    "from": "1",
+    "to": "6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.11.md",
+    "from": "21",
+    "to": "28",
+    "line": 45,
+    "line_to": 59,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.11.md?plain=1#L45-L59",
+    "file_en": "murari-gupta/en/1.11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.11.md?plain=1#L45-L59"
+   },
+   {
+    "file": "murari-gupta/ru/1.12.md",
+    "from": "1",
+    "to": "6",
+    "line": 5,
+    "line_to": 15,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.12.md?plain=1#L5-L15",
+    "file_en": "murari-gupta/en/1.12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.12.md?plain=1#L5-L15"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0083",
@@ -4603,7 +7052,71 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0046",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 12, шлоки 7–19",
+  "file": "murari-gupta/ru/1.12.md",
+  "period": "P05",
+  "order": 85,
+  "title": "Возвращение из Восточной Бенгалии; утешение Шачи рассказом об апсаре",
+  "summary": "Через несколько дней Господь возвращается с серебром, золотом и одеждами и видит печаль матери; выслушав о невестке, Он со слезами утешает её «скрывающим» рассказом: Индра проклял сбившуюся в танце апсару родиться дочерью человека и стать супругой Владыки, — или же то была сама Лакшми, ушедшая к стопам Господа; Шачи оставляет скорбь.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@lakshmipriya",
+   "@indra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#east-bengal"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0083",
+  "notes": "Рассказ об апсаре — утешение, скрывающее истину; в шл. 17 Господь намекает, что Его супруга — сама Лакшми (сноска перевода).",
+  "themes": [
+   "family",
+   "separation",
+   "teaching"
+  ],
+  "date_basis": "Мурари 1.12.7: возвращение через несколько дней после ухода Лакшми",
+  "event": "ev-return-from-east-bengal",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.12.md",
+    "from": "7",
+    "to": "19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.12.md",
+    "from": "7",
+    "to": "19",
+    "line": 17,
+    "line_to": 41,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.12.md?plain=1#L17-L41",
+    "file_en": "murari-gupta/en/1.12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.12.md?plain=1#L17-L41"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0084",
@@ -4664,7 +7177,126 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0047",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 13, шлоки 1–7",
+  "file": "murari-gupta/ru/1.13.md",
+  "period": "P05",
+  "order": 90,
+  "title": "Шачи посылает Кашинатху к Санатане Мишре",
+  "summary": "Шачи, задумав снова женить сына, посылает брахмана Кашинатху к пандиту Санатане просить его дочь; Санатана, посоветовавшись с женой и родными, соглашается, и обрадованная Шачи узнаёт об этом.",
+  "persons": [
+   "@shachi",
+   "@kashinatha",
+   "@sanatana-mishra",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0084",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "1",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "1",
+    "to": "7",
+    "line": 5,
+    "line_to": 17,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.13.md?plain=1#L5-L17",
+    "file_en": "murari-gupta/en/1.13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.13.md?plain=1#L5-L17"
+   }
+  ],
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0048",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 13, шлоки 8–17",
+  "file": "murari-gupta/ru/1.13.md",
+  "period": "P05",
+  "order": 92,
+  "title": "Посланец Санатаны у Шачи; сговор",
+  "summary": "Санатана — вайшнав, милосердный и гостеприимный — посылает брахмана к Шачи с предложением отдать дочь; Шачи радостно соглашается, а брахман желает, чтобы Вишнуприя оправдала своё имя и Вишвамбхара был блажен с ней, как Кришна с Рукмини; Санатана готовит всё к адхивасе.",
+  "persons": [
+   "@sanatana-mishra",
+   "@shachi",
+   "@vishnupriya",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0084",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "8",
+    "to": "17"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "8",
+    "to": "17",
+    "line": 19,
+    "line_to": 37,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.13.md?plain=1#L19-L37",
+    "file_en": "murari-gupta/en/1.13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.13.md?plain=1#L19-L37"
+   }
+  ],
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0085",
@@ -4723,7 +7355,82 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0049",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 13, шлоки 18–30; сарга 14, шлоки 1–2",
+  "file": "murari-gupta/ru/1.13.md",
+  "period": "P05",
+  "order": 95,
+  "title": "Шутка Господа со звездочётом; скорбь и утешение Санатаны",
+  "summary": "Звездочёт рассказывает Санатане, что Господь в ответ на напоминание об адхивасе спросил: «Чья свадьба?»; Санатана опечален, жена утешает его — нет их вины, не им настаивать; Господь, узнав об их печали, посылает к ним Своего брахмана, ласковыми речами успокаивает их и решает взять их дочь в жёны.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-mishra"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0085",
+  "notes": "",
+  "themes": [
+   "family",
+   "pranks",
+   "mercy"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "18",
+    "to": "30"
+   },
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "1",
+    "to": "2"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.13.md",
+    "from": "18",
+    "to": "30",
+    "line": 39,
+    "line_to": 63,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.13.md?plain=1#L39-L63",
+    "file_en": "murari-gupta/en/1.13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.13.md?plain=1#L39-L63"
+   },
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "1",
+    "to": "2",
+    "line": 5,
+    "line_to": 7,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.14.md?plain=1#L5-L7",
+    "file_en": "murari-gupta/en/1.14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.14.md?plain=1#L5-L7"
+   }
+  ],
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0086",
@@ -4787,7 +7494,69 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0050",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 14, шлоки 3–13",
+  "file": "murari-gupta/ru/1.14.md",
+  "period": "P05",
+  "order": 100,
+  "title": "Адхиваса жениха и невесты; утро свадьбы",
+  "summary": "В благой день при счастливом сочетании лагны, луны и накшатры Господь с брахманами совершает адхивасу и одаривает всех; Санатана присылает брахманов совершить адхивасу зятя и сам совершает её для дочери; утром Господь омывается в Ганге, совершает нандимукха-шраддху, Его наряжают, а Санатана украшает дочь.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-mishra",
+   "@vishnupriya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0086",
+  "notes": "День свадьбы выбран по астрологии (шл. 3), но дата не названа.",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "3",
+    "to": "13"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "3",
+    "to": "13",
+    "line": 9,
+    "line_to": 29,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.14.md?plain=1#L9-L29",
+    "file_en": "murari-gupta/en/1.14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.14.md?plain=1#L9-L29"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0087",
@@ -4849,7 +7618,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0051",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 14, шлоки 14–20",
+  "file": "murari-gupta/ru/1.14.md",
+  "period": "P05",
+  "order": 105,
+  "title": "Свадебное шествие",
+  "summary": "Брахманы приходят звать жениха; поклонившись матери, Господь садится в белые носилки и под клики «джая», пение Вед и музыку отправляется в путь, сияя среди светильников, как луна среди звёзд, — золотистый, как вершина Меру в Молочном океане.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@sanatana-mishra"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0087",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "14",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "14",
+    "to": "20",
+    "line": 31,
+    "line_to": 43,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.14.md?plain=1#L31-L43",
+    "file_en": "murari-gupta/en/1.14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.14.md?plain=1#L31-L43"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0088",
@@ -4910,7 +7739,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0052",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 14, шлоки 21–31",
+  "file": "murari-gupta/ru/1.14.md",
+  "period": "P05",
+  "order": 110,
+  "title": "Свадьба в доме Санатаны",
+  "summary": "Санатана с почётом вводит и чтит зятя; тёща с брахманскими жёнами совершает нирманчхану; Санатана вручает дочь у стоп Господа, Вишну и Вишнуприя осыпают друг друга цветами и сидят рядом, как Кришна с Рукмини в Двараке; Санатана вкладывает руку дочери в руку Господа.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-mishra",
+   "@vishnupriya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0088",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "21",
+    "to": "31"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "21",
+    "to": "31",
+    "line": 45,
+    "line_to": 65,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.14.md?plain=1#L45-L65",
+    "file_en": "murari-gupta/en/1.14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.14.md?plain=1#L45-L65"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0089",
@@ -4974,7 +7863,67 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0053",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 14, шлоки 32–33",
+  "file": "murari-gupta/ru/1.14.md",
+  "period": "P05",
+  "order": 115,
+  "title": "Возвращение с невестой; Шачи встречает молодых",
+  "summary": "После торжества Господь с женой возвращается домой, и Шачи с праведными женщинами радостно совершает обряд вступления в дом.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnupriya",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0089",
+  "notes": "",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "32",
+    "to": "33"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.14.md",
+    "from": "32",
+    "to": "33",
+    "line": 67,
+    "line_to": 69,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.14.md?plain=1#L67-L69",
+    "file_en": "murari-gupta/en/1.14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.14.md?plain=1#L67-L69"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0090",
@@ -5036,7 +7985,73 @@
    22,
    23
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0054",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 15, шлоки 1–6",
+  "file": "murari-gupta/ru/1.15.md",
+  "period": "P06",
+  "order": 10,
+  "title": "Господь-учитель; решение совершить обряд по отцу в Гае",
+  "summary": "Приветствуемый горожанами, Господь живёт дома, учит брахманов, вайдьев и добрых людей, затмевая красноречием Брихаспати и поэзией Шукру; Его стопы ласкает Вишнуприя; затем, наставляя людей, Он совершает шраддху и отправляется с брахманами в Гаю для обряда по отцу.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnupriya",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0090",
+  "notes": "",
+  "themes": [
+   "learning",
+   "pilgrimage",
+   "family"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "event": "ev-departure-for-gaya",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "1",
+    "to": "6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "1",
+    "to": "6",
+    "line": 5,
+    "line_to": 15,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.15.md?plain=1#L5-L15",
+    "file_en": "murari-gupta/en/1.15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.15.md?plain=1#L5-L15"
+   }
+  ],
+  "cc": "Ади 17",
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0091",
@@ -5094,7 +8109,60 @@
    22,
    23
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0055",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 15, шлока 7",
+  "file": "murari-gupta/ru/1.15.md",
+  "period": "P06",
+  "order": 20,
+  "title": "В пути: шутки со спутниками и забавы антилоп",
+  "summary": "По дороге Господь ведёт Себя как обычный человек: шутит, веселя праведников, и любуется забавами антилоп на равнинах.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0091",
+  "notes": "Наставления об оленях (Лочан) у Мурари нет — лишь любование.",
+  "themes": [
+   "pilgrimage"
+  ],
+  "event": "ev-gaya-journey-deer-lesson",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "7",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "7",
+    "to": "7",
+    "line": 17,
+    "line_to": 17,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.15.md?plain=1#L17-L17",
+    "file_en": "murari-gupta/en/1.15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.15.md?plain=1#L17-L17"
+   }
+  ],
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0092",
@@ -5160,7 +8228,73 @@
    22,
    23
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0056",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 15, шлоки 8–14",
+  "file": "murari-gupta/ru/1.15.md",
+  "period": "P06",
+  "order": 30,
+  "title": "Мандара: лихорадка, исцелённая водой со стоп брахманов; Пунахпуна и Раджагриха",
+  "summary": "Омывшись в реке Чорандхаяке, Господь видит Божества на горе Мандаре; в доме брахмана у подножия, преподавая урок, Он слегает в лихорадке и, признав лучшим лекарством служение стопам брахманов, пьёт воду с их стоп — ведь они преданы Мадхусудане; жар утихает; далее Он чтит брахманов и богов у Пунахпуны и у Брахма-кунды в Раджагрихе.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#mandara",
+   "#punahpuna",
+   "#rajagriha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0092",
+  "notes": "Господь пьёт воду со стоп брахманов, потому что они — вайшнавы, преданные Кришне (шл. 12), считая Себя одним из людей Кришны.",
+  "themes": [
+   "pilgrimage",
+   "teaching",
+   "deities"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-mandara-fever-brahmana-water",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "8",
+    "to": "14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "8",
+    "to": "14",
+    "line": 19,
+    "line_to": 31,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.15.md?plain=1#L19-L31",
+    "file_en": "murari-gupta/en/1.15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.15.md?plain=1#L19-L31"
+   }
+  ],
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0093",
@@ -5218,6 +8352,185 @@
   ],
   "cc": "Ади 17",
   "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0057",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 15, шлоки 15–19",
+  "file": "murari-gupta/ru/1.15.md",
+  "period": "P06",
+  "order": 40,
+  "title": "Встреча с Ишварой Пури в Гае; десятисложная мантра",
+  "summary": "Придя в Гаю, Господь видит Ишвару Пури, с глубокой преданностью кланяется и просит научить, как переплыть океан бытия и вкусить нектар стоп Кришны; Пури, постигнув Его сердце, даёт десятисложную мантру, и Гаурачандра славит его: прикосновение к его стопам дало Ему опьянение мёдом стоп Кришны.",
+  "persons": [
+   "@mahaprabhu",
+   "@ishvara-puri"
+  ],
+  "places": [
+   "#gaya"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0093; ЧБ Ади 17",
+  "notes": "Господь говорит как ищущий ученик, преподавая пример; Сам Он не подвластен круговороту рождений (сноска перевода). Шл. 15 сохранилась лишь наполовину.",
+  "themes": [
+   "ecstasy",
+   "pilgrimage"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "divergence": "Мантра — десятисложная (мантра Гопалы); у Лочана Даса — «мантра Гопинатхи».",
+  "event": "ev-gaya-ishvara-puri-initiation",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "15",
+    "to": "19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.15.md",
+    "from": "15",
+    "to": "19",
+    "line": 33,
+    "line_to": 41,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.15.md?plain=1#L33-L41",
+    "file_en": "murari-gupta/en/1.15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.15.md?plain=1#L33-L41"
+   }
+  ],
+  "cc": "Ади 17",
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0058",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 16, шлоки 1–3",
+  "file": "murari-gupta/ru/1.16.md",
+  "period": "P06",
+  "order": 44,
+  "title": "Обряды для предков на Пхалгу, Преташиле и манасах",
+  "summary": "Показав преданность гуру, Господь чтит предков и богов на Пхалгу, подносит пинды на Преташиле, одаривает брахманов, совершает шраддху у Дакшина- и Уттара-манасы и у Джихвачапалы и идёт к главе Гаи.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gaya"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0094",
+  "notes": "",
+  "themes": [
+   "pilgrimage",
+   "festival"
+  ],
+  "event": "ev-gaya-vishnupada-prema",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "1",
+    "to": "3"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "1",
+    "to": "3",
+    "line": 5,
+    "line_to": 9,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.16.md?plain=1#L5-L9",
+    "file_en": "murari-gupta/en/1.16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.16.md?plain=1#L5-L9"
+   }
+  ],
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0059",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 16, шлоки 4–5",
+  "file": "murari-gupta/ru/1.16.md",
+  "period": "P06",
+  "order": 45,
+  "title": "Джаганнатха Мишра является принять пинду",
+  "summary": "У Шестнадцати алтарей Господь подносит пинду, и Джаганнатха Мишра Пурандара, явившись воочию, радостно принимает её — как некогда отец Рамы принял пинду из рук Рамы.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@rama"
+  ],
+  "places": [
+   "#gaya"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Известно лишь Мурари (среди переведённых источников).",
+  "themes": [
+   "family",
+   "celestial",
+   "pilgrimage"
+  ],
+  "event": "ev-jagannatha-mishra-accepts-pinda",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "4",
+    "to": "5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "4",
+    "to": "5",
+    "line": 11,
+    "line_to": 13,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.16.md?plain=1#L11-L13",
+    "file_en": "murari-gupta/en/1.16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.16.md?plain=1#L11-L13"
+   }
+  ],
   "years": [
    1508,
    1509
@@ -5290,7 +8603,68 @@
    22,
    23
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0060",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 16, шлоки 6–7",
+  "file": "murari-gupta/ru/1.16.md",
+  "period": "P06",
+  "order": 50,
+  "title": "Према у следа стопы Вишну",
+  "summary": "Увидев в Вишнупаде след стопы Хари, Господь сетует, что не ощутил пробуждения любви; но когда след омывают прохладной водой, Его охватывают дрожь, трепет и потоки слёз любви.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gaya"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0094",
+  "notes": "Можно понять и так, что прохладной водой омыло Самого Господа (сноска перевода).",
+  "themes": [
+   "ecstasy",
+   "pilgrimage",
+   "deities"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "event": "ev-gaya-vishnupada-prema",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "6",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "6",
+    "to": "7",
+    "line": 15,
+    "line_to": 17,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.16.md?plain=1#L15-L17",
+    "file_en": "murari-gupta/en/1.16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.16.md?plain=1#L15-L17"
+   }
+  ],
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0095",
@@ -5357,7 +8731,71 @@
    22,
    23
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0061",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 16, шлоки 8–11",
+  "file": "murari-gupta/ru/1.16.md",
+  "period": "P06",
+  "order": 60,
+  "title": "Желание уйти в Мадхувану; небесный голос; возвращение домой",
+  "summary": "Вне Себя от любви Господь хочет оставить Гаю и уйти в Мадхувану; бесплотный голос велит Ему вернуться домой — в должное время Он по Своей воле придёт и в Мадхувану, ведь слово Его слуг Он должен сделать истинным; Господь возвращается и кланяется матери, а у Шачи слёзы радости.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#gaya",
+   "#vrindavana",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0095",
+  "notes": "Мадхувана — Матхура-мандала, Врадж (сноска перевода).",
+  "themes": [
+   "celestial",
+   "pilgrimage",
+   "separation"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "event": "ev-gaya-heavenly-voice-return",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "8",
+    "to": "11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "8",
+    "to": "11",
+    "line": 19,
+    "line_to": 25,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.16.md?plain=1#L19-L25",
+    "file_en": "murari-gupta/en/1.16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.16.md?plain=1#L19-L25"
+   }
+  ],
+  "cb": "Ади 17",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0097",
@@ -15565,6 +19003,53 @@
   "attestation": 1
  },
  {
+  "id": "mkc-0001",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 1, шлоки 1–7",
+  "file": "murari-gupta/ru/1.01.md",
+  "period": "PX",
+  "order": 0,
+  "title": "Благословение: хвала Гауре и краткий перечень Его игр",
+  "summary": "Хвала золотому Господу, сыну Джаганнатхи и Шачи; Он учится в доме гуру, заповедует киртану Хари, в Гае, совершая обряд для предков, цепенеет от любви, по небесному голосу возвращается домой и с преданными предаётся киртане.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#gaya"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "Лочан, Сутра-кханда (lcm-0001, lcm-0003)",
+  "notes": "Мангала и краткое содержание (упоминание лил: учёба, Гая, небесный голос, киртан).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "1",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "1",
+    "to": "7",
+    "line": 5,
+    "line_to": 17,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.01.md?plain=1#L5-L17",
+    "file_en": "murari-gupta/en/1.01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.01.md?plain=1#L5-L17"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0002",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Мангалачарана», 45–61",
@@ -15678,6 +19163,52 @@
    }
   ],
   "cc": "Ади 3",
+  "attestation": 1
+ },
+ {
+  "id": "mkc-0002",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 1, шлоки 8–15",
+  "file": "murari-gupta/ru/1.01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Шриваса велит Мурари рассказать о Господе; смирение автора",
+  "summary": "Шриваса Пандит велит Мурари Гупте поведать новое жизнеописание Хари; Мурари кланяется, сомневается в своих силах, но решает исполнить повеление вайшнава и, склонившись перед четырёхруким Чайтаньей, начинает повествование.",
+  "persons": [
+   "@srivasa",
+   "@murari-gupta",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0002 (о книге Мурари)",
+  "notes": "Повод к написанию — повеление Шривасы; далее (1.02.15) рамка — беседа с Дамодарой Пандитом.",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "8",
+    "to": "15"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.01.md",
+    "from": "8",
+    "to": "15",
+    "line": 19,
+    "line_to": 33,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.01.md?plain=1#L19-L33",
+    "file_en": "murari-gupta/en/1.01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.01.md?plain=1#L19-L33"
+   }
+  ],
   "attestation": 1
  },
  {
@@ -15815,6 +19346,51 @@
   "attestation": 1
  },
  {
+  "id": "mkc-0006",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 2, шлоки 11–14",
+  "file": "murari-gupta/ru/1.02.md",
+  "period": "PX",
+  "order": 2,
+  "title": "Господь — младший брат Вишварупы: игры Его вкратце",
+  "summary": "Младшим братом Вишварупы родился Сам Господь, как Упендра — младший брат Индры; Он сделал три мира преданными санкиртане, жил в Пурушоттаме, давал вкусить сладость Вриндавана и, спасши мир, удалился в Свою обитель.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishvarupa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Краткий обзор всей лилы, включая уход Господа (шл. 14, упоминание).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "11",
+    "to": "14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "11",
+    "to": "14",
+    "line": 25,
+    "line_to": 31,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.02.md?plain=1#L25-L31",
+    "file_en": "murari-gupta/en/1.02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L25-L31"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0004",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Мангалачарана», 90–124",
@@ -15926,6 +19502,54 @@
    }
   ],
   "attestation": 1
+ },
+ {
+  "id": "mkc-0007",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 2, шлоки 15–21",
+  "file": "murari-gupta/ru/1.02.md",
+  "period": "PX",
+  "order": 3,
+  "title": "Вопрос Дамодары Пандита: ради чего родился Господь",
+  "summary": "Брахмачари Дамодара Пандит просит Мурари рассказать, ради чего родился на земле Владыка всего и что Он совершил; Мурари соглашается рассказать вкратце, насколько хватит сил.",
+  "persons": [
+   "@damodara-pandita",
+   "@murari-gupta",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0006",
+  "notes": "С этой шлоки поэма построена как беседа Дамодары и Мурари.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "event": "ev-damodara-murari-question",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "15",
+    "to": "21"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.02.md",
+    "from": "15",
+    "to": "21",
+    "line": 33,
+    "line_to": 45,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.02.md?plain=1#L33-L45",
+    "file_en": "murari-gupta/en/1.02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L33-L45"
+   }
+  ],
+  "attestation": 2
  },
  {
   "id": "lcm-0005",
@@ -16072,6 +19696,117 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/02.md?plain=1#L203-L242",
     "file_en": "lochana/en/02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/02.md?plain=1#L203-L242"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "mkc-0013",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 4, шлоки 17–33",
+  "file": "murari-gupta/ru/1.04.md",
+  "period": "PX",
+  "order": 6,
+  "title": "Два вида аватар: аватары юг и аватары ради особого дела",
+  "summary": "Аватары юг утверждают дхарму века: в Сатью — белый четырёхрукий учитель созерцания, в Трету — Ягья, в Двапару — Притху, учащий поклонению, в Кали — Сам Шри Чайтанья, поющий киртану; аватары ради особого дела — Рыба, Черепаха, Вепрь, Нрисимха, Вамана, Парашурама, Рама, Кришна, Будда и Калки.",
+  "persons": [
+   "@murari-gupta",
+   "@damodara-pandita",
+   "@mahaprabhu",
+   "@varaha",
+   "@nrisimha",
+   "@rama",
+   "@krishna"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Лочан, lcm-0018–0020 (Брахма об аватарах юг)",
+  "notes": "Шри Чайтанья назван юга-аватарой Кали, но по учению гаудия-вайшнавов Он не один из аватар наравне с прочими, а Сам Кришна в настроении и сиянии Радхи (так и у Мурари 4.20.19, 4.26.18; сноска перевода).",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "yuga-dharma",
+   "gaura-tattva",
+   "holy-name"
+  ],
+  "scriptures": [
+   "Бхаг. 11.5.32",
+   "Бхаг. 11.5.27–28"
+  ],
+  "divergence": "Аватарой Двапара-юги назван Притху (Бхаг. 11.5.27–28 описывает темнокожий облик в жёлтых одеждах).",
+  "event": "ev-avatara-kinds",
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "17",
+    "to": "33"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.04.md",
+    "from": "17",
+    "to": "33",
+    "line": 37,
+    "line_to": 69,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.04.md?plain=1#L37-L69",
+    "file_en": "murari-gupta/en/1.04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.04.md?plain=1#L37-L69"
+   }
+  ],
+  "cc": "Мадхья 20",
+  "attestation": 1
+ },
+ {
+  "id": "mkc-0062",
+  "source": "murari-kcc",
+  "ref": "Пракрама 1, сарга 16, шлоки 12–20",
+  "file": "murari-gupta/ru/1.16.md",
+  "period": "PX",
+  "order": 7,
+  "title": "Краткий взгляд на дальнейшее: према в Навадвипе, санньяса, Пури, юг, Матхура; плод слушания",
+  "summary": "Дома Господь плачет и зовёт «Хари! Кришна!», поёт и танцует со Шривасой, подражая аватарам; затем принимает санньясу, с Мукундой и другими приходит в Пури, идёт к мосту Рамы, обнимает семь тамал, видит Курму, возвращается в Пури, идёт в Матхуру и снова в Пури; слушающий о Его обрядах в Гае обретает плод паломничества.",
+  "persons": [
+   "@mahaprabhu",
+   "@srivasa",
+   "@mukunda-datta",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#navadvipa",
+   "#puri",
+   "#setubandha",
+   "#kurma-kshetra",
+   "#mathura"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Шл. 12–13 — упоминание экстаза и киртана в Навадвипе после Гаи (подробно — пракрама 2); шл. 14–19 предвосхищают пракрамы 2–4 (упоминание лил); шл. 20 — плод слушания (пхала-шрути).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "12",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "murari-gupta/ru/1.16.md",
+    "from": "12",
+    "to": "20",
+    "line": 27,
+    "line_to": 43,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/1.16.md?plain=1#L27-L43",
+    "file_en": "murari-gupta/en/1.16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.16.md?plain=1#L27-L43"
    }
   ],
   "attestation": 1

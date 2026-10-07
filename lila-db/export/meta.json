@@ -19,10 +19,6 @@
   "PX": "Вне шкалы: богословие, вандана, слово автора о себе"
  },
  "period_years": {
-  "P01": [
-   1486,
-   1486
-  ],
   "P02": [
    1486,
    1487
@@ -206,6 +202,7 @@
   "@raghunandana",
   "@rama",
   "@rama-dravida-vipra",
+  "@rama-muni-dravida",
   "@ramananda-raya",
   "@ranganatha-deity",
   "@revati",
@@ -251,6 +248,7 @@
   "#alalanatha",
   "#bhubaneshvara",
   "#brahmaloka",
+  "#dravida",
   "#dvaraka",
   "#east-bengal",
   "#ganga",
@@ -280,8 +278,10 @@
   "#padmavati",
   "#panchavati",
   "#prayaga",
+  "#punahpuna",
   "#puri",
   "#radha-desha",
+  "#rajagriha",
   "#ranga-kshetra",
   "#remuna",
   "#setubandha",

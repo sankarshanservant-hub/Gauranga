@@ -12,10 +12,12 @@
   ],
   "notes": "Мурари 1.02–1.03.",
   "entries": [
-   "lcm-0007"
+   "lcm-0007",
+   "mkc-0008"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -34,10 +36,12 @@
   "notes": "Причина явления — желание Кришны познать любовь Радхи (ср. ЧЧ Ади 4). У Мурари (1.03) Нарада молит Господа о мире в Кали на Вайкунтхе.",
   "entries": [
    "lcm-0008",
+   "mkc-0009",
    "lcm-0009"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -324,6 +328,46 @@
   ]
  },
  {
+  "id": "ev-haridasa-previous-birth",
+  "title": "Прежнее рождение Харидаса: неомытая туласи",
+  "title_en": "Haridasa's previous birth: the unwashed tulasi",
+  "period": "P00",
+  "order": 38,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "celestial"
+  ],
+  "notes": "Мурари 1.04.8–12: мудрец Рама из Дравиды поднёс Господу неомытую туласи и потому родился в роду яванов; Харидас — также частица Брахмы.",
+  "entries": [
+   "mkc-0011"
+  ],
+  "sources": [
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-navadvipa-vaishnavas-before-advent",
+  "title": "Навадвипа и её вайшнавы до явления Господа",
+  "title_en": "Navadvipa and its Vaishnavas before the Lord's advent",
+  "period": "P01",
+  "order": 2,
+  "cc": "",
+  "cb": "Ади 2",
+  "themes": [
+   "celestial",
+   "kirtan"
+  ],
+  "notes": "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра).",
+  "entries": [
+   "mkc-0003"
+  ],
+  "sources": [
+   "murari-kcc"
+  ]
+ },
+ {
   "id": "ev-associates-descend",
   "title": "Нисхождение спутников Господа",
   "title_en": "The descent of the Lord's associates",
@@ -335,21 +379,52 @@
    "celestial"
   ],
   "notes": "Мурари 1.04; отождествления — «Гаура-ганоддеша-дипика».",
-  "years": [
-   1486,
-   1486
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
-  ],
   "entries": [
-   "lcm-0029"
+   "lcm-0029",
+   "mkc-0010",
+   "mkc-0012"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-mishra-marries-shachi",
+  "title": "Женитьба Джаганнатхи Мишры на Шачи",
+  "title_en": "Jagannatha Mishra marries Shachi",
+  "period": "P01",
+  "order": 10,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.02.1–4: Шачи — дочь Ниламбары Чакраварти; гуру даёт Джаганнатхе звание «Мишра Пурандара».",
+  "entries": [
+   "mkc-0004"
+  ],
+  "sources": [
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-vishvarupa-birth",
+  "title": "Смерть восьми дочерей Шачи и рождение Вишварупы",
+  "title_en": "The death of Shachi's eight daughters and the birth of Vishvarupa",
+  "period": "P01",
+  "order": 20,
+  "cc": "Ади 13",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "Мурари 1.02.5–10.",
+  "entries": [
+   "mkc-0005"
+  ],
+  "sources": [
+   "murari-kcc"
   ]
  },
  {
@@ -372,10 +447,12 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
-   "lcm-0032"
+   "lcm-0032",
+   "mkc-0014"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -390,16 +467,6 @@
    "revelation"
   ],
   "notes": "Известно лишь Лочану Дасу (нет у Мурари, в ЧБ и ЧЧ).",
-  "years": [
-   1486,
-   1486
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
-  ],
   "entries": [
    "lcm-0033"
   ],
@@ -420,21 +487,13 @@
    "revelation"
   ],
   "notes": "Мурари 1.05.",
-  "years": [
-   1486,
-   1486
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   0,
-   0
-  ],
   "entries": [
-   "lcm-0034"
+   "lcm-0034",
+   "mkc-0015"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -453,7 +512,7 @@
    0
   ],
   "date_conf": "точно",
-  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98)",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения",
   "cc": "Ади 13",
   "cb": "Ади 3",
   "themes": [
@@ -463,10 +522,42 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
-   "lcm-0035"
+   "lcm-0035",
+   "mkc-0016"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-nilambara-prediction",
+  "title": "Ниламбара Чакраварти предсказывает величие новорождённого",
+  "title_en": "Nilambara Chakravarti foretells the newborn's greatness",
+  "period": "P02",
+  "order": 2,
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения (Мурари 1.05.23)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "notes": "Мурари 1.05.23–27: Юпитер в экзальтации; предсказана санньяса.",
+  "entries": [
+   "mkc-0017"
+  ],
+  "sources": [
+   "murari-kcc"
   ]
  },
  {
@@ -493,10 +584,12 @@
    0
   ],
   "entries": [
-   "lcm-0036"
+   "lcm-0036",
+   "mkc-0018"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -522,10 +615,12 @@
    1
   ],
   "entries": [
-   "lcm-0037"
+   "lcm-0037",
+   "mkc-0020"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -552,10 +647,12 @@
    1
   ],
   "entries": [
-   "lcm-0038"
+   "lcm-0038",
+   "mkc-0019"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -581,10 +678,12 @@
    1
   ],
   "entries": [
-   "lcm-0039"
+   "lcm-0039",
+   "mkc-0021"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -641,10 +740,43 @@
    1
   ],
   "entries": [
-   "lcm-0041"
+   "lcm-0041",
+   "mkc-0026"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-tirthika-brahmana",
+  "title": "Брахман-паломник: Дитя съедает его подношение",
+  "title_en": "The pilgrim brahmana: the Child eats his offering",
+  "period": "P03",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "prasada",
+   "krishna-lila"
+  ],
+  "notes": "Мурари 1.06.8 (упоминание); подробно — «Чайтанья-бхагавата», Ади-кханда.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "mkc-0022"
+  ],
+  "sources": [
+   "murari-kcc"
   ]
  },
  {
@@ -671,10 +803,12 @@
    5
   ],
   "entries": [
-   "lcm-0042"
+   "lcm-0042",
+   "mkc-0023"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -731,10 +865,12 @@
    5
   ],
   "entries": [
-   "lcm-0044"
+   "lcm-0044",
+   "mkc-0024"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -822,10 +958,12 @@
    5
   ],
   "entries": [
-   "lcm-0046"
+   "lcm-0046",
+   "mkc-0025"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1018,6 +1156,7 @@
   "title_en": "Vishvarupa's sannyasa",
   "period": "P04",
   "order": 10,
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cc": "Ади 15",
   "cb": "Ади 7",
   "themes": [
@@ -1038,10 +1177,13 @@
   ],
   "entries": [
    "lcm-0055",
-   "lcm-0056"
+   "mkc-0027",
+   "lcm-0056",
+   "mkc-0028"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1129,10 +1271,12 @@
    10
   ],
   "entries": [
-   "lcm-0059"
+   "lcm-0059",
+   "mkc-0029"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1160,10 +1304,12 @@
    10
   ],
   "entries": [
-   "lcm-0060"
+   "lcm-0060",
+   "mkc-0030"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1253,10 +1399,13 @@
   ],
   "entries": [
    "lcm-0063",
-   "lcm-0064"
+   "mkc-0031",
+   "lcm-0064",
+   "mkc-0032"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1284,10 +1433,12 @@
    10
   ],
   "entries": [
-   "lcm-0065"
+   "lcm-0065",
+   "mkc-0033"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1314,10 +1465,12 @@
    10
   ],
   "entries": [
-   "lcm-0066"
+   "lcm-0066",
+   "mkc-0034"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1343,10 +1496,12 @@
    22
   ],
   "entries": [
-   "lcm-0067"
+   "lcm-0067",
+   "mkc-0035"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1373,10 +1528,13 @@
   ],
   "entries": [
    "lcm-0068",
-   "lcm-0069"
+   "mkc-0036",
+   "lcm-0069",
+   "mkc-0037"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1404,15 +1562,21 @@
   ],
   "entries": [
    "lcm-0070",
+   "mkc-0038",
    "lcm-0071",
+   "mkc-0039",
    "lcm-0072",
+   "mkc-0040",
    "lcm-0073",
    "lcm-0074",
+   "mkc-0041",
    "lcm-0075",
-   "lcm-0076"
+   "lcm-0076",
+   "mkc-0042"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1501,10 +1665,12 @@
   ],
   "entries": [
    "lcm-0079",
+   "mkc-0043",
    "lcm-0080"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1533,10 +1699,13 @@
   ],
   "entries": [
    "lcm-0081",
-   "lcm-0082"
+   "mkc-0044",
+   "lcm-0082",
+   "mkc-0045"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1564,10 +1733,12 @@
    22
   ],
   "entries": [
-   "lcm-0083"
+   "lcm-0083",
+   "mkc-0046"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1595,10 +1766,14 @@
   ],
   "entries": [
    "lcm-0084",
-   "lcm-0085"
+   "mkc-0047",
+   "mkc-0048",
+   "lcm-0085",
+   "mkc-0049"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1626,12 +1801,17 @@
   ],
   "entries": [
    "lcm-0086",
+   "mkc-0050",
    "lcm-0087",
+   "mkc-0051",
    "lcm-0088",
-   "lcm-0089"
+   "mkc-0052",
+   "lcm-0089",
+   "mkc-0053"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1658,10 +1838,12 @@
    23
   ],
   "entries": [
-   "lcm-0090"
+   "lcm-0090",
+   "mkc-0054"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1688,10 +1870,12 @@
    23
   ],
   "entries": [
-   "lcm-0091"
+   "lcm-0091",
+   "mkc-0055"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1719,10 +1903,12 @@
    23
   ],
   "entries": [
-   "lcm-0092"
+   "lcm-0092",
+   "mkc-0056"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1749,10 +1935,43 @@
    23
   ],
   "entries": [
-   "lcm-0093"
+   "lcm-0093",
+   "mkc-0057"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-mishra-accepts-pinda",
+  "title": "Джаганнатха Мишра является в Гае принять пинду",
+  "title_en": "Jagannatha Mishra appears in Gaya to accept the pinda",
+  "period": "P06",
+  "order": 45,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial",
+   "pilgrimage"
+  ],
+  "notes": "Мурари 1.16.4–5 (у Шестнадцати алтарей; сравнение с Рамой и Дашаратхой).",
+  "years": [
+   1508,
+   1509
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   22,
+   23
+  ],
+  "entries": [
+   "mkc-0059"
+  ],
+  "sources": [
+   "murari-kcc"
   ]
  },
  {
@@ -1780,10 +1999,13 @@
    23
   ],
   "entries": [
-   "lcm-0094"
+   "mkc-0058",
+   "lcm-0094",
+   "mkc-0060"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -1810,10 +2032,12 @@
    23
   ],
   "entries": [
-   "lcm-0095"
+   "lcm-0095",
+   "mkc-0061"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
   ]
  },
  {
@@ -5322,10 +5546,31 @@
   ],
   "notes": "Рамка повествования Мурари Гупты (Мурари 1.01–1.02).",
   "entries": [
+   "mkc-0007",
    "lcm-0006"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-avatara-kinds",
+  "title": "Виды аватар: аватары юг и аватары ради особого дела",
+  "title_en": "Kinds of avataras: yuga-avataras and avataras for a special purpose",
+  "period": "PX",
+  "order": 6,
+  "cc": "Мадхья 20",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Богословская тема, не эпизод жизни. Мурари 1.04.17–33; ср. рассуждения Брахмы (ev-brahma-yuga-avatara-discourse) и пандитов (ev-pandits-recognize-vishvambhara) у Лочана Даса.",
+  "entries": [
+   "mkc-0013"
+  ],
+  "sources": [
+   "murari-kcc"
   ]
  }
 ]

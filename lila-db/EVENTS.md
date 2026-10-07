@@ -5,10 +5,12 @@
 ## Скорбь Нарады о людях Кали-юги / Narada's grief over the people of Kali-yuga  `ev-narada-kali-sorrow`
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 15–37 — [15–32](../lochana/ru/02.md?plain=1#L245-L296); [33–37](../lochana/ru/03.md?plain=1#L5-L17) · `lcm-0007`
+- murari-kcc (A): Пракрама 1, сарга 2, шлоки 22–29; сарга 3, шлоки 1–4 — [22–29](../murari-gupta/ru/1.02.md?plain=1#L47-L61); [1–4](../murari-gupta/ru/1.03.md?plain=1#L5-L11) · `mkc-0008`
 
 ## Нарада в Двараке: слёзы Рукмини и обет Кришны явиться Гаурой / Narada in Dvaraka: Rukmini's tears and Krishna's vow to appear as Gaura  `ev-narada-dvaraka-rukmini`
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 38–79 — [38–79](../lochana/ru/03.md?plain=1#L20-L177) · `lcm-0008`
+- murari-kcc (A): Пракрама 1, сарга 3, шлоки 5–23 — [5–23](../murari-gupta/ru/1.03.md?plain=1#L13-L49) · `mkc-0009`
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 80–116 — [80–116](../lochana/ru/03.md?plain=1#L184-L294) · `lcm-0009`
 
 ## Нарада и Уддхава в Наймишаранье / Narada and Uddhava in Naimisharanya  `ev-narada-uddhava-naimisharanya`
@@ -72,41 +74,70 @@
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 568–598 — [568–598](../lochana/ru/08.md?plain=1#L146-L296) · `lcm-0028`
 
-## Нисхождение спутников Господа / The descent of the Lord's associates  `ev-associates-descend` (1486–1486, возраст 0–0, оценка)
+## Прежнее рождение Харидаса: неомытая туласи / Haridasa's previous birth: the unwashed tulasi  `ev-haridasa-previous-birth`
+
+- murari-kcc (A): Пракрама 1, сарга 4, шлоки 8–12 — [8–12](../murari-gupta/ru/1.04.md?plain=1#L19-L27) · `mkc-0011`
+
+## Навадвипа и её вайшнавы до явления Господа / Navadvipa and its Vaishnavas before the Lord's advent  `ev-navadvipa-vaishnavas-before-advent`
+
+- murari-kcc (A): Пракрама 1, сарга 1, шлоки 16–24 — [16–24](../murari-gupta/ru/1.01.md?plain=1#L35-L51) · `mkc-0003`
+
+## Нисхождение спутников Господа / The descent of the Lord's associates  `ev-associates-descend`
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 599–631 — [599–631](../lochana/ru/08.md?plain=1#L303-L399) · `lcm-0029`
+- murari-kcc (A): Пракрама 1, сарга 4, шлоки 1–7 — [1–7](../murari-gupta/ru/1.04.md?plain=1#L5-L17) · `mkc-0010`
+- murari-kcc (A): Пракрама 1, сарга 4, шлоки 13–16 — [13–16](../murari-gupta/ru/1.04.md?plain=1#L29-L35) · `mkc-0012`
+
+## Женитьба Джаганнатхи Мишры на Шачи / Jagannatha Mishra marries Shachi  `ev-jagannatha-mishra-marries-shachi`
+
+- murari-kcc (A): Пракрама 1, сарга 2, шлоки 1–4 — [1–4](../murari-gupta/ru/1.02.md?plain=1#L5-L11) · `mkc-0004`
+
+## Смерть восьми дочерей Шачи и рождение Вишварупы / The death of Shachi's eight daughters and the birth of Vishvarupa  `ev-vishvarupa-birth`
+
+- murari-kcc (A): Пракрама 1, сарга 2, шлоки 5–10 — [5–10](../murari-gupta/ru/1.02.md?plain=1#L13-L23) · `mkc-0005`
 
 ## Господь входит в лоно Шачи / The Lord enters Shachi's womb  `ev-lord-enters-shachi-womb`
 
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 1–13 — [1–13](../lochana/ru/09.md?plain=1#L11-L47) · `lcm-0032`
+- murari-kcc (A): Пракрама 1, сарга 5, шлоки 1–4 — [1–4](../murari-gupta/ru/1.05.md?plain=1#L5-L11) · `mkc-0014`
 
-## Адвайта поклоняется лону Шачи / Advaita worships Shachi's womb  `ev-advaita-worships-shachi-womb` (1486–1486, возраст 0–0, оценка)
+## Адвайта поклоняется лону Шачи / Advaita worships Shachi's womb  `ev-advaita-worships-shachi-womb`
 
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 14–31 — [14–31](../lochana/ru/09.md?plain=1#L50-L101) · `lcm-0033`
 
-## Хвала богов Господу в лоне Шачи / The gods praise the Lord in Shachi's womb  `ev-gods-praise-lord-in-womb` (1486–1486, возраст 0–0, оценка)
+## Хвала богов Господу в лоне Шачи / The gods praise the Lord in Shachi's womb  `ev-gods-praise-lord-in-womb`
 
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 31–46 — [31–46](../lochana/ru/09.md?plain=1#L101-L146) · `lcm-0034`
+- murari-kcc (A): Пракрама 1, сарга 5, шлоки 5–15 — [5–15](../murari-gupta/ru/1.05.md?plain=1#L13-L33) · `mkc-0015`
 
 ## Явление Шри Гауранги / The appearance of Sri Gauranga  `ev-gaura-appearance` (1486–1486, возраст 0–0, точно)
 
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 47–80 — [47–80](../lochana/ru/09.md?plain=1#L149-L248) · `lcm-0035`
+- murari-kcc (A): Пракрама 1, сарга 5, шлоки 16–22 — [16–22](../murari-gupta/ru/1.05.md?plain=1#L35-L47) · `mkc-0016`
+
+## Ниламбара Чакраварти предсказывает величие новорождённого / Nilambara Chakravarti foretells the newborn's greatness  `ev-nilambara-prediction` (1486–1486, возраст 0–0, вероятно)
+
+- murari-kcc (A): Пракрама 1, сарга 5, шлоки 23–27 — [23–27](../murari-gupta/ru/1.05.md?plain=1#L49-L57) · `mkc-0017`
 
 ## Празднование рождения; имя Нимай / Birth celebrations; the name Nimai  `ev-birth-festival-nimai-name` (1486–1486, возраст 0–0, вероятно)
 
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 81–92 — [81–92](../lochana/ru/09.md?plain=1#L258-L313) · `lcm-0036`
+- murari-kcc (A): Пракрама 1, сарга 5, шлоки 28–29 — [28–29](../murari-gupta/ru/1.05.md?plain=1#L59-L61) · `mkc-0018`
 
 ## Младенец Нимай на руках у Шачи / Baby Nimai in Shachi's arms  `ev-infant-with-shachi` (1486–1487, возраст 0–1, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 93–102 — [93–102](../lochana/ru/09.md?plain=1#L326-L353) · `lcm-0037`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 4–6 — [4–6](../murari-gupta/ru/1.06.md?plain=1#L11-L15) · `mkc-0020`
 
 ## Первое кормление рисом; имя Вишвамбхара / First feeding of rice; the name Vishvambhara  `ev-annaprashana-vishvambhara-name` (1486–1487, возраст 0–1, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 103–108 — [103–108](../lochana/ru/10.md?plain=1#L5-L20) · `lcm-0038`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 1–3 — [1–3](../murari-gupta/ru/1.06.md?plain=1#L5-L9) · `mkc-0019`
 
 ## Первые шаги Вишвамбхары / Vishvambhara's first steps  `ev-first-steps` (1486–1487, возраст 0–1, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 109–120 — [109–120](../lochana/ru/10.md?plain=1#L23-L56) · `lcm-0039`
+- murari-kcc (A): Пракрама 1, сарга 6, шлока 7 — [7–7](../murari-gupta/ru/1.06.md?plain=1#L17-L17) · `mkc-0021`
 
 ## Колыбельная Шачи / Shachi's lullaby  `ev-shachi-lullaby` (1486–1487, возраст 0–1, оценка)
 
@@ -115,10 +146,16 @@
 ## Боги поклоняются младенцу; звон нупуров на босых ногах / The gods worship the infant; anklet bells on bare feet  `ev-gods-worship-infant-anklets` (1486–1487, возраст 0–1, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 125–153 — [125–153](../lochana/ru/10.md?plain=1#L92-L176) · `lcm-0041`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 31–35 — [31–35](../murari-gupta/ru/1.06.md?plain=1#L65-L73) · `mkc-0026`
+
+## Брахман-паломник: Дитя съедает его подношение / The pilgrim brahmana: the Child eats his offering  `ev-tirthika-brahmana` (1487–1491, возраст 1–5, оценка)
+
+- murari-kcc (A): Пракрама 1, сарга 6, шлока 8 — [8–8](../murari-gupta/ru/1.06.md?plain=1#L19-L19) · `mkc-0022`
 
 ## Детские шалости: игры в пыли и разбитые горшки / Childhood pranks: playing in the dust and the broken pots  `ev-child-dust-broken-pots` (1487–1491, возраст 1–5, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 154–174 — [154–174](../lochana/ru/10.md?plain=1#L179-L239) · `lcm-0042`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 9–12 — [9–12](../murari-gupta/ru/1.06.md?plain=1#L21-L27) · `mkc-0023`
 
 ## Жертвоприношение ради блага Нимая / A sacrifice for Nimai's welfare  `ev-svastyayana-for-nimai` (1487–1491, возраст 1–5, оценка)
 
@@ -127,6 +164,7 @@
 ## Господь среди выброшенных горшков: наставление о чистом и нечистом / The Lord among discarded pots: teaching on pure and impure  `ev-discarded-pots-teaching` (1487–1491, возраст 1–5, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 191–207 — [191–206](../lochana/ru/10.md?plain=1#L290-L335); [207–207](../lochana/ru/10.md?plain=1#L344-L344) · `lcm-0044`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 13–18 — [13–18](../murari-gupta/ru/1.06.md?plain=1#L29-L39) · `mkc-0024`
 
 ## Игры Вишвамбхары с Вишварупой / Vishvambhara plays with Vishvarupa  `ev-play-with-vishvarupa` (1487–1491, возраст 1–5, оценка)
 
@@ -139,6 +177,7 @@
 ## Кирпич, брошенный в мать, и два кокоса / The brick thrown at His mother and the two coconuts  `ev-brick-two-coconuts` (1487–1491, возраст 1–5, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 214–241 — [214–241](../lochana/ru/11.md?plain=1#L25-L106) · `lcm-0046`
+- murari-kcc (A): Пракрама 1, сарга 6, шлоки 19–30 — [19–30](../murari-gupta/ru/1.06.md?plain=1#L41-L63) · `mkc-0025`
 
 ## Шачи постигает величие сына и вновь забывает его / Shachi realizes her son's majesty and forgets it again  `ev-shachi-forgets-majesty` (1487–1491, возраст 1–5, оценка)
 
@@ -169,7 +208,9 @@
 ## Санньяса Вишварупы / Vishvarupa's sannyasa  `ev-vishvarupa-sannyasa` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Балья-лила», 422–441 — [422–441](../lochana/ru/13.md?plain=1#L134-L191) · `lcm-0055`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 1–8 — [1–8](../murari-gupta/ru/1.07.md?plain=1#L5-L19) · `mkc-0027`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 442–456 — [442–456](../lochana/ru/13.md?plain=1#L196-L266) · `lcm-0056`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 9–11 — [9–11](../murari-gupta/ru/1.07.md?plain=1#L21-L25) · `mkc-0028`
 
 ## Начало обучения (хатэ-кхади) / Beginning of schooling (hate-khadi)  `ev-hate-khadi` (1491–1496, возраст 5–10, оценка)
 
@@ -182,10 +223,12 @@
 ## Игра на берегу Ганги и гнев отца / Games on the Ganga bank and His father's anger  `ev-bird-tracks-game-father-anger` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 473–500 — [473–500](../lochana/ru/14.md?plain=1#L71-L152) · `lcm-0059`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 12–13 — [12–13](../murari-gupta/ru/1.07.md?plain=1#L27-L29) · `mkc-0029`
 
 ## Сон Джаганнатхи Мишры / Jagannatha Mishra's dream  `ev-jagannatha-mishra-dream` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 501–516 — [501–516](../lochana/ru/14.md?plain=1#L155-L200) · `lcm-0060`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 14–17 — [14–17](../murari-gupta/ru/1.07.md?plain=1#L31-L37) · `mkc-0030`
 
 ## Упанаяна Вишвамбхары / Vishvambhara's sacred-thread ceremony  `ev-upanayana` (1491–1496, возраст 5–10, оценка)
 
@@ -198,34 +241,46 @@
 ## Наставление матери об экадаши / The Lord instructs His mother on Ekadashi  `ev-ekadashi-instruction-shachi` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 615–628 — [615–628](../lochana/ru/16.md?plain=1#L7-L46) · `lcm-0063`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 18–24 — [18–24](../murari-gupta/ru/1.07.md?plain=1#L39-L51) · `mkc-0031`
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 629–654 — [629–654](../lochana/ru/16.md?plain=1#L49-L124) · `lcm-0064`
+- murari-kcc (A): Пракрама 1, сарга 7, шлоки 25–27; сарга 8, шлоки 1–10 — [25–27](../murari-gupta/ru/1.07.md?plain=1#L53-L57); [1–10](../murari-gupta/ru/1.08.md?plain=1#L5-L23) · `mkc-0032`
 
 ## Уход Джаганнатхи Мишры / Jagannatha Mishra's passing  `ev-jagannatha-mishra-departure` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 655–696 — [655–696](../lochana/ru/16.md?plain=1#L129-L252) · `lcm-0065`
+- murari-kcc (A): Пракрама 1, сарга 8, шлоки 11–24 — [11–24](../murari-gupta/ru/1.08.md?plain=1#L25-L51) · `mkc-0033`
 
 ## Учёба у Гангадаса Пандита / Study under Gangadasa Pandita  `ev-study-gangadasa` (1491–1496, возраст 5–10, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 697–710 — [697–710](../lochana/ru/17.md?plain=1#L7-L46) · `lcm-0066`
+- murari-kcc (A): Пракрама 1, сарга 9, шлоки 1–4 — [1–4](../murari-gupta/ru/1.09.md?plain=1#L5-L11) · `mkc-0034`
 
 ## Первая встреча с Лакшмиприей у Ганги / First meeting with Lakshmipriya by the Ganga  `ev-lakshmipriya-first-meeting` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 711–718 — [711–718](../lochana/ru/17.md?plain=1#L49-L70) · `lcm-0067`
+- murari-kcc (A): Пракрама 1, сарга 9, шлоки 5–8 — [5–8](../murari-gupta/ru/1.09.md?plain=1#L13-L19) · `mkc-0035`
 
 ## Сватовство Лакшмиприи (Ванамали Ачарья) / Arranging the marriage with Lakshmipriya (Vanamali Acharya)  `ev-lakshmipriya-matchmaking` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 719–760 — [719–760](../lochana/ru/17.md?plain=1#L73-L199) · `lcm-0068`
+- murari-kcc (A): Пракрама 1, сарга 9, шлоки 9–22 — [9–22](../murari-gupta/ru/1.09.md?plain=1#L21-L47) · `mkc-0036`
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 761–779 — [761–779](../lochana/ru/17.md?plain=1#L202-L256) · `lcm-0069`
+- murari-kcc (A): Пракрама 1, сарга 9, шлоки 23–33 — [23–33](../murari-gupta/ru/1.09.md?plain=1#L49-L69) · `mkc-0037`
 
 ## Свадьба с Лакшмиприей / Marriage with Lakshmipriya  `ev-marriage-lakshmipriya` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 1–33 — [1–33](../lochana/ru/18.md?plain=1#L11-L111) · `lcm-0070`
+- murari-kcc (A): Пракрама 1, сарга 9, шлоки 34–38; сарга 10, шлоки 1–2 — [34–38](../murari-gupta/ru/1.09.md?plain=1#L71-L79); [1–2](../murari-gupta/ru/1.10.md?plain=1#L5-L7) · `mkc-0038`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 34–61 — [34–61](../lochana/ru/18.md?plain=1#L116-L224) · `lcm-0071`
+- murari-kcc (A): Пракрама 1, сарга 10, шлоки 3–12 — [3–12](../murari-gupta/ru/1.10.md?plain=1#L9-L27) · `mkc-0039`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 62–92 — [62–92](../lochana/ru/18.md?plain=1#L227-L366) · `lcm-0072`
+- murari-kcc (A): Пракрама 1, сарга 10, шлоки 13–20 — [13–20](../murari-gupta/ru/1.10.md?plain=1#L29-L43) · `mkc-0040`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 93–118 — [93–118](../lochana/ru/19.md?plain=1#L7-L82) · `lcm-0073`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 119–147 — [119–147](../lochana/ru/19.md?plain=1#L85-L196) · `lcm-0074`
+- murari-kcc (A): Пракрама 1, сарга 10, шлоки 21–27 — [21–27](../murari-gupta/ru/1.10.md?plain=1#L45-L57) · `mkc-0041`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 148–171 — [148–171](../lochana/ru/19.md?plain=1#L201-L270) · `lcm-0075`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 172–184 — [172–184](../lochana/ru/19.md?plain=1#L273-L309) · `lcm-0076`
+- murari-kcc (A): Пракрама 1, сарга 11, шлоки 1–4 — [1–4](../murari-gupta/ru/1.11.md?plain=1#L5-L11) · `mkc-0042`
 
 ## Прогулки Господа с друзьями к Ганге / The Lord's evening walks to the Ganga with friends  `ev-evening-strolls-ganga` (1496–1508, возраст 10–22, оценка)
 
@@ -239,52 +294,74 @@
 ## Путешествие в Восточную Бенгалию / Journey to East Bengal  `ev-east-bengal-tour` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 61–75 — [61–75](../lochana/ru/20.md?plain=1#L214-L256) · `lcm-0079`
+- murari-kcc (A): Пракрама 1, сарга 11, шлоки 5–16 — [5–16](../murari-gupta/ru/1.11.md?plain=1#L13-L35) · `mkc-0043`
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 76–103 — [76–103](../lochana/ru/20.md?plain=1#L259-L346) · `lcm-0080`
 
 ## Уход Лакшмиприи / Lakshmipriya's departure  `ev-lakshmipriya-departure` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 104–108 — [104–108](../lochana/ru/20.md?plain=1#L349-L361) · `lcm-0081`
+- murari-kcc (A): Пракрама 1, сарга 11, шлоки 17–20 — [17–20](../murari-gupta/ru/1.11.md?plain=1#L37-L43) · `mkc-0044`
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 109–139 — [109–139](../lochana/ru/21.md?plain=1#L7-L97) · `lcm-0082`
+- murari-kcc (A): Пракрама 1, сарга 11, шлоки 21–28; сарга 12, шлоки 1–6 — [21–28](../murari-gupta/ru/1.11.md?plain=1#L45-L59); [1–6](../murari-gupta/ru/1.12.md?plain=1#L5-L15) · `mkc-0045`
 
 ## Возвращение из Восточной Бенгалии; утешение Шачи / Return from East Bengal; consoling Shachi  `ev-return-from-east-bengal` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 140–160 — [140–160](../lochana/ru/21.md?plain=1#L100-L160) · `lcm-0083`
+- murari-kcc (A): Пракрама 1, сарга 12, шлоки 7–19 — [7–19](../murari-gupta/ru/1.12.md?plain=1#L17-L41) · `mkc-0046`
 
 ## Сватовство Вишнуприи / Arranging the marriage with Vishnupriya  `ev-vishnupriya-matchmaking` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 1–44 — [1–44](../lochana/ru/21.md?plain=1#L169-L298) · `lcm-0084`
+- murari-kcc (A): Пракрама 1, сарга 13, шлоки 1–7 — [1–7](../murari-gupta/ru/1.13.md?plain=1#L5-L17) · `mkc-0047`
+- murari-kcc (A): Пракрама 1, сарга 13, шлоки 8–17 — [8–17](../murari-gupta/ru/1.13.md?plain=1#L19-L37) · `mkc-0048`
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 45–78 — [45–78](../lochana/ru/21.md?plain=1#L301-L424) · `lcm-0085`
+- murari-kcc (A): Пракрама 1, сарга 13, шлоки 18–30; сарга 14, шлоки 1–2 — [18–30](../murari-gupta/ru/1.13.md?plain=1#L39-L63); [1–2](../murari-gupta/ru/1.14.md?plain=1#L5-L7) · `mkc-0049`
 
 ## Свадьба с Вишнуприей / Marriage with Vishnupriya  `ev-marriage-vishnupriya` (1496–1508, возраст 10–22, оценка)
 
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 79–121 — [79–121](../lochana/ru/22.md?plain=1#L7-L166) · `lcm-0086`
+- murari-kcc (A): Пракрама 1, сарга 14, шлоки 3–13 — [3–13](../murari-gupta/ru/1.14.md?plain=1#L9-L29) · `mkc-0050`
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 122–145 — [122–145](../lochana/ru/22.md?plain=1#L169-L265) · `lcm-0087`
+- murari-kcc (A): Пракрама 1, сарга 14, шлоки 14–20 — [14–20](../murari-gupta/ru/1.14.md?plain=1#L31-L43) · `mkc-0051`
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 146–166 — [146–166](../lochana/ru/22.md?plain=1#L272-L377) · `lcm-0088`
+- murari-kcc (A): Пракрама 1, сарга 14, шлоки 21–31 — [21–31](../murari-gupta/ru/1.14.md?plain=1#L45-L65) · `mkc-0052`
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 167–178 — [167–178](../lochana/ru/22.md?plain=1#L382-L437) · `lcm-0089`
+- murari-kcc (A): Пракрама 1, сарга 14, шлоки 32–33 — [32–33](../murari-gupta/ru/1.14.md?plain=1#L67-L69) · `mkc-0053`
 
 ## Отправление в Гаю / Departure for Gaya  `ev-departure-for-gaya` (1508–1509, возраст 22–23, оценка)
 
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 1–17 — [1–17](../lochana/ru/23.md?plain=1#L11-L62) · `lcm-0090`
+- murari-kcc (A): Пракрама 1, сарга 15, шлоки 1–6 — [1–6](../murari-gupta/ru/1.15.md?plain=1#L5-L15) · `mkc-0054`
 
 ## В пути в Гаю: урок об оленях / On the way to Gaya: the lesson of the deer  `ev-gaya-journey-deer-lesson` (1508–1509, возраст 22–23, оценка)
 
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 18–28 — [18–28](../lochana/ru/23.md?plain=1#L65-L95) · `lcm-0091`
+- murari-kcc (A): Пракрама 1, сарга 15, шлока 7 — [7–7](../murari-gupta/ru/1.15.md?plain=1#L17-L17) · `mkc-0055`
 
 ## Лихорадка на Мандаре, исцелённая водой со стоп брахмана / Fever at Mandara cured by a brahmana's foot-water  `ev-mandara-fever-brahmana-water` (1508–1509, возраст 22–23, оценка)
 
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 29–57 — [29–57](../lochana/ru/23.md?plain=1#L98-L184) · `lcm-0092`
+- murari-kcc (A): Пракрама 1, сарга 15, шлоки 8–14 — [8–14](../murari-gupta/ru/1.15.md?plain=1#L19-L31) · `mkc-0056`
 
 ## Встреча с Ишварой Пури в Гае и посвящение / Meeting Ishvara Puri in Gaya and initiation  `ev-gaya-ishvara-puri-initiation` (1508–1509, возраст 22–23, оценка)
 
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 58–75 — [58–75+2](../lochana/ru/23.md?plain=1#L187-L244) · `lcm-0093`
+- murari-kcc (A): Пракрама 1, сарга 15, шлоки 15–19 — [15–19](../murari-gupta/ru/1.15.md?plain=1#L33-L41) · `mkc-0057`
+
+## Джаганнатха Мишра является в Гае принять пинду / Jagannatha Mishra appears in Gaya to accept the pinda  `ev-jagannatha-mishra-accepts-pinda` (1508–1509, возраст 22–23, оценка)
+
+- murari-kcc (A): Пракрама 1, сарга 16, шлоки 4–5 — [4–5](../murari-gupta/ru/1.16.md?plain=1#L11-L13) · `mkc-0059`
 
 ## Обряды в Гае; према у Вишнупады / Rites in Gaya; prema at the Vishnupada  `ev-gaya-vishnupada-prema` (1508–1509, возраст 22–23, оценка)
 
+- murari-kcc (A): Пракрама 1, сарга 16, шлоки 1–3 — [1–3](../murari-gupta/ru/1.16.md?plain=1#L5-L9) · `mkc-0058`
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 76–92 — [76–92](../lochana/ru/23.md?plain=1#L247-L295) · `lcm-0094`
+- murari-kcc (A): Пракрама 1, сарга 16, шлоки 6–7 — [6–7](../murari-gupta/ru/1.16.md?plain=1#L15-L17) · `mkc-0060`
 
 ## Небесный голос в Гае; возвращение в Навадвипу / The heavenly voice in Gaya; return to Navadvipa  `ev-gaya-heavenly-voice-return` (1508–1509, возраст 22–23, оценка)
 
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 93–109 — [93–109](../lochana/ru/23.md?plain=1#L298-L346) · `lcm-0095`
+- murari-kcc (A): Пракрама 1, сарга 16, шлоки 8–11 — [8–11](../murari-gupta/ru/1.16.md?plain=1#L19-L25) · `mkc-0061`
 
 ## После Гаи: Господь учит учеников, что истинное знание — бхакти / After Gaya: the Lord teaches His students that true knowledge is bhakti  `ev-return-from-gaya-teaching` (1509–1510, возраст 23–24, оценка)
 
@@ -786,5 +863,10 @@
 
 ## Вопрос Дамодары Пандита Мурари Гупте о причинах явления Гауры / Damodara Pandita's question to Murari Gupta on the reasons for Gaura's advent  `ev-damodara-murari-question`
 
+- murari-kcc (A): Пракрама 1, сарга 2, шлоки 15–21 — [15–21](../murari-gupta/ru/1.02.md?plain=1#L33-L45) · `mkc-0007`
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 1–14 — [1–14](../lochana/ru/02.md?plain=1#L203-L242) · `lcm-0006`
+
+## Виды аватар: аватары юг и аватары ради особого дела / Kinds of avataras: yuga-avataras and avataras for a special purpose  `ev-avatara-kinds`
+
+- murari-kcc (A): Пракрама 1, сарга 4, шлоки 17–33 — [17–33](../murari-gupta/ru/1.04.md?plain=1#L37-L69) · `mkc-0013`
 
