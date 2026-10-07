@@ -799,6 +799,16 @@
   themes: [pranks, family]
   notes: "Мурари 1.06.10–12."
 
+- id: ev-nimai-hide-and-seek
+  title: "Нимай играет с матерью в прятки"
+  title_en: "Nimai plays hide-and-seek with His mother"
+  period: P03
+  order: 12
+  cc: ""
+  cb: ""
+  themes: [pranks, family]
+  notes: "Вишвамбхара пляшет во дворе и, закрыв лицо краем одежды, «прячется» от Шачи; Шачи подыгрывает: «Я Тебя не вижу». Известно по паде Васу Гхоша (ПК 1151 = БР, 12-я волна)."
+
 - id: ev-svastyayana-for-nimai
   title: "Жертвоприношение ради блага Нимая"
   title_en: "A sacrifice for Nimai's welfare"

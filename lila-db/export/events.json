@@ -1300,10 +1300,12 @@
   "notes": "«Адвайта-пракаша» (D), гл. 14: магха, светлая половина, 13-й лунный день, 1395 г. Шака; отец — Хадаи Пандит, мать — Падмавати.",
   "entries": [
    "apr-0072",
-   "pvl-0039"
+   "pvl-0039",
+   "pad-0126"
   ],
   "sources": [
    "advaita-prakasha",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -1432,7 +1434,8 @@
    "jcm-0018",
    "lcm-0035",
    "mkc-0016",
-   "pvl-0041"
+   "pvl-0041",
+   "pad-0128"
   ],
   "sources": [
    "advaita-prakasha",
@@ -1440,6 +1443,7 @@
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -1626,12 +1630,14 @@
   "entries": [
    "jcm-0020",
    "lcm-0037",
-   "mkc-0020"
+   "mkc-0020",
+   "pad-0130"
   ],
   "sources": [
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -1826,6 +1832,36 @@
   "sources": [
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-nimai-hide-and-seek",
+  "title": "Нимай играет с матерью в прятки",
+  "title_en": "Nimai plays hide-and-seek with His mother",
+  "period": "P03",
+  "order": 12,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "notes": "Вишвамбхара пляшет во дворе и, закрыв лицо краем одежды, «прячется» от Шачи; Шачи подыгрывает: «Я Тебя не вижу». Известно по паде Васу Гхоша (ПК 1151 = БР, 12-я волна).",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "pad-0132"
+  ],
+  "sources": [
+   "padas"
   ]
  },
  {
@@ -2225,10 +2261,13 @@
    5
   ],
   "entries": [
-   "lcm-0054"
+   "lcm-0054",
+   "pad-0131",
+   "pad-0133"
   ],
   "sources": [
-   "lochana-cm"
+   "lochana-cm",
+   "padas"
   ]
  },
  {
@@ -4289,6 +4328,7 @@
    "lcm-0110",
    "mkc-0076",
    "pad-0099",
+   "pad-0136",
    "pad-0108",
    "pad-0109",
    "pad-0110",
@@ -5545,6 +5585,7 @@
    "ccd-0020",
    "lcm-0145",
    "mkc-0110",
+   "pad-0135",
    "pad-0002",
    "pad-0003",
    "pad-0004"
@@ -9935,6 +9976,7 @@
    "mkc-0247",
    "pad-0051",
    "pad-0097",
+   "pad-0137",
    "mkc-0251"
   ],
   "sources": [
@@ -11169,7 +11211,10 @@
    "apr-0137",
    "mkc-0229",
    "pvl-0078",
+   "pad-0142",
    "pad-0024",
+   "pad-0141",
+   "pad-0143",
    "apr-0138"
   ],
   "sources": [
@@ -11913,6 +11958,7 @@
    "pad-0035",
    "apr-0144",
    "pad-0036",
+   "pad-0138",
    "pad-0037",
    "pad-0038",
    "pad-0039",
@@ -16307,6 +16353,7 @@
   ],
   "entries": [
    "pad-0030",
+   "pad-0140",
    "pad-0031",
    "pad-0120",
    "pad-0076"
@@ -16375,7 +16422,8 @@
    "pad-0103",
    "pad-0104",
    "pad-0105",
-   "pad-0106"
+   "pad-0106",
+   "pad-0129"
   ],
   "sources": [
    "padas"
