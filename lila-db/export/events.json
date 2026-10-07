@@ -6698,6 +6698,8 @@
    "mkc-0143",
    "pad-0074",
    "pad-0075",
+   "pad-0091",
+   "pad-0093",
    "lcm-0188"
   ],
   "sources": [
@@ -9925,6 +9927,7 @@
    "jcm-0093",
    "mkc-0247",
    "pad-0051",
+   "pad-0097",
    "mkc-0251"
   ],
   "sources": [
@@ -15799,7 +15802,9 @@
    "pad-0045",
    "pad-0046",
    "pad-0047",
-   "pad-0063"
+   "pad-0063",
+   "pad-0088",
+   "pad-0089"
   ],
   "sources": [
    "padas"
@@ -15909,6 +15914,169 @@
   ]
  },
  {
+  "id": "ev-kirtan-festival-advaita-house",
+  "title": "Праздник киртана в доме Адвайты: кхол-мангала",
+  "title_en": "The kirtana festival in Advaita's house: the khol-mangala",
+  "period": "P07",
+  "order": 134.55,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар (вслед за С. Раем): пада Парамешвары Даса (ПК 23) — описание очевидца; навадвипский период",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "festival"
+  ],
+  "notes": "Господь с Нитьянандой и Адвайтой задумывает великий праздник; Сита Тхакурани; приглашение певцов и музыкантов, полный кувшин, вечернее благословение мриданги (кхол-мангала). Известно по паде Парамешвары Даса (ПК 23; ГПТ1 № 26).",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0082"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-flower-battle-navadvipa",
+  "title": "Битва цветами в цветнике Навадвипы",
+  "title_en": "The battle of flowers in a flower garden of Navadvipa",
+  "period": "P07",
+  "order": 134.82,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада очевидца Васу Гхоша (БР, с. 936; ПК 1525), 1509 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Увидев цветник, Господь вспоминает битву цветами; спутники с Гададхарой и Нитьянандой осыпают Его цветами.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0083"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-dice-game-gadadhara",
+  "title": "Господь играет с Гададхарой в кости (Навадвипа)",
+  "title_en": "The Lord plays dice with Gadadhara (Navadvipa)",
+  "period": "P07",
+  "order": 134.84,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада очевидца Васу Гхоша (БР, с. 936–937), 1509 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Отражение игры Радхи и Кришны в кости (Гададхара — проявление Радхи).",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0084"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-jala-keli-navadvipa",
+  "title": "Игры Господа в водах Ганги (Навадвипа)",
+  "title_en": "The Lord's water play in the Ganga (Navadvipa)",
+  "period": "P07",
+  "order": 134.86,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада очевидца Васу Гхоша (БР, с. 937; ПК 1108), 1509 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Господь вспоминает джала-кели, со спутниками входит в Гангу; брызгает на Гададхару.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0085"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-rasa-lila-navadvipa",
+  "title": "Господь являет расу танца раса на берегу Ганги (Навадвипа)",
+  "title_en": "The Lord reveals the rasa of the rasa dance on the Ganga bank (Navadvipa)",
+  "period": "P07",
+  "order": 134.88,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Васу Гхоша (БР, с. 941; ПК 1253) в ряду свидетельств очевидца, которые Маджумдар относит к 1509 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "kirtan",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "Ганга для Господа — Ямуна, цветущая роща — Вриндаван, спутники — гопи; Он пляшет посреди киртана.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0086"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
   "id": "ev-holi-navadvipa-gadadhara",
   "title": "Холи в Навадвипе: Господь с Гададхарой в бхаве Кришны",
   "title_en": "Holi in Navadvipa: the Lord with Gadadhara in Krishna's mood",
@@ -15937,7 +16105,8 @@
    23
   ],
   "entries": [
-   "pad-0014"
+   "pad-0014",
+   "pad-0087"
   ],
   "sources": [
    "padas"
@@ -15967,7 +16136,9 @@
   ],
   "entries": [
    "pad-0018",
-   "pad-0020"
+   "pad-0020",
+   "pad-0090",
+   "pad-0092"
   ],
   "sources": [
    "padas"
@@ -16027,7 +16198,10 @@
   ],
   "entries": [
    "pad-0053",
-   "pad-0054"
+   "pad-0054",
+   "pad-0094",
+   "pad-0095",
+   "pad-0096"
   ],
   "sources": [
    "padas"

@@ -5197,6 +5197,75 @@
   bhava: [krishna]
   notes: "Господь в бхаве Кришны вспоминает дана-лилу."
 
+- id: ev-kirtan-festival-advaita-house
+  title: "Праздник киртана в доме Адвайты: кхол-мангала"
+  title_en: "The kirtana festival in Advaita's house: the khol-mangala"
+  period: P07
+  order: 134.55
+  years: [1509, 1509]
+  date_conf: оценка
+  date_basis: "Маджумдар (вслед за С. Раем): пада Парамешвары Даса (ПК 23) — описание очевидца; навадвипский период"
+  cc: ""
+  cb: ""
+  themes: [kirtan, festival]
+  notes: "Господь с Нитьянандой и Адвайтой задумывает великий праздник; Сита Тхакурани; приглашение певцов и музыкантов, полный кувшин, вечернее благословение мриданги (кхол-мангала). Известно по паде Парамешвары Даса (ПК 23; ГПТ1 № 26)."
+
+- id: ev-flower-battle-navadvipa
+  title: "Битва цветами в цветнике Навадвипы"
+  title_en: "The battle of flowers in a flower garden of Navadvipa"
+  period: P07
+  order: 134.82
+  years: [1509, 1509]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца Васу Гхоша (БР, с. 936; ПК 1525), 1509 г."
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  notes: "Увидев цветник, Господь вспоминает битву цветами; спутники с Гададхарой и Нитьянандой осыпают Его цветами."
+
+- id: ev-dice-game-gadadhara
+  title: "Господь играет с Гададхарой в кости (Навадвипа)"
+  title_en: "The Lord plays dice with Gadadhara (Navadvipa)"
+  period: P07
+  order: 134.84
+  years: [1509, 1509]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца Васу Гхоша (БР, с. 936–937), 1509 г."
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  notes: "Отражение игры Радхи и Кришны в кости (Гададхара — проявление Радхи)."
+
+- id: ev-jala-keli-navadvipa
+  title: "Игры Господа в водах Ганги (Навадвипа)"
+  title_en: "The Lord's water play in the Ganga (Navadvipa)"
+  period: P07
+  order: 134.86
+  years: [1509, 1509]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца Васу Гхоша (БР, с. 937; ПК 1108), 1509 г."
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  notes: "Господь вспоминает джала-кели, со спутниками входит в Гангу; брызгает на Гададхару."
+
+- id: ev-rasa-lila-navadvipa
+  title: "Господь являет расу танца раса на берегу Ганги (Навадвипа)"
+  title_en: "The Lord reveals the rasa of the rasa dance on the Ganga bank (Navadvipa)"
+  period: P07
+  order: 134.88
+  years: [1509, 1509]
+  date_conf: оценка
+  date_basis: "Пада Васу Гхоша (БР, с. 941; ПК 1253) в ряду свидетельств очевидца, которые Маджумдар относит к 1509 г."
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, kirtan, ecstasy]
+  bhava: [krishna]
+  notes: "Ганга для Господа — Ямуна, цветущая роща — Вриндаван, спутники — гопи; Он пляшет посреди киртана."
+
 - id: ev-holi-navadvipa-gadadhara
   title: "Холи в Навадвипе: Господь с Гададхарой в бхаве Кришны"
   title_en: "Holi in Navadvipa: the Lord with Gadadhara in Krishna's mood"

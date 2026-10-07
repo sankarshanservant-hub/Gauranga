@@ -28078,6 +28078,122 @@
   "attestation": 1
  },
  {
+  "id": "pad-0088",
+  "source": "padas",
+  "ref": "Шивананда Сен, ПК 2127 «সোণার বরণ গোরা প্রেম-বিনোদিয়া»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.48,
+  "title": "«Радха, Радха!»: Господь, склонившись на Говинду, слушает о Вриндаване",
+  "summary": "Золотистый Гора затопил Надию премой; склонившись на Говинду, Он слушает о Вриндаване и с возгласом «Радха, Радха!» падает без чувств; Шивананда плачет, не постигая бхавы Господа.",
+  "persons": [
+   "@shivananda-sena",
+   "@mahaprabhu",
+   "@govinda-ghosha"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари, БР с. 922 (порция 01, п. 6)",
+  "notes": "Говинда — вероятно, Говинда Гхош (или слуга Говинда, если сцена в Пури).",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада передаёт смятение преданных при виде бхав Гауранги; Шивананда — современник",
+  "event": "ev-navadvipa-radha-bhava-gadadhara",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "10.1",
+    "to": "10.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "10.1",
+    "to": "10.4",
+    "line": 321,
+    "line_to": 330,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L321-L330",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L335-L344"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "cc": "Ади 17",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0089",
+  "source": "padas",
+  "ref": "Чайтаньядас, ПК 1985 = ГПТ1 с. 413 (№ 30) «আরে মোর গৌর কিশোর»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.49,
+  "title": "«Я обрёл Юношу Враджа»: Господь в радости встречи",
+  "summary": "Юный Гаура, упоённый расой прежней любви, в слезах радости говорит: «Я обрёл Юношу Враджа, всё Моё горе ушло; после долгих дней Я обрёл Свою жизнь, словно омылся нектаром»; спутники смеются от радости.",
+  "persons": [
+   "@chaitanya-dasa-poet",
+   "@mahaprabhu",
+   "@krishna"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 1, 13",
+  "notes": "Место не названо; в ПК — гаура-чандрика к самриддхиман-самбхоге. Маджумдар сравнивает со словами Господа на Ратха-ятре («Я обрёл Владыку Моей жизни»).",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: Чайтаньядас — вероятно, современник (ветвь Гададхара); язык как у Нарахари и Шивананды",
+  "event": "ev-navadvipa-radha-bhava-gadadhara",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "11.1",
+    "to": "11.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "11.1",
+    "to": "11.5",
+    "line": 347,
+    "line_to": 359,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L347-L359",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L364-L376"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "cc": "Ади 17",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "ccd-0030",
   "source": "chaitanya-chandrodaya",
   "ref": "Акт 3, правешака (Майтри и Према-бхакти), ст. 1–9",
@@ -28242,6 +28358,66 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L248-L257",
     "file_en": "padas/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L256-L265"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0082",
+  "source": "padas",
+  "ref": "Парамешвара Дас, ПК 23 «এক দিন পহুঁ হাসি অদ্বৈত-মন্দিরে আসি»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.55,
+  "title": "Праздник киртана в доме Адвайты: кхол-мангала",
+  "summary": "Господь приходит в дом Адвайты и с Нитьянандой и Адвайтой обсуждает великий праздник; Сита Тхакурани говорит сладкие слова; Господь велит пригласить всех певцов и музыкантов, установить полный кувшин, банановые деревца и гирлянды и вечером совершить кхол-мангалу.",
+  "persons": [
+   "@parameshvara-dasa",
+   "@mahaprabhu",
+   "@advaita",
+   "@nityananda",
+   "@sita-thakurani"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "В ПК — «Адхиваса санкиртаны». Дом Адвайты — в Навадвипе или Шантипуре (не названо). В ГПТ1 подпись «Парамешвари Дас».",
+  "themes": [
+   "kirtan",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар (вслед за С. Раем): описание очевидца",
+  "event": "ev-kirtan-festival-advaita-house",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "4.1",
+    "to": "4.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "4.1",
+    "to": "4.6",
+    "line": 129,
+    "line_to": 154,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L129-L154",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L134-L159"
    }
   ],
   "years": [
@@ -28684,6 +28860,241 @@
   "attestation": 1
  },
  {
+  "id": "pad-0083",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1525 = БР (с. 936) «ফুলবন গোরাচাঁদ দেখিয়া নয়নে»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.82,
+  "title": "Битва цветами: спутники осыпают Гору цветами",
+  "summary": "Увидев цветущую рощу, Гора вспоминает битву цветами; спутники с криками «Джая!» бросают в Него цветы; с Ним Гададхара и Нитьянанда; Господь играет с Гададхарой.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@nityananda"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "В БР провожатый показывает Шринивасе Ачарье этот цветник. В ПК — гаура-чандрика к «пхула-доле». Гададхара — проявление Радхи (ГГД), игры — чистая према (сноска).",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: игры БР с. 936–943 видены воочию (1509)",
+  "event": "ev-flower-battle-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "5.1",
+    "to": "5.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "5.1",
+    "to": "5.4",
+    "line": 177,
+    "line_to": 186,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L177-L186",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L184-L193"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0084",
+  "source": "padas",
+  "ref": "Васу Гхош, БР (с. 936–937) «গৌরাঙ্গচাঁদের মনে কি ভাব পড়িল»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.84,
+  "title": "Господь с Гададхарой играет в кости",
+  "summary": "Сидя в цветнике, Гора затевает с Гададхарой игру в кости: «Двойка, четвёрка!» — бросает Гададхара, «Пятёрка, тройка!» — Гауранга; оба погружены в расу игры.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Только БР и ГПТ (в ПК не найдена). Отражение игры Радхи и Кришны в кости.",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: видено воочию (БР, с. 936–937), 1509",
+  "event": "ev-dice-game-gadadhara",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 208,
+    "line_to": 217,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L208-L217",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L216-L225"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0085",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1108 = БР (с. 937) «জলকেলি গোরাচান্দের মনেত পড়িল»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.86,
+  "title": "Игры в воде: Гауранга брызгает на Гададхару",
+  "summary": "Господь вспоминает игры в воде и входит со спутниками в Гангу; все брызгают друг на друга, Гауранга брызгает на Гададхару; все ликуют и перекликаются.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "В БР провожатый показывает Шринивасе тот самый гхат; по БР, Гададхара брызгает на Гору.",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: видено воочию (БР, с. 937), 1509",
+  "event": "ev-jala-keli-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 231,
+    "line_to": 240,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L231-L240",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L240-L249"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0086",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1253 = БР (с. 941) «বৃন্দাবন-লীলা গোরার মনেতে পড়িল»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.88,
+  "title": "Раса на берегу Ганги: спутники — гопи, Ганга — Ямуна",
+  "summary": "Горе вспоминается лила Вриндавана: Ганга для Него — Ямуна, цветущая роща — Вриндаван, спутники — гопи; собрав кхолы и караталы, Он пляшет посреди киртана, являя расу танца раса.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Двустишие 8.4 — только в БР. Сноска: Господь вкушает настроения Кришна-лилы; према спутников — не мирская.",
+  "themes": [
+   "krishna-lila",
+   "kirtan",
+   "ecstasy"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "БР приводит паду в ряду свидетельств очевидца (с. 936–943), которые Маджумдар относит к 1509 г.",
+  "event": "ev-rasa-lila-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "8.1",
+    "to": "8.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "8.1",
+    "to": "8.5",
+    "line": 256,
+    "line_to": 268,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L256-L268",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L266-L278"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0014",
   "source": "padas",
   "ref": "Шивананда Сен, БР (с. 944–945) «হোলি খেলত গৌরকিশোর»",
@@ -28737,6 +29148,68 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L336-L354",
     "file_en": "padas/en/01.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L348-L366"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "calendar": "пхалгуна-пурнима (холи)",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0087",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1425 = БР (с. 942–943) «দেখ দেখ ঋতু-রাজ বসন্ত সময়»",
+  "file": "padas/ru/05.md",
+  "period": "P07",
+  "order": 134.91,
+  "title": "Весенняя игра в краски (пхагу) в Надии",
+  "summary": "Весной Гора со спутниками играет в Надии в краски: спутники сыплют на Него пхагу и бегают с брызгалками кункумы; Шривас ведёт музыкантов, рядом Гададхара, Харидас пляшет, подняв руки.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@srivasa",
+   "@gadadhara-pandita",
+   "@haridasa-thakura"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Шивананда Сен, БР с. 944–945 (порция 01, п. 14)",
+  "notes": "В ПК — к Васанта-панчами; строка о юных женщинах — язык нагари-бхавы (сноска по шаблону).",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: холи с Гададхарой (БР, с. 942–943) видено воочию, 1509",
+  "event": "ev-holi-navadvipa-gadadhara",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "9.1",
+    "to": "9.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "9.1",
+    "to": "9.5",
+    "line": 289,
+    "line_to": 301,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L289-L301",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L301-L313"
    }
   ],
   "years": [
@@ -36442,6 +36915,127 @@
   "attestation": 6
  },
  {
+  "id": "pad-0091",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 1856 (в ГПТ1 с. 385, № 8 — с подписью Радхамохана) «হরি হরি গোরা কোথা গেল»",
+  "file": "padas/ru/05.md",
+  "period": "P09",
+  "order": 30.3,
+  "title": "«Если бы я знал, что Гора уйдёт…»",
+  "summary": "Преданный плачет: куда ушёл Гора? В сердце вонзилось копьё; если бы он знал, что Гора уйдёт, удержал бы Его, связав Его жизнь со своей; как будут жить Гададхара и Дамодара?",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@damodara-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Подпись Васу (ПК) / Радхамохан Дас (ГПТ1; составитель отмечает рукопись с подписью Васу) — атрибуция не бесспорна.",
+  "themes": [
+   "separation",
+   "sannyasa"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада Васу Гхоша о санньясе (ПК 1856)",
+  "event": "ev-navadvipa-lament-after-sannyasa",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "13.1",
+    "to": "13.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "13.1",
+    "to": "13.4",
+    "line": 404,
+    "line_to": 413,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L404-L413",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L424-L433"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0093",
+  "source": "padas",
+  "ref": "Васу Гхош, ПК 2280 = ГПТ1 с. 387 (№ 15) «গোরা-গুণে প্রাণ কান্দে কি বুদ্ধি করিব»",
+  "file": "padas/ru/05.md",
+  "period": "P09",
+  "order": 30.4,
+  "title": "«Без Горы опустела вся Надия»",
+  "summary": "Вспоминая достоинства Горы, плачет сердце: кто ещё смилуется над падшими, кто, упрашивая, даст имя Хари, кто зарыдает над нищим духом? Без Горы опустела вся Надия; Васу не знает, как жить, не видя Его.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "",
+  "notes": "В ПК — «Томление преданных».",
+  "themes": [
+   "separation",
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада Васу Гхоша о санньясе (ПК 2280)",
+  "event": "ev-navadvipa-lament-after-sannyasa",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "15.1",
+    "to": "15.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "15.1",
+    "to": "15.4",
+    "line": 456,
+    "line_to": 465,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L456-L465",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L481-L490"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 6
+ },
+ {
   "id": "lcm-0188",
   "source": "lochana-cm",
   "ref": "Мадхья-кханда, «Прибытие Господа в Шантипур», 14–33 (с 15+1–15+15, 31+1, 32+1)",
@@ -41488,6 +42082,122 @@
    24
   ],
   "attestation": 6
+ },
+ {
+  "id": "pad-0090",
+  "source": "padas",
+  "ref": "Парамананда (Гупта?), ПК 1693 «কি করিলা গোরাচাঁদ নদিয়া ছাড়িয়া»",
+  "file": "padas/ru/05.md",
+  "period": "P10",
+  "order": 5.3,
+  "title": "«Хоть раз приди в Надию»: горе преданных после санньясы",
+  "summary": "Преданные Навадвипы умирают, не видя Горачанду; вспоминая киртаны, терзаются сердцем; Мурари, Мукунда, Шривас не переживут разлуки, Адвайта отчаялся; поэт с травинкой в зубах молит Господа хоть раз прийти в Надию.",
+  "persons": [
+   "@paramananda-gupta",
+   "@mahaprabhu",
+   "@murari-gupta",
+   "@mukunda-datta",
+   "@srivasa",
+   "@advaita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "В ПК — гаура-чандрика к вестям гопи для Кришны в Матхуру; ПК вновь отсылает к ней после ПК 2277.",
+  "themes": [
+   "separation",
+   "sannyasa"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: горе преданных при санньясе; вероятно, фрагмент «Гауранга-виджая-гиты» Парамананды Гупты",
+  "event": "ev-gauda-devotees-longing-first-year",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "12.1",
+    "to": "12.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "12.1",
+    "to": "12.5",
+    "line": 375,
+    "line_to": 387,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L375-L387",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L394-L406"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0092",
+  "source": "padas",
+  "ref": "Чайтаньядас, ПК 463 «মোহে বিহি বিপরীত ভেল»",
+  "file": "padas/ru/05.md",
+  "period": "P10",
+  "order": 5.4,
+  "title": "Раскаяние преданного: «Обретя Гаурангу, он не послужил Ему»",
+  "summary": "Поэт от лица раскаивающейся героини (калахантариты) сетует: Творец обернулся против него, Гора, зеница жизни, ушёл; сокровище упало в океан — обретя Гауранга-чанду, Чайтаньядас не послужил Ему и потерял Его.",
+  "persons": [
+   "@chaitanya-dasa-poet",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Гаура-чандрика к калахантарите; образ лилы Радхи приложен к раскаянию преданного (сноска).",
+  "themes": [
+   "separation",
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: свидетельство личной близости поэта к Гауре; вероятно, после санньясы",
+  "event": "ev-gauda-devotees-longing-first-year",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "14.1",
+    "to": "14.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "14.1",
+    "to": "14.5",
+    "line": 428,
+    "line_to": 440,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L428-L440",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L451-L463"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 1
  },
  {
   "id": "apr-0087",
@@ -52775,6 +53485,66 @@
   "attestation": 3
  },
  {
+  "id": "pad-0097",
+  "source": "padas",
+  "ref": "Кану Дас (Кану Тхакур), ПК 2327 = КГЧ (10-я кшанада, № 2) «আরে মোর পহুঁ নিতাইচাঁদ»",
+  "file": "padas/ru/05.md",
+  "period": "P12",
+  "order": 110.2,
+  "title": "Нитьянанда в Гауде: в каждом доме — силки премы",
+  "summary": "Нитьянанда расставил в каждом доме силки премы, взглядом орошает измученных людей; в безмерной милости ходит и пляшет по Гауде, рассказывая о Своём Брате; тело в мурашках, преданные поют вокруг.",
+  "persons": [
+   "@kanu-thakura",
+   "@nityananda",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 15; ЧБ Антья 5",
+  "notes": "",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада о проповеди Нитьянанды в Гауде (после 1515)",
+  "event": "ev-nityananda-preaching-gauda",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "19.1",
+    "to": "19.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "19.1",
+    "to": "19.8",
+    "line": 579,
+    "line_to": 600,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L579-L600",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L609-L630"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
   "id": "mkc-0248",
   "source": "murari-kcc",
   "ref": "Пракрама 4, сарга 22, шлоки 22–25",
@@ -53255,6 +54025,182 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/03.md?plain=1#L407-L419",
     "file_en": "padas/en/03.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/03.md?plain=1#L420-L432"
+   }
+  ],
+  "years": [
+   1510,
+   1514
+  ],
+  "age": [
+   24,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0094",
+  "source": "padas",
+  "ref": "Мадхава Гхош, ПК 2276 «তছু দুখে দুখী এক প্রিয়-সখী»",
+  "file": "padas/ru/05.md",
+  "period": "P12",
+  "order": 290.3,
+  "title": "Подруга Вишнуприи на берегу Ганги, где сидел Господь",
+  "summary": "Подруга Вишнуприи, разделяющая её горе, словно обезумев от разлуки с Гаурой, бежит на берег Ганги, туда, где сидел Господь; её бессвязные речи растопили бы камень — будто, придя в Нилачалу, она видит там Гауру.",
+  "persons": [
+   "@madhava-ghosha",
+   "@vishnupriya",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Маджумдар: вымышленная картина; авторство Мадхавы Гхоша сомнительно.",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: вымышленная картина скорби женщин Надии (поздняя)",
+  "event": "ev-navadvipa-awaits-lord-return",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "16.1",
+    "to": "16.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "16.1",
+    "to": "16.4",
+    "line": 482,
+    "line_to": 497,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L482-L497",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L508-L523"
+   }
+  ],
+  "years": [
+   1510,
+   1514
+  ],
+  "age": [
+   24,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0095",
+  "source": "padas",
+  "ref": "Мадхава Гхош, ПК 2277 «অবলা সে বিষ্ণুপ্রিয়া তুয়া গুণ সোঙরিয়া»",
+  "file": "padas/ru/05.md",
+  "period": "P12",
+  "order": 290.4,
+  "title": "«Приди в Надию»: Вишнуприя без чувств, Шачи полумертва",
+  "summary": "Поэт обращается к Господу: Вишнуприя, вспоминая Его достоинства, лежит без чувств, подруги держат у её ноздрей хлопок; жители Надии, старая Шачи и спутники едва живы; «Приди в Надию, о лучший из знатоков расы!».",
+  "persons": [
+   "@madhava-ghosha",
+   "@vishnupriya",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 3, 16",
+  "notes": "«Майя» здесь — привязанность (сноска). Авторство Мадхавы Гхоша сомнительно.",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада о скорби Шачи и Вишнуприи; пады Мадхавы Гхоша о санньясе — вероятно, поздние",
+  "event": "ev-navadvipa-awaits-lord-return",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "17.1",
+    "to": "17.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "17.1",
+    "to": "17.4",
+    "line": 516,
+    "line_to": 531,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L516-L531",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L543-L558"
+   }
+  ],
+  "years": [
+   1510,
+   1514
+  ],
+  "age": [
+   24,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0096",
+  "source": "padas",
+  "ref": "Мадхава Гхош, ПК 2278 «গৌরাঙ্গ ঝাট করি চলহ নদীয়া»",
+  "file": "padas/ru/05.md",
+  "period": "P12",
+  "order": 290.5,
+  "title": "«Гауранга, скорее приди в Надию»",
+  "summary": "Поэт молит Гаурангу скорее прийти в Надию: Вишнуприя, вспоминая Его прежнюю любовь, лишилась чувств; Надия и спутники плачут в пыли; промедлит Господь — и поэт умрёт первым.",
+  "persons": [
+   "@madhava-ghosha",
+   "@vishnupriya",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Маджумдар: вероятно, написана много позже санньясы.",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар (догадка): написана много позже санньясы",
+  "event": "ev-navadvipa-awaits-lord-return",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "18.1",
+    "to": "18.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "18.1",
+    "to": "18.4",
+    "line": 553,
+    "line_to": 562,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L553-L562",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L582-L591"
    }
   ],
   "years": [
@@ -60760,12 +61706,12 @@
     "file": "padas/ru/01.md",
     "from": "23.1",
     "to": "23.4",
-    "line": 596,
-    "line_to": 605,
+    "line": 601,
+    "line_to": 610,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L596-L605",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L601-L610",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L620-L629"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L625-L634"
    }
   ],
   "cc": "Мадхья 16",
@@ -61249,12 +62195,12 @@
     "file": "padas/ru/01.md",
     "from": "24.1",
     "to": "24.6",
-    "line": 617,
-    "line_to": 642,
+    "line": 622,
+    "line_to": 647,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L617-L642",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L622-L647",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L642-L667"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L647-L672"
    }
   ],
   "age": [
@@ -66701,12 +67647,12 @@
     "file": "padas/ru/01.md",
     "from": "25.1",
     "to": "25.13",
-    "line": 658,
-    "line_to": 718,
+    "line": 663,
+    "line_to": 723,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L658-L718",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L663-L723",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L684-L744"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L689-L749"
    }
   ],
   "cc": "Антья 12",
@@ -81842,12 +82788,12 @@
     "file": "padas/ru/01.md",
     "from": "26.1",
     "to": "26.4",
-    "line": 734,
-    "line_to": 749,
+    "line": 739,
+    "line_to": 754,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L734-L749",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L739-L754",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L760-L775"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L765-L780"
    }
   ],
   "cc": "Ади 3",
@@ -82092,6 +83038,206 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/04.md?plain=1#L310-L324",
     "file_en": "padas/en/04.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/04.md?plain=1#L323-L337"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0079",
+  "source": "padas",
+  "ref": "Парамананда (Гупта?), ПК 2202 «গোরা-অবতারে যার না হৈল ভকতি-সার»",
+  "file": "padas/ru/05.md",
+  "period": "PX",
+  "order": 7.7,
+  "title": "Хвала Гауре: «Поклоняйтесь стопам Горачанды, Очистителя падших»",
+  "summary": "Кто в воплощение Горы не обрёл преданности, тому нет иного средства; Гаура — океан милости, Сам переправляет через океан бытия на плоту святого имени; поэт молит: кто и тогда тонет, того не спасёт никто.",
+  "persons": [
+   "@paramananda-gupta",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 3, 7",
+  "notes": "Атрибуция Парамананде Гупте предположительна (Маджумдар); возможно, фрагмент «Гауранга-виджаи».",
+  "themes": [
+   "author",
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name",
+   "yuga-dharma"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: одна из бенгальских пад «Парамананды», приписываемых Парамананде Гупте; возможно, из «Гауранга-виджая-гиты»",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 17,
+    "line_to": 31,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L17-L31",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L19-L33"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0080",
+  "source": "padas",
+  "ref": "Парамананда (Гупта?), ПК 672 «পরশ-মণির সনে কি দিব তুলনা রে»",
+  "file": "padas/ru/05.md",
+  "period": "PX",
+  "order": 7.8,
+  "title": "Хвала Гауре: с Ним не сравнить ни философского камня, ни луны, ни древа желаний",
+  "summary": "Достоинства Гауранги сделали самоцветами множество людей; луна запятнана, а незапятнанная луна взошла в Надии; Сурабхи и древо желаний дают лишь просящим, а Гаура сам раздал прему всем; Горачанду можно сравнить лишь с Ним Самим.",
+  "persons": [
+   "@paramananda-gupta",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 7",
+  "notes": "В ПК — гаура-чандрика к расодгаре; в рук. П-Р последняя строфа подписана Наянанандой — атрибуция не вполне надёжна.",
+  "themes": [
+   "author",
+   "mercy"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: возможно, из «Гауранга-виджаи» Парамананды Гупты",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "2.1",
+    "to": "2.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "2.1",
+    "to": "2.5",
+    "line": 52,
+    "line_to": 71,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L52-L71",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L55-L74"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0081",
+  "source": "padas",
+  "ref": "Парамананда (Гупта?), ПК 2119 = КГЧ (14-я кшанада, № 1) «গোরা মোর দয়ার অবধি গুণনিধি»",
+  "file": "padas/ru/05.md",
+  "period": "PX",
+  "order": 7.9,
+  "title": "Гаура на берегу Ганги, опираясь на плечи преданных, плачет «Харибол»",
+  "summary": "Гаура, предел милости, непрестанно играет на берегу Ганги в Надии: опираясь на плечи преданных, не может идти и плачет, повторяя «Харибол»; слёзы текут реками, тело в мурашках; Он излил прему по всему миру — имя Ему «Очиститель падших».",
+  "persons": [
+   "@paramananda-gupta",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "ЧБ Мадхья 23",
+  "notes": "Хвала с описанием бхавы Господа в Навадвипе.",
+  "themes": [
+   "author",
+   "ecstasy",
+   "kirtan"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: возможно, из «Гауранга-виджаи» Парамананды Гупты",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "3.1",
+    "to": "3.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "3.1",
+    "to": "3.5",
+    "line": 93,
+    "line_to": 110,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L93-L110",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L98-L115"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0098",
+  "source": "padas",
+  "ref": "Канурам Дас (Кану Тхакур), ПК 2321 «দয়া কর মোরে নিতাই দয়া কর মোরে»",
+  "file": "padas/ru/05.md",
+  "period": "PX",
+  "order": 7.95,
+  "title": "Молитва Нитьянанде, «Господу нашего рода»",
+  "summary": "Поэт молит Нитьянанду о милости: Он — прибежище не имеющих прибежища, Его знамя возвещает «Слава Дарующему према-бхакти», Он раздал прему всем без разбора — отчего же поэт несчастен? Его надежда: Нитьянанда — Господь его рода.",
+  "persons": [
+   "@kanu-thakura",
+   "@nityananda"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "B",
+  "parallels": "",
+  "notes": "«Господь рода» — три поколения семьи поэта (Садашива — Пурушоттама — Кану) у стоп Нитьянанды (Маджумдар).",
+  "themes": [
+   "author",
+   "mercy"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: стути Нитьянанде Кану Тхакура (ветвь Нитьянанды)",
+  "verses": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "20.1",
+    "to": "20.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/05.md",
+    "from": "20.1",
+    "to": "20.4",
+    "line": 619,
+    "line_to": 628,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/05.md?plain=1#L619-L628",
+    "file_en": "padas/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/05.md?plain=1#L649-L658"
    }
   ],
   "attestation": 1
