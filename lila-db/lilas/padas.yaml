@@ -5325,3 +5325,348 @@
   event: ev-katwa-khanda-memorial-festivals
   verses:
     - {file: "padas/ru/12.md", from: "29.1", to: "29.7"}
+
+- id: pad-0260
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 2 (№ 2) «শুনইতে রাই বচন অধরামৃত»"
+  file: "padas/ru/13.md"
+  period: P00
+  order: 36.51
+  title: "Нанди: Кришна открывает Радхе, что примет её бхаву и явится в Надии"
+  summary: "Выслушав сон Радхи о золотом юноше, Кришна говорит: три желания — узнать её прему, её сладость и её счастье — во Врадже не исполнились; приняв её бхаву и сияние и сделав её прему гуру, Он взойдёт в Надии и раздаст прему миру."
+  persons: ["@balarama-dasa-poet", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Ади 1.5–6; 4"
+  notes: "Только ГПТ (раздел «Нанди»); продолжает паду № 1 (сон Радхи, подпись Джагадананды). Три желания — почти дословно по ЧЧ Ади 1.6 (сноска)."
+  themes: [revelation, krishna-lila]
+  event: ev-krishna-resolves-gaura-advent
+  verses:
+    - {file: "padas/ru/13.md", from: "1.1", to: "1.5"}
+
+- id: pad-0261
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 2 (№ 3) «বঁধু হে শুনইতে কাঁপই দেহা»"
+  file: "padas/ru/13.md"
+  period: P00
+  order: 36.52
+  title: "Нанди: ответ Радхи — Врадж не проживёт без Кришны"
+  summary: "Радха трепещет: Кришна — жизнь Враджа; как рыба без воды, Врадж не проживёт без Него и мига; станет ли Он, забыв её, являть прему с братом и друзьями?"
+  persons: ["@balarama-dasa-poet", "@radha", "@krishna", "@balarama"]
+  places: ["#vrindavana"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Ади 4"
+  notes: "Только ГПТ. Тоска Радхи — махабхава, не мирская печаль; ответ — в следующей паде (Кришна не покинет Врадж; сноска о неотличии Навадвипы и Враджа)."
+  themes: [revelation, krishna-lila]
+  event: ev-krishna-resolves-gaura-advent
+  verses:
+    - {file: "padas/ru/13.md", from: "2.1", to: "2.5"}
+
+- id: pad-0262
+  source: padas
+  ref: "Баларама Дас, ГПТ1 с. 2 (№ 4) «শুনহ সুন্দরি মঝু অভিলাষ»"
+  file: "padas/ru/13.md"
+  period: P00
+  order: 36.53
+  title: "Нанди: Кришна обещает явить прему Враджа в Надии, не покидая Враджа"
+  summary: "Кришна отвечает: Он явит прему Враджа, со всеми пастухами будет играть в Надии; их тела станут одним, Он будет непрестанно повторять её имя и не покинет Врадж — без Враджа премы не обрести."
+  persons: ["@balarama-dasa-poet", "@krishna", "@radha"]
+  places: ["#vrindavana", "#navadvipa"]
+  kind: pre-advent
+  authority: C
+  parallels: "ЧЧ Ади 1.5; 4.55"
+  notes: "Только ГПТ. «Два тела — одно»: Гаура есть Радха и Кришна в одном облике (сноска)."
+  themes: [revelation, krishna-lila]
+  event: ev-krishna-resolves-gaura-advent
+  verses:
+    - {file: "padas/ru/13.md", from: "3.1", to: "3.5"}
+
+- id: pad-0263
+  source: padas
+  ref: "Васу Гхош (в ГПТ1 — Баларама Дас), ПК 2255 = ГПТ1 с. 18 (№ 47) «পুরবে বান্ধিল চূড়া এবে কেশ-হীন»"
+  file: "padas/ru/13.md"
+  period: P09
+  order: 30.55
+  title: "Кришна-пастух стал санньяси: «Баларама — авадхута, Канай — санньяси»"
+  summary: "Прежде Он завязывал волосы в узел — теперь обрит; вместо подойника — кувшин санньяси; в Трета-югу лук, в Двапару флейта, в Кали-югу посох; поэт возвещает жителям Надии: Баларама стал авадхутой, Канай — санньяси."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@nityananda", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья 26"
+  notes: "В ПК подпись Васу Гхоша, в ГПТ1 — Баларамы (составитель ГПТ1 сам отмечает подпись Васу в рукописи и ПК); в каталоге — новая строка."
+  themes: [sannyasa, revelation]
+  bhava: [sannyasi]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "padas/ru/13.md", from: "4.1", to: "4.4"}
+
+- id: pad-0264
+  source: padas
+  ref: "Баларама Дас / «Натавара», ПК 2250 = ГПТ1 с. 18–19 (№ 48) «গোপীগণ-কুচ-কুঙ্কুমে বঞ্চিত»"
+  file: "padas/ru/13.md"
+  period: P09
+  order: 30.56
+  title: "Тот, кого обнимали девы Враджа, стал нищим, просящим прему"
+  summary: "Лишившись кункумы гопи, Он носит шафрановую ткань; Тот, кто был наставником любви сотен тысяч юных дев, принял санньясу; весь в мурашках и слезах премы, Танцор Вриндавана просит прему из дома в дом."
+  persons: ["@balarama-dasa-poet", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 4; 7"
+  notes: "В ПК подпись «Натавара» (в П-Р-Са — Баларама), в ГПТ1 — Баларама. Язык мадхурья-расы (гуру-лампата) — сноска: любовь гопи — према, не мирская страсть."
+  themes: [sannyasa, ecstasy]
+  bhava: [sannyasi]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "padas/ru/13.md", from: "5.1", to: "5.4"}
+
+- id: pad-0265
+  source: padas
+  ref: "Йадунатх Дас, ПК 2180 = ГПТ1 с. 36 (№ 28) «গৌর-বরণ তনু সুন্দর সুখময়»"
+  file: "padas/ru/13.md"
+  period: P07
+  order: 134.34
+  title: "Гаура и Гададхара — озеро премы, переполнившее Надию"
+  summary: "Золотой Гаура в лесной гирлянде; слева от Него любимый Гададхара, и открывается сокровенная раса, словно круг расы; в Надии столько лун, что тьма ушла; Гаура и Гададхара — озеро премы, наполнившее землю; поэт плачет, не получив её касания."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ПК 2179 (Наянананда)"
+  notes: "В каталоге (ЙД-006) числилась «только ГПТ»; найдена в ПК — ядро. Сокровенная раса Гауры и Гададхары — према (сноска)."
+  themes: [ecstasy]
+  bhava: [radha]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/13.md", from: "6.1", to: "6.4"}
+
+- id: pad-0266
+  source: padas
+  ref: "Баларама Дас, ПК 2346 = ГПТ1 с. 38 (№ 37) «যত যত অবতার-সার»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.11
+  title: "Хвала Гаура-аватаре: паводок премы, обделён лишь поэт"
+  summary: "Из всех воплощений прославлен Гора-аватара: прему и имя, недоступные Брахме, Господь раздал вплоть до чандалов; в паводке премы пляшут чужеземцы и безбожники, звери и птицы творят киртан; обделён лишь Баларама."
+  persons: ["@balarama-dasa-poet", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 7; ЧБ Мадхья 13"
+  notes: "В каталоге (БД-009) числилась «только ГПТ»; найдена в ПК — ядро."
+  themes: [mercy, author]
+  verses:
+    - {file: "padas/ru/13.md", from: "7.1", to: "7.5"}
+
+- id: pad-0267
+  source: padas
+  ref: "Баларама Дас (?), ГПТ1 с. 38 (№ 39) «সব অবতার সার গোরা অবতার» (≈ ПК 2203, Лочан Дас)"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.12
+  title: "Хвала Гаура-аватаре: не служащий Гауре сам пьёт яд"
+  summary: "Такой милости, как у Гора-аватары, не было: Господь, упрашивая, раздавал прему падшим; кто не служит Ему — пьёт яд своею рукой и не спасётся и за миллионы кальп; поэт кается, что не служил Ему."
+  persons: ["@balarama-dasa-poet", "@mahaprabhu", "@lochana-dasa"]
+  places: []
+  kind: author
+  authority: D
+  parallels: "ПК 2203 (Лочан Дас)"
+  notes: "Двустишия 1–4 — начало пады Лочана Даса ПК 2203; в ГПТ1 вместо её окончания — двустишие с подписью Баларамы. Атрибуция крайне сомнительна."
+  themes: [mercy, author]
+  verses:
+    - {file: "padas/ru/13.md", from: "8.1", to: "8.5"}
+
+- id: pad-0268
+  source: padas
+  ref: "Баларама Дас, ПК 2196 = ГПТ1 с. 39 (№ 40) «নবদ্বীপ-গগনে উয়ল দিন রাতি»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.13
+  title: "Гаура — туча, проливающая нектар премы над Навадвипой"
+  summary: "Гаура — воплощение тучи: день и ночь ливень премы над Навадвипой; пляшут павлины-преданные, квакают лягушки-непреданные; молния киртана сожгла лес йоги, гром расколол знание; земля утонула, лишь поэт остался на горе сансары."
+  persons: ["@balarama-dasa-poet", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: C
+  parallels: "Бхаг. 10.20 (образы сезона дождей)"
+  notes: "Новая строка каталога; ядро (ПК)."
+  themes: [kirtan, mercy, author]
+  verses:
+    - {file: "padas/ru/13.md", from: "9.1", to: "9.9"}
+
+- id: pad-0269
+  source: padas
+  ref: "Ананта (Рая Ананта?), ГПТ1 с. 40 (№ 44) «গৌর নবঘন প্রেমধারা বরিষিল»"
+  file: "padas/ru/13.md"
+  period: PX
+  order: 8.14
+  title: "Гаура проливает прему, Нитай поливает росток"
+  summary: "Гаура — молодая туча — пролил прему; почва злых помыслов раздроблена пахотой бхакти, проросла према; Нитай поливает росток, дерево премы растёт и плодоносит для всех; поэт обделён своей кармой."
+  persons: ["@ananta-acharya", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 9 (древо премы)"
+  notes: "Только ГПТ (АН-010); подпись «Ананта», вероятно Рая Ананта (Ананта из ветви Адвайты по М-1961)."
+  themes: [mercy, author]
+  verses:
+    - {file: "padas/ru/13.md", from: "10.1", to: "10.4"}
+
+- id: pad-0270
+  source: padas
+  ref: "Мурари (?), ГПТ1 с. 77 (№ 47) «শচীর আঙ্গিনা মাঝে ভুবনমোহন সাজে»"
+  file: "padas/ru/13.md"
+  period: P02
+  order: 30.5
+  title: "Малыш Гора ползает во дворе Шачи; Мурари предсказывает санньясу"
+  summary: "Горачанд ползает и ковыляет по двору Шачи, держась за палец матери; весь в пыли, Он слезает с её колен и катается по земле; Мурари, смеясь, говорит: это не дитя для колен — Гаурахари станет санньяси."
+  persons: ["@murari-gupta", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4"
+  notes: "Только ГПТ; по Маджумдару — сомнительна (каталог МУ-001 = МУ-006)."
+  divergence: "Мурари, предсказывающий санньясу младенцу, в житиях не упоминается."
+  themes: [family, pranks]
+  bhava: [child]
+  event: ev-nimai-first-steps
+  verses:
+    - {file: "padas/ru/13.md", from: "11.1", to: "11.3"}
+
+- id: pad-0271
+  source: padas
+  ref: "Мурари (?), ГПТ1 с. 77–78 (№ 48) «শচীর দুলাল মনোরঙ্গে»"
+  file: "padas/ru/13.md"
+  period: P03
+  order: 95.5
+  title: "Нимай с детьми поёт «Хари, Хари»"
+  summary: "Сын Шачи пляшет в кругу ровесников, они кружатся, хлопают в ладоши; Гора возглашает «Хари!», дети вторят, Кали дрожит; Мурари полон радости — царству греха конец."
+  persons: ["@murari-gupta", "@mahaprabhu", "@kali-personified"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 4; ЧЧ Ади 14"
+  notes: "Только ГПТ; по Маджумдару — возможно интерполяция (МУ-007)."
+  themes: [kirtan, pranks]
+  bhava: [child]
+  event: ev-child-kirtan
+  verses:
+    - {file: "padas/ru/13.md", from: "12.1", to: "12.7"}
+
+- id: pad-0272
+  source: padas
+  ref: "Йадунатх / Йадунандана (?), ГПТ1 с. 271 (№ 76) «নিত্যানন্দ সঙ্গে নাচে প্রভু গৌরচন্দ্র»"
+  file: "padas/ru/13.md"
+  period: P07
+  order: 80.71
+  title: "Гаура и Нитьянанда пляшут; Господь обнимает падших и Гадаи"
+  summary: "Господь пляшет с Нитьянандой и спутниками, земля плывёт от слёз; Он обнимает падших и рыдает, обнимает Гадаи и зовёт Говинду, Мадхаву и Васу."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 10; ср. КГЧ 29.1 (Васу Рамананда)"
+  notes: "Только ГПТ; подпись «Йаду» (ЙД-007 = ЙН-013)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/13.md", from: "13.1", to: "13.5"}
+
+- id: pad-0273
+  source: padas
+  ref: "Рая Ананта, ГПТ1 с. 271–272 (№ 79) «নদীয়া-আকাশে সংকীর্তন-মেঘ সাজে»"
+  file: "padas/ru/13.md"
+  period: P07
+  order: 80.72
+  title: "Гроза санкиртаны над Надией и Шантипуром"
+  summary: "В небе Надии встала туча киртана: гремят кхол и караталы, хункары — как гром; два Владыки проливают ливень имени, сверкает молния бхавы; Надия и Шантипур залиты дождём премы."
+  persons: ["@ananta-acharya", "@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ (АН-009)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "padas/ru/13.md", from: "14.1", to: "14.4"}
+
+- id: pad-0274
+  source: padas
+  ref: "Баларама Дас, ПК 2254 = ГПТ1 с. 289 (№ 39) «হরি হরি গোরা কেনে কান্দে»"
+  file: "padas/ru/13.md"
+  period: P14
+  order: 100.6
+  title: "«Отчего плачет Гора?» — причина в той, чей это цвет"
+  summary: "Оставив Калинди и кадамбу, Гора плачет на берегу океана; Тот, кто плясал расу с гопи, принял санньясу; глаза, пленявшие Ангу, льют слёзы; поэт не знает причины — причина в той, чей это золотой цвет."
+  persons: ["@balarama-dasa-poet", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Ади 4"
+  notes: "В каталоге (БД-024) числилась «только ГПТ»; найдена в ПК — ядро. ПК 764 — пада Васу Гхоша с тем же зачином (порция 08)."
+  themes: [ecstasy, separation, sannyasa]
+  bhava: [radha, sannyasi]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/13.md", from: "15.1", to: "15.7"}
+
+- id: pad-0275
+  source: padas
+  ref: "Йадунатх Дас, ГПТ1 с. 349 (№ 18) «প্রভাতে জাগিল গোরাচাঁদ»"
+  file: "padas/ru/13.md"
+  period: P07
+  order: 134.61
+  title: "Утро в Навадвипе: Горачанд просыпается, преданные собираются"
+  summary: "Горачанд просыпается, глаза красны со сна, Он потягивается, как золотой лук Ананги; преданные приходят на рассвете, Он умывается и садится в их кругу; поэт говорит, что видит эти игры всегда."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Только ГПТ (аштакалия; ЙД-003). Подпись — как у очевидца (М-1961)."
+  themes: [family]
+  event: ev-gaura-morning-navadvipa
+  verses:
+    - {file: "padas/ru/13.md", from: "16.1", to: "16.6"}
+
+- id: pad-0276
+  source: padas
+  ref: "Мурари, ГПТ1 с. 378–379 (№ 42) «চলিল নদীয়ার লোক গৌরাঙ্গ দেখিতে»"
+  file: "padas/ru/13.md"
+  period: P09
+  order: 40.5
+  title: "Жители Надии во главе с Шачи спешат в Шантипур"
+  summary: "По слову Нитьянанды жители Надии идут увидеть Гаурангу: впереди Шачи; все плачут «Ха Гауранга!», словно ожив от слов Нитая; Надия опустела, позади всех идёт Мурари."
+  persons: ["@murari-gupta", "@shachi", "@nityananda", "@mahaprabhu"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 3; ЧБ Антья 1"
+  notes: "Только ГПТ (МУ-008); продолжение ПК 2231 (порция 06). По Маджумдару — авторство не доказано."
+  themes: [separation]
+  event: ev-nityananda-brings-navadvipa-to-shantipura
+  verses:
+    - {file: "padas/ru/13.md", from: "17.1", to: "17.5"}
+
+- id: pad-0277
+  source: padas
+  ref: "Йадунатх Дас, ГПТ1 с. 412 (№ 29) «আসিবে আমার গৌরাঙ্গসুন্দর»"
+  file: "padas/ru/13.md"
+  period: P12
+  order: 290.5
+  title: "Мечта о возвращении Гауранги в Надию"
+  summary: "Поэт мечтает: Гаурасундар придёт в Надию; он расставит кувшины и банановые деревца, женщины сбегутся, в каждом доме зазвучит «Хари!»; мать обнимет Сына и уведёт домой, а поэт припадёт к Его стопам."
+  persons: ["@yadunatha-kavichandra", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 16"
+  notes: "Только ГПТ (ЙД-004)."
+  themes: [separation]
+  event: ev-navadvipa-awaits-lord-return
+  verses:
+    - {file: "padas/ru/13.md", from: "18.1", to: "18.5"}
