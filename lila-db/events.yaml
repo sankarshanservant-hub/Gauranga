@@ -5262,3 +5262,23 @@
   cb: ""
   themes: [separation, family]
   notes: "Пада Чандрашекхары (ПК 1854, вслед за ПК 1853 Мадхави Даса) описывает приход Джагадананды и радость Навадвипы."
+
+- id: ev-nilachala-sankirtana
+  title: "Санкиртана Господа со спутниками в Нилачале"
+  title_en: "The Lord's sankirtana with His companions in Nilachala"
+  period: P12
+  order: 6
+  cc: "Мадхья 11, 13"
+  cb: ""
+  themes: [kirtan, ecstasy]
+  notes: "Сводное событие для описаний киртанов Господа в Пури без привязки к определённому дню (танец в киртане, санкиртана на берегу моря со Сварупой, Раманандой, Говиндой, Парамананда Пури); пады Васу Рамананды (ПК 2082) и Нарахари (ПК 2241)."
+
+- id: ev-jagannatha-darshan-gopi-bhava
+  title: "Даршан Джаганнатхи в бхаве гопи"
+  title_en: "Darshan of Jagannatha in the mood of a gopi"
+  period: P14
+  order: 99.8
+  cc: "Антья 14"
+  cb: ""
+  themes: [jagannatha, ecstasy, krishna-lila]
+  notes: "Господь, созерцая Джаганнатху, видит в Нём Кришну и в бхаве гопи укоряет Его (пада Нарахари, ПК 799); ср. ЧЧ Мадхья 13 (Ратха-ятра), Антья 14 (даршан у Гаруда-стамбхи)."

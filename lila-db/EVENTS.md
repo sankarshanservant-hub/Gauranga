@@ -1381,6 +1381,8 @@
 - chaitanya-chandrodaya (A): Акт 6, вечер у Господа — [*(Входит Господь, оцепеневший от блаженс–**Господь.** Хорошо, хорошо.](../chaitanya-chandrodaya/ru/06.md?plain=1#L468-L512) · `ccd-0050`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 147–160 (с 148+1–148+2, 153+1) — [147–160](../lochana/ru/45.md?plain=1#L112-L160) · `lcm-0209`
 - murari-kcc (A): Пракрама 3, сарга 11, шлоки 1–15 — [1–15](../murari-gupta/ru/3.11.md?plain=1#L5-L33) · `mkc-0163`
+- padas (C): Мадхави Дас, ПК 2239 «কলহ করিয়া ছলা» — [1.1–1.5](../padas/ru/02.md?plain=1#L15-L34) · `pad-0027`
+- padas (C): Мадхави, ПК 2240 «নিত্যানন্দ সঙ্গতি মুকুন্দ গদাধরে» — [2.1–2.6](../padas/ru/02.md?plain=1#L62-L77) · `pad-0028`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 175–202 — [175–202](../lochana/ru/45.md?plain=1#L217-L298) · `lcm-0212`
 - murari-kcc (A): Пракрама 3, сарга 11, шлоки 20–22 — [20–22](../murari-gupta/ru/3.11.md?plain=1#L43-L47) · `mkc-0165`
 - govinda-karcha (D): Часть 3, 505–510 — [505–510](../govinda-kadacha/ru/03.md?plain=1#L222-L237) · `gkr-0029`
@@ -1706,6 +1708,11 @@
 - govinda-karcha (D): Часть 11, 2438 — часть 12, 2453 — [2438–2440](../govinda-kadacha/ru/11.md?plain=1#L696-L702); [2441–2453](../govinda-kadacha/ru/12.md?plain=1#L7-L45) · `gkr-0103`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 25–28 — [25–28](../lochana/ru/47.md?plain=1#L226-L235) · `lcm-0228`
 - murari-kcc (A): Пракрама 4, сарга 1, шлоки 1–5 — [1–5](../murari-gupta/ru/4.01.md?plain=1#L5-L13) · `mkc-0192`
+
+## Санкиртана Господа со спутниками в Нилачале / The Lord's sankirtana with His companions in Nilachala  `ev-nilachala-sankirtana` (1512–1514, возраст 26–28, оценка)
+
+- padas (A): Васу Рамананда, ПК 2082 «নাচয়ে চৈতন্য চিন্তামণি» — [4.1–4.5](../padas/ru/02.md?plain=1#L124-L136) · `pad-0030`
+- padas (A): Нарахари (Саркар), ПК 2241 «ত্রিভুবন-মনোহর শচীর নন্দন মোর» — [5.1–5.5](../padas/ru/02.md?plain=1#L151-L171) · `pad-0031`
 
 ## Господь у Львиных ворот возвещает славу вайшнавов / At the Lion Gate the Lord proclaims the glory of the Vaishnavas  `ev-glory-of-vaishnavas-lion-gate` (1512–1514, возраст 26–28, оценка)
 
@@ -2223,12 +2230,26 @@
 - prema-vilasa (C): Виласа 9, 47–58 — [47–58](../prema-vilasa/ru/09.md?plain=1#L143-L191) · `pvl-0054`
 - prema-vilasa (C): Виласа 10, 1–15 — [1–15](../prema-vilasa/ru/10.md?plain=1#L5-L47) · `pvl-0055`
 
+## Даршан Джаганнатхи в бхаве гопи / Darshan of Jagannatha in the mood of a gopi  `ev-jagannatha-darshan-gopi-bhava` (1516–1533, возраст 30–47, оценка)
+
+- padas (A): Нарахари (Саркар), ПК 799 «দেখি গোরা নীলাচল-নাথ» — [3.1–3.7](../padas/ru/02.md?plain=1#L92-L110) · `pad-0029`
+
 ## Божественное безумие Господа в бхаве Радхи (последние годы в Пури) / The Lord's divine madness in Radha's mood (the last years in Puri)  `ev-gambhira-divine-madness` (1516–1533, возраст 30–47, оценка)
 
 - advaita-prakasha (D): Гл. 19, 133–141 — [133. После пра–141. Что имя, т](../advaita-prakash/19.md?plain=1#L137-L145) · `apr-0134`
 - murari-kcc (A): Пракрама 4, сарга 24, шлоки 1–14 — [1–14](../murari-gupta/ru/4.24.md?plain=1#L5-L31) · `mkc-0252`
 - nityananda-vamsha (C): Глава 1, 47–55 — [47–55](../nityananda-vamsha/ru/01.md?plain=1#L149-L173) · `nvv-0003`
+- padas (A): Нарахари (Саркар), ПК 820 «রামানন্দ স্বরূপের সনে» — [6.1–6.5](../padas/ru/02.md?plain=1#L192-L204) · `pad-0032`
+- padas (A): Нарахари (Саркар), ПК 840 «আরে মোর গৌরকিশোর। পুরুব প্রেম-রসে ভোর» — [7.1–7.6](../padas/ru/02.md?plain=1#L218-L233) · `pad-0033`
+- padas (C): Нарахари (Саркар?), ГПТ1 с. 309–310 (№ 7) «প্রেম করি কুলবতী সনে» — [8.1–8.7](../padas/ru/02.md?plain=1#L247-L265) · `pad-0034`
+- padas (A): Нарахари (Саркар), ПК 853 «গৌর সুন্দর মোর» — [9.1–9.4](../padas/ru/02.md?plain=1#L281-L294) · `pad-0035`
 - advaita-prakasha (D): Гл. 21, 61–62 — [61. В Нём проб–62. В экстазе м](../advaita-prakash/21.md?plain=1#L65-L66) · `apr-0144`
+- padas (A): Нарахари (Саркар), ПК 1902 «কি লাগি ধুলায় ধূসর সোণার বরণ গৌর-দেহ» — [10.1–10.3](../padas/ru/02.md?plain=1#L311-L320) · `pad-0036`
+- padas (A): Нарахари (Саркар), ПК 1908 «সোণার বরণ গৌরাঙ্গসুন্দর পাণ্ডুর ভৈ গেল দেহ» — [11.1–11.4](../padas/ru/02.md?plain=1#L336-L351) · `pad-0037`
+- padas (A): Васу Рамананда, ПК 1924 = ГПТ1 с. 318 (№ 20) «আরে মোর গৌরকিশোর। সহচর-কন্ধে পহুঁ» — [12.1–12.3](../padas/ru/02.md?plain=1#L365-L374) · `pad-0038`
+- padas (A): Нарахари (Саркар), ПК 1643 «গম্ভীরা ভিতরে গোরা রায়» — [13.1–13.5](../padas/ru/02.md?plain=1#L392-L404) · `pad-0039`
+- padas (A): Нарахари (Саркар), ПК 832 «গৌরাঙ্গ-চান্দের ভাব কহনে না যায়» — [14.1–14.4](../padas/ru/02.md?plain=1#L417-L426) · `pad-0040`
+- padas (A): Васу Гхош, ПК 1662 «সিংহদ্বার তেজি গোরা সমুদ্র আড়ে ধায়» — [15.1–15.4](../padas/ru/02.md?plain=1#L442-L451) · `pad-0041`
 
 ## Нитьянанда во сне в Джхаматпуре посылает Кришнадаса Кавираджу во Вриндаван / Nityananda in a dream at Jhamatpur sends Krishnadasa Kaviraja to Vrindavana  `ev-kaviraja-nityananda-jhamatpur` (1516–1533, возраст 30–47, оценка)
 

@@ -7358,6 +7358,8 @@
    "ccd-0050",
    "lcm-0209",
    "mkc-0163",
+   "pad-0027",
+   "pad-0028",
    "lcm-0212",
    "mkc-0165",
    "gkr-0029"
@@ -7367,7 +7369,8 @@
    "chaitanya-chandrodaya",
    "govinda-karcha",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -11875,12 +11878,23 @@
    "apr-0134",
    "mkc-0252",
    "nvv-0003",
-   "apr-0144"
+   "pad-0032",
+   "pad-0033",
+   "pad-0034",
+   "pad-0035",
+   "apr-0144",
+   "pad-0036",
+   "pad-0037",
+   "pad-0038",
+   "pad-0039",
+   "pad-0040",
+   "pad-0041"
   ],
   "sources": [
    "advaita-prakasha",
    "murari-kcc",
-   "nityananda-vamsha"
+   "nityananda-vamsha",
+   "padas"
   ]
  },
  {
@@ -16015,6 +16029,68 @@
   ],
   "entries": [
    "pad-0025"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-nilachala-sankirtana",
+  "title": "Санкиртана Господа со спутниками в Нилачале",
+  "title_en": "The Lord's sankirtana with His companions in Nilachala",
+  "period": "P12",
+  "order": 6,
+  "cc": "Мадхья 11, 13",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "Сводное событие для описаний киртанов Господа в Пури без привязки к определённому дню (танец в киртане, санкиртана на берегу моря со Сварупой, Раманандой, Говиндой, Парамананда Пури); пады Васу Рамананды (ПК 2082) и Нарахари (ПК 2241).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "pad-0030",
+   "pad-0031"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-jagannatha-darshan-gopi-bhava",
+  "title": "Даршан Джаганнатхи в бхаве гопи",
+  "title_en": "Darshan of Jagannatha in the mood of a gopi",
+  "period": "P14",
+  "order": 99.8,
+  "cc": "Антья 14",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "notes": "Господь, созерцая Джаганнатху, видит в Нём Кришну и в бхаве гопи укоряет Его (пада Нарахари, ПК 799); ср. ЧЧ Мадхья 13 (Ратха-ятра), Антья 14 (даршан у Гаруда-стамбхи).",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "pad-0029"
   ],
   "sources": [
    "padas"

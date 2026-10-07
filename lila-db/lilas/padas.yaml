@@ -578,3 +578,335 @@
   event: ev-tattva-gaura-scripture-proofs
   verses:
     - {file: "padas/ru/01.md", from: "26.1", to: "26.4"}
+
+- id: pad-0027
+  source: padas
+  ref: "Мадхави Дас, ПК 2239 «কলহ করিয়া ছলা»"
+  file: "padas/ru/02.md"
+  period: P10
+  order: 5.1
+  title: "Нитьянанда ищет Господа в Пури; Господь входит в дом Сарвабхаумы"
+  summary: "Сделав ссору предлогом, Господь уходит вперёд к Джаганнатхе; Нитай, плача, идёт от Атхараналы, у Львиных ворот расспрашивает жителей Нилачалы о санньяси; Господь входит в дом Бхаттачарьи."
+  persons: ["@madhavi-dasa", "@mahaprabhu", "@nityananda", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 5–6; ЧБ Антья 2–3; Мурари 3.10–3.11"
+  notes: "Бханита «মাধবী দাস» (ПК); в ГПТ1/ГПТ2 та же пада с другими чтениями и бханитой Говинды Даса. Атрибуция сомнительна. Затрагивает и ev-danda-broken (ссора из-за сломанного посоха)."
+  themes: [jagannatha, separation, sannyasa]
+  years: [1510, 1510]
+  date_conf: вероятно
+  date_basis: "По содержанию: прибытие Господа в Пури после санньясы (ЧЧ Мадхья 5–6); Маджумдар паду не разбирает"
+  cc: "Мадхья 5–6"
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "padas/ru/02.md", from: "1.1", to: "1.5"}
+
+- id: pad-0028
+  source: padas
+  ref: "Мадхави, ПК 2240 «নিত্যানন্দ সঙ্গতি মুকুন্দ গদাধরে»"
+  file: "padas/ru/02.md"
+  period: P10
+  order: 5.2
+  title: "Спутники находят Господа в доме Сарвабхаумы"
+  summary: "Нитьянанда, Мукунда и Гададхара видят Гаурачандру в доме Сарвабхаумы: золотистое сияние, алые одежды, слёзы премы; Гопинатха, Ванинатха, Сарвабхаума, Каши и все жители Нилачалы созерцают Его; Нитай справа, Гададхара слева."
+  persons: ["@madhavi-dasa", "@mahaprabhu", "@nityananda", "@mukunda-datta", "@gadadhara-pandita", "@gopinatha-acharya", "@vaninatha-raya", "@sarvabhauma", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 6"
+  notes: "Бханита «মাধবি» (рук. «মাধবী», «মাধব»). Ванинатха и Каши Мишра по ЧЧ встретились с Господом позднее (Мадхья 10) — поэт объединяет их в одной картине."
+  themes: [ecstasy, jagannatha]
+  years: [1510, 1510]
+  date_conf: вероятно
+  date_basis: "По содержанию: продолжение ПК 2239 (прибытие в Пури)"
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "padas/ru/02.md", from: "2.1", to: "2.6"}
+
+- id: pad-0029
+  source: padas
+  ref: "Нарахари (Саркар), ПК 799 «দেখি গোরা নীলাচল-নাথ»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 99.81
+  title: "Господь в бхаве гопи укоряет Кришну при даршане Джаганнатхи"
+  summary: "Увидев Владыку Нилачалы, Гора со спутниками погружается в бхаву гопи и укоряет: «Мне без Тебя не жить, а Ты не обернёшься; дал мне луну с небес, а ныне увидеть Тебя — лишь весть»."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@jagannatha-deity", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 13; Антья 14"
+  notes: "В ПК — гаура-чандрика к «упрёкам Кришне» (акшепанурага)."
+  themes: [jagannatha, ecstasy, krishna-lila]
+  bhava: [gopi, radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: пурийские пады Нарахари Саркара — свидетельства очевидца ежегодных поездок гаудиев, при жизни Господа"
+  event: ev-jagannatha-darshan-gopi-bhava
+  verses:
+    - {file: "padas/ru/02.md", from: "3.1", to: "3.7"}
+
+- id: pad-0030
+  source: padas
+  ref: "Васу Рамананда, ПК 2082 «নাচয়ে চৈতন্য চিন্তামণি»"
+  file: "padas/ru/02.md"
+  period: P12
+  order: 6.1
+  title: "Танец Чайтаньи в санкиртане"
+  summary: "Чайтанья пляшет, по груди струятся слёзы, катается по земле и с громовым возгласом встаёт, кружится, воздев руки, заставляет падших повторять «Хари»; поэт просит сокровища премы."
+  persons: ["@ramananda-vasu", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 11, 13"
+  notes: "В ГПТ2 дважды (разд. 4.2, № 17 и 74)."
+  themes: [kirtan, ecstasy, mercy]
+  date_conf: оценка
+  date_basis: "Маджумдар: Пури — Господь назван именем санньяси «Чайтанья»"
+  event: ev-nilachala-sankirtana
+  verses:
+    - {file: "padas/ru/02.md", from: "4.1", to: "4.5"}
+
+- id: pad-0031
+  source: padas
+  ref: "Нарахари (Саркар), ПК 2241 «ত্রিভুবন-মনোহর শচীর নন্দন মোর»"
+  file: "padas/ru/02.md"
+  period: P12
+  order: 6.2
+  title: "От санньясы до Нилачалы: санкиртана на берегу моря"
+  summary: "Сын Шачи оставил богатства, кудри и украшения, принял санньясу и живёт в Нилачале; раздаёт имя и прему падшим; со Сварупой, Рупой, Раманандой, Говиндой и Парамананда устраивает санкиртану на берегу моря; всё это — из любви к Радхе."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@svarupa-damodara", "@rupa-gosvami", "@ramananda-raya", "@govinda-servant", "@paramananda-puri", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17 (санньяса); Мадхья 10–11; Антья 1"
+  notes: "У Маджумдара также под опечаткой «ПК 1241». «Рупы» нет в рук. к, кх, ч."
+  themes: [kirtan, sannyasa, mercy]
+  teaching: [gaura-tattva]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца пурийского периода (киртан со Сварупой и др.)"
+  event: ev-nilachala-sankirtana
+  verses:
+    - {file: "padas/ru/02.md", from: "5.1", to: "5.5"}
+
+- id: pad-0032
+  source: padas
+  ref: "Нарахари (Саркар), ПК 820 «রামানন্দ স্বরূপের সনে»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.1
+  title: "Флейта Кришны: Господь со Сварупой и Раманандой"
+  summary: "Сидя с Раманандой и Сварупой, Господь вздрагивает, зовёт «Подруга!», бранит флейту: её звук губит род и честь, вошёл в уши и оглушил; Нарахари улыбается про себя."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 15–17"
+  notes: "В ПК — гаура-чандрика к «упрёкам флейте»."
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: Пури, при жизни Господа (очевидец)"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "6.1", to: "6.5"}
+
+- id: pad-0033
+  source: padas
+  ref: "Нарахари (Саркар), ПК 840 «আরে মোর গৌরকিশোর। পুরুব প্রেম-রসে ভোর»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.2
+  title: "«Никто не понимает моего сердца»: Господь со Сварупой и Рамараем"
+  summary: "Упоённый расой прежней любви, Господь держит за руки Сварупу Дамодару и Рамарая, вздыхает и говорит: «Никто не понимает моего сердца; зачем было растить эту любовь?»"
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@svarupa-damodara", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "Та же первая строка — у Чайтаньядаса (ПК 1985, встреча). У Маджумдара опечатка «ПК 804»."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: Пури (упомянуты Сварупа и Рамарай), при жизни Господа"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "7.1", to: "7.6"}
+
+- id: pad-0034
+  source: padas
+  ref: "Нарахари (Саркар?), ГПТ1 с. 309–310 (№ 7) «প্রেম করি কুলবতী সনে»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.3
+  title: "Господь в бхаве Радхи-кхандиты говорит Сварупе о Кану"
+  summary: "В бхаве оскорблённой Радхи Господь жалуется Сварупе: Кану позвал флейтой, обещал встречу, а провёл ночь в чужом доме; Гора плачет в обиде, плачет и Нарахари."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@svarupa-damodara", "@krishna", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–19"
+  notes: "Только ГПТ (ГПТ1, ГПТ2); по Маджумдару (1959) пады Нарахари, известные лишь по ГПТ, ненадёжны; Б. Б. Маджумдар (1961) принимает паду как Нарахари Саркара (собр. Адвайтадаса Пандита Бабаджи)."
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "По содержанию (беседа со Сварупой) — Пури"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "8.1", to: "8.7"}
+
+- id: pad-0035
+  source: padas
+  ref: "Нарахари (Саркар), ПК 853 «গৌর সুন্দর মোর»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.4
+  title: "Господь в бхаве Радхи укоряет Камадеву"
+  summary: "Гаура в уединении плачет и, смятенный любовью к Хари, говорит словами Радхи: Манасиджа терзает сердце слабой женщины; бессвязно говорит, погружённый в прежние деяния."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "В ПК — гаура-чандрика к «упрёкам Кандарпе». Место не названо; отнесено к пурийскому периоду по бхаве разлуки."
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: гаура-чандрики Нарахари Саркара в ПК (акшепанурага 853) — описания реальных бхав Господа"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "9.1", to: "9.4"}
+
+- id: pad-0036
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1902 «কি লাগি ধুলায় ধূসর সোণার বরণ গৌর-দেহ»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.5
+  title: "Поблёкшее тело Господа (малинангата)"
+  summary: "Золотое тело Гауры серо от пыли; оставив сиденье и убранство, Он со стонами бьёт себя в грудь, взмокший от пота, вздыхает — таков путь любви Раи."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "В ПК — раздел «Десять состояний» (малинангата)."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: вираха-пада Нарахари Саркара (ПК 1902)"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "10.1", to: "10.3"}
+
+- id: pad-0037
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1908 «সোণার বরণ গৌরাঙ্গসুন্দর পাণ্ডুর ভৈ গেল দেহ»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.6
+  title: "Состояние «недуга» (вьядхи): бледность, дрожь, слёзы"
+  summary: "Тело Гауранги побледнело, Он дрожит, вспоминая прежнюю любовь, неподвижен, как нарисованная кукла, льёт слёзы, то поёт, то рыдает, воздевает руки с «Хари, Хари»."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "В ПК — раздел «Десять состояний» (вьядхи)."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Б. Б. Маджумдар (1961): пада Нарахари Саркара; бхава разлуки — пурийский период"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "11.1", to: "11.4"}
+
+- id: pad-0038
+  source: padas
+  ref: "Васу Рамананда, ПК 1924 = ГПТ1 с. 318 (№ 20) «আরে মোর গৌরকিশোর। সহচর-কন্ধে পহুঁ»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.7
+  title: "«Девятое состояние»: Господь зовёт «О Натха!», называя Матхуру"
+  summary: "Опираясь на плечи спутников, Господь в девятом состоянии падает без чувств, никто не смеет Его коснуться; тело тонко, как нить; неподвижным взором, называя Матхуру, Он плачет: «О Натха!»"
+  persons: ["@ramananda-vasu", "@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "В скане ПК т. 3 сохранилось лишь последнее двустишие (пропуск печ. с. 147–150); полный текст — ГПТ1. У Маджумдара опечатка «ПК 1920»."
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: Пури — тело «как нить», плач с именем Матхуры"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "12.1", to: "12.3"}
+
+- id: pad-0039
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1643 «গম্ভীরা ভিতরে গোরা রায়»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.8
+  title: "Ночь без сна в Гамбхире"
+  summary: "В Гамбхире Господь не спит всю ночь: сетует, плачет, дрожит, трётся лицом и головой о стену, воздев руки, зовёт: «Где мой Владыка жизни?» — забывшись в любви Раи."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 19"
+  notes: "Текст прочитан по скану ПК (в OCR отсутствует). В ПК — «кевала-джагарана-даша»."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: Гамбхира — «квинтэссенция» Антья-лилы ЧЧ; пада очевидца, при жизни Господа"
+  cc: "Антья 19"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "13.1", to: "13.5"}
+
+- id: pad-0040
+  source: padas
+  ref: "Нарахари (Саркар), ПК 832 «গৌরাঙ্গ-চান্দের ভাব কহনে না যায়»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.9
+  title: "«Брошусь в море»: Господь корит себя за любовь"
+  summary: "В уединении Господь стонет; спутникам говорит: «Брошусь в море! Сам я затеял эту жестокую любовь, на обе семьи пал позор»; Нарахари, постигнув Его сердце, поёт об этом."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 18 (падение в море)"
+  notes: "Вариант рукописи «к» ПК и ГПТ: «в воды Ямуны». По Маджумдару — предвестие падения Господа в море."
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: Пури, предвещает прыжок в море (ЧЧ Антья 18)"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "14.1", to: "14.4"}
+
+- id: pad-0041
+  source: padas
+  ref: "Васу Гхош, ПК 1662 «সিংহদ্বার তেজি গোরা সমুদ্র আড়ে ধায়»"
+  file: "padas/ru/02.md"
+  period: P14
+  order: 100.95
+  title: "Бег от Львиных ворот к морю: «Где Кришна?»"
+  summary: "Оставив Львиные ворота, Гора бежит к морю, спрашивая всех: «Где Кришна?»; вокруг преданные поют, а Он катается в пыли, падает без чувств, на устах пена; сердце поэта разрывается."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14 (Чатака-парвата), 17–18; Мурари 4.24"
+  notes: "В ПК — раздел «Дивья-унмада». Следующая пада ПК 1663 (без бханиты; в ГПТ — Васу Гхош) не включена."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: историческая пада Васу Гхоша (бег к морю в Пури), свидетельство очевидца"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/02.md", from: "15.1", to: "15.4"}
