@@ -936,10 +936,12 @@
   "notes": "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра).",
   "entries": [
    "jcm-0013",
+   "kcm-0004",
    "mkc-0003"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -1195,10 +1197,12 @@
   "notes": "Мурари 1.02.1–4: Шачи — дочь Ниламбары Чакраварти; гуру даёт Джаганнатхе звание «Мишра Пурандара».",
   "entries": [
    "jcm-0011",
+   "kcm-0005",
    "mkc-0004"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -1258,11 +1262,13 @@
    "apr-0036",
    "apr-0039",
    "jcm-0015",
+   "kcm-0006",
    "mkc-0005"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -1351,11 +1357,13 @@
   "notes": "Мурари 1.05.",
   "entries": [
    "apr-0040",
+   "kcm-0007",
    "lcm-0032",
    "mkc-0014"
   ],
   "sources": [
    "advaita-prakasha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1429,9 +1437,11 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "kcm-0008",
    "apr-0042",
    "ccd-0005",
    "jcm-0018",
+   "kcm-0009",
    "lcm-0035",
    "mkc-0016",
    "pvl-0041",
@@ -1443,6 +1453,7 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas",
@@ -1473,9 +1484,11 @@
   ],
   "notes": "Мурари 1.05.23–27: Юпитер в экзальтации; предсказана санньяса.",
   "entries": [
+   "kcm-0011",
    "mkc-0017"
   ],
   "sources": [
+   "karnapura-ckm",
    "murari-kcc"
   ]
  },
@@ -1633,12 +1646,14 @@
   ],
   "entries": [
    "jcm-0020",
+   "kcm-0010",
    "lcm-0037",
    "mkc-0020",
    "pad-0130"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -1670,12 +1685,14 @@
   "entries": [
    "apr-0046",
    "jcm-0019",
+   "kcm-0012",
    "lcm-0038",
    "mkc-0019"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1703,10 +1720,12 @@
    1
   ],
   "entries": [
+   "kcm-0013",
    "lcm-0039",
    "mkc-0021"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1767,10 +1786,12 @@
    1
   ],
   "entries": [
+   "kcm-0016",
    "lcm-0041",
    "mkc-0026"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -1923,11 +1944,13 @@
   ],
   "entries": [
    "jcm-0022",
+   "kcm-0014",
    "lcm-0044",
    "mkc-0024"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2047,11 +2070,13 @@
   ],
   "entries": [
    "jcm-0023",
+   "kcm-0015",
    "lcm-0046",
    "mkc-0025"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2334,6 +2359,7 @@
   "entries": [
    "ccd-0009",
    "jcm-0028",
+   "kcm-0017",
    "lcm-0055",
    "mkc-0027",
    "pvl-0038",
@@ -2344,6 +2370,7 @@
   "sources": [
    "chaitanya-chandrodaya",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "prema-vilasa"
@@ -2471,10 +2498,12 @@
    10
   ],
   "entries": [
+   "kcm-0018",
    "lcm-0060",
    "mkc-0030"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2567,12 +2596,14 @@
    10
   ],
   "entries": [
+   "kcm-0019",
    "lcm-0063",
    "mkc-0031",
    "lcm-0064",
    "mkc-0032"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2603,11 +2634,13 @@
   ],
   "entries": [
    "jcm-0030",
+   "kcm-0021",
    "lcm-0065",
    "mkc-0033"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2665,14 +2698,17 @@
    10
   ],
   "entries": [
+   "kcm-0020",
    "apr-0048",
    "jcm-0027",
+   "kcm-0022",
    "lcm-0066",
    "mkc-0034"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2942,11 +2978,13 @@
   ],
   "entries": [
    "jcm-0039",
+   "kcm-0023",
    "lcm-0067",
    "mkc-0035"
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -2975,6 +3013,7 @@
   ],
   "entries": [
    "jcm-0040",
+   "kcm-0024",
    "lcm-0068",
    "mkc-0036",
    "lcm-0069",
@@ -2982,6 +3021,7 @@
   ],
   "sources": [
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3012,8 +3052,10 @@
   "entries": [
    "apr-0059",
    "jcm-0041",
+   "kcm-0025",
    "lcm-0070",
    "mkc-0038",
+   "kcm-0026",
    "lcm-0071",
    "mkc-0039",
    "lcm-0072",
@@ -3028,6 +3070,7 @@
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3271,6 +3314,7 @@
   "entries": [
    "apr-0062",
    "jcm-0043",
+   "kcm-0027",
    "lcm-0079",
    "mkc-0043",
    "pvl-0230",
@@ -3281,6 +3325,7 @@
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas",
@@ -3347,6 +3392,7 @@
    "apr-0064",
    "ccd-0008",
    "jcm-0044",
+   "kcm-0028",
    "lcm-0082",
    "mkc-0045"
   ],
@@ -3354,6 +3400,7 @@
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3385,12 +3432,14 @@
   "entries": [
    "apr-0066",
    "jcm-0045",
+   "kcm-0029",
    "lcm-0083",
    "mkc-0046"
   ],
   "sources": [
    "advaita-prakasha",
    "jayananda-cm",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3419,6 +3468,7 @@
    22
   ],
   "entries": [
+   "kcm-0030",
    "lcm-0084",
    "mkc-0047",
    "mkc-0048",
@@ -3426,6 +3476,7 @@
    "mkc-0049"
   ],
   "sources": [
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -3455,6 +3506,7 @@
   ],
   "entries": [
    "apr-0067",
+   "kcm-0031",
    "lcm-0086",
    "mkc-0050",
    "lcm-0087",
@@ -3466,6 +3518,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5614,7 +5667,12 @@
    "pad-0135",
    "pad-0002",
    "pad-0003",
-   "pad-0004"
+   "pad-0004",
+   "pad-0291",
+   "pad-0292",
+   "pad-0293",
+   "pad-0294",
+   "pad-0295"
   ],
   "sources": [
    "chaitanya-chandrodaya",
@@ -6280,6 +6338,7 @@
    "mkc-0126",
    "gkr-0006",
    "pad-0015",
+   "pad-0303",
    "lcm-0161",
    "lcm-0169"
   ],
@@ -6785,6 +6844,7 @@
    "pad-0172",
    "pad-0263",
    "pad-0264",
+   "pad-0304",
    "pad-0221",
    "pad-0222",
    "pad-0223",
@@ -7834,6 +7894,7 @@
    "gkr-0032",
    "lcm-0220",
    "mkc-0175",
+   "pad-0313",
    "jcm-0074"
   ],
   "sources": [
@@ -7842,7 +7903,8 @@
    "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -9829,6 +9891,10 @@
   "entries": [
    "ccd-0071",
    "mkc-0242",
+   "pad-0305",
+   "pad-0306",
+   "pad-0307",
+   "pad-0308",
    "apr-0133",
    "apr-0120",
    "ccd-0096"
@@ -9836,7 +9902,8 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -10034,6 +10101,7 @@
    "pad-0097",
    "pad-0204",
    "pad-0137",
+   "pad-0310",
    "mkc-0251"
   ],
   "sources": [
@@ -12845,6 +12913,7 @@
    48
   ],
   "entries": [
+   "pad-0309",
    "apr-0136",
    "jcm-0102",
    "nvv-0005",
@@ -12859,6 +12928,7 @@
    "advaita-prakasha",
    "jayananda-cm",
    "nityananda-vamsha",
+   "padas",
    "prema-vilasa"
   ]
  },
@@ -16021,7 +16091,9 @@
    "pad-0011",
    "pad-0012",
    "pad-0066",
-   "pad-0114"
+   "pad-0114",
+   "pad-0299",
+   "pad-0300"
   ],
   "sources": [
    "padas"
@@ -16085,7 +16157,8 @@
   ],
   "entries": [
    "pad-0082",
-   "pad-0107"
+   "pad-0107",
+   "pad-0296"
   ],
   "sources": [
    "padas"
@@ -16256,7 +16329,8 @@
   "entries": [
    "pad-0014",
    "pad-0087",
-   "pad-0201"
+   "pad-0201",
+   "pad-0302"
   ],
   "sources": [
    "padas"
@@ -16514,8 +16588,10 @@
   ],
   "entries": [
    "pad-0061",
+   "pad-0289",
    "pad-0062",
    "pad-0191",
+   "pad-0290",
    "pad-0103",
    "pad-0196",
    "pad-0104",
@@ -16660,6 +16736,7 @@
   ],
   "entries": [
    "pad-0121",
+   "pad-0301",
    "pad-0257"
   ],
   "sources": [
@@ -16809,6 +16886,65 @@
   ],
   "sources": [
    "padas"
+  ]
+ },
+ {
+  "id": "ev-gauridasa-radha-remembrance",
+  "title": "Господь с Гауридасом (Субалой) вспоминает Радху (Навадвипа)",
+  "title_en": "With Gauridasa (Subala) the Lord remembers Radha (Navadvipa)",
+  "period": "P07",
+  "order": 134.65,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "notes": "Гауридас Пандит (в лиле Кришны — Субала) надевает на Господа гирлянду чампаки; Господь вспоминает золотую Радху, на берегу Ганги теряет сознание в бхаве. Известно по падам ГПТ с подписями Васу Гхоша и Радхамохана Даса.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "pad-0297",
+   "pad-0298"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-devotees-lament-after-disappearance",
+  "title": "Плач преданных после сокрытия Господа",
+  "title_en": "The devotees' lament after the Lord's disappearance",
+  "period": "P15",
+  "order": 11,
+  "years": [
+   1533,
+   1542
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
+  "themes": [
+   "separation",
+   "departure"
+  ],
+  "notes": "Рамка, которой Карнапура открывает поэму (Махакавья 1.13–29): спутники, оставшиеся после сокрытия Господа, живут памятью о Нём.",
+  "age": [
+   47,
+   56
+  ],
+  "entries": [
+   "kcm-0003"
+  ],
+  "sources": [
+   "karnapura-ckm"
   ]
  }
 ]

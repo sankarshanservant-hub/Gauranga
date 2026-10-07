@@ -3788,7 +3788,52 @@
    }
   ],
   "cb": "Ади 2",
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "kcm-0004",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 1–11",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 2,
+  "title": "Слава Навадвипы и Ганги; жители города и Адвайта",
+  "summary": "Хвала Навадвипе на берегу Ганги, её брахманам, врачам и вайшьям; город украшает Адвайта, чья любовь привела Господа.",
+  "persons": [
+   "@advaita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.01.16–24",
+  "notes": "Стихи 5–8 — калапака (одно предложение).",
+  "themes": [
+   "author"
+  ],
+  "event": "ev-navadvipa-vaishnavas-before-advent",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "1",
+    "to": "11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "1",
+    "to": "11",
+    "line": 33,
+    "line_to": 262,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L33-L262"
+   }
+  ],
+  "cb": "Ади 2",
+  "attestation": 3
  },
  {
   "id": "mkc-0003",
@@ -3842,7 +3887,7 @@
    }
   ],
   "cb": "Ади 2",
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0029",
@@ -5101,7 +5146,52 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jayananda/ru/02-vasu-1897.md?plain=1#L570-L604"
    }
   ],
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "kcm-0005",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 12–16",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 10,
+  "title": "Шриваса; Джаганнатха Мишра берёт в жёны Шачи",
+  "summary": "В Навадвипе живут Шриваса и Джаганнатха Мишра; Ниламбара Чакраварти, оценив достоинства Мишры, отдаёт ему в жёны дочь Шачи.",
+  "persons": [
+   "@srivasa",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@nilambara-chakravarti"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.02.1–4",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-jagannatha-mishra-marries-shachi",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "12",
+    "to": "16"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "12",
+    "to": "16",
+    "line": 285,
+    "line_to": 371,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L285-L371"
+   }
+  ],
+  "attestation": 3
  },
  {
   "id": "mkc-0004",
@@ -5148,7 +5238,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/1.02.md?plain=1#L5-L11"
    }
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0037",
@@ -5294,7 +5384,7 @@
    }
   ],
   "cc": "Ади 13",
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0039",
@@ -5340,7 +5430,7 @@
    }
   ],
   "cc": "Ади 13",
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0015",
@@ -5402,7 +5492,52 @@
    }
   ],
   "cc": "Ади 13",
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0006",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 17–21",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 20,
+  "title": "Смерть дочерей; рождение и учёность Вишварупы",
+  "summary": "Дочери супругов одна за другой умирают; в горе они прибегают к Господу, и рождается Вишварупа, ещё ребёнком изучивший агамы и Веды.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@shachi",
+   "@vishvarupa"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.02.5–10",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-vishvarupa-birth",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "17",
+    "to": "21"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "17",
+    "to": "21",
+    "line": 394,
+    "line_to": 480,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L394-L480"
+   }
+  ],
+  "cc": "Ади 13",
+  "attestation": 4
  },
  {
   "id": "mkc-0005",
@@ -5451,7 +5586,7 @@
    }
   ],
   "cc": "Ади 13",
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0016",
@@ -5846,7 +5981,60 @@
   "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
   "cc": "Ади 13",
   "cb": "Ади 2",
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0007",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 22–24",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 50,
+  "title": "Шачи носит Господа тринадцать месяцев",
+  "summary": "Шачи сияет, нося Господа в лоне; проходит тринадцать месяцев, и срок завершается в месяц тапасья.",
+  "persons": [
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.05.1–4",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "calendar": "тапасья (пхалгуна)",
+  "event": "ev-lord-enters-shachi-womb",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "22",
+    "to": "24"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "22",
+    "to": "24",
+    "line": 501,
+    "line_to": 547,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L501-L547"
+   }
+  ],
+  "years": [
+   1485,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
+  "cc": "Ади 13",
+  "cb": "Ади 2",
+  "attestation": 4
  },
  {
   "id": "lcm-0032",
@@ -5904,7 +6092,7 @@
   "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
   "cc": "Ади 13",
   "cb": "Ади 2",
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0014",
@@ -5966,7 +6154,7 @@
   "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
   "cc": "Ади 13",
   "cb": "Ади 2",
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0041",
@@ -6178,6 +6366,59 @@
   "attestation": 2
  },
  {
+  "id": "kcm-0008",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 25–37",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 69,
+  "title": "Природа готовится к явлению: ранняя весна и ночь полнолуния",
+  "summary": "Весна, узнав, что скоро явится Господь, приходит раньше срока и наряжается; в ночь полнолуния пхалгуны проясняются стороны света, веют благие ветры, кукушки впервые кричат «Победа!».",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Поэтическое описание (утпрекша) знамений перед рождением.",
+  "themes": [
+   "celestial"
+  ],
+  "calendar": "пхалгуна, пурнима",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "25",
+    "to": "37"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "25",
+    "to": "37",
+    "line": 570,
+    "line_to": 843,
+    "count": 35,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L570-L843"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
+ },
+ {
   "id": "apr-0042",
   "source": "advaita-prakasha",
   "ref": "Гл. 10, 71–95",
@@ -6245,7 +6486,7 @@
   "date_conf": "точно",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "ccd-0005",
@@ -6303,7 +6544,7 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "jcm-0018",
@@ -6383,7 +6624,68 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
+ },
+ {
+  "id": "kcm-0009",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 38–44",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P01",
+  "order": 70,
+  "title": "Явление Господа во время лунного затмения; гороскоп",
+  "summary": "Господь является, озаряя стороны света; случается лунное затмение, и люди кричат «Хари!» — Он пожелал явиться в воспевании Своего имени; Мишра раздаёт дары, планеты стоят благоприятно, знак — Лев.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.05.16–22; Карнапура, «Чайтанья-чандродая» 1.20",
+  "themes": [
+   "revelation",
+   "kirtan"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "date_conf": "точно",
+  "date_basis": "Махакавья 2.33–39: полнолуние весеннего месяца, лунное затмение; год — по ЧЧ Ади 13",
+  "event": "ev-gaura-appearance",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "38",
+    "to": "44"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "38",
+    "to": "44",
+    "line": 864,
+    "line_to": 996,
+    "count": 16,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L864-L996"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "cc": "Ади 13",
+  "cb": "Ади 3",
+  "attestation": 8
  },
  {
   "id": "lcm-0035",
@@ -6451,7 +6753,7 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "mkc-0016",
@@ -6522,7 +6824,7 @@
   ],
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "pvl-0041",
@@ -6582,7 +6884,7 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "pad-0128",
@@ -6644,7 +6946,7 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "pad-0232",
@@ -6714,7 +7016,7 @@
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "pad-0281",
@@ -6776,7 +7078,66 @@
   "calendar": "пхалгуна, пурнима; лунное затмение",
   "cc": "Ади 13",
   "cb": "Ади 3",
-  "attestation": 7
+  "attestation": 8
+ },
+ {
+  "id": "kcm-0011",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 56–59",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P02",
+  "order": 2,
+  "title": "Ниламбара Чакраварти находит благие признаки; обряды рождения",
+  "summary": "Ниламбара Чакраварти насчитывает множество благих признаков и предрекает, что младенец спасёт оба рода; Мишра совершает обряды рождения и выхода из родильной комнаты.",
+  "persons": [
+   "@nilambara-chakravarti",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.05.23–29",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-nilambara-prediction",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "56",
+    "to": "59"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "56",
+    "to": "59",
+    "line": 1270,
+    "line_to": 1337,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1270-L1337"
+   }
+  ],
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "сразу после рождения (Мурари 1.05.23)",
+  "attestation": 2
  },
  {
   "id": "mkc-0017",
@@ -6838,7 +7199,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "сразу после рождения (Мурари 1.05.23)",
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "apr-0043",
@@ -7397,7 +7758,60 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0010",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 45–55",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P02",
+  "order": 10,
+  "title": "Красота новорождённого: мир служит каждой черте Его облика",
+  "summary": "Всё прекрасное в мире словно существует лишь затем, чтобы служить красоте лица, глаз и членов младенца Гауры.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.06.4–6",
+  "themes": [
+   "revelation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-infant-with-shachi",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "45",
+    "to": "55"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "45",
+    "to": "55",
+    "line": 1019,
+    "line_to": 1249,
+    "count": 31,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1019-L1249"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 5
  },
  {
   "id": "lcm-0037",
@@ -7458,7 +7872,7 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0020",
@@ -7516,7 +7930,7 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "pad-0130",
@@ -7576,7 +7990,7 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0046",
@@ -7642,7 +8056,7 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0019",
@@ -7705,7 +8119,65 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0012",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 60–62",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P02",
+  "order": 20,
+  "title": "Младенец ползает и лепечет; имя Вишвамбхара",
+  "summary": "Младенец ползает, унимая жар земли, и лепечет первые слова; отец, предвидя, что Он наполнит мир киртаном, нарекает Его Вишвамбхарой.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.06.1–3",
+  "themes": [
+   "family"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-annaprashana-vishvambhara-name",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "60",
+    "to": "62"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "60",
+    "to": "62",
+    "line": 1360,
+    "line_to": 1404,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1360-L1404"
+   }
+  ],
+  "cc": "Ади 14",
+  "cb": "Ади 4",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 5
  },
  {
   "id": "lcm-0038",
@@ -7769,7 +8241,7 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0019",
@@ -7832,7 +8304,62 @@
    0,
    1
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0013",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 63–67",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P02",
+  "order": 30,
+  "title": "Детство: пляска в браслетах и первые шаги",
+  "summary": "Золотой ребёнок растёт, как молодая луна, пляшет под звон браслетов, начинает ступать по земле и играет со сверстниками.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.06.7, 9–12",
+  "themes": [
+   "pranks"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-first-steps",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "63",
+    "to": "67"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "63",
+    "to": "67",
+    "line": 1427,
+    "line_to": 1517,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1427-L1517"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 3
  },
  {
   "id": "lcm-0039",
@@ -7896,7 +8423,7 @@
    0,
    1
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0021",
@@ -7955,7 +8482,7 @@
    0,
    1
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "pad-0234",
@@ -8202,6 +8729,64 @@
   "attestation": 2
  },
  {
+  "id": "kcm-0016",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 86–89",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P02",
+  "order": 40,
+  "title": "Ночью дом полон незримых гостей; звон браслетов с босых стоп",
+  "summary": "Шачи чудится, что дом ночью полон людей; когда сын идёт в комнату отца, родители слышат звон браслетов с Его босых стоп, и Мишра в радости обнимает Его.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "Мурари 1.06.31–35",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-gods-worship-infant-anklets",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "86",
+    "to": "89"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "86",
+    "to": "89",
+    "line": 1934,
+    "line_to": 2003,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1934-L2003"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 3
+ },
+ {
   "id": "lcm-0041",
   "source": "lochana-cm",
   "ref": "Ади-кханда, «Балья-лила», 125–153",
@@ -8268,7 +8853,7 @@
    0,
    1
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0026",
@@ -8331,7 +8916,7 @@
    0,
    1
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0022",
@@ -8722,7 +9307,69 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0014",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 68–79",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P03",
+  "order": 30,
+  "title": "На груде выброшенных горшков: наставление матери о чистом и нечистом",
+  "summary": "Рассердившись на мать, Нимай бьёт горшки и садится на груду выброшенной посуды; Шачи зовёт Его омыться, а Он учит её, что для Атмана нет чистого и нечистого; когда она бранит Его снова, Он бросает в неё ком.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Мурари 1.06.13–18",
+  "notes": "Речь ребёнка построена на доводах недвойственности (2.72–76) — это детская игра Господа, а не Его учение; в гаудия-вайшнавском толковании Он лишь шутливо обыгрывает речь ведантистов.",
+  "themes": [
+   "pranks",
+   "teaching"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "teaching": [
+   "purity"
+  ],
+  "event": "ev-discarded-pots-teaching",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "68",
+    "to": "79"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "68",
+    "to": "79",
+    "line": 1538,
+    "line_to": 1779,
+    "count": 28,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1538-L1779"
+   }
+  ],
+  "cc": "Ади 14",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0044",
@@ -8806,7 +9453,7 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0024",
@@ -8875,7 +9522,7 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0252",
@@ -9134,7 +9781,65 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0015",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 80–85",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P03",
+  "order": 50,
+  "title": "Шачи падает от удара; два кокоса",
+  "summary": "От удара Шачи падает без чувств; женщины приводят её в себя и в шутку говорят, что мать исцелят два кокоса; Нимай тут же приносит свежесорванную пару, а на вопрос, откуда, лишь грозно отвечает «Хум!».",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "parallels": "Мурари 1.06.19–30",
+  "themes": [
+   "pranks",
+   "revelation"
+  ],
+  "bhava": [
+   "child"
+  ],
+  "event": "ev-brick-two-coconuts",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "80",
+    "to": "85"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "80",
+    "to": "85",
+    "line": 1800,
+    "line_to": 1911,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L1800-L1911"
+   }
+  ],
+  "cc": "Ади 14",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0046",
@@ -9199,7 +9904,7 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0025",
@@ -9261,7 +9966,7 @@
    1,
    5
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0047",
@@ -10278,7 +10983,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "jcm-0028",
@@ -10336,7 +11041,68 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "kcm-0017",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 90–101",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P04",
+  "order": 10,
+  "title": "Санньяса Вишварупы; Вишвамбхара утешает родителей",
+  "summary": "Шестнадцатилетний Вишварупа, узнав, что отец ищет ему невесту, переплывает Гангу и принимает санньясу; родители лишаются чувств от горя, а Вишвамбхара обещает сам служить им, и они утешаются.",
+  "persons": [
+   "@vishvarupa",
+   "@jagannatha-mishra",
+   "@shachi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.07.1–11; «Чайтанья-чандродая» 1.30",
+  "themes": [
+   "sannyasa",
+   "family",
+   "separation"
+  ],
+  "event": "ev-vishvarupa-sannyasa",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "90",
+    "to": "101"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "90",
+    "to": "101",
+    "line": 2024,
+    "line_to": 2261,
+    "count": 26,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2024-L2261"
+   }
+  ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
+  "cc": "Ади 15",
+  "cb": "Ади 7",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 6
  },
  {
   "id": "lcm-0055",
@@ -10401,7 +11167,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0027",
@@ -10467,7 +11233,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "pvl-0038",
@@ -10533,7 +11299,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "pvl-0228",
@@ -10595,7 +11361,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0056",
@@ -10660,7 +11426,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0028",
@@ -10724,7 +11490,7 @@
    5,
    10
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0047",
@@ -11083,6 +11849,61 @@
   "attestation": 2
  },
  {
+  "id": "kcm-0018",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 102–107",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P04",
+  "order": 35,
+  "title": "Отец бранит своевольного сына; сон Джаганнатхи Мишры",
+  "summary": "Отец бранит сына за игры; ночью во сне брахман с красными от гнева глазами упрекает Мишру: тот не чтит сына, как должно; услышав об этом сне, люди признают Господа.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "vision",
+  "authority": "A",
+  "parallels": "Мурари 1.07.12–17",
+  "themes": [
+   "celestial",
+   "family",
+   "revelation"
+  ],
+  "event": "ev-jagannatha-mishra-dream",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "102",
+    "to": "107"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "102",
+    "to": "107",
+    "line": 2284,
+    "line_to": 2391,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2284-L2391"
+   }
+  ],
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
+ },
+ {
   "id": "lcm-0060",
   "source": "lochana-cm",
   "ref": "Ади-кханда, «Пауганда-лила», 501–516",
@@ -11142,7 +11963,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0030",
@@ -11201,7 +12022,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "jcm-0029",
@@ -11418,6 +12239,67 @@
   "attestation": 1
  },
  {
+  "id": "kcm-0019",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 108–115",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P04",
+  "order": 50,
+  "title": "Наставление об экадаши; «Я ухожу» — и обморок",
+  "summary": "Господь велит матери не есть в день Хари; затем, отбросив бетель, говорит: «Береги тело сына, Я ухожу» — и падает без чувств; очнувшись, Он сияет, и отец изумлён.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "parallels": "Мурари 1.07.18–24",
+  "themes": [
+   "teaching",
+   "festival",
+   "revelation"
+  ],
+  "teaching": [
+   "purity"
+  ],
+  "event": "ev-ekadashi-instruction-shachi",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "108",
+    "to": "115"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "108",
+    "to": "115",
+    "line": 2414,
+    "line_to": 2571,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2414-L2571"
+   }
+  ],
+  "calendar": "экадаши",
+  "cc": "Ади 15",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 3
+ },
+ {
   "id": "lcm-0063",
   "source": "lochana-cm",
   "ref": "Ади-кханда, «Пауганда-лила», 615–628",
@@ -11479,7 +12361,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0031",
@@ -11547,7 +12429,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "lcm-0064",
@@ -11612,7 +12494,7 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0032",
@@ -11696,7 +12578,59 @@
    5,
    10
   ],
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "kcm-0020",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 116",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P04",
+  "order": 55,
+  "title": "Учёба в доме учителя (упоминание)",
+  "summary": "Живя в доме учителя, Господь мигом постигает все науки.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Упоминание; подробнее об учителях — Махакавья 3.2–4.",
+  "themes": [
+   "learning"
+  ],
+  "event": "ev-study-gangadasa",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "116",
+    "to": "116"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "116",
+    "to": "116",
+    "line": 2594,
+    "line_to": 2594,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2594-L2594"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 5
  },
  {
   "id": "jcm-0030",
@@ -11759,7 +12693,66 @@
    5,
    10
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0021",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 2, 117–122",
+  "file": "karnapura-mahakavya/ru/02.md",
+  "period": "P04",
+  "order": 60,
+  "title": "Уход Джаганнатхи Мишры на берегу Ганги",
+  "summary": "Мишра слабеет от лихорадки; Господь кладёт стопы отца себе на грудь и плачет; отец вверяет сына стопам Рагхунатхи; Шачи омывает стопы мужа слезами, и под киртан и дождь цветов он оставляет тело, стоя в водах Ганги.",
+  "persons": [
+   "@jagannatha-mishra",
+   "@mahaprabhu",
+   "@shachi",
+   "@rama"
+  ],
+  "places": [
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.08.11–24",
+  "themes": [
+   "family",
+   "separation",
+   "departure"
+  ],
+  "event": "ev-jagannatha-mishra-departure",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "117",
+    "to": "122"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/02.md",
+    "from": "117",
+    "to": "122",
+    "line": 2615,
+    "line_to": 2728,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/02.md?plain=1#L2615-L2728"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0065",
@@ -11825,7 +12818,7 @@
    5,
    10
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0033",
@@ -11889,7 +12882,7 @@
    5,
    10
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0032",
@@ -12042,7 +13035,7 @@
    5,
    10
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0027",
@@ -12100,7 +13093,67 @@
    5,
    10
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0022",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 1–4",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P04",
+  "order": 70,
+  "title": "Учёба у Вишну, Сударшаны и Гангадасы",
+  "summary": "Юный Гауранга учится у пандитов Вишну и Сударшаны, затем постигает грамматику у Гангадасы и блистает красноречием среди однокашников.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnu-pandita",
+   "@sudarshana-pandita",
+   "@gangadasa-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.09.1–4",
+  "themes": [
+   "learning"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "event": "ev-study-gangadasa",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "1",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "1",
+    "to": "4",
+    "line": 31,
+    "line_to": 100,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L31-L100"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 8",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 5
  },
  {
   "id": "lcm-0066",
@@ -12166,7 +13219,7 @@
    5,
    10
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0034",
@@ -12230,7 +13283,7 @@
    5,
    10
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0037",
@@ -12894,7 +13947,63 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0023",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 5–11",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 10,
+  "title": "Встреча с Лакшмиприей на пути к Ганге",
+  "summary": "Возвращаясь от Ванамали Ачарьи, Господь встречает на дороге дочь Валлабхачарьи, золотую, как лиана, и они обмениваются взглядами.",
+  "persons": [
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@vanamali-acharya"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.09.5–8",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-lakshmipriya-first-meeting",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "5",
+    "to": "11"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "5",
+    "to": "11",
+    "line": 123,
+    "line_to": 253,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L123-L253"
+   }
+  ],
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0067",
@@ -12954,7 +14063,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0035",
@@ -13014,7 +14123,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0040",
@@ -13107,7 +14216,64 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0024",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 12–39",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 15,
+  "title": "Сватовство Лакшмиприи: Ванамали, Шачи и Валлабхачарья",
+  "summary": "Ванамали Ачарья предлагает брак; Шачи сначала молчит, и Нимай упрекает мать; затем Ванамали идёт к Валлабхачарье, славит жениха, и отец невесты соглашается.",
+  "persons": [
+   "@vanamali-acharya",
+   "@shachi",
+   "@mahaprabhu",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.09.9–33",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-lakshmipriya-matchmaking",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "12",
+    "to": "39"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "12",
+    "to": "39",
+    "line": 276,
+    "line_to": 861,
+    "count": 64,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L276-L861"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0068",
@@ -13168,7 +14334,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0036",
@@ -13229,7 +14395,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0069",
@@ -13290,7 +14456,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0037",
@@ -13350,7 +14516,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0059",
@@ -13408,7 +14574,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0041",
@@ -13501,7 +14667,65 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0025",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 40–74",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 25,
+  "title": "Свадьба с Лакшмиприей",
+  "summary": "Назначают срок, совершают адхивасу и нандимукха-шраддху; Шачи-вдова не может совершать обряды, и Нимай плачет об отце; невесту украшают, процессия с паланкином идёт к дому Валлабхи, совершается обряд, и Шачи встречает молодых дома.",
+  "persons": [
+   "@mahaprabhu",
+   "@lakshmipriya",
+   "@shachi",
+   "@vallabhacharya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.09.34–38, 1.10.1–27, 1.11.1–4",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "40",
+    "to": "74"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "40",
+    "to": "74",
+    "line": 884,
+    "line_to": 1642,
+    "count": 91,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L884-L1642"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
  },
  {
   "id": "lcm-0070",
@@ -13566,7 +14790,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0038",
@@ -13643,7 +14867,62 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0026",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 75–81",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 26,
+  "title": "Семейная жизнь; красота Лакшмиприи",
+  "summary": "Описание домашней жизни Господа и красоты Лакшмиприи от ногтей до макушки (накха-шикха).",
+  "persons": [
+   "@mahaprabhu",
+   "@lakshmipriya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Поэтическое описание (накха-шикха); красота Лакшмиприи — красота шакти Господа, не мирская.",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "75",
+    "to": "81"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "75",
+    "to": "81",
+    "line": 1663,
+    "line_to": 1800,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1663-L1800"
+   }
+  ],
+  "cc": "Ади 15",
+  "cb": "Ади 10",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
  },
  {
   "id": "apr-0130",
@@ -13758,7 +15037,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0039",
@@ -13819,7 +15098,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0072",
@@ -13882,7 +15161,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0040",
@@ -13942,7 +15221,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0060",
@@ -14066,7 +15345,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0061",
@@ -14186,7 +15465,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0041",
@@ -14246,7 +15525,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0077",
@@ -14428,7 +15707,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0076",
@@ -14490,7 +15769,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0042",
@@ -14550,7 +15829,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0253",
@@ -14804,7 +16083,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "jcm-0043",
@@ -14865,7 +16144,67 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
+ },
+ {
+  "id": "kcm-0027",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 82–95",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 65,
+  "title": "Путешествие в Восточную Бенгалию; омовение в Падмавати",
+  "summary": "Ради милости Господь отправляется в Восточную Бенгалию; люди и женщины очарованы Им; Он омывается в Падмавати, делая её счастливой, и несколько месяцев учит там.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#east-bengal",
+   "#padmavati"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.11.5–16",
+  "themes": [
+   "pilgrimage",
+   "learning",
+   "mercy"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "event": "ev-east-bengal-tour",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "82",
+    "to": "95"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "82",
+    "to": "95",
+    "line": 1821,
+    "line_to": 2104,
+    "count": 32,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L1821-L2104"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 7
  },
  {
   "id": "lcm-0079",
@@ -14928,7 +16267,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0043",
@@ -14992,7 +16331,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pvl-0230",
@@ -15057,7 +16396,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "apr-0063",
@@ -15117,7 +16456,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "apr-0065",
@@ -15239,7 +16578,7 @@
    10,
    22
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0001",
@@ -15302,7 +16641,7 @@
    19,
    20
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "lcm-0081",
@@ -15361,7 +16700,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0044",
@@ -15420,7 +16759,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0064",
@@ -15476,7 +16815,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "ccd-0008",
@@ -15542,7 +16881,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "jcm-0044",
@@ -15621,7 +16960,65 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "kcm-0028",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 96–118",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 80,
+  "title": "Уход Лакшмиприи; плач Шачи",
+  "summary": "Лакшмиприя дома служит свекрови и тоскует по мужу; её кусает змея, лекари бессильны, и на берегу Ганги она оставляет тело; Шачи горько оплакивает невестку.",
+  "persons": [
+   "@lakshmipriya",
+   "@shachi"
+  ],
+  "places": [
+   "#house-jagannatha-mishra",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.11.17–28, 1.12.1–6; «Чайтанья-чандродая» 1.28–29",
+  "themes": [
+   "separation",
+   "departure",
+   "family"
+  ],
+  "event": "ev-lakshmipriya-departure",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "96",
+    "to": "118"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "96",
+    "to": "118",
+    "line": 2125,
+    "line_to": 2611,
+    "count": 57,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2125-L2611"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 6
  },
  {
   "id": "lcm-0082",
@@ -15688,7 +17085,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0045",
@@ -15767,7 +17164,7 @@
    10,
    22
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0066",
@@ -15825,7 +17222,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0045",
@@ -15890,7 +17287,65 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0029",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 119–126",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 85,
+  "title": "Возвращение Господа; утешение Шачи",
+  "summary": "Господь возвращается, видит печаль матери и, поняв всё без слов, говорит, что Лакшми не была простым человеком и ушла по высшей причине; Шачи обретает покой.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@lakshmipriya"
+  ],
+  "places": [
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.12.7–19",
+  "themes": [
+   "family",
+   "separation",
+   "teaching"
+  ],
+  "event": "ev-return-from-east-bengal",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "119",
+    "to": "126"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "119",
+    "to": "126",
+    "line": 2632,
+    "line_to": 2785,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2632-L2785"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
  },
  {
   "id": "lcm-0083",
@@ -15953,7 +17408,7 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0046",
@@ -16017,7 +17472,64 @@
    10,
    22
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0030",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 127–135",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 90,
+  "title": "Сватовство Вишнуприи",
+  "summary": "Шачи посылает брахмана к Санатане Мишре; тот, посовещавшись с родными, соглашается, присылает посланца и назначает срок свадьбы дочери Вишнуприи.",
+  "persons": [
+   "@shachi",
+   "@sanatana-mishra",
+   "@vishnupriya",
+   "@kashinatha"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.13.1–17",
+  "notes": "Брахман-сват в тексте не назван; по Мурари — Кашинатха.",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "127",
+    "to": "135"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "127",
+    "to": "135",
+    "line": 2806,
+    "line_to": 2982,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L2806-L2982"
+   }
+  ],
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 3
  },
  {
   "id": "lcm-0084",
@@ -16078,7 +17590,7 @@
    10,
    22
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0047",
@@ -16137,7 +17649,7 @@
    10,
    22
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0048",
@@ -16197,7 +17709,7 @@
    10,
    22
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "lcm-0085",
@@ -16256,7 +17768,7 @@
    10,
    22
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "mkc-0049",
@@ -16331,7 +17843,7 @@
    10,
    22
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0067",
@@ -16392,7 +17904,66 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "kcm-0031",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 3, 136–144",
+  "file": "karnapura-mahakavya/ru/03.md",
+  "period": "P05",
+  "order": 100,
+  "title": "Свадьба с Вишнуприей",
+  "summary": "Санатана совершает адхивасу; утром брахманы зовут Господа, Он едет в белом паланкине к дому Санатаны, совершается обряд, и под музыку и клики «Джая!» Он привозит невесту домой к радостной Шачи.",
+  "persons": [
+   "@mahaprabhu",
+   "@vishnupriya",
+   "@sanatana-mishra",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 1.14.3–33",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "136",
+    "to": "144"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/03.md",
+    "from": "136",
+    "to": "144",
+    "line": 3003,
+    "line_to": 3179,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/03.md?plain=1#L3003-L3179"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 4
  },
  {
   "id": "lcm-0086",
@@ -16456,7 +18027,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0050",
@@ -16518,7 +18089,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0078",
@@ -16637,7 +18208,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0051",
@@ -16697,7 +18268,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0088",
@@ -16758,7 +18329,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0052",
@@ -16818,7 +18389,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0089",
@@ -16882,7 +18453,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0053",
@@ -16942,7 +18513,7 @@
    10,
    22
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "jcm-0033",
@@ -28647,6 +30218,314 @@
   "attestation": 4
  },
  {
+  "id": "pad-0291",
+  "source": "padas",
+  "ref": "Говинда Гхош, ГПТ1 с. 240 (№ 9) «স্নান করি শ্রীগৌরাঙ্গ বসিলেন দিব্যাসনে»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 127.45,
+  "title": "После абхишеки: трапеза Гауры с Нитаем и Гадаи, туласи от Адвайты",
+  "summary": "Омытый Гауранга сидит с Нитаем и Гадаи; Адвайта подносит сладости и тамбулу, Шриваса подаёт угощенья, Нарахари обмахивает чамарой; Адвайта возлагает туласи к Его стопам со словами «Кришнайа намах».",
+  "persons": [
+   "@govinda-ghosha",
+   "@mahaprabhu",
+   "@nityananda",
+   "@gadadhara-pandita",
+   "@advaita",
+   "@srivasa",
+   "@narahari-sarakara"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧБ Мадхья 9; ПК 1538 (порция 01, п. 4)",
+  "notes": "Только ГПТ (ГГ-008); продолжение пады ПК 1538.",
+  "themes": [
+   "revelation",
+   "festival",
+   "prasada"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 180,
+    "line_to": 189,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L180-L189",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L191-L200"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0292",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 240 (№ 10) «জয় জয় ধ্বনি উঠে নদীয়া-নগরে»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 127.46,
+  "title": "Абхишека: Адвайта ревёт «Я привёл Его!» и пляшет с Харидасом",
+  "summary": "В доме Шриваса — абхишека Горы; Адвайта с рёвом восклицает «Я привёл Его!» и пляшет, за ним Харидас; пляшут Шриваса и его братья, сбегаются преданные.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@advaita",
+   "@haridasa-thakura",
+   "@srivasa",
+   "@srirama-pandita"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Мадхья 9",
+  "notes": "Только ГПТ (ВГ-165); разговорная форма «এনেছি» указывает на позднее происхождение.",
+  "themes": [
+   "revelation",
+   "festival",
+   "kirtan"
+  ],
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "7.1",
+    "to": "7.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "7.1",
+    "to": "7.6",
+    "line": 205,
+    "line_to": 220,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L205-L220",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L217-L232"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0293",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 240 (№ 11) «গোরা-অভিষেক কথা অদ্ভুত কথন»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 127.47,
+  "title": "Абхишека: с преданными пляшет вся вселенная",
+  "summary": "Услышав об абхишеке, преданные бегут в дом Шриваса и пляшут; с ними пляшут луна, солнце, звёзды, Брахма, Индра, боги, наги и хранители сторон света.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@brahma",
+   "@indra",
+   "@vasuki"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧБ Мадхья 9",
+  "notes": "Только ГПТ (ВГ-031; в каталоге ошибочно числилась нагари-падой).",
+  "themes": [
+   "revelation",
+   "festival",
+   "celestial"
+  ],
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "8.1",
+    "to": "8.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "8.1",
+    "to": "8.6",
+    "line": 233,
+    "line_to": 248,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L233-L248",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L246-L261"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0294",
+  "source": "padas",
+  "ref": "Кришнадас, ГПТ1 с. 241 (№ 13) «অভিষেকে গৌরচাঁদের আনন্দ অপার»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 127.48,
+  "title": "Абхишека: Горачанда рассказывает преданным о прежних играх",
+  "summary": "На абхишеке Горачанда в блаженстве рассказывает преданным о прежних лилах; Его тело в трепете, речь прерывается; преданные утешены Его словами.",
+  "persons": [
+   "@krishnadasa-poet",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧБ Мадхья 9–10",
+  "notes": "Только ГПТ; новая строка каталога КР-020.",
+  "themes": [
+   "revelation",
+   "ecstasy"
+  ],
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "9.1",
+    "to": "9.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "9.1",
+    "to": "9.5",
+    "line": 260,
+    "line_to": 272,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L260-L272",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L274-L286"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0295",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 243 (№ 19) «অগুরু চন্দন লেপিয়া গোরা-গায়»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 127.49,
+  "title": "Абхишека: умащение, омовение и облачение Горы",
+  "summary": "Спутники умащают Гору агуру и сандалом, обмахивают чамарами, льют на Него воду, надевают гирлянду малати и алые одежды; Васудева созерцает этот облик.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#house-srivasa",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ПК 1536–1537 (порция 01)",
+  "notes": "Только ГПТ (ВГ-164).",
+  "themes": [
+   "revelation",
+   "festival"
+  ],
+  "event": "ev-murari-sudama-verse-abhisheka",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "10.1",
+    "to": "10.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "10.1",
+    "to": "10.4",
+    "line": 285,
+    "line_to": 294,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L285-L294",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L301-L310"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
   "id": "ccd-0019",
   "source": "chaitanya-chandrodaya",
   "ref": "Акт 1, главная сцена, ст. 67–70",
@@ -29801,6 +31680,62 @@
   "attestation": 1
  },
  {
+  "id": "pad-0289",
+  "source": "padas",
+  "ref": "Йаду, ПК 2459 = ГПТ1 с. 120 (№ 27) «একে সে কনয়া-কষিল তনু»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 133.51,
+  "title": "Облик Гауранги: золото на пробном камне, алые одежды, молния в сиянии",
+  "summary": "Тело Гауры — как испытанное золото, кудри в узле, алые шёлковые одежды; поднимая руки, Он потягивается, и вспыхивает молния; красота Его пленяет красавиц трёх миров.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "В ПК — гаура-чандрика к описанию облика. Подпись «যদু» — Йадунатх Кавичандра или поздний Йадунандана. Мотив горожанок — сноска по шаблону.",
+  "themes": [
+   "revelation"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "4.1",
+    "to": "4.7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "4.1",
+    "to": "4.7",
+    "line": 103,
+    "line_to": 121,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L103-L121",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L110-L128"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0062",
   "source": "padas",
   "ref": "Говинда Гхош, ПК 2146 «কনয়া কষিল মুখ-শোভা»",
@@ -29906,6 +31841,67 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/10.md?plain=1#L421-L430",
     "file_en": "padas/en/10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/10.md?plain=1#L430-L439"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0290",
+  "source": "padas",
+  "ref": "Йаду, ПК 2460 = ГПТ1 с. 120 (№ 28) «বিকচ কনয়া-কমল-কাঁতি»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 133.52,
+  "title": "Облик и бхава Гауранги: слёзы и зов «Где Гададхара?»",
+  "summary": "Лицо Гауры — полная луна, поступь — как у царя слонов; вспоминая прежнюю любовь, Он плачет и гремит, как туча, и зовёт Гададхару.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "В ПК — гаура-чандрика. Подпись «যদু».",
+  "themes": [
+   "revelation",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "5.1",
+    "to": "5.7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "5.1",
+    "to": "5.7",
+    "line": 143,
+    "line_to": 161,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L143-L161",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L153-L171"
    }
   ],
   "years": [
@@ -33491,6 +35487,70 @@
   "attestation": 1
  },
  {
+  "id": "pad-0296",
+  "source": "padas",
+  "ref": "Парамешвари Дас, ГПТ1 с. 246 (№ 27) «প্রভুর আদেশ পাঞা ভকত সকল»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.57,
+  "title": "Адхиваса киртана: семь групп и четырнадцать мадалов",
+  "summary": "По повелению Господа преданные составляют семь групп во главе с Нитьянандой, Мукундой, Адвайтой, Гададхаром, Васу Гхошем, Мурари и Нарахари; гремят четырнадцать мадалов; во дворе разбивают сосуды с простоквашей и куркумой и ставят метки на лбы.",
+  "persons": [
+   "@parameshvara-dasa",
+   "@mahaprabhu",
+   "@nityananda",
+   "@mukunda-datta",
+   "@advaita",
+   "@gadadhara-pandita",
+   "@vasu-ghosha",
+   "@murari-gupta",
+   "@narahari-sarakara"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ПК 23 (порция 05, п. 4); ср. ЧЧ Мадхья 13 (семь групп на Ратха-ятре)",
+  "notes": "Только ГПТ (ПД-003); продолжение пады ПК 23. По решению пользователя переведена.",
+  "themes": [
+   "kirtan",
+   "festival"
+  ],
+  "event": "ev-kirtan-festival-advaita-house",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "11.1",
+    "to": "11.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "11.1",
+    "to": "11.8",
+    "line": 305,
+    "line_to": 326,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L305-L326",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L322-L343"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар (вслед за С. Раем): пада Парамешвары Даса (ПК 23) — описание очевидца; навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0169",
   "source": "padas",
   "ref": "Васу Гхош, ПК 1598 = ГПТ1 с. 313 (№ 1) «আজু কেনে গোরাচাঁদের বিরস বয়ান»",
@@ -33781,6 +35841,130 @@
   "attestation": 1
  },
  {
+  "id": "pad-0297",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 291 (№ 49) «গৌরীদাস সঙ্গে কৃষ্ণ-কথা-রঙ্গে»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.651,
+  "title": "Гирлянда чампаки: Господь вспоминает Радху",
+  "summary": "Беседуя с Гауридасом о Кришне, Господь обнимает его; Гауридас надевает на Него гирлянду чампаки, и, глядя на её золотой цвет, Господь вспоминает Радху и жаждет её увидеть.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gauridasa-pandita",
+   "@radha"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (ВГ-166). Гауридас — Субала (ГГД 128); Гаура в бхаве Кришны, тоскующего по Радхе.",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-gauridasa-radha-remembrance",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "12.1",
+    "to": "12.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "12.1",
+    "to": "12.4",
+    "line": 343,
+    "line_to": 352,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L343-L352",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L360-L369"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0298",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 292 (№ 50) «গৌরীদাস করি সঙ্গে আনন্দিত তনু রঙ্গে»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.652,
+  "title": "На берегу Ганги Господь в бхаве Радхи падает без чувств на руки Гауридаса",
+  "summary": "Идя с Гауридасом, Господь трепещет и плачет, падает без чувств на берегу Ганги; на вопрос Гауридаса отвечает, что Его муку не высказать: сердце разрывается.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@gauridasa-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (ВГ-167). Бхава Радхи — чистая према (сноска).",
+  "themes": [
+   "ecstasy",
+   "separation"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "event": "ev-gauridasa-radha-remembrance",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "13.1",
+    "to": "13.3"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "13.1",
+    "to": "13.3",
+    "line": 369,
+    "line_to": 375,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L369-L375",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L386-L392"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0011",
   "source": "padas",
   "ref": "Васу Гхош, БР (с. 935) «পূর্বলীলা গোরাচাঁদের মনেতে পড়িল»",
@@ -34028,6 +36212,68 @@
   "attestation": 1
  },
  {
+  "id": "pad-0299",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 330 (№ 28) «বৃন্দাবনের ভাবে গোরা ফিরায় পাঁচনি»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.75,
+  "title": "Гоштха-бхава: Гора вертит пастушью палку, жена Шриваса бежит смотреть",
+  "summary": "В бхаве Вриндавана Гора вертит пастушью палку и кличет коров; Шачи зовут посмотреть, жена Шриваса бежит, за ней и поэт.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu",
+   "@shachi",
+   "@malini"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (ВГ-170).",
+  "themes": [
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "event": "ev-goshtha-lila-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "14.1",
+    "to": "14.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "14.1",
+    "to": "14.4",
+    "line": 388,
+    "line_to": 397,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L388-L397",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L405-L414"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады очевидцев 1509 г. (Васу Гхош в БР, Вамшивадана ПК 2564)",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0064",
   "source": "padas",
   "ref": "Васу Гхош, ПК 1550 «দেখত ঝুলত গৌরচন্দ্র»",
@@ -34266,6 +36512,68 @@
   "date_conf": "оценка",
   "date_basis": "Маджумдар: пада Васу Гхоша о джхулане (ПК 1550) — свидетельство очевидца; навадвипский период",
   "calendar": "шравана, светлая половина (джхулан-ятра)",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0300",
+  "source": "padas",
+  "ref": "Вамшидас, ГПТ1 с. 330–331 (№ 30) «শ্রীনন্দনন্দন শচীর দুলাল চলে গোঠে পায় পায়»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.76,
+  "title": "Гоштха-лила: Навадвипа стала Гокулой, спутники в наряде пастушков",
+  "summary": "Гаура идёт на пастбище, впереди Нитьянанда; Абхирама (Шридама) гонит коров, Гауридас (Субала) присоединяется; все спутники с пастушьими палками; с ними идёт поэт.",
+  "persons": [
+   "@vamshivadana",
+   "@mahaprabhu",
+   "@nityananda",
+   "@abhirama",
+   "@gauridasa-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ПК 2564 (порция 01)",
+  "notes": "Только ГПТ; в каталоге (ВВ-007) значилась соседняя пада № 29 без подписи.",
+  "themes": [
+   "krishna-lila"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "event": "ev-goshtha-lila-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "15.1",
+    "to": "15.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "15.1",
+    "to": "15.4",
+    "line": 409,
+    "line_to": 418,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L409-L418",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L427-L436"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады очевидцев 1509 г. (Васу Гхош в БР, Вамшивадана ПК 2564)",
   "age": [
    23,
    23
@@ -34925,6 +37233,68 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/10.md?plain=1#L779-L788",
     "file_en": "padas/en/10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/10.md?plain=1#L799-L808"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Шивананды Сена и Васу Гхоша (БР), видимо 1509 г.",
+  "calendar": "пхалгуна-пурнима (холи)",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0302",
+  "source": "padas",
+  "ref": "Кришнадас, ГПТ1 с. 340 (№ 60) «ফাগু খেলত গোরা গদাধর সঙ্গে»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 134.92,
+  "title": "Холи: Гора и Гададхар — словно Кану и Его возлюбленная",
+  "summary": "Гора и Гададхар осыпают друг друга кункумой и гулалом — словно во Врадже Кану и Его возлюбленная; преданные подают пхагу, пляшут и поют; поэт скорбит, что не родился в то время.",
+  "persons": [
+   "@krishnadasa-poet",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Только ГПТ; новая строка каталога КР-021. Поэт — не современник (сам говорит, что родился позже).",
+  "themes": [
+   "festival",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-holi-navadvipa-gadadhara",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "17.1",
+    "to": "17.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "17.1",
+    "to": "17.5",
+    "line": 459,
+    "line_to": 471,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L459-L471",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L478-L490"
    }
   ],
   "years": [
@@ -37401,6 +39771,68 @@
   "cb": "Мадхья 26",
   "age": [
    24,
+   24
+  ],
+  "attestation": 5
+ },
+ {
+  "id": "pad-0303",
+  "source": "padas",
+  "ref": "Говинда Гхош, ГПТ1 с. 366 (№ 2) «প্রাণের মুকুন্দ হে তোমরা কি সুধাও আমায়»",
+  "file": "padas/ru/14.md",
+  "period": "P07",
+  "order": 142.55,
+  "title": "Господь открывает Мукунде решение принять санньясу",
+  "summary": "Господь говорит Мукунде: пандиты и ученики не принимают Его наставлений; чтобы спасти их, Он примет санньясу, и тогда хулители обезумеют от святого имени; Мукунда падает без чувств.",
+  "persons": [
+   "@govinda-ghosha",
+   "@mahaprabhu",
+   "@mukunda-datta"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 17; ЧБ Мадхья 26; ПК 1606 (порция 01)",
+  "notes": "Только ГПТ (ГГ-009); продолжение ПК 1606.",
+  "themes": [
+   "sannyasa",
+   "separation"
+  ],
+  "teaching": [
+   "sannyasa-teaching"
+  ],
+  "event": "ev-sannyasa-decision-devotees-grief",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "18.1",
+    "to": "18.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "18.1",
+    "to": "18.6",
+    "line": 485,
+    "line_to": 500,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L485-L500",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L505-L520"
+   }
+  ],
+  "cb": "Мадхья 26",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
    24
   ],
   "attestation": 5
@@ -43659,6 +46091,62 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/13.md?plain=1#L133-L142",
     "file_en": "padas/en/13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/13.md?plain=1#L141-L150"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0304",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 385 (№ 6) «আহা মরি কোথা গেল গোরা কাঁচা সোনা»",
+  "file": "padas/ru/14.md",
+  "period": "P09",
+  "order": 30.57,
+  "title": "Плач: «Куда ушёл Гора — чистое золото?»",
+  "summary": "Поэт плачет о Гауранге, ушедшем после санньясы: не увидеть больше Его лица, не услышать Его слов; зачем он не умер прежде всех.",
+  "persons": [
+   "@vasu-ghosha",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ; в каталоге ошибочно за Вамши (ВВ-008); новая строка ВГ-173.",
+  "themes": [
+   "separation"
+  ],
+  "event": "ev-navadvipa-lament-after-sannyasa",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "19.1",
+    "to": "19.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "19.1",
+    "to": "19.5",
+    "line": 514,
+    "line_to": 526,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L514-L526",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L535-L547"
    }
   ],
   "years": [
@@ -52006,7 +54494,7 @@
    24,
    26
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "ccd-0055",
@@ -52073,7 +54561,7 @@
    24,
    26
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkr-0032",
@@ -52142,7 +54630,7 @@
    24,
    26
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "lcm-0220",
@@ -52207,7 +54695,7 @@
    24,
    26
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0175",
@@ -52275,7 +54763,69 @@
    24,
    26
   ],
-  "attestation": 6
+  "attestation": 7
+ },
+ {
+  "id": "pad-0313",
+  "source": "padas",
+  "ref": "Кану Дас, ГПТ1 с. 454–455 (№ 9) «বিদ্যানগরাধিপ অপার সম্পদশালী»",
+  "file": "padas/ru/14.md",
+  "period": "P11",
+  "order": 30.5,
+  "title": "Хвала Рамананде Раю: беседа о садхье и садхане",
+  "summary": "Правитель Видьянагары Рамананда Рай принял Гаурангу в своём доме; в вопросах и ответах они установили путь живых существ; поэт просит праха стоп Рамананды.",
+  "persons": [
+   "@kanu-thakura",
+   "@ramananda-raya",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#vidyanagara"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 8",
+  "notes": "Только ГПТ (КД-005); хвала спутнику, упоминание беседы.",
+  "themes": [
+   "teaching",
+   "author"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "event": "ev-ramananda-raya-godavari",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "28.1",
+    "to": "28.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "28.1",
+    "to": "28.4",
+    "line": 753,
+    "line_to": 762,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L753-L762",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L782-L791"
+   }
+  ],
+  "cc": "Мадхья 8",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 7
  },
  {
   "id": "gkr-0034",
@@ -59060,6 +61610,74 @@
   "attestation": 1
  },
  {
+  "id": "pad-0301",
+  "source": "padas",
+  "ref": "Кришнадас, ГПТ1 с. 339–340 (№ 59) «খেলত ফাগু গোরা দ্বিজরাজ»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 6.55,
+  "title": "Пхагу: Гора играет в краски со спутниками Навадвипы и Нилачалы",
+  "summary": "Гора играет в пхагу с Гададхаром и Нарахари, с Нитаем и Адвайтой; Рамананда — с Сарвабхаумой, Мурари и Мукунда — со Шривасой и Сварупой; все пляшут и поют.",
+  "persons": [
+   "@krishnadasa-poet",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@narahari-sarakara",
+   "@nityananda",
+   "@advaita",
+   "@sarvabhauma",
+   "@ramananda-raya",
+   "@srivasa",
+   "@svarupa-damodara",
+   "@murari-gupta",
+   "@mukunda-datta"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (КР-004). Поэт соединяет спутников Навадвипы и Пури — песенный образ праздника.",
+  "themes": [
+   "festival"
+  ],
+  "event": "ev-phagu-nilachala",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "16.1",
+    "to": "16.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "16.1",
+    "to": "16.5",
+    "line": 433,
+    "line_to": 445,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L433-L445",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L451-L463"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "без датировки; пурийский период",
+  "calendar": "пхалгуна (Дола-ятра)",
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0257",
   "source": "padas",
   "ref": "Васу Гхош (?), ГПТ1 с. 341 (№ 64) «আজু রে কনকাচল নীলাচলে গোরা» (≈ ПК 1463, Говинда Дас)",
@@ -59642,7 +62260,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkr-0106",
@@ -60587,7 +63205,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0242",
@@ -60673,7 +63291,257 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "pad-0305",
+  "source": "padas",
+  "ref": "Йаду, ПК 1546 = ГПТ1 с. 321 (№ 2) «অপরূপ রথ-আগে»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 70.51,
+  "title": "Ратха-ятра: Гора Рай пляшет перед колесницей",
+  "summary": "Перед колесницей Джаганнатхи пляшет Гора Рай, глядя в Его лицо; гремят кхолы и карталы, жители Нилачалы и паломники плывут в океане премы.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13",
+  "notes": "Подпись «যদু» (Йадунатх или поздний Йадунандана).",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "kirtan"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "20.1",
+    "to": "20.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "20.1",
+    "to": "20.4",
+    "line": 541,
+    "line_to": 550,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L541-L550",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L562-L571"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "cc": "Мадхья 13–14",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0306",
+  "source": "padas",
+  "ref": "Йаду, ПК 1547 = ГПТ1 с. 322 (№ 3) «চৌদিকে মহান্ত মেলি করয়ে কীর্তন কেলি»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 70.52,
+  "title": "Ратха-ятра: семь групп киртана и танец Гаурахари",
+  "summary": "Семь групп поют, гремят четырнадцать кхолов; среди Нитьянанды, Адвайты, Шриваса и Харидаса пляшет Гаурахари с восемью саттвика-бхавами; Джаганнатха медленно движется; према затопила всё живое.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita",
+   "@srivasa",
+   "@haridasa-thakura",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13",
+  "notes": "Пересказ ЧЧ Мадхья 13; в ПК строфа 21.4 неполна.",
+  "themes": [
+   "jagannatha",
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "21.1",
+    "to": "21.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "21.1",
+    "to": "21.5",
+    "line": 565,
+    "line_to": 577,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L565-L577",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L587-L599"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "cc": "Мадхья 13–14",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0307",
+  "source": "padas",
+  "ref": "Йаду, ГПТ1 с. 322–323 (№ 5) «লীলাকারী জগন্নাথ»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 70.53,
+  "title": "Ратха-ятра: колесница останавливается, Господь толкает её головой",
+  "summary": "Колесница Джаганнатхи останавливается; ни люди, ни царские слоны не могут её сдвинуть; Гора Рай толкает её головой, и она мчится с быстротой ветра.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu",
+   "@jagannatha-deity",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 14",
+  "notes": "Только ГПТ (ЙД-013); пересказ ЧЧ.",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "revelation"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "22.1",
+    "to": "22.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "22.1",
+    "to": "22.5",
+    "line": 593,
+    "line_to": 605,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L593-L605",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L616-L628"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "cc": "Мадхья 13–14",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0308",
+  "source": "padas",
+  "ref": "Йадунатх Дас, ПК 1548 (без подписи) = ГПТ1 с. 323 (№ 6) «চৈতন্য নিতাই আরে দোন ভাই নাচে রে»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 70.54,
+  "title": "Ратха-ятра: Чайтанья и Нитай пляшут, Гора — во всех семи группах сразу",
+  "summary": "Пляшут два брата, Чайтанья и Нитай; волна премы касается всех; семь групп поют, и всем видно, что Гора Рай пляшет повсюду одновременно.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@mahaprabhu",
+   "@nityananda",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Мадхья 13",
+  "notes": "В ПК 1548 — только две первые строфы, без подписи; строфы 23.3–23.4 и подпись — только в ГПТ1 (новая строка ЙД-015).",
+  "themes": [
+   "jagannatha",
+   "kirtan",
+   "revelation"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "23.1",
+    "to": "23.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "23.1",
+    "to": "23.4",
+    "line": 618,
+    "line_to": 627,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L618-L627",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L643-L652"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "cc": "Мадхья 13–14",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
  },
  {
   "id": "pvl-0184",
@@ -61748,6 +64616,63 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/07.md?plain=1#L498-L512",
     "file_en": "padas/en/07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/07.md?plain=1#L515-L529"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pad-0310",
+  "source": "padas",
+  "ref": "Васу Гхош, ГПТ1 с. 423 (№ 30) «অরুণ-বসনে বিবিধ ভূষণে শিরেতে পাগ লটপটিয়া»",
+  "file": "padas/ru/14.md",
+  "period": "P12",
+  "order": 110.5,
+  "title": "Танец Нитьянанды в алых одеждах",
+  "summary": "Нитьянанда в алых одеждах и сбившемся тюрбане кружит и пляшет, восклицая «Хари!», рычит «Гаура!»; преданные катаются по земле, глядя на Его лик.",
+  "persons": [
+   "@vasu-ghosha",
+   "@nityananda"
+  ],
+  "places": [
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧБ Антья 5",
+  "notes": "Только ГПТ (ВГ-171); по разночтению ГПТ1 — подпись Васу Рамананды.",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-nityananda-preaching-gauda",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "25.1",
+    "to": "25.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "25.1",
+    "to": "25.4",
+    "line": 679,
+    "line_to": 688,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L679-L688",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L706-L715"
    }
   ],
   "years": [
@@ -71901,7 +74826,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0120",
@@ -71979,7 +74904,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "apr-0121",
@@ -73469,7 +76394,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "ccd-0097",
@@ -77117,6 +80042,58 @@
   "attestation": 3
  },
  {
+  "id": "kcm-0003",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 1, 13–29",
+  "file": "karnapura-mahakavya/ru/01.md",
+  "period": "P15",
+  "order": 11,
+  "title": "Рамка поэмы: плач преданных после сокрытия Господа",
+  "summary": "Явив милость и затопив мир нектаром любви, Господь сокрылся; близкие спутники ушли вслед за Ним, а оставшиеся рыдают, взывают к Гауранге и живут, вспоминая Его качества.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "A",
+  "notes": "Поэма открывается не рождением, а скорбью после сокрытия Господа. Карнапура пишет как очевидец этой поры (ок. 1542).",
+  "themes": [
+   "separation",
+   "departure"
+  ],
+  "divergence": "У Мурари такой рамки нет (его рамка — беседа с Дамодарой).",
+  "event": "ev-devotees-lament-after-disappearance",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "13",
+    "to": "29"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "13",
+    "to": "29",
+    "line": 290,
+    "line_to": 650,
+    "count": 45,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L290-L650"
+   }
+  ],
+  "years": [
+   1533,
+   1542
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после сокрытия Господа (1533) и до завершения Махакавьи (1542)",
+  "age": [
+   47,
+   56
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pvl-0198",
   "source": "prema-vilasa",
   "ref": "Виласа 23, 150–170",
@@ -77370,6 +80347,68 @@
   "attestation": 1
  },
  {
+  "id": "pad-0309",
+  "source": "padas",
+  "ref": "«Рамананда», ГПТ1 с. 405 (№ 13) «ওহে নিতাই নীলাচল না ছাড়িব আর»",
+  "file": "padas/ru/14.md",
+  "period": "P15",
+  "order": 19.5,
+  "title": "Господь велит Нитьянанде жениться и жить в Гауде (пада, по Маджумдару, поддельная)",
+  "summary": "Господь говорит Нитьянанде, что не покинет Нилачалу; Его спутники ушли; Он велит Нитаю стать домохозяином, взять двух дочерей Пандита и быть милостивым к падшим.",
+  "persons": [
+   "@ramananda-vasu",
+   "@mahaprabhu",
+   "@nityananda",
+   "@haridasa-thakura",
+   "@advaita",
+   "@vishvarupa",
+   "@suryadasa-pandita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 11",
+  "notes": "Только ГПТ (РМ-015). Маджумдар: подделка в оправдание брака Нитьянанды; расходится с преданием (сноски).",
+  "themes": [
+   "family",
+   "mercy"
+  ],
+  "event": "ev-nityananda-marriage",
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "24.1",
+    "to": "24.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "24.1",
+    "to": "24.6",
+    "line": 643,
+    "line_to": 658,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L643-L658",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L669-L684"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 5
+ },
+ {
   "id": "apr-0136",
   "source": "advaita-prakasha",
   "ref": "Гл. 20, 1–25",
@@ -77425,7 +80464,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0102",
@@ -77491,7 +80530,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0005",
@@ -77553,7 +80592,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0006",
@@ -77617,7 +80656,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0007",
@@ -77681,7 +80720,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0008",
@@ -77743,7 +80782,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0009",
@@ -77810,7 +80849,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "pvl-0231",
@@ -77873,7 +80912,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0139",
@@ -77936,7 +80975,7 @@
    47,
    48
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "nvv-0010",
@@ -90088,6 +93127,52 @@
   "attestation": 1
  },
  {
+  "id": "kcm-0001",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 1, 1–7",
+  "file": "karnapura-mahakavya/ru/01.md",
+  "period": "PX",
+  "order": 0,
+  "title": "Мангалачарана: Гауранга — Кришна, ставший золотым",
+  "summary": "Благословляющие стихи: Тот, кто плясал во Вриндаване с гопи, обнимаемый ими, стал золотым Гаурангой и сияет в Навадвипе; поэт склоняется перед Его стопами, милостью и сладостью.",
+  "persons": [
+   "@mahaprabhu",
+   "@krishna"
+  ],
+  "places": [
+   "#navadvipa",
+   "#vrindavana"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "Мурари 1.01.1–7",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "1",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "1",
+    "to": "7",
+    "line": 22,
+    "line_to": 156,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L22-L156"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0001",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Мангалачарана», шлока и 1–44",
@@ -90377,6 +93462,46 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jayananda/ru/06-manuscripts.md?plain=1#L48-L71",
     "file_en": "jayananda/en/06-manuscripts.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jayananda/en/06-manuscripts.md?plain=1#L48-L71"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "kcm-0002",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 1, 8–12",
+  "file": "karnapura-mahakavya/ru/01.md",
+  "period": "PX",
+  "order": 1,
+  "title": "Самоумаление поэта: откуда он знает о лилах",
+  "summary": "Карнапура говорит, что одно видел сам, другое слышал от тех, для кого игры Господа — сама жизнь, и просит мудрых не искать изъянов в его труде.",
+  "persons": [
+   "@kavi-karnapura",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "Мурари 1.01.8–15",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "8",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/01.md",
+    "from": "8",
+    "to": "12",
+    "line": 179,
+    "line_to": 267,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/01.md?plain=1#L179-L267"
    }
   ],
   "attestation": 1
@@ -94187,6 +97312,51 @@
   "attestation": 1
  },
  {
+  "id": "pad-0286",
+  "source": "padas",
+  "ref": "Вамшидас, ГПТ1 с. 5 (№ 8) «জয় রে জয় রে মোর গৌরাঙ্গ রায়»",
+  "file": "padas/ru/14.md",
+  "period": "PX",
+  "order": 8.21,
+  "title": "Мангалачарана: слава Гауранге и Нитьянанде, мольба к Адвайте",
+  "summary": "Слава Гауранге, Нитьянанде и преданным Гауры; поэт просит Ситанатху (Адвайту Ачарью) удержать его дурной ум у Своих стоп.",
+  "persons": [
+   "@vamshivadana",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (ВВ-001); подпись «বংশীদাস» — Вамшивадана или поздний Вамшидас.",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 22,
+    "line_to": 31,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L22-L31",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L25-L34"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0208",
   "source": "padas",
   "ref": "Рая Ананта, КГЧ 28.2 = ГПТ1 с. 40 (№ 43) «নিতাই চৈতন্য দুটী ভাই দয়ার অবধি»",
@@ -94287,6 +97457,49 @@
   "attestation": 1
  },
  {
+  "id": "pad-0287",
+  "source": "padas",
+  "ref": "Наянананда, ГПТ1 с. 31 (№ 15) «গোরা মোর গুণের সাগর»",
+  "file": "padas/ru/14.md",
+  "period": "PX",
+  "order": 8.22,
+  "title": "Хвала Гауре: океан достоинств, луна без пятна, туча премы",
+  "summary": "Гора — океан достоинств, луна, источающая нектар святого имени, вершина Гималаев, откуда течёт Ганга премы, древо желаний, новая туча и рудник блаженства.",
+  "persons": [
+   "@nayanananda-mishra",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (НН-003).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "2.1",
+    "to": "2.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "2.1",
+    "to": "2.6",
+    "line": 46,
+    "line_to": 61,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L46-L61",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L51-L66"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0209",
   "source": "padas",
   "ref": "Кришнадас, ПК 1085 = ГПТ1 с. 136 (№ 75) «সোঙরো নব গৌরচন্দ»",
@@ -94336,6 +97549,143 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/11.md?plain=1#L117-L140",
     "file_en": "padas/en/11.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/11.md?plain=1#L125-L148"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0288",
+  "source": "padas",
+  "ref": "Шивананда, ГПТ1 с. 35 (№ 25) «অখিল ভুবন ভরি হরি-রস-বাদর»",
+  "file": "padas/ru/14.md",
+  "period": "PX",
+  "order": 8.23,
+  "title": "Туча Чайтаньи проливает ливень премы; спасены Джагай и Мадхай",
+  "summary": "Туча Чайтаньи, рождённая в полнолуние пхалгуны, затопила вселенную премой; имя Хари стало маха-мантрой, падшие стали бхагаватами, спасены Джагай и Мадхай; поэт сокрушается о своём забвении.",
+  "persons": [
+   "@shivananda-sena",
+   "@mahaprabhu",
+   "@jagai-madhai"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "ЧБ Мадхья 13; ЧЧ Ади 17",
+  "notes": "Только ГПТ; в каталоге (ШС-001) была ошибочная первая строка (пада № 24 с подписью Харидаса). Тот ли это Шивананда Сен — не ясно.",
+  "themes": [
+   "author",
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 76,
+    "line_to": 85,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L76-L85",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L82-L91"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0311",
+  "source": "padas",
+  "ref": "Йаду, ПК 2300 = ГПТ1 с. 429 (№ 51) «নিতাইচাঁদ দয়াময়»",
+  "file": "padas/ru/14.md",
+  "period": "PX",
+  "order": 8.24,
+  "title": "Милость Нитьянанды: не может выговорить «Гора»",
+  "summary": "Нитьянанда то темнеет, то светлеет, смеётся и плачет, не может выговорить «Гора»; Сам утопая в преме, Он затопил землю — лишь поэт остался на горе мирского бытия.",
+  "persons": [
+   "@yadunatha-kavichandra",
+   "@nityananda",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Новая строка каталога ЙД-016; подпись «যদু».",
+  "themes": [
+   "author",
+   "ecstasy"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "26.1",
+    "to": "26.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "26.1",
+    "to": "26.4",
+    "line": 702,
+    "line_to": 711,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L702-L711",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L730-L739"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0312",
+  "source": "padas",
+  "ref": "Кану Дас, ГПТ1 с. 432 (№ 60) «প্রেমে মাতোয়ারা নিতাই নাগর»",
+  "file": "padas/ru/14.md",
+  "period": "PX",
+  "order": 8.25,
+  "title": "Хвала Нитьянанде: према, недоступная предписаниям Вед",
+  "summary": "Нитай, опьянённый премой, не разбирая своих и чужих, щедро раздаёт прему, недоступную предписаниям Вед, и плачет о падших; поэт просит места у Его стоп.",
+  "persons": [
+   "@kanu-thakura",
+   "@nityananda"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Только ГПТ (КД-004).",
+  "themes": [
+   "author",
+   "mercy"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "27.1",
+    "to": "27.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/14.md",
+    "from": "27.1",
+    "to": "27.6",
+    "line": 725,
+    "line_to": 740,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/14.md?plain=1#L725-L740",
+    "file_en": "padas/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L753-L768"
    }
   ],
   "attestation": 1
