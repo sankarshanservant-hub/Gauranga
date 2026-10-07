@@ -1591,3 +1591,182 @@
   event: ev-cleaning-temple
   verses:
     - {file: "karnapura-mahakavya/ru/07.md", from: "107", to: "107"}
+
+
+- id: kcm-0084
+  source: karnapura-ckm
+  ref: "Сарга 8, 1–10"
+  file: "karnapura-mahakavya/ru/08.md"
+  period: P07
+  order: 129
+  title: "Прокажённый, оскорбивший Шривасу"
+  summary: "Прокажённый просит Господа об исцелении, называя Его Высшей Личностью; Господь в гневе отказывает: он ненавидел Шривасу и будет прокажённым в каждом рождении; вайшнавы — жизненные силы Господа, и лишь склоняющиеся перед ними переплывут океан сансары."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  parallels: "Мурари 2.13; ЧЧ Ади 17.37–59"
+  notes: "Вероятно, Гопала Чапала (ЧЧ). Оскорбление вайшнава Господь не прощает Сам — прощение возможно лишь по милости оскорблённого преданного."
+  divergence: "В ЧЧ прокажённый (Гопала Чапала) прощён после санньясы Господа по милости Шривасы; Карнапура говорит лишь об отказе."
+  themes: [offense, teaching]
+  teaching: [vaishnava]
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "karnapura-mahakavya/ru/08.md", from: "1", to: "10"}
+
+- id: kcm-0085
+  source: karnapura-ckm
+  ref: "Сарга 8, 11–16"
+  file: "karnapura-mahakavya/ru/08.md"
+  period: P07
+  order: 130
+  title: "Проклятие брахмана — благословение санньясы"
+  summary: "Брахман, которого страж не пустил на киртан, встречает Господа у Ганги, рвёт священный шнур и проклинает: «Да прервётся Твоя сансара!» — а Господь радуется: проклятие стало благословением."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.13.18–23"
+  notes: "«Прервётся сансара» — т. е. Господь оставит дом, приняв санньясу; сансара не властна над Ним."
+  themes: [sannyasa, offense]
+  event: ev-brahmana-curse-sannyasa
+  verses:
+    - {file: "karnapura-mahakavya/ru/08.md", from: "11", to: "16"}
+
+- id: kcm-0086
+  source: karnapura-ckm
+  ref: "Сарга 8, 17–36"
+  file: "karnapura-mahakavya/ru/08.md"
+  period: P07
+  order: 131
+  title: "Бхава Баларамы: «Дайте мёду!»"
+  summary: "В доме Мурари Гупты Гаура в настроении Баларамы требует мёду, белеет, как серебряная гора, отшвыривает силача-брахмана; несколько дней Он одержим Баларамой и говорит, что видел мужа с плугом в синей одежде; Чандрашекхара Ачарья видит в Нём Самого Носителя плуга."
+  persons: ["@mahaprabhu", "@murari-gupta", "@chandrashekhara-acharya"]
+  places: ["#house-murari"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.14; ЧЧ Ади 17.115–120; ср. ЧБ Мадхья 5.37–50"
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "karnapura-mahakavya/ru/08.md", from: "17", to: "36"}
+
+- id: kcm-0087
+  source: karnapura-ckm
+  ref: "Сарга 8, 37–55"
+  file: "karnapura-mahakavya/ru/08.md"
+  period: P07
+  order: 131
+  title: "Пляска в бхаве Баларамы: спутники Баларамы и золотой плуг"
+  summary: "Господь пляшет в настроении Баларамы; ветер полон хмельного аромата, пчёлы закрывают небо; Шрирама видит сошедших с неба спутников Баларамы, Ванамали — золотой плуг величиной с гору; боги кланяются в небе; на рассвете Господь с преданными играет в водах Ганги."
+  persons: ["@mahaprabhu", "@srirama-pandita", "@vanamali-acharya"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: "Мурари 2.14; ЧЧ Ади 17.118–120"
+  themes: [revelation, kirtan, celestial]
+  bhava: [balarama]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "karnapura-mahakavya/ru/08.md", from: "37", to: "55"}
+
+- id: kcm-0088
+  source: karnapura-ckm
+  ref: "Сарга 8, 56–63"
+  file: "karnapura-mahakavya/ru/08.md"
+  period: P07
+  order: 133
+  title: "Господь просит Свою флейту; Шриваса рассказывает о Вриндаване"
+  summary: "Господь просит Шривасу: «Дай Мне флейту!» — «Твою флейту стерегут гопи»; погружённый в блаженство, Господь твердит: «Говори, говори!», и Шриваса описывает Его игры с гопи во Вриндаване и на Ямуне."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.15.1"
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  event: ev-flute-request
+  verses:
+    - {file: "karnapura-mahakavya/ru/08.md", from: "56", to: "63"}
+
+
+- id: kcm-0089
+  source: karnapura-ckm
+  ref: "Сарга 9, 1–50"
+  file: "karnapura-mahakavya/ru/09.md"
+  period: P07
+  order: 133.1
+  title: "Рассказ Шривасы: гопи с Кришной в лесу"
+  summary: "Шриваса рассказывает, как гопи вошли с Кришной в лес, словно молнии рядом с тучей: Лакшми леса подносит им дары, подруги шутят над гордячкой, Кришна поднимает гопи к высоким ветвям собирать цветы, называет Радху лотосоликой, играет цветочными мячами и уговаривает обиженную."
+  persons: ["@srivasa", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Шривасы, обращённый к Господу («Ты играл…»); описание — по канонам махакавьи. Игры Кришны с гопи — проявление чистой премы, а не мирской страсти."
+  themes: [krishna-lila]
+  bhava: [gopi]
+  event: ev-shrivasa-narrates-vrindavana-lila
+  verses:
+    - {file: "karnapura-mahakavya/ru/09.md", from: "1", to: "50"}
+
+- id: kcm-0090
+  source: karnapura-ckm
+  ref: "Сарга 9, 51–95"
+  file: "karnapura-mahakavya/ru/09.md"
+  period: P07
+  order: 133.1
+  title: "Рассказ Шривасы: купание в Ямуне и самоцветный чертог"
+  summary: "Кришна и гопи играют в водах Ямуны — брызги, «водяной барабан», смытые краски и украшения как дар реке; затем гопи входят наряжаться в самоцветный чертог с зеркальными стенами, лунными камнями и хрустальным прудом, и лианы желаний совершают над ними нираджану."
+  persons: ["@srivasa", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Шривасы, обращённый к Господу («Ты играл…»); описание — по канонам махакавьи. Игры Кришны с гопи — проявление чистой премы, а не мирской страсти."
+  themes: [krishna-lila]
+  bhava: [gopi]
+  event: ev-shrivasa-narrates-vrindavana-lila
+  verses:
+    - {file: "karnapura-mahakavya/ru/09.md", from: "51", to: "95"}
+
+- id: kcm-0091
+  source: karnapura-ckm
+  ref: "Сарга 10, 1–45"
+  file: "karnapura-mahakavya/ru/10.md"
+  period: P07
+  order: 133.1
+  title: "Рассказ Шривасы: вечер в самоцветном чертоге"
+  summary: "Гопи готовят ложе из малати; солнце заходит, восходит луна; Радха, Кришна и гопи наряжаются, и под лунным светом идёт пир с круговой чашей, полный шуток и игривых речей."
+  persons: ["@srivasa", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Шривасы, обращённый к Господу («Ты играл…»); описание — по канонам махакавьи. Игры Кришны с гопи — проявление чистой премы, а не мирской страсти."
+  themes: [krishna-lila]
+  bhava: [gopi]
+  event: ev-shrivasa-narrates-vrindavana-lila
+  verses:
+    - {file: "karnapura-mahakavya/ru/10.md", from: "1", to: "45"}
+
+- id: kcm-0092
+  source: karnapura-ckm
+  ref: "Сарга 10, 46–80"
+  file: "karnapura-mahakavya/ru/10.md"
+  period: P07
+  order: 133.1
+  title: "Рассказ Шривасы: ночные игры Радхи и Кришны; утренние шутки подруг"
+  summary: "Шриваса описывает сокровенные ночные игры Радхи и Кришны, в которых Кама меняет их ролями, их сон и рассвет, когда подруги шутливыми загадками об «озере» и «пчеле» поддразнивают влюблённых."
+  persons: ["@srivasa", "@mahaprabhu", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Рассказ Шривасы, обращённый к Господу («Ты играл…»); описание — по канонам махакавьи. Игры Кришны с гопи — проявление чистой премы, а не мирской страсти."
+  themes: [krishna-lila]
+  bhava: [radha]
+  event: ev-shrivasa-narrates-vrindavana-lila
+  verses:
+    - {file: "karnapura-mahakavya/ru/10.md", from: "46", to: "80"}
