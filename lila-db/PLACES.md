@@ -37,3 +37,11 @@
 | #remuna | Ремуна | Remuna | Орисса, близ Баласора; Гопала (Кширачора-Гопинатха) |
 | #jajpur | Яджапур (Джаджпур) | Yajapura (Jajpur) | Орисса; река Вайтарани, Вараха, Вираджа, Набхи-гая, «город Шивы» |
 | #bhubaneshvara | Экамра (Бхуванешвара) | Ekamra (Bhubaneshvara) | Орисса; город Шивы, Бинду-саровара |
+| #kurma-kshetra | Курма-кшетра (Шрикурмам) | Kurma-kshetra (Shrikurmam) | к югу от Ориссы; Вишну в облике Черепахи |
+| #simhachala | Симхачала (Джияда-Нрисимха) | Simhachalam (Jiyada-Nrisimha) | близ Вишакхапатнама |
+| #kanchi | Канчи (Канчи-нагара) | Kanchi (Kanchi-nagara) | у Лочана Даса (A) и Мурари — место встречи с Раманандой; в изд. 1983 г. — Видьянагара |
+| #godavari | Годавари | the Godavari | река; по ЧЧ — место бесед с Раманандой Раем |
+| #panchavati | Панчавати | Panchavati | на Годавари; лес изгнания Рамы |
+| #ranga-kshetra | Ранга-кшетра (Шрирангам) | Ranga-kshetra (Shrirangam) | на Кавери; Ранганатха |
+| #setubandha | Сетубандха (Рамешварам) | Setubandha (Rameshvaram) | мост Рамы; линга Рамешвары |
+| #alalanatha | Алаланатха (Брахмагири) | Alalanatha (Brahmagiri) | к югу от Пури |

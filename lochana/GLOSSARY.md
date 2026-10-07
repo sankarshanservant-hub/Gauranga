@@ -255,3 +255,10 @@
 | সরস্বতী-কান্ত | Владыка Сарасвати | the Lord of Sarasvati |
 | চৈতন্য-সহস্রনাম | «Тысяча имён Чайтаньи» | the "Thousand Names of Chaitanya" |
 | ব্রহ্মসংহিতা, বরাহসংহিতা, গৌতমীয়তন্ত্র, সনৎকুমারসংহিতা | «Брахма-самхита», «Вараха-самхита», «Гаутамия-тантра», «Санаткумара-самхита» | Brahma-samhita, Varaha-samhita, Gautamiya-tantra, Sanatkumara-samhita |
+| কূর্ম (বিপ্র), কূর্মপুর (কূর্মক্ষেত্র) | Курма (брахман), Курма (Курма-кшетра) | Kurma (a brahmana), Kurma (Kurma-kshetra) |
+| বাসুদেব (বিপ্র) | Васудева (брахман в Курма-кшетре) | Vasudeva (a brahmana of Kurma-kshetra) |
+| জীয়ড়-নৃসিংহ | Джияда-Нрисимха | Jiyada-Nrisimha |
+| পুঁড়া (পুঁড়্যা গোয়াল) | Пунда (пастух) | Punda (a cowherd) |
+| খন্দ, শসা, মায়াম্বু | урожай, «шаса», маямбу | crop, "shasa", mayambu |
+| সাধু, সওদাগর, ডিঙ্গা | купец, лодка | merchant, boat |
+| জীয়ড় (সাধু) | Джияда (купец) | Jiyada (a merchant) |

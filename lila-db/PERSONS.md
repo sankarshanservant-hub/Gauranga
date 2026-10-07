@@ -16,6 +16,8 @@
 | @nrisimha | Нрисимха (Нарасимха) | Nrisimha (Narasimha) | аватара Человеко-льва; бхава Нрисимхи у Гауры |
 | @varaha | Вараха (Вепрь) | Varaha (the Boar) | аватара; бхава Варахи у Гауры |
 | @gopala-remuna | Гопала (Гопинатха) в Ремуне | Gopala (Gopinatha) of Remuna | Божество; позднее известен как Кширачора-Гопинатха |
+| @jiyada-nrisimha | Джияда-Нрисимха (Божество в Симхачале) | Jiyada-Nrisimha (Deity at Simhachalam) | Вараха-Нрисимха |
+| @ranganatha-deity | Ранганатха (Божество в Шрирангаме) | Ranganatha (Deity at Shrirangam) | |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -68,6 +70,12 @@
 | @vanamali-vipra | Ванамали (бедный брахман из Бенгалии) | Vanamali (a poor brahmana from Bengal) | пришёл с сыном, увидел в Гауре Кришну; не путать с @vanamali-acharya |
 | @jagadananda-pandita | Джагадананда Пандит | Jagadananda Pandita | |
 | @vasu-ghosha | Васу Гхош | Vasu Ghosha | певец-киртания, автор пад |
+| @kurma-vipra | Курма (брахман в Курма-кшетре) | Kurma (a brahmana of Kurma-kshetra) | принял Господа на пути на юг |
+| @vasudeva-vipra | Васудева (брахман в Курма-кшетре) | Vasudeva (a brahmana of Kurma-kshetra) | прокажённый, исцелённый Господом (ЧЧ Мадхья 7) |
+| @punda-gopa | Пунда (пастух у Джияда-Нрисимхи) | Punda (a cowherd at Jiyada-Nrisimha) | в предании о Джияда-Нрисимхе; у Мурари «Пундая» |
+| @jiyada-sadhu | Джияда (купец) | Jiyada (a merchant) | в предании о Джияда-Нрисимхе |
+| @trimalla-bhatta | Трималла Бхатта | Trimalla Bhatta | брахман из Шрирангама; у Господа в чатурмасью |
+| @paramananda-puri | Парамананда Пури | Paramananda Puri | ученик Мадхавендры Пури |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
