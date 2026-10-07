@@ -310,6 +310,26 @@
   ]
  },
  {
+  "id": "ev-advaita-advent-cause",
+  "title": "Причина явления Адвайты: подвижничество Шивы и Маха-Вишну",
+  "title_en": "The cause of Advaita's advent: Shiva's austerities and Maha-Vishnu",
+  "period": "P00",
+  "order": 35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 1: Маха-Вишну обнимает Садашиву, и небесный голос велит Ему воплотиться во чреве Лабхи. Ср. ЧЧ Ади 6: Адвайта — Маха-Вишну, неотличный от Хари, и потому зовётся Адвайтой.",
+  "entries": [
+   "apr-0001"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-gaura-reveals-reasons-advent",
   "title": "Господь открывает спутникам причины Своего явления",
   "title_en": "The Lord reveals to His associates the reasons for His advent",
@@ -369,6 +389,509 @@
   ]
  },
  {
+  "id": "ev-brahma-steals-calves-haridasa",
+  "title": "Брахма похищает телят и по слову Кришны рождается Харидасом",
+  "title_en": "Brahma steals the calves and, by Krishna's word, is born as Haridasa",
+  "period": "P00",
+  "order": 38.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "krishna-lila",
+   "offense"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 7; рассказ о похищении телят — по «Бхагавате» 10.13–14. Ср. ev-haridasa-previous-birth (по Мурари — мудрец Рама).",
+  "entries": [
+   "apr-0022"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-parents-conception",
+  "title": "Кубера Ачарья и Лабха: зачатие Адвайты",
+  "title_en": "Kubera Acharya and Labha: the conception of Advaita",
+  "period": "P01",
+  "order": 1,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 1: Шантипур, затем Навограм в Лауде (царь Дивья Симха).",
+  "entries": [
+   "apr-0002"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-labha-dream-yama",
+  "title": "Сон Лабхи: Хари-Хара поёт имя, Яма просит Господа сокрыться",
+  "title_en": "Labha's dream: Hari-Hara sings the name, Yama begs the Lord to withdraw",
+  "period": "P01",
+  "order": 1.05,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 1.",
+  "entries": [
+   "apr-0003"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-birth",
+  "title": "Явление Адвайты Ачарьи (Камалакши)",
+  "title_en": "The advent of Advaita Acharya (Kamalaksha)",
+  "period": "P01",
+  "order": 1.1,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 1: магха, 7-й лунный день; по преданию — 1434 г.",
+  "entries": [
+   "apr-0004"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-summons-tirthas",
+  "title": "Дитя Адвайта призывает святые места на гору в Лауде",
+  "title_en": "The child Advaita summons the holy places to the hill in Lauda",
+  "period": "P01",
+  "order": 1.15,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "pilgrimage"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 2: Пана-тиртха (Пунья-тиртха).",
+  "entries": [
+   "apr-0005"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-revives-prince",
+  "title": "Адвайта и царевич в храме Кали: обморок и оживление водой со стоп Нараяны",
+  "title_en": "Advaita and the prince in the Kali temple: the swoon and revival with Narayana's foot-water",
+  "period": "P01",
+  "order": 1.2,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "deities"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 2.",
+  "entries": [
+   "apr-0006"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-kali-image-splits",
+  "title": "Спор с отцом на Дипанвиту: изваяние Кали раскалывается от поклона Адвайты",
+  "title_en": "The Dipanvita debate with his father: the Kali image splits at Advaita's bow",
+  "period": "P01",
+  "order": 1.25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "deities",
+   "revelation"
+  ],
+  "teaching": [
+   "bhakti-supremacy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 2.",
+  "entries": [
+   "apr-0007"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-studies-shantipura",
+  "title": "Адвайта уходит учиться в Шантипур; родители переселяются к Ганге",
+  "title_en": "Advaita goes to study in Shantipura; his parents move to the Ganga",
+  "period": "P01",
+  "order": 1.3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 2–3.",
+  "entries": [
+   "apr-0008"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-lotus-miracle",
+  "title": "Лотос для учителя: Шанта Ведантавагиша признаёт в Адвайте Ишвару",
+  "title_en": "A lotus for the teacher: Shanta Vedantavagisha recognizes Advaita as Ishvara",
+  "period": "P01",
+  "order": 1.35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "revelation"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 3: Пурнавати; звание Веда-панчанана.",
+  "entries": [
+   "apr-0009"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-parents-departure",
+  "title": "Уход Куберы и Лабхи на небесной колеснице",
+  "title_en": "Kubera and Labha depart on a celestial chariot",
+  "period": "P01",
+  "order": 1.4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "departure",
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4.",
+  "entries": [
+   "apr-0010"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-pilgrimage",
+  "title": "Паломничество Адвайты по святым местам",
+  "title_en": "Advaita's pilgrimage to the holy places",
+  "period": "P01",
+  "order": 1.45,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "ecstasy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4: Гая, Ремуна, Пури, Сетубандха, Дварака, Бадри, Гандаки, Митхила, Айодхья, Каши, Праяга, Матхура, Врадж.",
+  "entries": [
+   "apr-0011",
+   "apr-0013",
+   "apr-0015"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-meets-madhavendra",
+  "title": "Встреча Адвайты с Мадхавендрой Пури; «Ананта-самхита» о явлении Гауры",
+  "title_en": "Advaita meets Madhavendra Puri; the Ananta-samhita on Gaura's advent",
+  "period": "P01",
+  "order": 1.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "ecstasy"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "scripture"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4: в обители Мадхвачарьи на юге.",
+  "entries": [
+   "apr-0012"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-vidyapati",
+  "title": "Адвайта и поэт Видьяпати в Митхиле",
+  "title_en": "Advaita and the poet Vidyapati in Mithila",
+  "period": "P01",
+  "order": 1.55,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "krishna-lila"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4.",
+  "entries": [
+   "apr-0014"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-madana-mohana",
+  "title": "Адвайта обретает Мадана-Мохана во Врадже",
+  "title_en": "Advaita discovers Madana-Mohana in Vraja",
+  "period": "P01",
+  "order": 1.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "krishna-lila"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4: у Двадаша-Адитья-тиртхи; Адвайта-ват; Божество передано чаубе из Матхуры.",
+  "entries": [
+   "apr-0016"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-vishakha-painting",
+  "title": "Картина Вишакхи: Адвайта находит её в Никунджа-ване и уносит в Шантипур",
+  "title_en": "Vishakha's painting: Advaita finds it in Nikunja-vana and takes it to Shantipura",
+  "period": "P01",
+  "order": 1.65,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "krishna-lila"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 4–5.",
+  "entries": [
+   "apr-0017"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-madhavendra-initiation",
+  "title": "Мадхавендра Пури в Шантипуре: посвящение Адвайты; образ Радхики",
+  "title_en": "Madhavendra Puri in Shantipura: Advaita's initiation; the image of Radhika",
+  "period": "P01",
+  "order": 1.7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 5; по ЧЧ Адвайта — ученик Мадхавендры Пури.",
+  "entries": [
+   "apr-0018"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-madhavendra-kshira-chora",
+  "title": "Мадхавендра Пури, сандал для Гопалы и Кширачора-Гопинатха в Ремуне",
+  "title_en": "Madhavendra Puri, sandalwood for Gopala, and Kshira-chora Gopinatha at Remuna",
+  "period": "P01",
+  "order": 1.75,
+  "cc": "Мадхья 4",
+  "cb": "",
+  "themes": [
+   "deities",
+   "prasada"
+  ],
+  "notes": "В ЧЧ (Мадхья 4) Господь рассказывает эту историю, посещая Ремуну. «Адвайта-пракаша» (D), гл. 5 — со слов Адвайты.",
+  "entries": [
+   "apr-0019"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-name-digvijayi",
+  "title": "Имя «Адвайта»: победа над дигвиджайи Шьямадасой",
+  "title_en": "The name 'Advaita': victory over the digvijayi Shyamadasa",
+  "period": "P01",
+  "order": 1.8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "revelation"
+  ],
+  "teaching": [
+   "vedanta",
+   "bhakti-supremacy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 6.",
+  "entries": [
+   "apr-0020"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-divya-simha-krishnadasa",
+  "title": "Царь Дивья Симха становится Кришнадасом",
+  "title_en": "King Divya Simha becomes Krishnadasa",
+  "period": "P01",
+  "order": 1.85,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 6: Лаудия Кришнадас, автор «Бальялила-сутры».",
+  "entries": [
+   "apr-0021"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-haridasa-comes-to-advaita",
+  "title": "Харидас приходит к Адвайте в Шантипур и получает посвящение",
+  "title_en": "Haridasa comes to Advaita in Shantipura and is initiated",
+  "period": "P01",
+  "order": 1.9,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 7: Харидас родился в 1372 г. Шака (1450) в Будане, пришёл к Адвайте пятилетним.",
+  "entries": [
+   "apr-0023",
+   "apr-0024"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-yadunandana-tarka-chudamani",
+  "title": "Харидас отвечает Тарка-чудамани; посвящение Ядунанданы Ачарьи",
+  "title_en": "Haridasa answers Tarka-chudamani; Yadunandana Acharya's initiation",
+  "period": "P01",
+  "order": 1.92,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "teaching": [
+   "vedanta"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 7.",
+  "entries": [
+   "apr-0025"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-sita-appearance-lotus",
+  "title": "Явление Ситы из лотоса в Нараянапуре",
+  "title_en": "Sita's appearance from a lotus at Narayanapura",
+  "period": "P01",
+  "order": 1.94,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 8: Сита найдена Нрисимхой Бхадури в лотосе; её сестра-близнец Шри; детские чудеса.",
+  "entries": [
+   "apr-0027"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-marries-sita",
+  "title": "Женитьба Адвайты на Сите и Шри",
+  "title_en": "Advaita marries Sita and Shri",
+  "period": "P01",
+  "order": 1.96,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 8.",
+  "entries": [
+   "apr-0026"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-sita-initiation",
+  "title": "Мадхавендра Пури во сне посвящает Ситу; Адвайта повторяет посвящение",
+  "title_en": "Madhavendra Puri initiates Sita in a dream; Advaita repeats the initiation",
+  "period": "P01",
+  "order": 1.97,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 8.",
+  "entries": [
+   "apr-0028"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-navadvipa-vaishnavas-before-advent",
   "title": "Навадвипа и её вайшнавы до явления Господа",
   "title_en": "Navadvipa and its Vaishnavas before the Lord's advent",
@@ -391,6 +914,143 @@
   ]
  },
  {
+  "id": "ev-haridasa-phulia-benapole",
+  "title": "Харидас в Пхулии и Бенаполе",
+  "title_en": "Haridasa at Phulia and Benapole",
+  "period": "P01",
+  "order": 2.5,
+  "cc": "",
+  "cb": "Ади 16",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name",
+   "bhakti-supremacy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9.",
+  "entries": [
+   "apr-0029"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-haridasa-prostitute",
+  "title": "Блудница, посланная искушать Харидаса, становится вайшнавкой",
+  "title_en": "The prostitute sent to tempt Haridasa becomes a Vaishnavi",
+  "period": "P01",
+  "order": 2.6,
+  "cc": "Антья 3",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9: Бенаполь, блудница получает имя Кришнадаси.",
+  "entries": [
+   "apr-0030"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-haridasa-muslim-governor",
+  "title": "Харидас перед мусульманским правителем",
+  "title_en": "Haridasa before the Muslim governor",
+  "period": "P01",
+  "order": 2.7,
+  "cc": "",
+  "cb": "Ади 16",
+  "themes": [
+   "muslims",
+   "mercy"
+  ],
+  "notes": "По ЧБ и ЧЧ — избиение на двадцати двух базарах; «Адвайта-пракаша» (D), гл. 9 — спор с правителем, который в страхе раскаивается.",
+  "entries": [
+   "apr-0031"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-haridasa-snake",
+  "title": "Змей у пещеры Харидаса обретает освобождение",
+  "title_en": "The snake at Haridasa's cave attains liberation",
+  "period": "P01",
+  "order": 2.8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9.",
+  "entries": [
+   "apr-0032"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-shantipura-brahmins-haridasa",
+  "title": "Брахманы Шантипура отлучают Адвайту за общение с Харидасом и раскаиваются",
+  "title_en": "The brahmanas of Shantipura excommunicate Advaita for associating with Haridasa, and repent",
+  "period": "P01",
+  "order": 2.9,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "mercy",
+   "revelation"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9.",
+  "entries": [
+   "apr-0033"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-shraddha-patra-haridasa",
+  "title": "Адвайта отдаёт Харидасу поминальное блюдо (шраддха-патру)",
+  "title_en": "Advaita gives the shraddha plate to Haridasa",
+  "period": "P01",
+  "order": 2.95,
+  "cc": "Антья 3",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "mercy"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9.",
+  "entries": [
+   "apr-0034"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-srivasa-saved-from-death",
   "title": "Шриваса спасён от смерти: вещий сон и прибежище в святом имени",
   "title_en": "Srivasa saved from death: the prophetic dream and refuge in the holy name",
@@ -408,6 +1068,26 @@
   ],
   "sources": [
    "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-advaita-calls-lord",
+  "title": "Адвайта взывает к Кришне явиться (туласи и вода Ганги)",
+  "title_en": "Advaita calls Krishna to descend (with tulasi and Ganga water)",
+  "period": "P01",
+  "order": 4,
+  "cc": "Ади 3",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "ecstasy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 9–10: обет Адвайты явить Кришну и громовые призывы.",
+  "entries": [
+   "apr-0035"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -477,6 +1157,46 @@
   ]
  },
  {
+  "id": "ev-advaita-tol-navadvipa",
+  "title": "Адвайта открывает школу в Навадвипе: Шриваса, Вишнудас, Васудева Датта",
+  "title_en": "Advaita opens a school in Navadvipa: Srivasa, Vishnudasa, Vasudeva Datta",
+  "period": "P01",
+  "order": 12,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "kirtan"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 10.",
+  "entries": [
+   "apr-0037"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-initiates-mishra-shachi",
+  "title": "Адвайта посвящает Джаганнатху Мишру и Шачи",
+  "title_en": "Advaita initiates Jagannatha Mishra and Shachi",
+  "period": "P01",
+  "order": 18,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 10: мантра Гаура-Гопалы, данная во сне.",
+  "entries": [
+   "apr-0038"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-vishvarupa-birth",
   "title": "Смерть восьми дочерей Шачи и рождение Вишварупы",
   "title_en": "The death of Shachi's eight daughters and the birth of Vishvarupa",
@@ -489,10 +1209,13 @@
   ],
   "notes": "Мурари 1.02.5–10.",
   "entries": [
+   "apr-0036",
+   "apr-0039",
    "jcm-0015",
    "mkc-0005"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "murari-kcc"
   ]
@@ -517,6 +1240,26 @@
   ]
  },
  {
+  "id": "ev-nityananda-birth",
+  "title": "Явление Нитьянанды в Экачакре",
+  "title_en": "Nityananda's appearance at Ekachakra",
+  "period": "P01",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 14: магха, светлая половина, 13-й лунный день, 1395 г. Шака; отец — Хадаи Пандит, мать — Падмавати.",
+  "entries": [
+   "apr-0072"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-lord-enters-shachi-womb",
   "title": "Господь входит в лоно Шачи",
   "title_en": "The Lord enters Shachi's womb",
@@ -536,10 +1279,12 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "apr-0040",
    "lcm-0032",
    "mkc-0014"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -557,9 +1302,11 @@
   ],
   "notes": "Известно лишь Лочану Дасу (нет у Мурари, в ЧБ и ЧЧ).",
   "entries": [
+   "apr-0041",
    "lcm-0033"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm"
   ]
  },
@@ -611,12 +1358,14 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "apr-0042",
    "ccd-0005",
    "jcm-0018",
    "lcm-0035",
    "mkc-0016"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -654,6 +1403,69 @@
   ]
  },
  {
+  "id": "ev-newborn-refuses-milk",
+  "title": "Новорождённый Гаура не берёт грудь, пока мать не услышит святое имя",
+  "title_en": "The newborn Gaura refuses the breast until His mother hears the holy name",
+  "period": "P02",
+  "order": 3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "family"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 10: маха-мантра из уст Младенца; дерево ним.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "apr-0043"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-sita-visits-newborn",
+  "title": "Сита Тхакурани приходит благословить новорождённого Гауру",
+  "title_en": "Sita Thakurani comes to bless the newborn Gaura",
+  "period": "P02",
+  "order": 4,
+  "cc": "Ади 13",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 10.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "apr-0045"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-birth-festival-nimai-name",
   "title": "Празднование рождения; имя Нимай",
   "title_en": "Birth celebrations; the name Nimai",
@@ -677,10 +1489,12 @@
    0
   ],
   "entries": [
+   "apr-0044",
    "lcm-0036",
    "mkc-0018"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -742,11 +1556,13 @@
    1
   ],
   "entries": [
+   "apr-0046",
    "jcm-0019",
    "lcm-0038",
    "mkc-0019"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -1314,6 +2130,35 @@
   ]
  },
  {
+  "id": "ev-achyutananda-birth",
+  "title": "Рождение Ачьютананды, сына Адвайты",
+  "title_en": "The birth of Achyutananda, Advaita's son",
+  "period": "P04",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 11: вайшакха-пурнима 1414 г. Шака.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "apr-0049"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-vishvarupa-sannyasa",
   "title": "Санньяса Вишварупы",
   "title_en": "Vishvarupa's sannyasa",
@@ -1377,9 +2222,11 @@
    10
   ],
   "entries": [
+   "apr-0047",
    "lcm-0057"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm"
   ]
  },
@@ -1667,14 +2514,197 @@
    10
   ],
   "entries": [
+   "apr-0048",
    "jcm-0027",
    "lcm-0066",
    "mkc-0034"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-krishna-mishra-birth",
+  "title": "Рождение Кришнадаса (Кришна Мишры), сына Адвайты; младенец отдан Шри",
+  "title_en": "The birth of Krishnadasa (Krishna Mishra), Advaita's son; the infant given to Shri",
+  "period": "P05",
+  "order": 5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 11: чайтра, тёмная половина, 13-й день, конец 1418 г. Шака.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0051"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-gopala-dasa-birth",
+  "title": "Рождение Гопаладаса, третьего сына Адвайты",
+  "title_en": "The birth of Gopaladasa, Advaita's third son",
+  "period": "P05",
+  "order": 7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "kirtan"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 11: карттика, светлая половина, 12-й день, 1422 г. Шака.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0052"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-gaura-studies-with-advaita",
+  "title": "Гаура и Гададхара изучают Веды у Адвайты в Шантипуре; звание Видьясагара",
+  "title_en": "Gaura and Gadadhara study the Vedas with Advaita in Shantipura; the title Vidyasagara",
+  "period": "P05",
+  "order": 8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 12; другие жизнеописания учёбы Господа у Адвайты не знают.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0053",
+   "apr-0058"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-krishna-mishra-bananas",
+  "title": "Бананы для Гауры: маленький Кришна Мишра предлагает их Гауре и съедает",
+  "title_en": "Bananas for Gaura: little Krishna Mishra offers them to Gaura and eats them",
+  "period": "P05",
+  "order": 8.2,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "pranks",
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 12.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0054"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-gopala-annaprashana",
+  "title": "Первый рис Гопаладаса: младенец касается стоп Гауранги",
+  "title_en": "Gopaladasa's first rice: the infant touches Gauranga's feet",
+  "period": "P05",
+  "order": 8.3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "revelation"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 12.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0056"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-lokanatha-comes-to-advaita",
+  "title": "Локанатха приходит учиться к Адвайте и вверен Гауре",
+  "title_en": "Lokanatha comes to study with Advaita and is entrusted to Gaura",
+  "period": "P05",
+  "order": 8.4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 12: Локанатха Чакраварти, сын Падманабхи из Джессора.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0055",
+   "apr-0057"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -1769,6 +2799,7 @@
    22
   ],
   "entries": [
+   "apr-0059",
    "jcm-0041",
    "lcm-0070",
    "mkc-0038",
@@ -1784,9 +2815,103 @@
    "mkc-0042"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-nyaya-commentary-ganga",
+  "title": "Господь бросает в Гангу Свой комментарий к ньяе, чтобы не затмить труд другого брахмана",
+  "title_en": "The Lord throws His nyaya commentary into the Ganga so as not to eclipse another brahmana's work",
+  "period": "P05",
+  "order": 30,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 19 (воспоминание).",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0130"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-achyuta-studies-with-gaura",
+  "title": "Ачьютананда учится у Гауры: сравнение лица с луной и нектар имени",
+  "title_en": "Achyutananda studies with Gaura: the moon-face simile and the nectar of the name",
+  "period": "P05",
+  "order": 40,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 12.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0060"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-ishvara-puri-navadvipa",
+  "title": "Ишвара Пури в Навадвипе: встречи с Адвайтой и Нимаем",
+  "title_en": "Ishvara Puri in Navadvipa: meetings with Advaita and Nimai",
+  "period": "P05",
+  "order": 45,
+  "cc": "",
+  "cb": "Ади 11",
+  "themes": [
+   "learning",
+   "ecstasy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 13.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0061"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -1817,6 +2942,35 @@
   ],
   "sources": [
    "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-balarama-mishra-birth",
+  "title": "Рождение Баларамы, четвёртого сына Адвайты",
+  "title_en": "The birth of Balarama, Advaita's fourth son",
+  "period": "P05",
+  "order": 50,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 15: пауша 1426 г. Шака.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0077"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -1904,15 +3058,48 @@
    22
   ],
   "entries": [
+   "apr-0062",
    "jcm-0043",
    "lcm-0079",
    "mkc-0043",
+   "apr-0063",
    "lcm-0080"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-tapana-mishra-east-bengal",
+  "title": "Тапана Мишра в Восточной Бенгалии: Господь велит ему идти в Каши",
+  "title_en": "Tapana Mishra in East Bengal: the Lord sends him to Kashi",
+  "period": "P05",
+  "order": 70,
+  "cc": "Ади 16",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 13 (без изложения наставления).",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0065"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -1942,12 +3129,14 @@
   "entries": [
    "lcm-0081",
    "mkc-0044",
+   "apr-0064",
    "ccd-0008",
    "jcm-0044",
    "lcm-0082",
    "mkc-0045"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -1979,11 +3168,13 @@
    22
   ],
   "entries": [
+   "apr-0066",
    "jcm-0045",
    "lcm-0083",
    "mkc-0046"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -2048,6 +3239,7 @@
    22
   ],
   "entries": [
+   "apr-0067",
    "lcm-0086",
    "mkc-0050",
    "lcm-0087",
@@ -2058,8 +3250,38 @@
    "mkc-0053"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-svarupa-jagadisha-birth",
+  "title": "Рождение близнецов Сварупы и Джагадиши, сыновей Адвайты",
+  "title_en": "The birth of the twins Svarupa and Jagadisha, Advaita's sons",
+  "period": "P05",
+  "order": 105,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 15: джьештха 1430 г. Шака.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "apr-0078"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -2185,12 +3407,14 @@
    23
   ],
   "entries": [
+   "apr-0068",
    "ccd-0011",
    "jcm-0034",
    "lcm-0093",
    "mkc-0057"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -2315,11 +3539,13 @@
    23
   ],
   "entries": [
+   "apr-0069",
    "jcm-0035",
    "lcm-0095",
    "mkc-0061"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -2349,11 +3575,13 @@
    24
   ],
   "entries": [
+   "apr-0070",
    "jcm-0037",
    "lcm-0097",
    "mkc-0064"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -2386,6 +3614,36 @@
   ],
   "sources": [
    "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-advaita-gita-dream",
+  "title": "Адвайта рассказывает, как во сне Вишвамбхара разъяснил Ему стих Гиты",
+  "title_en": "Advaita tells how Vishvambhara explained a Gita verse to Him in a dream",
+  "period": "P07",
+  "order": 15,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 14.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "apr-0071"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -3282,6 +4540,7 @@
    24
   ],
   "entries": [
+   "apr-0073",
    "jcm-0046",
    "lcm-0124",
    "mkc-0091",
@@ -3290,6 +4549,7 @@
    "lcm-0125"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -3484,6 +4744,42 @@
   ],
   "sources": [
    "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-advaita-yoga-vasishtha-beating",
+  "title": "Адвайта толкует «Йога-Васиштху» о превосходстве знания, и Господь наказывает Его",
+  "title_en": "Advaita expounds the Yoga-Vasishtha on the superiority of knowledge, and the Lord punishes Him",
+  "period": "P07",
+  "order": 112.8,
+  "cc": "",
+  "cb": "Мадхья 19",
+  "themes": [
+   "teaching",
+   "revelation",
+   "offense"
+  ],
+  "teaching": [
+   "bhakti-supremacy",
+   "vedanta"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 14: Адвайта нарочно проповедует знание, чтобы вызвать гнев Господа.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "apr-0074",
+   "apr-0075"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -3830,12 +5126,14 @@
    24
   ],
   "entries": [
+   "apr-0076",
    "ccd-0012",
    "jcm-0047",
    "lcm-0139",
    "lcm-0140"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm"
@@ -4408,6 +5706,66 @@
   ]
  },
  {
+  "id": "ev-govinda-joins-lord",
+  "title": "Говинда-кузнец приходит к Господу и становится Его слугой",
+  "title_en": "Govinda the blacksmith comes to the Lord and becomes His servant",
+  "period": "P07",
+  "order": 139.2,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 1: Говинда ушёл из дома в 1430 г. Шака, увидел Господа на Ганге и поселился в Его доме слугой.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkr-0002",
+   "gkr-0003"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-ballala-dighi-yamuna",
+  "title": "Господь бросается в пруд Баллалы, приняв его за Ямуну",
+  "title_en": "The Lord leaps into Ballala's tank, taking it for the Yamuna",
+  "period": "P07",
+  "order": 139.3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 1: по возгласу Нитьянанды «Вот пристань Ямуны!».",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkr-0004"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
   "id": "ev-lord-preaches-vanity-of-world",
   "title": "Господь в экстазе проповедует тщету мира",
   "title_en": "The Lord in ecstasy preaches the vanity of the world",
@@ -4528,13 +5886,16 @@
    24
   ],
   "entries": [
+   "gkr-0005",
    "jcm-0052",
    "lcm-0160",
    "mkc-0126",
+   "gkr-0006",
    "lcm-0161",
    "lcm-0169"
   ],
   "sources": [
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -4700,10 +6061,12 @@
    24
   ],
   "entries": [
+   "gkr-0007",
    "jcm-0055",
    "lcm-0171"
   ],
   "sources": [
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm"
   ]
@@ -4733,12 +6096,14 @@
   "notes": "Мурари 3.1.6–7.",
   "entries": [
    "ccd-0035",
+   "gkr-0008",
    "jcm-0062",
    "lcm-0172",
    "mkc-0130"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -4802,12 +6167,44 @@
    24
   ],
   "entries": [
+   "gkr-0010",
    "jcm-0058",
    "lcm-0174"
   ],
   "sources": [
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm"
+  ]
+ },
+ {
+  "id": "ev-katwa-sermon",
+  "title": "Проповедь Господа в Катве накануне санньясы",
+  "title_en": "The Lord's sermon at Katwa on the eve of sannyasa",
+  "period": "P08",
+  "order": 35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "sannyasa"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 1–2: под деревом билва в Кантака-нагаре — о тщете мирского, святом имени и чистой любви.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkr-0011"
+  ],
+  "sources": [
+   "govinda-karcha"
   ]
  },
  {
@@ -4837,6 +6234,7 @@
   "notes": "Мурари 2.18.31–33, 3.1.10–3.3.1.",
   "entries": [
    "ccd-0038",
+   "gkr-0012",
    "jcm-0061",
    "jcm-0063",
    "lcm-0175",
@@ -4859,6 +6257,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -4888,12 +6287,14 @@
    24
   ],
   "entries": [
+   "apr-0080",
    "ccd-0039",
    "lcm-0185",
    "mkc-0139",
    "mkc-0141"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
@@ -4922,12 +6323,14 @@
    24
   ],
   "entries": [
+   "gkr-0013",
    "jcm-0065",
    "lcm-0186",
    "mkc-0140",
    "mkc-0142"
   ],
   "sources": [
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -4958,6 +6361,7 @@
   ],
   "entries": [
    "mkc-0132",
+   "apr-0079",
    "ccd-0037",
    "jcm-0064",
    "lcm-0187",
@@ -4965,6 +6369,7 @@
    "lcm-0188"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -5059,15 +6464,21 @@
    24
   ],
   "entries": [
+   "apr-0081",
    "ccd-0040",
    "ccd-0041",
+   "gkr-0014",
    "jcm-0066",
    "lcm-0191",
    "mkc-0145",
+   "apr-0082",
+   "apr-0083",
    "lcm-0192"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -5098,6 +6509,7 @@
    24
   ],
   "entries": [
+   "apr-0084",
    "ccd-0042",
    "lcm-0193",
    "mkc-0146",
@@ -5107,6 +6519,7 @@
    "lcm-0196"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
@@ -5143,6 +6556,128 @@
   ]
  },
  {
+  "id": "ev-govinda-wife-burdwan",
+  "title": "Жена Говинды в Бурдване: Господь отпускает Говинду домой, но тот остаётся с Ним",
+  "title_en": "Govinda's wife at Burdwan: the Lord releases Govinda, but he stays with Him",
+  "period": "P09",
+  "order": 62,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "sannyasa"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 2.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkr-0015"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-kashi-mitra-jagannatha-bhoga",
+  "title": "Рис «Джаганнатха-бхога» в доме Каши Митры",
+  "title_en": "The 'Jagannatha-bhoga' rice at Kashi Mitra's house",
+  "period": "P09",
+  "order": 63,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "ecstasy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 2: за рекой Дамодар близ Бурдвана; Каши Митра — не Каши Мишра из Пури.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkr-0016"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-keshava-samanta-medinipur",
+  "title": "Мединипур: наставление богачу Кешаве Саманте",
+  "title_en": "Medinipur: instruction to the rich Keshava Samanta",
+  "period": "P09",
+  "order": 64,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 2.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkr-0018"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-narayangarh-dhaleshvara",
+  "title": "Нараянгарх: Господь у Шивы Дхалешвары; наставление богачам",
+  "title_en": "Narayangarh: the Lord at Dhaleshvara Shiva; instruction to the rich",
+  "period": "P09",
+  "order": 65,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "teaching",
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 2: богачи Вирешвара Сен и Бхавани Шанкар.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkr-0019",
+   "gkr-0020"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
   "id": "ev-journey-to-puri",
   "title": "Путь в Нилачалу",
   "title_en": "The journey to Nilachala",
@@ -5167,13 +6702,19 @@
    24
   ],
   "entries": [
+   "gkr-0017",
+   "gkr-0021",
+   "gkr-0022",
+   "apr-0085",
    "ccd-0043",
    "jcm-0067",
    "lcm-0197",
    "mkc-0149"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -5272,11 +6813,13 @@
   ],
   "entries": [
    "mkc-0152",
+   "apr-0086",
    "ccd-0044",
    "lcm-0201",
    "mkc-0153"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
@@ -5374,10 +6917,12 @@
    24
   ],
   "entries": [
-   "ccd-0045"
+   "ccd-0045",
+   "gkr-0023"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "govinda-karcha"
   ]
  },
  {
@@ -5405,6 +6950,7 @@
    24
   ],
   "entries": [
+   "gkr-0024",
    "jcm-0069",
    "lcm-0204",
    "mkc-0157",
@@ -5415,6 +6961,7 @@
    "mkc-0160"
   ],
   "sources": [
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -5446,6 +6993,7 @@
   ],
   "entries": [
    "ccd-0047",
+   "gkr-0025",
    "lcm-0207",
    "mkc-0161",
    "lcm-0208",
@@ -5453,6 +7001,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5482,15 +7031,19 @@
    24
   ],
   "entries": [
+   "apr-0088",
    "ccd-0048",
    "ccd-0050",
    "lcm-0209",
    "mkc-0163",
    "lcm-0212",
-   "mkc-0165"
+   "mkc-0165",
+   "gkr-0029"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5518,12 +7071,17 @@
    24
   ],
   "entries": [
+   "apr-0087",
    "ccd-0049",
+   "gkr-0026",
    "lcm-0210",
-   "mkc-0164"
+   "mkc-0164",
+   "gkr-0105"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -5618,11 +7176,13 @@
   "entries": [
    "lcm-0214",
    "mkc-0167",
+   "apr-0089",
    "ccd-0051",
    "lcm-0215",
    "mkc-0168"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
@@ -5654,11 +7214,14 @@
   ],
   "entries": [
    "ccd-0052",
+   "gkr-0030",
    "mkc-0169",
-   "mkc-0170"
+   "mkc-0170",
+   "gkr-0031"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "murari-kcc"
   ]
  },
@@ -5789,10 +7352,14 @@
    26
   ],
   "entries": [
-   "ccd-0056"
+   "ccd-0056",
+   "gkr-0040",
+   "gkr-0073",
+   "gkr-0079"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "govinda-karcha"
   ]
  },
  {
@@ -5820,16 +7387,144 @@
    26
   ],
   "entries": [
+   "apr-0090",
    "ccd-0055",
+   "gkr-0032",
    "lcm-0220",
    "mkc-0175",
    "jcm-0074"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-dhundhiram-tirtha",
+  "title": "Пандит Дхундхирам Тиртха: Господь признаёт поражение и дарует бхакти",
+  "title_en": "Pandit Dhundhiram Tirtha: the Lord concedes defeat and grants bhakti",
+  "period": "P11",
+  "order": 31,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 3: пандит с Тунгабхадры получает имя Харидас.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0034"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-tirtharam-courtesans",
+  "title": "Богач Тиртхарам и две блудницы: испытание Господа и обращение Тиртхарама",
+  "title_en": "The rich Tirtharam and two courtesans: the Lord tested; Tirtharam converted",
+  "period": "P11",
+  "order": 32,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 3–4: у Шивы Ватешвары; блудницы Сатьябаи и Лакшмибаи, жена Тиртхарама Камала Кумари.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0035",
+   "gkr-0036"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-munna-old-woman",
+  "title": "Мунна: Господь просит подаяние ради нищей старухи",
+  "title_en": "Munna: the Lord begs alms for a destitute old woman",
+  "period": "P11",
+  "order": 33,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0037"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-venkata-vedantist",
+  "title": "Венката: ведантист Рамананда Свами побеждён в споре и принимает святое имя",
+  "title_en": "Venkata: the Vedantist Ramananda Svami is defeated and accepts the holy name",
+  "period": "P11",
+  "order": 34,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "teaching": [
+   "vedanta",
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0038"
+  ],
+  "sources": [
+   "govinda-karcha"
   ]
  },
  {
@@ -5863,6 +7558,126 @@
   ]
  },
  {
+  "id": "ev-pantha-bhil",
+  "title": "Разбойник Пантха Бхил становится садху",
+  "title_en": "The robber Pantha Bhil becomes a sadhu",
+  "period": "P11",
+  "order": 36,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4: лес Багула.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0039"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-girishvara-mauni",
+  "title": "Гиришвара: Шива-линга и санньяси-молчальник на горе",
+  "title_en": "Girishvara: the Shiva-linga and the silent sannyasi on the mountain",
+  "period": "P11",
+  "order": 37,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0041"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-tripadi-ramats",
+  "title": "Трипади (Тирупати): Божество Рамы и спорщик-рамат Матхура",
+  "title_en": "Tripadi (Tirupati): the Deity of Rama and the disputant Mathura of the Ramats",
+  "period": "P11",
+  "order": 38,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "learning"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0042"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-pana-nrisimha",
+  "title": "Пана-Нрисимха (Мангалагири)",
+  "title_en": "Pana-Nrisimha (Mangalagiri)",
+  "period": "P11",
+  "order": 39,
+  "cc": "Мадхья 9 (упоминание)",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage",
+   "prasada"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4: служитель Мадхавендра Бхуянья, сладкий шербет-пана.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0043"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
   "id": "ev-panchavati-rama-bhava",
   "title": "Панчавати: Господь в бхаве Рамы",
   "title_en": "Panchavati: the Lord in Rama's mood",
@@ -5886,12 +7701,266 @@
    26
   ],
   "entries": [
+   "gkr-0074",
    "lcm-0221",
    "mkc-0176"
   ],
   "sources": [
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-vishnu-kanchi",
+  "title": "Вишнуканчи: Лакшми-Нараяна и купец Бхавабхути",
+  "title_en": "Vishnu-kanchi: Lakshmi-Narayana and the merchant Bhavabhuti",
+  "period": "P11",
+  "order": 41,
+  "cc": "Мадхья 9 (упоминание)",
+  "cb": "",
+  "themes": [
+   "deities",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0044"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-pakshitirtha-tiger",
+  "title": "Пакшитиртха: тигр отступает перед именем Хари; Вараха в Калатиртхе",
+  "title_en": "Pakshi-tirtha: a tiger retreats before the name of Hari; Varaha at Kala-tirtha",
+  "period": "P11",
+  "order": 42,
+  "cc": "Мадхья 9 (Пакшитиртха, Калатиртха — упоминание)",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "deities"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 4: также Шива Трикалешвара.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0045"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-sadananda-puri",
+  "title": "Сандхитиртха: Садананда Пури оставляет адвайта-ваду; подвижницы-бхайрави",
+  "title_en": "Sandhi-tirtha: Sadananda Puri abandons advaita-vada; the bhairavi ascetics",
+  "period": "P11",
+  "order": 43,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 5: слияние Нанды и Бхадры, Чайпалла-тиртха, Кавери.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0046"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-nagar-hostile-brahmana",
+  "title": "Нагар: «Побей Меня, но произнеси „Хари“» — обращение злонравного брахмана",
+  "title_en": "Nagar: 'Beat Me, but say Hari' — the conversion of a hostile brahmana",
+  "period": "P11",
+  "order": 43.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "mercy",
+   "teaching"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 5: Божества Рамы и Лакшманы в Нагаре.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0047"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-tanjore-dhaleshvara",
+  "title": "Танджор: брахман Дхалешвара, Бхатта и лесные санньяси Сурешвары",
+  "title_en": "Tanjore: the brahmana Dhaleshvara, Bhatta and Sureshvara's forest sannyasis",
+  "period": "P11",
+  "order": 44,
+  "cc": "Мадхья 9 (Госамаджа-Шива, Кумбхакарна-капала — упоминание)",
+  "cb": "",
+  "themes": [
+   "deities",
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 5.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0048",
+   "gkr-0049"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-padmakot-blind-sadhu",
+  "title": "Падмакот: слепой садху прозревает, видит Господа и оставляет тело",
+  "title_en": "Padmakot: a blind sadhu regains sight, sees the Lord and leaves his body",
+  "period": "P11",
+  "order": 44.2,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "revelation",
+   "teaching"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 5: храм восьмирукой Бхагавати.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0050",
+   "gkr-0051"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-tripatra-bhargadeva",
+  "title": "Трипатра: шиваит Бхаргадева узнаёт в Господе Бога",
+  "title_en": "Tripatra: the Shaiva Bhargadeva recognizes the Lord as God",
+  "period": "P11",
+  "order": 44.4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "deities",
+   "kirtan"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 5: Шива Чандешвара; Бхаргадева видит Господа тёмным, как Кришну.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0052"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-south-wilderness",
+  "title": "В лесах и горах на пути по Югу: звери не трогают Господа, лес питает путников",
+  "title_en": "Through the forests and hills of the South: beasts spare the Lord, the forest feeds the pilgrims",
+  "period": "P11",
+  "order": 44.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "Сводное событие для лесных переходов «Кадачи Говинды Даса» (D), ч. 5–7: великий лес до Шрирангама, тигр у кадамб, Нилагири, Сахья-кулачала.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0053",
+   "gkr-0064",
+   "gkr-0066",
+   "gkr-0068",
+   "gkr-0087"
+  ],
+  "sources": [
+   "govinda-karcha"
   ]
  },
  {
@@ -5920,11 +7989,43 @@
   ],
   "entries": [
    "ccd-0059",
+   "gkr-0054",
    "mkc-0177"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-debate-buddhists",
+  "title": "Спор с буддистами на юге",
+  "title_en": "Debate with the Buddhists in the South",
+  "period": "P11",
+  "order": 46.5,
+  "cc": "Мадхья 9",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "notes": "В ЧЧ за спором следует эпизод с нечистой пищей (ev-bird-snatches-impure-food). У Говинды (D, ч. 3) — в Тримандале, глава буддистов Рамагири Рай.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0033"
+  ],
+  "sources": [
+   "govinda-karcha"
   ]
  },
  {
@@ -6015,10 +8116,12 @@
    26
   ],
   "entries": [
+   "gkr-0055",
    "lcm-0223",
    "mkc-0179"
   ],
   "sources": [
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6080,12 +8183,713 @@
    26
   ],
   "entries": [
+   "gkr-0056",
    "lcm-0225",
    "mkc-0181"
   ],
   "sources": [
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-madhavi-vana-mauni",
+  "title": "Мадхави-вана: нагой йог-молчальник кланяется Господу",
+  "title_en": "Madhavi-vana: the naked silent yogi bows to the Lord",
+  "period": "P11",
+  "order": 81,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "revelation"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 6.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0057"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-tamraparni-kanyakumari",
+  "title": "Тамрапарни в полнолуние магхи и Каньякумари",
+  "title_en": "The Tamraparni on the Magha full moon, and Kanyakumari",
+  "period": "P11",
+  "order": 82,
+  "cc": "Мадхья 9 (упоминание)",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "festival"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 6.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0058"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-rudrapati-travancore",
+  "title": "Царь Рудрапати в Тривинку (Траванкоре)",
+  "title_en": "King Rudrapati in Trivinku (Travancore)",
+  "period": "P11",
+  "order": 83,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching",
+   "ecstasy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 6; по сноске перевода, имя царя Рудрапати знает и ЧЧ (Мадхья 9).",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0059",
+   "gkr-0060",
+   "gkr-0061"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-shringeri-debate",
+  "title": "Шрингери: спор с учениками Шанкары",
+  "title_en": "Shringeri: debate with Shankara's disciples",
+  "period": "P11",
+  "order": 84,
+  "cc": "Мадхья 9 (посещение)",
+  "cb": "",
+  "themes": [
+   "learning",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 6.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0062"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-ishvara-bharati-chandapur",
+  "title": "Чандапур: гордый санньяси Ишвара Бхарати получает имя Кришнадас",
+  "title_en": "Chandapur: the proud sannyasi Ishvara Bharati receives the name Krishnadasa",
+  "period": "P11",
+  "order": 85,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy",
+   "ecstasy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 6.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0063"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-poor-brahmana-gopala",
+  "title": "Бедный брахман и его Гопал; песнь маха-мантры",
+  "title_en": "The poor brahmana and his Gopala; the song of the maha-mantra",
+  "period": "P11",
+  "order": 86,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "kirtan",
+   "mercy"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 7.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0065"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-arjuna-pandit-gurjari",
+  "title": "Гурджари: пандит Арджуна и учение о дживе и Атмане",
+  "title_en": "Gurjari: Pandit Arjuna and the teaching on the jiva and the Atma",
+  "period": "P11",
+  "order": 86.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "learning",
+   "ecstasy"
+  ],
+  "teaching": [
+   "vedanta",
+   "maya",
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 7: Агастья-кунда.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0067"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-pune-krishna-in-pond",
+  "title": "Пуна: «Твой Кришна в пруду» — Господь бросается в воду",
+  "title_en": "Pune: 'Your Krishna is in the pond' — the Lord leaps into the water",
+  "period": "P11",
+  "order": 87,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "separation",
+   "teaching"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 7.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0069"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-khandoba-murari",
+  "title": "Джеджури: Господь спасает «жён Кхандобы» (мурари); Индира Баи",
+  "title_en": "Jejuri: the Lord saves Khandoba's 'wives' (muraris); Indira Bai",
+  "period": "P11",
+  "order": 87.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 7–8: Бхолешвара, Девалешвара, Джеджури.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0070",
+   "gkr-0071"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-naroji-chorananda",
+  "title": "Главарь разбойников Народжи в лесу Чорананди",
+  "title_en": "Naroji, the robber chief of the Chorananda forest",
+  "period": "P11",
+  "order": 88,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 8.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0072"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-ashtabhuja-animal-sacrifice",
+  "title": "У Аштабхуджи: проповедь против жертвоприношения животных",
+  "title_en": "At Ashtabhuja: the sermon against animal sacrifice",
+  "period": "P11",
+  "order": 88.3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "deities"
+  ],
+  "teaching": [
+   "purity",
+   "scripture"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 8: «царство Суратхи»; далее Тапти (Вамана), Бхароч (жертвенная яма Бали).",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0075",
+   "gkr-0076"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-baroda-naroji-death",
+  "title": "Барода: Дакорджи, царь-слуга Говинды и кончина Народжи",
+  "title_en": "Baroda: Dakorji, the king who serves Govinda, and the passing of Naroji",
+  "period": "P11",
+  "order": 88.4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "departure",
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 8.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0077",
+   "gkr-0078"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-ramananda-govinda-charana-join",
+  "title": "Сабармати: бенгальцы Рамананда и Говинда Чаран присоединяются к Господу",
+  "title_en": "The Sabarmati: the Bengalis Ramananda and Govinda Charana join the Lord",
+  "period": "P11",
+  "order": 88.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 9.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0081"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-gogha-barmukhi",
+  "title": "Гогха: блудница Бармукхи оставляет всё",
+  "title_en": "Gogha: the courtesan Barmukhi gives up everything",
+  "period": "P11",
+  "order": 88.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 9.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0082",
+   "gkr-0083"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-somnatha-ruins",
+  "title": "Разрушенный Сомнатх: плач Господа",
+  "title_en": "The ruined Somnath: the Lord's lament",
+  "period": "P11",
+  "order": 88.7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "separation",
+   "muslims"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 9.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0084"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-girnar-footprints",
+  "title": "Гирнар: исцеление Бхаргадевы и следы стоп на вершине",
+  "title_en": "Girnar: Bhargadeva healed, and the footprints on the summit",
+  "period": "P11",
+  "order": 88.8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "mercy"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 9: стопы Даттатреи; по рассказу панды — следы, оставленные Кришной перед уходом.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0085",
+   "gkr-0086"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-prabhasa",
+  "title": "Прабхаса: место гибели Ядавов",
+  "title_en": "Prabhasa: the place where the Yadavas perished",
+  "period": "P11",
+  "order": 88.9,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "pilgrimage",
+   "separation"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 10.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0088"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-dvaraka-visit",
+  "title": "Господь в Двараке",
+  "title_en": "The Lord in Dvaraka",
+  "period": "P11",
+  "order": 89,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "krishna-lila",
+   "pilgrimage"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 10: две недели в Двараке; другие жизнеописания посещения Двараки не знают.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0089",
+   "gkr-0090"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-return-journey-central-india",
+  "title": "Обратный путь через Гуджарат и Центральную Индию",
+  "title_en": "The return journey through Gujarat and Central India",
+  "period": "P11",
+  "order": 89.2,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage",
+   "mercy"
+  ],
+  "notes": "Сводное событие для малых остановок «Кадачи Говинды Даса» (D), ч. 10–11: Барода, Нармада, Дохад, Амджхора, Манду, Шивана, Райпур, Ратнапур, Самбалпур, Бхрамара.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0091",
+   "gkr-0092",
+   "gkr-0094",
+   "gkr-0096",
+   "gkr-0098"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-kukshi-vaishya-dream",
+  "title": "Кукши: бедный брахман, Лакшми-Джанардана и вещий сон купца",
+  "title_en": "Kukshi: the poor brahmana, Lakshmi-Janardana and the merchant's dream",
+  "period": "P11",
+  "order": 89.3,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "revelation",
+   "prasada"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 10–11.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0093"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-devghar-leper",
+  "title": "Девгхар: прокажённый купец Ади Нараяна исцелён прасадом",
+  "title_en": "Devghar: the leprous merchant Adi Narayana healed by prasada",
+  "period": "P11",
+  "order": 89.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "prasada"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 11.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0095"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-marwari-brahmana-son",
+  "title": "Расалкунда: марварский брахман с палкой и его сын",
+  "title_en": "Rasalkunda: the Marwari brahmana with a stick, and his son",
+  "period": "P11",
+  "order": 89.7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "offense"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Кадача Говинды Даса» (D), ч. 11.",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "entries": [
+   "gkr-0099"
+  ],
+  "sources": [
+   "govinda-karcha"
   ]
  },
  {
@@ -6113,13 +8917,19 @@
   ],
   "entries": [
    "mkc-0182",
+   "gkr-0097",
+   "apr-0091",
    "ccd-0060",
    "ccd-0061",
+   "gkr-0100",
    "lcm-0226",
-   "mkc-0183"
+   "mkc-0183",
+   "gkr-0101"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6147,10 +8957,13 @@
    28
   ],
   "entries": [
-   "ccd-0062"
+   "gkr-0027",
+   "ccd-0062",
+   "gkr-0102"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "govinda-karcha"
   ]
  },
  {
@@ -6177,15 +8990,18 @@
    28
   ],
   "entries": [
+   "gkr-0028",
    "ccd-0063",
    "ccd-0064",
    "ccd-0065",
    "ccd-0066",
+   "gkr-0103",
    "lcm-0228",
    "mkc-0192"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -6254,6 +9070,65 @@
   ]
  },
  {
+  "id": "ev-messenger-to-gauda-after-south",
+  "title": "Господь посылает вестника в Гауду о Своём возвращении с юга",
+  "title_en": "The Lord sends a messenger to Gauda with news of His return from the South",
+  "period": "P12",
+  "order": 10,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "По ЧЧ — посланец Кала Кришнадас; у Говинды (D, ч. 12) Господь посылает к Адвайте в Шантипур самого Говинду (здесь рукопись обрывается).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkr-0106"
+  ],
+  "sources": [
+   "govinda-karcha"
+  ]
+ },
+ {
+  "id": "ev-krishna-mishra-initiation-sita",
+  "title": "Сита посвящает Кришна Мишру и его жену Виджаю",
+  "title_en": "Sita initiates Krishna Mishra and his wife Vijaya",
+  "period": "P12",
+  "order": 15,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 15.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "apr-0093"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-gauda-devotees-arrive-puri",
   "title": "Преданные Гауды приходят в Пури; встреча у озера Нарендра",
   "title_en": "The devotees of Gauda arrive in Puri; the meeting at Narendra-sarovara",
@@ -6278,6 +9153,7 @@
    28
   ],
   "entries": [
+   "apr-0094",
    "ccd-0069",
    "ccd-0070",
    "mkc-0235",
@@ -6285,6 +9161,7 @@
    "mkc-0238"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -6315,9 +9192,11 @@
    28
   ],
   "entries": [
+   "apr-0095",
    "mkc-0237"
   ],
   "sources": [
+   "advaita-prakasha",
    "murari-kcc"
   ]
  },
@@ -6448,6 +9327,36 @@
   ]
  },
  {
+  "id": "ev-gopala-dasa-revived",
+  "title": "Гопала, сын Адвайты, лишается чувств в киртане, и Господь пробуждает его",
+  "title_en": "Gopala, Advaita's son, faints in kirtan and the Lord revives him",
+  "period": "P12",
+  "order": 66,
+  "cc": "Ади 12",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "notes": "По ЧЧ — при уборке храма Гундичи; «Адвайта-пракаша» (D), гл. 18 — на Ратха-ятре.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "apr-0121"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-ratha-yatra-gundicha",
   "title": "Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу",
   "title_en": "Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha",
@@ -6475,9 +9384,12 @@
   "entries": [
    "ccd-0071",
    "mkc-0242",
+   "apr-0133",
+   "apr-0120",
    "ccd-0096"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -6511,6 +9423,36 @@
   ],
   "sources": [
    "chaitanya-chandrodaya"
+  ]
+ },
+ {
+  "id": "ev-advaita-feeds-lord-hailstorm",
+  "title": "Буря не пускает санньяси, и Господь один приходит на трапезу к Адвайте и Сите",
+  "title_en": "A storm keeps the sannyasis away, and the Lord comes alone to dine with Advaita and Sita",
+  "period": "P12",
+  "order": 85,
+  "cc": "Мадхья 15",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "mercy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 18: град; Ишана рвёт священный шнур, чтобы служить стопам Господа.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "apr-0122"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -6725,9 +9667,11 @@
    28
   ],
   "entries": [
+   "apr-0092",
    "ccd-0067",
    "ccd-0068",
    "ccd-0072",
+   "gkr-0104",
    "jcm-0070",
    "jcm-0075",
    "lcm-0248",
@@ -6735,7 +9679,9 @@
    "mkc-0234"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
    "murari-kcc"
@@ -6765,11 +9711,13 @@
    28
   ],
   "entries": [
+   "apr-0096",
    "ccd-0076",
    "ccd-0077",
    "mkc-0184"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -6894,10 +9842,12 @@
    30
   ],
   "entries": [
+   "apr-0098",
    "jcm-0094",
    "mkc-0188"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "murari-kcc"
   ]
@@ -6927,10 +9877,43 @@
    30
   ],
   "entries": [
+   "apr-0097",
+   "apr-0099",
    "mkc-0190"
   ],
   "sources": [
+   "advaita-prakasha",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-raghunatha-dasa-shantipura",
+  "title": "Рагхунатха Дас встречает Господа в Шантипуре",
+  "title_en": "Raghunatha Dasa meets the Lord at Shantipura",
+  "period": "P13",
+  "order": 16,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "sannyasa"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 16 — упоминание.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "apr-0100"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -6988,10 +9971,12 @@
    30
   ],
   "entries": [
+   "apr-0101",
    "ccd-0082",
    "mkc-0193"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -7021,10 +10006,12 @@
    30
   ],
   "entries": [
+   "apr-0102",
    "lcm-0229",
    "mkc-0194"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7054,10 +10041,13 @@
    30
   ],
   "entries": [
+   "apr-0103",
    "ccd-0085",
-   "mkc-0195"
+   "mkc-0195",
+   "apr-0113"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -7087,10 +10077,74 @@
    30
   ],
   "entries": [
+   "apr-0104",
    "mkc-0196"
   ],
   "sources": [
+   "advaita-prakasha",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-achyuta-in-vraja",
+  "title": "Ачьютананда чудесно является к Господу во Врадж",
+  "title_en": "Achyutananda miraculously comes to the Lord in Vraja",
+  "period": "P13",
+  "order": 95,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "krishna-lila"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 16.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "apr-0107"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-radha-kunda-discovery",
+  "title": "Обретение Радха-кунды и Шьяма-кунды",
+  "title_en": "The discovery of Radha-kunda and Shyama-kunda",
+  "period": "P13",
+  "order": 120,
+  "cc": "Мадхья 18",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "revelation",
+   "pilgrimage"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 16: при Ачьютананде, который излагает величие кунды со слов Гададхары Пандита.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "apr-0108",
+   "apr-0109"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -7119,11 +10173,13 @@
   ],
   "entries": [
    "lcm-0230",
+   "apr-0112",
    "ccd-0084",
    "jcm-0095",
    "mkc-0223"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -7155,10 +10211,12 @@
    30
   ],
   "entries": [
+   "apr-0105",
    "lcm-0231",
    "mkc-0197"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7259,9 +10317,11 @@
    30
   ],
   "entries": [
+   "apr-0106",
    "ccd-0083",
    "lcm-0235",
    "mkc-0204",
+   "apr-0111",
    "lcm-0237",
    "mkc-0206",
    "mkc-0207",
@@ -7281,6 +10341,7 @@
    "mkc-0220"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
    "murari-kcc"
@@ -7344,11 +10405,13 @@
    30
   ],
   "entries": [
+   "apr-0110",
    "lcm-0239",
    "mkc-0210",
    "mkc-0211"
   ],
   "sources": [
+   "advaita-prakasha",
    "lochana-cm",
    "murari-kcc"
   ]
@@ -7443,12 +10506,49 @@
    30
   ],
   "entries": [
+   "apr-0116",
    "ccd-0086",
    "mkc-0224"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya",
    "murari-kcc"
+  ]
+ },
+ {
+  "id": "ev-achyuta-digambara-sannyasi",
+  "title": "Ачьютананда обращает нагого санньяси в Каши",
+  "title_en": "Achyutananda converts a naked sannyasi in Kashi",
+  "period": "P13",
+  "order": 186,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning",
+   "mercy",
+   "revelation"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "vedanta"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 17.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "apr-0114"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -7576,9 +10676,12 @@
    30
   ],
   "entries": [
-   "mkc-0229"
+   "apr-0137",
+   "mkc-0229",
+   "apr-0138"
   ],
   "sources": [
+   "advaita-prakasha",
    "murari-kcc"
   ]
  },
@@ -7650,6 +10753,288 @@
   ]
  },
  {
+  "id": "ev-rupa-puri-dramas",
+  "title": "Рупа в Пури: «Видагдха-Мадхава» и «Лалита-Мадхава»",
+  "title_en": "Rupa in Puri: Vidagdha-Madhava and Lalita-Madhava",
+  "period": "P14",
+  "order": 12,
+  "cc": "Антья 1",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "krishna-lila"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 19.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0128"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-lord-bhagavata-commentary-hidden",
+  "title": "Господь велит Ачьюте скрыть Его комментарий к «Бхагавате»",
+  "title_en": "The Lord tells Achyuta to conceal His commentary on the Bhagavata",
+  "period": "P14",
+  "order": 13,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "learning"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 19.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0129"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-sanatana-puri-sores",
+  "title": "Санатана в Пури: язвы исчезают от объятия Господа",
+  "title_en": "Sanatana in Puri: his sores vanish at the Lord's embrace",
+  "period": "P14",
+  "order": 14,
+  "cc": "Антья 4",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 19.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0131"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-karnapura-child-mercy",
+  "title": "Милость Господа к маленькому сыну Шивананды — будущему Кави Карнапуре",
+  "title_en": "The Lord's mercy to Shivananda's little son, the future Kavi Karnapura",
+  "period": "P14",
+  "order": 15,
+  "cc": "Антья 16",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "learning"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 18 — упоминание.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0125"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-ishana-serves-lord",
+  "title": "Ишана Нагара растирает стопы Господа и получает наставление",
+  "title_en": "Ishana Nagara massages the Lord's feet and receives instruction",
+  "period": "P14",
+  "order": 16,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name",
+   "sannyasa-teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 18.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0126"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-chhota-haridasa-punished",
+  "title": "Господь отвергает Младшего Харидаса",
+  "title_en": "The Lord rejects Junior Haridasa",
+  "period": "P14",
+  "order": 25,
+  "cc": "Антья 2",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "offense"
+  ],
+  "teaching": [
+   "sannyasa-teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 18.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0127"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-haridasa-departure",
+  "title": "Уход Харидаса Тхакура",
+  "title_en": "The departure of Haridasa Thakura",
+  "period": "P14",
+  "order": 60,
+  "cc": "Антья 11",
+  "cb": "",
+  "themes": [
+   "departure",
+   "kirtan"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 19.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0135"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-jnana-again",
+  "title": "Адвайта снова «проповедует знание»: Господь является из Пури; трое учеников отвергнуты",
+  "title_en": "Advaita again 'preaches knowledge': the Lord appears from Puri; three disciples rejected",
+  "period": "P14",
+  "order": 80,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "revelation",
+   "separation"
+  ],
+  "teaching": [
+   "bhakti-supremacy"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 20: отвергнуты Камадева Нагара, Агала и Пагала.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0140",
+   "apr-0141"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-tarja",
+  "title": "Загадка (тарджа) Адвайты, переданная Господу Джагаданандой",
+  "title_en": "Advaita's riddle (tarja) carried to the Lord by Jagadananda",
+  "period": "P14",
+  "order": 95,
+  "cc": "Антья 19",
+  "cb": "",
+  "themes": [
+   "separation",
+   "revelation"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 21; там же рассказ Джагадананды о служении Вишнуприи.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "apr-0142",
+   "apr-0143"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
   "id": "ev-gambhira-divine-madness",
   "title": "Божественное безумие Господа в бхаве Радхи (последние годы в Пури)",
   "title_en": "The Lord's divine madness in Radha's mood (the last years in Puri)",
@@ -7674,9 +11059,12 @@
    47
   ],
   "entries": [
-   "mkc-0252"
+   "apr-0134",
+   "mkc-0252",
+   "apr-0144"
   ],
   "sources": [
+   "advaita-prakasha",
    "murari-kcc"
   ]
  },
@@ -7921,9 +11309,11 @@
    30
   ],
   "entries": [
+   "apr-0115",
    "jcm-0080"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm"
   ]
  },
@@ -8039,9 +11429,11 @@
    30
   ],
   "entries": [
+   "apr-0118",
    "ccd-0087"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya"
   ]
  },
@@ -8070,10 +11462,13 @@
    47
   ],
   "entries": [
+   "apr-0119",
    "ccd-0073",
-   "ccd-0092"
+   "ccd-0092",
+   "apr-0132"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya"
   ]
  },
@@ -8101,9 +11496,11 @@
    47
   ],
   "entries": [
+   "apr-0124",
    "ccd-0088"
   ],
   "sources": [
+   "advaita-prakasha",
    "chaitanya-chandrodaya"
   ]
  },
@@ -8313,11 +11710,14 @@
   ],
   "notes": "Версии расходятся: Лочан Дас (изд. 1983) — вхождение в Джаганнатху; Джаянанда — рана стопы; предание — Тота-Гопинатха; у Мурари и в ЧЧ не описано.",
   "entries": [
+   "apr-0145",
    "jcm-0099",
    "jcm-0100",
-   "lcm-0250"
+   "lcm-0250",
+   "apr-0146"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm",
    "lochana-cm"
   ]
@@ -8346,10 +11746,46 @@
    48
   ],
   "entries": [
-   "jcm-0102"
+   "apr-0136",
+   "jcm-0102",
+   "apr-0139"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-vishnupriya-austerity",
+  "title": "Обет Вишнуприи: зёрнышко риса на каждое имя",
+  "title_en": "Vishnupriya's vow: one grain of rice for each name",
+  "period": "P15",
+  "order": 25,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation",
+   "prasada"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 22: рассказ Ишаны после ухода Шачи.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "apr-0151"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -8376,10 +11812,134 @@
    48
   ],
   "entries": [
+   "apr-0149",
    "jcm-0103"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm"
+  ]
+ },
+ {
+  "id": "ev-khardaha-festival-three-offerings",
+  "title": "Праздник в Кхардахе: три угощения для трёх Господ",
+  "title_en": "The festival at Khardaha: three offerings for the three Lords",
+  "period": "P15",
+  "order": 32,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "prasada",
+   "kirtan"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 22: обычай, введённый Вирабхадрой; дадхи-мангала.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "apr-0150"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-virabhadra-initiation",
+  "title": "Посвящение Вирабхадры: Адвайта отсылает его к Джахнаве",
+  "title_en": "Virabhadra's initiation: Advaita sends him to Jahnava",
+  "period": "P15",
+  "order": 34,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "family"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 22.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "apr-0152"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-grandsons",
+  "title": "Внуки Адвайты Рагхунатха и Долаговинда — подобия Гауры и Нитьянанды",
+  "title_en": "Advaita's grandsons Raghunatha and Dolagovinda, likenesses of Gaura and Nityananda",
+  "period": "P15",
+  "order": 35,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "celestial"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 21.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "apr-0147"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-advaita-entrusts-madana-gopala",
+  "title": "Наставление Адвайты сыновьям; служение Мадана-Гопале вверено Кришна Мишре",
+  "title_en": "Advaita's instruction to His sons; the service of Madana-Gopala entrusted to Krishna Mishra",
+  "period": "P15",
+  "order": 36,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "family",
+   "deities",
+   "teaching"
+  ],
+  "notes": "«Адвайта-пракаша» (D), гл. 21: Баларама и Джагадиша устанавливают другое Божество.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "apr-0148"
+  ],
+  "sources": [
+   "advaita-prakasha"
   ]
  },
  {
@@ -8406,9 +11966,11 @@
    48
   ],
   "entries": [
+   "apr-0153",
    "jcm-0104"
   ],
   "sources": [
+   "advaita-prakasha",
    "jayananda-cm"
   ]
  },

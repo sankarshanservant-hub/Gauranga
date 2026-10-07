@@ -1,0 +1,2140 @@
+# «Кадача (Карча) Говинды Даса» — лилы в порядке изложения (формат — ../README.md).
+# Перевод — govinda-kadacha/ru/01.md–12.md (части 1–12, 2473 двустишия со сквозной нумерацией, метки **N.**).
+# Предисловие издателей 1926 г. (ru/00a-vvedenie.md, ru/00b-vvedenie.md) — не текст поэмы, в базу не сводится.
+# Источник уровня D: подлинность «Кадачи» оспаривается; Шрила Бхактисиддханта Сарасвати и традиция гаудия-вайшнавов
+# её не принимают. Датировки — только на записях (date_conf: оценка), события по ним не датируются. Записи добавлять в конец.
+
+- id: gkr-0001
+  source: govinda-karcha
+  ref: "Часть 1, 1–12"
+  file: "govinda-kadacha/ru/01.md"
+  period: PX
+  order: 0
+  title: "Говинда о себе: кузнец из Канчананагара, ссора с женой, уход из дома в 1430 г. Шака"
+  summary: "Говинда, сын Шьямадаса и Мадхави, кузнец из Канчананагара под Бурдваном, после ссоры с женой Шашимукхи на рассвете уходит из дома (1430 г. Шака), в Катве слышит о Шри Чайтанье, переправляется к Надии и описывает Мишрагхат, двор Шривасы и развалины дворца Баллалы."
+  persons: ["@govinda-karmakara", "@shashimukhi", "@mahaprabhu"]
+  places: ["#burdwan", "#katwa", "#navadvipa", "#house-srivasa", "#ganga"]
+  kind: author
+  authority: D
+  parallels: "Джаянанда: jcm-0058, jcm-0062 (Говинда-кузнец — спутник Господа при санньясе)"
+  notes: "Подлинность «Кадачи» оспаривается; Шрила Бхактисиддханта Сарасвати и традиция гаудия-вайшнавов её отвергают. 1430 г. Шака = 1508–1509 гг. н. э. (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "1", to: "12"}
+
+- id: gkr-0002
+  source: govinda-karcha
+  ref: "Часть 1, 13–61"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 139.2
+  title: "Говинда видит игры Господа на Ганге и становится Его слугой"
+  summary: "Сидя на пристани, Говинда видит, как Господь с Нитьянандой, Шривасой, Дамодарой, Харидасом, Гададхарой и седобородым Адвайтой резвится в Ганге; очарованный Его красотой, он падает к стопам Господа, называет себя, и Господь берёт его в Свой дом слугой — носить воду Ганги и туласи и вкушать прасад."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@nityananda", "@srivasa", "@haridasa-thakura", "@gadadhara-pandita", "@advaita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "«Дамодара» (17) — без уточнения, какой из Дамодар."
+  themes: [mercy, ecstasy]
+  years: [1508, 1509]
+  date_conf: оценка
+  date_basis: "Говинда 5: ушёл из дома в 1430 г. Шака (1508–1509), до санньясы Господа"
+  divergence: "Приход Говинды-кузнеца к Господу описан только в «Кадаче»; Джаянанда знает Говинду-кузнеца лишь как спутника при санньясе."
+  event: ev-govinda-joins-lord
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "13", to: "61"}
+
+- id: gkr-0003
+  source: govinda-karcha
+  ref: "Часть 1, 62–84"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 139.25
+  title: "Дом Господа над Гангой; Его спутники, Шачи и Вишнуприя; служба Говинды"
+  summary: "Дом Господа — пять соломенных хижин над Гангой у южной окраины, рядом Баллала-сагара; при Господе — Адвайта, Сварупа, Шриваса, сыновья Адвайты Ачьюта и Кришнадас, Мукунда, Мурари, Гададхара, Нарахари, Видьянидхи, Шекхара, Шридхара; Нитьянанда как безумный; маленькая кроткая Шачи зовёт «Нимай!»; стыдливая Вишнуприя служит мужу; Говинда служит и вкушает прасад Вишну, а Господь плачет при именах Кришны и Радхи."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@advaita", "@svarupa-damodara", "@srivasa", "@achyutananda", "@mukunda-datta", "@murari-gupta", "@gadadhara-pandita", "@narahari-sarakara", "@pundarika-vidyanidhi", "@chandrashekhara-acharya", "@shridhara", "@nityananda", "@shachi", "@vishnupriya"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Отождествления по сноскам перевода: Ачьюта и Кришнадас — сыновья Адвайты (центральные лица «Адвайта-пракаши»). Описание, не отдельный эпизод."
+  themes: [family, prasada, ecstasy]
+  divergence: "Сварупа (Дамодара) назван среди спутников Господа в Навадвипе; дом Господа помещён у южной окраины, у пруда Баллалы."
+  event: ev-govinda-joins-lord
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "62", to: "84"}
+
+- id: gkr-0004
+  source: govinda-karcha
+  ref: "Часть 1, 85–90"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 139.3
+  title: "«Вот пристань Ямуны!» — Господь бросается в Баллала-сагару"
+  summary: "Вечером во дворе Шривасы Нитьянанда восклицает: «Вот место раса, вот пристань Ямуны! Где сотни гопи?» — и Господь в порыве бежит и прыгает в пруд Баллала-сагара, плавает в экстазе, а преданные смотрят с берега."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [ecstasy, krishna-lila]
+  bhava: [gopi]
+  event: ev-ballala-dighi-yamuna
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "85", to: "90"}
+
+- id: gkr-0005
+  source: govinda-karcha
+  ref: "Часть 1, 91–128"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 142
+  title: "Решение принять санньясу: Господь говорит Нитьянанде, Мукунде, Гададхаре; скорбь вайшнавов"
+  summary: "Чтобы спасти людей Кали, Господь решает принять санньясу у Кешавы Бхарати в Катве в месяц магха и велит Нитьянанде хранить тайну; Мукунда падает без чувств и просит повременить, Гададхара катается по земле и просит яду; весть расходится, вайшнавы в отчаянии, и Господь утешает всех."
+  persons: ["@mahaprabhu", "@nityananda", "@mukunda-datta", "@gadadhara-pandita", "@murari-gupta", "@keshava-bharati", "@govinda-karmakara"]
+  places: ["#navadvipa", "#katwa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0052; Лочан: lcm-0160, lcm-0161, lcm-0169; Мурари: mkc-0126"
+  notes: ""
+  themes: [sannyasa, separation]
+  teaching: [sannyasa-teaching, holy-name]
+  calendar: "магха, уттараяна (намеченное время санньясы)"
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "91", to: "128"}
+
+- id: gkr-0006
+  source: govinda-karcha
+  ref: "Часть 1, 129–136"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 142.5
+  title: "Шачи и Вишнуприя узнают о санньясе"
+  summary: "Шачи, услышав весть, а затем от Нитьянанды, падает без чувств и громко рыдает: «Нимай, куда ты уйдёшь?»; Вишнуприя сидит, схватившись за голову, в слезах."
+  persons: ["@shachi", "@vishnupriya", "@nityananda", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0052; Лочан: lcm-0160, lcm-0161, lcm-0169; Мурари: mkc-0126"
+  notes: ""
+  themes: [separation, family]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "129", to: "136"}
+
+- id: gkr-0007
+  source: govinda-karcha
+  ref: "Часть 1, 137–147"
+  file: "govinda-kadacha/ru/01.md"
+  period: P07
+  order: 153
+  title: "Последняя санкиртана в доме Шривасы; вечер санкранти пауши"
+  summary: "Не обращая внимания на скорбь Вишнуприи, Господь начинает в доме Шривасы великую санкиртану и пляшет в забытьи, израненный падениями; в сумерки санкранти пауши возвращается домой, утешает мать, ест и ложится, велев Говинде не спать."
+  persons: ["@mahaprabhu", "@srivasa", "@shachi", "@vishnupriya", "@govinda-karmakara"]
+  places: ["#navadvipa", "#house-srivasa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0055; Лочан: lcm-0171"
+  notes: ""
+  themes: [kirtan, ecstasy, separation]
+  calendar: "пауша, санкранти (сумерки)"
+  event: ev-last-night-vishnupriya
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "137", to: "147"}
+
+- id: gkr-0008
+  source: govinda-karcha
+  ref: "Часть 1, 148–172"
+  file: "govinda-kadacha/ru/01.md"
+  period: P08
+  order: 10
+  title: "Уход из Навадвипы: беседа с Говиндой о людях Кали; Шачи в дверях"
+  summary: "В последнюю часть ночи Господь прощается у ног матери и говорит Говинде: «Пойдём в Катву»; Он оставит шикху и шнур и пойдёт от двери к двери, даруя Хари-наму, не требующую посвящения, чандалам, женщинам и детям; Шачи встаёт в дверях, раскинув руки, Господь обхватывает её стопы и уходит, переправляется через Гангу в Кантака-нагар, а Говинда несёт сандалии."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@shachi"]
+  places: ["#navadvipa", "#ganga", "#katwa"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0035; Джаянанда: jcm-0062; Лочан: lcm-0172; Мурари: mkc-0130"
+  notes: ""
+  themes: [sannyasa, separation, teaching]
+  teaching: [holy-name, yuga-dharma]
+  calendar: "ночь после санкранти пауши"
+  divergence: "Господь уходит ночью вдвоём с Говиндой; Шачи видит уход и стоит в дверях."
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "148", to: "172"}
+
+- id: gkr-0009
+  source: govinda-karcha
+  ref: "Часть 1, 173"
+  file: "govinda-kadacha/ru/01.md"
+  period: PX
+  order: 1
+  title: "Говинда записывает увиденное в свою «карчу»"
+  summary: "Все дивные лилы, которые довелось увидеть, Говинда, сколько хватает сил, записывает в свою карчу (дневник)."
+  persons: ["@govinda-karmakara"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Ключевое заявление автора о дневниковом характере книги (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "173", to: "173"}
+
+- id: gkr-0010
+  source: govinda-karcha
+  ref: "Часть 1, 174–183"
+  file: "govinda-kadacha/ru/01.md"
+  period: P08
+  order: 30
+  title: "Ночь в Кантака-нагаре: приходят Мукунда, Шекхара, Нитьянанда, Гададхара и другие"
+  summary: "В сумерки Господь и Говинда приходят в Кантака-нагар (Катву); ночью являются Мукунда, Шекхара, Нитьянанда, Брахмананда, Гададхара, учитель Гангадас и певец Шиваи; всю ночь Господь, обезумев от любви, пляшет перед сотнями тысяч людей, с травинкой в зубах моля о преданном служении."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@chandrashekhara-acharya", "@nityananda", "@gadadhara-pandita", "@gangadasa-pandita", "@govinda-karmakara"]
+  places: ["#katwa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0058; Лочан: lcm-0174"
+  notes: "Брахмананда (175) — без уточнения."
+  themes: [kirtan, sannyasa, ecstasy]
+  event: ev-nityananda-follows-to-katwa
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "174", to: "183"}
+
+- id: gkr-0011
+  source: govinda-karcha
+  ref: "Часть 1, 184 — часть 2, 241"
+  file: "govinda-kadacha/ru/01.md"
+  period: P08
+  order: 35
+  title: "Проповедь под деревом билва в Катве: имя Кришны, тщета мирского, чистая любовь"
+  summary: "Перед толпой Господь учит: Кришна и Его имя неотличны; тело, богатство, семья преходящи, царь и бедняк равны перед смертью; гордость учёностью и похоть ведут в ад; чистая любовь — томление по Кришне, как юной девы по юноше, и рядом с Кришной похоть сгорает; суть для века Кали — Хари-нама."
+  persons: ["@mahaprabhu"]
+  places: ["#katwa"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Слова о «ложности» видимого (186, 202) и о «неразличии мужчины и женщины» (209) в гаудия-вайшнавском понимании — о преходящести мира и тел и о единой духовной природе душ; мир не иллюзорен, а временен, Господь и душа вечно различны (по Бхактисиддханте)."
+  themes: [teaching, sannyasa]
+  teaching: [holy-name, maya, prema, yuga-dharma]
+  event: ev-katwa-sermon
+  verses:
+    - {file: "govinda-kadacha/ru/01.md", from: "184", to: "216"}
+    - {file: "govinda-kadacha/ru/02.md", from: "217", to: "241"}
+
+- id: gkr-0012
+  source: govinda-karcha
+  ref: "Часть 2, 242–276"
+  file: "govinda-kadacha/ru/02.md"
+  period: P08
+  order: 40
+  title: "Санньяса: плач женщин, цирюльник Дева; Бхарати мысленно признаёт в Господе Бога; имя Шри Кришна Чайтанья"
+  summary: "Женщины Катвы плачут о Его красоте и корят «каменного» Кешаву Бхарати; Господь велит принести всё для санньясы, цирюльник Дева под деревом билва сбривает Ему волосы («Я ухожу во Врадж»); во второй половине дня Он надевает каупину и шафрановую одежду, Бхарати мысленно склоняется к Его стопам как к Богу и даёт имя Шри Кришна Чайтанья; ночь проходит в пляске с Хари-намой."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@gadadhara-pandita", "@nityananda", "@chandrashekhara-acharya", "@gangadasa-pandita", "@govinda-karmakara"]
+  places: ["#katwa"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0038; Джаянанда: jcm-0061, jcm-0063; Лочан: lcm-0175, lcm-0176, lcm-0177, lcm-0178, lcm-0179, lcm-0180, lcm-0181, lcm-0182, lcm-0183, lcm-0184; Мурари: mkc-0128, mkc-0133, mkc-0134, mkc-0135, mkc-0136, mkc-0137, mkc-0138"
+  notes: ""
+  themes: [sannyasa, revelation, separation]
+  bhava: [sannyasi]
+  divergence: "Цирюльник назван Девой; Бхарати сам в сердце признаёт в Господе Бога."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "242", to: "276"}
+
+- id: gkr-0013
+  source: govinda-karcha
+  ref: "Часть 2, 277–279"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 20
+  title: "Господь отсылает Шекхару и Брахмананду к матери в Надию"
+  summary: "Утром Господь велит Шекхаре вместе с Брахманандой вернуться в Надию, сказать матери, что Нимай принял санньясу, и утешить её."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya", "@shachi"]
+  places: ["#katwa", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0065; Лочан: lcm-0186; Мурари: mkc-0140, mkc-0142"
+  notes: ""
+  themes: [separation, family]
+  event: ev-chandrashekhara-sent-back
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "277", to: "279"}
+
+- id: gkr-0014
+  source: govinda-karcha
+  ref: "Часть 2, 280–292"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 45
+  title: "Шествие с Бхарати и пандитами; в доме Ачарьи — встреча с Шачи"
+  summary: "С Нитьянандой, Гададхарой и Бхарати, сопровождаемый толпами и пандитами (Рудрадева, Рамаратна, Джагай, Гангадас, Кашишвара и др.), Господь пляшет на ходу; Бхарати плачет, вкушая любовь; затем Он идёт на восток в дом Ачарьи (Адвайты), куда приходит Шачи; поклонившись матери, Он уходит на юг."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@keshava-bharati", "@gangadasa-pandita", "@advaita", "@shachi", "@govinda-karmakara"]
+  places: ["#katwa", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0081, apr-0082, apr-0083; Карнапура (ЧЧд): ccd-0040, ccd-0041; Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: "Отождествление дома Ачарьи с домом Адвайты в Шантипуре — по сноске перевода; эпизод передан очень кратко. Кашишвара (285) в списке пандитов — без уточнения."
+  themes: [sannyasa, family, kirtan]
+  divergence: "Нет трёхдневного странствия по Радха-деше; Кешава Бхарати сопровождает Господа после санньясы."
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "280", to: "292"}
+
+- id: gkr-0015
+  source: govinda-karcha
+  ref: "Часть 2, 293–324"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 62
+  title: "Бурдван: жена Говинды Шашимукхи молит его вернуться; Говинда остаётся с Господом"
+  summary: "С Ишаной, Пратапой, Гангадасом, Гададхарой и Банешварой Господь доходит до Бурдвана и в шутку зовёт Говинду домой; жена Говинды прибегает в слезах, Господь утешает её и из сострадания велит Говинде остаться дома, а Сам пойдёт в Пури с другим слугой; Говинда с плачем обхватывает Его стопы и, отвергнув уговоры соседей, идёт за Господом."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@shashimukhi", "@gangadasa-pandita", "@gadadhara-pandita"]
+  places: ["#burdwan"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Речь Говинды соседям (320–321: «женщина и мужчина — одно») — о единой духовной природе душ, а не о мирском смешении; Говинда называет Гаурангу «полным Брахманом, вечным» (324)."
+  themes: [family, sannyasa, separation]
+  event: ev-govinda-wife-burdwan
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "293", to: "324"}
+
+- id: gkr-0016
+  source: govinda-karcha
+  ref: "Часть 2, 325–340"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 63
+  title: "Каши Митра: при слове «Джаганнатха-бхога» Господь плачет о Джаганнатхе"
+  summary: "За рекой Дамодар благочестивый Каши Митра даёт Господу тонкий рис; услышав его название — «Джаганнатха-бхога», Господь в слезах зовёт: «Джаганнатха, притяни Меня к Себе!»; Он Сам готовит и подносит бхогу и, подшучивая над голодным Говиндой, раздаёт прасад."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@jagannatha-deity"]
+  places: ["#burdwan"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Каши Митра — не Каши Мишра из Пури (сноска перевода)."
+  themes: [prasada, ecstasy, jagannatha]
+  event: ev-kashi-mitra-jagannatha-bhoga
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "325", to: "340"}
+
+- id: gkr-0017
+  source: govinda-karcha
+  ref: "Часть 2, 341–358"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 63.5
+  title: "Хаджипур: киртан под баньяном; Господь исцеляет объевшегося Говинду"
+  summary: "В деревне Хаджипур под огромным баньяном Господь до полуночи ведёт санкиртану, опьяняя мужчин, женщин и детей Именем; затем готовит рис с горькой тыквой на масле, поднесённом деревенским преданным; у объевшегося Говинды вздувается живот, и Господь, проведя рукой, исцеляет его."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0085; Карнапура (ЧЧд): ccd-0043; Джаянанда: jcm-0067; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: "Малая остановка на пути в Пури."
+  themes: [kirtan, prasada, pilgrimage]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "341", to: "358"}
+
+- id: gkr-0018
+  source: govinda-karcha
+  ref: "Часть 2, 359–381"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 64
+  title: "Мединипур: богач Кешава Саманта и наставление о тщете богатства"
+  summary: "Богач Кешава Саманта с насмешкой предлагает молодому санньяси денег и мирских радостей; Господь с улыбкой учит: золото и самоцветы — видоизменения глины, тело станет пищей шакалов, вечная реальность — Кришна; затем зовёт Говинду идти в Нараянгарх."
+  persons: ["@mahaprabhu", "@keshava-samanta", "@govinda-karmakara"]
+  places: ["#medinipur"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [maya, bhakti-supremacy]
+  event: ev-keshava-samanta-medinipur
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "359", to: "381"}
+
+- id: gkr-0019
+  source: govinda-karcha
+  ref: "Часть 2, 382–403"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 65
+  title: "Нараянгарх: экстаз перед Шивой Дхалешварой; ладду для Говинды"
+  summary: "Увидев сельское божество Шиву Дхалешвару, Господь с возгласом «Хара, Хара!» падает, катается в экстазе, кровь сочится сквозь поры; отшельники и аскеты падают ниц; Он делает ладду прасадом для Говинды, раздаёт прасад деревенским и, возложив стопу на голову раскаявшегося Говинды, снова пляшет."
+  persons: ["@mahaprabhu", "@shiva", "@govinda-karmakara"]
+  places: ["#narayangarh"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Господь чтит Шиву как величайшего вайшнава (ср. ev-ekamra-bhubaneshvara)."
+  themes: [deities, ecstasy, prasada]
+  event: ev-narayangarh-dhaleshvara
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "382", to: "403"}
+
+- id: gkr-0020
+  source: govinda-karcha
+  ref: "Часть 2, 404 — часть 3, 437"
+  file: "govinda-kadacha/ru/02.md"
+  period: P09
+  order: 65.5
+  title: "Нараянгарх: богачи Вирешвара Сен и Бхавани Шанкар; «мир — сон наяву»"
+  summary: "Богачи Вирешвара Сен и Бхавани Шанкар являются с паланкинами, слонами и верблюдами; с травинкой в зубах Господь учит: царство — сон наяву, отражение отражения, драгоценность одна — Кришна; погружённый в мирское, как бык у маслобойки, не видит Радхи и Кришны; узел материи и сознания развязывает бхакти."
+  persons: ["@mahaprabhu"]
+  places: ["#narayangarh"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Сравнения мира со сном и тенью (413–421) в гаудия-вайшнавском понимании — о преходящести мирских владений, а не о нереальности творения; мир — энергия Кришны (430)."
+  themes: [teaching, mercy]
+  teaching: [maya, bhakti-supremacy]
+  event: ev-narayangarh-dhaleshvara
+  verses:
+    - {file: "govinda-kadacha/ru/02.md", from: "404", to: "436"}
+    - {file: "govinda-kadacha/ru/03.md", from: "437", to: "437"}
+
+- id: gkr-0021
+  source: govinda-karcha
+  ref: "Часть 3, 438–448"
+  file: "govinda-kadacha/ru/03.md"
+  period: P09
+  order: 66
+  title: "Джалешвар: санньяси у Шивы Биллешвары узнаёт в Господе Бога"
+  summary: "В храме Шивы Биллешвары в Джалешваре Господь кланяется жившему там санньяси; тот вздрагивает: «Ты не простой человек, едва я взглянул — мои путы распались», — и Господь, скрывая Себя, пускается в пляс с кличем «Хари!»; ночь проходит в санкиртане."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#jaleshvara"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0085; Карнапура (ЧЧд): ccd-0043; Джаянанда: jcm-0067; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: "Малая остановка на пути в Пури."
+  themes: [revelation, kirtan, pilgrimage]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "438", to: "448"}
+
+- id: gkr-0022
+  source: govinda-karcha
+  ref: "Часть 3, 449–460"
+  file: "govinda-kadacha/ru/03.md"
+  period: P09
+  order: 67
+  title: "Суварнарекха (Рагхунатха Дас), Харихарпур, Балешвар (Гопал), Нилагарх, Вайтарани"
+  summary: "На берегу Суварнарекхи Господь радуется встрече с Рагхунатхой Дасом; в Харихарпуре и Нилагархе пляшет и падает без чувств, в Балешваре в блаженстве видит Гопала, у реки Вайтарани плачет: «Кришна, переправь Меня!»"
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@gopala-remuna"]
+  places: ["#suvarnarekha", "#remuna", "#jajpur"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0085; Карнапура (ЧЧд): ccd-0043; Джаянанда: jcm-0067; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: "Гопал в Балешваре — по-видимому, Божество в Ремуне близ Балешвара (ср. ev-remuna-gopala); Вайтарани — у Яджапура (ср. ev-jajpur-viraja)."
+  themes: [pilgrimage, ecstasy, deities]
+  divergence: "Встреча с Рагхунатхой Дасом у Суварнарекхи в 1510 г. противоречит ЧЧ (он пришёл к Господу в Пури годы спустя) — одно из мест, считающихся анахронизмом (сноска перевода)."
+  event: ev-journey-to-puri
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "449", to: "460"}
+
+- id: gkr-0023
+  source: govinda-karcha
+  ref: "Часть 3, 461–467"
+  file: "govinda-kadacha/ru/03.md"
+  period: P09
+  order: 85
+  title: "Гопинатха за Маханади; Сакши-гопала"
+  summary: "Переправившись через Маханади, путники видят Божество Гопинатхи и вкушают Его махапрасад; издали увидев Сакши-гопалу, Господь в любви падает на землю, словно что-то вспомнив, плачет и снова и снова зовёт: «Гопал, Гопал!»"
+  persons: ["@mahaprabhu", "@sakshi-gopala"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0045"
+  notes: "Гопинатха, упомянутый после Маханади, по традиционному маршруту находится в Ремуне (близ Балешвара); Говинда, возможно, путает порядок (сноска перевода)."
+  themes: [deities, ecstasy, prasada]
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "461", to: "467"}
+
+- id: gkr-0024
+  source: govinda-karcha
+  ref: "Часть 3, 468"
+  file: "govinda-kadacha/ru/03.md"
+  period: P09
+  order: 86
+  title: "В храме Лингараджи Господь плачет"
+  summary: "Придя в храм Лингараджи (Бхуванешвара), Господь неведомо отчего плачет."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#bhubaneshvara"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0069; Лочан: lcm-0204, lcm-0205, lcm-0206; Мурари: mkc-0157, mkc-0158, mkc-0159, mkc-0160"
+  notes: "Упоминание."
+  themes: [deities, pilgrimage]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "468", to: "468"}
+
+- id: gkr-0025
+  source: govinda-karcha
+  ref: "Часть 3, 469–473"
+  file: "govinda-kadacha/ru/03.md"
+  period: P09
+  order: 90
+  title: "Атхаранала: флаг храма; «Вот Мой Кришна пляшет пастушком!»"
+  summary: "У моста Атхаранала, увидев флаг на храме, Господь падает и превращает землю в грязь потоком слёз, восклицает: «Ах, Господь Джаганнатха!», обнимает встречных и видит: «Вот Мой Кришна пляшет в облике пастушка!»"
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0047; Лочан: lcm-0207, lcm-0208; Мурари: mkc-0161, mkc-0162"
+  notes: ""
+  themes: [jagannatha, ecstasy]
+  bhava: [devotee]
+  event: ev-first-sight-jagannatha-temple
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "469", to: "473"}
+
+- id: gkr-0026
+  source: govinda-karcha
+  ref: "Часть 3, 474–481"
+  file: "govinda-kadacha/ru/03.md"
+  period: P10
+  order: 10
+  title: "Первый даршан: у столпа Гаруды; затем — в дом Мишры"
+  summary: "У врат храма Господь катается в пыли и за слезами не может разглядеть Вишну; придя в себя и вновь увидев Махавишну, плачет, обнимает Гададхару, обхватывает столп Гаруды и рассекает лоб; кто-то вытирает кровь, и после даршана Он идёт в дом Мишры, куда стекаются преданные."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@gadadhara-pandita", "@kashi-mishra"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0087; Карнапура (ЧЧд): ccd-0049; Лочан: lcm-0210; Мурари: mkc-0164"
+  notes: "Имя спутника, вытершего кровь (480), в издании искажено."
+  themes: [jagannatha, ecstasy]
+  divergence: "Нет обморока перед Джаганнатхой и встречи с Сарвабхаумой при первом даршане; Господь сразу поселяется у (Каши) Мишры."
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "474", to: "481"}
+
+- id: gkr-0027
+  source: govinda-karcha
+  ref: "Часть 3, 482–500"
+  file: "govinda-kadacha/ru/03.md"
+  period: P10
+  order: 25
+  title: "Жизнь в доме Мишры: спутники, Имя круглые сутки, прасад Каши Мишры"
+  summary: "Пури все восемь страж полон звуков Имени; при Господе Нитьянанда, Кришнадас, Харидас, брахман Кришнадас и Шьямадас, чтецы «Бхагаваты», Рагхунатха Дас, Шекхара, Дамодара, Нарахари, Гададхара; Господь бросается в море; Каши Мишра каждый день приносит прасад, и Говинда описывает кушанья."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@kala-krishnadasa", "@raghunatha-dasa", "@chandrashekhara-acharya", "@narahari-sarakara", "@gadadhara-pandita", "@kashi-mishra", "@govinda-karmakara"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0062"
+  notes: "Кришнадас (483) и «брахман Кришнадас» (487) — возможно, разные лица; «Дамодара» без уточнения."
+  themes: [kirtan, prasada, jagannatha]
+  divergence: "Господь поселяется у Каши Мишры и окружён спутниками из Бенгалии (Рагхунатха Дас, Нарахари и др.) уже в первый приход в Пури, до паломничества на юг."
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "482", to: "500"}
+
+- id: gkr-0028
+  source: govinda-karcha
+  ref: "Часть 3, 501–504"
+  file: "govinda-kadacha/ru/03.md"
+  period: P10
+  order: 26
+  title: "Санньяси собираются к Господу в Нилачале"
+  summary: "Постепенно приходят Шанкара Бхарати, Парамананда Пури, Дамодара Свами, Прадьюмна Брахмачари, Чидананда Гири, Премананда Сарасвати и множество преданных."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@nrisimhananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0063, ccd-0064, ccd-0065, ccd-0066; Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: "Дамодара Свами — по-видимому, Сварупа Дамодара; Прадьюмна Брахмачари — Нрисимхананда (отождествления предположительны)."
+  themes: [sannyasa]
+  divergence: "Парамананда Пури и Сварупа Дамодара в Пури уже до южного паломничества (по ЧЧ — пришли позже)."
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "501", to: "504"}
+
+- id: gkr-0029
+  source: govinda-karcha
+  ref: "Часть 3, 505–510"
+  file: "govinda-kadacha/ru/03.md"
+  period: P10
+  order: 30
+  title: "Сарвабхаума уносит лишившегося чувств Господа к себе и служит Ему"
+  summary: "Увидев Махавишну и «Говинду», Господь лишается чувств и лежит как мёртвый; Сарвабхаума Бхаттачарья поднимает Его на руки, уносит к себе домой и служит Ему; Господь дарует Сарвабхауме бхакти и готовится к странствию на юг."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0088; Карнапура (ЧЧд): ccd-0048, ccd-0050; Лочан: lcm-0209, lcm-0212; Мурари: mkc-0163, mkc-0165"
+  notes: "«Говинда» (507) — вероятно, Джаганнатха (сноска перевода). Освобождение Сарвабхаумы лишь упомянуто (510)."
+  themes: [jagannatha, ecstasy, mercy]
+  divergence: "Встреча с Сарвабхаумой — после поселения у Мишры, а не при первом даршане."
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "505", to: "510"}
+
+- id: gkr-0030
+  source: govinda-karcha
+  ref: "Часть 3, 511–525"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 5
+  title: "Выход на юг седьмого вайшакхи: Нитьянанда предлагает Кришнадаса, Господь берёт Говинду"
+  summary: "Пробыв три месяца в Пури, Господь седьмого вайшакхи отправляется на юг; Нитьянанда, Гададхара, Премананда Сарасвати и Шанкара Бхарати хотят идти с Ним, Нитьянанда просит взять чистого брахмана Кришнадаса Тхакура; Господь отговаривает всех, но соглашается взять Говинду: «Общество Говинды Я очень люблю»."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@kala-krishnadasa", "@govinda-karmakara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0052; Мурари: mkc-0169, mkc-0170"
+  notes: "Ключевое для полемики место: по ЧЧ (Мадхья 7) с Господом пошёл только брахман Кришнадас (сноска перевода)."
+  themes: [pilgrimage, separation]
+  calendar: "вайшакха, 7-й день"
+  years: [1510, 1510]
+  date_conf: оценка
+  date_basis: "Говинда 511–512: три месяца в Пури, выход 7 вайшакхи; год — по расчёту Д. Ч. Сена (предисловие 1926 г.)"
+  divergence: "С Господом на юг идёт Говинда (и Кришнадас); прощания с Джаганнатхой, Каши Мишрой и Сарвабхаумой нет."
+  event: ev-departure-for-south
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "511", to: "525"}
+
+- id: gkr-0031
+  source: govinda-karcha
+  ref: "Часть 3, 526–529"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 7
+  title: "Алаланатха: Господь пляшет и падает без чувств; прощание с преданными"
+  summary: "Преданные провожают Господа до храма Алаланатхи; увидев Божество, Он орошает землю слезами и, танцуя, падает без чувств; наутро, простившись со всеми, путники втроём уходят на юг."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@kala-krishnadasa"]
+  places: ["#alalanatha"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0052; Мурари: mkc-0169, mkc-0170"
+  notes: "«Втроём» — Господь, Говинда и, по-видимому, Кришнадас; далее Кришнадас почти не упоминается (сноска перевода)."
+  themes: [ecstasy, pilgrimage, separation]
+  event: ev-departure-for-south
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "526", to: "529"}
+
+- id: gkr-0032
+  source: govinda-karcha
+  ref: "Часть 3, 530–564"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 30
+  title: "Рамананда Рай на берегу Годавари: от общения со святыми до «Раи, исполненной расы»"
+  summary: "По совету Сарвабхаумы Господь спешит на Годавари; Рамананда Рай со слезами обхватывает стопы юного санньяси: «Ты — Сам Бог»; на вопросы Господа Рай отвечает: очищает ум общение со святыми, выше — отречение, привязанность к Богу, према-бхакти, суть всего — Раи (Радха), исполненная расы; Господь закрывает ему рот рукой; ночь проходит в беседах, Рамананда приходит десять дней, и Господь зовёт его жить с Ним и Бхаттой в Нилачале."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma", "@radha"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0090; Карнапура (ЧЧд): ccd-0055; Лочан: lcm-0220; Мурари: mkc-0175; Джаянанда: jcm-0074"
+  notes: "«Бхатта» (560) — Сарвабхаума (сноска перевода). Автор признаёт, что не записал и сотой доли беседы (562)."
+  themes: [teaching, ecstasy, revelation]
+  bhava: [radha]
+  teaching: [prema, vaishnava]
+  divergence: "Беседа сжата и построена иначе, чем в ЧЧ Мадхья 8 (сноска перевода); между Алаланатхой и Годавари не упомянуты Курма-кшетра и Джияда-Нрисимха."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "530", to: "564"}
+
+- id: gkr-0033
+  source: govinda-karcha
+  ref: "Часть 3, 565–580"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 46.5
+  title: "Тримандаль: буддисты побеждены в споре; глава их Рамагири Рай просит пути бхакти"
+  summary: "В Тримандале Господь вступает в спор с буддистами при посредничестве царя; буддисты признают поражение, их глава Рамагири Рай, «венец безбожников», молит указать путь бхакти; Господь называет его Своим господином: «Тот, кто трепещет, произнося „Хари“, — мой господин», и буддисты-пандиты идут за Рамагири."
+  persons: ["@mahaprabhu", "@ramagiri-raya"]
+  places: ["#trimandal"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Отождествление Тримандаля неясно (сноска перевода)."
+  themes: [learning, mercy]
+  teaching: [holy-name, bhakti-supremacy]
+  divergence: "Нет эпизода с нечистой пищей, подброшенной буддистами (ЧЧ Мадхья 9)."
+  event: ev-debate-buddhists
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "565", to: "580"}
+
+- id: gkr-0034
+  source: govinda-karcha
+  ref: "Часть 3, 581–594"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 31
+  title: "Дхундхирам Тиртха с Тунгабхадры: «Я проиграл тебе» — и гордый пандит падает к стопам"
+  summary: "Знаток сухой логики Дхундхирам Тиртха приходит спорить; Господь со слезами катается по земле и признаёт поражение, предлагая написать ему грамоту о победе; очищенный сердцем Дхундхи падает к Его стопам, получает бхакти и имя Харидас, а Господь уходит к Пантха-гухе."
+  persons: ["@mahaprabhu", "@dhundhiram-tirtha"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, mercy, ecstasy]
+  teaching: [bhakti-supremacy]
+  event: ev-dhundhiram-tirtha
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "581", to: "594"}
+
+- id: gkr-0035
+  source: govinda-karcha
+  ref: "Часть 3, 595–657"
+  file: "govinda-kadacha/ru/03.md"
+  period: P11
+  order: 32
+  title: "У Шивы Ватешвары: богач Тиртхарам подсылает двух блудниц; «Матушка!» — и обращение Тиртхарама"
+  summary: "У баньяна Акшая и Шивы Ватешвары богач Тиртхарам приводит блудниц Сатьябаи и Лакшмибаи испытать стойкость санньяси; когда Сатья обнажает грудь, Господь зовёт её «матушка» и в экстазе Имени, нагой, исхудалый, пляшет, не сознавая внешнего; потрясённые буддисты возглашают «Хари», Тиртхарам с плачем просит Хари-наму, и Господь учит его: богатство — соломинка, тело преходяще, Кришна приходит к искателю через веру."
+  persons: ["@mahaprabhu", "@tirtharam", "@shiva", "@govinda-karmakara"]
+  places: ["#vateshvara"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "В ответ на искушение Господь, санньяси, видит в женщине мать и погружается в экстаз Имени — эпизод не допускает мирского прочтения (противники «Кадачи» его искажали — предисл. 1926). Слова «Веды не учат, что два сознания едины» (647) — о различии душ."
+  themes: [mercy, ecstasy, teaching]
+  bhava: [sannyasi]
+  teaching: [maya, bhakti-supremacy]
+  event: ev-tirtharam-courtesans
+  verses:
+    - {file: "govinda-kadacha/ru/03.md", from: "595", to: "657"}
+
+- id: gkr-0036
+  source: govinda-karcha
+  ref: "Часть 4, 658–668"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 32.5
+  title: "Тиртхарам оставляет богатство жене Камале и становится странником"
+  summary: "Тиртхарам надевает каупину и тилаку; его прекрасная жена Камала Кумари с плачем обхватывает его стопы, но он отдаёт ей всё имущество, велит повторять Хари-наму и становится нищим странником; Господь покидает Ватешвару."
+  persons: ["@tirtharam", "@mahaprabhu"]
+  places: ["#vateshvara"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, sannyasa]
+  event: ev-tirtharam-courtesans
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "658", to: "668"}
+
+- id: gkr-0037
+  source: govinda-karcha
+  ref: "Часть 4, 669–715"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 33
+  title: "Через джунгли в Мунну: Господь просит подаяние для нищей старухи"
+  summary: "Через семь дней Господь уходит из Ватешвары, проходит джунгли в десять крош, где ни один зверь не показывается, и садится под деревом у Мунны; горожане всю ночь пляшут с Ним, женщины плачут о юном исхудалом санньяси; утром, увидев голодную старуху в лохмотьях, Он просит у жителей подаяния — и отдаёт ей всю груду еды и одежды."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, kirtan, pilgrimage]
+  event: ev-munna-old-woman
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "669", to: "715"}
+
+- id: gkr-0038
+  source: govinda-karcha
+  ref: "Часть 4, 716–734"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 34
+  title: "Венката: ведантист Рамананда Свами побеждён и раздаёт Хари-наму ученикам"
+  summary: "За Господом неотступно идёт праведный Рамананда Свами, готовый умереть, если не станет учеником; в Венкате учёный госай настаивает на споре, Господь опровергает адвайта-ваду учением о единстве в различии, санньяси с посохом Рамананда признаёт поражение, получает Хари-наму и даёт её ученикам; три дня Господь раздаёт Имя в каждом доме."
+  persons: ["@mahaprabhu", "@ramananda-svami", "@govinda-karmakara"]
+  places: ["#venkata"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Спутник из Мунны (716) и побеждённый ведантист (726) оба названы Раманандой — возможно, одно лицо. «Двайта-адвайта» (724) — у Говинды общее обозначение учения о единстве и различии; в гаудия-вайшнавской традиции учение Господа — ачинтья-бхедабхеда."
+  themes: [learning, mercy]
+  teaching: [vedanta, holy-name]
+  event: ev-venkata-vedantist
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "716", to: "734"}
+
+- id: gkr-0039
+  source: govinda-karcha
+  ref: "Часть 4, 735–760"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 36
+  title: "Разбойник Пантха Бхил: «Ты — высший садху» — и вся шайка поёт «Хари»"
+  summary: "Не слушая предостережений, Господь идёт в лес Багула к разбойнику Пантха Бхилу и три ночи гостит у него, с иронией восхваляя его «отречение»: нет у него ни жены, ни детей, он не привязан к имуществу; Пантха падает к Его стопам, получает Имя, надевает каупину, и все разбойники, бросив дурные дела, возглашают «Хари»."
+  persons: ["@mahaprabhu", "@pantha-bhil", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Похвала разбойнику — ирония (сноска перевода)."
+  themes: [mercy]
+  teaching: [holy-name]
+  event: ev-pantha-bhil
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "735", to: "760"}
+
+- id: gkr-0040
+  source: govinda-karcha
+  ref: "Часть 4, 761–777"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 36.5
+  title: "Океан бхакти затопляет страну; три ночи поста под деревом"
+  summary: "Исхудалый от поста Господь раздаёт Имя в каждом доме людям непонятного языка; одни становятся санньяси, другие — дервишами и баулами; Господь в забытьи катается по земле, лежит недвижим, три ночи постится под деревом, пока женщина не приносит муки, а старуха — молока."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0056"
+  notes: ""
+  themes: [mercy, ecstasy]
+  teaching: [holy-name]
+  event: ev-south-conversions
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "761", to: "777"}
+
+- id: gkr-0041
+  source: govinda-karcha
+  ref: "Часть 4, 778–829"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 37
+  title: "Гиришвара: листья билвы Шиве; нагой санньяси-молчальник на горе; плоды парата для Говинды"
+  summary: "У линги Гиришвары, поставленной Брахмой, Господь в экстазе подносит Шиве листья с бесплодного дерева билва; на горе Он находит нагого санньяси в медитации, славословием выводит его из самадхи; санньяси угощает плодами парата, Господь делает их прасадом для Говинды и подшучивает над его страхом косточек; падая в экстазе, Он рассекает лоб о камень, и санньяси с плачем признаёт в Нём Бога, а Господь закрывает уши: «Ты — мой Бог»."
+  persons: ["@mahaprabhu", "@shiva", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Господь чтит Шиву и отрешённого санньяси в смирении преданного."
+  themes: [deities, ecstasy, prasada]
+  bhava: [devotee]
+  event: ev-girishvara-mauni
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "778", to: "829"}
+
+- id: gkr-0042
+  source: govinda-karcha
+  ref: "Часть 4, 830–847"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 38
+  title: "Трипади: Божество Рамы; спорщик-рамат Матхура"
+  summary: "В Трипади (Тирупати) Господь падает в пыль перед Божеством Шри Рамы; пандит-рамат Матхура требует спора, Господь признаёт поражение и просит рассказать об истине о Боге, дживе и майе вместо сухой логики, затем в экстазе Имени теряет сознание; раматы пляшут вокруг Него, и Матхура долго бежит следом."
+  persons: ["@mahaprabhu", "@rama"]
+  places: ["#tirupati"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, learning, ecstasy]
+  teaching: [bhakti-supremacy]
+  event: ev-tripadi-ramats
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "830", to: "847"}
+
+- id: gkr-0043
+  source: govinda-karcha
+  ref: "Часть 4, 848–856"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 39
+  title: "Пана-Нрисимха: гирлянда туласи от служителя; шербет для Говинды"
+  summary: "Господь возносит хвалу Нрисимхадеве, которому подносят сахарный шербет; служитель Мадхавендра Бхуянья надевает Ему гирлянду туласи и приносит прасад; Господь со слезами берёт крупицу, а Говинда пьёт шербет досыта."
+  persons: ["@mahaprabhu", "@nrisimha", "@govinda-karmakara"]
+  places: ["#mangalagiri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, prasada]
+  event: ev-pana-nrisimha
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "848", to: "856"}
+
+- id: gkr-0044
+  source: govinda-karcha
+  ref: "Часть 4, 857–863"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 41
+  title: "Вишнуканчи: купец Бхавабхути служит Лакшми-Нараяне"
+  summary: "В Вишнуканчи купец Бхавабхути с женой щедро служат Лакшми-Нараяне, ежедневно готовя паясам для странников; Господь кланяется Божеству и долго возносит хвалу."
+  persons: ["@mahaprabhu", "@lakshmi", "@narayana"]
+  places: ["#vishnu-kanchi"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, pilgrimage]
+  event: ev-vishnu-kanchi
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "857", to: "863"}
+
+- id: gkr-0045
+  source: govinda-karcha
+  ref: "Часть 4, 864–877"
+  file: "govinda-kadacha/ru/04.md"
+  period: P11
+  order: 42
+  title: "Трикалешвара, Пакшитиртха: тигр бежит от клича «Хари»; Варахадева в Калатиртхе"
+  summary: "Господь видит Шиву Трикалешвару, омывается в Пакшитиртхе у реки Бхадры; ночью на путников нападает тигр, и Господь с улыбкой «раскидывает силки Хари-намы» — тигр отступает в лес; в Калатиртхе пуджари дарит Ему гирлянду Варахадевы, и Он плачет; затем идёт к Сандхитиртхе."
+  persons: ["@mahaprabhu", "@varaha", "@shiva", "@govinda-karmakara"]
+  places: ["#pakshitirtha"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, deities]
+  teaching: [holy-name]
+  event: ev-pakshitirtha-tiger
+  verses:
+    - {file: "govinda-kadacha/ru/04.md", from: "864", to: "877"}
+
+- id: gkr-0046
+  source: govinda-karcha
+  ref: "Часть 5, 878–893"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 43
+  title: "Сандхитиртха: Садананда Пури оставляет адвайта-ваду; бхайрави Сиддхешвари и Шригали; Кавери"
+  summary: "У слияния Нанды и Бхадры настоятель тиртхи, учёный Садананда Пури, заводит речь об адвайта-ваде, но Господь одним доводом сламывает его спесь, и тот падает к Его стопам; в Чайпалла-тиртхе Господь видит столетнюю подвижницу-бхайрави Сиддхешвари и бхайрави Шригали, омывается в Кавери и печёт лепёшки из подаяния, собранного Говиндой."
+  persons: ["@mahaprabhu", "@sadananda-puri", "@govinda-karmakara"]
+  places: ["#kaveri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, pilgrimage, mercy]
+  teaching: [bhakti-supremacy]
+  event: ev-sadananda-puri
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "878", to: "893"}
+
+- id: gkr-0047
+  source: govinda-karcha
+  ref: "Часть 5, 894–931"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 43.5
+  title: "Нагар: три дня киртана; злонравный брахман гонит Господа — «Побей Меня, но скажи „Хари“»"
+  summary: "В Нагаре Господь кланяется Раме и Лакшмане и три дня поёт и пляшет, так что люди за десять крош отрекаются от мирского; злонравный брахман с приспешниками объявляет Его притворщиком и гонит прочь; Господь удерживает толпу от расправы, просит брахмана ударить Его, но произнести «Хари», и учит о преходящести тела и семьи; брахман очищается и падает к Его стопам."
+  persons: ["@mahaprabhu", "@rama", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [offense, mercy, teaching]
+  teaching: [holy-name, maya]
+  event: ev-nagar-hostile-brahmana
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "894", to: "931"}
+
+- id: gkr-0048
+  source: govinda-karcha
+  ref: "Часть 5, 932–954"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44
+  title: "Танджор: Радха-Кришна брахмана Дхалешвары, Шива Госамаджа, пещеры Чандалу; смиренный Бхатта"
+  summary: "В Танджоре Господь приходит к Радхе и Кришне брахмана-вайшнава Дхалешвары, где под бакулой живут санньяси, видит Шиву Госамаджу, озеро в Кумбхакарна-капаре и гору Чандалу с пещерами отшельников; брахман Бхатта, обезумевший от имени Кришны, ведёт Его к себе, и Господь восхваляет его, а тот в смирении называет себя червём ада; Господь пляшет в его доме."
+  persons: ["@mahaprabhu", "@radha", "@krishna", "@shiva"]
+  places: ["#tanjore"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Госамаджа-Шива и Кумбхакарна-капала упомянуты и в маршруте ЧЧ (Мадхья 9)."
+  themes: [deities, mercy, ecstasy]
+  teaching: [vaishnava]
+  event: ev-tanjore-dhaleshvara
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "932", to: "954"}
+
+- id: gkr-0049
+  source: govinda-karcha
+  ref: "Часть 5, 955–966"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44.1
+  title: "Лесная обитель санньяси Сурешвары в царстве Джайсингха"
+  summary: "Господь несколько дней проводит у отрёкшегося санньяси Сурешвары и шести его спутников в лесу у родниковой речки, поёт о достоинствах Хари, и Сурешвара пляшет с Ним в водах любви; царь Джайсингх не берёт с санньяси налога, место подобно Вайкунтхе."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [kirtan, pilgrimage, sannyasa]
+  event: ev-tanjore-dhaleshvara
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "955", to: "966"}
+
+- id: gkr-0050
+  source: govinda-karcha
+  ref: "Часть 5, 967–986"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44.2
+  title: "Падмакот: хвала восьмирукой Бхагавати; проповедь о сетях майи; дождь цветов"
+  summary: "В Падмакоте Господь кланяется восьмирукой Бхагавати и учит собравшихся: повторяйте Хари-наму, тело съедят шакалы, все попали в сети майи, душа не умирает — умирает тело; эхо подхватывает клич «Хари», богиня будто колеблется, веет запах лотоса и сыплется дождь цветов."
+  persons: ["@mahaprabhu"]
+  places: ["#padmakot"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Господь чтит богиню как служанку Господа (ср. 1003: «спроси её — и Бхагавати скажет»)."
+  themes: [teaching, deities, kirtan]
+  teaching: [holy-name, maya]
+  event: ev-padmakot-blind-sadhu
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "967", to: "986"}
+
+- id: gkr-0051
+  source: govinda-karcha
+  ref: "Часть 5, 987–1013"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44.25
+  title: "Слепой садху Падмакота: Бхагавати во сне открыла ему Господа; прозрев, он видит Его и оставляет тело"
+  summary: "Слепой садху обхватывает стопы Господа: Бхагавати во сне сказала, что Он — Бхагаван; Господь отказывается, называя себя грешником, а садху — видящим оком знания, но слепой молит показать облик, как Кришна дал зрение Билвамангале; Господь обнимает его, тот прозревает, видит Господа — и тут же оставляет тело; Господь с киртаном обходит тело и погребает его во дворе храма."
+  persons: ["@mahaprabhu"]
+  places: ["#padmakot"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Погребение (самадхи) — по обычаю для святых (сноска перевода)."
+  themes: [mercy, revelation]
+  bhava: [devotee]
+  event: ev-padmakot-blind-sadhu
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "987", to: "1013"}
+
+- id: gkr-0052
+  source: govinda-karcha
+  ref: "Часть 5, 1014–1069"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44.4
+  title: "Трипатра: шиваит Бхаргадева видит Господа тёмным, как Кришна; неделя киртана; «безумный Харибола»"
+  summary: "В Трипатре, у Шивы Чандешвары, глава шиваитов старый Бхаргадева объявляет ученикам, что этот санньяси — воплощение Бога; Господь в смущении отрицает и называет Бхаргу Шанкарой; Бхарга видит Его тёмным юношей, хотя все говорят о золотом цвете, и просит стопу на голову; неделю Господь ведёт санкиртану, многие надевают туласи; уходя, Он отпускает Бхаргу, а дети, дразня «безумного Хариболу», заставляют Его плясать."
+  persons: ["@mahaprabhu", "@bhargadeva-tripatra", "@shiva"]
+  places: ["#tripatra"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Тёмный облик, видимый Бхаргой, — намёк на Кришну, скрытого золотым цветом Радхи (сноска перевода). Слова Господа «ты сам — Шанкара» — смирение преданного."
+  themes: [revelation, kirtan, deities]
+  bhava: [krishna]
+  teaching: [gaura-tattva]
+  event: ev-tripatra-bhargadeva
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "1014", to: "1069"}
+
+- id: gkr-0053
+  source: govinda-karcha
+  ref: "Часть 5, 1070–1076"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 44.6
+  title: "Великий лес в пятьдесят йоджан: ночлег под деревьями, дивные плоды, санньяси-попутчики"
+  summary: "Путники входят в безлюдный лес без конца, ночуют под деревьями, питаются дивными плодами; через три дня присоединяются к группе санньяси и через две недели выходят из леса."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-south-wilderness
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "1070", to: "1076"}
+
+- id: gkr-0054
+  source: govinda-karcha
+  ref: "Часть 5, 1077 — часть 6, 1099"
+  file: "govinda-kadacha/ru/05.md"
+  period: P11
+  order: 45
+  title: "Ранга-дхама: Нрисимха с Прахладой; брахман Юдхиштхира плачет над Гитой"
+  summary: "В Ранга-дхаме (Шрирангаме) Господь в безумии любви перед изваянием Нрисимхи, убивающего демона перед Прахладой; неучёный брахман Юдхиштхира, над которым смеются, плачет, читая Гиту, ибо видит Кришну на колеснице Арджуны; Господь просит его обнять Себя и велит хранить тайну; брахман говорит: «Ты — Кришна» — и бежит за Ним."
+  persons: ["@mahaprabhu", "@nrisimha"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0059; Мурари: mkc-0177"
+  notes: "Сноска перевода: ср. эпизод ЧЧ Мадхья 9 о неграмотном брахмане в Шрирангаме."
+  themes: [teaching, ecstasy, deities]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхагавад-гита"]
+  divergence: "Брахман назван Юдхиштхирой; в Ранга-дхаме упомянуто Божество Нрисимхи, а не Ранганатха; нет чатурмасьи у Бхатт."
+  event: ev-gita-reading-brahmana
+  verses:
+    - {file: "govinda-kadacha/ru/05.md", from: "1077", to: "1097"}
+    - {file: "govinda-kadacha/ru/06.md", from: "1098", to: "1099"}
+
+- id: gkr-0055
+  source: govinda-karcha
+  ref: "Часть 6, 1100–1102"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 60
+  title: "Гора Ришабха: беседы о Кришне с Парамананда Пури"
+  summary: "Отпустив брахмана, Господь идёт на гору Ришабха, где живёт Парамананда Пури, много говорит с ним о Кришне и затем приходит в город Рамнатх."
+  persons: ["@mahaprabhu", "@paramananda-puri"]
+  places: ["#rishabha-parvata"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0223; Мурари: mkc-0179"
+  notes: "Упоминание."
+  themes: [teaching, pilgrimage]
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1100", to: "1102"}
+
+- id: gkr-0056
+  source: govinda-karcha
+  ref: "Часть 6, 1103–1131"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 80
+  title: "Рамнатх и Рамешвара: следы стоп Рамы; «Я проиграл» учёному отшельнику; кровь на подбородке"
+  summary: "В Рамнатхе Господь без чувств падает у следов стоп Рамы, омывается в тиртхе Рамешвара и кланяется Шиве; учёный отшельник хочет спора, Господь признаёт поражение и учит: истинный пандит тот, у кого от Хари-намы тает сердце; затем, опьянённый Именем, падает и рассекает подбородок о камень; три дня проходят в киртане в Сетубандхе."
+  persons: ["@mahaprabhu", "@rama", "@shiva"]
+  places: ["#setubandha"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0225; Мурари: mkc-0181"
+  notes: ""
+  themes: [pilgrimage, learning, kirtan]
+  teaching: [bhakti-supremacy, holy-name]
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1103", to: "1131"}
+
+- id: gkr-0057
+  source: govinda-karcha
+  ref: "Часть 6, 1132–1148"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 81
+  title: "Мадхави-вана: нагой йог-молчальник, услышав санскрит, кланяется Господу"
+  summary: "В Мадхави-ване живёт нагой йог с белой бородой и загнутыми ногтями, вкушающий пищу раз в три дня; на смиренные слова Господа он не отвечает, но, когда Господь заговаривает на санскрите, произносит пару слов, восклицает «Чамбани шиори!» и с улыбкой кланяется Ему, а за ним и все санньяси; через семь дней Господь уходит."
+  persons: ["@mahaprabhu"]
+  places: ["#madhavi-vana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Восклицание йога непонятно (сноска перевода)."
+  themes: [pilgrimage, revelation]
+  event: ev-madhavi-vana-mauni
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1132", to: "1148"}
+
+- id: gkr-0058
+  source: govinda-karcha
+  ref: "Часть 6, 1149–1165"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 82
+  title: "Омовение в Тамрапарни в полнолуние магхи; море у Каньякумари"
+  summary: "Омывшись в Таттвакунди, путники две недели ждут на Тамрапарни полнолуния магхи и омываются вместе с толпами паломников; затем вдоль моря идут к Каньякумари, где волны будто поют хвалу Господу; Господь омывается в волнах, плачет «Хари» и спрашивает Говинду, куда тот пойдёт: «Куда Прабху, туда и слуга»."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: ["#tamraparni", "#kanyakumari"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, festival, ecstasy]
+  calendar: "магха, пурнима"
+  years: [1511, 1511]
+  date_conf: оценка
+  date_basis: "Говинда 1151–1152: омовение в полнолуние магхи; год — по счёту от выхода из Пури (вайшакха 1510), расчёт Д. Ч. Сена (предисл. 1926)"
+  event: ev-tamraparni-kanyakumari
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1149", to: "1165"}
+
+- id: gkr-0059
+  source: govinda-karcha
+  ref: "Часть 6, 1166–1210"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 83
+  title: "Через гору Ситала в Тривинку: Господь в самадхи под деревом; брахмавадину — о любви Радхи"
+  summary: "С группой санньяси Господь идёт к горе Ситала (купец подаёт им молоко и сахар), затем в гостеприимную страну Тривинку царя Рудрапати; под деревом Он сидит недвижим с закрытыми глазами, повторяя Имя, а горожане возносят хвалы и несут плоды; брахмавадину, заговорившему об адвайта-ваде, Он отвечает: совершенство всех садхан — любовь Радхи, исполненной махабхавы; кто плывёт по волнам майявады, тому не открывается бхакти."
+  persons: ["@mahaprabhu", "@radha", "@govinda-karmakara"]
+  places: ["#travancore"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, ecstasy]
+  teaching: [prema, bhakti-supremacy, vedanta]
+  event: ev-rudrapati-travancore
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1166", to: "1210"}
+
+- id: gkr-0060
+  source: govinda-karcha
+  ref: "Часть 6, 1211–1249"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 83.1
+  title: "Царь Рудрапати: Господь не идёт к мирянину — и царь сам приходит в простой одежде и пляшет"
+  summary: "Царь посылает за санньяси, суля богатство; Господь отвечает посланцу, что к мирским людям не ходит и богатство — корень бед; царь Рудрапати не гневается, сам приходит пешком в скромной одежде, просит прощения и наставления; при имени Кришны Господь пускается в пляс и падает, царь поднимает Его и сам, опьянев, пляшет со слезами; Господь обнимает его: «У кого от Хари-намы текут слёзы, тот — зеница Моего ока»."
+  persons: ["@mahaprabhu", "@rudrapati"]
+  places: ["#travancore"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "По сноске перевода, царь Рудрапати Траванкора упомянут и в ЧЧ (Мадхья 9)."
+  themes: [mercy, ecstasy, teaching]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching, holy-name]
+  event: ev-rudrapati-travancore
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1211", to: "1249"}
+
+- id: gkr-0061
+  source: govinda-karcha
+  ref: "Часть 6, 1250–1259"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 83.2
+  title: "Гора Рамагири: место отдыха Рамы, Ситы и Лакшманы после битвы за Ланку"
+  summary: "В горной стране Тривинку Господь поднимается с сотнями людей на гору Рамагири, где, по преданию, Рама, Сита и Лакшмана три дня отдыхали после победы над Ланкой, и кланяется тому месту; страну путники пересекают за две недели."
+  persons: ["@mahaprabhu", "@rama"]
+  places: ["#travancore"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-rudrapati-travancore
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1250", to: "1259"}
+
+- id: gkr-0062
+  source: govinda-karcha
+  ref: "Часть 6, 1260–1270"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 84
+  title: "Пайошни, Шрингери: ученики Шанкары побеждены; Матсья-тиртха, Качад, Читол, Тунгабхадра"
+  summary: "В Пайошни Господь видит Шиву-Нараяну, в матхе Шрингари ученики Шанкары садятся спорить об истине и признают поражение; затем Матсья-тиртха, Бхагавати в Качаде, река Бхадра, Нага-панчапада с преданными Рамы, Читол и омовение в Тунгабхадре."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: ["#shringeri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Страницы 116–117 восполнены по изданию 1926 г. (примечание перевода)."
+  themes: [learning, pilgrimage]
+  teaching: [vedanta]
+  divergence: "По ЧЧ (Мадхья 9) Господь посещает Шрингери, но спора там нет."
+  event: ev-shringeri-debate
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1260", to: "1270"}
+
+- id: gkr-0063
+  source: govinda-karcha
+  ref: "Часть 6, 1271–1329"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 85
+  title: "Исток Кавери и Чандапур: гордый Ишвара Бхарати; Господь обнимает тамалу — йог тянет Его сандалии"
+  summary: "Омывшись у истока Кавери на Котигири и миновав Сатьягири, Господь в Чандапуре встречает учёного санньяси Ишвару Бхарати; тот корит Его за молчание и требует спора о том, что всё есть Брахман; Господь признаёт поражение: «Бхакти приводит к Кришне», — и в слезах обнимает дерево тамала с криком «Кришна!»; йог, потрясённый, просит бхакти, получает прикосновение Господа, хватает Его сандалии, чтобы «связать верёвкой бхакти», и получает имя Кришнадас."
+  persons: ["@mahaprabhu", "@ishvara-bharati", "@govinda-karmakara"]
+  places: ["#kaveri", "#chandapur-kaveri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Господь отклоняет слова «Ты и есть мой Кришна»: «Кришна — владыка Вриндаваны» (1322)."
+  themes: [learning, mercy, ecstasy]
+  bhava: [radha]
+  teaching: [bhakti-supremacy, vedanta]
+  event: ev-ishvara-bharati-chandapur
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1271", to: "1329"}
+
+- id: gkr-0064
+  source: govinda-karcha
+  ref: "Часть 6, 1330 — часть 7, 1341"
+  file: "govinda-kadacha/ru/06.md"
+  period: P11
+  order: 85.5
+  title: "Горная тропа среди кадамб: «Мой Кришна играет под этими деревьями»; тигр у водопоя"
+  summary: "Два дня и две ночи путники идут горами без жилья; увидев кадамбы, Господь плачет: «Мой Кришна играет под этими деревьями»; у воды пьёт тигр, Говинда в страхе, а Господь проходит мимо и успокаивает его: «Силой Хари-намы нет страха перед Ямой»."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, krishna-lila, ecstasy]
+  teaching: [holy-name]
+  event: ev-south-wilderness
+  verses:
+    - {file: "govinda-kadacha/ru/06.md", from: "1330", to: "1339"}
+    - {file: "govinda-kadacha/ru/07.md", from: "1340", to: "1341"}
+
+- id: gkr-0065
+  source: govinda-karcha
+  ref: "Часть 7, 1342–1377"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 86
+  title: "Бедный брахман и его Гопал: «Подноси туласи к стопам Гопала»; песнь «Харе Кришна»"
+  summary: "В бедной горной деревушке брахман, живущий с женой подаянием ради служения Гопалу, сам идёт просить, чтобы не отпустить гостя ни с чем; когда Господь приходит, жена видит молнии на Его теле и велит подать туласи к Его стопам; Господь отводит туласи к стопам Гопала, называет жену брахмана самой Камалой, и до утра поёт с деревенскими маха-мантру «Харе Кришна…»."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Маха-мантра дана в порядке «Харе Кришна… Харе Рама…» (сноска перевода)."
+  themes: [deities, kirtan, mercy]
+  bhava: [devotee]
+  teaching: [holy-name]
+  event: ev-poor-brahmana-gopala
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1342", to: "1377"}
+
+- id: gkr-0066
+  source: govinda-karcha
+  ref: "Часть 7, 1378–1392"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 86.2
+  title: "Нилагири у страны Кандар: ночь в Хари-наме у подножия горы"
+  summary: "Путники бродят у подножия Нилагири среди пещер, родников, павлинов и светлячков; у речки Господь совершает вечернюю молитву и проводит ночь в Хари-наме; по Его милости Говинда не чувствует ни голода, ни жажды."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-south-wilderness
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1378", to: "1392"}
+
+- id: gkr-0067
+  source: govinda-karcha
+  ref: "Часть 7, 1393–1441"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 86.5
+  title: "Гурджари: экстаз у Агастья-кунды; пандиту Арджуне — о дживе, Атме и майе («Две птицы»)"
+  summary: "У Агастья-кунды Господь в разлуке с Кришной зовёт Мукунду-Мурари и Нарахари; пандит Арджуна утверждает, что джива и Атма одно, а Господь по шрути «Две птицы» разъясняет: Атма — великое дерево, джива — его лист; майя — тень Господа, Он к ней не причастен; за завесой майи есть Некто; затем Он зовёт «Рама, Рама», махараштрийцы, вайшнавы, шиваиты и санньяси слушают Имя, и Он падает без чувств."
+  persons: ["@mahaprabhu", "@narahari-sarakara"]
+  places: []
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, learning, ecstasy]
+  teaching: [vedanta, maya, holy-name]
+  scriptures: ["Мундака-упанишада 3.1.1 («Две птицы»)"]
+  event: ev-arjuna-pandit-gurjari
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1393", to: "1441"}
+
+- id: gkr-0068
+  source: govinda-karcha
+  ref: "Часть 7, 1442–1455"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 86.7
+  title: "Гора у Биджапура и Сахья-кулачала: семь дней молчания по пути на север"
+  summary: "Семь дней Господь ни с кем не говорит, поднимается на гору у Биджапура к Харе и Гаури, затем, увидев Сахья-кулачалу, замирает в блаженстве — «обитель блаженства» — и идёт на север в каупине, весь в пыли, словно безумец."
+  persons: ["@mahaprabhu", "@shiva", "@parvati", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-south-wilderness
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1442", to: "1455"}
+
+- id: gkr-0069
+  source: govinda-karcha
+  ref: "Часть 7, 1456–1513"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 87
+  title: "Пуна: «Твой Кришна в пруду» — Господь бросается в воду; проповедь пандитам"
+  summary: "В Пуне, городе пандитов, где пандитом считают знатока «Бхагаваты», Господь под бакулой у водоёма Аччхапара плачет о Кришне, «в порах кожи которого — мириады вселенных»; насмешник говорит: «Твой Кришна в пруду» — и Господь в экстазе бросается в воду; Его вытаскивают, пандиты бранят насмешника, а Господь заступается: Кришна — повсюду, но видит Его лишь преданный; бхакти выше освобождения, Хари-нама разрубает путы майи."
+  persons: ["@mahaprabhu"]
+  places: ["#pune"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Слова «между мужчиной и женщиной нет различия — различие лишь в коже» (1490) — о единой духовной природе душ."
+  themes: [ecstasy, separation, teaching]
+  teaching: [bhakti-supremacy, holy-name, maya]
+  event: ev-pune-krishna-in-pond
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1456", to: "1513"}
+
+- id: gkr-0070
+  source: govinda-karcha
+  ref: "Часть 7, 1514–1528"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 87.4
+  title: "Бхолешвара и Девалешвара: Господь в экстазе перед Шивой"
+  summary: "По указанию учёного брахмана Тунну Господь возвращается горными дорогами к Бхолешваре у деревни Патас, омывается из Сиддха-купы, возносит хвалы Шиве и катается без чувств; затем кланяется Девалешваре на горе."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, pilgrimage, ecstasy]
+  event: ev-khandoba-murari
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1514", to: "1528"}
+
+- id: gkr-0071
+  source: govinda-karcha
+  ref: "Часть 7, 1529 — часть 8, 1564"
+  file: "govinda-kadacha/ru/07.md"
+  period: P11
+  order: 87.5
+  title: "Джеджури: «жёны Кхандобы» (мурари) получают Имя; Индира Баи уходит из дома"
+  summary: "В Джеджури бедных девушек отдают Кхандобе, и многие из этих «мурари» становятся нищенками и блудницами; несмотря на уговоры Говинды, Господь из сострадания идёт в их поселение, даёт им Хари-наму и учит считать мужем Хари, как гопи, совершавшие обет Катьяяни, но не позволяет прикасаться к Себе; Индира Баи молит о прахе Его стоп, получает Имя и оставляет дом, а жёны Кхандобы опьяняются Именем."
+  persons: ["@mahaprabhu", "@indira-bai", "@govinda-karmakara"]
+  places: ["#jejuri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Один из самых известных эпизодов «Кадачи» (сноска перевода); Господь строго соблюдает обет санньяси («не прикасайтесь ко Мне»)."
+  themes: [mercy, teaching]
+  bhava: [sannyasi]
+  teaching: [holy-name, prema]
+  scriptures: ["Бхаг. 10.22 (обет Катьяяни)"]
+  event: ev-khandoba-murari
+  verses:
+    - {file: "govinda-kadacha/ru/07.md", from: "1529", to: "1559"}
+    - {file: "govinda-kadacha/ru/08.md", from: "1560", to: "1564"}
+
+- id: gkr-0072
+  source: govinda-karcha
+  ref: "Часть 8, 1565–1625"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88
+  title: "Лес Чорананди: главарь разбойников Народжи бросает оружие и идёт за Господом"
+  summary: "Вопреки уговорам селян и Рамы Свами Господь идёт в разбойничий лес Чорананди; разбойники приносят груды еды, но Господь в экстазе разбрасывает её ногами; шестидесятилетний главарь Народжи, сын брахмана, плачет, бросает оружие и доспехи, и Господь учит его жить подаянием и повторять Хари-наму; Народжи надевает каупину и идёт с Господом показывать тиртхи."
+  persons: ["@mahaprabhu", "@naroji", "@govinda-karmakara"]
+  places: ["#chorananda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Господь понимает и говорит на местном языке («кхаи-маи», 1578). Двустишие 1586 предисловие 1926 г. приводит в споре о том, ел ли Господь рис."
+  themes: [mercy, teaching]
+  teaching: [holy-name, maya]
+  event: ev-naroji-chorananda
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1565", to: "1625"}
+
+- id: gkr-0073
+  source: govinda-karcha
+  ref: "Часть 8, 1626–1655"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.1
+  title: "Кхандала: жители спорят за право принять Господа; богачу — «отдай бедным»"
+  summary: "У быстрой реки Мула в Кхандале жители так наперебой тянут Господа к себе, что едва не доходит до драки; богачу, предлагающему ткань и деньги, Он отвечает, что с богатством растёт гордыня, и советует отдать еду бедным; затем учит повторять Хари и пляшет в забытьи, а Народжи всю ночь утирает Ему пот."
+  persons: ["@mahaprabhu", "@naroji", "@govinda-karmakara"]
+  places: []
+  kind: teaching
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0056"
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [sannyasa-teaching, holy-name]
+  event: ev-south-conversions
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1626", to: "1655"}
+
+- id: gkr-0074
+  source: govinda-karcha
+  ref: "Часть 8, 1656–1680"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 40
+  title: "Насик и Панчавати: «Где Мой Рама?» у следов стоп Рамы; Господь в медитации в пещере"
+  summary: "В Насике, где Лакшмана наказал Шурпанакху, у места хижины Рамы близ Трьямбака Господь находит в лесу следы стоп Рамы на камне и, обхватив Говинду за шею, плачет: «Где Мой Рама?»; в Панчавати видит Ганешу, поставленного Лакшманой, и Говинда тайком видит Его в пещере в медитации, окружённого снопами сияния; заметив его, Господь сдерживает Свои чувства."
+  persons: ["@mahaprabhu", "@rama", "@ganesha", "@naroji", "@govinda-karmakara"]
+  places: ["#nasik", "#panchavati"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0221; Мурари: mkc-0176"
+  notes: ""
+  themes: [ecstasy, pilgrimage, revelation]
+  bhava: [devotee]
+  event: ev-panchavati-rama-bhava
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1656", to: "1680"}
+
+- id: gkr-0075
+  source: govinda-karcha
+  ref: "Часть 8, 1681–1717"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.3
+  title: "Аштабхуджа: зовите Кришну, как героиня героя; брахман отпускает жертвенного козла"
+  summary: "Через Даман Господь приходит в «царство Суратхи» к восьмирукой Бхагавати; санньяси при храме Он советует звать Кришну с чувством, с каким героиня смотрит на героя; брахману, пришедшему заколоть козла, Он говорит: богиня — высшая вайшнави и не ест мяса, ненасилие — высшая дхарма, жертвы предписали мясоеды-ракшасы; брахман отпускает козла и чтит богиню цветами и билвой, а Господь возносит хвалу Бхавани."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "«Рагатмика» (1692) — спонтанная любовь, как у гопи, а не мирская страсть (сноска перевода о термине)."
+  themes: [teaching, deities]
+  teaching: [purity, scripture, prema]
+  event: ev-ashtabhuja-animal-sacrifice
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1681", to: "1717"}
+
+- id: gkr-0076
+  source: govinda-karcha
+  ref: "Часть 8, 1718–1726"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.35
+  title: "Тапти и Вамана; жертвенная яма Бали в Бхароче на Нармаде"
+  summary: "Трижды в день омываясь в Тапти, Господь кланяется изваянию Ваманы, поставленному царём Бали, а затем на берегу Нармады в Бхароче в блаженстве смотрит на огромную яму, где Бали совершал жертвоприношение."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, deities]
+  event: ev-ashtabhuja-animal-sacrifice
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1718", to: "1726"}
+
+- id: gkr-0077
+  source: govinda-karcha
+  ref: "Часть 8, 1727–1737"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.4
+  title: "Барода: Дакорджи под тамалой; царь Бароды, подобный Амбарише, служит Говинде"
+  summary: "Омывшись в Нармаде, Господь идёт в Бароду, видит Тхакура Дакорджи и возвращается; благочестивый царь Бароды сам подметает храм Говинды и собирает туласи; вечером Господь в рваной одежде катается в пыли перед Говиндой."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#baroda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Дакорджи — Ранчходрай в Дакоре (сноска перевода)."
+  themes: [deities, ecstasy]
+  event: ev-baroda-naroji-death
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1727", to: "1737"}
+
+- id: gkr-0078
+  source: govinda-karcha
+  ref: "Часть 8, 1738–1751"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.45
+  title: "Кончина Народжи: Господь даёт ему в уши имя Кришны и погребает его; подаяние царя"
+  summary: "Через три дня Народжи умирает от лихорадки: Господь гладит его рукой и даёт ему в уши имя Кришны, Народжи умирает, произнося «Хари»; Господь переносит тело и с киртаном обходит могилу; царь приходит с толпой и молит принять подаяние, и по знаку Господа Говинда просит у царя лишь горсть."
+  persons: ["@mahaprabhu", "@naroji", "@govinda-karmakara"]
+  places: ["#baroda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [departure, mercy, kirtan]
+  bhava: [sannyasi]
+  event: ev-baroda-naroji-death
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1738", to: "1751"}
+
+- id: gkr-0079
+  source: govinda-karcha
+  ref: "Часть 8, 1752–1770, 1775 — часть 9, 1790"
+  file: "govinda-kadacha/ru/08.md"
+  period: P11
+  order: 88.48
+  title: "Ахмадабад: сад Нандани, пандит читает «Бхагавату»; не тот пандит, кто горд учёностью"
+  summary: "Переправившись через Маханади (Махи), Господь приходит в Ахмадабад и ночует в саду Нандани, отказываясь идти в дома; пандит читает шлоки «Бхагаваты» и велит всем служить санньяси как божеству; Господь раздаёт Имя и учит: не тот пандит, кто горд учёностью; опьянённый любовью к Кришне не желает освобождения; махамайя завязала узел сознания и материи; кто не знает смысла веданты, считает дживу и Брахман одним."
+  persons: ["@mahaprabhu"]
+  places: ["#ahmadabad"]
+  kind: teaching
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0056"
+  notes: ""
+  themes: [teaching, kirtan]
+  teaching: [bhakti-supremacy, vedanta, vaishnava]
+  event: ev-south-conversions
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1752", to: "1770"}
+    - {file: "govinda-kadacha/ru/08.md", from: "1775", to: "1779"}
+    - {file: "govinda-kadacha/ru/09.md", from: "1780", to: "1790"}
+
+- id: gkr-0080
+  source: govinda-karcha
+  ref: "Часть 8, 1771–1774"
+  file: "govinda-kadacha/ru/08.md"
+  period: PX
+  order: 2
+  title: "Как Говинда вёл записи: по жестам, расспросам и тайно"
+  summary: "Говинда не понимает здешней речи и записывает по жестам и намёкам, иногда расспрашивая Господа, понимающего все наречия; увиденную лилу он записывает в карчу совсем тайно."
+  persons: ["@govinda-karmakara", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Ещё одно свидетельство автора о том, как велись записи (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "govinda-kadacha/ru/08.md", from: "1771", to: "1774"}
+
+- id: gkr-0081
+  source: govinda-karcha
+  ref: "Часть 9, 1791–1805"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.5
+  title: "За Шубхрамати (Сабармати): бенгальцы Рамананда и Говинда Чаран идут с Господом в Двараку"
+  summary: "Переправившись через Шубхрамати, путники встречают паломников в Двараку, среди них — двух бенгальцев, Рамананду из Кулина-грамы и Говинду Чарана; услышав имя Чайтаньи, Рамананда просиял и поклонился, а Господь, вспомнив Гауду, зовёт их вместе идти к Владыке Двараки."
+  persons: ["@mahaprabhu", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#kulinagrama"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Кулина-грам — родина Рамананды Васу (сноска перевода); отождествление спутника с Раманандой Васу не утверждается."
+  themes: [pilgrimage]
+  event: ev-ramananda-govinda-charana-join
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1791", to: "1805"}
+
+- id: gkr-0082
+  source: govinda-karcha
+  ref: "Часть 9, 1806–1852"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.55
+  title: "Гогха: «мите» Говинды и Рамананды; безумие любви у дерева ним; Хари-нама насмешнику"
+  summary: "В Гогхе, у сада Пияр-канан, Господь подносит бхогу и в шутку называет Рамананду Своим «мите» (побратимом); в небывалом экстазе зовёт: «Говинда, где Кришна? Приведи Его!», обнимает дерево ним, скатывается в яму; злодей обвиняет Его в обмане, селяне хотят его бить, но Господь велит напоить его нектаром Имени и сам вливает ему в уши Хари-наму."
+  persons: ["@mahaprabhu", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#gogha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [ecstasy, separation, mercy]
+  bhava: [radha]
+  teaching: [holy-name]
+  event: ev-gogha-barmukhi
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1806", to: "1852"}
+
+- id: gkr-0083
+  source: govinda-karcha
+  ref: "Часть 9, 1853–1889"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.6
+  title: "Блудница Бармукхи отдаёт богатство служанке, отрезает волосы и поселяется в роще туласи"
+  summary: "Видя из окна милосердие санньяси, богатая блудница Бармукхи корит себя, спускается, отдаёт всё богатство служанке Мире, отрезает длинные волосы, надевает простую одежду и молит о спасении; Господь велит ей устроить рощу туласи и совершать садхану; когда она падает к Его стопам, Он отступает; Бармукхи наставляет Миру любить одного Кришну и берёт чётки."
+  persons: ["@mahaprabhu", "@barmukhi"]
+  places: ["#gogha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Господь, санньяси, отступает от падающей к Его стопам женщины (1878) — строгость обета."
+  themes: [mercy, teaching]
+  bhava: [sannyasi]
+  teaching: [holy-name, prema]
+  event: ev-gogha-barmukhi
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1853", to: "1889"}
+
+- id: gkr-0084
+  source: govinda-karcha
+  ref: "Часть 9, 1890–1931"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.7
+  title: "Разрушенный Сомнатх: плач Господа о святыне; таинственный авадхута; омовение в пруду"
+  summary: "Через бедный, но гостеприимный Джафарабад путники за шесть дней доходят до Сомнатха; видя развалины храма, разграбленного яванами, Господь рыдает и взывает к Шиве: «Куда Ты скрылся?»; в бурю является нагой авадхута в пепле, благословляет Его и исчезает; Господь трижды обходит Сомнатх с киртаном, Говинда Чаран даёт панде две монеты, и Господь возливает на голову воду священного пруда."
+  persons: ["@mahaprabhu", "@shiva", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#somnatha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Сомнатх разрушали Махмуд Газневи (1025) и позднее (сноска перевода). Господь оплакивает святыню как преданный, чтущий Шиву."
+  themes: [deities, separation, muslims]
+  bhava: [devotee]
+  event: ev-somnatha-ruins
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1890", to: "1931"}
+
+- id: gkr-0085
+  source: govinda-karcha
+  ref: "Часть 9, 1932–1961"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.8
+  title: "Джунагадх: Ранчходджи брахмана Мираджи; больной санньяси Бхаргадева исцелён соком нима"
+  summary: "В Джунагадхе Господь ночует у служителя Ранчходджи брахмана Мираджи; у подножия Гирнара Он находит больного главу санньяси Бхаргадеву и велит Говинде, Рамананде и Говинде Чарану напоить его соком нима; исцелённый Бхарга видит Его тёмным, как Кришна, с «золотой куклой» в сердце, получает силу бхакти и идёт с Господом на Гирнар."
+  persons: ["@mahaprabhu", "@bhargadeva-sannyasi", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#girnar"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Ср. сходный эпизод с другим Бхаргой в части 5 (сноска перевода); «золотая кукла» — Радха, скрывающая тёмного Кришну."
+  themes: [mercy, revelation]
+  bhava: [krishna]
+  teaching: [gaura-tattva]
+  event: ev-girnar-footprints
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1932", to: "1961"}
+
+- id: gkr-0086
+  source: govinda-karcha
+  ref: "Часть 9, 1962–1996"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.85
+  title: "Вершина Гирнара: стопы Даттатреи; рассказ панды о следах, оставленных Кришной перед уходом"
+  summary: "На вершине Гирнара Господь кланяется стопам на камне со знаками знамени, ваджры и анкуши; панда рассказывает: после гибели Ядавов Кришна пришёл сюда к Баладеве и сказал, что уходит на Голоку, а по просьбе Баладевы ради Пандавов, Драупади, Видуры и Уддхавы оставил здесь следы стоп; Господь кладёт голову на следы и обходит их в любви, Рамананда теряет сознание."
+  persons: ["@mahaprabhu", "@krishna", "@balarama", "@uddhava", "@ramananda-kulina", "@govinda-charana"]
+  places: ["#girnar"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Рассказ панды — местное предание о стопах."
+  themes: [krishna-lila, pilgrimage, ecstasy]
+  event: ev-girnar-footprints
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1962", to: "1996"}
+
+- id: gkr-0087
+  source: govinda-karcha
+  ref: "Часть 9, 1997 — часть 10, 2045"
+  file: "govinda-kadacha/ru/09.md"
+  period: P11
+  order: 88.87
+  title: "Заросли Дханвидхара: семь дней пути; плоды, утоляющие голод и жажду; ночлеги у костра"
+  summary: "Переночевав у реки Бхадра, шестнадцать путников с санньяси Бхарги семь дней идут через джунгли Дханвидхара со львами и тиграми; Господь успокаивает Говинду: «Хари-нама избавляет от страха перед Ямой»; дивные плоды, похожие на карамболу, утоляют голод и жажду; на царских стоянках санньяси жгут костёр, а Господь поёт «Харе Кришна» и рыдает."
+  persons: ["@mahaprabhu", "@bhargadeva-sannyasi", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, kirtan]
+  teaching: [holy-name]
+  event: ev-south-wilderness
+  verses:
+    - {file: "govinda-kadacha/ru/09.md", from: "1997", to: "1999"}
+    - {file: "govinda-kadacha/ru/10.md", from: "2000", to: "2045"}
+
+- id: gkr-0088
+  source: govinda-karcha
+  ref: "Часть 10, 2046–2074"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 88.9
+  title: "Прабхаса: плач на месте гибели Ядавов и у сада Сатьябхамы; имя Хари от двери к двери"
+  summary: "В Прабхасе (Амарапури, Гопитала) Господь долго плачет там, где Ядавы, опьянев, перебили друг друга, видит жертвенную яму и место сада Сатьябхамы и рыдает; Он ходит от двери к двери, призывая принять даром бесценное сокровище Хари-намы; три дня проходят в беседах."
+  persons: ["@mahaprabhu", "@krishna", "@satyabhama"]
+  places: ["#prabhasa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [krishna-lila, separation, kirtan]
+  teaching: [holy-name]
+  event: ev-prabhasa
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2046", to: "2074"}
+
+- id: gkr-0089
+  source: govinda-karcha
+  ref: "Часть 10, 2075–2100"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 89
+  title: "Путь в Двараку первого ашвины; Райватака; Господь перед Владыкой Двараки"
+  summary: "Первого ашвины путники идут вдоль моря в Двараку, на четвёртый день переправляются по канату через залив и видят гору Райватака; Господь велит всем умастить тело пылью Двараки; войдя в город и в храм Владыки Двараки, Он плачет «Где Ты, Владыка Двараки?», катается в пыли, смотрит внутрь сердца и трижды обходит храм, кланяясь всеми восемью частями тела."
+  persons: ["@mahaprabhu", "@krishna", "@bhargadeva-sannyasi", "@govinda-karmakara"]
+  places: ["#dvaraka"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, ecstasy, krishna-lila]
+  calendar: "ашвина, 1-й день (выход в Двараку)"
+  years: [1511, 1511]
+  date_conf: оценка
+  date_basis: "Говинда 2075: первого ашвины; год — по счёту от выхода из Пури в вайшакху 1510 (расчёт Д. Ч. Сена, предисл. 1926)"
+  divergence: "Посещение Двараки и Гуджарата известно только «Кадаче»."
+  event: ev-dvaraka-visit
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2075", to: "2100"}
+
+- id: gkr-0090
+  source: govinda-karcha
+  ref: "Часть 10, 2101–2140"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 89.1
+  title: "Две недели в Двараке: молва о санньяси; наставления на разных наречиях; праздник пандов"
+  summary: "По Двараке идёт молва о небывалом санньяси, при виде которого пропадает вкус к мирскому; две недели Господь ежедневно ходит к Владыке Двараки, беседует с жителями и пандами на их наречиях, видит всё исполненным Кришной; на празднике пандов Он Сам раздаёт прасад."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#dvaraka"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, kirtan, prasada]
+  teaching: [holy-name]
+  event: ev-dvaraka-visit
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2101", to: "2140"}
+
+- id: gkr-0091
+  source: govinda-karcha
+  ref: "Часть 10, 2141–2161"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 89.2
+  title: "«Без Рамы Рая не пойду в Пури»: из Двараки обратно в Бароду в последний день ашвины"
+  summary: "Господь объявляет: идём в Нилачалу через Видьянагар — Он не пойдёт в Пури без Рамананды Рая, который Ему дороже жизни, — и прославляет Рая; отпустив жителей Двараки, Он переправляется через залив с группой Бхарги и в последний день ашвины возвращается в Бароду."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@bhargadeva-sannyasi", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#dvaraka", "#baroda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, separation]
+  teaching: [vaishnava]
+  calendar: "ашвина, последний день (возвращение в Бароду)"
+  event: ev-return-journey-central-india
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2141", to: "2161"}
+
+- id: gkr-0092
+  source: govinda-karcha
+  ref: "Часть 10, 2162–2187"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 89.25
+  title: "На Нармаде: прощание с Бхаргадевой («Ты — Кришна»); Дохад"
+  summary: "Через шестнадцать дней путники приходят к Нармаде; Бхаргадева уходит на юг к Ранчходджи в «Бом-бом» и, обхватив стопы, говорит: «Ты — Кришна, Ты пошёл в Двараку увидеть Свои игры»; Господь отрицает и учит думать о стопах Хари, касается Бхарги и отпускает его санньяси; Господь, Говинда, Рамананда и Говинда Чаран идут вдоль Нармады в Дохад."
+  persons: ["@mahaprabhu", "@bhargadeva-sannyasi", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "«Бом-бом нагар» — по-видимому, Бомбей (сноска перевода)."
+  themes: [revelation, separation]
+  bhava: [devotee]
+  event: ev-return-journey-central-india
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2162", to: "2187"}
+
+- id: gkr-0093
+  source: govinda-karcha
+  ref: "Часть 10, 2188 — часть 11, 2233"
+  file: "govinda-kadacha/ru/10.md"
+  period: P11
+  order: 89.3
+  title: "Кукши: бедный брахман и Лакшми-Джанардана; купцу во сне велено принести молоко для паясама"
+  summary: "В Кукши, полном вайшнавов и рощ туласи, бедный брахман, служащий Лакшми-Джанардане, тревожится, чем накормить санньяси; Господь говорит, что питает всех Кришна, — и тут купец приносит молоко, сахар и муку: Джанардана во сне попросил у него паясам для гостя-«Нараяны»; купец, глядя на Господа, теряет сознание; Господь Сам варит паясам и раздаёт прасад; наутро купец догоняет Его, получает Имя, оставляет мирское и живёт в роще туласи, медитируя на Кришну с флейтой."
+  persons: ["@mahaprabhu", "@lakshmi", "@narayana", "@govinda-karmakara"]
+  places: ["#kukshi"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Строки 2207–2209 в издании сильно повреждены (сноска перевода)."
+  themes: [deities, revelation, prasada]
+  event: ev-kukshi-vaishya-dream
+  verses:
+    - {file: "govinda-kadacha/ru/10.md", from: "2188", to: "2220"}
+    - {file: "govinda-kadacha/ru/11.md", from: "2221", to: "2233"}
+
+- id: gkr-0094
+  source: govinda-karcha
+  ref: "Часть 11, 2234–2263"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.35
+  title: "Амджхора: Господь отдаёт Свою долю голодной матери; пруд Лакшманы; отшельник в Манду"
+  summary: "После двух дней в джунглях путники голодают в Амджхоре; Господь печёт шестнадцать лепёшек и отдаёт Свою долю нищей женщине с ребёнком, сам оставаясь без еды; омывается в пруду, вырытом стрелой Лакшманы для Джанаки; в Мандуре (Манду) на Виндхье встречает золотистого нагого отшельника, который улыбается, встретив Его взгляд; вдоль Нармады за три дня доходят до Девгхара."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, pilgrimage]
+  event: ev-return-journey-central-india
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2234", to: "2263"}
+
+- id: gkr-0095
+  source: govinda-karcha
+  ref: "Часть 11, 2264–2289"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.5
+  title: "Девгхар: прокажённый купец Ади Нараяна исцелён прасадом и поселяется в роще туласи"
+  summary: "Под баньяном у Девгхара Господь совершает пуджу и пляшет с Именем; богатый прокажённый купец Ади Нараяна с плачем просит спасения, вкушает прасад и исцеляется; к Господу стекаются больные, и Он уходит; Ади Нараяна хочет идти за Ним, но Господь велит ему устроить рощу туласи и памятовать о Кришне."
+  persons: ["@mahaprabhu", "@adi-narayana", "@ramananda-kulina", "@govinda-charana", "@govinda-karmakara"]
+  places: ["#devghar"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, prasada]
+  teaching: [prasada-teaching]
+  event: ev-devghar-leper
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2264", to: "2289"}
+
+- id: gkr-0096
+  source: govinda-karcha
+  ref: "Часть 11, 2290–2295"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.55
+  title: "Шивана, гора Махал, Чанди в Чандапуре, Райпур"
+  summary: "Господь проходит Шивану и гору Махал, видит богиню Чанди в Чандапуре и в Райпуре радостно раздаёт Хари-наму в каждом доме."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, kirtan]
+  event: ev-return-journey-central-india
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2290", to: "2295"}
+
+- id: gkr-0097
+  source: govinda-karcha
+  ref: "Часть 11, 2296–2303"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.6
+  title: "Видьянагар: Рамананда Рай встречает Господа и обещает прийти в Нилачалу"
+  summary: "В Видьянагаре Рамананда Рай встречает Господа со сложенными ладонями и плачет в смирении; Господь зовёт его в Нилачалу, чтобы вместе с Бхаттой наслаждаться Хари-намой; Рай обещает прийти через несколько дней."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#vidyanagara"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0182, mkc-0183; Адвайта-пракаша: apr-0091; Карнапура (ЧЧд): ccd-0060, ccd-0061; Лочан: lcm-0226"
+  notes: ""
+  themes: [pilgrimage, separation]
+  divergence: "Господь возвращается к Рамананде с севера, через Центральную Индию, а не по южному пути."
+  event: ev-return-from-south
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2296", to: "2303"}
+
+- id: gkr-0098
+  source: govinda-karcha
+  ref: "Часть 11, 2304–2325"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.65
+  title: "Ратнапур, Сварнагарх и царь Шантишвара, Самбалпур, Бхрамара (Вишну Рудра), Дасапалла"
+  summary: "Вчетвером путники за шесть дней приходят в Ратнапур, идут вдоль Маханади; в крепости Сварнагарх праведный царь Шантишвара просит Господа освятить его дом, и Говинда по знаку Господа берёт у него подаяние; затем Самбалпур, Бхрамара, где Господь четыре дня гостит у ория-брахмана Вишну Рудры, Пратапнагари и Дасапалла, где Он опьяняет Именем безбожников и майявади."
+  persons: ["@mahaprabhu", "@govinda-karmakara"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, mercy]
+  teaching: [holy-name]
+  event: ev-return-journey-central-india
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2304", to: "2325"}
+
+- id: gkr-0099
+  source: govinda-karcha
+  ref: "Часть 11, 2326–2369"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 89.7
+  title: "Расалкунда: Курмадева; марварский брахман с палкой — «скажи „Хари“ и ударь Меня»"
+  summary: "В Расалкунде Господь в любви видит Божество Курмы и три дня даёт Имя жителям; сын марварского брахмана просит бхакти себе и отцу, ненавидящему Кришну; разгневанный брахман с палкой бросается на Господа, а Тот подставляет спину: «Сколько раз скажешь „Хари“, столько раз ударь»; брахман, дрожа, падает к стопам, просит прощения и получает Хари-наму; роду сына Господь обещает Вайкунтху."
+  persons: ["@mahaprabhu"]
+  places: ["#rasalkunda", "#kurma-kshetra"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Расалкунда — Расселконда; рядом Курмакшетра (сноска перевода)."
+  themes: [mercy, offense, deities]
+  teaching: [holy-name]
+  event: ev-marwari-brahmana-son
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2326", to: "2369"}
+
+- id: gkr-0100
+  source: govinda-karcha
+  ref: "Часть 11, 2370–2402"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 90
+  title: "Ришикулья и Алаланатха: преданные Пури выходят навстречу с литаврами и знамёнами"
+  summary: "Господь три ночи живёт у риши на реке Ришикулья, весть доходит до Пури; у Алаланатхи к Нему бегут Гададхара, Мурари, хромой Кханджан Ачарья, Сарвабхаума с литаврами, Нарахари со знаменем, Харидас, Рамадас, Кришнадас, санньяси и брахманы; Господь обнимает Мурари и Мукунду, Сиддху Кришнадаса, Кханджана; Сарвабхаума катается у Его стоп, говоря о стреле разлуки; Господь ласково расспрашивает Рагхунатху Даса."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@murari-gupta", "@mukunda-datta", "@sarvabhauma", "@narahari-sarakara", "@haridasa-thakura", "@raghunatha-dasa", "@govinda-karmakara"]
+  places: ["#alalanatha"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0182, mkc-0183; Адвайта-пракаша: apr-0091; Карнапура (ЧЧд): ccd-0060, ccd-0061; Лочан: lcm-0226"
+  notes: "Кханджан Ачарья — по-видимому, Кханджа Бхагаван Ачарья (сноска перевода); «Харидас» без уточнения."
+  themes: [kirtan, separation, pilgrimage]
+  divergence: "Навстречу выходят преданные Бенгалии (Мурари, Нарахари, Рагхунатха Дас и др.), которых по ЧЧ в Пури тогда ещё не было."
+  event: ev-return-from-south
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2370", to: "2402"}
+
+- id: gkr-0101
+  source: govinda-karcha
+  ref: "Часть 11, 2403–2426"
+  file: "govinda-kadacha/ru/11.md"
+  period: P11
+  order: 90.5
+  title: "Возвращение в Пури третьего магхи: даршан Джаганнатхи; Сарвабхаума: «Ты — сын царя Враджа»"
+  summary: "Третьего магхи Господь со спутниками приходит в Пури и, не омыв ног, идёт к Джаганнатхе, падает без чувств; Сарвабхаума поднимает Его и говорит: «Увидев Свой облик, Ты плачешь ради наставления людей; Ты — Кришна, сын царя Враджа, Тебя скрывает золотая кукла»; Господь закрывает уши и просит говорить о Кришне."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0182, mkc-0183; Адвайта-пракаша: apr-0091; Карнапура (ЧЧд): ccd-0060, ccd-0061; Лочан: lcm-0226"
+  notes: "Слова Сарвабхаумы об «изваянии», «неподвижном Вишну» (2413–2414) — игра слов «ачала/чала»; в гаудия-вайшнавском понимании Джаганнатха — Сам Господь, неотличный от Своего облика, а не изображение."
+  themes: [jagannatha, revelation, ecstasy]
+  bhava: [krishna, devotee]
+  teaching: [gaura-tattva]
+  calendar: "магха, 3-й день"
+  years: [1512, 1512]
+  date_conf: оценка
+  date_basis: "Говинда 2403: прибыл в Пури 3 магхи; Д. Ч. Сен (предисл. 1926): «3 магха 1511 г.», странствие — 1 г. 8 мес. 26 дн. от 7 вайшакхи 1510 г. (т. е. январь 1512 г. н. э.)"
+  event: ev-return-from-south
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2403", to: "2426"}
+
+- id: gkr-0102
+  source: govinda-karcha
+  ref: "Часть 11, 2427–2437"
+  file: "govinda-kadacha/ru/11.md"
+  period: P12
+  order: 2
+  title: "Снова в доме Каши Мишры: Сарвабхаума ежедневно приносит прасад"
+  summary: "После арати Господь со спутниками идёт в дом Каши Мишры с огромным двором, куда стекаются люди и жители Гауды; Сарвабхаума каждый день приносит прасад, перед прасадом поют нама-санкиртану, и Господь Сам раздаёт прасад."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@sarvabhauma"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0062"
+  notes: ""
+  themes: [prasada, kirtan]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2427", to: "2437"}
+
+- id: gkr-0103
+  source: govinda-karcha
+  ref: "Часть 11, 2438 — часть 12, 2453"
+  file: "govinda-kadacha/ru/11.md"
+  period: P12
+  order: 5
+  title: "Рамананда и Говинда Чаран уходят в Гауду; приходят Шриваса, Шантачарья, Рупа и Санатана; Пури поёт Имя"
+  summary: "Рамананда, Васанта и Говинда Чаран прощаются и уходят в Гауду; к Господу приходят Шриваса, Кешава Дас, Сиддха Харидас, Шантачарья, Випрадас, Рупа и Санатана; Господь раздаёт Хари-наму в каждом доме, Пури становится обителью блаженства, пляшут дети, старики, звери, птицы и море; впереди киртана бьёт в литавры Рамадас."
+  persons: ["@mahaprabhu", "@ramananda-kulina", "@govinda-charana", "@srivasa", "@haridasa-thakura", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0063, ccd-0064, ccd-0065, ccd-0066; Лочан: lcm-0228; Мурари: mkc-0192"
+  notes: "Шантачарья, Випрадас — спутники Господа (сноска перевода)."
+  themes: [kirtan, mercy]
+  teaching: [holy-name]
+  divergence: "Рупа и Санатана в Пури в 1512 г. — явный анахронизм: по всем другим источникам они впервые встретили Господа в Рамакели в 1514 г. (сноска перевода); один из доводов противников подлинности «Кадачи»."
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "govinda-kadacha/ru/11.md", from: "2438", to: "2440"}
+    - {file: "govinda-kadacha/ru/12.md", from: "2441", to: "2453"}
+
+- id: gkr-0104
+  source: govinda-karcha
+  ref: "Часть 12, 2454–2460"
+  file: "govinda-kadacha/ru/12.md"
+  period: P12
+  order: 300
+  title: "Пратапарудра, оставив трон, в нищенской одежде бежит за нагара-киртаном Господа"
+  summary: "Царь Пратапарудра каждый день приходит в дом Мишры смотреть на танец Господа и, когда Тот идёт в нагара-киртан, бежит позади в нищенской одежде; Господь пляшет с поднятыми руками, тысячи людей идут следом; ночи Он проводит в уединении с Раманандой Раем."
+  persons: ["@prataparudra", "@mahaprabhu", "@ramananda-raya"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0092; Карнапура (ЧЧд): ccd-0067, ccd-0068, ccd-0072; Джаянанда: jcm-0070, jcm-0075; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: "Ср. ЧЧ Мадхья 13: царь подметает дорогу перед колесницей (сноска перевода)."
+  themes: [kirtan, mercy]
+  divergence: "Царь открыто следует за Господом сразу после возвращения с юга; по ЧЧ Господь долго избегал встречи с царём."
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "govinda-kadacha/ru/12.md", from: "2454", to: "2460"}
+
+- id: gkr-0105
+  source: govinda-karcha
+  ref: "Часть 12, 2461–2466"
+  file: "govinda-kadacha/ru/12.md"
+  period: P12
+  order: 6
+  title: "Господь бросается обнять Махавишну; с тех пор смотрит на Джаганнатху от столпа Гаруды"
+  summary: "Однажды в любви к Кришне Господь бросается обнять Махавишну и падает перед перегородкой; с того дня Он не входит в храм, а смотрит на Джаганнатху издали, от ворот Бхога-мандира, положив левую руку на столп Гаруды."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Адвайта-пракаша: apr-0087; Карнапура (ЧЧд): ccd-0049; Лочан: lcm-0210; Мурари: mkc-0164"
+  notes: "Окончание (с 2463) — по изданию 1926 г. (примечание перевода)."
+  themes: [jagannatha, ecstasy]
+  divergence: "По ЧЧ (Мадхья 1, 6) Господь бросился обнять Джаганнатху при первом даршане; «Кадача» относит это к возвращению с юга (сноска перевода)."
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "govinda-kadacha/ru/12.md", from: "2461", to: "2466"}
+
+- id: gkr-0106
+  source: govinda-karcha
+  ref: "Часть 12, 2467–2473"
+  file: "govinda-kadacha/ru/12.md"
+  period: P12
+  order: 10
+  title: "Говинду посылают в Шантипур за Адвайтой; рукопись обрывается"
+  summary: "В доме Мишры Господь велит Говинде идти в Шантипур к Ачарье (Адвайте) и привести его; Говинда с плачем прощается, Господь благословляет его: «Не плачь, дорогой мой», — и Говинда не в силах вынести разлуки… Рукопись неполная."
+  persons: ["@mahaprabhu", "@govinda-karmakara", "@advaita"]
+  places: ["#puri", "#house-kashi-mishra", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Пометка издания 1926 г.: «неполная»; продолжение издатель советует искать в «Чайтанья-чандродае» и «Чайтанья-чандродая-каумуди» Према Даса (сноска перевода)."
+  themes: [separation]
+  divergence: "По ЧЧ в Гауду с вестью послан Кала Кришнадас, а не Говинда."
+  event: ev-messenger-to-gauda-after-south
+  verses:
+    - {file: "govinda-kadacha/ru/12.md", from: "2467", to: "2473"}

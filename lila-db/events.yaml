@@ -151,6 +151,16 @@
   themes: [revelation, celestial]
   notes: ""
 
+- id: ev-advaita-advent-cause
+  title: "Причина явления Адвайты: подвижничество Шивы и Маха-Вишну"
+  title_en: "The cause of Advaita's advent: Shiva's austerities and Maha-Vishnu"
+  period: P00
+  order: 35
+  cc: ""
+  cb: ""
+  themes: [celestial, revelation]
+  notes: "«Адвайта-пракаша» (D), гл. 1: Маха-Вишну обнимает Садашиву, и небесный голос велит Ему воплотиться во чреве Лабхи. Ср. ЧЧ Ади 6: Адвайта — Маха-Вишну, неотличный от Хари, и потому зовётся Адвайтой."
+
 - id: ev-gaura-reveals-reasons-advent
   title: "Господь открывает спутникам причины Своего явления"
   title_en: "The Lord reveals to His associates the reasons for His advent"
@@ -181,6 +191,252 @@
   themes: [offense, celestial]
   notes: "Мурари 1.04.8–12: мудрец Рама из Дравиды поднёс Господу неомытую туласи и потому родился в роду яванов; Харидас — также частица Брахмы."
 
+- id: ev-brahma-steals-calves-haridasa
+  title: "Брахма похищает телят и по слову Кришны рождается Харидасом"
+  title_en: "Brahma steals the calves and, by Krishna's word, is born as Haridasa"
+  period: P00
+  order: 38.5
+  cc: ""
+  cb: ""
+  themes: [celestial, krishna-lila, offense]
+  notes: "«Адвайта-пракаша» (D), гл. 7; рассказ о похищении телят — по «Бхагавате» 10.13–14. Ср. ev-haridasa-previous-birth (по Мурари — мудрец Рама)."
+
+- id: ev-advaita-parents-conception
+  title: "Кубера Ачарья и Лабха: зачатие Адвайты"
+  title_en: "Kubera Acharya and Labha: the conception of Advaita"
+  period: P01
+  order: 1
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 1: Шантипур, затем Навограм в Лауде (царь Дивья Симха)."
+
+- id: ev-labha-dream-yama
+  title: "Сон Лабхи: Хари-Хара поёт имя, Яма просит Господа сокрыться"
+  title_en: "Labha's dream: Hari-Hara sings the name, Yama begs the Lord to withdraw"
+  period: P01
+  order: 1.05
+  cc: ""
+  cb: ""
+  themes: [celestial, revelation]
+  teaching: [holy-name]
+  notes: "«Адвайта-пракаша» (D), гл. 1."
+
+- id: ev-advaita-birth
+  title: "Явление Адвайты Ачарьи (Камалакши)"
+  title_en: "The advent of Advaita Acharya (Kamalaksha)"
+  period: P01
+  order: 1.1
+  cc: ""
+  cb: ""
+  themes: [family, celestial]
+  notes: "«Адвайта-пракаша» (D), гл. 1: магха, 7-й лунный день; по преданию — 1434 г."
+
+- id: ev-advaita-summons-tirthas
+  title: "Дитя Адвайта призывает святые места на гору в Лауде"
+  title_en: "The child Advaita summons the holy places to the hill in Lauda"
+  period: P01
+  order: 1.15
+  cc: ""
+  cb: ""
+  themes: [revelation, pilgrimage]
+  notes: "«Адвайта-пракаша» (D), гл. 2: Пана-тиртха (Пунья-тиртха)."
+
+- id: ev-advaita-revives-prince
+  title: "Адвайта и царевич в храме Кали: обморок и оживление водой со стоп Нараяны"
+  title_en: "Advaita and the prince in the Kali temple: the swoon and revival with Narayana's foot-water"
+  period: P01
+  order: 1.2
+  cc: ""
+  cb: ""
+  themes: [pranks, deities]
+  notes: "«Адвайта-пракаша» (D), гл. 2."
+
+- id: ev-advaita-kali-image-splits
+  title: "Спор с отцом на Дипанвиту: изваяние Кали раскалывается от поклона Адвайты"
+  title_en: "The Dipanvita debate with his father: the Kali image splits at Advaita's bow"
+  period: P01
+  order: 1.25
+  cc: ""
+  cb: ""
+  themes: [teaching, deities, revelation]
+  teaching: [bhakti-supremacy]
+  notes: "«Адвайта-пракаша» (D), гл. 2."
+
+- id: ev-advaita-studies-shantipura
+  title: "Адвайта уходит учиться в Шантипур; родители переселяются к Ганге"
+  title_en: "Advaita goes to study in Shantipura; his parents move to the Ganga"
+  period: P01
+  order: 1.3
+  cc: ""
+  cb: ""
+  themes: [learning, family]
+  notes: "«Адвайта-пракаша» (D), гл. 2–3."
+
+- id: ev-advaita-lotus-miracle
+  title: "Лотос для учителя: Шанта Ведантавагиша признаёт в Адвайте Ишвару"
+  title_en: "A lotus for the teacher: Shanta Vedantavagisha recognizes Advaita as Ishvara"
+  period: P01
+  order: 1.35
+  cc: ""
+  cb: ""
+  themes: [learning, revelation]
+  notes: "«Адвайта-пракаша» (D), гл. 3: Пурнавати; звание Веда-панчанана."
+
+- id: ev-advaita-parents-departure
+  title: "Уход Куберы и Лабхи на небесной колеснице"
+  title_en: "Kubera and Labha depart on a celestial chariot"
+  period: P01
+  order: 1.4
+  cc: ""
+  cb: ""
+  themes: [departure, family]
+  notes: "«Адвайта-пракаша» (D), гл. 4."
+
+- id: ev-advaita-pilgrimage
+  title: "Паломничество Адвайты по святым местам"
+  title_en: "Advaita's pilgrimage to the holy places"
+  period: P01
+  order: 1.45
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, ecstasy]
+  notes: "«Адвайта-пракаша» (D), гл. 4: Гая, Ремуна, Пури, Сетубандха, Дварака, Бадри, Гандаки, Митхила, Айодхья, Каши, Праяга, Матхура, Врадж."
+
+- id: ev-advaita-meets-madhavendra
+  title: "Встреча Адвайты с Мадхавендрой Пури; «Ананта-самхита» о явлении Гауры"
+  title_en: "Advaita meets Madhavendra Puri; the Ananta-samhita on Gaura's advent"
+  period: P01
+  order: 1.5
+  cc: ""
+  cb: ""
+  themes: [teaching, ecstasy]
+  teaching: [gaura-tattva, scripture]
+  notes: "«Адвайта-пракаша» (D), гл. 4: в обители Мадхвачарьи на юге."
+
+- id: ev-advaita-vidyapati
+  title: "Адвайта и поэт Видьяпати в Митхиле"
+  title_en: "Advaita and the poet Vidyapati in Mithila"
+  period: P01
+  order: 1.55
+  cc: ""
+  cb: ""
+  themes: [mercy, krishna-lila]
+  notes: "«Адвайта-пракаша» (D), гл. 4."
+
+- id: ev-advaita-madana-mohana
+  title: "Адвайта обретает Мадана-Мохана во Врадже"
+  title_en: "Advaita discovers Madana-Mohana in Vraja"
+  period: P01
+  order: 1.6
+  cc: ""
+  cb: ""
+  themes: [deities, krishna-lila]
+  notes: "«Адвайта-пракаша» (D), гл. 4: у Двадаша-Адитья-тиртхи; Адвайта-ват; Божество передано чаубе из Матхуры."
+
+- id: ev-advaita-vishakha-painting
+  title: "Картина Вишакхи: Адвайта находит её в Никунджа-ване и уносит в Шантипур"
+  title_en: "Vishakha's painting: Advaita finds it in Nikunja-vana and takes it to Shantipura"
+  period: P01
+  order: 1.65
+  cc: ""
+  cb: ""
+  themes: [deities, krishna-lila]
+  notes: "«Адвайта-пракаша» (D), гл. 4–5."
+
+- id: ev-advaita-madhavendra-initiation
+  title: "Мадхавендра Пури в Шантипуре: посвящение Адвайты; образ Радхики"
+  title_en: "Madhavendra Puri in Shantipura: Advaita's initiation; the image of Radhika"
+  period: P01
+  order: 1.7
+  cc: ""
+  cb: ""
+  themes: [deities, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 5; по ЧЧ Адвайта — ученик Мадхавендры Пури."
+
+- id: ev-madhavendra-kshira-chora
+  title: "Мадхавендра Пури, сандал для Гопалы и Кширачора-Гопинатха в Ремуне"
+  title_en: "Madhavendra Puri, sandalwood for Gopala, and Kshira-chora Gopinatha at Remuna"
+  period: P01
+  order: 1.75
+  cc: "Мадхья 4"
+  cb: ""
+  themes: [deities, prasada]
+  notes: "В ЧЧ (Мадхья 4) Господь рассказывает эту историю, посещая Ремуну. «Адвайта-пракаша» (D), гл. 5 — со слов Адвайты."
+
+- id: ev-advaita-name-digvijayi
+  title: "Имя «Адвайта»: победа над дигвиджайи Шьямадасой"
+  title_en: "The name 'Advaita': victory over the digvijayi Shyamadasa"
+  period: P01
+  order: 1.8
+  cc: ""
+  cb: ""
+  themes: [learning, revelation]
+  teaching: [vedanta, bhakti-supremacy]
+  notes: "«Адвайта-пракаша» (D), гл. 6."
+
+- id: ev-divya-simha-krishnadasa
+  title: "Царь Дивья Симха становится Кришнадасом"
+  title_en: "King Divya Simha becomes Krishnadasa"
+  period: P01
+  order: 1.85
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Адвайта-пракаша» (D), гл. 6: Лаудия Кришнадас, автор «Бальялила-сутры»."
+
+- id: ev-haridasa-comes-to-advaita
+  title: "Харидас приходит к Адвайте в Шантипур и получает посвящение"
+  title_en: "Haridasa comes to Advaita in Shantipura and is initiated"
+  period: P01
+  order: 1.9
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [holy-name, vaishnava]
+  notes: "«Адвайта-пракаша» (D), гл. 7: Харидас родился в 1372 г. Шака (1450) в Будане, пришёл к Адвайте пятилетним."
+
+- id: ev-yadunandana-tarka-chudamani
+  title: "Харидас отвечает Тарка-чудамани; посвящение Ядунанданы Ачарьи"
+  title_en: "Haridasa answers Tarka-chudamani; Yadunandana Acharya's initiation"
+  period: P01
+  order: 1.92
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  teaching: [vedanta]
+  notes: "«Адвайта-пракаша» (D), гл. 7."
+
+- id: ev-sita-appearance-lotus
+  title: "Явление Ситы из лотоса в Нараянапуре"
+  title_en: "Sita's appearance from a lotus at Narayanapura"
+  period: P01
+  order: 1.94
+  cc: ""
+  cb: ""
+  themes: [celestial, family]
+  notes: "«Адвайта-пракаша» (D), гл. 8: Сита найдена Нрисимхой Бхадури в лотосе; её сестра-близнец Шри; детские чудеса."
+
+- id: ev-advaita-marries-sita
+  title: "Женитьба Адвайты на Сите и Шри"
+  title_en: "Advaita marries Sita and Shri"
+  period: P01
+  order: 1.96
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 8."
+
+- id: ev-sita-initiation
+  title: "Мадхавендра Пури во сне посвящает Ситу; Адвайта повторяет посвящение"
+  title_en: "Madhavendra Puri initiates Sita in a dream; Advaita repeats the initiation"
+  period: P01
+  order: 1.97
+  cc: ""
+  cb: ""
+  themes: [celestial, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 8."
+
 - id: ev-navadvipa-vaishnavas-before-advent
   title: "Навадвипа и её вайшнавы до явления Господа"
   title_en: "Navadvipa and its Vaishnavas before the Lord's advent"
@@ -191,6 +447,71 @@
   themes: [celestial, kirtan]
   notes: "Мурари 1.01.16–24 (Шриваса, Гопинатха, Адвайта, Чандрашекхара, Харидас, Джаганнатха Мишра)."
 
+- id: ev-haridasa-phulia-benapole
+  title: "Харидас в Пхулии и Бенаполе"
+  title_en: "Haridasa at Phulia and Benapole"
+  period: P01
+  order: 2.5
+  cc: ""
+  cb: "Ади 16"
+  themes: [kirtan, mercy]
+  teaching: [holy-name, bhakti-supremacy]
+  notes: "«Адвайта-пракаша» (D), гл. 9."
+
+- id: ev-haridasa-prostitute
+  title: "Блудница, посланная искушать Харидаса, становится вайшнавкой"
+  title_en: "The prostitute sent to tempt Haridasa becomes a Vaishnavi"
+  period: P01
+  order: 2.6
+  cc: "Антья 3"
+  cb: ""
+  themes: [mercy]
+  teaching: [holy-name]
+  notes: "«Адвайта-пракаша» (D), гл. 9: Бенаполь, блудница получает имя Кришнадаси."
+
+- id: ev-haridasa-muslim-governor
+  title: "Харидас перед мусульманским правителем"
+  title_en: "Haridasa before the Muslim governor"
+  period: P01
+  order: 2.7
+  cc: ""
+  cb: "Ади 16"
+  themes: [muslims, mercy]
+  notes: "По ЧБ и ЧЧ — избиение на двадцати двух базарах; «Адвайта-пракаша» (D), гл. 9 — спор с правителем, который в страхе раскаивается."
+
+- id: ev-haridasa-snake
+  title: "Змей у пещеры Харидаса обретает освобождение"
+  title_en: "The snake at Haridasa's cave attains liberation"
+  period: P01
+  order: 2.8
+  cc: ""
+  cb: ""
+  themes: [mercy, kirtan]
+  teaching: [holy-name, vaishnava]
+  notes: "«Адвайта-пракаша» (D), гл. 9."
+
+- id: ev-shantipura-brahmins-haridasa
+  title: "Брахманы Шантипура отлучают Адвайту за общение с Харидасом и раскаиваются"
+  title_en: "The brahmanas of Shantipura excommunicate Advaita for associating with Haridasa, and repent"
+  period: P01
+  order: 2.9
+  cc: ""
+  cb: ""
+  themes: [offense, mercy, revelation]
+  teaching: [vaishnava]
+  notes: "«Адвайта-пракаша» (D), гл. 9."
+
+- id: ev-shraddha-patra-haridasa
+  title: "Адвайта отдаёт Харидасу поминальное блюдо (шраддха-патру)"
+  title_en: "Advaita gives the shraddha plate to Haridasa"
+  period: P01
+  order: 2.95
+  cc: "Антья 3"
+  cb: ""
+  themes: [prasada, mercy]
+  teaching: [vaishnava]
+  notes: "«Адвайта-пракаша» (D), гл. 9."
+
 - id: ev-srivasa-saved-from-death
   title: "Шриваса спасён от смерти: вещий сон и прибежище в святом имени"
   title_en: "Srivasa saved from death: the prophetic dream and refuge in the holy name"
@@ -200,6 +521,16 @@
   cb: ""
   themes: [mercy, celestial]
   notes: "Карнапура, «Чайтанья-чандродая», акт 1: до явления Господа; Господь открывает, что сон был послан Им."
+
+- id: ev-advaita-calls-lord
+  title: "Адвайта взывает к Кришне явиться (туласи и вода Ганги)"
+  title_en: "Advaita calls Krishna to descend (with tulasi and Ganga water)"
+  period: P01
+  order: 4
+  cc: "Ади 3"
+  cb: ""
+  themes: [celestial, ecstasy]
+  notes: "«Адвайта-пракаша» (D), гл. 9–10: обет Адвайты явить Кришну и громовые призывы."
 
 - id: ev-associates-descend
   title: "Нисхождение спутников Господа"
@@ -231,6 +562,26 @@
   themes: [family]
   notes: "Мурари 1.02.1–4: Шачи — дочь Ниламбары Чакраварти; гуру даёт Джаганнатхе звание «Мишра Пурандара»."
 
+- id: ev-advaita-tol-navadvipa
+  title: "Адвайта открывает школу в Навадвипе: Шриваса, Вишнудас, Васудева Датта"
+  title_en: "Advaita opens a school in Navadvipa: Srivasa, Vishnudasa, Vasudeva Datta"
+  period: P01
+  order: 12
+  cc: ""
+  cb: ""
+  themes: [learning, kirtan]
+  notes: "«Адвайта-пракаша» (D), гл. 10."
+
+- id: ev-advaita-initiates-mishra-shachi
+  title: "Адвайта посвящает Джаганнатху Мишру и Шачи"
+  title_en: "Advaita initiates Jagannatha Mishra and Shachi"
+  period: P01
+  order: 18
+  cc: ""
+  cb: ""
+  themes: [family, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 10: мантра Гаура-Гопалы, данная во сне."
+
 - id: ev-vishvarupa-birth
   title: "Смерть восьми дочерей Шачи и рождение Вишварупы"
   title_en: "The death of Shachi's eight daughters and the birth of Vishvarupa"
@@ -250,6 +601,16 @@
   cb: ""
   themes: [muslims]
   notes: "Джаянанда, Надия-кханда, разд. 4 (до явления Господа)."
+
+- id: ev-nityananda-birth
+  title: "Явление Нитьянанды в Экачакре"
+  title_en: "Nityananda's appearance at Ekachakra"
+  period: P01
+  order: 30
+  cc: ""
+  cb: ""
+  themes: [family, celestial]
+  notes: "«Адвайта-пракаша» (D), гл. 14: магха, светлая половина, 13-й лунный день, 1395 г. Шака; отец — Хадаи Пандит, мать — Падмавати."
 
 - id: ev-lord-enters-shachi-womb
   title: "Господь входит в лоно Шачи"
@@ -312,6 +673,27 @@
   cb: ""
   themes: [family, revelation]
   notes: "Мурари 1.05.23–27: Юпитер в экзальтации; предсказана санньяса."
+
+- id: ev-newborn-refuses-milk
+  title: "Новорождённый Гаура не берёт грудь, пока мать не услышит святое имя"
+  title_en: "The newborn Gaura refuses the breast until His mother hears the holy name"
+  period: P02
+  order: 3
+  cc: ""
+  cb: ""
+  themes: [revelation, family]
+  teaching: [holy-name]
+  notes: "«Адвайта-пракаша» (D), гл. 10: маха-мантра из уст Младенца; дерево ним."
+
+- id: ev-sita-visits-newborn
+  title: "Сита Тхакурани приходит благословить новорождённого Гауру"
+  title_en: "Sita Thakurani comes to bless the newborn Gaura"
+  period: P02
+  order: 4
+  cc: "Ади 13"
+  cb: ""
+  themes: [family, celestial]
+  notes: "«Адвайта-пракаша» (D), гл. 10."
 
 - id: ev-birth-festival-nimai-name
   title: "Празднование рождения; имя Нимай"
@@ -526,6 +908,16 @@
   themes: [kirtan, pranks]
   notes: ""
 
+- id: ev-achyutananda-birth
+  title: "Рождение Ачьютананды, сына Адвайты"
+  title_en: "The birth of Achyutananda, Advaita's son"
+  period: P04
+  order: 5
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 11: вайшакха-пурнима 1414 г. Шака."
+
 - id: ev-vishvarupa-sannyasa
   title: "Санньяса Вишварупы"
   title_en: "Vishvarupa's sannyasa"
@@ -638,6 +1030,66 @@
   themes: [learning, pranks]
   notes: "Мурари 1.09.1–4."
 
+- id: ev-krishna-mishra-birth
+  title: "Рождение Кришнадаса (Кришна Мишры), сына Адвайты; младенец отдан Шри"
+  title_en: "The birth of Krishnadasa (Krishna Mishra), Advaita's son; the infant given to Shri"
+  period: P05
+  order: 5
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 11: чайтра, тёмная половина, 13-й день, конец 1418 г. Шака."
+
+- id: ev-gopala-dasa-birth
+  title: "Рождение Гопаладаса, третьего сына Адвайты"
+  title_en: "The birth of Gopaladasa, Advaita's third son"
+  period: P05
+  order: 7
+  cc: ""
+  cb: ""
+  themes: [family, kirtan]
+  notes: "«Адвайта-пракаша» (D), гл. 11: карттика, светлая половина, 12-й день, 1422 г. Шака."
+
+- id: ev-gaura-studies-with-advaita
+  title: "Гаура и Гададхара изучают Веды у Адвайты в Шантипуре; звание Видьясагара"
+  title_en: "Gaura and Gadadhara study the Vedas with Advaita in Shantipura; the title Vidyasagara"
+  period: P05
+  order: 8
+  cc: ""
+  cb: ""
+  themes: [learning]
+  notes: "«Адвайта-пракаша» (D), гл. 12; другие жизнеописания учёбы Господа у Адвайты не знают."
+
+- id: ev-krishna-mishra-bananas
+  title: "Бананы для Гауры: маленький Кришна Мишра предлагает их Гауре и съедает"
+  title_en: "Bananas for Gaura: little Krishna Mishra offers them to Gaura and eats them"
+  period: P05
+  order: 8.2
+  cc: ""
+  cb: ""
+  themes: [prasada, pranks, family]
+  notes: "«Адвайта-пракаша» (D), гл. 12."
+
+- id: ev-gopala-annaprashana
+  title: "Первый рис Гопаладаса: младенец касается стоп Гауранги"
+  title_en: "Gopaladasa's first rice: the infant touches Gauranga's feet"
+  period: P05
+  order: 8.3
+  cc: ""
+  cb: ""
+  themes: [festival, revelation]
+  notes: "«Адвайта-пракаша» (D), гл. 12."
+
+- id: ev-lokanatha-comes-to-advaita
+  title: "Локанатха приходит учиться к Адвайте и вверен Гауре"
+  title_en: "Lokanatha comes to study with Advaita and is entrusted to Gaura"
+  period: P05
+  order: 8.4
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  notes: "«Адвайта-пракаша» (D), гл. 12: Локанатха Чакраварти, сын Падманабхи из Джессора."
+
 - id: ev-lakshmipriya-first-meeting
   title: "Первая встреча с Лакшмиприей у Ганги"
   title_en: "First meeting with Lakshmipriya by the Ganga"
@@ -668,6 +1120,37 @@
   themes: [family, festival]
   notes: "Мурари 1.09.34–1.11.2."
 
+- id: ev-nyaya-commentary-ganga
+  title: "Господь бросает в Гангу Свой комментарий к ньяе, чтобы не затмить труд другого брахмана"
+  title_en: "The Lord throws His nyaya commentary into the Ganga so as not to eclipse another brahmana's work"
+  period: P05
+  order: 30
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  notes: "«Адвайта-пракаша» (D), гл. 19 (воспоминание)."
+
+- id: ev-achyuta-studies-with-gaura
+  title: "Ачьютананда учится у Гауры: сравнение лица с луной и нектар имени"
+  title_en: "Achyutananda studies with Gaura: the moon-face simile and the nectar of the name"
+  period: P05
+  order: 40
+  cc: ""
+  cb: ""
+  themes: [learning, teaching]
+  teaching: [holy-name]
+  notes: "«Адвайта-пракаша» (D), гл. 12."
+
+- id: ev-ishvara-puri-navadvipa
+  title: "Ишвара Пури в Навадвипе: встречи с Адвайтой и Нимаем"
+  title_en: "Ishvara Puri in Navadvipa: meetings with Advaita and Nimai"
+  period: P05
+  order: 45
+  cc: ""
+  cb: "Ади 11"
+  themes: [learning, ecstasy]
+  notes: "«Адвайта-пракаша» (D), гл. 13."
+
 - id: ev-lakshmi-feast-vaishnavas
   title: "Лакшмиприя служит свекрови и готовит пир для вайшнавов"
   title_en: "Lakshmipriya serves her mother-in-law and cooks a feast for the Vaishnavas"
@@ -677,6 +1160,16 @@
   cb: ""
   themes: [family, prasada]
   notes: "Джаянанда, Надия-кханда, разд. 55."
+
+- id: ev-balarama-mishra-birth
+  title: "Рождение Баларамы, четвёртого сына Адвайты"
+  title_en: "The birth of Balarama, Advaita's fourth son"
+  period: P05
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 15: пауша 1426 г. Шака."
 
 - id: ev-evening-strolls-ganga
   title: "Прогулки Господа с друзьями к Ганге"
@@ -707,6 +1200,16 @@
   cb: "Ади 14"
   themes: [pilgrimage, learning, kirtan]
   notes: "Мурари 1.11.5–16."
+
+- id: ev-tapana-mishra-east-bengal
+  title: "Тапана Мишра в Восточной Бенгалии: Господь велит ему идти в Каши"
+  title_en: "Tapana Mishra in East Bengal: the Lord sends him to Kashi"
+  period: P05
+  order: 70
+  cc: "Ади 16"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 13 (без изложения наставления)."
 
 - id: ev-lakshmipriya-departure
   title: "Уход Лакшмиприи"
@@ -747,6 +1250,16 @@
   cb: "Ади 15"
   themes: [family, festival]
   notes: "Мурари 1.14.3–33."
+
+- id: ev-svarupa-jagadisha-birth
+  title: "Рождение близнецов Сварупы и Джагадиши, сыновей Адвайты"
+  title_en: "The birth of the twins Svarupa and Jagadisha, Advaita's sons"
+  period: P05
+  order: 105
+  cc: ""
+  cb: ""
+  themes: [family]
+  notes: "«Адвайта-пракаша» (D), гл. 15: джьештха 1430 г. Шака."
 
 - id: ev-departure-for-gaya
   title: "Отправление в Гаю"
@@ -847,6 +1360,16 @@
   cb: ""
   themes: [revelation]
   notes: "Джаянанда (по цитатам)."
+
+- id: ev-advaita-gita-dream
+  title: "Адвайта рассказывает, как во сне Вишвамбхара разъяснил Ему стих Гиты"
+  title_en: "Advaita tells how Vishvambhara explained a Gita verse to Him in a dream"
+  period: P07
+  order: 15
+  cc: ""
+  cb: ""
+  themes: [revelation, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 14."
 
 - id: ev-shachi-receives-prema
   title: "Шачи обретает прему"
@@ -1188,6 +1711,17 @@
   themes: [celestial, teaching]
   notes: "Аллегорическая вводная сцена «Чайтанья-чандродаи» (акт 2): Отрешённость, скитаясь по охваченной Кали земле, узнаёт от Бхакти-деви о деяниях Гауры в Навадвипе."
 
+- id: ev-advaita-yoga-vasishtha-beating
+  title: "Адвайта толкует «Йога-Васиштху» о превосходстве знания, и Господь наказывает Его"
+  title_en: "Advaita expounds the Yoga-Vasishtha on the superiority of knowledge, and the Lord punishes Him"
+  period: P07
+  order: 112.8
+  cc: ""
+  cb: "Мадхья 19"
+  themes: [teaching, revelation, offense]
+  teaching: [bhakti-supremacy, vedanta]
+  notes: "«Адвайта-пракаша» (D), гл. 14: Адвайта нарочно проповедует знание, чтобы вызвать гнев Господа."
+
 - id: ev-advaita-worships-lord-shrivasa
   title: "Адвайта поклоняется Господу в доме Шривасы"
   title_en: "Advaita worships the Lord at Shrivasa's house"
@@ -1408,6 +1942,7 @@
   themes: [revelation, ecstasy]
   notes: "Мурари 2.14."
 
+
 - id: ev-flute-request
   title: "Господь просит Свою флейту"
   title_en: "The Lord asks for His flute"
@@ -1467,6 +2002,26 @@
   cb: ""
   themes: [separation, ecstasy, sannyasa]
   notes: "Мурари 2.17.12–19."
+
+- id: ev-govinda-joins-lord
+  title: "Говинда-кузнец приходит к Господу и становится Его слугой"
+  title_en: "Govinda the blacksmith comes to the Lord and becomes His servant"
+  period: P07
+  order: 139.2
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 1: Говинда ушёл из дома в 1430 г. Шака, увидел Господа на Ганге и поселился в Его доме слугой."
+
+- id: ev-ballala-dighi-yamuna
+  title: "Господь бросается в пруд Баллалы, приняв его за Ямуну"
+  title_en: "The Lord leaps into Ballala's tank, taking it for the Yamuna"
+  period: P07
+  order: 139.3
+  cc: ""
+  cb: ""
+  themes: [ecstasy, krishna-lila]
+  notes: "«Кадача Говинды Даса» (D), ч. 1: по возгласу Нитьянанды «Вот пристань Ямуны!»."
 
 - id: ev-lord-preaches-vanity-of-world
   title: "Господь в экстазе проповедует тщету мира"
@@ -1592,6 +2147,16 @@
   themes: [sannyasa, separation]
   notes: ""
 
+- id: ev-katwa-sermon
+  title: "Проповедь Господа в Катве накануне санньясы"
+  title_en: "The Lord's sermon at Katwa on the eve of sannyasa"
+  period: P08
+  order: 35
+  cc: ""
+  cb: ""
+  themes: [teaching, sannyasa]
+  notes: "«Кадача Говинды Даса» (D), ч. 1–2: под деревом билва в Кантака-нагаре — о тщете мирского, святом имени и чистой любви."
+
 - id: ev-sannyasa-katwa
   title: "Санньяса в Катве"
   title_en: "Sannyasa at Katwa"
@@ -1688,6 +2253,46 @@
   cb: ""
   themes: [revelation, separation]
   notes: "Мурари 3.4.34–38: при уходе из Шантипура Господь по просьбе Гопинатхи Ачарьи открывает ему Своё золотое тело."
+
+- id: ev-govinda-wife-burdwan
+  title: "Жена Говинды в Бурдване: Господь отпускает Говинду домой, но тот остаётся с Ним"
+  title_en: "Govinda's wife at Burdwan: the Lord releases Govinda, but he stays with Him"
+  period: P09
+  order: 62
+  cc: ""
+  cb: ""
+  themes: [family, sannyasa]
+  notes: "«Кадача Говинды Даса» (D), ч. 2."
+
+- id: ev-kashi-mitra-jagannatha-bhoga
+  title: "Рис «Джаганнатха-бхога» в доме Каши Митры"
+  title_en: "The 'Jagannatha-bhoga' rice at Kashi Mitra's house"
+  period: P09
+  order: 63
+  cc: ""
+  cb: ""
+  themes: [prasada, ecstasy]
+  notes: "«Кадача Говинды Даса» (D), ч. 2: за рекой Дамодар близ Бурдвана; Каши Митра — не Каши Мишра из Пури."
+
+- id: ev-keshava-samanta-medinipur
+  title: "Мединипур: наставление богачу Кешаве Саманте"
+  title_en: "Medinipur: instruction to the rich Keshava Samanta"
+  period: P09
+  order: 64
+  cc: ""
+  cb: ""
+  themes: [teaching, mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 2."
+
+- id: ev-narayangarh-dhaleshvara
+  title: "Нараянгарх: Господь у Шивы Дхалешвары; наставление богачам"
+  title_en: "Narayangarh: the Lord at Dhaleshvara Shiva; instruction to the rich"
+  period: P09
+  order: 65
+  cc: ""
+  cb: ""
+  themes: [deities, teaching, mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 2: богачи Вирешвара Сен и Бхавани Шанкар."
 
 - id: ev-journey-to-puri
   title: "Путь в Нилачалу"
@@ -1891,6 +2496,47 @@
   themes: [revelation, teaching, krishna-lila]
   notes: "Мурари 3.15.1–5."
 
+- id: ev-dhundhiram-tirtha
+  title: "Пандит Дхундхирам Тиртха: Господь признаёт поражение и дарует бхакти"
+  title_en: "Pandit Dhundhiram Tirtha: the Lord concedes defeat and grants bhakti"
+  period: P11
+  order: 31
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 3: пандит с Тунгабхадры получает имя Харидас."
+
+- id: ev-tirtharam-courtesans
+  title: "Богач Тиртхарам и две блудницы: испытание Господа и обращение Тиртхарама"
+  title_en: "The rich Tirtharam and two courtesans: the Lord tested; Tirtharam converted"
+  period: P11
+  order: 32
+  cc: ""
+  cb: ""
+  themes: [mercy, ecstasy]
+  notes: "«Кадача Говинды Даса» (D), ч. 3–4: у Шивы Ватешвары; блудницы Сатьябаи и Лакшмибаи, жена Тиртхарама Камала Кумари."
+
+- id: ev-munna-old-woman
+  title: "Мунна: Господь просит подаяние ради нищей старухи"
+  title_en: "Munna: the Lord begs alms for a destitute old woman"
+  period: P11
+  order: 33
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 4."
+
+- id: ev-venkata-vedantist
+  title: "Венката: ведантист Рамананда Свами побеждён в споре и принимает святое имя"
+  title_en: "Venkata: the Vedantist Ramananda Svami is defeated and accepts the holy name"
+  period: P11
+  order: 34
+  cc: ""
+  cb: ""
+  themes: [learning, mercy]
+  teaching: [vedanta, holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 4."
+
 - id: ev-rama-name-to-krishna-name
   title: "Брахман, повторявший имя Рамы, начинает повторять имя Кришны"
   title_en: "The brahmana who chanted Rama begins to chant Krishna"
@@ -1900,6 +2546,46 @@
   cb: ""
   themes: [mercy, teaching]
   notes: "Карнапура, ЧЧд акт 7."
+
+- id: ev-pantha-bhil
+  title: "Разбойник Пантха Бхил становится садху"
+  title_en: "The robber Pantha Bhil becomes a sadhu"
+  period: P11
+  order: 36
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 4: лес Багула."
+
+- id: ev-girishvara-mauni
+  title: "Гиришвара: Шива-линга и санньяси-молчальник на горе"
+  title_en: "Girishvara: the Shiva-linga and the silent sannyasi on the mountain"
+  period: P11
+  order: 37
+  cc: ""
+  cb: ""
+  themes: [deities, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 4."
+
+- id: ev-tripadi-ramats
+  title: "Трипади (Тирупати): Божество Рамы и спорщик-рамат Матхура"
+  title_en: "Tripadi (Tirupati): the Deity of Rama and the disputant Mathura of the Ramats"
+  period: P11
+  order: 38
+  cc: ""
+  cb: ""
+  themes: [deities, learning]
+  notes: "«Кадача Говинды Даса» (D), ч. 4."
+
+- id: ev-pana-nrisimha
+  title: "Пана-Нрисимха (Мангалагири)"
+  title_en: "Pana-Nrisimha (Mangalagiri)"
+  period: P11
+  order: 39
+  cc: "Мадхья 9 (упоминание)"
+  cb: ""
+  themes: [deities, pilgrimage, prasada]
+  notes: "«Кадача Говинды Даса» (D), ч. 4: служитель Мадхавендра Бхуянья, сладкий шербет-пана."
 
 - id: ev-panchavati-rama-bhava
   title: "Панчавати: Господь в бхаве Рамы"
@@ -1911,6 +2597,87 @@
   themes: [pilgrimage, ecstasy]
   notes: "Мурари 3.15.6."
 
+- id: ev-vishnu-kanchi
+  title: "Вишнуканчи: Лакшми-Нараяна и купец Бхавабхути"
+  title_en: "Vishnu-kanchi: Lakshmi-Narayana and the merchant Bhavabhuti"
+  period: P11
+  order: 41
+  cc: "Мадхья 9 (упоминание)"
+  cb: ""
+  themes: [deities, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 4."
+
+- id: ev-pakshitirtha-tiger
+  title: "Пакшитиртха: тигр отступает перед именем Хари; Вараха в Калатиртхе"
+  title_en: "Pakshi-tirtha: a tiger retreats before the name of Hari; Varaha at Kala-tirtha"
+  period: P11
+  order: 42
+  cc: "Мадхья 9 (Пакшитиртха, Калатиртха — упоминание)"
+  cb: ""
+  themes: [pilgrimage, deities]
+  teaching: [holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 4: также Шива Трикалешвара."
+
+- id: ev-sadananda-puri
+  title: "Сандхитиртха: Садананда Пури оставляет адвайта-ваду; подвижницы-бхайрави"
+  title_en: "Sandhi-tirtha: Sadananda Puri abandons advaita-vada; the bhairavi ascetics"
+  period: P11
+  order: 43
+  cc: ""
+  cb: ""
+  themes: [learning, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 5: слияние Нанды и Бхадры, Чайпалла-тиртха, Кавери."
+
+- id: ev-nagar-hostile-brahmana
+  title: "Нагар: «Побей Меня, но произнеси „Хари“» — обращение злонравного брахмана"
+  title_en: "Nagar: 'Beat Me, but say Hari' — the conversion of a hostile brahmana"
+  period: P11
+  order: 43.5
+  cc: ""
+  cb: ""
+  themes: [offense, mercy, teaching]
+  notes: "«Кадача Говинды Даса» (D), ч. 5: Божества Рамы и Лакшманы в Нагаре."
+
+- id: ev-tanjore-dhaleshvara
+  title: "Танджор: брахман Дхалешвара, Бхатта и лесные санньяси Сурешвары"
+  title_en: "Tanjore: the brahmana Dhaleshvara, Bhatta and Sureshvara's forest sannyasis"
+  period: P11
+  order: 44
+  cc: "Мадхья 9 (Госамаджа-Шива, Кумбхакарна-капала — упоминание)"
+  cb: ""
+  themes: [deities, mercy, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 5."
+
+- id: ev-padmakot-blind-sadhu
+  title: "Падмакот: слепой садху прозревает, видит Господа и оставляет тело"
+  title_en: "Padmakot: a blind sadhu regains sight, sees the Lord and leaves his body"
+  period: P11
+  order: 44.2
+  cc: ""
+  cb: ""
+  themes: [mercy, revelation, teaching]
+  notes: "«Кадача Говинды Даса» (D), ч. 5: храм восьмирукой Бхагавати."
+
+- id: ev-tripatra-bhargadeva
+  title: "Трипатра: шиваит Бхаргадева узнаёт в Господе Бога"
+  title_en: "Tripatra: the Shaiva Bhargadeva recognizes the Lord as God"
+  period: P11
+  order: 44.4
+  cc: ""
+  cb: ""
+  themes: [revelation, deities, kirtan]
+  notes: "«Кадача Говинды Даса» (D), ч. 5: Шива Чандешвара; Бхаргадева видит Господа тёмным, как Кришну."
+
+- id: ev-south-wilderness
+  title: "В лесах и горах на пути по Югу: звери не трогают Господа, лес питает путников"
+  title_en: "Through the forests and hills of the South: beasts spare the Lord, the forest feeds the pilgrims"
+  period: P11
+  order: 44.6
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Сводное событие для лесных переходов «Кадачи Говинды Даса» (D), ч. 5–7: великий лес до Шрирангама, тигр у кадамб, Нилагири, Сахья-кулачала."
+
 - id: ev-gita-reading-brahmana
   title: "Брахман, читающий Гиту со слезами любви"
   title_en: "The brahmana who reads the Gita with tears of love"
@@ -1920,6 +2687,16 @@
   cb: ""
   themes: [mercy, teaching, deities]
   notes: "Мурари 3.15.7–8 (у Ранганатхи)."
+
+- id: ev-debate-buddhists
+  title: "Спор с буддистами на юге"
+  title_en: "Debate with the Buddhists in the South"
+  period: P11
+  order: 46.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [learning, mercy]
+  notes: "В ЧЧ за спором следует эпизод с нечистой пищей (ev-bird-snatches-impure-food). У Говинды (D, ч. 3) — в Тримандале, глава буддистов Рамагири Рай."
 
 - id: ev-bird-snatches-impure-food
   title: "Нечистая пища под видом прасада: птица уносит её с руки Господа"
@@ -1975,6 +2752,231 @@
   themes: [pilgrimage, deities, ecstasy]
   notes: "Мурари 3.16.3–7."
 
+- id: ev-madhavi-vana-mauni
+  title: "Мадхави-вана: нагой йог-молчальник кланяется Господу"
+  title_en: "Madhavi-vana: the naked silent yogi bows to the Lord"
+  period: P11
+  order: 81
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, revelation]
+  notes: "«Кадача Говинды Даса» (D), ч. 6."
+
+- id: ev-tamraparni-kanyakumari
+  title: "Тамрапарни в полнолуние магхи и Каньякумари"
+  title_en: "The Tamraparni on the Magha full moon, and Kanyakumari"
+  period: P11
+  order: 82
+  cc: "Мадхья 9 (упоминание)"
+  cb: ""
+  themes: [pilgrimage, festival]
+  notes: "«Кадача Говинды Даса» (D), ч. 6."
+
+- id: ev-rudrapati-travancore
+  title: "Царь Рудрапати в Тривинку (Траванкоре)"
+  title_en: "King Rudrapati in Trivinku (Travancore)"
+  period: P11
+  order: 83
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching, ecstasy]
+  notes: "«Кадача Говинды Даса» (D), ч. 6; по сноске перевода, имя царя Рудрапати знает и ЧЧ (Мадхья 9)."
+
+- id: ev-shringeri-debate
+  title: "Шрингери: спор с учениками Шанкары"
+  title_en: "Shringeri: debate with Shankara's disciples"
+  period: P11
+  order: 84
+  cc: "Мадхья 9 (посещение)"
+  cb: ""
+  themes: [learning, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 6."
+
+- id: ev-ishvara-bharati-chandapur
+  title: "Чандапур: гордый санньяси Ишвара Бхарати получает имя Кришнадас"
+  title_en: "Chandapur: the proud sannyasi Ishvara Bharati receives the name Krishnadasa"
+  period: P11
+  order: 85
+  cc: ""
+  cb: ""
+  themes: [learning, mercy, ecstasy]
+  notes: "«Кадача Говинды Даса» (D), ч. 6."
+
+- id: ev-poor-brahmana-gopala
+  title: "Бедный брахман и его Гопал; песнь маха-мантры"
+  title_en: "The poor brahmana and his Gopala; the song of the maha-mantra"
+  period: P11
+  order: 86
+  cc: ""
+  cb: ""
+  themes: [deities, kirtan, mercy]
+  teaching: [holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 7."
+
+- id: ev-arjuna-pandit-gurjari
+  title: "Гурджари: пандит Арджуна и учение о дживе и Атмане"
+  title_en: "Gurjari: Pandit Arjuna and the teaching on the jiva and the Atma"
+  period: P11
+  order: 86.5
+  cc: ""
+  cb: ""
+  themes: [teaching, learning, ecstasy]
+  teaching: [vedanta, maya, holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 7: Агастья-кунда."
+
+- id: ev-pune-krishna-in-pond
+  title: "Пуна: «Твой Кришна в пруду» — Господь бросается в воду"
+  title_en: "Pune: 'Your Krishna is in the pond' — the Lord leaps into the water"
+  period: P11
+  order: 87
+  cc: ""
+  cb: ""
+  themes: [ecstasy, separation, teaching]
+  notes: "«Кадача Говинды Даса» (D), ч. 7."
+
+- id: ev-khandoba-murari
+  title: "Джеджури: Господь спасает «жён Кхандобы» (мурари); Индира Баи"
+  title_en: "Jejuri: the Lord saves Khandoba's 'wives' (muraris); Indira Bai"
+  period: P11
+  order: 87.5
+  cc: ""
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 7–8: Бхолешвара, Девалешвара, Джеджури."
+
+- id: ev-naroji-chorananda
+  title: "Главарь разбойников Народжи в лесу Чорананди"
+  title_en: "Naroji, the robber chief of the Chorananda forest"
+  period: P11
+  order: 88
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 8."
+
+- id: ev-ashtabhuja-animal-sacrifice
+  title: "У Аштабхуджи: проповедь против жертвоприношения животных"
+  title_en: "At Ashtabhuja: the sermon against animal sacrifice"
+  period: P11
+  order: 88.3
+  cc: ""
+  cb: ""
+  themes: [teaching, deities]
+  teaching: [purity, scripture]
+  notes: "«Кадача Говинды Даса» (D), ч. 8: «царство Суратхи»; далее Тапти (Вамана), Бхароч (жертвенная яма Бали)."
+
+- id: ev-baroda-naroji-death
+  title: "Барода: Дакорджи, царь-слуга Говинды и кончина Народжи"
+  title_en: "Baroda: Dakorji, the king who serves Govinda, and the passing of Naroji"
+  period: P11
+  order: 88.4
+  cc: ""
+  cb: ""
+  themes: [deities, departure, mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 8."
+
+- id: ev-ramananda-govinda-charana-join
+  title: "Сабармати: бенгальцы Рамананда и Говинда Чаран присоединяются к Господу"
+  title_en: "The Sabarmati: the Bengalis Ramananda and Govinda Charana join the Lord"
+  period: P11
+  order: 88.5
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 9."
+
+- id: ev-gogha-barmukhi
+  title: "Гогха: блудница Бармукхи оставляет всё"
+  title_en: "Gogha: the courtesan Barmukhi gives up everything"
+  period: P11
+  order: 88.6
+  cc: ""
+  cb: ""
+  themes: [mercy, ecstasy]
+  notes: "«Кадача Говинды Даса» (D), ч. 9."
+
+- id: ev-somnatha-ruins
+  title: "Разрушенный Сомнатх: плач Господа"
+  title_en: "The ruined Somnath: the Lord's lament"
+  period: P11
+  order: 88.7
+  cc: ""
+  cb: ""
+  themes: [deities, separation, muslims]
+  notes: "«Кадача Говинды Даса» (D), ч. 9."
+
+- id: ev-girnar-footprints
+  title: "Гирнар: исцеление Бхаргадевы и следы стоп на вершине"
+  title_en: "Girnar: Bhargadeva healed, and the footprints on the summit"
+  period: P11
+  order: 88.8
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, krishna-lila, mercy]
+  notes: "«Кадача Говинды Даса» (D), ч. 9: стопы Даттатреи; по рассказу панды — следы, оставленные Кришной перед уходом."
+
+- id: ev-prabhasa
+  title: "Прабхаса: место гибели Ядавов"
+  title_en: "Prabhasa: the place where the Yadavas perished"
+  period: P11
+  order: 88.9
+  cc: ""
+  cb: ""
+  themes: [krishna-lila, pilgrimage, separation]
+  notes: "«Кадача Говинды Даса» (D), ч. 10."
+
+- id: ev-dvaraka-visit
+  title: "Господь в Двараке"
+  title_en: "The Lord in Dvaraka"
+  period: P11
+  order: 89
+  cc: ""
+  cb: ""
+  themes: [deities, krishna-lila, pilgrimage]
+  notes: "«Кадача Говинды Даса» (D), ч. 10: две недели в Двараке; другие жизнеописания посещения Двараки не знают."
+
+- id: ev-return-journey-central-india
+  title: "Обратный путь через Гуджарат и Центральную Индию"
+  title_en: "The return journey through Gujarat and Central India"
+  period: P11
+  order: 89.2
+  cc: ""
+  cb: ""
+  themes: [pilgrimage, mercy]
+  notes: "Сводное событие для малых остановок «Кадачи Говинды Даса» (D), ч. 10–11: Барода, Нармада, Дохад, Амджхора, Манду, Шивана, Райпур, Ратнапур, Самбалпур, Бхрамара."
+
+- id: ev-kukshi-vaishya-dream
+  title: "Кукши: бедный брахман, Лакшми-Джанардана и вещий сон купца"
+  title_en: "Kukshi: the poor brahmana, Lakshmi-Janardana and the merchant's dream"
+  period: P11
+  order: 89.3
+  cc: ""
+  cb: ""
+  themes: [deities, revelation, prasada]
+  notes: "«Кадача Говинды Даса» (D), ч. 10–11."
+
+- id: ev-devghar-leper
+  title: "Девгхар: прокажённый купец Ади Нараяна исцелён прасадом"
+  title_en: "Devghar: the leprous merchant Adi Narayana healed by prasada"
+  period: P11
+  order: 89.5
+  cc: ""
+  cb: ""
+  themes: [mercy, prasada]
+  notes: "«Кадача Говинды Даса» (D), ч. 11."
+
+- id: ev-marwari-brahmana-son
+  title: "Расалкунда: марварский брахман с палкой и его сын"
+  title_en: "Rasalkunda: the Marwari brahmana with a stick, and his son"
+  period: P11
+  order: 89.7
+  cc: ""
+  cb: ""
+  themes: [mercy, offense]
+  teaching: [holy-name]
+  notes: "«Кадача Говинды Даса» (D), ч. 11."
+
 - id: ev-return-from-south
   title: "Возвращение с Юга в Пури"
   title_en: "Return from the South to Puri"
@@ -2024,6 +3026,26 @@
   cb: ""
   themes: [jagannatha, teaching]
   notes: "Джаянанда, Пракаша-кханда: предания Пури (Нила-Мадхава, Индрадьюмна, Вишвакарма, баньян) в устах Господа."
+
+- id: ev-messenger-to-gauda-after-south
+  title: "Господь посылает вестника в Гауду о Своём возвращении с юга"
+  title_en: "The Lord sends a messenger to Gauda with news of His return from the South"
+  period: P12
+  order: 10
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [separation]
+  notes: "По ЧЧ — посланец Кала Кришнадас; у Говинды (D, ч. 12) Господь посылает к Адвайте в Шантипур самого Говинду (здесь рукопись обрывается)."
+
+- id: ev-krishna-mishra-initiation-sita
+  title: "Сита посвящает Кришна Мишру и его жену Виджаю"
+  title_en: "Sita initiates Krishna Mishra and his wife Vijaya"
+  period: P12
+  order: 15
+  cc: ""
+  cb: ""
+  themes: [family, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 15."
 
 - id: ev-gauda-devotees-arrive-puri
   title: "Преданные Гауды приходят в Пури; встреча у озера Нарендра"
@@ -2087,6 +3109,16 @@
   themes: [jagannatha, kirtan, festival]
   notes: "Карнапура, ЧЧд акт 10. Ср. ev-cleaning-temple (Мурари 2.13)."
 
+- id: ev-gopala-dasa-revived
+  title: "Гопала, сын Адвайты, лишается чувств в киртане, и Господь пробуждает его"
+  title_en: "Gopala, Advaita's son, faints in kirtan and the Lord revives him"
+  period: P12
+  order: 66
+  cc: "Ади 12"
+  cb: ""
+  themes: [kirtan, mercy]
+  notes: "По ЧЧ — при уборке храма Гундичи; «Адвайта-пракаша» (D), гл. 18 — на Ратха-ятре."
+
 - id: ev-ratha-yatra-gundicha
   title: "Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу"
   title_en: "Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha"
@@ -2107,6 +3139,16 @@
   cb: ""
   themes: [jagannatha, festival, krishna-lila]
   notes: "Карнапура, ЧЧд акт 10: беседа Господа, Сварупы и Шривасы о мане гопи и величии Лакшми."
+
+- id: ev-advaita-feeds-lord-hailstorm
+  title: "Буря не пускает санньяси, и Господь один приходит на трапезу к Адвайте и Сите"
+  title_en: "A storm keeps the sannyasis away, and the Lord comes alone to dine with Advaita and Sita"
+  period: P12
+  order: 85
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [prasada, mercy]
+  notes: "«Адвайта-пракаша» (D), гл. 18: град; Ишана рвёт священный шнур, чтобы служить стопам Господа."
 
 - id: ev-nityananda-sent-to-gauda
   title: "Господь посылает Нитьянанду проповедовать в Гауду"
@@ -2241,6 +3283,16 @@
   themes: [family, kirtan, prasada]
   notes: "Мурари 3.18.15–21. Ср. ev-shantipura-second-visit (Мурари 4.15, Лочан — после Вриндавана)."
 
+- id: ev-raghunatha-dasa-shantipura
+  title: "Рагхунатха Дас встречает Господа в Шантипуре"
+  title_en: "Raghunatha Dasa meets the Lord at Shantipura"
+  period: P13
+  order: 16
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [mercy, sannyasa]
+  notes: "«Адвайта-пракаша» (D), гл. 16 — упоминание."
+
 - id: ev-gopinatha-prasada-gadadhara
   title: "Гададхара угощает Господа и Нитьянанду прасадом Гопинатхи"
   title_en: "Gadadhara feeds the Lord and Nityananda with Gopinatha's prasada"
@@ -2290,6 +3342,26 @@
   cb: ""
   themes: [pilgrimage, deities, ecstasy]
   notes: "Мурари 4.02.1–2."
+
+- id: ev-achyuta-in-vraja
+  title: "Ачьютананда чудесно является к Господу во Врадж"
+  title_en: "Achyutananda miraculously comes to the Lord in Vraja"
+  period: P13
+  order: 95
+  cc: ""
+  cb: ""
+  themes: [revelation, krishna-lila]
+  notes: "«Адвайта-пракаша» (D), гл. 16."
+
+- id: ev-radha-kunda-discovery
+  title: "Обретение Радха-кунды и Шьяма-кунды"
+  title_en: "The discovery of Radha-kunda and Shyama-kunda"
+  period: P13
+  order: 120
+  cc: "Мадхья 18"
+  cb: ""
+  themes: [krishna-lila, revelation, pilgrimage]
+  notes: "«Адвайта-пракаша» (D), гл. 16: при Ачьютананде, который излагает величие кунды со слов Гададхары Пандита."
 
 - id: ev-rupa-prayaga
   title: "Встреча с Рупой Госвами в Праяге"
@@ -2391,6 +3463,17 @@
   themes: [teaching, mercy]
   notes: "Мурари 4.13.11–21. Ср. ev-rupa-prayaga (у Лочана Даса встречи с Рупой и Санатаной объединены)."
 
+- id: ev-achyuta-digambara-sannyasi
+  title: "Ачьютананда обращает нагого санньяси в Каши"
+  title_en: "Achyutananda converts a naked sannyasi in Kashi"
+  period: P13
+  order: 186
+  cc: ""
+  cb: ""
+  themes: [learning, mercy, revelation]
+  teaching: [gaura-tattva, vedanta]
+  notes: "«Адвайта-пракаша» (D), гл. 17."
+
 - id: ev-cowherd-buttermilk-jewels
   title: "Милость к пастуху: кувшин пахты наполняется самоцветами"
   title_en: "Mercy to a cowherd: the buttermilk pot fills with jewels"
@@ -2454,6 +3537,99 @@
   cb: "Антья 4"
   themes: [festival, prasada, kirtan]
   notes: "Мурари 4.15.8–11."
+
+- id: ev-rupa-puri-dramas
+  title: "Рупа в Пури: «Видагдха-Мадхава» и «Лалита-Мадхава»"
+  title_en: "Rupa in Puri: Vidagdha-Madhava and Lalita-Madhava"
+  period: P14
+  order: 12
+  cc: "Антья 1"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  notes: "«Адвайта-пракаша» (D), гл. 19."
+
+- id: ev-lord-bhagavata-commentary-hidden
+  title: "Господь велит Ачьюте скрыть Его комментарий к «Бхагавате»"
+  title_en: "The Lord tells Achyuta to conceal His commentary on the Bhagavata"
+  period: P14
+  order: 13
+  cc: ""
+  cb: ""
+  themes: [teaching, learning]
+  notes: "«Адвайта-пракаша» (D), гл. 19."
+
+- id: ev-sanatana-puri-sores
+  title: "Санатана в Пури: язвы исчезают от объятия Господа"
+  title_en: "Sanatana in Puri: his sores vanish at the Lord's embrace"
+  period: P14
+  order: 14
+  cc: "Антья 4"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 19."
+
+- id: ev-karnapura-child-mercy
+  title: "Милость Господа к маленькому сыну Шивананды — будущему Кави Карнапуре"
+  title_en: "The Lord's mercy to Shivananda's little son, the future Kavi Karnapura"
+  period: P14
+  order: 15
+  cc: "Антья 16"
+  cb: ""
+  themes: [mercy, learning]
+  notes: "«Адвайта-пракаша» (D), гл. 18 — упоминание."
+
+- id: ev-ishana-serves-lord
+  title: "Ишана Нагара растирает стопы Господа и получает наставление"
+  title_en: "Ishana Nagara massages the Lord's feet and receives instruction"
+  period: P14
+  order: 16
+  cc: ""
+  cb: ""
+  themes: [teaching]
+  teaching: [holy-name, sannyasa-teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 18."
+
+- id: ev-chhota-haridasa-punished
+  title: "Господь отвергает Младшего Харидаса"
+  title_en: "The Lord rejects Junior Haridasa"
+  period: P14
+  order: 25
+  cc: "Антья 2"
+  cb: ""
+  themes: [sannyasa, offense]
+  teaching: [sannyasa-teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 18."
+
+- id: ev-haridasa-departure
+  title: "Уход Харидаса Тхакура"
+  title_en: "The departure of Haridasa Thakura"
+  period: P14
+  order: 60
+  cc: "Антья 11"
+  cb: ""
+  themes: [departure, kirtan]
+  notes: "«Адвайта-пракаша» (D), гл. 19."
+
+- id: ev-advaita-jnana-again
+  title: "Адвайта снова «проповедует знание»: Господь является из Пури; трое учеников отвергнуты"
+  title_en: "Advaita again 'preaches knowledge': the Lord appears from Puri; three disciples rejected"
+  period: P14
+  order: 80
+  cc: ""
+  cb: ""
+  themes: [teaching, revelation, separation]
+  teaching: [bhakti-supremacy]
+  notes: "«Адвайта-пракаша» (D), гл. 20: отвергнуты Камадева Нагара, Агала и Пагала."
+
+- id: ev-advaita-tarja
+  title: "Загадка (тарджа) Адвайты, переданная Господу Джагаданандой"
+  title_en: "Advaita's riddle (tarja) carried to the Lord by Jagadananda"
+  period: P14
+  order: 95
+  cc: "Антья 19"
+  cb: ""
+  themes: [separation, revelation]
+  notes: "«Адвайта-пракаша» (D), гл. 21; там же рассказ Джагадананды о служении Вишнуприи."
 
 - id: ev-gambhira-divine-madness
   title: "Божественное безумие Господа в бхаве Радхи (последние годы в Пури)"
@@ -2691,6 +3867,17 @@
   themes: [family, kirtan]
   notes: "Джаянанда, Уттара-кханда (краткое жизнеописание у Н. Васу)."
 
+- id: ev-vishnupriya-austerity
+  title: "Обет Вишнуприи: зёрнышко риса на каждое имя"
+  title_en: "Vishnupriya's vow: one grain of rice for each name"
+  period: P15
+  order: 25
+  cc: ""
+  cb: ""
+  themes: [separation, prasada]
+  teaching: [holy-name]
+  notes: "«Адвайта-пракаша» (D), гл. 22: рассказ Ишаны после ухода Шачи."
+
 - id: ev-nityananda-departure
   title: "Уход Нитьянанды"
   title_en: "The departure of Nityananda"
@@ -2701,6 +3888,46 @@
   cb: ""
   themes: [departure]
   notes: "Джаянанда, Уттара-кханда."
+
+- id: ev-khardaha-festival-three-offerings
+  title: "Праздник в Кхардахе: три угощения для трёх Господ"
+  title_en: "The festival at Khardaha: three offerings for the three Lords"
+  period: P15
+  order: 32
+  cc: ""
+  cb: ""
+  themes: [festival, prasada, kirtan]
+  notes: "«Адвайта-пракаша» (D), гл. 22: обычай, введённый Вирабхадрой; дадхи-мангала."
+
+- id: ev-virabhadra-initiation
+  title: "Посвящение Вирабхадры: Адвайта отсылает его к Джахнаве"
+  title_en: "Virabhadra's initiation: Advaita sends him to Jahnava"
+  period: P15
+  order: 34
+  cc: ""
+  cb: ""
+  themes: [teaching, family]
+  notes: "«Адвайта-пракаша» (D), гл. 22."
+
+- id: ev-advaita-grandsons
+  title: "Внуки Адвайты Рагхунатха и Долаговинда — подобия Гауры и Нитьянанды"
+  title_en: "Advaita's grandsons Raghunatha and Dolagovinda, likenesses of Gaura and Nityananda"
+  period: P15
+  order: 35
+  cc: ""
+  cb: ""
+  themes: [family, celestial]
+  notes: "«Адвайта-пракаша» (D), гл. 21."
+
+- id: ev-advaita-entrusts-madana-gopala
+  title: "Наставление Адвайты сыновьям; служение Мадана-Гопале вверено Кришна Мишре"
+  title_en: "Advaita's instruction to His sons; the service of Madana-Gopala entrusted to Krishna Mishra"
+  period: P15
+  order: 36
+  cc: ""
+  cb: ""
+  themes: [family, deities, teaching]
+  notes: "«Адвайта-пракаша» (D), гл. 21: Баларама и Джагадиша устанавливают другое Божество."
 
 - id: ev-advaita-departure
   title: "Уход Адвайты Ачарьи"

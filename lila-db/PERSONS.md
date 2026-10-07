@@ -128,6 +128,52 @@
 | @jahnava | Джахнава (Джахнави) | Jahnava (Jahnavi) | супруга Нитьянанды, дочь Сурьядаса |
 | @vasudha | Васудха (Васу) | Vasudha (Vasu) | супруга Нитьянанды, дочь Сурьядаса, мать Вирабхадры |
 | @indradyumna | Индрадьюмна | Indradyumna | царь, воздвигший храм Джаганнатхи (предание Пури) |
+| @shashimukhi | Шашимукхи | Shashimukhi | жена Говинды-кузнеца (@govinda-karmakara), из Канчананагара под Бурдваном («Кадача Говинды Даса») |
+| @kala-krishnadasa | Кришнадас (брахман, спутник Господа на юге) | Krishnadasa (the brahmana companion in the South) | по ЧЧ Мадхья 7 — Кала Кришнадас; у Говинды — «брахман Кришнадас Тхакур»; не путать с @krishnadasa-mathura, @krishnadasa-badagachhi |
+| @keshava-samanta | Кешава Саманта | Keshava Samanta | богач из Мединипура («Кадача Говинды Даса») |
+| @ramagiri-raya | Рамагири Рай | Ramagiri Raya | глава буддистов Тримандаля («Кадача Говинды Даса») |
+| @dhundhiram-tirtha | Дхундхирам Тиртха (Харидас) | Dhundhiram Tirtha (Haridasa) | пандит с Тунгабхадры, получивший имя Харидас («Кадача Говинды Даса»); не путать с @haridasa-thakura |
+| @tirtharam | Тиртхарам | Tirtharam | богач у Шивы Ватешвары, ставший странником («Кадача Говинды Даса») |
+| @ramananda-svami | Рамананда Свами | Ramananda Svami | санньяси-ведантист из Венкаты («Кадача Говинды Даса»); не путать с @ramananda-raya |
+| @pantha-bhil | Пантха Бхил | Pantha Bhil | разбойник из леса Багула, ставший садху («Кадача Говинды Даса») |
+| @sadananda-puri | Садананда Пури | Sadananda Puri | настоятель Сандхитиртхи («Кадача Говинды Даса») |
+| @bhargadeva-tripatra | Бхаргадева (шиваит из Трипатры) | Bhargadeva (the Shaiva of Tripatra) | глава шиваитов у Шивы Чандешвары («Кадача Говинды Даса», ч. 5); не путать с @bhargadeva-sannyasi |
+| @bhargadeva-sannyasi | Бхаргадева (глава группы санньяси) | Bhargadeva (leader of a band of sannyasis) | исцелён Господом у Гирнара, спутник до Нармады («Кадача Говинды Даса», ч. 9–10); не путать с @bhargadeva-tripatra |
+| @rudrapati | Рудрапати | Rudrapati | царь Тривинку (Траванкора) («Кадача Говинды Даса») |
+| @ishvara-bharati | Ишвара Бхарати (Кришнадас) | Ishvara Bharati (Krishnadasa) | гордый санньяси из Чандапура, получивший имя Кришнадас («Кадача Говинды Даса»); не путать с @ishvara-puri |
+| @naroji | Народжи | Naroji | брахман, главарь разбойников в лесу Чорананди; спутник Господа до Бароды, где скончался («Кадача Говинды Даса») |
+| @indira-bai | Индира Баи | Indira Bai | из «жён Кхандобы» (мурари) в Джеджури («Кадача Говинды Даса») |
+| @barmukhi | Бармукхи | Barmukhi | блудница из Гогхи, оставившая всё («Кадача Говинды Даса») |
+| @ramananda-kulina | Рамананда (Дас) из Кулинаграмы | Ramananda (Dasa) of Kulinagrama | бенгальский паломник, спутник Господа от Сабармати до Пури («Кадача Говинды Даса»); отождествление с @ramananda-vasu не доказано |
+| @govinda-charana | Говинда Чаран | Govinda Charana | бенгальский паломник, спутник Господа от Сабармати до Пури («Кадача Говинды Даса») |
+| @adi-narayana | Ади Нараяна | Adi Narayana | купец-прокажённый из Девгхара, исцелённый прасадом («Кадача Говинды Даса») |
+| @kubera-acharya | Кубера Ачарья (Тарка-панчанана) | Kubera Acharya (Tarka-panchanana) | отец Адвайты Ачарьи («Адвайта-пракаша») |
+| @labha | Лабха-деви | Labha-devi | мать Адвайты Ачарьи («Адвайта-пракаша») |
+| @divya-simha | Дивья Симха (Лаудия Кришнадас) | Divya Simha (Laudiya Krishnadasa) | царь Лауды, ставший учеником Адвайты под именем Кришнадас («Адвайта-пракаша»); не путать с @krishna-mishra |
+| @shanta-vedantavagisha | Шанта Ведантавагиша | Shanta Vedantavagisha | учитель Адвайты в Пурнавати («Адвайта-пракаша») |
+| @vidyapati | Видьяпати | Vidyapati | поэт Митхилы, автор песен о Радхе и Кришне |
+| @vijaya-puri | Виджая Пури | Vijaya Puri | санньяси, собеседник Адвайты в Каши («Адвайта-пракаша») |
+| @shyamadasa-acharya | Шьямадас Ачарья (Бхагаватачарья) | Shyamadasa Acharya (Bhagavatacharya) | дигвиджайи, побеждённый Адвайтой и ставший Его учеником («Адвайта-пракаша») |
+| @nrisimha-bhaduri | Нрисимха Бхадури | Nrisimha Bhaduri | брахман из Нараянапура, отец Ситы и Шри («Адвайта-пракаша») |
+| @shri-thakurani | Шри Тхакурани | Shri Thakurani | вторая супруга Адвайты, сестра Ситы Тхакурани («Адвайта-пракаша») |
+| @yadunandana-acharya | Ядунандана Ачарья (Тарка-чудамани) | Yadunandana Acharya (Tarka-chudamani) | ученик Адвайты («Адвайта-пракаша») |
+| @krishna-mishra | Кришнадас (Кришна Мишра) | Krishnadasa (Krishna Mishra) | сын Адвайты Ачарьи; не путать с @divya-simha (Лаудия Кришнадас) |
+| @gopala-dasa-advaita | Гопаладас (Гопала) | Gopaladasa (Gopala) | сын Адвайты Ачарьи |
+| @ishana-nagara | Ишана Нагара | Ishana Nagara | автор «Адвайта-пракаши», слуга Адвайты (для записей kind: author) |
+| @lokanatha | Локанатха (Чакраварти, Госвами) | Lokanatha (Chakravarti, Gosvami) | сын Падманабхи Чакраварти из Джессора; позднее во Вриндаване |
+| @padmanabha-chakravarti | Падманабха Чакраварти | Padmanabha Chakravarti | ученик Адвайты, отец Локанатхи («Адвайта-пракаша») |
+| @vishnudasa-acharya | Вишнудас Ачарья | Vishnudasa Acharya | ученик Адвайты в Навадвипе («Адвайта-пракаша»); не путать с @vishnudasa |
+| @hadai-pandita | Хадаи Пандит (Ойджха) | Hadai Pandita (Ojha) | отец Нитьянанды, Экачакра |
+| @balarama-mishra | Баларама (Мишра), сын Адвайты | Balarama (Mishra), Advaita's son | четвёртый сын Адвайты («Адвайта-пракаша»); не путать с @balarama |
+| @svarupa-mishra | Сварупа, сын Адвайты | Svarupa, Advaita's son | близнец Джагадиши («Адвайта-пракаша»); не путать с @svarupa-damodara |
+| @jagadisha-mishra | Джагадиша, сын Адвайты | Jagadisha, Advaita's son | близнец Сварупы («Адвайта-пракаша») |
+| @anupama | Анупама (Валлабха) | Anupama (Vallabha) | младший брат Рупы и Санатаны, отец Дживы Госвами |
+| @jiva-gosvami | Джива Госвами | Jiva Gosvami | племянник Рупы и Санатаны; один из шести Госвами |
+| @prabodhananda-sarasvati | Прабодхананда Сарасвати | Prabodhananda Sarasvati | санньяси в Каши, обращённый Господом («Адвайта-пракаша»; в ЧЧ — Пракашананда) |
+| @suryadasa-pandita | Сурьядас Пандит (Саркхел) | Suryadasa Pandita (Sarakhela) | отец Васудхи и Джахнавы, тесть Нитьянанды |
+| @chhota-haridasa | Младший Харидас (певец) | Junior Haridasa (the singer) | певец при Господе в Пури, отвергнутый за разговор с женщиной (ЧЧ Антья 2); не путать с @haridasa-thakura |
+| @raghunatha-advaita-grandson | Рагхунатха, внук Адвайты | Raghunatha, Advaita's grandson | сын Кришна Мишры («Адвайта-пракаша»); не путать с @raghunatha-dasa, @raghunatha-bhatta |
+| @dolagovinda | Долаговинда | Dolagovinda | сын Кришна Мишры, внук Адвайты («Адвайта-пракаша») |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -164,6 +210,8 @@
 | @subhadra | Субхадра | Subhadra | сестра Кришны; Божество в Пури вместе с Джаганнатхой и Баларамой |
 | @lalita | Лалита | Lalita | ближайшая подруга Радхи |
 | @yogamaya | Йогамайя (Паурнамаси) | Yogamaya (Paurnamasi) | внутренняя энергия Господа, устраивающая Его игры; во Врадже — старица Паурнамаси |
+| @yama | Яма (Ямараджа, Дхармараджа) | Yama (Yamaraja, Dharmaraja) | владыка смерти, сын Солнца |
+| @madana-gopala-deity | Мадана-Мохана (Мадана-Гопала) — Божество | Madana-Mohana (Madana-Gopala), the Deity | Божество Кришны, обретённое Адвайтой во Врадже («Адвайта-пракаша»), которому служил Адвайта в Шантипуре |
 | **Аллегорические лица** ||||
 | @kali-personified | Кали (олицетворение века Кали) | Kali (personification of the Kali age) | «царь эпохи» в аллегорических сценах; не путать с богиней Кали |
 | @adharma | Адхарма (Беззаконие) | Adharma (Irreligion) | олицетворение; друг и слуга Кали |

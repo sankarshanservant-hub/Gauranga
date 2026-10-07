@@ -1,0 +1,3082 @@
+# Ишана Нагара, «Адвайта-пракаша» — лилы в порядке изложения (формат — ../README.md).
+# Перевод — advaita-prakash/01.md–22.md (22 главы, стихи пронумерованы «N. » без меток **N.**, поэтому отрезки заданы
+# from_text/to_text — начала строк стихов). Начальное «Слава…» и заключительная подпись Ишаны Нагары каждой главы
+# включены в первую и последнюю записи главы. Источник уровня D: подлинность «Адвайта-пракаши» оспаривается;
+# Шрила Бхактисиддханта Сарасвати и традиция её не принимают. Датировки — только на записях (date_conf: оценка).
+# Жизнь Адвайты до явления Господа — P00/P01, после ухода Господа — P15. Записи добавлять в конец.
+
+- id: apr-0001
+  source: advaita-prakasha
+  ref: "Гл. 1, 1–15"
+  file: "advaita-prakash/01.md"
+  period: P00
+  order: 35
+  title: "Подвижничество Шивы ради мира; Маха-Вишну обнимает Садашиву и нисходит во чрево Лабхи"
+  summary: "Видя грехи века Кали, Садашива семьсот лет подвизается на берегу Причинного океана; явившийся Маха-Вишну говорит: «У тебя и у Меня одна душа» — и обнимает его, так что два тела становятся одним, золотым; небесный голос велит Маха-Вишну воплотиться во чреве Лабхи, а Сам Господь придёт в доме Шачи и Джаганнатхи; Маха-Вишну входит в лоно Лабхи в Шантипуре."
+  persons: ["@shiva", "@yogamaya", "@narayana", "@advaita", "@labha", "@mahaprabhu", "@balarama"]
+  places: ["#shantipura"]
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Подлинность «Адвайта-пракаши» оспаривается; Шрила Бхактисиддханта Сарасвати и традиция её отвергают. По тексту Адвайта — Маха-Вишну, слитый с Шивой (Хари-Хара; сноска перевода); ср. ЧЧ Ади 6 (Адвайта — Маха-Вишну, неотличный от Хари). В гаудия-вайшнавском понимании «одна душа» означает неотличие Адвайты от Хари, а не растворение Господа в Шиве."
+  themes: [celestial, revelation]
+  teaching: [associates-tattva]
+  event: ev-advaita-advent-cause
+  verses:
+    - {file: "advaita-prakash/01.md", from_text: "1. Слава, слав", to_text: "15. Услышав эт"}
+
+- id: apr-0002
+  source: advaita-prakasha
+  ref: "Гл. 1, 16–53"
+  file: "advaita-prakash/01.md"
+  period: P01
+  order: 1
+  title: "Кубера Ачарья и Лабха: род Нарасимхи Нарияла, зачатие в Шантипуре, возвращение в Навограм"
+  summary: "Кубера Ачарья Тарка-панчанана, придворный пандит из рода Нарасимхи Нарияла (советника царя Ганеши), потеряв многих сыновей, поселяется с Лабхой в Шантипуре; заметив беременность жены, он по зову царя Дивья Симхи возвращается в Навограм в Лауде; таинственный астролог предсказывает сына, подобного богу, и Кубера с Лабхой чтят Нараяну."
+  persons: ["@kubera-acharya", "@labha", "@divya-simha"]
+  places: ["#shantipura", "#lauda"]
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Ст. 24 (происхождение сословия) в оригинале неясен (сноска перевода)."
+  themes: [family]
+  event: ev-advaita-parents-conception
+  verses:
+    - {file: "advaita-prakash/01.md", from_text: "16. Лабха-деви", to_text: "53. Прасадом В"}
+
+- id: apr-0003
+  source: advaita-prakasha
+  ref: "Гл. 1, 54–81"
+  file: "advaita-prakash/01.md"
+  period: P01
+  order: 1.05
+  title: "Сон Лабхи: Хари-Хара поёт «Харе Кришна»; Яма просит Его сокрыться"
+  summary: "Лабха видит во сне в своём сердце Хари-Хару, танцующего с санкиртаной Хари; Яма просит Его сокрыться, ибо грешники спасутся и власти Ямы придёт конец; Господь отвечает, что из сострадания к душам Кали Он принёс великую мантру имени и явит Самого Бхагавана с Его спутниками, но хулители и лицемеры спасены не будут."
+  persons: ["@labha", "@yama", "@advaita", "@kubera-acharya"]
+  places: ["#lauda"]
+  kind: vision
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [celestial, revelation]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-labha-dream-yama
+  verses:
+    - {file: "advaita-prakash/01.md", from_text: "54. Послушайте", to_text: "81. Удивительн"}
+
+- id: apr-0004
+  source: advaita-prakasha
+  ref: "Гл. 1, 82–88"
+  file: "advaita-prakash/01.md"
+  period: P01
+  order: 1.1
+  title: "Рождение Адвайты в седьмой день магхи; имя Камалакша"
+  summary: "Через десять месяцев, в седьмой лунный день месяца магха, Лабха рождает Господа; люди омываются и раздают дары, святые ликуют, не зная причины; астролог нарекает младенца Камалакшей; пятилетним Он не ест ничего, кроме предложенного Кришне, и за месяц осваивает азбуку."
+  persons: ["@advaita", "@labha", "@kubera-acharya", "@ishana-nagara"]
+  places: ["#lauda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Подпись автора (88) — в конце главы."
+  themes: [family, festival]
+  calendar: "магха, 7-й лунный день (по хинди-изданию — светлая половина)"
+  years: [1434, 1434]
+  date_conf: оценка
+  date_basis: "АП 1.82 (магха, 7-й день); год — по дате хинди-издания «самват 1491» (сноска перевода; в OCR число искажено)"
+  event: ev-advaita-birth
+  verses:
+    - {file: "advaita-prakash/01.md", from_text: "82. И вот у пр", to_text: "88. Уповая на с"}
+
+- id: apr-0005
+  source: advaita-prakasha
+  ref: "Гл. 2, 1–48"
+  file: "advaita-prakash/02.md"
+  period: P01
+  order: 1.15
+  title: "Лабхе снится четырёхрукий Маха-Вишну; дитя призывает святыни на гору — Пана-тиртха"
+  summary: "Лабха видит во сне сына четырёхруким Маха-Вишну и просит воды с Его стоп; Он отказывается, но обещает призвать все святыни; проснувшись, мальчик выпытывает сон и ночью силой йоги притягивает Гангу, Ямуну и другие тиртхи, которые соглашаются приходить на гору в Лауде раз в год; утром под звук раковины для Лабхи текут разноцветные святые воды."
+  persons: ["@advaita", "@labha", "@ganga-devi"]
+  places: ["#lauda"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Место названо то Пунья-тиртхой, то Пана-тиртхой; Варуни — благоприятное соединение в чайтру (сноски перевода)."
+  themes: [revelation, pilgrimage]
+  bhava: [aishvarya]
+  calendar: "мадху (чайтра), тёмная половина, 13-й день — ежегодный приход святынь"
+  event: ev-advaita-summons-tirthas
+  verses:
+    - {file: "advaita-prakash/02.md", from_text: "1. Слава, слав", to_text: "48. С тех пор П"}
+
+- id: apr-0006
+  source: advaita-prakasha
+  ref: "Гл. 2, 49–68"
+  file: "advaita-prakash/02.md"
+  period: P01
+  order: 1.2
+  title: "Учёба с царевичем; в храме Кали царевич падает без чувств от возгласа Камалакши"
+  summary: "Кубера отдаёт Камалакшу учиться грамматике «Калапа» вместе с сыном царя Дивья Симхи; в храме Кали Камалакша не кланяется богине, царевич бранит Его, и от Его громового возгласа падает как мёртвый; мальчик прячется, а затем оживляет царевича водой, омывшей стопы Нараяны."
+  persons: ["@advaita", "@divya-simha", "@kubera-acharya"]
+  places: ["#lauda"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Адвайта «принял гуну страсти» лишь внешне (сноска перевода)."
+  themes: [pranks, deities, learning]
+  event: ev-advaita-revives-prince
+  verses:
+    - {file: "advaita-prakash/02.md", from_text: "49. Затем Шри К", to_text: "68. Все говори"}
+
+- id: apr-0007
+  source: advaita-prakasha
+  ref: "Гл. 2, 69–102"
+  file: "advaita-prakash/02.md"
+  period: P01
+  order: 1.25
+  title: "Упанаяна; спор с отцом на Дипанвиту: поклонись Кали — изваяние раскалывается"
+  summary: "После упанаяны Камалакша изучает литературу, словари и астрономию; на празднике Дипанвиты Он не кланяется Кали и объясняет: поклонение Нараяне, корню всех богов, насыщает всех, Бхагавати — внешняя энергия Вишну, а жертвы с убийством противны шастрам; отец спорит, и из уважения к нему Камалакша кланяется — богиня скрывается, изваяние раскалывается, и царь, министры и Кубера очищаются сердцем."
+  persons: ["@advaita", "@kubera-acharya", "@divya-simha"]
+  places: ["#lauda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Доводы Куберы в защиту жертвоприношений (79–93) — слова персонажа, опровергаемые Адвайтой."
+  themes: [teaching, deities, revelation]
+  teaching: [bhakti-supremacy, purity]
+  calendar: "Дипанвита (праздник светильников)"
+  event: ev-advaita-kali-image-splits
+  verses:
+    - {file: "advaita-prakash/02.md", from_text: "69. Затем мудр", to_text: "102. Тогда Гос"}
+
+- id: apr-0008
+  source: advaita-prakasha
+  ref: "Гл. 2, 103–104; гл. 3, 1–30"
+  file: "advaita-prakash/02.md"
+  period: P01
+  order: 1.3
+  title: "Двенадцатилетний Адвайта уходит учиться в Шантипур; родители переселяются к Ганге"
+  summary: "В двенадцать лет Камалакша уходит в Шантипур изучать шесть философских систем; Кубера и Лабха в горе ищут Его, пока Гопала во сне не открывает Кубере, что сын — воплощение преданного и жив на берегу Ганги; получив письмо, родители переселяются в Шантипур; отец велит изучать Веды, и Камалакша идёт к Шанте Ведантавагише в Пурнавати."
+  persons: ["@advaita", "@kubera-acharya", "@labha", "@shanta-vedantavagisha"]
+  places: ["#lauda", "#shantipura", "#purnavati"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, family, separation]
+  event: ev-advaita-studies-shantipura
+  verses:
+    - {file: "advaita-prakash/02.md", from_text: "103. В двенадц", to_text: "104. Уповая на"}
+    - {file: "advaita-prakash/03.md", from_text: "1. Слава, слав", to_text: "30. Тогда Госп"}
+
+- id: apr-0009
+  source: advaita-prakasha
+  ref: "Гл. 3, 31–61"
+  file: "advaita-prakash/03.md"
+  period: P01
+  order: 1.35
+  title: "Лотос среди змей: Шанта Ведантавагиша признаёт в ученике Ишвару; звание Веда-панчанана"
+  summary: "За два года Камалакша постигает все Веды; когда учитель в шутку спрашивает, кто достанет лотос посреди озера с колючками и чёрными змеями, Он бежит по лотосам и подносит цветок гуру; наедине Он объясняет: кто склоняется перед Кришной, тому служат все совершенства, — и Шанта понимает, что ученик — Ишвара, даёт Ему звание Веда-панчанана и со слезами отпускает; Камалакша исчезает и возвращается к родителям."
+  persons: ["@advaita", "@shanta-vedantavagisha", "@kubera-acharya", "@labha"]
+  places: ["#purnavati", "#ganga", "#shantipura"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, revelation]
+  teaching: [bhakti-supremacy]
+  event: ev-advaita-lotus-miracle
+  verses:
+    - {file: "advaita-prakash/03.md", from_text: "31. Быстро доб", to_text: "61. Уповая на с"}
+
+- id: apr-0010
+  source: advaita-prakasha
+  ref: "Гл. 4, 1–11"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.4
+  title: "Девяностолетние Кубера и Лабха уходят в Вайкунтху на небесной колеснице"
+  summary: "Год Камалакша служит родителям; девяностолетний Кубера велит Ему поднести пинды к стопам Гададхары в Гае, и тотчас является небесная колесница, видимая оку знания, на которой оба уходят в Вайкунтху; Адвайта по обычаю совершает обряды."
+  persons: ["@kubera-acharya", "@labha", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [departure, family]
+  event: ev-advaita-parents-departure
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "1. Слава, слав", to_text: "11. По обычаю л"}
+
+- id: apr-0011
+  source: advaita-prakasha
+  ref: "Гл. 4, 12–37"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.45
+  title: "Паломничество: Гая, Гопинатха в Ремуне, Набхи-Гая, Джаганнатха как Кришна, юг, Рамешвара"
+  summary: "Адвайта подносит пинды в Гае, в Ремуне в экстазе видит Гопинатху, в Набхи-Гае завершает обряды, в Пури видит в Джаганнатхе Кришну, лишается чувств и сутки пляшет в махабхаве; затем, не держась порядка, обходит Годавари, Шива-Канчи и Вишну-Канчи, Кавери, Южную Матхуру и Сетубандху, где поёт о Раме перед Шивой Рамешварой и ночь читает «Рамаяну»."
+  persons: ["@advaita", "@gopala-remuna", "@jagannatha-deity", "@krishna", "@shiva", "@rama"]
+  places: ["#gaya", "#remuna", "#jajpur", "#puri", "#godavari", "#kaveri", "#setubandha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Набхи-Гая — в Яджапуре (Джаджпуре)."
+  themes: [pilgrimage, ecstasy, jagannatha]
+  event: ev-advaita-pilgrimage
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "12. Затем сын Л", to_text: "37. Через неко"}
+
+- id: apr-0012
+  source: advaita-prakasha
+  ref: "Гл. 4, 38–76"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.5
+  title: "У садху Мадхвачарьи: встреча с Мадхавендрой Пури; «Ананта-самхита» о явлении Гауры"
+  summary: "В обители Мадхвачарьи, слыша толкование «Шандилья-» и «Нарада-сутр», Адвайта в экстазе падает без чувств; Мадхавендра Пури видит в Нём вечно совершенного обладателя премы, объясняет Ему «Бхагавату» с комментарием Мадхвы и на вопрос о спасении душ Кали отвечает, что вскоре явится Сам Бхагаван; прочтя «Ананта-самхиту», Адвайта поёт имена Гауры, который явится в Навадвипе, и переписывает книгу."
+  persons: ["@advaita", "@madhavendra-puri", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, ecstasy, kirtan]
+  teaching: [gaura-tattva, bhakti-supremacy, scripture]
+  scriptures: ["Ананта-самхита", "Шандилья-сутры", "Нарада-бхакти-сутры", "Шримад-Бхагаватам (с комментарием Мадхвы)"]
+  event: ev-advaita-meets-madhavendra
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "38. Обойдя одн", to_text: "76. Через неко"}
+
+- id: apr-0013
+  source: advaita-prakasha
+  ref: "Гл. 4, 77–88"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.52
+  title: "Дандака, Насик, Дварака, Прабхаса, Курукшетра, Бадри, Гандаки; шалаграма-чакра; Митхила"
+  summary: "Простившись с Мадхавендрой, Адвайта проходит лес Дандака и Насик, кланяется Лакшми и Васудеве в Двараке, посещает Прабхасу, Пушкару, Курукшетру, Хардвар и Бадрикашраму (Нара-Нараяна и Вьяса), Гомукхи и Гандаки, где берёт камень-чакру со всеми благими признаками, а в Митхиле катается в пыли на месте рождения Ситы."
+  persons: ["@advaita", "@lakshmi", "@vyasa"]
+  places: ["#nasik", "#dvaraka", "#prabhasa", "#badrikashrama", "#mithila"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [pilgrimage, ecstasy]
+  event: ev-advaita-pilgrimage
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "77. Однажды Шр", to_text: "88. Затем Шри А"}
+
+- id: apr-0014
+  source: advaita-prakasha
+  ref: "Гл. 4, 89–104"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.55
+  title: "Видьяпати поёт о Кришне под баньяном; Адвайта обнимает его и дарует прему"
+  summary: "В Митхиле Адвайта слышит под баньяном брахмана, поющего сладчайшие песни о Кришне, обнимает его и передаёт ему силу премы; певец, придворный поэт Видьяпати, признаёт в Нём Ишвару, а Адвайта говорит, что нектар его песен притягивает Самого Кришну, и уходит в Айодхью."
+  persons: ["@advaita", "@vidyapati", "@krishna"]
+  places: ["#mithila"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, krishna-lila]
+  event: ev-advaita-vidyapati
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "89. Охваченный", to_text: "104. Сказав та"}
+
+- id: apr-0015
+  source: advaita-prakasha
+  ref: "Гл. 4, 105–145"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.57
+  title: "Айодхья, Каши (ночь с Виджаей Пури), Праяга, Матхура, Врадж и Говардхана"
+  summary: "В Айодхье Адвайта в экстазе воспроизводит лилы Рамы; в Каши кланяется Ади-Кешаве, Бинду-Мадхаве, Вишвешваре и Аннапурне, проповедует первенство бхакти и ночь проводит в беседе о Кришне с Виджаей Пури; в Праяге бреет голову и подносит пинды; в Матхуре подносит пинды у Дхрува-гхата; во Врадже, где пробуждается настроение гопи, катается в духовной пыли и в махабхаве приходит к Говардхане."
+  persons: ["@advaita", "@rama", "@shiva", "@vijaya-puri", "@dhruva", "@krishna"]
+  places: ["#ayodhya", "#kashi", "#prayaga", "#mathura", "#vrindavana", "#govardhana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Адвайта чтит Вишвешвару «чтобы научить людей» (117)."
+  themes: [pilgrimage, ecstasy, krishna-lila]
+  event: ev-advaita-pilgrimage
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "105. Увидев та", to_text: "145. Осмотрев м"}
+
+- id: apr-0016
+  source: advaita-prakasha
+  ref: "Гл. 4, 146–193"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.6
+  title: "Мадана-Мохана: Кришна во сне велит откопать Его у Двадаша-Адитьи; от млеччхов Он прячется Гопалой"
+  summary: "Под баньяном у Говардханы Кришна является Адвайте во сне: «Ты — часть Меня, Гопешвара Шива; проповедуй бхакти» — и велит откопать Его образ Мадана-Мохану, которому служила Кубджа, у Двадаша-Адитья-тиртхи; селяне откапывают Божество, Адвайта ставит его в хижине под баньяном и поручает брахману; когда млеччхи врываются в храм, Божество обращается маленьким Гопалой и прячется в цветах; во сне Оно открывает это Адвайте и с тех пор зовётся Мадана-Гопалой."
+  persons: ["@advaita", "@krishna", "@madana-gopala-deity"]
+  places: ["#vrindavana", "#govardhana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Адвайта-ват — «баньян Адвайты» во Вриндаване (сноска перевода)."
+  themes: [deities, krishna-lila, muslims]
+  event: ev-advaita-madana-mohana
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "146. На исходе", to_text: "193. С тех пор"}
+
+- id: apr-0017
+  source: advaita-prakasha
+  ref: "Гл. 4, 194–215"
+  file: "advaita-prakash/04.md"
+  period: P01
+  order: 1.65
+  title: "Мадана-Гопала отдан чаубе из Матхуры; картина Вишакхи из Никунджа-ваны"
+  summary: "Мадана-Гопала во сне велит отдать Его чаубе из Матхуры, утешая Адвайту: «Я навеки принадлежу твоему роду», — и напоминает о картине, которую Адвайта в облике Вишакхи нарисовал для Радхи; пришедший чаубе получает Божество, а Адвайта в разлуке находит в лесу Никунджа ту вечную картину и уносит её в Шантипур."
+  persons: ["@advaita", "@madana-gopala-deity", "@radha"]
+  places: ["#vrindavana", "#mathura", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "По преданию, Адвайта в вечной форме — гопи Вишакха (сноска перевода)."
+  themes: [deities, krishna-lila, separation]
+  event: ev-advaita-vishakha-painting
+  verses:
+    - {file: "advaita-prakash/04.md", from_text: "194. Однажды н", to_text: "215. Уповая на"}
+
+- id: apr-0018
+  source: advaita-prakasha
+  ref: "Гл. 5, 1–23"
+  file: "advaita-prakash/05.md"
+  period: P01
+  order: 1.7
+  title: "Мадхавендра Пури в Шантипуре: образ Радхики, совет жениться, посвящение Адвайты"
+  summary: "Мадхавендра Пури приходит в Шантипур, в экстазе видит картину Вишакхи и велит Адвайте сделать образ Радхики — служение Божественной Чете высшее — и жениться ради Кришны; Адвайта делает образ, Пури омывает Радху и Мадана-Гопалу и раздаёт маха-прасад, а Адвайта, чтобы учить людей, принимает от него царскую мантру Кришны."
+  persons: ["@madhavendra-puri", "@advaita", "@radha", "@madana-gopala-deity"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [deities, teaching]
+  teaching: [prema]
+  event: ev-advaita-madhavendra-initiation
+  verses:
+    - {file: "advaita-prakash/05.md", from_text: "1. Слава, слав", to_text: "23. Затем, что"}
+
+- id: apr-0019
+  source: advaita-prakasha
+  ref: "Гл. 5, 24–83"
+  file: "advaita-prakash/05.md"
+  period: P01
+  order: 1.75
+  title: "Сандал для Гопалы; предание о Гопинатхе Ремуны; Кширачора; сандал Гопинатхе"
+  summary: "Мадхавендра идёт в Нилачалу за малаянским сандалом для Гопалы, велевшего во сне остудить Его тело; в Ремуне старый брахман рассказывает, что образ Гопинатхи сотворил Сам Рама для Ситы, показав облик, в котором явится во Врадже; ночью жрец приносит Пури кхир, украденный для него Гопинатхой, — отсюда имя Кхира-чора; на обратном пути Гопала во сне велит умастить сандалом Гопинатху, и Пури, ходя между Нилачалой и Ремуной, достигает совершенства у стоп Гопинатхи."
+  persons: ["@madhavendra-puri", "@advaita", "@gopala-remuna", "@rama", "@jagannatha-deity", "@ishana-nagara"]
+  places: ["#shantipura", "#remuna", "#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Ишана записывает рассказ со слов самого Адвайты (81–82, сноска перевода)."
+  themes: [deities, prasada, ecstasy]
+  divergence: "Происхождение Гопинатхи от Рамы и Ситы — предание, которого нет в ЧЧ (Мадхья 4)."
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "advaita-prakash/05.md", from_text: "24. Через неск", to_text: "83. Уповая на с"}
+
+- id: apr-0020
+  source: advaita-prakasha
+  ref: "Гл. 6, 1–77"
+  file: "advaita-prakash/06.md"
+  period: P01
+  order: 1.8
+  title: "Дигвиджайи Шьямадас: Ганга — Брахман, ставший влагой; Брахман имеет форму; небесный голос: «Имя Ему — Адвайта»"
+  summary: "Дигвиджайи Шьямадас, получивший от Шивы дар победы, воспевает Туласи и Гангу; Камалакша поправляет его — Ганга есть Брахман, ставший влагой, — и доказывает, что Высший Брахман не бесформен: Он — Кришна, сат-чит-ананда, а безличный Брахман — сияние Его тела; небесный голос объявляет, что Камалакша — Хари-Хара и имя Ему Адвайта; дигвиджайи видит Его подлинный облик, принимает мантру и получает имя Бхагаватачарья, а Адвайта велит ему повторять «Шри Кришна Чайтанья, Нитьянанда»."
+  persons: ["@advaita", "@shyamadasa-acharya", "@shiva", "@ganga-devi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "«Адвайта» — «недвойственный», неотличный от Хари-Хары (сноска перевода); ср. ЧЧ Ади 6: Адвайта неотличен от Хари."
+  themes: [learning, revelation, teaching]
+  teaching: [vedanta, bhakti-supremacy, holy-name]
+  event: ev-advaita-name-digvijayi
+  verses:
+    - {file: "advaita-prakash/06.md", from_text: "1. Слава, слав", to_text: "77. Через неск"}
+
+- id: apr-0021
+  source: advaita-prakasha
+  ref: "Гл. 6, 78–93"
+  file: "advaita-prakash/06.md"
+  period: P01
+  order: 1.85
+  title: "Царь Дивья Симха становится Кришнадасом и уходит в Пхуллавати, затем во Врадж"
+  summary: "Пока Адвайта тоскует о явлении Бхагавана, приходит царь Лауды Дивья Симха, ставший вайшнавом после чуда в храме Кали; Адвайта называет его Кришнадасом; десять лет он изучает шастры о бхакти, оставляет шактийскую мантру ради мантры Вишну, селится за Гангой в Пхуллавати, сочиняет на санскрите сутры о детских играх Господа и на склоне лет достигает совершенства во Врадже."
+  persons: ["@advaita", "@divya-simha", "@ishana-nagara"]
+  places: ["#lauda", "#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Сочинение — «Бальялила-сутра» Лаудии Кришнадаса; чтение «Хануман Вишну» (86) неуверенно (сноски перевода)."
+  themes: [mercy, learning]
+  event: ev-divya-simha-krishnadasa
+  verses:
+    - {file: "advaita-prakash/06.md", from_text: "78. Однажды Шр", to_text: "93. Уповая на с"}
+
+- id: apr-0022
+  source: advaita-prakasha
+  ref: "Гл. 7, 1–72"
+  file: "advaita-prakash/07.md"
+  period: P00
+  order: 38.5
+  title: "Брахма похищает телят, видит бесчисленных Брахм у врат Кришны и обречён родиться яваном"
+  summary: "Усомнившись, видя, как Кришна ест остатки пастушков, Брахма похищает телят и мальчиков, а Кришна Сам становится ими; поняв ошибку, Брахма идёт просить прощения и у врат видит восьмиликого, шестнадцатиликого и иных Брахм, а в собрании — бесчисленных Брахм, Шив и Вишну, Радху с подругами в сиянии; Ананта (Шеша) говорит, что оскорбление лишило его даршана; Кришна являет облик и велит ему родиться в Кали яваном и спастись, увидев Шри Кришну Чайтанью."
+  persons: ["@brahma", "@krishna", "@balarama", "@radha", "@lalita", "@sanaka-kumaras", "@haridasa-thakura", "@mahaprabhu"]
+  places: ["#vrindavana", "#goloka"]
+  kind: pre-advent
+  authority: D
+  parallels: ""
+  notes: "Пересказ «Бхагаваты» 10.13–14; сцена с бесчисленными Брахмами восходит к ЧЧ (сноска перевода)."
+  themes: [celestial, krishna-lila, offense]
+  scriptures: ["Бхаг. 10.13–14"]
+  divergence: "Прежнее рождение Харидаса — Брахма, проклятый за похищение телят (у Мурари — мудрец Рама, ev-haridasa-previous-birth); упомянуто и мнение, что Харидас — Прахлада (7.75)."
+  event: ev-brahma-steals-calves-haridasa
+  verses:
+    - {file: "advaita-prakash/07.md", from_text: "1. Слава, слав", to_text: "72. Сто раз пр"}
+
+- id: apr-0023
+  source: advaita-prakasha
+  ref: "Гл. 7, 73–88"
+  file: "advaita-prakash/07.md"
+  period: P01
+  order: 1.9
+  title: "Рождение Харидаса в Будане (1372 г. Шака); пятилетним он приходит к Адвайте и учится у Него"
+  summary: "В 1372 г. Шака Брахма рождается в селении Будан, вскормленный яванами, пьёт лишь молоко и, помня прежние рождения, повторяет имя Хари; пятилетним он уходит из дома и приходит в Шантипур; Адвайта узнаёт в нём творца и оставляет его у Себя, и Харидас изучает грамматику, философию и «Бхагавату»."
+  persons: ["@haridasa-thakura", "@advaita", "@brahma"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1372 г. Шака = 1450 г. н. э. (сноска перевода)."
+  themes: [learning, mercy]
+  years: [1450, 1455]
+  date_conf: оценка
+  date_basis: "АП 7.74: рождение в 1372 г. Шака; приход к Адвайте — в пять лет (7.79)"
+  event: ev-haridasa-comes-to-advaita
+  verses:
+    - {file: "advaita-prakash/07.md", from_text: "73. Затем, уви", to_text: "88. Безграничн"}
+
+- id: apr-0024
+  source: advaita-prakasha
+  ref: "Гл. 7, 89–118"
+  file: "advaita-prakash/07.md"
+  period: P01
+  order: 1.91
+  title: "Адвайта посвящает Харидаса: каста не важна, Имя — Брахман; имя Брахма-Харидас"
+  summary: "Харидас признаёт в Адвайте Ишвару и просит лёгкого пути; Адвайта учит: млеччха, обретший бхакти, становится как брахман, без настроения гопи не обрести Кришны, Имя неотлично от Кришны и выше Носителя имени, а без наставления гуру-вайшнава Кришну не достичь; Он бреет Харидасу голову, даёт тилаку, туласи, повязку и Имя и нарекает его Брахма-Харидасом; Харидас даёт обет повторять триста тысяч имён в день."
+  persons: ["@advaita", "@haridasa-thakura"]
+  places: ["#shantipura", "#ganga"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [holy-name, vaishnava, prema]
+  divergence: "Харидас — ученик Адвайты, получивший от Него посвящение и имя."
+  event: ev-haridasa-comes-to-advaita
+  verses:
+    - {file: "advaita-prakash/07.md", from_text: "89. Однажды Ха", to_text: "118. Тогда он о"}
+
+- id: apr-0025
+  source: advaita-prakasha
+  ref: "Гл. 7, 119–156"
+  file: "advaita-prakash/07.md"
+  period: P01
+  order: 1.92
+  title: "Харидас отвечает Тарка-чудамани о Брахмане и творении; Адвайта посвящает Ядунандану Ачарью"
+  summary: "Насмешнику Тарка-чудамани, назвавшему Харидаса безумцем, Харидас при посредничестве учёного Кришнадаса отвечает: Брахман — сат-чит-ананда и имеет форму, безличное сияние — свет Его тела, творение вечно и проявляется во времени, неравенство судеб — от деяний душ, а не вина Ишвары; пришедший Адвайта предстаёт сияющим, и брахман Ядунандана, признав Его, получает мантру Кришны."
+  persons: ["@haridasa-thakura", "@yadunandana-acharya", "@divya-simha", "@advaita", "@mahaprabhu", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "«Учёный Кришнадас» (122) — по-видимому, Лаудия Кришнадас (Дивья Симха). О «независимой авидье» (140): в гаудия-вайшнавском понимании майя действует по воле Господа (ср. 139)."
+  themes: [learning, teaching, mercy]
+  teaching: [vedanta, maya]
+  event: ev-yadunandana-tarka-chudamani
+  verses:
+    - {file: "advaita-prakash/07.md", from_text: "119. Закончив ч", to_text: "156. Уповая на"}
+
+- id: apr-0026
+  source: advaita-prakasha
+  ref: "Гл. 8, 1–48, 101–111"
+  file: "advaita-prakash/08.md"
+  period: P01
+  order: 1.96
+  title: "Нрисимха Бхадури с дочерьми у гхата; Адвайта в царском облике; Шриваса сватает — свадьба с Ситой и Шри"
+  summary: "Сита, приплыв с отцом Нрисимхой Бхадури и сестрой Шри, отдаёт сердце Адвайте, увидев Его у Ганги; Бхадури видит четырёхрукий облик и находит жениха для дочерей; Адвайта силой энергии предстаёт царём во дворце со свитой (Ядунандана — писец, Кришнадас — секретарь, Харидас — министр, Шьямадас — сват); Шриваса объявляет, что Сита — Йогамайя (Паурнамаси), и просит взять в жёны обеих сестёр; Бхадури отдаёт дочерей, Радхе и Мадана-Гопале подносят угощение."
+  persons: ["@advaita", "@sita-thakurani", "@shri-thakurani", "@nrisimha-bhaduri", "@srivasa", "@yadunandana-acharya", "@divya-simha", "@haridasa-thakura", "@shyamadasa-acharya", "@yogamaya"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Отождествление Ситы с Йогамайей (Паурнамаси) — слова Шривасы по тексту."
+  themes: [family, revelation]
+  bhava: [aishvarya]
+  divergence: "Адвайта берёт в жёны двух сестёр — Ситу и Шри; Шриваса присутствует в Шантипуре как сват."
+  event: ev-advaita-marries-sita
+  verses:
+    - {file: "advaita-prakash/08.md", from_text: "1. Слава, слав", to_text: "48. Он — праве"}
+    - {file: "advaita-prakash/08.md", from_text: "101. Шри Адвай", to_text: "111. Этот прас"}
+
+- id: apr-0027
+  source: advaita-prakasha
+  ref: "Гл. 8, 49–100"
+  file: "advaita-prakash/08.md"
+  period: P01
+  order: 1.94
+  title: "Рассказ Шривасы: Сита найдена в лотосе; близнецы Сита и Шри; наставление санньяси; переход через Гангу"
+  summary: "Нрисимха Бхадури из Нараянапура находит в столепестковом лотосе четырёхрукую девочку величиной с палец и приносит её домой в день рождения своей дочери Шри; девочка становится младенцем, и их растят как близнецов; пятилетние Сита и Шри учат санньяси, что освобождение — служанка Бхакти и что пить мёд лучше, чем стать мёдом, а затем пешком переходят Гангу, тогда как подражающие им безбожники тонут."
+  persons: ["@srivasa", "@nrisimha-bhaduri", "@sita-thakurani", "@shri-thakurani", "@advaita"]
+  places: ["#narayanapura", "#ganga"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: "Пять видов освобождения — салокья, саршти, сарупья, самипья, саюджья (сноска перевода)."
+  themes: [celestial, family, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-sita-appearance-lotus
+  verses:
+    - {file: "advaita-prakash/08.md", from_text: "49. Его дочь п", to_text: "100. Сколько т"}
+
+- id: apr-0028
+  source: advaita-prakasha
+  ref: "Гл. 8, 112–124"
+  file: "advaita-prakash/08.md"
+  period: P01
+  order: 1.97
+  title: "Мадхавендра Пури во сне даёт Сите мантру Кришны; Адвайта повторяет посвящение"
+  summary: "Сита и Шри любят друг друга как одна душа и преданно служат Кришне и мужу; Мадхавендра Пури является Сите во сне и даёт ей мантру Кришны, ибо Кришна не принимает пищи от непосвящённого; Адвайта по правилам повторяет посвящение."
+  persons: ["@sita-thakurani", "@shri-thakurani", "@madhavendra-puri", "@advaita", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: vision
+  authority: D
+  parallels: ""
+  notes: "Ишана пишет о том, что открыла ему Мать (Сита) (123)."
+  themes: [celestial, teaching]
+  event: ev-sita-initiation
+  verses:
+    - {file: "advaita-prakash/08.md", from_text: "112. Сита Тхак", to_text: "124. Уповая на"}
+
+- id: apr-0029
+  source: advaita-prakasha
+  ref: "Гл. 9, 1–47"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.5
+  title: "Харидас уходит в Пхулию: посвящение брахмана Рамдаса; лесная хижина в Бенаполе"
+  summary: "С дозволения Адвайты, сказавшего, что кто поклоняется Кришне, тот из касты вайшнавов, Харидас уходит в Пхулию; учёный брахман Рамдас, услышав о превосходстве бхакти над знанием, получает от него Имя; затем, не желая привязываться к месту, Харидас уходит в лес Бенаполя, где селяне строят ему хижину, и он повторяет десять миллионов имён в месяц, служа Туласи."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#shantipura", "#phulia", "#benapola"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [kirtan, mercy, teaching]
+  teaching: [holy-name, bhakti-supremacy, vaishnava]
+  event: ev-haridasa-phulia-benapole
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "1. Слава, слав", to_text: "47. Он просил п"}
+
+- id: apr-0030
+  source: advaita-prakasha
+  ref: "Гл. 9, 48–76"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.6
+  title: "Блудница в Бенаполе приходит в облике вайшнавки и становится Кришнадаси"
+  summary: "Прекрасная блудница предлагает Харидасу наслаждения; он велит ей прийти в облике вайшнавки — с туласи, тилакой и именем Хари на устах; на другой вечер она приходит так, и, слыша её притворное «Хари» и его санкиртану, преображается сердцем; Харидас бреет ей голову, даёт Имя, нарекает Кришнадаси и оставляет хижину ей."
+  persons: ["@haridasa-thakura"]
+  places: ["#benapola"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy]
+  teaching: [holy-name]
+  divergence: "По ЧЧ (Антья 3) блудницу подсылает Рамачандра Хан и она три ночи слушает Имя; здесь она приходит сама и обращается на вторую ночь, в облике вайшнавки."
+  event: ev-haridasa-prostitute
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "48. Однажды бл", to_text: "76. Поразитель"}
+
+- id: apr-0031
+  source: advaita-prakasha
+  ref: "Гл. 9, 77–110"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.7
+  title: "Харидас перед правителем-яваном: спор о писаниях; правитель в страхе раскаивается"
+  summary: "Правитель яванов велит схватить Харидаса за то, что тот, будучи яваном, ведёт себя как индус; связанный Харидас отвечает: лучшее писание — согласное с разумом, убийство коровы противно разуму, Высший Брахман имеет форму; когда он являет своё могущество, правитель с травинкой в зубах просит прощения, и все пляшут, повторяя «Хари»; Харидас уходит в Кулию."
+  persons: ["@haridasa-thakura", "@raghunatha-dasa"]
+  places: ["#phulia", "#kulia"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Слова о «неразличии Бога и души» (96–97) уточнены самим текстом: главным остаётся изначальный огонь — Хари, владыка всего (единство по природе при различии). Упомянуто, что Рагхунатха Дас получил семя бхакти в общении с Харидасом (109)."
+  themes: [muslims, mercy, teaching]
+  divergence: "Нет избиения на двадцати двух базарах (ЧБ Ади 16); правитель сам раскаивается."
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "77. Теперь пос", to_text: "110. Тот, чьей"}
+
+- id: apr-0032
+  source: advaita-prakasha
+  ref: "Гл. 9, 111–122"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.8
+  title: "Змей с самоцветом пляшет под Имя и обретает четырёхрукое тело"
+  summary: "Во время санкиртаны в пещере Харидаса появляется огромный чёрный змей с самоцветом на голове; Харидас бесстрашно берёт его за шею и даёт Имя; змей пляшет кругом со слезами, кланяется стопам вайшнава, обретает четырёхрукое совершенное тело и уходит во Вриндаван."
+  persons: ["@haridasa-thakura"]
+  places: []
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, kirtan]
+  teaching: [holy-name, vaishnava]
+  event: ev-haridasa-snake
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "111. Теперь вк", to_text: "122. Все люди,"}
+
+- id: apr-0033
+  source: advaita-prakasha
+  ref: "Гл. 9, 123–171"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.9
+  title: "Брахманы Шантипура отлучают Адвайту; пир с неузнанным Харидасом; облик Маха-Вишну и Садашивы"
+  summary: "Харидас возвращается в Шантипур, и знатные брахманы отлучают Адвайту за общение с ним; на пиру у богача брахманы, видя, как неизвестный сияющий санньяси исцеляет слепых и хромых, сажают его среди себя; пришедший Адвайта с улыбкой говорит: «Харидас, ты лишил касты стольких брахманов!»; брахманы понимают величие вайшнава, просят прощения, и Адвайта являет им облик Маха-Вишну и Садашивы в одном теле."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [offense, mercy, revelation]
+  bhava: [aishvarya]
+  teaching: [vaishnava, prasada-teaching]
+  event: ev-shantipura-brahmins-haridasa
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "123. Через нес", to_text: "171. У брахман"}
+
+- id: apr-0034
+  source: advaita-prakasha
+  ref: "Гл. 9, 172–176"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 2.95
+  title: "Шраддха-патра для Харидаса: накормить вайшнава — что накормить миллион брахманов"
+  summary: "Чтобы явить невеждам величие вайшнава, Адвайта, обойдя брахманов, отдаёт поминальное блюдо Харидасу: если он поест, это плод угощения миллиона брахманов; Харидас называет Его Шри Вайшнава-ачарьей, и Адвайта рычит от любви."
+  persons: ["@advaita", "@haridasa-thakura"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [prasada, mercy]
+  teaching: [vaishnava]
+  event: ev-shraddha-patra-haridasa
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "172. Чтобы отк", to_text: "176. Услышав и"}
+
+- id: apr-0035
+  source: advaita-prakasha
+  ref: "Гл. 9, 177–192"
+  file: "advaita-prakash/09.md"
+  period: P01
+  order: 4
+  title: "Плач Харидаса о бесчинствах млеччхов; обет Адвайты явить Кришну"
+  summary: "Харидас скорбит: млеччхи разбивают изваяния, жгут «Бхагавату», стирают тилаку, оскверняют Туласи и храмы — почему же Кришна не является, как обещал в Гите?; Адвайта отвечает, что в Кали без явления Самого Кришны средства нет, и обещает явить Кришну и распространить Имя; Он рычит, а Харидас пляшет."
+  persons: ["@haridasa-thakura", "@advaita", "@krishna"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Адвайта даёт обет «следуя мирскому обычаю», хотя знает всю истину (191)."
+  themes: [muslims, celestial]
+  teaching: [yuga-dharma]
+  scriptures: ["Бг. 4.7"]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "advaita-prakash/09.md", from_text: "177. В общении", to_text: "192. Уповая на"}
+
+- id: apr-0036
+  source: advaita-prakasha
+  ref: "Гл. 10, 1–20"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 19
+  title: "Цветы Адвайты плывут по Ганге и прильнули к Шачи; от поклона Адвайты у неё выкидыш"
+  summary: "Адвайта подносит Кришне цветы, туласи и воду Ганги, и Кришна притягивает пригоршню цветов, которая плывёт в Надию и прилипает к беременной Шачи; узнав в ней мать Кришны, Адвайта кланяется плоду, но плод обычный, и у Шачи случается выкидыш; Джаганнатха Мишра утешает жену: причина всему — Ишвара."
+  persons: ["@advaita", "@haridasa-thakura", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0015; Мурари: mkc-0005"
+  notes: ""
+  themes: [family, celestial]
+  divergence: "Гибель детей Шачи объясняется поклонами Адвайты (по ЧЧ Ади 13 — умирают восемь дочерей, без такой причины)."
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "1. Слава, слав", to_text: "20. Оставь ско"}
+
+- id: apr-0037
+  source: advaita-prakasha
+  ref: "Гл. 10, 21–29"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 12
+  title: "Адвайта открывает школу в Навадвипе; ученики — Шриваса, Вишнудас Ачарья, Васудева Датта"
+  summary: "Ради Гауранги Адвайта открывает в Навадвипе школу (тол), куда приходят пандиты; Шриваса радуется Ему; днём Он учит Гите и «Бхагавате», ночью поёт с Харидасом санкиртану; Вишнудас Ачарья, Нандини, Васудева Датта и другие принимают у Него мантру."
+  persons: ["@advaita", "@srivasa", "@haridasa-thakura", "@vishnudasa-acharya", "@vasudeva-datta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Тол — традиционная санскритская школа (сноска перевода)."
+  themes: [learning, kirtan]
+  event: ev-advaita-tol-navadvipa
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "21. А здесь Шр", to_text: "29. С множеств"}
+
+- id: apr-0038
+  source: advaita-prakasha
+  ref: "Гл. 10, 30–50"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 18
+  title: "Восемь потерянных плодов; Мишра молит Адвайту; посвящение Мишры и Шачи в мантру Гаура-Гопалы"
+  summary: "Когда от поклонов Адвайты погибает восьмой плод, Шачи просит мужа что-то сделать; Джаганнатха Мишра молит Адвайту сохранить род; Адвайта приходит к ним, благословляет Шачи стать матерью сына и даёт обоим полученную во сне четырёхсложную мантру Шри Гаура-Гопалы."
+  persons: ["@advaita", "@jagannatha-mishra", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [family, teaching]
+  divergence: "Шачи и Джаганнатха Мишра — ученики Адвайты; другие жизнеописания этого не сообщают."
+  event: ev-advaita-initiates-mishra-shachi
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "30. Плоды за п", to_text: "50. «Да обрати"}
+
+- id: apr-0039
+  source: advaita-prakasha
+  ref: "Гл. 10, 51–53"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 20
+  title: "Рождение Вишварупы — Маха-Санкаршаны"
+  summary: "Через несколько дней Шачи зачинает, и рождается Вишварупа, которого Адвайта называет Маха-Санкаршаной; с рождения он отрешён и вместе с Ачарьей проповедует дхарму."
+  persons: ["@vishvarupa", "@shachi", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0015; Мурари: mkc-0005"
+  notes: ""
+  themes: [family]
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "51. Через неск", to_text: "53. С рождения"}
+
+- id: apr-0040
+  source: advaita-prakasha
+  ref: "Гл. 10, 54–58"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 50
+  title: "Рык Адвайты притягивает Кришну; луна Гауры восходит в лоне Шачи"
+  summary: "Каждый день Адвайта рычит: «Приди, Гаура Хари!»; этот рык — великая мантра, притягивающая Кришну, и Кришна в чистой благости нисходит в Надию; по сиянию тела Шачи Ачарья понимает, что в её лоне взошла луна Гауры."
+  persons: ["@advaita", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: pre-advent
+  authority: D
+  parallels: "Лочан: lcm-0032; Мурари: mkc-0014"
+  notes: ""
+  themes: [celestial, revelation]
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "54. Теперь рас", to_text: "58. В лоне Шач"}
+
+- id: apr-0041
+  source: advaita-prakasha
+  ref: "Гл. 10, 59–70"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 55
+  title: "Снова цветы к Шачи; Адвайта обходит её и кланяется Плоду: «Родится сын, подобный Кришне»"
+  summary: "Адвайта пускает по Ганге три пригоршни цветов, и они снова прильнули к Шачи; рыча «Гаура Хари!», Он обходит Шачи и кланяется плоду в её лоне; Шачи просит не кланяться ученице, а Адвайта уверяет: из этого лона родится сын, подобный Кришне."
+  persons: ["@advaita", "@shachi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: pre-advent
+  authority: D
+  parallels: "Лочан: lcm-0033"
+  notes: ""
+  themes: [celestial, family]
+  event: ev-advaita-worships-shachi-womb
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "59. Однажды Го", to_text: "70. Услышав эт"}
+
+- id: apr-0042
+  source: advaita-prakasha
+  ref: "Гл. 10, 71–95"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 70
+  title: "Тринадцать месяцев; явление Гауранги в пхалгуна-пурниму 1407 г. Шака при затмении"
+  summary: "Проходит двенадцать месяцев, и Ниламбара Чакраварти предсказывает явление на тринадцатом; Нанданандана, затаив три желания и приняв чувства и сияние Радхи, является в облике Гауры в полнолуние пхалгуны 1407 г. Шака, под знаком Льва, при лунном затмении и празднике качелей; все поют имя Хари, Нитьянанда в Радха-деше рокочет от любви; Шачи без чувств, Джаганнатха славит Вишну, но Гаура покрывает их родительским чувством; Адвайта и Харидас ликуют."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@nilambara-chakravarti", "@nityananda", "@advaita", "@haridasa-thakura", "@radha"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#radha-desha"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0005; Джаянанда: jcm-0018; Лочан: lcm-0035; Мурари: mkc-0016"
+  notes: "Три желания Кришны — по ЧЧ (сноска перевода). Родители и обитель Господа духовны (77–80)."
+  themes: [celestial, family, festival]
+  teaching: [gaura-tattva]
+  calendar: "пхалгуна, пурнима; лунное затмение; праздник качелей (Дола)"
+  date_basis: "АП 10.83: пхалгуна-пурнима 1407 г. Шака (1486)"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "71. И вот у Ша", to_text: "95. Харидас и д"}
+
+- id: apr-0043
+  source: advaita-prakasha
+  ref: "Гл. 10, 96–126"
+  file: "advaita-prakash/10.md"
+  period: P02
+  order: 3
+  title: "Младенец не берёт грудь: мать не слышала Имени; Гаура называет Адвайте маха-мантру"
+  summary: "Новорождённый, как йогин, лежит с закрытыми глазами и не пьёт молока; Адвайта приходит, и Гаура с улыбкой просыпается; Адвайта, сказав, что пятьдесят два года ждал Его, спрашивает, почему Он не ест, и Гаура объясняет: прежде мантры надо дать Имя — мать получила посвящение, не услышав Имени; Он произносит маха-мантру; Адвайта кладёт Младенца под дерево ним, даёт Шачи Имя — и Младенец пьёт молоко."
+  persons: ["@mahaprabhu", "@advaita", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Адвайта на 52 года старше Господа (сноска перевода)."
+  themes: [revelation, family]
+  bhava: [child]
+  teaching: [holy-name]
+  event: ev-newborn-refuses-milk
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "96. Шри Гауран", to_text: "126. Увидев эт"}
+
+- id: apr-0044
+  source: advaita-prakasha
+  ref: "Гл. 10, 127–132"
+  file: "advaita-prakash/10.md"
+  period: P02
+  order: 5
+  title: "Адвайта нарекает Младенца Нимаем — в честь дерева ним"
+  summary: "Брахманы и их жёны благословляют Младенца, и Адвайта говорит: «Пусть Его зовут Нимай»; люди хвалят старца как Вайдьянатху, а Он приписывает исцеление дереву ним и ночь проводит в санкиртане с преданными."
+  persons: ["@advaita", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0036; Мурари: mkc-0018"
+  notes: "Имя Нимай связано с деревом ним (сноска перевода)."
+  themes: [family, kirtan]
+  divergence: "Имя Нимай даёт Адвайта."
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "127. Брахманы и", to_text: "132. Сказав та"}
+
+- id: apr-0045
+  source: advaita-prakasha
+  ref: "Гл. 10, 133–139"
+  file: "advaita-prakash/10.md"
+  period: P02
+  order: 4
+  title: "Сита-деви созерцает явление Кришны в облике Радхи и приходит благословить Гаурангу"
+  summary: "Сита, супруга Адвайты, — Паурнамаси-Йогамайя — в день праздника качелей умом видит Кришну, явившегося в Навадвипе в облике Радхи, поспешно приходит и благословляет Гаурангу зерном и травой дурва."
+  persons: ["@sita-thakurani", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [family, celestial]
+  event: ev-sita-visits-newborn
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "133. Эту игру п", to_text: "139. Увидев Шр"}
+
+- id: apr-0046
+  source: advaita-prakasha
+  ref: "Гл. 10, 140–153"
+  file: "advaita-prakash/10.md"
+  period: P02
+  order: 20
+  title: "Имена Вишвамбхара, Гаура, Гаура Хари; плач, стихающий от Имени; первый рис"
+  summary: "Люди видят на Младенце знаки Великой Личности; Ниламбара нарекает Его Вишвамбхарой, по золотистому цвету Его зовут Гаура, Гауранга, Шачи — Горачандом; Он плачет и улыбается, услышав имя Хари, и женщины нарочно доводят Его до слёз, чтобы петь Имя, называя Его Гаура Хари, а преданные — Гаура-Говиндой; Мишра совершает обряд первого риса."
+  persons: ["@mahaprabhu", "@nilambara-chakravarti", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0019; Лочан: lcm-0038; Мурари: mkc-0019"
+  notes: ""
+  themes: [family, festival]
+  bhava: [child]
+  teaching: [holy-name]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "140. Услышав о", to_text: "153. В должное"}
+
+- id: apr-0047
+  source: advaita-prakasha
+  ref: "Гл. 10, 154–156"
+  file: "advaita-prakash/10.md"
+  period: P04
+  order: 20
+  title: "Пятилетний Гаура получает мел и осваивает азбуку"
+  summary: "Детские игры Гауранги — океан нектара; когда Ему исполняется пять лет, Мишра в благоприятный миг вкладывает Ему в руку мел, и, запоминающий с одного слышания, Он быстро осваивает азбуку."
+  persons: ["@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0057"
+  notes: ""
+  themes: [learning]
+  event: ev-hate-khadi
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "154. Детские и", to_text: "156. Шриман Га"}
+
+- id: apr-0048
+  source: advaita-prakasha
+  ref: "Гл. 10, 157–161"
+  file: "advaita-prakash/10.md"
+  period: P04
+  order: 70
+  title: "Учёба у Гангадаса; упанаяна; мантра Вишну от отца"
+  summary: "Мишра отдаёт Гауру учиться у Гангадаса Пандита, и за два года Он заканчивает грамматику; в своё время Он получает священный шнур, и Мишра даёт Ему мантру Вишну; Ишана пишет суть того, что слышал из уст Господа (Адвайты)."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@gangadasa-pandita", "@ishana-nagara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0027; Лочан: lcm-0066; Мурари: mkc-0034"
+  notes: "Шнур даёт «Бхарати» (159) — без уточнения."
+  themes: [learning, festival]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "157. Затем Миш", to_text: "161. Уповая на"}
+
+- id: apr-0049
+  source: advaita-prakasha
+  ref: "Гл. 11, 1–20"
+  file: "advaita-prakash/11.md"
+  period: P04
+  order: 5
+  title: "Рождение Ачьютананды в вайшакха-пурниму 1414 г. Шака; гопи в мужском облике"
+  summary: "В полнолуние вайшакхи 1414 г. Шака Сита рождает сына дивной красоты; астролог говорит, что это одна из гопи Враджа, принявшая мужской облик, чтобы учить людей; рык Адвайты даёт Гауранге знать о явлении любимого преданного; жрец нарекает младенца Ачьютанандой — садху зовут его Ачьюта-сакхи; Адвайта совершает первое кормление рисом, поднеся угощение Мадана-Гопале, а в пять лет — начало учёбы."
+  persons: ["@achyutananda", "@sita-thakurani", "@advaita", "@mahaprabhu", "@madana-gopala-deity"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1414 г. Шака = 1492 г. н. э. (сноска перевода)."
+  themes: [family, festival]
+  calendar: "вайшакха, пурнима"
+  years: [1492, 1492]
+  date_conf: оценка
+  date_basis: "АП 11.4: вайшакха-пурнима 1414 г. Шака"
+  event: ev-achyutananda-birth
+  verses:
+    - {file: "advaita-prakash/11.md", from_text: "1. Слава, слав", to_text: "20. Когда Шри А"}
+
+- id: apr-0050
+  source: advaita-prakasha
+  ref: "Гл. 11, 21–26"
+  file: "advaita-prakash/11.md"
+  period: PX
+  order: 10
+  title: "Ишана о себе: пятилетним с матерью пришёл к Адвайте; Сита растила его как сына"
+  summary: "В день, когда Ачьюта начал учиться, в Шантипур пришла мать Ишаны и приняла прибежище у Адвайты; Адвайта дал ей мантру Кришны, а пятилетнего Ишану очистил Именем; Сита растила его как родного сына; Адвайта говорил, что мать Ишаны будет жить на Вайкунтхе."
+  persons: ["@ishana-nagara", "@advaita", "@sita-thakurani", "@achyutananda"]
+  places: ["#shantipura"]
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "Автор рассказывает о своём детстве в доме Адвайты (сноска перевода)."
+  themes: [author]
+  verses:
+    - {file: "advaita-prakash/11.md", from_text: "21. В тот самы", to_text: "26. Господь го"}
+
+- id: apr-0051
+  source: advaita-prakasha
+  ref: "Гл. 11, 27–53"
+  file: "advaita-prakash/11.md"
+  period: P05
+  order: 5
+  title: "Рождение Кришнадаса (1418 г. Шака): Сита отдаёт младенца скорбящей сестре Шри"
+  summary: "В конце 1418 г. Шака, в тринадцатый день тёмной половины чайтры, на исходе ночи Сита рождает второго сына; у Шри в тот же час умирает новорождённый, и Сита с дозволения Адвайты отдаёт ей своего сына, объявив его сыном Шри — тайну знают лишь мать Ишаны, Падманабха Чакраварти и ещё двое; астролог видит в нём Шестиликого (Карттикею), и жрец нарекает его Кришнадасом."
+  persons: ["@krishna-mishra", "@sita-thakurani", "@shri-thakurani", "@advaita", "@padmanabha-chakravarti", "@kartikeya", "@madana-gopala-deity"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1418 г. Шака — 1496/97 г.; месяц Мадху — чайтра (сноска перевода)."
+  themes: [family]
+  calendar: "мадху (чайтра), тёмная половина, 13-й день, на исходе ночи"
+  years: [1497, 1497]
+  date_conf: оценка
+  date_basis: "АП 11.28: конец 1418 г. Шака, месяц Мадху"
+  event: ev-krishna-mishra-birth
+  verses:
+    - {file: "advaita-prakash/11.md", from_text: "27. Теперь пос", to_text: "53. Затем Шри А"}
+
+- id: apr-0052
+  source: advaita-prakasha
+  ref: "Гл. 11, 54–72"
+  file: "advaita-prakash/11.md"
+  period: P05
+  order: 7
+  title: "Рождение Гопаладаса (1422 г. Шака): младенец открывает глаза при имени «Гаура Хари»"
+  summary: "В двенадцатый день светлой половины карттики 1422 г. Шака Сита рождает третьего сына, лежащего словно мёртвый; от рыка Адвайты «Гаура Хари!» он открывает глаза в слезах любви; астролог видит в нём Ганешу, жрец нарекает его Гопаладасом; младенец бросает молоко, слушая санкиртану, — так же было и с Кришнадасом."
+  persons: ["@gopala-dasa-advaita", "@sita-thakurani", "@advaita", "@ganesha", "@krishna-mishra", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1422 г. Шака = 1500 г. н. э. (сноска перевода)."
+  themes: [family, kirtan]
+  calendar: "карттика, светлая половина, 12-й день"
+  years: [1500, 1500]
+  date_conf: оценка
+  date_basis: "АП 11.55: карттика 1422 г. Шака"
+  event: ev-gopala-dasa-birth
+  verses:
+    - {file: "advaita-prakash/11.md", from_text: "54. Послушайте", to_text: "72. Уповая на с"}
+
+- id: apr-0053
+  source: advaita-prakasha
+  ref: "Гл. 12, 1–31"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8
+  title: "Гаура и Гададхара приходят к Адвайте изучать Веды; пятилетний Кришнадас получает имя Кришнамишра"
+  summary: "Гаура и Гададхара приходят к Адвайте, и Гададхара рассказывает, как Гаура учился: грамматика у Гангадаса, поэтика, смрити и астрономия у Вишну Мишры, философия у Сударшаны, логика у Васудевы Сарвабхаумы, — а теперь пришёл слушать Веды; студенту, спрашивающему, как познать Брахман, Гаура отвечает о Творце как причине мира, а пятилетний Кришнадас говорит: «Обзаведись очами преданности — и увидишь Ишвару»; Адвайта пляшет, а Гаура нарекает мальчика Кришнамишрой."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@advaita", "@krishna-mishra", "@gangadasa-pandita", "@vishnu-pandita", "@sudarshana-pandita", "@sarvabhauma"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Отождествление «Вишну Мишры» (14) с Вишну Пандитом предположительно."
+  themes: [learning, revelation]
+  teaching: [vedanta]
+  divergence: "Учёба Господа у Сарвабхаумы и у Адвайты (Веды) другим жизнеописаниям неизвестна."
+  event: ev-gaura-studies-with-advaita
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "1. Слава, слав", to_text: "31. С тех пор Г"}
+
+- id: apr-0054
+  source: advaita-prakasha
+  ref: "Гл. 12, 32–68"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8.2
+  title: "Бананы для Гауры: Кришнамишра предлагает их «Гаурайа намах»; Гаура отрыгивает бананами"
+  summary: "Сита прячет любимые Гаурангой бананы; маленький Кришнамишра находит их, предлагает Гауре с мантрой «Гаурайа намах» и съедает как прасад; Ачьюта признаётся лишь, что прежде выпил молоко для Гауры, — и след материнского шлепка проявился на теле Гауры; Сита гонится с палкой за Кришнамишрой, Адвайта выслушивает его — «в Гауре заключено имя Кришны»; Гаура же отказывается от еды: кто-то во сне накормил Его бананами, — и отрыгивает их запахом."
+  persons: ["@sita-thakurani", "@krishna-mishra", "@achyutananda", "@advaita", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [prasada, pranks, revelation]
+  teaching: [gaura-tattva]
+  event: ev-krishna-mishra-bananas
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "32. Послушайте", to_text: "68. Я поистине"}
+
+- id: apr-0055
+  source: advaita-prakasha
+  ref: "Гл. 12, 69–80"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8.4
+  title: "Юный Локанатх из Джессора приходит учиться к Адвайте и с Гададхарой изучает «Бхагавату»"
+  summary: "Юный брахман Локанатх Чакраварти, сын ученика Адвайты Падманабхи из Джессора, приходит учиться; по желанию отца он изучает «Бхагавату» с комментарием вместе с Гададхарой Пандитом, а Гаура, слушая их чтение, запоминает стихи и смысл."
+  persons: ["@lokanatha", "@padmanabha-chakravarti", "@advaita", "@gadadhara-pandita", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning]
+  event: ev-lokanatha-comes-to-advaita
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "69. И вот одна", to_text: "80. Слушая их ч"}
+
+- id: apr-0056
+  source: advaita-prakasha
+  ref: "Гл. 12, 81–90"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8.3
+  title: "Первый рис Гопаладаса: из всех предметов младенец касается стоп Гауранги"
+  summary: "На обряде первого риса младенец Гопаладас не трогает разложенных перед ним предметов, а касается стоп Гауранги; Адвайта предсказывает, что он станет венцом праведных, говорит, что стопа брахмана равна стопе Вишну, и намёками раскрывает истину о Гауранге; все пляшут в санкиртане, а Гаура смеётся, глядя на пляску Кришнамишры."
+  persons: ["@gopala-dasa-advaita", "@mahaprabhu", "@advaita", "@haridasa-thakura", "@achyutananda", "@krishna-mishra"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Обычай: что ребёнок выберет, то и предвещает его будущее (сноска перевода)."
+  themes: [festival, revelation, kirtan]
+  event: ev-gopala-annaprashana
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "81. Однажды Си", to_text: "90. Так день о"}
+
+- id: apr-0057
+  source: advaita-prakasha
+  ref: "Гл. 12, 91–105"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8.45
+  title: "Год учёбы Гауры; Локанатх принимает мантру в водах Ганги и вверен Нимаю"
+  summary: "За год Гаура изучает Веды и «Бхагавату»; Гададхара, «внутренняя энергия Кришны», обретает дивную учёность в «Бхагавате», Локанатх становится её знатоком и плачет от любви; он просит наставления, принимает от Адвайты мантру Кришны, стоя в Ганге, и Адвайта вверяет его Нимаю, чтобы тот научил его постижению истины."
+  persons: ["@mahaprabhu", "@advaita", "@gadadhara-pandita", "@lokanatha"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, mercy]
+  event: ev-lokanatha-comes-to-advaita
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "91. Так прошёл", to_text: "105. Сказав та"}
+
+- id: apr-0058
+  source: advaita-prakasha
+  ref: "Гл. 12, 106–120"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 8.5
+  title: "Звание Видьясагара; Гаура возвращается к Шачи и побеждает пандитов Навадвипы"
+  summary: "Гаура просит позволения вернуться домой; Адвайта в слезах даёт Ему звание Видьясагара; с Гададхарой и Локанатхом Гаура возвращается к Шачи, которая бродила без Него, как корова без телёнка, обедает с преданными и в городе побеждает в спорах великих пандитов."
+  persons: ["@mahaprabhu", "@advaita", "@gadadhara-pandita", "@lokanatha", "@shachi"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, family]
+  bhava: [teacher]
+  event: ev-gaura-studies-with-advaita
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "106. Однажды Г", to_text: "120. Все говор"}
+
+- id: apr-0059
+  source: advaita-prakasha
+  ref: "Гл. 12, 121–124"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 25
+  title: "Женитьба Гауры на Лакшми, дочери Валлабхачарьи"
+  summary: "Слава учёного Гауры растёт, и в Навадвипе Он берёт в жёны Лакшми, дочь благородного Валлабхачарьи, подобного Бхишмаке; Адвайта называет её Шри Рукмини."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0041; Лочан: lcm-0070, lcm-0071, lcm-0072, lcm-0073, lcm-0074, lcm-0075, lcm-0076; Мурари: mkc-0038, mkc-0039, mkc-0040, mkc-0041, mkc-0042"
+  notes: "Бхишмака — отец Рукмини (сноска перевода). Упоминание."
+  themes: [family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "121. Мало-пома", to_text: "124. Мой Госпо"}
+
+- id: apr-0060
+  source: advaita-prakasha
+  ref: "Гл. 12, 125–143"
+  file: "advaita-prakash/12.md"
+  period: P05
+  order: 40
+  title: "Ачьюта в школе Гауры: «С чем сравнить Мадана-Гопалу?» — нектар имени слаще нектара"
+  summary: "Гаура открывает школу; к Нему приходит учиться Ачьютананда; на вопрос, как лицо может сравниваться с пятнистой луной, Гаура отвечает, что сравнение — в радостности; на вопрос, с чем сравнить Кришну, — что Он то, с чем сравнивают, а Ему сравнения нет, как нектару; Ачьюта добавляет, что нектар имени Хари слаще нектара, и Гаура, растаяв от любви, целует его в голову."
+  persons: ["@mahaprabhu", "@achyutananda", "@madana-gopala-deity", "@ishana-nagara"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [learning, teaching]
+  bhava: [teacher]
+  teaching: [holy-name]
+  event: ev-achyuta-studies-with-gaura
+  verses:
+    - {file: "advaita-prakash/12.md", from_text: "125. Затем Гор", to_text: "143. Уповая на"}
+
+- id: apr-0061
+  source: advaita-prakasha
+  ref: "Гл. 13, 1–18"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 45
+  title: "Ишвара Пури у Адвайты и в Навадвипе: встреча с Гаурой"
+  summary: "В Навадвипу приходит Ишвара Пури, ученик Мадхавендры, «воплощение уджджвала-расы», и останавливается у Адвайты; оба погружаются в беседы о Кришне, рыдают и рычат; затем Пури видит Гаурангу, понимает, что это Сам Бхагаван, получает от Него угощение и, видя, что время проявления ещё не настало, уходит по святым местам."
+  persons: ["@ishvara-puri", "@advaita", "@madhavendra-puri", "@mahaprabhu"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [ecstasy, learning]
+  event: ev-ishvara-puri-navadvipa
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "1. Слава, слав", to_text: "18. Несколько д"}
+
+- id: apr-0062
+  source: advaita-prakasha
+  ref: "Гл. 13, 19–55"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 65
+  title: "Восточная Бенгалия: в доме Падманабхи; спор с Тарка-чудамани; «суть всего — имя Хари»"
+  summary: "Простившись с Шачи, Гаура с учениками идёт на восток в дом Падманабхи Чакраварти, отца Локанатха, который узнаёт в Нём Кришну; толпы стекаются видеть Нимая Пандита, обнимающего Ачьюту; ночью на собрании Он опровергает логика Тарка-чудамани, а преданному брахману отвечает, что для людей Кали суть всего — имя Хари."
+  persons: ["@mahaprabhu", "@shachi", "@lokanatha", "@padmanabha-chakravarti", "@achyutananda"]
+  places: ["#east-bengal"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0043; Лочан: lcm-0079, lcm-0080; Мурари: mkc-0043"
+  notes: "Тарка-чудамани здесь — местный пандит; не путать с Ядунанданой Ачарьей (гл. 7)."
+  themes: [learning, teaching, pilgrimage]
+  teaching: [holy-name, yuga-dharma]
+  divergence: "Господь гостит у Падманабхи Чакраварти; с Ним — Ачьюта и Локанатх."
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "19. Однажды Шр", to_text: "55. Великой бы"}
+
+- id: apr-0063
+  source: advaita-prakasha
+  ref: "Гл. 13, 56–64"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 66
+  title: "На берегу Падмавати: учёные и студенты стекаются к автору комментария «Видьясагара»"
+  summary: "Гаура поселяется на берегу Падмавати — «второго тела Лакшми»; разносится молва о пандите из Навадвипы, сочинившем комментарий «Видьясагара»; учителя приходят с дарами, студенты, поучившись у Него немного, получают учёные звания."
+  persons: ["@mahaprabhu"]
+  places: ["#padmavati", "#east-bengal"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0043; Лочан: lcm-0079, lcm-0080; Мурари: mkc-0043"
+  notes: ""
+  themes: [learning, pilgrimage]
+  bhava: [teacher]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "56. Затем Гаур", to_text: "64. Пришло учи"}
+
+- id: apr-0064
+  source: advaita-prakasha
+  ref: "Гл. 13, 65"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 80
+  title: "Уход Лакшми-деви, ужаленной змеёй разлуки"
+  summary: "Тем временем в Навадвипе Лакшми-деви, ужаленная змеёй разлуки с Гаурангой, покидает мир."
+  persons: ["@lakshmipriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0081, lcm-0082; Мурари: mkc-0044, mkc-0045; Карнапура (ЧЧд): ccd-0008; Джаянанда: jcm-0044"
+  notes: "Упоминание."
+  themes: [separation, departure]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "65. А тем врем", to_text: "65. А тем врем"}
+
+- id: apr-0065
+  source: advaita-prakasha
+  ref: "Гл. 13, 66–71"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 70
+  title: "Тапана Мишра поведал Господу свой сон; Господь велит ему идти в Каши"
+  summary: "Перед возвращением к Гауре приходит праведник, видевший сон, и тайно рассказывает его; Господь велит хранить тайну и идти в Каши, где они встретятся и его желание исполнится; так Тапана Мишра уходит в Каши."
+  persons: ["@mahaprabhu", "@tapana-mishra"]
+  places: ["#east-bengal", "#kashi"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy]
+  event: ev-tapana-mishra-east-bengal
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "66. Через неск", to_text: "71. Звали его Т"}
+
+- id: apr-0066
+  source: advaita-prakasha
+  ref: "Гл. 13, 72–74"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 85
+  title: "Возвращение с богатством; скорбь о Лакшми, утешение Шачи"
+  summary: "Осчастливив Восточную Бенгалию, Вишвамбхара с большим богатством возвращается в Навадвипу, узнаёт об уходе Лакшми, выражает скорбь и утешает мать."
+  persons: ["@mahaprabhu", "@shachi", "@lakshmipriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0045; Лочан: lcm-0083; Мурари: mkc-0046"
+  notes: ""
+  themes: [family, separation]
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "72. Так осчаст", to_text: "74. Видя мать Ш"}
+
+- id: apr-0067
+  source: advaita-prakasha
+  ref: "Гл. 13, 75–81"
+  file: "advaita-prakash/13.md"
+  period: P05
+  order: 100
+  title: "Женитьба на Вишнуприи, дочери Санатаны Мишры"
+  summary: "Преданные и друзья устраивают женитьбу Гауранги на Вишнуприи, дочери раджа-пандита Санатаны Мишры, которого Адвайта называет Сатраджитом, а её — Шри Сатьей; в доме Шачи великий праздник; рассказ передан Ишане Ачьютой."
+  persons: ["@mahaprabhu", "@vishnupriya", "@sanatana-mishra", "@shachi", "@achyutananda", "@ishana-nagara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0086, lcm-0087, lcm-0088, lcm-0089; Мурари: mkc-0050, mkc-0051, mkc-0052, mkc-0053"
+  notes: "Сатраджит — отец Сатьябхамы (сноска перевода)."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "advaita-prakash/13.md", from_text: "75. Затем пред", to_text: "81. Уповая на с"}
+
+- id: apr-0068
+  source: advaita-prakasha
+  ref: "Гл. 14, 1–19"
+  file: "advaita-prakash/14.md"
+  period: P06
+  order: 40
+  title: "Гая: посвящение от Ишвары Пури; в зеркале мантры Господь видит Свой облик"
+  summary: "В Гае Господь подносит пинды к стопам Гададхары, всю ночь беседует с Ишварой Пури о Кришне и принимает от него десятисложную мантру, которая являет Ему Кришну воочию; Пури говорит: «Ты увидел Своё отражение в зеркале мантры; сиянием Радхи Ты покрыл Своё тело и вкушаешь Свою сладость», — и в экстазе пляшет."
+  persons: ["@mahaprabhu", "@ishvara-puri", "@jagannatha-mishra", "@radha"]
+  places: ["#gaya"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0011; Джаянанда: jcm-0034; Лочан: lcm-0093; Мурари: mkc-0057"
+  notes: ""
+  themes: [teaching, revelation, ecstasy]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "1. Слава, слав", to_text: "19. Увидев ско"}
+
+- id: apr-0069
+  source: advaita-prakasha
+  ref: "Гл. 14, 20–21"
+  file: "advaita-prakash/14.md"
+  period: P06
+  order: 60
+  title: "Кумарахатта — родина Ишвары Пури"
+  summary: "Затем Вишвамбхара идёт в Кумарахатту, святое место рождения Ишвары Пури, очень хвалит его и, поклонившись Пури, прощается."
+  persons: ["@mahaprabhu", "@ishvara-puri"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0035; Лочан: lcm-0095; Мурари: mkc-0061"
+  notes: "Упоминание."
+  themes: [pilgrimage]
+  event: ev-gaya-heavenly-voice-return
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "20. Затем Гаур", to_text: "21. Гаура очен"}
+
+- id: apr-0070
+  source: advaita-prakasha
+  ref: "Гл. 14, 22–48"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 10
+  title: "После Гаи: тилака и туласи — «вечный долг»; рассказ о стопе Гаясуры; в каждой сутре — Кришна"
+  summary: "Друзья смеются над новым обликом Нимая — тилакой на двенадцати частях тела и бусами туласи; Он отвечает, что это вечный долг; Гададхаре Он рассказывает о стопе Хари на голове Гаясуры и плачет, рыча «Кришна, Кришна!» — преданные поют санкиртану; студентам Он в каждой сутре объясняет Кришну: «звуковой Брахман — это Кришна»; Ачьюта и другие обретают отрешённость."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@srivasa", "@achyutananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0037; Лочан: lcm-0097; Мурари: mkc-0064"
+  notes: ""
+  themes: [teaching, ecstasy, learning]
+  teaching: [purity, scripture]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "22. Постепенно", to_text: "48. А другие с"}
+
+- id: apr-0071
+  source: advaita-prakasha
+  ref: "Гл. 14, 49–64"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 15
+  title: "Адвайта открывает тайну: во сне Вишвамбхара разъяснил Ему стих Гиты"
+  summary: "Услышав о проявлении любви Гауры, Адвайта рассказывает: однажды, не сумев согласовать стих Гиты, Он лёг, постясь, и некто во сне объяснил ему смысл, — открыв глаза, Он увидел стоящего Вишвамбхару, который тут же исчез; Адвайта рычит: «Я затоплю страну половодьем любви!»"
+  persons: ["@advaita", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: vision
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [revelation, kirtan]
+  scriptures: ["Бхагавад-гита"]
+  event: ev-advaita-gita-dream
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "49. Видя ликов", to_text: "64. Затем все п"}
+
+- id: apr-0072
+  source: advaita-prakasha
+  ref: "Гл. 14, 65–70"
+  file: "advaita-prakash/14.md"
+  period: P01
+  order: 30
+  title: "Явление Нитьянанды в Экачакре: магха, 13-й день, 1395 г. Шака"
+  summary: "В Экачакре в краю Радха у Хадаи Пандита (воплощения Васудевы) и Падмавати (Рохини) в тринадцатый день светлой половины магхи 1395 г. Шака является Нитьянанда — Баларама Враджа."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@balarama"]
+  places: ["#ekachakra", "#radha-desha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1395 г. Шака — 1473/74 г. (сноска перевода)."
+  themes: [family, celestial]
+  teaching: [associates-tattva]
+  calendar: "магха, светлая половина, 13-й день"
+  years: [1474, 1474]
+  date_conf: оценка
+  date_basis: "АП 14.69: магха 1395 г. Шака"
+  event: ev-nityananda-birth
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "65. Теперь пос", to_text: "70. Тот, кто в"}
+
+- id: apr-0073
+  source: advaita-prakasha
+  ref: "Гл. 14, 71–97"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 106
+  title: "Нитьянанда приходит из Враджа в дом Нанданы Ачарьи; встреча с Гаурой"
+  summary: "Покинув дом с санньяси, Нитьянанда обходит святыни и во Врадже чувствует явление Гауры; Он приходит в Навадвипу в дом Нанданы Ачарьи; Вишвамбхара с преданными идёт к Нему и кланяется; Нитьянанда, видя в Гауре Кришну, цепенеет, а услышав по велению Гауры стих «Бхагаваты», лишается чувств, рыдает и рычит; Гаура называет Его тучей преданности, а Нитьянанда Его — океаном любви, причиной тучи; с тех пор они каждый день поют санкиртану."
+  persons: ["@nityananda", "@mahaprabhu", "@nandana-acharya"]
+  places: ["#vrindavana", "#navadvipa", "#house-nandana-acharya"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0046; Лочан: lcm-0124, lcm-0125; Мурари: mkc-0091, mkc-0092, mkc-0093"
+  notes: ""
+  themes: [ecstasy, revelation, kirtan]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "71. Под предло", to_text: "97. С тех пор Ш"}
+
+- id: apr-0074
+  source: advaita-prakasha
+  ref: "Гл. 14, 98–137"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 112.8
+  title: "Адвайта нарочно толкует «Йога-Васиштху»; Господь в гневе Нрисимхи сбрасывает Его с помоста; комментарий «Бхакти-вартма»"
+  summary: "Чтобы испытать Кришну, Адвайта в Шантипуре начинает учить, что знание выше преданности; Гаура с Нитьянандой приходит, в исступлении Нрисимхи бранит «Наду» и сбрасывает Его с помоста; Адвайта лишается чувств от любви, видит Кришну с флейтой, покрытого сиянием Радхи, признаёт оскорбление и показывает Свои комментарии «Бхакти-вартма» к «Йога-Васиштхе» и Гите, которые Гаура и Нитьянанда восхваляют; Гаура и Нитьянанда пляшут, Харидас рычит."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@sita-thakurani", "@haridasa-thakura", "@achyutananda"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Адвайта проповедует знание нарочно, чтобы вызвать наказание; «Нада» — фамильярное прозвище Адвайты (сноска перевода). Сознание «Я есть Он» названо оскорблением Кришны (121)."
+  themes: [teaching, revelation, offense]
+  bhava: [nrisimha]
+  teaching: [bhakti-supremacy, vedanta]
+  scriptures: ["Йога-Васиштха", "Бхагавад-гита"]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "98. Однажды Шр", to_text: "137. Харидас, в"}
+
+- id: apr-0075
+  source: advaita-prakasha
+  ref: "Гл. 14, 138–154"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 112.9
+  title: "Три Господа зовут души к лекарству Имени; Сита кормит Гауру, Нитьянанду и Адвайту"
+  summary: "Махапрабху, Нитьянанда и Адвайта взывают: «Придите, души, примите великое лекарство от болезни майи!» — три ствола одного древа любви, одна сущность в трёх обликах; Сита, повязав лицо тканью, готовит множество блюд, подносит Мадана-Гопале и подаёт трём Тхакурам, а мальчик Ишана носит воду и просит остатков их трапезы; затем Господь с обоими возвращается в Навадвипу."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@sita-thakurani", "@ishana-nagara", "@madana-gopala-deity"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [prasada, kirtan, teaching]
+  teaching: [holy-name, associates-tattva]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "138. Тогда Мах", to_text: "154. После тра"}
+
+- id: apr-0076
+  source: advaita-prakasha
+  ref: "Гл. 14, 155–158"
+  file: "advaita-prakash/14.md"
+  period: P07
+  order: 121
+  title: "Три Господа спасают великих грешников: Джагай и Мадхай, Кази"
+  summary: "Втроём они распространяют имя Хари и спасают сотни великих грешников; спасение Джагая и Мадхая и обращение Кази изумляют людей; автор лишь указывает на эти игры."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@jagai-madhai", "@ishana-nagara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0012; Джаянанда: jcm-0047; Лочан: lcm-0139, lcm-0140"
+  notes: "Упоминание; также упомянуто обращение Кази (по ЧЧ Ади 17, ЧБ Мадхья 23). Вставки хинди-издателя из ЧБ и ЧЧ не переведены (сноска перевода)."
+  themes: [mercy, muslims]
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "advaita-prakash/14.md", from_text: "155. Втроём он", to_text: "158. Уповая на"}
+
+- id: apr-0077
+  source: advaita-prakasha
+  ref: "Гл. 15, 1–13"
+  file: "advaita-prakash/15.md"
+  period: P05
+  order: 50
+  title: "Рождение Баларамы, четвёртого сына Ситы (пауша 1426 г. Шака)"
+  summary: "В месяце пауша 1426 г. Шака Сита рождает четвёртого сына; астролог называет его воплощением Куберы, умом равным Брихаспати, но предупреждает, что он внесёт в истинную дхарму ложные рассуждения, которые уйдут лишь в конце в общении со святыми; его нарекают Баларамой и через семь месяцев совершают первое кормление рисом."
+  persons: ["@balarama-mishra", "@sita-thakurani", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1426 г. Шака — 1504/05 г. (сноска перевода)."
+  themes: [family]
+  calendar: "пауша"
+  years: [1504, 1505]
+  date_conf: оценка
+  date_basis: "АП 15.3: пауша 1426 г. Шака"
+  event: ev-balarama-mishra-birth
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "1. Слава, слав", to_text: "13. Одарив все"}
+
+- id: apr-0078
+  source: advaita-prakasha
+  ref: "Гл. 15, 14–19"
+  file: "advaita-prakash/15.md"
+  period: P05
+  order: 105
+  title: "Рождение близнецов Сварупы и Джагадиши (джьештха 1430 г. Шака)"
+  summary: "В месяце джьештха 1430 г. Шака у Ситы рождаются близнецы, которых нарекают Сварупой и Джагадишей; астролог предсказывает им мирскую учёность и любовь друг к другу, как у Лавы и Куши."
+  persons: ["@svarupa-mishra", "@jagadisha-mishra", "@sita-thakurani", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "1430 г. Шака — 1508 г. (сноска перевода)."
+  themes: [family]
+  calendar: "джьештха"
+  years: [1508, 1508]
+  date_conf: оценка
+  date_basis: "АП 15.14: джьештха 1430 г. Шака"
+  event: ev-svarupa-jagadisha-birth
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "14. Затем, в м", to_text: "19. Множество б"}
+
+- id: apr-0079
+  source: advaita-prakasha
+  ref: "Гл. 15, 20–37"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 30
+  title: "Весть о санньясе приходит в Шантипур: Адвайта оцепеневает, затем смеётся — «Ты принял облик санньяси, как актёр»"
+  summary: "Вайшнав приносит Адвайте весть: Нимай обрил голову в Катве, Кешава Бхарати дал Ему имя Шри Кришна Чайтанья, Шачи без памяти от горя, Вишнуприя плачет непрестанно; Адвайта цепенеет, плачет, а затем громко смеётся: Кришна подвластен преданным и, как актёр, принял облик санньяси, чтобы учить людей; Сита и спутники Адвайты рыдают."
+  persons: ["@advaita", "@sita-thakurani", "@mahaprabhu", "@keshava-bharati", "@shachi", "@vishnupriya"]
+  places: ["#shantipura", "#katwa", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0132, mkc-0143; Карнапура (ЧЧд): ccd-0037; Джаянанда: jcm-0064; Лочан: lcm-0187, lcm-0188"
+  notes: ""
+  themes: [separation, sannyasa]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "20. Однажды Го", to_text: "37. Затем к Ад"}
+
+- id: apr-0080
+  source: advaita-prakasha
+  ref: "Гл. 15, 38–46"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 10
+  title: "Ачарьяратна зовёт Адвайту за Гангу: «Ачарья пришёл во Вриндаван!»"
+  summary: "Ачарьяратна сообщает, что Нимай-санньяси четыре дня постится в экстазе на том берегу Ганги; Адвайта переправляется на лодке, и Гаура, увидев Его, говорит: «Какое чудо — Ачарья пришёл во Вриндаван!»; Адвайта отвечает, что где являет Себя Господь, там и Врадж, и везёт Его с Нитьянандой в Шантипур."
+  persons: ["@chandrashekhara-acharya", "@advaita", "@mahaprabhu", "@nityananda"]
+  places: ["#ganga", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0039; Лочан: lcm-0185; Мурари: mkc-0139, mkc-0141"
+  notes: "Ачарьяратна — Чандрашекхара Ачарья."
+  themes: [sannyasa, ecstasy]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "38. В это врем", to_text: "46. Сказав так"}
+
+- id: apr-0081
+  source: advaita-prakasha
+  ref: "Гл. 15, 47–65"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 45
+  title: "Трапеза у Ситы: шутки Адвайты и Нитьянанды об обжорстве; «Без Шивы жертва не полна»"
+  summary: "Сита в скорби о санньясе готовит любимые Гаурой блюда и подносит Кришне; Гаура и Нитьянанда едят, Адвайта подаёт; Гаура: «Без Шивы жертва не полна», Адвайта: «Ты — воплощённый Шива»; Нитьянанда дразнит «обжору-брахманишку», Адвайта отвечает, что это Нитьянанда ест бесчисленными устами по всем странам, и Гаура предлагает взвесить обоих по еде."
+  persons: ["@sita-thakurani", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0040, ccd-0041; Говинда (Кадача): gkr-0014; Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: ""
+  themes: [prasada, pranks, revelation]
+  teaching: [associates-tattva]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "47. Увидев Гау", to_text: "65. Так Махапр"}
+
+- id: apr-0082
+  source: advaita-prakasha
+  ref: "Гл. 15, 66–83"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 45.2
+  title: "Три Тхакура о силе общения со святыми"
+  summary: "После трапезы три Тхакура возвещают: святой считает себя ниже травинки, терпеливее дерева, не ищет почестей, чтит других и непрестанно поёт имя Хари; путь, проложенный садху, ведёт и невежду через океан бытия, как нить проходит в отверстие, прорезанное алмазом; общение со святыми очищает, как философский камень — железо."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#shantipura"]
+  kind: teaching
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0040, ccd-0041; Говинда (Кадача): gkr-0014; Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: "Образ насекомого кумира — по «Бхагавате» 11.9 (сноска перевода)."
+  themes: [teaching]
+  teaching: [vaishnava, holy-name]
+  scriptures: ["Бхаг. 11.9 (образ насекомого)"]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "66. После трап", to_text: "83. Так они из"}
+
+- id: apr-0083
+  source: advaita-prakasha
+  ref: "Гл. 15, 84–94"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 45.4
+  title: "Шачи с преданными Надии приходит в Шантипур; несколько дней праздника"
+  summary: "Услышав, что Гаура в Шантипуре, Шачи с преданными Надии приходит туда, плачет, видя сына санньяси; Махапрабху утешает всех, Шачи готовит Его любимые блюда, и несколько дней в доме Ситанатхи днём звучат наставления об имени, а ночью санкиртана."
+  persons: ["@shachi", "@mahaprabhu", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0040, ccd-0041; Говинда (Кадача): gkr-0014; Джаянанда: jcm-0066; Лочан: lcm-0191, lcm-0192; Мурари: mkc-0145"
+  notes: ""
+  themes: [family, kirtan, separation]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "84. А в Навадв", to_text: "94. Опьянённые"}
+
+- id: apr-0084
+  source: advaita-prakasha
+  ref: "Гл. 15, 95–112"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 55
+  title: "Прощание: Шачи велит жить в Пури; «Ещё две жизни мы будем праздновать вместе»"
+  summary: "Гаура просит позволения уйти; Шачи просит остаться неподалёку, Он отвечает, что санньяси не живёт на родине, и мать велит Ему жить у Пурушоттамы, чтобы получать вести; преданным Он обещает, что не расстаётся с ними из жизни в жизнь и что они будут праздновать с Ним ещё в двух жизнях, и велит петь санкиртану и служить садху."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0042; Лочан: lcm-0193, lcm-0194, lcm-0195, lcm-0196; Мурари: mkc-0146, mkc-0147"
+  notes: ""
+  themes: [separation, sannyasa, family]
+  teaching: [sannyasa-teaching, holy-name]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "95. Однажды Шр", to_text: "112. Так Гора у"}
+
+- id: apr-0085
+  source: advaita-prakasha
+  ref: "Гл. 15, 113–115"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 70
+  title: "Путь в Пури с Нитьянандой, Мукундой, Дамодарой и Джагаданандой"
+  summary: "С Нитьянандой, Мукундой, Дамодарой Пандитом и Джагаданандой Господь идёт к Пурушоттаме, по пути спасая падших; спутники поют имя, а Гаура в экстазе рычит, как лев."
+  persons: ["@mahaprabhu", "@nityananda", "@mukunda-datta", "@damodara-pandita", "@jagadananda-pandita"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Говинда (Кадача): gkr-0017, gkr-0021, gkr-0022; Карнапура (ЧЧд): ccd-0043; Джаянанда: jcm-0067; Лочан: lcm-0197; Мурари: mkc-0149"
+  notes: "Мукунда — Мукунда Датта (сноска перевода)."
+  themes: [pilgrimage, kirtan]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "113. С Ним шли", to_text: "115. Четверо с"}
+
+- id: apr-0086
+  source: advaita-prakasha
+  ref: "Гл. 15, 116–118"
+  file: "advaita-prakash/15.md"
+  period: P09
+  order: 80
+  title: "Ремуна: пляска перед Гопинатхой"
+  summary: "В Ремуне, увидев Гопинатху, Гауранга пляшет, плачет и бежит, не разбирая пути, а половодье любви Нитьянанды затопляет всех."
+  persons: ["@mahaprabhu", "@nityananda", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0152, mkc-0153; Карнапура (ЧЧд): ccd-0044; Лочан: lcm-0201"
+  notes: ""
+  themes: [deities, ecstasy]
+  event: ev-remuna-gopala
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "116. Продолжая", to_text: "118. Хлынуло п"}
+
+- id: apr-0087
+  source: advaita-prakasha
+  ref: "Гл. 15, 119–121"
+  file: "advaita-prakash/15.md"
+  period: P10
+  order: 10
+  title: "Сакши-гопала и первый даршан Джаганнатхи: Господь в махабхаве лишается чувств"
+  summary: "Узрев Сакши-гопалу, Гаура приходит к Пурушоттаме, видит Джаганнатху, в махабхаве плачет и смеётся, как хмельной, и падает без чувств."
+  persons: ["@mahaprabhu", "@sakshi-gopala", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0049; Говинда (Кадача): gkr-0026, gkr-0105; Лочан: lcm-0210; Мурари: mkc-0164"
+  notes: "Сакши-гопала — упоминание."
+  themes: [jagannatha, ecstasy]
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "119. Затем, уз", to_text: "121. Затем Гор"}
+
+- id: apr-0088
+  source: advaita-prakasha
+  ref: "Гл. 15, 122–126"
+  file: "advaita-prakash/15.md"
+  period: P10
+  order: 5
+  title: "Сарвабхаума уводит Гаурангу к себе и угощает маха-прасадом"
+  summary: "Сарвабхаума Бхаттачарья, видя в Гауре божественную махабхаву, признаёт Его Великой Личностью, ведёт к себе домой, куда приходят Нитьянанда и другие, и после санкиртаны угощает всех маха-прасадом."
+  persons: ["@sarvabhauma", "@mahaprabhu", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0048, ccd-0050; Лочан: lcm-0209, lcm-0212; Мурари: mkc-0163, mkc-0165; Говинда (Кадача): gkr-0029"
+  notes: ""
+  themes: [jagannatha, prasada, kirtan]
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "122. Там жил м", to_text: "126. Затем Бха"}
+
+- id: apr-0089
+  source: advaita-prakasha
+  ref: "Гл. 15, 127–128"
+  file: "advaita-prakash/15.md"
+  period: P10
+  order: 30
+  title: "Сарвабхаума, видя величие Гауры, становится преданным"
+  summary: "Через несколько дней Гаура являет Своё величие, и Сарвабхаума, прежде державшийся сухого знания, силой философского камня — Гауры — становится лучшим из преданных."
+  persons: ["@sarvabhauma", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0214, lcm-0215; Мурари: mkc-0167, mkc-0168; Карнапура (ЧЧд): ccd-0051"
+  notes: "Упоминание."
+  themes: [mercy, revelation]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "127. Через нес", to_text: "128. Прежде Са"}
+
+- id: apr-0090
+  source: advaita-prakasha
+  ref: "Гл. 15, 129–131"
+  file: "advaita-prakash/15.md"
+  period: P11
+  order: 30
+  title: "На юге: Рамананда Рай говорит, Господь слушает"
+  summary: "Обходя святыни юга, Гаура встречает Рамананду Рая, искусного в выводах шастр о преданности, которого Адвайта называет спутником Кришны; Рамананда говорит, а Шри Чайтанья слушает."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0055; Говинда (Кадача): gkr-0032; Лочан: lcm-0220; Мурари: mkc-0175; Джаянанда: jcm-0074"
+  notes: "Упоминание."
+  themes: [teaching, pilgrimage]
+  teaching: [prema]
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "129. Затем Гау", to_text: "131. Там говор"}
+
+- id: apr-0091
+  source: advaita-prakasha
+  ref: "Гл. 15, 132"
+  file: "advaita-prakash/15.md"
+  period: P11
+  order: 90
+  title: "Возвращение к Пурушоттаме"
+  summary: "Гаура возвращается к Шри Пурушоттаме и, увидев Джаганнатху, погружается в чистую любовь."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0182, mkc-0183; Говинда (Кадача): gkr-0097, gkr-0100, gkr-0101; Карнапура (ЧЧд): ccd-0060, ccd-0061; Лочан: lcm-0226"
+  notes: "Упоминание."
+  themes: [jagannatha]
+  event: ev-return-from-south
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "132. Затем Гау", to_text: "132. Затем Гау"}
+
+- id: apr-0092
+  source: advaita-prakasha
+  ref: "Гл. 15, 133–136"
+  file: "advaita-prakash/15.md"
+  period: P12
+  order: 300
+  title: "Милость к Пратапарудре; шестирукий облик"
+  summary: "Чтобы исполнить желание преданных, Гаура являет милость царю Пратапарудре и показывает шестирукий облик; одни испивают нектар этой милости, другие, не получив её, стенают."
+  persons: ["@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0067, ccd-0068, ccd-0072; Говинда (Кадача): gkr-0104; Джаянанда: jcm-0070, jcm-0075; Лочан: lcm-0248; Мурари: mkc-0233, mkc-0234"
+  notes: "Царь назван «по виду лишь подобием преданного» (133)."
+  themes: [mercy, revelation]
+  bhava: [aishvarya]
+  divergence: "Шестирукий облик связан с милостью к Пратапарудре (в ЧЧ шестирукий облик видит Сарвабхаума)."
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "133. Он явил м", to_text: "136. Сам Бхага"}
+
+- id: apr-0093
+  source: advaita-prakasha
+  ref: "Гл. 15, 137–148"
+  file: "advaita-prakash/15.md"
+  period: P12
+  order: 15
+  title: "Адвайта идёт на Ратха-ятру; Кришна Мишра остаётся дома, и Сита посвящает его с женой Виджаей"
+  summary: "Адвайта с бесчисленными преданными собирается в Шри Кшетру на праздник колесниц; отрешённый Кришна Мишра хочет идти, но отец и мать велят ему остаться служить Кришне и отцу; на берегу Ганги Сита даёт ему и его жене Шри Виджае свою совершенную мантру."
+  persons: ["@advaita", "@krishna-mishra", "@sita-thakurani", "@achyutananda", "@ishana-nagara"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [family, teaching]
+  event: ev-krishna-mishra-initiation-sita
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "137. Затем, по", to_text: "148. Это сокро"}
+
+- id: apr-0094
+  source: advaita-prakasha
+  ref: "Гл. 15, 149–153"
+  file: "advaita-prakash/15.md"
+  period: P12
+  order: 20
+  title: "Встреча в Шри Кшетре: великая санкиртана — Адвайта впереди, Гаура и Нитьянанда в середине"
+  summary: "Гаура встречает Своих в великом блаженстве и обходит город с великой санкиртаной: впереди Ачарья, в середине Гаура и Нитьянанда, позади преданные; затем все идут омываться."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0069, ccd-0070; Мурари: mkc-0235, mkc-0236, mkc-0238"
+  notes: ""
+  themes: [kirtan, jagannatha]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "149. Встретив С", to_text: "153. Спустя до"}
+
+- id: apr-0095
+  source: advaita-prakasha
+  ref: "Гл. 15, 154–165"
+  file: "advaita-prakash/15.md"
+  period: P12
+  order: 30
+  title: "Игры в воде: Адвайта плывёт, неся Гауру, как ложе-Шеша"
+  summary: "В играх в воде Гаура укладывает Адвайту на воду и взбирается Ему на грудь, и Адвайта плывёт, неся Махапрабху, — словно Маха-Вишну на ложе Ананты; затем Гаура со спутниками обедает у Ачарьи; рассказ Ишана слышал из уст Нитьянанды."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@ishana-nagara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0237"
+  notes: "Озеро не названо. Ишана этой игры не видел и записал со слов Нитьянанды (162–163)."
+  themes: [ecstasy, revelation, prasada]
+  event: ev-narendra-jala-keli
+  verses:
+    - {file: "advaita-prakash/15.md", from_text: "154. Веселье Ш", to_text: "165. Уповая на"}
+
+- id: apr-0096
+  source: advaita-prakasha
+  ref: "Гл. 16, 1–5"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 2
+  title: "«Пойду во Вриндаван» — преданные отговаривают: сезон дождей"
+  summary: "Шри Кришна Чайтанья тайно говорит преданным, что пойдёт во Вриндаван; они отвечают, что в сезон дождей идти нехорошо, и Он, приняв слово вайшнавов, идёт со Своими на родину."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0076, ccd-0077; Мурари: mkc-0184"
+  notes: ""
+  themes: [pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "1. Слава, слав", to_text: "5. Сказав так,"}
+
+- id: apr-0097
+  source: advaita-prakasha
+  ref: "Гл. 16, 6–28"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 14
+  title: "У Адвайты в Шантипуре: сыновья Ачьюта, Кришнамишра, Гопаладас; Шачи кормит Гауру — шутка о зелени"
+  summary: "Гаура останавливается у Адвайты; Сита омывает Его слезами, трое сыновей Ситы поют и рычат от любви; Сита угощает трёх Тхакуров; приходит Шачи и берёт Его на руки, как Яшода Кришну в Курукшетре, и готовит Его любимую зелень; Гаура хвалит зелень, Нитьянанда предпочёл бы иное, и Гаура смеётся: «Твоя любовь, как Ганга, устремлена вниз»."
+  persons: ["@mahaprabhu", "@advaita", "@sita-thakurani", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@shachi", "@nityananda", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0190"
+  notes: "Ишана упоминает своё служение (14)."
+  themes: [family, prasada, kirtan]
+  divergence: "Пребывание у Адвайты и встреча с Шачи поставлены до Рамакели (по ЧЧ — после поворота от Канайр Натшалы)."
+  event: ev-shantipura-after-natashala
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "6. Он останови", to_text: "28. Мать всё с"}
+
+- id: apr-0098
+  source: advaita-prakasha
+  ref: "Гл. 16, 29–34"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 12
+  title: "Рамакели: милость Рупе и Санатане; они советуют не идти во Вриндаван с толпой"
+  summary: "Направившись во Врадж, Господь в Рамакели встречает царских министров Рупу и Санатану и являет им милость, так что они оставляют мирское; они уговаривают Его не идти во Вриндаван с множеством людей."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#ramakeli"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0094; Мурари: mkc-0188"
+  notes: ""
+  themes: [mercy]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "29. Через неск", to_text: "34. Оба сказал"}
+
+- id: apr-0099
+  source: advaita-prakasha
+  ref: "Гл. 16, 35–37"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 15
+  title: "Снова в Шантипуре: праздник санкиртаны, позволение Шачи"
+  summary: "По слову преданных Господь поворачивает назад и прибывает в Шантипур, где Адвайта устраивает праздник санкиртаны; повидав Шачи и получив её позволение идти во Врадж, Он отправляется в Пури."
+  persons: ["@mahaprabhu", "@advaita", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0190"
+  notes: ""
+  themes: [kirtan, family]
+  event: ev-shantipura-after-natashala
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "35. По слову п", to_text: "37. Там Гора п"}
+
+- id: apr-0100
+  source: advaita-prakasha
+  ref: "Гл. 16, 38–40"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 16
+  title: "По пути — встреча с Рагхунатхой Дасом"
+  summary: "По пути Господь встречает Рагхунатху Даса, чей яд мирских желаний легко исчезает в благоухании сандала-Гауры; Господь хвалит его отрешённость."
+  persons: ["@mahaprabhu", "@raghunatha-dasa"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Упоминание."
+  themes: [mercy, sannyasa]
+  event: ev-raghunatha-dasa-shantipura
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "38. По пути Он", to_text: "40. Его отрешё"}
+
+- id: apr-0101
+  source: advaita-prakasha
+  ref: "Гл. 16, 41–44"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 25
+  title: "Из Пури — на исходе ночи во Врадж"
+  summary: "Вернувшись в Кшетру, Господь видит Джаганнатху и празднует санкиртану с преданными, а через несколько дней на исходе ночи в сокровенной махабхаве уходит во Враджа-дхаму."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0082; Мурари: mkc-0193"
+  notes: ""
+  themes: [pilgrimage, kirtan]
+  event: ev-departure-for-vrindavana
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "41. Однажды Шр", to_text: "44. Однажды на"}
+
+- id: apr-0102
+  source: advaita-prakasha
+  ref: "Гл. 16, 45–55"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 30
+  title: "Джхарикханда: звери плачут, восклицая «Кришна»"
+  summary: "Окольным путём через лес Джхарикханда Господь поёт санкиртану, звери оставляют свирепость и по Его слову плачут, восклицая «Кришна», и освобождаются; по пути Он многих делает вайшнавами."
+  persons: ["@mahaprabhu"]
+  places: ["#jharikhanda"]
+  kind: miracle
+  authority: D
+  parallels: "Лочан: lcm-0229; Мурари: mkc-0194"
+  notes: ""
+  themes: [mercy, kirtan, pilgrimage]
+  teaching: [holy-name]
+  event: ev-jharikhanda-animals
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "45. Оставив бо", to_text: "55. Махапрабху"}
+
+- id: apr-0103
+  source: advaita-prakasha
+  ref: "Гл. 16, 56–70"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 35
+  title: "Каши: Тапана Мишра; Бинду-Мадхава, Вишвешвара («Хари-Хара»), Аннапурна; Чандрашекхара"
+  summary: "В Каши Тапана Мишра ведёт Господа к себе; Господь пляшет перед Бинду-Мадхавой, у Вишвешвары повторяет «Хари-Хара», Аннапурну называет Паурнамаси, видит Ади-Кешаву; у Мишры Он встречает Чандрашекхару."
+  persons: ["@mahaprabhu", "@tapana-mishra", "@shiva", "@chandrashekhara-vaidya"]
+  places: ["#kashi"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0085; Мурари: mkc-0195"
+  notes: ""
+  themes: [deities, pilgrimage, ecstasy]
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "56. Через неск", to_text: "70. Так, устро"}
+
+- id: apr-0104
+  source: advaita-prakasha
+  ref: "Гл. 16, 71–80"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 37
+  title: "Праяга: Господь бросается в Ямуну и весь день остаётся под водой; Мадхава"
+  summary: "Увидев Тривени, Господь с криком «Я узрел Ямуну!» бросается в воду и весь день остаётся под водой; вечером рыбаки поднимают Его в лодку, где Он поёт санкиртану; на вечернем арати Он плачет перед Мадхавой, моля: «Даруй бхакти!»"
+  persons: ["@mahaprabhu"]
+  places: ["#prayaga"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0196"
+  notes: ""
+  themes: [ecstasy, deities, pilgrimage]
+  event: ev-prayaga-on-way-to-vrindavana
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "71. Увидев Три", to_text: "80. Затем из Ш"}
+
+- id: apr-0105
+  source: advaita-prakasha
+  ref: "Гл. 16, 81–89"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 50
+  title: "Матхура: «Где Кану?»; Господь ищет Камсу; Дхрува-гхат"
+  summary: "В Матхуре, в настроении гопи, Господь поёт: «Где Кану?» и катается по земле, затем, в бхаве Своих игр, ищет Камсу, рычит и хлопает по рукам; на Дхрува-гхате плачет, вспоминая Дхруву."
+  persons: ["@mahaprabhu", "@kamsa", "@dhruva"]
+  places: ["#mathura"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0231; Мурари: mkc-0197"
+  notes: ""
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [gopi, krishna]
+  event: ev-arrival-mathura
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "81. Постепенно", to_text: "89. Увидев ско"}
+
+- id: apr-0106
+  source: advaita-prakasha
+  ref: "Гл. 16, 90–103"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 90
+  title: "Во Вриндаване: махабхава; коровы лижут тело Господа и пляшут, как гопи"
+  summary: "Во Вриндаване Господь без чувств от любви, катается в духовной пыли, ищет Кану из леса в лес и велит всему живому повторять «Кришна»; коровы и телята окружают Его, лижут Его тело, пахнущее Кришной, плачут и пляшут от Его прикосновения, как гопи."
+  persons: ["@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0083; Лочан: lcm-0235, lcm-0237, lcm-0238, lcm-0241, lcm-0242, lcm-0243; Мурари: mkc-0204, mkc-0206, mkc-0207, mkc-0208, mkc-0209, mkc-0212, mkc-0214, mkc-0215, mkc-0216, mkc-0217, mkc-0218, mkc-0219, mkc-0220"
+  notes: ""
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "90. Затем Маха", to_text: "103. От пляски"}
+
+- id: apr-0107
+  source: advaita-prakasha
+  ref: "Гл. 16, 104–128"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 95
+  title: "Ачьюта на «цветочной колеснице повеления» является во Врадж: «Врадж преданности — в Навадвипе»"
+  summary: "Ачьютананда в Шантипуре ищет Гауру, как безумный; Гаура притягивает его, и он, словно йогин, мгновенно оказывается во Врадже; он упрекает Гауру, что Тот оставил «Врадж преданности» — Навадвипу — ради опустевшего Враджа гопи, затем просит прощения за слово «пустой»; Гаура обнимает его, и Ачьюта пляшет в настроении сакхи."
+  persons: ["@achyutananda", "@mahaprabhu"]
+  places: ["#shantipura", "#vrindavana"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [revelation, krishna-lila, ecstasy]
+  divergence: "Ачьютананда сопровождает Господа во Врадже; другие жизнеописания этого не знают."
+  event: ev-achyuta-in-vraja
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "104. А тем вре", to_text: "128. Шри Ачьют"}
+
+- id: apr-0108
+  source: advaita-prakasha
+  ref: "Гл. 16, 129–159"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 120
+  title: "«Где Радха-кунда?» — Ачьюта со слов Гададхары Пандита рассказывает о величии кунды"
+  summary: "Вспомнив о Радха-кунде, Господь спрашивает жителей Враджа, где она, и, не получив ответа, падает без чувств; Ачьюта, сославшись на своего наставника Гададхару Пандита — часть Радхики, — излагает величие Радха-кунды, владычицы всех святынь и духовной энергии Кришны, и соседней Шьяма-кунды."
+  persons: ["@mahaprabhu", "@achyutananda", "@gadadhara-pandita", "@radha"]
+  places: ["#radha-kunda"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Гададхара Пандит назван наставником Ачьюты (140)."
+  themes: [krishna-lila, teaching]
+  event: ev-radha-kunda-discovery
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "129. Тут Шри Ч", to_text: "159. Гора сказ"}
+
+- id: apr-0109
+  source: advaita-prakasha
+  ref: "Гл. 16, 160–203"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 120.5
+  title: "Обретение почти исчезнувшей Радха-кунды; Господь являет Ачьюте облик Четы"
+  summary: "Господь приходит к почти исчезнувшей кунде, восклицает «Радха!» — и звери и птицы плачут; признав её истинной Радха-кундой, а соседний пруд — Шьяма-кундой, Он бросается в воду, омывается в обеих, умащается глиной, в бхаве Радхи рыдает и падает без чувств; очнувшись, обходит кунду с Ачьютой и, отклоняя его хвалу, являет ему облик Кришны с Радхой слева; Ачьюта кладёт стопы Гауры себе на голову."
+  persons: ["@mahaprabhu", "@achyutananda", "@radha", "@krishna"]
+  places: ["#radha-kunda"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Санскритский стих «Падма-пураны» о Радха-кунде добавлен издателем (сноска перевода)."
+  themes: [krishna-lila, revelation, ecstasy]
+  bhava: [radha, krishna]
+  teaching: [gaura-tattva]
+  event: ev-radha-kunda-discovery
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "160. Сказав та", to_text: "203. Когда вес"}
+
+- id: apr-0110
+  source: advaita-prakasha
+  ref: "Гл. 16, 204–211"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 130
+  title: "Говардхана: «Без Кришны, видно, твоё тело одряхлело»"
+  summary: "Увидев Говардхану, Господь лишается чувств от любви, обращается к горе: «Без Кришны, видно, твоё тело одряхлело», чует на ней запах тела Кришны, бежит обнять её и обходит, распевая имя Хари; Ачьюта плачет и пляшет."
+  persons: ["@mahaprabhu", "@achyutananda"]
+  places: ["#govardhana"]
+  kind: lila
+  authority: D
+  parallels: "Лочан: lcm-0239; Мурари: mkc-0210, mkc-0211"
+  notes: ""
+  themes: [krishna-lila, ecstasy]
+  event: ev-govardhana-visit
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "204. Затем Мах", to_text: "211. Шри Ачьют"}
+
+- id: apr-0111
+  source: advaita-prakasha
+  ref: "Гл. 16, 212–218"
+  file: "advaita-prakash/16.md"
+  period: P13
+  order: 92
+  title: "Леса Враджа и место раса: «Гопи-гита»; уход из Враджа по желанию преданных"
+  summary: "Господь обходит все леса и святыни Враджа; у места раса Он, представляя, что Кришна исчез, читает «Гопи-гиту» и подражает играм Радхи и Кришны; по желанию преданных Он со слезами покидает Врадж."
+  persons: ["@mahaprabhu", "@ishana-nagara"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0083; Лочан: lcm-0235, lcm-0237, lcm-0238, lcm-0241, lcm-0242, lcm-0243; Мурари: mkc-0204, mkc-0206, mkc-0207, mkc-0208, mkc-0209, mkc-0212, mkc-0214, mkc-0215, mkc-0216, mkc-0217, mkc-0218, mkc-0219, mkc-0220"
+  notes: ""
+  themes: [krishna-lila, separation]
+  bhava: [gopi]
+  scriptures: ["«Гопи-гита» (Бхаг. 10.31)"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "advaita-prakash/16.md", from_text: "212. Затем Гау", to_text: "218. Уповая на"}
+
+- id: apr-0112
+  source: advaita-prakasha
+  ref: "Гл. 17, 1–41"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 182
+  title: "Праяга: Рупа и Анупама; «Преданность — по милости садху»; повеление восстановить святыни Враджа"
+  summary: "В Праяге к Господу приходят Рупа и его брат Анупама, называя себя неприкасаемыми; Господь учит, что преданный выше всех и преданность обретается по милости садху, обещает скорое освобождение Санатане из оков и посылает их во Вриндаван: проповедовать преданность, составлять шастры и восстанавливать исчезнувшие святыни."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@anupama", "@achyutananda", "@sanatana-gosvami"]
+  places: ["#prayaga"]
+  kind: teaching
+  authority: D
+  parallels: "Лочан: lcm-0230; Карнапура (ЧЧд): ccd-0084; Джаянанда: jcm-0095; Мурари: mkc-0223"
+  notes: "Анупама — отец Дживы Госвами (сноска перевода)."
+  themes: [teaching, mercy]
+  teaching: [vaishnava, bhakti-supremacy]
+  divergence: "При встрече присутствует Ачьютананда."
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "1. Слава, слав", to_text: "41. Сказав так"}
+
+- id: apr-0113
+  source: advaita-prakasha
+  ref: "Гл. 17, 42–47"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 184
+  title: "Снова в Варанаси: Чандрашекхара видел Господа во сне; Тапана Мишра"
+  summary: "Из Праяги Господь приходит в Варанаси; Чандрашекхара, видевший Его во сне, ведёт Его к себе; Тапана Мишра с роднёй служит Ему, и несколько дней Господь раздаёт имя."
+  persons: ["@mahaprabhu", "@chandrashekhara-vaidya", "@tapana-mishra"]
+  places: ["#kashi"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0085; Мурари: mkc-0195"
+  notes: "На обратном пути из Враджа."
+  themes: [mercy, kirtan]
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "42. Затем из П", to_text: "47. Несколько д"}
+
+- id: apr-0114
+  source: advaita-prakasha
+  ref: "Гл. 17, 48–105"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 186
+  title: "Ачьюта и нагой санньяси у Маникарники: «Позови: „Гауранга“» — санньяси видит вселенский облик"
+  summary: "Нагой санньяси хулит Гаурангу как колдуна, нарушающего Веды; Ачьюта отвечает: Брахман — Бхагаван, нисходящий ради дхармы, в Кали Он — золотой Шри Кришна Чайтанья; когда санньяси по его слову произносит «Гауранга», на нём поднимаются волоски; Ачьюта даёт ему половину своей ткани и ведёт к Господу; санньяси видит в Нём вселенский облик, кается, получает силу от прикосновения и пляшет: «Шри Чайтанья — владыка всего!»"
+  persons: ["@achyutananda", "@mahaprabhu"]
+  places: ["#kashi"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Цвета воплощений четырёх юг — по «Бхагавате» 10.8.13 (сноска перевода)."
+  themes: [learning, mercy, revelation]
+  teaching: [gaura-tattva, vedanta, yuga-dharma]
+  scriptures: ["Бхаг. 10.8.13"]
+  event: ev-achyuta-digambara-sannyasi
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "48. Однажды в т", to_text: "105. Я не смог"}
+
+- id: apr-0115
+  source: advaita-prakasha
+  ref: "Гл. 17, 106–118"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 187
+  title: "Обращение Прабодхананды Сарасвати и его учеников"
+  summary: "Знаменитый санньяси Прабодхананда Сарасвати, хуливший Гаурангу, побеждён доводами шастр, признаёт Его Ишварой, получает силу премы, плачет в санкиртане и слагает стихи во славу Гауры; его ученики и пандиты Каши принимают прибежище у Господа."
+  persons: ["@mahaprabhu", "@prabodhananda-sarasvati"]
+  places: ["#kashi"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0080"
+  notes: ""
+  themes: [learning, mercy]
+  teaching: [vedanta, gaura-tattva]
+  divergence: "Санньяси Каши назван Прабодханандой Сарасвати (в ЧЧ — Пракашананда)."
+  event: ev-varanasi-sannyasis
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "106. Каши напо", to_text: "118. Божествен"}
+
+- id: apr-0116
+  source: advaita-prakasha
+  ref: "Гл. 17, 119–123"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 185
+  title: "Наставление Санатане в Каши; Говинда и Мадана-Гопала во Врадже"
+  summary: "В Каши Шри Кришна Чайтанья учит Санатану сути преданности и посылает его во Вриндаван; во Врадже Рупа устанавливает Говинду, а Санатана являет Мадана-Гопалу; братья одаряют преданных шастрами о бхакти."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@rupa-gosvami", "@madana-gopala-deity"]
+  places: ["#kashi", "#vrindavana"]
+  kind: teaching
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0086; Мурари: mkc-0224"
+  notes: "Упоминание."
+  themes: [teaching, deities]
+  event: ev-sanatana-kashi-instruction
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "119. Шри Кришн", to_text: "123. Эти два б"}
+
+- id: apr-0117
+  source: advaita-prakasha
+  ref: "Гл. 17, 124–131"
+  file: "advaita-prakash/17.md"
+  period: PX
+  order: 11
+  title: "Шесть Госвами — манджари; двенадцать гопалов и шестьдесят четыре маханта"
+  summary: "Автор перечисляет шесть Госвами — Рупу, Санатану, Дживу, Гопалу Бхатту, Рагхунатху Бхатту и Рагхунатху Даса, — которых Адвайта называет манджари, подругами Радхи и Кришны; Махапрабху — один Чайтанья, а Нитьянанда и Адвайта — Прабху; Гададхара Пандит поведал Шривасе истину о двенадцати гопалах и шестидесяти четырёх махантах."
+  persons: ["@ishana-nagara", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-bhatta", "@raghunatha-dasa", "@gadadhara-pandita", "@srivasa"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "124. Их племян", to_text: "131. Это я пиш"}
+
+- id: apr-0118
+  source: advaita-prakasha
+  ref: "Гл. 17, 132–137"
+  file: "advaita-prakash/17.md"
+  period: P13
+  order: 215
+  title: "Через Джхарикханду обратно в Пури: встреча с Раманандой и преданными"
+  summary: "Из Варанаси Господь снова через Джхарикханду возвращается в Шри Кшетру; преданные плачут от радости, Рамананда Рай и другие простираются, Господь обнимает всех, и начинается великая санкиртана."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#jharikhanda", "#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0087"
+  notes: ""
+  themes: [kirtan, separation]
+  event: ev-return-to-puri-from-vrindavana
+  verses:
+    - {file: "advaita-prakash/17.md", from_text: "132. Затем Мах", to_text: "137. Уповая на"}
+
+- id: apr-0119
+  source: advaita-prakasha
+  ref: "Гл. 18, 1–24"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 5
+  title: "Тоска Ситы по Гауре; весть от Шивананды Сены — все идут в Пури на праздник колесниц"
+  summary: "Сита открывает Адвайте сердце: давно не видя Горы, она тоскует и хочет накормить Его; Адвайта в экстазе говорит, что чья жизнь отдана Чайтанье, тот великий счастливец; от Шивананды Сены приходит весть, что он ведёт спутников Гауры к празднику колесниц; Адвайта с Ситой, Гопаладасом и Ишаной отправляется в Нилачалу."
+  persons: ["@sita-thakurani", "@advaita", "@shivananda-sena", "@nityananda", "@srivasa", "@gadadhara-pandita", "@gopala-dasa-advaita", "@ishana-nagara"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0073, ccd-0092"
+  notes: ""
+  themes: [separation, pilgrimage]
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "1. Слава, слав", to_text: "24. Все шли в б"}
+
+- id: apr-0120
+  source: advaita-prakasha
+  ref: "Гл. 18, 25–43, 55–57"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 5.5
+  title: "Ратха-ятра: «Спустя долгое время, о Тёмный, Я обрёл Тебя»; три Тхакура пляшут, обнявшись"
+  summary: "Гаура выходит навстречу Своим, и все пляшут в санкиртане; когда Джаганнатха всходит на колесницу, Гаура в настроении гопи поёт: «Спустя долгое время, о Тёмный, Я обрёл Тебя», падает без чувств, очнувшись при повторе песни, обнимает Нитьянанду; три Тхакура, обнявшись, плачут и зовут души плясать с именем Хари; после праздника все вкушают маха-прасад."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0071, ccd-0096; Мурари: mkc-0242"
+  notes: "От ст. 32 в OCR сохранилась лишь вторая половина (сноска перевода)."
+  themes: [jagannatha, ecstasy, kirtan]
+  bhava: [radha, gopi]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "25. Услышав о б", to_text: "43. Услышав эт"}
+    - {file: "advaita-prakash/18.md", from_text: "55. Видя велик", to_text: "57. После праз"}
+
+- id: apr-0121
+  source: advaita-prakasha
+  ref: "Гл. 18, 44–54"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 5.6
+  title: "Гопала, сын Адвайты, лишается чувств в пляске; Господь велит: «Встань, Гопала!»"
+  summary: "Гопаладас, пляша, лишается чувств и не приходит в сознание от долгого пения имени; Адвайта горестно взывает к Кришне; Махапрабху зовёт: «Встань, Гопала!» — и тот, очнувшись, восклицает: «Я — слуга Чайтаньи»; Гаура омывает его слезами, Адвайта пляшет с ним на руках, преданные берут пыль с его стоп."
+  persons: ["@gopala-dasa-advaita", "@advaita", "@mahaprabhu", "@nityananda"]
+  places: ["#puri"]
+  kind: miracle
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [kirtan, mercy]
+  divergence: "По ЧЧ (Ади 12) — при уборке храма Гундичи; здесь — на Ратха-ятре."
+  event: ev-gopala-dasa-revived
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "44. В это врем", to_text: "54. Безграничн"}
+
+- id: apr-0122
+  source: advaita-prakasha
+  ref: "Гл. 18, 58–99"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 5.7
+  title: "Град, и Господь один приходит к Адвайте и Сите; Ишана рвёт священный шнур ради служения"
+  summary: "Адвайта и Сита скорбят, что Гаура всегда приходит с санньяси и отдаёт им угощения; по воле Господа днём поднимается буря с градом, и Он один приходит к ним; мальчик Ишана хочет омыть Его стопы, Господь останавливает его как брахмана, и Ишана рвёт шнур — Адвайта надевает его снова и просит Гауру не огорчать преданного, и Ишана получает служение; Сита подаёт ряд за рядом любимые блюда, и Гаура говорит, что никогда не ел так обильно; град прекращается."
+  persons: ["@advaita", "@sita-thakurani", "@mahaprabhu", "@ishana-nagara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Автор — брахман, носивший священный шнур (сноска перевода)."
+  themes: [prasada, mercy]
+  teaching: [vaishnava]
+  divergence: "Вместо дождя — буря с градом; эпизод с Ишаной и шнуром известен только «Адвайта-пракаше»."
+  event: ev-advaita-feeds-lord-hailstorm
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "58. Послушайте", to_text: "99. По настоян"}
+
+- id: apr-0123
+  source: advaita-prakasha
+  ref: "Гл. 18, 100–111"
+  file: "advaita-prakash/18.md"
+  period: PX
+  order: 12
+  title: "Отступление автора: Кришна и Его чистый преданный неразличны; Гаура — соединение Царя рас и махабхавы"
+  summary: "Автор размышляет: желание преданного рождает желание Кришны; прежние преданные поклонялись Кришне или Радхе, но соединения Царя рас и махабхавы никто не видел — этот облик явлен в Кали как Гауранга, изначальный источник всех проявлений Кришны; автор молит о милости гуру и вайшнавов."
+  persons: ["@ishana-nagara", "@mahaprabhu", "@narada"]
+  places: []
+  kind: author
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [author]
+  teaching: [gaura-tattva, vaishnava]
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "100. Неземные и", to_text: "111. Такого ми"}
+
+- id: apr-0124
+  source: advaita-prakasha
+  ref: "Гл. 18, 112–125"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 10
+  title: "Собака Шивананды Сены, евшая остатки вайшнавов, обретает совершенное тело; о величии вайшнавов"
+  summary: "Собака в доме Шивананды Сены, поедая остатки пищи вайшнавов, очистилась, пошла с ним к Пурушоттаме и по милости Чайтаньи, произнося «Харе Кришна», обрела совершенное тело; автор говорит о силе остатков и пыли со стоп вайшнавов и о том, что оскорбление вайшнава прощает лишь сам вайшнав."
+  persons: ["@shivananda-sena", "@mahaprabhu", "@ishana-nagara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0088"
+  notes: ""
+  themes: [mercy, prasada]
+  teaching: [vaishnava, prasada-teaching]
+  event: ev-shivananda-dog
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "112. Даруя имя", to_text: "125. Ныне Радх"}
+
+- id: apr-0125
+  source: advaita-prakasha
+  ref: "Гл. 18, 126–127"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 15
+  title: "Сыну Шивананды по милости Гауры открываются все шастры — Кави Карнапура"
+  summary: "По милости Гауры сыну Шивананды Сены ещё в раннем детстве открылись все шастры, и он стал известен как Кави Карнапура."
+  persons: ["@kavi-karnapura", "@shivananda-sena", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Упоминание."
+  themes: [mercy, learning]
+  event: ev-karnapura-child-mercy
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "126. По милост", to_text: "127. Он стал и"}
+
+- id: apr-0126
+  source: advaita-prakasha
+  ref: "Гл. 18, 128–137"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 16
+  title: "Ишана растирает стопы Гауры: «Лучшая из дхарм — санкиртана имени Хари»"
+  summary: "По милости Адвайты у слияния Ганги с океаном Ишана получает служение — растирать стопы Гауры; он просит наставления, и Гауранга говорит: учись у садху истинной дхарме, лучшая из дхарм — санкиртана имени Хари, имя выше подвижничества и джапы, беседа с женщинами губит дхарму отрешённого, а верящий во многих богов не верит в Кришну."
+  persons: ["@ishana-nagara", "@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching]
+  teaching: [holy-name, sannyasa-teaching]
+  event: ev-ishana-serves-lord
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "128. Теперь ра", to_text: "137. Бесконечн"}
+
+- id: apr-0127
+  source: advaita-prakasha
+  ref: "Гл. 18, 138–150"
+  file: "advaita-prakash/18.md"
+  period: P14
+  order: 25
+  title: "Младший Харидас выменивает рис у Мадхави — Господь отвергает его; преданные возвращаются в Гауду"
+  summary: "Певец Харидас, лучший из бхагават, выменивает для служения Гауре лучший рис у праведной Мадхави; Господь говорит, что беседа с женщиной разрушает дхарму отрешённого, и отвергает его; Харидас уходит в слезах; Адвайта и другие в разлуке возвращаются в Гауду."
+  persons: ["@chhota-haridasa", "@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "История известна по ЧЧ Антья 2 (сноска перевода)."
+  themes: [sannyasa, offense, separation]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  event: ev-chhota-haridasa-punished
+  verses:
+    - {file: "advaita-prakash/18.md", from_text: "138. Певец Шри", to_text: "150. Уповая на"}
+
+- id: apr-0128
+  source: advaita-prakasha
+  ref: "Гл. 19, 1–49"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 12
+  title: "Рупа по зову во сне приходит в Пури; пьеса разделена на «Видагдха-Мадхаву» и «Лалита-Мадхаву»"
+  summary: "Махапрабху во сне говорит Рупе, что хочет услышать его пьесу об играх Радхи и Шьямы; с благословения Санатаны Рупа идёт в Шри Кшетру, называет себя неприкасаемым, а Господь — Мандакини; Господь рассказывает Рамананде о его отрешённости и просит прочесть пьесу; слушатели в восторге, и Господь велит разделить её на «Видагдха-Мадхаву» и «Лалита-Мадхаву»; затем Рупа уходит во Врадж."
+  persons: ["@rupa-gosvami", "@mahaprabhu", "@sanatana-gosvami", "@ramananda-raya"]
+  places: ["#vrindavana", "#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "1. Слава, слав", to_text: "49. Затем Маха"}
+
+- id: apr-0129
+  source: advaita-prakasha
+  ref: "Гл. 19, 50–61"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 13
+  title: "Комментарий Господа к «Бхагавате»: Ачьюта восхищён, но Господь велит его скрыть"
+  summary: "Махапрабху излагает Ачьюте Свой комментарий к «Бхагавате», исполненный преданности; Ачьюта говорит, что он лучше комментария Свами, но Господь велит скрыть его, чтобы не умалять величие других садху, и Ачьюта плачет от такой милости и смирения."
+  persons: ["@mahaprabhu", "@achyutananda", "@ishana-nagara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "«Комментарий Свами» — «Бхавартха-дипика» Шридхары Свами (сноска перевода)."
+  themes: [teaching, learning]
+  teaching: [scripture, vaishnava]
+  event: ev-lord-bhagavata-commentary-hidden
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "50. Величию Шр", to_text: "61. Поступаясь"}
+
+- id: apr-0130
+  source: advaita-prakasha
+  ref: "Гл. 19, 62–71"
+  file: "advaita-prakash/19.md"
+  period: P05
+  order: 30
+  title: "Воспоминание: юный Гаура бросает в Гангу Свой комментарий к ньяе"
+  summary: "Прежде, когда Гаура учился, Он составил комментарий к логике; брахман, переправлявшийся с Ним через Гангу, огорчился, что его собственным трудом станут пренебрегать, и Гаура из милости бросил Свой комментарий в Гангу; брахман признал в Нём Вишну."
+  persons: ["@mahaprabhu"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Брахман не назван."
+  themes: [learning, mercy]
+  event: ev-nyaya-commentary-ganga
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "62. Прежде, ко", to_text: "71. Знай: песн"}
+
+- id: apr-0131
+  source: advaita-prakasha
+  ref: "Гл. 19, 72–100"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 14
+  title: "Санатана приходит из Враджа: язвы исчезают; вечная дхарма — дхарма вайшнавов"
+  summary: "У Господа дрожит правый глаз — и из Враджа приходит Санатана; он не даёт себя обнять из-за гнойных язв, а Господь говорит, что видит его тело чистым, — и язвы исчезают; на вопрос, что такое санатана-дхарма, Господь отвечает: вечная дхарма — дхарма вайшнавов, прочее — побочные дхармы, проповеданные Шивой по повелению Кришны, а главное в ней — вкус к имени Хари."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@achyutananda", "@shiva"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [mercy, teaching]
+  teaching: [vaishnava, holy-name, bhakti-supremacy]
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "72. Затем Шачи", to_text: "100. Так Он ра"}
+
+- id: apr-0132
+  source: advaita-prakasha
+  ref: "Гл. 19, 101–116"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 5.2
+  title: "Преданные Гауды на празднике колесниц: о настроении гопи; санкиртана — Адвайта впереди"
+  summary: "К празднику колесниц приходят Нитьянанда, Адвайта и другие из Гауды; Господь расспрашивает каждого, омывается с ними в океане, вкушает маха-прасад, описывает превосходство настроения гопи и ведёт великую санкиртану: впереди пляшет Адвайта, в середине — Гаура и Нитьянанда."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0073, ccd-0092"
+  notes: ""
+  themes: [kirtan, jagannatha]
+  teaching: [prema]
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "101. Затем к п", to_text: "116. Дивное бл"}
+
+- id: apr-0133
+  source: advaita-prakasha
+  ref: "Гл. 19, 117–132"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 5.4
+  title: "Колесница, которую не сдвинуть сотням тысяч, катится от прикосновения Господа; величие маха-прасада"
+  summary: "Колесницу Джаганнатхи не могут сдвинуть сотни тысяч людей, а от одного прикосновения Махапрабху она быстро катится; Джаганнатха является каждому в том облике, каким его представляют; автор славит маха-прасад, который ест и брахман из рук чандалы."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@subhadra", "@balarama", "@ishana-nagara"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Карнапура (ЧЧд): ccd-0071, ccd-0096; Мурари: mkc-0242"
+  notes: "Ст. 127 в OCR искажён (сноска перевода)."
+  themes: [jagannatha, festival, prasada]
+  teaching: [prasada-teaching]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "117. В день пр", to_text: "132. Я — ничто"}
+
+- id: apr-0134
+  source: advaita-prakasha
+  ref: "Гл. 19, 133–141"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 100
+  title: "Господь отсылает преданных проповедовать, велит Нитьянанде жениться и уходит в уединение с именем"
+  summary: "После праздника Господь говорит преданным, что им незачем снова приходить: пусть на родине раздают имя; Он велит Нитьянанде жениться, а Сам уходит в сокровенное место, непрестанно повторяя имя Хари: «Что имя, то и Хари — нет никакого различия»."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0252"
+  notes: "Повеление Нитьянанде жениться — ср. ev-nityananda-marriage."
+  themes: [teaching, separation]
+  teaching: [holy-name]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "133. После пра", to_text: "141. Что имя, т"}
+
+- id: apr-0135
+  source: advaita-prakasha
+  ref: "Гл. 19, 142–154"
+  file: "advaita-prakash/19.md"
+  period: P14
+  order: 60
+  title: "Уход Брахмы-Харидаса посреди санкиртаны со словами «Шри Кришна Чайтанья»"
+  summary: "Зная, что настал его уход, Харидас ложится посреди санкиртаны, прижимает к сердцу стопы Махапрабху и со словами «Шри Кришна Чайтанья» оставляет жизнь; Господь возглашает имя Хари, погребает его и устраивает великий праздник."
+  persons: ["@haridasa-thakura", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [departure, kirtan]
+  event: ev-haridasa-departure
+  verses:
+    - {file: "advaita-prakash/19.md", from_text: "142. Теперь по", to_text: "154. Уповая на"}
+
+- id: apr-0136
+  source: advaita-prakasha
+  ref: "Гл. 20, 1–25"
+  file: "advaita-prakash/20.md"
+  period: P15
+  order: 20
+  title: "Нитьянанда в Амбике: Сурьядас Пандит хочет отдать за Него дочерей, но родные колеблются"
+  summary: "По повелению Махапрабху Нитьянанда с Уддхараной Даттой идёт в Гауду и в Амбике принимает чарующий облик; Сурьядас Пандит (Какудми), узнав от Уддхараны, что это Нитьянанда Ньяя-чудамани, принимает Его, и женщины прочат Его в женихи его дочерям Васудхе и Джахнаве; но родные не решаются отдать дочерей пришельцу неведомого рода, и Нитьянанда уходит."
+  persons: ["@nityananda", "@uddharana-datta", "@suryadasa-pandita", "@vasudha", "@jahnava"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0102"
+  notes: "Какудми — отец Ревати, супруги Баларамы (сноска перевода)."
+  themes: [family]
+  divergence: "Сватовство и женитьба Нитьянанды происходят ещё при Господе, по Его повелению (19.137)."
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "1. Слава, слав", to_text: "25. Так они ве"}
+
+- id: apr-0137
+  source: advaita-prakasha
+  ref: "Гл. 20, 26–55"
+  file: "advaita-prakash/20.md"
+  period: P13
+  order: 206
+  title: "Гауридас Пандит (Субала) вырезает образы Гауры и Нитьянанды"
+  summary: "Гауридас узнаёт Нитьянанду на берегу Ганги; автор вспоминает, как родные Гауридаса просили Господа женить его, а Гаура, обняв его как друга Субалу, велел жениться; Гауридас не мог жить без Гауры и Нитая, и по совету Нитьянанды Гаура велел ему сделать образы Их обоих; искусный Гауридас вырезает из дерева два образа — Брахман в дереве."
+  persons: ["@gauridasa-pandita", "@nityananda", "@mahaprabhu"]
+  places: ["#ambika-kalna", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0229"
+  notes: "Субала — близкий друг Кришны во Врадже (сноска перевода). Божества — неотличны от Господа («Брахман в дереве»), а не изображения."
+  themes: [deities, family]
+  bhava: [sakha]
+  event: ev-gauridasa-deities
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "26. Господь Ни", to_text: "55. Затем Гаур"}
+
+- id: apr-0138
+  source: advaita-prakasha
+  ref: "Гл. 20, 56–77"
+  file: "advaita-prakash/20.md"
+  period: P13
+  order: 207
+  title: "Ачьюта по указанию Адвайты освящает образы в Амбике: как поклоняться Гауре и Нитьянанде"
+  summary: "Гауридас просит Адвайту освятить образы; Ачьюта просит послать его и узнаёт: Гауре поклоняются с медитацией по десятисложной мантре Гопалы, ибо Кришна покрыт сиянием Радхи, а Нитьянанде — мантрой Нараяны; на вопрос о ином способе Нарахари Саркара Адвайта отвечает, что Кришна отвечает каждому по его поклонению; Ачьюта торжественно освящает образы в Амбике."
+  persons: ["@gauridasa-pandita", "@advaita", "@achyutananda", "@narahari-sarakara", "@ishana-nagara"]
+  places: ["#shantipura", "#ambika-kalna"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0229"
+  notes: "Автор пишет по повелению Ачьюты (77)."
+  themes: [deities, teaching]
+  teaching: [gaura-tattva]
+  scriptures: ["Бг. 4.11 («Кто как Мне поклоняется…»)"]
+  event: ev-gauridasa-deities
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "56. Чтобы освя", to_text: "77. Что я, нич"}
+
+- id: apr-0139
+  source: advaita-prakasha
+  ref: "Гл. 20, 78–94"
+  file: "advaita-prakash/20.md"
+  period: P15
+  order: 20.5
+  title: "Нитьянанда оживляет Васудху и берёт в жёны её и Джахнаву; Кхардах; рождение Вирачандры"
+  summary: "Сурьядас приносит к Ганге тело умершей Васудхи; Нитьянанда обещает оживить её, если ему отдадут её в жёны, и даёт ей в ухо имя Хари — Васудха встаёт; Сурьядас, узнав Господа, отдаёт Ему Васудху, а Джахнаву — как приданое; Нитьянанда поселяется в Кхардахе и открывает служение Шьямасундаре; после ухода Махапрабху у Васудхи рождается Вирачандра — эманация Санкаршаны."
+  persons: ["@nityananda", "@uddharana-datta", "@suryadasa-pandita", "@vasudha", "@jahnava", "@virabhadra"]
+  places: ["#ganga", "#kharadaha"]
+  kind: miracle
+  authority: D
+  parallels: "Джаянанда: jcm-0102"
+  notes: ""
+  themes: [family, mercy]
+  teaching: [holy-name]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "78. А тем врем", to_text: "94. Что я слыш"}
+
+- id: apr-0140
+  source: advaita-prakasha
+  ref: "Гл. 20, 95–128"
+  file: "advaita-prakash/20.md"
+  period: P14
+  order: 80
+  title: "В разлуке Адвайта снова учит «знанию» — Гаура внезапно является из Пури, ест у Ситы и скрывается"
+  summary: "Три дня Адвайта тонет в разлуке с Гаурой и решает снова учить сухому знанию, чтобы увидеть Его, при этом вдвое строже служа Кришне; Гаура внезапно приходит из Пурушоттамы, Адвайта видит в Нём «движущегося Джаганнатху»; Гаура ест Его угощение, упрекает: «Подумай Обо Мне — и Я явлюсь; не говори больше о йоге знания», — пьёт сгущённое молоко из рук Ситы и скрывается."
+  persons: ["@advaita", "@mahaprabhu", "@sita-thakurani"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [separation, revelation, prasada]
+  teaching: [bhakti-supremacy]
+  event: ev-advaita-jnana-again
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "95. А Шри Адва", to_text: "128. Сита и Ад"}
+
+- id: apr-0141
+  source: advaita-prakasha
+  ref: "Гл. 20, 129–146"
+  file: "advaita-prakash/20.md"
+  period: P14
+  order: 80.5
+  title: "Адвайта возвращает учеников к бхакти; Камадева Нагара, Агала и Пагала отвергнуты"
+  summary: "Вечером Адвайта говорит ученикам, что прежнее превознесение знания было от смятения ума: знанием познают Ишвару, а преданностью обретают Его, у освобождённых в конце появляется гордыня, освобождение — служанка Бхакти; все принимают путь преданности, кроме Камадевы Нагары, Агалы и Пагалы, которых Адвайта отвергает; они уходят на восток и распространяют свои взгляды."
+  persons: ["@advaita", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "Имена трёх учеников — по OCR (сноска перевода)."
+  themes: [teaching, offense]
+  teaching: [bhakti-supremacy]
+  event: ev-advaita-jnana-again
+  verses:
+    - {file: "advaita-prakash/20.md", from_text: "129. Затем веч", to_text: "146. Уповая на"}
+
+- id: apr-0142
+  source: advaita-prakasha
+  ref: "Гл. 21, 1–32"
+  file: "advaita-prakash/21.md"
+  period: P14
+  order: 95
+  title: "Джагадананда в Бенгалии: поклоны Шачи; Адвайта в экстазе передаёт загадку для «Баула»"
+  summary: "Господь посылает Джагадананду в Гауду передать Шачи поклоны и мольбу о прощении за несыновнее поведение; преданные Надии плачут и радуются вестям; в Шантипуре Адвайта, услышав о безумии Гауры, в экстазе повторяет «явление и сокрытие» и передаёт загадку: «Скажи Баулу: люди стали баулами; на рынке рис больше не продаётся; в деле больше нет нужды; это говорит баул»."
+  persons: ["@mahaprabhu", "@jagadananda-pandita", "@shachi", "@advaita", "@ishana-nagara"]
+  places: ["#puri", "#navadvipa", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Загадку (тарджу) приводит и ЧЧ Антья 19; традиционно её понимают как знак, что миссия Господа исполнена (сноска перевода)."
+  themes: [separation, revelation]
+  event: ev-advaita-tarja
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "1. Слава, слав", to_text: "32. Услышав эт"}
+
+- id: apr-0143
+  source: advaita-prakasha
+  ref: "Гл. 21, 33–60"
+  file: "advaita-prakash/21.md"
+  period: P14
+  order: 95.5
+  title: "Рассказ Джагадананды о Вишнуприи; «Каково Его соизволение, таково и Моё»"
+  summary: "Вернувшись в Нилачалу, Джагадананда рассказывает о любви Шачи и служении Вишнуприи: она ходит с Шачи к Ганге на рассвете, никому не показывает лица, ест остатки с тарелки Шачи, повторяет имя и тайно служит портрету Господа; Господь прерывает его и спрашивает вестей от Ачарьи; услышав загадку, Он говорит: «Каково Его соизволение, таково и Моё» — Адвайта, связавший Кришну любовью, по Своей воле являет и скрывает Его; с того дня в Господе — перемена."
+  persons: ["@jagadananda-pandita", "@mahaprabhu", "@shachi", "@vishnupriya", "@svarupa-damodara", "@advaita"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [separation, family, revelation]
+  teaching: [associates-tattva]
+  event: ev-advaita-tarja
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "33. Через неск", to_text: "60. Услышав эт"}
+
+- id: apr-0144
+  source: advaita-prakasha
+  ref: "Гл. 21, 61–62"
+  file: "advaita-prakash/21.md"
+  period: P14
+  order: 100.5
+  title: "Божественное безумие Радхи в Господе"
+  summary: "В Господе пробуждается божественное безумие Шри Радхи: «Ах, Владыка! Ах, Кришна!» — Он рыдает, не различая дня и ночи, и преданные исполнены страха."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Мурари: mkc-0252"
+  notes: ""
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "61. В Нём проб", to_text: "62. В экстазе м"}
+
+- id: apr-0145
+  source: advaita-prakasha
+  ref: "Гл. 21, 63–69"
+  file: "advaita-prakash/21.md"
+  period: P15
+  order: 10
+  title: "Сокрытие Господа в храме Джаганнатхи: двери сами затворились"
+  summary: "Однажды Господь, созерцая Джаганнатху, со словами «Ах, Владыка!» входит в храм, двери сами затворяются, а открывшись, являют, что Гауранга скрылся; для преданных Он не исчез, но спутники Гауры по обычаю мира скорбят."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0099, jcm-0100; Лочан: lcm-0250"
+  notes: "Предание о сокрытии в храме Джаганнатхи (сноска перевода)."
+  themes: [departure, jagannatha]
+  divergence: "Господь скрывается в храме Джаганнатхи (у Лочана Даса — в Гундиче/в Джаганнатхе, у Джаянанды — в Тоте; ЧЧ подробностей не даёт)."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "63. Однажды Го", to_text: "69. Я ничтожне"}
+
+- id: apr-0146
+  source: advaita-prakasha
+  ref: "Гл. 21, 70–97"
+  file: "advaita-prakash/21.md"
+  period: P15
+  order: 11
+  title: "Адвайта в Шантипуре прозревает сокрытие: безумие разлуки; весть из Кшетры; скорбь и праздник"
+  summary: "В неземном экстазе Адвайта понимает, что Махапрабху скрылся, и в безумии зовёт «Нимай!», говоря то с мальчиком-учеником, то с Гаурой-творцом; затем вайшнав из Кшетры приносит весть, Адвайта без чувств, Сита, Ачьюта, Кришнадас и Гопаладас рыдают, семья постится; на другой день Адвайта устраивает великий праздник с угощением брахманов и бедняков и санкиртаной, а затем непрестанно медитирует на облик Гауры."
+  persons: ["@advaita", "@sita-thakurani", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0099, jcm-0100; Лочан: lcm-0250"
+  notes: ""
+  themes: [separation, departure, festival]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "70. А тем врем", to_text: "97. В его волн"}
+
+- id: apr-0147
+  source: advaita-prakasha
+  ref: "Гл. 21, 98–109"
+  file: "advaita-prakash/21.md"
+  period: P15
+  order: 35
+  title: "Сон Адвайты: Гаура и Нитьянанда родятся сыновьями Кришна Мишры — Рагхунатха и Долаговинда"
+  summary: "Махапрабху во сне говорит Адвайте: «Нада, не печалься: ты увидишь Меня в сыне Кришнамишры, а Нитьянанду — в его втором сыне»; в тот же день у Кришна Мишры рождается Рагхунатха, подобие Гауранги, а в полнолуние праздника качелей — Долаговинда, подобие Нитьянанды."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@krishna-mishra", "@raghunatha-advaita-grandson", "@dolagovinda"]
+  places: ["#shantipura"]
+  kind: vision
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [family, celestial]
+  calendar: "пхалгуна-пурнима, праздник качелей (рождение Долаговинды)"
+  event: ev-advaita-grandsons
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "98. С того дня", to_text: "109. Господь д"}
+
+- id: apr-0148
+  source: advaita-prakasha
+  ref: "Гл. 21, 110–173"
+  file: "advaita-prakash/21.md"
+  period: P15
+  order: 36
+  title: "Наставление Адвайты сыновьям о дхарме домохозяина; служение Мадана-Гопале вверено Кришна Мишре"
+  summary: "Адвайта учит сыновей: сандхья и пять жертвоприношений, милость ко всем, туласи во дворе, ежедневная санкиртана, общение со святыми и жизнь ради служения Кришне; отрешённому Ачьюте служение Божеству не по пути, и Адвайта вверяет Мадана-Гопалу домохозяину Кришна Мишре, отцу Рагхунатхи и Долаговинды, запрещая допускать к служению отвернувшихся — в том числе тех, кто не признаёт Гаурангу; Ачьюта и Гопала радуются, а Баларама и Джагадиша в гневе устанавливают другое Божество Кришны."
+  persons: ["@advaita", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@balarama-mishra", "@jagadisha-mishra", "@raghunatha-advaita-grandson", "@dolagovinda", "@madana-gopala-deity", "@sita-thakurani", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: teaching
+  authority: D
+  parallels: ""
+  notes: "«Восемьдесят четыре ада» — по OCR; пять великих жертвоприношений — обязанности домохозяина (сноски перевода)."
+  themes: [family, deities, teaching]
+  teaching: [vaishnava, gaura-tattva, purity]
+  event: ev-advaita-entrusts-madana-gopala
+  verses:
+    - {file: "advaita-prakash/21.md", from_text: "110. Однажды Ш", to_text: "173. Уповая на"}
+
+- id: apr-0149
+  source: advaita-prakasha
+  ref: "Гл. 22, 1–26"
+  file: "advaita-prakash/22.md"
+  period: P15
+  order: 30
+  title: "Восемь лет разлуки; семь ночей Адвайты и Нитьянанды в Кхардахе; Нитьянанда скрывается в киртане"
+  summary: "После сокрытия Махапрабху оба Господа восемь лет живут в разлуке, как гопи без Кришны, постясь и взывая «Ах, Гауранга!»; Нитьянанда письмом зовёт Адвайту в Кхардах; семь ночей они беседуют наедине, а на восьмой день в киртане о Гауре Нитьянанда незаметно скрывается; Адвайта, словно безумный, сетует, Вирабхадра катается в пыли, и Адвайта всех утешает."
+  persons: ["@advaita", "@nityananda", "@virabhadra", "@ishana-nagara"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0103"
+  notes: ""
+  themes: [departure, separation, kirtan]
+  years: [1541, 1542]
+  date_conf: оценка
+  date_basis: "АП 22.8: на восьмой год после сокрытия Господа"
+  divergence: "Нитьянанда скрывается в Кхардахе во время киртана, при Адвайте (по другим преданиям — в Экачакре или в храме Банкима-рая)."
+  event: ev-nityananda-departure
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "1. Слава, слав", to_text: "26. Господин В"}
+
+- id: apr-0150
+  source: advaita-prakasha
+  ref: "Гл. 22, 27–64"
+  file: "advaita-prakash/22.md"
+  period: P15
+  order: 32
+  title: "Праздник в Кхардахе: Адвайта пляшет во всех семи группах; Вирабхадра вводит три угощения для трёх Господ; дадхи-мангала"
+  summary: "На поминальный праздник в Кхардах собираются маханты; в семи группах киртана Адвайта пляшет во всех сразу; Вирабхадра ставит три сиденья и три угощения, Адвайта подносит угощение Махапрабху и Нитьянанде и садится слева, Вирабхадра совершает арати и объявляет: на всяком празднике сначала подносить угощение трём Господам, ибо трое — одно; затем Ачьюта совершает подношение простокваши с куркумой, и все пляшут, как пастухи Гокулы."
+  persons: ["@advaita", "@virabhadra", "@achyutananda", "@mahaprabhu", "@nityananda"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Пашар и дадхи-мангала — обрядовое подношение простокваши, как на Нандотсаве (сноска перевода)."
+  themes: [festival, prasada, kirtan]
+  teaching: [associates-tattva]
+  event: ev-khardaha-festival-three-offerings
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "27. Он велел г", to_text: "64. Какое было"}
+
+- id: apr-0151
+  source: advaita-prakasha
+  ref: "Гл. 22, 65–87"
+  file: "advaita-prakash/22.md"
+  period: P15
+  order: 25
+  title: "Ишана в Навадвипе: обет Вишнуприи — зёрнышко риса на каждое имя"
+  summary: "По повелению Адвайты Ишана идёт в Навадвипу; Дамодара Пандит рассказывает: после ухода Шачи Вишнуприя затворила двери, до третьей стражи повторяет имя, откладывая по зёрнышку риса на каждое, варит лишь эти зёрна без соли, подносит Махапрабху, съедает горсть и раздаёт остальное преданным; с Гададхарой Дасом и Шри Рамой Пандитом Ишана входит во внутренние покои, видит лишь её стопы и получает прасад; Адвайта плачет, признавая волю Кришны."
+  persons: ["@ishana-nagara", "@advaita", "@damodara-pandita", "@vishnupriya", "@gadadhara-dasa", "@srirama-pandita", "@shachi"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [separation, prasada]
+  teaching: [holy-name]
+  event: ev-vishnupriya-austerity
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "65. После праз", to_text: "87. Состояние м"}
+
+- id: apr-0152
+  source: advaita-prakasha
+  ref: "Гл. 22, 88–96"
+  file: "advaita-prakash/22.md"
+  period: P15
+  order: 34
+  title: "Двадцатилетний Вирабхадра просит посвящения у Адвайты — Адвайта велит принять мантру у Джахнавы"
+  summary: "Посланец сообщает, что Вирабхадра, в двадцать лет ещё не посвящённый, плывёт к Адвайте за мантрой; Адвайта считает это решение противным согласию его людей и велит ему принять мантру у матери Джахнавы, и Джахнава возвращает его и посвящает."
+  persons: ["@advaita", "@virabhadra", "@jahnava"]
+  places: ["#shantipura", "#kharadaha"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: ""
+  themes: [teaching, family]
+  event: ev-virabhadra-initiation
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "88. Через неск", to_text: "96. Услышав эт"}
+
+- id: apr-0153
+  source: advaita-prakasha
+  ref: "Гл. 22, 97–132"
+  file: "advaita-prakash/22.md"
+  period: P15
+  order: 40
+  title: "Сокрытие Адвайты: последний киртан о Гауре; Он входит в храм Мадана-Гопалы и становится невидим"
+  summary: "Скорбя, что Его люди хулят Гаурангу, Адвайта решает оставить тело во искупление и созывает Вирачандру, Гауридаса, Нарахари, Кави Карнапуру, Шьямадаса, Вишнудаса, Ядунандану и других; Он велит проповедовать дхарму Чайтаньи и избегать хулителей Гауранги; в киртане семерых плясунов Он в махабхаве восклицает: «Вот Я обрёл Гаурангу!» — входит в храм Мадана-Гопалы и становится невидим; Ачьюта объявляет, что игры Гауранги завершились; по тексту, Адвайта прожил на земле сто двадцать пять лет."
+  persons: ["@advaita", "@achyutananda", "@krishna-mishra", "@gopala-dasa-advaita", "@virabhadra", "@narahari-sarakara", "@gauridasa-pandita", "@damodara-pandita", "@kavi-karnapura", "@shyamadasa-acharya", "@vishnudasa-acharya", "@yadunandana-acharya", "@madana-gopala-deity", "@ishana-nagara"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: D
+  parallels: "Джаянанда: jcm-0104"
+  notes: "125 лет на земле (сноска перевода)."
+  themes: [departure, kirtan, separation]
+  years: [1558, 1559]
+  date_conf: оценка
+  date_basis: "АП 22.130: 125 лет на земле, от явления в 1434 г. (дата хинди-издания, гл. 1)"
+  event: ev-advaita-departure
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "97. Теперь пос", to_text: "132. Ради очищ"}
+
+- id: apr-0154
+  source: advaita-prakasha
+  ref: "Гл. 22, 133–166 и заключительные строки"
+  file: "advaita-prakash/22.md"
+  period: PX
+  order: 13
+  title: "Как написана книга: источники, повеление Адвайты и Ситы, женитьба в семьдесят лет, завершение в Лауде в 1490 г. Шака"
+  summary: "Ишана называет источники — «Бальялила-сутру» Лаудии Кришнадаса, рассказы Кришнадаса, Падманабхи и Шьямадаса и виденное им самим; Адвайта велел ему проповедовать имя Гауры в Своём родном краю, а Сита после сокрытия Адвайты велела почти семидесятилетнему Ишане жениться; с Джагаданандой он пришёл на восток, в Лауду, и закончил книгу в 1490 г. Шака; он просит прощения у вайшнавов и славит единство гуру, Кришны и вайшнавов и трёх Господ."
+  persons: ["@ishana-nagara", "@advaita", "@sita-thakurani", "@divya-simha", "@padmanabha-chakravarti", "@shyamadasa-acharya", "@jagadananda-pandita"]
+  places: ["#lauda"]
+  kind: author
+  authority: D
+  parallels: ""
+  notes: "1490 г. Шака = 1568 г. н. э. (сноска перевода). «Джагадананда Рай» (153) — без уточнения."
+  themes: [author]
+  years: [1568, 1568]
+  date_conf: оценка
+  date_basis: "АП 22.137: книга завершена в 1490 г. Шака"
+  verses:
+    - {file: "advaita-prakash/22.md", from_text: "133. Нет у мен", to_text: "166. Нет во вс"}
