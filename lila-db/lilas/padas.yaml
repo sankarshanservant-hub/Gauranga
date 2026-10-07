@@ -8765,3 +8765,460 @@
   event: ev-marriage-lakshmipriya
   verses:
     - {file: "padas/ru/20.md", from: "22.1", to: "22.4"}
+
+- id: pad-0440
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 85 (2.3, № 16) «অধিবাস নিশি পোহাইলে» = БР 12 (изд. 1912, с. 790–791; изд. 1960, ст. 1277–1282)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.6
+  title: "Утро свадебного дня: Нимай совершает ведические обряды"
+  summary: "Миновала ночь адхивасы; окружённый брахманами, Нимай совершает предписанные Ведами обряды; толпы, музыка, хвалы бхатов, клики женщин; все ликуют при женских обрядах."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 10; ЧЧ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-282. Вероятно Чакраварти: есть в БР. Сноска: свадебные обряды Господь принимает, следуя лиле; Лакшмиприя — вечная супруга Господа."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "1.1", to: "1.6"}
+
+- id: pad-0441
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 85 (2.3, № 17) «কুলবধূগণ উলসিত মন» = БР 12 (изд. 1912, с. 791; изд. 1960, ст. 1283–1286)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.7
+  title: "Жёны знатных семей идут за водой для свадебного омовения"
+  summary: "Жёны знатных семей наряжаются для обряда воды (пани-саи), глядя на лицо Горы, издают клики «улу-лу»; с музыкой идут за водой и, совершив обряд, входят в дом."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-035. Вероятно Чакраварти: есть в БР. Сноска: мотив женщин Надии — позиция традиции о «гаура-нагари»."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "2.1", to: "2.4"}
+
+- id: pad-0442
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 85 (2.3, № 18) «কিবা শ্রীশচী-ভবন মাঝে» = БР 12 (изд. 1912, с. 791; изд. 1960, ст. 1287–1292)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.8
+  title: "Свадебное омовение жениха"
+  summary: "Женщины умащают кудри Гауры маслом, натирают Его куркумой и благовониями — куркума блёкнет рядом с Его сиянием; Его омывают водой Ганги, а поэт в шутку вытирает Его полотенцем."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-036. Вероятно Чакраварти: есть в БР. Сноска: шутливая забота женщин — не нагари-бхава."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "3.1", to: "3.6"}
+
+- id: pad-0443
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 86 (2.3, № 19) «আজু কত না আনন্দ মনে» = БР 12 (изд. 1912, с. 791–792; изд. 1960, ст. 1293–1300)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.9
+  title: "Друзья наряжают жениха"
+  summary: "Друзья наряжают Вишвамбхару к свадьбе: сандал, тилак, гирлянда малати в кудрях, серьги, ожерелье, браслеты, перстни, золотая цепочка; поэт облачает Его в одежду с красной каймой и любуется Его красотой."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-037. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "4.1", to: "4.8"}
+
+- id: pad-0444
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 86–87 (2.3, № 20) «বেশ বনাইয়া সহচরে» = БР 12 (изд. 1912, с. 792; изд. 1960, ст. 1301–1308)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.91
+  title: "Гаура, поклонившись матери, отправляется на свадьбу"
+  summary: "Друзья дают нарядному Нимаю золотое зеркало; Шачи с подругами совершает благие обряды; молодые жёны смотрят издали; поклонившись матери, Гаура под пение Вед и музыку отправляется на свадьбу."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-283. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "5.1", to: "5.8"}
+
+- id: pad-0445
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 87 (2.3, № 21) «আজু গোধূলি সময় শুভক্ষণ» = БР 12 (изд. 1912, с. 792–793; изд. 1960, ст. 1309–1312)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.92
+  title: "Свадебное шествие к дому Валлабхи"
+  summary: "В благой час сумерек Гаура в свадебном наряде на паланкине, окружённый брахманами, медленно движется к дому Валлабхи; хвалы, танцы, море музыки; боги смотрят с неба и невидимо сходят на землю; толпы, сотни светильников, луна; ликуют Земля и Ганга."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 10"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-038. Вероятно Чакраварти: есть в БР; враджабули."
+  themes: [festival, family, celestial]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "6.1", to: "6.4"}
+
+- id: pad-0446
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 87–88 (2.3, № 22) «গোরাচাঁদের বিবাহ দেখিবারে» = БР 12 (изд. 1912, с. 793; изд. 1960, ст. 1313–1316)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.93
+  title: "Молодые жёны Надии спешат увидеть свадьбу"
+  summary: "Молодые жёны Надии в нарядах, звеня браслетами, спешат увидеть свадьбу Горачанды, переговариваются, улыбаясь под покрывалами, и не помнят себя от радости, видя, как Господь входит в дом Валлабхи."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-039. Вероятно Чакраварти: есть в БР. Сноска: праздничный восторг, не нагари-бхава."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "7.1", to: "7.4"}
+
+- id: pad-0447
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 88–89 (2.3, № 23) «বল্লভ-ভবনে গোরা রায়» = БР 12 (изд. 1912, с. 794–795; изд. 1960, ст. 1317–1336)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.94
+  title: "Свадьба в доме Валлабхи Ачарьи: канья-дана"
+  summary: "Вишвамбхара стоит под свадебным навесом; мать невесты с замужними женщинами встречает жениха, семь раз обходя Его с семью светильниками; Валлабха Ачарья усаживает Лакшми на трон и отдаёт её сыну Шачи; боги невидимо осыпают свадьбу цветами."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 10; ЧЧ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-040. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family, celestial]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "8.1", to: "8.20"}
+
+- id: pad-0448
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 89 (2.3, № 24) «গোরা গুণমণি প্রাণপ্রিয়া সহ» = БР 12 (изд. 1912, с. 795; изд. 1960, ст. 1337–1340)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.95
+  title: "Брачный покой (васара): шутки женщин"
+  summary: "Гора с Лакшми в брачном покое; женщины входят и выходят, шутят, дают Ему бетель, чтобы Он вложил его в уста Лакшми, заплетают и распускают Ему волосы, сажают Лакшми к Нему на колени."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-041. Вероятно Чакраварти: есть в БР. Сноска: обрядовое веселье васары — не нагари-бхава; Лакшмиприя — вечная энергия Господа."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "9.1", to: "9.4"}
+
+- id: pad-0449
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 89 (2.3, № 25) «গোরাচাঁদের বিবাহ পরদিনে» = БР 12 (изд. 1912, с. 795–796; изд. 1960, ст. 1341–1346)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.96
+  title: "Утро после свадьбы в доме Валлабхи"
+  summary: "На рассвете после свадьбы женщины сбегаются любоваться женихом и невестой; ликует жена Валлабхи; щедрый Валлабха Мишра делает всё ради зятя; обряды завершены, боги хвалят Валлабху."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-042. Вероятно Чакраварти: есть в БР (каталог считал её «только ГПТ»)."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "10.1", to: "10.6"}
+
+- id: pad-0450
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 89 (2.3, № 26) «গৌর গোকুলচন্দ্র চলু নিজ গেহে» = БР 12 (изд. 1912, с. 796; изд. 1960, ст. 1347–1350)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.97
+  title: "Гаура с невестой уезжает из дома Валлабхи"
+  summary: "На рассвете Гаура отправляется домой; Валлабха наедине поручает Ему Лакшми; подруги Лакшми и женщины плачут; раковины, литавры, пение Вед и хвалы."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-043. Вероятно Чакраварти: есть в БР; враджабули."
+  themes: [festival, family, separation]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "11.1", to: "11.4"}
+
+- id: pad-0451
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 90 (2.3, № 27) «বিবাহ করিয়া বিশ্বম্ভর» = БР 12 (изд. 1912, с. 796; изд. 1960, ст. 1351–1358)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 25.98
+  title: "Возвращение домой с Лакшмиприей; Шачи благословляет невестку"
+  summary: "Вишвамбхара с Лакшми возвращается домой; замужние женщины совершают обряды; Шачи, взяв невестку на колени, благословляет её рисом и дурвой и не может наглядеться на сына и невестку; Господь радует всех и одаряет бхатов, плясунов и музыкантов."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 10"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-044. Вероятно Чакраварти: есть в БР; подпись — желание поэта увидеть такое веселье (не очевидец)."
+  themes: [festival, family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "padas/ru/21.md", from: "12.1", to: "12.8"}
+
+- id: pad-0452
+  source: padas
+  ref: "Нарахари (?), ГПТ1 с. 90 (2.3, № 28) «লক্ষ্মী প্রায় লক্ষ্মী ঠাকুরাণী» (только ГПТ; ср. прозу БР 12, изд. 1960, ст. 1360–1364)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 28.1
+  title: "Лакшмиприя служит Шачи; Нимай-пандит учит"
+  summary: "Лакшми днём и ночью служит свекрови и мужу; Нимай-пандит, ученик Гангадаса, учит бесчисленных учеников — словно Брихаспати в Надии, задаёт неразрешимые хитрые вопросы, вечером с учениками у Ганги наслаждается учёностью."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@shachi", "@gangadasa-pandita"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: "ЧЧ Ади 16"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-284. Атрибуция не установлена: только ГПТ; по месту в цикле и сходству с прозой БР — скорее Чакраварти."
+  themes: [learning, family]
+  bhava: [teacher]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "padas/ru/21.md", from: "13.1", to: "13.8"}
+
+- id: pad-0453
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 93 (2.4, № 1) «নদীয়া-নগরে হৈল ধ্বনি» = БР 12 (изд. 1912, с. 799; изд. 1960, ст. ≈1397–1402)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.1
+  title: "Весть о второй свадьбе: Санатана Мишра отдаёт Вишнуприю"
+  summary: "По Надии разносится весть: Гора снова женится, Санатана Мишра отдаёт Ему свою дочь Вишнуприю, несравненную красотой и достоинствами; завтра адхиваса, и женщины не дождутся утра, чтобы идти к Шачи на обряд воды."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15; Мурари 1.13–1.14"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-045. Вероятно Чакраварти: есть в БР. Сноска перед разделом: уход Лакшмиприи (ЧБ Ади 14; ЧЧ Ади 16); Вишнуприя — Бху-шакти, вечная супруга Господа."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "14.1", to: "14.6"}
+
+- id: pad-0454
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 94 (2.4, № 5) «যুবতী-যূথ মতি গতি অতি অদভুত» = БР 12 (изд. 1912, с. 800–801; изд. 1960, ст. 1415–1418) = ГЧЧ гл. 9, пада 19"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.2
+  title: "Молодые женщины кланяются стопам Шачи"
+  summary: "В утро адхивасы вереницы молодых женщин склоняются к стопам Шачи, словно золотые лианы под тяжестью цветов, тянутся взять пыль её стоп и тихо улыбаются, прикрыв лица покрывалами."
+  persons: ["@narahari-chakravarti", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-048. Вероятно Чакраварти: есть в БР и ГЧЧ (в ГЧЧ — среди пад о нагари, в БР и ГПТ — среди свадебных); враджабули."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "15.1", to: "15.4"}
+
+- id: pad-0455
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 95 (2.4, № 6) «শচী জগত-জননী জন-নীতবিদ» = БР 12 (изд. 1912, с. 801; изд. 1960, ст. 1419–1422) = ГЧЧ гл. 9, пада 21"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.3
+  title: "Шачи благословляет молодых жён"
+  summary: "Шачи, мать мира, с любовью принимает молодых жён, расспрашивает о благополучии и благословляет каждую; те отвечают, что с даршаном её стоп несчастье не останется, и стоят, сложив ладони; глаза Шачи полны слёз нежности."
+  persons: ["@narahari-chakravarti", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-049. Вероятно Чакраварти: есть в БР и ГЧЧ."
+  themes: [family, festival]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "16.1", to: "16.4"}
+
+- id: pad-0456
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 95–96 (2.4, № 8) «গোরা-রসে ভাসি হাসি হাসি লহু লহু» = БР 12 (изд. 1912, с. 802; изд. 1960, ст. 1429–1432)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.4
+  title: "Обряд воды в день адхивасы; небесные жёны среди женщин Надии"
+  summary: "По велению Шачи женщины знатных семей вереницами идут за водой с благими предметами, лотосами и подносами под звон браслетов и музыку; невидимо к ним примешиваются небесные жёны; вернувшись, раздают масло и куркуму и совершают женские обряды."
+  persons: ["@narahari-chakravarti", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-051. Вероятно Чакраварти: есть в БР. Не нагари (план считал предварительно нагари); сноска о мотиве женщин Надии."
+  themes: [festival, family, celestial]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "17.1", to: "17.5"}
+
+- id: pad-0457
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 96 (2.4, № 9) «শচীদেবী উলসিত হৈঞা» = БР 12 (изд. 1912, с. 803; изд. 1960, ст. 1433–1436)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.5
+  title: "Шачи поклоняется Ганге и Шаштхи перед свадьбой сына"
+  summary: "Шачи с замужними женщинами поклоняется Ганге — и та вздымается, храня в сердце стопы сына Шачи; затем поклоняется Шаштхи, и та ликует о своей удаче; дома Шачи совершает благие обряды."
+  persons: ["@narahari-chakravarti", "@shachi", "@ganga-devi"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-285 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: Ганга исходит из стоп Господа; поклонение полубогам — обычай, которому Шачи следует в лиле."
+  themes: [festival, family, celestial]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "18.1", to: "18.4"}
+
+- id: pad-0458
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 96 (2.4, № 10) «গোরা-বিধু অধিবাস-সুখে» = БР 12 (изд. 1912, с. 803–804; изд. 1960, ст. 1437–1440)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.6
+  title: "Адхиваса жениха; Санатана Мишра касается Его благовониями"
+  summary: "Все спешат в дом на адхивасу Горы; близкие искусно совершают обряды, раздают гирлянды и сандал; сын Шачи сияет среди собрания, как Индра среди богов; Санатана Мишра приходит с дарами, касается Его благовониями и не может отвести глаз от Его лица."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-052. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "19.1", to: "19.4"}
+
+- id: pad-0459
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 97–98 (2.4, № 12) «মিশ্র সনাতন হর্ষ মনে» = БР 12 (изд. 1912, с. 805; изд. 1960, ст. 1445–1458)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.7
+  title: "Адхиваса Вишнуприи в доме Санатаны Мишры"
+  summary: "Брахманы приносят из дома Шачи всё нужное для адхивасы; знатные люди Надии собираются в доме Раджа-пандита; жена Мишры с подругами совершает обряды; Вишнуприя, робко оглядываясь, выходит и садится на трон; все касаются её благовониями и благословляют."
+  persons: ["@narahari-chakravarti", "@vishnupriya", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: "ЧБ Ади 15"
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-053. Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "20.1", to: "20.14"}
+
+- id: pad-0460
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 98 (2.4, № 13) «অধিবাস দিবসের পরে» = БР 12 (изд. 1912, с. 806; изд. 1960, ст. 1459–1476)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.8
+  title: "Свадебный день: боги невидимо приходят смотреть свадьбу Нимая"
+  summary: "По Надии разносится «сегодня свадьба Нимая»; невидимо приходят Шива с Парвати, Ананта, обитатели Вайкунтхи, Брахма, Индра с Шачи, небесные жёны, гандхарвы, танцовщицы, мудрецы; брахманы Надии собираются в доме Нимая, а Гаурахари, совершив обряды, сидит в радости."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@shiva", "@parvati", "@brahma", "@indra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-054. Вероятно Чакраварти: есть в БР."
+  themes: [festival, celestial, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "21.1", to: "21.18"}
+
+- id: pad-0461
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 98 (2.4, № 14) «গোরা রসময় সুখের আলয়» = БР 12 (изд. 1912, с. 806–807; изд. 1960, ст. 1477–1480)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.9
+  title: "Свадебное омовение жениха перед второй свадьбой"
+  summary: "Женщины с кликами «улу-лу» умащают Гауру благовониями и куркумой, втирают масло в кудри, омывают водой Ганги, вытирают полотенцем и облачают в сухую одежду с красной каймой."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-055. Вероятно Чакраварти: есть в БР. Сноска: свадебный обряд, не нагари-бхава."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "22.1", to: "22.4"}
+
+- id: pad-0462
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 99 (2.4, № 15) «কি আনন্দ শচীর ভবনে» = БР 12 (изд. 1912, с. 807; изд. 1960, ст. 1481–1486)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.91
+  title: "Гаурахари на троне; близкие наряжают Его к свадьбе"
+  summary: "После омовения Гаурахари садится на дивный трон; замужние женщины совершают обряды; близкие, не в силах отвести от Него глаз, наряжают Его к свадьбе."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-286 (новая строка). Вероятно Чакраварти: есть в БР."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "23.1", to: "23.6"}
+
+- id: pad-0463
+  source: padas
+  ref: "Нарахари (Чакраварти?), ГПТ1 с. 99 (2.4, № 16) «নদীয়ার শশী রসিক-শেখর» = БР 12 (изд. 1912, с. 807; изд. 1960, ст. 1487–1490)"
+  file: "padas/ru/21.md"
+  period: P05
+  order: 100.92
+  title: "Свадебный наряд Гауры (вторая свадьба)"
+  summary: "Луна Надии в свадебном убранстве: сандаловый тилак полумесяцем, венец из цветов, сурьма у глаз, серьги-макары, рис и дурва на нити, золотое зеркало в правой руке."
+  persons: ["@narahari-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: D
+  parallels: ""
+  notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-056. Вероятно Чакраварти: есть в БР. Сноска: оборот любовной лирики о красоте жениха — позиция традиции."
+  themes: [festival, family]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "padas/ru/21.md", from: "24.1", to: "24.4"}
