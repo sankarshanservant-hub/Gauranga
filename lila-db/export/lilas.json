@@ -8257,7 +8257,7 @@
    0,
    1
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0237",
@@ -8319,7 +8319,69 @@
    0,
    1
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0555",
+  "source": "padas",
+  "ref": "Нарахари (не установлено), ГПТ1 с. 452–453 (6.3, № 2) «ধন্য ধন্য বলি মেন»",
+  "file": "padas/ru/26.md",
+  "period": "P02",
+  "order": 6.1,
+  "title": "Рождение Гададхары Пандита в доме Мадхавы Мишры",
+  "summary": "В новолуние вайшакхи в доме Мадхавы Мишры в Надии рождается Гададхара, любимец Гауранги; Мадхава и Ратнавати вне себя от радости, жители Надии славят их удачу, жёны брахманов благословляют младенца рисом и дурвой.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@gadadhara-pandita",
+   "@madhava-mishra"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 22",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-217. Атрибуция не установлена: только ГПТ (нет в БР, ГЧЧ); простой бенгальский трипади. Сноска: Гададхара Пандит — Шри Радха (ГГД 147–153); явление вечного спутника — не рождение по карме.",
+  "themes": [
+   "family",
+   "celestial"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "calendar": "вайшакха, новолуние (куху)",
+  "event": "ev-gadadhara-birth",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "1.1",
+    "to": "1.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "1.1",
+    "to": "1.6",
+    "line": 23,
+    "line_to": 38,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L23-L38",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L25-L40"
+   }
+  ],
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "attestation": 2
  },
  {
   "id": "jcm-0020",
@@ -50271,6 +50333,247 @@
   "attestation": 1
  },
  {
+  "id": "pad-0556",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 453 (6.3, № 4) «গদাধর পরম সুঘর রসধাম» = ГЧЧ, кирана 4, пада 17",
+  "file": "padas/ru/26.md",
+  "period": "P07",
+  "order": 134.6022,
+  "title": "Гададхара в кругу спутников: тайное становится явным",
+  "summary": "Облик и речь Гададхары пленяют мир; вспоминая прежние игры, он теряет самообладание и плывёт в счастье; поэт улыбается, видя, как тайная бхава проступает наружу.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@gadadhara-pandita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-218. Вероятно Чакраварти: есть в ГЧЧ (утро Господа в кругу преданных); враджабули. Сноска: прежние игры — лила Враджа (ГГД 147–153).",
+  "themes": [
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "2.1",
+    "to": "2.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "2.1",
+    "to": "2.4",
+    "line": 52,
+    "line_to": 61,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L52-L61",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L56-L65"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0557",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 454 (6.3, № 7) «আজুক সুখ কছু বরণে ন জাত» = ГЧЧ, кирана 4, пада 19",
+  "file": "padas/ru/26.md",
+  "period": "P07",
+  "order": 134.6023,
+  "title": "Шривас в экстазе, видя игру Господа",
+  "summary": "Шривас, видя игру Господа, тихо улыбается; его тело колеблется от любви, волоски стоят дыбом, он дрожит, как лиана на ветру, твердит «Друг смиренных!», поёт, пляшет и плачет.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@srivasa",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-323 (новая строка). Вероятно Чакраварти: есть в ГЧЧ; враджабули. Шривас — Нарада (ГГД 90).",
+  "themes": [
+   "ecstasy",
+   "kirtan"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 79,
+    "line_to": 88,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L79-L88",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L83-L92"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0558",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 454 (6.3, № 8) «সুন্দর সুঘর গদাধর দাস» = ГЧЧ, кирана 4, пада 20",
+  "file": "padas/ru/26.md",
+  "period": "P07",
+  "order": 134.6024,
+  "title": "Гададхара Дас рядом с Гаурой",
+  "summary": "Гададхара Дас сияет рядом с Гаурой, как луна рядом с луной; тело его нежно, глаза томны; в сердце непрестанно рождаются прежние бхавы, и скрыть их он не может.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@gadadhara-dasa",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-219. Вероятно Чакраварти: есть в ГЧЧ; враджабули. Гададхара Дас — Чандраканти и Пурнананда (ГГД 154–155).",
+  "themes": [
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "4.1",
+    "to": "4.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "4.1",
+    "to": "4.4",
+    "line": 101,
+    "line_to": 110,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L101-L110",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L107-L116"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0571",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 483 (6.3, № 77) «কি কহব পরিকর পরম উদার» = ГЧЧ, кирана 4, пада 21",
+  "file": "padas/ru/26.md",
+  "period": "P07",
+  "order": 134.6025,
+  "title": "Спутники пьют нектар лица Гауры",
+  "summary": "Спутники непрестанно пьют нектар лица Гауры и теряют самообладание: у одного трепет и сдавленный голос, у другого дрожь, у третьего слёзы; кто-то кружит, кто-то повторяет Имя, кто-то смеётся и пляшет.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-226. Вероятно Чакраварти: есть в ГЧЧ (последняя пада кираны «Господь в кругу преданных»); враджабули. Сноска: саттвика-бхавы.",
+  "themes": [
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva",
+   "prema"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "17.1",
+    "to": "17.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "17.1",
+    "to": "17.4",
+    "line": 562,
+    "line_to": 571,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L562-L571",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L584-L593"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0237",
   "source": "padas",
   "ref": "Васу Гхош, ГПТ1 с. 351 (№ 24) «বায়স কোকিলকুল ঘুঘু দহিয়াল-রব»",
@@ -55766,6 +56069,68 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/2.18.md?plain=1#L37-L51",
     "file_en": "murari-gupta/en/2.18.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.18.md?plain=1#L37-L51"
+   }
+  ],
+  "cb": "Мадхья 26",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "pad-0573",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 367–368 (5.3, № 7) «গোরাচাঁদ ছাড়ি যাবে নৈদা» = БР 12 (изд. 1912, с. 958; изд. 1960, ст. 3526–3529)",
+  "file": "padas/ru/26.md",
+  "period": "P07",
+  "order": 142.1,
+  "title": "Природа Надии скорбит перед санньясой Господа",
+  "summary": "Гора покинет Надию — Джахнави утихла, изваяния Шамбху, Бхагавати и Ганапати померкли, деревья не цветут, пчёлы и птицы умолкли и плачут, коровы и олени не находят покоя: земля Надии не может сдержать горя.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "БР 12 (ст. 3519–3525: утешение Шачи и Вишнуприи, цитата ЧБ Мадхья)",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10, добор по сплошной сверке подписей). НГ-333 (новая строка). Вероятно Чакраварти: есть в БР (12-я волна). Сноска: полубоги — слуги Господа и скорбят о Его уходе.",
+  "themes": [
+   "sannyasa",
+   "separation"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-sannyasa-decision-devotees-grief",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "19.1",
+    "to": "19.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "19.1",
+    "to": "19.4",
+    "line": 645,
+    "line_to": 654,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L645-L654",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L671-L680"
    }
   ],
   "cb": "Мадхья 26",
@@ -106234,7 +106599,76 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0564",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 474–475 (6.3, № 58) «ও মোর জীবন প্রাণ» = БР 14 (изд. 1912, с. ≈1048–1049; изд. 1960, 14.195–208)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 66.1,
+  "title": "Песнь о жизни Шринивасы Ачарьи",
+  "summary": "Махапрабху с Нитаем во сне посылает Шринивасу во Вриндаван; в Матхуре он узнаёт об уходе Рупы и Санатаны, и те во сне велят ему предаться Гопале Бхатте; Джива принимает его, Гопала Бхатта посвящает; с Нароттамой он обходит Врадж и, получив гирлянду-повеление Говинды, раздаёт книги Госвами в Гауде.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@srinivasa-acharya",
+   "@mahaprabhu",
+   "@nityananda",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@gopala-bhatta",
+   "@jiva-gosvami",
+   "@narottama-dasa"
+  ],
+  "places": [
+   "#mathura",
+   "#vrindavana",
+   "#gauda"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 6",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-327 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна, «песнь о жизни Шринивасы Ачарьи»). Обзор жизни; главное событие — явление Рупы и Санатаны во сне; также — посвящение (ev-srinivasa-initiation) и отъезд с книгами (ev-books-leave-vrindavana).",
+  "themes": [
+   "revelation",
+   "pilgrimage"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-srinivasa-vision-rupa-sanatana",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "10.1",
+    "to": "10.14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "10.1",
+    "to": "10.14",
+    "line": 286,
+    "line_to": 325,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L286-L325",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L297-L336"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0034",
@@ -106439,7 +106873,72 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0559",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 469 (6.3, № 42) «ও মোর পরাণ-বন্ধু শ্যামানন্দ» = БР 15 (изд. 1912, с. 1059–1060; изд. 1960, 15.93–104)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 69.1,
+  "title": "Песнь о жизни Шьямананды",
+  "summary": "Шьямананда уходит из дома в Амбику к Хридае Чайтанье, принимает посвящение, с гирляндой-повелением Гаура-Нитая идёт во Вриндаван, получает милость Рагхунатхи Даса и Дживы, учится и по велению Госвами проповедует в Уткале, опьяняя безбожников именем Гауры.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@shyamananda",
+   "@hridaya-chaitanya",
+   "@jiva-gosvami",
+   "@rasikananda"
+  ],
+  "places": [
+   "#ambika-kalna",
+   "#vrindavana",
+   "#govardhana"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласы 12, 19",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-221. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна, «песнь о жизни Шьямананды»). Обзор жизни; главное событие — посвящение в Амбике; также — приход во Вриндаван (ev-shyamananda-comes-to-vrindavana) и проповедь в Уткале (ev-shyamananda-utkala).",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-shyamananda-initiation-ambika",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "5.1",
+    "to": "5.12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "5.1",
+    "to": "5.12",
+    "line": 125,
+    "line_to": 158,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L125-L158",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L132-L165"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0079",
@@ -107009,7 +107508,78 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0566",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 476–477 (6.3, № 62) «ও মোর করুণাময়, শ্রীঠাকুর মহাশয়» = БР 14 (изд. 1912, с. ≈1050–1051; изд. 1960, 14.215–226)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 75.1,
+  "title": "Песнь о жизни Нароттамы",
+  "summary": "Юный Нароттама оставляет царские наслаждения, во Вриндаване принимает посвящение у Локанатхи, сдружается со Шринивасом; вернувшись, обходит Навадвипу и Нилачалу; в Кхетури служит шести Божествам; в его санкиртане являются Гаурачандра с Адвайтой, Нитьянандой и спутниками.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@narottama-dasa",
+   "@lokanatha",
+   "@srinivasa-acharya",
+   "@ramachandra-kaviraja",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita"
+  ],
+  "places": [
+   "#vrindavana",
+   "#navadvipa",
+   "#puri",
+   "#kheturi"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласы 11, 19",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-329 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна, «песнь о жизни Нароттамы»). Обзор жизни; главное событие — посвящение у Локанатхи; также — шесть Божеств Кхетури (ev-kheturi-six-deities) и явление Господа в киртане (ev-kheturi-festival).",
+  "themes": [
+   "kirtan",
+   "deities",
+   "revelation"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-narottama-initiation",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "12.1",
+    "to": "12.12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "12.1",
+    "to": "12.12",
+    "line": 369,
+    "line_to": 402,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L369-L402",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L384-L417"
+   }
+  ],
+  "calendar": "через год, от вайшакхи до вайшакхи",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0064",
@@ -107072,7 +107642,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0065",
@@ -107138,7 +107708,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0066",
@@ -107210,7 +107780,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0068",
@@ -107274,7 +107844,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0069",
@@ -107727,7 +108297,69 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0560",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 470 (6.3, № 43) «জয় শ্রীল দুঃখী কৃষ্ণদাস» = БР 15 (изд. 1912, с. 1060; изд. 1960, 15.105–108)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 79.6,
+  "title": "Хвала Духкхи Кришнадасу: нупура Радхи и имя Шьямананда",
+  "summary": "Ум Духкхи Кришнадаса — пчела у стоп Хридаи Чайтаньи; во Вриндаване он нашёл ножной браслет Раи и стал зваться Шьямананда; он затопил премой Гауры Уткал, где не было бхакти.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@shyamananda",
+   "@hridaya-chaitanya",
+   "@radha",
+   "@rasikananda"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 12",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-324 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна, сразу после песни о жизни Шьямананды).",
+  "themes": [
+   "mercy"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-shyamananda-nupura",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 178,
+    "line_to": 187,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L178-L187",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L186-L195"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0075",
@@ -109046,7 +109678,69 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0568",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 479–480 (6.3, № 69) «জয় জয় রামচন্দ্র কবিরাজ» = ГЧЧ, кирана 1, пада 22",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 89.1,
+  "title": "Хвала Рамачандре Кавираджу и кругу Шринивасы Ачарьи",
+  "summary": "Рамачандра Кавирадж всегда в Имени, служит стопам Шринивасы, неразлучен с Нароттамой; поэт славит и других учеников Ачарьи — Говинду Кавираджа, Карнапуру, Нрисимху, Бхагавана, Гокулу, Шьямадаса Чакраварти, Вьясу и др. — и царя Виру Хамбира, прося держать его у стоп как слугу.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@ramachandra-kaviraja",
+   "@srinivasa-acharya",
+   "@narottama-dasa",
+   "@govinda-kaviraja",
+   "@vira-hambira"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-330 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в ГЧЧ (кирана 1, ряд пад-вандан спутникам и последователям); враджабули. Хвала-перечень; событие — по главному лицу (Рамачандра — ученик Шринивасы).",
+  "themes": [
+   "author",
+   "kirtan"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-ramachandra-kaviraja-meets-srinivasa",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "14.1",
+    "to": "14.14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "14.1",
+    "to": "14.14",
+    "line": 453,
+    "line_to": 492,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L453-L492",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L472-L511"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0096",
@@ -109113,7 +109807,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0097",
@@ -109179,7 +109873,71 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0567",
+  "source": "padas",
+  "ref": "Нарахари (не установлено), ГПТ1 с. 479 (6.3, № 68) «রামচন্দ্র কবিরাজ বিখ্যাত ধরণী মাঝ»",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 90.1,
+  "title": "Говинда Кавирадж: голос Катьяяни и обращение братьев",
+  "summary": "Говинда, младший брат Рамачандры Кавираджи, сын Чиранджива Сена, ученик Шринивасы; братья, рождённые в роду шактов, во время тяжкой болезни Говинды стали вайшнавами: Катьяяни с неба велела ему поклоняться стопам Говинды; поэтический дар — от деда по матери, Дамодары из Шрикханды.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@govinda-kaviraja",
+   "@ramachandra-kaviraja",
+   "@srinivasa-acharya",
+   "@durga"
+  ],
+  "places": [
+   "#teliya-budhari",
+   "#shrikhanda"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 14",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-223 (первая строка в каталоге искажена). Поздний слой: о последователях. Атрибуция не установлена: только ГПТ; о событиях после ухода Нарахари Саркара. Сноска: «род шактов» — слова автора; отец, Чиранджив Сен, — спутник Махапрабху (ГГД 209).",
+  "themes": [
+   "mercy",
+   "celestial"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-govinda-kaviraja-initiation",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "13.1",
+    "to": "13.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "13.1",
+    "to": "13.5",
+    "line": 421,
+    "line_to": 433,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L421-L433",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L438-L450"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0098",
@@ -109248,7 +110006,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0099",
@@ -109518,7 +110276,126 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0562",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 471–472 (6.3, № 49) «জয় জয় হরিরাম আচার্য্যবর্য্য» = БР 15 (изд. 1912, с. 1061; изд. 1960, 15.117–120); ГЧЧ, кирана 1, пада 23",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 93.1,
+  "title": "Хвала Харираме Ачарье, ученику Рамачандры Кавираджи",
+  "summary": "Харирама Ачарья побеждает противников бхакти, опьянён премой Гауры, жаден до санкиртаны, искусен в служении вайшнавам; его толкование «Бхагаваты» льёт нектар; его жизнь — Божество Шри Кришна Рай.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@harirama-acharya",
+   "@ramachandra-kaviraja"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 14",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-222. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Шринивасы) и в ГЧЧ (кирана 1).",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "teaching": [
+   "vaishnava",
+   "scripture"
+  ],
+  "event": "ev-harirama-ramakrishna-conversion",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "8.1",
+    "to": "8.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "8.1",
+    "to": "8.4",
+    "line": 230,
+    "line_to": 239,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L230-L239",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L238-L247"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0570",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 72) «জয় জয় রামকৃষ্ণ আচার্য্য» = БР 15 (изд. 1912, с. ≈1061–1062; изд. 1960, 15.124–127); ГЧЧ, кирана 1, пада 24",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 93.2,
+  "title": "Хвала Рамакришне Ачарье, ученику Нароттамы",
+  "summary": "Рамакришна Ачарья, мудрый и щедрый, всегда в бхаве, жаден до киртана, сокрушает гордость хулителей; он главный служитель Божества Шри Манмохан Рая; стопы Нароттамы — всё его достояние.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@ramakrishna-acharya",
+   "@narottama-dasa"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 14",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-225. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Нароттамы) и в ГЧЧ (кирана 1).",
+  "themes": [
+   "kirtan",
+   "deities"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-harirama-ramakrishna-conversion",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "16.1",
+    "to": "16.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "16.1",
+    "to": "16.4",
+    "line": 537,
+    "line_to": 546,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L537-L546",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L559-L568"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0103",
@@ -111589,7 +112466,66 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0569",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 71) «জয় জয় শ্রীগঙ্গানারায়ণ চক্রবর্ত্তী» = БР 15 (изд. 1912, с. ≈1062; изд. 1960, 15.131–134); ГЧЧ, кирана 1, пада 25",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 99.1,
+  "title": "Хвала Ганганараяне Чакраварти, ученику Нароттамы",
+  "summary": "Ганганараяна, твёрдый и глубокий, прекрасный обликом, жаден до санкиртаны и танца, поклоняется стопам Нароттамы, пьёт нектар деяний Шри Чайтаньячандры; его жизнь — Божество Шри Говинды.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@ganganarayana-chakravarti",
+   "@narottama-dasa"
+  ],
+  "places": [],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 17",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-331 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Нароттамы) и в ГЧЧ (кирана 1).",
+  "themes": [
+   "kirtan",
+   "deities"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-ganganarayana-conversion",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "15.1",
+    "to": "15.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "15.1",
+    "to": "15.4",
+    "line": 511,
+    "line_to": 520,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L511-L520",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L532-L541"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0126",
@@ -112498,7 +113434,70 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0561",
+  "source": "padas",
+  "ref": "Нарахари (не установлено), ГПТ1 с. 470 (6.3, № 44) «শ্রীবীরভূমেতে ধাম»",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 105.1,
+  "title": "Хвала поэту Джнянадасу из Кандры",
+  "summary": "Джнянадас родился в Кандре (Бирбхум), с юности отрёкся от мира, принял посвящение у Джахнавы; в Кандре поныне в полнолуние празднуют в его честь; он ходил на праздник в Кхетури; его пады — поток нектара, он равен Чандидасу.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@jnanadasa",
+   "@jahnava"
+  ],
+  "places": [
+   "#kandra",
+   "#kheturi"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "«Према-виласа», виласа 19 (Джнянадас среди пришедших в Кхетури); БР 14.180 (Кандра — селение «Мангала Джнянадаса»)",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-325 (новая строка). Поздний слой: о последователях. Атрибуция не установлена: только ГПТ; о событиях после ухода Нарахари Саркара и о празднике, бывающем «поныне», — поздняя пада (не Саркар; возможно, и не Чакраварти). Упоминание праздника в Кхетури.",
+  "themes": [
+   "author",
+   "festival"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-kheturi-festival",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 204,
+    "line_to": 213,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L204-L213",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L212-L221"
+   }
+  ],
+  "calendar": "пхалгуна, пурнима (Дола-ятра, Гаура-пурнима)",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "pvl-0152",
@@ -112563,7 +113562,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0153",
@@ -112647,7 +113646,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0159",
@@ -114998,6 +115997,126 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L200-L330",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L200-L330"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0563",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 473–474 (6.3, № 55) «জয় জয় শ্রীনিবাস আচার্য্য» = БР 14 (изд. 1912, с. ≈1037–1038; изд. 1960, 14.78–81)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 112.51,
+  "title": "Хвала Шринивасу Ачарье в Будхари",
+  "summary": "Шринивас — жизнь людей мира, прибежище падших, любимый спутник Гаурачандры; Нароттама — его жизнь; Рамачандра Кавирадж — слуга его стоп; он посадил на земле новое древо желаний бхакти.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@srinivasa-acharya",
+   "@narottama-dasa",
+   "@ramachandra-kaviraja"
+  ],
+  "places": [
+   "#teliya-budhari"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-326 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна: Шринивас и Нароттама в Будхари перед праздником в Боракули).",
+  "themes": [
+   "kirtan"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-boraquli-festival",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "9.1",
+    "to": "9.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "9.1",
+    "to": "9.4",
+    "line": 257,
+    "line_to": 266,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L257-L266",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L267-L276"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0565",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 476 (6.3, № 61) «জয় জয় শ্রীনরোত্তম পরম উদার» = БР 14 (изд. 1912, с. ≈1038; изд. 1960, 14.83–86)",
+  "file": "padas/ru/26.md",
+  "period": "P15",
+  "order": 112.52,
+  "title": "Облик Нароттамы в Будхари",
+  "summary": "Нароттама радует мир, сияет, как золотой лотос; тело в трепете, на лице улыбка, глаза полны сострадания; тилака, туласи-мала, синие одежды; его прохладные стопы сияют в сердце поэта.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@narottama-dasa"
+  ],
+  "places": [
+   "#teliya-budhari"
+  ],
+  "kind": "post-advent",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-328 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна: в Будхари, перед праздником в Боракули).",
+  "themes": [
+   "ecstasy"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "event": "ev-boraquli-festival",
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "11.1",
+    "to": "11.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "11.1",
+    "to": "11.4",
+    "line": 343,
+    "line_to": 352,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L343-L352",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L356-L365"
    }
   ],
   "years": [
@@ -120334,6 +121453,60 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/18.md?plain=1#L855-L867",
     "file_en": "padas/en/18.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/18.md?plain=1#L886-L898"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0572",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 484–485 (6.3, № 83) «এই অভিলাষ মনে» = БР, заключительная глава (изд. 1960, 35–46; изд. 2006)",
+  "file": "padas/ru/26.md",
+  "period": "PX",
+  "order": 8.6,
+  "title": "Молитва поэта: ожерелье из имён спутников Гауры",
+  "summary": "Поэт мечтает, опьянённый достоинствами Гауры, бродить день и ночь, петь о Нитае, почитать Адвайту, плясать с именами Гададхары, Нарахари, Сварупы, Шривасы, служить стопам родителей Господа и Его спутников, славить Госвами Вриндавана, быть «пляшущим псом» киртаний — и носить имена спутников на шее, как ожерелье.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita",
+   "@gadadhara-pandita",
+   "@narahari-sarakara",
+   "@svarupa-damodara",
+   "@srivasa"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-332 (новая строка). Вероятно Чакраварти: пада входит в авторское заключение БР (перед словом автора о себе: отец — Джаганнатха, ученик Вишванатхи Чакраварти; два имени — Гханашьям Дас и Нарахари Дас); в 18.3 Нарахари (Саркар) назван среди спутников. В изд. БР 1912 и 1913 этой главы нет.",
+  "themes": [
+   "author"
+  ],
+  "teaching": [
+   "associates-tattva",
+   "vaishnava",
+   "holy-name"
+  ],
+  "verses": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "18.1",
+    "to": "18.12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/26.md",
+    "from": "18.1",
+    "to": "18.12",
+    "line": 587,
+    "line_to": 620,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/26.md?plain=1#L587-L620",
+    "file_en": "padas/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/26.md?plain=1#L611-L644"
    }
   ],
   "attestation": 1

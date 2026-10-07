@@ -367,6 +367,7 @@
 
 - prema-vilasa (D): Виласа 22, 17–41 — [17–41](../prema-vilasa/ru/22.md?plain=1#L53-L125) · `pvl-0185`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (976–987) — [976–987](../prema-vilasa/ru/25.md?plain=1#L3000-L3033) · `pvl-0237`
+- padas (D): Нарахари (не установлено), ГПТ1 с. 452–453 (6.3, № 2) «ধন্য ধন্য বলি মেন» — [1.1–1.6](../padas/ru/26.md?plain=1#L23-L38) · `pad-0555`
 
 ## Младенец Нимай на руках у Шачи / Baby Nimai in Shachi's arms  `ev-infant-with-shachi` (1486–1487, возраст 0–1, оценка)
 
@@ -1504,6 +1505,10 @@
 - padas (D): Нарахари (Чакраварти?), ГПТ1 с. 440 (6.2, № 5) «রজনী প্রভাত প্রভাকর সম» = ГЧЧ (кирана 4, пада 12) — [1.1–1.4](../padas/ru/25.md?plain=1#L19-L28) · `pad-0541`
 - padas (D): Нарахари (Чакраварти?), ГПТ1 с. 441 (6.2, № 6) «সীতাপতি অতিশয় সুখে ভোর» = ГЧЧ (кирана 4, пада 13) — [2.1–2.4](../padas/ru/25.md?plain=1#L46-L55) · `pad-0542`
 - padas (D): Нарахари (Чакраварти?), ГПТ1 с. 441 (6.2, № 7) «অচ্যুত-জনক জনাশ্রয় জগমধি» = ГЧЧ (кирана 4, пада 14) — [3.1–3.4](../padas/ru/25.md?plain=1#L70-L79) · `pad-0543`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 453 (6.3, № 4) «গদাধর পরম সুঘর রসধাম» = ГЧЧ, кирана 4, пада 17 — [2.1–2.4](../padas/ru/26.md?plain=1#L52-L61) · `pad-0556`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 454 (6.3, № 7) «আজুক সুখ কছু বরণে ন জাত» = ГЧЧ, кирана 4, пада 19 — [3.1–3.4](../padas/ru/26.md?plain=1#L79-L88) · `pad-0557`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 454 (6.3, № 8) «সুন্দর সুঘর গদাধর দাস» = ГЧЧ, кирана 4, пада 20 — [4.1–4.4](../padas/ru/26.md?plain=1#L101-L110) · `pad-0558`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 483 (6.3, № 77) «কি কহব পরিকর পরম উদার» = ГЧЧ, кирана 4, пада 21 — [17.1–17.4](../padas/ru/26.md?plain=1#L562-L571) · `pad-0571`
 - padas (C): Васу Гхош, ГПТ1 с. 351 (№ 24) «বায়স কোকিলকুল ঘুঘু দহিয়াল-রব» — [7.1–7.4](../padas/ru/12.md?plain=1#L193-L202) · `pad-0237`
 - padas (C): Йадунатх Дас, ГПТ1 с. 349 (№ 18) «প্রভাতে জাগিল গোরাচাঁদ»; = ПК 2512 — [16.1–16.6](../padas/ru/13.md?plain=1#L440-L455) · `pad-0275`
 
@@ -1663,6 +1668,7 @@
 - karnapura-ckm (A): Сарга 11, 45–46 — [45–46](../karnapura-mahakavya/ru/11.md?plain=1#L1030-L1051) · `kcm-0098`
 - lochana-cm (B): Мадхья-кханда, «Перед санньясой», 80–134 — [80–134](../lochana/ru/35.md?plain=1#L248-L419) · `lcm-0160`
 - murari-kcc (A): Пракрама 2, сарга 18, шлоки 17–24 — [17–24](../murari-gupta/ru/2.18.md?plain=1#L37-L51) · `mkc-0126`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 367–368 (5.3, № 7) «গোরাচাঁদ ছাড়ি যাবে নৈদা» = БР 12 (изд. 1912, с. 958; изд. 1960, ст. 3526–3529) — [19.1–19.4](../padas/ru/26.md?plain=1#L645-L654) · `pad-0573`
 - govinda-karcha (D): Часть 1, 129–136 — [129–136](../govinda-kadacha/ru/01.md?plain=1#L415-L436) · `gkr-0006`
 - padas (A): Говинда Гхош, ПК 1606 «প্রাণের মুকুন্দ হে কি আজি শুনিলুঁ আচম্বিত» — [15.1–15.5](../padas/ru/01.md?plain=1#L368-L387) · `pad-0015`
 - padas (C): Говинда Гхош, ГПТ1 с. 366 (№ 2) «প্রাণের মুকুন্দ হে তোমরা কি সুধাও আমায়» — [18.1–18.6](../padas/ru/14.md?plain=1#L486-L501) · `pad-0303`
@@ -3195,6 +3201,7 @@
 ## Рупа и Санатана являются Шринивасу после своего ухода / Rupa and Sanatana appear to Srinivasa after their departure  `ev-srinivasa-vision-rupa-sanatana` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 6, 1–48 — [1–48](../prema-vilasa/ru/06.md?plain=1#L5-L146) · `pvl-0033`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 474–475 (6.3, № 58) «ও মোর জীবন প্রাণ» = БР 14 (изд. 1912, с. ≈1048–1049; изд. 1960, 14.195–208) — [10.1–10.14](../padas/ru/26.md?plain=1#L286-L325) · `pad-0564`
 
 ## Шринивас во Вриндаване: Джива и Гопала Бхатта принимают его / Srinivasa in Vrindavana: Jiva and Gopala Bhatta receive him  `ev-srinivasa-arrives-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -3207,6 +3214,7 @@
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 12, 200–256 — [200–256](../prema-vilasa/ru/12.md?plain=1#L602-L770) · `pvl-0077`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 469 (6.3, № 42) «ও মোর পরাণ-বন্ধু শ্যামানন্দ» = БР 15 (изд. 1912, с. 1059–1060; изд. 1960, 15.93–104) — [5.1–5.12](../padas/ru/26.md?plain=1#L125-L158) · `pad-0559`
 
 ## Духкхи Кришнадас приходит во Вриндаван: Рагхунатха Дас, Кришнадас Кавираджа, Джива / Duhkhi Krishnadasa comes to Vrindavana: Raghunatha Dasa, Krishnadasa Kaviraja, Jiva  `ev-shyamananda-comes-to-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -3234,6 +3242,7 @@
 ## Тайное служение Нароттамы Локанатхе и его посвящение / Narottama's secret service to Lokanatha and his initiation  `ev-narottama-initiation` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 11, 90–114 — [90–114](../prema-vilasa/ru/11.md?plain=1#L272-L344) · `pvl-0063`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 476–477 (6.3, № 62) «ও মোর করুণাময়, শ্রীঠাকুর মহাশয়» = БР 14 (изд. 1912, с. ≈1050–1051; изд. 1960, 14.215–226) — [12.1–12.12](../padas/ru/26.md?plain=1#L369-L402) · `pad-0566`
 - prema-vilasa (C): Виласа 11, 115–164 — [115–164](../prema-vilasa/ru/11.md?plain=1#L347-L494) · `pvl-0064`
 - prema-vilasa (C): Виласа 11, 165–192 — [165–192](../prema-vilasa/ru/11.md?plain=1#L497-L578) · `pvl-0065`
 - prema-vilasa (C): Виласа 11, 193–270 — [193–270](../prema-vilasa/ru/11.md?plain=1#L581-L812) · `pvl-0066`
@@ -3260,6 +3269,7 @@
 ## Нупура Радхи: Духкхи Кришнадас получает имя Шьямананда / Radha's anklet: Duhkhi Krishnadasa receives the name Shyamananda  `ev-shyamananda-nupura` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 12, 363–395 — [363–395](../prema-vilasa/ru/12.md?plain=1#L1091-L1187) · `pvl-0081`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 470 (6.3, № 43) «জয় শ্রীল দুঃখী কৃষ্ণদাস» = БР 15 (изд. 1912, с. 1060; изд. 1960, 15.105–108) — [6.1–6.4](../padas/ru/26.md?plain=1#L178-L187) · `pad-0560`
 
 ## Праздник Дживы в конце карттики: решение отправить Шринивасу и Нароттаму с книгами в Гауду / Jiva's festival at the end of Kartika: Srinivasa and Narottama are chosen to take the books to Gauda  `ev-books-mission-decision` (1533–1534, возраст 47–48, оценка)
 
@@ -3319,11 +3329,13 @@
 ## Рамачандра Кавираджа ищет Шринивасу и становится его учеником / Ramachandra Kaviraja seeks out Srinivasa and becomes his disciple  `ev-ramachandra-kaviraja-meets-srinivasa` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 13, 386–409 — [386–409](../prema-vilasa/ru/13.md?plain=1#L1160-L1229) · `pvl-0094`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 479–480 (6.3, № 69) «জয় জয় রামচন্দ্র কবিরাজ» = ГЧЧ, кирана 1, пада 22 — [14.1–14.14](../padas/ru/26.md?plain=1#L453-L492) · `pad-0568`
 - prema-vilasa (C): Виласа 14, 30–101 — [30–101](../prema-vilasa/ru/14.md?plain=1#L92-L305) · `pvl-0096`
 
 ## Исцеление и посвящение Говинды Кавираджи / The healing and initiation of Govinda Kaviraja  `ev-govinda-kaviraja-initiation` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 14, 102–175 — [102–175](../prema-vilasa/ru/14.md?plain=1#L308-L527) · `pvl-0097`
+- padas (D): Нарахари (не установлено), ГПТ1 с. 479 (6.3, № 68) «রামচন্দ্র কবিরাজ বিখ্যাত ধরণী মাঝ» — [13.1–13.5](../padas/ru/26.md?plain=1#L421-L433) · `pad-0567`
 - prema-vilasa (C): Виласа 14, 176–204 — [176–204](../prema-vilasa/ru/14.md?plain=1#L530-L635) · `pvl-0098`
 
 ## Первый праздник в Кхетури: установление Гауранги и Валлавиканты / The first Kheturi festival: installation of Gauranga and Vallavikanta  `ev-kheturi-first-installation` (1533–1534, возраст 47–48, оценка)
@@ -3335,6 +3347,8 @@
 ## Обращение брахманов Харирамы и Рамакришны у Падмавати / The conversion of the brahmanas Harirama and Ramakrishna at the Padmavati  `ev-harirama-ramakrishna-conversion` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 14, 340–395 — [340–395](../prema-vilasa/ru/14.md?plain=1#L1048-L1213) · `pvl-0102`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 471–472 (6.3, № 49) «জয় জয় হরিরাম আচার্য্যবর্য্য» = БР 15 (изд. 1912, с. 1061; изд. 1960, 15.117–120); ГЧЧ, кирана 1, пада 23 — [8.1–8.4](../padas/ru/26.md?plain=1#L230-L239) · `pad-0562`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 72) «জয় জয় রামকৃষ্ণ আচার্য্য» = БР 15 (изд. 1912, с. ≈1061–1062; изд. 1960, 15.124–127); ГЧЧ, кирана 1, пада 24 — [16.1–16.4](../padas/ru/26.md?plain=1#L537-L546) · `pad-0570`
 
 ## Джахнава в Кхетури: четыре дня у Нароттамы / Jahnava at Kheturi: four days with Narottama  `ev-jahnava-kheturi` (1533–1534, возраст 47–48, оценка)
 
@@ -3403,6 +3417,7 @@
 ## Обращение Ганганараяны Чакраварти и Харичандры Рая / The conversion of Ganganarayana Chakravarti and Harichandra Raya  `ev-ganganarayana-conversion` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 17, 310–367 — [310–367](../prema-vilasa/ru/17.md?plain=1#L932-L1109) · `pvl-0125`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 71) «জয় জয় শ্রীগঙ্গানারায়ণ চক্রবর্ত্তী» = БР 15 (изд. 1912, с. ≈1062; изд. 1960, 15.131–134); ГЧЧ, кирана 1, пада 25 — [15.1–15.4](../padas/ru/26.md?plain=1#L511-L520) · `pad-0569`
 
 ## Наставления Нароттамы и Рамачандры о вайдхи и раге; «Према-бхакти-чандрика» / Narottama's and Ramachandra's teachings on vaidhi and raga; the Prema-bhakti-chandrika  `ev-prema-bhakti-chandrika` (1533–1534, возраст 47–48, оценка)
 
@@ -3440,6 +3455,7 @@
 ## Великий праздник в Кхетури: абхишека шести Божеств; Махапрабху со спутниками является в киртане / The great Kheturi festival: abhisheka of the six Deities; Mahaprabhu with His associates appears in the kirtan  `ev-kheturi-festival` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 19, 301–333 — [301–333](../prema-vilasa/ru/19.md?plain=1#L905-L1001) · `pvl-0151`
+- padas (D): Нарахари (не установлено), ГПТ1 с. 470 (6.3, № 44) «শ্রীবীরভূমেতে ধাম» — [7.1–7.4](../padas/ru/26.md?plain=1#L204-L213) · `pad-0561`
 - prema-vilasa (C): Виласа 19, 334–370 — [334–370](../prema-vilasa/ru/19.md?plain=1#L1004-L1114) · `pvl-0152`
 - prema-vilasa (C): Виласа 19, 371–411 — [371–411](../prema-vilasa/ru/19.md?plain=1#L1117-L1237) · `pvl-0153`
 
@@ -3512,6 +3528,11 @@
 - prema-vilasa (D): Полувиласа, письма 1–2 (6–32) — [6–32](../prema-vilasa/ru/25.md?plain=1#L26-L106) · `pvl-0201`
 - prema-vilasa (D): Полувиласа, письмо 3 (33–61) — [33–61](../prema-vilasa/ru/25.md?plain=1#L111-L195) · `pvl-0202`
 - prema-vilasa (D): Полувиласа, письма 4–6 (62–104) — [62–104](../prema-vilasa/ru/25.md?plain=1#L200-L330) · `pvl-0203`
+
+## Шринивас с Нароттамой в Будхари; праздник в Боракули: установление Радха-Винода / Shrinivasa with Narottama at Budhari; the festival at Boraquli: the installation of Radha-Vinoda  `ev-boraquli-festival` (1533–1534, возраст 47–48, оценка)
+
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 473–474 (6.3, № 55) «জয় জয় শ্রীনিবাস আচার্য্য» = БР 14 (изд. 1912, с. ≈1037–1038; изд. 1960, 14.78–81) — [9.1–9.4](../padas/ru/26.md?plain=1#L257-L266) · `pad-0563`
+- padas (D): Нарахари (Чакраварти?), ГПТ1 с. 476 (6.3, № 61) «জয় জয় শ্রীনরোত্তম পরম উদার» = БР 14 (изд. 1912, с. ≈1038; изд. 1960, 14.83–86) — [11.1–11.4](../padas/ru/26.md?plain=1#L343-L352) · `pad-0565`
 
 ## Сочинения Шри Дживы Госвами во Вриндаване / The writings of Sri Jiva Gosvami in Vrindavana  `ev-jiva-gosvami-writings` (1533–1534, возраст 47–48, оценка)
 
