@@ -18001,6 +18001,65 @@
   "attestation": 1
  },
  {
+  "id": "pad-0504",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 356 (5.2, № 40) «নগরভ্রমণে বাহির হইয়া»",
+  "file": "padas/ru/23.md",
+  "period": "P05",
+  "order": 29.1,
+  "title": "Торговцы Навадвипы дарят Гауре товары",
+  "summary": "Обходя город, Гора заходит к торговцам; они дарят Ему товары; «Я бедный брахман-пандит, чем заплачу?» — «заплатишь, когда сможешь; с тех пор как Ты родился, мы живём счастливо; благослови нас».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Ади-кханда (обход лавок Навадвипы)",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-300 (новая строка). Атрибуция не установлена (только ГПТ). Только ГПТ; простой бенгальский. Ср. ЧБ (Ади-кханда) — обход лавок.",
+  "themes": [
+   "mercy"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "event": "ev-gaura-merchants-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "15.1",
+    "to": "15.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "15.1",
+    "to": "15.5",
+    "line": 425,
+    "line_to": 437,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L425-L437",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L445-L457"
+   }
+  ],
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0130",
   "source": "advaita-prakasha",
   "ref": "Гл. 19, 62–71",
@@ -28744,6 +28803,131 @@
   "attestation": 4
  },
  {
+  "id": "pad-0510",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 360–361 (5.2, № 50) «আজু শুভ আরম্ভ কীর্তনে» = БР 12 (изд. 1912, с. 885–886; изд. 1960, ст. 2568–2571)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 80.1,
+  "title": "Киртан во дворе Шривасы: Гаура пляшет среди спутников",
+  "summary": "Во дворе Шривасы Гаурасундара в радостном танце; слева Гададхара, справа Нитай, впереди Адвайта; Васудева, Шриваса, Нандана, Виджая, Вакрешвара, Мукунда и другие поют, Рама, Говинда, Гаруда играют на мардале.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@nityananda",
+   "@advaita",
+   "@srivasa",
+   "@vasudeva-datta",
+   "@nandana-acharya",
+   "@vijaya-dasa",
+   "@vakreshvara",
+   "@mukunda-datta"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-srivasa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-192. Вероятно Чакраварти: есть в «Бхакти-ратнакаре».",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-dance-with-devotees",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "21.1",
+    "to": "21.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "21.1",
+    "to": "21.4",
+    "line": 613,
+    "line_to": 628,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L613-L628",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L639-L654"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "pad-0511",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 361 (5.2, № 51) «নাচত শচীতনয় গৌরসুন্দর» = БР 12 (изд. 1912, с. 890; изд. 1960, ст. 2624–2627)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 80.11,
+  "title": "Танец Гауры в киртане: облик от волос до стоп",
+  "summary": "Танцует сын Шачи под звуки мриданг и поёт сладким голосом; описание Его облика — цветы в волосах, серьги, брови-пчёлы, лицо, затмевающее луны, руки, как хобот слона, гирлянда, тонкий стан, стопы, посрамляющие утреннее солнце.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-srivasa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-301 (новая строка; бывшая ВГ-057). Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Каталог числил за Васу (ВГ-057); подпись — Нарахари.",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-dance-with-devotees",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "22.1",
+    "to": "22.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "22.1",
+    "to": "22.4",
+    "line": 646,
+    "line_to": 660,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L646-L660",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L673-L687"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
   "id": "pad-0099",
   "source": "padas",
   "ref": "Васу Рамананда, БР (с. 952) = КГЧ (29-я кшанада, № 1) «চৌদিগে গোবিন্দধ্বনি শুনি পহুঁ হাসে»",
@@ -36963,7 +37147,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "lcm-0134",
@@ -37088,7 +37272,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0102",
@@ -37215,6 +37399,66 @@
   "attestation": 1
  },
  {
+  "id": "pad-0496",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 351 (5.2, № 26) «গোরাচাঁদের কিবা এ লীলা» = БР 12 (изд. 1912, с. 946; изд. 1960, ст. 3358–3361)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 116.1,
+  "title": "Господь в бхаве прежней лилы отнимает у спутников одежды",
+  "summary": "Как во Врадже Кришна похитил одежды гопи, так Гаура, погружённый в ту бхаву, с ужимкой отнимает одежды у милых спутников, а затем всем их возвращает.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "Мурари 2.10.15–17",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-181. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР перед падой приводит стихи Мурари Гупты (2.10.16–17). Сноска: чира-харана (Бхаг. 10.22) — игра чистой премы.",
+  "themes": [
+   "pranks",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-lord-takes-clothes",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 194,
+    "line_to": 203,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L194-L203",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L207-L216"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 4
+ },
+ {
   "id": "mkc-0103",
   "source": "murari-kcc",
   "ref": "Пракрама 2, сарга 10, шлоки 14–17",
@@ -37281,7 +37525,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0076",
@@ -42891,6 +43135,290 @@
   "attestation": 1
  },
  {
+  "id": "pad-0499",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 354 (5.2, № 34) «গৌর বিধুবর বরজমোহন» = БР 12 (изд. 1912, с. 868; изд. 1960, ст. 2358–2361)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 133.51,
+  "title": "Прогулка по Надии: старики благословляют Гауру",
+  "summary": "Когда Гаура гуляет по Надии, бессчётные старики выходят на дорогу: «кто сотворил этого Анангу? как бы навсегда спрятать Его в сердце?» — и без конца благословляют Его.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-183. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». В БР 12 (ст. 2353–2357) — Господь обходит Надию в прекрасном наряде, чтобы открыть Себя и развеять печаль вайшнавов.",
+  "themes": [
+   "revelation"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "10.1",
+    "to": "10.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "10.1",
+    "to": "10.4",
+    "line": 302,
+    "line_to": 311,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L302-L311",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L320-L329"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0500",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 354–355 (5.2, № 35) «আজু কি আনন্দ নদীয়ায়» = БР 12 (изд. 1912, с. 868–869; изд. 1960, ст. 2362–2367)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 133.511,
+  "title": "Пожилые женщины Надии: «Он не человек»",
+  "summary": "Пожилые женщины рядами стоят у дороги и смотрят на Гауру: «Он не человек»; «блаженна Шачи, которую Он зовёт мамой»; «пусть никогда не покидает Надию»; «возьмём на себя Его беды».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-298 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: формула материнской любви «বালাই লইয়া মরি».",
+  "themes": [
+   "revelation",
+   "family"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "11.1",
+    "to": "11.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "11.1",
+    "to": "11.6",
+    "line": 327,
+    "line_to": 342,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L327-L342",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L345-L360"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0501",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 355 (5.2, № 36) «গৌরাঙ্গ-গমন শুনি অন্ধগণ» = БР 12 (изд. 1912, с. 869; изд. 1960, ст. 2368–2371)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 133.512,
+  "title": "Слепые прозревают при виде Гауры",
+  "summary": "Слепые, услышав, что идёт Гауранга, выходят за порог и, обретя глаза, смотрят на Него: «Творец сделал нас слепыми, чтобы мы не видели ничего иного; кто не видел этой красоты — слеп при глазах».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-299 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре».",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "12.1",
+    "to": "12.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "12.1",
+    "to": "12.4",
+    "line": 357,
+    "line_to": 366,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L357-L366",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L375-L384"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0502",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 355 (5.2, № 37) «নদীয়া ভ্রময়ে গোরা গুণমণি» = БР 12 (изд. 1912, с. 869–870; изд. 1960, ст. 2372–2375)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 133.513,
+  "title": "Хромые благодарят Творца за хромоту",
+  "summary": "Хромые выходят на дорогу и смотрят на Гору: «Не будь я хромым — ушёл бы по делам в дальние края и умер бы, не узнав Его; пусть я и останусь хромым, чтобы всегда видеть Его в Надии».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-184. Вероятно Чакраварти: есть в «Бхакти-ратнакаре».",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "13.1",
+    "to": "13.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "13.1",
+    "to": "13.4",
+    "line": 380,
+    "line_to": 389,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L380-L389",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L399-L408"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0503",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 356 (5.2, № 38) «ভুবনমোহন গোরা গুণমণি» = БР 12 (изд. 1912, с. 870; изд. 1960, ст. 2376–2379)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 133.514,
+  "title": "Щёголи Надии теряют гордость перед Гаурой",
+  "summary": "Гора идёт по царской дороге; люди сбегаются и отдают Ему сердце; молодые щёголи Надии теряют щегольскую гордость, а знатоки изящного становятся как светлячки перед луной.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-185. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: «нагара» здесь — городские франты, не нагари-бхава. Следующая пада ГПТ (№ 39 = БР ст. 2380–2383) — нагари, отложена.",
+  "themes": [
+   "revelation"
+  ],
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "14.1",
+    "to": "14.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "14.1",
+    "to": "14.4",
+    "line": 402,
+    "line_to": 411,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L402-L411",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L421-L430"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0062",
   "source": "padas",
   "ref": "Говинда Гхош, ПК 2146 «কনয়া কষিল মুখ-শোভা»",
@@ -47367,6 +47895,68 @@
   "attestation": 1
  },
  {
+  "id": "pad-0507",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 358–359 (5.2, № 47) «নিশি অবশেষে লসত নদীয়াশশী» = БР 12 (изд. 1912, с. 947; изд. 1960, ст. 3371–3378)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.581,
+  "title": "Аштакалия Гауры: восемь частей суток (враджабули)",
+  "summary": "Пада-обзор: на исходе ночи — сон; утром — омовение в Ганге, трапеза, краткий отдых; до полудня — дома спутников; полдень — игры у Ганги; после полудня — прогулка по Надии; сумерки — возвращение к Шачи; прадоша — дом Шривасы; ночь — санкиртана и сон.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@srivasa"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra",
+   "#ganga",
+   "#house-srivasa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-189. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР приводит перед ней санскритские стихи «древних» о восьми частях суток (ст. 3366–3370). Сноска: аштакалия — вечная лила.",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakaliya",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "18.1",
+    "to": "18.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "18.1",
+    "to": "18.8",
+    "line": 497,
+    "line_to": 518,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L497-L518",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L519-L540"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (вечная лила по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0481",
   "source": "padas",
   "ref": "Нарахари (Чакраварти?), ГПТ1 с. 343 (5.2, № 2) «উঠ উঠ আজি একি অদ্ভুত ঘুম» = ГЧЧ (кирана 2, пада 22)",
@@ -47420,6 +48010,69 @@
   ],
   "date_conf": "оценка",
   "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0508",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 359 (5.2, № 48) «নিশিশেষে গোরা ঘুমের আবেশে» = ГЧЧ (кирана 1, пада 61)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.582,
+  "title": "Аштакалия Гауры: восемь частей суток (бенгальский)",
+  "summary": "Тот же обзор на простом бенгальском: сон, утро во дворе среди спутников, омовение и трапеза, дома Шукламбары и других преданных, полдень в цветущем саду, прогулка по Надии, вечер дома (почитание Божества на радость матери), дом Шривасы, санкиртана и сон.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi",
+   "@shuklambara",
+   "@srivasa"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra",
+   "#ganga",
+   "#house-srivasa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-190. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». В ГЧЧ — «сутра» (краткое изложение) всей поэмы, кирана 1.",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-ashtakaliya",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "19.1",
+    "to": "19.9"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "19.1",
+    "to": "19.9",
+    "line": 537,
+    "line_to": 561,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L537-L561",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L560-L584"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (вечная лила по часам суток); навадвипский период",
   "age": [
    23,
    23
@@ -47889,6 +48542,195 @@
   "attestation": 1
  },
  {
+  "id": "pad-0490",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 348–349 (5.2, № 16) «অলস অবশ পহুঁ রসিক-শিরোমণি» = ГЧЧ (кирана 2, пада 25)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.591,
+  "title": "Речь Господа во сне: «пойте о деяниях Враджа»",
+  "summary": "На исходе ночи Господь, в истоме полусна, говорит, что без лицезрения Радхарамана горит Его жизнь; называя по именам десятки спутников, просит их петь о деяниях жителей Враджа и в смирении молит из рождения в рождение быть слугой стоп Владыки гопи; затем снова затихает во сне.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@gauridasa-pandita",
+   "@haridasa-thakura",
+   "@mukunda-datta",
+   "@murari-gupta",
+   "@vakreshvara",
+   "@satyaraja-khan",
+   "@nandana-acharya",
+   "@chandrashekhara-acharya",
+   "@shuklambara",
+   "@nakula-brahmachari",
+   "@krishna"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-295 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноски: тоска по Радхарамане — бхава Радхи; смирение — бхакта-бхава (ЧЧ Мадхья 2.42, 13.80; Антья 20.29), Господь не подвластен майе.",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "radha",
+   "devotee"
+  ],
+  "event": "ev-gaura-nishanta-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "1.1",
+    "to": "1.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "1.1",
+    "to": "1.8",
+    "line": 23,
+    "line_to": 44,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L23-L44",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L27-L48"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (нишанта); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0505",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 357 (5.2, № 42) «মরি মরি গৌরগণের চরিত» = ГЧЧ (кирана 2, пада 2)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.592,
+  "title": "Ночью спутники томятся без Гауры и ждут рассвета",
+  "summary": "Спутники Гауры и во сне не знают ничего, кроме Него; разлучённые на время сна, они смотрят на небо — скоро ли рассвет? — и прислушиваются к крикам птиц.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-187. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани».",
+  "themes": [
+   "separation",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-nishanta-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "16.1",
+    "to": "16.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "16.1",
+    "to": "16.4",
+    "line": 451,
+    "line_to": 460,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L451-L460",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L472-L481"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (нишанта); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0506",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 357 (5.2, № 43) «কো বরণব পরিকরগণ-লেহ» = ГЧЧ (кирана 2, пада 3)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.593,
+  "title": "Спутники мечтают увидеть пробуждение Гауры",
+  "summary": "На исходе ночи спутники трепещут, мечтая увидеть, как Гаура встаёт с ложа, испить нектар Его речей, коснуться Его стоп; их сердце томится, как чатака по туче.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-188. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани».",
+  "themes": [
+   "separation",
+   "ecstasy"
+  ],
+  "event": "ev-gaura-nishanta-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "17.1",
+    "to": "17.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "17.1",
+    "to": "17.4",
+    "line": 474,
+    "line_to": 483,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L474-L483",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L495-L504"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (нишанта); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0007",
   "source": "padas",
   "ref": "Парамананда (Гупта?), ПК 2120 «গোরা-তনু ধূলায় লোটায়»",
@@ -47991,6 +48833,299 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/12.md?plain=1#L173-L182",
     "file_en": "padas/en/12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/12.md?plain=1#L180-L189"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0491",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 349–350 (5.2, № 19) «শুতি রহুঁ সুন্দর গৌরকিশোর» = ГЧЧ (кирана 3, пада 10)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.6011,
+  "title": "Пробуждение от мычания коров: Господь просит верёвку для пут",
+  "summary": "На рассвете спутники читают стихи, поют, произносят имена; услышав мычание коров, Господь просыпается, потягивается, выходит из покоя, просит верёвку для пут и зовёт Гауридаса и других их прежними (враджскими) именами.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@gauridasa-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-177. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: бхава пастушка Враджа; Гауридас — Субала (ГГД).",
+  "themes": [
+   "ecstasy",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "2.1",
+    "to": "2.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "2.1",
+    "to": "2.6",
+    "line": 67,
+    "line_to": 82,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L67-L82",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L73-L88"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0492",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 350 (5.2, № 20) «পেখহ গৌরচন্দ্র অপরূপ» = ГЧЧ (кирана 3, пада 12)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.6012,
+  "title": "Гаура в дрёме на драгоценном сиденье",
+  "summary": "Утром Гаурачандра, ещё в дрёме, сидит на сиденье из самоцветов; сияние Его тела наполняет три мира и восходит в сердцах близких; из распущенных волос падают цветы кунды, словно звёзды.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-178. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: формула о «стыде юных женщин» — позиция традиции (не гаура-нагари); нирманчхана.",
+  "themes": [
+   "ecstasy"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 98,
+    "line_to": 107,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L98-L107",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L106-L115"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0493",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 350 (5.2, № 21) «শ্রীশচীভবনে অধিক সুখ আজ» = ГЧЧ (кирана 4, пада 2)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.6013,
+  "title": "Утро в доме Шачи: спутники вокруг Гауры",
+  "summary": "Гаура восседает на сиденье в доме Шачи; вокруг Него круг за кругом спутники, словно боги вокруг Сумеру; кто-то застыл, как нарисованный, кто-то прибежал с ложа с сонными глазами — все пьют мёд Его лица.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-296 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани».",
+  "themes": [
+   "ecstasy"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "4.1",
+    "to": "4.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "4.1",
+    "to": "4.4",
+    "line": 127,
+    "line_to": 136,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L127-L136",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L136-L145"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0494",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 350 (5.2, № 22) «আজু আনন্দ পরভাত শচী-অঙ্গনহি» = ГЧЧ (кирана 4, пада 3)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.6014,
+  "title": "Радостное утро во дворе Шачи",
+  "summary": "Спутники во дворе Шачи поют, пляшут, обнимаются, кланяются друг другу, спрашивают, благополучно ли прошла ночь, называют друг друга блаженными; кто-то читает стихи, кто-то берёт в зубы травинку.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-179. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: травинка в зубах — знак смирения.",
+  "themes": [
+   "ecstasy",
+   "kirtan"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "5.1",
+    "to": "5.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "5.1",
+    "to": "5.4",
+    "line": 149,
+    "line_to": 158,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L149-L158",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L159-L168"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0495",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 351 (5.2, № 23) «কি কহব আজুক অপরূপ রঙ্গ» = ГЧЧ (кирана 4, пада 4)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.6015,
+  "title": "Гаура и спутники во дворе: луны, борцы, древа желаний",
+  "summary": "Гаурахари и спутники во дворе — словно сонм лун, что развеют мрак страданий мира, словно борцы, что одолеют асуров, отвернувшихся от Господа, словно древа желаний, раздающие плод премы, — никто не останется обделён.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-180. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: спутники — воины санкиртаны; древо премы (ЧЧ Ади 9).",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 172,
+    "line_to": 181,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L172-L181",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L183-L192"
    }
   ],
   "years": [
@@ -48112,6 +49247,126 @@
   ],
   "date_conf": "оценка",
   "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0497",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 351–352 (5.2, № 27) «সুরধুনীতীরে কত রঙ্গে» = БР 12 (изд. 1912, с. 937–938; изд. 1960, ст. 3241–3256)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.621,
+  "title": "Трапеза на берегу Ганги: Адвайта, Нитай и спутники",
+  "summary": "В полдень на берегу Ганги Шриваса и Мурари велят принести угощение; Адвайта рассаживает всех кругом на листьях палаши; Нитай кормит Гору, Адвайта поит Нитая, Нитай кладёт сладости в уста Адвайты; спутники весело делят еду; остатки бережно собирает Нарахари.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@srivasa",
+   "@murari-gupta",
+   "@advaita",
+   "@nityananda"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-182. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: остатки трапезы Господа и спутников — махапрасад (ЧЧ Антья 16).",
+  "themes": [
+   "prasada",
+   "krishna-lila"
+  ],
+  "event": "ev-vana-bhojana-ganga",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "8.1",
+    "to": "8.16"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "8.1",
+    "to": "8.16",
+    "line": 219,
+    "line_to": 264,
+    "count": 16,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L219-L264",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L235-L280"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (полдень у Ганги); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0498",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 352 (5.2, № 28) «আজু গোরা পরিকর সঙ্গে» = БР 12 (изд. 1912, с. 938; изд. 1960, ст. 3257–3260)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 134.622,
+  "title": "После трапезы: Господь у Ганги держит за руку Гададхару",
+  "summary": "После трапезы Гора со спутниками бродит по берегу Ганги, стоит в тени высокого дерева, смотрит на Гангу, берёт за руку Гададхару и мягко улыбается.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-297 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре».",
+  "themes": [
+   "ecstasy"
+  ],
+  "event": "ev-vana-bhojana-ganga",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "9.1",
+    "to": "9.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "9.1",
+    "to": "9.4",
+    "line": 280,
+    "line_to": 289,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L280-L289",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L298-L307"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (полдень у Ганги); навадвипский период",
   "age": [
    23,
    23
@@ -50650,7 +51905,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "ccd-0032",
@@ -50723,7 +51978,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "ccd-0033",
@@ -50794,7 +52049,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0093",
@@ -50858,7 +52113,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0094",
@@ -50918,7 +52173,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0153",
@@ -50993,7 +52248,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0118",
@@ -51069,7 +52324,71 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "pad-0509",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 360 (5.2, № 49) «ভুবনমোহন গৌর নটবর» = БР 12 (изд. 1912, с. 913–914; изд. 1960, ст. 2913–2916)",
+  "file": "padas/ru/23.md",
+  "period": "P07",
+  "order": 135.1,
+  "title": "Господь танцует в облике Рукмини",
+  "summary": "В доме Чандрашекхары Гаура, лучший из танцоров, танцует новый танец в облике Рукмини; описание наряда и красоты от волос до стоп — шелка, серьги, подвеска в носу, браслеты, золотой пояс, ножные колокольчики.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@rukmini",
+   "@chandrashekhara-acharya"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-chandrashekhara"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧБ Мадхья 18",
+  "notes": "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-191. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР: Господь — воплощение всех энергий, пляшет в облике Рукмини, Лакшми, Парвати (ст. 2903–2918). Сноска: облик Своей шакти, не мирское переодевание (ЧБ Мадхья 18).",
+  "themes": [
+   "kirtan",
+   "revelation"
+  ],
+  "bhava": [
+   "shakti"
+  ],
+  "event": "ev-chandrashekhara-drama",
+  "verses": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "20.1",
+    "to": "20.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/23.md",
+    "from": "20.1",
+    "to": "20.4",
+    "line": 577,
+    "line_to": 592,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/23.md?plain=1#L577-L592",
+    "file_en": "padas/en/23.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/23.md?plain=1#L601-L616"
+   }
+  ],
+  "cb": "Мадхья 18",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 5
  },
  {
   "id": "mkc-0119",
@@ -51133,7 +52452,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0120",
@@ -51199,7 +52518,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0121",
@@ -51256,7 +52575,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0154",
@@ -51325,7 +52644,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "lcm-0155",
@@ -51385,7 +52704,7 @@
    23,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0095",
