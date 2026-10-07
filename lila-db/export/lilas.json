@@ -1883,7 +1883,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/01.md?plain=1#L86-L92"
    }
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "pvl-0206",
@@ -1935,7 +1935,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2418-L2433"
    }
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0005",
@@ -1986,6 +1986,58 @@
    }
   ],
   "attestation": 1
+ },
+ {
+  "id": "pad-0554",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 446 (6.2, № 24) «মাঘ সপ্তমী শুক্লপক্ষ» = БР 12 (изд. 1912, с. 829; изд. 1960, ст. 1763–1766)",
+  "file": "padas/ru/25.md",
+  "period": "P01",
+  "order": 1.15,
+  "title": "Явление Адвайты в доме Куверы",
+  "summary": "В светлый седьмой день месяца магха прекрасный Господь Адвайта явился и прогнал гордыню Кали; люди сбегаются в дом Куверы и славят младенца; барды, певцы, музыканты и танцоры празднуют.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@kuvera-pandita"
+  ],
+  "places": [
+   "#lauda"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-322 (новая строка). Вероятно Чакраварти: есть в БР (Ишана рассказывает Шринивасе о роде Адвайты; перед падой — цитата ГГД о Кубере и пада Гханашьямы о том же); враджабули.",
+  "themes": [
+   "celestial",
+   "festival"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "calendar": "магха, светлая половина, 7-й лунный день",
+  "event": "ev-advaita-birth",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "14.1",
+    "to": "14.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "14.1",
+    "to": "14.4",
+    "line": 368,
+    "line_to": 377,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L368-L377",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L380-L389"
+   }
+  ],
+  "attestation": 3
  },
  {
   "id": "apr-0006",
@@ -50032,6 +50084,193 @@
   "attestation": 1
  },
  {
+  "id": "pad-0541",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 440 (6.2, № 5) «রজনী প্রভাত প্রভাকর সম» = ГЧЧ (кирана 4, пада 12)",
+  "file": "padas/ru/25.md",
+  "period": "P07",
+  "order": 134.6019,
+  "title": "Адвайта на рассвете видит лицо-луну Гауры",
+  "summary": "Утром в кругу спутников Адвайта, сияющий, как солнце, видя восход лица-луны Гауры, в ликовании хлопает Себя под мышками, ходит туда и сюда, опьянённый сильнее царя слонов; Его улыбка — дождь жасмина, слёзы — нити жемчуга.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-316 (новая строка). Вероятно Чакраварти: есть в ГЧЧ (кирана 4 — «Господь в кругу преданных»); враджабули.",
+  "themes": [
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 19,
+    "line_to": 28,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L19-L28",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L20-L29"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0542",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 441 (6.2, № 6) «সীতাপতি অতিশয় সুখে ভোর» = ГЧЧ (кирана 4, пада 13)",
+  "file": "padas/ru/25.md",
+  "period": "P07",
+  "order": 134.602,
+  "title": "Адвайта размышляет о красоте Гауры",
+  "summary": "Супруг Ситы в счастье размышляет: красота Гауры не оставила Мадане гордости; три мира, испив пьянящего нектара Его золотого цвета, сделали сына Шачи сутью жизни; слово «горе» исчезло, грех Кали со свитой съёжился.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-317 (новая строка). Вероятно Чакраварти: есть в ГЧЧ; враджабули. Сноска: «гордость Мадана» посрамлена духовной красотой Господа (Мадана-мохана), не мирским влечением.",
+  "themes": [
+   "ecstasy",
+   "revelation"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "2.1",
+    "to": "2.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "2.1",
+    "to": "2.4",
+    "line": 46,
+    "line_to": 55,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L46-L55",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L50-L59"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0543",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 441 (6.2, № 7) «অচ্যুত-জনক জনাশ্রয় জগমধি» = ГЧЧ (кирана 4, пада 14)",
+  "file": "padas/ru/25.md",
+  "period": "P07",
+  "order": 134.6021,
+  "title": "Адвайта принимает Гауру в сердце: «Я победил!»",
+  "summary": "Отец Ачьюты с жадностью нищего принимает Гауру, ещё в ночном одеянии, через очи в сердце, поклоняется Ему цветами бхав, неприметно пляшет, восклицая «Джая!», и твердит «Я победил!»; Нарахари, Харидас и другие смотрят в несказанном счастье.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@mahaprabhu",
+   "@haridasa-thakura",
+   "@narahari-sarakara"
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-210. Вероятно Чакраварти: есть в ГЧЧ; враджабули. «Нарахари» в концовке — и подпись, и, вероятно, имя зрителя (Нарахари Саркар — ГЧЧ 4.18). Текст 3.2 исправлен по ГЧЧ.",
+  "themes": [
+   "ecstasy",
+   "revelation"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-gaura-morning-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "3.1",
+    "to": "3.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "3.1",
+    "to": "3.4",
+    "line": 70,
+    "line_to": 79,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L70-L79",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L74-L83"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Песни аштакалии (повседневные игры Господа по часам суток); навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0237",
   "source": "padas",
   "ref": "Васу Гхош, ГПТ1 с. 351 (№ 24) «বায়স কোকিলকুল ঘুঘু দহিয়াল-রব»",
@@ -84831,7 +85070,428 @@
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pad-0544",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 442 (6.2, № 9) «শ্রীঅদ্বৈতচন্দ্র ভূপ মোর» = БР 12 (изд. 1912, с. 977; изд. 1960, ст. 3767–3770); «Гита-чандродая»",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.01,
+  "title": "Облик Адвайты в любви к Гауре; Его рык сокрушает Кали",
+  "summary": "Сердце Адвайты переполнено любовью к Гауре: слёзы из алых глаз, сияние ярче солнц, поступь, затмевающая слона; Его рык отнимает гордость у льва — Кали трепещет; океан милосердия разливается, падшие плывут в расе бхакти.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-318 (новая строка). Вероятно Чакраварти: есть в БР (Ишана рассказывает Шринивасе о славе Адвайты перед приходом Нитьянанды из Саптаграма в Шантипур) и в «Гита-чандродае»; враджабули.",
+  "themes": [
+   "ecstasy",
+   "mercy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "4.1",
+    "to": "4.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "4.1",
+    "to": "4.4",
+    "line": 97,
+    "line_to": 106,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L97-L106",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L102-L111"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0546",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 442 (6.2, № 11) «শান্তিপুরপতি পরম সুন্দর» = БР 12 (изд. 1912, с. 977; изд. 1960, ст. 3771–3774); «Гита-чандродая»",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.02,
+  "title": "Владыка Шантипура в упоении бхавой",
+  "summary": "Адвайта рычит, сокрушая гордыню Кали, с именем «Гаурахари» дрожит и падает в объятия спутников, катается в пыли; из лотосных очей льются потоки, как ливень шраваны; видя несчастных, разливает милость по миру.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-319 (новая строка). Вероятно Чакраварти: есть в БР и в «Гита-чандродае»; враджабули.",
+  "themes": [
+   "ecstasy",
+   "mercy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 152,
+    "line_to": 161,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L152-L161",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L159-L168"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0548",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 443 (6.2, № 15) «কি ভাবে বিভোর মোর অদ্বৈত গোসাঞি রে» = БР 12 (изд. 1912, с. 978–979; изд. 1960, ст. 3782–3785)",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.03,
+  "title": "Адвайта зовёт «Гора! Гора!» и обнимает падших",
+  "summary": "Адвайта забылся в бхаве: слёзы, сладкая улыбка, непрестанный зов «Гора! Гора!»; тело нежнее шириши, шикха развевается, на шее гирлянда малати; раскинув длинные руки, Он обнимает падших и раздаёт сокровище премы, недоступное Брахме.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-213. Вероятно Чакраварти: есть в БР.",
+  "themes": [
+   "ecstasy",
+   "mercy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "8.1",
+    "to": "8.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "8.1",
+    "to": "8.4",
+    "line": 201,
+    "line_to": 210,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L201-L210",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L209-L218"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0549",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 443–444 (6.2, № 16) «নাচয়ে অদ্বৈত প্রেমরাশি» = БР 12 (изд. 1912, с. 979; изд. 1960, ст. 3790–3797)",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.04,
+  "title": "Пляска Адвайты в киртане славы Горы",
+  "summary": "Адвайта пляшет, воспевая Гору, молит Творца о тысячах уст, бьёт Себя по плечам, как борец, — Кали дрожит; спутники поют о деяниях Горачанда под кхол и караталы, плачут даже благородные жёны; мир полон Его славы.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-214. Вероятно Чакраварти: есть в БР (Адвайта упоён пляской и киртаном — в Своём доме, в домах спутников, на берегу Ганги, ст. 3786–3789).",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "teaching": [
+   "holy-name",
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "9.1",
+    "to": "9.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "9.1",
+    "to": "9.8",
+    "line": 226,
+    "line_to": 247,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L226-L247",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L234-L255"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0550",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 444 (6.2, № 17) «দেখ মোর অদ্বৈত গুণনিধি» = БР 12 (изд. 1912, с. 980; изд. 1960, ст. 3798–3801); «Гита-чандродая»",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.05,
+  "title": "Облик Адвайты, изваянный из нектара",
+  "summary": "Сияние облика Адвайты затмевает золото, кетаки и кумкуму; лицо-луна сверкает, когда Он зовёт «Гора, Гора!»; Он пляшет, воздев руки, обнимает падших и раздаёт бесценное сокровище.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-215. Вероятно Чакраварти: есть в БР и в «Гита-чандродае». Сноска: «Творец изваял» — поэтическая формула; тело Адвайты духовно.",
+  "themes": [
+   "ecstasy",
+   "mercy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "10.1",
+    "to": "10.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "10.1",
+    "to": "10.4",
+    "line": 260,
+    "line_to": 269,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L260-L269",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L269-L278"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0551",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 444 (6.2, № 18) «দেখ অদ্বৈত গুণের মণি» = БР 12 (изд. 1912, с. 980; изд. 1960, ст. 3802–3807)",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.06,
+  "title": "Адвайта раздаёт сокровище бхакти",
+  "summary": "Адвайта пляшет с именем Горы, хлопая Себя под мышками; из глаз — потоки блаженства, тело сверкает, как золото; вокруг — спутники, поющие под кхол и караталы; несчастные обезумели от премы.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-216. Вероятно Чакраварти: есть в БР.",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "11.1",
+    "to": "11.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "11.1",
+    "to": "11.6",
+    "line": 284,
+    "line_to": 299,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L284-L299",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L293-L308"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pad-0552",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 445 (6.2, № 20) «অদ্বৈত গুণমণি অবনী করু ধনী» = БР 12 (изд. 1912, с. 981; изд. 1960, ст. 3812–3815)",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 115.07,
+  "title": "Адвайта с любимыми спутниками в киртане славы Горы",
+  "summary": "Адвайта со спутниками пляшет в киртане славы Горы: сияние, похищающее гордость Мадана, тилака, гирлянда малати, священный шнур; Он кружит, воздев руки, громко восклицает «Гаурахари!»; поэт плачет, видя Его милостивый взгляд. За падой в БР — приход Нитьянанды из Саптаграма.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-320 (новая строка). Вероятно Чакраварти: есть в БР (сразу перед рассказом о приходе Нитьянанды к Адвайте, ст. 3816–3821).",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-meeting-shantipura",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "12.1",
+    "to": "12.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "12.1",
+    "to": "12.4",
+    "line": 313,
+    "line_to": 322,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L313-L322",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L322-L331"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
  },
  {
   "id": "mkc-0249",
@@ -85000,6 +85660,68 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/4.23.md?plain=1#L29-L39",
     "file_en": "murari-gupta/en/4.23.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/4.23.md?plain=1#L29-L39"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0553",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 445 (6.2, № 21) «সীতানাথ মোর অদ্বৈতচাঁদ» = БР 12 (изд. 1912, с. 984; изд. 1960, ст. 3853–3858); «Гита-чандродая»",
+  "file": "padas/ru/25.md",
+  "period": "P12",
+  "order": 126.01,
+  "title": "Хвала Адвайте — второму Творцу, дарителю санкиртаны",
+  "summary": "Его призывом явлен Гора; с Нитьянандой Он погружён в блаженство; Он — океан милосердия, друг падших, второй Творец в трёх мирах, даритель санкиртаны; кто хочет плыть в расе лилы Враджа, пусть служит Отцу Ачьюты.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@nityananda",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-321 (новая строка). Вероятно Чакраварти: есть в БР (Адвайта приходит из Шантипура в Надию и пребывает с Нитьянандой в санкиртане) и в «Гита-чандродае». Сноска: «второй Творец» — Адвайта как Маха-Вишну (ЧЧ Ади 6).",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-nityananda-advaita-kirtan-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "13.1",
+    "to": "13.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "13.1",
+    "to": "13.6",
+    "line": 337,
+    "line_to": 352,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L337-L352",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L348-L363"
    }
   ],
   "years": [
@@ -116167,6 +116889,116 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/24.md?plain=1#L391-L424",
     "file_en": "padas/en/24.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/24.md?plain=1#L400-L433"
+   }
+  ],
+  "cc": "Ади 5–6",
+  "attestation": 3
+ },
+ {
+  "id": "pad-0545",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 442 (6.2, № 10) «শ্রীঅদ্বৈত গুণমণি সকল রসের খনি» = БР 12 (изд. 1912, с. 996–997; изд. 1960, ст. 4024–4027)",
+  "file": "padas/ru/25.md",
+  "period": "PX",
+  "order": 4.3,
+  "title": "Жизнь Адвайты в одной паде",
+  "summary": "Рождение от Набхи в Наваграме, переселение в Шантипур, паломничество после ухода родителей, брак с Ситой и подвижничество, которым Он привёл Кришну и Халадхару; киртан в Надии, служение Господу-санньяси в Своём доме, приходы в Нилачалу.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@labha",
+   "@sita-thakurani",
+   "@mahaprabhu",
+   "@nityananda"
+  ],
+  "places": [
+   "#lauda",
+   "#shantipura",
+   "#navadvipa",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "ЧЧ Ади 3 (призыв Господа); ЧЧ Мадхья 3 (Господь у Адвайты после санньясы); ЧЧ Мадхья 11 и далее (приходы в Пури)",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-211. Вероятно Чакраварти: есть в БР (сразу после обзора жизни Нитьянанды, 6.1 № 65). Обзор жизни.",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-tattva-nityananda-advaita",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "5.1",
+    "to": "5.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "5.1",
+    "to": "5.4",
+    "line": 126,
+    "line_to": 135,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L126-L135",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L132-L141"
+   }
+  ],
+  "cc": "Ади 5–6",
+  "attestation": 3
+ },
+ {
+  "id": "pad-0547",
+  "source": "padas",
+  "ref": "Нарахари, ГПТ1 с. 443 (6.2, № 13) «জয় দেব দেব মহেশ্বর রূপ» (только ГПТ)",
+  "file": "padas/ru/25.md",
+  "period": "PX",
+  "order": 4.4,
+  "title": "Хвала Адвайте — облику Махешвары",
+  "summary": "Слава Адвайте, облику Махешвары, царю расы лилы: Его громовым призывом явлен Гауранга, ради Него раскрылась лила Гауры; Он родился сыном Куверы в светлый седьмой день месяца магха.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@advaita",
+   "@kuvera-pandita",
+   "@labha",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-212. Не установлено: ни в одном свидетеле; в указателе ГПТ2 ошибочно под именем Гханашьямы. Сноска: Махешвара — Садашива (ГГД 11, 76), неотличный от Вишну; Адвайта — Маха-Вишну (ЧЧ Ади 6).",
+  "themes": [
+   "revelation"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "calendar": "магха, светлая половина, 7-й лунный день",
+  "event": "ev-tattva-nityananda-advaita",
+  "verses": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/25.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 176,
+    "line_to": 185,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/25.md?plain=1#L176-L185",
+    "file_en": "padas/en/25.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/25.md?plain=1#L183-L192"
    }
   ],
   "cc": "Ади 5–6",
