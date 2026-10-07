@@ -322,3 +322,4 @@
 | @maitri | Майтри (Дружелюбие) | Maitri (Friendliness) | олицетворение |
 | @prema-bhakti | Према-бхакти | Prema-bhakti | олицетворение любовной преданности |
 | @ratnakara | Ратнакара (Океан) | Ratnakara (the Ocean) | олицетворение океана, супруг Ганги |
+| @shripati | Шрипати | Shripati | младший брат Шривасы |

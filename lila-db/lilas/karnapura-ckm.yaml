@@ -579,3 +579,348 @@
   event: ev-marriage-vishnupriya
   verses:
     - {file: "karnapura-mahakavya/ru/03.md", from: "136", to: "144"}
+
+- id: kcm-0032
+  source: karnapura-ckm
+  ref: "Сарга 4, 1–20"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P05
+  order: 110
+  title: "Семейная жизнь с Вишнуприей; Гауранга — учитель"
+  summary: "Господь живёт домохозяином с Вишнуприей; затем становится учителем брахманов: ученики гомонят вокруг Него, споря о словах и смысле, и пьют нектар Его толкований, а народ восклицает, не новый ли нектар сошёл на землю."
+  persons: ["@mahaprabhu", "@vishnupriya"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.15.1–6"
+  notes: "Стихи 5–20 почти сплошь построены на ямаке (повторах слогов); описание красоты Господа преобладает над сюжетом."
+  themes: [learning, family]
+  bhava: [teacher]
+  event: ev-departure-for-gaya
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "1", to: "20"}
+
+- id: kcm-0033
+  source: karnapura-ckm
+  ref: "Сарга 4, 21–24"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 10
+  title: "Отправление в Гаю с Чандрашекхарой Ачарьей"
+  summary: "Господь решает идти в Гаю вместе с мужем сестры своей матери; совершив обряды, Он выступает в путь, почитаемый толпами брахманов с кличами «Джая!», и радуется беседам с ними в дороге."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.15.1–6"
+  themes: [pilgrimage]
+  event: ev-departure-for-gaya
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "21", to: "24"}
+
+- id: kcm-0034
+  source: karnapura-ckm
+  ref: "Сарга 4, 25–49"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 20
+  title: "Путь в Гаю: лотосовая заводь, закат, ночь, утро, горы и олени"
+  summary: "В пути Господь отдыхает у реки, где пчёлы принимают Его стопы за лотосы, любуется лебёдкой на пруду, закатом и ночными лилиями, ночует в селении, утром видит пробуждение лотосов, горные земли и стада оленей, будто пытающихся покорить Его взглядами."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.15.7"
+  notes: "Поэтическая вставка (сплошная ямака); сюжет стоит. Как и у Мурари, Господь в пути любуется стадами оленей."
+  themes: [pilgrimage]
+  event: ev-gaya-journey-deer-lesson
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "25", to: "49"}
+
+- id: kcm-0035
+  source: karnapura-ckm
+  ref: "Сарга 4, 50–55"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 30
+  title: "Лихорадка после омовения в реке Чора; исцеление водой со стоп брахманов; Раджагири"
+  summary: "После омовения и обрядов в реке Чора Господа охватывает лихорадка; Он Сам назначает лекарство — воду, омывшую стопы брахманов, и тотчас исцеляется. Затем Он совершает обряды по предкам в Раджагири и у озера Брахмы и входит в Гаю."
+  persons: ["@mahaprabhu"]
+  places: ["#rajagriha", "#gaya"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.15.8–14"
+  notes: "Господь, не подвластный болезни, принимает лихорадку, чтобы показать величие воды со стоп брахманов-вайшнавов («Его поступки не поддаются пониманию», ст. 50, 53)."
+  divergence: "Мурари помещает лихорадку на горе Мандара после омовения в реке Чорандхаяке; Карнапура называет только реку Чора и не упоминает Мандару."
+  themes: [pilgrimage, teaching]
+  bhava: [devotee]
+  event: ev-mandara-fever-brahmana-water
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "50", to: "55"}
+
+- id: kcm-0036
+  source: karnapura-ckm
+  ref: "Сарга 4, 56–61"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 40
+  title: "Встреча с Ишварой Пури в Гае и посвящение"
+  summary: "В Гае Господь видит Ишвару Пури, падает к его стопам и смиренно просит наставить Его в преданности Хари; Пури дарует Ему мантру Владыки дев Враджа, и Господь, покрытый вставшими волосками, называет встречу с ним целью своей жизни и обходит его с почтением."
+  persons: ["@mahaprabhu", "@ishvara-puri"]
+  places: ["#gaya"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.15.15–19"
+  notes: "Господь принимает посвящение, являя пример ученичества."
+  divergence: "Мантра названа «мантрой Владыки прекрасных дев Враджа» (Гопиджана-валлабхи) — ближе к «мантре Гопинатхи» у Лочана Даса, чем к десятисложной мантре Гопалы у Мурари."
+  themes: [ecstasy, pilgrimage]
+  bhava: [devotee]
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "56", to: "61"}
+
+- id: kcm-0037
+  source: karnapura-ckm
+  ref: "Сарга 4, 62–66"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 50
+  title: "Обряды в Гае; экстаз у следа стоп Вишну"
+  summary: "Господь совершает омовение в Пхалгу, поминальные обряды на горе, у Дакшина-манасы и на «главе Гаи»; увидев след стоп Хари, Он думает: «Почему сердце моё не тает?» — и из глаз хлынули слёзы; в порыве Он хочет оставить всех и идти в Мадхувану."
+  persons: ["@mahaprabhu"]
+  places: ["#gaya"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.16.1–7"
+  themes: [ecstasy, pilgrimage, deities]
+  bhava: [devotee]
+  event: ev-gaya-vishnupada-prema
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "62", to: "66"}
+
+- id: kcm-0038
+  source: karnapura-ckm
+  ref: "Сарга 4, 67–68"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 60
+  title: "Небесный голос: «Вернись домой»"
+  summary: "Голос с неба, глубокий, как туча, говорит: «Махапрабху ещё придёт в Мадхувану, а сейчас вернись домой»; обрадованный Господь с брахманами пускается в обратный путь."
+  persons: ["@mahaprabhu"]
+  places: ["#gaya", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.16.8–11"
+  notes: "Мадхувана — Врадж."
+  themes: [celestial, pilgrimage]
+  event: ev-gaya-heavenly-voice-return
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "67", to: "68"}
+
+- id: kcm-0039
+  source: karnapura-ckm
+  ref: "Сарга 4, 69–77"
+  file: "karnapura-mahakavya/ru/04.md"
+  period: P06
+  order: 65
+  title: "Возвращение из Гаи: торжество Шачи; начало киртана с месяца магха"
+  summary: "Шачи, узнав о приближении сына, наполняет дом музыкой и торжествами; Господь берёт пыль с её стоп и падает перед ней ниц, а она раздаёт дары брахманам, музыкантам и нищим. Вернувшись в конце пауши, с начала магхи Господь оставляет все дела и день за днём изливает на землю киртан, плача и покрываясь вставшими волосками."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.16.8–11"
+  themes: [family, kirtan, ecstasy]
+  calendar: "возвращение — конец пауши; киртан — с начала магхи"
+  date_conf: вероятно
+  date_basis: "Махакавья 4.76"
+  event: ev-gaya-heavenly-voice-return
+  verses:
+    - {file: "karnapura-mahakavya/ru/04.md", from: "69", to: "77"}
+
+- id: kcm-0040
+  source: karnapura-ckm
+  ref: "Сарга 5, 1–8"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 20
+  title: "Шачи просит у сына премы"
+  summary: "Вернувшись из Гаи, Господь непрестанно плачет, воспевая Имя; Шачи понимает, что это према, и просит дать её и ей; Господь отвечает, что она обретёт прему по милости вайшнавов, и просит брахманов благословить мать."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.1.9–18"
+  notes: "Исполнение обещания — ст. 5.82–90 (Шачи обретает прему во время махапракаши в доме Шривасы)."
+  themes: [family, ecstasy, mercy]
+  teaching: [vaishnava]
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "1", to: "8"}
+
+- id: kcm-0041
+  source: karnapura-ckm
+  ref: "Сарга 5, 9–14"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 10
+  title: "Четыре месяца премы и учения после Гаи"
+  summary: "Господь целыми днями рыдает в любви, путает день и ночь, при звуке Имени катается по земле, твердя «Кришна!»; при этом Он каждый день совершает поклонение, вкушает прасад и учит брахманских юношей — так проходят четыре месяца с магхи."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.1.8"
+  themes: [ecstasy, learning, kirtan]
+  calendar: "магха — вайшакха (четыре месяца)"
+  years: [1509, 1509]
+  date_conf: вероятно
+  date_basis: "Махакавья 5.14 (от возвращения из Гаи в конце пауши, 4.76)"
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "9", to: "14"}
+
+- id: kcm-0042
+  source: karnapura-ckm
+  ref: "Сарга 5, 15–21"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 60
+  title: "Бхава Вепря в доме Мурари"
+  summary: "В домашнем святилище Мурари Господь видит вепря, держащего землю на бивнях, принимает бхаву Варахи, ползает с рыком и отшвыривает зубами кувшин, требуя: «Опиши Меня!»; Мурари отвечает словами Гиты, что Его знает лишь Он Сам, и Господь говорит, что даже Веды ищут Его, как слепые."
+  persons: ["@mahaprabhu", "@murari-gupta"]
+  places: ["#house-murari"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.2.11–26"
+  themes: [revelation]
+  bhava: [varaha]
+  scriptures: ["Гита 10.15"]
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "15", to: "21"}
+
+- id: kcm-0043
+  source: karnapura-ckm
+  ref: "Сарга 5, 22–31"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 98
+  title: "«Видишь Шиву, Сканду и Брахму?»; Адвайта видит Господа таким, как задумал"
+  summary: "Сияющий Господь спрашивает Шривасу, видит ли он собравшихся пятиликого, шестиликого и четырёхликого; Шрипати сообщает о приходе Адвайты; Господь запирается в доме Шривасы, являя природное сияние, а Адвайта, дав обет увидеть Его истинный облик, видит Его точно таким, каким задумал, и падает ниц с травинкой в зубах; Господь поднимает и обнимает его."
+  persons: ["@mahaprabhu", "@srivasa", "@shripati", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: "Мурари 2.6.10–27"
+  notes: "Пятиликий, шестиликий и четырёхликий — Шива, Сканда и Брахма (ср. приход богов к Господу, Мурари 2.3.1–4)."
+  themes: [revelation]
+  bhava: [aishvarya]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "22", to: "31"}
+
+- id: kcm-0044
+  source: karnapura-ckm
+  ref: "Сарга 5, 32–52"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 127
+  title: "Махапракаша: великое омовение в доме Шривасы"
+  summary: "Летом Господь, весь в явленном сиянии, один приходит к Шривасе и велит омыть Его водами Ганги; братья Шривасы и женщины приносят сто кувшинов, Шриваса омывает Господа, облачает в белые одежды, и Господь, отодвинув изваяния Божеств, садится на их ложе; лучи пробиваются сквозь щели дома, все узнают в Нём Владыку трёх миров и слышат звук флейты."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.12.5–17"
+  notes: "«Изваяния богов» (ст. 49) — Божества домашнего святилища; Господь садится на их место как Сам Верховный Господь, источник всех Божеств."
+  divergence: "У Карнапуры махапракаша следует сразу за приходом Адвайты и происходит летом (джьяйштха, ср. 5.14, 5.125) — до встречи с Нитьянандой; у Мурари омовение Господа — позднее (2.12), после многих лил с Нитьянандой."
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  calendar: "лето, начало джьяйштхи"
+  years: [1509, 1509]
+  date_conf: вероятно
+  date_basis: "Махакавья 5.14, 5.32–35, 5.125"
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "32", to: "52"}
+
+- id: kcm-0045
+  source: karnapura-ckm
+  ref: "Сарга 5, 53–80"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 127
+  title: "Махапракаша: Гададхара украшает Господа; милость жёнам брахманов"
+  summary: "Господь переходит во внутренние покои, где Гададхара готовит ложе и, сплетя цветочные украшения, наряжает и умащает Его; весь город сияет, все готовят сандал, бетель и угощения. Жёны Шривасы и его братьев, горюющие за завесой, по велению Господа входят, Он ставит стопы им на головы со словами «Всегда думайте обо Мне!», раздаёт свои одежды как прасад и принимает все подношения."
+  persons: ["@mahaprabhu", "@srivasa", "@gadadhara-pandita", "@malini"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.12.5–17"
+  themes: [revelation, mercy, festival]
+  scriptures: ["Гита 9.34"]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "53", to: "80"}
+
+- id: kcm-0046
+  source: karnapura-ckm
+  ref: "Сарга 5, 81–90"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 20
+  title: "Пляска Адвайты; Шачи получает прему от прикосновения стопы Господа"
+  summary: "По велению Господа Адвайта пляшет с вайшнавами; приходит Шачи, и Господь отворачивается от неё; Шриваса упрекает Его, а Шачи велит поклониться: «Он не твой сын!» По просьбе Шривасы Господь ставит стопу ей на голову, и она в исступлении любви плачет и пляшет, забыв стыд."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.1.9–18"
+  notes: "Исполнение обещания Господа (5.6), что Шачи обретёт прему по милости вайшнавов: милость приходит по ходатайству Шривасы."
+  divergence: "В ЧБ (Мадхья 22) Шачи обретает прему после прощения оскорбления Адвайты; у Карнапуры — во время махапракаши, без упоминания оскорбления."
+  themes: [family, mercy, ecstasy]
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "81", to: "90"}
+
+- id: kcm-0047
+  source: karnapura-ckm
+  ref: "Сарга 5, 91–118"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 127
+  title: "Махапракаша: ночь игр, обморок Господа, киртан возвращает Его; одиннадцать страж"
+  summary: "Ночью Господь одаряет всех милостью и обходит дома четырёх братьев; сказав «Я ухожу», Он падает и до утра лежит без чувств; преданные в отчаянии, пока сладкий киртан не возвращает Его; свернув сияние, «как летнее солнце стало осенней луной», Он говорит, что ничего не помнит. Одиннадцать страж люди не спят и не едят, не замечая времени."
+  persons: ["@mahaprabhu", "@srivasa", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.12.5–17"
+  notes: "«Я ухожу» и обморок — не уход из мира: Господь возвращается к внешнему сознанию от звука киртана. Шутка Шривасы о «Твоей майе» (ст. 112) — о йогамае, скрывающей величие Господа."
+  themes: [revelation, kirtan, ecstasy]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "91", to: "118"}
+
+- id: kcm-0048
+  source: karnapura-ckm
+  ref: "Сарга 5, 119–129"
+  file: "karnapura-mahakavya/ru/05.md"
+  period: P07
+  order: 88
+  title: "Восемь месяцев пляски в доме Шривасы; Гададхара неотлучно при Господе"
+  summary: "После омовения Господа ежедневно чтят братья Шривасы и их жёны, затем Он возвращается к матери. От джьяйштхи до конца пауши Господь каждый день пляшет в доме Шривасы под пение его братьев, а Гададхара днём и ночью неотлучно служит Ему."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@gadadhara-pandita", "@shachi"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.4.27–32"
+  themes: [kirtan]
+  calendar: "джьяйштха — конец пауши (восемь месяцев)"
+  years: [1509, 1509]
+  date_conf: вероятно
+  date_basis: "Махакавья 5.125"
+  event: ev-dance-shrivasa-house
+  verses:
+    - {file: "karnapura-mahakavya/ru/05.md", from: "119", to: "129"}
