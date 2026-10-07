@@ -2641,3 +2641,232 @@
   event: ev-devotees-gather-nilachala
   verses:
     - {file: "karnapura-mahakavya/ru/13.md", from: "145", to: "148"}
+
+
+- id: kcm-0139
+  source: karnapura-ckm
+  ref: "Сарга 14, 1–10"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 20
+  title: "Господь зовёт преданных каждый год приходить на Ратха-ятру"
+  summary: "Господь говорит Адвайте и Шривасе о шествии Джаганнатхи в Гундичу, к саду, напоминающему Вриндаван, и велит им каждый год приходить смотреть это шествие; с тех пор они ежегодно приходят к Нему, и поэт берётся описать одно такое путешествие."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  parallels: "Мурари 4.17"
+  notes: "«Под предлогом Ратха-ятры Господь призвал их созерцать Его собственные игры» (ст. 7)."
+  themes: [jagannatha, festival]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "1", to: "10"}
+
+- id: kcm-0140
+  source: karnapura-ckm
+  ref: "Сарга 14, 11–41"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 20
+  title: "Путь бенгальских преданных в Пури"
+  summary: "В месяц мадхава Шриваса, Васудева и Шивананда назначают день выхода; преданные навещают Шачи в Навадвипе, к ним присоединяются Адвайта, Харидаса, Рама Пандит, Мукунда и Мурари; с киртаном они идут до Ремуны и видят там Гопинатху; их поток — как океан без берегов."
+  persons: ["@advaita", "@srivasa", "@vasudeva-datta", "@shivananda-sena", "@shachi", "@haridasa-thakura", "@srirama-pandita", "@mukunda-datta", "@murari-gupta", "@gopala-remuna"]
+  places: ["#navadvipa", "#remuna"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.17; ЧЧ Мадхья 10.80–92, Антья 1.15–32"
+  themes: [pilgrimage, kirtan]
+  calendar: "мадхава (вайшакха): выход в путь"
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "11", to: "41"}
+
+- id: kcm-0141
+  source: karnapura-ckm
+  ref: "Сарга 14, 42–56"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 21
+  title: "Сарвабхаума в Джаяпуре: уход в Каши проповедовать бхакти"
+  summary: "В деревне Джаяпур бенгальцев встречает Сарвабхаума; он славит Адвайту и Харидаса и говорит, что, вопреки словам Господа «не трудись понапрасну», идёт в Каши, чтобы придать веданте иной смысл и оживить нектаром бхакти иссохших от умозрения; просит благословения и уходит."
+  persons: ["@sarvabhauma", "@advaita", "@haridasa-thakura"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧд акт 10"
+  divergence: "В драме Карнапуры (акт 10) уход Сарвабхаумы в Варанаси — позднее; в ЧЧ этого эпизода нет."
+  themes: [teaching]
+  teaching: [vedanta, bhakti-supremacy]
+  event: ev-sarvabhauma-to-varanasi
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "42", to: "56"}
+
+- id: kcm-0142
+  source: karnapura-ckm
+  ref: "Сарга 14, 57–66"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 20
+  title: "Джаджпур; Пратапарудра зовёт Адвайту"
+  summary: "Преданные омываются в Вайтарани у Джаджпура; Пратапарудра после сна присылает за Адвайтой носилки, и тот, страшась, что скажет Господь, едет в Каттак с Васудевой Даттой, а Харидаса и другие со Шривасой идут через Хамсешвару; в Камалапуре все снова соединяются."
+  persons: ["@prataparudra", "@advaita", "@vasudeva-datta", "@haridasa-thakura", "@srivasa"]
+  places: ["#jajpur", "#cuttack", "#kamalapura"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Эпизод с вызовом Адвайты к царю известен лишь Махакавье."
+  themes: [pilgrimage]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "57", to: "66"}
+
+- id: kcm-0143
+  source: karnapura-ckm
+  ref: "Сарга 14, 67–82"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 20
+  title: "Гирлянды от Господа; послание у озера Нарендра"
+  summary: "Увидев издали храм Джаганнатхи, преданные ликуют; Говинда приносит им гирлянды от Господа, а у озера Нарендра — Его наказ: соблюсти пост и встретиться в доме Мишры; Мурари в смирении остаётся у пруда."
+  persons: ["@govinda-servant", "@advaita", "@murari-gupta"]
+  places: ["#narendra-sarovara"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 11.68–78"
+  divergence: "В ЧЧ навстречу бенгальцам с гирляндами Господь посылает Сварупу и Говинду."
+  themes: [mercy]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "67", to: "82"}
+
+- id: kcm-0144
+  source: karnapura-ckm
+  ref: "Сарга 14, 83–114"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 20
+  title: "Встреча бенгальских преданных с Господом"
+  summary: "После даршана Джаганнатхи преданные видят Господа, сияющего, как золотая гора; Господь и Адвайта кланяются друг другу (Адвайта читает «naumīḍya te…»); Господь обнимает Шривасу, Раму Пандита и Васудеву, принимает два сосуда с водой Ганги; Мурари приходит с травой в зубах, и Господь омывает его слезами."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@srirama-pandita", "@vasudeva-datta", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.17–4.19.15; ЧЧ Мадхья 11.130–157"
+  themes: [ecstasy, mercy]
+  scriptures: ["Бхаг. 10.14.1"]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "83", to: "114"}
+
+- id: kcm-0145
+  source: karnapura-ckm
+  ref: "Сарга 14, 115–135"
+  file: "karnapura-mahakavya/ru/14.md"
+  period: P12
+  order: 60
+  title: "Праздник свадьбы и Снана-ятра"
+  summary: "Преданные смотрят праздник свадьбы в экадаши, а в полнолуние — Снана-ятру: на украшенном помосте Баладева, Субхадра и Джаганнатха в шествии восходят на помост, Господь Чайтанья с преданными идёт впереди, и под клики «Джая!» совершается омовение; от шествия Владыки проседает Черепаха и колеблется Шеша."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@subhadra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.20.5–9"
+  themes: [jagannatha, festival]
+  calendar: "джьештха: экадаши (свадьба), полнолуние (Снана-ятра)"
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "karnapura-mahakavya/ru/14.md", from: "115", to: "135"}
+
+
+- id: kcm-0146
+  source: karnapura-ckm
+  ref: "Сарга 15, 1–11"
+  file: "karnapura-mahakavya/ru/15.md"
+  period: P12
+  order: 60
+  title: "Анавасара: тоска Господа; Гопипати на качелях"
+  summary: "Пока Джаганнатха сокрыт с Лакшми, Господь тоскует, как гопи в разлуке; утешением становится праздник Гопипати — Кришны с флейтой на качелях под пляску девадаси."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.20.5–9; ЧЧ Мадхья 11.61–63"
+  divergence: "В ЧЧ в анавасару Господь уходит в Алаланатху; праздника качелей там нет."
+  themes: [jagannatha, separation]
+  bhava: [gopi]
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "karnapura-mahakavya/ru/15.md", from: "1", to: "11"}
+
+- id: kcm-0147
+  source: karnapura-ckm
+  ref: "Сарга 15, 12–70"
+  file: "karnapura-mahakavya/ru/15.md"
+  period: P12
+  order: 65
+  title: "Уборка храма Гундичи"
+  summary: "До рассвета Господь омывается, надевает алую одежду, раздаёт сто мётел и, как вырвавшийся слон, бежит к Гундиче; преданные метут, забыв себя, Господь чистит трон, весь в пыли, твердя «Кришна»; воду из колодца передают по цепочке, кувшины летают, как мячи; собранные травинки и камешки сравнивают на выигрыш; затем киртан, купание в пруду и поклон Нрисимхе."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 12.79–153; ЧЧд акт 10"
+  themes: [jagannatha, kirtan, teaching]
+  teaching: [purity]
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "karnapura-mahakavya/ru/15.md", from: "12", to: "70"}
+
+- id: kcm-0148
+  source: karnapura-ckm
+  ref: "Сарга 15, 71–77"
+  file: "karnapura-mahakavya/ru/15.md"
+  period: P12
+  order: 60
+  title: "Нетротсава"
+  summary: "На первом даршане после анавасары Господь и Джаганнатха подобны друг другу: оба смотрят не мигая; Господь стоит у бхога-мандапы, погружённый в созерцание."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 12.204–211"
+  themes: [jagannatha, ecstasy]
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "karnapura-mahakavya/ru/15.md", from: "71", to: "77"}
+
+- id: kcm-0149
+  source: karnapura-ckm
+  ref: "Сарга 15, 78–99"
+  file: "karnapura-mahakavya/ru/15.md"
+  period: P12
+  order: 70
+  title: "Джаганнатха сходит с трона и восходит на колесницу"
+  summary: "Джаганнатха с Лакшми; Его путь в Гундичу — словно путешествие во Вриндаван; по подушкам Он сходит с трона, и шествие похоже на игру в мяч Джаганнатхи и Гауры; Пратапарудра метёт путь золотой метлой, и Джаганнатха восходит на колесницу."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.20.10–4.21.5; ЧЧ Мадхья 13.1–16"
+  themes: [jagannatha, festival]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/15.md", from: "78", to: "99"}
+
+- id: kcm-0150
+  source: karnapura-ckm
+  ref: "Сарга 15, 100–110"
+  file: "karnapura-mahakavya/ru/15.md"
+  period: P12
+  order: 70
+  title: "Перед колесницами: Господь умащает певцов"
+  summary: "Господь купается и умащает сандалом Адвайту, Шривасу и певцов — Сварупу Дамодару, Дамодару Пандита и других; затем выступает в путь и падает ниц перед колесницей Баладевы."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 13.32–47"
+  themes: [jagannatha, kirtan]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "karnapura-mahakavya/ru/15.md", from: "100", to: "110"}
