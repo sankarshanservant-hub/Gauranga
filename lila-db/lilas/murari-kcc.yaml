@@ -1238,3 +1238,1361 @@
   themes: [author]
   verses:
     - {file: "murari-gupta/ru/1.16.md", from: "12", to: "20"}
+
+# --- Пракрама 2 (сарги 2.01–2.18): Навадвипа после Гаи — санньяса ---
+
+- id: mkc-0063
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 1, шлоки 1–7"
+  file: "murari-gupta/ru/2.01.md"
+  period: PX
+  order: 8
+  title: "Вступление ко второй пракраме: вопрос Дамодары и молитвы Мурари"
+  summary: "Дамодара Пандит просит подробно рассказать о навадвипских играх Господа; Мурари, поклонившись стопам Чайтаньи, молит, чтобы сияние Его ногтей наполнило душу, и просит, чтобы повеление Господа стало его силой в повествовании."
+  persons: ["@damodara-pandita", "@murari-gupta", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  parallels: ""
+  notes: "Шл. 5: не признающие Господа обмануты Его майей — сам Господь майе не подвластен."
+  themes: [author]
+  verses:
+    - {file: "murari-gupta/ru/2.01.md", from: "1", to: "7"}
+
+- id: mkc-0064
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 1, шлока 8"
+  file: "murari-gupta/ru/2.01.md"
+  period: P07
+  order: 10
+  title: "После Гаи: Господь со слезами любви учит брахманов"
+  summary: "Вернувшись домой, Кришна Хари, с глазами, полными слёз любви, каждый день учит у Себя дома брахманов."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0097"
+  notes: "Упоминание: содержание уроков Мурари не передаёт."
+  themes: [learning, ecstasy]
+  bhava: [teacher]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "murari-gupta/ru/2.01.md", from: "8", to: "8"}
+
+- id: mkc-0065
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 1, шлоки 9–18"
+  file: "murari-gupta/ru/2.01.md"
+  period: P07
+  order: 20
+  title: "Шачи просит у Сына премы"
+  summary: "Шачи видит, что Сын плачет во сне; распознав признаки премы, она просит у Него богатства, обретённого в Гае; Господь отвечает, что према придёт к ней по милости вайшнавов, и просит брахманов подумать, как ей обрести её; те благословляют её, и Шачи обретает твёрдую преданность Хари."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0098"
+  notes: ""
+  themes: [ecstasy, family, mercy]
+  bhava: [devotee]
+  teaching: [vaishnava, prema]
+  divergence: "Шачи обретает прему сразу, по слову Господа и благословению брахманов-вайшнавов; в ЧБ (Мадхья 22) — лишь после прощения оскорбления Адвайты."
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "murari-gupta/ru/2.01.md", from: "9", to: "18"}
+
+- id: mkc-0066
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 1, шлоки 19–30"
+  file: "murari-gupta/ru/2.01.md"
+  period: P07
+  order: 30
+  title: "Экстаз Господа в обители Шукламбары; Он не отличает дня от ночи"
+  summary: "Господь плачет потоками слёз и катается по земле в обители брахмачари Шукламбары, а тот, всегда чистый, отводит прочь поток слизи; от избытка любви Господь не отличает дня от ночи, падает, как палка, при звуке имени Хари, дрожит, цепенеет; в промежутках совершает поклонение, учит брахманов, а ночью поёт и танцует."
+  persons: ["@mahaprabhu", "@shuklambara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0099"
+  notes: "Шл. 25–30 — общее описание экстатических состояний Господа в этот период."
+  themes: [ecstasy, kirtan]
+  bhava: [devotee]
+  event: ev-shuklambara-house-prema
+  verses:
+    - {file: "murari-gupta/ru/2.01.md", from: "19", to: "30"}
+
+- id: mkc-0067
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 2, шлоки 1–6"
+  file: "murari-gupta/ru/2.02.md"
+  period: P07
+  order: 50
+  title: "Звук флейты; ночные киртаны в доме Шривасы"
+  summary: "Идя по дороге со Шривасой и его братьями, Господь слышит звук флейты и падает без чувств; затем ночь за ночью и днём Он танцует и поёт песни о Кришне в доме Шривасы и Шри Рамы с Мукундой и «ещё одним вайдьей»."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@mukunda-datta", "@murari-gupta"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0101"
+  notes: "«Ещё один вайдья» (шл. 5) — по-видимому, сам Мурари (сноска перевода). Шл. 3–6 — общее описание жизни Господа и киртанов."
+  themes: [ecstasy, kirtan]
+  bhava: [devotee]
+  divergence: "Бхава Радхи при звуке флейты (Лочан) у Мурари не названа."
+  event: ev-flute-sound-radha-bhava
+  verses:
+    - {file: "murari-gupta/ru/2.02.md", from: "1", to: "6"}
+
+- id: mkc-0068
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 2, шлоки 7–10"
+  file: "murari-gupta/ru/2.02.md"
+  period: P07
+  order: 55
+  title: "Небесный голос: «Ты нисшёл, о Бхагаван, чтобы люди обрели любовь»"
+  summary: "Дома Господь, вне Себя от любви, сокрушается, как обратить ум к Хари; некое божество отвечает Ему: Он нисшёл, о Бхагаван, чтобы люди обрели любовь, и по Его милости жертвоприношение киртаны в Кали совершится во всей полноте; Господь радуется."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: A
+  parallels: "Лочан, lcm-0102"
+  notes: "«Часть Хари» (шл. 8) сказано сообразно настроению преданного, в котором пребывает Господь; тот же голос называет Его Бхагаваном (сноска перевода). Для гаудия-вайшнавов Шри Чайтанья — Сам Кришна."
+  themes: [celestial, revelation, kirtan]
+  bhava: [devotee]
+  teaching: [gaura-tattva, yuga-dharma]
+  divergence: "Голос называет Господа «частью Хари» и Бхагаваном; у Лочана Даса — прямо «Ты Сам — Ишвара»."
+  event: ev-heavenly-voice-you-are-ishvara
+  verses:
+    - {file: "murari-gupta/ru/2.02.md", from: "7", to: "10"}
+
+- id: mkc-0069
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 2, шлоки 11–26"
+  file: "murari-gupta/ru/2.02.md"
+  period: P07
+  order: 60
+  title: "Бхава Вепря в доме Мурари; «Веда не знает Меня»"
+  summary: "В домашнем храме Мурари Господь видит могучего вепря, отступает, затем Сам в бхаве Варахи идёт на четвереньках с рёвом и поднимает клыками латунный сосуд; велит Мурари описать Его истинный облик; Мурари отвечает словами Гиты (10.15), а Господь, смеясь, приводит стих Шветашватара-упанишады о «безруком и безногом» и говорит, что Веда не знает Его; на мольбу Мурари Он дарует ему любовь."
+  persons: ["@mahaprabhu", "@murari-gupta", "@varaha"]
+  places: ["#navadvipa", "#house-murari"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0103"
+  notes: "«Без рук и без ног» — без материальных рук и ног (сноска перевода)."
+  themes: [revelation, teaching]
+  bhava: [varaha, aishvarya]
+  teaching: [vedanta, gaura-tattva]
+  scriptures: ["Гита 10.15", "Шветашватара-уп. 3.19"]
+  divergence: "Наставления о поклонении Радхе и Кришне и явления облика Рамы (Лочан) здесь нет: Мурари получает благословение любви; имя Рамадаса — позже (2.7.18)."
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "murari-gupta/ru/2.02.md", from: "11", to: "26"}
+
+- id: mkc-0070
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 2, шлоки 27–36"
+  file: "murari-gupta/ru/2.02.md"
+  period: P07
+  order: 65
+  title: "Толкование шлоки «харер нама» в доме Шривасы"
+  summary: "В доме Шривасы Господь толкует стих «Имя Хари, имя Хари, только имя Хари…»: облик Пуруши в Кали — Имя, трижды повторённое для утверждения истины; Имя милосердно и дарует вкус расы любви к Кришне; кто скажет иное, у того нет пути; затем, назвав Себя Вепрем, вмещающим всех богов, Он танцует и поёт киртану."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0104"
+  notes: "Шл. 29–32 местами неясны, перевод предположителен (сноска). Шл. 35–36 — плод слушания."
+  themes: [teaching, kirtan]
+  bhava: [varaha]
+  teaching: [holy-name, yuga-dharma]
+  scriptures: ["Брихан-нарадия-пурана 38.126"]
+  divergence: "«Единственное» (кевалам) сторонники недвойственности понимают как кайвалью, Господь же — как Имя, дарующее любовь; ЧЧ Ади 17.21–25 толкует слова стиха иначе."
+  event: ev-harer-nama-explained
+  verses:
+    - {file: "murari-gupta/ru/2.02.md", from: "27", to: "36"}
+
+- id: mkc-0071
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 3, шлоки 1–4"
+  file: "murari-gupta/ru/2.03.md"
+  period: P07
+  order: 70
+  title: "Боги приходят служить Господу; Он дарует преданным любовь"
+  summary: "Господь, засияв светом тысячи лун, спрашивает, кто эти четырёхликий, шестиликие и пятиликие; Шриваса отвечает, что это Брахма, Шива, Сканда и другие боги пришли служить Ему; на другой день Господь садится на высокое сиденье, касается стопами тел преданных и дарует им испрошенную преданность-любовь."
+  persons: ["@mahaprabhu", "@srivasa", "@brahma", "@shiva", "@kartikeya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: A
+  parallels: "Лочан, lcm-0105"
+  notes: ""
+  themes: [celestial, revelation, mercy]
+  bhava: [aishvarya]
+  event: ev-gods-receive-prema
+  verses:
+    - {file: "murari-gupta/ru/2.03.md", from: "1", to: "4"}
+
+- id: mkc-0072
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 3, шлоки 5–9"
+  file: "murari-gupta/ru/2.03.md"
+  period: P07
+  order: 72
+  title: "Милость к Шукламбаре: «Разве шакалы не ходят туда?»"
+  summary: "Шукламбара говорит, что ходил в Матхуру и Дваравати и всё же несчастен, и просит любви; Господь отвечает: «Разве шакалы не ходят туда?» — и, когда тот падает на землю, дарует ему любовь в тот же день; все поют с Господом песни о Кришне."
+  persons: ["@mahaprabhu", "@shuklambara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0106"
+  notes: "Господь не умаляет святых мест: одно телесное пребывание в них без любви не приносит плода (сноска перевода)."
+  themes: [mercy, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "murari-gupta/ru/2.03.md", from: "5", to: "9"}
+
+- id: mkc-0073
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 3, шлоки 10–17"
+  file: "murari-gupta/ru/2.03.md"
+  period: P07
+  order: 74
+  title: "Служение Гададхары; раздача гирлянд-прасада вайшнавам"
+  summary: "Гададхара всегда при стопах Господа; однажды ночью Господь вручает ему гирлянды со Своего тела, чтобы утром раздать вайшнавам как прасад, и тот раздаёт; каждый день Гададхара умащает Господа сандалом, украшает гирляндами и готовит Ему ложе — как Радха во Врадже готовит ложе Кришне."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@radha", "@krishna"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0107"
+  notes: "Сравнение с Радхой (шл. 17): по преданию, Гададхара — Сама Шри Радха (ГГД 147); служение — чистая према (сноска перевода)."
+  themes: [prasada, mercy, krishna-lila]
+  teaching: [vaishnava, associates-tattva]
+  event: ev-gadadhara-receives-prema
+  verses:
+    - {file: "murari-gupta/ru/2.03.md", from: "10", to: "17"}
+
+- id: mkc-0074
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 3, шлоки 18–27"
+  file: "murari-gupta/ru/2.03.md"
+  period: P07
+  order: 78
+  title: "Господь рассеивает тучи над киртаном"
+  summary: "Вечерами Господь поёт и танцует с преданными; однажды небо затягивают грозовые тучи, и вайшнавы тревожатся; Господь, взяв мандиру, поёт о Кришне — ветры разгоняют тучи, небо озаряет луна, и Господь танцует под звон браслетов, жёны брахманов издают «улу-улу», а сонм богов взирает с неба."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: miracle
+  authority: A
+  parallels: "Лочан, lcm-0109"
+  notes: "Шл. 27 — хвала танцующим с Господом."
+  themes: [kirtan, revelation, celestial]
+  event: ev-clouds-dispersed-kirtan
+  verses:
+    - {file: "murari-gupta/ru/2.03.md", from: "18", to: "27"}
+
+- id: mkc-0075
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 1–2"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 73
+  title: "Шукламбара: «Ты сделал Навадвипу Матхурой»"
+  summary: "Брахман Шукламбара постоянно плачет, падает на землю, как палка, и причитает, охваченный любовью: «Ты ныне сделал Навадвипу Матхурой, о милый!»"
+  persons: ["@shuklambara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Продолжение милости к Шукламбаре (2.3.5–9)."
+  themes: [ecstasy, mercy]
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "1", to: "2"}
+
+- id: mkc-0076
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 3–5"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 80
+  title: "Танцы Господа с близкими"
+  summary: "Господь танцует, положив руку на плечо друга, в настроении Владыки раздаёт дары слугам; однажды ночью, устроив праздник, Он взбирается на плечи близких и играет с ними."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0110"
+  notes: "Общее описание."
+  themes: [kirtan, ecstasy]
+  bhava: [aishvarya]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "3", to: "5"}
+
+- id: mkc-0077
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 6–11"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 82
+  title: "«Фокус лицедея»: семя, дерево и плод — урок о делах ради Владыки"
+  summary: "Хлопая в ладоши, Господь показывает «фокус лицедея»: посаженное семя мгновенно становится деревом, цветёт и приносит плод, который собирают; но всё это создано майей и само по себе бесплодно, — как фокусник получает богатство, лишь показав фокус владыке, так плод приносит только дело, совершённое ради служения Владыке."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0111"
+  notes: ""
+  themes: [teaching, revelation]
+  teaching: [maya, bhakti-supremacy]
+  divergence: "У Мурари — показ-притча о фокуснике (дерево и плод созданы майей); у Лочана Даса — чудо с манговым деревом, плоды которого подносят Господу."
+  event: ev-mango-tree
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "6", to: "11"}
+
+- id: mkc-0078
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 12–21"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 84
+  title: "Наставление Мукунде Датте: созерцать Двурукого; стопа на голове Мукунды"
+  summary: "Господь укоряет Мукунду за рассуждения о Брахмане, читает шлоку о имени Рамы и учит: созерцание Четырёхрукого не выше созерцания Двурукого, различение в Высшем Владыке ведёт к страданию — созерцай Двурукого; Мукунда просит возвести его в слуги, возложив ему на голову стопу, и Господь исполняет это."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@krishna"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0112"
+  notes: ""
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, gaura-tattva]
+  scriptures: ["Падма-пурана («раманте йогино ’нанте»)"]
+  event: ev-mukunda-datta-instruction
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "12", to: "21"}
+
+- id: mkc-0079
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 22–26"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 86
+  title: "Мурари велено оставить песнь об учении о Самости и сложить шлоку о Хари"
+  summary: "Господь упрекает Мурари за песнь об учении о Самости и велит сложить шлоку о Хари; Мурари просит повеления, чтобы можно было поведать о нынешнем нисхождении Господа, и Господь благословляет: что скажет этот вайдья, будет истиной из истин."
+  persons: ["@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0113"
+  notes: "Благословение понимается как повеление составить эту поэму (сноска перевода; шл. 24 неясна)."
+  themes: [teaching, mercy, author]
+  teaching: [bhakti-supremacy, maya]
+  event: ev-murari-adhyatma-instruction
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "22", to: "26"}
+
+- id: mkc-0080
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 27–32"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 88
+  title: "Служение Шривасы и Шри Рамы; Господь танцует в их доме"
+  summary: "Шриваса каждое утро по правилам поклоняется Хари вместе с братьями, воспевает имя, омывает и угощает Его; младший брат Рама служит вместе с ним; оба дороги Господу, и в их доме Он танцует, как Капила в собрании мудрецов."
+  persons: ["@srivasa", "@srirama-pandita", "@mahaprabhu", "@murari-gupta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0114"
+  notes: "Шл. 27 начинается словами о радости Мурари (окончание предыдущей сцены)."
+  themes: [kirtan, deities]
+  teaching: [vaishnava]
+  event: ev-dance-shrivasa-house
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "27", to: "32"}
+
+- id: mkc-0081
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 4, шлоки 33–35"
+  file: "murari-gupta/ru/2.04.md"
+  period: P07
+  order: 90
+  title: "Хула ученика: «Кришна порождён майей» — Господь омывается в Ганге"
+  summary: "Когда Господь учит учеников, сын брахмана говорит, что Кришна порождён майей; Господь закрывает уши, идёт с учениками к Ганге, омывается в одежде и возвращается домой."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0115"
+  notes: "Шл. 35 — плод слушания."
+  themes: [offense, teaching, learning]
+  bhava: [teacher]
+  teaching: [gaura-tattva]
+  event: ev-blasphemous-student-ganga-bath
+  verses:
+    - {file: "murari-gupta/ru/2.04.md", from: "33", to: "35"}
+
+- id: mkc-0082
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 5, шлоки 1–19"
+  file: "murari-gupta/ru/2.05.md"
+  period: P07
+  order: 92
+  title: "Господь у Адвайты в Шантипуре"
+  summary: "Со Шривасой и другими, с песнями и плясками, Господь идёт в Шантипур к Адвайте и падает перед Ним, как палка; Ачарья тоже падает, Они обнимаются в экстазе; на слова Адвайты о глупцах, отрицающих бхакти в Кали, Господь отвечает, что лишь преданность и есть суть мира; не-вайшнав, которого опасается Шриваса, не входит; Господь играет, опираясь на Шривасу и Гададхару, кладёт стопы на колени Шри Рамы, вкушает трапезу и поёт с Ачарьей."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@gadadhara-pandita", "@srirama-pandita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0116"
+  notes: "Господь падает перед Адвайтой, уча почитать вайшнава как Самого Вишну (шл. 3)."
+  themes: [kirtan, ecstasy, prasada]
+  bhava: [devotee]
+  teaching: [bhakti-supremacy, vaishnava]
+  event: ev-visit-advaita
+  verses:
+    - {file: "murari-gupta/ru/2.05.md", from: "1", to: "19"}
+
+- id: mkc-0083
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 5, шлоки 20–33"
+  file: "murari-gupta/ru/2.05.md"
+  period: P07
+  order: 94
+  title: "Господь излагает джняна-йогу и возвещает: высшее — лишь преданность"
+  summary: "Дома Господь излагает путь знания — один Хари пребывает во всём, Брахман един, — показывая раскрытую ладонь и кулак и притчу о пальцах в мёде и гное; затем, вспомнив стопы Кришны, весь трепещет и со слезами провозглашает: высшее — лишь преданность, являющая любовь к Кришне, ибо преданный, плача, смеясь и танцуя, очищает три мира."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0117"
+  notes: "Джняна-йога изложена, чтобы показать её предел; не окончательный вывод Господа (сноска перевода; ср. 2.6.23–26)."
+  themes: [teaching, ecstasy]
+  teaching: [bhakti-supremacy, vedanta]
+  scriptures: ["Бхаг. 11.14.24"]
+  event: ev-jnana-path-bhakti-supreme
+  verses:
+    - {file: "murari-gupta/ru/2.05.md", from: "20", to: "33"}
+
+- id: mkc-0084
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 6, шлоки 1–10"
+  file: "murari-gupta/ru/2.06.md"
+  period: P07
+  order: 96
+  title: "Господь чтит Свою палицу; мир — дремучий лес"
+  summary: "Пока Адвайта идёт в Навадвипу, Господь в обители Шривасы кладёт цветок на конец посоха и называет его палицей — карой ненавистникам Его преданных; грозит одному злодею проказой и адом; говорит, что этот мир — великий лес, а людьми зовутся лишь упивающиеся мёдом стоп Кришны, и хочет идти к Адвайте."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0118"
+  notes: "Злодей — возможно, Гопала Чапала (ЧЧ Ади 17; сноска перевода); ср. 2.13.6–17."
+  themes: [offense, revelation]
+  bhava: [aishvarya]
+  teaching: [vaishnava]
+  event: ev-lord-honors-club
+  verses:
+    - {file: "murari-gupta/ru/2.06.md", from: "1", to: "10"}
+
+- id: mkc-0085
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 6, шлоки 11–17"
+  file: "murari-gupta/ru/2.06.md"
+  period: P07
+  order: 98
+  title: "Адвайта приходит в Навадвипу и пляшет; «Ради Тебя Я пришёл»"
+  summary: "Адвайта приносит дар к стопам Господа и падает, как палка; Господь говорит: «Ради Тебя Я и пришёл сюда», сажает Его и велит плясать; обещает ради Адвайты даровать любовь Его детям и в лунную ночь называет Камалакшу Своим величайшим преданным."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0119"
+  notes: "По преданию, Господь нисшёл, откликнувшись на моления Адвайты (сноска перевода). Камалакша — мирское имя Адвайты."
+  themes: [revelation, kirtan, mercy]
+  bhava: [aishvarya]
+  teaching: [associates-tattva]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "murari-gupta/ru/2.06.md", from: "11", to: "17"}
+
+- id: mkc-0086
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 6, шлоки 18–27"
+  file: "murari-gupta/ru/2.06.md"
+  period: P07
+  order: 98.5
+  title: "Величие Адвайты; запрет говорить об учении о Самости"
+  summary: "Шриваса сомневается, что Адвайта — преданный, и Господь гневно бранит его: нет в Бхарата-варше преданного, равного Ачарье, — Он не ниже Уддхавы и Акруры; затем Господь запрещает говорить об учении о Самости — иначе любовь не будет дарована; Мурари говорит, что не знает его, а Господь отвечает: «Знаешь — ты слышал его от Камалакши»; все пляшут."
+  persons: ["@mahaprabhu", "@srivasa", "@advaita", "@murari-gupta"]
+  places: ["#house-srivasa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0120"
+  notes: "Харихара (шл. 27) — вероятно, Гаура и Адвайта; Шива этим не уравнивается с Вишну (сноска перевода)."
+  themes: [teaching, offense]
+  teaching: [associates-tattva, bhakti-supremacy]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "murari-gupta/ru/2.06.md", from: "18", to: "27"}
+
+- id: mkc-0087
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 7, шлоки 1–5"
+  file: "murari-gupta/ru/2.07.md"
+  period: P07
+  order: 103
+  title: "Облик пляшущего Господа"
+  summary: "Описание Господа в наряде танцора: голова обёрнута новой белой тканью, коралловое ожерелье, алая одежда, ножные колокольчики; сияя, как расплавленное золото, Он пляшет, ударяя в мандиры, а близкие поют медовые песни о Враге Мадху."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0121"
+  notes: "Описательные шлоки; текст шл. 2 местами повреждён (сноска перевода)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "murari-gupta/ru/2.07.md", from: "1", to: "5"}
+
+- id: mkc-0088
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 7, шлоки 6–18"
+  file: "murari-gupta/ru/2.07.md"
+  period: P07
+  order: 104
+  title: "Имя Шривасы; «Рамаштака» Мурари; «Ты — Рамадас»"
+  summary: "Сев в храме среди Своих, Господь толкует имя Шривасы — «обитель Шри, преданности», называет Гопинатху Своим слугой и велит Мурари прочесть его поэму; Мурари читает восьмистишие о Раме, и Господь ставит стопу ему на голову и пишет у него на лбу: «Ты — Рамадас»."
+  persons: ["@mahaprabhu", "@srivasa", "@gopinatha-navadvipa", "@murari-gupta", "@rama"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0122; ЧЧ Мадхья 15 (верность Мурари Раме)"
+  notes: "Шл. 10–17 — «Рамаштака», восьмистишие самого Мурари."
+  themes: [mercy, revelation]
+  bhava: [aishvarya]
+  scriptures: ["Мурари 2.7.10–17 («Рамаштака»)"]
+  divergence: "Наставления Мурари петь о Радхе и Кришне (Лочан) у Мурари нет."
+  event: ev-murari-ramadasa
+  verses:
+    - {file: "murari-gupta/ru/2.07.md", from: "6", to: "18"}
+
+- id: mkc-0089
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 7, шлоки 19–24"
+  file: "murari-gupta/ru/2.07.md"
+  period: P07
+  order: 105
+  title: "Служение Шривасе — поклонение Господу"
+  summary: "Господь читает шлоку «Бхагаваты» о том, что Его покоряет лишь преданность, и велит всем поступать по суждению Шривасы: служение старшему брату Шри Рамы Пандита — поклонение Ему Самому."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita"]
+  places: ["#house-srivasa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0123"
+  notes: ""
+  themes: [teaching]
+  teaching: [vaishnava, bhakti-supremacy]
+  scriptures: ["Бхаг. 11.14.20"]
+  event: ev-shrivasa-service-teaching
+  verses:
+    - {file: "murari-gupta/ru/2.07.md", from: "19", to: "24"}
+
+- id: mkc-0090
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 7, шлоки 25–27"
+  file: "murari-gupta/ru/2.07.md"
+  period: P07
+  order: 105.5
+  title: "Нараяни получает остатки трапезы Господа"
+  summary: "Господь вкушает молоко и бетель, поднесённые Шривасой, и отдаёт остатки слуге; юная Нараяни, дочь брата Шривасы, получив остатки трапезы Хари, плачет; Господь проводит всю ночь на радость близким."
+  persons: ["@mahaprabhu", "@srivasa", "@narayani"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Нараяни — впоследствии мать Вриндавана Даса Тхакура (сноска перевода). «Мурари» в шл. 27 — имя Кришны (Сам Гауранга)."
+  themes: [prasada, mercy, ecstasy]
+  event: ev-narayani-remnants
+  verses:
+    - {file: "murari-gupta/ru/2.07.md", from: "25", to: "27"}
+
+- id: mkc-0091
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 8, шлоки 1–7"
+  file: "murari-gupta/ru/2.08.md"
+  period: P07
+  order: 106
+  title: "Господь посылает преданных разыскать Авадхуту Нитьянанду"
+  summary: "Утром Господь объявляет, что пришёл Авадхута по имени Нитьянанда, и посылает Раму, Мурари, Нараяну и Мукунду привести Его; они ищут к югу от селения и не находят, и Господь говорит, что вечером Его можно будет увидеть в Его пристанище."
+  persons: ["@mahaprabhu", "@nityananda", "@srirama-pandita", "@murari-gupta", "@narayana-navadvipa", "@mukunda-datta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0124"
+  notes: "Рама — по-видимому, Шри Рама Пандит; Нараяна — спутник Господа в Навадвипе (сноска перевода)."
+  themes: [revelation]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "murari-gupta/ru/2.08.md", from: "1", to: "7"}
+
+- id: mkc-0092
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 8, шлоки 8–14"
+  file: "murari-gupta/ru/2.08.md"
+  period: P07
+  order: 106.2
+  title: "Встреча с Нитьянандой в доме Нанданы Ачарьи"
+  summary: "Вечером Господь с Мурари и преданными приходит в дом Нанданы Ачарьи, с преданностью кланяется Нитьянанде, начинает санкиртану и танцует; Нитьянанда танцует вслед с громовыми кликами и смехом; Господь пылью Его стоп очищает голову Своего слуги."
+  persons: ["@mahaprabhu", "@nityananda", "@nandana-acharya", "@murari-gupta"]
+  places: ["#navadvipa", "#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0124"
+  notes: ""
+  themes: [ecstasy, kirtan, revelation]
+  teaching: [associates-tattva]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "murari-gupta/ru/2.08.md", from: "8", to: "14"}
+
+- id: mkc-0093
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 8, шлоки 15–17"
+  file: "murari-gupta/ru/2.08.md"
+  period: P07
+  order: 106.5
+  title: "Господь прославляет речи Нитьянанды по дороге домой"
+  summary: "По дороге домой Господь славит, как Нитьянанда говорит о Кришне: сначала рождается знание, затем преданность Хари, а затем приходит отрешённость; дома Он рассказывает обо всём матери."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0125"
+  notes: ""
+  themes: [teaching]
+  teaching: [associates-tattva, bhakti-supremacy]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "murari-gupta/ru/2.08.md", from: "15", to: "17"}
+
+- id: mkc-0094
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 8, шлоки 18–19"
+  file: "murari-gupta/ru/2.08.md"
+  period: P07
+  order: 108
+  title: "Господь угощает и чтит Нитьянанду"
+  summary: "На следующий день Господь угощает Нитьянанду трапезой, умащает Его сандалом, подносит гирлянду и аргхью и совершает Ему поклонение."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0126"
+  notes: ""
+  themes: [prasada]
+  teaching: [vaishnava]
+  divergence: "Сцены с Шачи, принимающей Нитьянанду как сына (Лочан), у Мурари нет."
+  event: ev-nityananda-meal-shachi
+  verses:
+    - {file: "murari-gupta/ru/2.08.md", from: "18", to: "19"}
+
+- id: mkc-0095
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 8, шлоки 20–30"
+  file: "murari-gupta/ru/2.08.md"
+  period: P07
+  order: 109
+  title: "Шестирукий, четырёхрукий и двурукий облик, явленный Нитьянанде"
+  summary: "Нитьянанда вкушает трапезу у Шривасы; приходит Господь и, вспомнив прежнюю игру, говорит: «Посмотри на Меня: ради Меня Ты потрудился»; Нитьянанда не постигает смысла, и Господь, выслав всех, являет Ему шестирукий облик, затем четырёхрукий и двурукий; Нитьянанда смеётся и пляшет, по велению Господа храня тайну; Господь говорит: «Ты — Мой брат, игравший во Вриндаване!»"
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa", "@balarama"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: "Лочан, lcm-0127; ЧЧ Мадхья 6 (шестирукий облик Сарвабхауме)"
+  notes: "Шестирукий облик соединяет черты Рамы, Кришны и Гауры (сноска перевода). Последние слова шл. 29 можно понять и как слова Нитьянанды. Шл. 30 — плод слушания."
+  themes: [revelation, krishna-lila]
+  bhava: [aishvarya, krishna]
+  teaching: [associates-tattva]
+  divergence: "Видения Радхи и Кришны в Гауре (Лочан) нет — лишь шести-, четырёх- и двурукий облик."
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "murari-gupta/ru/2.08.md", from: "20", to: "30"}
+
+- id: mkc-0096
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 9, шлоки 1–5"
+  file: "murari-gupta/ru/2.09.md"
+  period: P07
+  order: 110
+  title: "Господь видит во сне отрока Кришну и плачет"
+  summary: "По просьбе Дамодары Мурари рассказывает: ночью Господь плачет, и на вопрос матери говорит, что видел во сне Отрока цвета дождевой тучи, с павлиньим пером, флейтой и в жёлтых одеждах, и от этого Его охватили слёзы и бесконечное счастье; Шачи радостно улыбается."
+  persons: ["@mahaprabhu", "@shachi", "@krishna", "@damodara-pandita", "@murari-gupta"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: A
+  parallels: "Лочан, lcm-0128"
+  notes: "Шл. 1 — рамка: вопрос Дамодары."
+  themes: [ecstasy, krishna-lila]
+  bhava: [devotee]
+  event: ev-dream-of-krishna
+  verses:
+    - {file: "murari-gupta/ru/2.09.md", from: "1", to: "5"}
+
+- id: mkc-0097
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 9, шлоки 6–12"
+  file: "murari-gupta/ru/2.09.md"
+  period: P07
+  order: 111
+  title: "Нитьянанда в доме Шривасы созерцает облики Хари"
+  summary: "В доме Шривасы Авадхута видит облик Хари с палицей, диском, раковиной, флейтой, луком Шарнгой и лотосом, с Каустубхой и серьгами-макарами, затем — четырёхрукий и двурукий облик, смеётся и пляшет, обнимая близких; хвала Нитьянанде — старшему брату Кришны с плугом и пестиком."
+  persons: ["@nityananda", "@mahaprabhu", "@srivasa", "@balarama"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: "Лочан, lcm-0129"
+  notes: "Шл. 12 — хвала Нитьянанде-Балараме (слово автора)."
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya]
+  divergence: "Видение — в доме Шривасы (у Лочана Даса — по приходе от Шривасы)."
+  event: ev-nityananda-sees-forms
+  verses:
+    - {file: "murari-gupta/ru/2.09.md", from: "6", to: "12"}
+
+- id: mkc-0098
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 9, шлоки 13–16"
+  file: "murari-gupta/ru/2.09.md"
+  period: P07
+  order: 112
+  title: "Посланцы Господа у Адвайты: весть о Нитьянанде"
+  summary: "Господь посылает Шривасу, Раму, Мурари и Нараяну в дом Адвайты на берегу Ганги известить Его, что придёт Авадхута; услышав о мощи Господа, Ачарья ликует и пляшет; пробыв там два дня, посланцы возвращаются вместе с Ачарьей и рассказывают обо всём Господу."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@murari-gupta", "@narayana-navadvipa", "@advaita", "@nityananda"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0130"
+  notes: "Синтаксис шл. 13 неясен: возможно, и сам Авадхута идёт с ними (сноска перевода)."
+  themes: [ecstasy]
+  teaching: [associates-tattva]
+  divergence: "По основному пониманию шл. 13 преданные идут известить Адвайту о Нитьянанде; у Лочана Даса они ведут Нитьянанду к Адвайте, и Те два дня беседуют о Гауранге."
+  event: ev-nityananda-visits-advaita
+  verses:
+    - {file: "murari-gupta/ru/2.09.md", from: "13", to: "16"}
+
+- id: mkc-0099
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 9, шлоки 17–23"
+  file: "murari-gupta/ru/2.09.md"
+  period: P07
+  order: 113
+  title: "Адвайта и преданные поклоняются Господу в доме Шривасы"
+  summary: "Ачарья, увидев Господа, издаёт львиный рык; Господь на сиденье в храмовой комнате Шривасы засиял, как солнце; преданные во главе с Ачарьей подносят Ему угощение, аргхью и одежды, падают ниц, а Он раздаёт им одежды и гирлянды; день и ночь они пляшут, почитая освобождение ничтожным, и на рассвете расходятся, рассказывая жёнам о деяниях Хари."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@murari-gupta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0131"
+  notes: ""
+  themes: [revelation, kirtan, mercy]
+  bhava: [aishvarya]
+  teaching: [bhakti-supremacy]
+  event: ev-advaita-worships-lord-shrivasa
+  verses:
+    - {file: "murari-gupta/ru/2.09.md", from: "17", to: "23"}
+
+- id: mkc-0100
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 1–6"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 114
+  title: "Господь чтит Харидаса; Адвайта уходит домой"
+  summary: "Увидев Харидаса, Господь крепко обнимает его, сажает, умащает сандалом, надевает гирлянду и подаёт махапрасад четырёх видов; Харидас счастливо пребывает в доме Хари и поёт хвалу; затем Господь отпускает его, и уходит и Адвайта."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0132"
+  notes: ""
+  themes: [mercy, prasada, kirtan]
+  teaching: [vaishnava]
+  event: ev-haridasa-arrives
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "1", to: "6"}
+
+- id: mkc-0101
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 7–9"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 115
+  title: "Каупина Нитьянанды, разделённая между преданными"
+  summary: "Провожая уходящего Авадхуту, Господь просит у Него каупину для брахманов, Сам делит ткань и раздаёт лоскуты слугам; те возлагают их на головы и, придя в дом Господа, в разлуке рыдают на земле."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0133"
+  notes: ""
+  themes: [separation, mercy]
+  teaching: [vaishnava]
+  event: ev-nityananda-kaupina
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "7", to: "9"}
+
+- id: mkc-0102
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 10–13"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 116
+  title: "Господь уносит Шривасу и вновь является"
+  summary: "Вечером, танцуя львиной поступью и катаясь по земле, Господь подхватывает Шривасу и уносит его далеко; преданные ищут и не находят Его, и, узнав об их тревоге, Он Сам является перед ними."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0134"
+  notes: ""
+  themes: [revelation, separation, kirtan]
+  divergence: "Плача Шачи (Лочан) у Мурари нет."
+  event: ev-lord-disappears-with-shrivasa
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "10", to: "13"}
+
+- id: mkc-0103
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 14–17"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 116.5
+  title: "Преданные в настроении гопи; Господь похищает их одежды"
+  summary: "Преданные, обретя природу гопи, молят, чтобы Бхагаван стал их возлюбленным; распознав их чувство, Господь, как Кришна, совершает игру похищения одежд: в начале ночи срывает с них одежды и через миг возвращает, и все радостно веселятся."
+  persons: ["@mahaprabhu", "@krishna", "@shiva"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0254; Бхаг. 10.22"
+  notes: "Игра чистой премы, а не мирская забава: Господь отвечает на пробуждённое Им же чувство гопи (сноска перевода). Великий Владыка (шл. 14) — вероятно, Шива, которому, как Катьяяни, молились гопи."
+  themes: [krishna-lila, pranks, ecstasy]
+  bhava: [krishna]
+  teaching: [prema]
+  scriptures: ["Бхаг. 10.22", "Бхаг. 10.22.4"]
+  event: ev-lord-takes-clothes
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "14", to: "17"}
+
+- id: mkc-0104
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 18–23"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 117
+  title: "Преданные пьют воду со стоп Нитьянанды; боги славят Господа"
+  summary: "Снова приходит Авадхута, пляшет и поёт, играя с Гаурой, как Баларама с Кришной среди пастушков; по велению Господа брахманы омывают стопы Авадхуты и пьют эту воду, пляшут и поют, а Он, смеясь, падает на землю; Тридцать богов с неба кланяются Господу и славят Его."
+  persons: ["@mahaprabhu", "@nityananda", "@balarama", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0135"
+  notes: ""
+  themes: [ecstasy, kirtan, celestial]
+  bhava: [krishna]
+  teaching: [vaishnava, associates-tattva]
+  divergence: "Преданные пьют воду со стоп Нитьянанды (у Лочана Даса — возлагают на головы)."
+  event: ev-nityananda-foot-water
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "18", to: "23"}
+
+- id: mkc-0105
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 10, шлоки 24–27"
+  file: "murari-gupta/ru/2.10.md"
+  period: P07
+  order: 118
+  title: "Харидас пляшет подле Господа; Господь чтит Адвайту"
+  summary: "Приходит Харидас с хрустальным самоцветом на груди и в ножных колокольчиках и танцует подле Господа; снова приходит Адвайта, и Господь Сам чтит Его водой для стоп, аргхьей, сандалом и прочим; Ачарья с рыком вкушает величайший прасад и веселится с Хари."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0136"
+  notes: "Шл. 27 — плод слушания."
+  themes: [kirtan, prasada]
+  teaching: [vaishnava]
+  divergence: "Явления Брахмы в Харидасе (Лочан) у Мурари нет."
+  event: ev-haridasa-brahma
+  verses:
+    - {file: "murari-gupta/ru/2.10.md", from: "24", to: "27"}
+
+- id: mkc-0106
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 11, шлоки 1–6"
+  file: "murari-gupta/ru/2.11.md"
+  period: P07
+  order: 123
+  title: "Нищий брахман Ванамали с сыном видит тёмного отрока"
+  summary: "Нищенствующий брахман Ванамали приходит с сыном и пляшет; однажды во время киртана он видит тёмного отрока в жёлтых одеждах, восклицает: «Я видел Господа!» — и, держа сына за руки, со слезами любви пляшет вместе с Господом."
+  persons: ["@mahaprabhu", "@vanamali-vipra", "@krishna"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: "Лочан, lcm-0141"
+  notes: "Видение Вриндавана у Лочана Даса описано подробнее."
+  themes: [revelation, mercy, kirtan]
+  bhava: [krishna]
+  event: ev-vanamali-brahmana-vision
+  verses:
+    - {file: "murari-gupta/ru/2.11.md", from: "1", to: "6"}
+
+- id: mkc-0107
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 11, шлоки 7–12"
+  file: "murari-gupta/ru/2.11.md"
+  period: P07
+  order: 124
+  title: "Бхава Нрисимхи в доме Шривасы"
+  summary: "Шриваса, совершив поминовение предков, слушает Тысячу имён Кришны; услышав имена, Господь в образе Нрисимхи в гневе хватает палицу и бежит, и все разбегаются; придя в Себя, Он спрашивает, не совершил ли проступка, и все отвечают: вспомнивший Его облик Нарасимхи сжигает само семя греха."
+  persons: ["@mahaprabhu", "@srivasa", "@nrisimha"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0142"
+  notes: "Начало сцены — в конце шл. 6."
+  themes: [revelation]
+  bhava: [nrisimha]
+  scriptures: ["Вишну-сахасранама"]
+  event: ev-nrisimha-bhava-shrivasa
+  verses:
+    - {file: "murari-gupta/ru/2.11.md", from: "7", to: "12"}
+
+- id: mkc-0108
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 11, шлоки 13–18"
+  file: "murari-gupta/ru/2.11.md"
+  period: P07
+  order: 125
+  title: "Певец Шивы: Господь в образе Шивы на его плечах"
+  summary: "Некий певец поёт песнь о Шиве; Господь в образе Шивы пускается в пляс и взбирается ему на плечи, как на быка Нандина, — с заплетёнными волосами, трубя в рог и ударяя в дамару, воспевая Раму; Шриваса поёт гимн Шиве, Мукунда — «Шива-махимна-стотру»; затем все поют о Хари."
+  persons: ["@mahaprabhu", "@shiva", "@srivasa", "@mukunda-datta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0143"
+  notes: "Господь являет настроение Шивы — Своего величайшего преданного, воспевающего Раму; это не уравнивает Шиву с Вишну (сноска перевода). Певец не назван."
+  themes: [ecstasy, deities, kirtan]
+  bhava: [shiva]
+  scriptures: ["Шива-махимна-стотра"]
+  event: ev-shiva-singer
+  verses:
+    - {file: "murari-gupta/ru/2.11.md", from: "13", to: "18"}
+
+- id: mkc-0109
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 11, шлоки 19–25; сарга 12, шлоки 1–4"
+  file: "murari-gupta/ru/2.11.md"
+  period: P07
+  order: 126
+  title: "Брахманка берёт пыль со стоп Господа — Он бросается в Гангу"
+  summary: "Когда Господь лежит на земле после пляски, некая брахманка берёт пыль с Его стоп; узнав об этом, Он в горе бросается в Джахнави, но Нитьянанда вытаскивает Его на берег; встревоженные Шриваса, Харидас, Шукламбара и другие обступают Его; затем все идут в дом Мурари и в обитель Виджаи, а на рассвете Господь уходит на северный берег Ганги и по смиренной просьбе брахманов возвращается в дом Шривасы."
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa", "@haridasa-thakura", "@shuklambara", "@murari-gupta", "@vijaya-dasa"]
+  places: ["#navadvipa", "#ganga", "#house-murari", "#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0144"
+  notes: "Господь, играя роль преданного, считает Себя недостойным такой почести (сноска перевода). Виджая — по-видимому, Виджая Дас."
+  themes: [separation, teaching]
+  bhava: [devotee]
+  divergence: "Пыль со стоп берёт брахманка (у Лочана Даса — брахман)."
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "murari-gupta/ru/2.11.md", from: "19", to: "25"}
+    - {file: "murari-gupta/ru/2.12.md", from: "1", to: "4"}
+
+- id: mkc-0110
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 12, шлоки 5–17"
+  file: "murari-gupta/ru/2.12.md"
+  period: P07
+  order: 127
+  title: "«Когда Я покину мать…»; Мурари и шлока Судамы; махапракаша и омовение Господа"
+  summary: "В доме Шривасы Господь говорит, что, когда Он покинет мать и уйдёт в дальние края, все осудят Его; Мурари возражает, и Господь обнимает его; Мурари читает шлоку Судамы «Где я — нищий, и где Кришна…»; Господь являет всецелое состояние, сияет, как тысячелучевое солнце, и говорит: «Это тело — сгусток бытия и сознания»; Шриваса омывает Его водами Ганги и совершает поклонение, Нитьянанда держит зонт, Гададхара подаёт бетель."
+  persons: ["@mahaprabhu", "@murari-gupta", "@srivasa", "@nityananda", "@gadadhara-pandita", "@shachi"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0145"
+  notes: "Первое предвестие санньясы (шл. 7). Название сарги — «Махапракаша-абхишека»."
+  themes: [revelation, sannyasa, kirtan]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva]
+  scriptures: ["Бхаг. 10.81.16"]
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "murari-gupta/ru/2.12.md", from: "5", to: "17"}
+
+- id: mkc-0111
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 13, шлоки 1–5"
+  file: "murari-gupta/ru/2.13.md"
+  period: P07
+  order: 128
+  title: "Господь с преданными чистит храм"
+  summary: "Обучая преданности, Господь с метлой и мотыгой, в тюрбане из новой ткани, идёт с брахманами в храм; великие души во главе с Ачарьей становятся подметальщиками Кришны и вместе с Ним чистят стену у ворот храма."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0146; ср. ЧЧ Мадхья 12 (уборка Гундичи)"
+  notes: "«Ачарья» (шл. 3) — по-видимому, Адвайта."
+  themes: [teaching, deities]
+  bhava: [devotee]
+  teaching: [vaishnava]
+  event: ev-cleaning-temple
+  verses:
+    - {file: "murari-gupta/ru/2.13.md", from: "1", to: "5"}
+
+- id: mkc-0112
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 13, шлоки 6–13"
+  file: "murari-gupta/ru/2.13.md"
+  period: P07
+  order: 129
+  title: "Прокажённый, оскорбивший Шривасу: Господь отказывает ему"
+  summary: "Прокажённый на дороге молит Господа о спасении; Господь гневно отвечает, что за хулу на Шривасу тот сто рождений будет прокажённым: оскорбившего вайшнава Он не спасает — вайшнав Его внутренняя жизнь, а склоняющихся перед вайшнавами Он избавит от грехов даже за вражду к Нему Самому."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0147; ЧЧ Ади 17 (Гопала Чапала)"
+  notes: "Ср. угрозу злодею проказой — 2.6.5."
+  themes: [offense, teaching]
+  teaching: [vaishnava]
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "murari-gupta/ru/2.13.md", from: "6", to: "13"}
+
+- id: mkc-0113
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 13, шлоки 14–17"
+  file: "murari-gupta/ru/2.13.md"
+  period: P07
+  order: 129.5
+  title: "Шриваса просит спасти оскорбивших его — и Джагая с Мадхаем"
+  summary: "В доме Шривасы Господь, смягчённый состраданием, рассказывает о прокажённом; Шриваса просит спасти всякого, кто его оскорбил, а также грешных Джаганнатху и Мадхаву, — и Господь отвечает: «Да будет так»."
+  persons: ["@mahaprabhu", "@srivasa", "@jagai-madhai"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0147, lcm-0139–0140"
+  notes: "Шл. 17 — упоминание Джагая и Мадхая (Джаганнатха и Мадхава): лишь обещание спасти их; сама лила их освобождения (ev-jagai-madhai-deliverance) у Мурари не описана."
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  divergence: "Прокажённый лишь получает обещание спасения по просьбе Шривасы; у Лочана Даса он тут же исцелён и обретает прему; в ЧЧ (Ади 17) Гопала Чапала прощён лишь после санньясы."
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "murari-gupta/ru/2.13.md", from: "14", to: "17"}
+
+- id: mkc-0114
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 13, шлоки 18–23"
+  file: "murari-gupta/ru/2.13.md"
+  period: P07
+  order: 130
+  title: "Проклятие брахмана — благословение санньясы"
+  summary: "Брахман, которого привратник не пустил посмотреть на танец Господа, на другой день на берегу Ганги рвёт священный шнур и проклинает Его: «Ступай вон из мирской жизни!»; Господь радуется: «Проклятие стало благословением — приняв санньясу, Я спасу всех людей»."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0148; ЧЧ Ади 17"
+  notes: "Шл. 23 — плод слушания."
+  themes: [offense, sannyasa, mercy]
+  event: ev-brahmana-curse-sannyasa
+  verses:
+    - {file: "murari-gupta/ru/2.13.md", from: "18", to: "23"}
+
+- id: mkc-0115
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 14, шлоки 1–9"
+  file: "murari-gupta/ru/2.14.md"
+  period: P07
+  order: 131
+  title: "Бхава Баларамы в доме Мурари: «Дайте Мне мёду!»"
+  summary: "Утром, занимаясь с учениками, Господь проникается настроением Баларамы, требует мёду, слышит громовой голос и видит Халаюдху с палицей Саунандой; с брахманами, поющими имя, Он приходит в дом Мурари, просит нектара, пьёт чистую воду и пляшет, как хмельной, а брахманы славят Его как Носящего плуг; одним пальцем Он отшвыривает брахмана со словами «Это борец!» и до вечера играет роль Баладевы."
+  persons: ["@mahaprabhu", "@balarama", "@murari-gupta"]
+  places: ["#navadvipa", "#house-murari"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0149"
+  notes: "Варуни Баларамы — не мирское вино, а образ Его упоения любовью; Сам Господь пьёт лишь чистую воду (шл. 5; сноска перевода)."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  divergence: "Место — дом Мурари (у Лочана Даса — «к Адвайте и Мурари», в изд. 1983 г. — дом Адвайты)."
+  event: ev-balarama-bhava
+  verses:
+    - {file: "murari-gupta/ru/2.14.md", from: "1", to: "9"}
+
+- id: mkc-0116
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 14, шлоки 10–26"
+  file: "murari-gupta/ru/2.14.md"
+  period: P07
+  order: 131.5
+  title: "Видение Халаюдхи; аромат варуни; спутники Баларамы и золотая палица"
+  summary: "На другой день, в жару и забытьи, Господь велит Гададхаре собрать вайшнавов и рассказывает Чандрашекхаре, что видел Халаюдху, подобного белой горе, с золотой Саунандой, — и вновь пляшет в Его наряде; пополудни всё наполняет аромат варуни, Шри Рама видит спутников Баларамы с серьгой в одном ухе, некий Ванамали — золотую палицу на земле; Нитьянанда прижимает Гауру к груди, боги славят Его; ночью — игры в Ганге."
+  persons: ["@mahaprabhu", "@balarama", "@gadadhara-pandita", "@chandrashekhara-acharya", "@srirama-pandita", "@nityananda"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0150"
+  notes: "Ванамали (шл. 20) не отождествлён. Шл. 25–26 — итог и плод слушания."
+  themes: [revelation, ecstasy, celestial]
+  bhava: [balarama]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "murari-gupta/ru/2.14.md", from: "10", to: "26"}
+
+- id: mkc-0117
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 15, шлоки 1–6"
+  file: "murari-gupta/ru/2.15.md"
+  period: P07
+  order: 133
+  title: "«Вараха обнял Меня, Халаюдха вошёл в сердце»; Господь просит Свою флейту"
+  summary: "Господь говорит, что Его обнял Вараха, а Халаюдха вошёл в Его сердце и стал Держащим флейту; смеясь, Он просит у Шривасы Свою флейту, а тот отвечает, что её хранит «дочь Бхишмаки» за запертой дверью внутренних покоев; Господь смеётся и проводит ночь с преданными."
+  persons: ["@mahaprabhu", "@varaha", "@balarama", "@krishna", "@srivasa", "@vishnupriya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0151"
+  notes: "«Дочь Бхишмаки» (Рукмини) — шутливо о Вишнуприи (сноска перевода). Шл. 6 — плод слушания."
+  themes: [revelation, pranks]
+  bhava: [varaha, balarama, krishna]
+  event: ev-flute-request
+  verses:
+    - {file: "murari-gupta/ru/2.15.md", from: "1", to: "6"}
+
+- id: mkc-0118
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 15, шлоки 7–19"
+  file: "murari-gupta/ru/2.15.md"
+  period: P07
+  order: 135
+  title: "Действо в доме Чандрашекхары: Шриваса-Нарада и Гададхара-гопи"
+  summary: "В настроении юных пастушек Господь надевает женский наряд и устраивает пляску во дворе дома Чандрашекхары; Шриваса в роли Нарады напоминает Гададхаре-гопи, как в прошлом рождении апсарой она по слову мудреца омывалась в Ганге в месяцы магха и потому родилась в Гокуле с высшей преданностью; затем он славит преданность — пыль стоп женщин Враджа и спасение Аджамилы силой имени."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya", "@srivasa", "@narada", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0153; ЧБ Мадхья 18"
+  notes: "Рассказ об апсаре — сюжет разыгрываемого действа, лишь игра (шл. 19); вечные спутницы Кришны, и прежде всего Радха, которую являет Гададхара, — не бывшие апсары (сноска перевода). Шл. 19 тёмная."
+  themes: [krishna-lila, ecstasy, teaching]
+  bhava: [gopi]
+  teaching: [prema, holy-name, bhakti-supremacy]
+  scriptures: ["Бхаг. 10.47.63", "Бхаг. 6.1–2"]
+  divergence: "Шриваса-Нарада славит Гададхару как гопи (у Лочана Даса — как Радху, шакти Кришны); в ЧБ (Мадхья 18) Господь в бхаве Рукмини."
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "murari-gupta/ru/2.15.md", from: "7", to: "19"}
+
+- id: mkc-0119
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 16, шлоки 1–8"
+  file: "murari-gupta/ru/2.16.md"
+  period: P07
+  order: 135.2
+  title: "Действо: выход Харидаса, Адвайты, Нитьянанды и Господа в наряде гопи"
+  summary: "Первым с посохом входит Харидас, призывая петь киртану; затем пляшет Адвайта, как разъярённый лев; входит Баладева-Нитьянанда в наряде гопи, держа за руку Владыку Своей жизни; наконец, как золотая гора, входит Сам Господь в наряде гопи — с лифом, браслетами из раковин, в алых одеждах — и пляшет."
+  persons: ["@haridasa-thakura", "@advaita", "@nityananda", "@mahaprabhu"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0153; ЧБ Мадхья 18"
+  notes: "Адвайта назван «рождённым от части Владыки» — это Его не умаляет (сноска перевода)."
+  themes: [krishna-lila, ecstasy, kirtan]
+  bhava: [gopi]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "murari-gupta/ru/2.16.md", from: "1", to: "8"}
+
+- id: mkc-0120
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 16, шлоки 9–23"
+  file: "murari-gupta/ru/2.16.md"
+  period: P07
+  order: 135.4
+  title: "Бхавы Камалы и Богини; Господь поит преданных молоком; бхава Владыки"
+  summary: "Свет тела Господа изгоняет тьму, месяц сияет полным диском; Господь принимает настроение Камалы и с материнской любовью убирает Божество Кришны, брахманы славят Его гимнами Вед; затем в Нём возникает настроение Богини: Она шутит, что преданных Ей назовут почитателями Чанди, обнимает Харидаса, ставшего как пятилетний ребёнок, со слезами сострадания поит преданных молоком; затем вновь пробуждается настроение Владыки, и утром Господь идёт домой."
+  persons: ["@mahaprabhu", "@lakshmi", "@haridasa-thakura", "@murari-gupta"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0154; ЧБ Мадхья 18"
+  notes: "Богиня (Бхагавати) — изначальная энергия Господа, неотличная от Обладателя энергии (сноска перевода); шутка о Чанди — чтобы преданных не приняли за шактов."
+  themes: [revelation, ecstasy, deities]
+  bhava: [shakti, aishvarya]
+  divergence: "Господь поит преданных грудным молоком (как и в ЧБ Мадхья 18); у Лочана Даса — лишь материнская нежность."
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "murari-gupta/ru/2.16.md", from: "9", to: "23"}
+
+- id: mkc-0121
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 17, шлоки 1–4"
+  file: "murari-gupta/ru/2.17.md"
+  period: P07
+  order: 135.6
+  title: "Семь дней сияния в доме Чандрашекхары"
+  summary: "Семь дней в усадьбе Чандрашекхары Ачарьяратны, где плясал Господь, разливается сияние, прохладное, как лунный свет, и слепящее, как молния; приходящие не могут открыть глаз, а вайшнавы, зная причину, молчат перед отвернувшимися от Бога."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya"]
+  places: ["#house-chandrashekhara"]
+  kind: miracle
+  authority: A
+  parallels: "Лочан, lcm-0155"
+  notes: "Чандрашекхара — дядя Господа по матери (сноска перевода)."
+  themes: [revelation]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "murari-gupta/ru/2.17.md", from: "1", to: "4"}
+
+- id: mkc-0122
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 17, шлоки 5–11"
+  file: "murari-gupta/ru/2.17.md"
+  period: P07
+  order: 138
+  title: "Вопрос Шривасы о юга-дхарме: в Кали Хари приходит Сам в образе имени"
+  summary: "Шриваса спрашивает, не меньше ли плод других юг; Господь отвечает: в Сатья плод даёт созерцание, в Трета — жертвоприношение, в Двапара — поклонение, а в Кали, когда люди не способны ни к чему из этого, Сам Хари приходит в образе имени; Шриваса признаёт имя сутью всех целей жизни; так, совершая санкиртану город за городом, Господь избавил млеччхов и других."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0156"
+  notes: "Имя Хари не отлично от Самого Хари (сноска перевода). Шл. 11 — обобщающее упоминание санкиртаны по городам и избавления млеччхов."
+  themes: [teaching, kirtan]
+  teaching: [yuga-dharma, holy-name]
+  event: ev-shrivasa-yuga-dharma-question
+  verses:
+    - {file: "murari-gupta/ru/2.17.md", from: "5", to: "11"}
+
+- id: mkc-0123
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 17, шлоки 12–19"
+  file: "murari-gupta/ru/2.17.md"
+  period: P07
+  order: 139
+  title: "Господь рвётся в Матхуру; Мурари удерживает Его"
+  summary: "В слезах Господь говорит, что не может оставаться и идёт в Матхуру, и в муке разлуки с Кришной рвёт священный шнур; Мурари убеждает: по обычаю благородных Ему не следует уходить — если Владыка станет поступать по Своей воле, так поступят и все и падут, а без Него люди останутся «без Чайтаньи»; Господь, потрясённый любовью, умолкает."
+  persons: ["@mahaprabhu", "@murari-gupta", "@nityananda", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#mathura"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0157"
+  notes: "Разрыв шнура предвещает уход из дома и санньясу (сноска перевода). Шл. 14 не вполне ясна."
+  themes: [separation, sannyasa, ecstasy]
+  bhava: [devotee]
+  event: ev-longing-vrindavana-murari
+  verses:
+    - {file: "murari-gupta/ru/2.17.md", from: "12", to: "19"}
+
+- id: mkc-0124
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 18, шлоки 1–6"
+  file: "murari-gupta/ru/2.18.md"
+  period: P07
+  order: 140
+  title: "Сон о мантре санньясы; толкование Мурари"
+  summary: "Через несколько дней Господь рассказывает: во сне брахман произнёс Ему на ухо мантру санньясы, и с тех пор Он плачет — как оставить милого Хари? Мурари советует понимать мантру через родительный падеж («я — Его»), но Господь отвечает, что ум всё равно томится, и плачет; все печалятся, как девы Враджа перед уходом Кришны в Матхуру."
+  persons: ["@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0158, lcm-0177"
+  notes: "Не «я есть Он», а «я — Его», то есть слуга Господа (сноска перевода)."
+  themes: [sannyasa, separation]
+  bhava: [devotee]
+  teaching: [sannyasa-teaching, vedanta]
+  event: ev-sannyasa-mantra-dream
+  verses:
+    - {file: "murari-gupta/ru/2.18.md", from: "1", to: "6"}
+
+- id: mkc-0125
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 18, шлоки 7–16"
+  file: "murari-gupta/ru/2.18.md"
+  period: P07
+  order: 141
+  title: "Кешава Бхарати в Навадвипе; решение принять санньясу"
+  summary: "Через несколько дней приходит Кешава Бхарати; Господь кланяется ему, омытый слезами любви; Бхарати называет Его Шукой или Прахладой, а потом — Самим Кришной; огорчённый хвалой, Господь плачет, кланяется и уходит домой, решив принять санньясу."
+  persons: ["@mahaprabhu", "@keshava-bharati"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0159"
+  notes: ""
+  themes: [sannyasa, ecstasy]
+  bhava: [devotee]
+  event: ev-keshava-bharati-navadvipa
+  verses:
+    - {file: "murari-gupta/ru/2.18.md", from: "7", to: "16"}
+
+- id: mkc-0126
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 18, шлоки 17–24"
+  file: "murari-gupta/ru/2.18.md"
+  period: P07
+  order: 142
+  title: "Мукунда открывает решение Господа; «Я всегда в твоём святилище»"
+  summary: "Мукунда говорит вайшнавам, что Господь скоро уйдёт, и все печалятся; Господь говорит Шривасе: как купцы привозят богатство из дальних краёв для родных, так Он принесёт оттуда неиссякаемый поток любви; на вопрос, как жить в разлуке, отвечает: «Я Сам всегда пребываю в твоём святилище»."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@srivasa"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0160, lcm-0169"
+  notes: "«Садху» (шл. 20) — купец заморской торговли (сноска перевода)."
+  themes: [separation, sannyasa]
+  teaching: [sannyasa-teaching]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "murari-gupta/ru/2.18.md", from: "17", to: "24"}
+
+- id: mkc-0127
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 18, шлоки 25–30"
+  file: "murari-gupta/ru/2.18.md"
+  period: P07
+  order: 152
+  title: "Тайное наставление Мурари: служить Адвайте"
+  summary: "Вечером Господь с Харидасом приходит в дом Мурари; тот припадает к Его стопам и подносит сиденье; Господь даёт ему тайное наставление: Адвайта Ачарья поистине велик, средоточие добродетелей, — служи Ему усердно и с почтением."
+  persons: ["@mahaprabhu", "@murari-gupta", "@haridasa-thakura", "@advaita"]
+  places: ["#house-murari"]
+  kind: teaching
+  authority: A
+  parallels: "Лочан, lcm-0170"
+  notes: "«Часть Владыки» (шл. 29) не умаляет Адвайту — Он Сам Маха-Вишну (сноска перевода)."
+  themes: [teaching, separation]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-murari-serve-advaita
+  verses:
+    - {file: "murari-gupta/ru/2.18.md", from: "25", to: "30"}
+
+- id: mkc-0128
+  source: murari-kcc
+  ref: "Пракрама 2, сарга 18, шлоки 31–33"
+  file: "murari-gupta/ru/2.18.md"
+  period: P08
+  order: 40
+  title: "Санньяса в Кантаке (Катве) от Кешавы Бхарати"
+  summary: "На другой день Кришна приходит в селение Кантаку и принимает санньясу, сделав Своим гуру Кешаву Бхарати и тем исполнив его жизнь."
+  persons: ["@mahaprabhu", "@keshava-bharati"]
+  places: ["#katwa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, lcm-0175–0177"
+  notes: "Краткое упоминание, завершающее пракраму 2; уход из Навадвипы и путь в Катву здесь не описаны, санньяса подробно — в пракраме 3 (3.1–3.3). «На другой день» — после наставления Мурари (2.18.25–30). Шл. 33 — плод слушания."
+  themes: [sannyasa]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "murari-gupta/ru/2.18.md", from: "31", to: "33"}
