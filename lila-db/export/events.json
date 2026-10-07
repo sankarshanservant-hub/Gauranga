@@ -6559,6 +6559,7 @@
    "jcm-0063",
    "lcm-0175",
    "mkc-0128",
+   "pad-0050",
    "lcm-0176",
    "lcm-0177",
    "lcm-0178",
@@ -6580,7 +6581,8 @@
    "govinda-karcha",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -7504,13 +7506,15 @@
    "apr-0089",
    "ccd-0051",
    "lcm-0215",
-   "mkc-0168"
+   "mkc-0168",
+   "pad-0052"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -9909,11 +9913,13 @@
   "entries": [
    "jcm-0093",
    "mkc-0247",
+   "pad-0051",
    "mkc-0251"
   ],
   "sources": [
    "jayananda-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -11888,7 +11894,11 @@
    "pad-0038",
    "pad-0039",
    "pad-0040",
-   "pad-0041"
+   "pad-0041",
+   "pad-0055",
+   "pad-0056",
+   "pad-0057",
+   "pad-0058"
   ],
   "sources": [
    "advaita-prakasha",
@@ -15769,7 +15779,13 @@
   "entries": [
    "pad-0005",
    "pad-0006",
-   "pad-0008"
+   "pad-0008",
+   "pad-0042",
+   "pad-0043",
+   "pad-0044",
+   "pad-0045",
+   "pad-0046",
+   "pad-0047"
   ],
   "sources": [
    "padas"
@@ -15967,6 +15983,36 @@
   ],
   "entries": [
    "pad-0021"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-navadvipa-awaits-lord-return",
+  "title": "Навадвипа ждёт возвращения Господа из Нилачалы",
+  "title_en": "Navadvipa awaits the Lord's return from Nilachala",
+  "period": "P12",
+  "order": 290,
+  "years": [
+   1510,
+   1514
+  ],
+  "date_conf": "оценка",
+  "date_basis": "По содержанию пад: годы, когда Господь жил в Пури, до Его прихода в Навадвипу (Кулию) в 1514 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Собирательное событие для пад современников о тоске Навадвипы по Господу в годы Пури: мечты о Его возвращении и киртане, сон о Его приходе (Нарахари, ПК 1970, 1707).",
+  "age": [
+   24,
+   28
+  ],
+  "entries": [
+   "pad-0053",
+   "pad-0054"
   ],
   "sources": [
    "padas"

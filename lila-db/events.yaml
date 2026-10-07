@@ -5238,6 +5238,19 @@
   themes: [separation, deities]
   notes: "Господь в Каттаке убеждает Гададхару вернуться к служению Гопинатхе."
 
+- id: ev-navadvipa-awaits-lord-return
+  title: "Навадвипа ждёт возвращения Господа из Нилачалы"
+  title_en: "Navadvipa awaits the Lord's return from Nilachala"
+  period: P12
+  order: 290
+  years: [1510, 1514]
+  date_conf: оценка
+  date_basis: "По содержанию пад: годы, когда Господь жил в Пури, до Его прихода в Навадвипу (Кулию) в 1514 г."
+  cc: ""
+  cb: ""
+  themes: [separation]
+  notes: "Собирательное событие для пад современников о тоске Навадвипы по Господу в годы Пури: мечты о Его возвращении и киртане, сон о Его приходе (Нарахари, ПК 1970, 1707)."
+
 - id: ev-shachi-dream-nimai
   title: "Сон Шачи: Нимай приходит из Нилачалы домой"
   title_en: "Shachi's dream: Nimai comes home from Nilachala"

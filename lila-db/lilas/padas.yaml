@@ -910,3 +910,392 @@
   event: ev-gambhira-divine-madness
   verses:
     - {file: "padas/ru/02.md", from: "15.1", to: "15.4"}
+
+- id: pad-0042
+  source: padas
+  ref: "Нарахари (Саркар), ПК 2122 = БР с. 924 «গৌরাঙ্গ ঠেকিল পাকে»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.41
+  title: "Ганга кажется Ямуной, сад — Вриндаваном: Господь обнимает Гададхару"
+  summary: "Охваченный бхавой, Гауранга зовёт «Радха, Радха!»; Ганга кажется Ему Ямуной, цветущий сад — Вриндаваном; трижды изогнувшись, Он просит жёлтые одежды и флейту, обнимает Гададхару: «Где ты был?», а Пандит, поняв Его бхаву, встаёт слева."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@gadadhara-pandita", "@radha", "@krishna"]
+  places: ["#navadvipa", "#ganga", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "БР тар. 12 (с. 924); КГЧ 27.1; ср. ЧЧ Антья 18 (море — Ямуна); Мурари Гупта ПК 2121 (порция 01, п. 6)"
+  notes: "Единственная пада с подписью «Нарахари» в БР, прямо приписанная Нарахари Чакраварти Саркару."
+  themes: [ecstasy, krishna-lila]
+  bhava: [krishna]
+  date_conf: оценка
+  date_basis: "Маджумдар: пада очевидца навадвипских бхав (1509), засвидетельствованная БР и КГЧ"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "1.1", to: "1.5"}
+
+- id: pad-0043
+  source: padas
+  ref: "Нарахари (Саркар), ПК 103 «মো মেন মনু গোরাচান্দেরে দেখিয়া»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.42
+  title: "Горожанка видит Гауру на пути к Ганге (пурварага)"
+  summary: "Юная горожанка рассказывает, как увидела Горачанду: Он то быстро идёт, хлопая себя по плечам, то неспешно ступает к Ганге, мечет стрелы взоров; юные женщины готовы отдать Ему юность; поэт, не постигая, забывается."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Гаура-чандрика к пурвараге; выражения нагари-бхавы (сноска: традиция не принимает поклонения в духе «гаура-нагари»). Начало строки тёмное."
+  themes: [ecstasy]
+  date_conf: оценка
+  date_basis: "Маджумдар: навадвипская гаура-чандрика Нарахари Саркара в ПК (пурварага 103) — описание реальной бхавы"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "2.1", to: "2.5"}
+
+- id: pad-0044
+  source: padas
+  ref: "Нарахари (Саркар), ПК 307 «কি লাগিয়া মোর গৌর-সুন্দর»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.43
+  title: "Господь в бхаве Радхи-васакасаджджи наряжается и ждёт Кришну"
+  summary: "Гаура сидит в доме, надевает одежды и украшения, вздрагивает, увидев свою тень: «Отчего Он до сих пор не пришёл?»; погружённый в думы о состоянии Раи, со слезами смотрит на дорогу."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Маджумдар: украшения Господа в навадвипских падах — не вымысел (ср. ПК 2241)."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: навадвипская гаура-чандрика Нарахари Саркара (васакасаджджа 307)"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "3.1", to: "3.3"}
+
+- id: pad-0045
+  source: padas
+  ref: "Нарахари (Саркар), ПК 316 «হেম দরপণি গৌরাঙ্গ-লাবণি»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.44
+  title: "Господь в бхаве Радхи-випралабдхи катается в пыли и зовёт Владыку жизни"
+  summary: "Оставив сиденье и одежды, Гауранга плачет, как красавица Враджа, зовёт «Владыка жизни!», поднимаясь с земли, и спрашивает спутников, кому поведать боль; поэт: под иным предлогом Господь спасает всех, а Сам всегда упоён любовью Радхи."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 4 (внешняя и внутренняя причины явления)"
+  notes: "В ПК пада только в рук. «кх»."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: навадвипская гаура-чандрика Нарахари Саркара (випраламбха 316)"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "4.1", to: "4.4"}
+
+- id: pad-0046
+  source: padas
+  ref: "Нарахари (Саркар), ПК 408 «আরে মোর আরে মোর গৌরাঙ্গ রায়»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.45
+  title: "Господь в бхаве Радхи-кхандиты: «Знаю Твою лживую любовь»"
+  summary: "Полный прежней любви, Гауранга идёт медленно, с покрасневшими глазами, и в гневе упрекает Кришну: «С кем провёл ночь — той и кланяйся»; в волнах бхавы Он — словно после бессонной ночи."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: "Мана Радхи — проявление высшей премы (сноска)."
+  themes: [ecstasy]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: навадвипская гаура-чандрика Нарахари Саркара (кхандита 408)"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "5.1", to: "5.5"}
+
+- id: pad-0047
+  source: padas
+  ref: "Нарахари (Саркар), ПК 421 «গোরা পহুঁ বিরলে বসিয়া»"
+  file: "padas/ru/03.md"
+  period: P07
+  order: 134.46
+  title: "Господь в бхаве Радхи-кхандиты после бессонной ночи: «Обнадёжив, обманул»"
+  summary: "Гора сидит в уединении, опустив лицо, с глазами, слипающимися после бессонной ночи, и плачет: «Обнадёжив, Ты обманул Меня на всю ночь — не вынести этой муки»; поэт просит милости."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: ""
+  notes: ""
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: навадвипская гаура-чандрика Нарахари Саркара (кхандита 421)"
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "padas/ru/03.md", from: "6.1", to: "6.5"}
+
+- id: pad-0048
+  source: padas
+  ref: "Ананта Дас, ПК 2208 «আপাদ-মস্তক প্রেম-ধারা বরিখত»"
+  file: "padas/ru/03.md"
+  period: PX
+  order: 7.2
+  title: "Хвала Гауранге: от Его достоинств тают дерево и камень"
+  summary: "С головы до ног Гауранга проливает прему; поэт дивится Творцу, чьё сердце не растаяло, когда он изваял такое тело; от достоинств Гауранги тают камни, плачут звери и птицы; поэт просит лишь петь о Нём из края в край."
+  persons: ["@ananta-dasa", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: B
+  parallels: ""
+  notes: "Образ Творца — поэтическая условность; тело Господа сач-чид-ананда («Брахма-самхита» 5.1) — сноска."
+  themes: [author, ecstasy]
+  date_conf: оценка
+  date_basis: "Маджумдар: Ананта Дас — современник, поэт ветви Адвайты; пада о бхаве Гауранги"
+  verses:
+    - {file: "padas/ru/03.md", from: "7.1", to: "7.4"}
+
+- id: pad-0049
+  source: padas
+  ref: "Ананта Дас, ПК 2336 «দেখ দেখ অপরূপ গৌরাঙ্গ নিতাই»"
+  file: "padas/ru/03.md"
+  period: PX
+  order: 7.3
+  title: "Гауранга и Нитай — два брата, очищающие падших"
+  summary: "По счастью всех живых существ Гауранга и Нитай странствуют по земле, упрашивая, раздают прему высшим и низшим, плачут, видя падших; кто не служит Им, тот, будь он санньяси или брахман, причислен к асурам."
+  persons: ["@ananta-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: B
+  parallels: "ЧБ Мадхья 13; ЧЧ Ади 7"
+  notes: ""
+  themes: [author, mercy]
+  teaching: [prema, holy-name]
+  date_conf: оценка
+  date_basis: "Маджумдар: «звучит как слово современника»"
+  verses:
+    - {file: "padas/ru/03.md", from: "8.1", to: "8.4"}
+
+- id: pad-0050
+  source: padas
+  ref: "Ананта Ачарья, ПК 2285 «জয় শচীনন্দন জগ-জীবন সার»"
+  file: "padas/ru/03.md"
+  period: P08
+  order: 40.1
+  title: "От Навадвипы до Нилачалы: санньяса у Кешавы Бхарати"
+  summary: "Владыка Голоки нисходит в Навадвипу и учит санкиртане; надев каупину и шафрановые одежды, взяв посох и камандалу, оставляет надежды Вишнуприи; Сам дав Бхарати мантру, принимает её от него; хулители поклоняются Ему как Нараяне; в Уткале являет шестирукий облик и поселяется в Нилачале."
+  persons: ["@ananta-acharya", "@mahaprabhu", "@keshava-bharati", "@vishnupriya"]
+  places: ["#navadvipa", "#katwa", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Мадхья 28 (мантра на ухо Бхарати); ЧЧ Ади 17; Мурари 3.2; ЧБ Антья 3 (шестирукий облик)"
+  notes: "Пада-обзор от явления до Нилачалы; главная подробность — Господь Сам «дал мантру» Бхарати."
+  themes: [sannyasa, revelation]
+  bhava: [sannyasi]
+  years: [1510, 1510]
+  date_conf: оценка
+  date_basis: "Маджумдар: вероятно, пада Ананты Ачарьи, жившего в Навадвипе; события 1510 г."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "padas/ru/03.md", from: "9.1", to: "9.5"}
+
+- id: pad-0051
+  source: padas
+  ref: "Гауридас Пандит, ПК 2313 «পহু মোর নিত্যানন্দ রায়»"
+  file: "padas/ru/03.md"
+  period: P12
+  order: 110.1
+  title: "Рынок святого имени: Нитьянанда — царь (хат-паттан)"
+  summary: "Нитьянанда, «старший брат Чайтаньи», устроил на берегу Ганги рынок святого имени и стал его царём; Рамаи проводит указы, Харидас — котвал, Кришнадас — весовщик, Шриваса — писарь; Вишвамбхара и Гададхара торгуют во дворе Ачарьи; Гауридас сидит возле царя."
+  persons: ["@gauridasa-pandita", "@nityananda", "@mahaprabhu", "@haridasa-thakura", "@srivasa", "@gadadhara-pandita", "@advaita"]
+  places: ["#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 15; Мурари 4.21–4.22 (Нитьянанда послан в Гауду)"
+  notes: "Аллегорическая картина проповеди Нитьянанды; по Маджумдару — первая пада жанра «хат-паттан». Рамаи — Шри Рама Пандит или Абхирама; Кришнадас — видимо, брат Гауридаса."
+  themes: [mercy, kirtan]
+  teaching: [holy-name, associates-tattva]
+  date_conf: оценка
+  date_basis: "Маджумдар: после санньясы (Нитьянанда назван «старшим братом Чайтаньи»)"
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "padas/ru/03.md", from: "10.1", to: "10.4"}
+
+- id: pad-0052
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 402 (№ 2) «অচৈতন্য শ্রীচৈতন্য সার্ব্বভৌম-ঘরে»"
+  file: "padas/ru/03.md"
+  period: P10
+  order: 30.1
+  title: "Сарвабхаума видит в бесчувственном Господе аватар и шестирукий облик"
+  summary: "Господь лежит без чувств в доме Сарвабхаумы, Гопинатха растирает Ему стопы; Сарвабхаума видит Его как Нрисимху, Вамана, Матсью, Курму, Вараху, Парашураму, Раму и Кришну; Господь встаёт в шестирукой форме — внутри Кану, снаружи Гаура, — и Сарвабхаума падает ниц."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@nrisimha", "@varaha", "@rama", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 6; ЧБ Антья 3; Мурари 3.11–3.12"
+  notes: "Только ГПТ: по критерию Маджумдара атрибуция Васу Гхошу ненадёжна. «Антах кришнам бахир гаурам»."
+  themes: [revelation, mercy]
+  bhava: [aishvarya]
+  years: [1510, 1510]
+  date_conf: оценка
+  date_basis: "По содержанию: первое пребывание в Пури (ЧЧ Мадхья 6); Маджумдар паду не разбирает"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "padas/ru/03.md", from: "11.1", to: "11.8"}
+
+- id: pad-0053
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1970 «আওব গৌর পুনহি নদিয়াপুর»"
+  file: "padas/ru/03.md"
+  period: P12
+  order: 290.1
+  title: "Преданные Навадвипы мечтают о возвращении Гауры"
+  summary: "Преданные Навадвипы мечтают: Гаура снова придёт в Надию, они увидят Его лунный лик, золотое сияние и священный шнур, Его танец с воздетыми руками среди преданных; сказав так, все замирают, закрыв глаза."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16 (приход Господа в Навадвипу в 1514 г.)"
+  notes: "Гаура-чандрика к «Бхаволласе»; шнур — память о прежнем облике Господа."
+  themes: [separation, kirtan]
+  date_conf: оценка
+  date_basis: "По содержанию: годы Господа в Пури; Маджумдар паду не разбирает"
+  event: ev-navadvipa-awaits-lord-return
+  verses:
+    - {file: "padas/ru/03.md", from: "12.1", to: "12.4"}
+
+- id: pad-0054
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1707 «লোচনে ঝরঝর আনন্দ-লোর»"
+  file: "padas/ru/03.md"
+  period: P12
+  order: 290.2
+  title: "Сон о возвращении Гауры в Навадвипу"
+  summary: "Поэт видит во сне, как после долгой разлуки Гаура пришёл в Навадвипу и гуляет среди преданных, и скорбь жителей Надии уходит; проснувшись и не видя Его, плачет, катаясь в пыли."
+  persons: ["@narahari-sarakara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: B
+  parallels: "Сон Шачи (Васу Гхош, БР; порция 01, п. 22); ЧЧ Мадхья 16"
+  notes: "Гаура-чандрика к «Свапна-расодгаре»."
+  themes: [separation, celestial]
+  date_conf: оценка
+  date_basis: "По содержанию: годы разлуки до прихода Господа в Навадвипу; Маджумдар паду не разбирает"
+  event: ev-navadvipa-awaits-lord-return
+  verses:
+    - {file: "padas/ru/03.md", from: "13.1", to: "13.5"}
+
+- id: pad-0055
+  source: padas
+  ref: "Васу Гхош, ГПТ1 с. 310 (№ 8) «স্বরূপের করে ধরি গোরারায়»"
+  file: "padas/ru/03.md"
+  period: P14
+  order: 100.96
+  title: "Держа Сварупу за руку, Господь в бхаве Радхи бранит Шьяму"
+  summary: "Гора Рай, держа Сварупу за руку, бранит Шьяму: обманщик погубил Её род и честь, а под конец бросил Её ради другой; поэт: Тот, о Ком Ты плачешь, Господи, — Ты Сам."
+  persons: ["@vasu-ghosha", "@mahaprabhu", "@svarupa-damodara", "@krishna", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14–19; ЧЧ Ади 4"
+  notes: "Только ГПТ: атрибуция Васу Гхошу ненадёжна (Маджумдар). Мана Радхи — язык высшей премы (сноска)."
+  themes: [ecstasy]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "По содержанию (присутствие Сварупы Дамодары) — Пури"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/03.md", from: "14.1", to: "14.6"}
+
+- id: pad-0056
+  source: padas
+  ref: "Нарахари (Саркар), ПК 849 «কনক-চম্পক গোরাচান্দে»"
+  file: "padas/ru/03.md"
+  period: P14
+  order: 100.97
+  title: "Господь в бхаве Радхи упрекает Творца"
+  summary: "Горачанда плачет на земле, встаёт с возгласом «Хари!»: «Кто свёл Меня с ума?», воздев руки, бранит Творца: «Зачем он устроил такой союз?»; поэт ходит и расспрашивает, с каким чувством Он это говорит."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: ""
+  notes: "Гаура-чандрика к «упрёкам Творцу» (акшепанурага); место не названо, в ГПТ — среди пурийских пад, за ПК 840."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "По месту в ГПТ (за ПК 840) — Пури; Маджумдар отдельно паду не разбирает"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/03.md", from: "15.1", to: "15.5"}
+
+- id: pad-0057
+  source: padas
+  ref: "Нарахари (Саркар), ПК 1746 «আরে মোর গৌর কিশোর। নাহি জানে দিবানিশি»"
+  file: "padas/ru/03.md"
+  period: P14
+  order: 100.98
+  title: "Смех без причины: Господь в разлуке ищет Владыку жизни"
+  summary: "Не различая дня и ночи, Гаура смеётся без причины, громко поёт, спрашивая: «Где Мой Владыка жизни?», дрожит, прыгает, пляшет с воздетыми руками, бессвязно говорит, плачет с закрытыми глазами; поэт: таким Он стал из любви Радхи."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 14–20"
+  notes: "В ПК — гаура-чандрика к «зимней разлуке»."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "Маджумдар: вираха-пада Нарахари Саркара («смех без причины»); бхава последних лет в Пури"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/03.md", from: "16.1", to: "16.4"}
+
+- id: pad-0058
+  source: padas
+  ref: "Без подписи (ГПТ — Васу Гхош; рук. П-Р-Са — Говинда Дас), ПК 1663 «চেতন পাইয়া গোরা রায়»"
+  file: "padas/ru/03.md"
+  period: P14
+  order: 100.99
+  title: "Придя в себя у моря: «Где Мой Кришна с флейтой?»"
+  summary: "Придя в чувство, Гора озирается, видит Сварупу и Рамарая и восклицает: «Где Мой Кришна с флейтой? Я только что видел Его! О Владыка, яви Себя!»; преданные плачут."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 14 (Чатака-парвата), 17–18"
+  notes: "Продолжение ПК 1662 (pad-0041); атрибуция спорная: в ПК без подписи, в П-Р-Са — Говинда Дас, в ГПТ — Васу Гхош."
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  date_conf: оценка
+  date_basis: "По связи с ПК 1662 (Маджумдар: бег к морю в Пури, свидетельство очевидца)"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "padas/ru/03.md", from: "17.1", to: "17.5"}
+
+- id: pad-0059
+  source: padas
+  ref: "Нарахари, ПК 2293 «গৌরাঙ্গ কে জানে মহিমা তোমার»"
+  file: "padas/ru/03.md"
+  period: PX
+  order: 7.4
+  title: "Хвала Гауранге: из океана Шьямы явился сладостный Гауранга"
+  summary: "Кто знает величие Гауранги, явившегося спасти век Кали? Словно из пахтания океана Шьямы явился сладостный Гауранга, и три мира залил ливень премы, в котором тонут смиренные и убогие."
+  persons: ["@narahari-sarakara", "@mahaprabhu", "@krishna"]
+  places: []
+  kind: author
+  authority: C
+  parallels: "ЧЧ Ади 4"
+  notes: "Атрибуция Саркару не установлена (возможно, Нарахари Чакраварти); в каталоге этапа 1 к ПК 2293 была ошибочно привязана пада Вайшнава Даса."
+  themes: [author, mercy]
+  teaching: [gaura-tattva]
+  verses:
+    - {file: "padas/ru/03.md", from: "18.1", to: "18.3"}
