@@ -42,7 +42,7 @@ def bn2lat(s):
     from indic_transliteration import sanscript
     s = s.replace('\u09df', '\u09af\u09bc').replace('\u09dc', '\u09a1\u09bc').replace('\u09dd', '\u09a2\u09bc').replace('ৎ', 'ত্')
     d = ''.join(chr(ord(c) - 0x80) if '\u0980' <= c <= '\u09ff' else c for c in s)
-    return sanscript.transliterate(d, 'devanagari', 'iast').replace('r̤', 'ṛ').replace('||', '॥').replace('|', '।')
+    return sanscript.transliterate(d, 'devanagari', 'iast').replace('r̤', 'ṛ').replace('॥', '||').replace('।', '|')
 
 
 def load_bn(key):
@@ -68,7 +68,7 @@ def load_bn(key):
 def with_bn(text, recs, lang):
     out, i = [], 0
     for para in re.split(r'\n\s*\n', text):
-        m = re.match(r'^\*\*(\d+[a-zа-я]?)\.\*\*', para.strip())
+        m = re.match(r'^\*\*(\d+[a-zа-я]?(?:\+\d+)?)\.\*\*', para.strip())
         if m and i < len(recs) and recs[i]['n'] == m.group(1):
             r = recs[i]; i += 1
             if r['bn']:
