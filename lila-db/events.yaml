@@ -1411,11 +1411,11 @@
   years: [1510, 1510]
   age: [23, 24]
   date_conf: вероятно
-  date_basis: "санньяса — в конце 24-го года жизни, в месяце магха 1510 г. (Шака 1431; ЧЧ Ади 17, Мадхья 1)"
+  date_basis: "Мурари 3.2.10: в миг перехода Солнца из Козерога в Водолей (конец солнечного магха); санньяса — в конце 24-го года жизни, в месяце магха 1510 г. (Шака 1431; ЧЧ Ади 17, Мадхья 1)"
   cc: "Ади 17"
   cb: "Мадхья 28"
   themes: [sannyasa, ecstasy, separation]
-  notes: "Мурари 2.18.31–32, 3.1.10–3.3.1."
+  notes: "Мурари 2.18.31–33, 3.1.10–3.3.1."
 
 - id: ev-radha-desha-wandering
   title: "Три дня в Радха-деше"
@@ -1489,6 +1489,16 @@
   themes: [separation, teaching, kirtan]
   notes: "Мурари 3.4.23–33 (вместе с узлом премы Адвайты)."
 
+- id: ev-gopinatha-acharya-sees-lords-body
+  title: "Гопинатха Ачарья созерцает тело Господа"
+  title_en: "Gopinatha Acharya beholds the Lord's body"
+  period: P09
+  order: 60
+  cc: ""
+  cb: ""
+  themes: [revelation, separation]
+  notes: "Мурари 3.4.34–38: при уходе из Шантипура Господь по просьбе Гопинатхи Ачарьи открывает ему Своё золотое тело."
+
 - id: ev-journey-to-puri
   title: "Путь в Нилачалу"
   title_en: "The journey to Nilachala"
@@ -1537,7 +1547,7 @@
   cc: ""
   cb: ""
   themes: [pilgrimage, deities]
-  notes: "Мурари 3.6.12–21."
+  notes: "Мурари 3.6.12–21, 3.7.17–21."
 
 - id: ev-toll-collector-binds-mukunda
   title: "Сборщик пошлины связывает Мукунду"
@@ -1577,7 +1587,7 @@
   cc: "Мадхья 6"
   cb: "Антья 3"
   themes: [jagannatha, prasada, learning]
-  notes: "Мурари 3.11."
+  notes: "Мурари 3.11.1–15, 20–22."
 
 - id: ev-first-darshan-jagannatha
   title: "Первый даршан Джаганнатхи"
@@ -1589,7 +1599,7 @@
   cc: "Мадхья 6"
   cb: "Антья 2"
   themes: [jagannatha, ecstasy]
-  notes: "Мурари 3.11."
+  notes: "Мурари 3.11.16–19 (ср. 3.10.12–19)."
 
 - id: ev-jagannatha-embraces-gaura
   title: "Джаганнатха сходит с трона и обнимает Господа"
@@ -1609,7 +1619,7 @@
   cc: ""
   cb: ""
   themes: [jagannatha, ecstasy, revelation]
-  notes: "Мурари 3.12.1."
+  notes: "Мурари 3.12.1–6 (у Мурари Джаганнатха — цвета тучи, без перемены цвета)."
 
 - id: ev-sarvabhauma-deliverance
   title: "Освобождение Сарвабхаумы"
@@ -1621,6 +1631,26 @@
   themes: [mercy, revelation, learning]
   notes: "Мурари 3.12."
 
+- id: ev-departure-for-south
+  title: "Господь отправляется на юг: прощание с Джаганнатхой и преданными Пури"
+  title_en: "The Lord sets out for the South: farewell to Jagannatha and the devotees of Puri"
+  period: P11
+  order: 5
+  cc: "Мадхья 7"
+  cb: ""
+  themes: [pilgrimage, separation, jagannatha]
+  notes: "Мурари 3.13–3.14.1: гирлянда Джаганнатхи; утешение Каши Мишры и Сарвабхаумы."
+
+- id: ev-alalanatha-prema-chain
+  title: "Алаланатха: према передаётся от объятия к объятию"
+  title_en: "Alalanatha: prema passes on from embrace to embrace"
+  period: P11
+  order: 7
+  cc: "Мадхья 7"
+  cb: ""
+  themes: [ecstasy, mercy, kirtan]
+  notes: "Мурари 3.14.2–12; песнь «Кришна, Кришна… ракша мам» (ЧЧ Мадхья 7.96)."
+
 - id: ev-kurma-vasudeva
   title: "Курма-кшетра: брахманы Курма и Васудева"
   title_en: "Kurma-kshetra: the brahmanas Kurma and Vasudeva"
@@ -1629,7 +1659,7 @@
   cc: "Мадхья 7"
   cb: ""
   themes: [mercy, pilgrimage, teaching]
-  notes: "Мурари 3.13–3.14.20."
+  notes: "Мурари 3.14.13–20."
 
 - id: ev-jiyada-nrisimha
   title: "У Джияда-Нрисимхи (Симхачалам)"
@@ -1661,16 +1691,29 @@
   themes: [pilgrimage, ecstasy]
   notes: "Мурари 3.15.6."
 
+- id: ev-gita-reading-brahmana
+  title: "Брахман, читающий Гиту со слезами любви"
+  title_en: "The brahmana who reads the Gita with tears of love"
+  period: P11
+  order: 45
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [mercy, teaching, deities]
+  notes: "Мурари 3.15.7–8 (у Ранганатхи)."
+
 - id: ev-srirangam-chaturmasya
   title: "Шрирангам: чатурмасья у Бхатт"
   title_en: "Srirangam: the chaturmasya with the Bhattas"
   period: P11
   order: 50
-  calendar: "чатурмасья"
+  calendar: "чатурмасья (пора дождей)"
+  years: [1510, 1510]
+  date_conf: вероятно
+  date_basis: "Мурари 3.15.12, 17: пора дождей в Ранга-кшетре; год — первая чатурмасья после санньясы (по ЧЧ Мадхья 9)"
   cc: "Мадхья 9"
   cb: ""
   themes: [deities, festival, pilgrimage]
-  notes: "Мурари 3.15.7–18."
+  notes: "Мурари 3.15.9–18 (Ранганатха и брахман с Гитой — 3.15.7–8, ev-gita-reading-brahmana)."
 
 - id: ev-paramananda-puri-meeting
   title: "Встреча с Парамананда Пури"
@@ -1710,7 +1753,7 @@
   cc: "Мадхья 9"
   cb: ""
   themes: [pilgrimage, jagannatha]
-  notes: "Мурари 3.16.8–13."
+  notes: "Мурари 3.16.8–18 (ночь с Раманандой, Алаланатха, даршан у столпа Гаруды)."
 
 - id: ev-devotees-gather-nilachala
   title: "Преданные из разных краёв собираются к Господу в Нилачале"
@@ -1720,7 +1763,130 @@
   cc: "Мадхья 10"
   cb: ""
   themes: [kirtan, jagannatha]
-  notes: ""
+  notes: "Мурари 4.01.1–5."
+
+- id: ev-gauda-devotees-arrive-puri
+  title: "Преданные Гауды приходят в Пури; встреча у озера Нарендра"
+  title_en: "The devotees of Gauda arrive in Puri; the meeting at Narendra-sarovara"
+  period: P12
+  order: 20
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [kirtan, jagannatha, prasada]
+  notes: "Мурари 4.17–4.19.15 (Господь кланяется вайшнавам, угощает их махапрасадом)."
+
+- id: ev-narendra-jala-keli
+  title: "Игры в воде на озере Нарендра"
+  title_en: "Water pastimes at Narendra-sarovara"
+  period: P12
+  order: 30
+  calendar: "Чандана-ятра"
+  cc: ""
+  cb: ""
+  themes: [festival, jagannatha, krishna-lila]
+  notes: "Мурари 4.18.9–25 (с праздничными Божествами Рамы и Кришны и Ятра-Говинды)."
+
+- id: ev-advaita-gaura-kirtan
+  title: "Адвайта начинает киртан имён Гауранги"
+  title_en: "Advaita begins the kirtana of Gauranga's names"
+  period: P12
+  order: 40
+  cc: ""
+  cb: ""
+  themes: [kirtan, revelation]
+  notes: "Мурари 4.19.16–26."
+
+- id: ev-damodara-shachi-devotion
+  title: "Дамодара Пандит о преданности Шачи"
+  title_en: "Damodara Pandita on Shachi's devotion"
+  period: P12
+  order: 50
+  cc: ""
+  cb: ""
+  themes: [family, separation]
+  notes: "Мурари 4.20.1–4."
+
+- id: ev-snana-yatra-anavasara-alalanatha
+  title: "Снана-ятра; в анавасару Господь уходит к Алаланатхе"
+  title_en: "Snana-yatra; during anavasara the Lord goes to Alalanatha"
+  period: P12
+  order: 60
+  calendar: "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава"
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [festival, jagannatha, separation]
+  notes: "Мурари 4.20.5–9."
+
+- id: ev-ratha-yatra-gundicha
+  title: "Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу"
+  title_en: "Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha"
+  period: P12
+  order: 70
+  calendar: "ашадха; Ратха-ятра, Хера-панчами"
+  cc: "Мадхья 13–14"
+  cb: ""
+  themes: [festival, jagannatha, ecstasy]
+  notes: "Мурари 4.20.10–4.21.5 (без указания года)."
+
+- id: ev-nityananda-sent-to-gauda
+  title: "Господь посылает Нитьянанду проповедовать в Гауду"
+  title_en: "The Lord sends Nityananda to preach in Gauda"
+  period: P12
+  order: 90
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "Мурари 4.21.6–11, 4.22.1–2."
+
+- id: ev-nityananda-panihati-abhisheka
+  title: "Панихати: омовение и украшение Нитьянанды в доме Рагхавы Пандита"
+  title_en: "Panihati: Nityananda's bathing and adornment at Raghava Pandita's house"
+  period: P12
+  order: 100
+  cc: ""
+  cb: "Антья 5"
+  themes: [kirtan, mercy, krishna-lila]
+  notes: "Мурари 4.22.3–12."
+
+- id: ev-nityananda-preaching-gauda
+  title: "Нитьянанда наполняет Гауду именем Гауранги"
+  title_en: "Nityananda fills Gauda with Gauranga's name"
+  period: P12
+  order: 110
+  cc: ""
+  cb: ""
+  themes: [kirtan, mercy]
+  notes: "Мурари 4.22.13–21 (Гададхара Дас, Саптаграма, Тривени), 4.23.19–25 (Бадагачхи)."
+
+- id: ev-nityananda-advaita-meeting-shantipura
+  title: "Встреча Нитьянанды и Адвайты в Шантипуре"
+  title_en: "Nityananda and Advaita meet in Shantipura"
+  period: P12
+  order: 115
+  cc: ""
+  cb: ""
+  themes: [kirtan, mercy]
+  notes: "Мурари 4.22.22–25 (после дома Уддхараны)."
+
+- id: ev-nityananda-visits-shachi
+  title: "Нитьянанда у Шачи в Навадвипе"
+  title_en: "Nityananda visits Shachi in Navadvipa"
+  period: P12
+  order: 120
+  cc: ""
+  cb: ""
+  themes: [family, revelation, prasada]
+  notes: "Мурари 4.23.1–12: Шачи видит Раму и Кришну, вкушающих её угощение."
+
+- id: ev-nityananda-thieves
+  title: "Разбойники, покусившиеся на украшения Нитьянанды, становятся преданными"
+  title_en: "The thieves who coveted Nityananda's ornaments become devotees"
+  period: P12
+  order: 125
+  cc: ""
+  cb: ""
+  themes: [mercy]
+  notes: "Мурари 4.23.13–18."
 
 - id: ev-prataparudra-mercy
   title: "Милость к Пратапарудре"
@@ -1732,6 +1898,16 @@
   themes: [mercy, jagannatha, revelation]
   notes: "Мурари 4.16."
 
+- id: ev-departure-for-gauda
+  title: "Господь объявляет, что идёт в Матхуру (путь через Гауду)"
+  title_en: "The Lord announces His departure for Mathura (the journey through Gauda)"
+  period: P13
+  order: 2
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [separation, pilgrimage]
+  notes: "Мурари 3.17.1–5."
+
 - id: ev-natashala-kanai-return
   title: "Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы"
   title_en: "Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala"
@@ -1740,7 +1916,67 @@
   cc: "Мадхья 1; Мадхья 16"
   cb: ""
   themes: [pilgrimage, mercy]
-  notes: "Мурари 3.17.5–8."
+  notes: "Мурари 3.17.6–13 (Нрисимхананда), 3.18.12–14 (поворот назад)."
+
+- id: ev-vidya-vachaspati-house
+  title: "Господь в доме Видья-Вачаспати: толпы жаждут Его видеть"
+  title_en: "The Lord at Vidya-vachaspati's house: crowds long to see Him"
+  period: P13
+  order: 8
+  cc: "Мадхья 1"
+  cb: "Антья 3"
+  themes: [mercy, kirtan]
+  notes: "Мурари 3.17.14–16."
+
+- id: ev-devananda-mercy
+  title: "Милость к Девананде Пандиту"
+  title_en: "Mercy to Devananda Pandita"
+  period: P13
+  order: 9
+  cc: "Мадхья 1"
+  cb: "Антья 3"
+  themes: [mercy, offense, teaching]
+  notes: "Мурари 3.17.17–20 (в доме Вачаспати; по ЧЧ и ЧБ — в Кулии)."
+
+- id: ev-ramakeli-rupa-sanatana
+  title: "Рамакели: встреча с Рупой и Санатаной"
+  title_en: "Ramakeli: meeting with Rupa and Sanatana"
+  period: P13
+  order: 12
+  cc: "Мадхья 1"
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "Мурари 3.18.1–11."
+
+- id: ev-shantipura-after-natashala
+  title: "После Канай-Натшалы: у Адвайты в Шантипуре, встреча с Шачи"
+  title_en: "After Kanai-Natashala: at Advaita's house in Shantipura, meeting with Shachi"
+  period: P13
+  order: 15
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [family, kirtan, prasada]
+  notes: "Мурари 3.18.15–21. Ср. ev-shantipura-second-visit (Мурари 4.15, Лочан — после Вриндавана)."
+
+- id: ev-gopinatha-prasada-gadadhara
+  title: "Гададхара угощает Господа и Нитьянанду прасадом Гопинатхи"
+  title_en: "Gadadhara feeds the Lord and Nityananda with Gopinatha's prasada"
+  period: P13
+  order: 18
+  cc: ""
+  cb: ""
+  themes: [prasada, deities, krishna-lila]
+  notes: "Мурари 3.18.22–29 (Тота-Гопинатха в Пури)."
+
+- id: ev-departure-for-vrindavana
+  title: "Господь отправляется из Пури во Вриндаван"
+  title_en: "The Lord sets out from Puri for Vrindavana"
+  period: P13
+  order: 25
+  cc: "Мадхья 17"
+  cb: ""
+  themes: [separation, pilgrimage]
+  notes: "Мурари 4.01.6–10."
 
 - id: ev-jharikhanda-animals
   title: "Путь через Джхарикханду: пляшут тигры и олени"
@@ -1750,17 +1986,37 @@
   cc: "Мадхья 17"
   cb: ""
   themes: [pilgrimage, ecstasy, mercy]
-  notes: "Мурари 4.01 (путь через Каши)."
+  notes: "Мурари 4.01.11–13 (тигров и оленей у Мурари нет)."
+
+- id: ev-kashi-tapana-mishra
+  title: "Каши: Тапана Мишра и Чандрашекхара"
+  title_en: "Kashi: Tapana Mishra and Chandrashekhara"
+  period: P13
+  order: 35
+  cc: "Мадхья 17"
+  cb: ""
+  themes: [mercy, kirtan, pilgrimage]
+  notes: "Мурари 4.01.14–19 (на пути во Вриндаван); милость к мальчику Рагхунатхе (Бхатте)."
+
+- id: ev-prayaga-on-way-to-vrindavana
+  title: "Праяга на пути во Вриндаван: пляска перед Вени-Мадхавой"
+  title_en: "Prayaga on the way to Vrindavana: dancing before Veni-Madhava"
+  period: P13
+  order: 37
+  cc: "Мадхья 17"
+  cb: ""
+  themes: [pilgrimage, deities, ecstasy]
+  notes: "Мурари 4.02.1–2."
 
 - id: ev-rupa-prayaga
   title: "Встреча с Рупой Госвами в Праяге"
   title_en: "Meeting with Rupa Gosvami at Prayaga"
   period: P13
-  order: 40
+  order: 182
   cc: "Мадхья 19"
   cb: ""
   themes: [mercy, pilgrimage, teaching]
-  notes: "Мурари 4.01–4.02.1. У Лочана Даса объединена со встречей с Санатаной (в ЧЧ — в Каши, Мадхья 20)."
+  notes: "Мурари 4.13.5–10 (на обратном пути из Враджа; в 4.02.1–2 — Праяга без Рупы, ev-prayaga-on-way-to-vrindavana). У Лочана Даса объединена со встречей с Санатаной (в ЧЧ — в Каши, Мадхья 20)."
 
 - id: ev-arrival-mathura
   title: "Прибытие в Матхуру"
@@ -1810,7 +2066,7 @@
   cc: ""
   cb: ""
   themes: [krishna-lila, ecstasy, pilgrimage]
-  notes: "Известно лишь Лочану Дасу (предание о Бхандиравана)."
+  notes: "Лочан Дас (Билвавана, Радха, обморок Господа); Мурари 4.06.16–20 — та же повесть без имени Радхи (ср. начало «Гита-говинды»)."
 
 - id: ev-govardhana-visit
   title: "Господь у Говардханы"
@@ -1820,7 +2076,7 @@
   cc: "Мадхья 18"
   cb: ""
   themes: [pilgrimage, krishna-lila, ecstasy]
-  notes: "Мурари 4.07–4.08."
+  notes: "Мурари 4.08."
 
 - id: ev-ashoka-grove-blossoms
   title: "Роща ашок расцветает от взгляда Господа"
@@ -1840,7 +2096,17 @@
   cc: "Мадхья 18"
   cb: ""
   themes: [revelation, mercy]
-  notes: "Мурари 4.13."
+  notes: "Мурари 4.12.14–20; благословение Кришнадасу — 4.13.1–4."
+
+- id: ev-sanatana-kashi-instruction
+  title: "Наставление Санатане Госвами в Каши"
+  title_en: "Instruction to Sanatana Gosvami in Kashi"
+  period: P13
+  order: 185
+  cc: "Мадхья 20"
+  cb: ""
+  themes: [teaching, mercy]
+  notes: "Мурари 4.13.11–21. Ср. ev-rupa-prayaga (у Лочана Даса встречи с Рупой и Санатаной объединены)."
 
 - id: ev-cowherd-buttermilk-jewels
   title: "Милость к пастуху: кувшин пахты наполняется самоцветами"
@@ -1850,7 +2116,7 @@
   cc: ""
   cb: ""
   themes: [mercy, revelation]
-  notes: "Мурари 4.13."
+  notes: "Мурари 4.13.22–24 (у Мурари — без самоцветов)."
 
 - id: ev-kuliya-shachi-meeting
   title: "Кулия и Навадвипа: встреча с Шачи"
@@ -1862,21 +2128,75 @@
   themes: [family, separation, teaching]
   notes: "Мурари 4.14."
 
+- id: ev-vishnupriya-deity
+  title: "Господь оставляет Вишнуприи Своё Божество"
+  title_en: "The Lord leaves His Deity with Vishnupriya"
+  period: P13
+  order: 202
+  cc: ""
+  cb: ""
+  themes: [deities, family, separation]
+  notes: "Мурари 4.14.8."
+
+- id: ev-gauridasa-deities
+  title: "Божества Гауры и Нитьянанды в доме Гауридаса Пандита"
+  title_en: "The Deities of Gaura and Nityananda in Gauridasa Pandita's house"
+  period: P13
+  order: 206
+  cc: ""
+  cb: ""
+  themes: [deities, mercy]
+  notes: "Мурари 4.14.12–17 (Амбика-Кална)."
+
 - id: ev-shantipura-second-visit
   title: "Снова у Адвайты в Шантипуре; возвращение в Пури"
   title_en: "Again at Advaita's house in Shantipura; return to Puri"
   period: P13
   order: 210
-  cc: "Мадхья 16"
+  cc: ""
   cb: ""
   themes: [kirtan, jagannatha]
   notes: "Мурари 4.15."
 
+- id: ev-madhavendra-puri-aradhana
+  title: "Праздник памяти Мадхавендры Пури у Адвайты"
+  title_en: "Madhavendra Puri's memorial festival at Advaita's house"
+  period: P13
+  order: 212
+  calendar: "чайтра, шукла-пакша, двадаши"
+  years: [1515, 1516]
+  date_conf: оценка
+  date_basis: "Мурари 4.15.8–9: двадаши светлой половины чайтры, год не назван; у Мурари — после похода во Вриндаван"
+  cc: ""
+  cb: "Антья 4"
+  themes: [festival, prasada, kirtan]
+  notes: "Мурари 4.15.8–11."
+
+- id: ev-gambhira-divine-madness
+  title: "Божественное безумие Господа в бхаве Радхи (последние годы в Пури)"
+  title_en: "The Lord's divine madness in Radha's mood (the last years in Puri)"
+  period: P14
+  order: 100
+  cc: "Антья 14–18"
+  cb: ""
+  themes: [ecstasy, separation, krishna-lila]
+  notes: "Мурари 4.24.1–14 — краткий перечень (падение в море, облик черепахи среди коров, Чатака-парвата и др.); отдельные эпизоды можно выделить в свои события при появлении подробных источников."
+
+- id: ev-nityananda-returns-to-puri
+  title: "Нитьянанда приходит из Гауды к Господу в Пури; беседа о бхакти Враджа"
+  title_en: "Nityananda comes from Gauda to the Lord in Puri; their talk on the bhakti of Vraja"
+  period: P14
+  order: 110
+  cc: ""
+  cb: ""
+  themes: [kirtan, teaching]
+  notes: "Мурари 4.24.15–30."
+
 - id: ev-dravida-brahmana-vibhishana
   title: "Бедный брахман из Дравиды и Вибхишана"
   title_en: "The poor brahmana from Dravida and Vibhishana"
-  period: P14
-  order: 900
+  period: P12
+  order: 80
   cc: ""
   cb: ""
   themes: [mercy, celestial, jagannatha]

@@ -696,10 +696,12 @@
 ## Господь покидает Навадвипу / The Lord leaves Navadvipa  `ev-leaving-navadvipa` (1510–1510, возраст 23–24, вероятно)
 
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 1–8 — [1–8](../lochana/ru/39.md?plain=1#L11-L32) · `lcm-0172`
+- murari-kcc (A): Пракрама 3, сарга 1, шлока 6 — [6–6](../murari-gupta/ru/3.01.md?plain=1#L15-L15) · `mkc-0130`
 
 ## Плач Шачи и Вишнуприи после ухода Господа / Shachi and Vishnupriya lament after the Lord leaves  `ev-lament-after-lord-leaves` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 9–34 — [9–34](../lochana/ru/39.md?plain=1#L35-L110) · `lcm-0173`
+- murari-kcc (A): Пракрама 3, сарга 1, шлока 7 — [7–7](../murari-gupta/ru/3.01.md?plain=1#L17-L17) · `mkc-0131`
 
 ## Нитьянанда со спутниками идёт за Господом в Катву / Nityananda and companions follow the Lord to Katwa  `ev-nityananda-follows-to-katwa` (1510–1510, возраст 24–24, оценка)
 
@@ -713,23 +715,35 @@
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 89–95 (с 91+1–91+3) — [89–95](../lochana/ru/39.md?plain=1#L275-L302) · `lcm-0177`
 - lochana-cm (C): Мадхья-кханда, «Санньяса Господа», 95+1–95+5 (изд. 1983 г.) — [95+1–95+5](../lochana/ru/39.md?plain=1#L305-L317) · `lcm-0178`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 96–112 (с 100+1–100+3, 105+1–105+3) — [96–112](../lochana/ru/39.md?plain=1#L320-L386) · `lcm-0179`
+- murari-kcc (A): Пракрама 3, сарга 1, шлоки 10–19 — [10–19](../murari-gupta/ru/3.01.md?plain=1#L23-L41) · `mkc-0133`
+- murari-kcc (A): Пракрама 3, сарга 2, шлоки 1–3 — [1–3](../murari-gupta/ru/3.02.md?plain=1#L5-L9) · `mkc-0134`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 113–137 (с 124+1–124+2, 125+1–125+3, 135+1, 136+1–136+4) — [113–137](../lochana/ru/40.md?plain=1#L5-L107) · `lcm-0180`
+- murari-kcc (A): Пракрама 3, сарга 2, шлоки 4–6 — [4–6](../murari-gupta/ru/3.02.md?plain=1#L11-L15) · `mkc-0135`
+- murari-kcc (A): Пракрама 3, сарга 2, шлоки 7–9 — [7–9](../murari-gupta/ru/3.02.md?plain=1#L17-L21) · `mkc-0136`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 138–151 (с 143+1–143+4, 151+1) — [138–151+1](../lochana/ru/40.md?plain=1#L112-L166) · `lcm-0181`
+- murari-kcc (A): Пракрама 3, сарга 2, шлоки 10–12 — [10–12](../murari-gupta/ru/3.02.md?plain=1#L23-L27) · `mkc-0137`
 - lochana-cm (C): Мадхья-кханда, «Санньяса Господа», 151+2–151+6 (изд. 1983 г.) — [151+2–151+6](../lochana/ru/40.md?plain=1#L169-L181) · `lcm-0182`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 152–155 (с 155+1–155+4) — [152–155+4](../lochana/ru/40.md?plain=1#L184-L205) · `lcm-0183`
+- murari-kcc (A): Пракрама 3, сарга 2, шлоки 13–19 — [13–19](../murari-gupta/ru/3.02.md?plain=1#L29-L41) · `mkc-0138`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 156–163 (с 163+1) — [156–163+1](../lochana/ru/40.md?plain=1#L208-L232) · `lcm-0184`
 
 ## Три дня в Радха-деше / Three days in Radha-desha  `ev-radha-desha-wandering` (1510–1510, возраст 24–24, вероятно)
 
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 164–180 — [164–180](../lochana/ru/40.md?plain=1#L235-L283) · `lcm-0185`
+- murari-kcc (A): Пракрама 3, сарга 3, шлоки 1–10 — [1–10](../murari-gupta/ru/3.03.md?plain=1#L5-L23) · `mkc-0139`
+- murari-kcc (A): Пракрама 3, сарга 3, шлоки 14–18 — [14–18](../murari-gupta/ru/3.03.md?plain=1#L31-L39) · `mkc-0141`
 
 ## Господь отпускает Чандрашекхару в Навадвипу / The Lord sends Chandrashekhara back to Navadvipa  `ev-chandrashekhara-sent-back` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 181–185 (с 181+1–181+2, 183+1) — [181–185](../lochana/ru/40.md?plain=1#L286-L307) · `lcm-0186`
+- murari-kcc (A): Пракрама 3, сарга 3, шлоки 11–13 — [11–13](../murari-gupta/ru/3.03.md?plain=1#L25-L29) · `mkc-0140`
+- murari-kcc (A): Пракрама 3, сарга 3, шлоки 19–21 — [19–21](../murari-gupta/ru/3.03.md?plain=1#L41-L45) · `mkc-0142`
 
 ## Плач Навадвипы по Господу после санньясы / Navadvipa laments the Lord after His sannyasa  `ev-navadvipa-lament-after-sannyasa` (1510–1510, возраст 24–24, оценка)
 
+- murari-kcc (A): Пракрама 3, сарга 1, шлоки 8–9 — [8–9](../murari-gupta/ru/3.01.md?plain=1#L19-L21) · `mkc-0132`
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 1–14 — [1–14](../lochana/ru/41.md?plain=1#L11-L50) · `lcm-0187`
+- murari-kcc (A): Пракрама 3, сарга 4, шлока 1 — [1–1](../murari-gupta/ru/3.04.md?plain=1#L5-L5) · `mkc-0143`
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 14–33 (с 15+1–15+15, 31+1, 32+1) — [14–33](../lochana/ru/41.md?plain=1#L50-L158) · `lcm-0188`
 
 ## Преданные Навадвипы связывают Господа святым именем / The devotees of Navadvipa bind the Lord with the holy name  `ev-devotees-bind-lord-by-name` (1510–1510, возраст 24–24, оценка)
@@ -739,63 +753,88 @@
 ## Нитьянанда приводит Шачи и жителей Надии в Шантипур / Nityananda brings Shachi and the people of Nadia to Shantipura  `ev-nityananda-brings-navadvipa-to-shantipura` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 46–69 — [46–69](../lochana/ru/41.md?plain=1#L197-L266) · `lcm-0190`
+- murari-kcc (A): Пракрама 3, сарга 4, шлоки 2–11 — [2–11](../murari-gupta/ru/3.04.md?plain=1#L7-L25) · `mkc-0144`
 
 ## Встреча с Шачи и преданными в доме Адвайты в Шантипуре / Reunion with Shachi and the devotees at Advaita's house in Shantipura  `ev-shantipura-reunion` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 70–87 (с 75+1–75+5, 76+1–76+5) — [70–87](../lochana/ru/41.md?plain=1#L269-L350) · `lcm-0191`
+- murari-kcc (A): Пракрама 3, сарга 4, шлоки 12–22 — [12–22](../murari-gupta/ru/3.04.md?plain=1#L27-L47) · `mkc-0145`
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 88–94 (с 88+1–88+3, 91+1–91+4) — [88–94](../lochana/ru/41.md?plain=1#L353-L392) · `lcm-0192`
 
 ## Прощание с преданными в Шантипуре / Farewell to the devotees in Shantipura  `ev-farewell-shantipura` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 1–10 — [1–10](../lochana/ru/42.md?plain=1#L11-L38) · `lcm-0193`
+- murari-kcc (A): Пракрама 3, сарга 4, шлоки 23–27 — [23–27](../murari-gupta/ru/3.04.md?plain=1#L49-L57) · `mkc-0146`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 11–16 — [11–16](../lochana/ru/42.md?plain=1#L41-L56) · `lcm-0194`
+- murari-kcc (A): Пракрама 3, сарга 4, шлоки 28–33 — [28–33](../murari-gupta/ru/3.04.md?plain=1#L59-L69) · `mkc-0147`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 17–63 — [17–63](../lochana/ru/42.md?plain=1#L59-L197) · `lcm-0195`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 64–80 (с 75+1–75+2) — [64–80](../lochana/ru/42.md?plain=1#L200-L254) · `lcm-0196`
+
+## Гопинатха Ачарья созерцает тело Господа / Gopinatha Acharya beholds the Lord's body  `ev-gopinatha-acharya-sees-lords-body` (1510–1510, возраст 24–24, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 4, шлоки 34–39 — [34–39](../murari-gupta/ru/3.04.md?plain=1#L71-L81) · `mkc-0148`
 
 ## Путь в Нилачалу / The journey to Nilachala  `ev-journey-to-puri` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 81–95 — [81–95](../lochana/ru/43.md?plain=1#L5-L49) · `lcm-0197`
+- murari-kcc (A): Пракрама 3, сарга 5, шлоки 1–6 — [1–6](../murari-gupta/ru/3.05.md?plain=1#L5-L15) · `mkc-0149`
 
 ## Сборщики пошлины на пути в Пури / The toll collectors on the way to Puri  `ev-toll-collectors-pilgrims` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 96–111 — [96–111](../lochana/ru/43.md?plain=1#L52-L97) · `lcm-0198`
+- murari-kcc (A): Пракрама 3, сарга 5, шлоки 7–9 — [7–9](../murari-gupta/ru/3.05.md?plain=1#L17-L21) · `mkc-0150`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 112–115 — [112–115](../lochana/ru/43.md?plain=1#L100-L109) · `lcm-0199`
 
 ## Нитьянанда ломает посох Господа / Nityananda breaks the Lord's staff  `ev-danda-broken` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 116–149 — [116–149](../lochana/ru/43.md?plain=1#L114-L213) · `lcm-0200`
+- murari-kcc (A): Пракрама 3, сарга 5, шлоки 10–21 — [10–21](../murari-gupta/ru/3.05.md?plain=1#L23-L45) · `mkc-0151`
 
 ## Тамолук и Ремуна: Божество роняет Господу венец / Tamluk and Remuna: the Deity drops His crown for the Lord  `ev-remuna-gopala` (1510–1510, возраст 24–24, оценка)
 
+- murari-kcc (A): Пракрама 3, сарга 6, шлоки 1–2 — [1–2](../murari-gupta/ru/3.06.md?plain=1#L5-L7) · `mkc-0152`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 1–21 — [1–21](../lochana/ru/44.md?plain=1#L11-L71) · `lcm-0201`
+- murari-kcc (A): Пракрама 3, сарга 6, шлоки 3–11 — [3–11](../murari-gupta/ru/3.06.md?plain=1#L9-L25) · `mkc-0153`
 
 ## Вайтарани, Яджапур и богиня Вираджа / Vaitarani, Jajpur and the goddess Viraja  `ev-jajpur-viraja` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 22–35 — [22–35](../lochana/ru/44.md?plain=1#L74-L113) · `lcm-0202`
+- murari-kcc (A): Пракрама 3, сарга 6, шлоки 12–21 — [12–21](../murari-gupta/ru/3.06.md?plain=1#L27-L45) · `mkc-0154`
+- murari-kcc (A): Пракрама 3, сарга 7, шлоки 17–21 — [17–21](../murari-gupta/ru/3.07.md?plain=1#L37-L45) · `mkc-0156`
 
 ## Сборщик пошлины связывает Мукунду / A toll collector binds Mukunda  `ev-toll-collector-binds-mukunda` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 36–73 (с 53+1) — [36–73](../lochana/ru/44.md?plain=1#L116-L234) · `lcm-0203`
+- murari-kcc (A): Пракрама 3, сарга 7, шлоки 1–16 — [1–16](../murari-gupta/ru/3.07.md?plain=1#L5-L35) · `mkc-0155`
 
 ## Экамра (Бхуванешвара): Господь чтит Шиву / Ekamra (Bhubaneshvara): the Lord honours Shiva  `ev-ekamra-bhubaneshvara` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 74–92 (с 88+1) — [74–92](../lochana/ru/44.md?plain=1#L237-L296) · `lcm-0204`
+- murari-kcc (A): Пракрама 3, сарга 8, шлоки 1–11 — [1–11](../murari-gupta/ru/3.08.md?plain=1#L5-L25) · `mkc-0157`
+- murari-kcc (A): Пракрама 3, сарга 8, шлоки 12–24 — [12–24](../murari-gupta/ru/3.08.md?plain=1#L27-L51) · `mkc-0158`
 - lochana-cm (C): Мадхья-кханда, «Встреча с Сарвабхаумой», 92+1–92+5 — [92+1–92+5](../lochana/ru/44.md?plain=1#L299-L311) · `lcm-0205`
+- murari-kcc (A): Пракрама 3, сарга 9, шлоки 1–7 — [1–7](../murari-gupta/ru/3.09.md?plain=1#L5-L17) · `mkc-0159`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 93–111 — [93–111](../lochana/ru/44.md?plain=1#L314-L368) · `lcm-0206`
+- murari-kcc (A): Пракрама 3, сарга 9, шлоки 8–21 — [8–21](../murari-gupta/ru/3.09.md?plain=1#L19-L45) · `mkc-0160`
 
 ## Господь видит храм Джаганнатхи / The Lord sights Jagannatha's temple  `ev-first-sight-jagannatha-temple` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 112–132 — [112–132](../lochana/ru/45.md?plain=1#L7-L67) · `lcm-0207`
+- murari-kcc (A): Пракрама 3, сарга 10, шлоки 1–11 — [1–11](../murari-gupta/ru/3.10.md?plain=1#L5-L25) · `mkc-0161`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 133–146 — [133–146](../lochana/ru/45.md?plain=1#L70-L109) · `lcm-0208`
+- murari-kcc (A): Пракрама 3, сарга 10, шлоки 12–20 — [12–20](../murari-gupta/ru/3.10.md?plain=1#L27-L43) · `mkc-0162`
 
 ## Встреча с Сарвабхаумой / Meeting with Sarvabhauma  `ev-sarvabhauma-meeting` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 147–160 (с 148+1–148+2, 153+1) — [147–160](../lochana/ru/45.md?plain=1#L112-L160) · `lcm-0209`
+- murari-kcc (A): Пракрама 3, сарга 11, шлоки 1–15 — [1–15](../murari-gupta/ru/3.11.md?plain=1#L5-L33) · `mkc-0163`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 175–202 — [175–202](../lochana/ru/45.md?plain=1#L217-L298) · `lcm-0212`
+- murari-kcc (A): Пракрама 3, сарга 11, шлоки 20–22 — [20–22](../murari-gupta/ru/3.11.md?plain=1#L43-L47) · `mkc-0165`
 
 ## Первый даршан Джаганнатхи / First darshan of Jagannatha  `ev-first-darshan-jagannatha` (1510–1510, возраст 24–24, вероятно)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 161–174 — [161–168](../lochana/ru/45.md?plain=1#L163-L184); [169–174](../lochana/ru/45.md?plain=1#L199-L214) · `lcm-0210`
+- murari-kcc (A): Пракрама 3, сарга 11, шлоки 16–19 — [16–19](../murari-gupta/ru/3.11.md?plain=1#L35-L41) · `mkc-0164`
 
 ## Джаганнатха сходит с трона и обнимает Господа / Jagannatha steps down from His throne and embraces the Lord  `ev-jagannatha-embraces-gaura` (1510–1510, возраст 24–24, оценка)
 
@@ -804,122 +843,300 @@
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 203–214 (с 204+1–204+2) — [203–214](../lochana/ru/45.md?plain=1#L301-L340) · `lcm-0213`
+- murari-kcc (A): Пракрама 3, сарга 12, шлоки 1–6 — [1–6](../murari-gupta/ru/3.12.md?plain=1#L5-L15) · `mkc-0166`
 
 ## Освобождение Сарвабхаумы / Deliverance of Sarvabhauma  `ev-sarvabhauma-deliverance` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 215–234 (с 223+1–223+4, 231+1–231+2) — [215–234](../lochana/ru/45.md?plain=1#L343-L418) · `lcm-0214`
+- murari-kcc (A): Пракрама 3, сарга 12, шлоки 7–11 — [7–11](../murari-gupta/ru/3.12.md?plain=1#L17-L25) · `mkc-0167`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 235–248 (с 237+1–237+14, 247+1–247+4) — [235–248](../lochana/ru/45.md?plain=1#L421-L514) · `lcm-0215`
+- murari-kcc (A): Пракрама 3, сарга 12, шлоки 12–19 — [12–19](../murari-gupta/ru/3.12.md?plain=1#L27-L41) · `mkc-0168`
+
+## Господь отправляется на юг: прощание с Джаганнатхой и преданными Пури / The Lord sets out for the South: farewell to Jagannatha and the devotees of Puri  `ev-departure-for-south` (1510–1512, возраст 24–26, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 13, шлоки 1–13 — [1–13](../murari-gupta/ru/3.13.md?plain=1#L5-L29) · `mkc-0169`
+- murari-kcc (A): Пракрама 3, сарга 13, шлоки 14–23; сарга 14, шлока 1 — [14–23](../murari-gupta/ru/3.13.md?plain=1#L31-L49); [1–1](../murari-gupta/ru/3.14.md?plain=1#L5-L5) · `mkc-0170`
+
+## Алаланатха: према передаётся от объятия к объятию / Alalanatha: prema passes on from embrace to embrace  `ev-alalanatha-prema-chain` (1510–1512, возраст 24–26, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 14, шлоки 2–12 — [2–12](../murari-gupta/ru/3.14.md?plain=1#L7-L27) · `mkc-0171`
 
 ## Курма-кшетра: брахманы Курма и Васудева / Kurma-kshetra: the brahmanas Kurma and Vasudeva  `ev-kurma-vasudeva` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 1–14 — [1–14](../lochana/ru/46.md?plain=1#L11-L50) · `lcm-0217`
+- murari-kcc (A): Пракрама 3, сарга 14, шлоки 13–20 — [13–20](../murari-gupta/ru/3.14.md?plain=1#L29-L43) · `mkc-0172`
 
 ## У Джияда-Нрисимхи (Симхачалам) / At Jiyada-Nrisimha (Simhachalam)  `ev-jiyada-nrisimha` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 15–71 (с 22+1–22+2, 23+1–23+3, 41+1–41+2, 42+1–42+2, 59+1–59+5, 71+1–71+4) — [15–71+4](../lochana/ru/46.md?plain=1#L53-L275) · `lcm-0218`
+- murari-kcc (A): Пракрама 3, сарга 14, шлоки 21–28 — [21–28](../murari-gupta/ru/3.14.md?plain=1#L45-L59) · `mkc-0173`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 72–81 (с 72+1–72+12, 77+1) — [72–81](../lochana/ru/46.md?plain=1#L278-L344) · `lcm-0219`
+- murari-kcc (A): Пракрама 3, сарга 14, шлоки 29–33 — [29–33](../murari-gupta/ru/3.14.md?plain=1#L61-L69) · `mkc-0174`
 
 ## Встреча с Раманандой Раем / Meeting with Ramananda Raya  `ev-ramananda-raya-godavari` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 82–114 (с 85+1–85+2, 104+1–104+2, 112+1–112+4, 113+1–113+4) — [82–114](../lochana/ru/46.md?plain=1#L349-L481) · `lcm-0220`
+- murari-kcc (A): Пракрама 3, сарга 15, шлоки 1–5 — [1–5](../murari-gupta/ru/3.15.md?plain=1#L5-L13) · `mkc-0175`
 
 ## Панчавати: Господь в бхаве Рамы / Panchavati: the Lord in Rama's mood  `ev-panchavati-rama-bhava` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 115–123 — [115–123](../lochana/ru/47.md?plain=1#L7-L31) · `lcm-0221`
+- murari-kcc (A): Пракрама 3, сарга 15, шлока 6 — [6–6](../murari-gupta/ru/3.15.md?plain=1#L15-L15) · `mkc-0176`
 
-## Шрирангам: чатурмасья у Бхатт / Srirangam: the chaturmasya with the Bhattas  `ev-srirangam-chaturmasya` (1510–1512, возраст 24–26, оценка)
+## Брахман, читающий Гиту со слезами любви / The brahmana who reads the Gita with tears of love  `ev-gita-reading-brahmana` (1510–1512, возраст 24–26, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 15, шлоки 7–8 — [7–8](../murari-gupta/ru/3.15.md?plain=1#L17-L19) · `mkc-0177`
+
+## Шрирангам: чатурмасья у Бхатт / Srirangam: the chaturmasya with the Bhattas  `ev-srirangam-chaturmasya` (1510–1510, возраст 24–24, вероятно)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 124–133 (с 132+1–132+5) — [124–133](../lochana/ru/47.md?plain=1#L34-L76) · `lcm-0222`
+- murari-kcc (A): Пракрама 3, сарга 15, шлоки 9–18 — [9–18](../murari-gupta/ru/3.15.md?plain=1#L21-L39) · `mkc-0178`
 
 ## Встреча с Парамананда Пури / Meeting with Paramananda Puri  `ev-paramananda-puri-meeting` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 134–144 (с 142+1–142+4) — [134–144](../lochana/ru/47.md?plain=1#L79-L121) · `lcm-0223`
+- murari-kcc (A): Пракрама 3, сарга 15, шлоки 19–25 — [19–25](../murari-gupta/ru/3.15.md?plain=1#L41-L53) · `mkc-0179`
 
 ## Избавление семи пальм / Deliverance of the seven palm trees  `ev-saptatala-deliverance` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 1–4 (с 4+1–4+2) — [1–4+2](../lochana/ru/47.md?plain=1#L130-L145) · `lcm-0224`
+- murari-kcc (A): Пракрама 3, сарга 16, шлоки 1–2 — [1–2](../murari-gupta/ru/3.16.md?plain=1#L5-L7) · `mkc-0180`
 
 ## Сетубандха: Рамешвара / Setubandha: Rameshvara  `ev-setubandha-rameshvara` (1510–1512, возраст 24–26, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 5–11 — [5–11](../lochana/ru/47.md?plain=1#L148-L166) · `lcm-0225`
+- murari-kcc (A): Пракрама 3, сарга 16, шлоки 3–7 — [3–7](../murari-gupta/ru/3.16.md?plain=1#L9-L17) · `mkc-0181`
 
 ## Возвращение с Юга в Пури / Return from the South to Puri  `ev-return-from-south` (1510–1512, возраст 24–26, оценка)
 
+- murari-kcc (A): Пракрама 3, сарга 16, шлоки 8–11 — [8–11](../murari-gupta/ru/3.16.md?plain=1#L19-L25) · `mkc-0182`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 12–17 — [12–17](../lochana/ru/47.md?plain=1#L169-L184) · `lcm-0226`
+- murari-kcc (A): Пракрама 3, сарга 16, шлоки 12–18 — [12–18](../murari-gupta/ru/3.16.md?plain=1#L27-L39) · `mkc-0183`
 
 ## Преданные из разных краёв собираются к Господу в Нилачале / Devotees from many lands gather around the Lord in Nilachala  `ev-devotees-gather-nilachala` (1512–1514, возраст 26–28, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 25–28 — [25–28](../lochana/ru/47.md?plain=1#L226-L235) · `lcm-0228`
+- murari-kcc (A): Пракрама 4, сарга 1, шлоки 1–5 — [1–5](../murari-gupta/ru/4.01.md?plain=1#L5-L13) · `mkc-0192`
+
+## Преданные Гауды приходят в Пури; встреча у озера Нарендра / The devotees of Gauda arrive in Puri; the meeting at Narendra-sarovara  `ev-gauda-devotees-arrive-puri` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 17, шлоки 1–25 — [1–25](../murari-gupta/ru/4.17.md?plain=1#L5-L53) · `mkc-0235`
+- murari-kcc (A): Пракрама 4, сарга 18, шлоки 1–8 — [1–8](../murari-gupta/ru/4.18.md?plain=1#L5-L19) · `mkc-0236`
+- murari-kcc (A): Пракрама 4, сарга 19, шлоки 1–15 — [1–15](../murari-gupta/ru/4.19.md?plain=1#L5-L33) · `mkc-0238`
+
+## Игры в воде на озере Нарендра / Water pastimes at Narendra-sarovara  `ev-narendra-jala-keli` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 18, шлоки 9–25 — [9–25](../murari-gupta/ru/4.18.md?plain=1#L21-L53) · `mkc-0237`
+
+## Адвайта начинает киртан имён Гауранги / Advaita begins the kirtana of Gauranga's names  `ev-advaita-gaura-kirtan` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 19, шлоки 16–26 — [16–26](../murari-gupta/ru/4.19.md?plain=1#L35-L55) · `mkc-0239`
+
+## Дамодара Пандит о преданности Шачи / Damodara Pandita on Shachi's devotion  `ev-damodara-shachi-devotion` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 20, шлоки 1–4 — [1–4](../murari-gupta/ru/4.20.md?plain=1#L5-L11) · `mkc-0240`
+
+## Снана-ятра; в анавасару Господь уходит к Алаланатхе / Snana-yatra; during anavasara the Lord goes to Alalanatha  `ev-snana-yatra-anavasara-alalanatha` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 20, шлоки 5–9 — [5–9](../murari-gupta/ru/4.20.md?plain=1#L13-L21) · `mkc-0241`
+
+## Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу / Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha  `ev-ratha-yatra-gundicha` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 20, шлоки 10–19; сарга 21, шлоки 1–5 — [10–19](../murari-gupta/ru/4.20.md?plain=1#L23-L41); [1–5](../murari-gupta/ru/4.21.md?plain=1#L5-L13) · `mkc-0242`
+
+## Бедный брахман из Дравиды и Вибхишана / The poor brahmana from Dravida and Vibhishana  `ev-dravida-brahmana-vibhishana` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 21, шлоки 12–26 — [12–26](../murari-gupta/ru/4.21.md?plain=1#L27-L55) · `mkc-0244`
+- lochana-cm (B): Шеша-кханда, «Последние игры», 1–94 (с 29+1) — [1–94](../lochana/ru/52.md?plain=1#L11-L293) · `lcm-0249`
+
+## Господь посылает Нитьянанду проповедовать в Гауду / The Lord sends Nityananda to preach in Gauda  `ev-nityananda-sent-to-gauda` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 21, шлоки 6–11 — [6–11](../murari-gupta/ru/4.21.md?plain=1#L15-L25) · `mkc-0243`
+- murari-kcc (A): Пракрама 4, сарга 22, шлоки 1–2 — [1–2](../murari-gupta/ru/4.22.md?plain=1#L5-L7) · `mkc-0245`
+
+## Панихати: омовение и украшение Нитьянанды в доме Рагхавы Пандита / Panihati: Nityananda's bathing and adornment at Raghava Pandita's house  `ev-nityananda-panihati-abhisheka` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 22, шлоки 3–12 — [3–12](../murari-gupta/ru/4.22.md?plain=1#L9-L27) · `mkc-0246`
+
+## Нитьянанда наполняет Гауду именем Гауранги / Nityananda fills Gauda with Gauranga's name  `ev-nityananda-preaching-gauda` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 22, шлоки 13–21 — [13–21](../murari-gupta/ru/4.22.md?plain=1#L29-L45) · `mkc-0247`
+- murari-kcc (A): Пракрама 4, сарга 23, шлоки 19–25 — [19–25](../murari-gupta/ru/4.23.md?plain=1#L41-L53) · `mkc-0251`
+
+## Встреча Нитьянанды и Адвайты в Шантипуре / Nityananda and Advaita meet in Shantipura  `ev-nityananda-advaita-meeting-shantipura` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 22, шлоки 22–25 — [22–25](../murari-gupta/ru/4.22.md?plain=1#L47-L53) · `mkc-0248`
+
+## Нитьянанда у Шачи в Навадвипе / Nityananda visits Shachi in Navadvipa  `ev-nityananda-visits-shachi` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 23, шлоки 1–12 — [1–12](../murari-gupta/ru/4.23.md?plain=1#L5-L27) · `mkc-0249`
+
+## Разбойники, покусившиеся на украшения Нитьянанды, становятся преданными / The thieves who coveted Nityananda's ornaments become devotees  `ev-nityananda-thieves` (1512–1514, возраст 26–28, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 23, шлоки 13–18 — [13–18](../murari-gupta/ru/4.23.md?plain=1#L29-L39) · `mkc-0250`
 
 ## Милость к Пратапарудре / Mercy to Prataparudra  `ev-prataparudra-mercy` (1512–1514, возраст 26–28, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 70–125 — [70–125](../lochana/ru/51.md?plain=1#L240-L405) · `lcm-0248`
+- murari-kcc (A): Пракрама 4, сарга 16, шлоки 1–10 — [1–10](../murari-gupta/ru/4.16.md?plain=1#L5-L23) · `mkc-0233`
+- murari-kcc (A): Пракрама 4, сарга 16, шлоки 11–20 — [11–20](../murari-gupta/ru/4.16.md?plain=1#L25-L45) · `mkc-0234`
+
+## Господь объявляет, что идёт в Матхуру (путь через Гауду) / The Lord announces His departure for Mathura (the journey through Gauda)  `ev-departure-for-gauda` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 17, шлоки 1–5 — [1–5](../murari-gupta/ru/3.17.md?plain=1#L5-L13) · `mkc-0184`
 
 ## Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы / Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala  `ev-natashala-kanai-return` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 18–24 — [18–24](../lochana/ru/47.md?plain=1#L189-L219) · `lcm-0227`
+- murari-kcc (A): Пракрама 3, сарга 17, шлоки 6–13 — [6–13](../murari-gupta/ru/3.17.md?plain=1#L15-L29) · `mkc-0185`
+- murari-kcc (A): Пракрама 3, сарга 18, шлоки 12–14 — [12–14](../murari-gupta/ru/3.18.md?plain=1#L27-L31) · `mkc-0189`
+
+## Господь в доме Видья-Вачаспати: толпы жаждут Его видеть / The Lord at Vidya-vachaspati's house: crowds long to see Him  `ev-vidya-vachaspati-house` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 17, шлоки 14–16 — [14–16](../murari-gupta/ru/3.17.md?plain=1#L31-L35) · `mkc-0186`
+
+## Милость к Девананде Пандиту / Mercy to Devananda Pandita  `ev-devananda-mercy` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 17, шлоки 17–20 — [17–20](../murari-gupta/ru/3.17.md?plain=1#L37-L43) · `mkc-0187`
+
+## Рамакели: встреча с Рупой и Санатаной / Ramakeli: meeting with Rupa and Sanatana  `ev-ramakeli-rupa-sanatana` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 18, шлоки 1–11 — [1–11](../murari-gupta/ru/3.18.md?plain=1#L5-L25) · `mkc-0188`
+
+## После Канай-Натшалы: у Адвайты в Шантипуре, встреча с Шачи / After Kanai-Natashala: at Advaita's house in Shantipura, meeting with Shachi  `ev-shantipura-after-natashala` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 18, шлоки 15–21 — [15–21](../murari-gupta/ru/3.18.md?plain=1#L33-L45) · `mkc-0190`
+
+## Гададхара угощает Господа и Нитьянанду прасадом Гопинатхи / Gadadhara feeds the Lord and Nityananda with Gopinatha's prasada  `ev-gopinatha-prasada-gadadhara` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 3, сарга 18, шлоки 22–29 — [22–29](../murari-gupta/ru/3.18.md?plain=1#L47-L61) · `mkc-0191`
+
+## Господь отправляется из Пури во Вриндаван / The Lord sets out from Puri for Vrindavana  `ev-departure-for-vrindavana` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 1, шлоки 6–10 — [6–10](../murari-gupta/ru/4.01.md?plain=1#L15-L23) · `mkc-0193`
 
 ## Путь через Джхарикханду: пляшут тигры и олени / Through Jharikhanda: tigers and deer dance  `ev-jharikhanda-animals` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 29–35 — [29–35](../lochana/ru/47.md?plain=1#L238-L256) · `lcm-0229`
+- murari-kcc (A): Пракрама 4, сарга 1, шлоки 11–13 — [11–13](../murari-gupta/ru/4.01.md?plain=1#L25-L29) · `mkc-0194`
 
-## Встреча с Рупой Госвами в Праяге / Meeting with Rupa Gosvami at Prayaga  `ev-rupa-prayaga` (1514–1516, возраст 28–30, оценка)
+## Каши: Тапана Мишра и Чандрашекхара / Kashi: Tapana Mishra and Chandrashekhara  `ev-kashi-tapana-mishra` (1514–1516, возраст 28–30, оценка)
 
-- lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 36–38 — [36–38](../lochana/ru/47.md?plain=1#L259-L265) · `lcm-0230`
+- murari-kcc (A): Пракрама 4, сарга 1, шлоки 14–19 — [14–19](../murari-gupta/ru/4.01.md?plain=1#L31-L41) · `mkc-0195`
+
+## Праяга на пути во Вриндаван: пляска перед Вени-Мадхавой / Prayaga on the way to Vrindavana: dancing before Veni-Madhava  `ev-prayaga-on-way-to-vrindavana` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 2, шлоки 1–2 — [1–2](../murari-gupta/ru/4.02.md?plain=1#L5-L7) · `mkc-0196`
 
 ## Прибытие в Матхуру / Arrival in Mathura  `ev-arrival-mathura` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 39–47 — [39–47](../lochana/ru/47.md?plain=1#L268-L292) · `lcm-0231`
+- murari-kcc (A): Пракрама 4, сарга 2, шлоки 3–8 — [3–8](../murari-gupta/ru/4.02.md?plain=1#L9-L19) · `mkc-0197`
 
 ## Брахман Кришнадас — проводник Господа по Матхура-мандале / The brahmana Krishnadasa, the Lord's guide in Mathura-mandala  `ev-krishnadasa-mathura-guide` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 48–84 — [48–84](../lochana/ru/47.md?plain=1#L295-L403) · `lcm-0232`
+- murari-kcc (A): Пракрама 4, сарга 2, шлоки 9–17 — [9–17](../murari-gupta/ru/4.02.md?plain=1#L21-L37) · `mkc-0198`
+- murari-kcc (A): Пракрама 4, сарга 3, шлоки 1–21 — [1–21](../murari-gupta/ru/4.03.md?plain=1#L5-L45) · `mkc-0199`
 
 ## Господь осматривает святыни Матхуры / The Lord visits the holy places of Mathura  `ev-mathura-sightseeing` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 85–115, 132–137 — [85–115](../lochana/ru/48.md?plain=1#L5-L95); [132–137](../lochana/ru/48.md?plain=1#L151-L166) · `lcm-0233`
+- murari-kcc (A): Пракрама 4, сарга 4, шлоки 1–9 — [1–9](../murari-gupta/ru/4.04.md?plain=1#L5-L21) · `mkc-0200`
+- murari-kcc (A): Пракрама 4, сарга 4, шлоки 10–25 — [10–25](../murari-gupta/ru/4.04.md?plain=1#L23-L53) · `mkc-0201`
+- murari-kcc (A): Пракрама 4, сарга 5, шлоки 1–4 — [1–4](../murari-gupta/ru/4.05.md?plain=1#L5-L11) · `mkc-0202`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 116–131 (с 128+1) — [116–131](../lochana/ru/48.md?plain=1#L98-L146) · `lcm-0234`
+- murari-kcc (A): Пракрама 4, сарга 5, шлоки 5–15 — [5–15](../murari-gupta/ru/4.05.md?plain=1#L13-L33) · `mkc-0203`
 
 ## Обход Враджа-мандалы: места лил Кришны / Circumambulation of Vraja-mandala: the places of Krishna's lilas  `ev-vraja-parikrama` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 138–163 — [138–163](../lochana/ru/48.md?plain=1#L169-L244) · `lcm-0235`
+- murari-kcc (A): Пракрама 4, сарга 6, шлоки 1–15 — [1–15](../murari-gupta/ru/4.06.md?plain=1#L5-L33) · `mkc-0204`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 172–189 (с 175+1) — [172–189](../lochana/ru/48.md?plain=1#L271-L325) · `lcm-0237`
+- murari-kcc (A): Пракрама 4, сарга 6, шлоки 21–22 — [21–22](../murari-gupta/ru/4.06.md?plain=1#L45-L47) · `mkc-0206`
+- murari-kcc (A): Пракрама 4, сарга 7, шлоки 1–5 — [1–5](../murari-gupta/ru/4.07.md?plain=1#L5-L13) · `mkc-0207`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 190–205 — [190–205](../lochana/ru/48.md?plain=1#L328-L373) · `lcm-0238`
+- murari-kcc (A): Пракрама 4, сарга 7, шлоки 6–16 — [6–16](../murari-gupta/ru/4.07.md?plain=1#L15-L35) · `mkc-0208`
+- murari-kcc (A): Пракрама 4, сарга 7, шлоки 17–21 — [17–21](../murari-gupta/ru/4.07.md?plain=1#L37-L45) · `mkc-0209`
+- murari-kcc (A): Пракрама 4, сарга 9, шлоки 1–3 — [1–3](../murari-gupta/ru/4.09.md?plain=1#L5-L9) · `mkc-0212`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 248–315 (с 300+1 — 300+9, 302+1, 303+1, 306+1 — 306+3) — [248–315](../lochana/ru/49.md?plain=1#L133-L376) · `lcm-0241`
+- murari-kcc (A): Пракрама 4, сарга 9, шлоки 9–20 — [9–20](../murari-gupta/ru/4.09.md?plain=1#L21-L43) · `mkc-0214`
+- murari-kcc (A): Пракрама 4, сарга 10, шлоки 1–6 — [1–6](../murari-gupta/ru/4.10.md?plain=1#L5-L15) · `mkc-0215`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 316–338 — [316–338](../lochana/ru/50.md?plain=1#L7-L73) · `lcm-0242`
+- murari-kcc (A): Пракрама 4, сарга 10, шлоки 7–18 — [7–18](../murari-gupta/ru/4.10.md?plain=1#L17-L39) · `mkc-0216`
+- murari-kcc (A): Пракрама 4, сарга 10, шлоки 19–23 — [19–23](../murari-gupta/ru/4.10.md?plain=1#L41-L49) · `mkc-0217`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 339–411 (с 379+1 — 379+3) — [339–411](../lochana/ru/50.md?plain=1#L76-L303) · `lcm-0243`
+- murari-kcc (A): Пракрама 4, сарга 11, шлоки 1–17 — [1–17](../murari-gupta/ru/4.11.md?plain=1#L5-L35) · `mkc-0218`
+- murari-kcc (A): Пракрама 4, сарга 11, шлоки 18–25 — [18–25](../murari-gupta/ru/4.11.md?plain=1#L37-L51) · `mkc-0219`
+- murari-kcc (A): Пракрама 4, сарга 12, шлоки 1–13 — [1–13](../murari-gupta/ru/4.12.md?plain=1#L5-L29) · `mkc-0220`
 
 ## Билвавана: рассказ о Радхе и Младенце Кришне; Господь теряет сознание / Bilvavana: the story of Radha and baby Krishna; the Lord swoons  `ev-bilvavana-lord-swoons` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 164–171 — [164–171](../lochana/ru/48.md?plain=1#L247-L268) · `lcm-0236`
+- murari-kcc (A): Пракрама 4, сарга 6, шлоки 16–20 — [16–20](../murari-gupta/ru/4.06.md?plain=1#L35-L43) · `mkc-0205`
 
 ## Господь у Говардханы / The Lord at Govardhana  `ev-govardhana-visit` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 206–231 — [206–231](../lochana/ru/49.md?plain=1#L7-L82) · `lcm-0239`
+- murari-kcc (A): Пракрама 4, сарга 8, шлоки 1–7 — [1–7](../murari-gupta/ru/4.08.md?plain=1#L5-L17) · `mkc-0210`
+- murari-kcc (A): Пракрама 4, сарга 8, шлоки 8–18 — [8–18](../murari-gupta/ru/4.08.md?plain=1#L19-L39) · `mkc-0211`
 
 ## Роща ашок расцветает от взгляда Господа / An ashoka grove blossoms at the Lord's glance  `ev-ashoka-grove-blossoms` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 232–247 — [232–247](../lochana/ru/49.md?plain=1#L85-L130) · `lcm-0240`
+- murari-kcc (A): Пракрама 4, сарга 9, шлоки 4–8 — [4–8](../murari-gupta/ru/4.09.md?plain=1#L11-L19) · `mkc-0213`
 
 ## Жители Враджа видят в Господе Кришну / The people of Vraja see Krishna in the Lord  `ev-vraja-residents-see-krishna` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 412–433 — [412–433](../lochana/ru/50.md?plain=1#L306-L369) · `lcm-0244`
+- murari-kcc (A): Пракрама 4, сарга 12, шлоки 14–20 — [14–20](../murari-gupta/ru/4.12.md?plain=1#L31-L43) · `mkc-0221`
+- murari-kcc (A): Пракрама 4, сарга 13, шлоки 1–4 — [1–4](../murari-gupta/ru/4.13.md?plain=1#L5-L11) · `mkc-0222`
+
+## Встреча с Рупой Госвами в Праяге / Meeting with Rupa Gosvami at Prayaga  `ev-rupa-prayaga` (1514–1516, возраст 28–30, оценка)
+
+- lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 36–38 — [36–38](../lochana/ru/47.md?plain=1#L259-L265) · `lcm-0230`
+- murari-kcc (A): Пракрама 4, сарга 13, шлоки 5–10 — [5–10](../murari-gupta/ru/4.13.md?plain=1#L13-L23) · `mkc-0223`
+
+## Наставление Санатане Госвами в Каши / Instruction to Sanatana Gosvami in Kashi  `ev-sanatana-kashi-instruction` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 13, шлоки 11–21 — [11–21](../murari-gupta/ru/4.13.md?plain=1#L25-L45) · `mkc-0224`
 
 ## Милость к пастуху: кувшин пахты наполняется самоцветами / Mercy to a cowherd: the buttermilk pot fills with jewels  `ev-cowherd-buttermilk-jewels` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 1–21 (с 9+1 — 9+2, 13+1) — [1–21](../lochana/ru/51.md?plain=1#L11-L80) · `lcm-0245`
+- murari-kcc (A): Пракрама 4, сарга 13, шлоки 22–24 — [22–24](../murari-gupta/ru/4.13.md?plain=1#L47-L51) · `mkc-0225`
 
 ## Кулия и Навадвипа: встреча с Шачи / Kuliya and Navadvipa: meeting with Shachi  `ev-kuliya-shachi-meeting` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 22–56 (с 53+1 — 53+3) — [22–56](../lochana/ru/51.md?plain=1#L85-L196) · `lcm-0246`
+- murari-kcc (A): Пракрама 4, сарга 14, шлоки 1–7 — [1–7](../murari-gupta/ru/4.14.md?plain=1#L5-L17) · `mkc-0226`
+- murari-kcc (A): Пракрама 4, сарга 14, шлоки 9–11 — [9–11](../murari-gupta/ru/4.14.md?plain=1#L21-L25) · `mkc-0228`
+
+## Господь оставляет Вишнуприи Своё Божество / The Lord leaves His Deity with Vishnupriya  `ev-vishnupriya-deity` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 14, шлока 8 — [8–8](../murari-gupta/ru/4.14.md?plain=1#L19-L19) · `mkc-0227`
+
+## Божества Гауры и Нитьянанды в доме Гауридаса Пандита / The Deities of Gaura and Nityananda in Gauridasa Pandita's house  `ev-gauridasa-deities` (1514–1516, возраст 28–30, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 14, шлоки 12–17 — [12–17](../murari-gupta/ru/4.14.md?plain=1#L27-L37) · `mkc-0229`
 
 ## Снова у Адвайты в Шантипуре; возвращение в Пури / Again at Advaita's house in Shantipura; return to Puri  `ev-shantipura-second-visit` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 57–69 — [57–69](../lochana/ru/51.md?plain=1#L199-L235) · `lcm-0247`
+- murari-kcc (A): Пракрама 4, сарга 15, шлоки 1–7 — [1–7](../murari-gupta/ru/4.15.md?plain=1#L5-L17) · `mkc-0230`
+- murari-kcc (A): Пракрама 4, сарга 15, шлоки 12–21 — [12–21](../murari-gupta/ru/4.15.md?plain=1#L27-L45) · `mkc-0232`
 
-## Бедный брахман из Дравиды и Вибхишана / The poor brahmana from Dravida and Vibhishana  `ev-dravida-brahmana-vibhishana` (1516–1533, возраст 30–47, оценка)
+## Праздник памяти Мадхавендры Пури у Адвайты / Madhavendra Puri's memorial festival at Advaita's house  `ev-madhavendra-puri-aradhana` (1515–1516, возраст 29–30, оценка)
 
-- lochana-cm (B): Шеша-кханда, «Последние игры», 1–94 (с 29+1) — [1–94](../lochana/ru/52.md?plain=1#L11-L293) · `lcm-0249`
+- murari-kcc (A): Пракрама 4, сарга 15, шлоки 8–11 — [8–11](../murari-gupta/ru/4.15.md?plain=1#L19-L25) · `mkc-0231`
+
+## Божественное безумие Господа в бхаве Радхи (последние годы в Пури) / The Lord's divine madness in Radha's mood (the last years in Puri)  `ev-gambhira-divine-madness` (1516–1533, возраст 30–47, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 24, шлоки 1–14 — [1–14](../murari-gupta/ru/4.24.md?plain=1#L5-L31) · `mkc-0252`
+
+## Нитьянанда приходит из Гауды к Господу в Пури; беседа о бхакти Враджа / Nityananda comes from Gauda to the Lord in Puri; their talk on the bhakti of Vraja  `ev-nityananda-returns-to-puri` (1516–1533, возраст 30–47, оценка)
+
+- murari-kcc (A): Пракрама 4, сарга 24, шлоки 15–30 — [15–30](../murari-gupta/ru/4.24.md?plain=1#L33-L63) · `mkc-0253`
 
 ## Сокрытие Господа / The Lord's disappearance  `ev-lord-disappearance` (1533–1533, возраст 47–47, вероятно)
 

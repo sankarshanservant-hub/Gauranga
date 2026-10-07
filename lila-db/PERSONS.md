@@ -18,6 +18,7 @@
 | @gopala-remuna | Гопала (Гопинатха) в Ремуне | Gopala (Gopinatha) of Remuna | Божество; позднее известен как Кширачора-Гопинатха |
 | @jiyada-nrisimha | Джияда-Нрисимха (Божество в Симхачале) | Jiyada-Nrisimha (Deity at Simhachalam) | Вараха-Нрисимха |
 | @ranganatha-deity | Ранганатха (Божество в Шрирангаме) | Ranganatha (Deity at Shrirangam) | |
+| @gopinatha-deity-puri | Гопинатха (Тота-Гопинатха, Пури) | Gopinatha (Tota-Gopinatha, Puri) | Божество Кришны с флейтой, которому служил Гададхара Пандит |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -87,6 +88,29 @@
 | @narayani | Нараяни | Narayani | племянница Шривасы (дочь его брата), впоследствии мать Вриндавана Даса Тхакура |
 | @narayana-navadvipa | Нараяна (спутник Господа в Навадвипе) | Narayana (an associate of the Lord in Navadvipa) | Мурари 2.8.4, 2.9.13; возможно, Нараяна Пандит; не путать с @narayana |
 | @vijaya-dasa | Виджая Дас | Vijaya Dasa | преданный Навадвипы, переписчик книг; у Лочана Даса — «Виджая Мишра» (отождествление предположительно) |
+| @gopinatha-acharya | Гопинатха Ачарья | Gopinatha Acharya | брахман из Навадвипы, позднее в Пури (зять Сарвабхаумы по ЧЧ); у Мурари 3.4.34 созерцает тело Господа; возможно, тот же, что @gopinatha-navadvipa |
+| @gopala-bhatta | Гопала Бхатта (Госвами) | Gopala Bhatta (Gosvami) | из Шрирангама; у Мурари 3.15.15 — сын Трималлы Бхатты (по ЧЧ — сын Венкаты Бхатты); один из шести Госвами |
+| @vidya-vachaspati | Вачаспати (Видья-Вачаспати) | (Vidya-)Vachaspati | брахман у Ганги в Бенгалии; по ЧЧ — брат Сарвабхаумы; у него гостил Господь (Мурари 3.17.5, 14) |
+| @devananda-pandita | Девананда Пандит | Devananda Pandita | чтец «Бхагаватам» в Навадвипе, оскорбивший Шривасу; прощён по ходатайству Вакрешвары |
+| @achyutananda | Ачьютананда (Ачьюта) | Achyutananda (Achyuta) | сын Адвайты Ачарьи |
+| @kashishvara | Кашишвара | Kashishvara | спутник Господа (по ЧЧ — слуга в Пури, ученик Ишвары Пури) |
+| @raghava-pandita | Рагхава Пандит | Raghava Pandita | из Панихати; привозил Господу в Пури угощения («сумки Рагхавы») |
+| @shankara-pandita | Шанкара Пандит | Shankara Pandita | брат Дамодары Пандита |
+| @balabhadra-bhattacharya | Балабхадра Бхаттачарья | Balabhadra Bhattacharya | спутник Господа в странствии во Вриндаван; у Мурари — «Баладева» (4.01.11) |
+| @tapana-mishra | Тапана Мишра | Tapana Mishra | брахман из Восточной Бенгалии, по слову Господа поселившийся в Каши |
+| @raghunatha-bhatta | Рагхунатха Бхатта (Госвами) | Raghunatha Bhatta (Gosvami) | сын Тапаны Мишры; один из шести Госвами |
+| @chandrashekhara-vaidya | Чандрашекхара (лекарь в Каши) | Chandrashekhara (a physician of Kashi) | вайдья и писец в Каши, у которого жил Господь; не путать с @chandrashekhara-acharya |
+| @pundarika-vidyanidhi | Пундарика Видьянидхи | Pundarika Vidyanidhi | из Чаттограма; «сокровищница любви»; гуру Гададхары Пандита |
+| @shivananda-sena | Шивананда Сена | Shivananda Sena | из Кумарахатты; водил преданных Гауды в Пури |
+| @govinda-ghosha | Говинда Гхош | Govinda Ghosha | певец-киртания; брат Васу Гхоша |
+| @ramananda-vasu | Рамананда Васу | Ramananda Vasu | из Кулинаграмы |
+| @satyaraja-khan | Сатьяраджа Хан | Satyaraja Khan | из Кулинаграмы, отец Рамананды Васу |
+| @raghunatha-dasa | Рагхунатха Дас (Госвами) | Raghunatha Dasa (Gosvami) | из Саптаграмы; один из шести Госвами |
+| @brahmananda-bharati | Брахмананда Бхарати | Brahmananda Bharati | санньяси, спутник Господа в Пури |
+| @sundarananda | Сундарананда | Sundarananda | спутник Нитьянанды, один из двенадцати гопалов |
+| @purandara-pandita | Пурандара Пандит | Purandara Pandita | спутник Нитьянанды (Мурари 4.22.16) |
+| @uddharana-datta | Уддхарана Датта | Uddharana Datta | спутник Нитьянанды из Саптаграмы, из сословия торговцев |
+| @krishnadasa-badagachhi | Кришнадас (из Бадагачхи) | Krishnadasa (of Badagachhi) | спутник Нитьянанды; не путать с @krishnadasa-mathura |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -114,3 +138,10 @@
 | @vibhishana | Вибхишана | Vibhishana | брат Раваны, царь Ланки; по преданию, приходит видеть Джаганнатху |
 | @rama-muni-dravida | Рама (мудрец из Дравиды) | Rama (a sage of Dravida) | по Мурари 1.04.9–11 — прежнее рождение Харидаса: поднёс Господу неомытую туласи |
 | @kartikeya | Карттикея (Сканда) | Kartikeya (Skanda) | «Шестиликий», сын Шивы |
+| @nanda | Нанда (Махараджа) | Nanda (Maharaja) | царь пастухов Враджа, отец Кришны |
+| @yashoda | Яшода | Yashoda | мать Кришны во Врадже |
+| @vasudeva | Васудева (отец Кришны) | Vasudeva (Krishna's father) | не путать с @vasudeva-vipra, @vasudeva-datta |
+| @devaki | Деваки | Devaki | мать Кришны в Матхуре |
+| @kamsa | Камса | Kamsa | царь Матхуры, дядя Кришны |
+| @upananda | Упананда | Upananda | старший брат Нанды, старейшина пастухов |
+| @subhadra | Субхадра | Subhadra | сестра Кришны; Божество в Пури вместе с Джаганнатхой и Баларамой |
