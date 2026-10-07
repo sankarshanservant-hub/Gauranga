@@ -42,7 +42,7 @@ def bn2lat(s):
     from indic_transliteration import sanscript
     s = s.replace('\u09df', '\u09af\u09bc').replace('\u09dc', '\u09a1\u09bc').replace('\u09dd', '\u09a2\u09bc').replace('ৎ', 'ত্')
     d = ''.join(chr(ord(c) - 0x80) if '\u0980' <= c <= '\u09ff' else c for c in s)
-    return sanscript.transliterate(d, 'devanagari', 'iast').replace('r̤', 'ṛ').replace('॥', '||').replace('।', '|')
+    return sanscript.transliterate(d, 'devanagari', 'iast').replace('r̤', 'ṛ').replace('॥', '||').replace('।', '|').replace('~', 'ṁ')
 
 
 def load_bn(key):
