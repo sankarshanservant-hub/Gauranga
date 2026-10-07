@@ -2339,3 +2339,305 @@
   event: ev-ramananda-raya-godavari
   verses:
     - {file: "karnapura-mahakavya/ru/12.md", from: "130", to: "134"}
+
+
+- id: kcm-0123
+  source: karnapura-ckm
+  ref: "Сарга 13, 1–8"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 50
+  title: "Шрирангам: чатурмасья у Трималла Бхатты"
+  summary: "Идя на юг, Господь приходит в Шрирангам и проводит чатурмасью — четыре месяца дождей — в доме Трималла Бхатты; приходит осень."
+  persons: ["@mahaprabhu", "@trimalla-bhatta"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.15.9–18; ЧЧ Мадхья 1.108–109, 9.82–86"
+  notes: "В ЧЧ Мадхья 9 хозяин — Венката Бхатта (по преданию, брат Трималлы); в кратком пересказе Мадхья 1 — Трималла, как у Карнапуры."
+  themes: [pilgrimage]
+  calendar: "чатурмасья (сезон дождей)"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "1", to: "8"}
+
+- id: kcm-0124
+  source: karnapura-ckm
+  ref: "Сарга 13, 9–13"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 75
+  title: "Брахман-почитатель Рамы и призрачная Сита"
+  summary: "Брахман-почитатель Рамы скорбит о похищении Ситы Раваной; Господь утешает его стихами «Курма-пураны»: Агни создал призрачную Ситу, её и похитил Равана, а на испытании огнём Агни вернул настоящую Ситу."
+  persons: ["@mahaprabhu", "@ramadasa-vipra"]
+  places: []
+  kind: teaching
+  authority: A
+  parallels: "ЧЧ Мадхья 9.179–215"
+  divergence: "В ЧЧ Господь находит листы «Курма-пураны» позже, в Рамешвараме, и отдаёт их брахману на обратном пути; у Карнапуры стихи приводятся сразу."
+  themes: [teaching, pilgrimage]
+  scriptures: ["Курма-пурана (sītayārādhito vahniḥ…)"]
+  event: ev-maya-sita-kurma-purana
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "9", to: "13"}
+
+- id: kcm-0125
+  source: karnapura-ckm
+  ref: "Сарга 13, 14–16"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 60
+  title: "Встреча с Парамананда Пури"
+  summary: "Господь встречает Парамананду Пури, загаданного по слогам имени; оба радуются, затем Парамананда идёт в Пури, а Господь — к Сету."
+  persons: ["@mahaprabhu", "@paramananda-puri"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.15.19–25; ЧЧ Мадхья 9.168–174"
+  themes: [pilgrimage]
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "14", to: "16"}
+
+- id: kcm-0126
+  source: karnapura-ckm
+  ref: "Сарга 13, 17–19"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 70
+  title: "Избавление семи пальм"
+  summary: "В пути Господь видит семь высоких пальм-тал, обнимает их, и они уходят на небо."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: miracle
+  authority: A
+  parallels: "Мурари 3.16.1–2; ЧЧ Мадхья 9.312–315"
+  divergence: "В ЧЧ — на обратном пути с юга."
+  themes: [mercy, pilgrimage]
+  event: ev-saptatala-deliverance
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "17", to: "19"}
+
+- id: kcm-0127
+  source: karnapura-ckm
+  ref: "Сарга 13, 20–30"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 82.5
+  title: "Слуга Кришнадас и еретики"
+  summary: "Еретики соблазняют слугу Господа Кришнадаса, и Господь отвоёвывает его."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 9.226–231"
+  themes: [mercy]
+  event: ev-krishnadasa-bhattathari
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "20", to: "30"}
+
+- id: kcm-0128
+  source: karnapura-ckm
+  ref: "Сарга 13, 31–33"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 80
+  title: "Рамешвара у Сету; Господь поворачивает назад"
+  summary: "Господь приходит к Сету, к Рамешваре, и поворачивает в обратный путь."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.16.3–7; ЧЧ Мадхья 9"
+  themes: [pilgrimage, deities]
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "31", to: "33"}
+
+- id: kcm-0129
+  source: karnapura-ckm
+  ref: "Сарга 13, 34–49"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P11
+  order: 90
+  title: "Беседа с Раманандой на Годавари на обратном пути"
+  summary: "На обратном пути Господь встречает Рамананду; тот читает строфы об отрешённости и о поклонении — Господь отвечает «это внешнее»; затем Рамананда поёт песню pahilahi rāga… о единстве двоих влюблённых, Господь обнимает его, и несколько дней они говорят о пути переживания."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  parallels: "ЧЧ Мадхья 8.57–193; Мурари 3.15.1–5"
+  divergence: "В ЧЧ, у Мурари и в драме самого Карнапуры (ЧЧд акт 7) беседа — на пути на юг; в Махакавье — на обратном пути. Строфу nānopacāra Карнапура называет собственной строфой Рамананды; песню приводит с подписью, которой нет в ЧЧ."
+  themes: [teaching, krishna-lila]
+  bhava: [radha]
+  teaching: [bhakti-supremacy]
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "34", to: "49"}
+
+- id: kcm-0130
+  source: karnapura-ckm
+  ref: "Сарга 13, 50–59"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 60
+  title: "Возвращение в Пури; Снана-ятра и уход в Алаланатху"
+  summary: "Вернувшись в Пури, Господь видит Снана-ятру; когда Джаганнатха скрыт в анавасару, Господь в разлуке уходит в Алаланатху, и преданные ищут Его; Кала Кришнадаса отсылают в Бенгалию."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.16.8–18, 4.20.5–9; ЧЧ Мадхья 1.122, 10.62–70, 11.61–63"
+  themes: [jagannatha, separation]
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "50", to: "59"}
+
+- id: kcm-0131
+  source: karnapura-ckm
+  ref: "Сарга 13, 60–61"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 62
+  title: "Вторая чатурмасья с Раманандой"
+  summary: "Господь снова идёт на Годавари, проводит с Раманандой ещё четыре месяца и в предзимье возвращается вместе с ним в Пури."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari", "#puri"]
+  kind: lila
+  authority: A
+  parallels: ""
+  divergence: "В ЧЧ (Мадхья 11) Рамананда сам приезжает в Пури, а Господь остаётся там."
+  themes: [krishna-lila, pilgrimage]
+  calendar: "чатурмасья; возвращение — в предзимье (хеманта)"
+  event: ev-second-chaturmasya-ramananda
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "60", to: "61"}
+
+- id: kcm-0132
+  source: karnapura-ckm
+  ref: "Сарга 13, 62–71"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 2
+  title: "Каши Мишра, Вишнудас, Прадьюмна Мишра"
+  summary: "Каши Мишра видит Господа четырёхруким; Господу служат Вишнудас и Прадьюмна Мишра, которого Господь посылает слушать о Кришне у Рамананды."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@vishnudasa", "@pradyumna-mishra", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.131, 10.151; Антья 5.4–8"
+  themes: [revelation]
+  bhava: [aishvarya]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "62", to: "71"}
+
+- id: kcm-0133
+  source: karnapura-ckm
+  ref: "Сарга 13, 72–88"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 300
+  title: "Танец в роще; милость к Пратапарудре"
+  summary: "В роще, напоминающей Вриндаван, Господь танцует среди лиан-танцовщиц; туда приходит Гаджапати Пратапарудра и славит Его танец, как танец раса; Господь обнимает его, и на вопрос «Кто ты?» царь отвечает: «Твой слуга»."
+  persons: ["@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.16; ЧЧ Мадхья 14.4–16"
+  divergence: "В ЧЧ царь в одежде вайшнава читает «Гопи-гиту» в саду после Ратха-ятры; у Карнапуры он славит танец Господа, и встреча предшествует приходу бенгальских преданных."
+  themes: [mercy, krishna-lila]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "72", to: "88"}
+
+- id: kcm-0134
+  source: karnapura-ckm
+  ref: "Сарга 13, 89–109"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 7
+  title: "Сон Шикхи Махити"
+  summary: "Писец храма Шикхи Махити, его брат Мурари и сестра Мадхави-деви преданы Господу; Шикхи видит во сне, как Гаурахари входит в Джаганнатху и выходит из Него, а затем встречает Господа в Джаганмохане и получает Его объятие."
+  persons: ["@mahaprabhu", "@shikhi-mahiti", "@murari-mahiti", "@madhavi-devi", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Ади 10.135–136, Антья 2.104–106 (без сна)"
+  themes: [revelation, jagannatha]
+  event: ev-shikhi-mahiti-dream
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "89", to: "109"}
+
+- id: kcm-0135
+  source: karnapura-ckm
+  ref: "Сарга 13, 110–126"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 5
+  title: "Приход бенгальцев: Парамананда Пури, Гададхара, Джагадананда"
+  summary: "Карнапура рассказывает о роде Мадхавендры и Ишвары Пури; Парамананда Пури гостит в Навадвипе у Шачи и Ачарьяратны и приходит в Пури с Гададхарой и Джаганандой; Господь кланяется ему; приходят Видьянидхи и Ачарьяратна."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@shachi", "@chandrashekhara-acharya", "@gadadhara-pandita", "@jagadananda-pandita", "@pundarika-vidyanidhi", "@kamalananda"]
+  places: ["#navadvipa", "#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.01.1–5; ЧЧ Мадхья 10.124–128"
+  divergence: "В ЧЧ Гададхара приходит с бенгальцами к Ратха-ятре (Мадхья 11.84); сама Махакавья в 11.76 уже называет его спутником Господа на пути в Пури."
+  themes: [family]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "110", to: "126"}
+
+- id: kcm-0136
+  source: karnapura-ckm
+  ref: "Сарга 13, 127–136"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 5
+  title: "Шивананда, Рагхава, Говинда, Бхавананда и его сыновья"
+  summary: "Шивананда приходит с Мурари Гуптой, и Господь касается его головы: «Я тебя знаю»; приходит Рагхава; Говинда становится слугой Господа; Бхавананду Господь называет Панду, а его пятерых сыновей — Пандавами; Ванинатха."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@murari-gupta", "@raghava-pandita", "@govinda-servant", "@bhavananda-raya", "@vaninatha-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 10.51–53, 10.131–148"
+  themes: [mercy]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "127", to: "136"}
+
+- id: kcm-0137
+  source: karnapura-ckm
+  ref: "Сарга 13, 137–144"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 5
+  title: "Пурушоттама Ачарья становится Сварупой Дамодарой"
+  summary: "Пурушоттама Ачарья, приняв отречение, становится Сварупой Дамодарой — «самой природой расы» — и приходит к Господу."
+  persons: ["@mahaprabhu", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 10.102–125"
+  themes: [sannyasa]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "137", to: "144"}
+
+- id: kcm-0138
+  source: karnapura-ckm
+  ref: "Сарга 13, 145–148"
+  file: "karnapura-mahakavya/ru/13.md"
+  period: P12
+  order: 5
+  title: "Вакрешвара, Васудева Датта, Бхагаван Ачарья; молва о Господе"
+  summary: "К Господу приходят плясун Вакрешвара, Васудева Датта и Бхагаван Ачарья; молва разносится, и приходят Сатьяраджа, Рагхунандана, Нарахари и Мукунда."
+  persons: ["@mahaprabhu", "@vakreshvara", "@vasudeva-datta", "@bhagavan-acharya", "@satyaraja-khan", "@raghunandana", "@narahari-sarakara", "@mukunda-dasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.17; Мадхья 10.89–90, 11.91–92; Антья 2.84–100"
+  themes: [kirtan]
+  event: ev-devotees-gather-nilachala
+  verses:
+    - {file: "karnapura-mahakavya/ru/13.md", from: "145", to: "148"}
