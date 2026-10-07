@@ -313,3 +313,14 @@
 | কাশীমিশ্র | Каши Мишра | Kashi Mishra |
 | গোবিন্দ (সেবক) | Говинда (слуга Господа) | Govinda (the Lord's servant) |
 | ষড়ভুজ | шестирукий облик (шадбхуджа) | the six-armed form (shadbhuja) |
+| সুহই, বরাড়ী, ধানশী (রাগ) | сухаи, варади, дханаши | suhai, varadi, dhanashi |
+| শেষলীলা | последние игры (Шеша-лила) | the final pastimes (Shesha-lila) |
+| দ্রাবিড় | Дравида | Dravida |
+| রাম (দ্রাবিড়ী বিপ্র) | Рама (брахман из Дравиды) | Rama (a brahmana from Dravida) |
+| ধন্বন্তরি | Дханвантари | Dhanvantari |
+| গুঞ্জাবাড়ী | Гунджабади | the Gunjabadi |
+| গৌরীদাস, বাসুদত্ত | Гауридас (Пандит), Васу Датта (Васудева Датта) | Gauridasa (Pandita), Vasu Datta (Vasudeva Datta) |
+| লীন (о Господе) | вошёл, слился (антардхана, сокрытие) | entered, merged (antardhana, concealment) |
+| কোগ্রাম | Ко-грам | Kogram |
+| সদানন্দী, কমলাকর দাস | Садананди, Камалакара Дас (родители Лочана Даса) | Sadanandi, Kamalakara Dasa (Lochana Dasa's parents) |
+| অভয়া দাসী, পুরুষোত্তম গুপ্ত | Абхая Даси, Пурушоттама Гупта (бабушка и дед по матери) | Abhaya Dasi, Purushottama Gupta (maternal grandparents) |
