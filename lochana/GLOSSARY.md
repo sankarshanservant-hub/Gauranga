@@ -329,3 +329,11 @@
 | উদ্বর্তন | благовонная мазь (удвартана) | fragrant paste (udvartana) |
 | নরক (অসুর), বিদর্ভ | Нарака (Бхаумасура), Видарбха | Naraka (Bhaumasura), Vidarbha |
 | বাধাই | праздничная музыка (бадхаи) | festive music (badhai) |
+| আই | Аи (матушка Шачи) | Ai (mother Shachi) |
+| বলাই, দাদা | Балай (Баларама), старший брат | Balai (Balarama), elder brother |
+| দাম, বসুদাম | Дама, Васудама (пастушки) | Dama, Vasudama (cowherd boys) |
+| শ্যামলী | Шьямали (корова) | Shyamali (a cow) |
+| পাচনী | пастуший посох (пачани) | herdsman's stick (pachani) |
+| গুঞ্জার মালা | гирлянда из гунджи | gunja garland |
+| লৌহদণ্ড | железный посох (Нитьянанды) | iron staff (Nityananda's) |
+| কায়স্থ | писец (каястха) | scribe (kayastha) |
