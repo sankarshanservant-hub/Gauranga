@@ -6636,7 +6636,19 @@
     "to": "2:35"
    }
   ],
-  "verses_resolved": [],
+  "verses_resolved": [
+   {
+    "file": "lochana/ru/26.md",
+    "from": "1",
+    "to": "2:35",
+    "line": 226,
+    "line_to": 328,
+    "count": 35,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/26.md?plain=1#L226-L328",
+    "file_en": "lochana/en/26.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/26.md?plain=1#L226-L328"
+   }
+  ],
   "years": [
    1509,
    1510
@@ -9020,7 +9032,19 @@
     "to": "2:58"
    }
   ],
-  "verses_resolved": [],
+  "verses_resolved": [
+   {
+    "file": "lochana/ru/33.md",
+    "from": "20",
+    "to": "2:58",
+    "line": 213,
+    "line_to": 327,
+    "count": 39,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/33.md?plain=1#L213-L327",
+    "file_en": "lochana/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/33.md?plain=1#L213-L327"
+   }
+  ],
   "years": [
    1509,
    1510

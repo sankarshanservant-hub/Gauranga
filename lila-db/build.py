@@ -51,15 +51,15 @@ def labels(path):
 
 
 def find(lab, path, start=0):
-    """Индекс стиха с меткой lab ('25' или '2:25' — k-е вхождение), считая от позиции start."""
+    """Индекс стиха с меткой lab. '25' — первое вхождение начиная с позиции start; '2:25' — второе вхождение
+    в файле (считая от начала файла), не раньше start."""
     L = labels(path)
-    k, v = (lab.split(':', 1) if ':' in lab else ('1', lab))
-    n = 0
-    for i in range(start, len(L)):
-        if L[i][0] == v:
-            n += 1
-            if n == int(k): return i
-    return None
+    if ':' in lab:
+        k, v = lab.split(':', 1)
+        idx = [i for i, (l, _) in enumerate(L) if l == v]
+        i = idx[int(k) - 1] if len(idx) >= int(k) else None
+        return i if i is not None and i >= start else None
+    return next((i for i in range(start, len(L)) if L[i][0] == lab), None)
 
 
 def resolve_verses(e, where, errors):

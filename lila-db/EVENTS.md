@@ -365,7 +365,7 @@
 
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
-- lochana-cm (B): Мадхья-кханда, «Истина об Адвайте», 1–35 —  · `lcm-0116`
+- lochana-cm (B): Мадхья-кханда, «Истина об Адвайте», 1–35 — [1–2:35](../lochana/ru/26.md?plain=1#L226-L328) · `lcm-0116`
 
 ## Господь излагает путь знания и возвещает высшее — бхакти / The Lord expounds the path of knowledge and proclaims bhakti supreme  `ev-jnana-path-bhakti-supreme` (1509–1510, возраст 23–24, оценка)
 
@@ -490,7 +490,7 @@
 ## Бхава Баларамы: «Дайте мёду!» / The mood of Balarama: "Bring Me honey!"  `ev-balarama-bhava` (1509–1510, возраст 23–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Махапрабху в Своих бхавах раздаёт прему», 1–19 — [1–19](../lochana/ru/33.md?plain=1#L156-L210) · `lcm-0149`
-- lochana-cm (B): Мадхья-кханда, «Махапрабху в Своих бхавах раздаёт прему», 20–58 —  · `lcm-0150`
+- lochana-cm (B): Мадхья-кханда, «Махапрабху в Своих бхавах раздаёт прему», 20–58 — [20–2:58](../lochana/ru/33.md?plain=1#L213-L327) · `lcm-0150`
 
 ## Господь просит Свою флейту / The Lord asks for His flute  `ev-flute-request` (1509–1510, возраст 23–24, оценка)
 
