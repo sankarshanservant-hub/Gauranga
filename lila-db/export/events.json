@@ -4817,12 +4817,14 @@
   "entries": [
    "ccd-0024",
    "lcm-0127",
-   "mkc-0095"
+   "mkc-0095",
+   "pad-0060"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6416,7 +6418,8 @@
    "jcm-0062",
    "lcm-0172",
    "mkc-0130",
-   "pad-0016"
+   "pad-0016",
+   "pad-0069"
   ],
   "sources": [
    "chaitanya-chandrodaya",
@@ -6454,7 +6457,8 @@
    "ccd-0036",
    "lcm-0173",
    "mkc-0131",
-   "pad-0017"
+   "pad-0017",
+   "pad-0070"
   ],
   "sources": [
    "chaitanya-chandrodaya",
@@ -6560,6 +6564,8 @@
    "lcm-0175",
    "mkc-0128",
    "pad-0050",
+   "pad-0071",
+   "pad-0072",
    "lcm-0176",
    "lcm-0177",
    "lcm-0178",
@@ -6613,13 +6619,15 @@
    "ccd-0039",
    "lcm-0185",
    "mkc-0139",
+   "pad-0073",
    "mkc-0141"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -6688,6 +6696,8 @@
    "jcm-0064",
    "lcm-0187",
    "mkc-0143",
+   "pad-0074",
+   "pad-0075",
    "lcm-0188"
   ],
   "sources": [
@@ -6695,7 +6705,8 @@
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "padas"
   ]
  },
  {
@@ -11078,6 +11089,8 @@
    "lcm-0246",
    "mkc-0226",
    "pad-0023",
+   "pad-0077",
+   "pad-0078",
    "mkc-0228"
   ],
   "sources": [
@@ -15785,7 +15798,8 @@
    "pad-0044",
    "pad-0045",
    "pad-0046",
-   "pad-0047"
+   "pad-0047",
+   "pad-0063"
   ],
   "sources": [
    "padas"
@@ -15854,7 +15868,8 @@
   ],
   "entries": [
    "pad-0011",
-   "pad-0012"
+   "pad-0012",
+   "pad-0066"
   ],
   "sources": [
    "padas"
@@ -16105,7 +16120,8 @@
   ],
   "entries": [
    "pad-0030",
-   "pad-0031"
+   "pad-0031",
+   "pad-0076"
   ],
   "sources": [
    "padas"
@@ -16137,6 +16153,70 @@
   ],
   "entries": [
    "pad-0029"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-gaura-beauty-navadvipa",
+  "title": "Облик Гауранги в Навадвипе (песни очевидцев о красоте Господа)",
+  "title_en": "Gauranga's form in Navadvipa (eyewitness songs of the Lord's beauty)",
+  "period": "P07",
+  "order": 133.5,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пады Говинды Гхоша об облике Гауры (ПК 1029, 2146) — впечатление очевидца навадвипского периода",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "author",
+   "ecstasy"
+  ],
+  "notes": "Собирательное событие для пад-описаний красоты Господа (рупа) в Навадвипе.",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0061",
+   "pad-0062"
+  ],
+  "sources": [
+   "padas"
+  ]
+ },
+ {
+  "id": "ev-jhulana-navadvipa",
+  "title": "Джхулан: Господь на качелях на берегу Ганги (Навадвипа)",
+  "title_en": "Jhulana: the Lord on the swing by the Ganga (Navadvipa)",
+  "period": "P07",
+  "order": 134.75,
+  "years": [
+   1509,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: пада Васу Гхоша о джхулане (ПК 1550) — свидетельство очевидца; навадвипский период",
+  "calendar": "шравана, светлая половина (джхулан-ятра)",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "Преданные раскачивают Господа на качелях, горожане сбегаются на киртан; известно по падам (Васу Гхош, Нарахари, Уддхава Дас).",
+  "age": [
+   23,
+   23
+  ],
+  "entries": [
+   "pad-0064",
+   "pad-0065"
   ],
   "sources": [
    "padas"
