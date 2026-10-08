@@ -1046,3 +1046,157 @@
   event: ev-shrivasa-dead-son-speaks
   verses:
     - {file: "gaura-krishnodaya/ru/05.md", from: "49", to: "50"}
+
+- id: gkd-0054
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 1–3"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P07
+  order: 139
+  title: "Оскорбления студентов: решение принять санньясу"
+  summary: "Обруганный студентами, Господь решает: если оскорбители погибнут, что пользы в Его милости; санньяси они будут кланяться и так спасутся."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [sannyasa, offense, mercy]
+  event: ev-students-offend-sannyasa-resolve
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "1", to: "3"}
+
+- id: gkd-0055
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 4–6"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P07
+  order: 144
+  title: "Беседа с Шачи: «мир подобен смерти»"
+  summary: "Ночью Господь говорит матери, что мир страшен, как смерть, и спасение — в служении стопам Хари; Шачи, видя в Нём будущего отшельника, молчит."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья-кханда"
+  cc: "Ади 17"
+  themes: [family, sannyasa]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "4", to: "6"}
+
+- id: gkd-0056
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 7–17"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P07
+  order: 153
+  title: "Последние дни с Вишнуприей; уход на рассвете"
+  summary: "Несколько дней Господь проводит с Вишнуприей, которая служит Ему как Хари; ночью Он наставляет её: Господь разлучает любящих, ум надо поместить в Хари; утешив её, на рассвете Он уходит, оставив её спящей."
+  persons: ["@mahaprabhu", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Мадхья-кханда; Мурари; Лочана Дас"
+  themes: [family, separation, sannyasa]
+  teaching: [bhakti-supremacy]
+  event: ev-last-night-vishnupriya
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "7", to: "17"}
+
+- id: gkd-0057
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 18–22"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P08
+  order: 40
+  title: "Санньяса у Кешавы Бхарати в Катве"
+  summary: "Мукунда, Чандрашекхара и Нитьянанда следуют за Господом; в Катве Кешава Бхарати даёт Ему санньясу: кудри острижены, шикха и шнур сохранены; в конце 24-го года, в светлую половину магхи, получив вайшнавское посвящение, Господь с посохом и каупиной отправляется к Гокуле."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@nityananda", "@mukunda-datta", "@chandrashekhara-acharya"]
+  places: ["#katwa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17; Мадхья 3"
+  cc: "Мадхья 3"
+  calendar: "магха, светлая половина"
+  themes: [sannyasa]
+  divergence: "Подчёркнуто сохранение шикхи и шнура и «вайшнавское» посвящение."
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "18", to: "22"}
+
+- id: gkd-0058
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 23–28"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P09
+  order: 10
+  title: "Три дня в Радха-деше; пастушки указывают «путь во Враджу»"
+  summary: "Три дня Господь в экстазе скитается по Радха-деше; встретив Нитьянанду и спутников, Он просит пастушков показать путь во Вриндаван, а те по наущению авадхуты указывают путь к Ганге. Нитьянанда посылает Чандрашекхару к Адвайте и за Шачи в Навадвипу."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@mukunda-datta"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3"
+  cc: "Мадхья 3"
+  themes: [sannyasa, pilgrimage]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "23", to: "28"}
+
+- id: gkd-0059
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 29–37"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P09
+  order: 25
+  title: "Ганга вместо Ямуны; Адвайта на лодке: «Вриндаван — где Ты»"
+  summary: "Господь бросается в Гангу, считая её Ямуной; спутники смеются: Он тонет в воде, текущей с Его стопы. Адвайта приплывает на лодке, даёт сухую одежду и объясняет, что Вриндаван — там, где Господь; Господь, поняв обман Нитьянанды, переправляется в Шантипур."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@mukunda-datta"]
+  places: ["#ganga", "#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3"
+  cc: "Мадхья 3"
+  themes: [sannyasa, revelation]
+  event: ev-advaita-boat-ganga-vrindavana
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "29", to: "37"}
+
+- id: gkd-0060
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 38–54"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P09
+  order: 40
+  title: "Шантипур: угощение у Адвайты и шутки с Нитьянандой"
+  summary: "Жители Шантипура в восторге окружают Господа; Сита готовит огромное угощение; Господь просит малого, Адвайта настаивает; Нитьянанда жалуется на скудость, Адвайта называет его пахарем-обжорой, тот швыряет рис, и Адвайта пляшет в экстазе; затем киртан."
+  persons: ["@mahaprabhu", "@advaita", "@sita-thakurani", "@nityananda", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3"
+  cc: "Мадхья 3"
+  themes: [prasada, kirtan]
+  event: ev-advaita-feast-shantipura
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "38", to: "54"}
+
+- id: gkd-0061
+  source: gaura-krishnodaya
+  ref: "Сарга 6, 55–60"
+  file: "gaura-krishnodaya/ru/06.md"
+  period: P09
+  order: 45
+  title: "Шачи и преданные Навадвипы в Шантипуре"
+  summary: "Через десять дней Ачарья-ратна приводит Шачи в паланкине и горожан; Господь падает к ногам матери, она обнимает Его, остриженного; Он поднимает и утешает всех — Вакрешвару, Шриваса, Шридхару, Видьянидхи, Гангадаса и других; Адвайта принимает гостей, Господь проводит дни в киртане, а Шачи заботится о Нём."
+  persons: ["@mahaprabhu", "@shachi", "@chandrashekhara-acharya", "@advaita", "@vakreshvara", "@srivasa", "@shridhara", "@pundarika-vidyanidhi", "@gangadasa-pandita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3"
+  cc: "Мадхья 3"
+  themes: [family, kirtan]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "gaura-krishnodaya/ru/06.md", from: "55", to: "60"}
