@@ -18,3 +18,10 @@ for lang in ('ru', 'en'):
     open(path, 'w', encoding='utf-8').write(out)
     nums = [l for l in out.splitlines() if l.startswith('**') and l[2:3].isdigit()]
     print(lang, 'стихов:', len(nums), 'последний:', nums[-1].split('**')[1] if nums else '-')
+import re as _re
+for lang in ('ru', 'en'):
+    t = open(os.path.join(HERE, lang, nn + '.md'), encoding='utf-8').read()
+    for m in _re.finditer(r'\S*([А-Яа-яЁё][A-Za-z]|[A-Za-z][А-Яа-яЁё])\S*', t):
+        print('!! смешение алфавитов:', lang, m.group(0))
+    if lang == 'en' and _re.search(r'[А-Яа-яЁё]', t):
+        print('!! кириллица в EN')
