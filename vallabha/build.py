@@ -1,5 +1,6 @@
-"""Собирает перевод мест о Шри Чайтанье из валлабхской литературы (ru/en: 00 — предисловие, 01 — варты,
-02 — «Валлабха-дигвиджая» Ядунатхи) в MD, DOCX и PDF.
+"""Собирает книгу «Шри Чайтанья в текстах других традиций» (ru/en: 00 — предисловие, 01 — варты,
+02 — «Валлабха-дигвиджая» Ядунатхи, 03 — «Бхактамалы» Набхадаса, Дхрувадаса, Рагхавдаса, 04 — кавитты Приядаса)
+в MD, DOCX и PDF.
 Использует функции разбора и вёрстки из ../govinda-kadacha/build.py (как nityananda-vamsha/build.py);
 деванагари внутри строк (цитаты оригинала в примечаниях) набирается шрифтом Noto Serif Devanagari.
 Запуск: python3 build.py [ru|en].
@@ -11,12 +12,12 @@ spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'go
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
 
 META = {
-    'ru': dict(out='Vallabha-Episodes-ru', title='Шри Чайтанья в преданиях валлабхской традиции',
-               author='Варты и «Валлабха-дигвиджая» (рус. пер.)', toc='Оглавление'),
-    'en': dict(out='Vallabha-Episodes-en', title='Sri Chaitanya in the Traditions of the Vallabha School',
-               author='The Vartas and the Vallabha-digvijaya (Eng. tr.)', toc='Contents'),
+    'ru': dict(out='Other-Traditions-ru', title='Шри Чайтанья в текстах других традиций',
+               author='Валлабхские варты, «Бхактамалы», Приядас (рус. пер.)', toc='Оглавление'),
+    'en': dict(out='Other-Traditions-en', title='Sri Chaitanya in the Texts of Other Traditions',
+               author='Vallabha vartas, the Bhaktamals, Priyadas (Eng. tr.)', toc='Contents'),
 }
-KEYS = ['00', '01', '02']
+KEYS = ['00', '01', '02', '03', '04']
 
 # --- деванагари: при разборе прячем её в область частного использования, чтобы kb.parse не принял абзац
 # с цитатой за «блок оригинала»; после разбора возвращаем.
