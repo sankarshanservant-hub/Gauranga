@@ -25,7 +25,7 @@
 **4.47.** For two and a half praharas the two remained in each other's embrace.[^prahara]  
 **4.48.** Then, sitting together, they praised one another.  
 **4.49.** Chaitanya called him 'Swami', and he himself called Him 'Prabhu'.[^swami]  
-**4.50.** As a river merging with the ocean — the waves of bhava surged high.[^uchhul]  
+**4.50.** As a river merging with the ocean — the waves of bhava rose high.[^uchhul]  
 **4.51.** He met with Sarvabhauma and studied the shastras with him.  
 **4.52.** Sarvabhauma, a great logician, versed in nyaya, deeply learned,[^sarva]  
 **4.53.** held many learned disputations with the Lord in the Kshetra.  
@@ -43,7 +43,7 @@
 **4.65.** Having bathed and purified Himself, He had spread His seat at the foot of a tree.[^godavari]  
 **4.66.** His lustre was by nature golden — one might mistake Him for the rising sun.  
 **4.67.** As if fashioned of gold, His body shone fair.  
-**4.68.** His arms reached to His knees; His wide eyes were brimming (?).[^ajanu]  
+**4.68.** His arms reached to His knees; His wide eyes were lifted up (?).[^ajanu]  
 **4.69.** A brahminical radiance flashed from Him; a sweet smile flowed from His lips.  
 **4.70.** At this time Ramaraya came in state [to the river] and was bathing at the ghat,[^ramananda]  
 **4.71.** with his retinue; herald-drums and kettledrums resounded.[^tamaka]  
@@ -70,7 +70,7 @@
 [^humility]: Mahaprabhu's words that He cannot obtain Jagannatha Dasa's bhava show the humility with which the Lord, playing the part of a devotee, extols His devotees (cf. His praise of Ramananda Raya in CC Madhya 8). According to the Gaudiya teaching followed by Bhaktisiddhanta Sarasvati, Sri Chaitanya is Krishna Himself in the form and mood of a devotee; in exalting a devotee He teaches humility, not that anyone is above Him.
 [^prahara]: A prahara is a 'watch', an eighth of a day (≈3 hours); two and a half praharas ≈ seven and a half hours. The reading କୋଲାଗ୍ରତେ is uncertain (one would expect କୋଳାଗତେ, 'in embrace').
 [^swami]: That is, Chaitanya respectfully called Jagannatha Dasa 'swami', and he called Him 'Prabhu', 'Lord'. So the Oriya tradition expresses their mutual regard.
-[^uchhul]: The reading ଉଭରିଲ (ubharila) rests on the agreement of passes A and B and on the same verb in v. 68 (ଉଭରି); the meaning 'brim over, surge' is from context (cf. ଉଛୁଳିବା 'to overflow'); the word is not in Brooks.
+[^uchhul]: The reading ଉଭରିଲ (ubharila) rests on the agreement of passes A and B and on the same verb in v. 68 (ଉଭରି). Cf. Purnachandra (vol. 1, PDF leaf 1045): ଉଭା 'standing, erect', ଉଭାରିବା 'to raise, lift; to stand up' (with a quotation from Jagannatha Dasa's Bhagavata); hence 'the waves of bhava rose up'. Not in Brooks.
 [^sarva]: Vasudeva Sarvabhauma Bhattacharya — the famous Naiyayika (logician of the Nyaya school), court pandit of Prataparudra (CC Madhya 6).
 [^sattvika]: Sattvika bhavas — the eight bodily signs of ecstatic love: stupor, perspiration, horripilation, faltering voice, trembling, change of colour, tears and fainting (Bhakti-rasamrita-sindhu 2.3).
 [^svayam]: In CC (Madhya 6) Sarvabhauma recognises Mahaprabhu as the Lord when He shows him His six-armed form, and composes verses in His praise; in Madhava, Sarvabhauma's awakening comes from the sight of the Lord's sattvika bhavas.
@@ -82,7 +82,7 @@
 [^ajanu]: 'Arms reaching to the knees' (ājānu-lambita-bhuja) is one of the marks of a mahapurusha; Madhava describes the Lord as Ramananda sees Him, cf. the description in CC Madhya 8 (effulgence like many suns, lotus eyes). The meaning of ଉଭରି (ubhari) is from context.
 [^ramananda]: Ramananda Raya — son of Bhavananda Raya, governor of Rajamahendri under Prataparudra; Madhava served under him (ch. 3). ବଜେ (baje) is taken as ବିଜେ (bije) — the honorific 'deigns to go, proceeds' (of kings and Deities). The literal sense of v. 70 is not wholly clear.
 [^tamaka]: Ṭamaka — the herald's drum, niśāṇa — great kettledrums: as governor of the region Ramananda goes out with music and retinue; cf. CC Madhya 8 (he comes to bathe in a palanquin, with music and brahmanas).
-[^dola]: ହାଣ୍ଡୋଳା (hāṇḍoḷā?) — uncertain reading; by context a palanquin (cf. CC Madhya 8: dolāya caḍi', 'seated in a palanquin'). ବଜେକ = ବିଜେ with the particle -କ (cf. କଲେକ, ହେଲେକ in this same text).
+[^dola]: ହାଣ୍ଡୋଳା (hāṇḍoḷā?) — the conjunct is uncertain. In Purnachandra (vol. 7, PDF leaf 1171) ହାଣ୍ଡୋଳା is 'a small burnt earthen temple for village Deities', which does not fit here; by context a palanquin or litter is expected (cf. CC Madhya 8: dolāya caḍi', 'seated in a palanquin'; Oriya ଦୋଳା, ହିନ୍ଦୋଳା). The rendering 'palanquin' is provisional. ବଜେକ = ବିଜେ with the particle -କ (cf. କଲେକ, ହେଲେକ in this same text).
 [^tumi]: Cf. CC Madhya 8: Mahaprabhu asks, 'Are you Raya Ramananda?' and, hearing 'yes', embraces him.
 [^cloud]: Golden Gauranga and dark Ramananda — 'lightning and a cloud', a traditional image (in CC both weep with love at this meeting and fall to the ground).
 [^tendays]: According to CC (Madhya 8), Mahaprabhu spent about ten days with Ramananda in talks about Krishna.

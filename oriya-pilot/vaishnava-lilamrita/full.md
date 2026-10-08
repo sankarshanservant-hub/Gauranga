@@ -191,8 +191,8 @@ CONF: B — сомнительно (?)
 OR:
 ସମୁଦ୍ରେ ନଦୀ ସେ ମିଶିଲ ॥ ଭାବ ତରଙ୍ଗ ଉଭରିଲ ।୫୦।
 TR: samudre nadī se miśila ‖ bhāba taraṅga ubharila
-WFW-RU: samudre — в океане; nadī — река; se — та; miśila — слилась; bhāba taraṅga — волны бхавы; ubharila — вздыбились, перелились через край
-WFW-EN: samudre — in the ocean; nadī — the river; se — that; miśila — merged; bhāba taraṅga — waves of bhava; ubharila — surged, brimmed over
+WFW-RU: samudre — в океане; nadī — река; se — та; miśila — слилась; bhāba taraṅga — волны бхавы; ubharila — поднялись, вздыбились (ubhāribā — поднимать(ся))
+WFW-EN: samudre — in the ocean; nadī — the river; se — that; miśila — merged; bhāba taraṅga — waves of bhava; ubharila — rose up, surged (ubhāribā — to raise, rise)
 CONF: B — сомнительно (?)
 
 ### 4.51
@@ -337,8 +337,8 @@ CONF: A — уверенно
 OR:
 ବାହୁ ଲମ୍ବଇ ଜାନୁ ସରି ॥ ଆୟତ ଲୋଚନ ଉଭରି ।୬୮।
 TR: bāhu lambaï jānu sari ‖ āẏata locana ubhari
-WFW-RU: bāhu — руки; lambai — простираются; jānu sari — до колен; āẏata — широкие, продолговатые; locana — очи; ubhari (?) — переполненные, налитые (?)
-WFW-EN: bāhu — arms; lambai — extend; jānu sari — to the knees; āẏata — wide, long; locana — eyes; ubhari (?) — brimming, full (?)
+WFW-RU: bāhu — руки; lambai — простираются; jānu sari — до колен; āẏata — широкие, продолговатые; locana — очи; ubhari (?) — поднятые (?) (ubhāribā — поднимать)
+WFW-EN: bāhu — arms; lambai — extend; jānu sari — to the knees; āẏata — wide, long; locana — eyes; ubhari (?) — raised (?) (ubhāribā — to raise)
 CONF: B — сомнительно (?)
 
 ### 4.69
@@ -369,8 +369,8 @@ CONF: A — уверенно
 OR:
 ଘାଟରୁ ଉଠେ ରାମରାୟ ॥ ହାଣ୍ଡୋଳାରେ ବଜେକ ରାୟ ।୭୨।
 TR: ghāṭaru uṭhe rāmarāẏa ‖ hāṇḍoḷāre bajeka rāẏa
-WFW-RU: ghāṭaru — с гхата; uṭhe — поднимается; rāmarāẏa — Рамарая; hāṇḍoḷāre (?) — в паланкине; bajeka [= bije-ka] — шествует (почтит.; -ka — частица прош. вр., ср. kaleka, heleka); rāẏa — Рай
-WFW-EN: ghāṭaru — from the ghat; uṭhe — rises; rāmarāẏa — Ramaraya; hāṇḍoḷāre (?) — in the palanquin; bajeka [= bije-ka] — proceeded (hon.; -ka — past particle, cf. kaleka, heleka); rāẏa — the Raya
+WFW-RU: ghāṭaru — с гхата; uṭhe — поднимается; rāmarāẏa — Рамарая; hāṇḍoḷāre (??) — в паланкине (?; по «Пурначандре» hāṇḍoḷā — глиняный храмик, не подходит); bajeka [= bije-ka] — шествует (почтит.; -ka — частица прош. вр., ср. kaleka, heleka); rāẏa — Рай
+WFW-EN: ghāṭaru — from the ghat; uṭhe — rises; rāmarāẏa — Ramaraya; hāṇḍoḷāre (??) — in the palanquin (?; Purnachandra: hāṇḍoḷā — small earthen shrine, does not fit); bajeka [= bije-ka] — proceeded (hon.; -ka — past particle, cf. kaleka, heleka); rāẏa — the Raya
 CONF: B — сомнительно (?)
 
 ### 4.73
