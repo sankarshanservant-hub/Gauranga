@@ -2851,6 +2851,10 @@
 - murari-kcc (A): Пракрама 4, сарга 1, шлоки 14–19 — [14–19](../murari-gupta/ru/4.01.md?plain=1#L31-L41) · `mkc-0195`
 - advaita-prakasha (D): Гл. 17, 42–47 — [42. Затем из П–47. Несколько д](../advaita-prakash/17.md?plain=1#L46-L51) · `apr-0113`
 
+## Встреча с Валлабхачарьей в Каши: беседа о славе Имени (валлабхское предание) / Meeting with Vallabhacharya at Kashi: a talk on the glory of the Name (Vallabha tradition)  `ev-vallabha-kashi-holy-name` (1514–1516, возраст 28–30, оценка)
+
+- vallabha-varta (D): Нидж-варта, варта-прасанг 27; § 1.3 — [3:1–1:12](../vallabha/ru/01.md?plain=1#L74-L116) · `vlb-0003`
+
 ## Праяга на пути во Вриндаван: пляска перед Вени-Мадхавой / Prayaga on the way to Vrindavana: dancing before Veni-Madhava  `ev-prayaga-on-way-to-vrindavana` (1514–1516, возраст 28–30, оценка)
 
 - advaita-prakasha (D): Гл. 16, 71–80 — [71. Увидев Три–80. Затем из Ш](../advaita-prakash/16.md?plain=1#L75-L84) · `apr-0104`
@@ -2923,6 +2927,19 @@
 - murari-kcc (A): Пракрама 4, сарга 8, шлоки 1–7 — [1–7](../murari-gupta/ru/4.08.md?plain=1#L5-L17) · `mkc-0210`
 - murari-kcc (A): Пракрама 4, сарга 8, шлоки 8–18 — [8–18](../murari-gupta/ru/4.08.md?plain=1#L19-L39) · `mkc-0211`
 
+## Господь у Манаси-ганги и Валлабхачарья (валлабхское предание) / The Lord at Manasi-ganga and Vallabhacharya (Vallabha tradition)  `ev-vallabha-manasi-ganga` (1514–1516, возраст 28–30, оценка)
+
+- vallabha-varta (D): Байтхак-чаритра, байтхак 10 (Манаси-ганга); § 1.8 — [8:1–4:10](../vallabha/ru/01.md?plain=1#L246-L282) · `vlb-0008`
+
+## «Кришна-премамрита»: книга, переданная Валлабхой Господу (валлабхское предание) / The Krishna-premamrita: the book Vallabha gave to the Lord (Vallabha tradition)  `ev-vallabha-krishna-premamrita` (1514–1516, возраст 28–30, оценка)
+
+- vallabha-varta (D): Нидж-варта, варта-прасанг 15 (концовка); § 1.1 — [1:1–1:6](../vallabha/ru/01.md?plain=1#L17-L30) · `vlb-0001`
+- vallabha-varta (D): Байтхак-чаритра, байтхак 13 (Говиндакунд); § 1.9 — [9:1–1:16](../vallabha/ru/01.md?plain=1#L290-L344) · `vlb-0009`
+
+## Маханты Вриндавана хотят служить Шринатхаджи; испытание через Шьямананду (валлабхское предание) / The Vrindavana mahantas wish to serve Shrinathji; the test through Shyamananda (Vallabha tradition)  `ev-vrindavana-mahants-shrinathji` (1514–1516, возраст 28–30, оценка)
+
+- vallabha-varta (D): Байтхак-чаритра, байтхак 2 (Гокул); § 1.6 — [6:1–2:10](../vallabha/ru/01.md?plain=1#L165-L193) · `vlb-0006`
+
 ## Роща ашок расцветает от взгляда Господа / An ashoka grove blossoms at the Lord's glance  `ev-ashoka-grove-blossoms` (1514–1516, возраст 28–30, оценка)
 
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 232–247 — [232–247](../lochana/ru/49.md?plain=1#L85-L130) · `lcm-0240`
@@ -2941,6 +2958,10 @@
 - chaitanya-chandrodaya (A): Акт 9, рассказ вестников, ст. 30 — [**Царь.** Сарвабхаума! Отчего же он, так–> подобного ему самому, — Господь, едины](../chaitanya-chandrodaya/ru/09.md?plain=1#L390-L395) · `ccd-0084`
 - jayananda-cm (C): Виджая-кханда: «Рупа и Санатана во Вриндаване» (цитаты) — [78:1–8:12](../jayananda/ru/05-quotes.md?plain=1#L1313-L1346) · `jcm-0095`
 - murari-kcc (A): Пракрама 4, сарга 13, шлоки 5–10 — [5–10](../murari-gupta/ru/4.13.md?plain=1#L13-L23) · `mkc-0223`
+
+## Валлабха Бхатта принимает Господа в Адаиле / Vallabha Bhatta receives the Lord at Adaila  `ev-vallabha-bhatta-adaila` (1514–1516, возраст 28–30, оценка)
+
+- vallabha-varta (D): Нидж-варта, варта-прасанг 34 (начало); § 1.5 — [5:1–5:5](../vallabha/ru/01.md?plain=1#L143-L155) · `vlb-0005`
 
 ## Наставление Санатане Госвами в Каши / Instruction to Sanatana Gosvami in Kashi  `ev-sanatana-kashi-instruction` (1514–1516, возраст 28–30, оценка)
 
@@ -3100,10 +3121,26 @@
 - chaitanya-chandrodaya (A): Акт 10, вишкамбхака (Шивананда), ст. 3–4 — [*— Вставная сцена (вишкамбхака) —*–**Шивананда.** Этого-то все и желают. Ид](../chaitanya-chandrodaya/ru/10.md?plain=1#L75-L126) · `ccd-0090`
 - prema-vilasa (C): Виласа 18, 31–43 — [31–43](../prema-vilasa/ru/18.md?plain=1#L95-L131) · `pvl-0131`
 
+## Валлабха Бхатта у Господа в Пури / Vallabha Bhatta with the Lord at Puri  `ev-vallabha-bhatta-puri` (1516–1533, возраст 30–47, оценка)
+
+- vallabha-varta (D): Ядунатха, «Валлабха-дигвиджая», Пурва-чаритравакчхеда (изд. 1985, с. 52); § 2.1 — [1–4](../vallabha/ru/02.md?plain=1#L15-L29) · `vlb-0013`
+
+## Господь теряет сознание, услышав слова Валлабхи о разлуке (валлабхское предание) / The Lord swoons on hearing Vallabha's words on separation (Vallabha tradition)  `ev-chaitanya-swoons-vallabha-words` (1516–1533, возраст 30–47, оценка)
+
+- vallabha-varta (D): Чаураси вайшнаван ки варта, варта 25, прасанг 1; § 1.11 — [11:1–7:8](../vallabha/ru/01.md?plain=1#L383-L410) · `vlb-0011`
+
+## Мадхавдас, ученик Господа, принимает Валлабху (валлабхское предание) / Madhavdas, a disciple of the Lord, accepts Vallabha (Vallabha tradition)  `ev-madhavadasa-vallabha` (1516–1533, возраст 30–47, оценка)
+
+- vallabha-varta (D): Чаураси вайшнаван ки варта, варта 85; § 1.12 — [12:1–1:17](../vallabha/ru/01.md?plain=1#L419-L484) · `vlb-0012`
+
 ## Сарвабхаума самовольно уходит в Варанаси проповедовать учение Господа / Sarvabhauma leaves for Varanasi on his own to spread the Lord's teaching  `ev-sarvabhauma-to-varanasi` (1516–1533, возраст 30–47, оценка)
 
 - karnapura-ckm (A): Сарга 14, 42–56 — [42–56](../karnapura-mahakavya/ru/14.md?plain=1#L768-L1018) · `kcm-0141`
 - chaitanya-chandrodaya (A): Акт 10, вишкамбхака (Сарвабхаума) — [*(Входит без отдёргивания занавеса–**Адвайта.** Пойдём, Бхаттачарья, пойдём](../chaitanya-chandrodaya/ru/10.md?plain=1#L128-L154) · `ccd-0091`
+
+## Бенгальские брахманы — слуги Гопалы (Шринатхаджи) на Говардхане / Bengali brahmins as servants of Gopala (Shrinathji) on Govardhana  `ev-bengali-servants-shrinathji` (1516–1533, возраст 30–47, оценка)
+
+- vallabha-varta (D): Нидж-варта, варта-прасанг 22; § 1.2 — [2:1–1:9](../vallabha/ru/01.md?plain=1#L38-L66) · `vlb-0002`
 
 ## Господь предсказывает бедствия века Кали / The Lord foretells the calamities of the Kali age  `ev-lord-prophesies-kali-age` (1516–1533, возраст 30–47, оценка)
 
@@ -3228,6 +3265,10 @@
 
 - prema-vilasa (D): Виласа 23, 150–170 — [150–170](../prema-vilasa/ru/23.md?plain=1#L455-L515) · `pvl-0198`
 
+## Спор Дживы Госвами с Валлабхой и изгнание Дживы / Jiva Gosvami's dispute with Vallabha and Jiva's banishment  `ev-jiva-vallabha-dispute` (1533–1534, возраст 47–48, оценка)
+
+- vallabha-varta (D): Нидж-варта, варта-прасанг 31; § 1.4 — [4:1–4:5](../vallabha/ru/01.md?plain=1#L123-L135) · `vlb-0004`
+
 ## Рупа изгоняет Дживу за гнев на побеждённого пандита и прощает по ходатайству Санатаны / Rupa banishes Jiva for his anger at a defeated pandit and forgives him at Sanatana's intercession  `ev-jiva-exiled-by-rupa` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (D): Виласа 23, 171–191 — [171–191](../prema-vilasa/ru/23.md?plain=1#L518-L578) · `pvl-0199`
@@ -3236,6 +3277,10 @@
 
 - prema-vilasa (C): Виласа 4, 148–163 — [148–163](../prema-vilasa/ru/04.md?plain=1#L446-L491) · `pvl-0020`
 - prema-vilasa (D): Виласа 22, 80–92 — [80–92](../prema-vilasa/ru/22.md?plain=1#L242-L278) · `pvl-0188`
+
+## Явление Радха-рамана из шалаграма Гопалы Бхатты / Radha-ramana appears from Gopala Bhatta's shalagrama  `ev-radha-ramana-appearance` (1542–1542, возраст 56–56, вероятно)
+
+- vallabha-varta (D): Байтхак-чаритра, байтхак 4 (Вриндаван), вторая часть; § 1.7 — [7:1–2:11](../vallabha/ru/01.md?plain=1#L203-L239) · `vlb-0007`
 
 ## Женитьба Нитьянанды на Васудхе и Джахнаве; подвиги Его спутников / Nityananda marries Vasudha and Jahnava; the feats of His associates  `ev-nityananda-marriage` (1533–1534, возраст 47–48, оценка)
 
@@ -3758,4 +3803,8 @@
 ## Сказание о Шиве, царе Каши и диске Сударшане; Шива получает Экамра-канану (Бхуванешвару) / The legend of Shiva, the King of Kashi and the Sudarshana disc; Shiva receives Ekamra-kanana (Bhubaneshvara)  `ev-legend-shiva-bhuvaneshvara`
 
 - nityananda-vamsha (C): Глава 10, 93–152 — [93–152](../nityananda-vamsha/ru/10.md?plain=1#L296-L477) · `nvv-0070`
+
+## Вьясатиртха предлагает Валлабхе гади мадхвов (валлабхское предание; упоминание Господа) / Vyasatirtha offers Vallabha the Madhva seat (Vallabha tradition; the Lord mentioned)  `ev-vyasatirtha-vallabha`
+
+- vallabha-varta (D): Байтхак-чаритра, байтхак 21 (Бхандираван); § 1.10 — [10:1–7:7](../vallabha/ru/01.md?plain=1#L354-L375) · `vlb-0010`
 

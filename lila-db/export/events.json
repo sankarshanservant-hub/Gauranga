@@ -18257,6 +18257,355 @@
   ]
  },
  {
+  "id": "ev-vallabha-kashi-holy-name",
+  "title": "Встреча с Валлабхачарьей в Каши: беседа о славе Имени (валлабхское предание)",
+  "title_en": "Meeting with Vallabhacharya at Kashi: a talk on the glory of the Name (Vallabha tradition)",
+  "period": "P13",
+  "order": 36,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "notes": "Только у вартт (Нидж-варта, прасанг 27), у Маникарники; гаудийским источникам неизвестна.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vlb-0003"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vallabha-manasi-ganga",
+  "title": "Господь у Манаси-ганги и Валлабхачарья (валлабхское предание)",
+  "title_en": "The Lord at Manasi-ganga and Vallabhacharya (Vallabha tradition)",
+  "period": "P13",
+  "order": 131,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "kirtan"
+  ],
+  "notes": "Байтхак-чаритра, байтхак 10: шесть месяцев у Манаси-ганги, обет 125 000 Имён, даршан «молочной» Манаси-ганги. Ср. ev-govardhana-visit (ЧЧ Мадхья 18).",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vlb-0008"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vallabha-krishna-premamrita",
+  "title": "«Кришна-премамрита»: книга, переданная Валлабхой Господу (валлабхское предание)",
+  "title_en": "The Krishna-premamrita: the book Vallabha gave to the Lord (Vallabha tradition)",
+  "period": "P13",
+  "order": 131.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "krishna-lila",
+   "separation"
+  ],
+  "notes": "Повеление Джаганнатхи Валлабхе в Пури (Нидж-варта 15) и передача книги «с почерком Свамини» у Говиндакунды (байтхак 13). Гаудийским источникам неизвестно.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vlb-0001",
+   "vlb-0009"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vrindavana-mahants-shrinathji",
+  "title": "Маханты Вриндавана хотят служить Шринатхаджи; испытание через Шьямананду (валлабхское предание)",
+  "title_en": "The Vrindavana mahantas wish to serve Shrinathji; the test through Shyamananda (Vallabha tradition)",
+  "period": "P13",
+  "order": 132,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities"
+  ],
+  "notes": "Байтхак-чаритра, байтхак 2 (Гокул); имя Шьямананды — анахронизм.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vlb-0006"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vallabha-bhatta-adaila",
+  "title": "Валлабха Бхатта принимает Господа в Адаиле",
+  "title_en": "Vallabha Bhatta receives the Lord at Adaila",
+  "period": "P13",
+  "order": 183,
+  "cc": "Мадхья 19",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "pilgrimage"
+  ],
+  "notes": "По ЧЧ — на обратном пути из Вриндавана, с Рупой и Рагхупати Упадхьяей; варты (Нидж-варта 34) — по пути из Бенгалии во Вриндаван.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vlb-0005"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vallabha-bhatta-puri",
+  "title": "Валлабха Бхатта у Господа в Пури",
+  "title_en": "Vallabha Bhatta with the Lord at Puri",
+  "period": "P14",
+  "order": 32,
+  "cc": "Антья 7",
+  "cb": "",
+  "themes": [
+   "learning",
+   "jagannatha"
+  ],
+  "notes": "По ЧЧ Господь смиряет гордость Валлабхи учёностью и затем принимает его с милостью; у Ядунатхи («Валлабха-дигвиджая») — лишь «встреча с Кришна-Чайтаньей» при Ратха-ятре.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlb-0013"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-chaitanya-swoons-vallabha-words",
+  "title": "Господь теряет сознание, услышав слова Валлабхи о разлуке (валлабхское предание)",
+  "title_en": "The Lord swoons on hearing Vallabha's words on separation (Vallabha tradition)",
+  "period": "P14",
+  "order": 33,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "separation"
+  ],
+  "notes": "Чаураси вайшнаван ки варта, варта 25 (Прабхудас Джалота): Рупа и Санатана у Валлабхи в Матхуре; их вайшнав передаёт слова Господу в Пури.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlb-0011"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-madhavadasa-vallabha",
+  "title": "Мадхавдас, ученик Господа, принимает Валлабху (валлабхское предание)",
+  "title_en": "Madhavdas, a disciple of the Lord, accepts Vallabha (Vallabha tradition)",
+  "period": "P14",
+  "order": 34,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "offense"
+  ],
+  "notes": "Чаураси вайшнаван ки варта, варта 85 (Сундардас); Господь лишь упомянут.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlb-0012"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-bengali-servants-shrinathji",
+  "title": "Бенгальские брахманы — слуги Гопалы (Шринатхаджи) на Говардхане",
+  "title_en": "Bengali brahmins as servants of Gopala (Shrinathji) on Govardhana",
+  "period": "P14",
+  "order": 41,
+  "cc": "Мадхья 4",
+  "cb": "",
+  "themes": [
+   "deities"
+  ],
+  "notes": "По ЧЧ Мадхья 4 бенгальских учеников-служителей поставил Мадхавендра Пури; по вартам (Нидж-варта 22) — Валлабха, около 1519 г., с Мадхавендрой во главе; через 14 лет бенгальцев изгоняют.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlb-0002"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-vyasatirtha-vallabha",
+  "title": "Вьясатиртха предлагает Валлабхе гади мадхвов (валлабхское предание; упоминание Господа)",
+  "title_en": "Vyasatirtha offers Vallabha the Madhva seat (Vallabha tradition; the Lord mentioned)",
+  "period": "PX",
+  "order": 20,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning"
+  ],
+  "notes": "Байтхак-чаритра, байтхак 21 (Бхандираван): «мой ученик — Мадхавендра Пури, его ученик — Кришна-Чайтанья».",
+  "entries": [
+   "vlb-0010"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-jiva-vallabha-dispute",
+  "title": "Спор Дживы Госвами с Валлабхой и изгнание Дживы",
+  "title_en": "Jiva Gosvami's dispute with Vallabha and Jiva's banishment",
+  "period": "P15",
+  "order": 12.8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "offense",
+   "learning"
+  ],
+  "notes": "«Бхакти-ратнакара»: Рупа удаляет Дживу за возражение гостю Валлабхе, Санатана добивается прощения. Варты (Нидж-варта 31) — с Чайтаньей вместо Рупы, в самват 1548 (анахронизм). Не путать с ev-jiva-exiled-by-rupa («Према-виласа» 23).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "vlb-0004"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
+  "id": "ev-radha-ramana-appearance",
+  "title": "Явление Радха-рамана из шалаграма Гопалы Бхатты",
+  "title_en": "Radha-ramana appears from Gopala Bhatta's shalagrama",
+  "period": "P15",
+  "order": 16.5,
+  "years": [
+   1542,
+   1542
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "гаудийское предание: вайшакха-пурнима 1542 г.",
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities"
+  ],
+  "notes": "Варты (Байтхак-чаритра, байтхак 4) приписывают явление милости Валлабхи и помещают при жизни Господа («Гопаладас-гаудия»).",
+  "age": [
+   56,
+   56
+  ],
+  "entries": [
+   "vlb-0007"
+  ],
+  "sources": [
+   "vallabha-varta"
+  ]
+ },
+ {
   "id": "ev-devotees-lament-after-disappearance",
   "title": "Плач преданных после сокрытия Господа",
   "title_en": "The devotees' lament after the Lord's disappearance",

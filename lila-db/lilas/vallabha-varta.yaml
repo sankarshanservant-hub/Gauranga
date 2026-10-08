@@ -1,0 +1,410 @@
+# Валлабхская традиция (vallabha/): варты и «Валлабха-дигвиджая» Ядунатхи — места о Шри Чайтанье. Все записи — категория D.
+
+- id: vlb-0001
+  source: vallabha-varta
+  ref: Нидж-варта, варта-прасанг 15 (концовка); § 1.1
+  file: vallabha/ru/01.md
+  period: P13
+  order: 131.4
+  date: в первый обход земли Валлабхи (1490-е), по вартам
+  title: Джаганнатха велит Валлабхе отдать «Кришна-премамриту» Кришна-Чайтанье
+  summary: Прощаясь с Джаганнатхой в Пури, Валлабха остаётся в храме один; Джаганнатха велит ему распространять севу через свой род, отдать «Шри Кришна-премамриту» «Нашему дорогому бхакте Кришна-Чайтанье»,
+    вводить «Гита-говинду» и снять запрет на блюдо из баклажанов.
+  persons:
+  - '@vallabha-bhatta'
+  - '@jagannatha-deity'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: vision
+  authority: D
+  parallels: ''
+  notes: Господь лишь упомянут. Категория D (валлабхское предание).
+  themes:
+  - jagannatha
+  - celestial
+  divergence: Гаудийским источникам неизвестно; по ЧЧ (Антья 7) Валлабха приходил к Господу в Пури сам.
+  event: ev-vallabha-krishna-premamrita
+  verses:
+  - file: vallabha/ru/01.md
+    from: '1:1'
+    to: '1:6'
+- id: vlb-0002
+  source: vallabha-varta
+  ref: Нидж-варта, варта-прасанг 22; § 1.2
+  file: vallabha/ru/01.md
+  period: P14
+  order: 41
+  date: после постройки храма (самв. 1576 [1519]), по вартам
+  title: Бенгальские брахманы, «слуги Кришна-Чайтаньи», и Мадхавендра Пури поставлены служить Шринатхаджи
+  summary: Валлабха ставит служить Шри Говарданатхаджи бенгальских брахманов со Шрикунды — «слуг Кришна-Чайтаньи»; во главе — Мадхавендра Пури, «ачарья Мадхва-сампрадаи, телангский брахман, гуру Кришна-Чайтаньи»,
+    учитель Валлабхи в Каши; через 14 лет Шринатхаджи велит изгнать бенгальцев, и Виттхаланатха ставит гуджаратских брахманов.
+  persons:
+  - '@vallabha-bhatta'
+  - '@shrinathji-deity'
+  - '@saddu-pande'
+  - '@madhavendra-puri'
+  - '@krishnadasa-adhikari'
+  - '@kumbhanadasa'
+  - '@avadhutadasa'
+  - '@vitthalanatha'
+  - '@mahaprabhu'
+  places:
+  - '#govardhana'
+  - '#radha-kunda'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: 'Упоминание: Господь не действует. Категория D.'
+  themes:
+  - deities
+  cc: Мадхья 4
+  divergence: По ЧЧ (Мадхья 4) Гопалу явил и бенгальских служителей поставил Мадхавендра Пури, ушедший до 1510 г.; Мадхавендра — гуру Ишвары Пури, а не Чайтаньи; «телангским брахманом» гаудийские источники
+    его не называют.
+  event: ev-bengali-servants-shrinathji
+  verses:
+  - file: vallabha/ru/01.md
+    from: '2:1'
+    to: '1:9'
+- id: vlb-0003
+  source: vallabha-varta
+  ref: Нидж-варта, варта-прасанг 27; § 1.3
+  file: vallabha/ru/01.md
+  period: P13
+  order: 36
+  date: ''
+  title: 'Встреча в Каши у Маникарники: Кришна-Чайтанья о славе Имени'
+  summary: У Маникарники Кришна-Чайтанья радуется даршану Валлабхи и говорит, что миг памяти о стопах Господа приносит дживе цель жизни; Валлабха отвечает, что в пушти-марге миг забвения губит, и цитирует
+    «Наваратну»; рассказ о существе у пруда, пьющем воду лишь при звуке Имени, рассеивает сомнение Кришнадаса Мегхана.
+  persons:
+  - '@mahaprabhu'
+  - '@vallabha-bhatta'
+  - '@krishnadasa-meghan'
+  - '@damodaradasa-harasani'
+  places:
+  - '#kashi'
+  kind: teaching
+  authority: D
+  parallels: ''
+  notes: Категория D. Чайтанья изображён младшим — взгляд валлабхской традиции.
+  themes:
+  - teaching
+  teaching:
+  - holy-name
+  divergence: По вартам — в первом обходе Валлабхи (1490-е); по ЧЧ Господь был в Каши лишь в 1514–1516 гг.; встреча гаудийским источникам неизвестна.
+  event: ev-vallabha-kashi-holy-name
+  verses:
+  - file: vallabha/ru/01.md
+    from: '3:1'
+    to: '1:12'
+- id: vlb-0004
+  source: vallabha-varta
+  ref: Нидж-варта, варта-прасанг 31; § 1.4
+  file: vallabha/ru/01.md
+  period: P13
+  order: 95.5
+  date: самват 1548, пхалгуна-шукла 6, воскресенье (по тексту; анахронизм)
+  title: 'Во Вриндаване: «Субодхини» для Кришна-Чайтаньи и спор Дживы Госвами с Валлабхой'
+  summary: Валлабха четыре месяца во Вриндаване, излагает Кришна-Чайтанье «Субодхини»; у Бхандирвата Джива Госвами спорит с ним, Чайтанья отвергает Дживу; тот постится на берегу Ямуны, пока Валлабха не
+    приводит Чайтанью и не примиряет их.
+  persons:
+  - '@mahaprabhu'
+  - '@vallabha-bhatta'
+  - '@rupa-gosvami'
+  - '@sanatana-gosvami'
+  - '@jiva-gosvami'
+  places:
+  - '#vrindavana'
+  - '#bhandiravana'
+  kind: lila
+  authority: D
+  parallels: «Бхакти-ратнакара» (Джива и Валлабха Бхатта)
+  notes: Категория D; явный анахронизм.
+  themes:
+  - learning
+  - offense
+  calendar: пхалгуна, шукла 6, воскресенье
+  divergence: 'Самв. 1548 = 1491 г.: Господу 5 лет, Джива не родился (ок. 1513); по «Бхакти-ратнакаре» Дживу удаляет Рупа, а прощения добивается Санатана.'
+  event: ev-jiva-vallabha-dispute
+  verses:
+  - file: vallabha/ru/01.md
+    from: '4:1'
+    to: '4:5'
+- id: vlb-0005
+  source: vallabha-varta
+  ref: Нидж-варта, варта-прасанг 34 (начало); § 1.5
+  file: vallabha/ru/01.md
+  period: P13
+  order: 24
+  date: ''
+  title: Кришна-Чайтанья по пути во Вриндаван у Валлабхи в Аделе
+  summary: Кришна-Чайтанья, идя из Бенгалии во Вриндаван, навещает Валлабху в Аделе; тот, видя в Его теле обитель Шри Кришны, кормит Его неподнесёнными продуктами; Он гостит несколько дней и уходит во Вриндаван.
+  persons:
+  - '@mahaprabhu'
+  - '@vallabha-bhatta'
+  - '@madhusudana-sarasvati'
+  places:
+  - '#adaila'
+  - '#prayaga'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: Категория D.
+  themes:
+  - prasada
+  - pilgrimage
+  cc: Мадхья 19
+  divergence: По ЧЧ (Мадхья 19) — на обратном пути из Вриндавана; Валлабха приглашает Господа из Праяги, омывает Ему стопы и кормит; с Ним Рупа Госвами.
+  event: ev-vallabha-bhatta-adaila
+  verses:
+  - file: vallabha/ru/01.md
+    from: '5:1'
+    to: '5:5'
+- id: vlb-0006
+  source: vallabha-varta
+  ref: Байтхак-чаритра, байтхак 2 (Гокул); § 1.6
+  file: vallabha/ru/01.md
+  period: P13
+  order: 132
+  date: ''
+  title: Маханты Вриндавана во главе с Кришна-Чайтаньей хотят служить Шринатхаджи; испытание через Шьямананду
+  summary: Шринатхаджи отвечает махантам Вриндавана (Кришна-Чайтанье и др.), что им — бхаджан, а служить Ему будет Валлабха; посланный ими Шьямананда теряет мешочек с шалаграмом и находит дерево, увешанное
+    мешочками; маханты признают Валлабху «божественной частицей».
+  persons:
+  - '@mahaprabhu'
+  - '@shrinathji-deity'
+  - '@vallabha-bhatta'
+  - '@shyamananda'
+  places:
+  - '#gokula'
+  - '#vrindavana'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: Категория D; Господь лишь назван среди махантов.
+  themes:
+  - deities
+  divergence: Шьямананда (род. ок. 1535) — анахронизм; по ЧЧ служение Гопале установил Мадхавендра Пури.
+  event: ev-vrindavana-mahants-shrinathji
+  verses:
+  - file: vallabha/ru/01.md
+    from: '6:1'
+    to: '2:10'
+- id: vlb-0007
+  source: vallabha-varta
+  ref: Байтхак-чаритра, байтхак 4 (Вриндаван), вторая часть; § 1.7
+  file: vallabha/ru/01.md
+  period: P15
+  order: 16.5
+  date: ''
+  title: Гопаладас-гаудия, слуга Кришна-Чайтаньи, и явление Радха-рамана
+  summary: Гопаладас тоскует, что не может наряжать шалаграм, данный ему Кришна-Чайтаньей; Тот во сне посылает его к Валлабхе; по милости Валлабхи утром из шалаграма является Радха-раман; Гопаладасу обещана
+    связь с пушти-маргой в другом рождении.
+  persons:
+  - '@gopala-bhatta'
+  - '@mahaprabhu'
+  - '@vallabha-bhatta'
+  - '@radha-ramana-deity'
+  places:
+  - '#vrindavana'
+  - '#puri'
+  kind: miracle
+  authority: D
+  parallels: ''
+  notes: Категория D. «Гопаладас-гаудия» — по всей видимости, Гопала Бхатта Госвами.
+  themes:
+  - deities
+  divergence: По гаудийскому преданию Радха-раман явился в 1542 г., после ухода Валлабхи (1531) и Господа; участия Валлабхи гаудийские источники не знают.
+  event: ev-radha-ramana-appearance
+  verses:
+  - file: vallabha/ru/01.md
+    from: '7:1'
+    to: '2:11'
+- id: vlb-0008
+  source: vallabha-varta
+  ref: Байтхак-чаритра, байтхак 10 (Манаси-ганга); § 1.8
+  file: vallabha/ru/01.md
+  period: P13
+  order: 131
+  date: ''
+  title: 'Кришна-Чайтанья у Манаси-ганги: обет 125 000 Имён и даршан «молочной» Манаси-ганги'
+  summary: Кришна-Чайтанья полгода сидит у Манаси-ганги, дав обет повторить 125 000 Имён, и ждёт даршана её «молочного» облика; при приходе Валлабхи Он простирается перед ним; Валлабха кропит глаза вайшнавов
+    водой, и все видят божественную Манаси-гангу.
+  persons:
+  - '@mahaprabhu'
+  - '@vallabha-bhatta'
+  - '@shiva'
+  places:
+  - '#govardhana'
+  kind: miracle
+  authority: D
+  parallels: ev-govardhana-visit (ЧЧ Мадхья 18)
+  notes: Категория D.
+  themes:
+  - kirtan
+  - krishna-lila
+  teaching:
+  - holy-name
+  divergence: По ЧЧ (Мадхья 18) Господь был у Говардхана недолго; полугодового пребывания у Манаси-ганги нет.
+  event: ev-vallabha-manasi-ganga
+  verses:
+  - file: vallabha/ru/01.md
+    from: '8:1'
+    to: '4:10'
+- id: vlb-0009
+  source: vallabha-varta
+  ref: Байтхак-чаритра, байтхак 13 (Говиндакунд); § 1.9
+  file: vallabha/ru/01.md
+  period: P13
+  order: 131.5
+  date: ''
+  title: Книга «Кришна-премамрита», написанная рукой Свамини, отдана Кришна-Чайтанье-гаудии
+  summary: Кришнадас Мегхан видит Вьяпи-вайкунтху и попугая, повторяющего Имя; Валлабха рассказывает о разлуке Свамини и о книге «Кришна-премамрита», записанной Её рукой; Кришна-Чайтанья и Кешава Кашмири
+    не могут прочесть почерк; Валлабха читает и по давнему велению Джаганнатхи отдаёт книгу Кришна-Чайтанье, а не Кешаве.
+  persons:
+  - '@vallabha-bhatta'
+  - '@krishnadasa-meghan'
+  - '@mahaprabhu'
+  - '@keshava-kashmiri'
+  - '@radha'
+  - '@krishna'
+  places:
+  - '#govardhana'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: Категория D.
+  themes:
+  - separation
+  - krishna-lila
+  scriptures:
+  - Бхаг. 10.19.16
+  divergence: Гаудийским источникам неизвестно; Кешава Кашмири, по ЧЧ (Ади 16), побеждён Нимаем в Навадвипе.
+  event: ev-vallabha-krishna-premamrita
+  verses:
+  - file: vallabha/ru/01.md
+    from: '9:1'
+    to: '1:16'
+- id: vlb-0010
+  source: vallabha-varta
+  ref: Байтхак-чаритра, байтхак 21 (Бхандираван); § 1.10
+  file: vallabha/ru/01.md
+  period: PX
+  order: 20
+  date: ''
+  title: 'Вьясатиртха: «мой ученик — Мадхавендра Пури, его ученик — Кришна-Чайтанья»'
+  summary: Мадхва-махант Вьясатиртха предлагает Валлабхе свою гади, называя Мадхавендру Пури своим учеником, а Кришна-Чайтанью — учеником Мадхавендры; ночью «посланцы» Валлабхи бьют его, и он становится
+    учеником Валлабхи.
+  persons:
+  - '@vyasatirtha'
+  - '@vallabha-bhatta'
+  - '@madhavendra-puri'
+  - '@mahaprabhu'
+  places:
+  - '#bhandiravana'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: 'Упоминание: Господь не действует. Категория D.'
+  themes:
+  - learning
+  divergence: По гаудийской парампаре Мадхавендра — ученик Лакшмипати Тиртхи, гуру Господа — Ишвара Пури.
+  event: ev-vyasatirtha-vallabha
+  verses:
+  - file: vallabha/ru/01.md
+    from: '10:1'
+    to: '7:7'
+- id: vlb-0011
+  source: vallabha-varta
+  ref: Чаураси вайшнаван ки варта, варта 25, прасанг 1; § 1.11
+  file: vallabha/ru/01.md
+  period: P14
+  order: 33
+  date: ''
+  title: Рупа и Санатана у Валлабхи в Матхуре; Кришна-Чайтанья трижды теряет сознание от его слов о разлуке
+  summary: 'Рупа и Санатана спрашивают Валлабху об исхудавших слугах; тот отвечает прикровенно: «я отговаривал их вступать на этот путь»; их вайшнав передаёт слова Кришна-Чайтанье в Пури, и Тот трижды теряет
+    сознание, говоря, что понять это может лишь тот, кто сам в разлуке.'
+  persons:
+  - '@vallabha-bhatta'
+  - '@prabhudasa-jalota'
+  - '@rupa-gosvami'
+  - '@sanatana-gosvami'
+  - '@mahaprabhu'
+  places:
+  - '#mathura'
+  - '#puri'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: Категория D.
+  themes:
+  - separation
+  - ecstasy
+  bhava:
+  - radha
+  divergence: Гаудийским источникам неизвестно; Рупа и Санатана для гаудиев — ачарьи науки расы, наставленные Самим Господом.
+  event: ev-chaitanya-swoons-vallabha-words
+  verses:
+  - file: vallabha/ru/01.md
+    from: '11:1'
+    to: '7:8'
+- id: vlb-0012
+  source: vallabha-varta
+  ref: Чаураси вайшнаван ки варта, варта 85; § 1.12
+  file: vallabha/ru/01.md
+  period: P14
+  order: 34
+  date: ''
+  title: Мадхавдас, слуга Кришна-Чайтаньи, и Сундардас
+  summary: 'Мадхавдас, слуга Кришна-Чайтаньи из деревни близ Пури, сомневается в Валлабхе; Божество открывает ему, что его бхогу ел прета, и наказывает за грубость; Мадхавдас просит прощения и принимает
+    посвящение Валлабхи, хотя тот говорит: «ученик Кришна-Чайтаньи и так наш».'
+  persons:
+  - '@madhavadasa-utkala'
+  - '@sundaradasa-utkala'
+  - '@vallabha-bhatta'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: 'Упоминание: Господь не действует. Категория D.'
+  themes:
+  - prasada
+  - offense
+  divergence: Гаудийским источникам неизвестно.
+  event: ev-madhavadasa-vallabha
+  verses:
+  - file: vallabha/ru/01.md
+    from: '12:1'
+    to: '1:17'
+- id: vlb-0013
+  source: vallabha-varta
+  ref: Ядунатха, «Валлабха-дигвиджая», Пурва-чаритравакчхеда (изд. 1985, с. 52); § 2.1
+  file: vallabha/ru/02.md
+  period: P14
+  order: 32
+  date: после рождения Виттхаланатхи (самв. 1572 [1515/16]), при Ратха-ятре
+  title: Встреча с Кришна-Чайтаньей во вторую поездку Валлабхи к Джагадише
+  summary: 'В перечне событий: паломничество Валлабхи к Джагадише, прибытие на Гангасагар, «встреча с Кришна-Чайтаньей», праздник Ратха-ятры и возвращение.'
+  persons:
+  - '@vallabha-bhatta'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  - '#gangasagara'
+  kind: lila
+  authority: D
+  parallels: ''
+  notes: Категория D; одна фраза без подробностей.
+  themes:
+  - jagannatha
+  - festival
+  calendar: Ратха-ятра
+  cc: Антья 7
+  divergence: Согласуется с ЧЧ Антья 7 (Валлабха у Господа в Пури); подробностей нет.
+  event: ev-vallabha-bhatta-puri
+  verses:
+  - file: vallabha/ru/02.md
+    from: '1'
+    to: '4'
