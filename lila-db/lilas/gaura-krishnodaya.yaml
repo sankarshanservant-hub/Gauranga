@@ -164,3 +164,164 @@
   event: ev-lord-enters-shachi-womb
   verses:
     - {file: "gaura-krishnodaya/ru/01.md", from: "61", to: "61"}
+
+- id: gkd-0009
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 1–8"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P01
+  order: 51
+  title: "Беременность Шачи; сияющее чрево; тринадцатый месяц"
+  summary: "Шачи носит Господа: признаки беременности, сияние чрева, которое она видит ночью; Мишра предрекает рождение великой души. Наступает магха, а роды не начинаются; Ниламбара Чакраварти успокаивает дочь: сын родится на тринадцатый месяц."
+  persons: ["@shachi", "@jagannatha-mishra", "@nilambara-chakravarti"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13"
+  cc: "Ади 13"
+  themes: [family]
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "1", to: "8"}
+
+- id: gkd-0010
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 9–18"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P01
+  order: 60
+  title: "Явление Господа в пхалгуна-пурниму во время затмения"
+  summary: "Весной, в пхалгуна-пурниму 1407 г. Шака, при восходе Льва, рождается Господь; тьма затмения поглощает луну, люди омываются в Ганге; под видом плача Младенец произносит Своё имя, Шрути приходят к Нему; с неба сыплются цветы."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13; Мурари 1.04"
+  cc: "Ади 13"
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  date: "1407 г. Шака (1486)"
+  themes: [revelation]
+  teaching: [holy-name]
+  event: ev-gaura-appearance
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "9", to: "18"}
+
+- id: gkd-0011
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 19–33"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 3
+  title: "Младенец не берёт грудь, пока Адвайта не посвятит Шачи в мантру"
+  summary: "Новорождённый отказывается от материнской груди. Сита приходит первой, Адвайта — на третий день; наедине Адвайта просит Господа пить молоко, и Младенец отвечает: тело без посвящения в Мою мантру нечисто — посвяти Мою мать. Он даёт Адвайте мантру, Адвайта посвящает Шачи, и Младенец берёт грудь; люди пляшут в киртане."
+  persons: ["@mahaprabhu", "@advaita", "@sita-thakurani", "@shachi", "@jagannatha-mishra", "@haridasa-thakura"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "«Адвайта-пракаша» гл. 10 (близкий рассказ); приход Ситы — ЧЧ Ади 13"
+  cc: "Ади 13 (только приход Ситы)"
+  themes: [mercy, family]
+  teaching: [holy-name]
+  divergence: "В ЧЧ нет: главное самостоятельное добавление Говинды-девы («легенда о посвящении Шачи Адвайтой»). Сита в ЧЧ приходит без Адвайты."
+  notes: "По гаудия-вайшнавскому богословию Шачи — вечная спутница (Яшода), нечистоты в ней нет; эпизод — наставление о значении дикши (см. сноску к 2.31). Включает приход Ситы Тхакурани (2.20–23; событие ev-sita-visits-newborn)."
+  event: ev-newborn-refuses-milk
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "19", to: "33"}
+
+- id: gkd-0012
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 34–38"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 4.5
+  title: "Женщины Навадвипы и богини в облике брахманок приходят к Младенцу"
+  summary: "Женщины города, бросив дела, спешат с дарами взглянуть на сына Мишры; Арундхати, Парвати, Сарасвати, Шачи и другие богини неузнанными, в облике брахманок, благословляют Его. На седьмой день совершается обряд выхода из родильного покоя."
+  persons: ["@mahaprabhu", "@shachi", "@sarasvati-devi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13"
+  cc: "Ади 13"
+  themes: [celestial, family]
+  event: ev-goddesses-visit-newborn
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "34", to: "38"}
+
+- id: gkd-0013
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 39"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 2
+  title: "Ниламбара Чакраварти толкует гороскоп внука"
+  summary: "Ниламбара, знаток джьотиши, приходит взглянуть на внука и объявляет зятю чудесные плоды расположения планет при его рождении."
+  persons: ["@nilambara-chakravarti", "@jagannatha-mishra", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13"
+  cc: "Ади 13"
+  themes: [family, revelation]
+  event: ev-nilambara-prediction
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "39", to: "39"}
+
+- id: gkd-0014
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 40–46"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 5
+  title: "Наречение: Вишвамбхара, Чайтанья, Гаура-Кришна"
+  summary: "На обряде наречения Мишра даёт сыну имена: Вишвамбхара — поддерживающий вселенную, Чайтанья — собравший в Себе сознание, Гаура — по золотому цвету, Кришна — привлекающий сердца, а вместе — Гаура-Кришна; люди сокрушают грехи этими именами, как оружием. Адвайта с Ситой возвращаются домой."
+  persons: ["@jagannatha-mishra", "@mahaprabhu", "@advaita", "@sita-thakurani", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14 (имя Вишвамбхара)"
+  cc: "Ади 14"
+  themes: [family]
+  teaching: [gaura-tattva]
+  divergence: "Имена Чайтанья и Гаура-Кришна даны при рождении (в ЧЧ имя Кришна Чайтанья — при санньясе); имени Нимай нет."
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "40", to: "46"}
+
+- id: gkd-0015
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 47–51"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 10
+  title: "Первый вынос, первый рис, первые слова и шаги; праздник дня рождения"
+  summary: "Младенец растёт, как юный месяц; Мишра совершает обряды первого выноса и первого риса; мальчик лепечет и семенит, а в годовщину рождения Мишра чтит брахманов."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [family]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "47", to: "51"}
+
+- id: gkd-0016
+  source: gaura-krishnodaya
+  ref: "Сарга 2, 52–61"
+  file: "gaura-krishnodaya/ru/02.md"
+  period: P02
+  order: 15
+  title: "Следы стоп со знаками Кришны; тридцать два признака махапуруши"
+  summary: "Шачи находит в доме следы стоп в куркуме, Мишра считает их следами Божества; затем те же знаки — колесо, флаг, ваджра, лотос и др. — видят на стопе Младенца. Ниламбара Чакраварти находит на теле Его тридцать два признака великой личности и велит всем служить Его стопам."
+  persons: ["@shachi", "@jagannatha-mishra", "@mahaprabhu", "@nilambara-chakravarti"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [revelation, family]
+  divergence: "В ЧЧ признаки махапуруши объявляет Ниламбара при наречении (Ади 14); у Говинды-девы — после находки следов, в годовщину рождения."
+  event: ev-footprints-gopala
+  verses:
+    - {file: "gaura-krishnodaya/ru/02.md", from: "52", to: "61"}
