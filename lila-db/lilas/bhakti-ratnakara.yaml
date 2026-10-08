@@ -200,3 +200,568 @@
   event: ev-srinivasa-initiation
   verses:
     - {file: "bhakti-ratnakara/ru/01.md", from: "230", to: "236"}
+
+- id: brt-0012
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 237–262"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 44
+  title: "Род Рамачандры и Говинды Кавираджей: поэт Дамодара, Сунанда и Чиранджива"
+  summary: "Дамодара Сена из Шрикханды, поэт, непобедимый в спорах, проклят дигвиджаи бессыновностью, но умилостивленный тот обещает дочь и двух внуков-драгоценностей; дочь Сунанда выходит за Чирандживу Сену из Кумаранагара, спутника Господа (ЧЧ Мадхья 11.92); рождается Рамачандра — «частица бога», явившийся в роду вайдьев."
+  persons: ["@damodara-sena-kavi", "@sunanda-mother-ramachandra", "@chiranjiva-sena", "@ramachandra-kaviraja", "@govinda-kaviraja", "@srinivasa-acharya"]
+  places: ["#shrikhanda", "#kumaranagara"]
+  kind: post-advent
+  authority: B
+  themes: [family]
+  scriptures: ["ЧЧ Мадхья 11.92"]
+  event: ev-ramachandra-kaviraja-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "237", to: "262"}
+
+- id: brt-0013
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 263–277"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 98
+  title: "Рамачандра получает звание Кавираджи; единство Рамачандры и Нароттамы"
+  summary: "Во Вриндаване Парамананда Бхаттачарья, Джива и другие, слушая его стихи, дают Рамачандре звание Кавираджи; он и Нароттама едины телом, умом и именем («Кавираджа-Нароттама», как Нара-Нараяна); шлоки из «Сангита-мадхавы»."
+  persons: ["@ramachandra-kaviraja", "@narottama-dasa", "@jiva-gosvami", "@srinivasa-acharya"]
+  places: ["#vrindavana", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [learning]
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "263", to: "277"}
+
+- id: brt-0014
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 278–283"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 99.5
+  calendar: "магха, пурнима"
+  title: "Рождение Нароттамы в полнолуние магхи (кратко)"
+  summary: "Нароттама, брахмачари с отрочества, рождается в полнолуние магхи, «притянутый Кришной Чайтаньей»; растёт дома, равнодушный к царскому богатству."
+  persons: ["@narottama-dasa", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [family]
+  event: ev-narottama-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "278", to: "283"}
+
+- id: brt-0015
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 284–292"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 71
+  calendar: "карттика, пурнима"
+  title: "Нароттама тайно уходит из дома (кратко)"
+  summary: "Господь со спутниками во сне утешает Нароттаму; когда отца и дядю вызывают ко двору Гауды, он обманывает стражу, прощается с матерью Нараяни и в полнолуние карттики уходит."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@krishnananda-datta", "@narayani-kheturi"]
+  places: ["#kheturi", "#gauda"]
+  kind: post-advent
+  authority: B
+  themes: [separation, family]
+  event: ev-narottama-leaves-home
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "284", to: "292"}
+
+- id: brt-0016
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 293–294"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 75
+  calendar: "шравана, пурнима"
+  title: "Посвящение Нароттамы у Локанатхи в полнолуние шраваны (кратко)"
+  summary: "Обойдя тиртхи, Нароттама приходит во Вриндаван и в полнолуние шраваны получает посвящение у Локанатхи Госвами."
+  persons: ["@narottama-dasa", "@lokanatha"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [mercy]
+  event: ev-narottama-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "293", to: "294"}
+
+- id: brt-0017
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 295–308"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P07
+  order: 139.6
+  title: "Локанатха приходит к Господу в Навадвипу и послан во Вриндаван перед санньясой"
+  summary: "Локанатха, сын Падманабхи Чакраварти (дорогого Адвайте) и Ситы из Талакхайды в Яшохаре, приходит к Господу в Навадвипу; Господь велит ему скорее идти во Вриндаван, потому что Сам вскоре примет санньясу и придёт туда; Локанатха, поняв намёк, в слезах уходит и странствует по тиртхам."
+  persons: ["@lokanatha", "@padmanabha-chakravarti", "@sita-lokanatha", "@advaita", "@mahaprabhu"]
+  places: ["#talakhaida", "#navadvipa", "#vrindavana"]
+  kind: lila
+  authority: B
+  divergence: "В других источниках Локанатха послан вместе с Бхугарбхой; здесь Бхугарбха в этом эпизоде не назван."
+  themes: [separation, sannyasa]
+  event: ev-lokanatha-sent-to-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "295", to: "308"}
+
+- id: brt-0018
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 309–314"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 30.1
+  title: "Локанатха ищет Господа: на юг, во Врадж; сон удерживает его во Вриндаване"
+  summary: "Услышав, что Господь пошёл на юг, Локанатха идёт за Ним; Господь тем временем приходит во Вриндаван, Локанатха спешит туда, но Господь уже ушёл в Праягу; когда Локанатха собирается следом, Господь во сне утешает его и велит остаться во Вриндаване, где он живёт безвестно."
+  persons: ["@lokanatha", "@mahaprabhu"]
+  places: ["#vrindavana", "#prayaga"]
+  kind: lila
+  authority: B
+  themes: [separation, revelation]
+  event: ev-lokanatha-searches-lord
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "309", to: "314"}
+
+- id: brt-0019
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 315–344"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 96.5
+  title: "Локанатха во Вриндаване: Госвами, Бхугарбха; Радха-винода у Кишори-кунды; скорбь по Рупе и Санатане"
+  summary: "Локанатха сближается с Рупой, Санатаной, Гопалой Бхаттой, неразлучен с Бхугарбхой, служит Говинде; упомянут в мангалачаранах ХБВ и «Вайшнава-тошани»; у Кишори-кунды в Умрао Господь в ином облике вручает ему Божество Радха-виноду, которое Само просит есть; Локанатха носит Его в сумке на груди, живёт под деревьями; после ухода Госвами живёт лишь по воле Господа."
+  persons: ["@lokanatha", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@bhugarbha", "@govinda-deity", "@radha-vinoda-deity", "@kashishvara"]
+  places: ["#vrindavana", "#umrao"]
+  kind: post-advent
+  authority: B
+  themes: [deities, separation]
+  event: ev-lokanatha-life-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "315", to: "344"}
+
+- id: brt-0020
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 345–349"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 75
+  title: "Служение Нароттамы гуру и посвящение; имя «Тхакур Махашая»; встреча со Шринивасой"
+  summary: "Нароттама служит Локанатхе, тот, довольный, даёт ему мантру; Гопала Бхатта и другие любят его, Джива нарекает его «Тхакур Махашая»; там же он встречает Шринивасу."
+  persons: ["@narottama-dasa", "@lokanatha", "@gopala-bhatta", "@jiva-gosvami", "@srinivasa-acharya"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  notes: "Имя «Тхакур Махашая» — ср. ev-narottama-thakura-mahashaya (упоминание)."
+  themes: [mercy]
+  event: ev-narottama-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "345", to: "349"}
+
+- id: brt-0021
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 350–381"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 69
+  title: "Рождение и юность Духкхи Кришнадаса; посвящение у Хридаи Чайтаньи в Амбике"
+  summary: "Сын садгопа Кришны Мандала и Дурики (Дандешвар; родился, по словам людей, в Дхаренда-Бахадурпуре) после смерти старших детей назван Духкхи; учён, слушает о Гауре и Нитьянанде, служит родителям; с паломниками на Гангу уходит в Амбику к Хридае Чайтанье, ветви Гауридаса Пандита, который даёт ему имя Кришнадас и намекает, что во Вриндаване он станет Шьяманандой."
+  persons: ["@shyamananda", "@krishna-mandala", "@durika", "@hridaya-chaitanya", "@gauridasa-pandita"]
+  places: ["#dandeshvara", "#dharenda", "#ambika-kalna"]
+  kind: post-advent
+  authority: B
+  themes: [family, mercy]
+  event: ev-shyamananda-initiation-ambika
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "350", to: "381"}
+
+- id: brt-0022
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 382–411"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 69.5
+  title: "Духкхи Кришнадас идёт во Вриндаван, молясь Гауда-мандале; учится у Дживы; письма Хридаи Чайтаньи"
+  summary: "По велению Хридаи Чайтаньи Духкхи Кришнадас прощается с Божествами Гауры-Нитай, обходит Навадвипу, взывая к Гауда-мандале — чинтамани (песня Нароттамы «Гаурангера дути пада»); во Вриндаване его садхана радует Шьямасундару, он получает имя Шьямананда и учится у Дживы; Хридая Чайтанья пишет Дживе, вверяя ему ученика; позже Шьямананда принимает учеников (Мурари) в Уткале."
+  persons: ["@shyamananda", "@hridaya-chaitanya", "@jiva-gosvami", "@narottama-dasa", "@rasikananda"]
+  places: ["#ambika-kalna", "#navadvipa", "#gauda", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  notes: "Имя «Шьямананда» — лишь упоминание (подробно в 6-й таранге, ср. ev-shyamananda-nupura)."
+  themes: [pilgrimage, learning]
+  teaching: [vaishnava]
+  event: ev-shyamananda-comes-to-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "382", to: "411"}
+
+- id: brt-0023
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 412–437"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 86
+  title: "Нароттама в Гауде: шесть Божеств Кхетури, санкиртана, приход Джахнавы, ученики (кратко)"
+  summary: "Песня Васанты о странствиях Нароттамы; по повелению Локанатхи он служит Божествам, вайшнавам и санкиртане, учреждает служение шести Божествам (шлока: Гауранга, Валлавиканта, Шри Кришна, Враджамохана, Радха-рамана, Радха-канта); Джахнава-деви приходит в Кхетури; ученики — Рамакришна Чакраварти, Ганганараяна, Сантоша."
+  persons: ["@narottama-dasa", "@vasanta-dasa", "@lokanatha", "@jahnava", "@ganganarayana-chakravarti", "@santosha-datta"]
+  places: ["#kheturi", "#gauda", "#puri"]
+  kind: post-advent
+  authority: B
+  notes: "Сутра (кратко); подробно — в 10-й таранге (ср. ev-kheturi-six-deities, ev-jahnava-kheturi)."
+  themes: [deities, kirtan]
+  event: ev-narottama-returns-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "412", to: "437"}
+
+- id: brt-0024
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 438–460"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 112
+  title: "Песни Говинды Кавираджи: «Слава Нароттаме», звание Кавираджи, песни для Дживы и песня о Раме для Харинараяны"
+  summary: "Песня Говиндадаса о Нароттаме — царе према-бхакти и его министре Рамачандре; Говинда, младший брат Рамачандры, получает звание Кавираджи во Вриндаване; Джива в письмах просит присылать песни; для царя Харинараяны, ученика Рамачандры, Говинда слагает песню о Раме."
+  persons: ["@govinda-kaviraja", "@narottama-dasa", "@ramachandra-kaviraja", "@jiva-gosvami", "@lokanatha", "@harinarayana-raja"]
+  places: ["#kheturi", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [learning, kirtan]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "438", to: "460"}
+
+- id: brt-0025
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 461–483"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 98.5
+  title: "Сантоша Датта, двоюродный брат Нароттамы, и драма «Сангита-мадхава»"
+  summary: "С позволения Сантоши Датты Говинда Кавираджа пишет «Сангита-мадхаву» о пурвараге Радхи и Кришны; род Даттов Гопалпура (Пурушоттама и Кришнананда); Сантоша — сановник царя Гауды, ученик Нароттамы, служит Божествам Кхетури; шлоки из пролога драмы."
+  persons: ["@santosha-datta", "@purushottama-datta", "@krishnananda-datta", "@narottama-dasa", "@govinda-kaviraja", "@ramachandra-kaviraja"]
+  places: ["#gopalapura", "#padmavati", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [learning, deities]
+  event: ev-santosha-datta-sangita-madhava
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "461", to: "483"}
+
+- id: brt-0026
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 484–491"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 90.5
+  title: "Гокулананда и Шридас, сыновья Двиджи Харидаса, становятся учениками Шринивасы (кратко)"
+  summary: "Двиджа Харидас Ачарья, спутник Махапрабху, велит сыновьям Гокулананде и Шридасу принять посвящение у Шринивасы."
+  persons: ["@dvija-haridasa", "@gokulananda", "@shridasa-chakravarti", "@srinivasa-acharya"]
+  places: []
+  kind: post-advent
+  authority: B
+  themes: [family, mercy]
+  event: ev-gokulananda-shridasa-disciples
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "484", to: "491"}
+
+- id: brt-0027
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 492–530"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: PX
+  order: 32
+  title: "Автор о жизни Шринивасы и о величии бхакти; название книги"
+  summary: "Вайшнавы велели автору описать жизнь Шринивасы; слушающие её обретают милость Гауры, Нитьянанды, Адвайты; книгу назвали «Бхакти-ратнакара»; бхакти редка (шлока, Бхаг. 5.6.18), но стала доступна по милости Чайтаньи, Нитьянанды, Адвайты и их шакти; Рупа и Санатана явили шастры бхакти на западе, Джива — их преемник."
+  persons: ["@narahari-chakravarti", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  teaching: [bhakti-supremacy]
+  scriptures: ["Бхаг. 5.6.18", "БРС 1.1.36"]
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "492", to: "530"}
+
+- id: brt-0028
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 531–539"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P05
+  order: 300
+  title: "Санатана получает «Бхагавату» во сне и наяву"
+  summary: "В ранней юности Санатане во сне брахман даёт «Шримад-Бхагавату», а утром тот же брахман вручает её наяву; Санатана погружается в прему и позже раскрывает смысл в «Вайшнава-тошани» (шлоки из «Лагху-тошани» Дживы)."
+  persons: ["@sanatana-gosvami", "@jiva-gosvami"]
+  places: []
+  kind: vision
+  authority: B
+  themes: [revelation, learning]
+  event: ev-sanatana-dream-bhagavata
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "531", to: "539"}
+
+- id: brt-0029
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 540–580"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: PX
+  order: 40
+  title: "Семь предков Дживы Госвами: Сарваджня, Анируддха, Рупешвара, Падманабха, Мукунда, Кумара"
+  summary: "Сарваджня Джагадгуру, царь Карнаты из рода Бхарадваджи; его сын Анируддха; Рупешвара, изгнанный братом Харихарой, уходит на восток к Шикхарешваре; Падманабха поселяется в Навахатте (Наихати) и поклоняется Пурушоттаме; его сын Мукунда; Кумара, боясь общения с яванами и родни, переселяется в Бакла-Чандрадвипу и Фатехабад; его сыновья — Санатана, Рупа и Валлабха (отец Дживы); шлоки «Лагху-тошани»."
+  persons: ["@kumara-deva", "@sanatana-gosvami", "@rupa-gosvami", "@anupama", "@jiva-gosvami"]
+  places: ["#karnata", "#naihati", "#chandradvipa", "#fatehabad"]
+  kind: lila
+  authority: B
+  themes: [family]
+  event: ev-gosvamis-ancestry
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "540", to: "580"}
+
+- id: brt-0030
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 581–619"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 11.5
+  title: "Рупа и Санатана — министры царя Гауды в Рамакели: учёное собрание, учителя, тайная садхана, смирение"
+  summary: "Царь-яван делает их министрами; в Рамакели они живут в роскоши, принимают учёных, поселяют брахманов из Карнаты в Бхаттавати; учителя Санатаны — Видья-вачаспати, Сарвабхаума и другие (шлока из комментария к 10-й песни); у дома — кадамбовая роща с Радха- и Шьяма-кундами, служение Мадана-мохану; томятся по Гауре и из-за общения с яванами считают себя ниже млеччхов."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@vidya-vachaspati", "@sarvabhauma"]
+  places: ["#ramakeli", "#gauda"]
+  kind: lila
+  authority: B
+  themes: [learning, separation]
+  teaching: [vaishnava]
+  event: ev-ramakeli-rupa-sanatana
+  notes: "Предыстория встречи в Рамакели."
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "581", to: "619"}
+
+- id: brt-0031
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 620–638"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 12
+  title: "Рамакели: Рупа и Санатана у стоп Господа; урок смирения"
+  summary: "По пути во Вриндаван Господь приходит в Рамакели; Рупа и Санатана тайно падают к Его стопам с соломинкой в зубах; Господь плачет от их смирения («оставьте смирение» — по ЧЧ); через Рамананду, Дамодару, Харидаса и Рупу-Санатану Господь явил обуздание чувств, беспристрастие, терпение и смирение; Кешава Чхатри и другие видят Господа, юный Джива тайно видит Его (по словам стариков)."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@keshava-vasu", "@jiva-gosvami", "@ramananda-raya", "@damodara-pandita", "@haridasa-thakura"]
+  places: ["#ramakeli"]
+  kind: lila
+  authority: B
+  themes: [mercy, teaching]
+  teaching: [vaishnava]
+  cc: "Мадхья 1"
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "620", to: "638"}
+
+- id: brt-0032
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 639–650"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 12.5
+  title: "Учёность юного Дживы; Рупа и Санатана оставляют службу"
+  summary: "Юный Джива быстро осваивает шастры, все дивятся его красоте; Рупа и Санатана совершают пурашчарану, отправляют домочадцев в Чандрадвипу и Фатехабад, Рупа с Валлабхой раздаёт богатство и уходит, услышав, что Господь ушёл во Врадж."
+  persons: ["@jiva-gosvami", "@rupa-gosvami", "@sanatana-gosvami", "@anupama"]
+  places: ["#ramakeli", "#chandradvipa", "#fatehabad"]
+  kind: lila
+  authority: B
+  themes: [sannyasa, learning]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "639", to: "650"}
+
+- id: brt-0033
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 651–652"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 182
+  title: "Рупа и Валлабха встречают Господа в Праяге (кратко)"
+  summary: "Господь из Вриндавана приходит в Праягу, где встречает Рупу и Валлабху и посылает их во Вриндаван."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@anupama"]
+  places: ["#prayaga"]
+  kind: lila
+  authority: B
+  themes: [mercy]
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "651", to: "652"}
+
+- id: brt-0034
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 653–661"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P13
+  order: 185
+  title: "Санатана в Каши у Господа (кратко; шлоки Карнапуры)"
+  summary: "Санатана, ведя дела через других, дома разбирает «Бхагавату» с пандитами; по ЧЧ — уходит в Каши и встречает Господа, Который Сам очищает его тело; шлоки «Чайтанья-чандродаи» 9.34–35 и о милости Рупе и Санатане."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@kavi-karnapura", "@rupa-gosvami"]
+  places: ["#kashi"]
+  kind: lila
+  authority: B
+  scriptures: ["ЧЧд 9.34–35"]
+  themes: [mercy, teaching]
+  cc: "Мадхья 19–20"
+  event: ev-sanatana-kashi-instruction
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "653", to: "661"}
+
+- id: brt-0035
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 662–674"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 12
+  title: "Рупа и Анупама идут в Пури; уход Анупамы на Ганге; Рупа в Нилачале (кратко)"
+  summary: "Рупа и Санатана разминулись; Рупа с Валлабхой (Анупамой, преданным Рамы, считавшим Чайтанью Самим Рагхунатхой) идёт в Нилачалу через Гауду; Анупама уходит из мира на Ганге; Рупа получает милость Господа и спутников, затем через Гауду, раздав остаток богатства, уходит во Врадж (по ЧЧ)."
+  persons: ["@rupa-gosvami", "@anupama", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#puri", "#gauda", "#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [mercy, departure]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "662", to: "674"}
+
+- id: brt-0036
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 675–679"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 14
+  title: "Санатана приходит через Джхарикханду в Нилачалу и возвращается во Врадж (кратко)"
+  summary: "Санатана из Вриндавана идёт в Пури лесной дорогой, Господь с любовью сводит его с преданными и отсылает обратно; во Вриндаване он встречается с Рупой."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@rupa-gosvami"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [mercy]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "675", to: "679"}
+
+- id: brt-0037
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 680–683"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 17.5
+  title: "Сын домашнего жреца Госвами — ученик Санатаны; Рупа и Санатана открывают утраченные тиртхи"
+  summary: "Сын брахмана-жреца рода Госвами, придя за богатством во Вриндаван, становится учеником Санатаны (его потомки в Мадграме); Санатана и Рупа являют утраченные тиртхи Матхура-мандалы."
+  persons: ["@sanatana-gosvami", "@rupa-gosvami"]
+  places: ["#vrindavana", "#mathura"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, mercy]
+  event: ev-gosvamis-reveal-lost-tirthas
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "680", to: "683"}
+
+- id: brt-0038
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 684–738"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 11
+  title: "Джива тоскует дома; детские игры с фигурками Кришны и Баларамы; сны о Гауре и Нитай"
+  summary: "После ухода Госвами Джива оставляет роскошь, люди Фатехабада толкуют о его отречении и скорби после смерти отца Валлабхи; он плачет, взывая к Чайтанье и Нитьянанде; во сне видит киртан Гауры, затем Кришну и Балараму, ставших золотыми, — Гаура вручает его Нитьянанде («пусть этот Мой Господь будет всем для тебя»); вставка о детстве: игры и поклонение фигуркам Кришны и Баларамы."
+  persons: ["@jiva-gosvami", "@mahaprabhu", "@nityananda", "@anupama", "@krishna", "@balarama"]
+  places: ["#fatehabad", "#chandradvipa"]
+  kind: vision
+  authority: B
+  themes: [revelation, separation]
+  bhava: [krishna, balarama]
+  event: ev-jiva-comes-to-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "684", to: "738"}
+
+- id: brt-0039
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 739–774"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 11.5
+  title: "Джива уходит в Навадвипу; Нитьянанда принимает его в доме Шриваса и посылает во Врадж"
+  summary: "Под предлогом учёбы Джива уходит из Фатехабада с одним слугой, люди восхищаются его красотой; в Навадвипе вайшнавы сообщают Нитьянанде, Который ждёт его в доме Шриваса («ради тебя Я пришёл из Кхардахи»); Нитьянанда ставит стопы ему на голову, обнимает и посылает во Врадж: «твоему роду Господь отдал это место»."
+  persons: ["@jiva-gosvami", "@nityananda", "@srivasa"]
+  places: ["#fatehabad", "#navadvipa", "#khardaha"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, pilgrimage]
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "739", to: "774"}
+
+- id: brt-0040
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 775–780"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 12
+  title: "Джива учится у Мадхусуданы Вачаспати в Каши и приходит во Вриндаван"
+  summary: "В Каши Мадхусудана Вачаспати обучает Дживу веданте, весь Каши хвалит его учёность; затем во Вриндаване Рупа и Санатана оказывают ему милость."
+  persons: ["@jiva-gosvami", "@madhusudana-vachaspati", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#kashi", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [learning]
+  event: ev-jiva-comes-to-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "775", to: "780"}
+
+- id: brt-0041
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 781–795"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 17.2
+  title: "Гопала приносит Рупе и Санатане молоко; «Вайшнава-тошани» и «Лагху-тошани»"
+  summary: "Шлоки «Лагху-тошани» о трёх братьях и Рагхунатхе Дасе; под видом мальчика-пастушка Гопала приносит Рупе и Санатане сгущённое молоко; Санатана пишет «Вайшнава-тошани» (1554), Джива по его велению — «Лагху-тошани» (1582)."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@raghunatha-dasa", "@jiva-gosvami", "@krishna"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  themes: [krishna-lila, learning]
+  bhava: [krishna]
+  event: ev-gopala-milk-rupa-sanatana
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "781", to: "795"}
+
+- id: brt-0042
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 796–858"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 120
+  title: "Перечень книг Санатаны, Рупы, Рагхунатхи Даса и Дживы (по «Лагху-тошани» и Кришнадасу Адхикари)"
+  summary: "Четыре книги Санатаны, шестнадцать — Рупы (с одиннадцатью шлоками аштакала-лилы, развёрнутыми Кришнадасом Кавираджей), три — Рагхунатхи Даса, двадцать пять — Дживы (включая семь «Сандарбх»); бхакти постигается лишь милостью Бхакти-деви."
+  persons: ["@sanatana-gosvami", "@rupa-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@krishnadasa-adhikari", "@krishnadasa-kaviraja"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [learning]
+  event: ev-jiva-gosvami-writings
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "796", to: "858"}
+
+- id: brt-0043
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 859–893"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 99
+  title: "Жизнь Шринивасы вкратце: рождение в Чакханди, путь в Нилачалу, вести об уходе Господа и спутников, Вриндаван, книги, Вишнупур"
+  summary: "Сутра всей жизни Шринивасы: рождение в Чакханди в доме Чайтаньи; по дороге в Пури узнаёт об уходе Господа, затем Гададхары, Нитьянанды и Адвайты, каждый раз утешаемый во сне; Гопала Бхатта, Нароттама, книги Госвами, похищение в Вана-Вишнупуре, женитьба, милость Вирачандры, хождения между Гаудой и Вриндаваном; подпись и колофон таранги."
+  persons: ["@srinivasa-acharya", "@chaitanya-dasa", "@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@advaita", "@gopala-bhatta", "@narottama-dasa", "@virabhadra", "@narahari-chakravarti"]
+  places: ["#chakhandi", "#shrikhanda", "#puri", "#jajpur", "#navadvipa", "#vrindavana", "#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  notes: "Краткое изложение (сутра); подробно — в тарангах 2–15."
+  themes: [family, separation]
+  event: ev-srinivasa-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "859", to: "893"}

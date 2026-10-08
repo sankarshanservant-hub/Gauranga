@@ -13,3 +13,78 @@
   cb: ""
   themes: [revelation]
   notes: "«Бхакти-ратнакара» 1: Гопала скорбит о санньясе Господа; во сне видит игры в Навадвипе, затем Господа — Шьямой в одежде пастушка, золотым и санньяси; Господь велит ему идти во Вриндаван к Рупе и Санатане."
+
+- id: ev-ramachandra-kaviraja-birth
+  title: "Род и рождение Рамачандры Кавираджи: проклятие поэта Дамодары, Сунанда и Чиранджива"
+  title_en: "Ramachandra Kaviraja's family and birth: the curse on Damodara the poet, Sunanda and Chiranjiva"
+  period: P15
+  order: 44
+  date_conf: оценка
+  date_basis: "по БР 1: отец — Чиранджива Сена, спутник Господа; время рождения не указано"
+  themes: [family]
+  notes: "«Бхакти-ратнакара» 1.237–262."
+
+- id: ev-santosha-datta-sangita-madhava
+  title: "Сантоша Датта и драма Говинды Кавираджи «Сангита-мадхава»"
+  title_en: "Santosha Datta and Govinda Kaviraja's drama Sangita-madhava"
+  period: P15
+  order: 98.5
+  date_conf: оценка
+  themes: [learning, deities]
+  notes: "«Бхакти-ратнакара» 1.461–483."
+
+- id: ev-gokulananda-shridasa-disciples
+  title: "Гокулананда и Шридас, сыновья Двиджи Харидаса, — ученики Шринивасы"
+  title_en: "Gokulananda and Shridasa, the sons of Dvija Haridasa, become disciples of Srinivasa"
+  period: P15
+  order: 90.5
+  date_conf: оценка
+  themes: [family, mercy]
+  notes: "«Бхакти-ратнакара» 1.484–491 (кратко; подробно — дальше в книге)."
+
+- id: ev-sanatana-dream-bhagavata
+  title: "Санатана в юности получает «Бхагавату» во сне и наяву"
+  title_en: "Sanatana in his youth receives the Bhagavata in a dream and in waking"
+  period: P05
+  order: 300
+  date_conf: оценка
+  date_basis: "«в ранней юности» Санатаны (Лагху-тошани)"
+  themes: [revelation, learning]
+  notes: "«Бхакти-ратнакара» 1.531–539 по «Лагху-тошани»."
+
+- id: ev-gosvamis-ancestry
+  title: "Предки Госвами: от Сарваджни, царя Карнаты, до Кумары-девы"
+  title_en: "The ancestry of the Gosvamis: from Sarvajna, king of Karnata, to Kumara-deva"
+  period: PX
+  order: 40
+  themes: [family]
+  notes: "«Бхакти-ратнакара» 1.540–577 по заключению «Лагху-тошани»."
+
+- id: ev-jiva-meets-nityananda-navadvipa
+  title: "Джива в Навадвипе: встреча с Нитьянандой в доме Шриваса"
+  title_en: "Jiva in Navadvipa: meeting Nityananda in Srivasa's house"
+  period: P15
+  order: 11.5
+  date_conf: оценка
+  date_basis: "после ухода Господа, при жизни Нитьянанды (БР 1; подробнее БР 12)"
+  themes: [mercy, pilgrimage]
+  notes: "«Бхакти-ратнакара» 1.739–774; обход Навадвипы — 12-я таранга."
+
+- id: ev-gopala-milk-rupa-sanatana
+  title: "Гопала под видом мальчика-пастушка приносит молоко Рупе и Санатане"
+  title_en: "Gopala in the guise of a cowherd boy brings milk to Rupa and Sanatana"
+  period: P14
+  order: 17.2
+  date_conf: оценка
+  themes: [krishna-lila, mercy]
+  bhava: [krishna]
+  notes: "«Бхакти-ратнакара» 1.788–789, 795, 826 по «Лагху-тошани»."
+
+- id: ev-gosvamis-reveal-lost-tirthas
+  title: "Рупа и Санатана открывают утраченные тиртхи Матхура-мандалы"
+  title_en: "Rupa and Sanatana reveal the lost tirthas of Mathura-mandala"
+  period: P14
+  order: 17.5
+  date_conf: оценка
+  themes: [pilgrimage]
+  notes: "«Бхакти-ратнакара» 1.683, 785."
