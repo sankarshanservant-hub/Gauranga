@@ -59,4 +59,44 @@ def build(c):
     open(os.path.join(D,'CC_Antya%d.md'%c),'w',encoding='utf-8').write('\n'.join(out).rstrip()+'\n')
     print('Antya %d: %d verses up to %d of %d'%(c,sum(i['b']-i['a']+1 for i in items),expect-1,max(sk)))
     for e in errs: print('  !',e)
-for a in sys.argv[1:]: build(int(a))
+def parse_poem(path):
+    items={};cur=None
+    for raw in open(path,encoding='utf-8').read().split('\n'):
+        l=raw.rstrip()
+        m=re.match(r'^@(\d+)(?:-(\d+))?\s*$',l)
+        if m:
+            cur=(int(m.group(1)),int(m.group(2) or m.group(1))); items[cur]=[]; continue
+        if l.startswith('@'): cur=None; continue
+        if cur and l.strip(): items[cur].append(l)
+    return items
+def build_poetry(c):
+    p=os.path.join(D,'work','fill%dp.txt'%c)
+    if not os.path.exists(p): return
+    sk={v['n']:v for v in json.load(open(os.path.join(D,'work','antya%d.json'%c),encoding='utf-8'))}
+    title,items,notes=parse_fill(os.path.join(D,'work','fill%d.txt'%c))
+    poems=parse_poem(p)
+    out=['“Шри Чайтанья-чаритамрита”  ','Антья-лила  ','Глава %d  '%c,'**%s**  '%title,
+         '(перевод выполнен в стиле Вриндавана Чандры даса, 2026)','']
+    done=0; missing=[]
+    for it in items:
+        key=(it['a'],it['b'])
+        if key not in poems:
+            missing.append(key); continue
+        ns=list(range(it['a'],it['b']+1))
+        trl=[]
+        for n in ns: trl+=sk[n]['tr']
+        il=[]
+        for i,t in enumerate(trl):
+            il.append(t); il.append(it['ww'][i] if i<len(it['ww']) else '???')
+        out.append(br(il)); out.append('')
+        lab='%d'%ns[0] if len(ns)==1 else '%d–%d'%(ns[0],ns[-1])
+        pl=[x.replace('    ','\u2003\u2003') for x in poems[key]]
+        if len(pl)>1 and pl[-1].strip().startswith('('): pl[-2]=pl[-2]+' (%s)'%lab
+        else: pl[-1]=pl[-1]+' (%s)'%lab
+        out.append(br(pl)); out.append('')
+        done+=len(ns)
+    open(os.path.join(D,'CC_Antya%dpoetry.md'%c),'w',encoding='utf-8').write('\n'.join(out).rstrip()+'\n')
+    first_missing=missing[0] if missing else None
+    print('Antya %d poetry: %d verses; first missing %s'%(c,done,first_missing))
+for a in sys.argv[1:]:
+    build(int(a)); build_poetry(int(a))
