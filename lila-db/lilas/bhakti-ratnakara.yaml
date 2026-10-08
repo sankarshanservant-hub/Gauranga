@@ -1116,3 +1116,259 @@
   event: ev-srinivasa-schooling
   verses:
     - {file: "bhakti-ratnakara/ru/02.md", from: "484", to: "491"}
+
+- id: brt-0064
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 1–12"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: PX
+  order: 30.3
+  title: "Мангалачарана третьей таранги"
+  summary: "Слава Гаурасундаре, Нитьянанде, Адвайте, Гададхаре, Шривасу и спутникам Господа, Рагхунатхе Дасу у Шри Кунды и своему гуру."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "1", to: "12"}
+
+- id: brt-0065
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 13–25"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 52.1
+  title: "Шриниваса в Чакханди; смерть отца, переселение в Яджиграм"
+  summary: "Шриниваса служит родителям, любим всем селением Чакханди; отец уходит из мира; Шриниваса с матерью переселяется в Яджиграм, в дом деда; слушает у преданных об играх Господа в Нилачале."
+  persons: ["@srinivasa-acharya", "@chaitanya-dasa", "@lakshmipriya-chakhandi"]
+  places: ["#chakhandi", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  themes: [family]
+  event: ev-srinivasa-father-death-yajigrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "13", to: "25"}
+
+- id: brt-0066
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 26–50"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 53.1
+  title: "Шриниваса решает идти в Нилачалу; Нарахари рассказывает о загадке Адвайты"
+  summary: "Шриниваса мечтает увидеть Господа, Гададхару, Джаганнатху; в Кханде Нарахари благословляет его идти скорее и рассказывает о загадке-тарадже Адвайты (ЧЧ Антья 19): Господь собирается сокрыть игры; встреча с Рагхунанданой; прощание с матерью."
+  persons: ["@srinivasa-acharya", "@narahari-sarakara", "@raghunandana", "@advaita", "@lakshmipriya-chakhandi"]
+  places: ["#shrikhanda", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  divergence: "В «Према-виласе» Шриниваса узнаёт об уходе Господа ещё в Бенгалии."
+  themes: [separation, pilgrimage]
+  event: ev-srinivasa-sets-out-nilachala
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "26", to: "50"}
+
+- id: brt-0067
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 51–64"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 53.2
+  title: "Шриниваса в пути; путники дивятся ему"
+  summary: "На пятый день светлой половины магхи Шриниваса выходит; путники гадают, кто он: царский сын, преданный Гауры; он расспрашивает о Господе и молит о крыльях."
+  persons: ["@srinivasa-acharya"]
+  places: []
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage]
+  event: ev-srinivasa-sets-out-nilachala
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "51", to: "64"}
+
+- id: brt-0068
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 65–85"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 55.1
+  title: "Весть о сокрытии Господа; Гаура утешает Шринивасу во сне"
+  summary: "Услышав, что Махапрабху больше не видно, Шриниваса падает без чувств и решает войти в огонь; ночью Господь является ему во сне (шлока «Нава-падьи» Нрисимхи Кавираджи), возлагает стопы на голову, велит идти в Нилачалу к Гададхаре и другим спутникам."
+  persons: ["@srinivasa-acharya", "@mahaprabhu"]
+  places: []
+  kind: vision
+  authority: B
+  themes: [separation, revelation, mercy]
+  event: ev-srinivasa-hears-disappearance-dream
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "65", to: "85"}
+
+- id: brt-0069
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 86–121"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.1
+  title: "Шриниваса в Пури: прасад от Джаганнатхи и видения Гауры"
+  summary: "У озера Нарендра Шриниваса в экстазе; ночью Джаганнатха в облике брахмана приносит ему маха-прасад; во сне он видит Гауру со спутниками, Гададхару, читающего «Бхагавату», затем Гауру у Львиных ворот, который велит не горевать."
+  persons: ["@srinivasa-acharya", "@jagannatha-deity", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#puri", "#narendra-sarovara"]
+  kind: vision
+  authority: B
+  themes: [revelation, prasada, jagannatha]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "86", to: "121"}
+
+- id: brt-0070
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 122–154"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.2
+  title: "Шриниваса у Гададхары Пандита"
+  summary: "Омовение в Маркандее; провожатый ведёт его к Тота-Гопинатхе; Гададхара Пандит, истерзанный разлукой, обнимает Шринивасу и даёт провожатого, чтобы познакомить его со всеми."
+  persons: ["@srinivasa-acharya", "@gadadhara-pandita", "@gopinatha-deity-puri"]
+  places: ["#puri", "#tota"]
+  kind: post-advent
+  authority: B
+  themes: [separation]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "122", to: "154"}
+
+- id: brt-0071
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 155–212"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.3
+  title: "Шриниваса у спутников Господа в Пури"
+  summary: "Сарвабхаума и Рамананда, Вакрешвара, Парамананда Пури и санньяси, Шикхи Махити с сестрой, Говинда и Шанкара, Гопинатха Ачарья принимают Шринивасу; все неподвижны в разлуке; Рагхунатхи Даса нет — он ушёл во Вриндаван (шлока ЧЧН 10.3 о нём)."
+  persons: ["@srinivasa-acharya", "@sarvabhauma", "@ramananda-raya", "@vakreshvara", "@paramananda-puri", "@shikhi-mahiti", "@madhavi-devi", "@govinda-servant", "@shankara-pandita", "@gopinatha-acharya", "@raghunatha-dasa", "@svarupa-damodara", "@yadunandana-acharya"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  themes: [separation]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "155", to: "212"}
+
+- id: brt-0072
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 213–221"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 11.5
+  title: "Скорбь Пратапарудры"
+  summary: "Пратапарудра, ещё при Господе передав царство сыну, вместе с Сарвабхаумой и Раманандой воспевал Господа; услышав о сокрытии Господа, лишился чувств, спасён Раманандой, живёт вдали от Нилачалы; Шриниваса не застал его."
+  persons: ["@prataparudra", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  divergence: "По историческим данным Пратапарудра правил и после 1533 г."
+  themes: [separation]
+  event: ev-devotees-lament-after-disappearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "213", to: "221"}
+
+- id: brt-0073
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 222–228"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.4
+  title: "Шриниваса у самадхи Харидаса"
+  summary: "На берегу океана Шриниваса падает без чувств у самадхи Харидаса Тхакура; преданные успокаивают его."
+  persons: ["@srinivasa-acharya", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  themes: [separation]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "222", to: "228"}
+
+- id: brt-0074
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 229–260"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.5
+  title: "Даршан Джаганнатхи"
+  summary: "По слову Гададхары Шринивасу ведут к Джаганнатхе; люди дивятся ему; Патита-павана, Нрисимха, красота Джаганнатхи, Баларамы, Субхадры и Сударшаны; служитель дарит гирлянду и ткань; снова Гопинатха."
+  persons: ["@srinivasa-acharya", "@jagannatha-deity", "@balarama", "@subhadra", "@nrisimha", "@gopinatha-deity-puri"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  themes: [jagannatha, deities]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "229", to: "260"}
+
+- id: brt-0075
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 261–295"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 56.6
+  title: "Гададхара читает Шринивасе «Бхагавату» и отсылает его в Гауду"
+  summary: "Шриниваса почтил маха-прасад; Гададхара сожалеет, что не может учить его «Бхагавате», но всё же объясняет её; книга с буквами, стёртыми слезами Господа и Гададхары, обветшала — он велит идти во Вриндаван; прощание со всеми в Пури."
+  persons: ["@srinivasa-acharya", "@gadadhara-pandita", "@gadadhara-dasa", "@narahari-sarakara"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  themes: [learning, separation, prasada]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "261", to: "295"}
+
+- id: brt-0076
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 296–322"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 57.1
+  title: "Весть об уходе Гададхары Пандита"
+  summary: "Шриниваса возвращается в Кханду к Нарахари и Рагхунандане, затем снова идёт в Пури, но в пути узнаёт, что Гададхара скрылся; в безумии бродит у Джаджпура; во сне Гаура и Гададхара велят идти через Навадвипу во Вриндаван."
+  persons: ["@srinivasa-acharya", "@gadadhara-pandita", "@narahari-sarakara", "@raghunandana", "@mahaprabhu"]
+  places: ["#shrikhanda", "#jajpur"]
+  kind: vision
+  authority: B
+  themes: [departure, separation, revelation]
+  event: ev-srinivasa-dream-nitai-advaita
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "296", to: "322"}
+
+- id: brt-0077
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 323–361"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 57.2
+  title: "Весть об уходе Нитьянанды и Адвайты; Они являются Шринивасе во сне"
+  summary: "Путники из Гауды говорят, что Нитьянанда и Адвайта скрылись; Шриниваса решает войти в огонь; во сне являются Нитай и Адвайта (описание их красоты), обнимают его, говорят, что через его тело совершится много дел, и велят, повидав всех в Гауде, идти во Вриндаван."
+  persons: ["@srinivasa-acharya", "@nityananda", "@advaita"]
+  places: []
+  kind: vision
+  authority: B
+  themes: [departure, separation, revelation, mercy]
+  event: ev-srinivasa-dream-nitai-advaita
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "323", to: "361"}
+
+- id: brt-0078
+  source: bhakti-ratnakara
+  ref: "Таранга 3, 362–370"
+  file: "bhakti-ratnakara/ru/03.md"
+  period: P15
+  order: 57.3
+  title: "Возвращение в Гауду; путь в Навадвипу"
+  summary: "Через Уткалу и Мадхья-деш Шриниваса приходит в Кханду, затем по повелению Господа спешит в Навадвипу; подпись автора и колофон."
+  persons: ["@srinivasa-acharya", "@narahari-chakravarti"]
+  places: ["#shrikhanda", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage]
+  event: ev-srinivasa-dream-nitai-advaita
+  verses:
+    - {file: "bhakti-ratnakara/ru/03.md", from: "362", to: "370"}

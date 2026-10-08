@@ -35,6 +35,7 @@ notes at the end of each taranga.
 
 - Taranga 1. The Mangalacharana, Accounts of Various Matters, and a Brief Statement of the Birth of Srinivasa Acharya and Other Events
 - Taranga 2. An Account of the Birth of Srinivasa and Other Matters; the Appearance of Sri Govinda and the Other Deities in Vrindavana
+- Taranga 3. Srinivasa's Journey to Nilachala and Return to Gauda
 
 ---
 
@@ -4279,3 +4280,1145 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^02-11]: A prose passage from the Sadhana-dipika. According to this account, the Deity of Gaura-Govinda stands in Vrindavana to the right of Govinda-deva.
 [^02-12]: This couplet stands at this place in the editions of 1888 and 1912/13; in the 1960 edition it is misplaced after verse 477 under the number 478, so the number 478 is skipped here.
 [^02-13]: Gopinatha is the Deity manifested by Madhu Pandita at Vamshivata; Paramananda Bhattacharya (474) is his elder friend and fellow student.
+
+---
+
+# Taranga 3. Srinivasa's Journey to Nilachala and Return to Gauda
+
+*Srinivasa's boyhood in Chakhandi; his father's death and the move to Yajigrama; Srinivasa sets out for Nilachala via Shrikhanda; Advaita's riddle; news of the Lord's disappearance; consolation in a dream; Srinivasa with Gadadhara Pandita and the Lord's associates in Puri; return to Gauda, news of the disappearance of Gadadhara, Nityananda and Advaita; arrival in Navadvipa*
+
+**1.** Glory to Sri Gaurasundara, the Moon of Navadvipa!
+Glory to Nityananda the Avadhuta, Haladhara!
+
+**2.** Glory to Advaita, the Lord, the Master of Shantipura!
+Glory to Sri Gadadhara Pandita, dear to Gaura!
+
+**3.** Glory, glory to Srivasa Pandita Thakura!
+Glory to Haridasa, absorbed in the nectar of Hari-nama!
+
+**4.** Glory to Sri Svarupa Damodara, full of prema!
+Glory to Sri Murari Gupta, the ocean of virtues!
+
+**5.** Glory to Vasudeva Sarvabhauma Mahashaya!
+Glory to Raya Ramananda, the abode of rasa!
+
+**6.** Glory to Gauridasa and Sri Vakreshvara Pandita!
+Glory to Narahari, Sri Mukunda and Kashishvara!
+
+**7.** Glory to Jagadisha, Gauridasa and Dhananjaya!
+Glory to Sanatana and Rupa, abodes of virtue!
+
+**8.** Glory to Jiva, Gopala, Bhugarbha and Lokanatha!
+Glory to Raghunatha Bhatta, renowned in the world!
+
+**9.** Glory to Raghunatha Dasa, who dwells at Sri Kunda!
+Glory, glory to Sri Raghava, who dwells at Govardhana!
+
+**10.** Glory to Srinivasa, Narottama and Ramachandra!
+Glory to Shyamananda, the life of the poor and suffering!
+
+**11.** Glory to my Sri Thakura, the Gosani of the Vaishnavas:[^03-1]
+singing his virtues, the world is purified!
+
+**12.** Glory, glory to the listeners, abodes of virtue!
+Now listen with kind hearts to what I shall tell.
+
+**13.** Srinivasa's heart is absorbed in Gaura's virtues;
+he serves his father and mother without cease.
+
+**14.** How his father and mother loved their son
+I have no power to tell.
+
+**15.** What joy in every house of the village of Chakhandi!
+They cannot be parted from Srinivasa for a moment.
+
+**16.** Srinivasa pleases everyone in every way,
+and all praise Srinivasa with joy.
+
+**17.** How Srinivasa spends his time in Chakhandi —
+is it possible to tell it with one mouth?
+
+**18.** After some time his father left this world;
+looking at her son's face, his mother forgot her grief.
+
+**19.** A few days later Srinivasa Mahashaya
+went to Yajigrama, to his maternal grandfather's house.
+
+**20.** Together with his mother he decided:
+"Now it is fitting to live in Yajigrama."
+
+**21.** All the villagers, hearing this,
+joyfully prepared a place for them to live.
+
+**22.** In Yajigrama and the villages around everyone rejoices:
+Srinivasa became dearer to all than life.
+
+**23.** Srinivasa is ceaselessly absorbed in the rasa of bhakti;
+seeing this, Chaitanya's dear associates are overjoyed.
+
+**24.** Srinivasa constantly stays with the devotees
+and hears of Chaitanya's pastimes in every detail.
+
+**25.** How the Lord with His associates plays in Nilachala —
+hearing of it, his heart overflows.
+
+**26.** Srinivasa, great of spirit, grew restless
+and firmly resolved to go to Nilachala.
+
+**27.** How many longings arise in his heart each moment:
+"Will the Lord give His darshan to a wretch like me?
+
+**28.** Will the Lord's devotees show me mercy?
+Shall I be able to place the dust of their feet on my head?
+
+**29.** Will Sri Gadadhara Pandita keep such an unworthy one as me
+forever near his feet?
+
+**30.** When the Lord listens to the Srimad Bhagavatam,
+will the words from His mouth enter my ears?
+
+**31.** Shall I see Nilachala-chandra Jagannatha
+with Sri Subhadra-devi and Lord Balarama?"
+
+**32.** So he says many things, and tears flow from both his eyes;
+after a while, growing calm, he set out for Khanda.
+
+**33.** Seeing the Deity, he bowed again and again,
+and tears flowed from his eyes without cease.
+
+**34.** To the dear associates of Sri Gaurachandra
+he bows again and again, falling to the ground.
+
+**35.** Sri Narahari Thakura, in the rapture of prema,
+opening his arms, embraced Srinivasa.
+
+**36.** Lovingly he bathes Srinivasa's body with tears
+and asks after his welfare, as if pouring out nectar.
+
+**37.** Srinivasa says: "I shall go to Nilachala;
+allow me to go and see His lotus feet."
+
+**38.** Hearing this, [the Thakura], deeply troubled,
+said: "Go quickly; there must be no delay."
+
+**39.** And he said further to Srinivasa in a faltering voice:
+"The Lord is about to conceal these pastimes.
+
+**40.** Advaita Acharya sent a riddle;
+in that riddle-charade he expressed what was in his heart.
+
+**41.** *Thus [it is said] in the Chaitanya-charitamrita, in the nineteenth chapter of the Antya-lila:*
+'Tell the madman: the people have gone mad;
+tell the madman: rice no longer sells in the market;
+
+**42.** tell the madman: there is no more madness in the work;
+tell the madman: the madman has said this.'[^03-2]
+
+**43.** The meaning of the riddle the Lord expressed in another way,
+and from then on all the devotees have been anxious.
+
+**44.** He is the independent Lord; who can fathom His design?
+I do not know when He will plunge [the world] into darkness."
+
+**45.** Having said this, he was bathed in tears;
+seeing Srinivasa distressed, he comforted him.
+
+**46.** At once he gave him all he needed for the road;
+the Thakura's love — who can describe it?
+
+**47.** Sri Raghunandana came there
+and, embracing Srinivasa, was overcome with prema.
+
+**48.** With all the devotees of the Lord who lived in Khanda
+he met as was fitting.
+
+**49.** Quickly taking leave of all,
+he came to Yajigrama and told his mother everything.
+
+**50.** Taking leave of his mother with due respect,
+he set out for Nilachala to see the Lord.
+
+**51.** At an auspicious moment, on the fifth day of the bright fortnight of Magha,
+Srinivasa set out with joy in his heart.
+
+**52.** He is in the age of kaishora, his body very beautiful;
+whoever sees him even once cannot stay calm.
+
+**53.** Someone says: "He is the son of some king;
+he walks on foot — great is his love."
+
+**54.** Someone says: "He is one of Gaura's associates;
+otherwise why do tears flow from his eyes without cease?"
+
+**55.** Someone says: "There is no doubt about it:
+Gauranga Gosani can do anything."
+
+**56.** Someone says: "Ah, seeing that Gorachand,
+who — man or woman — can keep calm?"
+
+**57.** Someone says: "Gaurachandra is the son of the king of Vraja;
+in Nilachala I saw His wondrous pastimes."
+
+**58.** Someone says: "There is no limit to the good fortune of Utkala:
+two Lords, the moving and the unmoving, are in one place."
+
+**59.** Someone says: "Gaura and Jagannatha are one;
+whoever sees a difference between Them perishes."
+
+**60.** So many travellers speak,
+and seeing Srinivasa's conduct they shed tears.
+
+**61.** In blissful rapture Srinivasa walks on;
+to those coming from the Kshetra he bows
+
+**62.** and asks for news of the Lord and the devotees;
+hearing this news, he rejoices without measure.
+
+**63.** He begs the Lord for wings to fly there;
+day and night he walks the road, knowing no fatigue.
+
+**64.** With joy in his heart Srinivasa was walking —
+and on the way he heard that Chaitanya had disappeared.
+
+**65.** "Mahaprabhu is no longer to be seen" — hearing these words,
+what he became — who could describe?
+
+**66.** Hundreds of times he strikes his head,
+tears out his hair, rakes his chest with his nails.
+
+**67.** Weeping and weeping, he curses himself;
+at his laments stones melt.
+
+**68.** Again and again he falls unconscious to the ground;
+at the sight of his tears everyone's heart breaks.
+
+**69.** In great torment the day ended;
+he firmly resolved: "I will not keep life in this body.
+
+**70.** I shall build a fire and enter it —
+then this cruel anguish of mine will end."
+
+**71.** While he pondered thus, four dandas of the night passed;
+repeating the Lord's name, he weeps aloud.
+
+**72.** By the Lord's will sleep overcame him,
+and in the guise of a dream Gaurachandra gave him darshan:
+
+**73.** His beautiful body surpasses a mass of lightning,
+His face surpasses millions of moons,
+
+**74.** His large eyes reach to His ears,
+His arms reach to His knees, at His neck a garland of forest flowers.
+
+**75.** With His sweet smile He pours out streams of nectar;
+who, seeing that beauty even once, could stay composed?
+
+**76.** The Lord who loves His devotees, the enchanter of the worlds,
+appearing in the guise of a dream, saved his life.
+
+**77.** He placed His feet on Srinivasa's head
+and in the rapture of prema comforted him greatly.
+
+**78.** *Thus [it is said] in the Nava-padya of Sri Nrisimha Kaviraja:*
+*"Sri Srinivasa, having resolved to go to Sri Purushottama, hearing from people's lips of the disappearance of Prabhu Chaitanya, the ocean of mercy, fainted again and again from floods of grief; and then Bhagavan, seeing the anguish of His devotee, with great consolation and mercy instructed him in a dream."*[^03-3]
+
+**79.** Having shown Srinivasa His fatherly love, Bhagavan
+stayed [with him] a while in the dream and vanished.
+
+**80.** When the Lord vanished the sleep broke,
+and the waves of the ocean of the grief of separation rose high.
+
+**81.** Seeing Srinivasa in great grief, Gaurahari
+again, in the guise of a dream, speaks softly:
+
+**82.** "Gadadhara and My other dear associates
+are anxiously watching the road for you.
+
+**83.** Do not delay; go quickly to Nilachala."
+Saying this, He wiped away his tears with His own hand.
+
+**84.** Embracing him again and again with great love,
+the Lord, the son of Shachi, vanished.
+
+**85.** Waking and seeing that the night had passed,
+Srinivasa walks on, meditating on the Lord's feet.
+
+**86.** After some days Srinivasa came to Nilachala;
+seeing [the pond] Sri Narendra-shaucha, he burst into tears.
+
+**87.** Sri Narendra was a king, Shaucha his great minister;
+the pond is known by the names of these two.[^03-4]
+
+**88.** Mahaprabhu used to hold water-sports in Narendra —
+he had heard of this earlier in Gauda.
+
+**89.** Thinking of this, he lost his composure
+and wept for a long time, sitting on the bank.
+
+**90.** The ocean of prema surged up; he cannot calm himself,
+he rolls on the ground — who can understand his behaviour?
+
+**91.** Coming back to himself, bathed in tears,
+he bowed to Narendra and slowly walked on.
+
+**92.** It was already late; after some thought
+he stayed at a spot near the Lion Gate.
+
+**93.** Overcome with prema, he performs nama-sankirtana;
+tears flow from his eyes like the current of a river.
+
+**94.** Unable to stay on his feet, he rolls on the ground;
+by the Lord's will sleep overcame him.
+
+**95.** Jagannatha with Balarama and Subhadra
+mercifully appeared to him in the guise of a dream.
+
+**96.** What wondrous fatherly love! Who can understand such play?
+He gazed his fill — and the sleep broke.
+
+**97.** Srinivasa was thrown into great turmoil;
+at that time a certain brahmana came there.
+
+**98.** He says: "My son, son of a brahmana,
+you are burning with grief and have not eaten.
+
+**99.** Take Sri mahaprasada and eat."
+Giving him the prasada, he vanished.
+
+**100.** Srinivasa, agitated, thinks to himself:
+"How did he know of this grief of mine?
+
+**101.** Having given me Sri mahaprasada,
+he vanished before my eyes."
+
+**102.** At these thoughts his heart grew anxious,
+and the Lord, appearing almost in person, comforted him.
+
+**103.** By the mercy of Lord Jagannatha, with joy in his heart,
+he at once ate the Sri mahaprasada.
+
+**104.** In his pot he had water from Narendra-shaucha;
+carefully washing his hands, he drank it.
+
+**105.** Softly he sings the sankirtana of the Lord's name,
+and after a while sleep overcame him a little.
+
+**106.** In a dream he sees Sri Gaura surrounded by His associates,
+like Purandara among the gods.
+
+**107.** Before the Lord sits Gadadhara Pandita
+and reads the Bhagavata, pouring out streams of nectar.
+
+**108.** All are adorned with tears, trembling and other bhavas —
+such beauty Srinivasa beholds.
+
+**109.** All the desires of his heart were fulfilled;
+after some time, waking, he was greatly saddened.
+
+**110.** The Mahashaya again sings nama-sankirtana,
+and again suddenly sleep overcomes him a little.
+
+**111.** Again in a dream he sees, along that same road by the Lion Gate,
+Gaurachandra coming with His associates.
+
+**112.** His golden body surpasses a golden mountain,
+His arms reach to His knees, the curves of His body are captivating.
+
+**113.** How many moons rise in His face!
+He smiles gently, ever pouring out nectar.
+
+**114.** His two lotus eyes reach to His ears,
+full of tears of prema, and they tremble.
+
+**115.** At His neck is a tulasi garland that enchants the worlds;
+He wears an incomparable cloth the colour of dawn.
+
+**116.** The quarters shine with the beauty of His body;
+intoxicated with His own prema, He walks like a lion.
+
+**117.** As soon as he saw such beauty, he was enraptured,
+he cannot stay on his feet, he sways.
+
+**118.** Rolling on the ground, he falls at the Lord's feet;
+the Lord looks at His servant with compassionate eyes.
+
+**119.** Smiling, the Lord says: "Grieve no more:
+I always rest in your heart."
+
+**120.** Saying this, the Merciful One vanished;
+waking, he sees that morning has come.
+
+**121.** With great effort composing himself,
+he asks someone the way and goes to Markandeya.[^03-5]
+
+**122.** Having performed his morning duties, he bathed in Markandeya;
+looking at Srinivasa, everyone gladdens his eyes.
+
+**123.** Bowing to Markandeya, Srinivasa walks on;
+there, in great agitation, he asks an old man:
+
+**124.** "Where is Gadadhara Pandita Gosvami?"
+He says: "I shall take you to where he is."
+
+**125.** Saying this, he walks ahead of Srinivasa,
+turning back again and again to look at Srinivasa.
+
+**126.** He pointed out the beautiful flower garden of Sri Gopinatha:
+"Here lives Gadadhara.
+
+**127.** Go, my son; what shall I tell you of his condition?
+In separation from the Lord he can barely keep his life.
+
+**128.** The Kshetra has become empty — bitter is our lot."
+Saying this, the noble old brahmana went away.
+
+**129.** Srinivasa, seeing how sorrowful his heart was,
+bowed to him and thanked him warmly.
+
+**130.** Hastening before Sri Gopinatha,
+he bows again and again, rolling on the ground.
+
+**131.** Unblinking, he gazes at the beautiful face [of Gopinatha];
+his whole body became filled with tears and trembling.
+
+**132.** Seeing Srinivasa, all eagerly ask:
+"Whose son are you, what is your name, where have you come from?"
+
+**133.** Hearing this, he answers: "I have come from Gauda;
+my name is Srinivasa, I am the son of the brahmana Chaitanya."
+
+**134.** As soon as they heard these words they were flooded with tears of prema,
+and all ran up and embraced Srinivasa.
+
+**135.** Someone went to Sri Pandita Gosvami;
+he was sitting alone in complete solitude.
+
+**136.** In what wondrous state he was cannot be told;
+only one who saw him then knows.
+
+**137.** His beautiful body, which surpassed gold,
+had grown pale, like the moon by day.
+
+**138.** His face, which the moon longed to behold,
+had withered like a lotus without water.
+
+**139.** From his red lotus eyes tears flow without cease,
+bathing all his tender body.
+
+**140.** Before him is the Sri Bhagavata, and it is soaked with tears;
+he remembers nothing — fire burns in his heart.
+
+**141.** His voice breaks as he recites the verses;
+the great-hearted Pandita cannot calm himself.
+
+**142.** Crying "Sri Gaurasundara!", he closes his eyes
+and heaves long sighs like flames.
+
+**143.** What Sri Gadadhara Pandita became in separation from Gauranga
+is beyond the reach [even] of the Lord.[^03-6]
+
+**144.** Only to show mercy to Srinivasa
+does life linger in his motionless body.
+
+**145.** By the Lord's will he came to himself a little,
+and at that moment someone said with joined palms:
+
+**146.** "Srinivasa has come from Sri Gauda,
+whose father is the brahmana Sri Chaitanya Dasa."
+
+**147.** Hearing this, he says: "Bring him — let my eyes be gladdened," —
+and Srinivasa was brought at once.
+
+**148.** Srinivasa, looking at Prabhu Gadadhara,
+falls to the ground and bows, tears streaming from his eyes.
+
+**149.** Pandita Gosvami, seeing Srinivasa,
+rose quickly, opening his arms,
+
+**150.** and with the words "Come, my son!" lifted and embraced him,
+and bathed Srinivasa with his tears.
+
+**151.** With great fatherly love seating him beside himself,
+he calmed Srinivasa with the sweetest words.
+
+**152.** Although he is in great grief in separation from Sri Prabhu,
+still, seeing Srinivasa, he feels joy.
+
+**153.** He carefully instructs, giving him one of his own people as companion:
+"Take Srinivasa to everyone and introduce him."
+
+**154.** Meanwhile the devotees heard from one another
+that Srinivasa had come to the Pandita.
+
+**155.** All long to see Srinivasa;
+Srinivasa went to the house of Sarvabhauma.
+
+**156.** Sri Raya Ramananda came there too;
+sitting together, the two sing the virtues of Gaurachandra.
+
+**157.** Srinivasa came and saw them both;
+falling to the ground, he honoured the feet of both.
+
+**158.** Both of them are drowning in an ocean of great grief,
+but seeing Srinivasa, they felt joy in their hearts.
+
+**159.** Both rose and embraced Srinivasa,
+bathing Srinivasa with tears of prema.
+
+**160.** Again and again Srinivasa falls at their feet,
+ceaselessly drowning in the tears of both his eyes.
+
+**161.** Seeing Srinivasa's state, both weep
+and embrace Srinivasa again and again.
+
+**162.** The fatherly love of the two cannot be told:
+taking his hands, both seat him beside them.
+
+**163.** Both, great-hearted, with the sweetest words
+after a while calmed Srinivasa.
+
+**164.** To the one who was with him they say gently:
+"Bring Srinivasa, dear to us as life, to meet everyone."
+
+**165.** With a troubled heart Srinivasa went
+to where Vakreshvara Pandita was sitting.
+
+**166.** Falling to the ground, he bowed at his lotus feet;
+seeing Srinivasa, Sri Pandita was glad.
+
+**167.** With the words "Come, my son!" he lifted and embraced him
+and bathed Srinivasa's body with his tears.
+
+**168.** With great fatherly love he seated him nearby
+and, laying his hand on his body, speaks nectarean words:
+
+**169.** "It is good that you came quickly — I have seen you:
+the Lord will accomplish much through you."
+
+**170.** Having said this, the Mahashaya lost his composure
+and with great fatherly love embraces him again and again.
+
+**171.** Although he cannot part with Srinivasa,
+still he told him to go and meet everyone.
+
+**172.** Srinivasa, bowing again at his feet,
+went on, tears streaming from both his eyes.
+
+**173.** Sri Paramananda [Puri] and the other sannyasis
+were utterly without strength in separation from the Lord.
+
+**174.** None has the strength to sit up or rise;
+only by the Lord's will do they remain in their bodies.
+
+**175.** Like dead men, they lie in solitude,
+remembering neither day nor night.
+
+**176.** Srinivasa came and saw them
+and with great reverence honoured the feet of each.
+
+**177.** Seeing Srinivasa, all rejoiced
+and, lifting him from the ground, embrace him again and again.
+
+**178.** Finding Srinivasa, they were as if given life again,
+and they bathed Srinivasa in tears of prema.
+
+**179.** Srinivasa was overwhelmed with great prema;
+tears flow down his face and chest.
+
+**180.** After a while, calming Srinivasa,
+they said: "Go, my son, meet everyone."
+
+**181.** Srinivasa went to the house of Shikhi Mahiti;
+there he met many people.
+
+**182.** When Srinivasa bowed, all embraced him;
+Srinivasa was soaked with the tears of them all.
+
+**183.** Srinivasa, weeping, says something;
+hearing those words, they cannot restrain themselves.
+
+**184.** Kanai Khutiya says: "Listen, Srinivasa:
+today you have opened the eyes of the blind."
+
+**185.** Shikhi Mahiti with his sister says:
+"Only to see you are we still alive."
+
+**186.** Sri Pattanayaka Vaninatha and all the others,
+embracing Srinivasa, say this:
+
+**187.** "Stay with us a while — [then] meet everyone,
+let the eyes be gladdened," — so they told Srinivasa.
+
+**188.** Receiving leave, Srinivasa, with tears in his eyes,
+went to see Govinda and Shankara.
+
+**189.** Arriving, he sees the two sitting in solitude,
+withered in separation from Gauranga — swaying in the wind.
+
+**190.** Srinivasa falls to the ground before both;
+both lifted Srinivasa and embraced him.
+
+**191.** With troubled hearts they said many things;
+on hearing of those sorrows stones melt.
+
+**192.** Srinivasa weeps aloud
+and, falling to the ground, loses consciousness.
+
+**193.** Seeing Srinivasa's state, both calm him
+and carefully say: "Go, meet everyone."
+
+**194.** Srinivasa went on, finding no peace,
+and saw Gopinatha Acharya.
+
+**195.** Falling to the ground, he bowed at his feet;
+he, his heart in great turmoil, embraced him.
+
+**196.** Crying "Sri Krishna Chaitanya!", he is drowned in tears of prema
+and, having embraced Srinivasa, cannot let him go.
+
+**197.** Srinivasa weeps, clasping his feet;
+who, seeing that state, could stay composed?
+
+**198.** After some time Gopinatha, mastering himself,
+calmed Srinivasa and seated him beside himself.
+
+**199.** Softly he speaks words that are a stream of nectar:
+"Everyone wished to see you.
+
+**200.** It is now some days since the Lord disappeared;
+by His will you did not come [sooner].
+
+**201.** Grieve no more, dear Srinivasa:
+the Lord ever abides in your heart."
+
+**202.** Having said much in this way, he told him to meet everyone,
+and Srinivasa went, eager to see them.
+
+**203.** Thus everywhere he met [the devotees], overwhelmed with love,
+and all were merciful to their dear Srinivasa.
+
+**204.** What state each one was in, in separation from the Lord —
+who could describe it even with hundreds of thousands of mouths?
+
+**205.** As a Deity remains silent and still,
+so Srinivasa saw everyone everywhere.
+
+**206.** Only to show mercy to their dear Srinivasa
+did life remain in their bodies in such separation.
+
+**207.** Not obtaining the darshan of Svarupa and Raghunatha,
+Srinivasa weeps in great distress.
+
+**208.** Separation from the Lord, then the departure of Svarupa —
+and in great sorrow Raghunatha went to Vrindavana.[^03-7]
+
+**209.** For this reason he could not meet him;
+[Srinivasa] wept much at Svarupa's abode.
+
+**210.** Seeing the place where Raghunatha had lived,
+he sighs deeply, remembering his virtues.
+
+**211.** Who can describe the virtues of Sri Raghunatha,
+the disciple of Sri Yadunandana Acharya?
+
+**212.** *Thus in the Chaitanya-chandrodaya-nataka, Act Ten, Shivananda says to those who wished to go [to Raghunatha]:*[^03-8]
+*"Acharya Yadunandana, most sweet, dear to Sri Vasudeva —*
+*his disciple named Raghunatha, rich in virtues, dearer than life to people like me,*
+*ever moistened by the abundant mercy of Sri Chaitanya, a follower of Svarupa,*
+*a treasury of renunciation — to whom among those living at Nilachala is he unknown?"*
+
+**213.** He heard the news of Prataparudra:
+what his state was — who is able to tell?
+
+**214.** While Lord Krishna Chaitanyachandra was still manifest,
+[the king] with auspicious rites had handed the kingdom to his son.[^03-9]
+
+**215.** With Vasudeva Sarvabhauma and Ramananda
+he was constantly immersed in glorifying the Lord's deeds.
+
+**216.** He passed his days and nights in supreme bliss,
+but suddenly anxiety seized him and he could not be at peace.
+
+**217.** Then, hearing the news that the Lord had disappeared from sight,
+the king, flinging himself down, rolled on the ground.
+
+**218.** Striking his head with his hands, he fell unconscious;
+Raya Ramananda alone preserved his life.
+
+**219.** Unable to bear separation from the Lord,
+the king stayed some distance away from Nilachala.
+
+**220.** Hearing this, Srinivasa is bathed in tears:
+he did not get the king's darshan at Nilachala.
+
+**221.** Thus with many he could not meet;
+he deems it his misfortune, and his grief knows no bounds.
+
+**222.** Srinivasa quickly went to the seashore
+and saw the samadhi of Haridasa Thakura.[^03-10]
+
+**223.** Falling to the ground, he offered many obeisances;
+his body was drenched with his own tears.
+
+**224.** Remembering all he had heard before of Sri Haridasa's deeds,
+his heart was overwhelmed.
+
+**225.** Saying, "Ha, ha, Prabhu Haridasa!"
+he fell unconscious upon the earth.
+
+**226.** His transcendental displays of love cannot be described;
+only by the Lord's will did he regain consciousness.
+
+**227.** The devotees who were at the holy samadhi
+calmed Srinivasa with affectionate words.
+
+**228.** Again Srinivasa bowed before the holy samadhi;
+the lament he made melts the heart of those who hear it.
+
+**229.** The one who had come with him carefully
+brought Srinivasa quickly to the Pandita.
+
+**230.** Pandita Gosani again said to him,
+"Take him to see Jagannatha."
+
+**231.** Srinivasa went by the road to the Lion Gate —
+a wondrous effulgence, as if the sun had risen.
+
+**232.** His tender body is grey with dust,
+and it is ever bathed in tears from his reddened eyes.
+
+**233.** Whoever looks at Srinivasa even once
+loses all composure, and streams flow from his eyes.
+
+**234.** Some run ahead of Srinivasa
+and, standing before him, watch the beauty of his gait.
+
+**235.** One says, "O brother, look at Srinivasa:
+Krishna Chaitanya sports in his heart."
+
+**236.** Another says, "What you have said is surely so;
+otherwise would the devotees show him such affection?
+
+**237.** In separation from the Lord the devotees are as if dead,
+and yet on seeing Srinivasa they feel joy."
+
+**238.** Another says, "To relieve our pain
+Jagannatha has brought Srinivasa here."
+
+**239.** Another says, "What the Lord ordered before
+has now become visible to our eyes."
+
+**240.** Another says, "He is so young and tender —
+seeing him in this state, my heart breaks."
+
+**241.** Thus they spoke of many things among themselves,
+and Srinivasa came and bowed down at the Lion Gate.
+
+**242.** First beholding Patita-pavana,[^03-11]
+he went on a little further, absorbed in love.
+
+**243.** Ever considering himself lowly and destitute,
+he offers abundant prayers to Nrisimha-deva.
+
+**244.** Bowing with great care to Nrisimha-deva,
+he reverently entered the holy temple.
+
+**245.** Attracting the hearts of all, he stands at a distance
+and gazes at Nilachala-chandra, his eyes unable to have enough.
+
+**246.** The enchanting sweetness of Nilachala-chandra:
+His body surpasses a mass of rain-laden clouds.
+
+**247.** His lotus eyes entice the three worlds;
+the beauty of His face surpasses millions of moons.
+
+**248.** Most wondrous is the grace of the curve of His arms;
+He is lovely, adorned with jewelled ornaments.
+
+**249.** Garlands of many flowers reach down to His feet;
+their beauty unfolds ever more — who can find its end?
+
+**250.** A crest of many flowers adorns His charming head;
+on His forehead flashes a victory over millions of Kandarpas.
+
+**251.** Having thus beheld Jagannatha-deva,
+he saw Baladeva-chandra, and his eyes were soothed.
+
+**252.** Surpassing the moon, kunda flowers, sandal and the silver mountain,[^03-12]
+His body glitters with wondrous loveliness.
+
+**253.** The beauty of His moonlike face enchants the world;
+at the play of His lotus eyes Kandarpa swoons.
+
+**254.** Incomparable are His arms, lovely His forehead;
+He is adorned with ornaments of jewels and flowers.
+
+**255.** Seeing such beauty of Balarama,
+Srinivasa cannot contain himself: his joy keeps growing.
+
+**256.** Beholding the lotus face of Sri Subhadra,
+he gazed his fill at Chakra-Sudarshana.
+
+**257.** A dear servant of Sri Jagannatha joyfully
+gave Srinivasa prasada — a garland and cloth.
+
+**258.** All the temples within the chakra-beda[^03-13]
+the great soul visited with great care.
+
+**259.** The one who had brought Srinivasa for darshan
+came with him to the abode of Gopinatha.
+
+**260.** Again he beheld the lotus feet of Gopinatha
+and drowned in the nectar ocean of His beauty.
+
+**261.** He went again to Sri Pandita Gosvami,
+who told him to honour the mahaprasada.
+
+**262.** Srinivasa sits to honour the mahaprasada;
+at the sight of the prasada tears stream from his eyes.
+
+**263.** Perceiving its wondrous fragrance, his heart swells;
+with great reverence, bowing to the ground, he eats.
+
+**264.** How many names shall I list? That prasada of many kinds
+Srinivasa partook of, intoxicated with the taste of bhakti.
+
+**265.** After honouring the Sri mahaprasada for some time,
+he went to the place of Sri Pandita Gosvami.
+
+**266.** Pandita Gosani was worn away by great separation;
+from both his eyes streams of love flowed incessantly.
+
+**267.** Asking Srinivasa whether he had honoured the prasada,
+with the greatest tenderness he seated him by his side.
+
+**268.** With what wondrous affection he again speaks, haltingly:
+"You had a wish to study the Bhagavata,
+
+**269.** and I had a wish to teach you.
+What can one say, and to whom? A contrary obstacle has arisen."
+
+**270.** Having said this, he remained silent for a while;
+then, composing himself, he looks at Srinivasa.
+
+**271.** From time to time he explains the meaning of the Srimad-Bhagavata,
+and on hearing it no doubt remains.
+
+**272.** See — this is the limit of mercy to Srinivasa:
+even at such a time he makes him hear it in due form.
+
+**273.** Again he says to Srinivasa, "Go to Vrindavana:
+there all these desires will be fulfilled.
+
+**274.** The book that is here has become worn."
+So saying, he brought the book and gave it to Srinivasa.
+
+**275.** Srinivasa bowed to the holy book;
+as he looks at the letters, tears stream from his eyes.
+
+**276.** Through the tears of Sri Chaitanya Prabhu and Gadadhara
+letters had been effaced here and there, and reading was impossible.[^03-14]
+
+**277.** Seeing how Srinivasa became as he looked [at it],
+fear arose in the Gosani's heart.
+
+**278.** With what wondrous affection, calming Srinivasa,
+he bestowed his mercy on him in every way!
+
+**279.** The tenderness of Sri Pandita Gosvami is marvellous,
+but for fear of lengthening the book I cannot describe it.
+
+**280.** He ordered Srinivasa to go to the land of Gauda
+and told him to take leave of everyone quickly.
+
+**281.** For Gadadhara Dasa, dear to the Pandita as his life,
+he lamented greatly.[^03-15]
+
+**282.** And what he asked him to tell Narahari and all the residents of Khanda
+is painful to hear.
+
+**283.** Hearing such an order from the Gosvami, Srinivasa
+felt as if the sky had broken and fallen on his head.
+
+**284.** Unable to disobey the order, in his distress
+he lamented so that the heart breaks to hear it.
+
+**285.** With body, mind and words he worshipped [the Pandita's] feet,
+circumambulated him and wept long.
+
+**286.** Bowing to the lotus feet of Sri Gopinatha,
+Srinivasa set out, having surrendered himself [to Him].
+
+**287.** He went to Sri Jagannatha and had darshan,
+and, weeping, offered many prayers.
+
+**288.** Going to all the devotees who lived in the Kshetra,
+he bows to them, rolling on the ground.
+
+**289.** From both his eyes tears stream incessantly;
+seeing his state, everyone's heart breaks.
+
+**290.** In loving rapture all embrace him tightly;
+no one can let Srinivasa go.
+
+**291.** In distress all bade him farewell;
+what they said cannot be described.
+
+**292.** "Alas, alas! Let all his misfortunes fall on us!" —
+so they all stood watching the road he took.[^03-16]
+
+**293.** Some went with him a little way
+and found him good companions for the journey to Gauda.
+
+**294.** "Srinivasa has gone to the land of Gauda,"
+they all informed the Pandita Gosvami.
+
+**295.** What became of him after he sent Srinivasa away —
+how shall I tell it? Everyone was anxious.
+
+**296.** Meanwhile Srinivasa thinks incessantly,
+"Shall I ever again have the darshan of Sri Gosani?"
+
+**297.** With many such fears, meditating on his feet,
+he reached Khanda without mishap, though in great distress.
+
+**298.** Seeing Srinivasa, Thakura Narahari
+wept, clasping Srinivasa by the neck.
+
+**299.** He carefully asks Srinivasa for news;
+Srinivasa speaks, and tears stream from his eyes.
+
+**300.** How the Lord's associates are in separation from the Lord —
+this he cannot tell in detail, so troubled is his heart.
+
+**301.** As he spoke about Pandita Gosani,
+he fell unconscious on the ground.
+
+**302.** Seeing Srinivasa's state, Prabhu Narahari
+with great effort calmed him, holding him to his breast.
+
+**303.** Sri Raghunandana and the other masters —
+seeing Srinivasa, none of them could remain composed.
+
+**304.** What happened there, how can I tell?
+Sri Thakura Narahari calmed them all.
+
+**305.** Srinivasa spent that night in Khanda,
+and in the morning set out again on the road to the Kshetra.
+
+**306.** He reflects, "Going to the Gosani,
+this time I shall stay, even disobeying his order."
+
+**307.** As such thoughts arose in his heart,
+he saw some people coming from a distance.
+
+**308.** Anxiously he asks them for news;
+but who will say what? Everyone's heart is breaking.
+
+**309.** At last, weeping, they said,
+"Sri Pandita Gosvami has disappeared from sight."
+
+**310.** Struck by these words as by a thunderbolt,
+Srinivasa fell unconscious on the ground.
+
+**311.** Seeing Srinivasa, all cry, "Alas, alas!
+Why did we tell him this?"
+
+**312.** One says, "When asked, one has to answer.
+Now do whatever will keep him alive."
+
+**313.** All in distress, tending Srinivasa,
+brought him back to consciousness by various means.
+
+**314.** Srinivasa looked at them,
+strikes his head with his hand; his heart is bursting.
+
+**315.** "Ha, ha, Prabhu Gadadhara!" he says again and again,
+heaving long sighs, tears flowing from his eyes.
+
+**316.** Now he says, "O Prabhu, you were merciless:
+that is why you sent me, ignorant one, away!"
+
+**317.** Much he says in this way, crying out in anguish;
+hearing these words, even beasts and birds weep.
+
+**318.** Late in the night, as his body lay motionless in sleep,
+Gadadhara appeared to him in a dream and consoled him.
+
+**319.** Even so Srinivasa cannot regain composure;
+he weeps, crying, "Ha, ha, Prabhu Gaura, Gadadhara!"
+
+**320.** Almost out of his mind, he wanders about near the village of Jajpur,[^03-17]
+not knowing how far he goes.
+
+**321.** One day in a dream [Gadadhara], together with Gaura,
+lovingly and carefully calmed Srinivasa:
+
+**322.** "Go by way of Navadvipa quickly to Vrindavana."
+So saying, the two disappeared.
+
+**323.** On waking, Srinivasa could not compose himself,
+and at daybreak he set out for the land of Gauda.
+
+**324.** In loving rapture tears ceaselessly fall from his eyes;
+whoever sees him even once cannot contain himself.
+
+**325.** How wondrous was his going — alone he walks the highway!
+Along that road some people were coming from Gauda.
+
+**326.** Seeing Srinivasa, some say,
+"We have heard — this is that very Srinivasa.
+
+**327.** He is coming from Nilachala after only a short time,
+and surely knows nothing of what has happened in Gauda."
+
+**328.** Saying this, they all come near,
+and Srinivasa carefully asks them,
+
+**329.** "Where have you come from? Why are you so wasted?"
+Again and again he asks, but gets no answer.
+
+**330.** At last one, with downcast face, weeping, says,
+"Nityananda and Advaita have both disappeared from sight."[^03-18]
+
+**331.** The moment he heard it, he flung himself to the ground
+and resolved, "I will no longer keep life in this body."
+
+**332.** Tearing his hair, he beats his head with his hands;
+he weeps aloud — hearing it, even stones melt.
+
+**333.** Crying, "What has happened, what has happened!" he tears his breast with his nails
+and, raising his arms, says again and again:
+
+**334.** "Ha, ha, Gaura, Nityananda, Advaita, Gadadhara!
+Ha, ha, Svarupa, the Lord's second self!
+
+**335.** To make one as fallen as I taste this sorrow
+You caused me to be born on earth at the wrong time!
+
+**336.** I shall do what is fitting, so that life leaves this body:
+at daybreak I will kindle a fire and enter it."
+
+**337.** Thus, burning in great grief, he spent the rest of the night;
+by the Lord's will a little sleep overcame him.
+
+**338.** And, as if in a dream, the merciful Nityananda and Advaita
+came and appeared before Srinivasa.
+
+**339.** How wondrous is Nitai's body, golden with a hue of red dawn:
+it glitters, surpassing the morning sun.
+
+**340.** A sweet loveliness steeped in the nectar of love;
+before that youthful grace millions of Madanas fade.
+
+**341.** How beautiful is His face, and on it a gentle smile,
+like the radiance of millions of spotless moons.
+
+**342.** On His head, lovely curls; on His forehead, a charming tilaka;
+in His ears, earrings that glitter against His cheeks.
+
+**343.** His brows a line of bees, His eyes broad lotuses,
+His nose a parrot's beak, His teeth luscious kunda buds.
+
+**344.** His broad chest — how sweet its majesty;
+His arms, reaching to His knees, are the limit of beauty.
+
+**345.** His navel, set with three folds, is deep and charming;
+His slender waist dispels the pride of the lion.
+
+**346.** His knees, like inverted plantain trunks, enchant the world;
+the nupuras on His feet ring like a vina as He walks.
+
+**347.** In His hand is a fine staff of gold and gems;
+seeing Him even once, a heart of stone melts.
+
+**348.** The beauty of Advaita Gosani is supremely lovely:
+His enchanting body surpasses a golden mountain.
+
+**349.** On His forehead is tilaka, on His neck a string of tulasi;
+seeing His long eyes, Kama swoons.
+
+**350.** His smiling face destroys the pride of the moon;
+from the gleam of His teeth happiness seems to rain down.
+
+**351.** His arms, reaching to His knees, surpass an elephant's trunk;
+broad is His chest, and how slender His waist!
+
+**352.** Incomparable His thighs, charming the sweetness of His feet;
+seeing Him, the men and women of the world grow intoxicated.
+
+**353.** Seeing two such Lords, Srinivasa
+is bathed in tears, and his joy grows.
+
+**354.** He fell prostrate at the feet of the two
+and bathed the lotus feet of both with his tears.
+
+**355.** Nitai and Advaita, both, seeing Srinivasa,
+with joy in Their hearts bathed him in tears of love.
+
+**356.** Stretching out Their arms, Their hearts full of tenderness,
+They take Srinivasa in Their embrace and carefully console him:
+
+**357.** "What you have resolved is not proper:
+through this body of yours many tasks will be accomplished.
+
+**358.** In Gauda many are longing to see you;
+after seeing them all, go quickly to Vrindavana."
+
+**359.** Saying much in this way, They calmed Srinivasa.
+Again Srinivasa bowed to the Lords' feet.
+
+**360.** They placed Their feet on Srinivasa's head and body
+and with the greatest tenderness embraced him again.
+
+**361.** Having sent Srinivasa off, the two
+at that very moment disappeared [with Their] bodies.
+
+**362.** On waking, Srinivasa was overcome with distress,
+and at daybreak he set out from there.
+
+**363.** In a few days he passed the border of Utkala
+and by way of Madhya-desha entered the land of Gauda.[^03-19]
+
+**364.** What happened when he went to Khanda and saw the Lord's dear ones —
+that I cannot describe.
+
+**365.** Remembering the order Sri Prabhu had given in the dream,
+he set off on the road to Navadvipa.
+
+**366.** Hearing news of Nadia from people,
+he cannot restrain himself: tears stream from his eyes.
+
+**367.** On the way to Navadvipa his anxiety keeps growing:
+a two days' journey he walks in one.
+
+**368.** What arose in his heart as he went along the road —
+who could describe it with one mouth?
+
+**369.** Such is this journey of Sri Srinivasa to Nadia:
+whoever hears it obtains the treasure of bhakti.
+
+**370.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the Bhakti-ratnakara.
+
+*Thus in the Sri Bhakti-ratnakara, in the account of the life of Srinivasa Acharya, ends the third wave, called "His Journey to Nilachala and Return to Gauda".*
+
+[^03-1]: "My Sri Thakura" — apparently the author's guru (so also in the editions of 1888 and 1912/13).
+[^03-2]: CC Antya 19.20–21 — Advaita's riddle (tarja), conveyed to the Lord by Jagadananda; its meaning is deliberately obscure. "Baul" means "madman", "aul" — "confusion, madness".
+[^03-3]: The Nava-padya ("Nine Verses") of Nrisimha Kaviraja is a work on Srinivasa; Narahari quotes other verses from it further on.
+[^03-4]: Narendra-sarovara in Puri, where the Lord and His devotees held water-sports (cf. CC). The explanation of the name from King Narendra and the minister Shaucha is Narahari's.
+[^03-5]: Markandeya-sarovara is a sacred pond in Puri.
+[^03-6]: "Prabhu-agochara" — literally "beyond the reach of the Lord": Gadadhara's state in separation is so deep that it is unfathomable even to the Lord Himself (a usual intensification in Bengali poetry).
+[^03-7]: According to the CC (Adi 10 and elsewhere), Raghunatha Dasa lived in Puri under Svarupa Damodara for sixteen years; after the departure of the Lord and of Svarupa he went to Vrindavana, to Rupa and Sanatana, at Radha-kunda.
+[^03-8]: Chaitanya-chandrodaya-nataka of Kavi-karnapura, Act 10, verse 3. Raghunatha Dasa's preceptor Yadunandana Acharya was a disciple of Vasudeva Datta (CC Antya 6).
+[^03-9]: So Narahari: Prataparudra supposedly handed power to his son and withdrew from affairs while the Lord was still present. According to historical records he continued to reign after 1533 (until about 1540).
+[^03-10]: The samadhi of Haridasa Thakura on the seashore at Puri; Haridasa's departure and his burial by the Lord Himself are described in CC Antya 11.
+[^03-11]: Patita-pavana ("Purifier of the fallen") — the form of Jagannatha at the Lion Gate (Simha-dvara) of the Puri temple, visible to all who cannot enter the temple.
+[^03-12]: The silver mountain is Kailasa; the comparisons stress Balarama's whiteness.
+[^03-13]: Chakra-beda — the circular enclosure (inner courtyard) of the Jagannatha temple, where the smaller shrines stand.
+[^03-14]: The book of the Srimad-Bhagavata from which Gadadhara Pandita read to the Lord; according to tradition, its pages were soaked with the tears of both.
+[^03-15]: Gadadhara Dasa — an associate of the Lord (not to be confused with Gadadhara Pandita); he lived in Bengal, at Eriadaha on the Ganges; in the CB (Antya 5) he is a companion of Nityananda. The Pandita apparently grieves at being separated from him.
+[^03-16]: "Mari mari snehera balai laiya mari" — an exclamation of tenderness: "let us die taking all his misfortunes upon ourselves."
+[^03-17]: Jajpur — a holy place in Orissa on the Vaitarani river, on the road from Puri to Bengal.
+[^03-18]: In Narahari's account Gadadhara Pandita, Nityananda and Advaita disappeared soon after the Lord, while Srinivasa was on the road. Traditions about the time of Nityananda's and Advaita's departure differ; Narahari follows his own version.
+[^03-19]: Utkala is Orissa. Madhya-desha ("the middle country") here apparently means the region between Orissa and Gauda (Midnapore).

@@ -136,3 +136,34 @@
   date_conf: оценка
   themes: [deities]
   notes: "«Бхакти-ратнакара» 2.473–483."
+
+- id: ev-srinivasa-sets-out-nilachala
+  title: "Шриниваса отправляется в Нилачалу; Нарахари в Кханде рассказывает о загадке Адвайты"
+  title_en: "Srinivasa sets out for Nilachala; at Khanda Narahari tells of Advaita's riddle"
+  period: P15
+  order: 53
+  calendar: "магха, светлая половина, 5-й лунный день (выход)"
+  date_conf: оценка
+  date_basis: "по БР 3 — незадолго до сокрытия Господа"
+  themes: [pilgrimage, separation]
+  notes: "«Бхакти-ратнакара» 3.26–64. В «Према-виласе» Шриниваса узнаёт об уходе Господа ещё в Бенгалии, у Нарахари."
+
+- id: ev-srinivasa-hears-disappearance-dream
+  title: "Шриниваса в пути слышит о сокрытии Господа; Гаура утешает его во сне и посылает в Нилачалу"
+  title_en: "On the road Srinivasa hears of the Lord's disappearance; Gaura consoles him in a dream and sends him to Nilachala"
+  period: P15
+  order: 55
+  date_conf: оценка
+  date_basis: "БР 3: вскоре после сокрытия Господа"
+  themes: [separation, revelation, mercy]
+  notes: "«Бхакти-ратнакара» 3.65–85 (шлока из «Нава-падьи» Нрисимхи Кавираджи)."
+
+- id: ev-srinivasa-dream-nitai-advaita
+  title: "На обратном пути Шриниваса узнаёт об уходе Гададхары, Нитьянанды и Адвайты; Нитьянанда и Адвайта во сне велят ему идти во Вриндаван"
+  title_en: "On his way back Srinivasa learns of the departure of Gadadhara, Nityananda and Advaita; in a dream Nityananda and Advaita tell him to go to Vrindavana"
+  period: P15
+  order: 57
+  date_conf: оценка
+  date_basis: "БР 3: вскоре после ухода Гададхары Пандита"
+  themes: [departure, separation, revelation]
+  notes: "«Бхакти-ратнакара» 3.296–370. По ПВ (виласа 4) Шриниваса узнаёт об уходе Гададхары в Джаджпуре."
