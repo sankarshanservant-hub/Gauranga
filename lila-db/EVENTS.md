@@ -3910,8 +3910,8 @@
 ## Посвящение Шринивасы у Гопалы Бхатты / Srinivasa's initiation by Gopala Bhatta  `ev-srinivasa-initiation` (1533–1534, возраст 47–48, оценка)
 
 - bhakti-ratnakara (B): Таранга 1, 230–236 — [230–236](../bhakti-ratnakara/ru/01.md?plain=1#L689-L707) · `brt-0011`
-- prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
 - karnananda (C): Нирьяса 6, 30–48 — [30–48](../karnananda/ru/06.md?plain=1#L100-L154) · `krn-0030`
+- prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
 
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
@@ -4414,6 +4414,11 @@
 ## Сокрытие Нароттамы: в Гамбхиле, в водах Ганги, растворяется, словно молоко; праздники в Гамбхиле и Кхетури, где он является в киртане / Narottama's disappearance: at Gambhila he dissolves like milk into the Ganga; festivals at Gambhila and Kheturi, where he appears in the kirtana  `ev-narottama-disappearance` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 11, 320–358 — [320–358](../narottama-vilasa/ru/11.md?plain=1#L990-L1104) · `nvl-0066`
+
+## Ветви и побеги Нароттамы: его ученики, ученики Рамакришны и Ганганараяны / The branches and sub-branches of Narottama: his disciples and those of Ramakrishna and Ganganarayana  `ev-narottama-branches` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 12, 1–98 — [1–98](../narottama-vilasa/ru/12.md?plain=1#L5-L296) · `nvl-0067`
+- narottama-vilasa (B): Виласа 12, 99–127 — [99–127](../narottama-vilasa/ru/12.md?plain=1#L299-L389) · `nvl-0068`
 
 ## Сочинения Шри Дживы Госвами во Вриндаване / The writings of Sri Jiva Gosvami in Vrindavana  `ev-jiva-gosvami-writings` (1533–1534, возраст 47–48, оценка)
 

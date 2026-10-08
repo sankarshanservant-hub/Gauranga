@@ -14561,8 +14561,8 @@
   ],
   "entries": [
    "brt-0011",
-   "pvl-0035",
-   "krn-0030"
+   "krn-0030",
+   "pvl-0035"
   ],
   "sources": [
    "bhakti-ratnakara",
@@ -21583,6 +21583,34 @@
   ],
   "entries": [
    "nvl-0066"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-narottama-branches",
+  "title": "Ветви и побеги Нароттамы: его ученики, ученики Рамакришны и Ганганараяны",
+  "title_en": "The branches and sub-branches of Narottama: his disciples and those of Ramakrishna and Ganganarayana",
+  "period": "P15",
+  "order": 115,
+  "themes": [
+   "author"
+  ],
+  "notes": "«Нароттама-виласа» 12: перечень учеников; Кришначарана — приёмный сын Ганганараяны; стихи Вишванатхи Чакраварти («Става-амрита-лахари»).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0067",
+   "nvl-0068"
   ],
   "sources": [
    "narottama-vilasa"

@@ -1158,3 +1158,37 @@
   event: ev-narottama-disappearance
   verses:
     - {file: "narottama-vilasa/ru/11.md", from: "320", to: "358"}
+
+- id: nvl-0067
+  source: narottama-vilasa
+  ref: "Виласа 12, 1–98"
+  file: "narottama-vilasa/ru/12.md"
+  period: P15
+  order: 115
+  title: "Ветви Нароттамы: перечень его учеников; Сантоша и «Сангита-мадхава» Говинды Кавираджи"
+  summary: "Пуджари Баларама, Гопирамана Чакраварти, Рамакришна Ачарья, Рави Рай, Ганганараяна, Радхаваллабха Чаудхури (сын старшего брата Нароттамы Рамаканты), Сантоша Рай, по чьей просьбе Говинда Кавираджа написал драму «Сангита-мадхава», раджа Нарасимха и Рупамала, Чанд Рай, Рупанараяна, киртании Девидас и Гокула, Гауранга Дас (мриданга), вайраги Кхетури и многие другие."
+  persons: ["@narottama-dasa", "@balarama-pujari-kheturi", "@gopiramana-chakravarti", "@ramakrishna-acharya", "@ganganarayana-chakravarti", "@radhavallabha-chaudhuri", "@santosha-datta", "@govinda-kaviraja", "@narasimha-raya", "@rupamala", "@chand-raya", "@rupa-narayana", "@devidasa-kirtaniya"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [author, kirtan]
+  event: ev-narottama-branches
+  verses:
+    - {file: "narottama-vilasa/ru/12.md", from: "1", to: "98"}
+
+- id: nvl-0068
+  source: narottama-vilasa
+  ref: "Виласа 12, 99–127"
+  file: "narottama-vilasa/ru/12.md"
+  period: P15
+  order: 115.1
+  title: "Побеги: ученики Рамакришны Ачарьи и Ганганараяны; Кришначарана Чакраварти"
+  summary: "Семья и ученики Рамакришны Ачарьи; слава Ганганараяны во Вриндаване (стих Вишванатхи Чакраварти), его жена Нараяни, внучка Кришнаприя у Радха-кунды; Рамакришна отдаёт своего младшего сына Кришначарану бездетному Ганганараяне; ученики Мадхусудана Чакраварти и Рагхудева Бхаттачарья. Подпись автора; конец книги."
+  persons: ["@ramakrishna-acharya", "@ganganarayana-chakravarti", "@krishnacharana-chakravarti", "@narottama-dasa"]
+  places: ["#radha-kunda", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [author, family]
+  event: ev-narottama-branches
+  verses:
+    - {file: "narottama-vilasa/ru/12.md", from: "99", to: "127"}

@@ -478,3 +478,7 @@
 | @rupamala | Рупамала, жена раджи Нарасимхи | Rupamala, wife of Raja Narasimha | ученица Нароттамы; повторяла сто тысяч имён |
 | @madhvacharya | Мадхвачарья | Madhvacharya | основатель таттвавады; обрёл Божество Кришны в Удупи |
 | @ranga-puri | Шри Ранга Пури | Sri Ranga Puri | ученик Мадхавендры Пури; встреча в Пандарпуре |
+| @radhavallabha-chaudhuri | Радхаваллабха Чаудхури | Radhavallabha Chaudhuri | племянник и ученик Нароттамы, сын его старшего брата Рамаканты |
+| @krishnacharana-chakravarti | Кришначарана Чакраварти | Krishnacharana Chakravarti | сын Рамакришны Ачарьи, приёмный сын и ученик Ганганараяны Чакраварти |
+| @gopiramana-chakravarti | Гопирамана Чакраварти | Gopiramana Chakravarti | ученик Нароттамы в Кхетури |
+| @devidasa-kirtaniya | Девидас, киртания (кхол) | Devidasa the kirtaniya (khol) | ученик Нароттамы, играл на кхоле в киртанах Кхетури |
