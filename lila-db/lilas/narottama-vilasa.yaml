@@ -911,3 +911,91 @@
   event: ev-kheturi-robbers-converted
   verses:
     - {file: "narottama-vilasa/ru/08.md", from: "416", to: "453"}
+
+- id: nvl-0053
+  source: narottama-vilasa
+  ref: "Виласа 9, 1–60"
+  file: "narottama-vilasa/ru/09.md"
+  period: P15
+  order: 95
+  title: "Джахнава во Вриндаване: Госвами встречают её у Матхуры; Божества, Радха-кунда, двенадцать лесов"
+  summary: "По пути Джахнава обращает пашанди и яванов; у Матхуры её встречают Гопала Бхатта, Бхугарбха, Локанатха, Джива, Кришна Пандит; даршан Говинды, Мадана-мохана, Гопинатхи, Радха-винода, Радха-раманы, Радха-Дамодары, подношение даров Сантоши; Госвами одобряют стихи Говинды Кавираджи; Джахнава обходит Радха-кунду, Говардхан, Нандишвару, Джават, двенадцать лесов, готовит угощение Божествам; Джива читает ей свои книги."
+  persons: ["@jahnava", "@gopala-bhatta", "@bhugarbha", "@lokanatha", "@jiva-gosvami", "@krishna-pandita-govinda", "@parameshvara-dasa", "@govinda-kaviraja", "@govinda-deity", "@gopinatha-deity-vrindavana", "@madana-mohana-vrindavana", "@radha-vinoda-deity", "@radha-ramana-deity", "@radha-damodara-deity"]
+  places: ["#mathura", "#vrindavana", "#radha-kunda", "#govardhana", "#javat", "#bahulavana"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, deities]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/09.md", from: "1", to: "60"}
+
+- id: nvl-0054
+  source: narottama-vilasa
+  ref: "Виласа 9, 61–95"
+  file: "narottama-vilasa/ru/09.md"
+  period: P15
+  order: 95.3
+  title: "Прощание Джахнавы с Вриндаваном; Гопинатха во сне просит прислать Ему Радху"
+  summary: "Джахнава прощается с Божествами, берёт с собой Бару Гангадаса; Гопала Бхатта и Локанатха благословляют Шринивасу и Нароттаму, Джива передаёт «Гопала-вирудавали»; во сне Гопинатха даёт Джахнаве Свою гирлянду и просит прислать из Гауды задуманное — Радху, чтобы она стояла слева; Госвами провожают её."
+  persons: ["@jahnava", "@gopinatha-deity-vrindavana", "@baru-gangadasa", "@gopala-bhatta", "@lokanatha", "@bhugarbha", "@jiva-gosvami", "@krishnadasa-kaviraja", "@govinda-kaviraja", "@gauridasa-pandita"]
+  places: ["#vrindavana", "#mathura"]
+  kind: vision
+  authority: B
+  divergence: "В «Нитьянанда-вамша-вистаре» Гопинатха сажает саму Джахнаву слева от Себя; здесь — просит прислать Радху."
+  themes: [deities, celestial]
+  event: ev-jahnava-gopinatha
+  verses:
+    - {file: "narottama-vilasa/ru/09.md", from: "61", to: "95"}
+
+- id: nvl-0055
+  source: narottama-vilasa
+  ref: "Виласа 9, 96–290"
+  file: "narottama-vilasa/ru/09.md"
+  period: P15
+  order: 95.5
+  title: "Возвращение Джахнавы через Кхетури, Будхари (брак Бару Гангадаса, Шьяма-рай), Катву, Яджиграм и Шрикханду"
+  summary: "В Кхетури Джахнава четыре дня и спешит в Кхардаху исполнить повеление Гопинатхи; Нароттама прощается шлокой шести Божествам; в Будхари она устраивает брак отрёкшегося Бару Гангадаса и по сну вручает ему Божество Шьяма-рай; в Катве к ним приходит Шриниваса, которому во сне является Гопала Бхатта; через Яджиграм в Шрикханду — киртан Рагхунанданы; Джахнава уходит в Кхардаху."
+  persons: ["@jahnava", "@narottama-dasa", "@ramachandra-kaviraja", "@santosha-datta", "@baru-gangadasa", "@yadunandana-chakravarti", "@srinivasa-acharya", "@gopala-bhatta", "@lokanatha", "@raghunandana", "@govinda-kaviraja"]
+  places: ["#kheturi", "#teliya-budhari", "#katwa", "#yajigrama", "#shrikhanda", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, family, kirtan]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/09.md", from: "96", to: "290"}
+
+- id: nvl-0056
+  source: narottama-vilasa
+  ref: "Виласа 9, 291–318"
+  file: "narottama-vilasa/ru/09.md"
+  period: P15
+  order: 98
+  title: "Шриниваса учит в Яджиграме, Нароттама с Рамачандрой — в Кхетури"
+  summary: "Шриниваса после Навадвипы и Кхетури живёт в Яджиграме, побеждает спорщиков, его ученики становятся учителями книг бхакти; Нароттама с Рамачандрой в Кхетури преподаёт «Бхагавату» и книги Госвами, кармины и джняни становятся вайшнавами."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@govinda-kaviraja"]
+  places: ["#yajigrama", "#kheturi", "#kanchanagaria"]
+  kind: post-advent
+  authority: B
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture]
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/09.md", from: "291", to: "318"}
+
+- id: nvl-0057
+  source: narottama-vilasa
+  ref: "Виласа 9, 319–353"
+  file: "narottama-vilasa/ru/09.md"
+  period: P15
+  order: 106.5
+  title: "Брахман-учёный, счёвший Нароттаму шудрой, поражён проказой; Бхагавати во сне; исцеление и обращение"
+  summary: "Брахман, в гордыне назвавший Нароттаму шудрой, заболевает проказой; ни лекарства, ни обряды не помогают; во сне Бхагавати говорит, что спасёт его лишь милость Нароттамы; Нароттама обнимает его, болезнь уходит, брахман со всей семьёй становится вайшнавом; брахманы края предостерегают своих не считать Нароттаму шудрой. Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: B
+  themes: [offense, mercy]
+  teaching: [vaishnava]
+  event: ev-leper-brahmana-narottama
+  verses:
+    - {file: "narottama-vilasa/ru/09.md", from: "319", to: "353"}
