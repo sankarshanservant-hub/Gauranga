@@ -1,6 +1,7 @@
 # Пады современников Махапрабху (`padas/`) — по одной записи на паду, в порядке перевода (формат — ../README.md).
-# Авторитетность — по паде: современник с надёжной атрибуцией — A, сомнительная — C. date_basis — довод Маджумдара
-# («Шри-Чайтанья-чаритер упадан», гл. 2; выписка — padas/majumdar-ch2.md).
+# Авторитетность — по паде (правило — padas/TASK.md): современник с надёжной атрибуцией — A; пады Нарахари Чакраварти
+# (есть в его трудах) и вероятная атрибуция — B; автор не установлен — C; D — только подделки, анахронизмы, приписки.
+# date_basis — довод Маджумдара («Шри-Чайтанья-чаритер упадан», гл. 2; выписка — padas/majumdar-ch2.md).
 
 - id: pad-0001
   source: padas
@@ -2734,7 +2735,7 @@
   persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa"]
   kind: lila
-  authority: C
+  authority: B
   parallels: "ЧЧ Ади 13; ЧБ Ади 3; Мурари 1.05"
   notes: "Маджумдар: пады Васу о рождении и детстве — вымысел поэта (Васу тогда в Навадвипе не было). Нарахари Чакраварти приводит паду в БР; в БР двустишия 3–5 иные."
   themes: [revelation, celestial, family]
@@ -2793,7 +2794,7 @@
   persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra"]
   kind: lila
-  authority: C
+  authority: B
   parallels: "ЧБ Ади 4–5"
   notes: "Маджумдар: вымысел поэта. В БР — в рассказе Шринивасу о детских играх Господа в Навадвипе."
   themes: [kirtan, pranks, family]
@@ -2813,7 +2814,7 @@
   persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra"]
   kind: lila
-  authority: C
+  authority: B
   parallels: ""
   notes: "Маджумдар: вымысел поэта. В БР — сразу после ПК 1150."
   themes: [pranks, family]
@@ -2833,7 +2834,7 @@
   persons: ["@vasu-ghosha", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra"]
   kind: lila
-  authority: C
+  authority: B
   parallels: "ЧБ Ади 4–5"
   notes: "Маджумдар: вымысел поэта. Третья пада того же ряда в БР."
   themes: [kirtan, family]
@@ -5525,7 +5526,7 @@
   persons: ["@murari-gupta", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Ади 4"
   notes: "Только ГПТ; по Маджумдару — сомнительна (каталог МУ-001 = МУ-006)."
   divergence: "Мурари, предсказывающий санньясу младенцу, в житиях не упоминается."
@@ -5546,7 +5547,7 @@
   persons: ["@murari-gupta", "@mahaprabhu", "@kali-personified"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Ади 4; ЧЧ Ади 14"
   notes: "Только ГПТ; по Маджумдару — возможно интерполяция (МУ-007)."
   themes: [kirtan, pranks]
@@ -5943,7 +5944,7 @@
   persons: ["@vasu-ghosha", "@mahaprabhu", "@advaita", "@haridasa-thakura", "@srivasa", "@srirama-pandita"]
   places: ["#house-srivasa", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Мадхья 9"
   notes: "Только ГПТ (ВГ-165); разговорная форма «এনেছি» указывает на позднее происхождение."
   themes: [revelation, festival, kirtan]
@@ -6137,7 +6138,7 @@
   persons: ["@krishnadasa-poet", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: ""
   notes: "Только ГПТ; новая строка каталога КР-021. Поэт — не современник (сам говорит, что родился позже)."
   themes: [festival, krishna-lila]
@@ -6366,7 +6367,7 @@
   persons: ["@krishnadasa-poet", "@mahaprabhu", "@jagai-madhai"]
   places: ["#navadvipa"]
   kind: author
-  authority: D
+  authority: C
   parallels: "ЧБ Ади 2; ЧБ Мадхья 13; ЧЧ Ади 17"
   notes: "Только ГПТ (новая строка каталога КР-022); язык поздний (XVIII–XIX вв.)."
   themes: [author, mercy]
@@ -6404,7 +6405,7 @@
   persons: ["@kanu-thakura", "@advaita", "@haridasa-thakura"]
   places: ["#shantipura"]
   kind: pre-advent
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 3; ЧБ Ади 2"
   notes: "Только ГПТ (новая строка каталога КД-012); язык поздний."
   themes: [celestial]
@@ -6424,7 +6425,7 @@
   persons: ["@kanu-thakura", "@advaita", "@haridasa-thakura", "@mahaprabhu"]
   places: ["#shantipura", "#ganga"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 13; ЧЧ Ади 3"
   notes: "Только ГПТ (новая строка каталога КД-013); язык поздний."
   themes: [ecstasy, celestial]
@@ -6445,7 +6446,7 @@
   persons: ["@vasu-ghosha", "@abhirama", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "порция 01, п. 11–12; порция 14, п. 14–15"
   notes: "Только ГПТ (ВГ-174; в каталоге — «без подписи», ВВ-007); подпись — Васу как участник; язык разговорный, поздний."
   themes: [krishna-lila, pranks]
@@ -6622,7 +6623,7 @@
   persons: ["@vasu-ghosha", "@nityananda"]
   places: ["#navadvipa", "#shantipura", "#gauda"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 7; ЧБ Антья 5–6"
   notes: "Только ГПТ (новая строка каталога ВГ-178); язык разговорный, поздний."
   themes: [mercy, ecstasy]
@@ -6756,7 +6757,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-238. Атрибуция: вероятно Нарахари Чакраварти (есть в БР; враджабули)."
   themes: [kirtan]
   event: ev-gaura-beauty-navadvipa
@@ -6774,7 +6775,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-072). Вероятно Чакраварти: в БР — среди песен жителей Надии. Мотив горожанок — сноска о позиции традиции («гаура-нагари» не принимается)."
   themes: [kirtan]
   bhava: [krishna]
@@ -6793,7 +6794,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; в каталоге ошибочно НН-006 (Наянананда), новая строка НГ-239. Вероятно Чакраварти: в БР Ишана показывает Шринивасе место танца на берегу Ганги."
   themes: [kirtan, ecstasy]
   bhava: [krishna]
@@ -6812,7 +6813,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; в каталоге — под первой строкой соседней пады Васу (НГ-073 → исправлено). Вероятно Чакраварти (БР; враджабули). Мотив горожанок — сноска."
   themes: [mercy]
   event: ev-gaura-beauty-navadvipa
@@ -6830,7 +6831,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   notes: "Приложение ГПТ-Нарахари (НГ-074). Атрибуция не установлена: указатель ГПТ2 — Саркар (с. 104), но в БР пада вложена в уста жительницы Надии («কাচিৎ»). Мотив горожанок — сноска."
   themes: [ecstasy]
   bhava: [krishna]
@@ -6849,7 +6850,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@mukunda-datta", "@madhava-ghosha", "@govinda-ghosha", "@vakreshvara"]
   places: ["#house-srivasa", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 9; ПК 1536 (Васу Гхош)"
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-240. Вероятно Чакраварти: в БР приведена за падой Васу Гхоша ПК 1536."
   themes: [revelation, festival]
@@ -6869,7 +6870,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@srivasa"]
   places: ["#house-srivasa", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 9"
   notes: "Приложение ГПТ-Нарахари (НГ-136; в каталоге ошибочно в разделе нагари-бхавы). Вероятно Чакраварти (БР)."
   themes: [revelation, festival]
@@ -6889,7 +6890,7 @@
   persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@shachi", "@srivasa"]
   places: ["#house-srivasa", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Мадхья 9"
   notes: "Приложение ГПТ-Нарахари (НГ-137; в каталоге ошибочно в разделе нагари-бхавы). Атрибуция не установлена (Саркар или Чакраварти): в БР нет; простой бенгальский. Только ГПТ."
   themes: [revelation, family]
@@ -6908,7 +6909,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@srivasa", "@narahari-sarakara", "@shuklambara", "@murari-gupta", "@madhava-ghosha", "@vasu-ghosha", "@purushottama-pandita", "@vijaya-dasa", "@mukunda-datta", "@vakreshvara", "@shridhara", "@gauridasa-pandita", "@haridasa-thakura", "@indra", "@shiva", "@brahma"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (в каталоге ПА-005 — ошибочно Парамананда). Вероятно Чакраварти (БР; враджабули; подпись «নরহরি-পহু»). Эпитет «похититель сердец юных жён» — сноска о мотиве горожанок."
   themes: [kirtan, revelation]
   bhava: [aishvarya]
@@ -6927,7 +6928,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-241). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -6945,7 +6946,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-140). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, celestial]
   event: ev-gaura-dance-with-devotees
@@ -6963,7 +6964,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-141). Вероятно Чакраварти: есть в БР, хотя язык — простой бенгальский трипади."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -6981,7 +6982,7 @@
   persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@nityananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   notes: "Приложение ГПТ-Нарахари (НГ-142). Атрибуция не установлена: в БР нет; простой бенгальский пайар. Только ГПТ."
   themes: [kirtan, ecstasy, mercy]
   event: ev-gaura-dance-with-devotees
@@ -6999,7 +7000,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-143; в БР — «у самого дома» Господа). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan]
   event: ev-gaura-dance-with-devotees
@@ -7017,7 +7018,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-144). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7035,7 +7036,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-145). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7053,7 +7054,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-242). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7071,7 +7072,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-146. Эпитет «похититель сердец женщин» — сноска о мотиве горожанок). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan]
   event: ev-gaura-dance-with-devotees
@@ -7089,7 +7090,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagai-madhai", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 13–15; ЧЧ Ади 17"
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-243; в каталоге смешана со свадебной падой НГ-030). Вероятно Чакраварти (есть в БР). Рассказ после освобождения — ЧБ Мадхья 13–15."
   themes: [mercy, ecstasy]
@@ -7108,7 +7109,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-147). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7126,7 +7127,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-244). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7144,7 +7145,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-245). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7162,7 +7163,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-148). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7180,7 +7181,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (новая строка каталога НГ-246). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan]
   event: ev-gaura-dance-with-devotees
@@ -7198,7 +7199,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shiva"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 8"
   notes: "Приложение ГПТ-Нарахари (НГ-153). Вероятно Чакраварти: в БР — в пересказе эпизода с певцом Шивы. Бхава Шивы — одна из бхав Господа, не превращение Бога в полубога (сноска)."
   themes: [revelation, ecstasy]
@@ -7238,7 +7239,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-249). Вероятно Чакраварти (есть в БР — у дома Санджаи; язык с формами враджабули)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7256,7 +7257,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-149). Вероятно Чакраварти (есть в БР), хотя язык — простой бенгальский пайар."
   themes: [kirtan, ecstasy, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7274,7 +7275,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-250). Вероятно Чакраварти (есть в БР). В «Гита-чандродае» — другая пада с тем же зачином (подпись Кавишекхара)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7292,7 +7293,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-251). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7310,7 +7311,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-150). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy, krishna-lila]
   event: ev-gaura-dance-with-devotees
@@ -7328,7 +7329,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 23; ЧЧ Ади 17"
   notes: "Приложение ГПТ-Нарахари (НГ-151). Вероятно Чакраварти: в БР — в рассказе о ночном киртане перед эпизодом с Кази."
   themes: [kirtan, muslims]
@@ -7347,7 +7348,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-152). Вероятно Чакраварти (есть в БР — у дома Шриваса)."
   themes: [kirtan, mercy, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7365,7 +7366,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-252). Вероятно Чакраварти (есть в БР)."
   themes: [kirtan, mercy]
   event: ev-gaura-dance-with-devotees
@@ -7383,7 +7384,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-254 (пропущена каталогом). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [kirtan, ecstasy]
   event: ev-gaura-dance-with-devotees
@@ -7401,7 +7402,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 3; Мурари 2.14"
   notes: "Приложение ГПТ-Нарахари (НГ-253). Вероятно Чакраварти: в БР — в рассказе о приходе Нитьянанды в Навадвипу (к Нандане Ачарье)."
   themes: [revelation, ecstasy]
@@ -7421,7 +7422,7 @@
   persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ПК 307 (Нарахари Саркар, та же тема)"
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-255. Атрибуция не установлена: нет в БР, указатель ГПТ2 — «Нарахари Дас», простой бенгальский, примыкает к паде Саркара ПК 307. Только ГПТ. Бхава Радхи — чистая према (сноска)."
   themes: [ecstasy, krishna-lila]
@@ -7441,7 +7442,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; в каталоге — НС-016 (ошибочно ПК 2106), теперь НГ-256. Вероятно Чакраварти (есть в БР — начало рассказа о джхулане; враджабули)."
   themes: [festival, kirtan]
   calendar: "шравана (джхулан-ятра)"
@@ -7460,7 +7461,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-158). Вероятно Чакраварти (есть в БР)."
   themes: [festival, krishna-lila]
   calendar: "шравана (джхулан-ятра)"
@@ -7479,7 +7480,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-159). Вероятно Чакраварти (есть в БР); поэт говорит от лица Нарахари-спутника."
   themes: [festival, kirtan]
   calendar: "шравана (джхулан-ятра)"
@@ -7498,7 +7499,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@advaita", "@srivasa"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-160). Вероятно Чакраварти (есть в БР — конец рассказа о джхулане). Последнее двустишие — по ГПТ2 и БР."
   themes: [festival, prasada]
   calendar: "шравана (джхулан-ятра)"
@@ -7517,7 +7518,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@gauridasa-pandita", "@abhirama", "@sundarananda", "@srivasa", "@advaita", "@mukunda-datta", "@madhava-ghosha"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Мадхья 15.17–25 (Нанда-утсава в Пури)"
   notes: "Приложение ГПТ-Нарахари (НГ-162). Вероятно Чакраварти: в БР — рассказ о празднике рождения Кришны в доме Шривасы. «Рамай» — вероятно, Абхирама."
   themes: [festival, krishna-lila]
@@ -7538,7 +7539,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@shankara-pandita", "@murari-gupta", "@mukunda-datta", "@abhirama", "@sundarananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-163). Вероятно Чакраварти (есть в БР)."
   themes: [festival, krishna-lila]
   bhava: [sakha]
@@ -7557,7 +7558,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@vasu-ghosha", "@mukunda-datta", "@madhava-ghosha"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-258. Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [festival, krishna-lila]
   bhava: [sakha]
@@ -7577,7 +7578,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@pundarika-vidyanidhi", "@gauridasa-pandita", "@nityananda", "@advaita", "@srivasa", "@mukunda-datta", "@madhava-ghosha", "@vasu-ghosha"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-234, бывшая НС-017). Вероятно Чакраварти: в БР — рассказ о Радхаштами у Видьянидхи (в Кришна-лиле — Вришабхану)."
   themes: [festival, krishna-lila]
   calendar: "бхадра, шукла-аштами (Радхаштами)"
@@ -7596,7 +7597,7 @@
   persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@mukunda-datta"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   notes: "Приложение ГПТ-Нарахари (НГ-164). Атрибуция не установлена: нет в БР; поздний язык (формы -িছে), звукоподражания; вероятно, сравнительно поздняя пада. Только ГПТ."
   themes: [festival, kirtan]
   calendar: "бхадра, шукла-аштами (Радхаштами)"
@@ -7615,7 +7616,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-259. Вероятно Чакраварти (есть в БР — рассказ о раса-лиле в Навадвипе; враджабули)."
   themes: [krishna-lila, ecstasy]
   bhava: [krishna]
@@ -7634,7 +7635,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@mukunda-datta", "@madhava-ghosha", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-166). Вероятно Чакраварти (есть в БР — весенние игры)."
   themes: [festival, krishna-lila]
   calendar: "весна (пхалгуна)"
@@ -7653,7 +7654,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-167). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [festival, krishna-lila]
   calendar: "пхалгуна (холи)"
@@ -7672,7 +7673,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-168). Вероятно Чакраварти (есть в БР; враджабули)."
   themes: [festival, kirtan]
   calendar: "пхалгуна (холи)"
@@ -7691,7 +7692,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-169). Вероятно Чакраварти: в БР стоит в цикле танца на берегу Ганги (рядом с порцией 17, п. 21)."
   themes: [festival, kirtan]
   calendar: "весна"
@@ -7710,7 +7711,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (НГ-170). Вероятно Чакраварти: есть в БР; указатель ГПТ2 — Чакраварти (с. 220, № 67)."
   themes: [festival, kirtan]
   calendar: "весна"
@@ -7729,7 +7730,7 @@
   persons: ["@narahari-sarakara", "@narahari-chakravarti", "@mahaprabhu", "@nityananda"]
   places: []
   kind: author
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 7 (према без разбора)"
   notes: "Приложение ГПТ-Нарахари (НГ-235, бывшая НС-023). = ПК 116 (т. 1, «অন্য প্রার্থনা» в конце 5-го паллава) — без подписи и без последнего двустишия; подпись «Нарахари Дас» — только в ГПТ. Атрибуция не установлена."
   themes: [author, mercy]
@@ -7747,7 +7748,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa", "#ganga"]
   kind: author
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-261. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (в устах жительницы Надии — мотив горожанок, сноска). В БР нет."
   themes: [author, revelation]
   verses:
@@ -7764,7 +7765,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nilambara-chakravarti", "@shachi", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 4; ЧЧ Ади 14; Мурари 1.6"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка каталога НГ-262. Вероятно Чакраварти: есть в БР. По Маджумдару, пады о детстве Нимая — поздние."
   themes: [family, festival]
@@ -7784,7 +7785,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Мурари 1.6; ЧЧ Ади 14"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-006. Вероятно Чакраварти: есть в БР (сразу за падой Васу Гхоша «এক মুখে কি কহিব»)."
   themes: [family]
@@ -7804,7 +7805,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Мурари 1.6; ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-263. Вероятно Чакраварти: есть в БР (там же цитата Мурари о первых шагах)."
   themes: [family]
@@ -7824,7 +7825,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-007. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7842,7 +7843,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-008; сноска о ватсалье и молитвах полубогам. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7860,7 +7861,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-009. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7878,7 +7879,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-264; поэт вводит себя в лилу («пойдите с Нарахари»). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7896,7 +7897,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-265; в ГЧЧ открывает главу о нагари — мотив горожанок, сноска; сама пада без нагари-мотива. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7914,7 +7915,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-010. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7932,7 +7933,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@srivasa", "@murari-gupta", "@advaita"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-011. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family, revelation]
   event: ev-navadvipa-elders-morning-darshan
@@ -7950,7 +7951,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-266. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7968,7 +7969,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-012 (каталог: ошибочно № 13). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -7986,7 +7987,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@sita-thakurani", "@advaita", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-267. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -8004,7 +8005,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@malini", "@srivasa", "@sita-thakurani"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-013 (каталог: ошибочно № 15). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -8022,7 +8023,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@sita-thakurani", "@vishvarupa"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-268; в ГЧЧ — «Вишварупа — это мой Нитай» (вариант). Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family, separation]
   event: ev-navadvipa-elders-morning-darshan
@@ -8040,7 +8041,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). новая строка НГ-269; сноска о ватсалье. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -8058,7 +8059,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-014. Вероятно Чакраварти: есть в его «Гаура-чарита-чинтамани» (утренние игры Гауры в Навадвипе). По Маджумдару, пады Нарахари, известные только по ГПТ, ненадёжны."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -8076,7 +8077,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-270. Вероятно Чакраварти: есть в БР (Ишана: женщины Навадвипы приходили сюда на рассвете). Ватсалья, не нагари."
   themes: [family]
@@ -8096,7 +8097,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-271. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [family]
   event: ev-navadvipa-elders-morning-darshan
@@ -8114,7 +8115,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@advaita", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 13; ЧБ Ади 3; «Адвайта-пракаша» 10"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-015. Вероятно Чакраварти: есть в ГЧЧ. Сноска о явлении Господа (не рождение, как у обусловленных душ)."
   divergence: "По «Адвайта-пракаше», Младенец взял грудь, услышав святое имя; здесь Адвайта успокаивает Его «какой-то хитростью»."
@@ -8135,7 +8136,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 14; ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-016 (= НГ-023 — сокращённый дублет без эпизода с именем Хари). Вероятно Чакраварти: есть в ГЧЧ."
   themes: [kirtan, family]
@@ -8155,7 +8156,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 4; БР 12 (изд. 1960, ст. 982–983)"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-272. Вероятно Чакраварти: есть в ГЧЧ. Змей — Ананта (сноска)."
   themes: [revelation, pranks]
@@ -8175,7 +8176,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-017. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [pranks, krishna-lila, revelation]
   bhava: [child, krishna]
@@ -8194,7 +8195,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
   themes: [revelation, family]
@@ -8214,7 +8215,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@radha"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
   themes: [revelation, krishna-lila]
   bhava: [child, krishna]
@@ -8233,7 +8234,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-273. Пада соединяет три эпизода (следы стоп, флейта, воры). Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер — возможно, позднее подражание."
   themes: [pranks, revelation]
@@ -8253,7 +8254,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Лочан Дас, Ади-кханда"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-018. Вероятно Чакраварти: есть в ГЧЧ."
   divergence: "Божество не названо (у Лочана — богиня Шаштхи); вместо наставления о поливе корня — шутка «Я — Бог богов» и жалоба отцу."
@@ -8274,7 +8275,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishvarupa"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 6; ЧЧ Ади 14"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-019. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [pranks, family]
@@ -8294,7 +8295,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: teaching
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 14; ЧБ Ади 6; Мурари 1.6"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). НГ-020. Атрибуция не установлена: нет ни в ГЧЧ (хотя стоит посреди её цикла), ни в БР; неровный размер. Сноска: не майявада — всё, связанное со служением Вишну, чисто."
   themes: [pranks, teaching]
@@ -8315,7 +8316,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 6"
   notes: "Приложение ГПТ-Нарахари (порция 19, Н3). Новая строка НГ-274. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [pranks, krishna-lila]
@@ -8335,7 +8336,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@radha"]
   places: ["#navadvipa", "#puri"]
   kind: author
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 4; Антья 14–20"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-003. Вероятно Чакраварти: есть в БР (Ишана — Шринивасе, после рассказа об уходе Господа в Пури)."
   themes: [author, kirtan, sannyasa]
@@ -8355,7 +8356,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra", "@ganga-devi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 13; ЧБ Ади 2–3; Мурари 1.5"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-276. Вероятно Чакраварти: есть в БР. Сноска: «рождение» — явление (авирбхава) по воле Господа."
   themes: [family, revelation]
@@ -8376,7 +8377,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 13; ЧБ Ади 2–3"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-277. Вероятно Чакраварти: есть в БР."
   themes: [family, revelation]
@@ -8397,7 +8398,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@kali-personified"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 13"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-278. Вероятно Чакраварти: есть в БР; враджабули."
   themes: [revelation, celestial, kirtan]
@@ -8419,7 +8420,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@ganga-devi"]
   places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 2–3; ЧЧ Ади 13"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-279. Вероятно Чакраварти: есть в БР; пышный враджабули с ритмическими слогами."
   themes: [celestial, revelation, festival]
@@ -8440,7 +8441,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@jagannatha-mishra", "@sita-thakurani", "@malini"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 13; ЧБ Ади 3; ср. Бхаг. 10.5"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-004. Вероятно Чакраварти: есть в БР. Визит Ситы — также событие ev-sita-visits-newborn."
   themes: [festival, family, krishna-lila]
@@ -8460,7 +8461,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@shachi", "@srivasa", "@murari-gupta", "@yashoda", "@balarama"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 5; ЧБ, Мадхья-кханда (сон Шачи о Кришне и Балараме)"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-021. Вероятно Чакраварти: есть в ГЧЧ (цикл утра в доме Шачи после Гаи)."
   themes: [family, krishna-lila]
@@ -8481,7 +8482,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-022. Вероятно Чакраварти: есть в ГЧЧ (последняя пада 6-й главы)."
   themes: [family]
@@ -8500,7 +8501,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-024. Вероятно Чакраварти: есть в БР (Ишана: «здесь — дивный танец Нимая»)."
   themes: [kirtan, family]
@@ -8521,7 +8522,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-025. Вероятно Чакраварти: есть в БР. Отнесено к событию о проказах Нимая в домах Навадвипы (просьба матери — ответ на них)."
   themes: [family, pranks]
@@ -8541,7 +8542,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 4"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-026. Вероятно Чакраварти: есть в БР (сразу за падами Васу Гхоша ПК 1151, 1161)."
   themes: [kirtan, family]
@@ -8562,7 +8563,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-275. Атрибуция не установлена: нет ни в БР, ни в ГЧЧ; враджабули; поэт в подписи служит в лиле (манаси-сева)."
   themes: [pranks, family]
@@ -8582,7 +8583,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Лочан Дас, Ади-кханда (Пауганда-лила 460–472); БР 12, ст. 1160–1161"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-280. Вероятно Чакраварти: есть в БР; сразу за падой БР рассказывает, что уши Господа оказались проколотыми прежде обряда. Сноска: самскары Господь принимает, следуя лиле, а не по нужде."
   themes: [festival, family]
@@ -8602,7 +8603,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-027. Вероятно Чакраварти: есть в БР; пышный враджабули."
   themes: [festival, celestial]
@@ -8622,7 +8623,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 8; Лочан Дас, Ади-кханда (Пауганда-лила 517–546)"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). Новая строка НГ-281 (прежде смешивалась со свадебной падой № 11). Вероятно Чакраварти: есть в БР. Соседняя № 4 (Господь в облике Ваманы) — подпись Гханашьямы, вне состава."
   themes: [festival, family, celestial]
@@ -8642,7 +8643,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 8"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-028. Вероятно Чакраварти: есть в БР; враджабули."
   themes: [festival, celestial]
@@ -8662,7 +8663,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
   places: ["#ganga", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10; Мурари 1.9"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-029. Вероятно Чакраварти: есть в БР. Сноска: Лакшмиприя — вечная супруга Господа; их любовь не мирская."
   themes: [family]
@@ -8682,7 +8683,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10; ЧЧ Ади 15; Мурари 1.9"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-030 (свадебная часть строки). Вероятно Чакраварти: есть в БР (после рассказа о сватовстве Ванамали)."
   themes: [family, festival]
@@ -8701,7 +8702,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@vanamali-acharya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-031. Вероятно Чакраварти: есть в БР. Речь молодых жён — радость о свадьбе, не нагари-бхава."
   themes: [family, festival]
@@ -8720,7 +8721,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-032. Вероятно Чакраварти: есть в БР. Сноска: не нагари-бхава; позиция традиции о «гаура-нагари»."
   themes: [family, festival]
@@ -8739,7 +8740,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@vallabhacharya"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-033. Вероятно Чакраварти: есть в БР."
   themes: [festival, family, celestial]
@@ -8758,7 +8759,7 @@
   persons: ["@narahari-chakravarti", "@lakshmipriya", "@vallabhacharya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10"
   notes: "Приложение ГПТ-Нарахари (порция 20, Н4). НГ-034. Вероятно Чакраварти: есть в БР."
   themes: [festival, family, celestial]
@@ -8777,7 +8778,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10; ЧЧ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-282. Вероятно Чакраварти: есть в БР. Сноска: свадебные обряды Господь принимает, следуя лиле; Лакшмиприя — вечная супруга Господа."
   themes: [festival, family]
@@ -8796,7 +8797,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-035. Вероятно Чакраварти: есть в БР. Сноска: мотив женщин Надии — позиция традиции о «гаура-нагари»."
   themes: [festival, family]
@@ -8815,7 +8816,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-036. Вероятно Чакраварти: есть в БР. Сноска: шутливая забота женщин — не нагари-бхава."
   themes: [festival, family]
@@ -8834,7 +8835,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-037. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -8853,7 +8854,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-283. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -8872,7 +8873,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-038. Вероятно Чакраварти: есть в БР; враджабули."
   themes: [festival, family, celestial]
@@ -8891,7 +8892,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-039. Вероятно Чакраварти: есть в БР. Сноска: праздничный восторг, не нагари-бхава."
   themes: [festival, family]
@@ -8910,7 +8911,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10; ЧЧ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-040. Вероятно Чакраварти: есть в БР."
   themes: [festival, family, celestial]
@@ -8929,7 +8930,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-041. Вероятно Чакраварти: есть в БР. Сноска: обрядовое веселье васары — не нагари-бхава; Лакшмиприя — вечная энергия Господа."
   themes: [festival, family]
@@ -8948,7 +8949,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-042. Вероятно Чакраварти: есть в БР (каталог считал её «только ГПТ»)."
   themes: [festival, family]
@@ -8967,7 +8968,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-043. Вероятно Чакраварти: есть в БР; враджабули."
   themes: [festival, family, separation]
@@ -8986,7 +8987,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 10"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-044. Вероятно Чакраварти: есть в БР; подпись — желание поэта увидеть такое веселье (не очевидец)."
   themes: [festival, family]
@@ -9005,7 +9006,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@lakshmipriya", "@shachi", "@gangadasa-pandita"]
   places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧЧ Ади 16"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-284. Атрибуция не установлена: только ГПТ; по месту в цикле и сходству с прозой БР — скорее Чакраварти."
   themes: [learning, family]
@@ -9025,7 +9026,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15; Мурари 1.13–1.14"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-045. Вероятно Чакраварти: есть в БР. Сноска перед разделом: уход Лакшмиприи (ЧБ Ади 14; ЧЧ Ади 16); Вишнуприя — Бху-шакти, вечная супруга Господа."
   themes: [family, festival]
@@ -9044,7 +9045,7 @@
   persons: ["@narahari-chakravarti", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-048. Вероятно Чакраварти: есть в БР и ГЧЧ (в ГЧЧ — среди пад о нагари, в БР и ГПТ — среди свадебных); враджабули."
   themes: [family, festival]
@@ -9063,7 +9064,7 @@
   persons: ["@narahari-chakravarti", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-049. Вероятно Чакраварти: есть в БР и ГЧЧ."
   themes: [family, festival]
@@ -9082,7 +9083,7 @@
   persons: ["@narahari-chakravarti", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-051. Вероятно Чакраварти: есть в БР. Не нагари (план считал предварительно нагари); сноска о мотиве женщин Надии."
   themes: [festival, family, celestial]
@@ -9101,7 +9102,7 @@
   persons: ["@narahari-chakravarti", "@shachi", "@ganga-devi"]
   places: ["#ganga", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-285 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: Ганга исходит из стоп Господа; поклонение полубогам — обычай, которому Шачи следует в лиле."
   themes: [festival, family, celestial]
@@ -9120,7 +9121,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-052. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9139,7 +9140,7 @@
   persons: ["@narahari-chakravarti", "@vishnupriya", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-053. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9158,7 +9159,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shiva", "@parvati", "@brahma", "@indra"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-054. Вероятно Чакраварти: есть в БР."
   themes: [festival, celestial, family]
@@ -9177,7 +9178,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-055. Вероятно Чакраварти: есть в БР. Сноска: свадебный обряд, не нагари-бхава."
   themes: [festival, family]
@@ -9196,7 +9197,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-286 (новая строка). Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9215,7 +9216,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 21, Н5). НГ-056. Вероятно Чакраварти: есть в БР. Сноска: оборот любовной лирики о красоте жениха — позиция традиции."
   themes: [festival, family]
@@ -9234,7 +9235,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@brahma", "@shiva", "@indra", "@ganesha", "@parvati"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-057. Вероятно Чакраварти: есть в БР. Сноски: Вишнуприя — Бху-шакти, обряды — лила; полубоги — слуги Господа."
   themes: [festival, celestial, family]
@@ -9253,7 +9254,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-058. Вероятно Чакраварти: есть в БР. Сноска: мотив горожанок — позиция традиции (не гаура-нагари)."
   themes: [festival, family]
@@ -9272,7 +9273,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-059. Вероятно Чакраварти: есть в БР. Сноска: формула любовной лирики — о всепривлекающей красоте Господа. Следующая пада ГПТ (№ 21) — нагари-бхава, в раздел нагари-пад."
   themes: [festival, family]
@@ -9291,7 +9292,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 146–147"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-061. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9310,7 +9311,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Лочан (порция 22), ст. 149–152"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-062. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9329,7 +9330,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 155–160"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-063. Вероятно Чакраварти: есть в БР. Сноска: Вишнуприя — вечная энергия Господа, её «самоотдача» — служение Ему."
   themes: [festival, family]
@@ -9348,7 +9349,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra", "@shiva", "@brahma", "@indra", "@ganesha"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-064. Вероятно Чакраварти: есть в БР."
   themes: [celestial, festival]
@@ -9367,7 +9368,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-065. Вероятно Чакраварти: есть в БР. Сноска: небожительницы приходят созерцать лилу и служить Господу."
   themes: [celestial, festival]
@@ -9386,7 +9387,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-287 (новая строка). Вероятно Чакраварти: есть в БР."
   themes: [celestial, festival, family]
@@ -9405,7 +9406,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-066. Вероятно Чакраварти: есть в БР."
   themes: [festival, family, celestial]
@@ -9424,7 +9425,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-288 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: свадебные шутки в брачном покое — не нагари-бхава; позиция традиции."
   themes: [festival, family]
@@ -9443,7 +9444,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-289 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: мотив горожанок — позиция традиции."
   themes: [festival, family]
@@ -9462,7 +9463,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@sanatana-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 166–174"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-067. Вероятно Чакраварти: есть в БР."
   themes: [festival, family]
@@ -9481,7 +9482,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-068. Вероятно Чакраварти: есть в БР. Сноска: узнавание Лакшми и Нараяны в молодых."
   themes: [festival, family, revelation]
@@ -9500,7 +9501,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@vishnupriya", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 15; Лочан (порция 22), ст. 175–178"
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-069. Вероятно Чакраварти: есть в БР. В БР двумя двустишиями больше (Шачи ждёт у дома)."
   themes: [family, festival]
@@ -9519,7 +9520,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6). НГ-070. Вероятно Чакраварти: есть в БР. Далее в ГПТ № 35–38 — отрывок ЧМ Лочана, № 39–40 — Вриндаван Дас (вне состава)."
   themes: [family, festival]
@@ -9538,7 +9539,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-171. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноски: аштакалия — вечная лила; сон Господа — погружённость в лилы Враджа; Гаура — Кришна в бхаве Радхи (ЧЧ Ади 1.5)."
   themes: [ecstasy, kirtan]
@@ -9558,7 +9559,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-172. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: намёк на нишанта-лилу Враджа; Гададхара — Радха, Нарахари — Мадхумати (ГГД)."
   themes: [ecstasy, krishna-lila]
@@ -9577,7 +9578,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-173. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy]
@@ -9596,7 +9597,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-174. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy, mercy]
@@ -9615,7 +9616,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-290 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy, pranks]
@@ -9634,7 +9635,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-291 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy, revelation]
@@ -9653,7 +9654,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-292 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy]
@@ -9672,7 +9673,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-175. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». В ГЧЧ поёт попугай, ссылаясь на Нарахари."
   themes: [ecstasy]
@@ -9691,7 +9692,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#house-jagannatha-mishra", "#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-293 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: шутливый упрёк любящего."
   themes: [ecstasy, pranks]
@@ -9710,7 +9711,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 22, Н6), аштакалия (вечная лила, песни пробуждения). НГ-294 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: Навадвипа-дхама не отлична от Вриндавана."
   themes: [ecstasy]
@@ -9729,7 +9730,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gauridasa-pandita", "@haridasa-thakura", "@mukunda-datta", "@murari-gupta", "@vakreshvara", "@satyaraja-khan", "@nandana-acharya", "@chandrashekhara-acharya", "@shuklambara", "@nakula-brahmachari", "@krishna"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-295 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноски: тоска по Радхарамане — бхава Радхи; смирение — бхакта-бхава (ЧЧ Мадхья 2.42, 13.80; Антья 20.29), Господь не подвластен майе."
   themes: [ecstasy, krishna-lila]
@@ -9749,7 +9750,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gauridasa-pandita"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-177. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: бхава пастушка Враджа; Гауридас — Субала (ГГД)."
   themes: [ecstasy, krishna-lila]
@@ -9769,7 +9770,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-178. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: формула о «стыде юных женщин» — позиция традиции (не гаура-нагари); нирманчхана."
   themes: [ecstasy]
@@ -9788,7 +9789,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-296 (новая строка). Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [ecstasy]
@@ -9807,7 +9808,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-179. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: травинка в зубах — знак смирения."
   themes: [ecstasy, kirtan]
@@ -9826,7 +9827,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-180. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: спутники — воины санкиртаны; древо премы (ЧЧ Ади 9)."
   themes: [mercy, kirtan]
@@ -9845,7 +9846,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "Мурари 2.10.15–17"
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-181. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР перед падой приводит стихи Мурари Гупты (2.10.16–17). Сноска: чира-харана (Бхаг. 10.22) — игра чистой премы."
   themes: [pranks, krishna-lila]
@@ -9865,7 +9866,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@srivasa", "@murari-gupta", "@advaita", "@nityananda"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-182. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: остатки трапезы Господа и спутников — махапрасад (ЧЧ Антья 16)."
   themes: [prasada, krishna-lila]
@@ -9884,7 +9885,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-297 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре»."
   themes: [ecstasy]
@@ -9903,7 +9904,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-183. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». В БР 12 (ст. 2353–2357) — Господь обходит Надию в прекрасном наряде, чтобы открыть Себя и развеять печаль вайшнавов."
   themes: [revelation]
@@ -9922,7 +9923,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-298 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: формула материнской любви «বালাই লইয়া মরি»."
   themes: [revelation, family]
@@ -9941,7 +9942,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-299 (новая строка). Вероятно Чакраварти: есть в «Бхакти-ратнакаре»."
   themes: [mercy, revelation]
@@ -9960,7 +9961,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-184. Вероятно Чакраварти: есть в «Бхакти-ратнакаре»."
   themes: [mercy, revelation]
@@ -9979,7 +9980,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-185. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: «нагара» здесь — городские франты, не нагари-бхава. Следующая пада ГПТ (№ 39 = БР ст. 2380–2383) — нагари, отложена."
   themes: [revelation]
@@ -9998,7 +9999,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "ЧБ Ади-кханда (обход лавок Навадвипы)"
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-300 (новая строка). Атрибуция не установлена (только ГПТ). Только ГПТ; простой бенгальский. Ср. ЧБ (Ади-кханда) — обход лавок."
   themes: [mercy]
@@ -10018,7 +10019,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-187. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [separation, ecstasy]
@@ -10037,7 +10038,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-188. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани»."
   themes: [separation, ecstasy]
@@ -10056,7 +10057,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@srivasa"]
   places: ["#navadvipa", "#house-jagannatha-mishra", "#ganga", "#house-srivasa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-189. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР приводит перед ней санскритские стихи «древних» о восьми частях суток (ст. 3366–3370). Сноска: аштакалия — вечная лила."
   themes: [kirtan, ecstasy]
@@ -10075,7 +10076,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@shachi", "@shuklambara", "@srivasa"]
   places: ["#navadvipa", "#house-jagannatha-mishra", "#ganga", "#house-srivasa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-190. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». В ГЧЧ — «сутра» (краткое изложение) всей поэмы, кирана 1."
   themes: [kirtan, ecstasy]
@@ -10094,7 +10095,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@rukmini", "@chandrashekhara-acharya"]
   places: ["#navadvipa", "#house-chandrashekhara"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 18"
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-191. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». БР: Господь — воплощение всех энергий, пляшет в облике Рукмини, Лакшми, Парвати (ст. 2903–2918). Сноска: облик Своей шакти, не мирское переодевание (ЧБ Мадхья 18)."
   themes: [kirtan, revelation]
@@ -10114,7 +10115,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@advaita", "@srivasa", "@vasudeva-datta", "@nandana-acharya", "@vijaya-dasa", "@vakreshvara", "@mukunda-datta"]
   places: ["#navadvipa", "#house-srivasa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-192. Вероятно Чакраварти: есть в «Бхакти-ратнакаре»."
   themes: [kirtan, ecstasy]
@@ -10133,7 +10134,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-srivasa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 23, Н7), аштакалия (вечная лила). НГ-301 (новая строка; бывшая ВГ-057). Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Каталог числил за Васу (ВГ-057); подпись — Нарахари."
   themes: [kirtan, ecstasy]
@@ -10152,7 +10153,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия (вечная лила). НГ-193. Вероятно Чакраварти: есть в «Гаура-чарита-чинтамани». Сноска: сон Господа — погружённость в лилы Враджа (бхава Кришны перед Радхой в мане), не сон под властью майи."
   themes: [ecstasy, krishna-lila]
@@ -10172,7 +10173,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-194. Вероятно Чакраварти: есть в ГЧЧ. Сноска: Кришна — «Манматха самого Манматхи» (Бхаг. 10.32.2); красота Гауры не мирская."
   themes: [ecstasy]
@@ -10192,7 +10193,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-195. Вероятно Чакраварти: есть в ГЧЧ. Текст местами тёмен (разночтения ГПТ/ГЧЧ)."
   themes: [ecstasy]
@@ -10211,7 +10212,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-196. Вероятно Чакраварти: есть в ГЧЧ (речь одного из спутников)."
   themes: [ecstasy]
@@ -10230,7 +10231,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-197. Вероятно Чакраварти: есть в ГЧЧ. Сноска: «безумие» — безумие премы; сон — тоже лила (ср. ЧЧ Антья 14–19)."
   themes: [ecstasy, krishna-lila]
@@ -10250,7 +10251,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-302 (новая строка). Вероятно Чакраварти: есть в ГЧЧ. Попугай — тот, что поёт песни пробуждения (порция 22)."
   themes: [ecstasy, krishna-lila]
@@ -10269,7 +10270,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-198. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [ecstasy]
@@ -10288,7 +10289,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-199. Вероятно Чакраварти: есть в ГЧЧ."
   themes: [ecstasy]
@@ -10307,7 +10308,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-200. Вероятно Чакраварти: в ГЧЧ открывает нишанта-лилу (кирана 2, пада 1)."
   themes: [separation, ecstasy]
@@ -10326,7 +10327,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: C
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8), аштакалия. НГ-303 (новая строка). Атрибуция не установлена: только ГПТ (нет в ГЧЧ, БР, ПК, КГЧ, ПС)."
   themes: [kirtan, ecstasy]
@@ -10345,7 +10346,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@hadai-pandita", "@padmavati", "@advaita"]
   places: ["#ekachakra", "#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 9 (детство Нитьянанды)"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-202. Вероятно Чакраварти: есть в «Бхакти-ратнакаре». Сноска: Нитьянанда — Сам Баларама (ЧЧ Ади 5)."
   themes: [celestial, revelation]
@@ -10366,7 +10367,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@mahaprabhu", "@srivasa"]
   places: ["#navadvipa", "#house-nandana-acharya"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Мадхья 3; ЧЧ Ади 17"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-304 (новая строка). Вероятно Чакраварти: есть в БР (в доме Нанданы Ачарьи, после стиха Бхаг. 10.21.5, прочитанного Шривасом). Сноска: «безумие» — безумие премы."
   themes: [ecstasy]
@@ -10386,7 +10387,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@mahaprabhu", "@balarama"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-260 (бывшая ВГ-048). Вероятно Чакраварти: есть в БР. Сноска: раса Баларамы — Бхаг. 10.65, вечная лила, не мирская."
   themes: [ecstasy, krishna-lila]
@@ -10407,7 +10408,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#gauda"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-203. Вероятно Чакраварти: есть в БР и «Гита-чандродае» («даже чтобы спасти падшего Нарахари»). В БР — приход Нитьянанды в Гауду по велению Господа."
   themes: [mercy, ecstasy]
@@ -10426,7 +10427,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@padmavati", "@mahaprabhu", "@vasudha", "@jahnava"]
   places: ["#ekachakra", "#navadvipa", "#puri", "#gauda"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Ади 9; ЧЧ Мадхья 5; ЧБ Антья 2, 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-305 (новая строка). Вероятно Чакраварти: есть в БР. Обзор жизни (числа лет — по рассказу поэта)."
   themes: [mercy, sannyasa]
@@ -10446,7 +10447,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@balarama", "@vasudha", "@jahnava"]
   places: []
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-204. Вероятно Чакраварти: есть в БР (после свадьбы Нитьянанды и цитаты из ГГД о Васудхе и Джахнаве — воплощениях Варуни и Ревати). Сноска: «бросают род» — формула всепривлекающей духовной красоты, не мирского влечения."
   themes: [mercy, kirtan]
@@ -10466,7 +10467,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@raghava-pandita"]
   places: ["#panihati"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-306 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: «лишает устоев целомудренных жён» — образ всепривлекающей духовной красоты, не мирского соблазна."
   themes: [kirtan, mercy]
@@ -10485,7 +10486,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#panihati"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-205. Вероятно Чакраварти: есть в БР (сразу после № 67, Панихати)."
   themes: [kirtan, mercy]
@@ -10504,7 +10505,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@narahari-sarakara"]
   places: ["#panihati"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-307 (новая строка). Вероятно Чакраварти: есть в БР (далее — чудо с цветами кадамбы на лимонном дереве). «Нарахари» в 19.4 — участник события (вероятно, Нарахари Саркар), а не подпись; Дамодара не установлен."
   themes: [festival, mercy]
@@ -10523,7 +10524,7 @@
   persons: ["@narahari-chakravarti", "@vasudha", "@jahnava", "@suryadasa-pandita", "@nityananda"]
   places: ["#saligrama"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-207 (каталог склеил первые строки № 71 и 73). Вероятно Чакраварти: есть в БР (после адхивасы жениха в Бадагачхи, где — пада Гханашьямы). По БР — после прихода Нитьянанды в Гауду, при жизни Господа. Сноска: свадьба — лила Нитьянанды, не подвластного мирским узам; Васудха и Джахнава — воплощения Варуни и Ревати."
   themes: [family, festival]
@@ -10543,7 +10544,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#badagachhi", "#saligrama"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-308 (новая строка). Вероятно Чакраварти: есть в БР; враджабули."
   themes: [family, festival]
@@ -10562,7 +10563,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@gadadhara-dasa"]
   places: ["#ariadaha"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья-кханда"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-309 (новая строка). Вероятно Чакраварти: есть в БР (из Панихати к дому Гададхары Даса; селение в БР не названо — по традиции Ариядаха)."
   themes: [mercy, ecstasy]
@@ -10581,7 +10582,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#kharadaha"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-310 (новая строка). Вероятно Чакраварти: есть в БР (приход в Кхардаху)."
   themes: [mercy, ecstasy]
@@ -10600,7 +10601,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@purandara-pandita"]
   places: ["#kharadaha"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-208. Вероятно Чакраварти: есть в БР (без двустишия 24.5)."
   themes: [kirtan, mercy]
@@ -10619,7 +10620,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#kharadaha"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-311 (новая строка). Вероятно Чакраварти: есть в БР. Сноска: «опьянение» — премой."
   themes: [mercy, ecstasy]
@@ -10638,7 +10639,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#kharadaha"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧБ Антья 5"
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-312 (новая строка). Вероятно Чакраварти: есть в БР (последняя пада о Кхардахе перед уходом в Саптаграм)."
   themes: [mercy, kirtan]
@@ -10657,7 +10658,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-313 (новая строка). Вероятно Чакраварти: есть в ГЧЧ (кирана 4 — «Господь среди преданных»). Сноска: Гаура — Кришна в бхаве и сиянии Радхи (ЧЧ Ади 1.5); мольба о «теле из глаз» — ср. Бхаг. 10.31.15."
   themes: [ecstasy, revelation]
@@ -10678,7 +10679,7 @@
   persons: ["@narahari-chakravarti", "@nityananda", "@mahaprabhu", "@abhirama"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-314 (новая строка). Вероятно Чакраварти: есть в ГЧЧ. «Сугхара Абхирама» понято как имя спутника (возможно и как эпитет Нитая). Сноска: Нитьянанда — изначальный духовный учитель (ЧЧ Ади 5)."
   themes: [ecstasy]
@@ -10698,7 +10699,7 @@
   persons: ["@narahari-chakravarti", "@nityananda"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 24, Н8). НГ-315 (новая строка). Вероятно Чакраварти: есть в ГЧЧ; враджабули. Синие одежды — одежды Баларамы."
   themes: [revelation]
@@ -10718,7 +10719,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-316 (новая строка). Вероятно Чакраварти: есть в ГЧЧ (кирана 4 — «Господь в кругу преданных»); враджабули."
   themes: [ecstasy]
@@ -10738,7 +10739,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@mahaprabhu"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-317 (новая строка). Вероятно Чакраварти: есть в ГЧЧ; враджабули. Сноска: «гордость Мадана» посрамлена духовной красотой Господа (Мадана-мохана), не мирским влечением."
   themes: [ecstasy, revelation]
@@ -10758,7 +10759,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@mahaprabhu", "@haridasa-thakura", "@narahari-sarakara"]
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-210. Вероятно Чакраварти: есть в ГЧЧ; враджабули. «Нарахари» в концовке — и подпись, и, вероятно, имя зрителя (Нарахари Саркар — ГЧЧ 4.18). Текст 3.2 исправлен по ГЧЧ."
   themes: [ecstasy, revelation]
@@ -10778,7 +10779,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-318 (новая строка). Вероятно Чакраварти: есть в БР (Ишана рассказывает Шринивасе о славе Адвайты перед приходом Нитьянанды из Саптаграма в Шантипур) и в «Гита-чандродае»; враджабули."
   themes: [ecstasy, mercy]
@@ -10798,7 +10799,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@labha", "@sita-thakurani", "@mahaprabhu", "@nityananda"]
   places: ["#lauda", "#shantipura", "#navadvipa", "#puri"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "ЧЧ Ади 3 (призыв Господа); ЧЧ Мадхья 3 (Господь у Адвайты после санньясы); ЧЧ Мадхья 11 и далее (приходы в Пури)"
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-211. Вероятно Чакраварти: есть в БР (сразу после обзора жизни Нитьянанды, 6.1 № 65). Обзор жизни."
   themes: [mercy, kirtan]
@@ -10818,7 +10819,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-319 (новая строка). Вероятно Чакраварти: есть в БР и в «Гита-чандродае»; враджабули."
   themes: [ecstasy, mercy]
@@ -10838,7 +10839,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@kuvera-pandita", "@labha", "@mahaprabhu"]
   places: []
   kind: lila
-  authority: D
+  authority: C
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-212. Не установлено: ни в одном свидетеле; в указателе ГПТ2 ошибочно под именем Гханашьямы. Сноска: Махешвара — Садашива (ГГД 11, 76), неотличный от Вишну; Адвайта — Маха-Вишну (ЧЧ Ади 6)."
   themes: [revelation]
@@ -10859,7 +10860,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-213. Вероятно Чакраварти: есть в БР."
   themes: [ecstasy, mercy]
@@ -10879,7 +10880,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-214. Вероятно Чакраварти: есть в БР (Адвайта упоён пляской и киртаном — в Своём доме, в домах спутников, на берегу Ганги, ст. 3786–3789)."
   themes: [kirtan, ecstasy]
@@ -10899,7 +10900,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-215. Вероятно Чакраварти: есть в БР и в «Гита-чандродае». Сноска: «Творец изваял» — поэтическая формула; тело Адвайты духовно."
   themes: [ecstasy, mercy]
@@ -10919,7 +10920,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-216. Вероятно Чакраварти: есть в БР."
   themes: [kirtan, ecstasy]
@@ -10939,7 +10940,7 @@
   persons: ["@narahari-chakravarti", "@advaita"]
   places: ["#shantipura"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-320 (новая строка). Вероятно Чакраварти: есть в БР (сразу перед рассказом о приходе Нитьянанды к Адвайте, ст. 3816–3821)."
   themes: [kirtan, ecstasy]
@@ -10959,7 +10960,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@nityananda", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-321 (новая строка). Вероятно Чакраварти: есть в БР (Адвайта приходит из Шантипура в Надию и пребывает с Нитьянандой в санкиртане) и в «Гита-чандродае». Сноска: «второй Творец» — Адвайта как Маха-Вишну (ЧЧ Ади 6)."
   themes: [kirtan, mercy]
@@ -10979,7 +10980,7 @@
   persons: ["@narahari-chakravarti", "@advaita", "@kuvera-pandita"]
   places: ["#lauda"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 25, Н9). НГ-322 (новая строка). Вероятно Чакраварти: есть в БР (Ишана рассказывает Шринивасе о роде Адвайты; перед падой — цитата ГГД о Кубере и пада Гханашьямы о том же); враджабули."
   themes: [celestial, festival]
@@ -11000,7 +11001,7 @@
   persons: ["@narahari-chakravarti", "@gadadhara-pandita", "@madhava-mishra"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: C
   parallels: "«Према-виласа», виласа 22"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-217. Атрибуция не установлена: только ГПТ (нет в БР, ГЧЧ); простой бенгальский трипади. Сноска: Гададхара Пандит — Шри Радха (ГГД 147–153); явление вечного спутника — не рождение по карме."
   themes: [family, celestial]
@@ -11021,7 +11022,7 @@
   persons: ["@narahari-chakravarti", "@gadadhara-pandita", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-218. Вероятно Чакраварти: есть в ГЧЧ (утро Господа в кругу преданных); враджабули. Сноска: прежние игры — лила Враджа (ГГД 147–153)."
   themes: [ecstasy]
@@ -11041,7 +11042,7 @@
   persons: ["@narahari-chakravarti", "@srivasa", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-323 (новая строка). Вероятно Чакраварти: есть в ГЧЧ; враджабули. Шривас — Нарада (ГГД 90)."
   themes: [ecstasy, kirtan]
@@ -11061,7 +11062,7 @@
   persons: ["@narahari-chakravarti", "@gadadhara-dasa", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-219. Вероятно Чакраварти: есть в ГЧЧ; враджабули. Гададхара Дас — Чандраканти и Пурнананда (ГГД 154–155)."
   themes: [ecstasy]
@@ -11081,7 +11082,7 @@
   persons: ["@narahari-chakravarti", "@shyamananda", "@hridaya-chaitanya", "@jiva-gosvami", "@rasikananda"]
   places: ["#ambika-kalna", "#vrindavana", "#govardhana"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласы 12, 19"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-221. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна, «песнь о жизни Шьямананды»). Обзор жизни; главное событие — посвящение в Амбике; также — приход во Вриндаван (ev-shyamananda-comes-to-vrindavana) и проповедь в Уткале (ev-shyamananda-utkala)."
   themes: [mercy, pilgrimage]
@@ -11101,7 +11102,7 @@
   persons: ["@narahari-chakravarti", "@shyamananda", "@hridaya-chaitanya", "@radha", "@rasikananda"]
   places: ["#vrindavana"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласа 12"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-324 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна, сразу после песни о жизни Шьямананды)."
   themes: [mercy]
@@ -11121,7 +11122,7 @@
   persons: ["@narahari-chakravarti", "@jnanadasa", "@jahnava"]
   places: ["#kandra", "#kheturi"]
   kind: post-advent
-  authority: D
+  authority: C
   parallels: "«Према-виласа», виласа 19 (Джнянадас среди пришедших в Кхетури); БР 14.180 (Кандра — селение «Мангала Джнянадаса»)"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-325 (новая строка). Поздний слой: о последователях. Атрибуция не установлена: только ГПТ; о событиях после ухода Нарахари Саркара и о празднике, бывающем «поныне», — поздняя пада (не Саркар; возможно, и не Чакраварти). Упоминание праздника в Кхетури."
   themes: [author, festival]
@@ -11141,7 +11142,7 @@
   persons: ["@narahari-chakravarti", "@harirama-acharya", "@ramachandra-kaviraja"]
   places: []
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласа 14"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-222. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Шринивасы) и в ГЧЧ (кирана 1)."
   themes: [kirtan, mercy]
@@ -11161,7 +11162,7 @@
   persons: ["@narahari-chakravarti", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
   places: ["#teliya-budhari"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-326 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна: Шринивас и Нароттама в Будхари перед праздником в Боракули)."
   themes: [kirtan]
@@ -11181,7 +11182,7 @@
   persons: ["@narahari-chakravarti", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@jiva-gosvami", "@narottama-dasa"]
   places: ["#mathura", "#vrindavana", "#gauda"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласа 6"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-327 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна, «песнь о жизни Шринивасы Ачарьи»). Обзор жизни; главное событие — явление Рупы и Санатаны во сне; также — посвящение (ev-srinivasa-initiation) и отъезд с книгами (ev-books-leave-vrindavana)."
   themes: [revelation, pilgrimage]
@@ -11201,7 +11202,7 @@
   persons: ["@narahari-chakravarti", "@narottama-dasa"]
   places: ["#teliya-budhari"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-328 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна: в Будхари, перед праздником в Боракули)."
   themes: [ecstasy]
@@ -11221,7 +11222,7 @@
   persons: ["@narahari-chakravarti", "@narottama-dasa", "@lokanatha", "@srinivasa-acharya", "@ramachandra-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
   places: ["#vrindavana", "#navadvipa", "#puri", "#kheturi"]
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласы 11, 19"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-329 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (14-я волна, «песнь о жизни Нароттамы»). Обзор жизни; главное событие — посвящение у Локанатхи; также — шесть Божеств Кхетури (ev-kheturi-six-deities) и явление Господа в киртане (ev-kheturi-festival)."
   themes: [kirtan, deities, revelation]
@@ -11241,7 +11242,7 @@
   persons: ["@narahari-chakravarti", "@govinda-kaviraja", "@ramachandra-kaviraja", "@srinivasa-acharya", "@durga"]
   places: ["#teliya-budhari", "#shrikhanda"]
   kind: post-advent
-  authority: D
+  authority: C
   parallels: "«Према-виласа», виласа 14"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-223 (первая строка в каталоге искажена). Поздний слой: о последователях. Атрибуция не установлена: только ГПТ; о событиях после ухода Нарахари Саркара. Сноска: «род шактов» — слова автора; отец, Чиранджив Сен, — спутник Махапрабху (ГГД 209)."
   themes: [mercy, celestial]
@@ -11261,7 +11262,7 @@
   persons: ["@narahari-chakravarti", "@ramachandra-kaviraja", "@srinivasa-acharya", "@narottama-dasa", "@govinda-kaviraja", "@vira-hambira"]
   places: []
   kind: post-advent
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-330 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в ГЧЧ (кирана 1, ряд пад-вандан спутникам и последователям); враджабули. Хвала-перечень; событие — по главному лицу (Рамачандра — ученик Шринивасы)."
   themes: [author, kirtan]
@@ -11281,7 +11282,7 @@
   persons: ["@narahari-chakravarti", "@ganganarayana-chakravarti", "@narottama-dasa"]
   places: []
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласа 17"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-331 (новая строка). Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Нароттамы) и в ГЧЧ (кирана 1)."
   themes: [kirtan, deities]
@@ -11301,7 +11302,7 @@
   persons: ["@narahari-chakravarti", "@ramakrishna-acharya", "@narottama-dasa"]
   places: []
   kind: post-advent
-  authority: D
+  authority: B
   parallels: "«Према-виласа», виласа 14"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-225. Поздний слой: о последователях. Вероятно Чакраварти: есть в БР (15-я волна: ветвь Нароттамы) и в ГЧЧ (кирана 1)."
   themes: [kirtan, deities]
@@ -11321,7 +11322,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa"]
   kind: lila
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-226. Вероятно Чакраварти: есть в ГЧЧ (последняя пада кираны «Господь в кругу преданных»); враджабули. Сноска: саттвика-бхавы."
   themes: [ecstasy]
@@ -11341,7 +11342,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@narahari-sarakara", "@svarupa-damodara", "@srivasa"]
   places: []
   kind: author
-  authority: D
+  authority: B
   parallels: ""
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10). НГ-332 (новая строка). Вероятно Чакраварти: пада входит в авторское заключение БР (перед словом автора о себе: отец — Джаганнатха, ученик Вишванатхи Чакраварти; два имени — Гханашьям Дас и Нарахари Дас); в 18.3 Нарахари (Саркар) назван среди спутников. В изд. БР 1912 и 1913 этой главы нет."
   themes: [author]
@@ -11360,7 +11361,7 @@
   persons: ["@narahari-chakravarti", "@mahaprabhu"]
   places: ["#navadvipa", "#ganga"]
   kind: lila
-  authority: D
+  authority: B
   parallels: "БР 12 (ст. 3519–3525: утешение Шачи и Вишнуприи, цитата ЧБ Мадхья)"
   notes: "Приложение ГПТ-Нарахари (порция 26, Н10, добор по сплошной сверке подписей). НГ-333 (новая строка). Вероятно Чакраварти: есть в БР (12-я волна). Сноска: полубоги — слуги Господа и скорбят о Его уходе."
   themes: [sannyasa, separation]
