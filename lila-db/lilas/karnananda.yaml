@@ -380,3 +380,41 @@
   event: ev-srinivasa-samadhi-nose-ring
   verses:
     - {file: "karnananda/ru/03.md", from: "433", to: "500"}
+
+- id: krn-0022
+  source: karnananda
+  ref: "Нирьяса 4, 1–38"
+  file: "karnananda/ru/04.md"
+  period: P15
+  order: 102.4
+  title: "Вира Хамбир просит Шринивасу о милости; Шринивас вручает его Рамачандре как младшего брата: «Госвами в образе книг вошли в твой дом»"
+  summary: "Восхищённый Рамачандрой, царь приходит к Шринивасе, смиренно просит наставить его в цели и средствах; Шринивас обнимает его и поручает Рамачандре; он объясняет царю, что кража книг была милостью шести Госвами: Махапрабху в образе книг вошёл в его дом и очистил сердце."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@ramachandra-kaviraja", "@rupa-gosvami", "@sanatana-gosvami", "@vyasa-acharya", "@hemalata", "@yadunandana-dasa-author"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [mercy, teaching]
+  event: ev-ramachandra-instructs-vira-hambira
+  verses:
+    - {file: "karnananda/ru/04.md", from: "1", to: "38"}
+
+- id: krn-0023
+  source: karnananda
+  ref: "Нирьяса 4, 39–474 и колофон"
+  file: "karnananda/ru/04.md"
+  period: P15
+  order: 102.5
+  title: "Наставления Рамачандры Виру Хамбиру: служение вайшнавам и Туласи, 64 части бхакти, рагануга, «Шикшаштака», манджари-бхава, паракия, Вриндаван, Радха, вечная лила"
+  summary: "Рамачандра учит царя: служение вайшнавам выше служения Божеству, 26 качеств вайшнава, девять видов служения Туласи, 64 части бхакти и пять главных; рагануга-бхакти, величие имени (на примере Радхи и Гауры), «Шикшаштака» Махапрабху и Его бхава в Пури (Антья 17–18), служение в сиддха-дехе по Рупе и Рагхунатхе (молитвы о служении манджари); паракия во Врадже, превосходство Вриндавана, Ямуны над Гангой, величие Шри Радхи как махабхавы; обеты Рагхунатхи Даса у Радха-кунды; «Гопала-чампу» Дживы внутренне учит паракии; вечная лила Враджа. Царь благодарит; заключение с поклоном Хемалате."
+  persons: ["@ramachandra-kaviraja", "@vira-hambira", "@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@krishnadasa-kaviraja", "@lokanatha", "@radha", "@krishna", "@hemalata", "@yadunandana-dasa-author"]
+  places: ["#vana-vishnupura", "#vrindavana", "#radha-kunda", "#puri"]
+  kind: teaching
+  authority: C
+  notes: "Почти целиком — переложение ЧЧ (Мадхья 8, 22; Антья 17–18, 20; Ади 4) и гимнов Рупы и Рагхунатхи Даса. Упоминания лил Махапрабху (Шикшаштака, курмакрити, водные игры в Пури) — пересказ ЧЧ."
+  themes: [teaching]
+  teaching: [bhakti-supremacy, prema, holy-name, vaishnava]
+  scriptures: ["Бхаг. 5.18.12", "Бхаг. 11.5.32", "Бхаг. 10.30.28", "Брахма-самхита 5.1, 5.37", "БРС 1.1.1, 1.2.270, 1.2.292, 1.2.295", "Шикшаштака", "Вилапа-кусуманджали 14–16", "Манах-шикша 3, 11", "Сва-нияма-дашака 1, 2, 6, 7, 9"]
+  divergence: "Утверждает, что «Гопала-чампу» Дживы внутренне учит паракии, а чтение её у Радха-кунды Рагхунатхой, Кришнадасом и Локанатхой — сюжет только «Карнананды»."
+  event: ev-ramachandra-instructs-vira-hambira
+  verses:
+    - {file: "karnananda/ru/04.md", from: "39", to: "474"}
