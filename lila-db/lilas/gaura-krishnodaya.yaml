@@ -1929,3 +1929,274 @@
   event: ev-prataparudra-asks-sarvabhauma
   verses:
     - {file: "gaura-krishnodaya/ru/10.md", from: "57", to: "62"}
+
+- id: gkd-0099
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 1–5"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 2
+  title: "Встреча у Алаланатхи; дом Каши Мишры; слуги Джаганнатхи"
+  summary: "Нитьянанда и преданные встречают Господа у Алаланатхи; Он поселяется в доме Каши Мишры, и слуги Джаганнатхи — Кришнадас с золотым жезлом, Джанардана, писцы Шикхи и Мурари и другие, представленные Сарвабхаумой, принимают у Него прибежище."
+  persons: ["@mahaprabhu", "@nityananda", "@kashi-mishra", "@sarvabhauma"]
+  places: ["#alalanatha", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [jagannatha, family]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "1", to: "5"}
+
+- id: gkd-0100
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 6–10"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 3
+  title: "Бхавананда Рай: «Ты — Панду»"
+  summary: "Бхавананда Рай с четырьмя сыновьями кланяется Господу; Господь называет его Панду, а пятеро сыновей — Пандавами; Бхавананда оставляет при Господе Ванинатху и возвращается домой."
+  persons: ["@mahaprabhu", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [mercy, family]
+  event: ev-bhavananda-raya-pandu
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "6", to: "10"}
+
+- id: gkd-0101
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 11–14"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 300
+  title: "Пратапарудра ищет милости Господа; совет Сарвабхаумы"
+  summary: "Гаджапати приходит в Пури, созерцает Джаганнатху и спрашивает Сарвабхауму, будет ли ему милость; тот отвечает, что Господь не видится с царями, и советует на Гундича-ятре, распевая «Кришна», обнять Его стопы."
+  persons: ["@prataparudra", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 11"
+  cc: "Мадхья 11"
+  themes: [mercy, jagannatha]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "11", to: "14"}
+
+- id: gkd-0102
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 15–18"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 8.5
+  title: "Рамананда Рай приходит в Пури"
+  summary: "С войском приходит Рамананда, встречается с царём, затем с Господом в доме Каши Мишры, падает ниц; Господь обнимает его, и он поселяется рядом."
+  persons: ["@ramananda-raya", "@prataparudra", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 11"
+  cc: "Мадхья 11"
+  themes: [mercy]
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "15", to: "18"}
+
+- id: gkd-0103
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 19"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 5
+  title: "Весть в Гауду о возвращении Господа"
+  summary: "Господь посылает Кришнадаса к преданным Гауды, и Адвайта с другими радуются."
+  persons: ["@mahaprabhu", "@kala-krishnadasa", "@advaita", "@nityananda"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [family]
+  event: ev-messenger-to-gauda-after-south
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "19", to: "19"}
+
+- id: gkd-0104
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 20"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 9
+  title: "Говинда, слуга Ишвары Пури"
+  summary: "После ухода Ишвары Пури его слуга Говинда приходит к Господу, и Господь из уважения к слову гуру оставляет его при Себе."
+  persons: ["@mahaprabhu", "@govinda-servant", "@ishvara-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [family]
+  event: ev-govinda-ishvara-puri-servant
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "20", to: "20"}
+
+- id: gkd-0105
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 21–27"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 9.8
+  title: "Чандана-ятра и летние праздники"
+  summary: "С акшая-тритьи Господь участвует в водных играх Божества на озере и пляшет перед процессией, видит служение с опахалом, помазание и свадьбу Рукмини; описание палящего лета, когда Джаганнатха желает омовения."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri", "#narendra-sarovara"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ (упоминания)"
+  themes: [festival, jagannatha]
+  divergence: "Подробности обрядов — только у Говинды-девы."
+  event: ev-chandana-yatra-summer
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "21", to: "27"}
+
+- id: gkd-0106
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 28–29"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 9.5
+  title: "Приход Парамананды Пури, Сварупы Дамодары и других"
+  summary: "Перед Снана-ятрой приходят Парамананда Пури с Камаланандой, Сварупа Дамодара, Брахмананда Бхарати, Бхагаван и Рамабхадра Ачарьи; Господь почитает их."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@svarupa-damodara", "@brahmananda-bharati"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [family]
+  divergence: "По ЧЧ — до прихода бенгальцев и ранее Снана-ятры; Парамананда «послан Шачи»."
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "28", to: "29"}
+
+- id: gkd-0107
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 30–34"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 60
+  title: "Снана-ятра; Господь пляшет перед Джаганнатхой в облике слона; анавасара"
+  summary: "Рамананда и Сарвабхаума ходатайствуют за царя; царь видит омовение Дару-брахмана из ста кувшинов; Господь в киртане пляшет перед Джаганнатхой в хати-веше; когда Божества скрываются на время анавасары, Господь уходит к Алаланатхе."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 11"
+  cc: "Мадхья 11"
+  calendar: "джьяиштха-пурнима"
+  themes: [festival, jagannatha, kirtan]
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "30", to: "34"}
+
+- id: gkd-0108
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 35–41"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 20
+  title: "Бенгальские преданные приходят в Пури; царь смотрит с крыши"
+  summary: "Сарвабхаума просит у царя жилищ для бенгальцев; царь с Гопинатхой поднимается на крышу, и тот называет ему Адвайту, Харидаса, Гангадаса, Вакрешвару и других; преданные, не заходя в храм, падают к ногам Господа; Он принимает их и поёт с ними киртан."
+  persons: ["@prataparudra", "@gopinatha-acharya", "@sarvabhauma", "@advaita", "@haridasa-thakura", "@gangadasa-pandita", "@vakreshvara", "@govinda-servant", "@damodara-pandita", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 11"
+  cc: "Мадхья 11"
+  themes: [kirtan, family]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "35", to: "41"}
+
+- id: gkd-0109
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 41–43"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 64
+  title: "Господь обнимает сына Пратапарудры"
+  summary: "Царь посылает Сарвабхауму умолить Господа; Сарвабхаума с Нитьянандой и Раманандой приводят царского сына, тёмного юношу; Господь, вспомнив Кришну, обнимает его и с тех пор ласков к нему."
+  persons: ["@mahaprabhu", "@prataparudra", "@sarvabhauma", "@nityananda", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 12"
+  cc: "Мадхья 12"
+  themes: [mercy, ecstasy]
+  bhava: [krishna]
+  event: ev-prataparudra-son-embraced
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "41", to: "43"}
+
+- id: gkd-0110
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 44–47"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 65
+  title: "Нетротсава и уборка Гундичи"
+  summary: "По окончании анавасары — «праздник глаз»; колесницы снаряжены; Господь с преданными метёт и моет храм Гундичи, выбрасывает сор, играет в озере Индрадьюмны и вкушает прасад."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 12"
+  cc: "Мадхья 12"
+  themes: [jagannatha, festival]
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "44", to: "47"}
+
+- id: gkd-0111
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 48–59"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 70
+  title: "Ратха-ятра: царь метёт колесницы; тандава Господа"
+  summary: "Джаганнатху, Балараму и Субхадру поднимают на колесницы; царь метёт их и окропляет сандаловой водой; Господь с семью группами киртана пляшет великую тандаву с экстатическими признаками; колесница стоит, пока Он лежит на земле; царь падает к Его стопам, Господь обнимает его в экстазе, а очнувшись, укоряет Себя; у брахманского селения Джаганнатхе подносят угощения."
+  persons: ["@mahaprabhu", "@prataparudra", "@jagannatha-deity", "@balarama", "@subhadra"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 13–14"
+  cc: "Мадхья 13"
+  themes: [festival, jagannatha, ecstasy, kirtan]
+  divergence: "Объятие царя у колесницы (у Говинды-девы — в экстазе, по ЧЧ царь подхватил падающего Господа)."
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "48", to: "59"}
+
+- id: gkd-0112
+  source: gaura-krishnodaya
+  ref: "Сарга 11, 60–62"
+  file: "gaura-krishnodaya/ru/11.md"
+  period: P12
+  order: 300
+  title: "Пратапарудра читает «Гопи-гиту» и обретает объятие Господа"
+  summary: "В тенистом саду, после прасада, переодетый царь припадает к стопам Господа и читает стихи гопи в разлуке; Господь, восклицая «Читай ещё!», обнимает его."
+  persons: ["@mahaprabhu", "@prataparudra", "@vaninatha-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 14"
+  cc: "Мадхья 14"
+  themes: [mercy, ecstasy]
+  bhava: [radha]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "gaura-krishnodaya/ru/11.md", from: "60", to: "62"}
