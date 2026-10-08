@@ -2243,6 +2243,7 @@
 ## Нитьянанда ломает посох Господа / Nityananda breaks the Lord's staff  `ev-danda-broken` (1510–1510, возраст 24–24, оценка)
 
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан) — [**Ганга.** Затем, придя в деревню под на–**Ганга.** Затем, придя в деревню под на](../chaitanya-chandrodaya/ru/06.md?plain=1#L200-L200) · `ccd-0046`
+- gaura-krishnodaya (B): Сарга 8, 3–7 — [3–7](../gaura-krishnodaya/ru/08.md?plain=1#L11-L19) · `gkd-0069`
 - karnapura-ckm (A): Сарга 11, 80–81 — [80–81](../karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811) · `kcm-0109`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 116–149 — [116–149](../lochana/ru/43.md?plain=1#L114-L213) · `lcm-0200`
 - murari-kcc (A): Пракрама 3, сарга 5, шлоки 10–21 — [10–21](../murari-gupta/ru/3.05.md?plain=1#L23-L45) · `mkc-0151`
@@ -2278,6 +2279,7 @@
 
 ## Экамра (Бхуванешвара): Господь чтит Шиву / Ekamra (Bhubaneshvara): the Lord honours Shiva  `ev-ekamra-bhubaneshvara` (1510–1510, возраст 24–24, оценка)
 
+- gaura-krishnodaya (B): Сарга 8, 1–2 — [1–2](../gaura-krishnodaya/ru/08.md?plain=1#L7-L9) · `gkd-0068`
 - govinda-karcha (D): Часть 3, 468 — [468–468](../govinda-kadacha/ru/03.md?plain=1#L104-L104) · `gkr-0024`
 - jayananda-cm (C): Уткала-кханда: «Экамра-канана» (Ш. Митра) — [21:1–21:1](../jayananda/ru/06-manuscripts.md?plain=1#L583-L583) · `jcm-0069`
 - karnapura-ckm (A): Сарга 11, 82–84 — [82–84](../karnapura-mahakavya/ru/11.md?plain=1#L1834-L1880) · `kcm-0110`
@@ -2303,9 +2305,11 @@
 - advaita-prakasha (D): Гл. 15, 122–126 — [122. Там жил м–126. Затем Бха](../advaita-prakash/15.md?plain=1#L126-L130) · `apr-0088`
 - chaitanya-chandrodaya (A): Акт 6, Гопинатха Ачарья и Сарвабхаума, ст. 17–21 — [*(Входит Господь в глубоком самозабвении–**Гопинатха-ачарья.** Пойдём же следом з](../chaitanya-chandrodaya/ru/06.md?plain=1#L226-L436) · `ccd-0048`
 - chaitanya-chandrodaya (A): Акт 6, вечер у Господа — [*(Входит Господь, оцепеневший от блаженс–**Господь.** Хорошо, хорошо.](../chaitanya-chandrodaya/ru/06.md?plain=1#L468-L512) · `ccd-0050`
+- gaura-krishnodaya (B): Сарга 8, 8–16 — [8–16](../gaura-krishnodaya/ru/08.md?plain=1#L21-L39) · `gkd-0070`
 - karnapura-ckm (A): Сарга 12, 1–9 — [1–9](../karnapura-mahakavya/ru/12.md?plain=1#L29-L205) · `kcm-0113`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 147–160 (с 148+1–148+2, 153+1) — [147–160](../lochana/ru/45.md?plain=1#L112-L160) · `lcm-0209`
 - murari-kcc (A): Пракрама 3, сарга 11, шлоки 1–15 — [1–15](../murari-gupta/ru/3.11.md?plain=1#L5-L33) · `mkc-0163`
+- vaishnava-lilamrita (C): Гл. 4, 28–35 — [4.28–4.35](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L6-L13) · `vlm-0001`
 - padas (C): Мадхави Дас, ПК 2239 «কলহ করিয়া ছলা» — [1.1–1.5](../padas/ru/02.md?plain=1#L15-L34) · `pad-0027`
 - padas (C): Мадхави, ПК 2240 «নিত্যানন্দ সঙ্গতি মুকুন্দ গদাধরে» — [2.1–2.6](../padas/ru/02.md?plain=1#L62-L77) · `pad-0028`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 175–202 — [175–202](../lochana/ru/45.md?plain=1#L217-L298) · `lcm-0212`
@@ -2334,18 +2338,28 @@
 
 - lochana-cm (C): Мадхья-кханда, «Встреча с Сарвабхаумой», 168+1–168+4 — [168+1–168+4](../lochana/ru/45.md?plain=1#L187-L196) · `lcm-0211`
 
+## Встреча с Джаганнатхой Дасом, толкователем «Бхагаваты» / Meeting with Jagannatha Dasa, expounder of the Bhagavata  `ev-jagannatha-dasa-bhagavata-meeting` (1510–1510, возраст 24–24, оценка)
+
+- vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L14-L28) · `vlm-0002`
+
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
 
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 203–214 (с 204+1–204+2) — [203–214](../lochana/ru/45.md?plain=1#L301-L340) · `lcm-0213`
 - murari-kcc (A): Пракрама 3, сарга 12, шлоки 1–6 — [1–6](../murari-gupta/ru/3.12.md?plain=1#L5-L15) · `mkc-0166`
 
+## Гопинатха Ачарья доказывает Сарвабхауме божественность Господа / Gopinatha Acharya proves the Lord's divinity to Sarvabhauma  `ev-gopinatha-sarvabhauma-debate` (1510–1510, возраст 24–24, оценка)
+
+- gaura-krishnodaya (B): Сарга 8, 17–23 — [17–23](../gaura-krishnodaya/ru/08.md?plain=1#L41-L53) · `gkd-0071`
+
 ## Освобождение Сарвабхаумы / Deliverance of Sarvabhauma  `ev-sarvabhauma-deliverance` (1510–1510, возраст 24–24, оценка)
 
+- vaishnava-lilamrita (C): Гл. 4, 51–58 — [4.51–4.58](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L29-L36) · `vlm-0003`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 215–234 (с 223+1–223+4, 231+1–231+2) — [215–234](../lochana/ru/45.md?plain=1#L343-L418) · `lcm-0214`
 - murari-kcc (A): Пракрама 3, сарга 12, шлоки 7–11 — [7–11](../murari-gupta/ru/3.12.md?plain=1#L17-L25) · `mkc-0167`
 - advaita-prakasha (D): Гл. 15, 127–128 — [127. Через нес–128. Прежде Са](../advaita-prakash/15.md?plain=1#L131-L132) · `apr-0089`
 - bhaktamal (D): Приядас, кавитта 331; § 4.1 — [331–331](../vallabha/ru/04.md?plain=1#L43-L43) · `bkm-0009`
 - chaitanya-chandrodaya (A): Акт 6, утро: милость к Сарвабхауме, ст. 26–44 — [*(Все проводят часы в любезной беседе.)*–*Так заканчивается шестой акт «Шри Чайта](../chaitanya-chandrodaya/ru/06.md?plain=1#L514-L758) · `ccd-0051`
+- gaura-krishnodaya (B): Сарга 8, 24–41 — [24–41](../gaura-krishnodaya/ru/08.md?plain=1#L55-L91) · `gkd-0072`
 - karnapura-ckm (A): Сарга 12, 10–34 — [10–34](../karnapura-mahakavya/ru/12.md?plain=1#L226-L756) · `kcm-0114`
 - karnapura-ckm (A): Сарга 12, 59–77 — [59–77](../karnapura-mahakavya/ru/12.md?plain=1#L1304-L1696) · `kcm-0116`
 - karnapura-ckm (A): Сарга 12, 78–93 — [78–93](../karnapura-mahakavya/ru/12.md?plain=1#L1717-L2047) · `kcm-0117`
@@ -2354,15 +2368,21 @@
 - vaishnava-vandana (B): Девакинандана, 104 — [104–104](../vaishnava-vandana/ru/02.md?plain=1#L355-L355) · `vv-0053`
 - gaura-stotras (A): Рупа, Третья «Чайтаньяштака» 2 — [2–2](../stotras/ru/06.md?plain=1#L7-L7) · `gst-0025`
 - padas (C): Васу Гхош, ГПТ1 с. 402 (№ 2) «অচৈতন্য শ্রীচৈতন্য সার্ব্বভৌম-ঘরে» — [11.1–11.8](../padas/ru/03.md?plain=1#L335-L356) · `pad-0052`
+- gaura-krishnodaya (B): Сарга 8, 55–56 — [55–56](../gaura-krishnodaya/ru/08.md?plain=1#L121-L123) · `gkd-0074`
 
 ## Имя «Кришна» в стихе Сарвабхаумы: Господь возвращается в Пури / The name «Krishna» in Sarvabhauma's verse: the Lord returns to Puri  `ev-sarvabhauma-verse-lord-returns` (1510–1510, возраст 24–24, оценка)
 
 - karnapura-ckm (A): Сарга 12, 35–58 — [35–58](../karnapura-mahakavya/ru/12.md?plain=1#L778-L1283) · `kcm-0115`
 
+## Первые праздники в Пури: Дола-ятра и Рама-навами / The first festivals in Puri: Dola-yatra and Rama-navami  `ev-first-year-festivals-puri` (1510–1510, возраст 24–24, )
+
+- gaura-krishnodaya (B): Сарга 8, 42–54 — [42–54](../gaura-krishnodaya/ru/08.md?plain=1#L93-L119) · `gkd-0073`
+
 ## Господь отправляется на юг: прощание с Джаганнатхой и преданными Пури / The Lord sets out for the South: farewell to Jagannatha and the devotees of Puri  `ev-departure-for-south` (1510–1512, возраст 24–26, оценка)
 
 - karnapura-ckm (A): Сарга 12, 94–99 — [94–99](../karnapura-mahakavya/ru/12.md?plain=1#L2070-L2179) · `kcm-0118`
 - chaitanya-chandrodaya (A): Акт 7, Пратапарудра и Сарвабхаума, ст. 1–2 — [*(Входит Сарвабхаума.)*–**Бхаттачарья.** Сила Господа сама себя ](../chaitanya-chandrodaya/ru/07.md?plain=1#L5-L67) · `ccd-0052`
+- gaura-krishnodaya (B): Сарга 8, 57–61 — [57–61](../gaura-krishnodaya/ru/08.md?plain=1#L125-L133) · `gkd-0075`
 - govinda-karcha (D): Часть 3, 511–525 — [511–525](../govinda-kadacha/ru/03.md?plain=1#L240-L284) · `gkr-0030`
 - murari-kcc (A): Пракрама 3, сарга 13, шлоки 1–13 — [1–13](../murari-gupta/ru/3.13.md?plain=1#L5-L29) · `mkc-0169`
 - murari-kcc (A): Пракрама 3, сарга 13, шлоки 14–23; сарга 14, шлока 1 — [14–23](../murari-gupta/ru/3.13.md?plain=1#L31-L49); [1–1](../murari-gupta/ru/3.14.md?plain=1#L5-L5) · `mkc-0170`
@@ -2376,6 +2396,7 @@
 
 - karnapura-ckm (A): Сарга 12, 100–117 — [100–117](../karnapura-mahakavya/ru/12.md?plain=1#L2202-L2575) · `kcm-0119`
 - chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 3 — [**Привратник** *(входя)*. Бхаттачарья! Б–**Сарвабхаума.** А дальше, дальше?](../chaitanya-chandrodaya/ru/07.md?plain=1#L69-L104) · `ccd-0053`
+- gaura-krishnodaya (B): Сарга 9, 3–12 — [3–12](../gaura-krishnodaya/ru/09.md?plain=1#L11-L29) · `gkd-0077`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 1–14 — [1–14](../lochana/ru/46.md?plain=1#L11-L50) · `lcm-0217`
 - murari-kcc (A): Пракрама 3, сарга 14, шлоки 13–20 — [13–20](../murari-gupta/ru/3.14.md?plain=1#L29-L43) · `mkc-0172`
 
@@ -2383,6 +2404,7 @@
 
 - karnapura-ckm (A): Сарга 12, 118–121 — [118–121](../karnapura-mahakavya/ru/12.md?plain=1#L2596-L2665) · `kcm-0120`
 - chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 4–6 — [**Брахман.** А потом он, чья сила непост–**Сарвабхаума.** Ты говоришь истинно. Та](../chaitanya-chandrodaya/ru/07.md?plain=1#L106-L121) · `ccd-0054`
+- gaura-krishnodaya (B): Сарга 9, 13 — [13–13](../gaura-krishnodaya/ru/09.md?plain=1#L31-L31) · `gkd-0078`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 15–71 (с 22+1–22+2, 23+1–23+3, 41+1–41+2, 42+1–42+2, 59+1–59+5, 71+1–71+4) — [15–71+4](../lochana/ru/46.md?plain=1#L53-L275) · `lcm-0218`
 - murari-kcc (A): Пракрама 3, сарга 14, шлоки 21–28 — [21–28](../murari-gupta/ru/3.14.md?plain=1#L45-L59) · `mkc-0173`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 72–81 (с 72+1–72+12, 77+1) — [72–81](../lochana/ru/46.md?plain=1#L278-L344) · `lcm-0219`
@@ -2391,6 +2413,7 @@
 ## Жители и пандиты Юга становятся вайшнавами при виде Господа / The people and pandits of the South become Vaishnavas on seeing the Lord  `ev-south-conversions` (1510–1512, возраст 24–26, оценка)
 
 - chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 19–20 — [*(Царь даёт им награду. Брахманы почтите–**Царь.** Министр, расскажи.](../chaitanya-chandrodaya/ru/07.md?plain=1#L245-L293) · `ccd-0056`
+- gaura-krishnodaya (B): Сарга 9, 1–2 — [1–2](../gaura-krishnodaya/ru/09.md?plain=1#L7-L9) · `gkd-0076`
 - govinda-karcha (D): Часть 4, 761–777 — [761–777](../govinda-kadacha/ru/04.md?plain=1#L334-L384) · `gkr-0040`
 - govinda-karcha (D): Часть 8, 1626–1655 — [1626–1655](../govinda-kadacha/ru/08.md?plain=1#L217-L308) · `gkr-0073`
 - govinda-karcha (D): Часть 8, 1752–1770, 1775 — часть 9, 1790 — [1752–1770](../govinda-kadacha/ru/08.md?plain=1#L617-L675); [1775–1779](../govinda-kadacha/ru/08.md?plain=1#L690-L702); [1780–1790](../govinda-kadacha/ru/09.md?plain=1#L7-L37) · `gkr-0079`
@@ -2400,9 +2423,11 @@
 - karnapura-ckm (A): Сарга 12, 130–134 — [130–134](../karnapura-mahakavya/ru/12.md?plain=1#L2867-L2957) · `kcm-0122`
 - advaita-prakasha (D): Гл. 15, 129–131 — [129. Затем Гау–131. Там говор](../advaita-prakash/15.md?plain=1#L133-L135) · `apr-0090`
 - chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 7–18 — [**Брахман.** Затем он пришёл на берег Го–**Брахман.** Как прикажешь.](../chaitanya-chandrodaya/ru/07.md?plain=1#L123-L243) · `ccd-0055`
+- gaura-krishnodaya (B): Сарга 9, 14–39 — [14–39](../gaura-krishnodaya/ru/09.md?plain=1#L33-L87) · `gkd-0079`
 - govinda-karcha (D): Часть 3, 530–564 — [530–564](../govinda-kadacha/ru/03.md?plain=1#L301-L408) · `gkr-0032`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 82–114 (с 85+1–85+2, 104+1–104+2, 112+1–112+4, 113+1–113+4) — [82–114](../lochana/ru/46.md?plain=1#L349-L481) · `lcm-0220`
 - murari-kcc (A): Пракрама 3, сарга 15, шлоки 1–5 — [1–5](../murari-gupta/ru/3.15.md?plain=1#L5-L13) · `mkc-0175`
+- vaishnava-lilamrita (C): Гл. 4, 59–81 — [4.59–4.81](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L37-L59) · `vlm-0004`
 - vaishnava-vandana (B): Вандана Дживы, 78–79 — [78–79](../vaishnava-vandana/ru/01.md?plain=1#L175-L177) · `vv-0015`
 - vaishnava-vandana (B): Девакинандана, 67 — [67–67](../vaishnava-vandana/ru/02.md?plain=1#L234-L234) · `vv-0044`
 - padas (C): Кану Дас, ГПТ1 с. 454–455 (№ 9) «বিদ্যানগরাধিপ অপার সম্পদশালী» — [28.1–28.4](../padas/ru/14.md?plain=1#L755-L764) · `pad-0313`
@@ -2429,6 +2454,7 @@
 ## Брахман, повторявший имя Рамы, начинает повторять имя Кришны / The brahmana who chanted Rama begins to chant Krishna  `ev-rama-name-to-krishna-name` (1510–1512, возраст 24–26, оценка)
 
 - chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 22–25 — [**Малла-бхатта.** На другой день он случ–так что имя Кришны выше имени Рамы.](../chaitanya-chandrodaya/ru/07.md?plain=1#L302-L323) · `ccd-0058`
+- gaura-krishnodaya (B): Сарга 9, 40–45 — [40–45](../gaura-krishnodaya/ru/09.md?plain=1#L89-L99) · `gkd-0080`
 
 ## Разбойник Пантха Бхил становится садху / The robber Pantha Bhil becomes a sadhu  `ev-pantha-bhil` (1510–1512, возраст 24–26, оценка)
 
@@ -2494,20 +2520,29 @@
 ## Брахман, читающий Гиту со слезами любви / The brahmana who reads the Gita with tears of love  `ev-gita-reading-brahmana` (1510–1512, возраст 24–26, оценка)
 
 - chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты — [**Малла-бхатта.** Это верно. Мы тоже при–**Сарвабхаума.** Так оно и есть.](../chaitanya-chandrodaya/ru/07.md?plain=1#L325-L331) · `ccd-0059`
+- gaura-krishnodaya (B): Сарга 10, 1–6 — [1–6](../gaura-krishnodaya/ru/10.md?plain=1#L7-L17) · `gkd-0084`
 - govinda-karcha (D): Часть 5, 1077 — часть 6, 1099 — [1077–1097](../govinda-kadacha/ru/05.md?plain=1#L640-L702); [1098–1099](../govinda-kadacha/ru/06.md?plain=1#L7-L10) · `gkr-0054`
 - murari-kcc (A): Пракрама 3, сарга 15, шлоки 7–8 — [7–8](../murari-gupta/ru/3.15.md?plain=1#L17-L19) · `mkc-0177`
 
 ## Спор с буддистами на юге / Debate with the Buddhists in the South  `ev-debate-buddhists` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 9, 46–51 — [46–51](../gaura-krishnodaya/ru/09.md?plain=1#L101-L113) · `gkd-0081`
 - govinda-karcha (D): Часть 3, 565–580 — [565–580](../govinda-kadacha/ru/03.md?plain=1#L411-L458) · `gkr-0033`
 
 ## Нечистая пища под видом прасада: птица уносит её с руки Господа / Impure food offered as prasada: a bird snatches it from the Lord's hand  `ev-bird-snatches-impure-food` (1510–1512, возраст 24–26, оценка)
 
 - chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 21 — [**Малла-бхатта.** Однажды Господь шёл, п–> и его-то здесь вздумали морочить эти н](../chaitanya-chandrodaya/ru/07.md?plain=1#L295-L300) · `ccd-0057`
 
+## Госамаджа: Шива Амрита-линга обнимает Господа; шиваиты становятся вайшнавами / Gosamaja: Shiva Amrita-linga embraces the Lord; Shaivas become Vaishnavas  `ev-amrita-linga-gosamaja` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (C): Сарга 9, 52–55 — [52–55](../gaura-krishnodaya/ru/09.md?plain=1#L115-L121) · `gkd-0082`
+
 ## Шрирангам: чатурмасья у Бхатт / Srirangam: the chaturmasya with the Bhattas  `ev-srirangam-chaturmasya` (1510–1510, возраст 24–24, вероятно)
 
 - bhakti-ratnakara (B): Таранга 1, 80–98 — [80–98](../bhakti-ratnakara/ru/01.md?plain=1#L238-L293) · `brt-0002`
+- gaura-krishnodaya (B): Сарга 9, 56–57 — [56–57](../gaura-krishnodaya/ru/09.md?plain=1#L123-L125) · `gkd-0083`
+- gaura-krishnodaya (B): Сарга 10, 7–12 — [7–12](../gaura-krishnodaya/ru/10.md?plain=1#L19-L29) · `gkd-0085`
+- karnananda (C): Нирьяса 5, 83–140 — [83–140](../karnananda/ru/05.md?plain=1#L252-L423) · `krn-0026`
 - karnapura-ckm (A): Сарга 13, 1–8 — [1–8](../karnapura-mahakavya/ru/13.md?plain=1#L47-L201) · `kcm-0123`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 124–133 (с 132+1–132+5) — [124–133](../lochana/ru/47.md?plain=1#L34-L76) · `lcm-0222`
 - murari-kcc (A): Пракрама 3, сарга 15, шлоки 9–18 — [9–18](../murari-gupta/ru/3.15.md?plain=1#L21-L39) · `mkc-0178`
@@ -2521,6 +2556,7 @@
 
 ## Встреча с Парамананда Пури / Meeting with Paramananda Puri  `ev-paramananda-puri-meeting` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 12–13 — [12–13](../gaura-krishnodaya/ru/10.md?plain=1#L29-L31) · `gkd-0086`
 - govinda-karcha (D): Часть 6, 1100–1102 — [1100–1102](../govinda-kadacha/ru/06.md?plain=1#L13-L19) · `gkr-0055`
 - karnapura-ckm (A): Сарга 13, 14–16 — [14–16](../karnapura-mahakavya/ru/13.md?plain=1#L337-L383) · `kcm-0125`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 134–144 (с 142+1–142+4) — [134–144](../lochana/ru/47.md?plain=1#L79-L121) · `lcm-0223`
@@ -2528,16 +2564,19 @@
 
 ## Избавление семи пальм / Deliverance of the seven palm trees  `ev-saptatala-deliverance` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 49–52 — [49–52](../gaura-krishnodaya/ru/10.md?plain=1#L109-L115) · `gkd-0095`
 - karnapura-ckm (A): Сарга 13, 17–19 — [17–19](../karnapura-mahakavya/ru/13.md?plain=1#L406-L450) · `kcm-0126`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 1–4 (с 4+1–4+2) — [1–4+2](../lochana/ru/47.md?plain=1#L130-L145) · `lcm-0224`
 - murari-kcc (A): Пракрама 3, сарга 16, шлоки 1–2 — [1–2](../murari-gupta/ru/3.16.md?plain=1#L5-L7) · `mkc-0180`
 
 ## Брахман-почитатель Рамы и призрачная Сита («Курма-пурана») / The devotee of Rama and the illusory Sita (Kurma Purana)  `ev-maya-sita-kurma-purana` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 14–20, 22–24 — [14–20](../gaura-krishnodaya/ru/10.md?plain=1#L33-L47); [22–24](../gaura-krishnodaya/ru/10.md?plain=1#L51-L55) · `gkd-0087`
 - karnapura-ckm (A): Сарга 13, 9–13 — [9–13](../karnapura-mahakavya/ru/13.md?plain=1#L224-L314) · `kcm-0124`
 
 ## Сетубандха: Рамешвара / Setubandha: Rameshvara  `ev-setubandha-rameshvara` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 21–22 — [21–22](../gaura-krishnodaya/ru/10.md?plain=1#L49-L51) · `gkd-0088`
 - govinda-karcha (D): Часть 6, 1103–1131 — [1103–1131](../govinda-kadacha/ru/06.md?plain=1#L22-L112) · `gkr-0056`
 - karnapura-ckm (A): Сарга 13, 31–33 — [31–33](../karnapura-mahakavya/ru/13.md?plain=1#L715-L759) · `kcm-0128`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 5–11 — [5–11](../lochana/ru/47.md?plain=1#L148-L166) · `lcm-0225`
@@ -2553,6 +2592,7 @@
 
 ## Слуга Кришнадас и бхаттатхари / The servant Krishnadasa and the Bhattatharis  `ev-krishnadasa-bhattathari` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 24–26 — [24–26](../gaura-krishnodaya/ru/10.md?plain=1#L55-L59) · `gkd-0089`
 - karnapura-ckm (A): Сарга 13, 20–30 — [20–30](../karnapura-mahakavya/ru/13.md?plain=1#L473-L694) · `kcm-0127`
 
 ## Царь Рудрапати в Тривинку (Траванкоре) / King Rudrapati in Trivinku (Travancore)  `ev-rudrapati-travancore` (1510–1512, возраст 24–26, оценка)
@@ -2561,13 +2601,26 @@
 - govinda-karcha (D): Часть 6, 1211–1249 — [1211–1249](../govinda-kadacha/ru/06.md?plain=1#L366-L486) · `gkr-0060`
 - govinda-karcha (D): Часть 6, 1250–1259 — [1250–1259](../govinda-kadacha/ru/06.md?plain=1#L489-L518) · `gkr-0061`
 
+## Ади-Кешава: обретение «Брахма-самхиты» / Adi-Keshava: the finding of the Brahma-samhita  `ev-brahma-samhita-adikeshava` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 27–28 — [27–28](../gaura-krishnodaya/ru/10.md?plain=1#L61-L63) · `gkd-0090`
+
 ## Шрингери: спор с учениками Шанкары / Shringeri: debate with Shankara's disciples  `ev-shringeri-debate` (1510–1512, возраст 24–26, оценка)
 
+- gaura-krishnodaya (B): Сарга 10, 28–29 — [28–29](../gaura-krishnodaya/ru/10.md?plain=1#L63-L65) · `gkd-0091`
 - govinda-karcha (D): Часть 6, 1260–1270 — [1260–1270](../govinda-kadacha/ru/06.md?plain=1#L521-L553) · `gkr-0062`
+
+## Удупи: Господь пляшет перед Кришной Мадхвачарьи и беседует с таттвавади / Udupi: the Lord dances before Madhvacharya's Krishna and converses with the Tattvavadis  `ev-udupi-tattvavadis` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 30–45 — [30–45](../gaura-krishnodaya/ru/10.md?plain=1#L67-L99) · `gkd-0092`
 
 ## Чандапур: гордый санньяси Ишвара Бхарати получает имя Кришнадас / Chandapur: the proud sannyasi Ishvara Bharati receives the name Krishnadasa  `ev-ishvara-bharati-chandapur` (1510–1512, возраст 24–26, оценка)
 
 - govinda-karcha (D): Часть 6, 1271–1329 — [1271–1329](../govinda-kadacha/ru/06.md?plain=1#L556-L740) · `gkr-0063`
+
+## Пандарпур: встреча с Шри Ранга Пури; весть об уходе Вишварупы / Pandharpur: meeting Sri Ranga Puri; news of Vishvarupa's departure  `ev-ranga-puri-pandharpur` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 45–48 — [45–48](../gaura-krishnodaya/ru/10.md?plain=1#L99-L105) · `gkd-0093`
 
 ## Бедный брахман и его Гопал; песнь маха-мантры / The poor brahmana and his Gopala; the song of the maha-mantra  `ev-poor-brahmana-gopala` (1510–1512, возраст 24–26, оценка)
 
@@ -2576,6 +2629,10 @@
 ## Гурджари: пандит Арджуна и учение о дживе и Атмане / Gurjari: Pandit Arjuna and the teaching on the jiva and the Atma  `ev-arjuna-pandit-gurjari` (1510–1512, возраст 24–26, оценка)
 
 - govinda-karcha (D): Часть 7, 1393–1441 — [1393–1441](../govinda-kadacha/ru/07.md?plain=1#L174-L328) · `gkr-0067`
+
+## Обретение «Кришна-карнамриты» на берегу Кришны / The finding of the Krishna-karnamrita on the bank of the Krishna  `ev-krishna-karnamrita-found` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 48–49 — [48–49](../gaura-krishnodaya/ru/10.md?plain=1#L105-L109) · `gkd-0094`
 
 ## Пуна: «Твой Кришна в пруду» — Господь бросается в воду / Pune: 'Your Krishna is in the pond' — the Lord leaps into the water  `ev-pune-krishna-in-pond` (1510–1512, возраст 24–26, оценка)
 
@@ -2643,6 +2700,10 @@
 
 - govinda-karcha (D): Часть 11, 2264–2289 — [2264–2289](../govinda-kadacha/ru/11.md?plain=1#L142-L223) · `gkr-0095`
 
+## Снова у Рамананды в Видьянагаре: «Брахма-самхита» и «Карнамрита» / Again with Ramananda in Vidyanagara: the Brahma-samhita and Karnamrita  `ev-return-visit-ramananda` (1510–1512, возраст 24–26, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 53–55 — [53–55](../gaura-krishnodaya/ru/10.md?plain=1#L117-L121) · `gkd-0096`
+
 ## Расалкунда: марварский брахман с палкой и его сын / Rasalkunda: the Marwari brahmana with a stick, and his son  `ev-marwari-brahmana-son` (1510–1512, возраст 24–26, оценка)
 
 - govinda-karcha (D): Часть 11, 2326–2369 — [2326–2369](../govinda-kadacha/ru/11.md?plain=1#L340-L477) · `gkr-0099`
@@ -2654,10 +2715,15 @@
 - advaita-prakasha (D): Гл. 15, 132 — [132. Затем Гау–132. Затем Гау](../advaita-prakash/15.md?plain=1#L136-L136) · `apr-0091`
 - chaitanya-chandrodaya (A): Акт 7, возвращение Господа, ст. 26 — [**Царь** *(с тоской)*. Ах, когда же я см–*Так заканчивается седьмой акт «Шри Чайт](../chaitanya-chandrodaya/ru/07.md?plain=1#L333-L376) · `ccd-0060`
 - chaitanya-chandrodaya (A): Акт 8, возвращение с юга — [*(Входит Шри Кришна Чайтанья, сопровожда–**Сарвабхаума.** Он лишь вошёл в твоё со](../chaitanya-chandrodaya/ru/08.md?plain=1#L5-L13) · `ccd-0061`
+- gaura-krishnodaya (B): Сарга 10, 56 — [56–56](../gaura-krishnodaya/ru/10.md?plain=1#L123-L123) · `gkd-0097`
 - govinda-karcha (D): Часть 11, 2370–2402 — [2370–2402](../govinda-kadacha/ru/11.md?plain=1#L480-L582) · `gkr-0100`
 - lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 12–17 — [12–17](../lochana/ru/47.md?plain=1#L169-L184) · `lcm-0226`
 - murari-kcc (A): Пракрама 3, сарга 16, шлоки 12–18 — [12–18](../murari-gupta/ru/3.16.md?plain=1#L27-L39) · `mkc-0183`
 - govinda-karcha (D): Часть 11, 2403–2426 — [2403–2426](../govinda-kadacha/ru/11.md?plain=1#L585-L658) · `gkr-0101`
+
+## Пратапарудра расспрашивает Сарвабхауму о Господе; дом Каши Мишры / Prataparudra questions Sarvabhauma about the Lord; the house of Kashi Mishra  `ev-prataparudra-asks-sarvabhauma` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 10, 57–62 — [57–62](../gaura-krishnodaya/ru/10.md?plain=1#L125-L135) · `gkd-0098`
 
 ## Господь поселяется в доме Каши Мишры; слуги Джаганнатхи / The Lord settles in Kashi Mishra's house; the servants of Jagannatha  `ev-kashi-mishra-residence` (1512–1514, возраст 26–28, оценка)
 
@@ -3458,6 +3524,10 @@
 - prema-vilasa (C): Виласа 4, 294–315 — [294–315](../prema-vilasa/ru/04.md?plain=1#L884-L947) · `pvl-0026`
 - advaita-prakasha (D): Гл. 20, 129–146 — [129. Затем веч–146. Уповая на](../advaita-prakash/20.md?plain=1#L133-L150) · `apr-0141`
 
+## Гопала Бхатта приходит во Вриндаван и живёт с Рупой и Санатаной / Gopala Bhatta comes to Vrindavana and lives with Rupa and Sanatana  `ev-gopala-bhatta-comes-vrindavana` (1516–1533, возраст 30–47, оценка)
+
+- karnananda (C): Нирьяса 5, 141–188 и колофон — [141–188](../karnananda/ru/05.md?plain=1#L426-L570) · `krn-0027`
+
 ## Махапрабху и Джаганнатха предназначают прему будущему Шринивасу / Mahaprabhu and Jagannatha destine prema for the future Srinivasa  `ev-prema-for-srinivasa` (1516–1533, возраст 30–47, оценка)
 
 - bhakti-ratnakara (B): Таранга 2, 61–140 — [61–140](../bhakti-ratnakara/ru/02.md?plain=1#L185-L422) · `brt-0046`
@@ -3612,6 +3682,7 @@
 
 - karnapura-ckm (A): Сарга 1, 13–29 — [13–29](../karnapura-mahakavya/ru/01.md?plain=1#L290-L650) · `kcm-0003`
 - gaura-stotras (A): Рагхунатха, «Прартханашрая-чатурдашака» 4 — [5–5](../stotras/ru/03.md?plain=1#L23-L23) · `gst-0017`
+- bhakti-ratnakara (B): Таранга 3, 213–221 — [213–221](../bhakti-ratnakara/ru/03.md?plain=1#L645-L669) · `brt-0072`
 
 ## Джива в Навадвипе: встреча с Нитьянандой в доме Шриваса / Jiva in Navadvipa: meeting Nityananda in Srivasa's house  `ev-jiva-meets-nityananda-navadvipa` (1533–1534, возраст 47–48, оценка)
 
@@ -3766,14 +3837,36 @@
 ## Смерть Чайтаньи Даса; Шринивас с матерью переселяется в Яджиграм / Death of Chaitanya Dasa; Srinivasa and his mother move to Yajigrama  `ev-srinivasa-father-death-yajigrama` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 45–74 — [45–74](../prema-vilasa/ru/04.md?plain=1#L137-L224) · `pvl-0017`
+- bhakti-ratnakara (B): Таранга 3, 13–25 — [13–25](../bhakti-ratnakara/ru/03.md?plain=1#L41-L77) · `brt-0065`
+
+## Шриниваса отправляется в Нилачалу; Нарахари в Кханде рассказывает о загадке Адвайты / Srinivasa sets out for Nilachala; at Khanda Narahari tells of Advaita's riddle  `ev-srinivasa-sets-out-nilachala` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 3, 26–50 — [26–50](../bhakti-ratnakara/ru/03.md?plain=1#L80-L153) · `brt-0066`
+- bhakti-ratnakara (B): Таранга 3, 51–64 — [51–64](../bhakti-ratnakara/ru/03.md?plain=1#L156-L195) · `brt-0067`
 
 ## Шринивас в Шрикханде: Нарахари указывает ему гуру — Гопалу Бхатту / Srinivasa at Shrikhanda: Narahari names Gopala Bhatta as his guru  `ev-srinivasa-shrikhanda` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 75–113 — [75–113](../prema-vilasa/ru/04.md?plain=1#L227-L341) · `pvl-0018`
 
+## Шриниваса в пути слышит о сокрытии Господа; Гаура утешает его во сне и посылает в Нилачалу / On the road Srinivasa hears of the Lord's disappearance; Gaura consoles him in a dream and sends him to Nilachala  `ev-srinivasa-hears-disappearance-dream` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 3, 65–85 — [65–85](../bhakti-ratnakara/ru/03.md?plain=1#L198-L258) · `brt-0068`
+
 ## Шринивас у Гададхары Пандита в Пури / Srinivasa with Gadadhara Pandita in Puri  `ev-srinivasa-gadadhara-puri` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 114–147 — [114–147](../prema-vilasa/ru/04.md?plain=1#L344-L443) · `pvl-0019`
+- bhakti-ratnakara (B): Таранга 3, 86–121 — [86–121](../bhakti-ratnakara/ru/03.md?plain=1#L261-L366) · `brt-0069`
+- bhakti-ratnakara (B): Таранга 3, 122–154 — [122–154](../bhakti-ratnakara/ru/03.md?plain=1#L369-L465) · `brt-0070`
+- bhakti-ratnakara (B): Таранга 3, 155–212 — [155–212](../bhakti-ratnakara/ru/03.md?plain=1#L468-L639) · `brt-0071`
+- bhakti-ratnakara (B): Таранга 3, 222–228 — [222–228](../bhakti-ratnakara/ru/03.md?plain=1#L672-L690) · `brt-0073`
+- bhakti-ratnakara (B): Таранга 3, 229–260 — [229–260](../bhakti-ratnakara/ru/03.md?plain=1#L693-L786) · `brt-0074`
+- bhakti-ratnakara (B): Таранга 3, 261–295 — [261–295](../bhakti-ratnakara/ru/03.md?plain=1#L789-L891) · `brt-0075`
+
+## На обратном пути Шриниваса узнаёт об уходе Гададхары, Нитьянанды и Адвайты; Нитьянанда и Адвайта во сне велят ему идти во Вриндаван / On his way back Srinivasa learns of the departure of Gadadhara, Nityananda and Advaita; in a dream Nityananda and Advaita tell him to go to Vrindavana  `ev-srinivasa-dream-nitai-advaita` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 3, 296–322 — [296–322](../bhakti-ratnakara/ru/03.md?plain=1#L894-L972) · `brt-0076`
+- bhakti-ratnakara (B): Таранга 3, 323–361 — [323–361](../bhakti-ratnakara/ru/03.md?plain=1#L975-L1089) · `brt-0077`
+- bhakti-ratnakara (B): Таранга 3, 362–370 — [362–370](../bhakti-ratnakara/ru/03.md?plain=1#L1092-L1116) · `brt-0078`
 
 ## Милость Вишнуприи к Шринивасу в Навадвипе / Vishnupriya's mercy to Srinivasa in Navadvipa  `ev-srinivasa-vishnupriya-mercy` (1533–1534, возраст 47–48, оценка)
 
@@ -4028,6 +4121,7 @@
 
 ## Обращение брахманов Харирамы и Рамакришны у Падмавати / The conversion of the brahmanas Harirama and Ramakrishna at the Padmavati  `ev-harirama-ramakrishna-conversion` (1533–1534, возраст 47–48, оценка)
 
+- narottama-vilasa (B): Виласа 10, 1–69 — [1–69](../narottama-vilasa/ru/10.md?plain=1#L5-L209) · `nvl-0058`
 - prema-vilasa (C): Виласа 14, 340–395 — [340–395](../prema-vilasa/ru/14.md?plain=1#L1048-L1213) · `pvl-0102`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 471–472 (6.3, № 49) «জয় জয় হরিরাম আচার্য্যবর্য্য» = БР 15 (изд. 1912, с. 1061; изд. 1960, 15.117–120); ГЧЧ, кирана 1, пада 23 — [8.1–8.4](../padas/ru/26.md?plain=1#L230-L239) · `pad-0562`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 72) «জয় জয় রামকৃষ্ণ আচার্য্য» = БР 15 (изд. 1912, с. ≈1061–1062; изд. 1960, 15.124–127); ГЧЧ, кирана 1, пада 24 — [16.1–16.4](../padas/ru/26.md?plain=1#L537-L546) · `pad-0570`
@@ -4051,6 +4145,7 @@
 ## Путешествие Джахнавы во Вриндаван; встреча с Госвами / Jahnava's journey to Vrindavana; meeting with the Gosvamis  `ev-jahnava-vrindavana` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 8, 211–290 — [211–290](../narottama-vilasa/ru/08.md?plain=1#L637-L874) · `nvl-0050`
+- narottama-vilasa (B): Виласа 9, 1–60 — [1–60](../narottama-vilasa/ru/09.md?plain=1#L5-L182) · `nvl-0053`
 - nityananda-vamsha (C): Глава 4, 14–30 — [14–30](../nityananda-vamsha/ru/04.md?plain=1#L46-L96) · `nvv-0029`
 - nityananda-vamsha (C): Глава 5, 85–122 — [85–122](../nityananda-vamsha/ru/05.md?plain=1#L265-L378) · `nvv-0039`
 - prema-vilasa (C): Виласа 15, 38–59 — [38–59](../prema-vilasa/ru/15.md?plain=1#L116-L179) · `pvl-0104`
@@ -4064,6 +4159,7 @@
 
 ## Гопинатха во Вриндаване сажает Джахнаву по левую руку от Себя / Gopinatha of Vrindavana seats Jahnava at His left side  `ev-jahnava-gopinatha` (1533–1534, возраст 47–48, оценка)
 
+- narottama-vilasa (B): Виласа 9, 61–95 — [61–95](../narottama-vilasa/ru/09.md?plain=1#L185-L288) · `nvl-0054`
 - nityananda-vamsha (C): Глава 5, 123–147 — [123–147](../nityananda-vamsha/ru/05.md?plain=1#L381-L455) · `nvv-0040`
 - vaishnava-vandana (B): Вандана Дживы, 20–21 — [20–21](../vaishnava-vandana/ru/01.md?plain=1#L49-L51) · `vv-0003`
 
@@ -4071,6 +4167,10 @@
 
 - prema-vilasa (C): Виласа 16, 146–158 — [146–158](../prema-vilasa/ru/16.md?plain=1#L440-L476) · `pvl-0109`
 - prema-vilasa (C): Виласа 19, 859–864 — [859–864](../prema-vilasa/ru/19.md?plain=1#L2593-L2608) · `pvl-0168`
+
+## Возвращение Джахнавы из Вриндавана через Кхетури, Будхари, Катву, Яджиграм и Шрикханду; брак Бару Гангадаса / Jahnava returns from Vrindavana through Kheturi, Budhari, Katwa, Yajigrama and Shrikhanda; Baru Gangadasa's marriage  `ev-jahnava-returns-through-kheturi` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 9, 96–290 — [96–290](../narottama-vilasa/ru/09.md?plain=1#L291-L876) · `nvl-0055`
 
 ## Кончина матери Шринивасы / The passing of Srinivasa's mother  `ev-srinivasa-mother-departure` (1533–1534, возраст 47–48, оценка)
 
@@ -4104,6 +4204,7 @@
 ## Служение и бхаджан Нароттамы в Кхетури; дружба с Рамачандрой / Narottama's service and bhajana at Kheturi; his friendship with Ramachandra  `ev-narottama-bhajana-kheturi` (1533–1534, возраст 47–48, оценка)
 
 - bhakti-ratnakara (B): Таранга 1, 263–277 — [263–277](../bhakti-ratnakara/ru/01.md?plain=1#L789-L831) · `brt-0013`
+- narottama-vilasa (B): Виласа 9, 291–318 — [291–318](../narottama-vilasa/ru/09.md?plain=1#L879-L960) · `nvl-0056`
 - prema-vilasa (C): Виласа 17, 234–258 — [234–258](../prema-vilasa/ru/17.md?plain=1#L704-L776) · `pvl-0123`
 - prema-vilasa (C): Виласа 17, 259–309 — [259–309](../prema-vilasa/ru/17.md?plain=1#L779-L929) · `pvl-0124`
 - prema-vilasa (C): Виласа 19, 412–416 — [412–416](../prema-vilasa/ru/19.md?plain=1#L1240-L1252) · `pvl-0154`
@@ -4115,6 +4216,7 @@
 
 ## Обращение Ганганараяны Чакраварти и Харичандры Рая / The conversion of Ganganarayana Chakravarti and Harichandra Raya  `ev-ganganarayana-conversion` (1533–1534, возраст 47–48, оценка)
 
+- narottama-vilasa (B): Виласа 10, 70–154 — [70–154](../narottama-vilasa/ru/10.md?plain=1#L212-L468) · `nvl-0059`
 - prema-vilasa (C): Виласа 17, 310–367 — [310–367](../prema-vilasa/ru/17.md?plain=1#L932-L1109) · `pvl-0125`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 481 (6.3, № 71) «জয় জয় শ্রীগঙ্গানারায়ণ চক্রবর্ত্তী» = БР 15 (изд. 1912, с. ≈1062; изд. 1960, 15.131–134); ГЧЧ, кирана 1, пада 25 — [15.1–15.4](../padas/ru/26.md?plain=1#L511-L520) · `pad-0569`
 
@@ -4129,6 +4231,7 @@
 
 ## Нароттама избавляет Чанд Рая от брахма-дайтьи и посвящает его с братом и отцом / Narottama frees Chand Raya from a brahma-daitya and initiates him with his brother and father  `ev-chand-raya-deliverance` (1533–1534, возраст 47–48, оценка)
 
+- narottama-vilasa (B): Виласа 10, 269–323 — [269–323](../narottama-vilasa/ru/10.md?plain=1#L814-L976) · `nvl-0061`
 - prema-vilasa (C): Виласа 18, 152–210 — [152–210](../prema-vilasa/ru/18.md?plain=1#L458-L632) · `pvl-0137`
 - prema-vilasa (C): Виласа 18, 211–301 — [211–301](../prema-vilasa/ru/18.md?plain=1#L635-L905) · `pvl-0138`
 - prema-vilasa (C): Виласа 18, 302–372 — [302–372](../prema-vilasa/ru/18.md?plain=1#L908-L1118) · `pvl-0139`
@@ -4147,6 +4250,11 @@
 - prema-vilasa (C): Виласа 19, 1–55 — [1–55](../prema-vilasa/ru/19.md?plain=1#L5-L167) · `pvl-0142`
 - karnananda (C): Нирьяса 3, 274–432 — [274–432](../karnananda/ru/03.md?plain=1#L823-L1297) · `krn-0020`
 - karnananda (C): Нирьяса 3, 433–500 и колофон — [433–500](../karnananda/ru/03.md?plain=1#L1300-L1501) · `krn-0021`
+
+## Рамачандра Кавираджа наставляет Виру Хамбира в садхана- и рагануга-бхакти / Ramachandra Kaviraja instructs Vira Hambira in sadhana- and raganuga-bhakti  `ev-ramachandra-instructs-vira-hambira` (1533–1534, возраст 47–48, оценка)
+
+- karnananda (C): Нирьяса 4, 1–38 — [1–38](../karnananda/ru/04.md?plain=1#L5-L116) · `krn-0022`
+- karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
 
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 
@@ -4191,6 +4299,10 @@
 
 - prema-vilasa (C): Виласа 19, 508–534 — [508–534](../prema-vilasa/ru/19.md?plain=1#L1528-L1606) · `pvl-0159`
 
+## Брахман, счёвший Нароттаму шудрой, поражён проказой и исцелён его милостью / A brahmana who regarded Narottama as a shudra is struck with leprosy and healed by his mercy  `ev-leper-brahmana-narottama` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 9, 319–353 — [319–353](../narottama-vilasa/ru/09.md?plain=1#L963-L1065) · `nvl-0057`
+
 ## Нароттама спасает хулителей-брахманов: Гурудас Бхаттачарья, Джаганнатха Ачарья, воины Чанд Рая / Narottama delivers brahmana blasphemers: Gurudasa Bhattacharya, Jagannatha Acharya, Chand Raya's warriors  `ev-narottama-delivers-brahmanas` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 19, 535–571 — [535–571](../prema-vilasa/ru/19.md?plain=1#L1609-L1718) · `pvl-0160`
@@ -4204,12 +4316,18 @@
 
 ## Раджа Нарасимха Рай и пандиты, пришедшие спорить, принимают посвящение у Нароттамы / Raja Narasimha Raya and the pandits who came to debate take initiation from Narottama  `ev-narasimha-raya-conversion` (1533–1534, возраст 47–48, оценка)
 
+- narottama-vilasa (B): Виласа 10, 155–268 — [155–268](../narottama-vilasa/ru/10.md?plain=1#L471-L811) · `nvl-0060`
 - prema-vilasa (C): Виласа 19, 698–773 — [698–773](../prema-vilasa/ru/19.md?plain=1#L2099-L2325) · `pvl-0164`
 
 ## Нароттама являет священный шнур в сердце; речь Вирачандры о превосходстве вайшнава / Narottama reveals the sacred thread in his heart; Virachandra's speech on the superiority of the Vaishnava  `ev-narottama-sacred-thread` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 19, 784–829 — [784–829](../prema-vilasa/ru/19.md?plain=1#L2358-L2503) · `pvl-0166`
 - prema-vilasa (C): Виласа 19, 830–858 — [830–858](../prema-vilasa/ru/19.md?plain=1#L2506-L2590) · `pvl-0167`
+
+## Вирачандра у Шринивасы в Яджиграме и в Кхетури: санкиртана с его пляской, песня Говинды Кавираджи о Нитьянанде / Virachandra with Srinivasa at Yajigrama and in Kheturi: sankirtana with his dance, Govinda Kaviraja's song on Nityananda  `ev-virachandra-yajigrama-kheturi` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 11, 1–100 — [1–100](../narottama-vilasa/ru/11.md?plain=1#L5-L302) · `nvl-0062`
+- narottama-vilasa (B): Виласа 11, 101–196 — [101–196](../narottama-vilasa/ru/11.md?plain=1#L305-L595) · `nvl-0063`
 
 ## Странствия Вирачандры: Нилачала, Вриндаван, Экачакра / Virachandra's pilgrimages: Nilachala, Vrindavana, Ekachakra  `ev-virachandra-pilgrimage` (1533–1534, возраст 47–48, оценка)
 
@@ -4251,12 +4369,21 @@
 - nityananda-vamsha (C): Глава 10, 182–207 — [182–207](../nityananda-vamsha/ru/10.md?plain=1#L569-L650) · `nvv-0073`
 - nityananda-vamsha (C): Глава 10, 208–244 — [208–244](../nityananda-vamsha/ru/10.md?plain=1#L653-L763) · `nvv-0074`
 
+## Спор о «Гопала-чампу»: Вьяса Чакраварти о свакии; вопрос учеников Шринивасы Дживе / The dispute over the Gopala-champu: Vyasa Chakravarti on svakiya; Srinivasa's disciples question Jiva  `ev-gopala-champu-dispute` (1533–1534, возраст 47–48, оценка)
+
+- karnananda (C): Нирьяса 5, 1–53 — [1–53](../karnananda/ru/05.md?plain=1#L5-L160) · `krn-0024`
+
 ## Переписка Дживы Госвами со Шринивасом, Нароттамой, Рамачандрой и Говиндой / Jiva Gosvami's correspondence with Srinivasa, Narottama, Ramachandra and Govinda  `ev-jiva-srinivasa-letters` (1533–1534, возраст 47–48, оценка)
 
 - bhakti-ratnakara (B): Таранга 1, 438–460 — [438–460](../bhakti-ratnakara/ru/01.md?plain=1#L1331-L1417) · `brt-0024`
+- karnananda (C): Нирьяса 5, 54–82 — [54–82](../karnananda/ru/05.md?plain=1#L163-L249) · `krn-0025`
 - prema-vilasa (D): Полувиласа, письма 1–2 (6–32) — [6–32](../prema-vilasa/ru/25.md?plain=1#L26-L106) · `pvl-0201`
 - prema-vilasa (D): Полувиласа, письмо 3 (33–61) — [33–61](../prema-vilasa/ru/25.md?plain=1#L111-L195) · `pvl-0202`
 - prema-vilasa (D): Полувиласа, письма 4–6 (62–104) — [62–104](../prema-vilasa/ru/25.md?plain=1#L200-L330) · `pvl-0203`
+
+## Шриниваса уходит во Вриндаван, Рамачандра — за ним; оба скрываются; плач Нароттамы («Гауранера сахачара…») / Srinivasa goes to Vrindavana, Ramachandra follows; both pass from sight; Narottama's lament ('Gaurangera sahachara…')  `ev-srinivasa-ramachandra-disappearance` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 11, 197–225 — [197–225](../narottama-vilasa/ru/11.md?plain=1#L598-L705) · `nvl-0064`
 
 ## Шринивас с Нароттамой в Будхари; праздник в Боракули: установление Радха-Винода / Shrinivasa with Narottama at Budhari; the festival at Boraquli: the installation of Radha-Vinoda  `ev-boraquli-festival` (1533–1534, возраст 47–48, оценка)
 
@@ -4270,6 +4397,14 @@
 - karnananda (C): Нирьяса 1, 348–407 — [348–407](../karnananda/ru/01.md?plain=1#L1057-L1234) · `krn-0012`
 - karnananda (C): Нирьяса 2, 1–34 — [1–34](../karnananda/ru/02.md?plain=1#L5-L104) · `krn-0014`
 - karnananda (C): Нирьяса 2, 38–64 и колофон — [38–64](../karnananda/ru/02.md?plain=1#L116-L194) · `krn-0016`
+
+## Нароттама в Гамбхиле «для глаз людей» оставляет тело; на насмешки брахманов по молитве Ганганараяны встаёт с костра; брахманы-хулители становятся вайшнавами / At Gambhila Narottama leaves his body 'in the eyes of people'; at the brahmanas' mockery he rises from the pyre at Ganganarayana's prayer; the reviling brahmanas become Vaishnavas  `ev-narottama-pyre-gambhila` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 11, 226–319 — [226–319](../narottama-vilasa/ru/11.md?plain=1#L708-L987) · `nvl-0065`
+
+## Сокрытие Нароттамы: в Гамбхиле, в водах Ганги, растворяется, словно молоко; праздники в Гамбхиле и Кхетури, где он является в киртане / Narottama's disappearance: at Gambhila he dissolves like milk into the Ganga; festivals at Gambhila and Kheturi, where he appears in the kirtana  `ev-narottama-disappearance` (1533–1534, возраст 47–48, оценка)
+
+- narottama-vilasa (B): Виласа 11, 320–358 — [320–358](../narottama-vilasa/ru/11.md?plain=1#L990-L1104) · `nvl-0066`
 
 ## Сочинения Шри Дживы Госвами во Вриндаване / The writings of Sri Jiva Gosvami in Vrindavana  `ev-jiva-gosvami-writings` (1533–1534, возраст 47–48, оценка)
 
