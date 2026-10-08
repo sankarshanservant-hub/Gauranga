@@ -3243,6 +3243,55 @@
   "attestation": 2
  },
  {
+  "id": "gkd-0067",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 44–60",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P01",
+  "order": 1.7,
+  "title": "Рассказ о Сакши-гопале: два брахмана из Видьянагара",
+  "summary": "Нитьянанда рассказывает: старший брахман пообещал дочь младшему перед Гопалой во Вриндаване, затем отрёкся; Гопала пошёл свидетелем за младшим, звеня браслетами, и остановился, когда тот оглянулся; позже царь Пурушоттама перевёз Его из Канчи, и Он принял жемчужину из носа царицы.",
+  "persons": [
+   "@nityananda",
+   "@sakshi-gopala"
+  ],
+  "places": [
+   "#vidyanagara",
+   "#vrindavana",
+   "#cuttack"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 5",
+  "cc": "Мадхья 5",
+  "themes": [
+   "deities",
+   "mercy"
+  ],
+  "event": "ev-sakshi-gopala-two-brahmins",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "44",
+    "to": "60"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "44",
+    "to": "60",
+    "line": 97,
+    "line_to": 131,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L97-L131",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L97-L131"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pvl-0212",
   "source": "prema-vilasa",
   "ref": "Полувиласа, указатель к виласе 24 (816)",
@@ -3340,7 +3389,60 @@
    }
   ],
   "cc": "Мадхья 4",
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "gkd-0065",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 18–35",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P01",
+  "order": 1.75,
+  "title": "Рассказ о Мадхавендре Пури: Гопала и Кширачора",
+  "summary": "Спутники рассказывают: Мадхавендра Пури получил во Врадже молоко от пастушка, во сне узнал, где сокрыт Гопала, установил Его на Говардхане; идя за сандалом в Пури, посвятил Адвайту; в Ремуне Гопинатха украл для него горшок сладкого риса; по велению Господа сандал был поднесён Гопинатхе в Ремуне.",
+  "persons": [
+   "@madhavendra-puri",
+   "@gopala-remuna",
+   "@advaita",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#govardhana",
+   "#remuna",
+   "#puri",
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 4",
+  "cc": "Мадхья 4",
+  "themes": [
+   "deities",
+   "prasada"
+  ],
+  "divergence": "Рассказчики — Нитьянанда и спутники (в ЧЧ — Сам Господь).",
+  "event": "ev-madhavendra-kshira-chora",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "18",
+    "to": "35"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "18",
+    "to": "35",
+    "line": 43,
+    "line_to": 79,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L43-L79",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L43-L79"
+   }
+  ],
+  "attestation": 3
  },
  {
   "id": "pvl-0213",
@@ -3388,7 +3490,7 @@
    }
   ],
   "cc": "Мадхья 4",
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0020",
@@ -80295,7 +80397,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "ccd-0042",
@@ -80363,7 +80465,67 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
+ },
+ {
+  "id": "gkd-0062",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 1–12",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P09",
+  "order": 55,
+  "title": "Мольба Шачи; Господь обещает жить в Нилачале и являться к её подношению",
+  "summary": "Шачи плачет: зачем сын оставил жену и мать; Господь, скорбя, говорит, что не вернётся к прежнему ашраму, но будет жить, где она скажет, и каждое утро являться есть её подношение; Шачи просит Его жить в Нилачале и возвращается домой, где Господь ежедневно является ей.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@vishnupriya"
+  ],
+  "places": [
+   "#shantipura",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 3; Антья 3",
+  "cc": "Мадхья 3",
+  "themes": [
+   "family",
+   "separation"
+  ],
+  "event": "ev-farewell-shantipura",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "1",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "1",
+    "to": "12",
+    "line": 7,
+    "line_to": 29,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L7-L29",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L7-L29"
+   }
+  ],
+  "cb": "Антья 1",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 7
  },
  {
   "id": "kcm-0105",
@@ -80420,7 +80582,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "lcm-0193",
@@ -80485,7 +80647,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0146",
@@ -80550,7 +80712,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0249",
@@ -80616,7 +80778,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0250",
@@ -80680,7 +80842,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0019",
@@ -80739,7 +80901,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0203",
@@ -80801,7 +80963,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "lcm-0194",
@@ -80865,7 +81027,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0147",
@@ -80926,7 +81088,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "lcm-0195",
@@ -80991,7 +81153,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0148",
@@ -81226,7 +81388,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "gkr-0018",
@@ -81407,7 +81569,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkr-0020",
@@ -81542,7 +81704,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "gkr-0022",
@@ -81605,7 +81767,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "apr-0085",
@@ -81662,7 +81824,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "ccd-0043",
@@ -81719,7 +81881,70 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
+ },
+ {
+  "id": "gkd-0063",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 13–15",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P09",
+  "order": 70,
+  "title": "Путь в Нилачалу со спутниками",
+  "summary": "Простившись с Адвайтой и Харидасом, Господь с Нитьянандой, Мукундой, Джагадианандой и Дамодарой идёт в Пури вдоль Ганги, собирая подаяние, и приходит в Ремуну.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita",
+   "@haridasa-thakura",
+   "@nityananda",
+   "@mukunda-datta",
+   "@jagadananda-pandita",
+   "@damodara-pandita"
+  ],
+  "places": [
+   "#shantipura",
+   "#remuna"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 3–5",
+  "cc": "Мадхья 3",
+  "themes": [
+   "pilgrimage"
+  ],
+  "event": "ev-journey-to-puri",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "13",
+    "to": "15"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "13",
+    "to": "15",
+    "line": 31,
+    "line_to": 35,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L31-L35",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L31-L35"
+   }
+  ],
+  "cb": "Антья 2",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 8
  },
  {
   "id": "jcm-0067",
@@ -81797,7 +82022,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "kcm-0106",
@@ -81854,7 +82079,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "lcm-0197",
@@ -81925,7 +82150,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "mkc-0149",
@@ -81991,7 +82216,7 @@
    24,
    24
   ],
-  "attestation": 7
+  "attestation": 8
  },
  {
   "id": "lcm-0198",
@@ -82455,7 +82680,7 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "apr-0086",
@@ -82512,7 +82737,7 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "ccd-0044",
@@ -82570,7 +82795,82 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
+ },
+ {
+  "id": "gkd-0064",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 16–17, 36–37",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P09",
+  "order": 80,
+  "title": "Ремуна: ночь у Кширачоры-Гопинатхи",
+  "summary": "В Ремуне Господь из любви к Кришне проводит ночь у Божества Кширачоры, поёт киртан и расспрашивает о происхождении имени; выслушав рассказ о Мадхавендре, Он приходит в экстаз; утром идёт дальше и видит Вараху в Вираджа-кшетре.",
+  "persons": [
+   "@mahaprabhu",
+   "@gopala-remuna",
+   "@nityananda"
+  ],
+  "places": [
+   "#remuna",
+   "#jajpur"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 4",
+  "cc": "Мадхья 4",
+  "themes": [
+   "deities",
+   "pilgrimage"
+  ],
+  "event": "ev-remuna-gopala",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "16",
+    "to": "17"
+   },
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "36",
+    "to": "37"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "16",
+    "to": "17",
+    "line": 39,
+    "line_to": 41,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L39-L41",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L39-L41"
+   },
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "36",
+    "to": "37",
+    "line": 81,
+    "line_to": 83,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L81-L83",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L81-L83"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 6
  },
  {
   "id": "kcm-0107",
@@ -82624,7 +82924,7 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "lcm-0201",
@@ -82688,7 +82988,7 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "mkc-0153",
@@ -82750,7 +83050,7 @@
    24,
    24
   ],
-  "attestation": 5
+  "attestation": 6
  },
  {
   "id": "jcm-0068",
@@ -83157,7 +83457,65 @@
    24,
    24
   ],
-  "attestation": 3
+  "attestation": 4
+ },
+ {
+  "id": "gkd-0066",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 7, 38–43",
+  "file": "gaura-krishnodaya/ru/07.md",
+  "period": "P09",
+  "order": 85,
+  "title": "Катак: экстаз Господа перед Сакши-гопалой",
+  "summary": "В Катаке Господь видит Божество Сакши-гопалы на львином престоле, пляшет, воспевая имена Кришны, и с признаками экстаза теряет сознание; спутники приводят Его в чувство водой от поклонения.",
+  "persons": [
+   "@mahaprabhu",
+   "@sakshi-gopala",
+   "@nityananda"
+  ],
+  "places": [
+   "#cuttack"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 5",
+  "cc": "Мадхья 5",
+  "themes": [
+   "deities",
+   "ecstasy"
+  ],
+  "event": "ev-sakshi-gopala",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "38",
+    "to": "43"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/07.md",
+    "from": "38",
+    "to": "43",
+    "line": 85,
+    "line_to": 95,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/07.md?plain=1#L85-L95",
+    "file_en": "gaura-krishnodaya/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/07.md?plain=1#L85-L95"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 4
  },
  {
   "id": "gkr-0023",
@@ -83214,7 +83572,7 @@
    24,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0108",
@@ -83269,7 +83627,7 @@
    24,
    24
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0156",

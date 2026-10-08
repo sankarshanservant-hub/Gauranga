@@ -758,10 +758,12 @@
   "notes": "В ЧЧ (Мадхья 4) Господь рассказывает эту историю, посещая Ремуну. «Адвайта-пракаша» (D), гл. 5 — со слов Адвайты.",
   "entries": [
    "apr-0019",
+   "gkd-0065",
    "pvl-0213"
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "prema-vilasa"
   ]
  },
@@ -7376,6 +7378,7 @@
   "entries": [
    "apr-0084",
    "ccd-0042",
+   "gkd-0062",
    "kcm-0105",
    "lcm-0193",
    "mkc-0146",
@@ -7391,6 +7394,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
@@ -7579,6 +7583,7 @@
    "gkr-0022",
    "apr-0085",
    "ccd-0043",
+   "gkd-0063",
    "jcm-0067",
    "kcm-0106",
    "lcm-0197",
@@ -7587,6 +7592,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "govinda-karcha",
    "jayananda-cm",
    "karnapura-ckm",
@@ -7691,6 +7697,7 @@
    "mkc-0152",
    "apr-0086",
    "ccd-0044",
+   "gkd-0064",
    "kcm-0107",
    "lcm-0201",
    "mkc-0153"
@@ -7698,6 +7705,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
@@ -7796,11 +7804,13 @@
   ],
   "entries": [
    "ccd-0045",
+   "gkd-0066",
    "gkr-0023",
    "kcm-0108"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "govinda-karcha",
    "karnapura-ckm"
   ]
@@ -19731,6 +19741,26 @@
   ],
   "entries": [
    "gkd-0060"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-sakshi-gopala-two-brahmins",
+  "title": "Сакши-гопала: Божество-свидетель идёт за брахманом из Вриндавана",
+  "title_en": "Sakshi-gopala: the witness Deity follows the brahmin from Vrindavana",
+  "period": "P01",
+  "order": 1.7,
+  "cc": "Мадхья 5",
+  "cb": "",
+  "themes": [
+   "deities",
+   "mercy"
+  ],
+  "notes": "Предание, рассказанное Господу Нитьянандой в Катаке (ЧЧ Мадхья 5): два брахмана из Видьянагара, обещание дочери, Гопала-свидетель; царь Пурушоттама перевозит Божество из Канчи в Катак, царица дарит жемчужину.",
+  "entries": [
+   "gkd-0067"
   ],
   "sources": [
    "gaura-krishnodaya"

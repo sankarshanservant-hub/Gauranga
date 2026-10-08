@@ -1200,3 +1200,119 @@
   event: ev-shantipura-reunion
   verses:
     - {file: "gaura-krishnodaya/ru/06.md", from: "55", to: "60"}
+
+- id: gkd-0062
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 1–12"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P09
+  order: 55
+  title: "Мольба Шачи; Господь обещает жить в Нилачале и являться к её подношению"
+  summary: "Шачи плачет: зачем сын оставил жену и мать; Господь, скорбя, говорит, что не вернётся к прежнему ашраму, но будет жить, где она скажет, и каждое утро являться есть её подношение; Шачи просит Его жить в Нилачале и возвращается домой, где Господь ежедневно является ей."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3; Антья 3"
+  cc: "Мадхья 3"
+  themes: [family, separation]
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "1", to: "12"}
+
+- id: gkd-0063
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 13–15"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P09
+  order: 70
+  title: "Путь в Нилачалу со спутниками"
+  summary: "Простившись с Адвайтой и Харидасом, Господь с Нитьянандой, Мукундой, Джагадианандой и Дамодарой идёт в Пури вдоль Ганги, собирая подаяние, и приходит в Ремуну."
+  persons: ["@mahaprabhu", "@advaita", "@haridasa-thakura", "@nityananda", "@mukunda-datta", "@jagadananda-pandita", "@damodara-pandita"]
+  places: ["#shantipura", "#remuna"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 3–5"
+  cc: "Мадхья 3"
+  themes: [pilgrimage]
+  event: ev-journey-to-puri
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "13", to: "15"}
+
+- id: gkd-0064
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 16–17, 36–37"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P09
+  order: 80
+  title: "Ремуна: ночь у Кширачоры-Гопинатхи"
+  summary: "В Ремуне Господь из любви к Кришне проводит ночь у Божества Кширачоры, поёт киртан и расспрашивает о происхождении имени; выслушав рассказ о Мадхавендре, Он приходит в экстаз; утром идёт дальше и видит Вараху в Вираджа-кшетре."
+  persons: ["@mahaprabhu", "@gopala-remuna", "@nityananda"]
+  places: ["#remuna", "#jajpur"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 4"
+  cc: "Мадхья 4"
+  themes: [deities, pilgrimage]
+  event: ev-remuna-gopala
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "16", to: "17"}
+    - {file: "gaura-krishnodaya/ru/07.md", from: "36", to: "37"}
+
+- id: gkd-0065
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 18–35"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P01
+  order: 1.75
+  title: "Рассказ о Мадхавендре Пури: Гопала и Кширачора"
+  summary: "Спутники рассказывают: Мадхавендра Пури получил во Врадже молоко от пастушка, во сне узнал, где сокрыт Гопала, установил Его на Говардхане; идя за сандалом в Пури, посвятил Адвайту; в Ремуне Гопинатха украл для него горшок сладкого риса; по велению Господа сандал был поднесён Гопинатхе в Ремуне."
+  persons: ["@madhavendra-puri", "@gopala-remuna", "@advaita", "@jagannatha-deity"]
+  places: ["#govardhana", "#remuna", "#puri", "#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 4"
+  cc: "Мадхья 4"
+  themes: [deities, prasada]
+  divergence: "Рассказчики — Нитьянанда и спутники (в ЧЧ — Сам Господь)."
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "18", to: "35"}
+
+- id: gkd-0066
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 38–43"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P09
+  order: 85
+  title: "Катак: экстаз Господа перед Сакши-гопалой"
+  summary: "В Катаке Господь видит Божество Сакши-гопалы на львином престоле, пляшет, воспевая имена Кришны, и с признаками экстаза теряет сознание; спутники приводят Его в чувство водой от поклонения."
+  persons: ["@mahaprabhu", "@sakshi-gopala", "@nityananda"]
+  places: ["#cuttack"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 5"
+  cc: "Мадхья 5"
+  themes: [deities, ecstasy]
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "38", to: "43"}
+
+- id: gkd-0067
+  source: gaura-krishnodaya
+  ref: "Сарга 7, 44–60"
+  file: "gaura-krishnodaya/ru/07.md"
+  period: P01
+  order: 1.7
+  title: "Рассказ о Сакши-гопале: два брахмана из Видьянагара"
+  summary: "Нитьянанда рассказывает: старший брахман пообещал дочь младшему перед Гопалой во Вриндаване, затем отрёкся; Гопала пошёл свидетелем за младшим, звеня браслетами, и остановился, когда тот оглянулся; позже царь Пурушоттама перевёз Его из Канчи, и Он принял жемчужину из носа царицы."
+  persons: ["@nityananda", "@sakshi-gopala"]
+  places: ["#vidyanagara", "#vrindavana", "#cuttack"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 5"
+  cc: "Мадхья 5"
+  themes: [deities, mercy]
+  event: ev-sakshi-gopala-two-brahmins
+  verses:
+    - {file: "gaura-krishnodaya/ru/07.md", from: "44", to: "60"}

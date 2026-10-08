@@ -180,9 +180,14 @@
 - advaita-prakasha (D): Гл. 5, 1–23 — [1. Слава, слав–23. Затем, что](../advaita-prakash/05.md?plain=1#L5-L27) · `apr-0018`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (816) — [816–816](../prema-vilasa/ru/25.md?plain=1#L2520-L2520) · `pvl-0212`
 
+## Сакши-гопала: Божество-свидетель идёт за брахманом из Вриндавана / Sakshi-gopala: the witness Deity follows the brahmin from Vrindavana  `ev-sakshi-gopala-two-brahmins`
+
+- gaura-krishnodaya (B): Сарга 7, 44–60 — [44–60](../gaura-krishnodaya/ru/07.md?plain=1#L97-L131) · `gkd-0067`
+
 ## Мадхавендра Пури, сандал для Гопалы и Кширачора-Гопинатха в Ремуне / Madhavendra Puri, sandalwood for Gopala, and Kshira-chora Gopinatha at Remuna  `ev-madhavendra-kshira-chora`
 
 - advaita-prakasha (D): Гл. 5, 24–83 — [24. Через неск–83. Уповая на с](../advaita-prakash/05.md?plain=1#L28-L87) · `apr-0019`
+- gaura-krishnodaya (B): Сарга 7, 18–35 — [18–35](../gaura-krishnodaya/ru/07.md?plain=1#L43-L79) · `gkd-0065`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (817–819) — [817–819](../prema-vilasa/ru/25.md?plain=1#L2523-L2529) · `pvl-0213`
 
 ## Имя «Адвайта»: победа над дигвиджайи Шьямадасой / The name 'Advaita': victory over the digvijayi Shyamadasa  `ev-advaita-name-digvijayi`
@@ -2182,6 +2187,7 @@
 
 - advaita-prakasha (D): Гл. 15, 95–112 — [95. Однажды Шр–112. Так Гора у](../advaita-prakash/15.md?plain=1#L99-L116) · `apr-0084`
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 1–4 — [*(Входит Ратнакара–**Ганга.** Тогда, чтобы порадовать мать ](../chaitanya-chandrodaya/ru/06.md?plain=1#L5-L86) · `ccd-0042`
+- gaura-krishnodaya (B): Сарга 7, 1–12 — [1–12](../gaura-krishnodaya/ru/07.md?plain=1#L7-L29) · `gkd-0062`
 - karnapura-ckm (A): Сарга 11, 70–75 — [70–75](../karnapura-mahakavya/ru/11.md?plain=1#L1566-L1676) · `kcm-0105`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 1–10 — [1–10](../lochana/ru/42.md?plain=1#L11-L38) · `lcm-0193`
 - murari-kcc (A): Пракрама 3, сарга 4, шлоки 23–27 — [23–27](../murari-gupta/ru/3.04.md?plain=1#L49-L57) · `mkc-0146`
@@ -2222,6 +2228,7 @@
 - govinda-karcha (D): Часть 3, 449–460 — [449–460](../govinda-kadacha/ru/03.md?plain=1#L45-L80) · `gkr-0022`
 - advaita-prakasha (D): Гл. 15, 113–115 — [113. С Ним шли–115. Четверо с](../advaita-prakash/15.md?plain=1#L117-L119) · `apr-0085`
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 5–7 — [**Ратнакара.** Увы! Сейчас, когда царь-я–Так несколько дней он шёл из леса в лес,](../chaitanya-chandrodaya/ru/06.md?plain=1#L88-L121) · `ccd-0043`
+- gaura-krishnodaya (B): Сарга 7, 13–15 — [13–15](../gaura-krishnodaya/ru/07.md?plain=1#L31-L35) · `gkd-0063`
 - jayananda-cm (C): Уткала-кханда: «Путь из Шантипура в Пури» (цитаты); «Путь в Камалапур» (Ш. Митра) — [58:1–25:5](../jayananda/ru/05-quotes.md?plain=1#L1014-L1026); [22:1–22:1](../jayananda/ru/06-manuscripts.md?plain=1#L589-L589) · `jcm-0067`
 - karnapura-ckm (A): Сарга 11, 76–77 — [76–77](../karnapura-mahakavya/ru/11.md?plain=1#L1699-L1720) · `kcm-0106`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 81–95 — [81–95](../lochana/ru/43.md?plain=1#L5-L49) · `lcm-0197`
@@ -2245,6 +2252,7 @@
 - murari-kcc (A): Пракрама 3, сарга 6, шлоки 1–2 — [1–2](../murari-gupta/ru/3.06.md?plain=1#L5-L7) · `mkc-0152`
 - advaita-prakasha (D): Гл. 15, 116–118 — [116. Продолжая–118. Хлынуло п](../advaita-prakash/15.md?plain=1#L120-L122) · `apr-0086`
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 8–11 — [**Ратнакара.** Зачем?–> красоту того, у чьих уст — флейта.](../chaitanya-chandrodaya/ru/06.md?plain=1#L123-L156) · `ccd-0044`
+- gaura-krishnodaya (B): Сарга 7, 16–17, 36–37 — [16–17](../gaura-krishnodaya/ru/07.md?plain=1#L39-L41); [36–37](../gaura-krishnodaya/ru/07.md?plain=1#L81-L83) · `gkd-0064`
 - karnapura-ckm (A): Сарга 11, 78 — [78–78](../karnapura-mahakavya/ru/11.md?plain=1#L1743-L1743) · `kcm-0107`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 1–21 — [1–21](../lochana/ru/44.md?plain=1#L11-L71) · `lcm-0201`
 - murari-kcc (A): Пракрама 3, сарга 6, шлоки 3–11 — [3–11](../murari-gupta/ru/3.06.md?plain=1#L9-L25) · `mkc-0153`
@@ -2264,6 +2272,7 @@
 ## Даршан Сакши-гопалы / Darshan of Sakshi-gopala  `ev-sakshi-gopala` (1510–1510, возраст 24–24, оценка)
 
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 12–14 — [**Ганга.** Снова выйдя на лесную тропу, –**Ганга.** Пробыв там тот день, на следу](../chaitanya-chandrodaya/ru/06.md?plain=1#L160-L196) · `ccd-0045`
+- gaura-krishnodaya (B): Сарга 7, 38–43 — [38–43](../gaura-krishnodaya/ru/07.md?plain=1#L85-L95) · `gkd-0066`
 - govinda-karcha (D): Часть 3, 461–467 — [461–467](../govinda-kadacha/ru/03.md?plain=1#L83-L101) · `gkr-0023`
 - karnapura-ckm (A): Сарга 11, 79 — [79–79](../karnapura-mahakavya/ru/11.md?plain=1#L1766-L1766) · `kcm-0108`
 
