@@ -393,3 +393,74 @@
 | @krishnadasa-adhikari | Кришнадас Адхикари | Krishnadasa Adhikari | ученик Дживы Госвами, перечислил книги Госвами (БР 1) |
 | @chaitanya-dasa-vamshi | Чайтанья Дас, сын Вамшиваданы | Chaitanya Dasa, son of Vamshivadana | приходит на праздник в Кхетури («Нароттама-виласа» 6); не путать с @chaitanya-dasa |
 | @balarama-pujari-kheturi | Баларама, пуджари в Кхетури | Balarama, the pujari of Kheturi | брахман, ученик Нароттамы, служитель Гауранги в Кхетури; не путать с @balarama |
+| @ananta-puri | Ананта Пури | Ananta Puri | санньяси, один из восьми «Пури» (ГГД 97); ванданы |
+| @anubhavananda | Анубхавананда | Anubhavananda | санньяси, спутник Господа (ванданы) |
+| @baladeva-mahiti | Баладева (Баларама) Махити | Baladeva (Balarama) Mahiti | ория-спутник в Пури (ванданы) |
+| @balarama-dasa-odia | Баларама Дас (ория) | Balarama Dasa (the Oriya) | ория-преданный, «которому покорны Джаганнатха и Баларама» (ванданы); возможно, поэт из «Панча-сакхи»; не путать с @balarama-dasa-poet |
+| @bhagavatacharya | Бхагаватачарья (Рагхунатха) | Bhagavatacharya (Raghunatha) | автор «Кришна-према-тарангини» (ГГД 194–207); не путать с @shyamadasa-acharya |
+| @bhaskara-thakura | Бхаскара Тхакур | Bhaskara Thakura | ваятель, спутник Нитьянанды (ГГД 114: Вишвакарма) |
+| @brahmananda-puri | Брахмананда Пури | Brahmananda Puri | санньяси, спутник Господа (ЧЧ Ади 9; ванданы); не путать с @brahmananda-bharati |
+| @brahmananda-svarupa | Брахмананда Сварупа | Brahmananda Svarupa | санньяси (ванданы) |
+| @buddhimanta-khan | Буддхиманта Хан | Buddhimanta Khan | богатый горожанин Навадвипы, устроивший свадьбу Господа с Вишнуприей (ЧБ Ади 15) |
+| @chidananda | Чидананда (Тиртха) | Chidananda (Tirtha) | санньяси (ГГД 100; вандана Дживы) |
+| @damodara-puri | Дамодара Пури | Damodara Puri | санньяси, один из восьми «Пури» (ГГД 97); в ванданах — «подобный Сатьябхаме» |
+| @dhananjaya-pandita | Дхананджая Пандит | Dhananjaya Pandita | спутник Нитьянанды (ГГД 127: Васудама), отдал всё Господу; не путать с @dhananjaya-vidyanivasa |
+| @garuda-avadhuta | Гаруда Авадхута | Garuda Avadhuta | санньяси (ГГД 101) |
+| @garuda-pandita | Гаруда Пандит | Garuda Pandita | спутник Господа в Навадвипе (ГГД 116–117) |
+| @govinda-acharya | Говинда Ачарья | Govinda Acharya | слагатель песен о Радхе и Кришне (ГГД 41: Паурнамаси) |
+| @govinda-puri | Говинда (Говиндананда) Пури | Govinda (Govindananda) Puri | санньяси, ученик Мадхавендры (ГГД 97; ванданы) |
+| @govindananda | Говиндананда (Сугрива Мишра) | Govindananda (Sugriva Mishra) | спутник Господа (ГГД 91: Сугрива); в ванданах — «мост из ума» для пути Господа |
+| @halayudha | Халаюдха Тхакур | Halayudha Thakura | спутник Господа (ГГД 134) |
+| @hari-bhatta | Хари Бхатта | Hari Bhatta | ория-спутник в Пури (ванданы) |
+| @hariharananda | Харихарананда (Бхарати) | Hariharananda (Bharati) | санньяси (ванданы) |
+| @jagadisha-pandita | Джагадиша Пандит | Jagadisha Pandita | спутник Господа и Нитьянанды, танцор (ГГД 143); не путать с @jagadisha-mishra |
+| @jagannatha-dasa-odia | Джаганнатха Дас (ория) | Jagannatha Dasa (the Oriya) | певец, «пением чарующий Джаганнатху» (ванданы); вероятно, поэт-ория |
+| @jagannatha-sena | Джаганнатха Сен | Jagannatha Sena | спутник Господа (ГГД 194–207; ванданы) |
+| @jagannatha-tirtha | Джаганнатха Тиртха | Jagannatha Tirtha | санньяси (ГГД 100) |
+| @jiva-pandita | Джива Пандит | Jiva Pandita | спутник Нитьянанды (ГГД 169: Индира); не путать с @jiva-gosvami |
+| @kaliya-krishnadasa | Калия (Кала) Кришнадас | Kaliya (Kala) Krishnadasa | спутник Нитьянанды (ГГД 132; ЧЧ Ади 11); не путать с @kala-krishnadasa |
+| @kamalakara-pippalai | Камалакара Пиппалаи | Kamalakara Pippalai | спутник Нитьянанды, один из двенадцати гопалов (ГГД 128) |
+| @kamsari-sena | Камсари Сен | Kamsari Sena | спутник Господа (ГГД 194–207) |
+| @kashinatha-mahiti | Кашинатха Махити | Kashinatha Mahiti | ория-спутник в Пури (ванданы); не путать с @kashinatha |
+| @kavichandra | Кавичандра | Kavichandra | спутник Господа (ГГД 171); в ванданах рядом с Рамадасом |
+| @kaviraja-mishra | Кавираджа Мишра | Kaviraja Mishra | спутник Господа (только ванданы) |
+| @keshava-puri | Кешава Пури | Keshava Puri | санньяси, один из восьми «Пури» (ГГД 97) |
+| @krishnadasa-akaihat | Кришнадас из Акаихата | Krishnadasa of Akaihat | спутник Нитьянанды (ЧЧ Ади; вандана Девакинанданы) |
+| @krishnananda-puri | Кришнананда Пури | Krishnananda Puri | санньяси, один из восьми «Пури» (ГГД 97) |
+| @madhava-pattanayaka | Мадхава Паттанаяк | Madhava Pattanayaka | ория-спутник в Пури (ванданы) |
+| @makaradhvaja-kara | Макарадхваджа Кара | Makaradhvaja Kara | певец Господа (ГГД 141, 168) |
+| @mukunda-sanjaya | Мукунда-Санджая | Mukunda-Sanjaya | в его доме Нимай учил (ЧБ Ади); в ванданах — «Санджая» |
+| @murari-chaitanya-dasa | Мурари Чайтанья Дас | Murari Chaitanya Dasa | спутник Нитьянанды, игравший с тиграми и змеями (ЧЧ Ади 11) |
+| @narasimha-tirtha | Нарасимха (Нрисимхананда) Тиртха | Narasimha (Nrisimhananda) Tirtha | санньяси (ГГД 100) |
+| @nrisimha-puri | Нрисимха (Нрисимхананда) Пури | Nrisimha (Nrisimhananda) Puri | санньяси (ГГД 100: «Шри Нрисимха»; ванданы); не путать с @nrisimhananda |
+| @paramananda-avadhuta | Парамананда Авадхута | Paramananda Avadhuta | спутник Нитьянанды (ванданы) |
+| @pitambara | Питамбара | Pitambara | брат Дамодары и Шанкары Пандитов (ГГД 168) |
+| @purandara-acharya | Пурандара Ачарья | Purandara Acharya | спутник Господа (ванданы); не путать с @purandara-pandita |
+| @purushottama-brahmachari | Пурушоттама Брахмачари | Purushottama Brahmachari | спутник Господа (ванданы) |
+| @purushottama-nagara | Пурушоттама Дас (Нагара Пурушоттама) | Purushottama Dasa (Nagara Purushottama) | сын Садашивы Кавираджи, спутник Нитьянанды (ЧЧ Ади 11; ГГД 131), гуру Девакинанданы Даса |
+| @purushottama-tirtha | Пурушоттама Тиртха (Пури) | Purushottama Tirtha (Puri) | санньяси (ГГД 101; ванданы) |
+| @raghava-puri | Рагхава Пури | Raghava Puri | санньяси, один из восьми «Пури» (ГГД 97) |
+| @raghunatha-tirtha | Рагхунатха Тиртха (Пури) | Raghunatha Tirtha (Puri) | санньяси (ГГД 97?; ванданы) |
+| @rama-tirtha | Рама Тиртха | Rama Tirtha | санньяси (ГГД 101) |
+| @ramachandra-puri | Рамачандра Пури | Ramachandra Puri | санньяси, ученик Мадхавендры, упрекавший Господа (ЧЧ Антья 8; ГГД 92) |
+| @sadashiva-kaviraja | Садашива Кавираджа | Sadashiva Kaviraja | спутник Господа, отец Пурушоттамы (ГГД 156; ЧЧ Ади 11) |
+| @sadashiva-pandita | Садашива Пандит | Sadashiva Pandita | спутник Господа в Навадвипе; в его доме жил Нитьянанда; в ванданах — брахмачари |
+| @sankarshana-puri | Санкаршана Пури | Sankarshana Puri | ученик Мадхавендры; по вандане Дживы — гуру Нитьянанды |
+| @saranga-thakura | Саранга (Шарнга) Тхакур | Saranga (Sharnga) Thakura | спутник Господа (ГГД 172: Нандимукхи) |
+| @satyananda-bharati | Сатьянанда Бхарати | Satyananda Bharati | санньяси (ГГД 100) |
+| @shishu-krishnadasa | Шишу Кришнадас | Shishu Krishnadasa | спутник Нитьянанды, «вскормленный Нитьянандой» (ванданы) |
+| @shivananda-chakravarti | Шивананда Чакраварти | Shivananda Chakravarti | жил во Вриндаване (ГГД 183) |
+| @shrigarbha | Шригарбха | Shrigarbha | спутник Господа в Навадвипе (ГГД 103) |
+| @shriman-pandita | Шриман Пандит | Shriman Pandita | нёс светильник в ночных киртанах (ЧЧ Ади 10) |
+| @shrinatha-mishra | Шринатха Мишра | Shrinatha Mishra | спутник Господа (ГГД 171: Читранги) |
+| @shrinidhi | Шринидхи | Shrinidhi | спутник Господа в Навадвипе (ГГД 103) |
+| @shuddha-sarasvati | Шуддха Сарасвати | Shuddha Sarasvati | санньяси (только ванданы) |
+| @simheshvara | Симхешвара | Simheshvara | ория-спутник в Пури (ванданы) |
+| @sukhananda-puri | Сукхананда Пури | Sukhananda Puri | санньяси, один из восьми «Пури» (ГГД 97) |
+| @tulasi-mishra | Туласи Мишра | Tulasi Mishra | ория-спутник в Пури (ванданы) |
+| @upendra-ashrama | Упендра (Гопендра) Ашрама | Upendra (Gopendra) Ashrama | санньяси (ГГД 101) |
+| @vanamali-dasa-vaidya | Ванамали Дас (вайдья) | Vanamali Dasa (the vaidya) | брат Вишнудаса-вайдьи (ванданы) |
+| @vasudeva-tirtha | Васудева Тиртха | Vasudeva Tirtha | санньяси (ГГД 101) |
+| @vipradasa-odia | Випрадас (ория) | Vipradasa (the Oriya) | ория-спутник в Пури (ванданы); не путать с @vipradasa |
+| @vishnudasa-vaidya | Вишнудас (вайдья) | Vishnudasa (the vaidya) | певец, «чьи песни радовали Господа» (ванданы); не путать с @vishnudasa |
+| @vishveshvarananda | Вишвешварананда | Vishveshvarananda | санньяси (ванданы) |
