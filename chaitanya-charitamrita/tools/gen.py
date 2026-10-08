@@ -48,6 +48,7 @@ def bn_lines(e,ntr,override=None):
         b=normbn(e['bn']).strip()
         for _ in range(3): b=re.sub(r'\s*[॥৷।]*\s*[০-৯]+\s*[॥৷।]+\s*(ধ্রু\s*[॥৷।]*\s*)?$','',b)
         b=re.sub(r'\s*[০-৯]+\s*[॥৷।]+\s*(ধ্রু\s*[॥৷।]*)?\s*',' ',b)  # inner stray numbers
+        b=re.sub(r'\s*[০-৯]+\s*$','',b)
         flat=' '.join(x.strip() for x in b.split('\n') if x.strip())
         btok=flat.split()
         parts=e.get('_trparts',[])
@@ -99,5 +100,6 @@ def bn_lines(e,ntr,override=None):
                 lines=[ch[0]]
             else:
                 lines=[' '.join(ch)]; e['warn']='ntr %d'%ntr
+    lines=[re.sub(r'([?!]’?)\s*৷$',r'\1',x) for x in lines]
     lines[-1]=lines[-1]+' ॥ %s ॥'%bnum(e['n'])
     return lines

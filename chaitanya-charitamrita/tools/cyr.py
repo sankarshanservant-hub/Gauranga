@@ -27,4 +27,5 @@ def conv(tr,bn=''):
             res+=tr[j]; j+=1
     # initial e -> э
     res=re.sub(r'(^|[\s\-—‘“’( ])е',lambda m:m.group(1)+'э',res)
+    res=re.sub(r'(^|[\s‘(—-])([хл])а-и',r'\1\2аи',res)
     return res,use

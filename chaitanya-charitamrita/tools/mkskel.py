@@ -5,7 +5,13 @@ from gen import load,tr_lines,bn_lines
 src,outdir=sys.argv[1],sys.argv[2]
 ch=load(src)
 ov={}
-if len(sys.argv)>3 and os.path.exists(sys.argv[3]): ov=json.load(open(sys.argv[3]))
+if len(sys.argv)>3 and os.path.exists(sys.argv[3]):
+    k=None
+    for l in open(sys.argv[3],encoding='utf-8'):
+        l=l.rstrip('\n')
+        if l.startswith('@'): k=l[1:].strip(); ov[k]={}
+        elif l.startswith('bn:'): ov[k]['bn']=[x.strip().replace('>>','\u2003\u2003') for x in l[3:].split('|')]
+        elif l.startswith('tr:'): ov[k]['tr']=[x.strip() for x in l[3:].split('|')]
 for c in sorted(ch):
     res=[]
     for e in ch[c]:
