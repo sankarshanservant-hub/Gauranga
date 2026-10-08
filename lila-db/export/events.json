@@ -10423,6 +10423,7 @@
    "pad-0306",
    "pad-0307",
    "pad-0308",
+   "gkd-0114",
    "apr-0133",
    "apr-0120",
    "ccd-0096"
@@ -10462,10 +10463,12 @@
    28
   ],
   "entries": [
+   "gkd-0115",
    "ccd-0097"
   ],
   "sources": [
-   "chaitanya-chandrodaya"
+   "chaitanya-chandrodaya",
+   "gaura-krishnodaya"
   ]
  },
  {
@@ -20401,6 +20404,157 @@
   ],
   "entries": [
    "gkd-0109"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-lord-pushes-chariot",
+  "title": "Колесница не идёт; Господь толкает её",
+  "title_en": "The chariot will not move; the Lord pushes it",
+  "period": "P12",
+  "order": 72,
+  "cc": "Мадхья 14",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "revelation"
+  ],
+  "notes": "ЧЧ Мадхья 14: слоны не могли сдвинуть колесницу; Господь толкнул её головой.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0113"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-bahuda-return-chariots",
+  "title": "Возвращение колесниц (Бахуда-ятра) и примирение с Лакшми",
+  "title_en": "The return of the chariots (Bahuda-yatra) and reconciliation with Lakshmi",
+  "period": "P12",
+  "order": 76,
+  "cc": "Мадхья 14 (упоминание)",
+  "cb": "",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "notes": "«Гаура-кришнодая» 12.21–22: обряды возвращения в храм — закрытие дверей, речи прислужниц, встреча с Лакшми, восшествие на престол.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0116"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-chaturmasya-puri-invitations",
+  "title": "Чатурмасья в Пури: преданные по очереди приглашают Господа",
+  "title_en": "Chaturmasya in Puri: the devotees invite the Lord in turn",
+  "period": "P12",
+  "order": 78,
+  "cc": "Мадхья 15",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "family"
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0117"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-amogha-cholera",
+  "title": "Амогха хулит Господа, заболевает холерой и прощён",
+  "title_en": "Amogha blasphemes the Lord, is struck by cholera and forgiven",
+  "period": "P12",
+  "order": 85,
+  "cc": "Мадхья 15",
+  "cb": "",
+  "themes": [
+   "offense",
+   "mercy",
+   "prasada"
+  ],
+  "notes": "ЧЧ Мадхья 15: угощение у Сарвабхаумы и Шаштхи-матери.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0118"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-puri-festivals-year-cycle",
+  "title": "Праздники Пури по временам года; Господа удерживают от похода во Вриндаван",
+  "title_en": "The festivals of Puri through the seasons; the Lord is held back from going to Vrindavana",
+  "period": "P12",
+  "order": 90,
+  "cc": "Мадхья 16",
+  "cb": "",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "notes": "«Гаура-кришнодая» 12.32–43: годовой круг праздников храма (Джанмаштами, Дурга-пуджа, карттика-врата, облачение в тёплые одежды, Макара-санкранти); ежегодный приход бенгальцев; Рамананда и Сарвабхаума удерживают Господа.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0119"
   ],
   "sources": [
    "gaura-krishnodaya"

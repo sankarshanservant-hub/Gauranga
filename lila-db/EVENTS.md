@@ -2891,9 +2891,14 @@
 - padas (C): Йаду, ПК 1547 = ГПТ1 с. 322 (№ 3) «চৌদিকে মহান্ত মেলি করয়ে কীর্তন কেলি» — [21.1–21.5](../padas/ru/14.md?plain=1#L567-L579) · `pad-0306`
 - padas (C): Йаду, ГПТ1 с. 322–323 (№ 5) «লীলাকারী জগন্নাথ» — [22.1–22.5](../padas/ru/14.md?plain=1#L595-L607) · `pad-0307`
 - padas (D): Йадунатх Дас, ПК 1548 (без подписи) = ГПТ1 с. 323 (№ 6) «চৈতন্য নিতাই আরে দোন ভাই নাচে রে» — [23.1–23.4](../padas/ru/14.md?plain=1#L620-L629) · `pad-0308`
+- gaura-krishnodaya (B): Сарга 12, 3–9 — [3–9](../gaura-krishnodaya/ru/12.md?plain=1#L11-L25) · `gkd-0114`
 - advaita-prakasha (D): Гл. 19, 117–132 — [117. В день пр–132. Я — ничто](../advaita-prakash/19.md?plain=1#L121-L136) · `apr-0133`
 - advaita-prakasha (D): Гл. 18, 25–43, 55–57 — [25. Услышав о б–43. Услышав эт](../advaita-prakash/18.md?plain=1#L29-L47); [55. Видя велик–57. После праз](../advaita-prakash/18.md?plain=1#L59-L61) · `apr-0120`
 - chaitanya-chandrodaya (A): Акт 10, праздник колесниц, ст. 41–58 — [*(Входит Каши-Мишра.)*–**Царь.** Начни это с сегодняшнего дня; ](../chaitanya-chandrodaya/ru/10.md?plain=1#L663-L835) · `ccd-0096`
+
+## Колесница не идёт; Господь толкает её / The chariot will not move; the Lord pushes it  `ev-lord-pushes-chariot` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 12, 1–2 — [1–2](../gaura-krishnodaya/ru/12.md?plain=1#L7-L9) · `gkd-0113`
 
 ## Господь в облике пастуха: горшки с молоком и вращение посоха / The Lord as a cowherd: pots of milk and the twirling staff  `ev-gopa-vesha-dadhi-utsava` (1512–1514, возраст 26–28, оценка)
 
@@ -2901,7 +2906,16 @@
 
 ## Хера-панчами: гневный выезд богини Лакшми / Hera-panchami: the angry procession of goddess Lakshmi  `ev-hera-panchami` (1512–1514, возраст 26–28, оценка)
 
+- gaura-krishnodaya (B): Сарга 12, 10–20 — [10–20](../gaura-krishnodaya/ru/12.md?plain=1#L27-L49) · `gkd-0115`
 - chaitanya-chandrodaya (A): Акт 10, Хера-панчами, ст. 59–68 — [**Каши-Мишра** *(про себя)*. Погляжу-ка,–**Шри Кришна Чайтанья.** Шривас, ты, как](../chaitanya-chandrodaya/ru/10.md?plain=1#L837-L943) · `ccd-0097`
+
+## Возвращение колесниц (Бахуда-ятра) и примирение с Лакшми / The return of the chariots (Bahuda-yatra) and reconciliation with Lakshmi  `ev-bahuda-return-chariots` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 12, 21–22 — [21–22](../gaura-krishnodaya/ru/12.md?plain=1#L51-L53) · `gkd-0116`
+
+## Чатурмасья в Пури: преданные по очереди приглашают Господа / Chaturmasya in Puri: the devotees invite the Lord in turn  `ev-chaturmasya-puri-invitations` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 12, 23–30 — [23–30](../gaura-krishnodaya/ru/12.md?plain=1#L55-L71) · `gkd-0117`
 
 ## Бедный брахман из Дравиды и Вибхишана / The poor brahmana from Dravida and Vibhishana  `ev-dravida-brahmana-vibhishana` (1512–1514, возраст 26–28, оценка)
 
@@ -2911,6 +2925,10 @@
 ## Буря не пускает санньяси, и Господь один приходит на трапезу к Адвайте и Сите / A storm keeps the sannyasis away, and the Lord comes alone to dine with Advaita and Sita  `ev-advaita-feeds-lord-hailstorm` (1512–1514, возраст 26–28, оценка)
 
 - advaita-prakasha (D): Гл. 18, 58–99 — [58. Послушайте–99. По настоян](../advaita-prakash/18.md?plain=1#L62-L103) · `apr-0122`
+
+## Амогха хулит Господа, заболевает холерой и прощён / Amogha blasphemes the Lord, is struck by cholera and forgiven  `ev-amogha-cholera` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 12, 31 — [31–31](../gaura-krishnodaya/ru/12.md?plain=1#L73-L73) · `gkd-0118`
 
 ## Молитва Васудевы Датты взять на себя грехи всех существ / Vasudeva Datta's prayer to take upon himself the sins of all beings  `ev-vasudeva-datta-prayer` (1512–1514, возраст 26–28, оценка)
 
@@ -2924,6 +2942,10 @@
 - padas (C): Баларама Дас, ПК 2261 = ГПТ1 с. 403–404 (№ 6) «প্রভু কহে নিত্যানন্দ সব জীব হৈল অন্ধ» — [22.1–22.4](../padas/ru/11.md?plain=1#L849-L864) · `pad-0227`
 - padas (C): Баларама Дас, ПК 2262 (фрагмент без подписи) = ГПТ1 с. 404 (№ 7) «বিরলে নিতাই পাঞা» — [23.1–23.4](../padas/ru/11.md?plain=1#L881-L896) · `pad-0228`
 - murari-kcc (A): Пракрама 4, сарга 22, шлоки 1–2 — [1–2](../murari-gupta/ru/4.22.md?plain=1#L5-L7) · `mkc-0245`
+
+## Праздники Пури по временам года; Господа удерживают от похода во Вриндаван / The festivals of Puri through the seasons; the Lord is held back from going to Vrindavana  `ev-puri-festivals-year-cycle` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 12, 32–43 — [32–43](../gaura-krishnodaya/ru/12.md?plain=1#L75-L101) · `gkd-0119`
 
 ## Панихати: омовение и украшение Нитьянанды в доме Рагхавы Пандита / Panihati: Nityananda's bathing and adornment at Raghava Pandita's house  `ev-nityananda-panihati-abhisheka` (1512–1514, возраст 26–28, оценка)
 

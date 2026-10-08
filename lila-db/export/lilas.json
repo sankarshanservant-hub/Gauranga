@@ -103039,6 +103039,64 @@
   "attestation": 7
  },
  {
+  "id": "gkd-0113",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 1–2",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 72,
+  "title": "Колесница не трогается; Господь толкает её",
+  "summary": "Царь впрягает слонов, но они не могут сдвинуть колесницу; Гаурахари со смехом толкает колесницы и идёт впереди.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 14",
+  "cc": "Мадхья 14",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "event": "ev-lord-pushes-chariot",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "1",
+    "to": "2"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "1",
+    "to": "2",
+    "line": 7,
+    "line_to": 9,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L7-L9",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L7-L9"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "kcm-0163",
   "source": "karnapura-ckm",
   "ref": "Сарга 18, 46–51",
@@ -103084,6 +103142,304 @@
    }
   ],
   "cc": "Мадхья 15",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0114",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 3–9",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 73,
+  "title": "Толпа на Ратха-ятре; Божества входят в Гундичу",
+  "summary": "Под вечер колесницы доходят до Гундичи; описана давка — женщины, дети, слепые, глухие, старики славят Бога; Джаганнатха с братом и сестрой входит в павильон Гундичи, а Господь остаётся неподалёку.",
+  "persons": [
+   "@jagannatha-deity",
+   "@balarama",
+   "@subhadra",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 14",
+  "cc": "Мадхья 14",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "3",
+    "to": "9"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "3",
+    "to": "9",
+    "line": 11,
+    "line_to": 25,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L11-L25",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L11-L25"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "gkd-0115",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 10–20",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 75,
+  "title": "Хера-панчами: гнев Лакшми и объяснение Сварупы",
+  "summary": "Сварупа объясняет Господу: Нилачала — Вайкунтха с Лакшми, Гундича — Вриндаван, где служит Радха; Лакшми в гневе приезжает в паланкине со свитой, бранит слуг Джаганнатхи и грозит колеснице; слуги успокаивают её, и она, получив гирлянду, возвращается; Господь погружается в расу.",
+  "persons": [
+   "@mahaprabhu",
+   "@svarupa-damodara",
+   "@lakshmi",
+   "@jagannatha-deity",
+   "@radha",
+   "@subhadra"
+  ],
+  "places": [
+   "#gundicha",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 14",
+  "cc": "Мадхья 14",
+  "themes": [
+   "festival",
+   "jagannatha",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "divergence": "Субхадра («Бхадра») поставлена рядом с Радхой как участница игр Вриндавана — своеобразие Говинды-девы.",
+  "event": "ev-hera-panchami",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "10",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "10",
+    "to": "20",
+    "line": 27,
+    "line_to": 49,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L27-L49",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L27-L49"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "gkd-0116",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 21–22",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 76,
+  "title": "Возвращение колесниц и обряды встречи с Лакшми",
+  "summary": "На десятый день Джаганнатха возвращается в храм; Господь видит закрытие дверей, речи прислужниц, встречу с Лакшми, арати и восшествие на престол.",
+  "persons": [
+   "@jagannatha-deity",
+   "@lakshmi",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "event": "ev-bahuda-return-chariots",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "21",
+    "to": "22"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "21",
+    "to": "22",
+    "line": 51,
+    "line_to": 53,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L51-L53",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L51-L53"
+   }
+  ],
+  "cc": "Мадхья 14 (упоминание)",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0117",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 23–30",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 78,
+  "title": "Чатурмасья: преданные по очереди приглашают Господа; пора дождей",
+  "summary": "Когда Господь Джаганнатха засыпает на четыре месяца, преданные каждый день по очереди приглашают Господа; поэтическое описание сезона дождей; Господь делает ненастные дни ясными киртаном.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 15",
+  "cc": "Мадхья 15",
+  "themes": [
+   "prasada",
+   "kirtan"
+  ],
+  "event": "ev-chaturmasya-puri-invitations",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "23",
+    "to": "30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "23",
+    "to": "30",
+    "line": 55,
+    "line_to": 71,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L55-L71",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L55-L71"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0118",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 31",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 85,
+  "title": "Угощение у Сарвабхаумы; Амогха исцелён",
+  "summary": "Жена Сарвабхаумы, мать Шаштхи, угощает Господа; зять Амогха хулит Его, умирает от холеры, и Господь по милости воскрешает его.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 15",
+  "cc": "Мадхья 15",
+  "themes": [
+   "offense",
+   "mercy",
+   "prasada"
+  ],
+  "event": "ev-amogha-cholera",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "31",
+    "to": "31"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "31",
+    "to": "31",
+    "line": 73,
+    "line_to": 73,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L73-L73",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L73-L73"
+   }
+  ],
   "years": [
    1512,
    1514
@@ -103146,6 +103502,66 @@
    }
   ],
   "cc": "Мадхья 15",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0119",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 32–43",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 90,
+  "title": "Годовой круг праздников в Пури; желание идти во Вриндаван",
+  "summary": "Господь видит праздники месяцев: Джанмаштами, праздник Баларамы, Ваманы, осенние празднества, обеты карттики, облачение в тёплые одежды, абхишеку пауши, Макара-санкранти, весну; хочет идти во Вриндаван, чтобы спасти Санатану, но преданные удерживают Его; так проходят пять лет, бенгальцы приходят каждый год.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@prataparudra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 16",
+  "cc": "Мадхья 16",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "divergence": "Подробный годовой круг — у Говинды-девы; «пять лет» — его счёт.",
+  "event": "ev-puri-festivals-year-cycle",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "32",
+    "to": "43"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "32",
+    "to": "43",
+    "line": 75,
+    "line_to": 101,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L75-L101",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L75-L101"
+   }
+  ],
   "years": [
    1512,
    1514
@@ -122893,7 +123309,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "apr-0140",
@@ -137158,7 +137574,7 @@
   ],
   "kind": "lila",
   "authority": "C",
-  "divergence": "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьямананды; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды».",
+  "divergence": "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьяманандой; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды».",
   "themes": [
    "deities",
    "separation",
