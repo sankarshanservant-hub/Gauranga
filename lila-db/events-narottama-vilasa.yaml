@@ -180,3 +180,36 @@
   themes: [offense, mercy]
   teaching: [vaishnava]
   notes: "«Нароттама-виласа» 9 (колофон: «Кушти-випра-апарадха-бханджана»); во сне Бхагавати велит брахману просить прощения у Нароттамы."
+
+- id: ev-virachandra-yajigrama-kheturi
+  title: "Вирачандра у Шринивасы в Яджиграме и в Кхетури: санкиртана с его пляской, песня Говинды Кавираджи о Нитьянанде"
+  title_en: "Virachandra with Srinivasa at Yajigrama and in Kheturi: sankirtana with his dance, Govinda Kaviraja's song on Nityananda"
+  period: P15
+  order: 110.5
+  themes: [kirtan, ecstasy, prasada]
+  notes: "«Нароттама-виласа» 11: Вирачандра служит Говардхана-шиле; Рамачандра толкует ему раса-лилу «Бхагаваты»; уходит в Кхардаху через Экачакру, Шриниваса — с ним."
+
+- id: ev-srinivasa-ramachandra-disappearance
+  title: "Шриниваса уходит во Вриндаван, Рамачандра — за ним; оба скрываются; плач Нароттамы («Гауранера сахачара…»)"
+  title_en: "Srinivasa goes to Vrindavana, Ramachandra follows; both pass from sight; Narottama's lament ('Gaurangera sahachara…')"
+  period: P15
+  order: 112
+  themes: [departure, separation]
+  notes: "«Нароттама-виласа» 11: автор не описывает ухода прямо — лишь весть, что Ачарья ушёл во Вриндаван, и что Рамачандра «скрылся из виду»; подробности отсылает к «Бхакти-ратнакаре»."
+
+- id: ev-narottama-pyre-gambhila
+  title: "Нароттама в Гамбхиле «для глаз людей» оставляет тело; на насмешки брахманов по молитве Ганганараяны встаёт с костра; брахманы-хулители становятся вайшнавами"
+  title_en: "At Gambhila Narottama leaves his body 'in the eyes of people'; at the brahmanas' mockery he rises from the pyre at Ganganarayana's prayer; the reviling brahmanas become Vaishnavas"
+  period: P15
+  order: 113
+  themes: [offense, mercy, departure]
+  teaching: [vaishnava]
+  notes: "«Нароттама-виласа» 11."
+
+- id: ev-narottama-disappearance
+  title: "Сокрытие Нароттамы: в Гамбхиле, в водах Ганги, растворяется, словно молоко; праздники в Гамбхиле и Кхетури, где он является в киртане"
+  title_en: "Narottama's disappearance: at Gambhila he dissolves like milk into the Ganga; festivals at Gambhila and Kheturi, where he appears in the kirtana"
+  period: P15
+  order: 114
+  themes: [departure, separation, kirtan]
+  notes: "«Нароттама-виласа» 11 (колофон: «Шрила-Нароттама-сангопана»); после сокрытия является спутникам во сне."

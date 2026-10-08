@@ -1072,3 +1072,89 @@
   event: ev-chand-raya-deliverance
   verses:
     - {file: "narottama-vilasa/ru/10.md", from: "269", to: "323"}
+
+- id: nvl-0062
+  source: narottama-vilasa
+  ref: "Виласа 11, 1–100"
+  file: "narottama-vilasa/ru/11.md"
+  period: P15
+  order: 110.5
+  title: "Вирачандра приходит к Шринивасе в Яджиграм и с ним — в Кхетури"
+  summary: "Письма во Вриндаван; Вирачандра неожиданно приходит в Яджиграм, его чтят жёны, сыновья и дочери Шринивасы; угощение Говардхана-шиле и Вамшивадане; через Кантака-нагар и Будхари, где их принимает Говинда, Вирачандра, Шриниваса и Рамачандра приходят в Кхетури; даршан шести Божеств, пир."
+  persons: ["@virabhadra", "@srinivasa-acharya", "@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja", "@jiva-gosvami"]
+  places: ["#yajigrama", "#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [deities, prasada, pilgrimage]
+  event: ev-virachandra-yajigrama-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/11.md", from: "1", to: "100"}
+
+- id: nvl-0063
+  source: narottama-vilasa
+  ref: "Виласа 11, 101–196"
+  file: "narottama-vilasa/ru/11.md"
+  period: P15
+  order: 110.6
+  title: "Санкиртана с пляской Вирачандры; песня Говинды Кавираджи; Вирачандра и Шриниваса покидают Кхетури"
+  summary: "Сантоша облачает Вирачандру; киртан Нароттамы с Гокулой и Девидасом, Вирачандра танцует, хвалит Говинду Кавираджу («ты знаешь славу Нитьянанды»), Гокула поёт его песню; Рамачандра толкует раса-лилу; Вирачандра решает идти в Кхардаху через Экачакру; Шриниваса и Рамачандра уходят с ним через Падмавати, оставив при Нароттаме Харираму, Рамакришну, Ганганараяну и других."
+  persons: ["@virabhadra", "@srinivasa-acharya", "@narottama-dasa", "@govinda-kaviraja", "@ramachandra-kaviraja", "@santosha-datta", "@nityananda", "@harirama-acharya", "@ramakrishna-acharya", "@ganganarayana-chakravarti"]
+  places: ["#kheturi", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, ecstasy, separation]
+  event: ev-virachandra-yajigrama-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/11.md", from: "101", to: "196"}
+
+- id: nvl-0064
+  source: narottama-vilasa
+  ref: "Виласа 11, 197–225"
+  file: "narottama-vilasa/ru/11.md"
+  period: P15
+  order: 112
+  title: "Шриниваса уходит во Вриндаван, Рамачандра скрывается; плач Нароттамы"
+  summary: "Нароттама то спокоен, то в смятении; Рамачандра возвращается, затем уходит в Яджиграм; весть: Ачарья ушёл во Вриндаван, Рамачандра неотлучно с ним; Нароттама поёт «Гаурангера сахачара…» — и Рамачандра скрывается из виду; Нароттама рыдает в лесу."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@narasimha-raya", "@rupa-narayana", "@santosha-datta"]
+  places: ["#kheturi", "#yajigrama", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [departure, separation]
+  event: ev-srinivasa-ramachandra-disappearance
+  verses:
+    - {file: "narottama-vilasa/ru/11.md", from: "197", to: "225"}
+
+- id: nvl-0065
+  source: narottama-vilasa
+  ref: "Виласа 11, 226–319"
+  file: "narottama-vilasa/ru/11.md"
+  period: P15
+  order: 113
+  title: "Нароттама на костре в Гамбхиле встаёт по молитве Ганганараяны; брахманы-хулители становятся вайшнавами; молитвы Нароттамы спутникам Гауры и сакхи"
+  summary: "В Гамбхиле Нароттама в жару велит готовить костёр и через три дня «для глаз людей» оставляет тело; брахманы насмехаются над Ганганараяной; по его молитве Нароттама с именами «Радха-Кришна, Чайтанья» встаёт с костра; брахманы каются, получают бхакти, учатся у Ганганараяны; в Кхетури Нароттама молится Божествам, взывает к спутникам Гауры, Нитьянанды, Адвайты, к Госвами, сакхи и манджари, мечтает о служении Радхе-Кришне и о лилах Навадвипы; брахманы принимают посвящение."
+  persons: ["@narottama-dasa", "@ganganarayana-chakravarti", "@ramakrishna-acharya", "@govinda-kaviraja", "@narasimha-raya", "@santosha-datta", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@lokanatha"]
+  places: ["#gambhila", "#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [offense, mercy, deities]
+  teaching: [vaishnava]
+  event: ev-narottama-pyre-gambhila
+  verses:
+    - {file: "narottama-vilasa/ru/11.md", from: "226", to: "319"}
+
+- id: nvl-0066
+  source: narottama-vilasa
+  ref: "Виласа 11, 320–358"
+  file: "narottama-vilasa/ru/11.md"
+  period: P15
+  order: 114
+  title: "Сокрытие Нароттамы в водах Ганги у Гамбхилы; праздник в Кхетури, где он является в киртане"
+  summary: "Нароттама прощается с Божествами Кхетури, идёт через Будхари в Гамбхилу, садится в воду Ганги и велит Рамакришне и Ганганараяне омыть его — от их прикосновения растворяется, словно молоко; волны Ганги вздымаются, полубоги осыпают цветами; праздники в Гамбхиле и Кхетури: в киртане все видят танцующего Нароттаму, и он незаметно скрывается; затем утешает спутников во сне."
+  persons: ["@narottama-dasa", "@ramakrishna-acharya", "@ganganarayana-chakravarti", "@harirama-acharya", "@govinda-kaviraja", "@narasimha-raya", "@rupa-narayana", "@chand-raya", "@santosha-datta"]
+  places: ["#teliya-budhari", "#gambhila", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [departure, celestial, kirtan]
+  event: ev-narottama-disappearance
+  verses:
+    - {file: "narottama-vilasa/ru/11.md", from: "320", to: "358"}
