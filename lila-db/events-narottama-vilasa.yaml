@@ -121,3 +121,28 @@
   themes: [revelation, pilgrimage]
   bhava: [balarama]
   notes: "«Нароттама-виласа» 5."
+
+- id: ev-narottama-kirtan-style
+  title: "Нароттама создаёт свой стиль киртана перед Божеством Гауранги"
+  title_en: "Narottama creates his style of kirtana before the Deity of Gauranga"
+  period: P15
+  order: 91.5
+  themes: [kirtan, deities]
+  notes: "«Нароттама-виласа» 6: гандхарвы в облике людей приходят слушать (шлока Вишванатхи)."
+
+- id: ev-srinivasa-second-vrindavana
+  title: "Шриниваса после ухода Нарахари и Даса Гададхары снова идёт во Вриндаван; Рамачандра получает звание «Кавираджа»"
+  title_en: "After the passing of Narahari and Dasa Gadadhara Srinivasa goes again to Vrindavana; Ramachandra receives the title 'Kaviraja'"
+  period: P15
+  order: 96.5
+  themes: [departure, separation]
+  notes: "«Нароттама-виласа» 6 (в пересказе вестника)."
+
+- id: ev-kheturi-festival-invitations
+  title: "Встреча Нароттамы и Шринивасы в Будхари; приглашения на праздник в Кхетури"
+  title_en: "Narottama and Srinivasa meet at Budhari; invitations to the Kheturi festival"
+  period: P15
+  order: 104.5
+  calendar: "назначено на пхалгуна-пурниму"
+  themes: [festival]
+  notes: "«Нароттама-виласа» 6."

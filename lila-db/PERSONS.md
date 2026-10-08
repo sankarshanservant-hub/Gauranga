@@ -381,3 +381,15 @@
 | @mamu-thakura | Маму Госани (Маму Тхакур) | Mamu Gosani (Mamu Thakura) | служитель Тота-Гопинатхи в Пури после Гададхары Пандита |
 | @kanai-khutiya | Канаи Кхутия | Kanai Khutiya | служитель Джаганнатхи в Пури |
 | @vishnu-puri | Вишну Пури (Вишнупури) | Vishnu Puri (Vishnupuri) | санньяси в Каши, автор «Бхакти-ратнавали» (ЧЧ Ади 9; Приядас, к. 177) |
+| @durika | Дурика | Durika | мать Шьямананды (БР 1) |
+| @krishna-mandala | Кришна Мандал | Krishna Mandala | отец Шьямананды, садгоп из Дандешвара (БР 1) |
+| @harinarayana-raja | Харинараяна, царь | King Harinarayana | вайшнав, поклонник Рамы, ученик Рамачандры Кавираджи (БР 1) |
+| @dvija-haridasa | Харидас Ачарья (Двиджа Харидас) | Haridasa Acharya (Dvija Haridasa) | спутник Махапрабху, отец Гокулананды и Шридаса; не путать с @haridasa-thakura |
+| @gokulananda | Гокулананда Чакраварти | Gokulananda Chakravarti | сын Двиджи Харидаса, ученик Шринивасы Ачарьи |
+| @shridasa-chakravarti | Шридас (Чакраварти) | Shridasa (Chakravarti) | сын Двиджи Харидаса, ученик Шринивасы Ачарьи |
+| @kumara-deva | Кумара-дева | Kumara-deva | отец Санатаны, Рупы и Валлабхи (Анупамы) |
+| @madhusudana-vachaspati | Мадхусудана Вачаспати | Madhusudana Vachaspati | учитель Дживы Госвами в Каши (БР 1); не путать с @madhusudana-sarasvati |
+| @vasanta-dasa | Васанта (Дас) | Vasanta (Dasa) | поэт из брахманов, ученик Нароттамы |
+| @krishnadasa-adhikari | Кришнадас Адхикари | Krishnadasa Adhikari | ученик Дживы Госвами, перечислил книги Госвами (БР 1) |
+| @chaitanya-dasa-vamshi | Чайтанья Дас, сын Вамшиваданы | Chaitanya Dasa, son of Vamshivadana | приходит на праздник в Кхетури («Нароттама-виласа» 6); не путать с @chaitanya-dasa |
+| @balarama-pujari-kheturi | Баларама, пуджари в Кхетури | Balarama, the pujari of Kheturi | брахман, ученик Нароттамы, служитель Гауранги в Кхетури; не путать с @balarama |

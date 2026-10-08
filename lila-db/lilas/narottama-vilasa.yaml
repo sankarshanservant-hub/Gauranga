@@ -612,3 +612,126 @@
   event: ev-nityananda-shows-ekachakra
   verses:
     - {file: "narottama-vilasa/ru/05.md", from: "120", to: "161"}
+
+- id: nvl-0036
+  source: narottama-vilasa
+  ref: "Виласа 6, 1–40"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 104
+  title: "Сон Нароттамы: Божество Гауранги в амбаре; змеи исчезают, Гауранга входит в его объятия"
+  summary: "В Кхетури Господь во сне велит Нароттаме взять Его металлическое Божество из большого амбара богатого домохозяина, где никто не смеет ходить из-за огромной змеи, и велит изваять других Божеств; при приближении Нароттамы змеи исчезают, Божество Гауранги с Возлюбленной молнией входит к нему в объятия; люди славят Нароттаму."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@santosha-datta"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: B
+  themes: [deities, celestial]
+  divergence: "В «Према-виласе» — Божество из амбара Випрадаса, изваянное Самим Господом; здесь имя хозяина не названо."
+  event: ev-kheturi-six-deities
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "1", to: "40"}
+
+- id: nvl-0037
+  source: narottama-vilasa
+  ref: "Виласа 6, 41–60"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 91.5
+  title: "Нароттама создаёт новый киртан; гандхарвы в облике людей; первые ученики"
+  summary: "Перед Божеством в Нароттаме пробуждается вся наука пения, пляски и музыки, и он поёт о Гауре; его взгляд делает певцами даже злодеев, боги сыплют цветы, гандхарвы и киннары приходят в облике людей и падают к его стопам; Баларама и другие принимают мантру; Нароттама поручает служение Гауранге пуджари Балараме, по сну являет ещё пять служений и тревожится о вестях от Шринивасы."
+  persons: ["@narottama-dasa", "@balarama-pujari-kheturi", "@srinivasa-acharya"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  scriptures: ["«Ставамрита-лахари» (Нароттама-аштака)"]
+  themes: [kirtan, deities]
+  event: ev-narottama-kirtan-style
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "41", to: "60"}
+
+- id: nvl-0038
+  source: narottama-vilasa
+  ref: "Виласа 6, 61–98"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 96.5
+  title: "Вестник из Яджиграма: женитьба Шринивасы, Рамачандра, уход Нарахари и Даса Гададхары, второй путь Шринивасы во Вриндаван"
+  summary: "Вестник рассказывает: по настоянию Нарахари Саркара Шриниваса женился; учеником его стал Рамачандра, сын Чиранджива Сены; после ухода Нарахари, Даса Гададхары и многих спутников Шриниваса тайно ушёл во Вриндаван, куда пришёл и Рамачандра, получивший от Госвами звание «Кавираджа»; Шриниваса вернулся с книгами, успокоил царя в Вишнупуре; письмо Шринивасы: в Канчанагадии его учениками стали Шридас и Гокулананда, сыновья брахмана Харидаса; он в Будхари."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@narahari-sarakara", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gadadhara-dasa", "@jiva-gosvami", "@gopala-bhatta", "@lokanatha", "@vira-hambira", "@dvija-haridasa", "@shridasa-chakravarti", "@gokulananda"]
+  places: ["#yajigrama", "#vrindavana", "#kanchanagaria", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  divergence: "В «Према-виласе» весть о женитьбе приносит Чайтанья Дас Аулия; здесь женитьбы требует Нарахари Саркар."
+  themes: [family, departure]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "61", to: "98"}
+
+- id: nvl-0039
+  source: narottama-vilasa
+  ref: "Виласа 6, 99–137"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 104.5
+  title: "Нароттама и Шриниваса в Будхари; праздник назначен на пхалгуна-пурниму, рассылка приглашений"
+  summary: "Нароттама с Девидасом, Гокулой и Гаурангой идёт в Будхари; Шриниваса сводит его с Рамачандрой (одно тело и ум с Нароттамой), рассказывает о Вриндаване; Нароттама — о Божествах и приготовлениях; праздник назначают на пхалгуна-пурниму, рассылают приглашения по Гауде и Шьямананде в Уткалу; люди говорят, что Шриниваса, Нароттама и Рамачандра — одна сущность в трёх."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@santosha-datta", "@shyamananda", "@shridasa-chakravarti", "@gokulananda", "@vyasa-acharya"]
+  places: ["#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна-пурнима (назначенный день праздника)"
+  themes: [festival]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "99", to: "137"}
+
+- id: nvl-0040
+  source: narottama-vilasa
+  ref: "Виласа 6, 138–177"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 104.6
+  title: "Шриниваса и Шьямананда с учениками приходят в Кхетури"
+  summary: "Шриниваса с Говиндой и другими входит в Кхетури и видит Гаурангу с Лакшми и Вишнуприей и пять других Божеств; приходит Шьямананда из Уткалы с Расиканандой и учениками, Нароттама знакомит его со всеми вайшнавами и поручает Расикананде заботу о гостях; ученики Шьямананды вносят свои припасы в кладовую."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@rasikananda", "@govinda-kaviraja", "@ramachandra-kaviraja", "@gopijanavallabha-chattaraja"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [festival, deities]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "138", to: "177"}
+
+- id: nvl-0041
+  source: narottama-vilasa
+  ref: "Виласа 6, 178–296"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 104.7
+  title: "Путь Джахнавы в Кхетури: небесный голос в Кхардахе, Амбика, Навадвипа, Акаихат, Катва (рассказ вестника)"
+  summary: "Вестник рассказывает: спутники Нитьянанды в Кхардахе просят Васудху и Джахнаву идти в Кхетури; при выходе голос с неба (Господа) обещает плясать в санкиртане в Кхетури и предсказывает путь Джахнавы во Вриндаван; в Амбике к ней присоединяются Хридая Чайтанья и Чайтанья Дас, сын Вамшиваданы; весть из Шантипура об Ачьютананде; в Навадвипе у Шривасы — Ачьютананда, Гопала, Шрипати, Шринидхи; в Акаихате — певец Кришнадас; в Катве у Ядунанданы — Рагхунандана, Ванинатха и другие; Джахнава сама готовит угощение Гауранге."
+  persons: ["@jahnava", "@vasudha", "@virabhadra", "@ganga-nityananda", "@parameshvara-dasa", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@vamshivadana", "@achyutananda", "@gopala-dasa-advaita", "@sita-thakurani", "@shripati", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@jnanadasa", "@mahaprabhu"]
+  places: ["#kharadaha", "#ambika-kalna", "#navadvipa", "#katwa"]
+  kind: post-advent
+  authority: B
+  themes: [festival, celestial, prasada]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "178", to: "296"}
+
+- id: nvl-0042
+  source: narottama-vilasa
+  ref: "Виласа 6, 297–328"
+  file: "narottama-vilasa/ru/06.md"
+  period: P15
+  order: 104.8
+  title: "Встреча Джахнавы и спутников у Кхетури; размещение гостей"
+  summary: "Шриниваса, Нароттама и Шьямананда встречают Джахнаву, Ачьютананду и других; объятия; Шриниваса размещает гостей и приставляет к каждой группе своих учеников (Рамачандру к Джахнаве, Шьямананду к Хридае Чайтанье и т. д.), выдаёт каждому кладовую. Подпись автора и колофон."
+  persons: ["@jahnava", "@achyutananda", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@karnapura-kaviraja", "@govinda-kaviraja", "@hridaya-chaitanya", "@vyasa-acharya", "@gokulananda", "@shridasa-chakravarti"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [festival]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/06.md", from: "297", to: "328"}
