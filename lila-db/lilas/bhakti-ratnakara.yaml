@@ -765,3 +765,354 @@
   event: ev-srinivasa-birth
   verses:
     - {file: "bhakti-ratnakara/ru/01.md", from: "859", to: "893"}
+
+- id: brt-0044
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 1–20"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: PX
+  order: 33
+  title: "Слава Гауре-Кришне и Его спутникам (начало 2-й таранги)"
+  summary: "Перечень спутников Господа и последователей — от Нитьянанды и Адвайты до Шринивасы, Нароттамы и Шьямананды; обращение к слушателям."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "1", to: "20"}
+
+- id: brt-0045
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 21–60"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P08
+  order: 41
+  title: "Гангадхара Бхаттачарья на санньясе Господа в Катве обезумел и стал Чайтаньей Дасом"
+  summary: "Брахман Гангадхара из Чакханди видит в Катве санньясу Господа (Кешава Бхарати, цирюльник, плач толпы, дождь без туч — плач богов); услышав имя «Чайтанья», он, как безумный, твердит его, и в Чакханди люди начинают звать его Чайтанья Дас."
+  persons: ["@chaitanya-dasa", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#katwa", "#chakhandi"]
+  kind: lila
+  authority: B
+  themes: [sannyasa, separation]
+  cb: "Мадхья 28"
+  event: ev-gangadhara-becomes-chaitanya-dasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "21", to: "60"}
+
+- id: brt-0046
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 61–140"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 94
+  title: "Чайтанья Дас и Лакшмиприя идут в Пури; Господь возвещает рождение Шринивасы"
+  summary: "Бездетные Чайтанья Дас и Лакшмиприя через Яджиграм (отец Лакшмиприи Баларама) идут в Нилачалу; в пути — видение Кришны, Гауры, санньяси и Джаганнатхи; у Львиных ворот Господь милостиво говорит с ними, велит Говинде устроить даршан Джаганнатхи; в бхаве Господь открывает Говинде, что у брахмана родится сын Шриниваса — воплощение Его чистой премы, через которого будут розданы книги; Джаганнатха во сне велит идти в Гауду."
+  persons: ["@chaitanya-dasa", "@lakshmipriya-chakhandi", "@balarama-yajigrama", "@mahaprabhu", "@govinda-servant", "@jagannatha-deity", "@srinivasa-acharya"]
+  places: ["#chakhandi", "#yajigrama", "#puri", "#house-kashi-mishra"]
+  kind: prophecy
+  authority: B
+  divergence: "В «Према-виласе» (1) сын дан через Джаганнатху и Землю иначе."
+  themes: [revelation, jagannatha]
+  event: ev-prema-for-srinivasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "61", to: "140"}
+
+- id: brt-0047
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 141–169"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 99
+  calendar: "вайшакха, пурнима; накшатра Рохини"
+  title: "Рождение Шринивасы в Чакханди"
+  summary: "Насмешки сельчан над бедным бездетным брахманом; Лакшмиприя зачинает; в полнолуние вайшакхи под Рохини рождается сын, отец во сне видит тайны, родители вручают его стопам Гауры; первое кормление рисом, имя Шриниваса."
+  persons: ["@srinivasa-acharya", "@chaitanya-dasa", "@lakshmipriya-chakhandi", "@balarama-yajigrama"]
+  places: ["#chakhandi"]
+  kind: post-advent
+  authority: B
+  themes: [family]
+  event: ev-srinivasa-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "141", to: "169"}
+
+- id: brt-0048
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 170–207"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P15
+  order: 45
+  title: "Детство и учёба Шринивасы; мать учит его именам Гауры; любовь сельчан и преданных"
+  summary: "Мать учит младенца произносить имена Гауры, Нитьянанды, Адвайты, Радхи и Кришны; в пять лет — начало учёбы, учитель Дхананджая Видья-вачаспати; чудакарана, шнур; быстрое овладение шастрами; старики хвалят его красоту; Говинда Гхош и другие рассказывают ему о Гауре."
+  persons: ["@srinivasa-acharya", "@lakshmipriya-chakhandi", "@chaitanya-dasa", "@dhananjaya-vidyanivasa", "@govinda-ghosha"]
+  places: ["#chakhandi"]
+  kind: post-advent
+  authority: B
+  divergence: "Учитель назван Дхананджая Видья-вачаспати (в «Према-виласе» — Дхананджая Видьянивас)."
+  themes: [learning, family]
+  event: ev-srinivasa-schooling
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "170", to: "207"}
+
+- id: brt-0049
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 208–226"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P15
+  order: 50
+  title: "Шриниваса встречает Нарахари Саркара в Яджиграме"
+  summary: "Нарахари и Рагхунандана из Шрикханды жаждут увидеть Шринивасу; в Яджиграме Нарахари, идущий на Гангу, обнимает его и велит идти домой; шлоки ГГД, Рупы и Карнапуры о Нарахари — Мадхумати."
+  persons: ["@srinivasa-acharya", "@narahari-sarakara", "@raghunandana"]
+  places: ["#yajigrama", "#shrikhanda", "#chakhandi"]
+  kind: post-advent
+  authority: B
+  themes: [mercy]
+  event: ev-srinivasa-meets-narahari
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "208", to: "226"}
+
+- id: brt-0050
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 227–253"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P05
+  order: 62
+  title: "Рассказ Чайтаньи Даса: Нимай Пандит побеждает дигвиджаи"
+  summary: "Чайтанья Дас вспоминает, как учился в Навадвипе среди гордых логиков и молил Творца сокрушить их гордыню; пришёл дигвиджаи, покровительствуемый Сарасвати; Нимай Пандит попросил описать величие Ганги, указал три ошибки в шлоке, Сарасвати открыла дигвиджаи, кто такой Господь; учителя признали божественность Нимая."
+  persons: ["@chaitanya-dasa", "@mahaprabhu", "@keshava-kashmiri"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказ участника-свидетеля (по повествованию)."
+  themes: [learning]
+  cc: "Ади 16"
+  event: ev-keshava-kashmiri-defeat
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "227", to: "253"}
+
+- id: brt-0051
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 254–264"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P07
+  order: 10
+  title: "Гая и явление премы; Господь открывается преданным (кратко)"
+  summary: "Господь идёт в Гаю и, вернувшись, проповедует прему; Шривас, Гададхара, Мурари, Харидас, Шукламбара, Адвайта и Нитьянанда узнают Его; игры в Навадвипе."
+  persons: ["@mahaprabhu", "@srivasa", "@gadadhara-pandita", "@murari-gupta", "@haridasa-thakura", "@shuklambara", "@advaita", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Упоминание."
+  themes: [revelation]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "254", to: "264"}
+
+- id: brt-0052
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 265–295"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P07
+  order: 121
+  title: "Освобождение Джагая и Мадхая (рассказ Чайтаньи Даса)"
+  summary: "Господь спасает не оружием, а премой; Нитьянанда и Харидас по велению Господа проповедуют имя; Мадхай ранит Нитьянанду, Господь в гневе, но по милости Нитьянанды прощает братьев; они подметают гхат на Ганге и становятся спутниками Господа; студенты-насмешники дивятся."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@jagai-madhai", "@chaitanya-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [mercy, offense]
+  cb: "Мадхья 13"
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "265", to: "295"}
+
+- id: brt-0053
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 296–318"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P07
+  order: 122.5
+  title: "Ночное шествие с киртаном и усмирение Кази (рассказ Чайтаньи Даса)"
+  summary: "Кази, любимец царя Гауды, запрещает киртан; ночью Господь с сотнями тысяч людей и светильников идёт с киртаном, ломают дом Кази; накануне Кази видел Господа Нрисимхой; Кази в слезах предаётся Господу и получает милость."
+  persons: ["@mahaprabhu", "@chand-kazi", "@chaitanya-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  divergence: "Видение Нрисимхи Кази здесь — накануне шествия."
+  themes: [kirtan, muslims]
+  cb: "Мадхья 23"
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "296", to: "318"}
+
+- id: brt-0054
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 319–343"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P08
+  order: 41
+  title: "Чайтанья Дас рассказывает сыну, как видел санньясу Господа в Катве"
+  summary: "Чайтанья Дас, бывавший у Кешавы Бхарати в Катве, видит толпы, бегущие к Бхарати, созерцает красоту Гаурасундары, узнаёт о санньясе и видит, как цирюльник бреет Господа; рассказывая, он теряет сознание."
+  persons: ["@chaitanya-dasa", "@mahaprabhu", "@keshava-bharati", "@srinivasa-acharya"]
+  places: ["#katwa", "#yajigrama"]
+  kind: lila
+  authority: B
+  themes: [sannyasa, separation]
+  event: ev-gangadhara-becomes-chaitanya-dasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "319", to: "343"}
+
+- id: brt-0055
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 344–363"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P15
+  order: 45.5
+  title: "Отец рассказывает Шринивасе об играх Господа; Чайтанья Дас собирается во Вриндаван"
+  summary: "Шриниваса плачет, слушая; отец рассказывает о Нилачале, Нитьянанде, Адвайте, о Враджа-лиле и причине нисхождения; Шриниваса молит о сотнях тысяч ушей; отец, вверив ему мать, хочет уйти во Вриндаван и начинает рассказ о Рупе и Санатане."
+  persons: ["@srinivasa-acharya", "@chaitanya-dasa"]
+  places: ["#chakhandi"]
+  kind: post-advent
+  authority: B
+  themes: [family, separation]
+  event: ev-srinivasa-schooling
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "344", to: "363"}
+
+- id: brt-0056
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 364–390"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P13
+  order: 11.5
+  title: "Чайтанья Дас с учителем в Рамакели у Рупы и Санатаны; их отречение"
+  summary: "Учителя Навадвипы и Чакханди ездят в Рамакели; Рупа и Санатана, министры, подобные Индре, принимают их с почётом, смиренны и учёны; после санньясы Господь приходит в Рамакели, затем идёт во Вриндаван — и братья оставляют всё."
+  persons: ["@chaitanya-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@mahaprabhu"]
+  places: ["#ramakeli", "#chakhandi"]
+  kind: lila
+  authority: B
+  notes: "Предыстория встречи в Рамакели — со слов свидетеля."
+  themes: [learning]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "364", to: "390"}
+
+- id: brt-0057
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 391–403"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P13
+  order: 12.5
+  title: "Рупа в Праяге, Санатана в Каши; молва об отречении братьев (кратко)"
+  summary: "Рупа с Анупамой встречает Господа в Праяге, Санатана тайно уходит и встречает Господа в Каши; вся Гауда толкует об их отречении, учителя покидают Рамакели; во Вриндаване Рупа и Санатана являют замысел Господа."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@anupama", "@mahaprabhu"]
+  places: ["#prayaga", "#kashi", "#ramakeli", "#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [sannyasa]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "391", to: "403"}
+
+- id: brt-0058
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 404–436"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 17.3
+  title: "Явление Говинды-девы на Гомаитиле"
+  summary: "Открыв утраченные тиртхи, Рупа ищет Говинду, Который по шастрам вечно на йогапитхе; прекрасный юноша-враджаваси указывает ему Гомаитилу, где корова каждое утро отдаёт молоко, и исчезает; жители Враджа раскапывают землю, Баларама велит смотреть в середине — является Говинда; толпы людей и богов; Рупа шлёт письмо Господу в Пури (пересказ и шлоки «Садхана-дипики»)."
+  persons: ["@rupa-gosvami", "@govinda-deity", "@balarama", "@radha-krishna-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana", "#gomatila"]
+  kind: miracle
+  authority: B
+  themes: [deities, revelation]
+  event: ev-govinda-deva-appearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "404", to: "436"}
+
+- id: brt-0059
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 437–448"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 17.4
+  title: "Гаура-Говинда: Господь даёт Кашишваре Своё Божество для Вриндавана"
+  summary: "Прочитав письмо Рупы, Господь велит Кашишваре идти во Вриндаван; тот не может расстаться с Господом, и Господь даёт ему Божество — Свой облик (по «Садхана-дипике» — Божество Кришны, стоявшее рядом с Джаганнатхой), вкушает вместе с Ним; Кашишвара ставит Гаура-Говинду справа от Говинды."
+  persons: ["@mahaprabhu", "@kashishvara", "@gaura-govinda-deity", "@govinda-deity", "@rupa-gosvami"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [deities, separation]
+  event: ev-gaura-govinda-kashishvara
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "437", to: "448"}
+
+- id: brt-0060
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 449–453"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 17.45
+  title: "Вринда-деви является Рупе во сне и проявлена у Брахма-кунды"
+  summary: "Вринда во сне открывается Рупе, и он являет её у Брахма-кунды; шлоки «Садхана-дипики» о её облике рядом с Говиндой и о величии её стоп."
+  persons: ["@rupa-gosvami", "@vrinda-devi", "@govinda-deity"]
+  places: ["#vrindavana", "#brahma-kunda"]
+  kind: miracle
+  authority: B
+  themes: [deities]
+  event: ev-vrinda-devi-rupa
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "449", to: "453"}
+
+- id: brt-0061
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 454–472"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 17
+  title: "Мадана-гопал приходит к Санатане из Махавана; храм Кришнадаса Капура"
+  summary: "Санатана в Махаване видит Мадана-гопала играющим с мальчиками; во сне Тот говорит, что Ему по душе хижина Санатаны, и наутро приходит; Санатана печалится, что кормит Его сухими лепёшками; богач Кришнадас Капур из Мултана предаётся Санатане и строит храм, даёт украшения и припасы."
+  persons: ["@sanatana-gosvami", "@madana-mohana-vrindavana", "@krishnadasa-kapur"]
+  places: ["#gokula", "#vrindavana"]
+  kind: miracle
+  authority: B
+  divergence: "В других источниках Мадана-мохан приходит к Санатане из дома Дамодары Чаубе в Матхуре; здесь — из Махавана, по сну."
+  themes: [deities]
+  event: ev-madana-mohana-chaube
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "454", to: "472"}
+
+- id: brt-0062
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 473–483"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P14
+  order: 17.6
+  title: "Явление Гопинатхи Мадху Пандиту у Вамшивата"
+  summary: "Кришна покорен любви Парамананды Бхаттачарьи и Мадху Пандита; у Вамшивата Гопинатха внезапно даёт даршан, и Мадху Пандит получает право служить Ему (шлока «Садхана-дипики»); сотни тысяч людей приходят на даршан."
+  persons: ["@madhu-pandita", "@paramananda-bhattacharya", "@gopinatha-vrindavana"]
+  places: ["#vamshivata", "#vrindavana"]
+  kind: miracle
+  authority: B
+  themes: [deities]
+  event: ev-gopinatha-madhu-pandita
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "473", to: "483"}
+
+- id: brt-0063
+  source: bhakti-ratnakara
+  ref: "Таранга 2, 484–491"
+  file: "bhakti-ratnakara/ru/02.md"
+  period: P15
+  order: 45.6
+  title: "Тоска отца и сына по Вриндавану; подпись и колофон"
+  summary: "Чайтанья Дас мечтает уйти во Вриндаван, отец и сын плачут; слушающий их беседу обретает бхакти; подпись автора и колофон таранги."
+  persons: ["@chaitanya-dasa", "@srinivasa-acharya", "@narahari-chakravarti"]
+  places: ["#chakhandi"]
+  kind: post-advent
+  authority: B
+  themes: [separation, family]
+  event: ev-srinivasa-schooling
+  verses:
+    - {file: "bhakti-ratnakara/ru/02.md", from: "484", to: "491"}

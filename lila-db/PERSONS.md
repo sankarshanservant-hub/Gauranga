@@ -466,3 +466,8 @@
 | @vishveshvarananda | Вишвешварананда | Vishveshvarananda | санньяси (ванданы) |
 | @chand-kazi | Чанд Кази (правитель Навадвипы) | Chand Kazi (the ruler of Navadvipa) | запретил киртан, усмирён Господом |
 | @gopala-chapala | Гопала Чапала | Gopala Chapala | брахман Навадвипы, оскорбивший Шривасу; поражён проказой |
+| @balarama-yajigrama | Баларама (Шарма) из Яджиграма | Balarama (Sharma) of Yajigrama | брахман, отец Лакшмиприи, дед Шринивасы по матери (БР 2) |
+| @paramananda-bhattacharya | Парамананда Бхаттачарья | Paramananda Bhattacharya | вайшнав во Вриндаване, друг Мадху Пандита; дал Рамачандре звание Кавираджи (БР 1–2); ср. учителя Санатаны с тем же именем (БР 1.602) |
+| @krishnadasa-kapur | Кришнадас Капур | Krishnadasa Kapur | богатый кшатрий из Мултана, построивший храм Мадана-мохана по милости Санатаны (БР 2) |
+| @gaura-govinda-deity | Гаура-Говинда — Божество Махапрабху во Вриндаване | Gaura-Govinda, the Deity of Mahaprabhu in Vrindavana | данное Господом Кашишваре и стоящее справа от Говинды-девы (БР 2, «Садхана-дипика») |
+| @radha-krishna-gosvami | Радха-Кришна Госвами | Radha-Krishna Gosvami | автор «Садхана-дипики», ученик Харидаса Пандита (служителя Говинды) |

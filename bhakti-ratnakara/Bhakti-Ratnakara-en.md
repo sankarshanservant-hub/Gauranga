@@ -34,6 +34,7 @@ notes at the end of each taranga.
 ## Contents
 
 - Taranga 1. The Mangalacharana, Accounts of Various Matters, and a Brief Statement of the Birth of Srinivasa Acharya and Other Events
+- Taranga 2. An Account of the Birth of Srinivasa and Other Matters; the Appearance of Sri Govinda and the Other Deities in Vrindavana
 
 ---
 
@@ -2795,3 +2796,1486 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^01-68]: The concluding verse of the Stava-mala as collected by Jiva Gosvami. "The middle Gosvami" (827) is Rupa, the middle of the three brothers.
 [^01-69]: Verses 843–851 continue the same list (from the conclusion of the Laghu-toshani). "The two champus" are the two parts of the Gopala-champu; "Brahma's Samhita" is the Brahma-samhita.
 [^01-70]: Cf. the Prema-vilasa on Srinivasa's marriage. It is told in detail in the thirteenth taranga.
+
+---
+
+# Taranga 2. An Account of the Birth of Srinivasa and Other Matters; the Appearance of Sri Govinda and the Other Deities in Vrindavana
+
+*Glory to the Lord and His associates; the brahmana Gangadhara witnesses the Lord's sannyasa at Katwa and becomes Chaitanya Dasa; the birth, childhood and studies of Srinivasa; the meeting with Narahari Sarakara; Rupa and Sanatana in Vraja; the appearance of Govinda, Madanamohana and Gopinatha*
+
+**1.** Glory, glory to Gaura-Krishna, the enchanter of the worlds,
+the Lord of Nadia, the life of His devotees!
+
+**2.** Glory, glory to Nityananda-deva, Haladhara!
+Glory, glory to Sri Advaita Acharya, the Lord!
+
+**3.** Glory, glory to Gadadhara Pandita and Srivasa!
+Glory to Sri Svarupa, Vakreshvara and Haridasa!
+
+**4.** Glory to Vasudeva Sarvabhauma, [like] Brihaspati!
+Glory to Raya Ramananda, the embodiment of rasa!
+
+**5.** Glory to the great-hearted Pundarika Vidyanidhi!
+Glory to the noble Sri Jagadananda Pandita!
+
+**6.** Glory to Vidya-vachaspati, renowned in the world!
+Glory, glory to the generous Shrinatha Chakravarti!
+
+**7.** Glory to Gadadhara Dasa and Narahari Dasa!
+Glory to Sri Mukunda, worthy of prema-bhakti!
+
+**8.** Glory to Vasu Ghosha, Gauridasa and Dhananjaya!
+Glory to Vanamali and Sri Garuda Mahashaya!
+
+**9.** Glory, glory to Vallabha Acharya and Sanatana!
+Glory to the brahmana Haridasa and to the son of the Acharya!
+
+**10.** Glory, glory to the merciful Rupa and Sanatana!
+Glory to Sri Gopala Bhatta, the abode of prema!
+
+**11.** Glory to Raghunatha Bhatta and Raghunatha Dasa!
+Glory to Sri Jiva, whose pastimes are wondrous!
+
+**12.** Glory to Sri Bhugarbha, Lokanatha and Shashthidhara!
+Glory to Sri Subuddhi Mishra and Sri Chandrashekhara!
+
+**13.** Glory to Kashi Mishra, Gopikanta and Bhagavan!
+Glory to the lotus-eyed Hridayananda!
+
+**14.** Glory to Jagannatha Sena and Sri Madhusudana!
+Glory to Chiranjiva Sena and Sri Raghunandana!
+
+**15.** Glory to Sri Saranga and Abhirama, jewel of virtues!
+Glory to Sri Thakura Vrindavana, the treasury of prema!
+
+**16.** Glory to Krishnadasa Kaviraja Mahashaya!
+Glory to Sri Acharya Srinivasa, full of prema!
+
+**17.** Glory to Sri Thakura Mahashaya Narottama!
+Glory to Shyamananda, the charming embodiment of bhakti!
+
+**18.** Glory, glory to the devotees of Sri Gaurachandra:
+all of them give prema-bhakti and purify the fallen!
+
+**19.** Countless are Chaitanya's devotees, boundless their deeds;
+Sri Krishna Chaitanya-chandra is everything to them.
+
+**20.** Glory, glory to the listeners, abodes of virtue!
+Now listen with kind hearts to what I shall tell.
+
+**21.** On the bank of the Bhagirathi is the village of Sri Chakhandi;
+there lives a brahmana named Sri Chaitanya Dasa.
+
+**22.** Formerly he was called Gangadhara Bhattacharya;
+listen to how he received this name.
+
+**23.** The moon of Navadvipa, Gaura, the ocean of virtues,
+was playing ceaselessly in Nadia with His associates.
+
+**24.** Having somehow made known to all what was in His heart,
+He came to Kantaka-nagara, where Sri Bharati was.[^02-1]
+
+**25.** "Gaura-raya will accept sannyasa!" —
+the word spread everywhere, and hearing it people come running.
+
+**26.** Children, youths, old people, men and women —
+all were enchanted on seeing Gaura.
+
+**27.** Gazing at His beautiful curling hair,
+all stand like painted dolls.
+
+**28.** How fearful men and women were at heart —
+who can tell it with one mouth?
+
+**29.** The all-knowing Gaurachandra says to everyone:
+"Give Me your blessing that I may have bhakti for Krishna."
+
+**30.** Having said this, the Lord stays with Bharati
+and says to Bharati: "There is no need for delay."
+
+**31.** Bharati is distraught and cannot say anything;
+at the Lord's command the barber came.
+
+**32.** Not daring to disobey, he bowed at His feet,
+placed his hand on the Lord's head — and burst into tears.
+
+**33.** By the Lord's will he shaved off His hair
+and rolls on the ground: "What have I done, what have I done!"
+
+**34.** Seeing that the Lord's head was bare of hair,
+the people all around weep.
+
+**35.** The earth was soaked with the tears of countless people;
+in the uproar of weeping no one hears anything.
+
+**36.** Neither men nor women can restrain themselves:
+they beat their heads and revile the Creator.
+
+**37.** Gangadhara Bhattacharya was there;
+seeing the Lord's sannyasa, he weeps aloud.
+
+**38.** The brahmana was bathed in the tears of both his eyes
+and fell unconscious to the ground.
+
+**39.** Only by the Lord's will did he remain alive,
+and after some time he partly came to his senses.
+
+**40.** The Lord received the name Sri Krishna Chaitanya,
+and the name "Sri Chaitanya" entered the brahmana's ears.
+
+**41.** The brahmana repeats the name of Sri Chaitanya again and again,
+and tears flow from his eyes without cease.
+
+**42.** He cannot stay in Kantaka-nagara
+and, like a madman, walks along the bank of the Ganga.
+
+**43.** He calls out constantly, "Chaitanya! Chaitanya!" —
+and neither bathing nor eating nor anything else appeals to him.
+
+**44.** In this way he came to the village of Chakhandi;
+seeing Gangadhara, everyone was amazed.
+
+**45.** Watching Gangadhara Bhattacharya from a distance,
+a most sattvic brahmana
+
+**46.** says to another: "What a wonder is this?
+Gangadhara Bhattacharya has lost his mind!"
+
+**47.** The other says: "Why he has lost his mind
+I know something of — listen attentively.
+
+**48.** In Nadia there is Nimai Pandita, a portion of God,
+supremely beautiful, radiant as the sun.
+
+**49.** His power is known to the whole world;
+leaving home, he came to Kantaka-nagara.
+
+**50.** His wondrous attire, enchanting Kandarpa,
+he gave up and accepted sannyasa.
+
+**51.** Sri Keshava Bharati gave him sannyasa
+and named the pandita Sri Krishna Chaitanya.
+
+**52.** Seeing the sannyasa, no one could restrain himself:
+all around people wept in distress.
+
+**53.** Standing on the path of the sky the gods wept:
+rain fell without clouds — so people judged then.
+
+**54.** When the hair disappeared, Gangadhara lost all composure
+and, crying 'Ha, Chaitanya!', at that very moment went mad.
+
+**55.** He has given up all activities, his eyes stream ceaselessly;
+I see no way for him to be well."
+
+**56.** Someone says: "He is Chaitanya's servant;
+Chaitanya will make him well, so I think."
+
+**57.** Saying such things, many [people] call the brahmana Gangadhara
+"Sri Chaitanya Dasa" again and again.
+
+**58.** Hearing himself called "Sri Chaitanya Dasa",
+he responds, and his heart rejoices without cease.
+
+**59.** No one any longer uses Gangadhara's former name:
+everyone calls him "Sri Chaitanya Dasa".
+
+**60.** Thus he received the name "Sri Chaitanya Dasa";
+after some time, recovering himself, he settled in the village.
+
+**61.** From a very old brahmana of the village of Chakhandi
+I heard all this.
+
+**62.** Extraordinary is the bhakti of Chaitanya Dasa,
+and so too is his chaste wife Lakshmipriya.
+
+**63.** They were childless, yet they had no desires at all;
+by the Lord's will the desire for a son arose.
+
+**64.** The brahmana Sri Chaitanya Dasa says to his wife:
+"Why has the desire for a son suddenly arisen?
+
+**65.** My heart is troubled on account of a son;
+think it over and tell me how I may find peace."
+
+**66.** Lakshmipriya says: "Let us go quickly to Nilachala:
+by the darshan of the Lord everything will be fulfilled."[^02-2]
+
+**67.** Hearing this, Chaitanya Dasa rejoiced at heart,
+and the two of them set out in haste by way of Yajigrama.
+
+**68.** In Yajigrama lives the brahmana Balarama,
+the father of Sri Lakshmipriya, very pure in conduct.
+
+**69.** They stayed there two or four days
+and set out at a most auspicious moment.
+
+**70.** The brahmana saw his daughter and son-in-law off
+and humbly asked them to bow at the Lord's feet for him.
+
+**71.** The brahmana Sri Chaitanya Dasa, beside himself with joy,
+sees the most auspicious omens at the time of parting.
+
+**72.** Many people come and go to Nilachala;
+the two of them set out — a fine company of fellow travellers came together.
+
+**73.** One night husband and wife
+lament bitterly and weep:
+
+**74.** "We have wasted such a human birth,
+we never once remembered the Lord's lotus feet!
+
+**75.** Will we have the good fortune to see our fill
+of the sweetness of Sri Krishna Chaitanya and Jagannatha?"
+
+**76.** Having said many such things, the brahmana lay down to sleep,
+and in his sleep he sees a wondrous dream:
+
+**77.** youthful, in the form of beautiful Shyama,
+in the threefold-bending pose — the king of millions of Kandarpas;
+
+**78.** a peacock feather on His head, clad in yellow garments,
+the beauty of His face surpassing millions of moons;
+
+**79.** His body adorned with ornaments, anointed with sandal,
+He plays the flute, enchanting the whole world.
+
+**80.** Having seen Him thus, he sees Him again golden:
+He shines, surpassing pure gold,
+
+**81.** wearing cloth the colour of a cloud with a red border,
+and all else as before — a treasury of rasa.
+
+**82.** And again he sees the golden form in another attire:
+with staff and water-pot, His head shaven.
+
+**83.** And again he sees Him in a captivating dark form,
+with most beautiful eyes like lotus petals,
+
+**84.** together with Balabhadra and Subhadra;
+Brahma and others with joyful hearts offer praise.[^02-3]
+
+**85.** So the best of brahmanas sees many mysteries;
+suddenly waking, he is in turmoil.
+
+**86.** Lakshmipriya comforted him in every way,
+and in the morning the brahmana went on with joy at heart.
+
+**87.** After some time they arrived in Nilachala,
+their hearts longing to see the Lord.
+
+**88.** The all-knowing Lord, by that very road at the Lion Gate,
+comes with His dear associates.
+
+**89.** What a wondrous gait, surpassing the step of the king of elephants!
+The earth considers itself blessed by the touch of His feet.
+
+**90.** His golden body surpasses a mountain of gold,
+His radiance surpasses the morning sun.
+
+**91.** How many moons rise in His face!
+From His sweet smile nectar ever rains down.
+
+**92.** The gleam of His teeth steals Kandarpa's pride;
+who can stay composed seeing the beauty of His nose?
+
+**93.** His two lotus eyes reach to His ears,
+on His forehead a sandal tilaka sparkles.
+
+**94.** At His neck is a tulasi garland that enchants the worlds;
+seeing His broad chest, Kama faints.
+
+**95.** He wears a captivating cloth the colour of dawn,
+His arms reach to His knees, surpassing an elephant's trunk.
+
+**96.** Wondrous is the beauty of His waist with its three folds;
+at the lotus of His navel a line of hair winds like bees.
+
+**97.** His slender waist steals the lion's pride,
+His thighs are sweet, surpassing banana stems.
+
+**98.** His beautiful feet, cherished by Lakshmi,
+light up the earth with the radiance of their nails.
+
+**99.** At such a Gaurachandra the brahmana and his wife,
+standing to one side, gaze without blinking.
+
+**100.** On whatever limb the glance falls, there it stays;
+tears of joy flow from their eyes without cease.
+
+**101.** What became of them on seeing that head without hair —
+who can tell?
+
+**102.** Prabhu Sri Krishna Chaitanya, glancing from the corner of His eye,
+rained the nectar of mercy on the fortunate brahmana.
+
+**103.** In sweet words He speaks to the brahmana, comforting him:
+"Jagannatha has gladly brought you here.
+
+**104.** Go, go, have the darshan of Jagannatha:
+Sri Padmalochana will fulfil your desire."
+
+**105.** Hearing the words from the moon-like mouth,
+the best of brahmanas fell to the ground and bowed again and again.
+
+**106.** Body, mind and life he gave to the Lord's feet,
+and the all-knowing Lord accepted the brahmana as His own.
+
+**107.** The Lord says to Govinda: "This brahmana is simple-hearted:
+arrange for him the darshan of Jagannatha without hindrance."
+
+**108.** Having said this, Gaurachandra with His devotees
+set out for the darshan of Nilachala-chandra.
+
+**109.** Sri Chaitanya Dasa bowed to the Lord's associates;
+how humbly he behaved cannot be told.
+
+**110.** Seeing Chaitanya Dasa's conduct, all
+treated him as was fitting, and he became close to all.
+
+**111.** At the Lord's command, together with the Lord's associates,
+the brahmana went for the darshan of Jagannatha.
+
+**112.** Seeing both in one place — the moving and the unmoving Brahman —
+the brahmana felt joy without end.
+
+**113.** He offered many prayers in secret;
+smiling, Gaurahari looks at the brahmana.
+
+**114.** He entrusted the brahmana to Jagannatha's feet
+and by a hint told him to go to Gauda.
+
+**115.** Having seen Jagannatha, the Lord with His devotees
+came to the house of His dear Kashi Mishra.
+
+**116.** Sri Chaitanya Dasa, having received the Lord's command,
+went to his lodging in great joy.
+
+**117.** The devotees went to their own lodgings,
+talking to one another about the brahmana.
+
+**118.** The next day they all said to Govinda:
+"We cannot understand what this brahmana prayed for."
+
+**119.** Govinda says: "There is a mystery in this;
+by the Lord's will it will surely be revealed."
+
+**120.** At that very time the Lord called Govinda
+and, absorbed in bhava, speaks in a deep voice:
+
+**121.** "This brahmana came desiring a son;
+a son named Srinivasa will be born to him.
+
+**122.** Through Sri Rupa and others I shall reveal the shastras of bhakti,
+and through Srinivasa I shall distribute the jewels of the books.
+
+**123.** Srinivasa is the embodiment of My pure prema;
+seeing him, all will rejoice at heart.
+
+**124.** Let the brahmana go quickly to Gauda."
+Having said many such things, He restrained His bhava.
+
+**125.** Meanwhile, in a dream there came Jagannatha's command:
+"Do not delay, brahmana, go to Gauda.
+
+**126.** A son full of prema will be born to you;
+in a short time he will be victorious in all the shastras."
+
+**127.** Having seen such a dream, the brahmana thinks to himself:
+"How can I leave this happiness and go?
+
+**128.** The son of the king of Vraja, Gaurachandra, Jagannatha,
+has accepted such a wretch as me as His own."
+
+**129.** Speaking of the Lord's beautiful and auspicious life,
+the brahmana and his wife weep in rapture.
+
+**130.** At that time Govinda came there
+and carefully brought the brahmana to the Lord.
+
+**131.** The Lord, sending His servant with His dear brahmana,
+had him shown Nilachala-chandra and brought back.
+
+**132.** Smiling, He says: "Jagannatha is pleased with you;
+soon your desire will be fulfilled.
+
+**133.** Go quickly to Gauda
+and perform the sankirtana of the holy name without cease."
+
+**134.** Having said this, the Lord sent the brahmana off;
+the brahmana departs, humbly bowing at the Lord's feet.
+
+**135.** How the Lord and His servant were at the parting
+I have no power to describe.
+
+**136.** He bowed at the feet of the Lord's associates
+and with humility and meekness took his leave.
+
+**137.** When the brahmana Sri Chaitanya Dasa took his leave,
+the hearts of the devotees were troubled.
+
+**138.** The brahmana with his wife set out in haste,
+having bowed to Patita-pavana at the Lion Gate.[^02-4]
+
+**139.** Weeping and weeping, the brahmana walks along the road;
+whoever sees him finds his eyes gladdened.
+
+**140.** At the Lord's command the brahmana came to Gauda;
+all this became known in every land.
+
+**141.** With joy at heart he arrived in Yajigrama
+and told everything to Balarama Sharma.
+
+**142.** Having stayed there two or four days,
+he came with Balarama to his own home.
+
+**143.** Hearing of his return, his friends in the village
+came to meet the brahmana Sri Chaitanya Dasa.
+
+**144.** Having stayed five or seven days, Balarama
+returned with joy at heart to Yajigrama.
+
+**145.** There is no limit to the good fortune of the village of Sri Chakhandi,
+where the brahmana Sri Chaitanya Dasa lives.
+
+**146.** What unrestrained prema Sri Chaitanya Dasa has!
+He is always enraptured with the rasa of talk of Krishna.
+
+**147.** Having given his mind to the feet of Sri Gaurachandra,
+in solitude he performs nama-sankirtana daily.
+
+**148.** Seeing the wondrous way of bhakti of Sri Chaitanya Dasa,
+some of the villagers are pleased,
+
+**149.** and some say: "All this is useless —
+that is why he is poor and childless."
+
+**150.** Hearing such words, the brahmana's wife and the brahmana
+answer no one, but only smile to themselves.
+
+**151.** To dispel the evil thoughts of those people,
+after some time Lakshmipriya conceived.
+
+**152.** From the time the auspicious conception took place,
+even the evil people began to honour her.
+
+**153.** The women long to see Lakshmipriya:
+seeing her, they are filled with love and cannot leave.
+
+**154.** From who knows where various gifts are brought;
+the child she carries draws all hearts.
+
+**155.** The time of the birth arrived;
+the brahmana and his friends rejoice at heart.
+
+**156.** On the full-moon day of Vaishakha, under the nakshatra Rohini,
+at an auspicious moment Lakshmipriya gave birth to a son.[^02-5]
+
+**157.** What auspicious signs there were at Srinivasa's birth
+I cannot describe because of the bulk of the book.
+
+**158.** The brahmana Sri Chaitanya Dasa, when his son was born,
+saw various mysteries in a dream.
+
+**159.** Wondrous is the son's beauty, all auspicious marks are on him,
+the radiance of his body is like a golden champaka.
+
+**160.** In great joy the brahmana and his wife together
+offered their son to the feet of Gaurachandra.
+
+**161.** Hearing of the son's birth, all their kin
+came to the house of Sri Chaitanya Dasa.
+
+**162.** Blessing the son with joy at heart,
+they spoke many most sweet words.
+
+**163.** The women, looking at the boy, gladden their eyes;
+all wish him well, [showering him] with rice grains and durva grass.
+
+**164.** They praise the good fortune of Sri Chaitanya Dasa,
+and no one can go off to his own home.
+
+**165.** Day by day the son grows like the moon;
+all the fortunate gaze at him, filling their eyes.
+
+**166.** After some time the brahmana in great joy
+gave his son his first rice on a splendid day.
+
+**167.** How the name-giving had been performed before
+I have not described for fear of length.
+
+**168.** Everyone says: "His name is Srinivasa";
+they do not know that this name was proclaimed beforehand.
+
+**169.** So all joyfully say many things,
+and Srinivasa draws all hearts.
+
+**170.** After some time he crawls about the courtyard;
+seeing his antics, everyone rejoices.
+
+**171.** Holding his mother's finger, he walks on his little feet,
+stumbling and looking all around.
+
+**172.** Letting go of his mother's finger, he falls on the ground,
+and his mother, laughing, quickly takes him in her arms.
+
+**173.** Other brahmanas' wives, speaking affectionate words,
+take him in their arms and kiss his lovely face.
+
+**174.** So, passing Srinivasa from arm to arm,
+what joy they feel cannot be told.
+
+**175.** One day Lakshmipriya, joyful at heart,
+says to Srinivasa in the sweetest words:
+
+**176.** "Come, my son, say: 'Gaura Vishvambhara,
+husband of Lakshmi and Vishnupriya, son of Shachi,
+
+**177.** Lord of Gadadhara's life, Master of Srivasa,
+Sri Krishna Chaitanya, Nityananda-Haladhara.'
+
+**178.** Come, say: 'Sri Advaita Prabhu, the merciful.'
+Come, say: 'Radha-Krishna, son of Sri Nanda,
+
+**179.** Govinda, Gopinatha, Madanamohana'" —
+so she says the names of the Lord and His associates.
+
+**180.** Hearing this, Srinivasa in great joy
+pronounces some and cannot pronounce others.
+
+**181.** Hearing those nectarean words, their ears gladdened,
+they raise their son in supreme joy.
+
+**182.** Srinivasa reached five years of age;
+he wants to study — hearing this, all are glad.
+
+**183.** After some time they had his schooling begun:
+study was in name only, everything revealed itself to him without effort.
+
+**184.** After some time the chudakarana was performed,
+and the sacred thread shone wondrously on his shoulder.
+
+**185.** In a short time he studied grammar, lexicons, poetics,
+logic and the rest — people were amazed.
+
+**186.** The fortunate Dhananjaya Vidya-vachaspati
+passed on knowledge to him as best he could.
+
+**187.** In Chakhandi live many learned men,
+and all of them grow shy on seeing Srinivasa.
+
+**188.** The old venerable brahmanas devoted to Vishnu
+say to one another: "What a wonder!
+
+**189.** In a short time he has mastered all the shastras;
+he is always spotlessly pure and careful on the path of bhakti.
+
+**190.** We have lived here a long time,
+but we have never seen such a boy.
+
+**191.** What a body — the colour of pure gold!
+How beautiful his face, how sweet his speech!
+
+**192.** When he laughs nectar falls, his teeth are lovely;
+how captivating are his two long eyes!
+
+**193.** What a nose, what ears, cheeks, brows and forehead!
+What glossy, curling, beautiful hair!
+
+**194.** What a curve of the arms, what a handsome broad chest!
+Incomparable is the charm of his waist, his middle is slender.
+
+**195.** What knees, shanks and tender feet!
+Can a human being, unless he is a portion of a god, be like this?
+
+**196.** Sri Chaitanya Dasa was childless —
+and the Lord gave him a son, the embodiment of bliss."
+
+**197.** Someone says: "Would that I could take his troubles upon myself!
+When I do not see him I know not what happens to my heart — I cannot forget him."
+
+**198.** Someone says: "In worldly life we suffer great sorrow,
+but when you see him happiness arises in the mind."
+
+**199.** Someone says: "I have many sons and daughters,
+but my love for Srinivasa is greater than for them.
+
+**200.** On what pretext could I tell Sri Chaitanya Dasa
+to get him married soon?"
+
+**201.** So, speaking with one another, they bless him;
+in their hearts is one desire — always to see their fill of him.
+
+**202.** How Srinivasa was born in Chakhandi and what he is like —
+all this became known everywhere.
+
+**203.** To the houses of the devotees who live near Chakhandi
+Srinivasa constantly goes.
+
+**204.** Sri Govinda Ghosha and others, losing all composure out of love,
+bathe him in the nectar of Sri Gaurachandra's pastimes.
+
+**205.** How can I tell what joy they all feel?
+He keeps in his heart the wish of each.
+
+**206.** Moment by moment how wondrously [their] love shows itself!
+All say: "Srinivasa is the embodiment of prema for Gaura."
+
+**207.** Everyone everywhere talks of Srinivasa,
+everyone longs to see Srinivasa.
+
+**208.** Sri Narahari and Sri Raghunandana of Shrikhanda
+long without cease to see Srinivasa.
+
+**209.** Srinivasa always yearns to see them,
+but he cannot go alone.
+
+**210.** Unexpectedly someone came from Yajigrama,
+and Srinivasa went with him to Yajigrama.
+
+**211.** Sri Narahari Thakura with his people
+was going to bathe in the Ganga by way of Yajigrama.
+
+**212.** The joy he felt on seeing Srinivasa there —
+who can describe it with one mouth?
+
+**213.** Srinivasa, seeing Sri Sarakara Thakura,
+lost all composure; his heart overflowed with happiness.
+
+**214.** When he, most humble, was about to bow,
+the Thakura, overwhelmed with love, embraced him.
+
+**215.** He speaks sweet words to Srinivasa:
+"Seeing you, my eyes and heart are gladdened.
+
+**216.** I very much wanted to see you, my son."
+Saying this, he strokes his body with his lotus hands.
+
+**217.** Srinivasa, with joined palms, pleads:
+"Act so that my desire may be fulfilled.
+
+**218.** I am utterly ignorant and do not even know how to speak;
+protect me yourself in every way."
+
+**219.** He says many such things, his tears flowing without cease;
+the Thakura comforted him and bade him: "Go home."
+
+**220.** Astonishing is the greatness of Sri Sarakara Thakura:
+in Vraja he is Madhumati, whose virtues have no limit.
+
+**221.** *Thus [it is said] in the Sri Gaura-ganoddesha:*
+*"Madhumati, formerly a dear friend in Vrindavana, is now the Sarakara named Narahari, dear to the Lord."*[^02-6]
+
+**222.** *Thus [it is said] in a verse of Sriman Rupa:*
+*"She who formerly dwelt in Vrindavana, full of rasa, whose nature is the rasa of delight in the play of Radha and Ghanashyama — Madhumati, a follower of the perfect ones — she, Sri Sarakara Thakkura, longing here for prema, a great ocean of the bliss of prema, is victorious in the land of Sri Khanda."*
+
+**223.** *Thus [it is said] in a verse of Sri Karnapura:*
+*"I bow to a certain great giver of prema bearing the name Sri Madhumati — a worthy vessel of the honey of the great mercy of Sri Chaitanya Mahaprabhu, joyfully blossoming in speech swallowed by streams of dense prema, who made his dwelling in Sri Khanda and is ever anointed with sandal."*[^02-7]
+
+**224.** So the wise describe much of his life;
+but how he loved Srinivasa cannot be described.
+
+**225.** The joy [Srinivasa] felt on drinking the nectar of Sri Sarakara Thakura's command —
+who could describe it?
+
+**226.** Srinivasa returned quickly to the village of Chakhandi
+and listens without cease to the pastimes of Gaurachandra.
+
+**227.** One day, rejoicing, he asks his father
+about the beautiful life of Gauranga.
+
+**228.** The brahmana says: "He whose end Brahma and the others do not find —
+how shall I, a wretched soul, tell of His pastimes?
+
+**229.** Listen, listen, Srinivasa, I shall tell you:
+Vishvambhara-raya is Krishna, the Moon of Vrindavana.
+
+**230.** When in Navadvipa He played as a child,
+at that time we were students.
+
+**231.** Not understanding the essence of bhakti, we studied logic and the rest
+and always kept company with those turned away [from God].
+
+**232.** Day by day hearing of the wondrous pastimes of the Lord,
+I kept thinking: I shall go and see.
+
+**233.** But because of bad company I could not go there,
+nor could I bear their arrogance.
+
+**234.** Intoxicated with learning, they think nothing of anyone;
+at any mention of the Lord they all laugh.
+
+**235.** I suffer greatly in my heart and cannot master myself;
+I pray to the Creator without cease:
+
+**236.** 'Crush their pride quickly!'
+Listen how the Creator fulfilled [my prayer].
+
+**237.** Suddenly a digvijayi came to Navadvipa;
+before his might everyone trembled.
+
+**238.** The goddess Sarasvati is subject to his devotion;
+therefore he is a great poet and expert in the shastras.
+
+**239.** There is no one who could defeat him;
+all the teachers gather together in anxiety.
+
+**240.** The scholars of Chakhandi and elsewhere,
+hearing of this, find no peace.
+
+**241.** At that time Narayana, the Husband of Sarasvati,
+named Nimai Pandita, was teaching grammar.
+
+**242.** A teacher of grammar, with many students
+He played in great merriment on the bank of Sri Jahnavi.
+
+**243.** The digvijayi, seeing the wondrous youth,
+approached, laughing in the pride of his learning.
+
+**244.** When he drew near, the Lord, showing him honour,
+asked him to describe the greatness of the Ganga.
+
+**245.** In a moment he composed many verses,
+truly wondrous and flawless in every respect.
+
+**246.** The Lord asked him the meaning of one of them
+and pointed out three faults in it.
+
+**247.** Unable to justify the meaning of his own verse,
+the digvijayi was greatly ashamed before the Lord.
+
+**248.** Yet the Lord showed him honour;
+the fortunate digvijayi became absorbed in the Lord's virtues.
+
+**249.** Sarasvati revealed to him who the Lord was,
+and the digvijayi surrendered himself at the Lord's feet.
+
+**250.** Hearing of the digvijayi's defeat by Nimai,
+all the bhattacharyas were overjoyed.
+
+**251.** "Nimai Pandita has defeated the digvijayi!" —
+everyone everywhere was saying this.
+
+**252.** My teacher and all the other scholars
+gave up thinking of Him as a man — divine knowledge came to them.
+
+**253.** What shall I say, my son? His pastimes are not of this world;
+the greatly fortunate people of Nadia saw them.
+
+**254.** For some time, merrily engaged in His sports of learning,
+He went with many people to perform [the rites at] Gaya.
+
+**255.** The Lord acted so to teach the people;
+returning from Gaya, He began to proclaim that prema.
+
+**256.** Seeing His extraordinary manifestations of prema, His students
+in great joy praised Him to one another.
+
+**257.** Formerly, by the Lord's will, no one recognized Him;
+Srivasa and all the other devotees gave Him their blessings.
+
+**258.** Having first of all shown His grace to the devotees,
+Gaurahari, the lover of His devotees, could no longer hide.
+
+**259.** The Lord, the enchanter of the worlds, revealed Himself,
+and the devotees in great delight recognized Him.
+
+**260.** Srivasa Pandita, Sri Gadadhara Pandita,
+Sri Murari Gupta, the wise Haridasa,
+
+**261.** Shuklambara Brahmachari and the other associates
+are ceaselessly absorbed in the Lord's virtues.
+
+**262.** In great merriment Advaita Gosani joined Him;
+what shall I say — there is no end to His virtues.
+
+**263.** Prabhu Baladeva, Nityananda the Avadhuta —
+wondrous is His meeting with Gaurachandra.
+
+**264.** Taking with Him Nityananda, Advaita, Srivasa and the others,
+the Lord plays in Navadvipa in great merriment.
+
+**265.** O my son Srinivasa, I tell you:
+in this incarnation there is no limit to mercy.
+
+**266.** He takes up no weapon, takes no one's life —
+He delivers by giving that rarest prema.
+
+**267.** The Lord's zeal is to deliver sinful unbelievers;
+that is why in the age of Kali the power of the wicked is so formidable.[^02-8]
+
+**268.** Two named Jagai and Madhai, kings of robbers,
+for fear of whom all the society of Nadia trembled,
+
+**269.** ate nothing but meat and wine;
+seeing them, no one could stay calm.
+
+**270.** There was no end to the evil deeds they committed;
+we too were always anxious, fearing them.
+
+**271.** Seeing their outrages, the wise reflected:
+"No one but God will be able to subdue them.
+
+**272.** Ravana, Kamsa and the rest are no match for them" —
+so they said many things to one another.
+
+**273.** Those two sinners the Lord delivered,
+revealing to the world the merciful Nityananda.
+
+**274.** One day Gaurachandra joyfully says:
+"Deliver the souls by instructing [them] about Krishna."
+
+**275.** Hearing this, Prabhu Nityananda with Haridasa
+go about merrily, instructing in Krishna's name.
+
+**276.** Worthless students, gathering together, constantly revile [them]
+and tell them to go where Jagai and Madhai are.
+
+**277.** Hearing the name of Krishna, those two, enraged,
+rushed at these two to beat them.
+
+**278.** Madhai, drunk with wine, speaking words like a thunderbolt,
+drew the blood of Nityananda-deva.
+
+**279.** Even so Nityananda, the ocean of mercy,
+thinks with joy in His heart of the welfare of both.
+
+**280.** Hearing of this, Gaurachandra became greatly angry,
+but at Nityananda's mercy He showed them mercy.
+
+**281.** Nityananda and Gaurachandra are one body;
+only for the sake of the pastimes are They different, all say.
+
+**282.** Jagai and Madhai, clasping the Lord's feet,
+said so much that it cannot be told.
+
+**283.** Although the Lord, forgiving all their offences,
+accepted them as His own, they still found no peace.
+
+**284.** Jagai and Madhai, weeping and weeping, say:
+"Give us such a command that our hearts may be at peace."
+
+**285.** Hearing this, the Lord, pleased,
+ordered the two to sweep the bathing ghat on the Ganga.
+
+**286.** Then, regarding themselves as the lowest,
+they cleaned the ghat on the Ganga day after day.
+
+**287.** The two brothers became associates of the Lord;
+utter their names and unbelief leaves the heart.
+
+**288.** This became known to all the people:
+"Nimai Pandita has delivered the great villains."
+
+**289.** The worthless students, greatly amazed,
+say to one another, sniggering:
+
+**290.** "O brother, what does this Nimai Pandita know!
+He has brought Jagai and Madhai into his company.
+
+**291.** Nowhere is he seen to be defeated;
+let all the people of Nadia not become like that!"
+
+**292.** Someone says: "Be on your guard —
+in two or four days you will see everything."
+
+**293.** Saying such things, the students think themselves fortunate,
+and all constantly roam about looking for faults.
+
+**294.** O my son Srinivasa, with the deliverance of those two
+we were all freed from fear.
+
+**295.** In Navadvipa there is always a great ocean of bliss;
+everyone is ceaselessly enraptured with sankirtana.
+
+**296.** The unbelievers there, in all sorts of ways,
+mock, threatening with the yavanas.
+
+**297.** A yavana named the Kazi was very powerful:
+Navadvipa and other places were under his rule.
+
+**298.** The yavana king of Gauda was very fond of him;
+no one dared disobey the Kazi.
+
+**299.** All the people of this land trembled before him;
+no one could worship God freely.
+
+**300.** He opposed that rare kirtana —
+and so great anger arose in the Lord.
+
+**301.** One night the Lord with His devotees
+was playing in Navadvipa in the merriment of sankirtana.
+
+**302.** What wondrous beauty there was in the town of Nadia —
+it could not be described even with a hundred thousand mouths.
+
+**303.** By the Lord's will all the people of Nadia
+held great auspicious festivities in every house.
+
+**304.** Hundreds of thousands of lamps burned, there was endless merriment;
+it seemed to everyone that night had become day.
+
+**305.** Forgetting themselves, people move about everywhere;
+no one can tell who is a god and who a man.
+
+**306.** Hundreds of thousands of people sing kirtana together;
+the sound of the drums and karatalas pierces the sky.
+
+**307.** At the stamping of the dancing feet the earth sways;
+a wondrous uproar of cries of "Jaya!" arose.
+
+**308.** All, mighty, surpassing lions in valour,
+set off crying, "Beat the Kazi, beat the Kazi!"
+
+**309.** At that roar the unbelievers burst with fear;
+they broke the Kazi's house, gate and flower garden.
+
+**310.** The day before, the Lord, to tear open the Kazi's chest,
+had become Nrisimha — the Kazi saw it with his own eyes.
+
+**311.** He understood that Nimai was by no means a man
+and told this to everyone.
+
+**312.** Hearing this, all were saying various things to one another;
+at that time a great uproar arose in the town.
+
+**313.** People came and say: "That same Nimai Pandita
+is singing kirtana, and there is no counting the people.
+
+**314.** Crying 'Beat, beat!' they are all coming here,
+breaking houses, gates and trees — we see no way out."
+
+**315.** Hearing these words, the Kazi in great fear
+went to the Lord with tears in his eyes.
+
+**316.** Seeing the Lord, he surrendered himself;
+how he praised Him cannot be told.
+
+**317.** Gaurasundara, the Purifier of the fallen,
+showed mercy to the fortunate Kazi.
+
+**318.** Hearing these wondrous accounts, respectable people
+knew for certain that Gaurachandra is Narayana.
+
+**319.** So the Lord plays merrily in Navadvipa;
+hearing of all this, my heart is in torment.
+
+**320.** I resolved: returning from Yajigrama,
+I shall go to Navadvipa and see Sri Gaurachandra.
+
+**321.** Quickly settling my affairs in Yajigrama,
+I came with great joy to Kantaka-nagara.
+
+**322.** There was Sri Bharati Svami, full of great radiance;
+he was very kind to me.
+
+**323.** Whenever I went to Yajigrama or Kantaka-nagara,
+I would see him, and sometimes I stayed with him.
+
+**324.** I had resolved that, after taking leave of him,
+I would go to Navadvipa to see Gaura.
+
+**325.** With this thought I am going there —
+when suddenly I see people running:
+
+**326.** children, old people, youths, women and men by the hundreds,
+such a crush that one could not pass along the road.
+
+**327.** When I ask, they say: "We are going to Bharati's house:
+Sri Gaurasundara has come from Nadia."
+
+**328.** Hearing this, I felt as if I had got the moon in my hands,
+and went to Sri Keshava Bharati Svami.
+
+**329.** I gazed my fill at Sri Gaurasundara:
+the beauty of every limb of His enchants the worlds.
+
+**330.** What are golden champaka, lightning, saffron!
+That form has no comparison in all the world.
+
+**331.** His beautiful curling hair intoxicates the world;
+who would not lose his head at the radiance of His cheeks and forehead?
+
+**332.** Most beautiful ears and brows,
+eyes reaching to the ears, a captivating nose.
+
+**333.** His moon-face surpasses millions upon millions of moons;
+the moment one sees it, the sufferings of millions of births go away.
+
+**334.** Two arms reaching to the knees, a broad chest,
+a waist more slender than a lion cub's.
+
+**335.** Sweet are His hips; at the curve of His thighs and feet
+millions upon millions of Kandarpas cannot stand firm.
+
+**336.** Seeing the red soles of His feet, I thought:
+"Hundreds of dawn suns must have taken refuge there."
+
+**337.** O my son Srinivasa, what shall I tell you!
+I drowned in the ocean of nectar of Gora's form.
+
+**338.** There one person carefully asks another:
+"Why has Gaurachandra come here?"
+
+**339.** He says: "He will accept sannyasa;
+His hair, which enchants the worlds, will vanish."
+
+**340.** Hearing these words, my heart stopped,
+and at that moment I saw that the barber was already there.
+
+**341.** How the barber did his barber's work —
+who, seeing it, could keep his composure?
+
+**342.** From the Lord's head the hair vanished;
+a wailing arose that filled the world."
+
+**343.** Saying this, the best of brahmanas
+fainted, and tears flowed from his eyes without cease.
+
+**344.** Hearing this account from his father's lips,
+Srinivasa weeps in great distress.
+
+**345.** After some time the brahmana Sri Chaitanya Dasa
+sighs, repeating: "The beautiful curling hair!"
+
+**346.** With great effort mastering himself, he opens his eyes
+and sees: his son is weeping, fallen on the ground.
+
+**347.** In rapture the brahmana takes his son on his lap
+and blesses him: "Be merciful to him, Gaurahari!"
+
+**348.** Brushing the dust from his body and wiping away his tears,
+he calms him with many words like nectar.
+
+**349.** Lovingly he told everything about
+how he had seen the Lord in Nilachala.
+
+**350.** Telling how the Lord plays in Nilachala,
+he sheds streams of tears.
+
+**351.** He told of the lives of Nityananda and Advaita,
+he related the lives of the Lord's associates,
+
+**352.** he told how the Lord plays in Vraja
+and for what purpose He descended in Navadvipa.
+
+**353.** Hearing all this from his father's lips,
+Srinivasa loses his composure and cannot stand.
+
+**354.** Great in his heart is the longing to hear of Gauranga's pastimes:
+he begs the Creator for hundreds of thousands of ears.
+
+**355.** His eyes, red with love, shed tears;
+again and again he bows at his father's feet.
+
+**356.** Forgetting himself in the rapture of prema,
+Srinivasa questions his father day after day.
+
+**357.** One day the venerable brahmana Sri Chaitanya Dasa
+says to his son with a heart full of love:
+
+**358.** "My son, you have become able to care for your mother;
+together with your mother I entrust everything to you.
+
+**359.** Now, leaving you with your mother in Yajigrama,
+I am thinking of going soon to Vrindavana.
+
+**360.** In Vrindavana, through Rupa, Sanatana and others,
+Prabhu Gaura-raya accomplished extraordinary things.
+
+**361.** My son, the lives of those two are wondrous;
+seeing them, one could never think they are mere men.
+
+**362.** When I saw the two of them,
+at that time I did not have such understanding.
+
+**363.** Now I consider myself blessed;
+I shall tell briefly how I saw them.
+
+**364.** The teachers of Navadvipa and other places
+almost all used to go to the village of Ramakeli.
+
+**365.** My teacher, the foremost in Chakhandi —
+people came from Ramakeli to fetch him.
+
+**366.** The teacher set out, and we went with him;
+at an auspicious moment we entered the village of Ramakeli.
+
+**367.** Near the house of Sanatana and Rupa
+lodgings were given to all with great honour.
+
+**368.** The teachers, with great joy at heart,
+went to the assembly of Sanatana and Rupa.
+
+**369.** Surrounded by brahmanas and pandits,
+they sit in the midst of the assembly, like Indra.
+
+**370.** Their bodies are beautiful as gold, full of radiance;
+who, seeing the beauty of the two, could stay composed?
+
+**371.** What a gentle smile on their faces — the limit of happiness!
+What creator fashioned those long eyes?
+
+**372.** What captivating arms, chests, waists!
+There is no comparison for them; they are beautiful in every way.
+
+**373.** Going with the teacher, we saw them face to face;
+they showed honour to all in every way.
+
+**374.** The utmost limit of wealth — and not a trace of pride;
+everywhere they beg for bhakti to Krishna's lotus feet.
+
+**375.** Both brothers are supreme scholars of all the shastras;
+it is known that the elder is Sanatana and the younger Rupa.
+
+**376.** They listen to the expositions of the shastras by pandits from many lands
+and, giving much money, please everyone.
+
+**377.** Hearing their expositions of the shastras, the teacher
+praised them so that I know not how to tell it.
+
+**378.** Both are great ministers, foremost in the affairs of state;
+in nothing do they leave anyone without honour.
+
+**379.** The good fortune of the king of Gauda cannot be put into words:
+he loves Sanatana and Rupa greatly.
+
+**380.** I also heard from people that all this is true;
+seeing their conduct, who would not be enraptured?
+
+**381.** Having stayed there some days, taking his leave,
+the teacher set out with joy in his heart.
+
+**382.** Sanatana and Rupa are content in every way;
+how famous in the world is their Vaishnava conduct!
+
+**383.** From Ramakeli we soon returned home;
+a few days after that came the Lord's sannyasa.
+
+**384.** Having accepted sannyasa, the Lord went to Nilachala;
+the Vaishnavas do not leave Him for a moment.
+
+**385.** The crest-jewel of sannyasis, the son of Shachi,
+set out from Nilachala for Vrindavana.
+
+**386.** Coming with His associates to the village of Ramakeli,
+He showed great mercy to Sanatana and Rupa.
+
+**387.** He did not go to Vraja then, but returned to the Kshetra,
+and later set out again for Vrindavana.
+
+**388.** Here, in the village of Ramakeli, Rupa and Sanatana
+heard that Mahaprabhu had gone to Vrindavana.
+
+**389.** What shall I say of the strong anuraga of the two?
+Without effort they gave up everything.
+
+**390.** Sri Rupa's brother was named Sri Vallabha;
+a great Vaishnava, his former name was Anupama.[^02-9]
+
+**391.** With him Rupa set out first for Vraja
+and met Sri Krishna Chaitanya-chandra at Prayaga.
+
+**392.** What joy the Lord felt on seeing Sri Rupa,
+and what mercy He showed, the fortunate saw.
+
+**393.** Sanatana Gosvami, meanwhile, here in Ramakeli,
+set out secretly for Vraja.
+
+**394.** Coming to Kashi, he saw the Lord's feet;
+I do not know what ocean of happiness surged up in him.
+
+**395.** Mahaprabhu Sri Krishna Chaitanya, the Lord of all,
+seeing Sanatana, was overwhelmed with affection.
+
+**396.** With joy in His heart [the Lord] gave him much instruction
+and revealed to Sanatana the utmost limit of mercy.
+
+**397.** That Sanatana and Rupa had gone to Vraja
+everyone in these lands heard.
+
+**398.** No one could restrain himself in any way;
+all were greatly astonished:
+
+**399.** "How could they give up such wealth?" —
+day and night everyone says.
+
+**400.** Women and men, children, the old and the young —
+all repeat: "Rupa and Sanatana have gone to Vraja."
+
+**401.** The teachers, without Rupa and Sanatana,
+left Ramakeli in sorrow for other places.
+
+**402.** The renunciation of Sanatana and Rupa grieved everyone;
+only the devotees of Krishna were happy.
+
+**403.** In Vrindavana the acharyas Sri Rupa and Sanatana —
+the two of them — revealed what was in the Lord's heart.
+
+**404.** Having revealed the lost tirthas on the evidence of the shastras,
+Sri Rupa Gosani pondered one thing:
+
+**405.** "The Deity Sri Govinda, the son of the king of Vraja,
+always abides on the yogapitha — so the shastras declare.
+
+**406.** But I cannot find the darshan of such a Sri Govinda-deva."
+He goes from village to village, from forest to forest.
+
+**407.** Searching in every house of the people of Vraja,
+he sits on the bank of the Yamuna, having lost all peace.
+
+**408.** One day, unexpectedly, a resident of Vraja
+appeared before Sri Rupa Gosvami.
+
+**409.** Very handsome, in a sweet voice
+he says to Sri Rupa: "Svami, why are you sad?"
+
+**410.** His sweet words drew the heart,
+and Sri Rupa Gosvami told him everything in order.
+
+**411.** The resident of Vraja says: "Do not be troubled in mind:
+in Vrindavana there is a yogapitha known as Gomatila.
+
+**412.** There a fine cow every day before noon
+gives her milk with joy in her heart.
+
+**413.** Sri Govinda-deva is hidden there."
+Saying this, he led Rupa to that place.
+
+**414.** Having shown the place, he vanished —
+and Rupa fell unconscious to the ground.
+
+**415.** After some time, coming to his senses, Rupa
+cannot stop the ceaseless tears.
+
+**416.** Sri Rupa Gosvami, deep as millions of oceans,
+understood the Lord's secret and grew calm.
+
+**417.** With joy in his heart he says to the people of Vraja:
+"Lord Sri Govinda-deva is here."
+
+**418.** Hearing this, the people of Vraja were overwhelmed with prema;
+all, from children to old men, came to Gomatila.
+
+**419.** Smiling, they say to one another:
+"We have learned that Gomatila is the yogapitha."
+
+**420.** When they were carefully digging the ground of the yogapitha,
+Balarama commanded: "Look in the middle."
+
+**421.** In the middle of the yogapitha the Lord, the son of the king of Vraja,
+the enchanter of millions of Kandarpas, appeared in person.
+
+**422.** *Thus [it is said] in the Sri Sadhana-dipika of Sri Radha-Krishna Gosvami, a disciple of Sri Haridasa Pandita Gosvami of Vraja:*
+*"To carry out the Lord's command the sage went to Vrindavana, but did not find the holy form there and pondered in his heart.*
+
+**423.** *Not seeing [Him] in the houses of the people of Vraja, nor in the forests, nor in the villages, the wise one wept and pondered.*
+
+**424.** *One day, as he sat on the pure bank of the Yamuna, someone handsome came in the guise of a resident of Vraja.*
+
+**425.** *Seeing him, he said: 'O master, why are you sad?' Hearing his words, [Rupa], his mind drawn by affection,*
+
+**426.** *freed from weariness of mind by his voice, deep with prema, told him everything — that command of Mahaprabhu.*
+
+**427.** *Having heard it all, he said, 'Come,' led him to the place known as Gumattila, and said again:*
+
+**428.** *'Here before noon comes the best of cows and, pouring out her milk, goes away day after day.*
+
+**429.** *Consider this, master, and do what is fitting; I am going.' Sri Rupa, hearing his words and seeing his form, fainted.*
+
+**430.** *After a while, the wise one, collecting himself and reflecting — though he knew the whole secret, yet acting in the way of ordinary people —*
+
+**431.** *said to the people of Vraja: 'Sri Govinda is here.' Hearing this, all of them, their hearts melted with prema,*
+
+**432.** *together with children and old men cleared that ground — and, at the command of Rama: 'Look: in the middle of the yogapitha is Krishna, the Lord, the son of the king of Vraja Himself, the enchanter of millions of Manmathas,' — they carefully dug up that ground."*[^02-10]
+
+**433.** As soon as the word spread of Sri Govinda-deva's appearance,
+countless people come running joyfully from all sides.
+
+**434.** Brahma and the other gods, mingling with the people,
+in supreme joy take the darshan of Govinda.
+
+**435.** Not for a moment does the crowd thin;
+no one can make out who comes from where.
+
+**436.** As soon as Govinda appeared, Sri Rupa Gosani
+sent a letter to Mahaprabhu in the Kshetra.
+
+**437.** Sri Krishna Chaitanya Prabhu with His associates,
+reading the letter, cannot contain Himself for joy.
+
+**438.** The Lord says to Kashishvara in private:
+"You will have to go to Vrindavana."
+
+**439.** Kashishvara says: "Prabhu, to leave You —
+my heart breaks; do what is fitting."
+
+**440.** Gaurahari, understanding Kashishvara's heart,
+carefully gave him a Deity — His own form.
+
+**441.** The Lord ate rice and other food together with that Deity;
+seeing this, Kashishvara was filled with supreme joy.
+
+**442.** The Lord told the name — Sri Gaura-Govinda;
+with Him Kashishvara came to Vrindavana.
+
+**443.** Placing the Lord at the right of Sri Govinda,
+overcome with prema, he performs wondrous service.
+
+**444.** *Thus [it is said] in the Sri Sadhana-dipika — an account heard from the lips of an associate of Mahaprabhu:*
+*"Once Sri Mahaprabhu said to Sri Kashishvara: 'Go to Vrindavana and live near Sri Rupa and Sanatana.' Hearing this, he was both delighted and astonished. The crest-jewel of the omniscient, Gaura, knowing his heart, said again: 'Bring the Deity of Sri Krishna that stands beside Jagannatha, and know that I am non-different from Him, Bhagavan Himself; serve Him thus.' Hearing this, he fell silent. Then Sri Krishna in the form of the Deity and Mahaprabhu ate together. After this Sri Kashishvara, bowing down like a rod, brought the Deity of Gaura-Govinda to Vrindavana. This is the Mahaprabhu beside Sri Govinda."*[^02-11]
+
+**445.** *[And again:]*
+*"May Gaura-Govinda be merciful to me, who by the lustre of His feet has conquered Madana, by the lustre of His face has crushed the pride of the lotus and the jewel, and whose feet are the shelter of Sri Rupa."*
+
+**446.** Govinda's pastimes are truly wondrous and boundless;
+who can understand them without His mercy?
+
+**447.** The pastimes are of two kinds — manifest and unmanifest;
+in the unmanifest He plays in the form of a silent [Deity].
+
+**448.** O Srinivasa, how much shall I tell you?
+Sri Govinda appeared through Rupa.
+
+**449.** Sri Vrinda revealed herself to Sri Rupa in a dream,
+and he manifested her from the bank of Brahma-kunda.
+
+**450.** Boundless are the beauty and greatness of Sri Vrinda-devi;
+if she is merciful, every undertaking is accomplished.
+
+**451.** *Thus [it is said] in the Sri Sadhana-dipika:*
+*"On the edge of the bank of Brahma-kunda Vrinda-devi was manifested by Sri Rupa, the ocean of mercy, by the power of the Lord's command.*
+
+**452.** *I praise Vrinda, the goddess, who wears on her head a crown of beautiful jewels, shining golden earrings on both ears, charming necklaces, a girdle, smiling, with armlets and bracelets, ankle-bells and the rest — fair-faced, within Vrindavana, beside Srila Govinda.*
+
+**453.** *The lotus feet of Sri Vrinda are honoured with bhakti by all the gods and sages and served with love; they remove the taint of Kali and grant every desire. What more is there to say? Whoever worships them lives in this Sri Vrindavana, unattainable even for the dwellers of heaven, free from all sorrows."*
+
+**454.** O Srinivasa, how many deeds of Sri Rupa
+can I tell with one mouth?
+
+**455.** Wondrous are the pastimes of Sanatana Gosvami:
+from time to time he lives in Sri Mahavana.
+
+**456.** There he sees with his own eyes how Madana-gopala
+plays with the boys on the sandbank of the Yamuna.
+
+**457.** Madana-gopala, subject to Sanatana's love,
+one day in the guise of a dream says to Sanatana:
+
+**458.** "Sanatana, your hut pleases Me;
+I shall come here from Mahavana."
+
+**459.** Saying this, the Lord vanished;
+Sanatana was beside himself with prema.
+
+**460.** The devotee knows well the Lord's designs:
+at dawn Madana-gopala came.
+
+**461.** Sanatana's heart became boundlessly glad;
+in a hut of leaves he serves the Lord.
+
+**462.** Sri Madanamohana is the son of a great king,
+yet He eats dry flatbread — Sanatana grieves.
+
+**463.** Knowing Sanatana's thoughts, Madana-gopala
+at once wished His service to be enlarged.
+
+**464.** At that time a certain man from the land of Multan,
+very wealthy and skilful in every way —
+
+**465.** the best of kshatriyas, a Kapur named Krishnadasa —
+stepping off a boat, came to the Gosvami.
+
+**466.** He fell at the Gosvami's feet, rolling on the ground,
+and humbled himself greatly, bathed in tears.
+
+**467.** Sanatana showed him great mercy
+and entrusted him to the feet of Sri Madanamohana.
+
+**467a.** Seeing Sri Madanamohana, Krishnadasa
+falls to the ground and bows, sighing deeply.[^02-12]
+
+**468.** That very day he began to build the temple
+and had [the Deity] adorned with various jewels.
+
+**469.** Garments and other things of every kind
+he had carefully kept in a separate storeroom.
+
+**470.** He prepared all kinds of provisions for offerings:
+"The Lord will eat," — and he was very glad.
+
+**471.** Who, seeing Madana-gopala, can keep his composure?
+The people of Vraja float in an ocean of happiness.
+
+**472.** I have told this healing story briefly:
+Madanamohana is the life of Sanatana.
+
+**473.** My son Srinivasa, what more is there to say?
+The Lord revealed Himself through His devotees.
+
+**474.** Paramananda Bhattacharya Mahashaya
+and Sri Madhu Pandita are abodes of virtue.
+
+**475.** Krishna, the son of the king of Vraja, is subject to the love of both;
+their doings are unfathomable — who is able to tell of them?
+
+**476.** Near Vamshivata there is a most beautiful place;
+there Gopinatha plays in great merriment.
+
+**477.** *Thus [it is said] in the Sri Sadhana-dipika:*
+*"By him (Madhu Pandita) was manifested Gopinatha, the ocean of mercy, at Vamshivata, on the auspicious bank of the beautiful Yamuna."*[^02-13]
+
+**479.** Suddenly [Gopinatha] mercifully gave him darshan,
+and Sri Madhu Pandita received the right to serve [Him].
+
+**480.** Sri Paramananda Bhattacharya Mahashaya
+loves Madhu Pandita dearly.
+
+**481.** O Srinivasa, what joy there is in Vrindavana
+at the darshan of Gopinatha — who can tell?
+
+**482.** With the radiance of His body He steals the hearts of all;
+hundreds of thousands of people run to have His darshan.
+
+**483.** Beautiful and sweet is the life of Sri Gopinatha;
+whoever hears of it even once, his sufferings go far away.
+
+**484.** Of Sri Vraja I have heard from the lips of devotees;
+it is very extensive — I have told you a little.
+
+**485.** O Srinivasa, how my soul longs!
+Will there be such a day when I go to Vrindavana?"
+
+**486.** Saying this, Sri Chaitanya Dasa
+sheds streams of tears and cannot stop them.
+
+**487.** Holding his father's feet, Srinivasa weeps,
+saying to himself: "Will my hope be fulfilled?"
+
+**488.** Father and son grew calm only after some time;
+who knows how wondrous the might of prema is!
+
+**489.** Apart from talk of Krishna nothing pleases them;
+such a father and son have no comparison.
+
+**490.** Whoever listens to this conversation of father and son
+attains without effort the rarest wealth of bhakti.
+
+**491.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the Bhakti-ratnakara.
+
+*Thus in the Sri Bhakti-ratnakara, in the account of the birth of Srinivasa and other matters, ends the second wave, called "The Description of the Appearance of Sri Govinda and the Other [Deities] in Vrindavana".*
+
+[^02-1]: Kantaka-nagara is Katwa; Sri Bharati is Keshava Bharati, the Lord's sannyasa-guru. Cf. CB Madhya 28; CC Adi 17.
+[^02-2]: Cf. the Prema-vilasa (vilasa 1): there the childlessness of Chaitanya Dasa and the gift of a son are told differently — through Jagannatha and the Lord's command to the Earth.
+[^02-3]: Chaitanya Dasa's vision: Krishna-Shyamasundara; Gaura in the dress of a householder; Gaura the sannyasi; Jagannatha with Baladeva and Subhadra.
+[^02-4]: Patita-pavana ("Purifier of the Fallen") is the Deity of Jagannatha at the Lion Gate of the temple in Puri.
+[^02-5]: The 1960 edition has "in the muhurta of Rohini". According to the Prema-vilasa, Srinivasa's birth is told differently; cf. PV, vilasas 1–2.
+[^02-6]: GGD: Narahari Sarakara is Madhumati, a friend of Radha in Vraja.
+[^02-7]: A pun: "shri-khanda" means both the name of the village and sandal.
+[^02-8]: So in the 1912/13 edition ("papa-pashandi tarite"); in the 1960 edition the line is corrupt. Cf. CB Madhya 13 (the deliverance of Jagai and Madhai) and Madhya 23 (the subduing of the Kazi).
+[^02-9]: Cf. 1.665, where it is said that the name Anupama was given to him by Sri Gaurasundara.
+[^02-10]: Verses 422–432, from the Sadhana-dipika of Radha-Krishna Gosvami, repeat the account of 404–421 in Sanskrit. "Gumattila" is the same as Gomatila.
+[^02-11]: A prose passage from the Sadhana-dipika. According to this account, the Deity of Gaura-Govinda stands in Vrindavana to the right of Govinda-deva.
+[^02-12]: This couplet stands at this place in the editions of 1888 and 1912/13; in the 1960 edition it is misplaced after verse 477 under the number 478, so the number 478 is skipped here.
+[^02-13]: Gopinatha is the Deity manifested by Madhu Pandita at Vamshivata; Paramananda Bhattacharya (474) is his elder friend and fellow student.

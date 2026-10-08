@@ -88,3 +88,51 @@
   date_conf: оценка
   themes: [pilgrimage]
   notes: "«Бхакти-ратнакара» 1.683, 785."
+
+- id: ev-gangadhara-becomes-chaitanya-dasa
+  title: "Гангадхара Бхаттачарья видит санньясу Господа в Катве и становится Чайтаньей Дасом"
+  title_en: "Gangadhara Bhattacharya witnesses the Lord's sannyasa at Katwa and becomes Chaitanya Dasa"
+  period: P08
+  order: 41
+  years: [1510, 1510]
+  date_conf: вероятно
+  date_basis: "санньяса Господа (1510)"
+  themes: [sannyasa, separation]
+  notes: "«Бхакти-ратнакара» 2.21–60; о том же вспоминает сам Чайтанья Дас (2.320–343)."
+
+- id: ev-govinda-deva-appearance
+  title: "Явление Говинды-девы Рупе на Гомаитиле"
+  title_en: "Govinda-deva appears to Rupa at Gomatila"
+  period: P14
+  order: 17.3
+  date_conf: оценка
+  date_basis: "при жизни Господа в Пури (Рупа посылает Ему письмо — БР 2)"
+  themes: [deities, revelation]
+  notes: "«Бхакти-ратнакара» 2.403–436 и «Садхана-дипика» Радха-Кришны Госвами."
+
+- id: ev-gaura-govinda-kashishvara
+  title: "Господь даёт Кашишваре Божество Гаура-Говинды и посылает его во Вриндаван"
+  title_en: "The Lord gives Kashishvara the Deity Gaura-Govinda and sends him to Vrindavana"
+  period: P14
+  order: 17.4
+  date_conf: оценка
+  themes: [deities, separation]
+  notes: "«Бхакти-ратнакара» 2.437–445 по «Садхана-дипике»."
+
+- id: ev-vrinda-devi-rupa
+  title: "Рупа являет Вринда-деви у Брахма-кунды"
+  title_en: "Rupa manifests Vrinda-devi at Brahma-kunda"
+  period: P14
+  order: 17.45
+  date_conf: оценка
+  themes: [deities]
+  notes: "«Бхакти-ратнакара» 2.449–453 по «Садхана-дипике»."
+
+- id: ev-gopinatha-madhu-pandita
+  title: "Явление Гопинатхи Мадху Пандиту у Вамшивата"
+  title_en: "Gopinatha appears to Madhu Pandita at Vamshivata"
+  period: P14
+  order: 17.6
+  date_conf: оценка
+  themes: [deities]
+  notes: "«Бхакти-ратнакара» 2.473–483."
