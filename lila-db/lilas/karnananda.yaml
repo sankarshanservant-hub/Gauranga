@@ -418,3 +418,81 @@
   event: ev-ramachandra-instructs-vira-hambira
   verses:
     - {file: "karnananda/ru/04.md", from: "39", to: "474"}
+
+- id: krn-0024
+  source: karnananda
+  ref: "Нирьяса 5, 1–53"
+  file: "karnananda/ru/05.md"
+  period: P15
+  order: 111.9
+  title: "«Гопала-чампу»: Шринивас видит в ней паракию; Вьяса Чакраварти — свакию; ученики пишут Дживе через Рая Васанту"
+  summary: "Рамачандра рассказывает царю: Джива прислал Шринивасу «Гопала-чампу»; Шринивас понял её внутренний смысл как чистую паракию и запретил давать её непосвящённым; Вьяса Чакраварти, прочтя книгу, стал учить, что садхана в паракии ведёт к обретению в свакии, и в Кхетури спорил с Рамачандрой, Говиндой и Нароттамой о памятовании; трое отправили письмо Дживе и его окружению с Раем Васантой; Джива ответил Шринивасу (недовольно спрашивая о Вьясе) и ученикам: «что созерцают в садхане, то и обретают»."
+  persons: ["@ramachandra-kaviraja", "@vira-hambira", "@srinivasa-acharya", "@jiva-gosvami", "@vyasa-acharya", "@govinda-kaviraja", "@narottama-dasa"]
+  places: ["#yajigrama", "#kheturi", "#vrindavana"]
+  kind: lila
+  authority: C
+  notes: "Сюжет о споре с Вьясой известен только по «Карнананде»; Рай Васанта — вестник."
+  themes: [teaching, learning]
+  teaching: [prema]
+  event: ev-gopala-champu-dispute
+  verses:
+    - {file: "karnananda/ru/05.md", from: "1", to: "53"}
+
+- id: krn-0025
+  source: karnananda
+  ref: "Нирьяса 5, 54–82"
+  file: "karnananda/ru/05.md"
+  period: P15
+  order: 112
+  title: "Письма Дживы Госвами Шринивасу (уход Бхугарбхи, вопрос о Вьясе, правка книг) и ученикам (сева садхака-рупена); третье письмо — Говинде; царь в экстазе"
+  summary: "Приводятся санскритские письма: Джива Шринивасу (бхадра) — о здоровье, уходе Шри Бхугарбхи Госвами, о Вриндаване Дасе, Вьясе Шарме и Васудеве Кавирадже, о незавершённой правке «Расамрита-синдху», «Мадхава-махотсавы», «Уттара-чампу» и «Хари-намамриты»; Джива Рамачандре, Нароттаме и Говинде (вайшакха) — толкование БРС 1.2.295: служение в сиддха-дехе по раганугe, внешнее — по вайдхи, особые наставления даст Ачарья; третье письмо хвалит песни Говинды; царь плачет от радости, Рамачандра велит хранить это втайне."
+  persons: ["@jiva-gosvami", "@srinivasa-acharya", "@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja", "@bhugarbha", "@vyasa-acharya", "@vira-hambira", "@krishnadasa-kaviraja"]
+  places: ["#vrindavana", "#vana-vishnupura"]
+  kind: teaching
+  authority: C
+  parallels: "«Према-виласа», Полувиласа (письма); «Бхакти-ратнакара» 14"
+  themes: [teaching, learning]
+  teaching: [prema, scripture]
+  scriptures: ["БРС 1.2.295", "ЧЧ Мадхья 8.222"]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "karnananda/ru/05.md", from: "54", to: "82"}
+
+- id: krn-0026
+  source: karnananda
+  ref: "Нирьяса 5, 83–140"
+  file: "karnananda/ru/05.md"
+  period: P11
+  order: 50
+  title: "Махапрабху в Шрирангаме у Трималлы Бхатты: служение юного Гопалы Бхатты; «ты — спутница Радхи»; предсказание о Шринивасе"
+  summary: "Рамачандра по просьбе царя рассказывает: обходя юг, Махапрабху провёл чатурмасью в Шрирангаме в доме Трималлы Бхатты; мальчик Гопала, сын Венкаты, служит Ему, угадывая желания; однажды Господь говорит ему: «Ты — спутница Радхи», а Гопала: «Ты — сын царя Враджа в бхаве Радхи»; Господь велит ему послужить родителям и идти во Вриндаван к Рупе и Санатане, дарит каупину и ткань и предсказывает: из Гауды придёт юный брахман Шринивас — Моя шакти; отдай ему это, вручи книги и пошли в Гауду; позже Я пришлю тебе сиденье и шнур."
+  persons: ["@mahaprabhu", "@gopala-bhatta", "@trimalla-bhatta", "@venkata-bhatta", "@srinivasa-acharya", "@rupa-gosvami", "@sanatana-gosvami", "@ranganatha-deity"]
+  places: ["#ranga-kshetra"]
+  kind: prophecy
+  authority: C
+  cc: "Мадхья 9"
+  divergence: "По ЧЧ (Мадхья 9.82) хозяин Господа — Венката Бхатта; здесь — Трималла Бхатта, а Гопала — сын Венкаты; предсказание о Шринивасе и дар каупины в Шрирангаме — по «Карнананде»."
+  themes: [pilgrimage, revelation]
+  bhava: [radha]
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "karnananda/ru/05.md", from: "83", to: "140"}
+
+- id: krn-0027
+  source: karnananda
+  ref: "Нирьяса 5, 141–188 и колофон"
+  file: "karnananda/ru/05.md"
+  period: P14
+  order: 90
+  title: "Гопала Бхатта во Вриндаване с Рупой и Санатаной; «Гопала-бхатташтака»; единство трёх Госвами"
+  summary: "Гопала Бхатта хранит дары Господа в тайне и живёт во Вриндаване с Рупой и Санатаной (ЧЧ Ади 10.105); приводятся паяр и стихи «Гопала-бхатташтаки» Кришнадаса Кавираджи (Гопала — Гуна-манджари), «Хари-бхакти-виласа» Санатаны приписана Гопале Бхатте; стихи о Гопале и Рагхунатхе как помощниках; «Вайшнава-вандана» Дайвакинанданы; Рамачандра обещает рассказать об обете Шринивасы."
+  persons: ["@gopala-bhatta", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@krishnadasa-kaviraja", "@radha-ramana-deity", "@ramachandra-kaviraja", "@vira-hambira", "@yadunandana-dasa-author", "@hemalata"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: C
+  notes: "Упоминание: жизнь Гопалы Бхатты во Вриндаване."
+  themes: [teaching]
+  teaching: [vaishnava]
+  event: ev-gopala-bhatta-comes-vrindavana
+  verses:
+    - {file: "karnananda/ru/05.md", from: "141", to: "188"}
