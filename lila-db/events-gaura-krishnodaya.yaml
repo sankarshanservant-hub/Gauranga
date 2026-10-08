@@ -142,3 +142,25 @@
   cb: ""
   themes: [deities, mercy]
   notes: "Предание, рассказанное Господу Нитьянандой в Катаке (ЧЧ Мадхья 5): два брахмана из Видьянагара, обещание дочери, Гопала-свидетель; царь Пурушоттама перевозит Божество из Канчи в Катак, царица дарит жемчужину."
+
+- id: ev-gopinatha-sarvabhauma-debate
+  title: "Гопинатха Ачарья доказывает Сарвабхауме божественность Господа"
+  title_en: "Gopinatha Acharya proves the Lord's divinity to Sarvabhauma"
+  period: P10
+  order: 20
+  cc: "Мадхья 6"
+  cb: ""
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, scripture]
+  notes: "ЧЧ Мадхья 6: спор Гопинатхи с Сарвабхаумой и его учениками; «Гаура-кришнодая» 8.20–23."
+
+- id: ev-first-year-festivals-puri
+  title: "Первые праздники в Пури: Дола-ятра и Рама-навами"
+  title_en: "The first festivals in Puri: Dola-yatra and Rama-navami"
+  period: P10
+  order: 40
+  years: [1510, 1510]
+  cc: "Мадхья 7"
+  cb: ""
+  themes: [festival, jagannatha]
+  notes: "ЧЧ Мадхья 7: Господь пришёл в Пури в месяц магха/пхалгуна, видел Дола-ятру и ушёл на юг в вайшакху. «Гаура-кришнодая» (8.42–54) подробно описывает обряды пяти ночей Дола-ятры, Рама-навами и даманака-пуджу."

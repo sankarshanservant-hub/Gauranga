@@ -1316,3 +1316,163 @@
   event: ev-sakshi-gopala-two-brahmins
   verses:
     - {file: "gaura-krishnodaya/ru/07.md", from: "44", to: "60"}
+
+- id: gkd-0068
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 1–2"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P09
+  order: 86
+  title: "Бхуванешвара и Капотешвара"
+  summary: "Оставив Сакши-гопалу, Господь видит в Экамра-ване лингу Бхуванешвары и Капотешвару на реке Бхаргави; отдав посох Нитьянанде, Он спешит к храму Джаганнатхи."
+  persons: ["@mahaprabhu", "@nityananda", "@shiva"]
+  places: ["#bhubaneshvara"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 5"
+  cc: "Мадхья 5"
+  themes: [pilgrimage, deities]
+  event: ev-ekamra-bhubaneshvara
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "1", to: "2"}
+
+- id: gkd-0069
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 3–7"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P09
+  order: 75
+  title: "Нитьянанда ломает посох Господа"
+  summary: "Нитьянанда ломает посох; на вопрос Господа он объясняет, что посох сломался, когда он подхватил Господа, упавшего в экстазе; Господь в гневе уходит один и, достигнув Джаганнатхи, теряет сознание от премы."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 5"
+  cc: "Мадхья 5"
+  themes: [sannyasa, ecstasy]
+  divergence: "Посох сломан у Атхаранала, перед самым Пури (в ЧЧ — у реки Бхарги, по дороге)."
+  event: ev-danda-broken
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "3", to: "7"}
+
+- id: gkd-0070
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 8–16"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P10
+  order: 5
+  title: "Экстаз перед Джаганнатхой; Сарвабхаума уносит Господа к себе"
+  summary: "Сарвабхаума видит Господа без сознания перед Джаганнатхой, велит отнести Его к себе и дивится сатвика-бхавам; спутники приходят, поют, и Господь, очнувшись, пляшет; Сарвабхаума кормит всех."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@nityananda", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 6"
+  cc: "Мадхья 6"
+  themes: [jagannatha, ecstasy]
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "8", to: "16"}
+
+- id: gkd-0071
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 17–23"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P10
+  order: 20
+  title: "Гопинатха Ачарья: «Он — Владыка мира»"
+  summary: "Гопинатха Ачарья, земляк Господа, приходит к Нему; Сарвабхаума предлагает Господу слушать Веданту и расспрашивает Гопинатху; тот отвечает, что Чайтанья — Сам Бхагаван, о чьей санньясе и золотом цвете говорил Вьяса."
+  persons: ["@gopinatha-acharya", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 6"
+  cc: "Мадхья 6"
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, scripture]
+  event: ev-gopinatha-sarvabhauma-debate
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "17", to: "23"}
+
+- id: gkd-0072
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 24–41"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P10
+  order: 30
+  title: "Семь дней Веданты; опровержение майявады; обращение Сарвабхаумы"
+  summary: "Семь дней Сарвабхаума излагает Веданту; Господь молчит, затем критикует косвенное толкование: главное изречение — пранава, а «тат твам аси» — частное; джива — часть Господа; Брахман обладает формой и тремя энергиями; Шанкара скрыл истину по велению Господа. Побеждённый Сарвабхаума видит четырёхрукий и двурукий облик, слагает сто шлок и становится опорой бхакти."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@shiva"]
+  places: ["#puri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 6"
+  cc: "Мадхья 6"
+  themes: [teaching, revelation]
+  bhava: [aishvarya]
+  teaching: [vedanta, maya, bhakti-supremacy]
+  divergence: "Порядок энергий (хладини, сандхини, самвит) в 8.34 отличается от ЧЧ."
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "24", to: "41"}
+
+- id: gkd-0073
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 42–54"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P10
+  order: 40
+  title: "Дола-ятра, Рама-навами и даманака-пуджа"
+  summary: "Господь живёт у Сарвабхаумы до конца весны и видит Дола-ятру Джаганнатхи и Баларамы: пять ночей шествия Говинды, праздник цветного порошка, качели в полнолуние, где Он пляшет и теряет сознание; затем — Рама-навами и поклонение даманаке в месяц чайтра."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@balarama"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 7 (упоминание)"
+  cc: "Мадхья 7"
+  calendar: "пхалгуна-пурнима; чайтра, Рама-навами"
+  themes: [festival, jagannatha, ecstasy]
+  divergence: "Подробное описание обрядов Пури — самостоятельно у Говинды-девы."
+  event: ev-first-year-festivals-puri
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "42", to: "54"}
+
+- id: gkd-0074
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 55–56"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P10
+  order: 31
+  title: "Сарвабхаума ест прасад, не умывшись"
+  summary: "В месяц мадхава на рассвете Господь приносит Сарвабхауме остатки трапезы Джаганнатхи; тот ест их, не умывшись, и Господь считает благословенной всю Уткалу и решает идти на юг."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 6"
+  cc: "Мадхья 6"
+  themes: [prasada]
+  teaching: [prasada-teaching]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "55", to: "56"}
+
+- id: gkd-0075
+  source: gaura-krishnodaya
+  ref: "Сарга 8, 57–61"
+  file: "gaura-krishnodaya/ru/08.md"
+  period: P11
+  order: 5
+  title: "Уход на юг: киртан в Алаланатхе"
+  summary: "Почтив Сарвабхауму, Господь уходит; горожане бегут следом; вечером в Алаланатхе Он поёт и пляшет с ними, затем отпускает их в Пури и по совету Нитьянанды идёт на юг с Кришнадасом."
+  persons: ["@mahaprabhu", "@nityananda", "@sarvabhauma", "@kala-krishnadasa"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 7"
+  cc: "Мадхья 7"
+  themes: [pilgrimage, kirtan, separation]
+  event: ev-departure-for-south
+  verses:
+    - {file: "gaura-krishnodaya/ru/08.md", from: "57", to: "61"}
