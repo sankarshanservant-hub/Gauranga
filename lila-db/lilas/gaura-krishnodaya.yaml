@@ -2566,3 +2566,274 @@
   event: ev-return-puri-after-gauda
   verses:
     - {file: "gaura-krishnodaya/ru/13.md", from: "58", to: "60"}
+
+- id: gkd-0132
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 1–2"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 25
+  title: "Ночной уход из Пури во Вриндаван"
+  summary: "Прожив сезон дождей в Пури, осенью Господь ночью тайно уходит во Вриндаван с Балабхадрой Бхаттачарьей."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17"
+  cc: "Мадхья 17"
+  themes: [pilgrimage, separation]
+  event: ev-departure-for-vrindavana
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "1", to: "2"}
+
+- id: gkd-0133
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 3–8"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 30
+  title: "Джхарикханда: звери следуют за Господом"
+  summary: "В лесу тигры, слоны, буйволы, олени и павлины, забыв вражду, следуют за Господом, повторяя Его имена."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#jharikhanda"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 17"
+  cc: "Мадхья 17"
+  themes: [ecstasy, mercy]
+  teaching: [holy-name]
+  event: ev-jharikhanda-animals
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "3", to: "8"}
+
+- id: gkd-0134
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 9–11"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 35
+  title: "Каши: Тапана Мишра и Чандрашекхара"
+  summary: "В Каши Господь омывается в Маникарнике, видит Вишвешу и Бинду-Мадхаву и три дня живёт у Тапаны Мишры, оказав милость и Чандрашекхаре."
+  persons: ["@mahaprabhu", "@tapana-mishra", "@chandrashekhara-vaidya", "@balabhadra-bhattacharya"]
+  places: ["#kashi"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17"
+  cc: "Мадхья 17"
+  themes: [pilgrimage]
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "9", to: "11"}
+
+- id: gkd-0135
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 12–16"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 50
+  title: "Матхура: экстаз Господа; брахман — ученик Мадхавендры"
+  summary: "Во Врадже Господь пляшет в слезах; омывшись у Вишрамы, видит Кешаву на месте рождения; брахман-ученик Мадхавендры принимает Его, и с ним Господь обходит святыни Матхуры."
+  persons: ["@mahaprabhu", "@madhavendra-puri"]
+  places: ["#mathura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17"
+  cc: "Мадхья 17"
+  themes: [pilgrimage, ecstasy]
+  event: ev-arrival-mathura
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "12", to: "16"}
+
+- id: gkd-0136
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 17–28"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 100
+  title: "Вриндаван приветствует Господа; спор попугая и шарики"
+  summary: "Во Вриндаване деревья кланяются, коровы лижут стопы, олени и птицы окружают Господа; попугай славит Кришну, шарика — Радху; когда они улетают, Господь падает без чувств."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 17"
+  cc: "Мадхья 17"
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha]
+  event: ev-parrots-vrindavana
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "17", to: "28"}
+
+- id: gkd-0137
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 29–32"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 120
+  title: "Обретение Радха-кунды и Шьяма-кунды"
+  summary: "В Ариштаграме, не получив ответа от жителей, Господь находит два пруда с белой и тёмной водой, омывается в них и катается по земле, воспевая их величие."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#radha-kunda"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [pilgrimage, ecstasy]
+  event: ev-radha-kunda-discovery
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "29", to: "32"}
+
+- id: gkd-0138
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 33–35"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 130
+  title: "Говардхана: Господь обнимает камень, но не поднимается на гору"
+  summary: "У Манаса-ганги Господь обнимает камень Говардханы и, считая гору телом Хари, не поднимается на неё; видит Харидеву."
+  persons: ["@mahaprabhu"]
+  places: ["#govardhana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [pilgrimage, deities]
+  event: ev-govardhana-visit
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "33", to: "35"}
+
+- id: gkd-0139
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 36–38"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 135
+  title: "Гопала сходит в Гостхали"
+  summary: "Гопала, внушив страх перед яванами, ночью сходит с горы в Гостхали; Господь четыре дня служит Ему, а когда Гопала возвращается, идёт в Камьявану."
+  persons: ["@mahaprabhu", "@shrinathji-deity"]
+  places: ["#govardhana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [deities]
+  divergence: "Гостхали и четыре дня (в ЧЧ — Гантхули, три дня)."
+  notes: "Гопала Говардханы (у валлабхитов — Шри Натхджи)."
+  event: ev-gopala-ganthuli
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "36", to: "38"}
+
+- id: gkd-0140
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 38–46"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 90
+  title: "Нандишвара и леса Враджи"
+  summary: "Господь видит в пещере Нандишвары Говинду с Нандой и Яшодой, проходит Кхадиравану, Бхандиравану, Бхадра-, Шри-, Кумуда-, Лоха-ваны, Махавану, Гокулу, Акрура-тиртху, озеро Калии, Чира-гхат, место раса, — и проводит там дни, как мгновение."
+  persons: ["@mahaprabhu", "@nanda", "@yashoda"]
+  places: ["#vrindavana", "#nandagrama", "#gokula", "#bhandiravana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [pilgrimage, krishna-lila]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "38", to: "46"}
+
+- id: gkd-0141
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 47–48"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 170
+  title: "Кришнадас-раджпут"
+  summary: "Под тамариндом на берегу Ямуны к Господу приходит царевич Кришнадас, отрёкшийся от мира; Господь делает его спутником."
+  persons: ["@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [mercy]
+  event: ev-krishnadasa-rajput
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "47", to: "48"}
+
+- id: gkd-0142
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 49–50"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 180
+  title: "Молва: «Сам Кришна играет в лесу»"
+  summary: "Люди говорят, что Кришна вновь пляшет на голове Калии и пасёт коров; Господь со смехом опровергает это."
+  persons: ["@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [revelation]
+  event: ev-vraja-residents-see-krishna
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "49", to: "50"}
+
+- id: gkd-0143
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 51–58"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 181
+  title: "Акрура-тиртха: Господь бросается в Ямуну; уход из Враджи"
+  summary: "Вспомнив видение Акруры, Господь бросается в Ямуну; Бхаттачарья вытаскивает Его и, посоветовавшись с брахманом из Матхуры, уговаривает идти в Праягу к Макара-санкранти; Господь прощается с жителями Враджи, и Матхура скорбит, как гопи при отъезде Кришны."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#vrindavana", "#mathura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [ecstasy, separation]
+  event: ev-akrura-ghata-fall
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "51", to: "58"}
+
+- id: gkd-0144
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 59–60"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 181.5
+  title: "Путь в Праягу; яван становится Рамадасом"
+  summary: "Решив спасти Санатану, Господь идёт лесом вдоль Ямуны в Праягу; по пути люди срединной страны получают прему, и злой яван становится Рамадасом."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18"
+  cc: "Мадхья 18"
+  themes: [muslims, mercy]
+  event: ev-pathans-ramadasa
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "59", to: "60"}
+
+- id: gkd-0145
+  source: gaura-krishnodaya
+  ref: "Сарга 14, 61–70"
+  file: "gaura-krishnodaya/ru/14.md"
+  period: P13
+  order: 182
+  title: "Праяга: Валлабха Бхатта; Рупа и Анупама"
+  summary: "В Макара-санкранти Господь омывается в Праяге, видит Вени-Мадхаву; Валлабха Бхатта и Рагхупати Упадхьяя служат Ему; Санатану заточает владыка Гауды; Рупа раздаёт богатство и с братом приходит в Праягу, падает к стопам Господа с соломинкой в зубах; Господь обнимает их и селит рядом."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@anupama", "@vallabha-bhatta", "@sanatana-gosvami", "@gauda-sultan"]
+  places: ["#prayaga"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 19"
+  cc: "Мадхья 19"
+  calendar: "Макара-санкранти"
+  themes: [mercy, pilgrimage]
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "gaura-krishnodaya/ru/14.md", from: "61", to: "70"}

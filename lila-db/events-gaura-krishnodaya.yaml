@@ -376,3 +376,50 @@
   cb: ""
   themes: [jagannatha, pilgrimage]
   notes: "Господь с Балабхадрой Бхаттачарьей и Дамодарой Пандитом возвращается в Пури; Его встречают Рамананда, Гададхара, Сарвабхаума."
+
+- id: ev-parrots-vrindavana
+  title: "Вриндаван: деревья, коровы, олени и спор попугая с шарикой"
+  title_en: "Vrindavana: the trees, cows, deer and the dispute of the parrot and the sarika"
+  period: P13
+  order: 100
+  cc: "Мадхья 17"
+  cb: ""
+  themes: [ecstasy, krishna-lila]
+  notes: "ЧЧ Мадхья 17: природа Вриндавана приветствует Господа; попугай славит Кришну, шарика — Радху; Господь теряет сознание."
+
+- id: ev-gopala-ganthuli
+  title: "Гопала сходит с Говардханы, и Господь созерцает Его"
+  title_en: "Gopala comes down from Govardhana, and the Lord beholds Him"
+  period: P13
+  order: 135
+  cc: "Мадхья 18"
+  cb: ""
+  themes: [deities]
+  notes: "ЧЧ Мадхья 18: Господь не поднимается на Говардхану; Гопала под предлогом угрозы мусульман сходит в Гантхули."
+
+- id: ev-krishnadasa-rajput
+  title: "Кришнадас-раджпут принимает прибежище у Господа во Вриндаване"
+  title_en: "Krishnadasa the Rajput takes shelter of the Lord in Vrindavana"
+  period: P13
+  order: 170
+  cc: "Мадхья 18"
+  cb: ""
+  themes: [mercy]
+
+- id: ev-akrura-ghata-fall
+  title: "Акрура-тиртха: Господь бросается в Ямуну; Бхаттачарья вытаскивает Его и уводит из Враджи"
+  title_en: "Akrura-tirtha: the Lord throws Himself into the Yamuna; the Bhattacharya pulls Him out and leads Him from Vraja"
+  period: P13
+  order: 181
+  cc: "Мадхья 18"
+  cb: ""
+  themes: [ecstasy, separation]
+
+- id: ev-pathans-ramadasa
+  title: "Обращение пуштунов на пути в Праягу; Рамадас"
+  title_en: "The conversion of the Pathans on the way to Prayaga; Ramadasa"
+  period: P13
+  order: 181.5
+  cc: "Мадхья 18"
+  cb: ""
+  themes: [muslims, mercy]
