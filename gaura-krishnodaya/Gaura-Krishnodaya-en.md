@@ -53,6 +53,16 @@ Vaishnava theology, the text is translated as it stands and the divergence is no
 - Canto Six. Sannyasa
 - Canto Seven. The Journey to Nilachala
 - Canto Eight. The Gift of Prema to the People of Utkala
+- Canto Nine. Pastimes in the Southern Land
+- Canto Ten. The Return from the Southern Journey
+- Canto Eleven. The Grace Shown to the Gajapati
+- Canto Twelve. The Festivals of All Seasons
+- Canto Thirteen. The Coming to Vanga, Anga and Gauda
+- Canto Fourteen. Beholding Vrindavana
+- Canto Fifteen. The Account of the Refuge
+- Canto Sixteen. The Rising of the Devotees' Joy
+- Canto Seventeen. The Manifestation of Wondrous States
+- Canto Eighteen. Victory in His Own Abode
 
 ---
 
@@ -1271,3 +1281,1631 @@ Vaishnava theology, the text is translated as it stands and the divergence is no
 [^08-11]: The festivals of Puri (Dola-yatra, Rama-navami, the worship of damanaka) are mentioned only briefly in the CC. Govinda-deva, an Oriya, describes the rites of Puri in detail; this is one of his independent features. According to the CC (Madhya 7), the Lord left for the south soon after Sarvabhauma's conversion, in the month of Vaishakha.
 [^08-12]: CC Madhya 6: the Lord brought Sarvabhauma Jagannatha's prasada early in the morning, and he ate it without washing — thus transcending the Vedic rules; the Lord embraced him and said that now He was at peace.
 [^08-13]: CC Madhya 7: the Lord went south with the brahmin Krishnadasa, given Him as a servant on Nityananda's advice; at Alalanatha He danced in kirtan and sent the devotees back.
+
+---
+
+# Canto Nine. Pastimes in the Southern Land
+
+*Kurma and the leper Vasudeva; Jiyada-Nrisimha; the meeting with Ramananda Raya on the Godavari and the discourse on the rasas; the brahmin who exchanged Rama's name for Krishna's; the Buddhists and the bird; Tirupati, Kanchi, Shivakanchi; Shrirangam and the chaturmasya with Venkata Bhatta (pp. 41–44)*
+
+*[p. 41]*
+
+**1.** Carrying a waterpot, in only a kaupina and a reddish cloth, Gaura-Krishna, having shown favour to Krishnadasa who followed Him and suppressing His thirst, went on, repeating: "Krishna! Achyuta!"
+
+**2.** Whoever saw Him, touched Him, heard Him from afar, served Him or gave Him alms — they, as if infected by His radiance, received the wine of the joy of prema and became intoxicated on earth.
+
+**3.** Thus, raising the ocean of love on the way, stopping for the night now in one village, now in another, the ascetic with the gait of a lion saw Adi-Kurma, rejoiced, danced and bowed down with praise.
+
+**4.** In that town lived a learned brahmin named Kurma, with a heart untiring in dharma, compassionate, a doer of great deeds; and he, full of love, bowing down, devotedly led the Lord to his home, wishing to cross over the hell [of rebirth].
+
+**5.** Then this best of the initiated, seeing [the greatness] of the Lord, though beside himself with the joy of prema, gave Him alms and wished to leave together with Hari; but the Lord, knowing this, showed him favour and forbade him.
+
+**6.** In the morning, when the Lord departed, he, his senses crushed, having accompanied Him a little way, somehow forced himself to turn back and came home lamenting: "O Gaurachandra, best of the virtuous, ocean of nectarean qualities, protect me!"[^09-1]
+
+**7.** There also lived Vasudeva, lying on the outskirts, helpless, his body ruined by leprosy — one who, when worms fell from the streams of blood and pus, put them back.
+
+**8.** Hearing that the Lord had stayed at Kurma's house, he fearlessly came to see Him; learning that the Lord had left at dawn, he rolled on the ground, weeping: "Lord, protect me!"
+
+**9.** Seeing him in despair, the Refuge, the destroyer of Kali, appearing at the threshold of the house, before Kurma's eyes embraced that sufferer Vasudeva again and again.
+
+**10.** By contact with the limbs of Him who is beautiful as the waves of the Ganga, his limbs at once became beautiful; and he shone like the form of Kama, burnt by the fire from the eye in Shambhu's forehead, [regaining his body].
+
+**11.** "Your mercy toward the wretched, O Merciful One, is extraordinary — it is attainable only by countless good deeds. Where am I, with a heart full of nothing but filth, and where are You, the sole abode of Kamala!" — saying this, he fell at His feet.
+
+**12.** Having raised him by His power and [given] instruction, He vanished from there in an instant, like lightning; and those two, weeping in separation from Gaura, became honoured together with the townspeople.[^09-2]
+
+**13.** Setting out from there, the excellent Lord, the physician of the disease of worldly existence, soon came to Nrisimha, bowed down and praised Him with tears and trembling, and then, having respectfully eaten in a brahmin's house, spent the night there.[^09-3]
+
+**14.** In the morning the king of ascetics, restrained in speech, set out from there for the Godavari, regarding it as the daughter of Kalinda [the Yamuna]; with longing, His throat choked with joy, He bathed in it and stayed in a grove nearby.
+
+**15.** The ruler in the city called Vidya[nagara], Ramananda — the one root of love for Mukunda's feet — having bathed there in the current of the river, came up to the Lord sitting on the bank, [wondering]: "Who is this great one?"
+
+*[p. 42]*
+
+**16.** Seeing the form — the one cause that makes the birth of those who have eyes their last — he, his heart trembling, taking Him for Mukunda descended, revealing the fullness of sweetness and majesty, fell down before Him.
+
+**17.** "Are you Ramaraja?" — eager to speak, the Lord lovingly pressed him to His neck; and he, forgetting his birth, merits and faults, saying "I am blessed!" embraced the Lord.
+
+**18.** Their absorption [in each other] was broken by the crowds of his soldiers, ministers, townspeople, priests and others; regaining external consciousness, the two — the best of sages and the king — sat apart and conversed humbly.
+
+**19.** He whose colour is like molten gold said: "King, I have long been waiting to meet you — since Sarvabhauma; at My departure he lovingly told Me: you will surely meet the lord of Vidyapura."
+
+**20.** Hearing this, the generous one said to the Lord: "Who am I, Lord? I am a worldly man, fallen, a shudra! Your touch, which destroys the fear of rebirth, has made me, rude from lack of cultivation…"
+
+**21.** While they talked thus, full of love, two watches of the day passed like a fraction of a watch; then a local brahmin with tears in his eyes hastily invited the best of monks for alms, in the king's presence.
+
+**22.** Having reluctantly agreed, the two, lovers of the righteous, went where they wished; and in the evening the one who knew propriety, self-possessed, himself respectfully came to the Lord of all in private.
+
+**23.** Meeting again, the two with unattached hearts held a conversation incomprehensible even to the eaters of sacrifice [the gods], in which the yoga of bhakti, the highest of the high, grew ever higher from question to answer.
+
+**24.** When Achyuta, as if from the side, asked: "What bhakti do you consider the highest?" — the king named the performance of the duties of varna and ashrama, the offering of the fruits of action [to the Lord], and the renunciation of good deeds and their fruits.
+
+**25.** Although his words were supported by evidence, the Lord, having heard them, said: "This is external"; and the king, rejected, named separately bhakti mixed with knowledge and bhakti marked by indifference to it.
+
+**26.** Knowing the three kinds of bhakti of the righteous devoted to Bhagavan's feet, and wishing to know the ruler's heart, He rejected this too — "This is external" — and asked: "What have you long established in your heart, king? Tell Me!"
+
+**27.** Smiling in amazement, the generous great king said to the Moon-faced One: "Only prema, the queen of the rasa of bhakti, surely and at once subdues the Lord of all — in the varieties of shanta-rasa and the rest.
+
+**28.** Shanta-rasa, then dasya-rasa, then the rasa called sakhya, then the rasa of parental love, and the queen of rasas called ujjvala-prema: these are five, like the sense qualities of the five elements.
+
+**29.** For sound and the other qualities reside in the elements — ether and the rest — one, two, three, four and five; so here too each succeeding rasa in order surely attains more sweetness."[^09-4]
+
+**30.** Hearing this, the Lord, His heart melting, said in private: "I have heard your words, like the essence of nectar; speak further, having considered, of the nature of the rasa of the prema of the lord of Vraja and Radhika."
+
+**31.** "Of the five principal rasas, the last — the splendour of rasa, possessed of [the qualities of all], like the earth, broad with heartfelt love — shines eternally in the gopis: pure, sweet by nature, like a gem in the mines.
+
+*[p. 43]*
+
+**32.** You are a fine vina player, my tongue is the vina: as You play on it, so it sounds. Since omniscience accumulates through the movement of Your energy — if You are listening to me, then listen, Gaurachandra.[^09-5]
+
+**33.** The form of Krishna is faultless, beginninglessly perfect, concentrated bliss and consciousness, infinite, possessed of inconceivable energy, the abode of all avataras, mighty with abundant majesty, foremost in sweetness, perceived only in [His dark] form.
+
+**34.** He has no [mundane] senses, no mind, no host of enemies [the passions], no [bodily] elements, no age subject to change, no six waves and no veins; He shines on earth by the wish of His devotee or by His own wish.
+
+**35.** He has energies — internal, external and marginal — great, manifold, inconceivable. The one known here as hladini is the chief of them; the gopis of all Gokula are her forms.
+
+**36.** Her most essential part is called prema; more essential than prema is mahabhava; and Radhika, surpassing them, is its very embodiment: she is the chain for the elephant Krishna.
+
+**37.** So Hari, like the embodied king of rasas, together with the gopis, who are like His portions and bhavas, eternally, in the non-material abode of joyful consciousness, is tasted by His Beloved and Himself tastes [Her].
+
+**38.** The fortunate one who, by the instruction of his guru, worships Him who embraces the cowherd maidens by the path of raga, attains the nectar of tasting His essence, beyond speech and mind — and will not attain it by other means, even millions of them."[^09-6]
+
+**39.** To him who spoke thus joyfully, the Merciful One compassionately revealed the single form of both — the king of rasas called pure ujjvala together with mahabhava; and, beholding this wonder, the best of sages rejoiced.[^09-7]
+
+**40.** Thus, having spent ten days in mutual conversations on the rasa of devotion to Hari, not despondent though in humility, He took leave of him at midnight, and in the morning on the road, seeing a devotee devoted solely to Maruti [Hanuman],
+
+**41.** purifying people by touch, conversation and glance, He went on, reciting a verse with both names, and, having bathed in the Gautami, came to Sri Mallikarjuna-Maheshvara on its bank.
+
+**42.** Then the Lord, having bowed to Ahobala-Nrisimha and to Raghavendra at Siddhavata, stayed in the house of the best brahmin devoted to Him, took alms there and was very glad.
+
+**43.** Gaura said to him, who was ceaselessly repeating the name of Krishna and shedding tears of bliss: "From birth your heart has been attached to Raghava; why then do you fearlessly repeat Krishna's name day and night?"
+
+**44.** The brahmin answered: "I understand it thus, Lord: since I saw You, what my mouth uttered once seems to have stuck to the tip of my tongue and will not leave; what can I do, Lord? This is Your greatness.
+
+**45.** Although both names, Lord, have one meaning, still some difference shines between them; by it my mind and tongue have been stolen; the name of Krishna in His presence [outweighs] much."[^09-8]
+
+**46.** Recognising him as a Vaishnava, He went on; the supreme sage saw Skanda at his tirtha, Trivikrama in the land of Trimatha, and Gopisha at Vriddha-Kashi, and stayed there among the righteous.
+
+**47.** The pandits there, learned in true scriptures, the Golden One defeated and made Vaishnavas; and the chief of the Buddhists with a small band of disciples came in and began to dispute before Him, [putting forward] nine [of his] tenets.
+
+*[p. 44]*
+
+**48.** Refuting one [of them] by his own arguments, He swiftly crushed and scattered them and put him to shame; the defeated, with evil intent, offered Him forbidden food, calling it "Vishnu's prasada."
+
+**49.** At that very moment some bird in the sky carried off all that rice together with the dish, scattered it over them, and the dish, like a discus, it hurled in anger onto the head of their chief teacher.
+
+**50.** Seeing that the venerable [teacher] had fallen senseless from the blow of the dish, the others fell in tears at the Lord's feet; and the Lord said: "Quickly instruct him with the mantra 'Krishna, Krishna' — very loudly, and he will revive."
+
+**51.** Hearing Him, they shouted "Krishna!" loudly in his ear — and he, at once repeating "Krishna," rose and danced in the assembly before the Lord; from then on he became a Vaishnava in that land.[^09-9]
+
+**52.** Having delivered those who had gone astray, the Golden One went on to Tripadi and Trimalla; at Tripadi He saw the King of the Raghus, and at Trimalla bowed to Sri Venkateshvara.
+
+**53.** Having then seen Pana-Nrisimha, Shivakanchi and Vishnukanchi, Kalahasti, Adi-Varaha at Vriddhakala, He came in due course to Gosamaja.
+
+**54.** There [Shiva] Amrita-linga, coming forth, himself embraced Gauranga, who stood in the courtyard; seeing that Shiva had so honoured Him, and deciding that this was God, a multitude of Shaivas on earth became Vaishnavas.[^09-10]
+
+**55.** Having met the Sri Vaishnavas and seen the greatest abode of the God…[^09-11] — He came to the abode of Sri Ranganatha.
+
+**56.** Seeing Him who sleeps on the great couch — the majestic king of serpents — in bliss, hidden in the depth of the cave-fortress of the great hill of Ranga, whose feet are the refuge of Kamala, the abode of love for the eyes — Chaitanya, His consciousness trembling, His gaze astonished, stood motionless for a long time.
+
+**57.** There a certain Sri Vaishnava named Venkata Bhatta, seeing Him, brought Him with great reverence to his house and gave Him alms; and Hari lovingly spent the chaturmasya with him, bathing every day in the waters of the Kaveri and gazing on the Lord of Ranga.[^09-12]
+
+**58.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the ninth canto, named "Pastimes in the Land of Yama's Direction," has come to its close.[^09-13]
+
+*Thus ends the ninth canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^09-1]: CC Madhya 7: the brahmin Kurma wanted to leave home and follow the Lord, but the Lord told him to stay and instruct everyone he met in Krishna's teaching.
+[^09-2]: CC Madhya 7: the leprous brahmin Vasudeva, who put back into his sores the worms that fell out, came when the Lord had already left; the Lord returned, embraced and healed him, and Vasudeva, humbly praising the Lord, became known as "Vasudevamrita-prada."
+[^09-3]: Jiyada-Nrisimha at Simhachalam — CC Madhya 8.
+[^09-4]: CC Madhya 8: Ramananda successively names varnashrama, the offering of fruits, renunciation of duties, bhakti with knowledge, pure bhakti, prema, dasya, sakhya, vatsalya and madhurya; each time the Lord says, "This is external; go further." The example of the elements is as in the CC (Madhya 8): ether has one quality (sound), earth all five.
+[^09-5]: CC Madhya 8: Ramananda tells the Lord that he is only a dancing puppet, and that it is the Lord Himself who speaks through him.
+[^09-6]: Verses 33–38 condense the teaching of CC Madhya 8 on Krishna, His energies, hladini, prema, mahabhava and Radha. "The path of raga" is raganuga-bhakti; according to the CC, the service of the gopis can be attained only by following them.
+[^09-7]: CC Madhya 8: at the end of the conversations the Lord revealed to Ramananda His form as Rasaraja and Mahabhava — Krishna covered by the radiance of Radha; Ramananda lost consciousness.
+[^09-8]: CC Madhya 9: a brahmin devoted to Rama, after seeing the Lord, began ceaselessly to repeat the name of Krishna; he cites the verse that one name of Krishna equals three thousand names of Vishnu (while the name of Rama equals a thousand).
+[^09-9]: CC Madhya 9: the debate with the Buddhists, the offering of impure food, the great bird that carried off the dish and struck the teacher with it, and his revival by loud chanting of the name of Krishna.
+[^09-10]: The list of holy places (vv. 46, 52–55) is close to CC Madhya 9; the episode of the Amrita-linga embracing the Lord and the conversion of the Shaivas is Govinda-deva's.
+[^09-11]: Verse 55 is partly corrupt in the edition (apparently mentioning Jishnu and "Kapala-sarovara"); what is intelligible is translated.
+[^09-12]: CC Madhya 9: at Shrirangam the Lord spent the four months of the rains in the house of Venkata Bhatta (father of Gopala Bhatta Gosvami).
+[^09-13]: "Yama's direction" is the south.
+
+---
+
+# Canto Ten. The Return from the Southern Journey
+
+*The brahmin reading the Gita; the conversation with Venkata Bhatta about Lakshmi and Krishna; Paramananda Puri; Madurai and the illusory Sita; Setubandha; Krishnadasa and the Bhattatharis; the "Brahma-samhita"; Shringeri; Udupi and the Tattvavadis; Sri Ranga Puri; the "Krishna-karnamrita"; the deliverance of the seven palms; the return through Vidyanagara; Prataparudra and the house of Kashi Mishra (pp. 45–48)*
+
+*[p. 45]*
+
+**1.** Then the son of Shachi, spending His time in beholding the Lord of Ranga, in praises, obeisances, sankirtana and salutations, saw a certain brahmin rich in simplicity of heart,
+
+**2.** who day and night, joyfully and without embarrassment, read the *Gita* before Him with mistakes in the words. Hearing this, though people laughed at him, the Lord went up to him as he read.
+
+**3.** "You read with tears and with your hair standing on end; do you know its meaning, brahmin?" To these words the brahmin firmly answered: "Sir, I know neither meaning nor nonsense here.
+
+**4.** But as long as I read the *Gita* spoken by Bhagavan's lips, there clearly appears before me a beautiful dark youth, holding the reins of Phalguna's chariot.
+
+**5.** Therefore I cannot give up reading the *Gita*, though the brahmins despise me. And now, Lord, He Himself, having become its fruit here — You delight me."[^10-1]
+
+**6.** Hearing these gentle words, the Knower of meaning praised them and went to the Bhatta's house for alms, where He soon became absorbed in a beloved conversation.
+
+**7.** "Who is your chosen Deity, Bhatta?" Asked thus by the Lord, he answered: "Do you not know? You are asking about the God of gods, called Lakshmi-Narayana.
+
+**8.** He from whom the worlds are born, by whom they breathe and into whom at the end they enter — the Supreme Lord, our chosen Deity — eternally shines with Sri in the Paravyoma."
+
+**9.** Hearing this, Gaura, the Lord, said to him: "If He is such, why then does His consort Sri, whom you know as truth, perform austerities to attain the feet of the son of the king of Vraja?
+
+**10.** Therefore know, brahmin: He is equal to the Supreme Lord in majesty, but in nothing else; while this son of the king of the cowherds, who bears the burden of sweetness, is higher than He.
+
+**11.** That is why Rama [Lakshmi], having received from her beloved the happiness of great majesty, was not satisfied; and Sri performs austerities, wishing to attain the sweetness of Krishna — let this be understood."[^10-2]
+
+**12.** Thus instructing him in the truth every night and passing the time until the end of the rains, Hari took leave of the brahmin, went on from there and saw Narayana on the Rishabha hill.
+
+**13.** [There] the ascetic Paramananda [Puri] had spent the four months of the rains near Him; seeing him there and greeting him respectfully, taking leave of His fellow-disciple, He moved on.[^10-3]
+
+**14.** Having seen Shiva on Sri-shaila together with Durga, then the town of Kamakoshthi, having visited Vrishasana, He came to Southern Mathura.
+
+**15.** There lived a brahmin who lived on leaves, devoted to the Enemy of Khara [Rama]; Gaura, having bathed in the Kritamala, entered his house, to the joy of that rich forest-dweller.
+
+*[p. 46]*
+
+**16.** Having fed the Lord with great joy on fruits, roots and rice, he said: "Forgive me this meagre alms — the alms of one whose life is broken.
+
+**17.** Ever since I heard that the wicked one had carried off Raghava's wife, her eyes full of tears, I have lost the will to live and live as one who is dying."
+
+**18.** To him in his despair the Lord said: "Why do you, noble one, err so? Like a moth approaching a flame — so the wretched Ravana did not touch her.
+
+**19.** Seeing the rakshasa come to her, she, to destroy him, created an illusory Janaki and left her at the boundary of the hermitage, while she herself, pure as autumn, hid in the fire.
+
+**20.** When the rakshasa's breast was pierced by the arrows of the Raghu and he perished together with his friends and sons, the god of fire, entering Lanka, at the proper time returned her [to Rama]."
+
+**21.** Having freed the brahmin from this grief, the Lord set out on the road to the Sahya mountain; having honoured Bhargava there, He saw the bridge of Sita's Lord in the ocean.
+
+**22.** Having bathed at Dhanus-tirtha and seen Rameshvara, He heard in an assembly [a reading of] the *Kurma Purana*, where the abduction of Sita is told in just this way.
+
+**23.** Having copied it out as conclusive proof, He took it to give to the brahmin who lived in Mathura; and He spent a few days there with Krishnadasa in a brahmin's house.
+
+**24.** Then the Lord returned and gave that account to the brahmin; having bathed in the Tamraparni and at Gajendra-mokshana, He came to Mallara, to Guheshvara,
+
+**25.** where the men are like slippers on women's feet, and wanton women, luring men from other lands, keep them for their pleasure.
+
+**26.** There Hari snatched back Krishnadasa, whom the Bhattatharis had seized by the hair, struck down the villains with their own weapons, and went on to the Payasvini.[^10-4]
+
+**27.** Seeing there with great joy Adi-Keshava, honoured by the learned of that town, He heard the *Samhita* composed by Brahma and accepted it as confirming His teaching on bhakti.[^10-5]
+
+**28.** Having worshipped Ananta-Padmanabha, Janardana and Shankara-Keshava on the bank of the Payasvini, the ocean of knowledge then stopped at the hermitage of Shankara.
+
+**29.** Joyfully conversing with the followers of Shankara, He refuted their doctrine of advaita and by His arguments established the doctrine of bhakti, revealing also the meaning of their sutras.
+
+**30.** The best of monks, self-controlled, having bathed in the morning in the waters of the Tungabhadra, entered the mathas of the Tattvavadis, followers of Madhva, wishing to see the Udupi-Krishna there.
+
+**31.** [That Krishna] who in a dream commanded Madhvacharya: "Serve Me, hidden in the clay of gopi-chandana" — the best of acharyas, waking with a pure mind, pondered this at dawn.
+
+*[p. 47]*
+
+**32.** In the morning a certain shipmaster, pleased, with joined palms, lovingly said to him: "Master, accept today this gopi-chandana which I have brought for you with great trouble."
+
+**33.** Seeing this lump of clay given by the shipmaster, the wise one, beside himself with an upsurge of prema, at once pressed it with both arms to his breast, thinking: "This is the One I saw in my dream."
+
+**34.** Washed by his sweat and tears of bliss, the clay softened and fell away, and on his breast appeared the Deity Himself, like an image taken from a broken mould.
+
+**35.** When the ecstasy passed and he came to himself, Madhvacharya, having obtained the wonderful Krishna as if a son of his own, served Him from then on with parental love.[^10-6]
+
+**36.** Seeing Him, Gaurachandra, immersed in an ocean of bliss, His throat choked with tears and longing, remembering the form of the child Krishna, danced again and again before Him.
+
+**37.** Formerly the followers of Madhva, taking Him for a Mayavadi, had slighted Him; now, seeing His abundance of prema and recognising Him as a Vaishnava, they honoured Him as a holy man and seated Him in the assembly.
+
+**38.** To diminish their hidden pride, Gaura asked them first: "What is your goal and what is the means? Tell Me quickly, so that I may learn the truth from you."
+
+**39.** Hearing this, the best of the acharyas answered the noble One: "Master, the offering [to the Lord] of one's actions — that is our means; and the goal is the attainment of Vaikuntha, the fivefold liberation.
+
+**40.** Sayujya, sarupya, samipya, sarshti and salokya — such is the fruit we desire; attaining one of them in the abode of Vaikuntha, we shall attain the faultless bliss of Brahman."
+
+**41.** Hearing this, the crest-jewel of sannyasis said: "Venerable sir, you strive for this; but the Vaishnavas do not desire these goals of human life: for them liberation itself is an obstacle.
+
+**42.** Therefore bhakti is the fifth goal of human life; it cannot be attained by any works, by anyone, anywhere. Yet you, learned one, call liberation the chief goal and works the means."
+
+**43.** Hearing this, the acharya, ashamed, answered Him: "Master, this is not a new path invented by me: we follow the sampradaya of Madhvacharya, who practised his own dharma."
+
+**44.** He said to him: "Good, venerable sirs; one excellent quality is seen in you: in the sampradaya of Madhvacharya the form of Achyuta is generally acknowledged as real."[^10-7]
+
+**45.** Thus Gaura-Krishna playfully crushed their pride; having accomplished [His purpose], He lovingly took leave of them and, having visited Gokarna, came to Pandava-grama.
+
+**46.** Seeing there the Supreme Lord named Vitthala, taking alms for a few days in a brahmin's house, singing "Krishna, Krishna" with deep longing, He met the noble Ranga Puri.
+
+**47.** The disciple of Madhavendra, running up with love, embraced Sri Gauranga tightly; and there, in talks of prema and well-being, he told of how Vishvarupa had attained perfection.[^10-8]
+
+**48.** Having spent [the night] with him reverently, in the morning He bowed to him and left; sanctifying the holy places there, He came to the bank of the Krishna, to an assembly of pious brahmins.
+
+*[p. 48]*
+
+**49.** Hearing there the scripture called the *Karnamrita* and receiving it from them after taking alms, having bathed in the Tapi, then near the Rishyamuka hill, having crossed the Reva, He came to Dandakaranya.[^10-9]
+
+**50.** There was once a king named Dandaka, burnt to ashes together with his kingdom by a brahmin's curse; his kingdom became a forest, and [his subjects] became trees there.
+
+**51.** His seven sons, ascetics, became sala trees with bark as hard as diamond; no one could pierce even their bark — only Rama, not knowing [who they were], pierced them.
+
+**52.** Embraced by Chaitanya, they regained consciousness, praised Him and at once, before His eyes, filling heaven and earth with their radiance, attained the world where there is neither grief nor delusion.[^10-10]
+
+**53.** Having thus delivered them and bathed in lake Pampa, at Brahmavarta and Sapta-Godavari, He came in the evening with His companion, full of eagerness, to Ramananda in Vidyanagara.
+
+**54.** Having given him the conclusive teaching — the *Samhita* spoken by Brahma — and the *Karnamrita* [beloved] of the righteous, and having spent the night in cherished conversation, He told him: "You will come to Nilachala."
+
+**55.** In the morning He set out by the same road by which He had come; and all whom He met — Shaivas, sannyasis, Shaktas — He gladdened by making them Vaishnavas.
+
+**56.** Thus the Purifier of the earth came again to the holy place of Vishnu, Alalanatha; stopping there and gladdening the townspeople, He sent Krishnadasa to the devotees.[^10-11]
+
+**57.** While Sri Chaitanya had been away in the south and the righteous lived in grief in the best of holy places, the king of Utkala, Sri Prataparudra, heard of His magnanimity.
+
+**58.** Longing to see His form, he summoned the Bhattacharya, learned the truth from him and commanded the wise man: "When He enters the holy place, inform me."
+
+**59.** Hearing this, Sarvabhauma Bhattacharya, glad at heart, said to the lord of the earth: "I will do so, O devotee of God; but a place should be given Him to live near [the temple of] God."
+
+**60.** Hearing this, the king, full of bliss, at once said: "Your request is good. Right by the temple is the dwelling of Kashi Mishra — let it be given to Him quickly."[^10-12]
+
+**61.** Thus instructed by the king, Sarvabhauma went home, told all this to the great [devotees] and waited there for Gauranga's coming.
+
+**62.** Then the Krishna-cloud — the news of His swift coming — with a rain of the nectar of joy made happy the hosts of the Lord's associates, worn out by the long summer of separation.
+
+**63.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the tenth canto, called "The Return from the Journey toward Yama's Quarter," has come to its close.
+
+*Thus ends the tenth canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^10-1]: CC Madhya 9: at Shrirangam a brahmin read the *Gita* with mistakes and wept; he told the Lord that he saw Krishna on Arjuna's chariot, holding the reins; the Lord embraced him.
+[^10-2]: CC Madhya 9: the conversation with Venkata Bhatta about why Lakshmi performed austerities wishing for Krishna's company but did not enter the rasa (cf. Bhag. 10.16.36: "for this Sri performed austerities"): Narayana and Krishna are one, but in Krishna is the highest sweetness. Govinda-deva conveys the idea briefly.
+[^10-3]: CC Madhya 9: on the Rishabha hill the Lord met Paramananda Puri, who was spending the chaturmasya there; both were disciples of Madhavendra Puri.
+[^10-4]: CC Madhya 9: the Bhattatharis (a wandering tribe in Mallara) lured Krishnadasa, the Lord's servant, with a woman; the Lord rescued him, though they rushed at Him with weapons — the weapons fell from their hands. The description of the customs of Mallara (v. 25) is Govinda-deva's.
+[^10-5]: The *Brahma-samhita* (fifth chapter), found in the temple of Adi-Keshava — CC Madhya 9.
+[^10-6]: The story of Madhvacharya and the Deity of Krishna found in a lump of gopi-chandana on a ship — CC Madhya 9 (briefly: Madhva received the Deity from a shipmaster). The details — the dream, the lump of clay pressed to the breast — are Govinda-deva's.
+[^10-7]: CC Madhya 9: the Lord's debate with the head of the Tattvavadis at Udupi about goal and means; the Lord praises them for accepting the form of God as real. On the Gaudiya Vaishnavas' affiliation with the line of Madhva, see the note to 5.28.
+[^10-8]: CC Madhya 9: at Pandharpur Sri Ranga Puri, a disciple of Madhavendra Puri, told the Lord that Shankararanya (Vishvarupa) had left the world at that place.
+[^10-9]: Bilvamangala Thakura's *Krishna-karnamrita*, found on the bank of the Krishna-venva river — CC Madhya 9. Govinda-deva calls it *Karnamrita* and *Sadhu-karnamrita* (v. 54).
+[^10-10]: The deliverance of the seven palms (saptatala) — CC Madhya 9. The legend of King Dandaka and his sons is Govinda-deva's.
+[^10-11]: CC Madhya 9: on the way back the Lord again visited Ramananda, and from Alalanatha sent Krishnadasa to inform the devotees of His return.
+[^10-12]: CC Madhya 10: while the Lord was in the south, Prataparudra questioned Sarvabhauma about Him and at his request assigned the Lord the house of Kashi Mishra.
+
+---
+
+# Canto Eleven. The Grace Shown to the Gajapati
+
+*Return to Puri; the servants of Jagannatha; Bhavananda Raya and his sons; Prataparudra seeks an audience; Ramananda in Puri; Govinda; the Chandana-yatra and the summer festivals; the arrival of Paramananda Puri, Svarupa Damodara and others; the Snana-yatra and the anavasara; the arrival of the Bengali devotees; the king's son; the Netrotsava, the cleaning of Gundicha; the Ratha-yatra and the Lord's dance; Prataparudra recites the "Gopi-gita" (pp. 49–56)*
+
+*[p. 49]*
+
+**1.** Hearing of Sri Gauranga's coming, all the devotees headed by Nityananda, like a flood overflowing on all sides from the ocean of love, vying with one another — "I first, I first!" — rushed to the temple of Alalanatha on the shore of the salt sea.
+
+**2.** Seeing the best of ascetics returning along the road, they eagerly plunged at once into the ocean of supreme bliss; some fell to the ground, others cried: "Glory to You, Lord!", and others from afar, eyes half-closed, contemplated His gracious form.
+
+**3.** Having consoled the anguished ones with the nectar of kind words, loving embraces and smiling glances, He eagerly went with His companions to the Lord of Nilachala and then settled in the house of Kashi Mishra; Sarvabhauma worshipped His feet.
+
+**4.** There, in Mishra's pure house, surrounded by the dwellings of the holy place, He was seen resting by the eager servants of the Lord: Krishnadasa with the golden staff, the superintendent; the two priests; then Janardana, called Dasa;
+
+**5.** two worthy kayasthas — Shikhi and Murari, the chief scribes; the chief keepers of the wardrobe — Hari, Narahari and Vallabha, called Dasa; and other devotees — Balarama Dasa and the rest: all, introduced by Sarvabhauma, took shelter of Him.[^11-1]
+
+**6.** Then the learned Bhavananda Raya, lord of Vidyapura, with four sons, bowed to the feet of the Lord — he who had gladly laid the burden of the kingdom on his firstborn Ramananda and himself lives at home, knowing not the slightest hardship.
+
+**7.** To him, prostrate with his whole body, blossoming with boundless bliss, the Lord, knower of truth, lovingly embracing him, said: "You are Pandu himself with five sons; and you take shelter of Sri Krishna, who is beyond the world — therefore you rightly bear your name, king."[^11-2]
+
+*[p. 50]*
+
+**8.** Then the king, considering himself to have attained life's goal through these loving words, bowed again before Him and said: "Master, this [servant] is sold for a drop of Your boundless mercy; why do You raise him up and speak to him so?
+
+**9.** Allow me, Lord, to return to my land; when I have gone to my domain, my eldest son will come here. And let this Vaninatha, the best of counsellors, remain near You to accomplish whatever is needed."
+
+**10.** Having asked this, he joyfully beheld Sri Jagannatha with His attendants, was satisfied with His prasada, stayed there a few days, gave his heart to Him who removes the sufferings of the afflicted and the poor, and, bowing, set out for his city.
+
+**11.** When he had gone, the Gajapati, longing to see Him, came [to Puri] with elephants, chariots and troops, laying on every road the clouds of dust from the horses' hooves with the moisture that oozed from the temples of rutting elephants.
+
+**12.** Welcomed by all the righteous servants of the Lord of Nilachala, he gazed again and again in the temple at the one, manifold Brahman-Consciousness [Jagannatha]; his body blossomed with joy and thrill; receiving a garland and sandal, the lord of Utkala went to his palace.
+
+**13.** Then he humbly summoned the Bhattacharya and asked: "Brahmin, will the Lord's mercy be upon me or not?" To this he replied: "He does not wish to see a king. You are wise — find a way to this.
+
+**14.** O king of wondrous virtues, when the festival called the Gundicha-yatra comes, there, when He is weeping with bliss on the road before the chariot with His own, you, humbly singing 'Krishna, Krishna,' clasp His feet — and He will at once show you mercy."[^11-3]
+
+**15.** Having thus counselled the king in secret, the wise Sarvabhauma, skilled in counsel, went to the tranquil abode of Sri Chaitanya. A few days later Ramananda, honoured by the king, arrived, shaking the earth of the roads with his troops.
+
+**16.** Having first met the lord of the earth and been lovingly embraced by him, caressed and seated, he said: "I shall see the Lord's feet," and, receiving permission, took leave of him and went eagerly to see the Lord of the three worlds.
+
+*[p. 51]*
+
+**17.** Having bowed again and again to the Lord of Nilashaila, his body thrilling, having duly and properly worshipped Him, he saw Gaura-Krishna joyfully staying in the house of Kashi Mishra and, a bearer of the staff of office, fell from afar to the ground like a stick.
+
+**18.** The Lord at once rose, raised him, calling him by name, and honoured him with tight embraces and loving words; having become acquainted there with those righteous ones and with the avadhuta, he too settled in that abode like a simple man.
+
+**19.** Then the avadhuta and the other righteous ones, having spoken with the Lord in private, sent the auspicious news of His return to the people of Gauda; and He, sending Krishnadasa to His own, thereby delighted Advaita and the other great ones.
+
+**20.** When the Acharya and the others were already preparing to set out, the disciple of Madhavendra [Ishvara Puri], having completed his austerities, attained perfection; and his servant named Govinda came, leaving [his land]; out of respect for his guru's word the Lord kept him by Him.[^11-4]
+
+**21.** So some time passed, and Akshaya-tritiya came; on that day the water festival of the Lord of the world took place, when He, anointed with sandal and camphor, with all His attendants, playfully goes to the abode of the waters.
+
+**22.** On that [day], following His festival with dancing, singing and celebrations, the Lord [Gaura] walked along the bank of the clear, deep, nectar-filled lake; there, when before noon the Slayer of Mura joyfully played in the pool in the middle of the pavilion on the lake, He too played.
+
+**23.** And in the evening, when [the Deity], anointed with camphor and sandal and worshipped, had again ridden in a sturdy boat and returned to the pavilion, and the Lord in radiant splendour set out for His temple — Gaura, dancing in front, followed Him with His own as He wished.
+
+**24.** Having thus seen outside the boat festival of the Lord of Sri, and in the temple the leisurely water play, day and night — the service with the fan, the royal coronation and the wedding of Sri Rukmini — Gaura rejoiced.[^11-5]
+
+**25.** In that sweltering, unbearably scorching season, when the sun's rays were like sparks of a fire blown out from under ash, the three worlds became like a red-hot crucible, and the world of the living like molten metal in it.
+
+*[p. 52]*
+
+**26.** The ocean was troubled, the rivers shrank, the ponds were left without water; Kama grew thin, the days long, the nights short; pique withered, the close embraces of young wives lost their desire, and the touch of the wind became unbearable, like the bite of a young snake.
+
+**27.** Jackfruits, bananas, pomegranates, jambu, mangoes and other fruits ripened; to make this summer fruitful, Murari [Jagannatha], pleased, wished to bathe with hundreds of pitchers of cool water.
+
+**28.** When the festival of the Lord's bathing drew near, all of Gaura's Bengali devotees set out beforehand. Ahead of them came the lord of Puris named Paramananda, sent by Shachi, and after him his servant named Kamalananda.
+
+**29.** [There came also] the noble Svarupa, with the title Damodara, the best of sannyasis; then Brahmananda, the venerable, named Brahma-Bharati; then two with the title Acharya — Bhagavan and Ramabhadra; they entered Gaura's abode, and He showed them due honour.[^11-6]
+
+**30.** Ramananda together with Sarvabhauma repeatedly asked the Lord to receive the king; though the Lord would not agree, they put their misgivings aside — one gave the king fresh hope, the other consoled him.
+
+**31.** Encouraged by this, the Gajapati, on the night before the Snana-yatra of the Lord of Sri, watched with his people the setting of the pitchers, and the next morning, on the full moon of Jyaishtha, attained bliss seeing the bathing of the Daru-brahman with a hundred pitchers.
+
+**32.** Having drunk the bathing water, the king joyfully went up to the inner apartments of the upper storey of his fine palace and, watching with the queen the people coming and going on all the roads, stood there, sated with the nectar of beholding the Supreme Person.
+
+**33.** And Hari performed sankirtana with karatalas and mridangas together with the devotees, who had at once been drenched with sea water; seeing from afar [Jagannatha] on the platform in the guise of an elephant, He, raising His arms like elephant-posts, danced before Him.[^11-7]
+
+*[p. 53]*
+
+**34.** And when the gods, adorned with ornaments, garlands, garments and sandal and worshipped by the priests with abundant, naturally delightful foods, had withdrawn behind their curtains — He in those days went away to Alalanatha.[^11-8]
+
+**35.** Receiving news that the Bengalis were approaching the holy place, the Bhattacharya came himself and brought Gaura home; and then, following Gopinatha, the most eloquent one at once went to the lord of the earth to ask for lodgings for them.
+
+**36.** The king, accepting the words of the god on earth [the brahmin], at once ordered Kashi Mishra and the Lord's servant with the golden staff to look after those arriving; and, to see them, he went up with both of them onto the palace roof.
+
+**37.** Then Gopinatha began to point out to the king one by one the elderly Bengali devotees known to him, led along the road from Gauda by Govinda and Damodara, surrounded by their families — Sri Advaita and the others — as they drew near.
+
+**38.** "This is Advaita, the one worthy of the respect of the teacher of the three worlds; next enters this Haridasa, the wisest; and these, king, are Gangadasa and others, Vakreshvara and the rest — devotees who have left all their own, entering like servants."
+
+**39.** Thus pointed out by this wise man, the honourable [devotees], without even a thought of [the temple of] the Lord of Vaikuntha, with deep longing hastened to Gaurachandra and fell to the ground before Him like trees with severed roots.[^11-9]
+
+**40.** Having honoured the attentive [devotees] with welcome, embraces, lodgings, and also, as was fitting, with the sight of the Consort of Sri [Jagannatha] and the distribution of prasada, the Lord, lodging them in a pleasure garden, dancing and dancing in sankirtana, served the Supreme Lord together with them.
+
+**41.** The king, seeing the numerous community of devotees, beautiful in form, rejoiced and, as if bought by them, wishing to attain their bhava, sent Sarvabhauma to entreat Sri Gauranga; and he, compassionate, at once came to Him.
+
+**42.** The best of Acharyas, together with Nityananda and other venerable ones, following Ramananda, told of the king's disposition; and, learning that the Lord of the wise was most gracious, brought to Him the king's son, nicknamed "the dark Kandarpa."
+
+*[p. 54]*
+
+**43.** Seeing him — young, with a tender dark body, slender waist, in silk garments the colour of gold — the Lord, beside Himself through the manifestation of Krishna in His heart, at once embraced him like a disciple, and thereafter always favoured him with kind words.[^11-10]
+
+**44.** When the two weeks of the "anavasara" of the Lord of Nilashaila had passed and the "festival of the eyes" came again, for whom was it not a festival? Intoxicated on earth with the honey of bliss, the people, fixing their eyes on the moon of His face, thought there was no other creation.
+
+**45.** The best chariots — with many jewels, mighty poles and axles, rows of seats, tiers of many ornaments, wheels gleaming above and below — blocking heaven and earth, shone on the road, crowned with chamaras and cloths.
+
+**46.** Seeing the Netrotsava, the radiant form [of the Lord] and the prepared chariots of the Lord of the three worlds, the Supreme Person, rejoicing, with His associates, having made ready brooms, lovingly set out to cleanse the pavilion of Gundicha.
+
+**47.** The Sri-simhasana and the halls — the Jaganmohana and the others — inside and out He cleansed again and again with pure water; reverently, with the host of devotees, having thrown far away all the rubbish, He sported in the lake of Indradyumna and partook of prasada.[^11-11]
+
+**48.** When at the end of that night the Lord [Jagannatha], composed, again entered [the temple], — the Lord, made ready, with His elder brother and younger sister, in a magnificent dance, with radiance, with parasols, chamaras and the rest, along a shaded road set out for the mighty platforms of the chariots.
+
+**49.** The smiling Lord of Sri, leaning on the shoulders and backs of the powerful dayitas, surrounded above by the best of the gods and at the sides by brahmins and others, to the thunder of instruments all around that drowned the roar of the ocean, stopping at every step, entered Nandighosha.
+
+**50.** Alanka [Balarama] first mounted the chariot called Taladhvaja; [Subhadra] with Bhadra — Padmadhvaja; and Shauri, ascending Tarkshyadhvaja, illumining the quarters with His rays, delighted the people at will with His compassionate glance.
+
+*[p. 55]*
+
+**51.** The Gajapati, again and again, out of love and attachment setting aside his majesty, himself, noble in character, swept the chariots with a broom and, sprinkling them with drops of water with camphor and sandal, served Sri Rama, the Consort of Sri and that Goddess.[^11-12]
+
+**52.** At the end of the service, receiving from Sri Jagannatha a cloth worthy of his labour, he with bowed head set the chariots in motion; and to the simultaneous thunder of instruments, like the roar of the ocean at the end of a kalpa, the chariots moved slowly with a deep sound, sweet as a cloud's.
+
+**53.** And behind them followed the king, as if consoling the earth, which trembled under the weight, its body cut by the rims of the wheels; the gods in the sky, praising the auspicious, circled in their celestial cars — and clouds of dust from the earth hid them, though they were near.
+
+**54.** Performing sankirtana step by step with seven groups of devotees, serving the Holder of the discus in front, tall Gaura-Krishna, clad in cloth, fair, covered with dust, performed a wondrous great tandava, like Shiva.
+
+**55.** On His body the hair stood on end so violently, as if tearing the flesh from the roots; sweat broke out mixed with blood; [the skin] became like the rind of a huge ripe jackfruit; seeing this, all the people opened their eyes wide with love and fear.
+
+**56.** Tears flowed unceasingly, His throat was choked and wet; the Lord, with limbs drawn in, became stiff as a pillar. While He rolled on the ground, the chariot did not move a hair's breadth; when He went forward again — they too ran after.[^11-13]
+
+**57.** To see Him, the abode of wondrous sweetness, the treasury of prema, people gathered around without blinking, like the gods; within, a ring of friends was formed, and beyond it — [a ring] around the form of Krishna, as at the hour of morning worship when the cowherd boys surround Him.
+
+**58.** "This is the hour of prema!" — deciding thus, the shrewd Kakateya [king] ran forward before Madhava and fell at the Lord's feet; the Lord, His mind clouded by bhava, embraced him with outstretched arms; but on coming to external consciousness, as if reproaching Himself, crying "Hari, Hari!", He went away.[^11-14]
+
+**59.** When the morning had passed, [the chariot] entered the garden of the brahmin village, the pavilion adorned with various gems at the end of the garden; there Srinivasa [Jagannatha] together with the son of Shachi again showed, as in Vrindavana, grace to the wives of the sacrificing brahmins.[^11-15]
+
+*[p. 56]*
+
+**60.** When the sun was scorching mercilessly, Gaura, dancing and weary — while the righteous cried: "Glory, glory to the Lord! Protect us, protect us!" — seeing that it was time for the worship of Hari, came into a cool, spacious garden with dense shade.
+
+**61.** Through Vaninatha, the superintendent and others [the king] sent Him much of the Lord's prasada, desirable even to the gods; and when Sri Gaurachandra with His companions was satisfied, the king, in disguise, bowing down, fell at His lotus feet, crying: "Glory!"
+
+**62.** Seeing him bowed down and ceaselessly reciting the verses of love of the cowherd girls pining in separation — verses that at once intoxicate the mind — the Lord, crying: "Ah! Read, read on!" embraced him and stood still; and he, his body weakened by tears of bliss, stood humbly apart with joined palms.[^11-16]
+
+**63.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the eleventh canto, beautiful with the grace shown to the lord of elephants [the Gajapati], has come to its close.
+
+*Thus ends the eleventh canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^11-1]: CC Madhya 10: on the Lord's return Sarvabhauma introduced to Him the servants of Jagannatha — Janardana, Krishnadasa with the golden staff, the scribes Shikhi Mahiti and Murari Mahiti, and others. Govinda-deva, an Oriya, gives the list in his own way.
+[^11-2]: CC Madhya 10: the Lord told Bhavananda Raya that he was Pandu, and his five sons (Ramananda and his brothers) the Pandavas. Bhavananda came with four sons; the fifth is Ramananda.
+[^11-3]: CC Madhya 11: Sarvabhauma advises the king to read the *Rasa-panchadhyaya* to the Lord during the Ratha-yatra, disguised as a Vaishnava; cf. vv. 61–62.
+[^11-4]: CC Madhya 10: Govinda, the servant of Ishvara Puri, came to the Lord after his master's departure at the guru's command, and the Lord accepted his service — though a guru's servant is like a senior — out of respect for the guru's will.
+[^11-5]: The Chandana-yatra (from Akshaya-tritiya, on the Narendra lake) and the summer rites of Puri are described in detail by Govinda-deva; the CC only mentions them. The rite of "Rukmini's wedding" (Rukmini-harana) is celebrated in Puri in the month of Jyaishtha.
+[^11-6]: CC Madhya 10: Paramananda Puri (with Kamalananda), Svarupa Damodara, Brahmananda Bharati, Bhagavan Acharya and others came to the Lord in Puri. According to the CC, they came before the Bengalis.
+[^11-7]: At the Snana-yatra Jagannatha is dressed in the "elephant guise" (hati-vesha, the form of Ganesha) — a local custom of Puri known to Govinda-deva.
+[^11-8]: The anavasara is the two weeks after the Snana-yatra when Jagannatha is not available for darshan; the Lord would go to Alalanatha at this time (CC Madhya 11).
+[^11-9]: CC Madhya 11: Gopinatha Acharya, from the palace roof, pointed out the Bengali devotees to the king; the devotees, without entering the temple, went straight to the Lord, and the king marvelled at this.
+[^11-10]: CC Madhya 12: Prataparudra's son, dark and young, reminded the Lord of Krishna; the Lord embraced him, and the king, embracing his son, felt prema.
+[^11-11]: The cleaning of the Gundicha temple — CC Madhya 12; the Netrotsava — ibid.
+[^11-12]: CC Madhya 13: the king swept the road before the chariots with a golden broom and sprinkled it with sandal water; seeing this, the Lord became well disposed toward him.
+[^11-13]: CC Madhya 13: the seven kirtan groups, the Lord's dance before the chariot, the ecstatic symptoms; the chariot stopped when the Lord fell behind and moved when He went forward.
+[^11-14]: "Kakateya" is the name of a royal dynasty (the Kakatiyas of Warangal, who also had a king Prataparudra); in Govinda-deva it is apparently transferred to Prataparudra the Gajapati. CC Madhya 13: the king caught the falling Lord, and the Lord, coming to Himself, said: "Alas, I have touched a worldly man!"
+[^11-15]: CC Madhya 14: at Balagandi the chariot stops and a great many offerings are made to Jagannatha; Govinda-deva compares this with Krishna's acceptance of the food of the brahmins' wives (Bhag. 10.23).
+[^11-16]: CC Madhya 14: in the garden, while the Lord rested, Prataparudra, dressed as a Vaishnava, massaged His feet and recited the *Gopi-gita* (Bhag. 10.31); the Lord, crying "Read on!", embraced him.
+
+---
+
+# Canto Twelve. The Festivals of All Seasons
+
+*The Ratha-yatra: the chariot will not move, the Lord pushes it; the crowd; Gundicha; Hera-panchami — Lakshmi's anger and Svarupa's explanation; the return of the chariots; the chaturmasya; the rains; Amogha; the autumn and winter festivals; the wish to go to Vrindavana; five years in Puri (pp. 57–62)*
+
+*[p. 57]*
+
+**1.** Having reverently and diligently served that foot of the Lord and received [His] command, the lord of elephants again began to serve the Lord of Sri. But seeing that the chariots would not move despite great efforts, he, a little saddened, harnessed to them a host of intoxicated, tireless, mighty elephants.
+
+**2.** Goaded beyond measure by drivers with sharp hooks in their hands, the elephants pulled with all their might with their trunks at the ends of the huge poles, but, try as they might, could not move those mountain-like [chariots]. Learning of this, Gaurahari, laughing, pushed the chariots and went on ahead.[^12-1]
+
+**3.** When noon had passed, the Consort of Rama [Jagannatha], seeing the sky covered with clouds, measured out the rest of the way; and the people, having rested a little in the shade of the trees, moved on all sides of the chariots with deafening cries: "Glory! Glory!"
+
+**4.** In the crush the women — the musk patterns on their brows smeared, holding tightly to the hands of their relatives, their bodies weak with sweat — jostled here and there by those coming and going, pressed on all sides, tormented by thirst — felt no pain.
+
+**5.** Even the children clinging to their mothers' laps, shielded by their relatives with the ends of their garments from the heat of the sun, watching this festival, did not put their lips to their mother's sweet breast or to the tender cakes, did not close their mouths and did not run about.
+
+**6.** With the collyrium running from the women's eyes, the betel juice from their mouths, the kunkuma from their breasts, the scratches of armlets, the sindura rubbed from their foreheads — from the press of the crowd the young men there seemed adorned and looked as after the pleasures of love.
+
+**7.** The blind, concentrating their minds in their ears, the deaf with their eyes and other senses, the mute with joined palms above their heads, the old leaning on the staffs of their decrepit bodies — praised that God; what then of those whose senses were keen — their praise gave Him joy.
+
+**8.** When the sun became the crest-jewel of the western mountain, the light faded and the chakravakas lost their joy, — along the road lit by lamps Bhagavan together with His brother and sister, descending from the chariots, entered the pavilion of Sri Gundicha.
+
+*[p. 58]*
+
+**9.** There, worshipped by the priests with many beautiful offerings, the Lord prepared to rest in His place; gods, nagas, men and asuras, praising this festival, went to their homes, while Gauranga stayed nearby, on the clear bank.
+
+**10.** Bathing every day in the lake of Indradyumna, serving the Lord with dancing and merriment, partaking of the food sanctified by Him, He spent five days; learning that Kamala was about to come, Gaurahari, smiling, asked Svarupa:
+
+**11.** "Damodara, how is it that this Lord of the worlds has left in a lake of grief His beloved, dear to Him as life, and come here? Tell Me." Asked thus, he replied: "I know all the Lord's secret; what You bid me say, I will tell You clearly in my own words. Listen.
+
+**12.** The summit of Nilashaila is Vaikuntha; there is the Lord of Indira; and this pavilion is Sri Vrindavana; here Sri Radhika serves Him. To Her His mind is sold — not there; Sri has only limited sway. There He sports with Padma, and here with Sri Radha and Bhadra.
+
+**13.** Therefore, leaving Rama [Lakshmi] in that house, Hari, with Rama [Balarama] as His friend and with Bhadra, has Himself come to this Sri Vrindavana. Now Lakshmi, unable to bear it, though composed, will come; and He, appeasing her with words of jealous love, will return again to His house."[^12-2]
+
+**14.** While they were talking thus in question and answer, in the evening Indira came, giving joy to the three worlds, seated in a palanquin of ivory — painted, studded with jewels, covered with cloths, adorned, shining,
+
+**15.** surrounded by maidservants richly adorned with large white gems, carrying pitchers, banners, chamaras, mirrors, parasols, betel boxes, lac, garlands, musk and saffron, and served on all sides by singers, dancers and musicians.
+
+**16.** Her eyes were red as lac, dishevelled locks hung over her tilaka; though her ornaments were disarranged by anger, she was adorned by her natural beauty; proudly filling the quarters with the sound of instruments, she came with all her wealth and pride up to the chariot.
+
+*[p. 59]*
+
+**17.** The goddess angrily and sternly scolded her Husband's servants, threatening with a harsh staff even the senseless chariot; adorned with mingled portions of jealousy, impatience, joy, dry weeping, resentment, pride, a smile and fear, she saw the Lord from afar.
+
+**18.** And He, assuming a beautiful form with golden limbs, stood ready to placate the angry one respectfully; seeing her, moon-faced, in anger, He, abashed with fear and shame, with a glance bade all His servants to appease her.
+
+**19.** Then those five, mighty as lions, said to her, who was berating them angrily in voices breaking with vexation: "Madhavi, this Beautiful One has come here for amusement and, after playing, will return home; go in peace, auspicious one."
+
+**20.** So, at their words, she, though angry, with a wavering heart grew glad and, receiving the garland of favour, returned with her retinue to the temple. And Gaura, curious, watching this play, plunged into the wondrous rasa of the Lords of the three worlds and attained the highest bliss.[^12-3]
+
+**21.** When a few more days had passed, in the morning of the tenth day the Lord, holding a festival as before, mounting the chariots with Balabhadra and His sister, delighting gods, kinnaras, nagas and men, set out for the temple, longing to see His beloved and heightening His conjugal feeling.
+
+**22.** Having seen there the closing of the doors, the meaningful speeches of the maidservants, the meeting with the Daughter of the Ocean, the auspicious arati for both, the victorious ascent onto the Sri-simhasana on the chakra-pitha and the night worship of the body of the Daru-brahman, Gaura returned to His abode.[^12-4]
+
+**23.** When the Bearer of Sharnga had fallen asleep in a secret chamber on a large prepared couch, and the sun had passed into the quarter ruled by the Pot-born [Agastya], the king of ascetics, invited each day for alms by one devotee or another, spent the chaturmasya there, partaking and delighting the people.[^12-5]
+
+**24.** Then came the season of rains: the clouds spread over the courtyard of the sky, creepers of lightning twisted, cranes wavered, the thunder-drum roared, and the rains, driven by storms, covered all in an instant with a downpour of drops.
+
+*[p. 60]*
+
+**25.** Again and again, with ceaseless showers and hail, the earth was soaked; the elephants grew intoxicated with fresh scents; in the forests, where the fires had gone out, the animals, feeding richly on fresh grass, shook the water from their coats.
+
+**26.** The mountain caves were filled with the cries of peacocks, the rivers with streams from the mountains, and the outskirts of the villages with their people; high holes with herons, ponds with multitudes of frogs breaking out of their holes; with their harsh cries [the quarters resounded].
+
+**27.** The trees put forth leaves, the creepers flowers, the ponds filled with water; the roads became impassable with mud; merchants abandoned trade; people went mad with dancing; snakes and ploughmen rejoiced.
+
+**28.** The dense forests filled with bees, as if summoned by the fragrance of jasmine, ketaki, kandali, vichakila, ambashtha, kadamba and lotus blossoms — their hum was like the sound of conches in Kama's march.
+
+**29.** Travellers, by the will of fate deprived of the support of life, pierced by the arrows of the Bodiless One, drowned as if in deep waters; while loving wives, full on the way of the rasa of the Fish-bannered god, though delayed, like rivers still reached their good husbands.
+
+**30.** So even in those foul days the Best of the righteous, champaka-hued, serving with His companions the Lord of the Dark Mountain — with tears of joy as His downpour, songs as His thunder, dispelling the darkness by His radiance — made every day a fair day.
+
+**31.** Once, invited by the Bhattacharya, the Lord, through the faith of his wife, Shathi's mother, joyfully tasted many different dishes; and her son-in-law, who reviled the Noble One for accepting such abundant alms, died of cholera — but He mercifully revived him.[^12-6]
+
+**32.** At the end of the bright fortnight of the month of Nabhas He saw the golden adornment of Hari, the great procession of Sudarshana together with [the festival of] Balarama's birth, the rite of the protective thread, the great festival of Krishna's birth, the festival of Nanda, the great puja, the festival of Vamana, the festival of Indra's banner and others.
+
+**33.** For the delight of that Hari autumn came: with the beauty of clear lotuses it adorned the lakes, with kasha flowers the quarters, with clouds of lovely lustre the footstep of Vishnu [the sky], and with generous fields of various grains the earth.
+
+*[p. 61]*
+
+**34.** With the rising of Agastya the rivers grew shallow and clear, the lakes easily fordable, the swans arrived; by the power of the sun, day by day, the mud dried and [the pond] rejoiced — the mud obtained the lotus, and the moonlight the white lilies.
+
+**35.** To celebrate the autumn festival, Shiva's consort, craving meat and wine, appeared together with millions of Katyayanis; kings, having performed the purification of elephants and horses in their courtyards, marched out to conquer the unconquered, and ascetics to see the holy places.[^12-7]
+
+**36.** In this [season], seeing the devotees observing the vows of the month of Kartika celebrate the "Kaumara" of the Lord of Sri, worship in the month of Urja and celebrate the festival of [the Lord's] awakening, the Lord, glad at heart, wishing to deliver Sanatana and other righteous ones, wanted to go to Vrindavana, but, held back by the devotees, remained.[^12-8]
+
+**37.** Then came hemanta, greatly frightening the earthly abode — and as if from fear of it both sun and fire grew weak; the frosty wind stole the beauty of the human body, the playfulness of the lotuses and the pleasantness of the touch of water.
+
+**38.** The earth, variegated with fields of ripe rice of many colours, became like the autumn sky with clouds; the pride of touchy beauties withered, while the rut of elephants grew; the watches of the nights lengthened, and love in lovers gradually increased.
+
+**39.** In this [season], seeing the festival of the first Ashtami, then the festival of clothing the Lord in warm garments and the abhisheka in the month of Pausha, the Consort of Lakshmi — His body, a golden creeper, trembling in the excess of dancing, sleepless, His hair standing on end and sweat streaming — did not notice the torment of cold.
+
+**40.** Then the cold wind, destroying the lotus thickets, swallowing the radiance, cracking the lips, with its fogs made foul weather even without clouds.
+
+**41.** When the sun with its passage into Makara gradually turned north, day by day the festival of Ananga grew among the young; and from beholding the many festivals of the Lord of the three worlds, the darkness [of ignorance] of the great decreased together with the darkness of the nights.
+
+*[p. 62]*
+
+**42.** When the winter had passed, spring and the other seasons came one after another, as if holding hands; seeing in them the various festivals of the Lord of the gods, overflowing with joy, the Lord did not notice the days passing.
+
+**43.** So five years passed: every year the Bengalis came for the Gundicha and honoured Him, [as did] the noble townspeople with their wives; His heart was bound by the humility of Ramananda and of the great king, and morning and evening He Himself, with His companions, served the Bearer of the discus.[^12-9]
+
+**44.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the twelfth canto, on the festivals of all the seasons, has come to its close.
+
+*Thus ends the twelfth canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^12-1]: CC Madhya 14: the chariot stopped, and even the elephants could not move it; the Lord pushed it with His head, and it rolled on.
+[^12-2]: CC Madhya 14: at the Hera-panchami Svarupa Damodara explains to the Lord the mana (jealous anger) of Lakshmi: Jagannatha left her in the palace and went to Vrindavana (Gundicha), where He is with the gopis. Govinda-deva directly identifies Gundicha with Vrindavana, and Radha with Subhadra ("Bhadra") — the latter is peculiar to him; in the CC Subhadra is not identified with Radha.
+[^12-3]: Hera-panchami — CC Madhya 14: Lakshmi's servants "punish" Jagannatha's servants, while the Lord listens to Svarupa's explanations of the mana of Lakshmi and of the gopis. "The five" in v. 19 are apparently Jagannatha's chief servants.
+[^12-4]: The rites of the return (the Bahuda-yatra, the "closing of the doors," the quarrel and reconciliation with Lakshmi, the ascent to the throne) are local customs of Puri described in detail by Govinda-deva.
+[^12-5]: CC Madhya 15: during the chaturmasya the devotees took turns inviting the Lord to their homes.
+[^12-6]: CC Madhya 15: Sarvabhauma and his wife, Shathi's mother, entertained the Lord; their son-in-law Amogha criticised the Lord for the abundant meal, was struck with cholera, and was healed and forgiven by the Lord.
+[^12-7]: The description of Durga's autumn festival is a poetic image of the season (as in classical kavya); it has no bearing on the worship of the Lord.
+[^12-8]: CC Madhya 16: every year the Lord wished to go to Vrindavana, but Ramananda and Sarvabhauma held Him back. The wish to deliver Sanatana — cf. Madhya 19–20.
+[^12-9]: The description of the festivals of Puri through the seasons (vv. 23–43) is an independent part of the poem, reflecting the customs of the Jagannatha temple in the eighteenth century. "Five years" is Govinda-deva's count; the CC (Madhya 16) speaks of several years in Puri before the Lord set out for Vrindavana by way of Gauda.
+
+---
+
+# Canto Thirteen. The Coming to Vanga, Anga and Gauda
+
+*Departure from Puri; Prataparudra and the six-armed form; the crossing and the king's ministers; Remuna; the Yavana governor provides boats; Panihati; Kumarahatta and Kuliya; Gopala Chapala; Shantipura; Ramakeli: Rupa and Sanatana; Kanai-natashala; Raghunatha Dasa; return to Puri (pp. 63–66)*
+
+*[p. 63]*
+
+**1.** Then, having first taken leave of Sarvabhauma, wise in counsel, and of all the Vaishnavas of Utkala, the Lord, full of eagerness to see the people of Gokula, set out on the road of the Bengalis.
+
+**2.** With special devotees and other great ones [He came] to the abode of the lord of the earth, who is like fire, and Janardana, delighting the people there, bowed before the steadfast Lord, the first of those who speak the truth.[^13-1]
+
+**3.** Hearing that He had come, the lord of elephants, equal to Indra, came out with his ministers to meet the Lord — eager, his voice choked with emotion, his lips purified with praise.
+
+**4.** The ocean of mercy, infinite in prowess, showing mercy to the best of kings, who bowed before Him, revealed to him His six-armed form, composed of Rama and Krishna, able to captivate the eye.
+
+**5.** Seeing this wonder, the king fell to the ground again and again, tears streaming from his eyes; and the King of the gods, resuming His own form, touched him with His lotus hand.[^13-2]
+
+**6.** And though he [had been told] not [to follow] beyond the matha, the ruler of Vidyanagara, his mind bowed by the insistence [of love], came [after Him] and, together with Sarvabhauma and all his soldiers, stopped in the forest near Cuttack.
+
+**7.** The son of Shachi, golden in radiance, having eaten somewhere in a brahmin's house, came to the devotees in that forest — as consciousness returning to motionless bodies.
+
+**8.** After noon the lord of elephants, in haste, wishing to see Him together with his subjects, again humbly came to the Lord, who was staying at the edge of the forest near the town.
+
+**9.** Greeting the newcomer with a smile and a gracious look, praising the king many times and touching him, He told the guides and boatmen to ferry [Him] quickly across the great river.
+
+**10.** While the best fishermen were ferrying Gaura's companions across the river in turn, the sun, seeing such a great burden on the boat, as if out of fear, disappeared.[^13-3]
+
+**11.** Then the king [-moon] shone at the beginning of the night, respectfully giving joy with his rays, on all sides soothing the anxious, as a traveller returned home soothes the face of a pining wife.
+
+**12.** Prataparudra, deeply saddened by separation from the Lord, at His command charged Mangaraja and Harichandana with providing everything necessary for the journey.
+
+**13.** Then these two honest ministers, serving the son of Shachi like servants, joyfully ferried Him across the river, where the moonlight played on the waves.
+
+**14.** Then He, who honours the wise, spent the night in a four-doored pavilion in a square; and when the conches sounded in the temples of Shambhu and He saw the dawn, He set out.
+
+**15.** Then Sarvabhauma and Gadadhara, those two excellent ones, stopped on the road by His oaths, with difficulty turning their hearts [to Him], set out back to Purushottama.[^13-4]
+
+**16.** Having comforted them, He, accompanied by the righteous and surrounded by the service of others, delighting the people of the world with the wealth of prema, came to Remuna, the ornament of good villages.
+
+*[p. 64]*
+
+**17.** In that town He saw Purushottama [Gopinatha], shed abundant tears of joy, stole the hearts of the righteous who watched, and, wise, rejoiced loudly together with great sages.
+
+**18.** Having joyfully spent the night in His courtyard among many homeless people, at dawn He laughingly sent back the son of Bhavananda, though he resisted.
+
+**19.** And that ruler, much afraid of transgressing His command, leaving the Lord, whom it is so hard to see even at the cost of the greatest efforts, returned with his troops.
+
+**20.** Along the road the inhabitants of every village by the king's command served Him with new houses and incomparable gifts; [thus] the One infinite in prowess came to the frontier [of the kingdom].
+
+**21.** Many people, eager to see Him, hastened there with their relatives, and, serving the pollen of His lotus feet, made the ground very uneven.
+
+**22.** Then the two best vassals approached and said to Him at the border of their [kingdom]: "Lord, let it be known: the king enjoys prosperity by Your grace.
+
+**23.** From here, having sought out the Yavana official, a low creature of a cruel line, You should with his permission cross this difficult river by boat."
+
+**24.** Even before their request the Wise One had imperceptibly drawn his heart; and just then, by the will of fate, a certain Yavana entered — a trusted man of his.
+
+**25.** Seeing him before the Lord and hearing his words, Mangaraja and Harichandana were filled with great astonishment: "This is God! He is our [only] friend!"
+
+**26.** Then [the messenger], laughing, said: "What do You wish, Lord?" — [They said:] "Messenger, bring him [your master] quickly. You, Lord, are the sole Purifier of the worlds; how great is Your labour in purifying one Yavana?"
+
+**27.** Honouring the words of the best of ministers, the Lord with a smile gave the command with a glance; and the messenger, having lain long at His feet, carrying His consent on his head, departed.
+
+**28.** He conveyed to the Yavana what Sri Jagadisha had expressed by signs; and he, greatly honouring it, came himself to His abode and bowed down like a humble man.
+
+**29.** "This servant — tell me what he may do for You?" To these words the Lord answered: "Do this one thing for Me: let your river be easy to cross."
+
+**30.** Hearing the Lord's sweet words, he, as if having attained his goal, brought boats, and, to carry the others too, gathered all the boats and gave them to the Lord.[^13-5]
+
+**31.** In that boat the ocean of mercy crossed over and entered the town of Panihati; wishing to show mercy to His companions, He stayed a week in the abode of Raghava Pandita.
+
+**32.** When they had crossed the river by boat, the two best ministers, having reached that land, anxious for Him, at last went by their own road to their kingdom.
+
+**33.** Surrounded on the way by millions of townspeople, Gaura entered the town called Kumarahatta; there, on a road continually jammed by the local people, He joyfully stayed three days.
+
+*[p. 65]*
+
+**34.** Seeing the huge crush, the king of monks at night, unnoticed, with a few companions went to the town of Kuliya; but there too the same crush arose —
+
+**35.** like an elephant maddened by rut, surrounded by bees: though it plunges into the river and swims for long with its body hidden, wherever it comes up, there are the bees.
+
+**36.** In that town the Moon-like One, seeing a brahmin who had once offended [the devotees], a reviler of the great — Gopala Chapala — joyfully delivered him and showed him mercy.[^13-6]
+
+**37.** Then along a road adorned by Nrisimha, who had known beforehand of His coming — with trees shining with fruits and flowers, shading the sun, with the ground strewn with flowers —
+
+**38.** He came to Shantipura, the Peaceful One, and lived there, honoured by Advaita's family; and, in the dress of an ascetic, He gladdened Shachi, who had come there.[^13-7]
+
+**39.** Then, resolving to wander the earth, He, great in glory, set out for Ramakeli, dispelling the darkness of the world by His power on the way.
+
+**40.** The emperor of Gauda, hearing from people of the superhuman greatness of the Golden-radiant One, believing that He was the Lord of the universe, said to his close ministers:
+
+**41.** "I have heard of Him from the steadfast Dabir: He has come here, honoured by the feet [even] of teachers. Let none of you, protectors of the land — young or not — obstruct the ocean of His followers."
+
+**42.** These two wise brothers said to the emperor of the Shakas in private: "Sire, this is not a question for us to answer; as it appears to your heart, so understand it.
+
+**43.** You are a portion of the Lord, and He is the Lord Himself; you know each other; we are only your subjects; can we distinguish between you?"
+
+**44.** Hearing their words, he joyfully, most submissively, said to them again: "If my heart is the measure, then I know that He is the Lord of all.
+
+**45.** Therefore proclaim to the people: let no one ever obstruct Him by force; let Him do as He wishes, gathering the people, and enjoy as He pleases my wealth."[^13-8]
+
+**46.** Receiving this command, they bowed their heads, returned home and with the beating of drums proclaimed the order: "Let no one oppose the Lord."
+
+**47.** Having pleased the Lord and His companions for many days with many gifts, they then secretly wrote and sent Him a letter:
+
+**48.** "We have become lords of the fallen, wretched, of low mind; and You on earth are the Purifier of the hosts of the fallen. Lord, the hour of trial has come."
+
+**49.** Receiving this verse, the Lord at once became eager to see them; and they, full of longing, came secretly at night to the lotus feet of the ocean of mercy.
+
+**50.** Seeing the two best of the learned, holding straw between their teeth, fall before Him, the Lord Himself joyfully raised them, embracing them again and again for some time, and told them everything:
+
+*[p. 66]*
+
+**51.** "You, the brothers Rupa and Sanatana, are My old companions, long separated from Me. Stay at home for now, do not grieve: by My grace you will again attain My company."[^13-9]
+
+**52.** When the Lord, calling them by name, had removed their sorrow and they, having fulfilled [their desire], attained their goal, these two joys of their family rejoiced; and Sanatana, his mind steadied, said to Him:
+
+**53.** "Lord, by Your own will, wishing to purify such as I, You have come so far; but, living among enemies, Lord, one does not reach Vrindavana this way."
+
+**54.** Hearing his words, the Golden One said: "Nothing is unknown to Us. Go home now in peace; We are going back to Purushottama."
+
+**55.** Having sent them off, surrounded on the road by multitudes pressing to see Him, filling two kroshas [around] with the kirtan of His name, He came to Kanai-natashala.
+
+**56.** From there He returned to Shantipura and — [though] a sannyasi should avoid [his kin] — gladdening His deeply grieved mother, spent three days in Advaita's house.
+
+**57.** Then He made His own the gracious and surrendered Raghunatha Dasa, who, to attain Him, gave up his wealth of twelve lakhs of coins, equal to a kingdom.[^13-10]
+
+**58.** Having taken leave of Shachi, who keeps a good vow in an ascetic's dress, of the Acharya, his wife and son, having sent back His devotees from Gauda and [the people] led by the avadhuta, He set out for the Dark Mountain [Nilachala].
+
+**59.** With the Bhatta [Balabhadra], the Acharya, with the brahmin Damodara Pandita and with His servants He reverently came, welcomed by all, to Keshava [Jagannatha].
+
+**60.** Having seen Sri Jagadisha, His body blossoming with tears and thrills, stepping and dancing in front, circling the holy place outside — welcomed by Ramananda, Gadadhara and other devotees, honoured by the Bhattacharya — He settled in His own abode.
+
+**61.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the thirteenth canto, on the coming to Vanga, Anga and Gauda, has come to its close.
+
+*Thus ends the thirteenth canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+…He whose body shines like the waves of the Ganga sparkling in the light of the rising full moon — the younger brother of Sri Vishvarupa — may He be for your joy.[^13-11]
+
+[^13-1]: Verse 2 is obscure in the edition; apparently it refers to Cuttack (the king's capital) and to Sakshi-gopala, "the first of those who speak the truth" (cf. 7.44–60).
+[^13-2]: According to the CC (Madhya 16), Prataparudra saw the Lord off and wept, while the six-armed form was shown by the Lord to Sarvabhauma (Madhya 6) and Nityananda (Adi 17). The revelation of the six-armed form (Rama, Krishna, Gaura) to the king near Cuttack is Govinda-deva's.
+[^13-3]: A pun: *taraṇi* means both "boat" and "sun"; in v. 11 *rājā* means both "king" and "moon," *kara* both "ray" and "hand."
+[^13-4]: CC Madhya 16: Gadadhara Pandita wanted to go with the Lord, breaking his vow of kshetra-sannyasa, and the Lord held him back by an oath; Sarvabhauma and Ramananda accompanied the Lord and returned.
+[^13-5]: CC Madhya 16: at the border of Orissa the Muslim governor, hearing of the Lord, came to Him, became a devotee and provided boats for the crossing; the king's ministers Mangaraja and Harichandana escorted the Lord.
+[^13-6]: CC Adi 17: Gopala Chapala, struck with leprosy for offending Srivasa, was later, when the Lord came to Kuliya, forgiven at the request and with the blessing of Srivasa.
+[^13-7]: CC Madhya 1: Nrisimhananda Brahmachari mentally built a jewelled road for the Lord as far as Kanai-natashala; v. 37 plays on this. Shantipura and the meeting with Shachi — Madhya 16.
+[^13-8]: CC Madhya 1: Hussain Shah questioned Keshava Chhatri and Dabir Khas (Rupa) about the Lord and acknowledged Him as God, ordering that no one obstruct Him. In Govinda-deva the two brothers answer the king together.
+[^13-9]: CC Madhya 1: Rupa and Sanatana came to the Lord at night with straw between their teeth; the Lord gave them new names (Rupa and Sanatana) and promised that Krishna would soon free them; Sanatana advised the Lord not to go to Vrindavana with such a crowd.
+[^13-10]: CC Madhya 16: Raghunatha Dasa came to the Lord in Shantipura; the Lord told him to return home and for the time being live as a householder. Here Govinda-deva mentions his renunciation of wealth (cf. Antya 6, where his family's wealth — an income of twelve lakhs — is spoken of).
+[^13-11]: Two lines (half a verse) printed after the colophon — a benediction; the beginning is apparently lost.
+
+---
+
+# Canto Fourteen. Beholding Vrindavana
+
+*Departure from Puri by night; the animals of Jharikhanda; Kashi: Tapana Mishra and Chandrashekhara; Mathura; Vrindavana — trees, cows, deer, parrots; Radha-kunda and Shyama-kunda; Govardhana and Gopala; Nandishvara and the forests of Vraja; the rumour about Krishna; Akrura-tirtha; departure for Prayaga; Ramadasa the Pathan; Rupa and Anupama at Prayaga (pp. 67–71)*
+
+*[p. 67]*
+
+**1.** Gauranga, held back by His regard for His own people, having seen the festival of the Deity on the chariot of the Lord whose banner bears Garuda, though eager to go to Vrindavana, spent the days of the cloudy season in this holy place.
+
+**2.** When autumn came, the Friend of the poor, binding His servants with [the pain of] separation from Him, secretly left His abode by the Dark Mountain at night, together with Balabhadra Bhattacharya.
+
+**3.** The ocean of mercy, then making His way through the forest, content with forest flowers, leaves and the like, brought under His sway tigers, elephants, buffaloes, deer, peacocks and other herds of animals.
+
+**4.** The tigers, quickly coming up to Him and sniffing His fragrant body, plainly justified their name *vyaghra*, "the sniffers," and, repeating His names, followed Him.
+
+**5.** The elephants, drinking many times the nectar of His beauty with kisses of the tips of their trunks, loudly justified their name *anekapa*, "drinking with more than one [mouth]," and followed the Mighty One.
+
+**6.** The maddened herd of buffaloes, lying down again and again on the ground of His path [marked] with lotus feet, justified their name *mahisha*, "lying on the earth," and, rolling in His dust, attained their goal.
+
+**7.** The deer, searching out His path, justified the name *mriga*, "seekers"; and the peacocks, standing before the Lord on the ground and crying, justified their name.[^14-1]
+
+**8.** All these birds and beasts with their kin, without enmity, immersed without limit in an ocean of happiness, running around the Lord and fearless even in front of Him, filled the townspeople with great amazement.
+
+**9.** So, going on His way, honoured by travellers, after a few days He joyfully reached Kashi; having bathed in the pure Manikarnika, He [saw] Vishvesha and Bindu-Madhava.
+
+**10.** Seeing Him from afar with Balabhadra, Tapana Mishra at once honoured Him there; and in his most pure house the God shone for three days like the sun in the sky.
+
+**11.** Having mercifully favoured at night both the local brahmin named Chandrashekhara and that Mishra, Gaura at dawn set out on the road to Gokula, delighting the people of the west with floods of love.[^14-2]
+
+**12.** After a few days He reached the longed-for Vraja; its people gazed at Him without blinking, and He, seeing the sweetness of Madhu-puri [Mathura], danced in tears of prema, His hair standing on end.
+
+**13.** Agitated, having once bathed at the holy place of Vishrama on the Yamuna, on coming to external consciousness He, together with the townspeople, saw Keshava, beautifully dressed, in the temple at the place of His birth.
+
+**14.** Seeing Him as a wonder, a certain brahmin of Mathura, a disciple of Madhavendra in that forest land, joyfully, honouring [Him] as a guru, brought the Lord to his home and fed Him.[^14-3]
+
+**15.** Pleased with his devotion, He, with the townspeople, favouring them with kind words and joyfully increasing the wealth of prema, amazed the hearts of moving and non-moving beings.
+
+*[p. 68]*
+
+**16.** Having seen with that brahmin of Mathura the many holy places of Mathura, He, wishing to see the forest of Sri Vrindavana, set out, watering every step with tears.
+
+**17.** What the earth possessed at the time of Krishna's victorious manifestation in Vraja — the gem-like nature of the soil, the ability of the immovable to move, the knowledge of the three times in animals —
+
+**18.** all this at once became the same when the Lord entered the land of Vrindavana; seeing the wonderful splendour of the land and of the Lord, all people took Him for Sri Krishna.
+
+**19.** The trees — their bodies "thrilling" with buds, wet with nectar-tears from their flower-eyes, bending their branch-hands under the weight — bowed to His feet on every road.
+
+**20.** The cows running ahead, led by the white ones, with their calves and with others, bathing the earth with streams of flowing milk, licked His lotus feet.
+
+**21.** A spotted deer with skittish hooves named Suranga, gathering with many other deer — O wonder! — licked His body, wet with the clear tears of bliss from their eyes.
+
+**22.** The birds, all taint gone from them, sitting on the tips of bending branches, as if eagerly flying down to Him, sweetly and skilfully praised Him with their chatter.
+
+**23.** The peacocks, dancing, raising their incomparable tails, with intoxicated sweet cries, hearing His deep, thunder-like rumble "hum," gathered round in excitement.
+
+**24.** A parrot and a sarika, taught the words of love of the Lord of Sri, joyfully perched together on His lotus hand and began to sing to each other of His bliss.
+
+**25.** The sweet-voiced parrot said, delighting the ear: "Glory to Sri Krishna, who enchants Kama — a fire to the lump of butter that is the composure of the cowherd women, whose play is the sweet flute!"
+
+**26.** Hearing this, the sarika said: "Glory to Radha, who has conquered the youth — Her company maddens Madana-mohana Himself, even among the other cowherd girls!"[^14-4]
+
+**27.** Having said this, the curious pair of birds at once flew from His hands into the sky; and when the birds had flown, the Lord, from an excess of love, fell as if lifeless.
+
+**28.** The local people quickly came up to Him, their minds clouded by a hundred dire fears, crying: "Alas! Hari, Hari!" — and the Bhattacharya soon brought Him back to consciousness.
+
+**29.** Recovering, He danced hundreds of times and, seeing everything around anew, with tears of joy and thrills, the best of knowers of [holy] places came to the village of Arishtagrama.
+
+**30.** There He asked the people who came up: "Where is the kunda of Radha of the Conqueror of Mura?" — but they did not say; and Gaura, though He knew, searched as if not knowing.
+
+**31.** Seeing not far off, in the middle [of a field], two little ponds of light and dark water, He named them by their colour and first bathed in the lake of Radhika.
+
+*[p. 69]*
+
+**32.** Then, having bathed in the other pond and shining with His body smeared with its mud, clearly reciting their glory and rolling on the ground, He came longingly to the bank of the Manasa[-ganga].[^14-5]
+
+**33.** Having bathed in its waters and bowed His head, seeing the king of mountains — [held up] by the left arm of the Slayer of Mura — He, deeply stirred, half-closing His eyes, lovingly embraced a stone from that hill.
+
+**34.** Considering Himself [only] a man, He joyfully wandered through the surrounding lands and, though longing to see Sri Govardhana-dhari [Gopala], did not climb the hill, aware [that it is the body] of Hari.
+
+**35.** Having seen the village of Govardhana and to the east of it Harideva, He performed His evening bath at Dhatu-kunda and, the Destroyer of impurity, spent the night on its bank.
+
+**36.** When Gauranga out of reverence would not climb the king of mountains, Gopala, knowing this, at night, raising a sudden fear of the Yavanas, quickly left the hill together with the townspeople
+
+**37.** and secretly stayed in a house in Gosthali. Hearing of this, the Lord came there at dawn, joyfully bowed down with love on seeing Him, and for four days served Him with devotion.[^14-6]
+
+**38.** When Gopala had returned to His temple, He who removes sorrow went to the Kamya forest, delightful to people, admired its great beauty, and came to the town of Sri Nandishvara.
+
+**39.** Having bathed in the purifying lake in that forest, He, after inquiring, climbed the hill with the townspeople; and there, in an incomparable cave, Gauranga saw Govinda shining before His father and mother.[^14-7]
+
+**40.** Then, passing through Khadira-vana and seeing Sheshashayi, He came to Bhandira-vana and beheld there the Bhandira banyan.
+
+**41.** Having joyfully crossed the Yamuna, the best of sages saw the forests of Bhadra, Sri, Kumuda and Loha and, entering the vast Mahavana, saw the birthplace of Nanda's son.
+
+**42.** Here He clearly saw the places of pastimes — of the yamala-arjuna trees and others — and within them Gokula; having seen Mathura again, the Knower of meaning came to Akrura-tirtha.
+
+**43.** Having accepted alms of cooked food here and spent the night in remembrance of those pastimes, the Lord in the morning went again to Vrindavana, wishing to enjoy there.
+
+**44.** Having bathed in the lake of Kaliya, at Praskandana and Dvadashaditya-tirtha and completed His midday rites at Chira-tirtha, the Lord rested on its bank at the foot of a tamarind tree.
+
+**45.** In the evening, having seen the ground of the rasa dance surrounded by rows of kadambas, and the places [of play] among the creepers, He, raising [His arms], went again to the holy place of Gandini's son [Akrura-tirtha].
+
+**46.** Seeing thus the holy places of the forests, unattainable even in hundreds of heavenly worlds, enjoying Himself, the Golden One spent several days as if a moment.
+
+**47.** Once, when He was sitting in solitude on the bank of the river under a tamarind tree, a certain prince named Krishna[dasa], at once renouncing [the world], wakeful, came to Him for shelter.
+
+**48.** Showing him favour and making him His follower, increasing his wealth of prema a millionfold, Gaura then manifested Himself everywhere in the form that delights the women of Vraja.[^14-8]
+
+*[p. 70]*
+
+**49.** And among the people a rumour arose: "Sri Krishna Himself is playing in this forest: He dances on the rasa ground and on Kaliya's head, tends the cows, plays the horn and the flute."
+
+**50.** Hearing this from everyone's lips, He with a smile, showing all the dwellers of town and forest — though they believed — a certain trick, laughingly concealed [Himself], [saying] it was untrue.[^14-9]
+
+**51.** Once, staying by the lake of Akrura, He said: "Here the son of Shvaphalka made his birth fruitful, beholding those unsurpassed eternal worlds," — and threw Himself into the waters of Mitra's daughter [the Yamuna].
+
+**52.** The Bhattacharya, deeply shaken, at once pulled Him out as He was sinking: "Alas, what would have happened had I not been here? Shame on fate! What have I done?" — so he thought.
+
+**53.** Then, having consulted in private with the brahmin of Mathura and alarmed by the invasion of the crowds, he said to the Lord: "By Your mercy, Lord, we have seen the beauty of these forests; may the way back be auspicious for us.
+
+**54.** Let us go from here by the road along the bank of the Yamuna; let us bathe at Prayaga when the sun is in Makara — there, where once the feet of Sri Guru, the lord of Puris, rested for several days."
+
+**55.** Hearing these humble, nectar-steeped words, the best of monks, though unwilling to leave the forests of Vraja, agreed, considering the time.
+
+**56.** Having invited one by one all the dwellers of Vraja and embraced them, Gaura, of boundless power — leaving them, though alive, in a state like death — set out toward Nilachala.
+
+**57.** When He departed with five [companions] — three followers from Gauda and two devotees from Mathura — the eminent people of Madhu-puri, stricken with grief, their hearts stolen, followed Him.
+
+**58.** What the women of Vraja experienced when Govinda departed, carried off by Gandini's son — that, a millionfold stronger, all the dwellers of Mathura then experienced.
+
+**59.** The son of Shachi, steadfast in mind, resolving to deliver Sanatana and others, held them [the townspeople] back and, the wealth of the poor, with the Acharya and the other companions came by the forest road along the bank of the Yamuna to Prayaga.
+
+**60.** As the Lord went along the roads as He pleased, even the dull-witted people of the middle country, through their attraction to true love, became blessed; even a wicked Yavana there became Ramadasa.[^14-10]
+
+**61.** When the sun was passing into Kubera's quarter [the north], on the first day of Makara, Gaura with His companions, singing the qualities of the Consort of Sri, entered Prayaga and bathed at its best holy place, Dashashvamedha.
+
+**62.** Having completed His midday bath at the Triveni, the glorious Purifier of the three worlds, having seen Madhava on its bank, rested in the houses of some brahmins.
+
+**63.** Him, staying there awaiting the arrival of Rupa, like the hot-rayed [sun], Vallabha Bhatta and Upadhyaya Raghupati invited daily to their homes and served.[^14-11]
+
+**64.** And Rupa, wishing to see the Lord, having performed the purashcharana of the two-syllabled [name] at the direction of the noble one, and hearing through a messenger that He was going to Vraja, himself became eager to go with his brother.
+
+*[p. 71]*
+
+**65.** When Gaura, having shown the people of Gauda the mercy of intoxication [with prema], had joyfully returned to Nilachala, the lord of Gauda, learning that his best minister had renounced the world, at once threw Sanatana into prison.
+
+**66.** Learning that his elder brother was thus held by the Yavana ruler, and realising the insignificance of worldly existence, Rupa divided his wealth and gave it to his wives, to the best of brahmins, to the poor, the distressed and his servants.
+
+**67.** Having sent him [Sanatana] ten thousand coins for expenses and given instructions to his people, entrusting the wives to his elder brother, he set out eagerly with his younger brother.
+
+**68.** Having already received His grace through his devotion, he attained at Prayaga the sight of the best Lord, at once relieving the fatigue of the long road with clear tears of bliss.
+
+**69.** Seeing him fall before His feet with a straw between his teeth, crying aloud "Save me!" — the Lord, together with his younger brother, quickly raised him and embraced him with tears.
+
+**70.** The best of the wise, showing mercy to both brothers — Rupa and Vallabha, who had lovingly surrendered to Him — introduced them to the Bhatta and other devotees and lodged them in a house near Himself.[^14-12]
+
+**71.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the fourteenth canto, on beholding Vrindavana, has come to its close.
+
+*Thus ends the fourteenth canto of the* Sri Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^14-1]: Verses 4–7 are built on "etymologies" of the animals' names (*nirukti*): *vyāghra* "tiger" is explained as "sniffer," *anekapa* "elephant" as "drinking with more than one [mouth]," *mahiṣa* "buffalo" as "lying on the earth," *mṛga* "deer" from *mṛg* "to seek." CC Madhya 17: in the forests of Jharikhanda tigers and deer danced and repeated "Krishna," and elephants fell in ecstasy.
+[^14-2]: CC Madhya 17: in Kashi the Lord bathed at Manikarnika, visited Vishveshvara and Bindu-Madhava, and stayed with Tapana Mishra and Chandrashekhara.
+[^14-3]: CC Madhya 17: a Sanodiya brahmin, a disciple of Madhavendra Puri, became the Lord's guide in Mathura.
+[^14-4]: CC Madhya 17: in Vrindavana a parrot and a sarika disputed about the glory of Krishna and Radha; Krishnadasa Kaviraja quotes their verses from the *Govinda-lilamrita*. Govinda-deva retells them in his own verses.
+[^14-5]: CC Madhya 18: at Arishtagrama the Lord, having questioned the inhabitants and received no answer, Himself discovered Radha-kunda and Shyama-kunda in two rice fields and bathed in them.
+[^14-6]: CC Madhya 18: the Lord did not climb Govardhana, considering it non-different from Krishna; then Gopala, on the pretext of a threatened Muslim raid, came down to the village of Ganthuli, and the Lord beheld Him for three days. In Govinda-deva — Gosthali and four days.
+[^14-7]: CC Madhya 18: on the hill of Nandishvara the Lord saw in a cave the Deities of Nanda, Yashoda and Krishna.
+[^14-8]: CC Madhya 18: Krishnadasa the Rajput (a prince) took shelter of the Lord in Vrindavana under the tamarind (Imli-tala).
+[^14-9]: CC Madhya 18: people said that Krishna had appeared again on the lake of Kaliya (they had seen a fisherman's torch in a boat); the Lord, laughing, explained this and did not allow Himself to be taken for Krishna. Govinda-deva conveys this briefly.
+[^14-10]: CC Madhya 18: on the way to Prayaga the Lord converted a band of Pathans; their leader Bijuli Khan and others became Vaishnavas, and one received the name Ramadasa.
+[^14-11]: CC Madhya 19: at Prayaga the Lord met Rupa and Anupama; Vallabha Bhatta invited the Lord to Adaila, and Raghupati Upadhyaya recited verses to Him. Govinda-deva places their service before Rupa's arrival.
+[^14-12]: CC Madhya 19: Rupa distributed his wealth, left money for Sanatana's ransom and came with Anupama (Vallabha) to the Lord at Prayaga; the Lord embraced them.
+
+---
+
+# Canto Fifteen. The Account of the Refuge
+
+*The instruction to Rupa at Prayaga: the kinds of beings, the seed and creeper of bhakti, the rasas and their components, the stages of prema; Rupa sent to Vrindavana; the Lord in Kashi; Sanatana escapes from prison and comes to the Lord; the instruction to Sanatana: the forms of Krishna, the abodes, the purusha-avataras and guna-avataras (pp. 72–77)*
+
+*[p. 72]*
+
+*May Bhagavan Chaitanya-Krishna, shining like a mass of lightning, protect [you].*[^15-1]
+
+**1.** Then the best of monks, wishing to bestow grace on the three worlds, smilingly disclosed to Rupa, who sat with Him in private together with his brother — a servant immersed in all the scriptures, following Him — the secret, the one essence of the Vedas:
+
+**2.** "Listen, Rupa, I will describe to you the path and means of devotion to Bhagavan; by even a momentary glance at it you, freed from the gunas, will destroy the mark of ignorance.
+
+**3.** Countless jivatmas have been created — celestial and non-celestial — in the three worlds; the middle ones, in the middle world, are of two kinds according to their impressions: stationary and moving.
+
+**4.** Their species of birth number eighty-four lakhs: twenty [lakhs] among the stationary — trees, grasses and the like; the rest among the moving: nine among aquatics, twenty among small creatures, eleven among birds,
+
+**5.** four among beasts, among monkeys one lakh less one, and one is the species of man. Thus the jivas wander under the sway of karma and, by an excess of merit, at last attain human birth.[^15-2]
+
+**6.** Humans are of two kinds — asuras and devas. The asuras are thieves, living like Mlecchas, harming others, self-seeking, unrighteous; the devas are devoted to dharma. Among them many — the best — have liberated minds; among the liberated, the Vaishnavas; and among the Vaishnavas the best are the sadhus.
+
+**7.** The sadhu who somewhere, by the mercy of guru and Krishna, through an abundance of faith accumulated by his own good deeds, obtains the joy-giving seed of true bhakti — let him sow it in the most secret heart, inaccessible to lust and the other [foes], which are like roaming elephants, and let him always make it grow, watering it with the pure waters of hearing and the rest.
+
+**8.** The creeper of devotion growing in the heart, gradually passing beyond all the worlds, in the divine abode called Sri Vrindavana [entwines] the tree of Krishna and bears fruit.
+
+**9.** But if from its root there grow many very easy side branches — power, enjoyment, liberation and the rest — it does not grow; therefore [the sadhu] of unfailing heart should cut off those side branches, however they have spread.
+
+**10.** Trampled by the mad elephant of offence against the feet of Sri Krishna, the Vaishnavas and the guru, it does not grow properly; therefore, fencing it off from this and guarding it firmly, let him make it grow every day, watering it with the water [of hearing].
+
+**11.** Sheltering in its shade, free from the threefold miseries — when the growing creeper without delay entwines the wish-fulfilling tree, the feet of Krishna — having tasted there the fruit of the creeper of bhakti, sweet with the nectar of supreme prema, the one abode of many rasas, he gives up the fear of rebirth and attains bliss.[^15-3]
+
+**12.** Thus rati for Krishna, though usually present in people's hearts, does not shine because of the covering of their own ignorance, like a treasure hidden in the earth; but in one whose covering — ignorance — falls away at the guru's command, it shines with its own light, like a lamp within a vessel.
+
+*[p. 73]*
+
+**13.** Therefore from sadhana-bhakti a lovely rati rises in the heart; it becomes twofold — secondary and principal; attaining permanence and fullness, through various causes, in some devotees somewhere it becomes manifold rasa.
+
+**14.** Having obtained vibhava, anubhava, sattvika and sometimes vyabhichari, it suddenly becomes in the heart of the sadhaka something to be tasted as rasa, and is of twelve kinds.
+
+**15.** Vibhava, according to the wise, is of two kinds — alambana and uddipana; the first of these, by the distinction of object and abode, is twofold — Krishna and the one who takes refuge in Him.
+
+**16.** Uddipana is clouds, wealth, hills, caves, bowers, the daughter of the Sun [the Yamuna], the sound of the flute and the like; anubhava is the play of the brows, the smile, the glance, dancing, singing, a face radiant with joy and the like.
+
+**17.** The eight sattvikas — stupor and the rest — and the thirty-three vyabhicharis — despondency, humility and the rest — singly or together; and then the sthayi-bhava itself gives rise to tasting, as a sweet drink arises from sugar candy, curd, ghee, camphor and pepper.
+
+**18.** Seven secondary [rasas] are known: the heroic, the compassionate, the wondrous, the comic, the furious, the loathsome and the fearful; sometimes they appear as guests, but not in such [devotees]; and the five principal ones are shanta and the rest; [shanta is seen] in Sanaka and others.
+
+**19.** In shanta the quality is reverence for one's Lord; in dasya, joyful service; in sakhya, familiarity; in the rasa of vatsalya, strong affection and the sense of "mine"; in madhurya, deep love; they exist in them in order, increasing, like sound and the other qualities in the elements — one, two, three, four, five.
+
+**20.** From the softening of the mind this rati gradually becomes condensed prema, then sneha, mana, pranaya, raga, anuraga, and beyond bhava, mahabhava; thus prema is like the juice of sugarcane: gur, khanda, sugar, candy and the rest.[^15-4]
+
+**21.** In shanta-rasa rati reaches as far as prema; in dasya, sakhya and vatsalya — as far as pranaya, raga and anuraga; and in the last, as far as mahabhava.
+
+**22.** Thus of the five kinds the chief is madhura-rati; it too is threefold according to the difference of those qualified: the best is samartha, lower samanjasa, lower still sadharani; they shine clearly and eternally in turn in the young cowherd maidens, in the queens and in Kubja.
+
+*[p. 74]*
+
+**23.** Rati that has reached the limit of bhava rises in the cowherd girls equal [to Him] — both in His own wives and in others' — up to the last [limit]; it is divided into rudha and adhirudha; the first shines in the queens, the second in the beloved [gopis].
+
+**24.** That [adhirudha] is twofold — madana and mohana; sambhoga [union] is described as the first, in many forms; and the last resides in fourfold vipralambha [separation]. Beyond this there is no state of all the rasas.
+
+**25.** Thus I have told you the nature of the rati of the dearest [Radha]; understand it yourself with your mind, O steadfast one; devoting yourself to service in Vraja, go to the forest of Vraja — and you will come to Me again."[^15-5]
+
+**26.** Thus dismissed, stroked again and again by His lotus hand, he, tearing himself away with difficulty, went by the indicated road with Vallabha to the abode of the king of the cowherds.
+
+**27.** Then the best of sannyasis with His companions went to Kashi, spreading His fame; delighting Chandrashekhara there, the Remover of fevers lived in the house of Tapana.
+
+**28.** Rupa, with his brother named Anupama, soon reached the borders of Mathura; taking the steadfast Subuddhi Raya as companion, singing the deeds of Mukunda, he entered Vraja.
+
+**29.** Joyfully beholding there the bower-houses, the forests dense with shade, purifying the people of the world, the places of Hari that steal the heart, he, detached from worldly things, stayed a month.
+
+**30.** Anxious [for his brother], he sent a letter by a certain Bengali to his elder brother, the crest-jewel of pandits, and, himself drawn by the joy of meeting the lotus feet of Gauranga, happily set out back with his brother toward Prayaga.
+
+**31.** Receiving the letter written in Rupa's hand, Sanatana, knower of the three times, having enticed the guards [with gifts], left the house [the prison] at night.
+
+**32.** Though attacked on the road by deceitful robbers, he, protected by Krishna's mercy, content with [the vow of] the python, not in the least dejected by the long journey, with a clear mind quickly reached the city of the Enemy of Pura [Kashi].[^15-6]
+
+**33.** Seeing Him there, staying in the house of Tapana Mishra, possessed of superhuman greatness, he cried "Protect me, Lord!" and in confusion fell at His feet.
+
+**34.** Seeing him, the Lord, delighted, exclaimed: "Come here, Sanatana!" — raised him, embraced him, seated him beside Him and asked about all he intended.
+
+**35.** He answered: "I am not independent here: as Your wish was, so has mine become. Cast me down or raise me up — as You please; a machine has no course other than the will of the one who operates it."
+
+**36.** Greatly pleased with the devotee sitting near Him and speaking thus, Gaura had his hair shaved, bathed him in the river, fed him and gladdened him greatly.
+
+**37.** Then one day in private the Lord, embracing him, most humble, instructed him thus: "Listen, gentle one, to how all the righteous worship Krishna.
+
+**38.** He is the svayam-rupa; [His] prakasha; the tad-ekatma-rupas; the avesha-rupas; the vilasas; His portions; the vaibhavas and prabhavas — by these forms He reigns in the abodes beyond darkness.[^15-7]
+
+*[p. 75]*
+
+**39.** Devotees worship Him according to their own nature in some form, with various bhavas; on ripening, as if by chance, they gradually enter into Him, abiding in their abode.
+
+**40.** Of all who are worshipped the best is Bhagavan, the son of Nanda, Himself the svayam-rupa, the highest of the highest; having manifested [Himself], He abides in three places — Yadupuri, Madhupuri and Gokula — ever more fully, in the fullness of His form.
+
+**41.** The radiance of His body, concentrated supreme bliss, is what the followers of the Upanishads call Brahman; possessed of three energies — hladini and the rest, joyful, chit and achit — He, beyond darkness, in [His] abode, performs various human-like pastimes.
+
+**42.** That threefold abode is [a manifestation of] three quarters; from it is another abode, [like it], the world called heavenly [Goloka]; there Sri Govinda with His entourage takes delight, and by virtue of oneness with that [abode] eternally performs lovely pastimes here [on earth].
+
+**43.** Bala Himself — His vaibhava-vilasa — assists in all His pastimes; such too is His Sadashiva, who shines in the abode of Shiva.
+
+**44.** Another form of Krishna shines in the Paravyoma — below [Goloka], in the abode of three quarters [of existence] — under the name Narayana; there around the Lord, in all directions, abide with their retinues the vilasas of the four vyuhas [who dwell] in Dvaraka.
+
+**45.** From them come twelve forms, three from each, one with them — Keshava and the rest, worshipped in the months beginning with Margashirsha; and two more from each, born of vilasa — eight forms, Adhokshaja and the rest — in all, with the four vyuhas, twenty-four.[^15-8]
+
+**46.** Next are their aveshas: the sages Sanaka, Sanandana and others; the worshipful attendants Sunanda and the rest, various gods; the lords — Shesha and others; the loving friends headed by Narada — joyfully worship Him, each in his own assembly.
+
+**47.** As His forms are eternal, surpassing all and wondrous, so too His abodes — beyond rajas — together with His attendants, are dear to Him.
+
+**48.** Below them is the Viraja, covered by a flood of pure waters of perspiration flowing from the bodies of the embodied Vedas dwelling there; the righteous call it the ocean of mercy; the threefold covering [of the gunas] cannot touch it.
+
+**49.** Up to that limit all is the work of Hari's eternal chit-shakti: there are no six waves, no day and night, no modifications of maya; therefore there the trees, hills, earth, birds and beasts are ever unchanging in form; and in a past or a future kalpa no one there counts even moments.
+
+*[p. 76]*
+
+**50.** They, though primordial, as if new, when by their own will they take up the work of creation, maintenance and so on of the world, appear marked by their own greatness and perform the various pastimes of incarnations.
+
+**51.** Of these, some are purusha-avataras, others guna-avataras, others lila-avataras, through whom the Lotus-eyed One has become complete here.
+
+**52.** A portion of the Lord of the Paravyoma — the first Purusha, endowed with the same qualities — lies in His own abode, Vaikuntha, in the Karana ocean; Prakriti, born of His will, received the seed — the cause of all the worlds — which the lord Sankarshana created.
+
+**53.** Agitated [by His glance], she at once produced the mahat, from it ahankara, from that all the elements; from them the circles of the brahmandas, by millions upon millions, hundreds and tens of thousands of yojanas across.
+
+**54.** He who lies in the Karana ocean and rules myriads of universes created by Prakriti entered by His portions each of the countless brahmandas; these portions, becoming purushas, filled half the cavity [of the universes] with water, lay down there and by Their portions created from the lotus of the navel the unborn [Brahmas].
+
+**55.** Each of them in his universe, for creation and enjoyment, is twofold, gross and subtle: Vairaja and Hiranyagarbha; and, becoming the first, with four, eight, sixteen, sixty-four and more faces and arms, they created everything — below, in the middle and above.
+
+**56.** He who became Garbhodakashayi is the inner ruler of the whole Virat, a portion of Pradyumna; and Vishnu, for the protection of the world — the inner ruler of individual [beings], a portion of Aniruddha — abides as He wills in many ways in the universe, in the world of Vishnu, in the oceans of salt and of milk.
+
+**57.** Thus the three purushas — inner rulers of the individual, the aggregate and [the causal] — have been explained; now hear of the guna-avataras. Vishnu, of sattva, is said to be the Lord lying in the Milk Ocean; Brahma, of rajas, all-pervading, born of Garbhodakashayi.
+
+**58.** Rudra, of tamas, with uneven eyes, five-faced, lord of Sati, abides with his ganas on Kailasa. They are the ones who carry out the protection, creation and destruction of this universe; and Hari is the best of them, for the highest good of all people.
+
+**59.** The Puranas and Agamas set forth many injunctions for His worship; having pondered these words, a person becomes free of doubt. Therefore everything here has been set forth by me, following the *Bhagavatamrita*; learn it in full detail, wise one, by studying that."[^15-9]
+
+*[p. 77]*
+
+**60.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, the bull among the lords of sannyasis — the fifteenth canto, "The Account of the Refuge," comes happily to its close.[^15-10]
+
+*Thus ends the fifteenth canto of the* Sri Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^15-1]: Half of a benedictory verse printed before the first verse of the canto (unnumbered).
+[^15-2]: The distribution of the 8,400,000 species of birth follows the *Padma Purana* (cf. CC Madhya 19 — the instruction to Rupa begins with an enumeration of beings). The numbers in the edition are partly unclear.
+[^15-3]: Verses 7–11 give the image of the "creeper of bhakti" from the instruction to Rupa (CC Madhya 19): the seed of bhakti by the mercy of guru and Krishna; watering by hearing and chanting; the creeper reaches Goloka-Vrindavana and the tree of Krishna's feet; side branches (the desire for enjoyment, liberation, fame) and the "mad elephant" of offence against a Vaishnava.
+[^15-4]: Verses 13–24 condense the teaching on rasa — after CC Madhya 19 and Rupa Gosvami's *Bhakti-rasamrita-sindhu* / *Ujjvala-nilamani*: sthayi-bhava, vibhava (alambana and uddipana), anubhava, sattvika, vyabhichari; five principal and seven secondary rasas; the stages from prema to mahabhava, compared with the products of sugarcane; samartha, samanjasa and sadharani rati (the gopis, the queens, Kubja); rudha and adhirudha, madana and mohana.
+[^15-5]: "The rati of the dearest" may also be understood as "rati for the Dearest." CC Madhya 19: the Lord instructed Rupa for ten days at Prayaga (at Dashashvamedha-ghat) and sent him to Vrindavana, telling him to come afterwards to Puri.
+[^15-6]: CC Madhya 20: Sanatana bribed the jailer, escaped, was nearly robbed in the Patra hills (his servant Ishana was hiding gold coins), and came to the Lord in Kashi, to the house of Chandrashekhara. Govinda-deva makes the house of Tapana Mishra the Lord's residence in Kashi.
+[^15-7]: Verses 37–58 condense the instruction to Sanatana on sambandha-jnana (CC Madhya 20–21): the forms of Krishna (svayam-rupa, tad-ekatma, avesha; prakasha, vilasa, svamsha), the abodes (Goloka, Paravyoma, Viraja, Karana), the purusha-avataras (Karanodakashayi, Garbhodakashayi, Kshirodakashayi), the guna-avataras. The terminology is that of Rupa Gosvami's *Laghu-bhagavatamrita*.
+[^15-8]: The twenty-four forms of Vishnu — the four vyuhas (Vasudeva, Sankarshana, Pradyumna, Aniruddha), twelve (Keshava and the others, lords of the months) and eight (Adhokshaja and the others) — CC Madhya 20.
+[^15-9]: Literally "by me, who made [or: followed] the *Bhagavatamrita*." The reference is apparently to Rupa Gosvami's *Laghu-bhagavatamrita*, which sets forth the teaching on the avataras from the instruction to Sanatana; the words belong either to the Lord or to the author of the poem. We translate them as the poet's reference to his source.
+[^15-10]: *Āśraya* ("Refuge, Support") is the last of the ten subjects of the *Bhagavata* (Bhag. 2.10.1–7): Krishna as the refuge of all; the canto is devoted to the teaching about Him.
+
+---
+
+# Canto Sixteen. The Rising of the Devotees' Joy
+
+*The instruction to Sanatana continued: lila-avataras, yuga-, manvantara- and kalpa-avataras, the stages of avesha, prabhava, vaibhava and para; Krishna is the Lord Himself; the eternity of Gokula, Mathura and Dvaraka; manifest and unmanifest lila; the stages of sadhana, vaidhi and raganuga; Sanatana sent to Vrindavana; the Lord shows His power to the sannyasis of Kashi, the conversion of Prakashananda; return to Nilachala; Sanatana in Mathura; Rupa: the dramas, Shivananda's dog, Satyabhama's command, the verse "priyah so 'yam"; Nityananda's marriage; Raghunatha Dasa's festival at Panihati, Raghunatha in Puri (pp. 78–83)*
+
+*[p. 78]*
+
+**0.** May Sri Gaurachandra, born from the ocean of Navadvipa, who with the thunderbolt of the sankirtana of the Name drove out irreligion in the age of Kali, bestow welfare upon you.[^16-1]
+
+**1.** Hear once more, Sanatana, the account of the avataras of the Lord, who sports with an abundance of wondrous arts; by hearing it even the greatest sinner is freed from torment.
+
+**2.** Many are Hari's lila-avataras on earth, adorned with glory, eminent in qualities; they appear in sequence in the yugas, manvantaras and kalpas.
+
+**3.** Of them forty are famed in the world: four are the avataras of the four yugas, twice seven the avataras of the manvantaras, and as many again plus eight the avataras of the kalpas.[^16-2]
+
+**4.** In Satya and the other yugas, in each yuga, the yuga-avataras are white, red, yellow and dark — the colours of brahmanas, kings, vaishyas and shudras — and are named Dharma, Adhvara, Dhruva and Dharadhara; these Lords are to be meditated upon by the mind.[^16-3]
+
+**5.** Then Yajna, Vibhu, Satyasena, Hari, Vaikuntha, Ajita, Vamana, Sarvabhauma, another Rishabha,
+
+**6.** Vishvaksena, Dharmasetu, Sudhama, Yogeshvara and Brihadbhanu — these appear in the manvantaras; of them the first four, beginning with Hari, are foremost.[^16-4]
+
+**7.** Vyasa, Narada, Dattatreya, the sons of the Creator [the four Kumaras], another Rishabha, Kardama's son [Kapila], Vainya [Prithu], Bhargava [Parashurama], Buddha, Kalki, Kamatha [Kurma], Matsya, Nara and Narayana, Hamsa, the Boar [Varaha], Hayagriva, Prishni's son, Dhanvantari, Mohini, the One bearing the palm-tree banner [Balarama], Narakeshari [Nrisimha] and Raghupati [Rama] — these are the avataras of the kalpas.[^16-5]
+
+**8.** All of them are avataras of pure sattva of the Purusha; by the difference of the state they attain — avesha, prabhava, vaibhava and the highest [para] — they are mostly of four kinds.
+
+**9.** The four Kumaras, Narada, Prithu, the Axe-bearer [Parashurama] and Kalki — these five are forms of avesha whose fame has spread far.
+
+**10.** Shukla and the other yuga forms, then Kapila, Dvaipayana, Mohini, the sage Dattatreya, Hamsa, Rishabha and the glorious Dhanvantari — these eleven forms of the Lord are higher than the former: they are prabhava states of Krishna's body, which for the good of the universe fulfil what the world desires.
+
+**11.** Matsya, Kurma, Varaha, Buddha, Hayagriva, Nara and Narayana, Prishni's son, and the fourteen manvantara-avataras — these twenty-one, superior to the former, are vaibhava forms of far-spread fame; they appeared for the welfare of the three worlds.[^16-6]
+
+*[p. 79]*
+
+**12.** Famed as para states are Bala, Nrihari and Rama — progressively more excellent in their supremacy, with unsurpassed majesty of the six opulences; they shine above the universes in Paravyoma, and each of them has a separate eternal abode, made by none.[^16-7]
+
+**13.** Above all avataras shines Sri Krishna alone, son of the king of Vraja, foremost in incomparable sweetness, the eternal avatara whose lila resembles that of men.[^16-8]
+
+**14.** The pure-souled son [of Vyasa], saying "these are parts and portions", declared here that all of them are born of the Purusha by the distinctions of His own portions and so on; and then, setting Sri Krishna apart from that list, with the words "the Lord Himself" he proclaimed Him supreme — the One whose form is the original [svayam-rupa].[^16-9]
+
+**15.** "If He is called the original form, how did He become manifest in the world?" — do not hold such a distressing doubt, [as if] He were an ordinary embodied being.
+
+**16.** For Gokula is one, Mathura one, and Dvaravati one — this triad is eternal. It shines in the midst of Bharata-khanda within the universe, as the light of life shines in the hearts of men.
+
+**17.** It is not material, not transformed, not made by maya, not a reflection; it is not something perceived as a visible object. Only by the will of the Lord, in accord with the lila, through the chit-shakti, it appears now expanded, now contracted.[^16-10]
+
+**18.** Appearing there, the Almighty manifests His lilas in sequence, from birth onward; and none of them rises or sets: self-luminous, it shines like the light of the sun.
+
+**19.** As the light of the sun, moving freely in its chariot along the path of the gods, through morning and the other parts of the day, shines alike every day and for many years, coming now far, now near, yet nowhere setting or rising — so Sri Krishna's lila appears and disappears in the world.[^16-11]
+
+**20.** Thus that Lord, the Purushottama of lila, plays with the host of His beloveds in Vrindavana, giver of every joy. These plays are of two kinds — manifest and other — as they appear and disappear; now the latter [the unmanifest] prevails, yet it too can become directly visible to you.
+
+**21.** Even today the saints dwell joyfully there [in Vrindavana], in [the lila of] Vrishabhanu's daughter. It gladdens the wayfarers of the one path — the path of prema; yet prema too is attained by many efforts.
+
+**22.** If by good fortune faith arises in one fit for bhakti, there comes association with saints; from acts of service to Krishna, the destruction of all anarthas; then steadiness [nishtha]; from intensified steadiness, deep thirst [ruchi];
+
+**23.** [then] attachment of the heart [asakti]; it ripens into bhava, and from bhava prema rises. Therefore, to bring forth that bhava, bhakti called sadhana, of two kinds, must first always be practised.[^16-12]
+
+*[p. 80]*
+
+**24.** Vaidhi [bhakti by rules] is practised until, through inner detachment, longing for Krishna arises; when it has arisen, then raganuga [bhakti] should be practised — it is she who bestows the service of prema.
+
+**25.** But if even one possessed of raga worships on the path of rules, by the command of scripture, he attains the position of a queen [in Dvaraka], but not that joy in which the movements of the heart are directed to Him alone.[^16-13]
+
+**26.** You too, drawn out of the ocean of births, are the object of the Lord's mercy; you attain that position like a gem brought up [from the sea], shining brightly. You have firmly performed all the limbs of sadhana, and now, with forbearance and the other [qualities], you attain the state of awakened bhava.[^16-14]
+
+**27.** So go, child, leaving everything as if it were filth, to the abode of the One who loves the saintly. The holy places made there have become hidden by the influence of the Kali age — reveal them and delight, as you wish, in composing poems.[^16-15]
+
+**28.** Thus the Almighty instructed His disciple for ten days and sent him to Mathura, famed on earth; and He Himself, having shown His glory in Kashi many times, constantly rejoiced and delighted the crowds of people.
+
+**29.** Though the sannyasis of that city, adherents of another doctrine, disregarded Him, once, at someone's invitation, He — of immeasurable power — went [to them] with a few companions.
+
+**30.** Seeing Him, the sannyasis, seated on their seats, said disdainfully, "Stand there." Seeing their insolence, Gaura, pleased, standing there, made the radiance of His own being blaze forth.[^16-16]
+
+**31.** When there appeared a radiance like the fire bursting from the skull of the Skull-bearer [Shiva] enraged at the end of the kalpa, they could neither look at Him nor approach — who then would have room for words?
+
+**32.** To each of them He appeared in the form of the god to whom that one was devoted. And Prakashananda recognised in this Chaitanya the one Consciousness itself — Brahman.
+
+**33.** "O Lord, embodiment of the Vedas, You Yourself, king of ascetics, shine in the highest heaven!" — saying this, he fell in shame at Hari's feet together with the best of the sannyasis.
+
+**34.** To him speaking thus, the Ocean of boundless mercy, quickly embracing him with both arms, [said]: "What is this, noble one? You who partake of the radiance of the transcendent — how can you be overcome by darkness?
+
+**35.** Get down from the elephant of pride and say, 'Hari, Achyuta, Krishna, victory!' Drink with your eyes and mind the radiance hidden beneath the veil of the Upanishads, which you have never tasted before."
+
+**36.** When the Lord spoke these faultless words, he answered: "O Lord of the world, what You command is precisely what the shrutis establish; what need is there here of the interpretations of us, the unrighteous?"
+
+**37.** Saying this, his throat choked with rapture, he sang, "Krishna, Achyuta, Ajita, victory!" And Gaura, crusher of false doctrines, smiling, returned with all His companions to His dwelling.[^16-17]
+
+*[p. 81]*
+
+**38.** When the Lord had thus revealed His all-pervading power to Prakashananda, best of the sannyasis of the Sarasvati order, and awakened [in him] devotion to Himself, the other sannyasis gave up their other intentions.
+
+**39.** And when by good fortune all those residents of Varanasi at once became bhagavatas, Gaurahari, regarding this as a victory over [other] doctrines, joyfully took leave of them and playfully went with His followers by the former road to Nilachala; seeing Sri Jagannatha, He gladdened the devotees who had been bereft of Him.
+
+**40.** Then Sanatana, in the guise of a penniless man, having received the Lord's command and wishing to see his two brothers, went quickly, by His will, to Vraja-dhama.
+
+**41.** Entering Mathura, he first met with the people of Mathura and with Subuddhi Raya; hearing that his brothers had gone by the road to Prayaga, he stayed there, content, in their company.[^16-18]
+
+**42.** There, independent, he obtained the treatise called *Mathura-mahatmya* and revealed everything: the places renowned along the path of Krishna's former plays, Sri Radha-kunda and Shyama-kunda, then the tirthas on the bank of the Yamuna, their true stories, the forests and the bowers of creepers.
+
+**43.** And what the ascetic Madhavendra Puri had earlier revealed with effort, the merciful [Sanatana] by Krishna's mercy soon revealed there in full.
+
+**44.** Seeing where and in which play the Lord had appeared, he soon composed a poem named *A Description of the Plays in Vraja*.[^16-19]
+
+**45.** While he was thus delighting in this Vrindavana, Rupa — who had gone there earlier [after meeting the Lord at] Prayaga — when the Lord had gone [to Nilachala] and Rupa had already seen Kashi, wished to begin a drama on the waves of the Lord's plays; composing the benedictory nandi, he set out with his brother for Gauda.[^16-20]
+
+**46.** Coming to the town, to their home, and settling the whole family, they, agitated at heart, lived like beggars somewhere outside, not far away.
+
+**47.** When the Lord's chariot festival drew near, the Gaudiyas who follow Gaura's feet set out for Sri Nilashaila. [Rupa's brother], out of detachment, gave up his material body and entered the faultless abode; having performed the purificatory rites for his brother, Rupa too followed them.[^16-21]
+
+**48.** When the company of devotees was joyfully travelling with Shivananda Sena, a certain dog, hidden in [a dog's] guise, came to the Lord's feet. Making it loudly and beautifully utter Hari's Name with its own mouth, He displayed His majesty here — and it shone forth.[^16-22]
+
+*[p. 82]*
+
+**49.** And he [Rupa], spending days on the road as if they were a moment, at Satyabhama-pura, having fallen asleep one night, received Satyabhama's command: "Rupa, compose a separate drama for me!"
+
+**50.** Taking this to heart, the pure-minded brother of Sanatana, for the joy of his friends, conceiving several dramas, gave form to Hari's playfulness [lalitya] and artfulness [vaidagdhya].[^16-23]
+
+**51.** After some days Rupa came to the Lord; his merits had grown by His grace; recognised by the great Vaishnavas and gladdened by them, he dwelt in Hari's abode on the best of dark mountains [Nilachala].
+
+**52.** When the devotees, gathered together, longed to see [the festival of] Gundicha before the Lotus-eyed, Gaura, under the guise of the verse "He who stole my youth...", made known His inner intention.[^16-24]
+
+**53.** Understanding it, Rupa at once, staying nearby, his hair standing on end, composed the verse "He, my beloved...". One day, hearing this verse delightful to the ear, the Lord with stern words showed that Rupa knew His heart.
+
+**54.** Having thus seen the God of gods, Rupa, frightened and corrected by Sri Gaura, spent the chaturmasya in his own lodging and [worked on] the two wondrous dramas planned earlier.
+
+**55.** When the two dramas, full of sweet rasa, were complete, he joyfully, in an assembly with all the gentle, worthy, best of poets, recited to the Lord — gracious and praising [them] — their benedictory nandis and all their other parts.[^16-25]
+
+**56.** Then, after spending some days with Ramananda, Svarupa and others, Rupa, free of fear and joyfully regarding himself as one who had crossed the ocean of sorrow, took leave of his friends; embraced by the Lord with boundless mercy and receiving His command, after some days he returned with difficulty [from separation] to his own land.
+
+**57.** Once the Avadhuta [Nityananda], at the Lord's word taking up the wish for a home and graciously accepting a wife, surrounded by the service of His friends, entered the world [of householders].[^16-26]
+
+**58.** Performing manifold plays, the One clad in blue [Nityananda-Balarama] delighted the people with smiles and glances; there He, the giver of prema, enjoyed, making those devoid of prema abandon their wretchedness — He, full of might.
+
+**59.** He married Vasudha and Jahnavi, the blessed daughters of Surya Pandita, and then begot sons there, Virabhadra foremost among them.[^16-27]
+
+*[p. 83]*
+
+**60.** Once Raghunatha, son of Govardhana, at night, hidden in the darkness, came to the Avadhuta, who was playing on the riverbank. Then He [Nityananda], with his money, [held a feast of] flat rice with ghee, boiled milk and curd, and Himself, [in the mood of] Balarama, fed the devotees.
+
+**61.** Before them suddenly appeared the Lord [Gaura] too, lighting up the quarters with His radiance; greeting the devotees, He Himself, smiling, ate a little [of the feast]; then, for a moment showing mercy to Raghava Pandita, Gaura disappeared at His own will, like the sun at the close of day.[^16-28]
+
+**62.** And the Moon of the nectar of Vasudha [Nityananda] rejoiced and said [to Raghunatha], who was amazed at this wondrous sight: "The Lord's highest mercy is upon you; Raghunatha, you will soon go to Him."
+
+**63.** By His command he, knowing the way, left home, and within a few days, like a pauper, saw the Lord dwelling at Nilachala, and served Him for a long time with joy, his mind at peace.
+
+**64.** The Almighty, who knows the essence, entrusted him for instruction to the lotus hands of Svarupa Damodara, gave him a stone born on Govardhana and placed a garland of gunja on his neck.
+
+**65.** Filled with His mercy, he worshipped that stone [shila] every day with the tips of tulasi leaves, and lived on alms gathered like a bee.[^16-29]
+
+**66.** Then [the Lord], restrained by words spoken by Svarupa[-Damodara] — Himself independent, yet keeping to the path of right conduct — sent him, clad in rags, quickly to Navadvipa to console Shachi.[^16-30]
+
+**67.** Thus Gaurahari with His companions, for the good of living beings, Himself accepted alms, performed the prescribed acts and made others perform them; like a mirror He showed anger to the wicked and contentment to the contented; sometimes fearing [the talk of] others, yet seeing all equally, He shone on the earth.
+
+**68.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, bull among the lords of sannyasis — the sixteenth canto, "The Rising of the Devotees' Joy", comes to its end.
+
+*Thus ends the sixteenth canto of the* Sri Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^16-1]: In the edition this benedictory verse, like the first verse of the canto, is numbered 1; we mark it 0 (as in Canto 1).
+[^16-2]: 4 + 14 + 22 = 40. The teaching on lila-avataras continues the instruction to Sanatana (CC Madhya 20); Kaviraja Gosvami's count ("twenty-five lila-avataras", "fourteen manvantara-avataras") is different; Govinda-deva follows a more detailed classification close to Rupa Gosvami's *Laghu-bhagavatamrita*.
+[^16-3]: Matching the colours of the yuga-avataras to the colours of the varnas is the poet's image (traditional colour symbolism: brahmanas white, kshatriyas red, vaishyas yellow, shudras dark); it does not mean that the Lord belongs to a mundane varna: His body is sac-cid-ananda. In CC Madhya 20 (after Bhag. 10.8.13 and 11.5) the yuga-avataras are white, red, dark (shyama) and black (krishna), and in this Kali-yuga the Lord comes golden (pita) as the hidden avatara — Sri Chaitanya. The four names are uncertain in the edition.
+[^16-4]: The list of the fourteen manvantara-avataras agrees with the *Bhagavata* (Canto 8) and CC Madhya 20.
+[^16-5]: Twenty-two kalpa-avataras (among them Balarama, Nrisimha and Rama, named below as para-avataras). Krishna is not in this list: on Him see vv. 13–14.
+[^16-6]: The division of avataras into avesha, prabhava, vaibhava and para-avastha follows Rupa Gosvami's *Laghu-bhagavatamrita* (cf. CC Madhya 20).
+[^16-7]: Rupa Gosvami names Nrisimha, Rama and Krishna as the para states; Govinda-deva, setting Krishna apart (v. 13), puts Balarama in His place.
+[^16-8]: Lit. "whose lila imitates mortals": Krishna's plays resemble human ones, but He Himself is not subject to maya or death; His human-like form is His original form (CC Madhya 20: Krishna as a cowherd boy, playing like a human being, is His supreme form).
+[^16-9]: Bhag. 1.3.28: *ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayam* — the chief proof in CC Adi 2 and Madhya 20.
+[^16-10]: On the eternity and spiritual nature of the dhama see CC Madhya 20 and Adi 5: Krishna's abodes are manifestations of the chit-shakti (His internal energy), not creations of maya.
+[^16-11]: The comparison of Krishna's lila to the sun, whose light never sets but only passes from one universe to another, is in CC Madhya 20 (on the eternal lila moving through the universes; cf. *Krishna-sandarbha*). Govinda-deva reproduces this image.
+[^16-12]: Vv. 22–23 give the stages according to *Bhakti-rasamrita-sindhu* (1.4.15–16): shraddha, sadhu-sanga, bhajana-kriya, anartha-nivritti, nishtha, ruchi, asakti, bhava, prema — cf. CC Madhya 23.
+[^16-13]: Cf. CC Adi 3 and Madhya 8: by the path of rules alone one cannot attain Krishna in Vraja; one who worships in the mood of awe attains Vaikuntha or Dvaraka. The teaching on vaidhi and raganuga is in CC Madhya 22.
+[^16-14]: Sanatana himself is an eternal associate of the Lord; the words about his "sadhana" are instruction to the world through him (as in CC, where the Lord teaches Sanatana for the sake of all).
+[^16-15]: Cf. CC Madhya 23–24: the Lord charges Sanatana to restore the lost places of lila in Vraja, establish the service of the Deities and write books on bhakti.
+[^16-16]: CC Adi 7 describes this episode differently: the Lord came to the assembly of sannyasis at the invitation of a Maharashtrian brahmana, sat at the place for washing feet and displayed His effulgence; Prakashananda himself invited Him to sit. The scene "Stand there" and the image of the different gods each one sees in the Lord are Govinda-deva's.
+[^16-17]: The conversion of Prakashananda and the sannyasis of Kashi is told in CC Adi 7 and Madhya 25 (where Prakashananda accepts the Lord's explanation of the *Vedanta*); in Govinda-deva the conversion happens at once, by the power of the radiance revealed.
+[^16-18]: CC Madhya 25 and Antya 4: Subuddhi Raya, once punished by a Muslim ruler, lived in Mathura selling dry wood; Sanatana met him, learned that Rupa and Anupama had gone via Prayaga, and stayed in Vraja.
+[^16-19]: The title *Vraja-vilasa-varnana* is not mentioned in CC; Sanatana's known works are the *Brihad-bhagavatamrita*, the *Hari-bhakti-vilasa* (with the *Dig-darshini* commentary) and the *Vaishnava-toshani* on the Tenth Canto; the *Vraja-vilasa-stava* belongs to Raghunatha Dasa. The poet perhaps means a description of the places of lila compiled by Sanatana (cf. Rupa Gosvami's *Mathura-mahatmya*).
+[^16-20]: The verse is partly unclear in the edition. According to CC Antya 1, Rupa, having begun a drama on Krishna in Vrindavana, set out with Anupama for Gauda; on the way Anupama passed away on the bank of the Ganga.
+[^16-21]: CC Antya 1: after Anupama's departure Rupa went to Puri alone, learning that the Gaudiyas had already left for the chariot festival.
+[^16-22]: CC Antya 1: the dog accompanied Shivananda Sena on the road; in Puri the Lord gave it coconut pulp and said, "Say 'Krishna'!"; repeating the Name, it attained liberation. In CC Rupa travels separately; Govinda-deva places both events in one narrative.
+[^16-23]: The *Lalita-madhava* and *Vidagdha-madhava*. CC Antya 1: Satyabhama in a dream told Rupa to write a separate drama about her, and Rupa divided his plan in two — the plays in Vraja (*Vidagdha-madhava*) and in Dvaraka/Mathura (*Lalita-madhava*).
+[^16-24]: *Yaḥ kaumāra-haraḥ* (Padyavali 382), the verse the Lord repeated before the chariot; its inner meaning was known only to Svarupa Damodara, and Rupa expressed it in his verse *priyaḥ so 'yaṁ kṛṣṇaḥ* (CC Antya 1, Madhya 1). Radha's longing to bring Krishna back to Vrindavana is transcendental prema, not mundane passion.
+[^16-25]: CC Antya 1: Rupa recited verses from the dramas before the Lord, Ramananda Raya, Sarvabhauma and Svarupa; Ramananda praised them.
+[^16-26]: Nityananda's marriage by Mahaprabhu's command. CC mentions only Virabhadra (Adi 11); details are in the *Bhakti-ratnakara* and other biographies. Nityananda is Balarama Himself, and His household life is lila, not subjection to worldly bonds.
+[^16-27]: By tradition Nityananda and Vasudha had a son, Virabhadra, and a daughter, Gangadevi; the poet speaks of "sons", placing Virabhadra first. The father of Nityananda's wives is usually called Suryadasa Sarakhela in the biographies.
+[^16-28]: CC Antya 6: the flat-rice festival (chida-dadhi) at Panihati; Nityananda saw Mahaprabhu, who had come there, and fed Him; afterwards all went to the house of Raghava Pandita.
+[^16-29]: CC Antya 6: the Lord gave Raghunatha a stone from Govardhana and a gunja garland, explaining that the stone is Krishna Himself; Raghunatha worshipped Him with water and tulasi buds; he lived on alms at the temple gate and later at a chatra. The Govardhana-shila is not a "stone" but the Lord Himself, and so the poet understands it ("filled with His mercy").
+[^16-30]: The verse is unclear. According to CC Antya 3, it was Damodara Pandita who "rebuked" the Lord (for His affection toward a widow's son), and the Lord sent him to Navadvipa to look after Shachi; Govinda-deva apparently conflates him with Svarupa Damodara. "Clad in rags" may also refer to the Lord Himself.
+
+---
+
+# Canto Seventeen. The Manifestation of Wondrous States
+
+*Sanatana in Puri: healing and return to Vraja; Rupa and Jiva; the works of the Gosvamis in Vraja; Vallabha Bhatta and the commentary against Shridhara; Jagadananda's oil, his journey to Vrindavana and the pilu fruits; the message to Advaita, the coming of Advaita and Nityananda to the Ratha-yatra; Raghunatha Bhatta; the Lord eats a month's store of prasada; Haridasa's departure; states of separation: the elongated body, Chataka-parvata, the tortoise form among the cows; the fall into the ocean, Vibhishana takes the Lord to Lanka, a fisherman draws Him out in his net (pp. 84–88)*
+
+*[p. 84]*
+
+**1.** Then Sanatana, his heart serene, victor over the six enemies, came of his own accord from Vraja, wishing to see the Lord, and entered [Puri] like a son of the Unborn.
+
+**2.** Seeing him from afar, the Lord lovingly and quickly raised him as he bowed nearby, and forcibly pressed him to His heart, though he drew back, afraid [of defiling Him] with his itching sores.
+
+**3.** By contact with His body his body became beautiful as that of the god of love, and at the Lord's word he gave up his wish to abandon the body. Having lived joyfully near Him for some days, by His command he returned to Vraja.[^17-1]
+
+**4.** Rupa, having gone home from there, lived [there] a year; placing the burden of guardian of the family on Jiva, his younger brother's son, he, grieved by inexorable time, went to Vraja.[^17-2]
+
+**5.** Then that Jiva, loving to all beings, under the pretext of the family rites befitting the time, gave away wealth to supplicants, guests and brahmanas, and honoured the noble Vaishnavas.
+
+**6.** He immersed the women of the household too in the practices of worship of the son of Vraja's king; then, filled with that bliss, they forgot worldly happiness.
+
+**7.** Having firmly provided for the family with lasting jewels and other wealth and with well-wishing people able to support them for life, he joyfully went to the crown of the wise, the lord of the learned.[^17-3]
+
+**8.** Having told him without faltering the long-held, beneficial desire of his heart, that king of renunciants, at his command, fixing his mind on Keshava, went to Vraja.
+
+**9.** Entering then Mathura, the city of Dasharha, he duly honoured his two venerable uncles there and, self-controlled, lived with them like the moon at night between two oceans.
+
+**10.** With them he delighted, praising the forests celebrated as Vrindavana; bathing in their tirthas, he was supremely content with immortal bliss.
+
+**11.** There they each separately composed collections of scripture worthy of their thought and bearing the fame of the Enemy of Baka [Krishna], by which, as if by nectar, the tormenting thirst of people seeking the fruits of the four aims of life was quenched.
+
+**12.** Rupa composed two dramas, the *Ujjvala[-nilamani]* together with the *Ocean of the Nectar of Bhakti-rasa*, as well as the *Dana-keli-kaumudi*, the *Hamsaduta* and the *Uddhava-duta*.[^17-4]
+
+**13.** Sanatana wrote a commentary elucidating the meaning of the Tenth [Canto], and separately a grammar built on the names of Hari, as well as the two *Amritas*, the *Siddhanta-sarasvata* and other works.[^17-5]
+
+**14.** At their command, Vallabha's son [Jiva], free of false ego, composed the beautiful *Alankara-kaustubha*, the set of seven *Sandarbhas*, and then a champu, *The Casket of Vraja's Plays*.[^17-6]
+
+**15.** While those renowned ones lived in Vraja, and their kinsmen, sanctifying their own lineage, in their own lands, the Lord at Nilachala heard news of them every year and was fully delighted.
+
+*[p. 85]*
+
+**16.** Once Vallabha Bhatta, full of pride, having by his own whim composed a commentary on the *Bhagavata* contrary to the Svami's opinion, came to present it to the Lord.[^17-7]
+
+**17.** Then the One who loves His servants, having had His servants extend him due hospitality, in order to humble his pride, entered into discussion with that brahmana together with the devotees.
+
+**18.** When the brahmana began to explain his commentary, He, raising objections word by word, said to him: "Your commentary, brahmana, transgresses the Svami's words — it is unfaithful, like an unchaste woman."
+
+**19.** Hearing this, the brahmana lost his lustre; and the Best of brahmanas graciously and respectfully consoled him: "Do not grieve, brahmana — how can one in Kali distinguish Shridhara from Shuka?"[^17-8]
+
+**20.** Once Jagadananda Pandita came, who is equal to Satya [Satyabhama]; and the Lord, wishing to see his anger, suddenly refused the sesame oil [placed] in His lodging.[^17-9]
+
+**21.** He had brought a jar of fragrant oil to anoint the Lord's lotus feet; but the Lord, seeing it, as if surprised, rejected it, saying, "This is not proper for such as Me."
+
+**22.** The Pandita, wounded at heart, threw down that jar of oil and broke it; yet that oil [miraculously] appeared smeared all along the road where the Lord walked.
+
+**23.** Then by His command that brahmana, desiring the company of the saints of Vraja, went to Vraja; having seen Vrindavana, he soon entered the radiant, lovely city called Mathura.
+
+**24.** Having spent some days there in full happiness, having seen the benevolence of Rupa and the others and studied their poems one by one, the good brahmana spent some time there.
+
+**25.** Taking leave of those best of men, he returned to the Dark Mountain [Nilachala]; seeing there the Lord, the Master free of all coverings, he offered pilu fruits.
+
+**26.** "These fruits, born in Vrindavana, of incomparable worth, are offered to you; eat them all together, Vaishnavas," — saying this, the Lord Himself ate and made others eat.[^17-10]
+
+**27.** Then Mahaprabhu, the Lord of great power, remembering both Lords — the husbands of Sita and Vasudha [Advaita and Nityananda] — and again and again His mother, anxious, wished to send them a message.
+
+**28.** The Knower of the three times, placing His words in a riddle-letter and pondering it within Himself, quickly sent that same Pandita to the two Lords and to His mother.[^17-11]
+
+**29.** Reaching his homeland, he, knowing place and time, delivered the message to Shachi, then from that town went again to Shantipura and placed the letter in Advaita's hand.
+
+**30.** And he [Advaita], together with the Avadhuta [Nityananda], pondering its meaning and understanding what was to be done, together with Svarupa, wishing to see the Lord, quickly came to the best of kshetras.[^17-12]
+
+**31.** Then, when the chariot festival of the Wheel-bearer drew near again, those three came, headed by Advaita, and the Lord Himself came to meet them and received them with joy.
+
+**32.** When the aged brahmana Chandrashekhara, who lived in Kashi, attained the supreme goal, his son Raghunatha, having completed the rites for him, came to the Lord.[^17-13]
+
+*[p. 86]*
+
+**33.** Seeing him, the Teacher of the world mercifully consoled him like a father at Nilachala, had him stay with Him for some days, and, as Master, sent him: "Go to Vrindavana."
+
+**34.** He, named Raghunatha and called Bhatta, reaching Vrindavana, the abode of Indira, met Sanatana and the others there and rejoiced, remaining in the service of Govinda.[^17-14]
+
+**35.** And Gaurachandra, served day and night by the devotees of His own land, sometimes showed His majesty, sometimes renunciation, sometimes ordinary human behaviour.
+
+**36.** Once the devotees, wishing to feed the Lord of wondrous deeds, the Mighty-armed, each separately and with care brought many foods, chiefly the prasada of Janardana [Jagannatha].[^17-15]
+
+**37.** All these things of the great souls, handed one by one into Govinda's hands and accumulated over a whole month, filled the inner room of the Lord of sages.
+
+**38.** Then the servant of the best of Puris [Govinda], troubled again and again by this accumulation, said to the Lord in private with a smile: "Lord, what is to be done with these stale foods?"
+
+**39.** Hearing his words, He replied: "No, gentle one — like Brahman, it undergoes no change: it is food cooked by Lakshmi and eaten by Achyuta Hari."[^17-16]
+
+**40.** Saying this, He — ah! — ate it all — rice, cakes, sweet rice, drinks, vegetables, frothy sweets and the rest — the Great-bellied One, asking Govinda, "Whose is this? What is this?"
+
+**41.** Accepting alms from the righteous, faithful, sinless saints and so showing them mercy, the King of mendicants moment by moment spread His ever-new glory in all directions.
+
+**42.** Once the Lord, [knowing] the desire of His servant who wished to leave his body, entered his abode, which transcends all ashramas, and, Friend of the righteous, praised him in the assembly.[^17-17]
+
+**43.** "Ah, men, the resolve and heart of this one are not [of this world]! He who has reached the far shore of the greatness of the Lord's Name brought even a harlot to the supreme goal."[^17-18]
+
+**44.** Seeing his Lord praising him near by — with the working of all his senses suspended, his eyes adorned with tears of joy — he went out of his body and entered into the Almighty.[^17-19]
+
+**45.** Seeing that wonder, such as never was nor will be on earth, the wisest bowed in throngs to the One beautiful as the moon, dancing joyfully in his abode.
+
+**46.** Then He whose heart is steeped in compassion, with great enthusiasm, respectfully and joyfully held a great festival [in Haridasa's honour] with many kinds of mahaprasada, lasting up to twelve days.[^17-20]
+
+**47.** Though His feet are worshipped by the Self-born [Brahma], the Lord, Himself becoming as it were a devotee with humble mind, again and again kindled on earth the feelings of devotion to Himself, manifested through vibhava and the rest.
+
+**48.** Then the Lord, overwhelmed by the transformations of the highest prema of Vraja, displaying great bewilderment, adopted the state of [a gopi] whose beloved is far away, and did not regard as good even what was prescribed for Him [as a sannyasi].[^17-21]
+
+**49.** Under the power of unbroken meditation He saw at night the festival of the rasa; from then on, even awake, He eagerly took up acts full of the longing of separation.[^17-22]
+
+*[p. 87]*
+
+**50.** Softened by the burden of unbearable fever [of separation], having gone out of the house, the joints of His bones disjointed, He was seen at the door of the Lord's [dwelling] — flesh alone, enormously elongated.[^17-23]
+
+**51.** Seeing Him there in that state, unrecognisable by His features, with acts unlike anything in the world, the wise devotees, understanding that state, loudly sang the Name of Hari.
+
+**52.** Hearing the singing, the Lord — dear to the saints, famed for His transformations, touching the hearts of those who serve Him — instantly rose and joyfully began to dance with a roar.
+
+**53.** Once, wandering on the ocean shore and dancing with joy, He saw Chataka-parvata before Him and, mistaking it for Mount Govardhana, ran, shaking the earth with His feet.[^17-24]
+
+**54.** Once, seeing a garden, He remembered the wish-fulfilling abode of Vrindavana and, lifted up by the surging ocean of prema, knew neither inside nor outside — and danced.
+
+**55.** Once, afflicted by the pain of separation, He saw before Him the radiant, heart-stealing Hari with His associates and with Vrishabhanu's daughter at His side — and the river of prema swelled in ever-new waves.
+
+**56.** "Krishna stood here, here was Radhika; where has He gone?" — repeating this everywhere, wandering at midnight, His limbs loosened, from exhaustion He lay down on the ground in the shape of a tortoise.[^17-25]
+
+**57.** Seeing Him thus, the cows, as if to their newborn calf, joyfully, lowing deeply, drawn by His fragrance, licked Him again and again.
+
+**58.** Then the best of men, headed by Svarupa, searching for Him in distress and lamenting piteously, drank in with their eyes the Lord found in the cowpen among the herd.
+
+**59.** Seeing Him in a form unlike anything in the world, His face, hands and feet drawn into His body, they cried aloud: "Ah, ah, see what state He is in!"
+
+**60.** Hearing that deep cry, mingled with words and echoed by the hillsides, He, saying "Hare Krishna", rose from that state and gave joy to those great souls.
+
+**61.** Bearing many kinds of bhava, the Lord resumed His [usual] form when outward consciousness returned; the devotees and many people who had come to see brought Him with difficulty to His lodging.
+
+**62.** Once, taking [the ocean] for the daughter of the Sun [the Yamuna], He threw Himself into the lord of waters. To claim Him, the fearless Vibhishana took Him away to Lanka, adorned with Alaka and other [cities].[^17-26]
+
+**63.** There the righteous [Vibhishana], having performed due worship, pleased the beloved Guest many times; worshipped and pleased at heart, He at once appeared in a form dark as a blade of durva grass.
+
+**64.** Placing bow and arrow in His hands, the best of friends, with his kinsmen and friends, bowed and praised Him: "King of the twice-born, King of kings, victory to You, Lord!"
+
+**65.** Then, not seeing Him, struck by ill fortune, Svarupa, the Lord of Sita and the others, fearing disaster, searched for the Lord from Arka-tirtha to Chataka-parvata.
+
+**66.** With lips dried by fatigue and grief, with sleepless eyes from which streams of tears flowed, they searched for Him on the ocean shore — and the night passed for them as though it had a thousand watches.
+
+*[p. 88]*
+
+**67.** Then Vibhishana, learning of the distress of the Lord's own people and of the Lord's wish to go, by his maya gave Him the guise of a beggar and placed Him in the water into a fisherman's net.[^17-27]
+
+**68.** That fisherman, thinking, "Has some dark-gold stone fallen from somewhere — perhaps from Trikuta?", forcibly drew the golden Lord out of the water onto the shore.
+
+**69.** By the touch of His body his sinful vision was destroyed, and he, overwhelmed with bhava and devotion, trembled; with shivering and hair standing on end he danced and sang in a faltering voice.
+
+**70.** Then the great souls, seeing him come in that state, joyfully reasoned: "He could have gained this fortune only by touching His body — be certain of this."
+
+**71.** Saying this, they went to Him; seeing the Lord, they sang "Victory!" — and with the kirtana of Mukunda, with instruments and dancing, after long effort, they brought Him back to consciousness on the following day.[^17-28]
+
+**72.** Freely calling the name "Hari", Hari with His followers, dancing in various bhavas on every road, shone with divine majesty. Seeing Him, people were freed from all grief, and mortals could not be told from immortals — [for they too] did not blink.
+
+**73.** Thus the Avadhuta and the other devotees, having devotedly consoled the Lord, settled Him in His lodging; pondering those acts of His with absorbed minds, they remained silent, heaving deep sighs.
+
+**74.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, bull among the lords of sannyasis — this seventeenth canto, called "The Manifestation of Wondrous States", has come to its end.
+
+*Thus ends the seventeenth canto of the* Sri Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+[^17-1]: CC Antya 4: Sanatana came from Vrindavana through the Jharikhanda forest, developed itching sores and resolved to throw himself under the wheel of Jagannatha's chariot; the Lord, learning of it, forbade him, saying that Sanatana's body belonged to Him, embraced him despite the sores, and his body was healed and became golden. Sanatana spent a year in Puri (the poet says "some days") and returned to Vrindavana.
+[^17-2]: CC Antya 4: Rupa, returning to Gauda, stayed there a year distributing his wealth among his relatives, and went to Vrindavana. Jiva is the son of Anupama (Vallabha), the younger brother of Rupa and Sanatana.
+[^17-3]: "The crown of the wise, the lord of the learned" is probably Nityananda (so according to the *Bhakti-ratnakara*: Jiva went to Navadvipa to Nityananda, who blessed him and sent him to Vraja via Kashi). The verse is unclear.
+[^17-4]: The *Vidagdha-madhava* and *Lalita-madhava*; the *Ujjvala-nilamani*; the *Bhakti-rasamrita-sindhu*; the *Dana-keli-kaumudi*; the *Hamsaduta*; the *Uddhava-sandesha*. Cf. the list of Rupa's works in CC Madhya 1.
+[^17-5]: The commentary on the Tenth Canto is the *Vaishnava-toshani* (*Brihad-toshani*). The "grammar built on the names of Hari" is usually ascribed to Jiva (*Hari-namamrita-vyakarana*); the "two *Amritas*" are presumably the *Brihad-* and *Laghu-bhagavatamrita* (the latter usually ascribed to Rupa). The title *Siddhanta-sarasvata* is unclear in the edition, perhaps corrupt. We translate as it stands.
+[^17-6]: The *Shat-sandarbha* (seven with the *Krama-sandarbha*) and the *Gopala-champu* (*The Casket of Vraja's Plays* is a descriptive title). The *Alankara-kaustubha* is a work of Kavi-karnapura; Jiva is perhaps named here as the author of a commentary on it, or the poet is mistaken. Jiva is the son of Vallabha (Anupama).
+[^17-7]: CC Antya 7: Vallabha Bhatta was proud of his commentary on the *Bhagavata* and declared that he did not accept Shridhara Svami's explanations. "The Svami" is Shridhara Svami, author of the *Bhavartha-dipika*, whom the Lord greatly honoured.
+[^17-8]: CC Antya 7: "One who does not accept the Svami I count as a harlot." The words "how can one distinguish Shridhara from Shuka" are a poetic expression of the Lord's reverence for Shridhara Svami.
+[^17-9]: CC Antya 12: Jagadananda brought a jar of sandalwood oil from Gauda; the Lord refused it, saying that fragrant oil is not proper for a sannyasi, and told him to give it for Jagannatha's lamps; in anger Jagadananda broke the jar. Jagadananda is Satyabhama (*Gaura-ganoddesha-dipika*), and his anger is an expression of love. The miracle of the oil appearing along the Lord's path is Govinda-deva's.
+[^17-10]: CC Antya 13: Jagadananda went to Vrindavana, stayed with Sanatana and returned with gifts from him, including pilu fruits; the Lord distributed them to the devotees.
+[^17-11]: In CC Antya 19 the riddle (*tarja-prahelika*) is sent to the Lord by Advaita through Jagadananda, and after it the Lord sinks into the deepest separation. Here it is the Lord who sends the riddle-letter; the course of events is different.
+[^17-12]: "Together with Svarupa" — so in the edition; Svarupa Damodara lived in Puri. Perhaps another companion is meant, or "in his own form". "The best of kshetras" is Purushottama-kshetra (Puri).
+[^17-13]: Raghunatha Bhatta is the son of Tapana Mishra (CC Antya 13); Chandrashekhara is another companion of the Lord in Kashi. The poet apparently confuses them. According to CC, Raghunatha Bhatta came to Puri while his parents were alive, served the Lord for eight months, and was sent to Vrindavana only after their death, returning to Puri once more.
+[^17-14]: CC Antya 13: the Lord told Raghunatha Bhatta to recite the *Bhagavata* to Rupa and Sanatana; he served the Deity Govinda. Indira is Lakshmi.
+[^17-15]: CC Antya 10: the devotees from Gauda left food for the Lord with Govinda; Govinda kept it for a month, the Lord found out and ate it all, naming each giver.
+[^17-16]: CC Antya 10 (Govinda says there is too much food); the idea that mahaprasada does not spoil — CC Madhya 6 (mahaprasada, even dried, is sacred) and Antya 16. Mahaprasada is spiritual and not subject to change, like Brahman.
+[^17-17]: The departure of Haridasa Thakura — CC Antya 11.
+[^17-18]: CC Antya 3: the harlot sent by Ramachandra Khan to ruin Haridasa, listening to his japa, was converted and became a great Vaishnavi.
+[^17-19]: Lit. "entered into the Almighty (*vibhau viveśa*)". This is not merging into the impersonal Brahman: according to CC Antya 11, Haridasa left his body gazing at the Lord's face and repeating "Sri Krishna-Chaitanya", and entered the Lord's eternal lila; the Lord danced carrying his body. The poet's expression means attaining the Lord, not loss of personality.
+[^17-20]: CC Antya 11: the Lord Himself begged prasada from the shops and held the festival of Haridasa's departure. "Up to twelve days" is the poet's.
+[^17-21]: *Proshita-bhartrika* — a heroine whose lover has gone away (one of the eight nayikas). The Lord's state is Radha's prema in separation (CC Antya 14–20), transcendental, not mundane passion.
+[^17-22]: CC Antya 14: the Lord saw the rasa-lila in a dream and, waking, lamented its loss.
+[^17-23]: CC Antya 14: at night the Lord went out of His room though the doors were shut and lay at the Lion Gate (or at the gate of His residence) with His body elongated and His joints separated; only when Svarupa sang Krishna's names did He rise.
+[^17-24]: CC Antya 14: seeing the sand dune Chataka-parvata, the Lord took it for Govardhana and ran toward it.
+[^17-25]: CC Antya 17: the Lord was found among the cows of the Tailanga quarter in the form of a tortoise, His arms and legs drawn into His body; the cows were licking Him. Regaining consciousness through sankirtana, He rose.
+[^17-26]: The Vibhishana episode is unique to Govinda-deva: in CC Antya 18 the Lord, taking the ocean for the Yamuna, threw Himself into it, and in the morning a fisherman drew Him out with his net. The poet links the incident with Rama's lila: Vibhishana (Rama's eternal servant) takes the Lord to Lanka and sees Him as Rama. "Alaka" is Kubera's city, probably as an image of Lanka's wealth. The translation of part of the verse is conjectural.
+[^17-27]: "By his maya" — here the wondrous power by which Vibhishana changed the Lord's appearance to people's eyes; the Lord is not subject to maya, this is only His lila. In Govinda-deva the "beggar's guise" explains why the fisherman did not recognise Him.
+[^17-28]: CC Antya 18: Svarupa Damodara and the devotees found the fisherman, maddened by the touch, and, following him, found the Lord on the shore; by kirtana they brought Him back to outward consciousness.
+
+---
+
+# Canto Eighteen. Victory in His Own Abode
+
+*The Lord rubs His face on the ground, Shankara Pandita sleeps at His feet; the vision of Krishna in the spring garden, divine madness; the three states of consciousness; the Lord's beloved books; the last twelve years; the Lord's appearances in the houses of devotees; Nakula Brahmachari and Shivananda Sena: the Gaura-Gopala mantra, the Gaura-gayatri and the worship of Gaura; the Shikshashtaka; the passing of Shachi and her daughter-in-law; the vision of Vraja in the sky; the last instruction and prayer; the Lord's departure on Phalguna Purnima; Vakreshvara in His abode; the close of the poem (pp. 89–93)*
+
+*[p. 89]*
+
+**1.** Once Gauranga, looking at the beauty of His own body — unearthly, full of loveliness — thought: "What women, seeing Me with such a body, would not by their very nature desire love?"[^18-1]
+
+**2.** "Therefore I shall disfigure this covering; otherwise people will not gain detachment through Me." Resolving thus in a mind free of attachment, He rubbed His face on the ground many times.
+
+**3.** From this wounds appeared on His lips and nose, and streams of blood flowed from them. Seeing this, all fell into dejection and, their hearts burning with pain, did not sleep at night.
+
+**4.** At their request Shankara Pandita from then on always slept at His feet; bound by this obstacle, Gaura, restrained by him, rubbed His face no more.[^18-2]
+
+**5.** Once, when spring had come, the Lord, seeing the beauty of a wondrous garden, intoxicated, described it with verses of the *Gita-govinda* that intoxicate the heart and delight the ear.
+
+**6.** Seeing Krishna there meeting [His Beloved] at the foot of an ashoka tree, He in rapture, wiping His eyes with His hand, ran with difficulty into the distance, wishing to embrace [Him] — and, all movement lost, rolled on the ground.[^18-3]
+
+**7.** When the great souls, running up and seeing Him thus on the ground, surrounded Him, He, His mind bewildered by bhava, straining to run, loudly told the devotees what He had experienced within:
+
+**8.** "Where has Krishna gone, whose body His Beloved embraced? Where have the gopis gone, where is that gathering of the pastures? What man or demon, what fool, has brought Me away from there to cause Me pain?"
+
+**9.** While the Lord of sages, His mind intoxicated with divine madness, thus sincerely lamented, recognising the former plays, the devotees both rejoiced and grieved on every side.[^18-4]
+
+**10.** Dancing, though He had no duties, constantly meditating on [Krishna's] form and singing His beloved glories, standing or walking — thus with His whole being He belonged to Krishna and became on earth as if Krishna Himself.[^18-5]
+
+**11.** From the overflow of bhava He always had three states: external, internal, and both together. In the first the acts of the body were done; in the middle there was the experience of the eternal lila;
+
+**12.** and in the last — from the double awareness — lamentations full of bliss, with devotion and reasoning. By these Gaura reveals to true devotees the kinds of bhakti — sadhana, bhava and prema.[^18-6]
+
+**13.** The five chapters marked by the rasa-lila, the drama spoken by Ramananda, the songs of the *Gita-govinda* and the *Karnamrita* Gaura took into His heart and constantly recited within.[^18-7]
+
+**14.** With Ramananda, Advaita, the Avadhuta, the Bhattacharya, Shrinivasa, Svarupa and other devotees, with Vakreshvara and the others there, the Lord of the self-controlled thus spent twelve years.
+
+**15.** Having removed the heavy burden of the Earth, having granted others the crossing of the ocean of sin, having revealed the essence — bhakti alone — He thus brought what He had begun to its end.
+
+*[p. 90]*
+
+**16.** Wishing to show mercy again to future people, through His appearances [avirbhava], entrances [avesha] and the spreading of His power — did He not Himself, out of compassion, teach in land after land the Vaishnava dharma alone?
+
+**17.** In the house of Shachi, always with Nityananda-Rama, in the houses of Shrivasa and Raghava, and of others whose hearts are purified by prema, He appears and gladdens people.[^18-8]
+
+**18.** In Bengal there lived a certain brahmachari named the Younger Brother of Partha [Nakula], gentle, self-controlled, devoted. Gaura entered him; imitating Gaura's acts, he became a benefactor of all people in the world.[^18-9]
+
+**19.** Whatever anyone held in mind, he clearly spoke of it from afar, even unasked. A rumour of this spread through the world, and, following it, people hurried to him.
+
+**20.** There was a crush at his house — no one could see him or ask him anything. Hearing of this, Shivananda Sena, delighted, came to see him and to ask him something.
+
+**21.** The brahmachari, calling him from afar as he approached, brought him near and explained everything: "Having become proud, you have come to test [me] — I shall tell you what brings people welfare.
+
+**22.** The mantra of Gaura-Gopala — a wish-fulfilling gem, served by the four varnas, [giver of] the aims of human life — is always in your heart, O best of the gentle."[^18-10]
+
+**23.** Hearing this, that righteous man, filled with faith, bowing again and again with joined palms, said to him: "All is known [to You]; I have no other doubt; and yet I ask You directly — Gaura.
+
+**24.** The mantra I know, but I do not know the order of worship; and my faith in it is truly great. Tell me, Master, that by accepting which we householders, serving without selfish desire, will come to Your abode."
+
+**25.** Thus asked, the brahmachari, his hair standing on end, spoke clearly to him as he wished: "All other joys lie below this one, O Shivananda — hold fast to the joy of service.
+
+**26.** In you abides the mantra of sacred syllables; it is to be remembered, glorified and repeated; for attaining all aims it needs no preliminary purification nor any regard for place, time and the like.[^18-11]
+
+**27.** There is another mantra, suited to daily worship, which the lords of yoga serve with all desires. All mantras in this age are without strength — but not this mantra for such as you.
+
+**28.** After the pinda-bija place 'to Gaura' [in the dative], and likewise 'to Krishna' after the [bija] of Manmatha; ending in the 'heart', it serves the worship of all varnas; ending in the 'head', this ten-syllable one is for those who wear the sacred thread.[^18-12]
+
+**29.** A man who has received the mantra by the guru's command should thus worship Me daily; having performed the morning duties of his ashrama, let him perform the tantric sandhya with My vidya.
+
+**30.** Uttering My name ending in 'vidmahe' in the dative, then 'dhimahi' with 'to Vishvambhara' in the dative, then 'tan no gaurah pracodayat': this gayatri saves the one who sings it.[^18-13]
+
+**31.** Purified by this vidya of Mine, seated comfortably, having assigned the rishi — Gautama, the metre — anushtubh, and the rest, [placing] the bija and shakti in the bija, let him perform inner meditation thus:
+
+**32.** [Let him meditate on Him] perfect in every limb, golden as the pure gold of the Ganga, dancing, repeating the mantra again and again, holding a danda in His hands, radiant, lotus-eyed.[^18-14]
+
+*[p. 91]*
+
+**33.** Having invoked Him thus onto the excellent Vaishnava seat, having offered the services with their proper articles, having satisfied Him together with His limbs-associates, servants and the guardians of the quarters, let him then place Him back in the lotus of the heart.
+
+**34.** Let one fit in conduct thus serve constantly; such a mortal, accomplished in My worship, having enjoyed [worldly goods], attaining the highest bhakti, his thirst quenched, reaches the world of Krishna [salokya]."[^18-15]
+
+**35.** Thus instructed by him, the ornament of the Sena family was freed from doubt in that assembly; and the learned who heard it, understanding it, taught it to others too.
+
+**36.** Thus the Lord, through the brahmachari's words, revealed the vidya, and, transmitting His power in this way, again and again proclaimed bhakti to the world through Sri Rupa and His other devotees.
+
+**37.** On earth all others show compassion to the wretched for some purpose; not so this merciful God of gods: He is a friend to all living beings without any calculation.
+
+**38.** Wishing further to teach people their welfare, Gaura at His own will, under the pretext of tasting the meaning of His *Shikshashtaka*, set forth in order the means of attaining Sri Krishna.[^18-16]
+
+**39.** When the month of Magha came, He whose resolves are never fruitless, seeing that all people were Vaishnavas — and on earth even the nagas, gods and danavas — content within Himself, wished to go to His own abode.
+
+**40.** Loudly, loudly crying "Krishna!", with tears of joy, singing, dancing and the like, the Lord passed the time like a child, having given up outward awareness, having drunk the honey-wine of prema.
+
+**41.** By the efforts of His servants engaged in that service, He sometimes bathed, sometimes drank water, sometimes lay down; the food given by the devotees He only occasionally, with difficulty, tasted — a single grain.
+
+**42.** While the Lord, thus overwhelmed, did not appear before His mother, Shachi and her daughter-in-law, anxious, from double grief took neither food nor water.
+
+**43.** Both, their lives waning, wasted, their breath barely lingering, constantly meditating on the ornament of the Mishra line, crying, "O Gauranga, where are You? O Friend of the wretched!" — submitted to the law of time.[^18-17]
+
+**44.** Learning of this, Chaitanyachandra, though staying in the kshetra, was as if beside them; and when the Ekadashi of the bright half of Phalguna came, He became wholly concentrated.
+
+**45.** Leaving everything, staying in a hut on the ocean shore, He was in samadhi with eyes closed. There He saw in the sky, on celestial chariots, the gods headed by Brahma, Shiva and Indra,
+
+**46.** and before them Nanda and the others, elders of the gathering of the pastures, the Elder Brother [Balarama] with His friends, the gopis, the cows, the two mothers, Radha with anxious eyes and Chandravali, remover of obstacles.
+
+**47.** Among them, longing with love and praising [Him], Nanda's loving wife, saying "Child!", thirsting, her throat choked and wet with tears, stretched out her hands as if wishing to take Him.
+
+**48.** Then, still speaking, they — whose lives [were held only] by an unquenchable resolve — for the most part vanished, according to their own intent. Seeing this, the Lotus-eyed One opened His eyes — joyful, content, His body strengthened — and shone.[^18-18]
+
+**49.** Giving up walks, baths, offerings, drink and food, He whom Shiva worships stood apart, motionless as a pillar; seeing such conduct of His, the devotees felt fear, love and grief.
+
+*[p. 92]*
+
+**50.** Whatever state He assumed watch after watch — in each the beauty of His lovely body appeared, delighting the eyes of all beings, and it filled the path of the gods.
+
+**51.** Thus for five days the Golden One, who owned nothing, [kept people unaware]; and when the evening of the fifth day came, He suddenly rose and, raising His arms, as if calling again and again with an unchecked voice like a cuckoo's, the Lord instructed the people gathered there from many homes:[^18-19]
+
+**52.** "One on whose lips is 'Krishna' should be honoured in the mind; if he is initiated and worships the Lord — with obeisances; and one who knows bhajana, devoted to [Krishna] alone, whose heart is free from censure of others — with service, longing for his company.[^18-20]
+
+**53.** The Name, deeds and so on of Sri Krishna are sweet sugar, yet to a tongue burnt by the bile of ignorance they are not pleasing; but if taken with reverence every day, they gradually become sweet and destroy the very root of that disease.
+
+**54.** Seeing in a devotee faults born of nature and defects of the body, one should not regard him as material: the waters of the Ganga do not lose their nature as Brahman because of bubbles, foam and mud — properties of [ordinary] water.
+
+**55.** Engaging tongue and mind in turn in the beautiful chanting and remembrance of Sri Krishna's names, form, plays and the rest, living in Vraja and following those full of love for Him — spend all your time thus: this is the essence of instruction."
+
+**56.** "O Krishna, radiant as a raincloud, whose lotus face blossoms from the abundant grace in the glance of Your Beloved, flashing like lightning! You, shining with Her in the rasa dance, covered with drops of sweat from fatigue — shall I fan You, by the mercy of Lalita and the others?"[^18-21]
+
+**57.** While He recited this, making all the joints of His body firm, a dark complexion, desired even by Kama, was seen on His body; in a moment, faintly reddening the universe with a crimson radiance, Gaura-Krishna left the earth and vanished like lightning.[^18-22]
+
+**58.** When that crimson radiance faded, the moon rose; when its light dispelled the darkness, Advaita and the others opened their eyes and, perceiving the absence of the Supreme Person on the earth, saw everything empty — the earth kept only the marks of His feet.
+
+**59.** As they cried there, "Alas, alas!", even the lord of herbs [the moon] was swallowed by Rahu; for that reason all bathed in the ocean and stood silent in the agony of separation.[^18-23]
+
+**60.** On the next day His associates, recalling Hari's qualities, lamented long; then, soon coming to themselves, recognising Vakreshvara as the Lord's first disciple, they installed him in His abode and departed each to his own dwelling.[^18-24]
+
+**61.** Of the devotees of the Lord's feet who lived in other abodes, some remained at Nilachala, others went to Vraja, and some, alas, spent their time wandering round the regions of the earth.
+
+**62.** Thus the Lord, solely from the desire for play, having spent forty-eight years [on earth] and revealed the secret of the practice of bhakti — most hidden of the hidden — returned at His own will to His own stage.[^18-25]
+
+**63.** From the ocean of the essence of the nectar of Sri Gaurachandra's deeds I have drawn here in my heart only a drop. If the saints meet with laughter what has been lightly described — the saints will be my refuge; the others have no place here.[^18-26]
+
+*[p. 93]*
+
+**64.** In the *Sri Gaura-krishnodaya*, composed for the delight of connoisseurs by Govinda — a bee intoxicated by tasting the drops of honey that open within the lotus feet of Sri Gauranga, bull among the lords of sannyasis — this eighteenth canto, called "Victory in His Own Abode", is complete.
+
+*Thus ends the eighteenth canto of the* Sri Sri Gaura-krishnodaya *composed by Sri Govinda.*
+
+*When the Shaka year one thousand six hundred and eighty had passed, on the second lunar day of the dark half of Ashvina, on the day of Kavi [Friday], in the year named Plava, this poem was completed and offered once more to the Lord.*[^18-27]
+
+*Whatever faults there may be in it — breaches of order, impurities through the error of me, a dull one — all of it will become pure, because it is offered at the Lord's feet, like a little water in a holy lake.*
+
+*The book is complete.*
+
+[^18-1]: The motive the poet ascribes to the Lord is the strictness of His sannyasa: for the sake of the example of renunciation He did not allow even an occasion for worldly attraction in people (cf. CC Antya 2 — the punishment of Chota Haridasa). The Lord's beauty is transcendental; the poet speaks of how people perceive it.
+[^18-2]: CC Antya 19: in intense separation the Lord rubbed His face against the walls of the Gambhira until it bled; Svarupa Damodara asked Shankara Pandita to sleep at His feet, and the Lord, out of regard for him, stopped. Govinda-deva gives a different reason — the wish to deprive Himself of beauty for the sake of renunciation.
+[^18-3]: CC Antya 19: in a spring garden by the sea the Lord, reciting verses of the *Gita-govinda*, saw Krishna under an ashoka tree, ran toward Him, but Krishna vanished and the Lord fell unconscious.
+[^18-4]: Divyonmada ("divine madness") is the highest stage of Radha's madana-mahabhava (CC Antya 14–19). It is not mundane insanity.
+[^18-5]: Lit. "became Krishna's and became Krishna on earth". Gaura is Krishna Himself in the mood and radiance of Radha (CC Adi 4); the poet here speaks of the fullness of His absorption: as a devotee He belongs wholly to Krishna, and by His own nature He is Krishna.
+[^18-6]: The three states are bahya-dasha, antar-dasha and ardha-bahya (CC Antya 14, 18, 20). In ardha-bahya the Lord, still remembering the vision, pours out pralapa (lamentation).
+[^18-7]: The *Rasa-panchadhyayi* (Bhag. 10.29–33), Ramananda Raya's *Jagannatha-vallabha-nataka*, Jayadeva's *Gita-govinda* and Bilvamangala's *Krishna-karnamrita* — CC Madhya 2 and 10 (which also name the songs of Chandidasa and Vidyapati).
+[^18-8]: CC Antya 2: the Lord constantly appears (avirbhava) in four places: at Shachi's kirtana, in Nityananda's dancing, at Shrivasa's kirtana and in the house of Raghava Pandita.
+[^18-9]: CC Antya 2: Nakula Brahmachari of Ambuyamulluka; the Lord entered him (avesha), and Shivananda Sena tested him by asking him mentally about his secret mantra. "The younger brother of Partha" (Arjuna) is Nakula.
+[^18-10]: CC Antya 2: Nakula Brahmachari told Shivananda his secret mantra — the Gaura-Gopala mantra; thus Shivananda was convinced that the Lord was acting in the brahmachari. The instruction on the order of worship (vv. 24–34) is Govinda-deva's.
+[^18-11]: Probably the maha-mantra or the Lord's Name is meant, whose repetition requires no external conditions (cf. CC Antya 20: "there are no rules of place and time" for the Name).
+[^18-12]: A description of the mantra's construction in coded form, as is customary in tantric texts: "pinda-bija", "the bija of Manmatha" (klim), the ending "heart" (namah) or "head" (svaha). We translate without disclosing the formula.
+[^18-13]: This is the Gaura-gayatri (*... vidmahe viśvambharāya dhīmahi tan no gauraḥ pracodayāt*), chanted by initiates in the Gaudiya Vaishnava tradition, including the line of Srila Bhaktisiddhanta.
+[^18-14]: The text of the verse is partly unclear (a mention of a conch is not translated). The golden Gaura with the sannyasi's danda is the form for meditation.
+[^18-15]: Salokya ("residence in the same world as the Lord") is named here as the fruit of worship; according to Gaudiya Vaishnava teaching (Bhag. 3.29.13, CC Madhya 6), pure devotees accept no kind of mukti but service; the poet's expression should be understood as attainment of Krishna's abode for eternal service in prema, as "the highest bhakti" also indicates.
+[^18-16]: CC Antya 20: in His last days the Lord Himself explained the eight verses of the *Shikshashtaka* to Svarupa and Ramananda.
+[^18-17]: Govinda-deva states that Shachi and Vishnupriya passed away before the Lord. According to other sources (*Bhakti-ratnakara*, *Prema-vilasa*), Vishnupriya outlived the Lord and lived long in Navadvipa in strict austerity; the time of Shachi's passing is not unambiguously fixed in the biographies. We note the divergence.
+[^18-18]: The vision of the eternal associates of Vraja awaiting Krishna's return is Govinda-deva's. Those who appeared "vanished", that is, returned to their abode.
+[^18-19]: Five days — from the Ekadashi of the bright half of Phalguna to the evening of the full moon (Gaura-purnima), the day of the Lord's appearance.
+[^18-20]: Vv. 52–55 are verses 5, 7, 6 and 8 of Srila Rupa Gosvami's *Upadeshamrita*; the poet places them in the Lord's mouth as His last instruction. Srila Bhaktisiddhanta Sarasvati published the *Upadeshamrita* with his commentary *Anuvritti* as the foundation of the teaching on bhajana.
+[^18-21]: A prayer in the mood of a maidservant (manjari) of Radha, who wishes to serve the Divine Couple by the mercy of Lalita and the other sakhis — the highest goal of the Gaudiya Vaishnavas (raganuga-bhakti).
+[^18-22]: The Lord's departure is not a mundane death: He disappeared from the visible world and returned to His eternal abode (hence the canto's title, "Victory in His Own Abode"). Traditions about His departure differ (entering the Deity of Jagannatha or of Tota-Gopinatha, etc.); CC does not describe it. Govinda-deva's picture — Krishna's dark complexion appearing in Gaura and a lightning-like disappearance — is distinctive.
+[^18-23]: The Lord appeared on the full moon of Phalguna during a lunar eclipse (CC Adi 13); according to Govinda-deva, He also departed on that same day of the year, during an eclipse, when all were bathing in the ocean. This is the poet's symmetry; the historically accepted date of the departure is 1533, in the month of Ashadha.
+[^18-24]: The report that Vakreshvara Pandita remained in the Lord's abode (the Gambhira) after His departure is Govinda-deva's; Vakreshvara's disciple Gopala-guru later served the Deity Radha-Kanta at the Gambhira.
+[^18-25]: The Lord appeared in 1486 and departed in 1533, at the age of 48 (CC Adi 13: 24 years in Navadvipa and 24 years in sannyasa). "His own stage" (*svaranga*) is His eternal abode, where His lila continues.
+[^18-26]: The sense of the last words: only the saints may judge the book, and the opinion of others does not concern the author. The reading is partly conjectural.
+[^18-27]: The Shaka year 1680 corresponds to 1758 CE. "Kavi" is Shukra (Venus), i.e. Friday. Plava is the name of a year of the sixty-year cycle.
