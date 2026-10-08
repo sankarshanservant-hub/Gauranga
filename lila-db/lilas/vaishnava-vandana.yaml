@@ -1,0 +1,1462 @@
+# «Вайшнава-ванданы»: вандана, приписываемая Дживе Госвами (ч. 1), Девакинандана Дас (ч. 2), его «Вайшнавабхидхана» (ч. 3).
+# Перевод — vaishnava-vandana/ru/01.md–03.md. Записи — только там, где вандана упоминает лилу/событие (не чистые перечни имён),
+# в порядке изложения. Источник B; записи, расходящиеся с ЧЧ, понижены до C (см. notes). Записи добавлять в конец.
+
+- id: vv-0001
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 1–8
+  file: vaishnava-vandana/ru/01.md
+  period: PX
+  order: 30.1
+  title: 'Вступление: Рупа — прибежище Дживы; Господь со спутниками; извинение автора'
+  summary: Автор (называющий себя Дживой) славит Рупу Госвами, Господа, нисшедшего со всеми спутниками, и Нитьянанду; просит у вайшнавов прощения за нарушение порядка перечня.
+  persons:
+  - '@jiva-gosvami'
+  - '@rupa-gosvami'
+  - '@mahaprabhu'
+  - '@nityananda'
+  places: []
+  kind: author
+  authority: B
+  parallels: ''
+  notes: Атрибуция Дживе Госвами спорна (см. vaishnava-vandana/TASK.md, прим. 1 к ч. 1).
+  themes:
+  - author
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '1'
+    to: '8'
+
+- id: vv-0002
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 19
+  file: vaishnava-vandana/ru/01.md
+  period: P15
+  order: 20
+  title: Джахнава по повелению Господа служит Нитьянанде
+  summary: После санньясы Господа Джахнава по Его повелению служит Нитьянанде — намёк на женитьбу Нитьянанды по воле Махапрабху.
+  persons:
+  - '@jahnava'
+  - '@nityananda'
+  - '@mahaprabhu'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - family
+  event: ev-nityananda-marriage
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '19'
+    to: '19'
+
+- id: vv-0003
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 20–21
+  file: vaishnava-vandana/ru/01.md
+  period: P15
+  order: 95.3
+  title: Гопинатха во Вриндаване привлекает к Себе Джахнаву
+  summary: Томимая разлукой, Джахнава приходит во Вриндаван; Гопинатха тянет завязку её одежды, и она обещает скоро прийти к месту у Его стоп.
+  persons:
+  - '@jahnava'
+  - '@gopinatha-deity-vrindavana'
+  places:
+  - '#vrindavana'
+  kind: post-advent
+  authority: B
+  parallels: ''
+  notes: Лила Божества и Ананга-манджари (ст. 18), знак Его близости, не мирское.
+  themes:
+  - deities
+  event: ev-jahnava-gopinatha
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '20'
+    to: '21'
+
+- id: vv-0004
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 31
+  file: vaishnava-vandana/ru/01.md
+  period: P01
+  order: 4
+  title: Адвайта подвижничеством приводит Господа в мир
+  summary: Своим подвижничеством Адвайта привёл сына Шачи со спутниками в этот мир.
+  persons:
+  - '@advaita'
+  - '@mahaprabhu'
+  places: []
+  kind: pre-advent
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - revelation
+  event: ev-advaita-calls-lord
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '31'
+    to: '31'
+
+- id: vv-0005
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 36
+  file: vaishnava-vandana/ru/01.md
+  period: P07
+  order: 105.5
+  title: Нараяни вкушает нектар уст Господа
+  summary: Нараяни названа «вкушавшей нектар Его уст» — остатки трапезы Господа.
+  persons:
+  - '@narayani'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - prasada
+  - mercy
+  event: ev-narayani-remnants
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '36'
+    to: '36'
+
+- id: vv-0006
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 44
+  file: vaishnava-vandana/ru/01.md
+  period: P01
+  order: 70
+  title: Ниламбара Чакраварти составляет гороскоп Господа
+  summary: Дед Господа по матери составил гороскоп, где было указано и будущее.
+  persons:
+  - '@nilambara-chakravarti'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание; ср. ЧЧ Ади 13–14, ГГД 104.
+  themes:
+  - family
+  event: ev-gaura-appearance
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '44'
+    to: '44'
+
+- id: vv-0007
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 53–55
+  file: vaishnava-vandana/ru/01.md
+  period: P05
+  order: 25
+  title: Валлабхачарья отдаёт Лакшми сыну Шачи; сватовство Ванамали Ачарьи
+  summary: Валлабха Ачарья отдал свою дочь Лакшми сыну Шачи; свадьбу задумал и устроил Ванамали Ачарья (вместе назван брахман Кашинатха).
+  persons:
+  - '@vallabhacharya'
+  - '@lakshmipriya'
+  - '@mahaprabhu'
+  - '@vanamali-acharya'
+  - '@kashinatha'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - family
+  event: ev-marriage-lakshmipriya
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '53'
+    to: '55'
+
+- id: vv-0008
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 54
+  file: vaishnava-vandana/ru/01.md
+  period: P05
+  order: 100
+  title: Санатана Пандит отдаёт Вишнуприю сыну Шачи
+  summary: Санатана Пандит отдал свою дочь Вишнуприю сыну Шачи.
+  persons:
+  - '@sanatana-mishra'
+  - '@vishnupriya'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - family
+  event: ev-marriage-vishnupriya
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '54'
+    to: '54'
+
+- id: vv-0009
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 56
+  file: vaishnava-vandana/ru/01.md
+  period: P06
+  order: 40
+  title: Господь принимает Ишвару Пури своим гуру
+  summary: Приняв Ишвару Пури своим гуру, Господь счёл себя благословенным.
+  persons:
+  - '@ishvara-puri'
+  - '@mahaprabhu'
+  places:
+  - '#gaya'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - sannyasa
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '56'
+    to: '56'
+
+- id: vv-0010
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 57
+  file: vaishnava-vandana/ru/01.md
+  period: P08
+  order: 40
+  title: Махапрабху принимает санньясу от Кешавы Бхарати
+  summary: От Кешавы Бхарати Махапрабху принял отречение от дхармы (санньясу).
+  persons:
+  - '@keshava-bharati'
+  - '@mahaprabhu'
+  places:
+  - '#katwa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - sannyasa
+  event: ev-sannyasa-katwa
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '57'
+    to: '57'
+
+- id: vv-0011
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 67–69
+  file: vaishnava-vandana/ru/01.md
+  period: P14
+  order: 95.8
+  title: Санатана составляет «Хари-бхакти-виласу» под именем Гопалы Бхатты
+  summary: Санатана, ничего не ища для себя, составил «Хари-бхакти-виласу» под именем Гопалы Бхатты; Гопала Бхатта жил рядом с Санатаной, слушая о Господе.
+  persons:
+  - '@sanatana-gosvami'
+  - '@gopala-bhatta'
+  places:
+  - '#vrindavana'
+  kind: post-advent
+  authority: B
+  parallels: ''
+  notes: ЧЧ Мадхья 1 называет книгу сочинением Санатаны; вандана объясняет имя Гопалы Бхатты на ней смирением Санатаны.
+  themes:
+  - teaching
+  event: ev-hari-bhakti-vilasa
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '67'
+    to: '69'
+
+- id: vv-0012
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 74–75
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 100
+  title: 'Нитьянанда в доме Рагхавы: цветок кадамбы на гранатовом дереве'
+  summary: В доме Рагхавы (Рагхавананды) сын Падмавати, играя, соединил цветок кадамбы с гранатовым деревом.
+  persons:
+  - '@raghava-pandita'
+  - '@nityananda'
+  places:
+  - '#panihati'
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Ср. ЧБ Антья 5 (цветы кадамбы на лимонном дереве в доме Рагхавы в Панихати).
+  themes:
+  - revelation
+  event: ev-nityananda-panihati-abhisheka
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '74'
+    to: '75'
+
+- id: vv-0013
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 76
+  file: vaishnava-vandana/ru/01.md
+  period: P07
+  order: 380.5
+  title: Брахман видит хвост Пурандары-Ангады
+  summary: 'Некий брахман видел у Пурандары дома его хвост: Пурандара — Ангада.'
+  persons:
+  - '@purandara-pandita'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - revelation
+  event: ev-purandara-tail
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '76'
+    to: '76'
+
+- id: vv-0014
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 77
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 2
+  title: Господь живёт в обители Каши Мишры
+  summary: В обители Каши Мишры в Уткале жил Гаурахари.
+  persons:
+  - '@kashi-mishra'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - jagannatha
+  event: ev-kashi-mishra-residence
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '77'
+    to: '77'
+
+- id: vv-0015
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 78–79
+  file: vaishnava-vandana/ru/01.md
+  period: P11
+  order: 30
+  title: Из уст Рамананды Господь проливает нектар истин о бхакти
+  summary: Через уста Рамананды милостивый Чайтанья пролил на землю нектар истин о преданности Ему.
+  persons:
+  - '@ramananda-raya'
+  - '@mahaprabhu'
+  places:
+  - '#godavari'
+  kind: teaching
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - teaching
+  event: ev-ramananda-raya-godavari
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '78'
+    to: '79'
+
+- id: vv-0016
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 80
+  file: vaishnava-vandana/ru/01.md
+  period: P07
+  order: 381.5
+  title: Господь в блаженстве совершает киртан при Вакрешваре
+  summary: При Вакрешваре Господь в блаженстве премы совершал киртан.
+  persons:
+  - '@vakreshvara'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание; ЧЧ Ади 10.
+  themes:
+  - kirtan
+  event: ev-vakreshvara-dance-kirtana
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '80'
+    to: '80'
+
+- id: vv-0017
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 81–82
+  file: vaishnava-vandana/ru/01.md
+  period: P13
+  order: 5.5
+  title: Сугрива Мишра — Говинда строит мост из ума от Навадвипы через Гауду
+  summary: Ради того, чтобы Господь пошёл во Вриндаван, Говинда выстроил мысленный мост от Навадвипы через всю Гауду (ещё раз — ст. 111).
+  persons:
+  - '@govindananda'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  - '#gauda'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Только ванданы; в ЧЧ Мадхья 1 мысленную дорогу строит Нрисимхананда Брахмачари (ev-natashala-kanai-return).
+  themes:
+  - pilgrimage
+  event: ev-govindananda-mental-bridge
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '81'
+    to: '82'
+
+- id: vv-0018
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 86
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 205.6
+  title: Рагхунандана кормит Гопалу
+  summary: Рагхунандана, сын Мукунды Даса, «накормил Гопалу».
+  persons:
+  - '@raghunandana'
+  - '@mukunda-dasa'
+  places:
+  - '#shrikhanda'
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Упоминание предания.
+  themes:
+  - deities
+  - prasada
+  event: ev-raghunandana-feeds-gopinatha
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '86'
+    to: '86'
+
+- id: vv-0019
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 87–88
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 205.5
+  title: Мукунда Дас лишается чувств при виде павлиньего пера
+  summary: Увидев павлинье перо, Мукунда Дас, увлечённый любовью к Кришне, лишился чувств и упал с высокого сиденья.
+  persons:
+  - '@mukunda-dasa'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: ЧЧ Мадхья 15.
+  themes:
+  - ecstasy
+  event: ev-mukunda-dasa-peacock
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '87'
+    to: '88'
+
+- id: vv-0020
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 94
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.8
+  title: Цветок карави в ухе Пурушоттамы благоухает лотосом
+  summary: Пурушоттама Дас сделал так, что цветок карави в его ушах благоухал, как лотос.
+  persons:
+  - '@purushottama-nagara'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Подробнее — Девакинандана (ч. 2, 87–94).
+  themes:
+  - revelation
+  event: ev-purushottama-nagara-wonders
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '94'
+    to: '94'
+
+- id: vv-0021
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 95
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.7
+  title: Абхирама делает флейтой бревно
+  summary: Абхирама (Шридама) играючи сделал флейтой бревно, которое под силу лишь многим.
+  persons:
+  - '@abhirama'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: ГГД 126.
+  themes:
+  - revelation
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '95'
+    to: '95'
+
+- id: vv-0022
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 97
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 290.6
+  title: Гауридас приводит Адвайту в Уткалу
+  summary: Ведомый Гауридасом, Адвайта пришёл в Уткалу, к высшему блаженству.
+  persons:
+  - '@gauridasa-pandita'
+  - '@advaita'
+  places:
+  - '#puri'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - pilgrimage
+  event: ev-gauridasa-brings-advaita-utkala
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '97'
+    to: '97'
+
+- id: vv-0023
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 98
+  file: vaishnava-vandana/ru/01.md
+  period: P13
+  order: 206
+  title: Гауридас являет Божества Чайтаньи и Нитьянанды
+  summary: Гауридасом воочию явлены Божества Шри Чайтаньи и Нитьянанды; их лицезрение рушит оковы кармы.
+  persons:
+  - '@gauridasa-pandita'
+  - '@mahaprabhu'
+  - '@nityananda'
+  places:
+  - '#ambika-kalna'
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - deities
+  event: ev-gauridasa-deities
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '98'
+    to: '98'
+
+- id: vv-0024
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 99
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.7
+  title: Парамешвара даёт шакалам слушать имя Хари
+  summary: Танцуя, Парамешвара Тхакур давал шакалам слушать имя Хари.
+  persons:
+  - '@parameshvara-dasa'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - kirtan
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '99'
+    to: '99'
+
+- id: vv-0025
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 102
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.7
+  title: Саранга Тхакур даёт приют змеям
+  summary: Шарнга (Саранга) Тхакур отдавал змеям места в собственном жилище.
+  persons:
+  - '@saranga-thakura'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Известно только по вандане Дживы.
+  themes:
+  - mercy
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '102'
+    to: '102'
+
+- id: vv-0026
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 106
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 300
+  title: Пратапарудре явлен шестирукий облик Господа
+  summary: Пратапарудра назван тем, кому явились шесть рук Господа.
+  persons:
+  - '@prataparudra'
+  - '@sarvabhauma'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: miracle
+  authority: C
+  parallels: ''
+  notes: 'Понижено: по ЧЧ Мадхья 6 шестирукий облик явлен Сарвабхауме; ванданы относят его к Пратапарудре (грамматически стих можно отнести к обоим).'
+  themes:
+  - revelation
+  event: ev-prataparudra-mercy
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '106'
+    to: '106'
+
+- id: vv-0027
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 117–118
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 290.5
+  title: Дхананджая отдаёт всё Господу
+  summary: Дхананджая Пандит отдал всё своё Господу и взял лишь горшок для подаяния и набедренную повязку.
+  persons:
+  - '@dhananjaya-pandita'
+  - '@mahaprabhu'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - sannyasa
+  event: ev-dhananjaya-renunciation
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '117'
+    to: '118'
+
+- id: vv-0028
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 120
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.7
+  title: Мурари Чайтанья Дас играет с удавами
+  summary: Мурари Чайтанья Дас играл с удавами, страшными, как Яма.
+  persons:
+  - '@murari-chaitanya-dasa'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: ЧЧ Ади 11.
+  themes:
+  - revelation
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '120'
+    to: '120'
+
+- id: vv-0029
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 125–128
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.5
+  title: Кришнадас из Бадагачхи и разлука с Нитьянандой
+  summary: Кришнадас держал Нитьянанду у себя дома; Гауридас пришёл и увёл Его; от разлуки Кришнадас семь месяцев был как безумный, пока Нитьянанда вновь не явился ему и не успокоил его.
+  persons:
+  - '@krishnadasa-badagachhi'
+  - '@nityananda'
+  - '@gauridasa-pandita'
+  places:
+  - '#badagachhi'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по вандане, приписываемой Дживе.
+  themes:
+  - separation
+  event: ev-krishnadasa-badagachhi-separation
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '125'
+    to: '128'
+
+- id: vv-0030
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 134
+  file: vaishnava-vandana/ru/01.md
+  period: P12
+  order: 112.6
+  title: Уддхарана Датта с Нитьянандой обходит святые места
+  summary: Уддхарана Датта вместе с Нитьянандой обошёл все святые места.
+  persons:
+  - '@uddharana-datta'
+  - '@nityananda'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - pilgrimage
+  event: ev-uddharana-pilgrimage-nityananda
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '134'
+    to: '134'
+
+- id: vv-0031
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 136
+  file: vaishnava-vandana/ru/01.md
+  period: P14
+  order: 150.5
+  title: Шанкара Гхош радует сына Шачи игрой на дамфе
+  summary: Игрою на дамфе Шанкара Гхош радовал Господа.
+  persons:
+  - '@shankara-ghosha'
+  - '@mahaprabhu'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание; ГГД 142.
+  themes:
+  - kirtan
+  event: ev-shankara-ghosha-dampha
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '136'
+    to: '136'
+
+- id: vv-0032
+  source: vaishnava-vandana
+  ref: Вандана Дживы, 138–153
+  file: vaishnava-vandana/ru/01.md
+  period: PX
+  order: 33.2
+  title: 'Заключение: преемство от Мадхавендры Пури; колофон'
+  summary: Восхваление имён вайшнавов равно имени Господа; ученики Мадхавендры, Ишвары Пури и Санкаршаны Пури; все преданные пришли через того или иного спутника и прибегли к Чайтанье; подпись «Джива».
+  persons:
+  - '@madhavendra-puri'
+  - '@ishvara-puri'
+  - '@sankarshana-puri'
+  - '@mahaprabhu'
+  - '@jahnava'
+  - '@nityananda'
+  - '@jiva-gosvami'
+  places: []
+  kind: author
+  authority: B
+  parallels: ''
+  notes: Уникальные сведения о преемстве (Джахнави — ученица Ишвары Пури, Нитьянанда — Санкаршаны Пури) — только в этой вандане.
+  themes:
+  - author
+  verses:
+  - file: vaishnava-vandana/ru/01.md
+    from: '138'
+    to: '153'
+
+- id: vv-0033
+  source: vaishnava-vandana
+  ref: Девакинандана, 1–5
+  file: vaishnava-vandana/ru/02.md
+  period: PX
+  order: 33.3
+  title: 'Девакинандана: вступление'
+  summary: Автор, «зажав в зубах соломинку», просит гуру и вайшнавов о милости и прощении за нарушение порядка.
+  persons:
+  - '@mahaprabhu'
+  - '@nityananda'
+  places: []
+  kind: author
+  authority: B
+  parallels: ''
+  notes: ''
+  themes:
+  - author
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '1'
+    to: '5'
+
+- id: vv-0034
+  source: vaishnava-vandana
+  ref: Девакинандана, 16a
+  file: vaishnava-vandana/ru/02.md
+  period: P07
+  order: 73
+  title: Господь плачет, называя имя Пундарики
+  summary: Называя имя Пундарики Видьянидхи, Господь Сам плакал.
+  persons:
+  - '@pundarika-vidyanidhi'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Двустишие в скобках издания (не во всех рукописях); ср. ЧБ Мадхья 7.
+  themes:
+  - ecstasy
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: 16a
+    to: 16a
+
+- id: vv-0035
+  source: vaishnava-vandana
+  ref: Девакинандана, 29
+  file: vaishnava-vandana/ru/02.md
+  period: P01
+  order: 70
+  title: Ниламбара предрекает будущее Господа
+  summary: Ниламбара Чакраварти тотчас предрёк будущее Господа.
+  persons:
+  - '@nilambara-chakravarti'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: prophecy
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - family
+  event: ev-gaura-appearance
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '29'
+    to: '29'
+
+- id: vv-0036
+  source: vaishnava-vandana
+  ref: Девакинандана, 32
+  file: vaishnava-vandana/ru/02.md
+  period: P07
+  order: 72
+  title: Господь дарует Шукламбаре према-бхакти
+  summary: Брахмачари Шукламбаре Господь даровал Свою према-бхакти.
+  persons:
+  - '@shuklambara'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - mercy
+  event: ev-shuklambara-mercy
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '32'
+    to: '32'
+
+- id: vv-0037
+  source: vaishnava-vandana
+  ref: Девакинандана, 40
+  file: vaishnava-vandana/ru/02.md
+  period: P05
+  order: 25
+  title: Валлабха Ачарья — отец Лакшми
+  summary: Дочь Валлабхи Ачарьи — Сама Лакшми Тхакурани; Ванамали Ачарья и Кашинатха устроили свадьбу Господа (ст. 42).
+  persons:
+  - '@vallabhacharya'
+  - '@lakshmipriya'
+  - '@vanamali-acharya'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - family
+  event: ev-marriage-lakshmipriya
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '40'
+    to: '40'
+
+- id: vv-0038
+  source: vaishnava-vandana
+  ref: Девакинандана, 41–42
+  file: vaishnava-vandana/ru/02.md
+  period: P05
+  order: 100
+  title: Санатана Мишра — отец Вишнуприи; устроители свадьбы
+  summary: Дочь Санатаны Мишры — Вишнуприя; Ачарья Ванамали и брахман Кашинатха устроили свадьбу Махапрабху.
+  persons:
+  - '@sanatana-mishra'
+  - '@vishnupriya'
+  - '@kashinatha'
+  - '@vanamali-acharya'
+  - '@mahaprabhu'
+  places:
+  - '#navadvipa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание; у ГГД 49–50 Ванамали — сват первой свадьбы, Кашинатха — второй.
+  themes:
+  - family
+  event: ev-marriage-vishnupriya
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '41'
+    to: '42'
+
+- id: vv-0039
+  source: vaishnava-vandana
+  ref: Девакинандана, 43
+  file: vaishnava-vandana/ru/02.md
+  period: P06
+  order: 40
+  title: Господь принимает посвящение у Ишвары Пури
+  summary: У Ишвары Пури Господь, уча мир, принял посвящение.
+  persons:
+  - '@ishvara-puri'
+  - '@mahaprabhu'
+  places:
+  - '#gaya'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - sannyasa
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '43'
+    to: '43'
+
+- id: vv-0040
+  source: vaishnava-vandana
+  ref: Девакинандана, 44
+  file: vaishnava-vandana/ru/02.md
+  period: P08
+  order: 40
+  title: Господь делает Кешаву Бхарати Своим гуру
+  summary: Господь Сам сделал Кешаву Бхарати своим гуру.
+  persons:
+  - '@keshava-bharati'
+  - '@mahaprabhu'
+  places:
+  - '#katwa'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - sannyasa
+  event: ev-sannyasa-katwa
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '44'
+    to: '44'
+
+- id: vv-0041
+  source: vaishnava-vandana
+  ref: Девакинандана, 53
+  file: vaishnava-vandana/ru/02.md
+  period: P14
+  order: 17.5
+  title: Рупа и Санатана устанавливают святые места Вриндавана
+  summary: Рупа и Санатана установили святые места земли Вриндавана.
+  persons:
+  - '@rupa-gosvami'
+  - '@sanatana-gosvami'
+  places:
+  - '#vrindavana'
+  kind: post-advent
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - pilgrimage
+  event: ev-gosvamis-reveal-lost-tirthas
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '53'
+    to: '53'
+
+- id: vv-0042
+  source: vaishnava-vandana
+  ref: Девакинандана, 64
+  file: vaishnava-vandana/ru/02.md
+  period: P07
+  order: 380.5
+  title: Брахман видит хвост у Пурандары
+  summary: Брахман видел хвост у Пурандары Пандита в доме.
+  persons:
+  - '@purandara-pandita'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - revelation
+  event: ev-purandara-tail
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '64'
+    to: '64'
+
+- id: vv-0043
+  source: vaishnava-vandana
+  ref: Девакинандана, 65
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 2
+  title: Господь в обители Каши Мишры
+  summary: Господь жил в обители Каши Мишры.
+  persons:
+  - '@kashi-mishra'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - jagannatha
+  event: ev-kashi-mishra-residence
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '65'
+    to: '65'
+
+- id: vv-0044
+  source: vaishnava-vandana
+  ref: Девакинандана, 67
+  file: vaishnava-vandana/ru/02.md
+  period: P11
+  order: 30
+  title: Господь почитает Рамананду редчайшим сокровищем знания
+  summary: Рамананду Рая Господь почитал редчайшим сокровищем знания.
+  persons:
+  - '@ramananda-raya'
+  - '@mahaprabhu'
+  places:
+  - '#godavari'
+  kind: teaching
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - teaching
+  event: ev-ramananda-raya-godavari
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '67'
+    to: '67'
+
+- id: vv-0045
+  source: vaishnava-vandana
+  ref: Девакинандана, 69
+  file: vaishnava-vandana/ru/02.md
+  period: P13
+  order: 5.5
+  title: Сугрива Мишра — Говинда строит мост в уме ради Господа
+  summary: Ради Господа Говинда (Сугрива Мишра) выстроил мост в уме.
+  persons:
+  - '@govindananda'
+  - '@mahaprabhu'
+  places:
+  - '#gauda'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Ср. ЧЧ Мадхья 1 (дорога Нрисимхананды).
+  themes:
+  - pilgrimage
+  event: ev-govindananda-mental-bridge
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '69'
+    to: '69'
+
+- id: vv-0046
+  source: vaishnava-vandana
+  ref: Девакинандана, 74
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 205.5
+  title: Мукунда Дас лишается чувств при виде пера павлина
+  summary: Увидев перо павлина, Мукунда Дас лишился чувств.
+  persons:
+  - '@mukunda-dasa'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: ЧЧ Мадхья 15.
+  themes:
+  - ecstasy
+  event: ev-mukunda-dasa-peacock
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '74'
+    to: '74'
+
+- id: vv-0047
+  source: vaishnava-vandana
+  ref: Девакинандана, 83
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 112.7
+  title: Абхирама держит как флейту бревно на шестнадцать носильщиков
+  summary: Абхирама держит как флейту бревно, которое несут шестнадцать человек.
+  persons:
+  - '@abhirama'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: 'ГГД 126: тридцать два человека.'
+  themes:
+  - revelation
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '83'
+    to: '83'
+
+- id: vv-0048
+  source: vaishnava-vandana
+  ref: Девакинандана, 84
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 100
+  title: Сундарананда заставляет цвести кадамбу на лимонном дереве
+  summary: Сундарананда заставил цвести цветы кадамбы на лимонном дереве.
+  persons:
+  - '@sundarananda'
+  places:
+  - '#panihati'
+  kind: miracle
+  authority: C
+  parallels: ''
+  notes: 'Понижено: по ЧБ Антья 5 (и вандане Дживы, ч. 1, 75) это чудо совершил Нитьянанда в доме Рагхавы.'
+  themes:
+  - revelation
+  event: ev-nityananda-panihati-abhisheka
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '84'
+    to: '84'
+
+- id: vv-0049
+  source: vaishnava-vandana
+  ref: Девакинандана, 85
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 112.7
+  title: Парамешвара Дас заставляет шакалов повторять имя
+  summary: В месте санкиртаны Парамешвара Дас заставил шакалов повторять имя.
+  persons:
+  - '@parameshvara-dasa'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - kirtan
+  event: ev-associates-of-nityananda-wonders
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '85'
+    to: '85'
+
+- id: vv-0050
+  source: vaishnava-vandana
+  ref: Девакинандана, 87–94
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 112.8
+  title: 'Гуру автора Пурушоттама: безумие с семи лет, сила, абхишека, цветок карави'
+  summary: Пурушоттама с семи лет был безумен любовью к Кришне; схватив за волосы Гауридаса-киртанию, заставил его воспеть Нитьянанду; ему совершили абхишеку ста восемью кувшинами воды Ганги, с детства он был всеведущ; цветок карави в его ухе стал благоухать лотосом.
+  persons:
+  - '@purushottama-nagara'
+  - '@gadadhara-dasa'
+  - '@govinda-ghosha'
+  - '@nityananda'
+  places: []
+  kind: miracle
+  authority: B
+  parallels: ''
+  notes: Девакинандана пишет о своём гуру.
+  themes:
+  - revelation
+  - ecstasy
+  event: ev-purushottama-nagara-wonders
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '87'
+    to: '94'
+
+- id: vv-0051
+  source: vaishnava-vandana
+  ref: Девакинандана, 98
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 112.6
+  title: Уддхарана с Нитьянандой обходит святые места
+  summary: Вместе с Нитьянандой Уддхарана Датта обошёл все святые места.
+  persons:
+  - '@uddharana-datta'
+  - '@nityananda'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - pilgrimage
+  event: ev-uddharana-pilgrimage-nityananda
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '98'
+    to: '98'
+
+- id: vv-0052
+  source: vaishnava-vandana
+  ref: Девакинандана, 99
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 290.6
+  title: Гауридас отводит Адвайту в Уткалу
+  summary: Исполняя волю Господа, Гауридас Пандит отвёл Ачарью Госани в Уткалу.
+  persons:
+  - '@gauridasa-pandita'
+  - '@advaita'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - pilgrimage
+  event: ev-gauridasa-brings-advaita-utkala
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '99'
+    to: '99'
+
+- id: vv-0053
+  source: vaishnava-vandana
+  ref: Девакинандана, 104
+  file: vaishnava-vandana/ru/02.md
+  period: P10
+  order: 30
+  title: При явлении Господа у Сарвабхаумы открывается дар поэта
+  summary: При явлении Господа у Сарвабхаумы открылся дивный поэтический дар.
+  persons:
+  - '@sarvabhauma'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Ср. ЧЧ Мадхья 6 (стихи Сарвабхаумы о Господе).
+  themes:
+  - revelation
+  event: ev-sarvabhauma-deliverance
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '104'
+    to: '104'
+
+- id: vv-0054
+  source: vaishnava-vandana
+  ref: Девакинандана, 105
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 300
+  title: Господь являет Пратапарудре шестирукий облик
+  summary: Пратапарудре Господь явил облик с шестью руками.
+  persons:
+  - '@prataparudra'
+  - '@mahaprabhu'
+  places:
+  - '#puri'
+  kind: miracle
+  authority: C
+  parallels: ''
+  notes: 'Понижено: по ЧЧ Мадхья 6 шестирукий облик явлен Сарвабхауме.'
+  themes:
+  - revelation
+  event: ev-prataparudra-mercy
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '105'
+    to: '105'
+
+- id: vv-0055
+  source: vaishnava-vandana
+  ref: Девакинандана, 118
+  file: vaishnava-vandana/ru/02.md
+  period: P12
+  order: 290.5
+  title: Дхананджая отдаёт всё Господу
+  summary: Отдав всё Господу, Дхананджая взял в руки горшок.
+  persons:
+  - '@dhananjaya-pandita'
+  - '@mahaprabhu'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Известно только по ванданам.
+  themes:
+  - sannyasa
+  event: ev-dhananjaya-renunciation
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '118'
+    to: '118'
+
+- id: vv-0056
+  source: vaishnava-vandana
+  ref: Девакинандана, 137
+  file: vaishnava-vandana/ru/02.md
+  period: P14
+  order: 150.5
+  title: Шанкара Гхош снискал любовь Господа игрой на дамфе
+  summary: Игрою на дамфе Шанкара Гхош снискал любовь Господа.
+  persons:
+  - '@shankara-ghosha'
+  - '@mahaprabhu'
+  places: []
+  kind: lila
+  authority: B
+  parallels: ''
+  notes: Упоминание.
+  themes:
+  - kirtan
+  event: ev-shankara-ghosha-dampha
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '137'
+    to: '137'
+
+- id: vv-0057
+  source: vaishnava-vandana
+  ref: Девакинандана, 138
+  file: vaishnava-vandana/ru/02.md
+  period: P15
+  order: 20
+  title: Мадхава Ачарья становится супругом Ганги
+  summary: Плодом преданности Мадхава Ачарья стал супругом Ганги, дочери Нитьянанды.
+  persons:
+  - '@madhava-acharya-ganga'
+  - '@ganga-nityananda'
+  places: []
+  kind: post-advent
+  authority: B
+  parallels: ''
+  notes: Упоминание; событие женитьбы Нитьянанды взято как ближайшее семейное (своего события у свадьбы Ганги нет).
+  themes:
+  - family
+  event: ev-nityananda-marriage
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '138'
+    to: '138'
+
+- id: vv-0058
+  source: vaishnava-vandana
+  ref: Девакинандана, 140–147
+  file: vaishnava-vandana/ru/02.md
+  period: PX
+  order: 35.8
+  title: 'Девакинандана: заключение и плоды чтения'
+  summary: Вайшнавы бесконечны; автор прибегает к стопам гуру и вайшнавов; кто читает вандану на рассвете, очищается и обретает према-бхакти; подпись Девакинанданы Даса.
+  persons:
+  - '@mahaprabhu'
+  places: []
+  kind: author
+  authority: B
+  parallels: ''
+  notes: ''
+  themes:
+  - author
+  verses:
+  - file: vaishnava-vandana/ru/02.md
+    from: '140'
+    to: '147'
+
+- id: vv-0059
+  source: vaishnava-vandana
+  ref: «Вайшнавабхидхана», 1–10
+  file: vaishnava-vandana/ru/03.md
+  period: PX
+  order: 35.9
+  title: '«Вайшнавабхидхана»: поклонение гуру Пурушоттаме и Панча-таттве'
+  summary: Девакинандана кланяется гуру Пурушоттаме, всем вайшнавам, родителям Господа и Нитьянанды, Господу и Нитьянанде; извиняется за порядок имён.
+  persons:
+  - '@purushottama-nagara'
+  - '@mahaprabhu'
+  - '@nityananda'
+  places: []
+  kind: author
+  authority: B
+  parallels: ''
+  notes: ''
+  themes:
+  - author
+  verses:
+  - file: vaishnava-vandana/ru/03.md
+    from: '1'
+    to: '10'

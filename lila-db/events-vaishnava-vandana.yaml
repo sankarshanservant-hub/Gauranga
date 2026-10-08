@@ -1,0 +1,123 @@
+# События, заведённые при внесении «Вайшнава-вандан» (вандана, приписываемая Дживе Госвами; Девакинандана Дас;
+# формат — README.md, раздел «События»). Большинство — подвиги спутников, известные только по ванданам.
+# Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-purandara-tail
+  title: "Брахман видит в доме Пурандары Пандита хвост Ангады"
+  title_en: "A brahmana sees Angada's tail in Purandara Pandita's house"
+  period: P07
+  order: 380.5
+  cc: ""
+  cb: ""
+  themes: [revelation]
+  notes: "Ванданы (Джива 76; Девакинандана 64); ГГД 91: Пурандара — Ангада."
+
+- id: ev-vakreshvara-dance-kirtana
+  title: "Вакрешвара пляшет в киртане, а Господь поёт для него"
+  title_en: "Vakreshvara dances in kirtana while the Lord sings for him"
+  period: P07
+  order: 381.5
+  cc: "Ади 10"
+  cb: ""
+  themes: [kirtan, ecstasy]
+  notes: "ЧЧ Ади 10 (семьдесят два прахары пляски); вандана Дживы 80."
+
+- id: ev-mukunda-dasa-peacock
+  title: "Мукунда Дас, увидев павлинье перо, без чувств падает с высокого сиденья"
+  title_en: "Mukunda Dasa, seeing a peacock feather, falls senseless from his high seat"
+  period: P12
+  order: 205.5
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [ecstasy]
+  notes: "Рассказ Господа о Мукунде, придворном лекаре (ЧЧ Мадхья 15); ванданы (Джива 87–88; Девакинандана 74). Само событие — до или в годы пребывания Господа в Пури; место на шкале условно."
+
+- id: ev-raghunandana-feeds-gopinatha
+  title: "Мальчик Рагхунандана кормит Божество Гопинатхи"
+  title_en: "The boy Raghunandana feeds the Deity of Gopinatha"
+  period: P12
+  order: 205.6
+  cc: ""
+  cb: ""
+  themes: [deities, prasada]
+  notes: "Предание Шрикханды; в вандане Дживы (86) — «тот, кто накормил Гопалу»."
+
+- id: ev-govindananda-mental-bridge
+  title: "Говиндананда (Сугрива Мишра) мысленно строит мост для пути Господа через Гауду"
+  title_en: "Govindananda (Sugriva Mishra) builds in his mind a bridge for the Lord's journey through Gauda"
+  period: P13
+  order: 5.5
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Только ванданы (Джива 81–82, 111; Девакинандана 69). Ср. ЧЧ Мадхья 1 и ev-natashala-kanai-return: там мысленную дорогу до Вриндавана строит Нрисимхананда Брахмачари — вероятно, тот же рассказ в другой передаче."
+
+- id: ev-dhananjaya-renunciation
+  title: "Дхананджая Пандит отдаёт Господу всё и уходит с горшком для подаяния"
+  title_en: "Dhananjaya Pandita gives everything to the Lord and leaves with an alms-pot"
+  period: P12
+  order: 290.5
+  cc: ""
+  cb: ""
+  themes: [sannyasa, mercy]
+  notes: "Только ванданы (Джива 117–118; Девакинандана 118; у «второго» Вриндавана Даса — «богатство в сто тысяч»)."
+
+- id: ev-gauridasa-brings-advaita-utkala
+  title: "Гауридас Пандит приводит Адвайту в Уткалу к Господу"
+  title_en: "Gauridasa Pandita brings Advaita to the Lord in Utkala"
+  period: P12
+  order: 290.6
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Только ванданы (Джива 97; Девакинандана 99)."
+
+- id: ev-krishnadasa-badagachhi-separation
+  title: "Нитьянанда в доме Кришнадаса в Бадагачхи; Гауридас уводит Его; семь месяцев разлуки"
+  title_en: "Nityananda in Krishnadasa's house at Badagachhi; Gauridasa takes Him away; seven months of separation"
+  period: P12
+  order: 112.5
+  cc: ""
+  cb: ""
+  themes: [separation]
+  notes: "Только вандана, приписываемая Дживе (125–128)."
+
+- id: ev-uddharana-pilgrimage-nityananda
+  title: "Уддхарана Датта обходит с Нитьянандой все святые места"
+  title_en: "Uddharana Datta goes round all the holy places with Nityananda"
+  period: P12
+  order: 112.6
+  cc: ""
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Только ванданы (Джива 134; Девакинандана 98)."
+
+- id: ev-associates-of-nityananda-wonders
+  title: "Чудеса спутников Нитьянанды: флейта Абхирамы, шакалы Парамешвары, змеи Мурари Чайтаньи Даса и Саранги"
+  title_en: "Wonders of Nityananda's associates: Abhirama's flute, Parameshvara's jackals, the snakes of Murari Chaitanya Dasa and Saranga"
+  period: P12
+  order: 112.7
+  cc: "Ади 11"
+  cb: ""
+  themes: [revelation]
+  notes: "Ванданы (Джива 95, 99, 102, 120; Девакинандана 83, 85); ГГД 126 (бревно Абхирамы); ЧЧ Ади 11 (Мурари Чайтанья Дас)."
+
+- id: ev-purushottama-nagara-wonders
+  title: "Пурушоттама (сын Садашивы): безумие по Кришне с семи лет, абхишека, цветок карави"
+  title_en: "Purushottama (son of Sadashiva): madness for Krishna from the age of seven, abhisheka, the karavi flower"
+  period: P12
+  order: 112.8
+  cc: "Ади 11"
+  cb: ""
+  themes: [ecstasy, revelation]
+  notes: "Ванданы (Джива 94; Девакинандана 87–94 — о своём гуру); ЧЧ Ади 11 (Пурушоттама, сын Садашивы Кавираджи)."
+
+- id: ev-shankara-ghosha-dampha
+  title: "Шанкара Гхош радует Господа игрой на дамфе"
+  title_en: "Shankara Ghosha delights the Lord by playing the dampha"
+  period: P14
+  order: 150.5
+  cc: ""
+  cb: ""
+  themes: [kirtan]
+  notes: "Ванданы (Джива 136; Девакинандана 137); ГГД 142. Время и место не указаны; место на шкале условно."
