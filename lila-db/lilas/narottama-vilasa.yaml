@@ -999,3 +999,76 @@
   event: ev-leper-brahmana-narottama
   verses:
     - {file: "narottama-vilasa/ru/09.md", from: "319", to: "353"}
+
+- id: nvl-0058
+  source: narottama-vilasa
+  ref: "Виласа 10, 1–69"
+  file: "narottama-vilasa/ru/10.md"
+  period: P15
+  order: 93
+  title: "Обращение Харирамы и Рамакришны, сыновей шакты Шиваи; спор с пандитами и посрамление дигвиджайи Мурари"
+  summary: "Вестники из Вриндавана сообщают, что Радху от Джахнавы поставили слева от Гопинатхи; по пути к Падмавати Нароттама и Рамачандра встречают двух брахманов, ведущих животных на жертву Бхавани; услышав беседу о шастрах, Харирама и Рамакришна отпускают животных и принимают посвящение (у Рамачандры и Нароттамы); их отец Шиваи созывает пандитов, но Харирама побеждает; Баларама Кавираджа побеждает дигвиджайи Мурари из Митхилы, который становится нищенствующим."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@harirama-acharya", "@ramakrishna-acharya", "@shivai-acharya", "@balarama-kaviraja-goas", "@jahnava", "@gopinatha-deity-vrindavana"]
+  places: ["#kheturi", "#goas"]
+  kind: post-advent
+  authority: B
+  calendar: "экадаши после Виджая-дашами (уход братьев из Кхетури)"
+  themes: [mercy, learning]
+  teaching: [vaishnava, bhakti-supremacy]
+  event: ev-harirama-ramakrishna-conversion
+  verses:
+    - {file: "narottama-vilasa/ru/10.md", from: "1", to: "69"}
+
+- id: nvl-0059
+  source: narottama-vilasa
+  ref: "Виласа 10, 70–154"
+  file: "narottama-vilasa/ru/10.md"
+  period: P15
+  order: 99
+  title: "Ганганараяна Чакраварти из Гамбхилы: раскаяние, сон о Нароттаме, посвящение; Джаганнатха Ачарья по слову Богини"
+  summary: "Учёный Ганганараяна, видя силу Харирамы и Рамакришны, раскаивается в пренебрежении Нароттамой; Нароттама во сне обещает встречу и является на омовение в Ганге; в Кхетури Нароттама посвящает его и вкладывает свою силу (шлока Вишванатхи), Ганганараяна изучает книги Госвами; брахман Джаганнатха Ачарья по повелению Бхагавати тоже становится учеником."
+  persons: ["@ganganarayana-chakravarti", "@narottama-dasa", "@harirama-acharya", "@ramakrishna-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@divyasimha-kaviraja", "@karnapura-kaviraja", "@jagannatha-acharya-shakta"]
+  places: ["#gambhila", "#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  scriptures: ["«Ставамрита-лахари»"]
+  themes: [mercy, celestial]
+  event: ev-ganganarayana-conversion
+  verses:
+    - {file: "narottama-vilasa/ru/10.md", from: "70", to: "154"}
+
+- id: nvl-0060
+  source: narottama-vilasa
+  ref: "Виласа 10, 155–268"
+  file: "narottama-vilasa/ru/10.md"
+  period: P15
+  order: 109
+  title: "Раджа Нарасимха с пандитами идёт против Нароттамы; Рамачандра и Ганганараяна, переодетые торговцем бетелем и гончаром, побеждают их; обращение раджи, Рупанараяны, Рупамалы"
+  summary: "Пандиты подбивают раджу Нарасимху наказать «шудру» Нароттаму; в Кумарпуре Рамачандра и Ганганараяна, торгуя бетелем и горшками, побеждают в споре учеников и учителей; Богиня с мечом во сне грозит главному учителю; раджа, Рупанараяна и пандиты приходят в Кхетури, принимают посвящение, изучают книги Госвами, слушают «Бхагавату» от Ганганараяны и песни Говинды Кавираджи; жена раджи Рупамала принимает обет ста тысяч имён."
+  persons: ["@narasimha-raya", "@rupa-narayana", "@rupamala", "@narottama-dasa", "@ramachandra-kaviraja", "@ganganarayana-chakravarti", "@govinda-kaviraja", "@santosha-datta"]
+  places: ["#kumarapura", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [learning, mercy, offense]
+  teaching: [vaishnava, holy-name]
+  divergence: "В «Према-виласе» спор с Рупой Нараяной иначе (его побеждает Джива во Вриндаване)."
+  event: ev-narasimha-raya-conversion
+  verses:
+    - {file: "narottama-vilasa/ru/10.md", from: "155", to: "268"}
+
+- id: nvl-0061
+  source: narottama-vilasa
+  ref: "Виласа 10, 269–323"
+  file: "narottama-vilasa/ru/10.md"
+  period: P15
+  order: 101
+  title: "Разбойники обращаются: Харишчандра Рай (Харидас), Чанд Рай и разбойники Ванги"
+  summary: "Разбойник-заминдар Харишчандра Рай принимает посвящение и становится Харидасом; Чанд Рай, глава разбойников, наказанный Деви через брахма-дайтью, по её же слову принимает прибежище у Нароттамы; в плену у наваба отказывается от мантры Деви, слон бежит от него, наваб отпускает его; пришедшие к нему за советом разбойники-брахманы из Ванги бросают оружие и становятся учениками Нароттамы. Подпись автора и колофон."
+  persons: ["@harichandra-raya", "@chand-raya", "@narottama-dasa"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, muslims]
+  event: ev-chand-raya-deliverance
+  verses:
+    - {file: "narottama-vilasa/ru/10.md", from: "269", to: "323"}

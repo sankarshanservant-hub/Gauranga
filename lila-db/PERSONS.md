@@ -472,3 +472,7 @@
 | @gaura-govinda-deity | Гаура-Говинда — Божество Махапрабху во Вриндаване | Gaura-Govinda, the Deity of Mahaprabhu in Vrindavana | данное Господом Кашишваре и стоящее справа от Говинды-девы (БР 2, «Садхана-дипика») |
 | @radha-krishna-gosvami | Радха-Кришна Госвами | Radha-Krishna Gosvami | автор «Садхана-дипики», ученик Харидаса Пандита (служителя Говинды) |
 | @baru-gangadasa | Бару (Бара) Гангадас | Baru (Bara) Gangadasa | ученик Гауридаса Пандита; по воле Джахнавы женился и получил служение Шьяма-раю в Будхари («Нароттама-виласа» 9); не путать с @gangadasa-pandita |
+| @shivai-acharya | Шиваи Ачарья | Shivai Acharya | шакта-брахман, отец Харирамы и Рамакришны («Нароттама-виласа» 10) |
+| @balarama-kaviraja-goas | Баларама Кавираджа (лекарь из Гоаса) | Balarama Kaviraja (physician of Goas) | вайшнав, побеждает дигвиджайи Мурари («Нароттама-виласа» 10) |
+| @jagannatha-acharya-shakta | Джаганнатха Ачарья, брахман-шакта | Jagannatha Acharya, the Shakta brahmana | по слову Богини принял посвящение у Нароттамы |
+| @rupamala | Рупамала, жена раджи Нарасимхи | Rupamala, wife of Raja Narasimha | ученица Нароттамы; повторяла сто тысяч имён |
