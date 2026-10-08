@@ -825,3 +825,89 @@
   event: ev-jahnava-kheturi
   verses:
     - {file: "narottama-vilasa/ru/07.md", from: "186", to: "276"}
+
+- id: nvl-0048
+  source: narottama-vilasa
+  ref: "Виласа 8, 1–99"
+  file: "narottama-vilasa/ru/08.md"
+  period: P15
+  order: 105.4
+  title: "Второй день праздника в Кхетури: угощение махантов, дары раджи Сантоши; пашанди обращаются"
+  summary: "Повара махантов готовят по жилищам, Сантоша Рай дарит махантам и их людям шёлк, монеты, утварь; перечислены сидевшие за трапезой у Джахнавы, Ачьютананды, Хридаи Чайтаньи, Рагхунанданы, Ядунанданы; прасад получают все, даже чандалы; люди говорят, что пашанди едят остатки вайшнавов и поют о Гауре."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@raghunandana", "@yadunandana-chakravarti", "@shripati", "@ramachandra-kaviraja", "@shyamananda", "@jnanadasa"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [festival, prasada, mercy]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/08.md", from: "1", to: "99"}
+
+- id: nvl-0049
+  source: narottama-vilasa
+  ref: "Виласа 8, 100–210"
+  file: "narottama-vilasa/ru/08.md"
+  period: P15
+  order: 105.5
+  title: "Маханты прощаются с Джахнавой и уходят за Падмавати; Джахнава кормит опечаленных Шринивасу и Нароттаму"
+  summary: "После ночного киртана маханты (Ачьютананда, Хридая Чайтанья, Рагхунандана, Ядунандана и др.) прощаются с Джахнавой и Господом, получают прасадные одежды; Хридая Чайтанья вверяет Шьямананду Шринивасе; плач Кхетури, переправа через Падмавати; Джахнава, видя, что Шриниваса не ест, сама кормит всех у себя во дворе."
+  persons: ["@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@shripati", "@hridaya-chaitanya", "@raghunandana", "@yadunandana-chakravarti", "@chaitanya-dasa-vamshi", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@govinda-kaviraja", "@santosha-datta"]
+  places: ["#kheturi", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  themes: [separation, prasada]
+  event: ev-kheturi-mahantas-depart
+  verses:
+    - {file: "narottama-vilasa/ru/08.md", from: "100", to: "210"}
+
+- id: nvl-0050
+  source: narottama-vilasa
+  ref: "Виласа 8, 211–290"
+  file: "narottama-vilasa/ru/08.md"
+  period: P15
+  order: 95
+  title: "Джахнава уходит из Кхетури во Вриндаван с дарами Сантоши для Божеств Вриндавана"
+  summary: "После всенощного киртана Джахнава готовит и кормит вернувшихся из Будхари; Сантоша Рай подносит ей шёлк и украшения для Говинды, Гопинатхи, Мадана-мохана, Радха-винода, Радха-раманы и Радха-Дамодары; гирлянда падает с шеи Гауранги ей в руки; с Кришнадасом, Мадхавой Ачарьей и другими она уходит из Кхетури, Шриниваса и Нароттама провожают её."
+  persons: ["@jahnava", "@santosha-datta", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@govinda-kaviraja", "@jnanadasa", "@parameshvara-dasa"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [separation, deities]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/08.md", from: "211", to: "290"}
+
+- id: nvl-0051
+  source: narottama-vilasa
+  ref: "Виласа 8, 291–415"
+  file: "narottama-vilasa/ru/08.md"
+  period: P15
+  order: 105.6
+  title: "Уход остальных вайшнавов; киртан на песню Васу Гхоша и пляска Шринивасы; Шриниваса и Шьямананда покидают Кхетури"
+  summary: "Сантоша одаряет уходящих вайшнавов; молва о празднике расходится; Шриниваса объявляет: он пойдёт в Яджиграм и Вишнупур, Шьямананда — через Навадвипу и Амбику в Дхаренду-Бахадурпур; на прощальном киртане Нароттама поёт паду Васу Гхоша, Шриниваса пляшет, и боги сходят смотреть; утром Шриниваса и Шьямананда переправляются через Падмавати."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@rasikananda", "@karnapura-kaviraja", "@ramachandra-kaviraja", "@santosha-datta", "@vasu-ghosha"]
+  places: ["#kheturi", "#dharenda"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, separation]
+  event: ev-kheturi-mahantas-depart
+  verses:
+    - {file: "narottama-vilasa/ru/08.md", from: "291", to: "415"}
+
+- id: nvl-0052
+  source: narottama-vilasa
+  ref: "Виласа 8, 416–453"
+  file: "narottama-vilasa/ru/08.md"
+  period: P15
+  order: 105.7
+  title: "Разбойники-пашанди вкушают прасад и принимают прибежище у Нароттамы; письмо Шринивасы"
+  summary: "Вернувшиеся из набегов разбойники, вкусив прасад, раскаиваются и падают к стопам Нароттамы; он велит им держаться общества садху, смиренно слушать и петь, не оскорблять вайшнавов и сделать главным Хари-наму, и обнимает их; приходит письмо Шринивасы из Яджиграма. Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@srinivasa-acharya"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, prasada]
+  teaching: [holy-name, vaishnava]
+  event: ev-kheturi-robbers-converted
+  verses:
+    - {file: "narottama-vilasa/ru/08.md", from: "416", to: "453"}

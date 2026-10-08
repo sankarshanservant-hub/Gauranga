@@ -146,3 +146,20 @@
   calendar: "назначено на пхалгуна-пурниму"
   themes: [festival]
   notes: "«Нароттама-виласа» 6."
+
+- id: ev-kheturi-mahantas-depart
+  title: "Проводы махантов после праздника в Кхетури; киртан с пляской Шринивасы; уход Шринивасы и Шьямананды"
+  title_en: "The farewell of the mahantas after the Kheturi festival; kirtana with Srinivasa's dance; Srinivasa and Shyamananda depart"
+  period: P15
+  order: 105.5
+  themes: [separation, kirtan]
+  notes: "«Нароттама-виласа» 8."
+
+- id: ev-kheturi-robbers-converted
+  title: "Разбойники-пашанди, вкусив прасад в Кхетури, принимают прибежище у Нароттамы"
+  title_en: "Robber pashandis, having tasted prasada in Kheturi, take shelter of Narottama"
+  period: P15
+  order: 105.7
+  themes: [mercy, prasada]
+  teaching: [holy-name, vaishnava]
+  notes: "«Нароттама-виласа» 8: наставление — общество садху, смирение, не оскорблять вайшнавов, Хари-нама."
