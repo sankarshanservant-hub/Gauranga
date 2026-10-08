@@ -30,3 +30,23 @@
   cb: ""
   themes: [celestial, family]
   notes: "ЧЧ Ади 13: жёны небожителей приходят неузнанными в облике брахманских жён. «Гаура-кришнодая» 2.34–38."
+
+- id: ev-eating-clay
+  title: "Младенец ест глину: спор с матерью о пище"
+  title_en: "The Infant eats clay: the argument with His mother about food"
+  period: P03
+  order: 2
+  cc: "Ади 14"
+  cb: ""
+  themes: [pranks, teaching, family]
+  notes: "ЧЧ Ади 14: «вся пища — земля»; Шачи объясняет различие полезного и вредного примером кувшина и комка глины."
+
+- id: ev-girls-worship-lord-ganga
+  title: "Девочки у Ганги поклоняются Господу вместо богов"
+  title_en: "The girls at the Ganga worship the Lord instead of the gods"
+  period: P03
+  order: 40
+  cc: "Ади 14"
+  cb: "Ади 6"
+  themes: [pranks, revelation]
+  notes: "ЧЧ Ади 14: Господь требует, чтобы девочки, исполняющие обеты, поклонялись Ему, и благословляет их: хороший муж, семь сыновей."

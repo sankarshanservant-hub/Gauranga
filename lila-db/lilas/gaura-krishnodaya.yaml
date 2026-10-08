@@ -325,3 +325,215 @@
   event: ev-footprints-gopala
   verses:
     - {file: "gaura-krishnodaya/ru/02.md", from: "52", to: "61"}
+
+- id: gkd-0017
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 1–2"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P02
+  order: 12
+  title: "Плач утихает от имени Хари"
+  summary: "Если Младенец плакал и ничто не помогало, женщины пели имена Хари, и Он умолкал."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13–14"
+  cc: "Ади 14"
+  themes: [kirtan, family]
+  teaching: [holy-name]
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "1", to: "2"}
+
+- id: gkd-0018
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 3–13"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 2
+  title: "Младенец ест глину: «вся пища — земля»"
+  summary: "Шачи бранит сына за глину; Он отвечает, что вся пища — земля и вкус во всём; она объясняет различие полезного и вредного на примере кувшина и комка глины; Он, скрывая Себя, соглашается."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [pranks, family]
+  event: ev-eating-clay
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "3", to: "13"}
+
+- id: gkd-0019
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 14–23"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 5
+  title: "Брахман-паломник: Дитя съедает его подношение"
+  summary: "Гость-брахман трижды варит рис, и каждый раз Младенец съедает подносимое Вишну; на упрёк Он отвечает, что не может упустить подношения Своего преданного, и являет облик Кришны с флейтой; брахман вкушает остатки."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 14; ЧБ Ади-кханда"
+  cc: "Ади 14"
+  themes: [revelation, prasada]
+  event: ev-tirthika-brahmana
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "14", to: "23"}
+
+- id: gkd-0020
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 24–29"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 3
+  title: "Вор уносит Младенца ради украшений"
+  summary: "Ночью вор уносит Младенца; Тот похищает его разум, и утром вор, проплутав, приносит Его обратно в дом Мишры; Шачи отпускает вора без гнева."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧБ Ади-кханда; ЧЧ Ади 14 (кратко)"
+  cc: "Ади 14"
+  themes: [pranks, mercy]
+  divergence: "В ЧБ воров двое."
+  event: ev-thieves-carry-off-nimai
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "24", to: "29"}
+
+- id: gkd-0021
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 30–33"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 15
+  title: "Проказы в домах горожан; жалобы мальчиков"
+  summary: "С ватагой мальчиков Господь, как вор, проникает в дома, бьёт горшки и ест еду; побитые дети жалуются Шачи."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Ади-кханда"
+  themes: [pranks]
+  event: ev-nimai-pranks-neighbours
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "30", to: "33"}
+
+- id: gkd-0022
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 34–37"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 50
+  title: "Удар матери и кокос"
+  summary: "Господь ударяет мать, она падает без чувств; Он тут же приносит кокос, чтобы её оживить; женщины видят в этом чудо, и Он скрывает величие пляской."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [pranks, family]
+  divergence: "В ЧЧ — два кокоса, у Говинды-девы — один."
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "34", to: "37"}
+
+- id: gkd-0023
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 38–46"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 40
+  title: "Девочки у Ганги поклоняются Господу"
+  summary: "Господь требует от девочек, исполняющих обет, поклонения Себе: одни бегут, другие почитают Его; Он благословляет их хорошими мужьями и семью сыновьями, а беглянкам грозит старым мужем; они возвращаются и почитают Его."
+  persons: ["@mahaprabhu"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14; ЧБ Ади-кханда"
+  cc: "Ади 14"
+  themes: [pranks, revelation]
+  event: ev-girls-worship-lord-ganga
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "38", to: "46"}
+
+- id: gkd-0024
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 47–53"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P05
+  order: 10
+  title: "Первая встреча с Лакшмиприей у Ганги"
+  summary: "Дочь Валлабхи приходит к Ганге поклониться божеству; Господь спрашивает, зачем она чтит других, оставив Его; они узнают друг друга, она почитает Его цветами, и Он обещает исполнить её желание."
+  persons: ["@mahaprabhu", "@lakshmipriya"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [family, revelation]
+  divergence: "Сцена с покрывалом (52) — добавление Говинды-девы."
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "47", to: "53"}
+
+- id: gkd-0025
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 54–59"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P03
+  order: 30
+  title: "«Нет ни чистого, ни нечистого»: Господь на нечистом месте"
+  summary: "Убегая от матери, Господь садится на нечистое место и на её требование омыться отвечает, что мир состоит из Него и Он, как небо, незапятнан; Шачи в изумлении успокаивается."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [teaching, pranks]
+  teaching: [purity, maya]
+  divergence: "У Говинды-девы нет ответного наставления Шачи о правилах чистоты (ЧЧ)."
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "54", to: "59"}
+
+- id: gkd-0026
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 60–68"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: P04
+  order: 35
+  title: "Гнев отца и сон Джаганнатхи Мишры"
+  summary: "Мишра бранит сына; ночью во сне бог-брахман упрекает его, но Мишра отвечает, что воспитание сына — долг отца, и брахман хвалит его любовь. Шачи видит во сне, как боги уносят ребёнка; супруги рассказывают друг другу свои сны."
+  persons: ["@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [family, revelation]
+  divergence: "Сон Шачи — добавление Говинды-девы."
+  event: ev-jagannatha-mishra-dream
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "60", to: "68"}
+
+- id: gkd-0027
+  source: gaura-krishnodaya
+  ref: "Сарга 3, 69–72"
+  file: "gaura-krishnodaya/ru/03.md"
+  period: PX
+  order: 0
+  title: "Слово поэта о детских играх"
+  summary: "Поэт признаёт, что детские игры Господа неописуемы, и говорит, что воспел их сокращённо, как слышал."
+  persons: ["@govinda-deva-kavi", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "gaura-krishnodaya/ru/03.md", from: "69", to: "72"}
