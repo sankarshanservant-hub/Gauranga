@@ -238,3 +238,56 @@
   themes: [author]
   verses:
     - {file: "karnananda/ru/01.md", from: "408", to: "413"}
+
+- id: krn-0014
+  source: karnananda
+  ref: "Нирьяса 2, 1–34"
+  file: "karnananda/ru/02.md"
+  period: P15
+  order: 113
+  title: "Подветви Шринивасы: ученики Рамачандры Кавираджи, невестки Ишвари и ученики Хемалаты"
+  summary: "Ученики Рамачандры Кавираджи — Валлабха Маджумдар, Харирама Ачарья и его сын Гопиканта, Баларама Кавипати; ученицы Ишвари — её невестки Сатьябхама и Чандрамукхи, которые не пьют воды, не повторив ста тысяч имён, и читают гимны Рупы и Рагхунатхи Даса; ученики Хемалаты — Субалачандра, Гокула Чакраварти, Радхаваллабха из Мандалграма, Валлабха Дас из Гомаи."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@draupadi-ishvari", "@hemalata", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: lila
+  authority: C
+  notes: "Перечень."
+  themes: [mercy, family]
+  teaching: [holy-name]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/02.md", from: "1", to: "34"}
+
+- id: krn-0015
+  source: karnananda
+  ref: "Нирьяса 2, 35–37"
+  file: "karnananda/ru/02.md"
+  period: PX
+  order: 23
+  title: "Автор о себе: Ядунандана, вайдья из Малихати, ученик Хемалаты"
+  summary: "Среди учеников Хемалаты автор называет себя — «ничтожный Ядунандана, слуга-вайдья, живущий в Малихати, лишённый премы», который, не служа, всё же ухватился за её стопы."
+  persons: ["@yadunandana-dasa-author", "@hemalata"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/02.md", from: "35", to: "37"}
+
+- id: krn-0016
+  source: karnananda
+  ref: "Нирьяса 2, 38–64 и колофон"
+  file: "karnananda/ru/02.md"
+  period: P15
+  order: 113.1
+  title: "Подветви Шринивасы: прочие ученики Хемалаты; сыновья, жёны и ученики Гати-Говинды"
+  summary: "Ещё ученики Хемалаты (Канурама Чакраварти, Дарпанараяна, Чандисимха и др.); ученики Гати-Говинды — его сыновья Кришнапрасада, Сундарананда и Хари Тхакур, младшая жена, Джагадананда Тхакур, Кандарпа Рай Чатта, дочь Вьясы Канакаприя, сыновья Бишвасов, Джаярамадас из Сонарунди и др.; автор просит прощения за непоследовательность и кланяется Хемалате."
+  persons: ["@hemalata", "@gati-govinda", "@vyasa-acharya", "@yadunandana-dasa-author"]
+  places: []
+  kind: lila
+  authority: C
+  notes: "Перечень."
+  themes: [mercy, family]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/02.md", from: "38", to: "64"}
