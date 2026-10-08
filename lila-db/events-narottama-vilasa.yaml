@@ -80,3 +80,27 @@
   order: 88.5
   themes: [pilgrimage, separation]
   notes: "«Нароттама-виласа» 3 (перед путём в Нилачалу, виласа 4)."
+
+- id: ev-narottama-puri
+  title: "Нароттама в Пури: спутники Господа, Джаганнатха, Тота-Гопинатха, самадхи Харидаса"
+  title_en: "Narottama in Puri: the Lord's associates, Jagannatha, Tota-Gopinatha, Haridasa's samadhi"
+  period: P15
+  order: 88.8
+  themes: [jagannatha, separation, pilgrimage]
+  notes: "«Нароттама-виласа» 4."
+
+- id: ev-narottama-dream-ratha-kirtan
+  title: "Сон Нароттамы в Пури: киртан Господа перед колесницей; благословение на киртан и предсказание о Рамачандре"
+  title_en: "Narottama's dream in Puri: the Lord's kirtana before the chariot; the blessing for kirtana and the prophecy of Ramachandra"
+  period: P15
+  order: 88.9
+  themes: [kirtan, celestial, jagannatha]
+  notes: "«Нароттама-виласа» 4; Джаганнатха даёт гирлянду в знак позволения уйти."
+
+- id: ev-narottama-shyamananda-nrisimhapura
+  title: "Нароттама у Шьямананды в Нрисимхапуре на обратном пути из Пури"
+  title_en: "Narottama with Shyamananda at Nrisimhapura on the way back from Puri"
+  period: P15
+  order: 89
+  themes: [prasada]
+  notes: "«Нароттама-виласа» 4."

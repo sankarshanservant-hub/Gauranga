@@ -474,3 +474,71 @@
   event: ev-narottama-gauda-pilgrimage
   verses:
     - {file: "narottama-vilasa/ru/03.md", from: "173", to: "205"}
+
+- id: nvl-0028
+  source: narottama-vilasa
+  ref: "Виласа 4, 1–36"
+  file: "narottama-vilasa/ru/04.md"
+  period: P15
+  order: 88.75
+  title: "Нароттама идёт в Пури путём Господа; старый брахман-вайшнав из Пури"
+  summary: "Нароттама идёт дорогой, которой Господь шёл в Нилачалу, останавливаясь, где Он отдыхал; у места, где Нитьянанда сломал посох, слушает рассказы жителей; встречный старый брахман-вайшнав из Пури рассказывает, как спутники Господа ждут его, и даёт ему в провожатые сына."
+  persons: ["@narottama-dasa", "@nityananda", "@gopinatha-acharya", "@kashi-mishra"]
+  places: []
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage]
+  event: ev-narottama-puri
+  verses:
+    - {file: "narottama-vilasa/ru/04.md", from: "1", to: "36"}
+
+- id: nvl-0029
+  source: narottama-vilasa
+  ref: "Виласа 4, 37–123"
+  file: "narottama-vilasa/ru/04.md"
+  period: P15
+  order: 88.8
+  title: "Нароттама в Пури: Гопинатха Ачарья и спутники, Джаганнатха, Тота-Гопинатха и Маму Госани, самадхи Харидаса"
+  summary: "У озера Нарендра Нароттама вспоминает игры Господа в воде; Гопинатха Ачарья, Шикхи Махити, Канаи Кхутия, Ванинатха предчувствуют его приход и встречают у Львиных ворот; даршан Патита-паваны, Нрисимхи и Джаганнатхи; в Тоте он плачет у сиденья Гададхары, и умирающий от разлуки Маму Госани обнимает его; у самадхи Харидаса рыдает; иссохшие от разлуки спутники собираются у Гопинатхи Ачарьи и вкушают с ним махапрасад; вечером он видит арати Джаганнатхи."
+  persons: ["@narottama-dasa", "@gopinatha-acharya", "@shikhi-mahiti", "@kanai-khutiya", "@vaninatha-raya", "@jagannatha-deity", "@gopinatha-deity-puri", "@mamu-thakura", "@gadadhara-pandita", "@haridasa-thakura"]
+  places: ["#puri", "#narendra-sarovara", "#tota"]
+  kind: post-advent
+  authority: B
+  themes: [jagannatha, separation, deities]
+  event: ev-narottama-puri
+  verses:
+    - {file: "narottama-vilasa/ru/04.md", from: "37", to: "123"}
+
+- id: nvl-0030
+  source: narottama-vilasa
+  ref: "Виласа 4, 124–184"
+  file: "narottama-vilasa/ru/04.md"
+  period: P15
+  order: 88.9
+  title: "Сон Нароттамы: киртан Гауры со всеми спутниками перед колесницей Джаганнатхи; повеление идти в Гауду"
+  summary: "Во сне Нароттама видит Господа со спутниками всех краёв, пляшущих перед колесницей; Господь берёт его за руки: он явит неземное пение, в его киртане Господь будет плясать, Его сокровенное желание явится в пении; велит идти в Гауду, предсказывает дружбу с Рамачандрой, сыном Чиранджива Сены; Джаганнатха на мангала-арати даёт гирлянду-позволение; Гопинатхе Ачарье тоже было повеление во сне; спутники в Пури прощаются с ним."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@prataparudra", "@jagannatha-deity", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gopinatha-acharya", "@shikhi-mahiti", "@shyamananda"]
+  places: ["#puri"]
+  kind: vision
+  authority: B
+  themes: [kirtan, celestial, jagannatha]
+  event: ev-narottama-dream-ratha-kirtan
+  verses:
+    - {file: "narottama-vilasa/ru/04.md", from: "124", to: "184"}
+
+- id: nvl-0031
+  source: narottama-vilasa
+  ref: "Виласа 4, 185–239"
+  file: "narottama-vilasa/ru/04.md"
+  period: P15
+  order: 89
+  title: "Обратный путь: снова старый брахман; Яджпур; Нароттама у Шьямананды в Нрисимхапуре"
+  summary: "Старый брахман провожает Нароттаму; через Яджпур тот приходит в Нрисимхапур, где Шьямананда с учениками встречает его; письмо Шринивасы (тот вернулся из Вишнупура в Яджиграм) и прасад от Хридаи Чайтаньи; Нароттама кормит Шьямананду прасадом Джаганнатхи и посылает его в Нилачалу; милость к Расике Мурари; Нароттама уходит в Гауду. Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@shyamananda", "@rasikananda", "@srinivasa-acharya", "@hridaya-chaitanya"]
+  places: ["#jajpur", "#nrisimhapura"]
+  kind: post-advent
+  authority: B
+  themes: [prasada, separation]
+  event: ev-narottama-shyamananda-nrisimhapura
+  verses:
+    - {file: "narottama-vilasa/ru/04.md", from: "185", to: "239"}
