@@ -15,7 +15,7 @@ PARTS = {
     'ru': {1: 'Часть I. Пады современников', 17: 'Часть II. Приложение: пады с подписью «Нарахари» из «Гаура-пада-тарангини»',
            27: 'Часть III. Нагари-пады'},
     'en': {1: 'Part I. Padas of the Contemporaries',
-           17: 'Part II. Appendix: Padas Signed "Narahari" from the *Gaura-pada-tarangini*', 27: 'Part III. Nagari Padas'},
+           17: 'Part II. Appendix: Padas Signed "Narahari" from the Gaura-pada-tarangini', 27: 'Part III. Nagari Padas'},
 }
 META = {
     'ru': dict(out='Padas-ru', title='Пады современников Шри Чайтаньи', author='Пер. с бенгальского', chap='Глава',
@@ -129,14 +129,20 @@ def parse(md):
             blocks.append(('quote', [l.lstrip('>').strip() for l in lines]))
         elif beng_share > 0.6 and not first.startswith('**'):
             blocks.append(('beng', lines))
-        elif all(re.match(r'^\s*[-*] ', l) for l in lines):
-            blocks.extend(('bullet', re.sub(r'^\s*[-*] ', '', l)) for l in lines)
+        elif re.match(r'^\s*[-*] |^\d+\. ', first) and all(re.match(r'^\s*[-*] |^\d+\. |^\s+\S', l) for l in lines):
+            items = []
+            for l in lines:                                   # пункты списка с продолжением на следующих строках
+                if re.match(r'^\s*[-*] |^\d+\. ', l):
+                    items.append(re.sub(r'^\s*[-*] ', '', l))
+                else:
+                    items[-1] += ' ' + l.strip()
+            blocks.extend(('bullet', x) for x in items)
         elif re.match(r'^\*\*\d+\.\d+[a-zа-я]?\.\*\*', first):
             blocks.append(('verse', lines))
-        elif re.match(r'^\d+\. ', first) and all(re.match(r'^\d+\. ', l) for l in lines):
-            blocks.extend(('bullet', l) for l in lines)
+        elif len(lines) > 1 and all(re.match(r'^\*[^*].*\*$', l) for l in lines):
+            blocks.append(('p', lines))                 # строки транслитерации — построчно
         else:
-            blocks.append(('p', lines))
+            blocks.append(('p', [' '.join(l.strip() for l in lines)]))   # проза: жёсткие переносы исходника снимаются
     return blocks
 
 
@@ -155,6 +161,39 @@ kb.inline = inline
 
 from reportlab.lib.styles import ParagraphStyle
 ParagraphStyle.defaults['shaping'] = 1   # сборка бенгальских лигатур и огласовок (uharfbuzz) во всех абзацах
+
+# reportlab формирует «слово» целиком шрифтом первого фрагмента: «গোরা или গোরা…» дали бы квадраты.
+# Режем слово по сменам шрифта и формируем каждую часть своим шрифтом.
+import reportlab.platypus.paragraph as _rp
+from reportlab.pdfbase import ttfonts as _tt
+from reportlab.pdfbase.pdfmetrics import stringWidth as _sw
+_orig_shape = _tt.shapeFragWord
+
+
+def _shape_mixed(w, *a, **k):
+    if isinstance(w, _tt.ShapedFragWord):
+        return w
+    pieces = w[1:]
+    if len({f.fontName for f, s in pieces if not hasattr(f, 'cbDefn')}) <= 1:
+        return _orig_shape(w, *a, **k)
+    groups = []
+    for f, s in pieces:
+        fn = None if hasattr(f, 'cbDefn') else f.fontName
+        if groups and (fn is None or fn == groups[-1][0]):
+            groups[-1][1].append((f, s))
+        else:
+            groups.append([fn, [(f, s)]])
+    out, width = [], 0
+    for fn, ps in groups:
+        sub = w.__class__([sum(_sw(s, f.fontName, f.fontSize) for f, s in ps if not hasattr(f, 'cbDefn'))] + ps)
+        r = _orig_shape(sub, *a, **k)
+        width += r[0]
+        out.extend(r[1:])
+    res = _tt.makeShapedFragWord(w)([width] + out)
+    return res
+
+
+_rp.shapeFragWord = _shape_mixed
 
 
 def chapter(lang, key):
