@@ -291,3 +291,92 @@
   event: ev-srinivasa-disciples
   verses:
     - {file: "karnananda/ru/02.md", from: "38", to: "64"}
+
+- id: krn-0017
+  source: karnananda
+  ref: "Нирьяса 3, 1–12"
+  file: "karnananda/ru/03.md"
+  period: PX
+  order: 24
+  title: "Вступление: о величии Рамачандры, рассказанном Хемалатой"
+  summary: "Автор передаёт сокровенный рассказ о величии Рамачандры Кавираджи, который слышал из уст своей госпожи Хемалаты; Шринивас и Рамачандра — словно одно тело."
+  persons: ["@yadunandana-dasa-author", "@hemalata", "@ramachandra-kaviraja", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/03.md", from: "1", to: "12"}
+
+- id: krn-0018
+  source: karnananda
+  ref: "Нирьяса 3, 13–133"
+  file: "karnananda/ru/03.md"
+  period: P15
+  order: 102
+  title: "Самадхи Шринивасы в Вишнупуре: водные игры Радхи и Кришны, потерянное кольцо; три дня жёны и царь в отчаянии"
+  summary: "В доме в Вана-Вишнупуре, сидя меж Ишвари и Гауранга-прией, Шринивас в экстазе говорит о Кришне, затем, послужив Вамшивадане, входит в медитацию и в сиддха-дехе созерцает водные игры Радхи и Кришны на Ямуне; Радха теряет кольцо для носа; по знаку Рупа-манджари Гуна-манджари посылает Мани-манджари искать его, но кольцо, прикрытое листом лотоса, не находится; тело Шриниваса неподвижно, нет дыхания; три дня жёны, царь Вира Хамбир, Вьясачарья и другие плачут, хлопок у носа не шевелится; Ишвари вспоминает слова Шринивасы о Рамачандре."
+  persons: ["@srinivasa-acharya", "@draupadi-ishvari", "@gauranga-priya", "@radha", "@krishna", "@vira-hambira", "@vyasa-acharya", "@krishnavallabha"]
+  places: ["#vana-vishnupura", "#vrindavana"]
+  kind: vision
+  authority: C
+  themes: [krishna-lila, ecstasy]
+  bhava: []
+  teaching: [prema]
+  divergence: "В «Према-виласе» (19) тот же эпизод; здесь местом названа Вишнупура, а рассказчица — Хемалата со слов Ишвари."
+  event: ev-srinivasa-samadhi-nose-ring
+  verses:
+    - {file: "karnananda/ru/03.md", from: "13", to: "133"}
+
+- id: krn-0019
+  source: karnananda
+  ref: "Нирьяса 3, 134–273"
+  file: "karnananda/ru/03.md"
+  period: P15
+  order: 101.8
+  title: "Рассказ Ишвари: Рамачандра ест с тарелки гуру, «змея» во дворе, пример Арджуны; трапеза с Нароттамой — «два глаза» Шринивасы"
+  summary: "Ишвари вспоминает: Шринивас, предсказав во сне приход Рамачандры, велит ему есть со своего сиденья и из своей посуды и дать ему свой разжёванный бетель; жёнам, усомнившимся, он показывает послушание ученика: во дворе Рамачандра соглашается, что соломенное кольцо — змея, а затем — что это кольцо; Шринивас сравнивает его с Арджуной, видевшим лишь глаз птицы, и объявляет: кто последует Рамачандре, достигнет игр Радхи и Кришны в группе манджари; в другой раз он сам подаёт пищу Рамачандре и Нароттаме — «двум своим рукам и глазам»."
+  persons: ["@srinivasa-acharya", "@draupadi-ishvari", "@gauranga-priya", "@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja"]
+  places: ["#vana-vishnupura"]
+  kind: teaching
+  authority: C
+  themes: [teaching, prasada]
+  teaching: [vaishnava]
+  event: ev-ramachandra-obedience
+  verses:
+    - {file: "karnananda/ru/03.md", from: "134", to: "273"}
+
+- id: krn-0020
+  source: karnananda
+  ref: "Нирьяса 3, 274–432"
+  file: "karnananda/ru/03.md"
+  period: P15
+  order: 102.1
+  title: "Приход Рамачандры: он входит в медитацию и вместе с Мани-манджари находит кольцо; пробуждение Шринивасы; остатки с уст Радхи"
+  summary: "По добрым знакам Ишвари узнаёт о приходе Рамачандры; тот, увидев Шринивасу в самадхи, покрывается тканью, входит в медитацию в сиддха-дехе, данной гуру, и вместе с Мани-манджари находит кольцо под листом лотоса; Рупа-манджари надевает кольцо спящей Радхе, манджари служат Её стопам, Мани-манджари получает разжёванный Радхой бетель; через две данды по совету Рамачандры громко возглашают имя Хари, и Шринивас приходит в себя; Шринивас даёт Рамачандре и жёнам остатки с уст Радхи: «Рамачандра — жизнь моей жизни, он и Нароттама — одно тело»; преданные просят милости."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@draupadi-ishvari", "@gauranga-priya", "@vira-hambira", "@narottama-dasa", "@radha", "@krishna"]
+  places: ["#vana-vishnupura", "#vrindavana"]
+  kind: vision
+  authority: C
+  themes: [krishna-lila, ecstasy, prasada]
+  divergence: "В «Према-виласе» (19) манджари Рамачандры названа Каруна-манджари; здесь она не названа."
+  event: ev-srinivasa-samadhi-nose-ring
+  verses:
+    - {file: "karnananda/ru/03.md", from: "274", to: "432"}
+
+- id: krn-0021
+  source: karnananda
+  ref: "Нирьяса 3, 433–500 и колофон"
+  file: "karnananda/ru/03.md"
+  period: P15
+  order: 102.2
+  title: "Шринивас поручает Рамачандре и жёнам рассказать о случившемся; общая трапеза; Ишвари рассказывает преданным; заключение"
+  summary: "Шринивас велит узнать причину самадхи от Рамачандры; после омовения и трапезы (впервые за три дня) Ишвари пересказывает преданным, как Рамачандра нашёл кольцо Радхи; преданные кланяются Рамачандре; автор завершает нирьясу, кланяясь Хемалате."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@draupadi-ishvari", "@gauranga-priya", "@vira-hambira", "@vyasa-acharya", "@yadunandana-dasa-author", "@hemalata"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [prasada, mercy]
+  event: ev-srinivasa-samadhi-nose-ring
+  verses:
+    - {file: "karnananda/ru/03.md", from: "433", to: "500"}
