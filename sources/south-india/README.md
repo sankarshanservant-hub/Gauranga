@@ -19,9 +19,11 @@
 
 | Файл | Что это | Издание / год | PD |
 |---|---|---|---|
-| `ramananda-jagannatha-vallabha/Ramananda-Raya_Jagannatha-Vallabha-Nataka_ed-Nityasvarupa-Brahmachari_Vrindavan-1901_IA-PUvu.pdf` | Рамананда Рай, «Джаганнатха-валлабха-натака» (санскр., с санскр. чхаей пракрита Балакришны Госвами); 60 стр.; титул проверен | ред. Нитьясварупа Брахмачари, Девакинандана-пресс, Вриндаван, самв. 1958 (1901); IA `PUvu_shri-jagannatha-vallabha-nataka-of-ramananda-raya-edited-by-shri-nitya-swarupa-b` (CC0) | **PD** |
+| `ramananda-jagannatha-vallabha/Ramananda-Raya_Jagannatha-Vallabha-Nataka_ed-Nityasvarupa-Brahmachari_Vrindavan-1901_IA-wlkb_complete.pdf` (+ OCR IA `…_IA-wlkb-OCR.txt`) | Рамананда Рай, «Джаганнатха-валлабха-натака» (санскр. и пракрит, с санскр. чхаей Балакришны Госвами и хинди-переводом издателя); **полный**: 128 стр., 5 актов, колофон «नाटक समाप्तम्» | ред. Нитьясварупа Брахмачари, Девакинандана-пресс, Вриндаван, самв. 1958 (1901); IA `wlkb_shri-jagannatha-vallabha-nataka-by-ramananda-raya-nityaswarupa-brahmachari-` (колл. Урмилы Шармы) | **PD** |
 | `gopala-bhatta-prabodhananda/Shishir-Kumar-Ghosh_Sri-Prabodhananda-o-Sri-Gopalabhatta_Calcutta-1928_IA-in.ernet.dli.2015.357542.pdf` | Ш. К. Гхош, «Шри Прабодхананда о Шри Гопалабхатта» (бенг.), 116 стр. — популярная сводка позднего предания (Прабодхананда = Пракашананда; Шрирангам) | Amrita Bazar Patrika, Калькутта [1928]; автор ум. 1911 | **PD** |
 | `gaudiya-math-south/Bhaktisiddhanta_Rai-Ramananda_Madras-Sree-Gaudiya-Math-1932_IA-kbhx.pdf` | Бхактисиддханта Сарасвати, «Rai Ramananda» (англ.), 74 стр.; встреча у Гошпада-гхата в Ковуре; южный маршрут | Sree Gaudiya Math, Madras [1932]; IA `kbhx_rai-ramananda-by-bhakti-siddhanta-saraswati-goswami-english-vaishnavism-bio` (CC0) | **PD** (автор ум. 1937) |
+
+*Прежний скан того же издания (IA `PUvu_…`, 60 стр.) оказался неполным — после с. 1 сразу с. 40 (нет печатных с. 2–39); заменён полным `wlkb_…` (2026-10-08).*
 
 **Не скачано (ссылки; подробно — в BIBLIOGRAPHY):**
 - Валлабхские варты, изд. Говардхандас Лакшмидас, Бомбей [≈1902/03] — IA `in.ernet.dli.2015.308511` (25 МБ; PD; брадж).
