@@ -69,3 +69,22 @@
   cc: "Ади 10.105"
   themes: [pilgrimage]
   notes: "«Карнананда» 5: по велению Махапрабху, данному в Шрирангаме; приводится «Гопала-бхатташтака»."
+
+- id: ev-govinda-commands-srinivasa
+  title: "Говиндадева велит послать Шринивасу в Гауду: «кто свяжется с ним, обретёт стопы Радхи и Кришны»"
+  title_en: "Govindadeva orders Srinivasa sent to Gauda: 'whoever is connected with him will attain the feet of Radha and Krishna'"
+  period: P15
+  order: 81
+  themes: [deities, mercy]
+  notes: "«Карнананда» 6: обет Шринивасы — идти в Гауду, лишь если связанные с ним обретут стопы Радхи и Кришны; Госвами просят Говинду, и Тот даёт повеление; пада Шринивасы о красоте Говинды."
+
+- id: ev-karnananda-composed
+  title: "Ядунандана Дас завершает «Карнананду» в Будхуипаре (по колофону — 1529 шака)"
+  title_en: "Yadunandana Dasa completes the Karnananda at Budhuipara (by the colophon, Shaka 1529)"
+  period: P15
+  order: 130
+  years: [1607, 1607]
+  date_conf: оценка
+  date_basis: "колофон «Карнананды» 6.168–170: 1529 (шака), вайшакха, полнолуние; дата сомнительна (поздние вставки)"
+  themes: [author]
+  notes: "Хемалата даёт книге имя и велит добавить перечень кавирадж и чакраварти."

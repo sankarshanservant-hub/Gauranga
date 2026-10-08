@@ -496,3 +496,128 @@
   event: ev-gopala-bhatta-comes-vrindavana
   verses:
     - {file: "karnananda/ru/05.md", from: "141", to: "188"}
+
+- id: krn-0028
+  source: karnananda
+  ref: "Нирьяса 6, 1 (девять шлок)"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 1
+  title: "Девять шлок об обете Шринивасы: две шакти Господа, весть об уходе, повеления во сне, посвящение, повеление Говинды"
+  summary: "Санскритский конспект всей истории: Господь явил истину через Рупу и Шринивасу; Шринивас по пути в Пури слышит об уходе Махапрабху, и Тот во сне велит ему идти во Вриндаван за книгами; узнав об уходе Госвами, он падает без чувств, Рупа и Санатана во сне велят принять мантру у Гопалы Бхатты; после посвящения он соглашается идти в Гауду лишь при условии, и Говинда даёт повеление."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@gopala-bhatta", "@govinda-deity"]
+  places: ["#puri", "#vrindavana", "#gauda"]
+  kind: vision
+  authority: C
+  notes: "Сводка; подробности — в krn-0029…0031."
+  themes: [departure, mercy]
+  event: ev-srinivasa-journey-vrindavana
+  verses:
+    - {file: "karnananda/ru/06.md", from: "1", to: "1"}
+
+- id: krn-0029
+  source: karnananda
+  ref: "Нирьяса 6, 2–29"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 2
+  title: "Весть об уходе Махапрабху: Господь является Шринивасу и посылает во Вриндаван; весть об уходе Рупы и Санатаны, их явление"
+  summary: "Желая увидеть Махапрабху, Шринивас идёт в Нилачалу, но в пути узнаёт о Его уходе и лишается чувств; Махапрабху является, утешает его («ты — Моя шакти») и велит идти во Вриндаван за книгами Рупы и Санатаны; в Матхуре Шринивас узнаёт об уходе обоих братьев и падает без чувств у дерева; Рупа и Санатана являются ему и велят принять посвящение у Гопалы Бхатты и нести книги в Гауду."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta"]
+  places: ["#puri", "#mathura", "#vrindavana"]
+  kind: vision
+  authority: C
+  parallels: "«Према-виласа» 4–6; «Бхакти-ратнакара» 3–4"
+  themes: [departure, separation, mercy]
+  event: ev-srinivasa-vision-rupa-sanatana
+  verses:
+    - {file: "karnananda/ru/06.md", from: "2", to: "29"}
+
+- id: krn-0030
+  source: karnananda
+  ref: "Нирьяса 6, 30–48"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 75
+  title: "Посвящение Шринивасы у Гопалы Бхатты на сиденье Махапрабху; письмо Господа из Нилачалы"
+  summary: "Гопала Бхатта принимает Шринивасу как «жизнь своей жизни», показывает письмо, написанное рукой Махапрабху, сиденье и шнур, присланные Господом, и, сев на это сиденье, посвящает его, а затем обучает книгам; Госвами и Джива говорят: идти в Гауду — повеление Рупы и Махапрабху."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: C
+  divergence: "Письмо Махапрабху, адресованное Шринивасу, — только в «Карнананде»."
+  themes: [mercy, learning]
+  event: ev-srinivasa-initiation
+  verses:
+    - {file: "karnananda/ru/06.md", from: "30", to: "48"}
+
+- id: krn-0031
+  source: karnananda
+  ref: "Нирьяса 6, 49–122"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 81
+  title: "Обет Шринивасы и повеление Говинды; пады Шринивасы о Говинде и Гуна-манджари; дары Гауры и Рагхунатхи Даса; проводы из Вриндавана"
+  summary: "Шринивас соглашается идти в Гауду лишь если связанные с ним обретут стопы Радхи и Кришны; Гопала Бхатта, Рагхунатха Дас, Джива, Рагхунатха Бхатта, Локанатха и Бхугарбха молят Говинду, и Тот подтверждает; Шринивас поёт паду о красоте Говинды, Кришна Пандит надевает ему гирлянду Говинды; Гопала Бхатта повязывает ему на голову каупину и ткань Махапрабху; пада Шринивасы к Гуна-манджари; Рагхунатха Дас, пришедший с Радха-кунды, даёт коснуться камня Говардханы и гирлянды гунджи; Шринивас получает Вамшивадану и шалаграму и с книгами уходит в Гауду, Госвами и враджаваси провожают его с плачем; путь описан в «Према-виласе»."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@raghunatha-dasa", "@jiva-gosvami", "@raghunatha-bhatta", "@lokanatha", "@bhugarbha", "@govinda-deity", "@krishna-pandita-govinda", "@mahaprabhu"]
+  places: ["#vrindavana", "#radha-kunda", "#gauda"]
+  kind: lila
+  authority: C
+  divergence: "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьямананды; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды»."
+  themes: [deities, separation, mercy]
+  event: ev-govinda-commands-srinivasa
+  verses:
+    - {file: "karnananda/ru/06.md", from: "49", to: "122"}
+
+- id: krn-0032
+  source: karnananda
+  ref: "Нирьяса 6, 123–136"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 102.6
+  title: "Рамачандра завершает наставление: царь — свидетель исполненного обета; дар деревни Рамачандре"
+  summary: "Рамачандра говорит царю: обет Шринивасы исполнен в тебе — ты сам описал это в своих падах; месяц он наставляет царя наедине, и царь дарит Кавирадже деревню."
+  persons: ["@ramachandra-kaviraja", "@vira-hambira", "@srinivasa-acharya"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [teaching, mercy]
+  event: ev-ramachandra-instructs-vira-hambira
+  verses:
+    - {file: "karnananda/ru/06.md", from: "123", to: "136"}
+
+- id: krn-0033
+  source: karnananda
+  ref: "Нирьяса 6, 137–178"
+  file: "karnananda/ru/06.md"
+  period: PX
+  order: 25
+  title: "Молитвы автора Шринивасу и вайшнавам; колофон: Будхуипара, 1529 шака, вайшакха-пурнима; Хемалата называет книгу «Карнананда»"
+  summary: "Автор молит Шринивасу и вайшнавов о прибежище — «пусть рождение за рождением я буду собакой, поедающей твои остатки»; сообщает, что завершил книгу в Будхуипаре на берегу Ганги подле Шримати (Хемалаты) в 1529 году, в полнолуние вайшакхи; Хемалата, выслушав, называет книгу «Карнананда» и велит перечислить кавирадж и чакраварти."
+  persons: ["@yadunandana-dasa-author", "@hemalata", "@srinivasa-acharya", "@ramachandra-kaviraja"]
+  places: []
+  kind: author
+  authority: C
+  calendar: "вайшакха, пурнима"
+  themes: [author]
+  event: ev-karnananda-composed
+  verses:
+    - {file: "karnananda/ru/06.md", from: "137", to: "178"}
+
+- id: krn-0034
+  source: karnananda
+  ref: "Нирьяса 6, 179–225 и колофон"
+  file: "karnananda/ru/06.md"
+  period: P15
+  order: 113.2
+  title: "Восемь (девятнадцать) кавирадж и шесть (двенадцать) чакраварти — ученики Шринивасы"
+  summary: "По повелению Хемалаты автор перечисляет кавирадж (Рамачандра, Говинда, Карнапура, Нрисимха, Бхагаван, Валлави Дас, Гопирамана, Гокулананда, Дивьясимха и др.) и чакраварти (Говинда, шурины Шьямадас и Рамачандра, Вьяса, Рамакришна, Гокулананда, царь Вира Хамбир, Рамаджая, Радхаваллабха, Рупа Гхатака и др.); Хемалата одобряет книгу."
+  persons: ["@ramachandra-kaviraja", "@govinda-kaviraja", "@karnapura-kaviraja", "@divyasimha-kaviraja", "@vyasa-acharya", "@vira-hambira", "@hemalata", "@yadunandana-dasa-author"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: D
+  notes: "Перечень, вероятно поздняя приписка (добавлен «по повелению Хемалаты» после колофона-датировки) — понижено до D."
+  themes: [mercy]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/06.md", from: "179", to: "225"}

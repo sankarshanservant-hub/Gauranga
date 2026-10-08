@@ -126954,6 +126954,131 @@
   "attestation": 3
  },
  {
+  "id": "krn-0028",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 1 (девять шлок)",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 1,
+  "title": "Девять шлок об обете Шринивасы: две шакти Господа, весть об уходе, повеления во сне, посвящение, повеление Говинды",
+  "summary": "Санскритский конспект всей истории: Господь явил истину через Рупу и Шринивасу; Шринивас по пути в Пури слышит об уходе Махапрабху, и Тот во сне велит ему идти во Вриндаван за книгами; узнав об уходе Госвами, он падает без чувств, Рупа и Санатана во сне велят принять мантру у Гопалы Бхатты; после посвящения он соглашается идти в Гауду лишь при условии, и Говинда даёт повеление.",
+  "persons": [
+   "@srinivasa-acharya",
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@jiva-gosvami",
+   "@gopala-bhatta",
+   "@govinda-deity"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana",
+   "#gauda"
+  ],
+  "kind": "vision",
+  "authority": "C",
+  "notes": "Сводка; подробности — в krn-0029…0031.",
+  "themes": [
+   "departure",
+   "mercy"
+  ],
+  "event": "ev-srinivasa-journey-vrindavana",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "1",
+    "to": "1"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "1",
+    "to": "1",
+    "line": 5,
+    "line_to": 5,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L5-L5",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L5-L5"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "krn-0029",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 2–29",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 2,
+  "title": "Весть об уходе Махапрабху: Господь является Шринивасу и посылает во Вриндаван; весть об уходе Рупы и Санатаны, их явление",
+  "summary": "Желая увидеть Махапрабху, Шринивас идёт в Нилачалу, но в пути узнаёт о Его уходе и лишается чувств; Махапрабху является, утешает его («ты — Моя шакти») и велит идти во Вриндаван за книгами Рупы и Санатаны; в Матхуре Шринивас узнаёт об уходе обоих братьев и падает без чувств у дерева; Рупа и Санатана являются ему и велят принять посвящение у Гопалы Бхатты и нести книги в Гауду.",
+  "persons": [
+   "@srinivasa-acharya",
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@gopala-bhatta"
+  ],
+  "places": [
+   "#puri",
+   "#mathura",
+   "#vrindavana"
+  ],
+  "kind": "vision",
+  "authority": "C",
+  "parallels": "«Према-виласа» 4–6; «Бхакти-ратнакара» 3–4",
+  "themes": [
+   "departure",
+   "separation",
+   "mercy"
+  ],
+  "event": "ev-srinivasa-vision-rupa-sanatana",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "2",
+    "to": "29"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "2",
+    "to": "29",
+    "line": 16,
+    "line_to": 97,
+    "count": 28,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L16-L97",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L16-L97"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 3
+ },
+ {
   "id": "apr-0145",
   "source": "advaita-prakasha",
   "ref": "Гл. 21, 63–69",
@@ -133100,7 +133225,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0031",
@@ -133167,7 +133292,7 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "pvl-0030",
@@ -133360,7 +133485,7 @@
    47,
    48
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "pad-0564",
@@ -133429,7 +133554,7 @@
    47,
    48
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "pvl-0034",
@@ -133558,7 +133683,7 @@
    47,
    48
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "pvl-0035",
@@ -133628,7 +133753,7 @@
    47,
    48
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "brt-0021",
@@ -135007,6 +135132,64 @@
   "attestation": 4
  },
  {
+  "id": "krn-0030",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 30–48",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 75,
+  "title": "Посвящение Шринивасы у Гопалы Бхатты на сиденье Махапрабху; письмо Господа из Нилачалы",
+  "summary": "Гопала Бхатта принимает Шринивасу как «жизнь своей жизни», показывает письмо, написанное рукой Махапрабху, сиденье и шнур, присланные Господом, и, сев на это сиденье, посвящает его, а затем обучает книгам; Госвами и Джива говорят: идти в Гауду — повеление Рупы и Махапрабху.",
+  "persons": [
+   "@srinivasa-acharya",
+   "@gopala-bhatta",
+   "@jiva-gosvami",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "divergence": "Письмо Махапрабху, адресованное Шринивасу, — только в «Карнананде».",
+  "themes": [
+   "mercy",
+   "learning"
+  ],
+  "event": "ev-srinivasa-initiation",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "30",
+    "to": "48"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "30",
+    "to": "48",
+    "line": 100,
+    "line_to": 154,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L100-L154",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L100-L154"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 3
+ },
+ {
   "id": "nvl-0018",
   "source": "narottama-vilasa",
   "ref": "Виласа 2, 312–318",
@@ -136092,6 +136275,73 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/12.md?plain=1#L344-L545",
     "file_en": "prema-vilasa/en/12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/12.md?plain=1#L344-L545"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0031",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 49–122",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 81,
+  "title": "Обет Шринивасы и повеление Говинды; пады Шринивасы о Говинде и Гуна-манджари; дары Гауры и Рагхунатхи Даса; проводы из Вриндавана",
+  "summary": "Шринивас соглашается идти в Гауду лишь если связанные с ним обретут стопы Радхи и Кришны; Гопала Бхатта, Рагхунатха Дас, Джива, Рагхунатха Бхатта, Локанатха и Бхугарбха молят Говинду, и Тот подтверждает; Шринивас поёт паду о красоте Говинды, Кришна Пандит надевает ему гирлянду Говинды; Гопала Бхатта повязывает ему на голову каупину и ткань Махапрабху; пада Шринивасы к Гуна-манджари; Рагхунатха Дас, пришедший с Радха-кунды, даёт коснуться камня Говардханы и гирлянды гунджи; Шринивас получает Вамшивадану и шалаграму и с книгами уходит в Гауду, Госвами и враджаваси провожают его с плачем; путь описан в «Према-виласе».",
+  "persons": [
+   "@srinivasa-acharya",
+   "@gopala-bhatta",
+   "@raghunatha-dasa",
+   "@jiva-gosvami",
+   "@raghunatha-bhatta",
+   "@lokanatha",
+   "@bhugarbha",
+   "@govinda-deity",
+   "@krishna-pandita-govinda",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#vrindavana",
+   "#radha-kunda",
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "divergence": "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьямананды; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды».",
+  "themes": [
+   "deities",
+   "separation",
+   "mercy"
+  ],
+  "event": "ev-govinda-commands-srinivasa",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "49",
+    "to": "122"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "49",
+    "to": "122",
+    "line": 157,
+    "line_to": 408,
+    "count": 74,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L157-L408",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L157-L408"
    }
   ],
   "years": [
@@ -143358,6 +143608,62 @@
   "attestation": 1
  },
  {
+  "id": "krn-0032",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 123–136",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 102.6,
+  "title": "Рамачандра завершает наставление: царь — свидетель исполненного обета; дар деревни Рамачандре",
+  "summary": "Рамачандра говорит царю: обет Шринивасы исполнен в тебе — ты сам описал это в своих падах; месяц он наставляет царя наедине, и царь дарит Кавирадже деревню.",
+  "persons": [
+   "@ramachandra-kaviraja",
+   "@vira-hambira",
+   "@srinivasa-acharya"
+  ],
+  "places": [
+   "#vana-vishnupura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "themes": [
+   "teaching",
+   "mercy"
+  ],
+  "event": "ev-ramachandra-instructs-vira-hambira",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "123",
+    "to": "136"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "123",
+    "to": "136",
+    "line": 411,
+    "line_to": 454,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L411-L454",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L411-L454"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "nvl-0024",
   "source": "narottama-vilasa",
   "ref": "Виласа 3, 65–99",
@@ -148240,6 +148546,67 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/02.md?plain=1#L116-L194",
     "file_en": "karnananda/en/02.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/02.md?plain=1#L116-L194"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0034",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 179–225 и колофон",
+  "file": "karnananda/ru/06.md",
+  "period": "P15",
+  "order": 113.2,
+  "title": "Восемь (девятнадцать) кавирадж и шесть (двенадцать) чакраварти — ученики Шринивасы",
+  "summary": "По повелению Хемалаты автор перечисляет кавирадж (Рамачандра, Говинда, Карнапура, Нрисимха, Бхагаван, Валлави Дас, Гопирамана, Гокулананда, Дивьясимха и др.) и чакраварти (Говинда, шурины Шьямадас и Рамачандра, Вьяса, Рамакришна, Гокулананда, царь Вира Хамбир, Рамаджая, Радхаваллабха, Рупа Гхатака и др.); Хемалата одобряет книгу.",
+  "persons": [
+   "@ramachandra-kaviraja",
+   "@govinda-kaviraja",
+   "@karnapura-kaviraja",
+   "@divyasimha-kaviraja",
+   "@vyasa-acharya",
+   "@vira-hambira",
+   "@hemalata",
+   "@yadunandana-dasa-author"
+  ],
+  "places": [
+   "#vana-vishnupura"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "notes": "Перечень, вероятно поздняя приписка (добавлен «по повелению Хемалаты» после колофона-датировки) — понижено до D.",
+  "themes": [
+   "mercy"
+  ],
+  "event": "ev-srinivasa-disciples",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "179",
+    "to": "225"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "179",
+    "to": "225",
+    "line": 583,
+    "line_to": 721,
+    "count": 47,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L583-L721",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L583-L721"
    }
   ],
   "years": [
@@ -157189,6 +157556,61 @@
     "file_en": "nityananda-vamsha/en/10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/nityananda-vamsha/en/10.md?plain=1#L7-L29"
    }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0033",
+  "source": "karnananda",
+  "ref": "Нирьяса 6, 137–178",
+  "file": "karnananda/ru/06.md",
+  "period": "PX",
+  "order": 25,
+  "title": "Молитвы автора Шринивасу и вайшнавам; колофон: Будхуипара, 1529 шака, вайшакха-пурнима; Хемалата называет книгу «Карнананда»",
+  "summary": "Автор молит Шринивасу и вайшнавов о прибежище — «пусть рождение за рождением я буду собакой, поедающей твои остатки»; сообщает, что завершил книгу в Будхуипаре на берегу Ганги подле Шримати (Хемалаты) в 1529 году, в полнолуние вайшакхи; Хемалата, выслушав, называет книгу «Карнананда» и велит перечислить кавирадж и чакраварти.",
+  "persons": [
+   "@yadunandana-dasa-author",
+   "@hemalata",
+   "@srinivasa-acharya",
+   "@ramachandra-kaviraja"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "calendar": "вайшакха, пурнима",
+  "themes": [
+   "author"
+  ],
+  "event": "ev-karnananda-composed",
+  "verses": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "137",
+    "to": "178"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/06.md",
+    "from": "137",
+    "to": "178",
+    "line": 457,
+    "line_to": 580,
+    "count": 42,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/06.md?plain=1#L457-L580",
+    "file_en": "karnananda/en/06.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/06.md?plain=1#L457-L580"
+   }
+  ],
+  "years": [
+   1607,
+   1607
+  ],
+  "date_conf": "оценка",
+  "date_basis": "колофон «Карнананды» 6.168–170: 1529 (шака), вайшакха, полнолуние; дата сомнительна (поздние вставки)",
+  "age": [
+   121,
+   121
   ],
   "attestation": 1
  },

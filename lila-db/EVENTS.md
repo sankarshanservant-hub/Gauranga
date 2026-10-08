@@ -3888,6 +3888,7 @@
 
 ## Шринивас прощается с матерью и идёт во Вриндаван / Srinivasa takes leave of his mother and journeys to Vrindavana  `ev-srinivasa-journey-vrindavana` (1533–1534, возраст 47–48, оценка)
 
+- karnananda (C): Нирьяса 6, 1 (девять шлок) — [1–1](../karnananda/ru/06.md?plain=1#L5-L5) · `krn-0028`
 - prema-vilasa (C): Виласа 5, 76–93 — [76–93](../prema-vilasa/ru/05.md?plain=1#L230-L281) · `pvl-0029`
 - prema-vilasa (C): Виласа 5, 107–146 — [107–146](../prema-vilasa/ru/05.md?plain=1#L323-L440) · `pvl-0031`
 
@@ -3898,6 +3899,7 @@
 
 ## Рупа и Санатана являются Шринивасу после своего ухода / Rupa and Sanatana appear to Srinivasa after their departure  `ev-srinivasa-vision-rupa-sanatana` (1533–1534, возраст 47–48, оценка)
 
+- karnananda (C): Нирьяса 6, 2–29 — [2–29](../karnananda/ru/06.md?plain=1#L16-L97) · `krn-0029`
 - prema-vilasa (C): Виласа 6, 1–48 — [1–48](../prema-vilasa/ru/06.md?plain=1#L5-L146) · `pvl-0033`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 474–475 (6.3, № 58) «ও মোর জীবন প্রাণ» = БР 14 (изд. 1912, с. ≈1048–1049; изд. 1960, 14.195–208) — [10.1–10.14](../padas/ru/26.md?plain=1#L286-L325) · `pad-0564`
 
@@ -3909,6 +3911,7 @@
 
 - bhakti-ratnakara (B): Таранга 1, 230–236 — [230–236](../bhakti-ratnakara/ru/01.md?plain=1#L689-L707) · `brt-0011`
 - prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
+- karnananda (C): Нирьяса 6, 30–48 — [30–48](../karnananda/ru/06.md?plain=1#L100-L154) · `krn-0030`
 
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
@@ -3996,6 +3999,10 @@
 ## Праздник Дживы в конце карттики: решение отправить Шринивасу и Нароттаму с книгами в Гауду / Jiva's festival at the end of Kartika: Srinivasa and Narottama are chosen to take the books to Gauda  `ev-books-mission-decision` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 12, 114–181 — [114–181](../prema-vilasa/ru/12.md?plain=1#L344-L545) · `pvl-0075`
+
+## Говиндадева велит послать Шринивасу в Гауду: «кто свяжется с ним, обретёт стопы Радхи и Кришны» / Govindadeva orders Srinivasa sent to Gauda: 'whoever is connected with him will attain the feet of Radha and Krishna'  `ev-govinda-commands-srinivasa` (1533–1534, возраст 47–48, оценка)
+
+- karnananda (C): Нирьяса 6, 49–122 — [49–122](../karnananda/ru/06.md?plain=1#L157-L408) · `krn-0031`
 
 ## Шринивас, Нароттама и Шьямананда покидают Вриндаван с книгами Госвами / Srinivasa, Narottama and Shyamananda leave Vrindavana with the Gosvamis' books  `ev-books-leave-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -4255,6 +4262,7 @@
 
 - karnananda (C): Нирьяса 4, 1–38 — [1–38](../karnananda/ru/04.md?plain=1#L5-L116) · `krn-0022`
 - karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
+- karnananda (C): Нирьяса 6, 123–136 — [123–136](../karnananda/ru/06.md?plain=1#L411-L454) · `krn-0032`
 
 ## Проповедь Шьямананды в Уткале: Шер Хан, Расикананда, йогин Дамодара / Shyamananda's preaching in Utkala: Sher Khan, Rasikananda, the yogi Damodara  `ev-shyamananda-utkala` (1533–1534, возраст 47–48, оценка)
 
@@ -4397,6 +4405,7 @@
 - karnananda (C): Нирьяса 1, 348–407 — [348–407](../karnananda/ru/01.md?plain=1#L1057-L1234) · `krn-0012`
 - karnananda (C): Нирьяса 2, 1–34 — [1–34](../karnananda/ru/02.md?plain=1#L5-L104) · `krn-0014`
 - karnananda (C): Нирьяса 2, 38–64 и колофон — [38–64](../karnananda/ru/02.md?plain=1#L116-L194) · `krn-0016`
+- karnananda (D): Нирьяса 6, 179–225 и колофон — [179–225](../karnananda/ru/06.md?plain=1#L583-L721) · `krn-0034`
 
 ## Нароттама в Гамбхиле «для глаз людей» оставляет тело; на насмешки брахманов по молитве Ганганараяны встаёт с костра; брахманы-хулители становятся вайшнавами / At Gambhila Narottama leaves his body 'in the eyes of people'; at the brahmanas' mockery he rises from the pyre at Ganganarayana's prayer; the reviling brahmanas become Vaishnavas  `ev-narottama-pyre-gambhila` (1533–1534, возраст 47–48, оценка)
 
@@ -4410,6 +4419,10 @@
 
 - bhakti-ratnakara (B): Таранга 1, 796–858 — [796–858](../bhakti-ratnakara/ru/01.md?plain=1#L2414-L2579) · `brt-0042`
 - padas (C): Баларама Дас, ГПТ1 с. 466 (№ 39) «রূপ সনাতন সঙ্গে শ্রীজীব গোসাঞি» — [23.1–23.6](../padas/ru/13.md?plain=1#L640-L655) · `pad-0282`
+
+## Ядунандана Дас завершает «Карнананду» в Будхуипаре (по колофону — 1529 шака) / Yadunandana Dasa completes the Karnananda at Budhuipara (by the colophon, Shaka 1529)  `ev-karnananda-composed` (1607–1607, возраст 121–121, оценка)
+
+- karnananda (C): Нирьяса 6, 137–178 — [137–178](../karnananda/ru/06.md?plain=1#L457-L580) · `krn-0033`
 
 ## Истина о Нитьянанде и Адвайте / The truth about Nityananda and Advaita  `ev-tattva-nityananda-advaita`
 
