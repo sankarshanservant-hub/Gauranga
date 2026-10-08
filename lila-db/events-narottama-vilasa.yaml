@@ -104,3 +104,20 @@
   order: 89
   themes: [prasada]
   notes: "«Нароттама-виласа» 4."
+
+- id: ev-narottama-shrikhanda-yajigrama-katwa
+  title: "Нароттама на обратном пути из Пури: Шрикханда, Яджиграм (Шриниваса), Катва (Дас Гададхара)"
+  title_en: "Narottama on the way back from Puri: Shrikhanda, Yajigrama (Srinivasa), Katwa (Dasa Gadadhara)"
+  period: P15
+  order: 89.2
+  themes: [separation, pilgrimage]
+  notes: "«Нароттама-виласа» 5; весть о сокрытии почти всех спутников в Пури."
+
+- id: ev-nityananda-shows-ekachakra
+  title: "Нитьянанда в облике брахмана показывает Нароттаме Экачакру и является Баларамой"
+  title_en: "Nityananda as a brahmana shows Narottama Ekachakra and appears as Balarama"
+  period: P15
+  order: 89.3
+  themes: [revelation, pilgrimage]
+  bhava: [balarama]
+  notes: "«Нароттама-виласа» 5."

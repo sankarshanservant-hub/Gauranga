@@ -542,3 +542,73 @@
   event: ev-narottama-shyamananda-nrisimhapura
   verses:
     - {file: "narottama-vilasa/ru/04.md", from: "185", to: "239"}
+
+- id: nvl-0032
+  source: narottama-vilasa
+  ref: "Виласа 5, 1–54"
+  file: "narottama-vilasa/ru/05.md"
+  period: P15
+  order: 89.2
+  title: "Нароттама в Шрикханде у Нарахари Саркара и Рагхунанданы"
+  summary: "Нарахари, горящий в разлуке, обнимает Нароттаму, предсказывает, что Господь явит Себя в его пении, и велит идти в Кхетури через Яджиграм; Нароттама видит Божество Гаура-Кришны, отдаёт махапрасад Джаганнатхи; Нарахари прощается: «Больше я тебя не увижу»."
+  persons: ["@narottama-dasa", "@narahari-sarakara", "@raghunandana", "@jagannatha-deity"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, prasada, separation]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "narottama-vilasa/ru/05.md", from: "1", to: "54"}
+
+- id: nvl-0033
+  source: narottama-vilasa
+  ref: "Виласа 5, 55–84"
+  file: "narottama-vilasa/ru/05.md"
+  period: P15
+  order: 89.25
+  title: "Нароттама у Шринивасы в Яджиграме; весть о сокрытии спутников Господа в Пури"
+  summary: "Шриниваса, учащий учеников, встречает Нароттаму («лишь тела у них разные»); пришедший брахман из Кшетры рассказывает, что на другой день после ухода Нароттамы почти все спутники в Пури скрылись и Шьямананда застал лишь горе; плач Шринивасы, Нароттамы, Вьясы Чакраварти, Кришнаваллабхи; Шриниваса начинает учить брахмана книгам Госвами."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@shyamananda", "@vyasa-acharya", "@krishnavallabha"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Вьяса Чакраварти — вероятно, @vyasa-acharya."
+  themes: [departure, separation]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "narottama-vilasa/ru/05.md", from: "55", to: "84"}
+
+- id: nvl-0034
+  source: narottama-vilasa
+  ref: "Виласа 5, 85–119"
+  file: "narottama-vilasa/ru/05.md"
+  period: P15
+  order: 89.27
+  title: "Нароттама в Катве: Дас Гададхара, Ядунандана Чакраварти, место санньясы Господа"
+  summary: "Ядунандана Чакраварти даёт Нароттаме гирлянду Гауранги и ведёт к Дасу Гададхаре, который после ухода Вишнуприи живёт в Катве в скорби; тот предсказывает, что Господь будет плясать в киртане Нароттамы; на месте Кешавы Бхарати, где Господь обрил голову и принял санньясу, все падают без чувств, и Гауранга в храме успокаивает их."
+  persons: ["@narottama-dasa", "@gadadhara-dasa", "@yadunandana-chakravarti", "@keshava-bharati", "@vishnupriya", "@mahaprabhu"]
+  places: ["#katwa"]
+  kind: post-advent
+  authority: B
+  themes: [sannyasa, separation, deities]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "narottama-vilasa/ru/05.md", from: "85", to: "119"}
+
+- id: nvl-0035
+  source: narottama-vilasa
+  ref: "Виласа 5, 120–161"
+  file: "narottama-vilasa/ru/05.md"
+  period: P15
+  order: 89.3
+  title: "Экачакра: Нитьянанда в облике старого брахмана показывает Нароттаме места Своих игр и является Баларамой"
+  summary: "Старый брахман водит Нароттаму по Экачакре: игры пастушка, рама- и раса-лилы в детстве, дом Хадаи Пандита, змея, стрижка и шнур, храм Вишну, место, где санньяси увёл Нитьянанду, плач Падмавати; исчезнув, он вновь является Баларамой с рожком и посохом, велит хранить это в тайне; Нароттама переправляется через Падмавати к Кхетури. Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@nityananda", "@hadai-pandita", "@padmavati"]
+  places: ["#ekachakra", "#kheturi"]
+  kind: vision
+  authority: B
+  themes: [revelation, pilgrimage]
+  bhava: [balarama]
+  event: ev-nityananda-shows-ekachakra
+  verses:
+    - {file: "narottama-vilasa/ru/05.md", from: "120", to: "161"}
