@@ -583,3 +583,53 @@
   cb: ""
   themes: [ecstasy, kirtan, mercy]
   notes: "Приняв океан за Ямуну, Господь бросается в него; рыбак вытаскивает Его сетью и обезумевает от прикосновения; Сварупа и преданные находят Господа и киртаном возвращают к сознанию."
+
+- id: ev-krishna-ashoka-spring-garden
+  title: "Весенний сад у моря: видение Кришны под ашокой"
+  title_en: "The spring garden by the sea: the vision of Krishna under an ashoka tree"
+  period: P14
+  order: 100.95
+  cc: "Антья 19"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Господь, читая стихи «Гита-говинды», видит Кришну под ашокой, бежит к Нему и падает без чувств; затем сетует в божественном безумии."
+
+- id: ev-last-twelve-years-gambhira
+  title: "Последние двенадцать лет Господа в Пури: три состояния и любимые книги"
+  title_en: "The Lord's last twelve years in Puri: the three states and His beloved books"
+  period: P14
+  order: 99
+  cc: "Мадхья 2; Антья 14–20"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Внешнее, внутреннее и полувнешнее состояния; Господь вкушает «Гита-говинду», «Карнамриту», драму Раманады, песни Чандидаса и Видьяпати со Сварупой и Раманандой."
+
+- id: ev-avirbhava-four-places
+  title: "Постоянные явления Господа: у Шачи, Нитьянанды, Шриваса и Рагхавы"
+  title_en: "The Lord's constant appearances: with Shachi, Nityananda, Shrivasa and Raghava"
+  period: P14
+  order: 19
+  cc: "Антья 2"
+  cb: ""
+  themes: [revelation, mercy]
+  notes: "Господь, пребывая в Пури, является в четырёх местах: на киртане Шачи, в пляске Нитьянанды, на киртане Шриваса, в доме Рагхавы Пандита."
+
+- id: ev-shachi-vishnupriya-passing
+  title: "Уход Шачи и Вишнуприи (по Говинда-деве — до ухода Господа)"
+  title_en: "The passing of Shachi and Vishnupriya (according to Govinda-deva, before the Lord's departure)"
+  period: P14
+  order: 115
+  cc: ""
+  cb: ""
+  themes: [separation, departure, family]
+  notes: "Только у Говинда-девы: Шачи и Вишнуприя, не видя явлений Господа, отказываются от пищи и уходят с Его именем на устах. По другим источникам Вишнуприя пережила Господа."
+
+- id: ev-vision-vraja-before-departure
+  title: "Видение Враджи в небе перед уходом Господа"
+  title_en: "The vision of Vraja in the sky before the Lord's departure"
+  period: P15
+  order: 9
+  cc: ""
+  cb: ""
+  themes: [revelation, celestial, departure]
+  notes: "Только у Говинда-девы: с экадаши пхалгуны Господь в самадхи видит богов и вечных спутников Враджи — Нанду, Яшоду, Балараму, гопи, Радху, — ожидающих Его."

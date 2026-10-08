@@ -3496,3 +3496,223 @@
   event: ev-fall-into-ocean-fisherman
   verses:
     - {file: "gaura-krishnodaya/ru/17.md", from: "65", to: "73"}
+
+- id: gkd-0179
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 1–4"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 100.9
+  title: "Господь трёт лицо о землю; Шанкара Пандит спит у Его стоп"
+  summary: "Видя неземную красоту Своего тела и опасаясь, что она привлечёт женщин и помешает отречению, Господь трёт лицо о землю до крови; преданные не спят ночами; по их просьбе Шанкара Пандит спит у Его стоп, и Господь перестаёт."
+  persons: ["@mahaprabhu", "@shankara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 19"
+  cc: "Антья 19"
+  themes: [sannyasa, separation]
+  bhava: [sannyasi]
+  divergence: "В ЧЧ Господь трёт лицо о стены Гамбхиры в разлуке с Кришной; у Говинда-девы — ради отречения, чтобы лишить Себя красоты."
+  event: ev-face-rubbing-gambhira
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "1", to: "4"}
+
+- id: gkd-0180
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 5–9"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 100.95
+  title: "Весенний сад: видение Кришны под ашокой, божественное безумие"
+  summary: "Весной в саду Господь описывает красоту стихами «Гита-говинды», видит Кришну у корней ашоки, бежит обнять Его и падает; придя в себя, сокрушается: «Куда ушёл Кришна, где гопи? Кто привёл Меня сюда?» — в божественном безумии."
+  persons: ["@mahaprabhu", "@krishna", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 19"
+  cc: "Антья 19"
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  teaching: [prema]
+  event: ev-krishna-ashoka-spring-garden
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "5", to: "9"}
+
+- id: gkd-0181
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 10–15"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 99
+  title: "Последние двенадцать лет: три состояния, любимые книги, спутники"
+  summary: "Господь, весь принадлежащий Кришне, пребывает в трёх состояниях — внешнем, внутреннем и полувнешнем; в последнем изливает сетования, открывая виды бхакти; постоянно повторяет «Раса-панчадхьяйи», драму Раманады, «Гита-говинду» и «Карнамриту»; так проводит двенадцать лет с Раманандой, Адвайтой, Нитьянандой, Сарвабхаумой, Шривасой, Сварупой, Вакрешварой."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@advaita", "@nityananda", "@sarvabhauma", "@srivasa", "@svarupa-damodara", "@vakreshvara"]
+  places: ["#puri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 2; Антья 14–20"
+  cc: "Мадхья 2"
+  themes: [ecstasy, separation, learning]
+  bhava: [radha]
+  teaching: [prema, gaura-tattva]
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "10", to: "15"}
+
+- id: gkd-0182
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 16–17"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 19
+  title: "Явления Господа в домах преданных"
+  summary: "Ради будущих людей Господь учит через явления, вхождения и силу; Он постоянно является в доме Шачи, у Нитьянанды, в домах Шриваса, Рагхавы и других чистых сердцем."
+  persons: ["@mahaprabhu", "@shachi", "@nityananda", "@srivasa", "@raghava-pandita"]
+  places: ["#navadvipa", "#panihati"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 2"
+  cc: "Антья 2"
+  themes: [revelation, mercy]
+  teaching: [gaura-tattva]
+  event: ev-avirbhava-four-places
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "16", to: "17"}
+
+- id: gkd-0183
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 18–36"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 20
+  title: "Накула Брахмачари и Шивананда: мантра Гаура-Гопалы, Гаура-гаятри и поклонение Гауре"
+  summary: "В Накулу Брахмачари входит Гаура; он читает мысли; Шивананда Сена приходит испытать его, и тот называет его тайную мантру Гаура-Гопалы. На просьбу Шивананды брахмачари излагает порядок поклонения Гауре: Имя, мантру для ежедневного поклонения, Гаура-гаятри, ньясу, медитацию на золотого Гауру с дандой, внешнее и внутреннее поклонение; плод — высшая бхакти и мир Кришны. Так Господь передаёт силу и через Рупу и других возвещает бхакти."
+  persons: ["@nakula-brahmachari", "@shivananda-sena", "@mahaprabhu", "@rupa-gosvami"]
+  places: ["#east-bengal"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 2"
+  cc: "Антья 2"
+  themes: [revelation, teaching, deities]
+  teaching: [gaura-tattva, holy-name]
+  divergence: "Подробное наставление о поклонении Гауре (мантра, гаятри, медитация) — только у Говинда-девы; плодом названа салокья."
+  event: ev-nakula-brahmachari
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "18", to: "36"}
+
+- id: gkd-0184
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 37–38"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 110
+  title: "Шикшаштака"
+  summary: "Бескорыстный друг всех существ, Гаура под видом вкушения смысла Своей «Шикшаштаки» излагает по порядку средства достижения Кришны."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Антья 20"
+  cc: "Антья 20"
+  themes: [teaching]
+  teaching: [holy-name, prema]
+  event: ev-shikshashtaka-recitation
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "37", to: "38"}
+
+- id: gkd-0185
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 39–43"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P14
+  order: 115
+  title: "Последние месяцы; уход Шачи и Вишнуприи"
+  summary: "В магху, видя всех вайшнавами, Господь желает уйти в Свою обитель; в опьянении премой забывает о теле, почти не ест. Не видя Его явлений, Шачи и её невестка в двойной скорби отказываются от пищи и уходят с именем Гауранги на устах."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: C
+  themes: [separation, departure, family]
+  divergence: "Только у Говинда-девы: Шачи и Вишнуприя уходят раньше Господа (по другим источникам Вишнуприя пережила Его)."
+  event: ev-shachi-vishnupriya-passing
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "39", to: "43"}
+
+- id: gkd-0186
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 44–50"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P15
+  order: 9
+  title: "Видение Враджи в небе перед уходом"
+  summary: "С экадаши пхалгуны Господь в хижине на берегу в самадхи видит в небе богов во главе с Брахмой, Шивой и Индрой, а впереди — Нанду, Балараму с друзьями, гопи, коров, двух матерей, Радху; Яшода тянет к Нему руки; они скрываются; Господь, сияя, стоит недвижно, отказавшись от пищи и омовений."
+  persons: ["@mahaprabhu", "@nanda", "@yashoda", "@balarama", "@radha", "@brahma", "@shiva", "@indra"]
+  places: ["#puri"]
+  kind: vision
+  authority: C
+  calendar: "пхалгуна, светлая половина, 11-й день"
+  themes: [revelation, celestial, departure]
+  bhava: [child]
+  divergence: "Видение Враджи перед уходом — только у Говинда-девы."
+  event: ev-vision-vraja-before-departure
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "44", to: "50"}
+
+- id: gkd-0187
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 51–59"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P15
+  order: 10
+  title: "Последнее наставление и сокрытие Господа"
+  summary: "Вечером пятого дня Господь, воздев руки, наставляет людей шлоками «Упадешамриты» (о почитании вайшнавов, вкусе Имени, непорочности преданных, жизни во Врадже) и молит о служении Радхе и Кришне по милости Лалиты; на Его теле проступает тёмный цвет Кришны, и, озарив мир алым сиянием, Гаура-Кришна скрывается, как молния. Восходит луна; преданные видят лишь следы Его стоп; начинается лунное затмение, все омываются в океане."
+  persons: ["@mahaprabhu", "@advaita", "@krishna", "@radha", "@lalita"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  calendar: "пхалгуна-пурнима, лунное затмение"
+  themes: [departure, teaching]
+  bhava: [radha, gopi]
+  teaching: [vaishnava, holy-name, prema]
+  divergence: "Уход в Пхалгуна-пурниму при затмении, с проявлением облика Кришны, — версия Говинда-девы (общепринятая дата — ашадха 1533 г.); последнее наставление — шлоки «Упадешамриты» Рупы Госвами."
+  event: ev-lord-disappearance
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "51", to: "59"}
+
+- id: gkd-0188
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 60–62"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: P15
+  order: 11
+  title: "Преданные после сокрытия; Вакрешвара в обители Господа"
+  summary: "Спутники скорбят, затем ставят Вакрешвару, первого ученика Господа, в Его обители и расходятся: кто остаётся на Нилачале, кто уходит во Враджу, кто странствует. Господь, проведя на земле сорок восемь лет, вернулся в Свою обитель."
+  persons: ["@vakreshvara", "@mahaprabhu"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13 (48 лет)"
+  cc: "Ади 13"
+  themes: [separation, departure]
+  divergence: "Поставление Вакрешвары в обители Господа — у Говинда-девы."
+  event: ev-devotees-lament-after-disappearance
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "60", to: "62"}
+
+- id: gkd-0189
+  source: gaura-krishnodaya
+  ref: "Сарга 18, 63–64 и заключение"
+  file: "gaura-krishnodaya/ru/18.md"
+  period: PX
+  order: 0
+  title: "Слово поэта и дата завершения поэмы"
+  summary: "Поэт извлёк из океана деяний Гаурачандры лишь каплю и вверяет книгу суду святых; поэма завершена в 1680 г. шака (1758 г.), во второй день тёмной половины ашвины, в пятницу, в год Плава, и поднесена Господу."
+  persons: ["@govinda-deva-kavi", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: B
+  date: "1758 (шака 1680), ашвина, тёмная половина, 2-й день"
+  themes: [author]
+  verses:
+    - {file: "gaura-krishnodaya/ru/18.md", from: "63", to: "64"}
