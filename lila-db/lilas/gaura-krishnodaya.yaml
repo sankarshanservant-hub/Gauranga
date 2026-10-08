@@ -1637,3 +1637,295 @@
   event: ev-srirangam-chaturmasya
   verses:
     - {file: "gaura-krishnodaya/ru/09.md", from: "56", to: "57"}
+
+- id: gkd-0084
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 1–6"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 45
+  title: "Брахман, читающий «Гиту» с ошибками и слезами"
+  summary: "В Шрирангаме брахман читает «Гиту» с ошибками, плача; он признаётся, что не знает смысла, но видит Кришну-колесничего; Господь говорит, что Сам стал плодом его чтения."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [ecstasy, learning]
+  event: ev-gita-reading-brahmana
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "1", to: "6"}
+
+- id: gkd-0085
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 7–12"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 50
+  title: "Беседа с Венкатой Бхаттой: Лакшми и сладость Кришны"
+  summary: "Венката Бхатта называет своим Божеством Лакшми-Нараяну; Господь спрашивает, почему Лакшми совершает подвижничество ради стоп Кришны: Нараяна равен Кришне величием, но Кришна выше сладостью."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@lakshmi", "@narayana", "@krishna"]
+  places: ["#ranga-kshetra"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching]
+  teaching: [gaura-tattva, prema]
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "7", to: "12"}
+
+- id: gkd-0086
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 12–13"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 60
+  title: "Гора Ришабха: встреча с Парамананда Пури"
+  summary: "После дождей Господь приходит к Нараяне на горе Ришабха и встречает Парамананду Пури, проведшего там чатурмасью."
+  persons: ["@mahaprabhu", "@paramananda-puri"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [pilgrimage]
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "12", to: "13"}
+
+- id: gkd-0087
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 14–20, 22–24"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 75
+  title: "Мадурай: брахман-почитатель Рамы и призрачная Сита"
+  summary: "В Южной Матхуре брахман, преданный Раме, не может жить от мысли, что Равана похитил Ситу; Господь объясняет, что Равана унёс лишь призрачную Ситу, а затем в Рамешваре находит то же в «Курма-пуране» и приносит брахману список."
+  persons: ["@mahaprabhu", "@rama"]
+  places: ["#madurai", "#setubandha"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching, learning]
+  event: ev-maya-sita-kurma-purana
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "14", to: "20"}
+    - {file: "gaura-krishnodaya/ru/10.md", from: "22", to: "24"}
+
+- id: gkd-0088
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 21–22"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 80
+  title: "Сетубандха и Рамешвара"
+  summary: "Господь поклоняется Бхаргаве на горе Сахья, видит мост Рамы и Рамешвару, омывается в Дханус-тиртхе."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#setubandha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [pilgrimage]
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "21", to: "22"}
+
+- id: gkd-0089
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 24–26"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 82.5
+  title: "Маллара: Господь вызволяет Кришнадаса у бхаттатхари"
+  summary: "В Малларе, где мужчины в рабстве у распутниц, бхаттатхари хватают Кришнадаса за волосы; Господь вырывает его у них и разит их собственным оружием."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [mercy]
+  event: ev-krishnadasa-bhattathari
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "24", to: "26"}
+
+- id: gkd-0090
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 27–28"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 83.5
+  title: "Ади-Кешава: «Брахма-самхита»"
+  summary: "В храме Ади-Кешавы Господь слышит «Самхиту», созданную Брахмой, и принимает её как подтверждение учения о бхакти."
+  persons: ["@mahaprabhu", "@brahma"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [learning, pilgrimage]
+  teaching: [scripture]
+  event: ev-brahma-samhita-adikeshava
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "27", to: "28"}
+
+- id: gkd-0091
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 28–29"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 84
+  title: "Шрингери: опровержение адвайты"
+  summary: "В обители Шанкары Господь беседует с его последователями, опровергает адвайту и утверждает учение о бхакти."
+  persons: ["@mahaprabhu"]
+  places: ["#shringeri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching]
+  teaching: [vedanta, maya]
+  event: ev-shringeri-debate
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "28", to: "29"}
+
+- id: gkd-0092
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 30–45"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 84.5
+  title: "Удупи: Кришна Мадхвачарьи и беседа с таттвавади"
+  summary: "Рассказ о Мадхвачарье, получившем во сне весть и ком гопи-чанданы с Божеством Кришны; Господь пляшет перед Удупи-Кришной; таттвавади называют целью пятеричное освобождение, а средством — предание плодов; Господь отвечает, что цель вайшнава — бхакти, освобождение — помеха, но хвалит их за признание облика Бога."
+  persons: ["@mahaprabhu", "@madhvacharya", "@krishna"]
+  places: ["#udupi"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching, deities]
+  teaching: [bhakti-supremacy]
+  divergence: "Подробности явления Божества Мадхвачарье (сон, ком глины) — у Говинды-девы."
+  event: ev-udupi-tattvavadis
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "30", to: "45"}
+
+- id: gkd-0093
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 45–48"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 85.5
+  title: "Пандарпур: Шри Ранга Пури и весть о Вишварупе"
+  summary: "Повидав Виттхалу в Пандава-граме, Господь встречает Шри Ранга Пури, ученика Мадхавендры; тот рассказывает о достижении Вишварупой совершенства."
+  persons: ["@mahaprabhu", "@ranga-puri", "@vishvarupa"]
+  places: ["#pandharpur"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [pilgrimage, family]
+  event: ev-ranga-puri-pandharpur
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "45", to: "48"}
+
+- id: gkd-0094
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 48–49"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 86.5
+  title: "«Кришна-карнамрита» на берегу Кришны"
+  summary: "Среди брахманов на берегу Кришны Господь слышит «Карнамриту» и получает её список."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [learning]
+  event: ev-krishna-karnamrita-found
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "48", to: "49"}
+
+- id: gkd-0095
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 49–52"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 70
+  title: "Дандакаранья: освобождение семи пальм"
+  summary: "В Дандакаранье семь сыновей царя Дандаки, ставшие пальмами сала, обнятые Господом, обретают сознание и уходят в мир без скорби."
+  persons: ["@mahaprabhu", "@rama"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [mercy]
+  divergence: "Предание о Дандаке и его сыновьях — у Говинды-девы."
+  event: ev-saptatala-deliverance
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "49", to: "52"}
+
+- id: gkd-0096
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 53–55"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 89.5
+  title: "Снова в Видьянагаре у Рамананды"
+  summary: "Омывшись в Пампе и Сапта-Годавари, Господь вечером приходит к Рамананде, отдаёт ему «Брахма-самхиту» и «Карнамриту» и велит прийти в Нилачалу; на обратном пути обращает шиваитов и шактов."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#vidyanagara", "#godavari"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching, learning]
+  event: ev-return-visit-ramananda
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "53", to: "55"}
+
+- id: gkd-0097
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 56"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P11
+  order: 90
+  title: "Возвращение в Алаланатху; Кришнадас послан к преданным"
+  summary: "Господь возвращается в Алаланатху и посылает Кришнадаса известить преданных."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: ["#alalanatha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [pilgrimage]
+  event: ev-return-from-south
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "56", to: "56"}
+
+- id: gkd-0098
+  source: gaura-krishnodaya
+  ref: "Сарга 10, 57–62"
+  file: "gaura-krishnodaya/ru/10.md"
+  period: P12
+  order: 1
+  title: "Пратапарудра и Сарвабхаума: дом Каши Мишры для Господа"
+  summary: "Царь Пратапарудра, услышав о Господе, просит Сарвабхауму известить его о Его приходе и по просьбе Бхаттачарьи отводит Господу дом Каши Мишры у храма; весть о приближении Господа радует преданных."
+  persons: ["@prataparudra", "@sarvabhauma", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 10"
+  cc: "Мадхья 10"
+  themes: [jagannatha]
+  event: ev-prataparudra-asks-sarvabhauma
+  verses:
+    - {file: "gaura-krishnodaya/ru/10.md", from: "57", to: "62"}

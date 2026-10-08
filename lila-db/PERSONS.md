@@ -476,3 +476,5 @@
 | @balarama-kaviraja-goas | Баларама Кавираджа (лекарь из Гоаса) | Balarama Kaviraja (physician of Goas) | вайшнав, побеждает дигвиджайи Мурари («Нароттама-виласа» 10) |
 | @jagannatha-acharya-shakta | Джаганнатха Ачарья, брахман-шакта | Jagannatha Acharya, the Shakta brahmana | по слову Богини принял посвящение у Нароттамы |
 | @rupamala | Рупамала, жена раджи Нарасимхи | Rupamala, wife of Raja Narasimha | ученица Нароттамы; повторяла сто тысяч имён |
+| @madhvacharya | Мадхвачарья | Madhvacharya | основатель таттвавады; обрёл Божество Кришны в Удупи |
+| @ranga-puri | Шри Ранга Пури | Sri Ranga Puri | ученик Мадхавендры Пури; встреча в Пандарпуре |

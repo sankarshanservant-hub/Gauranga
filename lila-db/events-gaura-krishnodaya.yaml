@@ -174,3 +174,65 @@
   cb: ""
   themes: [pilgrimage, deities, revelation]
   notes: "Известно лишь «Гаура-кришнодае» (9.52–55): по пути через Трипади, Трималлу, Канчи, Калахасти Господь приходит в Госамаджу, где линга Шивы выходит и обнимает Его."
+
+- id: ev-brahma-samhita-adikeshava
+  title: "Ади-Кешава: обретение «Брахма-самхиты»"
+  title_en: "Adi-Keshava: the finding of the Brahma-samhita"
+  period: P11
+  order: 83.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [learning, pilgrimage]
+  teaching: [scripture]
+  notes: "ЧЧ Мадхья 9: в храме Ади-Кешавы Господь нашёл и переписал главу «Брахма-самхиты»."
+
+- id: ev-udupi-tattvavadis
+  title: "Удупи: Господь пляшет перед Кришной Мадхвачарьи и беседует с таттвавади"
+  title_en: "Udupi: the Lord dances before Madhvacharya's Krishna and converses with the Tattvavadis"
+  period: P11
+  order: 84.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [teaching, deities]
+  teaching: [bhakti-supremacy]
+  notes: "ЧЧ Мадхья 9: цель и средство у таттвавади; освобождение — не цель вайшнава; Господь хвалит их за признание облика Бога."
+
+- id: ev-ranga-puri-pandharpur
+  title: "Пандарпур: встреча с Шри Ранга Пури; весть об уходе Вишварупы"
+  title_en: "Pandharpur: meeting Sri Ranga Puri; news of Vishvarupa's departure"
+  period: P11
+  order: 85.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [pilgrimage, family]
+  notes: "ЧЧ Мадхья 9."
+
+- id: ev-krishna-karnamrita-found
+  title: "Обретение «Кришна-карнамриты» на берегу Кришны"
+  title_en: "The finding of the Krishna-karnamrita on the bank of the Krishna"
+  period: P11
+  order: 86.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [learning, pilgrimage]
+  notes: "ЧЧ Мадхья 9: книга Билвамангалы Тхакура, переписанная Господом."
+
+- id: ev-return-visit-ramananda
+  title: "Снова у Рамананды в Видьянагаре: «Брахма-самхита» и «Карнамрита»"
+  title_en: "Again with Ramananda in Vidyanagara: the Brahma-samhita and Karnamrita"
+  period: P11
+  order: 89.5
+  cc: "Мадхья 9"
+  cb: ""
+  themes: [teaching, learning]
+  notes: "ЧЧ Мадхья 9: Господь отдаёт Рамананде найденные книги и велит прийти в Пури."
+
+- id: ev-prataparudra-asks-sarvabhauma
+  title: "Пратапарудра расспрашивает Сарвабхауму о Господе; дом Каши Мишры"
+  title_en: "Prataparudra questions Sarvabhauma about the Lord; the house of Kashi Mishra"
+  period: P12
+  order: 1
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [jagannatha]
+  notes: "ЧЧ Мадхья 10: пока Господь на юге, царь узнаёт о Нём и по просьбе Сарвабхаумы назначает Ему жилище Каши Мишры."
