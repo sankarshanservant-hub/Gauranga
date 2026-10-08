@@ -2729,10 +2729,15 @@
 
 - govinda-karcha (D): Часть 3, 482–500 — [482–500](../govinda-kadacha/ru/03.md?plain=1#L149-L205) · `gkr-0027`
 - chaitanya-chandrodaya (A): Акт 8, поселение в Пури, ст. 1–3 — [**Гопинатха-ачарья.** Бхаттачарья! Подум–**Все** *(прислушавшись)*. О, настало вр](../chaitanya-chandrodaya/ru/08.md?plain=1#L15-L72) · `ccd-0062`
+- gaura-krishnodaya (B): Сарга 11, 1–5 — [1–5](../gaura-krishnodaya/ru/11.md?plain=1#L7-L15) · `gkd-0099`
 - govinda-karcha (D): Часть 11, 2427–2437 — [2427–2437](../govinda-kadacha/ru/11.md?plain=1#L661-L693) · `gkr-0102`
 - karnapura-ckm (A): Сарга 13, 62–71 — [62–71](../karnapura-mahakavya/ru/13.md?plain=1#L1433-L1634) · `kcm-0132`
 - vaishnava-vandana (B): Вандана Дживы, 77 — [77–77](../vaishnava-vandana/ru/01.md?plain=1#L173-L173) · `vv-0014`
 - vaishnava-vandana (B): Девакинандана, 65 — [65–65](../vaishnava-vandana/ru/02.md?plain=1#L228-L228) · `vv-0043`
+
+## Бхавананда Рай с сыновьями у Господа: «Ты — Панду» / Bhavananda Raya and his sons with the Lord: "You are Pandu"  `ev-bhavananda-raya-pandu` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 6–10 — [6–10](../gaura-krishnodaya/ru/11.md?plain=1#L17-L27) · `gkd-0100`
 
 ## Преданные из разных краёв собираются к Господу в Нилачале / Devotees from many lands gather around the Lord in Nilachala  `ev-devotees-gather-nilachala` (1512–1514, возраст 26–28, оценка)
 
@@ -2775,6 +2780,10 @@
 
 - jayananda-cm (C): Уткала-кханда, разд. 16 (фрагм. 12) — [12:1–3:23](../jayananda/ru/01-fragments.md?plain=1#L743-L809) · `jcm-0071`
 
+## Рамананда Рай приходит в Пури к Господу / Ramananda Raya comes to the Lord in Puri  `ev-ramananda-comes-to-puri` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 15–18 — [15–18](../gaura-krishnodaya/ru/11.md?plain=1#L37-L45) · `gkd-0102`
+
 ## Господь рассказывает Рамананде о величии Кшетры и явлении Джаганнатхи / The Lord tells Ramananda of the glory of the Kshetra and the appearance of Jagannatha  `ev-lord-narrates-jagannatha-glory` (1512–1514, возраст 26–28, оценка)
 
 - jayananda-cm (C): Пракаша-кханда (рукописи «Джаганнатха-мангала» № 203–204, Калькутт. ун-т № 554, № 553, Аз. об-во № 183) — [23:1–3:19](../jayananda/ru/06-manuscripts.md?plain=1#L599-L652); [1–8–4:18](../jayananda/ru/06-manuscripts.md?plain=1#L686-L716) · `jcm-0076`
@@ -2782,8 +2791,21 @@
 - jayananda-cm (C): Пракаша-кханда, разд. 10 (фрагм. 13) — [13:1–2:49](../jayananda/ru/01-fragments.md?plain=1#L818-L962) · `jcm-0078`
 - jayananda-cm (C): Пракаша-кханда: «„Джаганнатха-чарита“: брахман Ведагарбха» (рукопись № 204); «Игроки в храме Вишну» (С. Сен); «Сказание о Вринде» (цитаты) — [31:1–6:18](../jayananda/ru/06-manuscripts.md?plain=1#L969-L1024); [32:1–23:4](../jayananda/ru/06-manuscripts.md?plain=1#L1033-L1043); [67:1–32:4](../jayananda/ru/05-quotes.md?plain=1#L1110-L1118) · `jcm-0079`
 
+## Говинда, слуга Ишвары Пури, приходит к Господу / Govinda, Ishvara Puri's servant, comes to the Lord  `ev-govinda-ishvara-puri-servant` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 20 — [20–20](../gaura-krishnodaya/ru/11.md?plain=1#L49-L49) · `gkd-0104`
+
+## Приход в Пури Парамананды Пури, Сварупы Дамодары и других / The arrival in Puri of Paramananda Puri, Svarupa Damodara and others  `ev-svarupa-paramananda-arrive` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 28–29 — [28–29](../gaura-krishnodaya/ru/11.md?plain=1#L67-L69) · `gkd-0106`
+
+## Чандана-ятра и летние праздники Пури / The Chandana-yatra and the summer festivals of Puri  `ev-chandana-yatra-summer` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 21–27 — [21–27](../gaura-krishnodaya/ru/11.md?plain=1#L51-L65) · `gkd-0105`
+
 ## Господь посылает вестника в Гауду о Своём возвращении с юга / The Lord sends a messenger to Gauda with news of His return from the South  `ev-messenger-to-gauda-after-south` (1512–1514, возраст 26–28, оценка)
 
+- gaura-krishnodaya (B): Сарга 11, 19 — [19–19](../gaura-krishnodaya/ru/11.md?plain=1#L47-L47) · `gkd-0103`
 - govinda-karcha (D): Часть 12, 2467–2473 — [2467–2473](../govinda-kadacha/ru/12.md?plain=1#L89-L107) · `gkr-0106`
 
 ## Сита посвящает Кришна Мишру и его жену Виджаю / Sita initiates Krishna Mishra and his wife Vijaya  `ev-krishna-mishra-initiation-sita` (1512–1514, возраст 26–28, оценка)
@@ -2795,6 +2817,7 @@
 - advaita-prakasha (D): Гл. 15, 149–153 — [149. Встретив С–153. Спустя до](../advaita-prakash/15.md?plain=1#L153-L157) · `apr-0094`
 - chaitanya-chandrodaya (A): Акт 8, прибытие гаудийцев, ст. 31–33 — [**Привратник** *(входя)*. Государь! Из с–**Царь.** Бхаттачарья! Подойди поближе и](../chaitanya-chandrodaya/ru/08.md?plain=1#L367-L474) · `ccd-0069`
 - chaitanya-chandrodaya (A): Акт 8, встреча в доме Каши Мишры, ст. 34–42 — [**Сарвабхаума.** Царь повелел как раз то–**Шри Кришна Чайтанья.** Так и есть. *(У](../chaitanya-chandrodaya/ru/08.md?plain=1#L476-L597) · `ccd-0070`
+- gaura-krishnodaya (B): Сарга 11, 35–41 — [35–41](../gaura-krishnodaya/ru/11.md?plain=1#L83-L95) · `gkd-0108`
 - karnapura-ckm (A): Сарга 14, 1–10 — [1–10](../karnapura-mahakavya/ru/14.md?plain=1#L32-L193) · `kcm-0139`
 - karnapura-ckm (A): Сарга 14, 11–41 — [11–41](../karnapura-mahakavya/ru/14.md?plain=1#L211-L749) · `kcm-0140`
 - karnapura-ckm (A): Сарга 14, 57–66 — [57–66](../karnapura-mahakavya/ru/14.md?plain=1#L1037-L1200) · `kcm-0142`
@@ -2820,6 +2843,7 @@
 
 ## Снана-ятра; в анавасару Господь уходит к Алаланатхе / Snana-yatra; during anavasara the Lord goes to Alalanatha  `ev-snana-yatra-anavasara-alalanatha` (1512–1514, возраст 26–28, оценка)
 
+- gaura-krishnodaya (B): Сарга 11, 30–34 — [30–34](../gaura-krishnodaya/ru/11.md?plain=1#L71-L81) · `gkd-0107`
 - karnapura-ckm (A): Сарга 13, 50–59 — [50–59](../karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364) · `kcm-0130`
 - karnapura-ckm (A): Сарга 14, 115–135 — [115–135](../karnapura-mahakavya/ru/14.md?plain=1#L2096-L2486) · `kcm-0145`
 - karnapura-ckm (A): Сарга 15, 1–11 — [1–11](../karnapura-mahakavya/ru/15.md?plain=1#L36-L252) · `kcm-0146`
@@ -2832,8 +2856,13 @@
 
 - karnapura-ckm (A): Сарга 13, 60–61 — [60–61](../karnapura-mahakavya/ru/13.md?plain=1#L1387-L1410) · `kcm-0131`
 
+## Господь обнимает сына Пратапарудры, напомнившего Ему Кришну / The Lord embraces Prataparudra's son, who reminded Him of Krishna  `ev-prataparudra-son-embraced` (1512–1514, возраст 26–28, оценка)
+
+- gaura-krishnodaya (B): Сарга 11, 41–43 — [41–43](../gaura-krishnodaya/ru/11.md?plain=1#L95-L101) · `gkd-0109`
+
 ## Уборка храма Гундичи / The cleaning of the Gundicha temple  `ev-gundicha-marjana` (1512–1514, возраст 26–28, оценка)
 
+- gaura-krishnodaya (B): Сарга 11, 44–47 — [44–47](../gaura-krishnodaya/ru/11.md?plain=1#L103-L109) · `gkd-0110`
 - karnapura-ckm (A): Сарга 15, 12–70 — [12–70](../karnapura-mahakavya/ru/15.md?plain=1#L273-L1535) · `kcm-0147`
 - chaitanya-chandrodaya (A): Акт 10, уборка Гундичи, ст. 28–40 — [**За сценой.** Ах, какое великое чудо!–**Туласи-Мишра.** Как велишь. *(Уходит.)](../chaitanya-chandrodaya/ru/10.md?plain=1#L529-L661) · `ccd-0095`
 
@@ -2844,6 +2873,7 @@
 ## Ратха-ятра: Господь в бхаве Радхи ведёт Джаганнатху в Гундичу / Ratha-yatra: in Radha's mood the Lord leads Jagannatha to Gundicha  `ev-ratha-yatra-gundicha` (1512–1514, возраст 26–28, оценка)
 
 - chaitanya-chandrodaya (A): Акт 8, праздник колесниц, ст. 43–50 — [> **43.** И Шатадхрити лишился твёрдости–Из знака Бхаттачарьи я понял, что теперь](../chaitanya-chandrodaya/ru/08.md?plain=1#L601-L649) · `ccd-0071`
+- gaura-krishnodaya (B): Сарга 11, 48–59 — [48–59](../gaura-krishnodaya/ru/11.md?plain=1#L111-L135) · `gkd-0111`
 - karnapura-ckm (A): Сарга 15, 78–99 — [78–99](../karnapura-mahakavya/ru/15.md?plain=1#L1714-L2178) · `kcm-0149`
 - karnapura-ckm (A): Сарга 15, 100–110 — [100–110](../karnapura-mahakavya/ru/15.md?plain=1#L2201-L2430) · `kcm-0150`
 - karnapura-ckm (A): Сарга 16, 1–16 — [1–16](../karnapura-mahakavya/ru/16.md?plain=1#L38-L366) · `kcm-0151`
@@ -3014,6 +3044,8 @@
 - chaitanya-chandrodaya (A): Акт 8, отказ видеть царя, ст. 23–25 — [**Шри Кришна Чайтанья.** Сарвабхаума! И –**Гопинатха-ачарья.** Ах, Господь уже уш](../chaitanya-chandrodaya/ru/08.md?plain=1#L257-L302) · `ccd-0067`
 - chaitanya-chandrodaya (A): Акт 8, царь и Сарвабхаума, ст. 26–30 — [> **26.** Близок победный выезд колесниц–**Сарвабхаума.** Так и будет.](../chaitanya-chandrodaya/ru/08.md?plain=1#L306-L365) · `ccd-0068`
 - chaitanya-chandrodaya (A): Акт 8, милость к Пратапарудре, ст. 51–56 — [*(Затем входит Шри Кришна Чайтанья — нед–*Так заканчивается 8-й акт «Шри Чайтанья](../chaitanya-chandrodaya/ru/08.md?plain=1#L651-L705) · `ccd-0072`
+- gaura-krishnodaya (B): Сарга 11, 11–14 — [11–14](../gaura-krishnodaya/ru/11.md?plain=1#L29-L35) · `gkd-0101`
+- gaura-krishnodaya (B): Сарга 11, 60–62 — [60–62](../gaura-krishnodaya/ru/11.md?plain=1#L139-L143) · `gkd-0112`
 - govinda-karcha (D): Часть 12, 2454–2460 — [2454–2460](../govinda-kadacha/ru/12.md?plain=1#L48-L66) · `gkr-0104`
 - jayananda-cm (C): Уткала-кханда: «Царь и царица Чандракала» (цитаты) — [60:1–42:2](../jayananda/ru/05-quotes.md?plain=1#L1039-L1042) · `jcm-0070`
 - jayananda-cm (C): Пракаша-кханда: «Царь идёт к Чайтанье», «Царицы» (цитаты) — [65:1–65:1](../jayananda/ru/05-quotes.md?plain=1#L1096-L1096); [66:1–66:1](../jayananda/ru/05-quotes.md?plain=1#L1103-L1103) · `jcm-0075`
@@ -4021,6 +4053,10 @@
 ## Уход Кришнадаса Кавираджи / The departure of Krishnadasa Kaviraja  `ev-krishnadasa-kaviraja-departure` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 13, 124–146 — [124–146](../prema-vilasa/ru/13.md?plain=1#L374-L440) · `pvl-0087`
+
+## Кришнадас Кавираджа, упавший замертво при вести о похищении книг, по повелению Рупы и Санатаны возвращается в тело / Krishnadasa Kaviraja, struck down at the news of the theft of the books, returns to his body at the command of Rupa and Sanatana  `ev-krishnadasa-kaviraja-revived` (1533–1534, возраст 47–48, оценка)
+
+- karnananda (C): Нирьяса 7, 31–79 — [31–79](../karnananda/ru/07.md?plain=1#L95-L240) · `krn-0036`
 
 ## Нароттама возвращается в Кхетури и наставляет Шьямананду / Narottama returns to Kheturi and instructs Shyamananda  `ev-narottama-returns-kheturi` (1533–1534, возраст 47–48, оценка)
 

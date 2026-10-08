@@ -9946,6 +9946,7 @@
   "entries": [
    "gkr-0027",
    "ccd-0062",
+   "gkd-0099",
    "gkr-0102",
    "kcm-0132",
    "vv-0014",
@@ -9953,6 +9954,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "govinda-karcha",
    "karnapura-ckm",
    "vaishnava-vandana"
@@ -10089,9 +10091,11 @@
    28
   ],
   "entries": [
+   "gkd-0103",
    "gkr-0106"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "govinda-karcha"
   ]
  },
@@ -10153,6 +10157,7 @@
    "apr-0094",
    "ccd-0069",
    "ccd-0070",
+   "gkd-0108",
    "kcm-0139",
    "kcm-0140",
    "kcm-0142",
@@ -10165,6 +10170,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "murari-kcc"
   ]
@@ -10291,6 +10297,7 @@
    28
   ],
   "entries": [
+   "gkd-0107",
    "kcm-0130",
    "kcm-0145",
    "kcm-0146",
@@ -10301,6 +10308,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "murari-kcc"
   ]
@@ -10330,11 +10338,13 @@
    28
   ],
   "entries": [
+   "gkd-0110",
    "kcm-0147",
    "ccd-0095"
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm"
   ]
  },
@@ -10395,6 +10405,7 @@
   ],
   "entries": [
    "ccd-0071",
+   "gkd-0111",
    "kcm-0149",
    "kcm-0150",
    "kcm-0151",
@@ -10419,6 +10430,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "gaura-stotras",
    "karnapura-ckm",
    "murari-kcc",
@@ -10807,6 +10819,8 @@
    "ccd-0067",
    "ccd-0068",
    "ccd-0072",
+   "gkd-0101",
+   "gkd-0112",
    "gkr-0104",
    "jcm-0070",
    "jcm-0075",
@@ -10822,6 +10836,7 @@
    "advaita-prakasha",
    "bhaktamal",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "gaura-stotras",
    "govinda-karcha",
    "jayananda-cm",
@@ -20214,6 +20229,184 @@
   ]
  },
  {
+  "id": "ev-bhavananda-raya-pandu",
+  "title": "Бхавананда Рай с сыновьями у Господа: «Ты — Панду»",
+  "title_en": "Bhavananda Raya and his sons with the Lord: \"You are Pandu\"",
+  "period": "P12",
+  "order": 3,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "family"
+  ],
+  "notes": "ЧЧ Мадхья 10: Бхавананда — Панду, его пятеро сыновей — Пандавы; Ванинатха остаётся служить Господу.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0100"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-ramananda-comes-to-puri",
+  "title": "Рамананда Рай приходит в Пури к Господу",
+  "title_en": "Ramananda Raya comes to the Lord in Puri",
+  "period": "P12",
+  "order": 8.5,
+  "cc": "Мадхья 11",
+  "cb": "",
+  "themes": [
+   "separation",
+   "mercy"
+  ],
+  "notes": "ЧЧ Мадхья 11: оставив пост, Рамананда сначала встречается с царём, затем приходит к Господу.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0102"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-govinda-ishvara-puri-servant",
+  "title": "Говинда, слуга Ишвары Пури, приходит к Господу",
+  "title_en": "Govinda, Ishvara Puri's servant, comes to the Lord",
+  "period": "P12",
+  "order": 9,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "ЧЧ Мадхья 10: после ухода Ишвары Пури Говинда по его велению приходит служить Господу; Господь принимает его из уважения к воле гуру. Не путать с ev-govinda-joins-lord (Говинда-кузнец «Кадачи»).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0104"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-svarupa-paramananda-arrive",
+  "title": "Приход в Пури Парамананды Пури, Сварупы Дамодары и других",
+  "title_en": "The arrival in Puri of Paramananda Puri, Svarupa Damodara and others",
+  "period": "P12",
+  "order": 9.5,
+  "cc": "Мадхья 10",
+  "cb": "",
+  "themes": [
+   "family"
+  ],
+  "notes": "ЧЧ Мадхья 10: Парамананда Пури, Сварупа Дамодара, Брахмананда Бхарати, Бхагаван Ачарья и другие приходят к Господу.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0106"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-chandana-yatra-summer",
+  "title": "Чандана-ятра и летние праздники Пури",
+  "title_en": "The Chandana-yatra and the summer festivals of Puri",
+  "period": "P12",
+  "order": 9.8,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "notes": "Известно в подробностях «Гаура-кришнодае» (11.21–27): водные игры Божества с акшая-тритьи, служение с опахалом, «свадьба Рукмини»; Господь пляшет перед процессией.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0105"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-son-embraced",
+  "title": "Господь обнимает сына Пратапарудры, напомнившего Ему Кришну",
+  "title_en": "The Lord embraces Prataparudra's son, who reminded Him of Krishna",
+  "period": "P12",
+  "order": 64,
+  "cc": "Мадхья 12",
+  "cb": "",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "notes": "ЧЧ Мадхья 12.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "gkd-0109"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
   "id": "ev-garuda-stambha-darshan",
   "title": "Господь созерцает Джаганнатху, стоя позади колонны Гаруды",
   "title_en": "The Lord beholds Jagannatha standing behind the Garuda pillar",
@@ -21940,6 +22133,34 @@
   ],
   "entries": [
    "krn-0033"
+  ],
+  "sources": [
+   "karnananda"
+  ]
+ },
+ {
+  "id": "ev-krishnadasa-kaviraja-revived",
+  "title": "Кришнадас Кавираджа, упавший замертво при вести о похищении книг, по повелению Рупы и Санатаны возвращается в тело",
+  "title_en": "Krishnadasa Kaviraja, struck down at the news of the theft of the books, returns to his body at the command of Rupa and Sanatana",
+  "period": "P15",
+  "order": 85.1,
+  "themes": [
+   "departure",
+   "celestial"
+  ],
+  "notes": "«Карнананда» 7 (со слов Шринивасы): согласование «Према-виласы» (смерть Кавираджи от горя) с ЧЧ (Рагхунатха Дас жив при её завершении) и обетом Рагхунатхи умереть на глазах Дживы, Кришнадаса и Локанатхи. Только «Карнананда».",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "krn-0036"
   ],
   "sources": [
    "karnananda"

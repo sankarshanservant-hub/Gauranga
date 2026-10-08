@@ -86817,7 +86817,7 @@
    24,
    24
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0121",
@@ -97370,7 +97370,67 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "gkd-0099",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 1–5",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 2,
+  "title": "Встреча у Алаланатхи; дом Каши Мишры; слуги Джаганнатхи",
+  "summary": "Нитьянанда и преданные встречают Господа у Алаланатхи; Он поселяется в доме Каши Мишры, и слуги Джаганнатхи — Кришнадас с золотым жезлом, Джанардана, писцы Шикхи и Мурари и другие, представленные Сарвабхаумой, принимают у Него прибежище.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@kashi-mishra",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#alalanatha",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 10",
+  "cc": "Мадхья 10",
+  "themes": [
+   "jagannatha",
+   "family"
+  ],
+  "event": "ev-kashi-mishra-residence",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "1",
+    "to": "5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "1",
+    "to": "5",
+    "line": 7,
+    "line_to": 15,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L7-L15",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L7-L15"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 5
  },
  {
   "id": "gkr-0102",
@@ -97430,7 +97490,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0132",
@@ -97490,7 +97550,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "vv-0014",
@@ -97547,7 +97607,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "vv-0043",
@@ -97604,7 +97664,66 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "gkd-0100",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 6–10",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 3,
+  "title": "Бхавананда Рай: «Ты — Панду»",
+  "summary": "Бхавананда Рай с четырьмя сыновьями кланяется Господу; Господь называет его Панду, а пятеро сыновей — Пандавами; Бхавананда оставляет при Господе Ванинатху и возвращается домой.",
+  "persons": [
+   "@mahaprabhu",
+   "@bhavananda-raya",
+   "@ramananda-raya",
+   "@vaninatha-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 10",
+  "cc": "Мадхья 10",
+  "themes": [
+   "mercy",
+   "family"
+  ],
+  "event": "ev-bhavananda-raya-pandu",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "6",
+    "to": "10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "6",
+    "to": "10",
+    "line": 17,
+    "line_to": 27,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L17-L27",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L17-L27"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
  },
  {
   "id": "ccd-0063",
@@ -97845,6 +97964,65 @@
    28
   ],
   "attestation": 5
+ },
+ {
+  "id": "gkd-0103",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 19",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 5,
+  "title": "Весть в Гауду о возвращении Господа",
+  "summary": "Господь посылает Кришнадаса к преданным Гауды, и Адвайта с другими радуются.",
+  "persons": [
+   "@mahaprabhu",
+   "@kala-krishnadasa",
+   "@advaita",
+   "@nityananda"
+  ],
+  "places": [
+   "#puri",
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 10",
+  "cc": "Мадхья 10",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-messenger-to-gauda-after-south",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "19",
+    "to": "19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "19",
+    "to": "19",
+    "line": 47,
+    "line_to": 47,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L47-L47",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L47-L47"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
  },
  {
   "id": "gkr-0103",
@@ -99120,6 +99298,120 @@
   "attestation": 1
  },
  {
+  "id": "gkd-0102",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 15–18",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 8.5,
+  "title": "Рамананда Рай приходит в Пури",
+  "summary": "С войском приходит Рамананда, встречается с царём, затем с Господом в доме Каши Мишры, падает ниц; Господь обнимает его, и он поселяется рядом.",
+  "persons": [
+   "@ramananda-raya",
+   "@prataparudra",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 11",
+  "cc": "Мадхья 11",
+  "themes": [
+   "mercy"
+  ],
+  "event": "ev-ramananda-comes-to-puri",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "15",
+    "to": "18"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "15",
+    "to": "18",
+    "line": 37,
+    "line_to": 45,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L37-L45",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L37-L45"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0104",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 20",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 9,
+  "title": "Говинда, слуга Ишвары Пури",
+  "summary": "После ухода Ишвары Пури его слуга Говинда приходит к Господу, и Господь из уважения к слову гуру оставляет его при Себе.",
+  "persons": [
+   "@mahaprabhu",
+   "@govinda-servant",
+   "@ishvara-puri"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 10",
+  "cc": "Мадхья 10",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-govinda-ishvara-puri-servant",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "20",
+    "to": "20"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "20",
+    "to": "20",
+    "line": 49,
+    "line_to": 49,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L49-L49",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L49-L49"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0076",
   "source": "jayananda-cm",
   "ref": "Пракаша-кханда (рукописи «Джаганнатха-мангала» № 203–204, Калькутт. ун-т № 554, № 553, Аз. об-во № 183)",
@@ -99504,6 +99796,65 @@
   "attestation": 1
  },
  {
+  "id": "gkd-0106",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 28–29",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 9.5,
+  "title": "Приход Парамананды Пури, Сварупы Дамодары и других",
+  "summary": "Перед Снана-ятрой приходят Парамананда Пури с Камаланандой, Сварупа Дамодара, Брахмананда Бхарати, Бхагаван и Рамабхадра Ачарьи; Господь почитает их.",
+  "persons": [
+   "@mahaprabhu",
+   "@paramananda-puri",
+   "@svarupa-damodara",
+   "@brahmananda-bharati"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 10",
+  "cc": "Мадхья 10",
+  "themes": [
+   "family"
+  ],
+  "divergence": "По ЧЧ — до прихода бенгальцев и ранее Снана-ятры; Парамананда «послан Шачи».",
+  "event": "ev-svarupa-paramananda-arrive",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "28",
+    "to": "29"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "28",
+    "to": "29",
+    "line": 67,
+    "line_to": 69,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L67-L69",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L67-L69"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0074",
   "source": "jayananda-cm",
   "ref": "Пракаша-кханда: «Упрёк Раю Рамананде», «Самораскрытие» (цитаты)",
@@ -99583,6 +99934,64 @@
   "attestation": 11
  },
  {
+  "id": "gkd-0105",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 21–27",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 9.8,
+  "title": "Чандана-ятра и летние праздники",
+  "summary": "С акшая-тритьи Господь участвует в водных играх Божества на озере и пляшет перед процессией, видит служение с опахалом, помазание и свадьбу Рукмини; описание палящего лета, когда Джаганнатха желает омовения.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#narendra-sarovara"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ (упоминания)",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "divergence": "Подробности обрядов — только у Говинды-девы.",
+  "event": "ev-chandana-yatra-summer",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "21",
+    "to": "27"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "21",
+    "to": "27",
+    "line": 51,
+    "line_to": 65,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L51-L65",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L51-L65"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkr-0106",
   "source": "govinda-karcha",
   "ref": "Часть 12, 2467–2473",
@@ -99641,7 +100050,7 @@
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "apr-0093",
@@ -99757,7 +100166,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "ccd-0069",
@@ -99836,7 +100245,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "ccd-0070",
@@ -99906,7 +100315,72 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "gkd-0108",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 35–41",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 20,
+  "title": "Бенгальские преданные приходят в Пури; царь смотрит с крыши",
+  "summary": "Сарвабхаума просит у царя жилищ для бенгальцев; царь с Гопинатхой поднимается на крышу, и тот называет ему Адвайту, Харидаса, Гангадаса, Вакрешвару и других; преданные, не заходя в храм, падают к ногам Господа; Он принимает их и поёт с ними киртан.",
+  "persons": [
+   "@prataparudra",
+   "@gopinatha-acharya",
+   "@sarvabhauma",
+   "@advaita",
+   "@haridasa-thakura",
+   "@gangadasa-pandita",
+   "@vakreshvara",
+   "@govinda-servant",
+   "@damodara-pandita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 11",
+  "cc": "Мадхья 11",
+  "themes": [
+   "kirtan",
+   "family"
+  ],
+  "event": "ev-gauda-devotees-arrive-puri",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "35",
+    "to": "41"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "35",
+    "to": "41",
+    "line": 83,
+    "line_to": 95,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L83-L95",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L83-L95"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 5
  },
  {
   "id": "kcm-0139",
@@ -99963,7 +100437,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0140",
@@ -100028,7 +100502,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0142",
@@ -100088,7 +100562,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0143",
@@ -100144,7 +100618,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0144",
@@ -100206,7 +100680,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0235",
@@ -100306,7 +100780,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0141",
@@ -100431,7 +100905,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0095",
@@ -100683,7 +101157,7 @@
    26,
    28
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0239",
@@ -100816,6 +101290,69 @@
   "attestation": 1
  },
  {
+  "id": "gkd-0107",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 30–34",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 60,
+  "title": "Снана-ятра; Господь пляшет перед Джаганнатхой в облике слона; анавасара",
+  "summary": "Рамананда и Сарвабхаума ходатайствуют за царя; царь видит омовение Дару-брахмана из ста кувшинов; Господь в киртане пляшет перед Джаганнатхой в хати-веше; когда Божества скрываются на время анавасары, Господь уходит к Алаланатхе.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@ramananda-raya",
+   "@sarvabhauma",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#alalanatha"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 11",
+  "cc": "Мадхья 11",
+  "calendar": "джьяиштха-пурнима",
+  "themes": [
+   "festival",
+   "jagannatha",
+   "kirtan"
+  ],
+  "event": "ev-snana-yatra-anavasara-alalanatha",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "30",
+    "to": "34"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "30",
+    "to": "34",
+    "line": 71,
+    "line_to": 81,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L71-L81",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L71-L81"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
+ },
+ {
   "id": "kcm-0130",
   "source": "karnapura-ckm",
   "ref": "Сарга 13, 50–59",
@@ -100870,7 +101407,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0145",
@@ -100927,7 +101464,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0146",
@@ -100987,7 +101524,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0148",
@@ -101043,7 +101580,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "mkc-0241",
@@ -101106,7 +101643,7 @@
    26,
    28
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "kcm-0131",
@@ -101166,6 +101703,126 @@
   "attestation": 1
  },
  {
+  "id": "gkd-0109",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 41–43",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 64,
+  "title": "Господь обнимает сына Пратапарудры",
+  "summary": "Царь посылает Сарвабхауму умолить Господа; Сарвабхаума с Нитьянандой и Раманандой приводят царского сына, тёмного юношу; Господь, вспомнив Кришну, обнимает его и с тех пор ласков к нему.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@sarvabhauma",
+   "@nityananda",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 12",
+  "cc": "Мадхья 12",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "event": "ev-prataparudra-son-embraced",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "41",
+    "to": "43"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "41",
+    "to": "43",
+    "line": 95,
+    "line_to": 101,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L95-L101",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L95-L101"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "gkd-0110",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 44–47",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 65,
+  "title": "Нетротсава и уборка Гундичи",
+  "summary": "По окончании анавасары — «праздник глаз»; колесницы снаряжены; Господь с преданными метёт и моет храм Гундичи, выбрасывает сор, играет в озере Индрадьюмны и вкушает прасад.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 12",
+  "cc": "Мадхья 12",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "event": "ev-gundicha-marjana",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "44",
+    "to": "47"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "44",
+    "to": "47",
+    "line": 103,
+    "line_to": 109,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L103-L109",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L103-L109"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
   "id": "kcm-0147",
   "source": "karnapura-ckm",
   "ref": "Сарга 15, 12–70",
@@ -101221,7 +101878,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "ccd-0071",
@@ -101282,7 +101939,72 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
+ },
+ {
+  "id": "gkd-0111",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 48–59",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 70,
+  "title": "Ратха-ятра: царь метёт колесницы; тандава Господа",
+  "summary": "Джаганнатху, Балараму и Субхадру поднимают на колесницы; царь метёт их и окропляет сандаловой водой; Господь с семью группами киртана пляшет великую тандаву с экстатическими признаками; колесница стоит, пока Он лежит на земле; царь падает к Его стопам, Господь обнимает его в экстазе, а очнувшись, укоряет Себя; у брахманского селения Джаганнатхе подносят угощения.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@jagannatha-deity",
+   "@balarama",
+   "@subhadra"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 13–14",
+  "cc": "Мадхья 13",
+  "themes": [
+   "festival",
+   "jagannatha",
+   "ecstasy",
+   "kirtan"
+  ],
+  "divergence": "Объятие царя у колесницы (у Говинды-девы — в экстазе, по ЧЧ царь подхватил падающего Господа).",
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "48",
+    "to": "59"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "48",
+    "to": "59",
+    "line": 111,
+    "line_to": 135,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L111-L135",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L111-L135"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 7
  },
  {
   "id": "kcm-0149",
@@ -101339,7 +102061,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0150",
@@ -101397,7 +102119,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0151",
@@ -101459,7 +102181,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0152",
@@ -101519,7 +102241,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0153",
@@ -101582,7 +102304,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0154",
@@ -101638,7 +102360,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0155",
@@ -101692,7 +102414,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0157",
@@ -101749,7 +102471,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0158",
@@ -101805,7 +102527,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0159",
@@ -101862,7 +102584,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0160",
@@ -101919,7 +102641,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "mkc-0242",
@@ -102005,7 +102727,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gst-0021",
@@ -102064,7 +102786,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0305",
@@ -102125,7 +102847,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0306",
@@ -102190,7 +102912,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0307",
@@ -102252,7 +102974,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "pad-0308",
@@ -102314,7 +103036,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0163",
@@ -106764,7 +107486,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "bkm-0014",
@@ -106822,7 +107544,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "ccd-0067",
@@ -106885,7 +107607,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "ccd-0068",
@@ -106942,7 +107664,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "ccd-0072",
@@ -107004,7 +107726,126 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
+ },
+ {
+  "id": "gkd-0101",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 11–14",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 300,
+  "title": "Пратапарудра ищет милости Господа; совет Сарвабхаумы",
+  "summary": "Гаджапати приходит в Пури, созерцает Джаганнатху и спрашивает Сарвабхауму, будет ли ему милость; тот отвечает, что Господь не видится с царями, и советует на Гундича-ятре, распевая «Кришна», обнять Его стопы.",
+  "persons": [
+   "@prataparudra",
+   "@sarvabhauma",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 11",
+  "cc": "Мадхья 11",
+  "themes": [
+   "mercy",
+   "jagannatha"
+  ],
+  "event": "ev-prataparudra-mercy",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "11",
+    "to": "14"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "11",
+    "to": "14",
+    "line": 29,
+    "line_to": 35,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L29-L35",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L29-L35"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 11
+ },
+ {
+  "id": "gkd-0112",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 11, 60–62",
+  "file": "gaura-krishnodaya/ru/11.md",
+  "period": "P12",
+  "order": 300,
+  "title": "Пратапарудра читает «Гопи-гиту» и обретает объятие Господа",
+  "summary": "В тенистом саду, после прасада, переодетый царь припадает к стопам Господа и читает стихи гопи в разлуке; Господь, восклицая «Читай ещё!», обнимает его.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@vaninatha-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 14",
+  "cc": "Мадхья 14",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "event": "ev-prataparudra-mercy",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "60",
+    "to": "62"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/11.md",
+    "from": "60",
+    "to": "62",
+    "line": 139,
+    "line_to": 143,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/11.md?plain=1#L139-L143",
+    "file_en": "gaura-krishnodaya/en/11.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L139-L143"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 11
  },
  {
   "id": "gkr-0104",
@@ -107065,7 +107906,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "jcm-0070",
@@ -107123,7 +107964,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "jcm-0075",
@@ -107197,7 +108038,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "kcm-0133",
@@ -107253,7 +108094,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "lcm-0248",
@@ -107325,7 +108166,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "mkc-0233",
@@ -107390,7 +108231,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "vv-0026",
@@ -107448,7 +108289,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "vv-0054",
@@ -107505,7 +108346,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "gst-0018",
@@ -107565,7 +108406,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "pad-0022",
@@ -107695,7 +108536,7 @@
    26,
    28
   ],
-  "attestation": 10
+  "attestation": 11
  },
  {
   "id": "jcm-0082",
@@ -119115,7 +119956,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "apr-0120",
@@ -119193,7 +120034,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "apr-0121",
@@ -121792,7 +122633,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "ccd-0094",
@@ -121856,7 +122697,7 @@
    30,
    47
   ],
-  "attestation": 3
+  "attestation": 4
  },
  {
   "id": "ccd-0095",
@@ -121916,7 +122757,7 @@
    30,
    47
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "ccd-0096",
@@ -121985,7 +122826,7 @@
    30,
    47
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "ccd-0097",
@@ -136910,6 +137751,74 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/13.md?plain=1#L374-L440",
     "file_en": "prema-vilasa/en/13.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/13.md?plain=1#L374-L440"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0036",
+  "source": "karnananda",
+  "ref": "Нирьяса 7, 31–79",
+  "file": "karnananda/ru/07.md",
+  "period": "P15",
+  "order": 85.1,
+  "title": "Ответ Шринивасы: Кавираджа, упав без чувств от горя, по повелению Рупы и Санатаны и небесному голосу вернулся в тело, чтобы служить Рагхунатхе",
+  "summary": "Рагхунатха, почти слепой от разлуки с Рупой, связан обетом умереть у Радха-кунды на глазах Дживы, Кришнадаса и Локанатхи; при вести о похищении книг Кавираджа в горе как бы обрёл сиддха-деху (оставил тело), но Рупа и Санатана явились и сказали: книги найдутся, это повеление Махапрабху вручить их Шринивасу, служи ещё Рагхунатхе; небесный голос подтвердил, и Кавираджа очнулся — как Махапрабху, очнувшийся от имени Хари после водных игр (Антья 18); «Према-виласа» не досказала конца. Шринивас хвалит Рамачандру: «ты — моя жизнь».",
+  "persons": [
+   "@srinivasa-acharya",
+   "@ramachandra-kaviraja",
+   "@krishnadasa-kaviraja",
+   "@raghunatha-dasa",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@jiva-gosvami",
+   "@lokanatha",
+   "@mahaprabhu",
+   "@svarupa-damodara"
+  ],
+  "places": [
+   "#radha-kunda"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "divergence": "По «Према-виласе» (13) Кавираджа умер от горя; «Карнананда» утверждает, что он вернулся в тело, — попытка согласовать ПВ с ЧЧ.",
+  "scriptures": [
+   "Сва-нияма-дашака 9",
+   "ЧЧ Антья 18"
+  ],
+  "themes": [
+   "departure",
+   "celestial"
+  ],
+  "event": "ev-krishnadasa-kaviraja-revived",
+  "verses": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "31",
+    "to": "79"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "31",
+    "to": "79",
+    "line": 95,
+    "line_to": 240,
+    "count": 49,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/07.md?plain=1#L95-L240",
+    "file_en": "karnananda/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/07.md?plain=1#L95-L240"
    }
   ],
   "years": [
@@ -157917,6 +158826,97 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/nityananda-vamsha/ru/10.md?plain=1#L1128-L1175",
     "file_en": "nityananda-vamsha/en/10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/nityananda-vamsha/en/10.md?plain=1#L1128-L1175"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0035",
+  "source": "karnananda",
+  "ref": "Нирьяса 7, 1–30",
+  "file": "karnananda/ru/07.md",
+  "period": "PX",
+  "order": 26,
+  "title": "Сомнение автора: «Према-виласа» о смерти Кавираджи и Рагхунатхи Даса против свидетельства самой ЧЧ",
+  "summary": "Хемалата, довольная книгой, позволяет задать вопрос; автор указывает: по «Према-виласе», Кришнадас Кавираджа умер от горя, бросившись в Кунду при вести о похищении книг, а Рагхунатха Дас ушёл ещё раньше, — но Кавираджа в ЧЧ благословляет живого Рагхунатху; Хемалата отвечает словами Шринивасы Рамачандре.",
+  "persons": [
+   "@yadunandana-dasa-author",
+   "@hemalata",
+   "@krishnadasa-kaviraja",
+   "@raghunatha-dasa",
+   "@nityananda-dasa-author",
+   "@jahnava",
+   "@srinivasa-acharya",
+   "@ramachandra-kaviraja"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "1",
+    "to": "30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "1",
+    "to": "30",
+    "line": 5,
+    "line_to": 92,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/07.md?plain=1#L5-L92",
+    "file_en": "karnananda/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/07.md?plain=1#L5-L92"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "krn-0037",
+  "source": "karnananda",
+  "ref": "Нирьяса 7, 80–92 и колофоны",
+  "file": "karnananda/ru/07.md",
+  "period": "PX",
+  "order": 27,
+  "title": "Заключение книги: сомнение рассеяно; молитвы автора; колофон «Карнананды» (Ядунандана Дас, вайдья из Малихати)",
+  "summary": "Автор благодарит Хемалату, молит сообщество Шринивасы и Махапрабху со спутниками о милости; колофон называет автора — Ядунандана Дас Тхакур, вайдья из Малихати.",
+  "persons": [
+   "@yadunandana-dasa-author",
+   "@hemalata",
+   "@srinivasa-acharya",
+   "@mahaprabhu",
+   "@rupa-gosvami"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "C",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "80",
+    "to": "92"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnananda/ru/07.md",
+    "from": "80",
+    "to": "92",
+    "line": 243,
+    "line_to": 279,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/ru/07.md?plain=1#L243-L279",
+    "file_en": "karnananda/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnananda/en/07.md?plain=1#L243-L279"
    }
   ],
   "attestation": 1
