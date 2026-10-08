@@ -11,7 +11,8 @@
      теги; перед добавлением — `git pull` и проверить, не завёл ли тот же тег другой исполнитель).
 2. **Сгенерированное не коммитить:** перед коммитом `git checkout -- lila-db/TIMELINE.md lila-db/EVENTS.md lila-db/export`
    (их пересобирает координатор).
-3. **Коммит:** `git add <только свои файлы>`; `git commit`; затем
+3. **Коммит:** индекс git общий у всех исполнителей, поэтому коммитить **только с перечнем файлов**:
+   `git add <свои файлы> && git commit -m "…" -- <свои файлы>` (без `-- <файлы>` в коммит попадёт чужое из общего индекса); затем
    `git pull -q --rebase --autostash origin claude/book-translation-tesseract-bengali-yaygag && git push -q -u origin claude/book-translation-tesseract-bengali-yaygag`.
    При конфликте в `PERSONS.md`/`PLACES.md`/`SOURCES.md` — оставить обе части (свои строки и чужие), без потерь.
    Push упал — повторить pull+push (до 4 раз с паузами 2, 4, 8, 16 с).
