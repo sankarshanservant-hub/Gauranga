@@ -359,3 +359,7 @@
 | @raghava-gosvami-govardhana | Рагхава Пандит (Госвами) с Говардханы | Raghava Pandita (Gosvami) of Govardhana | южанин, жил на Говардхане; спутник Нароттамы и Шринивасы в обходе Враджа; не путать с @raghava-pandita |
 | @gopinatha-deity-vrindavana | Гопинатха — Божество во Вриндаване | Gopinatha, the Deity of Vrindavana | Радха-Гопинатха; служитель — Мадху Пандит; не путать с @gopinatha-deity-puri |
 | @radha-damodara-deity | Радха-Дамодара — Божество Дживы Госвами | Radha-Damodara, Jiva Gosvami's Deity | Вриндаван; там же самадхи Рупы Госвами |
+| @venkata-bhatta | Венката Бхатта | Venkata Bhatta | брахман-шривайшнав из Шрирангама, у которого Господь провёл чатурмасью (ЧЧ Мадхья 9); по БР — отец Гопалы Бхатты, брат Трималлы и Прабодхананды |
+| @chiranjiva-sena | Чиранджива Сена | Chiranjiva Sena | из Кумаранагара, жил в Шрикханде; спутник Господа (ЧЧ Мадхья 11.92); отец Рамачандры и Говинды Кавираджей |
+| @damodara-sena-kavi | Дамодара Сена, поэт (Дамодара Кавираджа) | Damodara Sena, the poet (Damodara Kaviraja) | из Шрикханды; дед Рамачандры и Говинды Кавираджей по матери; не путать с @damodara-pandita |
+| @sunanda-mother-ramachandra | Сунанда | Sunanda | дочь Дамодары Сены, жена Чирандживы, мать Рамачандры и Говинды Кавираджей |

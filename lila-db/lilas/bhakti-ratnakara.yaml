@@ -1,0 +1,202 @@
+# Нарахари Чакраварти, «Бхакти-ратнакара» — лилы в порядке изложения (формат — ../README.md).
+# Перевод — bhakti-ratnakara/ru|en/NN.md (NN — таранга); метки стихов — **N.** по нумерации изд. Гаудия-миссии 1960
+# (см. bhakti-ratnakara/TASK.md). Источник уровня B (поздний, XVIII в., но принят традицией); рассказы о времени
+# Махапрабху — пересказ ЧЧ/ЧБ и преданий. Основная часть книги — P15 (после ухода Господа).
+# Записи добавлять в конец, по порядку изложения.
+
+- id: brt-0001
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 1–79"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: PX
+  order: 30
+  title: "Мангалачарана: шлоки Гауре, Гопале Бхатте и Шринивасу; прославление Господа и Его спутников; о вечности игр"
+  summary: "Пять санскритских шлок (Гаурахари, Гопала Бхатта, Шриниваса, его ветви, книга); слава Господу и длинный перечень спутников; шесть обликов Кришны (ЧЧ Ади 1.1); три части игр (как в ЧБ); Навадвипа и Вриндаван едины, игры вечны в явленной и неявленной форме; различия рассказов — от различия кальп; воля преданного сильнее воли Господа."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@gopala-bhatta", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda"]
+  places: ["#navadvipa", "#vrindavana"]
+  kind: author
+  authority: B
+  themes: [author]
+  scriptures: ["ЧЧ Ади 1.1"]
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "1", to: "79"}
+
+- id: brt-0002
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 80–98"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P11
+  order: 50
+  title: "Господь в доме Венкаты Бхатты; юный Гопала служит Ему"
+  summary: "Венката, Трималла и Прабодхананда, прежде поклонявшиеся Лакшми-Нараяне, по милости Господа обращаются к расе Радхи и Кришны; Господь четыре месяца живёт у Венкаты, тот с семьёй пьёт воду с Его стоп (ЧЧ Мадхья 9.82–83); сын Венкаты Гопала в экстазе и по велению отца служит Господу."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@trimalla-bhatta", "@prabodhananda-sarasvati", "@gopala-bhatta"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9; Мурари 3.15"
+  notes: "Нарахари сам отмечает, что ЧЧ не называет здесь Гопалу; отец Гопалы у него — Венката (у Мурари — Трималла)."
+  themes: [pilgrimage, mercy]
+  scriptures: ["ЧЧ Мадхья 9.82–83"]
+  divergence: "У Мурари Гупты Гопала — сын Трималлы; здесь — Венкаты."
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "80", to: "98"}
+
+- id: brt-0003
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 99–124"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P11
+  order: 52
+  title: "Плач Гопалы о санньясе Господа и сон-видение: Шьяма-пастушок, Гаура, санньяси"
+  summary: "Гопала скорбит, что родился далеко и не видел игр в Надии; во сне видит Навадвипу, Нитьянанду и Адвайту, затем Господа — темноликим пастушком, золотым и вновь санньяси; Господь велит ему идти во Вриндаван к Рупе и Санатане, предрекает, что через его ученика их учение распространится, и просит хранить это в тайне."
+  persons: ["@gopala-bhatta", "@mahaprabhu", "@nityananda", "@advaita", "@krishna", "@rupa-gosvami", "@sanatana-gosvami", "@srinivasa-acharya"]
+  places: ["#ranga-kshetra", "#navadvipa"]
+  kind: vision
+  authority: B
+  themes: [revelation]
+  bhava: [krishna]
+  event: ev-gopala-bhatta-dream-vision
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "99", to: "124"}
+
+- id: brt-0004
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 125–143"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P11
+  order: 54
+  title: "Венката вручает Гопалу Господу; скорбь трёх братьев при прощании"
+  summary: "Венката отдаёт сына стопам Гаурачандры; через четыре месяца Господь уходит, Трималла, Венката и Прабодхананда плачут («кто поведёт нас купаться в Кавери, кто будет петь перед Ранганатхой?»); Господь утешает их и обещает Гопале скорое исполнение желания; далее кратко — Юг, Нилачала, Гауда, Вриндаван."
+  persons: ["@venkata-bhatta", "@trimalla-bhatta", "@prabodhananda-sarasvati", "@gopala-bhatta", "@mahaprabhu", "@ranganatha-deity"]
+  places: ["#ranga-kshetra", "#kaveri", "#puri"]
+  kind: lila
+  authority: B
+  themes: [separation]
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "125", to: "143"}
+
+- id: brt-0005
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 144–166"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 95.5
+  title: "Учёность Гопалы Бхатты; Прабодхананда; уход родителей и приход Гопалы во Вриндаван"
+  summary: "Гопала опровергает майяваду; его учил дядя Прабодхананда, поэт и музыкант («Хари-бхакти-виласа» 1.2 называет Гопалу его учеником); Венката рассказывает брахману о детстве сына; родители, отпустив Гопалу во Вриндаван, оставляют мир; Гопала встречает Рупу и Санатану, и Господь в Нилачале тотчас узнаёт об этом."
+  persons: ["@gopala-bhatta", "@prabodhananda-sarasvati", "@venkata-bhatta", "@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu"]
+  places: ["#ranga-kshetra", "#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [learning]
+  scriptures: ["ХБВ 1.2"]
+  event: ev-hari-bhakti-vilasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "144", to: "166"}
+
+- id: brt-0006
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 167–195"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 96
+  title: "В доме Гададхары Господь получает письмо о Гопале и посылает ему Свои шнур, каупину и одежду"
+  summary: "Господь приходит к Гададхаре (служителю Гопинатхи) и хочет послать письмо во Врадж — и тут приходит письмо Рупы и Санатаны о приходе Гопалы; Господь рассказывает о жизни в доме Венкаты, пишет Рупе и Санатане считать Гопалу братом, предсказывает распространение их книг через того, кто уже родился, и посылает Свой шнур, каупину и верхнюю одежду."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@srinivasa-acharya"]
+  places: ["#puri", "#house-kashi-mishra", "#tota", "#vrindavana"]
+  kind: lila
+  authority: B
+  divergence: "В «Према-виласе» (1) Господь посылает пояс-шнур и сиденье."
+  themes: [mercy, revelation]
+  event: ev-lord-sends-seat-gopala-bhatta
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "167", to: "195"}
+
+- id: brt-0007
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 196–198"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P14
+  order: 95.8
+  title: "Санатана составляет «Хари-бхакти-виласу» от имени Гопалы Бхатты"
+  summary: "Гопала пожелал составить вайшнавскую смрити, и Санатана, узнав об этом, написал «Хари-бхакти-виласу» от его имени."
+  persons: ["@sanatana-gosvami", "@gopala-bhatta", "@rupa-gosvami"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: B
+  themes: [learning]
+  event: ev-hari-bhakti-vilasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "196", to: "198"}
+
+- id: brt-0008
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 199–208"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 16.5
+  title: "Гопала Бхатта получает служение Радха-рамане (кратко)"
+  summary: "Гопала желает служить Божеству; Говинда во сне велит Рупе, и Рупа поручает Гопале служение Радха-рамане; шлока древних: «единственная жизнь Гопалы — Радха-рамана»."
+  persons: ["@gopala-bhatta", "@govinda-deity", "@rupa-gosvami", "@radha-ramana-deity"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: B
+  notes: "Упоминание; подробности автор обещает дальше."
+  divergence: "По распространённому преданию, Радха-рамана явился из шалаграма Гопалы; здесь служение поручено Рупой по повелению Говинды во сне."
+  themes: [deities]
+  event: ev-radha-ramana-appearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "199", to: "208"}
+
+- id: brt-0009
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 209–221"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: PX
+  order: 31
+  title: "Автор о молчании прежних поэтов: Вриндаван Дас и Кришнадас Кавираджа оставили места для будущих"
+  summary: "Прежние поэты сознательно не описали всего, оставив это последующим, как гуру оставляет остатки ученику: Вриндаван Дас (сам Вьяса) не описал странствия по Югу, Кришнадас Кавираджа описал его; спорить об этом — оскорбление."
+  persons: ["@narahari-chakravarti", "@vrindavana-dasa", "@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "209", to: "221"}
+
+- id: brt-0010
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 222–229"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 40
+  title: "Гопала Бхатта и Локанатха запрещают Кришнадасу Кавирадже писать о себе"
+  summary: "Гопала Бхатта, считая себя ничтожным, позволил Кришнадасу писать книгу, но запретил упоминать о себе, и Кавираджа назвал лишь его имя; то же повелел Локанатха (по словам старых вайшнавов); Гопала написал комментарий к «Кришна-карнамрите»."
+  persons: ["@gopala-bhatta", "@krishnadasa-kaviraja", "@lokanatha"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [learning]
+  teaching: [vaishnava]
+  event: ev-lokanatha-forbids-mention
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "222", to: "229"}
+
+- id: brt-0011
+  source: bhakti-ratnakara
+  ref: "Таранга 1, 230–236"
+  file: "bhakti-ratnakara/ru/01.md"
+  period: P15
+  order: 68
+  title: "Шриниваса — ученик Гопалы Бхатты и вторая шакти Господа (кратко)"
+  summary: "Шриниваса становится учеником Гопалы Бхатты и по повелению Господа приносит книги в Гауду; шлока Нароттамы о двух шакти — Рупе и других, являющих книги, и Шринивасе, распространяющем их; ученики Шринивасы Рамачандра, Гокула и другие."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@narottama-dasa", "@rupa-gosvami", "@ramachandra-kaviraja"]
+  places: ["#vrindavana", "#gauda"]
+  kind: post-advent
+  authority: B
+  notes: "Упоминание (сутра); подробно — в тарангах 4–7."
+  themes: [learning, mercy]
+  event: ev-srinivasa-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/01.md", from: "230", to: "236"}
