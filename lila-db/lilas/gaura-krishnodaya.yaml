@@ -1476,3 +1476,164 @@
   event: ev-departure-for-south
   verses:
     - {file: "gaura-krishnodaya/ru/08.md", from: "57", to: "61"}
+
+- id: gkd-0076
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 1–2"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 25
+  title: "Путь на юг: према передаётся всем, кто видит Господа"
+  summary: "В одной каупине, с сосудом для воды, Господь идёт на юг с Кришнадасом, повторяя «Кришна! Ачьюта!»; всякий, кто видит, слышит, касается Его или подаёт Ему милостыню, заражается премой."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 7"
+  cc: "Мадхья 7"
+  themes: [pilgrimage, mercy]
+  teaching: [holy-name]
+  event: ev-south-conversions
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "1", to: "2"}
+
+- id: gkd-0077
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 3–12"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 10
+  title: "Курма-кшетра: Курма и исцеление прокажённого Васудевы"
+  summary: "Брахман Курма принимает Господа и хочет идти с Ним; Господь не позволяет. Прокажённый Васудева приходит, когда Господь уже ушёл, и рыдает; Господь является снова, обнимает его, и тело Васудевы становится прекрасным."
+  persons: ["@mahaprabhu", "@kurma-vipra", "@vasudeva-vipra"]
+  places: ["#kurma-kshetra"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 7"
+  cc: "Мадхья 7"
+  themes: [mercy, pilgrimage]
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "3", to: "12"}
+
+- id: gkd-0078
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 13"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 20
+  title: "У Нрисимхи"
+  summary: "Господь поклоняется Нрисимхе со слезами и дрожью и проводит ночь в доме брахмана."
+  persons: ["@mahaprabhu", "@jiyada-nrisimha"]
+  places: ["#simhachala"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 8"
+  cc: "Мадхья 8"
+  themes: [deities, pilgrimage]
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "13", to: "13"}
+
+- id: gkd-0079
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 14–39"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 30
+  title: "Встреча с Раманандой Раем и беседа о расах"
+  summary: "На Годавари правитель Рамананда встречает Господа, и они обнимаются; вечером начинается беседа: варнашрама, предание плодов, бхакти со знанием — «внешнее»; затем према и пять рас, расы Враджи, учение о Кришне, Его энергиях, хладини, махабхаве и Радхе, путь раги. Господь являет ему единый облик Расараджи и Махабхавы."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma", "@krishna", "@radha"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 8"
+  cc: "Мадхья 8"
+  themes: [teaching, revelation]
+  bhava: [radha]
+  teaching: [prema, bhakti-supremacy, gaura-tattva]
+  divergence: "Беседа сжата; Рамананда — «Рамараджа», правитель Видьянагары."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "14", to: "39"}
+
+- id: gkd-0080
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 40–45"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 35
+  title: "Брахман-почитатель Рамы повторяет имя Кришны"
+  summary: "Пройдя Малликарджуну, Ахобалу и Сиддхавату, Господь гостит у брахмана, преданного Раме, который с тех пор, как увидел Его, непрестанно повторяет имя Кришны: имена одного значения, но имя Кришны похитило его ум и язык."
+  persons: ["@mahaprabhu", "@rama"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching]
+  teaching: [holy-name]
+  event: ev-rama-name-to-krishna-name
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "40", to: "45"}
+
+- id: gkd-0081
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 46–51"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 46.5
+  title: "Победа над буддистами; птица уносит нечистую пищу"
+  summary: "В Вриддха-Каши Господь обращает пандитов; глава буддистов спорит с Ним и побеждён; буддисты подносят нечистую пищу как прасад, птица уносит блюдо и бросает его на голову их учителя; по слову Господа ему кричат «Кришна!», и он, очнувшись, становится вайшнавом."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [teaching, mercy]
+  teaching: [holy-name]
+  notes: "Включает и событие ev-bird-snatches-impure-food."
+  event: ev-debate-buddhists
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "46", to: "51"}
+
+- id: gkd-0082
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 52–55"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 47
+  title: "Тирупати, Канчи, Калахасти; Амрита-линга обнимает Господа"
+  summary: "Господь видит Раму в Трипади, Венкатешвару в Трималле, Пана-Нрисимху, Шиваканчи и Вишнуканчи, Калахасти и Ади-Вараху; в Госамадже линга Шивы выходит и обнимает Его, и множество шиваитов становятся вайшнавами."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#tirupati", "#kanchi", "#vishnu-kanchi"]
+  kind: miracle
+  authority: C
+  parallels: "ЧЧ Мадхья 9 (святыни)"
+  cc: "Мадхья 9"
+  themes: [pilgrimage, deities]
+  divergence: "Эпизод с Амрита-лингой — только у Говинды-девы."
+  notes: "Понижено до C: поздняя местная легенда, нет у ЧЧ и других ранних источников."
+  event: ev-amrita-linga-gosamaja
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "52", to: "55"}
+
+- id: gkd-0083
+  source: gaura-krishnodaya
+  ref: "Сарга 9, 56–57"
+  file: "gaura-krishnodaya/ru/09.md"
+  period: P11
+  order: 50
+  title: "Шрирангам: чатурмасья у Венкаты Бхатты"
+  summary: "Господь в изумлении стоит перед Ранганатхой, спящим на Шеше; Венката Бхатта приводит Его к себе, и Господь проводит у него четыре месяца дождей, каждый день омываясь в Кавери."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@ranganatha-deity"]
+  places: ["#ranga-kshetra", "#kaveri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 9"
+  cc: "Мадхья 9"
+  themes: [deities, pilgrimage]
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "gaura-krishnodaya/ru/09.md", from: "56", to: "57"}
