@@ -1,0 +1,42 @@
+# События, заведённые при внесении «Нароттама-виласы» Нарахари Чакраварти (формат — README.md, раздел «События»).
+# Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-lokanatha-searches-lord
+  title: "Локанатха ищет Господа: из Вриндавана на юг и обратно"
+  title_en: "Lokanatha searches for the Lord: from Vrindavana to the south and back"
+  period: P13
+  order: 30.1
+  themes: [separation, pilgrimage]
+  notes: "«Нароттама-виласа» 1: Локанатха всякий раз разминулся с Господом."
+
+- id: ev-lokanatha-dream-narottama-prophecy
+  title: "Господь во сне велит Локанатхе остаться во Вриндаване и предсказывает ученика Нароттаму"
+  title_en: "In a dream the Lord tells Lokanatha to stay in Vrindavana and foretells his disciple Narottama"
+  period: P13
+  order: 30.2
+  themes: [celestial, separation]
+  notes: "«Нароттама-виласа» 1: когда Господь ушёл из Вриндавана в Праягу."
+
+- id: ev-lokanatha-life-vrindavana
+  title: "Локанатха во Вриндаване с Госвами; дружба с Бхугарбхой; Радха-винода"
+  title_en: "Lokanatha in Vrindavana with the Gosvamis; friendship with Bhugarbha; Radha-vinoda"
+  period: P14
+  order: 96.5
+  themes: [deities, krishna-lila]
+  notes: "«Нароттама-виласа» 1; обретение Радха-винода — БР 2."
+
+- id: ev-lokanatha-forbids-mention
+  title: "Локанатха и Гопала Бхатта запрещают Кришнадасу Кавирадже писать о себе"
+  title_en: "Lokanatha and Gopala Bhatta forbid Krishnadasa Kaviraja to write about them"
+  period: P15
+  order: 40
+  themes: [author]
+  notes: "«Нароттама-виласа» 1; ср. ЧЧ."
+
+- id: ev-lord-calls-narottama-ramakeli
+  title: "Господь в Рамакели в киртане зовёт по имени будущего Нароттаму"
+  title_en: "In Ramakeli the Lord in kirtan calls the name of the future Narottama"
+  period: P13
+  order: 12.2
+  themes: [ecstasy, kirtan]
+  notes: "«Нароттама-виласа» 1: глядя в сторону Кхетури; там же упомянуто, что в Нилачале Господь плакал, называя Шринивасу. Ср. ev-prema-left-in-padma (ПВ)."

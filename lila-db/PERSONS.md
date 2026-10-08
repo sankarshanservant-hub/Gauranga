@@ -348,3 +348,7 @@
 | @bhavananda-raya | Бхавананда Рай | Bhavananda Raya | отец Рамананды Рая и Ванинатхи; Господь назвал его Панду |
 | @bhagavan-acharya | Бхагаван Ачарья | Bhagavan Acharya | учёный преданный в Пури, брат Гопалы Бхаттачарьи |
 | @kamalananda | Камалананда | Kamalananda | бенгальский слуга Господа, позднее живший в Пури (ЧЧ Ади 10.149) |
+| @sita-lokanatha | Сита (мать Локанатхи) | Sita (Lokanatha's mother) | жена Падманабхи Чакраварти из Талкхари; не путать с @sita-thakurani |
+| @subuddhi-raya | Субуддхи Рай (Мишра), бывший правитель Гауды | Subuddhi Raya (Mishra), former ruler of Gauda | поселился в Матхуре (ЧЧ Мадхья 25); не путать с @subuddhi-mishra |
+| @radha-vinoda-deity | Радха-винода — Божество Локанатхи Госвами | Radha-vinoda, Lokanatha Gosvami's Deity | Вриндаван (БР 2) |
+| @purushottama-datta | Пурушоттама Датта | Purushottama Datta | младший брат Кришнананды Датты, дядя Нароттамы; отец Сантоши |

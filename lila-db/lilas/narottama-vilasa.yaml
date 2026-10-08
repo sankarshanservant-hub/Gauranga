@@ -1,0 +1,145 @@
+# Нарахари Чакраварти, «Нароттама-виласа» — лилы в порядке изложения (формат — ../README.md).
+# Перевод — narottama-vilasa/ru/01.md–12.md. Метки стихов — **N.** (сквозная нумерация двустиший и шлок внутри виласы).
+# Книга — о Нароттаме и его гуру Локанатхе: лилы времени Махапрабху (виласа 1) привязаны к общим событиям,
+# основная часть — P15 («после ухода»). Источник уровня B (поздний, но признанный автор).
+
+- id: nvl-0001
+  source: narottama-vilasa
+  ref: "Виласа 1, 1–18"
+  file: "narottama-vilasa/ru/01.md"
+  period: PX
+  order: 20
+  title: "Начальные шлоки и прославления: Локанатха, Нароттама, его ветви; Гаура с преданными"
+  summary: "Пять санскритских шлок (Локанатхе, Нароттаме, его «ветвям»; цель книги), слава Гаура-Говинде и Его спутникам, смирение автора; порядок рассказа следует шлокам."
+  persons: ["@narahari-chakravarti", "@lokanatha", "@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@vakreshvara", "@murari-gupta", "@gauridasa-pandita", "@narahari-sarakara", "@svarupa-damodara", "@sanatana-gosvami", "@rupa-gosvami", "@gopala-bhatta"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "1", to: "18"}
+
+- id: nvl-0002
+  source: narottama-vilasa
+  ref: "Виласа 1, 19–38"
+  file: "narottama-vilasa/ru/01.md"
+  period: P07
+  order: 139.6
+  title: "Локанатха из Талкхари приходит к Господу в Навадвипу и послан во Врадж"
+  summary: "Сын Падманабхи Чакраварти, любимца Адвайты, и Ситы из Талкхари (Джессор), учёный и преданный, после смерти родителей уходит в Надию и вручает себя Господу; перед санньясой Господь поспешно отсылает его во Врадж и Сам тоскует."
+  persons: ["@lokanatha", "@padmanabha-chakravarti", "@sita-lokanatha", "@advaita", "@mahaprabhu"]
+  places: ["#talagadi", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "«Према-виласа»: pvl-0042"
+  themes: [family, separation]
+  divergence: "Локанатха уходит после смерти родителей (в «Према-виласе» — тайно, спасаясь от женитьбы); Бхугарбха как спутник не упомянут."
+  event: ev-lokanatha-sent-to-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "19", to: "38"}
+
+- id: nvl-0003
+  source: narottama-vilasa
+  ref: "Виласа 1, 39–50"
+  file: "narottama-vilasa/ru/01.md"
+  period: P13
+  order: 30.1
+  title: "Локанатха ищет Господа: Вриндаван, юг, снова Вриндаван"
+  summary: "В пути Локанатха узнаёт о санньясе Господа; из Вриндавана идёт на юг, но Господь уже в Нилачале; Господь пошёл во Вриндаван через Гауду и вернулся; когда Господь наконец во Вриндаване, Локанатха спешит туда, но Господь уже ушёл в Праягу."
+  persons: ["@lokanatha", "@mahaprabhu"]
+  places: ["#vrindavana", "#puri", "#prayaga"]
+  kind: lila
+  authority: B
+  themes: [separation, pilgrimage]
+  event: ev-lokanatha-searches-lord
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "39", to: "50"}
+
+- id: nvl-0004
+  source: narottama-vilasa
+  ref: "Виласа 1, 51–91"
+  file: "narottama-vilasa/ru/01.md"
+  period: P13
+  order: 30.2
+  title: "Сон Локанатхи: Гаура в Навадвипе, затем санньяси велит остаться во Вриндаване и предсказывает Нароттаму"
+  summary: "Во сне Локанатха видит юного Гауру в Навадвипе («Я всегда здесь с вами»), затем Шри Кришна Чайтанью-санньяси: Он рассказывает о Своих странствиях, велит не уходить из Вриндавана, обещает приход Рупы и Санатаны и предсказывает ученика, царского сына Нароттаму; Локанатха живёт под деревьями и скитается по Враджу; узнав о приходе и уходе Субуддхи, Рупы и Санатаны, плачет — небесный голос обещает: «Придут скоро»."
+  persons: ["@lokanatha", "@mahaprabhu", "@narottama-dasa", "@subuddhi-raya", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana", "#navadvipa"]
+  kind: vision
+  authority: B
+  themes: [celestial, separation]
+  event: ev-lokanatha-dream-narottama-prophecy
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "51", to: "91"}
+
+- id: nvl-0005
+  source: narottama-vilasa
+  ref: "Виласа 1, 92–109"
+  file: "narottama-vilasa/ru/01.md"
+  period: P14
+  order: 96.5
+  title: "Локанатха с Госвами во Вриндаване; дружба с Бхугарбхой; Радха-винода и видение Гауры"
+  summary: "Приходят Рупа, Санатана, Гопала Бхатта, Рагхунатха Бхатта; Рупа почитает Локанатху, Санатана славит его в «Вайшнава-тошани»; неразлучная дружба с Бхугарбхой, бесстрастие, служение Радха-виноде; глядя на Радха-виноду, Локанатха видит красоту Гауры и плачет, что не видел Его игр."
+  persons: ["@lokanatha", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@raghunatha-bhatta", "@bhugarbha", "@kashishvara", "@radha-vinoda-deity", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [deities, separation]
+  scriptures: ["«Вайшнава-тошани», вступление"]
+  event: ev-lokanatha-life-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "92", to: "109"}
+
+- id: nvl-0006
+  source: narottama-vilasa
+  ref: "Виласа 1, 110–118"
+  file: "narottama-vilasa/ru/01.md"
+  period: P15
+  order: 40
+  title: "Локанатха и Гопала Бхатта запрещают Кришнадасу Кавирадже писать о себе; шлоки о Локанатхе"
+  summary: "Давая Кришнадасу Кавирадже позволение писать книгу, Локанатха запрещает описывать себя, так же поступает Гопала Бхатта; автор слышал это от старших; три шлоки во славу Локанатхи, милостивого к Нароттаме."
+  persons: ["@lokanatha", "@krishnadasa-kaviraja", "@gopala-bhatta", "@narottama-dasa"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  notes: "Шлоки 116–118 по изд. 2021 г. — из «Ставамрита-лахари» Вишванатхи Чакраварти."
+  themes: [author]
+  event: ev-lokanatha-forbids-mention
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "110", to: "118"}
+
+- id: nvl-0007
+  source: narottama-vilasa
+  ref: "Виласа 1, 119–145"
+  file: "narottama-vilasa/ru/01.md"
+  period: P13
+  order: 12
+  title: "Рамакели: Рупа и Санатана встречают Господа (через Нитьянанду)"
+  summary: "Кришнананда Датта, старший брат Пурушоттамы, — отец Нароттамы; рассказ о Рамакели: учёность и слава министров Рупы и Санатаны, их письма Господу; на пути во Вриндаван через Гауду Господь приходит в Рамакели, Нитьянанда приводит к Нему Рупу и Санатану; толпы, даже яваны плывут в преме."
+  persons: ["@narottama-dasa", "@krishnananda-datta", "@purushottama-datta", "@rupa-gosvami", "@sanatana-gosvami", "@keshava-vasu", "@mahaprabhu", "@nityananda", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta"]
+  places: ["#ramakeli"]
+  kind: lila
+  authority: B
+  themes: [mercy, pilgrimage]
+  divergence: "Рупу и Санатану к Господу приводит Нитьянанда (в ЧЧ Мадхья 1 — они приходят ночью сами, через Нитьянанду и Харидаса)."
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "119", to: "145"}
+
+- id: nvl-0008
+  source: narottama-vilasa
+  ref: "Виласа 1, 146–171"
+  file: "narottama-vilasa/ru/01.md"
+  period: P13
+  order: 12.2
+  title: "Господь в киртане в Рамакели зовёт «Нароттама!», глядя в сторону Кхетури"
+  summary: "Пляша в санкиртане, Господь смотрит в сторону Кхетури и вновь и вновь зовёт Нароттаму; Нитьянанда ревёт от радости, преданные шепчутся о будущем сосуде премы; так же в Нилачале Господь плакал, называя Шринивасу, сына Чайтаньи Даса и Лакшмиприи; затем Господь от Канаи-натшалы возвращается в Нилачалу. Подпись автора и колофон."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@vakreshvara", "@narottama-dasa", "@srinivasa-acharya", "@chaitanya-dasa", "@lakshmipriya-chakhandi", "@narahari-chakravarti"]
+  places: ["#ramakeli", "#kheturi", "#puri", "#kanai-natashala"]
+  kind: prophecy
+  authority: B
+  parallels: "«Према-виласа»: Господь оставляет прему в Падме (ev-prema-left-in-padma)"
+  themes: [ecstasy, kirtan]
+  event: ev-lord-calls-narottama-ramakeli
+  verses:
+    - {file: "narottama-vilasa/ru/01.md", from: "146", to: "171"}
