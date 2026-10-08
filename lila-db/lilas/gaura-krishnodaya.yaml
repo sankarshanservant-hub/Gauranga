@@ -3154,3 +3154,345 @@
   event: ev-damodara-sent-navadvipa
   verses:
     - {file: "gaura-krishnodaya/ru/16.md", from: "66", to: "66"}
+
+- id: gkd-0162
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 1–3"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 14
+  title: "Санатана в Пури: Господь обнимает его, несмотря на язвы"
+  summary: "Санатана приходит из Враджи; Господь, подняв его, силой обнимает, хотя тот отступает из-за зудящих язв; тело Санатаны становится прекрасным, и по слову Господа он оставляет намерение покинуть тело; через несколько дней возвращается во Враджу."
+  persons: ["@sanatana-gosvami", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 4"
+  cc: "Антья 4"
+  themes: [mercy]
+  divergence: "В ЧЧ Санатана провёл в Пури около года; у поэта — несколько дней."
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "1", to: "3"}
+
+- id: gkd-0163
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 4"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 16
+  title: "Рупа год живёт в Гауде и уходит во Враджу"
+  summary: "Рупа год живёт дома, возлагает заботу о роде на Дживу, сына младшего брата, и уходит во Враджу."
+  persons: ["@rupa-gosvami", "@jiva-gosvami"]
+  places: ["#gauda", "#vrindavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 4"
+  cc: "Антья 4"
+  themes: [family, sannyasa]
+  event: ev-rupa-year-gauda
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "4", to: "4"}
+
+- id: gkd-0164
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 5–10"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P15
+  order: 12
+  title: "Джива раздаёт богатство и уходит во Враджу"
+  summary: "Джива под видом родовых обрядов раздаёт богатство нищим, гостям и брахманам, чтит вайшнавов, обращает женщин дома к поклонению Кришне, обеспечивает семью; с позволения «венца мудрецов» (вероятно, Нитьянанды) уходит во Враджу и живёт в Матхуре с дядями Рупой и Санатаной."
+  persons: ["@jiva-gosvami", "@nityananda", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#gauda", "#mathura", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "Бхакти-ратнакара 1"
+  themes: [sannyasa, family]
+  event: ev-jiva-comes-to-vrindavana
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "5", to: "10"}
+
+- id: gkd-0165
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 11–15"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P15
+  order: 100
+  title: "Сочинения Госвами во Врадже"
+  summary: "Госвами каждый составляют писания: Рупа — две драмы, «Уджджвала-ниламани», «Бхакти-расамрита-синдху», «Дана-кели-каумуди», «Хамсадуту», «Уддхава-дуту»; Санатана — комментарий на Десятую песнь, грамматику на именах Хари, «две Амриты» и др.; Джива — «Аланкара-каустубху», семь «Сандарбх», «Гопала-чампу». Господь ежегодно слушает вести о них."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana", "#puri"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 1"
+  cc: "Мадхья 1"
+  themes: [author, learning]
+  teaching: [scripture]
+  divergence: "Грамматика «Хари-намамрита» и «Лагху-бхагаватамрита» приписаны Санатане, «Аланкара-каустубха» — Дживе (обычно — Джива, Рупа и Кави-карнапура соответственно)."
+  event: ev-gosvami-works-vraja
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "11", to: "15"}
+
+- id: gkd-0166
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 16–19"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 32
+  title: "Валлабха Бхатта и комментарий вопреки Шридхаре Свами"
+  summary: "Гордый Валлабха Бхатта приносит свой комментарий на «Бхагавату», составленный вопреки Шридхаре Свами; Господь, оказав гостеприимство, возражает слово за словом и называет комментарий «распутным»; затем утешает его: в Кали нельзя отличить Шридхару от Шуки."
+  persons: ["@mahaprabhu", "@vallabha-bhatta", "@shridhara-svami"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 7"
+  cc: "Антья 7"
+  themes: [teaching, learning]
+  teaching: [scripture]
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "16", to: "19"}
+
+- id: gkd-0167
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 20–22"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 70
+  title: "Джагадананда разбивает сосуд с маслом"
+  summary: "Джагадананда, подобный Сатьябхаме, приносит благоуханное масло для стоп Господа; Господь, желая увидеть его гнев, отвергает его как неподобающее санньяси; Джагадананда разбивает сосуд, но масло чудесно оказывается разлитым по пути Господа."
+  persons: ["@jagadananda-pandita", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 12"
+  cc: "Антья 12"
+  themes: [sannyasa, pranks]
+  bhava: [sannyasi]
+  divergence: "Чудо с маслом на пути Господа — у Говинда-девы; в ЧЧ масло велено отдать для светильников Джаганнатхи."
+  event: ev-jagadananda-sandal-oil
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "20", to: "22"}
+
+- id: gkd-0168
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 23–26"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 72
+  title: "Джагадананда во Врадже; плоды пилу"
+  summary: "По повелению Господа Джагадананда идёт во Враджу, видит Вриндаван и Матхуру, общается с Рупой и другими, изучает их поэмы; вернувшись, подносит Господу плоды пилу, и Господь раздаёт их вайшнавам."
+  persons: ["@jagadananda-pandita", "@mahaprabhu", "@rupa-gosvami"]
+  places: ["#vrindavana", "#mathura", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 13"
+  cc: "Антья 13"
+  themes: [pilgrimage, prasada]
+  event: ev-jagadananda-vrindavana-pilu
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "23", to: "26"}
+
+- id: gkd-0169
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 27–31"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 95
+  title: "Письмо-загадка; Адвайта и Нитьянанда приходят к Ратха-ятре"
+  summary: "Вспоминая Адвайту, Нитьянанду и мать, Господь посылает Джагадананду с вестью к Шачи и с письмом-загадкой к Адвайте в Шантипур; Адвайта с Нитьянандой, поняв смысл, приходят в Пури; к Ратха-ятре Господь Сам встречает их."
+  persons: ["@mahaprabhu", "@jagadananda-pandita", "@advaita", "@nityananda", "@shachi"]
+  places: ["#puri", "#navadvipa", "#shantipura"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 19"
+  cc: "Антья 19"
+  themes: [family, separation]
+  divergence: "В ЧЧ загадку (тарджа) посылает Господу Адвайта; здесь — Господь Адвайте."
+  event: ev-advaita-tarja
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "27", to: "31"}
+
+- id: gkd-0170
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 32–34"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 75
+  title: "Рагхунатха Бхатта послан во Вриндаван"
+  summary: "После кончины отца Рагхунатха приходит к Господу; Господь, как отец, утешает его, оставляет при Себе на несколько дней и посылает во Вриндаван, где он с Санатаной и другими служит Говинде."
+  persons: ["@raghunatha-bhatta", "@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#puri", "#vrindavana", "#kashi"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 13"
+  cc: "Антья 13"
+  themes: [mercy, deities]
+  divergence: "Отцом Рагхунатхи Бхатты назван Чандрашекхара (в ЧЧ — Тапана Мишра)."
+  event: ev-raghunatha-bhatta-sent-vrindavana
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "32", to: "34"}
+
+- id: gkd-0171
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 35–41"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 50
+  title: "Господь съедает месячный запас угощений"
+  summary: "Преданные приносят Господу через Говинду угощения, прежде всего прасад Джаганнатхи; за месяц они заполняют комнату; Говинда спрашивает, что делать с несвежим; Господь отвечает, что прасад, как Брахман, не подвержен изменению, и съедает всё, спрашивая, чьё это."
+  persons: ["@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 10"
+  cc: "Антья 10"
+  themes: [prasada, mercy]
+  teaching: [prasada-teaching]
+  event: ev-month-stored-prasada
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "35", to: "41"}
+
+- id: gkd-0172
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 42–46"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 60
+  title: "Уход Харидаса Тхакура"
+  summary: "Господь приходит в обитель Харидаса, желающего оставить тело, и восхваляет его: постигший величие Имени, он спас даже блудницу; Харидас, глядя на Господа, оставляет тело и «входит во Всевышнего»; Господь танцует; устраивает праздник с махапрасадом."
+  persons: ["@haridasa-thakura", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 11; Антья 3"
+  cc: "Антья 11"
+  themes: [departure, kirtan, prasada]
+  teaching: [holy-name]
+  divergence: "Праздник «до двенадцати дней»."
+  event: ev-haridasa-departure
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "42", to: "46"}
+
+- id: gkd-0173
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 47–49"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 100.4
+  title: "Господь в настроении разлуки; видение раса"
+  summary: "Господь, Сам став преданным, проявляет бхаву; охваченный премой Враджи, принимает состояние гопи в разлуке; ночью видит праздник раса и с тех пор и наяву томится в разлуке."
+  persons: ["@mahaprabhu", "@krishna", "@radha"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 14"
+  cc: "Антья 14"
+  themes: [ecstasy, separation]
+  bhava: [radha, gopi]
+  teaching: [prema]
+  event: ev-rasa-dream-separation
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "47", to: "49"}
+
+- id: gkd-0174
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 50–52"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 100.5
+  title: "Удлинённое тело у двери; пробуждение от Имени"
+  summary: "Размягчённый жаром разлуки, Господь выходит из дома и лежит у двери с разошедшимися суставами, удлинённый; преданные поют Имя Хари, и Он встаёт и пляшет."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 14"
+  cc: "Антья 14"
+  themes: [ecstasy, kirtan]
+  bhava: [radha]
+  event: ev-limbs-elongated-separation
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "50", to: "52"}
+
+- id: gkd-0175
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 53–55"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 100.6
+  title: "Чатака-парвата; сад; видение Кришны с Радхой"
+  summary: "Господь принимает Чатака-парвату за Говардхану и бежит к ней; в саду вспоминает Вриндаван и пляшет, не сознавая внешнего; видит Хари со спутниками и Радхой."
+  persons: ["@mahaprabhu", "@krishna", "@radha"]
+  places: ["#puri", "#chataka-parvata"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 14–15"
+  cc: "Антья 14"
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  event: ev-chataka-parvata-govardhana
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "53", to: "55"}
+
+- id: gkd-0176
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 56–61"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 100.8
+  title: "Облик черепахи среди коров"
+  summary: "Блуждая в полночь с возгласами «Где Кришна?», Господь падает в облике черепахи; коровы облизывают Его; Сварупа и преданные находят Его в коровнике, кричат; услышав, Он с «Харе Кришна» поднимается; Его приводят домой."
+  persons: ["@mahaprabhu", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 17"
+  cc: "Антья 17"
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  event: ev-kurma-form-telinga-cows
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "56", to: "61"}
+
+- id: gkd-0177
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 62–64"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 101
+  title: "Вибхишана уводит Господа на Ланку"
+  summary: "Приняв океан за Ямуну, Господь бросается в него; Вибхишана уводит Его на Ланку, почитает как гостя; Господь являет облик Рамы, тёмный, как трава дурва; Вибхишана с родичами вкладывает Ему в руки лук и стрелу и славит Его."
+  persons: ["@mahaprabhu", "@vibhishana", "@rama"]
+  places: ["#lanka"]
+  kind: vision
+  authority: C
+  parallels: "ЧЧ Антья 18 (падение в океан)"
+  cc: "Антья 18"
+  themes: [ecstasy, revelation]
+  bhava: [rama]
+  divergence: "Эпизод с Вибхишаной и Ланкой отсутствует в ЧЧ."
+  event: ev-vibhishana-lanka-gaura
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "62", to: "64"}
+
+- id: gkd-0178
+  source: gaura-krishnodaya
+  ref: "Сарга 17, 65–73"
+  file: "gaura-krishnodaya/ru/17.md"
+  period: P14
+  order: 101.2
+  title: "Рыбак вытаскивает Господа сетью"
+  summary: "Сварупа, Адвайта и другие ищут Господа ночь напролёт от Арка-тиртхи до Чатака-парваты; Вибхишана, видя их скорбь, опускает Господа в облике нищего в сеть рыбака; рыбак, приняв Его за золотой камень, вытаскивает Его и от прикосновения впадает в экстаз; преданные находят Господа и киртаном возвращают к сознанию на другой день; Господь с плясками идёт по дорогам."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@advaita", "@nityananda", "@vibhishana"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Антья 18"
+  cc: "Антья 18"
+  themes: [ecstasy, kirtan, mercy]
+  bhava: [radha]
+  divergence: "Участие Вибхишаны; среди ищущих — Адвайта и Нитьянанда (в ЧЧ — Сварупа и преданные Пури)."
+  event: ev-fall-into-ocean-fisherman
+  verses:
+    - {file: "gaura-krishnodaya/ru/17.md", from: "65", to: "73"}

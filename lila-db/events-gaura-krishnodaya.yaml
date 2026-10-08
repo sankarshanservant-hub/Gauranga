@@ -493,3 +493,93 @@
   cb: ""
   themes: [festival, prasada, mercy]
   notes: "Нитьянанда наказывает Рагхунатху Даса угостить преданных плющеным рисом с простоквашей; является Махапрабху, Нитьянанда кормит Его; затем — дом Рагхавы Пандита."
+
+- id: ev-rupa-year-gauda
+  title: "Рупа год живёт в Гауде, распределяет богатство и уходит во Вриндаван"
+  title_en: "Rupa spends a year in Gauda, distributes his wealth and goes to Vrindavana"
+  period: P14
+  order: 16
+  cc: "Антья 4"
+  cb: ""
+  themes: [family, sannyasa]
+  notes: "После встречи с Господом в Пури Рупа возвращается в Гауду, год устраивает дела семьи и уходит во Вриндаван."
+
+- id: ev-gosvami-works-vraja
+  title: "Сочинения Рупы, Санатаны и Дживы во Врадже"
+  title_en: "The works of Rupa, Sanatana and Jiva in Vraja"
+  period: P15
+  order: 100
+  cc: "Мадхья 1"
+  cb: ""
+  themes: [author, learning]
+  notes: "Перечни трудов Госвами: драмы и трактаты о расе Рупы, комментарии и «Бхагаватамрита» Санатаны, «Сандарбхи» и «Гопала-чампу» Дживы."
+
+- id: ev-jagadananda-sandal-oil
+  title: "Джагадананда разбивает сосуд с сандаловым маслом"
+  title_en: "Jagadananda breaks the jar of sandalwood oil"
+  period: P14
+  order: 70
+  cc: "Антья 12"
+  cb: ""
+  themes: [sannyasa, pranks]
+  notes: "Господь отказывается от благоуханного масла как неподобающего санньяси; Джагадананда в любовном гневе разбивает сосуд."
+
+- id: ev-jagadananda-vrindavana-pilu
+  title: "Джагадананда во Вриндаване у Санатаны; плоды пилу для Господа"
+  title_en: "Jagadananda in Vrindavana with Sanatana; pilu fruits for the Lord"
+  period: P14
+  order: 72
+  cc: "Антья 13"
+  cb: ""
+  themes: [pilgrimage, prasada]
+  notes: "Джагадананда с позволения Господа идёт во Вриндаван, живёт с Санатаной и возвращается с подарками, среди них — плоды пилу."
+
+- id: ev-raghunatha-bhatta-sent-vrindavana
+  title: "Рагхунатха Бхатта у Господа в Пури; послан во Вриндаван"
+  title_en: "Raghunatha Bhatta with the Lord in Puri; sent to Vrindavana"
+  period: P14
+  order: 75
+  cc: "Антья 13"
+  cb: ""
+  themes: [mercy, deities]
+  notes: "Господь посылает Рагхунатху Бхатту во Вриндаван читать «Бхагавату» Рупе и Санатане; он служит Говинде."
+
+- id: ev-month-stored-prasada
+  title: "Господь съедает угощения, накопленные Говиндой за месяц"
+  title_en: "The Lord eats the offerings Govinda stored for a month"
+  period: P14
+  order: 50
+  cc: "Антья 10"
+  cb: ""
+  themes: [prasada, mercy]
+  notes: "Преданные из Гауды оставляют угощения у Говинды; через месяц Господь съедает всё, называя дарителей."
+
+- id: ev-rasa-dream-separation
+  title: "Господь видит во сне раса-лилу и томится в разлуке"
+  title_en: "The Lord sees the rasa-lila in a dream and pines in separation"
+  period: P14
+  order: 100.4
+  cc: "Антья 14"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Видение раса-лилы и последующее состояние разлуки в настроении Радхи."
+
+- id: ev-vibhishana-lanka-gaura
+  title: "Вибхишана уводит Гауру на Ланку и видит в Нём Раму"
+  title_en: "Vibhishana takes Gaura to Lanka and sees Rama in Him"
+  period: P14
+  order: 101
+  cc: ""
+  cb: ""
+  themes: [ecstasy, revelation]
+  notes: "Только у Говинда-девы: после падения Господа в океан Вибхишана уводит Его на Ланку, почитает, Господь являет облик Рамы."
+
+- id: ev-fall-into-ocean-fisherman
+  title: "Падение в океан: рыбак вытаскивает Господа сетью"
+  title_en: "The fall into the ocean: a fisherman draws the Lord out in his net"
+  period: P14
+  order: 101.2
+  cc: "Антья 18"
+  cb: ""
+  themes: [ecstasy, kirtan, mercy]
+  notes: "Приняв океан за Ямуну, Господь бросается в него; рыбак вытаскивает Его сетью и обезумевает от прикосновения; Сварупа и преданные находят Господа и киртаном возвращают к сознанию."
