@@ -1,0 +1,262 @@
+# «Бхактамалы» Набхадаса, Дхрувадаса, Рагхавдаса и кавитты Приядаса (vallabha/ru/03.md, 04.md) — места о Шри Чайтанье.
+# Только строфы с лилой/событием; перечни имён не записываются. Все записи — категория D.
+
+- id: bkm-0001
+  source: bhaktamal
+  ref: "Набхадас, «Бхактамал», чхаппай 72 (изд. 1914; Рупк. 72); § 3.1"
+  file: vallabha/ru/03.md
+  period: P12
+  order: 110
+  title: "Нитьянанда и Кришна-Чайтанья искореняют нечестие Гауды (Набхадас)"
+  summary: "Похвала: Нитьянанда и Кришна-Чайтанья — аватары, явившиеся в восточной земле в облике махантов; искоренили нечестие в Гауде и обратили людей к бхаджану; Их бхакти распространилась во все стороны."
+  persons: ['@nityananda', '@mahaprabhu']
+  places: ['#gauda']
+  kind: lila
+  authority: D
+  notes: "Обобщённая похвала, не рассказ. Самое раннее небенгальское упоминание Махапрабху (ок. 1600)."
+  themes: [mercy]
+  teaching: [associates-tattva]
+  event: ev-nityananda-preaching-gauda
+  verses:
+  - {file: vallabha/ru/03.md, from: '72', to: '72'}
+
+- id: bkm-0002
+  source: bhaktamal
+  ref: "Набхадас, чхаппай 71; § 3.1"
+  file: vallabha/ru/03.md
+  period: P14
+  order: 30
+  title: "Рагхунатха Госаи в Пури у Львиных врат (Набхадас)"
+  summary: "Рагхунатха Госаи живёт в Нилачале, служит Джаганнатхе, стоит у Львиных врат, как Гаруда; Пурушоттама дал ему сукно в холод, Хари сопровождал его, исполняя службу слуги."
+  persons: ['@raghunatha-dasa', '@jagannatha-deity']
+  places: ['#puri']
+  kind: lila
+  authority: D
+  notes: "Махапрабху не назван; отождествление с Рагхунатхой Дасом — по Приядасу (кавитты 327–328)."
+  themes: [jagannatha]
+  divergence: "Сукно от Джаганнатхи и «сопровождение» Хари в ЧЧ отсутствуют; стояние у Симха-двары — ср. ЧЧ Антья 6."
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+  - {file: vallabha/ru/03.md, from: '71', to: '71'}
+
+- id: bkm-0003
+  source: bhaktamal
+  ref: "Набхадас, чхаппай 89 (Рупк. 88?); § 3.1"
+  file: vallabha/ru/03.md
+  period: P13
+  order: 12.5
+  title: "Рупа и Санатана оставляют богатство Гауды ради Вриндавана (Набхадас)"
+  summary: "Сановники Гауды, Рупа и Санатана, сочтя царское богатство преходящим, поселились во Вриндаване в довольстве малым и открыли тайну Враджа — Радха-Кришну."
+  persons: ['@rupa-gosvami', '@sanatana-gosvami']
+  places: ['#gauda', '#vrindavana']
+  kind: lila
+  authority: D
+  notes: "Махапрабху в чхаппае не назван."
+  themes: [sannyasa]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+  - {file: vallabha/ru/03.md, from: '89', to: '89'}
+
+- id: bkm-0004
+  source: bhaktamal
+  ref: "Дхрувадас, «Бхакта-намавали», дохи 17–18; § 3.2"
+  file: vallabha/ru/03.md
+  period: P12
+  order: 110
+  title: "Явление Кришна-Чайтаньи и Нитьянанды спасает Гауду (Дхрувадас)"
+  summary: "Вся Гауда спасена явлением Кришна-Чайтаньи и Нитьянанды; их даршан рождает блаженство бхаджана и снимает петли майи."
+  persons: ['@mahaprabhu', '@nityananda']
+  places: ['#gauda']
+  kind: lila
+  authority: D
+  notes: "Обобщённая похвала радхаваллабхского поэта (1620–1640-е)."
+  themes: [mercy]
+  event: ev-nityananda-preaching-gauda
+  verses:
+  - {file: vallabha/ru/03.md, from: '17', to: '18'}
+
+- id: bkm-0005
+  source: bhaktamal
+  ref: "Дхрувадас, дохи 19–21; § 3.2"
+  file: vallabha/ru/03.md
+  period: P13
+  order: 12.5
+  title: "Отречение Рупы и Санатаны (Дхрувадас)"
+  summary: "Рупа и Санатана, полюбив Радха-Кришну, оставляют чувственные радости, родину и семью и устремляются во Вриндаван; живут смиреннее травы."
+  persons: ['@rupa-gosvami', '@sanatana-gosvami']
+  places: ['#vrindavana']
+  kind: lila
+  authority: D
+  themes: [sannyasa]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+  - {file: vallabha/ru/03.md, from: '19', to: '21'}
+
+- id: bkm-0006
+  source: bhaktamal
+  ref: "Рагхавдас, «Бхактамал», чхаппаи 218–219 (раздел Мадхва-сампрадаи); § 3.3"
+  file: vallabha/ru/03.md
+  period: P12
+  order: 110
+  title: "Двое братьев — Баларама и Кришна — спасают Гауду (Рагхавдас)"
+  summary: "В разделе Мадхва-сампрадаи: пять махантов Гауды — Нитьянанда, Кришна-Чайтанья, Рупа, Санатана, Джива; Нитьянанда — Балабхадра, Кришна-Чайтанья — Кришна; явились утвердить бхакти и спасли людей Гауды и Бенгалии."
+  persons: ['@nityananda', '@mahaprabhu', '@rupa-gosvami', '@sanatana-gosvami', '@jiva-gosvami']
+  places: ['#gauda']
+  kind: lila
+  authority: D
+  notes: "Даду-пантхи, 1660; отнесение к Мадхва-сампрадае — раннее небенгальское свидетельство. Переложение ч. 72 Набхадаса."
+  themes: [mercy]
+  teaching: [associates-tattva]
+  event: ev-nityananda-preaching-gauda
+  verses:
+  - {file: vallabha/ru/03.md, from: '218', to: '219'}
+
+- id: bkm-0007
+  source: bhaktamal
+  ref: "Рагхавдас, чхаппай 220; § 3.3"
+  file: vallabha/ru/03.md
+  period: P13
+  order: 12.5
+  title: "Рупа и Санатана, наместники Гауды, уходят во Вриндаван (Рагхавдас)"
+  summary: "Правители Гауды с царским богатством, сочтя счастье ложным, уходят во Вриндаван и служат Радха-рамане."
+  persons: ['@rupa-gosvami', '@sanatana-gosvami']
+  places: ['#gauda', '#vrindavana']
+  kind: lila
+  authority: D
+  themes: [sannyasa]
+  event: ev-rupa-sanatana-renunciation
+  verses:
+  - {file: vallabha/ru/03.md, from: '220', to: '220'}
+
+- id: bkm-0008
+  source: bhaktamal
+  ref: "Приядас, «Бхакти-раса-бодхини», кавитты 329–332 (изд. 1883: 326–329); § 4.1"
+  file: vallabha/ru/04.md
+  period: P12
+  order: 110
+  title: "Нитьянанда раздаёт прему; Кришна становится Гаурой и погружает Гауду в прему (Приядас)"
+  summary: "Баладева как Нитьянанда наполнен премой и раздаёт её спутникам; Кришна, побеждённый любовью гопи, становится Сыном Шачи; экстатические преображения, четырёх- и шестирукий облик в Пури; Гауда, не знавшая бхакти, погружена в океан премы."
+  persons: ['@nityananda', '@mahaprabhu', '@balarama', '@shachi']
+  places: ['#gauda', '#puri']
+  kind: lila
+  authority: D
+  notes: "Гаудийское по сути переложение (Приядас — ученик Манохара Даса). Кавитта 330 — о причине явления (цвет любви гопи), 331 — экстазы и шестирукий облик (ср. ev-sarvabhauma-deliverance)."
+  themes: [ecstasy, mercy]
+  teaching: [gaura-tattva, prema]
+  bhava: [radha]
+  cc: "Ади 4; Антья 14"
+  event: ev-nityananda-preaching-gauda
+  verses:
+  - {file: vallabha/ru/04.md, from: '329', to: '332'}
+
+- id: bkm-0009
+  source: bhaktamal
+  ref: "Приядас, кавитта 331; § 4.1"
+  file: vallabha/ru/04.md
+  period: P10
+  order: 30
+  title: "Четырёхрукий и шестирукий облик в Джаганнатха-кшетре (Приядас)"
+  summary: "В Джаганнатха-кшетре видели воочию: Махапрабху показал четырёхрукий и шестирукий облик."
+  persons: ['@mahaprabhu']
+  places: ['#puri']
+  kind: miracle
+  authority: D
+  notes: "Упоминание; Сарвабхаума не назван."
+  themes: [revelation]
+  event: ev-sarvabhauma-deliverance
+  verses:
+  - {file: vallabha/ru/04.md, from: '331', to: '331'}
+
+- id: bkm-0010
+  source: bhaktamal
+  ref: "Приядас, кавитты 333–336 (к чхаппаю 75 о Кешаве Бхатте; изд. 1914, с. 90–91); § 4.2"
+  file: vallabha/ru/04.md
+  period: P05
+  order: 62
+  title: "Кешава Кашмири в Надии: сто шлок о Ганге, Сарасвати открывает истину (Приядас)"
+  summary: "Дигвиджайи Кешава Бхатта приходит в Надию; Махапрабху смиренно просит его описать Гангу, запоминает одну из ста шлок и указывает изъяны и достоинства; Сарасвати открывает Кешаве, что это Бхагаван; Кешава предаётся и по велению Господа больше не ищет побед в спорах."
+  persons: ['@mahaprabhu', '@keshava-kashmiri', '@sarasvati-devi']
+  places: ['#navadvipa', '#ganga']
+  kind: lila
+  authority: D
+  notes: "Кавитт нет в литографиях Навал Кишор 1883 г.; по Рупкале, нимбаркийцы изъяли их из своих списков. Перевод — по изд. 1914 (Бомбей)."
+  themes: [learning, revelation, mercy]
+  bhava: [teacher]
+  divergence: "У Приядаса Махапрабху Сам подходит к сидящему у Ганги Кешаве; Сарасвати является наяву в медитации (по ЧЧ — во сне)."
+  event: ev-keshava-kashmiri-defeat
+  verses:
+  - {file: vallabha/ru/04.md, from: '333', to: '336'}
+
+- id: bkm-0011
+  source: bhaktamal
+  ref: "Приядас, кавитта 177 (к чхаппаю 47); § 4.3"
+  file: vallabha/ru/04.md
+  period: P14
+  order: 200
+  title: "Махапрабху просит у Вишну Пури «ожерелье» — тот присылает «Бхакти-ратнавали» (Приядас)"
+  summary: "В Пури Махапрабху, услышав, что живущий в Каши Вишну Пури будто бы желает мокши, пишет ему письмо с просьбой прислать ожерелье из самоцветов; тот присылает «Бхакти-ратнавали», где мукти отвергнута с самого начала."
+  persons: ['@mahaprabhu', '@vishnu-puri']
+  places: ['#puri', '#kashi']
+  kind: lila
+  authority: D
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture]
+  event: ev-vishnu-puri-bhakti-ratnavali
+  verses:
+  - {file: vallabha/ru/04.md, from: '177', to: '177'}
+
+- id: bkm-0012
+  source: bhaktamal
+  ref: "Приядас, кавитты 327–328 (к чхаппаю 71); § 4.3"
+  file: vallabha/ru/04.md
+  period: P14
+  order: 30
+  title: "Рагхунатха Дас оставляет богатство и живёт в Нилачале при Махапрабху (Приядас)"
+  summary: "Рагхунатха, оставив дом и богатство, живёт в Нилачале; отец шлёт деньги, но ему мило лишь быть рядом с Махапрабху; позже по велению Махапрабху поселяется у Радха-кунды."
+  persons: ['@raghunatha-dasa', '@mahaprabhu']
+  places: ['#puri', '#radha-kunda']
+  kind: lila
+  authority: D
+  divergence: "По ЧЧ Рагхунатха пришёл во Вриндаван после ухода Господа, о Его повелении не сказано."
+  themes: [sannyasa]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+  - {file: vallabha/ru/04.md, from: '327', to: '328'}
+
+- id: bkm-0013
+  source: bhaktamal
+  ref: "Приядас, кавитта 358 (к чхаппаю 89); § 4.3"
+  file: vallabha/ru/04.md
+  period: P13
+  order: 182
+  title: "По повелению Прабху Рупа и Санатана открывают Вриндаван и пишут книги (Приядас)"
+  summary: "Получив повеление Прабху, Рупа и Санатана поселяются у Гопишвары во Вриндаване, открывают забытую землю Враджа и составляют книги о бхакти."
+  persons: ['@rupa-gosvami', '@sanatana-gosvami', '@mahaprabhu']
+  places: ['#vrindavana']
+  kind: teaching
+  authority: D
+  notes: "Повеление — ЧЧ Мадхья 19 (Рупе в Праяге) и 23 (Санатане в Каши; ev-sanatana-kashi-instruction)."
+  themes: [teaching]
+  teaching: [scripture]
+  event: ev-rupa-prayaga
+  verses:
+  - {file: vallabha/ru/04.md, from: '358', to: '358'}
+
+- id: bkm-0014
+  source: bhaktamal
+  ref: "Приядас, кавитта 409 (к чхаппаю 101); § 4.3"
+  file: vallabha/ru/04.md
+  period: P12
+  order: 300
+  title: "Махапрабху отказывается видеть Пратапарудру, затем обнимает его у колесницы (Приядас)"
+  summary: "Махапрабху как санньяси не желает видеть царя; во время Ратха-ятры царь падает к стопам танцующего перед колесницей Господа, и Тот прижимает его к груди."
+  persons: ['@prataparudra', '@mahaprabhu', '@jagannatha-deity']
+  places: ['#puri']
+  kind: lila
+  authority: D
+  themes: [mercy, festival]
+  divergence: "По ЧЧ (Мадхья 14) Господь обнял царя в саду, когда тот читал «Гопи-гиту»."
+  event: ev-prataparudra-mercy
+  verses:
+  - {file: vallabha/ru/04.md, from: '409', to: '409'}

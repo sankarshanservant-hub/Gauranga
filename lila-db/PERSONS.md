@@ -380,3 +380,4 @@
 | @govinda-deva-kavi | Говинда-дева (Говинда Кави), автор «Гаура-кришнодаи» | Govinda-deva (Govinda Kavi), author of the *Gaura-krishnodaya* | ориец из семейства Вакрешвары Пандита; 1758 |
 | @mamu-thakura | Маму Госани (Маму Тхакур) | Mamu Gosani (Mamu Thakura) | служитель Тота-Гопинатхи в Пури после Гададхары Пандита |
 | @kanai-khutiya | Канаи Кхутия | Kanai Khutiya | служитель Джаганнатхи в Пури |
+| @vishnu-puri | Вишну Пури (Вишнупури) | Vishnu Puri (Vishnupuri) | санньяси в Каши, автор «Бхакти-ратнавали» (ЧЧ Ади 9; Приядас, к. 177) |
