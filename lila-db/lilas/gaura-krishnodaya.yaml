@@ -2200,3 +2200,137 @@
   event: ev-prataparudra-mercy
   verses:
     - {file: "gaura-krishnodaya/ru/11.md", from: "60", to: "62"}
+
+- id: gkd-0113
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 1–2"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 72
+  title: "Колесница не трогается; Господь толкает её"
+  summary: "Царь впрягает слонов, но они не могут сдвинуть колесницу; Гаурахари со смехом толкает колесницы и идёт впереди."
+  persons: ["@mahaprabhu", "@prataparudra", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 14"
+  cc: "Мадхья 14"
+  themes: [jagannatha, festival]
+  event: ev-lord-pushes-chariot
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "1", to: "2"}
+
+- id: gkd-0114
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 3–9"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 73
+  title: "Толпа на Ратха-ятре; Божества входят в Гундичу"
+  summary: "Под вечер колесницы доходят до Гундичи; описана давка — женщины, дети, слепые, глухие, старики славят Бога; Джаганнатха с братом и сестрой входит в павильон Гундичи, а Господь остаётся неподалёку."
+  persons: ["@jagannatha-deity", "@balarama", "@subhadra", "@mahaprabhu"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 14"
+  cc: "Мадхья 14"
+  themes: [festival, jagannatha]
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "3", to: "9"}
+
+- id: gkd-0115
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 10–20"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 75
+  title: "Хера-панчами: гнев Лакшми и объяснение Сварупы"
+  summary: "Сварупа объясняет Господу: Нилачала — Вайкунтха с Лакшми, Гундича — Вриндаван, где служит Радха; Лакшми в гневе приезжает в паланкине со свитой, бранит слуг Джаганнатхи и грозит колеснице; слуги успокаивают её, и она, получив гирлянду, возвращается; Господь погружается в расу."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@lakshmi", "@jagannatha-deity", "@radha", "@subhadra"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 14"
+  cc: "Мадхья 14"
+  themes: [festival, jagannatha, krishna-lila]
+  bhava: [radha]
+  divergence: "Субхадра («Бхадра») поставлена рядом с Радхой как участница игр Вриндавана — своеобразие Говинды-девы."
+  event: ev-hera-panchami
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "10", to: "20"}
+
+- id: gkd-0116
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 21–22"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 76
+  title: "Возвращение колесниц и обряды встречи с Лакшми"
+  summary: "На десятый день Джаганнатха возвращается в храм; Господь видит закрытие дверей, речи прислужниц, встречу с Лакшми, арати и восшествие на престол."
+  persons: ["@jagannatha-deity", "@lakshmi", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  themes: [festival, jagannatha]
+  event: ev-bahuda-return-chariots
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "21", to: "22"}
+
+- id: gkd-0117
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 23–30"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 78
+  title: "Чатурмасья: преданные по очереди приглашают Господа; пора дождей"
+  summary: "Когда Господь Джаганнатха засыпает на четыре месяца, преданные каждый день по очереди приглашают Господа; поэтическое описание сезона дождей; Господь делает ненастные дни ясными киртаном."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 15"
+  cc: "Мадхья 15"
+  themes: [prasada, kirtan]
+  event: ev-chaturmasya-puri-invitations
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "23", to: "30"}
+
+- id: gkd-0118
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 31"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 85
+  title: "Угощение у Сарвабхаумы; Амогха исцелён"
+  summary: "Жена Сарвабхаумы, мать Шаштхи, угощает Господа; зять Амогха хулит Его, умирает от холеры, и Господь по милости воскрешает его."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 15"
+  cc: "Мадхья 15"
+  themes: [offense, mercy, prasada]
+  event: ev-amogha-cholera
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "31", to: "31"}
+
+- id: gkd-0119
+  source: gaura-krishnodaya
+  ref: "Сарга 12, 32–43"
+  file: "gaura-krishnodaya/ru/12.md"
+  period: P12
+  order: 90
+  title: "Годовой круг праздников в Пури; желание идти во Вриндаван"
+  summary: "Господь видит праздники месяцев: Джанмаштами, праздник Баларамы, Ваманы, осенние празднества, обеты карттики, облачение в тёплые одежды, абхишеку пауши, Макара-санкранти, весну; хочет идти во Вриндаван, чтобы спасти Санатану, но преданные удерживают Его; так проходят пять лет, бенгальцы приходят каждый год."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [festival, jagannatha]
+  divergence: "Подробный годовой круг — у Говинды-девы; «пять лет» — его счёт."
+  event: ev-puri-festivals-year-cycle
+  verses:
+    - {file: "gaura-krishnodaya/ru/12.md", from: "32", to: "43"}
