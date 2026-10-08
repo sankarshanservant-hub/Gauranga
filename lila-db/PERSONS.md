@@ -375,14 +375,4 @@
 | @vira-hambira-queen | Главная царица Виры Хамбира | Vira Hambira's chief queen | ученица Шринивасы («Карнананда»; имя не названо) |
 | @divyasimha-kaviraja | Дивьясимха (сын Говинды Кавираджи) | Divyasimha (Govinda Kaviraja's son) | ученик Шринивасы; не путать с @divya-simha (Лаудия Кришнадасом) |
 | @santosha-datta | Сантоша Датта (раджа Кхетури) | Santosha Datta (raja of Kheturi) | сын Пурушоттамы Датты, двоюродный брат Нароттамы, наследник царства Кришнананды; не путать с @santosha-raya |
-| @yadunandana-dasa-author | Ядунандана Дас (автор «Карнананды») | Yadunandana Dasa (author of the Karnananda) | ученик Хемалаты Тхакурани, дочери Шринивасы; не путать с @yadunandana-chakravarti и @yadunandana-acharya |
-| @hemalata | Хемалата Тхакурани | Hemalata Thakurani | дочь Шринивасы Ачарьи, жена Гопиджанаваллабхи Чаттараджа («Карнананда»), гуру Ядунанданы Даса |
-| @krishnapriya-srinivasa | Кришнаприя Тхакурани (дочь Шринивасы) | Krishnapriya Thakurani (Srinivasa's daughter) | жена Чайтаньи Чаттараджа («Карнананда») |
-| @vrindavana-acharya | Вриндаван Ачарья (сын Шринивасы) | Vrindavana Acharya (Srinivasa's son) | старший сын Шринивасы |
-| @radhakrishna-acharya | Радхакришна Ачарья (сын Шринивасы) | Radhakrishna Acharya (Srinivasa's son) | средний сын Шринивасы |
-| @gopijanavallabha-chattaraja | Гопиджанаваллабха Чаттарадж | Gopijanavallabha Chattaraja | сын Рамакришны Чаттараджа, муж Хемалаты; не путать с @gopijanavallabha (сыном Вирачандры) |
-| @karnapura-kaviraja | Карнапура Кавираджа | Karnapura Kaviraja | ученик Шринивасы, автор санскритского перечня его ветвей; не путать с @kavi-karnapura |
-| @kalachand-deity | Калачанд — Божество Виры Хамбира в Вишнупуре | Kalachand, Vira Hambira's Deity in Vishnupura | Божество Кришны |
-| @dhadi-hambira | Дхади Хамбир | Dhadi Hambira | сын и наследник Виры Хамбира, ученик Шринивасы («Карнананда») |
-| @vira-hambira-queen | Главная царица Виры Хамбира | Vira Hambira's chief queen | ученица Шринивасы («Карнананда»; имя не названо) |
-| @divyasimha-kaviraja | Дивьясимха (сын Говинды Кавираджи) | Divyasimha (Govinda Kaviraja's son) | ученик Шринивасы; не путать с @divya-simha (Лаудия Кришнадасом) |
+| @mahesha-pandita | Махеша Пандит | Mahesha Pandita | спутник Нитьянанды (один из двенадцати гопалов); в Кхардахе |

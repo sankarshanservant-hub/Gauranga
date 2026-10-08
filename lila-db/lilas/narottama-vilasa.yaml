@@ -337,3 +337,140 @@
   event: ev-narottama-thakura-mahashaya
   verses:
     - {file: "narottama-vilasa/ru/02.md", from: "319", to: "325"}
+
+- id: nvl-0020
+  source: narottama-vilasa
+  ref: "Виласа 3, 1–21"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 82
+  title: "Джива отправляет Шринивасу, Нароттаму и Шьямананду с книгами в Гауду"
+  summary: "Джива с махантами вручает книги Шринивасе (шлока Нароттамы о двух силах Господа — Рупе и Шринивасе); Локанатха вверяет Нароттаму Шринивасе, велит служить Божеству и петь санкиртану; Шьямананде велено идти в Уткалу через Амбику; Джива и другие провожают повозку с книгами и одиннадцатью вооружёнными враджавасами до Матхуры."
+  persons: ["@jiva-gosvami", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@lokanatha"]
+  places: ["#vrindavana", "#mathura"]
+  kind: post-advent
+  authority: B
+  themes: [teaching, pilgrimage]
+  event: ev-books-leave-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "1", to: "21"}
+
+- id: nvl-0021
+  source: narottama-vilasa
+  ref: "Виласа 3, 22–48"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 84
+  title: "Похищение книг в лесу у Вана-Вишнупура"
+  summary: "В лесном селении все засыпают по воле Господа, и люди царя Виры Хамбира, думая, что везут сокровища, уносят ларцы; царь при виде ларцов плачет и раскаивается; путники в отчаянии, небесный голос обещает возвращение книг; Шриниваса остаётся искать их, Нароттаму и Шьямананду отсылает в Кхетури."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@vira-hambira"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  themes: [celestial, mercy]
+  event: ev-books-stolen-vana-vishnupura
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "22", to: "48"}
+
+- id: nvl-0022
+  source: narottama-vilasa
+  ref: "Виласа 3, 49–53"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 87
+  title: "Шриниваса обращает Виру Хамбира, книги возвращены (кратко)"
+  summary: "Шриниваса оказывает милость царю; тот возвращает книги и с близкими становится преданным; подробности — в «Бхакти-ратнакаре»."
+  persons: ["@srinivasa-acharya", "@vira-hambira"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  notes: "Упоминание."
+  themes: [mercy]
+  event: ev-vira-hambira-conversion
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "49", to: "53"}
+
+- id: nvl-0023
+  source: narottama-vilasa
+  ref: "Виласа 3, 54–64"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 86
+  title: "Нароттама и Шьямананда в Кхетури получают весть о книгах; раджа Сантоша Датта; проводы Шьямананды"
+  summary: "Письмо Шринивасы о найденных книгах приводит Нароттаму и Шьямананду в восторг; раджа Сантоша Датта, двоюродный брат Нароттамы и наследник царства Кришнананды, раздаёт дары; Нароттама отпускает Шьямананду в Уткалу."
+  persons: ["@narottama-dasa", "@shyamananda", "@srinivasa-acharya", "@santosha-datta", "@purushottama-datta", "@krishnananda-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [separation]
+  event: ev-narottama-returns-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "54", to: "64"}
+
+- id: nvl-0024
+  source: narottama-vilasa
+  ref: "Виласа 3, 65–99"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 103
+  title: "Шьямананда у гуру Хридаи Чайтаньи в Амбике; проповедь в Уткале"
+  summary: "Через Навадвипу Шьямананда приходит в Амбику; Хридая Чайтанья рассказывает о нём (посвящение, учёба во Вриндаване, имя «Шьямананда»), принимает его, кормит своими остатками и, наделив силой, посылает в Уткалу, где Шьямананда спасает злодеев и обретает учеников — Расикананду и других."
+  persons: ["@shyamananda", "@hridaya-chaitanya", "@rasikananda", "@mahaprabhu", "@nityananda"]
+  places: ["#ambika-kalna", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, deities]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "65", to: "99"}
+
+- id: nvl-0025
+  source: narottama-vilasa
+  ref: "Виласа 3, 100–146"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 88.5
+  title: "Нароттама в Навадвипе: видение игр Гауры, Шукламбара и спутники, дом Господа"
+  summary: "Обменявшись письмами со Шринивасой и Шьяманандой, Нароттама идёт в Навадвипу; видит сперва ликующую Надию с санкиртаной Гауры, затем — Надию в горе; Шукламбара Брахмачари узнаёт его и сводит со спутниками (Дамодара Пандит и др.), ушедшие являются ему во сне; спутники говорят, что жили, чтобы увидеть его; слуги дома Господа благословляют его."
+  persons: ["@narottama-dasa", "@shuklambara", "@damodara-pandita", "@mahaprabhu", "@srinivasa-acharya", "@shyamananda"]
+  places: ["#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [separation, celestial]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "100", to: "146"}
+
+- id: nvl-0026
+  source: narottama-vilasa
+  ref: "Виласа 3, 147–172"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 88.6
+  title: "Нароттама в Шантипуре у Ачьютананды и в Амбике у Хридаи Чайтаньи"
+  summary: "В доме Адвайты Ачьютананда обнимает Нароттаму и велит после Нилачалы распространять киртан; в Амбике Хридая Чайтанья встречает его у ворот, даёт даршан Гаура-Нитай и гирлянду и через несколько дней отпускает в Нилачалу."
+  persons: ["@narottama-dasa", "@achyutananda", "@hridaya-chaitanya", "@mahaprabhu", "@nityananda"]
+  places: ["#shantipura", "#ambika-kalna"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, deities]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "147", to: "172"}
+
+- id: nvl-0027
+  source: narottama-vilasa
+  ref: "Виласа 3, 173–205"
+  file: "narottama-vilasa/ru/03.md"
+  period: P15
+  order: 88.7
+  title: "Нароттама в Кхардахе: Махеша Пандит, Васудха, Джахнава и Вирачандра"
+  summary: "Махеша Пандит и другие узнают Нароттаму, о чьём уходе во Вриндаван и о книгах уже слышали; Васудха и Джахнава зовут его во внутренние покои, хвалят («имя „Махашая“ ему подобает»), Джахнава тайно наставляет его и отпускает в Нилачалу. Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@mahesha-pandita", "@vasudha", "@jahnava", "@virabhadra", "@narahari-chakravarti"]
+  places: ["#kharadaha"]
+  kind: post-advent
+  authority: B
+  themes: [mercy]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "narottama-vilasa/ru/03.md", from: "173", to: "205"}
