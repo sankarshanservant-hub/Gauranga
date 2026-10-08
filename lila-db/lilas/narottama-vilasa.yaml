@@ -143,3 +143,197 @@
   event: ev-lord-calls-narottama-ramakeli
   verses:
     - {file: "narottama-vilasa/ru/01.md", from: "146", to: "171"}
+
+- id: nvl-0009
+  source: narottama-vilasa
+  ref: "Виласа 2, 1–17"
+  file: "narottama-vilasa/ru/02.md"
+  period: P14
+  order: 99.5
+  title: "Рождение Нароттамы в Кхетури в магха-пурниму"
+  summary: "По воле Господа у Кришнананды Датты и Нараяни рождается Нароттама; ликование в Кхетури, дары; Нараяни видит пляску Гауры, Нитьянанды и Адвайты со спутниками."
+  persons: ["@narottama-dasa", "@krishnananda-datta", "@narayani-kheturi", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "магха, пурнима, 6-я данда"
+  divergence: "День рождения — магха-пурнима (в «Према-виласе» — иначе)."
+  themes: [family, festival]
+  event: ev-narottama-birth
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "1", to: "17"}
+
+- id: nvl-0010
+  source: narottama-vilasa
+  ref: "Виласа 2, 18–33"
+  file: "narottama-vilasa/ru/02.md"
+  period: P14
+  order: 99.6
+  title: "Первое кормление Нароттамы: он ест лишь прасад Вишну; астролог даёт имя"
+  summary: "При обряде первого кормления астролог нарекает ребёнка Нароттамой («лучший из людей»); младенец отворачивается от риса и ест лишь прасад Вишну; раджа велит кормить его только прасадом Кришны, а Кришнананда усердствует в служении своему Божеству Кришны."
+  persons: ["@narottama-dasa", "@krishnananda-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [family, prasada]
+  teaching: [prasada-teaching]
+  event: ev-narottama-annaprashana
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "18", to: "33"}
+
+- id: nvl-0011
+  source: narottama-vilasa
+  ref: "Виласа 2, 34–99"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 69
+  title: "Учёба и бесстрастие Нароттамы; брахман Кришнадас рассказывает о Господе, спутниках и Шринивасе"
+  summary: "Нароттама учится, отец ищет ему невесту и ставит стражу; Нароттама втайне плачет о Гауре; старый брахман Кришнадас из Кхетури рассказывает ему о играх Чайтаньи, Нитьянанды, Адвайты и спутников и о Шринивасе — его пути в Пури, Гауду, Навадвипу, Шантипур, Кхардаху, Кханакул, Шрикханду и во Врадж (со шлоками Карнапуры Кавираджи)."
+  persons: ["@narottama-dasa", "@krishnananda-datta", "@narayani-kheturi", "@krishnadasa-kheturi", "@srinivasa-acharya", "@gadadhara-pandita", "@vishnupriya", "@sita-thakurani", "@jahnava", "@abhirama", "@narahari-sarakara", "@raghunandana"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "Путь Шринивасы — «Према-виласа» 4–6; БР 3–4"
+  themes: [teaching, separation]
+  event: ev-narottama-hears-krishnadasa
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "34", to: "99"}
+
+- id: nvl-0012
+  source: narottama-vilasa
+  ref: "Виласа 2, 100–149"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 70.5
+  title: "Сон Нароттамы: Гаура велит идти к Локанатхе; киртан в Навадвипе; Нитьянанда дарует прему"
+  summary: "Во сне Гаура являет Свою красоту и велит идти во Вриндаван, к Локанатхе; во втором сне — санкиртана Гауры со спутниками на берегу Ганги, боги сыплют цветы; Гаура вручает Нароттаму Нитьянанде и Адвайте, Нитьянанда дарует ему прему Гауранги, все благословляют его во Вриндаван."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@svarupa-damodara", "@narahari-sarakara", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta", "@murari-gupta"]
+  places: ["#kheturi", "#navadvipa"]
+  kind: vision
+  authority: B
+  themes: [celestial, mercy, kirtan]
+  divergence: "В «Према-виласе» Нароттама получает прему из реки Падмавати по сну Нитьянанды."
+  event: ev-narottama-dream-gaura-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "100", to: "149"}
+
+- id: nvl-0013
+  source: narottama-vilasa
+  ref: "Виласа 2, 150–181"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 71
+  title: "Нароттама тайно уходит из Кхетури во Вриндаван"
+  summary: "Когда отец уезжает по царским делам в Гауду, Нароттама прощается с матерью, обманывает стражу и, переодевшись, лесными тропами идёт во Вриндаван; Гауда говорит, что это тот, кого Господь звал в Рамакели; в селениях люди дивятся его красоте и отречению."
+  persons: ["@narottama-dasa", "@krishnananda-datta", "@narayani-kheturi"]
+  places: ["#kheturi", "#gauda"]
+  kind: post-advent
+  authority: B
+  divergence: "В «Према-виласе» Нароттама уходит от всадника джагирдара."
+  themes: [sannyasa, pilgrimage]
+  event: ev-narottama-leaves-home
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "150", to: "181"}
+
+- id: nvl-0014
+  source: narottama-vilasa
+  ref: "Виласа 2, 182–217"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 72
+  title: "Матхура: брахман узнаёт об уходе Госвами; Рупа, Санатана, Рагхунатха Бхатта и Кашишвара во сне утешают Нароттаму"
+  summary: "У Вишрама-гхата брахман-вайшнав кормит Нароттаму и рассказывает о сокрытии Рупы, Санатаны, Рагхунатхи Бхатты и Кашишвары; Нароттама падает без чувств; во сне четверо Госвами обнимают и утешают его (брахман слышит их слова); брахман провожает его во Вриндаван."
+  persons: ["@narottama-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@kashishvara"]
+  places: ["#mathura"]
+  kind: vision
+  authority: B
+  divergence: "В «Према-виласе» в пути Рупа и Санатана являются Нароттаме, и Гауранга даёт ему молоко."
+  themes: [celestial, separation]
+  event: ev-narottama-path-vision
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "182", to: "217"}
+
+- id: nvl-0015
+  source: narottama-vilasa
+  ref: "Виласа 2, 218–245"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 73.5
+  title: "Рупа во сне возвещает Шринивасе и Дживе приход Нароттамы; встреча Шринивасы и Нароттамы у Говинды"
+  summary: "Шри Рупа во сне говорит Шринивасе, что утром тот встретит Нароттаму, Дживе открыто то же; Нароттама приходит к Говинде, Джива обнимает его и зовёт Шринивасу; встреча двух «друзей жизни»; Кришна Пандит, служитель Говинды после Кашишвары, даёт гирлянду."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@rupa-gosvami", "@jiva-gosvami", "@krishna-pandita-govinda", "@kashishvara", "@govinda-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [deities, celestial]
+  event: ev-srinivasa-narottama-shyamananda-vrindavana
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "218", to: "245"}
+
+- id: nvl-0016
+  source: narottama-vilasa
+  ref: "Виласа 2, 246–258"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 74
+  title: "Джива приводит Нароттаму к Локанатхе"
+  summary: "Локанатха, сидящий в уединении в разлуке с Рупой и Санатаной, узнаёт в Нароттаме предсказанного ученика, возлагает стопы ему на голову, обещает посвящение и поручает Дживе обучить его книгам бхакти, а Шринивасе — беречь на пути бхакти; даршан Радха-винода."
+  persons: ["@narottama-dasa", "@lokanatha", "@jiva-gosvami", "@srinivasa-acharya", "@radha-vinoda-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, deities]
+  event: ev-narottama-meets-lokanatha
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "246", to: "258"}
+
+- id: nvl-0017
+  source: narottama-vilasa
+  ref: "Виласа 2, 259–311"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 74.5
+  title: "Нароттама у Гопалы Бхатты, Бхугарбхи, у Божеств и самадхи Вриндавана; Радха-кунда и Говардхана"
+  summary: "Джива ведёт Нароттаму к Гопале Бхатте (шлока о нём) и Радха-рамане, объясняет, что Говинда, Гопинатха и Мадана-мохан вместе являют лицо, грудь и стопы; Мадху Пандит у Гопинатхи, Бхугарбха, Радха-Дамодара и самадхи Рупы (Нароттама без чувств), арати Говинды, Мадана-мохан и Кришнадас Брахмачари, самадхи Санатаны; на Радха-кунде Рагхунатха Дас, на Говардхане Рагхава Пандит."
+  persons: ["@narottama-dasa", "@jiva-gosvami", "@srinivasa-acharya", "@gopala-bhatta", "@radha-ramana-deity", "@govinda-deity", "@gopinatha-deity-vrindavana", "@madana-mohana-vrindavana", "@madhu-pandita", "@bhugarbha", "@radha-damodara-deity", "@krishnadasa-brahmachari", "@raghunatha-dasa", "@raghava-gosvami-govardhana", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana", "#radha-kunda", "#govardhana"]
+  kind: post-advent
+  authority: B
+  themes: [deities, pilgrimage]
+  event: ev-narottama-vrindavana-darshan
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "259", to: "311"}
+
+- id: nvl-0018
+  source: narottama-vilasa
+  ref: "Виласа 2, 312–318"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 75
+  title: "Нароттама учится у Дживы, служит Локанатхе и получает посвящение"
+  summary: "Джива начинает обучать Нароттаму книгам бхакти, тот пленяет всех толкованием; Нароттама усердно служит Локанатхе, и однажды Локанатха, видя его тоску, даёт ему мантру посвящения."
+  persons: ["@narottama-dasa", "@jiva-gosvami", "@lokanatha"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [teaching, mercy]
+  event: ev-narottama-initiation
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "312", to: "318"}
+
+- id: nvl-0019
+  source: narottama-vilasa
+  ref: "Виласа 2, 319–325"
+  file: "narottama-vilasa/ru/02.md"
+  period: P15
+  order: 77
+  title: "Джива даёт Нароттаме звание «Тхакур Махашая»"
+  summary: "Поняв желание всех, Джива нарекает Нароттаму «Шри Тхакур Махашая»; о его служении в уме — отсылка к «Бхакти-ратнакаре». Подпись автора и колофон."
+  persons: ["@narottama-dasa", "@jiva-gosvami", "@narahari-chakravarti"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  themes: [teaching]
+  event: ev-narottama-thakura-mahashaya
+  verses:
+    - {file: "narottama-vilasa/ru/02.md", from: "319", to: "325"}

@@ -40,3 +40,35 @@
   order: 12.2
   themes: [ecstasy, kirtan]
   notes: "«Нароттама-виласа» 1: глядя в сторону Кхетури; там же упомянуто, что в Нилачале Господь плакал, называя Шринивасу. Ср. ev-prema-left-in-padma (ПВ)."
+
+- id: ev-narottama-annaprashana
+  title: "Первое кормление Нароттамы: ест только прасад Вишну; наречение имени"
+  title_en: "Narottama's first feeding: he eats only Vishnu's prasada; the naming"
+  period: P14
+  order: 99.6
+  themes: [family, prasada]
+  notes: "«Нароттама-виласа» 2: имя даёт астролог."
+
+- id: ev-narottama-hears-krishnadasa
+  title: "Юный Нароттама слушает рассказы брахмана Кришнадаса о Господе, спутниках и Шринивасе"
+  title_en: "Young Narottama hears the brahmana Krishnadasa's accounts of the Lord, His associates and Srinivasa"
+  period: P15
+  order: 69
+  themes: [teaching, separation]
+  notes: "«Нароттама-виласа» 2."
+
+- id: ev-narottama-dream-gaura-kheturi
+  title: "Гаура, затем Нитьянанда, Адвайта и спутники во сне велят Нароттаме идти во Вриндаван к Локанатхе"
+  title_en: "In a dream Gaura, then Nityananda, Advaita and the associates bid Narottama go to Vrindavana to Lokanatha"
+  period: P15
+  order: 70.5
+  themes: [celestial, mercy]
+  notes: "«Нароттама-виласа» 2; ср. ev-narottama-receives-prema (ПВ: сон Нитьянанды)."
+
+- id: ev-narottama-vrindavana-darshan
+  title: "Джива водит Нароттаму по Вриндавану: Божества, самадхи Рупы и Санатаны, Радха-кунда, Говардхана"
+  title_en: "Jiva leads Narottama through Vrindavana: the Deities, the samadhis of Rupa and Sanatana, Radha-kunda, Govardhana"
+  period: P15
+  order: 74.5
+  themes: [deities, pilgrimage]
+  notes: "«Нароттама-виласа» 2: у Гопалы Бхатты, Мадху Пандита, Бхугарбхи, Кришнадаса Брахмачари, Рагхунатхи Даса, Рагхавы Пандита."
