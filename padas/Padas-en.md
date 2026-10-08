@@ -131,8 +131,8 @@ reference "ch. 22, no. 7" means pada 7 of chapter 22, "n. 36 of chapter 22" — 
 VG-…, NG-…, NS-…, LD-… are the numbers of our working catalogue of padas (from the initials of the poet or section);
 they are kept in the notes so that a pada can be found in the project materials.
 
-**Transliteration.** Bengali words are given in IAST, with the inherent vowel written in full; ব is rendered *v*
-(but *b* in the clusters ম্ব, ব্দ, ব্ধ, ব্জ), ঁ is *m̐*, ং is *ṃ*, ড় is *ṛ*, য় is *y*.
+**Transliteration.** Bengali words are given in IAST, with the inherent vowel written in full; ব is rendered *b*
+(but *v* after a consonant: স্ব *sv*, দ্ব *dv*), ঁ is *m̐*, ং is *ṃ*, ড় is *ṛ*, য় is *y*.
 
 ## How to read the full version
 
@@ -144,7 +144,8 @@ each couplet is preceded by:
 3. a word-for-word translation;
 4. the translation.
 
-The readings of the witnesses are recorded in the notes; their full apparatus appears in the Russian full edition.
+The readings of the witnesses are recorded in the notes; their full apparatus appears in the Russian full edition, and
+references to variants "in the full version of the book" point to it.
 
 ## Abbreviations
 
@@ -207,7 +208,7 @@ Govinda Ghosha's body is wasting away.
 
 [^01-1]: Govinda Ghosha was the eldest of the three Ghosha brothers (Govinda, Madhava, Vasudeva), kirtana singers of the
 Lord (CC Adi 10, Madhya 13). The journey to East Bengal: CB Adi 14, CC Adi 16, Murari 1.11.5–16, Lochana
-(lochana/en/20.md, vv. 61–103). Majumdar's argument: the pada has no hint of Nimai's divinity or of kirtana — the poet
+(*Chaitanya-mangala*, Adi-khanda, part 12, vv. 61–103). Majumdar's argument: the pada has no hint of Nimai's divinity or of kirtana — the poet
 knows Him only as a youth he has seen on the bank of the Ganga; such simplicity is natural only in verses made before the
 change at Gaya. In PK the pada stands as a gaura-chandrika (prelude) to the section on "distant separation" (Krishna's
 departure for Mathura).
@@ -258,7 +259,7 @@ With joy at heart Vasudeva Ghosha sings.
 1509 (PK 1536, 1537, 1571 — the "historical" padas of Vasu Ghosha). "King of dancers" (nata-raya) is a frequent name
 for Gaura, the leader of the dancers in kirtana, among the kirtana poets.
 
-## 4. Govinda, Madhava and Vasu Ghosha — "vasilā gaurāṅgacandra ratna-siṃhāsane…" (PK 1538)
+## 4. Govinda, Madhava and Vasu Ghosha — "basilā gaurāṅgacandra ratna-siṃhāsane…" (PK 1538)
 *Lila: after the abhisheka the Lord on the throne: the feast, Shachi's arati, the worship of the devotees. Signed by all
 three Ghosha brothers.*[^01-7]
 
@@ -426,7 +427,7 @@ poetic image of the Lord's irresistible beauty (Krishna the Natavara captivates 
 in this incarnation the Lord never so much as glanced at another man's wife, and the Gaudiya tradition does not accept
 the worship of Gaura in the spirit of "Gaura-nagari".
 
-## 10. Vasu Ghosha — "soṅari puruva-līlā tribhaṅga hailā…" (BR, p. 935)
+## 10. Vasu Ghosha — "soṅari puruba-līlā tribhaṅga hailā…" (BR, p. 935)
 *Lila: Gora, remembering His former lila, plays the flute on the bank of the Ganga. Raga dhanashi.*[^01-17]
 
 **10.1.** Remembering His former lila, He stood thrice-bent,
@@ -466,7 +467,7 @@ to the *Gaura-ganoddesha-dipika* (Gauridasa is Subala). "Ramai" is probably Abhi
 according to GGD; the identification is not certain. Majumdar's argument: this pada explains why Nityananda's companions
 lived in the mood of cowherds (as CB describes) — they had seen the Lord's goshtha-lila.
 
-## 12. Vamshivadana — "śacīra nandana gorā o cām̐da-vayāne…" (PK 2564)
+## 12. Vamshivadana — "śacīra nandana gorā o cām̐da-bayāne…" (PK 2564)
 *Lila: the same goshtha-lila: Nityananda sounds the horn, Gauridasa and Abhirama come running. According to Majumdar, more
 detailed than Vasu's and bearing "the stamp of an eyewitness"; 1509. Raga bhatiyari.*[^01-19]
 
@@ -493,7 +494,7 @@ Navadvipa. In PK the pada is a gaura-chandrika to the section "going out to the 
 notes that the pada explains why GGD calls Gauridasa Subala and Abhirama Shridama. He dates it to 1509 (the OCR of his
 book has "1507", probably a misprint).
 
-## 13. Vasu Ghosha — "gaurāṅgacām̐dera mane ki bhāva uṭhila…" (PK 1368; BR, pp. 935–936)
+## 13. Vasu Ghosha — "gaurāṅgacām̐dera mane ki bhāba uṭhila…" (PK 1368; BR, pp. 935–936)
 *Lila: the Lord in Krishna's mood remembers the dana-lila and "collects a toll" on the roads of Nadia. According to
 Majumdar, seen with his own eyes, 1509. Raga suhai (PK), kamoda (BR).*[^01-20]
 
@@ -585,7 +586,7 @@ heading as a tradition going back to Gadadhara himself and dates the pada to the
 section "separation to come". Cf. CB Madhya 26, Murari 2.18.17–23: the devotees learn of the Lord's decision to take
 sannyasa.
 
-## 16. Govinda Ghosha — "hede re nadīyāvāsī kāra mukha cāo…" (PK 1622)
+## 16. Govinda Ghosha — "hede re nadīyābāsī kāra mukha cāo…" (PK 1622)
 *Lila: the day the Lord leaves Navadvipa for sannyasa. According to Majumdar, written on that very day (1510). Raga
 suhai.*[^01-24]
 
@@ -608,7 +609,7 @@ only stony Govinda Ghosha does not die.
 leaving home at night at the end of Magha 1510 and crossing the Ganga towards Katwa: CB Madhya 28, CC Adi 17, Murari
 3.1.6–7.
 
-## 17. Vamshi(vadana) — "āra nā heriva prasara kapāle…" (PK 1855)
+## 17. Vamshi(vadana) — "āra nā heriba prasara kapāle…" (PK 1855)
 *Lila: Navadvipa's grief after the sannyasa; the weeping of Shachi and Vishnupriya. According to Majumdar, soon after the
 sannyasa (1510). Raga gandhara.*[^01-25]
 
@@ -704,7 +705,7 @@ not have been written. The Lord's instruction to the devotees of Gauda to come t
 1. "Will take his own life" is a hyperbole of separation, common in Bengali padas; cf. the devotees' threats to give up
 their lives in separation from the Lord in CC (Madhya 3).
 
-## 20. Narahari (Sarakara) — "sonā śatavāna jini gaurāṅga āmāra…" (PK 1729)
+## 20. Narahari (Sarakara) — "sonā śatabāna jini gaurāṅga āmāra…" (PK 1729)
 *Lila: the first chaturmasya after the sannyasa — the devotees do not know where the Lord is. According to Majumdar,
 written during the first chaturmasya (1510). Raga suhai.*[^01-30]
 
@@ -792,8 +793,7 @@ Nityananda comes. Majumdar values this and the next pada as testimonies which th
 05):* the same pada is found in PK — no. 2270 (vol. 3, PDF p. 293, printed p. 282; 21st pallava, raga vibhasa; MS
 P-R-Sa no. 2374) and in GPT1 (p. 386, no. 11, raga pahida) — signed by Vasudeva Ghosha and with a different
 last stanza: "Since then my soul weeps, my heart finds no rest: what shall I do, tell me, what way is there? Says Vasudeva
-Ghosha: Gauranga is yours — otherwise would you always see Him?" Stanzas 22.1–22.4 in PK have minor variants (see
-bn/01.md). PK 2268 "viraha-vikala māya…", which the stage-1 catalogue took for this pada (VG-138), is a pada of Premadasa.
+Ghosha: Gauranga is yours — otherwise would you always see Him?" Stanzas 22.1–22.4 in PK have minor variants (see the full version of the book). PK 2268 "biraha-bikala māya…", which the stage-1 catalogue took for this pada (VG-138), is a pada of Premadasa.
 
 ## 23. Vasu Ghosha — "āola nadīyāra loka gaurāṅga dekhite…" (GPT1, p. 413)
 *Lila: the sannyasi Chaitanya comes to Nadia (1514/15); the people of Navadvipa and Mother Shachi see Him. Raga shri.*[^01-35]
@@ -815,7 +815,7 @@ to the neighbourhood of Navadvipa on His way to Gauda (1514/15), told by Murari 
 CC (Madhya 1) and CB (Antya 3) speak of His stay at Kuliya, opposite Navadvipa. The chakora is a bird that, in poetic
 tradition, feeds on moonlight.
 
-## 24. Krishnadasa — "ṭhākura paṇḍitera vāṛī gorā nāce phiri phiri…" (PK 2358)
+## 24. Krishnadasa — "ṭhākura paṇḍitera bāṛī gorā nāce phiri phiri…" (PK 2358)
 *Lila: the Lord and Nityananda at Ambika with Gauridasa Pandita; Gauridasa begs Them to stay, and the Lord tells him to
 serve Their Deities. According to Majumdar, a contemporary testimony that the worship of the Lord's Deity began in His
 lifetime. Raga bhatiyari.*[^01-36]
@@ -934,7 +934,7 @@ Shachi at the Lord's bidding: CC Antya 12. Majumdar's argument: the restraint in
 not given — only "the Lord's wife") is a mark of a contemporary; Vrindavana Dasa does the same.
 [^01-39]: Ai ("mother") — so Mother Shachi was called in Navadvipa.
 
-## 26. Narahari (Sarakara) — "rase tanu ḍhara ḍhara gaurakiśora vara…" (PK 2259)
+## 26. Narahari (Sarakara) — "rase tanu ḍhara ḍhara gaurakiśora bara…" (PK 2259)
 *Theme: the truth of Gaura — Shyama became Gaura to play with Radha; the poet fears to reveal the secret. According to
 Majumdar, written before Svarupa Damodara's kadacha, i.e. in the Lord's lifetime. Raga pahida (GPT).*[^01-40]
 
@@ -1009,7 +1009,7 @@ now He wears the garb of a sannyasi.
 Madhavi Dasa says: the wondrous Gora Raya
 has entered the house of the Bhattacharya.[^02-5]
 
-[^02-1]: The signature in PK is "mādhavī dāsa" (Madhavi Dasa). Who this poet was is not established: Majumdar does not name
+[^02-1]: The signature in PK is "mādhabī dāsa" (Madhavi Dasa). Who this poet was is not established: Majumdar does not name
 him among the contemporaries; some identify the poet with Madhavi Devi of Puri, the sister of Shikhi Mahiti, whom the
 Lord counted among Radha's closest maidservants (CC Antya 2), but there is no proof — the attribution is doubtful. GPT1
 and GPT2 give the same pada with different readings in almost every line and with another ending — the signature of
@@ -1053,7 +1053,7 @@ all the followers of Gorachand have gathered.
 **2.6.** Whoever sees Gora's face floats in prema;
 Madhavi alone is left out — through the fault of Madhavi's own deeds.[^02-8]
 
-[^02-6]: The signature is "mādhavi" (MS "ka": "mādhavī"; "P-R-Sa": "mādhava"); on the poet see note 1. In GPT (GPT1, p. 402) the
+[^02-6]: The signature is "mādhabi" (MS "ka": "mādhabī"; "P-R-Sa": "mādhaba"); on the poet see note 1. In GPT (GPT1, p. 402) the
 pada follows the pada on Sarvabhauma seeing the Lord's forms. Cf. CC Madhya 6: Nityananda, Mukunda, Gadadhara (and
 Jagadananda) come to Sarvabhauma's house, where the Lord lies senseless.
 [^02-7]: Gopinatha Acharya, Sarvabhauma's brother-in-law (his sister's husband), had known the Lord in Navadvipa; Vaninatha
@@ -1123,7 +1123,7 @@ Ratha-yatra. Majumdar regards him as a contemporary and an eyewitness. In GPT2 t
 [^02-12]: The chintamani is the wish-fulfilling gem. "Makes the fallen say the name": the Lord gives the holy name to all
 without distinction.
 
-## 5. Narahari (Sarakara) — "tribhuvana-manohara śachīra nandana mora…" (PK 2241)
+## 5. Narahari (Sarakara) — "tribhubana-manohara śachīra nandana mora…" (PK 2241)
 *Lila: from the sannyasa to Nilachala — the Lord leaves His former appearance and gives away the holy name and prema;
 sankirtana on the seashore with Svarupa, Rupa, Ramananda, Govinda and Paramananda Puri. According to Majumdar, a pada by
 an eyewitness of the Puri period. Raga bhatiyari.*[^02-13]
@@ -1194,7 +1194,7 @@ Lord in Radha's mood, see CC Antya 15–17.
 [^02-18]: Radha's words: the sound of Krishna's flute draws the gopis out of their homes, making them forget their duty to
 family and their good name. This is the language of pure prema, not of worldly passion.
 
-## 7. Narahari (Sarakara) — "āre mora gaurakiśora. puruva prema-rase bhora…" (PK 840)
+## 7. Narahari (Sarakara) — "āre mora gaurakiśora. puruba prema-rase bhora…" (PK 840)
 *Lila: holding the hands of Svarupa Damodara and Ramananda Raya, the Lord laments: "No one understands My heart." In PK
 it is the gaura-chandrika to the section "reproaches to a friend" (akshepanuraga). According to Majumdar, Puri, an
 eyewitness. Raga suhai.*[^02-19]
@@ -1225,7 +1225,7 @@ Radha's words).
 [^02-20]: Words in Radha's mood: love for Krishna in separation burns so fiercely that the heart seems already lost. The
 line conveys the force of vipralambha, not worldly despair.
 
-## 8. Narahari (Sarakara?) — "prema kari kulavatī sane…" (GPT1, pp. 309–310)
+## 8. Narahari (Sarakara?) — "prema kari kulabatī sane…" (GPT1, pp. 309–310)
 *Lila: the Lord, in the mood of Radha as khandita (wounded by Her beloved's faithlessness), complains to Svarupa of Kanu,
 who did not come to the tryst. Only in GPT (section "khandita, mana"). Raga suhai.*[^02-21]
 
@@ -1290,7 +1290,7 @@ the last years in Puri (Antya 14–20).
 the gopis became known as 'kama'" (*Bhakti-rasamrita-sindhu* 1.2.285; CC Madhya 8) — there is not a trace of
 self-seeking desire in it. "Words from the former lila": Radha's speeches in separation from Krishna.
 
-## 10. Narahari (Sarakara) — "ki lāgi dhulāya dhūsara soṇāra varaṇa gaura-deha…" (PK 1902)
+## 10. Narahari (Sarakara) — "ki lāgi dhulāya dhūsara soṇāra baraṇa gaura-deha…" (PK 1902)
 *Lila: the mood of separation — the Lord's body has grown wan (malinangata, one of the ten states of separation). In PK
 it is in the section "The ten states" (dasha-dasha). Raga malashi-vala (PK), suhai (GPT1).*[^02-25]
 
@@ -1309,14 +1309,14 @@ Such is the way of Rai's love, —
 says Narahari Dasa.[^02-26]
 
 [^02-25]: The signature is "Narahari Dasa"; Majumdar quotes the line "Moaning 'uhu, uhu'…" among Narahari Sarakara's padas on
-the mood of separation (viraha). GPT1 (p. 311, no. 11) has it with variants. The ten states (dasha) of separation
+the mood of separation (biraha). GPT1 (p. 311, no. 11) has it with variants. The ten states (dasha) of separation
 according to rasa-shastra (*Ujjvala-nilamani*): anxious brooding, sleeplessness, agitation, emaciation, wanness of the
 body (malinangata), incoherent speech (pralapa), sickness, the madness of prema (unmada), swoon (moha), and the last, extreme state. In PK the pada
 is headed: "Now — wanness of the body. Sri Mahaprabhu, overcome by this mood".
 [^02-26]: "The way of Rai's love": the Lord experiences Radha's separation from Krishna (CC Antya 14–20); this is no worldly
 pining but the highest stage of prema — mahabhava.
 
-## 11. Narahari (Sarakara) — "soṇāra varaṇa gaurāṅgasundara pāṇḍura bhai gela deha…" (PK 1908)
+## 11. Narahari (Sarakara) — "soṇāra baraṇa gaurāṅgasundara pāṇḍura bhai gela deha…" (PK 1908)
 *Lila: the mood of separation — "sickness" (vyadhi-dasha): pallor, trembling, sweat, tears, incoherent speech. Raga
 kamoda.*[^02-27]
 
@@ -1401,7 +1401,7 @@ Lord spent His last years (CC Antya 6, 14–20).
 the Gambhira until it was covered with wounds; after that Svarupa asked Shankara Pandita to sleep at the Lord's feet.
 Here is the same state: "no one is beside Him".
 
-## 14. Narahari (Sarakara) — "gaurāṅga-chāndera bhāva kahane nā yāya…" (PK 832)
+## 14. Narahari (Sarakara) — "gaurāṅga-chāndera bhāba kahane nā yāya…" (PK 832)
 *Lila: in solitude the Lord tells His companions: "I will throw Myself into the sea." In PK it is the gaura-chandrika to
 the section "reproaches to oneself" (akshepanuraga). According to Majumdar, Puri: the pada foreshadows the Lord's fall
 into the sea. Raga tudi.*[^02-34]
@@ -1564,7 +1564,7 @@ armlets… — all that enchanting attire He gave up."
 rustle, thinking Krishna has come. The Lord experiences Her waiting; this is a manifestation of prema, not of worldly
 longing.
 
-## 4. Narahari (Sarakara) — "hema darapaṇi gaurāṅga-lāvaṇi…" (PK 316)
+## 4. Narahari (Sarakara) — "hema darapaṇi gaurāṅga-lābaṇi…" (PK 316)
 *Lila: Navadvipa — the Lord in the mood of Radha as vipralabdha (the deceived heroine whose beloved did not come to the
 tryst) rolls in the dust, calls "Lord of My life!" and weeps before His companions. In PK — a gaura-chandrika to
 "vipralabdha in spring". According to Majumdar — a pada of vipralambha (separation). Raga bhairavi.*[^03-11]
@@ -1591,8 +1591,8 @@ yet He Himself is ever drunk with Radha's love.[^03-12]
 
 [^03-11]: The signature is "Narahari Dasa". S. Ray notes that the pada is found in only one PK manuscript (kha) and placed it in
 the text because the other sections of this pallava open with gaura-chandrikas. In GPT1 (p. 307, no. 27) with minor
-variants. B. B. Majumdar (1961) gives the pada from a Baranagar manuscript with the reading "aśana vasana" ("food and clothes")
-instead of "āsana vasana" ("seat and clothes").
+variants. B. B. Majumdar (1961) gives the pada from a Baranagar manuscript with the reading "aśana basana" ("food and clothes")
+instead of "āsana basana" ("seat and clothes").
 [^03-12]: Cf. CC Adi 4: the external reason for the Lord's appearance is to give the world the holy name and prema, the internal
 one — to taste Radha's love. Narahari expresses the same thought: delivering the world is the "pretext", while the Lord's
 heart is ever in Radha's prema.
@@ -1623,7 +1623,7 @@ the line "I know You, I know Your false love". The khandita is one of the eight 
 [^03-14]: The words of Radha as khandita to Krishna, who has come in the morning from Her rival. Radha's jealousy and pique
 (mana) are a manifestation of the highest prema, not a worldly feeling; the Lord experiences them in Her mood.
 
-## 6. Narahari (Sarakara) — "gorā pahum̐ virale vasiyā…" (PK 421)
+## 6. Narahari (Sarakara) — "gorā pahum̐ birale basiyā…" (PK 421)
 *Lila: Navadvipa — the Lord in the mood of Radha as khandita sits alone after a sleepless night and weeps: "Having given Me
 hope, You deceived Me all night." In PK — a gaura-chandrika to "khandita — the composed-impatient (dhira-adhira) madhya".
 According to Majumdar — Narahari Sarakara's pada of the khandita. Raga gandhara.*[^03-15]
@@ -1647,7 +1647,7 @@ Narahari begs for grace.[^03-16]
 (PK 408). Majumdar cites the lines "Having given Me hope, You deceived Me all night, — weeping, says Gora Raya".
 [^03-16]: "Begs for grace" — in the original "begs for prasada" (parasāda): the Lord's mercy.
 
-## 7. Ananta Dasa — "āpāda-mastaka prema-dhārā varikhata…" (PK 2208)
+## 7. Ananta Dasa — "āpāda-mastaka prema-dhārā barikhata…" (PK 2208)
 *Praise of Gauranga: from head to foot He pours streams of prema; at His qualities wood and stone melt, beasts and birds
 weep; the poet asks only one thing — to sing of Gauranga, wandering from land to land. In PK — the section "Sri Gaurachandra —
 in another way". Majumdar names the pada among Ananta's padas on Gauranga's mood. Raga mangala.*[^03-17]
@@ -1676,7 +1676,7 @@ wandering from land to land.
 of the Lord; PK has 32 padas with his signature. In GPT1 (p. 39, no. 41) and GPT2 with variants.
 [^03-18]: The moons at His feet are the Lord's toenails, shining like moons.
 [^03-19]: PK: "…fashioned Gaurangachand's body, remaining firm himself" (daṛhiyā); the P-R-Sa manuscript and GPT2 read "dhariyā",
-and GPT "Gaurangachand" (cām̐dere ye): "…fashioned Gaurangachand, taking on his own body". The image of the Creator (vidhi) who "sculpted" beauty is a
+and GPT "Gaurangachand" (cām̐dere ye): "…fashioned Gaurangachand, taking on his own body". The image of the Creator (bidhi) who "sculpted" beauty is a
 poetic convention (poets speak so of Radha and Krishna too); the Lord's body is not created — it is eternal, full of being,
 knowledge and bliss ("ishvarah paramah krishnah sac-cid-ananda-vigrahah", *Brahma-samhita* 5.1).
 
@@ -1711,7 +1711,7 @@ pada immediately follows the preceding one (PK 2208).
 manuscript ka reads "body" (deha): "Their body knows no rest".
 [^03-22]: Cf. *Bhagavad-gita* 7.15: the deluded do not surrender to the Lord, "having taken shelter of the nature of the asuras".
 
-## 9. Ananta Acharya — "jaya śacīnandana jaga-jīvana sāra…" (PK 2285)
+## 9. Ananta Acharya — "jaya śacīnandana jaga-jībana sāra…" (PK 2285)
 *Lila: from the appearance to Nilachala — the Lord of Goloka descends in Navadvipa, teaches the dharma of the age —
 sankirtana, accepts sannyasa from Keshava Bharati, shows the six-armed form in Utkala and settles in Nilachala. In PK —
 the section "The sannyasa of Sri Gauranga, etc." According to Majumdar — probably a pada by Ananta Acharya, who lived in
@@ -1839,7 +1839,7 @@ with the flute.
 [^03-36]: The Butter-thief is Krishna. Cf. *Tattva-sandarbha* (2): "antah krishnam bahir gauram" — "Krishna within, Gaura
 without"; CC Adi 1, 4.
 
-## 12. Narahari (Sarakara) — "āova gaura punahi nadiyāpura…" (PK 1970)
+## 12. Narahari (Sarakara) — "āoba gaura punahi nadiyāpura…" (PK 1970)
 *Lila: Navadvipa in the years when the Lord lives in Puri: the devotees dream of His return — to see His face and His
 kirtana again. In PK — a gaura-chandrika to the section "Bhavollasa" (Radha's joy at the news of Krishna's return), headed
 "The words of the devotees, the residents of Navadvipa". Raga dhanashi.*[^03-37]
@@ -1865,7 +1865,7 @@ to see the youthful Gaura?
 
 [^03-37]: The signature is "Narahari Dasa". Majumdar does not discuss this pada; its attribution to Narahari Sarakara is likely
 (simple language) but not proven. In GPT1 (p. 411, no. 27) with variants, in the section on the years in Puri; there
-instead of "will come" (āova) it reads "is coming" (āota). In PK the pada follows a gaura-chandrika by Radhamohana to the
+instead of "will come" (āoba) it reads "is coming" (āota). In PK the pada follows a gaura-chandrika by Radhamohana to the
 same section.
 [^03-38]: The Lord wore the sacred thread (upavita) before sannyasa; on accepting sannyasa He gave it up. The Navadvipa
 devotees remember His former form — as they saw Him in the kirtanas of 1509.
@@ -1923,7 +1923,7 @@ The One You weep for, Lord, is You Yourself.[^03-43]
 8); Majumdar considers Vasu Ghosha's padas known only from GPT unreliable, and two padas signed Vasu in which Svarupa
 accompanies the Lord in Navadvipa or on the Yamuna outright spurious (Svarupa came to the Lord only in Puri). Here, to judge
 by Svarupa's presence, the scene is Puri, but the attribution remains doubtful. In GPT the pada follows the pada of
-Narahari (?) "prema kari kulavatī sane" (chapter 2, no. 8). Svarupa Damodara in the Lord's mood is Radha's friend Lalita
+Narahari (?) "prema kari kulabatī sane" (chapter 2, no. 8). Svarupa Damodara in the Lord's mood is Radha's friend Lalita
 (CC Antya 14–19; *Gaura-ganoddesha-dipika*).
 [^03-42]: "Another" — Radha's rival (Chandravali). Radha's abuse in mana is the language of the highest prema, not of worldly
 jealousy; the Lord experiences it in Radha's mood.
@@ -1931,7 +1931,7 @@ jealousy; the Lord experiences it in Radha's mood.
 says: the Krishna You seek is You Yourself.
 
 ## 15. Narahari (Sarakara) — "kanaka-campaka gorācānde…" (PK 849)
-*Lila: the Lord in Radha's mood reproaches the Creator (vidhi): "Who has driven Me mad? Why did he make such a union?" In PK
+*Lila: the Lord in Radha's mood reproaches the Creator (bidhi): "Who has driven Me mad? Why did he make such a union?" In PK
 — a gaura-chandrika to the section "reproaches to the Creator" (akshepanuraga). Raga suhai.*[^03-44]
 
 **15.1.** Gorachand, the colour of the golden champaka —
@@ -1954,10 +1954,10 @@ gaura-chandrikas in the PK sections on akshepanuraga (853, 799, 820, 832, 840) d
 (p. 300, no. 27) and GPT2 the pada comes immediately after PK 840 ("Ah, my youthful Gaura!", chapter 2, no. 7), among the
 Puri padas. The pada itself does not name the place.
 [^03-45]: "Union" (yoṭanā; ms. ka "yoṭana", kha "yoṭinā"; GPT "joṭana"): Radha reproaches the Creator because Her love for Krishna
-has been joined with the bonds of family and duty and brings only suffering. The madness (vāuri) here is the madness of
-prema. Instead of "Shame…" PK reads "vahe dhik" — apparently a misprint for "kahe dhik" ("says: shame…"), as in GPT.
+has been joined with the bonds of family and duty and brings only suffering. The madness (bāuri) here is the madness of
+prema. Instead of "Shame…" PK reads "bahe dhik" — apparently a misprint for "kahe dhik" ("says: shame…"), as in GPT.
 
-## 16. Narahari (Sarakara) — "āre mora gaura kiśora. nāhi jāne divāniśi…" (PK 1746)
+## 16. Narahari (Sarakara) — "āre mora gaura kiśora. nāhi jāne dibāniśi…" (PK 1746)
 *Lila: the mood of separation — the Lord does not distinguish day from night, laughs without cause, sings aloud asking,
 "Where is the Lord of My life?", trembles, leaps, dances, speaks incoherently, weeps with closed eyes. In PK — a
 gaura-chandrika to the section "Separation in the winter season" (hemanta and shishira). According to Majumdar — Narahari
@@ -1985,7 +1985,7 @@ why then am I left out?[^03-48]
 [^03-46]: The signature is "Narahari Dasa". Majumdar cites the line "Now He sings aloud — of whom, of what does the Lord ask?"
 among Narahari Sarakara's viraha padas. In GPT1 (p. 315, no. 8) and GPT2 (sec. 4.7, no. 8) the pada stands immediately after
 PK 1662 and 1663 (no. 17 of this chapter), among the padas on the divine madness of prema; there instead of "speaks
-incoherently" (pralāpa) it reads "laments" (vilāpa), with a note of the reading "pralāpa". In PK the pada is preceded by the
+incoherently" (pralāpa) it reads "laments" (bilāpa), with a note of the reading "pralāpa". In PK the pada is preceded by the
 heading "Separation befitting winter. Here — Sri Gaurachandra".
 [^03-47]: Radha's words in separation: She seeks Krishna and does not know where to go. Trembling is a sattvika-bhava; in PK
 the pada opens the section on winter separation, and trembling "as with cold" matches the season. This is the madness of
@@ -2018,7 +2018,7 @@ couplet is added with Vasu Ghosha's signature: "Vasu Ghosha says: my Gora is dru
 is disputed: it may be a continuation of Vasu Ghosha's PK 1662, but the witnesses disagree. Ramaraya is Ramananda Raya. Cf.
 CC Antya 14: coming to Himself after running to Chataka-parvata, the Lord says to Svarupa, "Why have you brought Me here? I
 just saw Krishna…"; Antya 17–18.
-[^03-50]: "Krishna with the flute at His lips" — in the original "murali-vadana", "He whose face bears the flute". The Lord
+[^03-50]: "Krishna with the flute at His lips" — in the original "murali-badana", "He whose face bears the flute". The Lord
 speaks in the mood of Radha, who has just seen Krishna and lost Him again.
 
 ## 18. Narahari — "gaurāṅga ke jāne mahimā tomāra…" (PK 2293)
@@ -2043,7 +2043,7 @@ so Narahari sings of His qualities.
 majhu nātha" — in GPT1 signed by Vaishnava Dasa) was wrongly linked to PK 2293. The language and imagery (churning, a downpour
 of prema) are closer to later stutis; the pada may also belong to Narahari Chakravarti — its attribution to Sarakara is not
 established. In GPT1 (p. 28, no. 6) and GPT2 with the variant "mathiyā se karatāla" instead of "mathiyā se kata kāla".
-[^03-52]: The image is the churning of the Milk Ocean, from which the amrita appeared. "The Creator" (vidhi) is a poetic figure:
+[^03-52]: The image is the churning of the Milk Ocean, from which the amrita appeared. "The Creator" (bidhi) is a poetic figure:
 Gauranga is not created — He is Shyama (Krishna) Himself, who accepted Radha's lustre and mood (CC Adi 4).
 
 ---
@@ -2108,7 +2108,7 @@ For "the godless" (pāṣaṇḍa) MSS "ka", "ca" read "filth" (kaluṣa); so al
 [^04-5]: Nichhani (nichani) is the custom of waving something round a beloved person to ward off harm from him and then giving it
 away; the poet "offers himself" in such an offering to the nails of the Lord's feet. MSS "ka", "ca", P-R-Sa read "nichani".
 
-## 2. Govinda Ghosha — "gorācām̐da kivā tomāra vadana-maṇḍala…" (PK 1029)
+## 2. Govinda Ghosha — "gorācām̐da kibā tomāra badana-maṇḍala…" (PK 1029)
 *Lila: Gorachand's form — a song of the Lord's beauty in Navadvipa. In PK it opens the section "Delight in the form"
 (rupa-ullasa) as a gaura-chandrika. According to Majumdar, Govinda Ghosha, the eldest of the Ghosha brothers, conveys his
 own impression of Gauranga's form. Raga dhanashi.*[^04-6]
@@ -2141,7 +2141,7 @@ Govinda Ghosha speaks, with joy in his heart for Gora:
 under the heading "Now, delight in the form. Sri Gaurachandra" and opens the songs on the beauty of Radha and Krishna. It is
 not in GPT. Majumdar names PK 1029 and 2146 (no. 3) among Govinda Ghosha's padas on Gaura's form.
 [^04-7]: Haritala is orpiment, a golden-yellow paint; gorochana is a yellow pigment used for tilaka; "gold of ten van"
-(daśavān) is gold refined many times, of the finest assay. Manmatha is Kamadeva: the Lord's beauty enchants the god of love
+(daśabān) is gold refined many times, of the finest assay. Manmatha is Kamadeva: the Lord's beauty enchants the god of love
 himself (cf. Krishna's name Madana-mohana). MS P-R-Sa reads "tanu" ("body") for "janu" ("as if").
 [^04-8]: "You pierce the hearts of women" (MSS "kha", "gha", P-R-Sa: "the heart of a woman") is a stock image of the poetics
 of describing beauty; we translate faithfully. Vrindavana Dasa stresses that in this incarnation the Lord never looked at
@@ -2172,7 +2172,7 @@ if I do not see Gora, everything tastes of poison.
 [^04-10]: The signature is "Govinda Ghosha". PK: 18th pallava "The form of Sri Gauranga, etc." (vol. 3, PDF p. 248, printed
 p. 237; MS P-R-Sa no. 2253); GPT1 — p. 116, no. 17; GPT2 — sect. 3.1, no. 17 (almost without variants). Majumdar quotes
 from it the lines "without cause Gora's face smiles" and "if I do not see Gora, everything tastes of poison".
-[^04-11]: "Without cause" (vini) — the smile comes not from an outward occasion but from inner joy. Yellow silk (pita-pata) is
+[^04-11]: "Without cause" (bini) — the smile comes not from an outward occasion but from inner joy. Yellow silk (pita-pata) is
 Krishna's garment; in Navadvipa the Lord, in Krishna's mood, asked for yellow cloth (cf. PK 2122, chapter 3, no. 1). MS
 P-R-Sa: "mukhe" ("on the face").
 
@@ -2215,8 +2215,8 @@ manifestation of Radha in Gaura's lila (cf. chapter 3, no. 1).
 GPT read "the Lord dances with Narahari". Majumdar sees in the line proof that Narahari Sarakara was a companion of the Lord
 already in Navadvipa.
 [^04-15]: "In Radha's mood… became golden" — cf. CC Adi 4: Krishna took on Radha's lustre and mood to taste Her love.
-Vamshivata is the banyan in Vrindavana under which Krishna played the flute. BR and GPT1 read "nā pāyala lavaleśe" — "did
-not receive even a particle"; P-R-Sa, BR and GPT — "e chāra jīvana" — "this wretched life". The signature is the usual
+Vamshivata is the banyan in Vrindavana under which Krishna played the flute. BR and GPT1 read "nā pāyala labaleśe" — "did
+not receive even a particle"; P-R-Sa, BR and GPT — "e chāra jībana" — "this wretched life". The signature is the usual
 formula of humility.
 
 ## 5. Vasu Ghosha — "dekhata jhulata gauracandra…" (PK 1550)
@@ -2256,7 +2256,7 @@ wave"); GPT: "uṭhata nāgara nadīyā" ("[the din] rises in the town of Nadia"
 [^04-18]: The Suradhuni is the Ganga, on whose bank the swing was set up. "Having understood this" — having understood that
 Gaura is the Lord Himself.
 
-## 6. Narahari — "āju racita nava ratana-him̐ḍora…" (PK 1559)
+## 6. Narahari — "āju racita naba ratana-him̐ḍora…" (PK 1559)
 *Lila: Navadvipa — the jhulana: on the bank of the Ganga, under a tall tree, a new jewelled swing has been set up; the
 companions swing Gaura, sing and dance to the drums, the people of Nadia come running, the gods shower the Lord with
 flowers. In PK — a gaura-chandrika in the same section on the jhulana. Raga imana-beloyara.*[^04-19]
@@ -2287,11 +2287,11 @@ no. 16. S. Ray's index of poets assigns PK 1557 to Narahari, but that is Shivara
 Krishna; the gaura-pada signed Narahari in this section is PK 1559. The attribution to Narahari Sarakara is not proven: the
 signature "Narahari" is also borne by padas of Narahari Chakravarti, and the language here is Vrajabuli, which according
 to Majumdar is absent from Sarakara's genuine padas.
-[^04-20]: The khol is a clay drum (mridanga); "tak, thai-thai" are rhythmic syllables of the dance. For "play" (vāota) MS
-P-R-Sa reads "vājāyata" (same sense).
+[^04-20]: The khol is a clay drum (mridanga); "tak, thai-thai" are rhythmic syllables of the dance. For "play" (bāota) MS
+P-R-Sa reads "bājāyata" (same sense).
 [^04-21]: "Has gone mad" (umatāyala) — intoxicated with the joy of prema at the sight of the Lord.
 
-## 7. Chaitanyadasa — "gaurāṅga-cāndera mane ki bhāva uṭhila…" (PK 1169)
+## 7. Chaitanyadasa — "gaurāṅga-cāndera mane ki bhāba uṭhila…" (PK 1169)
 *Lila: Navadvipa — the goshtha-lila: seeing Gauridasa, the Lord remembers His play as a cowherd boy, asks for the milking
 rope and the milk pail, calls the cows Dhavali and Shangali and His friends Shridama and Sudama; Nityananda embraces Him. In
 PK — the gaura-chandrika to the goshthashtami festival. According to Majumdar — the same goshtha-lila (Gauridasa, the
@@ -2355,7 +2355,7 @@ all perfections lie in the palm of his hand.
 [^04-25]: The signature is "Nayanananda". PK: vol. 3, PDF p. 270 (printed p. 259), 20th pallava ("Sri Gaurachandra — another
 manner"), raga the same as that of the preceding pada (shri); MS P-R-Sa no. 2312. GPT1 — p. 32, no. 18 (raga suhai);
 GPT2 — sect. 1.3, no. 18. Nayanananda (Nayana Mishra) is the nephew and disciple of Gadadhara Pandita; Majumdar counts him
-among the contemporary poets. In the stage-1 catalogue a GPT-only pada signed Narahari, "gorā vaṛa dayāra ṭhākura" (NS-009),
+among the contemporary poets. In the stage-1 catalogue a GPT-only pada signed Narahari, "gorā baṛa dayāra ṭhākura" (NS-009),
 was wrongly linked to PK 2204: the words "Gora, the Lord of great mercy" occur here too, but PK 2204 is Nayanananda's
 pada.
 [^04-26]: Chintamani is the wish-fulfilling gem. "Without any effort" (asādhane) — without sadhana: Gaura bestows prema by
@@ -2393,14 +2393,14 @@ Raya Ananta begs but a drop.[^04-32]
 a gaura-chandrika marked "of Sri Nityananda"; p. 83) and GPT (GPT1 — pp. 429–430, no. 52; GPT2 — sect. 6.1, no. 52); it had
 not previously been found in PK (see below). B. B. Majumdar (1961) identifies the "Raya Ananta" of KGC with Ananta of Advaita's branch, a contemporary of the
 Lord; the identification is not proven. The text follows KGC (checked against the scan).
-Full PK check (chapter 16): the pada is also in PK — **PK 2328** (vol. 3, 22nd pallava, PDF pp. 313–314, label "॥৩৫॥২৩২৮॥", MS P-R-Sa no. 2432); PK signature "ananta nā pāila eka vindu" (MSS ka, kha: "rāya ananta māge eka vindu").
+Full PK check (chapter 16): the pada is also in PK — **PK 2328** (vol. 3, 22nd pallava, PDF pp. 313–314, label "॥৩৫॥২৩২৮॥", MS P-R-Sa no. 2432); PK signature "ananta nā pāila eka bindu" (MSS ka, kha: "rāya ananta māge eka bindu").
 [^04-30]: "The source of natural bliss" (sahaje ānanda-kanda) — Nityananda ("eternal bliss") by His very nature. "Knowing all
 truths" — Nityananda (Balarama) knows the hidden truth about Gaura.
 [^04-31]: "Brother" (bhāiyā) is Gaura; for "looking at His brother's face" GPT reads "looking at Gadadhara's face".
 [^04-32]: Goloka is Krishna's supreme abode; "the flood of Goloka's prema" is the prema that Gaura and Nitai brought to the
 earth. GPT: "begs a single drop".
 
-## 10. Vasu Ghosha — "śacīra mandire āsi duyārera pāśe vasi…" (PK 2221)
+## 10. Vasu Ghosha — "śacīra mandire āsi duyārera pāśe basi…" (PK 2221)
 *Lila: the last night in Navadvipa — Vishnupriya wakes, does not find the Lord and comes to Shachi; Shachi and her
 daughter-in-law search for Nimai with a lamp, the people of Nadia question passers-by; someone has seen Him on the road to
 Kanchananagara (Katwa). According to Majumdar — a pada of Vasu Ghosha's cycle on the sannyasa ("Nimai-sannyasa"): a
@@ -2470,15 +2470,14 @@ she lies as if dead;
 "Gora has gone, leaving Nadia."[^04-39]
 
 [^04-36]: The signature is "Vasudeva Ghosha". PK: vol. 3, PDF p. 276 (printed p. 265), 21st pallava, no. 5; MS P-R-Sa no. 2327,
-P-R 40.34. GPT1 — p. 373, no. 22; GPT2 — sect. 5.3, no. 22 (OCR "21"). MS P-R gives a number of lines differently (see
-bn/04.md).
+P-R 40.34. GPT1 — p. 373, no. 22; GPT2 — sect. 5.3, no. 22 (OCR "21"). MS P-R gives a number of lines differently (see the full version of the book).
 [^04-37]: Great souls (mahānta) — the senior devotees. MS P-R: "all went to Gora", "[Vishnupriya] senseless on the ground".
 [^04-38]: "Nitai" — so the main text of PK and MS P-R; MSS "kha", P-R-Sa and GPT read "Nimai": Shachi addresses her departed son.
 "Mantra" and "tantra" mean initiation into sannyasa: Shachi does not know who gave her son the mantra (according to CB Madhya
 28, the Lord Himself whispered the sannyasa mantra into Keshava Bharati's ear and then received it from him).
 [^04-39]: Ishana is the old servant in the house of Shachi and Vishnupriya. "Gestures" — in her grief she cannot speak.
 
-## 12. Vasu Ghosha — "kāñcananagare eku vṛkṣa manohara…" (PK 2223)
+## 12. Vasu Ghosha — "kāñcananagare eku bṛkṣa manohara…" (PK 2223)
 *Lila: Katwa (Kanchananagara) — Gauranga sits under a tree on the bank of the Ganga; the townspeople come running, struck by
 His beauty and resolve; Keshava Bharati appears, the Lord bows to him and asks for the gift of devotion. Raga shri.*[^04-40]
 
@@ -2587,7 +2586,7 @@ twice: VG-061 (after GPT) and VG-137 (PK 2226, with a wrong first line taken fro
 Lord wandered for three days in ecstasy through Radha-desha, and Nityananda followed Him and brought Him to Shantipura.
 [^04-52]: "Ill-starred" (abhāgiyā) is the usual formula of humility in a signature.
 
-## 15. Vasu Ghosha — "ki lāgiyā daṇḍa dhare aruṇa vasana pare…" (PK 2229)
+## 15. Vasu Ghosha — "ki lāgiyā daṇḍa dhare aruṇa basana pare…" (PK 2229)
 *Lila: Navadvipa after the sannyasa — the devotees are bewildered and grieve: why has the Lord taken the staff and red
 garments, shaved His head and, weeping "Radha, Radha", left His homeland; Srivasa sobs, Gadadhara can scarcely live,
 tears stream from Mukunda's eyes. According to Majumdar — a pada of the sannyasa cycle. Raga bhatiyari.*[^04-53]
@@ -2616,8 +2615,8 @@ Vasu Ghosha falls senseless.
 no. 2334. GPT1 — p. 374, no. 26; GPT2 — sect. 5.3, no. 26 (almost without variants).
 [^04-54]: After the sannyasa the Lord is in Radha's mood: for Him sannyasa is a way of service to Krishna (cf. note 47).
 [^04-55]: The Mandakini is the heavenly Ganga. Srivasa, Gadadhara and Mukunda are the Lord's closest companions in Navadvipa.
-[^04-56]: "Consoling: 'So the Creator ordained'" — our understanding of the line "sakala mahānta ghare vidhātā vujhāi phire"
-(MSS "ka", "gha", "ca": "vujhāiyā", "kha": "vujhāite"). "Like a blazing flame" — radiant with beauty and purity (of
+[^04-56]: "Consoling: 'So the Creator ordained'" — our understanding of the line "sakala mahānta ghare bidhātā bujhāi phire"
+(MSS "ka", "gha", "ca": "bujhāiyā", "kha": "bujhāite"). "Like a blazing flame" — radiant with beauty and purity (of
 Vishnupriya); one may also understand "He left His wife — [now] burning like the fire [of separation]".
 
 ## 16. Vasu Ghosha — "hari hari ki nā haila nadīyā nagare…" (PK 2228)
@@ -2649,15 +2648,15 @@ P-R 40.105. GPT1 — p. 373, no. 24; GPT2 — sect. 5.3, no. 24. Majumdar counts
 nagari-bhava. The pada is put into the mouths of the women of Nadia; we translate faithfully to the author. Vrindavana Dasa
 stresses that in this incarnation the Lord never looked at another man's wife; worship of Gaura in the spirit of
 "Gaura-nagari" is not accepted by the Gaudiya tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta).
-[^04-58]: "Those full of rasa" (rasavatī) — the women of Nadia, whose hearts are given to Gaura. MS P-R-Sa and GPT read
-"kuliśa" for "vajara" (thunderbolt; same sense).
+[^04-58]: "Those full of rasa" (rasabatī) — the women of Nadia, whose hearts are given to Gaura. MS P-R-Sa and GPT read
+"kuliśa" for "bajara" (thunderbolt; same sense).
 [^04-59]: Giri, Puri, Bharati are names of orders of sannyasis; Keshava Bharati belonged to the Bharati order. "The jewel from
 the end of the cloth" — what one keeps tied in the end of one's sari.
 [^04-60]: "Others' wives" — married women for whom Gaura is not a husband; the words convey the force of their grief. MSS
-P-R-Sa, P-R and GPT: "how will Vishnupriya pass [her life]" (vañcive).
+P-R-Sa, P-R and GPT: "how will Vishnupriya pass [her life]" (bañcibe).
 [^04-61]: Gokula after Krishna's departure for Mathura is an image of inconsolable separation. Kadamba and ketaki blossom in the
 rainy season and recall Krishna. The second half of the first line is read variously: PK "kadambakhaṇḍite cāru", MSS "ka",
-"kha", "ca" "…varu", P-R-Sa "kadamba khaṇḍita uru", GPT "kadambakhaṇḍete uru".
+"kha", "ca" "…baru", P-R-Sa "kadamba khaṇḍita uru", GPT "kadambakhaṇḍete uru".
 
 ## 17. Madhava Ghosha — "nāce pahu kaladhauta-gorā…" (PK 2289)
 *Lila: the dance of the Lord as a sannyasi — golden Gora in a kaupina and a red outer cloth, a garland at His throat, in
@@ -2690,18 +2689,18 @@ like a plantain at dawn His body trembles again and again, —
 captivating the heart of Madhava Ghosha.[^04-64]
 
 [^04-62]: The signature is "Madhava Ghosha". PK: vol. 3, PDF pp. 299–300 (printed pp. 288–289), 21st pallava, no. 72, under the
-heading "Another manner"; MS P-R-Sa no. 2393. In GPT1 — p. 153, no. 123 (raga mayura), with the reading "nāce pahu avadhūta
+heading "Another manner"; MS P-R-Sa no. 2393. In GPT1 — p. 153, no. 123 (raga mayura), with the reading "nāce pahu abadhūta
 gorā" ("the Lord dances — Gora the avadhuta"); in GPT2 — twice: sect. 3.1, no. 123 (likewise) and sect. 4.2, no. 38
-("kaladhauta"). MSS "ka", "kha", "ca" of PK also read "avadhauta" — "avadhuta" (a wanderer above all rules). Majumdar counts
+("kaladhauta"). MSS "ka", "kha", "ca" of PK also read "abadhauta" — "avadhuta" (a wanderer above all rules). Majumdar counts
 PK 2289 among Madhava Ghosha's four padas on the Lord's sannyasa. In the stage-1 catalogue this pada is entered three times
 (MG-001, MG-002, MG-007).
 [^04-63]: "Donā" (donāra mālā) — the meaning is unclear (perhaps a garland of dona leaves or flowers); MS P-R-Sa: "at the
 throat a garland sways" (dolaye). The sesame flower is a traditional comparison for a beautiful nose.
 [^04-64]: Bristling hair (pulaka) and trembling are sattvika-bhavas, signs of prema; the kadamba flower with its protruding
-filaments is an image of a body bristling with rapture. The editor of PK suggests the reading "pravāte" — "in the wind"
+filaments is an image of a body bristling with rapture. The editor of PK suggests the reading "prabāte" — "in the wind"
 instead of "prabhāte" — "at dawn".
 
-## 18. Vasu Ghosha — "eta dine sadaya haila more vidhi…" (PK 1994)
+## 18. Vasu Ghosha — "eta dine sadaya haila more bidhi…" (PK 1994)
 *Lila: the Lord's return to the neighbourhood of Navadvipa (1514/15) — the words of a devotee who sees Gora again after a
 long separation. In PK — a gaura-chandrika to "samriddhiman-sambhoga" (the fullness of the joy of Radha and Krishna's
 meeting after a long separation), marked "words of the devotees". According to Majumdar — an eyewitness's pada on the
@@ -2728,7 +2727,7 @@ Majumdar counts PK 1991, 1994 and 2273 among Vasu Ghosha's padas on the Lord's r
 (1514/15) the Lord stopped at Kuliya opposite Navadvipa, and crowds flocked to Him (CC Madhya 1, 16; CB Antya 3).
 [^04-66]: The chakora is a bird which, according to poetic tradition, feeds on moonlight. MS P-R: "my eyes fasted greatly".
 
-## 19. Vasu Ghosha — "sannyāsī haiyā gelā puna yadi vāhuṛilā…" (PK 2273)
+## 19. Vasu Ghosha — "sannyāsī haiyā gelā puna yadi bāhuṛilā…" (PK 2273)
 *Lila: having taken sannyasa, the Lord returned to Gauda (1514/15) but did not come to the town of Nadia; Vishnupriya's
 grief: "Akrura was better — he took Krishna only to Mathura, whence news comes, but Bharati has made You a stranger in
 foreign lands." According to Majumdar — a pada on the Lord's return to Navadvipa. Raga pahida.*[^04-67]
@@ -2764,12 +2763,12 @@ padas on the Lord's return to Navadvipa; cf. CC Madhya 16 (the Lord at Kuliya) a
 [^04-68]: The stanza also allows another understanding: "…[we] waited, pressing heart to heart, making no difference between
 one's own and others, to see the moon-face." MSS "gha", "ca", PK 1801 and GPT: "tāra mukha" — "His face".
 [^04-69]: These are Vishnupriya's words of grief, not the poet's judgement on the shastras: the sannyasa was the will of the Lord
-Himself, accepted for the deliverance of living beings (CC Adi 17; CB Madhya 26). We read "ki chāra purāṇa se, paśuvat
-paṇḍita ye" after PK 1801 and MSS "ka", "kha", "ca", P-R-Sa; the main text of PK 2273 has "ki chāra parāṇa ye, paśuvata
+Himself, accepted for the deliverance of living beings (CC Adi 17; CB Madhya 26). We read "ki chāra purāṇa se, paśubat
+paṇḍita ye" after PK 1801 and MSS "ka", "kha", "ca", P-R-Sa; the main text of PK 2273 has "ki chāra parāṇa ye, paśubata
 paṇḍita se" ("what worthless life…"), GPT "ki jāni parāṇa ye" ("I know not what life…").
 [^04-70]: Akrura, at the order of King Kamsa, took Krishna and Balarama from Vraja to Mathura (Bhag. 10.39). "A stranger in
 foreign lands" (deśāntarī) — one who has gone to distant parts.
-[^04-71]: "Begs the earth to open" (dharaṇīre māgaye vidāra) — like Sita; MS P-R-Sa: "vidāya" ("begs the earth for leave to
+[^04-71]: "Begs the earth to open" (dharaṇīre māgaye bidāra) — like Sita; MS P-R-Sa: "bidāya" ("begs the earth for leave to
 depart"). The signature is a formula of humility.
 
 ---
@@ -2786,7 +2785,7 @@ follows the *Padakalpataru* (PK), the *Bhakti-ratnakara* (BR), the *Kshanada-git
 *Gaura-pada-tarangini* (GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934); the Bengali original, variants and word-for-word
 translation are in the full version of the book.*
 
-## 1. Paramananda (Gupta) — "gorā-avatāre yāra nā haila bhakati-sāra…" (PK 2202)
+## 1. Paramananda (Gupta) — "gorā-abatāre yāra nā haila bhakati-sāra…" (PK 2202)
 *Lila: praise of Gaura — a call to worship the feet of Gorachand, the Purifier of the fallen. In PK the pada stands in the
 20th pallava among padas on Gaura's mercy; in GPT, among the mangalacharanas (songs of blessing that open a kirtana).
 According to Majumdar it is one of the padas signed "Paramananda" which he ascribes to Paramananda Gupta, the Lord's
@@ -2822,7 +2821,7 @@ is the sun; whoever stays blind at His rising can be helped by nothing else.
 [^05-3]: "Plea" (parihāra) — the poet's humble entreaty. The raft of the holy name is an image of the nama-sankirtana which the
 Lord brought (CC Adi 3, 7).
 
-## 2. Paramananda (Gupta) — "paraśa-maṇira sane ki diva tulanā re…" (PK 672)
+## 2. Paramananda (Gupta) — "paraśa-maṇira sane ki diba tulanā re…" (PK 672)
 *Lila: praise of Gaura: neither the touchstone, nor the moon, nor the wish-fulfilling tree can be compared with Him — He
 gave away prema without waiting to be asked. In PK the pada is the gaura-chandrika to the section "rasodgara-anuraga"
 (Radha recalls Her meeting with Krishna). According to Majumdar — possibly from Paramananda Gupta's *Gauranga-vijaya*.
@@ -2865,7 +2864,7 @@ and birds weep, stones melt and crumble."
 what is asked of them. Cf. CC Adi 7 (the Lord gives prema to all without discrimination). MS P-R: "unasked, He Himself
 gave".
 
-## 3. Paramananda (Gupta) — "gorā mora dayāra avadhi guṇanidhi…" (PK 2119)
+## 3. Paramananda (Gupta) — "gorā mora dayāra abadhi guṇanidhi…" (PK 2119)
 *Lila: Navadvipa — Gauranga roams the bank of the Ganga leaning on the shoulders of devotees; He weeps, repeating
 "Haribol"; His body is covered with thrills, and the earth cannot hold Him. In PK — in the 18th pallava (the form of Sri
 Gauranga); in KGC — the first pada of the 14th kshanada. According to Majumdar — possibly from Paramananda Gupta's
@@ -2946,11 +2945,11 @@ or in Shantipura — the pada does not say.
 [^05-11]: The full water-pot (purna-ghata), banana trees and garlands are the usual adornment of a festival ground. The khol is
 the Bengali clay mridanga; the "khol-mangala" is the rite of blessing the mridanga before a kirtana: it is anointed with
 sandal, garlanded, and auspicious substances are offered to it. MSS "ga", "gha", "cha", P-R-Sa read in 4.3: "whoever plays
-[instruments]" (ye vājāya).
+[instruments]" (ye bājāya).
 [^05-12]: MS "ga" and GPT1 read in 4.1: "…seated in Advaita's house, the son of Shachi said". GPT1 ends: "Parameshvari Dasa is
 immersed in rasa" (rase bhāse) instead of "sings" (lit. "tells", bhāṣe).
 
-## 5. Vasu Ghosha — "phulavana gorācām̐da dekhiyā nayane…" (PK 1525; BR, p. 936)
+## 5. Vasu Ghosha — "phulabana gorācām̐da dekhiyā nayane…" (PK 1525; BR, p. 936)
 *Lila: Navadvipa, 1509 — seeing a flowering grove, the Lord remembers the battle of flowers; crying "Jaya!", His
 companions shower Him with flowers; Gadadhara and Nityananda are with Him. In the *Bhakti-ratnakara* the guide shows
 Srinivasa Acharya this flower garden in Navadvipa and quotes the pada as testimony; in PK it is the gaura-chandrika to
@@ -2977,14 +2976,14 @@ good!' — and His dear companions, taking bunches of flowers, fight with flower
 flowers, the game of dice, the water play, the holi with Gadadhara — scenes the poet saw himself; they are confirmed by
 Shivananda Sena's holi pada (chapter 1, no. 14), where Vasu is named among the dancers. In the stage-1 catalogue the pada
 was wrongly linked with PK 1186 (that is Vasu Ghosha's goshtha pada — another recension of the pada in chapter 1, no. 11).
-[^05-14]: BR: "Seeing with His eyes an army of flowers, Gora said: 'A battle of flowers!'" (phula vala … valila vacane). In Navadvipa
+[^05-14]: BR: "Seeing with His eyes an army of flowers, Gora said: 'A battle of flowers!'" (phula bala … balila bacane). In Navadvipa
 the Lord was often absorbed in the moods of Krishna-lila (cf. chapter 1, nos. 9–13).
 [^05-15]: Here and in the following padas Gadadhara is the chief partner in the Lord's play. In Gaudiya Vaishnava theology
 Gadadhara Pandita is a manifestation of Sri Radha (*Gaura-ganoddesha-dipika* 147–153), and these pastimes reflect the lilas
 of Radha and Krishna: pure prema, in which there is nothing mundane. BR: "…with Gadadhara Gora sports — Vasudeva Ghosha
 reveals [this] rasa"; MS "gha": "Vasudeva Ghosha has revealed this rasa".
 
-## 6. Vasu Ghosha — "gaurāṅgacām̐dera mane ki bhāva paṛila…" (BR, pp. 936–937)
+## 6. Vasu Ghosha — "gaurāṅgacām̐dera mane ki bhāba paṛila…" (BR, pp. 936–937)
 *Lila: Navadvipa, 1509 — sitting in the flower garden, the Lord plays dice (pasha-sari) with Gadadhara; both are immersed
 in the rasa of the game. The pada is known from BR and GPT. According to Majumdar — seen with the poet's own eyes. Raga
 kamoda.*[^05-16]
@@ -3005,7 +3004,7 @@ crying "Jaya, jaya!", Vasudeva Ghosha sings.
 Gaurahari with Gadadhara, sitting in this flower garden, plays at dice." GPT1 — p. 354, no. 32 (raga dhanashi), with minor
 variants ("the Lord began the game"). The pada was not previously found in PK (see the end of this note). The game of dice (pasha-khela) is a well-known lila of
 Radha and Krishna; on Gadadhara see note 15.
-Full PK check (chapter 16): another recension of the pada is in PK — **PK 2668** (vol. 4, 30th pallava, ashtakaliya: "atha pāśā-krīṛā. tatra śrī-gauracandro yathā," PDF p. 114, label "॥১৯৫॥২৬৬৮॥"; "gaurāṅgacām̐dera mane ki bhāva haila / pāśā śārī laiyā pahu khelā ārambhila…," signature "jaya jaya diyā gāya vāsudeva ghoṣe").
+Full PK check (chapter 16): another recension of the pada is in PK — **PK 2668** (vol. 4, 30th pallava, ashtakaliya: "atha pāśā-krīṛā. tatra śrī-gauracandro yathā," PDF p. 114, label "॥১৯৫॥২৬৬৮॥"; "gaurāṅgacām̐dera mane ki bhāba haila / pāśā śārī laiyā pahu khelā ārambhila…," signature "jaya jaya diyā gāya bāsudeba ghoṣe").
 [^05-17]: The players' cries name the throw they want. BR-1960, BR-2006 and GPT1: "'Five, three!' — calls out…" (ḍāke); GPT1
 here names the Lord "Rasika-nagara" ("the connoisseur of rasa", a name of Krishna).
 
@@ -3033,7 +3032,7 @@ day at this ghat the Lord with His companions plays in the water, remembering th
 [^05-19]: BR: "…Gadadhara splashes water on Gora's body." Krishna's water play (jala-keli) with Radha and the gopis is one of
 the lilas of Vraja; on Gadadhara see note 15.
 
-## 8. Vasu Ghosha — "vṛndāvana-līlā gorāra manete paṛila…" (PK 1253; BR, p. 941)
+## 8. Vasu Ghosha — "bṛndābana-līlā gorāra manete paṛila…" (PK 1253; BR, p. 941)
 *Lila: Navadvipa — the Lord remembers the lila of Vrindavana: the Ganga becomes for Him the Yamuna, the flowering grove
 Vrindavana, His companions the gopis; bringing together khols and karatalas, He dances in the midst of the kirtana,
 revealing the rasa of the rasa dance. In BR the guide tells Srinivasa: "Here Gaurachandra revealed great bliss, overcome
@@ -3062,14 +3061,14 @@ rasa on the autumn full moon. Sri Gaurachandra befitting it"); the end of the pa
 is found only in BR. Majumdar, listing the pastimes on BR pp. 936–943, does not name this pada specifically, but it
 belongs to the same series.
 [^05-21]: BR: "He took the Suradhuni for the Yamuna" (yamunāra bhāṇa, "the semblance of the Yamuna"); PK and GPT: "He turned His
-feeling for the Yamuna upon the Suradhuni" (yamunāra bhāva). Suradhuni ("the river of the gods") is the Ganga.
+feeling for the Yamuna upon the Suradhuni" (yamunāra bhāba). Suradhuni ("the river of the gods") is the Ganga.
 [^05-22]: In these pastimes the Lord relishes the moods of Krishna-lila; in the kirtana His companions become, as it were, the
 gopis — this is prema, pure and transcendental, not mundane feeling. The Gaudiya acharyas (Krishnadasa Kaviraja,
 Bhaktisiddhanta) teach that Mahaprabhu is Krishna who has accepted Radha's mood and lustre to taste Her love (CC Adi 1, 4);
 in Navadvipa He at times displayed the moods of Krishna Himself as well (cf. chapter 1, nos. 9–13). BR: "…Lord Gora
 reveals the rasa of the rasa."
 
-## 9. Vasu Ghosha — "dekha dekha ṛtu-rāja vasanta samaya…" (PK 1425; BR, pp. 942–943)
+## 9. Vasu Ghosha — "dekha dekha ṛtu-rāja basanta samaya…" (PK 1425; BR, pp. 942–943)
 *Lila: Navadvipa, spring — the Lord plays with coloured powder (phagu) with His companions; Srivasa leads the musicians,
 Haridasa dances with upraised arms; Gadadhara is beside Him. In PK — the first pada of the section "Spring play on
 Vasanta-panchami" (gaura-chandrika); in BR — among the padas on spring in Navadvipa, after padas of Narahari Chakravarti.
@@ -3103,7 +3102,7 @@ Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta).
 [^05-25]: Kunkuma is a red powder (saffron); the squirt (pichaka, pichkari) is for coloured water. BR: "…run about with squirts
 of sandal-water"; GPT1: "…run after [Him] with squirts [of flower-water]".
 
-## 10. Shivananda Sena — "soṇāra varaṇa gorā prema-vinodiyā…" (PK 2127)
+## 10. Shivananda Sena — "soṇāra baraṇa gorā prema-binodiyā…" (PK 2127)
 *Lila: Navadvipa — golden Gora has flooded Nadia with prema; leaning on Govinda, He listens to the glories of Vrindavana
 and, crying "Radha, Radha!", falls unconscious; Shivananda weeps, not comprehending the Lord's bhava. In PK — in the 18th
 pallava, immediately after Yadunatha Dasa's pada on the Lord's bhava (PK 2126). According to Majumdar the pada conveys the
@@ -3159,7 +3158,7 @@ nos. 31 and 33: chapter 1, no. 23; chapter 4, no. 18). Majumdar assigns Chaitany
 compares the language of the pada with the padas of Narahari and Shivananda (cf. Narahari's pada with the same opening —
 chapter 2, no. 7), and its sense with CC Madhya 1 and 13: "I have found the Lord of My life, for whom I was wasting away,
 burnt by the fire of Madana" — the Lord's words at the Ratha-yatra.
-[^05-30]: "The Youth of Vraja" (varaja-kiśora) is Krishna. These are the Lord's words in Radha's bhava as She finds Krishna after
+[^05-30]: "The Youth of Vraja" (baraja-kiśora) is Krishna. These are the Lord's words in Radha's bhava as She finds Krishna after
 long separation; the joy of this meeting is pure prema, not mundane feeling.
 
 ## 12. Paramananda (Gupta) — "ki karilā gorācām̐da nadiyā chāṛiyā…" (PK 1693)
@@ -3216,10 +3215,10 @@ compiler of GPT notes that in one manuscript the signature reads "Now Vasu Ghosh
 attribution is therefore not beyond doubt.
 [^05-34]: Lit. "giving life for life, I would have kept [Him] bound". MSS "ka", "kha", "cha": "jānitāṅa" (same meaning).
 [^05-35]: Gadadhara is Gadadhara Pandita; Damodara is probably Damodara Pandita, the Lord's companion in Navadvipa (CC Adi 10).
-MSS "ka", "kha", "cha": "…how shall I live… I shall die" (vām̐civa, mariva). The signature is a formula of grief: the poet will
+MSS "ka", "kha", "cha": "…how shall I live… I shall die" (bām̐ciba, mariba). The signature is a formula of grief: the poet will
 not survive the separation.
 
-## 14. Chaitanyadasa — "mohe vihi viparīta bhela…" (PK 463)
+## 14. Chaitanyadasa — "mohe bihi biparīta bhela…" (PK 463)
 *Lila: a devotee's remorse: Gora, the darling of his life, has gone, and the poet, having found Him, did not serve Him. In
 PK — the gaura-chandrika to the section "Kalahantarita" (the heroine who has rebuffed her beloved in a quarrel and
 repents); the pada is composed in the voice of such a heroine. According to Majumdar — testimony of the poet's personal
@@ -3250,7 +3249,7 @@ relations; the "wounded pride" here is the bitter self-reproach of a devotee.
 [^05-38]: "Lost" (tejila, lit. "let go, gave up"). MS P-R-Sa: "Just so it happened…" (sei se); MSS "kha", "gha" in 14.3: "left me"
 (mohe).
 
-## 15. Vasu Ghosha — "gorā-guṇe prāṇa kānde ki vuddhi kariva…" (PK 2280)
+## 15. Vasu Ghosha — "gorā-guṇe prāṇa kānde ki buddhi kariba…" (PK 2280)
 *Lila: after the sannyasa — the lament of Navadvipa: who else will show mercy to the fallen and, entreating, give away the
 name of Hari? Without Gora all Nadia has become empty. In PK — in the 21st pallava, in the section "The longing of the
 devotees". According to Majumdar — one of Vasu Ghosha's padas on the sannyasa. Raga suhai.*[^05-39]
@@ -3308,10 +3307,10 @@ Gaura…" (PK 2275), speaks. GPT1 — p. 399, no. 32 (raga dhanashi), reading "y
 (Madhavananda) Ghosha, brother of Govinda and Vasu and the finest kirtana singer (CB Antya 5), as the Lord's contemporary,
 but regards his padas on the sannyasa as late: PK 2276 is an imagined scene of the grief of Nadia's women, and PK 2278 was
 probably written much later. The attribution of PK 2276–2278 to Madhava Ghosha is therefore doubtful.
-[^05-43]: "As if gone mad" (yemata vāurī pārā) — the madness of grief in separation from Gaura, that is, of a devotee's prema.
+[^05-43]: "As if gone mad" (yemata bāurī pārā) — the madness of grief in separation from Gaura, that is, of a devotee's prema.
 [^05-44]: MSS "ka", "kha", "gha", "cha" and GPT1 read "yaichana" — "as if"; the main text of PK has "aichana" ("[Gaura] thus").
 
-## 17. Madhava Ghosha — "avalā se viṣṇupriyā tuyā guṇa soṅariyā…" (PK 2277)
+## 17. Madhava Ghosha — "abalā se biṣṇupriyā tuyā guṇa soṅariyā…" (PK 2277)
 *Lila: the years of separation — the poet addresses the Lord: Vishnupriya, remembering His virtues, lies unconscious, her
 friends holding cotton to her nostrils; the people of Nadia, old Shachi and the companions are barely alive — "Come to
 Nadia, O best of the knowers of rasa!" According to Majumdar — Madhava Ghosha's pada on the grief of Shachi and
@@ -3348,7 +3347,7 @@ life".
 Lord: in leaving His home the Lord did not abandon His own (cf. CC Madhya 3 and 16 — the meetings with Shachi in Shantipura
 and Kuliya). "Affection" is in the original "maya" (māyā) in its everyday Bengali sense of "tender attachment, love", not
 the illusory energy: the Lord is not subject to maya. MS P-R-Sa has "Shachi, who…" (śacīya ye) instead of "old Shachi".
-[^05-48]: "Knower of rasa" (rasikavara) — an address to Gaura as to Krishna. MSS: "the breath flows" (vahe; P-R-Sa and GPT1), "the hope
+[^05-48]: "Knower of rasa" (rasikabara) — an address to Gaura as to Krishna. MSS: "the breath flows" (vahe; P-R-Sa and GPT1), "the hope
 of touching [You]" (paraśana; "gha"), "this Madhava" (P-R-Sa).
 
 ## 18. Madhava Ghosha — "gaurāṅga jhāṭa kari calaha nadīyā…" (PK 2278)
@@ -3372,7 +3371,7 @@ delay but a moment — and I shall die first."
 GPT1 — p. 400, no. 34 (raga shri). Majumdar supposes that the pada was written long after the sannyasa: hardly anyone in
 the Lord's lifetime would have called Him back like this, and the mention of Vishnupriya's "former love" seems to him
 discourteous; this is only a conjecture. On the doubts about the attribution see note 42. In the stage-1 catalogue the
-first line was read "gaurāṅga vāṭa kari" — the scan has "jhāṭa kari" ("quickly").
+first line was read "gaurāṅga bāṭa kari" — the scan has "jhāṭa kari" ("quickly").
 [^05-50]: "As if lifeless" (prāṇa-hīna) — lit. "has lost life": an exaggeration of a swoon, as in 17.2. "The former love" (18.2)
 is the intimacy of the years of the Lord's household life; the love and grief of Vishnupriya, the Lord's eternal companion,
 are revered by the Gaudiya tradition as pure prema.
@@ -3441,7 +3440,7 @@ recognized (KD-009). Majumdar: Kanurama Dasa = Kanudasa = Kanu Thakura; "the Lor
 Sadashiva Kaviraja, his father Purushottama Dasa and he himself — three generations at Nityananda's feet.
 [^05-56]: "Banner" (patākā; MSS "ka", "kha": patakā) — the image of Nityananda as a victorious king whose banner proclaims the giving
 of prema. GPT1: "…You make no distinction".
-[^05-57]: MSS in 20.3: "the hearts of the world's people" (jaga janera — "ka"; jagat jīvera — "kha"); "You are the Lord of mercy" (without
+[^05-57]: MSS in 20.3: "the hearts of the world's people" (jaga janera — "ka"; jagat jībera — "kha"); "You are the Lord of mercy" (without
 "if" — "ka"); "You, such a Lord of mercy — why am I…" ("kha", "cha").
 
 ---
@@ -3458,7 +3457,7 @@ and the festival of colours in Nilachala (Ramananda, Madhavi Dasa); and the poet
 *Gaura-pada-tarangini* (GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934); the Bengali original, variants and word-for-word
 translation are in the full version of the book.*
 
-## 1. Vasu Ramananda — "caudige govinda-dhvani śuni pahum̐ hāse…" (BR, p. 952; KGC 29.1)
+## 1. Vasu Ramananda — "caudige gobinda-dhvani śuni pahum̐ hāse…" (BR, p. 952; KGC 29.1)
 *Lila: a kirtana in Navadvipa: on every side the cry "Govinda!" resounds; the Lord laughs and dances together with
 Nityananda; Govinda, Madhava and Vasu (the Ghosha brothers) and Mukunda sing. Narahari Chakravarti cites the pada in the
 *Bhakti-ratnakara* among the testimonies to the Navadvipa kirtanas. According to Majumdar it is the pada of an eyewitness
@@ -3486,7 +3485,7 @@ text corrupt. The pada is not in PK. Majumdar: Vasu Ramananda of Kulinagrama, a 
 contemporary of the Lord (CC Madhya 15).
 [^06-2]: "Govinda!" (govinda-dhvani) — the name of Krishna sung in kirtana; perhaps also a hint at the lead singer Govinda
 Ghosha. Gora is Gaura. "Trembling lips… faltering voice" are signs of ecstasy (sattvika-bhavas).
-[^06-3]: "Having found His own" (pāyā = pāiyā nija-vṛnda) — His companions. In KGC and GPT, instead of 1.2–1.3: "Splendidly
+[^06-3]: "Having found His own" (pāyā = pāiyā nija-bṛnda) — His companions. In KGC and GPT, instead of 1.2–1.3: "Splendidly
 Gauranga dances, and with Him Nityananda; the earth is flooded with prema, Ramananda sings. To Mukunda, Murari, Vasu He
 says: 'Come here!' — for your virtues the Darling of [our] life weeps" (GPT: "Murari, Mukunda, come…"); and instead of the
 first line of 1.4: "All the other devotees are drunk with bliss". The double mention of Ramananda (in 1.2 and in the
@@ -3494,7 +3493,7 @@ signature) argues for the BR recension.
 [^06-4]: The chakora is a bird which, by poetic convention, feeds on moonlight: the poet greedily drinks the nectar of Gaura's
 moonlike face.
 
-## 2. Narahari — "anupāma gorā-avatāra…" (PK 2288)
+## 2. Narahari — "anupāma gorā-abatāra…" (PK 2288)
 *Praise of the Gaura-avatara: the Lord spread through all lands the taste of ninefold bhakti, making no distinction of
 caste; in the age of Kali, where people sin, the holy name easily carries them across — what in other ages was attained
 with great toil through sacrifice, japa, meditation and worship. In PK it stands in the 21st pallava, next to padas on
@@ -3601,7 +3600,7 @@ moods as an eyewitness, and distinguishes him from Yadunandana. Cf. his padas be
 (akiñcana) — those who have nothing but devotion.
 [^06-14]: Shesha (Ananta) is the thousand-mouthed serpent; Shankara is Shiva; the Four-faced One is Brahma. MS "gha": "the
 Name" instead of "Narada". Cf. Bhag. 10.14 (Brahma's praise).
-[^06-15]: "Ocean" (varuṇa-ālaya — "abode of Varuna"): the tears of prema flow in streams. The image of the last line: the
+[^06-15]: "Ocean" (baruṇa-ālaya — "abode of Varuna"): the tears of prema flow in streams. The image of the last line: the
 tears on Gaura's golden face are pearls "born" of a golden lotus. GPT1: "Yadunatha Dasa says: by the [good] fortune
 (lit. the fruit of karma) of the living beings He brings forth these pearls".
 
@@ -3633,7 +3632,7 @@ humility and the playing of the dampha with which he delighted the Lord. B. B. M
 who were companions of Nimai Pandita in Navadvipa.
 [^06-17]: Arms reaching to the knees (ājānulambita) are one of the marks of a great personality (mahapurusha); cf. CC Adi 3 on
 the Lord's marks.
-[^06-18]: The lines of the pada are a chain of epithets in -nā (suvalanā, calanā, dolanā…); the last is "the Deliverer of all
+[^06-18]: The lines of the pada are a chain of epithets in -nā (subalanā, calanā, dolanā…); the last is "the Deliverer of all
 the worlds" (akhila-loka-tāraṇā). "Entice with their honey" (makaranda-lobhanā) — the image of devotees as bees thirsting
 for the honey of the feet.
 
@@ -3715,10 +3714,10 @@ ascribes to Vasu Ramananda only one pada signed "Ramananda" (PK 1711, chapter 1,
 first line of PK 2160 (Shekhara Raya) had been attached to PK 2162.
 [^06-25]: The wagtail (khañjana) and the chakora are images of lively, beautiful eyes. MSS: "trembling" (ḍagamaga — "ka"),
 "string" (gām̐thala — "ka", "kha").
-[^06-26]: MS "kha": "gave" (deve) and "not" (nāhi). GPT1, p. 137: "…how many wretched ones He saved, while Ramananda in this is
+[^06-26]: MS "kha": "gave" (debe) and "not" (nāhi). GPT1, p. 137: "…how many wretched ones He saved, while Ramananda in this is
 deprived — not a drop has touched him".
 
-## 8. Ramananda — "dekhata vekata gaura adabhuta…" (PK 2163)
+## 8. Ramananda — "dekhata bekata gaura adabhuta…" (PK 2163)
 *Gaura's form and dance on the bank of the Ganga: He recalls the virtues of the Vraja-lila and cannot stand still; His
 body thrills, tears flow; intoxicated by the devotees' singing, He dances skilfully and cries "Haribol". Signature:
 "Ramananda". Raga tudi.*[^06-27]
@@ -3753,7 +3752,7 @@ sudhīra).
 GPT1: "hearing, He dances again" (śuni puna for sunipuṇa); "ka": "the devotees (bhakata-gaṇa) are intoxicated with the
 taste".
 
-## 9. Vamshi(vadana) — "jaya jaya navadvīpa mājha…" (PK 26)
+## 9. Vamshi(vadana) — "jaya jaya nabadvīpa mājha…" (PK 26)
 *Lila: the eve of a kirtana festival in Navadvipa: at Gauranga's bidding Advaita prepares the "khol-mangala" — the
 consecration of the mridanga; having called the Vaishnavas, they perform the adhivasa of the great festival; Nitai gives
 out garlands and sandal, Govinda plays the mridanga, Advaita the kartals, Haridasa sings, Srivasa holds the tune, Gora
@@ -3789,7 +3788,7 @@ a kirtana (sandal, garlands, auspicious articles), and the adhivasa is the rite 
 festival. In PK 23 the same festival is described as arranged by Advaita and Sita Thakurani at the Lord's direction.
 [^06-32]: MS "ga": "having given garlands and sandal".
 [^06-33]: "Ta-ta thaiya-thaiya" imitates the rhythm of the mridanga. Govinda — evidently Govinda Ghosha or Govinda Datta (a
-kirtaniya, CC Madhya 13). "Plays" (vāye) — so Ray corrects the reading of all the manuscripts, vāje ("sounds"), considering
+kirtaniya, CC Madhya 13). "Plays" (bāye) — so Ray corrects the reading of all the manuscripts, bāje ("sounds"), considering
 it a scribal error.
 
 ## 10. Chaitanyadasa — "mahābhuja nācata caitanya rāya…" (PK 664; BR, p. 951)
@@ -3823,8 +3822,8 @@ no. 1139 and MS P-R. BR, 12th wave: 1913 ed., p. 951; 1960 ed. vv. 3418–3421 (
 10.2 and 10.3 are transposed and 10.4 begins differently (see note 36). GPT2 — sect. 4.2, no. 1. Majumdar does not discuss
 the pada; in his view Chaitanyadasa was probably a contemporary from the branch of Gadadhara. The fact that Narahari
 Chakravarti cites the pada as testimony makes it one of the early sources.
-[^06-35]: "Anubhavas" (anubhava) — outward manifestations of inner feelings (tears, thrills, trembling). MS P-R: "of the body"
-(aṅgera for aṅkura); P-R-Sa: "endless anubhavas" (aśeṣānubhāva).
+[^06-35]: "Anubhavas" (anubhaba) — outward manifestations of inner feelings (tears, thrills, trembling). MS P-R: "of the body"
+(aṅgera for aṅkura); P-R-Sa: "endless anubhavas" (aśeṣānubhāba).
 [^06-36]: BR and MS P-R: "With a merciful glance, with a rain of nectar He has watered the whole world". In MS P-R the
 signature is "Vasu Ghosha", and instead of "in this peerless gift of prema" — "[He] has no equal"; MS "ka": "He came to give
 prema".
@@ -3900,7 +3899,7 @@ signature "Ramananda Dasa" may belong either to Vasu Ramananda or to another poe
 instruments of sankirtana; "godlessness" (pāṣaṇḍa) — the opponents of bhakti, against whom the kirtana procession in
 Navadvipa was directed (CB Madhya 23). MS "ka": "revealing" (parakāśe).
 
-## 13. Ramananda — "nācata gaura naṭavara rasiyā…" (PK 2060)
+## 13. Ramananda — "nācata gaura naṭabara rasiyā…" (PK 2060)
 *Lila: Gaura the dancer dances, finding no limit to the ocean of prema; remembering Vrindavana, He sighs deeply and,
 laughing, calls "Rai, Rai!"; not concealing His secret, He stands bent in three places and plays the flute; He roars like a
 lion and rolls on the ground. In PK it is in the 17th pallava ("Sri Gauranga's dance"). Signature: "Ramananda" (GPT:
@@ -3999,11 +3998,11 @@ the PK number 2123 — wrongly. B. B. Majumdar (1961) sees in it an eyewitness t
 mood of Krishna, recalls His pastimes in Vraja (cf. PK 2128, chapter 4, no. 4, and Narahari's PK 2122, chapter 3, no. 1).
 [^06-50]: Subala is a friend of Krishna; Vrinda-devi is the goddess of Vrindavana, the arranger of His pastimes; Lalita and
 Vishakha are Radha's closest friends. BR: "Lalita's tender love" (sneha), "recalling, with pain in the heart" (soṅari marama
-vethā).
+bethā).
 [^06-51]: "The Queen of My life" (prāṇeśvarī) is Radha. "Did not comprehend": the poet's humility — he cannot contain that ocean.
 Cf. the similar ending in Govinda Ghosha (PK 2128).
 
-## 16. Vamshidasa — "bhāvāveśe gorācām̐da vibhora haiyā…" (PK 2851)
+## 16. Vamshidasa — "bhābābeśe gorācām̐da bibhora haiyā…" (PK 2851)
 *Lila: the mood of a cowherd friend: Gorachand in ecstasy calls Shridama, Subala, Vasudama, "brother Balarama", calls the
 cows Dhavali and Shangali and, crying "Kalindi! Yamuna!", floats in tears of prema. In PK it is a gaura-chandrika to the
 "morning lila" in the section of the "eightfold eternal lila". Signature: "Vamshidasa". Raga bhatiyari.*[^06-52]
@@ -4058,8 +4057,8 @@ I alone have remained deprived.
 [^06-55]: Signature: "Ramananda". PK: vol. 2, PDF p. 391 (printed p. 378), "Then the boat play on the Yamuna. Fixing the mind on
 the feet of Sri Radha and Krishna, listen. First — Sri Mahaprabhu", no. 9 (mark "॥৯॥১৪১৭॥"); raga dhanashi; MS P-R-Sa
 no. 1963. GPT1 — pp. 333–334, no. 43 (raga dhanashi); GPT2 — sect. 5.1 (OCR 38886). On the attribution see note 24.
-[^06-56]: "The former play" (pūrava rabhasa) — Krishna's play with Radha in a boat on the Yamuna. "Who wears the forest
-garland" (vanamālī) is an epithet of Krishna. MS "kha": "laughing".
+[^06-56]: "The former play" (pūraba rabhasa) — Krishna's play with Radha in a boat on the Yamuna. "Who wears the forest
+garland" (banamālī) is an epithet of Krishna. MS "kha": "laughing".
 [^06-57]: Cf. note 21: the image speaks of the Lord's irresistible beauty, not of worldly passion; the Gaudiya Vaishnava
 tradition does not accept worship of Gaura in the mood of "gaura-nagari". MSS "ka", "gha": "having gathered" (meliyā);
 "kha": "that" (tāi).
@@ -4089,9 +4088,9 @@ Ramananda Dasa cherishes the hope [of seeing them].
 no. 18. In the stage-1 catalogue (RM-009) the PK number was not given. Cf. the jhulana padas of Vasu Ghosha (PK 1550) and
 Narahari (PK 1559) — chapter 4, nos. 5–6. On the attribution see note 24.
 [^06-59]: Mukunda is Mukunda Datta; Madhava and Vasu are the Ghosha brothers; Haridasa is Haridasa Thakura. "The play of former
-times" — the swing of Radha and Krishna in Vraja. MSS "ka", "ca" in 18.2: "lost to themselves" (vibhora); so too GPT1.
+times" — the swing of Radha and Krishna in Vraja. MSS "ka", "ca" in 18.2: "lost to themselves" (bibhora); so too GPT1.
 
-## 19. Shankara Ghosha (?) — "śrīvāsa-aṅgane vinoda vandhāne…" (KGC 30.2)
+## 19. Shankara Ghosha (?) — "śrībāsa-aṅgane binoda bandhāne…" (KGC 30.2)
 *Lila: Nityananda's dance in Srivasa's courtyard: men and gods, men and women run to see; the devotees sing, the khol and
 kartals sound; in the midst, intoxicated with the mood of "Brother", Nitai dances in the guise of a wrestler, leaps and
 roars, watering the earth with a rain of prema; Advaita roars, Srivasa weeps holding His feet, Mukunda sobs embracing
@@ -4144,14 +4143,14 @@ dances", without stanza 19.3, with a different ending: "Knowing neither day nor 
 companions; Vrindavana Dasa reveals prema at Nitai's lotus feet". B. B. Majumdar (1961) cites the pada as Shankara Ghosha's
 (after KGC). The attribution is disputed (C): KGC is older than GPT, but a later substitution of the signature is possible
 in the KGC recension too.
-[^06-61]: "The mood of 'Brother'" (bhāiyāra bhāve) — Nityananda's love for Gauranga, His Brother (cf. chapter 5, note 53). GPT:
-"the khol and kartals sound" (vājata).
-[^06-62]: "In the guise of a wrestler" (mallaveśa) — Nityananda reveals the mood of Balarama. GPT in 19.5: "…all men and women,
+[^06-61]: "The mood of 'Brother'" (bhāiyāra bhābe) — Nityananda's love for Gauranga, His Brother (cf. chapter 5, note 53). GPT:
+"the khol and kartals sound" (bājata).
+[^06-62]: "In the guise of a wrestler" (mallabeśa) — Nityananda reveals the mood of Balarama. GPT in 19.5: "…all men and women,
 seeing the beauty of the Lord of the world, weep".
 [^06-63]: Abhirama Thakura is a companion of Nityananda (in Vraja, Shridama). GPT: "again and again resounds 'Brother,
 brother!'". The Lord of Shantipura is Advaita Acharya.
 
-## 20. Murari (?) — "premāveśe prabhure rākhiyā śāntipure…" (PK 2231)
+## 20. Murari (?) — "premābeśe prabhure rākhiyā śāntipure…" (PK 2231)
 *Lila: after the sannyasa: leaving the Lord, overwhelmed by prema, in Shantipura, Nityananda comes to Nadia; thinking of
 Shachi's grief, He rolls on the ground on the way; arriving at the house, He stands before the mother, sighing heavily — His
 heart breaks to tell of His Brother's sannyasa: "Gaura has taken sannyasa and come to Shantipura; He has sent Me to fetch
@@ -4229,7 +4228,7 @@ from its third line ("rahi katho dūre…"). Cf. CC Antya 12 (Jagadananda's jour
 attribution to Madhavi (Madhavi Devi of Puri or another poet) is not established.
 [^06-68]: "Like Gokula" (gokulapurera chanda) — Nadia after Gaura's departure resembles Gokula after Krishna's departure for
 Mathura. MS "ka": "how many" (kata for katho, so too GPT).
-[^06-69]: "[The master] of Madhavi Dasa" (mādhavī dāsera ṭhākura paṇḍita) — the poet calls Jagadananda his master (thakura),
+[^06-69]: "[The master] of Madhavi Dasa" (mādhabī dāsera ṭhākura paṇḍita) — the poet calls Jagadananda his master (thakura),
 i.e. he was evidently his follower. MS "gha": "sees" (dekhi), "sobbing" (ḍukuri); "ka", "ca": "of anyone" (kāra); GPT1: "fell,
 crashing down" (āchāṛi).
 
@@ -4267,7 +4266,7 @@ and Ramananda, seeing it, rejoices.[^06-74]
 
 [^06-70]: Signature: "Ramananda". PK: vol. 3, PDF p. 289 (printed p. 278), 21st pallava, after the heading "Then a description of
 Sri Gauranga's form in sankirtana", no. 40 (mark "॥৪০॥২২৫৭॥"); raga dhanashi; MS P-R-Sa no. 2362. GPT1 — p. 261, no. 42 (raga
-dhanashi); GPT2 — sect. 4.2, no. 42. The next PK pada, 2258, "nāce śacīnandana bhakata-jīvana-dhana", which GPT gives with the
+dhanashi); GPT2 — sect. 4.2, no. 42. The next PK pada, 2258, "nāce śacīnandana bhakata-jībana-dhana", which GPT gives with the
 signature of Narahari (catalogue NS-007), is signed by Lochana Dasa in PK. On the attribution to Ramananda see note 24.
 [^06-71]: "The pada" — the song the kirtaniyas sing. This tripadi line has three members.
 [^06-72]: "Gadai's Gauranga" (gadāira gaurāṅga) — "Gadadhara's Gauranga", a set expression for the inseparability of the Lord and
@@ -4309,7 +4308,7 @@ vasanta; MS P-R-Sa no. 2394. GPT1 — p. 260, no. 39 (raga vasanta); GPT2 — se
 Phalguna full moon is the day of the Lord's appearance). MS P-R-Sa: "city" (pura for purī).
 [^06-77]: MS P-R-Sa: "having come, all look" (āsiyā sakali dekhe). On such images see note 21.
 
-## 24. Ramananda — "hari hari aiche ki hoyava hāmāra…" (PK 3057)
+## 24. Ramananda — "hari hari aiche ki hoyaba hāmāra…" (PK 3057)
 *The poet's prayer: "Hari, Hari! Will I have such fortune — to see Gaura's pastimes with His companions in Nadia: dance and
 kirtana on the bank of the Ganga, the Lord in His place in Srivasa's house — Nityananda on the right holding the parasol,
 Gadadhara on the left; someone will take me there, and I shall see His moonlike face; and when, calling His mother, He comes
@@ -4397,7 +4396,7 @@ the mention of Rupa and Sanatana dates it not earlier than 1514–1516. Majumdar
 thread of a book" (grantha) instead of "creeper". "The heat of the sun" is worldly suffering; GPT1: "your burning will go".
 [^07-5]: The humility usual with Vaishnava poets: the poet considers himself deprived of what is being given to all.
 
-## 2. Krishnadasa — "navadvīpe śuni siṃhanāda…" (PK 2089)
+## 2. Krishnadasa — "nabadvīpe śuni siṃhanāda…" (PK 2089)
 *The sankirtana in Navadvipa as a battle: Gaurachandra is the great chariot-warrior, Nityananda the general, Advaita the
 vanguard; the enemies are bound with a noose of the rope of prema; the Lord, mounted on the elephant of Kali, sets up
 outposts on every side. In PK it stands in the 17th pallava (the dance and pastimes of Gauranga). Raga ramakeli.*[^07-6]
@@ -4423,7 +4422,7 @@ he has not found even a trace of prema.[^07-9]
 
 [^07-6]: Signature: "Krishnadasa". PK: vol. 3, PDF p. 226 (printed p. 215), 17th pallava, no. 31 (mark "॥৩১॥২০৮৯॥"); raga
 ramakeli; ms. P-R-Sa no. 2198; after the pada a PK rubric: here the pada "kali timira ghora…" is also sung. GPT1 — p. 274,
-no. 85 (raga ramakeli); GPT2 — sect. 4.2. The catalogue's former first line ("kali-jīva tarāite…") is the beginning of
+no. 85 (raga ramakeli); GPT2 — sect. 4.2. The catalogue's former first line ("kali-jība tarāite…") is the beginning of
 the third stanza. Which Krishnadasa it is has not been established.
 [^07-7]: "A lion's roar" is the thundering kirtana; "the fools" (mūṛhamati) are the opponents of the kirtana in Navadvipa
 (cf. CB Madhya 23).
@@ -4487,7 +4486,7 @@ they float in an ocean of bliss.
 says the unhappy Krishnadasa.[^07-16]
 
 [^07-13]: Signature: "Krishnadasa". PK: vol. 2, PDF p. 265 (printed p. 252), 3rd shakha, 18th pallava (the "janma-lila"),
-section "tataḥ śrīnityānandacandrāvirbhāvaḥ", no. 5 (mark "॥৫॥১১১৬॥"); raga shri; ms. P-R-Sa no. 1614. GPT1 — p. 416, no. 7
+section "tataḥ śrīnityānandacandrābirbhābaḥ", no. 5 (mark "॥৫॥১১১৬॥"); raga shri; ms. P-R-Sa no. 1614. GPT1 — p. 416, no. 7
 (raga shri); GPT2 — sect. 6.1, no. 7. In the catalogue the pada was listed as PK 1117 (PK 1117 is the next pada, below,
 no. 5). Which Krishnadasa it is has not been established.
 [^07-14]: Radha-desha (Rarh) is the region west of the Ganga. Hadai Pandita (Hadai Ojha) is Nityananda's father. Haladhara
@@ -4496,7 +4495,7 @@ no. 5). Which Krishnadasa it is has not been established.
 [^07-15]: The Lord of Shantipura is Advaita Acharya. Rama is Balarama, Krishna's elder brother.
 [^07-16]: "Unhappy" (dukhī) is the poet's humble name for himself.
 
-## 5. Krishnadasa — "bhuvana-ānanda-kanda valarāma nityānanda…" (PK 1117)
+## 5. Krishnadasa — "bhubana-ānanda-kanda balarāma nityānanda…" (PK 1117)
 *Praise of Nityananda, descended in the Kali age: He is golden like the champaka, the nails of His fingers are a row of
 moons, His face eclipses the full moon, His arms reach His knees; bee-devotees hover at His lotus feet. In PK it is the
 next pada of the same section. Raga suhai.*[^07-17]
@@ -4530,7 +4529,7 @@ stanza. Kamadeva is the god of love: the Lord's beauty surpasses that of million
 [^07-21]: Ms. "kha": "bringing nectar" (āniyā). Ms. "ka": "are delivered" (haila), P-R-Sa: haiba ("will be delivered");
 GPT1: "the souls of the Kali age are all delivered".
 
-## 6. Vasu Ghosha — "jaya jaya kalarava nadiyā nagare…" (PK 1121; BR, p. 763)
+## 6. Vasu Ghosha — "jaya jaya kalaraba nadiyā nagare…" (PK 1121; BR, p. 763)
 *Gaura's appearance: in Nadia cries of "Jaya!" resound; at the full moon of Phalguna, under the Phalguni nakshatra,
 Gora was born to Shachi; as in the Dvapara age Krishna appeared to Yashoda, so now He has appeared in Nadia to deliver
 the souls of the Kali age. Narahari Chakravarti cites the pada in the *Bhakti-ratnakara* in the account of the Lord's
@@ -4556,7 +4555,7 @@ to deliver all the souls of the Kali age.
 trusting in his mind in the two feet of Gaura.[^07-25]
 
 [^07-22]: Signature: "Vasudeva Ghosha". PK: vol. 2, PDF p. 267 (printed p. 254), 18th pallava, no. 10 (mark "॥১০॥১১২১॥");
-raga tudi; ms. P-R-Sa no. 1619. BR, 12th wave: 1912/1913 eds. — p. 763 ("tathāhi gīte vasantaḥ"), 1960 ed. — vv.
+raga tudi; ms. P-R-Sa no. 1619. BR, 12th wave: 1912/1913 eds. — p. 763 ("tathāhi gīte basantaḥ"), 1960 ed. — vv.
 895–900; in BR lines 6.3–6.5 differ (see VAR). GPT1 — p. 51, no. 2 (raga tudi or karuna); GPT2 — sect. 2.1, no. 2.
 Majumdar: Vasu's padas on the birth and childhood (PK 1121, 1150, 1151, 1161 and others) are the poet's invention; we
 translate them as a poetic contemplation of lilas known from the biographies (CB Adi 2–5; CC Adi 13–14).
@@ -4568,7 +4567,7 @@ radiance.
 [^07-25]: Vasudeva Ghosha is Vasu Ghosha. Mss. "ka", "kha", P-R-Sa: bharasā (the same). BR: "sings Vasudeva Ghosha…
 trusting in the two feet of Lord Gora".
 
-## 7. Vasu Ghosha — "gorā-rūpe ki diva tulanā…" (PK 1137)
+## 7. Vasu Ghosha — "gorā-rūpe ki diba tulanā…" (PK 1137)
 *Gaura's form: neither gold of the highest assay, nor lightning in a cloud, nor a garland of champakas, nor the golden
 ketaki, nor gorochana can compare with Him; the fragrance of His body surpasses kunkuma. In PK it is the gaura-chandrika
 to the festival of Sri Radha's birth; no raga is given.*[^07-26]
@@ -4590,13 +4589,13 @@ There — Sri Gaurachandra", no. 11 (mark "॥১১॥১১৩৭॥"); accord
 P-R no. 21 (the pada recurs in the manuscripts). GPT1 — p. 110, no. 1 (raga shri; the beginning of the section on the
 Lord's form); GPT2 — sect. 3.1, no. 1. According to Majumdar, PK 1030 = 1137 (the pada stands twice in PK); he counts it
 among Vasu's padas on Gaura's form.
-[^07-27]: "Gold of the highest assay" (kaṣila vāna sonā) — gold tested on the touchstone; P-R: another reading (kaṣida kāṃcā).
+[^07-27]: "Gold of the highest assay" (kaṣila bāna sonā) — gold tested on the touchstone; P-R: another reading (kaṣida kāṃcā).
 Mss. "ka", "kha", "ca" and GPT1: "likeness" (upamā) instead of "comparison".
 [^07-28]: Ketaki is the screw-pine with golden flowers; gorochana is a bright yellow pigment. P-R-Sa and P-R, instead of
 "golden": "with the form" (rūpera, rūpe).
 [^07-29]: Kunkuma is saffron. P-R-Sa, P-R: "the form, so captivating" (rūpa ati) instead of "the fragrance of the body".
 
-## 8. Vasu Ghosha — "eka mukhe ki kahava gorācāndera līlā…" (PK 1141)
+## 8. Vasu Ghosha — "eka mukhe ki kahaba gorācāndera līlā…" (PK 1141)
 *The infant Gaura crawls about the courtyard: saliva trickles down His little face, His lips are redder than a ripe
 bimba, on His little arms are bracelets, on His feet anklets, on His neck a tiger's claw amulet, on His back a golden
 chain with a silken tassel. In PK: "Now parental love befitting infancy. Sri Gaurachandra" (the beginning of the 19th
@@ -4615,13 +4614,13 @@ on His feet makara-headed anklets, on His neck a tiger's claw.[^07-33]
 Says Vasudeva Ghosha: "I give my very self for Him."[^07-34]
 
 [^07-30]: Signature: "Vasudeva Ghosha". PK: vol. 2, PDF p. 275 (printed p. 262), 3rd shakha, 19th pallava, "atha
-vātsalyaṃ kaumārakālocitaṃ yathā. śrīgauracandraḥ", no. 1 (mark "॥১॥১১৪১॥"); raga tudi; ms. P-R-Sa no. 1648. GPT1 — p. 62,
+bātsalyaṃ kaumārakālocitaṃ yathā. śrīgauracandraḥ", no. 1 (mark "॥১॥১১৪১॥"); raga tudi; ms. P-R-Sa no. 1648. GPT1 — p. 62,
 no. 2 (raga tudi); GPT2 — sect. 2.2, no. 2. Among Vasu's childhood padas Majumdar names "PK 1140" — evidently PK 1141:
 PK 1140 is a pada of Uddhava Dasa on Radha's birth. On his assessment see note 22.
 [^07-31]: P-R-Sa instead of the second line: "crawling, He plays in all kinds of ways".
 [^07-32]: Mss. "ka", "ca": nāle (the same, "saliva"). Mss. "ka", "kha", "gha", "ca": "lovely" (sundara) instead of "red"
 (suraṅga). The bimba is a fruit with a bright red skin, a common comparison for lips.
-[^07-33]: Armlets (aṅgada) and bracelets (valayā), makara-headed anklets (magarā khāṛu), the tiger's claw (vāghanakha) are
+[^07-33]: Armlets (aṅgada) and bracelets (balayā), makara-headed anklets (magarā khāṛu), the tiger's claw (bāghanakha) are
 common ornaments and amulets of children in Bengal.
 [^07-34]: "I give my very self" (nichani āpanā) — the nichhani rite: one waves something around a beloved one and gives it
 away (here — oneself) for his welfare.
@@ -4650,11 +4649,11 @@ vv. 1035–1038. GPT1 — p. 63, no. 4 (raga beloar — dashakoshi); GPT2 — se
 note 22.
 [^07-36]: "What… I have seen" (kiye hāma pekhaluṃ) is a Vrajabuli turn of phrase.
 [^07-37]: "The jewel of the twice-born" is the young brahmana Nimai; GPT1: "the sun-jewel" (dinamaṇiyā); BR: "on radiant lotus
-feet". In 9.2 mss. "gha", "ca": veṛiyā (the same, "surrounding"); ms. "gha": "Gaura". Ms. "ka": "the sweet jingle of the
+feet". In 9.2 mss. "gha", "ca": beṛiyā (the same, "surrounding"); ms. "gha": "Gaura". Ms. "ka": "the sweet jingle of the
 bells".
 [^07-38]: BR after the pada: "O Srinivasa, in this courtyard Vishvambhara danced in all kinds of ways — a wonderful sight".
 
-## 10. Vasu Ghosha — "śacīra āṅgināya nāce viśvambhara rāy…" (PK 1151; BR, p. 774)
+## 10. Vasu Ghosha — "śacīra āṅgināya nāce biśvambhara rāy…" (PK 1151; BR, p. 774)
 *Hide-and-seek: Vishvambhara dances in the courtyard and, laughing, hides from His mother, covering His face with the
 end of His cloth: "I have hidden!" — Shachi plays along: "Vishvambhara, I cannot see You!"; holding the end of her sari,
 He skips along with the gait of a wagtail. In BR it comes right after the previous pada. The same raga (BR: vibhasa).*[^07-39]
@@ -4672,9 +4671,9 @@ He goes skipping with the gait of a wagtail.[^07-41]
 Seeing the form of the Child, the world is filled with longing."
 
 [^07-39]: Signature: "Vasudeva Ghosha". PK: vol. 2, PDF p. 279 (printed p. 266), 19th pallava, no. 11 (mark "॥১১॥১১৫১॥");
-"tathā rāga" (mayur); ms. P-R-Sa no. 1657. BR, 12th wave: 1913 ed. — p. 774 ("gīti vibhāṣaḥ"), 1960 ed. — vv. 1040–1043.
+"tathā rāga" (mayur); ms. P-R-Sa no. 1657. BR, 12th wave: 1913 ed. — p. 774 ("gīti bibhāṣaḥ"), 1960 ed. — vv. 1040–1043.
 GPT1 — p. 63, no. 5 (beloar — dashakoshi); GPT2 — sect. 2.2, no. 5.
-[^07-40]: P-R-Sa: "on the face" (vadane) — the same meaning.
+[^07-40]: P-R-Sa: "on the face" (badane) — the same meaning.
 [^07-41]: The wagtail (khañjana) is a bird with a lively, skipping gait; a common poetic comparison.
 
 ## 11. Vasu Ghosha — "gorā nāce śacīra dulāliyā…" (PK 1161; BR, pp. 774–775)
@@ -4704,7 +4703,7 @@ Says Vasudeva Ghosha: "Hold Him, hold Him, take Him in your arms —
 Gora is the life of my life!"[^07-44]
 
 [^07-42]: Signature: "Vasudeva Ghosha". PK: vol. 2, PDF pp. 282–283 (printed pp. 269–270), 3rd shakha, 20th pallava, "atha
-vātsalyarasaḥ prakārāntaraṃ yathā. śrīgauracandraḥ", no. 1 (mark "॥১॥১১৬১॥"); raga bhatiyari; ms. P-R-Sa no. 1680. BR,
+bātsalyarasaḥ prakārāntaraṃ yathā. śrīgauracandraḥ", no. 1 (mark "॥১॥১১৬১॥"); raga bhatiyari; ms. P-R-Sa no. 1680. BR,
 12th wave: 1913 ed. — pp. 774–775 ("punaḥ rāga bhāṭyāli"), 1960 ed. — vv. 1044–1048. GPT1 — p. 63, no. 3 (raga
 bhatiyari); GPT2 — sect. 2.2, no. 3. The catalogue's former first line ("śacīra aṅgane nācaye saghane") is the
 beginning of the last stanza.
@@ -4712,7 +4711,7 @@ beginning of the last stanza.
 same, "has tied").
 [^07-44]: Ms. "ka": "Gora, Gora is the life of my life"; BR: "Gora is like the life of my life".
 
-## 12. Chaitanyadasa — "dekha dekha aparūpa gaurāṅga-vilāsa…" (PK 1242)
+## 12. Chaitanyadasa — "dekha dekha aparūpa gaurāṅga-bilāsa…" (PK 1242)
 *An allegory: in Navadvipa Gauranga again manifests the lila of lifting Govardhana. He bids the people of Kali worship
 the "Govardhana" of pure bhakti: the nine kinds of bhakti are its peaks, the five rasas its fruits, pulaka, tears and
 trembling its adornment. The "Indra" of the Kali age, on the "Airavata" of irreligion, sends a downpour of lust,
@@ -4764,8 +4763,8 @@ and to this day the world proclaims it.
 Says Chaitanyadasa: under the guise of the Govardhana lila —
 from age to age the deliverance of souls.[^07-53]
 
-[^07-45]: Signature: "Chaitanyadasa" ("caitanyadāsete vale"). PK: vol. 2, PDF pp. 312–313 (printed pp. 299–300), 3rd shakha,
-23rd pallava, "atha govarddhana-yātrā. taducita-śrīgauracandraḥ", no. 1 (mark "॥১॥১২৪২॥"); raga gandhara (P-R-Sa:
+[^07-45]: Signature: "Chaitanyadasa" ("caitanyadāsete bale"). PK: vol. 2, PDF pp. 312–313 (printed pp. 299–300), 3rd shakha,
+23rd pallava, "atha gobarddhana-yātrā. taducita-śrīgauracandraḥ", no. 1 (mark "॥১॥১২৪২॥"); raga gandhara (P-R-Sa:
 dhanashi); ms. P-R-Sa no. 1776. In the catalogue this pada was wrongly listed as PK 1243 by Krishnadasa (KR-013); PK 1243
 is the next pada, on the Govardhana-puja in Vraja, signed "Krishnadasa" (Krishna-lila; not translated). The pada was not
 found in GPT1. Chaitanyadasa was, according to Majumdar, a contemporary of the Lord (cf. chapters 4–6); the allegorical
@@ -4784,7 +4783,7 @@ Lord of the senses with the senses is the definition of bhakti (Narada-pancharat
 [^07-53]: "Blessed Kali" (dhanya kali) — cf. Bhag. 11.5.36 and 12.3.52: the wise praise the Kali age, for in it the highest
 goal is attained by sankirtana.
 
-## 13. Krishnadasa — "ānande bhakatagaṇa dei jaya-rava…" (PK 1570)
+## 13. Krishnadasa — "ānande bhakatagaṇa dei jaya-raba…" (PK 1570)
 *Gaura's abhisheka in Srivasa's house: the devotees cry "Jaya!", Gauranga is bathed with panchagavya, panchamrita and
 the water of a hundred pots; He sits on a jewelled platform; Advaita and Nityananda float in prema, Mukunda, Murari and
 others sing, Haridasa dances crying "Hari!"; the men and women of Nadia see it all with their own eyes. In PK: "Now the
@@ -4809,8 +4808,8 @@ crying "Hari!", Haridasa dances all around.
 the men and women of Nadia see with their own eyes.[^07-58]
 
 [^07-54]: Signature: "Krishnadasa". PK: vol. 2, PDF p. 465 (printed p. 452), 3rd shakha, 31st pallava,
-"athābhiṣeka-vilāsaḥ. ādau śrīgauracandrasya", no. 2 (mark "॥২॥১৫৭০॥"); raga suhai; ms. P-R-Sa no. 2114. GPT1 — p. 239,
-no. 5 (raga suhai); GPT2 — sect. 4.1, no. 5. The catalogue's former first line ("ratana-vedīra para…") is the
+"athābhiṣeka-bilāsaḥ. ādau śrīgauracandrasya", no. 2 (mark "॥২॥১৫৭০॥"); raga suhai; ms. P-R-Sa no. 2114. GPT1 — p. 239,
+no. 5 (raga suhai); GPT2 — sect. 4.1, no. 5. The catalogue's former first line ("ratana-bedīra para…") is the
 beginning of the third couplet. The next pada of PK (1571) is Vasu Ghosha's pada on the abhisheka (chapter 1, no. 2).
 Which Krishnadasa it is has not been established. On the Lord's abhisheka in Srivasa's house see CB Madhya 9.
 [^07-55]: Panchagavya — the five products of the cow; panchamrita — the five nectars (milk, curd, ghee, honey, sugar); the
@@ -4822,7 +4821,7 @@ Kaviraja, Bhaktisiddhanta Sarasvati): in Navadvipa, according to CB (Adi 15), th
 of "face".
 [^07-58]: "With their own eyes" (parateka = pratyakṣa).
 
-## 14. Ramachandra — "dekha śacīnandana jagata-jīvana-dhana…" (PK 2064)
+## 14. Ramachandra — "dekha śacīnandana jagata-jībana-dhana…" (PK 2064)
 *The Lord's dance: the Son of Shachi, the treasure of the world's life, ceaselessly gives out prema; in ecstasy He dances,
 crying "Hari"; hearing of Vrindavana's glories, He rolls on the ground and laughs; Kashishvara, Abhirama, Pandita
 Purushottama and Narahari Dasa sing His glory; at the sound of the khol and karatalas children and wealthy alike come
@@ -4859,7 +4858,7 @@ Narahari Dasa is Narahari Sarakara. The place (Navadvipa or Puri) cannot be dete
 companions.
 [^07-62]: The khol is the clay drum of kirtana, the karatalas are hand cymbals.
 
-## 15. Vasu Ramananda — "aruṇa vasane vidita bhuvane…" (PK 2331)
+## 15. Vasu Ramananda — "aruṇa basane bidita bhubane…" (PK 2331)
 *Nityananda's dance: in red garments, with a dancer's turban, He dances, looking around and crying "Hari, Hari"; His gait
 is that of a mighty elephant, His anklet bells ring; in ecstasy He knows no directions and roars "Gaura!"; the devotees
 roll on the ground gazing at His moon-face, and Vasu Ramananda weeps, clasping Nitai's feet. In PK it is the last pada of
@@ -4913,13 +4912,13 @@ even a fool cannot keep his composure.
 Krishnadasa says: "I am a great sinner."
 
 [^07-67]: Signature: "Krishnadasa". PK: vol. 3, PDF p. 92 (printed p. 81), 4th shakha, 8th pallava ("separation befitting
-spring and the other seasons"), "atha śaratkālocita-virahaḥ. tadbhāvākrāntaḥ śrīmahāprabhuḥ", no. 33 (mark
+spring and the other seasons"), "atha śaratkālocita-birahaḥ. tadbhābākrāntaḥ śrīmahāprabhuḥ", no. 33 (mark
 "॥৩৩॥১৭৪৩॥"); raga sindhura; ms. P-R-Sa no. 967. Not found in GPT1. Which Krishnadasa it is has not been established.
 [^07-68]: Autumn is the time of the rasa ("the autumn nights", Bhag. 10.29.1). The Lord's weeping is separation in Radha's
 mood — pure prema, not worldly longing (CC Antya 14–20).
 [^07-69]: P-R-Sa: "the face of autumn" (mukha) instead of "happiness".
 
-## 17. Ramananda — "dekha dekha jīva gaurāṅgacām̐dera līlā…" (PK 2248)
+## 17. Ramananda — "dekha dekha jība gaurāṅgacām̐dera līlā…" (PK 2248)
 *The sannyasi Lord: He who in a moment enchanted hundreds of thousands of gopis has exchanged His yellow garments for the
 kaupina and the staff; leaving the happiness of the Kalindi's bank, He stands awesome on the seashore; in the Rama-avatara
 He held the bow, in Gokula He played the flute, and now, out of compassion for souls, He has taken the sannyasi's staff;
@@ -4948,17 +4947,17 @@ it is the armour of a hero crushing godlessness.[^07-74]
 [^07-70]: Signature: "Ramananda". PK: vol. 3, PDF pp. 285–286 (printed pp. 274–275), 4th shakha, 21st pallava (Gauranga's
 sannyasa), no. 31 (mark "॥৩১॥২২৪৮॥"); raga varadi; ms. P-R-Sa no. 2353. GPT1 — p. 18, no. 49 (raga varadi); GPT2 — sect.
 1.2, no. 49. In the catalogue (RM-001) this pada was confused with the preceding PK 2247 ("goloka chāṛiyā pahu kene vā
-avanī"): that one is signed in PK "Govinda Dasa", in GPT "Nayanananda", and Ramananda is only mentioned in it ("Raya
+abanī"): that one is signed in PK "Govinda Dasa", in GPT "Nayanananda", and Ramananda is only mentioned in it ("Raya
 Ramananda weeps"). The attribution of PK 2248 to Vasu Ramananda is not proven (the signature is only "Ramananda"); by its
 content the pada was written after the sannyasa, about the Lord in Puri.
 [^07-71]: The gopis are Krishna's friends in Vraja; their prema is pure, without a trace of the mundane — the highest love of
 God.
-[^07-72]: "The crooked" (vākuyā) — the reading is unclear; probably "crooked" (vām̐kuyā): Krishna, who stood "bent in three
+[^07-72]: "The crooked" (bākuyā) — the reading is unclear; probably "crooked" (bām̐kuyā): Krishna, who stood "bent in three
 places" (tribhanga) with the flute, now holds the straight staff of a sannyasi. The Kalindi is the Yamuna. "Awesome"
 (paracaṇḍa = pracaṇḍa).
 [^07-73]: Mss. "ka", "kha", "ca", P-R-Sa: "holding the bow" (dhariyā).
 [^07-74]: The staff (danda) and the water-pot (karaṅga, kamandalu) are the sannyasi's belongings; mss. "ka", "kha", P-R-Sa:
-"taking along" (laiyā saṅge) instead of "taking a water-pot". "The armour of a hero" (vīra-vānā — a warrior's array): the
+"taking along" (laiyā saṅge) instead of "taking a water-pot". "The armour of a hero" (bīra-bānā — a warrior's array): the
 Lord's sannyasa is a weapon against godlessness; cf. note 8.
 
 ## 18. Paramananda — "śrīnityānanda caitanya hare…" (PK 2971)
@@ -5011,10 +5010,10 @@ translated). Majumdar ascribes Paramananda's Vrajabuli padas to Paramananda of V
 Paramananda Gupta; authority C.
 [^07-76]: The last words of the stanzas (kohe, mohe, sohe…) are Hindi exclamatory endings ("who?", "enchants", "shines"),
 usual in Vrajabuli nama-kirtanas.
-[^07-77]: "Glory!" (valihāri) — literally "I give myself for Him".
-[^07-78]: Tribhanga is the "thrice-bent" pose of Krishna with the flute; "who delights in Vrindavana" (vṛndāvana-raṅgī) is
+[^07-77]: "Glory!" (balihāri) — literally "I give myself for Him".
+[^07-78]: Tribhanga is the "thrice-bent" pose of Krishna with the flute; "who delights in Vrindavana" (bṛndābana-raṅgī) is
 Krishna. Ms. "gha": another reading instead of "gathered" (ota nita).
-[^07-79]: Ms. "gha": "tears of prema flow" (vahata premajala); "ka", "kha", "ca": siṃcata (the same, "sprinkling"); "ka":
+[^07-79]: Ms. "gha": "tears of prema flow" (bahata premajala); "ka", "kha", "ca": siṃcata (the same, "sprinkling"); "ka":
 mohata, "kha": mocata ("wash away"); "ka", "kha": kara (the same, "embraces").
 [^07-80]: The Lord of the Yadus (yadunandana) is Jagannatha. GPT1: "beholds every day".
 [^07-81]: "Himself offers prema" (premahi yācata) — He gives it without waiting to be asked. Ms. "ka": "fallen people"
@@ -5065,7 +5064,7 @@ to PK 2360). The first line in the catalogue (KR-011, "nityānandacāṃda…") 
 Krishnadasa is Gauridasa's younger brother; he dates PK 2358 to the Lord's lifetime, and this pada directly continues it.
 Cf. Murari 4.14.12–17.
 [^07-83]: Ms. "kha": "seeing" (dekhite); "ka": "with you" (tomāra); GPT1: "We have stayed, the two brothers, as captives"
-(vandī).
+(bandī).
 [^07-84]: The four are the Lord, Nityananda and Their two Deities (so also GPT1's note). Ms. "ka": "murti, murti" (mūrtti
 mūrtti). The Deity is not a statue but the Lord Himself, manifesting Himself out of love for His devotee: the Lord shows
 Gauridasa that He and His Deity are one.
@@ -5113,10 +5112,10 @@ belongs to the same story as PK 2358–2360 (here nos. 19, 21), but PK places it
 Krishnadasa it is, is not stated; by the theme, probably Gauridasa's younger brother.
 [^07-88]: Mss. "ka", "kha", "gha", "ca": nāmilā āsiyā (the same, "came down"); "ka", "kha": "night and the sun" (niśā)
 instead of "the moon".
-[^07-89]: P-R-Sa: vāje (the same, "sound"), gāhe (the same, "sing").
+[^07-89]: P-R-Sa: bāje (the same, "sound"), gāhe (the same, "sing").
 [^07-90]: Arghya is a respectful offering of water with flowers and rice. P-R-Sa: arghyathālī (the same).
 
-## 21. Krishnadasa — "śrīvṛndāvana nāma ratna-cintāmaṇi-dhāma…" (PK 2360)
+## 21. Krishnadasa — "śrībṛndābana nāma ratna-cintāmaṇi-dhāma…" (PK 2360)
 *Praise of Gauridasa: in Vrindavana, the abode of chintamani jewels, beside Krishna and Balarama, was Subala-chandra —
 now he has become Gauridasa and lives in Ambika; Nitai and Chaitanya accepted his service, and all four partook of his
 food; as Subala once subdued Rama and Kanu, so now this has become manifest; knowing nothing but Nitai and Chaitanya, he
@@ -5152,7 +5151,7 @@ scriptures, Vrindavana is made of them.
 [^07-93]: The four murtis are the Lord and Nityananda and Their Deities (cf. no. 19); ms. "ka": "forms" (mūrtte). Rama
 and Kanu are Balarama and Krishna.
 
-## 22. Krishnadasa — "nitāi caitanya doṃhe vaṛa avatāra…" (PK 2991)
+## 22. Krishnadasa — "nitāi caitanya doṃhe baṛa abatāra…" (PK 2991)
 *A prayer of repentance: Nitai and Chaitanya are the greatest avataras, none will be more generous than They; They
 delivered mlecchas, chandalas and blasphemers; yet the poet has gained nothing — he did not worship Their feet, he himself
 put poison into his mouth; the whole world drowned in the prema of the gaura-kirtana, but not a drop touched him. In PK
@@ -5258,7 +5257,7 @@ manuscript variants from PK's apparatus, the *Gaura-pada-tarangini* (GPT1 — 1s
 *Bhakti-ratnakara* (BR) and the *Kshanada-gita-chintamani* (KGC); the Bengali original, variants and word-for-word
 translation are in the full version of the book.*
 
-## 1. Vasu Ghosha — "ki kahiva śata śata tuyā avatāra…" (PK 2292)
+## 1. Vasu Ghosha — "ki kahiba śata śata tuyā abatāra…" (PK 2292)
 *Praise of the Gaura avatara: of hundreds of incarnations, the poet holds dear Gauranga alone; as Rama built a bridge
 across the ocean, Gaura made kirtana a bridge to carry across the lame, the dull and the blind; the poet knows neither
 japa, nor austerity, nor Vedic reasoning, and begs Gauranga to carry him across too. In PK it stands at the end of the
@@ -5290,7 +5289,7 @@ PK 2292. Majumdar counts PK 2292 among Vasu Ghosha's stavas and prarthanas.
 a devotee — a "beggar" asking for prema — together with the greatest bhaktas: Shiva, Shuka, Narada (and presumably
 Brahma; "janā cāri" — "four," or simply "a handful of people"). The Gaudiya tradition sees in Gaura's associates
 incarnations of these bhaktas (Advaita — Shiva, Srivasa — Narada; GGD).
-[^08-3]: Rama built the bridge (setu-vandha) to Lanka. MS P-R-Sa: "at last" (avaśeṣa) instead of "but now."
+[^08-3]: Rama built the bridge (setu-bandha) to Lanka. MS P-R-Sa: "at last" (abaśeṣa) instead of "but now."
 [^08-4]: The "bridge" of kirtana carries one across the ocean of worldly existence. MSS "ka," "ca" and GPT1: without "all"
 (yata); "kha": "let them cross over now."
 [^08-5]: The fourteen worlds — the whole universe (the seven higher and seven lower planetary systems).
@@ -5457,18 +5456,18 @@ He has sprinkled all His servants with it.[^08-22]
 
 [^08-19]: Signature: "Vasudeva Ghosha." PK: vol. 3, PDF p. 225 (printed p. 214), 17th pallava, no. 29 (mark
 "॥২৯॥২০৮৭॥"); raga dhanashi; MS P-R-Sa no. 2196. GPT1 — p. 131, no. 58 (raga dhanashri; the second stanza "I beheld
-Gaura…" serves as the refrain); GPT2 — sect. 3.1, no. 58. The catalogue's former first line ("aichana bhāva vujhai nā pāriye")
+Gaura…" serves as the refrain); GPT2 — sect. 3.1, no. 58. The catalogue's former first line ("aichana bhāba bujhai nā pāriye")
 is the reading of MS P-R-Sa in the closing lines (see note 22). Majumdar counts PK 2087 among Vasu's padas on the Lord's
 form.
 [^08-20]: Jambunada is the finest gold (according to the Puranas, from the river Jambu). GPT1: "surpassing" (gañjana). MS
 "kha": "beautifully adorned" (sumaṇḍita).
-[^08-21]: "Hero" (nāyara, i.e. nāgara) — the graceful hero, a usual epithet of Gaura with Vasu Ghosha. MS P-R-Sa: "young" (nava)
+[^08-21]: "Hero" (nāyara, i.e. nāgara) — the graceful hero, a usual epithet of Gaura with Vasu Ghosha. MS P-R-Sa: "young" (naba)
 instead of "dancer."
 [^08-22]: The Suradhuni is the Ganga. "Revealing Himself" (nija parakāśe) — in His true form (or "in His own radiance"). MS
 P-R-Sa, instead of the last two lines: "Such a bhava cannot be understood, says Vasudeva Ghosha." GPT1: "Vasudeva Ghosha
 sings."
 
-## 7. Vasu Ghosha — "avatāra bhāla gaurāṅga avatāra kailā bhāla…" (PK 665)
+## 7. Vasu Ghosha — "abatāra bhāla gaurāṅga abatāra kailā bhāla…" (PK 665)
 *Kirtana in Navadvipa: wondrous is Gauranga's incarnation — even Jagai and Madhai dance; the moon, the sun and the stars
 dance, Vasuki in the underworld dances repeating "Gora, Gora"; the devotees and all the destitute dance; the Lord
 delivers the dull, the blind, the infirm and the fallen — only the poet is left deprived. In PK it is a gaura-chandrika
@@ -5491,9 +5490,9 @@ no. 2 (mark "॥২॥৬৬৫॥"); "tathā rāga" — the raga of the precedi
 MS P-R-Sa no. 1140. GPT1 — pp. 248–249, no. 2 (raga vibhasa), right after PK 664; GPT2 — sect. 4.2, no. 2. Majumdar does
 not discuss this pada separately.
 [^08-24]: Jagai and Madhai are the robber brothers whom the Lord and Nityananda delivered in Navadvipa (CB Madhya 13; CC Adi
-17); their dancing in the kirtana is a sign of the Lord's all-conquering mercy. "Great power" (vaṛa ṭhākurāla) — the Lord's
+17); their dancing in the kirtana is a sign of the Lord's all-conquering mercy. "Great power" (baṛa ṭhākurāla) — the Lord's
 majesty. MS "ka": "made" (kaila).
-[^08-25]: Vasuki is the king of the serpents in the lower worlds (Patala). MS "ka," GPT1: "saying" (vali); "ca": vole; "kha":
+[^08-25]: Vasuki is the king of the serpents in the lower worlds (Patala). MS "ka," GPT1: "saying" (bali); "ca": vole; "kha":
 "Gora" only once.
 [^08-26]: MSS "gha," "ca": atura (the same, "infirm"); P-R-Sa: "the infirm and the rest" (aturādi). The usual self-abasement
 of Vaishnava poets.
@@ -5520,11 +5519,11 @@ the raga of PK 2098–2099 — gandhara; MS P-R-Sa no. 2209. GPT1 — p. 257, no
 Majumdar counts PK 2100 among Vasu's padas on the Lord's form.
 [^08-28]: "Pure gold" — lit. "raw (unworked) gold" (kām̐cā soṇā), i.e. native gold without alloy. The Suradhuni is the Ganga:
 tears flow from the Lord's eyes like rivers.
-[^08-29]: MSS "ka," "ca," P-R-Sa: "surrounding" (veṛiyā) in 8.2; "kha," "ca," P-R-Sa: "sounds" (vājaye) in 8.3. In 8.4 MSS
+[^08-29]: MSS "ka," "ca," P-R-Sa: "surrounding" (beṛiyā) in 8.2; "kha," "ca," P-R-Sa: "sounds" (bājaye) in 8.3. In 8.4 MSS
 "kha," "ca": "body" (tanu) instead of "limbs"; P-R-Sa: hu; MS "ka" omits the word; MS "ka" and GPT1: "the smile of the lips" (mukha) instead of "the smile of joy." GPT1 reads with MSS "ka,"
-"ca," "kha": veṛiyā, vājaye, tanu.
+"ca," "kha": beṛiyā, bājaye, tanu.
 
-## 9. Vasu Ghosha (?) — "gorā nāce prema-vinadiyā…" (PK 2079)
+## 9. Vasu Ghosha (?) — "gorā nāce prema-binadiyā…" (PK 2079)
 *Dance in the sankirtana: the Lord of all the worlds, rapt in the play of prema, dances in Nadia without regard to
 direction, crying "Hari!" with tears; distributing to souls the wealth of Goloka's prema, He dances in the sankirtana
 and begs everyone He sees: "Take the sweet name!" In PK it stands in the 17th pallava. Raga tori.*[^08-30]
@@ -5545,13 +5544,13 @@ Vasu Ghosha, not having received it, weeps without end.[^08-31]
 2078 — tori; MS P-R-Sa no. 2188. GPT1 — p. 252, no. 14 (raga tori); GPT2 — sect. 4.2. The attribution is doubtful: according
 to PK's apparatus, couplet 9.4 with the signature "Vasu Ghosha" is found only in MS P-R-Sa; in GPT1 the pada ends
 differently, with the signature of Balarama Dasa (see note 31). Majumdar counts PK 2079 among Vasu's padas on the
-Lord's bhava. The next pada, PK 2080 ("savahum̐ gāyata savahum̐ nācata"), which the catalogue assigned to Vasu, is by Govinda
+Lord's bhava. The next pada, PK 2080 ("sabahum̐ gāyata sabahum̐ nācata"), which the catalogue assigned to Vasu, is by Govinda
 Dasa.
 [^08-31]: According to PK's note, couplet 9.4 is found only in MS P-R-Sa. GPT1 has instead: "His body brims with prema, a
 gentle smile on His lips; Balarama Dasa alone was left deprived of this rasa." GPT1: "rapt in the play of prema" (prema
-vinodiyā).
+binodiyā).
 
-## 10. Vasu Ghosha — "śuni vṛndāvana-guṇa…" (PK 2078)
+## 10. Vasu Ghosha — "śuni bṛndābana-guṇa…" (PK 2078)
 *Dance in the kirtana: hearing of the glories of Vrindavana, Gaura, maddened by rasa, raises His arms and cries "Hari!",
 whirls in the dance, and streams flow from His eyes; He is beyond purusha and prakriti and enchants Manmatha Himself;
 His body thrills with ecstasy and is anointed with perfume and sandal. In PK it stands in the 17th pallava (the dance
@@ -5635,7 +5634,7 @@ supreme bliss."
 apparently Govinda Ghosha, Vasu's brother, a kirtana singer. BR, KGC: "dear Gadadhara, holding His left hand" — the same.
 [^08-40]: The Lord remembers the Vrindavana lilas in Radha's mood — this is pure prema, not a worldly feeling. BR: "now and
 again He smiles from the corners of His reddish eyes and speaks with what longing"; KGC: "now He smiles… now He weeps
-from the corners of His reddish eyes." BR, KGC, GPT1: "what can I, Vasudeva Ghosha, say" (ki valiva).
+from the corners of His reddish eyes." BR, KGC, GPT1: "what can I, Vasudeva Ghosha, say" (ki baliba).
 
 ## 12. Vasu Ghosha — "hari hari gorā kene kām̐de…" (PK 764)
 *The Lord's bhava: His companions do not understand why Gora weeps; tears fall like pearls from a broken string;
@@ -5668,15 +5667,15 @@ Sri Radha's prema-vaichittya. The Sri Gaurachandra befitting it"), no. 1 (mark "
 gorā kena kām̐de / nā jāni ṭhekilā pahum̐ kāra premaphām̐de," GPT1 no. 39) is a different pada; the catalogue wrongly linked it
 with PK 764. Majumdar counts PK 764 among Vasu's padas on the Lord's bhava. Prema-vaichittya is Radha's state in which,
 though near Krishna, She feels separation from Him out of the excess of love.
-[^08-42]: MS P-R-Sa: "not understanding the reason" (nā vujhiye kāraṇa).
+[^08-42]: MS P-R-Sa: "not understanding the reason" (nā bujhiye kāraṇa).
 [^08-43]: MSS "ka," "ca": gām̐thila, P-R-Sa: gathita (the same, "strung"); P-R-Sa: "pearls" (mukutāphala) and "fall" (khasatahi).
 [^08-44]: Looking at His golden body, the Lord remembers Sri Radha, whose complexion and bhava He has accepted (CC Adi 4),
 and calls Her — "Rai." MS P-R-Sa has "Govi, Govi" instead of "Rai, Rai" and "falls to the ground" (dharaṇīte paṛe); MS
 "kha": "sighs again" (niśvāsai puna).
-[^08-45]: MS "ka": "sitting down" (vasiyā) instead of "embraced"; P-R-Sa: "Gaura" (gaura) instead of "again." "Pines away in
+[^08-45]: MS "ka": "sitting down" (basiyā) instead of "embraced"; P-R-Sa: "Gaura" (gaura) instead of "again." "Pines away in
 tears" (maraye jhuriyā) — lit. "dies weeping": a usual expression of boundless longing.
 
-## 13. Vasu Ghosha — "aruṇa nayane dhārā vahe…" (PK 356)
+## 13. Vasu Ghosha — "aruṇa nayane dhārā bahe…" (PK 356)
 *The Lord in Radha's mood — vasaka-sajja: with reddened eyes and bowed head, He starts at the sight of a shadow and rolls
 on the ground; having spread lotus petals, He sits alone, absorbed in meditation; seeing this, the poet speaks to Him,
 clasping His feet. In PK it is the gaura-chandrika to the section on vasaka-sajja (6th pallava). Raga suhai.*[^08-46]
@@ -5707,7 +5706,7 @@ a shadow… heart": "what bhava is in His heart!" MSS P-R-Sa, P-R: "again and ag
 instead of "lotus petals," and "Gora sits absorbed in meditation."
 [^08-49]: MS P-R-Sa: ekāmbare, P-R: ekāsare (the same, "alone").
 
-## 14. Vasu Ghosha — "āji kene gorācām̐dera virasa vayāna…" (PK 370)
+## 14. Vasu Ghosha — "āji kene gorācām̐dera birasa bayāna…" (PK 370)
 *The Lord in Radha's mood — khandita: Gorachand's face is cheerless, His eyes full of tears, His lips pale, His body
 weary, His steps unsteady; the poet wonders where Gora was and in hope of what rasa He spent the night without sleep. In
 PK it is the gaura-chandrika to the section on the khandita (6th pallava). Raga vibhasa or tori.*[^08-50]
@@ -5726,8 +5725,8 @@ In hope of what rasa did He spend this night?[^08-53]
 
 [^08-50]: Signature: "Vasu Ghosha." PK: vol. 1, PDF pp. 250–251 (printed pp. 239–240), 2nd shakha, 6th pallava ("Now the
 khandita. The Sri Gaurachandra befitting it"), no. 19 (mark "॥১৯॥৩৭০॥"); raga vibhasa or tori (MS P-R — "southern
-shri"); MS P-R 17.1 (according to PK's apparatus). The pada is in the index of GPT1 ("āji kena gorācām̐dera virasa vadana"), but
-its text was not found in the OCR. Another pada of Vasu with a similar opening is "āju kena gorācām̐dera virasa vayāna / ke āila ke
+shri"); MS P-R 17.1 (according to PK's apparatus). The pada is in the index of GPT1 ("āji kena gorācām̐dera birasa badana"), but
+its text was not found in the OCR. Another pada of Vasu with a similar opening is "āju kena gorācām̐dera birasa bayāna / ke āila ke
 āila…" (GPT1 p. 313, section "Separation," no. 1). Majumdar counts PK 370 among Vasu's padas on the Lord's bhava. The
 khandita is the heroine who has waited in vain all night for her beloved and is offended; in the gaura-chandrika the
 Lord, in Radha's mood, has spent the night without sleep waiting for Krishna — hence the reddened eyes, the pallor and
@@ -5739,7 +5738,7 @@ the weariness. This is pure prema; we translate faithfully.
 gaura-chandrika itself: the Lord has waited all night (as Radha waits for Krishna). MS "ga": "in hope of what rasa did He
 spend this night awake."
 
-## 15. Vasu Ghosha — "varaṇa kāñcana daśavāna…" (PK 476)
+## 15. Vasu Ghosha — "baraṇa kāñcana daśabāna…" (PK 476)
 *The Lord in Radha's mood — mana: golden, clad in crimson, Gora sits with bowed head, tears streaming from His eyes; now
 He puts His palm to His head, now draws on the ground with His nail, weeps and rolls in the dust. In PK it is the
 gaura-chandrika to the section on the "unyielding mana" (2nd shakha). Raga suhai.*[^08-54]
@@ -5764,15 +5763,15 @@ mana; first, mana with a cause: the unyielding mana, when signs of enjoyment [wi
 The Sri Gaurachandra befitting it," no. 1 (mark "॥১॥৪৭৬॥"); raga suhai; MS P-R-Sa no. 700. GPT1 — p. 311, no. 12 (raga
 pathamanjari; section on mana); GPT2 — sect. 4.6, no. 12. Majumdar counts PK 476 among Vasu's padas on the Lord's bhava.
 Mana is Radha's jealous pique with Krishna; the Lord lives this bhava of Radha — this is pure prema. "Gold of the highest
-assay" (daśavāna) — lit. "of tenfold assay."
+assay" (daśabāna) — lit. "of tenfold assay."
 [^08-55]: Drawing on the ground with the nail is the usual gesture of the offended heroine in poetry. Instead of couplets
 15.2–15.5, MS P-R-Sa has: "His eyes are like lotuses, tears flow down on both sides like strings of pearls falling; His
 body rolls on the ground — a golden mountain grey with dust; says Vasudeva Ghosha: without Gora I cannot live." MSS "ka,"
 "ga," "ca": śira, "ca": karatale, "ka": "with the palm" instead of "on the ground," "ca": nakha — the same meaning. GPT1: "now He
 lays His head on His palm."
-[^08-56]: MSS "kha," "gha": "day and night" (divā niśi).
+[^08-56]: MSS "kha," "gha": "day and night" (dibā niśi).
 
-## 16. Vasu Ghosha — "kṛṣṇa kṛṣṇa vali gorā kām̐de…" (PK 525)
+## 16. Vasu Ghosha — "kṛṣṇa kṛṣṇa bali gorā kām̐de…" (PK 525)
 *The Lord in Radha's mood — mana: Gora weeps, repeating "Krishna, Krishna," tears flow from His eyes like Gangas; He does
 not anoint His body with sandal, and, all grey with dust, rolls on the ground; His face is dulled with pique, nothing
 pleases Him, neither by day nor by night does He sleep. In PK it is the gaura-chandrika to the section "mana — another
@@ -5812,7 +5811,7 @@ bhava, on Nityananda and among his stavas. The text follows PK, checked against 
 variants from PK's apparatus, the *Gaura-pada-tarangini* (GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934) and the
 *Kshanada-gita-chintamani* (KGC); the Bengali original, variants and word-for-word translation are in the full version of the book.*
 
-## 1. Vasu Ghosha — "navadvīpe udaya karilā dvija-rāja…" (PK 1494)
+## 1. Vasu Ghosha — "nabadvīpe udaya karilā dvija-rāja…" (PK 1494)
 *Gaura in the kirtana of Navadvipa: the moon risen in the darkness of Kali among the stars, His companions; grey with
 dust, He sways on the waves of bhava, sings "Hari, Hari" and stands still in the tribhanga pose; at His left is
 Gadadhara; remembering Vrindavana, the Lord weeps and pours a downpour of the holy name upon the world. In PK it is the
@@ -5837,7 +5836,7 @@ His teeth shine brighter than lightning.
 Vasudeva Ghosha sings: to deliver the souls of the age of Kali,
 He has rained a downpour of Hari's name.[^09-5]
 
-[^09-1]: Signature: "Vasudeva Ghosha." PK: vol. 2, PDF p. 432 (printed p. 419), 3rd shakha, 27th pallava, section "atha vāsantī
+[^09-1]: Signature: "Vasudeva Ghosha." PK: vol. 2, PDF p. 432 (printed p. 419), 3rd shakha, 27th pallava, section "atha bāsantī
 rāsalīlā । taducita-śrīgauracandra" (gaura-chandrika to the spring rasa), no. 70 (mark "॥৭০॥১৪৯৪॥"); raga dhanashi or vasanta;
 MS P-R-Sa no. 2044. GPT1 — p. 131, no. 59 (raga dhanashi). Majumdar counts PK 1494 among Vasu's padas on the Lord's
 bhava.
@@ -5847,7 +5846,7 @@ over Navadvipa like the moon.
 spontaneously assumes Krishna's form.
 [^09-4]: Gadadhara Pandita, according to the *Gaura-ganoddesha-dipika*, is a manifestation of Radha; he stands at Gaura's
 left as Radha stands at Krishna's left. MS "kh": "ājāno"; P-R-Sa: "ajāne" (the same).
-[^09-5]: MS "kh": "pours" (varikhata). P-R-Sa: "like" (yena) instead of "brighter than" (jini).
+[^09-5]: MS "kh": "pours" (barikhata). P-R-Sa: "like" (yena) instead of "brighter than" (jini).
 
 ## 2. Vasu Ghosha — "cala dekhi giyā gorā ati manohare…" (PK 973)
 *Gaura's form in Nadia: "Come, let us go and see Gora!" — His body brighter than tested gold, His arms reaching to the
@@ -5905,11 +5904,11 @@ and 45, so its variants have not been checked. The catalogue wrongly linked PK 6
 gaurasundara…" (VG-057). Majumdar counts PK 656 among Vasu's padas on the Lord's bhava. PK's section "rasalasa" is about the
 languor of Radha and Krishna after the night's play; the gaura-chandrika shows the Lord wearied by the night's kirtana
 and bhava.
-[^09-10]: MSS "gh," "c": "Gaura lies" (śutiyā āchena gaura) instead of "Gorachand lies"; "k," "c": "in absorption" (āveśe),
-"gh": "in languor" (alase) instead of "languid" (ālase; GPT1 — "āveśe," with "ālase" in a note); P-R-Sa: "how can I tell the
-beauty of His body" (ki kava aṅgera śobhā), "says Vasudeva Ghosha" (kaya) instead of "looks on" (dekhe).
+[^09-10]: MSS "gh," "c": "Gaura lies" (śutiyā āchena gaura) instead of "Gorachand lies"; "k," "c": "in absorption" (ābeśe),
+"gh": "in languor" (alase) instead of "languid" (ālase; GPT1 — "ābeśe," with "ālase" in a note); P-R-Sa: "how can I tell the
+beauty of His body" (ki kaba aṅgera śobhā), "says Vasudeva Ghosha" (kaya) instead of "looks on" (dekhe).
 
-## 4. Vasu Ghosha — "nā jāniye gorācām̐dera kona bhāva mane…" (PK 1409)
+## 4. Vasu Ghosha — "nā jāniye gorācām̐dera kona bhāba mane…" (PK 1409)
 *The boat play on the Ganga: Gorachand goes to the bank with His companions, steps into a boat with Gadadhara and
 steers it Himself; everyone cries "We are sinking!" and bails out water, and, remembering the former play, floats in
 the waters of prema, while the Lord, looking at Gadadhara, gently smiles. In PK it is the gaura-chandrika to the
@@ -5931,13 +5930,13 @@ remembering the former play, some float in the waters of prema.[^09-13]
 so says Vasudeva Ghosha, with jubilation in his heart.
 
 [^09-11]: Signature: "Vasudeva Ghosha." PK: vol. 2, PDF p. 388 (printed p. 375), 3rd shakha, 26th pallava, section "atha
-naukā-vilāsa । taducita śrīmahāprabhu," no. 1 (mark "॥১॥১৪০৯॥"); raga tudi; MS P-R-Sa no. 1925. GPT1 — p. 333, no. 38 (raga tudi;
+naukā-bilāsa । taducita śrīmahāprabhu," no. 1 (mark "॥১॥১৪০৯॥"); raga tudi; MS P-R-Sa no. 1925. GPT1 — p. 333, no. 38 (raga tudi;
 among the padas on the dana-lila). Majumdar counts PK 1409 among Vasu's padas on the Lord's bhava. Compare Ramananda's
 pada on the same play (PK 1417, chapter 6).
 [^09-12]: Suradhuni, "the river of the gods," is the Ganga.
 [^09-13]: "The former play" is Krishna's play with Radha and the gopis in a boat on the Yamuna (nauka-lila): the Lord at
-the helm is Krishna, Gadadhara is Radha. MSS "k," "c," P-R-Sa: "Himself" — āpani (the same); P-R-Sa: "guides" (vahe) instead
-of "steers" (vāya), "with joy" (hariṣe) instead of "with jubilation" (ullāse). GPT1: "smiles to Himself" (mane mane hāse).
+the helm is Krishna, Gadadhara is Radha. MSS "k," "c," P-R-Sa: "Himself" — āpani (the same); P-R-Sa: "guides" (bahe) instead
+of "steers" (bāya), "with joy" (hariṣe) instead of "with jubilation" (ullāse). GPT1: "smiles to Himself" (mane mane hāse).
 
 ## 5. Vasu Ghosha — "āre mora gorā dvijamaṇi…" (PK 54)
 *The Lord in the mood of Krishna stricken with purvaraga: "Radha, Radha!" Gora calls, weeps and rolls on the ground,
@@ -5995,11 +5994,11 @@ no. 17 (pahida), just before the section on separation; in GPT2 — in the secti
 it twice: VG-080 and VG-122). The place is not named. Majumdar counts PK 2041 among Vasu's padas on the Lord's bhava.
 The PK section shows Radha, on the next day, recalling the night of union with Krishna; the gaura-chandrika shows the
 Lord absorbed in such recollections.
-[^09-17]: MSS "k," "kh": "Gauranga" instead of "Gaura"; "k," "kh," "c" and GPT1: "having sat" (vasiyā) instead of "sat." In MS "k"
+[^09-17]: MSS "k," "kh": "Gauranga" instead of "Gaura"; "k," "kh," "c" and GPT1: "having sat" (basiyā) instead of "sat." In MS "k"
 there is a lacuna mark in place of the word "with joyful cries" (hulāhuli).
-[^09-18]: "Bhava embodied" (bhāvera mūrati): the Lord, in whom Radha's bhava manifests in its fullness.
+[^09-18]: "Bhava embodied" (bhābera mūrati): the Lord, in whom Radha's bhava manifests in its fullness.
 
-## 7. Vasu Ghosha — "āju kene gorācām̐dera virasa vayāna…" (PK 1598)
+## 7. Vasu Ghosha — "āju kene gorācām̐dera birasa bayāna…" (PK 1598)
 *The Lord in the mood of Radha foreseeing separation: Gorachand's face is cheerless, He asks, "Who has come?" and
 weeps; the devotees around have fainted, not understanding the cause; crying "Hari, Hari," Gora sighs heavily. In PK it
 is the gaura-chandrika to the section "impending separation." Raga suhai, tala kandarpa.*[^09-19]
@@ -6016,13 +6015,13 @@ how many Suradhunis pour from His eyes!
 **7.4.** Crying "Hari, Hari," Gora sighs heavily;
 Vasu strikes his head with his hand and speaks, faltering with tears.
 
-[^09-19]: Signature: "Vasu." PK: vol. 3, PDF p. 18 (printed p. 7), 4th shakha, 2nd pallava, section "atha bhāvī virahaḥ ।
-tadbhāvākrāntaḥ śrīmahāprabhuḥ" ("impending separation; Sri Mahaprabhu, overwhelmed by this bhava"), no. 1 (mark "॥১॥১৫৯৮॥");
+[^09-19]: Signature: "Vasu." PK: vol. 3, PDF p. 18 (printed p. 7), 4th shakha, 2nd pallava, section "atha bhābī birahaḥ ।
+tadbhābākrāntaḥ śrīmahāprabhuḥ" ("impending separation; Sri Mahaprabhu, overwhelmed by this bhava"), no. 1 (mark "॥১॥১৫৯৮॥");
 "suhai । kandarpatāla"; MS P-R-Sa no. 806. GPT1 — p. 313, no. 1 (suhai, kandarpa) — the first pada of the section on
 separation. Majumdar counts PK 1598 among Vasu's padas on the Lord's bhava.
 [^09-20]: The PK section: Radha learns that Akrura has come for Krishna to take Him to Mathura; the Lord in Radha's mood
 asks, "Who has come?" GPT1: "'Who has come? Who has come?' — and tears stream down" (kari instead of vali).
-[^09-21]: MS "k": "kena" (the same, "why"); "gh": "they cannot understand His heart" (vujhilu mana) instead of "cannot understand
+[^09-21]: MS "k": "kena" (the same, "why"); "gh": "they cannot understand His heart" (bujhilu mana) instead of "cannot understand
 the cause"; "k": "before Him" (samukha) instead of "that face" (se mukha); MS "kh" lacks the word "jāni" ("is wrung," literally
 "I know not how"); P-R-Sa: "weep" (jhure) instead of "pour" (jhare).
 
@@ -6045,7 +6044,7 @@ His golden body is adorned with the treasures of bhava.[^09-25]
 Vasudeva Ghosha's heart can find no rest.
 
 [^09-22]: Signature: "Vasudeva Ghosha." PK: vol. 3, PDF p. 37 (printed p. 26), 4th shakha, 4th pallava, section "atha
-bhūta-virahaḥ । nāyikā proṣitabhartṛkā । tadbhāvākrāntaḥ śrīgauracandro yathā" ("accomplished separation; the heroine whose beloved has
+bhūta-birahaḥ । nāyikā proṣitabhartṛkā । tadbhābākrāntaḥ śrīgauracandro yathā" ("accomplished separation; the heroine whose beloved has
 gone abroad; Sri Gaurachandra, overwhelmed by this bhava"), no. 1 (mark "॥১॥১৬৩৪॥"); raga suhai (P-R: sindhura); MS P-R-Sa
 no. 857, MS P-R no. 40.19. GPT2 — in the section on separation (the catalogue had it as VG-043 and VG-115; one pada).
 Not found in GPT1. Majumdar counts PK 1634 among Vasu's padas on the Lord's bhava. Sitting under a tree, having left
@@ -6053,11 +6052,11 @@ all company — the Lord after His sannyasa.
 [^09-23]: MSS "k," "kh," "c," P-R-Sa and GPT2: "as if a spotless moon were pouring nectar" (jharaye; "k," "kh," "gh," "c," P-R-Sa and
 GPT2 — vimala, "spotless," instead of niramala, the same).
 [^09-24]: MSS "k," "c": "whose feet they do not attain by devotion (bhakti)"; P-R: "by seeking" (khuji).
-[^09-25]: MS P-R: "He left all comforts, renouncing strength" (chāṛala sava sukha tejiyā śakati); "k," "kh," P-R: "went" (gela) instead of
+[^09-25]: MS P-R: "He left all comforts, renouncing strength" (chāṛala saba sukha tejiyā śakati); "k," "kh," P-R: "went" (gela) instead of
 "has grown weak" (bhela aśakati — literally "became powerless"). The treasures of bhava are the sattvika-bhavas: tears,
 trembling, gooseflesh and the other signs of prema. P-R: "the heart finds no rest" (sthira).
 
-## 9. Vasu Ghosha — "virale vasiyā ekeśvare…" (PK 1635)
+## 9. Vasu Ghosha — "birale basiyā ekeśvare…" (PK 1635)
 *The Lord as a sannyasi in separation: alone, in solitude, He ceaselessly chants the name of Hari; His body, once
 anointed with sandal, now cares for nothing but dust; He has left the pastimes with Lakshmi and lives under a tree, has
 left the flute and taken the sannyasi's staff; He knows neither day nor night. In PK it is the second gaura-chandrika
@@ -6085,8 +6084,8 @@ bhanita as "Balarama"; in KGC the signature is "Vasu"). Majumdar counts PK 1635 
 [^09-27]: MS P-R: "alone" (ekāsare) instead of "alone" (ekeśvare); MS "k": "else" (āra) instead of "other" (āna). After 9.2 MS P-R has the
 couplet: "The crown of all incarnations, / the wish-fulfilling gem of the destitute" (it is also in KGC and GPT2).
 [^09-28]: Lakshmi is the goddess of fortune, the Lord's eternal consort; in Gaura-lila — Lakshmipriya and Vishnupriya. MS
-P-R: "He left" (chāṛala) instead of "the Lord has left"; "now" — P-R: "ive" (the same); instead of "leaving the enchanting
-flute from His hands" — P-R: "He left the garland of forest flowers" (chāṛala vanamālā).
+P-R: "He left" (chāṛala) instead of "the Lord has left"; "now" — P-R: "ibe" (the same); instead of "leaving the enchanting
+flute from His hands" — P-R: "He left the garland of forest flowers" (chāṛala banamālā).
 [^09-29]: MSS "k," "kh," P-R-Sa: "heeds not" (māna) instead of "knows not" (jāna); P-R: "jāne" (the same); "parāṇe" (the same). In KGC
 and GPT2 the pada is longer: after 9.1 — "The crown of all incarnations, / the wish-fulfilling gem of the destitute";
 after 9.2 — "Ornaments of jewels / He does not touch even in dreams"; instead of 9.3–9.4 — "He left the pastimes with
@@ -6122,10 +6121,10 @@ section of the laments of Shachi and Vishnupriya after the sannyasa (no. 16). Wh
 not say; the PK section shows Radha repenting that in anger She rejected Krishna. We translate it as the lament of a
 devoted soul separated from Gaura. Majumdar does not discuss this pada.
 [^09-31]: MS P-R in 10.2: "majhu" instead of "mora" (the same, "my"); "k," "g," P-R-Sa: "eha dukha" (the same); P-R: "to whom then shall I
-tell this grief" (hāma kāhe kahavahim̐ dukha).
-[^09-32]: MSS "k," "g," "c," P-R: "tava"; P-R-Sa: "tavahi" (the same: "then"); P-R: "kivā sukha" (the same).
+tell this grief" (hāma kāhe kahabahim̐ dukha).
+[^09-32]: MSS "k," "g," "c," P-R: "taba"; P-R-Sa: "tabahi" (the same: "then"); P-R: "kibā sukha" (the same).
 
-## 11. Vasu Ghosha — "kata dine herava gorācām̐dera mukha…" (PK 2279)
+## 11. Vasu Ghosha — "kata dine heraba gorācām̐dera mukha…" (PK 2279)
 *The devotees' longing for Gaura after the sannyasa: when shall we see Gorachand's face, when will the Lord embrace
 us, when will our ears hear His words? The people of Nadia weep, not seeing Gora. In PK it is the section "the
 devotees' longing" in the pallava on Gauranga's sannyasa. Raga suhai.*[^09-33]
@@ -6146,13 +6145,13 @@ the people of Nadia weep, not seeing Gora.[^09-35]
 Gauranga, etc."), section "atha bhaktagaṇasya utkaṇṭhā yathā," no. 62 (mark "॥৬২॥২২৭৯॥"); raga suhai; MS P-R-Sa no. 2383, P-R no. 41.11.
 GPT1 — p. 387, no. 14 (suhai); GPT2 — sect. 5.4, no. 14. Majumdar counts PK 2279 among Vasu's stavas and prarthanas.
 Next in PK (2280) comes Vasu's pada "gorā-guṇe prāṇa kānde…" (chapter 5).
-[^09-34]: MS P-R: "shall I see" (dekhiva); instead of "when will all the sorrow of my heart be stilled" — P-R: "at the sight of
-Gora's face [sorrow] will cease" (gorāmukha daraśe ṭuṭava); P-R-Sa, P-R: "kore," "more" (the same).
-[^09-35]: MSS "k," "kh," "gh," "c," P-R-Sa and GPT1: "śravaṇe haive" (the same); P-R: "sings" (gāya) instead of "says," "the Lord's" (pahum̐) instead of "Gora's"; instead of "the
-people of Nadia weep" — MS "kh": "how can life be kept [, not seeing Gora]" (kemane rahive prāṇa); P-R: "weeping, the eyes are
+[^09-34]: MS P-R: "shall I see" (dekhiba); instead of "when will all the sorrow of my heart be stilled" — P-R: "at the sight of
+Gora's face [sorrow] will cease" (gorāmukha daraśe ṭuṭaba); P-R-Sa, P-R: "kore," "more" (the same).
+[^09-35]: MSS "k," "kh," "gh," "c," P-R-Sa and GPT1: "śrabaṇe haibe" (the same); P-R: "sings" (gāya) instead of "says," "the Lord's" (pahum̐) instead of "Gora's"; instead of "the
+people of Nadia weep" — MS "kh": "how can life be kept [, not seeing Gora]" (kemane rahibe prāṇa); P-R: "weeping, the eyes are
 dying" (jhuriyā maraye ām̐khi).
 
-## 12. Vasu Ghosha — "nitāi kevala patita janāra vandhu…" (PK 2314)
+## 12. Vasu Ghosha — "nitāi kebala patita janāra bandhu…" (PK 2314)
 *Praise of Nitai: He alone is the friend of the fallen, an ocean of jewels amid the destitute; in separation from Gaura
 He looks all around and calls, "Lord Gora Raya!" and falls unconscious; His companions take Him in their arms and weep;
 tears of prema flow from His reddish eyes, with a thundering voice He calls, "Brother, brother!" and the earth trembles
@@ -6182,7 +6181,7 @@ why then has Vasu been left out?[^09-39]
 Nityananda's virtues"), no. 21 (mark "॥২১॥২৩১৪॥"); raga sindhura; MS P-R-Sa no. 2418. KGC 27.2 (sindhura; "of Shri
 Nityananda-chandra"); GPT1 — pp. 423–424, no. 31 (sindhura); GPT2 — sect. 6.1, no. 31. Majumdar counts PK 2314 among
 Vasu's padas on Nityananda.
-[^09-37]: MS "kh": "to the living beings" (jīve); P-R-Sa: "jīva" (the same). KGC: "the Creator brought and joined [to them]" (vidhi
+[^09-37]: MS "kh": "to the living beings" (jībe); P-R-Sa: "jība" (the same). KGC: "the Creator brought and joined [to them]" (bidhi
 āni milāola); GPT1: "amid poverty, an ocean of love" (pirītera sindhu).
 [^09-38]: The Mandakini is the heavenly Ganga; Sumeru is the golden mountain: the tears flowing down Nitai's golden-hued
 body. MSS "k," "kh," "gh," "c," KGC and GPT1: "red as gunja berries" (guñjāruṇa). MS "kh": "meli," P-R-Sa: "mile" (the same:
@@ -6228,7 +6227,7 @@ Nityananda.
 [^09-41]: Govinda and Madhava Ghosha, Vasu's brothers, were kirtana singers. According to the *Chaitanya-bhagavata*
 (Antya 5) the Ghosha brothers were the singers in Nityananda's kirtanas in Gauda; the pada pictures these kirtanas. MS "k": "ghoṣe" (the same).
 [^09-42]: MS "gh": "patitere" (the same).
-[^09-43]: MS "k": "tā sabhāra" (the same: "to all of you") instead of "to sabhāra" in 13.5 and 13.6. "With interest" — vyāja.
+[^09-43]: MS "k": "tā sabhāra" (the same: "to all of you") instead of "to sabhāra" in 13.5 and 13.6. "With interest" — byāja.
 
 ## 14. Vasu Ghosha — "jaya jaya jagannātha śacīra nandana…" (PK 2192)
 *Praise of Gaura — Jagannatha, the son of Shachi: in Nilachala He holds the conch, disc, club and lotus, in Nadia the
@@ -6257,7 +6256,7 @@ pada twice: VG-001 (from GPT, wrongly linked to PK 2151) and VG-131 (PK 2192, on
 among Vasu's stavas and prarthanas.
 [^09-45]: Nilachala is Puri: Jagannatha is the Lord Himself (Vishnu with four emblems); in Nadia He is a sannyasi with a
 staff (danda) and water pot (kamandalu).
-[^09-46]: Slaying Ravana is Rama's lila; the pastimes of Goloka are Krishna's lila. MSS "k," "kh," "gh," "c": "puruve" (the
+[^09-46]: Slaying Ravana is Rama's lila; the pastimes of Goloka are Krishna's lila. MSS "k," "kh," "gh," "c": "purube" (the
 same: "formerly").
 [^09-47]: "The name 'Hare Krishna'" is the maha-mantra "Hare Krishna Hare Krishna Krishna Krishna Hare Hare / Hare Rama Hare
 Rama Rama Rama Hare Hare." MS "kh": "ei" instead of "sei" in 14.5; GPT1: "He who is Gaura is Krishna, is Jagannatha" (yei
@@ -6296,7 +6295,7 @@ it bears the signature "Narahari" and ends in the first person: "Saying 'Gaurang
 live? Surely of stone they have fashioned the heart of Narahari" (in the catalogue — NG-002). The attribution is
 disputed: PK (and MS P-R-Sa) give Vasu, GPT gives Narahari.
 [^09-49]: "How would we have lived" — literally "how would [we] have kept the body" (kemane dharita de). MSS "k," "gh": "kemane"
-instead of "ki mene" ("how would it have been"); "kh": "ki mane" (the same); GPT: "tave ki haita" ("what then would have been").
+instead of "ki mene" ("how would it have been"); "kh": "ki mane" (the same); GPT: "tabe ki haita" ("what then would have been").
 Cf. CC Adi 3–4: the Lord came to taste Radha's prema and to give the world raganuga-bhakti.
 [^09-50]: "The maidens of Vraja" are the gopis. Devotion in their mood (raganuga-bhakti) the Lord gave the world through
 Rupa, Sanatana and His other companions.
@@ -6321,8 +6320,8 @@ in Your mercy, shelter me in the shade of Your feet.
 
 [^09-52]: Signature: "Vasudeva Ghosha." PK: vol. 4, PDF p. 233 (printed p. 224), 4th shakha, 36th pallava, section "punaḥ
 prārthanā । tatra śrīgauracandraḥ," no. 23 (mark "॥২৩॥৩০০৭॥"); raga shri; MS P-R-Sa no. 2516. Not found in GPT1, GPT2 or KGC.
-Majumdar counts PK 3007 among Vasu's stavas and prarthanas. MS "k": "You will not withdraw… You will keep" (chāṛive,
-rākhive).
+Majumdar counts PK 3007 among Vasu's stavas and prarthanas. MS "k": "You will not withdraw… You will keep" (chāṛibe,
+rākhibe).
 [^09-53]: "To this kin and to that" (e kule o kule) — to family and to the world, to this shore and to that: to all worldly and
 heavenly hopes. "Bidden farewell forever" — literally "given tilanjali" (the funeral offering of water with sesame).
 
@@ -6346,7 +6345,7 @@ give their shade, then, to Vasu Ghosha, tormented by the heat.
 [^09-54]: Signature: "Vasu Ghosha." PK: vol. 4, PDF p. 233 (printed p. 224), 36th pallava, "tathā rāga" (shri), no. 24 (mark
 "॥২৪॥৩০০৮॥"); MS P-R-Sa no. 2517. Not found in GPT1, GPT2 or KGC. Majumdar counts PK 3008 among Vasu's stavas and
 prarthanas.
-[^09-55]: MS "kh": "valite" (the same: "to call"); "k": "rākhaha" (the same).
+[^09-55]: MS "kh": "balite" (the same: "to call"); "k": "rākhaha" (the same).
 [^09-56]: "Let it be proclaimed abroad" (rahuka ghoṣaṇā) — let all the world know of Your mercy to the unworthy.
 
 ---
@@ -6390,18 +6389,18 @@ only the sound of Hari's name is renowned.[^10-4]
 
 [^10-1]: Signature: "Balarama Dasa." PK: vol. 2, PDF p. 14 (printed p. 1), opening of the 3rd shakha, section "śrīgauracandra"
 (gaura-chandrika), no. 1 (label "॥১॥৬১৭॥"); raga kamoda; P-R-Sa MS no. 1091. GPT1 — p. 25, no. 1 (kamoda). The catalogue's link
-to the *Bhakti-ratnakara* (BR p. 901) is mistaken: there it is a different pada signed by Narahari — "vali-kali-matta-mataṅgaja-maradana
+to the *Bhakti-ratnakara* (BR p. 901) is mistaken: there it is a different pada signed by Narahari — "bali-kali-matta-mataṅgaja-maradana
 gaurasiṃha nācata nadīyāya". The pada is in elaborate Vrajabuli; which of the Balarama Dasas wrote it is not established.
-[^10-2]: MS "ka": "the elephant (like) Yama"; P-R-Sa: "mataṅgajamavadane" (corrupt). GPT1 in a note: "the elephant's roar." MSS "ka",
+[^10-2]: MS "ka": "the elephant (like) Yama"; P-R-Sa: "mataṅgajamabadane" (corrupt). GPT1 in a note: "the elephant's roar." MSS "ka",
 "ca": "far" (dūra). MS "ka": "pearl" (motima); so also GPT1. "Hundred-stranded necklaces" — śata-dāma, a necklace of many strands.
 [^10-3]: Anima (the power of becoming minute) and the other eight siddhis are the mystic perfections of yoga; before
-sankirtana they lose their worth, like does before a lion. The word "puṇavata" (here "merits," from puṇya) is unclear; MS
-"ka" has "pumavata," "kha," "gha," "ca" "pumarata," P-R-Sa "patharata." MSS "ka," "kha," "ca," P-R-Sa: "islands" (dvīpagaṇa) instead of
-"leopards" (dīpigaṇa); MSS "ka," "gha," "ca": "forest" (vana), "kha": "in the forest" instead of "battle" (raṇa).
+sankirtana they lose their worth, like does before a lion. The word "puṇabata" (here "merits," from puṇya) is unclear; MS
+"ka" has "pumabata," "kha," "gha," "ca" "pumarata," P-R-Sa "patharata." MSS "ka," "kha," "ca," P-R-Sa: "islands" (dvīpagaṇa) instead of
+"leopards" (dīpigaṇa); MSS "ka," "gha," "ca": "forest" (bana), "kha": "in the forest" instead of "battle" (raṇa).
 [^10-4]: MS "ca": "like" (sama); MS "ka": "moon" (śaśi) instead of "hare." MSS "ka," "ca": "Hari" instead of "sound" (dhani). The
 thought: nama-sankirtana is the dharma of the age of Kali (cf. CC Adi 3, 17), and all other means give way before it.
 
-## 2. Balarama Dasa — "vaṛa avatāra bhāi vaṛa avatāra…" (PK 2207 = BR p. 956)
+## 2. Balarama Dasa — "baṛa abatāra bhāi baṛa abatāra…" (PK 2207 = BR p. 956)
 *The great incarnation: Gaura distributes the storehouse of prema to the fallen; women of noble families dance in the
 sankirtana; the one whom all drove away as untouchable is now the one whose foot-dust the gods beg for; even yavanas
 sing the holy name. Raga shri (BR — dhanashi).*[^10-5]
@@ -6428,9 +6427,9 @@ the noble wives dancing in the sankirtana is new). The catalogue had assigned it
 GPT2 — sec. 1.3, no. 36.
 [^10-6]: Who this "king" is, the pada does not say: perhaps the Lord Himself, the King of all, who serves His devotees, or a king
 (Prataparudra) humbly serving the Vaishnavas. BR: "a Vaishnava's bag (jholā)" instead of "palanquin (dolā)"; MS P-R: "bears"
-(vahe) instead of "holds."
-[^10-7]: MS P-R: "in sankirtana people dance, having abandoned all (other) dharmas." BR: "nāpi" (corrupt), "vom̐hāri."
-[^10-8]: BR: "all people" (sava loka) instead of "sarvva loka." A yavana is a non-Hindu (a Muslim); cf. the conversion of Chand Kazi
+(bahe) instead of "holds."
+[^10-7]: MS P-R: "in sankirtana people dance, having abandoned all (other) dharmas." BR: "nāpi" (corrupt), "bom̐hāri."
+[^10-8]: BR: "all people" (saba loka) instead of "sarvva loka." A yavana is a non-Hindu (a Muslim); cf. the conversion of Chand Kazi
 (CB Madhya 23; CC Adi 17).
 
 ## 3. Nayanananda — "jaya re jaya re gorā śrīśacī-nandana…" (PK 2)
@@ -6473,7 +6472,7 @@ small cymbals.
 38.1: "One anoints Gora's body with sandal paste, (one offers) fragrant karabira," "kora re" instead of "bhora re." MSS "kha,"
 "gha," "ca," P-R, P-R-Sa: "the (female) companions" (sahacari). The flower-arrow is Kamadeva's weapon; here it is the hearts pierced
 by love for the Lord.
-[^10-13]: MSS "kha," "gha," P-R, P-R-Sa: "say" (vale); "ka": "says" (kahata), so also KGC. The beloved of Janaki (Sita) is Rama. The
+[^10-13]: MSS "kha," "gha," P-R, P-R-Sa: "say" (bale); "ka": "says" (kahata), so also KGC. The beloved of Janaki (Sita) is Rama. The
 Five-arrowed One is Kamadeva; "the Five-arrowed One dear to Radha" is Krishna as the transcendental Madana (aprakrita-madana,
 CC Madhya 8), not the worldly god of desire. Gadadhara Pandita, according to the *Gaura-ganoddesha-dipika*, is a manifestation
 of Radha; Nayanananda calls Gaura the life of his Gadadhara. MSS "ka," P-R-Sa: "āmāra"; P-R: "hāmāri."
@@ -6508,7 +6507,7 @@ with kirtana from Srivasa's house to the Ganga and back; Majumdar cites it among
 (ringing).
 [^10-16]: Chhanda-bichhanda — dancing in measure and with departures from it (syncopations).
 [^10-17]: The kinnaras and gandharvas are celestial singers and musicians. Tandava is the vigorous male dance.
-[^10-18]: Bandhuli (vandhuka) is a bright red flower. "oṭakhāni" — "the lips" (oṭha, oṣṭha); 1913 ed.: "…oṭakhāni hāma" (corrupt), 1960 ed.:
+[^10-18]: Bandhuli (bandhuka) is a bright red flower. "oṭakhāni" — "the lips" (oṭha, oṣṭha); 1913 ed.: "…oṭakhāni hāma" (corrupt), 1960 ed.:
 "oṭakhāni hāsa."
 
 ## 5. Balarama Dasa — "hari hari maṅgala bharala khiti-maṇḍala…" (PK 2065)
@@ -6576,10 +6575,10 @@ MS no. 2175. GPT1 — p. 250, no. 7 ("yathārāga"); GPT2 — sec. 4.2, no. 7. I
 established.
 [^10-22]: Sunagara-mani, "the jewel of refined youths," is an epithet of Krishna; the poet sees Krishna Himself in the dancing
 Gaura. The wagtail (khañjana) is an image of nimble, light feet or eyes.
-[^10-23]: P-R-Sa: "on the earth" (bhūtala) instead of "in the world" (bhuvana). "lakṣa" is a leap (cf. "lakṣe lakṣe" in BR). GPT1: "majāyai,"
-"pāoi," "aruṇakiraṇa ambara vaniyā" (without "kiye").
+[^10-23]: P-R-Sa: "on the earth" (bhūtala) instead of "in the world" (bhubana). "lakṣa" is a leap (cf. "lakṣe lakṣe" in BR). GPT1: "majāyai,"
+"pāoi," "aruṇakiraṇa ambara baniyā" (without "kiye").
 
-## 7. Balarama Dasa — "govinda mādhava śrīnivāsa rāmānande…" (PK 2067 = BR p. 922)
+## 7. Balarama Dasa — "gobinda mādhaba śrīnibāsa rāmānande…" (PK 2067 = BR p. 922)
 *Kirtana in Navadvipa: Govinda, Madhava, Srinivasa (Srivasa), Ramananda, Murari and Mukunda sing; hearing of His
 former (Vrindavana) pastimes the Lord falls senseless and rolls in the dust; seeing Gadadhara, He weeps; He calls out,
 "Shripada!" — and Nityananda, understanding the secret of His heart, weeps too. Raga mallara-kamoda (BR — dhanashi).*[^10-24]
@@ -6603,7 +6602,7 @@ understanding the secret of His heart, Nityananda weeps.[^10-27]
 but of this joy Balarama Dasa has been deprived.
 
 [^10-24]: Signature: "Balarama Dasa." PK: vol. 3, PDF p. 218 (printed p. 207), 17th pallava, no. 9 (label "॥৯॥২০৬৭॥"); raga
-mallara-kamoda; P-R-Sa MS no. 2176. BR, 12th wave (1913 ed., p. 922, "punardhānaśī"), right after Balarama's pada "…nā darave valarāma
+mallara-kamoda; P-R-Sa MS no. 2176. BR, 12th wave (1913 ed., p. 922, "punardhānaśī"), right after Balarama's pada "…nā darabe balarāma
 pāṣāṇa-hṛdaya". GPT1 — p. 275, no. 87 (shri-mallara); GPT2 — sec. 4.2, no. 87. Majumdar cites the pada as testimony of Balarama
 Dasa: a kirtana with the Ghosha brothers, Srivasa, Vasu Ramananda, Murari and Mukunda.
 [^10-25]: Govinda and Madhava are the Ghosha brothers, the singers of Navadvipa; Srinivasa is Srivasa Pandita; Ramananda is
@@ -6611,7 +6610,7 @@ Vasu Ramananda; Murari is Murari Gupta; Mukunda is Mukunda Datta. MS "ka," BR, G
 [^10-26]: MSS "ka," "ca," P-R-Sa: "goloka-" (without the case ending); so also GPT1. In BR this couplet is followed by the refrain
 mark (dhru).
 [^10-27]: Shripada is the Lord's respectful way of addressing Nityananda. MSS "ka," "kha," "gha," "ca": "to the ground" (dharaṇī) instead
-of "bhūme"; BR: "prabhu bhūme"; GPT1: "śrīpāda vali pahum̐ dharaṇī paṛi kām̐de." BR: "gadādhare dekhi" (7.4).
+of "bhūme"; BR: "prabhu bhūme"; GPT1: "śrīpāda bali pahum̐ dharaṇī paṛi kām̐de." BR: "gadādhare dekhi" (7.4).
 
 ## 8. Nayanananda — "maṇḍalī raciyā sahacare…" (PK 2068)
 *The companions have formed a circle, and in the middle Gora dances: with Him are Gadadhara and Nityananda; from house to
@@ -6644,16 +6643,16 @@ at the feet of Madhava's son.[^10-32]
 
 [^10-28]: Signature: "Nayanananda." PK: vol. 3, PDF p. 218 (printed p. 207), 17th pallava, no. 10 (label "॥১০॥২০৬৮॥"); raga kedara;
 P-R-Sa MS nos. 2177 and 2213. GPT1 — pp. 250–251, no. 8 (kedara); GPT2 — sec. 4.2, no. 8. PK 2104 (vol. 3, PDF p. 231, no. 46) is
-another recension of the same pada (after P-R-Sa no. 2213): "…nāce nityānanda bhāyā। pūrava-kautuka bhuñje prema-sukha sava sahacara laiyā,"
+another recension of the same pada (after P-R-Sa no. 2213): "…nāce nityānanda bhāyā। pūraba-kautuka bhuñje prema-sukha saba sahacara laiyā,"
 after which Raya refers back to PK 2068.
-[^10-29]: "Former pastimes" are the pastimes of Vrindavana. P-R-Sa: "sabhāre" (to all) instead of "svabhāve" (by one's own nature); PK 2104
+[^10-29]: "Former pastimes" are the pastimes of Vrindavana. P-R-Sa: "sabhāre" (to all) instead of "svabhābe" (by one's own nature); PK 2104
 and GPT1 (in a note): "brother Nityananda" (bhāyā, bhāiyā).
 [^10-30]: Shyamasundara, "the dark beauty," is Krishna: the poet sees in Gaura Krishna Himself going from house to house. P-R-Sa:
 "merciful to all" (sabhāre sadaya haiyā) instead of "together with all His companions."
 [^10-31]: In the ecstasy of kirtana the devotees forget the worldly distinction of sex: each dances in the bhava that has opened
-within him. P-R-Sa: "dance" (nācata), "women" (prakṛti) instead of "young women" (yuvatī).
+within him. P-R-Sa: "dance" (nācata), "women" (prakṛti) instead of "young women" (yubatī).
 [^10-32]: "Madhava's son" is Gadadhara Pandita, the son of Madhava Mishra; Nayanananda is his nephew and disciple. MSS "ka," "kha,"
-P-R-Sa: "duḥkhita"; "gha": "jīvajana" (souls). GPT1: "duḥkhita jīvana, mādhavanandana, caraṇe śaraṇa morā."
+P-R-Sa: "duḥkhita"; "gha": "jībajana" (souls). GPT1: "duḥkhita jībana, mādhabanandana, caraṇe śaraṇa morā."
 
 ## 9. Nayanananda — "duhum̐ duhum̐ piriti ārati nāhi ṭuṭe…" (PK 2069 = BR p. 925)
 *Gaura and Gadadhara dance, drunk with each other's love: Gauranga with Gadadhara's rasa, Gadadhara with Gauranga's
@@ -6687,7 +6686,7 @@ hearing of it, the heart is captivated — what is there to reason about?[^10-38
 
 [^10-33]: Signature: "Nayanananda." PK: vol. 3, PDF p. 219 (printed p. 208), 17th pallava, no. 11 (label "॥১১॥২০৬৯॥"); raga
 pathamanjari; P-R-Sa MS nos. 2178 and 2460. BR, 12th wave (1913 ed., p. 925, "punaḥ kāmodaḥ"): Narahari Chakravarti cites the pada in
-the account of Navadvipa as testimony ("ohe śrīnivāsa kichu kahila nā haya। suradhunītīre gorā raṅge vilasaya"). GPT1 — p. 251, no. 9
+the account of Navadvipa as testimony ("ohe śrīnibāsa kichu kahila nā haya। suradhunītīre gorā raṅge bilasaya"). GPT1 — p. 251, no. 9
 (pathamanjari); GPT2 — sec. 4.2, no. 9. Majumdar counts the pada among the testimonies of the closeness of Gauranga and Gadadhara
 (catalogue: NN-029 = NN-015). In the catalogue the padas NS-005, BD-018 and BD-022 had been wrongly linked to PK 2069. PK 2356 (24th pallava, vol. 3, PDF p. 324) repeats the same pada.
 [^10-34]: MS "gha," GPT1: "the heart" (marama) instead of "supreme" (parama); BR: "paraśe parama sukha jāni kata uṭhe."
@@ -6699,7 +6698,7 @@ images of beauty and intimacy, not of worldly passion: according to Gaudiya teac
 beautiful. MS "ka": "the moon-face" (mukha-cām̐da); "gha": "karapada"; BR: "What likeness is the moon? Every day it is born and dies;
 the hands and feet — lotuses? (Lotuses) fall apart from the frost."
 [^10-37]: "The mistress of the house of prema" (premera gṛhiṇī) is Gadadhara as the manifestation of Radha. BR: "prema-saṅkīrtana-sukha."
-[^10-38]: MSS "kha," "gha," P-R-Sa: "vehāra" (the same). BR: "kahaye nayanānanda ānanda vihāra" ("…the play of bliss"). MS "ka," P-R-Sa:
+[^10-38]: MSS "kha," "gha," P-R-Sa: "behāra" (the same). BR: "kahaye nayanānanda ānanda bihāra" ("…the play of bliss"). MS "ka," P-R-Sa:
 "prema-parama-maṇi" instead of "prema-paraśa-maṇi" (9.7); BR: "uddhārilā jagajane."
 
 ## 10. Nayanananda — "kīrttana mājhe kīrttana-naṭa-rāja…" (PK 2070)
@@ -6766,14 +6765,14 @@ and the dark body has now become Gora.[^10-47]
 [^10-44]: Signature: "Nayanananda." PK: vol. 3, PDF pp. 219–220 (printed pp. 208–209), 17th pallava, no. 13 (label "॥১৩॥২০৭১॥");
 raga dhanashi; P-R-Sa MS no. 2180. GPT1 — p. 251, no. 10 (dhanashi); GPT2 — sec. 4.2, no. 10. The address "friend" (sajanī) is a
 usual opening of a pada; the speaker is not named. PK 2123 (18th pallava, vol. 3, PDF p. 238; P-R-Sa MS no. 2230) is another recension
-of the same pada: "rādhā rādhā vali ḍāke… vale muñi sabhāra ṭhākura" ("He calls, 'Radha, Radha!'… says, 'I am the Lord of all'"), closing
-"varaṇakhāni kāra bhāve gorā" ("by whose bhava has the form become golden").
+of the same pada: "rādhā rādhā bali ḍāke… bale muñi sabhāra ṭhākura" ("He calls, 'Radha, Radha!'… says, 'I am the Lord of all'"), closing
+"baraṇakhāni kāra bhābe gorā" ("by whose bhava has the form become golden").
 [^10-45]: "Hidden before" — the pastimes of Vraja, formerly beyond sight, are now revealed before the eyes in Gaura.
 [^10-46]: Tribhanga is Krishna's pose with the flute; chura is Krishna's topknot. "Mālasāṭ" is a slap of the palm on the arm or
 chest, as wrestlers do. In Krishna's mood the Lord speaks of Himself as Krishna — cf. CB Madhya 8–9 (the mahaprakasha).
 [^10-47]: The Jahnavi is the Ganga. Gaura's companions are the same as Krishna's companions in Vraja (*Gaura-ganoddesha-dipika*);
 "the dark body" is Krishna who has become golden Gaura. MSS "gha," "ca," GPT1: "the trees on the bank" (tīre taru); "ka," "ca,"
-GPT1: "in Navadvipa" (navadvīpe).
+GPT1: "in Navadvipa" (nabadvīpe).
 
 ## 12. Nayanananda — "nāce śacīra nandana dulāliyā…" (PK 2073)
 *Shachi's darling son dances — the ocean of all rasas, Gadadhara's dearest friend: a tilaka of musk, a topknot, a face
@@ -6796,11 +6795,11 @@ Nayanananda is at His lotus feet.[^10-50]
 
 [^10-48]: Signature: "Nayanananda." PK: vol. 3, PDF p. 220 (printed p. 209), 17th pallava, no. 15 (label "॥১৫॥২০৭৩॥"); raga bhatiyari;
 P-R-Sa MS no. 2182. GPT1 — p. 153, no. 125 (bhatiyari); GPT2 — sec. 3.1, no. 125. The preceding pada PK 2072 is Uddhava Dasa's
-("uddhava dāsa tāra kīṭa").
+("uddhaba dāsa tāra kīṭa").
 [^10-49]: The words about young women are the language of nagari-bhava (Gaura as the nagara, the beloved of the town's
 women); we translate faithfully to the author. Vrindavana Dasa stresses that in this incarnation the Lord never glanced at
 another man's wife; worship of Gaura in the spirit of "Gaura-nagari" is not accepted by the Gaudiya tradition (Vrindavana
-Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta). GPT1: "alakā valita vaṛa śobhā" ("…great beauty").
+Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta). GPT1: "alakā balita baṛa śobhā" ("…great beauty").
 [^10-50]: The forest garland (vanamala) and yellow garments (pitambara) are Krishna's attire. GPT1: "piṅgala" (yellowish) garments;
 "maje nayanānanda-padāmbuje" — "…Nayanananda is immersed in (His) lotus feet."
 
@@ -6827,14 +6826,14 @@ shall I see Gora beside Gadadhara again?[^10-55]
 [^10-51]: Signature: "Nayanananda." PK: vol. 3, PDF p. 231 (printed p. 220), 17th pallava, no. 44 (label "॥৪৪॥২১০২॥"); raga dhanashi;
 P-R-Sa MS no. 2211. GPT1 — p. 154, no. 126 (dhanashri); GPT2 — sec. 3.1, no. 126.
 [^10-52]: The bimba is a bright red fruit, the usual comparison for lips. The Lord's lips move — He is ceaselessly chanting the
-holy name. MSS "ka," "kha," "gha," "ca," GPT1: "vimba viṛambita adhara."
+holy name. MSS "ka," "kha," "gha," "ca," GPT1: "bimba biṛambita adhara."
 [^10-53]: The clouds of His eyes are His eyes full of tears. MS "gha": "chāna" instead of "chānda" (beauty, shape), "haiyā" instead of
 "heriyā."
-[^10-54]: "navāñcala" is unclear; GPT1: "Gora of new rasa" (nava rasera gorā). MSS "ka," "kha," "ca," GPT1: "of touch" (paraśera) instead of "of
+[^10-54]: "nabāñcala" is unclear; GPT1: "Gora of new rasa" (naba rasera gorā). MSS "ka," "kha," "ca," GPT1: "of touch" (paraśera) instead of "of
 rasa" (rasera); "gha": "rasera."
 [^10-55]: The poet's question betrays longing: it seems he can no longer see Gaura beside Gadadhara in Navadvipa.
 
-## 14. Nayanananda — "kinā se sukhera sarovare…" (PK 2103)
+## 14. Nayanananda — "kinā se sukhera sarobare…" (PK 2103)
 *Vishvambhara's dance is a lake of joy from which the waves of prema splash over the brim: the earth cannot hold His
 feet, His face is a golden moon pouring nectar; His companions are royal swans, bees and chakoras; the treasure of
 bhakti has come without effort to all the poor and wretched — Vrindavana has become the town of Nadia. The raga is not
@@ -6894,12 +6893,12 @@ May this abide in Nayanananda's heart![^10-63]
 
 [^10-60]: Signature: "Nayanananda." PK: vol. 3, PDF p. 232 (printed p. 221), 17th pallava, no. 48 (label "॥৪৮॥২১০৬॥"); raga mangala;
 P-R-Sa MS no. 2215. GPT1 — p. 258, no. 33 (mangala); GPT2 — sec. 4.2, no. 33. The preceding pada PK 2105
-("gorā nāce nava nava raṅgiyā") is unsigned in PK, and in MS P-R it has additional stanzas with Lochana's signature; it does not belong
+("gorā nāce naba naba raṅgiyā") is unsigned in PK, and in MS P-R it has additional stanzas with Lochana's signature; it does not belong
 to Nayanananda. The linking of pada NS-016 ("jhulata rasamaya gaurakiśora") to PK 2106 is mistaken.
 [^10-61]: The maha-rasa is Krishna's circle dance with the gopis; Gaura's kirtana is like it. "The former days" are the pastimes of
 Vrindavana.
 [^10-62]: Who is called "Thakura Pandita" is unclear (perhaps Srivasa Pandita). Govinda is probably Govinda Ghosha or a
-mridanga player among the companions. MS "gha": "vājāyata" (plays). The syllables imitate the mridanga.
+mridanga player among the companions. MS "gha": "bājāyata" (plays). The syllables imitate the mridanga.
 [^10-63]: Gaura is the source of all incarnations (cf. CC Adi 2: Krishna is the avatari, the source of the avatars): each devotee sees
 in Him the One he worships. GPT1: "…nayanānandera rahu cite."
 
@@ -6940,7 +6939,7 @@ and grasp the secret of the love of Gaura and Gadadhara. The words about young w
 (Gaura as the nagara, the beloved of the town's women); we translate faithfully to the author. Vrindavana Dasa stresses that
 in this incarnation the Lord never glanced at another man's wife; worship of Gaura in the spirit of "Gaura-nagari" is not
 accepted by the Gaudiya tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta). MSS "ka," "kha," P-R-Sa: without
-"all" (sava).
+"all" (saba).
 
 ## 17. Nayanananda — "o rūpa sundara gaura kiśora…" (PK 2115)
 *The beauty of youthful Gaura, at which one cannot gaze enough: He is prema itself made visible, a golden mountain strewn
@@ -6972,14 +6971,14 @@ so says Nayanananda — in them is his heart's delight.[^10-72]
 (Gauranga's form, etc.), no. 7 (label "॥৭॥২১১৫॥"); raga suhai; P-R-Sa MS no. 2223. GPT1 — twice: p. 136, no. 74 and p. 278, no. 2
 (suhai); GPT2 — sec. 3.1, no. 74 and sec. 4.3, no. 2. In GPT1 (p. 136) it is preceded (no. 73) by a pada signed by Narahari, "suradhunītīre gaura
 naṭanāgara" (wrongly ascribed to Nayanananda in the catalogue — NN-006).
-[^10-69]: "The new girl in love" (nava-anurāgiṇī), "her who is full of rasa" (rasavatī), "her who is full of prema" (premavatī) are
+[^10-69]: "The new girl in love" (naba-anurāgiṇī), "her who is full of rasa" (rasabatī), "her who is full of prema" (premabatī) are
 Radha; behind this in the pada stands also Gadadhara, Her manifestation. Gaura is Krishna who longs to taste Radha's prema
 and has accepted Her bhava (CC Adi 1.6; Adi 4); this is spiritual prema, not worldly passion.
 [^10-70]: Manmatha (Kamadeva) is the god of love; the Lord is the transcendental Madana who surpasses him (CC Madhya 8).
 [^10-71]: "Thirsting" (lampaṭa) — of the Lord thirsting for the prema of His devotee. MS P-R-Sa: "achu," "Ananta and others" (anantādi),
 "nā" instead of "nāhi."
-[^10-72]: Sahakara is the flowering mango tree, beloved of bees. MS P-R-Sa: "valaithe"; "kha," "ca," P-R-Sa: "lahali" (17.6); "ka": "kahala,"
-"gha": "kahaye." GPT1: "…kayala nayanānanda citavihāra" — "Nayanananda has made (them) the pleasure-ground of his heart."
+[^10-72]: Sahakara is the flowering mango tree, beloved of bees. MS P-R-Sa: "balaithe"; "kha," "ca," P-R-Sa: "lahali" (17.6); "ka": "kahala,"
+"gha": "kahaye." GPT1: "…kayala nayanānanda citabihāra" — "Nayanananda has made (them) the pleasure-ground of his heart."
 
 ## 18. Nayanananda — "āota piriti muratimaya sāgara…" (PK 2116)
 *The pastimes in Nadia: the Lord is an ocean of love in person; in Him is all the wealth of Vaikuntha and Vrindavana;
@@ -7007,14 +7006,14 @@ has fulfilled the hopes of all.
 
 [^10-73]: Signature: "Nayanananda." PK: vol. 3, PDF p. 236 (printed p. 225), 18th pallava, no. 8 (label "॥৮॥২১১৬॥"); raga
 bala-dhanashi; P-R-Sa MS no. 2224. GPT1 — p. 32, no. 17 (bala-dhanashi); GPT2 — sec. 1.3, no. 17.
-[^10-74]: "The king of the twice-born" is both the moon and the best of brahmanas. The end of the stanza is unclear ("su- / vācata");
-GPT1: "nava nava bhakata, nava rasa yāvata, nava tanu ratana samāja" — "ever new devotees, all new rasa, a gathering of new
+[^10-74]: "The king of the twice-born" is both the moon and the best of brahmanas. The end of the stanza is unclear ("su- / bācata");
+GPT1: "naba naba bhakata, naba rasa yābata, naba tanu ratana samāja" — "ever new devotees, all new rasa, a gathering of new
 precious bodies."
 [^10-75]: The Suradhuni is the Ganga. The river is blessed because the Lord bathes in her, drinks her water and immerses Himself
 in her: her "embrace" and "meeting" with Him are an image of the Ganga's happiness at touching the Lord. GPT1: "…āliṅgana saṅgama,
-kata kata vāra."
+kata kata bāra."
 
-## 19. Nayanananda — "gadādhara-mukha heri kivā uṭhe mane…" (PK 2114)
+## 19. Nayanananda — "gadādhara-mukha heri kibā uṭhe mane…" (PK 2114)
 *The Lord's bhava: gazing at Gadadhara's face, He remembers the joys of the groves of Vrindavana, pines like a poor man
 who has lost a touchstone, weeps, "Hari, Hari!", sways and falls to the ground. The poet asks: from whose love comes such
 turmoil? Raga pathamanjari.*[^10-76]
@@ -7112,7 +7111,7 @@ sec. 4.3, no. 17.
 [^10-86]: Tulasi and durva grass are articles of worship: Gaura and Gadadhara greet each other like worshippers. MS "ka": "duhum̐"
 instead of "dohām̐"; "kha," "gha" lack the word.
 [^10-87]: The embrace is an expression of the prema of Radha and Krishna revealed in Gaura and Gadadhara (cf. no. 16), not of a
-worldly feeling. MS "ka": "vujhinu," "ca," GPT1: "vujhilum̐" ("…I did not grasp the limit").
+worldly feeling. MS "ka": "bujhinu," "ca," GPT1: "bujhilum̐" ("…I did not grasp the limit").
 [^10-88]: The couplet repeats the close of PK 2070 (no. 10.7).
 
 ## 22. Nayanananda — "madhu-ṛtu-yāmini suradhuni-tīra…" (PK 1495)
@@ -7136,9 +7135,9 @@ they dance and sing, bending in every way.
 Nayanananda's Lord is at play.[^10-91]
 
 [^10-89]: Signature: "Nayanananda" ("nayanānanda-pahu," "Nayanananda's Lord"). PK: vol. 2, PDF p. 432 (printed p. 419), 3rd shakha, 27th pallava,
-section "atha vāsantī rāsalīlā । taducita-śrīgauracandra" (gaura-chandrika to the spring rasa), no. 71 (label "॥৭১॥১৪৯৫॥"), right after Vasu
+section "atha bāsantī rāsalīlā । taducita-śrīgauracandra" (gaura-chandrika to the spring rasa), no. 71 (label "॥৭১॥১৪৯৫॥"), right after Vasu
 Ghosha's PK 1494 (chapter 9, no. 1); raga suhai; P-R-Sa MS no. 2045. Not found by OCR in GPT1; GPT (GPT1 p. 336, no. 48) has a
-different pada of Raya Shekhara with the same lines "sahacara saṅge gaura naṭarāja। viharaye nirupama kīrtana mājha" (in the catalogue NS-018,
+different pada of Raya Shekhara with the same lines "sahacara saṅge gaura naṭarāja। biharaye nirupama kīrtana mājha" (in the catalogue NS-018,
 wrongly linked there to PK 1495). The pada was not in the catalogue (new row NN-030).
 [^10-90]: The Suradhuni is the Ganga. The Malaya breeze is the warm southern wind of spring, said by poets to blow from the Malaya
 hills.
@@ -7161,13 +7160,13 @@ hearing of it, all the people of Nadia come running.[^10-94]
 **23.4.** The sounds of khol and karatalas, "Hari, Hari!" —
 Nayanananda is lost in bliss.
 
-[^10-92]: Signature: "Nayanananda." PK: vol. 2, PDF pp. 406–407 (printed pp. 393–394), 3rd shakha, section "atha vāsantī dolā hori-vilāsa ।
+[^10-92]: Signature: "Nayanananda." PK: vol. 2, PDF pp. 406–407 (printed pp. 393–394), 3rd shakha, section "atha bāsantī dolā hori-bilāsa ।
 tatra śrīgauracandra" (the spring swing and holi; gaura-chandrika), no. 25 (label "॥২৫॥১৪৪৯॥"); raga vasanta; P-R-Sa MS no. 2002.
-GPT1 — p. 343, no. 70 (vasanta); GPT2 — sec. 5.1, no. 70. The Dola-yatra is the spring swing festival on the full moon of Phalguna
+GPT1 — p. 343, no. 70 (basanta); GPT2 — sec. 5.1, no. 70. The Dola-yatra is the spring swing festival on the full moon of Phalguna
 (the day of the Lord's appearance).
 [^10-93]: The Lord of Shantipura is Advaita Acharya. P-R-Sa: "Gadadhara and others" (gadādhara ādi).
 [^10-94]: Phagu (phag) is the red powder people throw at each other at the spring festivals. MS "ka": "smear" (lepai), P-R-Sa: "phelaye";
-GPT1: "phāgu lepata." GPT1 in 23.4: "nayanānanda dīna ānande vibhola" ("poor Nayanananda…").
+GPT1: "phāgu lepata." GPT1 in 23.4: "nayanānanda dīna ānande bibhola" ("poor Nayanananda…").
 
 ## 24. Nayanananda — "ācāryya-mandire bhikṣā kariyā caitanya…" (PK 2234)
 *Shantipura after the sannyasa: Chaitanya takes His meal in Advaita's house and dances in the sankirtana in the
@@ -7199,7 +7198,7 @@ second line). PK 2235 ("dhara dhara dhara dhara re nitāi") is a pada signed "Mu
 [^10-99]: "Behind Gadadhara" — as his companion and disciple: the poet places himself among the witnesses. The sigh is for Nimai's
 former life in Navadvipa, for the sannyasa and for the coming separation.
 
-## 25. Nayanananda — "sakala bhakata ṭhāñi haiyā vidāya…" (PK 2236)
+## 25. Nayanananda — "sakala bhakata ṭhāñi haiyā bidāya…" (PK 2236)
 *The farewell in Shantipura: Gaura Raya takes leave of all the devotees, bows to His mother, receives her permission,
 takes leave of Advaita and with "Haribol!" sets out for Nilachala; in the Acharya's house weeping arises. Raga suhai.*[^10-100]
 
@@ -7265,9 +7264,9 @@ cruel is his heart, and hard.
 3738–3744; 2006 ed., vv. 3738–3744. In Narahari Chakravarti the pada is sung in the account of Saptagrama: Nityananda comes to
 Uddharana Datta's house and "is ever immersed in dance and kirtana." By OCR it is not found in GPT1 (on PK see below); GPT2 — sec. 6.1, no. 15
 (in the catalogue BD-028, "GPT only"). Majumdar does not discuss the pada. Cf. CB Antya 5 (Nityananda in Gauda, Saptagrama).
-Full PK check (chapter 16): the pada is also in PK — **PK 2301** (vol. 3, 22nd pallava, PDF pp. 303–304, label "॥৮॥২৩০১॥", MS P-R-Sa no. 2405; signature "valarāma dāsa kāhe bhela vañcita dāruṇa hṛdaya-kaṭhina").
-[^10-104]: 1913 ed.: "padatala tāla-valita maṇi mañjarī"; 1960 ed.: "padatalatale valita muṇimañjarī" (OCR). Meru is the golden mountain.
-[^10-105]: 1913 ed.: "avalāu unamata bhela" — "even the women (avalā) became maddened."
+Full PK check (chapter 16): the pada is also in PK — **PK 2301** (vol. 3, 22nd pallava, PDF pp. 303–304, label "॥৮॥২৩০১॥", MS P-R-Sa no. 2405; signature "balarāma dāsa kāhe bhela bañcita dāruṇa hṛdaya-kaṭhina").
+[^10-104]: 1913 ed.: "padatala tāla-balita maṇi mañjarī"; 1960 ed.: "padatalatale balita muṇimañjarī" (OCR). Meru is the golden mountain.
+[^10-105]: 1913 ed.: "abalāu unamata bhela" — "even the women (abalā) became maddened."
 
 ---
 
@@ -7286,7 +7285,7 @@ rest is doubtful. The text follows PK, checked against the scans, with the manus
 the *Gaura-pada-tarangini* (GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934) and KGC; the Bengali original, variants and
 word-for-word translation are in the full version of the book.*
 
-## 1. Balarama Dasa — "varaṇa-āśrama kiñcana akiñcana…" (PK 2212)
+## 1. Balarama Dasa — "baraṇa-āśrama kiñcana akiñcana…" (PK 2212)
 *Praise of the Gaura-avatara: making no distinction of varnas and ashramas, of rich and destitute, Gaura gives away the
 prema inaccessible to Shiva and Brahma; sinners, beasts and birds weep; kings, yogis and jnanis abandon their own — only
 the poet's heart seems made of stone. Raga suhai.*[^11-1]
@@ -7311,10 +7310,10 @@ the jnani weeps, abandoning the taste of knowledge.
 Who, then, fashioned Balarama's heart out of stone,
 that this rasa has not touched it?
 
-[^11-1]: Signature: "Balarama" ("kevā valarāma-hiyā…"). PK: vol. 3, PDF pp. 272–273 (printed pp. 261–262), 20th pallava, no. 29
+[^11-1]: Signature: "Balarama" ("kebā balarāma-hiyā…"). PK: vol. 3, PDF pp. 272–273 (printed pp. 261–262), 20th pallava, no. 29
 (label "॥২৯॥২২১২॥"); raga suhai; P-R-Sa MS no. 2320. GPT1 — p. 38, no. 38; GPT2 — sec. 1.3, no. 38. The catalogue (BD-010)
-assigns the pada to PK 2214 — a mistake: PK 2214 is a pada of Govinda Dasa, "kundana-kanaya-kalevara-kāti", and PK 2213, which
-follows ours (Govinda Dasa, "patita heri kānde…"), repeats its line "varaṇa-āśrama kiñcana akiñcana". Which of the Balarama
+assigns the pada to PK 2214 — a mistake: PK 2214 is a pada of Govinda Dasa, "kundana-kanaya-kalebara-kāti", and PK 2213, which
+follows ours (Govinda Dasa, "patita heri kānde…"), repeats its line "baraṇa-āśrama kiñcana akiñcana". Which of the Balarama
 Dasas wrote the pada has not been established.
 [^11-2]: "Those who have and those who have not" — kiñcana akiñcana. On the prema which the Lord gives away without
 distinguishing the worthy and the unworthy, cf. CC Adi 7.
@@ -7348,23 +7347,23 @@ revel in the bliss of prema;
 the low and the fallen attained the supreme abode —
 only worthless Balarama is left out.[^11-9]
 
-[^11-5]: Signature: "Balarama" ("vañcita valarāma manda"). PK: vol. 3, PDF p. 298 (printed p. 287), 21st pallava "The sannyasa of
+[^11-5]: Signature: "Balarama" ("bañcita balarāma manda"). PK: vol. 3, PDF p. 298 (printed p. 287), 21st pallava "The sannyasa of
 Sri Gauranga and so on", no. 69 (label "॥৬৯॥২২৮৬॥"); raga kamoda; P-R-Sa MS no. 2390. GPT1 — p. 46, no. 66; GPT2 — sec.
 1.3, no. 66. The catalogue (BD-013) assigns the pada to PK 1245 — wrongly: PK 1245 is Krishna-lila (Govardhana, signed
 "Chaitanyadasa"). The pada follows Ananta Acharya's PK 2285 (chapter 3, no. 9).
 [^11-6]: Vamana is the Lord's incarnation as a dwarf brahmana who begged three steps of land from Bali, king of the asuras,
 and covered the universe with them (Bhag. 8.18–21). The comparison: Gaura, like Vamana, "begs" — and receives everything.
 [^11-7]: Prataparudra is the king of Orissa (CC Madhya 11–14); Bali gave himself to Vamana. Jagai and Madhai are the wicked
-brothers of Navadvipa delivered by the Lord (CB Madhya 13). "Brought to bow at His feet" — caraṇa pravaṇa nija kela; MS "ka":
-prabale, "kha", "gha", "cha": pravaṇe.
+brothers of Navadvipa delivered by the Lord (CB Madhya 13). "Brought to bow at His feet" — caraṇa prabaṇa nija kela; MS "ka":
+prabale, "kha", "gha", "cha": prabaṇe.
 [^11-8]: The Ganga flowed from Vamana's foot, Bhagiratha brought it down to earth, and Shiva (Girisha, "lord of the
 mountains") received it on his head (Bhag. 9.9). So too Advaita called the Lord down, and Nityananda received and spread
-the stream of bhakti. The end of the line is unclear: PK reads "vāma-himācala māha", MSS "cha", P-R-Sa "rāma-himācala"; P-R-Sa
+the stream of bhakti. The end of the line is unclear: PK reads "bāma-himācala māha", MSS "cha", P-R-Sa "rāma-himācala"; P-R-Sa
 reads "nityānanda gīma" instead of "nityānanda giriśa, dei". MSS "ka", "kha": "path" (patha) instead of "feet" (pada); "kha",
 P-R-Sa: "devotee" (bhakata) instead of "bhakti".
 [^11-9]: "The supreme abode" — parama pada; MSS "ka", "kha" and GPT1: "the supreme mercy" (parama dayā).
 
-## 3. Raya Ananta — "nitāi caitanya duṭī bhāi dayāra avadhi…" (KGC 28.2)
+## 3. Raya Ananta — "nitāi caitanya duṭī bhāi dayāra abadhi…" (KGC 28.2)
 *Nitai and Chaitanya, two brothers, are the limit of mercy: the prema inaccessible to Shiva and Brahma and sought in vain
 by the four Vedas They give away unceasingly; the fallen of the age of Kali, crying "Nitai-Chaitanya", dance and sing.
 Raga shri.*[^11-10]
@@ -7390,7 +7389,7 @@ Full PK check (chapter 16): the pada is also in PK — **PK 2337** (vol. 3, 23rd
 [^11-12]: "Not a drop of it has come to him" follows GPT1 (nā pāiyā leśe, "not obtaining a particle"); KGC reads śeṣe ("at
 the end": "weeps, not obtaining [it] at the last").
 
-## 4. Krishnadasa — "soṅaro nava gauracanda…" (PK 1085)
+## 4. Krishnadasa — "soṅaro naba gauracanda…" (PK 1085)
 *Remembering the youthful Gaurachandra — the moon of Navadvipa, Krishna Himself: the moon-face, eyes full of prema, locks
 dressed with flowers, earrings, the Kaustubha, red garments, sandal; the king of serpents holds an umbrella over Him,
 Lakshmi serves His feet, the devotees sing His glory; at the end the poet places his hope in Nitai too, the giver of
@@ -7433,7 +7432,7 @@ PK: vol. 2, PDF pp. 251–252 (printed pp. 238–239), 15th pallava, section "ra
 languor after the rasa), "śrīgauracandraḥ" — a gaura-chandrika to Radha-Krishna lila, no. 23 (label "॥২৩॥১০৮৫॥"); raga
 bhairavi; P-R-Sa MS no. 1494. GPT1 — p. 136, no. 75 (bhairava, ektala). In the catalogue (KR-006) the pada stood without a
 first line, marked as probably Krishna-lila: it is a gaura-pada. Which Krishnadasa wrote it has not been established (C).
-[^11-14]: "The graceful Vanamali" — nāgara vanayāri: nagara is a graceful youth skilled in love; Banvari (Vanamali, "wearing the
+[^11-14]: "The graceful Vanamali" — nāgara banayāri: nagara is a graceful youth skilled in love; Banvari (Vanamali, "wearing the
 forest garland") is a name of Krishna. Gaura is Krishna Himself (CC Adi 1–4). MSS "ka", "kha", "gha", "cha":
 "Gaurasundara" instead of "Gaurachandra"; GPT1: "Remember the youthful Gaurasundara…" (soṅara).
 [^11-15]: "I offer to Him as a gift to ward off harm" — nichayāri (from nichhani: everything beautiful is offered up to turn
@@ -7442,8 +7441,8 @@ dāmini ghanayāri; the sense of the second word is not wholly clear.
 [^11-16]: The Kaustubha is the gem on the breast of Vishnu-Krishna. MSS "ka", "kha", "gha", "cha" and GPT1: "sandal" (candana)
 instead of "armlets" (aṅgada); MS "kha": tarala instead of ratana.
 [^11-17]: "The king of the bearers of the earth" is Ananta-Shesha, the serpent who bears the universes; he serves the Lord as
-His umbrella. Kamala is Lakshmi. Instead of the first line GPT1 reads "the devotees run and sing…" (dhārata gāota bhakatavṛnda)
-and adds: "majestically He walks, slowly, slowly". MSS "ka", "kha", "gha", "cha": valiyā instead of baliye.
+His umbrella. Kamala is Lakshmi. Instead of the first line GPT1 reads "the devotees run and sing…" (dhārata gāota bhakatabṛnda)
+and adds: "majestically He walks, slowly, slowly". MSS "ka", "kha", "gha", "cha": baliyā instead of baliye.
 
 ## 5. Balarama Dasa — "kothāya āchila gorā emana sundara…" (PK 2110)
 *Gaura's form: where was such a beauty until now? He has charmed the whole town of Nadia: His hair dressed with flowers,
@@ -7472,12 +7471,12 @@ as if nectar welled up when His neck sways.
 Balarama Dasa says: I give myself for Him.[^11-20]
 
 [^11-18]: Signature: "Balarama Dasa." PK: vol. 3, PDF pp. 233–234 (printed pp. 222–223), 18th pallava, section "atha
-śrīgauracandrasya rūpādivarṇanaṃ" (description of Sri Gaurachandra's form), no. 2 (label "॥২॥২১১০॥"); raga shri; P-R-Sa MS no.
+śrīgauracandrasya rūpādibarṇanaṃ" (description of Sri Gaurachandra's form), no. 2 (label "॥২॥২১১০॥"); raga shri; P-R-Sa MS no.
 2218. GPT1 — p. 110, no. 2; GPT2 — sec. 3.1, no. 2. The catalogue (BD-014) listed it as "GPT only": the PK number was found
-on the scan. The preceding PK 2109 ("gaura-varaṇa maṇi-ābharaṇa nāṭuyā-mohana veśa", with the same signature; BD-017) is in
+on the scan. The preceding PK 2109 ("gaura-baraṇa maṇi-ābharaṇa nāṭuyā-mohana beśa", with the same signature; BD-017) is in
 nagari-bhava (deferred).
 [^11-19]: Rangana (ixora), malati and yuthi (kinds of jasmine), bandhuli (pentapetes, a red flower), bakula (mimusops). GPT1:
-pārulī (the patali flower) instead of vāndhulī.
+pārulī (the patali flower) instead of bāndhulī.
 [^11-20]: "I give myself for Him" — nichani yāṅa tāya (see note 3).
 
 ## 6. Balarama Dasa — "kusume khacita ratane racita…" (PK 2164)
@@ -7530,10 +7529,10 @@ softly His anklets ring;
 His nails outshine the moon —
 so Balarama Dasa describes Him.[^11-23]
 
-[^11-21]: Signature: "Balarama Dasa" ("vani valarāma dāsa"). PK: vol. 3, PDF pp. 254–255 (printed pp. 243–244), 18th pallava, no. 56
+[^11-21]: Signature: "Balarama Dasa" ("bani balarāma dāsa"). PK: vol. 3, PDF pp. 254–255 (printed pp. 243–244), 18th pallava, no. 56
 (label "॥৫৬॥২১৬৪॥"; the preceding pada of Ramananda, PK 2163, is by a misprint also labelled "২১৬৪"); raga tori; P-R-Sa MS no.
 2271. GPT1 — p. 125, no. 42, and p. 140, no. 86 (the same pada twice); GPT2 — sec. 3.1, nos. 42 and 86. The catalogue (BD-016)
-gives PK 2165 (a mistake: PK 2165 is Narottama Dasa, "kāñcana darapaṇa varaṇa sugorā re").
+gives PK 2165 (a mistake: PK 2165 is Narottama Dasa, "kāñcana darapaṇa baraṇa sugorā re").
 [^11-22]: The words about the women of Nadia who, seeing Gaura, lose their shame and peace are an image of the poetics of
 describing beauty and the language of nagari-bhava (Gaura as the nagara, the beloved of the town's women); we translate
 faithfully to the author. Vrindavana Dasa stresses that in this incarnation the Lord never glanced at another man's wife;
@@ -7541,11 +7540,11 @@ worship of Gaura in the spirit of "Gaura-nagari" is not accepted by the Gaudiya 
 Kaviraja, Bhaktisiddhanta). MSS "ka", "kha": "with thrills" (pulake) instead of "with earrings" (kuṇḍale); "gha", "cha",
 P-R-Sa: bhaṅgita instead of bhaṅgite. The last word of 6.4 is unclear on the scan (sardana?); we read it with GPT1 as sadana
 ("abode"); MS "gha": sohana instead of hoyala.
-[^11-23]: The wagtail (khañjana) is an image of nimble, graceful feet. "Describes" — bani (from varṇana?); MSS "ka", P-R-Sa: bali
+[^11-23]: The wagtail (khañjana) is an image of nimble, graceful feet. "Describes" — bani (from barṇana?); MSS "ka", P-R-Sa: bali
 ("says"). MSS "gha", "cha": lulupa instead of lolupa (6.6); P-R-Sa: kundala instead of kundana (6.8). GPT1 (6.1): kṣubdha
 ("agitated") instead of khubadha.
 
-## 7. Balarama Dasa — "sahajai kāñcana-kānti kalevara…" (PK 2145)
+## 7. Balarama Dasa — "sahajai kāñcana-kānti kalebara…" (PK 2145)
 *Gaura dancing, overwhelmed by Radha's prema: a body the colour of gold, before which millions of Madanas swoon; He
 lingers, falls to the ground, trembles, roars, sheds tears and, embracing the fallen, bathes them in His tears. Raga
 beloar.*[^11-24]
@@ -7568,16 +7567,16 @@ clasping the fallen to His breast, He bathes them in tears.
 **7.4.** Crying "Hari, Hari," how much He weeps and laments! —
 only Balarama is left out, day and night.[^11-26]
 
-[^11-24]: Signature: "Balarama" ("vañcita valarāma"). PK: vol. 3, PDF p. 247 (printed p. 236), 18th pallava, no. 37 (label
+[^11-24]: Signature: "Balarama" ("bañcita balarāma"). PK: vol. 3, PDF p. 247 (printed p. 236), 18th pallava, no. 37 (label
 "॥৩৭॥২১৪৫॥"); raga beloar; P-R-Sa MS no. 2252. The pada follows Vasu Ghosha's PK 2143 and 2144 (chapter 8). GPT1 — p. 116,
 no. 16 (beloar); GPT2 — sec. 3.1, no. 16. The catalogue (BD-015) gives PK 788: a mistake (PK 788 is a pada of Govinda Dasa,
-"tapata-kāñcana-kānti kalevara").
+"tapata-kāñcana-kānti kalebara").
 [^11-25]: "Rai's prema" — rāi-prema: the Lord appeared in Radha's bhava and complexion to taste Her love for Krishna (CC Adi
 4). MSS "kha", "gha": "immersed" (magana) instead of "walks" (gamana); "ka", "kha": kara instead of karata.
 [^11-26]: Instead of the last couplet GPT1 reads: "Crying 'Hari, Hari,' He weeps and laments, mad with bliss day and night;
 hearing the sound 'Hari, Hari,' the world was saved — only lowly Balarama Dasa is left out."
 
-## 8. Balarama Dasa — "vihare āju rasika-rāja…" (PK 2111)
+## 8. Balarama Dasa — "bihare āju rasika-rāja…" (PK 2111)
 *Gaurachandra, the king of rasikas, sports in Nadia: beauty outshining millions of Kamadevas, a moon-face, smile and speech
 of nectar; remembering the groves of Vraja He loses Himself, stumbles, falls into the arms of the fallen, repeats "Rai,
 Rai!" — all drink the nectar of prema except the poet. Raga turi.*[^11-27]
@@ -7618,7 +7617,7 @@ all drink the nectar of prema;
 Balarama alone is left out,
 having offended the sadhus.[^11-31]
 
-[^11-27]: Signature: "Balarama" ("tahim̐ valarāma vañcita ekale"). PK: vol. 3, PDF p. 234 (printed p. 223), 18th pallava, no. 3 (label
+[^11-27]: Signature: "Balarama" ("tahim̐ balarāma bañcita ekale"). PK: vol. 3, PDF p. 234 (printed p. 223), 18th pallava, no. 3 (label
 "॥৩॥২১১১॥"); raga turi (todi); P-R-Sa MS nos. 1430 and 2219. GPT1 — p. 110, no. 3 (turi). The pada is not in the catalogue
 (in chapter 10 it was noted from Ray's footnote to PK 2066 as "outside the catalogue"); new row BD-043.
 [^11-28]: Nagakeshara (keśara) is a flower with golden stamens; "cluster" — puñja (the word kuñja at the start of the line is
@@ -7627,13 +7626,13 @@ unclear). The words about young women are the language of nagari-bhava; we trans
 [^11-29]: Bimba is a red fruit; kunda is white jasmine. MS "ka": "a face outshining Madana" (madana badana); P-R-Sa: "badana madana";
 instead of chanda ("charm") MS "ka": basana, "kha": sadana, "gha", P-R-Sa: badana. MS "ka": nikare; P-R-Sa: racana (instead of bacana?).
 [^11-30]: The idea: Gaura in Krishna's bhava remembers the pastimes in Vraja (cf. CC Madhya 2). P-R-Sa: "the love of the young
-(gopis)" (yubati piriti) instead of "love and longing" (piriti-ārati). MSS "ka", "kha", "cha", P-R-Sa: "in ecstasy" (āveśe)
+(gopis)" (yubati piriti) instead of "love and longing" (piriti-ārati). MSS "ka", "kha", "cha", P-R-Sa: "in ecstasy" (ābeśe)
 instead of "by bhava"; P-R-Sa: "dances" (naṭata) instead of the second "walks".
 [^11-31]: "Rai" is Radha. Cf. chapter 10, no. 20 (PK 2113: "Rai, Rai!" at the sight of Gadadhara). "Having offended the sadhus"
 — sādhu ṭhāme aparādhiyā: the poet sees the cause of his being left out in an offence against the devotees. P-R-Sa: "red"
 (aruṇa) instead of "full of compassion" (karuṇa).
 
-## 9. Balarama Dasa — "āveśe avaśa aṅga dhīre dhīre cale…" (PK 2081)
+## 9. Balarama Dasa — "ābeśe abaśa aṅga dhīre dhīre cale…" (PK 2081)
 *The Lord dances in kirtana: hearing the story of His former pastimes of love, He falls senseless, weeps at the sight of
 the fallen, rolls on the ground crying "Hari!"; because of His bhava householders abandon the happiness of home — only the
 poet remains indifferent to this rasa. Raga shri.*[^11-32]
@@ -7664,14 +7663,14 @@ shri; P-R-Sa MS no. 1181 (?) and 2190, P-R 4.1. KGC — 3rd kshanada, no. 1 (p. 
 p. 289, no. 41; GPT2 — sec. 4.2, no. 16, and 4.3, no. 41. According to B. B. Majumdar, signatures of this type ("everyone —
 but I am indifferent") belong to the later Balarama Dasa; attribution C.
 [^11-33]: "Former deeds" — puruba-carita: Krishna's pastimes in Vraja sung by the devotees; hearing them, the Lord is plunged into
-bhava (cf. CB Madhya 8). MS P-R: "attentive" (avahita) instead of "senseless". In KGC the refrain stands after 9.4.
+bhava (cf. CB Madhya 8). MS P-R: "attentive" (abahita) instead of "senseless". In KGC the refrain stands after 9.4.
 [^11-34]: The words about "chaste wives" are an image of how every living being pines for Gaura (see note 22). MS P-R: "young
-wives" (kulavadhū), "in the heart" (mane); MS "gha": "understanding, understanding, they weep in their hearts" (vujhiyā vujhiyā
+wives" (kulabadhū), "in the heart" (mane); MS "gha": "understanding, understanding, they weep in their hearts" (bujhiyā bujhiyā
 mane kānde) instead of "pining, they weep".
-[^11-35]: MSS P-R-Sa, P-R: "Balarama Dasa is indifferent to such rasa" (hena rase valarāma dāsa vimukha); KGC: "Balarama Dasa alone among
-all is indifferent to this rasa" (valarāma dāsa save e rase vimukha).
+[^11-35]: MSS P-R-Sa, P-R: "Balarama Dasa is indifferent to such rasa" (hena rase balarāma dāsa bimukha); KGC: "Balarama Dasa alone among
+all is indifferent to this rasa" (balarāma dāsa sabe e rase bimukha).
 
-## 10. Balarama Dasa — "bhāvabhare gara gara cita…" (BR pp. 921–922)
+## 10. Balarama Dasa — "bhābabhare gara gara cita…" (BR pp. 921–922)
 *The Lord in the kirtana of Navadvipa: brimming with bhava, He now rises, now sits, weeps over His former love — why is
 the Lord of Goloka in the midst of sankirtana? — makes no distinction of His own and others, holding Gadadhara's hand
 cries out what is in His heart, and falls into the arms of the devotees. Raga suhai.*[^11-36]
@@ -7697,20 +7696,20 @@ He sinks, reeling, into the arms of the devotees.[^11-40]
 **10.7.** Through Gora's rasa everything is full of rasa —
 only Balarama's stony heart does not melt.[^11-41]
 
-[^11-36]: Signature: "Bala(rama)" ("nā darave vala-pāṣāṇa hṛdaya"). BR, 12th wave: 1913 ed., pp. 921–922 ("punaḥ suhai"), 1960 ed., vv.
+[^11-36]: Signature: "Bala(rama)" ("nā darabe bala-pāṣāṇa hṛdaya"). BR, 12th wave: 1913 ed., pp. 921–922 ("punaḥ suhai"), 1960 ed., vv.
 3022–3028 — in Narahari Chakravarti's account to Srinivasa of the places of Navadvipa ("here Gaurachandra danced in
 sankirtana"); in BR the pada stands before padas of Balarama (PK 2067; chapter 10, no. 7) and Murari (PK 2121; chapter 1, no. 6).
 KGC — 17th kshanada, no. 1 (p. 125; raga deshaga), a gaura-chandrika. GPT1 — p. 271, no. 77 (dhanashi). Not previously found in PK (see below). In the
 catalogue — BD-041.
-Full PK check (chapter 16): the pada is also in PK — **PK 635** (vol. 2, 3rd shakha, gaura-chandrika to "svayaṃ dautya," PDF p. 30, label "॥১॥৬৩৫॥", raga dhanashi, MS P-R-Sa no. 1112; repeated as PK 909); signature "nā darave valarāma pāṣāṇa-hṛdaya."
+Full PK check (chapter 16): the pada is also in PK — **PK 635** (vol. 2, 3rd shakha, gaura-chandrika to "svayaṃ dautya," PDF p. 30, label "॥১॥৬৩৫॥", raga dhanashi, MS P-R-Sa no. 1112; repeated as PK 909); signature "nā darabe balarāma pāṣāṇa-hṛdaya."
 [^11-37]: "Former love" — the love of Krishna and Radha in Vraja: the Lord in His bhava remembers it.
 [^11-38]: Goloka is Krishna's supreme abode. The footnote in BR, and KGC: "the Lord of Gokula" (gokula-pati).
 [^11-39]: The couplet is only in BR (KGC and GPT1 lack it). In the 1913 ed. the middle of the line is effaced on the scan; we
 read it from the 1960 ed.: "dīnahīna adhama uttama nāhi māne".
 [^11-40]: KGC: "into the arms of the Pandita" (paṇḍitera kole), i.e. of Gadadhara Pandita; GPT1: "into the arms of the fallen"
 (patitera kola).
-[^11-41]: "Balarama" — BR: "Vala-" (vala-pāṣāṇa hṛdaya, "Vala's stony heart"); KGC: "Balarama" (valarāma pāṣāṇa-hṛdaya); GPT1: "Balarama's
-hard heart" (valarāma kaṭhina hṛdaya).
+[^11-41]: "Balarama" — BR: "Vala-" (bala-pāṣāṇa hṛdaya, "Vala's stony heart"); KGC: "Balarama" (balarāma pāṣāṇa-hṛdaya); GPT1: "Balarama's
+hard heart" (balarāma kaṭhina hṛdaya).
 
 ## 11. Kanu Dasa — "nija-nāmāmṛte matta anukṣaṇa…" (PK 2117)
 *Gauranga's wondrous pastimes: intoxicated with the nectar of His own name, He makes everyone drink it, the lowly above
@@ -7793,7 +7792,7 @@ Nadia, "full of anuraga", talking about Gaura as He goes to the Ganga; most of t
 but this one is about the Lord's bhava in kirtana.
 [^11-47]: The Lord in Krishna's bhava remembers the pastimes in Vraja and Radha (cf. chapter 10, no. 9).
 [^11-48]: "You" is the friend whom the poet addresses (the frame of BR). Gokulamohana ("the enchanter of Gokula") is Krishna:
-Gaura is Krishna Himself. GPT1: "as though crushing hosts of monkeys" (vānara dalana janu, per OCR) instead of "as though
+Gaura is Krishna Himself. GPT1: "as though crushing hosts of monkeys" (bānara dalana janu, per OCR) instead of "as though
 trampling the forest" (12.6).
 
 ## 13. Yadunandana — "chala chala cāru nayana yugala…" (BR pp. 922–923 = PK 2246)
@@ -7830,20 +7829,20 @@ He gazes into Svarupa's face;
 saying, "The peacock feather!" — He chokes with sobs:
 can Yadu understand this?[^11-52]
 
-[^11-49]: Signature: "Yadu" ("yadu ki vujhite pāre"). BR, 12th wave: 1913 ed., pp. 922–923 ("punaḥ kāmodaḥ"), right after Murari's
+[^11-49]: Signature: "Yadu" ("yadu ki bujhite pāre"). BR, 12th wave: 1913 ed., pp. 922–923 ("punaḥ kāmodaḥ"), right after Murari's
 PK 2121. PK: vol. 3, PDF p. 285 (printed p. 274), 21st pallava, no. 29 (label "॥২৯॥২২৪৬॥", the second digit damaged on the scan), raga shri, P-R-Sa MS no. 2351 —
 without the first stanza and **without a signature** (last line: "who can tell it?"). GPT1 — p. 285, no. 27 (kamoda; signed
 Yadu) and p. 46, no. 65 (the PK recension, unsigned). KGC (26th kshanada, no. 1, pp. 207–208, raga varari) joins the first
-stanza of Prasada Dasa's pada "keśera veśe bhulila deśe" (PK 2085) to 13.1–13.5 of our pada — without 13.6 and without a
+stanza of Prasada Dasa's pada "keśera beśe bhulila deśe" (PK 2085) to 13.1–13.5 of our pada — without 13.6 and without a
 signature. A variant signed "Govinda-dasiya" — GPT1 p. 10, no. 23. The pada was not in the catalogue; RM-005 ("keśera
-veśe…", supposedly Ramananda's) is a pada of Prasada Dasa.
+beśe…", supposedly Ramananda's) is a pada of Prasada Dasa.
 [^11-50]: PK: "losing His head" (ākula haiyā) instead of "His heart full of turmoil" (ākula hṛdaya).
 [^11-51]: "Songs of the rasa" follows BR (rāsakeli-gīta, songs of the rasa dance); PK and GPT1 (no. 65): "songs full of rasa"
 (rasamaya gīta). Instead of "unsteady is their gait" (athira tāhāra rīta) PK reads "like red lotuses" (rātā-utapala-rīta).
 [^11-52]: In Krishna's bhava the Lord seeks His flute and peacock feather. Svarupa is Svarupa Damodara, the Lord's closest
 companion in Puri (before his sannyasa, Purushottama Acharya, who knew the Lord already in Navadvipa, CC Madhya 10); PK places
 the pada among the pastimes after the sannyasa, BR among the places of Navadvipa. PK: "who knows what bhava rises in Him,
-who can tell it?" (ki bhāva uṭhaye ke tāhā kahite pāre).
+who can tell it?" (ki bhāba uṭhaye ke tāhā kahite pāre).
 
 ## 14. Yadunandana — "kīrtana-lampaṭa ghana ghana nāṭa…" (BR pp. 923–924)
 *Gaura, greedy for kirtana, dances untiringly; seeing nothing for His tears, He walks leaning on the hand of Gadadhara Dasa,
@@ -7911,7 +7910,7 @@ Yadunandana's padas cited in BR as testimony (BR p. 924; in the catalogue YN-007
 [^11-58]: "Hair and garments" — cikura cira (chikura, hair; chira, cloth).
 [^11-59]: "Has missed" — eṛāila; "worthless, by his own fault" — dīna doṣe (1913 and 1960 eds.).
 
-## 16. Balarama Dasa — "naṭavara rasika ramaṇi-manomohana…" (PK 2249)
+## 16. Balarama Dasa — "naṭabara rasika ramaṇi-manomohana…" (PK 2249)
 *A lament over the sannyasa: Krishna, the best of dancers, who enchanted the hearts of the gopis, covering His dark form
 with a golden one, has appeared to the world — and this Beloved of Radha, who wore garments marked with kunkuma from Her
 breast, now lives under a tree as a sannyasi: what siddhi does He seek? Raga sindhura.*[^11-60]
@@ -7940,13 +7939,13 @@ lives beneath a tree.
 The first of fickle lovers — what siddhi does He seek?
 Balarama Dasa does not understand.[^11-64]
 
-[^11-60]: Signature: "Balarama Dasa" ("nā vujhai valarāma dāsa"). PK: vol. 3, PDF p. 286 (printed p. 275), 21st pallava "The sannyasa
+[^11-60]: Signature: "Balarama Dasa" ("nā bujhai balarāma dāsa"). PK: vol. 3, PDF p. 286 (printed p. 275), 21st pallava "The sannyasa
 of Sri Gauranga and so on", no. 32 (label "॥৩২॥২২৪৯॥"); raga sindhura; P-R-Sa MS no. 2354. GPT1 — p. 19, no. 52; GPT2 — sec.
 1.2, no. 52. In the catalogue — BD-006 (number corrected in chapter 7). The next pada, PK 2250 ("gopīgaṇa-kuca-kuṅkume
-vañcita…"), is signed "Natavara" (in the P-R-Sa MS "Balarama"); not included in this chapter.
+bañcita…"), is signed "Natavara" (in the P-R-Sa MS "Balarama"); not included in this chapter.
 [^11-61]: "Over His dark form a golden body": Krishna appeared covered by Radha's golden radiance (CC Adi 4; "Krishna within,
-Gaura without"). MSS "ka", "kha", "cha": vivaraṇa instead of varaṇa; Ray thinks the original reading was "śyāmari varaṇa" and in his
-note compares the line with PK 2259 ("antarete śyāma-tanu vāhire gaurāṅga").
+Gaura without"). MSS "ka", "kha", "cha": bibaraṇa instead of baraṇa; Ray thinks the original reading was "śyāmari baraṇa" and in his
+note compares the line with PK 2259 ("antarete śyāma-tanu bāhire gaurāṅga").
 [^11-62]: The pada speaks of Krishna's transcendental pastimes with Radha: Their love is pure prema, having nothing in common
 with mundane passion (Bhaktisiddhanta: aprakrita-shringara). The poet contrasts Krishna, the Beloved of Vraja, with Krishna
 become the sannyasi Gaura.
@@ -7957,7 +7956,7 @@ GPT1: "pulakita atiśaya sādhe"; MS "gha": manabhaba instead of manasija.
 rakes"): a tender reproach in the spirit of the gopis, who call Krishna a deceiver (Bhag. 10.31, 10.47); we translate
 faithfully to the author.
 
-## 17. Balarama Dasa — "hari hari e vaṛa vismaya lāge mane…" (PK 2251)
+## 17. Balarama Dasa — "hari hari e baṛa bismaya lāge mane…" (PK 2251)
 *A lament over the sannyasa: He whose body was darker than a new cloud has become Gauranga; the head that wore a crown with
 a peacock feather is shaven; the eyes that charmed Radha are full of tears; He who sported with the gopas and gopis now
 does not hear even the name of a woman; the hands that held the flute hold a staff; instead of yellow silk — saffron
@@ -7988,7 +7987,7 @@ PK number was found on the scan.
 [^11-66]: Gunja are red-and-black berries from which the cowherds of Vraja make necklaces. GPT1: "He who was always with the
 gopis, speaking with them in many playful ways…" (sadā gopī saṅge rahe, nānā raṅge kathā kahe). A sannyasi does not listen to
 talk of women — thus the Lord strictly kept the rules of sannyasa (CC Antya 2).
-[^11-67]: MS P-R-Sa: "grievous" (viṣama) instead of "wonder" (vismaya) in 17.1.
+[^11-67]: MS P-R-Sa: "grievous" (biṣama) instead of "wonder" (bismaya) in 17.1.
 
 ## 18. Balarama Dasa — "rūpa koṭi kāma jini…" (PK 2252)
 *A lament over the sannyasa: He whose beauty outshines millions of Kamadevas, who sports in Goloka, the son of the king of
@@ -8018,8 +8017,8 @@ only Balarama Dasa remains far away.[^11-70]
 [^11-68]: Signature: "Balarama Dasa." PK: vol. 3, PDF p. 287 (printed p. 276), 21st pallava, no. 35 (label "॥৩৫॥২২৫২॥"); raga
 sindhura; P-R-Sa MS no. 2357. GPT1 — p. 19, no. 50 (a footnote in GPT1 gives a manuscript variant signed by Vasu Ghosha);
 GPT2 — sec. 1.2, no. 50. In the catalogue — BD-004.
-[^11-69]: Chandravali is a gopi, Radha's rival. The sense of "vuke vuka" ("breast to breast") is unclear: probably the Lord
-embraces the devotees in kirtana but does not look at women. GPT1: "nā dekhena nārīmukha". MS P-R-Sa: "many" (vahu) instead of
+[^11-69]: Chandravali is a gopi, Radha's rival. The sense of "buke buka" ("breast to breast") is unclear: probably the Lord
+embraces the devotees in kirtana but does not look at women. GPT1: "nā dekhena nārīmukha". MS P-R-Sa: "many" (bahu) instead of
 "the Lord" (pahu) in 18.4.
 [^11-70]: The chintamani is the wish-fulfilling touchstone. MS P-R-Sa: "by the gift of the chintamani of the Name"
 (nāma-cintāmaṇi-dāne) instead of "by His qualities, like a chintamani" (cintāmaṇi nija-guṇe).
@@ -8091,10 +8090,10 @@ the world floats in Gora's prema;
 the high and the low — all have become bhagavatas,
 only Balarama Dasa is left out.[^11-78]
 
-[^11-75]: Signature: "Balarama Dasa" ("vañcita valarāma dāse"). PK: vol. 3, PDF pp. 283–284 (printed pp. 272–273), 21st pallava, no.
+[^11-75]: Signature: "Balarama Dasa" ("bañcita balarāma dāse"). PK: vol. 3, PDF pp. 283–284 (printed pp. 272–273), 21st pallava, no.
 27 (label "॥২৭॥২২৪৪॥"); raga ramakeli; P-R-Sa MS no. 2349. GPT1 — p. 45, no. 63 (ramakeli); GPT2 — sec. 1.3, no. 63. In the
 catalogue — BD-011; the same PK 2244 was wrongly given for YN-001, "praphullita kanaka-kamala mukhamaṇḍala" (that is GPT1 p. 118, no. 24,
-signed "Vijayananda Dasa", in GPT2 "Yadunandana Dasa"; not in PK). The preceding PK 2243, "jīve emana dayā kothāo nā dekhi", is
+signed "Vijayananda Dasa", in GPT2 "Yadunandana Dasa"; not in PK). The preceding PK 2243, "jībe emana dayā kothāo nā dekhi", is
 signed "Vasudasa".
 [^11-76]: GPT1: "seeing Him, their minds unsteady" (athira mana) instead of "their minds made steady" (suthira-mana).
 [^11-77]: Gadadhara (Pandita), Svarupa Damodara, Ramananda Raya and Nityananda are the Lord's companions in Puri. Shripada is a
@@ -8135,15 +8134,15 @@ Balarama Dasa alone of all is left out of this rasa.[^11-83]
 [^11-79]: Signature: "Balarama Dasa." PK: vol. 3, PDF pp. 284–285 (printed pp. 273–274), 21st pallava, no. 28 (label "॥২৮॥২২৪৫॥");
 raga varari; P-R-Sa MS no. 2350. GPT1 — p. 45, no. 64, and p. 289, no. 40; GPT2 — sec. 1.3, no. 64, and 4.3, no. 40. The
 catalogue (BD-012) listed it as "GPT only": the PK number was found on the scan.
-[^11-80]: MS P-R-Sa: "for Him there are no quarters of the sky" (diga vidiga tāhe nāhi).
+[^11-80]: MS P-R-Sa: "for Him there are no quarters of the sky" (diga bidiga tāhe nāhi).
 [^11-81]: In the humility of a devotee the Lord begs Nityananda for the dust of His feet, and Nityananda calls Him brother (cf.
 CB Antya 5–6). GPT1 (p. 289): "fallen on the ground, He weeps: 'Nitai, Nitai, brother!'".
 [^11-82]: Vasu is Vasu Ghosha or Vasudeva Datta; Srivasa, Mukunda (Datta) and Murari (Gupta) are companions from Navadvipa who
-came to the Lord in Puri. MSS "ka", "kha", "cha", P-R-Sa: "Srinivasa" (śrīnivāsa); "as if" (yena) instead of "all" (yata).
+came to the Lord in Puri. MSS "ka", "kha", "cha", P-R-Sa: "Srinivasa" (śrīnibāsa); "as if" (yena) instead of "all" (yata).
 [^11-83]: MS "gha": "such an incarnation I have never seen anywhere" (āra kabhu nāhi dekhi) in 21.7. GPT1: "only Balarama Dasa is left
-out of this rasa" (valarāma dāsa mātra e rase vañcita).
+out of this rasa" (balarāma dāsa mātra e rase bañcita).
 
-## 22. Balarama Dasa — "prabhu kahe nityānanda sava jīva haila andha…" (PK 2261)
+## 22. Balarama Dasa — "prabhu kahe nityānanda saba jība haila andha…" (PK 2261)
 *The Lord sends Nityananda to Gauda: all souls have gone blind and have not received the name of Hari — let Nityananda
 mercifully give the Name to everyone He sees: sinners, slanderers, disputants, students turned away from bhakti,
 children, men and women — and flood Gauda with the prema of sankirtana. Raga varari.*[^11-84]
@@ -8172,10 +8171,10 @@ what can Balarama Dasa do?[^11-85]
 gauṛe preraṇaṃ yathā" (the sending of Nityananda to Gauda), no. 44 (label "॥৪৪॥২২৬১॥"); raga varari; P-R-Sa MS no. 2366. GPT1 —
 pp. 403–404, no. 6 (varari); GPT2 — sec. 5.5, no. 6. The catalogue (BD-026) listed it as "GPT only": the PK number was found
 on the scan. Cf. CC Madhya 15 (the Lord sends Nityananda to preach in Gauda), CB Antya 5.
-[^11-85]: MS "kha": "give" (diha) instead of "make them repeat" (laoyāive) in 22.1; "gha": pāṣaṇḍi; "ka": "flooded" (bhāsāila); "kha":
+[^11-85]: MS "kha": "give" (diha) instead of "make them repeat" (laoyāibe) in 22.1; "gha": pāṣaṇḍi; "ka": "flooded" (bhāsāila); "kha":
 karā.
 
-## 23. Balarama Dasa — "virale nitāi pāñā…" (PK 2262; fuller in GPT1)
+## 23. Balarama Dasa — "birale nitāi pāñā…" (PK 2262; fuller in GPT1)
 *The Lord alone with Nityananda: "Go to the bank of the Suradhuni and, taking pity on souls, give them the name of Hari; I
 have come to give away the Name and prema at Advaita's call, and You are My chief helper; having delivered Nilachala, I
 shall go south with Govinda — You hasten to Gauda." Raga varari.*[^11-86]
@@ -8265,7 +8264,7 @@ after separation), no. 1 (label "॥১॥২০১৮॥"); no raga given. GPT1
 "āola nadīyāra loka gaurāṅga dekhite" (chapter 1, no. 23). In the catalogue (KR-003) the pada was listed under nagari-bhava (by
 the GPT2 section 3.2) without a first line — it is not a nagari pada. Which Krishnadasa wrote it has not been established
 (C).
-[^11-93]: "Former pastimes" — puraba-vihāra: Krishna's pastimes in Vraja (in PK the pada introduces Radha's account of Her union
+[^11-93]: "Former pastimes" — puraba-bihāra: Krishna's pastimes in Vraja (in PK the pada introduces Radha's account of Her union
 with Krishna).
 [^11-94]: It can also be understood as the words of the Lord Himself in Radha's bhava: "after so much striving Providence has
 fulfilled My hope." MSS "ka", "kha": jine ("outshining") instead of janu ("like") in 25.2.
@@ -8288,7 +8287,7 @@ ones as well; the childhood padas he regards as the poet's invention, and the fe
 pada about Svarupa (no. 28) as forgeries. The attribution of all the padas of this chapter is therefore provisional. The
 Bengali original, the variants of GPT1/GPT2 and PK, and the word-for-word translation are in the full version of the book.*
 
-## 1. Vasu Ghosha — "avatāra vaṛa avatāra kailā vaṛa…" (PK 2347; GPT1 no. 68)
+## 1. Vasu Ghosha — "abatāra baṛa abatāra kailā baṛa…" (PK 2347; GPT1 no. 68)
 *Praise of the Gaura-avatara: there was no such mercy in any yuga; in every house there is the weeping of prema, the
 name of Hari is proclaimed; Gaura has brought a boat laden with prema to the landing and opened a market; Jagai and
 Madhai are saved by the name.*[^12-1]
@@ -8312,7 +8311,7 @@ in the age of Kali blessed is the name — the jewel Chaitanya.
 no. 2451 — **without a signature** (in PK the pada ends at 1.4; it is preceded by PK 2346, signed by Balarama Dasa). GPT1 —
 pp. 46–47, no. 68 (raga yatharaga), with the closing couplet 1.5 — the signature of Vasudeva Ghosha; GPT2 — sec. 1.3,
 no. 68. Text of 1.1–1.4 follows PK, 1.5 follows GPT. The attribution to Vasu Ghosha is known only from GPT (a new catalogue
-entry, VG-154). The first line reads differently in the PK manuscripts and in GPT ("avatāra kailā vaṛa vaṛa" etc.), see the full version of the book.
+entry, VG-154). The first line reads differently in the PK manuscripts and in GPT ("abatāra kailā baṛa baṛa" etc.), see the full version of the book.
 [^12-2]: "The weeping of prema" (premera kāndanā) — tears of love for God in kirtana, not worldly grief. The name of Hari as the
 dharma of the age of Kali — CC Adi 3, 17.
 [^12-3]: Images of trade: the boat (bharā — a boat's cargo; in the PK manuscripts bhārā, "load") comes in to the landing, and Gaura
@@ -8352,7 +8351,7 @@ The world is full of bliss — the moon Gaura has risen:
 this, says Vasu, is the fruit of the good fortune of living beings.
 
 [^12-5]: GPT1 — p. 51, no. 3 (raga kalyana), checked against the scan (PDF pp. 310–311); GPT2 — sec. 2.1, no. 3. The pada is not in
-PK, BR, KGC or PS. The preceding pada of GPT (no. 2, "jaya jaya kalarava nadiyā nagare") is PK 1121, translated in chapter 7 (no. 6).
+PK, BR, KGC or PS. The preceding pada of GPT (no. 2, "jaya jaya kalaraba nadiyā nagare") is PK 1121, translated in chapter 7 (no. 6).
 Majumdar regards Vasu's padas on the Lord's birth and childhood as the poet's invention: Vasu was not in Navadvipa at that
 time (and the attribution of this pada is moreover known only from GPT). The Lord's appearance on the phalguna purnima
 during a lunar eclipse, when everyone was chanting the name of Hari — CC Adi 13; CB Adi 2.
@@ -8365,7 +8364,7 @@ The words about "the pains of childbirth" convey her motherly experience in the 
 [^12-9]: "The women of Nadia" (nadīyā-nāgarī) here are simply townswomen who came to see the Child, not "nagaris" in the sense of
 nagari-bhava. The gods who came in human guise to see the newborn Lord — CB Adi 2.
 
-## 3. Vasu Ghosha — "miśra purandara kichu mane vicāriyā…" (GPT1 p. 62, no. 1)
+## 3. Vasu Ghosha — "miśra purandara kichu mane bicāriyā…" (GPT1 p. 62, no. 1)
 *The name-giving: Purandara Mishra calls the family priest and gives him gifts, and the priest places the arghya and his
 blessing on the Child's head; Shachi asks that her son be given the name "Nimai". Raga suhai.*[^12-10]
 
@@ -8384,7 +8383,7 @@ and gladly placed them on Gorachand's head.[^12-11]
 **3.5.** Give Him the name 'Nimai', O best of brahmanas!" —
 so, joining his palms, says Vasudeva Ghosha.
 
-[^12-10]: GPT1 — p. 62, section "Childhood pastimes" (vālyalīlā), no. 1 (raga suhai), checked against the scan (PDF p. 321); GPT2 —
+[^12-10]: GPT1 — p. 62, section "Childhood pastimes" (bālyalīlā), no. 1 (raga suhai), checked against the scan (PDF p. 321); GPT2 —
 sec. 2.2, no. 1. The pada is not in PK, BR, KGC or PS; it was missing from the catalogue (new entry VG-155). On Majumdar's view
 of Vasu's padas on the Lord's childhood — note 5. Purandara is another name of Jagannatha Mishra. According to CB (Adi 3–4)
 and CC (Adi 13–14), the name "Nimai" was given to the Child by the women (born under a nim tree — as a protection), while
@@ -8468,7 +8467,7 @@ pada is not in PK, BR, KGC or PS. Ashtakaliya songs are a meditation on the Lord
 does not discuss such padas.
 [^12-18]: The night lilies (kumudini) open under the moon and close at dawn; the lotuses do the opposite.
 
-## 7. Vasu Ghosha — "vāyasa kokilakula ghughu dahiyāla-rava…" (GPT1 p. 351, no. 24)
+## 7. Vasu Ghosha — "bāyasa kokilakula ghughu dahiyāla-raba…" (GPT1 p. 351, no. 24)
 *Morning and bath: the birds call, the companions call Gora; He rises, rubs His eyes, performs the morning duties, slowly
 anoints Himself with fragrant oil and goes with everyone to the Ganga. Raga dhanashi.*[^12-19]
 
@@ -8510,7 +8509,7 @@ swing festival of Radha and Krishna in the month of shravana.
 The left side is Radha's place beside Krishna; Gadadhara, the Lord's eternal companion, understands His mood. The cry "The
 flute!" is a remembrance of Krishna's flute that has seized the Lord in this bhava.
 
-## 9. Vasu Ghosha — "viṣṇupriyā saṅginīre pāiyā virale…" (GPT1 p. 367, no. 4)
+## 9. Vasu Ghosha — "biṣṇupriyā saṅginīre pāiyā birale…" (GPT1 p. 367, no. 4)
 *Vishnupriya's foreboding: alone with a friend, she says that Nadia seems desolate to her today, the right side of her
 body twitches, her earring has fallen, on the bank of the Suradhuni the trees have wilted, the current has stopped, the cuckoo
 is silent; the poet fears that Gora may leave Navadvipa. Raga dhanashi.*[^12-22]
@@ -8539,7 +8538,7 @@ lest Gora, the king of brahmanas, leave Navadvipa!
 neighbouring GPT padas are on the same theme (no. 3 — Govinda Ghosha, no. 5 — Madhava).
 [^12-23]: According to folk belief, the twitching of the right eye and the right side of the body is an ill omen for a woman.
 
-## 10. Vasu Ghosha — "pāgalinī viṣṇupriyā bhijā vastra cule…" (GPT1 p. 367, no. 6)
+## 10. Vasu Ghosha — "pāgalinī biṣṇupriyā bhijā bastra cule…" (GPT1 p. 367, no. 6)
 *Vishnupriya, as if distraught, runs home in wet clothes and, weeping, tells Shachi of the ill omens: while she was
 bathing her nose ring fell into the water, her right eye twitches, she keeps seeing a snake on her right; the poet: today
 the lord of your life will leave Navadvipa. Raga dhanashi.*[^12-24]
@@ -8565,7 +8564,7 @@ Today the lord of your life will leave Navadvipa."
 [^12-24]: GPT1 — p. 367, no. 6 (raga dhanashi), checked against the scan (PDF p. 626); missing from the GPT2 scan (note 22). The pada is
 not in PK, BR, KGC or PS; new catalogue entry VG-159. The night before the Lord's departure and Vishnupriya's grief — CC Adi 17;
 CB Madhya 25–26; in Lochana — Madhya-khanda.
-[^12-25]: The nose ring (veśara) is a sign of a married woman; its loss is an ill omen for the husband.
+[^12-25]: The nose ring (beśara) is a sign of a married woman; its loss is an ill omen for the husband.
 
 ## 11. Vasu Ghosha — "prabhu kahe nijaguṇe deota sannyāsa…" (GPT1 p. 369, no. 11)
 *Katwa: the Lord asks Keshava Bharati to give Him sannyasa; the people of Katwa try to dissuade Him, Bharati recalls
@@ -8614,7 +8613,7 @@ Vasu Ghosha, with joined palms, speaks to Bharati…
 
 [^12-26]: GPT1 — p. 369, section "sannyasa", no. 11 (raga shri), checked against the scan (PDF p. 628); GPT2 — p. 236, sec. 5.3, no. 11
 (scan PDF p. 525). The pada is not in PK, BR, KGC or PS; new catalogue entry VG-160. The preceding GPT pada (no. 10, "kāñcana nagare
-eka vṛkṣa manohara", with the double signature of Krishnadasa and Vasu) is PK 2223 (VG-136), translated in chapter 4 (no. 12). The sannyasa at
+eka bṛkṣa manohara", with the double signature of Krishnadasa and Vasu) is PK 2223 (VG-136), translated in chapter 4 (no. 12). The sannyasa at
 Katwa — CB Madhya 28; CC Adi 17, Madhya 3; Lochana, Madhya-khanda; Murari 2.18. Keshava Bharati is the Lord's sannyasa-guru.
 [^12-27]: Kanchana-nagara is Katwa (Kantaka-nagara) on the Ganga, where the Lord took sannyasa.
 [^12-28]: Apparently the words of Keshava Bharati (GPT1 gives them in quotation marks without naming the speaker): sannyasa was usually
@@ -8624,7 +8623,7 @@ example, speaks of the brevity of human life, not of Himself — time has no pow
 touch the feet of others (the same motif in Lochana, where the barber is called Haridasa (in the 1983 ed.), and in Govinda's *Karcha*, where he is
 Deva).
 
-## 12. Vasu Ghosha — "madhuśīla vale gosāñi nā bhām̐ṛāo more…" (GPT1 p. 369, no. 12)
+## 12. Vasu Ghosha — "madhuśīla bale gosāñi nā bhām̐ṛāo more…" (GPT1 p. 369, no. 12)
 *Continuation: the barber Madhushil says to the Lord: "Do not deceive me — I know You are God Himself; I shall do Your
 will, but first place Your feet on my head"; the Lord places His foot on his head. Raga shri.*[^12-30]
 
@@ -8687,7 +8686,7 @@ Vasu Ghosha weeps aloud.[^12-36]
 The pada is not in PK, BR, KGC or PS. The couplet about the blessing (13.4) coincides almost word for word with Vasu's pada PK 2225
 (VG-059; chapter 4, no. 13), which Majumdar considers part of the historical cycle "Nimai-sannyasa": this is a "double" of that
 pada, known only from GPT.
-[^12-33]: śrīnivāsī — lit. "dwellers of Shri (the holy place)"; the sense of the word is unclear (perhaps the people of Katwa or of
+[^12-33]: śrīnibāsī — lit. "dwellers of Shri (the holy place)"; the sense of the word is unclear (perhaps the people of Katwa or of
 Nadia).
 [^12-34]: "Leaving maya" — here "maya" in the everyday sense: family, home, worldly attachments that the Lord leaves on taking
 sannyasa; the Lord Himself is never under the power of maya. The word "ḍuri" after "shaven head" is unclear (omitted in the
@@ -8719,7 +8718,7 @@ Vasu says: "I have seen the lotus feet."
 
 [^12-37]: GPT1 — p. 371, no. 18 (raga dhanashi); GPT2 — sec. 5.3, no. 18. The pada is not in PK, BR, KGC or PS; new catalogue entry
 VG-162. The name "Sri Krishna Chaitanya" — CC Madhya 3, CB Madhya 28; cf. Govinda's *Karcha*, where Bharati inwardly recognizes the Lord as God.
-[^12-38]: "You bewilder the world" (bhuvana bhulāo) — of the lila of the Lord, who hides His majesty in the role of a devotee and a disciple;
+[^12-38]: "You bewilder the world" (bhubana bhulāo) — of the lila of the Lord, who hides His majesty in the role of a devotee and a disciple;
 "the master of every play" (nāṭera guru) — He Himself arranges His lila. This is not "maya" over the Lord: by His own will He shows
 the form of a sannyasi in order to teach the world.
 
@@ -8779,7 +8778,7 @@ into one picture of grief, without regard to where each was (Nityananda, for ins
 [^12-43]: "Vasudeva" is apparently the poet himself (Vasudeva Ghosha), beside Narahari Sarakara of Shrikhanda; Raghunandana is Narahari's
 nephew, then still a child.
 
-## 17. Vasu Ghosha — "śuniyā māyera vāṇī kahe prabhu guṇamaṇi…" (GPT1 pp. 379–380, no. 44)
+## 17. Vasu Ghosha — "śuniyā māyera bāṇī kahe prabhu guṇamaṇi…" (GPT1 pp. 379–380, no. 44)
 *Shantipura: hearing His mother's lament, the Lord consoles her: birth after birth she is His mother and He her child; so it
 was with Dhruva's mother, with Kaushalya, and with Yashoda when Krishna went to Mathura; let her worship Krishna; when she
 weeps and calls, He will come. Shachi is silent in tears; the poet begs the Lord to return to Nadia. Raga pahida.*[^12-44]
@@ -8869,7 +8868,7 @@ house — CC Madhya 3; CB Antya 1.
 [^12-49]: The sense is unclear: probably the poet, clasping the Lord's feet, does not want to let go of Advaita's hope of keeping Him
 there (or: the hope he himself places in Advaita).
 
-## 19. Vasu Ghosha — "prabhu karuṇa-svare bhakata pravodha kare…" (GPT1 pp. 380–381, no. 47)
+## 19. Vasu Ghosha — "prabhu karuṇa-svare bhakata prabodha kare…" (GPT1 pp. 380–381, no. 47)
 *The farewell in Shantipura: the Lord, weeping, with joined palms, begs the devotees not to withdraw their mercy from Him: He has
 left Navadvipa, Shachi and Vishnupriya and with their consent wishes to live in Nilachala — people travelling between
 Nilachala and Nadia will bring news of Him; embracing Advaita and taking the dust of Shachi's feet, He departs, and Shantipura is
@@ -8899,7 +8898,7 @@ Shantipura was filled with weeping.
 not in PK, BR, KGC or PS. The farewell in Shantipura and the departure for Puri — CC Madhya 3; CB Antya 1–2.
 [^12-51]: "Namo narayana" is the greeting exchanged by sannyasis.
 
-## 20. Vasu Ghosha — "advaita-vilāpe prabhu hailā vikala…" (GPT1 p. 382, no. 53)
+## 20. Vasu Ghosha — "advaita-bilāpe prabhu hailā bikala…" (GPT1 p. 382, no. 53)
 *Advaita's lament: moved by His weeping, the Lord in tears says to Him: "Why such bewilderment? You Yourself determined the course of
 My lila; if I do not go to Nilachala, the lila will be spoiled and all You wished for will be in vain: how then will the name of
 Hari be preached? Do not grieve like an ordinary man: I am always with You." Advaita is comforted. Raga dhanashi.*[^12-52]
@@ -8948,7 +8947,7 @@ GPT2 — sec. 5.4, no. 1. The pada is not in PK, BR, KGC or PS.
 [^12-55]: The signature consoles Shachi with the truth about the Lord's sannyasa: He took it for the deliverance of all (CC Adi 17:
 sannyasa, so that even the scoffers would bow to a sannyasi and receive mercy).
 
-## 22. Vasu Ghosha — "hede re nadīyāra cām̐da vāchā re nimāi…" (GPT1 p. 383, no. 2)
+## 22. Vasu Ghosha — "hede re nadīyāra cām̐da bāchā re nimāi…" (GPT1 p. 383, no. 2)
 *Shachi, embracing her son by the neck and kissing Him, implores: she, unfortunate, has no one else; He has abandoned His
 old mother and left Vishnupriya in her care; all Nadia weeps — let Him come home and sing kirtana with Srivasa, Haridasa,
 Murari, Mukunda and Vasu; she will call the brahmanas, and He will be given the sacred thread again. Raga suhai.*[^12-56]
@@ -8978,12 +8977,12 @@ I shall call the brahmanas, and You will be given the sacred thread again."[^12-
 go back again to Nadia, Gaura, jewel of virtues!"
 
 [^12-56]: GPT1 — p. 383, no. 2 (raga suhai), checked against the scan (PDF p. 642); GPT2 — sec. 5.4, no. 2. The pada is not in PK, BR, KGC or
-PS. Shachi holds her son in her arms — apparently at the meeting in Shantipura (CC Madhya 3); "Srinivasa" (śrīnivāsa) here is
+PS. Shachi holds her son in her arms — apparently at the meeting in Shantipura (CC Madhya 3); "Srinivasa" (śrīnibāsa) here is
 Srivasa.
 [^12-57]: A sannyasi removes the sacred thread (upavita); Shachi wants to give her son back the life of a brahmana householder. Her plea is
 motherly love (vatsalya), unaware of the Son's majesty.
 
-## 23. Vasu Ghosha — "kām̐de devī viṣṇupriyā nija aṅga āchāṛiyā…" (GPT1 pp. 387–388, no. 17)
+## 23. Vasu Ghosha — "kām̐de debī biṣṇupriyā nija aṅga āchāṛiyā…" (GPT1 pp. 387–388, no. 17)
 *Vishnupriya's lament: rolling on the ground, she says: "My lord, You have cast me adrift in boundless waters; at whose word did
 You take sannyasa? Even Raghunatha went to the forest together with Janaki; even Krishna, going to Mathura, sent Uddhava to the
 gopis and so preserved their lives. I shall give this body to the Ganga." Raga pahida.*[^12-58]
@@ -9009,8 +9008,7 @@ this body I shall give to the Ganga, I shall take Your refuge."
 Vasu has no hope of life.[^12-61]
 
 [^12-58]: GPT1 — pp. 387–388, no. 17 (raga pahida), checked against the scan (PDF pp. 646–647); GPT2 — sec. 5.4, no. 17. The pada is not in
-PK, BR, KGC or PS. Below the text Jagadbandhu gives three variants (without naming the source): "mui", "eṛi", "rāmāyaṇe" (see
-bn/12.md).
+PK, BR, KGC or PS. Below the text Jagadbandhu gives three variants (without naming the source): "mui", "eṛi", "rāmāyaṇe" (see the full version of the book).
 [^12-59]: Variant (GPT1 note): "in the Ramayana" instead of "in the Vedas". Rama took Sita (Janaki) with Him into His forest exile.
 [^12-60]: Uddhava, sent by Krishna from Mathura to Vraja with a message for the gopis (Bhag. 10.46–47). Vishnupriya reproaches the Lord: He
 has not left her even a message. Her lament is the lament of a wife in separation; Vishnupriya herself, according to tradition,
@@ -9039,7 +9037,7 @@ Vasu says: life will not remain.
 [^12-62]: GPT1 — p. 388, no. 21 (raga bhupali), checked against the scan (PDF p. 647); GPT2 — sec. 5.4, no. 21. The pada is not in PK, BR, KGC
 or PS.
 
-## 25. Vasu Ghosha — "dhika yāu e chāra jīvane…" (GPT1 p. 389, no. 22)
+## 25. Vasu Ghosha — "dhika yāu e chāra jībane…" (GPT1 p. 389, no. 22)
 *Lament in separation: fie on this worthless life — where has Gora, the life of my life, gone? I shall not see the moon-face nor
 hear His words; gone is the happiness He gave — a spear has remained in my heart; day and night I think only of the pauper's
 treasure — His reddish feet; fate has turned away. Raga vibhasa.*[^12-63]
@@ -9070,7 +9068,7 @@ or PS. Below the text in GPT1 there are five variants (without naming the source
 in the section, is Vishnupriya (or Shachi); she is not named in the text.
 [^12-64]: "The pauper's treasure" — the Lord, the only wealth of one who has nothing.
 
-## 26. Vasu Ghosha — "śuniyā bhakata-dukha vidariyā yāya vuka…" (GPT1 pp. 409–410, no. 23)
+## 26. Vasu Ghosha — "śuniyā bhakata-dukha bidariyā yāya buka…" (GPT1 pp. 409–410, no. 23)
 *Hearing of the devotees' sorrow, the Lord comes with His companions to Nadia in the twinkling of an eye; Gadadhara lies
 senseless, Narahari beside him; the Lord, rolling on the ground, cries out: "What have I done! May lightning strike the
 sannyasa — I will not go to Nilachala, I shall stay with the devotees!" — and loses consciousness; the companions lay Him in
@@ -9136,7 +9134,7 @@ highly doubtful. Another pada on the phagu in Nilachala is by Madhavi Dasa (PK 2
 [^12-69]: Govinda is Krishna; in Puri, at the festival of Dola-yatra, His festival Deity (Dola-Govinda) is sprinkled with coloured powder.
 Perhaps the poet means the Lord's play with the Deity at this festival.
 
-## 28. Vasu Ghosha — "svarūpera kare dhari vale kām̐di gaurahari…" (GPT1 pp. 306–307, no. 25)
+## 28. Vasu Ghosha — "svarūpera kare dhari bale kām̐di gaurahari…" (GPT1 pp. 306–307, no. 25)
 *The Lord in the bhava of Radha disappointed in Her waiting (vipralabdha): holding Svarupa's hand, He weeps — the night has passed in
 vain, the moon has set, Shyama has not come; the bed of flowers has wilted, the garland has withered; "Come, Svarupa, to the Suradhuni, let us
 set all this afloat; let honour and family be lost — I shall throw Myself into the water"; the poet: where can the pain of this heart be
@@ -9244,7 +9242,7 @@ own words, a grandson of Vamshivadana who lived after the Lord's departure. The 
 therefore provisional. The full PK check (chapter 16) found nos. 16 (PK 2512) and 18 (PK 1976) in PK as well;
 their variants have been added. The Bengali original, the variants of GPT1/GPT2, PK and KGC, and the word-for-word translation are in the full version of the book.*
 
-## 1. Balarama Dasa — "śunaite rāi vacana adharāmṛta…" (GPT1 p. 2, no. 2)
+## 1. Balarama Dasa — "śunaite rāi bacana adharāmṛta…" (GPT1 p. 2, no. 2)
 *Prologue (nandi) of the *Gaura-pada-tarangini*: having heard Radha tell of Her dream in which She saw a golden youth,
 Krishna reveals to Her that He Himself will take that form: three desires — to know what Her prema is like, what its
 sweetness is, and what happiness She tastes — were not fulfilled in Vraja; taking Her bhava and lustre, making Her prema
@@ -9277,7 +9275,7 @@ Gaura-avatara: Krishna, taking Radha's bhava and lustre, tastes His own sweetnes
 [^13-3]: The three desires — CC Adi 1.6 and 4: to know the greatness of Radha's love, the sweetness of Himself which Radha
 tastes, and the happiness She feels. The poet puts this theological motif into Krishna's mouth almost word for word.
 
-## 2. Balarama Dasa — "vām̐dhu he śunaite kām̐pai dehā…" (GPT1 p. 2, no. 3)
+## 2. Balarama Dasa — "bām̐dhu he śunaite kām̐pai dehā…" (GPT1 p. 2, no. 3)
 *Radha's reply: at this news Her body trembles — He is the life of Vraja; like a fish without water or a serpent
 without its jewel, Vraja cannot live a moment without Him; will He, leaving Her, reveal prema with His brother and friends
 on the bank of another river?*[^13-4]
@@ -9297,7 +9295,7 @@ day and night, without the sight of You, all will pine and give up their lives.
 **2.5.** With Your elder brother, with Your friends You will sport on the river bank —
 and forgetting me You will reveal prema?" Balarama Dasa does not understand.[^13-5]
 
-[^13-4]: GPT1 — p. 2, no. 3, no raga (scan PDF p. 261); GPT2 — sec. 1.1, no. 3. In 2.5 GPT1 reads "pāsaravi mujhe" (you will forget
+[^13-4]: GPT1 — p. 2, no. 3, no raga (scan PDF p. 261); GPT2 — sec. 1.1, no. 3. In 2.5 GPT1 reads "pāsarabi mujhe" (you will forget
 me), GPT2 "parihari mujhe" (abandoning me). Radha's anguish is not worldly sorrow but the highest prema (mahabhava) by which
 Vraja lives; the fear of separation is inseparable from it (CC Madhya 2).
 [^13-5]: "Elder brother" — Balarama, who appeared in the Gaura-lila as Nityananda; "friends" — the cowherd boys who became
@@ -9326,13 +9324,13 @@ without Vraja prema is not attained.
 **3.5.** With the bhava of Vraja I shall fulfil My heart's desire" —
 this Balarama Dasa has known by realization.[^13-7]
 
-[^13-6]: GPT1 — p. 2, no. 4, no raga (scan PDF p. 261; the last line is smudged in the scan, the reading "anubhavi jānala" is
+[^13-6]: GPT1 — p. 2, no. 4, no raga (scan PDF p. 261; the last line is smudged in the scan, the reading "anubhabi jānala" is
 confirmed by GPT2); GPT2 — sec. 1.1, no. 4.
 [^13-7]: "Two bodies will become one" — Gaura is Radha and Krishna united in one form (CC Adi 1.5; 4.55); "repeat Her name" —
 the Lord in Navadvipa and Puri cries "Radha, Radha!" "The heart's desire" (mana-kāma) is the thirst to taste Radha's love,
 not worldly lust.
 
-## 4. Vasu Ghosha (in GPT1 — Balarama Dasa) — "purave vāndhila cūṛā eve keśa-hīna…" (PK 2255; GPT1 p. 18, no. 47)
+## 4. Vasu Ghosha (in GPT1 — Balarama Dasa) — "purabe bāndhila cūṛā ebe keśa-hīna…" (PK 2255; GPT1 p. 18, no. 47)
 *The Lord's sannyasa as Krishna's transformation: formerly He tied His hair in a top-knot — now His head is shaven;
 instead of the milk-pail in His left hand — the sannyasi's water-pot; in the Treta-yuga He held the bow, in the
 Dvapara the flute, in the Kali-yuga He took the staff; Balarama has become an avadhuta, Kanai a sannyasi. Raga
@@ -9351,8 +9349,8 @@ in the Kali-yuga, taking the staff, He has become a sannyasi.
 Balarama is an avadhuta, Kanai a sannyasi![^13-10]
 
 [^13-8]: PK: vol. 3, PDF p. 288 (printed p. 277), 21st pallava "The sannyasa of Sri Gauranga, etc.," label "॥৩৮॥২২৫৫॥", raga
-gandhara, MS P-R-Sa no. 2310 — signed by **Vasu Ghosha** (4.4: "vāsughoṣa kahe…"). GPT1 — p. 18, section "Mangalacharana,"
-no. 47 (gandhara), checked against the scan (PDF p. 277): the same pada, but in 4.4 "valarāma kahe śuna nadīyānivāsī," i.e. signed by
+gandhara, MS P-R-Sa no. 2310 — signed by **Vasu Ghosha** (4.4: "bāsughoṣa kahe…"). GPT1 — p. 18, section "Mangalacharana,"
+no. 47 (gandhara), checked against the scan (PDF p. 277): the same pada, but in 4.4 "balarāma kahe śuna nadīyānibāsī," i.e. signed by
 Balarama; the compiler of GPT1 himself noted that a manuscript and PK ascribe it to Vasu Ghosha. GPT2 — sec. 1.2, no. 47.
 The pada was missing from the stage-1 catalogue (new row); the attribution to Vasu Ghosha (per PK) is preferable: the
 signature "Balaram" in GPT1 probably arose from the second half of 4.4, where Balarama's name refers to Nityananda.
@@ -9362,7 +9360,7 @@ marks of Krishna the cowherd beside those of Gaura the sannyasi: the milk-pail i
 (Kanu) is Krishna, appearing as Gauranga. The Lord's sannyasa is not the renunciation of a conditioned soul but a lila
 for the deliverance of the people of Kali-yuga (CC Adi 17; CB Madhya 26).
 
-## 5. Balarama Dasa (in PK — "Natavara") — "gopīgaṇa-kuca-kuṅkume vañcita…" (PK 2250; GPT1 p. 18, no. 48)
+## 5. Balarama Dasa (in PK — "Natavara") — "gopīgaṇa-kuca-kuṅkume bañcita…" (PK 2250; GPT1 p. 18, no. 48)
 *Wonder at the Lord's sannyasa: He whom the maidens of Vraja embraced, whose body was coloured with their kunkuma, is
 now in saffron cloth, covered with thrills, with streams of tears of prema; the dark-bodied Dancer of Vrindavana has
 become a pauper begging prema from house to house. Raga dhanashi (in GPT1 — kedara).*[^13-11]
@@ -9380,11 +9378,11 @@ is now all thrilling with goosebumps, and tears of prema stream from His eyes.
 says Natavara — now, a pauper, begs prema from house to house.[^13-14]
 
 [^13-11]: PK: vol. 3, PDF p. 286 (printed p. 275), 21st pallava, label "॥৩৩॥২২৫০॥", raga dhanashi, MSS P-R-Sa no. 2355 and P-R no. 12 —
-signature "kahaye naṭavara" (according to Ray's apparatus, P-R-Sa reads "valarāma"). GPT1 — pp. 18–19, no. 48 (kedara), checked
-against the scan (PDF p. 277): "kahaye valarāma naṭavara so ava…" — signed by Balarama. GPT2 — sec. 1.2, no. 48. In PK the pada follows
+signature "kahaye naṭabara" (according to Ray's apparatus, P-R-Sa reads "balarāma"). GPT1 — pp. 18–19, no. 48 (kedara), checked
+against the scan (PDF p. 277): "kahaye balarāma naṭabara so aba…" — signed by Balarama. GPT2 — sec. 1.2, no. 48. In PK the pada follows
 PK 2249 of Balarama (chapter 11, no. 16), where it was noted that PK 2250 is signed "Natavara" and had not been
 translated; it was missing from the catalogue (new row). Attribution to Balarama — per P-R-Sa and GPT1 (C).
-[^13-12]: The first half-line in PK reads "kuṅkume vañcita" ("bereft of the kunkuma"): formerly Krishna's body was ruddy with the
+[^13-12]: The first half-line in PK reads "kuṅkume bañcita" ("bereft of the kunkuma"): formerly Krishna's body was ruddy with the
 gopis' kunkuma, now the sannyasi's cloth is ruddy; GPT1 reads "kuṅkume rañjita" ("coloured with kunkuma"). Gaura's golden
 lustre comes from Radha's touch: He has taken Her complexion (CC Adi 4).
 [^13-13]: "Guru-lampata" (guru lampaṭa) — literally "the foremost of lovers": the language of madhurya-rasa. The gopis' love for
@@ -9394,7 +9392,7 @@ pada stresses that the same Krishna, the Lord of Vraja, has become a renunciant.
 and GPT1 — "Balarama." "A beggar of prema" — the Lord, who Himself distributes prema, in the mood of a devotee begs it of
 everyone (CC Adi 7).
 
-## 6. Yadunatha Dasa — "gaura-varaṇa tanu sundara sukhamaya…" (PK 2180; GPT1 p. 36, no. 28)
+## 6. Yadunatha Dasa — "gaura-baraṇa tanu sundara sukhamaya…" (PK 2180; GPT1 p. 36, no. 28)
 *Gaura and Gadadhara in Navadvipa: a golden body full of bliss, a heart full of compassion; at Gaura's left is the
 beloved Gadadhara, and the hidden rasa is revealed, as if the circle of the rasa; in Nadia there are so many moons that the
 darkness has gone far away; Gaura and Gadadhara are a lake of prema that has overflowed the earth. Raga the same as that of
@@ -9422,7 +9420,7 @@ Dasa (Kavichandra), a fellow villager of Jagannatha Mishra, see the catalogue (C
 through the kirtana of Gaura and Gadadhara.
 [^13-17]: "Cheated by fate" is the usual formula of humility in a poet's signature.
 
-## 7. Balarama Dasa — "yata yata avatāra-sāra…" (PK 2346; GPT1 p. 38, no. 37)
+## 7. Balarama Dasa — "yata yata abatāra-sāra…" (PK 2346; GPT1 p. 38, no. 37)
 *Praise of the Gaura-avatara: among all incarnations the incarnation of Gora is renowned; prema for Krishna, inaccessible
 even to Brahma, the Lord distributed down to the chandalas; the flood of prema has drowned foreigners and unbelievers, beasts
 and birds sing and weep in kirtana — only Balarama has been left out. Raga bhatiyari.*[^13-18]
@@ -9447,7 +9445,7 @@ PK 2347 (chapter 12, no. 1). GPT1 — p. 38, no. 37 (bhatiyari), checked against
 catalogue (BD-009) the pada was listed as "GPT only"; it is found in PK — **core** (C). A chandala is an outcaste beyond the
 varnas; the gift of prema to all without distinction — CC Adi 7; CB Madhya 13.
 
-## 8. Balarama Dasa — "sava avatāra sāra gorā avatāra…" (PK 2201; GPT1 p. 38, no. 39)
+## 8. Balarama Dasa — "saba abatāra sāra gorā abatāra…" (PK 2201; GPT1 p. 38, no. 39)
 *Praise of the Gaura-avatara: such mercy there has never been; the Lord, entreating, gave prema to the humble and fallen;
 whoever does not serve such a treasure of mercy drinks poison with his own hands and will not be saved even in millions of
 kalpas. Raga shri.*[^13-19]
@@ -9469,13 +9467,13 @@ says Balarama: now I am burning and perishing.[^13-20]
 
 [^13-19]: GPT1 — p. 38, no. 39 (shri), checked against the scan (PDF p. 297); GPT2 — sec. 1.3, no. 39. **The pada is in PK — PK 2201**
 (vol. 3, 20th pallava "Śrī-Gauracandra — prakārāntara," PDF p. 269, printed p. 258, label "॥১৮॥২২০১॥", raga "tathā", MS P-R-Sa no. 2309) —
-with the same signature of Balarama ("…kahe valarāma eve marinu puṛiyā" — "now I am burning"). The earlier statement that 8.1–8.4 are
-the beginning of Lochana Dasa's pada PK 2203 was mistaken: PK 2203 begins "ke yāve ke yāve bhāi bhava-sindhu pāra" (MS P-R-Sa
+with the same signature of Balarama ("…kahe balarāma ebe marinu puṛiyā" — "now I am burning"). The earlier statement that 8.1–8.4 are
+the beginning of Lochana Dasa's pada PK 2203 was mistaken: PK 2203 begins "ke yābe ke yābe bhāi bhaba-sindhu pāra" (MS P-R-Sa
 no. 2311) and merely stands near this pada (corrected in the full PK check, chapter 16). Balarama's signature is attested both in PK and
 in GPT — C. The pada was missing from the stage-1 catalogue (row BD-045).
 [^13-20]: "Burning and perishing" (PK: marinu puṛiyā; GPT: paṛiyā — "fallen and perishing") is a formula of penitence in the signature (cf. 7.5); the poet speaks of himself, not of the Lord.
 
-## 9. Balarama Dasa — "navadvīpa-gagane uyala dina rāti…" (PK 2196; GPT1 p. 39, no. 40)
+## 9. Balarama Dasa — "nabadvīpa-gagane uyala dina rāti…" (PK 2196; GPT1 p. 39, no. 40)
 *Gaura as a rain-cloud: in the sky of Navadvipa a cloud stands day and night, watering all that lives; a downpour of the
 nectar of prema; foul weather has covered the world; the peacock-devotees dance, the frog-non-devotees croak in the water;
 the creeper of bhakti has overspread the three worlds; the lightning of kirtana has burnt the forest of yoga, the thunder
@@ -9517,7 +9515,7 @@ rains in Vraja (Bhag. 10.20), and the poet transfers the images to Gaura's kirta
 [^13-23]: The chataka is a bird that drinks only rainwater — an image of the soul thirsting only for prema. "Rivers" (nadiyā) puns on
 the name Nadia. "The mountain of samsara" — the poet is left "high and dry," not washed by the flood of prema (cf. 7.5).
 
-## 10. Ananta (Raya Ananta?) — "gaura navaghana premadhārā variṣila…" (GPT1 p. 40, no. 44)
+## 10. Ananta (Raya Ananta?) — "gaura nabaghana premadhārā bariṣila…" (GPT1 p. 40, no. 44)
 *Gaura's mercy as husbandry: the young cloud Gaura has rained down prema; the hard soil of evil thoughts is broken by the
 ploughing of bhakti, and prema has sprouted in hearts; Nitai waters the shoot with the water of bhakti, and the tree of prema
 grows day by day, bearing fruit for all. Raga suhai.*[^13-24]
@@ -9540,7 +9538,7 @@ follows the pada of Raya Ananta from KGC (no. 43, chapter 11, no. 3), and the si
 Ananta of Advaita's branch (per M-1961); attribution only by GPT (C). The image of Nityananda watering the shoot of devotion — cf.
 the "tree of prema," CC Adi 9.
 
-## 11. Murari — "śacīra āṅginā mājhe bhuvanamohana sāje…" (GPT1 p. 77, no. 47)
+## 11. Murari — "śacīra āṅginā mājhe bhubanamohana sāje…" (GPT1 p. 77, no. 47)
 *Childhood: in the middle of Shachi's courtyard, enchanting the world, little Gorachand crawls on all fours; holding His
 mother's finger He toddles and falls; a tiger-claw swings at His neck, His chest is wet with dribble, on His moon-face is the
 lightning of a smile; Shachi takes the dusty child to her breast, but He, crying, climbs down and rolls on the ground again;
@@ -9556,10 +9554,10 @@ covered all over with dust — can a mother bear it? — she lifts Him to her br
 Murari, laughing, says: "This is no child for the lap — Gaurahari will become a sannyasi."[^13-26]
 
 [^13-25]: GPT1 — p. 77, section "Childhood plays," no. 47 (pahira), checked against the scan (PDF p. 336); GPT2 — sec. 2.2, no. 47. The pada
-is not in PK, BR, KGC or PS. Catalogue: MU-001; the row MU-006 ("…hāsiyā murāri vole e nahe kolera chele," after Majumdar's reference to
+is not in PK, BR, KGC or PS. Catalogue: MU-001; the row MU-006 ("…hāsiyā murāri bole e nahe kolera chele," after Majumdar's reference to
 GPT1 p. 77) is the same pada (a duplicate). Majumdar considers this pada doubtful: the signature merely names Murari, and he
 ascribes the padas on the Lord's infancy to later imagination. The attribution to Murari Gupta is unproven (C). A tiger-claw
-(vāghanakha) is an amulet on a child's neck.
+(bāghanakha) is an amulet on a child's neck.
 [^13-26]: The first syllable of line 11.3 is cut off in the GPT1 scan ("[kām̐]diyā"), restored by sense and metre. Murari's words foretell
 the sannyasa; in CB (Adi 4–5) the child's future greatness is spoken of by an astrologer and neighbours, while Murari is Nimai's
 senior fellow student (CB, Adi-khanda).
@@ -9704,9 +9702,9 @@ sits down — and His own surround Him on all sides.
 Yadunatha sees them always, being close by.[^13-37]
 
 [^13-35]: GPT1 — p. 349, section "Ashtakaliya" (morning), no. 18 (suhai), checked against the scan (PDF p. 608); GPT2 — sec. 5.1, no. 18. The
-pada is not in BR, KGC or PS; **it is in PK — PK 2512** (vol. 4, 30th pallava "Aṣṭakālīya nitya-līlā," "atha divāyāṃ yathā," raga
+pada is not in BR, KGC or PS; **it is in PK — PK 2512** (vol. 4, 30th pallava "Aṣṭakālīya nitya-līlā," "atha dibāyāṃ yathā," raga
 bibhasa, PDF p. 56, label "॥৩৯॥২৫১২॥"; found in the full PK check of chapter 16 — M-1961's reference is correct; catalogue: YD-003). PK
-reads "herai sakale vayana chānda" ("all look upon the form of His face") and "yadunātha dekhe gadāi pāśa" ("Yadunatha sees it beside
+reads "herai sakale bayana chānda" ("all look upon the form of His face") and "yadunātha dekhe gadāi pāśa" ("Yadunatha sees it beside
 Gadai," that is, Gadadhara); the main text is kept after GPT1, the PK readings are in the full version of the book. The preceding GPT pada (no. 17) is by Ghanashyama, the following (no. 19) by Narahari.
 [^13-36]: Ananga is the god of love; the comparison with his bow is a traditional image of a slender, curving body.
 [^13-37]: The signature seems to speak of the poet as an eyewitness of the Navadvipa plays; on this ground M-1961 considers Yadunatha
@@ -9739,7 +9737,7 @@ unproven (C).
 [^13-39]: Nityananda brought Shachi and the people of Navadvipa to Shantipura, to Advaita, where the Lord was after His sannyasa — CC
 Madhya 3; CB Antya 1. "Behind them all went Murari" — Murari Gupta as a witness (or the poet's signature).
 
-## 18. Yadunatha Dasa — "āsive āmāra gaurāṅgasundara…" (GPT1 p. 412, no. 29)
+## 18. Yadunatha Dasa — "āsibe āmāra gaurāṅgasundara…" (GPT1 p. 412, no. 29)
 *Waiting: my Gaurangasundara will come to Nadia! Seeing Him from afar I shall perform the auspicious rites — set out water-pots
 with mango twigs, plant banana saplings, hang garlands; the women of Nadia will run to see, in every house "Hari, Hari!" will
 resound; His mother will rush to Him, embrace Him, bathe Him in tears and take Him home; Yadunatha, looking on, will fall
@@ -9761,10 +9759,9 @@ bathing His body in her tears, she will quickly lead Him home.
 Yadunatha, looking on, will fall prostrate and take His lotus feet.[^13-41]
 
 [^13-40]: GPT1 — p. 412, no. 29 (turi), checked against the scan (PDF p. 671); GPT2 — no. 29 (OCR, line 44957). The pada is not in
-BR, KGC or PS; **it is in PK — PK 1976** (vol. 3, 12th pallava "Bhāvollāsa," raga turi, PDF pp. 182–183, printed pp. 171–172, label
+BR, KGC or PS; **it is in PK — PK 1976** (vol. 3, 12th pallava "Bhābollāsa," raga turi, PDF pp. 182–183, printed pp. 171–172, label
 "॥৮॥১৯৭৬॥"; found in the full PK check of chapter 16; catalogue: YD-004; M-1961 mentions this pada under Yadunatha's name). The PK
-signature reads "yadunātha yāñā paṛi loṭāiyā" ("Yadunatha, coming, will fall…"; GPT "cāñā," "looking"); the other PK readings are in
-bn/13.md. C. Water-pots with mango twigs
+signature reads "yadunātha yāñā paṛi loṭāiyā" ("Yadunatha, coming, will fall…"; GPT "cāñā," "looking"); the other PK readings are in the full version of the book. C. Water-pots with mango twigs
 (pūrṇakumbha) and banana saplings at the entrance are Bengali rites of welcome.
 [^13-41]: The pada is a dream of the Lord's return (cf. CC Madhya 16: the Lord comes to Gauda and meets His mother at Kuliya). The speaker
 is a devotee of Nadia (perhaps the poet himself); the "women of Nadia" here are townswomen, not "nagaris" in the sense of
@@ -9794,7 +9791,7 @@ and GPT stanzas 19.3 and 19.4 are rearranged by half-lines (the second halves of
 from the catalogue (new row); core (PK, KGC), C.
 [^13-43]: Nityananda is Balarama; Balarama's rasa-lila with the maidens of Vraja — Bhag. 10.65 (Balarama, coming from Dvaraka to Vraja, spent
 two spring months in the rasa-lila with the gopis). The question "why has He become an avadhuta" is poetic wonder, not doubt.
-[^13-44]: According to CC (Adi 5) Nityananda-Balarama is the source of Sankarshana, Maha-Vishnu and Shesha. "Balarama, the unworthy" (valarāma manda)
+[^13-44]: According to CC (Adi 5) Nityananda-Balarama is the source of Sankarshana, Maha-Vishnu and Shesha. "Balarama, the unworthy" (balarāma manda)
 is the poet himself; a play on names: Balarama-Nityananda has saved everyone, while the poet Balarama is left aside.
 
 ## 20. Balarama Dasa — "gajendra-gamane yāya sakaruṇa-diṭhe cāya…" (PK 2298; GPT1 p. 427, no. 44)
@@ -9822,14 +9819,14 @@ now in the dress of one who owns nothing the Lord goes from land to land and sav
 says Balarama Dasa, the wish will be fulfilled: serve, serve the feet of Shripada.[^13-47]
 
 [^13-45]: PK: vol. 3, PDF pp. 302–303 (printed pp. 291–292), 23rd pallava, label "॥৫॥২২৯৮॥", raga mangala, MS P-R-Sa no. 2402. GPT1 — p. 427,
-no. 44 (mangala); GPT2 — sec. 6.1, no. 44. The signature is garbled in the GPT1 OCR; by PK — "valarāma dāse kaya". The pada was missing from the
+no. 44 (mangala); GPT2 — sec. 6.1, no. 44. The signature is garbled in the GPT1 OCR; by PK — "balarāma dāse kaya". The pada was missing from the
 catalogue (new row); core (PK), C.
 [^13-46]: "Unseen accomplishes every task" — Nityananda, playing with His companions, secretly fulfils the Lord's plan (the preaching of the
 Name in Gauda).
 [^13-47]: Shripada is a respectful name for Nityananda. According to CC (Adi 5–6) Nityananda's mercy is the way to the service of Radha and
 Krishna in Vraja.
 
-## 21. Balarama Dasa — "vandiva advaita śire ye ānilā dhīre dhīre…" (PK 2348; GPT1 p. 449, no. 35)
+## 21. Balarama Dasa — "bandiba advaita śire ye ānilā dhīre dhīre…" (PK 2348; GPT1 p. 449, no. 35)
 *Praise of Advaita: I bow to Advaita, who brought Mahaprabhu to the earth — the son of Nanda become the son of Shachi; He saved the
 high and the low by the gift of bhakti; the flood of prema is from Nitai, Advaita its wave, the wind of Chaitanya has raised it to the
 sky: the worlds of the nagas, men and gods have drowned, the flood of prema has filled Goloka — only Balarama has been left out. Raga
@@ -9859,7 +9856,7 @@ scan (PDF pp. 708–709); GPT2 — sec. 6.3, no. 35. In the catalogue (BD-029) i
 [^13-49]: Advaita by His prayers (with Ganga water and tulasi leaves) called the Lord to the earth — CC Adi 3; CB Adi 2. "Slowly" (dhīre dhīre) — by
 long worship.
 
-## 22. Balarama Dasa — "bhāvera āveśe vahu sītāpati mora pahum̐…" (GPT1 p. 450, no. 36)
+## 22. Balarama Dasa — "bhābera ābeśe bahu sītāpati mora pahum̐…" (GPT1 p. 450, no. 36)
 *Advaita announces the advent: absorbed in bhava, the husband of Sita sat in a yogic posture — and suddenly with a thunderous roar He
 sprang up: "I have brought Him, brought Him to the earth! He who will save the world has risen in Nadia!" — and He dances; at His dance
 the earth trembles, men and women dance with the Lord of Shantipura; Advaita's roar has pierced the seven heavens and resounded in the
@@ -9883,7 +9880,7 @@ appearance.
 [^13-51]: Paravyoma is the spiritual sky, Vaikuntha. Advaita, learning of the Lord's appearance, dances in Shantipura — CB Adi 2; CC Adi 13 (on
 the night of the appearance Advaita and Haridasa dance in Shantipura).
 
-## 23. Balarama Dasa — "rūpa sanātana saṅge śrījīva gosāñi…" (GPT1 p. 466, no. 39)
+## 23. Balarama Dasa — "rūpa sanātana saṅge śrījība gosāñi…" (GPT1 p. 466, no. 39)
 *The books of Sri Jiva: together with Rupa and Sanatana, Sri Jiva Gosani wrote countless books on bhakti; for his purification the
 poet names some: *Gopala-virudavali*, *Krishna-pada-chihna*, *Sri Madhava-mahotsava*, *Radha-pada-chihna*, *Gopala-champu*,
 *Rasamrita-shesha*, *Kripambudhi-stava*, *Sapta-sandarbha*, *Sutramalika*, *Dhatu-sangraha*, *Krishnarchana*, *Sankalpa-kalpavriksha*,
@@ -9941,7 +9938,7 @@ eyewitness accounts — apparently another poet. Attribution by GPT (C).
 [^13-55]: "Thakura Sarakara" is Narahari Sarakara of Shrikhanda. Vamshivadana Thakura is the Lord's associate, guardian of Shachi and Vishnupriya
 after the sannyasa (according to tradition). "Dull of mind," "wicked" are the poet's formulas of humility about himself.
 
-## 25. Ramachandra — "prabhura lāgiyā yāva kon deśe…" (GPT1 pp. 492–493, no. 26)
+## 25. Ramachandra — "prabhura lāgiyā yāba kon deśe…" (GPT1 pp. 492–493, no. 26)
 *A prayer of longing: to what land shall I go for the Lord, who will show me the way? Will I have the fortune to see Gauranga's
 feet? Gora is my master, Gora my refuge, Gora my whole wealth; if I do not see Him, I shall give up this wretched life; let my soul,
 becoming a bird, fly to where He is and serve Him; let my body mingle with the dust of His feet. Raga dhanashi.*[^13-56]
@@ -10011,8 +10008,7 @@ Ghosha; the padas of "Gauridasa" are signed by Jagannatha Dasa and Chaitanyadasa
 Gopala Dasa. Four padas (nos. 9, 17, 23, 26) were missing from the catalogue.
 Majumdar considers the GPT unreliable for attribution; the attribution of all the padas of this chapter is therefore provisional
 (C; D only where authenticity itself is in doubt: an added signature, a forgery). The Bengali original, the variants of GPT1/GPT2 and PK,
-and the word-for-word translation are in
-bn/14.md.*
+and the word-for-word translation are in the full version of the book.*
 
 ## 1. Vamshidasa — "jaya re jaya re mora gaurāṅga rāya…" (GPT1 p. 5, no. 8)
 *Mangalacharana: glory to Gauranga, to Nityananda and to Gaura's devotees; the poet asks Sitanatha — Advaita Acharya — to
@@ -10069,7 +10065,7 @@ Pandita; his padas on Gaura in PK were translated in chapters 4 and 10. This pad
 him: the poet gives his life for Gaura. In 2.1 GPT1 has "guṇera nāgara" (a misprint or misreading), GPT2 "guṇera sāgara": the image of an
 ocean with waves requires "sagara."
 
-## 3. Shivananda — "akhila bhuvana bhari hari-rasa-vādara…" (GPT1 p. 35, no. 25)
+## 3. Shivananda — "akhila bhubana bhari hari-rasa-bādara…" (GPT1 p. 35, no. 25)
 *The cloud of Chaitanya: a downpour of Hari's rasa has filled the universe, and the devotees, like chataka birds, drink and ask
 for more; the cloud was born on the full moon of Phalguna and flooded high and low with prema; the holy name became the
 maha-mantra, prema was given out by handfuls, the fallen became bhagavatas, Jagai and Madhai were saved; the poet laments
@@ -10089,7 +10085,7 @@ Says Shivananda-dasa: why have I remained in the forgetfulness of maya? Lord, gi
 
 [^14-5]: GPT1 — p. 35, no. 25 (mangala), checked against the scan (PDF p. 294); GPT2 — sec. 1.3, no. 25. The pada is not in PK, BR, KGC or
 PS. In the catalogue (SS-001) the first line was wrong: "iha kaliyuga dhana nityānanda caitanya" is the preceding GPT pada (no. 24), signed by
-Haridasa; the pada signed "dāsa śivānanda" is no. 25. Whether this is Shivananda Sena, the father of Kavi Karnapura, is unclear (C);
+Haridasa; the pada signed "dāsa śibānanda" is no. 25. Whether this is Shivananda Sena, the father of Kavi Karnapura, is unclear (C);
 Majumdar considers Shivananda Sena the author of padas on the Lord composed in His lifetime.
 [^14-6]: The full moon of Phalguna is the day of the Lord's appearance (1486). "Yantra" and "mantra" — an image from ritual: as a sacred
 diagram and a mantra serve worship, so living beings became the Lord's vessel and Hari's name the great mantra. The sense of the
@@ -10140,7 +10136,7 @@ feeling. "Knot" (loṭana) — hair gathered in a knot; "cām̐cara keśa" — c
 (or kadamba). "Pride is broken" (bhāṅgala māna) — "mana," the beloved's offended pride, melts before Gaura's beauty. PK manuscripts:
 "ka" — "chāla," "uchāla," "araṅga" for "chale," "uchale," "taraṅga"; "kha, gha, cha" — "madana" for "damana" (4.1: "subdues Madana").
 
-## 5. Yadu — "vikaca kanayā-kamala-kām̐ti…" (PK 2460; GPT1 p. 120, no. 28)
+## 5. Yadu — "bikaca kanayā-kamala-kām̐ti…" (PK 2460; GPT1 p. 120, no. 28)
 *Gauranga's form and bhava: the lustre of a full-blown golden lotus, a face like the full moon, teeth like pomegranate seeds,
 lips redder than the bandhuli; He walks intoxicated with an unknown rasa, with the gait of a king of elephants; tears flow from
 His reddish eyes; remembering His former love He weeps, thundering like a new cloud, and calls: "Where is Gadadhara?" Raga
@@ -10171,14 +10167,14 @@ Says Yadu: the Lord is caught in a whirlpool.[^14-14]
 ("tatharaga"); GPT2 — sec. 3.1, no. 28. The pada is not in BR, KGC or PS (catalogue: YD-009); attribution as for the preceding (C).
 [^14-12]: "Shikhara" (śikhara) — in poetics, a ruby the colour of a ripe pomegranate seed; PK manuscripts "ka, kha" and the GPT: "daśana sikara nikara"
 (a row of drops), "cha": "śikara." Bandhuli — a red flower (Pentapetes phoenicea), a common image for lips. "Redder" (āti = ati; "ka, kha": "ati").
-[^14-13]: Chakoras — birds that drink moonlight; Gaura's eyes are a pair of chakoras on the moon of His face. GPT: "āsiyā vase ki cakora jorā" —
+[^14-13]: Chakoras — birds that drink moonlight; Gaura's eyes are a pair of chakoras on the moon of His face. GPT: "āsiyā base ki cakora jorā" —
 "has a pair of chakoras come and settled?"
 [^14-14]: "Former love" — the love of Vrindavana: remembering His lila as Krishna, the Lord calls Gadadhara — the associate in whom the
 tradition sees a manifestation of Radha (*Gaura-ganoddesha-dipika* 147–153). His tears and "thunder" are manifestations of prema,
 not of worldly grief. "Caught in a whirlpool" (ṭhekilā pāke) — in the power of prema, unable to come out of it. PK MSS "ka, kha, cha": "lorā,"
 "jorā"; "gha": "kānde ki."
 
-## 6. Govinda Ghosha — "snāna kari śrīgaurāṅga vasilena divyāsane…" (GPT1 p. 240, no. 9)
+## 6. Govinda Ghosha — "snāna kari śrīgaurāṅga basilena dibyāsane…" (GPT1 p. 240, no. 9)
 *The abhisheka in Srivasa's house: after the bath Gauranga sits on a splendid seat with Nitai and Gadai to His right and left;
 Advaita offers sweets and payasa, Srivasa runs to bring the dishes; Gora eats with Nitai and Gadai, Advaita gives Him tambula,
 Narahari fans Him with a chamara, gazing at the three forms; Advaita places tulasi at His feet, saying "Krishnaya namah." Raga
@@ -10366,12 +10362,12 @@ He remembered Radha's colour — a stream of prema flows over His body.
 Says Vasu Ghosha: a longing to see Rai, full of rasa, seized Him.[^14-28]
 
 [^14-27]: GPT1 — p. 291, section on the Lord's bhava, no. 49 ("dhānaśrī daśakuśī"), checked against the scan (PDF p. 550); GPT2 — the same section, no. 49 (also in the
-GPT2 index of first lines: "gaurīdāsa saṅge kṛṣṇakathāraṅge — vāsu ghoṣa"). The pada is not in PK, BR, KGC or PS (catalogue: VG-166; the first line in
+GPT2 index of first lines: "gaurīdāsa saṅge kṛṣṇakathāraṅge — bāsu ghoṣa"). The pada is not in PK, BR, KGC or PS (catalogue: VG-166; the first line in
 the catalogue, "kata kathā raṅge," is corrected from the scan to "kṛṣṇa kathā raṅge"). GPT only (C). Before it in the GPT stand padas of Radhamohana
 Dasa (nos. 43–44) on the same theme: Gaura with Gauridasa, whom He calls Subala.
 [^14-28]: Gauridasa Pandita in Krishna's lila is the cowherd Subala, Krishna's intimate friend and helper in His meetings with Radha
 (*Gaura-ganoddesha-dipika* 128). The golden champaka garland reminds the Lord of golden Radha; here Gaura is in the bhava of Krishna
-longing for Radha — this is the prema of Vraja, not a worldly feeling. "Listen" — the text has "prabhu kahe vāsa, śuna gaurīdāsa": the word "vāsa"
+longing for Radha — this is the prema of Vraja, not a worldly feeling. "Listen" — the text has "prabhu kahe bāsa, śuna gaurīdāsa": the word "bāsa"
 is unclear (by the rhyme, a form of address; possibly a corruption).
 
 ## 13. Vasu Ghosha — "gaurīdāsa kari saṅge ānandita tanu raṅge…" (GPT1 p. 292, no. 50)
@@ -10394,12 +10390,12 @@ KGC or PS (catalogue: VG-167). GPT only (C).
 bhava, an expression of the utmost intensity of prema, not of worldly grief (cf. CC Antya 14–20). Gauridasa is Subala (see above), the
 confidant of the secrets of Radha and Krishna; therefore it is to him that the Lord almost discloses His torment.
 
-## 14. Vasu Ghosha — "vṛndāvanera bhāve gorā phirāya pām̐cani…" (GPT1 p. 330, no. 28)
-*Goshtha-bhava in Navadvipa: in the bhava of Vrindavana Gora twirls a herding stick and calls the cows, "Ava, ava!"; Shachi is called to
+## 14. Vasu Ghosha — "bṛndābanera bhābe gorā phirāya pām̐cani…" (GPT1 p. 330, no. 28)
+*Goshtha-bhava in Navadvipa: in the bhava of Vrindavana Gora twirls a herding stick and calls the cows, "Ava, aba!"; Shachi is called to
 come and see Gora going to the forest to tend the cows; Srivasa's wife runs, and the poet after her. Raga dhanashi.*[^14-31]
 
 **14.1.** In the bhava of Vrindavana Gora twirls the herding stick;
-"Ava, ava!" calls Gora, the jewel of virtues.
+"Ava, aba!" calls Gora, the jewel of virtues.
 
 **14.2.** Gorachand is absorbed in that bhava:
 the bhava of Vrindavana has taken hold of Gora.
@@ -10413,7 +10409,7 @@ says Vasudeva Ghosha: I had to go too.[^14-32]
 [^14-31]: GPT1 — p. 330, section of the year's festivals (goshtha-yatra), no. 28 (dhanashi), checked against the scan (PDF p. 589); GPT2 — sec. 5.1,
 no. 28. The pada is not in PK, BR, KGC or PS (catalogue: VG-170). GPT only (C). Gaura's goshtha-lila in Navadvipa is also described by Vasu
 Ghosha in BR (p. 935) and PK 1186, 1353 (chapter 1).
-[^14-32]: "Herding stick" (pām̐cani) — the stick for driving cows; "ava, ava" — the cowherds' call. Srivasa's wife is Malini, the Lord's nurse.
+[^14-32]: "Herding stick" (pām̐cani) — the stick for driving cows; "aba, aba" — the cowherds' call. Srivasa's wife is Malini, the Lord's nurse.
 
 ## 15. Vamshidasa — "śrīnandanandana śacīra dulāla cale goṭhe pāya pāya…" (GPT1 pp. 330–331, no. 30)
 *Goshtha-lila in Navadvipa: Nanda's son, become Shachi's darling, goes to the pasture, Nityananda, Rohini's son, running ahead; Abhirama —
@@ -10429,12 +10425,12 @@ Subala — Gauridasa Pandita — came and quickly joined the band.[^14-34]
 **15.3.** Navadvipa today has become Gokula, as at the end of the Dvapara-yuga;
 all the associates took up herding sticks, putting on the dress of cowherd boys.
 
-**15.4.** Cries of "Ava, ava!" filled the sky — the gods look and laugh;
+**15.4.** Cries of "Ava, aba!" filled the sky — the gods look and laugh;
 together with them all to the pasture went this wretched Vamshidasa.
 
 [^14-33]: GPT1 — pp. 330–331, no. 30 (lalita), checked against the scan (PDF pp. 589–590); GPT2 — sec. 5.1, no. 30. The pada is not in PK, BR, KGC or
 PS. In the catalogue (VV-007) the preceding GPT pada (no. 29, "abhirāma ḍāke dvārete…") was listed under Vamshi, but it is unsigned (it ends with
-the words "vāsu yāya niyā chātā" — "Vasu carries the umbrella"), does not belong to Vamshi and is not translated; the pada signed "vaṃśīdāsa" is
+the words "bāsu yāya niyā chātā" — "Vasu carries the umbrella"), does not belong to Vamshi and is not translated; the pada signed "baṃśīdāsa" is
 no. 30. Attribution by GPT (C). Cf. Vamshivadana's goshtha-pada PK 2564 (chapter 1, no. 12).
 [^14-34]: According to the *Gaura-ganoddesha-dipika*, Abhirama Thakura is Shridama and Gauridasa Pandita is Subala, Krishna's cowherd friends;
 Nityananda is Balarama, Rohini's son. Vamshivadana himself, according to the GGD, is Krishna's flute.
@@ -10462,7 +10458,7 @@ says humble Krishnadasa, floating in bliss.
 [^14-35]: GPT1 — pp. 339–340, section of the year's festivals (dola, phagu), no. 59 (basanta, ekatali), checked against the scan (PDF pp. 598–599);
 GPT2 — sec. 5.1, no. 59. The pada is not in BR, KGC or PS (catalogue: KR-004); on PK see below. Signature "dīna kṛṣṇadāsa" — attribution by GPT (C). The next
 GPT pada (no. 60) is also signed by Krishnadasa (no. 17); no. 61 is Shivananda's (BR, chapter 5).
-Full PK check (chapter 16): the pada is also in PK — **PK 1464** (vol. 2, PDF p. 413, label "॥৪০॥১৪৬৪॥", raga vasanta, MS P-R-Sa no. 2017; PK: "khelata phāgu gorā dvija-rāja / gadādhara narahari dom̐hāra samāja… dīna kṛṣṇadāse kahe ānande bhāsiyā").
+Full PK check (chapter 16): the pada is also in PK — **PK 1464** (vol. 2, PDF p. 413, label "॥৪০॥১৪৬৪॥", raga basanta, MS P-R-Sa no. 2017; PK: "khelata phāgu gorā dvija-rāja / gadādhara narahari dom̐hāra samāja… dīna kṛṣṇadāse kahe ānande bhāsiyā").
 [^14-36]: Playful abuse (gāli) is a custom of the Holi festival. The poet brings together associates of Navadvipa and of Puri (Sarvabhauma,
 Ramananda and Svarupa were with the Lord only in Nilachala); historically this is not a single scene but a song-image of the Lord's
 festival with His associates.
@@ -10546,7 +10542,7 @@ why did I not die before everyone?[^14-42]
 
 [^14-41]: GPT1 — p. 385, section of the lament after the sannyasa, no. 6 (dhanashi), checked against the scan (PDF p. 644); GPT2 — sec. 5.4, no. 6. The
 pada is not in PK, BR, KGC or PS. In the catalogue it was listed under Vamshi (VV-008): in the GPT2 OCR (because of the two-column layout) the last
-line of another pada — "…śāśuṛī vadhūra rodana śuniyā, vaṃśī gaṛāgaṛi yāya" (the end of Vamshi's PK 1855, GPT1 pp. 385–386, no. 9; chapter 1) — landed
+line of another pada — "…śāśuṛī badhūra rodana śuniyā, baṃśī gaṛāgaṛi yāya" (the end of Vamshi's PK 1855, GPT1 pp. 385–386, no. 9; chapter 1) — landed
 next to it. The pada itself is signed by **Vasu Ghosha** (new row VG-173). GPT only (C).
 [^14-42]: "Gone" — the Lord has left Navadvipa, having taken sannyasa (1510); there is no question of death. "Why did I not die" is the usual formula
 of laments, for a devotee to whom separation from the Lord is harder than death.
@@ -10601,7 +10597,7 @@ no. 3 ("maṅgala-kandarpatāla"), scan PDF p. 581; GPT2 — sec. 5.1, no. 3. In
 fourteen mridangas, eight sattvika-bhavas); attribution as for the preceding (C).
 [^14-46]: The eight sattvika-bhavas — stupefaction, perspiration, horripilation, faltering of the voice, trembling, change of colour, tears, fainting
 (CC Madhya 13). Sumeru — the golden mountain: an image of the Lord's golden body.
-[^14-47]: The second line of this stanza ("ānanda vismaya mana…") is not in PK — the stanza is incomplete there; it is given from GPT1. "Amazed and joyful" —
+[^14-47]: The second line of this stanza ("ānanda bismaya mana…") is not in PK — the stanza is incomplete there; it is given from GPT1. "Amazed and joyful" —
 according to CC Madhya 13, Jagannatha, seeing the Lord's dance, rejoices and slows the chariot; here it apparently refers to Jagannatha watching
 the kirtana.
 
@@ -10658,7 +10654,7 @@ doubt (D).
 "uttama madhyama"; P-R-Sa in 23.1: "caitanya nitāi re dona bhāi saṅge pariṣada nāce re" ("with the brothers the associates dance").
 [^14-53]: According to CC Madhya 13 the Lord, dancing among the seven groups, appeared in all of them at once, and each group thought He was with it.
 
-## 24. "Ramananda" — "ohe nitāi nīlācala nā chāṛiva āra…" (GPT1 p. 405, no. 13)
+## 24. "Ramananda" — "ohe nitāi nīlācala nā chāṛiba āra…" (GPT1 p. 405, no. 13)
 *The Lord tells Nityananda that He will not leave Nilachala again: Haridasa has wound up his lila, Advaita, Srinivasa, Puri, Damodara,
 Vishvarupa and Krishnadasa are gone; He bids Nitai live as a householder — go to the Pandita, who will give Him two daughters — and be merciful
 to the fallen; Gauda is His own abode. Holding Nitai's hand, the Lord weeps, repeating "Hari, Hari." Raga dhanashi.*[^14-54]
@@ -10695,7 +10691,7 @@ Lord's command for the sake of preaching; Nityananda, Balarama, is not subject t
 [^14-57]: "That land" (seha) — apparently Gauda, the land of Nityananda's preaching. "Balarama" — an address to Nityananda (He is Balarama). The signature
 "Ramananda": according to Majumdar, neither Ramananda Raya nor Ramananda Vasu is the author of this pada.
 
-## 25. Vasu Ghosha — "aruṇa-vasane vividha bhūṣaṇe śirete pāga laṭapaṭiyā…" (GPT1 p. 423, no. 30)
+## 25. Vasu Ghosha — "aruṇa-basane bibidha bhūṣaṇe śirete pāga laṭapaṭiyā…" (GPT1 p. 423, no. 30)
 *Nityananda's dance: in red garments and ornaments, His turban slipping askew, He whirls, arms raised, crying "Hari, Hari!"; His gait is that of a
 maddened elephant, His ankle-bells ring; in bhava, heedless of the quarters, He roars: "Gaura!"; the devotees roll on the ground, gazing at His
 moonlike face. Raga bala-suhai.*[^14-58]
@@ -10712,9 +10708,9 @@ overcome by bhava, heedless of the quarters, He roars: "Gaura!"
 **25.4.** All the devotees roll on the ground, gazing at that moonlike face;
 Vasudeva Ghosha, wretched, deprived, begs the Giver for the rasa of prema.[^14-59]
 
-[^14-58]: GPT1 — p. 423, section on Nityananda, no. 30 ("vālā suhai"), checked against the scan (PDF p. 682); GPT2 — sec. 6.1, no. 30. The pada is not in PK,
-BR, KGC or PS (catalogue: VG-171). GPT only (C). The GPT1 footnotes give variants from an unnamed source: "vidita bhuvane" ("known to the world") for
-"vividha bhūṣaṇe," "sundara" for "raṅgiyā," and a different last line — "vasu rāmānande, kām̐de nirānande, nitāi caraṇa dhariyā" ("Vasu Ramananda weeps in sorrow,
+[^14-58]: GPT1 — p. 423, section on Nityananda, no. 30 ("bālā suhai"), checked against the scan (PDF p. 682); GPT2 — sec. 6.1, no. 30. The pada is not in PK,
+BR, KGC or PS (catalogue: VG-171). GPT only (C). The GPT1 footnotes give variants from an unnamed source: "bidita bhubane" ("known to the world") for
+"bibidha bhūṣaṇe," "sundara" for "raṅgiyā," and a different last line — "basu rāmānande, kām̐de nirānande, nitāi caraṇa dhariyā" ("Vasu Ramananda weeps in sorrow,
 clasping Nitai's feet"): there the pada is signed by Vasu Ramananda.
 [^14-59]: "The Giver" (dāniyā) — Nityananda, the giver of prema. The turban (pāga) and red garments are the appearance of Nityananda the avadhuta in
 Gauda (CB Antya 5).
@@ -10769,9 +10765,9 @@ give this wretched servant a place at Your feet.
 KGC or PS (catalogue: KD-004). Signature "kānu dāsa" — Kanu Thakura (Kanurama Dasa), son of Purushottama Dasa, associate of Jahnava (cf. PK 2327,
 chapter 5); attribution by GPT (C).
 [^14-63]: "Nagara" (nitāi nāgara) — here an epithet, "lovely, elegant," usual in praise of Nitai, not the motif of nagari-bhava. "Beyond the reach of the Vedic
-injunctions" (vedavidhi-agocara) — the prema of Vraja is above the rules of Vedic dharma (CC Adi 4).
+injunctions" (bedabidhi-agocara) — the prema of Vraja is above the rules of Vedic dharma (CC Adi 4).
 
-## 28. Kanu Dasa — "vidyānagarādhipa apāra sampadaśālī…" (GPT1 pp. 454–455, no. 9)
+## 28. Kanu Dasa — "bidyānagarādhipa apāra sampadaśālī…" (GPT1 pp. 454–455, no. 9)
 *Praise of Ramananda Raya: the ruler of Vidyanagara, owner of boundless wealth, received Gauranga in his house and gave Him the bee of his mind;
 glory to Ramananda, with whom the Lord tasted boundless bliss; in a dialogue of questions and answers they established the goal and the path of the
 living being; his padas of rasa are like a full-blown red lotus, the life of the rasikas; the poet begs for Ramananda's feet. Raga kamoda.*[^14-64]
@@ -10789,7 +10785,7 @@ his padas of rasa are like a full-blown red lotus: the life of those who know ra
 Kanu Dasa, poor in wit, poor in madhura-rasa: Rama Raya, give me your holy feet!
 
 [^14-64]: GPT1 — pp. 454–455, section on the associates, no. 9 (kamoda), checked against the scan (PDF pp. 713–714); GPT2 — sec. 6.3, no. 9 (in the GPT2 index:
-"vidyānagarādhipa — kānudāsa"). The pada is not in PK, BR, KGC or PS (catalogue: KD-005). Signature "kānudāsa"; attribution by GPT (C).
+"bidyānagarādhipa — kānudāsa"). The pada is not in PK, BR, KGC or PS (catalogue: KD-005). Signature "kānudāsa"; attribution by GPT (C).
 [^14-65]: The Lord's conversation with Ramananda Raya on the Godavari — CC Madhya 8 (the Lord's questions and Ramananda's answers on sadhya and sadhana — the
 goal and the path). The GPT1 print has "svādhyāya nirṇaya" ("established [the meaning of] the study of scripture"); by sense one would expect "sādhyera
 nirṇaya" ("established the goal"). Ramananda's padas are his verses on rasa (including the drama *Jagannatha-vallabha*, whose songs the Lord heard in
@@ -10844,7 +10840,7 @@ the poet denounces.
 [^15-4]: Jagai and Madhai — CB Madhya 13; CC Adi 17. "Brahmanas and yavanas embraced": the Lord accepted all without distinction of caste —
 thus Haridasa Thakura, born in a Muslim family, was one of His closest associates (CB Adi 16); the Kazi became His devotee (CC Adi 17).
 
-## 2. Krishnadasa — "śāntipurera vuṛāmālī…" (GPT1 pp. 14–15, no. 36)
+## 2. Krishnadasa — "śāntipurera buṛāmālī…" (GPT1 pp. 14–15, no. 36)
 *An allegory of the tree of Chaitanya: the old gardener of Shantipur (Advaita) brought a seedling from the garden of Vaikuntha and gave
 it to the gardener Nitai; in Nadia grew the tree of Chaitanya and bore two fruits — the Name and prema; Nitai gives them out to all,
 down to chandalas and yavanas, whether they wish it or not; the poet laments that he did not see that tree and did not know the
@@ -10901,7 +10897,7 @@ by the good fortune of the living beings He will surely appear.
 
 [^15-8]: GPT1 — p. 448, section on Advaita, no. 32 (dhanashi), scan PDF pp. 707–708; GPT2 — sec. 6.2, no. 32. The pada is not in PK, BR, KGC
 or PS; it was missing from the catalogue (new row KD-012). Signature "Kanu" (kānu); Kanu Thakura, the son of Purushottama, is a poet of
-the next generation, and the language of the pada (sādhanā viphala, pāpabhārākrānta) is New Bengali: the pada is probably late; C.
+the next generation, and the language of the pada (sādhanā biphala, pāpabhārākrānta) is New Bengali: the pada is probably late; C.
 Kamalaksha is Advaita's childhood name.
 [^15-9]: Advaita Acharya is Maha-Vishnu Himself; He appeared before the Lord in order to call Him down (CC Adi 3, 6; CB Adi 2). His "despair"
 is not ignorance but compassion for the living beings and longing for the Lord's appearance, expressed in lila. The conversation of
@@ -10967,7 +10963,7 @@ said that at the hour of His birth Advaita Acharya in Shantipur and Haridasa Tha
 and tulasi, by which He called Krishna down, — CC Adi 3. "I have brought" — Advaita called the Lord to earth; cf. the same words in the
 pada on the abhisheka (chapter 14, no. 7). Nara (nāṛā) is Advaita.
 [^15-12]: GPT1 — p. 330, section on goshtha-bhava, no. 29 (lalita), checked against the scan (PDF p. 589); GPT2 — sec. 5.1, no. 29. The pada is not
-in PK, BR, KGC or PS. In the catalogue (VV-007) the pada was listed as "unsigned," but the last line names Vasu (vāsu yāya niyā chātā) —
+in PK, BR, KGC or PS. In the catalogue (VV-007) the pada was listed as "unsigned," but the last line names Vasu (bāsu yāya niyā chātā) —
 thus the poet often brings himself into the lila as a participant; new row VG-174. The colloquial language (halo, yeye, śune) points to a
 late origin; C. Cf. other padas on Gaura's goshtha-bhava in Navadvipa: chapter 1, nos. 11–12; chapter 14, nos. 14–15.
 [^15-13]: Abhirama Thakura (Ramadasa) is an associate of Nityananda, one of the twelve gopalas; the tradition sees in him Shridama, Krishna's
@@ -10983,7 +10979,7 @@ Madana (Kamadeva) is an image of beauty; Krishna is Madana-mohana, "He who encha
 the god of love is powerless, not worldly attraction. GPT1 has "sudhāya garala janu" ("as if poison in nectar") — apparently a misprint for
 "gaṛala" ("moulded"). "Gives as a ransom" (nichiye) — a rite that averts misfortune from the beloved (cf. chapter 14, no. 2).
 
-## 7. Nayanananda (?) — "nāce re bhāli gaurakiśora vara-raṅgiyā…" (PK 2083 unsigned; GPT1 p. 284, no. 23)
+## 7. Nayanananda (?) — "nāce re bhāli gaurakiśora bara-raṅgiyā…" (PK 2083 unsigned; GPT1 p. 284, no. 23)
 *A dance in Radha's bhava: young Gaura dances, His golden body quivering with prema; remembering Vrindavana, Govardhana and the bank of
 the Yamuna, He falls and cries: "The flute!"; in Radha's bhava He takes on Radha's colour and repeats "Radha, Radha!" — and Gadadhara,
 understanding the hint, smilingly takes his place at His left. Raga turi.*[^15-16]
@@ -10997,7 +10993,7 @@ The beautiful body of Gaura, shining like gold, quivers under the weight of prem
 **7.3.** In the bhava of Sri Radha, Gora took on the colour of Radha; from His lips — "Radha, Radha!";
 understanding the hint, His dear Gadadhara playfully took his place at the left.[^15-17]
 
-## 8. Yadu — "gorā mora vaṛai raṅgiyā…" (PK 2101; BR pp. 925–926; GPT1 p. 257, no. 30)
+## 8. Yadu — "gorā mora baṛai raṅgiyā…" (PK 2101; BR pp. 925–926; GPT1 p. 257, no. 30)
 *Kirtana on the bank of the Suradhuni: Gaura dances in the midst of His associates — Gadadhara and Narahari on either side, and Srivasa,
 Haridasa, Mukunda, Murari, Vasu, Ramai, Damodara and Jagadisha singing; "Hari! Hari!" is heard on all sides; seeing the moon of His
 face, one forgets all torments. Raga suhini.*[^15-18]
@@ -11020,7 +11016,7 @@ the ocean of prema has risen in waves of nectar.
 **8.6.** Seeing the moon of His face, one is freed of all torments.
 Says Yadu: who could forget such beauty?
 
-## 9. Ramananda — "drāṃ drimiki drimi mādala vājata…" (GPT1 p. 335, no. 45)
+## 9. Ramananda — "drāṃ drimiki drimi mādala bājata…" (GPT1 p. 335, no. 45)
 *The Lord's dance in kirtana: the madala thunders, Srivasa and all the associates sing; His arms reach to His knees, His body is as of
 gold, in red garments He shines like the morning sun; now He trembles, now His hair stands on end, now, raising His arms, He cries
 "Hari! Hari!", cherishing His former prema; with Him are Nityananda, Advaita and the associates; at this play even a diamond softens.
@@ -11059,7 +11055,7 @@ Pandita; Jagadisha — Jagadisha Pandita. The night kirtanas of Navadvipa — CB
 [^15-20]: GPT1 — p. 335, section "rasa and maharasa," no. 45 (gandhara), scan PDF p. 594; GPT2 — sec. 5.1, no. 45. The pada is not in PK, BR, KGC or
 PS; it was missing from the catalogue (new row RM-017). Signature "Ramananda" without "Vasu": Vasu Ramananda or the later Ramananda
 Dasa (see the catalogue) — not established; C. The kirtanas in Srivasa's house — CB Madhya 8.
-[^15-21]: "The dance of the whole universe" (akhila bhuvanaka nāca) — possibly "a dance in which the whole universe is drawn." "Former prema" — the
+[^15-21]: "The dance of the whole universe" (akhila bhubanaka nāca) — possibly "a dance in which the whole universe is drawn." "Former prema" — the
 prema of Vrindavana, of Krishna's lila. The avadhuta moon is Nityananda. "A diamond (vajra) softens, wood melts" — even the hardest
 hearts melt. "Like the morning sun": GPT1 has "pātara" (= prātara, "morning").
 
@@ -11129,7 +11125,7 @@ pada is not in PK, BR, KGC or PS; it was missing from the catalogue (new row VG-
 Him songs in keeping with His bhava (CC Madhya 10; Antya 14–19); the "Yamuna" is apparently the sea or a river in Puri which the Lord in
 His bhava takes for the Yamuna (cf. CC Antya 18). Majumdar doubts that GPT padas in which Svarupa is with the Lord belong to Vasu (see
 chapter 12, no. 28); GPT only; C.
-[^15-25]: The mana-lila is the play of Radha's offended pride (mana), the highest manifestation of Her love for Krishna. "The Loving One" (bhāvinī)
+[^15-25]: The mana-lila is the play of Radha's offended pride (mana), the highest manifestation of Her love for Krishna. "The Loving One" (bhābinī)
 is Radha. Radha's bhava is pure prema, not a worldly feeling; the Lord tastes it in order to know Radha's love (CC Adi 4). Radha-kunda is
 Radha's pond near Govardhana.
 [^15-26]: GPT1 — p. 306, section on Radha's moods (vasaka-sajja, vipralabdha), no. 24 (suhai), checked against the scan (PDF p. 565); GPT2 — sec. 4.5,
@@ -11139,7 +11135,7 @@ dhari…") was translated in chapter 12 (no. 28). GPT only; C.
 Radha's friend Lalita). Kala-chand, "the dark moon," is Krishna; a kunja is a bower in Vrindavana. The Lord's bhavas in Puri in Svarupa's
 company — CC Antya 14–19.
 
-## 13. Chaitanyadasa — "ki valiva vidhātāre e dukha sahāya…" (PK 1867; GPT1 p. 281, no. 12)
+## 13. Chaitanyadasa — "ki baliba bidhātāre e dukha sahāya…" (PK 1867; GPT1 p. 281, no. 12)
 *The divine madness of prema (divyonmada): the poet does not know what to say to the Creator — seeing Gora's face, how can one still
 live? The Lord sits with faded face, tears pour like the heavenly Ganga onto the peak of Sumeru; now He rubs His face and head, now He
 leaps up and runs, now He falls senseless; His breath stops — all weep. Raga suhini.*[^15-28]
@@ -11187,7 +11183,7 @@ with the rays of the name "Hare Krishna" He destroys all the darkness of bad des
 **15.4.** Around Him are His merry companions, like a host of stars: night and day this moon shines.
 Hoping for the feet, tender as young shoots, of Sri Jahnava-vallabha, speaks Sri Kanu Dasa.[^15-34]
 
-[^15-28]: PK — vol. 3, 10th pallava ("nānāvidha viraha"), at the beginning of the cycle "atha divyonmādasya daśa daśāḥ | tatra śrīgauracandraḥ" (a
+[^15-28]: PK — vol. 3, 10th pallava ("nānābidha biraha"), at the beginning of the cycle "atha dibyonmādasya daśa daśāḥ | tatra śrīgauracandraḥ" (a
 gaura-chandrika to the ten states of Radha in divine madness), mark "॥১৬॥১৮৬৭॥," raga suhini, checked against the scan (PDF p. 135, printed
 p. 124); GPT1 — p. 281, section on bhavavesha, no. 12 (suhini), scan PDF p. 540; GPT2 — sec. 4.3, no. 12. The pada is not in BR, KGC or PS; it was
 missing from the catalogue (new row CD-008). Chaitanyadasa, according to Majumdar, is probably a contemporary of the branch of Gadadhara
@@ -11195,9 +11191,9 @@ missing from the catalogue (new row CD-008). Chaitanyadasa, according to Majumda
 [^15-29]: The Lord's state is the divine madness of prema in separation from Krishna, not a worldly illness or grief: He rubs His face against
 the walls of the Gambhira (CC Antya 19); in the deepest swoon of prema His breath stops (cf. CC Antya 14, 17). "Why does life not leave me"
 is the sorrow of a devotee who sees the Lord's suffering in separation. The heavenly Ganga (Mandakini) flowing down the golden mountain
-Sumeru is an image of the tears streaming down Gaura's golden body. PK MSS: "uṭhe" — kha; "duravale" — cha; "bhome" — cha.
+Sumeru is an image of the tears streaming down Gaura's golden body. PK MSS: "uṭhe" — kha; "durabale" — cha; "bhome" — cha.
 [^15-30]: GPT1 — p. 424, section on Nityananda, no. 32 (sindhura), checked against the scan (PDF p. 683); GPT2 — sec. 6.1, no. 32. The pada is not in
-PK, BR, KGC or PS; it was missing from the catalogue (new row VG-178). Colloquial words (vāichāli — boat race, hāvuḍuvu khāya — "flounders,
+PK, BR, KGC or PS; it was missing from the catalogue (new row VG-178). Colloquial words (bāichāli — boat race, hābuḍubu khāya — "flounders,
 gulping water") point to a late origin; C. Nityananda's preaching in Gauda — CB Antya 5–6.
 [^15-31]: The flood of prema that inundated the world is an image from CC Adi 7: Advaita called the Lord down, Nityananda spread prema all over
 Gauda. Nadia (Navadvipa) is the Lord's place, Shantipur Advaita's. "Flounders" — the poet's humility: he cannot swim in this flood.
@@ -11206,7 +11202,7 @@ is not in PK, BR, KGC or PS (catalogue: KD-011). Kanu Thakura, the son of Purush
 the signature "Sri Jahnava-vallabha" (Jahnava's husband, Nityananda) fits him; but the pada is known only from GPT; C.
 [^15-33]: GPT1 and GPT2 have "bhujayuga" ("pair of arms"), apparently a misprint for "bhuruyuga" ("pair of brows"): "bees over the lotuses of face and
 eyes" is the usual image of brows. "A string of pearls": GPT1 "motikala," GPT2 "motiphala" ("pearl").
-[^15-34]: GPT2: "avadhūta cām̐da" ("the avadhuta moon") for "adabhuta cām̐da" ("wondrous moon"), 15.1. "Hare Krishna" is the maha-mantra which Nityananda,
+[^15-34]: GPT2: "abadhūta cām̐da" ("the avadhuta moon") for "adabhuta cām̐da" ("wondrous moon"), 15.1. "Hare Krishna" is the maha-mantra which Nityananda,
 at the Lord's command, gave to everyone (CB Madhya 13).
 
 ---
@@ -11219,13 +11215,13 @@ gaura-padas turned out to be unknown to the catalogue and to translations 01–1
 here, the third (PK 703) is in nagari-bhava and is deferred to the section of nagari-padas. The other results of the check are PK
 numbers for padas previously known only from the *Gaura-pada-tarangini* (GPT), the *Bhakti-ratnakara* or the
 *Kshanada-gita-chintamani* and already translated (YD-003 = PK 2512, YD-004 = PK 1976, AN-007 = PK 2328, AN-008 = PK 2337, BD-028 =
-PK 2301, BD-041 = PK 635, KR-004 = PK 1464, VG-151 = PK 2668), and a correction: Balarama's pada "sava avatāra sāra…" (chapter 13,
+PK 2301, BD-041 = PK 635, KR-004 = PK 1464, VG-151 = PK 2668), and a correction: Balarama's pada "saba abatāra sāra…" (chapter 13,
 no. 8) is PK 2201, bearing his signature in PK itself, not Lochana Dasa's pada PK 2203; the notes of those chapters have been
 supplemented. Both padas of this chapter stand in the 20th pallava of PK ("Sri Gaurachandra — other descriptions") and are also in
 GPT1 (p. 37, nos. 33–34): praise of the Gaura-avatara, before whom all living beings weep, and the love of Gaura and Gadadhara. The
 text follows PK with the GPT variants; the Bengali original and the word-for-word translation are in the full version of the book.*
 
-## 1. Yadu — "jalera jīva kānde dekhiyā prativimba…" (PK 2209; GPT1 p. 37, no. 34)
+## 1. Yadu — "jalera jība kānde dekhiyā pratibimba…" (PK 2209; GPT1 p. 37, no. 34)
 *Praise of the Gaura-avatara: at the sight of Gorachand all living beings weep — the creatures of the water seeing His reflection,
 the beasts and birds in the forests; trees thrill, stones melt, the blind weep aloud hearing of Him, the wives of noble families
 weep, the deaf and the helpless, infants leaving the breast; there will be no such incarnation again — He saved all, only the poet
@@ -11271,7 +11267,7 @@ checks of GPT1 signatures missed it because the signature "yadu" is garbled in t
 Madhya 17: in the forests of Jharikhanda beasts and birds danced and chanted the name together with the Lord). The wives of noble
 families here are among all living beings: this is not the motif of townswomen captivated by Gaura's beauty (nagari-bhava) but a
 picture of universal prema; cf. the wives of noble families dancing in sankirtana in Balarama's pada (PK 2207, chapter 10, no. 2).
-"The helpless" (jaṛa) — the dull, unable to move or understand; MS P-R: "the dumb and the deaf" (mūka vadhira).
+"The helpless" (jaṛa) — the dull, unable to move or understand; MS P-R: "the dumb and the deaf" (mūka badhira).
 [^16-3]: "The inanimate and the animate" (jaṛa ajaṛa) — the unmoving (the trees and stones of 1.1) and the moving: the Lord's mercy embraces all
 that exists. "Only Yadu was left out" is the usual formula of humility in signatures (cf. Balarama in PK 2201 and 2207, chapters 13 and
 10): the poet speaks of himself. MS P-R-Sa: "the fallen, the foolish people" (jana for jaṛa) and "the Deliverer" (uddhāraṇa for uddhārila).
@@ -11279,15 +11275,15 @@ that exists. "Only Yadu was left out" is the usual formula of humility in signat
 pp. 250–251); GPT1 — p. 37, section of praise of the Gaura-avatara, no. 33 (kedara), checked against the scan (PDF p. 296); GPT2 — sec.
 1.3, no. 33 (pp. 25–26). The pada is not in BR, KGC or PS; it was missing from the catalogue (new row YD-018) — found in the full check of
 PK. In PK it immediately follows Nayanananda's pada on Gaura and Gadadhara (PK 2181) and stands one after Yadunatha's pada
-"gaura-varaṇa tanu…" (PK 2180, chapter 13, no. 6), with which it shares theme and phrasing. The signature "yadu" is the same poet as in
+"gaura-baraṇa tanu…" (PK 2180, chapter 13, no. 6), with which it shares theme and phrasing. The signature "yadu" is the same poet as in
 no. 1 (see note 1); C.
 [^16-5]: Gadadhara Pandita, according to Kavi Karnapura's *Gaura-ganoddesha-dipika* (vv. 147–153), is Sri Radha appearing in the Lord's
 lila; his whole life is service to Gaura. The intimacy of Gaura and Gadadhara is the Lord's lila with the embodiment of His internal
 energy: it is pure prema with nothing mundane in it, and therefore the poet sees in them "prema itself that has taken two forms" (2.4).
 The worship of Gaura together with Gadadhara (Gaura-Gadadhara) is accepted in Gadadhara's line; the pada has nothing to do with
 "gaura-nagari" (Gaura as the nagara among the women of Nadia).
-[^16-6]: GPT1 and GPT2 read in the refrain (2.2) "who, immersed [in it], will obtain it" (majiyā pāova seha) instead of "will reach the bottom"
-(nimajiyā pāova theha PK). "Find a limit" (pāova pāra) — "reach the shore": admiration, not complaint; cf. the humble signature of the same poet in
+[^16-6]: GPT1 and GPT2 read in the refrain (2.2) "who, immersed [in it], will obtain it" (majiyā pāoba seha) instead of "will reach the bottom"
+(nimajiyā pāoba theha PK). "Find a limit" (pāoba pāra) — "reach the shore": admiration, not complaint; cf. the humble signature of the same poet in
 no. 1.
 
 ---
@@ -11339,7 +11335,7 @@ the BR), bhavavesha — the Lord in the mood of Shiva and in the mood of Krishna
 base text is GPT1 (tesseract recognition, doubtful places by the IA scan in.ernet.dli.2015.477854) collated with GPT2 and
 the BR (eds. 1912 and 1960); variants are in the full version of the book. All the padas were also checked against Narahari Chakravarti's Gita-chandrodaya — none of them is there. The notes of the GPT editors are not reproduced.*
 
-## 1. Narahari — "gaura-līlā daraśane icchā vaṛa haya mane…" (GPT1 p. 11, no. 27)
+## 1. Narahari — "gaura-līlā daraśane icchā baṛa haya mane…" (GPT1 p. 11, no. 27)
 *Mangalacharana: the poet, seeing Gaura-lila, wishes to write it down in his own tongue but does not know how; the one who will
 write a book of it is not yet born; the lila of Gaura and Gadadhara, which melts stone, cannot be described even by Sarasvati
 and Shiva — may at least the poet's few songs help someone to reveal the Lord's lila. Raga pahida. **Attribution: probably
@@ -11358,7 +11354,7 @@ Even if Sharada were to write ceaselessly, without end, and five-faced Sadashiva
 **1.4.** If, seeing the few songs I write, someone reveals to the world the Lord's lila —
 Narahari will find happiness, the grief of his heart will go: at the singing of that book stones will melt.
 
-## 2. Narahari Dasa — "vraja-bhūma kari śūnya nadīyāya avatīrṇa…" (GPT1 pp. 11–12, no. 28)
+## 2. Narahari Dasa — "braja-bhūma kari śūnya nadīyāya abatīrṇa…" (GPT1 pp. 11–12, no. 28)
 *Mangalacharana: an address to Gaura, recognized as the Krishna of Vraja: having emptied Vraja, He has descended in Nadia; there
 is no peacock feather, no yellow cloth, no flute, no curving pose — yet, since He has let Himself be seen, the mind will not be
 deceived: this is that very Kanai of Vraja. Raga pahida. **Attribution: probably Sarakara** — GPT2 index (Sarakara); not in
@@ -11376,7 +11372,7 @@ But since You have let Yourself be seen, the mind is not deceived by this form: 
 **2.4.** Says Narahari Dasa: whoever has no faith, let him come and see with his own eyes.
 To speak of what happened that day at the meeting of the two is a pain in the heart.[^17-8]
 
-## 3. Narahari — "rase tanu ḍharaḍhara gaura-kiśora-vara…" (GPT1 p. 12, no. 29)
+## 3. Narahari — "rase tanu ḍharaḍhara gaura-kiśora-bara…" (GPT1 p. 12, no. 29)
 *Mangalacharana: the Shyama of Dvapara is called Sri Krishna Chaitanya in Kali; within He is Shyama, without golden: to play with
 Rai in the groves, out of love He became golden; the poet fears to speak of the hidden and cannot keep silent. Raga pahida.
 **Attribution: probably Sarakara** — GPT2 index (Sarakara); not in the BR; simple Bengali tripadi.*[^17-9]
@@ -11407,7 +11403,7 @@ inseparable associate of the Lord (in Krishna-lila — Radha): "the lila of Gaur
 Sarakara (cf. chapter 3, no. 1).
 [^17-5]: GPT1 — pp. 11–12, no. 28 (pahida), checked against the scan (PDF p. 271); GPT2 — sec. 1.2, no. 28. The pada was not in the
 catalogue (new row NG-236): the stage-1 catalogue missed it. Not in PK, BR, KGC, PS. GPT2 index — Sarakara (p. 8). C.
-[^17-6]: "Having changed colour and bhava" (varṇa kari bhāvāntara) — Krishna, who is dark, became golden, accepting the bhava of Radha
+[^17-6]: "Having changed colour and bhava" (barṇa kari bhābāntara) — Krishna, who is dark, became golden, accepting the bhava of Radha
 (CC Adi 1.5; ch. 4). The speaker is a resident of Vraja who has recognized Krishna in Gaura: "the snares of separation" are his
 separation from Krishna, who has left Vraja for Nadia.
 [^17-7]: "Curve" — tribhanga, the threefold bend of Krishna's body with the flute; "slanting eyes" — Krishna's sidelong glance. Kanai —
@@ -11424,7 +11420,7 @@ indication of the golden avatara of the Kali age. "The body of Radha and Krishna
 wishing to taste Radha's love, took Her bhava and golden lustre (CC Adi 1.6; ch. 4); the golden colour is Her colour, not a
 worldly passion.
 
-## 4. Narahari — "nācata bhuvana-mano-mohana…" (GPT1 p. 135, no. 70; BR)
+## 4. Narahari — "nācata bhubana-mano-mohana…" (GPT1 p. 135, no. 70; BR)
 *Gaura's form in the dance: His colour brighter than champaka, gold and lotus, His body in sandal paste and Chinese silk, His face
 gentler than moons, His brows a row of bees, necklace and earrings swaying, curls scattering, His tendril-like hands playing,
 His feet keeping the rhythm. Raga karnata. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave); Vrajabuli
@@ -11506,7 +11502,7 @@ His face sways, His lips cry ceaselessly "Hari, Hari!" — who, hearing it, can 
 **6.4.** His heart overflows when He sees Gadadhara: His eyes pour tears like a cloud in the month of Shravana;
 says Narahari: the earth trembles under the weight of His lovely, light feet.[^17-20]
 
-## 7. Narahari — "viharata surasarita-tīra…" (GPT1 pp. 151–152, no. 119; BR)
+## 7. Narahari — "biharata surasarita-tīra…" (GPT1 pp. 151–152, no. 119; BR)
 *Gaura's form on the bank of the Ganga, from face to feet: youthful, He sports by the river; His colour outshines lightning, gold
 and kunkuma, His face is a snare for the eyes of young wives, His curls dark clouds, His brows serpents; broad chest, slender
 waist, lotus feet about which bee-devotees hover; a cloud of mercy, He ever showers the nectar of prema — only foolish Narahari it
@@ -11529,7 +11525,7 @@ lion.
 bee-devotees, intoxicated; a cloud of mercy, famed in the world, He ever showers the nectar of prema — only foolish Narahari is not
 touched by a single drop.[^17-23]
 
-## 8. Narahari — "ki jāni ki bhāve bhāvita antara…" (GPT1 p. 154, no. 128; BR)
+## 8. Narahari — "ki jāni ki bhābe bhābita antara…" (GPT1 p. 154, no. 128; BR)
 *Gaura's form with Gadadhara: absorbed in an unknown bhava, His eyes reddened, He holds Gadadhara's hand and says something — as
 if honeyed; His lips a bandhuli flower, His teeth lightning, His smile pours nectar; He dances in the guise of a nagara, the thief
 of the hearts of the women of Nadia — this is Gora, the Enchanter of Gokula. Raga vallari. **Attribution: not established
@@ -11547,7 +11543,7 @@ says Narahari: do you not know? Gora is the Enchanter of Gokula.[^17-26]
 
 [^17-12]: GPT1 — p. 135, section on Gaura's form (3.1), no. 70 (karnata); GPT2 — sec. 3.1, no. 70. The pada was not in the catalogue (new
 row NG-238). BR — 12th wave (ed. 1912, pp. 835–836; ed. 1960, vv. 1861–1864), right after a pada signed "Ghanashyama" and before the
-pada "nācata gaura puruva rase bhora" (below, no. 13). Not in PK, KGC, PS. The GPT2 index assigns p. 92 to Chakravarti. B.
+pada "nācata gaura puruba rase bhora" (below, no. 13). Not in PK, KGC, PS. The GPT2 index assigns p. 92 to Chakravarti. B.
 [^17-13]: "Robbing the dawn's rays of their power" (aruṇa-kiraṇa-bhara haraī) — the eyes, reddened by prema, outshine the dawn.
 [^17-14]: GPT1 — p. 135, no. 72 (kamoda); GPT2 — sec. 3.1, no. 72 (catalogue: NG-072). BR — 12th wave (ed. 1912, p. 907; ed. 1960,
 vv. 2830–2842), among the songs which Narahari Chakravarti puts in the mouths of the people of Nadia remembering the Lord. Not in PK,
@@ -11570,16 +11566,16 @@ arrows are flowers") — the god of love: the Lord's beauty is above Kama's.
 [^17-20]: Gadadhara Pandita is Radha in Krishna-lila (Gaura-ganoddesha-dipika 147–153): at the sight of him Krishna's love for Radha awakens
 in the Lord. Shravana — a month of the rainy season (July–August).
 [^17-21]: GPT1 — pp. 151–152, section on Gaura's form, no. 119 (nataraga); GPT2 — sec. 3.1, no. 119. In the catalogue this pada stood by
-mistake under the first line of the preceding one, no. 118 (NG-073 "āhā mari gorā-rūpera ki diva tulanā" — signed by Vasu, "vāsu
+mistake under the first line of the preceding one, no. 118 (NG-073 "āhā mari gorā-rūpera ki diba tulanā" — signed by Vasu, "bāsu
 kahe"); the first line is corrected. BR — 12th wave (ed. 1912, p. 890; ed. 1960, vv. 2630–2633). The GPT2 index assigns p. 103 to
 Chakravarti. Not in PK, KGC, PS. B.
-[^17-22]: "Brows — serpents" (bhāṅa-bhujaga) — the thin, curving brows are likened to gliding snakes; "abode of beauty" (chavidhāma).
+[^17-22]: "Brows — serpents" (bhāṅa-bhujaga) — the thin, curving brows are likened to gliding snakes; "abode of beauty" (chabidhāma).
 [^17-23]: "Destroys the steadfastness of many a noble wife" (7.3) — the same motif of the townswomen as in no. 5 (see note 15). The last
 words differ among the witnesses (GPT1 "mati mandakababha", GPT2 "mati manda karaha", BR "mati mandaka bahu"); the sense is "only foolish
 Narahari is not touched (by the nectar) at all": the poet's usual self-abasement.
 [^17-24]: GPT1 — p. 154, no. 128 (vallari); GPT2 — sec. 3.1, no. 128 (catalogue: NG-074). The GPT2 index assigns p. 104 to Sarakara (this
 page has two padas signed Narahari — nos. 128 and 129); but no. 128 is in the BR (12th wave; ed. 1912, p. 909; ed. 1960, vv.
-2858–2861): Chakravarti cites it as the song of a certain woman of Nadia ("kācit — vallarī") and opens it with an address to a friend:
+2858–2861): Chakravarti cites it as the song of a certain woman of Nadia ("kācit — ballarī") and opens it with an address to a friend:
 "Friend! What a wondrous form! The body thrilled, peerless — like a new king Madana." The two attributions conflict; by the BR,
 Chakravarti is more likely. Not in PK, KGC, PS. C. The neighbouring no. 129 (address to women friends, the wish "to keep Him in the
 heart") is nagari-bhava and is deferred.
@@ -11587,7 +11583,7 @@ heart") is nagari-bhava and is deferred.
 [^17-26]: "Nagara, the thief of the hearts of Nadia's women" — the motif of the townswomen (see note 15). The address "do you not know"
 is to the listeners; in the BR, to the speaker's friend.
 
-## 9. Narahari — "āju abhiṣeka sukhera avadhi…" (GPT1 pp. 241–242, no. 14; BR)
+## 9. Narahari — "āju abhiṣeka sukhera abadhi…" (GPT1 pp. 241–242, no. 14; BR)
 *The abhisheka in Srivasa's house: Gaura, the treasury of virtues, sits on the throne; His curls stream down His back like the
 Yamuna down a golden mountain; Nityananda and Advaita recite the abhisheka mantras, Srivasa and others pour fragrant water from
 pitchers on the Lord's head; Jagadisha, Vasudeva, Narayana, Mukunda, Madhava sing, Govinda and Govindananda play the mridanga,
@@ -11618,7 +11614,7 @@ shower flowers layer upon layer, cry "Jaya, jaya!", their bodies thrilling.
 **9.8.** The wives devoted to their husbands again and again cry "Jaya!" — how delightful!
 What ever-new auspicious rites! Seeing them, Narahari feels his heart surge with joy.[^17-31]
 
-## 10. Narahari — "ki ānanda śrīvāsa-bhavane…" (GPT1 p. 242, no. 15; BR)
+## 10. Narahari — "ki ānanda śrībāsa-bhabane…" (GPT1 p. 242, no. 15; BR)
 *The abhisheka in Srivasa's house: the Lord is seated on a golden throne, mantras are recited and water is poured on His head from
 pitchers; the women raise the auspicious cry "ulu-ulu", instruments resound, all sing songs of the abhisheka; the gods, beholding the
 abhisheka, dance; the poet offers himself to the Lord, before whose face Madana swoons. Raga dhanashi. **Attribution: probably
@@ -11711,7 +11707,7 @@ index — Chakravarti (p. 152, no. 14). Not in PK, KGC, PS. B. The abhisheka in 
 [^17-29]: Jagadisha (Pandita), Vasudeva (Ghosha or Datta), Narayana, Mukunda (Datta), Madhava (Ghosha) — kirtana singers of Navadvipa.
 Shruti, jati, svara — terms of musical theory: microtones, classes of melodies, notes.
 [^17-30]: Govinda (Ghosha) and Govindananda — kirtana singers; "dha-dha, dhik-dhik…" — rhythm syllables of the mridanga (khol).
-[^17-31]: "The wives devoted to their husbands" (pativratā nārīgaṇa) — the women present at the abhisheka, as in the pada of Vasu Ghosha PK
+[^17-31]: "The wives devoted to their husbands" (patibratā nārīgaṇa) — the women present at the abhisheka, as in the pada of Vasu Ghosha PK
 1537 (chapter 1, no. 3); "jaya" and the cry "ulu" are auspicious acclamations.
 [^17-32]: GPT1 — p. 242, no. 15 (dhanashi); GPT2 — sec. 4.1, no. 15 (in the catalogue NG-136, wrongly in the "nagari-bhava" section: it is
 the abhisheka, sec. 4.1). BR — 12th wave (ed. 1912, p. 894; ed. 1960, vv. 2666–2673), right after the preceding; then Ishana tells
@@ -11732,7 +11728,7 @@ Gadadhara adorned the Lord with flowers and the associates performed arati to Hi
 [^17-40]: Srinivasa — Srivasa Pandita; Narahari with the chamara — Narahari Sarakara, the Lord's associate already in Navadvipa (cf. PK 2128, chapter 4, no. 4);
 Shuklambara — Shuklambara Brahmachari; Murari Gupta.
 [^17-41]: Muraja, mridanga, changadaka — drums; nishana — kettledrum or horn; jhanjhari — small cymbals.
-[^17-42]: "In the bhava of the former lila" (pūrava rase) — Gadadhara, in Krishna-lila Radha (Gaura-ganoddesha-dipika 147–153). Shridhara —
+[^17-42]: "In the bhava of the former lila" (pūraba rase) — Gadadhara, in Krishna-lila Radha (Gaura-ganoddesha-dipika 147–153). Shridhara —
 the seller of plantain leaves (CB Madhya 9); Gauridasa — Gauridasa Pandita; Haridasa — Haridasa Thakura.
 [^17-43]: The lord of the gods (surapati) — Indra; the Lord of Parvati — Shiva; the Four-faced — Brahma. "With effort keeps himself hidden" (yatane karata
 parihāra) — the gods are present invisibly.
@@ -11740,7 +11736,7 @@ parihāra) — the gods are present invisibly.
 Nayanananda", chapter 10): Chakravarti's usual form of signature. "Bestower of supreme bliss on Nadia" (nadīyāpura-paramānanda-kārī) — in
 the catalogue the word "paramānanda" was taken for the signature of the poet Paramananda.
 
-## 13. Narahari — "nācata gaura purava-rase bhora…" (GPT1 p. 261, no. 44; BR)
+## 13. Narahari — "nācata gaura puraba-rase bhora…" (GPT1 p. 261, no. 44; BR)
 *Kirtana in Navadvipa: Gaura dances, absorbed in the rasa of the former lila; His smile dispels the darkness of sin, the earth trembles
 at His step; He roars like a lion, and the Kali age flees in fear; the associates sing, khol and kartals resound, the whole world is
 intoxicated. Raga somaraga. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave); Vrajabuli. With this pada begins
@@ -11789,7 +11785,7 @@ someone, looking at another, opens his arms, embraces him — and cannot let him
 **15.4.** Someone seizes another's feet and puts the dust of his feet on his head; someone, falling to the ground, rolls in the dust;
 Lord and servants are in one state: seeing this, Narahari in great bliss sings the virtues of the Lord.[^17-51]
 
-## 16. Narahari — "nācata gaurāṅga-cām̐da vibhora bhāvete…" (GPT1 p. 262, no. 47)
+## 16. Narahari — "nācata gaurāṅga-cām̐da bibhora bhābete…" (GPT1 p. 262, no. 47)
 *Gauranga dances, seized by bhava; in the same bhava, on His left, Gadadhara dances; Nitai follows behind so that His golden body may
 not fall to the ground; the Lord embraces the fallen. Raga pathamanjari. **Attribution: not established** — the pada is not in the BR
 (the GPT2 index, however, assigns its page to Chakravarti); simple Bengali payar.*[^17-52]
@@ -11876,7 +11872,7 @@ many khols and khamaks play, the sound touches the sky — who can keep composur
 the fame of the poet Narahari's Lord fills the world: ceaselessly He gives away the highest, rarest treasure.[^17-62]
 
 [^17-45]: GPT1 — p. 261, section on dance and kirtana (4.2), no. 44 (somaraga); GPT2 — sec. 4.2, no. 44. The pada was not in the catalogue
-(new row NG-241). BR — 12th wave (ed. 1912, p. 836; ed. 1960, vv. 1865–1868), right after the pada "nācata bhuvana-mano-mohana" (no.
+(new row NG-241). BR — 12th wave (ed. 1912, p. 836; ed. 1960, vv. 1865–1868), right after the pada "nācata bhubana-mano-mohana" (no.
 4). Not in PK, KGC, PS. B.
 [^17-46]: "The rasa of the former lila" (puraba-rasa) — the bhava of Krishna-lila, which the Lord experiences in kirtana. "Bodiless" (atanu) —
 Kama, burnt by Shiva.
@@ -11903,12 +11899,12 @@ stands no. 48, signed "Ghanashyama Dasa" (not included in the appendix). Not in 
 vv. 1945–1948). Not in PK, KGC, PS. B.
 [^17-57]: Kinnaras — celestial singers. "Only Narahari it has not touched" — the poet's usual self-abasement (cf. no. 7.4).
 [^17-58]: GPT1 — p. 264, no. 52 (nata); GPT2 — sec. 4.2, no. 52 (catalogue: NG-145). BR — 12th wave (ed. 1912, p. 882; ed. 1960,
-vv. 2560–2563), right after a pada signed "Ghanashyama" ("nācata gaura bhāvabhare garagara", in the GPT no. 51). Not in PK, KGC, PS. B.
+vv. 2560–2563), right after a pada signed "Ghanashyama" ("nācata gaura bhābabhare garagara", in the GPT no. 51). Not in PK, KGC, PS. B.
 [^17-59]: Kadamba flowers are round and covered with filaments; hairs standing on end in ecstasy are compared to them. "A cloud on a golden
 mountain" — dark curls above the golden brow.
 [^17-60]: GPT1 — p. 264, no. 53 (ghantarava); GPT2 — sec. 4.2, no. 53. The pada was not in the catalogue (new row NG-242). BR — 12th wave
 (ed. 1912, p. 883; ed. 1960, vv. 2564–2567), right after the preceding. Not in PK, KGC, PS. B.
-[^17-61]: "The elephant Kali" (kali-vāraṇa) — the Kali age, like a mad elephant tamed by the lion Gaura (cf. "gaurasiṃha" in no. 24).
+[^17-61]: "The elephant Kali" (kali-bāraṇa) — the Kali age, like a mad elephant tamed by the lion Gaura (cf. "gaurasiṃha" in no. 24).
 [^17-62]: "The poet Narahari's Lord" (narahari-pahum̐ka) — see note 44. "The wicked… seek refuge" — the conversion of sinners, like Jagai and Madhai
 (no. 22).
 
@@ -11955,7 +11951,7 @@ peerless joy, and take the dust of everyone's feet."
 Others: "There the two, with broken hearts, stand aside with straw between their teeth and, raising their arms, say to the poet
 Narahari's Lord and His associates: 'Have mercy!'"[^17-68]
 
-## 23. Narahari — "nācata gaura naṭana-paṇḍita-vara…" (GPT1 pp. 265–266, no. 56; BR)
+## 23. Narahari — "nācata gaura naṭana-paṇḍita-bara…" (GPT1 pp. 265–266, no. 56; BR)
 *The dance of Gaura, best of skilled dancers: His body outshines kunkuma and lightning, His smile pours nectar, His glance crushes the
 pride of Madanas; raising His arms He cries "Hari, Hari!"; the associates sing, instruments resound; He gives the world the treasure of
 prema — only Narahari is left out. Raga meghamallara. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave);
@@ -11973,7 +11969,7 @@ His auspicious, tender, graceful feet He sets on the earth in manifold movements
 **23.4.** Small cymbals, khamaks, many khols sound; the associates sing sweetly, sweetly;
 He gives away throughout the world the treasure, the jewel of prema — only foolish, sinful Narahari is left out.
 
-## 24. Narahari — "vali-kali-matta-mataṅgaja-maradana…" (GPT1 p. 266, no. 57; BR)
+## 24. Narahari — "bali-kali-matta-mataṅgaja-maradana…" (GPT1 p. 266, no. 57; BR)
 *The lion Gaura, crusher of the mad elephant Kali, dances in Nadia; the world is full of the cry "Jaya!", people run from all sides, the
 associates sing, drums thunder, the earth trembles; giving prema, the Lord embraces the sinners. Raga devakiri. **Attribution:
 probably Chakravarti** — the pada is in the BR (12th wave); Vrajabuli.*[^17-70]
@@ -12043,8 +12039,8 @@ seeing His many new movements, Kama dies of shame.
 **27.4.** The people of the world sing His virtues, sinking in a stream of happiness;
 only deprived, lowly Narahari burns in the forest fire of worldly existence.[^17-78]
 
-[^17-63]: GPT1 — p. 265, no. 54 ("veragupta"); GPT2 — sec. 4.2, no. 54 (catalogue: NG-146). BR — 12th wave (ed. 1912, p. 891; ed. 1960,
-vv. 2634–2637), right after the pada "viharata surasarita-tīra" (no. 7). Not in PK, KGC, PS. B.
+[^17-63]: GPT1 — p. 265, no. 54 ("beragupta"); GPT2 — sec. 4.2, no. 54 (catalogue: NG-146). BR — 12th wave (ed. 1912, p. 891; ed. 1960,
+vv. 2634–2637), right after the pada "biharata surasarita-tīra" (no. 7). Not in PK, KGC, PS. B.
 [^17-64]: "Stealing the hearts of women" (ramaṇī-manacora) — an epithet of Krishna; the motif of the townswomen (note 15).
 [^17-65]: GPT1 — p. 265, no. 55 (gurjari); GPT2 — sec. 4.2, no. 55. In the catalogue the first line of this pada merged with another, a
 wedding pada (NG-030: GPT2 2.3, no. 11 "ki ānanda nadīyā-nagare" — on Nimai's wedding); here a new row NG-243. BR — 12th wave (ed.
@@ -12056,25 +12052,25 @@ CB Madhya 13–15 (Madhai builds a ghat on the Ganga and bows down to everyone).
 [^17-68]: "Straw between the teeth" (dante tṛṇa) — a sign of humility and of begging forgiveness. "The poet Narahari's Lord" — see note 44.
 [^17-69]: GPT1 — pp. 265–266, no. 56 (meghamallara); GPT2 — sec. 4.2, no. 56 (catalogue: NG-147). BR — 12th wave (ed. 1912, p. 901; ed.
 1960, vv. 2765–2768). Not in PK, KGC, PS. B.
-[^17-70]: GPT1 — p. 266, no. 57 (devakiri); GPT2 — sec. 4.2, no. 57. The pada was not in the catalogue (new row NG-244; BD-007 referred to it
+[^17-70]: GPT1 — p. 266, no. 57 (debakiri); GPT2 — sec. 4.2, no. 57. The pada was not in the catalogue (new row NG-244; BD-007 referred to it
 as "BR p. 901 — a pada of Narahari"). BR — 12th wave (ed. 1912, p. 901; ed. 1960, vv. ≈2761–2764), before the preceding one. Not in PK,
 KGC, PS. B.
 [^17-71]: Rhythm syllables of the drum; "beyond even the kinnaras" (kinnara-duragama) — the celestial singers. The reading "drimiki drimi drimi"
 follows GPT1 and GPT2 (the recognition is faulty).
 [^17-72]: GPT1 — p. 266, no. 58 (bhupali); GPT2 — sec. 4.2, no. 58. The pada was not in the catalogue (new row NG-245). BR — 12th wave
 (ed. 1912, p. 902; ed. 1960, vv. 2769–2772). Not in PK, KGC, PS. B.
-[^17-73]: "The story of the former love" (pūruva-pīriti-parasaṅga) — the account of the love of Radha and Krishna in Vraja: hearing it, the
+[^17-73]: "The story of the former love" (pūruba-pīriti-parasaṅga) — the account of the love of Radha and Krishna in Vraja: hearing it, the
 Lord enters into bhava.
 [^17-74]: Gadadhara is Radha in Krishna-lila (note 20). The Lord's feelings for Gadadhara are the prema of Krishna-lila, not a worldly
 attachment.
 [^17-75]: GPT1 — pp. 266–267, no. 59 (natanarayana); GPT2 — sec. 4.2, no. 59 (catalogue: NG-148). BR — 12th wave (ed. 1912, p. 902; ed.
 1960, vv. 2773–2776). Not in PK, KGC, PS. B.
-[^17-76]: "Has removed misfortunes" (harala vipada) — freed the living beings from the calamities of worldly existence. The poet's self-reproach
+[^17-76]: "Has removed misfortunes" (harala bipada) — freed the living beings from the calamities of worldly existence. The poet's self-reproach
 is the usual ending of the padas of this cycle.
 [^17-77]: GPT1 — p. 267, no. 60 (nata; in GPT2 unnumbered, after no. 59); GPT2 — sec. 4.2, after no. 59. The pada was not in the
 catalogue (new row NG-246). BR — 12th wave (ed. 1912, p. 903; ed. 1960, vv. 2779–2782). Not in PK, KGC, PS. B.
-[^17-78]: "The forest fire of worldly existence" (bhava-dava-dāha) — the image of samsara as a burning forest (cf. Vishvanatha Chakravarti's Sri
-Gurvashtaka, 1: "saṃsāra-dāvānala…").
+[^17-78]: "The forest fire of worldly existence" (bhaba-daba-dāha) — the image of samsara as a burning forest (cf. Vishvanatha Chakravarti's Sri
+Gurvashtaka, 1: "saṃsāra-dābānala…").
 
 ## 28. Narahari — "āju śaṅkara-carita śuni…" (GPT1 pp. 283–284, no. 22; BR)
 *The Lord in the mood of Shiva: hearing a song of Shankara's deeds, the son of Shachi became Shankara — a radiance brighter than the
@@ -12094,7 +12090,7 @@ pure and tender are His cheeks, on His brow the eyebrows curve.
 **28.4.** Huge serpents are His ornaments and garments, the hide shines brightly;
 on His head lovely, tangled, heavy matted locks — seeing this, Narahari is beside himself.[^17-81]
 
-## 29. Narahari Dasa — "ki bhāve gaurāṅga mora bhāvita thāke…" (GPT1 p. 292, no. 52)
+## 29. Narahari Dasa — "ki bhābe gaurāṅga mora bhābita thāke…" (GPT1 p. 292, no. 52)
 *The Lord in the mood of Krishna: seized by bhava, He calls "Radha!", the Ganga reminds Him of the Yamuna, a flower garden — of
 Vrindavana; with His companions He plays, standing in the threefold bend and asking for the flute; taking Gadadhara for Radha, He
 says something unknown to him and does not take His eyes off his face; Gadadhara, understanding the bhava, stands at His left. Raga
@@ -12151,7 +12147,7 @@ with the Bhakti-ratnakara (eds. 1912 and 1960; almost all padas of the chapter a
 Gita-chandrodaya have been checked. Padas signed "Ghanashyama" (the same Narahari Chakravarti) are not included in the appendix. The
 notes of the GPT editors are not reproduced.*
 
-## 1. Narahari — "kivā khola karatāla vāje…" (GPT1 p. 267, no. 61; BR)
+## 1. Narahari — "kibā khola karatāla bāje…" (GPT1 p. 267, no. 61; BR)
 *Kirtana: the khol and karatalas sound, the associates stand around; they sing the sweet lila at which wood and stone melt; Gaura
 dances, and no one knows by what bhava He is seized; His body thrills, streams of tears flow from His eyes; He embraces the fallen and
 gives the treasure of prema to everyone — only the poet is left out. Raga nata. **Attribution: probably Chakravarti** — the pada is
@@ -12191,7 +12187,7 @@ PK, KGC, PS or the Gita-chandrodaya. B. The Lord's dancing in kirtana in Navadvi
 [^18-4]: Self-reproach is the usual ending of the padas of this cycle (cf. chapter 17, nos. 13–27): the poet regards himself as the only
 one passed over by the mercy given to all.
 
-## 2. Narahari — "bhuvanamohana gorācām̐da…" (GPT1 p. 268, no. 63; BR)
+## 2. Narahari — "bhubanamohana gorācām̐da…" (GPT1 p. 268, no. 63; BR)
 *Dancing in prema: Gorachand, enchanter of the world, dances weeping, cries "Hari!", embraces the fallen, floods everyone with His
 rasa, throws Himself on the ground and rolls in the dust; seeing this, all living beings weep. Raga varadi or dhanashi. **Attribution:
 probably Chakravarti** — the pada is in the BR (12th wave), though its language is a simple Bengali payar.*[^18-5]
@@ -12219,7 +12215,7 @@ Narahari's heart finds no rest.
 by the road to the Ganga". Not in PK, KGC, PS or the Gita-chandrodaya. B.
 [^18-6]: Marginal variants of GPT1: "purifier of the world" instead of "enchanter of the world", "of all living beings" instead of "of
 all people". These are the readings of the second occurrence of the same pada in the BR: Narahari Chakravarti quotes it twice — at the
-house of Sanjaya (vv. 2795–2800) and at the house of Srivasa (ed. 1960, v. 3397 ff., "bhuvanapāvana gorācām̐da | akhila jīvera mana-phām̐da").
+house of Sanjaya (vv. 2795–2800) and at the house of Srivasa (ed. 1960, v. 3397 ff., "bhubanapābana gorācām̐da | akhila jībera mana-phām̐da").
 
 ## 3. Narahari — "nācata gaurakiśora. suradhunītīre ujora…" (GPT1 p. 268, no. 65; BR)
 *Dancing on the bank of the Suradhuni: young Gaura with hundreds of associates, making no distinction between His own and others, gives
@@ -12278,7 +12274,7 @@ from GPT2 and the BR (see the full version of the book). Not in PK, KGC, PS or t
 [^18-11]: Ananga ("the Bodiless") is Kama, the god of love: the Lord's beauty surpasses Kama's (a usual image of the gaura-padas). Ketaki
 and kunda are flowers.
 
-## 5. Narahari Dasa — "vali-kalidamana śamanabhayabhañjana…" (GPT1 p. 269, no. 67; BR)
+## 5. Narahari Dasa — "bali-kalidamana śamanabhayabhañjana…" (GPT1 p. 269, no. 67; BR)
 *The son of Shachi dancing in the midst of the kirtana: subduer of Kali and of the fear of death, skilful giver of prema, more
 beautiful than a golden mountain; at the rhythm of His feet the earth sways, He spreads His arms, smiles, and seeing Gadadhara's face
 loses His composure; His eyes reveal the former play of Vraja. Raga belavali. **Attribution: probably Chakravarti** — the pada is in
@@ -12301,7 +12297,7 @@ vv. 3018–3021): "here Gaurachandra, with joy in His heart, danced in sankirtan
 Gita-chandrodaya. B.
 [^18-13]: "Subduer of mighty Kali" — the Lord who conquers the age of Kali by sankirtana; "the fear of Yama" — the fear of death and its
 consequences. The wish-fulfilling tree (sura-taru, kalpa-vriksha) grants only what is asked for, but the Lord gives prema beyond asking.
-[^18-14]: "The former play" (pūrava raṅga) is Krishna's lila in Vraja, which the Lord remembers in the dance. Gadadhara is Radha in
+[^18-14]: "The former play" (pūraba raṅga) is Krishna's lila in Vraja, which the Lord remembers in the dance. Gadadhara is Radha in
 Krishna-lila (note 9).
 
 ## 6. Narahari — "āju gorā nagarakīrtane…" (GPT1 p. 269, no. 68; BR)
@@ -12392,7 +12388,7 @@ vv. 3387–3390), right after the preceding pada, at the house of Srivasa. Not i
 [^18-20]: The shirisha is a tree with very delicate flowers (an image of tenderness). Madana (Kama) "weeps" seeing that the Lord's face is
 more beautiful than his own.
 
-## 9. Narahari — "nācata naṭavara gaurakiśora…" (GPT1 p. 270, no. 72; BR)
+## 9. Narahari — "nācata naṭabara gaurakiśora…" (GPT1 p. 270, no. 72; BR)
 *Young Gaura, the best of dancers, enchants the world with new movements: the radiance of His body is peerless, a garland of forest
 flowers sways on His neck, His moon-face pours nectar which the chakora-devotees drink; He sings the names of Hari, and all weep — only
 the poet's heart does not melt. Raga suhai. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave); Vrajabuli.*[^18-21]
@@ -12418,12 +12414,12 @@ only Narahari's hard breast does not melt.
 [^18-21]: GPT1 — p. 270, no. 72 (suhai); GPT2 — sec. 4.2, no. 72. The pada was not in the catalogue — **new row NG-254** (the signature
 sweep had matched it to another pada). BR — 12th wave (ed. 1912, p. 952; ed. 1960, vv. 3430–3435), right after a pada of Vasu
 Ramananda (GPT1 no. 73), before the account of Advaita's dance in the house of Srivasa. The GPT2 index assigns the pages of this
-place to Chakravarti. Not in PK (PK 2065 "nācata naṭavara gaura kiśora" is a different pada, by Balarama Dasa), KGC, PS or the
+place to Chakravarti. Not in PK (PK 2065 "nācata naṭabara gaura kiśora" is a different pada, by Balarama Dasa), KGC, PS or the
 Gita-chandrodaya. B.
 [^18-22]: The chakora is a bird which, by poetic tradition, feeds on moonlight: the devotees "drink with their eyes" the beauty of the
 Lord's face.
 
-## 10. Narahari — "prabhu viśvambhara priya parikara…" (GPT1 p. 283, no. 21; BR)
+## 10. Narahari — "prabhu biśvambhara priya parikara…" (GPT1 p. 283, no. 21; BR)
 *The Lord's dream of Balarama: Vishvambhara tells His associates that at night He saw a beautiful chariot with a palm-tree banner arrive
 here; a tall man with an earring in one ear, a pitcher in His hand, dressed in blue and with a blue cloth on His head, swaying, looked
 around and asked for Him by name again and again — Haladhara must have come; having said this, the Lord was absorbed in the bhava of
@@ -12471,7 +12467,7 @@ Narahari conveys: "I will break off love with that cruel Shyama!"[^18-27]
 
 [^18-25]: GPT1 — p. 306, sec. 4.5 (abhisara, rasodgara, utkanthita), no. 23 (dhanashi); GPT2 — sec. 4.5, no. 23 (the catalogue did not know
 this pada — **new row NG-255**; the signature sweep had matched it to another pada). Before it (no. 22) stands Narahari Sarakara's pada
-"kī lāgiyā mora gaurasundara vasiyā gṛhera mājhe" (PK 307, chapter 3, no. 3) on the same theme. Not in BR, PK, KGC, PS or the
+"kī lāgiyā mora gaurasundara basiyā gṛhera mājhe" (PK 307, chapter 3, no. 3) on the same theme. Not in BR, PK, KGC, PS or the
 Gita-chandrodaya. C.
 [^18-26]: Vasaka-sajja is the heroine who has adorned herself and the bed and waits for her beloved (one of the eight states of the heroine
 in alankara-shastra; Rupa Gosvami, Ujjvala-nilamani). The Lord, Krishna Himself, appeared in order to taste Radha's love for Him (CC Adi
@@ -12534,7 +12530,7 @@ the GPT (no. 12, "jhulata jhulata sundara rasamaya gorā…", also signed by Nar
 has resolved to forget her shame before her family for Gaura's sake — nagari-bhava; it is assigned to the section of nagari padas (new
 catalogue row NG-257).
 
-## 14. Narahari — "āju gorā suradhunītīre. jhule kivā lalita hindore…" (GPT1 p. 325, no. 13; BR)
+## 14. Narahari — "āju gorā suradhunītīre. jhule kibā lalita hindore…" (GPT1 p. 325, no. 13; BR)
 *Jhulana in the rainy season: Gora swings on a charming swing by the Suradhuni, His form flashes like lightning in the dark clouds, the
 thunder of the mridanga is like a storm, the peahens dance, Nadia rejoices, creepers and trees thrill; Narahari, looking at the Lord's
 face, gently rocks the swing. Raga mallara. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave); short Bengali
@@ -12603,8 +12599,8 @@ Narahari partakes of the remnants.[^18-38]
 
 [^18-37]: GPT1 — p. 325, no. 14 (kamoda); GPT2 — sec. 5.1, no. 14 (catalogue: NG-160). BR — 12th wave (ed. 1912, p. 940; ed. 1960, vv.
 3283–3290), the last pada of the account of jhulana. Not in PK, KGC, PS or the Gita-chandrodaya. B. The next GPT pada signed Narahari
-(no. 16, "āju racita nava ratana-hindora") is PK 1559 (catalogue: NG-161 = NS-032), already translated (chapter 4).
-[^18-38]: The last couplet is restored from GPT2 and the BR ("avaśeṣa bhuñje narahari"; distorted in the GPT1 recognition). The remnants of the
+(no. 16, "āju racita naba ratana-hindora") is PK 1559 (catalogue: NG-161 = NS-032), already translated (chapter 4).
+[^18-38]: The last couplet is restored from GPT2 and the BR ("abaśeṣa bhuñje narahari"; distorted in the GPT1 recognition). The remnants of the
 Lord's food (mahaprasada) are the highest mercy for a servant (cf. CC Antya 16).
 
 ## 16. Narahari — "gorā mora gokulera śaśī…" (GPT1 p. 327, no. 20; BR)
@@ -12675,7 +12671,7 @@ Narahari sings well: moment by moment the ocean of bliss swells.
 vv. 3169–3172), right after the preceding one. Not in PK, KGC, PS or the Gita-chandrodaya. B. Shankara is Shankara Pandita, brother of
 Damodara Pandita; Murari is Murari Gupta.
 
-## 18. Narahari Dasa — "gauraguṇamaṇi varajaśaśadhara…" (GPT1 p. 328, no. 22; BR)
+## 18. Narahari Dasa — "gauraguṇamaṇi barajaśaśadhara…" (GPT1 p. 328, no. 22; BR)
 *Nanda-utsava: on the day of Krishna's birth, the eighth of Bhadra, Gaura is with His associates in the house of Srivasa; like the
 cowherds of Vraja all put on turbans, flowers, bracelets; with carrying-poles and staffs they dance in a courtyard covered with mud of
 turmeric, yoghurt and butter, crying "hi-hi!"; Nitai sprinkles turmeric on the Lord, Advaita smears Nitai's face with butter, they roll
@@ -12707,7 +12703,7 @@ eighth day of the dark half of Bhadra (August–September) is Janmashtami; "befo
 [^18-44]: "Hi-hi!" is the cowherds' cry. The playful romp of Nityananda and Advaita in the mud of yoghurt and turmeric is a game of the
 Nanda-utsava, in which the Lord's associates reveal the bhava of the cowherd boys of Vraja (cf. CC Madhya 15).
 
-## 19. Narahari — "āju gorācām̐da gaṇasaha gopaveśe…" (GPT1 p. 328, no. 23; BR)
+## 19. Narahari — "āju gorācām̐da gaṇasaha gopabeśe…" (GPT1 p. 328, no. 23; BR)
 *Radhashtami in the house of Pundarika Vidyanidhi: Gorachand with His associates in cowherd dress, smiling, looks at Gadadhara and
 weeps with bliss; Mukunda, Madhava and Vasu sing of Radhika's birth, the Lord dances, the earth sways; Gauridasa with a carrying-pole,
 Vidyanidhi scatters butter, turmeric, milk and yoghurt; men and women run to see; Narahari dances crying "Glory!". Raga kamoda.
@@ -12754,11 +12750,11 @@ is held at his house.
 [^18-47]: "A golden Kama" is an image of the Lord's beauty (cf. note 11); among the onlookers are both men and women — this is not the
 nagari motif.
 
-## 20. Narahari Dasa — "rādhikā-janama-utsave mātiche…" (GPT1 p. 329, no. 25)
+## 20. Narahari Dasa — "rādhikā-janama-utsabe mātiche…" (GPT1 p. 329, no. 25)
 *Radhashtami: Gora rejoices at the festival of Radhika's birth, and with Him in cowherd dress dance His associates skilled in dancing;
 the madal, khol, cymbals, karatalas, khamaka, ramashinga, gopi-yantra and khanjari resound; Mukunda and others sing, the boys take up the
 melody; the sound of conches and the cowherds' call mingle with it — and the poet sings together with all. Raga dhanashi. **Attribution:
-not established** — the pada is not in the BR; the language is late Bengali (present continuous forms: mātiche, vājiche, miśiche, gāiche)
+not established** — the pada is not in the BR; the language is late Bengali (present continuous forms: mātiche, bājiche, miśiche, gāiche)
 with heaped-up onomatopoeia; probably a comparatively late pada.*[^18-48]
 
 **20.1.** At the festival of Radhika's birth Gora, Shachi's darling, full of joy, is rapt;
@@ -12773,7 +12769,7 @@ putting on cowherd dress, His associates skilled in dancing dance with Him.
 **20.4.** Mukunda and all the others sing on the low notes, the boys take the melody on the fifth;
 again and again in three registers the seven notes rise with all the murchhanas.[^18-50]
 
-**20.5.** With this mingles the boom of conches and gongs, mingles the cowherds' call "ava-ava";
+**20.5.** With this mingles the boom of conches and gongs, mingles the cowherds' call "aba-aba";
 together with all sings Narahari Dasa: "I offer myself in sacrifice for Gora!"[^18-51]
 
 [^18-48]: GPT1 — p. 329, no. 25 (dhanashi; text checked against the scan, PDF p. 588); GPT2 — sec. 5.1, no. 25 (catalogue: NG-164). Before
@@ -12783,10 +12779,10 @@ not in BR, PK, KGC, PS or the Gita-chandrodaya. C.
 [^18-50]: The khamaka is a one-stringed plucked instrument; the ramashinga a curved horn; the gopi-yantra a one-stringed instrument of
 wandering singers; the khanjari a tambourine. The low notes are shadja (kharaja); the fifth is panchama; three registers (gramas), seven
 notes (svaras), murchhanas — concepts of Indian music theory.
-[^18-51]: "Ava-ava" (āvāvā) is the cry of cowherds calling the cows (cf. the padas on taking out the cows: "āvā āvā rabe"). "I offer myself
-in sacrifice" (valihāri yāi… nichani) is an expression of utmost devotion.
+[^18-51]: "Ava-aba" (ābābā) is the cry of cowherds calling the cows (cf. the padas on taking out the cows: "ābā ābā rabe"). "I offer myself
+in sacrifice" (balihāri yāi… nichani) is an expression of utmost devotion.
 
-## 21. Narahari — "sarasa suradhunī-pulina-vana…" (GPT1 p. 334, no. 43; BR)
+## 21. Narahari — "sarasa suradhunī-pulina-bana…" (GPT1 p. 334, no. 43; BR)
 *Remembrance of the rasa-lila: seeing the grove on the sandy bank of the Suradhuni, young Gaura remembers the former play of the rasa and is
 absorbed in bliss; His face eclipses the moon, He dances in the threefold bend to the sweet thunder of the mridanga, the associates sing of
 the rasa of the rasa dance, and Narahari's heart overflows. Raga shri. **Attribution: probably Chakravarti** — the pada is in the BR (12th
@@ -12814,7 +12810,7 @@ Nityananda it is translated in chapter 24, no. 13 (new row NG-260).
 of love. The Lord, remembering it on the bank of the Ganga, experiences it as Krishna Himself; this is the pure prema of Vraja, not
 worldly passion (Bhag. 10.33.39: one who hears of the rasa is freed from lust).
 
-## 22. Narahari — "vasanta samaya suśobhita…" (GPT1 p. 338, no. 55; BR)
+## 22. Narahari — "basanta samaya suśobhita…" (GPT1 p. 338, no. 55; BR)
 *Spring in Nadia: the trees and creepers blossom, the cuckoos call, the bees hum, the southern breeze blows; Gora, the Nagara of Gokula,
 plays with His associates on the bank of the Suradhuni: Mukunda and Madhava sing, all throw flower-pollen phagu at one another, Nitai,
 Advaita, Gadadhara and Srivasa play phagu; the gods cannot keep their composure. Raga basanta. **Attribution: probably Chakravarti** —
@@ -12850,7 +12846,7 @@ the gods cannot keep their composure.
 **22.10.** Who does not cry "Glory!"?
 Narahari says: the earth is filled with happiness.
 
-[^18-54]: GPT1 — p. 338, no. 55 (vasanta); GPT2 — sec. 5.1, no. 55 (catalogue: NG-166). BR — 12th wave (ed. 1912, pp. 941–942; ed. 1960, vv.
+[^18-54]: GPT1 — p. 338, no. 55 (basanta); GPT2 — sec. 5.1, no. 55 (catalogue: NG-166). BR — 12th wave (ed. 1912, pp. 941–942; ed. 1960, vv.
 3303–3312): "Gaurachandra plays in spring with His associates; here the wondrous phagu games began" (vv. 3301–3302). Not in PK, KGC, PS
 or the Gita-chandrodaya. B.
 [^18-55]: "The Nagara of Gokula" (gokulanāgara) is an epithet of Krishna, the "skilful lover" of Vraja; here it indicates that Gaura is Krishna
@@ -12887,13 +12883,13 @@ beating the rhythm "dhiki-dhiki-taka".
 **23.8.** Crying "Ho-ho, Hari!", all are beside themselves;
 what can Narahari, whose mind is so small, say?
 
-[^18-57]: GPT1 — p. 338, no. 56 (vasanta); GPT2 — sec. 5.1, no. 56 (catalogue: NG-167, its first line not recognised in the catalogue). BR —
+[^18-57]: GPT1 — p. 338, no. 56 (basanta); GPT2 — sec. 5.1, no. 56 (catalogue: NG-167, its first line not recognised in the catalogue). BR —
 12th wave (ed. 1912, p. 942; ed. 1960, vv. 3313–3320), right after the preceding one. Not in PK, KGC, PS or the Gita-chandrodaya. B. The
 next GPT pada (no. 57, "phāguyā khelata gaurakiśora") is signed "Ghanashyama" and is not included in the appendix.
 [^18-58]: Abir and gulal are the red and pink powders of the spring festival; saffron water (keshara-vari) is coloured water with which people
 drench one another.
 
-## 24. Narahari — "gaura gokula-nāha naṭavara…" (GPT1 p. 339, no. 58; BR)
+## 24. Narahari — "gaura gokula-nāha naṭabara…" (GPT1 p. 339, no. 58; BR)
 *A spring game on the bank of the Suradhuni: Gaura, the Lord of Gokula, best of dancers, with His associates dressed in every possible way;
 His body eclipses a golden mountain, His face the moon; syringe in hand He tosses phagu; the associates cry "Hori!"; a cloud of gulal hides
 the sun, the sky glows red; musk and saffron are poured on Nitai's head, Advaita frowns and claps His hands; the mridangas thunder. Raga
@@ -12918,12 +12914,12 @@ drimi";
 Narahari says: most sweetly the singers sing, keeping the shrutis and svaras — and all the gods, men and women, forgetting their
 composure, run to see.
 
-[^18-59]: GPT1 — p. 339, no. 58 (vasanta); GPT2 — sec. 5.1, no. 58 (catalogue: NG-168). BR — 12th wave (ed. 1912, p. 944; ed. 1960, vv.
+[^18-59]: GPT1 — p. 339, no. 58 (basanta); GPT2 — sec. 5.1, no. 58 (catalogue: NG-168). BR — 12th wave (ed. 1912, p. 944; ed. 1960, vv.
 3339–3342). Not in PK, KGC, PS or the Gita-chandrodaya. B.
 [^18-60]: "Hori" (hori) is the cry of the Holi festival.
 [^18-61]: Advaita's frowning is play: the elder associate "gets angry" to make everyone laugh (cf. no. 18).
 
-## 25. Narahari — "suradhunītīre taruṇa taru-vallarī…" (GPT1 pp. 340–341, no. 63; BR)
+## 25. Narahari — "suradhunītīre taruṇa taru-ballarī…" (GPT1 pp. 340–341, no. 63; BR)
 *A spring dance: on the bank of the Suradhuni young trees and creepers in new leaves and flowers, the bees hum, intoxicated by the scent,
 cuckoos and parrots flit around; there young Gaura dances, anointed with saffron, musk and sandal, red with phagu; the associates sing,
 the gods cry "Glory!", Narahari plays the mridanga. Raga dhanashi or basanta. **Attribution: probably Chakravarti** — the pada is in the
@@ -12946,7 +12942,7 @@ the gods in the sky, immersed in bliss, cry "Glory, glory!", Narahari plays the 
 the bank of the Ganga, right after the pada "suradhunītīra parama niramala thala" (chapter 17, no. 21); after them — "having played on the
 bank of the Ganga, the Lord went home this way" (v. 2650). Not in PK, KGC, PS or the Gita-chandrodaya. B.
 
-## 26. Narahari — "āju suradhunītīre sundara gaura nṛtye vibhora…" (GPT1 p. 342, no. 67; BR)
+## 26. Narahari — "āju suradhunītīre sundara gaura nṛtye bibhora…" (GPT1 p. 342, no. 67; BR)
 *A spring dance, a description of His form: beautiful Gaura, absorbed in dance on the bank of the Suradhuni, sprinkled with drops of phagu and
 sandal; tilaka, locks, earrings, lotus eyes, smile, arms, broad chest, a garland of malati, a belt with bells, anklets; the associates sing
 raga basanta, the people of Nadia run to see; "blessed is the age of Kali: in it the Lord of Gokula plays". Raga basanta. **Attribution:
@@ -12976,7 +12972,7 @@ from all sides run the men and women of the young town of Nadia.
 **26.8.** Throughout the world cries of "Glory!" resound, a stream of prema overflows;
 Narahari says: blessed is the age of Kali — in it the Lord of Gokula plays.[^18-64]
 
-[^18-63]: GPT1 — p. 342, no. 67 (vasanta); GPT2 — sec. 5.1, no. 67 (catalogue: NG-170); the GPT2 index assigns this pada (p. 220, no. 67) to
+[^18-63]: GPT1 — p. 342, no. 67 (basanta); GPT2 — sec. 5.1, no. 67 (catalogue: NG-170); the GPT2 index assigns this pada (p. 220, no. 67) to
 Chakravarti. BR — 12th wave (ed. 1912, p. 892; ed. 1960, vv. 2642–2649), right after the preceding one. Not in PK, KGC, PS or the
 Gita-chandrodaya. B.
 [^18-64]: "Blessed is the age of Kali" — because in it the Lord appeared, giving prema through sankirtana (cf. Bhag. 11.5.36: "the wise
@@ -13176,7 +13172,7 @@ quotes a verse from Murari's Shri-Krishna-Chaitanya-carita (part 1: "walking wit
 of separation") and the pada. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. The first steps — Murari 1.6;
 CB Adi 4; cf. the pada of Vasu Ghosha "māyera aṅguli dhari" (chapter 12).
 
-## 4. Narahari — "gaura-vadana sukha-sadana sudhāmaya…" (GPT1 p. 66, no. 15; GCC)
+## 4. Narahari — "gaura-badana sukha-sadana sudhāmaya…" (GPT1 p. 66, no. 15; GCC)
 *The old men of Navadvipa gaze at Gaura's face: each offers himself for Him; trembling, in tears, leaning on one another, they say:
 who created Mishra's son, who has stolen our hearing, mind and eyes? A moment without Him is like a kalpa; people tease us as madmen, we
 have forgotten all order in eating and sleeping, home has grown hateful, we have no love for our own sons. Yatharaga. **Attribution:
@@ -13265,7 +13261,7 @@ Narahari watches this matchless spectacle.
 (yatharaga). GPT1 has "tejala śeṣe" ("left… at last"), the GCC "tejala śeja" ("left their beds"); the GCC reading is adopted. Not in the BR,
 PK, KGC, PS or the Gita-chandrodaya. B.
 
-## 7. Narahari — "śuna mora vāṇī nā jāni ki have…" (GPT1 p. 67, no. 18; GCC)
+## 7. Narahari — "śuna mora bāṇī nā jāni ki habe…" (GPT1 p. 67, no. 18; GCC)
 *An old man says to his household: "I have grown utterly decrepit, and Nimai is our life and all our wealth; I always want to see Him,
 but have no strength to walk. Worship the gods, give gifts to brahmanas, send Him presents that please Him; go with Narahari to Shachi,
 teach her auspicious rites and make Nimai swear to give up His obstinacy." Raga suhai. **Attribution: probably Chakravarti** — the pada
@@ -13362,7 +13358,7 @@ Gaura.
 [^19-20]: The old man guesses the truth: Sri Gauranga is Krishna Himself, the Son of Nanda, the Lord of Vraja (CC Adi 1–4); "secret" — because in this incarnation
 the Lord hides His divinity (the "concealed" avatara of the Kali-yuga, Bhag. 7.9.38).
 
-## 11. Narahari — "śuna ohe sati nadīyā vasati…" (GPT1 p. 68, no. 22; GCC)
+## 11. Narahari — "śuna ohe sati nadīyā basati…" (GPT1 p. 68, no. 22; GCC)
 *Another old man says to his wife: "Not in vain have I lived in Nadia — in my old age Providence has been merciful: I have gazed my fill
 at Nimai; a moment without Him, and my soul weeps. Worship the gods, make vows for His welfare, reward the astrologers; go with Narahari
 to Shachi's house and perform auspicious rites." Raga vibhasa. **Attribution: probably Chakravarti** — the pada is in the GCC.*[^19-21]
@@ -13382,7 +13378,7 @@ go with Narahari to Shachi's house and perform auspicious rites there."
 [^19-21]: GPT1 — pp. 68–69, no. 22 (vibhasa; scan, PDF pp. 327–328); GPT2 — section 2.2, no. 22. The catalogue did not know it (new row
 NG-266). GCC — chapter 5, pada 3, marked "and another [says]" (kopi ca). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. On the
 prayers to the gods for the Lord see note 12.
-[^19-22]: "To die taking His misfortunes upon oneself" (vālāi laiyā mari) — a Bengali expression of tender love: "may all His troubles fall
+[^19-22]: "To die taking His misfortunes upon oneself" (bālāi laiyā mari) — a Bengali expression of tender love: "may all His troubles fall
 on me".
 
 ## 12. Narahari — "āju śubhakṣaṇe pohāila niśi…" (GPT1 p. 69, no. 23; GCC)
@@ -13431,10 +13427,10 @@ Narahari says: who has the power to understand all these deeds?
 [^19-24]: GPT1 — p. 69, no. 24 (yatharaga; scan, PDF p. 328); GPT2 — section 2.2, no. 24. The catalogue did not know it (new row NG-267). GCC — chapter 6, pada 2. Not in the BR, PK, KGC, PS or the
 Gita-chandrodaya. B. Sita Thakurani — the wife of Advaita Acharya; according to CC Adi 13, she came with gifts to bless the newborn
 Lord.
-[^19-25]: "As before" (pūrava pārā) — apparently as in the days of His appearance, when she first came to the Child (CC Adi 13); another
+[^19-25]: "As before" (pūraba pārā) — apparently as in the days of His appearance, when she first came to the Child (CC Adi 13); another
 reading is possible — as in the former (Krishna-)lila.
 
-## 14. Narahari — "śrīvāsa-vanitā ati sucaritā…" (GPT1 p. 69, no. 25; GCC)
+## 14. Narahari — "śrībāsa-banitā ati sucaritā…" (GPT1 p. 69, no. 25; GCC)
 *Srivasa's wife, tenderness incarnate, chaste and modest, her face covered with the hem of her cloth, stands beside Sita and gazes at
 Gaura, who sits in the middle of the courtyard among His dear associates; Malini floats in the ocean of His beauty. Raga vibhasa.
 **Attribution: probably Chakravarti** — the pada is in the GCC.*[^19-26]
@@ -13457,7 +13453,7 @@ Gita-chandrodaya. B.
 [^19-27]: Malini (mālyāni = mālinī) — the wife of Srivasa Pandita, in Krishna-lila the nurse Ambika (Gaura-ganoddesha-dipika); in Navadvipa she
 cared for the Lord with motherly love.
 
-## 15. Narahari — "rajanī-prabhāte śacīdevī cite…" (GPT1 p. 70, no. 26; GCC)
+## 15. Narahari — "rajanī-prabhāte śacīdebī cite…" (GPT1 p. 70, no. 26; GCC)
 *At dawn Shachi, weeping with joy, clasps Sita's feet and begs: "Be gracious to Nimai, bless Him with a long life; this child is the
 apple of my eye; let Him stay at home and give up His restlessness; after Vishvarupa He is my life — let there be no separation."
 Yatharaga. **Attribution: probably Chakravarti** — the pada is in the GCC.*[^19-28]
@@ -13537,7 +13533,7 @@ Gaura-lila His eternal consort Herself (Lakshmipriya).
 [^19-31]: An unwitting sadness which the poet puts into these wishes: the Lord would later go "abroad" — to East Bengal (CB Adi 14; CC Adi 16) — and
 would take sannyasa, leaving home (CB Madhya 26–28).
 
-## 17. Narahari — "āju ki ānanda śrīśacī-bhavane…" (GPT1 p. 71, no. 28; GCC)
+## 17. Narahari — "āju ki ānanda śrīśacī-bhabane…" (GPT1 p. 71, no. 28; GCC)
 *Dawn in Shachi's house: Vishvambhara sits among His dear associates and gives happiness to each in his own bhava; the old men and women,
 faint with tenderness, weep as they gaze at His face and tell one another of His deeds. Yatharaga. **Attribution: probably
 Chakravarti** — the pada is in the GCC.*[^19-32]
@@ -13554,11 +13550,11 @@ gazing and gazing at that moonlike face, no one can keep his composure.
 **17.4.** Tears flow unceasingly from their eyes, bliss is in the depths of their hearts;
 and again they tell one another the deeds of Gauranga, the life of Narahari.
 
-[^19-32]: GPT1 — p. 71, no. 28 (yatharaga; scan, PDF p. 330); GPT2 — section 2.2, no. 28 (catalogue: NG-014). GCC — chapter 6, pada 6 ("vṛddha
+[^19-32]: GPT1 — p. 71, no. 28 (yatharaga; scan, PDF p. 330); GPT2 — section 2.2, no. 28 (catalogue: NG-014). GCC — chapter 6, pada 6 ("bṛddha
 naranārī"). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^19-33]: Cf. Bhagavad-gita 4.11: "As they surrender to Me, so I reciprocate with them" — the Lord responds to each in his own rasa.
 
-## 18. Narahari — "nadīyāra ati puṇyavatī pativratā-gaṇera…" (GPT1 p. 71, no. 29; BR)
+## 18. Narahari — "nadīyāra ati puṇyabatī patibratā-gaṇera…" (GPT1 p. 71, no. 29; BR)
 *The pious married women of Nadia think more of Shachi's son than of their own sons: as soon as the night ends, they go to Him with trays
 of gifts, see Him playing on His mother's lap, take Him in their arms and forget themselves. Raga vibhasa. **Attribution: probably
 Chakravarti** — the pada is in the BR (12th wave).*[^19-34]
@@ -13580,7 +13576,7 @@ Narahari says: ah, ah, how beautifully this love was fashioned!
 Gaurachandra, and quotes the pada (immediately after no. 3). Not in PK, KGC, PS, the Gita-chandrodaya or the GCC. B. This is love in
 vatsalya (the women are mothers, the Lord an infant in Shachi's arms), not the nagari motif.
 
-## 19. Narahari — "śuna śuna prāṇasakhi tomāre valiye go…" (GPT1 p. 72, no. 30; GCC)
+## 19. Narahari — "śuna śuna prāṇasakhi tomāre baliye go…" (GPT1 p. 72, no. 30; GCC)
 *A woman of Navadvipa says to her friend: "Blessed is life in Nadia: in Treta there was Kaushalya, in Dvapara Yashoda, in Kali fortunate
 Shachi; blessed is Jagannatha Mishra; Shachi is like the Mother of the world: who else could have borne so many childish pranks? Some god
 has shown mercy — now Nimai has become good, but He was a dreadful scamp." Yatharaga. **Attribution: probably Chakravarti** — the pada
@@ -13605,7 +13601,7 @@ childhood of Gaura, who is already a youth (cf. note 8).
 [^19-36]: Kaushalya — the mother of Rama; Yashoda — the mother of Krishna in Vraja; Shachi — the mother of Gaura in the Kali-yuga.
 Chakravarti places her in the line of the Lord's eternal mothers.
 
-## 20. Narahari — "nimāicām̐dera kathā tomāre valiye go…" (GPT1 p. 72, no. 31; GCC)
+## 20. Narahari — "nimāicām̐dera kathā tomāre baliye go…" (GPT1 p. 72, no. 31; GCC)
 *Another recalls: "Nimai is the chief of scamps: born on the full moon of Phalguna during an eclipse, He cried wildly and would not take
 the breast; only the great ascetic of Shantipur, who knows the nature of this child, by some trick got Him to suck. I do not fear what
 people say: from His very birth He has been a great scamp." Yatharaga. **Attribution: probably Chakravarti** — the pada is in the
@@ -13632,7 +13628,7 @@ lunar eclipse, when everyone was chanting the name of Hari — CC Adi 13; CB Adi
 He heard the holy name; in Chakravarti, Advaita calms the Child "by some means". The Infant's crying stilled by the name of Hari — CC Adi
 13, 14; CB Adi 4.
 
-## 21. Narahari — "parāṇa nimāi mora khepā vaṛa vaṭe go…" (GPT1 p. 72, no. 32; GCC)
+## 21. Narahari — "parāṇa nimāi mora khepā baṛa baṭe go…" (GPT1 p. 72, no. 32; GCC)
 *A woman recalls: little Nimai, all covered in dust, was crawling about the courtyard, called His mother, climbed into her arms and
 suddenly burst into inconsolable sobs, struggled, and no one could calm Him; one woman in despair clapped her hands and said "Hari" — and
 at once He fell silent, laughed and hugged her neck; all sang "Hari, Hari", and He, not yet able to stand, danced holding His mother's
@@ -13719,7 +13715,7 @@ the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 Shachi is embarrassed: a brahmana's son calls himself the son of a cowherd; by the will of yogamaya her motherly love does not let her
 reflect on these words.
 
-## 24. Narahari — "ekadina nirjane nimāi ghare vule go…" (GPT1 p. 73, no. 35)
+## 24. Narahari — "ekadina nirjane nimāi ghare bule go…" (GPT1 p. 73, no. 35)
 *Three wonders of childhood: Shachi sees in the house footprints with the marks of a flag, a vajra and a goad — Mishra says these are the
 footprints of their household Deity Gopala; another day Shachi hears the sound of a flute and the name "Radha" pouring from Nimai's
 mouth; a third time two thieves carry Nimai off for His ornaments, but, deluded, return to Shachi's house, leave Him and flee. Yatharaga.
@@ -13802,7 +13798,7 @@ At the doings of Vishvambhara, the life of Narahari, who in Nadia does not tremb
 the BR, PK, KGC, PS or the Gita-chandrodaya. B. Nimai's childhood pranks in Navadvipa and the neighbours' complaints — CB Adi 6; CC Adi 14.
 [^19-53]: His elder brother Vishvarupa (see note 29); according to CB Adi 7, Nimai loved and obeyed him.
 
-## 27. Narahari — "ekadina nimāi praveśi gṛhamājhe go…" (GPT1 p. 74, no. 38)
+## 27. Narahari — "ekadina nimāi prabeśi gṛhamājhe go…" (GPT1 p. 74, no. 38)
 *Nimai mixed together in the house rice, dal, salt, oil, yogurt, milk, butter and ghee; His mother ran after Him with a stick, and He sat
 down on a heap of discarded pots; "Fie, get down, it is impure!" — "How can a pot in which bhoga was cooked for Vishnu be impure? The
 impurity is in your mind"; the astonished mother bathed Him and took Him in her arms: "This child is not a child, but Hari of
@@ -13832,7 +13828,7 @@ Gita-chandrodaya. C.
 playfully speaks like Dattatreya) and CB Adi 6; Murari 1.6. The meaning is not that the distinction between pure and impure is altogether
 illusory: the Lord is Vishnu Himself, everything connected with service to Him is pure, and He Himself is defiled by nothing.
 
-## 28. Narahari — "nimāicām̐dera e carita kata kava go…" (GPT1 p. 75, no. 39; GCC)
+## 28. Narahari — "nimāicām̐dera e carita kata kaba go…" (GPT1 p. 75, no. 39; GCC)
 *At bathing time on the bank of the Suradhuni Nimai gives neither men nor women any peace and quarrels with those carrying offerings to the
 gods; but when they complain of Him to Shachi and Mishra, He is virtue itself; all marvel: as Kanu was in the house of Nanda, so is He in
 the house of Shachi — it must be He. Yatharaga. **Attribution: probably Chakravarti** — the pada is in the GCC.*[^19-57]
@@ -13893,7 +13889,7 @@ The Lord Krishna-Chaitanya has blessed the age of Kali — Narahari Dasa sings H
 
 [^20-1]: GPT1 — p. 26, section 1.3 ("aishvarya and madhurya of the Gaura-avatara"), no. 2 (kamoda; scan, PDF p. 285); GPT2 — section 1.3, no. 2
 (catalogue: NG-003). BR — 12th wave (ed. 1912, p. 914; ed. 1960, vv. 3605–3608): Ishana, having told Srinivasa of the Lord's departure from
-Navadvipa to Puri, quotes this pada as a brief survey of His whole lila. Variant: the BR has "vilāilā" — "distributed", the GPT "milāilā" —
+Navadvipa to Puri, quotes this pada as a brief survey of His whole lila. Variant: the BR has "bilāilā" — "distributed", the GPT "milāilā" —
 "procured, bestowed". Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^20-2]: In Puri the Lord is absorbed in the bhava of Radha longing for Krishna: it was to taste Her love that He appeared (CC Adi 4; Antya 14–20).
 Nityananda is Balarama Himself (1.3; CC Adi 5).
@@ -13983,7 +13979,7 @@ on the appearance of the Lord see note 4.
 [^20-9]: During the eclipse all the people of Nadia, bathing, were repeating "Hari, Hari" — thus the Lord, before appearing, made the whole world sing
 His name (CC Adi 13). Rahu — according to the Puranas, the demon who swallows the moon at an eclipse.
 
-## 5. Narahari — "jaya jaya jaya maṅgalarava…" (GPT1 pp. 60–61, no. 22; BR)
+## 5. Narahari — "jaya jaya jaya maṅgalaraba…" (GPT1 pp. 60–61, no. 22; BR)
 *The night of the Phalguna full moon: from the womb of Shachi Gaura, the delight of Vraja, has appeared; His body flashes like steady
 lightning; the gods shower flowers, the kinnaras sing, the heavenly dancers dance; it is spring, the Malaya breeze blows, the waters of the
 Ganga surge; the poet is beside himself with the festivity in Mishra's house. Raga vasanta. **Attribution: probably Chakravarti** — the pada
@@ -14011,12 +14007,12 @@ at the festivity in Mishra's house Narahari's heart is beside itself.
 
 [^20-10]: GPT1 — pp. 60–61, no. 22 (vasanta; scan, PDF pp. 319–320); GPT2 — section 2.1, no. 22. The catalogue did not know it (new row NG-279). BR —
 12th wave (ed. 1912, pp. 765–766; ed. 1960, vv. 925–928). Line 5.3: GPT1 has "nṛtyasura", the BR "nṛtyata sura" ("the heavenly ones dance") — translated
-after the BR; 5.4: GPT1 and GPT2 have "miśrabhuvana", the BR "miśrabhavana" ("Mishra's house") — translated after the BR. Not in PK, KGC, PS, the
+after the BR; 5.4: GPT1 and GPT2 have "miśrabhubana", the BR "miśrabhabana" ("Mishra's house") — translated after the BR. Not in PK, KGC, PS, the
 Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^20-11]: Kinnaras — heavenly singers. The syllables "dhā-dhiki…", "thai thai…" imitate the strokes of the mridanga and the dancers' counting (as in the
 dance padas, chapters 17–18).
 
-## 6. Narahari — "bhuvanamanocorā gokulapati gorā…" (GPT1 pp. 61–62, no. 24; BR)
+## 6. Narahari — "bhubanamanocorā gokulapati gorā…" (GPT1 pp. 61–62, no. 24; BR)
 *The birth festival: the women of Nadia come with trays of gifts, and with them, mingling with the humans, the wives of the gods; Sita-devi and
 Malini perform auspicious rites; the cowherd men and women, after their former nature, scatter curd in the courtyard and dance; the gods in
 the guise of cowherds dance with them; in Mishra's house is the custom of Nanda's house. Raga vasanta or tori. **Attribution: probably
@@ -14045,7 +14041,7 @@ pp. ≈765–766; ed. 1960, vv. 937–942, "punarvvasanta—toṛī"), immediate
 Gita-chandrodaya or the Gaura-charita-chintamani. B. Signature "narahari ki kaba" (6.6).
 [^20-13]: Sita Thakurani, Advaita's wife, came to bless the newborn and brought gifts (CC Adi 13); Malini is Srivasa's wife (note 27 of chapter 19).
 [^20-14]: As at the festival of Krishna's birth in Nanda's house the cowherds scattered curd, milk and butter and danced (Bhag. 10.5), so here: the
-cowherds of Navadvipa act "after their former nature" (pūrvva svabhāvete), that is, as the cowherds of Vraja. Cf. CB Adi 3 (the gods in human
+cowherds of Navadvipa act "after their former nature" (pūrvva svabhābete), that is, as the cowherds of Vraja. Cf. CB Adi 3 (the gods in human
 guise come to see the Child).
 
 ## 7. Narahari — "nimāicām̐dera kathā ati aparūpa go…" (GPT1 p. 75, section 2.2, no. 40; GCC)
@@ -14068,12 +14064,12 @@ Nimai and Nitai are the two stars of her eyes." Narahari offers himself to this 
 [^20-15]: GPT1 — p. 75, section 2.2, no. 40 (yatharaga; scan, PDF p. 334); GPT2 — section 2.2, no. 40 (catalogue: NG-021; in the GPT2 recognition the
 number was read as "70"). GCC — chapter 6, pada 15 (ed. 1947, printed pp. 65–66). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. The pada
 continues the GCC cycle in which the people of Navadvipa come at dawn to Shachi's house and gaze at Gaura, returned from Gaya (chapter 19,
-nos. 4–28): "now" (eve) is the time after Gaya, when Nityananda is already in Navadvipa and Srivasa and Murari are inseparable from the Lord. In
-line 7.3 the GCC has "kṛṣṇe yena karila valāi" ("as Balai [loved] Krishna"); the GPT "kṛṣṇa yena…", with the same sense.
+nos. 4–28): "now" (ebe) is the time after Gaya, when Nityananda is already in Navadvipa and Srivasa and Murari are inseparable from the Lord. In
+line 7.3 the GCC has "kṛṣṇe yena karila balāi" ("as Balai [loved] Krishna"); the GPT "kṛṣṇa yena…", with the same sense.
 [^20-16]: Nityananda is Balarama, Krishna's elder brother in Vraja; Shachi is Yashoda (CC Adi 13; Adi 5). Shachi loved Nityananda as a son; cf. her
 dream in which Nimai and Nitai appear as Krishna and Balarama (CB, Madhya-khanda). "My Nitai" — the affectionate words of an elderly woman.
 
-## 8. Narahari — "nadīyāra yata vṛddhanārīgaṇe…" (GPT1 pp. 75–76, no. 41; GCC)
+## 8. Narahari — "nadīyāra yata bṛddhanārīgaṇe…" (GPT1 pp. 75–76, no. 41; GCC)
 *The elderly women of Nadia speak thus to one another, gaze at Gauranga's face, count themselves fortunate and bless Him. Yatharaga.
 **Attribution: probably Chakravarti** — the pada is in the GCC (the last pada of its 6th chapter).*[^20-17]
 
@@ -14089,7 +14085,7 @@ dream in which Nimai and Nitai appear as Krishna and Balarama (CB, Madhya-khanda
 (printed p. 66): with it Chakravarti closes the chapter on the love of the women of Navadvipa in vatsalya. Not in the BR, PK, KGC, PS or the
 Gita-chandrodaya. B. The next one in GPT1, no. 42, is an abridged doublet of no. 21 of chapter 19 (NG-023) and is not translated.
 
-## 9. Narahari — "nāco āre vāpa viśvambhara…" (GPT1 p. 76, no. 43; BR)
+## 9. Narahari — "nāco āre bāpa biśvambhara…" (GPT1 p. 76, no. 43; BR)
 *The virtuous women, clapping their hands and saying "Hari-bol", coax little Vishvambhara to dance, promising butter and cream; He, looking at
 His mother, dances crying "Hari-bol"; the courtyard shines with His golden body. Raga tudi. **Attribution: probably Chakravarti** — the pada is
 in the BR.*[^20-18]
@@ -14140,7 +14136,7 @@ Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 10.1 is the refrain (d
 [^20-21]: The mother's fear for the Child is vatsalya, the pure love of the Lord's eternal mother (note 2 of chapter 19), like Yashoda's anxiety for
 Krishna.
 
-## 11. Narahari — "raṅge nācaye śacīra vālā…" (GPT1 p. 77, no. 45; BR)
+## 11. Narahari — "raṅge nācaye śacīra bālā…" (GPT1 p. 77, no. 45; BR)
 *Shachi's child dances merrily in the courtyard, grey with dust, clapping His hands and saying "Hari"; His mother gives Him cream; He whirls
 round, the hem of His dhoti trails on the ground, the bells and anklets jingle. Raga kamoda. **Attribution: probably Chakravarti** — the pada
 is in the BR.*[^20-22]
@@ -14165,7 +14161,7 @@ is in the BR.*[^20-22]
 vv. 1049–1056), immediately after Vasu Ghosha's padas on Nimai's dance in the courtyard (PK 1151, 1161 — chapter 7). Not in PK (under Narahari's
 signature), KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. "Whirls" (ghume) — Vrajabuli, cf. Hindi "ghūmnā".
 
-## 12. Narahari — "āji āṅginā para nadīyā vālaka saṅge…" (GPT1 p. 77, no. 46)
+## 12. Narahari — "āji āṅginā para nadīyā bālaka saṅge…" (GPT1 p. 77, no. 46)
 *Shachi's child plays in the courtyard with the boys of Nadia — like the moon among the stars; Shachi, beside herself with joy, kisses Him,
 wipes His sweat and fans Him; beside them stands the poet with a chamara. Raga mangala. **Attribution: not established** — the pada is in
 neither the BR nor the GCC nor any other witness; Vrajabuli; in the signature the poet himself serves in the lila (note 24).*[^20-23]
@@ -14236,8 +14232,8 @@ skilled singers sing in well-measured metres, the dancers dance beating out: "ta
 What can Narahari say? The gods, gazing at this great splendour, beside themselves, loudly cry "jaya, jaya" in the sky.
 
 [^20-28]: GPT1 — p. 79, no. 2 (belavali; scan, PDF p. 338); GPT2 — section 2.3, no. 2 (catalogue: NG-027). BR — 12th wave (ed. 1912, p. 782; ed. 1960,
-vv. 1163–1166), immediately after the account of the pierced ears (note 26). Variants: 14.1 GPT1 "de’", BR "deta"; 14.2 GPT1 "śravaṇa pakṣagata", BR
-"śravaṇapatha-gata" ("reaching the ear") — translated after the BR; 14.3 GPT1 "prabheda bhavi", BR "prabheda bhaṇi". Not in PK, KGC, PS, the Gita-chandrodaya or the
+vv. 1163–1166), immediately after the account of the pierced ears (note 26). Variants: 14.1 GPT1 "de’", BR "deta"; 14.2 GPT1 "śrabaṇa pakṣagata", BR
+"śrabaṇapatha-gata" ("reaching the ear") — translated after the BR; 14.3 GPT1 "prabheda bhabi", BR "prabheda bhaṇi". Not in PK, KGC, PS, the Gita-chandrodaya or the
 Gaura-charita-chintamani. B. In the GPT1 signature the first letter of the name is cut off by the edge of the page ("…rahari").
 [^20-29]: Sutas, magadhas and bandins — court bards, singers of genealogies and panegyrists.
 
@@ -14265,7 +14261,7 @@ The brahmanas chant the Vedas — who, hearing them, can keep his composure? The
 Narahari Dasa says: the supplicants, having received fitting gifts, intoxicated with happiness, sing His glory.
 
 [^20-30]: GPT1 — pp. 79–80, no. 3 (kamoda; scan, PDF pp. 338–339); GPT2 — section 2.3, no. 3. The catalogue did not know it (new row NG-281; formerly its
-first line was confused with the wedding pada no. 11 "ki ānanda nadīyā-nagare | nimāira vivāhakathā…", NG-030). BR — 12th wave (ed. 1912, pp. 783;
+first line was confused with the wedding pada no. 11 "ki ānanda nadīyā-nagare | nimāira bibāhakathā…", NG-030). BR — 12th wave (ed. 1912, pp. 783;
 ed. 1960, vv. 1173–1178): "here Jagannatha Mishra resolved to give his son the sacred thread, fixed the day, called the relatives" (vv. 1170–1172).
 The next pada of GPT1, no. 4 (the upanayana: the Lord in the form of Vamana begs alms), is signed by Ghanashyama (outside the appendix); it is also
 in the BR (vv. 1179–1192). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
@@ -14295,7 +14291,7 @@ vv. 1193–1196), immediately after Ghanashyama's pada; then the BR tells how Mi
 following padas of the section in GPT1 — nos. 6–8 signed by Lochana, no. 9 by "Trilochana" (wedding padas, partly in nagari-bhava) — are not part of the appendix. Not in
 PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 
-## 17. Narahari — "vallabhaduhitā lakṣmī sucaritā…" (GPT1 p. 83, no. 10; BR)
+## 17. Narahari — "ballabhaduhitā lakṣmī sucaritā…" (GPT1 p. 83, no. 10; BR)
 *The first meeting by the Ganga: Lakshmi, Vallabha's daughter, goes with her friends to bathe and, seeing Gaurangachand, cannot restrain
 her hidden love; Gora, recognising His beloved, looks at her; their glances secretly meet, and He goes home smiling. Raga kamoda.
 **Attribution: probably Chakravarti** — the pada is in the BR.*[^20-33]
@@ -14320,7 +14316,7 @@ wished to marry; He went along this road to the Ganga, and Lakshmi-devi, the Lor
 love is not a worldly attraction but the eternal relation of the Lord and His energy. "Narahari's Lord" (narahari pahum̐) is a habitual turn of
 Chakravarti's signature (note 44 of chapter 17).
 
-## 18. Narahari — "ki ānanda nadīyā-nagare nimāira vivāhakathā…" (GPT1 p. 83, no. 11; BR)
+## 18. Narahari — "ki ānanda nadīyā-nagare nimāira bibāhakathā…" (GPT1 p. 83, no. 11; BR)
 *In every house of Nadia they talk of Nimai's wedding; all long to see it; the bards, dancers and musicians, astrologers, gardeners with
 garlands, hundreds of poor supplicants come running; the poet longs to see the wedding with his own eyes. Raga dhanashi. **Attribution:
 probably Chakravarti** — the pada is in the BR.*[^20-35]
@@ -14346,7 +14342,7 @@ probably Chakravarti** — the pada is in the BR.*[^20-35]
 Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. The matchmaking and the marriage with Lakshmipriya — CB Adi 10; CC Adi 15;
 Murari 1.9.
 
-## 19. Narahari — "nadīyāra navavadhū sava viralete kahe…" (GPT1 p. 83, no. 12; BR)
+## 19. Narahari — "nadīyāra nababadhū saba biralete kahe…" (GPT1 p. 83, no. 12; BR)
 *The young wives of Nadia, apart by themselves, rejoice at the coming wedding: fortunate are Vallabha Acharya and his wife, who gain such a
 son-in-law; fortunate is Lakshmi, who gains a husband more beautiful than Kama; Vanamali has made a good match; today is the adhivasa — time to
 dress up. Raga dhanashi. **Attribution: probably Chakravarti** — the pada is in the BR.*[^20-36]
@@ -14430,7 +14426,7 @@ BR "kare āi" — after the BR. Not in PK, KGC, PS, the Gita-chandrodaya or the 
 performs the bride's adhivasa (next pada). "The married women" (āiho śuiho) are wives whose husbands are living: only they perform the auspicious
 wedding rites.
 
-## 22. Narahari — "āju snehete vihvala haiyā…" (GPT1 p. 84, no. 15; BR)
+## 22. Narahari — "āju snehete bihvala haiyā…" (GPT1 p. 84, no. 15; BR)
 *The bride's adhivasa: Vallabha Acharya with his relatives performs the rite; the mother adorns Lakshmi and seats her on a throne; Lakshmi,
 receiving scents and a garland, rejoices, while around her, invisible, throng the heavenly women; music and the women's cries. Raga dhanashi.
 **Attribution: probably Chakravarti** — the pada is in the BR.*[^20-42]
@@ -14448,11 +14444,11 @@ hearts know no rest: around, invisible, throng hosts of heavenly women, gazing.[
 at the women's jubilant cries Narahari cannot keep his composure — and offers himself.
 
 [^20-42]: GPT1 — p. 84, no. 15 (dhanashi; scan, PDF p. 343); GPT2 — section 2.3, no. 15 (catalogue: NG-034). BR — 12th wave (ed. 1912, p. 790; ed. 1960,
-vv. 1273–1276). Variant: 22.1 GPT1 "ātmavipravargere" ("with his brahmana kinsmen"), BR "ārya vipravargere" ("with the worthy brahmanas"). Not in PK,
+vv. 1273–1276). Variant: 22.1 GPT1 "ātmabiprabargere" ("with his brahmana kinsmen"), BR "ārya biprabargere" ("with the worthy brahmanas"). Not in PK,
 KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 22.1 is the refrain (dhru). Then in GPT1 (nos. 16–27) and in the BR comes the
 wedding day: the morning after the adhivasa, the bath, the bridegroom's dress, the procession, the wedding in Vallabha's house, the return
 (chapter 21).
-[^20-43]: The heavenly women (devaramaṇī) come invisibly to see the wedding of the Lord and His eternal consort (cf. nos. 6 and 15).
+[^20-43]: The heavenly women (debaramaṇī) come invisibly to see the wedding of the Lord and His eternal consort (cf. nos. 6 and 15).
 
 ---
 
@@ -14475,7 +14471,7 @@ with GPT2, the BR (eds. 1912 and 1960) and the Gaura-charita-chintamani (ed. 194
 Lakshmipriya and Vishnupriya as the eternal energies of the Lord and on the wedding rites as lila see notes 2 and 30; on the motif of the
 women of Nadia, note 5. The notes of the GPT editors are not reproduced.*
 
-## 1. Narahari — "adhivāsa niśi pohāile…" (GPT1 p. 85, section 2.3, no. 16; BR)
+## 1. Narahari — "adhibāsa niśi pohāile…" (GPT1 p. 85, section 2.3, no. 16; BR)
 *The wedding day: the night of the adhivasa is over; Nimai, surrounded by brahmanas, performs the Vedic rites; crowds, music, songs, the
 praises of the bhatas, the women's cries of joy; everyone rejoices at the women's rites. Raga kamoda. **Attribution: probably
 Chakravarti** — the pada is in the BR (12th wave).*[^21-1]
@@ -14505,7 +14501,7 @@ lila and for the joy of His mother and His associates — as Krishna did in Dvar
 water rite, the anointing of the bridegroom, etc.). Here too the poet places himself in the lila as a witness and participant (cf. note 24 of
 chapter 20).
 
-## 2. Narahari — "kulavadhūgaṇa ulasita mana…" (GPT1 p. 85, no. 17; BR)
+## 2. Narahari — "kulabadhūgaṇa ulasita mana…" (GPT1 p. 85, no. 17; BR)
 *The wives of noble families dress to go for the water of the wedding bath; looking at Gora's face, they cry "ulu-lu"; they go, talking among
 themselves; anklets ring, music plays; having performed the water rite, they enter the house. Raga kamoda. **Attribution: probably
 Chakravarti** — the pada is in the BR.*[^21-4]
@@ -14523,7 +14519,7 @@ With their dress, ornaments and attire they shatter all composure — who could 
 Having completed the water rite, they enter the house — and Narahari's heart overflows with joy.[^21-5]
 
 [^21-4]: GPT1 — p. 85, no. 17 (kamoda; scan, PDF p. 344); GPT2 — section 2.3, no. 17 (catalogue: NG-035). BR — 12th wave (ed. 1912, p. 791; ed. 1960,
-vv. 1283–1286). Variant: 2.1 GPT1 "pāni-sahivāre", BR "pāni sāivāre" — "to perform the water rite" (translated by the sense of both readings).
+vv. 1283–1286). Variant: 2.1 GPT1 "pāni-sahibāre", BR "pāni sāibāre" — "to perform the water rite" (translated by the sense of both readings).
 Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. "Pani-sai" (jala sādhā) is a wedding custom: married women go with music
 to the Ganga and draw water for the bath of the bridegroom (or bride).
 [^21-5]: The poet describes the delight of the women of Nadia at the Lord's wedding in words close to the motif of the townswomen (nagaris) enamoured
@@ -14532,7 +14528,7 @@ does not accept the worship of Gaura in the mood of "Gaura-nagari": Gaura is Kri
 love, not to enjoy as a nagara. The Lord's attractiveness for the people of Navadvipa is the quality of Bhagavan, who attracts all; it is not
 worldly passion. The same holds for the other padas of the chapter about the women of Nadia (cf. note 39 of chapter 20).
 
-## 3. Narahari — "kivā śrīśacī-bhavana mājhe…" (GPT1 p. 85, no. 18; BR)
+## 3. Narahari — "kibā śrīśacī-bhabana mājhe…" (GPT1 p. 85, no. 18; BR)
 *The wedding bath of the bridegroom: amid auspicious cries the women loosen His locks and braid them again, oiling them, rub Him with
 turmeric and perfumes; He is bathed with Ganga water, and the poet playfully dries Him with a towel. Raga kamoda. **Attribution: probably
 Chakravarti** — the pada is in the BR.*[^21-6]
@@ -14550,8 +14546,8 @@ Chakravarti** — the pada is in the BR.*[^21-6]
 **3.6.** They bathed Him with Ganga water; Narahari, taking a towel, dries His body as if in play.
 
 [^21-6]: GPT1 — p. 85, no. 18 (kamoda; scan, PDF p. 344); GPT2 — section 2.3, no. 18 (catalogue: NG-036). BR — 12th wave (ed. 1912, p. 791; ed. 1960,
-vv. 1287–1292). Variants: 3.2 GPT1 "sthāne" ("in the place"), BR "snāne" ("at the bath") — following the BR; 3.5 GPT1 "upamā diva ki saṅge", BR-1912
-"ke dive upamā aṅge". Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 3.1 is the refrain (dhru).
+vv. 1287–1292). Variants: 3.2 GPT1 "sthāne" ("in the place"), BR "snāne" ("at the bath") — following the BR; 3.5 GPT1 "upamā diba ki saṅge", BR-1912
+"ke dibe upamā aṅge". Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 3.1 is the refrain (dhru).
 [^21-7]: Grown dim beside the golden radiance of the Lord's body. "Give their lives" (parāṇa nichaye) refers to the rite of nimchhani: out of love one
 waves something (in poetry — one's very life) around the beloved to ward off misfortune. The playful care of the women who perform the wedding
 rites (anointing the bridegroom with turmeric and oil) is festive merriment, not nagari-bhava.
@@ -14583,7 +14579,7 @@ in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 4.
 [^21-9]: Vishvambhara ("He who sustains the universe") is the name given to the Lord at His naming (CB Adi 4). The red-bordered cloth is the
 bridegroom's wedding garment. Here too the poet takes part in the lila, clothing the Lord (cf. 3.6).
 
-## 5. Narahari — "veśa vanāiyā sahacare…" (GPT1 pp. 86–87, no. 20; BR)
+## 5. Narahari — "beśa banāiyā sahacare…" (GPT1 pp. 86–87, no. 20; BR)
 *His friends, having dressed Nimai, give Him a golden mirror; even the gods cannot take their eyes off Him; Shachi and her friends perform
 auspicious rites; the young wives look on from afar; bowing to His mother, Gaura sets out for the wedding amid Vedic chanting and music.
 Raga kamoda. **Attribution: probably Chakravarti** — the pada is in the BR.*[^21-10]
@@ -14636,14 +14632,14 @@ the Earth has blossomed in great joy, the waters of the Jahnavi surge; what can 
 happiness.
 
 [^21-12]: GPT1 — p. 87, no. 21 (bhupali; scan, PDF p. 346); GPT2 — section 2.3, no. 21 (catalogue: NG-038). BR — 12th wave (ed. 1912, pp. 792–793; ed. 1960,
-vv. 1309–1312). Variants: 6.1 GPT1 "chalakāya", "jhalakāya", BR "chalakaye", "jhalakaye"; 6.2 GPT1 "vandīgaṇa, bhuri maṅgalabhaṇa", BR "vandigaṇa bhaṇa bhuri maṅgala"; 6.3 GPT1
+vv. 1309–1312). Variants: 6.1 GPT1 "chalakāya", "jhalakāya", BR "chalakaye", "jhalakaye"; 6.2 GPT1 "bandīgaṇa, bhuri maṅgalabhaṇa", BR "bandigaṇa bhaṇa bhuri maṅgala"; 6.3 GPT1
 "janu", BR "yanu" (both "as if"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. The syllables "thai-tata",
 "thonga-thongina" imitate the dancers' counting and the strokes of the drums (cf. note 11 of chapter 20).
 [^21-13]: Dusk (godhūli, "the hour of cow-dust", when the herds return home) is an auspicious hour for a wedding. The palanquin (caudola) is the litter
 on which the bridegroom is carried to the bride's house. The wedding with Lakshmipriya takes place in the house of her father, Vallabha
 Acharya (CB Adi 10).
 
-## 7. Narahari — "gorācām̐dera vivāha dekhivāre…" (GPT1 pp. 87–88, no. 22; BR)
+## 7. Narahari — "gorācām̐dera bibāha dekhibāre…" (GPT1 pp. 87–88, no. 22; BR)
 *The young wives of Nadia, in fine dress and ornaments, their bells ringing, hurry to see Gorachand's wedding; they talk among themselves,
 smiling under their veils; their glances dart in all directions; seeing the poet's Lord enter Vallabha's house, they are beside themselves
 with joy. Raga bhupali. **Attribution: probably Chakravarti** — the pada is in the BR.*[^21-14]
@@ -14660,12 +14656,12 @@ on their lovely faces hidden by veils, a soft, soft smile; whom would the radian
 and, seeing Narahari's Lord of life entering Vallabha's house, they are beside themselves with joy.[^21-15]
 
 [^21-14]: GPT1 — pp. 87–88, no. 22 (bhupali; scan, PDF pp. 346–347); GPT2 — section 2.3, no. 22 (catalogue: NG-039). BR — 12th wave (ed. 1912, p. 793; ed.
-1960, vv. 1313–1316). Variants: 7.4 GPT1 "uthalaye", BR-1960 "ulaye" (OCR?); 7.3 GPT1 "veśara", BR "vesara" (the same word, "nose-ring"). Not in PK, KGC, PS,
+1960, vv. 1313–1316). Variants: 7.4 GPT1 "uthalaye", BR-1960 "ulaye" (OCR?); 7.3 GPT1 "beśara", BR "besara" (the same word, "nose-ring"). Not in PK, KGC, PS,
 the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 7.1 is the refrain (dhru).
 [^21-15]: The khanjana is the wagtail, in Indian poetry an image of lively, restless eyes. "Narahari's Lord of life" (narahari parāṇanātha) is the poet's Lord, a
 turn of the signature (like "Narahari's Lord", note 34 of chapter 20); the young wives' joy is festive delight at the wedding (see note 5).
 
-## 8. Narahari — "vallabha-bhavane gorā rāya…" (GPT1 pp. 88–89, no. 23; BR)
+## 8. Narahari — "ballabha-bhabane gorā rāya…" (GPT1 pp. 88–89, no. 23; BR)
 *The wedding in Vallabha's house: Vishvambhara stands on a little board under the wedding canopy; the bride's mother with the married women
 welcomes the bridegroom, circling Him seven times with seven lamps; Vallabha Acharya brings his daughter, seats her on a throne and by the
 rite gives Lakshmi to the son of Shachi; Vedic chanting, cries of joy, music; from their celestial chariots the gods invisibly shower the
@@ -14713,7 +14709,7 @@ wedding with flowers. Raga kamoda. **Attribution: probably Chakravarti** — the
 
 [^21-16]: GPT1 — pp. 88–89, no. 23 (kamoda; scan, PDF pp. 347–348); GPT2 — section 2.3, no. 23 (catalogue: NG-040). BR — 12th wave (ed. 1912, pp. 794–795; ed.
 1960, vv. 1317–1336). Variants: 8.3 GPT1 "sarasa hiyāya" ("with a heart full of rasa"), BR "haraṣa hiyāya" ("with a glad heart"); 8.9 GPT1 "āyogaṇa sāte", BR
-"āigaṇa sāthe" (the same: married women); 8.17 GPT1 "kulera kāminī", BR "kulera ramaṇī"; 8.18 BR "rāyavāra". The GPT1 editor's notes on 8.3 and 8.9 are not
+"āigaṇa sāthe" (the same: married women); 8.17 GPT1 "kulera kāminī", BR "kulera ramaṇī"; 8.18 BR "rāyabāra". The GPT1 editor's notes on 8.3 and 8.9 are not
 reproduced. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^21-17]: The piri (piṛi) is a low wooden board on which the bridegroom stands or sits during the rite; choṛalā is the place of the wedding rite under the
 canopy.
@@ -14739,11 +14735,11 @@ says Narahari: the rasa that surges in the bridal chamber has no comparison.[^21
 
 [^21-19]: GPT1 — p. 89, no. 24 (bhupali; scan, PDF p. 348); GPT2 — section 2.3, no. 24 (catalogue: NG-041). BR — 12th wave (ed. 1912, p. 795; ed. 1960, vv.
 1337–1340). Variant: 9.1 GPT1 "śoja" (misprint), BR "se ye" — following the BR. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
-[^21-20]: Vasara (vāsara) is the first night after the wedding, which the couple spend in the chamber while the women of the bride's house keep them awake
+[^21-20]: Vasara (bāsara) is the first night after the wedding, which the couple spend in the chamber while the women of the bride's house keep them awake
 joking with the bridegroom — a custom of the Bengali wedding. The women's jokes at the wedding are ritual merriment, not nagari-bhava;
 Lakshmipriya is the eternal energy of the Lord (note 2), and the whole scene is the Lord's lila with His energy, not worldly love.
 
-## 10. Narahari — "gorācām̐dera vivāha paradine…" (GPT1 p. 89, no. 25; BR)
+## 10. Narahari — "gorācām̐dera bibāha paradine…" (GPT1 p. 89, no. 25; BR)
 *At dawn after the wedding the women run together to admire bride and bridegroom; Vallabha's fortunate wife rejoices; generous Vallabha
 Mishra does everything for his son-in-law; Gaurahari, having performed the wedding rites, is glad; the gods praise Vallabha. Raga todi.
 **Attribution: probably Chakravarti** — the pada is in the BR.*[^21-21]
@@ -14783,12 +14779,12 @@ troupes of dancers dance, skilled singers sing songs without end.
 the whole world is full of cries of "jaya, jaya" — what a pastime of Narahari's Lord [returning] home!
 
 [^21-22]: GPT1 — p. 89, no. 26 (todi; scan, PDF p. 348); GPT2 — section 2.3, no. 26 (catalogue: NG-043). BR — 12th wave (ed. 1912, p. 796; ed. 1960, vv.
-1347–1350). Variants: 11.1 GPT1 "kahala lakhimī ki vāta", BR "kahala lakhimika vāta" ("spoke of Lakshmi") — following the BR; 11.2 GPT1 "karava payāna" ("will depart"),
+1347–1350). Variants: 11.1 GPT1 "kahala lakhimī ki bāta", BR "kahala lakhimika bāta" ("spoke of Lakshmi") — following the BR; 11.2 GPT1 "karaba payāna" ("will depart"),
 BR "kayala payāna" ("departed"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^21-23]: By custom the bride leaves her father's house after the wedding for her husband's house; the father entrusts his daughter to his son-in-law,
 and her friends lament the parting.
 
-## 12. Narahari — "vivāha kariyā viśvambhara…" (GPT1 p. 90, no. 27; BR)
+## 12. Narahari — "bibāha kariyā biśvambhara…" (GPT1 p. 90, no. 27; BR)
 *Vishvambhara returns home with His young wife; the married women perform auspicious rites; Shachi, taking her daughter-in-law on her lap,
 blesses her with paddy and durva grass and gazes again and again at the faces of her son and daughter-in-law; the Lord gladdens everyone
 with sweet words and fulfils the wishes of the bhatas, dancers and musicians. Raga kamoda. **Attribution: probably Chakravarti** — the pada
@@ -14811,7 +14807,7 @@ is in the BR.*[^21-24]
 **12.8.** Narahari cries aloud: "Oh, that I might see such merriment in Nadia!"
 
 [^21-24]: GPT1 — p. 90, no. 27 (kamoda; scan, PDF p. 349); GPT2 — section 2.3, no. 27 (catalogue: NG-044). BR — 12th wave (ed. 1912, p. 796; ed. 1960, vv.
-1351–1358). Variant: 12.4 GPT1 "śrīśacī sukhera nāhi pāra… dekhe kata vāra", BR "śrīśacī-snehera nāi pāra… cumbe kata vāra" ("there is no limit to Shachi's
+1351–1358). Variant: 12.4 GPT1 "śrīśacī sukhera nāhi pāra… dekhe kata bāra", BR "śrīśacī-snehera nāi pāra… cumbe kata bāra" ("there is no limit to Shachi's
 tenderness… how many times she kisses"). In the BR, straight after the pada, Ishana tells Srinivasa: "I saw this wedding merriment with my own eyes"
 (v. 1359) — whereas the signature of the pada voices the poet's wish to see such merriment (12.8): so might speak a poet who had not seen the
 wedding — one more argument for Chakravarti. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
@@ -14882,7 +14878,7 @@ Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^21-30]: Vishnupriya is the eternal consort of the Lord, His own Bhu-shakti (the energy of the Earth); like Lakshmipriya (note 2), she is not a worldly
 wife but His own energy, and the wedding with her is the Lord's lila.
 
-## 15. Narahari — "yuvatī-yūtha mati gati ati adabhuta…" (GPT1 p. 94, no. 5; BR; GCC)
+## 15. Narahari — "yubatī-yūtha mati gati ati adabhuta…" (GPT1 p. 94, no. 5; BR; GCC)
 *The morning of the adhivasa: lines of young women who have come to Shachi's house bow down at her feet like young golden creepers weighed
 down with flowers; they stretch out their hands to take the dust of her feet and, covering their faces with the ends of their veils, smile
 softly. Raga belavali. **Attribution: probably Chakravarti** — the pada is in the BR and in the Gaura-charita-chintamani; Vrajabuli.*[^21-31]
@@ -14908,7 +14904,7 @@ PS or the Gita-chandrodaya. B. The preceding GPT pada (no. 4, signed Ghanashyama
 [^21-32]: Subtle Vrajabuli similes: the women bowing in dark garments with loosened hair are a cloud, their golden bodies the lightnings; their nails
 are jewels come to bow at her feet; their smile is strained nectar. On the motif of the women of Nadia see note 5.
 
-## 16. Narahari — "śacī jagata-jananī jana-nītavida…" (GPT1 p. 95, no. 6; BR; GCC)
+## 16. Narahari — "śacī jagata-jananī jana-nītabida…" (GPT1 p. 95, no. 6; BR; GCC)
 *Shachi, mother of the world, lovingly receives the young wives, asks each about her welfare and blesses her, placing a hand on her head; they
 answer with a smile: "Having seen these auspicious feet, how could misfortune remain with us?" — and stand with joined palms; Shachi's eyes
 fill with tears of tenderness. Raga todi. **Attribution: probably Chakravarti** — the pada is in the BR and in the Gaura-charita-chintamani.*[^21-33]
@@ -14926,7 +14922,7 @@ regarding all as her daughters-in-law, dearer than her own life, shows them all 
 the mother of Narahari's Lord of life, seeing this, is overcome with tenderness — her eyes brim with tears.[^21-34]
 
 [^21-33]: GPT1 — p. 95, no. 6 (todi; scan, PDF p. 354); GPT2 — section 2.4, no. 6 (catalogue: NG-049). BR — 12th wave (ed. 1912, p. 801; ed. 1960, vv. 1419–1422).
-GCC — ch. 9, pada 21 (there "jananī-tattvavida", "kara yuṛi nikaṭe dām̐ṛāyā rahe" — "they stand near with joined palms"). Variant: 16.3 GPT1 "āgā", BR and GCC
+GCC — ch. 9, pada 21 (there "jananī-tattvabida", "kara yuṛi nikaṭe dām̐ṛāyā rahe" — "they stand near with joined palms"). Variant: 16.3 GPT1 "āgā", BR and GCC
 "ogo" — following the BR. Not in PK, KGC, PS or the Gita-chandrodaya. B.
 [^21-34]: Shachi is the Lord's mother, His eternal associate in vatsalya-rasa; blessing the wives of Nadia, she wishes them worldly welfare, as befits a
 mother in the lila — and they reply that after the darshan of her feet no misfortune can remain: that is the highest good.
@@ -14959,15 +14955,15 @@ They distribute oil, turmeric and the rest — who can tell all the women's rite
 Who does not swim in that ocean of happiness? Narahari gives himself to the Lord in this [joy].[^21-36]
 
 [^21-35]: GPT1 — pp. 95–96, no. 8 ("yathārāga"; scan, PDF pp. 354–355); GPT2 — section 2.4, no. 8 (catalogue: NG-051). BR — 12th wave (ed. 1912, p. 802; ed. 1960, vv.
-1429–1432). Variants: 17.4 GPT1 "vālaka" ("boys"), BR "vādaka" ("musicians") — following the BR; the bells in the BR "rini jhini rini jhinini"; 17.5 GPT1 "bhuvane"
-("into the world"), BR "bhavane" ("into the house") — following the BR; GPT1 "narahari pahum̐ nichani tāhe", BR "narahari vahu nichani tāhe" ("Narahari again and again gives
+1429–1432). Variants: 17.4 GPT1 "bālaka" ("boys"), BR "bādaka" ("musicians") — following the BR; the bells in the BR "rini jhini rini jhinini"; 17.5 GPT1 "bhubane"
+("into the world"), BR "bhabane" ("into the house") — following the BR; GPT1 "narahari pahum̐ nichani tāhe", BR "narahari bahu nichani tāhe" ("Narahari again and again gives
 himself for that"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 17.1 is the opening couplet. The chapter plan had
 provisionally assigned this pada to the nagari section ("floating in Gora's rasa"); in substance it describes the wedding water rite (cf. no. 2), and
 it is translated here — with the caveat of note 5.
 [^21-36]: "Floating in Gora's rasa" — in joy over the Lord whose wedding is being celebrated; on the motif of the women of Nadia see note 5. The celestial
 women come invisibly to take part in the Lord's wedding (cf. no. 21).
 
-## 18. Narahari — "śacīdevī ulasita haiñā…" (GPT1 p. 96, no. 9; BR)
+## 18. Narahari — "śacīdebī ulasita haiñā…" (GPT1 p. 96, no. 9; BR)
 *Shachi with the married women goes to the Ganga and worships her with flowers and sandal — and the Suradhuni surges, holding in her heart the feet
 of Shachi's son; then she worships Shashthi — and Shashthi, rejoicing, praises her own good fortune; the women return home; at home Shachi
 performs the auspicious rites. Raga not specified. **Attribution: probably Chakravarti** — the pada is in the BR.*[^21-37]
@@ -14985,14 +14981,14 @@ Returning home, [Shachi] performs the auspicious rites — Narahari cannot find 
 
 [^21-37]: GPT1 — p. 96, no. 9 ("yathārāga"; scan, PDF p. 355; in the OCR the number is garbled — "“ma pada"); GPT2 — section 2.4, no. 9. **The catalogue did not
 know it** (new row NG-285). BR — 12th wave (ed. 1912, p. 803; ed. 1960, vv. 1433–1436). Variants: 18.1 GPT1 "āyo suyogaṇa", BR "āiha-suihagaṇa" (the same:
-married women); 18.4 GPT1 "vadhūgaṇa", BR "vandhugaṇa" ("kinsfolk"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 18.1 is the
+married women); 18.4 GPT1 "badhūgaṇa", BR "bandhugaṇa" ("kinsfolk"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Line 18.1 is the
 refrain (dhru).
 [^21-38]: The Ganga flows from the feet of the Lord (Bhag. 5.17), so, says the poet, she "holds in her heart" Gaura's feet. Shashthi is the goddess who
 protects children; the worship of the Ganga and of Shashthi before a son's wedding is a custom of Bengali mothers, and Shachi follows it in the
 lila. The Gaudiya tradition does not worship the demigods for separate ends; and the poet shows that the Ganga and Shashthi themselves rejoice as
 servants of the Lord.
 
-## 19. Narahari — "gorā-vidhu adhivāsa-sukhe…" (GPT1 p. 96, no. 10; BR)
+## 19. Narahari — "gorā-bidhu adhibāsa-sukhe…" (GPT1 p. 96, no. 10; BR)
 *The bridegroom's adhivasa: everyone hurries into the house; Gora's dear ones skilfully perform the rites and distribute garlands and sandal; in
 the midst of the assembly the son of Shachi shines like Indra among the gods; Sanatana Mishra with his people brings gifts, touches Him with
 perfume and cannot take his eyes from His face; Vedic chanting, cries of joy, praises, music. Raga not specified. **Attribution: probably
@@ -15011,7 +15007,7 @@ touching [Him] with perfume, he gazes with unblinking eyes at Gora's face.[^21-4
 Narahari sings the rasa of the adhivasa, the musicians play on many instruments.
 
 [^21-39]: GPT1 — p. 96, no. 10 ("yathārāga"; scan, PDF p. 355); GPT2 — section 2.4, no. 10 (catalogue: NG-052). BR — 12th wave (ed. 1912, pp. 803–804; ed. 1960, vv.
-1437–1440). Variants: 19.1 GPT1 "bhūvana mājhe" ("into the world"), BR "bhavana-mājhe" ("into the house") — following the BR; GPT1 "gorā priyāgaṇa" ("Gora's
+1437–1440). Variants: 19.1 GPT1 "bhūbana mājhe" ("into the world"), BR "bhabana-mājhe" ("into the house") — following the BR; GPT1 "gorā priyāgaṇa" ("Gora's
 beloveds"), BR "gorā-priyagaṇa" ("Gora's dear ones") — following the BR; 19.2 GPT1 "ke kata kare", BR "ke kata kabe" ("who can tell") — following the BR. Not in PK,
 KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^21-40]: Purandara is Indra, king of the gods. Sanatana Mishra is Vishnupriya's father, the "Raja-pandita" of Navadvipa (CB Adi 15); by custom the
@@ -15058,7 +15054,7 @@ appendix.
 [^21-42]: The Raja-pandita is Sanatana Mishra, the court scholar (CB Adi 15; note 40). Vishnupriya is the eternal energy of the Lord (note 30); as at
 Lakshmipriya's adhivasa (no. 22 of chapter 20), all the people of Nadia come to bless her.
 
-## 21. Narahari — "adhivāsa divasera pare…" (GPT1 p. 98, no. 13; BR)
+## 21. Narahari — "adhibāsa dibasera pare…" (GPT1 p. 98, no. 13; BR)
 *The wedding day: through Nadia rings "today is Nimai's wedding"; to see it there come invisibly Shiva with Parvati, Ananta with his
 associates, the residents of Vaikuntha, Brahma with his consort, Indra with Shachi, the gods, the celestial women, gandharvas and kinnaras,
 the heavenly dancers, the divine sages; the Yamuna and the Ganga surge; the brahmanas of Nadia gather in Nimai's house; Gaurahari, having
@@ -15101,8 +15097,8 @@ performed the wedding rites, sits in joy. Raga not specified. **Attribution: pro
 **21.18.** How much auspiciousness arises here! How can Narahari tell of it with one mouth?
 
 [^21-43]: GPT1 — p. 98, no. 13 ("yathārāga"; scan, PDF p. 357); GPT2 — section 2.4, no. 13 (catalogue: NG-054). BR — 12th wave (ed. 1912, p. 806; ed. 1960, vv. 1459–1476;
-two lines, 1469–1470, fall on a part lost in the 1960 OCR; the 1960 editor's heading — "the wedding of Sri Nimai"). Variants: 21.13 BR "devṛṣi"; 21.15
-BR-1960 "vrāhmaṇī(?)" — OCR. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
+two lines, 1469–1470, fall on a part lost in the 1960 OCR; the 1960 editor's heading — "the wedding of Sri Nimai"). Variants: 21.13 BR "debṛṣi"; 21.15
+BR-1960 "brāhmaṇī(?)" — OCR. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^21-44]: "The lord of the gods" is Indra; Shachi here is his consort (not the Lord's mother). Ananta is Ananta-Shesha, the thousand-headed servant of the
 Lord. All the demigods and the residents of Vaikuntha themselves come to the Lord's wedding as His servants — thus the poet shows that Gaura is the
 Supreme Lord Himself.
@@ -15130,7 +15126,7 @@ Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Cf.
 [^21-46]: The trembling and the "longing to touch" of the women who perform the bridegroom's bath are an image of the Lord's all-attractive beauty,
 conveyed in a lyrical manner; this is a wedding rite and merriment, not nagari-bhava (see note 5).
 
-## 23. Narahari — "ki ānanda śacīra bhavane…" (GPT1 p. 99, no. 15; BR)
+## 23. Narahari — "ki ānanda śacīra bhabane…" (GPT1 p. 99, no. 15; BR)
 *After the bath Gaurahari sits on a wondrous throne; the married women perform auspicious rites; His dear ones come, cannot take their eyes off
 Him, and joyfully dress Him for the wedding. Raga not specified. **Attribution: probably Chakravarti** — the pada is in the BR.*[^21-47]
 
@@ -15147,9 +15143,9 @@ Him, and joyfully dress Him for the wedding. Raga not specified. **Attribution: 
 **23.6.** What can Narahari say? Let me die taking on myself the misfortunes of this peerless attire![^21-48]
 
 [^21-47]: GPT1 — p. 99, no. 15 ("yathārāga"; scan, PDF p. 358); GPT2 — section 2.4, no. 15. **The catalogue did not know it** (new row NG-286). BR — 12th wave (ed. 1912,
-p. 807; ed. 1960, vv. 1481–1486). Variants: 23.1 BR "ki ānanda śacī-bhavane"; 23.4 BR "priyagaṇa… nāre phirāite nayana". Not in PK, KGC, PS, the Gita-chandrodaya
+p. 807; ed. 1960, vv. 1481–1486). Variants: 23.1 BR "ki ānanda śacī-bhabane"; 23.4 BR "priyagaṇa… nāre phirāite nayana". Not in PK, KGC, PS, the Gita-chandrodaya
 or the Gaura-charita-chintamani. B.
-[^21-48]: "Taking on myself the misfortunes" (vālāi laiyā mari) is a homely formula of love: may every misfortune that threatens the beloved fall on me
+[^21-48]: "Taking on myself the misfortunes" (bālāi laiyā mari) is a homely formula of love: may every misfortune that threatens the beloved fall on me
 (cf. note 7).
 
 ## 24. Narahari — "nadīyāra śaśī rasika-śekhara…" (GPT1 p. 99, no. 16; BR)
@@ -15196,7 +15192,7 @@ The base text is GPT1 (doubtful places from the scan), collated with GPT2, the B
 1947); PK, KGC, PS and the Gita-chandrodaya have been checked. On Vishnupriya and the wedding rites as lila see note 2; on the motif of the
 women of Nadia, note 5; on the ashtakaliya as eternal lila, note 36. The notes of the GPT editors are not reproduced.*
 
-## 1. Narahari — "gaura rasika-śekharavara…" (GPT1 p. 100, section 2.4, no. 18; BR)
+## 1. Narahari — "gaura rasika-śekharabara…" (GPT1 p. 100, section 2.4, no. 18; BR)
 *The wedding procession: Gaura, surrounded by brahmanas, sets out for the wedding in a palanquin; instruments of the four kinds sound;
 invisible celestial dancers dance together with earthly ones, the gandharvas sing with the singers; Ananta, Brahma, Shiva, Indra, Ganesha,
 Parvati float in an ocean of joy; horses, elephants, guards, jesters, hundreds of banners; having gone round Nadia and paused on the bank of
@@ -15237,7 +15233,7 @@ One"), Brahma, Shiva (Mahesha), Indra ("the lord of the gods"), Ganesha, Parvati
 and to behold His lila. The gandharvas are the celestial singers; shrutis and gramas are the intervals and scales of Indian music; lasya is
 the tender, "feminine" kind of dance.
 
-## 2. Narahari — "gorācām̐dera vivāha dekhivāre…" (GPT1 p. 100, no. 19; BR)
+## 2. Narahari — "gorācām̐dera bibāha dekhibāre…" (GPT1 p. 100, no. 19; BR)
 *The wives of noble families, with great longing, adorn themselves to see Gorachand's wedding: collyrium, braids with golden clasps,
 sindura and sandal, necklaces, flowers in their ears, silk saris; with stately gait they go to the wedding, and on seeing the poet's Lord
 they whisper. Raga not stated. **Attribution: probably Chakravarti** — the pada is in the BR.*[^22-4]
@@ -15290,7 +15286,7 @@ Line 3.1 is the refrain. The next pada in the GPT and the BR (no. 21) is in naga
 beauty of the Lord (see note 5). Madana is Kamadeva, the god of love; hundreds of Madanas "offer themselves" (nichani — give themselves as a
 ransom) for His beauty: it surpasses the beauty of Kamadeva himself.
 
-## 4. Narahari — "sanātana miśrera bhavane…" (GPT1 pp. 101–102, no. 22; BR)
+## 4. Narahari — "sanātana miśrera bhabane…" (GPT1 pp. 101–102, no. 22; BR)
 *The reception of the bridegroom in the house of Sanatana Mishra: music sounds; Sanatana with his kin comes out to meet Him; the
 bridegroom shines in the palanquin; around Him brahmanas and worthy men, a countless crowd; the blind, holding others' hands, stand
 where Gaurachandra is, the lame come out on the road, the infirm totter along with sticks; all sing Gora's glories; children and old men
@@ -15334,10 +15330,10 @@ BR — 12th wave (ed. 1912, pp. 811–812; ed. 1960, vv. 1511–1526). Variants:
 others are minor. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. The reception of the bridegroom in Sanatana's house — CB
 Adi 15; in Lochana — *Chaitanya-mangala*, Adi-khanda, part 14, vv. 146–147.
 [^22-9]: The blind, the lame, the infirm — an image by which the poet shows that the Lord draws all to Himself without distinction. "The
-reception" (varaṇa) is the honouring of the bridegroom by the bride's father: water for washing the feet, arghya, clothes, ornaments, a garland
+reception" (baraṇa) is the honouring of the bridegroom by the bride's father: water for washing the feet, arghya, clothes, ornaments, a garland
 (in Lochana, vv. 146–147, 153). "Of both sides" (dom̐hāra) — the musicians of the bridegroom and of the bride.
 
-## 5. Narahari — "nadīyāra śaśī vilasaye cāru…" (GPT1 p. 102, no. 23; BR)
+## 5. Narahari — "nadīyāra śaśī bilasaye cāru…" (GPT1 p. 102, no. 23; BR)
 *The bridegroom under the wedding canopy: Vishnupriya's mother, under various pretexts, looks at Him again and again, her feet not
 touching the ground; with the married women skilled in auspicious rites she places rice and durva on His head, blesses Him, circles Him
 seven times with a lamp and, going into the house, looks back at the poet's Lord and cannot take even half a step. Raga not stated.
@@ -15359,7 +15355,7 @@ but, looking back at the Lord of Narahari, under the weight of tenderness she ca
 Variant: 5.4 GPT1 "cāhe pālaṭi nā cale pada ādha" ("looks back — cannot take even half a step"), BR "cāhe pālaṭiyā, cale pada ādha" ("looking back, takes half a
 step") — following GPT1. The signature is garbled in the GPT1 OCR ("narahabi"), so the signature-checking script misses the pada (chapter 21). Not in PK,
 KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
-[^22-11]: The wedding canopy (chom̐ṛalā) is the place of the rites in the courtyard of the bride's house. The reception of the bridegroom (vare urathiyā)
+[^22-11]: The wedding canopy (chom̐ṛalā) is the place of the rites in the courtyard of the bride's house. The reception of the bridegroom (bare urathiyā)
 is performed by the bride's mother and the married women: rice and durva on the head, a lamp, the sevenfold circling (in Lochana, vv.
 149–152). The tenderness of the mother-in-law for the Lord is parental love, which He accepts from His associates.
 
@@ -15414,7 +15410,7 @@ heart" — the inseparability of the Lord and His energy.
 [^22-14]: Kanya-dana is the "gift of the daughter" by her father; the homa is the fire sacrifice; the bride is seated at the bridegroom's left.
 The Lord accepts these rites following the lila (note 2). "Gives himself for Them" (nichani) is a formula of love and devotion (cf. note 7).
 
-## 7. Narahari — "dekhi pahum̐ka vivāha mādhurī…" (GPT1 p. 103, no. 25; BR)
+## 7. Narahari — "dekhi pahum̐ka bibāha mādhurī…" (GPT1 p. 103, no. 25; BR)
 *The gods at the wedding: seeing the sweetness of the Lord's wedding, Shesha, Shiva, Brahma, Indra, Ganapati and others thrill; the
 chariots of the gods block the path of the sky; invisible, telling one another of His deeds, the gods shower the wedding with flowers and
 praise the good fortune of the brahmana Sanatana; the poet longs to be intoxicated with that joy. Raga not stated. **Attribution: probably
@@ -15438,7 +15434,7 @@ Gaura-charita-chintamani. B.
 [^22-16]: The demigods are the Lord's servants: invisibly they come to behold His lila and to serve it (note 3). Sanatana Mishra's good fortune
 is that the Lord Himself has accepted his daughter. Shesha is Ananta; Ganapati is Ganesha.
 
-## 8. Narahari — "deva-ramaṇīvṛnda viraci veśa…" (GPT1 p. 103, no. 26; BR)
+## 8. Narahari — "deba-ramaṇībṛnda biraci beśa…" (GPT1 p. 103, no. 26; BR)
 *The celestial women at the wedding: adorned, with flashing bangles, their countless hosts roam the path of the sky and deem their eyes
 rewarded at seeing Gaura's wedding; praising Mishra's house, they thrill; with full eyes they drink in the form of the Lord and His beloved
 and give their lives for Them. Raga not stated. **Attribution: probably Chakravarti** — the pada is in the BR; Vrajabuli.*[^22-17]
@@ -15456,7 +15452,7 @@ new and ever new desires arise in them — composure cannot be kept.
 how much can Narahari say? — all give their lives for Them.[^22-18]
 
 [^22-17]: GPT1 — p. 103, no. 26 (scan, PDF p. 362); GPT2 — section 2.4, no. 26 (catalogue: NG-065). BR — 12th wave (ed. 1912, pp. 813–814; ed. 1960, vv. 1553–1556).
-Variants: 8.2 GPT1 "mānata diṭhi sakala nirakhi gauravara nivāha", BR "saphala", "vivāha" — following the BR; 8.1 "vājata thara māhi" (BR 1912 "vājata thara, nāhi atula") — the
+Variants: 8.2 GPT1 "mānata diṭhi sakala nirakhi gaurabara nibāha", BR "saphala", "bibāha" — following the BR; 8.1 "bājata thara māhi" (BR 1912 "bājata thara, nāhi atula") — the
 sense is unclear, the translation conjectural. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^22-18]: The celestial women, like the demigods, come to behold the Lord's lila and to serve Him (cf. no. 21 of chapter 21: "we shall make merry
 at the wedding together with the wives of Nadia"). "His beloved" (preyasī) is Vishnupriya, the eternal energy of the Lord (note 2). "They give
@@ -15486,7 +15482,7 @@ or the Gaura-charita-chintamani. B.
 [^22-20]: "Has given his daughter to Krishna" — the celestial women call Gaura Krishna outright: He is Krishna Himself, and Vishnupriya is His
 eternal energy (note 2).
 
-## 10. Narahari — "deva devaramaṇī ullāse…" (GPT1 p. 104, no. 28; BR)
+## 10. Narahari — "deba debaramaṇī ullāse…" (GPT1 p. 104, no. 28; BR)
 *Gods and celestial women talk softly of the wedding: fortunate are the people of Nadia; the brahmanas who have beautiful daughters
 lament that they could not give a daughter to such a bridegroom; all praise Sanatana Mishra; he completes the homa; the women raise their
 cries; Vishnupriya and Gorachand are led to the bridal chamber. Raga not stated. **Attribution: probably Chakravarti** — the pada is in
@@ -15515,10 +15511,10 @@ the BR.*[^22-21]
 [^22-21]: GPT1 — p. 104, no. 28 (scan, PDF p. 363); GPT2 — section 2.4, no. 28 (catalogue: NG-066; GPT2 has "dekha deba ramaṇī" — "look: the celestial women…").
 BR — 12th wave (ed. 1912, pp. 814–815; ed. 1960, vv. 1561–1570). Variants: 10.4 GPT1 "nā pārāli", BR "nā pārilum̐" — following the BR. Not in PK, KGC, PS,
 the Gita-chandrodaya or the Gaura-charita-chintamani. B.
-[^22-22]: The bridal chamber (vāsara-ghara) is the room where the newly-weds spend the first night; by custom the women of the house gather there,
+[^22-22]: The bridal chamber (bāsara-ghara) is the room where the newly-weds spend the first night; by custom the women of the house gather there,
 sing and joke with the bridegroom (nos. 11–12). The brahmanas' lament is praise of the bridegroom: such a son-in-law is not to be found again.
 
-## 11. Narahari — "nadīyā-vinoda gorā…" (GPT1 p. 104, no. 29; BR)
+## 11. Narahari — "nadīyā-binoda gorā…" (GPT1 p. 104, no. 29; BR)
 *The bridal chamber: Gora, the delight of Nadia, enters the bridal chamber; the wives of noble families seat Vishvambhara with Vishnupriya
 and gaze unblinkingly at His face; one, wishing to touch Him, anoints Him with sandal, another sets a casket of betel before Him, a third
 leans towards Him in jest, yet another offers Him a handful of flowers. Raga not stated. **Attribution: probably Chakravarti** — the pada
@@ -15543,7 +15539,7 @@ with sandal; the poet describes these wedding jests — this is not nagari-bhava
 "wishing to touch") are close to its language. We translate faithfully to the author; for the position of the tradition see note 5. The
 Lord's attractiveness is the quality of Bhagavan, who attracts all; and what the women do here is service to Him: sandal, betel, flowers.
 
-## 12. Narahari — "vāsara gharete gorārāya. rūpe koṭi madana mātāya…" (GPT1 p. 104, no. 30; BR)
+## 12. Narahari — "bāsara gharete gorārāya. rūpe koṭi madana mātāya…" (GPT1 p. 104, no. 30; BR)
 *In the bridal chamber: by His beauty Gaura Raya intoxicates millions of Kamadevas; the wives of noble families cannot take their eyes
 from His moon-face and whisper with their veils drawn together; one covers the thrill of her body with her cloth, another trembles in the
 rapture of rasa, yet another, unable to master her heart, offers her life at His reddish feet; the poet longs to see these pastimes. Raga
@@ -15566,14 +15562,14 @@ not stated. **Attribution: probably Chakravarti** — the pada is in the BR.*[^2
 **12.8.** A great hope is in Narahari's heart: shall I see all these pastimes?
 
 [^22-25]: GPT1 — p. 104, no. 30 (scan, PDF p. 363); GPT2 — section 2.4, no. 30. **The catalogue did not know it** (new row NG-289; the row NG-067 with the
-same first line "vāsara gharete gorārāya" is no. 31, no. 13 here). BR — 12th wave (ed. 1912, pp. 815–816; ed. 1960, vv. 1575–1582). Variants: 12.6 "rāṅgā pāya"
-in GPT1 and BR 1912 (the BR 1960 OCR has "rādhā pāya", a distortion); 12.8 GPT1 "narahari mane vaṛa āśa", BR "narahari-mane ei āśa". Not in PK, KGC, PS, the
+same first line "bāsara gharete gorārāya" is no. 31, no. 13 here). BR — 12th wave (ed. 1912, pp. 815–816; ed. 1960, vv. 1575–1582). Variants: 12.6 "rāṅgā pāya"
+in GPT1 and BR 1912 (the BR 1960 OCR has "rādhā pāya", a distortion); 12.8 GPT1 "narahari mane baṛa āśa", BR "narahari-mane ei āśa". Not in PK, KGC, PS, the
 Gita-chandrodaya or the Gaura-charita-chintamani. B.
-[^22-26]: "Offers her life at His feet" (nichaye jīvana rāṅgā pāya) is an image of devotion to the Lord. The thrill and the "rapture of rasa" of the women
+[^22-26]: "Offers her life at His feet" (nichaye jībana rāṅgā pāya) is an image of devotion to the Lord. The thrill and the "rapture of rasa" of the women
 in the bridal chamber are delight in the Lord's all-attractive beauty; we translate faithfully to the author, for the position of the
 tradition see note 5.
 
-## 13. Narahari — "vāsara gharete gorārāya. viṣṇupriyā saha…" (GPT1 p. 105, no. 31; BR)
+## 13. Narahari — "bāsara gharete gorārāya. biṣṇupriyā saha…" (GPT1 p. 105, no. 31; BR)
 *The morning after the wedding: Gaura Raya spends the night with Vishnupriya in the bridal chamber; Sanatana and his kin are enraptured;
 at dawn the Lord performs the kushandika and asks Sanatana to let Him go home; Sanatana, restraining himself, places his daughter's hand in
 Vishvambhara's; the Lord bows to the venerable people, and they bless Him with rice and durva; Mishra's wife cannot master herself; amid
@@ -15605,13 +15601,13 @@ Chakravarti** — the pada is in the BR.*[^22-27]
 **13.12.** Gazing at the Lord of Narahari, all perform the auspicious rites proper for a departure.
 
 [^22-27]: GPT1 — p. 105, no. 31 (scan, PDF p. 364); GPT2 — section 2.4, no. 31 (catalogue: NG-067). BR — 12th wave (ed. 1912, p. 816; ed. 1960, vv. 1583–1594).
-Variants: 13.8 GPT1 "karite ki se bhāra sādha", BR "kahite ki se sabhāra sādha" — following the BR; 13.11 GPT1 "kāyavāra", BR "rāyavāra" (the same — a song of
+Variants: 13.8 GPT1 "karite ki se bhāra sādha", BR "kahite ki se sabhāra sādha" — following the BR; 13.11 GPT1 "kāyabāra", BR "rāyabāra" (the same — a song of
 praise). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. The morning after the wedding and the departure — CB Adi 15; in
 Lochana — vv. 166–174.
 [^22-28]: The kushandika is the rite at the sacred fire on the day after the wedding, which completes it. The Lord, the Goal of all rites,
 performs them following the lila (note 2), and bows to His elders, setting an example of respect.
 
-## 14. Narahari — "varaja-bhūṣaṇa gaura-vidhuvara…" (GPT1 p. 105, no. 32; BR)
+## 14. Narahari — "baraja-bhūṣaṇa gaura-bidhubara…" (GPT1 p. 105, no. 32; BR)
 *The return home: Gaura, the ornament of Vraja, after the wedding rides home in the palanquin with His beloved; countless men and women
 watch and say to one another: "This is Lakshmi and the Lord of Lakshmi!"; the praises of the bhatas, Vedic chanting, music, dancing,
 singing such that the does come out of the forest; at the hour of cow-dust, having paused on the bank of the Suradhuni, He comes home. Raga
@@ -15638,14 +15634,14 @@ all around the house a great clamour; the heart of the servant Narahari overflow
 at the hour of cow-dust, having paused on the lovely bank of the Suradhuni, [the Lord] comes home.
 
 [^22-29]: GPT1 — p. 105, no. 32 (scan, PDF p. 364); GPT2 — section 2.4, no. 32 (catalogue: NG-068). BR — 12th wave (ed. 1912, pp. 816–817; ed. 1960, vv. 1595–1598).
-Variants: 14.2 GPT1 "ucarita nava nava carita madhumaya", BR "ucari nava nava carita rasamaya" — the sense is the same; the onomatopoeic syllables in 14.3 differ among the
+Variants: 14.2 GPT1 "ucarita naba naba carita madhumaya", BR "ucari naba naba carita rasamaya" — the sense is the same; the onomatopoeic syllables in 14.3 differ among the
 witnesses (GPT1 "ku kunu nu nunu sudhā", BR 1912 "kuku nunu nunu, mu dhā"). Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Jati,
 shruti, svara, grama, murcchana, tana, alapa are terms of Indian music (modes, intervals, notes, scales, transitions, runs, preludes).
 [^22-30]: "Lakshmi and the Lord of Lakshmi" — in the newly-weds the people of Nadia recognise Lakshmi and Narayana: Vishnupriya is the eternal
-energy of the Lord (note 2), Gaura is the Lord Himself; "the ornament of Vraja" (varaja-bhūṣaṇa) is Krishna. Cf. CB Adi 15 (= GPT 2.4 no. 39, Vrindavana
+energy of the Lord (note 2), Gaura is the Lord Himself; "the ornament of Vraja" (baraja-bhūṣaṇa) is Krishna. Cf. CB Adi 15 (= GPT 2.4 no. 39, Vrindavana
 Dasa): on the way back some say this is Hara and Gauri, others — Kamala and Sri Hari.
 
-## 15. Narahari — "gorācām̐da vivāha kariyā…" (GPT1 p. 106, no. 33; BR)
+## 15. Narahari — "gorācām̐da bibāha kariyā…" (GPT1 p. 106, no. 33; BR)
 *The welcome at home: Gorachand, having married, returns home in joy; the invisible gods strew the way with flowers; someone hurries to
 tell Shachi of the wedding; hearing the music, Shachi, beside herself with joy, comes out of the house, circles the newly-weds with
 countless offerings and casts them away, kisses her son's moon-face and leads her son and daughter-in-law into the house; Vishvambhara with
@@ -15675,7 +15671,7 @@ stated. **Attribution: probably Chakravarti** — the pada is in the BR.*[^22-31
 [^22-31]: GPT1 — p. 106, no. 33 (scan, PDF p. 365); GPT2 — section 2.4, no. 33 (catalogue: NG-069). BR — 12th wave (ed. 1912, pp. 817–818; ed. 1960, vv. 1599–1610).
 Variants: between 15.4 and 15.5 the BR has two couplets more: "Mother Shachi outside the house waits with the chaste wives, watching the road.
 Gora with all comes slowly and at the door descends from the palanquin. Seeing her son and daughter-in-law, mother…" (vv. 1603–1605); in GPT1
-these lines are compressed into the single couplet 15.5 — the translation follows GPT1. 15.8 BR "sakala bhuvana" ("the whole world"). Not in PK, KGC,
+these lines are compressed into the single couplet 15.5 — the translation follows GPT1. 15.8 BR "sakala bhubana" ("the whole world"). Not in PK, KGC,
 PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B.
 [^22-32]: "Circling, she casts away" (nichiyā phelaye) — the custom of nirmanchhana: the mother circles the newly-weds with offerings and casts them
 away, warding off all evil (in Lochana, vv. 175–178). Shachi is the mother of the Lord, eternally abiding in parental love for Him. Shachi
@@ -15699,14 +15695,14 @@ all together go to their homes, singing the glories of Gaurahari.
 says Narahari: they all went home in happiness.[^22-34]
 
 [^22-33]: GPT1 — p. 106, no. 34 (scan, PDF p. 365); GPT2 — section 2.4, no. 34 (catalogue: NG-070). BR — 12th wave (ed. 1912, p. 818; ed. 1960, vv. 1611–1614).
-Variants: 16.1 GPT1 "vivāhe ātula", BR "vivāhe ākula" — following the BR; 16.2 GPT1 "manorama puri", BR "manoratha pūri" ("fulfilling desires") — following
+Variants: 16.1 GPT1 "bibāhe ātula", BR "bibāhe ākula" — following the BR; 16.2 GPT1 "manorama puri", BR "manoratha pūri" ("fulfilling desires") — following
 the BR. Not in PK, KGC, PS, the Gita-chandrodaya or the Gaura-charita-chintamani. B. Next in the BR comes prose on Vishnupriya's service to her
 mother-in-law and on the Lord's journey to Gaya (vv. 1615–1625); in the GPT — nos. 35–38 (an extract from Lochana's Chaitanya-mangala) and nos. 39–40
 (Vrindavana Dasa) — outside the appendix (introductory note).
-[^22-34]: To send off with gifts (vidāya) all who came to the wedding and served at it is the custom; the Lord is a generous host, Shachi the
+[^22-34]: To send off with gifts (bidāya) all who came to the wedding and served at it is the custom; the Lord is a generous host, Shachi the
 mistress of the house. In the chronology of the biographies the Lord's journey to Gaya follows (CB Adi 17; CC Adi 17).
 
-## 17. Narahari — "jāgaha jana-mana-cora caturavara…" (GPT1 p. 343, section 5.2, no. 1; GCC)
+## 17. Narahari — "jāgaha jana-mana-cora caturabara…" (GPT1 p. 343, section 5.2, no. 1; GCC)
 *Ashtakaliya, the songs of awakening at the end of the night: "Awake, Stealer of hearts, jewel of Radha's heart! The night is over. You
 who, hearing of the deeds of Vraja, find no taste in food or sleep, who hold sankirtana dearer than life — what sleep has overcome You?"
 Raga not stated. **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^22-35]
@@ -15764,7 +15760,7 @@ being seen by the elders. Gadadhara, according to Kavi Karnapura's Gaura-ganodde
 Narahari Sarakara is Madhumati, Radha's friend. In Navadvipa "those fears are gone" — so the associates sleep beside the Lord. The joking
 reproaches are the associates' love, not censure (note 36).
 
-## 19. Narahari — "śuna śuna ohe kichu nā vujhiye…" (GPT1 p. 344, no. 3; GCC)
+## 19. Narahari — "śuna śuna ohe kichu nā bujhiye…" (GPT1 p. 344, no. 3; GCC)
 *At Gaura's bedside: the night is over, yet He, the enchanter of the world, sleeps, absorbed in who knows what rasa; Gadadhara, his eyes on
 His face, sits at His feet and smilingly presses them; Narahari floats in an ocean of joy, gazing at Gauranga, and whispers something into
 Gadadhara's ear; others, intoxicated with Gaura-rasa, doze; someone insists that the Lord be woken. Raga lalita. **Attribution: probably
@@ -15783,7 +15779,7 @@ with wondrous grace he whispers something into Gadadhara's ear.
 and someone insists that the Lord of Narahari's life be woken.[^22-41]
 
 [^22-40]: GPT1 — p. 344, no. 3 ("lalita"; scan, PDF p. 603); GPT2 — section 5.2, no. 3 (catalogue: NG-173). GCC — kirana 3 ("the awakening"), pada 8 (introduced
-there with the words "and someone [says]", kopi ca). Variants: 19.1 "tamu" in both GPT1 and GCC — probably "tavu" ("still"); 19.2 GCC "ām̐khi diyā". Not in
+there with the words "and someone [says]", kopi ca). Variants: 19.1 "tamu" in both GPT1 and GCC — probably "tabu" ("still"); 19.2 GCC "ām̐khi diyā". Not in
 the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^22-41]: Here Narahari is a participant in the lila at the Lord's bedside beside Gadadhara; if the pada belongs to Chakravarti, this is
 Narahari Sarakara, the Lord's associate (introductory note in ch. 17; cf. note 39). Gadadhara pressing the Lord's feet is an image of his
@@ -15836,7 +15832,7 @@ do not know"), GCC "nā jāgaha tumi" ("You do not wake") — following the GCC;
 threat of "ill fame" is the love of the one who wakes Him (note 36): the eternal lila of Navadvipa includes these pastimes of the Lord in
 the guise of a young scholar and householder.
 
-## 22. Narahari — "jāgaha jagajīvana nava nadīyāpuracām̐da he…" (GPT1 p. 345, no. 6; GCC)
+## 22. Narahari — "jāgaha jagajībana naba nadīyāpuracām̐da he…" (GPT1 p. 345, no. 6; GCC)
 *A hymn of awakening in solemn Vrajabuli: "Awake, Life of the world, new Moon of Nadia!" — with a chain of epithets: auspicious king
 Kamadeva, form the colour of gorochana, full of rasa, teeth like jasmine, eyes a snare for glances and hearts, crusher of Kama, golden lotus
 in the lake of the devotees' hearts, clad in cloud-coloured garments, King of dancers, He whose feet, dispelling the fear of worldly
@@ -15864,9 +15860,9 @@ Dear One of Narahari, what can I say of what is in my heart? — nothing can be 
 today, seeing Your sleep, I am perplexed.[^22-47]
 
 [^22-46]: GPT1 — p. 345, no. 6 ("bhairaba"; scan, PDF p. 604); GPT2 — section 5.2, no. 6. **The catalogue did not know it** (new row NG-291). GCC — kirana 2, pada 16
-("rāga bhairava"). Variants: 22.1 GCC "nadīyāpuracanda"; 22.3 "kāma-dalata śanda" — the last word is unclear (also in the GCC), translated by the sense; 22.4 GPT1
+("rāga bhairaba"). Variants: 22.1 GCC "nadīyāpuracanda"; 22.3 "kāma-dalata śanda" — the last word is unclear (also in the GCC), translated by the sense; 22.4 GPT1
 "bhabhaktahṛdaya" (misprint). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. Lines 22.1 are the refrain (dhru).
-[^22-47]: "Worshipped by the gods" (vṛndāraka-vandya), "dispelling the fear of worldly existence" are epithets of the Supreme Lord; "crusher of Kama" —
+[^22-47]: "Worshipped by the gods" (bṛndāraka-bandya), "dispelling the fear of worldly existence" are epithets of the Supreme Lord; "crusher of Kama" —
 His beauty surpasses that of the god of love, and remembrance of Him destroys lust. The attraction of women to the Lord (22.3) is the
 quality of Bhagavan, who attracts all (note 5). Gorochana is a bright yellow pigment; "King of dancers" (naṭendra) is the Lord dancing in
 kirtana.
@@ -15905,11 +15901,11 @@ Raga not stated. **Attribution: probably Chakravarti** — the pada is in the GC
 **24.4.** If You do not believe me — then ask Narahari.[^22-51]
 
 [^22-50]: GPT1 — p. 345, no. 8 ("yathārāga"; scan, PDF p. 604); GPT2 — section 5.2, no. 8 (catalogue: NG-175). GCC — kirana 2, pada 18. Variants: 24.2 GPT1 "pati
-viṛambita", GCC "gati-viṛambana" ("seeing the [moon's] humiliation"). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
+biṛambita", GCC "gati-biṛambana" ("seeing the [moon's] humiliation"). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^22-51]: The moon is the "husband" of the stars (nakshatras) in Indian legend. "Ask Narahari" — in the GCC these songs are sung by a parrot
 (note 35), who appeals to Narahari as a witness; in the GPT the line reads as the poet's signature.
 
-## 25. Narahari — "jāga jāga ohe jīvana gorā…" (GPT1 p. 346, no. 9; GCC)
+## 25. Narahari — "jāga jāga ohe jībana gorā…" (GPT1 p. 346, no. 9; GCC)
 *"Awake, Gora, my life, stealer of hearts and eyes! You are still asleep at dawn, while the neighbours are awake and chuckling; the people
 of Nadia praise You and run to Your house — are You not ashamed? Tell me, what do You do at night? The peacocks, the bees, the chakoras
 pine without You; get up, come out into the courtyard — otherwise Narahari's fault will not be washed away". Raga not stated.
@@ -15936,7 +15932,7 @@ Make him happy, O treasure of joy: get up, come out and stand in the courtyard,
 or else, I feel, there will be trouble — then Narahari's fault will not be washed away.
 
 [^22-52]: GPT1 — p. 346, no. 9 ("yathārāga"; scan, PDF p. 605); GPT2 — section 5.2, no. 9. **The catalogue did not know it** (new row NG-293; by the opening "jāga jāga
-ohe" the checking script matched it with NG-174). GCC — kirana 2, pada 19. Variants: 25.1 GPT1 "paṛavāsī", GCC "paṛasa-vāsī" ("neighbours") — following the
+ohe" the checking script matched it with NG-174). GCC — kirana 2, pada 19. Variants: 25.1 GPT1 "paṛabāsī", GCC "paṛasa-bāsī" ("neighbours") — following the
 GCC; others minor. Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^22-53]: "What do You do at night?" is the joking reproach of one who loves; the Lord's nights pass in kirtana and in absorption in the
 pastimes of Vraja (17.3; note 36). The peacocks, bees and chakora are the nature of Navadvipa, which, like the nature of Vraja, lives by
@@ -15969,7 +15965,7 @@ says Narahari: incomparable is the town of Nadia on earth.[^22-55]
 
 [^22-54]: GPT1 — pp. 346–347, no. 10 ("bhairaba"; scan, PDF pp. 605–606); GPT2 — section 5.2, no. 10. **The catalogue did not know it** (new row NG-294). GCC — kirana 2,
 pada 14 ("bhairaba rāga"; in the GCC the first of the awakening songs). Variants: 26.1 GPT1 "sukha samājha sāje", GPT2 "sukha samāja sāje"; the places in 26.3
-("aṅkurachala pulaka vallīndra bhūmi namitāye", GCC "… vallīnrara bhūmi nadi tām̐je") and 26.4 ("pavana miśa śiṅgāra hāra", GCC "pavana niśa siṅgāra hara") are unclear in all
+("aṅkurachala pulaka ballīndra bhūmi namitāye", GCC "… ballīnrara bhūmi nadi tām̐je") and 26.4 ("pabana miśa śiṅgāra hāra", GCC "pabana niśa siṅgāra hara") are unclear in all
 witnesses — the translation is conjectural. Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. Further in GPT 5.2: no. 11 — Vasu Ghosha (chapter 12,
 no. 6), no. 12 — Jagannatha Dasa, nos. 13–14 — Radhamohana, no. 15 — signed by Uddhava Dasa (the catalogue wrongly listed it under Narahari: NG-176),
 no. 16 onwards — Narahari and others (chapter 23).
@@ -15998,7 +15994,7 @@ GPT2, the GCC (ed. 1947) and the BR (eds. 1912 and 1960); the PK, KGC, PS and th
 lila and on the Lord's sleep see note 36 of chapter 22; on the motif of the women of Nadia, note 7. The notes of the GPT editors are not
 reproduced.*
 
-## 1. Narahari — "alasa avaśa pahum̐ rasika-śiromaṇi…" (GPT1 pp. 348–349, section 5.2, no. 16; GCC)
+## 1. Narahari — "alasa abaśa pahum̐ rasika-śiromaṇi…" (GPT1 pp. 348–349, section 5.2, no. 16; GCC)
 *The last part of the night: the Lord, in the languor of half-sleep, speaks as in a dream words full of rasa: without the sight of
 Radharamana His life is burning; calling by name Gauridasa, Haridasa, Dhananjaya and dozens of companions, He asks them to sing of the deeds
 of the people of Vraja to quench the burning of His heart; in humility He says that enemies have subdued Him and He has taken a body in
@@ -16032,7 +16028,7 @@ Narahari, bewildered, cannot describe this incomparable lovely deed, rare even f
 [^23-1]: GPT1 — pp. 348–349, section 5.2 "Ashtakaliya", no. 16 ("yathārāga"; scan, PDF pp. 607–608); GPT2 — section 5.2, no. 16 (p. ≈224). **The catalogue did
 not know it** (new row NG-295). GCC — kirana 2 ("the pastimes on the bed" in the last part of the night), pada 25: after the awakening songs sung by
 the parrot (padas 14–23; chapter 22, nos. 17–26, note 35), the GCC says that Gaura, absorbed in rasa, heard a little of them (pada 24) — and the Lord
-speaks these words in His sleep. Variants: 1.1 GCC "rasamaya vāta" ("words full of rasa"; GPT "rasa rasa vāta"); 1.6 GCC "maramaka vāta", "hom̐yalu"; 1.7 GCC "jaga" for
+speaks these words in His sleep. Variants: 1.1 GCC "rasamaya bāta" ("words full of rasa"; GPT "rasa rasa bāta"); 1.6 GCC "maramaka bāta", "hom̐yalu"; 1.7 GCC "jaga" for
 "jani". The name "Shrinidhi" stands twice in the list in all witnesses. Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. On the ashtakaliya and
 the Lord's sleep see note 36 of chapter 22.
 [^23-2]: Radharamana, "the beloved of Radha", is Krishna: the Lord, Krishna Himself appearing in the mood of Radha, longs for Krishna as Radha longs
@@ -16072,7 +16068,7 @@ Narahari says: wondrous is this lovely deed — is it deep sleep, or a play of p
 [^23-4]: GPT1 — pp. 349–350, no. 19 ("yathārāga"; scan, PDF pp. 608–609); GPT2 — section 5.2, no. 19, pp. 224–225 (catalogue: NG-177). GCC — kirana 3 ("the
 awakening"), pada 10. Variants: 2.2 GCC "kou" for "koi" (and so on); 2.3 GCC "śabda ghaṭāpaṭatara nāhi hoya" for "śarada ghaṭā paṭatara…" — the end of the line is
 unclear in both readings, the translation is tentative ("not even the roar of autumn clouds compares with it" by the GCC); 2.4 GPT1 "rata sapiyā ana" —
-a misprint, corrected by the GCC "vatasa piyāana" ("to give milk to the calves"); 2.5 GCC "puna tanu moṛi" ("stretched His body"). Not in the BR, PK, KGC, PS
+a misprint, corrected by the GCC "batasa piyāana" ("to give milk to the calves"); 2.5 GCC "puna tanu moṛi" ("stretched His body"). Not in the BR, PK, KGC, PS
 or the Gita-chandrodaya. B.
 [^23-5]: The hobbling rope (chām̐dana-ḍora) is used to tie a cow's hind legs at milking. Woken by the lowing of the cows, the Lord is in the mood of a
 cowherd boy of Vraja: He hurries to the cows and calls the companions by their "former names", their names in Krishna's lila (thus Gauridasa
@@ -16097,8 +16093,8 @@ His reddish eyes droop in deep drowsiness — and destroy the shame, fear and fa
 What poet will describe this wondrous pose? Narahari again and again offers himself for it.
 
 [^23-6]: GPT1 — p. 350, no. 20 ("yathārāga"; scan, PDF p. 609); GPT2 — section 5.2, no. 20 (catalogue: NG-178). GCC — kirana 3, pada 12 (before it the GCC has
-pada 11 "guṇamaṇi gauracandra dvijarāja", which is not in the GPT: Gaura comes out of the chamber and sits on the seat). Variants: 3.1 GPT1 "vilapita" (a
-misprint), GCC "vilasata"; 3.3 GCC "nāśata yuvati-lāja-bhaya-kula". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. "The mountain of the gods" is
+pada 11 "guṇamaṇi gauracandra dvijarāja", which is not in the GPT: Gaura comes out of the chamber and sits on the seat). Variants: 3.1 GPT1 "bilapita" (a
+misprint), GCC "bilasata"; 3.3 GCC "nāśata yubati-lāja-bhaya-kula". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. "The mountain of the gods" is
 Sumeru, the golden mountain; "king Kamadeva" (manamatha-bhūpa) — an image of beauty surpassing that of the god of love.
 [^23-7]: The line repeats a common formula of love poetry about the all-attractive beauty of Krishna. We translate faithfully to the author; but
 the Gaudiya tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta Sarasvati) does not accept the worship of Gaura in the mood of
@@ -16109,7 +16105,7 @@ the rasa of Narahari's Lord and given up shame and family"; = BR 12, vv. 2380–
 padas. "Offers himself for it" (niramañchana) — the rite of "warding off" (nirmanchhana): the lover waves something around the beloved and gives it
 (or himself) away for him, averting misfortune.
 
-## 4. Narahari — "śrīśacībhavane adhika sukha āja…" (GPT1 p. 350, no. 21; GCC)
+## 4. Narahari — "śrīśacībhabane adhika sukha āja…" (GPT1 p. 350, no. 21; GCC)
 *Morning in Shachi's house: Gaura sits on a seat, around Him circle upon circle of companions, like gods around Sumeru; someone, leaning on
 another's hand, stands still as a painting; someone's cloth is slipping; someone, startled, has run from his bed with sleepy eyes — all
 drink, like bees, the honey of His face. Raga lalita. **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^23-8]
@@ -16127,7 +16123,7 @@ someone's cloth is slipping, and he does not set it right — what feeling is he
 Narahari says: they are like bees drunk on the honey of this lotus-face.
 
 [^23-8]: GPT1 — p. 350, no. 21 ("lalita"; scan, PDF p. 609); GPT2 — section 5.2, no. 21. **The catalogue did not know it** (new row NG-296). GCC — kirana 4
-("the Lord surrounded by devotees"), pada 2 (pada 1 of kirana 4 is a list of companions signed Ghanashyama). Variants: 4.3 GCC "kaichana bhāva na
+("the Lord surrounded by devotees"), pada 2 (pada 1 of kirana 4 is a list of companions signed Ghanashyama). Variants: 4.3 GCC "kaichana bhāba na
 anubhaba hoya" ("what feeling — it cannot be grasped"); 4.4 GCC "mukha paṅkaja-madhupāne". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. Shesha
 (Ananta) is the thousand-mouthed serpent who eternally sings the Lord's glories.
 
@@ -16151,11 +16147,11 @@ the companions are countless — as if an ocean of joy had surged: how can Narah
 
 [^23-9]: GPT1 — p. 350, no. 22 ("yathārāga"; scan, PDF p. 609); GPT2 — section 5.2, no. 22 (catalogue: NG-179). GCC — kirana 4, pada 3 (the search through
 the witnesses missed it because of the garbled OCR; found by reading the GCC continuously). Variants: 5.1 GCC "bhaṅga hu neha" (OCR unclear); 5.2 GCC
-"kahu vacana"; 5.4 GCC "kutakāri" (OCR). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
+"kahu bacana"; 5.4 GCC "kutakāri" (OCR). Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^23-10]: A blade of grass between the teeth is a sign of humility: so one begs for mercy in Bengal. The Lord's companions honour one another
 ("blessed are you!") — for each of them is His eternal intimate.
 
-## 6. Narahari — "ki kahava ājuka aparūpa raṅga…" (GPT1 p. 351, no. 23; GCC)
+## 6. Narahari — "ki kahaba ājuka aparūpa raṅga…" (GPT1 p. 351, no. 23; GCC)
 *The courtyard of Shachi's house: Gaurahari and the companions are like a host of moons in a clear starless sky, which will dispel the
 darkness of the threefold miseries; like an arena of mighty wrestlers, who will overcome the asuras averse to the Lord's feet; like a field
 of blossoming wish-fulfilling trees giving priceless fruits — no one will be left without. Raga not stated. **Attribution: probably
@@ -16174,13 +16170,13 @@ Having overcome the invincible asuras averse to the Lord's feet, they will surel
 They will give away incomparable, priceless fruits; Narahari says: surely no one will be left without.
 
 [^23-11]: GPT1 — p. 351, no. 23 ("yathārāga"; scan, PDF p. 610); GPT2 — section 5.2, no. 23 (catalogue: NG-180). GCC — kirana 4, pada 4. Variants: 6.2 GCC
-"uḍugaṇa-vihīna vimala ākāśa kiye…" (the GPT lacks the word "ākāśa", "sky"; supplied in brackets); 6.4 GCC "phire" for "kiye" (OCR). Not in the BR,
+"uḍugaṇa-bihīna bimala ākāśa kiye…" (the GPT lacks the word "ākāśa", "sky"; supplied in brackets); 6.4 GCC "phire" for "kiye" (OCR). Not in the BR,
 PK, KGC, PS or the Gita-chandrodaya. B. The threefold miseries are those from one's own body and mind, from other beings and from the forces of
 nature. "The asuras averse to the Lord's feet" — the godlessness of the age of Kali; the companions are warriors of sankirtana who conquer it with
 the holy name; "the wish-fulfilling trees" — the companions who give everyone the fruit of prema (cf. CC Adi 9: the Lord is the gardener and the
 tree of prema).
 
-## 7. Narahari — "gorācām̐dera kivā e līlā…" (GPT1 p. 351, no. 26; BR)
+## 7. Narahari — "gorācām̐dera kibā e līlā…" (GPT1 p. 351, no. 26; BR)
 *The Lord in the mood of His former lila: as in Vraja He stole the gopis' clothes, so now, glancing at His dear companions, He playfully takes
 away their clothes and then, His purpose fulfilled, gives them all back. Raga shri. **Attribution: probably Chakravarti** — the pada is in the
 BR; plain Bengali.*[^23-12]
@@ -16200,7 +16196,7 @@ who in the world would not go mad singing this lovely deed?
 [^23-12]: GPT1 — p. 351, no. 26 ("śrīrāga"; scan, PDF p. 610); GPT2 — section 5.2, no. 26 (catalogue: NG-181). BR 12 (ed. 1912, p. 946; ed. 1960, vv. 3358–3361):
 Ishana shows Srinivasa the place where "Gaurachandra manifested His former lila — He stole the clothes of the devotees" (v. 3355), and quotes Murari
 Gupta's verses about it (in our translation, Murari 2.10.16–17: "at the beginning of the night" the Lord pulled the clothes off His servants, filled
-with bhava, and gave them back a moment later). Variants: 7.1 GPT1 "gārācām̐dera" (a misprint), GPT1 and GPT2 "vibhola hailā", BR "vihvala hailā"; 7.3 BR "yena
+with bhava, and gave them back a moment later). Variants: 7.1 GPT1 "gārācām̐dera" (a misprint), GPT1 and GPT2 "bibhola hailā", BR "bihvala hailā"; 7.3 BR "yena
 haila sakali sei". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
 [^23-13]: The stealing of the clothes (cīra-haraṇa) is Krishna's pastime in Vraja (Bhag. 10.22): by carrying off the clothes of the bathing gopis He
 fulfilled their vow and desire and removed the last barrier between them and Himself; it is a play of pure prema, not a worldly prank. Here the
@@ -16263,7 +16259,7 @@ Narahari Dasa carefully gathered.[^23-15]
 
 [^23-14]: GPT1 — pp. 351–352, no. 27 ("sāraṅga"; scan, PDF pp. 610–611); GPT2 — section 5.2, no. 27 (catalogue: NG-182). BR 12 (ed. 1912, pp. 937–938; ed. 1960,
 vv. 3241–3256): Ishana shows Srinivasa the bank of the Ganga where "the Lord with His companions holds a vana-bhojana" (a meal in the open, v. 3240).
-Variants: 8.3 BR-1960 "pravāsa murāri" (OCR; GPT1 on the scan "śrīvāsa murāri"); 8.8 BR "kivā mehā" for "kivā lehā"; 8.9 BR "kṣīra sara navanīta chenā"; 8.10 BR
+Variants: 8.3 BR-1960 "prabāsa murāri" (OCR; GPT1 on the scan "śrībāsa murāri"); 8.8 BR "kibā mehā" for "kibā lehā"; 8.9 BR "kṣīra sara nabanīta chenā"; 8.10 BR
 "chenā pānā". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. Two praharas are half the daylight (a prahara is a quarter of the day): in the
 ashtakaliya this is midday, the time of Gaura's pastimes on the bank of the Ganga (below, no. 18, v. 18.4).
 [^23-15]: The meal of the Lord and His companions is prasada; the remnants from the leaves of the Lord and His eternal companions are mahaprasada,
@@ -16293,7 +16289,7 @@ p. 938; ed. 1960, vv. 3257–3260) — immediately after no. 8. Variants: 9.2 GP
 adopted); 9.3 BR "dhariyā gadādhara-kare", "dhairaya dhare"; 9.4 BR "manuka cita" (OCR). Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. Gadai is Gadadhara
 Pandita (on him see note 39 of chapter 22).
 
-## 10. Narahari — "gaura vidhuvara varajamohana…" (GPT1 p. 354, no. 34; BR)
+## 10. Narahari — "gaura bidhubara barajamohana…" (GPT1 p. 354, no. 34; BR)
 *The walk through Nadia (the afternoon part of the ashtakaliya): countless old men come out onto the road and gaze at Gaura with joy — "who
 created this beautifully formed Ananga? How could we hide Him forever in the casket of the heart?" — and bless Him without end. Raga kamoda.
 **Attribution: probably Chakravarti** — the pada is in the BR; Vrajabuli.*[^23-17]
@@ -16313,9 +16309,9 @@ Narahari Dasa ceaselessly drinks in the Lord's sweetness with his eyes.[^23-18]
 [^23-17]: GPT1 — p. 354, no. 34 ("kāmoda"; scan, PDF p. 613); GPT2 — section 5.2, no. 34 (catalogue: NG-183, "in the BR"). BR 12 (ed. 1912, p. 868; ed. 1960, vv.
 2358–2361): Ishana tells Srinivasa that the Lord, "to dispel the sorrow of the Vaishnavas and to make Himself known", walked through Nadia in beautiful
 attire, and men and women, seeing Him, spoke to one another (vv. 2353–2357); then follow in a row nos. 10–14 and GPT pada no. 39 (vv. 2358–2383).
-Variants: 10.3 BR "dharava anukṣaṇa" ("I shall keep"; GPT "dharaya"); 10.4 BR "nirata diṭhi bhari leta" (GPT "niyata"). Not in the PK, KGC, PS, GCC or the
+Variants: 10.3 BR "dharaba anukṣaṇa" ("I shall keep"; GPT "dharaya"); 10.4 BR "nirata diṭhi bhari leta" (GPT "niyata"). Not in the PK, KGC, PS, GCC or the
 Gita-chandrodaya. B. In the ashtakaliya the walk through the town is the fifth part of the day, in the afternoon (no. 18, v. 18.5; no. 19, v. 19.6).
-[^23-18]: Ananga ("the bodiless") is Kamadeva, the god of love: the Lord's beauty surpasses his. "The Enchanter of Vraja" (varajamohana): Gaura is Krishna,
+[^23-18]: Ananga ("the bodiless") is Kamadeva, the god of love: the Lord's beauty surpasses his. "The Enchanter of Vraja" (barajamohana): Gaura is Krishna,
 who enchants Vraja. The old men, seeing Gaura, bless Him as the cowherds of Vraja blessed the young Krishna — their love is parental (vatsalya).
 
 ## 11. Narahari — "āju ki ānanda nadīyāya…" (GPT1 pp. 354–355, no. 35; BR)
@@ -16343,9 +16339,9 @@ Gora is Narahari's life, the very pupil of the eye; may I die taking His misfort
 
 [^23-19]: GPT1 — pp. 354–355, no. 35 ("kāmoda"; scan, PDF pp. 613–614); GPT2 — section 5.2, no. 35. **The catalogue did not know it** (new row NG-298). BR 12 (ed.
 1912, pp. 868–869; ed. 1960, vv. 2362–2367) — immediately after no. 10. Variants: 11.4 BR "karila kateka puṇya"; 11.5 GPT1 and GPT2 "sakala prakṛti saṅge laiyā"
-("with all the people"), BR "sakala sukṛti-saṅge laiyā" ("with all the pious"); 11.6 BR "narahari-prāṇa gorā, kevala ām̐khera tārā, ihāra vālāi laiyā mari". Not in
+("with all the people"), BR "sakala sukṛti-saṅge laiyā" ("with all the pious"); 11.6 BR "narahari-prāṇa gorā, kebala ām̐khera tārā, ihāra bālāi laiyā mari". Not in
 the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
-[^23-20]: "He is not human": the women of Nadia perceive Bhagavan in Gaura. "May I die taking His misfortunes upon myself" (vālāi laiyā mari) is a Bengali
+[^23-20]: "He is not human": the women of Nadia perceive Bhagavan in Gaura. "May I die taking His misfortunes upon myself" (bālāi laiyā mari) is a Bengali
 formula of motherly love. The last line apparently continues the women's speech, with the poet's signature inside it ("Gora is Narahari's life").
 
 ## 12. Narahari — "gaurāṅga-gamana śuni andhagaṇa…" (GPT1 p. 355, no. 36; BR)
@@ -16366,8 +16362,8 @@ whoever has not seen such beauty is blind, though he has eyes.
 Narahari is witness: I have given these eyes to golden Nimaichand."[^23-22]
 
 [^23-21]: GPT1 — p. 355, no. 36 ("bhūpālī"; scan, PDF p. 614); GPT2 — section 5.2, no. 36. **The catalogue did not know it** (new row NG-299). BR 12 (ed. 1912,
-p. 869; ed. 1960, vv. 2368–2371). Variants: 12.2 BR "vidhi kaile andha"; 12.3 BR "e rūpa amiyā, piyā e nā hiyā" (understood accordingly: "the heart drinks the
-nectar of this beauty"); 12.4 BR "ām̐khi nā dhairya vām̐dhe", "som̐pilu". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
+p. 869; ed. 1960, vv. 2368–2371). Variants: 12.2 BR "bidhi kaile andha"; 12.3 BR "e rūpa amiyā, piyā e nā hiyā" (understood accordingly: "the heart drinks the
+nectar of this beauty"); 12.4 BR "ām̐khi nā dhairya bām̐dhe", "som̐pilu". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
 [^23-22]: "Having gained eyes" (pāiyā nayana): the blind receive sight at the sight of the Lord, and the only meaning of sight for them is to see Him; the
 miracle here is a sign of mercy, and still more an image: truly sighted is only one who sees the Lord (12.3).
 
@@ -16394,7 +16390,7 @@ so as always to see in Nadia Narahari's Lord to my eyes' content."
 eteka dine" (the sense is the same; translated by the BR); 13.3 BR "nā jāniye tathā". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. So in nos. 12–13:
 every circumstance of life gains meaning if it leads to the Lord.
 
-## 14. Narahari — "bhuvanamohana gorā guṇamaṇi…" (GPT1 p. 356, no. 38; BR)
+## 14. Narahari — "bhubanamohana gorā guṇamaṇi…" (GPT1 p. 356, no. 38; BR)
 *Gora walks along the royal road, and hundreds of Kamadevas swoon at His feet; people run from all sides and give Him body, mind and life;
 the young dandies of Nadia, glancing at Him, lose their foppish pride, and the connoisseurs of elegance become like fireflies before the
 moon. Raga kamoda. **Attribution: probably Chakravarti** — the pada is in the BR.*[^23-24]
@@ -16412,13 +16408,13 @@ glancing at Gorachand, they lost their foppish pride.
 says Narahari — have become like fireflies before the moon.[^23-25]
 
 [^23-24]: GPT1 — p. 356, no. 38 ("kāmoda"; scan, PDF p. 615); GPT2 — section 5.2, no. 38 (catalogue: NG-185, "in the BR"). BR 12 (ed. 1912, p. 870; ed. 1960, vv.
-2376–2379). Variants: 14.4 GPT1 and GPT2 "khadyota yemana, kichu āge haila temana tārā" — "kichu" is clearly an error; the BR reading "vidhu āge" ("before the moon")
-is adopted; 14.2 BR "kevā nāhi nichaye". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. The next GPT pada (no. 39; BR vv. 2380–2383) is in
+2376–2379). Variants: 14.4 GPT1 and GPT2 "khadyota yemana, kichu āge haila temana tārā" — "kichu" is clearly an error; the BR reading "bidhu āge" ("before the moon")
+is adopted; 14.2 BR "kebā nāhi nichaye". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. The next GPT pada (no. 39; BR vv. 2380–2383) is in
 nagari-bhava (note 7).
-[^23-25]: "Dandies" (navīna nāgara) are the fops of the town, men; there is no nagari-bhava here: the Lord's beauty humbles the pride of those who prided
+[^23-25]: "Dandies" (nabīna nāgara) are the fops of the town, men; there is no nagari-bhava here: the Lord's beauty humbles the pride of those who prided
 themselves on their beauty and refinement.
 
-## 15. Narahari — "nagarabhramaṇe vāhira haiyā…" (GPT1 p. 356, no. 40)
+## 15. Narahari — "nagarabhramaṇe bāhira haiyā…" (GPT1 p. 356, no. 40)
 *Walking through the town, Gora goes into the houses of merchants; they joyfully give Him their goods. "I am a poor brahmana pandita," says
 Gauranga, "how shall I pay?" — "Pay when You can, and if You cannot — no matter; since You were born we have lived happily; bless us and give
 us the dust of Your feet." Raga dhanashi. **Attribution: not established** — the pada is known only from the GPT; plain Bengali.*[^23-26]
@@ -16464,11 +16460,11 @@ Narahari says: anxiously they think how to bring the dawn nearer.[^23-29]
 
 [^23-28]: GPT1 — p. 357, no. 42 ("yathārāga"; scan, PDF p. 616); GPT2 — section 5.2, no. 42 (catalogue: NG-187). GCC — kirana 2 (nishanta, the last part of the night),
 pada 2: immediately after pada 1 (= GPT 5.2 no. 63, Navadvipa at night: the companions sleep around the Lord's chamber; that pada goes to the next chapter).
-Variants: 16.1 GCC "kichu nā jāne āra"; 16.3 GCC "ki kava se sava śayana vicchede". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
+Variants: 16.1 GCC "kichu nā jāne āra"; 16.3 GCC "ki kaba se saba śayana bicchede". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
 [^23-29]: The companions' separation from the Lord for the time of sleep is also a lila of love: cf. the gopis of Vraja, for whom a moment without
 Krishna is like a yuga. The cry of the birds is the sign of dawn; in Krishna's ashtakaliya the birds of Vrinda likewise wake Radha and Krishna.
 
-## 17. Narahari — "ko varaṇava parikaragaṇa-leha…" (GPT1 p. 357, no. 43; GCC)
+## 17. Narahari — "ko baraṇaba parikaragaṇa-leha…" (GPT1 p. 357, no. 43; GCC)
 *The end of the night: the companions tremble, dreaming of seeing Gaura rise from His bed, drinking the nectar of His words and touching His
 feet to drive away the sorrow of their hearts; their hearts long like the chataka waiting for the cloud. Raga not stated. **Attribution:
 probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^23-30]
@@ -16486,11 +16482,11 @@ touching His feet with our hands, we shall drive the sorrow of the heart far awa
 Narahari says: the heart, like the chataka [awaiting] the cloud, longs — and does not itself know why.
 
 [^23-30]: GPT1 — p. 357, no. 43 ("yathārāga"; scan, PDF p. 616); GPT2 — section 5.2, no. 43 (catalogue: NG-188). GCC — kirana 2, pada 3. Variants: 17.1 GCC "nirakhi niśānta
-niśānta-sumantara" (OCR); 17.3 GCC "śravaṇa camaka bhari piyaba bhūri"; 17.4 GCC, like the GPT, "utkaṇṭhita (nāhi) samujhata anidāna" — the word "nāhi" is in brackets in both
+niśānta-sumantara" (OCR); 17.3 GCC "śrabaṇa camaka bhari piyaba bhūri"; 17.4 GCC, like the GPT, "utkaṇṭhita (nāhi) samujhata anidāna" — the word "nāhi" is in brackets in both
 editions (an editor's supplement?); the sense is tentative. Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B. The chataka is a bird that, according to
 tradition, drinks only rainwater from the cloud — an image of the devotee who waits for the Lord alone.
 
-## 18. Narahari — "niśi avaśeṣe lasata nadīyāśaśī…" (GPT1 pp. 358–359, no. 47; BR)
+## 18. Narahari — "niśi abaśeṣe lasata nadīyāśaśī…" (GPT1 pp. 358–359, no. 47; BR)
 *A "table of contents" of the ashtakaliya in Vrajabuli — the eight parts of Gaura's day and night: at the end of the night, sleep in His
 chamber; in the morning, bathing in the Suradhuni, the meal and a short rest; in the forenoon, pastimes in the companions' houses; at midday,
 pastimes on the bank of the Suradhuni; in the afternoon, the walk through Nadia; at dusk, the return home to Shachi; at pradosha, the house of
@@ -16525,13 +16521,13 @@ and again with His companions He lies down in His own house, Narahari's Lord, th
 vv. 3371–3378, "śrīrāga"): Ishana tells Srinivasa that the wise remember Chaitanya's eternal lila by the eight parts of the day, quotes the Sanskrit verses of
 "the ancients" (vv. 3366–3370: nishanta — sleep in His house; morning — rising, bathing, the meal; forenoon — the devotees' houses; midday — pastimes on the
 bank of the Ganga; afternoon — the walk through Navadvipa; dusk — the return home; pradosha — the house of Srivasa; night — the festival of sankirtana) and
-then this pada, which retells them. Variants: 18.1 BR "śayana seje", "manorañjana"; 18.2 BR "avagāhana kara", "gala-chana śayana" (GPT "palachana śayana" — understood as "pala-kṣaṇa", "for a
-moment"); 18.3 BR "premaka gati naha ora"; 18.7 BR "pahu rāi suveśa" (OCR). Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
+then this pada, which retells them. Variants: 18.1 BR "śayana seje", "manorañjana"; 18.2 BR "abagāhana kara", "gala-chana śayana" (GPT "palachana śayana" — understood as "pala-kṣaṇa", "for a
+moment"); 18.3 BR "premaka gati naha ora"; 18.7 BR "pahu rāi subeśa" (OCR). Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
 [^23-32]: Gaura's ashtakaliya follows the model of the ashtakaliya of Radha and Krishna (the eight parts of the day in Vraja); it is eternal lila,
 which devotees remember in their service (note 36 of chapter 22). The chapter follows these parts: sleep and awakening (nos. 1–6), midday at the
 Ganga (nos. 7–9), the walk through Nadia (nos. 10–15), night (nos. 16–17), kirtana in the houses of Srivasa and Chandrashekhara (nos. 20–22).
 
-## 19. Narahari — "niśiśeṣe gorā ghumera āveśe…" (GPT1 p. 359, no. 48; GCC)
+## 19. Narahari — "niśiśeṣe gorā ghumera ābeśe…" (GPT1 p. 359, no. 48; GCC)
 *The same "table of contents" of the ashtakaliya in plain Bengali: sleep at the end of the night; in the morning, Gaura in the courtyard
 among His companions; bathing in the Suradhuni, the meal and rest; in the forenoon, in the houses of Shuklambara and other devotees; at midday,
 in a flower garden; in the afternoon, the walk through Nadia; in the evening, at home, worship of the Deity to please His mother; at
@@ -16568,13 +16564,13 @@ and again in His own house blissful rest, says Narahari Dasa.[^23-34]
 [^23-33]: GPT1 — p. 359, no. 48 ("tuṛī"; scan, PDF p. 618); GPT2 — section 5.2, no. 48 (catalogue: NG-190). GCC — kirana 1 (mangalacarana), pada 61, "rāga toṛī": before it
 the GCC says that Narahari arranged the eight parts of the day (dawn, morning, forenoon, midday, afternoon, evening, pradosha, night) following "the view of
 the crest-jewel of poets, a devotee of Gaura" (pada 59), and gives it as the "summary" (sūtra) of the ashtakaliya, which it then unfolds kirana by kirana.
-Variants: 19.3 GCC "suradhuni sināna"; 19.6 GPT1 and GPT2 "bhramaṇa vivāda" — an error, corrected by the GCC "bhramaṇa-vinoda"; 19.7 GCC "kariye yatane"; 19.9 GCC "parikarasaha sukhe
+Variants: 19.3 GCC "suradhuni sināna"; 19.6 GPT1 and GPT2 "bhramaṇa bibāda" — an error, corrected by the GCC "bhramaṇa-binoda"; 19.7 GCC "kariye yatane"; 19.9 GCC "parikarasaha sukhe
 saṃkīrtana kari", "nijagṛhe". Not in the BR, PK, KGC, PS or the Gita-chandrodaya. B.
-[^23-34]: "Worships the Deity" (deva-vandanā): the worship of the household Deity of Vishnu in Shachi's house; the Lord, Krishna Himself, in the lila of a
+[^23-34]: "Worships the Deity" (deba-bandanā): the worship of the household Deity of Vishnu in Shachi's house; the Lord, Krishna Himself, in the lila of a
 brahmana householder performs the duties of a devotee and pleases His mother. Shuklambara Brahmachari is a companion of the Lord at whose place the
 Lord ate the rice he had begged (CB, Madhya-khanda).
 
-## 20. Narahari — "bhuvanamohana gaura naṭavara…" (GPT1 p. 360, no. 49; BR)
+## 20. Narahari — "bhubanamohana gaura naṭabara…" (GPT1 p. 360, no. 49; BR)
 *The evening kirtana: Gaura, the best of dancers, today dances in the guise of Rukmini — a description of the attire and beauty from the hair
 to the feet: many-coloured silks, a jewelled band, earrings, collyrium, a nose-pendant, a necklace, conch bangles, a golden girdle with
 bells, ankle-bells. Raga shankarabharana. **Attribution: probably Chakravarti** — the pada is in the BR; Vrajabuli.*[^23-35]
@@ -16603,8 +16599,8 @@ Narahari offers his life for Him; the ankle-bells ring out jhanana.
 "rāga śaṅkarābharaṇa"): in the house of Chandrashekhara Acharya, Sadashiva and Buddhimanta Khan prepare costumes; the Lord is to dance in the guise of Lakshmi and
 others; Shachi comes with her daughter-in-law to watch; Mukunda begins the kirtana; "the Lord became Rukmini — no one could recognise Him" (vv. 2903–2912);
 after the pada the BR says that the Lord is the embodiment of all His energies: He dances now in the guise of Parvati, now in the guise of Lakshmi (vv.
-2917–2918). Variants: 20.1 BR "varajabhūṣaṇa" ("ornament of Vraja"), "aṅgaruci jini' kanaka darapaṇa"; 20.2 GPT1 "sarasa lasata lalāṭa taṭa maṇi, vandhanā mana mohaye" — divided by the BR
-"lalāṭa-taṭa maṇi-vandhanī"; 20.3 GPT1 "daśana mukunda madabharabhañjana", BR "daśana sukunda madabhara tathanā" (OCR) — understood as "daśana kunda-mada-bhara-bhañjana" ("the teeth crush the pride
+2917–2918). Variants: 20.1 BR "barajabhūṣaṇa" ("ornament of Vraja"), "aṅgaruci jini' kanaka darapaṇa"; 20.2 GPT1 "sarasa lasata lalāṭa taṭa maṇi, bandhanā mana mohaye" — divided by the BR
+"lalāṭa-taṭa maṇi-bandhanī"; 20.3 GPT1 "daśana mukunda madabharabhañjana", BR "daśana sukunda madabhara tathanā" (OCR) — understood as "daśana kunda-mada-bhara-bhañjana" ("the teeth crush the pride
 of jasmine"); 20.4 BR "bhaṅgi saṅge", "nichai". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
 [^23-36]: The Lord's dance in the guise of Rukmini (and of Lakshmi, Adya-shakti) in the house of Chandrashekhara is described by Vrindavana Dasa (CB Madhya
 18): there the Lord appears in the form of His own energy, and the devotees see in Him the Mother of the universe. The Lord is the source of all
@@ -16638,9 +16634,9 @@ Rama, and on the left Govinda, Garuda and others play the mardala: "dhikata tadh
 dhini-ni-ni-ni-ni-ni," says Narahari; the world is filled with cries of "jaya, jaya!"[^23-38]
 
 [^23-37]: GPT1 — pp. 360–361, no. 50 ("māyūra"; scan, PDF pp. 619–620); GPT2 — section 5.2, no. 50 (catalogue: NG-192 — with the wrong number "no. 57"). BR 12 (ed. 1912,
-pp. 885–886; ed. 1960, vv. 2568–2571, "punaḥ — māyūra"): in a series of padas on the kirtana in Srivasa's house. Variants: 21.1 GPT1 "mudita nartavane" (a misprint);
-21.3 GPT1 "sanathukhe" (a misprint; on the scan "sammukhe"); 21.4 GPT1 "ghāsudeva" (a misprint), BR-1960 "vāsudeva, pravāsa, nakhana…" (OCR garbled), "rāma vāme garuṛa, gobinda ādi
-vāye, mardala dhiki tā tā dhik". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
+pp. 885–886; ed. 1960, vv. 2568–2571, "punaḥ — māyūra"): in a series of padas on the kirtana in Srivasa's house. Variants: 21.1 GPT1 "mudita nartabane" (a misprint);
+21.3 GPT1 "sanathukhe" (a misprint; on the scan "sammukhe"); 21.4 GPT1 "ghāsudeba" (a misprint), BR-1960 "bāsudeba, prabāsa, nakhana…" (OCR garbled), "rāma bāme garuṛa, gobinda ādi
+bāye, mardala dhiki tā tā dhik". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B.
 [^23-38]: Srivasa's courtyard (Srivasa-angana) is the place of the Lord's night kirtanas in Navadvipa (CB Madhya-khanda; CC Adi 17). The singers and
 musicians are the Lord's companions: Vasudeva (Datta or Ghosha), Srivasa, Nandana Acharya, Vijaya Dasa, Vakreshvara Pandita, Narayana, Gopinatha,
 Mukunda Datta, Madhava (Ghosha), Rama (Shrirama, Srivasa's brother?), Govinda, Garuda Pandita; "dhikatā tādhika, dhini-ni-ni…" are drum syllables
@@ -16670,10 +16666,10 @@ His slender waist with its girdle crushes the pride of a young lion;
 He is clad in beautiful garments; even Shesha cannot describe His thighs;
 the feet of Narahari's Lord shame the young morning sun.
 
-[^23-39]: GPT1 — p. 361, no. 51 ("āśāvarī"; scan, PDF p. 620); GPT2 — section 5.2, no. 51. The catalogue listed it under Vasu Ghosha (VG-057, "5.3 no. 51"), but the
-signature is "narahari pahum̐ padatale…": **new row NG-301**, VG-057 corrected. BR 12 (ed. 1912, p. 890; ed. 1960, vv. 2624–2627, "punaḥ — āśāvarī"): in the same series of
-kirtana padas (preceded by a pada of Govinda Dasa). Variants: 22.1 BR "bhaṅgi parama śohana"; 22.2 BR "yuvati-dhiraya-mocanā"; 22.3 GPT1 "kakṣa mṛdu vilāsa vakṣa", BR "kakṣa
-mṛdu, viśāla vakṣa" (the BR reading is adopted); 22.4 BR "pahire bara vasanaveśa", "taruṇāruṇe gañjanā". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. "Robbing
+[^23-39]: GPT1 — p. 361, no. 51 ("āśābarī"; scan, PDF p. 620); GPT2 — section 5.2, no. 51. The catalogue listed it under Vasu Ghosha (VG-057, "5.3 no. 51"), but the
+signature is "narahari pahum̐ padatale…": **new row NG-301**, VG-057 corrected. BR 12 (ed. 1912, p. 890; ed. 1960, vv. 2624–2627, "punaḥ — āśābarī"): in the same series of
+kirtana padas (preceded by a pada of Govinda Dasa). Variants: 22.1 BR "bhaṅgi parama śohana"; 22.2 BR "yubati-dhiraya-mocanā"; 22.3 GPT1 "kakṣa mṛdu bilāsa bakṣa", BR "kakṣa
+mṛdu, biśāla bakṣa" (the BR reading is adopted); 22.4 BR "pahire bara basanabeśa", "taruṇāruṇe gañjanā". Not in the PK, KGC, PS, GCC or the Gita-chandrodaya. B. "Robbing
 young women of their composure" is the same formula as in no. 3 (note 7).
 
 ---
@@ -16692,7 +16688,7 @@ Dasa, Kanu Dasa, Raya Ananta and others; some were translated earlier). The base
 GCC (ed. 1947), the BR (eds. 1912 and 1960) and the Gita-chandrodaya; the PK, KGC and PS were checked. On the ashtakaliya as eternal lila and on the
 Lord's sleep see note 36 of chapter 22. The notes of the GPT editors are not reproduced.*
 
-## 1. Narahari — "ko varaṇava vara gaura uttāna śayana…" (GPT1 p. 362, section 5.2, no. 55; GCC)
+## 1. Narahari — "ko baraṇaba bara gaura uttāna śayana…" (GPT1 p. 362, section 5.2, no. 55; GCC)
 *The end of the night: Gaura sleeps on His back; the poet describes His form — the shining limbs, the face outshining autumn moons, the
 earrings, lips, teeth, the necklaces on His chest, the folded hands: as if even in sleep He were pleading with an offended beloved. Raga not
 specified ("yathārāga"). **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^24-1]
@@ -16711,16 +16707,16 @@ Narahari says: this cannot be grasped — surely He is pleading before an offend
 
 [^24-1]: GPT1 — p. 362, section 5.2 "Ashtakaliya", no. 55 ("yathārāga"; scan, PDF p. 621); GPT2 — section 5.2, no. 55, p. ≈233–234 (catalogue: NG-193,
 "5.3" — wrongly). GCC — kirana 2 (the "pastimes on the couch" in the last part of the night), pada 18: before it Gadadhara, waking first, serves the
-Lord's feet, and He turns onto His back (padas 15–16); then comes a pada of Ghanashyama (GPT no. 54) and this one. Readings: 1.1 GCC "vara gaura
+Lord's feet, and He turns onto His back (padas 15–16); then comes a pada of Ghanashyama (GPT no. 54) and this one. Readings: 1.1 GCC "bara gaura
 sarasa uttāna śayana"; "dāminī-puñja" ("of lightning") — GPT1 and GPT2 "yāminī puñja" ("of nights"), a misprint; the GCC reading is adopted; 1.4 GCC
-"anubhava na hota" (GPT "anubhava nohata"). Not in the BR, PK, KGC, PS, Gita-chandrodaya. B. On the ashtakaliya and on the Lord's sleep see note 36
+"anubhaba na hota" (GPT "anubhava nohata"). Not in the BR, PK, KGC, PS, Gita-chandrodaya. B. On the ashtakaliya and on the Lord's sleep see note 36
 of chapter 22.
 [^24-2]: The Lord's sleep is not the sleep of a conditioned soul: He is absorbed in the lilas of Vraja and, in the mood of Krishna, pleads in sleep
 with Radha who is in mana (offended pride) — the folded hands betray His inner mood (cf. in the same kirana of the GCC, pada 13: in sleep Gaura calls
 upon "the crown of beautiful women" to wake). "Which conquers young maidens" is a stock formula of the lyric on Krishna's all-attractive beauty (cf.
 note 7 of chapter 23); here it refers to Gaura as Krishna Himself.
 
-## 2. Narahari — "ki kahava gaura śayana anupāma…" (GPT1 pp. 362–363, no. 56; GCC)
+## 2. Narahari — "ki kahaba gaura śayana anupāma…" (GPT1 pp. 362–363, no. 56; GCC)
 *Gaura's matchless sleep: His limbs shine like Kama embodied; His body is soft as fresh butter — it seems to melt on the couch; His
 breathing gently lifts His belly, as the Malaya wind stirs the waves of a river on Sumeru. The poet prays that the Lord may so rest on the
 couch of his heart. Raga lalita. **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^24-3]
@@ -16739,12 +16735,12 @@ Narahari says: when will He so recline on the couch of my heart and give me joy?
 
 [^24-3]: GPT1 — pp. 362–363, no. 56 ("lalita"; scan, PDF pp. 621–622); GPT2 — section 5.2, no. 56, p. ≈234 (catalogue: NG-194). GCC — kirana 2, pada 7
 ("lalita rāga"; preceded by a description of the chamber and the couch). Readings: 2.2 GCC "kṣīrododadhi" ("ocean of milk"; GPT "kṣīroda dadhi"); 2.4 GCC
-"viracava" (GPT1 "viracana"). Under line 2.3 GPT1 has an editor's note on the reading "vilāse" (not reproduced). Not in the BR, PK, KGC, PS. B.
+"biracaba" (GPT1 "viracana"). Under line 2.3 GPT1 has an editor's note on the reading "bilāse" (not reproduced). Not in the BR, PK, KGC, PS. B.
 [^24-4]: The comparison with Kama (Manmatha) is a common image of the poetry on Krishna; but Krishna is "the Manmatha of Manmatha himself", who
 enchants even the god of love (Bhag. 10.32.2), and Gaura's beauty is not mundane: the poet prays not for anything sensual but that the Lord may
 reign in his heart. Sumeru is the golden mountain — an image of Gaura's golden body.
 
-## 3. Narahari — "ki kava analpa talpa jhalakata ati…" (GPT1 p. 363, no. 57; GCC)
+## 3. Narahari — "ki kaba analpa talpa jhalakata ati…" (GPT1 p. 363, no. 57; GCC)
 *Gaura's couch: spacious, spotless as autumn, fashioned by Kama himself; the white pillows are like blocks of Kailasa and the stilled
 waves of the Ganga; heaps of flowers, a painted canopy of moonbeams, a silver frame set with gold and gems. Raga lalita. **Attribution:
 probably Chakravarti** — the pada is in the GCC; Vrajabuli (the text is obscure in places).*[^24-5]
@@ -16762,9 +16758,9 @@ and when all their tender flowers are strewn, one can no longer tell that this i
 Narahari will say: this couch rises on a silver frame studded with gold and gems.[^24-6]
 
 [^24-5]: GPT1 — p. 363, no. 57 ("lalita"; scan, PDF p. 622); GPT2 — section 5.2, no. 57, p. ≈234 (catalogue: NG-195). GCC — kirana 2, pada 8 ("yathārāga";
-right after no. 56). Readings: 3.2 GCC "ālasa-dhara jana lālasa-kara vara vālisa" (GPT "ālasa dhara jala lālasa karavara vālisa"; translated after the
-GCC: "… awakening desire in people"); 3.3 GCC "vandhuṇa", "kṛta nayana", "sumanagaṇa" (GPT "vandhure", "kṛtanayanā", "samana gana"); 3.4 GCC "deyala",
-"bhaṇava sumati" (the sense of "sumati urathita" is unclear; taken as "rises beautifully"). Not in the BR, PK, KGC, PS. B.
+right after no. 56). Readings: 3.2 GCC "ālasa-dhara jana lālasa-kara bara bālisa" (GPT "ālasa dhara jala lālasa karabara bālisa"; translated after the
+GCC: "… awakening desire in people"); 3.3 GCC "bandhuṇa", "kṛta nayana", "sumanagaṇa" (GPT "bandhure", "kṛtanayanā", "samana gana"); 3.4 GCC "deyala",
+"bhaṇaba sumati" (the sense of "sumati urathita" is unclear; taken as "rises beautifully"). Not in the BR, PK, KGC, PS. B.
 [^24-6]: Manobhava ("born of the mind") is Kama: the Lord's couch is the matchless furnishing of His eternal chamber; yet even in this sumptuous picture
 "Gaura-Hari" is Krishna Himself, not a worldly prince. Hara's mountain is Kailasa, the white abode of Shiva; curd and the waves of the Ganga are
 images of whiteness.
@@ -16786,8 +16782,8 @@ Chakravarti** — the pada is in the GCC; Vrajabuli.*[^24-7]
 
 **4.6.** So I understand: a new, unheard-of sleep reigns. Narahari: shall I wake Him now?[^24-8]
 
-[^24-7]: GPT1 — p. 363, no. 58 ("vibhāsa"; scan, PDF p. 622); GPT2 — section 5.2, no. 58, p. ≈234 (catalogue: NG-196). GCC — kirana 3 ("the awakening"), pada 4
-("ko 'pi ca — vibhāṣa rāgeṇa", "and another [said] in raga vibhasa"): after a pada describing the sleeper (3.3) the GCC puts padas 4–7 into the
+[^24-7]: GPT1 — p. 363, no. 58 ("bibhāsa"; scan, PDF p. 622); GPT2 — section 5.2, no. 58, p. ≈234 (catalogue: NG-196). GCC — kirana 3 ("the awakening"), pada 4
+("ko 'pi ca — bibhāṣa rāgeṇa", "and another [said] in raga vibhasa"): after a pada describing the sleeper (3.3) the GCC puts padas 4–7 into the
 mouths of various companions who have come to the Lord's chamber at dawn. The readings differ insignificantly (4.5 GCC "kavahi"). Not in the BR, PK,
 KGC, PS. B.
 [^24-8]: "King Manmatha" — cf. note 4. Hiding one's love (4.3) is a mark of mature prema: the devotee does not display his feeling. "A new sleep":
@@ -16811,13 +16807,13 @@ Wondrous is the way of His sleep: as if in a dream, He utters words like nectar.
 How can one grasp this deed of Narahari's Lord? I cannot even say whether this sleep will break.[^24-10]
 
 [^24-9]: GPT1 — p. 363, no. 59 ("bhairava"; scan, PDF p. 622); GPT2 — section 5.2, no. 59, p. ≈234 (catalogue: NG-197). GCC — kirana 3, pada 5 ("ko 'pi ca —
-bhairava rāga"). Readings: 5.3 GPT1 and GPT2 "adbhuta ghuma karīta" — a wrong word division; the GCC reading "ghumaka rīta" ("the way of sleep") is
-adopted; 5.4 GCC "vujhava". Not in the BR, PK, KGC, PS. B.
+bhairaba rāga"). Readings: 5.3 GPT1 and GPT2 "adbhuta ghuma karīta" — a wrong word division; the GCC reading "ghumaka rīta" ("the way of sleep") is
+adopted; 5.4 GCC "bujhaba". Not in the BR, PK, KGC, PS. B.
 [^24-10]: "Former bhava" is the mood of Vraja: the Lord, Krishna Himself, in the mood of Radha and the gopis, does not sleep at night, speaking of Vraja
 and of Krishna (cf. CC Antya 14–19: the Lord's nights in the Gambhira). The word "maddened" (unamata) refers to the madness of prema, not to anything
 mundane. His sleep too is lila, "a still greater play": in sleep He utters words full of the rasa of Vraja (cf. no. 1 of chapter 23).
 
-## 6. Narahari — "pekhaha aparūpa pahum̐ka vilāsa…" (GPT1 pp. 363–364, no. 60; GCC)
+## 6. Narahari — "pekhaha aparūpa pahum̐ka bilāsa…" (GPT1 pp. 363–364, no. 60; GCC)
 *Another companion: behold the Lord's wondrous sleep! He whose radiance is not revealed even in the hearts of the gods shines in this
 chamber brighter than suns; sages perform sacrifices for ages to imagine Him on the couch of their hearts — and here He is easily
 reached; it is not the praises of Brahma and Shiva that please the Lord but the words of the parrot in its cage — the custom of Vraja
@@ -16860,7 +16856,7 @@ the pada is in the GCC.*[^24-13]
 
 **7.6.** How much can Narahari say of it? It seems it will be hard to wake Him.[^24-14]
 
-[^24-13]: GPT1 — p. 364, no. 61 ("vibhāsa"; scan, PDF p. 623); GPT2 — section 5.2, no. 61, p. 235 (catalogue: NG-198). GCC — kirana 3, pada 7 ("ko 'pi ca — rāga
+[^24-13]: GPT1 — p. 364, no. 61 ("bibhāsa"; scan, PDF p. 623); GPT2 — section 5.2, no. 61, p. 235 (catalogue: NG-198). GCC — kirana 3, pada 7 ("ko 'pi ca — rāga
 lalita"; the GCC edition notes that the Agartala manuscript lacks this pada). Readings: 7.1 GCC "hera cāya dekha gaurāṅga pāne" ("look at Gauranga";
 GPT "rajanī pāne", "at the night"); 7.2 GCC "kara-pada-bhaṅgimā", "kabhu"; 7.3 GCC "subhagati"; 7.5 GCC "kahite nāri". Not in the BR, PK, KGC, PS. B.
 [^24-14]: The Lord's sleep cannot be told from waking: it is not the unconsciousness of a conditioned soul but absorption in lila (cf. 5.3: "or is this a
@@ -16878,14 +16874,14 @@ admire His sleep. Raga vibhasa. **Attribution: probably Chakravarti** — the pa
 
 **8.4.** Again and again, with full eyes, they gaze at the sweetness of the sleep of the poet Narahari's Lord.[^24-16]
 
-[^24-15]: GPT1 — p. 364, no. 62 ("vibhāsa"; scan, PDF p. 623); GPT2 — section 5.2, no. 62, p. 235 (catalogue: NG-199). GCC — kirana 3, pada 9 ("yathārāga"; before it,
+[^24-15]: GPT1 — p. 364, no. 62 ("bibhāsa"; scan, PDF p. 623); GPT2 — section 5.2, no. 62, p. 235 (catalogue: NG-199). GCC — kirana 3, pada 9 ("yathārāga"; before it,
 pada 8: Gadadhara sits at the Lord's feet and presses them, while Narahari "floats in an ocean of happiness"). Readings: 8.1 GCC "gaurāṅga cāndera rajani-śayana";
 8.2 GCC "ati ānanda hṛdaya". The search of the witnesses had missed it (distorted OCR of the GCC); found by reading the GCC continuously. Not in the BR, PK,
 KGC, PS. B.
 [^24-16]: "Playfully they tell" — the companions' loving talk about the Lord; it too is part of His lila (cf. chapter 23, no. 5: the companions honour one
 another).
 
-## 9. Narahari — "kivā se niśira śobhā…" (GPT1 pp. 364–365, no. 63; GCC)
+## 9. Narahari — "kibā se niśira śobhā…" (GPT1 pp. 364–365, no. 63; GCC)
 *Night in Nadia: the moon has washed the town, the trees blossom, a cool wind blows, all the inhabitants sleep in bliss; around the Lord's
 chamber are His dear companions, some asleep, some awake; others have gone home at His bidding and pine. The poet prays to be near at this
 hour. Raga bhairava. **Attribution: probably Chakravarti** — the pada is in the GCC (it opens the nishanta-lila).*[^24-17]
@@ -16908,9 +16904,9 @@ some sleep, some lie awake — who can fathom such love?
 **9.6.** And others, at His bidding, lie in their own homes, pining;
 Narahari: when will it be so for me — when shall I too be near at that hour?[^24-18]
 
-[^24-17]: GPT1 — pp. 364–365, no. 63 ("bhairava"; scan, PDF pp. 623–624); GPT2 — section 5.2, no. 63, p. 235 (catalogue: NG-200). GCC — kirana 2, pada 1 ("rāga bhairava"):
+[^24-17]: GPT1 — pp. 364–365, no. 63 ("bhairava"; scan, PDF pp. 623–624); GPT2 — section 5.2, no. 63, p. 235 (catalogue: NG-200). GCC — kirana 2, pada 1 ("rāga bhairaba"):
 the first pada of the description of the ashtakaliya ("first, nishanta", the end of the night), right after the "table of contents" in kirana 1 (cf. chapter
-23, no. 19). Readings: 9.1 GCC has, at the words "purā se", an editor's mark of a reading "vāsa" (sense: "abode"); 9.2 GCC "praphullita nava kusume bhramara
+23, no. 19). Readings: 9.1 GCC has, at the words "purā se", an editor's mark of a reading "bāsa" (sense: "abode"); 9.2 GCC "praphullita naba kusume bhramara
 bhramaye madhura āśe" ("bees roam" — the subject missing in the GPT is restored after the GCC); 9.5 GCC "keha śuñā keha jāgiyā rayeche". Not in the BR, PK,
 KGC, PS. B.
 [^24-18]: The moon as a "washerman" washing away darkness is a familiar image of moonlight. The pining of the companions sent home is a lila of separation
@@ -16934,8 +16930,8 @@ as court singers and bards strike up a tune to break a prince's sleep.
 enchanted Narahari is enchanted beyond measure, beholding that joy.[^24-20]
 
 [^24-19]: GPT1 — p. 365, no. 65 ("tuṛī"; scan, PDF p. 624; the last pada of section 5.2); GPT2 — section 5.2, no. 65, p. ≈235–236. **The catalogue did not know it** (new row
-NG-303). Not found in any witness (GCC, BR, PK, KGC, PS, Gita-chandrodaya). The GPT1 OCR is badly distorted ("vatana mandira maṇi śuṇaṭha … bhugcai
-śanavilāsa"); the text follows the scan. Before it, no. 64 is a pada of Ghanashyama on the Lord's chamber (= GCC 2.10). "Not established", C.
+NG-303). Not found in any witness (GCC, BR, PK, KGC, PS, Gita-chandrodaya). The GPT1 OCR is badly distorted ("batana mandira maṇi śuṇaṭha … bhugcai
+śanabilāsa"); the text follows the scan. Before it, no. 64 is a pada of Ghanashyama on the Lord's chamber (= GCC 2.10). "Not established", C.
 [^24-20]: Vaitalikas and magadhas are court singers and bards who woke kings with songs and praises. The Lord's awakening by His companions' songs is the
 beginning of the morning lila (cf. the awakening songs, chapter 22, nos. 17–26). The companions sleep "around" the Lord, as in 9.5.
 
@@ -16971,7 +16967,7 @@ ways"; then follows a pada of Ghanashyama (GPT no. 11). Readings: 11.2 BR "putra
 ("the hero Bala", Balarama) — just as He called Gaura into the world. Ojha is Hadai Pandita's family title. On Nityananda's childhood at Ekachakra — CB Adi 9.
 The land of Radha (Rāṛha) is the region of Bengal west of the Ganga where Ekachakra lies.
 
-## 12. Narahari — "bhāve gara gara nitāi sundara…" (GPT1 p. 422, no. 26; BR)
+## 12. Narahari — "bhābe gara gara nitāi sundara…" (GPT1 p. 422, no. 26; BR)
 *The first meeting in Navadvipa: seeing Gorachand's radiance, Nityananda enters ecstasy — roaring, rolling on the ground, sighs, laughter,
 leaps, trembling; at last He grows still in Vishvambhara's embrace; the Lord, holding Him in His lap, weeps; Srivasa and the others weep.
 Raga mayura. **Attribution: probably Chakravarti** — the pada is in the BR.*[^24-23]
@@ -17041,9 +17037,9 @@ Narahari: He descended to deliver the fallen.[^24-28]
 [^24-27]: GPT1 — p. 433, no. 64 ("dhānaśī"; scan, PDF p. 692); GPT2 — section 6.1, no. 64, p. ≈286 (catalogue: NG-203 — with a garbled first line). BR 12 (ed. 1912, p. 967;
 ed. 1960, vv. 3632–3635): the Lord sends Nityananda from Puri to Gauda (CB Antya 5 is quoted there); Nityananda, passing through Utkala, comes to Gauda —
 "everywhere the word spread: Nityananda Raya has come, intoxicated with prema", — and people run to see Him. Gita-chandrodaya (ed. 1948), section on
-Nityananda, pada 2. Readings: 14.2 BR and Gita-chandrodaya "śobhe hema gāya" ("on His golden body"; GPT "śohe pahum̐ gāya"); 14.3 BR "kroṛe kari", "volāya"; 14.4:
+Nityananda, pada 2. Readings: 14.2 BR and Gita-chandrodaya "śobhe hema gāya" ("on His golden body"; GPT "śohe pahum̐ gāya"); 14.3 BR "kroṛe kari", "bolāya"; 14.4:
 see note 28. Not in the PK, KGC, PS, GCC. B.
-[^24-28]: 14.4 in the GPT and BR-1960 reads "narahari adhama tārite avatāra"; BR-1912 has "narahari-adhama" ("to deliver fallen Narahari"), the Gita-chandrodaya
+[^24-28]: 14.4 in the GPT and BR-1960 reads "narahari adhama tārite abatāra"; BR-1912 has "narahari-adhama" ("to deliver fallen Narahari"), the Gita-chandrodaya
 "adhama tāriteo" ("to deliver even fallen Narahari"): the poet counts himself among the fallen. "An elephant's gait", "swaying" — the majestic gait of
 Nityananda, intoxicated with prema for Gaura (not with worldly drink).
 
@@ -17066,7 +17062,7 @@ the refuge of Narahari Dasa, the Husband of Vasudha and Jahnava, gave prema to e
 
 [^24-29]: GPT1 — p. 433, no. 65 ("kāmoda"; scan, PDF p. 692); GPT2 — section 6.1, no. 65. **The catalogue did not know it** (new row NG-305). BR 12 (ed. 1912, p. 996; ed. 1960,
 vv. 4018–4021): after the account of the wedding and of Nityananda's life in Khardaha — "the poets glorify the virtues of Padmavati's son in many ways"; then
-follow the padas on Advaita. Readings: 15.2 BR "tīrtha-paryaṭana ka're"; 15.4 BR "vasu-jāhnavāra pati" (GPT "vasu jāhnavāra pati"). The Navadvipa-parikrama is the
+follow the padas on Advaita. Readings: 15.2 BR "tīrtha-paryaṭana ka're"; 15.4 BR "basu-jāhnabāra pati" (GPT "basu jāhnabāra pati"). The Navadvipa-parikrama is the
 same as the BR. Not in the PK, KGC, PS, GCC. B.
 [^24-30]: Childhood at Ekachakra and the departure with a sannyasi — CB Adi 9; Nityananda broke the Lord's staff on the way to Puri (CC Madhya 5; CB Antya 2); He was
 sent by the Lord to preach in Gauda — CB Antya 5. The numbers ("twelve", "twenty" years) follow the poet's account. "Was born from Padmavati's womb" (15.1) is the author's word: Nityananda, Balarama Himself, appears by His own will (cf. 11.1: "has descended"; on the Lord's "birth" see note 4 of chapter 20). On the caveat about Nityananda's marriage —
@@ -17115,7 +17111,7 @@ such a Lord wretched Narahari did not serve![^24-32]
 
 [^24-31]: GPT1 — pp. 433–434, no. 66 ("kāmoda"; scan, PDF pp. 692–693); GPT2 — section 6.1, no. 66, p. ≈286 (catalogue: NG-204, "in the BR"). BR 12 (ed. 1912, pp. 994–995;
 ed. 1960, vv. 3997–4008): after the wedding and a quotation from the Gaura-ganoddesha-dipika on Vasudha and Jahnava — "the poets sing the deeds of Nityananda,
-the Saviour of the fallen". Readings: 16.2 BR "padmāvatīra kumāra"; 16.7 BR "satī kulavatī tilāñjali dei kule". The Navadvipa-parikrama is the same as the BR. Not in
+the Saviour of the fallen". Readings: 16.2 BR "padmābatīra kumāra"; 16.7 BR "satī kulabatī tilāñjali dei kule". The Navadvipa-parikrama is the same as the BR. Not in
 the PK, KGC, PS, GCC. B.
 [^24-32]: Varuni and Revati are Balarama's consorts; Vasudha and Jahnava are their incarnations (Gaura-ganoddesha-dipika, quoted in BR 12, v. 3992). "Give up their
 kin" (16.7; lit. "offer their family the water of funeral rites") is the same formula as that used of the gopis who left everything for Krishna: it speaks of the
@@ -17145,7 +17141,7 @@ Navadvipa-parikrama is the same as the BR. Not in the PK, KGC, PS, GCC. B.
 [^24-34]: Panihati and the kirtana in Raghava's house — CB Antya 5. On the formula of 17.4 see note 32: it is an image of Nityananda's all-attractive spiritual
 beauty, which frees from worldly bonds, not of worldly temptation.
 
-## 18. Narahari — "kivā nācai nitāicām̐da…" (GPT1 p. 434, no. 68; BR)
+## 18. Narahari — "kibā nācai nitāicām̐da…" (GPT1 p. 434, no. 68; BR)
 *The same place: Nitaichand's dance among His companions; He calls "Gora!", the poor run to Him, feeling the breeze of His mercy; all drown in
 prema, Kali's pride retreats. Raga dhanashi. **Attribution: probably Chakravarti** — the pada is in the BR.*[^24-35]
 
@@ -17162,7 +17158,7 @@ the poor and lowly run to Him from all sides, feeling the breeze of His mercy.
 counting the virtues of the poet Narahari's Lord, who in the world would not shed tears?[^24-36]
 
 [^24-35]: GPT1 — p. 434, no. 68 ("dhānaśī"; scan, PDF p. 693); GPT2 — section 6.1, no. 68, p. ≈287 (catalogue: NG-205). BR 12 (ed. 1912, p. 968; ed. 1960, vv. 3653–3656; "punaḥ
-dhānaśī", right after no. 67). Readings: 18.1 BR "kivā nācaye nitāicām̐da"; 18.2 BR "nā jāni ki raṅge bhorā". Not in the PK, KGC, PS, GCC. B.
+dhānaśī", right after no. 67). Readings: 18.1 BR "kibā nācaye nitāicām̐da"; 18.2 BR "nā jāni ki raṅge bhorā". Not in the PK, KGC, PS, GCC. B.
 [^24-36]: "Maddened" (mātila) — with prema. The poet Narahari's Lord here is Nityananda.
 
 ## 19. Narahari — "āju ānande nitāicām̐de…" (GPT1 pp. 434–435, no. 69; BR)
@@ -17182,16 +17178,16 @@ the gods, mingling with men, gaze at His beauty with full eyes.
 **19.4.** Some sing, rejoicing in the abhisheka;
 Narahari brings a dry cloth and anoints His body with sandal.[^24-38]
 
-[^24-37]: GPT1 — pp. 434–435, no. 69 ("āśāvarī"; scan, PDF pp. 693–694); GPT2 — section 6.1, no. 69. **The catalogue did not know it** (new row NG-307). BR 12 (ed. 1912, p. 969;
+[^24-37]: GPT1 — pp. 434–435, no. 69 ("āśābarī"; scan, PDF pp. 693–694); GPT2 — section 6.1, no. 69. **The catalogue did not know it** (new row NG-307). BR 12 (ed. 1912, p. 969;
 ed. 1960, vv. 3658–3661): "there the abhisheka of Sri Nityananda was performed…"; then prose: Nityananda is seated on a couch and garlanded, Raghava holds
-the umbrella; Nityananda asks for a kadamba garland, and kadamba flowers are found on a lemon tree (vv. 3662–3665). Readings: 19.4 GPT "pāiyā śuṣkavāsa narahari,
-candana dei se aṅge" — BR "parāiyā śuṣka vāsa narahari, candana dei se raṅge" ("having dressed [Him] in a dry cloth… anoints with sandal in joy"). Not in the PK, KGC,
+the umbrella; Nityananda asks for a kadamba garland, and kadamba flowers are found on a lemon tree (vv. 3662–3665). Readings: 19.4 GPT "pāiyā śuṣkabāsa narahari,
+candana dei se aṅge" — BR "parāiyā śuṣka bāsa narahari, candana dei se raṅge" ("having dressed [Him] in a dry cloth… anoints with sandal in joy"). Not in the PK, KGC,
 PS, GCC. B.
 [^24-38]: The abhisheka and the kadamba miracle in Raghava's house — CB Antya 5. Who the Damodara performing the bath is cannot be established from this text
 alone. "Narahari" in 19.4 is a participant in the event; if the pada belongs to Narahari Chakravarti, this is not a signature but a mention of a companion
 (probably Narahari Sarakara), and the pada has no signature. The gods "mingle with men" — they come to the festival unrecognized (cf. no. 20).
 
-## 20. Narahari — "vasudhā jāhnavā devī śobhāvadhi…" (GPT1 p. 435, no. 71; BR)
+## 20. Narahari — "basudhā jāhnabā debī śobhābadhi…" (GPT1 p. 435, no. 71; BR)
 *The adhivasa of the brides — Vasudha and Jahnava, the daughters of Suryadasa Pandita: the brahmanas bless them, placing rice and durva grass
 on their heads; their mother is beside herself with joy; the women friends perform auspicious rites; the heavenly women watch unseen. Raga
 bhupali. **Attribution: probably Chakravarti** — the pada is in the BR.*[^24-39]
@@ -17209,7 +17205,7 @@ the women friends perform every kind of auspicious rite and how eagerly they cry
 Narahari says: the heavenly women, unseen, watch it with great delight in their hearts.[^24-40]
 
 [^24-39]: GPT1 — p. 435, no. 71 ("bhūpālī"; scan, PDF p. 694); GPT2 — section 6.1, no. 71, p. ≈288. The catalogue (NG-207) had run its first line together with the first line of
-no. 73 ("vasudhā jāhnavā devī śobhāvadhi bhuvanapāvana nitāi mora"); no. 73 is the new row NG-309. BR 12 (ed. 1912, pp. 991–992; ed. 1960, vv. 3965–3968): after the
+no. 73 ("basudhā jāhnabā debī śobhābadhi bhubanapābana nitāi mora"); no. 73 is the new row NG-309. BR 12 (ed. 1912, pp. 991–992; ed. 1960, vv. 3965–3968): after the
 bridegroom's adhivasa at Badagachhi in Krishnadasa's house (vv. 3948–3956; there a pada of Ghanashyama, GPT no. 70), Suryadasa at Saligrama performs the adhivasa
 of his daughters — "although he had seen his daughters' glory in a dream, he was still overcome by a father's tenderness". Readings: 20.1 BR "taṛita-kuṅkuma ketakī
 yanu"; 20.3 BR "karu sakhīkula". Not in the PK, KGC, PS, GCC. B.
@@ -17217,7 +17213,7 @@ yanu"; 20.3 BR "karu sakhīkula". Not in the PK, KGC, PS, GCC. B.
 incarnations of His eternal consorts Varuni and Revati (note 32); Jahnava Devi later became one of the foremost teachers of the Gaudiya Vaishnavas. The
 adhivasa is the pre-wedding consecration; "ulu-lulu" is the jubilant cry of Bengali women. The pandita's wife is the brides' mother, Suryadasa's wife.
 
-## 21. Narahari — "koṭi manamatha-garavabhara-hara…" (GPT1 pp. 435–436, no. 72; BR)
+## 21. Narahari — "koṭi manamatha-garababhara-hara…" (GPT1 pp. 435–436, no. 72; BR)
 *The wedding procession: Nitai-Haladhara in wedding attire rides in a new palanquin; brahmanas and bards praise Him, the people run to look;
 singers, dancers and musicians; torches turn night into day; the gods unseen shower flowers. Raga deshapala. **Attribution: probably
 Chakravarti** — the pada is in the BR; Vrajabuli.*[^24-41]
@@ -17245,13 +17241,13 @@ the matchless play of the Lord of Narahari Dasa enchants people's minds.[^24-42]
 [^24-41]: GPT1 — pp. 435–436, no. 72 ("deśapāla"; scan, PDF pp. 694–695; the heading is garbled in the OCR — "৭২ parda"); GPT2 — section 6.1, no. 72. **The catalogue did not know it**
 (new row NG-308). BR 12 (ed. 1912, p. 993; ed. 1960, vv. 3973–3976): "at dusk the Lord set out from Badagachhi to Saligrama for the wedding; instruments sounded…";
 then follows the wedding in Suryadasa's house ("according to the custom of the world and the shastras Suryadasa gave Nityananda his two daughters", v. 3983).
-Readings: 21.2 GPT1 (scan) "karata bhūsuravṛnda jaya jaya" (OCR "tṛṣavṛnda"), BR "bhūmsuravṛnda"; 21.4 BR "divasa sama bhela rajanī ujora", "saptalokagati patha
+Readings: 21.2 GPT1 (scan) "karata bhūsurabṛnda jaya jaya" (OCR "tṛṣabṛnda"), BR "bhūmsurabṛnda"; 21.4 BR "dibasa sama bhela rajanī ujora", "saptalokagati patha
 śohaye" (GPT "divasa sava", "sava loka gati-patha"). The onomatopoeic syllables of drums and dance (21.3) differ among the witnesses; given after GPT1. Not in the PK,
 KGC, PS, GCC. B.
 [^24-42]: Tala is rhythm, shruti and svara are microtones and tones, murchhana and grama are the modes of classical music. Haladhara ("bearer of the plough") is a
 name of Balarama. On Nityananda's wedding see note 40.
 
-## 22. Narahari — "bhuvanapāvana nitāi mora…" (GPT1 p. 436, no. 73; BR)
+## 22. Narahari — "bhubanapābana nitāi mora…" (GPT1 p. 436, no. 73; BR)
 *Nityananda goes to the house of Gadadhara Dasa: He calls "Gora!", walks like an intoxicated elephant, with a malati garland on His chest;
 whomever He glances at even once He plunges into the ocean of prema; the poet laments that he did not serve Him. Raga dhanashi.
 **Attribution: probably Chakravarti** — the pada is in the BR.*[^24-43]
@@ -17282,12 +17278,12 @@ and stayed drowning in the poison of sense objects.[^24-44]
 
 [^24-43]: GPT1 — p. 436, no. 73 ("dhānaśī"; scan, PDF p. 695); GPT2 — section 6.1, no. 73. **The catalogue did not know it** (new row NG-309; see note 39). BR 12 (ed. 1912, p. 970;
 ed. 1960, vv. 3680–3687): "having stayed at Panihati, He set out for Navadvipa to see Ai (Shachi); the Purifier of the world with His companions, absorbed in bhava,
-goes to the house of Gadadhara Dasa"; then follows Gadadhara Dasa's mercy to the kazi of that village (v. 3689). Readings: 22.8 GPT1 "viṣayaviśeṣe rahila maji" — BR
-"viṣaya-viṣete rahila maji'" ("drowning in the poison of sense objects"; adopted). Not in the PK, KGC, PS, GCC. B.
+goes to the house of Gadadhara Dasa"; then follows Gadadhara Dasa's mercy to the kazi of that village (v. 3689). Readings: 22.8 GPT1 "biṣayabiśeṣe rahila maji" — BR
+"biṣaya-biṣete rahila maji'" ("drowning in the poison of sense objects"; adopted). Not in the PK, KGC, PS, GCC. B.
 [^24-44]: "Like an intoxicated elephant" is an image of the majestic gait of Nityananda, intoxicated with prema for Gaura, not with worldly drink. Gadadhara Dasa
 is a companion of Nityananda; on his house and the kazi — CB Antya-khanda.
 
-## 23. Narahari — "nitāi guṇanidhi śobhāra avadhi…" (GPT1 pp. 436–437, no. 74; BR)
+## 23. Narahari — "nitāi guṇanidhi śobhāra abadhi…" (GPT1 pp. 436–437, no. 74; BR)
 *Khardaha: Nityananda's beauty, outshining the morning sun; He walks swaying like an elephant, calling "Gora!", with tears of bliss; gods and
 men run to touch His feet, and the age of Kali trembles before His might. Raga dhanashi. **Attribution: probably Chakravarti** — the pada is
 in the BR.*[^24-45]
@@ -17306,7 +17302,7 @@ Narahari Dasa: before the Lord's might the mighty age of Kali trembles with fear
 
 [^24-45]: GPT1 — pp. 436–437, no. 74 ("dhānaśī"; scan, PDF pp. 695–696); GPT2 — section 6.1, no. 74. **The catalogue did not know it** (new row NG-310). BR 12 (ed. 1912, pp. 971–972;
 ed. 1960, vv. 3698–3701): "Lord Nityananda came to Khardaha, surrounded by His companions; in the middle, Nityananda, enchanting Kamadeva"; before it is a pada of
-Vrindavana Dasa ("vande prabhu nityānanda", GPT 6.1 no. 5). Readings: 23.1 BR "gaṛhila sādhe", "prabhātera bhānu jini' tanuchaṭā"; 23.3 BR "hili' duli' cale kuñjara-pārā". Not
+Vrindavana Dasa ("bande prabhu nityānanda", GPT 6.1 no. 5). Readings: 23.1 BR "gaṛhila sādhe", "prabhātera bhānu jini' tanuchaṭā"; 23.3 BR "hili' duli' cale kuñjara-pārā". Not
 in the PK, KGC, PS, GCC. B.
 [^24-46]: Nityananda in Khardaha — CB Antya 5. The age of Kali "trembles": with Nityananda's coming the power of Kali recedes, and the holy name and prema flood Gauda.
 
@@ -17331,7 +17327,7 @@ is in the BR.*[^24-47]
 
 [^24-47]: GPT1 — p. 437, no. 75 ("kāmoda"; scan, PDF p. 696); GPT2 — section 6.1, no. 75, p. ≈288 (catalogue: NG-208, "in the BR"). BR 12 (ed. 1912, p. 972; ed. 1960, vv. 3706–3711):
 "coming to Khardaha, the Lord with His people — in the temple-house of Purandara Pandita… dances and distributes the rarest treasure". Readings: 24.1 BR "āni'
-vilāyala vidhi" ("Providence brought and distributed [Him]"); couplet 24.5 is absent from the BR. Not in the PK, KGC, PS, GCC. B.
+bilāyala bidhi" ("Providence brought and distributed [Him]"); couplet 24.5 is absent from the BR. Not in the PK, KGC, PS, GCC. B.
 [^24-48]: "Only Narahari is far away" — the poet's humility (cf. 16.12, 22.8). Purandara Pandita is a companion of Nityananda.
 
 ## 25. Narahari — "gorāpreme mātiyā nitāi…" (GPT1 p. 437, no. 76; BR)
@@ -17361,7 +17357,7 @@ Narahari's life has, as it were, drowned in it.[^24-50]
 [^24-50]: "Intoxicated", "intoxicates" — with prema for Gaura; Nityananda gives the world the same intoxication of love for the Lord. Madana is Kamadeva: his beauty
 pales before Nityananda's spiritual beauty.
 
-## 26. Narahari — "bhuvane jaya jaya nitāi dayāmaya…" (GPT1 p. 437, no. 77; BR)
+## 26. Narahari — "bhubane jaya jaya nitāi dayāmaya…" (GPT1 p. 437, no. 77; BR)
 *The same place: merciful Nitai removes the fear of the round of births and maddens the fallen with prema; He dances calling "Gaurahari!",
 falls in the dust; the whole world, seeing Him, forgets its sorrow. Raga gurjari. **Attribution: probably Chakravarti** — the pada is in
 the BR.*[^24-51]
@@ -17402,14 +17398,14 @@ may there never be separation — may He stay fixed forever before my eyes."
 **27.4.** Such hopes arise in His heart — the way of prema is matchless and boundless;
 again and again, in longing, the poet Narahari's Lord asks the Creator for a body made all of eyes.[^24-54]
 
-[^24-53]: GPT1 — pp. 437–438, no. 78 ("velāvalī"; scan, PDF pp. 696–697); GPT2 — section 6.1, no. 78. **The catalogue did not know it** (new row NG-313). GCC — kirana 4 ("the Lord among
-the devotees", morning in Shachi's courtyard), pada 8 ("velāvalī"); before it (pada 7) is a pada of Ghanashyama on Nityananda gazing at Gaura's face amid the companions.
-Readings: 27.1 GCC "nityānanda harṣa hiya māha", "anuja nihāri visāri sakala"; 27.4 GCC "premaka gati". Not in the BR, PK, KGC, PS. B.
+[^24-53]: GPT1 — pp. 437–438, no. 78 ("belābalī"; scan, PDF pp. 696–697); GPT2 — section 6.1, no. 78. **The catalogue did not know it** (new row NG-313). GCC — kirana 4 ("the Lord among
+the devotees", morning in Shachi's courtyard), pada 8 ("belābalī"); before it (pada 7) is a pada of Ghanashyama on Nityananda gazing at Gaura's face amid the companions.
+Readings: 27.1 GCC "nityānanda harṣa hiya māha", "anuja nihāri bisāri sakala"; 27.4 GCC "premaka gati". Not in the BR, PK, KGC, PS. B.
 [^24-54]: Nityananda is Balarama: "before" (in Vraja) He saw dark Krishna, and now Krishna has appeared as golden Gaura — in the mood and radiance of Radha (CC Adi 1.5),
 and this "secret rasa" captivates Him even more. The prayer for a "body of eyes" is like the gopis' complaint against the Creator who made eyelids (Bhag. 10.31.15):
 Nityananda, the Lord Himself, relishes the mood of a loving servant and brother. The poet Narahari's Lord here is Nityananda.
 
-## 28. Narahari — "aparūpa pahum̐ka prema valihāri…" (GPT1 p. 438, no. 80; GCC)
+## 28. Narahari — "aparūpa pahum̐ka prema balihāri…" (GPT1 p. 438, no. 80; GCC)
 *The same place: Nityananda, rapt in prema, cannot stand steady; Abhirama hastens up and gives Him his shoulder, and Nityananda, gazing at
 Gaura's moon-face, laughs; the poet: whoever hopes to attain Gaura's feet bypassing Nitai is the one fool in all three worlds. Raga veloyara. **Attribution:
 probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^24-55]
@@ -17426,17 +17422,17 @@ not even a little of the beauty of His matchless movements could Shesha or Shara
 **28.4.** Whoever, bypassing Nitai, hopes to attain Gaura's pure lotus feet
 is the one fool in all three worlds: all his efforts are in vain, — says Narahari Dasa.[^24-56]
 
-[^24-55]: GPT1 — p. 438, no. 80 ("veloyāra"; scan, PDF p. 697); GPT2 — section 6.1, no. 80. **The catalogue did not know it** (new row NG-314). GCC — kirana 4, pada 10 ("veloyāra"); before
-it is a pada of Ghanashyama (GPT no. 79) on Nityananda intoxicated with His brother's bhava. Readings: 28.1 GCC "aparūpa prema valihārī" (without "pahum̐ka"); 28.2 GCC
-"avaloki", "āola niyaṛe", "vasana pari tām̐kara kandhe"; 28.3 GCC "gauracandra-mukhacanda", "śobhā śeṣa śārada varaṇa śakata nāhi thora" — "śeṣa" adopted after the GCC (GPT
-"śobhā śubha śāradavaraṇa"). Not in the BR, PK, KGC, PS. B.
+[^24-55]: GPT1 — p. 438, no. 80 ("beloyāra"; scan, PDF p. 697); GPT2 — section 6.1, no. 80. **The catalogue did not know it** (new row NG-314). GCC — kirana 4, pada 10 ("beloyāra"); before
+it is a pada of Ghanashyama (GPT no. 79) on Nityananda intoxicated with His brother's bhava. Readings: 28.1 GCC "aparūpa prema balihārī" (without "pahum̐ka"); 28.2 GCC
+"abaloki", "āola niyaṛe", "basana pari tām̐kara kandhe"; 28.3 GCC "gauracandra-mukhacanda", "śobhā śeṣa śārada baraṇa śakata nāhi thora" — "śeṣa" adopted after the GCC (GPT
+"śobhā śubha śāradabaraṇa"). Not in the BR, PK, KGC, PS. B.
 [^24-56]: "Handsome Abhirama" (sughaṛa abhirāma) is Abhirama (Ramadasa) Thakura, a companion of Nityananda, one of the twelve gopalas; Nityananda leans on him in
 other padas of the section as well (cf. 6.1 no. 2: "calling 'brother Abhirama!'"). It can also be taken as an epithet — "the handsome, charming [Nitai] came up [to
 Gaura] and laid His hand on His shoulder"; the first reading is more natural. Shesha is the thousand-headed serpent who sings the Lord's glories with all his mouths; Sharada is Sarasvati, the goddess of speech. 28.4 is the central
 thought of the tradition: Nityananda is the original spiritual master (CC Adi 5), and Gaura's mercy is attained only by His mercy; cf. Narottama Dasa's song
 "nitāi-pada-kamala" ("without Nitai one cannot attain Radha and Krishna").
 
-## 29. Narahari — "vilase nitāicām̐da rasabhūpa…" (GPT1 pp. 438–439, no. 81; GCC)
+## 29. Narahari — "bilase nitāicām̐da rasabhūpa…" (GPT1 pp. 438–439, no. 81; GCC)
 *Nityananda's form from head to foot: a body the colour of gold with kunkuma and dawn, softer than shirisha flowers, its fragrance filling
 the quarters; the smile, teeth, eyes, brows, tilaka, earrings, arms, chest, navel, slender waist, blue silk garments, crimson feet; the poet
 prays that the radiance of Nitai's toenails may dispel the darkness of his heart. Raga veloyara. **Attribution: probably Chakravarti** —
@@ -17466,14 +17462,14 @@ wondrous blue garments of the finest silk entice the minds and eyes of people.
 **29.8.** His full shanks are soft and graceful, His mighty thighs and knees give joy;
 crimson feet, the lovely radiance of the toenails — may they dispel the darkness of this Narahari's heart![^24-58]
 
-[^24-57]: GPT1 — pp. 438–439, no. 81 ("veloyāra"; scan, PDF pp. 697–698; the last pada of section 6.1); GPT2 — section 6.1, no. 81. **The catalogue did not know it** (new row NG-315).
-GCC — kirana 4, pada 11 ("veloyāra"; right after no. 80); next (pada 12) is a pada on Advaita's joy (GPT 6.2 no. 5 — no. 1 of chapter 25). Readings: 29.1 GCC
-"aruṇamilita-kanakācala-kuṅkumapuñja gañji jaga-vañcana rūpa" ("upon a golden mountain" — after the GCC; GPT "kala-kāñcana", "pure gold"); 29.2 GCC
-"kulavatī-yuvatī-dharama-bhaya-bhañjana"; 29.8 GCC "e narahari hṛdayaka tama karu nāśa". Not in the BR, PK, KGC, PS. B.
+[^24-57]: GPT1 — pp. 438–439, no. 81 ("beloyāra"; scan, PDF pp. 697–698; the last pada of section 6.1); GPT2 — section 6.1, no. 81. **The catalogue did not know it** (new row NG-315).
+GCC — kirana 4, pada 11 ("beloyāra"; right after no. 80); next (pada 12) is a pada on Advaita's joy (GPT 6.2 no. 5 — no. 1 of chapter 25). Readings: 29.1 GCC
+"aruṇamilita-kanakācala-kuṅkumapuñja gañji jaga-bañcana rūpa" ("upon a golden mountain" — after the GCC; GPT "kala-kāñcana", "pure gold"); 29.2 GCC
+"kulabatī-yubatī-dharama-bhaya-bhañjana"; 29.8 GCC "e narahari hṛdayaka tama karu nāśa". Not in the BR, PK, KGC, PS. B.
 [^24-58]: A description of the form "from head to foot" (cf. no. 22 of chapter 23) is a devotional contemplation of the Lord. Blue garments are Balarama's
 (Nilambara, "clad in blue"). "Shatters chaste maidens' fear for their rules" (29.2) is the same formula as in 16.7 and 17.4 (see note 32): the Lord's spiritual
 beauty, which frees from worldly bonds. Ananga is Kamadeva; the Triveni is the confluence of three rivers at Prayaga; the shirisha is a flower that is the
-very type of softness. "Enchants the world" — lit. "deceives the world" (jaga-vañcana): under the guise of an avadhuta Balarama Himself is hidden.
+very type of softness. "Enchants the world" — lit. "deceives the world" (jaga-bañcana): under the guise of an avadhuta Balarama Himself is hidden.
 
 ---
 
@@ -17508,16 +17504,16 @@ as if wondrous jasmine flowers were raining down on every side, — and the conn
 **1.4.** His eyes tremble, brimming with tears, and the tears flow beautifully, heeding no restraint,
 glittering like strings of pearls, — and Narahari sees the pearls put to shame by the Lord.[^25-2]
 
-[^25-1]: GPT1 — p. 440, section 6.2 "Advaita", no. 5 ("veloyāra"; scan, PDF p. 699); GPT2 — section 6.2, no. 5. **The catalogue did not know it** (new row NG-316).
+[^25-1]: GPT1 — p. 440, section 6.2 "Advaita", no. 5 ("beloyāra"; scan, PDF p. 699); GPT2 — section 6.2, no. 5. **The catalogue did not know it** (new row NG-316).
 GCC — kirana 4 ("the Lord among His devotees": in the morning, after waking, the companions gather round Gaura, and the poet describes each of them —
-Nityananda, padas 7–11, Advaita, padas 12–15, Gadadhara, 16–17, Narahari Sarakara, 18, Srivasa, 19, and others), pada 12 ("punaḥ veloyāra"; right after
+Nityananda, padas 7–11, Advaita, padas 12–15, Gadadhara, 16–17, Narahari Sarakara, 18, Srivasa, 19, and others), pada 12 ("punaḥ beloyāra"; right after
 the pada on Nityananda's form — no. 29 of chapter 24). Readings: 1.1 "nirakhi" ("seeing") — from the GCC, the word has dropped out in the GPT (the line is
 short of the metre); 1.4 GCC "calata" ("flow"; GPT "carata"). Not in the BR, PK, KGC, PS, Gita-chandrodaya. B. Note 57 of chapter 24 wrongly calls this
 pada no. 4 (corrected).
-[^25-2]: Beating the armpits (kakṣa-vādya) is a gesture of jubilation and challenge, as of a wrestler or a hero (cf. below, 9.3 and 11.2: He slaps His
-arms, and Kali trembles at Advaita's roar). "Portly body": in the lila Advaita is the elder, venerable in years (cf. "the old man", vuṛā, in other poets
+[^25-2]: Beating the armpits (kakṣa-bādya) is a gesture of jubilation and challenge, as of a wrestler or a hero (cf. below, 9.3 and 11.2: He slaps His
+arms, and Kali trembles at Advaita's roar). "Portly body": in the lila Advaita is the elder, venerable in years (cf. "the old man", buṛā, in other poets
 of the same section); "which has conquered the quarters" — by its radiance and might. Advaita's tears and laughter are the ecstasy of love for Gaura,
-whom He Himself called into the world. The last words (pahum̐ka parābhava jāni, lit. "knows the defeat by the Lord") may also be understood otherwise:
+whom He Himself called into the world. The last words (pahum̐ka parābhaba jāni, lit. "knows the defeat by the Lord") may also be understood otherwise:
 "Narahari owns himself defeated by the Lord's beauty".
 
 ## 2. Narahari — "sītāpati atiśaya sukhe bhora…" (GPT1 p. 441, no. 6; GCC)
@@ -17539,7 +17535,7 @@ the word "sorrow" has gone from hearing on earth, in homes and in all the worlds
 Hari, Hari! Whom has it not stripped of power, — says Narahari, — Your might, O Lord![^25-4]
 
 [^25-3]: GPT1 — p. 441, no. 6 ("yathārāga"; scan, PDF p. 700); GPT2 — section 6.2, no. 6. **The catalogue did not know it** (new row NG-317). GCC — kirana 4,
-pada 13 ("yathārāga"). Readings: 2.1 "vicāra" ("reflects") — from the GCC (GPT1 and GPT2 misprint "vicā"); 2.3 GCC "bharala bhuvanamadhi adhika ānanda"
+pada 13 ("yathārāga"). Readings: 2.1 "bicāra" ("reflects") — from the GCC (GPT1 and GPT2 misprint "bicā"); 2.3 GCC "bharala bhubanamadhi adhika ānanda"
 ("great bliss filled the worlds"; GPT "bhavana bhuvana madhi"). Not in the BR, PK, KGC, PS, Gita-chandrodaya. B.
 [^25-4]: Madana (Kamadeva) is the god of love; "Madana's pride" is put to shame by the spiritual beauty of Gaura — Krishna Himself, Madana-mohana,
 "the enchanter of Madana": this is praise of the Lord's all-attractive beauty, not of worldly attraction. "The Moon" is Gaura (Gaurachandra) with His
@@ -17563,13 +17559,13 @@ crying "Jaya, jaya!", unnoticed, He dances gently — and steals away people's h
 Seeing this matchless play, Narahari, Haridasa and the others — who can measure their happiness?[^25-6]
 
 [^25-5]: GPT1 — p. 441, no. 7 ("yathārāga"; scan, PDF p. 700); GPT2 — section 6.2, no. 7 (catalogue: NG-210). GCC — kirana 4, pada 14 ("yathārāga"); next
-(pada 15) comes Ghanashyama's pada on Advaita's form (GPT no. 8). Readings: 3.2 "raṅka sama" ("like a pauper") and "rajanīka veśa" ("night attire";
-cf. in the same kirana, pada 16: the Lord in the morning "in His night dress") — from the GCC; the GPT "vakṣa sama", "rajanī kareṇa" make no sense;
+(pada 15) comes Ghanashyama's pada on Advaita's form (GPT no. 8). Readings: 3.2 "raṅka sama" ("like a pauper") and "rajanīka beśa" ("night attire";
+cf. in the same kirana, pada 16: the Lord in the morning "in His night dress") — from the GCC; the GPT "bakṣa sama", "rajanī kareṇa" make no sense;
 3.4 GCC "ko kahu ora" ("who can tell"). Not in the BR, PK, KGC, PS, Gita-chandrodaya. B.
 [^25-6]: Achyuta is Achyutananda, Advaita's son, "the beloved of Krishna-Chaitanya" (Gaura-ganoddesha-dipika, 87); the name also means "the
 Infallible" (Krishna). The King of the twice-born (dvijarāja) is both the moon and the king of brahmanas: Gaura. Nirmanchana is the rite of circular
 offering (as in arati), a sign of self-surrender. "I have won!": Advaita triumphs — His worship has been fulfilled, the Lord whom He called has
-appeared (cf. in the same GPT section Lochana's pada no. 30: "jitilum̐ jitilum̐… jīva nistārite habe gaura avatāra"). In the last line the name
+appeared (cf. in the same GPT section Lochana's pada no. 30: "jitilum̐ jitilum̐… jība nistārite habe gaura abatāra"). In the last line the name
 "Narahari" is both the poet's signature and, probably, the name of one of the onlookers: in the same kirana of the GCC, the pada after those on
 Advaita and Gadadhara (pada 18) praises Narahari Sarakara among the Lord's companions; Haridasa is Haridasa Thakura.
 
@@ -17590,8 +17586,8 @@ by His mighty power the threefold miseries are subdued, and the hearts of the pe
 **4.4.** The ocean of compassion has overflowed in all directions — the base and the fallen float in the rasa of bhakti.
 What will foolish Narahari understand of this play? He has revealed to the world the new deeds and qualities of Gaura.[^25-8]
 
-[^25-7]: GPT1 — p. 442, no. 9 ("kāmoda vā velāvalī"; scan, PDF p. 701); GPT2 — section 6.2, no. 9. **The catalogue did not know it** (new row NG-318). BR 12
-(ed. 1912, p. 977; ed. 1960, vv. 3767–3770, "velāvalī"): Nityananda, preaching in Gauda, stays at Saptagrama with Uddharana Datta and is about to go to
+[^25-7]: GPT1 — p. 442, no. 9 ("kāmoda vā belābalī"; scan, PDF p. 701); GPT2 — section 6.2, no. 9. **The catalogue did not know it** (new row NG-318). BR 12
+(ed. 1912, p. 977; ed. 1960, vv. 3767–3770, "belābalī"): Nityananda, preaching in Gauda, stays at Saptagrama with Uddharana Datta and is about to go to
 Shantipura, to Advaita's house; Ishana, telling Srinivasa of this, describes Advaita's glory ("Advaita Acharya lives in Shantipura… He who brought Shri
 Krishna-Chaitanya into the world", vv. 3753–3754) and quotes one after another padas on Advaita: Narahari (vv. 3755–3760, "śrīgaura-abhinna tanu advaita āmāra" —
 not in the GPT), Lochana (GPT no. 2), "Advaitachandra with His companions ever floats on the waves of the ocean of love for Gora" (v. 3766) — and this
@@ -17623,7 +17619,7 @@ Narahari Dasa says: Sri Advaita is merciful — the three worlds proclaim this f
 [^25-9]: GPT1 — p. 442, no. 10 ("kāmoda"; scan, PDF p. 701); GPT2 — section 6.2, no. 10 (catalogue: NG-211). BR 12 (ed. 1912, pp. 996–997; ed. 1960,
 vv. 4024–4027, "kāmoda"): right after the pada surveying Nityananda's life (6.1 no. 65, no. 15 of chapter 24) Ishana tells Srinivasa: "Sri Advaita with His
 companions is ceaselessly absorbed in singing Gaura's deeds, now in Shantipura, now in Nadia; who does not sing the glory of Nabha's Son?" (vv.
-4022–4023). Readings: 5.1 "vilasiyā" — from the BR (GPT "vilāsiyā"); 5.4 BR "prabhu-sthiti" ("the Lord's stay"). Not in the PK, KGC, PS, GCC,
+4022–4023). Readings: 5.1 "bilasiyā" — from the BR (GPT "bilāsiyā"); 5.4 BR "prabhu-sthiti" ("the Lord's stay"). Not in the PK, KGC, PS, GCC,
 Gita-chandrodaya. B.
 [^25-10]: Navagram is Advaita's birthplace in Vanga (East Bengal), near Shrihatta (Sylhet); His father is Kuvera Pandita (Kuvera Mishra), His mother Nabha
 (in the Advaita-prakasha, Labha; BR 12, vv. 1751–1758). Sri Sita is Advaita's wife, according to the Gaura-ganoddesha-dipika (86) Yogamaya. "Austerities"
@@ -17649,12 +17645,12 @@ Narahari Dasa offers himself to the Lord: how supremely generous He is![^25-12]
 
 [^25-11]: GPT1 — p. 442, no. 11 ("kāmoda"; scan, PDF p. 701); GPT2 — section 6.2, no. 11. **The catalogue did not know it** (new row NG-319). BR 12 (ed. 1912,
 p. 977; ed. 1960, vv. 3771–3774, "punaḥ — kāmoda"; right after no. 9, see note 7); Gita-chandrodaya — the section on Advaita, pada 4. Readings: 6.1 GCd
-"carita varaṇi na yāta" ("His deeds cannot be described"); 6.3 "kañjalocana" ("lotus eyes") — from the BR and GCd (GPT misprint "kuñja locana"); GCd
+"carita baraṇi na yāta" ("His deeds cannot be described"); 6.3 "kañjalocana" ("lotus eyes") — from the BR and GCd (GPT misprint "kuñja locana"); GCd
 "aparūpa dhūlidhūsarita deha". Not in the PK, KGC, PS, GCC. B.
 [^25-12]: Shravana (śāṅana) is the month of the rainy season (July–August). "Gaurahari" is the Lord's name: Advaita, Himself non-different from Hari, repeats
-Gaura's name in ecstasy. "Offers himself" (valihāri) — lit. "sacrifices himself", an exclamation of admiration and devotion.
+Gaura's name in ecstasy. "Offers himself" (balihāri) — lit. "sacrifices himself", an exclamation of admiration and devotion.
 
-## 7. Narahari — "jaya deva deva maheśvara rūpa…" (GPT1 p. 443, no. 13; GPT only)
+## 7. Narahari — "jaya deba deba maheśvara rūpa…" (GPT1 p. 443, no. 13; GPT only)
 *Praise of Advaita, the form of Maheshvara, the king of the rasa of lila: by His call Gauranga was manifested, for His sake Gaura's lila unfolded;
 He was born as Kuvera's son on the bright seventh day of the month of Magha. Raga dhanashi. **Attribution: not established** — found in no witness
 (it stands among padas that are in the BR; the GPT2 index wrongly assigns it to Ghanashyama).*[^25-13]
@@ -17671,8 +17667,8 @@ He was born — as Kuvera's son.
 **7.4.** The son of Nabha, the Lord Sri Advaita, —
 may the mind of Narahari Dasa remain at His feet![^25-14]
 
-[^25-13]: GPT1 — p. 443, no. 13 ("dhānaśī"; scan, PDF p. 702); GPT2 — section 6.2, no. 13 (catalogue: NG-212). In the GPT2 index of first lines "jaya devadeva maheśvara rūpa"
-stands under Ghanashyama's name, but in the text of both editions the signature is "dāsa narahari". Readings: 7.3 GPT2 "kuvera rase" (a letter has dropped out:
+[^25-13]: GPT1 — p. 443, no. 13 ("dhānaśī"; scan, PDF p. 702); GPT2 — section 6.2, no. 13 (catalogue: NG-212). In the GPT2 index of first lines "jaya debadeba maheśvara rūpa"
+stands under Ghanashyama's name, but in the text of both editions the signature is "dāsa narahari". Readings: 7.3 GPT2 "kubera rase" (a letter has dropped out:
 GPT1 "aurase", "as the son"). Not in the BR (eds. 1912, 1913, 1960), GCC, Gita-chandrodaya, Navadvipa-parikrama, PK, KGC, PS. C.
 [^25-14]: "Maheshvara, the God of gods" is Sadashiva: Advaita is Maha-Vishnu Himself (CC Adi 6), and the Gaura-ganoddesha-dipika (11, 76) calls Him Sadashiva.
 The Sadashiva of Gaudiya theology is not the demigod Shiva who governs the mode of ignorance, but an eternal form of the Lord, non-different from Vishnu;
@@ -17680,7 +17676,7 @@ that is why Advaita is called "non-dual" — non-different from Hari. Kuvera is 
 (81) Kubera, the friend of Mahadeva; Nabha is Advaita's mother. The bright seventh lunar day of the month of Magha is the day of Advaita's advent
 (Advaita-saptami); likewise in Ghanashyama (GPT no. 23) and in no. 14.
 
-## 8. Narahari — "ki bhāve vibhora mora advaita gosāñi re…" (GPT1 p. 443, no. 15; BR)
+## 8. Narahari — "ki bhābe bibhora mora advaita gosāñi re…" (GPT1 p. 443, no. 15; BR)
 *Advaita is lost in bhava: tears, a sweet smile, the constant call "Gora! Gora!"; a body more tender than the shirisha flower, His shikha fluttering in
 the wind, a garland of malati on His neck; stretching out His long arms, He embraces the fallen and gives everyone the treasure of prema, rare even for
 Brahma. Raga gurjari. **Attribution: probably Chakravarti** — the pada is in the BR.*[^25-15]
@@ -17700,7 +17696,7 @@ and Narahari, having found so merciful a Lord, did not serve Him — and sank in
 [^25-15]: GPT1 — p. 443, no. 15 ("gujjarī"; scan, PDF p. 702); GPT2 — section 6.2, no. 15 (catalogue: NG-213). BR 12 (ed. 1912, pp. 978–979; ed. 1960, vv. 3782–3785,
 "punaḥ gurjarī"; after Ghanashyama's pada no. 14); next Ishana says: "Sita's Lord, Advaita Gosani, is absorbed in dancing and kirtana — now in His own house,
 now in the houses of His companions, now on the bank of the Ganga" (vv. 3786–3789) — and quotes no. 16. Readings: 8.3 BR "patita dhariyā"; 8.4 BR "pahu pāyā
-re nā bhaji majinu bhavakūpe" ("not serving, I sank"). Not in the PK, KGC, PS, GCC, Gita-chandrodaya. B.
+re nā bhaji majinu bhabakūpe" ("not serving, I sank"). Not in the PK, KGC, PS, GCC, Gita-chandrodaya. B.
 [^25-16]: The shikha is the lock of hair on the crown, the sign of a Vaishnava brahmana. "Rare even for Brahma": the prema given away by Gaura and His
 companions surpasses all that the demigods attain. The poet's self-abasement in the signature ("did not serve… sank") is the usual ending of a pada: a
 humble Vaishnava considers himself deprived of what is given to all.
@@ -17735,8 +17731,8 @@ the wretched, the fallen, the base float in prema.
 He has turned away from the feet of so merciful a Lord.[^25-18]
 
 [^25-17]: GPT1 — pp. 443–444, no. 16 ("dhānaśī"; scan, PDF pp. 702–703); GPT2 — section 6.2, no. 16 (catalogue: NG-214). BR 12 (ed. 1912, p. 979; ed. 1960,
-vv. 3790–3797, "gīte — yathā dhānaśī"; see note 15). Readings: 9.2 BR "vihire" ("of the Creator"; GPT "vihare"); 9.5 "senā" ("army") — from the BR (the GPT
-splits it "se nā"); 9.8 "jīvane" — from the BR (GPT "jīvana"). Not in the PK, KGC, PS, GCC, Gita-chandrodaya. B.
+vv. 3790–3797, "gīte — yathā dhānaśī"; see note 15). Readings: 9.2 BR "bihire" ("of the Creator"; GPT "vihare"); 9.5 "senā" ("army") — from the BR (the GPT
+splits it "se nā"); 9.8 "jībane" — from the BR (GPT "jībana"). Not in the PK, KGC, PS, GCC, Gita-chandrodaya. B.
 [^25-18]: "Slaps His arms" (mālasāṭa) is a wrestler's challenge before a bout: singing of Gaura, Advaita as it were challenges Kali to battle. "Even the noble
 wives weep": their hearts melt at the kirtana; these are tears of devotion, not of worldly feeling.
 
@@ -17758,8 +17754,8 @@ streams flow ceaselessly from both His eyes, He dances with both arms raised.
 is there anyone in the world so merciful, apart from Narahari's Lord?[^25-20]
 
 [^25-19]: GPT1 — p. 444, no. 17 ("kāmoda"; scan, PDF p. 703); GPT2 — section 6.2, no. 17 (catalogue: NG-215). BR 12 (ed. 1912, p. 980; ed. 1960, vv. 3798–3801,
-"punaḥ — kāmoda"; right after no. 16); Gita-chandrodaya — the section on Advaita, pada 6. Readings: 10.1 BR "e deha gaṭhala vidhi", GCd "guṇera nidhi",
-"e deha gaṛala vidhi"; 10.4 BR and GCd "amūlya ratana". Not in the PK, KGC, PS, GCC. B.
+"punaḥ — kāmoda"; right after no. 16); Gita-chandrodaya — the section on Advaita, pada 6. Readings: 10.1 BR "e deha gaṭhala bidhi", GCd "guṇera nidhi",
+"e deha gaṛala bidhi"; 10.4 BR and GCd "amūlya ratana". Not in the PK, KGC, PS, GCC. B.
 [^25-20]: "The Creator fashioned the body of nectar" is a poetic formula of admiration for beauty: Advaita's body, like the Lord's, is eternal and
 spiritual, not created by Brahma. Ketaki is the golden pandanus flower; kunkuma is saffron. "Narahari's Lord" (narahari-pahum̐) is the Lord whom the poet
 serves (cf. note 44 of chapter 17): here, Advaita.
@@ -17787,13 +17783,13 @@ with sweet voices they sing slowly, khol and karatalas resound.
 **11.6.** Who, hearing this, can keep his composure?
 All the lowly and the wretched are maddened [with prema], and Narahari is lost in bewilderment.[^25-22]
 
-[^25-21]: GPT1 — p. 444, no. 18 ("āśāvarī"; scan, PDF p. 703); GPT2 — section 6.2, no. 18 (catalogue: NG-216). BR 12 (ed. 1912, p. 980; ed. 1960, vv. 3802–3807,
-"punaḥ — āśāvarī"; right after no. 17). Readings: 11.1 BR "jagat karaye dhanī"; 11.3 BR "suvalita" ("shapely"); 11.6 BR "narahari paṛu phām̐de" ("Narahari is
+[^25-21]: GPT1 — p. 444, no. 18 ("āśābarī"; scan, PDF p. 703); GPT2 — section 6.2, no. 18 (catalogue: NG-216). BR 12 (ed. 1912, p. 980; ed. 1960, vv. 3802–3807,
+"punaḥ — āśābarī"; right after no. 17). Readings: 11.1 BR "jagat karaye dhanī"; 11.3 BR "subalita" ("shapely"); 11.6 BR "narahari paṛu phām̐de" ("Narahari is
 caught in the snare" [of prema]). Not in the PK, KGC, PS, GCC, Gita-chandrodaya. B.
 [^25-22]: The pada is built of short refrain lines and long lines (a couplet is one unit). "Maddened" — the madness of prema, not worldly derangement. "Lost
 in bewilderment" (paṛu dhām̐de) is a humble ending: the poet cannot fathom this play (in the BR, "caught in the snare", i.e. captivated by it).
 
-## 12. Narahari — "advaita guṇamaṇi avanī karu dhanī…" (GPT1 p. 445, no. 20; BR)
+## 12. Narahari — "advaita guṇamaṇi abanī karu dhanī…" (GPT1 p. 445, no. 20; BR)
 *Advaita with His dear companions dances in the kirtana of Gora's glories: a radiance stealing Madana's pride, a body more tender than the shirisha,
 tilaka, a garland of malati, the sacred thread; He whirls with raised arms, loudly cries "Gaurahari!" — and the fallen poet, seeing His merciful glance,
 weeps. Raga tori (todi). **Attribution: probably Chakravarti** — the pada is in the BR.*[^25-23]
@@ -17846,7 +17842,7 @@ he is the most unfortunate in the world.[^25-26]
 ed. 1960, vv. 3853–3858, "gīte — yathā dhānaśī"): Nityananda, after staying with Advaita, comes to Navadvipa to Shachi, and then "from Shantipura came
 Advaita Gosani and is always in bliss with Nityananda" (v. 3852); after the pada — "Nityananda and Advaita play in the joy of sankirtana together with
 Srivasa, Murari and others" (v. 3859). Gita-chandrodaya — the section on Advaita, pada 7 (the last; "suhai"; some lines have dropped out in the OCR).
-Readings: 13.3 BR "janera vandhu"; GCd 13.2 "yāra huṅkāre". Not in the PK, KGC, PS, GCC. B.
+Readings: 13.3 BR "janera bandhu"; GCd 13.2 "yāra huṅkāre". Not in the PK, KGC, PS, GCC. B.
 [^25-26]: "Enchanting snare" (mohana phām̐da): Advaita captivates hearts with prema. "A second Creator": Advaita as Maha-Vishnu is the original cause of
 creation (CC Adi 6), as Brahma is its executor. "The Father of Achyuta" is Advaita, the Father of Achyutananda (cf. note 6); but "Achyuta" is also a name of
 Krishna: service to Advaita leads into the rasa of the Vraja lila. "Narahari's Lord" is the Lord whom the poet serves (cf. note 20).
@@ -17873,7 +17869,7 @@ ed. 1960, vv. 1763–1766, "punaḥ — bhūpālī"): Ishana, showing Srinivasa 
 Advaita, and from there turns to Advaita's family: His father is Kuvera Pandita (a quotation from the Gaura-ganoddesha-dipika on Kubera, v. 1755), His mother
 Nabha; in their old age Advaitachandra was born to them at Navagram (vv. 1751–1758); then comes Ghanashyama's pada on the advent (GPT no. 23, vv. 1759–1762)
 and this one; after it — "at Advaita's birth all loudly sang the names of Krishna and Govinda", His childhood, the move to Shantipura, His marriage (v. 1767
-ff.). Readings: 14.1 BR "prakaṭi'" ("appearing"); 14.2 BR "viloki" ("seeing"); 14.4 BR "janama-vilāsa". The Navadvipa-parikrama is the same as the BR. Not in
+ff.). Readings: 14.1 BR "prakaṭi'" ("appearing"); 14.2 BR "biloki" ("seeing"); 14.4 BR "janama-bilāsa". The Navadvipa-parikrama is the same as the BR. Not in
 the PK, KGC, PS, GCC, Gita-chandrodaya. B.
 [^25-28]: Advaita's advent took place at Navagram (Shrihatta), in the house of Kuvera Pandita and Nabha (cf. notes 10, 14); according to the
 Gaura-ganoddesha-dipika (81–85) Kubera received from Sadashiva the boon: "in another birth I shall become your son". The Lord's appearance is not subject
@@ -17900,7 +17896,7 @@ GPT1 (by the scan), collated with GPT2, the BR (eds. 1912, 1960 and 2006) and th
 Narottama-vilasa were checked. Pronouns referring to Gaura, Nityananda and Advaita are capitalized, those referring to the companions and
 followers are not. The notes of the GPT editors are not reproduced. At the end — a concluding note to the whole appendix.*
 
-## 1. Narahari — "dhanya dhanya vali mena…" (GPT1 pp. 452–453, section 6.3, no. 2)
+## 1. Narahari — "dhanya dhanya bali mena…" (GPT1 pp. 452–453, section 6.3, no. 2)
 *The birth of Gadadhara Pandita: on the new-moon day of the month of Vaishakha, in the house of Madhava Mishra in Nadia, Gadadhara, Gauranga's
 beloved, was born; Madhava and Ratnavati are beside themselves with joy, the people of Nadia praise their fortune, the brahmanas' wives bless
 the infant, placing rice and durva grass on his head; the poet asks to sing Gadai's qualities birth after birth. Raga pahida. **Attribution: not
@@ -17925,10 +17921,10 @@ and, gazing on the golden son, place rice and durva grass on his head and joyful
 Narahari says: "O that birth after birth I might sing Gadaichand's qualities just so!"[^26-2]
 
 [^26-1]: GPT1 — pp. 452–453, section 6.3 "Companions" (parikara), no. 2 ("pahida"; scan, PDF pp. 711–712); GPT2 — section 6.3, no. 2 (NG-217). Not found in
-the BR, GCC, Gita-chandrodaya, PK, KGC or PS. The reading in 1.1 "vali mena" (so in GPT1 and GPT2) is unclear; understood as "[all] say". C.
+the BR, GCC, Gita-chandrodaya, PK, KGC or PS. The reading in 1.1 "bali mena" (so in GPT1 and GPT2) is unclear; understood as "[all] say". C.
 [^26-2]: Gadadhara Pandita — son of Madhava Mishra and Ratnavati of Navadvipa, inseparable companion of Mahaprabhu; according to the
 Gaura-ganoddesha-dipika (147–153) he is Sri Radha Herself, "the Lakshmi of Gaura's love". "The new moon of Vaishakha" (kuhu — the new moon) is
-the day of his appearance, as also in the Prema-vilasa (vilasa 22). The appearance of the Lord's eternal companion is not a birth under karma:
+the day of his appearance, as also in the Prema-vilasa (bilasa 22). The appearance of the Lord's eternal companion is not a birth under karma:
 he descends together with the Lord. Rice and durva grass on the head — a Bengali rite of blessing a newborn. Gadai, Gadaichand — affectionate
 names of Gadadhara.
 
@@ -17959,7 +17955,7 @@ Gadadhara Pandita is Sri Radha; in Gaura-lila he hides this bhava, but in ecstas
 "Away with gold" — neither the gold of his skin nor anything else compares with his prema. The subject in 2.2 (who "drinks") is not named:
 Gadadhara drinks Gaura's beauty with his eyes (so in the context of the GCC), or the onlookers drink the nectar of his smile.
 
-## 3. Narahari — "ājuka sukha kachu varaṇe na jāta…" (GPT1 p. 454, no. 7; GCC)
+## 3. Narahari — "ājuka sukha kachu baraṇe na jāta…" (GPT1 p. 454, no. 7; GCC)
 *Srivasa among the companions: seeing the Lord's play, he smiles softly; from love his body sways, his hairs stand on end as if he wore a
 jacket of kadamba flowers; he trembles like a creeper in the wind, repeats "Friend of the lowly!", sings, dances, weeps. Raga not specified
 ("yatharaga"). **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^26-5]
@@ -17977,10 +17973,10 @@ ceaselessly he repeats: "Friend of the lowly!" — his heart melts, and steadine
 Narahari says: one cannot fathom how many stirrings of bhava arise in his heart.[^26-6]
 
 [^26-5]: GPT1 — p. 454, no. 7 ("yatharaga"; scan, PDF p. 713); GPT2 — section 6.3, no. 7. **The catalogue did not know it** (new row NG-323). GCC — kirana 4,
-pada 19 ("yatharaga"). Variants: 3.3 "dīnavandhu" by the GCC and the GPT1 scan (GPT1 OCR — "vīṇa vandhu"). Not in the BR, PK, KGC, PS or
+pada 19 ("yatharaga"). Variants: 3.3 "dīnabandhu" by the GCC and the GPT1 scan (GPT1 OCR — "bīṇa bandhu"). Not in the BR, PK, KGC, PS or
 Gita-chandrodaya. B.
 [^26-6]: Srivasa Pandita — in his house the Lord held the nightly sankirtana; according to the Gaura-ganoddesha-dipika (90) he is Narada Muni.
-"A jacket of kadamba flowers" — the thrill of the hairs (pulaka), like the knobbly kadamba flower. "Friend of the lowly" (dīnavandhu) — an
+"A jacket of kadamba flowers" — the thrill of the hairs (pulaka), like the knobbly kadamba flower. "Friend of the lowly" (dīnabandhu) — an
 address to the Lord.
 
 ## 4. Narahari — "sundara sughara gadādhara dāsa…" (GPT1 p. 454, no. 8; GCC)
@@ -18001,12 +17997,12 @@ his clear cheeks gleam, on his red lips — a charming smile.
 however he tries to hide them — they cannot be hidden; Narahari, looking at him, laughs, intoxicated with happiness.[^26-8]
 
 [^26-7]: GPT1 — p. 454, no. 8 ("yatharaga"; scan, PDF p. 713); GPT2 — section 6.3, no. 8 (NG-219; the signature in GPT1 is "narahari", distorted in the
-OCR — "navrahari"). GCC — kirana 4, pada 20 ("yatharaga"). Not in the BR, PK, KGC, PS or Gita-chandrodaya. B.
+OCR — "nabrahari"). GCC — kirana 4, pada 20 ("yatharaga"). Not in the BR, PK, KGC, PS or Gita-chandrodaya. B.
 [^26-8]: Gadadhara Dasa — a companion of Gaura and Nityananda (later lived in Ariadaha, cf. chapter 24, no. 22); according to the
 Gaura-ganoddesha-dipika (154–155) — Chandrakanti, a manifestation of Radha's radiance, and in him also Purnananda, the beloved of Balarama.
 "Former bhavas" — his eternal service in Vraja. "Like a moon beside the moon" — both are fair: Gauranga and His companion.
 
-## 5. Narahari — "o mora parāṇa-vandhu śyāmānanda…" (GPT1 p. 469, no. 42; BR)
+## 5. Narahari — "o mora parāṇa-bandhu śyāmānanda…" (GPT1 p. 469, no. 42; BR)
 *Late layer: on the followers. The life of Shyamananda: he left home and came to Ambika to Hridaya Chaitanya, who accepted him as a disciple and
 entrusted him to Nitai and Chaitanya; receiving at his departure the garland of permission, he came alone to Vrindavana, at Radha-kunda received
 the mercy of Raghunatha Dasa, from Jiva Gosvami fatherly love; he studied the books and, at the Gosvamis' command, returned through Gauda and Ambika
@@ -18086,7 +18082,7 @@ GCC, PK, KGC, PS or Gita-chandrodaya. B.
 on he was called Shyamananda, and the tilaka of his line is in the form of a foot (Prema-vilasa, vilasa 12; event "Radha's nupura…"). "Duhkhi"
 ("sorrowful") is his former name; the poet plays on it: Shyamananda grieves at the suffering of fallen souls. Rai — Sri Radha.
 
-## 7. Narahari — "śrī-vīrabhūmete dhāma…" (GPT1 p. 470, no. 44)
+## 7. Narahari — "śrī-bīrabhūmete dhāma…" (GPT1 p. 470, no. 44)
 *Late layer: on the followers. Praise of the poet Jnanadasa: born in the village of Kandra in Birbhum, renounced from childhood, he received
 initiation from Jahnava; in Kandra to this day a three-day festival is held in his honour at the full moon; his names are "Madana-mangala" and
 "Manohara"; he went to the festival at Kheturi with Baba Aul; he is the sun among poets, equal to Chandidasa. Raga kamoda. **Attribution: not
@@ -18113,7 +18109,7 @@ festival at Kheturi (the Prema-vilasa, vilasa 19, names him among those who came
 before Chaitanya, whose songs Mahaprabhu loved to hear (CC Madhya 2). Who "Baba Aul" is cannot be determined from the pada itself. The pada is a
 praise of a poet, not Gaura-lila; included as a pada on the followers (coordinator's decision).
 
-## 8. Narahari — "jaya jaya harirāma ācāryavarya…" (GPT1 pp. 471–472, no. 49; BR, GCC)
+## 8. Narahari — "jaya jaya harirāma ācāryabarya…" (GPT1 pp. 471–472, no. 49; BR, GCC)
 *Late layer: on the followers. Praise of Harirama Acharya, disciple of Ramachandra Kaviraja: his life is wondrous and steals hearts; the fame of his
 victory over the Lord's opponents has spread through the world; he is ever intoxicated with Gaura's prema, greedy for the rasa of sankirtana,
 skilled in serving the Vaishnavas; his exposition of the Bhagavata pours nectar; his life is the Deity Sri Krishna Raya. Raga purabi.
@@ -18135,14 +18131,14 @@ Sri Sri Krishna Raya is his very life. How can Narahari describe his boundless g
 "in song, pauravi"): "Srinivasa Acharya's dearest disciple is Ramachandra Kaviraja; Ramachandra's disciple is Harirama Acharya, whose deeds are
 wondrous; distributing Sri Krishna Chaitanya's prema-bhakti he destroys the stain of souls… poets sing his life" (15.113–116), then the pada; after
 it — the pada on Ramakrishna Acharya (GPT no. 72). GCC — kirana 1 (in a row of vandana-padas to the companions and followers), pada 23 (between the
-padas on Ramachandra Kaviraja — GPT no. 69 — and on Ramakrishna — no. 72). Variants: 8.1 BR "śrīharirāma ācāryavarya" (with "śrī"), "madhura
+padas on Ramachandra Kaviraja — GPT no. 69 — and on Ramakrishna — no. 72). Variants: 8.1 BR "śrīharirāma ācāryabarya" (with "śrī"), "madhura
 murati"; 8.3 BR the same; in the OCR of the GCC the lines are distorted. Not in the PK, KGC, PS or Gita-chandrodaya. B.
 [^26-16]: Harirama Acharya and his brother Ramakrishna — brahmana scholars converted by Ramachandra Kaviraja and Narottama at the river Padmavati
 (Prema-vilasa, vilasa 14): Harirama became Ramachandra's disciple, Ramakrishna Narottama's. "The asuras turned away from the Lord's feet" — the
 opponents of bhakti, defeated in debate. "Steals the firmness" (dhīra-dhṛti-hāraka) — with his prema he robs even the steady of their composure.
 Sri Krishna Raya — the Deity he served.
 
-## 9. Narahari — "jaya jaya śrīnivāsa ācārya…" (GPT1 pp. 473–474, no. 55; BR)
+## 9. Narahari — "jaya jaya śrīnibāsa ācārya…" (GPT1 pp. 473–474, no. 55; BR)
 *Late layer: on the followers. Praise of Srinivasa Acharya: the life of the people of the world, refuge of the fallen, his body like a champaka
 flower, beloved companion of Gaurachandra; Narottama is his life; he tastes the nectar of the pastimes of the Divine Couple; Ramachandra Kaviraja
 is the servant of his feet; he planted on earth a new wish-fulfilling tree of bhakti. Raga belabali. **Attribution: probably Chakravarti** — the
@@ -18164,14 +18160,14 @@ What can I say? — this new wish-fulfilling tree of bhakti he planted on earth 
 (ed. 1912, pp. ≈1037–1038; ed. 1960, 14.78–81, "again — belabali"): Srinivasa with his disciples comes to the village of Budhari, Narottama comes
 there from Kheturi; "all, seeing the Acharya's beauty, lose their composure — who does not sing of his form and virtues?" (14.73), then
 Ghanashyama's pada (GPT no. 54), this pada and the pada on Narottama (GPT no. 61); afterwards — the festival at Boraquli. Variants: 9.1 BR "jaya
-śrīnivāsa ācārya jagata-jana-jīvana" (one "jaya"); 9.2 BR "campaka śoṇa kusumasama deha"; 9.4 BR "ki kahaba — ki e nava bhakatikalpataru" — same
+śrīnibāsa ācārya jagata-jana-jībana" (one "jaya"); 9.2 BR "campaka śoṇa kusumasama deha"; 9.4 BR "ki kahaba — ki e naba bhakatikalpataru" — same
 sense. Not in the GCC, PK, KGC, PS or Gita-chandrodaya. B.
 [^26-18]: Srinivasa Acharya — a disciple of Gopala Bhatta Gosvami who, together with Narottama and Shyamananda, brought the Gosvamis' books from
 Vrindavana to Gauda; the tradition sees in him a manifestation of Sri Chaitanya's prema (so also in the next pada, 10.1). "The pastimes of the
 Divine Couple" (yugala keli) — the lila of Radha and Krishna. "For Narahari's sake" — that is, for the poet and fallen souls like him: a humble
 ending. Here Narottama is called Srinivasa's "master and life" — an image of their inseparable friendship ("one life in two bodies", 12.4).
 
-## 10. Narahari — "o mora jīvana prāṇa…" (GPT1 pp. 474–475, no. 58; BR)
+## 10. Narahari — "o mora jībana prāṇa…" (GPT1 pp. 474–475, no. 58; BR)
 *Late layer: on the followers. The life of Srinivasa Acharya: learned from his youth and devoted to Chaitanya's feet; Sri Chaitanya with Nitai in
 a dream bids him go to Vrindavana — through him the books of Rupa and Sanatana will be distributed; in Mathura he learns of the passing of Rupa
 and Sanatana and faints; they appear to him in a dream and bid him surrender to Gopala Bhatta; Jiva receives him, Gopala Bhatta initiates him; he
@@ -18223,13 +18219,13 @@ Lowly Narahari says: "He saves [the fallen] by his own goodness — there is no 
 [^26-19]: GPT1 — pp. 474–475, no. 58 ("kamoda"; scan, PDF pp. 731–732); GPT2 — section 6.3, no. 58. **The catalogue did not know it** (new row NG-327). BR 14
 (ed. 1912, pp. ≈1048–1049; ed. 1960, 14.195–208, "the song of the life of Sri Srinivasa Acharya — in song, kamoda"): after the festival at Boraquli,
 Srinivasa with his disciples at Yajigrama spends his days in discussing the shastras and in sankirtana; "who does not sing of the Acharya's life?"
-(14.194), then this pada and Govindadasa's pada (GPT no. 57). Variants: 10.4 in the OCR of BR-1960 the stanza is longer ("parama karuṇāvān",
-"śrīnivāse kole laiyā" — probably an OCR fault: these words come from 10.1 and 10.8); 10.12 BR "śrīvāsa ānandamane … kichu dine haila milana"; the
+(14.194), then this pada and Govindadasa's pada (GPT no. 57). Variants: 10.4 in the OCR of BR-1960 the stanza is longer ("parama karuṇābān",
+"śrīnibāse kole laiyā" — probably an OCR fault: these words come from 10.1 and 10.8); 10.12 BR "śrībāsa ānandamane … kichu dine haila milana"; the
 rest orthographic. Not in the GCC, PK, KGC, PS or Gita-chandrodaya. B.
 [^26-20]: The pada retells the beginning of Srinivasa's life just as the prose account of the BR and the Prema-vilasa do (the appearance of Rupa and
 Sanatana in a dream — vilasa 6): the dream in which Mahaprabhu entrusts Srinivasa to Nityananda and sends him to Vrindavana; the news of Rupa's and
 Sanatana's passing in Mathura; their appearance in a dream; initiation from Gopala Bhatta; study under Jiva; the meeting with Narottama; the garland
-from the Deity Govinda as the command to take the books to Gauda. "Srinivasa" in 10.12 is called "śrīvāsa" — a shortening of the name for the metre
+from the Deity Govinda as the command to take the books to Gauda. "Srinivasa" in 10.12 is called "śrībāsa" — a shortening of the name for the metre
 (not Srivasa Pandita). A dream in which the Lord and His associates appear is not a play of imagination but their mercy (svapna-darshana).
 
 ## 11. Narahari — "jaya jaya śrīnarottama parama udāra…" (GPT1 p. 476, no. 61; BR)
@@ -18252,7 +18248,7 @@ his tender feet, both most cool, shine in Narahari's heart.[^26-22]
 [^26-21]: GPT1 — p. 476, no. 61 ("belabali"; scan, PDF p. 733); GPT2 — section 6.3, no. 61. **The catalogue did not know it** (new row NG-328). BR 14 (ed. 1912,
 p. ≈1038; ed. 1960, 14.83–86, "in song, belabali"): at Budhari "the beauty of Sri Narottama intoxicates all; who does not sing of his form and
 virtues?" (14.82), then this pada; after it — "the circle of Vaishnavas is beautiful, the radiance of all is like the sun" and the departure for
-Boraquli (14.87–89). Variants: 11.4 BR "pīna pravara uru gaṛhala sāra" (GPT "suṭhāra"); the rest orthographic. Not in the GCC, PK, KGC, PS or
+Boraquli (14.87–89). Variants: 11.4 BR "pīna prabara uru gaṛhala sāra" (GPT "suṭhāra"); the rest orthographic. Not in the GCC, PK, KGC, PS or
 Gita-chandrodaya. B.
 [^26-22]: Narottama Dasa Thakura (Thakura Mahashaya) — son of Raja Krishnananda Datta of Kheturi, a disciple of Lokanatha Gosvami, author of the
 Prema-bhakti-candrika and the Prarthana, a great kirtaniya. The description of the form "from head to foot" (nakha-shikha) is a usual genre of songs
@@ -18304,7 +18300,7 @@ and, again and again raising both arms, crying 'Master Narottama!', roll weeping
 [^26-23]: GPT1 — pp. 476–477, no. 62 ("kamoda"; scan, PDF pp. 733–734); GPT2 — section 6.3, no. 62. **The catalogue did not know it** (new row NG-329). BR 14
 (ed. 1912, pp. ≈1050–1051; ed. 1960, 14.215–226, "the song of the life of Sri Thakura Mahashaya — in song, kamoda"): after the songs on Srinivasa's life
 — "Thakura Mahashaya, dear to the Acharya — who does not sing of his life full of prema?" (14.214); after the pada — Ghanashyama's pada (GPT no. 63) and
-the end of the wave. Variants: 12.2 BR "ati lālasita haiyā"; 12.10 BR "vaiṣṇavasevane yā'ra dhvani"; the rest orthographic. Not in the GCC, PK, KGC,
+the end of the wave. Variants: 12.2 BR "ati lālasita haiyā"; 12.10 BR "baiṣṇabasebane yā'ra dhvani"; the rest orthographic. Not in the GCC, PK, KGC,
 PS or Gita-chandrodaya. B.
 [^26-24]: The pada retells Narottama's life as the Prema-vilasa and the BR do: leaving home for Vrindavana, secret service to Lokanatha and initiation,
 friendship with Srinivasa, the return, the pilgrimage to Navadvipa and Puri, the six Deities of Kheturi (Gauranga, Vallavikanta, Vraja-Mohana,
@@ -18312,7 +18308,7 @@ Radha-Kanta, Radha-Ramana and Sri Krishna — in the poet "Radha-Krishna"), the 
 in the kirtana (Prema-vilasa, vilasa 19). Sri Radha-Vinoda (12.5) — Lokanatha Gosvami's Deity in Vrindavana. The Lord's appearance in Narottama's
 kirtana is not an imagined vision: the Lord eternally abides in the sankirtana of His pure devotees.
 
-## 13. Narahari — "rāmacandra kavirāja…" (GPT1 p. 479, no. 68)
+## 13. Narahari — "rāmacandra kabirāja…" (GPT1 p. 479, no. 68)
 *Late layer: on the followers. Govinda Kaviraja: younger brother of Ramachandra Kaviraja, son of Chiranjiva Sena, disciple of Srinivasa, a poet;
 the brothers were born in Teliya-Budhari in a family of great Shaktas but, leaving the faith of their fathers, became Vaishnavas: during Govinda's
 grave illness Katyayani bade him from the sky to worship Govinda's feet; his maternal grandfather was the poet Damodara of Shrikhanda; from him
@@ -18335,7 +18331,7 @@ again and again even the preceptor of the gods is compared with him, and people 
 Lowly Narahari says: therefore the assembly of pandits, crying "Blessed, blessed!", sings his virtues.[^26-26]
 
 [^26-25]: GPT1 — p. 479, no. 68 ("mangala"; scan, PDF p. 736); GPT2 — section 6.3, no. 68 (NG-223: the catalogue, from the OCR of GPT2, gave as the first
-line a fragment "…ṭavaṣjara hā phoche bhāi" — line 13.2; the first line is "rāmacandra kavirāja vikhyāta dharaṇī mājha"). Not found in the BR, GCC,
+line a fragment "…ṭabaṣjara hā phoche bhāi" — line 13.2; the first line is "rāmacandra kabirāja bikhyāta dharaṇī mājha"). Not found in the BR, GCC,
 Gita-chandrodaya, Narottama-vilasa, PK, KGC or PS. In GPT1 an editor's note with quotations from other books stands under the pada (not reproduced). C.
 [^26-26]: Govinda Kaviraja (Govindadasa) — one of the greatest pada-poets, younger brother of Ramachandra Kaviraja; both were disciples of Srinivasa
 Acharya (Prema-vilasa, vilasa 14: the Goddess bids Govinda remember Govinda). **Fidelity to the author:** the pada calls the brothers' family "a family
@@ -18346,7 +18342,7 @@ of the Lord who directs to Him (cf. Brahma-samhita 5.44: Durga is the energy car
 to Govinda's feet, which she herself enjoins. "The preceptor of the gods" (suraguru) — Brihaspati: Damodara is compared with him in learning and
 poetry.
 
-## 14. Narahari — "jaya jaya rāmacandra kavirāja…" (GPT1 pp. 479–480, no. 69; GCC)
+## 14. Narahari — "jaya jaya rāmacandra kabirāja…" (GPT1 pp. 479–480, no. 69; GCC)
 *Late layer: on the followers. Praise of Ramachandra Kaviraja and of Srinivasa Acharya's circle: Ramachandra is always absorbed in the Name,
 immersed in serving Srinivasa's feet, inseparable from Narottama; then the poet praises other disciples and associates of the Acharya — Govinda
 Kaviraja, Karnapura, Nrisimha, Bhagavan, Gokula, Vallavikanta, Gopiramana, Shyamadasa Chakravarti, Ramacharana, Vyasa, Govinda, Shridasa, Gokula
@@ -18398,16 +18394,16 @@ Narahari, broken-hearted, cries aloud: "Keep me near your feet as a servant!"[^2
 [^26-27]: GPT1 — pp. 479–480, no. 69 ("pathamanjari"; scan, PDF pp. 736–737); GPT2 — section 6.3, no. 69. **The catalogue did not know it** (new row NG-330). GCC —
 kirana 1, pada 22 ("raga pathamanjari"): in the row of vandana-padas with which the poet at the beginning of the book praises Gaura's companions and the
 followers (padas 13–26; before it — Ghanashyama's pada on Srinivasa and others, after it — padas on Harirama, Ramakrishna and Ganganarayana = GPT nos.
-49, 72, 71). The variants in the OCR of the GCC are insignificant ("anubhava nahu marma", "śrīgovinda kavīndra kṛpānidhi mahāmana gauracaritra" —
+49, 72, 71). The variants in the OCR of the GCC are insignificant ("anubhaba nahu marma", "śrīgobinda kabīndra kṛpānidhi mahāmana gauracaritra" —
 without "dhīra"). Not in the BR (as a separate pada), PK, KGC, PS or Gita-chandrodaya. B.
 [^26-28]: All those named are disciples and associates of Srinivasa Acharya: Govinda Kaviraja — Ramachandra's brother (no. 13); Karnapura, Nrisimha,
 Bhagavan — also "kavirajas" of his circle; Govinda (14.11) — probably Govinda Chakravarti of Boraquli, "Bhavuka Chakravarti" (cf. no. 9 and the event
 of the festival at Boraquli); Vira Hambira — the king of Vana-Vishnupura converted by Srinivasa after the theft of the Gosvamis' books. Some
 identifications are uncertain: the pada gives only names. "Rupa Ghataka" is a pun: ghaṭaka is a surname (the caste of matchmakers) and "arranger of
-meetings", i.e. one who in his mind serves the meetings of Radha and Krishna. "The depth of his realization cannot be fathomed" (14.3, anubhava naha
+meetings", i.e. one who in his mind serves the meetings of Radha and Krishna. "The depth of his realization cannot be fathomed" (14.3, anubhaba naha
 marma) — possibly also "he grasps not the letter only but the essence" (the reading is ambiguous).
 
-## 15. Narahari — "jaya jaya śrīgaṅgānārāyaṇa cakravartī…" (GPT1 p. 481, no. 71; BR, GCC)
+## 15. Narahari — "jaya jaya śrīgaṅgānārāyaṇa cakrabartī…" (GPT1 p. 481, no. 71; BR, GCC)
 *Late layer: on the followers. Praise of Ganganarayana Chakravarti, a disciple of Narottama: steady and deep, beautiful in form, greedy for
 sankirtana, skilled in dance, immersed in prema; he worships Narottama's feet, drinks the nectar of the Chaitanya-charitamrita; his life is the Deity
 Sri Govinda; the poet cannot describe his wondrous ways. Raga belabali or gauri. **Attribution: probably Chakravarti** — the pada is in the BR
@@ -18429,7 +18425,7 @@ I have no power to describe his wondrous ways, known to all — he is the joy of
 p. ≈1062; ed. 1960, 15.131–134, "in song, gauri"): "Narottama's branch: Sri Thakura Narottama, the purifier of the fallen; his disciple — Chakravarti
 Ganganarayana; very learned, refuting the doctrines of the godless, he manifests bhakti… poets sing his life" (15.128–130); after the pada — the end of
 the 15th wave. GCC — kirana 1, pada 25 ("raga dhanashi"). Variants: 15.3 BR "śrīcaitanyacandracaritāmṛtapāne magana mana, satata udāra"; 15.4 BR
-"varaṇi nā śakati kīriti ati adabhuta, vidita dāsa narahari-sukhakārī" ("his fame" instead of "his ways"). Not in the PK, KGC, PS or Gita-chandrodaya. B.
+"baraṇi nā śakati kīriti ati adabhuta, bidita dāsa narahari-sukhakārī" ("his fame" instead of "his ways"). Not in the PK, KGC, PS or Gita-chandrodaya. B.
 [^26-30]: Ganganarayana Chakravarti — a kulina brahmana who became a disciple of Narottama (Prema-vilasa, vilasa 17); together with Ramakrishna Acharya
 he, according to the BR, refuted the doctrines of the opponents of bhakti. "The nectar of the deeds of Sri Chaitanyachandra" (caitanyacandra-caritāmṛta)
 is here probably also the Chaitanya-charitamrita of Krishnadasa Kaviraja itself, which Narottama's circle spread. Sri Govinda — the Deity whom
@@ -18455,12 +18451,12 @@ who will understand his way? Narahari sings his beautiful fame and counts himsel
 [^26-31]: GPT1 — p. 481, no. 72 ("gauri"; scan, PDF p. 738); GPT2 — section 6.3, no. 72 (NG-225; signature "narahari mānata dhanya" — Narahari; the next pada,
 no. 73, is by Manohara Dasa). BR 15 (ed. 1912, pp. ≈1061–1062; ed. 1960, 15.124–127, "in song, gauri"): "Sri Narottama's disciple — Ramakrishna Acharya,
 a great pandita… a refuter of godless doctrines, known everywhere" (15.121–123; lost in the OCR of the 1960 ed., the text — from the 1912 ed.), then the
-pada, then — on Ganganarayana (GPT no. 71). GCC — kirana 1, pada 24 ("raga kamoda"). Variants: 16.2 BR "paṇḍitavara durmukha-madahārī" ("best of
-panditas"; GPT "vaṛa durmmukha-madahārī"); the rest orthographic. Not in the PK, KGC, PS or Gita-chandrodaya. B.
+pada, then — on Ganganarayana (GPT no. 71). GCC — kirana 1, pada 24 ("raga kamoda"). Variants: 16.2 BR "paṇḍitabara durmukha-madahārī" ("best of
+panditas"; GPT "baṛa durmmukha-madahārī"); the rest orthographic. Not in the PK, KGC, PS or Gita-chandrodaya. B.
 [^26-32]: Ramakrishna Acharya — Harirama's brother (no. 8), a brahmana pandita who became a disciple of Narottama (Prema-vilasa, vilasa 14). Shri
 Manmohana Raya — the Deity he served. "The evil-tongued" (durmukha) — the revilers of bhakti, defeated by him in debate.
 
-## 17. Narahari — "ki kahava parikara parama udāra…" (GPT1 p. 483, no. 77; GCC)
+## 17. Narahari — "ki kahaba parikara parama udāra…" (GPT1 p. 483, no. 77; GCC)
 *The companions around Gaura in the morning: they ceaselessly drink the nectar of His face, lose their composure, are adorned with bhavas — thrill,
 trembling, tears, a choked voice; one whirls, one repeats the Name, one laughs and dances; the poet longs to see this. Raga not specified
 ("yatharaga"). **Attribution: probably Chakravarti** — the pada is in the GCC; Vrajabuli.*[^26-33]
@@ -18483,7 +18479,7 @@ their hearts in great joy, and they form various wishes" (pada 22) — and the c
 17.1 GCC "piyata"; 17.3 "kām̐pāota janama" (so in GPT1; understood as "the whole being"; the word is distorted in the OCR of the GCC). Not in the BR, PK,
 KGC, PS or Gita-chandrodaya. B.
 [^26-34]: The sattvika-bhavas are listed — ecstatic manifestations of prema: thrill (pulaka), choked voice (svara-bhanga), trembling (kampa), tears (ashru).
-"Find his life fulfilled" (saphala hoyava) — the poet considers life fulfilled if he beholds this lila (in contemplation).
+"Find his life fulfilled" (saphala hoyaba) — the poet considers life fulfilled if he beholds this lila (in contemplation).
 
 ## 18. Narahari — "ei abhilāṣa mane…" (GPT1 pp. 484–485, no. 83; BR)
 *The poet's prayer about Gaura's companions: intoxicated with His virtues, to wander day and night, to sing of Nitai with a thousand mouths, to honour
@@ -18546,7 +18542,7 @@ called "Hari" is unclear), Shuklambara Brahmachari (18.10); Shashthivara, Harida
 (18.11); Kavichandra, Pundarika Vidyanidhi, Madhu Pandita (18.12). "Not counting the non-devotees even as a straw" (abhakte kariyā tṛṇajñāna) — not to fear
 the opponents of bhakti, not to despise living beings; "a dancing dog" — an image of utmost humility: a devoted servant dancing at his master's word.
 
-## 19. Narahari — "gorācām̐da chāṛi yāve naidā…" (GPT1 pp. 367–368, section 5.3, no. 7; BR)
+## 19. Narahari — "gorācām̐da chāṛi yābe naidā…" (GPT1 pp. 367–368, section 5.3, no. 7; BR)
 *Before the sannyasa: Gorachand will leave Nadia — and the Jahnavi grew still, the murtis of Shambhu, Bhagavati and Ganapati faded, the trees do not
 blossom, the bees do not hum, the cuckoos have fallen silent, the peacocks do not dance, the birds weep, the cows and deer find no rest: the land of Nadia
 cannot contain its grief. Raga ashabari or deshpal. **Attribution: probably Chakravarti** — the pada is in the BR (12th wave); found in the
@@ -18568,7 +18564,7 @@ Narahari says: beauty has gone, and the land of Nadia cannot contain its grief.[
 it** (new row NG-333): the continuous check of signatures in sections 3.x, 4.x and 5.3–7 found it to be the only unrecorded Narahari pada outside the
 nagari section. BR 12 (ed. 1912, p. 958; ed. 1960, vv. 3526–3529, "in song, deshpal"): the Lord consoles Shachi (a quotation from the Chaitanya-bhagavata,
 Madhya-khanda: "twice more, at the beginning of sankirtana, I shall become your son", vv. 3519–3520) and Vishnupriya; all are absorbed in sankirtana; "the
-Lord will take sannyasa — and all that was beautiful in Nadia faded" (v. 3525), then the pada. Variants: 19.1 BR "taraṅga rahita jāhnavī-dhārā"; 19.4 BR
+Lord will take sannyasa — and all that was beautiful in Nadia faded" (v. 3525), then the pada. Variants: 19.1 BR "taraṅga rahita jāhnabī-dhārā"; 19.4 BR
 "bhaṇe narahari, śobhā dūre, dukha sambarite nāre nadīyā-khiti" — the same. The Navadvipa-parikrama is the same as the BR. Not in the GCC, PK, KGC, PS or
 Gita-chandrodaya. B.
 [^26-38]: The nature of Nadia shares the separation from the Lord, as Vrindavana shares the separation from Krishna. The murtis of Shiva (Shambhu), Durga
@@ -18649,8 +18645,7 @@ full caveat. (4) Pronouns referring to Gaura are capitalized; the nagaris' words
 includes them in his list of Vasu's padas), in the order of the lila: Gaura's form through the eyes of the townswomen, first
 love and longing, a night of vain waiting, dreams and tales told to friends, the lament after the sannyasa. The text
 follows PK, checked against the scans, with the manuscript variants from PK's apparatus and the *Gaura-pada-tarangini*
-(GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934); the Bengali original, variants and word-for-word translation are in
-bn/27.md.*
+(GPT1 — 1st ed., 1903; GPT2 — 2nd ed., 1934); the Bengali original, variants and word-for-word translation are in the full version of the book.*
 
 ## 1. Vasu Ghosha — "sajanī ai dekha śacīra nandana…" (PK 2151)
 *Nagari-bhava. Gaura's form: "Friend, look — there is Shachi's son!" Birds, beasts and trees weep hearing of His virtues,
@@ -18670,18 +18665,18 @@ by His beauty and virtues noble wives cannot hold their hearts steady.[^27-2]
 says Vasudeva — so Gora has carried [all across the ocean of births].[^27-3]
 
 [^27-1]: Signature: "Vasudeva." PK: vol. 3, PDF p. 249 (printed p. 238), 4th shakha, 18th pallava, section "atha
-śrīgauracandrasya rūpa-varṇanaṃ" (description of Gaura's form), no. 43 (mark "॥৪৩॥২১৫১॥"); raga varadi; MS P-R-Sa no. 2258. GPT1 —
+śrīgauracandrasya rūpa-barṇanaṃ" (description of Gaura's form), no. 43 (mark "॥৪৩॥২১৫১॥"); raga varadi; MS P-R-Sa no. 2258. GPT1 —
 p. 117, no. 20 (raga varadi); GPT2 — sec. 3.1, no. 20 (catalogue: VG-183). Majumdar counts PK 2149–2155 among Vasu's nagari
 padas. Here the nagari motif is only "noble wives" (1.3); the rest is praise of Gaura, the giver of the name. On nagari-bhava
 see the introductory note to the section.
-[^27-2]: "Noble wives" (kulavatī) are married women of worthy families who guard the honour of the family; "cannot hold their
-hearts steady" (vuka nāhi vāndhe, lit. "cannot bind the breast") — lose their peace. A common formula for describing
+[^27-2]: "Noble wives" (kulabatī) are married women of worthy families who guard the honour of the family; "cannot hold their
+hearts steady" (buka nāhi bāndhe, lit. "cannot bind the breast") — lose their peace. A common formula for describing
 beauty, as in the padas on Krishna; cf. chapter 23, note 7.
 [^27-3]: Hari's name, unattainable even for Brahma, Gaura gives to all without distinction — the main theme of the padas on
 Him as the yuga-avatara (cf. chapter 9, no. 1). MS "gha" in 1.2: "i" for "e" ("these [three worlds]"), "rūpera" for
 "rūpe" (same sense).
 
-## 2. Vasu Ghosha — "sakhi he oi dekha gorā-kalevare…" (PK 2152)
+## 2. Vasu Ghosha — "sakhi he oi dekha gorā-kalebare…" (PK 2152)
 *Nagari-bhava. Gora's form from head to foot: a face more beautiful than many moons, arms like an elephant's trunk, a
 glance quicker than a wagtail, a sandal tilaka, garlands to the knees, a neck like a conch, a broad chest with necklaces,
 reddish feet, jewel-like nails; "the Creator fashioned this form to be the ruin of young women." Raga kamoda.*[^27-4]
@@ -18713,7 +18708,7 @@ is a formula of the poetics of beauty (as in the padas on Krishna, "the enchante
 description of the Lord's deeds; cf. chapter 23, note 7. MSS "ka," "kha": "shines" (śobhe) for "adorns" (sāje, 2.3; so also
 GPT1); "kha": "body" (aṅga, 2.4).
 
-## 3. Vasu Ghosha — "dekha dekha sakhi gorā vara dvijamaṇiyā…" (PK 2153)
+## 3. Vasu Ghosha — "dekha dekha sakhi gorā bara dvijamaṇiyā…" (PK 2153)
 *Nagari-bhava. "Look, friend — Gora, the jewel of brahmanas!" With great patience the Creator made this peerless form: arms
 to the knees, a hue brighter than gold — is it ketaki, a golden lotus, champaka or a gem? His speech pours nectar; millions
 of moons offer themselves for His face; who, having seen Him, could walk away? Raga kanada.*[^27-7]
@@ -18749,7 +18744,7 @@ comparisons for Gaura's golden body.
 and then given away (glossary): the moons are but a ransom for His face; "the moons of His nails" are His toenails, shining
 like moons.
 
-## 4. Vasu Ghosha — "o nā ke vala go sajani…" (PK 2154)
+## 4. Vasu Ghosha — "o nā ke bala go sajani…" (PK 2154)
 *Nagari-bhava. "Tell me, friend, who is this?" — a face lovelier than moons, a hue of gold and gem; the moon and the red
 lotus hide in shame before His nails, palms and feet; at the beauty of His brows Madana throws away his bow; a sidelong
 glance mixed with a smile strikes everyone; "beware — He has lit up the whole world." Raga (illegible in PK; in GPT1
@@ -18778,8 +18773,8 @@ He has lit up the whole world!
 no. 2261; the name of the raga is damaged in the scan. GPT1 — p. 122, no. 33 (raga varadi); GPT2 — sec. 3.1, no. 33
 (catalogue: VG-010). On nagari-bhava see the introductory note to the section.
 [^27-12]: Nails are compared to the moon, palms and feet to the red lotus (kokanada); here the compared is so beautiful that the
-objects of comparison hide in shame. MSS "ka," "gha," "cha," P-R-Sa: "of the best elephant" (karivara); "kha": "the trunk of
-the best elephant" (karivara-kara); "kha": "roundness" in the form subalani.
+objects of comparison hide in shame. MSS "ka," "gha," "cha," P-R-Sa: "of the best elephant" (karibara); "kha": "the trunk of
+the best elephant" (karibara-kara); "kha": "roundness" in the form subalani.
 [^27-13]: Madana (Kamadeva) throws away his bow because Gaura's brows are a bow lovelier than his own; "strikes" (hānaye)
 continues the same image: the glance is an arrow. Cf. note 6.
 
@@ -18843,7 +18838,7 @@ MS P-R-Sa no. 2319. The neighbouring pada of the same pallava is Vasu's PK 2210 
 [^27-18]: The pada joins nagari motifs (6.1, 6.3) with praise of the Lord before whom stones melt and gods and sages tremble —
 Bhagavan, who saves the fallen.
 
-## 7. Vasu Ghosha — "madanamohana gaurāṅga-vadana…" (PK 2149)
+## 7. Vasu Ghosha — "madanamohana gaurāṅga-badana…" (PK 2149)
 *Nagari-bhava. A townswoman tells her friend: having seen Gauranga's face, which enchants Madana himself, she has lost
 herself; this is the former dark Kanu become golden — otherwise how could He have stolen her heart? The young wives of
 Nadia drown in love, in every house there is weeping; she will cast the rites of her family into the waters of the
@@ -18877,22 +18872,22 @@ otherwise would He be the stealer of the gopis' hearts?[^27-23]
 [^27-19]: Signature: "Vasudeva Ghosha." PK: vol. 3, PDF p. 249 (printed p. 238), 18th pallava, no. 41 (mark "॥৪১॥২১৪৯॥"); raga tudi;
 MS P-R-Sa no. 2256. GPT1 — p. 160, no. 8 (raga tudi); GPT2 — sec. 3.2, no. 8 (catalogue: VG-013). A witness is the *Bhakti-ratnakara*, 12th wave (1913 ed., p. 910, scan PDF
 p. 918): in the cycle of the words of the women of Nadia that Narahari Chakravarti cites while describing the places of Navadvipa (chapter 29,
-note 1), with Vasudeva Ghosha's signature, raga deshapala, beginning with the words "rūpa heri…"; in 7.2 it reads "rahive" (as MSS "kha," "cha").
+note 1), with Vasudeva Ghosha's signature, raga deshapala, beginning with the words "rūpa heri…"; in 7.2 it reads "rahibe" (as MSS "kha," "cha").
 On nagari-bhava see the introductory note to the section.
 [^27-20]: Gaura is Krishna (Kanu) Himself, who has taken Radha's golden luster (CC Adi 1.5); the townswoman recognizes in Him the
 "stealer of hearts" of Vraja. This affirmation of the identity of Gaura and Krishna is the main theological content of the
 pada (cf. 7.5).
-[^27-21]: The sense of 7.2: before such a Gaura the bonds of family are powerless. MS "ka": "will say" (kahive), "kha," "cha":
-"will remain" (rahive) for "will do" (karive). P-R-Sa: "down face and breast" (mukha buka, 7.3; so also GPT1); "that" (se) for
+[^27-21]: The sense of 7.2: before such a Gaura the bonds of family are powerless. MS "ka": "will say" (kahibe), "kha," "cha":
+"will remain" (rahibe) for "will do" (karibe). P-R-Sa: "down face and breast" (mukha buka, 7.3; so also GPT1); "that" (se) for
 the particle "go" (7.3).
 [^27-22]: "I will cast my family's rites into the waters" — I will abandon the duty and honour of my family: a nagari motif
-(introductory note). The words of love and service (bhajiva) are spoken by a townswoman; the translation does not soften
+(introductory note). The words of love and service (bhajiba) are spoken by a townswoman; the translation does not soften
 them, nor does it add worldly shades.
 [^27-23]: "The stealer of the gopis' hearts" is a name of Krishna; Vasu again bears witness: the golden Gaura is the same
 Krishna. "Rasika-nagara" — the connoisseur and enjoyer of rasa; in Krishna-lila this is Krishna with the gopis. The tradition
 does not accept the application of this name to Gaura (introductory note).
 
-## 8. Vasu Ghosha — "ki kahava aparūpa gaura kiśora…" (PK 2150)
+## 8. Vasu Ghosha — "ki kahaba aparūpa gaura kiśora…" (PK 2150)
 *Nagari-bhava. "What can I say of the wondrous young Gaura?" — with a sign from the corner of His eye He has stolen her
 life; His sidelong glance is a calamity: the ruin of the townswomen has risen in the town; she who sees Him cannot forget,
 the noble wife leaves her home; love for Gora is a pain of the heart. Raga suhini.*[^27-24]
@@ -18940,14 +18935,14 @@ Says Vasu Ghosha: so it seems to me —
 I cannot stay at home.[^27-27]
 
 [^27-25]: Signature: "Vasu Ghosha." PK: vol. 3, PDF pp. 257–258 (printed pp. 246–247), 19th pallava, section "atha śrīgaurāṅgasya
-rūpa-varṇanaṃ nāgarīgaṇādyuktiḥ" (description of Gauranga's form: the words of the nagaris and others), no. 2 (mark "॥২॥২১৬৯॥");
+rūpa-barṇanaṃ nāgarīgaṇādyuktiḥ" (description of Gauranga's form: the words of the nagaris and others), no. 2 (mark "॥২॥২১৬৯॥");
 raga varadi; MSS P-R-Sa no. 2276 and P-R no. 61. GPT1 — p. 160, no. 10 (raga varadi); GPT2 — sec. 3.2, no. 10 (catalogue:
 VG-015). The beginning of 9.2 is illegible in the PK scan — restored from GPT1 ("aṅga ḍhala ḍhala"). On nagari-bhava see the
 introductory note to the section.
 [^27-26]: The Lord bathed in the Ganga daily — the *Chaitanya-bhagavata* too tells of His baths at the ghats of Navadvipa; here
 it is only an occasion to describe His beauty. Kamadeva is "the archer" with flower arrows (cf. note 13).
-[^27-27]: MSS "ka," "kha," "gha," "cha," P-R-Sa and GPT1: "she cannot stay at home" (nārive). In MS P-R 9.3 differs: "a cloud
-flows over it (the cloud of hair)" (vahe jaladhara), "as if" (yena), "pearls on all His limbs" (sakala aṅge mukutāra phala).
+[^27-27]: MSS "ka," "kha," "gha," "cha," P-R-Sa and GPT1: "she cannot stay at home" (nāribe). In MS P-R 9.3 differs: "a cloud
+flows over it (the cloud of hair)" (bahe jaladhara), "as if" (yena), "pearls on all His limbs" (sakala aṅge mukutāra phala).
 
 ## 10. Vasu Ghosha — "eka dina ghāṭe jale giyāchilāma…" (PK 2171)
 *Nagari-bhava. "One day I went to the ghat for water — and what beauty of Gora I saw!" A body like tested gold, the Lord
@@ -19005,9 +19000,9 @@ pathamanjari; MSS P-R-Sa no. 2280 and P-R no. 14/24. GPT1 — p. 161, no. 12 (ra
 final farewell. "I gave body and soul" — the words of a townswoman (a nagari motif; introductory note). MS P-R: "to
 propriety" (śīle) for "to fear for my family" (kula-bhaye).
 [^27-33]: MS P-R: "Gora is my very own" (gorā mora nija) for "Gauranga has become" (11.3); "without Gora I cannot live"
-(jīvana nā rahe gorā vine) for "cannot hold… composure" (11.4).
+(jībana nā rahe gorā bine) for "cannot hold… composure" (11.4).
 
-## 12. Vasu Ghosha — "gorā-rūpa dekhivāre mane kari sādha…" (PK 2173)
+## 12. Vasu Ghosha — "gorā-rūpa dekhibāre mane kari sādha…" (PK 2173)
 *Nagari-bhava. A townswoman longs to see Gora: love for Gaura is a great calamity; she knows neither day nor night, she
 remembers Him ceaselessly; what spell has Gora cast with the arrows of His eyes? Her eyes shed tears without end. The raga
 is the same as for the preceding pada (pathamanjari).*[^27-34]
@@ -19044,7 +19039,7 @@ I gave up all pleasures — food and pastimes.
 Says Vasu: without Gora I cannot live.
 
 [^27-35]: Signature: "Vasu." PK: vol. 3, PDF p. 259 (printed p. 248), 19th pallava, no. 8 (mark "॥৮॥২১৭৫॥"); "the same raga";
-MS P-R-Sa no. 2283. Before it stands PK 2174 by Lochana Dasa ("āra śunecha ālo sai gorā-bhāvera kathā"; chapter 28). GPT1 —
+MS P-R-Sa no. 2283. Before it stands PK 2174 by Lochana Dasa ("āra śunecha ālo sai gorā-bhābera kathā"; chapter 28). GPT1 —
 p. 161, no. 14 (raga shri) — with an extra opening couplet: "āhā mari mari sai āhā mari mari, kikṣaṇe dekhilum̐ gorā
 pāśarite nāri" ("Ah, I am dying, dying, friend! In what moment did I see Gora — I cannot forget"); GPT2 — sec. 3.2, no. 14.
 In the catalogue the pada was listed twice: VG-019 (from GPT) and VG-129 (from PK). On nagari-bhava see the introductory
@@ -19071,7 +19066,7 @@ Says Vasu: I will go and give my youth for Him.[^27-37]
 raga"; MS P-R-Sa no. 2284. GPT1 — p. 161, no. 15 (raga shri); GPT2 — sec. 3.2, no. 15 (catalogue: VG-096). Lines 14.1–14.3 are
 identical with PK 973 and are translated as in chapter 9 (no. 2, notes 6–8). On nagari-bhava see the introductory note to
 the section.
-[^27-37]: "I will give… my youth" (diva giyā yauvana nichani) — the rite of nichani (note 10): the speaker gives for Him the
+[^27-37]: "I will give… my youth" (diba giyā yaubana nichani) — the rite of nichani (note 10): the speaker gives for Him the
 dearest thing she has; in the recension of PK 973 — "I will give my life." The signature is put into the mouth of a
 townswoman (as in other padas of the section).
 
@@ -19112,12 +19107,12 @@ tradition does not accept the application of this language to Gaura (introductor
 Madana" (madanamadārase); the word "friend" is absent; "I found" (pāyalum̐) for "I cannot tell" (pāiye).
 [^27-40]: "I have drowned in the bottomless Ganga" — an image of complete loss of self. MS "ka": "purified" (kaṣita) for
 "tested" (15.1); "ka"–"cha": "I fell into oblivion" (paṛi gelum̐). P-R-Sa: "with reddish eyes" (aruṇa nayāne); "He has aimed a
-cruel arrow" (vaṛai viṣama śara sāndhi) for "rains down flower arrows"; "I will not hold my composure" (dhairaja nā vāndhava)
+cruel arrow" (baṛai biṣama śara sāndhi) for "rains down flower arrows"; "I will not hold my composure" (dhairaja nā bāndhaba)
 for "I have found no support"; "into the bottomless Ganga" (gaṅgā agādhi).
 [^27-41]: P-R-Sa: "do you" (so tuhum̐ karaha) for "find for me"; "beauty" (sundari) for "friend" (so also MS "kha"); "without
-Gora my body perishes" (gorā vinu mora tanu yāya).
+Gora my body perishes" (gorā binu mora tanu yāya).
 
-## 16. Vasu Ghosha — "niravadhi mora mane gorā-rūpa lāgiyāche…" (PK 777)
+## 16. Vasu Ghosha — "nirabadhi mora mane gorā-rūpa lāgiyāche…" (PK 777)
 *Nagari-bhava. Gora's form does not leave the townswoman's heart: not seeing His face, her breast is breaking; she fears
 neither husband nor elders and is ready to part with life for Gora's sake; she has abandoned all joys and her family —
 nothing but Gora pleases her. In PK it is the gaura-chandrika to the section "anuraga: love for the form." Raga
@@ -19139,7 +19134,7 @@ what can Vasu Ghosha say to this?
 
 [^27-42]: Signature: "Vasu Ghosha." PK: vol. 2, PDF p. 120 (printed p. 107), 10th pallava, section "atha anurāgaḥ… ādau rūpānurāgo
 yathā | tatra śrīmahāprabhuḥ" (anuraga; first, love for the form; here — on Mahaprabhu), no. 1 (mark "॥১॥৭৭৭॥"); raga suhai; MSS P-R-Sa
-no. 1267 and P-R no. 14/1 (in P-R the raga is tudi). GPT1 — p. 162, no. 17 (raga suhai); GPT2 — sec. 3.2 (catalogue: VG-095). In GPT1 the same pada stands once more — sect. 3.2, no. 84 (pp. 188–189), with the signature "locana dāsa ki valiva tāya" — Lochana's (found in chapter 34; the signature is erroneous).
+no. 1267 and P-R no. 14/1 (in P-R the raga is tudi). GPT1 — p. 162, no. 17 (raga suhai); GPT2 — sec. 3.2 (catalogue: VG-095). In GPT1 the same pada stands once more — sect. 3.2, no. 84 (pp. 188–189), with the signature "locana dāsa ki baliba tāya" — Lochana's (found in chapter 34; the signature is erroneous).
 On nagari-bhava see the introductory note to the section.
 [^27-43]: "My husband and my elders" (gṛhapati gurujana) — the speaker is married; readiness to disregard husband and elders is
 the parakiya motif of the padas on the gopis, transferred to the townswomen of Nadia: precisely this transfer the
@@ -19199,7 +19194,7 @@ VG-071). On nagari-bhava see the introductory note to the section.
 Vishnupriya, though GPT places the pada among the laments after the sannyasa. GPT1: "my soul is breaking" (parāṇa bidare,
 18.1). P-R-Sa: "weep" (jhure) for "shed" (18.1); MS "ka": "every moment" (anukṣaṇa, 18.3).
 
-## 19. Vasu Ghosha — "e hena sundara veśa kene vanāilum̐…" (PK 360)
+## 19. Vasu Ghosha — "e hena sundara beśa kene banāilum̐…" (PK 360)
 *Nagari-bhava. A night of vain waiting: "Why did I adorn myself so? Gora's form I never saw"; the night passes in vain, the
 Creator has mocked her; whose body will she now anoint with perfumes and sandal, to whom will she offer camphor and betel?
 In PK it is the gaura-chandrika to the section on the utkanthita (the heroine pining in expectation). Raga mallar.*[^27-48]
@@ -19220,14 +19215,14 @@ Says Vasu Ghosha: the night departs in great sorrow.[^27-50]
 (utkanthita; gaura-chandrika), no. 9 (mark "॥৯॥৩৬০॥"); raga mallar; MS P-R-Sa no. 479. GPT1 — p. 303, no. 11 (raga mallar) — in
 section 4.5 (the bhavas of the night); GPT2 — sec. 4.5, no. 11 (catalogue: VG-180; row VG-088 has the same PK number). On
 nagari-bhava see the introductory note to the section.
-[^27-49]: "The Creator has mocked me" (vidhi viṛambila) — has deceived, thwarted my design. The Creator (vidhi) is Brahma, the
+[^27-49]: "The Creator has mocked me" (bidhi biṛambila) — has deceived, thwarted my design. The Creator (bidhi) is Brahma, the
 arbiter of fate; not the Lord. MS "gha": "did not obtain" (nā pāilum̐), "cha": (nā pālum̐) for "never saw" (19.1); P-R-Sa:
 "today" (āji) for "me" (19.2).
 [^27-50]: Camphor, betel and areca are the refreshment offered to a dear guest; the waiting and preparations are the image of
 the utkanthita from the padas on Radha, transferred to a townswoman. MS "gha": "agaura" for "agora" (aguru, 19.3); "ka"–"ga":
 "Gaura" (gaura) for "Gora" (19.3); P-R-Sa: "guvaka" (the same nut, 19.4).
 
-## 20. Vasu Ghosha — "āju rajani hāma kaiche vañcava re…" (PK 365)
+## 20. Vasu Ghosha — "āju rajani hāma kaiche bañcaba re…" (PK 365)
 *Nagari-bhava. Disappointed waiting: "How shall I pass this night? The king of dancers has turned away from me"; the hope
 of new love has not been fulfilled, half a moment drags on like ages; for Gaura's sake she cast aside respect for her
 elders — and the Creator has deprived her of this love; the fruit of prema He has scattered over the whole world, and she
@@ -19253,14 +19248,14 @@ and I am left by it without hope;
 deceived by new love, I have gone astray:
 Vasu Ghosha's hope has not been fulfilled.[^27-54]
 
-[^27-51]: Signature: "Vasu Ghosha." PK: vol. 1, PDF p. 247 (printed p. 236), section "atha vipralabdhā | tatra śrīgauracandraḥ"
+[^27-51]: Signature: "Vasu Ghosha." PK: vol. 1, PDF p. 247 (printed p. 236), section "atha bipralabdhā | tatra śrīgauracandraḥ"
 (vipralabdha; gaura-chandrika), no. 14 (mark "॥১৪॥৩৬৫॥"); raga kedara; MSS P-R-Sa no. 493 and P-R no. 18/1. GPT1 — p. 303, no. 12
 (raga kedara); GPT2 — sec. 4.5, no. 12 (catalogue: VG-181; row VG-089 has the same PK number). On nagari-bhava see the
 introductory note to the section.
 [^27-52]: The formula of separation — "half a moment is like many yugas": a moment without Him drags on endlessly (not the
 reverse). "I have wasted to the ribs" (lit. "my ribs have come to an end") — I have wasted away with longing. MS P-R:
 "looking at the road, I have wasted to the ribs" (patha heri pām̐jara śeṣa).
-[^27-53]: "Respect for my elders I cast away" — a nagari motif (cf. note 43). The Creator (vidhi) is the arbiter of fate, not the
+[^27-53]: "Respect for my elders I cast away" — a nagari motif (cf. note 43). The Creator (bidhi) is the arbiter of fate, not the
 Lord. MS P-R: "he has put fire into my honeyed mouth" (deola madhu mukhe āgi); "ka"–"ga," "cha," P-R-Sa: "durlabhi," P-R:
 "dulaha" (the same "rare").
 [^27-54]: "The fruit of prema He has scattered over the whole world" — Gaura gives love of God to all; the townswoman complains
@@ -19295,10 +19290,10 @@ Gaura known only from GPT were ascribed to Vasu later; this pada, however, stand
 rejects such a portrayal of Gaura (introductory note). MSS "ka," "kha," "cha," P-R-Sa: "lay" (śutala) — the same.
 [^27-57]: The tears have washed the collyrium (kājara) from her eyes down onto her breast. "A golden radiance" (ruci gora) — we
 take it as the reflection of the golden Gaura; GPT1: "ruci mora" — "my attire (its lustre)."
-[^27-58]: "Brims over" (āgora) — overflowing, measureless. MSS "ka," "kha," "gha," P-R-Sa: "much" (vahu) for "remains" (rahu);
+[^27-58]: "Brims over" (āgora) — overflowing, measureless. MSS "ka," "kha," "gha," P-R-Sa: "much" (bahu) for "remains" (rahu);
 P-R-Sa: "dark" (ghora) for "little" (thora); "in love" (preme).
 
-## 22. Vasu Ghosha — "ki kahava re sakhi rajanika vāta…" (PK 724)
+## 22. Vasu Ghosha — "ki kahaba re sakhi rajanika bāta…" (PK 724)
 *Nagari-bhava. A townswoman tells her friend of the night: she was sleeping beside her elders; at midnight, under the full
 moon and the gentle Malaya breeze, love for Gaura overwhelmed her, and weeping she cried out: "Gaura, Gaura!"; the elders
 woke and heard Gaura's name — then she raised the cry: "Thief, thief!" Raga dhanashi.*[^27-59]
@@ -19332,7 +19327,7 @@ neighbouring PK 723). On nagari-bhava see the introductory note to the section.
 "canda," "manda" (22.2); "ka," "kha," "cha," P-R-Sa: "śunala" (22.5); "kha," "gha": "I rose" (uṭhalum̐), P-R-Sa: "rose"
 (uṭhala) for "I raised the cry" (22.6).
 
-## 23. Vasu Ghosha — "ki kahava re sakhi ājuka bhāva…" (PK 249)
+## 23. Vasu Ghosha — "ki kahaba re sakhi ājuka bhāba…" (PK 249)
 *Nagari-bhava. A townswoman tells her friend: she was alone, adorning herself and dressing her hair before the mirror — and at
 that moment Gora, the king of dancers, appeared; her composure and her modesty gave way; at the sight of Him her body
 thrilled, and He took her in His embrace. In PK it follows Radhamohana's gaura-chandrika to the section "telling of the
@@ -19352,15 +19347,15 @@ the composure and modesty of a noble wife gave way.
 says Vasudeva Ghosha: He took [me] in His embrace.[^27-62]
 
 [^27-61]: Signature: "Vasudeva Ghosha." PK: vol. 1, PDF pp. 178–179 (printed pp. 167–168), section "atha punaśca
-rasodgāraprakārāntaramāha" — after the gaura-chandrika of Radhamohana Dasa (PK 248) — the subsection "tadrasocita-navadvīpa-nāgarīṇāṃ uktiḥ"
+rasodgāraprakārāntaramāha" — after the gaura-chandrika of Radhamohana Dasa (PK 248) — the subsection "tadrasocita-nabadvīpa-nāgarīṇāṃ uktiḥ"
 (the words of the nagaris of Navadvipa befitting this rasa), no. 2 (mark "॥২॥২৪৯॥"); raga vibhasa; MS P-R no. 1364. GPT1 —
 p. 203, no. 111 (raga vibhasa); GPT2 — sec. 3.2, no. 111 (catalogue: VG-026). On nagari-bhava see the introductory note to the
 section.
 [^27-62]: The last line describes an embrace — sambhoga-nagari (cf. note 56); we translate it exactly. An important variant: in
 MS P-R the couplet is different — "At the sight my body was filled with thrills; says Vasudeva: Gora is young and fresh"
-(daraśe pūrala tanu pulakita mora, vāsudeva kahe gorā naola kiśora), without the embrace. MS P-R: "today with effort He gave
-me fortune" (23.1), "I" (āmi), "there I dressed" (tahi vāndhala, 23.2), "fled" (bhāgala, 23.3); "ka," "kha": "dressed"
-(vāndhala).
+(daraśe pūrala tanu pulakita mora, bāsudeba kahe gorā naola kiśora), without the embrace. MS P-R: "today with effort He gave
+me fortune" (23.1), "I" (āmi), "there I dressed" (tahi bāndhala, 23.2), "fled" (bhāgala, 23.3); "ka," "kha": "dressed"
+(bāndhala).
 
 ## 24. Vasu Ghosha — "hari hari gorā kothā gela…" (PK 1636)
 *Nagari-bhava. A townswoman's lament after Gaura has gone: where has Gora gone? what cruel Creator sent this grief? Her heart
@@ -19387,19 +19382,19 @@ Without Gora, my Lord, I will enter the fire.[^27-65]
 **24.6.** That life holds on without Gora — this is a great shame.
 Says Vasu: why does not a thunderbolt fall on my head?
 
-[^27-63]: Signature: "Vasu." PK: vol. 3, PDF pp. 37–38 (printed pp. 26–27), 4th shakha, section "atha śrīgauracandra-viraheṇa
-bhaktagaṇasya tathā navadvīpa-nāgarīṇāṃ vilāpo yathā" (the lament of the devotees, and also of the nagaris of Navadvipa, in separation from
+[^27-63]: Signature: "Vasu." PK: vol. 3, PDF pp. 37–38 (printed pp. 26–27), 4th shakha, section "atha śrīgauracandra-biraheṇa
+bhaktagaṇasya tathā nabadvīpa-nāgarīṇāṃ bilāpo yathā" (the lament of the devotees, and also of the nagaris of Navadvipa, in separation from
 Gaurachandra), no. 3 (mark "॥৩॥১৬৩৬॥"); raga suhai (P-R: sindhura); MSS P-R-Sa no. 859 and P-R no. 40/111. GPT1 — p. 388,
 no. 19 (raga suhai) — in the section "the lament of Shachi and Vishnupriya"; GPT2 — sec. 5.4, no. 19 (catalogue: VG-076, where
-this pada is separated from "gela gaura nā gela valiyā," GPT 5.4 no. 18 — GPT only). Separation after the sannyasa. On
+this pada is separated from "gela gaura nā gela baliyā," GPT 5.4 no. 18 — GPT only). Separation after the sannyasa. On
 nagari-bhava see the introductory note to the section.
 [^27-64]: A proverb: a thief's wife dare not mourn her husband aloud — her grief is secret. So the townswoman cannot weep openly
-for Gaura. MSS "ka," "kha," P-R: "she cannot" (nāre) for "I cannot"; P-R: "form" (gorā-varaṇa) for "face" (24.3); for
+for Gaura. MSS "ka," "kha," P-R: "she cannot" (nāre) for "I cannot"; P-R: "form" (gorā-baraṇa) for "face" (24.3); for
 "crumbling" P-R has khase ("falling away").
 [^27-65]: "I will enter the fire" — a formula of despair in separation, as in the padas on Radha. MS P-R lacks couplets
-24.4–24.5; "kha": "vine" (24.6); "ka": "ei," "kha," "gha," P-R-Sa, P-R: "iha" for "eha" (24.6); P-R: "fell" (paṛila, 24.6).
+24.4–24.5; "kha": "bine" (24.6); "ka": "ei," "kha," "gha," P-R-Sa, P-R: "iha" for "eha" (24.6); P-R: "fell" (paṛila, 24.6).
 
-## 25. Vasu Ghosha — "kaha sakhi jivana-upāya…" (PK 1669)
+## 25. Vasu Ghosha — "kaha sakhi jibana-upāya…" (PK 1669)
 *Nagari-bhava. A lament after Gaura has gone: "Tell me, friend, how shall I live? Gora, the king of dancers, has left [me]";
 her body has wasted away, how many days can she live in separation? where can she go to see His face? what has the Creator
 written on her forehead? to whom can she tell this grief? In PK it is the gaura-chandrika to the section on Radha's lament
@@ -19423,18 +19418,18 @@ to whom shall I tell this grief?
 **25.6.** Says Vasu Ghosha at the last:
 without Gora life cannot be kept.[^27-68]
 
-[^27-66]: Signature: "Vasu Ghosha." PK: vol. 3, PDF pp. 54–55 (printed pp. 43–44), section "atha kevalaṃ vāhya-daśāyāṃ vilāpo yathā |
+[^27-66]: Signature: "Vasu Ghosha." PK: vol. 3, PDF pp. 54–55 (printed pp. 43–44), section "atha kebalaṃ bāhya-daśāyāṃ bilāpo yathā |
 tatra śrīgauracandraḥ" (lament in external consciousness; gaura-chandrika), no. 8 (mark "॥৮॥১৬৬৯॥"); raga suhai (P-R: pahida and
 gandhara — the pada stands in it twice); MSS P-R-Sa no. 892 and P-R nos. 40/15, 43/12. GPT1 — p. 388, no. 20; GPT2 — sec. 5.4,
 no. 20 (catalogue: VG-117). The pada does not name the speaker; GPT assigns it to Vishnupriya's lament, PK to the words of the
 townswomen (according to Majumdar, nagari-bhava). Separation after the sannyasa. On nagari-bhava see the introductory note
 to the section.
-[^27-67]: According to popular belief, the Creator (vidhi) writes a person's fate on his forehead. The Creator is Brahma, not
+[^27-67]: According to popular belief, the Creator (bidhi) writes a person's fate on his forehead. The Creator is Brahma, not
 the Lord.
-[^27-68]: Lit. "says Vasu Ghosha the end (nidāna)": the last word, the verdict. GPT1: "kahe vāsu ghoṣa nidāna." MS P-R: "said
-Vasu Ghosha" (vāsu ghoṣe kahila), "I will give up [life]" (tejiba) for "cannot be kept" (25.6); "ka," "cha," P-R-Sa:
-"jīvana" (25.1); P-R: "goes" (yāya, 25.1), "shedding tears" (jhuri jhuri) for "pining," "became" (haila, 25.2), "in this grief I
-will pass" (e duḥkhe vañciva, 25.2), and instead of 25.3: "Shall I see again that pure moonlike face?" (puna ki pāiva
+[^27-68]: Lit. "says Vasu Ghosha the end (nidāna)": the last word, the verdict. GPT1: "kahe bāsu ghoṣa nidāna." MS P-R: "said
+Vasu Ghosha" (bāsu ghoṣe kahila), "I will give up [life]" (tejiba) for "cannot be kept" (25.6); "ka," "cha," P-R-Sa:
+"jībana" (25.1); P-R: "goes" (yāya, 25.1), "shedding tears" (jhuri jhuri) for "pining," "became" (haila, 25.2), "in this grief I
+will pass" (e duḥkhe bañciba, 25.2), and instead of 25.3: "Shall I see again that pure moonlike face?" (puna ki pāiba
 daraśana, niramala o cām̐nda-badana).
 
 ## Note to Chapter 27
@@ -19451,7 +19446,7 @@ the nagari recension of PK 973). Of Majumdar's list, PK 2219 (a pada of Lochana 
 
 *On what nagari-bhava is, the position of the tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta Sarasvati) and the rules of translation, see the introductory note to the section of nagari padas in chapter 27.*
 
-## 1. Vasu Ghosha — "ki herinu ogo sai vidagadha-rāja…" (KGC 5.1; GPT1 p. 162, no. 16)
+## 1. Vasu Ghosha — "ki herinu ogo sai bidagadha-rāja…" (KGC 5.1; GPT1 p. 162, no. 16)
 *Nagari-bhava (only in the address to a friend). "What have I seen, friend — the king of those versed in rasa!" Gaura is the
 wish-fulfilling tree of the devotees in the midst of Navadvipa: its branches are love, its leaves anuraga, its flowers longing,
 its fruit pure prema, from which rasa flows without end; the devotees, like birds and bees, taste it, the tree's shade nourishes
@@ -19478,7 +19473,7 @@ scan PDF p. 421); GPT2 — sect. 3.2, no. 16 (catalogue: VG-020). The pada is no
 the KGC witness was found in preparing this chapter (attribution to Vasu by KGC and GPT, A). In GPT the pada stands in the section
 of nagari padas (3.2), but the nagari motif in it is only the address "friend": in substance it praises Gaura in the image of the
 wish-fulfilling tree. On nagari-bhava see the introductory note to the section (chapter 27).
-[^28-2]: "The king of those versed in rasa" (vidagadha-rāja): a vidagdha is a connoisseur, finely sensitive to rasa; so Krishna is
+[^28-2]: "The king of those versed in rasa" (bidagadha-rāja): a vidagdha is a connoisseur, finely sensitive to rasa; so Krishna is
 called. "Wish-fulfilling tree" (kalpataru) — an image known from CC (Adi 9: the Lord is both the gardener and the tree of prema itself,
 giving its fruits to all). GPT1 notes a variant of the first line: "What shall I say, friend, of a wondrous thing!"
 [^28-3]: "Ever-fresh rasa" (nava rasa) can also be understood as "ninefold rasa" (all rasas in one fruit). "Longing" (ārati) is eager
@@ -19566,7 +19561,7 @@ padas on Radha and Krishna; translated as in the original (introductory note, ru
 that is why He seems familiar to her. This is a tenet of gaura-tattva (Gaura is Krishna who has taken Radha's bhava and luster;
 CC Adi 1.5); it does not make Gaura the hero of a love play in Navadvipa (introductory note). GPT2: "e" ("this") instead of "ai".
 
-## 5. Vasu Ghosha — "niravadhi gorārūpa dekhi…" (GPT1 p. 164, no. 25)
+## 5. Vasu Ghosha — "nirabadhi gorārūpa dekhi…" (GPT1 p. 164, no. 25)
 *Nagari-bhava. "Ceaselessly I see Gora's form — streams flow from my eyes": night and day the townswoman knows nothing, the jewel
 of brahmanas has entered her inmost heart; not seeing Gorachand's face, she cannot hold on to life. Raga dhanashi.*[^28-13]
 
@@ -19609,7 +19604,7 @@ nagari-bhava see the introductory note to the section (chapter 27).
 [^28-16]: The last couplet passes from the townswoman's words to the poet's praise: Gaura's glory has no limit (cf. chapter 27, no. 1:
 "in the three worlds there is none who could set a limit to His beauty").
 
-## 7. Vasu Ghosha — "so vahuvallabha gorā jagatera manacorā…" (GPT1 pp. 163–164, no. 22)
+## 7. Vasu Ghosha — "so bahuballabha gorā jagatera manacorā…" (GPT1 pp. 163–164, no. 22)
 *Nagari-bhava. "Gora is beloved of many, He steals the hearts of all the world — why then should I want Him to be mine alone?
 Yet whose heart can bear the sharing!" The townswoman gives family, honour, life and youth for the treasure that is Gora; without
 Him she will enter the waters of the Suradhuni. Raga vibhasa.*[^28-17]
@@ -19636,7 +19631,7 @@ every moment, every instant I am bereft of it.[^28-19]
 [^28-17]: Signature: "Vasudeva Ghosha." GPT1 — pp. 163–164, no. 22 (raga vibhasa; scan PDF pp. 422–423); GPT2 — sect. 3.2, no. 22
 (catalogue: VG-025). The pada is not in PK, KGC or GCd; attribution to Vasu by GPT only (C). On nagari-bhava see the introductory
 note to the section (chapter 27).
-[^28-18]: "Beloved of many" (vahuvallabha) is an epithet of Krishna, the beloved of all the gopis; the jealousy of a heroine who will not
+[^28-18]: "Beloved of many" (bahuballabha) is an epithet of Krishna, the beloved of all the gopis; the jealousy of a heroine who will not
 share her beloved is a motif of the padas on Radha, transferred to a townswoman of Nadia. That Gaura belongs to all (He gave prema to
 the whole world) is true; but Gaura's love for the world is mercy, not the love play of a nagara (introductory note). GPT2: "You,
 beloved of many, Gora" (to).
@@ -19669,13 +19664,13 @@ anuraga (4.4); GPT2 — sect. 4.4, no. 14 (catalogue: VG-040). Not in PK, KGC or
 collection *Padamrita-madhuri* (vol. 1, pp. 469–470; an edition under copyright, its text is not used) the same pada bears the
 signature of Murari Gupta and has an extra couplet: the attribution is disputed (C). On nagari-bhava see the introductory note to
 the section (chapter 27).
-[^28-21]: The line is obscure: "anurāgera tuli diye antara vāhira hiye, nā jāni tāra kata dhāra dhāri" — lit. "with the brush of anuraga —
+[^28-21]: The line is obscure: "anurāgera tuli diye antara bāhira hiye, nā jāni tāra kata dhāra dhāri" — lit. "with the brush of anuraga —
 the inside and outside of the heart; I do not know how much debt I hold to Him." We understand: love has coloured the whole heart,
 and the townswoman does not know how to repay this gift. The translation is conjectural.
 [^28-22]: "Set my family adrift," "set fire to my shame" are formulas of renouncing family honour for love (from the padas on Radha);
 translated as in the original (introductory note, rule 2).
 
-## 9. Vasu Ghosha — "āpana jāni vanāyalum̐ veśa…" (GPT1 p. 305, no. 18)
+## 9. Vasu Ghosha — "āpana jāni banāyalum̐ beśa…" (GPT1 p. 305, no. 18)
 *Nagari-bhava (vasaka-sajja — "she who has prepared for the meeting"). The townswoman, regarding Gaura as her own, adorns herself
 for His coming: she binds her hair, puts on a sandal tilaka, a pearl necklace, draws designs in musk on her breast; love for Gaura
 cannot be told. Raga dhanashi.*[^28-23]
@@ -19698,12 +19693,12 @@ nagari-bhava see the introductory note to the section (chapter 27).
 [^28-24]: The adornment of the vasaka-sajja (the heroine who adorns herself for her beloved's coming) is a canon of the padas on
 Radha; designs in musk on the breast (kuca) are part of that canon. Translated exactly, with nothing added. The Vrajabuli forms
 "deyala," "caṛhāyala," "kayala" can also be 3rd person ("He put…"); but the pada is framed by "I dressed myself… I adorned myself"
-(vanāyalum̐), and it speaks of the heroine's own adornment.
+(banāyalum̐), and it speaks of the heroine's own adornment.
 [^28-25]: Lit. "Gaura's love (leha) cannot be told"; we understand it as the townswoman's love for Gaura. Gaura Himself, according to CC,
 is in the bhava of Radha, tasting Her love; the tradition does not accept depicting Him as the beloved of the townswomen
 (introductory note).
 
-## 10. Vasu Ghosha — "niśi-parabhāte vasi āṅgināte…" (GPT1 p. 163, no. 21)
+## 10. Vasu Ghosha — "niśi-parabhāte basi āṅgināte…" (GPT1 p. 163, no. 21)
 *Nagari-bhava (khandita — "the deceived"). At daybreak the townswoman sits in the courtyard with a cheerless face: "Friend, who has
 done this? Gora, the Creator's finest work — another has got Him!" She had prepared the bed, did not sleep all night, went out of
 the door a hundred times; when Gauranga comes she will ask: in whose house did He spend the night? Raga vibhasa-dashakushi.*[^28-26]
@@ -19726,7 +19721,7 @@ three times an instant, a hundred times a danda I went out of the house.
 [^28-26]: Signature: "Vasu Ghosha." GPT1 — p. 163, no. 21 (raga vibhasa-dashakushi; scan PDF p. 422); GPT2 — sect. 3.2, no. 21
 (catalogue: VG-024). The pada is not in PK, KGC or GCd; attribution to Vasu by GPT only (C). On nagari-bhava see the introductory
 note to the section (chapter 27).
-[^28-27]: "The utmost of the Creator's work" (vidhira avadhi) — the most perfect thing the Creator could make (a poetic formula; Gaura is not
+[^28-27]: "The utmost of the Creator's work" (bidhira abadhi) — the most perfect thing the Creator could make (a poetic formula; Gaura is not
 created — He is the Lord Himself). "She has got Him" — another woman: the khandita heroine suspects a rival.
 [^28-28]: The pada is wholly transferred from the canon of padas on Radha as khandita: Krishna has spent the night with another gopi and
 comes at dawn bearing the marks of the meeting. Such a plot is inapplicable to Gaura: Vrindavana Dasa says plainly that in Navadvipa
@@ -19758,7 +19753,7 @@ Says Vasu: the hope will be fulfilled.[^28-30]
 mana (4.6); GPT2 — sect. 4.6, no. 20 (catalogue: VG-169; the first line according to the scan is "kena māna karinu," not "karisa").
 Not in PK, KGC or GCd; attribution to Vasu by GPT only (C). On nagari-bhava see the introductory note to the section (chapter 27).
 [^28-30]: The motif of the kalahantarita — the heroine who in offended pride (mana) has pushed her beloved away and at once repents — is
-taken from the padas on Radha and Krishna. "Beloved" (vam̐dhuyā) is a word of the same padas. "Gaura has turned away" (vaimukha) — as in
+taken from the padas on Radha and Krishna. "Beloved" (bam̐dhuyā) is a word of the same padas. "Gaura has turned away" (baimukha) — as in
 Vasu's padas from PK (chapter 27, no. 20: "the king of dancers has turned away from me"), here what is unwittingly reflected is that
 the Lord did not respond to such feelings (introductory note).
 
@@ -19782,7 +19777,7 @@ recalling this feeling for Gora, Vasu Ghosha sings.[^28-32]
 (nos. 111–115: Vasu's PK 249 and PK 724 — chapter 27, nos. 23, 22; VG-027, VG-029 — nos. 13, 14 of this chapter); GPT2 — sect. 3.2,
 no. 113 (catalogue: VG-028). Not in PK, KGC or GCd; attribution to Vasu by GPT only (C). On nagari-bhava see the introductory note to
 the section (chapter 27).
-[^28-32]: "Feeling for Gora" (gorā-bhāva) can also be read as "Gora's bhava," i.e. the feeling He awakens. The verb forms "āchilā,"
+[^28-32]: "Feeling for Gora" (gorā-bhāba) can also be read as "Gora's bhava," i.e. the feeling He awakens. The verb forms "āchilā,"
 "dekhilā" are Old Bengali first-person forms ("I was lying," "I saw").
 
 ## 13. Vasu Ghosha (according to Majumdar, not Vasu) — "niśi śeṣe chinu ghumera ghore…" (GPT1 p. 203, no. 112)
@@ -19840,7 +19835,7 @@ padas on Radha and Krishna. Majumdar considers the padas of sambhoga with Gaura 
 tradition rejects such a depiction of Gaura (introductory note; cf. note 34). Translated exactly, with nothing added. The Lord's
 "joy" (sukha) is in truth the joy of prema and kirtana, not worldly love.
 
-## 15. Vasu Ghosha — "gela gaura nā gela valiyā…" (GPT1 p. 388, no. 18)
+## 15. Vasu Ghosha — "gela gaura nā gela baliyā…" (GPT1 p. 388, no. 18)
 *Nagari-bhava (by its place in the section; the speaker is probably Vishnupriya — then this is a lament of separation, not nagari-bhava). Lament after the sannyasa. "Gaura has gone without saying He was going — He has cast me, unfortunate, adrift on a shoreless sea":
 cruel Fate did not let the tree grow, it broke the sprout; to whom has it given Gauranga? Who will bear the burden of youth — in the
 fire of separation there is nothing left but to burn. The speaker is not named: in GPT the pada stands among Vishnupriya's laments.
@@ -19869,7 +19864,7 @@ Vishnupriya (the words about the "burden of youth" and the "broken sprout" suit 
 nagari-bhava in this series) a townswoman; therefore the pada is placed here, next to the nagaris' laments from PK. The speaker is probably Vishnupriya — then this is a lament of
 separation, not nagari-bhava; the pada is left in the section by its place (coordinator's decision after the review of 27–30). On nagari-bhava
 see the introductory note to the section (chapter 27).
-[^28-39]: "Did not let the tree grow, broke the sprout" — an image of love (or of married life) cut off at its very beginning. Fate (vidhi)
+[^28-39]: "Did not let the tree grow, broke the sprout" — an image of love (or of married life) cut off at its very beginning. Fate (bidhi)
 is the arbiter of destiny, the Creator, not the Lord (cf. chapter 27, note 53). The Lord's going into sannyasa is His will and lila
 (CB, CC), not the cruelty of fate: only the grief of those left behind speaks so.
 
@@ -19891,21 +19886,21 @@ red hands and feet surpass the red lotus; He stands bent in three places.[^28-42
 This Nayanananda, bound by bhava, is ever lost in bhava.[^28-43]
 
 [^28-40]: Signature: "Nayanananda." PK: vol. 3, PDF pp. 257–258 (printed pp. 246–247), 4th shakha, 19th pallava, section "atha
-śrīgaurāṅgasya rūpa-varṇanaṃ nāgarīgaṇādyuktiḥ" (Gauranga's form: the words of the nagaris and others), no. 3 (mark "॥৩॥২১৭০॥"),
+śrīgaurāṅgasya rūpa-barṇanaṃ nāgarīgaṇādyuktiḥ" (Gauranga's form: the words of the nagaris and others), no. 3 (mark "॥৩॥২১৭০॥"),
 between Vasu's padas PK 2169 and 2171 (chapter 27, nos. 9, 10); raga bhatiyari; MS P-R-Sa no. 2277. GPT1 — p. 165, no. 27 (raga
 bhatiyari); GPT2 — sect. 3.2, no. 25 (catalogue: NN-009 and NN-026 — one pada; the first line of NN-026 in the catalogue is wrong —
-"kāmera pāṭe ratira vilāsa" is taken from the neighbouring PK 2168 of Govinda Dasa). Nayanananda (Nayana Mishra), nephew of Gadadhara
+"kāmera pāṭe ratira bilāsa" is taken from the neighbouring PK 2168 of Govinda Dasa). Nayanananda (Nayana Mishra), nephew of Gadadhara
 Pandita, is a contemporary according to Majumdar; the pada is in PK with his signature (A). On nagari-bhava see the introductory note
 to the section (chapter 27).
 [^28-41]: "The beloved of my life" (prāṇa-piyārā) — the townswoman's words; "I have met" (bheṭalum̐) — she saw Him in the street or in
-kirtana. MSS "ka," "kha," "cha": "lotus face" (vayāna) instead of "lotus eyes"; "ka"–"cha": "eyes" (locana) instead of "dancing"
+kirtana. MSS "ka," "kha," "cha": "lotus face" (bayāna) instead of "lotus eyes"; "ka"–"cha": "eyes" (locana) instead of "dancing"
 (so also GPT1).
 [^28-42]: "Bent in three places" (tiribhaṅga, tribhanga) is the pose of Krishna with the flute: Gaura, remembering the lilas of Vraja,
-takes Krishna's form (cf. Vasu's pada "soṅari puruva-līlā tribhaṅga hailā" from BR — chapter 1, no. 10). The townswoman sees in Him
+takes Krishna's form (cf. Vasu's pada "soṅari puruba-līlā tribhaṅga hailā" from BR — chapter 1, no. 10). The townswoman sees in Him
 Krishna's beauty.
-[^28-43]: "With the longing of the bhavini" (bhāvinī-lālase): bhavini, "the loving one," usually refers to Radha; it may mean that Gaura
+[^28-43]: "With the longing of the bhavini" (bhābinī-lālase): bhavini, "the loving one," usually refers to Radha; it may mean that Gaura
 is immersed in Radha's bhava (CC Adi 4), or it may be the longing of the heroine herself, who sees Gora "within and without." MSS
-"ka"–"cha": "within, without" (antara vāhira).
+"ka"–"cha": "within, without" (antara bāhira).
 
 ## 17. Nayanananda — "sai cala dekhi giyā…" (PK 2177)
 *Nagari-bhava. "Friend, let us go and see how wondrously charming Gora dances!" His form is adorned with love, yellow garments,
@@ -19942,7 +19937,7 @@ Signature in PK — A. On nagari-bhava see the introductory note to the section 
 [^28-47]: The longing "to run up and touch" is a nagari motif; translated as in the original. Gaura Himself is here in kirtana, in the
 ecstasy of prema (thrill, tears, 17.4); the townswomen are only onlookers (cf. Nayanananda's PK 2179 — chapter 10, no. 16).
 
-## 18. Nayanananda (signature in GPT only) — "dekha jīva aparūpa gaurāṅgacāndera mukha…" (PK 291; GPT1 p. 166, no. 31)
+## 18. Nayanananda (signature in GPT only) — "dekha jība aparūpa gaurāṅgacāndera mukha…" (PK 291; GPT1 p. 166, no. 31)
 *Nagari-bhava (only in the GPT recension). Gaura's form. "Look, O souls — the wondrous face of Gaurangachand: how many streams flow from His eyes!"
 Hearing of His virtues, stone turns to water, the parrot weeps in its cage, and a noble wife who loves Hari's name weeps over Him in
 solitude. According to GPT, Gaura has conquered the world by the rasa of love, even yavanas and chandalas were delivered — only the
@@ -19963,18 +19958,18 @@ even yavanas and chandalas were delivered;
 the wretched Nayanananda's doubt of mind has not gone —
 a heavy spear remains in his heart.[^28-50]
 
-[^28-48]: PK: vol. 1, PDF p. 202 (printed p. 191), 3rd pallava, section "kevala rūpānurāga" (rupanuraga — gaura-chandrikas), no. 4
+[^28-48]: PK: vol. 1, PDF p. 202 (printed p. 191), 3rd pallava, section "kebala rūpānurāga" (rupanuraga — gaura-chandrikas), no. 4
 (mark "॥৪॥২৯১॥"), right after PK 290 (= Nayanananda's PK 787, no. 19); raga malar; in PK only 18.1–18.2, without signature. GPT1 —
 p. 166, no. 31 (raga malar; scan PDF p. 425) — with a third couplet and the signature "pāmara nayanānanda"; GPT2 — sect. 3.2, no. 31
 (catalogue: NN-013, "GPT only"; the PK number was found in preparing this chapter). Text 18.1–18.2 follows PK, 18.3 GPT1.
 Attribution to Nayanananda by GPT only (C). On nagari-bhava see the introductory note to the section (chapter 27).
-[^28-49]: PK: "look, O souls" (dekha jīva) — an address to all; GPT1: "look, friend" (dekha sai) — a townswoman's words. In the PK recension
+[^28-49]: PK: "look, O souls" (dekha jība) — an address to all; GPT1: "look, friend" (dekha sai) — a townswoman's words. In the PK recension
 there is no nagari motif at all, apart from the noble wife weeping over Gauranga (18.2) — and she loves Hari's name. GPT1: "a
 garland that enchants the sages" (munimanoharā).
 [^28-50]: "Yavanas and chandalas" — Muslims and outcastes: Gaura delivers all without distinction (cf. chapter 9, no. 1). "Doubt of
 mind" and "a spear in the heart" are the poet's self-abasement (cf. note 4).
 
-## 19. Nayanananda — "gaurāṅga-lāvaṇya rūpe ki kahiva eka mukhe…" (PK 787 = PK 290)
+## 19. Nayanananda — "gaurāṅga-lābaṇya rūpe ki kahiba eka mukhe…" (PK 787 = PK 290)
 *Nagari-bhava. "How can one mouth tell of Gauranga's lovely form!" His smile and glance leave her no life; the Creator fashioned Him
 in the mould of beauty, and her heart is in turmoil. The heroine laments: the Creator made her a daughter of a family, she is not free;
 family, shame and fear are gone, she burns in the fire of her heart, but can tell no one. The poet: "Listen, charming one — you are
@@ -20001,19 +19996,19 @@ you are caught in the snare of love for Gauranga.[^28-54]
 
 [^28-51]: Signature: "Nayanananda." PK 787: vol. 2, PDF p. 124 (printed p. 111), 3rd shakha, 10th pallava, section "rūpānurāga"
 (rupanuraga), "punashcha prakarantaram" — a gaura-chandrika of another kind, no. 11 (mark "॥১১॥৭৮৭॥"); raga dhanashi; MS P-R-Sa
-no. 1277. The same pada is PK 290 (vol. 1, PDF pp. 201–202, printed pp. 190–191, 3rd pallava, "kevala rūpānurāga"; a duplicate with
+no. 1277. The same pada is PK 290 (vol. 1, PDF pp. 201–202, printed pp. 190–191, 3rd pallava, "kebala rūpānurāga"; a duplicate with
 minor variants). GPT1 — p. 166, no. 30 (raga dhanashi-dharatala); GPT2 — sect. 3.2, no. 30 (catalogue: NN-012). Signature in PK — A.
 On nagari-bhava see the introductory note to the section (chapter 27).
 [^28-52]: "The freshness of a flower" (phulera kām̐cani) — the meaning of "kām̐cani" is uncertain (from kām̐cā, "fresh, young"?); MSS
 "ka"–"cha" and GPT1: "kulera kām̐cani" (? "…of the family"). PK 290 and GPT1: "loving glance" (piriti-cāhani) instead of "radiant."
 [^28-53]: "The little doll of my soul" (parāṇa-putali) — the inmost soul, the "pupil" of life. PK 290 and GPT1: "Friend, in what shapes
 has the Creator fashioned Him!"
-[^28-54]: "Charming one" (vinodinī) is usually a name of Radha; here the poet addresses the heroine (her name is not given; pronouns in
+[^28-54]: "Charming one" (binodinī) is usually a name of Radha; here the poet addresses the heroine (her name is not given; pronouns in
 lower case). MS "kha" and GPT1: "lady" (ṭhākurāṇī). In PK the pada stands as a gaura-chandrika to Radha's rupanuraga: its frame — a
 love that cannot be revealed, "a daughter of a family," "not free" — is taken from the padas on Radha. MS P-R-Sa: "life will not go
-out" (vāhirāvāra), "in the fire of love" (prema anale).
+out" (bāhirābāra), "in the fire of love" (prema anale).
 
-## 20. Nayanananda — "kariva ki muñi kariva ki…" (PK 694)
+## 20. Nayanananda — "kariba ki muñi kariba ki…" (PK 694)
 *Nagari-bhava (a dream). "What shall I do? Secretly I am caught in love for Gauranga": in a dream Gorachand's face appeared to her —
 long curling hair, eyes full of rasa; she, the daughter of a worthy family and the daughter-in-law of a worthy family, a faithful
 wife, was lying in her husband's arms — and the waters of love for Gora swept all away. The poet: how will you now restrain your
@@ -20041,7 +20036,7 @@ how will you now restrain your heart?
 (gaura-chandrika to the telling of a meeting in a dream), no. 31 (mark "॥৩১॥৬৯৪॥"); raga vibhasa; MSS P-R-Sa no. 1169 and P-R
 no. 10/39. GPT1 — pp. 165–166, no. 29 (raga vibhasa); GPT2 — sect. 3.2, no. 29 (catalogue: NN-011). Signature in PK — A (MS P-R has
 no signature). On nagari-bhava see the introductory note to the section (chapter 27).
-[^28-56]: The subject is not named: "it came and seized my breast" we take as the sudden shock of the dream (in Bengali "vuka dharā" —
+[^28-56]: The subject is not named: "it came and seized my breast" we take as the sudden shock of the dream (in Bengali "buka dharā" —
 "the heart is gripped"); it can also be read "[He] came and embraced me." MS P-R puts this couplet before the signature; MS P-R:
 instead of 20.1b — "I have fallen into the bhava of Gaurangachand."
 [^28-57]: The sharpest nagari motif in Nayanananda's padas: a married woman, "a faithful wife," gives herself in a dream to love for
@@ -20071,10 +20066,10 @@ tatra gauracandraḥ" (anuraga in the telling of a meeting — of another kind; 
 suhai; MS P-R-Sa no. 1176. Not found in GPT, KGC or BR (catalogue: YD-020; found in the full collation of PK, chapter 16, and
 deferred to the nagari padas). The signature "yadu": Yadunatha Dasa (Kavichandra) or Yadunandana — not established (as with the
 "Yadu" padas PK 2209, 2182 — chapter 16, note 1); C. On nagari-bhava see the introductory note to the section (chapter 27).
-[^28-59]: "Noble wife" (kulavatī), "faithful wives" (satī) — a nagari motif (cf. chapter 27, note 2): Gaura's beauty is such that even the
+[^28-59]: "Noble wife" (kulabatī), "faithful wives" (satī) — a nagari motif (cf. chapter 27, note 2): Gaura's beauty is such that even the
 chaste lose their peace — a formula as in the padas on Krishna. MS P-R-Sa: "sweet form" (madhura) instead of "enchanting."
 [^28-60]: In the signature the poet speaks of himself: "I have sold myself to love for Gora" — no longer as a townswoman, but as a
-devotee who has given himself to Gaura. MS "kha": "what can I say" (ki kahiva) instead of "what can I do" (21.2).
+devotee who has given himself to Gaura. MS "kha": "what can I say" (ki kahiba) instead of "what can I do" (21.2).
 
 ## 22. Yadu — "gorācām̐de dekhiyā ki hailum̐…" (PK 859; GPT1 p. 169, no. 38)
 *Nagari-bhava (reproaching the elders). "What has become of me since I saw Gorachand! I am caught in the snare of secret love": at
@@ -20100,7 +20095,7 @@ p. 169, no. 38 (raga varadi); GPT2 — sect. 3.2, no. 38. **Catalogue correction
 PK 859 (found in preparing this chapter). The signature "Yadu" — who exactly is not established (cf. note 58); C. On nagari-bhava see
 the introductory note to the section (chapter 27).
 [^28-62]: "Leave — He will not leave" (chāṛile nā chāṛe): even if she tries to forget Gora, He will not go out of her heart. MS P-R-Sa:
-"cannot be left" (chāṛite) — "Gora Raya cannot be left"; GPT1: "I shall go mad" (haive pāgalī). MSS "gha," P-R-Sa: "dei" instead of
+"cannot be left" (chāṛite) — "Gora Raya cannot be left"; GPT1: "I shall go mad" (haibe pāgalī). MSS "gha," P-R-Sa: "dei" instead of
 "pāṛe" ("heaps abuse" — the same sense). The mother-in-law and the elders are figures of the padas on Radha (Jatila, Kutila); here
 in the domestic life of Nadia.
 
@@ -20136,12 +20131,12 @@ nagari-bhava see the introductory note to the section (chapter 27).
 [^28-64]: "Tell me, why?" — we read "kahe" as "kāhe" ("why?", Vrajabuli); reading "kahe" ("says"), the sense is the same: the heroine
 complains to her friend. "The shade of His feet" — shelter, the Lord's mercy to all.
 [^28-65]: The chataka is a bird which, as the belief goes, drinks only rain water and waits for it from the cloud; if the cloud hurls
-lightning instead of rain — an image of unrequited love from the padas on Radha. GPT1: "vāra" — a misprint for "yāra."
+lightning instead of rain — an image of unrequited love from the padas on Radha. GPT1: "bāra" — a misprint for "yāra."
 [^28-66]: The poet's counsel turns the nagari's complaint into an instruction on shelter: "give up family honour, take shelter at His
 feet" — the path of surrender to Gaura (sharanagati), not of a love play. Some other padas of the section end in the same way (cf.
 no. 21, note 60).
 
-## 24. Dasa Murari — "eka dina mane ānanda vāṛhala…" (PK 2334)
+## 24. Dasa Murari — "eka dina mane ānanda bāṛhala…" (PK 2334)
 *Nagari-bhava (the townswomen see Gaura and Nitai in the street). One day Nitai and Gaura, joyful and laughing, go alone to the
 bazaar; the townswomen on their way to fetch water meet Them and cannot take their eyes off Gora: "It seems a dancer has come from
 Gokula — let us go and see Him dance in the bazaar, let the water-fetching go hang!" Arm in arm the women fill both banks of the
@@ -20160,7 +20155,7 @@ Let us go and see — He will dance in the bazaar; let the water-fetching go han
 gazing at Gora, they forgot themselves — says Dasa Murari.
 
 [^28-67]: Signature: "dāsa murāri" (Dasa Murari). PK: vol. 3, PDF p. 316 (printed p. 305), 4th shakha, 23rd pallava, section
-"śrīcaitanya-nityānandera rūpa-guṇa-varṇana" (the form and virtues of Chaitanya and Nityananda), no. 3 (mark "॥৩॥২৩৩৪॥"); raga
+"śrīcaitanya-nityānandera rūpa-guṇa-barṇana" (the form and virtues of Chaitanya and Nityananda), no. 3 (mark "॥৩॥২৩৩৪॥"); raga
 dhanashi; MS P-R-Sa no. 2408. GPT1 — p. 47, no. 71; GPT2 — sect. 1.3, no. 71 (catalogue: MU-005; in chapter 6 deferred to the nagari
 padas). According to Majumdar, the signature "dāsa murāri" is not Murari Gupta; the author is not established (C). On nagari-bhava see
 the introductory note to the section (chapter 27).
@@ -20168,7 +20163,7 @@ the introductory note to the section (chapter 27).
 motif is mild: the women only crowd to see Gaura and Nitai; there is no love speech. MS P-R-Sa: "is coming" (āsiche); GPT1: "their eyes
 filled [with tears]" (bharila nayāne) instead of "they forgot themselves" (24.4).
 
-## 25. Balarama Dasa — "gaura-varaṇa maṇi-ābharaṇa nāṭuyā-mohana veśa…" (PK 2109)
+## 25. Balarama Dasa — "gaura-baraṇa maṇi-ābharaṇa nāṭuyā-mohana beśa…" (PK 2109)
 *Nagari-bhava. Gaura's form — golden, in jewels, in the enchanting attire of a dancer: gazing at Him, the world forgot itself. "I am
 dying, friend, seeing Gaura's figure: did not the Creator fashion, to slay young women, a Kama above Kama?" The townswomen lose their
 composure and, disregarding their husbands, weep; the poet offers himself for the beauty of the nails of Gora's feet. In PK it opens the
@@ -20187,7 +20182,7 @@ seeing that form, young women are crazed: their composure and modesty are stolen
 Says Balarama: I have offered myself for the beauty of the nails of Gora's feet.[^28-71]
 
 [^28-69]: Signature: "Balarama." PK: vol. 3, PDF p. 233 (printed p. 222), 4th shakha, 18th pallava, section "atha śrīgauracandrasya
-rūpādivarṇanaṃ" (the form of Gaurachandra etc.), no. 1 (mark "॥১॥২১০৯॥"); raga mangala; MS P-R-Sa no. 2217. GPT1 — p. 160, no. 7
+rūpādibarṇanaṃ" (the form of Gaurachandra etc.), no. 1 (mark "॥১॥২১০৯॥"); raga mangala; MS P-R-Sa no. 2217. GPT1 — p. 160, no. 7
 (raga dhanashri; section 3.2 — the first in the series of nagari padas, before Vasu's PK 2149); GPT2 — sect. 3.2, no. 7 (catalogue:
 BD-017; PK 2109 was found in chapter 11 and deferred to the nagari padas). Under the signature "Balarama Dasa" PK has many padas of the
 later Balarama Dasa (Majumdar; cf. chapter 11) — attribution to the contemporary is not established (C). On nagari-bhava see the
@@ -20200,7 +20195,7 @@ husbands for Krishna, *Bhag.* 10.29); translated as in the original; the traditi
 27, note 10) for the nails of His feet. MS "kha": "the moons of the nails" (cānde). MS "ka" and GPT1: "lovely jasmine" (mallikā
 sundara); MSS "gha," "cha," P-R-Sa: "the whole land moved" (calila).
 
-## 26. Chandrashekhara — "gaura-varaṇa heriyā vijurī…" (PK 2148)
+## 26. Chandrashekhara — "gaura-baraṇa heriyā bijurī…" (PK 2148)
 *Nagari-bhava (only at the end). Gaura's form. Seeing His golden colour, the lightning hid in the sky; all the beauty of the three
 worlds is defeated: the lion fled, ashamed before His waist, the elephant gave Him its gait, the does the play of their eyes, the yaks
 went off into the forest, put to shame by His hair. Gaura in the midst of Nadia is a storm for the pride of young women. Raga tori.*[^28-72]
@@ -20226,13 +20221,13 @@ ChSh-002; in chapter 6 deferred to the nagari padas; the GPT number was found in
 Lord's maternal uncle, is the author of PK 2148 only by tradition (S. Ray; cf. PK 1854 — chapter 1); the attribution is not confirmed
 (C). On nagari-bhava see the introductory note to the section (chapter 27).
 [^28-73]: The whole poem is a chain of traditional comparisons: lightning (the colour of the body), lion (slender waist), elephant
-(gait), doe (eyes), yak (the yak's tail, the chamara — the hair); all are "defeated" and "flee." MS "ka": "radiance" (vibhāta) instead of
-"expanse" (vitati).
+(gait), doe (eyes), yak (the yak's tail, the chamara — the hair); all are "defeated" and "flee." MS "ka": "radiance" (bibhāta) instead of
+"expanse" (bitati).
 [^28-74]: The nagari motif is only in the last couplet: Gaura's beauty crushes the pride and modesty of young women (a general formula,
-chapter 23, note 7). MS P-R-Sa and GPT1: "tejite gaurava" — a play on "gaura" / "gaurava" ("pride"): "to make young women give up their
+chapter 23, note 7). MS P-R-Sa and GPT1: "tejite gauraba" — a play on "gaura" / "gauraba" ("pride"): "to make young women give up their
 pride — [their] pride…"; MS "ka": "having given up" (tejiyā).
 
-## 27. Lochana Dasa — "āra śunyācha ālo sai gorā-bhāvera kathā…" (PK 2174)
+## 27. Lochana Dasa — "āra śunyācha ālo sai gorā-bhābera kathā…" (PK 2174)
 *Nagari-bhava. "Have you heard, friend, what comes of love for Gora?" A young wife sat down to grind turmeric — and remembered
 turmeric-coloured Gorachand: what cooking now! tears wet her breast and flooded the grinding-stone, the paste was ruined. The poet:
 such an avatara as Gora has never been and never will be. Raga shri.*[^28-75]
@@ -20259,8 +20254,8 @@ heart is restless, friend, the soul finds no place"); GPT2 — sect. 3.2 (catalo
 of the *Chaitanya-mangala*, disciple of Narahari Sarakara, is a singer of nagari-bhava (introductory note); the pada is not part of the
 *Chaitanya-mangala* (not found in our translation). Signature in PK — a recognized author (B). On nagari-bhava see the introductory note to
 the section (chapter 27).
-[^28-76]: "What comes of love for Gora" (gorā-bhāvera kathā) — lit. "the tale of Gora-bhava." "The fair one" (gorī) is the young wife; the
-consonance gori — Gora — "turmeric-coloured" (haladi-varaṇa) is the play of the whole poem. MS P-R-Sa: "beside herself in heart" (hṛdaya
+[^28-76]: "What comes of love for Gora" (gorā-bhābera kathā) — lit. "the tale of Gora-bhava." "The fair one" (gorī) is the young wife; the
+consonance gori — Gora — "turmeric-coloured" (haladi-baraṇa) is the play of the whole poem. MS P-R-Sa: "beside herself in heart" (hṛdaya
 ākula); MS "ka": "Gora" (gorā) instead of "gori."
 [^28-77]: "Such an avatara has never been and never will be" is Lochana's praise of Gaura as the highest incarnation; GPT1: "such an
 avatara." Tears, confusion, inability to attend to work are signs of bhava (cf. CC on tears of prema), not of worldly passion; the
@@ -20344,9 +20339,9 @@ Yadunandana says: he floats in that rasa.[^29-4]
 
 [^29-1]: Signature: "Yadunandana." BR, 12th wave: ed. 1913 (Murshidabad), pp. 904–905 (scan PDF pp. 912–913); ed. 1960, vv. 2803–2807. Narahari
 Chakravarti, describing the places of Navadvipa, says that the Lord lingered by this tree and then went along the bank of the Ganga, "and here
-women full of anuraga (anurāgavatī) joyfully and softly spoke with one another" — and gives their words in songs, "the first in a song of Sri
+women full of anuraga (anurāgabatī) joyfully and softly spoke with one another" — and gives their words in songs, "the first in a song of Sri
 Yadunandana Chakravarti, disciple of Sri Dasa Gadadhara Thakura" (so in BR). Eleven more songs follow in BR (nos. 2–7 of this chapter; Narahari's
-padas "nadīyāra mājhāre nācaye gorācām̐da" and "sai kivā aparūpa rūpa", translated in chapter 17; Yadunandana's pada "dekha dekha gorācānde" —
+padas "nadīyāra mājhāre nācaye gorācām̐da" and "sai kibā aparūpa rūpa", translated in chapter 17; Yadunandana's pada "dekha dekha gorācānde" —
 chapter 11, no. 12; Vasu's PK 2149 — chapter 27, no. 7; Devakinandana's pada "nadīyāra mājhāre onā rūpa" — the poet is outside the corpus).
 GPT1 — p. 167, no. 34 (dhanashi; scan PDF p. 426); GPT2 — sect. 3.2, no. 34 (catalogue: YN-002). Yadunandana Chakravarti was a disciple of
 Gadadhara Dasa, a poet of the late 16th century; his padas in BR are B. Nagari-bhava — see the introductory note to the section (chapter 27).
@@ -20358,7 +20353,7 @@ at the sight of the Lord's ecstasy; there is no desire in the text.
 [^29-4]: Dasa Gadadhara (Gadadhara Dasa), a companion of the Lord, was Yadunandana's teacher; he "smiles", understanding what is happening to the Lord.
 "He floats in that rasa" may refer either to Gadadhara Dasa or to the poet himself; GPT: a "lahu lahu" (light, soft) smile.
 
-## 2. Yadunandana — "dāsa gadādhara vadana heri…" (BR 12, p. 905)
+## 2. Yadunandana — "dāsa gadādhara badana heri…" (BR 12, p. 905)
 *Nagari-bhava. The second of Yadunandana's two "gitas" at the beginning of the cycle: Gaura, looking at the face of Dasa Gadadhara, signals to him
 with the corner of His eye, thrills, smiles; the woman saw Him on the bank of the Ganga — He steals the eyes of all young women. Raga kamoda.*[^29-5]
 
@@ -20452,7 +20447,7 @@ now weeps aloud, His whole body bristling —
 this is what Yadunandana loves.[^29-15]
 
 [^29-12]: Signature: "Yadunandana." BR 12: ed. 1913, p. 906 ("punaḥ kācit karṇāṭikā", scan PDF p. 914); ed. 1960, vv. 2819–2823. GPT1 — p. 169, no. 37
-(karnatika; scan PDF p. 428); GPT2 — sect. 3.2, no. 37 (catalogue: YN-003). Readings: GPT1 "āra sava sei śākhī", BR 1913 "sei sakhi" (noting the
+(karnatika; scan PDF p. 428); GPT2 — sect. 3.2, no. 37 (catalogue: YN-003). Readings: GPT1 "āra saba sei śākhī", BR 1913 "sei sakhi" (noting the
 reading "sei sāthi"); BR 1960 "gorārūpa-gāthā". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^29-13]: A tripadi; the refrain has three lines. The song is about Gora, while "the secret play with the wives of Vraja" is Krishna's lila: the
 townswoman (and the poet) recognizes in Gaura Krishna of Vraja Himself; cf. 4.3 "the form of the Moon of Gokula" and the endings of nos. 5–7
@@ -20463,7 +20458,7 @@ Manmatha, the "god of love", is Kamadeva.
 [^29-15]: Weeping, laughter, closed eyes, bristling hair (pulaka) are the Lord's sattvika-bhavas in the bhava of Krishna longing for Radha (cf. no. 1).
 The stanza turns from the townswomen to Gaura Himself: it is this bhava of His that the poet loves.
 
-## 5. Yadunandana — "sai go nadīyā-jāhnavī-kūle…" (BR 12, p. 908; GPT1 p. 168, no. 36)
+## 5. Yadunandana — "sai go nadīyā-jāhnabī-kūle…" (BR 12, p. 908; GPT1 p. 168, no. 36)
 *Nagari-bhava (praise of His form). "Friend, on the bank of the Jahnavi in Nadia — what creator fashioned that body from golden shirisha flowers?"
 His face a lotus, His lips bandhuli, His nose a kimshuka bud, His arms golden creepers; Gauranga cries "Hari!" and weeps on the lap of Dasa
 Gadadhara; is He not the Moon of Gokula? Raga mallarika.*[^29-16]
@@ -20493,7 +20488,7 @@ I do not know why Gauranga weeps on the lap of Dasa Gadadhara.
 Yadunandana says: don't you know? — is He not the Moon of Gokula?[^29-18]
 
 [^29-16]: Signature: "Yadunandana." BR 12: ed. 1913, p. 908 ("kācicca mallārikā", scan PDF p. 916); ed. 1960, vv. 2843–2850. GPT1 — p. 168, no. 36 (mallarika;
-scan PDF p. 427; first line "soi lo nadīyā-jāhnavīkūle"); GPT2 — sect. 3.2, no. 36 (catalogue: YN-006; Majumdar knew line 5.7). B. The nagari motif
+scan PDF p. 427; first line "soi lo nadīyā-jāhnabīkūle"); GPT2 — sect. 3.2, no. 36 (catalogue: YN-006; Majumdar knew line 5.7). B. The nagari motif
 is only in the address to a friend and in line 5.6; in substance this is praise of the Lord's beauty. Nagari-bhava — see the introductory note to
 the section (chapter 27).
 [^29-17]: Each stanza is a short opening line and a long line of comparisons (tripadi). Bandhuli — a red flower; kunda — white jasmine; kimshuka — the
@@ -20538,7 +20533,7 @@ image of the fullness of darshana, not of worldly desire.
 [^29-22]: "The Beauty of Gokula" (gokulasundara) is Krishna. The friend "knows and does not know": she sees something extraordinary but does not
 understand that before her is Krishna Himself — and fears for herself; the poet reveals the secret to her.
 
-## 7. Yadunandana — "gauravaraṇa sonā chaṭaka cām̐dera jonā…" (BR 12, p. 910; GPT1 p. 168, no. 35)
+## 7. Yadunandana — "gaurabaraṇa sonā chaṭaka cām̐dera jonā…" (BR 12, p. 910; GPT1 p. 168, no. 35)
 *Nagari-bhava (only in the address "little friend" and in the words "destroying the composure of young women"). Golden Gaura, stirred by bhava,
 weeps in streams, His whole body bristling, cries "Hari!", embraces Gadai and weeps: "What more, what more?…" — "is He not the Beloved of
 Gokula?" Raga ashavari.*[^29-23]
@@ -20558,7 +20553,7 @@ again and again, choking, He cries "Hari!" — and floods the world with weeping
 **7.5.** Whoever knows, knows it in the heart; my mind is immersed in that rasa.
 Yadunandana says: little friend, is He not the Beloved of Gokula?[^29-25]
 
-[^29-23]: Signature: "Yadunandana." BR 12: ed. 1913, p. 910 ("kācicca āśāvarī", scan PDF p. 918); ed. 1960, vv. 2870–2874. GPT1 — p. 168, no. 35 (ashavari;
+[^29-23]: Signature: "Yadunandana." BR 12: ed. 1913, p. 910 ("kācicca āśābarī", scan PDF p. 918); ed. 1960, vv. 2870–2874. GPT1 — p. 168, no. 35 (ashavari;
 scan PDF p. 427; the number is garbled in the recognized text); GPT2 — sect. 3.2 (catalogue: YN-012). GPT1 readings: "taruṇī dhairaja nāśi",
 "nā jāni ki rase bhule". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^29-24]: "Stands motionless" (caraṇe thira, lit. "firm on the feet") — the Lord stands still in bhava; it can also be read as "His feet are the young
@@ -20566,7 +20561,7 @@ dawn". "Heavier than the earth" (mahī jini bhāra bharā) — the fullness of f
 [^29-25]: "The Beloved of Gokula" (gokula-piyā) is Krishna, the Beloved of Radha and the gopis; Gaura, embracing Gadadhara (Radha) and asking
 "what more?", experiences the love of Radha and Krishna. "Little friend" (ājuli) — see note 7.
 
-## 8. Narahari — "velā avasāne nanadinī sane…" (GPT1 p. 169, no. 39)
+## 8. Narahari — "belā abasāne nanadinī sane…" (GPT1 p. 169, no. 39)
 *Nagari-bhava. At dusk a young wife went with her sister-in-law to fetch water, saw Gaurangachand and came back having broken her pot; her body
 trembles, her feet will not walk, in the ocean of His beauty there is no bottom; the poet: whoever has the sweetness of Gauranga awakened in the
 heart, his family honour and good conduct sink in anuraga for Gorachand. Raga kamoda. **Attribution: probably Sarakara** — simple Bengali, brief;
@@ -20619,7 +20614,7 @@ no. 41, translated in chapter 3, no. 2). GPT only — C. Nagari-bhava — see th
 [^29-30]: "The giver of love embodied" (pīriti-mūrati-dātā) can also be read as "Gora's name is love itself and the giver (of prema)". The ending (9.4)
 is not a nagari motif but an ordinary Vaishnava prayer for shelter at the feet of a devotee in whose heart the name of Gaura lives.
 
-## 10. Narahari — "marama kahiva sajani kāya…" (GPT1 p. 170, no. 42)
+## 10. Narahari — "marama kahiba sajani kāya…" (GPT1 p. 170, no. 42)
 *Nagari-bhava. "To whom shall I reveal the secret of my heart, friend?" Wherever one looks there is Gauranga: He has entered the lake of the heart,
 everything has become Gauranga; awake and asleep, at meals and on the way — only He; in the sky — He; Gauranga's feet are bound to the poet's
 heart. Raga dhanashi. **Attribution: probably Sarakara** — simple Bengali; no witnesses; the GPT2 index — Sarakara.*[^29-31]
@@ -20665,7 +20660,7 @@ catalogue of stage 1 did not have this line (**new line**: NG-334). GPT only —
 blue flax flower (Krishna's colour), champaka the golden one (Gaura's colour): both colours stand in one row; "śoṇa" — red (or: "the champaka that
 glows red"). The nose — "nāsākūpa" (lit. "the nostrils").
 
-## 12. Narahari — "ke āche emana manera vedana…" (GPT1 p. 171, no. 44)
+## 12. Narahari — "ke āche emana manera bedana…" (GPT1 p. 171, no. 44)
 *Nagari-bhava. "To whom shall I reveal my heart's pain, friend? — I will tell you": at dusk she went with her sister-in-law to fetch water, saw
 Gauranga and broke her pot — shame is all she gained; the sister-in-law is a black serpent, evil-tongued; the tears cannot be held back; Gaura
 shines on the bank of the Suradhuni like the autumn moon, lighting up both banks — but the sister-in-law did not let her gaze her fill. Raga pahida.
@@ -20717,7 +20712,7 @@ golden Gorachand awakens in the heart.[^29-39]
 [^29-38]: Signature: "Narahari Dasa" (narahari dāsa). GPT1 — p. 171, no. 45 (shri — bara dashakushi; scan PDF p. 430); GPT1 below the line: "in some collections
 this pada has the signature of Vasudeva Ghosha"; GPT2 — sect. 3.2, no. 45 (catalogue: NG-078). The pada is not in PK under either name. GPT only — C.
 GPT1 readings: "pasarā", "añjala" (for "añjana", as in GPT2), "amiñā". Nagari-bhava — see the introductory note to the section (chapter 27).
-[^29-39]: "Fresh anuraga" (nava anurāga) — fresh, ever-growing attachment; so the first love of the gopis is called. The ending again speaks of the
+[^29-39]: "Fresh anuraga" (naba anurāga) — fresh, ever-growing attachment; so the first love of the gopis is called. The ending again speaks of the
 poet's heart.
 
 ## 14. Narahari Dasa — "pīriti-mūrati śacīra dulāla…" (GPT1 p. 189, no. 86; GCC 7.2)
@@ -20783,10 +20778,10 @@ one by one they all gather there — and Narahari admires them.
 [^29-42]: Signature: "Narahari." GPT1 — pp. 189–190, no. 87 (scan PDF pp. 448–449); GPT2 — sect. 3.2, no. 87 (catalogue: NG-081). GCC — kirana 7, pada 3 (ed. 1947,
 pp. 67–68). GCC readings: "keha keha gorācāndera caritra gāiyā", "niśi parabhāta-kāle". B. Nagari-bhava — see the introductory note to the section
 (chapter 27).
-[^29-43]: "I take upon myself their misfortunes" (vālāi laiyā) is a Bengali formula of admiring tenderness (lit. "taking their ills upon oneself"): the
+[^29-43]: "I take upon myself their misfortunes" (bālāi laiyā) is a Bengali formula of admiring tenderness (lit. "taking their ills upon oneself"): the
 poet blesses the townswomen.
 
-## 16. Narahari — "ki kava yuvatī-janera yerūpa pīriti paraspare…" (GPT1 p. 190, no. 88; GCC 7.4)
+## 16. Narahari — "ki kaba yubatī-janera yerūpa pīriti paraspare…" (GPT1 p. 190, no. 88; GCC 7.4)
 *Nagari-bhava. The love of the young townswomen for one another is such that their bodies are different but their heart is one: one, laughing,
 puts her arm round another's neck, another teases; "leave your pretence, tell us about yesterday — what stood in whose way, who saw Gaura the
 jewel and how, how did you spend this night?" Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 7, pada 4.*[^29-44]
@@ -20848,7 +20843,7 @@ are rendered as in the original: this is a poetic convention of the padas on pur
 The tradition does not accept worship of Gaura in the mood of the nagaris (introductory note, chapter 27), and the *Chaitanya-bhagavata* says
 plainly that the Lord in Navadvipa did not look at women.
 
-## 18. Narahari — "kālikāra kathā ki kava sajani…" (GPT1 p. 191, no. 90; GCC 7.6)
+## 18. Narahari — "kālikāra kathā ki kaba sajani…" (GPT1 p. 191, no. 90; GCC 7.6)
 *Nagari-bhava. Another townswoman's story: yesterday she was sitting alone and heard that Gaura was passing; she hurried — and He with His
 companions flashed by like lightning; she returned home in fear of the elders; someone told her mother-in-law, who came running in anger; the
 young wife swore she had not seen Him and touched her feet — and the mother-in-law believed her. Raga "yatharaga". **Attribution: probably
@@ -20883,7 +20878,7 @@ Nagari-bhava — see the introductory note to the section (chapter 27).
 by the first reading, more likely in the context of GCC, where the poet constantly praises the townswomen's "stratagems" (cf. 17.8, 20.16). The lie
 and the oath are a poetic convention of the padas on purvaraga (cf. note 47).
 
-## 19. Narahari — "nilaji haiyā vali ye sajani…" (GPT1 p. 191, no. 91; GCC 7.7)
+## 19. Narahari — "nilaji haiyā bali ye sajani…" (GPT1 p. 191, no. 91; GCC 7.7)
 *Nagari-bhava. A townswoman's story: her husband's aunt came to visit for the first time in a long while; she joyfully sat beside her, but then
 heard that Gaura was passing; she wanted to go out of the door — but the aunt, suspecting nothing, held her back by the end of her sari, adjuring
 her "by my head", and asked about household matters; her kindness seemed like poison; the young wife did not know how to break away. Raga
@@ -20914,7 +20909,7 @@ out of awkwardness I do not show it, but inside I am burning.
 Narahari says: don't you know any stratagems — how to fool the aunt?[^29-52]
 
 [^29-50]: Signature: "Narahari." GPT1 — pp. 191–192, no. 91 (scan PDF pp. 450–451); GPT2 — sect. 3.2 (the number is not recognized in the GPT2 OCR). The catalogue of
-stage 1 did not have this line (**new line**: NG-335). GCC — kirana 7, pada 7 (pp. 69–70); GCC readings: "nilaji haiyā valiye sajani śunaha āmāra kathā",
+stage 1 did not have this line (**new line**: NG-335). GCC — kirana 7, pada 7 (pp. 69–70); GCC readings: "nilaji haiyā baliye sajani śunaha āmāra kathā",
 "mo'pāne cāya", "māthāra śapatha diyā". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^29-51]: "The husband's aunt" (māsaisa, māsaśāśa) — the mother-in-law's sister, come on a visit. The plot is an obstacle to darshana: the same convention
 as in nos. 17–18 (the elders prevent the heroine from seeing the beloved).
@@ -20978,13 +20973,13 @@ Narahari says: I take upon myself all the ills of your cleverness![^29-56]
 readings: "dhīre dhīre kahe kisera lāgiyā nā kaha marama more", "śuniyā pāiye lāja", "paśiye gaṅgāra jale", "mukha mochāla āpana kare". B.
 Nagari-bhava — see the introductory note to the section (chapter 27).
 [^29-54]: "Broke into a hundred pieces" — the motif of the broken pot (cf. nos. 8, 12 and note 27). "Composure, dharma and shame went away" — see note 28.
-[^29-55]: After 20.10 GPT1 (p. 192, at the bottom) has an extra half-line "ki karili taila phelāli, valaye śāśuṛī" ("'What have you done — you've spilt the
+[^29-55]: After 20.10 GPT1 (p. 192, at the bottom) has an extra half-line "ki karili taila phelāli, balaye śāśuṛī" ("'What have you done — you've spilt the
 oil!' says the mother-in-law"), which is not in GCC and does not fit the story (it is the sister-in-law who speaks); probably an insertion or a
 printer's error. It is not included in the translation.
-[^29-56]: "I take upon myself all the ills" (vālāi laiyā mari) is a formula of admiration (cf. note 43): the poet delights in the heroine's resourcefulness.
+[^29-56]: "I take upon myself all the ills" (bālāi laiyā mari) is a formula of admiration (cf. note 43): the poet delights in the heroine's resourcefulness.
 The invented story about the sister-in-law's friends is the same convention of "stratagems" (note 47).
 
-## 21. Narahari — "ki kava sajani nanadera kathā…" (GPT1 pp. 193–194, no. 93; GCC 7.9)
+## 21. Narahari — "ki kaba sajani nanadera kathā…" (GPT1 pp. 193–194, no. 93; GCC 7.9)
 *Nagari-bhava. A townswoman's story: her sister-in-law, who thought herself the only faithful wife in Nadia and would not let her speak to anyone,
 yesterday went for water herself and on the road to the ghat saw Gora with His companions — and lost all composure: the pot fell, her hair came
 loose, her clothes slipped; coming to herself, she in embarrassment begged her brother's wife to keep the secret and promised to help her in
@@ -21034,8 +21029,8 @@ and remembering what had gone before, much bitterness rose in me.
 Narahari says: one whose conduct is noble guards another's shame.[^29-59]
 
 [^29-57]: Signature: "Narahari." GPT1 — pp. 193–194, no. 93 (scan PDF pp. 452–453); GPT2 — sect. 3.2, no. 93 (catalogue: NG-086; "nadera" for "nanadera"). GCC — kirana 7,
-pada 9 (pp. 71–72); GCC readings: "teṃha pativratā" (so also GPT1), "haila viṣama tharahari tanu" (GPT1 "narahari tanu" — a printer's error: a signature
-is out of place here), "prāṇadhana diyā sahāya kariva valaye śapatha khā'yā". B. Nagari-bhava — see the introductory note to the section (chapter 27).
+pada 9 (pp. 71–72); GCC readings: "teṃha patibratā" (so also GPT1), "haila biṣama tharahari tanu" (GPT1 "narahari tanu" — a printer's error: a signature
+is out of place here), "prāṇadhana diyā sahāya kariba balaye śapatha khā'yā". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^29-58]: "Madana's onslaught" (madana-bhare) — attraction, of which the original speaks directly; translated precisely. 21.7–21.8 are signs of being
 overwhelmed (trembling, the falling pot, loosened hair, slipping clothes, oblivion), usual in the padas about the gopis at the sight of Krishna
 (cf. *Bhag.* 10.29 and note 79 of chapter 28). The tradition does not accept the image of Gaura as nagara (introductory note, chapter 27); the Lord
@@ -21105,14 +21100,14 @@ the pain of her heart only doubled. Raga "yatharaga". **Attribution: probably Ch
 p. 73; scan PDF p. 78). Nos. 94–99 of this chapter continue the 7th kirana of GCC — the townswomen of Navadvipa telling their friends in the morning
 (beginning — chapter 29, nos. 14–21): GCC 7.10–7.12 = nos. 94–96, 7.14–7.16 = nos. 97–99; GCC 7.13 (how a townswoman remembered Gaura while cooking)
 was not taken into GPT. GCC pp. 73–80 were checked against the scan (PDF pp. 78–85; re-OCRed with tesseract); pp. 81–88 (GCC 7.17–7.28) are missing
-from the only available scan (see n. 18). GCC readings: "parāṇa sai" (so also GPT2), "deya e khom̐ṭā", "bhuruyuga vara bhaṅgima chānde". Metre — short payar (a couplet to a
+from the only available scan (see n. 18). GCC readings: "parāṇa sai" (so also GPT2), "deya e khom̐ṭā", "bhuruyuga bara bhaṅgima chānde". Metre — short payar (a couplet to a
 line). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^30-2]: "Many a Kamadeva swoons" (mūrache kateka kāma) — the usual praise in the padas of the Lord's beauty, surpassing that of the god of love
 (cf. Krishna's name Madana-mohana, "He who enchants Madana himself").
 [^30-3]: The poet's consolation is a convention of the purvaraga padas; in the GCC padas the fulfilment of the wish is a darshan of Gaura seen from
 afar (cf. nos. 2–3 and 5).
 
-## 2. Narahari — "ki valiva ago gharera kathā…" (GPT1 pp. 195–196, no. 95; GCC 7.11)
+## 2. Narahari — "ki baliba ago gharera kathā…" (GPT1 pp. 195–196, no. 95; GCC 7.11)
 *Nagari-bhava. A townswoman's story: yesterday morning her mother-in-law went out, leaving her with her sister-in-law; the latter picked a quarrel
 and went off in a huff to the neighbours; alone at the window, the townswoman saw Gaura passing and threw Him a withered kumuda bud; Gora, taking
 it, said to the flower: "Do not grieve — the moon will rise"; at His glance she lost all strength; to her mother-in-law, on her return, she
@@ -21197,7 +21192,7 @@ tradition does not accept worship of Gaura in the nagari mood (introductory note
 [^30-7]: The deception of the mother-in-law (the complaint against the sister-in-law, "fatigue" instead of the true cause) and the poet's praise of
 the "tricks" are rendered as in the original — a poetic convention of the purvaraga padas (cf. n. 47 of chapter 29).
 
-## 3. Narahari — "śuna go sajani valie tore…" (GPT1 p. 196, no. 96; GCC 7.12)
+## 3. Narahari — "śuna go sajani balie tore…" (GPT1 p. 196, no. 96; GCC 7.12)
 *Nagari-bhava. A townswoman's story: putting on a new sari, she went alone to her brother's house and on the way met Gora; at His glance she lost
 her composure and barely made it home; her mother-in-law, seeing tears in her eyes, asked what had happened — "I went out of the gate and saw a
 terrible snake"; the frightened mother-in-law splashed water on her face. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 7,
@@ -21240,8 +21235,8 @@ pada 12.*[^30-8]
 **3.18.** Narahari says: you fear nothing — you certainly know how to fool your mother-in-law!
 
 [^30-8]: Signature — "Narahari". GPT1 — p. 196, no. 96 (scan PDF p. 455); GPT2 — sect. 3.2, no. 96 (catalogue: NG-088). GCC — kirana 7, pada 12 (p. 75; scan PDF
-p. 80). GCC has two extra couplets: after 3.15 — "se punaḥ mo pāne āila dhāiyā | palāinu mui vyākula haiyā ||" ("It rushed at me — I fled in
-alarm"), after 3.17 — "nija kara dhari āmāra śire | māne śive kata manera ḍare ||" ("Laying her hand on my head, she in fear vowed many offerings to
+p. 80). GCC has two extra couplets: after 3.15 — "se punaḥ mo pāne āila dhāiyā | palāinu mui byākula haiyā ||" ("It rushed at me — I fled in
+alarm"), after 3.17 — "nija kara dhari āmāra śire | māne śibe kata manera ḍare ||" ("Laying her hand on my head, she in fear vowed many offerings to
 Shiva"); the translation follows GPT1. Short payar. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^30-9]: The slipping clothes are a sign of agitation, as in the padas on the gopis (cf. n. 58 of chapter 29); the original states it plainly, translated
 exactly. The Lord's smile is the same as in no. 2 (2.14): He merely passes along the road. The tradition does not accept the image of Gaura as
@@ -21249,7 +21244,7 @@ nagara (introductory note, chapter 27).
 [^30-10]: "A terrible snake" is an ambiguous answer: in no. 2 (2.15) Gaura's glance stung the townswoman "as if a deadly snake had bitten" her. The
 deception of the mother-in-law and the poet's praise (3.18) are a poetic convention of the purvaraga padas (cf. n. 47 of chapter 29).
 
-## 4. Narahari — "nanadī vicāra kariyā garave…" (GPT1 pp. 196–197, no. 97; GCC 7.14)
+## 4. Narahari — "nanadī bicāra kariyā garabe…" (GPT1 pp. 196–197, no. 97; GCC 7.14)
 *Nagari-bhava. A townswoman's story: her sister-in-law, having planned mischief, dressed up and went for water, leaving her alone at home; on the
 road she met Gaura with His companions and, forgetting all her schemes, followed Him with the pot on her hip; the mother-in-law caught her so and
 snatched away the pot — while the daughter-in-law meanwhile saw Gaura on her own road; the mother-in-law praised her, and the sister-in-law was
@@ -21280,8 +21275,8 @@ and what shall I say of my sister-in-law's shame — she is at home as if she we
 tying her own fault in the end of her sari, she seeks to blame another.
 
 [^30-11]: Signature — "Narahari". GPT1 — pp. 196–197, no. 97 (scan PDF pp. 455–456); GPT2 — sect. 3.2, no. 97 (catalogue: NG-089). GCC — kirana 7, pada 14
-(pp. 77–79; scan PDF pp. 82–84). In GCC the pada is twice as long: GPT begins it from the middle (GCC "erūpa vicāra kariyā garave" — "having thus
-thought it out…"; GPT "nanadī vicāra kariyā"). In the omitted first half (13 couplets, pp. 77–78) the townswoman tells how her sister-in-law and
+(pp. 77–79; scan PDF pp. 82–84). In GCC the pada is twice as long: GPT begins it from the middle (GCC "erūpa bicāra kariyā garabe" — "having thus
+thought it out…"; GPT "nanadī bicāra kariyā"). In the omitted first half (13 couplets, pp. 77–78) the townswoman tells how her sister-in-law and
 her friends plotted to disgrace her: she told the mother-in-law that the bride would bring shame on the house with "a brahmana's son" (a hint at
 Gaura); the mother-in-law replied that she would believe it only when she saw it with her own eyes; then the sister-in-law resolved to leave the
 bride alone, on her way to fetch water to send a young man she knew to the house, and then to call the neighbours and expose her. The translation
@@ -21290,7 +21285,7 @@ follows GPT1; the omitted part is not translated (the text is that of GPT), only
 [^30-12]: The strict sister-in-law who forgets her schemes at the sight of Gaura is a recurrent motif of GCC (cf. chapter 29, no. 21): even the
 townswomen's adversaries lose their composure on seeing Gaura. The Lord here merely walks along the road with His companions.
 
-## 5. Narahari — "ki valiva sakhi kakhana saphala…" (GPT1 p. 197, no. 98; GCC 7.15)
+## 5. Narahari — "ki baliba sakhi kakhana saphala…" (GPT1 p. 197, no. 98; GCC 7.15)
 *Nagari-bhava. A townswoman's story: her wish has never come true — the Creator has always put obstacles in the way; but yesterday, hearing that
 Gaura was coming, she went up to the upper gallery and saw Him; the fragrance of His body reached her; Gora turned towards her — and just then her
 mother-in-law called her; she went away, but the mother-in-law let her go for water. Raga "yatharaga". **Attribution: probably Chakravarti** —
@@ -21321,7 +21316,7 @@ section (chapter 27).
 [^30-14]: "The Beloved of my life" (parāṇa-piyā) — the heroine's word for Gaura, as in the padas on the gopis for Krishna (cf. n. 46 of chapter 29);
 the translation is faithful to the author.
 
-## 6. Narahari — "sajani, kata nā kahiva āmāra dukhera kāhinī kathā…" (GPT1 p. 197, no. 99; GCC 7.16)
+## 6. Narahari — "sajani, kata nā kahiba āmāra dukhera kāhinī kathā…" (GPT1 p. 197, no. 99; GCC 7.16)
 *Nagari-bhava. A townswoman's story: her mother-in-law, hearing that Gaura was coming, hurried home, bolted the door and sat in the courtyard on
 guard; the daughter-in-law pressed her eyes to a tiny window and saw Gaura among His companions; with a look she let Him know how it was with her;
 when the mother-in-law unbolted the door, the daughter-in-law was already sitting by the hearth. Raga "yatharaga". **Attribution: probably
@@ -21353,7 +21348,7 @@ Narahari says: if that calamity of an eye were gone too, all would be well![^30-
 
 [^30-15]: Signature — "Narahari". GPT1 — p. 197, no. 99 (scan PDF p. 456); GPT2 — sect. 3.2, no. 99 (catalogue: NG-090). GCC — kirana 7, pada 16 (p. 80; scan PDF
 p. 85) — the last pada of GCC before the lacuna in the scan (pp. 81–88 are missing; the next surviving one is GCC 7.29 = GPT1 no. 124). GCC readings:
-"āmāke randhane rākhiyā", "alapa gavākṣa āchila tāhāte sam̐pinu yugala ām̐khi", "calaye kuñjara-gati". B. Nagari-bhava — see the introductory note to the
+"āmāke randhane rākhiyā", "alapa gabākṣa āchila tāhāte sam̐pinu yugala ām̐khi", "calaye kuñjara-gati". B. Nagari-bhava — see the introductory note to the
 section (chapter 27).
 [^30-16]: "Crown of connoisseurs of rasa" (rasikaśekhara), "Jewel of the clever" (caturamaṇi), "the gait of an elephant" are epithets of Krishna
 transferred by the poet to Gaura; what He said the pada does not tell. As in the other GCC padas, the Lord merely passes along the street among His
@@ -21361,7 +21356,7 @@ companions; all the rest takes place in the townswoman's heart.
 [^30-17]: The poet's joke at the one-eyed (kāṇī) mother-in-law — literally "let that calamity of an eye be gone too, and it will be well"; translated
 without softening.
 
-## 7. Narahari — "ekadina āmi śāśuṛī nanadī vasiyāchi āṅgināya…" (GPT1 p. 198, no. 100)
+## 7. Narahari — "ekadina āmi śāśuṛī nanadī basiyāchi āṅgināya…" (GPT1 p. 198, no. 100)
 *Nagari-bhava. A townswoman's comic story: once she, her mother-in-law and her sister-in-law were sitting in the courtyard when Gauranga passed by;
 the sister-in-law, gazing at Him, so forgot herself that her clothes fell from her; the daughter-in-law went to dress her — and forgot herself
 the same way; the mother-in-law came to rebuke them — and the same befell her; coming to their senses, the mother-in-law told her daughter-in-law
@@ -21412,7 +21407,7 @@ the Lord did not look at women, and the Gaudiya tradition does not accept worshi
 padas are a monument of late poetry, not an image of the Lord.
 [^30-20]: "To cover the cut-off ear with one's hair" (cula diyā kāṭā kāṇa ḍhākā) — a proverb: to hide one's disgrace.
 
-## 8. Narahari — "ki kava sajani āṅgināra mājhe…" (GPT1 p. 199, no. 101)
+## 8. Narahari — "ki kaba sajani āṅgināra mājhe…" (GPT1 p. 199, no. 101)
 *Nagari-bhava. A townswoman's story: hearing that Gora was approaching their house, she hastily finished the housework so as to go and look — but
 her mother-in-law, guessing, shouted at her, and she could not take a single step. Raga "yatharaga". **Attribution: not established** — GPT only
 (see n. 18).*[^30-21]
@@ -21432,7 +21427,7 @@ Narahari says: while there is a mother-in-law, the pain of the heart will not go
 [^30-21]: Signature — "Narahari". GPT1 — p. 199, no. 101 (scan PDF p. 458); GPT2 — sect. 3.2, no. 101 (catalogue: NG-339). No witnesses; probably from the lost
 pages of GCC (pp. 81–88), but this cannot be established (n. 18). C. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 9. Narahari — "śuna śuna sai kālikāra kathā ki āra valiva tore…" (GPT1 p. 199, no. 102)
+## 9. Narahari — "śuna śuna sai kālikāra kathā ki āra baliba tore…" (GPT1 p. 199, no. 102)
 *Nagari-bhava. A townswoman's story: yesterday her mother-in-law was instructing her in the dharma of a noble wife — when a wondrous sound of kirtana
 arose; hearing the mridangas, the mother-in-law became as if mad, dropped her work and called her daughter-in-law to come along; to her excuses she
 replied: "Look but once on that moonlike face — and your life will not be in vain." Raga "yatharaga". **Attribution: not established** — GPT only
@@ -21460,9 +21455,9 @@ Narahari says: I take upon myself all the ills of your mother-in-law![^30-23]
 pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^30-23]: The strict mother-in-law whom the sound of Gaura's kirtana makes "mad" is an image of the power of sankirtana, which even the elders of
 Nadia could not resist (cf. *Chaitanya-bhagavata*, Madhya-khanda: the whole town gathers for the Lord's kirtana). Her words "make your birth
-fruitful" are a call to the darshan of the Lord; the poet's praise is a formula of fond admiration (vālāi laiyā, cf. n. 43 of chapter 29).
+fruitful" are a call to the darshan of the Lord; the poet's praise is a formula of fond admiration (bālāi laiyā, cf. n. 43 of chapter 29).
 
-## 10. Narahari — "śuna śuna sai divā avasāne…" (GPT1 pp. 199–200, no. 103)
+## 10. Narahari — "śuna śuna sai dibā abasāne…" (GPT1 pp. 199–200, no. 103)
 *Nagari-bhava. A townswoman's story: at the close of day, hearing that Gaura was coming, she joyfully went out of the gate — and, as ill luck would
 have it, ran into her father-in-law there; he heaped abuse on her and in anger threatened to leave Nadia; at these words her heart sank. The poet's
 consolation: who can leave Nadia? Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-24]
@@ -21513,7 +21508,7 @@ pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to the secti
 of the power of sankirtana (cf. nos. 9 and 13). The poet's consolation is the same convention of the purvaraga padas as the praise of the
 townswomen's tricks (n. 7).
 
-## 12. Narahari — "dukhera kāhinī ki kava sajani…" (GPT1 pp. 200–201, no. 105)
+## 12. Narahari — "dukhera kāhinī ki kaba sajani…" (GPT1 pp. 200–201, no. 105)
 *Nagari-bhava. A townswoman's story: she burns in the taunts of the neighbours; her friend knows about her mother-in-law and sister-in-law, while her
 father-in-law — a hunchbacked old man who can hardly walk — prays to Shiva with offerings that the young wives may not leave the house; and when Gaura
 begins kirtana, the old man, hearing the mridangas, looks about in alarm, abuses everyone and sets a guard at the gate. The poet: who will forbid going
@@ -21591,10 +21586,10 @@ pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to the secti
 (dudiga) — the father's family and the husband's.
 [^30-32]: 13.6–13.7: the father-in-law who rushes at his daughter-in-law with a club and, at the sight of Gaura, breaks into dance crying "Hari!" is an
 image of the transforming power of the Lord's darshan and of sankirtana; cf. the conversion of the opponents of kirtana in the
-*Chaitanya-bhagavata* (Madhya-khanda). "By your grace" (tuyā kṛpāvale) — in the signatures of these padas the poet addresses the heroine; the words
+*Chaitanya-bhagavata* (Madhya-khanda). "By your grace" (tuyā kṛpābale) — in the signatures of these padas the poet addresses the heroine; the words
 can also be taken as addressed to Gaura.
 
-## 14. Narahari — "rajanī divasa kakhana svapane…" (GPT1 pp. 201–202, no. 107)
+## 14. Narahari — "rajanī dibasa kakhana svapane…" (GPT1 pp. 201–202, no. 107)
 *Nagari-bhava. A townswoman's complaint: all her friends' hopes have been fulfilled, but she is "a wife in the corner": her mother-in-law abuses her
 whenever she steps over the threshold, and to the ghat of the Suradhuni she is accompanied by her watchful sister-in-law, so that she dares not
 even lift her veil. The poet advises her to outwit the wily one. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-33]
@@ -21626,7 +21621,7 @@ the lost pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to 
 chapter 29: the exact meaning of the word is not established). "To rob a thief you must throw dust in his eyes" — a proverb (lit. "doing highway
 robbery upon a thief, one must throw dust in his eyes"). The advice to outwit the elders is a poetic convention (n. 7).
 
-## 15. Narahari — "ki kava sajani manera vedana kalaṅke pūrila deśa…" (GPT1 p. 202, no. 108)
+## 15. Narahari — "ki kaba sajani manera bedana kalaṅke pūrila deśa…" (GPT1 p. 202, no. 108)
 *Nagari-bhava. A townswoman's complaint: the whole neighbourhood is full of gossip about her, though she is in no way to blame — she has only heard
 Gauranga's name from people, has never seen Him, and He does not know her; the neighbours sing of her "disgrace", for in youth every woman is to
 blame. The poet does not believe her: there is no smoke without fire. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-35]
@@ -21655,7 +21650,7 @@ pages of GCC (n. 18). The last couplet is repeated in no. 123 (no. 21). C. Nagar
 is a sign of that love (cf. no. 16: "the whole world has gone mad with love of Him — why should I be the one to blame?"). Translated as in the
 original.
 
-## 16. Narahari Dasa — "ramaṇīramaṇa bhuvanamohana gaurāṅga-ratana sai…" (GPT1 pp. 202–203, no. 109)
+## 16. Narahari Dasa — "ramaṇīramaṇa bhubanamohana gaurāṅga-ratana sai…" (GPT1 pp. 202–203, no. 109)
 *Nagari-bhava. A townswoman asks her friend: the whole world — children, old people, young men and women — has gone mad with love of Gauranga,
 all float in joy seeing His dance and hearing the kirtana — why is she alone defamed? Better to drown herself than to live in Nadia; the poet: in
 life and in death Gora will not forsake her. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-37]
@@ -21683,7 +21678,7 @@ not alone in her love.
 [^30-39]: "I will throw myself into the water and drown" is the usual formula of a loving woman's despair in the padas, not an intention; the poet's
 answer reverses it: Gora will not forsake the one who loves Him, either in life or in death.
 
-## 17. Narahari — "vidhātāra mane nā jāni ki āche…" (GPT1 p. 203, no. 110)
+## 17. Narahari — "bidhātāra mane nā jāni ki āche…" (GPT1 p. 203, no. 110)
 *Nagari-bhava. A townswoman's complaint: yesterday she went to see Gorachand, and her husband, learning of it, heaped abuse on her; her
 brother-in-law, unable to bear her distress, himself rebuked his brother. How then is the wish of her heart to be fulfilled? The poet: do not
 grieve — folly will be destroyed. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-40]
@@ -21702,7 +21697,7 @@ Narahari says: grieve no more — folly will be destroyed.[^30-41]
 
 [^30-40]: Signature — "Narahari". GPT1 — p. 203, no. 110 (scan PDF p. 462); GPT2 — sect. 3.2, no. 110 (catalogue: NG-097). No witnesses; probably from the lost
 pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to the section (chapter 27).
-[^30-41]: "The treasure of my life" (prāṇadhana) — the townswoman's word for Gaura (cf. n. 14). "Folly will be destroyed" (kumati haive nāśa) — from the
+[^30-41]: "The treasure of my life" (prāṇadhana) — the townswoman's word for Gaura (cf. n. 14). "Folly will be destroyed" (kumati haibe nāśa) — from the
 sense of the pada, the folly of the husband who abuses his wife for taking darshan of Gaura: the poet promises not a meeting in defiance of the
 husband but a change in the husband himself (cf. GCC 7.29 = GPT1 no. 124: "my husband is very good" — the husband himself praises Nimai and does
 not forbid the wives to see Him). On the motif "disregarding their husbands" see the introductory note to the section (chapter 27).
@@ -21753,7 +21748,7 @@ of the Lord's mother.
 original (cf. n. 9, and n. 41 of chapter 29: the formula of the supremacy of prema over worldly dharma); the Lord merely stands with His
 companions on the road. The tradition does not accept worship of Gaura in the nagari mood (introductory note, chapter 27).
 
-## 19. Narahari — "ki valiva ogo nanada āmāra, kevala viṣera phala…" (GPT1 pp. 206–207, no. 121)
+## 19. Narahari — "ki baliba ogo nanada āmāra, kebala biṣera phala…" (GPT1 pp. 206–207, no. 121)
 *Nagari-bhava. A townswoman's story: her sister-in-law is a veritable poison fruit, and no trick can be played before her; but she trusts the
 friends and lets her brother's wife go to them at any time — and on this pretext she went yesterday to see Gaurangachand; there follows a
 description of His form from head to foot. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-45]
@@ -21788,7 +21783,7 @@ the lost pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to 
 locks down the back — Gaura before sannyasa; a slender waist, thighs like "inverted plantain stems", the radiance of the nails) — this is
 contemplation of the Lord's beauty, not a worldly description. "A pearl in His nose" (nāsāra mukutā) — so in the original.
 
-## 20. Narahari — "śuna śuna ogo parāṇa sajani nivedi tomāra āge…" (GPT1 p. 207, no. 122)
+## 20. Narahari — "śuna śuna ogo parāṇa sajani nibedi tomāra āge…" (GPT1 p. 207, no. 122)
 *Nagari-bhava. A townswoman's complaint: her sister-in-law is hard-hearted and knows nothing of another's pain; whenever she hears that Gauranga has
 come to someone's house, she, on some pretext and unbeknown to the old woman, runs there herself — but forbids her brother's wife. The poet: such
 is the way of sisters-in-law. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-47]
@@ -21808,7 +21803,7 @@ Narahari says: what is wrong in that? She is showing what a sister-in-law is.
 [^30-47]: Signature — "Narahari". GPT1 — p. 207, no. 122 (scan PDF p. 466); GPT2 — sect. 3.2, no. 122 (catalogue: NG-101). No witnesses; probably from the lost
 pages of GCC (n. 18). C. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 21. Narahari — "sajani to save dekhe sukha pāi…" (GPT1 p. 207, no. 123)
+## 21. Narahari — "sajani to sabe dekhe sukha pāi…" (GPT1 p. 207, no. 123)
 *Nagari-bhava. A townswoman whose friends question her about yesterday laughs and denies it: such talk does not become her. The poet does not
 believe her. Raga "yatharaga". **Attribution: not established** — GPT only (see n. 18).*[^30-48]
 
@@ -21864,11 +21859,11 @@ words spoken in sleep are heard by Gadadhara Pandita, who wakes and then keeps w
 the words of Krishna waking Radha in the kunja at the end of the night (cf. the padas on the waking of Radha and Krishna, nishanta-lila): this is a
 remembrance of Vraja, not nagari-bhava; on Gadadhara as the embodiment of Radha's bhava in Gaura-lila — GGD. The pada is in Vrajabuli (tachu, mohe, tohe,
 majhu). B. The pada stands in the GPT section of nagari padas — see the introductory note to the section (chapter 27).
-[^31-2]: 1.2: "the song of the nectar of your words" (vacanāmṛta-saṅgīta) — so GPT1 and GPT2; GCC has "the nectar of your sigh" (sītkṛta, "sitkara" — a sigh from descriptions of a lovers'
+[^31-2]: 1.2: "the song of the nectar of your words" (bacanāmṛta-saṅgīta) — so GPT1 and GPT2; GCC has "the nectar of your sigh" (sītkṛta, "sitkara" — a sigh from descriptions of a lovers'
 meeting), a more explicit reading; the GPT text is translated. 1.3: "do Me honour" — after the GCC reading "kari kara sammāna" (GPT: "kari mana māna", sense
-unclear); "My heart is bound" — GPT "mana mana vandha" (probably a misprint for GCC "mama mana bandhaka" — "My heart is in pledge [to you]"); "give Me joy"
-(GPT "rabhasa") — GCC "give Me the jewel of a smile" (hāsi ratana). 1.4: "says it again, lost to Himself" (GPT "vahuri nigadata kakhana viśāri"; GCC "bahu
-vinigadata kathana visāri" — "speaks much, forgetting what He says") — the sense of the last words is conjectural.
+unclear); "My heart is bound" — GPT "mana mana bandha" (probably a misprint for GCC "mama mana bandhaka" — "My heart is in pledge [to you]"); "give Me joy"
+(GPT "rabhasa") — GCC "give Me the jewel of a smile" (hāsi ratana). 1.4: "says it again, lost to Himself" (GPT "bahuri nigadata kakhana biśāri"; GCC "bahu
+binigadata kathana bisāri" — "speaks much, forgetting what He says") — the sense of the last words is conjectural.
 
 ## 2. Narahari — "mora pati ati sujana sajani…" (GPT1 pp. 207–208, no. 124; GCC 7.29)
 *Nagari-bhava. A townswoman tells her friend: yesterday her husband, alone with his father, said that Nimai Pandita has the power of God, has
@@ -21913,7 +21908,7 @@ probably Chakravarti** — GCC, kirana 7, pada 29.*[^31-3]
 [^31-3]: Signature — "Narahari". GPT1 — pp. 207–208, no. 124 (scan PDF pp. 466–467); GPT2 — sect. 3.2, no. 124 (catalogue: NG-102). GCC — kirana 7, pada 29 (ed. 1947,
 pp. 89–90; scan PDF pp. 86–87; the pada begins with the first line of p. 89 — directly after the lost pp. 81–88, see n. 18 of chapter 30). GPT nos. 124–126 are
 the last padas of the 7th kirana of GCC (7.29–7.31). GCC readings: "seirūpa hethā", "hema jiniyā" (2.11; GPT1 and GPT2 "hena", a misprint; translated after
-GCC), "āise dhāyā … nivāre aneka kaiyā" (2.15), "pāinu manera sādhā" (2.16). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+GCC), "āise dhāyā … nibāre aneka kaiyā" (2.15), "pāinu manera sādhā" (2.16). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-4]: The husband's speech is praise of the Lord from the lips of a householder of Nadia: Nimai Pandita has "the power of God" (īśvara-śakati), has mastered the
 senses (jitendriya), is merciful to the wicked — cf. in CB (Madhya) the deliverance of Jagai and Madhai and the words that the Lord's kirtana purifies even
 sinners. 2.7 — the story of the wives of the sacrificing brahmanas (Bhag. 10.23): the brahmana priests did not recognise Krishna and refused Him food, while
@@ -21922,7 +21917,7 @@ in conversation with his father.
 [^31-5]: "The Lord of their life" (prāṇanātha) — the townswoman's word for Gaura, as in the padas of the gopis about Krishna (cf. n. 14 of chapter 30); translated
 faithfully to the author. The townswoman herself in this pada only gazes at Gaura from afar, standing by the road.
 
-## 3. Narahari — "śuna śuna sai vidhi arasika…" (GPT1 pp. 208–209, no. 125; GCC 7.30)
+## 3. Narahari — "śuna śuna sai bidhi arasika…" (GPT1 pp. 208–209, no. 125; GCC 7.30)
 *Nagari-bhava. A townswoman laments that the Creator has not settled any of Gaura's companions in her street — then He would come there too;
 yesterday she went with her husband's aunt to the house of Murari Gupta, where the young wives were preparing sandal paste and garlands for
 Gauranga's coming, but the aunt took her away; on the road, looking back, she saw Gaura with His companions — lips, smile, brows, sandal on His
@@ -21956,8 +21951,8 @@ slipped away. The poet teases her about her shame. Raga "yatharaga". **Attributi
 [^31-6]: Signature — "Narahari". GPT1 — pp. 208–209, no. 125 (scan PDF pp. 467–468); GPT2 — sect. 3.2, no. 125 (catalogue: NG-103). GCC — kirana 7, pada 30 (ed. 1947,
 pp. 90–91; scan PDF pp. 87–88). It is followed in GCC by a short concluding stanza (7.31, metre "surata-surati": the townswomen, recalling the past day, each tell
 their own) and the colophon of the 7th kirana: "the morning doings… the description of the doings of the nagaris of Navadvipa"; stanza 7.31 was not taken
-into GPT. GCC readings: "prāṇapriyā" (3.4), "gaurāṅga āsive hethā", "rahite nā pālum̐ tathā" (3.5), "daśana tāraka-chaṭā" — "the teeth — a gleam of stars"
-(3.7), "majaye yuvatī jāti" (3.8), "dekhilum̐" (3.10). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+into GPT. GCC readings: "prāṇapriyā" (3.4), "gaurāṅga āsibe hethā", "rahite nā pālum̐ tathā" (3.5), "daśana tāraka-chaṭā" — "the teeth — a gleam of stars"
+(3.7), "majaye yubatī jāti" (3.8), "dekhilum̐" (3.10). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-7]: Murari Gupta — a physician from Shrihatta, the Lord's companion from childhood, author of a Sanskrit life of Him (Murari's "Kadacha"; our translation);
 his house in Navadvipa is one of the places of the Lord's kirtanas (CB, Madhya).
 [^31-8]: "The husband's elder brother" (bhāsura) — before him a young wife by custom covers her face and does not show herself. He himself, walking with his
@@ -21998,7 +21993,7 @@ Chakravarti** — GCC, kirana 8, pada 2.*[^31-9]
 [^31-9]: Signature — "Narahari". GPT1 — pp. 209–210, no. 126 (scan PDF pp. 468–469); GPT2 — sect. 3.2, no. 126 (catalogue: NG-343). GCC — kirana 8, pada 2 (ed. 1947,
 p. 92; scan PDF p. 89), "kācidāha — yathā[rāga]" ("one of them said"). The 8th kirana of GCC (colophon: "…the description of the tales of dreams") continues the
 nagaris' "morning": it opens with pada 8.1 (raga vibhasa, not taken into GPT) — at dawn the friends gather, laughing, and each without shame tells her dream;
-GPT nos. 126–144 are these tales. GCC readings: "vasiyā āchilum̐", "gorā rūpa-guṇa", "śarada śaśī" (4.4), "bhuvana-mohana-phānda", "vadana-chānda" (4.5),
+GPT nos. 126–144 are these tales. GCC readings: "basiyā āchilum̐", "gorā rūpa-guṇa", "śarada śaśī" (4.4), "bhubana-mohana-phānda", "badana-chānda" (4.5),
 "mākhālum̐ gaura gāya" (4.11). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-10]: The townswoman's dream (4.11–4.12): the embrace (āliṅgana) is a direct motif of sambhoga; translated exactly, adding nothing. The dream is her imagination:
 the Lord in His lila did not touch women and in Navadvipa did not look at them (CB, Adi; introductory note, chapter 27), and the Gaudiya tradition does not
@@ -22078,16 +22073,16 @@ poet: why be ashamed to tell of yourself? Raga "yatharaga". **Attribution: proba
 **6.10.** The desire that was in your hearts the King of connoisseurs of rasa fulfilled." Narahari says: why are you ashamed to tell of yourself?[^31-15]
 
 [^31-13]: Signature — "Narahari". GPT1 — pp. 211–212, no. 128 (scan PDF pp. 470–471); GPT2 — sect. 3.2, no. 128 (catalogue: NG-105). GCC — kirana 8, pada 4 (ed. 1947,
-p. 94; scan PDF p. 91), "anyā ca — yathārāga". GCC readings: "sukhamaya sava svapana" (6.1), "gorā-guṇagaṇa … gom̐āilā" (6.2), "karilā paraspare" — "jested with
+p. 94; scan PDF p. 91), "anyā ca — yathārāga". GCC readings: "sukhamaya saba svapana" (6.1), "gorā-guṇagaṇa … gom̐āilā" (6.2), "karilā paraspare" — "jested with
 one another" (6.6; adopted in the main text: GPT1 and GPT2 "paraśa pare" — "touching", a misprint, as in 22.7), "tā yena takhani gela" (6.8; GPT1 and GPT2 "mena"), "tomādera mane ye chila tā yena karila rasikarāja" (6.10; the OCR is uncertain). B.
 Nagari-bhava — see the introductory note to the section (chapter 27).
-[^31-14]: "To where Govinda was" (govinda āchena yathā): the messenger speaks with Gauranga — Govinda here is apparently Krishna's name given to Gaura (cf. "the Moon
+[^31-14]: "To where Govinda was" (gobinda āchena yathā): the messenger speaks with Gauranga — Govinda here is apparently Krishna's name given to Gaura (cf. "the Moon
 of Gokula", chapter 29); another understanding is also possible — the house of Govinda (Ghosha or another companion) where the Lord was. The messenger (dūtī)
 is an image from the padas on Radha and Krishna.
 [^31-15]: The dream (6.6–6.10): touches, embrace, the "composure leaving" the Moon of Nadia are direct motifs of sambhoga and attraction; translated exactly, adding
 nothing and softening nothing. The dream is the townswoman's imagination, not the Lord's lila: the Lord did not touch women (CB, Adi); the tradition does not
 accept gaura-nagari (n. 10 and the introductory note, chapter 27). 6.9: "I made a sign — and, understanding it, He grew still more intoxicated" (subahu haraṣe
-ṭhārinu vujhiyā adhika mātila seha) — the sense of the line is unclear ("seha" may mean "he" or "that love"). The poet's signature (6.10) is a joke: under the
+ṭhārinu bujhiyā adhika mātila seha) — the sense of the line is unclear ("seha" may mean "he" or "that love"). The poet's signature (6.10) is a joke: under the
 guise of a dream about her friends the teller is telling her own.
 
 ## 7. Narahari — "śuna śuna sai svapane dekhinu nikuñjakānane gorā…" (GPT1 p. 212, no. 129; GCC 8.5)
@@ -22113,7 +22108,7 @@ for the women of Nadia but for Krishna, in the bhava of Radha (CC Adi 4). The em
 dream is the townswoman's imagination; the Lord did not touch women (CB, Adi); the tradition does not accept gaura-nagari (n. 10 and the introductory note,
 chapter 27).
 
-## 8. Narahari — "śuna śuna ogo tomāre valie niśira svapanakathā…" (GPT1 pp. 212–213, no. 130; GCC 8.6)
+## 8. Narahari — "śuna śuna ogo tomāre balie niśira svapanakathā…" (GPT1 pp. 212–213, no. 130; GCC 8.6)
 *Nagari-bhava; a dream. In her dream a townswoman went to Srivasa's house, where the companions were singing to mridangas and karatalas and
 Gaura was dancing among them; suddenly bhava seized Him — trembling, streams of tears; He fell and rolled on the ground like a golden lotus;
 forgetting shame, she sobbed aloud and woke; the household ran to ask why she was weeping; falling asleep again, she saw that Gora had come to
@@ -22156,7 +22151,7 @@ note to the section (chapter 27).
 in Srivasa's courtyard; CC Adi 17). "I gave shame its last libation of water" (lāje tilāñjali dinu; tilanjali — the offering of water with sesame to the dead) — a
 saying: I abandoned shame for good. "Like a chataki bird" (8.12) — the chataka, by poetic tradition, drinks only rain-water from the clouds and ever waits for it:
 an image of longing.
-[^31-20]: 8.12–8.14 — the second dream: serving Gaura in her own house (couch, fan, betel). The GPT ending is "I sat" (vasinu); GCC has "I lay down" (śutinu): the motif
+[^31-20]: 8.12–8.14 — the second dream: serving Gaura in her own house (couch, fan, betel). The GPT ending is "I sat" (basinu); GCC has "I lay down" (śutinu): the motif
 of sambhoga is more direct; the GPT text is translated, the GCC reading is noted here. The dream is the townswoman's imagination; the Lord did not touch women
 (CB, Adi); the tradition does not accept gaura-nagari (n. 10 and the introductory note, chapter 27).
 
@@ -22193,8 +22188,8 @@ presses her to His breast. Raga "yatharaga". **Attribution: probably Chakravarti
 
 [^31-21]: Signature — "Narahari". GPT1 — pp. 213–214, no. 131 (scan PDF pp. 472–473); GPT2 — sect. 3.2, no. 131 (catalogue: NG-106; the catalogue line is from the middle
 of the pada). GCC — kirana 8, pada 7 (ed. 1947, pp. 96–97; scan PDF pp. 93/101–102), "anyā ca — yathārāga". GCC readings: "kahi ye āchaye mane" (9.1), "lāja kula
-bhaya guru teyāgiyā" — "casting off shame, family, fear of the elders" (9.5), "gṛha kāja tyaji mu vaṛa cañcala" (9.6), "catura āmāra yā" (9.8), "nā pālaṭi dekhi"
-(9.9), "yuvatī-maṇḍalī" (9.10), "cāridige", "sura nārīgaṇa" (9.11). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+bhaya guru teyāgiyā" — "casting off shame, family, fear of the elders" (9.5), "gṛha kāja tyaji mu baṛa cañcala" (9.6), "catura āmāra yā" (9.8), "nā pālaṭi dekhi"
+(9.9), "yubatī-maṇḍalī" (9.10), "cāridige", "sura nārīgaṇa" (9.11). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-22]: 9.2 — in the first dream — is what the biographies also tell: the Lord's mercy turned slanderers and sinners (CB, Madhya: Jagai and Madhai; CC Adi 17). 9.4–9.12 —
 in the second dream — Gora's "rasa" on the bank of the Ganga on the pattern of Krishna's rasa-lila (Bhag. 10.29–33): this is precisely the "gaura-nagari" notion
 that the Gaudiya tradition expressly rejects: Vrindavana Dasa says that the Lord in Navadvipa did not look at women (CB, Adi), His night pastimes in Navadvipa
@@ -22246,8 +22241,8 @@ with her — and then the dream broke. Raga "yatharaga". **Attribution: probably
 **11.7.** Then the dream broke." Narahari knows what became of her.[^31-27]
 
 [^31-26]: Signature — "Narahari". GPT1 — p. 214, no. 133 (scan PDF p. 473); GPT2 — sect. 3.2, no. 133 (catalogue: NG-346). GCC — kirana 8, pada 9 (ed. 1947, p. 98; scan PDF
-p. 103), "anyā ca — yathārāga". Metre — short payar (a couplet to a line). Readings: 11.3 "valinu" — "I said" (so GPT2 and GCC; GPT1 "calinu" — "I went", probably a
-misprint; translated after GPT2 and GCC); GCC: "prabhāta-samaye" (11.2), "se candravadana-pānete cāyā" (11.3), "henakāle" (11.7). B. Nagari-bhava — see the introductory
+p. 103), "anyā ca — yathārāga". Metre — short payar (a couplet to a line). Readings: 11.3 "balinu" — "I said" (so GPT2 and GCC; GPT1 "calinu" — "I went", probably a
+misprint; translated after GPT2 and GCC); GCC: "prabhāta-samaye" (11.2), "se candrabadana-pānete cāyā" (11.3), "henakāle" (11.7). B. Nagari-bhava — see the introductory
 note to the section (chapter 27).
 [^31-27]: The pada repeats the scheme of the khandita padas — the heroine to whom the Beloved comes at dawn bearing the traces of a night spent with another (in the
 Krishna padas — with Chandravali); the reproach, the oaths and the longing to touch come from there. Transferring this image to Gaura is a convention of the nagari
@@ -22277,9 +22272,9 @@ wicked people would slander the Beloved and He would never again come to their s
 
 [^31-28]: Signature — "Narahari". GPT1 — pp. 214–215, no. 134 (scan PDF pp. 473–474); GPT2 — sect. 3.2, no. 134 (catalogue: NG-347; in GPT2 no. 134 is printed after no. 135).
 GCC — kirana 8, pada 10 (ed. 1947, p. 98; scan PDF p. 103), "anyā ca — yathārāga". GCC readings: "āsiyā sāmbhāila ghare" — "entered the house" (12.1), "para puruṣera sane
-vilasaha, ithe nā vāsaha bhaya" (12.2), "bhaya pāyā pohāile niśi" (12.4), "prāṇe vām̐cāinu turite cetana pāyā" (12.8). B. Nagari-bhava — see the introductory note to
+bilasaha, ithe nā bāsaha bhaya" (12.2), "bhaya pāyā pohāile niśi" (12.4), "prāṇe bām̐cāinu turite cetana pāyā" (12.8). B. Nagari-bhava — see the introductory note to
 the section (chapter 27).
-[^31-29]: The sister-in-law's accusation ("you are dallying with a strange man", para-puruṣera sane vilasaha) is rendered exactly. The heart of the pada is 12.5–12.6: the
+[^31-29]: The sister-in-law's accusation ("you are dallying with a strange man", para-puruṣera sane bilasaha) is rendered exactly. The heart of the pada is 12.5–12.6: the
 townswoman is ready to bear any abuse, so long as rumour does not touch Gaura and she is not deprived of His darshan. This is a dream, not an event (n. 10;
 introductory note, chapter 27). The signature merges with the townswoman's speech ("Narahari knows: I saved…"); "waking up" — lit. "regaining consciousness"
 (cetana pāiyā).
@@ -22312,9 +22307,9 @@ pada 11.*[^31-30]
 **13.10.** Keep it secret, or in the morning the smoke of scandal will rise.'" Narahari is the witness: as I began to console her, sleep left my eyes.[^31-32]
 
 [^31-30]: Signature — "Narahari". GPT1 — pp. 215–216, no. 135 (scan PDF pp. 474–475); GPT2 — sect. 3.2, no. 135 (catalogue: NG-348). GCC — kirana 8, pada 11 (ed. 1947, p. 99;
-scan PDF p. 104), "anyā ca — yathārāga". GCC readings: "praveśila adhika madana-bhare" — "entered, overflowing with Madana" (13.2; GPT "athira ānanda bhare", "trembling
-with joy"; the GPT text is translated), "vasilena nanadinīra pālaṅka-pare" (13.2), "kara-pallave cibuka paraśe haraṣa haiyā" (13.3), "kata dūre yāi pāila, palāite
-nārila parāṇapiyā" (13.5), "yauvana-garave" (13.6), "tem̐ha adhomukhe" (13.9), "parabhāte haibe kalaṅka-dhūma" (13.10). B. Nagari-bhava — see the introductory note to
+scan PDF p. 104), "anyā ca — yathārāga". GCC readings: "prabeśila adhika madana-bhare" — "entered, overflowing with Madana" (13.2; GPT "athira ānanda bhare", "trembling
+with joy"; the GPT text is translated), "basilena nanadinīra pālaṅka-pare" (13.2), "kara-pallave cibuka paraśe haraṣa haiyā" (13.3), "kata dūre yāi pāila, palāite
+nārila parāṇapiyā" (13.5), "yaubana-garabe" (13.6), "tem̐ha adhomukhe" (13.9), "parabhāte haibe kalaṅka-dhūma" (13.10). B. Nagari-bhava — see the introductory note to
 the section (chapter 27).
 [^31-31]: 13.7 is a direct motif of sambhoga (bound her in the noose of His arms, "conquered", "did what was in His heart" — kaila ye āchila mane); translated exactly,
 adding nothing. The pada is a farce: the strict sister-in-law who guards the young wife is herself "conquered" by Gaura; this is the motif running through GCC (the
@@ -22359,7 +22354,7 @@ with the end of her sari, He embraced her — and then she woke. Raga "yatharaga
 
 [^31-33]: Signature — "Narahari". GPT1 — pp. 216–217, no. 136 (scan PDF pp. 475–476); GPT2 — sect. 3.2, no. 136 (catalogue: NG-108). GCC — kirana 8, pada 12 (ed. 1947, pp. 99–100;
 scan PDF pp. 104–105), "anyā ca — yathārāga". GCC readings: "parāṇa rasika rāya" (14.1), "kanaka-kamala-rāśi" (14.4), "khasāyā phelinu mena" (14.5; "mena" — so also GPT1,
-= "yena"), "tem̐ho dekhā dila" (14.8), "ethā nā āsiha tumi" (14.9), "āyuvṛddhi śubha savāra eteka leha cāyā" (14.10), "bhāsinu ām̐khira jale" (14.12). B. Nagari-bhava —
+= "yena"), "tem̐ho dekhā dila" (14.8), "ethā nā āsiha tumi" (14.9), "āyubṛddhi śubha sabāra eteka leha cāyā" (14.10), "bhāsinu ām̐khira jale" (14.12). B. Nagari-bhava —
 see the introductory note to the section (chapter 27).
 [^31-34]: Bengali kāli means both "yesterday" and "tomorrow": in 14.1 — "yesterday" (the night being told of), in 14.2 — "tomorrow", "later". The blanket (kambala) under which Gaura hides the radiance of His body, and the
 "light in the house" (14.6), play on the image of Gaura as the moon: the townswoman passes Him off as Chandra, the moon god — and this is true in a poetic sense: He is "the
@@ -22367,7 +22362,7 @@ Moon of Nadia". The deceiving of the mother-in-law is rendered as in the origina
 [^31-35]: The embrace (14.12) is a motif of sambhoga, translated exactly; the dream breaks off, and the townswoman is left in separation. The dream is her imagination; the Lord
 did not touch women (CB, Adi); the tradition does not accept gaura-nagari (n. 10 and the introductory note, chapter 27).
 
-## 15. Narahari — "śuna śuna ogo valiye tomāre svapane nadyāra śaśī…" (GPT1 p. 217, no. 137; GCC 8.13)
+## 15. Narahari — "śuna śuna ogo baliye tomāre svapane nadyāra śaśī…" (GPT1 p. 217, no. 137; GCC 8.13)
 *Nagari-bhava; a dream. In a dream the Moon of Nadia sat beside the townswoman and asked her to adorn Him with her own hands; she oiled and
 decked His hair with flowers, drew sandal on His brow, put on earrings, a pearl in His nose, bracelets, necklaces, a belt of bells and anklets —
 and then woke before she had gazed her fill. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 8, pada 13.*[^31-36]
@@ -22389,10 +22384,10 @@ and then woke before she had gazed her fill. Raga "yatharaga". **Attribution: pr
 **15.8.** On the feet of Narahari's Beloved I carefully put anklets; then my sleep broke — and I could not gaze my fill of Him."[^31-37]
 
 [^31-36]: Signature — "Narahari" (narahari priya — "Narahari's Beloved"). GPT1 — p. 217, no. 137 (scan PDF p. 476); GPT2 — sect. 3.2, no. 137 (catalogue: NG-109). GCC — kirana 8,
-pada 13 (ed. 1947, pp. 100–101; scan PDF pp. 105–106), "anyā ca — yathārāga". GCC readings: "nava yuvatī bhule ye cule" (15.3), "vām̐kā chānde vāndhinu" — "tied it
+pada 13 (ed. 1947, pp. 100–101; scan PDF pp. 105–106), "anyā ca — yathārāga". GCC readings: "naba yubatī bhule ye cule" (15.3), "bām̐kā chānde bāndhinu" — "tied it
 aslant" (15.3), "candanabindu" (15.4), "bhṛṅga-pām̐ti" (15.5), "gaja-śuṇḍa" (15.6), "henakāle nim̐da bhāṅgila" (15.8). B. Nagari-bhava — see the introductory note to the
 section (chapter 27).
-[^31-37]: The heroine adorning the Beloved with her own hands (veśa racanā) is a motif of the padas on Radha adorning Krishna; the nose-pearl (gajamuktā), the belt of
+[^31-37]: The heroine adorning the Beloved with her own hands (beśa racanā) is a motif of the padas on Radha adorning Krishna; the nose-pearl (gajamuktā), the belt of
 bells and the anklets are Krishna's ornaments in the padas. In Gaura-lila the Lord was adorned and anointed by His companions (cf. Gaura's abhisheka and adornment
 at Srivasa's — CB, Madhya; chapter 14); here the service is transferred into a townswoman's dream. There is no motif of sambhoga in the pada.
 
@@ -22431,10 +22426,10 @@ padas); GPT1 and GPT2 "kātare kusuma sindure" ("in agitation — with flowers a
 [^31-40]: The embrace, the kiss (cumbaya), "lays me on His chest" are direct motifs of sambhoga; translated exactly, adding nothing. The dream is the townswoman's imagination:
 the Lord did not touch women and in Navadvipa did not look at them (CB, Adi); the Gaudiya tradition does not accept gaura-nagari (Bhaktisiddhanta Sarasvati; introductory
 note, chapter 27). 16.7–16.9 is the reverse motif: the Beloved adorns the heroine (cf. no. 15); the answer "And the man's attire…" (16.8) is not fully clear — probably a
-joke about an earlier change of dress (in the padas on Radha and Krishna — the exchange of attire). "The Enchanter of young women" (yuvatīmohana mena; "mena" = "yena",
+joke about an earlier change of dress (in the padas on Radha and Krishna — the exchange of attire). "The Enchanter of young women" (yubatīmohana mena; "mena" = "yena",
 so also GCC).
 
-## 17. Narahari — "ki kava svapane kata parihāsa kare go…" (GPT1 p. 218, no. 139; GCC 8.15)
+## 17. Narahari — "ki kaba svapane kata parihāsa kare go…" (GPT1 p. 218, no. 139; GCC 8.15)
 *Nagari-bhava; a dream. A townswoman tells how in her dream Gora jested with her, embraced her, trembling, and spoke of rasa; the poet: "How
 shameless is Narahari's Beloved — the thief of the dharma and vows of young wives!" Raga "yatharaga". **Attribution: probably Chakravarti** — GCC,
 kirana 8, pada 15.*[^31-41]
@@ -22447,7 +22442,7 @@ kirana 8, pada 15.*[^31-41]
 
 [^31-41]: Signature — "Narahari". GPT1 — p. 218, no. 139 (scan PDF p. 477); GPT2 — sect. 3.2, no. 139 (catalogue: NG-111). GCC — kirana 8, pada 15 (ed. 1947, p. 102; scan PDF
 p. 107), "anyā ca — yathārāga". Metre — a long line with the address "go" in the middle. In GCC the pada is a line longer: in place of GPT's last line there are two
-lines with more explicit details of the dream and the signature "narahari-prāṇa-priya nilaja emana go, yuvatī-varata kare bhaṅga" ("so shameless is the Beloved of
+lines with more explicit details of the dream and the signature "narahari-prāṇa-priya nilaja emana go, yubatī-barata kare bhaṅga" ("so shameless is the Beloved of
 Narahari's life — He breaks the vows of young wives"); GPT omits them and they are not translated here. GCC readings: "nayana" (17.1), "mukhe mukha diyā" (17.2). B.
 Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-42]: The embrace, "puts His face to my face", "His body thrills in the waves of Madana" (madana-taraṅge) are direct motifs of sambhoga and attraction; translated exactly,
@@ -22455,7 +22450,7 @@ adding nothing and softening nothing. "Shameless… thief of the dharma and vows
 clothes", "the breaker of dharma"); transferring it to Gaura is a convention of the nagari padas which the tradition rejects: the Lord did not touch women (CB, Adi; n. 10
 and the introductory note, chapter 27).
 
-## 18. Narahari — "svapane vandhuyā mora pālaṅke vasila go…" (GPT1 p. 218, no. 140; GCC 8.16)
+## 18. Narahari — "svapane bandhuyā mora pālaṅke basila go…" (GPT1 p. 218, no. 140; GCC 8.16)
 *Nagari-bhava; a dream. In a dream the Beloved sat on her couch, called her dearer than life, embraced her, offered her betel, touched her lips;
 the poet: Narahari's Beloved is the only one who enchants young women. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 8,
 pada 16.*[^31-43]
@@ -22469,8 +22464,8 @@ pada 16.*[^31-43]
 **18.4.** Smiling sweetly, sweetly, He showers nectar — what art of a connoisseur of rasa!" The Beloved of Narahari's life, the darling of the heart, is the One who enchants young women.[^31-44]
 
 [^31-43]: Signature — "Narahari". GPT1 — p. 218, no. 140 (scan PDF p. 477); GPT2 — sect. 3.2, no. 140 (catalogue: NG-112). GCC — kirana 8, pada 16 (ed. 1947, pp. 102–103; scan PDF
-pp. 107–108), "anyā ca — yathārāga". GCC readings: "ām̐khi-koṇe" (18.1), "madane vibhora hayā cāya" — "gazes, drunk with Madana" (18.3; GPT "haraṣe vibhora", "beside Himself with
-joy"; the GPT text is translated), "variṣe" (18.4), "narahari-prāṇa-priyā … eka janā" (18.4). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+pp. 107–108), "anyā ca — yathārāga". GCC readings: "ām̐khi-koṇe" (18.1), "madane bibhora hayā cāya" — "gazes, drunk with Madana" (18.3; GPT "haraṣe bibhora", "beside Himself with
+joy"; the GPT text is translated), "bariṣe" (18.4), "narahari-prāṇa-priyā … eka janā" (18.4). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-44]: The embrace and the touching of the lips are direct motifs of sambhoga; translated exactly. "Offers His life for them" (parāṇa nichiyā deya tāya) — the rite of
 nichani: giving oneself in exchange "for" the beloved (cf. the glossary). "The darling of the heart" (hiyāra putali, lit. "the doll of the heart") — an endearment.
 The dream is the townswoman's imagination; the Lord did not touch women (CB, Adi); the tradition does not accept gaura-nagari (n. 10 and the introductory note,
@@ -22490,8 +22485,8 @@ kirana 8, pada 17.*[^31-45]
 **19.4.** How much art there is in His laying lips to lips — what shall I say? I have never heard of such a thing." Where did the Beloved of Narahari's life learn it — He knows so much of rasa?[^31-46]
 
 [^31-45]: Signature — "Narahari". GPT1 — pp. 218–219, no. 141 (scan PDF pp. 477–478); GPT2 — sect. 3.2, no. 141 (catalogue: NG-113; there wrongly "no. 111"). GCC — kirana 8, pada 17
-(ed. 1947, p. 103; scan PDF p. 108), "kācicca — yathārāga". GCC readings: "cāyā cāyā go yuvatī-parāṇa-corā gorā", "jiniyā khañjana yuga nayana nācāya go" (19.1), "vadana
-nehāre vāre vāre" (19.2), "galāya paraye kari hāra", "navīna madana sāthī tāra" (19.3), "kothāya śikhila go eta vā rasera kathā jāne" (19.4). B. Nagari-bhava — see the
+(ed. 1947, p. 103; scan PDF p. 108), "kācicca — yathārāga". GCC readings: "cāyā cāyā go yubatī-parāṇa-corā gorā", "jiniyā khañjana yuga nayana nācāya go" (19.1), "badana
+nehāre bāre bāre" (19.2), "galāya paraye kari hāra", "nabīna madana sāthī tāra" (19.3), "kothāya śikhila go eta vā rasera kathā jāne" (19.4). B. Nagari-bhava — see the
 introductory note to the section (chapter 27).
 [^31-46]: The touches, the embrace ("to wear me at His neck like a necklace"), the kiss (adhare adhara) are direct motifs of sambhoga; translated exactly, adding nothing and
 softening nothing. The dream is the townswoman's imagination; the Lord did not touch women and in Navadvipa did not look at them (CB, Adi); the Gaudiya tradition does
@@ -22511,8 +22506,8 @@ kirana 8, pada 18.*[^31-47]
 **20.4.** He holds heart to heart — what more shall I say? — and His golden body trembles again and again." What does the Friend of Narahari's life know! — His love is an ocean of joy.[^31-48]
 
 [^31-47]: Signature — "Narahari". GPT1 — p. 219, no. 142 (scan PDF p. 478); GPT2 — sect. 3.2, no. 142 (catalogue: NG-114). GCC — kirana 8, pada 18 (ed. 1947, p. 103; scan PDF
-p. 108), "anyā ca — yathārāga". The first stanza is a refrain (dhru). GCC readings: "nava nava yuvatīra go, vadana-kamala-madhucorā" (20.1), "śravaṇa-mana-vyathā" (20.2),
-"uroja jhām̐paye karatale" (20.3; GPT "vadana", "the face"; GCC is more explicit; the GPT text is translated), "narahari-parāṇavam̐dhuyā kivā jāne go, sukhera pāthāra
+p. 108), "anyā ca — yathārāga". The first stanza is a refrain (dhru). GCC readings: "naba naba yubatīra go, badana-kamala-madhucorā" (20.1), "śrabaṇa-mana-byathā" (20.2),
+"uroja jhām̐paye karatale" (20.3; GPT "vadana", "the face"; GCC is more explicit; the GPT text is translated), "narahari-parāṇabam̐dhuyā kibā jāne go, sukhera pāthāra
 tāra lehā" (20.4). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-48]: "A bee of rasa" (rasera bhramara) is an image of Krishna in the padas (Madhukara); transferring it to Gaura is a convention of the nagari padas. The kiss and the
 embrace (20.3–20.4) are direct motifs of sambhoga; translated exactly. The dream is the townswoman's imagination; the Lord did not touch women (CB, Adi); the tradition
@@ -22546,14 +22541,14 @@ pada 19.*[^31-49]
 **21.10.** Yet another says: "Look, what is happening to me? — my left eye is twitching!" Narahari says: why worry? — all these are witnesses of good fortune.[^31-51]
 
 [^31-49]: Signature — "Narahari". GPT1 — pp. 219–220, no. 143 (scan PDF pp. 478–479); GPT2 — sect. 3.2, no. 143 (catalogue: NG-349). GCC — kirana 8, pada 19 (ed. 1947, pp. 103–104;
-scan PDF pp. 108–109), "yathārāga". GCC readings: "nārī haile nā pūre manera āśa" (21.3), "keha vale ogo maruka e gurujanere kisera ḍara" (21.4), "tāhā nā māniye … ghucāva
-vethā" (21.6), "śrīśacīnandana-sane" (21.7), "e kula-lājera kapāle āguni diyā", "miliba ekhana giyā" (21.9), "bhāva ki lāgiye" (21.10). B. Nagari-bhava — see the introductory
+scan PDF pp. 108–109), "yathārāga". GCC readings: "nārī haile nā pūre manera āśa" (21.3), "keha bale ogo maruka e gurujanere kisera ḍara" (21.4), "tāhā nā māniye … ghucāba
+bethā" (21.6), "śrīśacīnandana-sane" (21.7), "e kula-lājera kapāle āguni diyā", "miliba ekhana giyā" (21.9), "bhāba ki lāgiye" (21.10). B. Nagari-bhava — see the introductory
 note to the section (chapter 27).
 [^31-50]: The resolve to leave home and disregard the elders (21.3–21.4, 21.9) is a motif of the gopis leaving husbands and homes for Krishna (Bhag. 10.29); the original speaks
 plainly — translated exactly. The Gaudiya tradition does not accept the worship of Gaura in the mood of the nagaris (introductory note, chapter 27).
-[^31-51]: 21.7: "let my name be slandered together with Shachinandana" (mora parivāda hauka… śrīśacīnandana sane) — as in the padas of the gopis, for whom the rumour of their
+[^31-51]: 21.7: "let my name be slandered together with Shachinandana" (mora paribāda hauka… śrīśacīnandana sane) — as in the padas of the gopis, for whom the rumour of their
 love for Krishna is an ornament (kalanka-bhushana). 21.9: "throw fire on the brow" (kapāle āguni diyā) — a curse: "damn it". 21.10: the twitching of a woman's left eye
-is a good omen (for a man — the right); the poet's reply: "why worry (bhāva ki lāgiyā)? — all these are witnesses of good fortune" (the sense is conjectural).
+is a good omen (for a man — the right); the poet's reply: "why worry (bhāba ki lāgiyā)? — all these are witnesses of good fortune" (the sense is conjectural).
 
 ## 22. Narahari — "rajanīprabhāte aneka maṅgala…" (GPT1 p. 220, no. 144; GCC 8.20)
 *Nagari-bhava. At dawn the townswomen, seeing many good omens, forgot a little the pain of their hearts; each tells whom she worships in order
@@ -22579,13 +22574,13 @@ without hindrance. Raga "yatharaga". **Attribution: probably Chakravarti** — G
 [^31-52]: Signature — "Narahari". GPT1 — p. 220, no. 144 (scan PDF p. 479); GPT2 — sect. 3.2, no. 144 (catalogue: NG-115). GCC — kirana 8, pada 20 (ed. 1947, pp. 104–105; scan PDF
 pp. 109–110), "yathārāga". It is followed in GCC by the short pada 8.21 (in tripadi metre: the nagaris know only Gora, He is their life and wealth; the poet prays that
 the doings of the nagaris may always appear in his heart; not taken into GPT) and the colophon of the 8th kirana: "…the description of the tales of dreams". GCC
-readings: "savāra" (22.2), "jāhnavī", "tāra vare" (22.3), "tem̐ha dukha dūra kariva miliyā" (22.4), "tām̐ra kṛpāvale" (22.5), "dekhiye" (22.6), "kahaye paraspare" (22.7;
+readings: "sabāra" (22.2), "jāhnabī", "tāra bare" (22.3), "tem̐ha dukha dūra kariba miliyā" (22.4), "tām̐ra kṛpābale" (22.5), "dekhiye" (22.6), "kahaye paraspare" (22.7;
 GPT1 "paraśa pare" — a misprint; translated after GCC). B. Nagari-bhava — see the introductory note to the section (chapter 27).
-[^31-53]: Jahnavi — the Ganga; Gauri — Parvati; Bhanu — the Sun (Surya); "Old Shiva" (vuṛā śiva, Vura-Shiva) — a revered murti of Shiva in Navadvipa. The girls and wives of
+[^31-53]: Jahnavi — the Ganga; Gauri — Parvati; Bhanu — the Sun (Surya); "Old Shiva" (buṛā śiba, Vura-Shiva) — a revered murti of Shiva in Navadvipa. The girls and wives of
 Nadia worship the demigods, praying to meet Gaura — as the gopis of Vraja worshipped Katyayani, praying for Krishna as their husband (Bhag. 10.22): the aim of their vows
 is the Lord; translated as in the original.
 
-## 23. Narahari — "rajanī prabhāte āju nava nava nāgarī yata…" (GPT1 pp. 220–221, no. 145; GCC 9.1)
+## 23. Narahari — "rajanī prabhāte āju naba naba nāgarī yata…" (GPT1 pp. 220–221, no. 145; GCC 9.1)
 *Nagari-bhava. At dawn the young nagaris, longing to see Gaura, devise stratagems — one plans tricks, another laughingly rejects them, a third
 considers her mother-in-law's temper; and she, pleased by an astrologer's good words, had slept with the door unbarred and, waking at daybreak,
 came to the young wives: "What are you doing here, children?" — "We are learning the tale of Lakshmi for the Lakshmi-puja," answers one; and the
@@ -22608,7 +22603,7 @@ Chakravarti** — GCC, kirana 9, pada 1.*[^31-54]
 
 [^31-54]: Signature — "Narahari". GPT1 — pp. 220–221, no. 145 (scan PDF pp. 479–480); GPT2 — sect. 3.2, no. 145 (catalogue: NG-116). GCC — kirana 9, pada 1 (ed. 1947, pp. 105–106;
 scan PDF pp. 110–111), without a raga mark; the 9th kirana opens with the heading "Again in the morning — of the goings of the nagaris of Navadvipa, their desires, darshan
-and the rest". GCC readings: "prāṇapriya gaura daraśana āse" (23.1), "keha vā khaṇḍaye hāsi" (23.2), "śubha daivajña vacane haiyāche adhika prīta" (23.3), "rajanī pohāila
+and the rest". GCC readings: "prāṇapriya gaura daraśana āse" (23.1), "keha vā khaṇḍaye hāsi" (23.2), "śubha daibajña bacane haiyāche adhika prīta" (23.3), "rajanī pohāila
 bali" (23.4), "nāhika kāra" — "who has it not?" (23.7). The next GPT pada (no. 146 = GCC 9.2) — the mother-in-law's account of that very astrologer, who told her to send
 the young wives to Shachi-devi — opens chapter 32. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^31-55]: The Lakshmi-puja (worship of the goddess of prosperity) and "the tale of Lakshmi" (lakṣmīra kathā, "Lakshmi-katha" — a ritual story read by women at the puja) are
@@ -22633,7 +22628,7 @@ Madana", "lay down" instead of "sat", the extra lines in no. 17), the GPT text i
 
 *On what nagari-bhava is, the position of the tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta Sarasvati) and the rules of translation, see the introductory note to the section of nagari padas in chapter 27; on the two poets named Narahari (Narahari Sarakara and Narahari Chakravarti) and on the attribution labels ("probably Sarakara", "probably Chakravarti", "not established"), see the introductory note to the "Narahari" appendix in chapter 17.*
 
-## 1. Narahari — "śuna śuna vadhū eta dine vidhi…" (GPT1 pp. 221–222, no. 146; GCC 9.2)
+## 1. Narahari — "śuna śuna badhū eta dine bidhi…" (GPT1 pp. 221–222, no. 146; GCC 9.2)
 *Nagari-bhava (a mother-in-law's speech). An elderly woman tells her daughters-in-law: yesterday an astrologer came to their house who knows what is in
 everyone's mind; when she asked how good fortune might come, he told her to honour Shachi-devi, Nimaichand's mother: the dust of her feet removes the
 threefold miseries, whoever sees her face at dawn knows no sorrow, and whoever reviles her is destroyed by the goddess Ugrachanda; so every morning she
@@ -22673,12 +22668,12 @@ pleading their household work. Raga "yatharaga". **Attribution: probably Chakrav
 **1.16.** "How can we go in the morning, leaving the household work?" Narahari says: "You will come back and do it; now there must be no delay."[^32-3]
 
 [^32-1]: Signature — "Narahari". GPT1 — pp. 221–222, no. 146 (scan PDF pp. 480–481); GPT2 — sect. 3.2, no. 146 (catalogue: NG-117). GCC — kirana 9, pada 2 (ed. 1947,
-pp. 106–107; scan PDF pp. 111–112), "vṛddhāha — yathārāga" ("the old woman said"). The ninth kirana of GCC ("Again in the morning — the outings of the nagaris of Navadvipa,
+pp. 106–107; scan PDF pp. 111–112), "bṛddhāha — yathārāga" ("the old woman said"). The ninth kirana of GCC ("Again in the morning — the outings of the nagaris of Navadvipa,
 their wishes, their darshan and so on"; it opens with GCC 9.1, no. 23 of chapter 31) tells how the mothers-in-law themselves send their daughters-in-law to Shachi-devi;
 GPT omits GCC 9.3–9.5 — the mother-in-law coaxes the young wives again, they dress, bow to her and set out (9.3), the joyful procession of the young women (9.4, Vrajabuli,
 raga lalita) and the first of their "wishes" — to bow to Shachi and steal a glance at Gauranga (9.5). Before 9.5 the author has a Sanskrit rubric, "their wishes
 (manoratha) he relates in order": the following padas (nos. 2–12 of this chapter) are these wishes. GCC readings: "parama ānanda" (1.11), "yāha śīghra kari" (1.12),
-"āsiyā karive" (1.16). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+"āsiyā karibe" (1.16). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-2]: The astrologer's speech is a praise of Shachi-devi, the Lord's mother: so the Vaishnava biographies too honour her (CB, Adi and Madhya — Shachi as the mother of the
 Lord, worthy of the whole world's reverence). The "threefold miseries" (tritāpa) — those caused by one's own body and mind, by other beings and by the forces of nature.
 Ugrachanda (ugracaṇḍā) is a fierce form of Durga (Chandi); the threat to those who revile Shachi is the village astrologer's word, rendered as in the original. The
@@ -22687,7 +22682,7 @@ gladly let the young wives go (cf. the end of no. 23 of chapter 31: "there is no
 [^32-3]: 1.15–1.16: the young wives, longing to see Gaura, make a show of pleading their household work "to be coaxed" — the poet's smile; rendered as in the original.
 The last line can be understood either as the mother-in-law's answer or as the poet's own word ("Narahari says…"); it is left as in the original.
 
-## 2. Narahari — "sakhīsaha sukhe śrīśacīdevīra…" (GPT1 p. 222, no. 147; GCC 9.6)
+## 2. Narahari — "sakhīsaha sukhe śrīśacīdebīra…" (GPT1 p. 222, no. 147; GCC 9.6)
 *Nagari-bhava; a daydream. On the way to Shachi's house a townswoman dreams: she will stand with her friend in Shachi-devi's courtyard and steal a
 glance at Gaura; He will answer with a sly look — and she will have neither composure nor dharma left, she will tremble at Madana's arrow and strain
 to embrace Gaurangachand, but her friend will hold her back by the end of her sari; the others will laugh, she will be abashed and turn away, covering
@@ -22708,7 +22703,7 @@ her face — and Gaura will smile. Raga "yatharaga". **Attribution: probably Cha
 [^32-4]: Signature — "Narahari". GPT1 — p. 222, no. 147 (scan PDF p. 481); GPT2 — sect. 3.2, no. 147 (catalogue: NG-118). GCC — kirana 9, pada 6 (ed. 1947, p. 109; scan
 PDF p. 114), "kācicca — yathārāga" ("and another [said]"). This is the second of the "wishes" (manoratha) of the townswomen on their way to Shachi's house (note 1):
 all the padas nos. 2–12 are in the future tense ("I shall stand", "I shall glance", "He will say"), i.e. not an account of what happened but what each one pictures to
-herself on the way. GCC reading: "kām̐piva madana-bhare" — "I shall tremble under Madana's weight" (2.2). B. Nagari-bhava — see the introductory note to the section
+herself on the way. GCC reading: "kām̐piba madana-bhare" — "I shall tremble under Madana's weight" (2.2). B. Nagari-bhava — see the introductory note to the section
 (chapter 27).
 [^32-5]: 2.2–2.4: "I shall tremble at Madana's arrow", "neither composure nor dharma left", the slipping cloth, the urge to embrace Gaurangachand — a direct motif of
 attraction; rendered exactly, adding nothing and softening nothing. It is the townswoman's daydream, her imagination: in the pada itself she is held back, and Gaura
@@ -22716,7 +22711,7 @@ only smiles. According to the biographies, in Navadvipa the Lord did not look at
 Gaura as a nagara (introductory note, chapter 27; Bhaktisiddhanta Sarasvati counts "gaura-nagari" among the apasampradayas). The padas of this cycle belong to
 Narahari Chakravarti (18th c.); Majumdar regards the long GPT padas signed Narahari as late, not Sarakara's.
 
-## 3. Narahari — "saiyera samīpe dām̐ṛāiva punaḥ…" (GPT1 pp. 222–223, no. 148; GCC 9.7)
+## 3. Narahari — "saiyera samīpe dām̐ṛāiba punaḥ…" (GPT1 pp. 222–223, no. 148; GCC 9.7)
 *Nagari-bhava; a daydream (feigned mana). A townswoman dreams: at her friend's sign she will stand beside her, turned away from Gaura; unable to see
 her face, He will be troubled and with the corner of His eye will ask her friend: "Why such anger? Forgive — one's own are not blamed; tell her to lift
 her veil just once." The friend will entreat her, she in feigned anger will go and stand far off; Gauranga will be bathed in tears, the friend will
@@ -22740,10 +22735,10 @@ Chakravarti** — GCC, kirana 9, pada 7.*[^32-6]
 **3.8.** Then, smiling, I shall lift my veil and glance sidelong — I shall give the Lord of Narahari's life, the Friend, supreme joy."[^32-7]
 
 [^32-6]: Signature — "Narahari". GPT1 — pp. 222–223, no. 148 (scan PDF pp. 481–482); GPT2 — sect. 3.2, no. 148 (catalogue: NG-119). GCC — kirana 9, pada 7 (ed. 1947,
-pp. 109–110; scan PDF pp. 114–115). GCC readings: "keha nā laoye doṣa" (3.3), "juṛāuka nayāna hiyā" (3.4), "terachha nayāne rava" — "I shall remain [standing],
+pp. 109–110; scan PDF pp. 114–115). GCC readings: "keha nā laoye doṣa" (3.3), "juṛāuka nayāna hiyā" (3.4), "terachha nayāne raba" — "I shall remain [standing],
 glancing sidelong" (3.8). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-7]: Feigned anger (mana) and entreaty through a friend are motifs of the padas on Radha's mana, transferred to a townswoman's daydream; Gauranga's tears (3.7) and
-His plea (3.3–3.4) are what she imagines; rendered as in the original. "Friend" (vandhuyā) and "the Lord of Narahari's life" are the townswoman's words and the
+His plea (3.3–3.4) are what she imagines; rendered as in the original. "Friend" (bandhuyā) and "the Lord of Narahari's life" are the townswoman's words and the
 poet's signature about Gaura (cf. note 5 of chapter 31).
 
 ## 4. Narahari — "gaura nāgara rasera sāgara…" (GPT1 p. 223, no. 149; GCC 9.8)
@@ -22761,12 +22756,12 @@ people would say. Raga "yatharaga". **Attribution: probably Chakravarti** — GC
 **4.4.** The King of connoisseurs of rasa will long to embrace me — and Narahari will carefully restrain Him, reminding Him of what people would say."[^32-9]
 
 [^32-8]: Signature — "Narahari". GPT1 — p. 223, no. 149 (scan PDF p. 482); GPT2 — sect. 3.2, no. 149 (catalogue: NG-120). GCC — kirana 9, pada 8 (ed. 1947, p. 110;
-scan PDF p. 115). GCC readings: "alakhita bhuru-sandhāne" (4.3), "vujhāyā" (4.4). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+scan PDF p. 115). GCC readings: "alakhita bhuru-sandhāne" (4.3), "bujhāyā" (4.4). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-9]: 4.4: Gaura longing for the townswoman's embrace is again her imagination (cf. note 5); rendered exactly. The poet places himself in the heroine's daydream as
 the Lord's companion who restrains Him by "shame before people" (lokera lāja). According to the biographies, the Lord in Navadvipa was strict and did not look at
 women (CB, Adi; cf. nos. 19–20 of this chapter, where Narahari's own heroines say the same).
 
-## 5. Narahari — "saiyera nikaṭe dām̐ṛāva ghuṅaṭe…" (GPT1 p. 223, no. 150; GCC 9.12)
+## 5. Narahari — "saiyera nikaṭe dām̐ṛāba ghuṅaṭe…" (GPT1 p. 223, no. 150; GCC 9.12)
 *Nagari-bhava; a daydream. A townswoman dreams: she will stand beside her friend with half her face veiled and steal glances; when the Friend looks
 at her with a half-smile, she will look away; out of shyness He will lower His eyes — and then from the corner of her eye she will look at the moon of
 His face; He will not be able to meet her eyes, and she will keep gazing. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 9,
@@ -22785,7 +22780,7 @@ scan PDF pp. 117–118), "anyā ca — yathārāga" ("and another"). In GCC this
 "The Restless One" (cañcala, 5.4) refers to Gaura. The last line (signature) is the poet's word; it can also be read as continuing the townswoman's daydream ("…will
 float in joy, His eyes meeting [mine]"). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 6. Narahari — "āi more vahu yatana karive…" (GPT1 p. 224, no. 151; GCC 9.9)
+## 6. Narahari — "āi more bahu yatana karibe…" (GPT1 p. 224, no. 151; GCC 9.9)
 *Nagari-bhava; a daydream. A townswoman dreams: Ai (Shachi) will be kind to her, but she will not stay by Ai — she will stand behind her friend and
 gaze her fill at Gaura while remaining unseen; He will grow anxious and ask her friend with a sign of the eyes: "Where is your companion?"; the friend
 will draw her forward and lift her veil; the Crown of connoisseurs of rasa will say with the corner of His eye: "Where did you learn these tricks? How
@@ -22814,10 +22809,10 @@ kirana 9, pada 9.*[^32-11]
 
 [^32-11]: Signature — "Narahari". GPT1 — p. 224, no. 151 (scan PDF p. 483); GPT2 — sect. 3.2, no. 151 (catalogue: NG-351). GCC — kirana 9, pada 9 (ed. 1947, pp. 110–111;
 scan PDF pp. 115–116). In GCC the second line of couplet 6.6 is omitted: in its place the edition has a row of asterisks (a mark of omission); otherwise there are minor
-differences ("parama ānanda haiyā", 6.2; "antare pāiye vyathā", 6.4; "vandhu prati", 6.7). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+differences ("parama ānanda haiyā", 6.2; "antare pāiye byathā", 6.4; "bandhu prati", 6.7). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-12]: Ai ("mother") is Shachi-devi (cf. note 1); the townswoman dreams of being received kindly by Shachi. The silent conversation of the eyes (6.3–6.8) is what she
 imagines (cf. note 5). 6.9–6.10 are understood conjecturally: who is "cross" and whose necklace Narahari will "show" (perhaps as a token of reconciliation) is not
-clear from the text; GCC has "will make it up, yielding, will show the necklace on the neck" (mānāva māniyā dekhāve). The verb forms in -ba (niva, kariva) are used
+clear from the text; GCC has "will make it up, yielding, will show the necklace on the neck" (mānāba māniyā dekhābe). The verb forms in -ba (niba, kariba) are used
 here by the poet for the third person as well (the friend, Gora), for the sake of rhyme.
 
 ## 7. Narahari — "gaurāṅgacām̐dera pāne nirakhite…" (GPT1 pp. 224–225, no. 152; GCC 9.10)
@@ -22848,7 +22843,7 @@ blinking, while she, abashed, will pull up her veil, scold her friend as "shamel
 **7.10.** Seeing this play of mine, Gauranga, lover of play, will again float in merriment," — and in the depths of his heart Narahari, the Friend's companion, will laugh.[^32-14]
 
 [^32-13]: Signature — "Narahari". GPT1 — pp. 224–225, no. 152 (scan PDF pp. 483–484); GPT2 — sect. 3.2, no. 152 (catalogue: NG-121). GCC — kirana 9, pada 10 (ed. 1947,
-pp. 111–112; scan PDF pp. 116–117). Two places in GPT1 are corrected after GCC (noted in VAR): 7.2 "jhām̐piva" ("I shall cover myself"; GPT1 "kām̐pila" — "trembled",
+pp. 111–112; scan PDF pp. 116–117). Two places in GPT1 are corrected after GCC (noted in VAR): 7.2 "jhām̐piba" ("I shall cover myself"; GPT1 "kām̐pila" — "trembled",
 a misprint) and 7.6 "pichu kariyā" ("turning my back"; GPT1 "kichu kariyā"). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-14]: Gora, enraptured and oblivious at the sight of the townswoman's uncovered head (7.7), is her daydream, as in all the padas of this cycle (note 5); rendered
 exactly. A married woman's uncovered head before a strange man was by custom immodest; hence "shameless" (7.8) and the heroine's feigned indignation.
@@ -22870,10 +22865,10 @@ ornament on her back — and she, on some pretext, will lift the cloth and show 
 [^32-15]: Signature — "Narahari". GPT1 — p. 225, no. 153 (scan PDF p. 484); GPT2 — sect. 3.2, no. 153 (catalogue: NG-352). GCC — kirana 9, pada 11 (ed. 1947, p. 112;
 scan PDF p. 117). GCC readings: "piṭhera upare" (8.3), "kona chalete" (8.4); 8.2 "kāṇera cām̐pā" follows GCC (in GPT1 the word is hard to read, GPT2 "ṭāpā"). B.
 Nagari-bhava — see the introductory note to the section (chapter 27).
-[^32-16]: Veśara — a nose-pendant; cām̐pā — earrings shaped like the champaka flower; jhām̐pā — an ornament braided into the hair and hanging down the back. Lifting the
+[^32-16]: Beśara — a nose-pendant; cām̐pā — earrings shaped like the champaka flower; jhām̐pā — an ornament braided into the hair and hanging down the back. Lifting the
 cloth to show it is a coquetry the townswoman pictures to herself (cf. note 5); rendered as in the original.
 
-## 9. Narahari — "āiyera aṅgane yatane dām̐ṛāva…" (GPT1 pp. 225–226, no. 154; GCC 9.13)
+## 9. Narahari — "āiyera aṅgane yatane dām̐ṛāba…" (GPT1 pp. 225–226, no. 154; GCC 9.13)
 *Nagari-bhava; a daydream. A townswoman dreams: in Ai's courtyard she will stand holding her friend's hand; Gora, the Jewel of virtues, will ask
 her by a sign of the eyes to uncover her face; abashed, she will turn away, but her clever friend, with feigned alarm, will lift the cloth from her
 face; the Connoisseur of rasa, covering His face, will smile — and Narahari Dasa, seeing that smile, will thrill. Raga "yatharaga". **Attribution:
@@ -22894,7 +22889,7 @@ tormented by Madana; Narahari will calm Him"; the signature "Narahari Dasa" is o
 VAR. In GPT too this is a townswoman's daydream (cf. note 5): the Lord Himself did not look at women in Navadvipa (CB, Adi), and the tradition does not accept such
 notions of Him (introductory note, chapter 27).
 
-## 10. Narahari — "saiyera samīpe dām̐ṛāva nāgara…" (GPT1 p. 226, no. 155; GCC 9.14)
+## 10. Narahari — "saiyera samīpe dām̐ṛāba nāgara…" (GPT1 p. 226, no. 155; GCC 9.14)
 *Nagari-bhava; a daydream. A townswoman dreams: she will stand beside her friend, and the nagara will not look at her but only exchange smiling
 signs with her friend; understanding nothing, she will ask: "What are you laughing at?" — "The fault is yours: the nagara wants to see your dear
 face, and you are cross"; then she will speak by a sign and smile — and Gora will lose all composure. Raga "yatharaga". **Attribution: probably
@@ -22932,7 +22927,7 @@ PDF p. 119). GCC readings: "kara yuṛi" (11.1), "bhāla ohe", "śikhile" (11.2)
 companions, who are always with Him (in kirtana, on His walks through Nadia; CB, Madhya) — something a woman cannot have. Gaura's promise "I will come" is her
 daydream (cf. note 5).
 
-## 12. Narahari — "sakhīra samāje rahiyā vāreka…" (GPT1 pp. 226–227, no. 157; GCC 9.16)
+## 12. Narahari — "sakhīra samāje rahiyā bāreka…" (GPT1 pp. 226–227, no. 157; GCC 9.16)
 *Nagari-bhava; a daydream (reproach). A townswoman dreams: standing among her friends, with a sorrowful face she will say to the nagara with the
 corner of her eye: "You do not know the heart of love: You roam every street, I alone am left out; because of You the elders who loved me more than
 life regard me as poison, and those I laughed at laugh at me; if You were gracious to me I would count this disgrace as nothing; but You are pitiless
@@ -22960,7 +22955,7 @@ to Me than life." Raga "yatharaga". **Attribution: probably Chakravarti** — GC
 **12.10.** Understanding this, I shall smile faintly and signal to my friend" — and the heart of Narahari's Beloved will be calmed, seeing [her] great joy.[^32-23]
 
 [^32-22]: Signature — "Narahari". GPT1 — pp. 226–227, no. 157 (scan PDF pp. 485–486); GPT2 — sect. 3.2, no. 157 (catalogue: NG-123). GCC — kirana 9, pada 16 (ed. 1947,
-pp. 114–115; scan PDF pp. 119–120). 12.8 follows GCC and GPT2 "eteka vujhiyā" (GPT1 "eketa", a misprint). This is the last "wish" taken into GPT. In GCC the ninth kirana
+pp. 114–115; scan PDF pp. 119–120). 12.8 follows GCC and GPT2 "eteka bujhiyā" (GPT1 "eketa", a misprint). This is the last "wish" taken into GPT. In GCC the ninth kirana
 continues with padas that are not in GPT (9.17–9.23): the townswomen come to Shachi's house and bow to her (9.18 — a Vrajabuli pada signed "Ghanashyama", another name
 of Narahari Chakravarti); Shachi, the mother of the world, receives them as her own daughters-in-law and blesses them — "may your prosperity grow, may your husbands
 and all your family live long" (9.21); the kirana ends with the poet's prayer for devotion to the feet of the nagaris of Nadia (9.23). B. Nagari-bhava — see the
@@ -22983,7 +22978,7 @@ by His doings, but I am ashamed to say it outright." Raga "yatharaga". **Attribu
 **13.4.** Narahari's moon is indeed a nagara — I can tell by His doings; and yet for shame I cannot say it outright to anyone."[^32-25]
 
 [^32-24]: Signature — "Narahari". GPT1 — p. 227, no. 158 (scan PDF p. 486); GPT2 — sect. 3.2, no. 158 (catalogue: NG-124). GCC — kirana 10, pada 10 (ed. 1947, pp. 121–122;
-scan PDF pp. 126–127). **Who is speaking.** The tenth kirana of GCC is headed "Again in the morning — the various amusements of the heavenly women (devaramaṇī), eager
+scan PDF pp. 126–127). **Who is speaking.** The tenth kirana of GCC is headed "Again in the morning — the various amusements of the heavenly women (debaramaṇī), eager
 for the rasa of His darshan": the wives of the gods look down from the sky on Nadia and on Gaura (10.1–10.2), praise the nagaris of Nadia and lament that they live not
 in Nadia but in the city of the gods (10.3–10.9); GCC 10.10–10.24 (GPT nos. 158–168, nos. 13–23 of this chapter) are their conversation and dispute about Gaura. In
 GPT these padas stand without the introduction and read as a conversation of townswomen; that the speakers are celestials can be seen in the GPT text itself: "you,
@@ -22993,7 +22988,7 @@ guess as to where Gaura spent the night), 10.18, 10.20 and 10.23 (short links). 
 garland); for Krishnadasa Kaviraja and Vrindavana Dasa the Lord's rapture is prema for Krishna in the bhava of Radha (CC, Adi 4; CB, Madhya), not a nagara's love. The
 heroines' guesses are rendered as in the original; their "He is indeed a nagara" is the very notion the tradition does not accept (introductory note, chapter 27).
 
-## 14. Narahari — "ki valiva ogo anubhavi bhāla…" (GPT1 pp. 227–228, no. 159; GCC 10.12)
+## 14. Narahari — "ki baliba ogo anubhabi bhāla…" (GPT1 pp. 227–228, no. 159; GCC 10.12)
 *Nagari-bhava (the heavenly women's talk). Another answers: "You judged rightly: I know all His play as a nagara, only I am shy to tell it — it is
 laughable to watch how He behaves: He thinks Himself the king of the clever, imagines that everything of His is secret — His descent, His gait, His
 dance, His love with the nagaris of Nadia — and covers the sun's rays with His hand. Before one who is cleverer than the clever no cleverness holds —
@@ -23019,7 +23014,7 @@ pp. 122–123; scan PDF pp. 127–128). Between GPT nos. 158 and 159 GCC has pad
 Nadia; that is the notion of gaura-nagari, which the tradition does not accept (introductory note, chapter 27); rendered as in the original. "Covers the sun's rays with
 His hand" (14.5) is a proverb for the vain concealment of the obvious.
 
-## 15. Narahari — "gaurāṅgacām̐dera eirūpa sava…" (GPT1 p. 228, no. 160; GCC 10.13)
+## 15. Narahari — "gaurāṅgacām̐dera eirūpa saba…" (GPT1 p. 228, no. 160; GCC 10.13)
 *Nagari-bhava (the heavenly women's talk). A third defends secrecy: "Do not grieve: with Gaurangachand all is so; in the open there is sorrow, in
 secret greater joy; even people who get a little wealth hide it more carefully than life; love is the supreme jewel and must be hidden, and a
 connoisseur of rasa is ashamed if it becomes known; Narahari's Lord is the crown of the adroit, and so He sports in secret." Raga "yatharaga".
@@ -23037,7 +23032,7 @@ connoisseur of rasa is ashamed if it becomes known; Narahari's Lord is the crown
 PDF p. 128), "anyā ca — yathārāga". The argument that love must be hidden is a commonplace of the poetics of rasa (cf. the answer in no. 16: "love never stays hidden");
 on Gaura's "secret play" see note 27. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 16. Narahari — "ye vala se vala pīriti gupata…" (GPT1 p. 228, no. 161; GCC 10.14)
+## 16. Narahari — "ye bala se bala pīriti gupata…" (GPT1 p. 228, no. 161; GCC 10.14)
 *Nagari-bhava (the heavenly women's talk). Yet another objects: "Love never stays hidden — its nature is to be seen; He behaves like the sun. Gora,
 Shachi's darling, is the thief of the composure of all the young wives of good family in Nadia: whoever wants to keep her dharma He enchants with a
 glance; night and day He sports with the young nagaris and pines for them." Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana
@@ -23062,7 +23057,7 @@ rendered exactly, without softening. The Gaudiya tradition rejects it: according
 with them (CB, Adi), and Bhaktisiddhanta Sarasvati counts "gaura-nagari" among the apasampradayas (introductory note, chapter 27). In Narahari Chakravarti's own work
 these words are at once answered by other heroines, who describe the Lord's strictness (nos. 19–20 of this chapter).
 
-## 17. Narahari — "śuna śuna ogo niścaya valie…" (GPT1 pp. 228–229, no. 162; GCC 10.15)
+## 17. Narahari — "śuna śuna ogo niścaya balie…" (GPT1 pp. 228–229, no. 162; GCC 10.15)
 *Nagari-bhava (the heavenly women's talk). The next says: "We are quite simple: we cannot understand the play of a nagara that Gora performs in
 Nadia; we know Him only by His outward nobility, and what is within Him cannot be known; blessed are you, connoisseurs of rasa in the city of the gods —
 who but you could understand it? At last the darkness has lifted: Narahari's Lord has appeared in the world subject to young women." Raga
@@ -23080,7 +23075,7 @@ who but you could understand it? At last the darkness has lifted: Narahari's Lor
 p. 124; scan PDF p. 129). The GPT1 OCR of 17.1 is garbled; the text follows the GPT1 scan, GPT2 and GCC. B. Nagari-bhava — see the introductory note to the section
 (chapter 27).
 [^32-32]: The tone of the pada seems mocking: the speaker appears to agree with the "connoisseurs of rasa in the city of the gods" (17.3 — a direct indication that the
-disputants are celestials, note 24), but her "subject to young women" (yuvatī-adhīna, 17.4) sounds like a challenge. "Subject to His devotees" is the Lord's word about Himself
+disputants are celestials, note 24), but her "subject to young women" (yubatī-adhīna, 17.4) sounds like a challenge. "Subject to His devotees" is the Lord's word about Himself
 (*Bhag.* 9.4.63), and of the gopis — 10.32.22; the transfer of this to Gaura as a nagara the tradition does not accept (introductory note, chapter 27). Rendered as in the original.
 
 ## 18. Narahari — "gorācām̐dera nāgarāli yata…" (GPT1 p. 229, no. 163; GCC 10.16)
@@ -23099,7 +23094,7 @@ and boldly addresses them all. Raga "yatharaga". **Attribution: probably Chakrav
 p. 129). Short payar: a couplet is one line. The newcomer's speech is the next pada (no. 19). B. The pada stands in the GPT section of nagari padas — see the introductory
 note to the section (chapter 27).
 
-## 19. Narahari — "ki valiva ogo tomādera prati…" (GPT1 p. 229, no. 164; GCC 10.17)
+## 19. Narahari — "ki baliba ogo tomādera prati…" (GPT1 p. 229, no. 164; GCC 10.17)
 *An answer: praise of the Lord's strictness (by content — not nagari-bhava). The newcomer says: "I am bewildered: why do you revile the Moon of Nadia?
 He is the lamp of Jagannatha Mishra's family, the conqueror of the digvijayi, the pandits of Nadia submit to Him, He is ever on the path of dharma; He does
 not listen to talk of women and never, even by mistake, looks at the faces of others' wives; if, while bathing in the Ganga, a woman's cloth touches Him,
@@ -23127,7 +23122,7 @@ towards women (CB, Adi: in this avatara the Lord did not look at women and allow
 parācita) after an accidental touch of a woman's cloth while bathing is the author's own; it is not in the biographies known to us. "Aparadha" is an offence — here,
 slander of the Lord. The signature "Narahari is witness": the poet himself testifies to the Lord's purity.
 
-## 20. Narahari — "hera āisa ogo o sava sahite…" (GPT1 pp. 229–230, no. 165; GCC 10.19)
+## 20. Narahari — "hera āisa ogo o saba sahite…" (GPT1 pp. 229–230, no. 165; GCC 10.19)
 *An answer: praise of the Lord's strictness (by content — not nagari-bhava). Another takes her friend by the hand: "Come here — why quarrel with them?
 In the city of the gods a false tale has arisen; do not be troubled. Only the guilty revile the faultless. Shachi's son out of modesty does not raise His
 face — far from looking at anyone; He does not touch even the shadow of other women — how could there be a touching of bodies? He does not go to the
@@ -23156,14 +23151,14 @@ Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 10, pada
 
 [^32-36]: Signature — "Narahari". GPT1 — pp. 229–230, no. 165 (scan PDF pp. 488–489); GPT2 — sect. 3.2, no. 165 (catalogue: NG-127). GCC — kirana 10, pada 19 (ed. 1947,
 pp. 125–126; scan PDF pp. 130–131); it is preceded by the short pada 10.18 (not in GPT): another woman, fearless, takes her friend by the hand and speaks to her. GCC
-readings: "dekhive thākuka" (20.4), "sujana jane ki sujane nindaye" (20.9). 20.7 "kriyā" follows GCC (GPT1 reads "krīṛā", "play" — probably a misprint). B. The pada
+readings: "dekhibe thākuka" (20.4), "sujana jane ki sujane nindaye" (20.9). 20.7 "kriyā" follows GCC (GPT1 reads "krīṛā", "play" — probably a misprint). B. The pada
 stands in the GPT section of nagari padas — see the introductory note to the section (chapter 27).
 [^32-37]: "In the city of the gods a false tale has arisen" (20.1) is a direct indication that the dispute is among celestial women (note 24). The description of the Lord
 (20.4–20.7) is the same as in the biographies: according to CB (Adi), in this avatara the Lord did not look at other men's wives; the detail of bathing in a secluded
 place is the author's own. The words "let no one revile the Lord", in the mouth of Narahari Chakravarti's heroine, coincide with the position of the tradition, which
 rejects gaura-nagari (introductory note, chapter 27).
 
-## 21. Narahari — "bhāla bhāla ogo esava kathāte…" (GPT1 pp. 230–231, no. 166; GCC 10.21)
+## 21. Narahari — "bhāla bhāla ogo esaba kathāte…" (GPT1 pp. 230–231, no. 166; GCC 10.21)
 *Nagari-bhava (a mocking answer). The disputants laugh: "We are not afraid: as virtuous as you are, so is your Gora — ah, He knows nothing, a muni among
 sages, He never goes into other people's houses! So many such virtues He has — and how many within He does not show; only young women's glances know them;
 but your eyes, like those of some birds, do not see the moon of the night: how should others know that Narahari's Lord is a snare that enchants women?"
@@ -23221,7 +23216,7 @@ women in His house? Let her answer." Raga "yatharaga". **Attribution: probably C
 
 [^32-40]: Signature — "Narahari". GPT1 — p. 231, no. 167 (scan PDF p. 490); in the GPT1 OCR line 22.7b is missing, but it is in the scan. GPT2 — sect. 3.2, no. 167 (catalogue:
 NG-360). GCC — kirana 10, pada 22 (ed. 1947, pp. 127–128; scan PDF pp. 132–133), "asyāḥ svapakṣāha — yathārāga" ("one of her own side said"). GCC readings: "dhare
-nāgariṇī veśa" — "takes on the guise of a nagarini (a woman)" (22.6), "uhāra cite" — "in her heart" (22.12). B. Nagari-bhava — see the introductory note to the section
+nāgariṇī beśa" — "takes on the guise of a nagarini (a woman)" (22.6), "uhāra cite" — "in her heart" (22.12). B. Nagari-bhava — see the introductory note to the section
 (chapter 27).
 [^32-41]: The disputant's rhetorical questions reinterpret features of the Lord's lila known from the biographies in the spirit of gaura-nagari: dancing in kirtana "with a
 woman's name" (22.9) — cf. the episode when the Lord repeated "gopi, gopi" (CC, Adi 17); "the guise of a nagarini" in the GCC reading (22.6) — perhaps an allusion to the
@@ -23231,7 +23226,7 @@ Kaviraja, all this is Radha's prema for Krishna, which the Lord tastes (CC, Adi 
 (introductory note, chapter 27). "One whose delight is in the formless" (22.3) is a gibe: the defender's strict view of the Lord is likened to worship of the impersonal
 (nirākāra). Rendered as in the original.
 
-## 23. Narahari — "śuna śuna ogo sakala vujhinu…" (GPT1 pp. 231–233, no. 168; GCC 10.24)
+## 23. Narahari — "śuna śuna ogo sakala bujhinu…" (GPT1 pp. 231–233, no. 168; GCC 10.24)
 *Nagari-bhava (the end of the dispute). Yet another, skilled in speech, says: "She is not at fault — you dispute in vain. Do not be sad, good and fair one:
 you say Gora does not look at others' women — how can I believe it, when the nagara's play in Nadia is beyond counting and I have seen it myself? And if
 you ask how this is possible in this descent — no one gives up his nature: this son of Shachi is the son of Yashoda; for the gopis' sake He herded cows and
@@ -23277,8 +23272,8 @@ kirana 10, pada 24.*[^32-42]
 
 [^32-42]: Signature — "Narahari". GPT1 — pp. 231–233, no. 168 (scan PDF pp. 490–492); GPT2 — sect. 3.2, no. 168 (catalogue: NG-361). GCC — kirana 10, pada 24 (ed. 1947,
 pp. 128–129; scan PDF pp. 133–134); it is preceded by the short pada 10.23 (not in GPT): the mockers said much, the defender was abashed, and then another, skilled
-in speech, looked at her own group and spoke sweetly. 23.13 "adhīna" ("subject") follows GCC (GPT1 "adhika"). The next GPT pada (no. 169 = GCC 10.25, "vrajapure
-rasavilāsa viśeṣa…") is in chapter 33. B. Nagari-bhava — see the introductory note to the section (chapter 27).
+in speech, looked at her own group and spoke sweetly. 23.13 "adhīna" ("subject") follows GCC (GPT1 "adhika"). The next GPT pada (no. 169 = GCC 10.25, "brajapure
+rasabilāsa biśeṣa…") is in chapter 33. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^32-43]: "This son of Shachi is the son of Yashoda" (23.11): that Gaura is Krishna Himself is the foundation of Gaudiya theology (CC, Adi 1–4; CB). But the heroine's
 conclusion — "a nature cannot be given up, so in Nadia too He plays the nagara" — the tradition does not accept: according to Krishnadasa Kaviraja, Krishna comes as
 Gaura in order to taste Radha's love — in her bhava and complexion, as a devotee, not as an enjoyer (CC, Adi 4); therefore Vrindavana Dasa and Krishnadasa Kaviraja do
@@ -23292,7 +23287,7 @@ scolding is sweeter than the hymns of the Vedas" — cf. Krishna's words in CC, 
 checked against its scan ("probably Chakravarti" — B). No. 146 (no. 1) = GCC 9.2 — a mother-in-law, on an astrologer's word, sends her daughters-in-law to
 Shachi-devi. Nos. 147–157 (nos. 2–12) = GCC 9.6–9.16 — the "wishes" (manoratha) of the townswomen on the way to Shachi's house, all in the future tense: to steal a
 glance at Gaura, feigned mana, a silent conversation of the eyes, reproaches; in GCC no. 150 comes after no. 153 (9.12). Nos. 158–168 (nos. 13–23) = GCC 10.10–10.24 —
-according to GCC this is the conversation and dispute of heavenly women (devaramaṇī) looking down on Nadia from the sky: some speak of the "secret play of the nagara",
+according to GCC this is the conversation and dispute of heavenly women (debaramaṇī) looking down on Nadia from the sky: some speak of the "secret play of the nagara",
 others (nos. 19–20) answer with a description of the Lord's strictness — He does not look at women, does not listen to talk of them, bathes in a secluded place — and
 call slander of Him an aparadha; the dispute ends with mockery and the argument "Shachi's son is Yashoda's son, a nature cannot be given up" (nos. 21–23). Section 3.2 of GPT omits GCC
 9.3–9.5, 9.17–9.23, 10.1–10.9, 10.11, 10.18, 10.20, 10.23 (some of them — 9.18–9.19, 9.21–9.22, 10.7–10.9 — stand in other sections of GPT, see the concluding note of chapter 33). Where GCC is more explicit than GPT (no. 9 — "the cloth over the breast" instead of "the cloth over the face";
@@ -23306,7 +23301,7 @@ of the tradition (notes 5, 25, 27, 30, 41, 43).*
 
 *On what nagari-bhava is, the position of the tradition (Vrindavana Dasa, Krishnadasa Kaviraja, Bhaktisiddhanta Sarasvati) and the rules of translation, see the introductory note to the section of nagari padas in chapter 27; on the two poets named Narahari (Narahari Sarakara and Narahari Chakravarti) and on the attribution labels ("probably Sarakara", "probably Chakravarti", "not established"), see the introductory note to the "Narahari" appendix in chapter 17.*
 
-## 1. Narahari — "vrajapure rasavilāsa viśeṣa…" (GPT1 p. 233, no. 169; GCC 10.25)
+## 1. Narahari — "brajapure rasabilāsa biśeṣa…" (GPT1 p. 233, no. 169; GCC 10.25)
 *Nagari-bhava (the heavenly women's talk). The heavenly woman who closed the dispute (chapter 32, no. 23) tells her friend in confidence: who can
 tell the special plays of rasa in Vraja? Yet He is the very same, and with all the same dear companions He ever sports in Nadia, absorbed in singing of
 His own virtues; first giving His own the nectar of His beauty to drink, He made them as if mad, and the young noble wives, bidding farewell to family
@@ -23321,7 +23316,7 @@ and shame, made Gora their very essence. Raga "yatharaga". **Attribution: probab
 **1.4.** Ever new noble wives, giving the last libation to family, to the family's disgrace and to shame, have all made their essence Gora, full of joy, the Beloved of their life — Narahari is witness to it."[^33-2]
 
 [^33-1]: Signature — "Narahari" (narahari sāthī — "Narahari the witness", cf. chapter 31, 13.10). GPT1 — p. 233, no. 169 (scan PDF p. 492); GPT2 — sect. 3.2, no. 169 (catalogue: NG-128).
-GCC — kirana 10, pada 25 (ed. 1947, p. 130; scan PDF p. 135), "yathārāga". **Who speaks.** The tenth kirana of GCC is the morning talk of the heavenly women (devaramaṇī)
+GCC — kirana 10, pada 25 (ed. 1947, p. 130; scan PDF p. 135), "yathārāga". **Who speaks.** The tenth kirana of GCC is the morning talk of the heavenly women (debaramaṇī)
 looking down on Nadia from the sky (chapter 32, note 24); padas 10.25–10.26 (nos. 1–2 of this chapter) close their talk: one tells another "in confidence", and the other asks
 to be taught how to come and live in Nadia. GCC readings: "gupate rākhiyā dio cita yāhā kahiye āpana jāniyā tore" ("keeping it secret, attend…"), "nija guṇagaṇe"
 ("absorbed in His own virtues"). B. Nagari-bhava — see the introductory note to the section (chapter 27).
@@ -23346,13 +23341,13 @@ Beloved in her heart and be rid of the cruel barrier. Raga "yatharaga". **Attrib
 
 [^33-3]: Signature — "Narahari" (narahari prāṇapiyā — "the Beloved of Narahari's life", glossary). GPT1 — p. 233, no. 170 (scan PDF p. 492); GPT2 — sect. 3.2, no. 170
 (catalogue: NG-362). GCC — kirana 10, pada 26 (ed. 1947, p. 130; scan PDF p. 135). 2.4 "be fulfilled" follows GPT2 and GCC "saphala" (GPT1 "sakala", a misprint); "barrier" —
-GPT1 and GCC "vādhā" (GPT2 "dhām̐dhā", "bewilderment"). The wish of heavenly beings to be born where the Lord reveals His lila is a commonplace of the hagiographies (CB,
+GPT1 and GCC "bādhā" (GPT2 "dhām̐dhā", "bewilderment"). The wish of heavenly beings to be born where the Lord reveals His lila is a commonplace of the hagiographies (CB,
 Adi: the gods long to be born in Navadvipa to share in the Lord's sankirtana); the "cruel barrier" is that one living in the city of the gods cannot come to Nadia. The
 closing pada of the kirana (GCC 10.27) is not in GPT: the fair one told her friend all she had asked, and the heavenly women, trembling and winking at one another,
 gave themselves to merry play, gazing at Narahari's Lord; the colophon: "the description of the play of the heavenly women filled with love for Him". B. Nagari-bhava —
 see the introductory note to the section (chapter 27).
 
-## 3. Narahari — "surapura mājhe vasati kariyā…" (GPT1 pp. 233–234, no. 171; GCC 11.4)
+## 3. Narahari — "surapura mājhe basati kariyā…" (GPT1 pp. 233–234, no. 171; GCC 11.4)
 *An answer: defence of the chastity of the women of Nadia (the heavenly women's talk; by content not nagari-bhava). The opening of the eleventh
 kirana of GCC — "the love-quarrels of the heavenly women". A heavenly woman who has just arrived angrily rebukes her friends: living in the city of the
 gods, they have grown proud and slander the women of Nadia; what they describe happens only with the young wives of Vraja, while the wives of Nadia are
@@ -23380,13 +23375,13 @@ scan PDF pp. 137–138), "yathārāga". **Who speaks.** The eleventh kirana of G
 opening is not in GPT: from the sky the heavenly women drink the nectar of Gaura's form as He plays in Shachi's courtyard and argue — some say that the nagaris of
 Nadia "have gone mad for the Beloved" and will bring disgrace on themselves, others answer that the wives of Vraja did the same (GCC 11.1); a short pada on the heavenly
 women's rapture (11.2); praise of the love of Nadia's young wives — and then "a heavenly woman arrived and, waving her hand, said angrily to all" (11.3). GCC readings:
-"nā jāniyā" (3.2), "tem̐i vali" (3.3). B. Nagari-bhava — see the introductory note to the section (chapter 27); this pada answers it.
+"nā jāniyā" (3.2), "tem̐i bali" (3.3). B. Nagari-bhava — see the introductory note to the section (chapter 27); this pada answers it.
 [^33-5]: The defender sets Vraja against Nadia: a love that takes no account of husbands and of talk "is possible only with the young wives of Vraja" (3.4), while the women
 of Nadia are faithful wives. Gaudiya theology agrees: the parakiya-rasa of the gopis belongs to Vraja (CC, Adi 4), and in Navadvipa the Lord did not accept the worship
 of women as a nagara (CB, Adi). The pada is therefore by content not nagari-bhava (like nos. 19–20 of chapter 32); in the heavenly women's dispute, however, her words
-will be mocked (nos. 4–10). "Neighbours" (sahavāsī, 3.8) — those who live with her in the city of the gods.
+will be mocked (nos. 4–10). "Neighbours" (sahabāsī, 3.8) — those who live with her in the city of the gods.
 
-## 4. Narahari — "bhāla bhāla ihā śikhāte have nā…" (GPT1 p. 234, no. 172; GCC 11.6)
+## 4. Narahari — "bhāla bhāla ihā śikhāte habe nā…" (GPT1 p. 234, no. 172; GCC 11.6)
 *Nagari-bhava (the heavenly women's quarrel). A mocker answers the defender: they need no teaching — as if they did not know: on earth only the
 wives of Nadia are faithful, and in the city of the gods only she; they themselves, forever singing of others' disgrace, will be disgraced, but will not
 make her a sharer; how can so clever a woman live among the unchaste? Let her go to Nadia with her dharma and her shame and live among the chaste.
@@ -23402,10 +23397,10 @@ Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kirana 11, pada
 
 [^33-6]: Signature — "Narahari". GPT1 — p. 234, no. 172 (scan PDF p. 493); GPT2 — sect. 3.2, no. 172 (catalogue: NG-363). GCC — kirana 11, pada 6 (ed. 1947, p. 133; scan PDF p. 138);
 before it, the short pada 11.5 (not in GPT): hearing this, a heavenly woman versed in rasa laughed inwardly with her own group, exchanged signs with them and spoke.
-4.1 — GPT1 "nā jāni e āmi", GCC "nā jāniye āmi" (GPT2 "jānie āmi", "I know"): the gibe — "as if I did not know"; 4.2 GCC "ihāra bhāgī kakhana nā karite yāva"; 4.4 GCC "tāhe vali".
+4.1 — GPT1 "nā jāni e āmi", GCC "nā jāniye āmi" (GPT2 "jānie āmi", "I know"): the gibe — "as if I did not know"; 4.2 GCC "ihāra bhāgī kakhana nā karite yāba"; 4.4 GCC "tāhe bali".
 The tone of the pada is mocking — rendered as in the original. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 5. Narahari — "hera āisa ogo pativratā saha…" (GPT1 p. 234, no. 173; GCC 11.7)
+## 5. Narahari — "hera āisa ogo patibratā saha…" (GPT1 p. 234, no. 173; GCC 11.7)
 *Nagari-bhava (the heavenly women's quarrel). Another calls her friend: why talk with a "faithful wife"? Joy is among equals; not all heavenly women
 are adroit — as the owl does not see the sun; the secret stories of Nadia's young wives she will not reveal for shame; but our Gora — beautiful, good —
 speaks to no one with raised face, is always careful on the path of dharma, knows nothing of such things — and such a Lord of Narahari they bewitched
@@ -23422,14 +23417,14 @@ with signs from the corners of their eyes. Raga "yatharaga". **Attribution: prob
 **5.5.** Always careful on the path of dharma — what shall I say! — He knows nothing of all this. And such a Lord of Narahari they bewitched, signalling from the corners of their eyes."[^33-8]
 
 [^33-7]: Signature — "Narahari" (naraharinātha — "Narahari's Lord"). GPT1 — p. 234, no. 173 (scan PDF p. 493); GPT2 — sect. 3.2, no. 173 (catalogue: NG-130; the catalogue's "paratatratā" is an
-OCR error for "pativratā"). GCC — kirana 11, pada 7 (ed. 1947, p. 134; scan PDF p. 139), "anyā ca — yathārāga" ("and another"). 5.1 in GCC "ki lāgi kahicha" — "why are you
+OCR error for "patibratā"). GCC — kirana 11, pada 7 (ed. 1947, p. 134; scan PDF p. 139), "anyā ca — yathārāga" ("and another"). 5.1 in GCC "ki lāgi kahicha" — "why are you
 saying all this to a faithful wife". "The owl does not see the sun" (5.2) — a proverb for blindness to the obvious. B. Nagari-bhava — see the introductory note to the
 section (chapter 27).
 [^33-8]: The Lord's portrait in 5.4–5.5 is the same as in the hagiographies: He speaks to no one with raised face and is "always careful on the path of dharma" (CB, Adi: in this
 incarnation the Lord did not look at women and allowed no jesting with them; cf. nos. 19–20 of chapter 32). The words "they bewitched Him" are the speaker's slander of
 the women of Nadia, rendered as in the original; the tradition's answer — introductory note (chapter 27).
 
-## 6. Narahari — "ki valiva ogo nadīyāra nava…" (GPT1 p. 235, no. 174; GCC 11.8)
+## 6. Narahari — "ki baliba ogo nadīyāra naba…" (GPT1 p. 235, no. 174; GCC 11.8)
 *Nagari-bhava (the heavenly women's quarrel). Another: the young wives of Nadia do not reveal their secrets, are always gracious outwardly, well-behaved
 before mother-in-law and sister-in-law, yet gain their ends so that no one notices, and secretly try to win the Moon of Nadia; she herself saw how they
 bewitched Him — and there was no one to restrain the women: Narahari was not with Gauranga. Raga "yatharaga". **Attribution: probably Chakravarti** —
@@ -23472,7 +23467,7 @@ note to the section (chapter 27).
 moves away (7.4) — is the same as in the hagiographies: in Navadvipa the Lord did not look at women and avoided their company (CB, Adi). The speaker's words about
 "faithful wives" are mockery; the tradition accepts neither this slander nor the worship of Gaura as a nagara (introductory note, chapter 27).
 
-## 8. Narahari — "ki kahiva ogo e sakala kathā…" (GPT1 p. 235, no. 176; GCC 11.10)
+## 8. Narahari — "ki kahiba ogo e sakala kathā…" (GPT1 p. 235, no. 176; GCC 11.10)
 *Nagari-bhava (the heavenly women's quarrel). Another: it is shameful even to speak of it — the beautiful Moon of Nadia ever trembles before young women;
 once Gora walked alone with an elephant's gait, looking at no one — and the "faithful wives" stood on His path and shot unseen sharp arrows from the
 corners of their eyes; one, holding a pomegranate, said: "To whom shall I give this wondrous fruit?", another: "He whose body is like new gold will take
@@ -23497,7 +23492,7 @@ GCC readings: "nadyāra śaśī" (8.1), "nirikhe" (8.2), "kāja sādhi" (8.5). B
 "Ever trembles before young women" (8.1), "did not look at anyone" (8.2), "in shame quickly went home" (8.5) — again the Lord's strictness, as in the hagiographies (CB, Adi;
 notes 8 and 11). The mocker tells it to show the "nature" of the women of Nadia; rendered as in the original.
 
-## 9. Narahari — "ki valiva iha savāre nirakhi…" (GPT1 p. 236, no. 177; GCC 11.15)
+## 9. Narahari — "ki baliba iha sabāre nirakhi…" (GPT1 p. 236, no. 177; GCC 11.15)
 *Nagari-bhava (the heavenly women's quarrel). The mocker goes on: the fame of the ways of Nadia's wives has filled the world — mothers-in-law, sisters-in-law,
 husbands always scold them and every day fervently pray to Old Shiva, fearing disgrace; they keep them at home, do not let them on the road, let them go to
 the Suradhuni only with a sister-in-law; the neighbour-women restrain them unceasingly, no one trusts them in anything; hearing such reproach, Narahari dies of
@@ -23514,11 +23509,11 @@ shame every day. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC
 [^33-14]: Signature — "Narahari". GPT1 — p. 236, no. 177 (scan PDF p. 495); GPT2 — sect. 3.2, no. 177 (catalogue: NG-133). GCC — kirana 11, pada 15 (ed. 1947, p. 138; scan PDF p. 143),
 "anyā ca — yathārāga"; in GCC it stands after the story of the women's going to the ghat (11.14 = nos. 11–12 of this chapter), in GPT before it (GPT has rearranged the padas:
 no. 177 = 11.15, no. 178 = 11.17, nos. 179–180 = 11.14). "How much she said" (9.1) — about the defender (no. 3). 9.2: the subject of "pray" is not named in the original — the elders
-(or the women themselves) fervently worship Old Shiva (vuṛāśiva, a revered murti of Shiva in Navadvipa; chapter 31, note 53), fearing that "there will be disgrace". 9.4 "Narahari
+(or the women themselves) fervently worship Old Shiva (buṛāśiba, a revered murti of Shiva in Navadvipa; chapter 31, note 53), fearing that "there will be disgrace". 9.4 "Narahari
 dies of shame" — a self-abasing signature (glossary, chapter 28): the poet is ashamed to hear the women of Nadia reviled. GCC readings: "sahāre nirasi" (OCR unclear), "jagate
-bhari", "vuṛā śive", "śuni narahari". B. Nagari-bhava — see the introductory note to the section (chapter 27).
+bhari", "buṛā śibe", "śuni narahari". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 
-## 10. Narahari — "surapure kevā nā jāne nadīyā…" (GPT1 p. 236, no. 178; GCC 11.17)
+## 10. Narahari — "surapure kebā nā jāne nadīyā…" (GPT1 p. 236, no. 178; GCC 11.17)
 *Nagari-bhava (the heavenly women's quarrel). The defender, frightened, has fallen silent (GCC 11.16); then a playful one, glancing at her own group, says:
 in the city of the gods everyone knows the ways of the nagaris of Nadia — why be vainly angry with her? What she said is secret; and taking her hand and
 praising her, she goes on gently: the ways of Nadia's young wives are past counting; no one looks at the bracelet on her own hand in a mirror — here is the
@@ -23544,10 +23539,10 @@ GCC, kirana 11, pada 17.*[^33-15]
 
 [^33-15]: Signature — "Narahari" (naraharipahum̐). GPT1 — p. 236, no. 178 (scan PDF p. 495); GPT2 — sect. 3.2, no. 178 (catalogue: NG-134). GCC — kirana 11, pada 17 (ed. 1947, p. 139; scan
 PDF p. 144), "yathārāga"; before it, the short pada 11.16 (not in GPT): the playful heavenly women said so much that the fair one took fright and could not utter a word; seeing this,
-a playful one, unable to contain her glee, glanced at her group and spoke slyly. 10.5 — GPT1 and GPT2 "āi bhavanera maṇi" ("the jewel in Ai's house"), GCC "āi-bhavane ramaṇī"
+a playful one, unable to contain her glee, glanced at her group and spoke slyly. 10.5 — GPT1 and GPT2 "āi bhabanera maṇi" ("the jewel in Ai's house"), GCC "āi-bhabane ramaṇī"
 ("the woman in Ai's house"); GPT rendered. "No one looks at the bracelet on her hand in a mirror" — a proverb: the obvious needs no proof. The astrologer who sends the daughters-in-law
 to Shachi — chapter 32, no. 1 (GCC 9.2). B. Nagari-bhava — see the introductory note to the section (chapter 27).
-[^33-16]: "Narahari's Lord is the husband of them all" (naraharipahum̐ pati savākāra, 10.8): pati — "husband", "lord". In Vaishnava theology Krishna is the Lord and the sole enjoyer
+[^33-16]: "Narahari's Lord is the husband of them all" (naraharipahum̐ pati sabākāra, 10.8): pati — "husband", "lord". In Vaishnava theology Krishna is the Lord and the sole enjoyer
 (CC, Adi 5), but on the heroine's lips the word means "the beloved husband of the nagaris of Nadia" — this is the gaura-nagari notion in its plain form, which the tradition does
 not accept: Gaura came in Radha's bhava as a devotee, not as the enjoyer (CC, Adi 4; introductory note, chapter 27). Rendered exactly. The signs the heroine lists (trembling,
 gooseflesh, sweat, 10.7) are the sattvika-bhavas, the marks of love in the poetics of rasa. The kirana closes with padas not in GPT: the fair one, hearing these words, let go of
@@ -23576,15 +23571,15 @@ composure. Raga "yatharaga". **Attribution: probably Chakravarti** — GCC, kira
 
 [^33-17]: Signature — "Narahari" (naraharinātha, 11.7). GPT1 — pp. 236–237, no. 179 (scan PDF pp. 495–496); GPT2 — sect. 3.2, no. 179 (catalogue: NG-135; the catalogue line is from the middle
 of the pada). GCC — kirana 11, pada 14 (ed. 1947, pp. 137–138; scan PDF pp. 142–143), "anyā ca — yathārāga". **GPT has split one pada of GCC into two** (nos. 179 and 180, nos. 11–12 of
-this chapter); the last couplet of no. 179 in GCC reads "yena gaura-śrutiyuga mugadhaye madhura madhura śavada śuni" ("so that Gaura's ears are charmed…"): the poet's name
-("naraharinātha") stands here only in GPT, and this "signature" is the compiler's work. GCC readings: "kahiye tomāre nilaji haiyā", "yugati yatana pāyā" (11.1), "ghāṭa āsiva"
+this chapter); the last couplet of no. 179 in GCC reads "yena gaura-śrutiyuga mugadhaye madhura madhura śabada śuni" ("so that Gaura's ears are charmed…"): the poet's name
+("naraharinātha") stands here only in GPT, and this "signature" is the compiler's work. GCC readings: "kahiye tomāre nilaji haiyā", "yugati yatana pāyā" (11.1), "ghāṭa āsiba"
 (11.2), "sājāha śire", "phirāite" (11.4), "ujara" (11.5). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-18]: "The One who has conquered the senses" (jitendriya, 11.4) is Gaura Himself: even the speakers acknowledge the restraint they hope to shake. Before this pada GCC has three
 padas not taken into GPT (the most outspoken of the kirana): the jests and improper antics of women at the Ganga ghat in the Lord's presence — and Narahari, seeing the
 impropriety, hurries to finish the bath and leads Gauranga home (GCC 11.11); the Lord, abashed at their words, covers His face with the end of His cloth (11.12); hearing their
 gossip, the Lord in fear, returning home, performs expiation (prayashchitta, 11.13). The author of GCC himself thus always shows the Lord strict and untouched (cf. CB, Adi).
 
-## 12. Narahari — "nānā kathā kahi āne āne save…" (GPT1 p. 237, no. 180; GCC 11.14, conclusion)
+## 12. Narahari — "nānā kathā kahi āne āne sabe…" (GPT1 p. 237, no. 180; GCC 11.14, conclusion)
 *Nagari-bhava (a heavenly woman's story, concluded). Dressed up, the women with pitchers on their hips come out of their houses and go to the Suradhuni,
 holding hands and talking of rasa; on the way they see Gaura — but He, a great pandita, walks with bowed head, keeping His composure; suspecting something
 amiss, He looked back once — and they showered Him with the arrows of their glances; the Jewel of virtues, abashed, thought of disgrace; the nagaris, keeping
@@ -23606,11 +23601,11 @@ couplet differs in GPT).*[^33-19]
 **12.7.** All the nagaris, keeping Gauranga's form in their hearts, worshipped Him with love. Narahari says: in the city of Nadia the meeting of the nagaris and the nagara came to pass.[^33-20]
 
 [^33-19]: Signature — "Narahari" (only in GPT, see note 20). GPT1 — p. 237, no. 180 (scan PDF p. 496); GPT2 — sect. 3.2, no. 180 (catalogue: NG-365). GCC — the second half of pada 11.14
-(ed. 1947, p. 138; scan PDF p. 143), without a heading of its own; its first line in GCC is "eirūpa kata kahi āne āne sājilena save ulasa haiyā" ("Having said so much…"; in GPT
-"nānā kathā kahi…"). 12.3 "full of rasa" follows GCC "rasiyā" (GPT1 and GPT2 "vasiyā", "sitting" — a misprint); 12.5 GPT1 "rahe" ("remains", "goes"). GCC readings: "cāyā", "pāyā",
-"īṣata" (12.4), "bhaye bhāvaye" (12.6). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+(ed. 1947, p. 138; scan PDF p. 143), without a heading of its own; its first line in GCC is "eirūpa kata kahi āne āne sājilena sabe ulasa haiyā" ("Having said so much…"; in GPT
+"nānā kathā kahi…"). 12.3 "full of rasa" follows GCC "rasiyā" (GPT1 and GPT2 "basiyā", "sitting" — a misprint); 12.5 GPT1 "rahe" ("remains", "goes"). GCC readings: "cāyā", "pāyā",
+"īṣata" (12.4), "bhaye bhābaye" (12.6). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-20]: **The last couplet of GPT (12.7) is different in GCC**: "What happened — what shall I say! Only Narahari was with Gauranga: that is why propriety and honour were kept; otherwise
-there would have been trouble on the road" (ye haila tāhā ki kava kevala narahari chila gaurāṅga-sāthe, tem̐i se sarama bharama rahila, nahile viṣama haita pathe). Here GPT — the
+there would have been trouble on the road" (ye haila tāhā ki kaba kebala narahari chila gaurāṅga-sāthe, tem̐i se sarama bharama rahila, nahile biṣama haita pathe). Here GPT — the
 only time in the section — does not soften GCC but heightens it: in place of the words that the companion preserved propriety stands the formula "the meeting of the nagaris and
 the nagara". GPT's text is translated, the GCC reading is in VAR. The "meeting" in the pada itself is only a glance on the road and the worship of the Lord's form in the heart; the
 Lord walks with bowed head and fears disgrace (12.5–12.6), as in the hagiographies (CB, Adi). The notion of Gaura as a nagara meeting with nagaris is not accepted by the
@@ -23633,7 +23628,7 @@ meet Narahari's Lord. Raga todi. **Attribution: probably Chakravarti** — the p
 [^33-21]: Signature — "Narahari" (naraharinātha). GPT1 — pp. 93–94, sect. 2.4 ("the second marriage"), no. 2 (todi; scan PDF pp. 352–353); GPT2 — sect. 2.4, no. 2 (catalogue: NG-046). BR — twelfth
 wave (ed. 1912, p. 799; ed. 1960, vv. 1403–1406), "punaśca — toṛī", in the series of wedding songs that Narahari Chakravarti gives when Ishana shows Srinivasa the house of Jagannatha
 Mishra (cf. chapter 21, note 29, and the opening of chapter 22); the preceding pada (GPT 2.4 no. 1 — chapter 21, no. 14) is the night before the adhivasa, when the women of Nadia
-wait for morning to go to Shachi for the water rite. The pada is not in GCC. BR readings: "iki ati" (13.1), "svapane se sava nadīyā-vidhu" (BR-1960; 13.2), "hāsi-miṣe" ("as if under
+wait for morning to go to Shachi for the water rite. The pada is not in GCC. BR readings: "iki ati" (13.1), "svapane se saba nadīyā-bidhu" (BR-1960; 13.2), "hāsi-miṣe" ("as if under
 cover of a smile"), "āliṅgaye" (13.3). The water rite (jala sāi) — a wedding rite of married women (chapter 21, note 3). B. Nagari-bhava — see the introductory note to the section
 (chapter 27).
 [^33-22]: The young wife's dream with an embrace (13.3) is the motif of sambhoga in a dream, as in the eighth kirana of GCC (chapter 31); rendered exactly. It is the heroine's imagining:
@@ -23641,7 +23636,7 @@ in His lila the Lord did not touch women and in Navadvipa did not look at them (
 note 30) — is told by Vrindavana Dasa without any nagari motif (CB, Adi 15). The Gaudiya tradition does not accept the worship of Gaura in the nagari mood (introductory note,
 chapter 27).
 
-## 14. Narahari — "gaura varaja-kiśora vara…" (GPT1 p. 94, sect. 2.4, no. 3; BR)
+## 14. Narahari — "gaura baraja-kiśora bara…" (GPT1 p. 94, sect. 2.4, no. 3; BR)
 *Nagari-bhava (anuraga). The same morning: ever new women, full of anuraga for Gaura, the best of the youths of Vraja, tremble; they hastily dress, line
 their eyes, rub their faces with kunkuma, bow to their elders, who gladly let them go to Shachi's house; countless throngs hurry along the road. Vrajabuli.
 Raga todi. **Attribution: probably Chakravarti** — the pada is in BR (twelfth wave).*[^33-23]
@@ -23655,14 +23650,14 @@ Raga todi. **Attribution: probably Chakravarti** — the pada is in BR (twelfth 
 **14.4.** Again and again the rasa of touch pours down like rain; hastily leaving their houses — says Narahari — how many on the path! The throngs cannot be counted.[^33-24]
 
 [^33-23]: Signature — "Narahari". GPT1 — p. 94, sect. 2.4, no. 3 (todi; scan PDF p. 353); GPT2 — sect. 2.4, no. 3 (catalogue: NG-047). BR — twelfth wave (ed. 1912, p. 800; ed. 1960, vv. 1407–1410),
-"punaśca — toṛī". The pada is not in GCC. 14.2 "ām̐ji" ("lining"; GPT1 "āji", without candravindu); BR readings: "aṅgarāge" (BR-1960, 14.1 — "in unguents"; GPT and BR-1912 "anurāge"),
+"punaśca — toṛī". The pada is not in GCC. 14.2 "ām̐ji" ("lining"; GPT1 "āji", without candrabindu); BR readings: "aṅgarāge" (BR-1960, 14.1 — "in unguents"; GPT and BR-1912 "anurāge"),
 "kuṅkumame" (14.2). The following padas of GPT (nos. 4–6 — the women's procession to Shachi, their bow, Shachi's blessing) were translated in chapter 21 (nos. 15–16; no. 4 bears the
 signature of Ghanashyama, outside the corpus). B. Nagari-bhava — see the introductory note to the section (chapter 27).
-[^33-24]: "The best of the youths of Vraja" (varaja-kiśora-vara, 14.1): that Gaura is Krishna Himself, the youth of Vraja, is the teaching of the tradition (CC, Adi 1–4); the women's anuraga
+[^33-24]: "The best of the youths of Vraja" (baraja-kiśora-bara, 14.1): that Gaura is Krishna Himself, the youth of Vraja, is the teaching of the tradition (CC, Adi 1–4); the women's anuraga
 for Him is rendered as the author has it. Here the elders themselves let the young wives go — to the wedding rite at Shachi's house (14.3); the motif of deceiving the elders
-(chapters 29–30) is absent. 14.4 "paraśa pararasa varaṣe ghana ghana" — the sense of the line is unclear (the same in all witnesses; perhaps "a thrill as if from a touch"); rendered literally.
+(chapters 29–30) is absent. 14.4 "paraśa pararasa baraṣe ghana ghana" — the sense of the line is unclear (the same in all witnesses; perhaps "a thrill as if from a touch"); rendered literally.
 
-## 15. Narahari — "nava nadīyā-nāgarī gori bhori vaya thori…" (GPT1 p. 95, sect. 2.4, no. 7; BR; GCC 9.22)
+## 15. Narahari — "naba nadīyā-nāgarī gori bhori baya thori…" (GPT1 p. 95, sect. 2.4, no. 7; BR; GCC 9.22)
 *Nagari-bhava. In Shachi's house the young nagaris of Nadia secretly gaze at the Beloved and tremble at Madana's arrow: one thinks she has become shameless,
 another cannot hold back a smile, a third speaks of love, half covered by her veil; others make signs, wipe their friends' faces, whisper aside; so all the noble
 chaste wives were immersed in the ocean of the rasa of prema for Gaura and gave the Lord of their life their life, their soul and their youth. Raga "yatharaga".
@@ -23684,11 +23679,11 @@ chaste wives were immersed in the ocean of the rasa of prema for Gaura and gave 
 vv. 1423–1428), "yathā — rāga", after Shachi's blessing (GPT 2.4 no. 6 = chapter 21, no. 16). GCC — kirana 9, pada 22 (ed. 1947, pp. 116–117; scan PDF pp. 121–122): there it is a morning at
 Shachi's house in the ninth kirana ("the wishes of the nagaris of Navadvipa"), after Shachi has blessed the townswomen (GCC 9.21); after it comes the closing pada of the kirana with
 the poet's prayer for devotion to the feet of the nagaris of Nadia (9.23; chapter 32, note 22). The series GPT 2.4 nos. 4–7 = GCC 9.18, 9.19, 9.21, 9.22 stands both in BR and in GCC: Chakravarti
-placed the same padas both in BR's wedding narrative and in the morning scenes of GCC. GCC readings: "gori vibhori" (15.1), "madana-vāṇe", "umaṛe", "ogo" and others; "gaura-premarasārṇave"
+placed the same padas both in BR's wedding narrative and in the morning scenes of GCC. GCC readings: "gori bibhori" (15.1), "madana-bāṇe", "umaṛe", "ogo" and others; "gaura-premarasārṇabe"
 (15.6). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-26]: "Tremble at Madana's arrow" (15.1), "gave the Lord of their life their life, their soul and their youth" (15.6) — the nagari motif in its plain form; rendered exactly. According to
 Krishnadasa Kaviraja, prema is the desire for Krishna's happiness, not one's own (CC, Adi 4); in the hagiographies the women of Navadvipa honour Gaura and Shachi as devotees (CB, Adi),
-and the tradition does not accept the worship of Gaura as a nagara (introductory note, chapter 27). "Chaste wives" (kulavatī satī) — so the poet calls them here and in GCC.
+and the tradition does not accept the worship of Gaura as a nagara (introductory note, chapter 27). "Chaste wives" (kulabatī satī) — so the poet calls them here and in GCC.
 
 ## 16. Narahari — "āhā mari ki madhura rīti…" (GPT1 p. 101, sect. 2.4, no. 21; BR)
 *Nagari-bhava; wishes (manoratha). At the wedding: the nagaris of Nadia, gazing at Gorachand, lose their composure; one whispers: "What is family shame to
@@ -23706,14 +23701,14 @@ the chamber (in BR: the bridal chamber), touch the golden body"; with such wishe
 
 [^33-27]: Signature — "Narahari". GPT1 — p. 101, sect. 2.4, no. 21 ("yathārāga"; scan PDF p. 360; the catalogue's "no. 20" was corrected in chapter 22); GPT2 — sect. 2.4, no. 21 (catalogue: NG-060). BR —
 twelfth wave (ed. 1912, pp. 810–811; ed. 1960, vv. 1507–1510), "punaḥ yathā — rāga", between the padas on the Lord's wedding form (GPT 2.4 no. 20 — chapter 22, no. 3) and on the procession to
-Sanatana Mishra's house (no. 22 — chapter 22, no. 4). The pada is not in GCC. BR readings: "keho dhīri dhīri, kahe bhaṅgi kari" (16.2: "one very softly says, swaying her body"), "rākhi' vukera mājhe";
-"sāmā'yā vāsara-ghare" (16.3: "slipping into the bridal chamber" — more outspoken than GPT "rasera ghare"). B. Nagari-bhava — see the introductory note to the section (chapter 27).
+Sanatana Mishra's house (no. 22 — chapter 22, no. 4). The pada is not in GCC. BR readings: "keho dhīri dhīri, kahe bhaṅgi kari" (16.2: "one very softly says, swaying her body"), "rākhi' bukera mājhe";
+"sāmā'yā bāsara-ghare" (16.3: "slipping into the bridal chamber" — more outspoken than GPT "rasera ghare"). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-28]: The townswomen's wishes (16.2–16.3) — "to play with Gora day and night", "to touch the golden body" — are the nagari motif in its plain form; rendered exactly; where BR is more outspoken
 than GPT ("the bridal chamber"), GPT is translated. At the Lord's wedding with Vishnupriya, His eternal consort (chapter 21, note 30), Vrindavana Dasa describes the joy of the people of Nadia
 without the nagari motif (CB, Adi 15); the tradition does not accept the worship of Gaura as a nagara (introductory note, chapter 27). "Together with Narahari" (16.4) — the poet places himself
 among those in the procession.
 
-## 17. Narahari — "dekha dekha ago bhuvanamohana gaurāṅgarūpera chaṭā…" (GPT1 p. 155, sect. 3.1, no. 129; GCC 10.8)
+## 17. Narahari — "dekha dekha ago bhubanamohana gaurāṅgarūpera chaṭā…" (GPT1 p. 155, sect. 3.1, no. 129; GCC 10.8)
 *Nagari-bhava (the heavenly women's talk): praise of His form. One of the heavenly women calls her friends to look at the radiance of Gauranga's form: is it
 lightning that has left the cloud and flashed upon the earth? a heap of golden lotus buds, of ground gorochana? fresh kunkuma on the breasts of the young
 wives of Vraja, a champaka garland on the necks of the nagaris of Navadvipa? One longs to keep Him always in the heart; the eyes are never sated. Raga
@@ -23731,13 +23726,13 @@ wives of Vraja, a champaka garland on the necks of the nagaris of Navadvipa? One
 **A witness found** (the catalogue had: "not in BR, GPT2 index — Sarakara; nagari, later"): GCC — kirana 10, pada 8 (ed. 1947, p. 121; scan PDF p. 126), "kācicca — yathārāga" ("and a
 certain [heavenly woman]"): it is one of the morning speeches of the heavenly women that open the tenth kirana (chapter 32, note 24); after it come GCC 10.9 (no. 18 of this chapter) and
 10.10 (GPT no. 158 — chapter 32, no. 13). GPT placed both padas at the end of section 3.1 ("Gaura's form"), before the section of nagari padas. GCC readings: "ogo" (17.1), "dhārādhara"
-("cloud"; GPT1 "dharādhara" — "mountain" — rendered "cloud" by sense and after GCC: lightning leaves the cloud), "niramala sundara kanaka kamala-kalikā-rāśi" (17.2), "navayuvatī-kucera"
+("cloud"; GPT1 "dharādhara" — "mountain" — rendered "cloud" by sense and after GCC: lightning leaves the cloud), "niramala sundara kanaka kamala-kalikā-rāśi" (17.2), "nabayubatī-kucera"
 (17.3). B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-30]: The comparisons for Gaura's golden colour (lightning, golden lotus, gorochana, kunkuma, champaka) are usual in the padas; kunkuma from the gopis' breasts is the paint left on Krishna's
 body after embraces — an image of Vraja-lila. Gaura is golden because He took Radha's colour (CC, Adi 4; CC, Adi 1.5); "to keep Him in the heart" is the wish of the speaking heavenly woman;
 the tradition does not accept the worship of Gaura as a nagara (introductory note, chapter 27).
 
-## 18. Narahari — "dekha dekha ago gaurāṅgacām̐dera bhuvanamohana veśa…" (GPT1 p. 155, sect. 3.1, no. 130; GCC 10.9)
+## 18. Narahari — "dekha dekha ago gaurāṅgacām̐dera bhubanamohana beśa…" (GPT1 p. 155, sect. 3.1, no. 130; GCC 10.9)
 *Nagari-bhava (the heavenly women's talk): His morning form. Another calls them to look at the world-enchanting form of Gaurangachand: dishevelled curls
 wreathed with kunda buds; on His brow a tilaka of kunkuma and sandal — as if the moon had risen in a golden sky; the earrings flash; "He will steal dharma,
 modesty and honour"; a garland that enchants young women; "what play this is — I cannot understand". Raga "yatharaga". **Attribution: probably Chakravarti** —
@@ -23752,8 +23747,8 @@ GCC, kirana 10, pada 9.*[^33-31]
 **18.4.** On His neck a garland that enchants young women, matchless, falling in curves. I see Narahari's Lord — what a form! I cannot understand what play this is."[^33-32]
 
 [^33-31]: Signature — "Narahari" (narahari nātha). GPT1 — p. 155, sect. 3.1, no. 130 (scan PDF p. 414); GPT2 — sect. 3.1, no. 130. **The pada was not in the catalogue** (Narahari signature; new
-line NG-366). GCC — kirana 10, pada 9 (ed. 1947, p. 121; scan PDF p. 126), "kācicca — yathārāga". GCC readings: "ogo", "gaurāṅga-cāndera" (18.1), "kunda-kali-veṛā", "tilaka-kuṅkuma
-candanavindu" (18.2), "dhairaja-dharama-sarama" (18.3: "composure, dharma, modesty"; GPT "dharama sarama bharama" — "dharma, modesty, honour"), "nā bujhi e kona raṅga" (18.4). "krama
+line NG-366). GCC — kirana 10, pada 9 (ed. 1947, p. 121; scan PDF p. 126), "kācicca — yathārāga". GCC readings: "ogo", "gaurāṅga-cāndera" (18.1), "kunda-kali-beṛā", "tilaka-kuṅkuma
+candanabindu" (18.2), "dhairaja-dharama-sarama" (18.3: "composure, dharma, modesty"; GPT "dharama sarama bharama" — "dharma, modesty, honour"), "nā bujhi e kona raṅga" (18.4). "krama
 bhaṅga" (18.4) — "falling in curves", the meaning not quite clear. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-32]: Gaura's morning appearance — dishevelled curls, falling flowers — is read by the heavenly women in the following padas of GCC (10.10 onward, chapter 32, nos. 13–23) as the traces of a
 nagara's night play; with Vrindavana Dasa the Lord spends the nights in kirtana in Srivasa's house (CB, Madhya), and His rapture is prema for Krishna in Radha's bhava (CC, Adi 4). "He will
@@ -23775,7 +23770,7 @@ to the bank of the Suradhuni and look but once at Narahari's Lord. Raga mallar o
 [^33-33]: Signature — "Narahari" (naraharinātha). GPT1 — pp. 324–325, sect. 5.1 ("the festivals of the year": jhulana), no. 12 (mallar or beloyar; scan PDF pp. 583–584); GPT2 — sect. 5.1, no. 12 (catalogue:
 NG-257). BR — twelfth wave (ed. 1912, pp. 939–940; ed. 1960, vv. 3271–3274; in the OCR of the 1960 edition only the last couplet survives), "punaḥ mallāra": in the rainy season the Lord swung on
 a swing in Nadia (vv. 3261–3262); GPT 5.1 nos. 10, 11 and 13 of the same series were translated in chapter 18 (nos. 12–14). The pada is not in GCC. Variants noted in GPT1 (the editor's footnotes,
-"pāṭhāntara"): "jhulaye" (19.1), "ati" for "ām̐khi", "gadādhara-mukundādi saṅgigaṇe" ("the companions — Gadadhara, Mukunda and others", 19.2), "savahi dolā yatane jhulāyata" ("all carefully
+"pāṭhāntara"): "jhulaye" (19.1), "ati" for "ām̐khi", "gadādhara-mukundādi saṅgigaṇe" ("the companions — Gadadhara, Mukunda and others", 19.2), "sabahi dolā yatane jhulāyata" ("all carefully
 push the swing"), "heriyā" (19.3), "mainu guṇa". B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-34]: 19.3 "manu manu mane guṇiyā" (GPT1, BR) — the sense is unclear; rendered after the GPT1 variant "mainu" ("I died"). Gaura's jhulana with Gadadhara recalls the jhulana of Radha and Krishna
 (notes to nos. 12–13 of chapter 18). The nagari motif is only in the last couplet: a townswoman swears to give up "family shame" to see the Lord; rendered exactly; the tradition does not accept
@@ -23797,7 +23792,7 @@ Lord and bidden farewell to shame and family". Raga dhanashi. **Attribution: pro
 
 [^33-35]: Signature — "Narahari" (narahari-pahum̐). GPT1 — p. 356, sect. 5.2 ("ashtakaliya"), no. 39 (dhanashi; scan PDF p. 615); GPT2 — sect. 5.2, no. 39 (catalogue: NG-186). BR — twelfth wave
 (ed. 1912, pp. 870–871; ed. 1960, vv. 2380–2383), after the pada on the dandies of Nadia (GPT 5.2 no. 38 — chapter 23, no. 14); after it Ishana tells Srinivasa: "The Lord, walking through Nadia,
-revealed Himself to give joy to His devotees" (v. 2384). The pada is not in GCC. 20.1 GPT1 "divā" (GPT2 and BR "diyā"); BR readings: "hili duli" (20.1), "keho kahe", "dekha sakhī" (20.2),
+revealed Himself to give joy to His devotees" (v. 2384). The pada is not in GCC. 20.1 GPT1 "dibā" (GPT2 and BR "diyā"); BR readings: "hili duli" (20.1), "keho kahe", "dekha sakhī" (20.2),
 "śohe" (20.3), "narahari pahu rase sumajinu" (20.4). Rangana (raṅgaṇa) — ixora, a shrub with red flowers. B. Nagari-bhava — see the introductory note to the section (chapter 27).
 [^33-36]: Arms reaching to the knees and a broad chest (20.4) are the marks of a great personage (mahapurusha), which the hagiographies name in the Lord's form (CC, Adi 3). The townswoman's
 words "I have drowned in the rasa of Narahari's Lord, bidden farewell to shame and family" are the nagari formula (cf. no. 1 of this chapter); rendered exactly; the tradition does not accept
@@ -23849,7 +23844,7 @@ not taken: the opening 10.1–10.6, 10.11, 10.18, 10.20, 10.23 and the closing 1
 padas 11.11–11.13 and the close 11.18–11.19. Besides these, GCC 2.13 (Gaura's words in sleep) stands in GPT 3.2 (no. 119).*
 
 *4. **Who speaks.** In GCC the padas of kiranas 7–9 are the words of the townswomen of Nadia (and of a mother-in-law who sends her daughters-in-law to Shachi, 9.2); the padas
-of kiranas 10–11 are the words of heavenly women (devaramaṇī), who only watch Nadia from the sky and long to be born there. In GPT the openings, colophons and links of
+of kiranas 10–11 are the words of heavenly women (debaramaṇī), who only watch Nadia from the sky and long to be born there. In GPT the openings, colophons and links of
 the kiranas are left out, and all the padas of section 3.2 read as the words of townswomen; but traces remain in the GPT text itself — "you, connoisseurs of rasa in the city of
 the gods", "in the city of the gods a rumour has arisen", "living in the city of the gods, why have you grown so proud", "how will you live alone in the city of the gods" (chapter
 32, nos. 17, 20; chapter 33, nos. 3, 4, 10). Therefore 25 padas of GPT (3.2 nos. 158–180 and 3.1 nos. 129–130) are translated with the label "the heavenly women's talk".*
@@ -23884,7 +23879,7 @@ scan of GPT1 (text and signatures), against GPT2 (same numbering, same text), th
 padas are not translated anew here: **no. 61** "nadīyā-nāgarī sāri sāri sāri…" = PK 2178 and **no. 66** "āra śunecha ālo sai…" = PK 2174 were translated
 in chapter 28 (nos. 28 and 27); **no. 80** "ānanda nadīyāpure ṭalamala premabhare…" = PK 2088 is a passage of the *Chaitanya-mangala* itself
 (Madhya-khanda: the Lord in kirtana, raga sindhura, with the refrain "The town of Nadia rejoices…"; our translation — *Chaitanya-mangala*, Madhya-khanda, part 4, vv. 110–118;
-GPT gives vv. 110–114 and 118, without vv. 115–117), in content a praise of the Lord in kirtana, not nagari-bhava; **no. 84** "niravadhi gorārūpa mane
+GPT gives vv. 110–114 and 118, without vv. 115–117), in content a praise of the Lord in kirtana, not nagari-bhava; **no. 84** "nirabadhi gorārūpa mane
 jāgiyāche go…" = PK 777, signed by **Vasu Ghosha** (translated in chapter 27, no. 16): in GPT1 the same pada also stands as no. 17 with Vasu's
 signature, so Lochana's signature in no. 84 contradicts both PK and GPT itself. The remaining 22 padas are translated below (nos. 1–22).*
 
@@ -23941,7 +23936,7 @@ tradition rejects: according to the *Chaitanya-bhagavata* (Adi-khanda), the Lord
 Sarasvati counts "gaura-nagari" among the apasampradayas (introductory note). According to Majumdar, nagari padas known only from GPT are an
 unreliable and late layer. "Pours out nectar" (sudhā ugāraye) is an image of sweetness common in padas on Krishna.
 [^34-4]: "Bidding farewell to all" (tilāñjali diyā) — lit. "giving the farewell handful of water with sesame" (as to the dead): leaving for ever. "I have
-let float away" (bhāsānu) is in the past tense, while "I will enfold" (laiva) is in the future; so in the original.
+let float away" (bhāsānu) is in the past tense, while "I will enfold" (laiba) is in the future; so in the original.
 
 ## 2. Lochana Dasa — "śuna śuna sai āra kichu kai…" (GPT1 p. 178, no. 63)
 *Nagari-bhava. "Listen, friend: Gauranga is not a man!" Ever since the townswoman saw the moon of His face, her eyes have drowned in the ocean of
@@ -23984,13 +23979,13 @@ He has come to Navadvipa and revealed Himself in the house of Shachi.[^34-9]
 **3.3.** The word of Lochana: listen, friend, what more shall I tell you?
 I saw the face — and the mind forgot itself: I cannot forget Him.
 
-[^34-8]: Signature: "the word of Lochana" (locanera vāṇī). GPT1 — p. 178, no. 64 (raga kamoda; scan PDF p. 437); GPT2 — 3.2, no. 64 (same text). No other
+[^34-8]: Signature: "the word of Lochana" (locanera bāṇī). GPT1 — p. 178, no. 64 (raga kamoda; scan PDF p. 437); GPT2 — 3.2, no. 64 (same text). No other
 witnesses; attribution by GPT only — C. The nagari motif is only in the address "friend": in substance this is a praise of Gaura and contemplation of Him in the heart. On
 nagari-bhava see the introductory note to the section (chapter 27).
 [^34-9]: Gaura is the same Krishna, the son of Nanda, who has appeared in Shachi's house (CC Adi 1–4); in Lochana this thought runs through the whole
 *Chaitanya-mangala*.
 
-## 4. Lochana Dasa — "gaurāṅgavadane harila cetane…" (GPT1 p. 178, no. 65)
+## 4. Lochana Dasa — "gaurāṅgabadane harila cetane…" (GPT1 p. 178, no. 65)
 *Nagari-bhava. Gauranga's face has stolen the townswoman's reason: she wants to forget — she cannot. Refrain: "Gora has entered the heart; the
 townswomen of Nadia have gone mad — I have understood it by myself." Seeing Gauranga's feet, a noble wife leaves her husband; whether it is righteous
 or not — it is shameful even to say. Raga kamoda.*[^34-10]
@@ -24062,7 +24057,7 @@ two couplets (5.1–5.2) are the beginning of Jnanadasa's pada PK 748 "rūpa lā
 "jñāna"; also in the *Padamrita-samudra*), where Radha weeps for Shyama; here "(gaurera)" — "of Gaura" — is added, and the whole pada is turned to
 Gaura; from then on it is colloquial Bengali. Developing the opening lines of a well-known pada is a usual practice of kirtaniyas; the pada is a
 composite, and its attribution to Lochana rests only on the signature in GPT (C). On nagari-bhava see the introductory note to the section (chapter 27).
-[^34-13]: The words in brackets — "(gaurera)", "(gaura)", "(gelāma! gelāma!!)", "(tāte āvāra)", "(gaurarūpa)", "(gaurāṅgarūpa)" — are insertions of
+[^34-13]: The words in brackets — "(gaurera)", "(gaura)", "(gelāma! gelāma!!)", "(tāte ābāra)", "(gaurarūpa)", "(gaurāṅgarūpa)" — are insertions of
 the kirtana singers (akhar), as GPT prints them; they are translated in brackets. "The darling doll of my soul" (parāṇa putalī) — what is dearest;
 PK 748 has here "parāṇa pirīti lāgi," while "parāṇa-putalī mora" is the reading of MS P-R-Sa in the PK apparatus: GPT follows it.
 [^34-14]: "Made a dwelling" (karala khānā): khānā is "house, dwelling" (Pers. khana) or "pieces" ("cut to pieces"); both readings are possible.
@@ -24110,11 +24105,11 @@ by this the mind of the nagari Lochana has been swept away."[^34-20]
 [^34-17]: Signature: "the nagari Lochana." GPT1 — pp. 180–181, no. 68 (raga "yatharaga"; scan PDF pp. 439–440); GPT2 — 3.2, no. 68 (same text). No other
 witnesses; attribution by GPT only — C. The pada begins as a narrative in the third person ("goes") and passes into the first ("I filled"); so in the original. On nagari-bhava
 see the introductory note to the section (chapter 27).
-[^34-18]: "The young wife" — GPT1 has "vam̐dhu" (usually "beloved, friend"); from the sense (stupor, bewilderment) it apparently stands here for vadhū,
+[^34-18]: "The young wife" — GPT1 has "bam̐dhu" (usually "beloved, friend"); from the sense (stupor, bewilderment) it apparently stands here for badhū,
 "young wife": the speaker about herself. "Beside herself" (cauura hārā) — the meaning is conjectural. "Friends" (sakhā) — the Lord's associates.
 [^34-19]: 6.3–6.10 describe the form from the brows to the feet, as in padas on Krishna: the brows are "the teacher of Kama" (they teach him to shoot), the
 colour of the body is a mixture of vermilion, orpiment and butter burnished like pure gold; "the moon sifted and set" in the hands is apparently the
-nails (cf. "the moons of the nails"). "A god of rasa" (rasera de) is conjectural (de = deva).
+nails (cf. "the moons of the nails"). "A god of rasa" (rasera de) is conjectural (de = deba).
 [^34-20]: "The nagari Lochana": the poet calls himself a townswoman — he sings in the bhava of a nagari, putting himself in the heroine's place. The
 tradition does not accept such worship of Gaura (introductory note). "The nagara of beauty" is an epithet of Gaura in nagari-bhava (ibid.).
 
@@ -24147,7 +24142,7 @@ of Kama" (kāmera koṛā) is an unclear image: "whip," or, reading kom̐ṛā, 
 introductory note). The insertion "(chāde)" in 7.3 — "on the roof" (?): the sense is unclear. On nagari-bhava see the introductory note to the section
 (chapter 27).
 
-## 8. Lochana Dasa — "eka nāgarī vale didi nāite yakhana yāi…" (GPT1 pp. 181–182, no. 70)
+## 8. Lochana Dasa — "eka nāgarī bale didi nāite yakhana yāi…" (GPT1 pp. 181–182, no. 70)
 *Nagari-bhava. A townswoman tells how, going to bathe, she put back her veil and saw Gaura; she ran home, but her eyes stayed with Him; her body
 trembles; the ghat shines with His body, young women crowd; with the rope of anuraga He pulls her soul. She playfully warns her friend: look — and
 you are lost; if you would keep the family honour, stay at home. Raga "yatharaga".*[^34-22]
@@ -24184,7 +24179,7 @@ attribution by GPT only — C. Lines 8.3 and 8.5b recur almost word for word in 
 note to the section (chapter 27).
 [^34-23]: "The pendant in the nose" (nāsāra nolaka) is apparently Gaura's ornament (cf. no. 13, 13.3, 13.6: "a pendant swings in the nose… at Gora's
 laughter"); in padas on Krishna — the pearl (veshara) in His nose. Translated as in the original.
-[^34-24]: 8.7–8.9 are a playful "warning" to the friend: so great is the power of the Lord's form. "Crazy" (vauri = vāurī). The motif of "losing the
+[^34-24]: 8.7–8.9 are a playful "warning" to the friend: so great is the power of the Lord's form. "Crazy" (bauri = bāurī). The motif of "losing the
 family" — see note 7.
 
 ## 9. Lochana Dasa — "gorārūpa rasera kūpa sahajei eta…" (GPT1 p. 182, no. 71)
@@ -24219,13 +24214,13 @@ attribution by GPT only — C. Couplets
 section (chapter 27).
 [^34-26]: 9.2–9.3 are all in the conditional ("if"): the townswoman pictures what would happen if Gora wished to charm. Translated exactly. According to CB
 (Adi-khanda), the Lord in Navadvipa did not look at women; the notion of Him as a nagara seeking the townswomen's love is rejected by the tradition
-(note 3; introductory note). "Rasavati" (rasavatī) — "she who is full of rasa," the heroine.
+(note 3; introductory note). "Rasavati" (rasabatī) — "she who is full of rasa," the heroine.
 [^34-27]: Rati is the wife of Kama, the god of love: even she would leave her husband for Gora — a hyperbole of a beauty surpassing Kama himself (cf.
 Krishna's epithet "Madana-mohana," "the charmer of the god of love").
-[^34-28]: "(sarvvasva)" is the GPT compiler's gloss on saravasa ("all one's wealth"); translated in brackets. "Subject to rasa" (rasavaśa) — in GPT1 joined
+[^34-28]: "(sarvvasva)" is the GPT compiler's gloss on saravasa ("all one's wealth"); translated in brackets. "Subject to rasa" (rasabaśa) — in GPT1 joined
 to "all my wealth"; it may also be understood of the speaker herself: "overcome by rasa."
 
-## 10. Lochana Dasa — "gaura-ratana ka're yatana rākhava hiyāra mājhe…" (GPT1 pp. 182–183, no. 72)
+## 10. Lochana Dasa — "gaura-ratana ka're yatana rākhaba hiyāra mājhe…" (GPT1 pp. 182–183, no. 72)
 *Nagari-bhava. The townswoman will carefully keep the jewel Gaura in her heart, put on ornaments of His colour, write "Gaura" on her body with
 gorochana, walk proudly along the road repeating "Gaura," tear up her family by the roots and give shame to the fire; Gaurachand has set the snares of
 rasa in every house. Raga "yatharaga".*[^34-29]
@@ -24328,12 +24323,12 @@ Says Lochana: "Go and tell why your foot has slipped!"
 
 [^34-35]: Signature: "Lochana." GPT1 — pp. 183–184, no. 74 (raga "yatharaga"; scan PDF pp. 442–443); GPT2 — 3.2, no. 74 (same text). No other witnesses;
 attribution by GPT only — C.
-"Mad" (vāula) — lit. "baul," possessed, "beside oneself." On nagari-bhava see the introductory note to the section (chapter 27).
+"Mad" (bāula) — lit. "baul," possessed, "beside oneself." On nagari-bhava see the introductory note to the section (chapter 27).
 [^34-36]: Gora is on her heart "even in her own husband's arms" — the parakiya motif transferred to the townswomen (notes 7, 11).
 [^34-37]: In GPT1 and GPT2 this is a single line (with the mark ॥); its pair has apparently dropped out. "Your foot has slipped" (12.6) — the poet's joke:
 the heroine has "stumbled," losing her head over Gora.
 
-## 13. Lochana Dasa — "eka nāgarī hese vale śunago marama sai…" (GPT1 pp. 184–185, no. 75)
+## 13. Lochana Dasa — "eka nāgarī hese bale śunago marama sai…" (GPT1 pp. 184–185, no. 75)
 *Nagari-bhava. One townswoman, laughing, tells her intimate friend: they have never seen such a "man of rasa" — the pendant swings, at His laughter
 one cannot be still; she went to look by chance — and He pulls her heart with the rope of anuraga; from under her veil she saw the dancer of rasa go
 dancing through the bazaar of Nadia. Another answers: I will go to another land — shut the doors of this one, go to the "inner village"; a jewel
@@ -24410,7 +24405,7 @@ substance a praise of Gaura's dance in kirtana; the nagari motif is in the frame
 [^34-42]: "The flood of prema" is the Lord's kirtana that flooded Nadia (CB, Madhya-khanda); "even Madana loses his head" — cf. the epithet
 "Madana-mohana" (note 27).
 
-## 15. Lochana Dasa — "kivā se lāvaṇya rūpa vayase utthāna…" (GPT1 p. 185, no. 77)
+## 15. Lochana Dasa — "kibā se lābaṇya rūpa bayase utthāna…" (GPT1 p. 185, no. 77)
 *Nagari-bhava. The townswoman describes Gauranga's form: the hair, the brows — Kama's bow, the eyes; whether she dives into water or closes her eyes,
 she still sees Him; she would spread her breast over all Nadia for Gauranga to dance and walk on; let them call her "disgraced by Gaura." At the end
 the poet looks on from outside: Gaurachand walks through Nadia, and the townswomen's eyes, like bees, drink the honey of His face. Raga
@@ -24504,7 +24499,7 @@ introductory note to the section (chapter 27).
 an extra stanza: "Thinking of Radha's form, Gora became a golden body; formerly this turned into a gift of prema; whose heart does not drown in His
 deeds — shame on him!" "The darling doll of my soul" (16.2) — what is dearest (note 13).
 
-## 17. Lochana Dasa — "śāradacandrikā svarṇa dhik campakera varṇa…" (GPT1 p. 186, no. 79)
+## 17. Lochana Dasa — "śāradacandrikā svarṇa dhik campakera barṇa…" (GPT1 p. 186, no. 79)
 *A praise of Gaura's form (in content not nagari-bhava: the nagari motif is only the address "friend"). Neither gold nor moonlight, nor champaka, nor
 precious stones, nor lightning compare with Gora: all these are forms of the world of prakriti, while He is the king of rasa beyond the world; He can
 be compared only with Himself. As a bird flies in the sky as far as its strength allows, so the poet sings of Him. Raga "yatharaga".*[^34-49]
@@ -24539,7 +24534,7 @@ bliss (CC Adi 4 and elsewhere). Shona is a red flower; gorochana and orpiment ar
 describe Him. "Taking a body in earthly form" (dharārūpe aṅgadharā) — the interpretation is conjectural. "As far as he is able" (anusāre) — as a bird
 flies in the boundless sky as far as its strength allows.
 
-## 18. Lochana Dasa — "(hem̐i go hem̐i go) sai tore virala peye kai…" (GPT1 p. 187, no. 81)
+## 18. Lochana Dasa — "(hem̐i go hem̐i go) sai tore birala peye kai…" (GPT1 p. 187, no. 81)
 *Nagari-bhava (a dream). Finding her friend alone, the townswoman tells her dream: Shachi's Gora, with a garland of malati and a thin sacred thread,
 came up smiling, put a garland on her neck, wiped her face with His cloth, took her hand — as her heart had wished; Gora's love is like gold, it cannot
 be forgotten. Raga "yatharaga".*[^34-52]
@@ -24566,7 +24561,7 @@ introductory note to the section (chapter 27).
 caresses); translated exactly. The dream is the townswoman's imagination; see note 33. 18.5b — the sense is conjectural: the poet apparently shares the
 heroine's longing.
 
-## 19. Lochana Dasa — "hera āya go manera kathā virala peye kai…" (GPT1 p. 187, no. 82)
+## 19. Lochana Dasa — "hera āya go manera kathā birala peye kai…" (GPT1 p. 187, no. 82)
 *Nagari-bhava. The townswoman calls her friend: in the late afternoon she went to see Shachi's son — a moon anointed with sandal, a sandal mark on the
 forehead, a snare for the heart; out of shame she held herself back, but, seeing His long eyes, she could not come away. Raga "yatharaga".*[^34-54]
 
@@ -24586,7 +24581,7 @@ with joy in his heart says this Lochana Dasa.
 "The son of Shachi" (śacīra rāya) — lit. "Shachi's Raya." The ending 19.4 nearly coincides with 5.13. On nagari-bhava see the introductory note to the
 section (chapter 27).
 
-## 20. Lochana Dasa — "mukha jhalamala vadana-kamala dīghala ām̐khi duṭi…" (GPT1 p. 188, no. 83)
+## 20. Lochana Dasa — "mukha jhalamala badana-kamala dīghala ām̐khi duṭi…" (GPT1 p. 188, no. 83)
 *Nagari-bhava. The townswoman describes Gaura: the radiant lotus face, the long eyes, the reddish soles; walking, swaying, He leans on His friends;
 once He glanced at her from the corner of His eye — and the doe of her heart was caught in the snare of His brows. Then come couplets shared with
 no. 9; others seek Him by austerity through many births, while she keeps Him in her heart. The poet: hold the nagara Gora captive in your heart. Raga
@@ -24632,7 +24627,7 @@ seems to the heroine; according to CB (Adi-khanda) the Lord did not look at wome
 is the same turn inward as in nos. 11 and 13 (11.10, 13.13); "the nagara Gora" is an epithet of nagari-bhava (introductory note). 20.7b — the sense is
 conjectural.
 
-## 21. Lochana Dasa — "navadvīpanāgarī āgari gorārase…" (GPT1 p. 189, no. 85)
+## 21. Lochana Dasa — "nabadvīpanāgarī āgari gorārase…" (GPT1 p. 189, no. 85)
 *Nagari-bhava. A townswoman of Navadvipa, foremost in the rasa of Gora, floats in tears of prema as she speaks of Gauranga; in her ears, eyes and
 mind — Gora; she writes His name on her body with gorochana and performs puja to Him in her mind: tears are the abhisheka, love the naivedya, words the
 betel, the radiance of her body the lamp, the jingling of her bangles the bell; her anuraga grows day by day. The poet: at last the thorn of knowledge
@@ -24677,7 +24672,7 @@ see and to touch" (daraśa-paraśarasa) is a motif of nagari-bhava (introductory
 [^34-60]: "The thorn of knowledge" (jñānaśela) — knowledge (jnana) that obstructs love like a splinter; as anuraga grows it goes away — the thought of
 the superiority of bhakti over jnana (cf. CC Madhya 19 — pure bhakti, "not covered by knowledge and karma").
 
-## 22. Lochana Dasa — "gorāpade sudhāhrade mana ḍuvāye thāki…" (GPT1 p. 204, no. 116)
+## 22. Lochana Dasa — "gorāpade sudhāhrade mana ḍubāye thāki…" (GPT1 p. 204, no. 116)
 *A praise of Gaura (the nagari motif is only in the address "mother"). The poet keeps his mind immersed in Gora's feet as in a lake of nectar; refrain:
 "Such a Gora, rapt in rasa, I have never seen anywhere." In the midst of Nadia He has come in the guise of a devotee, covered with Radha's form;
 steady, calm, self-controlled — meditate on Gora in your heart. Raga suhai.*[^34-61]
@@ -24704,7 +24699,7 @@ women's speech (chapter 29, glossary). On nagari-bhava see the introductory note
 Krishna, who has taken the form of a devotee and the bhava and radiance of Radha (CC Adi 1.5; Adi 4). "The dress of rasa" — His form as the one who
 tastes rasa.
 [^34-63]: "Steady, calm, self-controlled" (dhīra śānta dānta) — so the tradition too sees Gaura (CB, Adi-khanda, on the Lord's strictness). "Ground
-lightning" (vijurī vāṭā) — the interpretation is conjectural. "Opening the doors" (22.1) — cf. the "inner village" of no. 13 (13.10).
+lightning" (bijurī bāṭā) — the interpretation is conjectural. "Opening the doors" (22.1) — cf. the "inner village" of no. 13 (13.10).
 
 ## Summary of Chapter 34
 

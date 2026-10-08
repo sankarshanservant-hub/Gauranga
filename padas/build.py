@@ -1,7 +1,7 @@
 """Собирает книгу пад современников Шри Чайтаньи (ru|en/00–34.md, bn/01–34.md) в MD, DOCX и PDF.
 
 Обычная версия — перевод со сносками; полная (-full) — перед каждым двустишием бенгальский оригинал, транслитерация
-(IAST: ব = v, кроме ম্ব/ব্দ/ব্ধ/ব্জ; ঁ = m̐; ড় = ṛ; য় = y), пословный перевод, в RU — разночтения (VAR), затем перевод.
+(IAST: ব = b, ব-фала после согласной — v; ঁ = m̐; ড় = ṛ; ং = ṃ; য় = y), пословный перевод, в RU — разночтения (VAR), затем перевод.
 Движок вёрстки — ../govinda-kadacha/build.py (свой разбор блоков и встроенный бенгальский шрифт в PDF).
 Запуск: python3 build.py [ru|en] (по умолчанию оба, обе версии).
 """
@@ -48,7 +48,8 @@ def bn2lat(s):
     s = s.replace('য়', 'য়').replace('ড়', 'ড়').replace('ঢ়', 'ঢ়')
     s = s.replace('ৎ', 'ত্‌')
     d = ''.join(chr(ord(c) - 0x80) if 'ঀ' <= c <= '৿' else c for c in s)
-    d = re.sub(r'(?<!म्)ब(?!्[दधजझ])', 'व', d)          # ব = v, кроме ম্ব, ব্দ, ব্ধ, ব্জ
+    d = re.sub(r'(?<=[\u0915-\u0939\u093c])्ब', '्व', d)   # ব = b; ব-фала после согласной — v (স্ব sv, দ্ব dv)
+    d = d.replace('म्व', 'म्ब').replace('ब्व', 'ब्ब')      # ম্ব mb, ব্ব bb
     d = d.replace('ँ', '')                    # ঁ → m̐
     o = sanscript.transliterate(d, 'devanagari', 'iast')
     o = o.replace('', 'm̐').replace('‌', '').replace('r̤', 'ṛ').replace('ẏ', 'y')
@@ -158,6 +159,34 @@ def inline(text, html=True):
 
 
 kb.inline = inline
+
+
+def docx_runs(par, text, size=None):
+    """Как kb.docx_runs, но бенгальские вставки внутри строки — отдельными прогонами со шрифтом Noto Serif Bengali."""
+    from docx.shared import Pt
+    from docx.oxml.ns import qn
+    for part in re.split(r'(<b>.*?</b>|<i>.*?</i>|<super>.*?</super>)', inline(text, html=False)):
+        if not part:
+            continue
+        m = re.match(r'<(b|i|super)>(.*)</\1>', part)
+        body = m.group(2) if m else part
+        for seg in re.split(r'([\u0980-\u09ff](?:[\u0980-\u09ff\u200c\u200d ]*[\u0980-\u09ff])?)', body):
+            if not seg:
+                continue
+            r = par.add_run(seg)
+            if m:
+                r.bold = m.group(1) == 'b'
+                r.italic = m.group(1) == 'i'
+                r.font.superscript = m.group(1) == 'super'
+            if size:
+                r.font.size = Pt(size)
+            if BENG.search(seg):
+                fonts = r._element.get_or_add_rPr().get_or_add_rFonts()
+                for k in ('w:ascii', 'w:hAnsi', 'w:cs'):
+                    fonts.set(qn(k), 'Noto Serif Bengali')
+
+
+kb.docx_runs = docx_runs
 
 from reportlab.lib.styles import ParagraphStyle
 ParagraphStyle.defaults['shaping'] = 1   # сборка бенгальских лигатур и огласовок (uharfbuzz) во всех абзацах
