@@ -732,3 +732,317 @@
   event: ev-marriage-lakshmipriya
   verses:
     - {file: "gaura-krishnodaya/ru/04.md", from: "46", to: "49"}
+
+- id: gkd-0038
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 1–2"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P05
+  order: 65
+  title: "Путешествие в Восточную Бенгалию"
+  summary: "Вишвамбхара с учениками странствует по Ванге, побеждает местных пандитов учёностью и делает их Своими преданными."
+  persons: ["@mahaprabhu"]
+  places: ["#east-bengal"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 16"
+  cc: "Ади 16"
+  themes: [pilgrimage, learning]
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "1", to: "2"}
+
+- id: gkd-0039
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 3–5"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P05
+  order: 70
+  title: "Тапана Мишра: наставление и повеление идти в Варанаси"
+  summary: "Брахман Тапана Мишра, узнав во сне о величии Господа, расспрашивает Его; Господь разрешает его сомнения и велит жить в Варанаси, воспевая Его имена, до Его прихода. Господь очищает Вангу."
+  persons: ["@mahaprabhu", "@tapana-mishra"]
+  places: ["#east-bengal", "#kashi"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Ади 16"
+  cc: "Ади 16"
+  themes: [teaching]
+  teaching: [holy-name]
+  event: ev-tapana-mishra-east-bengal
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "3", to: "5"}
+
+- id: gkd-0040
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 6–8"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P05
+  order: 80
+  title: "Уход Лакшмиприи; Господь утешает мать"
+  summary: "Лакшмиприя, ужаленная змеёй разлуки, уходит из мира; Господь возвращается, открывает Шачи истину, рассеивая её привязанность, и совершает обряды по супруге."
+  persons: ["@lakshmipriya", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 16"
+  cc: "Ади 16"
+  themes: [family, separation, departure]
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "6", to: "8"}
+
+- id: gkd-0041
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 9–10"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P05
+  order: 100
+  title: "Женитьба на Вишнуприе"
+  summary: "Шачи женит сына на Вишнуприе, дочери Санатаны Мишры; Господь совершает свадьбу «внешним умом» и предаётся киртану."
+  persons: ["@mahaprabhu", "@vishnupriya", "@shachi", "@sanatana-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 16"
+  cc: "Ади 16"
+  themes: [family, kirtan]
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "9", to: "10"}
+
+- id: gkd-0042
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 11–27"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P05
+  order: 58
+  title: "Победа над дигвиджайи"
+  summary: "Лунной ночью на берегу Ганги дигвиджайи сочиняет сто стихов о Ганге; Господь повторяет один и находит в нём пять явных недостатков. Побеждённый, тот молится богине, и Сарасвати открывает ему, что Господь — её Владыка; утром он принимает прибежище у Господа."
+  persons: ["@mahaprabhu", "@keshava-kashmiri", "@sarasvati-devi"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 16"
+  cc: "Ади 16"
+  themes: [learning, revelation]
+  divergence: "Имя дигвиджайи не названо; победа описана после женитьбы на Вишнуприе (в ЧЧ — также в Ади 16)."
+  event: ev-keshava-kashmiri-defeat
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "11", to: "27"}
+
+- id: gkd-0043
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 28–29"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P06
+  order: 30
+  title: "Гая: посвящение у Ишвары Пури"
+  summary: "Наставник трёх миров идёт в Гаю и принимает посвящение у Ишвары Пури, ученика Мадхавендры Пури, входя в сампрадаю; с тилакой и чётками из туласи возвращается."
+  persons: ["@mahaprabhu", "@ishvara-puri", "@madhavendra-puri"]
+  places: ["#gaya"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Ади-кханда"
+  cc: "Ади 17"
+  themes: [pilgrimage]
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "28", to: "29"}
+
+- id: gkd-0044
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 30"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 40
+  title: "Начало санкиртаны с Вакрешварой и расиками"
+  summary: "Вернувшись, Господь в Навадвипе с Вакрешварой и другими расиками совершает санкиртану, памятование и прочие виды бхакти, даруя прему."
+  persons: ["@mahaprabhu", "@vakreshvara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [kirtan]
+  notes: "Вакрешвара назван первым среди спутников — автор из его линии."
+  event: ev-associates-gather
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "30", to: "30"}
+
+- id: gkd-0045
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 31"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 101
+  title: "Вселенский облик Адвайте"
+  summary: "Адвайта приходит увидеть Господа, и Вишвамбхара являет ему вселенский облик, как Кришна Арджуне."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#navadvipa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [revelation]
+  bhava: [aishvarya]
+  event: ev-vishvarupa-shown-advaita
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "31", to: "31"}
+
+- id: gkd-0046
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 32"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 113.5
+  title: "Абхишека Господа (махапракаша)"
+  summary: "Шриваса и другие великие преданные совершают абхишеку Гауры как наставника мира и по Его милости сами становятся наставниками."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья 9"
+  cc: "Ади 17"
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  notes: "Начало стиха неясно."
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "32", to: "32"}
+
+- id: gkd-0047
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 33–35"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 109
+  title: "Нитьянанда: шестирукий облик; Нитьянанда — Баларама"
+  summary: "При встрече с Нитьянандой Господь становится шестируким, затем четырёхруким и наконец — Шьямасундарой с флейтой; авадхута в ответ является Балабхадрой с плугом и палицей."
+  persons: ["@mahaprabhu", "@nityananda", "@balarama"]
+  places: ["#navadvipa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья"
+  cc: "Ади 17"
+  themes: [revelation]
+  bhava: [aishvarya, balarama]
+  divergence: "Ответное явление Нитьянанды как Баларамы — добавление Говинды-девы."
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "33", to: "35"}
+
+- id: gkd-0048
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 36"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 121
+  title: "Освобождение Джагая и Мадхая"
+  summary: "Океан милости спасает двух погибших брахманов Джагая и Мадхая и поднимает знамя Очистителя падших."
+  persons: ["@mahaprabhu", "@jagai-madhai"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья 13"
+  cc: "Ади 17"
+  themes: [mercy]
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "36", to: "36"}
+
+- id: gkd-0049
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 37–39"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 129
+  title: "Ночной киртан у Шривасы; Гопала Чапала поражён проказой"
+  summary: "Преданные ночами при закрытых дверях поют с Господом в доме Шривасы; брахман Гопала Чапала подбрасывает к двери предметы шакта-пуджи с вином и за оскорбление вайшнавов заболевает проказой."
+  persons: ["@mahaprabhu", "@srivasa", "@gopala-chapala"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [kirtan, offense]
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "37", to: "39"}
+
+- id: gkd-0050
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 40–45"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 122.5
+  title: "Запрет киртана и усмирение Кази"
+  summary: "По доносу еретиков правитель-яван запрещает киртан; Господь пугает его обликом Нрисимхи и идёт к его дому с шествием киртана (Адвайта впереди, Нитьянанда позади, Харидас пляшет посредине); правитель принимает прибежище, и Господь наставляет его."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@haridasa-thakura", "@chand-kazi", "@nrisimha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [kirtan, muslims, mercy]
+  bhava: [nrisimha]
+  divergence: "В ЧЧ Нрисимха пугает Кази во сне до шествия, а Кази признаётся в этом при встрече; у Говинды-девы последовательность иная."
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "40", to: "45"}
+
+- id: gkd-0051
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 46–47"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 82
+  title: "Чудо с манговым деревом"
+  summary: "После киртана Господь сажает косточку манго, и тотчас вырастает дерево с огромными сладкими плодами, которыми преданные насыщаются после каждого киртана."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [kirtan, prasada]
+  event: ev-mango-tree
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "46", to: "47"}
+
+- id: gkd-0052
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 48"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 85
+  title: "Астролог: «Ты — Владыка всего»; «Я был пастушком»"
+  summary: "Господь спрашивает астролога, кем Он был прежде; тот отвечает: Владыкой всего; Гаурахари смеётся: «Я был пастушком»."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [revelation]
+  event: ev-astrologer-sarvajna
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "48", to: "48"}
+
+- id: gkd-0053
+  source: gaura-krishnodaya
+  ref: "Сарга 5, 49–50"
+  file: "gaura-krishnodaya/ru/05.md"
+  period: P07
+  order: 86
+  title: "Умерший сын Шривасы говорит перед собранием"
+  summary: "После киртана умирает маленький сын Шривасы; Господь поднимает его, и мальчик Его силой произносит речь о природе души. Так Господь дождём премы избавляет горожан от страха перед Ямой и яванами."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Ади 17; ЧБ Мадхья 25"
+  cc: "Ади 17"
+  themes: [teaching, revelation]
+  event: ev-shrivasa-dead-son-speaks
+  verses:
+    - {file: "gaura-krishnodaya/ru/05.md", from: "49", to: "50"}

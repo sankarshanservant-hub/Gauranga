@@ -464,3 +464,5 @@
 | @vipradasa-odia | Випрадас (ория) | Vipradasa (the Oriya) | ория-спутник в Пури (ванданы); не путать с @vipradasa |
 | @vishnudasa-vaidya | Вишнудас (вайдья) | Vishnudasa (the vaidya) | певец, «чьи песни радовали Господа» (ванданы); не путать с @vishnudasa |
 | @vishveshvarananda | Вишвешварананда | Vishveshvarananda | санньяси (ванданы) |
+| @chand-kazi | Чанд Кази (правитель Навадвипы) | Chand Kazi (the ruler of Navadvipa) | запретил киртан, усмирён Господом |
+| @gopala-chapala | Гопала Чапала | Gopala Chapala | брахман Навадвипы, оскорбивший Шривасу; поражён проказой |

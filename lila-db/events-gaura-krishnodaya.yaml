@@ -60,3 +60,45 @@
   cb: ""
   themes: [family, revelation]
   notes: "ЧЧ Ади 15: съев бетель, Господь теряет сознание и, очнувшись, рассказывает, что Вишварупа звал Его в санньясу, но Он отказался ради родителей."
+
+- id: ev-vishvarupa-shown-advaita
+  title: "Господь являет Адвайте вселенский облик"
+  title_en: "The Lord reveals the universal form to Advaita"
+  period: P07
+  order: 101
+  cc: "Ади 17"
+  cb: ""
+  themes: [revelation]
+  bhava: [aishvarya]
+  notes: "ЧЧ Ади 17: «Адвайте показал вишварупу»."
+
+- id: ev-mahaprakasha-abhisheka
+  title: "Махапракаша: преданные совершают абхишеку Господа"
+  title_en: "The mahaprakasha: the devotees perform the Lord's abhisheka"
+  period: P07
+  order: 113.5
+  cc: "Ади 17"
+  cb: "Мадхья 9"
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  notes: "Великое откровение в доме Шривасы: Господь садится на трон Вишну, преданные омывают Его."
+
+- id: ev-astrologer-sarvajna
+  title: "Всеведущий астролог видит в Господе Кришну"
+  title_en: "The omniscient astrologer sees Krishna in the Lord"
+  period: P07
+  order: 85
+  cc: "Ади 17"
+  cb: ""
+  themes: [revelation]
+  notes: "ЧЧ Ади 17: Господь спрашивает астролога о Своём прежнем рождении."
+
+- id: ev-shrivasa-dead-son-speaks
+  title: "Умерший сын Шривасы говорит о душе"
+  title_en: "Srivasa's dead son speaks about the soul"
+  period: P07
+  order: 86
+  cc: "Ади 17"
+  cb: "Мадхья 25"
+  themes: [teaching, revelation]
+  notes: "ЧЧ Ади 17: сын Шривасы умирает во время киртана; Господь велит мёртвому говорить о вечности души."
