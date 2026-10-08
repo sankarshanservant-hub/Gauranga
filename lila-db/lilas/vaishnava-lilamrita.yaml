@@ -1,0 +1,86 @@
+# Мадхава Паттанаяк, «Вайшнава-лиламрита» (ория, ≈1535) — лилы в порядке изложения (формат — ../README.md).
+# Пилот перевода с ория: переведены только гл. 4, ст. 28–81 (oriya-pilot/vaishnava-lilamrita/ru.md, метки **4.N.**).
+# Источник предложен уровня C (см. строку в SOURCES.md). Записи добавлять в конец.
+
+- id: vlm-0001
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 28–35"
+  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  period: P10
+  order: 5
+  title: "Юный санньяси Кришна Чайтанья в Пури: обморок перед Джаганнатхой, дом Сарвабхаумы"
+  summary: "В Кшетру приходит юный яти Кришна Чайтанья с преданными; увидев Джаганнатху, Он от премы лишается чувств, Сарвабхаума заботится о Нём и уводит в свой дом; Господь ходит на даршан, вкушает прасад и около месяца проводит в Пури в беседах о шастрах."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 6; ЧБ Антья 2–3; Мурари 3.11"
+  notes: "Ст. 31 (что именно сделал Сарвабхаума) прочитана неуверенно. Порядок «сначала Джаганнатха, затем дом Сарвабхаумы» — как в ЧЧ."
+  themes: [jagannatha, ecstasy, learning]
+  cc: "Мадхья 6"
+  cb: "Антья 2–3"
+  divergence: "Пребывание в Пури до ухода на юг — «месяц» (по ЧЧ Мадхья 7 — от пхалгуны до вайшакхи)."
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.28", to: "4.35"}
+
+- id: vlm-0002
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 36–50"
+  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  period: P10
+  order: 12
+  title: "Чайтанья и Джаганнатха Дас у Бата-Ганеши"
+  summary: "Джаганнатха Дас, слагающий орийскую «Бхагавату», вечером толкует её преданным у Бата-Ганеши; Чайтанья приходит, постигает его бхаву, называет его лучшим из преданных; они два с половиной прахара остаются в объятиях и с тех пор зовут друг друга «свами» и «прабху»."
+  persons: ["@mahaprabhu", "@jagannatha-dasa-odia"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "Дивакар Дас, «Джаганнатха-чаритамрита» (орийская традиция)"
+  notes: "Эпизод орийской традиции; в ЧЧ и ЧБ его нет. Слова Господа «где Мне обрести твою бхаву» — смирение Господа в роли преданного (сноска перевода)."
+  themes: [ecstasy, learning]
+  divergence: "Известно только орийским источникам."
+  event: ev-jagannatha-dasa-bhagavata-meeting
+  verses:
+    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.36", to: "4.50"}
+
+- id: vlm-0003
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 51–58"
+  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  period: P10
+  order: 20
+  title: "Споры с Сарвабхаумой; саттвика-бхавы Господа и прозрение Сарвабхаумы"
+  summary: "Великий логик Сарвабхаума много спорит с Господом; видя, как при беседе о бхакти на теле Господа проступают саттвика-бхавы, он спрашивает: «Не Сам ли Ты Господь?» — и признаётся, что знает лишь сухие доказательства."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 6; ЧБ Антья 3"
+  notes: ""
+  themes: [learning, ecstasy, revelation]
+  cc: "Мадхья 6"
+  divergence: "Прозрение Сарвабхаумы вызвано зрелищем саттвика-бхав, а не явлением шестирукого облика (ЧЧ)."
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.51", to: "4.58"}
+
+- id: vlm-0004
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 59–81"
+  file: "oriya-pilot/vaishnava-lilamrita/ru.md"
+  period: P11
+  order: 30
+  title: "Совет Сарвабхаумы и встреча с Раманандой Раем на Годавари"
+  summary: "Сарвабхаума советует Господу на юге непременно встретиться с Рамананда Раем, знатоком раги; на Годавари Господь, сидя под деревом, видит Рамананду, приехавшего на омовение со свитой и литаврами, подбегает к нему, они обнимаются, «как молния с тучей», и десять дней проводят в беседах."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@ramananda-raya"]
+  places: ["#puri", "#godavari"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 7.62–67, 8"
+  notes: "Несколько чтений неуверенны (ст. 65, 70, 72, 81); см. QUESTIONS.md пилота."
+  themes: [pilgrimage, teaching]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "oriya-pilot/vaishnava-lilamrita/ru.md", from: "4.59", to: "4.81"}
