@@ -423,3 +423,33 @@
   cc: "Мадхья 18"
   cb: ""
   themes: [muslims, mercy]
+
+- id: ev-rupa-shiksha-prayaga
+  title: "Наставление Рупе в Праяге: лиана бхакти и учение о расе"
+  title_en: "The instruction to Rupa at Prayaga: the creeper of bhakti and the teaching on rasa"
+  period: P13
+  order: 183
+  cc: "Мадхья 19"
+  cb: ""
+  themes: [teaching]
+  teaching: [bhakti-supremacy, prema]
+  notes: "ЧЧ Мадхья 19: десять дней наставлений у Дашашвамедха-гхата; Рупа послан во Вриндаван."
+
+- id: ev-rupa-first-vrindavana-stay
+  title: "Рупа и Анупама во Вриндаване с Субуддхи Раем"
+  title_en: "Rupa and Anupama in Vrindavana with Subuddhi Raya"
+  period: P13
+  order: 184
+  cc: "Мадхья 19; Антья 1"
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Рупа месяц живёт во Вриндаване, посылает письмо Санатане и уходит обратно."
+
+- id: ev-sanatana-escape-kashi
+  title: "Санатана бежит из темницы и приходит к Господу в Каши"
+  title_en: "Sanatana escapes from prison and comes to the Lord in Kashi"
+  period: P13
+  order: 184.5
+  cc: "Мадхья 20"
+  cb: ""
+  themes: [mercy, sannyasa]

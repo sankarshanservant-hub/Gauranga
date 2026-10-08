@@ -2837,3 +2837,100 @@
   event: ev-rupa-prayaga
   verses:
     - {file: "gaura-krishnodaya/ru/14.md", from: "61", to: "70"}
+
+- id: gkd-0146
+  source: gaura-krishnodaya
+  ref: "Сарга 15, 1–26"
+  file: "gaura-krishnodaya/ru/15.md"
+  period: P13
+  order: 183
+  title: "Наставление Рупе: лиана бхакти, расы и ступени премы"
+  summary: "Наедине Господь наставляет Рупу: виды существ и редкость человеческого рождения; семя бхакти по милости гуру и Кришны; лиана бхакти, поливаемая слушанием, достигает Вриндавана; побочные ветви и «слон» оскорбления; рати, вибхава, анубхава, саттвика, вьябхичари; пять главных рас; ступени от премы до махабхавы; самартха-рати гопи. Господь посылает Рупу во Враджу."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@anupama"]
+  places: ["#prayaga"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 19"
+  cc: "Мадхья 19"
+  themes: [teaching]
+  teaching: [bhakti-supremacy, prema, vaishnava]
+  event: ev-rupa-shiksha-prayaga
+  verses:
+    - {file: "gaura-krishnodaya/ru/15.md", from: "1", to: "26"}
+
+- id: gkd-0147
+  source: gaura-krishnodaya
+  ref: "Сарга 15, 27"
+  file: "gaura-krishnodaya/ru/15.md"
+  period: P13
+  order: 184.2
+  title: "Господь в Каши у Тапаны Мишры и Чандрашекхары"
+  summary: "Из Праяги Господь приходит в Каши и живёт у Тапаны Мишры, радуя Чандрашекхару."
+  persons: ["@mahaprabhu", "@tapana-mishra", "@chandrashekhara-vaidya"]
+  places: ["#kashi"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 20"
+  cc: "Мадхья 20"
+  themes: [pilgrimage]
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "gaura-krishnodaya/ru/15.md", from: "27", to: "27"}
+
+- id: gkd-0148
+  source: gaura-krishnodaya
+  ref: "Сарга 15, 28–30"
+  file: "gaura-krishnodaya/ru/15.md"
+  period: P13
+  order: 184
+  title: "Рупа и Анупама во Вриндаване"
+  summary: "Рупа с Анупамой и Субуддхи Раем приходит во Враджу, месяц живёт там, посылает письмо Санатане и возвращается в сторону Праяги."
+  persons: ["@rupa-gosvami", "@anupama", "@subuddhi-raya", "@sanatana-gosvami"]
+  places: ["#vrindavana", "#mathura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 19; Антья 1"
+  cc: "Мадхья 19"
+  themes: [pilgrimage]
+  event: ev-rupa-first-vrindavana-stay
+  verses:
+    - {file: "gaura-krishnodaya/ru/15.md", from: "28", to: "30"}
+
+- id: gkd-0149
+  source: gaura-krishnodaya
+  ref: "Сарга 15, 31–36"
+  file: "gaura-krishnodaya/ru/15.md"
+  period: P13
+  order: 184.5
+  title: "Санатана бежит из темницы и приходит к Господу в Каши"
+  summary: "Получив письмо Рупы, Санатана подкупает стражей, ночью бежит, спасается от разбойников и приходит в Каши к Господу; Господь обнимает его, велит остричь и омыть."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@tapana-mishra"]
+  places: ["#kashi"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 20"
+  cc: "Мадхья 20"
+  themes: [mercy, sannyasa]
+  event: ev-sanatana-escape-kashi
+  verses:
+    - {file: "gaura-krishnodaya/ru/15.md", from: "31", to: "36"}
+
+- id: gkd-0150
+  source: gaura-krishnodaya
+  ref: "Сарга 15, 37–59"
+  file: "gaura-krishnodaya/ru/15.md"
+  period: P13
+  order: 185
+  title: "Наставление Санатане: облики Кришны, обители и аватары"
+  summary: "Господь наставляет Санатану: свайам-рупа Кришна и Его облики (пракаша, виласа, авеша, вайбхава, прабхава); Кришна в Двараке, Матхуре и Гокуле; Брахман — Его сияние; три энергии; Голока, Паравьома, Вираджа; двадцать четыре облика Вишну; пуруша-аватары и гуна-аватары; Хари — лучший из них. Поэт отсылает к «Бхагаватамрите»."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@krishna", "@balarama", "@narayana"]
+  places: ["#kashi", "#goloka", "#vaikuntha"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Мадхья 20–21"
+  cc: "Мадхья 20"
+  themes: [teaching]
+  teaching: [gaura-tattva, scripture]
+  event: ev-sanatana-kashi-instruction
+  verses:
+    - {file: "gaura-krishnodaya/ru/15.md", from: "37", to: "59"}
