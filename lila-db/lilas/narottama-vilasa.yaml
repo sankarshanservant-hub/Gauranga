@@ -735,3 +735,93 @@
   event: ev-kheturi-festival
   verses:
     - {file: "narottama-vilasa/ru/06.md", from: "297", to: "328"}
+
+- id: nvl-0043
+  source: narottama-vilasa
+  ref: "Виласа 7, 1–33"
+  file: "narottama-vilasa/ru/07.md"
+  period: P15
+  order: 104.9
+  title: "Молва о празднике в Кхетури; люди края, прежде разбойники и шакты, идут к Нароттаме"
+  summary: "По всей стране говорят о празднике: о сиянии вайшнавов, щедрости раджи Сантоши, начале музыки с пятого дня пхалгуны, приготовлениях к абхишеке; люди края, прежде занимавшиеся разбоем, кровавыми жертвоприношениями и пляской с отрубленными головами, верят, что Нароттама их спасёт, и толпами идут в Кхетури."
+  persons: ["@narottama-dasa", "@santosha-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна, светлая половина, 5-й день — начало музыки"
+  themes: [festival, mercy]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/07.md", from: "1", to: "33"}
+
+- id: nvl-0044
+  source: narottama-vilasa
+  ref: "Виласа 7, 34–73"
+  file: "narottama-vilasa/ru/07.md"
+  period: P15
+  order: 105
+  title: "Пхалгуна-пурнима: Шриниваса совершает абхишеку шести Божеств Кхетури"
+  summary: "Шриниваса совершает пуджу новых кхол и караталов; Сантоша Рай готовит двор с навесом; в присутствии махантов и Джахнавы (в укромном месте) Шриниваса по правилам Рупы Госвами совершает абхишеку: Гауранга (с Лакшми и Вишнуприей), Валлави-канта, Враджа-мохан, Кришна, Радха-канта, Радха-рамана — имена, открытые во сне; подношение, гирлянды и сандал всем махантам."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@jahnava", "@santosha-datta", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна, пурнима (Гаура-пурнима, Дола)"
+  themes: [deities, festival]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/07.md", from: "34", to: "73"}
+
+- id: nvl-0045
+  source: narottama-vilasa
+  ref: "Виласа 7, 74–150"
+  file: "narottama-vilasa/ru/07.md"
+  period: P15
+  order: 105.1
+  title: "Санкиртана Нароттамы в Кхетури: Гаура со всеми спутниками является и пляшет"
+  summary: "Нароттама с Девидасом, Гаурангой Дасом, Гокулой, Валлабхой начинает киртан (шлока Вишванатхи); боги сыплют цветы, маханты признают в нём сокровищницу пения, вверенную Господом; Гаура, Нитьянанда, Адвайта, Шриваса, Гададхара и бесчисленные спутники, явленные и неявленные, становятся видимы всем и пляшут вместе с Ачьютанандой, Нароттамой, Шринивасой и другими, проливая прему; затем исчезают — общий плач, пашанди обращаются; Джахнава утешает Шринивасу и Нароттаму."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@svarupa-damodara", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gauridasa-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@achyutananda", "@raghunandana", "@jahnava", "@ramachandra-kaviraja", "@shyamananda"]
+  places: ["#kheturi"]
+  kind: vision
+  authority: B
+  scriptures: ["«Ставамрита-лахари» (Нароттама-аштака)"]
+  themes: [kirtan, revelation, festival]
+  divergence: "В «Према-виласе» (19) над киртаном являются Радха и Кришна, а Нароттама входит в самадхи; здесь видимы Гаура и Его спутники."
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/07.md", from: "74", to: "150"}
+
+- id: nvl-0046
+  source: narottama-vilasa
+  ref: "Виласа 7, 151–185"
+  file: "narottama-vilasa/ru/07.md"
+  period: P15
+  order: 105.2
+  title: "Праздник Холи в Кхетури и вечерняя абхишека в день явления Господа"
+  summary: "По слову Джахнавы начинается игра с цветным порошком: Джахнава и маханты осыпают порошком шесть Божеств, затем друг друга, сотни тысяч людей играют, порошок застилает небо; вечером Шриниваса совершает абхишеку в честь дня явления Гауранги, маханты поют песни о Его рождении."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@achyutananda", "@raghunandana", "@hridaya-chaitanya", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна, пурнима (Дола, Гаура-пурнима)"
+  themes: [festival, kirtan]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "narottama-vilasa/ru/07.md", from: "151", to: "185"}
+
+- id: nvl-0047
+  source: narottama-vilasa
+  ref: "Виласа 7, 186–276"
+  file: "narottama-vilasa/ru/07.md"
+  period: P15
+  order: 105.3
+  title: "Джахнава готовит угощение шести Божествам и кормит всех вайшнавов; решение о прощании"
+  summary: "Джахнава на заре сама готовит, предлагает пищу шести Божествам; после раджа-бхоги маханты трапезничают кругом во дворе, затем Джахнава кормит Шринивасу, Нароттаму и их учеников и ест последней («сегодня впервые поела досыта»); она решает наутро идти во Вриндаван, маханты тоже собираются в путь. Подпись автора (изд. 1924 г.) и колофон."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@achyutananda", "@shripati", "@raghunandana", "@balarama-pujari-kheturi", "@santosha-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [prasada, festival]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "narottama-vilasa/ru/07.md", from: "186", to: "276"}
