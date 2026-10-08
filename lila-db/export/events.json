@@ -1133,13 +1133,15 @@
    "apr-0035",
    "gkd-0006",
    "pvl-0224",
+   "vv-0004",
    "pad-0316"
   ],
   "sources": [
    "advaita-prakasha",
    "gaura-krishnodaya",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -1373,7 +1375,8 @@
    "gkd-0008",
    "kcm-0007",
    "lcm-0032",
-   "mkc-0014"
+   "mkc-0014",
+   "gkd-0009"
   ],
   "sources": [
    "advaita-prakasha",
@@ -1452,6 +1455,7 @@
   ],
   "notes": "Мурари 1.05.",
   "entries": [
+   "gkd-0010",
    "kcm-0008",
    "apr-0042",
    "ccd-0005",
@@ -1460,6 +1464,8 @@
    "lcm-0035",
    "mkc-0016",
    "pvl-0041",
+   "vv-0006",
+   "vv-0035",
    "pad-0128",
    "pad-0232",
    "pad-0317",
@@ -1472,12 +1478,14 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -1504,10 +1512,12 @@
   ],
   "notes": "Мурари 1.05.23–27: Юпитер в экзальтации; предсказана санньяса.",
   "entries": [
+   "gkd-0013",
    "kcm-0011",
    "mkc-0017"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "murari-kcc"
   ]
@@ -1540,10 +1550,12 @@
   ],
   "entries": [
    "apr-0043",
+   "gkd-0011",
    "pad-0407"
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -1602,6 +1614,7 @@
   ],
   "entries": [
    "apr-0044",
+   "gkd-0014",
    "lcm-0036",
    "mkc-0018",
    "pad-0233",
@@ -1609,6 +1622,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "lochana-cm",
    "murari-kcc",
    "padas"
@@ -1710,6 +1724,7 @@
    1
   ],
   "entries": [
+   "gkd-0015",
    "apr-0046",
    "jcm-0019",
    "kcm-0012",
@@ -1719,6 +1734,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -1854,9 +1870,11 @@
    5
   ],
   "entries": [
+   "gkd-0019",
    "mkc-0022"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "murari-kcc"
   ]
  },
@@ -1976,6 +1994,7 @@
    5
   ],
   "entries": [
+   "gkd-0025",
    "jcm-0022",
    "kcm-0014",
    "lcm-0044",
@@ -1983,6 +2002,7 @@
    "pad-0416"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -2104,12 +2124,14 @@
    5
   ],
   "entries": [
+   "gkd-0022",
    "jcm-0023",
    "kcm-0015",
    "lcm-0046",
    "mkc-0025"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -2399,6 +2421,7 @@
   ],
   "entries": [
    "ccd-0009",
+   "gkd-0032",
    "jcm-0028",
    "kcm-0017",
    "lcm-0055",
@@ -2410,6 +2433,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -2442,10 +2466,12 @@
   ],
   "entries": [
    "apr-0047",
+   "gkd-0028",
    "lcm-0057"
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "lochana-cm"
   ]
  },
@@ -2542,11 +2568,13 @@
    10
   ],
   "entries": [
+   "gkd-0026",
    "kcm-0018",
    "lcm-0060",
    "mkc-0030"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
@@ -2576,12 +2604,14 @@
    10
   ],
   "entries": [
+   "gkd-0029",
    "jcm-0029",
    "lcm-0061",
    "pad-0432",
    "pad-0433"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "lochana-cm",
    "padas"
@@ -2643,6 +2673,7 @@
    10
   ],
   "entries": [
+   "gkd-0031",
    "kcm-0019",
    "lcm-0063",
    "mkc-0031",
@@ -2650,6 +2681,7 @@
    "mkc-0032"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
@@ -2680,12 +2712,14 @@
    10
   ],
   "entries": [
+   "gkd-0034",
    "jcm-0030",
    "kcm-0021",
    "lcm-0065",
    "mkc-0033"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -2747,6 +2781,7 @@
   "entries": [
    "kcm-0020",
    "apr-0048",
+   "gkd-0030",
    "jcm-0027",
    "kcm-0022",
    "lcm-0066",
@@ -2754,6 +2789,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -3024,6 +3060,7 @@
    22
   ],
   "entries": [
+   "gkd-0024",
    "jcm-0039",
    "kcm-0023",
    "lcm-0067",
@@ -3031,6 +3068,7 @@
    "pad-0434"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -3061,6 +3099,7 @@
    22
   ],
   "entries": [
+   "gkd-0035",
    "jcm-0040",
    "kcm-0024",
    "lcm-0068",
@@ -3069,6 +3108,7 @@
    "mkc-0037"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -3100,10 +3140,13 @@
   ],
   "entries": [
    "apr-0059",
+   "gkd-0036",
    "jcm-0041",
    "kcm-0025",
    "lcm-0070",
    "mkc-0038",
+   "vv-0007",
+   "vv-0037",
    "pad-0435",
    "pad-0436",
    "pad-0437",
@@ -3121,6 +3164,7 @@
    "pad-0449",
    "pad-0450",
    "pad-0451",
+   "gkd-0037",
    "kcm-0026",
    "lcm-0071",
    "mkc-0039",
@@ -3135,11 +3179,13 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -3380,6 +3426,7 @@
   ],
   "entries": [
    "apr-0062",
+   "gkd-0038",
    "jcm-0043",
    "kcm-0027",
    "lcm-0079",
@@ -3391,6 +3438,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -3423,10 +3471,12 @@
    22
   ],
   "entries": [
-   "apr-0065"
+   "apr-0065",
+   "gkd-0039"
   ],
   "sources": [
-   "advaita-prakasha"
+   "advaita-prakasha",
+   "gaura-krishnodaya"
   ]
  },
  {
@@ -3458,6 +3508,7 @@
    "mkc-0044",
    "apr-0064",
    "ccd-0008",
+   "gkd-0040",
    "jcm-0044",
    "kcm-0028",
    "lcm-0082",
@@ -3466,6 +3517,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -3573,9 +3625,12 @@
   ],
   "entries": [
    "apr-0067",
+   "gkd-0041",
    "kcm-0031",
    "lcm-0086",
    "mkc-0050",
+   "vv-0008",
+   "vv-0038",
    "pad-0453",
    "pad-0727",
    "pad-0728",
@@ -3616,10 +3671,12 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -3781,20 +3838,25 @@
    23
   ],
   "entries": [
+   "gkd-0043",
    "apr-0068",
    "ccd-0011",
    "jcm-0034",
    "kcm-0036",
    "lcm-0093",
-   "mkc-0057"
+   "mkc-0057",
+   "vv-0009",
+   "vv-0039"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -3957,6 +4019,7 @@
   ],
   "entries": [
    "apr-0070",
+   "brt-0051",
    "jcm-0037",
    "kcm-0041",
    "lcm-0097",
@@ -3964,6 +4027,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "bhakti-ratnakara",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -4120,9 +4184,11 @@
    24
   ],
   "entries": [
+   "gkd-0044",
    "lcm-0100"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "lochana-cm"
   ]
  },
@@ -4348,13 +4414,15 @@
    "kcm-0050",
    "lcm-0106",
    "mkc-0072",
+   "vv-0036",
    "mkc-0075"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -4384,10 +4452,12 @@
    24
   ],
   "entries": [
-   "pvl-0186"
+   "pvl-0186",
+   "vv-0034"
   ],
   "sources": [
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -4603,11 +4673,13 @@
    24
   ],
   "entries": [
+   "gkd-0051",
    "kcm-0053",
    "lcm-0111",
    "mkc-0077"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc"
@@ -5019,11 +5091,13 @@
   ],
   "entries": [
    "mkc-0090",
-   "pvl-0191"
+   "pvl-0191",
+   "vv-0005"
   ],
   "sources": [
    "murari-kcc",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -5127,6 +5201,7 @@
   ],
   "entries": [
    "ccd-0024",
+   "gkd-0047",
    "kcm-0066",
    "lcm-0127",
    "mkc-0095",
@@ -5134,6 +5209,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
@@ -5671,7 +5747,9 @@
   "entries": [
    "pvl-0181",
    "apr-0076",
+   "brt-0052",
    "ccd-0012",
+   "gkd-0048",
    "jcm-0047",
    "lcm-0139",
    "pvl-0182",
@@ -5680,7 +5758,9 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "bhakti-ratnakara",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "lochana-cm",
    "padas",
@@ -6037,6 +6117,7 @@
   ],
   "entries": [
    "ccd-0026",
+   "gkd-0049",
    "kcm-0084",
    "lcm-0147",
    "mkc-0112",
@@ -6045,6 +6126,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
@@ -6455,6 +6537,7 @@
    24
   ],
   "entries": [
+   "brt-0017",
    "nvl-0002",
    "pvl-0042",
    "pvl-0043",
@@ -6462,6 +6545,7 @@
    "pvl-0045"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -6636,6 +6720,7 @@
   ],
   "entries": [
    "ccd-0034",
+   "gkd-0055",
    "jcm-0056",
    "lcm-0162",
    "lcm-0163",
@@ -6646,6 +6731,7 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "jayananda-cm",
    "lochana-cm"
   ]
@@ -6772,11 +6858,13 @@
    24
   ],
   "entries": [
+   "gkd-0056",
    "gkr-0007",
    "jcm-0055",
    "lcm-0171"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "govinda-karcha",
    "jayananda-cm",
    "lochana-cm"
@@ -6958,12 +7046,15 @@
   "notes": "Мурари 2.18.31–33, 3.1.10–3.3.1.",
   "entries": [
    "ccd-0038",
+   "gkd-0057",
    "gkr-0012",
    "jcm-0061",
    "jcm-0063",
    "kcm-0101",
    "lcm-0175",
    "mkc-0128",
+   "vv-0010",
+   "vv-0040",
    "pad-0050",
    "pad-0241",
    "pad-0071",
@@ -6989,12 +7080,14 @@
   ],
   "sources": [
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "govinda-karcha",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -7023,6 +7116,7 @@
   "entries": [
    "apr-0080",
    "ccd-0039",
+   "gkd-0058",
    "kcm-0102",
    "lcm-0185",
    "mkc-0139",
@@ -7032,6 +7126,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
@@ -7227,6 +7322,7 @@
    "apr-0081",
    "ccd-0040",
    "ccd-0041",
+   "gkd-0061",
    "gkr-0014",
    "jcm-0066",
    "kcm-0104",
@@ -7244,6 +7340,7 @@
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
+   "gaura-krishnodaya",
    "govinda-karcha",
    "jayananda-cm",
    "karnapura-ckm",
@@ -7969,23 +8066,27 @@
    "lcm-0214",
    "mkc-0167",
    "apr-0089",
+   "bkm-0009",
    "ccd-0051",
    "kcm-0114",
    "kcm-0116",
    "kcm-0117",
    "lcm-0215",
    "mkc-0168",
+   "vv-0053",
    "gst-0025",
    "pad-0052"
   ],
   "sources": [
    "advaita-prakasha",
+   "bhaktamal",
    "chaitanya-chandrodaya",
    "gaura-stotras",
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -8199,6 +8300,8 @@
    "gkr-0032",
    "lcm-0220",
    "mkc-0175",
+   "vv-0015",
+   "vv-0044",
    "pad-0313",
    "kcm-0129",
    "jcm-0074"
@@ -8211,7 +8314,8 @@
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -9787,12 +9891,15 @@
    "gkr-0027",
    "ccd-0062",
    "gkr-0102",
-   "kcm-0132"
+   "kcm-0132",
+   "vv-0014",
+   "vv-0043"
   ],
   "sources": [
    "chaitanya-chandrodaya",
    "govinda-karcha",
-   "karnapura-ckm"
+   "karnapura-ckm",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -10420,6 +10527,8 @@
   "entries": [
    "mkc-0246",
    "nvv-0004",
+   "vv-0012",
+   "vv-0048",
    "pad-0528",
    "pad-0529",
    "pad-0530"
@@ -10427,7 +10536,8 @@
   "sources": [
    "murari-kcc",
    "nityananda-vamsha",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -10455,6 +10565,10 @@
   ],
   "entries": [
    "pad-0525",
+   "bkm-0001",
+   "bkm-0004",
+   "bkm-0006",
+   "bkm-0008",
    "jcm-0093",
    "mkc-0247",
    "pad-0051",
@@ -10472,6 +10586,7 @@
    "mkc-0251"
   ],
   "sources": [
+   "bhaktamal",
    "jayananda-cm",
    "murari-kcc",
    "padas"
@@ -10632,6 +10747,7 @@
   ],
   "entries": [
    "apr-0092",
+   "bkm-0014",
    "ccd-0067",
    "ccd-0068",
    "ccd-0072",
@@ -10641,18 +10757,22 @@
    "kcm-0133",
    "lcm-0248",
    "mkc-0233",
+   "vv-0026",
+   "vv-0054",
    "gst-0018",
    "mkc-0234"
   ],
   "sources": [
    "advaita-prakasha",
+   "bhaktamal",
    "chaitanya-chandrodaya",
    "gaura-stotras",
    "govinda-karcha",
    "jayananda-cm",
    "karnapura-ckm",
    "lochana-cm",
-   "murari-kcc"
+   "murari-kcc",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -10856,7 +10976,10 @@
    30
   ],
   "entries": [
+   "brt-0030",
+   "brt-0056",
    "apr-0098",
+   "brt-0031",
    "jcm-0094",
    "mkc-0188",
    "nvl-0007",
@@ -10864,6 +10987,7 @@
   ],
   "sources": [
    "advaita-prakasha",
+   "bhakti-ratnakara",
    "jayananda-cm",
    "murari-kcc",
    "narottama-vilasa",
@@ -10894,9 +11018,16 @@
    30
   ],
   "entries": [
+   "bkm-0003",
+   "bkm-0005",
+   "bkm-0007",
+   "brt-0032",
+   "brt-0057",
    "pvl-0196"
   ],
   "sources": [
+   "bhaktamal",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -11228,12 +11359,16 @@
   "entries": [
    "lcm-0230",
    "apr-0112",
+   "bkm-0013",
+   "brt-0033",
    "ccd-0084",
    "jcm-0095",
    "mkc-0223"
   ],
   "sources": [
    "advaita-prakasha",
+   "bhaktamal",
+   "bhakti-ratnakara",
    "chaitanya-chandrodaya",
    "jayananda-cm",
    "lochana-cm",
@@ -11561,11 +11696,13 @@
   ],
   "entries": [
    "apr-0116",
+   "brt-0034",
    "ccd-0086",
    "mkc-0224"
   ],
   "sources": [
    "advaita-prakasha",
+   "bhakti-ratnakara",
    "chaitanya-chandrodaya",
    "murari-kcc"
   ]
@@ -11739,6 +11876,7 @@
    "apr-0137",
    "mkc-0229",
    "pvl-0078",
+   "vv-0023",
    "pad-0142",
    "pad-0024",
    "pad-0141",
@@ -11749,7 +11887,8 @@
    "advaita-prakasha",
    "murari-kcc",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -11843,10 +11982,12 @@
    47
   ],
   "entries": [
-   "apr-0128"
+   "apr-0128",
+   "brt-0035"
   ],
   "sources": [
-   "advaita-prakasha"
+   "advaita-prakasha",
+   "bhakti-ratnakara"
   ]
  },
  {
@@ -11935,10 +12076,12 @@
    47
   ],
   "entries": [
-   "apr-0131"
+   "apr-0131",
+   "brt-0036"
   ],
   "sources": [
-   "advaita-prakasha"
+   "advaita-prakasha",
+   "bhakti-ratnakara"
   ]
  },
  {
@@ -12028,9 +12171,11 @@
    47
   ],
   "entries": [
+   "brt-0061",
    "pvl-0197"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -12221,12 +12366,14 @@
    47
   ],
   "entries": [
+   "brt-0046",
    "pvl-0003",
    "pvl-0005",
    "pvl-0006",
    "krn-0002"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "karnananda",
    "prema-vilasa"
   ]
@@ -12293,11 +12440,13 @@
   "entries": [
    "brt-0005",
    "brt-0007",
-   "pvl-0134"
+   "pvl-0134",
+   "vv-0011"
   ],
   "sources": [
    "bhakti-ratnakara",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -12419,10 +12568,13 @@
   ],
   "entries": [
    "pvl-0009",
+   "brt-0043",
+   "brt-0047",
    "pvl-0011",
    "pvl-0012"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -12452,11 +12604,13 @@
   ],
   "entries": [
    "pvl-0053",
+   "brt-0014",
    "nvl-0009",
    "pvl-0054",
    "pvl-0055"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -13110,11 +13264,14 @@
    47
   ],
   "entries": [
+   "bkm-0002",
+   "bkm-0012",
    "ccd-0090",
    "pvl-0131",
    "gst-0016"
   ],
   "sources": [
+   "bhaktamal",
    "chaitanya-chandrodaya",
    "gaura-stotras",
    "prema-vilasa"
@@ -13245,9 +13402,12 @@
    48
   ],
   "entries": [
+   "brt-0038",
+   "brt-0040",
    "pvl-0198"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -13350,6 +13510,8 @@
    "nvv-0008",
    "nvv-0009",
    "pvl-0231",
+   "vv-0002",
+   "vv-0057",
    "apr-0139"
   ],
   "sources": [
@@ -13357,7 +13519,8 @@
    "jayananda-cm",
    "nityananda-vamsha",
    "padas",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -13921,10 +14084,14 @@
    48
   ],
   "entries": [
+   "brt-0048",
    "pvl-0014",
-   "pvl-0015"
+   "pvl-0015",
+   "brt-0055",
+   "brt-0063"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -13952,9 +14119,11 @@
    48
   ],
   "entries": [
+   "brt-0049",
    "pvl-0016"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -14354,10 +14523,12 @@
    48
   ],
   "entries": [
+   "brt-0021",
    "pvl-0077",
    "pad-0559"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "padas",
    "prema-vilasa"
   ]
@@ -14386,9 +14557,11 @@
    48
   ],
   "entries": [
+   "brt-0022",
    "pvl-0079"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -14448,10 +14621,12 @@
    48
   ],
   "entries": [
+   "brt-0015",
    "nvl-0013",
    "pvl-0058"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -14551,6 +14726,8 @@
    48
   ],
   "entries": [
+   "brt-0016",
+   "brt-0020",
    "nvl-0018",
    "pvl-0063",
    "pad-0566",
@@ -14560,6 +14737,7 @@
    "pvl-0068"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "padas",
    "prema-vilasa"
@@ -14881,10 +15059,12 @@
    48
   ],
   "entries": [
+   "brt-0023",
    "nvl-0023",
    "pvl-0088"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -15278,9 +15458,12 @@
    48
   ],
   "entries": [
-   "pvl-0103"
+   "pvl-0103",
+   "nvl-0041",
+   "nvl-0047"
   ],
   "sources": [
+   "narottama-vilasa",
    "prema-vilasa"
   ]
  },
@@ -15372,6 +15555,7 @@
    48
   ],
   "entries": [
+   "nvl-0050",
    "nvv-0029",
    "nvv-0039",
    "pvl-0104",
@@ -15384,6 +15568,7 @@
    "pvl-0157"
   ],
   "sources": [
+   "narottama-vilasa",
    "nityananda-vamsha",
    "prema-vilasa"
   ]
@@ -15412,10 +15597,12 @@
    48
   ],
   "entries": [
-   "nvv-0040"
+   "nvv-0040",
+   "vv-0003"
   ],
   "sources": [
-   "nityananda-vamsha"
+   "nityananda-vamsha",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -15602,12 +15789,14 @@
    48
   ],
   "entries": [
+   "brt-0013",
    "pvl-0123",
    "pvl-0124",
    "pvl-0154",
    "pvl-0156"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15806,9 +15995,13 @@
    48
   ],
   "entries": [
-   "pvl-0142"
+   "krn-0018",
+   "pvl-0142",
+   "krn-0020",
+   "krn-0021"
   ],
   "sources": [
+   "karnananda",
    "prema-vilasa"
   ]
  },
@@ -15870,10 +16063,12 @@
    48
   ],
   "entries": [
+   "nvl-0036",
    "pvl-0149",
    "pvl-0150"
   ],
   "sources": [
+   "narottama-vilasa",
    "prema-vilasa"
   ]
  },
@@ -15903,12 +16098,20 @@
    48
   ],
   "entries": [
+   "nvl-0040",
+   "nvl-0042",
+   "nvl-0043",
+   "nvl-0044",
    "pvl-0151",
+   "nvl-0045",
    "pad-0561",
    "pvl-0152",
-   "pvl-0153"
+   "nvl-0046",
+   "pvl-0153",
+   "nvl-0048"
   ],
   "sources": [
+   "narottama-vilasa",
    "padas",
    "prema-vilasa"
   ]
@@ -16291,11 +16494,13 @@
    48
   ],
   "entries": [
+   "brt-0024",
    "pvl-0201",
    "pvl-0202",
    "pvl-0203"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -17393,9 +17598,11 @@
    48
   ],
   "entries": [
+   "brt-0042",
    "pad-0282"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "padas"
   ]
  },
@@ -17485,9 +17692,13 @@
    24
   ],
   "entries": [
+   "brt-0053",
+   "gkd-0050",
    "pad-0365"
   ],
   "sources": [
+   "bhakti-ratnakara",
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -17629,9 +17840,11 @@
    1
   ],
   "entries": [
+   "gkd-0017",
    "pad-0408"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -17695,9 +17908,11 @@
    1
   ],
   "entries": [
+   "gkd-0016",
    "pad-0411"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -17728,9 +17943,11 @@
    5
   ],
   "entries": [
+   "gkd-0020",
    "pad-0413"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -17830,10 +18047,12 @@
    5
   ],
   "entries": [
+   "gkd-0021",
    "pad-0415",
    "pad-0427"
   ],
   "sources": [
+   "gaura-krishnodaya",
    "padas"
   ]
  },
@@ -18688,6 +18907,72 @@
   ]
  },
  {
+  "id": "ev-keshava-kashmiri-defeat",
+  "title": "Победа над дигвиджайи Кешавой Кашмири",
+  "title_en": "Victory over the digvijayi Keshava Kashmiri",
+  "period": "P05",
+  "order": 62,
+  "cc": "Ади 16",
+  "cb": "Ади 13",
+  "themes": [
+   "learning",
+   "mercy",
+   "revelation"
+  ],
+  "bhava": [
+   "teacher"
+  ],
+  "notes": "Нимай-пандит на берегу Ганги в Навадвипе побеждает Кешаву Кашмири в разборе его стихов о Ганге; ночью Сарасвати открывает Кешаве, что его победил Господь; наутро он предаётся. Порядок: по ЧБ — до поездки в Восточную Бенгалию, по ЧЧ — после неё. Нимбаркийская традиция встречу не признаёт; кавитты Приядаса о ней в нимбаркийских списках «Бхактамала» изъяты.",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "gkd-0042",
+   "bkm-0010",
+   "brt-0050"
+  ],
+  "sources": [
+   "bhaktamal",
+   "bhakti-ratnakara",
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-vishnu-puri-bhakti-ratnavali",
+  "title": "Вишну Пури присылает Господу «Бхакти-ратнавали»",
+  "title_en": "Vishnu Puri sends the Lord the Bhakti-ratnavali",
+  "period": "P14",
+  "order": 200,
+  "date_conf": "оценка",
+  "date_basis": "Господь в Пури; время не указано (Приядас, кавитта 177)",
+  "themes": [
+   "teaching"
+  ],
+  "notes": "Только у Приядаса (1712): Махапрабху в Пури шутливо просит живущего в Каши Вишну Пури прислать «ожерелье из самоцветов», и тот присылает свою антологию «Бхакти-ратнавали», где отвергнута мукти. В гаудийских жизнеописаниях не найдено.",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "bkm-0011"
+  ],
+  "sources": [
+   "bhaktamal"
+  ]
+ },
+ {
   "id": "ev-gopala-bhatta-dream-vision",
   "title": "Сон-видение Гопалы Бхатты: Навадвипа, Кришна-пастушок, Гаура и санньяси",
   "title_en": "Gopala Bhatta's dream-vision: Navadvipa, Krishna the cowherd, Gaura and the sannyasi",
@@ -18711,6 +18996,365 @@
   ],
   "entries": [
    "brt-0003"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-ramachandra-kaviraja-birth",
+  "title": "Род и рождение Рамачандры Кавираджи: проклятие поэта Дамодары, Сунанда и Чиранджива",
+  "title_en": "Ramachandra Kaviraja's family and birth: the curse on Damodara the poet, Sunanda and Chiranjiva",
+  "period": "P15",
+  "order": 44,
+  "date_conf": "оценка",
+  "date_basis": "по БР 1: отец — Чиранджива Сена, спутник Господа; время рождения не указано",
+  "themes": [
+   "family"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.237–262.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0012"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-santosha-datta-sangita-madhava",
+  "title": "Сантоша Датта и драма Говинды Кавираджи «Сангита-мадхава»",
+  "title_en": "Santosha Datta and Govinda Kaviraja's drama Sangita-madhava",
+  "period": "P15",
+  "order": 98.5,
+  "date_conf": "оценка",
+  "themes": [
+   "learning",
+   "deities"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.461–483.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0025"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gokulananda-shridasa-disciples",
+  "title": "Гокулананда и Шридас, сыновья Двиджи Харидаса, — ученики Шринивасы",
+  "title_en": "Gokulananda and Shridasa, the sons of Dvija Haridasa, become disciples of Srinivasa",
+  "period": "P15",
+  "order": 90.5,
+  "date_conf": "оценка",
+  "themes": [
+   "family",
+   "mercy"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.484–491 (кратко; подробно — дальше в книге).",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0026"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-sanatana-dream-bhagavata",
+  "title": "Санатана в юности получает «Бхагавату» во сне и наяву",
+  "title_en": "Sanatana in his youth receives the Bhagavata in a dream and in waking",
+  "period": "P05",
+  "order": 300,
+  "date_conf": "оценка",
+  "date_basis": "«в ранней юности» Санатаны (Лагху-тошани)",
+  "themes": [
+   "revelation",
+   "learning"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.531–539 по «Лагху-тошани».",
+  "years": [
+   1496,
+   1508
+  ],
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "entries": [
+   "brt-0028"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gosvamis-ancestry",
+  "title": "Предки Госвами: от Сарваджни, царя Карнаты, до Кумары-девы",
+  "title_en": "The ancestry of the Gosvamis: from Sarvajna, king of Karnata, to Kumara-deva",
+  "period": "PX",
+  "order": 40,
+  "themes": [
+   "family"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.540–577 по заключению «Лагху-тошани».",
+  "entries": [
+   "brt-0029"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-jiva-meets-nityananda-navadvipa",
+  "title": "Джива в Навадвипе: встреча с Нитьянандой в доме Шриваса",
+  "title_en": "Jiva in Navadvipa: meeting Nityananda in Srivasa's house",
+  "period": "P15",
+  "order": 11.5,
+  "date_conf": "оценка",
+  "date_basis": "после ухода Господа, при жизни Нитьянанды (БР 1; подробнее БР 12)",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.739–774; обход Навадвипы — 12-я таранга.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0039"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gopala-milk-rupa-sanatana",
+  "title": "Гопала под видом мальчика-пастушка приносит молоко Рупе и Санатане",
+  "title_en": "Gopala in the guise of a cowherd boy brings milk to Rupa and Sanatana",
+  "period": "P14",
+  "order": 17.2,
+  "date_conf": "оценка",
+  "themes": [
+   "krishna-lila",
+   "mercy"
+  ],
+  "bhava": [
+   "krishna"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.788–789, 795, 826 по «Лагху-тошани».",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0041"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gosvamis-reveal-lost-tirthas",
+  "title": "Рупа и Санатана открывают утраченные тиртхи Матхура-мандалы",
+  "title_en": "Rupa and Sanatana reveal the lost tirthas of Mathura-mandala",
+  "period": "P14",
+  "order": 17.5,
+  "date_conf": "оценка",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "«Бхакти-ратнакара» 1.683, 785.",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0037",
+   "vv-0041"
+  ],
+  "sources": [
+   "bhakti-ratnakara",
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-gangadhara-becomes-chaitanya-dasa",
+  "title": "Гангадхара Бхаттачарья видит санньясу Господа в Катве и становится Чайтаньей Дасом",
+  "title_en": "Gangadhara Bhattacharya witnesses the Lord's sannyasa at Katwa and becomes Chaitanya Dasa",
+  "period": "P08",
+  "order": 41,
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "санньяса Господа (1510)",
+  "themes": [
+   "sannyasa",
+   "separation"
+  ],
+  "notes": "«Бхакти-ратнакара» 2.21–60; о том же вспоминает сам Чайтанья Дас (2.320–343).",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "brt-0045",
+   "brt-0054"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-govinda-deva-appearance",
+  "title": "Явление Говинды-девы Рупе на Гомаитиле",
+  "title_en": "Govinda-deva appears to Rupa at Gomatila",
+  "period": "P14",
+  "order": 17.3,
+  "date_conf": "оценка",
+  "date_basis": "при жизни Господа в Пури (Рупа посылает Ему письмо — БР 2)",
+  "themes": [
+   "deities",
+   "revelation"
+  ],
+  "notes": "«Бхакти-ратнакара» 2.403–436 и «Садхана-дипика» Радха-Кришны Госвами.",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0058"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gaura-govinda-kashishvara",
+  "title": "Господь даёт Кашишваре Божество Гаура-Говинды и посылает его во Вриндаван",
+  "title_en": "The Lord gives Kashishvara the Deity Gaura-Govinda and sends him to Vrindavana",
+  "period": "P14",
+  "order": 17.4,
+  "date_conf": "оценка",
+  "themes": [
+   "deities",
+   "separation"
+  ],
+  "notes": "«Бхакти-ратнакара» 2.437–445 по «Садхана-дипике».",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0059"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-vrinda-devi-rupa",
+  "title": "Рупа являет Вринда-деви у Брахма-кунды",
+  "title_en": "Rupa manifests Vrinda-devi at Brahma-kunda",
+  "period": "P14",
+  "order": 17.45,
+  "date_conf": "оценка",
+  "themes": [
+   "deities"
+  ],
+  "notes": "«Бхакти-ратнакара» 2.449–453 по «Садхана-дипике».",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0060"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-gopinatha-madhu-pandita",
+  "title": "Явление Гопинатхи Мадху Пандиту у Вамшивата",
+  "title_en": "Gopinatha appears to Madhu Pandita at Vamshivata",
+  "period": "P14",
+  "order": 17.6,
+  "date_conf": "оценка",
+  "themes": [
+   "deities"
+  ],
+  "notes": "«Бхакти-ратнакара» 2.473–483.",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "brt-0062"
   ],
   "sources": [
    "bhakti-ratnakara"
@@ -18751,6 +19395,342 @@
   "notes": "Внутренняя причина нисшествия (три желания Кришны, ЧЧ Ади 1.6, 4). «Гаура-кришнодая» (1.34–50) соединяет её с внешней: Кришна, войдя в ум Вишну, лежащего в океане, распределяет роли (Вишну — Вишварупа, Шива — Адвайта и т. д.).",
   "entries": [
    "gkd-0004"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-goddesses-visit-newborn",
+  "title": "Богини в облике брахманок и женщины Навадвипы приходят посмотреть на Младенца",
+  "title_en": "Goddesses disguised as brahmin women and the women of Navadvipa come to see the Infant",
+  "period": "P02",
+  "order": 4.5,
+  "cc": "Ади 13",
+  "cb": "",
+  "themes": [
+   "celestial",
+   "family"
+  ],
+  "notes": "ЧЧ Ади 13: жёны небожителей приходят неузнанными в облике брахманских жён. «Гаура-кришнодая» 2.34–38.",
+  "years": [
+   1486,
+   1487
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   0,
+   1
+  ],
+  "entries": [
+   "gkd-0012"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-eating-clay",
+  "title": "Младенец ест глину: спор с матерью о пище",
+  "title_en": "The Infant eats clay: the argument with His mother about food",
+  "period": "P03",
+  "order": 2,
+  "cc": "Ади 14",
+  "cb": "",
+  "themes": [
+   "pranks",
+   "teaching",
+   "family"
+  ],
+  "notes": "ЧЧ Ади 14: «вся пища — земля»; Шачи объясняет различие полезного и вредного примером кувшина и комка глины.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "gkd-0018"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-girls-worship-lord-ganga",
+  "title": "Девочки у Ганги поклоняются Господу вместо богов",
+  "title_en": "The girls at the Ganga worship the Lord instead of the gods",
+  "period": "P03",
+  "order": 40,
+  "cc": "Ади 14",
+  "cb": "Ади 6",
+  "themes": [
+   "pranks",
+   "revelation"
+  ],
+  "notes": "ЧЧ Ади 14: Господь требует, чтобы девочки, исполняющие обеты, поклонялись Ему, и благословляет их: хороший муж, семь сыновей.",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "gkd-0023"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-betel-swoon-vishvarupa-message",
+  "title": "Обморок после бетеля: весть от Вишварупы",
+  "title_en": "The swoon after betel: Vishvarupa's message",
+  "period": "P04",
+  "order": 55,
+  "cc": "Ади 15",
+  "cb": "",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "notes": "ЧЧ Ади 15: съев бетель, Господь теряет сознание и, очнувшись, рассказывает, что Вишварупа звал Его в санньясу, но Он отказался ради родителей.",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "entries": [
+   "gkd-0033"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-vishvarupa-shown-advaita",
+  "title": "Господь являет Адвайте вселенский облик",
+  "title_en": "The Lord reveals the universal form to Advaita",
+  "period": "P07",
+  "order": 101,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "notes": "ЧЧ Ади 17: «Адвайте показал вишварупу».",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkd-0045"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-mahaprakasha-abhisheka",
+  "title": "Махапракаша: преданные совершают абхишеку Господа",
+  "title_en": "The mahaprakasha: the devotees perform the Lord's abhisheka",
+  "period": "P07",
+  "order": 113.5,
+  "cc": "Ади 17",
+  "cb": "Мадхья 9",
+  "themes": [
+   "revelation",
+   "festival"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "notes": "Великое откровение в доме Шривасы: Господь садится на трон Вишну, преданные омывают Его.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkd-0046"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-astrologer-sarvajna",
+  "title": "Всеведущий астролог видит в Господе Кришну",
+  "title_en": "The omniscient astrologer sees Krishna in the Lord",
+  "period": "P07",
+  "order": 85,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "ЧЧ Ади 17: Господь спрашивает астролога о Своём прежнем рождении.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkd-0052"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-shrivasa-dead-son-speaks",
+  "title": "Умерший сын Шривасы говорит о душе",
+  "title_en": "Srivasa's dead son speaks about the soul",
+  "period": "P07",
+  "order": 86,
+  "cc": "Ади 17",
+  "cb": "Мадхья 25",
+  "themes": [
+   "teaching",
+   "revelation"
+  ],
+  "notes": "ЧЧ Ади 17: сын Шривасы умирает во время киртана; Господь велит мёртвому говорить о вечности души.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkd-0053"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-students-offend-sannyasa-resolve",
+  "title": "Студенты оскорбляют Господа: решение принять санньясу ради их спасения",
+  "title_en": "The students offend the Lord: the resolve to take sannyasa to save them",
+  "period": "P07",
+  "order": 139,
+  "cc": "Ади 17",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "offense",
+   "mercy"
+  ],
+  "notes": "ЧЧ Ади 17: «санньяси они будут кланяться — и очистятся».",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "gkd-0054"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-advaita-boat-ganga-vrindavana",
+  "title": "Адвайта на лодке у Ганги: «Где Ты — там Вриндаван»",
+  "title_en": "Advaita in a boat at the Ganga: \"Where You are, there is Vrindavana\"",
+  "period": "P09",
+  "order": 25,
+  "cc": "Мадхья 3",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "revelation"
+  ],
+  "notes": "Господь, обманутый Нитьянандой, принимает Гангу за Ямуну; Адвайта встречает Его на лодке и ведёт в Шантипур.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkd-0059"
+  ],
+  "sources": [
+   "gaura-krishnodaya"
+  ]
+ },
+ {
+  "id": "ev-advaita-feast-shantipura",
+  "title": "Угощение у Адвайты в Шантипуре: шутливая перебранка Адвайты и Нитьянанды",
+  "title_en": "The feast at Advaita's house in Shantipura: the jesting quarrel of Advaita and Nityananda",
+  "period": "P09",
+  "order": 40,
+  "cc": "Мадхья 3",
+  "cb": "",
+  "themes": [
+   "prasada",
+   "family"
+  ],
+  "notes": "Сита готовит огромное угощение; Нитьянанда бросает рис, Адвайта пляшет.",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "entries": [
+   "gkd-0060"
   ],
   "sources": [
    "gaura-krishnodaya"
@@ -19389,9 +20369,11 @@
    30
   ],
   "entries": [
+   "brt-0018",
    "nvl-0003"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa"
   ]
  },
@@ -19445,9 +20427,11 @@
    47
   ],
   "entries": [
+   "brt-0019",
    "nvl-0005"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa"
   ]
  },
@@ -19737,6 +20721,212 @@
   ]
  },
  {
+  "id": "ev-narottama-shrikhanda-yajigrama-katwa",
+  "title": "Нароттама на обратном пути из Пури: Шрикханда, Яджиграм (Шриниваса), Катва (Дас Гададхара)",
+  "title_en": "Narottama on the way back from Puri: Shrikhanda, Yajigrama (Srinivasa), Katwa (Dasa Gadadhara)",
+  "period": "P15",
+  "order": 89.2,
+  "themes": [
+   "separation",
+   "pilgrimage"
+  ],
+  "notes": "«Нароттама-виласа» 5; весть о сокрытии почти всех спутников в Пури.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0032",
+   "nvl-0033",
+   "nvl-0034"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-nityananda-shows-ekachakra",
+  "title": "Нитьянанда в облике брахмана показывает Нароттаме Экачакру и является Баларамой",
+  "title_en": "Nityananda as a brahmana shows Narottama Ekachakra and appears as Balarama",
+  "period": "P15",
+  "order": 89.3,
+  "themes": [
+   "revelation",
+   "pilgrimage"
+  ],
+  "bhava": [
+   "balarama"
+  ],
+  "notes": "«Нароттама-виласа» 5.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0035"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-narottama-kirtan-style",
+  "title": "Нароттама создаёт свой стиль киртана перед Божеством Гауранги",
+  "title_en": "Narottama creates his style of kirtana before the Deity of Gauranga",
+  "period": "P15",
+  "order": 91.5,
+  "themes": [
+   "kirtan",
+   "deities"
+  ],
+  "notes": "«Нароттама-виласа» 6: гандхарвы в облике людей приходят слушать (шлока Вишванатхи).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0037"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-srinivasa-second-vrindavana",
+  "title": "Шриниваса после ухода Нарахари и Даса Гададхары снова идёт во Вриндаван; Рамачандра получает звание «Кавираджа»",
+  "title_en": "After the passing of Narahari and Dasa Gadadhara Srinivasa goes again to Vrindavana; Ramachandra receives the title 'Kaviraja'",
+  "period": "P15",
+  "order": 96.5,
+  "themes": [
+   "departure",
+   "separation"
+  ],
+  "notes": "«Нароттама-виласа» 6 (в пересказе вестника).",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0038"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-kheturi-festival-invitations",
+  "title": "Встреча Нароттамы и Шринивасы в Будхари; приглашения на праздник в Кхетури",
+  "title_en": "Narottama and Srinivasa meet at Budhari; invitations to the Kheturi festival",
+  "period": "P15",
+  "order": 104.5,
+  "calendar": "назначено на пхалгуна-пурниму",
+  "themes": [
+   "festival"
+  ],
+  "notes": "«Нароттама-виласа» 6.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0039"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-kheturi-mahantas-depart",
+  "title": "Проводы махантов после праздника в Кхетури; киртан с пляской Шринивасы; уход Шринивасы и Шьямананды",
+  "title_en": "The farewell of the mahantas after the Kheturi festival; kirtana with Srinivasa's dance; Srinivasa and Shyamananda depart",
+  "period": "P15",
+  "order": 105.5,
+  "themes": [
+   "separation",
+   "kirtan"
+  ],
+  "notes": "«Нароттама-виласа» 8.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0049",
+   "nvl-0051"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
+  "id": "ev-kheturi-robbers-converted",
+  "title": "Разбойники-пашанди, вкусив прасад в Кхетури, принимают прибежище у Нароттамы",
+  "title_en": "Robber pashandis, having tasted prasada in Kheturi, take shelter of Narottama",
+  "period": "P15",
+  "order": 105.7,
+  "themes": [
+   "mercy",
+   "prasada"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava"
+  ],
+  "notes": "«Нароттама-виласа» 8: наставление — общество садху, смирение, не оскорблять вайшнавов, Хари-нама.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "nvl-0052"
+  ],
+  "sources": [
+   "narottama-vilasa"
+  ]
+ },
+ {
   "id": "ev-srinivasa-daily-bhajana-yajigrama",
   "title": "Шринивас в Яджиграме: книги Госвами и распорядок бхаджана",
   "title_en": "Srinivasa at Yajigrama: the Gosvamis' books and his daily round of bhajana",
@@ -19852,6 +21042,402 @@
   ],
   "sources": [
    "karnananda"
+  ]
+ },
+ {
+  "id": "ev-ramachandra-obedience",
+  "title": "Послушание Рамачандры Кавираджи: трапеза с тарелки гуру и «змея» во дворе",
+  "title_en": "Ramachandra Kaviraja's obedience: eating from the guru's plate and the 'snake' in the courtyard",
+  "period": "P15",
+  "order": 101.8,
+  "themes": [
+   "teaching",
+   "prasada"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "notes": "«Карнананда» 3 (рассказ Ишвари): по слову Шринивасы Рамачандра ест с его сиденья и из его посуды и принимает соломенное кольцо то за змею, то за кольцо; Шринивас сравнивает его с Арджуной у Дроны; Рамачандра и Нароттама — «два глаза» Шринивасы, он сам подаёт им пищу.",
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "krn-0019"
+  ],
+  "sources": [
+   "karnananda"
+  ]
+ },
+ {
+  "id": "ev-purandara-tail",
+  "title": "Брахман видит в доме Пурандары Пандита хвост Ангады",
+  "title_en": "A brahmana sees Angada's tail in Purandara Pandita's house",
+  "period": "P07",
+  "order": 380.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Ванданы (Джива 76; Девакинандана 64); ГГД 91: Пурандара — Ангада.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "vv-0013",
+   "vv-0042"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-vakreshvara-dance-kirtana",
+  "title": "Вакрешвара пляшет в киртане, а Господь поёт для него",
+  "title_en": "Vakreshvara dances in kirtana while the Lord sings for him",
+  "period": "P07",
+  "order": 381.5,
+  "cc": "Ади 10",
+  "cb": "",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "ЧЧ Ади 10 (семьдесят два прахары пляски); вандана Дживы 80.",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "entries": [
+   "vv-0016"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-mukunda-dasa-peacock",
+  "title": "Мукунда Дас, увидев павлинье перо, без чувств падает с высокого сиденья",
+  "title_en": "Mukunda Dasa, seeing a peacock feather, falls senseless from his high seat",
+  "period": "P12",
+  "order": 205.5,
+  "cc": "Мадхья 15",
+  "cb": "",
+  "themes": [
+   "ecstasy"
+  ],
+  "notes": "Рассказ Господа о Мукунде, придворном лекаре (ЧЧ Мадхья 15); ванданы (Джива 87–88; Девакинандана 74). Само событие — до или в годы пребывания Господа в Пури; место на шкале условно.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0019",
+   "vv-0046"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-raghunandana-feeds-gopinatha",
+  "title": "Мальчик Рагхунандана кормит Божество Гопинатхи",
+  "title_en": "The boy Raghunandana feeds the Deity of Gopinatha",
+  "period": "P12",
+  "order": 205.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "deities",
+   "prasada"
+  ],
+  "notes": "Предание Шрикханды; в вандане Дживы (86) — «тот, кто накормил Гопалу».",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0018"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-govindananda-mental-bridge",
+  "title": "Говиндананда (Сугрива Мишра) мысленно строит мост для пути Господа через Гауду",
+  "title_en": "Govindananda (Sugriva Mishra) builds in his mind a bridge for the Lord's journey through Gauda",
+  "period": "P13",
+  "order": 5.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "Только ванданы (Джива 81–82, 111; Девакинандана 69). Ср. ЧЧ Мадхья 1 и ev-natashala-kanai-return: там мысленную дорогу до Вриндавана строит Нрисимхананда Брахмачари — вероятно, тот же рассказ в другой передаче.",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "entries": [
+   "vv-0017",
+   "vv-0045"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-dhananjaya-renunciation",
+  "title": "Дхананджая Пандит отдаёт Господу всё и уходит с горшком для подаяния",
+  "title_en": "Dhananjaya Pandita gives everything to the Lord and leaves with an alms-pot",
+  "period": "P12",
+  "order": 290.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "sannyasa",
+   "mercy"
+  ],
+  "notes": "Только ванданы (Джива 117–118; Девакинандана 118; у «второго» Вриндавана Даса — «богатство в сто тысяч»).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0027",
+   "vv-0055"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-gauridasa-brings-advaita-utkala",
+  "title": "Гауридас Пандит приводит Адвайту в Уткалу к Господу",
+  "title_en": "Gauridasa Pandita brings Advaita to the Lord in Utkala",
+  "period": "P12",
+  "order": 290.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "Только ванданы (Джива 97; Девакинандана 99).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0022",
+   "vv-0052"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-krishnadasa-badagachhi-separation",
+  "title": "Нитьянанда в доме Кришнадаса в Бадагачхи; Гауридас уводит Его; семь месяцев разлуки",
+  "title_en": "Nityananda in Krishnadasa's house at Badagachhi; Gauridasa takes Him away; seven months of separation",
+  "period": "P12",
+  "order": 112.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "separation"
+  ],
+  "notes": "Только вандана, приписываемая Дживе (125–128).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0029"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-uddharana-pilgrimage-nityananda",
+  "title": "Уддхарана Датта обходит с Нитьянандой все святые места",
+  "title_en": "Uddharana Datta goes round all the holy places with Nityananda",
+  "period": "P12",
+  "order": 112.6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "notes": "Только ванданы (Джива 134; Девакинандана 98).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0030",
+   "vv-0051"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-associates-of-nityananda-wonders",
+  "title": "Чудеса спутников Нитьянанды: флейта Абхирамы, шакалы Парамешвары, змеи Мурари Чайтаньи Даса и Саранги",
+  "title_en": "Wonders of Nityananda's associates: Abhirama's flute, Parameshvara's jackals, the snakes of Murari Chaitanya Dasa and Saranga",
+  "period": "P12",
+  "order": 112.7,
+  "cc": "Ади 11",
+  "cb": "",
+  "themes": [
+   "revelation"
+  ],
+  "notes": "Ванданы (Джива 95, 99, 102, 120; Девакинандана 83, 85); ГГД 126 (бревно Абхирамы); ЧЧ Ади 11 (Мурари Чайтанья Дас).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0021",
+   "vv-0024",
+   "vv-0025",
+   "vv-0028",
+   "vv-0047",
+   "vv-0049"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-purushottama-nagara-wonders",
+  "title": "Пурушоттама (сын Садашивы): безумие по Кришне с семи лет, абхишека, цветок карави",
+  "title_en": "Purushottama (son of Sadashiva): madness for Krishna from the age of seven, abhisheka, the karavi flower",
+  "period": "P12",
+  "order": 112.8,
+  "cc": "Ади 11",
+  "cb": "",
+  "themes": [
+   "ecstasy",
+   "revelation"
+  ],
+  "notes": "Ванданы (Джива 94; Девакинандана 87–94 — о своём гуру); ЧЧ Ади 11 (Пурушоттама, сын Садашивы Кавираджи).",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0020",
+   "vv-0050"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-shankara-ghosha-dampha",
+  "title": "Шанкара Гхош радует Господа игрой на дамфе",
+  "title_en": "Shankara Ghosha delights the Lord by playing the dampha",
+  "period": "P14",
+  "order": 150.5,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan"
+  ],
+  "notes": "Ванданы (Джива 136; Девакинандана 137); ГГД 142. Время и место не указаны; место на шкале условно.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vv-0031",
+   "vv-0056"
+  ],
+  "sources": [
+   "vaishnava-vandana"
   ]
  }
 ]
