@@ -21457,6 +21457,128 @@
   "attestation": 5
  },
  {
+  "id": "pad-0727",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 93–94 (2.4, № 2) «নিশি পরভাতে নিভৃত নিকেতে কুলবধূকুল বিলসে রঙ্গে» = БР 12 (изд. 1912, с. 799; изд. 1960, ст. 1403–1406)",
+  "file": "padas/ru/33.md",
+  "period": "P05",
+  "order": 100.11,
+  "title": "Свадьба: сон молодой жены",
+  "summary": "Утром дня адхивасы молодая жена рассказывает подругам сон: Гаура позвал её на обряд воды на Своей свадьбе и обнимал её; она зовёт всех скорее наряжаться и идти к Нему.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@vishnupriya"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧБ Ади 15",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-046. Вероятно Чакраварти: есть в БР. Сон с объятием — воображение героини (ЧБ, Ади); свадьба — ЧБ Ади 15.",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "13.1",
+    "to": "13.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "13.1",
+    "to": "13.4",
+    "line": 314,
+    "line_to": 320,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L314-L320",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L321-L327"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
+ },
+ {
+  "id": "pad-0728",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 94 (2.4, № 3) «গৌর বরজ-কিশোর বর অনুরাগে নব নব নারী» = БР 12 (изд. 1912, с. 800; изд. 1960, ст. 1407–1410)",
+  "file": "padas/ru/33.md",
+  "period": "P05",
+  "order": 100.12,
+  "title": "Свадьба: женщины спешат к дому Шачи",
+  "summary": "Женщины, полные анураги к Гауре, наряжаются, кланяются старшим, и те радостно отпускают их на свадебный обряд в дом Шачи; несчётные толпы спешат по дороге.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧБ Ади 15",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-047. Вероятно Чакраварти: есть в БР. Враджабули; строка 14.4 неясна — сноска.",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "14.1",
+    "to": "14.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "14.1",
+    "to": "14.4",
+    "line": 336,
+    "line_to": 342,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L336-L342",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L345-L351"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
+ },
+ {
   "id": "pad-0454",
   "source": "padas",
   "ref": "Нарахари (Чакраварти?), ГПТ1 с. 94 (2.4, № 5) «যুবতী-যূথ মতি গতি অতি অদভুত» = БР 12 (изд. 1912, с. 800–801; изд. 1960, ст. 1415–1418) = ГЧЧ гл. 9, пада 19",
@@ -21569,6 +21691,67 @@
    1508
   ],
   "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
+ },
+ {
+  "id": "pad-0729",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 95 (2.4, № 7) «নব নদীয়া-নাগরী গোরি ভোরি বয় থোরি» = БР 12 (изд. 1912, с. 801–802; изд. 1960, ст. 1423–1428) = ГЧЧ (кирана 9, пада 22)",
+  "file": "padas/ru/33.md",
+  "period": "P05",
+  "order": 100.31,
+  "title": "Свадьба: нагари Надии у дома Шачи",
+  "summary": "В доме Шачи юные жёны Надии тайком глядят на Возлюбленного, перешёптываются и смущаются; поэт говорит: они отдали Владыке жизни жизнь и юность.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧБ Ади 15",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-050. Вероятно Чакраварти: есть в БР и в ГЧЧ 9.22. Нагари-формула («отдали юность») — со сноской (ЧЧ Ади 4).",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "15.1",
+    "to": "15.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "15.1",
+    "to": "15.6",
+    "line": 358,
+    "line_to": 368,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L358-L368",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L367-L377"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
   "years_from": "period",
   "age": [
    10,
@@ -22243,6 +22426,67 @@
    1508
   ],
   "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 5
+ },
+ {
+  "id": "pad-0730",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 101 (2.4, № 21) «আহা মরি কি মধুর রীতি» = БР 12 (изд. 1912, с. 810–811; изд. 1960, ст. 1507–1510)",
+  "file": "padas/ru/33.md",
+  "period": "P05",
+  "order": 100.9235,
+  "title": "Свадьба: мечты нагари",
+  "summary": "Горожанки, глядя на Горачанда, мечтают день и ночь быть с Ним и, проникнув в покой, коснуться Его золотого тела; с такими мечтами они входят в дом Санатаны Мишры.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@sanatana-mishra"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧБ Ади 15",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-060. Вероятно Чакраварти: есть в БР (там — «брачный покой», откровеннее ГПТ).",
+  "themes": [
+   "family",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-marriage-vishnupriya",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "16.1",
+    "to": "16.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "16.1",
+    "to": "16.4",
+    "line": 386,
+    "line_to": 392,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L386-L392",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L395-L401"
+   }
+  ],
+  "cc": "Ади 16",
+  "cb": "Ади 15",
+  "years": [
+   1496,
+   1508
+  ],
   "years_from": "period",
   "age": [
    10,
@@ -43652,6 +43896,62 @@
   "attestation": 1
  },
  {
+  "id": "pad-0734",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 356 (5.2, № 39) «নদীয়ার শশী রঙ্গে রাজপথে হেলি দুলি চলে পুলক হিয়া» = БР 12 (изд. 1912, с. 870–871; изд. 1960, ст. 2380–2383)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.5145,
+  "title": "Прогулка по городу: горожанка любуется Горой",
+  "summary": "Луна Надии идёт по царской дороге; юные женщины тайком смотрят на Него; одна описывает подруге Его облик и говорит, что утонула в Его расе и простилась со стыдом и родом.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-186. Вероятно Чакраварти: есть в БР (аштакалия, прогулка по Надии). Признаки махапуруши — ЧЧ Ади 3.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-gaura-beauty-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "20.1",
+    "to": "20.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "20.1",
+    "to": "20.4",
+    "line": 475,
+    "line_to": 481,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L475-L481",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L486-L492"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0062",
   "source": "padas",
   "ref": "Говинда Гхош, ПК 2146 «কনয়া কষিল মুখ-শোভা»",
@@ -52070,6 +52370,118 @@
   "attestation": 1
  },
  {
+  "id": "pad-0731",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 155 (3.1, № 129) «দেখ দেখ অগো ভুবনমোহন গৌরাঙ্গরূপের ছটা» = ГЧЧ (кирана 10, пада 8)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.8265,
+  "title": "Беседа небесных женщин: сияние облика Гауранги",
+  "summary": "Небожительница зовёт подруг взглянуть на сияние облика Гауранги — молния, золотой лотос, горочана, кумкума, ожерелье из чампак; глаза не насыщаются.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-248. Вероятно Чакраварти: ГЧЧ 10.8 (свидетель найден в порции 33; в ГПТ — разд. 3.1 «облик»).",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "17.1",
+    "to": "17.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "17.1",
+    "to": "17.4",
+    "line": 408,
+    "line_to": 414,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L408-L414",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L418-L424"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0732",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 155 (3.1, № 130) «দেখ দেখ অগো গৌরাঙ্গচাঁদের ভুবনমোহন বেশ» = ГЧЧ (кирана 10, пада 9)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.8266,
+  "title": "Беседа небесных женщин: утренний облик Гауры",
+  "summary": "Небожительница описывает утренний облик Гаурангачанда — растрёпанные кудри с бутонами кунды, тилака, серьги, гирлянда — и говорит: «Он похитит дхарму, стыдливость и честь».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-366 (новая строка каталога, порция 33). Вероятно Чакраварти: ГЧЧ 10.9.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "18.1",
+    "to": "18.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "18.1",
+    "to": "18.4",
+    "line": 431,
+    "line_to": 437,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L431-L437",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L442-L448"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0704",
   "source": "padas",
   "ref": "Нарахари (Чакраварти?), ГПТ1 с. 227 (3.2, № 158) «শুন শুন ওগো প্রাণসম তুমি কহিয়ে তোমার কাণে» = ГЧЧ (кирана 10, пада 10)",
@@ -52673,6 +53085,680 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/32.md?plain=1#L590-L624",
     "file_en": "padas/en/32.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/32.md?plain=1#L611-L645"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0715",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 233 (3.2, № 169) «ব্রজপুরে রসবিলাস বিশেষ সে সকল কেবা কহিতে পারে» = ГЧЧ (кирана 10, пада 25)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.838,
+  "title": "Беседа небесных женщин: «это — Он»",
+  "summary": "Небожительница говорит подруге по секрету: Он — тот же, Кто играл во Врадже, и со всеми теми же спутниками играет в Надии; юные жёны Надии, простившись со стыдом и родом, сделали своей сутью Гору.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-128. Вероятно Чакраварти: ГЧЧ 10.25. Тождество Гауры и Кришны (ЧЧ Ади 1–4) — учение традиции; вывод героини о нагари — нет (сноска).",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "1.1",
+    "to": "1.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "1.1",
+    "to": "1.4",
+    "line": 11,
+    "line_to": 17,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L11-L17",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L11-L17"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0716",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 233 (3.2, № 170) «গৌরাঙ্গচাঁদের সুচারু চরিত শুনি শুনি ধনী পরমসুখী» = ГЧЧ (кирана 10, пада 26)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.839,
+  "title": "Беседа небесных женщин: желание поселиться в Надии",
+  "summary": "Слушательница, переполненная счастьем, со слезами просит научить её, как хоть раз поселиться в Надии, стать подругой её юных женщин и удержать в сердце Возлюбленного жизни.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-362. Вероятно Чакраварти: ГЧЧ 10.26 (10.27 — конец кираны — в ГПТ нет). Желание небожителей родиться в Навадвипе — ср. ЧБ, Ади.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "2.1",
+    "to": "2.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "2.1",
+    "to": "2.4",
+    "line": 35,
+    "line_to": 41,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L35-L41",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L35-L41"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0717",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 233–234 (3.2, № 171) «সুরপুর মাঝে বসতি করিয়া এত অহঙ্কার করিছ কেনে» = ГЧЧ (кирана 11, пада 4)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.84,
+  "title": "Ответ: защита целомудрия женщин Надии",
+  "summary": "Небожительница в гневе упрекает подруг, порочащих женщин Надии: так бывает лишь с жёнами Враджа, а жёны Надии верны мужьям, чтут старших; кто поёт о чужом позоре, сам опозорен.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "В разделе нагари-пад ГПТ; по содержанию — не нагари-бхава (защита целомудрия женщин Надии), в ГЧЧ — речь небесной женщины в начале 11-й кираны («любовные ссоры небесных женщин»). Порция 33 (раздел нагари-пад, VII). НГ-129. Вероятно Чакраварти: ГЧЧ 11.4. Противопоставление Враджа и Надии согласно с ЧЧ Ади 4.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "3.1",
+    "to": "3.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "3.1",
+    "to": "3.8",
+    "line": 57,
+    "line_to": 71,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L57-L71",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L58-L72"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0718",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 234 (3.2, № 172) «ভাল ভাল ইহা শিখাতে হবে না এ সকল কথা না জানি এ আমি» = ГЧЧ (кирана 11, пада 6)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.841,
+  "title": "Ссора небесных женщин: насмешка над «верной женой»",
+  "summary": "Насмешница отвечает защитнице: на земле верны лишь жёны Надии, а в граде богов — только она; пусть идёт в Надию со своей дхармой и стыдом и живёт среди целомудренных.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-363. Вероятно Чакраварти: ГЧЧ 11.6 (11.5 — связка — в ГПТ нет). Насмешливый тон сохранён.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "4.1",
+    "to": "4.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "4.1",
+    "to": "4.4",
+    "line": 90,
+    "line_to": 96,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L90-L96",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L91-L97"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0719",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 234 (3.2, № 173) «হের আইস ওগো পতিব্রতা সহ কি লাগি কহিব এ সকল কথা» = ГЧЧ (кирана 11, пада 7)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.842,
+  "title": "Ссора небесных женщин: «наш Гора ничего этого не знает»",
+  "summary": "Небожительница: не все небожительницы искусны; Гора не поднимает лица, всегда осмотрителен на пути дхармы, ничего такого не знает — и всё же горожанки очаровали Его взглядами.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-130. Вероятно Чакраварти: ГЧЧ 11.7. Строгость Господа — как в ЧБ, Ади; навет на женщин Надии — в сноске.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "5.1",
+    "to": "5.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "5.1",
+    "to": "5.5",
+    "line": 109,
+    "line_to": 117,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L109-L117",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L110-L118"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0720",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 235 (3.2, № 174) «কি বলিব ওগো নদীয়ার নব-যুবতীগণের যেরূপ রীতি» = ГЧЧ (кирана 11, пада 8)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.843,
+  "title": "Ссора небесных женщин: скрытность жён Надии",
+  "summary": "Небожительница: жёны Надии благонравны при свекрови и золовке, но тайком стараются покорить Луну Надии; она видела, как они Его очаровывали, — Нарахари с Гаурангой не было.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-131. Вероятно Чакраварти: ГЧЧ 11.8.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "6.1",
+    "to": "6.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "6.1",
+    "to": "6.4",
+    "line": 131,
+    "line_to": 137,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L131-L137",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L134-L140"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0721",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 235 (3.2, № 175) «নদীয়াতে কত কত এ কৌতুক তাহে তাহা কত কহিবে তুমি» = ГЧЧ (кирана 11, пада 9)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.844,
+  "title": "Ссора небесных женщин: у квартала Мурари Гупты",
+  "summary": "Небожительница рассказывает: «верные жёны» со свекровью и золовкой встали на пути Горы, шедшего к кварталу Мурари Гупты, подавали знаки; Господь, опустив от стыда лицо, отошёл в сторону.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@murari-gupta"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-364. Вероятно Чакраварти: ГЧЧ 11.9. Прямой мотив соблазна — со сноской; ответ Господа — как в ЧБ, Ади.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "7.1",
+    "to": "7.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "7.1",
+    "to": "7.4",
+    "line": 150,
+    "line_to": 156,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L150-L156",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L155-L161"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0722",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 235 (3.2, № 176) «কি কহিব ওগো এ সকল কথা কহিতে অধিক সঙ্কোচ বাসি» = ГЧЧ (кирана 11, пада 10)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.845,
+  "title": "Ссора небесных женщин: «кому отдать гранат?»",
+  "summary": "Небожительница: Луна Надии трепещет перед юными женщинами; однажды «верные жёны» метали в Него взгляды и говорили двусмысленные речи — Господь, удержав стойкость, от стыда поскорее ушёл домой.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-132. Вероятно Чакраварти: ГЧЧ 11.10 (одно двустишие ГЧЧ в ГПТ опущено). Строгость Господа — как в ЧБ, Ади.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "8.1",
+    "to": "8.5"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "8.1",
+    "to": "8.5",
+    "line": 172,
+    "line_to": 180,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L172-L180",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L178-L186"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0723",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 236 (3.2, № 177) «কি বলিব ইহ সবারে নিরখি কহিল কত কি সহিতে পারি» = ГЧЧ (кирана 11, пада 15)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.846,
+  "title": "Ссора небесных женщин: строгие старшие",
+  "summary": "Насмешница: жён Надии бранят свекрови, золовки и мужья, держат дома, к Ганге отпускают лишь с золовкой, никто им не верит; поэт умирает от стыда, слыша эту хулу.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-133. Вероятно Чакраварти: ГЧЧ 11.15 (в ГПТ поставлена перед 11.14).",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "9.1",
+    "to": "9.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "9.1",
+    "to": "9.4",
+    "line": 196,
+    "line_to": 202,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L196-L202",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L202-L208"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0724",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 236 (3.2, № 178) «সুরপুরে কেবা না জানে নদীয়া-নাগরীগণের যেরূপ রীতি» = ГЧЧ (кирана 11, пада 17)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.847,
+  "title": "Ссора небесных женщин: «Он — супруг их всех»",
+  "summary": "Игривая небожительница примиряет спорящих: повадок жён Надии не перечесть — вот красавица в доме Аи неотрывно смотрит на Гору, трепещет и потеет; «Господь Нарахари — супруг их всех».",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-134. Вероятно Чакраварти: ГЧЧ 11.17 (11.16, 11.18–11.19 в ГПТ нет). «Пати всех» — гаура-нагари в прямом виде; не принимается (ЧЧ Ади 4) — сноска.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "10.1",
+    "to": "10.8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "10.1",
+    "to": "10.8",
+    "line": 218,
+    "line_to": 232,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L218-L232",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L225-L239"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0725",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 236–237 (3.2, № 179) «শুন শুন এই কালিকার কথা কহি এ তোমারে নিলজী হৈয়া» = ГЧЧ (кирана 11, пада 14, начало)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.848,
+  "title": "Рассказ небожительницы: сборы к гхату",
+  "summary": "Небожительница рассказывает: горожанки сговорились идти за водой к гхату, куда придёт Гаура, и советуют друг другу наряды и украшения, чтобы Он потерял стойкость.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-135. Вероятно Чакраварти: ГЧЧ 11.14 (ГПТ разделила паду на № 179–180; подпись «Нарахари» в конце № 179 — только в ГПТ). 11.11–11.13 (самые откровенные) в ГПТ нет.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "11.1",
+    "to": "11.7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "11.1",
+    "to": "11.7",
+    "line": 253,
+    "line_to": 265,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L253-L265",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L259-L271"
+   }
+  ],
+  "years": [
+   1505,
+   1510
+  ],
+  "age": [
+   19,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0726",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 237 (3.2, № 180) «নানা কথা কহি আনে আনে সবে সাজিলেন সাজ উলস হৈয়া» = ГЧЧ (кирана 11, пада 14, окончание)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 133.849,
+  "title": "Рассказ небожительницы: встреча на дороге к Ганге",
+  "summary": "Нарядившиеся горожанки идут к Сурадхуни и на пути видят Гауру; Он идёт, склонив голову, раз оглядывается и, смутившись, думает о позоре; они хранят Его образ в сердце.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-365. Вероятно Чакраварти: ГЧЧ 11.14. Последнее двустишие ГПТ («встреча нагари и нагары») в ГЧЧ иное: Нарахари был с Гаурангой и уберёг приличие — сноска.",
+  "themes": [
+   "author"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (ГЧЧ); навадвипский период",
+  "event": "ev-nagari-bhava-padas",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "12.1",
+    "to": "12.7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "12.1",
+    "to": "12.7",
+    "line": 284,
+    "line_to": 296,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L284-L296",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L290-L302"
    }
   ],
   "years": [
@@ -59348,6 +60434,66 @@
   ],
   "date_conf": "оценка",
   "date_basis": "Маджумдар: пада Васу Гхоша о джхулане (ПК 1550) — свидетельство очевидца; навадвипский период",
+  "age": [
+   23,
+   23
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pad-0733",
+  "source": "padas",
+  "ref": "Нарахари (Чакраварти?), ГПТ1 с. 324–325 (5.1, № 12) «ঝুলত ঝুলত সুন্দর রসময় গোরা অপরূপ রঙ্গে মাতিয়া গো» = БР 12 (изд. 1912, с. 939–940; изд. 1960, ст. 3271–3274)",
+  "file": "padas/ru/33.md",
+  "period": "P07",
+  "order": 134.7525,
+  "title": "Джхулан: горожанка клянётся оставить стыд",
+  "summary": "Гора качается на качелях на берегу Ганги, глядя в лицо Гададхары; спутники раскачивают качели и поют; горожанка клянётся оставить стыд рода и пойти взглянуть на Него.",
+  "persons": [
+   "@narahari-chakravarti",
+   "@mahaprabhu",
+   "@gadadhara-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "",
+  "notes": "Нагари-бхава; не принимается гаудийской традицией (см. вводную заметку раздела, порция 27). Порция 33 (раздел нагари-пад, VII). НГ-257. Вероятно Чакраварти: есть в БР. Нагари-мотив — лишь в последнем двустишии.",
+  "themes": [
+   "festival",
+   "author"
+  ],
+  "calendar": "шравана (джхулан-ятра)",
+  "date_conf": "оценка",
+  "date_basis": "Пада Нарахари Чакраварти (БР 12); навадвипский период",
+  "event": "ev-jhulana-navadvipa",
+  "verses": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "19.1",
+    "to": "19.4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/33.md",
+    "from": "19.1",
+    "to": "19.4",
+    "line": 452,
+    "line_to": 458,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/33.md?plain=1#L452-L458",
+    "file_en": "padas/en/33.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/33.md?plain=1#L463-L469"
+   }
+  ],
+  "years": [
+   1509,
+   1509
+  ],
   "age": [
    23,
    23
