@@ -363,3 +363,15 @@
 | @chiranjiva-sena | Чиранджива Сена | Chiranjiva Sena | из Кумаранагара, жил в Шрикханде; спутник Господа (ЧЧ Мадхья 11.92); отец Рамачандры и Говинды Кавираджей |
 | @damodara-sena-kavi | Дамодара Сена, поэт (Дамодара Кавираджа) | Damodara Sena, the poet (Damodara Kaviraja) | из Шрикханды; дед Рамачандры и Говинды Кавираджей по матери; не путать с @damodara-pandita |
 | @sunanda-mother-ramachandra | Сунанда | Sunanda | дочь Дамодары Сены, жена Чирандживы, мать Рамачандры и Говинды Кавираджей |
+| @yadunandana-dasa-author | Ядунандана Дас (автор «Карнананды») | Yadunandana Dasa (author of the Karnananda) | ученик Хемалаты Тхакурани, дочери Шринивасы; не путать с @yadunandana-chakravarti и @yadunandana-acharya |
+| @hemalata | Хемалата Тхакурани | Hemalata Thakurani | дочь Шринивасы Ачарьи, жена Гопиджанаваллабхи Чаттараджа («Карнананда»), гуру Ядунанданы Даса |
+| @krishnapriya-srinivasa | Кришнаприя Тхакурани (дочь Шринивасы) | Krishnapriya Thakurani (Srinivasa's daughter) | жена Чайтаньи Чаттараджа («Карнананда») |
+| @vrindavana-acharya | Вриндаван Ачарья (сын Шринивасы) | Vrindavana Acharya (Srinivasa's son) | старший сын Шринивасы |
+| @radhakrishna-acharya | Радхакришна Ачарья (сын Шринивасы) | Radhakrishna Acharya (Srinivasa's son) | средний сын Шринивасы |
+| @gopijanavallabha-chattaraja | Гопиджанаваллабха Чаттарадж | Gopijanavallabha Chattaraja | сын Рамакришны Чаттараджа, муж Хемалаты; не путать с @gopijanavallabha (сыном Вирачандры) |
+| @karnapura-kaviraja | Карнапура Кавираджа | Karnapura Kaviraja | ученик Шринивасы, автор санскритского перечня его ветвей; не путать с @kavi-karnapura |
+| @kalachand-deity | Калачанд — Божество Виры Хамбира в Вишнупуре | Kalachand, Vira Hambira's Deity in Vishnupura | Божество Кришны |
+| @dhadi-hambira | Дхади Хамбир | Dhadi Hambira | сын и наследник Виры Хамбира, ученик Шринивасы («Карнананда») |
+| @vira-hambira-queen | Главная царица Виры Хамбира | Vira Hambira's chief queen | ученица Шринивасы («Карнананда»; имя не названо) |
+| @divyasimha-kaviraja | Дивьясимха (сын Говинды Кавираджи) | Divyasimha (Govinda Kaviraja's son) | ученик Шринивасы; не путать с @divya-simha (Лаудия Кришнадасом) |
+| @santosha-datta | Сантоша Датта (раджа Кхетури) | Santosha Datta (raja of Kheturi) | сын Пурушоттамы Датты, двоюродный брат Нароттамы, наследник царства Кришнананды; не путать с @santosha-raya |

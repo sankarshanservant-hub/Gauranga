@@ -1,0 +1,35 @@
+# События «цикла Шриниваса»: «Карнананда» Ядунанданы Даса и «Анурага-валли» Манохары Даса (формат — README.md,
+# раздел «События»). Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-srinivasa-daily-bhajana-yajigrama
+  title: "Шринивас в Яджиграме: книги Госвами и распорядок бхаджана"
+  title_en: "Srinivasa at Yajigrama: the Gosvamis' books and his daily round of bhajana"
+  period: P15
+  order: 96.5
+  themes: [learning, kirtan]
+  notes: "«Карнананда» 1: чтение книг Госвами собранию вайшнавов, прахара Хари-намы, прахара изучения книг, две ямы киртана, ночью — рассказы о расе, днём — служение шалаграме и Туласи."
+
+- id: ev-srinivasa-disciples
+  title: "Ветви Шринивасы Ачарьи: семья и ученики"
+  title_en: "The branches of Srinivasa Acharya: his family and disciples"
+  period: P15
+  order: 112.7
+  themes: [mercy, family]
+  notes: "Перечни учеников Шринивасы и его семьи («Карнананда» 1–2, «Анурага-валли»): Рамачандра и Говинда Кавираджи, жёны, сыновья и дочери, ученики в Яджиграме, Канчанагарии, Вишнупуре и др."
+
+- id: ev-vira-hambira-padas-queen
+  title: "Сон Виры Хамбира, его песни о Шринивасе и Калачанде; посвящение главной царицы"
+  title_en: "Vira Hambira's dream and his songs on Srinivasa and Kalachand; the initiation of the chief queen"
+  period: P15
+  order: 87.3
+  themes: [mercy, deities]
+  teaching: [prema]
+  notes: "«Карнананда» 1: во сне царь видит Калачанда и Шринивасу и слагает две пады; царица, услышав, просит посвящения; Шринивас даёт ей Хари-наму, мантру Божественной Четы и наставление о служении в группе манджари."
+
+- id: ev-kalachand-installation
+  title: "Вира Хамбир учреждает служение Калачанду в Вишнупуре"
+  title_en: "Vira Hambira establishes the service of Kalachand in Vishnupura"
+  period: P15
+  order: 87.4
+  themes: [deities]
+  notes: "«Карнананда» 1: абхишеку совершает сам Шринивас."

@@ -1,0 +1,240 @@
+# Ядунандана Дас, «Карнананда» — лилы в порядке изложения (формат — ../README.md).
+# Перевод — karnananda/ru/01.md… (нирьясы). Метки стихов — **N.** (нумерация двустиший внутри нирьясы).
+# Книга — о Шринивасе Ачарье и его ветви (P15, «после ухода»); источник уровня C: колофонная дата 1607 г. не
+# согласуется с событиями, в тексте поздние вставки, перечни учеников основаны на санскритских списках Нароттамы
+# и Карнапуры Кавираджи. Датировки — только там, где текст даёт опору. Записи добавлять в конец.
+
+- id: krn-0001
+  source: karnananda
+  ref: "Нирьяса 1, 1–11"
+  file: "karnananda/ru/01.md"
+  period: PX
+  order: 20
+  title: "Начальные шлоки и поклонения: Чайтанья, Госвами, Шринивас, Рамачандра и Говинда"
+  summary: "Шлока «анарпита-чарим чират», шлоки о Шри Кришне Чайтанье с Госвами, о Гопале Бхатте и Шринивасе; слава Махапрабху, Нитьянанде, Адвайте, Шривасе, шести Госвами, Шри Ачарье Прабху, Рамачандре и Говинде Кавираджам и вайшнавам."
+  persons: ["@yadunandana-dasa-author", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@raghunatha-bhatta", "@raghunatha-dasa", "@jiva-gosvami", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  scriptures: ["«Видагдха-мадхава» 1.2 (ЧЧ Ади 1.4)"]
+  verses:
+    - {file: "karnananda/ru/01.md", from: "1", to: "11"}
+
+- id: krn-0002
+  source: karnananda
+  ref: "Нирьяса 1, 12–40"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 1
+  title: "Две шакти Махапрабху — Рупа и Шринивас; Шринивас — древо желаний; книги Госвами орошают Гауду"
+  summary: "Махапрабху являет две шакти: в Шри Рупе — чтобы явить книги, в Шринивасе — чтобы их распространить; Шринивас — древо желаний, его ветви — Рамачандра, Говинда Кавираджа, Говинда Чакраварти, подветви — Баларама Кавираджа и др.; как ветер, он приносит облака книг Рупы, Санатаны, Гопалы Бхатты, Рагхунатхов, Дживы и Кришнадаса Кавираджи из Враджа и проливает дождь премы на Гауду."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@sanatana-gosvami", "@gopala-bhatta", "@raghunatha-bhatta", "@raghunatha-dasa", "@jiva-gosvami", "@krishnadasa-kaviraja"]
+  places: ["#gauda", "#vrindavana"]
+  kind: teaching
+  authority: C
+  notes: "Богословское введение автора; упоминание: шакти Махапрабху в Шринивасе (ср. ev-prema-for-srinivasa)."
+  themes: [teaching, mercy]
+  teaching: [prema]
+  event: ev-prema-for-srinivasa
+  verses:
+    - {file: "karnananda/ru/01.md", from: "12", to: "40"}
+
+- id: krn-0003
+  source: karnananda
+  ref: "Нирьяса 1, 41–62"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 96.5
+  title: "Шринивас в Яджиграме: два брака, книги Госвами, распорядок бхаджана"
+  summary: "Поселившись в Яджиграме, Шринивас проповедует собиравшимся вайшнавам; по их просьбе он дважды женится; читает и толкует книги Госвами (перечислены «Бхакти-расамрита-синдху», «Удджвала», драмы Рупы, «Хари-бхакти-виласа», «Сандарбхи» и др.); прахару повторяет имя, прахару изучает книги, две ямы поёт киртан; ночью — рассказы о расе, днём — служение шалаграме и Туласи; при именах Госвами и Радха-кунды впадает в экстаз."
+  persons: ["@srinivasa-acharya", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@jiva-gosvami"]
+  places: ["#yajigrama"]
+  kind: lila
+  authority: C
+  notes: "Браки — лишь упоминание (ср. ev-srinivasa-marriage)."
+  themes: [learning, kirtan, family]
+  event: ev-srinivasa-daily-bhajana-yajigrama
+  verses:
+    - {file: "karnananda/ru/01.md", from: "41", to: "62"}
+
+- id: krn-0004
+  source: karnananda
+  ref: "Нирьяса 1, 63–75"
+  file: "karnananda/ru/01.md"
+  period: PX
+  order: 21
+  title: "Автор о своём замысле: переложить паяром шлоки Нароттамы и Карнапуры Кавираджи о ветвях Шринивасы"
+  summary: "Ветви Шри Ачарьи Прабху описали в шлоках Тхакур Махашая и Карнапура Кавираджа; гуру автора, а затем вайшнавы велели ему переложить их паяром; автор просит прощения за неумелость и непоследовательность."
+  persons: ["@yadunandana-dasa-author", "@narottama-dasa", "@karnapura-kaviraja", "@hemalata", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/01.md", from: "63", to: "75"}
+
+- id: krn-0005
+  source: karnananda
+  ref: "Нирьяса 1, 76–108"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 89
+  title: "Рамачандра Кавираджа проезжает мимо после свадьбы; на другой день он падает к стопам Шринивасы"
+  summary: "Сидя у пруда на западной стороне дома, Шринивас видит в паланкине прекрасного новобрачного и восклицает: «Если такое тело будет служить Кришне, оно обретёт плод»; это Рамачандра Кавираджа из Кумаранагара, вайдья и пандит-дигвиджайи; услышав слова Шринивасы, тот проводит ночь у брахмана в Яджиграме и утром со слезами просит прибежища; Шринивас обнимает его, даёт мантру Радхи-Кришны, читает с ним книги, называет своей собственной сущностью, равным Нароттаме, и сводит его с Нароттамой — у них одна душа в двух телах."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@narottama-dasa"]
+  places: ["#yajigrama", "#kumaranagara"]
+  kind: lila
+  authority: C
+  parallels: "«Према-виласа» 13–14"
+  themes: [mercy]
+  event: ev-ramachandra-kaviraja-meets-srinivasa
+  verses:
+    - {file: "karnananda/ru/01.md", from: "76", to: "108"}
+
+- id: krn-0006
+  source: karnananda
+  ref: "Нирьяса 1, 109–135"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 112.7
+  title: "Ветви Шринивасы: Говинда Кавираджа и Дивьясимха, жёны и сыновья Шринивасы; шлока Гати-Говинды"
+  summary: "Шринивас посвящает Говинду Кавираджу и велит ему слагать пады об играх Радхи-Кришны; милость жёнам обоих Кавирадж и Дивьясимхе; жёны Шринивасы — Ишвари и Гауранга-прия — равны ему, их бхаджан — чистая рагануга в бхаве паракии; сыновья — Вриндаван Ачарья, Радхакришна Ачарья и Гати-Говинда, чья шлока возводит преемство к Чайтанье через Гопалу Бхатту и Шринивасу."
+  persons: ["@srinivasa-acharya", "@govinda-kaviraja", "@ramachandra-kaviraja", "@divyasimha-kaviraja", "@draupadi-ishvari", "@gauranga-priya", "@vrindavana-acharya", "@radhakrishna-acharya", "@gati-govinda", "@gopala-bhatta", "@mahaprabhu"]
+  places: ["#yajigrama"]
+  kind: lila
+  authority: C
+  notes: "Посвящение Говинды Кавираджи — упоминание (ср. ev-govinda-kaviraja-initiation)."
+  themes: [mercy, family]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/01.md", from: "109", to: "135"}
+
+- id: krn-0007
+  source: karnananda
+  ref: "Нирьяса 1, 136–246"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 112.8
+  title: "Ветви Шринивасы: дочери и зятья (Хемалата — жена Гопиджанаваллабхи Чаттараджа), ученики в Канчанагарии, Будхуипаре и др."
+  summary: "Дочери Шринивасы — Хемалата (жена Гопиджанаваллабхи Чаттараджа, наставница многих), Кришнаприя (жена Чайтаньи Чаттараджа) и Канчана-латика; в Канчанагарии — Шри Дас Тхакур с сыновьями, Гокула Дас, Нарасимха Кавираджа, Чаттараджи, варна-брахман Гопала Дас, ученики, которые ночами повторяют по сто тысяч имён, привязав волосы к стропилу; Говинда Чакраварти (Бхавака) из Боракули с женой и сыновьями; Карнапура Кавираджа; Вьяса в Вишнупуре; тести и шурины Шринивасы (Гопала Чакраварти и Рагхунандана Чакраварти; Шьямадас и Рамачарана), Кавиваллабха-переписчик, Бишвасы-писцы и многие другие."
+  persons: ["@srinivasa-acharya", "@hemalata", "@gopijanavallabha-chattaraja", "@krishnapriya-srinivasa", "@karnapura-kaviraja", "@vyasa-acharya"]
+  places: ["#kanchanagaria", "#vana-vishnupura", "#yajigrama"]
+  kind: lila
+  authority: C
+  notes: "Перечень; порядок имён непоследователен (оговорено автором)."
+  themes: [mercy, family]
+  teaching: [holy-name]
+  divergence: "По «Према-виласе», тести Шринивасы — Гопала Дас и Рагху Чакраварти; здесь — Гопала Чакраварти и Рагхунандана Чакраварти."
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/01.md", from: "136", to: "246"}
+
+- id: krn-0008
+  source: karnananda
+  ref: "Нирьяса 1, 247–249"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 84
+  title: "По пути на даршан Пурушоттамы разбойники похищают книги Шринивасы"
+  summary: "Шринивас отправляется лесными дорогами в Пури на даршан Пурушоттамы; ночью в одной деревне разбойники, сочтя книги драгоценностями, уносят их, и Шринивас идёт ради книг к царю."
+  persons: ["@srinivasa-acharya"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [offense, pilgrimage]
+  divergence: "В «Према-виласе» (13) и «Бхакти-ратнакаре» (7) книги похищены по пути из Вриндавана в Гауду, когда их везли Шринивас, Нароттама и Шьямананда; здесь — во время паломничества Шринивасы в Пури, без спутников."
+  event: ev-books-stolen-vana-vishnupura
+  verses:
+    - {file: "karnananda/ru/01.md", from: "247", to: "249"}
+
+- id: krn-0009
+  source: karnananda
+  ref: "Нирьяса 1, 250–288"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 87
+  title: "При дворе: Шринивас опровергает толкование «Бхрамара-гиты» Вьясы Чакраварти; царь Вира Хамбир просит прибежища; Валлабха из Деули"
+  summary: "Пандит Вьяса Чакраварти, получивший от царя имя «Ачарья», читает «Бхрамара-гиту»; Шринивас, смеясь, опровергает его толкование и по просьбе царя толкует шлоку согласно Госвами; царь в слезах падает к его стопам; царь Маллов Шри Вира Хамбир обретает непоколебимую бхакти и вверяет Шринивасе дела царства; Валлабха Тхакур из Деули, у которого Шринивас остановился и который указал, где книги, получает благословение."
+  persons: ["@srinivasa-acharya", "@vyasa-acharya", "@vira-hambira", "@krishnavallabha"]
+  places: ["#vana-vishnupura", "#deuli"]
+  kind: lila
+  authority: C
+  themes: [learning, mercy]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 10.47 («Бхрамара-гита»)"]
+  divergence: "В «Према-виласе» (13) толкуется «Раса-панчадхьяи» по Шридхаре Свами; здесь — «Бхрамара-гита» «согласно Госвами»."
+  event: ev-vira-hambira-conversion
+  verses:
+    - {file: "karnananda/ru/01.md", from: "250", to: "288"}
+
+- id: krn-0010
+  source: karnananda
+  ref: "Нирьяса 1, 289–340"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 87.3
+  title: "Сон Виры Хамбира и две его песни; главная царица просит посвящения и получает наставление о манджари"
+  summary: "Шринивас поселяется у Валлабхи и с Валлави Кавираджей приходит во дворец; ночью царь во сне видит Калачанда и Шринивасу и слагает две пады («Прабху мой Шринивас…», «Послушай, подруга моего сердца…»), которые слышит главная царица; она умоляет дать ей прибежище у стоп Шринивасы, и тот даёт ей Хари-наму, мантру Божественной Четы, кама-гаятри и наставляет: без следования группе манджари расы паракии и Враджа не достичь; в сиддха-дехе — служение в уме, во внешнем теле — слушание и киртан."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@vira-hambira-queen", "@kalachand-deity", "@krishnavallabha"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [mercy, deities, teaching]
+  teaching: [prema]
+  event: ev-vira-hambira-padas-queen
+  verses:
+    - {file: "karnananda/ru/01.md", from: "289", to: "340"}
+
+- id: krn-0011
+  source: karnananda
+  ref: "Нирьяса 1, 341–347"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 87.4
+  title: "Посвящение наследника Дхади Хамбира; служение Калачанду; Джива даёт царю имя"
+  summary: "Шринивас посвящает наследника Дхади Хамбира; царь учреждает служение Калачанду, абхишеку совершает сам Шринивас; царь служит вайшнавам; услышав о нём, Шри Джива Госвами даёт ему имя Шри Гопаладас; Вьясачарья становится пурохитой Шринивасы."
+  persons: ["@srinivasa-acharya", "@dhadi-hambira", "@vira-hambira", "@kalachand-deity", "@jiva-gosvami", "@vyasa-acharya"]
+  places: ["#vana-vishnupura"]
+  kind: lila
+  authority: C
+  themes: [deities, mercy]
+  divergence: "В «Према-виласе» (13) царь получает от Шринивасы имя Харичарана Дас; здесь имя «Гопаладас» даёт Джива Госвами."
+  event: ev-kalachand-installation
+  verses:
+    - {file: "karnananda/ru/01.md", from: "341", to: "347"}
+
+- id: krn-0012
+  source: karnananda
+  ref: "Нирьяса 1, 348–407"
+  file: "karnananda/ru/01.md"
+  period: P15
+  order: 112.9
+  title: "Ветви Шринивасы: семья Вьясачарьи, кавираджи Вишнупура, жители Радха-кунды и ученики из многих стран"
+  summary: "Индумукхи, жена Вьясачарьи, и их сын Шьямадас; Бхагаван Кавивара, Нараяна Кави, Васудева, Вриндаван Дас и Нимай Кавираджи, Шриманта Чакраварти, Гопиджанаваллабха, Чайтанья Дас, ткач Тулсирама, Баларама Дас из Уткалы, Чаудхури Даярама, Хариваллабха Саркар, ученики в Матхуре, Вриндаване и у Радха-кунды; ученики из Рарха, Ванги, Гауды, Враджа, Магадхи и Уткалы — их не счесть."
+  persons: ["@srinivasa-acharya", "@vyasa-acharya"]
+  places: ["#vana-vishnupura", "#radha-kunda", "#vrindavana", "#mathura"]
+  kind: lila
+  authority: C
+  notes: "Перечень."
+  themes: [mercy]
+  teaching: [holy-name]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "karnananda/ru/01.md", from: "348", to: "407"}
+
+- id: krn-0013
+  source: karnananda
+  ref: "Нирьяса 1, 408–413 и колофон"
+  file: "karnananda/ru/01.md"
+  period: PX
+  order: 22
+  title: "Заключение первой нирьясы: плод слушания; поклон Хемалате; подпись Ядунанданы Даса"
+  summary: "Кто читает и слушает о ветвях Прабху, без труда обретает Кришна-прему; «Карнананда» — выжимка нектара; автор поклоняется стопам Хемалаты, дочери Шри Ачарьи, «лианы желаний премы»."
+  persons: ["@yadunandana-dasa-author", "@hemalata", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/01.md", from: "408", to: "413"}
