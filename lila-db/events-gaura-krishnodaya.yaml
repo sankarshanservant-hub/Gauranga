@@ -453,3 +453,43 @@
   cc: "Мадхья 20"
   cb: ""
   themes: [mercy, sannyasa]
+
+- id: ev-sanatana-mathura-vraja-places
+  title: "Санатана в Матхуре с Субуддхи Раем открывает места лил"
+  title_en: "Sanatana in Mathura with Subuddhi Raya reveals the places of lila"
+  period: P13
+  order: 188
+  cc: "Мадхья 25; Антья 4"
+  cb: ""
+  themes: [pilgrimage]
+  notes: "Санатана приходит в Матхуру, встречает Субуддхи Рая, узнаёт, что Рупа и Анупама ушли через Праягу, и остаётся во Врадже, восстанавливая места лил."
+
+- id: ev-rupa-gauda-anupama-passing
+  title: "Рупа уходит в Гауду; кончина Анупамы"
+  title_en: "Rupa goes to Gauda; the passing of Anupama"
+  period: P14
+  order: 9
+  cc: "Антья 1"
+  cb: ""
+  themes: [departure]
+  notes: "Рупа, начав во Вриндаване драму, уходит с Анупамой в Гауду; Анупама оставляет тело на берегу Ганги; Рупа один идёт в Пури."
+
+- id: ev-damodara-sent-navadvipa
+  title: "Господь посылает Дамодару Пандита в Навадвипу к Шачи"
+  title_en: "The Lord sends Damodara Pandita to Navadvipa to Shachi"
+  period: P14
+  order: 15
+  cc: "Антья 3"
+  cb: ""
+  themes: [family]
+  notes: "Дамодара Пандит «упрекает» Господа за ласку к сыну вдовы; Господь, похвалив его прямоту, посылает его в Навадвипу присматривать за Шачи."
+
+- id: ev-panihati-chida-dadhi
+  title: "Праздник плющеного риса (чида-дадхи) Рагхунатхи Даса в Панихати"
+  title_en: "Raghunatha Dasa's flat-rice festival (chida-dadhi) at Panihati"
+  period: P14
+  order: 29
+  cc: "Антья 6"
+  cb: ""
+  themes: [festival, prasada, mercy]
+  notes: "Нитьянанда наказывает Рагхунатху Даса угостить преданных плющеным рисом с простоквашей; является Махапрабху, Нитьянанда кормит Его; затем — дом Рагхавы Пандита."
