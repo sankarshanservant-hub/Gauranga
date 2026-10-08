@@ -563,7 +563,7 @@
   places: ["#vrindavana", "#radha-kunda", "#gauda"]
   kind: lila
   authority: C
-  divergence: "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьямананды; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды»."
+  divergence: "В «Према-виласе» (12) и «Бхакти-ратнакаре» (6) Шринивас уходит с книгами вместе с Нароттамой и Шьяманандой; здесь спутники не названы, а «обет» и повеление Говинды — особенность «Карнананды»."
   themes: [deities, separation, mercy]
   event: ev-govinda-commands-srinivasa
   verses:
@@ -621,3 +621,54 @@
   event: ev-srinivasa-disciples
   verses:
     - {file: "karnananda/ru/06.md", from: "179", to: "225"}
+
+- id: krn-0035
+  source: karnananda
+  ref: "Нирьяса 7, 1–30"
+  file: "karnananda/ru/07.md"
+  period: PX
+  order: 26
+  title: "Сомнение автора: «Према-виласа» о смерти Кавираджи и Рагхунатхи Даса против свидетельства самой ЧЧ"
+  summary: "Хемалата, довольная книгой, позволяет задать вопрос; автор указывает: по «Према-виласе», Кришнадас Кавираджа умер от горя, бросившись в Кунду при вести о похищении книг, а Рагхунатха Дас ушёл ещё раньше, — но Кавираджа в ЧЧ благословляет живого Рагхунатху; Хемалата отвечает словами Шринивасы Рамачандре."
+  persons: ["@yadunandana-dasa-author", "@hemalata", "@krishnadasa-kaviraja", "@raghunatha-dasa", "@nityananda-dasa-author", "@jahnava", "@srinivasa-acharya", "@ramachandra-kaviraja"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/07.md", from: "1", to: "30"}
+
+- id: krn-0036
+  source: karnananda
+  ref: "Нирьяса 7, 31–79"
+  file: "karnananda/ru/07.md"
+  period: P15
+  order: 85.1
+  title: "Ответ Шринивасы: Кавираджа, упав без чувств от горя, по повелению Рупы и Санатаны и небесному голосу вернулся в тело, чтобы служить Рагхунатхе"
+  summary: "Рагхунатха, почти слепой от разлуки с Рупой, связан обетом умереть у Радха-кунды на глазах Дживы, Кришнадаса и Локанатхи; при вести о похищении книг Кавираджа в горе как бы обрёл сиддха-деху (оставил тело), но Рупа и Санатана явились и сказали: книги найдутся, это повеление Махапрабху вручить их Шринивасу, служи ещё Рагхунатхе; небесный голос подтвердил, и Кавираджа очнулся — как Махапрабху, очнувшийся от имени Хари после водных игр (Антья 18); «Према-виласа» не досказала конца. Шринивас хвалит Рамачандру: «ты — моя жизнь»."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@krishnadasa-kaviraja", "@raghunatha-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@lokanatha", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#radha-kunda"]
+  kind: miracle
+  authority: C
+  divergence: "По «Према-виласе» (13) Кавираджа умер от горя; «Карнананда» утверждает, что он вернулся в тело, — попытка согласовать ПВ с ЧЧ."
+  scriptures: ["Сва-нияма-дашака 9", "ЧЧ Антья 18"]
+  themes: [departure, celestial]
+  event: ev-krishnadasa-kaviraja-revived
+  verses:
+    - {file: "karnananda/ru/07.md", from: "31", to: "79"}
+
+- id: krn-0037
+  source: karnananda
+  ref: "Нирьяса 7, 80–92 и колофоны"
+  file: "karnananda/ru/07.md"
+  period: PX
+  order: 27
+  title: "Заключение книги: сомнение рассеяно; молитвы автора; колофон «Карнананды» (Ядунандана Дас, вайдья из Малихати)"
+  summary: "Автор благодарит Хемалату, молит сообщество Шринивасы и Махапрабху со спутниками о милости; колофон называет автора — Ядунандана Дас Тхакур, вайдья из Малихати."
+  persons: ["@yadunandana-dasa-author", "@hemalata", "@srinivasa-acharya", "@mahaprabhu", "@rupa-gosvami"]
+  places: []
+  kind: author
+  authority: C
+  themes: [author]
+  verses:
+    - {file: "karnananda/ru/07.md", from: "80", to: "92"}
