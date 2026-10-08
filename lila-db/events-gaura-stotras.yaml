@@ -1,0 +1,82 @@
+# События, заведённые при внесении «Гимнов спутников о Гауре» (stotras/; источник gaura-stotras).
+# Формат — README.md, раздел «События». Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-garuda-stambha-darshan
+  title: "Господь созерцает Джаганнатху, стоя позади колонны Гаруды"
+  title_en: "The Lord beholds Jagannatha standing behind the Garuda pillar"
+  period: P14
+  order: 3.2
+  cc: "Мадхья 11; Антья 14"
+  cb: ""
+  themes: [jagannatha, ecstasy]
+  notes: "Рагхунатха, «Шачисуну-аштака» 6: Господь всегда стоял позади Гаруда-стамбхи и омывал тело слезами. Обычай Господа во все годы в Пури; отнесено к антья-лиле, когда его видел Рагхунатха."
+
+- id: ev-govardhana-shila-gunja-gift
+  title: "Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи"
+  title_en: "The Lord gives Raghunatha the Govardhana stone and the gunja necklace"
+  period: P14
+  order: 31
+  cc: "Антья 6"
+  cb: ""
+  themes: [mercy, deities]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 11 и «Говардхана-васа-прартхана-дашака» 10: Господь, вверив его Сварупе, подарил ему ожерелье из гунджи со Своей груди и камень Говардханы (по ЧЧ — полученные от Шанкарананды Сарасвати), тем самым вручив его Говардхане."
+
+- id: ev-limbs-elongated-separation
+  title: "Сочленения расходятся, тело удлиняется в разлуке с Кришной"
+  title_en: "His joints loosen and His body lengthens in separation from Krishna"
+  period: P14
+  order: 100.5
+  cc: "Антья 14"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 4: в обители Мишры (Гамбхире) руки и ноги Господа необычайно удлинились, Он катался по земле и рыдал."
+
+- id: ev-chataka-parvata-govardhana
+  title: "Чатака-парвата: Господь принимает холм за Говардхану"
+  title_en: "Chataka-parvata: the Lord takes the hill for Govardhana"
+  period: P14
+  order: 100.6
+  cc: "Антья 14"
+  cb: ""
+  themes: [ecstasy, separation, krishna-lila]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 8: «Я иду во Врадж увидеть Говардхану!» — Господь бежит, и спутники Его удерживают. Ср. перечень у Мурари 4.24 (ev-gambhira-divine-madness)."
+
+- id: ev-doorkeeper-show-me-krishna
+  title: "«Где Кришна? Покажи Его мне!» — Господь и привратник храма"
+  title_en: "\"Where is Krishna? Show Him to Me!\" — the Lord and the temple doorkeeper"
+  period: P14
+  order: 100.7
+  cc: ""
+  cb: ""
+  themes: [ecstasy, separation, jagannatha]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 7: в безумии разлуки Господь просит привратника храма Джаганнатхи показать Ему Кришну; тот отвечает: «Иди скорей, увидишь Возлюбленного!» — и Господь идёт, держась за его руку. Глава ЧЧ не уточнена (Антья-лила)."
+
+- id: ev-kurma-form-telinga-cows
+  title: "Господь в облике черепахи среди телингских коров"
+  title_en: "The Lord in a tortoise-like form among the Telinga cows"
+  period: P14
+  order: 100.8
+  cc: "Антья 17"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 5: не открывая трёх дверей, Господь оказался за тремя стенами и лежал среди калингских коров, сжавшись, как черепаха. Ср. Мурари 4.24 (ev-gambhira-divine-madness)."
+
+- id: ev-face-rubbing-gambhira
+  title: "Господь трёт лицо о стены Гамбхиры"
+  title_en: "The Lord rubs His face against the walls of the Gambhira"
+  period: P14
+  order: 100.9
+  cc: "Антья 19"
+  cb: ""
+  themes: [ecstasy, separation]
+  notes: "Рагхунатха, «Гауранга-става-калпатару» 6: в разлуке с Враджем Господь в безумии трёт лицо о стену до крови."
+
+- id: ev-shikshashtaka-recitation
+  title: "Шикшаштака: Господь произносит и вкушает восемь шлок наставления"
+  title_en: "The Shikshashtaka: the Lord recites and relishes the eight verses of instruction"
+  period: P14
+  order: 110
+  cc: "Антья 20"
+  cb: ""
+  themes: [teaching, separation, kirtan]
+  notes: "Восемь шлок, сложенных Самим Господом, сохранены Рупой в «Падьявали» (22, 31, 32, 71, 94, 95, 328, 341, изд. 1911); ЧЧ Антья 20 — Господь произносит и толкует их в последние дни со Сварупой и Раманандой."
