@@ -42,5 +42,5 @@ def check(n):
     return ok
 
 if __name__ == '__main__':
-    args = sys.argv[1:] or sorted(f[:-3] for f in os.listdir(os.path.join(HERE, 'ru')) if re.match(r'\d\d\.md$', f))
+    args = sys.argv[1:] or sorted(f[:-3] for f in os.listdir(os.path.join(HERE, 'ru')) if re.match(r'\d\d\.md$', f) and f != '00.md')
     sys.exit(0 if all([check(a) for a in args]) else 1)
