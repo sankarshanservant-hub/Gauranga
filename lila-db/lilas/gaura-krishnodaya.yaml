@@ -537,3 +537,198 @@
   themes: [author]
   verses:
     - {file: "gaura-krishnodaya/ru/03.md", from: "69", to: "72"}
+
+- id: gkd-0028
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 1–2"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 20
+  title: "Начало обучения: Господь пишет буквы"
+  summary: "После обряда пострижения в благоприятный день Господь начинает учить буквы и пишет мелом на земле гласные и согласные."
+  persons: ["@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 14"
+  cc: "Ади 14"
+  themes: [learning]
+  event: ev-hate-khadi
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "1", to: "2"}
+
+- id: gkd-0029
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 3"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 40
+  title: "Упанаяна Вишвамбхары"
+  summary: "Мишра совершает упанаяну сына в середине отрочества с пышными обрядами и раздачей милостыни."
+  persons: ["@jagannatha-mishra", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15"
+  cc: "Ади 15"
+  themes: [learning, family]
+  event: ev-upanayana
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "3", to: "3"}
+
+- id: gkd-0030
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 4–9"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 70
+  title: "Учёба у Гангадаса; Господь учит превосходству бхакти"
+  summary: "С отцом Господь приходит к Гангадасу, мгновенно осваивает «Калапу», затем поэзию, «Бхашью», ньяю и вайшешику; став учителем, Он толкует предписания шастр как бхакти к Вишну, высшую цель, отличную от кармы, гьяны и йоги."
+  persons: ["@mahaprabhu", "@gangadasa-pandita", "@jagannatha-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15"
+  cc: "Ади 15"
+  themes: [learning, teaching]
+  teaching: [bhakti-supremacy]
+  divergence: "Учёба у Гангадаса — при жизни отца (как и в ЧЧ)."
+  event: ev-study-gangadasa
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "4", to: "9"}
+
+- id: gkd-0031
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 10–11"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 50
+  title: "Обеты экадаши и праздники Хари; наставление матери"
+  summary: "Чтобы поднять еретиков, Господь вводит обеты Джанмаштами, экадаши карттики и празднества и побуждает мать соблюдать экадаши; Мишра следует ей."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15"
+  cc: "Ади 15"
+  themes: [festival, teaching, family]
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "10", to: "11"}
+
+- id: gkd-0032
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 12–20"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 10
+  title: "Вишварупа возвращается домой и уходит снова (Шанкараранья)"
+  summary: "Вишварупа, узнав о нисшествии Господа, приходит в Навадвипу в облике брахмачари; когда отец задумывает его женить, он наедине велит Вишвамбхаре очищать людей, даруя према-бхакти, и ночью уходит под именем Шанкараранья. Господь утешает плачущих родителей, обещая служить им."
+  persons: ["@vishvarupa", "@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13, 15"
+  cc: "Ади 15"
+  themes: [sannyasa, family]
+  divergence: "В ЧЧ Вишварупа уходит один раз, избегая женитьбы; у Говинды-девы он, уже монах, возвращается домой и уходит снова; Господь получает от него наказ о проповеди премы."
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "12", to: "20"}
+
+- id: gkd-0033
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 21–25"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 55
+  title: "Обморок после бетеля: весть от Вишварупы"
+  summary: "Съев бетель, Господь теряет сознание; очнувшись, рассказывает: Вишварупа звал Его отречься от мира, Он отказался ради служения отцу, и брат передал родителям поклон; «Я — он», — говорит Господь и снова лишается чувств. Мишра понимает, что всё это — воля Господа."
+  persons: ["@mahaprabhu", "@vishvarupa", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: B
+  parallels: "ЧЧ Ади 15"
+  cc: "Ади 15"
+  themes: [family, revelation]
+  notes: "«Я — он» (4.24) — о единстве Вишварупы с Господом, не в майявадском смысле."
+  event: ev-betel-swoon-vishvarupa-message
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "21", to: "25"}
+
+- id: gkd-0034
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 26–30"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P04
+  order: 60
+  title: "Уход Джаганнатхи Мишры; Господь совершает обряды"
+  summary: "Мишра, отрешившись от мира, оставляет тело; Господь и Шачи громко скорбят, весь город плачет; друзья утешают их, и Господь совершает все обряды по отцу."
+  persons: ["@jagannatha-mishra", "@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15"
+  cc: "Ади 15"
+  themes: [family, departure]
+  divergence: "Уход Мишры связан с горем о Вишварупе."
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "26", to: "30"}
+
+- id: gkd-0035
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 31–33"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P05
+  order: 15
+  title: "Сватовство Ванамали: дочь Валлабхачарьи"
+  summary: "После шраддхи по отцу Ванамали, видя заботу Шачи о женитьбе сына, сватает дочь Валлабхачарьи; посоветовавшись со Шривасой и другими, совершают обручение."
+  persons: ["@vanamali-acharya", "@shachi", "@mahaprabhu", "@lakshmipriya", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15; ЧБ Ади-кханда"
+  cc: "Ади 15"
+  themes: [family]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "31", to: "33"}
+
+- id: gkd-0036
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 34–45"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P05
+  order: 25
+  title: "Свадьба с Лакшмиприей"
+  summary: "Гаурачандра с родными едет в город тестя; Валлабха встречает Его, по ведийскому обряду омывает Ему стопы и отдаёт дочь с приданым; после свадебной ночи Господь привозит Лакшмиприю в Навадвипу, и Шачи с радостью обнимает невестку."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 15; ЧБ Ади-кханда"
+  cc: "Ади 15"
+  themes: [family, festival]
+  divergence: "Свадебный поезд в город тестя."
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "34", to: "45"}
+
+- id: gkd-0037
+  source: gaura-krishnodaya
+  ref: "Сарга 4, 46–49"
+  file: "gaura-krishnodaya/ru/04.md"
+  period: P05
+  order: 26
+  title: "Юность Гауры: описание красоты; «Мохини в мужском облике»"
+  summary: "С наступлением юности красота Господа описана с ног до головы; Он, раздающий нектар бхавы, кажется людям Мохини в мужском облике."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [revelation]
+  notes: "Поэтическое описание; отдельного события нет — привязано к свадьбе."
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "gaura-krishnodaya/ru/04.md", from: "46", to: "49"}

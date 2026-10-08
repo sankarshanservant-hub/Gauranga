@@ -50,3 +50,13 @@
   cb: "Ади 6"
   themes: [pranks, revelation]
   notes: "ЧЧ Ади 14: Господь требует, чтобы девочки, исполняющие обеты, поклонялись Ему, и благословляет их: хороший муж, семь сыновей."
+
+- id: ev-betel-swoon-vishvarupa-message
+  title: "Обморок после бетеля: весть от Вишварупы"
+  title_en: "The swoon after betel: Vishvarupa's message"
+  period: P04
+  order: 55
+  cc: "Ади 15"
+  cb: ""
+  themes: [family, revelation]
+  notes: "ЧЧ Ади 15: съев бетель, Господь теряет сознание и, очнувшись, рассказывает, что Вишварупа звал Его в санньясу, но Он отказался ради родителей."
