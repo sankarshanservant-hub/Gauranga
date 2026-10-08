@@ -2334,3 +2334,235 @@
   event: ev-puri-festivals-year-cycle
   verses:
     - {file: "gaura-krishnodaya/ru/12.md", from: "32", to: "43"}
+
+- id: gkd-0120
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 1–2"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 2
+  title: "Выход из Пури в сторону Гауды"
+  summary: "Простившись с Сарвабхаумой и вайшнавами Уткалы, Господь, жаждая увидеть жителей Гокулы, выходит на бенгальскую дорогу и приходит в Катак."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri", "#cuttack"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "1", to: "2"}
+
+- id: gkd-0121
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 3–11"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 2.5
+  title: "Пратапарудра у Катака: шестирукий облик и переправа"
+  summary: "Царь выходит встретить Господа; Господь являет ему шестирукий облик Рамы и Кришны; царь падает в слезах; Рамананда с Сарвабхаумой и войском следуют до леса у Катака; Господь велит лодочникам переправить спутников."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#cuttack"]
+  kind: miracle
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [revelation, mercy, separation]
+  bhava: [aishvarya]
+  divergence: "Шестирукий облик, явленный царю, — только у Говинды-девы."
+  event: ev-prataparudra-farewell-six-armed
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "3", to: "11"}
+
+- id: gkd-0122
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 12–19"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 2.7
+  title: "Министры царя; Гададхара и Сарвабхаума отосланы; Ремуна; Рамананда возвращается"
+  summary: "По велению царя Мангараджа и Харичандана сопровождают Господа; Сарвабхаума и Гададхара, удержанные клятвами, возвращаются в Пури; в Ремуне Господь плачет перед Гопинатхой и отсылает Рамананду, который не смеет ослушаться."
+  persons: ["@mahaprabhu", "@prataparudra", "@sarvabhauma", "@gadadhara-pandita", "@ramananda-raya", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [separation, pilgrimage]
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "12", to: "19"}
+
+- id: gkd-0123
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 20–30"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 3
+  title: "Яванский правитель пограничья даёт лодки"
+  summary: "На границе к Господу по Его воле приходит доверенный человек мусульманского правителя, а затем и сам правитель, кланяется как слуга и даёт все лодки для переправы."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [muslims, mercy]
+  event: ev-yavana-governor-boat
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "20", to: "30"}
+
+- id: gkd-0124
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 31–33"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 7
+  title: "Панихати и Кумарахатта"
+  summary: "Господь неделю живёт у Рагхавы Пандита в Панихати, министры возвращаются; в Кумарахатте толпы три дня запружают дорогу."
+  persons: ["@mahaprabhu", "@raghava-pandita"]
+  places: ["#panihati", "#kumarahatta"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [pilgrimage]
+  event: ev-gauda-journey-ganga-villages
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "31", to: "33"}
+
+- id: gkd-0125
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 34–36"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 8
+  title: "Кулия: прощение Гопалы Чапалы"
+  summary: "Спасаясь от толпы, Господь ночью уходит в Кулию, но и там толпы; там Он с радостью спасает Гопалу Чапалу, некогда оскорбившего преданных."
+  persons: ["@mahaprabhu", "@gopala-chapala"]
+  places: ["#kulia"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 17"
+  cc: "Ади 17"
+  themes: [mercy, offense]
+  event: ev-gopala-chapala-forgiven
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "34", to: "36"}
+
+- id: gkd-0126
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 37–38"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 5
+  title: "Дорога Нрисимхананды; Шантипур и Шачи"
+  summary: "По дороге, украшенной Нрисимханандой, Господь приходит в Шантипур, к семье Адвайты, и радует пришедшую туда Шачи."
+  persons: ["@mahaprabhu", "@nrisimhananda", "@advaita", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 1, 16"
+  cc: "Мадхья 16"
+  themes: [family, pilgrimage]
+  divergence: "Шантипур до Рамакели (в ЧЧ — после Канай-натшалы)."
+  event: ev-natashala-kanai-return
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "37", to: "38"}
+
+- id: gkd-0127
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 39–46"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 11
+  title: "Рамакели: император Гауды признаёт Господа"
+  summary: "Император Гауды, услышав о Господе, расспрашивает братьев-министров; они отвечают, что он сам, доля Владыки, знает Его; император признаёт в Нём Владыку всего и велит барабанным боем объявить, чтобы никто Ему не препятствовал."
+  persons: ["@gauda-sultan", "@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu"]
+  places: ["#ramakeli", "#gauda"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 1"
+  cc: "Мадхья 1"
+  themes: [muslims, revelation]
+  event: ev-gauda-sultan-sees-crowds
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "39", to: "46"}
+
+- id: gkd-0128
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 47–54"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 12
+  title: "Рамакели: Рупа и Санатана"
+  summary: "Братья шлют Господу письмо — «мы владыки падших, настал час испытания»; ночью с соломой в зубах приходят к Нему; Господь поднимает их, называет Рупой и Санатаной, обещает общение с Ним; Санатана советует не идти во Вриндаван с толпой."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#ramakeli"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 1"
+  cc: "Мадхья 1"
+  themes: [mercy]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "47", to: "54"}
+
+- id: gkd-0129
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 55–56"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 15
+  title: "Канай-натшала; три дня у Адвайты в Шантипуре"
+  summary: "С огромной толпой Господь доходит до Канай-натшалы, возвращается в Шантипур и три дня радует мать в доме Адвайты."
+  persons: ["@mahaprabhu", "@shachi", "@advaita"]
+  places: ["#kanai-natashala", "#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 1, 16"
+  cc: "Мадхья 16"
+  themes: [family]
+  event: ev-shantipura-after-natashala
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "55", to: "56"}
+
+- id: gkd-0130
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 57"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 16
+  title: "Рагхунатха Дас принят Господом"
+  summary: "Господь делает Своим Рагхунатху Даса, оставившего ради Него богатство в двенадцать лакхов."
+  persons: ["@mahaprabhu", "@raghunatha-dasa"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [mercy]
+  divergence: "В ЧЧ Господь здесь отсылает Рагхунатху домой; отречение — позже (Антья 6)."
+  event: ev-raghunatha-dasa-shantipura
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "57", to: "57"}
+
+- id: gkd-0131
+  source: gaura-krishnodaya
+  ref: "Сарга 13, 58–60"
+  file: "gaura-krishnodaya/ru/13.md"
+  period: P13
+  order: 20
+  title: "Возвращение в Пури"
+  summary: "Простившись с Шачи и Адвайтой и отпустив преданных Гауды, Господь с Балабхадрой Бхаттачарьей и Дамодарой Пандитом возвращается к Джаганнатхе; Его встречают Рамананда, Гададхара и Сарвабхаума."
+  persons: ["@mahaprabhu", "@shachi", "@advaita", "@balabhadra-bhattacharya", "@damodara-pandita", "@ramananda-raya", "@gadadhara-pandita", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16"
+  cc: "Мадхья 16"
+  themes: [jagannatha]
+  event: ev-return-puri-after-gauda
+  verses:
+    - {file: "gaura-krishnodaya/ru/13.md", from: "58", to: "60"}

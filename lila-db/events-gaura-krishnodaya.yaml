@@ -345,3 +345,34 @@
   cb: ""
   themes: [festival, jagannatha]
   notes: "«Гаура-кришнодая» 12.32–43: годовой круг праздников храма (Джанмаштами, Дурга-пуджа, карттика-врата, облачение в тёплые одежды, Макара-санкранти); ежегодный приход бенгальцев; Рамананда и Сарвабхаума удерживают Господа."
+
+- id: ev-prataparudra-farewell-six-armed
+  title: "Прощание Пратапарудры у Катака: шестирукий облик"
+  title_en: "Prataparudra's farewell at Cuttack: the six-armed form"
+  period: P13
+  order: 2.5
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [revelation, mercy, separation]
+  bhava: [aishvarya]
+  notes: "«Гаура-кришнодая» 13.3–11: Господь являет царю шестирукий облик (Рама–Кришна) и переправляется через реку; в ЧЧ царь лишь провожает Господа."
+
+- id: ev-gopala-chapala-forgiven
+  title: "Кулия: прощение Гопалы Чапалы"
+  title_en: "Kuliya: Gopala Chapala forgiven"
+  period: P13
+  order: 8
+  cc: "Ади 17"
+  cb: ""
+  themes: [mercy, offense]
+  notes: "ЧЧ Ади 17: прокажённый Гопала Чапала прощён в Кулии по благословению Шривасы."
+
+- id: ev-return-puri-after-gauda
+  title: "Возвращение в Пури после Гауды"
+  title_en: "The return to Puri after Gauda"
+  period: P13
+  order: 20
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [jagannatha, pilgrimage]
+  notes: "Господь с Балабхадрой Бхаттачарьей и Дамодарой Пандитом возвращается в Пури; Его встречают Рамананда, Гададхара, Сарвабхаума."
