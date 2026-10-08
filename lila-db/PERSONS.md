@@ -376,3 +376,5 @@
 | @divyasimha-kaviraja | Дивьясимха (сын Говинды Кавираджи) | Divyasimha (Govinda Kaviraja's son) | ученик Шринивасы; не путать с @divya-simha (Лаудия Кришнадасом) |
 | @santosha-datta | Сантоша Датта (раджа Кхетури) | Santosha Datta (raja of Kheturi) | сын Пурушоттамы Датты, двоюродный брат Нароттамы, наследник царства Кришнананды; не путать с @santosha-raya |
 | @mahesha-pandita | Махеша Пандит | Mahesha Pandita | спутник Нитьянанды (один из двенадцати гопалов); в Кхардахе |
+| @vishakha | Вишакха | Vishakha | ближайшая подруга Радхи (вместе с @lalita) |
+| @govinda-deva-kavi | Говинда-дева (Говинда Кави), автор «Гаура-кришнодаи» | Govinda-deva (Govinda Kavi), author of the *Gaura-krishnodaya* | ориец из семейства Вакрешвары Пандита; 1758 |

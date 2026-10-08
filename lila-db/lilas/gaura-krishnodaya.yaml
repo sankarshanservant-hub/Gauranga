@@ -1,0 +1,166 @@
+# Говинда-дева, «Шри Гаура-кришнодая» (санскр. махакавья в 18 саргах, 1758; изд. Бхактисиддханты 1913) —
+# лилы в порядке изложения (формат — ../README.md). Перевод: gaura-krishnodaya/ru/NN.md (NN — сарга; метки **N.**).
+# Записи добавлять в конец. Поэма в основном пересказывает «Чайтанья-чаритамриту» — в parallels/cc ссылки на ЧЧ.
+
+- id: gkd-0001
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 0–5"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: PX
+  order: 0
+  title: "Мангалачарана; источники поэта: «Вайю-пурана», Вриндаван Дас, «Чаритамрита»"
+  summary: "Шлока Рупы Госвами «анарпита-чарим», хвала Гаура-Кришне, снимающему бремя Земли без оружия; поэт называет источники — рассказ Гаутамы в «Вайю-пуране», поэмы Вриндавана [Даса] и других, «нектар деяний» (Чаритамриту) — и склоняется перед Рупой и Вакрешварой."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@vakreshvara", "@govinda-deva-kavi"]
+  places: []
+  kind: author
+  authority: B
+  parallels: "ЧЧ Ади 1.4 (= ст. 0)"
+  themes: [author]
+  teaching: [gaura-tattva]
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "0", to: "5"}
+
+- id: gkd-0002
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 6–10"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P00
+  order: 5
+  title: "Земля в облике коровы жалуется Брахме на бремя Кали"
+  summary: "Не вынося бремени грешных людей Кали-юги, Земля в облике коровы приходит в мир Брахмы; тот утешает её: её единственный друг снова снимет бремя."
+  persons: ["@prithivi", "@brahma"]
+  places: ["#brahmaloka"]
+  kind: pre-advent
+  authority: B
+  parallels: "Бхаг. 10.1.17–23 (образец); Джаянанда, Ади-кханда"
+  themes: [celestial]
+  divergence: "В ЧЧ нет; сюжет перенесён из Бхаг. 10.1 на явление Гауры."
+  event: ev-earth-complains-to-brahma
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "6", to: "10"}
+
+- id: gkd-0003
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 11–33"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P00
+  order: 6
+  title: "Брахма у Молочного океана: молитва и ответ Господа"
+  summary: "Брахма с Землёй, Шивой и Индрой приходит к Молочному океану и возносит хвалу непостижимому Господу, доступному лишь беспричинной бхакти. Господь отвечает: Калки ещё не время, оружие погубит слабых людей Кали, — пусть боги родятся на земле в телах Его преданных; Он найдёт иное средство."
+  persons: ["@brahma", "@prithivi", "@shiva", "@indra", "@narayana"]
+  places: ["#shvetadvipa"]
+  kind: pre-advent
+  authority: B
+  parallels: "Бхаг. 10.1.19–25 (образец)"
+  themes: [celestial, revelation]
+  teaching: [bhakti-supremacy, yuga-dharma]
+  divergence: "В ЧЧ нет. Своеобразие: явление в Кали объясняется тем, что Калки ещё не время, а оружием людей Кали не исправить."
+  notes: "Молочный океан отмечен тегом #shvetadvipa (Шветадвипа — обитель Кширодакашайи Вишну)."
+  event: ev-brahma-prayer-milk-ocean
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "11", to: "33"}
+
+- id: gkd-0004
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 34–43, 50"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P00
+  order: 7
+  title: "Три желания Кришны; Кришна поручает Вишну стать Вишварупой"
+  summary: "У Пурушоттамы Вриндавана возникает желание узнать свою сладость, любовь Радхи и Её счастье; Он решает принять облик Радхики, входит в ум Вишну и объявляет: Нанда и Яшода будут Джаганнатхой и Шачи, Вишну — старшим братом Вишварупой, а Сам Он — санньяси Кришна Чайтаньей, проповедником киртана."
+  persons: ["@krishna", "@radha", "@narayana", "@vishvarupa", "@nanda", "@yashoda", "@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: pre-advent
+  authority: B
+  parallels: "ЧЧ Ади 1.6; Ади 4 (три желания, внутренняя и внешняя причины)"
+  cc: "Ади 1.6; Ади 4"
+  themes: [revelation, krishna-lila]
+  bhava: [radha]
+  teaching: [gaura-tattva, holy-name]
+  divergence: "Вишну становится Вишварупой — у Говинды-девы; в ГГД Вишварупа — Санкаршана, по ЧЧ Вишну пребывает в Кришне при Его явлении."
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "34", to: "43"}
+    - {file: "gaura-krishnodaya/ru/01.md", from: "50", to: "50"}
+
+- id: gkd-0005
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 44–49"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P01
+  order: 5
+  title: "Кто кем воплотится: Шива — Адвайта, Бала — Нитьянанда, Брахма — Харидас"
+  summary: "Кришна перечисляет: Шива — Адвайта Ачарья, Баларама — Нитьянанда, Брахма — Харидас, Индра — Пратапарудра, Сандипани — Кешава Бхарати, Паурнамаси — Сита, Нарада — Шриваса, Тумбуру — Рамананда; все спутники соберутся у океана и одарят падших бхакти."
+  persons: ["@krishna", "@advaita", "@shiva", "@nityananda", "@balarama", "@haridasa-thakura", "@brahma", "@prataparudra", "@indra", "@keshava-bharati", "@sita-thakurani", "@yogamaya", "@srivasa", "@narada", "@ramananda-raya"]
+  places: []
+  kind: pre-advent
+  authority: B
+  parallels: "Гаура-ганоддеша-дипика; Мурари 1.04"
+  themes: [revelation]
+  teaching: [associates-tattva]
+  divergence: "Расходится с ГГД: Пратапарудра — Индра (в ГГД — Индрадьюмна), Рамананда — Тумбуру (в ГГД — Арджуна/Арджунья)."
+  event: ev-associates-descend
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "44", to: "49"}
+
+- id: gkd-0006
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 51–57"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P01
+  order: 4
+  title: "Адвайта опровергает майявади и взывает к Господу; ответ Господа в сердце"
+  summary: "Адвайта, родившийся прежде Господа, учит о вечности преданного, бхакти и Господа и о неприродности Его игр; не в силах одолеть злословие, он поклоняется шалаграме с туласи и взывает: «О Друг падших, спаси их!» Господь отвечает в его сердце: «Скоро приду в Навадвипу»; Адвайта собирает преданных."
+  persons: ["@advaita", "@krishna", "@sita-thakurani"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 3 (конец), Ади 13; ЧБ Ади 2"
+  cc: "Ади 3; Ади 13"
+  themes: [revelation]
+  teaching: [bhakti-supremacy, vedanta]
+  divergence: "Ответ Господа в сердце Адвайты («скоро приду») — добавление Говинды-девы."
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "51", to: "57"}
+
+- id: gkd-0007
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 58–60"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P01
+  order: 20
+  title: "Смерть восьми дочерей; рождение и санньяса Вишварупы"
+  summary: "Восемь дочерей Шачи умирают; Джаганнатха Мишра поклоняется Кришне на берегу Ганги, и Вишну рождается у его жены. Вишварупа после посвящения становится странствующим монахом и пропадает без вести; родители в скорби надеются на явление Кришны."
+  persons: ["@jagannatha-mishra", "@shachi", "@vishvarupa"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13; Мурари 1.02"
+  cc: "Ади 13"
+  themes: [family, sannyasa]
+  divergence: "Санньяса Вишварупы рассказана до рождения Господа (в ЧЧ — когда Господь уже ребёнок, Ади 15); рождение Вишварупы — нисшествие Вишну."
+  notes: "Включает упоминание санньясы Вишварупы (событие ev-vishvarupa-sannyasa)."
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "58", to: "60"}
+
+- id: gkd-0008
+  source: gaura-krishnodaya
+  ref: "Сарга 1, 61"
+  file: "gaura-krishnodaya/ru/01.md"
+  period: P01
+  order: 50
+  title: "Господь входит в лоно Шачи в месяц магха"
+  summary: "Довольный джапой и поклонением супругов, Мукунда в месяц магха входит в лоно Шачи; дом наполняется благоденствием, Лакшми служит им как служанка."
+  persons: ["@krishna", "@shachi", "@jagannatha-mishra", "@lakshmi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Ади 13"
+  cc: "Ади 13"
+  calendar: "магха"
+  themes: [family]
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "gaura-krishnodaya/ru/01.md", from: "61", to: "61"}
