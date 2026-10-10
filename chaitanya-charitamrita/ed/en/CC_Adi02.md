@@ -528,7 +528,7 @@ Brahmā  says  on the water  in the beings  who  Nārāyaṇa
 se saba tomāra aṁśa, — e satya vacana  
 They  all  Your  portions  this  true  word
 
-(48) Brahmā said, “The Nārāyaṇa who lies on the waters and dwells in the living beings — all these are Your portions. This is the truth.
+(48) Brahmā said, “The Nārāyaṇa who lies on the waters and dwells in the living beings — all these are Your portions. This is the truth.”
 
 কারণাব্ধি-গর্ভোদক-ক্ষীরোদকশায়ী ৷  
 মায়াদ্বারা সৃষ্টি করে, তাতে সব মায়ী ॥ ৪৯ ॥
@@ -616,7 +616,7 @@ of those  three  persons  You  the supreme  shelter
 tumi mūla nārāyaṇa — ithe ki saṁśaya  
 You  the original  Nārāyaṇa  in this  what  doubt
 
-(56) You are the supreme shelter of these three. You are the original Nārāyaṇa — what doubt can there be?
+(56) “You are the supreme shelter of these three. You are the original Nārāyaṇa — what doubt can there be?
 
 সেই তিনের অংশী পরব্যোম-নারায়ণ ৷  
 তেঁহ তোমার প্রকাশ, তুমি মূল-নারায়ণ ॥ ৫৭ ॥
@@ -794,7 +794,7 @@ to him  one says  why  do you make  of false logic  inference
 śāstra-viruddhārtha kabhu nā haya pramāṇa  
 contrary to scripture  meaning  ever  not  is  proof
 
-(73) The answer to him is this: “Why do you draw inferences by false logic? A meaning that contradicts scripture can never be proof.
+(73) The answer to him is this: “Why do you draw inferences by false logic? A meaning that contradicts scripture can never be proof.”
 
 অনুবাদমনুক্ত্বা তু ন বিধেয়মুদীরয়েৎ ৷  
 ন হ্যলব্ধাস্পদং কিঞ্চিৎ কুত্রচিৎ প্রতিতিষ্ঠতি ॥ ৭৪ ॥
@@ -808,7 +808,7 @@ not  for  without a footing  anything
 kutracit pratitiṣṭhati  
 anywhere  stands firm
 
-(74) “One should not state the predicate without first stating the subject, for nothing without a footing can stand firm anywhere.” (Ekādaśī-tattva)
+(74) “One should not state the predicate without first stating the subject, for nothing without a footing can stand firm anywhere.” (Ekādaśī-tattva 13)
 
 অনুবাদ না কহিয়া না কহি বিধেয় ৷  
 আগে অনুবাদ কহি, পশ্চাদ্বিধেয় ॥ ৭৫ ॥
@@ -894,11 +894,11 @@ therefore  “Kṛṣṇa”  the word  first  the subject
 স্বয়ং-ভগবানের কৃষ্ণত্ব হৈল বাধ্য ॥ ৮৩ ॥
 
 kṛṣṇera svayaṁ-bhagavattā — ihā haila sādhya  
-Kṛṣṇa's  being the Lord Himself  this  became  established  
+Kṛṣṇa's  being the Lord Himself  this  became  the thing to be established  
 svayaṁ-bhagavānera kṛṣṇatva haila bādhya  
 of the Lord Himself  being Kṛṣṇa  became  binding
 
-(83) Thus it is established that Kṛṣṇa is the Supreme Lord Himself, and it follows necessarily that the Supreme Lord Himself is Kṛṣṇa.
+(83) Kṛṣṇa's being the Supreme Lord Himself is what must be established (*sādhya*); that the Supreme Lord Himself is Kṛṣṇa follows as a binding conclusion (*bādhya*).
 
 কৃষ্ণ যদি অংশ হৈত, অংশী নারায়ণ ৷  
 তবে বিপরীত হৈত সূতের বচন ॥ ৮৪ ॥
@@ -924,11 +924,11 @@ He  Śrī Kṛṣṇa  thus  would make  that  explanation
 আর্ষ-বিজ্ঞবাক্যে নাহি দোষ এই সব ॥ ৮৬ ॥
 
 bhrama, pramāda, vipralipsā, karaṇāpāṭava  
-error  illusion  the wish to cheat  imperfection of the senses  
+error  inattention  the wish to cheat  imperfection of the senses  
 ārṣa-vijña-vākye nāhi doṣa ei saba  
 of the sages  wise  in the words  there are not  faults  these  all
 
-(86) Error, illusion, the wish to cheat and imperfect senses — none of these faults are found in the words of the wise sages.
+(86) Error, inattention, the wish to cheat and imperfect senses — none of these faults are found in the words of the wise sages.
 
 বিরুদ্ধার্থ কহ তুমি, কহিতে কর রোষ ৷  
 তোমার অর্থে অবিমৃষ্টবিধেয়াংশ-দোষ ॥ ৮৭ ॥

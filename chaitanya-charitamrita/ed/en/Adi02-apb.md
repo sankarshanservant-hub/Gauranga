@@ -130,7 +130,7 @@ In poetics the unknown is called the *vidheya*, and the known the *anuvāda*. Ta
 
 ## 79
 
-*Iha* means “they.” “His avatāras” is a known subject. But whose avatāras they are is not yet known.
+*Iha* means “this one” (He). “His avatāras” is a known subject. But whose avatāras they are is not yet known.
 
 ## 80–86
 
@@ -190,4 +190,4 @@ Some who thirst for devotion do not count these conclusions (*siddhāntas*) as p
 
 *Thus ends the second chapter of the “Amṛta-pravāha-bhāṣya.”*
 
-[^21-1]: The Russian verse translation (VCD) reads differently: it does not render *ātma-kalpita* separately, and it relates the delusion of difference to the Lord's various forms.
+[^21-1]: The verse translation reads differently: it takes *ātma-kalpita* as “created by Himself” (as the *Anubhāṣya* also glosses it), whereas here it is read as “made one’s own,” that is, those who know themselves as the Lord’s servants.
