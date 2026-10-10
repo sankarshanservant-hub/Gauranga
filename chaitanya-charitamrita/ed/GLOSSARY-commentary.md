@@ -92,3 +92,28 @@
 
 ## Нельзя
 - Божество — не «статуя/идол»; йогамайя — не «иллюзия»; према — не «страсть»; уход Господа — «сокрытие».
+
+## English (EN) — принятые написания и переводы (с Ади 1)
+Оформление: термины — курсивом в IAST, при первом появлении в главе — с кратким пояснением (*prema*, love of God);
+имена, места, названия божеств — прямым IAST с диакритикой; заглавия книг — курсивом (*Śrīmad-Bhāgavatam*).
+Без курсива (как освоенные слова): guru, gopī(s), Vaiṣṇava, mantra, ācārya, sādhu, avatāra, sampradāya, karma, jñāna.
+Господь — He/Him/His с заглавной. Цитаты — “…”, ссылка в скобках: (*Śrīmad-Bhāgavatam* 11.17.27).
+- «Амрита-праваха-бхашья» → *Amṛta-pravāha-bhāṣya*; «Анубхашья» → *Anubhāṣya*; Краткое содержание → **Summary.**;
+  `> Подзаголовок:` → `> Subheading:`; колофон → *Thus ends the first chapter of the …*.
+- мангалачарана → *maṅgalācaraṇa* (auspicious invocation); таттва → *tattva* (truth); Истина (предмет книги) → the Truth.
+- Иша → the Lord (*Īśa*); иша-бхакта → the Lord's devotees (*īśa-bhaktas*); иша-таттва → *īśa-tattva*, the truth of the Lord.
+- дикша-гуру / шикша-гуру → *dīkṣā-guru* (who gives initiation) / *śikṣā-guru* (who instructs).
+- сиддха / садхака → *siddha* (one who has reached perfection) / *sādhaka* (one on the path of practice).
+- сваям-рупа → *svayaṁ-rūpa* (original form); кайа-вьюха → *kāya-vyūha* (expansion of His body); пракаша → *prakāśa*
+  (manifestation); виласа → *vilāsa*.
+- амша-, гуна-, шактьявеша-аватара → *aṁśa-avatāra*, *guṇa-avatāra*, *śaktyāveśa-avatāra*.
+- аварана-таттва → *āvaraṇa-tattva* (His surrounding retinue); шакти → energy (*śakti*); обладатель энергии → possessor of energy.
+- ачинтья-бхедабхеда-таттва → *acintya-bhedābheda-tattva*, the truth of inconceivable oneness and difference.
+- сварупа (природа) → true / intrinsic nature (*svarūpa*); царицы → the queens; маха-бхагавата → *mahā-bhāgavata*;
+  махаджана → *mahājana* (great soul); остатки → remnants.
+- самбандха / абхидхея / прайоджана → *sambandha* (relationship with the Lord) / *abhidheya* (the means) / *prayojana* (the goal).
+- прия-нарма-сакхи → *priya-narma-sakhī* (intimate confidante); экантин → *ekāntin* (one devoted exclusively).
+- гаудия → Gauḍīya; Мадхва-сампрадая → Mādhva-sampradāya; таттвавада → Tattvavāda.
+- Пуруша → Puruṣa; Каранодакашайи, Гарбходакашайи, Кширодашайи → Kāraṇodakaśāyī, Garbhodakaśāyī, Kṣīrodaśāyī.
+- дневник Сварупы Госвами → the diary (*kaḍacā*) of Svarūpa Gosvāmī.
+- Глоссы: `- **iast** — gloss.` (IAST — из кириллической транслитерации `tools/cyr2iast.py`).
