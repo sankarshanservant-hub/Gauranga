@@ -32,3 +32,21 @@ Part 1 (verses 1–140); part 2 (141–277) is added below by the next translato
 | Svarūpa Dāmodara, Svarūpa Gosāñi | ww: Svarūpa Gosāñi; tr.: Svarūpa Gosvāmī / Svarūpa Dāmodara / Dāmodara (as in the text) | 4.104–110 |
 | Vṛndā, Uddhava, Madhusūdana | Vṛndā, Uddhava, Madhusūdana | |
 | Scripture references (Ādi 4.1–140) | (Bhagavad-gītā 4.11), (Śrīmad-Bhāgavatam 10.82.44, 10.33.36, 4.3.23, 10.30.28), (Bhakti-rasāmṛta-sindhu 2.5.38, 2.1.119), (Stava-mālā, First Caitanyāṣṭaka 2), (Stava-mālā, Second Caitanyāṣṭaka 3), (Svarūpa Dāmodara’s diary), (Viṣṇu Purāṇa 1.12.69, 5.13.59), (Ujjvala-nīlamaṇi 4.3), (Brahma-saṁhitā 5.37), (Bṛhad-gautamīya-tantra), (Vidagdha-mādhava 7.3), (Govinda-līlāmṛta 8.77), (Dāna-keli-kaumudī 2) | as in the Russian edition |
+
+Part 2 (verses 141–277):
+
+| Term | English form | Note |
+|---|---|---|
+| Vidhi (the Creator) | Brahmā, the Creator | 4.150–153 (blamed for making eyelids) |
+| rūḍha-bhāva | *rūḍha-bhāva* | 4.162 |
+| kāma / prema | *kāma*, (selfish) lust / *prema*, love | 4.162–172; the gopīs' love only *called* *kāma* (4.163), never mundane passion |
+| ārya-patha | the path of noble conduct (*ārya-patha*) | 4.167–169 |
+| anurāga | attachment (*anurāga*) | 4.170, 4.175 |
+| sālokya, sārṣṭi, sāmīpya, sārūpya, ekatva | *sālokya*, *sārṣṭi*, *sāmīpya*, *sārūpya*, oneness | 4.204–208, kept in italics without gloss |
+| nirguṇa bhakti-yoga | transcendent *bhakti-yoga* | 4.206 |
+| rasopakaraṇa | instruments of *rasa* | 4.217 (the other gopīs) |
+| śṛṅgāra | *śṛṅgāra*, the amorous *rasa* | 4.222, 4.224 |
+| yuga-avatāra | the *yuga-avatāra* | 4.269 |
+| tamāla | *tamāla* tree | 4.251 |
+| Dāruka, Pārtha (Arjuna), Bharata Muni, Keśava | Dāruka, Pārtha, Bharata Muni, Keśava | |
+| Scripture references (Ādi 4.141–277) | (Lalita-mādhava 8.34, 9.9), (Śrīmad-Bhāgavatam 10.82.39, 10.31.15, 10.21.7, 10.44.14, 10.31.19, 10.32.21, 10.32.22, 3.29.11–13, 9.4.67), (Bhakti-rasāmṛta-sindhu 1.2.285, 3.2.62, 2.3.54), (Bhagavad-gītā 4.11), (Ādi Purāṇa), (Stava-mālā, Keśavāṣṭaka 8), (Gopī-premāmṛta), (Padma Purāṇa), (Gīta-govinda 3.1, 1.11), (Rūpa Gosvāmī), (Stava-mālā, Second Caitanyāṣṭaka 3) | as in the Russian edition; 4.176 corrected to 10.32.21 |

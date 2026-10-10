@@ -1014,3 +1014,86 @@
   event: ev-krishna-resolves-advent-radha-bhava
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "220", to: "228"}
+
+- id: cc-0052
+  source: cc
+  ref: "Ади 4.229–268"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P00
+  order: 7.7
+  title: "Смысл шестой шлоки; третье желание Кришны — вкусить счастье Радхи; решение явиться с бхавой и цветом Радхи"
+  summary: "Автор приводит шестую шлоку (Ади 1.6) и, поклонившись преданным, раскрывает её сокровенный смысл, понятный лишь расикам, как побеги манго — кукушкам, но не верблюдам-непреданным; Кришна размышляет: все радуются во Мне, но Меня радует лишь Радха — Её облик, речи, аромат, губы и прикосновение покоряют Меня (Лалита-мадхава 9.9); однако, если вдуматься, всё наоборот: при виде Меня Она теряет сознание, обнимает тамалу, принимая её за Меня, летит на Мой аромат, тонет в блаженстве от Моего бетеля; Бхарата Муни не знает расы Враджа; во Мне есть раса, покоряющая Радху (стих Рупы Госвами), и Я жажду вкусить Её счастье, но не могу; Я пришёл вкушать расу и научу рага-марге Своим поведением, а три Моих желания не исполнить в чужой бхаве — потому, приняв бхаву и цвет Радхи, Я низойду."
+  persons: ["@krishnadasa-kaviraja", "@krishna", "@radha", "@rupa-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: pre-advent
+  authority: A
+  notes: "Стихи 264–265 по изданию Гаудия Матха — в будущем времени («буду вкушать», «научу»); у ВЧД перевод по чтению «вкусил», «научил» (сноски)."
+  themes: [krishna-lila, teaching, revelation]
+  bhava: [radha]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Ади 1.6 (дневник Сварупы Дамодары)", "Лалита-мадхава 9.9", "Рупа Госвами (стих о Радхе)"]
+  cc: "Ади 4"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "229", to: "268"}
+
+- id: cc-0053
+  source: cc
+  ref: "Ади 4.269–270"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P01
+  order: 4
+  title: "Время юга-аватары; громкий призыв Адвайты привлекает Кришну"
+  summary: "Когда Кришна принял решение, пришло время юга-аватары; в ту пору Шри Адвайта поклонялся Ему, и Его громкие призывы привлекли Кришну."
+  persons: ["@krishna", "@advaita"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — Ади 3.91–111 (cc-0038)."
+  themes: [celestial]
+  bhava: [devotee]
+  teaching: [gaura-tattva, yuga-dharma]
+  cc: "Ади 4"
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "269", to: "270"}
+
+- id: cc-0054
+  source: cc
+  ref: "Ади 4.271–272"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P01
+  order: 70
+  title: "Явление Кришны в Навадвипе из лона Шачи с бхавой и цветом Радхики"
+  summary: "Сначала Кришна низвёл на землю отца, мать и старших, а затем, приняв чувство и цвет Радхики, явился в Навадвипе, словно полная луна из чистого молочного океана лона Шачи."
+  persons: ["@krishna", "@mahaprabhu", "@radha", "@shachi", "@jagannatha-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; явление подробно — Ади 13. Нисхождение старших — ср. ev-associates-descend."
+  themes: [revelation, family]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  cc: "Ади 4"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "271", to: "272"}
+
+- id: cc-0055
+  source: cc
+  ref: "Ади 4.273–277"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: PX
+  order: 400
+  title: "Итог толкования шестой шлоки; стих Рупы Госвами; колофон четвёртой главы"
+  summary: "Автор объяснил шестую шлоку, памятуя о стопах Шри Рупы, и подтверждает толкование пятой и шестой шлок стихом Рупы Госвами (Става-мала, Вторая Чайтаньяштака 3): Кришна, чтобы вкусить сладкую расу одной из возлюбленных, скрыл Свой цвет под Её сиянием и явился как Чайтанья; шесть первых шлок изложили мангалачарану, таттву Кришна Чайтаньи и цель Его нисшествия; колофон: Кришнадас, уповая на стопы Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa", "@mahaprabhu", "@radha"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva, scripture]
+  scriptures: ["Става-мала, Вторая Чайтаньяштака 3"]
+  cc: "Ади 4"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "273", to: "277"}
