@@ -4,26 +4,13 @@
 
 > Subheading: Obeisance to Gaura through examining the conclusions (*siddhānta*) of devotion —
 
-- **bālaḥ api** — even one who is ignorant, a child.
-- **yad-anugrahāt** — by whose mercy, that is, by whose compassion.
-- **nānā-mata-grāha-vyāptam** — full of doctrines that are like crocodiles and sharks. These doctrines were proclaimed by Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gotama, Kaṇāda, Kapila, Śaṅkara and Dattātreya; they quarrel with one another and are full of worldly self-interest.
-- **siddhānta-sāgaram** — the ocean of reasoning.
-- **taret** — crosses. That is, he counts the mixed doctrines of these worldly people as straw and comes to know Kṛṣṇa's pure feet.
-- **śrī-caitanya-prabhum** — (that) Śrī Caitanya Prabhu.
-- **vande** — (I) worship.
+**bālaḥ api** (even one who is ignorant, a child) **yad-anugrahāt** (by whose mercy, that is, by whose compassion) **nānā-mata-grāha-vyāptam** (full of doctrines that are like crocodiles and sharks. These doctrines were proclaimed by Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gotama, Kaṇāda, Kapila, Śaṅkara and Dattātreya; they quarrel with one another and are full of worldly self-interest) **siddhānta-sāgaram** (the ocean of reasoning) **taret** (crosses. That is, he counts the mixed doctrines of these worldly people as straw and comes to know Kṛṣṇa's pure feet) **śrī-caitanya-prabhum** ([that] Śrī Caitanya Prabhu) **vande** ([I] worship).
 
 ## 2
 
 > Subheading: A prayer for Śrī Caitanya's mercy, for the sake of *kīrtana* about Kṛṣṇa —
 
-- **śrī-caitanya dayā-nidhe** — O Śrī Caitanya, treasury of mercy.
-- **kṛṣṇotkīrtana-gāna-nartana-kalā-pāthojani-bhrājitā** — shining, that is, adorned, with lotuses (*pāthojani*). These lotuses are the arts (*kalā*): *utkīrtana*, the loud glorification of Kṛṣṇa's name, form, qualities, pastimes and so on, together with singing and dancing.
-- **sad-bhaktāvali-haṁsa-cakra-madhupa-śreṇī-vihārāspadam** — the place of play, the field of *vilāsa*, for the hosts of true, that is, pure devotees. They abide in various moods (*bhāvas*) and are like different flocks of swans, *cakravāka* birds and bees. The sense is that in these pastimes the hosts of pure devotees find the highest joy.
-- **karṇānandi-kala-dhvaniḥ** — she whose gentle sound delights the ear and becomes an elixir for the devotees' ears. This gentle sound is the soft, sweet murmur of the streams of Hari's pastimes; the servants of Hari, who are like swans, *cakravākas* and bees, make it.
-- **tava lasal-līlā-sudhā-svardhunī** — such is Your shining (*lasatī*, radiant) heavenly river (*svardhunī*), the Mandākinī, the heavenly Gaṅgā, full of the nectar of Gaura's pastimes.
-- **me** — my.
-- **jihvā-maru-prāṅgaṇe** — in the desert courtyard of the tongue. It has no taste, because it has been deprived of relishing the *rasa* of Gaura's pastimes.
-- **vahatu** — (may she) flow.
+**śrī-caitanya dayā-nidhe** (O Śrī Caitanya, treasury of mercy) **kṛṣṇotkīrtana-gāna-nartana-kalā-pāthojani-bhrājitā** (shining, that is, adorned, with lotuses [*pāthojani*]. These lotuses are the arts [*kalā*]: *utkīrtana*, the loud glorification of Kṛṣṇa's name, form, qualities, pastimes and so on, together with singing and dancing) **sad-bhaktāvali-haṁsa-cakra-madhupa-śreṇī-vihārāspadam** (the place of play, the field of *vilāsa*, for the hosts of true, that is, pure devotees. They abide in various moods [*bhāvas*] and are like different flocks of swans, *cakravāka* birds and bees. The sense is that in these pastimes the hosts of pure devotees find the highest joy) **karṇānandi-kala-dhvaniḥ** (she whose gentle sound delights the ear and becomes an elixir for the devotees' ears. This gentle sound is the soft, sweet murmur of the streams of Hari's pastimes; the servants of Hari, who are like swans, *cakravākas* and bees, make it) **tava lasal-līlā-sudhā-svardhunī** (such is Your shining [*lasatī*, radiant] heavenly river [*svardhunī*], the Mandākinī, the heavenly Gaṅgā, full of the nectar of Gaura's pastimes) **me** (my) **jihvā-maru-prāṅgaṇe** (in the desert courtyard of the tongue. It has no taste, because it has been deprived of relishing the *rasa* of Gaura's pastimes) **vahatu** ([may she] flow).
 
 ## 4
 
@@ -31,25 +18,7 @@
 
 ## 5
 
-- **upaniṣadi** — in the Upaniṣad, that is, in a special branch of the Vedas, the highest of all, called *brahma-vidyā* (the knowledge of Brahman). [The word *upaniṣad* is formed from the root *ṣad* with the prefixes *upa-* and *ni-* and the suffix *kvip*; the root means “to destroy,” “to go” and “to wear down.” Here *upa* means “having approached,” that is, having received it through the guru's instruction, and *ni* means “with resolve.” Some have approached *brahma-vidyā*, have resolutely fixed themselves in it and have lost their thirst for objects, both those that are seen and those promised in the Vedas. For them it destroys the seed of worldly existence — loosens it, wears it down, annihilates it — and leads them to Brahman.]
-- **yat advaitam** — that which (is called) nondual, without a second,
-- **brahma** — Brahman,
-- **tat api** — that too
-- **asya** — His (Gaura-Kṛṣṇa's)
-- **tanu-bhā** — is the radiance (of His transcendental body).
-- **yaḥ ātmā** — He who is the Self (the Paramātmā, the Controller of all living beings and the rest),
-- **antar-yāmī puruṣaḥ** — the Puruṣa who dwells within,
-- **saḥ asya aṁśa-vibhavaḥ** — is His partial manifestation (one of His opulences, a particular expression of His all-pervasiveness).
-- **iha** — (in this examination of the truth).
-- **yaḥ ṣaḍ-aiśvaryaiḥ** — He who in the six opulences, that is, in the six kinds of lordship — complete wealth, strength, fame, beauty, knowledge and renunciation —
-- **pūrṇaḥ** — is full (needs nothing, is perfect),
-- **saḥ ayam** — He, this Śrī Kṛṣṇa Caitanya,
-- **svayam bhagavān** — is Bhagavān Himself.
-- **iha** — (in the world, in the examination of the truth, or in the Kali age).
-- **caitanyāt kṛṣṇāt** — than Kṛṣṇa Caitanya
-- **param** — other
-- **para-tattvam** — supreme truth (better shelter)
-- **na** — there is none.
+**upaniṣadi** (in the Upaniṣad, that is, in a special branch of the Vedas, the highest of all, called *brahma-vidyā* [the knowledge of Brahman]. [The word *upaniṣad* is formed from the root *ṣad* with the prefixes *upa-* and *ni-* and the suffix *kvip*; the root means “to destroy,” “to go” and “to wear down.” Here *upa* means “having approached,” that is, having received it through the guru's instruction, and *ni* means “with resolve.” Some have approached *brahma-vidyā*, have resolutely fixed themselves in it and have lost their thirst for objects, both those that are seen and those promised in the Vedas. For them it destroys the seed of worldly existence — loosens it, wears it down, annihilates it — and leads them to Brahman.]) **yat advaitam** (that which [is called] nondual, without a second), **brahma** (Brahman), **tat api** (that too) **asya** (His [Gaura-Kṛṣṇa's]) **tanu-bhā** (is the radiance [of His transcendental body]) **yaḥ ātmā** (He who is the Self [the Paramātmā, the Controller of all living beings and the rest]), **antar-yāmī puruṣaḥ** (the Puruṣa who dwells within), **saḥ asya aṁśa-vibhavaḥ** (is His partial manifestation [one of His opulences, a particular expression of His all-pervasiveness]) **iha** ([in this examination of the truth]) **yaḥ ṣaḍ-aiśvaryaiḥ** (He who in the six opulences, that is, in the six kinds of lordship — complete wealth, strength, fame, beauty, knowledge and renunciation —) **pūrṇaḥ** (is full [needs nothing, is perfect]), **saḥ ayam** (He, this Śrī Kṛṣṇa Caitanya), **svayam bhagavān** (is Bhagavān Himself) **iha** ([in the world, in the examination of the truth, or in the Kali age]) **caitanyāt kṛṣṇāt** (than Kṛṣṇa Caitanya) **param** (other) **para-tattvam** (supreme truth [better shelter]) **na** (there is none).
 
 (Brahman is the goal of the scriptures of knowledge (*jñāna-śāstras*), and Paramātmā the goal of the scriptures of yoga. In truth they are equal to Bhagavān. But the view differs with the qualification (*adhikāra*) of the one who sees, and so they are only two aspects of Bhagavān's form — His spiritual radiance and His part. They are not the whole, complete Reality, endowed with all qualities and potencies; only Bhagavān is that.)
 
@@ -79,16 +48,7 @@ Bhagavān is endowed with all potencies and reveals Himself in all His fullness;
 
 The sages headed by Śaunaka asked Sūta, the disciple of Śukadeva, six questions. This verse answers the second of them: “What is the essence of the scriptures?”
 
-- **tattva-vidaḥ** — those who know the truth
-- **tat** — (just) that
-- **tattvam** — the Truth,
-- **advayam jñānam** — nondual knowledge (one, purely spiritual),
-- **vadanti** — they call.
-- **yat** — (This nondual knowledge)
-- **brahma iti** — (in some places) Brahman,
-- **paramātmā iti** — (in some places) Paramātmā,
-- **bhagavān iti ca** — (and in some places) Bhagavān
-- **śabdyate** — is called.
+**tattva-vidaḥ** (those who know the truth) **tat** ([just] that) **tattvam** (the Truth), **advayam jñānam** (nondual knowledge [one, purely spiritual]), **vadanti** (they call) **yat** ([This nondual knowledge]) **brahma iti** ([in some places] Brahman), **paramātmā iti** ([in some places] Paramātmā), **bhagavān iti ca** ([and in some places] Bhagavān) **śabdyate** (is called).
 
 The sense is this: nondual knowledge realized through the function of knowledge alone is Brahman; nondual knowledge realized through the functions of being and consciousness (*sat* and *cit*) is Paramātmā; and that same nondual knowledge realized through the functions of being, consciousness and bliss (*sat*, *cit* and *ānanda*) is Bhagavān.
 
@@ -106,16 +66,7 @@ Bhagavān's devotees know that the embodiment of nondual knowledge is Vrajendran
 
 Śrī Brahmā set forth the truth and greatness of Śrī Govinda in the form of a prayer; it is given in the fifth chapter of the *Brahma-saṁhitā*.
 
-- **jagad-aṇḍa-koṭi-koṭiṣu** — in millions and millions of universes, that is, in countless universes.
-- **aśeṣa-vasudhādi-vibhūti-bhinnam** — distinct, that is, set apart, by the opulences — the countless universes and all else that has form and so on.
-- **niṣkalam** — (that which is) without parts: undivided, perfect,
-- **anantam** — beyond limited knowledge,
-- **aśeṣa-bhūtam** — boundless —
-- **tat brahma** — that Brahman
-- **prabhavataḥ** — (of the One endowed with power)
-- **yasya** — whose (Govinda's)
-- **prabhā** — is the radiance of the body.
-- **tam ādi-puruṣam govindam aham bhajāmi** — that original Puruṣa, Govinda, I worship.
+**jagad-aṇḍa-koṭi-koṭiṣu** (in millions and millions of universes, that is, in countless universes) **aśeṣa-vasudhādi-vibhūti-bhinnam** (distinct, that is, set apart, by the opulences — the countless universes and all else that has form and so on) **niṣkalam** ([that which is] without parts: undivided, perfect), **anantam** (beyond limited knowledge), **aśeṣa-bhūtam** (boundless —) **tat brahma** (that Brahman) **prabhavataḥ** ([of the One endowed with power]) **yasya** (whose [Govinda's]) **prabhā** (is the radiance of the body) **tam ādi-puruṣam govindam aham bhajāmi** (that original Puruṣa, Govinda, I worship).
 
 ## 16
 
@@ -127,16 +78,7 @@ Bhagavān's devotees know that the embodiment of nondual knowledge is Vrajendran
 
 Uddhava learned that Śrī Kṛṣṇa would soon withdraw from view, and in a prayer at His holy feet he said: devotees reach Kṛṣṇa's feet with ease, while *sannyāsīs* who impose hardships on themselves win the fruit of their practice by hard labor — and attain only Brahmaloka.
 
-- **vāta-vasanāḥ** — clothed in the wind, that is, naked, without garments.
-- **śramaṇāḥ** — mendicant monks who emaciate the body.
-- **ūrdhva-manthinaḥ** — who keep their seed.
-- **śāntāḥ** — those whose minds are fixed on Brahman alone.
-- **amalāḥ** — free from the filth of sense objects.
-- **sannyāsinaḥ** — *sannyāsīs*.
-- **te** — they.
-- **brahmākhyam** — called Brahman (impersonal).
-- **dhāma** — the abode.
-- **yānti** — attain.
+**vāta-vasanāḥ** (clothed in the wind, that is, naked, without garments) **śramaṇāḥ** (mendicant monks who emaciate the body) **ūrdhva-manthinaḥ** (who keep their seed) **śāntāḥ** (those whose minds are fixed on Brahman alone) **amalāḥ** (free from the filth of sense objects) **sannyāsinaḥ** (*sannyāsīs*) **te** (they) **brahmākhyam** (called Brahman [impersonal]) **dhāma** (the abode) **yānti** (attain).
 
 ## 18
 
@@ -154,17 +96,7 @@ The one sun stays in its place and is reflected in countless pieces of crystal a
 
 Bhagavān explained to Arjuna in many ways the truth of His relationship with all that exists (*sambandha-tattva*), and in this verse He states it briefly.
 
-- **atha vā** — or else.
-- **arjuna** — O Arjuna.
-- **bahunā** — with many details, taught one by one.
-- **jñātena kim** — what use is it (for you) to know? That is, enough.
-- **idam** — this (made of spirit and matter)
-- **kṛtsnam** — entire
-- **jagat** — universe
-- **ekāṁśena** — with one part (the part called the Puruṣa, the indwelling Lord of *prakṛti* and the rest)
-- **viṣṭabhya** — supporting (as its foundation, bearing it; as its overseer, governing it; as its controller, subduing it; as the all-pervading one, pervading it),
-- **aham** — I (Bhagavān)
-- **sthitaḥ** — abide.
+**atha vā** (or else) **arjuna** (O Arjuna) **bahunā** (with many details, taught one by one) **jñātena kim** (what use is it [for you] to know? That is, enough) **idam** (this [made of spirit and matter]) **kṛtsnam** (entire) **jagat** (universe) **ekāṁśena** (with one part [the part called the Puruṣa, the indwelling Lord of *prakṛti* and the rest]) **viṣṭabhya** (supporting [as its foundation, bearing it; as its overseer, governing it; as its controller, subduing it; as the all-pervading one, pervading it]), **aham** (I [Bhagavān]) **sthitaḥ** (abide).
 
 ## 21
 
@@ -172,17 +104,7 @@ Bhagavān explained to Arjuna in many ways the truth of His relationship with al
 
 Yudhiṣṭhira went to Bhīṣma wishing to ask him about *dharma*, and Śrī Kṛṣṇa followed him on Arjuna's chariot. Other divine and brahminical sages (*devarṣis* and *brahmarṣis*) also gathered there to see Bhīṣma. Bhīṣma answered some of Yudhiṣṭhira's questions. Then, when the time of his departure came, he praised Śrī Kṛṣṇa, who stood before him, in many verses; this verse is one of them.
 
-- **prati-dṛśam** — to each eye (of beings in different places)
-- **naikadhā** — in many ways (because they abide in different places),
-- **ekam arkam iva** — like the one sun.
-- **ātma-kalpitānām** — created by Himself
-- **śarīra-bhājām** — of the embodied
-- **hṛdi hṛdi** — in each heart
-- **dhiṣṭhitam** — abiding,
-- **tam imam ajam** — this Unborn One (Śrī Kṛṣṇa)
-- **vidhūta-bheda-mohaḥ** — one whose delusion of difference is cast off (*vidhūta*, removed). This delusion is the idea that Bhagavān's name, form, qualities and pastimes are different from Him. It shows itself as a perception of multiplicity: one imagines that Bhagavān's form divides into different forms — *prakāśas* and *vilāsa-mūrtis* — in order to become all-pervading.
-- **aham** — I
-- **samadhigataḥ asmi** — have fully realized (attained).
+**prati-dṛśam** (to each eye [of beings in different places]) **naikadhā** (in many ways [because they abide in different places]), **ekam arkam iva** (like the one sun) **ātma-kalpitānām** (created by Himself) **śarīra-bhājām** (of the embodied) **hṛdi hṛdi** (in each heart) **dhiṣṭhitam** (abiding), **tam imam ajam** (this Unborn One [Śrī Kṛṣṇa]) **vidhūta-bheda-mohaḥ** (one whose delusion of difference is cast off [*vidhūta*, removed]. This delusion is the idea that Bhagavān's name, form, qualities and pastimes are different from Him. It shows itself as a perception of multiplicity: one imagines that Bhagavān's form divides into different forms — *prakāśas* and *vilāsa-mūrtis* — in order to become all-pervading) **aham** (I) **samadhigataḥ asmi** (have fully realized [attained]).
 
 ## 22
 
@@ -214,23 +136,7 @@ In the *Ṛg-veda-saṁhitā* (1.22.20): “The sages always see that supreme ab
 
 Brahmā stole the calves, then came to understand the truth about Śrī Kṛṣṇa and offered Him praise; this is one of the verses of that prayer.
 
-- **adhīśa** — O Adhīśa (Lord, endowed with majesty greater than that of the three *puruṣa-avatāras*)!
-- **tvam** — You
-- **nārāyaṇaḥ** — are Nārāyaṇa (He from whom comes the movement (*ayana*), that is, the activity, of *nāra*).
-- **sarva-dehinām** — of all the embodied (of all living beings)
-- **ātmā** — the Self; (and so)
-- **tvam** — You
-- **nārāyaṇaḥ** — (He whose shelter (*ayana*) is *nāra*, that is, the totality of *jīvas*: the third *puruṣa-avatāra*, who abides in the Ocean of Milk)
-- **asi na hi** — are You not?
-- **akhila-loka-sākṣī** — the witness of all the worlds (the indwelling Lord of the aggregate [of *jīvas*])
-- **tvam** — You
-- **nārāyaṇaḥ** — (He who knows (*ayase*) *nāra*: the second *puruṣa-avatāra*, who abides in the Garbhodaka).
-- **nara-bhū-jalāyanāt** — (because His shelter is the *arthas*, that is, the twenty-four elements that arose from Nara, the Paramātmā, and also the water born of Nara)
-- **nārāyaṇaḥ** — Nārāyaṇa (that celebrated first *puruṣa-avatāra*, who abides in the Kāraṇodaka) —
-- **saḥ api** — He too
-- **tava aṅgam** — is Your *aṅga* (part).
-- **tat ca api satyam** — And this too is true,
-- **na tava eva māyā** — and not at all *māyā* (not transient, like what belongs to *māyā*).
+**adhīśa** (O Adhīśa [Lord, endowed with majesty greater than that of the three *puruṣa-avatāras*]!) **tvam** (You) **nārāyaṇaḥ** (are Nārāyaṇa (He from whom comes the movement [*ayana*], that is, the activity, of *nāra*)) **sarva-dehinām** (of all the embodied [of all living beings]) **ātmā** (the Self; [and so]) **tvam** (You) **nārāyaṇaḥ** ((He whose shelter [*ayana*] is *nāra*, that is, the totality of *jīvas*: the third *puruṣa-avatāra*, who abides in the Ocean of Milk)) **asi na hi** (are You not?) **akhila-loka-sākṣī** (the witness of all the worlds [the indwelling Lord of the aggregate [of *jīvas*]]) **tvam** (You) **nārāyaṇaḥ** ((He who knows [*ayase*] *nāra*: the second *puruṣa-avatāra*, who abides in the Garbhodaka)) **nara-bhū-jalāyanāt** ([because His shelter is the *arthas*, that is, the twenty-four elements that arose from Nara, the Paramātmā, and also the water born of Nara]) **nārāyaṇaḥ** (Nārāyaṇa [that celebrated first *puruṣa-avatāra*, who abides in the Kāraṇodaka] —) **saḥ api** (He too) **tava aṅgam** (is Your *aṅga* [part]) **tat ca api satyam** (And this too is true), **na tava eva māyā** (and not at all *māyā* [not transient, like what belongs to *māyā*]).
 
 (Even when You descend as an avatāra, *māyā* cannot touch Your spiritual body. O Kṛṣṇa, You are the original Nārāyaṇa, and the Puruṣa and the other avatāras are Your parts; You alone are the whole. These avatāras are limbs (*aṅgas*), and You are the possessor of the limbs (*aṅgī*) — such is my conviction.)
 
@@ -274,19 +180,7 @@ The Viśiṣṭādvaitins define the subject of Vedānta like this. The *jīva*,
 
 Śrīdhara Svāmī quotes this verse in his commentary to explain the word *turīya*.
 
-- **virāṭ** — (the gross),
-- **hiraṇya-garbhaḥ** — (the subtle)
-- **ca** — and
-- **kāraṇam** — (ignorance, or *prakṛti*) —
-- **iti** — (these)
-- **īśasya** — of the Lord (the *puruṣa-avatāra*, creator of the *mahat-tattva*)
-- **upādhayaḥ** — are the *upādhis* (particular manifestations).
-- **yat** — That which
-- **tribhiḥ** — by (these) three (*upādhis*)
-- **hīnam** — is untouched (not connected with them),
-- **tat** — that (state)
-- **turīyam** — the fourth (Vaikuṇṭha, beyond the three Puruṣas)
-- **pracakṣate** — they call.
+**virāṭ** ([the gross]), **hiraṇya-garbhaḥ** ([the subtle]) **ca** (and) **kāraṇam** ([ignorance, or *prakṛti*] —) **iti** ([these]) **īśasya** (of the Lord [the *puruṣa-avatāra*, creator of the *mahat-tattva*]) **upādhayaḥ** (are the *upādhis* [particular manifestations]) **yat** (That which) **tribhiḥ** (by [these] three [*upādhis*]) **hīnam** (is untouched [not connected with them]), **tat** (that [state]) **turīyam** (the fourth [Vaikuṇṭha, beyond the three Puruṣas]) **pracakṣate** (they call).
 
 ## 55
 
@@ -294,20 +188,7 @@ The Viśiṣṭādvaitins define the subject of Vedānta like this. The *jīva*,
 
 Śrī Kṛṣṇa returned to His palace in the city of Dvārakā and spent His time with the queens. There was not even a trace of *māyā* in His conduct, and Śrī Sūta spoke of it like this:
 
-- **tad-āśrayā** — (sheltered in Śrī Bhagavān, as is that of the great devotees)
-- **buddhiḥ** — intelligence
-- **yathā** — just as (though it has somehow come to be in *prakṛti*) (**na yujyate**) does not become bound [to the modes], so [He too]. Or else, by contrast:
-- **tad-āśrayā** — (resting on *prakṛti*)
-- **buddhiḥ** — intelligence (the knowledge of the *jīva*)
-- **yathā** — just as (**yujyate**) becomes bound, so [He] **na** — does not [become bound].
-- **prakṛti-sthaḥ api** — even while abiding in *prakṛti* (being in the world made of the three modes),
-- **sadā** — always
-- **ātma-sthaiḥ** — abiding in Him
-- **tad-guṇaiḥ** — by its modes
-- **na yujyate** — is not bound (does not become attached to the material modes).
-- **etat** — (Just) this
-- **īśasya** — of the Lord (Bhagavān, all-powerful and beyond *māyā*)
-- **īśanam** — is the lordship (*aiśvarya*).
+**tad-āśrayā** ([sheltered in Śrī Bhagavān, as is that of the great devotees]) **buddhiḥ** (intelligence) **yathā** (just as [though it has somehow come to be in *prakṛti*] [**na yujyate**] does not become bound [to the modes], so [He too]. Or else, by contrast): **tad-āśrayā** ([resting on *prakṛti*]) **buddhiḥ** (intelligence [the knowledge of the *jīva*]) **yathā** (just as [**yujyate**] becomes bound, so [He] **na** — does not [become bound]) **prakṛti-sthaḥ api** (even while abiding in *prakṛti* [being in the world made of the three modes]), **sadā** (always) **ātma-sthaiḥ** (abiding in Him) **tad-guṇaiḥ** (by its modes) **na yujyate** (is not bound [does not become attached to the material modes]) **etat** ([Just] this) **īśasya** (of the Lord [Bhagavān, all-powerful and beyond *māyā*]) **īśanam** (is the lordship [*aiśvarya*]).
 
 ## 56
 
@@ -333,15 +214,7 @@ See Ādi 2.11.
 
 After listing Śrī Kṛṣṇa's avatāras, Śrī Sūta concludes with this verse.
 
-- **ete** — (the avatāras named before)
-- **puṁsaḥ** — (of the *puruṣa-avatāra*)
-- **aṁśa-kalāḥ** — are parts and *kalās* (parts of parts).
-- **kṛṣṇaḥ tu** — But Kṛṣṇa
-- **bhagavān svayam** — is Bhagavān Himself.
-- **indrāri-vyākulam** — (These partial avatāras) (oppressed by the demons)
-- **lokam** — (the universe)
-- **yuge yuge** — (in every age, at the proper time)
-- **mṛḍayanti** — (make happy).
+**ete** ([the avatāras named before]) **puṁsaḥ** ([of the *puruṣa-avatāra*]) **aṁśa-kalāḥ** (are parts and *kalās* [parts of parts]) **kṛṣṇaḥ tu** (But Kṛṣṇa) **bhagavān svayam** (is Bhagavān Himself) **indrāri-vyākulam** ([These partial avatāras] [oppressed by the demons]) **lokam** ([the universe]) **yuge yuge** ([in every age, at the proper time]) **mṛḍayanti** ([make happy]).
 
 ## 73
 
@@ -351,15 +224,7 @@ After listing Śrī Kṛṣṇa's avatāras, Śrī Sūta concludes with this ver
 
 > Subheading: (a rule of poetics, *Ekādaśī-tattva* 13)
 
-- **anuvādam** — the *uddeśya*, that is, the known subject.
-- **anuktvā** — without stating.
-- **vidheyam** — the unknown subject.
-- **na udīrayet** — one should not state.
-- **hi** — for.
-- **alabdhāspadam** — that which has not found a footing, its own place.
-- **kiñcit** — anything.
-- **kutracit** — anywhere.
-- **na pratitiṣṭhati** — does not stand firm.
+**anuvādam** (the *uddeśya*, that is, the known subject) **anuktvā** (without stating) **vidheyam** (the unknown subject) **na udīrayet** (one should not state) **hi** (for) **alabdhāspadam** (that which has not found a footing, its own place) **kiñcit** (anything) **kutracit** (anywhere) **na pratitiṣṭhati** (does not stand firm).
 
 ## 75
 
@@ -409,32 +274,13 @@ All the *viṣṇu-tattvas* are like lamps: they are full of light and have the 
 
 Parīkṣit asked how the *rājasic* creations arose from the Vairāja Puruṣa. In answer Śukadeva speaks this verse at the start of his explanation of the *catuḥ-ślokī*, the four verses.
 
-- **atra** — here, in the *Śrīmad-Bhāgavatam*.
-- **sargaḥ** — the birth of the elements, the subtle elements, the senses and the intelligence.
-- **visargaḥ** — the imbalance of the modes in Brahmā's creation.
-- **sthānam** — maintenance (*sthiti*). This is Bhagavān's victory: His excellence shows in the fact that everything created keeps within its bounds.
-- **poṣaṇam** — His mercy to His devotees.
-- **ūtayaḥ** — the desires that impel one to karma.
-- **manvantara** — the *manvantaras*, that is, the *dharma* of goodness.
-- **īśānukathāḥ** — the narratives of Hari's avatāras.
-- **nirodhaḥ** — withdrawal: the world, together with the potencies, lies down to sleep following the Self.
-- **muktiḥ** — abiding in the pure state.
-- **āśrayaḥ** — the Parabrahman, the Paramātmā, the cause of creation, maintenance and dissolution.
+**atra** (here, in the *Śrīmad-Bhāgavatam*) **sargaḥ** (the birth of the elements, the subtle elements, the senses and the intelligence) **visargaḥ** (the imbalance of the modes in Brahmā's creation) **sthānam** (maintenance [*sthiti*]. This is Bhagavān's victory: His excellence shows in the fact that everything created keeps within its bounds) **poṣaṇam** (His mercy to His devotees) **ūtayaḥ** (the desires that impel one to karma) **manvantara** (the *manvantaras*, that is, the *dharma* of goodness) **īśānukathāḥ** (the narratives of Hari's avatāras) **nirodhaḥ** (withdrawal: the world, together with the potencies, lies down to sleep following the Self) **muktiḥ** (abiding in the pure state) **āśrayaḥ** (the Parabrahman, the Paramātmā, the cause of creation, maintenance and dissolution).
 
 These are the ten subjects.
 
 ## 92
 
-- **mahātmānaḥ** — the great souls, Vidura and others.
-- **iha** — here, in the Purāṇa *Śrīmad-Bhāgavatam*.
-- **daśamasya** — of the tenth, that is, of the *āśraya*.
-- **viśuddhy-artham** — for clear knowledge, that is, knowledge of the truth.
-- **navānām** — of the nine [subjects].
-- **lakṣaṇam** — the nature.
-- **śrutena** — by the word that names them directly.
-- **añjasā** — directly.
-- **arthena** — by the meaning.
-- **varṇayanti** — describe.
+**mahātmānaḥ** (the great souls, Vidura and others) **iha** (here, in the Purāṇa *Śrīmad-Bhāgavatam*) **daśamasya** (of the tenth, that is, of the *āśraya*) **viśuddhy-artham** (for clear knowledge, that is, knowledge of the truth) **navānām** (of the nine [subjects]) **lakṣaṇam** (the nature) **śrutena** (by the word that names them directly) **añjasā** (directly) **arthena** (by the meaning) **varṇayanti** (describe).
 
 1. *Sarga* — the arising of the five great elements, the five *tanmātras* (subtle elements), the ten senses, the mind, the *mahat-tattva* and false ego (*ahaṅkāra*), both in the form of the Virāṭ and in their own nature.
 2. *Visarga* — Brahmā's creation of the moving and the unmoving.
@@ -451,14 +297,7 @@ These are the ten subjects.
 
 > Subheading: (from the *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 10.1.1)
 
-- **daśame** — in the Tenth Canto of the *Śrīmad-Bhāgavatam*.
-- **āśritāśraya-vigraham** — the form who is the shelter of the *āśritas*, the surrendered souls.
-- **daśamam** — the tenth, that is, the *āśraya-tattva*.
-- **lakṣyam** — is pointed out.
-- **tat paraṁ dhāma** — that supreme abode, the best shelter,
-- **jagad-dhāma** — the abode of the universe, the shelter of all,
-- **śrī-kṛṣṇākhyam** — named Śrī Kṛṣṇa,
-- **namāmi** — I worship.
+**daśame** (in the Tenth Canto of the *Śrīmad-Bhāgavatam*) **āśritāśraya-vigraham** (the form who is the shelter of the *āśritas*, the surrendered souls) **daśamam** (the tenth, that is, the *āśraya-tattva*) **lakṣyam** (is pointed out) **tat paraṁ dhāma** (that supreme abode, the best shelter), **jagad-dhāma** (the abode of the universe, the shelter of all), **śrī-kṛṣṇākhyam** (named Śrī Kṛṣṇa), **namāmi** (I worship).
 
 ## 96
 
@@ -494,13 +333,7 @@ This one Supreme Truth, by the power of a natural potency beyond human understan
 
 > Subheading: (*Brahma-saṁhitā* 5.1)
 
-- **kṛṣṇaḥ** — Kṛṣṇa, Vrajendranandana.
-- **paramaḥ īśvaraḥ** — the Supreme Lord. He is the Master of all: of Baladeva, Nārāyaṇa, Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; of the *puruṣa-avatāras*, the Paramātmās who lie in the three oceans — Kāraṇa, Garbha and Kṣīrārṇava; of the *naimittika-avatāras* — Matsya, Kūrma, Varāha, Rāma, Nṛsiṁha and others; of the *guṇa-avatāras* — Brahmā, Śiva and others; of the impersonal Brahman; and of the *vibhūti-avatāras* — Mahendra and the rest.
-- **sac-cid-ānanda-vigrahaḥ** — the form of being, consciousness and bliss, endowed with three potencies: *sandhinī*, *saṁvit* and *hlādinī*.
-- **anādiḥ** — without beginning; of Him it is said, “I alone was in the beginning.”
-- **ādiḥ** — the original form of all.
-- **sarva-kāraṇa-kāraṇam** — the cause, the root, of all causes.
-- **govindaḥ** — Govinda.
+**kṛṣṇaḥ** (Kṛṣṇa, Vrajendranandana) **paramaḥ īśvaraḥ** (the Supreme Lord. He is the Master of all: of Baladeva, Nārāyaṇa, Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; of the *puruṣa-avatāras*, the Paramātmās who lie in the three oceans — Kāraṇa, Garbha and Kṣīrārṇava; of the *naimittika-avatāras* — Matsya, Kūrma, Varāha, Rāma, Nṛsiṁha and others; of the *guṇa-avatāras* — Brahmā, Śiva and others; of the impersonal Brahman; and of the *vibhūti-avatāras* — Mahendra and the rest) **sac-cid-ānanda-vigrahaḥ** (the form of being, consciousness and bliss, endowed with three potencies: *sandhinī*, *saṁvit* and *hlādinī*) **anādiḥ** (without beginning; of Him it is said, “I alone was in the beginning.”) **ādiḥ** (the original form of all) **sarva-kāraṇa-kāraṇam** (the cause, the root, of all causes) **govindaḥ** (Govinda).
 
 ## 109
 

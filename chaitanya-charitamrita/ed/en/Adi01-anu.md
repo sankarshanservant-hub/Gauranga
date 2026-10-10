@@ -85,38 +85,19 @@ At the very beginning the author wrote fourteen verses as the *maṅgalācaraṇ
 
 *Verses composed by the author himself —*
 
-- **paṅgoḥ** — of one who cannot go elsewhere on his own feet, by his own strength.
-- **manda-mateḥ** — of one whose small intelligence is absorbed in sense objects; of one who makes no effort in practices driven by other desires, karma, jñāna and the like; of one devoted exclusively (*ekāntin*).
-- **mama gatī** — my refuge: such are They for me. *Gati* is “that toward which one goes” (*gamyate*), that is, a shelter.
-- **mat-sarvasva-padāmbhojau** — They whose lotus feet are all my wealth.
-- **suratau** — merciful; or, boundlessly attached to each other.
-- **rādhā-madana-mohanau** — the Deities who bear these names.
-- **jayatām** — may They abide in all Their supremacy.
+**paṅgoḥ** (of one who cannot go elsewhere on his own feet, by his own strength) **manda-mateḥ** (of one whose small intelligence is absorbed in sense objects; of one who makes no effort in practices driven by other desires, karma, jñāna and the like; of one devoted exclusively [*ekāntin*]) **mama gatī** (my refuge: such are They for me. *Gati* is “that toward which one goes” [*gamyate*], that is, a shelter) **mat-sarvasva-padāmbhojau** (They whose lotus feet are all my wealth) **suratau** (merciful; or, boundlessly attached to each other) **rādhā-madana-mohanau** (the Deities who bear these names) **jayatām** (may They abide in all Their supremacy).
 
 ## 16
 
 > Subheading: Obeisance to his own cherished Deity, the Lord of *abhidheya* (the means) —
 
-- **dīvyad-vṛndāraṇya-kalpa-drumādhaḥ** — at the foot of the wish-fulfilling tree in the radiant forest of Vṛndāvana. “Radiant” means supremely beautiful and enchanting to the mind.
-- **śrīmad-ratnāgāra-siṁhāsana-sthau** — seated on a jewelled throne within a jewelled chamber of wondrous beauty.
-- **preṣṭhālībhiḥ** — by Their dearest companions, devoted to service: the intimate confidantes (*priya-narma-sakhīs*) led by Śrī Lalitā, who are surrounded by Śrī Rūpa-mañjarī and others.
-- **sevyamānau** — Those whom they serve.
-- **śrī-śrī-rādhā-śrīla-govinda-devau smarāmi** — I remember Śrī Śrī Rādhā and Śrīla Govindadeva.
+**dīvyad-vṛndāraṇya-kalpa-drumādhaḥ** (at the foot of the wish-fulfilling tree in the radiant forest of Vṛndāvana. “Radiant” means supremely beautiful and enchanting to the mind) **śrīmad-ratnāgāra-siṁhāsana-sthau** (seated on a jewelled throne within a jewelled chamber of wondrous beauty) **preṣṭhālībhiḥ** (by Their dearest companions, devoted to service: the intimate confidantes [*priya-narma-sakhīs*] led by Śrī Lalitā, who are surrounded by Śrī Rūpa-mañjarī and others) **sevyamānau** (Those whom they serve) **śrī-śrī-rādhā-śrīla-govinda-devau smarāmi** (I remember Śrī Śrī Rādhā and Śrīla Govindadeva).
 
 ## 17
 
 > Subheading: Obeisance to his own cherished Deity, the Lord of *prayojana* (the goal) —
 
-- **śrīmān** — He whose form is full of supreme beauty.
-- **rāsa-rasārambhī** — He who begins the rapturous *rāsa* dance.
-- **veṇu-svanaiḥ** — with the sounds of His flute.
-- **gopīḥ** — the gopīs, the young cowherd women of Vraja.
-- **karṣan** — drawing. He loosens in them every desire unrelated to Kṛṣṇa and, by the rope of *prema* that is His flute's sound, draws them out of their homes.
-- **vaṁśīvaṭa-taṭa-sthitaḥ** — standing at the foot of the Vaṁśīvaṭa tree.
-- **gopī-nāthaḥ** — He who sports freely.
-- **naḥ** — for us.
-- **śriye** — for the wealth of *prema*.
-- **astu** — may He be.
+**śrīmān** (He whose form is full of supreme beauty) **rāsa-rasārambhī** (He who begins the rapturous *rāsa* dance) **veṇu-svanaiḥ** (with the sounds of His flute) **gopīḥ** (the gopīs, the young cowherd women of Vraja) **karṣan** (drawing. He loosens in them every desire unrelated to Kṛṣṇa and, by the rope of *prema* that is His flute's sound, draws them out of their homes) **vaṁśīvaṭa-taṭa-sthitaḥ** (standing at the foot of the Vaṁśīvaṭa tree) **gopī-nāthaḥ** (He who sports freely) **naḥ** (for us) **śriye** (for the wealth of *prema*) **astu** (may He be).
 
 ## 19
 
@@ -138,15 +119,7 @@ The word *guru-dvaya* (“two gurus”) means the *dīkṣā-guru* and the *śik
 
 ## 34
 
-- (**grantha-kāraḥ** — the author of the book, that is, I, Kṛṣṇadāsa.)
-- **gurūn** — the host of gurus, that is, those who show the way, give the mantra and instruct: Śrī Nityānanda, Raghunātha, Rūpa and others.
-- **īśa-bhaktān** — the servants of Gaura-Kṛṣṇa: Śrīvāsa and others.
-- **kṛṣṇa-caitanya-saṁjñakam īśam** — Bhagavān, known as Kṛṣṇa Caitanya.
-- **īśāvatārakān** — Śrī Advaitācārya and others.
-- **tat-prakāśān** — His manifestations, that is, those of Caitanya-Kṛṣṇa: Śrī Nityānanda and others, my own gurus.
-- **tac-chaktīḥ** — His potencies, that is, those of Gaura-Kṛṣṇa: Śrī Gadādhara, Dāmodara, Jagadānanda and others.
-- (These six truths are non-different from Him and form His surrounding retinue, His *āvaraṇa*.)
-- **vande** — (I) worship.
+(**grantha-kāraḥ** (the author of the book, that is, I, Kṛṣṇadāsa)) **gurūn** (the host of gurus, that is, those who show the way, give the mantra and instruct: Śrī Nityānanda, Raghunātha, Rūpa and others) **īśa-bhaktān** (the servants of Gaura-Kṛṣṇa: Śrīvāsa and others) **kṛṣṇa-caitanya-saṁjñakam īśam** (Bhagavān, known as Kṛṣṇa Caitanya) **īśāvatārakān** (Śrī Advaitācārya and others) **tat-prakāśān** (His manifestations, that is, those of Caitanya-Kṛṣṇa: Śrī Nityānanda and others, my own gurus) **tac-chaktīḥ** (His potencies, that is, those of Gaura-Kṛṣṇa: Śrī Gadādhara, Dāmodara, Jagadānanda and others) (These six truths are non-different from Him and form His surrounding retinue, His *āvaraṇa*) **vande** ([I] worship).
 
 ## 35
 
@@ -206,14 +179,7 @@ Everyone except Mahāprabhu Caitanyadeva is His servant. So in the guru no manif
 
 Uddhava heard about *svadharma*, one's true duty, both for those who follow *varṇāśrama* and for others; its defining mark is devotion to Kṛṣṇa. He then asked Bhagavān how to practise this devotion. The Lord describes the nature of each *varṇa*. Speaking of the *brahmacārī*'s life in the guru's house, He tells how one should behave toward the guru:
 
-- **ācāryam** — the guru.
-- **mām** — as My dearest one.
-- **vijānīyāt** — one should know.
-- **karhicit** — ever.
-- **na avamanyeta** — one should not reproach, even if there is a reason.
-- **guruḥ sarva-deva-mayaḥ** — (for) the guru embodies all the gods.
-- **martya-buddhyā** — (him) with an intellect bound by conditioned, material place, time and person.
-- **na asūyeta** — one should not, growing envious through one's own material dullness, think him equal to oneself.
+**ācāryam** (the guru) **mām** (as My dearest one) **vijānīyāt** (one should know) **karhicit** (ever) **na avamanyeta** (one should not reproach, even if there is a reason) **guruḥ sarva-deva-mayaḥ** ([for] the guru embodies all the gods) **martya-buddhyā** ([him] with an intellect bound by conditioned, material place, time and person) **na asūyeta** (one should not, growing envious through one's own material dullness, think him equal to oneself).
 
 *Ācārya*: “The twice-born who performs the *upanayana* rite for a disciple and teaches him the Veda with its rituals and secret portions is called an ācārya.” (*Manu-saṁhitā* 2.140). “He who gathers the meaning of the scriptures, establishes others in right conduct and himself acts accordingly is called an ācārya.” (*Vāyu Purāṇa*).
 
@@ -233,22 +199,7 @@ He who teaches worship (*bhajana*) is the *śikṣā-guru*. One who is without w
 
 Uddhava had heard the scripture of yoga in detail and saw that the path of yoga is very difficult. He wishes to hear from Bhagavān briefly about *bhakti-yoga*, and he says to Him:
 
-- **īśa** — O Lord.
-- **tava kṛtam** — the kindness You have done.
-- **smarantaḥ** — thinking of it.
-- **ṛddha-mudaḥ** — those whose supreme bliss has grown.
-- **kavayaḥ** — the discerning.
-- **brahmāyuṣā api** — even with a lifespan equal to Brahmā's, spent worshipping You.
-- **apacitim** — repayment, that is, discharge of the debt.
-- **naiva upayanti** — do not attain.
-- **yaḥ** — (for) You.
-- **bahiḥ ācārya-vapuṣā** — outwardly in the form of the ācārya, that is, as the *mantra-guru* or the *śikṣā-guru*.
-- **antaḥ caitya-vapuṣā** — inwardly in the form of the indwelling Lord (*antaryāmī*).
-- **tanubhṛtām** — of embodied living beings.
-- **aśubham** — what is inauspicious, that is, absorption in objects other than Kṛṣṇa.
-- **vidhunvan** — dispelling.
-- **sva-gatim** — their own path, that is, their true nature, marked by being the Lord's associate.
-- **vyanakti** — You reveal.
+**īśa** (O Lord) **tava kṛtam** (the kindness You have done) **smarantaḥ** (thinking of it) **ṛddha-mudaḥ** (those whose supreme bliss has grown) **kavayaḥ** (the discerning) **brahmāyuṣā api** (even with a lifespan equal to Brahmā's, spent worshipping You) **apacitim** (repayment, that is, discharge of the debt) **naiva upayanti** (do not attain) **yaḥ** ([for] You) **bahiḥ ācārya-vapuṣā** (outwardly in the form of the ācārya, that is, as the *mantra-guru* or the *śikṣā-guru*) **antaḥ caitya-vapuṣā** (inwardly in the form of the indwelling Lord [*antaryāmī*]) **tanubhṛtām** (of embodied living beings) **aśubham** (what is inauspicious, that is, absorption in objects other than Kṛṣṇa) **vidhunvan** (dispelling) **sva-gatim** (their own path, that is, their true nature, marked by being the Lord's associate) **vyanakti** (You reveal).
 
 ## 49
 
@@ -256,11 +207,7 @@ Uddhava had heard the scripture of yoga in detail and saw that the path of yoga 
 
 There are wise devotees (*paṇḍitas*) who know that everything arises and acts from Bhagavān. They are fixed in unwavering *bhakti-yoga* and worship Him; their minds are turned to Kṛṣṇa, and Kṛṣṇa is their life. They share their feelings with one another and speak about Hari; so they please Kṛṣṇa and delight in Him. Of them Kṛṣṇa says to Arjuna:
 
-- **teṣām satata-yuktānām** — of those who always long to be joined with Me in service.
-- **prīti-pūrvakam** — with love, with reverence.
-- **bhajatām** — who serve: those who have given up other desires, karma and jñāna and are devoted to serving Hari.
-- **tam buddhi-yogam dadāmi** — I give that *buddhi-yoga*, that is, I Myself awaken it in the movements of their hearts.
-- **yena te mām upayānti** — by which they attain Me.
+**teṣām satata-yuktānām** (of those who always long to be joined with Me in service) **prīti-pūrvakam** (with love, with reverence) **bhajatām** (who serve: those who have given up other desires, karma and jñāna and are devoted to serving Hari) **tam buddhi-yogam dadāmi** (I give that *buddhi-yoga*, that is, I Myself awaken it in the movements of their hearts) **yena te mām upayānti** (by which they attain Me).
 
 (The sense: this *buddhi-yoga* cannot be gained by oneself or from anyone else; I alone can give it, and only they, such devotees, can receive it.)
 
@@ -270,87 +217,41 @@ There are wise devotees (*paṇḍitas*) who know that everything arises and act
 
 Brahmā resolved to create and sank into deep thought. He heard a divine voice say “*Tapa*” (austerity), and he gave himself sincerely to austerity. Viṣṇu became pleased with him, and Brahmā beheld Vaikuṇṭha. There he was freed from pride and began to inquire about the truth, and Bhagavān spoke six verses. See the *Gauḍīya-bhāṣya* on the *Bhāgavatam*, pp. 577–629.
 
-- **me** — My, that is, Bhagavān's.
-- **jñānam parama-guhyam** — knowledge that surpasses even knowledge of the impersonal Brahman and the like.
-- **vijñāna-samanvitam** — joined with realization (*vijñāna*). I give you not merely knowledge of My form, but knowledge joined with *vijñāna*, the realization of Kṛṣṇa and of all that belongs to Kṛṣṇa.
-- **sa-rahasyam** — with its mystery. If there is anything secret in it, that comes too, namely *prema-bhakti*.
-- **tad-aṅgam ca** — and with its limb: *sādhana-bhakti-yoga*, which consists of hearing and the rest and aids knowledge of *sambandha*.
-- **mayā gaditam** — spoken by Me. You did not ask about these three, yet I speak of them out of mercy, and no one else has spoken of them.
-- **sat gṛhāṇa** — accept.
+**me** (My, that is, Bhagavān's) **jñānam parama-guhyam** (knowledge that surpasses even knowledge of the impersonal Brahman and the like) **vijñāna-samanvitam** (joined with realization [*vijñāna*]. I give you not merely knowledge of My form, but knowledge joined with *vijñāna*, the realization of Kṛṣṇa and of all that belongs to Kṛṣṇa) **sa-rahasyam** (with its mystery. If there is anything secret in it, that comes too, namely *prema-bhakti*) **tad-aṅgam ca** (and with its limb: *sādhana-bhakti-yoga*, which consists of hearing and the rest and aids knowledge of *sambandha*) **mayā gaditam** (spoken by Me. You did not ask about these three, yet I speak of them out of mercy, and no one else has spoken of them) **sat gṛhāṇa** (accept).
 
 ## 52
 
-- **yāvān** — of what size and shape. That is, what My form is like, its limbs joined in a particular harmony of fullness, slenderness, length, height and the rest, and what My measure is in My own nature.
-- **aham yathā-bhāvaḥ** — what My being is, what My characteristics are.
-- **aham yad-rūpa-guṇa-karmakaḥ** — He who has these forms, qualities and deeds. The forms are the dark, the four-armed, the two-armed and the golden, the form of Kṛṣṇa, of Rāma, of Nṛsiṁha and others. The qualities are love for the devotees and others. The deeds are accepting Lakṣmī, lifting Govardhana and others.
-- **tathaiva** — just so, in every respect.
-- **tattva-vijñānam** — realization of their truth.
-- **mad-anugrahāt** — by My mercy.
-- **te** — to you.
-- **astu** — may it be.
+**yāvān** (of what size and shape. That is, what My form is like, its limbs joined in a particular harmony of fullness, slenderness, length, height and the rest, and what My measure is in My own nature) **aham yathā-bhāvaḥ** (what My being is, what My characteristics are) **aham yad-rūpa-guṇa-karmakaḥ** (He who has these forms, qualities and deeds. The forms are the dark, the four-armed, the two-armed and the golden, the form of Kṛṣṇa, of Rāma, of Nṛsiṁha and others. The qualities are love for the devotees and others. The deeds are accepting Lakṣmī, lifting Govardhana and others) **tathaiva** (just so, in every respect) **tattva-vijñānam** (realization of their truth) **mad-anugrahāt** (by My mercy) **te** (to you) **astu** (may it be).
 
 (As *sādhana-bhakti* and *prema-bhakti* grow in you, you will realize ever more of the sweetness of My form, qualities and *līlās*. So you will directly realize Me in the land of Vraja — Kṛṣṇa, supremely hard to attain, whose sweetness surpasses even My own form.) (This by itself refutes the view that the four verses point to the impersonal.)
 
 ## 53
 
-- **aham** — the word *aham* (“I”) denotes the speaker, the one who has form, not the impersonal Brahman, for that cannot be its object. If knowledge of the self (*ātmā*) were meant, then, as in *tat tvam asi* (“you are that”), it would have been proper to say *tvam eva asīḥ* (“you alone were”). I am that most enchanting divine form (*śrī-vigraha*) who now appears before you.
-- **eva agre** — before creation, even at the time of the great dissolution.
-- **āsam** — I was.
-- **anyat na** — nothing else was. So say the Śrutis: “Vāsudeva alone was, neither Brahmā nor Śaṅkara,” “Nārāyaṇa alone was, neither Brahmā nor Īśāna,” and so on. Vaikuṇṭha, His associates and the rest are His inseparable part, so the same word *aham* includes them, just as the phrase “the king is setting out” includes his retinue.[^53-1]
-- **sad-asat-param** — beyond *sat* and *asat*. *Sat* is the effect, *asat* the cause.
-- **yat** — that, that is, Brahman.
-- **tat anyat na** — is not other than Me. Or else: at that time, since there was no variety in the cosmos, I was in the form of pure, attributeless spirit, and in Vaikuṇṭha in the form of Bhagavān with attributes.
-- **paścāt** — and after creation.
-- **aham** — I alone am: in Vaikuṇṭha as Bhagavān and other forms, in the worlds as the indwelling Lord and other forms.
-- **yad etat** — this universe.
-- **tat api aham eva asmi** — that too is only I, for the universe is not other than Me and is Mine by nature.
-- **yo 'vaśiṣyeta so 'ham eva asmi** — (and at dissolution) what remains is I.
+**aham** (the word *aham* [“I”] denotes the speaker, the one who has form, not the impersonal Brahman, for that cannot be its object. If knowledge of the self [*ātmā*] were meant, then, as in *tat tvam asi* [“you are that”], it would have been proper to say *tvam eva asīḥ* [“you alone were”]. I am that most enchanting divine form [*śrī-vigraha*] who now appears before you) **eva agre** (before creation, even at the time of the great dissolution) **āsam** (I was) **anyat na** (nothing else was. So say the Śrutis: “Vāsudeva alone was, neither Brahmā nor Śaṅkara,” “Nārāyaṇa alone was, neither Brahmā nor Īśāna,” and so on. Vaikuṇṭha, His associates and the rest are His inseparable part, so the same word *aham* includes them, just as the phrase “the king is setting out” includes his retinue.[^53-1]) **sad-asat-param** (beyond *sat* and *asat*. *Sat* is the effect, *asat* the cause) **yat** (that, that is, Brahman) **tat anyat na** (is not other than Me. Or else: at that time, since there was no variety in the cosmos, I was in the form of pure, attributeless spirit, and in Vaikuṇṭha in the form of Bhagavān with attributes) **paścāt** (and after creation) **aham** (I alone am: in Vaikuṇṭha as Bhagavān and other forms, in the worlds as the indwelling Lord and other forms) **yad etat** (this universe) **tat api aham eva asmi** (that too is only I, for the universe is not other than Me and is Mine by nature) **yo 'vaśiṣyeta so 'ham eva asmi** ([and at dissolution] what remains is I).
 
 (The sense: the form of Śrī Kṛṣṇa's eternal *līlās* is not limited by time and the like, and He is manifest at all times.)
 
 ## 54
 
-- **artham** — the highest reality.
-- **mām ṛte** — without Me.
-- **yat pratīyeta** — what is perceived. When I am perceived it is not perceived, so it is perceived only outside Me.
-- **yac ca ātmani na pratīyeta** — and what is not perceived without resting on Me, that is, is not perceived by itself.
-- **tat** — a thing with these marks.
-- **ātmanaḥ** — of Me, the Supreme Lord.
-- **yathābhāsaḥ** — like *ābhāsa*, a reflection. *Ābhāsa* is a particular reflection of a luminary, somehow cast onto a place beyond its own light. It is perceived only outside the luminary, yet without the luminary it cannot be perceived at all.
-- **yathā tamaḥ** — like darkness. Here the word *tamas* means a play of colours close to darkness. It does not exist in the light that is its source, yet it cannot exist without resting on that light.
-- **māyām** — so too this potency called *māyā*, which is twofold: *jīva-māyā* and *guṇa-māyā*.
-- **vidyāt** — one should know.
+**artham** (the highest reality) **mām ṛte** (without Me) **yat pratīyeta** (what is perceived. When I am perceived it is not perceived, so it is perceived only outside Me) **yac ca ātmani na pratīyeta** (and what is not perceived without resting on Me, that is, is not perceived by itself) **tat** (a thing with these marks) **ātmanaḥ** (of Me, the Supreme Lord) **yathābhāsaḥ** (like *ābhāsa*, a reflection. *Ābhāsa* is a particular reflection of a luminary, somehow cast onto a place beyond its own light. It is perceived only outside the luminary, yet without the luminary it cannot be perceived at all) **yathā tamaḥ** (like darkness. Here the word *tamas* means a play of colours close to darkness. It does not exist in the light that is its source, yet it cannot exist without resting on that light) **māyām** (so too this potency called *māyā*, which is twofold: *jīva-māyā* and *guṇa-māyā*) **vidyāt** (one should know).
 
 ## 55
 
-- **yathā mahānti bhūtāni** — as the great elements, ether and the rest.
-- **uccāvaceṣu bhūteṣu** — in higher and lower beings: gods, humans, animals and others.
-- **apra-viṣṭāni** — though situated outside.
-- **anupraviṣṭāni** — appear to be within.
-- **tathā** — so too (though I have not entered, for I abide in Vaikuṇṭha, beyond the worlds).
-- **aham teṣu** — I, in those renowned for the corresponding qualities.
-- **nateṣu** — in those who bow down to Me.
-- **praviṣṭaḥ** — have entered: I abide in the heart to show Myself to their inner sight.
+**yathā mahānti bhūtāni** (as the great elements, ether and the rest) **uccāvaceṣu bhūteṣu** (in higher and lower beings: gods, humans, animals and others) **apra-viṣṭāni** (though situated outside) **anupraviṣṭāni** (appear to be within) **tathā** (so too [though I have not entered, for I abide in Vaikuṇṭha, beyond the worlds]) **aham teṣu** (I, in those renowned for the corresponding qualities) **nateṣu** (in those who bow down to Me) **praviṣṭaḥ** (have entered: I abide in the heart to show Myself to their inner sight).
 
 In the same way, without entering, I also abide outside. I do this to give their eyes My beauty and their nostrils My fragrance; to converse with them and fill their ears with the nectar of My sweet voice; and by touch, embrace and the like to let their bodies feel the tenderness, sweetness and other graces of My body. These devotees are beyond the *guṇas*, and I cannot leave them, either within or without: My play with them is always full of attachment. This shows that the “mystery” is their *prema-bhakti*, which brings Me so under their control.
 
 ## 56
 
-- **ātmanaḥ** — of Me, Bhagavān.
-- **tattva-jijñāsunā** — by one who wishes to realize what truly brings about his good.
-- **etāvad eva jijñāsyam** — this alone should be learned at the feet of Śrī Guru.
+**ātmanaḥ** (of Me, Bhagavān) **tattva-jijñāsunā** (by one who wishes to realize what truly brings about his good) **etāvad eva jijñāsyam** (this alone should be learned at the feet of Śrī Guru).
 
 (What is it?)
 
-- **yat** — that one reality which…
-- **anvaya-vyatirekābhyām** — through injunctions and prohibitions…
-- **sarvadā sarvatra syāt** — exists always and everywhere.
+**yat** (that one reality which…) **anvaya-vyatirekābhyām** (through injunctions and prohibitions…) **sarvadā sarvatra syāt** (exists always and everywhere).
 
 (If one asks which of heaven, liberation and *prema* is one's own good, the answer is: *prema* is established by its own *anvaya* and *vyatireka*, whereas heaven and liberation are not established by them.) (That is: of all that is to be learned, this alone should be learned. What is it?)
 
-- **anvaya-vyatirekābhyām** — through union and separation, that is, through *sambhoga* and *vipralambha*.
-- **yat syāt sarvatra** — what exists everywhere: in Śrī Vṛndāvana and the other abodes beyond all the universes — in the servants, friends, elders and beloveds.
-- **sarvadā** — eternally, even at the time of the great dissolution.
+**anvaya-vyatirekābhyām** (through union and separation, that is, through *sambhoga* and *vipralambha*) **yat syāt sarvatra** (what exists everywhere: in Śrī Vṛndāvana and the other abodes beyond all the universes — in the servants, friends, elders and beloveds) **sarvadā** (eternally, even at the time of the great dissolution).
 
 (This points to the relishing of the four *rasas* of servitude, friendship, parental love and amorous love: *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*.)
 
@@ -360,16 +261,7 @@ In the same way, without entering, I also abide outside. I do this to give their
 
 The book *Śrī Vallabha-digvijaya* places the time of Śrī Bilvamaṅgala — a Draviḍian king of ascetics, a *tridaṇḍī* — in the eighth century of the Śaka era. Bilvamaṅgala is mentioned as the chief disciple of Rāja-Viṣṇusvāmī, who installed the Deity of Dvārakādhīśa. Bilvamaṅgala's disciples were Devamaṅgala and others. Bilvamaṅgala worshipped for seven hundred years in Vṛndāvana at Brahma-kuṇḍa. After his meeting with Vallabha Bhaṭṭa, the worship of his Deity was entrusted to Hari Brahmacārī. Bilvamaṅgala's name also appears in the list of the Dvārakā *maṭha* of Śaṅkara's sampradāya: “Citsukhācārya (Kali era 2715), Bilvamaṅgala.” Līlāśuka Śrī Bilvamaṅgala Ṭhākura longed to enter the transcendental *līlās* of Vṛndāvana. At the beginning of his song *Śrī Kṛṣṇa-karṇāmṛta* he glorifies three kinds of guru:
 
-- **me** — my.
-- **guruḥ** — the *śravaṇa-guru*, who shows the way.
-- **cintāmaṇiḥ jayati** — Cintāmaṇi — may this guru be glorified.
-- **somagiriḥ** — (the *mantra-guru*) Somagiri (may he be glorified).
-- **śikṣā-guruḥ śikhi-piñcha-mauliḥ** — (the *caitya*) *śikṣā-guru*, He whose crown ornament is a peacock feather.
-- **bhagavān** — Vṛndāvana-candra (may He be glorified).
-- **yat-pāda-kalpa-taru-pallava-śekhareṣu** — at the toenail tips on His feet, which are shoots of the wish-fulfilling tree.
-- **jaya-śrīḥ** — She who is both Jayā and Śrī, that is, Mahālakṣmī, the Queen of Vṛndāvana.
-- **līlā-svayam-vara-rasam** — the sweetness, the joy, of a *svayaṁvara* (free choice) enacted in play, with deep *anurāga*.
-- **labhate** — attains.
+**me** (my) **guruḥ** (the *śravaṇa-guru*, who shows the way) **cintāmaṇiḥ jayati** (Cintāmaṇi — may this guru be glorified) **somagiriḥ** ([the *mantra-guru*] Somagiri [may he be glorified]) **śikṣā-guruḥ śikhi-piñcha-mauliḥ** ([the *caitya*] *śikṣā-guru*, He whose crown ornament is a peacock feather) **bhagavān** (Vṛndāvana-candra [may He be glorified]) **yat-pāda-kalpa-taru-pallava-śekhareṣu** (at the toenail tips on His feet, which are shoots of the wish-fulfilling tree) **jaya-śrīḥ** (She who is both Jayā and Śrī, that is, Mahālakṣmī, the Queen of Vṛndāvana) **līlā-svayam-vara-rasam** (the sweetness, the joy, of a *svayaṁvara* [free choice] enacted in play, with deep *anurāga*) **labhate** (attains).
 
 ## 58
 
@@ -383,15 +275,7 @@ The conditioned *jīva* cannot see Kṛṣṇa directly. Therefore Kṛṣṇa a
 
 Urvaśī left Purūravā and went away. Beside himself with grief, he lamented for a whole year; then he gained discernment and understood the fruits of bad company. Śrī Bhagavān tells this story to Uddhava:
 
-- **tataḥ duḥsaṅgam** — bad company: the company of women and of those who keep company with women.
-- **utsṛjya** — leaving far behind.
-- **buddhimān** — one who discerns *sat* from *asat*.
-- **satsu sajjeta** — should associate wholeheartedly with Hari's detached servants.
-- **santaḥ** — (for) the sādhus.
-- **asya** — of one absorbed in sense objects.
-- **mano-vyāsaṅgam** — the mind's perverse attachment.
-- **uktibhiḥ** — by their good instructions.
-- **chindanti** — destroy.
+**tataḥ duḥsaṅgam** (bad company: the company of women and of those who keep company with women) **utsṛjya** (leaving far behind) **buddhimān** (one who discerns *sat* from *asat*) **satsu sajjeta** (should associate wholeheartedly with Hari's detached servants) **santaḥ** ([for] the sādhus) **asya** (of one absorbed in sense objects) **mano-vyāsaṅgam** (the mind's perverse attachment) **uktibhiḥ** (by their good instructions) **chindanti** (destroy).
 
 ## 60
 
@@ -399,18 +283,7 @@ Urvaśī left Purūravā and went away. Beside himself with grief, he lamented f
 
 Devahūti asked her son Kapiladeva what her highest good was, and Kapila replied:
 
-- **satām** — of Hari's servants.
-- **prasaṅgāt** — through excellent association.
-- **mama vīrya-saṁvidaḥ** — those in which My power is rightly understood.
-- **hṛt-karṇa-rasāyanāḥ** — an elixir for the heart and ears: delightful to hearing and mind, giving happiness.
-- **kathāḥ bhavanti** — narratives arise.
-- **taj-joṣaṇāt** — by serving them.
-- **apavarga-vartmani** — toward Hari, on the path to whom ignorance ceases.
-- **śraddhā** — (first) faith.
-- **ratiḥ** — (then) *bhāva*.
-- **bhaktiḥ** — (then) *prema*.
-- **āśu** — soon.
-- **anukramiṣyati** — will come one after another.
+**satām** (of Hari's servants) **prasaṅgāt** (through excellent association) **mama vīrya-saṁvidaḥ** (those in which My power is rightly understood) **hṛt-karṇa-rasāyanāḥ** (an elixir for the heart and ears: delightful to hearing and mind, giving happiness) **kathāḥ bhavanti** (narratives arise) **taj-joṣaṇāt** (by serving them) **apavarga-vartmani** (toward Hari, on the path to whom ignorance ceases) **śraddhā** ([first] faith) **ratiḥ** ([then] *bhāva*) **bhaktiḥ** ([then] *prema*) **āśu** (soon) **anukramiṣyati** (will come one after another).
 
 (First comes faith, then the company of sādhus. Through that company one hears these narratives, and an inclination to serve arises — the activity of worship. Then, through excellent association, come narratives that remove the *anarthas*, the unwanted things in the heart. Next these same narratives produce steadiness (*niṣṭhā*) and so let one understand My greatness. Then they produce taste (*ruci*) and become an elixir for the heart and ears. By serving these narratives and relishing them with love, there will come one after another: faith in Bhagavān, which here means attachment (*āsakti*); *rati*, which is *bhāva*; and *bhakti*, which is *prema*.)
 
@@ -426,16 +299,7 @@ The one and only nondual reality is the Lord (*Īśvara*). This reality, the Lor
 
 The sage Durvāsā offended the feet of the great devotee Mahārāja Ambarīṣa, and Viṣṇu's disc rushed forth to kill Durvāsā. He sought help from all the gods. At last Bhagavān Viṣṇu advised the sage Durvāsā to beg forgiveness at Ambarīṣa's lotus feet. In truth, with this verse He revealed the supreme greatness of the saintly devotees:
 
-- **sādhavaḥ** — the sādhus.
-- **mahyam hṛdayam** — are My heart, as dear as My life.
-- **sādhūnām tu aham hṛdayam** — and I am the heart of the sādhus.
-- **te** — they, the sādhus.
-- **mad-anyat** — anything other than Me.
-- **na jānanti** — do not know.
-- **aham** — and I.
-- **tebhyaḥ** — apart from them.
-- **manāg api** — even slightly.
-- **anyat na** — (know) nothing else.
+**sādhavaḥ** (the sādhus) **mahyam hṛdayam** (are My heart, as dear as My life) **sādhūnām tu aham hṛdayam** (and I am the heart of the sādhus) **te** (they, the sādhus) **mad-anyat** (anything other than Me) **na jānanti** (do not know) **aham** (and I) **tebhyaḥ** (apart from them) **manāg api** (even slightly) **anyat na** ([know] nothing else).
 
 (The devotees always think of Me alone with all their being. And I always meditate on the devotees, who are wholly devoted to serving Me and have taken shelter at My feet with all their being.)
 
@@ -445,14 +309,7 @@ The sage Durvāsā offended the feet of the great devotee Mahārāja Ambarīṣa
 
 Vidura Mahāśaya had wandered through many holy places and returned to Hastināpura. Mahārāja Yudhiṣṭhira greeted him with this verse:
 
-- **prabho** — O lord.
-- **bhavad-vidhāḥ** — those like you.
-- **bhāgavatāḥ** — devotees, sādhus.
-- **tīrtha-bhūtāḥ** — are themselves holy places.
-- **svāntaḥ-sthena** — by Him who dwells within them.
-- **gadābhṛtā** — by Bhagavān Viṣṇu.
-- **tīrthāni** — the holy places, which through contact with impure people have ceased to be holy.
-- **tīrthī-kurvanti** — make into great holy places again.
+**prabho** (O lord) **bhavad-vidhāḥ** (those like you) **bhāgavatāḥ** (devotees, sādhus) **tīrtha-bhūtāḥ** (are themselves holy places) **svāntaḥ-sthena** (by Him who dwells within them) **gadābhṛtā** (by Bhagavān Viṣṇu) **tīrthāni** (the holy places, which through contact with impure people have ceased to be holy) **tīrthī-kurvanti** (make into great holy places again).
 
 (And your pilgrimage is the good fortune of the holy places themselves.)
 
@@ -484,14 +341,7 @@ Vidura Mahāśaya had wandered through many holy places and returned to Hastinā
 
 > Subheading: (*Śrīmad-Bhāgavatam* 10.69.2)
 
-- **bata** — oh!
-- **etat citram** — this is wonderful.
-- **ekaḥ** — the one Kṛṣṇa.
-- **ekena vapuṣā** — in a single body.
-- **yugapat pṛthag gṛheṣu** — at once in separate palaces.
-- **dvy-aṣṭa-sāhasram** — sixteen thousand.
-- **striyaḥ** — queens.
-- **udāvahat** — married.
+**bata** (oh!) **etat citram** (this is wonderful) **ekaḥ** (the one Kṛṣṇa) **ekena vapuṣā** (in a single body) **yugapat pṛthag gṛheṣu** (at once in separate palaces) **dvy-aṣṭa-sāhasram** (sixteen thousand) **striyaḥ** (queens) **udāvahat** (married).
 
 ## 72
 
@@ -499,33 +349,13 @@ Vidura Mahāśaya had wandered through many holy places and returned to Hastinā
 
 ## 72–74
 
-- **tāsām** — of them, standing in a circle.
-- **dvayor dvayor madhye** — between each two.
-- **praviṣṭena** — by Him who entered in a separate form.
-- **yam** — Śrī Kṛṣṇa, whom.
-- **sva-nikaṭam** — as being close to herself (that is, “He has embraced me alone”).
-- **manyeran** — they thought.
-- **yogeśvareṇa** — by that Kṛṣṇa.
-- **kaṇṭhe gṛhītānām** — of those embraced at the neck from both sides.
-- **gopī-maṇḍala-maṇḍitaḥ** — adorned by the circle of gopīs.
-- **rāsotsavaḥ sampravṛttaḥ** — the festival of the *rāsa* began.
-- **tāvat** — at that very moment.
-- **atyautsukya-bhṛtātmanām** — of those whose minds were deeply stirred by longing to see.
-- **sa-dārāṇām** — with their wives.
-- **divaukasām** — of the gods.
-- **vimāna-śata-saṅkulam** — full, filled, crowded with hundreds of aerial chariots.
-- **abhavat** — (the sky) became.
-- **tataḥ dundubhayo nedur nipetuḥ puṣpa-vṛṣṭayaḥ** — then kettledrums sounded and showers of flowers fell.
+**tāsām** (of them, standing in a circle) **dvayor dvayor madhye** (between each two) **praviṣṭena** (by Him who entered in a separate form) **yam** (Śrī Kṛṣṇa, whom) **sva-nikaṭam** (as being close to herself [that is, “He has embraced me alone”]) **manyeran** (they thought) **yogeśvareṇa** (by that Kṛṣṇa) **kaṇṭhe gṛhītānām** (of those embraced at the neck from both sides) **gopī-maṇḍala-maṇḍitaḥ** (adorned by the circle of gopīs) **rāsotsavaḥ sampravṛttaḥ** (the festival of the *rāsa* began) **tāvat** (at that very moment) **atyautsukya-bhṛtātmanām** (of those whose minds were deeply stirred by longing to see) **sa-dārāṇām** (with their wives) **divaukasām** (of the gods) **vimāna-śata-saṅkulam** (full, filled, crowded with hundreds of aerial chariots) **abhavat** ([the sky] became) **tataḥ dundubhayo nedur nipetuḥ puṣpa-vṛṣṭayaḥ** (then kettledrums sounded and showers of flowers fell).
 
 ## 75
 
 > Subheading: (*Laghu-bhāgavatāmṛta*, first part, 1.21)
 
-- **ekadā** — at one time.
-- **ekasya rūpasya** — of one form.
-- **yā anekatra prakaṭatā** — the manifestation in many places.
-- **sarvathā tat-svarūpaiva** — identical with it in nature in every way, that is, one in shape, qualities, *līlās* and the rest.
-- **sa prakāśa itīryate** — is called *prakāśa*.
+**ekadā** (at one time) **ekasya rūpasya** (of one form) **yā anekatra prakaṭatā** (the manifestation in many places) **sarvathā tat-svarūpaiva** (identical with it in nature in every way, that is, one in shape, qualities, *līlās* and the rest) **sa prakāśa itīryate** (is called *prakāśa*).
 
 ## 76
 
@@ -535,13 +365,7 @@ Vidura Mahāśaya had wandered through many holy places and returned to Hastinā
 
 > Subheading: (*Laghu-bhāgavatāmṛta*, in the description of the *tad-ekātma-rūpa*, 1.15)
 
-- **tasya** — of the original form.
-- **yat svarūpam anyākāram** — a *svarūpa* different in shape, that is, with a different arrangement of the limbs.
-- **vilāsataḥ** — through a particular *līlā*.
-- **prāyeṇa** — less or greater in certain qualities.
-- **ātma-samam** — like its own original form.
-- **śaktyā bhāti** — appears by potency.
-- **sa vilāso nigadyate** — is called *vilāsa*.
+**tasya** (of the original form) **yat svarūpam anyākāram** (a *svarūpa* different in shape, that is, with a different arrangement of the limbs) **vilāsataḥ** (through a particular *līlā*) **prāyeṇa** (less or greater in certain qualities) **ātma-samam** (like its own original form) **śaktyā bhāti** (appears by potency) **sa vilāso nigadyate** (is called *vilāsa*).
 
 ## 78
 
@@ -555,14 +379,7 @@ Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
 
 > Subheading: Explanation of the second of the opening fourteen verses —
 
-- **gauḍodaye** — in the land of Gauḍa, which is the Udayācala, the mountain of sunrise.
-- **sahoditau** — risen at the same time.
-- **puṣpavantau** — the sun and the moon together; and therefore —
-- **citrau** — wondrous.
-- **śan-dau** — bestowing good fortune.
-- **tamo-nudau** — dispelling darkness.
-- **śrī-kṛṣṇa-caitanya-nityānandau** — Śrī Kṛṣṇa Caitanya and Nityānanda.
-- **aham vande** — I worship.
+**gauḍodaye** (in the land of Gauḍa, which is the Udayācala, the mountain of sunrise) **sahoditau** (risen at the same time) **puṣpavantau** (the sun and the moon together; and therefore —) **citrau** (wondrous) **śan-dau** (bestowing good fortune) **tamo-nudau** (dispelling darkness) **śrī-kṛṣṇa-caitanya-nityānandau** (Śrī Kṛṣṇa Caitanya and Nityānanda) **aham vande** (I worship).
 
 ## 85
 
@@ -588,24 +405,7 @@ Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
 
 > Subheading: (*Śrīmad-Bhāgavatam* 1.1.2)
 
-- **mahā-muni-kṛte** — composed by the great sage Śrī Nārāyaṇa.
-- **atra śrīmad-bhāgavate** — in this beautiful *Bhāgavata*.
-- **projjhita-kaitavaḥ** — that from which cheating has been entirely cast out: so *pra-* and *ujjhita* are understood. The cheating is hypocrisy made up of *dharma*, *artha*, *kāma* and *mokṣa* and marked by the pursuit of results. The mark of this dharma is service to Bhagavān alone.
-- **satām** — of Hari's servants.
-- **nirmatsarāṇām** — free from lust, anger, greed, delusion, pride and envy.
-- **paramaḥ** — the highest, for its aim is to set aside the scriptures of karma and jñāna.
-- **dharmaḥ** — dharma (is described).
-- **atra** — in the *Śrīmad-Bhāgavatam*.
-- **tāpa-trayonmūlanam** — uprooting the sins that bring suffering from one's own body and mind, from other beings and from the forces of nature.
-- **śivadam** — bestowing good fortune.
-- **vāstavam** — eternal, supreme, nondual.
-- **vastu vedyam** — the reality to be known.
-- **atra** — in the *Śrīmad-Bhāgavatam*.
-- **śuśrūṣubhiḥ** — by those who wish to hear.
-- **kṛtibhiḥ** — by those endowed with pious merit.
-- **hṛdi tat-kṣaṇāt** — in the heart at once.
-- **sadyaḥ** — without any delay.
-- **īśvaraḥ avarudhyate** — the Lord is held captive.
+**mahā-muni-kṛte** (composed by the great sage Śrī Nārāyaṇa) **atra śrīmad-bhāgavate** (in this beautiful *Bhāgavata*) **projjhita-kaitavaḥ** (that from which cheating has been entirely cast out: so *pra-* and *ujjhita* are understood. The cheating is hypocrisy made up of *dharma*, *artha*, *kāma* and *mokṣa* and marked by the pursuit of results. The mark of this dharma is service to Bhagavān alone) **satām** (of Hari's servants) **nirmatsarāṇām** (free from lust, anger, greed, delusion, pride and envy) **paramaḥ** (the highest, for its aim is to set aside the scriptures of karma and jñāna) **dharmaḥ** (dharma [is described]) **atra** (in the *Śrīmad-Bhāgavatam*) **tāpa-trayonmūlanam** (uprooting the sins that bring suffering from one's own body and mind, from other beings and from the forces of nature) **śivadam** (bestowing good fortune) **vāstavam** (eternal, supreme, nondual) **vastu vedyam** (the reality to be known) **atra** (in the *Śrīmad-Bhāgavatam*) **śuśrūṣubhiḥ** (by those who wish to hear) **kṛtibhiḥ** (by those endowed with pious merit) **hṛdi tat-kṣaṇāt** (in the heart at once) **sadyaḥ** (without any delay) **īśvaraḥ avarudhyate** (the Lord is held captive).
 
 ## 93
 
@@ -635,9 +435,7 @@ Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
 
 > Subheading: (A saying of the ancients in their own scriptures, established by immemorial usage) —
 
-- **mitam ca** — free of idle talk, only to the point.
-- **sāram ca** — pointing to the essence.
-- **vacaḥ hi vāgmitā** — such speech is eloquence, the skill of speaking.
+**mitam ca** (free of idle talk, only to the point) **sāram ca** (pointing to the essence) **vacaḥ hi vāgmitā** (such speech is eloquence, the skill of speaking).
 
 ## 107
 
