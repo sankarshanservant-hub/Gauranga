@@ -16,10 +16,15 @@
   /* Раскладка как на макете: пейзаж — полосой сверху, рваный верхний край ленты лежит прямо на нём;
      комната (стол, свеча, книги) видна под лентой. */
   --top: clamp(112px, 16vh, 150px);   /* высота шапки */
-  --rh: clamp(340px, 64vh, 640px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
+  --rh: clamp(380px, 74vh, 740px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
   --ribbon-top: calc(var(--top) - var(--rh) * .06);
   --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
-  --room-h: calc(100vw * 941 / 1672);  /* картинка комнаты по ширине экрана */
+  /* комната: не шире экрана и такого размера, чтобы под лентой целиком помещались пламя свечи
+     (40% высоты картинки) … низ книг (70%) */
+  --room-h: min(calc(100vw * 941 / 1672), calc((100vh - var(--paper-bottom) - 14px) / .30));
+  --room-w: calc(var(--room-h) * 1672 / 941);
+  /* пейзаж: от верхушек куполов (17% высоты картинки) до воды Ганги (85%) — в полосе над лентой */
+  --land-h: calc((var(--top) + var(--rh) * .03) / .68);
 }
 
 * { box-sizing: border-box; }
@@ -38,23 +43,43 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 /* ——— комната и пейзаж ——— */
 .room {
-  position: fixed; left: 0; right: 0; z-index: 0; pointer-events: none;
-  /* пламя свечи (40% высоты картинки) — чуть ниже края бумаги ленты, книги и стол под ним */
-  top: calc(var(--paper-bottom) + 14px - var(--room-h) * .404); height: var(--room-h);
+  position: fixed; left: 0; z-index: 0; pointer-events: none;
+  /* пламя свечи — чуть ниже края бумаги ленты, книги и стол под ним */
+  top: calc(var(--paper-bottom) + 14px - var(--room-h) * .404);
+  width: var(--room-w); height: var(--room-h);
   background: url("assets/img/bg-desk.jpg") center top / 100% 100% no-repeat;
-  -webkit-mask-image: linear-gradient(transparent, #000 22%);
-  mask-image: linear-gradient(transparent, #000 22%);
+  /* сверху и справа картинка растворяется в темноте комнаты */
+  -webkit-mask-image: linear-gradient(transparent, #000 22%), linear-gradient(90deg, #000 72%, transparent);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(transparent, #000 22%), linear-gradient(90deg, #000 72%, transparent);
+  mask-composite: intersect;
+}
+.room::after { /* стол продолжается вправо до края экрана */
+  content: ""; position: absolute; top: 0; bottom: 0; left: 100%; width: calc(100vw - var(--room-w));
+  background: linear-gradient(transparent 60%, rgba(40, 22, 10, .5) 78%, rgba(30, 16, 7, .8));
 }
 .landscape {
-  position: absolute; top: 0; left: 0; right: 0; z-index: 0; pointer-events: none;
-  height: calc(var(--top) + var(--rh) * .12);
-  background: url("assets/img/header-sunset.jpg") center 64% / cover no-repeat;
-  -webkit-mask-image: linear-gradient(#000 70%, transparent);
-  mask-image: linear-gradient(#000 70%, transparent);
+  position: absolute; top: calc(var(--land-h) * -.17); right: 0; z-index: 0; pointer-events: none;
+  height: var(--land-h); width: calc(var(--land-h) * 3);
+  background: url("assets/img/header-sunset.jpg") center / 100% 100% no-repeat;
+  /* слева и снизу пейзаж растворяется в темноте, как на макете */
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 30%), linear-gradient(#000 78%, transparent);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(90deg, transparent, #000 30%), linear-gradient(#000 78%, transparent);
+  mask-composite: intersect;
 }
-.landscape::after { /* тёмная вуаль слева под названием, как на макете */
+.sky { /* размытое продолжение заката под чётким пейзажем — слева не пусто */
+  position: absolute; top: 0; left: 0; right: 0; z-index: 0; pointer-events: none;
+  height: calc(var(--top) + var(--rh) * .1);
+  background: url("assets/img/header-sunset.jpg") 70% 30% / cover no-repeat;
+  filter: blur(14px) brightness(.42) saturate(.85);
+  transform: scale(1.06);
+  -webkit-mask-image: linear-gradient(#000 55%, transparent);
+  mask-image: linear-gradient(#000 55%, transparent);
+}
+.landscape::after { /* лёгкая вуаль слева, чтобы пейзаж уходил в темноту плавно */
   content: ""; position: absolute; inset: 0;
-  background: linear-gradient(90deg, rgba(20, 13, 7, .9) 0, rgba(20, 13, 7, .72) 30%, rgba(20, 13, 7, .15) 62%, transparent 80%);
+  background: linear-gradient(90deg, rgba(20, 13, 7, .45) 0, transparent 35%);
 }
 
 /* ——— свет ——— */
@@ -361,9 +386,19 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 @media (max-width: 700px) {
   :root { --rh: clamp(360px, 60vh, 470px); --top: auto; }
   .top { height: auto; padding-top: 14px; padding-bottom: calc(var(--rh) * .08); }
-  .landscape { height: 100%; max-height: 260px; }
+  .sky { display: none; }
+  .landscape {
+    top: 0; width: 100%; height: 100%; max-height: 260px;
+    background-size: cover; background-position: 78% 35%;
+    -webkit-mask-image: linear-gradient(#000 70%, transparent); mask-image: linear-gradient(#000 70%, transparent);
+  }
+  .landscape::after { background: linear-gradient(90deg, rgba(20, 13, 7, .75), rgba(20, 13, 7, .2) 70%); }
   .band { margin-top: calc(var(--rh) * -.08); }
-  .room { top: auto; bottom: 0; height: 52vh; background-size: cover; background-position: 4% 70%; }
+  .room {
+    top: auto; bottom: 0; width: 100%; height: 52vh; background-size: cover; background-position: 4% 70%;
+    -webkit-mask-image: linear-gradient(transparent, #000 22%); mask-image: linear-gradient(transparent, #000 22%);
+  }
+  .room::after { display: none; }
   .light__candle { left: -30vmax; top: auto; bottom: -20vmax; }
   .foot { position: static; padding-top: 14px; }
   .top__lotus { width: 40px; height: 40px; }
