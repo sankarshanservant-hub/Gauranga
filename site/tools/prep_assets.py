@@ -81,6 +81,27 @@ save(cutout(vb.crop((0, vb.height - 260, W, vb.height))), 'vscroll-bottom.webp',
 # Фоны
 desk = load('bg-desk-books.png')  # без свечи (2026-10-10); прежний вариант — bg-desk-candle.png
 save(desk.resize((1600, round(desk.height * 1600 / desk.width)), Image.LANCZOS), 'bg-desk.jpg', quality=80)
+# Шапка: панорама из двух картинок пользователя (header-sunset-left.png продолжает header-navadvipa-sunset.png
+# влево с перекрытием ~1100 px; масштаб 1.16, сдвиг 1036/98 найдены сопоставлением, переход плавный в перекрытии)
+def panorama():
+    Lp = load('header-sunset-left.png'); Rp = load('header-navadvipa-sunset.png')
+    s_, OX, OY = 1.16, 1036, 98
+    Ls = np.asarray(Lp.resize((round(Lp.width * s_), round(Lp.height * s_)), Image.LANCZOS)).astype(float)
+    Rr = np.asarray(Rp).astype(float)
+    H_, W_ = Rr.shape[0], OX + Rr.shape[1]
+    ov1 = Ls.shape[1]
+    can = np.zeros((H_, W_, 3)); can[:, :ov1] = Ls[OY:OY + H_, :W_]
+    ov, rv = Ls[OY:OY + H_, OX:ov1], Rr[:, :ov1 - OX]
+    can[:, :ov1] *= rv.reshape(-1, 3).mean(0) / ov.reshape(-1, 3).mean(0)   # подгонка цвета к правой части
+    x = np.arange(W_)
+    wR = np.clip((x - (OX + 250)) / ((ov1 - 150) - (OX + 250)), 0, 1)[None, :, None]
+    Rf = np.zeros_like(can); Rf[:, OX:] = Rr
+    can = np.where(x[None, :, None] < OX, can, can * (1 - wR) + Rf * wR)
+    return Image.fromarray(np.clip(can, 0, 255).astype(np.uint8))
+
+
+pano = panorama()
+save(pano.resize((2800, round(pano.height * 2800 / pano.width)), Image.LANCZOS), 'header-panorama.jpg', quality=80)
 sky = load('header-navadvipa-sunset.png')
 save(sky.resize((1800, round(sky.height * 1800 / sky.width)), Image.LANCZOS), 'header-sunset.jpg', quality=80)
 

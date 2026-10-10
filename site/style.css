@@ -58,25 +58,18 @@ button { font: inherit; color: inherit; cursor: pointer; }
   content: ""; position: absolute; top: 0; bottom: 0; left: 100%; width: calc(100vw - var(--room-w));
   background: linear-gradient(transparent 60%, rgba(40, 22, 10, .5) 78%, rgba(30, 16, 7, .8));
 }
-/* Пейзаж: справа — сама картинка, слева — её зеркальное продолжение (горизонт и река продолжаются без шва);
-   всё вместе плавно темнеет влево до цвета комнаты и мягко растворяется книзу, под край ленты. */
+/* Пейзаж — панорама Навадвипы (две картинки пользователя, склеены без шва; соотношение 3208:724).
+   За названием и списком лил — тёмный фон; панорама начинается у правого края списка (--land-left, считает
+   app.js) и плавно проявляется из темноты; прижата к правому краю, снизу растворяется под ленту. */
 .landscape {
-  position: absolute; top: calc(var(--land-h) * -.17); right: 0; z-index: 0; pointer-events: none;
-  height: calc(var(--land-h) * 1.08); width: calc(var(--land-h) * 6);
-  background: url("assets/img/header-sunset.jpg") right top / 50% calc(100% / 1.08) no-repeat;
-  -webkit-mask-image: linear-gradient(90deg, transparent 4%, #000 46%), linear-gradient(#000 46%, transparent 92%);
+  position: absolute; top: calc(var(--land-h) * -.17); left: var(--land-left, 50%); right: 0; z-index: 0; pointer-events: none;
+  height: calc(var(--land-h) * 1.08);
+  --fade: min(640px, 80%); /* ширина плавного проявления из темноты */
+  background: url("assets/img/header-panorama.jpg") right top / calc(var(--land-h) * 4.43) var(--land-h) no-repeat;
+  -webkit-mask-image: linear-gradient(90deg, rgba(0,0,0,0) calc(var(--fade) * 0), rgba(0,0,0,0.03) calc(var(--fade) * 0.1), rgba(0,0,0,0.1) calc(var(--fade) * 0.2), rgba(0,0,0,0.22) calc(var(--fade) * 0.3), rgba(0,0,0,0.38) calc(var(--fade) * 0.4), rgba(0,0,0,0.56) calc(var(--fade) * 0.5), rgba(0,0,0,0.73) calc(var(--fade) * 0.6), rgba(0,0,0,0.87) calc(var(--fade) * 0.7), rgba(0,0,0,0.96) calc(var(--fade) * 0.8), rgba(0,0,0,1) calc(var(--fade) * 0.9)), linear-gradient(#000 46%, transparent 92%);
   -webkit-mask-composite: source-in;
-  mask-image: linear-gradient(90deg, transparent 4%, #000 46%), linear-gradient(#000 46%, transparent 92%);
+  mask-image: linear-gradient(90deg, rgba(0,0,0,0) calc(var(--fade) * 0), rgba(0,0,0,0.03) calc(var(--fade) * 0.1), rgba(0,0,0,0.1) calc(var(--fade) * 0.2), rgba(0,0,0,0.22) calc(var(--fade) * 0.3), rgba(0,0,0,0.38) calc(var(--fade) * 0.4), rgba(0,0,0,0.56) calc(var(--fade) * 0.5), rgba(0,0,0,0.73) calc(var(--fade) * 0.6), rgba(0,0,0,0.87) calc(var(--fade) * 0.7), rgba(0,0,0,0.96) calc(var(--fade) * 0.8), rgba(0,0,0,1) calc(var(--fade) * 0.9)), linear-gradient(#000 46%, transparent 92%);
   mask-composite: intersect;
-}
-.landscape::before { /* зеркальное продолжение слева */
-  content: ""; position: absolute; top: 0; left: 0; width: calc(50% + 2px); height: calc(100% / 1.08); /* +2px — без шва */
-  background: url("assets/img/header-sunset.jpg") center / 100% 100% no-repeat;
-  transform: scaleX(-1);
-}
-.landscape::after { /* плавное потемнение влево — до цвета комнаты */
-  content: ""; position: absolute; inset: 0;
-  background: linear-gradient(90deg, var(--room) 8%, rgba(20, 13, 7, .78) 30%, rgba(20, 13, 7, .35) 48%, rgba(20, 13, 7, .08) 62%, transparent 72%);
 }
 
 /* ——— свет ——— */
@@ -379,11 +372,10 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   :root { --rh: clamp(360px, 60vh, 470px); --top: auto; }
   .top { height: auto; padding-top: 14px; padding-bottom: calc(var(--rh) * .08); }
   .landscape {
-    top: 0; width: 100%; height: 100%; max-height: 260px;
-    background-size: cover; background-position: 78% 35%;
+    top: 0; left: 0; width: 100%; height: 100%; max-height: 260px;
+    background: url("assets/img/header-panorama.jpg") 88% 35% / cover no-repeat;
     -webkit-mask-image: linear-gradient(#000 55%, transparent); mask-image: linear-gradient(#000 55%, transparent);
   }
-  .landscape::before { display: none; }
   .landscape::after { background: linear-gradient(90deg, rgba(20, 13, 7, .75), rgba(20, 13, 7, .2) 70%); }
   .jump { flex: 1 1 100%; }
 
