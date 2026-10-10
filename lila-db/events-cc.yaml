@@ -1,0 +1,134 @@
+# События, заведённые при разборе «Шри Чайтанья-чаритамриты» (источник cc). Формат — как events.yaml.
+# Ади 1 — вступление: мангалачарана и таттвы; в основном богословские темы (period: PX, не эпизоды жизни).
+
+- id: ev-krishna-teaches-brahma-catuhshloki
+  title: "Кришна наставляет Брахму: четыре шлоки «Бхагаватам»"
+  title_en: "Krishna instructs Brahma: the four verses of the Bhagavatam"
+  period: P00
+  order: 2
+  cc: "Ади 1.50–56"
+  cb: ""
+  themes: [teaching, celestial]
+  teaching: [scripture, maya]
+  notes: "Бхаг. 2.9.30–36: Господь Сам наставляет Брахму о Себе, Своих энергиях и пути; в ЧЧ Ади 1.50–56 приведено как свидетельство о шикша-гуру. Ср. ev-brahma-hamsa-bhagavata-origin."
+
+- id: ev-tattva-chaitanya-bhagavan
+  title: "Шри Чайтанья — Бхагаван; Брахман — Его сияние, Параматма — Его полное проявление"
+  title_en: "Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion"
+  period: PX
+  order: 100
+  cc: "Ади 1.3"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, vedanta]
+  notes: "Богословская тема, не эпизод жизни."
+
+- id: ev-tattva-gaura-external-cause
+  title: "Внешняя причина явления Гауры: дарование уннатоджвала-расы в век Кали"
+  title_en: "The external reason for Gaura's advent: bestowing unnatojjvala-rasa in the age of Kali"
+  period: PX
+  order: 101
+  cc: "Ади 1.4"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, yuga-dharma, prema]
+  notes: "Богословская тема, не эпизод жизни. Шлока «анарпита-чарим» (Видагдха-мадхава 1.2); внутренняя причина — ev-krishna-resolves-advent-radha-bhava."
+
+- id: ev-tattva-pancha-tattva
+  title: "Панча-таттва: Кришна в пяти обликах"
+  title_en: "Pancha-tattva: Krishna in five forms"
+  period: PX
+  order: 102
+  cc: "Ади 1.14; 1.28"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: Чайтанья, Нитьянанда, Адвайта, Шривас, Гададхара. Подробно — ЧЧ Ади 7."
+
+- id: ev-tattva-six-tattvas
+  title: "Шесть таттв: Кришна, два вида гуру, преданные, аватары, проявления, энергии"
+  title_en: "The six tattvas: Krishna, the two kinds of guru, devotees, avataras, manifestations, energies"
+  period: PX
+  order: 103
+  cc: "Ади 1.31–33"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: план всей мангалачараны Ади 1."
+
+- id: ev-tattva-guru
+  title: "Гуру-таттва: гуру — проявление Кришны; дикша- и шикша-гуру"
+  title_en: "Guru-tattva: the guru as a manifestation of Krishna; diksha and shiksha gurus"
+  period: PX
+  order: 104
+  cc: "Ади 1.44–47; 1.57–58"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, vaishnava]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 11.17.27; Кришна как Чайтья-гуру в сердце и махант вовне."
+
+- id: ev-tattva-sadhu-hridaya
+  title: "Святые-преданные: общение с садху и сердце вайшнава как обитель Кришны"
+  title_en: "Saintly devotees: association with sadhus and the Vaishnava's heart as Krishna's abode"
+  period: PX
+  order: 105
+  cc: "Ади 1.59–64"
+  cb: ""
+  themes: [teaching]
+  teaching: [vaishnava, bhakti-supremacy]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 3.25.25, 9.4.68, 1.13.10; два вида преданных — парикары и садхаки."
+
+- id: ev-tattva-prakasha-vilasa
+  title: "Пракаша и виласа: проявления Господа"
+  title_en: "Prakasha and vilasa: the Lord's manifestations"
+  period: PX
+  order: 106
+  cc: "Ади 1.68–78"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [scripture]
+  notes: "Богословская тема, не эпизод жизни: раса-лила и свадьбы в Двараке как примеры пракаши; Баларама, Нараяна, Васудева и др. — виласы (Лагху-бхагаватамрита 1.15, 1.21)."
+
+- id: ev-tattva-shaktis
+  title: "Три вида шакти Господа: Лакшми, царицы и гопи"
+  title_en: "The Lord's three kinds of shaktis: Lakshmis, queens and gopis"
+  period: PX
+  order: 107
+  cc: "Ади 1.79–82"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  notes: "Богословская тема, не эпизод жизни."
+
+- id: ev-tattva-chaitanya-nityananda-sun-moon
+  title: "Чайтанья и Нитьянанда — солнце и луна, взошедшие в Гауде"
+  title_en: "Chaitanya and Nityananda: the sun and moon risen in Gauda"
+  period: PX
+  order: 108
+  cc: "Ади 1.2; 1.83–87; 1.101–103"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: образ из шлоки «ванде шри-кришна-чаитанья-нитьянандау»; Кришна и Баларама Враджа — Они же в Гауде."
+
+- id: ev-tattva-kaitava
+  title: "Каитава: тьма невежества; стремление к освобождению — главный обман"
+  title_en: "Kaitava: the darkness of ignorance; the desire for liberation as the chief deceit"
+  period: PX
+  order: 109
+  cc: "Ади 1.88–97"
+  cb: ""
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture, holy-name]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 1.1.2; Кришна, кришна-бхакти, према и нама-санкиртана как таттва-васту."
+
+- id: ev-tattva-two-bhagavatas
+  title: "Два бхагаваты: писание и преданный"
+  title_en: "The two Bhagavatas: the scripture and the devotee"
+  period: PX
+  order: 110
+  cc: "Ади 1.98–103"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, vaishnava, prema]
+  notes: "Богословская тема, не эпизод жизни."

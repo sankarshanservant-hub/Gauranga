@@ -1,0 +1,449 @@
+# Кришнадас Кавирадж Госвами, «Шри Чайтанья-чаритамрита» (ок. 1615; перевод Вриндавана Чандры даса) — лилы по порядку изложения.
+# Метки стихов — номера «(N)» в ed/vcd/CC_<Глава>.md. Главы-«таттвы» (вступления, учение) даны как kind: teaching/author,
+# по одной теме на запись (не по стиху). Записи добавлять в конец.
+
+- id: cc-0001
+  source: cc
+  ref: "Ади 1.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 10
+  title: "Мангалачарана: поклон гуру, преданным, аватарам и Шри Чайтанье с Нитьянандой"
+  summary: "Автор начинает книгу санскритскими шлоками: поклон духовным учителям, преданным Господа, Его аватарам, проявлениям и энергиям и Самому Шри Кришне Чайтанье; затем поклон Шри Чайтанье и Нитьянанде, одновременно взошедшим в Гауде, как солнцу и луне, рассеивающим тьму."
+  persons: ["@mahaprabhu", "@nityananda", "@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva, associates-tattva]
+  cc: "Ади 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "1", to: "2"}
+
+- id: cc-0002
+  source: cc
+  ref: "Ади 1.3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 20
+  title: "Шри Чайтанья — Бхагаван, а Брахман и Параматма — Его сияние и полное проявление"
+  summary: "Шлока «яд адвайтам»: нет истины выше Шри Чайтаньи; Он — Сам Бхагаван, обладающий шестью совершенствами; недвойственный Брахман Упанишад — сияние Его тела, а Параматма — Его полное проявление."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, vedanta]
+  cc: "Ади 1"
+  event: ev-tattva-chaitanya-bhagavan
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "3", to: "3"}
+
+- id: cc-0003
+  source: cc
+  ref: "Ади 1.4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 30
+  title: "«Анарпита-чарим»: Чайтанья нисходит в Кали-югу, чтобы даровать уннатоджвала-расу"
+  summary: "Шлока Рупы Госвами: по беспричинной милости Господь, сияющий золотым светом, пришёл в век Кали даровать то, чего прежде не давал никто, — сокровище служения в высшей любовной расе; автор молит, чтобы Он вечно пребывал в сердцах."
+  persons: ["@mahaprabhu", "@shachi", "@rupa-gosvami"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, yuga-dharma, prema]
+  scriptures: ["Видагдха-мадхава 1.2"]
+  cc: "Ади 1"
+  event: ev-tattva-gaura-external-cause
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "4", to: "4"}
+
+- id: cc-0004
+  source: cc
+  ref: "Ади 1.5–6"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: P00
+  order: 7
+  title: "Радха-Кришна-таттва и внутренняя причина явления: Кришна в облике Радхи"
+  summary: "Шлоки Сварупы Дамодары: Радха и Кришна единая сущность, принявшая два облика, а в Шри Чайтанье Они вновь соединены; желая познать величие любви Радхи, Свою сладость и Её счастье, Кришна, украшенный чувствами и сиянием Радхи, явился из лона Шачи."
+  persons: ["@krishna", "@radha", "@mahaprabhu", "@shachi", "@svarupa-damodara"]
+  places: []
+  kind: pre-advent
+  authority: A
+  notes: "Внутренняя причина нисхождения (три желания Кришны). Близкое событие другого источника: ev-krishna-resolves-gaura-advent («Гаура-пада-тарангини»)."
+  themes: [revelation, krishna-lila]
+  bhava: [radha]
+  teaching: [gaura-tattva, prema]
+  cc: "Ади 1"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "5", to: "6"}
+
+- id: cc-0005
+  source: cc
+  ref: "Ади 1.7–11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 40
+  title: "Нитьянанда-Баларама: источник Санкаршаны и трёх Пуруш"
+  summary: "Пять шлок о Шри Нитьянанде-Балараме: Санкаршана, Шеша и три Пуруши (Каранодакашайи, Гарбходакашайи, Кширодакашайи) — Его полные и частичные проявления; автор предаётся Его стопам."
+  persons: ["@nityananda", "@balarama"]
+  places: ["#vaikuntha"]
+  kind: teaching
+  authority: A
+  notes: "Шлоки 10–11 ВЧД даёт со ссылкой на «дневник Сварупы Дамодары»."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 1"
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "7", to: "11"}
+
+- id: cc-0006
+  source: cc
+  ref: "Ади 1.12–13"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 50
+  title: "Адвайта Ачарья — воплощение Маха-Вишну и бхакта-аватара"
+  summary: "Адвайта Ачарья — аватара Маха-Вишну, творящего миры внешней энергией; Он зовётся Адвайтой, ибо не отличен от Хари, и Ачарьей, ибо проповедует бхакти; автор вручает себя Ему."
+  persons: ["@advaita"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 1"
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "12", to: "13"}
+
+- id: cc-0007
+  source: cc
+  ref: "Ади 1.14"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 60
+  title: "Панча-таттва: Кришна в пяти обликах"
+  summary: "Поклон Кришне в пяти таттвах: Он Сам в образе и сущности бхакты (Чайтанья), Его проявление-преданный (Нитьянанда), бхакта-аватара (Адвайта), бхакта (Шривас) и бхакта-шакти (Гададхара)."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перевод ВЧД к шлоке — развёрнутый, с именами Сварупы Дамодары, Рамананды Рая и Гададхары; в бенгальском тексте шлока сжата до пяти таттв. Подробно — ЧЧ Ади 7."
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  cc: "Ади 1"
+  event: ev-tattva-pancha-tattva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "14", to: "14"}
+
+- id: cc-0008
+  source: cc
+  ref: "Ади 1.15–18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 70
+  title: "Молитвы Божествам Вриндавана и клич победы Чайтанье, Нитьянанде, Адвайте"
+  summary: "Автор молится Радха-Мадана-мохану, Шри Говинде в лесу Вриндавана и Гопинатху на берегу Ямуны у Вамшивата и восклицает: слава Шри Чайтанье, Нитьянанде, Адвайтачандре и всем преданным Гауры."
+  persons: ["@madana-mohana-vrindavana", "@govinda-deity", "@gopinatha-vrindavana", "@radha", "@krishna", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#vrindavana", "#vamshivata"]
+  kind: author
+  authority: A
+  themes: [author, deities]
+  teaching: [gaura-tattva]
+  cc: "Ади 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "15", to: "18"}
+
+- id: cc-0009
+  source: cc
+  ref: "Ади 1.19–30"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 80
+  title: "Три объекта памяти и разбор четырнадцати шлок мангалачараны"
+  summary: "Три Владыки (Чайтанья, Нитьянанда, Адвайта) покорили гаудия-вайшнавов; автор начинает книгу памятью о гуру, вайшнавах и Бхагаване, что устраняет препятствия и исполняет желания; мангалачарана имеет три части (определение предмета, благословение, почтение), и по четырнадцати шлокам автор объясняет, где что сказано."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva, vaishnava]
+  cc: "Ади 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "19", to: "30"}
+
+- id: cc-0010
+  source: cc
+  ref: "Ади 1.31–33"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 90
+  title: "Шесть таттв: Кришна, два вида гуру, преданные, аватары, проявления и энергии"
+  summary: "Автор призывает слушателей внимать и называет шесть образов, в которых Единая Истина вкушает игры: Кришна, гуру в двух видах, преданные, аватары, пракаши и шакти; он склоняется к стопам этих шести таттв."
+  persons: ["@krishna", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  cc: "Ади 1"
+  event: ev-tattva-six-tattvas
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "31", to: "33"}
+
+- id: cc-0011
+  source: cc
+  ref: "Ади 1.34–43"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 100
+  title: "Вандана гуру и спутникам Господа: шесть Госвами, Шривас, Адвайта, Нитьянанда, Гададхара"
+  summary: "Повторив первую шлоку, автор склоняется к стопам мантра- и шикша-гуру, шести Госвами (Рупа, Санатана, Рагхунатха Бхатта, Джива, Гопала Бхатта, Рагхунатха Дас), затем Шриваса, Адвайты, Нитьянанды, Гададхары и самого Шри Кришны Чайтаньи."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-dasa", "@srivasa", "@advaita", "@nityananda", "@gadadhara-pandita", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [vaishnava, associates-tattva]
+  cc: "Ади 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "34", to: "43"}
+
+- id: cc-0012
+  source: cc
+  ref: "Ади 1.44–47"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 110
+  title: "Гуру — образ Кришны; шикша-гуру как Кришна в двух обликах"
+  summary: "Хотя гуру — слуга Чайтаньи, он являет прямое проявление Господа: по свидетельству шастр, гуру — образ Кришны, через которого Он милует преданных (Бхаг. 11.17.27); шикша-гуру — личный образ Кришны, являющий Себя как Параматма и как лучший из преданных."
+  persons: ["@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "В переводе ВЧД (ст. 44) гуру назван Нитьянандой Прабху; в бенгальском тексте имя не названо."
+  themes: [teaching]
+  teaching: [scripture, vaishnava]
+  scriptures: ["Шримад-Бхагаватам 11.17.27"]
+  cc: "Ади 1"
+  event: ev-tattva-guru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "44", to: "47"}
+
+- id: cc-0013
+  source: cc
+  ref: "Ади 1.48–49"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 120
+  title: "Кришна как Ачарья вовне и Параматма внутри; дарование буддхи-йоги"
+  summary: "Уддхава говорит Кришне, что Тот является существам снаружи в облике Ачарьи, а внутри — как Чайтья-гуру (Бхаг. 11.29.6); Кришна в Бхагавад-гите даёт любящим преданным разумение, ведущее к Нему (Бг. 10.10)."
+  persons: ["@krishna", "@uddhava"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture, vaishnava]
+  scriptures: ["Шримад-Бхагаватам 11.29.6", "Бхагавад-гита 10.10"]
+  cc: "Ади 1"
+  event: ev-tattva-guru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "48", to: "49"}
+
+- id: cc-0014
+  source: cc
+  ref: "Ади 1.50–56"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: P00
+  order: 2
+  title: "Кришна наставляет Брахму: самбандха, абхидхея, прайоджана и четыре шлоки"
+  summary: "Господь Сам наставил Брахму тайному знанию о Себе, Своей природе и любовной преданности, о Своём вечном бытии до и после творения, об иллюзорной энергии и о методе поиска Истины прямым и косвенным путём (Бхаг. 2.9.31–36)."
+  persons: ["@krishna", "@brahma"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, celestial]
+  teaching: [scripture, maya]
+  scriptures: ["Шримад-Бхагаватам 2.9.31–36"]
+  cc: "Ади 1"
+  event: ev-krishna-teaches-brahma-catuhshloki
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "50", to: "56"}
+
+- id: cc-0015
+  source: cc
+  ref: "Ади 1.57–58"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 130
+  title: "Дикша- и шикша-гуру: Кришна в облике великого святого"
+  summary: "Автор склоняется перед своими гуру (Чинтамани, Сомагири) и Кришной с павлиньим пером («Кришна-карнамрита»); душа не видит Чайтья-гуру в сердце, поэтому Сам Кришна наставляет в облике шикша-гуру — махант."
+  persons: ["@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [vaishnava, scripture]
+  scriptures: ["Кришна-карнамрита"]
+  cc: "Ади 1"
+  event: ev-tattva-guru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "57", to: "58"}
+
+- id: cc-0016
+  source: cc
+  ref: "Ади 1.59–64"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 140
+  title: "Общение со святыми; сердце вайшнава — обитель Кришны; два вида преданных"
+  summary: "Мудрый отвергает дурное общество и общается со святыми, чьи наставления рубят привязанность ума; беседы с ними ведут от веры к влечению и любви (Бхаг. 3.25.25); святые — сердце Господа (Бхаг. 9.4.68), они превращают места в тиртхи (Бхаг. 1.13.10); преданные бывают парикарами и садхаками."
+  persons: ["@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [vaishnava, bhakti-supremacy]
+  scriptures: ["Шримад-Бхагаватам 3.25.25", "Шримад-Бхагаватам 9.4.68", "Шримад-Бхагаватам 1.13.10"]
+  cc: "Ади 1"
+  event: ev-tattva-sadhu-hridaya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "59", to: "64"}
+
+- id: cc-0017
+  source: cc
+  ref: "Ади 1.65–67"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 150
+  title: "Три вида аватар: амша, гуна- и шактьявеша-аватары"
+  summary: "У Господа три рода аватар: частичные (три Пуруши, Матсья и др.), гуна-аватары (Брахма, Вишну, Шива) и аватары с особыми силами (четверо Кумаров, Притху, Вьяса)."
+  persons: ["@brahma", "@shiva", "@vyasa"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Событие ev-avatara-kinds (Мадхья 20) использовано как ближайшее по теме: виды аватар."
+  themes: [teaching]
+  teaching: [gaura-tattva]
+  cc: "Ади 1"
+  event: ev-avatara-kinds
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "65", to: "67"}
+
+- id: cc-0018
+  source: cc
+  ref: "Ади 1.68–78"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 160
+  title: "Пракаша и виласа: проявления Господа"
+  summary: "Когда единый Господь принимает много неотличных форм, это пракаша (раса-лила, женитьба на царевнах Двараки; Бхаг. 10.33.3–4, 10.69.2; ЛБ 1.21); если формы разнятся, это виласа (Баларама, Нараяна, Васудева, Санкаршана, Прадьюмна и др.; ЛБ 1.15)."
+  persons: ["@krishna", "@balarama", "@narada"]
+  places: ["#vrindavana", "#dvaraka"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [scripture]
+  scriptures: ["Шримад-Бхагаватам 10.33.3–4", "Шримад-Бхагаватам 10.69.2", "Лагху-бхагаватамрита 1.21", "Лагху-бхагаватамрита 1.15"]
+  cc: "Ади 1"
+  event: ev-tattva-prakasha-vilasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "68", to: "78"}
+
+- id: cc-0019
+  source: cc
+  ref: "Ади 1.79–82"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 170
+  title: "Три вида шакти Господа; Кришна в окружении преданных; поклон преданным"
+  summary: "Энергии Господа — три рода: богини Лакшми, царицы Двараки и гопи Враджи, среди которых главные — гопи, ибо служат сыну царя Враджа, Самому Господу; Кришна являет полноту в окружении ближайших преданных; почитание всех преданных — причина всякого блага."
+  persons: ["@krishna", "@lakshmi"]
+  places: ["#vaikuntha", "#dvaraka", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema, vaishnava]
+  cc: "Ади 1"
+  event: ev-tattva-shaktis
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "79", to: "82"}
+
+- id: cc-0020
+  source: cc
+  ref: "Ади 1.83–87"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 180
+  title: "Чайтанья и Нитьянанда — Кришна и Баларама, взошедшие в Гауде"
+  summary: "Подведя итог первым двум шлокам, автор говорит, что Кришна и Баларама, прежде игравшие во Врадже, из сострадания к миру взошли в Гауде как Шри Чайтанья и Нитьянанда, и их явление наполнило мир блаженством."
+  persons: ["@mahaprabhu", "@nityananda", "@krishna", "@balarama"]
+  places: ["#vrindavana", "#gauda"]
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, associates-tattva]
+  cc: "Ади 1"
+  event: ev-tattva-chaitanya-nityananda-sun-moon
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "83", to: "87"}
+
+- id: cc-0021
+  source: cc
+  ref: "Ади 1.88–97"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 190
+  title: "Тьма невежества — каитава; стремление к освобождению — главный обман"
+  summary: "Как солнце и луна рассеивают тьму, два брата рассеивают тьму невежества, называемую каитавой (стремление к дхарме, артхе, каме, мокше); главный обман — желание освобождения, исчезновение кришна-бхакти (Бхаг. 1.1.2, «пра»); таттва-васту — Кришна, бхакти, према и нама-санкиртана."
+  persons: ["@mahaprabhu", "@nityananda", "@vyasa"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture, holy-name]
+  scriptures: ["Шримад-Бхагаватам 1.1.2"]
+  cc: "Ади 1"
+  event: ev-tattva-kaitava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "88", to: "97"}
+
+- id: cc-0022
+  source: cc
+  ref: "Ади 1.98–103"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 200
+  title: "Два бхагаваты и два чуда явления Чайтаньи и Нитьянанды"
+  summary: "Два брата ведут сердце к встрече с двумя бхагаватами — писанием и преданным, через которых приходит бхакти-раса и сердце покоряется любовью; два чуда — одновременное явление Обоих и рассеивание тьмы в глубинах сердец; автор склоняется к Их стопам."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#gauda"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture, vaishnava, prema]
+  cc: "Ади 1"
+  event: ev-tattva-two-bhagavatas
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "98", to: "103"}
+
+- id: cc-0023
+  source: cc
+  ref: "Ади 1.104–110"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md"
+  period: PX
+  order: 210
+  title: "Краткость изложения, плод слушания и колофон главы"
+  summary: "Автор обещает излагать суть кратко (красноречие — в краткости и сути); слушание о Чайтанье, Нитьянанде, Адвайте и Их преданных удаляет невежество и дарит глубокую любовь к Кришне; колофон: Кришнадас, молясь о милости Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva]
+  cc: "Ади 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "104", to: "110"}
