@@ -1,0 +1,18 @@
+{
+ "max_abs_diff": 26.0,
+ "mean_abs_diff": 0.4285595417022705,
+ "pixels_diff_gt_2": 17690,
+ "pixels_diff_gt_8": 5231,
+ "pixels_diff_gt_24": 1,
+ "figure_pixels": 325571,
+ "synthesized_underlay_pixels": {
+  "shawl": 65676,
+  "far_foot": 2308,
+  "dhoti_far": 35008,
+  "near_foot": 991,
+  "dhoti_near": 8395,
+  "torso": 0,
+  "arm": 0
+ },
+ "note": "Сравнение программной композиции слоёв в покое с исходным PNG на кремовом фоне; не проверка рендера Godot и не проверка движения."
+}
