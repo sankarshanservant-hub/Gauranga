@@ -132,8 +132,10 @@ def split_body(v, vb):
     TLM = '\u0301\u0303\u0304\u0307\u0310\u0323'
     RUS = set('ыьъюяёщцфЫЬЪЮЯЁЩЦФ')
     def tlish(t): return any(c in TLM for c in t) and not any(c in RUS for c in t)
+    near = []                         # нумерация сдвоенных стихов у vedabase может быть сдвинута (Ади 1.72–73 / 73–74)
+    for n in range(v['nums'][0] - 1, v['nums'][-1] + 2): near += vb_lines(vb, n)
     def is_tl(l):
-        return tlish(l) or (exp and max(sim(l, e) for e in exp) > 0.7)
+        return tlish(l) or (near and max(sim(l, e) for e in near) > 0.7)
     def is_gloss(l):
         if ' — ' not in l: return False
         left, right = l.split(' — ', 1)
@@ -166,6 +168,12 @@ def fix_refs(tr, log):
         new = '(%s)' % (title + (', ' + num if num else ''))
         log.append((m.group(0), new)); return new
     tr = re.sub(r'\[([^\]\[]+)\]', r, tr)
+    def r2(m):                         # «(ШБ, 10.33.3–4)» — уже в скобках, но сокращение
+        new = '(%s,%s)' % (REF_MAP[m.group(1)], m.group(2)); log.append((m.group(0), new)); return new
+    tr = re.sub(r'\((%s),?( ?[\d.–-]+)\)' % '|'.join(re.escape(k) for k in REF_MAP), r2, tr)
+    def r3(m):                         # «(Видагдха-мадхава 1.2)» -> «(Видагдха-мадхава, 1.2)»
+        new = '(%s, %s)' % (m.group(1), m.group(2)); log.append((m.group(0), new)); return new
+    tr = re.sub(r'\(([А-ЯЁ][А-Яа-яЁё\- ]+?) (\d+(?:\.\d+)*(?:[–-]\d+)?)\)', r3, tr)
     return re.sub(r'([”»])\.?\s*\(', r'\1. (', tr)   # «”.(…)», «”(…)» -> «”. (…)»
 
 def load_fixes(path):
