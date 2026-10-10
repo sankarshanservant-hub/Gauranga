@@ -61,3 +61,19 @@ Kṛṣṇa's *svarūpa-vigraha*, His original form, is always two-armed. His *s
 ## 29
 
 Though His nature is pastime alone, out of mercy for the *jīvas* He also performs this pastime: He delivers the *jīvas*.
+
+## 32–34
+
+The word “Vaikuṇṭha” should be understood as “the abode of Kṛṣṇa” and “Paravyoma.” Beyond Paravyoma the radiance of Kṛṣṇa's body spreads out and forms a sphere of light. It is called “Siddhaloka,” “Brahmaloka” and so on. It is the only place for the liberation of merging into Brahman (*brahma-sāyujya*). This abode is indeed spiritual, but it has no transformations of the *cit-śakti*, that is, no variety. From outside, the disc of the sun is without features (*nirviśeṣa*): it is mere light, without any variety. But within the disc one sees the sun's chariot and the rest — things with features (*saviśeṣa*), that is, rich variety. So it is here: the outer part of the sun's disc is like the abode of Brahman.
+
+## 35
+
+Many fixed their minds on Him through *kāma*, enmity, fear and affection — just as through devotion — gave up that sin and attained Him. In another reading one more verse is found: “The gopīs through *kāma*, Kaṁsa through fear, Caidya and other kings through enmity, the Vṛṣṇis through kinship, you through affection, and we through devotion, O mighty Lord.”[^35-1]
+
+## 36
+
+Wherever scripture says that the enemies of Bhagavān and His beloved ones attain the same thing, it speaks only of the oneness of Brahman, which is like the rays, and Kṛṣṇa, who is like the sun. The upshot is this: the beloved ones of Bhagavān attain the variety of Vaikuṇṭha, while the enemies of Bhagavān attain “Siddhaloka,” which is without pastimes.
+
+## 39
+
+Beyond *tamas*, that is, beyond the world of *māyā*, lies “Siddhaloka,” the abode of Brahman. There dwell the *māyāvādīs* immersed in the happiness of Brahman, and the *asuras* — Kaṁsa and others — slain by Bhagavān. The *yogīs* of Patañjali's school, even after attaining *kaivalya*, will also reach that world.
