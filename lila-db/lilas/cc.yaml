@@ -724,3 +724,43 @@
   event: ev-tattva-gaura-scripture-proofs
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "79", to: "90"}
+
+- id: cc-0038
+  source: cc
+  ref: "Ади 3.91–111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: P01
+  order: 4
+  title: "Адвайта Ачарья призывает Кришну туласи и водой Ганги: главная причина нисшествия"
+  summary: "Адвайта — бхакта-аватара Господа, и Его рык стал причиной нисхождения Кришны: прежде Себя Кришна посылает на землю старших — Мадхавендру Пури, Ишвару Пури, Шачи, Джаганнатху Мишру, с ними явился и Адвайта; увидев мир, погружённый в грешные и праведные наслаждения без тени бхакти, сострадательный Ачарья решает: если Кришна придёт Сам, Он научит бхакти примером, а в Кали нет дхармы, кроме имени; вспомнив стих Гаутамия-тантры о том, что Кришна продаёт Себя за листок туласи и пригоршню воды, Он постоянно предлагает туласи-манджари с водой Ганги, мысленно — стопам Кришны, и громко взывает к Нему; так желание преданного стало главной причиной явления Чайтаньи: Господь нисходит по желанию преданных (Бхаг. 3.9.11)."
+  persons: ["@advaita", "@krishna", "@mahaprabhu", "@madhavendra-puri", "@ishvara-puri", "@shachi", "@jagannatha-mishra"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Явление старших (3.92–94) — упоминание, ср. ev-associates-descend."
+  themes: [celestial, mercy]
+  bhava: [devotee]
+  teaching: [gaura-tattva, associates-tattva, holy-name]
+  scriptures: ["Гаутамия-тантра", "Шримад-Бхагаватам 3.9.11"]
+  cc: "Ади 3"
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "91", to: "111"}
+
+- id: cc-0039
+  source: cc
+  ref: "Ади 3.112–113"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: PX
+  order: 340
+  title: "Итог толкования четвёртой шлоки; колофон третьей главы"
+  summary: "Смысл четвёртой шлоки установлен: Гаура низошёл, чтобы явить прему; колофон: Кришнадас, уповая на стопы Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva, prema]
+  cc: "Ади 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "112", to: "113"}
