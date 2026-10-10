@@ -10,6 +10,8 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="room" aria-hidden="true"></div>
+<div class="landscape" aria-hidden="true"></div>
 <div class="light" aria-hidden="true"><span class="light__candle"></span><span class="light__sun"></span></div>
 
 <header class="top">
@@ -47,16 +49,18 @@
 
   <ul class="mbooks" id="mbooks" aria-live="polite"></ul>
 
-  <p class="hint" data-i18n="hint">Листайте ленту. Нажмите на название лилы, чтобы увидеть писания, где она описана.</p>
+</main>
 
-  <aside class="legend" aria-label="Достоверность">
+<footer class="foot">
+  <p class="hint" data-i18n="hint">Листайте ленту. Нажмите на эпизод, чтобы раскрыть его лилы, а на название лилы — чтобы увидеть писания.</p>
+  <p class="legend" aria-label="Достоверность">
     <span data-i18n="legend">Достоверность источника:</span>
     <span><b class="auth auth--A">A</b> <span data-i18n="authA">канонический</span></span>
     <span><b class="auth auth--B">B</b> <span data-i18n="authB">принятый традицией</span></span>
     <span><b class="auth auth--C">C</b> <span data-i18n="authC">с оговорками</span></span>
     <span><b class="auth auth--D">D</b> <span data-i18n="authD">сомнительный</span></span>
-  </aside>
-</main>
+  </p>
+</footer>
 
 <div class="reader" id="reader" hidden>
   <div class="reader__glow" aria-hidden="true"></div>

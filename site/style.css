@@ -13,14 +13,20 @@
   --body: "EB Garamond", Georgia, "Times New Roman", serif;
   --deva: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", serif;
   --beng: "Noto Serif Bengali", "Kohinoor Bangla", serif;
-  --rh: clamp(380px, 60vh, 560px); /* высота ленты */
+  /* Раскладка как на макете: пейзаж — полосой сверху, рваный верхний край ленты лежит прямо на нём;
+     комната (стол, свеча, книги) видна под лентой. */
+  --top: clamp(112px, 16vh, 150px);   /* высота шапки */
+  --rh: clamp(340px, 64vh, 640px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
+  --ribbon-top: calc(var(--top) - var(--rh) * .06);
+  --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
+  --room-h: calc(100vw * 941 / 1672);  /* картинка комнаты по ширине экрана */
 }
 
 * { box-sizing: border-box; }
 html, body { height: 100%; }
 body {
   margin: 0;
-  background: var(--room) url("assets/img/bg-desk.jpg") center bottom / cover no-repeat fixed;
+  background: var(--room);
   color: var(--gold);
   font: 17px/1.5 var(--body);
   overflow-x: hidden;
@@ -30,11 +36,32 @@ body {
 button { font: inherit; color: inherit; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
 
+/* ——— комната и пейзаж ——— */
+.room {
+  position: fixed; left: 0; right: 0; z-index: 0; pointer-events: none;
+  /* пламя свечи (40% высоты картинки) — чуть ниже края бумаги ленты, книги и стол под ним */
+  top: calc(var(--paper-bottom) + 14px - var(--room-h) * .404); height: var(--room-h);
+  background: url("assets/img/bg-desk.jpg") center top / 100% 100% no-repeat;
+  -webkit-mask-image: linear-gradient(transparent, #000 22%);
+  mask-image: linear-gradient(transparent, #000 22%);
+}
+.landscape {
+  position: absolute; top: 0; left: 0; right: 0; z-index: 0; pointer-events: none;
+  height: calc(var(--top) + var(--rh) * .12);
+  background: url("assets/img/header-sunset.jpg") center 64% / cover no-repeat;
+  -webkit-mask-image: linear-gradient(#000 70%, transparent);
+  mask-image: linear-gradient(#000 70%, transparent);
+}
+.landscape::after { /* тёмная вуаль слева под названием, как на макете */
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, rgba(20, 13, 7, .9) 0, rgba(20, 13, 7, .72) 30%, rgba(20, 13, 7, .15) 62%, transparent 80%);
+}
+
 /* ——— свет ——— */
 .light { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
 .light__candle, .light__sun { position: absolute; border-radius: 50%; }
-.light__candle {
-  left: -18vmax; bottom: -22vmax; width: 70vmax; height: 70vmax;
+.light__candle { /* над пламенем свечи на картинке комнаты (x ≈ 4%) */
+  left: calc(4.2vw - 35vmax); top: calc(var(--paper-bottom) + 14px - 35vmax); width: 70vmax; height: 70vmax;
   background: radial-gradient(circle, rgba(var(--flame), .38), rgba(var(--flame), .12) 38%, transparent 66%);
   animation: flicker 5.5s infinite;
 }
@@ -54,11 +81,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ——— шапка ——— */
 .top {
   position: relative; z-index: 2;
-  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px;
-  padding: 18px max(16px, 3vw) 40px;
-  background:
-    linear-gradient(to bottom, rgba(20, 13, 7, .15), rgba(20, 13, 7, .55) 70%, var(--room) 100%),
-    url("assets/img/header-sunset.jpg") 70% 55% / cover no-repeat;
+  display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 12px 24px;
+  height: var(--top); padding: 16px max(16px, 3vw) 0;
 }
 .top__brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
 .top__lotus { width: 52px; height: 52px; flex: none; color: var(--gold); filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .6)); }
@@ -89,7 +113,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .lang button { border: 0; background: none; padding: 7px 12px; font-size: 14px; letter-spacing: .08em; }
 .lang button[aria-pressed="true"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; }
 
-main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; justify-content: center; padding-block: 0 24px; }
+main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; }
+.band { margin-top: calc(var(--rh) * -.06); }
+.foot {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 1;
+  display: grid; gap: 4px; justify-items: center; padding: 0 16px 10px;
+  text-shadow: 0 1px 4px #000, 0 0 12px #000;
+}
 
 /* ——— лента ——— */
 .band { position: relative; }
@@ -234,10 +264,10 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .band__arrow--next { right: 10px; }
 .band__arrow:hover { background: rgba(70, 42, 18, .9); }
 
-.hint { margin: 14px auto 0; padding-inline: 16px; max-width: 60ch; text-align: center; font: italic 16px/1.4 var(--display); color: #e9cf9e; text-shadow: 0 1px 4px #000; }
+.hint { margin: 0; max-width: 70ch; text-align: center; font: italic 15px/1.35 var(--display); color: #e9cf9e; }
 .legend {
-  display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 16px;
-  margin: 8px auto 0; padding-inline: 16px; font: 14px/1.4 var(--body); color: #dcc093;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 16px;
+  margin: 0; font: 13.5px/1.4 var(--body); color: #dcc093;
 }
 .legend > span { display: inline-flex; align-items: center; gap: 6px; }
 .legend .auth { width: 18px; height: 18px; font-size: 11px; }
@@ -329,8 +359,13 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .verse__notes p + p { margin-top: 6px; }
 
 @media (max-width: 700px) {
-  :root { --rh: clamp(360px, 62vh, 470px); }
-  .top { padding-bottom: 24px; }
+  :root { --rh: clamp(360px, 60vh, 470px); --top: auto; }
+  .top { height: auto; padding-top: 14px; padding-bottom: calc(var(--rh) * .08); }
+  .landscape { height: 100%; max-height: 260px; }
+  .band { margin-top: calc(var(--rh) * -.08); }
+  .room { top: auto; bottom: 0; height: 52vh; background-size: cover; background-position: 4% 70%; }
+  .light__candle { left: -30vmax; top: auto; bottom: -20vmax; }
+  .foot { position: static; padding-top: 14px; }
   .top__lotus { width: 40px; height: 40px; }
   .band__arrow { display: none; }
   .top__tools { width: 100%; flex-wrap: nowrap; }
