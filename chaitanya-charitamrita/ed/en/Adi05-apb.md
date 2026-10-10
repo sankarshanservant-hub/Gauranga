@@ -85,3 +85,7 @@ The *catur-vyūha* of Dvārakā — Kṛṣṇa, Baladeva and the others — is 
 ## 48
 
 Mahā-Saṅkarṣaṇa is spiritual, pure *sattva* (*viśuddha-sattva*); He is a limb (*aṅga*), that is, a manifestation (*prakāśa*), of Nityānanda-Rāma.
+
+---
+
+[^35-1]: *Śrīmad-Bhāgavatam* 7.1.31.
