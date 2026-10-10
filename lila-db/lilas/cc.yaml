@@ -1097,3 +1097,42 @@
   cc: "Ади 4"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "273", to: "277"}
+
+# Ади 5 — Шри Нитьянанда-таттва (толкование шлок Ади 1.7–11)
+- id: cc-0056
+  source: cc
+  ref: "Ади 5.1–3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi05.md"
+  period: PX
+  order: 410
+  title: "Мангалачарана пятой главы: поклон Шри Нитьянанде; переход от шести шлок о Чайтанье к пяти шлокам о Нитьянанде"
+  summary: "Автор поклоняется Шри Нитьянанде, Господу удивительных достояний, по воле Которого даже невежда постигает Его сущность; славит Панча-таттву и объявляет: шесть шлок мангалачараны описали величие Кришна Чайтаньи, следующие пять — истину о Нитьянанде."
+  persons: ["@krishnadasa-kaviraja", "@nityananda", "@mahaprabhu", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 5"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi05.md", from: "1", to: "3"}
+
+- id: cc-0057
+  source: cc
+  ref: "Ади 5.4–12"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi05.md"
+  period: PX
+  order: 420
+  title: "Баларама — второе тело Кришны, служащий Ему в пяти обликах; Он пришёл как Нитьянанда (толкование седьмой шлоки)"
+  summary: "Кришна, источник всех аватар, — Сам Бхагаван, Баларама — Его второе тело, единый с Ним по сущности и первая экспансия, помощник в играх; тот Кришна — Шри Чайтанья в Навадвипе, тот Баларама — Нитьянанда; по шлоке Сварупы Дамодары (Ади 1.7) Санкаршана, три Пуруши и Шеша — Его части; Баларама, изначальный Санкаршана, Сам помогает играм Кришны, в четырёх обликах творит миры по Его повелению, а как Шеша служит Ему по-разному и во всех обликах вкушает блаженство служения."
+  persons: ["@krishnadasa-kaviraja", "@balarama", "@nityananda", "@krishna", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [associates-tattva]
+  scriptures: ["Ади 1.7 (дневник Сварупы Дамодары)"]
+  cc: "Ади 5"
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi05.md", from: "4", to: "12"}
