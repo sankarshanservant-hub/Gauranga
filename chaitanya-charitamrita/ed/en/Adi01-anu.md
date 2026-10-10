@@ -354,4 +354,114 @@ In the same way, without entering, I also abide outside — to give their eyes M
 
 (This points to the relishing of the *rasas* of servitude, friendship, parental love and amorous love: *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*.)
 
+## 57
+
+> Subheading: (In the first verse of the *Śrī Kṛṣṇa-karṇāmṛta*) —
+
+The book *Śrī Vallabha-digvijaya* places the time of Śrī Bilvamaṅgala — a Draviḍian king of ascetics, a *tridaṇḍī* — in the eighth century of the Śaka era. Bilvamaṅgala is mentioned as the chief disciple of Rāja-Viṣṇusvāmī, who installed the Deity of Dvārakādhīśa. Bilvamaṅgala's disciples were Devamaṅgala and others. Bilvamaṅgala worshipped for seven hundred years in Vṛndāvana at Brahma-kuṇḍa. After his meeting with Vallabha Bhaṭṭa, the worship of his Deity was entrusted to Hari Brahmacārī. Bilvamaṅgala's name also appears in the list of the Dvārakā *maṭha* of Śaṅkara's sampradāya: “Citsukhācārya (Kali era 2715), Bilvamaṅgala.” Līlāśuka Śrī Bilvamaṅgala Ṭhākura longed to enter the transcendental *līlās* of Vṛndāvana. At the beginning of his song *Śrī Kṛṣṇa-karṇāmṛta* he glorifies three kinds of guru:
+
+- **me** — my.
+- **guruḥ** — the *śravaṇa-guru*, who shows the way.
+- **cintāmaṇiḥ jayati** — Cintāmaṇi — may this guru be glorified.
+- **somagiriḥ** — (the *mantra-guru*) Somagiri (may he be glorified).
+- **śikṣā-guruḥ śikhi-piñcha-mauliḥ** — (the *caitya*) *śikṣā-guru*, He whose crown ornament is a peacock feather.
+- **bhagavān** — Vṛndāvana-candra (may He be glorified).
+- **yat-pāda-kalpa-taru-pallava-śekhareṣu** — at the toenail tips on His feet, which are shoots of the wish-fulfilling tree.
+- **jaya-śrīḥ** — She who is both Jayā and Śrī, that is, Mahālakṣmī, the Queen of Vṛndāvana.
+- **līlā-svayam-vara-rasam** — the sweetness, the joy, of a *svayaṁvara* (free choice) enacted in play, with deep *anurāga*.
+- **labhate** — attains.
+
+## 58
+
+> Subheading: Kṛṣṇa's mercy in the form of the *śikṣā-guru* —
+
+The conditioned *jīva* cannot see Kṛṣṇa directly. Therefore Kṛṣṇa awakens in the *jīva*'s heart the discernment that leads to devotion to Kṛṣṇa, and so becomes the *caitya-śikṣā-guru*. And appearing as a *mahānta*, He becomes the *śikṣā-guru*.
+
+## 59
+
+> Subheading: The need for the company of sādhus; the dharma, marks and nature of the sādhu-guru — (*Śrīmad-Bhāgavatam* 11.26.26)
+
+Urvaśī left Purūravā and went away. Beside himself with grief, he lamented for a whole year; then he gained discernment and understood the fruits of bad company. Śrī Bhagavān tells this story to Uddhava:
+
+- **tataḥ duḥsaṅgam** — bad company: the company of women and of those who keep company with women.
+- **utsṛjya** — leaving far behind.
+- **buddhimān** — one who discerns *sat* from *asat*.
+- **satsu sajjeta** — should associate wholeheartedly with Hari's detached servants.
+- **santaḥ** — (for) the sādhus.
+- **asya** — of one absorbed in sense objects.
+- **mano-vyāsaṅgam** — the mind's perverse attachment.
+- **uktibhiḥ** — by their good instructions.
+- **chindanti** — destroy.
+
+## 60
+
+> Subheading: The fruit of hearing *hari-kathā* in the company of sādhus: the awakening of faith, *bhāva* and *prema* — (*Śrīmad-Bhāgavatam* 3.25.25)
+
+Devahūti asked her son Kapiladeva what her highest good was, and Kapila replied:
+
+- **satām** — of Hari's servants.
+- **prasaṅgāt** — through excellent association.
+- **mama vīrya-saṁvidaḥ** — those in which My power is rightly understood.
+- **hṛt-karṇa-rasāyanāḥ** — an elixir for the heart and ears: delightful to hearing and mind, giving happiness.
+- **kathāḥ bhavanti** — narratives arise.
+- **taj-joṣaṇāt** — by serving them.
+- **apavarga-vartmani** — toward Hari, on the path to whom ignorance ceases.
+- **śraddhā** — (first) faith.
+- **ratiḥ** — (then) *bhāva*.
+- **bhaktiḥ** — (then) *prema*.
+- **āśu** — soon.
+- **anukramiṣyati** — will come one after another.
+
+(First comes faith, then the company of sādhus. Through that company one hears these narratives, and an inclination to serve arises — the activity of worship. Then, through excellent association, come narratives that remove the *anarthas*, the unwanted things in the heart. Next these same narratives produce steadiness (*niṣṭhā*) and so let one understand My greatness. Then they produce taste (*ruci*) and become an elixir for the heart and ears. By serving these narratives and relishing them with love, there will come one after another: faith in Bhagavān, which here means attachment (*āsakti*); *rati*, which is *bhāva*; and *bhakti*, which is *prema*.)
+
+## 61
+
+> Subheading: The truth about the Lord's devotees, and their kinds —
+
+The one and only nondual reality is the Lord (*Īśvara*). This reality, the Lord, possesses all potencies. By nature the devotee is of the same kind as His potency, not of the same kind as the possessor of potency. The inclination to serve Kṛṣṇa lives in the devotee who worships Him. Therefore Kṛṣṇa abides in the devotee as His support.
+
+## 62
+
+> Subheading: (*Śrīmad-Bhāgavatam* 9.4.68)
+
+The sage Durvāsā offended the feet of the great devotee Mahārāja Ambarīṣa, and Viṣṇu's disc rushed forth to kill Durvāsā. He sought help from all the gods. At last Bhagavān Viṣṇu advised the sage Durvāsā to beg forgiveness at Ambarīṣa's lotus feet. In truth, with this verse He revealed the supreme greatness of the saintly devotees:
+
+- **sādhavaḥ** — the sādhus.
+- **mahyam hṛdayam** — are My heart, as dear as My life.
+- **sādhūnām tu aham hṛdayam** — and I am the heart of the sādhus.
+- **te** — they, the sādhus.
+- **mad-anyat** — anything other than Me.
+- **na jānanti** — do not know.
+- **aham** — and I.
+- **tebhyaḥ** — apart from them.
+- **manāg api** — even slightly.
+- **anyat na** — (know) nothing else.
+
+(The devotees always think of Me alone with all their being. And I always meditate on the devotees, who are wholly devoted to serving Me and have taken shelter at My feet with all their being.)
+
+## 63
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.13.10)
+
+Vidura Mahāśaya had wandered through many holy places and returned to Hastināpura. Mahārāja Yudhiṣṭhira greeted him with this verse:
+
+- **prabho** — O lord.
+- **bhavad-vidhāḥ** — those like you.
+- **bhāgavatāḥ** — devotees, sādhus.
+- **tīrtha-bhūtāḥ** — are themselves holy places.
+- **svāntaḥ-sthena** — by Him who dwells within them.
+- **gadābhṛtā** — by Bhagavān Viṣṇu.
+- **tīrthāni** — the holy places, which through contact with impure people have ceased to be holy.
+- **tīrthī-kurvanti** — make into great holy places again.
+
+(And your pilgrimage is the good fortune of the holy places themselves.)
+
+## 65
+
+> Subheading: The kinds of the Lord's avatāras —
+
+## 65–67
+
+*Īśvarera*, “of the Lord,” means of Kṛṣṇa in His original form (*svayaṁ-rūpa*). See the first part of the *Laghu-bhāgavatāmṛta*, the section on the object of worship and on the avatāras, and also *Caitanya-caritāmṛta*, Madhya-līlā, Chapter 20.
+
 [^53-1]: The edition prints «রাজহসৌ প্রজাতীতিবৎ», a typesetting error; read «রাজাঽসৌ প্রয়াতীতিবৎ» (“as [one says] ‘the king is setting out’,” meaning his retinue as well); compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.

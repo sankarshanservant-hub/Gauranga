@@ -135,3 +135,10 @@
 - самбхога / випраламбха → *sambhoga* (union) / *vipralambha* (separation); дасья, сакхья, ватсалья, шрингара → servitude,
   friendship, parental love, amorous love (*dāsya*, *sakhya*, *vātsalya*, *śṛṅgāra*).
 - пандит → wise devotee (*paṇḍita*); шрути → the Śrutis; “Гаудия-бхашья” → the *Gauḍīya-bhāṣya*; «с. 577–629» → pp. 577–629.
+- сиддха-севака → perfected servant (*siddha-sevaka*); айшварья / мадхурья → majesty (*aiśvarya*) / sweetness (*mādhurya*);
+  Паравьома → the spiritual sky, Paravyoma; вайдхи- / рагануга-садхана-бхакти → *vaidhī* / *rāgānugā sādhana-bhakti*.
+- чайтья → the *caitya* (within the mind); маханта → *mahānta*, the best of devotees; бхагавата (преданный) → devotee
+  (*bhāgavata*); садху → sādhu; хари-катха → *hari-kathā*; анартхи → *anarthas* (unwanted things in the heart);
+  ништха → steadiness (*niṣṭhā*); асакти → attachment (*āsakti*); рати → *rati*; бхава → *bhāva*; анурага → *anurāga*.
+- чинтамани → wish-fulfilling gem (*cintāmaṇi*); сваямвара → *svayaṁvara*, the free choice of a husband; триданди → *tridaṇḍī*;
+  матх → *maṭha*; эра Шака / Кали → the Śaka era / Kali era.

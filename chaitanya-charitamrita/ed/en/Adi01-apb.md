@@ -107,4 +107,41 @@ The *Śrīmad-Bhāgavatam* contains the teaching of Mahāprabhu Śrī Caitanyade
 
 The root of everything in those eighteen thousand verses lies in these four. The verse *aham eva* briefly describes the truth of Bhagavān, His own form, His qualities and His *līlās*. The verse *ṛte 'rtham* examines the truths of *māyā*, of the *jīva* and of matter. *Māyā-tattva* appears separately from Bhagavān's *svarūpa-tattva*. *Jīva-tattva*, through its connection with this *māyā-tattva*, is liable to fall under the control of the *māyā* potency. *Jaḍa-tattva*, matter, is the field of the *jīva*'s enjoyment. From these two verses one should fully grasp knowledge of *sambandha*. The verse *yathā mahānti* says that Bhagavān's eternal form abides separately, although the truth of Bhagavān is inconceivably one with the *jīvas* and matter and different from them. It also names the supreme goal (*prayojana*): the *jīvas* take shelter at His feet and gain the wealth of great love, *mahā-prema*. The verse *etāvad eva* names the only means to reach this supreme goal: *sādhana-bhakti*. *Sādhana-bhakti* includes injunctions that lead to the goal; as favourable, they are called *anvaya*. Actions that obstruct the goal and produce what is unfavourable are counted among the prohibitions and called *vyatireka*. The truth of practice is called *abhidheya*. *Abhidheya* is the instruction one receives through the direct meaning of the scriptures (*abhidhā-vṛtti*).
 
+## 57
+
+Glory to my guru named Somagiri, who is like a wish-fulfilling gem (*cintāmaṇi*)![^57-1] Glory also to my *śikṣā-guru*, Bhagavān, who wears a peacock feather! Jayaśrī, that is, Śrīmatī Rādhikā, tastes the joy of *svayaṁvara*, the free choice of a husband: she is drawn by the beauty of His toenail tips, on feet that are like shoots of the wish-fulfilling tree.
+
+## 58
+
+The indwelling guru abides as the *caitya*, that is, within the mind. So one cannot see Him directly, face to face. That is why Kṛṣṇa becomes the *śikṣā-guru* in the form of the *mahānta*, the best of devotees.
+
+## 59
+
+Therefore an intelligent person will give up bad company and associate with sādhus. With their good instructions the sādhus will cut all the bonds of his desires that are unfavourable to devotion.
+
+## 60
+
+In the company of sādhus, narratives that reveal My power are discussed, an elixir for the heart and ears. As a person listens to them, there soon awakens in him faith in Me, the path of liberation; then attachment (*rati*); and at last loving devotion (*prema-bhakti*).
+
+## 61
+
+Whoever is devoted to the Lord (*Īśvara*) in His form of eternal being, knowledge and bliss is himself the place where Kṛṣṇa dwells; that is, his heart is.
+
+## 62
+
+The sādhus are My heart, and I am the heart of the sādhus. They know no one but Me, and I regard no one but them as My own.
+
+## 63
+
+Devotees (*bhāgavatas*) like you are themselves holy places. The holy places are stained by the sins of sinners, and such devotees purify them by the holiness of Bhagavān, who dwells within them.
+
+## 64
+
+Devotees are of two kinds: Bhagavān's associates and practitioners (*sādhakas*). Bhagavān's associates are the circle of perfected servants (*siddha-sevakas*). Some of them are devoted to His majesty (*aiśvarya*) and dwell in the spiritual sky, Paravyoma. Others are devoted to His sweetness, *mādhurya*, and are absorbed in serving Kṛṣṇa in Śrī Vṛndāvana. The *sādhakas* are those who follow *vaidhī* or *rāgānugā sādhana-bhakti* in order to attain perfection in service.
+
+## 65
+
+The *aṁśa-avatāras* are direct avatāras of Viṣṇu, masters of *māyā*. The *guṇa-avatāras* are avatāras of Bhagavān manifest in the three *guṇas*: *sattva*, *rajas* and *tamas*. The *śaktyāveśa-avatāras* are exalted *jīvas* whom a special potency of Kṛṣṇa enters.
+
 [^15-1]: Bhaktivinoda gives only the glorification here; the Russian verse translation (VCD) adds a prayer for attachment to the lotus feet.
+[^57-1]: The Russian verse translation (VCD) reads differently: there Cintāmaṇi and Somagiri are two different gurus (Cintāmaṇi showed the way, Somagiri was the initiating guru), whereas for Bhaktivinoda *cintāmaṇi* is a simile for Somagiri. (The *Anubhāṣya* on this verse, like the VCD translation, distinguishes them.)
