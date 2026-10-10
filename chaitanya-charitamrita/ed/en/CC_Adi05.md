@@ -330,159 +330,203 @@ four  liberations  giving  He does  the souls  deliverance
 বৈকুণ্ঠ-বাহিরে হয় তা-সবার স্থিতি ॥ ৩১ ॥
 
 brahma-sāyujya-muktera tāṅhā nāhi gati  
-vaikuṇṭha-bāhire haya tā-sabāra sthiti
+of those liberated by merging into Brahman  there  there is not  access  
+vaikuṇṭha-bāhire haya tā-sabāra sthiti  
+outside Vaikuṇṭha  is  of all of them  the residence
 
-(31) [not yet translated]
+(31) Those who attain liberation by merging into Brahman (*sāyujya*) have no access there; they remain outside Vaikuṇṭha.
 
 বৈকুণ্ঠ-বাহিরে এক জ্যোতির্ম্ময় মণ্ডল ৷  
 কৃষ্ণের অঙ্গের প্রভা, পরম উজ্জ্বল ॥ ৩২ ॥
 
 vaikuṇṭha-bāhire eka jyotir-maya maṇḍala  
-kṛṣṇera aṅgera prabhā, parama ujjvala
+outside Vaikuṇṭha  one  effulgent  region  
+kṛṣṇera aṅgera prabhā, parama ujjvala  
+of Kṛṣṇa's  body  the radiance  supremely  brilliant
 
-(32) [not yet translated]
+(32) Outside Vaikuṇṭha is a region of light. It is the radiance of Kṛṣṇa's body, supremely brilliant.
 
 ‘সিদ্ধলোক’ নাম তার প্রকৃতির পার ৷  
 চিৎস্বরূপ, তাঁহা নাহি চিচ্ছক্তি-বিকার ॥ ৩৩ ॥
 
 ‘siddha-loka’ nāma tāra prakṛtira pāra  
-cit-svarūpa, tāṅhā nāhi cic-chakti-vikāra
+Siddhaloka  the name  its  of material nature  beyond  
+cit-svarūpa, tāṅhā nāhi cic-chakti-vikāra  
+spiritual in nature  there  there are not  of the spiritual potency  transformations
 
-(33) [not yet translated]
+(33) It is called Siddhaloka, and it lies beyond material nature. It is spiritual in nature, but the spiritual potency displays no variety there.
 
 সূর্য্যমণ্ডল যেন বাহিরে নির্ব্বিশেষ ৷  
 ভিতরে সূর্য্যের রথ-আদি সবিশেষ ॥ ৩৪ ॥
 
 sūrya-maṇḍala yena bāhire nirviśeṣa  
-bhitare sūryera ratha-ādi saviśeṣa
+the sun's  disc  as  outside  without variety  
+bhitare sūryera ratha-ādi saviśeṣa  
+within  of the sun  the chariot  and so on  with variety
 
-(34) [not yet translated]
+(34) It is like the disc of the sun: from outside the sun appears featureless, but within it there is variety — the sun-god's chariot and all the rest.
 
 কামাদ্দ্বেষাৎ ভয়াৎ স্নেহাৎ যথা ভক্ত্যেশ্বরে মনঃ ৷  
 আবেশ্য তদঘং হিত্বা বহবস্তদ্গতিং গতাঃ ॥ ৩৫ ॥
 
 kāmād dveṣāt bhayāt snehāt  
+from lust  from hatred  from fear  from affection  
 yathā bhaktyeśvare manaḥ  
+as  through devotion  on the Lord  the mind  
 āveśya tad aghaṁ hitvā  
-bahavas tad gatiṁ gatāḥ
+having fixed  that  sin  having given up  
+bahavas tad gatiṁ gatāḥ  
+many  that  goal  have attained
 
-(35) [not yet translated]
+(35) “As one reaches Him by fixing the mind on the Lord with devotion, so many have fixed their minds on Him through lust, hatred, fear or affection, cast off their sin and reached that same goal.” (Śrīmad-Bhāgavatam 7.1.30)
 
 যদরীণাং প্রিয়াণাঞ্চ প্রাপ্যমেকমিবোদিতম্ ৷  
 তদ্ব্রহ্মকৃষ্ণয়োরৈক্যাৎ কিরণার্কোপমা-জুষোঃ ॥ ৩৬ ॥
 
 yad arīṇāṁ priyāṇāṁ ca  
+that which  of the enemies  of the beloved  and  
 prāpyam ekam ivoditam  
+to be attained  one  as if  is said  
 tad brahma-kṛṣṇayor aikyāt  
-kiraṇārkopamā-juṣoḥ
+that  of Brahman and Kṛṣṇa  because of the oneness  
+kiraṇārkopamā-juṣoḥ  
+the rays and the sun  resembling
 
-(36) [not yet translated]
+(36) “It is said that the goal of the Lord's enemies and of His beloved devotees is as if one and the same. This is because Brahman and Kṛṣṇa are one, as the rays and the sun are one.” (Bhakti-rasāmṛta-sindhu 1.2.278)
 
 তৈছে পরব্যোমে নানা চিচ্ছক্তিবিলাস ৷  
 নির্ব্বিশেষ জ্যোতির্বিম্ব বাহিরে প্রকাশ ॥ ৩৭ ॥
 
 taiche para-vyome nānā cic-chakti-vilāsa  
-nirviśeṣa jyotir-bimba bāhire prakāśa
+likewise  in the spiritual sky  various  of the spiritual potency  pastimes  
+nirviśeṣa jyotir-bimba bāhire prakāśa  
+without variety  of light  the sphere  outside  is manifest
 
-(37) [not yet translated]
+(37) In the same way, within the spiritual sky the spiritual potency displays pastimes of every variety, while outside it a featureless sphere of light is manifest.
 
 নির্ব্বিশেষ-ব্রহ্ম সেই কেবল জ্যোতির্ম্ময় ৷  
 সায়ুজ্যের অধিকারী তাঁহা পায় লয় ॥ ৩৮ ॥
 
 nirviśeṣa-brahma sei kevala jyotir-maya  
-sāyujyera adhikārī tāṅhā pāya laya
+featureless  Brahman  that  only  made of light  
+sāyujyera adhikārī tāṅhā pāya laya  
+of sāyujya  those qualified  there  attain  absorption
 
-(38) [not yet translated]
+(38) That featureless Brahman is nothing but light. Those who are fit for *sāyujya* attain absorption in it.
 
 সিদ্ধলোকস্তু তমসঃ পারে যত্র বসন্তি হি ৷  
 সিদ্ধা ব্রহ্মসুখে মগ্না দৈত্যাশ্চ হরিণা হতাঃ ॥ ৩৯ ॥
 
 siddha-lokas tu tamasaḥ  
+Siddhaloka  but  of darkness  
 pāre yatra vasanti hi  
+beyond  where  reside  indeed  
 siddhā brahma-sukhe magnā  
-daityāś ca hariṇā hatāḥ
+the perfected ones  in the bliss of Brahman  immersed  
+daityāś ca hariṇā hatāḥ  
+the demons  and  by Hari  slain
 
-(39) [not yet translated]
+(39) “Beyond darkness lies Siddhaloka. There reside the perfected beings (*siddhas*), immersed in the bliss of Brahman, and the demons slain by Hari.” (Brahmāṇḍa Purāṇa)
 
 সেই পরব্যোমে নারায়ণের চারি পাশে ৷  
 দ্বারকায় চতুর্ব্যূহ দ্বিতীয় প্রকাশে ॥ ৪০ ॥
 
 sei para-vyome nārāyaṇera cāri pāśe  
-dvārakāya catur-vyūha dvitīya prakāśe
+in that  spiritual sky  of Nārāyaṇa  on four  sides  
+dvārakāya catur-vyūha dvitīya prakāśe  
+of Dvārakā  the catur-vyūha  in a second  manifestation
 
-(40) [not yet translated]
+(40) In that spiritual sky, on Nārāyaṇa's four sides, the *catur-vyūha* of Dvārakā is present in a second manifestation.
 
 বাসুদেব-সঙ্কর্ষণ-প্রদ্যুম্নানিরুদ্ধ ৷  
 ‘দ্বিতীয় চতুর্ব্যূহ’ এই — তুরীয়, বিশুদ্ধ ॥ ৪১ ॥
 
 vāsudeva-saṅkarṣaṇa-pradyumnāniruddha  
-‘dvitīya catur-vyūha’ ei — turīya, viśuddha
+Vāsudeva  Saṅkarṣaṇa  Pradyumna  Aniruddha  
+‘dvitīya catur-vyūha’ ei — turīya, viśuddha  
+the second catur-vyūha  this  transcendent  pure
 
-(41) [not yet translated]
+(41) Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — this is the second *catur-vyūha*. They too are transcendent and pure.
 
 তাঁহা যে রামের রূপ — মহাসঙ্কর্ষণ ৷  
 চিচ্ছক্তি-আশ্রয় তিঁহো, কারণের কারণ ॥ ৪২ ॥
 
 tāṅhā ye rāmera rūpa — mahā-saṅkarṣaṇa  
-cic-chakti-āśraya tiṅho, kāraṇera kāraṇa
+there  which  of Rāma  the form  Mahā-Saṅkarṣaṇa  
+cic-chakti-āśraya tiṅho, kāraṇera kāraṇa  
+of the spiritual potency  the shelter  He  of causes  the cause
 
-(42) [not yet translated]
+(42) Rāma's form there is Mahā-Saṅkarṣaṇa. He is the shelter of the spiritual potency and the cause of all causes.
 
 চিচ্ছক্তিবিলাস এক — ‘শুদ্ধসত্ত্ব’-নাম ৷  
 শুদ্ধসত্ত্বময় যত বৈকুণ্ঠাদি-ধাম ॥ ৪৩ ॥
 
 cic-chakti-vilāsa eka — ‘śuddha-sattva’-nāma  
-śuddha-sattva-maya yata vaikuṇṭhādi-dhāma
+of the spiritual potency  a display  one  śuddha-sattva  named  
+śuddha-sattva-maya yata vaikuṇṭhādi-dhāma  
+of śuddha-sattva  made  all  Vaikuṇṭha and the other  abodes
 
-(43) [not yet translated]
+(43) One display of the spiritual potency is called *śuddha-sattva*, pure being. All the abodes, Vaikuṇṭha and the rest, are made of *śuddha-sattva*.
 
 ষড়্বিধৈশ্বর্য্য তাঁহা সকল চিন্ময় ৷  
 সঙ্কর্ষণের বিভূতি সব, জানিহ নিশ্চয় ॥ ৪৪ ॥
 
 ṣaḍ-vidhaiśvarya tāṅhā sakala cinmaya  
-saṅkarṣaṇera vibhūti saba, jāniha niścaya
+six kinds of  opulence  there  all  spiritual  
+saṅkarṣaṇera vibhūti saba, jāniha niścaya  
+of Saṅkarṣaṇa  the glory  all  know  for certain
 
-(44) [not yet translated]
+(44) The six kinds of opulence there are all spiritual. Know for certain that all of them are the glory of Saṅkarṣaṇa.
 
 ‘জীব’ নাম তটস্থাখ্য এক শক্তি হয় ৷  
 মহাসঙ্কর্ষণ — সব জীবের আশ্রয় ॥ ৪৫ ॥
 
 ‘jīva’ nāma taṭasthākhya eka śakti haya  
-mahā-saṅkarṣaṇa — saba jīvera āśraya
+jīva  named  called marginal  one  potency  there is  
+mahā-saṅkarṣaṇa — saba jīvera āśraya  
+Mahā-Saṅkarṣaṇa  of all  souls  the shelter
 
-(45) [not yet translated]
+(45) There is one potency called marginal (*taṭasthā*); it is named *jīva*. Mahā-Saṅkarṣaṇa is the shelter of all the souls.
 
 যাঁহা হৈতে বিশ্বোৎপত্তি, যাঁহাতে প্রলয় ৷  
 সেই পুরুষের সঙ্কর্ষণ সমাশ্রয় ॥ ৪৬ ॥
 
 yāṅhā haite viśvotpatti, yāṅhāte pralaya  
-sei puruṣera saṅkarṣaṇa samāśraya
+from whom  the origin of the universe  in whom  dissolution  
+sei puruṣera saṅkarṣaṇa samāśraya  
+of that  Puruṣa  Saṅkarṣaṇa  the shelter
 
-(46) [not yet translated]
+(46) Saṅkarṣaṇa is the shelter of that Puruṣa from whom the universe arises and into whom it dissolves.
 
 সর্ব্বাশ্রয়, সর্ব্বাদ্ভুত, ঐশ্বর্য্য অপার ৷  
 ‘অনন্ত’ কহিতে নারে মহিমা যাঁহার ॥ ৪৭ ॥
 
 sarvāśraya, sarvādbhuta, aiśvarya apāra  
-‘ananta’ kahite nāre mahimā yāṅhāra
+the shelter of all  wonderful in every way  opulence  boundless  
+‘ananta’ kahite nāre mahimā yāṅhāra  
+Ananta  to describe  cannot  the glory  whose
 
-(47) [not yet translated]
+(47) He is the shelter of all and wonderful in every way, and His opulence is boundless. Even Ananta cannot describe His glory.
 
 তুরীয়, বিশুদ্ধসত্ত্ব, ‘সঙ্কর্ষণ’ নাম ৷  
 তিঁহো যাঁর অংশ, সেই নিত্যানন্দ-রাম ॥ ৪৮ ॥
 
 turīya, viśuddha-sattva, ‘saṅkarṣaṇa’ nāma  
-tiṅho yāṅra aṁśa, sei nityānanda-rāma
+transcendent  of pure being  Saṅkarṣaṇa  named  
+tiṅho yāṅra aṁśa, sei nityānanda-rāma  
+He  whose  portion  that  Nityānanda-Rāma
 
-(48) [not yet translated]
+(48) That transcendent One, made of pure being and named Saṅkarṣaṇa, is a portion of Nityānanda-Rāma.
 
 অষ্টম শ্লোকের কৈল সংক্ষেপ বিবরণ ৷  
 নবম শ্লোকের অর্থ শুন দিয়া মন ॥ ৪৯ ॥
 
 aṣṭama ślokera kaila saṅkṣepa vivaraṇa  
-navama ślokera artha śuna diyā mana
+of the eighth  verse  I have made  brief  explanation  
+navama ślokera artha śuna diyā mana  
+of the ninth  verse  the meaning  hear  giving  your mind
 
-(49) [not yet translated]
+(49) I have briefly explained the eighth verse. Now hear attentively the meaning of the ninth.
 
 মায়াভর্ত্তাজাণ্ডসঙ্ঘাশ্রয়াঙ্গঃ  
 শেতে সাক্ষাৎ কারণাম্ভোধিমধ্যে ৷  
@@ -490,171 +534,215 @@ navama ślokera artha śuna diyā mana
 স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ৫০ ॥
 
 māyā-bhartājāṇḍa-saṅghāśrayāṅgaḥ  
+the master of māyā  whose body shelters the multitude of universes  
 śete sākṣāt kāraṇāmbhodhi-madhye  
+lies  in person  in the midst of the Causal Ocean  
 yasyaikāṁśaḥ śrī-pumān ādi-devas  
-taṁ śrī-nityānanda-rāmaṁ prapadye
+whose  one portion  the blessed Puruṣa  the original Lord  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī Nityānanda-Rāma  I surrender
 
-(50) [not yet translated]
+(50) “The blessed Puruṣa, the original Lord and the master of māyā, whose body shelters the multitude of universes, lies in person in the midst of the Causal Ocean. He is but one portion of Nityānanda. I surrender to that Śrī Nityānanda-Rāma.” (Svarūpa Dāmodara’s diary)
 
 বৈকুণ্ঠ-বাহিরে যেই জ্যোতির্ময় ধাম ৷  
 তাহার বাহিরে ‘কারণার্ণব’ নাম ॥ ৫১ ॥
 
 vaikuṇṭha-bāhire yei jyotir-maya dhāma  
-tāhāra bāhire ‘kāraṇārṇava’ nāma
+outside Vaikuṇṭha  which  effulgent  abode  
+tāhāra bāhire ‘kāraṇārṇava’ nāma  
+of it  outside  Kāraṇārṇava  named
 
-(51) [not yet translated]
+(51) Outside Vaikuṇṭha lies the abode of light, and beyond it lies what is called the Kāraṇārṇava, the Causal Ocean.
 
 বৈকুণ্ঠ বেড়িয়া এক আছে জলনিধি ৷  
 অনন্ত, অপার — তার নাহিক অবধি ॥ ৫২ ॥
 
 vaikuṇṭha beḍiyā eka āche jala-nidhi  
-ananta, apāra — tāra nāhika avadhi
+Vaikuṇṭha  surrounding  one  there is  ocean  
+ananta, apāra — tāra nāhika avadhi  
+endless  shoreless  its  there is not  limit
 
-(52) [not yet translated]
+(52) Surrounding Vaikuṇṭha is an ocean, endless and shoreless, without any limit.
 
 বৈকুণ্ঠের পৃথিব্যাদি সকল চিন্ময় ৷  
 মায়িক ভূতের তথি জন্ম নাহি হয় ॥ ৫৩ ॥
 
 vaikuṇṭhera pṛthivy-ādi sakala cinmaya  
-māyika bhūtera tathi janma nāhi haya
+of Vaikuṇṭha  earth and the rest  all  spiritual  
+māyika bhūtera tathi janma nāhi haya  
+of material  elements  there  birth  not  is
 
-(53) [not yet translated]
+(53) In Vaikuṇṭha the earth and all the other elements are spiritual. No material element ever arises there.
 
 চিন্ময়-জল সেই পরম-কারণ ৷  
 যার এক কণা গঙ্গা পতিতপাবন ॥ ৫৪ ॥
 
 cinmaya-jala sei parama-kāraṇa  
-yāra eka kaṇā gaṅgā patita-pāvana
+spiritual  water  that  the supreme  cause  
+yāra eka kaṇā gaṅgā patita-pāvana  
+of which  one  drop  the Gaṅgā  of the fallen  the purifier
 
-(54) [not yet translated]
+(54) That spiritual water is the supreme cause. The Gaṅgā, purifier of the fallen, is a single drop of it.
 
 সেই ত’ কারণার্ণবে সেই সঙ্কর্ষণ ৷  
 আপনার এক অংশে করেন শয়ন ॥ ৫৫ ॥
 
 sei ta’ kāraṇārṇave sei saṅkarṣaṇa  
-āpanāra eka aṁśe karena śayana
+in that  very  Causal Ocean  that  Saṅkarṣaṇa  
+āpanāra eka aṁśe karena śayana  
+His own  in one  portion  does  lying down
 
-(55) [not yet translated]
+(55) In that Causal Ocean, the same Saṅkarṣaṇa lies in one of His portions.
 
 মহৎস্রষ্টা পুরুষ, তিঁহো জগৎ-কারণ ৷  
 আদ্য-অবতার করে মায়ার দরশন ॥ ৫৬ ॥
 
 mahat-sraṣṭā puruṣa, tiṅho jagat-kāraṇa  
-ādya-avatāra kare māyāra daraśana
+of the mahat  the creator  the Puruṣa  He  of the world  the cause  
+ādya-avatāra kare māyāra daraśana  
+the first  avatāra  does  of māyā  seeing
 
-(56) [not yet translated]
+(56) He is the Puruṣa, the creator of the *mahat-tattva* and the cause of the world. This first avatāra casts His glance upon māyā.
 
 মায়াশক্তি রহে কারণাব্ধির বাহিরে ৷  
 কারণ-সমুদ্র মায়া পরশিতে নারে ॥ ৫৭ ॥
 
 māyā-śakti rahe kāraṇābdhira bāhire  
-kāraṇa-samudra māyā paraśite nāre
+the potency māyā  remains  of the Causal Ocean  outside  
+kāraṇa-samudra māyā paraśite nāre  
+the Causal  Ocean  māyā  to touch  cannot
 
-(57) [not yet translated]
+(57) The potency called māyā remains outside the Causal Ocean; māyā cannot touch its waters.
 
 সেই ত’ মায়ার দুই-বিধ অবস্থিতি ৷  
 জগতের উপাদান ‘প্রধান’, ‘প্রকৃতি’ ॥ ৫৮ ॥
 
 sei ta’ māyāra dui-vidha avasthiti  
-jagatera upādāna ‘pradhāna’, ‘prakṛti’
+of that  very  māyā  two kinds of  states  
+jagatera upādāna ‘pradhāna’, ‘prakṛti’  
+of the world  the ingredient  pradhāna  prakṛti
 
-(58) [not yet translated]
+(58) That māyā exists in two aspects. As the material ingredient of the world, she is called *pradhāna* or *prakṛti*.
 
 জগৎকারণ নহে প্রকৃতি জড়রূপা ৷  
 শক্তি সঞ্চারিয়া তারে কৃষ্ণ করে কৃপা ॥ ৫৯ ॥
 
 jagat-kāraṇa nahe prakṛti jaḍa-rūpā  
-śakti sañcāriyā tāre kṛṣṇa kare kṛpā
+of the world  the cause  is not  prakṛti  inert by nature  
+śakti sañcāriyā tāre kṛṣṇa kare kṛpā  
+potency  infusing  to her  Kṛṣṇa  shows  mercy
 
-(59) [not yet translated]
+(59) Prakṛti, inert by nature, cannot be the cause of the world. Kṛṣṇa shows her mercy by infusing her with His potency.
 
 কৃষ্ণশক্ত্যে প্রকৃতি হয় গৌণ কারণ ৷  
 অগ্নিশক্ত্যে লৌহ যৈছে করয়ে জারণ ॥ ৬০ ॥
 
 kṛṣṇa-śaktye prakṛti haya gauṇa kāraṇa  
-agni-śaktye lauha yaiche karaye jāraṇa
+by Kṛṣṇa's  potency  prakṛti  becomes  secondary  cause  
+agni-śaktye lauha yaiche karaye jāraṇa  
+by the power of fire  iron  as  does  burning
 
-(60) [not yet translated]
+(60) By Kṛṣṇa's potency prakṛti becomes a secondary cause, just as iron burns by the power of fire.
 
 অতএব কৃষ্ণ মূল-জগৎকারণ ৷  
 প্রকৃতি — কারণ, যৈছে অজাগলস্তন ॥ ৬১ ॥
 
 ataeva kṛṣṇa mūla-jagat-kāraṇa  
-prakṛti — kāraṇa, yaiche ajā-gala-stana
+therefore  Kṛṣṇa  the original  of the world  cause  
+prakṛti — kāraṇa, yaiche ajā-gala-stana  
+prakṛti  a cause  like  of a goat  on the neck  the nipples
 
-(61) [not yet translated]
+(61) Therefore Kṛṣṇa is the original cause of the world. Prakṛti is a cause only in the way the nipples on a goat's neck are nipples.
 
 মায়া-অংশে কহি তারে নিমিত্ত-কারণ ৷  
 সেহ নহে, যাতে কর্ত্তা-হেতু — নারায়ণ ॥ ৬২ ॥
 
 māyā-aṁśe kahi tāre nimitta-kāraṇa  
-seha nahe, yāte kartā-hetu — nārāyaṇa
+in the aspect of māyā  I call  her  the efficient  cause  
+seha nahe, yāte kartā-hetu — nārāyaṇa  
+that too  is not  because  the agent  cause  Nārāyaṇa
 
-(62) [not yet translated]
+(62) In her aspect as māyā she is called the efficient cause. But she is not that either, for the agent who acts as the cause is Nārāyaṇa.
 
 ঘটের নিমিত্ত-হেতু যৈছে কুম্ভকার ৷  
 তৈছে জগতের কর্ত্তা — পুরুষাবতার ॥ ৬৩ ॥
 
 ghaṭera nimitta-hetu yaiche kumbhakāra  
-taiche jagatera kartā — puruṣāvatāra
+of the pot  the efficient  cause  as  the potter  
+taiche jagatera kartā — puruṣāvatāra  
+so  of the world  the maker  the Puruṣa-avatāra
 
-(63) [not yet translated]
+(63) As the potter is the efficient cause of a pot, so the Puruṣa-avatāra is the maker of the world.
 
 কৃষ্ণ — কর্ত্তা, মায়া তাঁর করেন সহায় ৷  
 ঘটের কারণ — চক্র-দণ্ডাদি উপায় ॥ ৬৪ ॥
 
 kṛṣṇa — kartā, māyā tāṅra karena sahāya  
-ghaṭera kāraṇa — cakra-daṇḍādi upāya
+Kṛṣṇa  the maker  māyā  to Him  renders  help  
+ghaṭera kāraṇa — cakra-daṇḍādi upāya  
+of the pot  the cause  wheel  rod and so on  instruments
 
-(64) [not yet translated]
+(64) Kṛṣṇa is the maker, and māyā merely assists Him, as the wheel, the rod and the other instruments assist in making a pot.
 
 দূর হৈতে পুরুষ করে মায়াতে অবধান ৷  
 জীবরূপ বীর্য্য তাতে করেন আধান ॥ ৬৫ ॥
 
 dūra haite puruṣa kare māyāte avadhāna  
-jīva-rūpa vīrya tāte karena ādhāna
+from afar  the Puruṣa  does  upon māyā  glancing  
+jīva-rūpa vīrya tāte karena ādhāna  
+of souls  in the form  seed  into her  He does  placing
 
-(65) [not yet translated]
+(65) From afar the Puruṣa glances at māyā and places in her the seed in the form of the souls.
 
 এক অঙ্গাভাসে করে মায়াতে মিলন ৷  
 মায়া হৈতে জন্মে তবে ব্রহ্মাণ্ডের গণ ॥ ৬৬ ॥
 
 eka aṅgābhāse kare māyāte milana  
-māyā haite janme tabe brahmāṇḍera gaṇa
+with one  reflection of His body  He does  with māyā  contact  
+māyā haite janme tabe brahmāṇḍera gaṇa  
+from māyā  are born  then  of universes  multitudes
 
-(66) [not yet translated]
+(66) Only a reflection of His body comes into contact with māyā, and from māyā multitudes of universes are then born.
 
 অগণ্য, অনন্ত যত অণ্ড-সন্নিবেশ ৷  
 ততরূপে পুরুষ করে সবাতে প্রবেশ ॥ ৬৭ ॥
 
 agaṇya, ananta yata aṇḍa-sanniveśa  
-tata-rūpe puruṣa kare sabāte praveśa
+countless  unlimited  as many as  of universes  clusters  
+tata-rūpe puruṣa kare sabāte praveśa  
+in as many  forms  the Puruṣa  does  into all  entering
 
-(67) [not yet translated]
+(67) However many universes there are, countless and unlimited, in so many forms the Puruṣa enters them all.
 
 পুরুষ-নাসাতে যবে বাহিরায় শ্বাস ৷  
 নিশ্বাস সহিতে হয় ব্রহ্মাণ্ড-প্রকাশ ॥ ৬৮ ॥
 
 puruṣa-nāsāte yabe bāhirāya śvāsa  
-niśvāsa sahite haya brahmāṇḍa-prakāśa
+from the Puruṣa's nostrils  when  comes out  the breath  
+niśvāsa sahite haya brahmāṇḍa-prakāśa  
+the exhalation  with  there is  of the universes  manifestation
 
-(68) [not yet translated]
+(68) When the breath goes out from the Puruṣa's nostrils, the universes become manifest with His exhalation.
 
 পুনরপি শ্বাস যবে প্রবেশে অন্তরে ৷  
 শ্বাস-সহ ব্রহ্মাণ্ড পৈশে পুরুষ-শরীরে ॥ ৬৯ ॥
 
 punarapi śvāsa yabe praveśe antare  
-śvāsa-saha brahmāṇḍa paiśe puruṣa-śarīre
+again  the breath  when  enters  within  
+śvāsa-saha brahmāṇḍa paiśe puruṣa-śarīre  
+with the breath  the universes  enter  into the Puruṣa's body
 
-(69) [not yet translated]
+(69) And when the breath enters Him again, the universes enter the Puruṣa's body with it.
 
 গবাক্ষের রন্ধ্রে যেন ত্রসরেণু চলে ৷  
 পুরুষের লোমকূপে ব্রহ্মাণ্ডের জালে ॥ ৭০ ॥
 
 gavākṣera randhre yena trasareṇu cale  
-puruṣera loma-kūpe brahmāṇḍera jāle
+of a window  through the openings  as  specks of dust  move  
+puruṣera loma-kūpe brahmāṇḍera jāle  
+of the Puruṣa  in the pores of the skin  of universes  swarms
 
-(70) [not yet translated]
+(70) As specks of dust move through the openings of a lattice window, so swarms of universes move through the pores of the Puruṣa's skin.
 
 যস্যৈকনিশ্বসিতকালমথাবলম্ব্য  
 জীবন্তি লোমবিলজা জগদণ্ডনাথাঃ ৷  
@@ -662,11 +750,15 @@ puruṣera loma-kūpe brahmāṇḍera jāle
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ৭১ ॥
 
 yasyaika-niśvasita-kālam athāvalambya  
+whose  one  exhalation  the duration  then  depending on  
 jīvanti loma-vila-jā jagad-aṇḍa-nāthāḥ  
+live  born from the pores of the skin  of the universes  the lords  
 viṣṇur mahān sa iha yasya kalā-viśeṣo  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+Viṣṇu  great  He  here  whose  part  a particular  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(71) [not yet translated]
+(71) “The lords of the universes, born from the pores of His skin, live only for the duration of one of His exhalations. He is Mahā-Viṣṇu, and He is a particular part of Govinda, the original Person, whom I worship.” (Brahma-saṁhitā 5.48)
 
 ক্বাহং তমো-মহদহং-খ-চরাগ্নিবার্ভূ-  
 সংবেষ্টিতাণ্ডঘট-সপ্তবিতস্তিকায়ঃ ৷  
@@ -674,98 +766,128 @@ govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
 বাতাধ্বরোমবিবরস্য চ তে মহিত্বম্ ॥ ৭২ ॥
 
 kvāhaṁ tamo-mahad-ahaṁ-kha-carāgni-vār-bhū-  
+where  I  by darkness  the mahat  false ego  ether  air  fire  water  earth  
 saṁveṣṭitāṇḍa-ghaṭa-sapta-vitasti-kāyaḥ  
+enclosed  of a universe  in the pot  seven  spans  having a body  
 kvedṛg-vidhā ’vigaṇitāṇḍa-parāṇu-caryā-  
-vātādhva-roma-vivarasya ca te mahitvam
+where  such  countless  universes  like specks of dust  the movement  
+vātādhva-roma-vivarasya ca te mahitvam  
+like air-holes of a window  the pores of whose skin  and  Your  greatness
 
-(72) [not yet translated]
+(72) “What am I, with a body seven spans tall, inside the pot of a universe enclosed by darkness, the *mahat*, false ego, ether, air, fire, water and earth? And what is Your greatness? Through the pores of Your skin countless such universes move like specks of dust through the openings of a window.” (Śrīmad-Bhāgavatam 10.14.11)
 
 অংশের অংশ যেই, ‘কলা’ তার নাম ৷  
 গোবিন্দের প্রতিমূর্ত্তি শ্রীবলরাম ॥ ৭৩ ॥
 
 aṁśera aṁśa yei, ‘kalā’ tāra nāma  
-govindera pratimūrti śrī-balarāma
+of a portion  the portion  which  kalā  its  name  
+govindera pratimūrti śrī-balarāma  
+of Govinda  the counterpart  Śrī Balarāma
 
-(73) [not yet translated]
+(73) A portion of a portion is called a *kalā*. Śrī Balarāma is Govinda's counterpart.
 
 তাঁর এক স্বরূপ — শ্রীমহাসঙ্কর্ষণ ৷  
 তাঁর অংশ ‘পুরুষ’ হয় কলাতে গণন ॥ ৭৪ ॥
 
 tāṅra eka svarūpa — śrī-mahā-saṅkarṣaṇa  
-tāṅra aṁśa ‘puruṣa’ haya kalāte gaṇana
+His  one  form  Śrī Mahā-Saṅkarṣaṇa  
+tāṅra aṁśa ‘puruṣa’ haya kalāte gaṇana  
+His  portion  the Puruṣa  is  among the kalās  counted
 
-(74) [not yet translated]
+(74) One of His forms is Śrī Mahā-Saṅkarṣaṇa, and His portion, the Puruṣa, is counted as a *kalā*.
 
 যাঁহাকে ত’ কলা কহি, তিঁহো মহাবিষ্ণু ৷  
 মহাপুরুষাবতারী, সেহো সর্ব্বজিষ্ণু ॥ ৭৫ ॥
 
 yāṅhāke ta’ kalā kahi, tiṅho mahā-viṣṇu  
-mahā-puruṣāvatārī, seho sarva-jiṣṇu
+whom  indeed  kalā  I call  He  Mahā-Viṣṇu  
+mahā-puruṣāvatārī, seho sarva-jiṣṇu  
+the great Puruṣa  source of avatāras  He  all-conquering
 
-(75) [not yet translated]
+(75) The one I call a *kalā* is Mahā-Viṣṇu. He is the great Puruṣa, the source of avatāras, victorious over all.
 
 গর্ভোদ-ক্ষীরোদ-শায়ী দোঁহে ‘পুরুষ’ নাম ৷  
 সেই দুই, যাঁর অংশ, — বিষ্ণু, বিশ্বধাম ॥ ৭৬ ॥
 
 garbhoda-kṣīroda-śāyī doṅhe ‘puruṣa’ nāma  
-sei dui, yāṅra aṁśa, — viṣṇu, viśvadhāma
+lying in the Garbha and Milk Oceans  both  Puruṣa  named  
+sei dui, yāṅra aṁśa, — viṣṇu, viśvadhāma  
+those  two  whose  portions  Viṣṇu  the abode of the universe
 
-(76) [not yet translated]
+(76) Garbhodaśāyī and Kṣīrodaśāyī are both called Puruṣas. Those two are portions of Him — Viṣṇu, the abode of the universes.
 
 বিষ্ণোস্তু ত্রীণি রূপাণি পুরুষাখ্যান্যথো বিদুঃ ৷  
 একন্তুমহতঃ স্রষ্টৃ দ্বিতীয়ং ত্বণ্ডসংস্থিতম্ ৷  
 তৃতীয়ং সর্ব্বভূতস্থং তানি জ্ঞাত্বা বিমুচ্যতে ॥ ৭৭ ॥
 
 viṣṇos tu trīṇi rūpāṇi  
+of Viṣṇu  indeed  three  forms  
 puruṣākhyāny atho viduḥ  
+called Puruṣa  now  they know  
 ekaṁ tu mahataḥ sraṣṭṛ  
+one  indeed  of the mahat  the creator  
 dvitīyaṁ tv aṇḍa-saṁsthitam  
+the second  and  within the universe  situated  
 tṛtīyaṁ sarva-bhūta-sthaṁ  
-tāni jñātvā vimucyate
+the third  in all beings  situated  
+tāni jñātvā vimucyate  
+them  knowing  one is liberated
 
-(77) [not yet translated]
+(77) “Viṣṇu has three forms, known as the Puruṣas. The first creates the *mahat-tattva*, the second lies within the universe, and the third dwells in all beings. One who knows them is liberated.” (Sātvata-tantra; Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa 2.9)
 
 যদ্যপি কহিয়ে তাঁরে কৃষ্ণের ‘কলা’ করি ৷  
 মৎস্যকূর্ম্মাদ্যবতারের তিঁহো অবতারী ॥ ৭৮ ॥
 
 yadyapi kahiye tāṅre kṛṣṇera ‘kalā’ kari  
-matsya-kūrmādy-avatārera tiṅho avatārī
+although  I call  Him  of Kṛṣṇa  a kalā  making  
+matsya-kūrmādy-avatārera tiṅho avatārī  
+of Matsya, Kūrma and other  avatāras  He  the source
 
-(78) [not yet translated]
+(78) Although I call Him a *kalā* of Kṛṣṇa, He is the source of Matsya, Kūrma and the other avatāras.
 
 এতে চাংশকলাঃ পুংসঃ কৃষ্ণস্তু ভগবান্ স্বয়ম্ ৷  
 ইন্দ্রারিব্যাকুলং লোকং মৃড়য়ন্তি যুগে যুগে ॥ ৭৯ ॥
 
 ete cāṁśa-kalāḥ puṁsaḥ  
+these  and  portions and parts  of the Puruṣa  
 kṛṣṇas tu bhagavān svayam  
+Kṛṣṇa  but  Bhagavān  Himself  
 indrāri-vyākulaṁ lokaṁ  
-mṛḍayanti yuge yuge
+by the enemies of Indra  troubled  the world  
+mṛḍayanti yuge yuge  
+make happy  in age  after age
 
-(79) [not yet translated]
+(79) “All these are portions and parts of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring relief to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam 1.3.28)
 
 সেই পুরুষ সৃষ্টি-স্থিতি-প্রলয়ের কর্ত্তা ৷  
 নানা অবতার করে, জগতের ভর্ত্তা ॥ ৮০ ॥
 
 sei puruṣa sṛṣṭi-sthiti-pralayera kartā  
-nānā avatāra kare, jagatera bhartā
+that  Puruṣa  of creation, maintenance and dissolution  the doer  
+nānā avatāra kare, jagatera bhartā  
+various  avatāras  He makes  of the world  the sustainer
 
-(80) [not yet translated]
+(80) That Puruṣa creates, maintains and dissolves the universe. He descends as many avatāras, for He is the sustainer of the world.
 
 সৃষ্ট্যাদি-নিমিত্তে যেই অংশের অবধান ৷  
 সেই ত’ অংশেরে কহি ‘অবতার’ নাম ॥ ৮১ ॥
 
 sṛṣṭy-ādi-nimitte yei aṁśera avadhāna  
-sei ta’ aṁśere kahi ‘avatāra’ nāma
+of creation and the rest  for the sake  which  of a portion  the descent  
+sei ta’ aṁśere kahi ‘avatāra’ nāma  
+that  indeed  portion  I call  avatāra  by name
 
-(81) [not yet translated]
+(81) The portion that descends for creation and the rest is called an avatāra.
 
 আদ্যাবতার, মহাপুরুষ, ভগবান্ ৷  
 সর্ব্ব-অবতার-বীজ, সর্ব্বাশ্রয়-ধাম ॥ ৮২ ॥
 
 ādyāvatāra, mahā-puruṣa, bhagavān  
-sarva-avatāra-bīja, sarvāśraya-dhāma
+the first avatāra  the great Puruṣa  Bhagavān  
+sarva-avatāra-bīja, sarvāśraya-dhāma  
+of all avatāras  the seed  the shelter of all  the abode
 
-(82) [not yet translated]
+(82) The great Puruṣa is the first avatāra and Bhagavān. He is the seed of all avatāras, the abode where all find shelter.
 
 আদ্যোঽবতারঃ পুরুষঃ পরস্য  
 কালঃ স্বভাবঃ সদসন্মনশ্চ ৷  
@@ -773,87 +895,113 @@ sarva-avatāra-bīja, sarvāśraya-dhāma
 বিরাট্ স্বরাট্ স্থাস্নু চরিষ্ণু ভূম্নঃ ॥ ৮৩ ॥
 
 ādyo ’vatāraḥ puruṣaḥ parasya  
+the first  avatāra  the Puruṣa  of the Supreme  
 kālaḥ svabhāvaḥ sad-asan manaś ca  
+time  nature  cause and effect  the mind  and  
 dravyaṁ vikāro guṇa indriyāṇi  
-virāṭ svarāṭ sthāsnu cariṣṇu bhūmnaḥ
+the elements  false ego  the modes  the senses  
+virāṭ svarāṭ sthāsnu cariṣṇu bhūmnaḥ  
+the universal form  the independent one  the unmoving  the moving  of the Great One
 
-(83) [not yet translated]
+(83) “The Puruṣa is the first avatāra of the Supreme. Time, nature, cause and effect, the mind, the elements, false ego, the modes, the senses, the universal form (*virāṭ*), the independent one (*svarāṭ*), and all beings, unmoving and moving, are manifestations of the Great One.” (Śrīmad-Bhāgavatam 2.6.42)
 
 জগৃহে পৌরুষং রূপং ভগবান্মহদাদিভিঃ ৷  
 সম্ভূতং ষোড়শকলমাদৌ লোকসিসৃক্ষয়া ॥ ৮৪ ॥
 
 jagṛhe pauruṣaṁ rūpaṁ  
+He accepted  of the Puruṣa  the form  
 bhagavān mahad-ādibhiḥ  
+Bhagavān  with the mahat and the rest  
 sambhūtaṁ ṣoḍaśa-kalam  
-ādau loka-sisṛkṣayā
+produced  of sixteen  parts  
+ādau loka-sisṛkṣayā  
+in the beginning  the worlds  with the desire to create
 
-(84) [not yet translated]
+(84) “In the beginning, desiring to create the worlds, Bhagavān manifested the form of the Puruṣa, together with the *mahat-tattva* and the other elements — sixteen parts in all.” (Śrīmad-Bhāgavatam 1.3.1)
 
 যদ্যপি সর্ব্বাশ্রয় তিঁহো, তাঁহাতে সংসার ৷  
 অন্তরাত্মা-রূপে তিঁহো জগৎ-আধার ॥ ৮৫ ॥
 
 yadyapi sarvāśraya tiṅho, tāṅhāte saṁsāra  
-antarātmā-rūpe tiṅho jagat-ādhāra
+although  the shelter of all  He  in Him  the world  
+antarātmā-rūpe tiṅho jagat-ādhāra  
+of the indwelling Self  in the form  He  of the world  the support
 
-(85) [not yet translated]
+(85) He is the shelter of all, and the material world rests in Him. As the indwelling Self (*antarātmā*) He is also the support of the world.
 
 প্রকৃতি-সহিতে তাঁর উভয় সম্বন্ধ ৷  
 তথাপি প্রকৃতি-সহ নাহি স্পর্শগন্ধ ॥ ৮৬ ॥
 
 prakṛti-sahite tāṅra ubhaya sambandha  
-tathāpi prakṛti-saha nāhi sparśa-gandha
+with prakṛti  His  both kinds of  relation  
+tathāpi prakṛti-saha nāhi sparśa-gandha  
+still  with prakṛti  there is not  of touch  a trace
 
-(86) [not yet translated]
+(86) Thus He is related to prakṛti in both ways, yet He has not the faintest trace of contact with her.
 
 এতদীশনমীশস্য প্রকৃতিস্থোঽপি তদ্গুণৈঃ ৷  
 ন যুজ্যতে সদাত্মস্থৈর্যথা বুদ্ধিস্তদাশ্রয়া ॥ ৮৭ ॥
 
 etad īśanam īśasya  
+this  the divinity  of the Lord  
 prakṛti-stho ’pi tad-guṇaiḥ  
+in material nature  situated  though  by its  qualities  
 na yujyate sadātma-sthair  
-yathā buddhis tad-āśrayā
+not  is touched  always  abiding in Him  
+yathā buddhis tad-āśrayā  
+as  the intelligence  taking shelter of Him
 
-(87) [not yet translated]
+(87) “This is the divinity of the Lord: although He is within material nature, He is never touched by its qualities, though they always rest in Him. In the same way the intelligence of those who take shelter of Him remains untouched by them.” (Śrīmad-Bhāgavatam 1.11.38)
 
 এইমত গীতাতেহ পুনঃ পুনঃ কয় ৷  
 সর্ব্বদা ঈশ্বর-তত্ত্ব অচিন্ত্যশক্তি হয় ॥ ৮৮ ॥
 
 ei mata gītāteha punaḥ punaḥ kaya  
-sarvadā īśvara-tattva acintya-śakti haya
+in this way  in the Gītā too  again  again  it says  
+sarvadā īśvara-tattva acintya-śakti haya  
+always  of the Lord  the truth  inconceivable  power  is
 
-(88) [not yet translated]
+(88) The Gītā too says again and again that the Lord, by His very nature, always possesses inconceivable power:
 
 আমি ত’ জগতে বসি, জগৎ আমাতে ৷  
 না আমি জগতে বসি, না আমা জগতে ॥ ৮৯ ॥
 
 āmi ta’ jagate vasi, jagat āmāte  
-nā āmi jagate vasi, nā āmā jagate
+I  indeed  in the world  dwell  the world  in Me  
+nā āmi jagate vasi, nā āmā jagate  
+not  I  in the world  dwell  not  in Me  the world
 
-(89) [not yet translated]
+(89) “I dwell in the world, and the world rests in Me. Yet I do not dwell in the world, nor does the world rest in Me.
 
 অচিন্ত্য ঐশ্বর্য্য এই জানিহ আমার ৷  
 এই ত’ গীতার অর্থ কৈল পরচার ॥ ৯০ ॥
 
 acintya aiśvarya ei jāniha āmāra  
-ei ta’ gītāra artha kaila paracāra
+inconceivable  opulence  this  know  My  
+ei ta’ gītāra artha kaila paracāra  
+this  indeed  of the Gītā  the meaning  made  known
 
-(90) [not yet translated]
+(90) Know this to be My inconceivable opulence.” This is the meaning of the Gītā, now made known.
 
 সেই ত’ পুরুষ যাঁর ‘অংশ’ ধরে নাম ৷  
 চৈতন্যের সঙ্গে সেই নিত্যানন্দ-রাম ॥ ৯১ ॥
 
 sei ta’ puruṣa yāṅra ‘aṁśa’ dhare nāma  
-caitanyera saṅge sei nityānanda-rāma
+that  indeed  Puruṣa  whose  portion  bears  the name  
+caitanyera saṅge sei nityānanda-rāma  
+of Caitanya  the companion  that  Nityānanda-Rāma
 
-(91) [not yet translated]
+(91) He of whom that Puruṣa is called a portion is Nityānanda-Rāma, the companion of Śrī Caitanya.
 
 এই ত’ নবম শ্লোকের অর্থ-বিবরণ ৷  
 দশম শ্লোকের অর্থ শুন দিয়া মন ॥ ৯২ ॥
 
 ei ta’ navama ślokera artha-vivaraṇa  
-daśama ślokera artha śuna diyā mana
+this  indeed  of the ninth  verse  of the meaning  the explanation  
+daśama ślokera artha śuna diyā mana  
+of the tenth  verse  the meaning  hear  giving  your mind
 
-(92) [not yet translated]
+(92) This is the explanation of the ninth verse. Now hear attentively the meaning of the tenth.
 
 যস্যাংশাংশঃ শ্রীল-গর্ভোদশায়ী  
 যন্নাভ্যব্জং লোকসঙ্ঘাতনালম্ ৷  
@@ -861,59 +1009,75 @@ daśama ślokera artha śuna diyā mana
 স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ৯৩ ॥
 
 yasyāṁśāṁśaḥ śrīla-garbhoda-śāyī  
+whose  portion of a portion  the blessed Garbhodakaśāyī  
 yan-nābhy-abjaṁ loka-saṅghāta-nālam  
+from whose navel the lotus  of the multitude of worlds  the stem  
 loka-sraṣṭuḥ sūtikā-dhāma dhātus  
-taṁ śrī-nityānanda-rāmaṁ prapadye
+of the creator of the worlds  the birthplace  of Brahmā  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī Nityānanda-Rāma  I surrender
 
-(93) [not yet translated]
+(93) “The blessed Garbhodakaśāyī is a portion of His portion. The lotus from His navel has a stem that holds the multitude of worlds, and it is the birthplace of Brahmā, the creator of the worlds. I surrender to that Śrī Nityānanda-Rāma.” (Svarūpa Dāmodara’s diary)
 
 সেই ত’ পুরুষ অনন্তব্রহ্মাণ্ড সৃজিয়া ৷  
 সব অণ্ডে প্রবেশিলা বহু-মূর্ত্তি হঞা ॥ ৯৪ ॥
 
 sei ta’ puruṣa ananta-brahmāṇḍa sṛjiyā  
-saba aṇḍe praveśilā bahu-mūrti hañā
+that  indeed  Puruṣa  unlimited universes  having created  
+saba aṇḍe praveśilā bahu-mūrti hañā  
+all  into the universes  entered  many forms  becoming
 
-(94) [not yet translated]
+(94) Having created unlimited universes, that Puruṣa became many forms and entered them all.
 
 ভিতরে প্রবেশি’ দেখে সব অন্ধকার ৷  
 রহিতে নাহিক স্থান করিল বিচার ॥ ৯৫ ॥
 
 bhitare praveśi’ dekhe saba andhakāra  
-rahite nāhika sthāna karila vicāra
+inside  having entered  He sees  all  darkness  
+rahite nāhika sthāna karila vicāra  
+to stay  there is not  a place  He made  reflection
 
-(95) [not yet translated]
+(95) Entering within, He saw only darkness, with no place to stay, and He reflected on this.
 
 নিজাঙ্গ-স্বেদজল করিল সৃজন ৷  
 সেই জলে কৈল অর্দ্ধ-ব্রহ্মাণ্ড ভরণ ॥ ৯৬ ॥
 
 nijāṅga-sveda-jala karila sṛjana  
-sei jale kaila ardha-brahmāṇḍa bharaṇa
+from His own body  of perspiration  water  He made  creation  
+sei jale kaila ardha-brahmāṇḍa bharaṇa  
+with that  water  He made  half the universe  filling
 
-(96) [not yet translated]
+(96) He created water from the perspiration of His own body, and with that water He filled half the universe.
 
 ব্রহ্মাণ্ড-প্রমাণ পঞ্চাশৎকোটি-যোজন ৷  
 আয়াম, বিস্তার, দুই হয় এক সম ॥ ৯৭ ॥
 
 brahmāṇḍa-pramāṇa pañcāśat-koṭi-yojana  
-āyāma, vistāra, dui haya eka sama
+of the universe  the measure  fifty  crores  of yojanas  
+āyāma, vistāra, dui haya eka sama  
+length  breadth  the two  are  one  equal
 
-(97) [not yet translated]
+(97) The universe measures five hundred million *yojanas*; its length and breadth are the same.
 
 জলে ভরি’ অর্দ্ধ তাঁহা কৈল নিজ-বাস ৷  
 আর অর্দ্ধে কৈল চৌদ্দভুবন প্রকাশ ॥ ৯৮ ॥
 
 jale bhari’ ardha tāṅhā kaila nija-vāsa  
-āra ardhe kaila caudda-bhuvana prakāśa
+with water  filling  half  there  He made  His own dwelling  
+āra ardhe kaila caudda-bhuvana prakāśa  
+in the other  half  He made  of the fourteen worlds  manifestation
 
-(98) [not yet translated]
+(98) Filling half of it with water, He made His dwelling there, and in the other half He manifested the fourteen worlds.
 
 তাঁহাই প্রকট কৈল বৈকুণ্ঠ নিজ-ধাম ৷  
 শেষ-শয়ন-জলে করিল বিশ্রাম ॥ ৯৯ ॥
 
 tāṅhāi prakaṭa kaila vaikuṇṭha nija-dhāma  
-śeṣa-śayana-jale karila viśrāma
+right there  manifest  He made  Vaikuṇṭha  His own abode  
+śeṣa-śayana-jale karila viśrāma  
+on the bed of Śeṣa  in the water  He took  rest
 
-(99) [not yet translated]
+(99) There He manifested Vaikuṇṭha, His own abode, and He rested upon the waters on the bed of Śeṣa.
 
 অনন্তশয়্যাতে তাঁহা করিল শয়ন ৷  
 সহস্র মস্তক তাঁর সহস্র বদন ॥ ১০০ ॥
@@ -922,67 +1086,85 @@ tāṅhāi prakaṭa kaila vaikuṇṭha nija-dhāma
 সর্ব্ব-অবতার-বীজ, জগৎ-কারণ ॥ ১০১ ॥
 
 ananta-śayyāte tāṅhā karila śayana  
+on Ananta as His bed  there  He did  lying down  
 sahasra mastaka tāṅra sahasra vadana  
+thousand  heads  His  thousand  faces  
 sahasra-caraṇa-hasta, sahasra-nayana  
-sarva-avatāra-bīja, jagat-kāraṇa
+thousand feet and hands  thousand eyes  
+sarva-avatāra-bīja, jagat-kāraṇa  
+of all avatāras  the seed  of the world  the cause
 
-(100–101) [not yet translated]
+(100–101) There He lay down on Ananta as His bed. He has a thousand heads and a thousand faces, a thousand feet and hands and a thousand eyes. He is the seed of all avatāras and the cause of the world.
 
 তাঁর নাভিপদ্ম হৈতে উঠিল এক পদ্ম ৷  
 সেই পদ্মে হৈল ব্রহ্মার জন্ম-সদ্ম ॥ ১০২ ॥
 
 tāṅra nābhi-padma haite uṭhila eka padma  
-sei padme haila brahmāra janma-sadma
+His  from the lotus navel  from  arose  one  lotus  
+sei padme haila brahmāra janma-sadma  
+that  lotus  became  of Brahmā  birth  the abode
 
-(102) [not yet translated]
+(102) From His lotus navel arose a lotus, and that lotus became the birthplace of Brahmā.
 
 সেই পদ্মনালে হৈল চৌদ্দভুবন ৷  
 তেঁহো ব্রহ্মা হঞা সৃষ্টি করিল সৃজন ॥ ১০৩ ॥
 
 sei padma-nāle haila caudda-bhuvana  
-teṅho brahmā hañā sṛṣṭi karila sṛjana
+in that  lotus  stem  came to be  the fourteen  worlds  
+teṅho brahmā hañā sṛṣṭi karila sṛjana  
+He  Brahmā  becoming  creation  did  bring forth
 
-(103) [not yet translated]
+(103) Within the stem of that lotus the fourteen worlds came to be. Then, becoming Brahmā, He brought forth the creation.
 
 বিষ্ণুরূপ হঞা করে জগৎ পালনে ৷  
 গুণাতীত-বিষ্ণু স্পর্শ নাহি মায়া-গুণে ॥ ১০৪ ॥
 
 viṣṇu-rūpa hañā kare jagat pālane  
-guṇātīta-viṣṇu sparśa nāhi māyā-guṇe
+Viṣṇu's form  assuming  He does  of the world  protection  
+guṇātīta-viṣṇu sparśa nāhi māyā-guṇe  
+beyond the modes  Viṣṇu  touch  there is not  with māyā's modes
 
-(104) [not yet translated]
+(104) Taking the form of Viṣṇu, He protects the world. Viṣṇu is beyond the modes of nature and has no contact with the modes of māyā.
 
 রুদ্ররূপ ধরি’ করে জগৎ সংহার ৷  
 সৃষ্টি-স্থিতি-প্রলয় — ইচ্ছায় যাঁহার ॥ ১০৫ ॥
 
 rudra-rūpa dhari’ kare jagat saṁhāra  
-sṛṣṭi-sthiti-pralaya — icchāya yāṅhāra
+Rudra's  form  assuming  He does  of the world  destruction  
+sṛṣṭi-sthiti-pralaya — icchāya yāṅhāra  
+creation  maintenance  dissolution  by the will  whose
 
-(105) [not yet translated]
+(105) Taking the form of Rudra, He destroys the world. Creation, maintenance and dissolution all take place by His will.
 
 হিরণ্যগর্ভ, অন্তর্য্যামী, জগৎ-কারণ ৷  
 যাঁর অংশে করি’ করে বিরাট-কল্পন ॥ ১০৬ ॥
 
 hiraṇya-garbha, antaryāmī, jagat-kāraṇa  
-yāṅra aṁśe kari’ kare virāṭa-kalpana
+Hiraṇyagarbha  the indwelling Lord  of the world  the cause  
+yāṅra aṁśe kari’ kare virāṭa-kalpana  
+of whom  as a portion  regarding  they make  the conception of the Virāṭ
 
-(106) [not yet translated]
+(106) He is Hiraṇyagarbha, the indwelling Lord and the cause of the world. The universal form (*virāṭ*) is conceived as a portion of Him.
 
 হেন নারায়ণ, — যাঁর অংশের অংশ ৷  
 সেই প্রভু নিত্যানন্দ — সর্ব্ব-অবতংস ॥ ১০৭ ॥
 
 hena nārāyaṇa, — yāṅra aṁśera aṁśa  
-sei prabhu nityānanda — sarva-avataṁsa
+such  Nārāyaṇa  whose  of a portion  portion  
+sei prabhu nityānanda — sarva-avataṁsa  
+that  Lord  Nityānanda  of all  the crown jewel
 
-(107) [not yet translated]
+(107) Such is Nārāyaṇa, and He is a portion of a portion of Lord Nityānanda, the crown jewel of all.
 
 দশম শ্লোকের অর্থ কৈল বিবরণ ৷  
 একাদশ শ্লোকের অর্থ শুন দিয়া মন ॥ ১০৮ ॥
 
 daśama ślokera artha kaila vivaraṇa  
-ekādaśa ślokera artha śuna diyā mana
+of the tenth  verse  of the meaning  I have made  explanation  
+ekādaśa ślokera artha śuna diyā mana  
+of the eleventh  verse  the meaning  hear  giving  your mind
 
-(108) [not yet translated]
+(108) I have explained the meaning of the tenth verse. Now hear attentively the meaning of the eleventh.
 
 যস্যাংশাংশাংশঃ পরাত্মাখিলানাং  
 পোষ্টা বিষ্ণুর্ভাতি দুগ্ধাব্ধিশায়ী ৷  
@@ -990,83 +1172,105 @@ ekādaśa ślokera artha śuna diyā mana
 স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ১০৯ ॥
 
 yasyāṁśāṁśāṁśaḥ parātmākhilānāṁ  
+whose  portion of a portion of a portion  the Supersoul  of all beings  
 poṣṭā viṣṇur bhāti dugdhābdhi-śāyī  
+the maintainer  Viṣṇu  shines  lying in the Ocean of Milk  
 kṣauṇī-bhartā yat-kalā so ’py anantas  
-taṁ śrī-nityānanda-rāmaṁ prapadye
+the upholder of the earth  whose part  he  also  Ananta  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī Nityānanda-Rāma  I surrender
 
-(109) [not yet translated]
+(109) “Viṣṇu who lies in the Ocean of Milk, the Supersoul and maintainer of all beings, is a portion of a portion of His portion. Ananta, who upholds the earth, is also His part. I surrender to that Śrī Nityānanda-Rāma.” (Svarūpa Dāmodara’s diary)
 
 নারায়ণের নাভিনাল-মধ্যেতে ধরণী ৷  
 ধরণীর মধ্যে সপ্ত সমুদ্র যে গণি ॥ ১১০ ॥
 
 nārāyaṇera nābhi-nāla-madhyete dharaṇī  
-dharaṇīra madhye sapta samudra ye gaṇi
+of Nārāyaṇa  of the navel  the stem  within  the earth  
+dharaṇīra madhye sapta samudra ye gaṇi  
+of the earth  within  seven  oceans  which  are counted
 
-(110) [not yet translated]
+(110) Within the stem from Nārāyaṇa's navel lies the earth, and within the earth are the seven oceans that are counted.
 
 তাঁহা ক্ষীরোদধি-মধ্যে ‘শ্বেতদ্বীপ’ নাম ৷  
 পালয়িতা বিষ্ণু, — তাঁর সেই নিজ ধাম ॥ ১১১ ॥
 
 tāṅhā kṣīrodadhi-madhye ‘śvetadvīpa’ nāma  
-pālayitā viṣṇu, — tāṅra sei nija dhāma
+there  of the Ocean of Milk  in the midst  Śvetadvīpa  named  
+pālayitā viṣṇu, — tāṅra sei nija dhāma  
+the maintainer  Viṣṇu  His  that  own  abode
 
-(111) [not yet translated]
+(111) There, in the midst of the Ocean of Milk, is the island called Śvetadvīpa. It is the abode of Viṣṇu, the maintainer.
 
 সকল জীবের তিঁহো হয়ে অন্তর্য্যামী ৷  
 জগৎ-পালক তিঁহো জগতের স্বামী ॥ ১১২ ॥
 
 sakala jīvera tiṅho haye antaryāmī  
-jagat-pālaka tiṅho jagatera svāmī
+of all  beings  He  is  the indwelling Supersoul  
+jagat-pālaka tiṅho jagatera svāmī  
+of the world  the maintainer  He  of the world  the master
 
-(112) [not yet translated]
+(112) He is the indwelling Supersoul of all beings. He maintains the world and is its master.
 
 যুগ-মন্বন্তরে ধরি’ নানা অবতার ৷  
 ধর্ম্ম সংস্থাপন করে, অধর্ম্ম সংহার ॥ ১১৩ ॥
 
 yuga-manvantare dhari’ nānā avatāra  
-dharma saṁsthāpana kare, adharma saṁhāra
+in the yugas and manvantaras  assuming  various  avatāras  
+dharma saṁsthāpana kare, adharma saṁhāra  
+of religion  the establishment  He does  of irreligion  the destruction
 
-(113) [not yet translated]
+(113) In every *yuga* and *manvantara* He assumes various avatāras, establishing religion and destroying irreligion.
 
 দেবগণে না পায় যাঁহার দরশন ৷  
 ক্ষীরোদকতীরে যাই’ করেন স্তবন ॥ ১১৪ ॥
 
 deva-gaṇe nā pāya yāṅhāra daraśana  
-kṣīrodaka-tīre yāi’ karena stavana
+the gods  not  obtain  whose  sight  
+kṣīrodaka-tīre yāi’ karena stavana  
+of the Ocean of Milk  to the shore  going  they offer  praise
 
-(114) [not yet translated]
+(114) The gods cannot see Him, so they go to the shore of the Ocean of Milk and offer Him prayers.
 
 তবে অবতরি’ করে জগৎ পালন ৷  
 অনন্ত বৈভব তাঁর নাহিক গণন ॥ ১১৫ ॥
 
 tabe avatari’ kare jagat pālana  
-ananta vaibhava tāṅra nāhika gaṇana
+then  descending  He does  of the world  protection  
+ananta vaibhava tāṅra nāhika gaṇana  
+unlimited  opulences  His  there is not  counting
 
-(115) [not yet translated]
+(115) Then He descends and protects the world. His opulences are unlimited and beyond counting.
 
 সেই বিষ্ণু হয় যাঁর অংশাংশের অংশ ৷  
 সেই প্রভু নিত্যানন্দ — সর্ব্ব-অবতংস ॥ ১১৬ ॥
 
 sei viṣṇu haya yāṅra aṁśāṁśera aṁśa  
-sei prabhu nityānanda — sarva-avataṁsa
+that  Viṣṇu  is  whose  of a portion of a portion  portion  
+sei prabhu nityānanda — sarva-avataṁsa  
+that  Lord  Nityānanda  of all  the crown jewel
 
-(116) [not yet translated]
+(116) That Viṣṇu is a portion of a portion of a portion of Lord Nityānanda, the crown jewel of all.
 
 সেই বিষ্ণু ‘শেষ’ রূপে ধরেন ধরণী ৷  
 কাঁহা আছে মহী, শিরে, হেন নাহি জানি ॥ ১১৭ ॥
 
 sei viṣṇu ‘śeṣa’ rūpe dharena dharaṇī  
-kāṅhā āche mahī, śire, hena nāhi jāni
+that  Viṣṇu  of Śeṣa  in the form  holds  the earth  
+kāṅhā āche mahī, śire, hena nāhi jāni  
+where  is  the earth  on His head  such  not  He knows
 
-(117) [not yet translated]
+(117) In the form of Śeṣa that Viṣṇu holds up the earth, yet He does not even know where on His heads it rests.
 
 সহস্র বিস্তীর্ণ যাঁর ফণার মণ্ডল ৷  
 সূর্য্য জিনি’ মণিগণ করে ঝলমল ॥ ১১৮ ॥
 
 sahasra vistīrṇa yāṅra phaṇāra maṇḍala  
-sūrya jini’ maṇi-gaṇa kare jhala-mala
+thousand  broad  whose  of hoods  the circle  
+sūrya jini’ maṇi-gaṇa kare jhala-mala  
+the sun  surpassing  of jewels  hosts  make  glittering
 
-(118) [not yet translated]
+(118) His thousand broad hoods spread in a circle, and on them hosts of jewels glitter more brightly than the sun.
 
 পঞ্চাশৎকোটি-যোজন পৃথিবী বিস্তার ৷  
 যাঁর একফণে রহে সর্ষপ-আকার ॥ ১১৯ ॥
