@@ -59,17 +59,20 @@ button { font: inherit; color: inherit; cursor: pointer; }
   background: linear-gradient(transparent 60%, rgba(40, 22, 10, .5) 78%, rgba(30, 16, 7, .8));
 }
 /* Пейзаж — панорама Навадвипы (две картинки пользователя, склеены без шва; соотношение 3208:724).
-   За названием и списком лил — тёмный фон; панорама начинается у правого края списка (--land-left, считает
-   app.js) и плавно проявляется из темноты; прижата к правому краю, снизу растворяется под ленту. */
+   Прижата к правому краю; левый край панорамы плавно уходит в темноту; снизу растворяется под ленту;
+   под названием — мягкая вуаль. (Вариант, утверждённый пользователем 2026-10-10.) */
 .landscape {
-  position: absolute; top: calc(var(--land-h) * -.17); left: var(--land-left, 50%); right: 0; z-index: 0; pointer-events: none;
-  height: calc(var(--land-h) * 1.08);
-  --fade: min(640px, 80%); /* ширина плавного проявления из темноты */
+  position: absolute; top: calc(var(--land-h) * -.17); right: 0; z-index: 0; pointer-events: none;
+  height: calc(var(--land-h) * 1.08); width: max(100%, calc(var(--land-h) * 4.43));
   background: url("assets/img/header-panorama.jpg") right top / calc(var(--land-h) * 4.43) var(--land-h) no-repeat;
-  -webkit-mask-image: linear-gradient(90deg, rgba(0,0,0,0) calc(var(--fade) * 0), rgba(0,0,0,0.03) calc(var(--fade) * 0.1), rgba(0,0,0,0.1) calc(var(--fade) * 0.2), rgba(0,0,0,0.22) calc(var(--fade) * 0.3), rgba(0,0,0,0.38) calc(var(--fade) * 0.4), rgba(0,0,0,0.56) calc(var(--fade) * 0.5), rgba(0,0,0,0.73) calc(var(--fade) * 0.6), rgba(0,0,0,0.87) calc(var(--fade) * 0.7), rgba(0,0,0,0.96) calc(var(--fade) * 0.8), rgba(0,0,0,1) calc(var(--fade) * 0.9)), linear-gradient(#000 46%, transparent 92%);
+  -webkit-mask-image: linear-gradient(90deg, transparent calc(100% - var(--land-h) * 4.43), #000 calc(100% - var(--land-h) * 3.1)), linear-gradient(#000 46%, transparent 92%);
   -webkit-mask-composite: source-in;
-  mask-image: linear-gradient(90deg, rgba(0,0,0,0) calc(var(--fade) * 0), rgba(0,0,0,0.03) calc(var(--fade) * 0.1), rgba(0,0,0,0.1) calc(var(--fade) * 0.2), rgba(0,0,0,0.22) calc(var(--fade) * 0.3), rgba(0,0,0,0.38) calc(var(--fade) * 0.4), rgba(0,0,0,0.56) calc(var(--fade) * 0.5), rgba(0,0,0,0.73) calc(var(--fade) * 0.6), rgba(0,0,0,0.87) calc(var(--fade) * 0.7), rgba(0,0,0,0.96) calc(var(--fade) * 0.8), rgba(0,0,0,1) calc(var(--fade) * 0.9)), linear-gradient(#000 46%, transparent 92%);
+  mask-image: linear-gradient(90deg, transparent calc(100% - var(--land-h) * 4.43), #000 calc(100% - var(--land-h) * 3.1)), linear-gradient(#000 46%, transparent 92%);
   mask-composite: intersect;
+}
+.landscape::after { /* мягкая вуаль под названием, чтобы текст читался */
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, rgba(20, 13, 7, .7) 0, rgba(20, 13, 7, .45) 22%, rgba(20, 13, 7, .1) 42%, transparent 55%);
 }
 
 /* ——— свет ——— */
@@ -98,7 +101,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
   color: #f6dfae; text-shadow: 0 2px 10px rgba(0, 0, 0, .7), 0 0 24px rgba(var(--flame), .35);
 }
 .top__sub { margin: 4px 0 0; font: italic 500 clamp(15px, 1.6vw, 19px)/1.2 var(--display); color: #f1d9a8; text-shadow: 0 1px 6px rgba(0, 0, 0, .8); }
-.jump { margin-top: 10px; } /* на уровне названия */
+.jump { margin-top: 10px; flex: 1 1 190px; max-width: 360px; } /* на уровне названия; на узком окне сужается, не переносится */
+.jump select { width: 100%; }
 .corner { /* язык и музыка — под названием */
   display: flex; align-items: center; gap: 8px; margin-top: 8px;
 }
@@ -372,12 +376,12 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   :root { --rh: clamp(360px, 60vh, 470px); --top: auto; }
   .top { height: auto; padding-top: 14px; padding-bottom: calc(var(--rh) * .08); }
   .landscape {
-    top: 0; left: 0; width: 100%; height: 100%; max-height: 260px;
+    top: 0; width: 100%; height: 100%; max-height: 260px;
     background: url("assets/img/header-panorama.jpg") 88% 35% / cover no-repeat;
     -webkit-mask-image: linear-gradient(#000 55%, transparent); mask-image: linear-gradient(#000 55%, transparent);
   }
   .landscape::after { background: linear-gradient(90deg, rgba(20, 13, 7, .75), rgba(20, 13, 7, .2) 70%); }
-  .jump { flex: 1 1 100%; }
+  .jump { flex: 1 1 100%; max-width: none; margin-top: 0; }
 
   .band { margin-top: calc(var(--rh) * -.08); }
   .room {

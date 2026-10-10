@@ -384,15 +384,6 @@
   musicLabel();
   if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
 
-  /* пейзаж в шапке начинается у правого края списка лил — за названием и списком остаётся тёмный фон */
-  function placeLandscape() {
-    const r = jump.getBoundingClientRect();
-    document.documentElement.style.setProperty('--land-left', Math.round(r.left + r.width * .45) + 'px'); // с середины списка — плавное проявление
-  }
-  window.addEventListener('resize', placeLandscape);
-  if (document.fonts) document.fonts.ready.then(placeLandscape);
-  placeLandscape();
-
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
   fetch('data/timeline.json').then(r => r.json()).then(d => {
     S.data = d;
