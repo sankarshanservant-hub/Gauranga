@@ -1,12 +1,15 @@
 # Глава ed/vcd/CC_<Глава>.md -> PDF (через HTML и Chromium). Две редакции:
 #   full — бенгальский, транслитерация, пословный, перевод (полное издание);
 #   text — только перевод (лёгкое издание).
-# Использование: python3 tools/md2pdf.py Adi07 [full|text] [a5|a4]   -> ed/pdf/CC_Adi07-<ред>.pdf
+# Использование: python3 tools/md2pdf.py Adi07 [full|text] [a5|a4] [ru|en]   -> ed/pdf/CC_Adi07-<ред>.pdf
 import os, re, sys, html, subprocess, unicodedata
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 FONT_BN = os.path.abspath(os.path.join(ROOT, '..', 'fonts', 'NotoSerifBengali-Regular.ttf'))
 CHROME = '/opt/pw-browsers/chromium-1194/chrome-linux/chrome'
 
+TXT = {'ru': {'apb': 'Амрита-праваха-бхашья', 'anu': 'Анубхашья', 'notes': 'Примечания'},
+       'en': {'apb': 'Amṛta-pravāha-bhāṣya', 'anu': 'Anubhāṣya', 'notes': 'Notes'}}
+TLM = '\u0301\u0303\u0304\u0307\u0310\u0323'
 def is_tl(line): return any(c in '̣́̃̄̇̐' for c in line)
 def has_bn(s): return any('ঀ' <= c <= '৿' for c in s)
 
@@ -17,9 +20,9 @@ def inline(t, notes):
                % (m.group(1), m.group(1), notes.index(m.group(1)) + 1 if m.group(1) in notes else 0), t)
     return t
 
-def load_comm(chap, kind):
+def load_comm(chap, kind, lang='ru'):
     """ed/ru/<Глава>-<kind>.md -> ({ключ раздела: текст}, сноски) ; ключ '0', '5' или '5–6'"""
-    f = os.path.join(ROOT, 'ed', 'ru', '%s-%s.md' % (chap, kind))
+    f = os.path.join(ROOT, 'ed', lang, '%s-%s.md' % (chap, kind))
     if not os.path.exists(f): return {}, ''
     t = open(f, encoding='utf-8').read()
     body, _, foot = t.partition('\n---\n')
@@ -41,11 +44,12 @@ def subheading(text):
     m = re.search(r'^> Подзаголовок:\s*(.+)$', text, re.M)
     return m.group(1).strip() if m else ''
 
-def build(chap, ed='full', size='a5'):
-    md = open(os.path.join(ROOT, 'ed', 'vcd', 'CC_%s.md' % chap), encoding='utf-8').read()
+def build(chap, ed='full', size='a5', lang='ru'):
+    T = TXT[lang]
+    md = open(os.path.join(ROOT, 'ed', 'vcd' if lang == 'ru' else 'en', 'CC_%s.md' % chap), encoding='utf-8').read()
     body, _, foot = md.partition('\n---\n')
-    apb, fa = load_comm(chap, 'apb') if ed == 'full' else ({}, '')
-    anu, fn = load_comm(chap, 'anu') if ed == 'full' else ({}, '')
+    apb, fa = load_comm(chap, 'apb', lang) if ed == 'full' else ({}, '')
+    anu, fn = load_comm(chap, 'anu', lang) if ed == 'full' else ({}, '')
     foot = foot + '\n' + fa + '\n' + fn
     notes = re.findall(r'^\[\^([\w-]+)\]:', foot, re.M)
     paras = [p for p in body.split('\n\n') if p.strip()]
@@ -53,7 +57,7 @@ def build(chap, ed='full', size='a5'):
     H = ['<header><div class="book">%s</div><div class="lila">%s</div><div class="ch">%s</div><h1>%s</h1><div class="by">%s</div></header>'
          % tuple(inline(x.strip('*'), notes) for x in hdr[:5])]
     if apb.get('0'):
-        H.append('<section class="intro"><h2>Амрита-праваха-бхашья</h2>%s</section>' % comm_html(apb['0'], notes))
+        H.append('<section class="intro"><h2>%s</h2>%s</section>' % (T['apb'], '%s') % comm_html(apb['0'], notes))
     blk = []
     for p in paras[1:]:
         lines = [l.rstrip() for l in p.split('\n')]
@@ -67,19 +71,19 @@ def build(chap, ed='full', size='a5'):
             sh = ''
             for k in dict.fromkeys(keys):
                 if k in anu and subheading(anu[k]): sh = subheading(anu[k])
-            for name, src in (('Амрита-праваха-бхашья', apb), ('Анубхашья', anu)):
+            for name, src in ((T['apb'], apb), (T['anu'], anu)):
                 for k in dict.fromkeys(keys):
                     if k in src and comm_html(src[k], notes):
                         blk.append('<div class="comm"><span class="cn">%s.</span> %s</div>' % (name, comm_html(src[k], notes)))
             H.append('<section class="v">%s%s</section>' % (('<h3 class="sub">%s</h3>' % inline(sh, notes)) if sh else '', ''.join(blk))); blk = []
         elif ed == 'full':
             rows = []
-            for l in (x.strip() for x in lines):
-                if is_tl(l): rows.append('<div class="tl">%s</div>' % html.escape(l))
+            for k, l in enumerate(x.strip() for x in lines):
+                if (is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
                 else: rows.append('<div class="ww">%s</div>' % html.escape(l).replace('  ', '&ensp;&ensp;'))
             blk.append('<div class="tlww">%s</div>' % ''.join(rows))
     if notes:
-        H.append('<section class="notes"><h2>Примечания</h2><ol>')
+        H.append('<section class="notes"><h2>%s</h2><ol>' % T['notes'])
         for k in notes:
             t = re.search(r'^\[\^%s\]:\s*(.*)$' % re.escape(k), foot, re.M).group(1)
             H.append('<li id="fn-%s">%s <a href="#ref-%s">↩</a></li>' % (k, inline(t, notes), k))
@@ -110,10 +114,11 @@ sup.fn a { text-decoration: none; color: #333; font-size: 8pt; }
 section.notes { border-top: 0.5pt solid #999; margin-top: 8mm; font-size: 9.5pt; }
 section.notes h2 { font-size: 11pt; } section.notes a { text-decoration: none; color: #555; }
 """ % (FONT_BN, page)
-    doc = '<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>%s</title><style>%s</style></head><body>%s</body></html>' \
+    doc = '<!doctype html><html lang="%s">' % lang + '<head><meta charset="utf-8"><title>%s</title><style>%s</style></head><body>%s</body></html>' \
           % (html.escape(chap), css, '\n'.join(H))
     od = os.path.join(ROOT, 'ed', 'pdf'); os.makedirs(od, exist_ok=True)
-    hp = os.path.join(od, 'CC_%s-%s.html' % (chap, ed)); pp = os.path.join(od, 'CC_%s-%s.pdf' % (chap, ed))
+    sfx = '' if lang == 'ru' else '-en'
+    hp = os.path.join(od, 'CC_%s-%s%s.html' % (chap, ed, sfx)); pp = os.path.join(od, 'CC_%s-%s%s.pdf' % (chap, ed, sfx))
     open(hp, 'w', encoding='utf-8').write(doc)
     subprocess.run([CHROME, '--headless', '--no-sandbox', '--disable-gpu', '--no-pdf-header-footer',
                     '--print-to-pdf=' + pp, 'file://' + os.path.abspath(hp)], check=True, capture_output=True)
@@ -122,4 +127,4 @@ section.notes h2 { font-size: 11pt; } section.notes a { text-decoration: none; c
 
 if __name__ == '__main__':
     a = sys.argv[1:]
-    build(a[0], a[1] if len(a) > 1 else 'full', a[2] if len(a) > 2 else 'a5')
+    build(a[0], a[1] if len(a) > 1 else 'full', a[2] if len(a) > 2 else 'a5', a[3] if len(a) > 3 else 'ru')
