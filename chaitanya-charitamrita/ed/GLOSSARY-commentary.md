@@ -146,3 +146,10 @@
   йогешвара → the master of mystic power (*yogeśvara*); Враджендранандана → Vrajendranandana, the son of the king of Vraja;
   сварупа-шакти → His very own potency (*svarūpa-śakti*); виграха → form (*vigraha*); Шри Виграха (Божество) → Deity.
 - Инципиты стихов в разборе (44–80) → курсивом IAST + перевод в “…” и «verse N».
+- Удаячала → Udayācala, the mountain of sunrise; Ганга → the Gaṅgā; кайтава → cheating (*kaitava*); тамо-дхарма → the
+  qualities of darkness (*tamo-dharma*); свадхарма (дживы) → own original nature (*svadharma*); пунья / папа → pious /
+  sinful action (*puṇya* / *pāpa*); васту-таттва, таттва-васту → the true reality (*vastu-tattva*, *tattva-vastu*);
+  бхакти-раса → the *rasa* of devotion; чатух-шлоки → the four verses (*catuḥ-ślokī*); Свамипада → Svāmipāda.
+- дхарма, артха, кама, мокша → religious duty, wealth, pleasure, liberation (*dharma*, *artha*, *kāma*, *mokṣa*);
+  три вида страданий → the threefold miseries; красноречие → eloquence.
+- Колофон: *Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”* / *… of the “Anubhāṣya.”*

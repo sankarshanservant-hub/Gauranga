@@ -551,5 +551,105 @@ Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
 
 > Subheading: The Lord's potency (*īśa-śakti*) —
 
+## 84
+
+> Subheading: Explanation of the second of the opening fourteen verses —
+
+- **gauḍodaye** — in the land of Gauḍa, which is the Udayācala, the mountain of sunrise.
+- **sahoditau** — risen at the same time.
+- **puṣpavantau** — the sun and the moon together; and therefore —
+- **citrau** — wondrous.
+- **śan-dau** — bestowing good fortune.
+- **tamo-nudau** — dispelling darkness.
+- **śrī-kṛṣṇa-caitanya-nityānandau** — Śrī Kṛṣṇa Caitanya and Nityānanda.
+- **aham vande** — I worship.
+
+## 85
+
+> Subheading: Why the two brothers are fitly compared to the sun and the moon —
+
+## 86
+
+> Subheading: *Gauḍodaye puṣpavantau* —
+
+## 88
+
+> Subheading: *Tamo-nudau* —
+
+## 89
+
+> Subheading: An example of causeless mercy —
+
+## 90
+
+> Subheading: The definition of *kaitava* (cheating) —
+
+## 91
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.1.2)
+
+- **mahā-muni-kṛte** — composed by the great sage Śrī Nārāyaṇa.
+- **atra śrīmad-bhāgavate** — in this beautiful *Bhāgavata*.
+- **projjhita-kaitavaḥ** — that from which cheating has been entirely cast out: so *pra-* and *ujjhita* are understood. The cheating is hypocrisy made up of *dharma*, *artha*, *kāma* and *mokṣa* and marked by the pursuit of results. The mark of this dharma is service to Bhagavān alone.
+- **satām** — of Hari's servants.
+- **nirmatsarāṇām** — free from lust, anger, greed, delusion, pride and envy.
+- **paramaḥ** — the highest, for its aim is to set aside the scriptures of karma and jñāna.
+- **dharmaḥ** — dharma (is described).
+- **atra** — in the *Śrīmad-Bhāgavatam*.
+- **tāpa-trayonmūlanam** — uprooting the sins that bring suffering from one's own body and mind, from other beings and from the forces of nature.
+- **śivadam** — bestowing good fortune.
+- **vāstavam** — eternal, supreme, nondual.
+- **vastu vedyam** — the reality to be known.
+- **atra** — in the *Śrīmad-Bhāgavatam*.
+- **śuśrūṣubhiḥ** — by those who wish to hear.
+- **kṛtibhiḥ** — by those endowed with pious merit.
+- **hṛdi tat-kṣaṇāt** — in the heart at once.
+- **sadyaḥ** — without any delay.
+- **īśvaraḥ avarudhyate** — the Lord is held captive.
+
+## 93
+
+> Subheading: Śrīdhara Svāmī's comment on this verse —
+
+## 95
+
+> Subheading: The fruit of Nitāi and Gaura's mercy —
+
+## 96
+
+> Subheading: What the true reality (*tattva-vastu*) is —
+
+## 97
+
+> Subheading: How They surpass the sun and the moon —
+
+## 101
+
+> Subheading: *Citrau* —
+
+## 103
+
+> Subheading: *Śan-dau* —
+
+## 106
+
+> Subheading: (A saying of the ancients in their own scriptures, established by immemorial usage) —
+
+- **mitam ca** — free of idle talk, only to the point.
+- **sāram ca** — pointing to the essence.
+- **vacaḥ hi vāgmitā** — such speech is eloquence, the skill of speaking.
+
+## 107
+
+> Subheading: *Śan-dau* —
+
+The *Mahābhārata* (Udyoga-parva, Chapter 43, verse 16) names twelve kinds of faults, and the *Viṣṇu Purāṇa* eighteen. Why the *svarūpa* is hard to know: (1) *ajñāna*, ignorance — the notion “I am the material body”; (2) *viparyāsa*, inversion — the conceit of being an enjoyer of matter; (3) *bheda*, division — absorption in a second thing; (4) fear, and taking on a distorted form; (5) grief. These five are ignorance.
+
+## 108
+
+> Subheading: The subject the book describes —
+
+*Thus ends the first chapter of the “Anubhāṣya.”*
+
 [^53-1]: The edition prints «রাজহসৌ প্রজাতীতিবৎ», a typesetting error; read «রাজাঽসৌ প্রয়াতীতিবৎ» (“as [one says] ‘the king is setting out’,” meaning his retinue as well); compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.
 [^70-1]: The quotation in the *Anubhāṣya* is made up of lines from CC Madhya 20.168, in a different order and with the reading *prābhava-vilāsa* (the VCD translation of that verse has *prābhava*).

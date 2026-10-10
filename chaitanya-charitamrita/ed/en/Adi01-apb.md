@@ -175,5 +175,49 @@ From *yadyapi āmāra guru* (“although my guru,” verse 44) to *sādhaka-ga�
 
 *Svayaṁ-rūpa*: the verses of the *Laghu-bhāgavatāmṛta* on *tad-ekātma* and related forms show that the two-armed Kṛṣṇa alone is the *svayaṁ-rūpa*. His *kāya-vyūha* is equal to Him; *kāya-vyūha* means the expansion of His own body. The devotees who stand beside this form are His *āvaraṇa*. When we consider the *āvaraṇa* together with the truth it surrounds, the six truths named above prove to be one. This conclusion is established only by considering *acintya-bhedābheda-tattva*.
 
+## 84
+
+I worship Śrī Kṛṣṇa Caitanya and Nityānanda. Like the sun and the moon, They have risen wondrously at the same time in the land of Gauḍa, which is like Udayācala, the mountain of sunrise. They bestow good fortune and dispel the darkness of the *jīvas*.
+
+## 85
+
+*Nija-dhāma*: radiance.
+
+## 86
+
+*Pūrva-śaile*, “on the eastern mountain”: on the Udayācala that is Gauḍa, on the eastern bank of the Gaṅgā.
+
+## 91
+
+This *Śrīmad-Bhāgavatam* was first composed by the great sage Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). It sets forth the highest dharma for those free from envy, that is, kind to all beings. This dharma is free from cheating (*kaitava*), and that cheating includes religious duty, wealth, pleasure and even liberation: *dharma*, *artha*, *kāma* and *mokṣa*. It destroys the threefold miseries of the *jīva*, bestows good fortune and gives knowledge of the true reality. Those who wish to hear the *Bhāgavatam* can hold the Lord captive in their hearts at will. What need, then, is there for any scripture other than the *Bhāgavatam*?
+
+## 92–93
+
+Among these, the chief cheating is the desire for liberation (*mukti*). That is why Svāmipāda pointed out that the prefix *pra-* means freedom even from the cheating that consists in aiming at liberation.
+
+## 94
+
+Śrī Caitanya and Nityānanda, the two brothers, are like the sun and the moon. Rising, They destroy the darkness in the hearts of the *jīvas*. The meaning of these verses is this. The *jīva* is by nature a spiritual truth. The *jīva*'s own original nature (*svadharma*) is devotion to Kṛṣṇa and love for Kṛṣṇa. Pious action (*puṇya*), sinful action (*pāpa*) and the aim of liberation have entered the *jīva* in the guise of his own nature and filled him with the qualities of darkness (*tamo-dharma*). All teachings that establish karma and jñāna are *kaitava*, cheating, and therefore serve the qualities of darkness. Before Caitanya and Nityānanda rose, these qualities of darkness polluted the hearts of the *jīvas*. The two brothers rose, drove the darkness out of the cave of the *jīvas*' hearts and revealed the true reality (*vastu-tattva*).
+
+## 99
+
+“The two *bhāgavatas*” are the scripture *Bhāgavatam* and the devotee *bhāgavata*, the vessel of the *rasa* of devotion. The brothers let the *jīvas* meet these two face to face, gave them the *rasa* of devotion, and were conquered by the *jīvas*' love.
+
+## 102
+
+*Jagatera bhāgye*, “for the good fortune of the world”: the two brothers preached the dharma of love, and it will gradually spread throughout this world. This is the world's good fortune.
+
+*Gauḍe*, “in Gauḍa”: the kings of the Sena dynasty moved the throne of their empire to the region of Śrī Navadvīpa from the ancient city of Gauḍa in the Maldah district. That is why the region of Śrī Navadvīpa is called the land of Gauḍa. In this Gauḍa, on the eastern bank of the Gaṅgā, Mahāprabhu was born. Nityānanda Prabhu came there and joined Him, and together They rose.
+
+## 106
+
+Eloquence means speech of few words, full of substance.
+
+## 107
+
+Instead of *kṛṣṇe gāḍha prema habe* (“there will be deep love for Kṛṣṇa”), a variant reading has *sarva-tattva jñāna haibe* (“there will be knowledge of all truths”).
+
+*Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 [^15-1]: Bhaktivinoda gives only the glorification here; the Russian verse translation (VCD) adds a prayer for attachment to the lotus feet.
 [^57-1]: The Russian verse translation (VCD) reads differently: there Cintāmaṇi and Somagiri are two different gurus (Cintāmaṇi showed the way, Somagiri was the initiating guru), whereas for Bhaktivinoda *cintāmaṇi* is a simile for Somagiri. (The *Anubhāṣya* on this verse, like the VCD translation, distinguishes them.)
