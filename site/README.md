@@ -19,6 +19,10 @@ python3 site/tools/prep_assets.py   # только если менялись и�
 cd site && python3 -m http.server 8000   # открыть http://localhost:8000
 ```
 
+## Публикация
+Сайт: https://sankarshanservant-hub.github.io/Gauranga/ (GitHub Pages из ветки `gh-pages`).
+Обновить: `sh site/tools/publish_pages.sh` (кладёт содержимое `site/` без исходников в корень `gh-pages`).
+
 ## Музыка
 «Prema Dhama» (исходник 156 МБ — на Google Диске пользователя, в git не хранится): `assets/audio/prema-dhama-1…8.mp3`,
 части по 10 мин, 80 кбит/с; играют подряд по кругу. Кнопка в шапке; звук начинается с первого нажатия на странице.
