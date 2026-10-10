@@ -240,6 +240,38 @@ Kṛṣṇa's mother and father, His place, His house and the rest are transform
 
 > Subheading: Though Kṛṣṇa is the master of the *sandhinī*, everything He enjoys is a transformation of the *sandhinī* —
 
+## 66
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 4, Chapter 3, verse 23)
+
+Satī was about to go to the house of her father Dakṣa to see the sacrifice. Mahādeva, knowing that Dakṣa, sunk in *karma*, was hostile to Viṣṇu, said to her:
+
+**viśuddham** (free from all inertness, being a function of the *svarūpa-śakti*) **sattvam** (consisting of the function of the *cit-śakti*, transcendental) **vasudeva-śabditam** (*vasaty asmin*, “He dwells in it” — hence *vasu*; *dīvyati dyotate*, “it shines, it gleams” — hence *deva*; it is both), **yat** (because) **tatra** (in that *sattva*) **pumān** (the Person) **apāvṛtaḥ** (free of any covering) **īyate** (becomes manifest). **tasmin sattve** **adhokṣajaḥ** (He who has left behind and surpassed the knowledge born of the senses, *akṣaja*) **bhagavān vāsudevaḥ** (“He is, He is perceived, in Vasudeva” — hence Vāsudeva, the well-known Supreme Lord; by etymology, “He who makes God dwell”) **me** (by me) **manasā** **vidhīyate** (is especially meditated upon).
+
+Śrī Jīva Prabhu writes in the *Bhagavat-sandarbha* (section 102): “And in the form (*mūrti*) the Śrī Vigraha, the very Supreme Truth, becomes manifest; this [*viśuddha-sattva*] is what is called Vasudeva.” See the conclusion [of that passage] below, and also the *Gauḍīya-bhāṣya* on this verse in the *Śrīmad-Bhāgavatam*, pp. 1172–1174.
+
+## 67
+
+> Subheading: Through the *saṁvit-śakti* Bhagavān experiences, that is, knows Himself as the enjoyer of bliss; through it, too, within nondual knowledge there is knowledge of Bhagavān —
+
+## 68
+
+> Subheading: The divisions of the *hlādinī* —
+
+## 69
+
+> Subheading: Śrī Rādhikā is the embodied highest limit of love for Kṛṣṇa —
+
+## 70
+
+> Subheading: (*Ujjvala-nīlamaṇi*, the chapter on Śrī Rādhā, verse 2)
+
+**tayoḥ** (of Śrī Rādhā and Candrāvalī) **ubhayor api madhye** **rādhikā sarvathādhikā** (superior, better in every respect). **iyam** (Śrī Rādhikā) **mahābhāva-svarūpā** (endowed with the *mahābhāva* called *madana*; Her form unites the eight *bhāvas*) **guṇaiḥ** (by the twenty-five qualities) **ati-varīyasī** (best of all).
+
+## 71
+
+> Subheading: Within and without, in every one of Her limbs, the form of love for Kṛṣṇa is manifest —
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
 [^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).

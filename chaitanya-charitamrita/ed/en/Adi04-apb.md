@@ -91,3 +91,19 @@ The essence of the *sandhinī-śakti*, which expands existence, is called *śudd
 ## 67
 
 The action of *saṁvit* is called “knowledge.” There are two seers: Kṛṣṇa and the *jīva*. Kṛṣṇa's seeing is founded on complete knowledge, and there are no gaps in His knowing; so His knowledge can be called “mere glance” (*īkṣaṇa*). In the *jīva*'s seeing there are many gaps, so we call his seeing “knowledge by cognition” (*saṁvedana-jñāna*). That knowledge is of three kinds: direct (*sākṣāt-jñāna*), by negation (*vyatireka-jñāna*) and distorted (*vikṛta-jñāna*). The knowledge the *jīva* gains of material objects through the material senses is never pure and so is distorted; it is the distorting action of the *saṁvit* that belongs to the *māyā-śakti*. Impersonal knowledge by negation of matter rests on its relation to material knowledge, and so it is petty. It is only the action of the *saṁvit-śakti* that belongs to the *jīva*, and so it is incomplete. Such knowledge is called “knowledge of Brahman,” “knowledge of the self,” “impersonal knowledge,” “knowledge of nondifference” and so on. When the *saṁvit-śakti* that belongs to *cit* joins with the *hlādinī* and bestows mercy on the *jīva*, the knowledge that Kṛṣṇa is Bhagavān is born. That, therefore, is the essence of *saṁvit*. Knowledge of Brahman and knowledge of objects are its “retinue” (*parivāra*), that is, merely coverings that differ from stage to stage.
+
+## 68–69
+
+The action of the *hlādinī* is called *prema*. This *prema* is of two kinds, pure and mixed. The *hlādinī-śakti* belonging to Kṛṣṇa gives bliss to Kṛṣṇa and, together with pure *saṁvit*, bestows mercy on the *jīva*; then *prema* for Kṛṣṇa arises in the *jīva*. But when the transformed *hlādinī* belonging to the *jīva* attracts the *jīva* through the *māyā-śakti*, the *jīva*, intoxicated with love for sense objects, is deprived of *prema* for Kṛṣṇa and so falls under the sway of happiness and distress. The ideal of *prema* for the *jīvas* is the circle of the *gopīs* of Vraja, and among them Śrī Rādhā is supreme. The essence of the *hlādinī* belonging to the spiritual nature is *prema*; the essence of *prema* is *bhāva*; the highest limit of *bhāva* is *mahābhāva*. That is Śrīmatī Rādhikā Ṭhākurāṇī. She is the source of all virtues and the crown jewel of Kṛṣṇa's beloveds.
+
+## 70
+
+Among the *gopīs* who enjoy the pastimes of Vraja, the foremost are Candrāvalī and Rādhikā, and of these two Śrīmatī Rādhikā is better in every respect. She is the embodiment of *mahābhāva*, and no other *gopī* has qualities equal to Hers.
+
+## 71
+
+Śrīmatī Rādhikā is spiritual. She does not have, like a *jīva* in the material world, material senses, a material body and a mind in the form of the subtle body. In Her spiritual nature there are a pure spiritual mind, spiritual senses and a spiritual body. Her mind, senses and body are steeped in *prema* for Kṛṣṇa. She is Kṛṣṇa's own potency and therefore the only helper in His pastimes. Kṛṣṇa is the possessor of potency, and apart from His potency He can perform no pastime. The *sandhinī* of the *svarūpa-śakti* has manifested Śrī Kṛṣṇa's spiritual body. When Kṛṣṇa plays in that body, what could He do without Śrīmatī's help? Therefore Rādhikā is Kṛṣṇa's only helper in His pastimes.
+
+## 72
+
+I worship the original Person, Govinda, the wondrous Soul of all. In His own form He dwells eternally in Goloka together with the *gopīs*, who are imbued with the spiritual *rasa* of bliss.
