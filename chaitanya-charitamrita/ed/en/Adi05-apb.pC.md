@@ -62,7 +62,21 @@ Seeing this behavior, my brother got into an argument with Mīnaketana. My broth
 
 Kavirāja Gosvāmī lived in the village of Jhāmaṭapura, near the village of Naihāṭī, two *krośas* north of Kāṭoyā. Now a Deity of Śrī Mahāprabhu is there.
 
+## 196
+
+*Hātasāna* means a touch of the hand.[^196-1]
+
+## 203
+
+*Bhakti-rasa-prānta* means only nearness to *bhakti-rasa*.[^203-1]
+
+## 214
+
+In the *rāsa* pastime the *gopīs* bitterly lamented in separation. Suddenly Madana-mohana Himself appeared among them — in yellow garments, with a garland of forest flowers, and with a smile on His face.
+
 ---
 
 [^128-1]: The verse translation reads differently: the knowledge that the avatāra and the source of the avatāras are nondifferent is ascribed to those who know the truth; Bhaktivinoda calls “one who sees no difference” the person who confuses them.
 [^166-1]: The verse translation reads differently: *kadamba* is taken as the *kadamba* flower.
+[^196-1]: The verse translation reads differently: “showed with a gesture of His hand.”
+[^203-1]: The verse translation reads differently: “relished the nectar of loving relationships with Śrī Kṛṣṇa.”

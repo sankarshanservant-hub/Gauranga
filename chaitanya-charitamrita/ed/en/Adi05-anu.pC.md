@@ -186,6 +186,95 @@ Mīnaketana Rāmadāsa: see the *Anubhāṣya* on Ādi 11.53.
 
 > Subheading: Proof of Nityānanda's mercy —
 
+## 181
+
+> Subheading: The author sees Nityānanda in a dream —
+
+To reach Jhāmaṭapura, one takes the small train on the Kāṭoyā line and gets off at Sālār station.
+
+## 182
+
+> Subheading: The author attains the lotus feet of Nityānanda Himself —
+
+## 184
+
+> Subheading: Nityānanda's form, and the expert service rendered to Him by His associates dressed as cowherd boys —
+
+## 193
+
+> Subheading: On seeing Nityānanda, the author is immersed in bliss —
+
+## 195
+
+> Subheading: Nityānanda orders the author to go to Vṛndāvana —
+
+## 196
+
+> Subheading: Nitāi disappears —
+
+## 199
+
+> Subheading: Kavirāja Gosvāmī goes to Vṛndāvana —
+
+## 200
+
+> Subheading: A prayer to Śrī Nityānanda —
+
+## 201–202
+
+For one who longs to serve Śrī Rādhā-Govinda, the one desirable goal of life is to gain the shelter and grace of Śrī Svarūpa, Rūpa, Sanātana, and Raghunātha Gosvāmī Prabhus. These two *payāras* show that this can be gained only by the power of Nityānanda's mercy. On Śrī Dāmodara Svarūpa Gosvāmī Prabhu, see Ādi 4.160–161.
+
+## 203
+
+Śrī Sanātana Gosvāmī Prabhu is the ācārya of the conclusions of *bhakti* (*bhakti-siddhānta-ācārya*). At the end of the fourth chapter of the Antya-līlā of this book, the author writes: “Sanātana wrote the book *Bhāgavatāmṛta*, from which we learn the truth about the devotee, devotion, and Kṛṣṇa. He wrote the *Daśama-ṭippanī*, a book that is the essence of conclusions, from which we learn Kṛṣṇa's pastimes, *rasa*, and *prema*. He wrote the book *Hari-bhakti-vilāsa* on Vaiṣṇava conduct, in which we find the full extent of a Vaiṣṇava's duties.”[^203-1] Śrī Raghunātha dāsa Gosvāmīpāda writes of Śrī Sanātana in his prayer *Vilāpa-kusumāñjali*: “I was blind and had no wish to drink, yet with great effort he made me drink the nectar of devotion joined with renunciation. He is an ocean of mercy, and he suffers at the suffering of others. I take shelter of that master, Sanātana.”[^203-2] Śrī Kavirāja Gosvāmī (Antya 4.236) first names Śrī Rūpa, Śrī Sanātana, and Śrī Jīva, and then writes: “These three gurus and Raghunātha dāsa — I bow to the feet of them all, for I am their servant.” Śrī Raghunātha dāsa, too, calls Śrī Sanātana Prabhu the ācārya of the conclusions of *bhakti*.
+
+Śrī Rūpa Gosvāmī Prabhu is the ācārya of *bhakti-rasa* (*bhakti-rasa-ācārya*). (Antya 4.224): “Rūpa Gosāñi wrote the *Rasāmṛta-sindhu*, the essence, in which we find the full expanse of the *rasa* of devotion to Kṛṣṇa; and another book named *Ujjvala-nīlamaṇi*, in which we find the full extent of the *rasa* of Rādhā and Kṛṣṇa's pastimes.”[^203-3]
+
+## 204
+
+Śrīla Narottama Ṭhākura sings in his *Prārthanā*: “When will Nitāi-cāṅd be merciful to me? When will worldly desires become trifling to me? When will my mind give up the objects of the senses and become pure? When will I see Śrī Vṛndāvana? When will an ardent longing for the feet of Rūpa and Raghunātha awaken in me? When will I understand the love of the Divine Couple?” And again: “Without such a Nitāi, brothers, Rādhā and Kṛṣṇa cannot be attained. Hold fast to the feet of Nitāi.”
+
+## 205
+
+> Subheading: The author's words of humility —
+
+## 208
+
+> Subheading: The author tells of Nityānanda's mercy to himself —
+
+## 211
+
+> Subheading: By Nityānanda's mercy the author attains the service of Śrī Madana-mohana —
+
+## 212
+
+> Subheading: Śrī Madana-Gopāla, the companion of Śrī Rādhā —
+
+## 214
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 32, verse 2)
+
+During the *rāsa* dance Kṛṣṇa disappeared. The *gopīs*, longing to see Śrī Kṛṣṇa, lost all composure and wept. Then Govindadeva appeared before the cowherd women.
+
+**tāsām** (among those *gopīs*, worn out with sorrow) **smayamāna-mukhāmbujaḥ** (He whose lotus face was smiling), **pītāmbara-dharaḥ** (wearing yellow garments), **sragvī** (wearing a garland), **sākṣāt manmatha-manmathaḥ** (He whose form enchants Kāmadeva himself) — **śauriḥ** (Kṛṣṇa) **āvirabhūt** (appeared).
+
+## 217
+
+> Subheading: By Nityānanda's mercy the author attains the service of Śrī Govinda —
+
+## 218
+
+> Subheading: Śrī Rādhā-Govinda beneath the desire tree, served by the *sakhīs* —
+
+## 221
+
+> Subheading: The one Brahmā worships — the Deity to whom the eighteen-syllable mantra is addressed —
+
+Brahmā, who sits on the lotus, together with the residents of his own world, Brahmaloka, meditates on the form of Govinda, the Deity to whom the mantra is addressed (*abhidheya-vigraha*). This Govinda, on whom the residents of the fourteen worlds meditate, is worshipped with the eighteen-syllable mantra.
+
 ---
 
 [^140-1]: The verse translation ascribes these words to Brahmā.
+[^203-1]: Caitanya-caritāmṛta, Antya 4.219–221 (numbering of the VCD translation).
+[^203-2]: *Vilāpa-kusumāñjali* 6.
+[^203-3]: In the VCD translation, verses 223–224.
