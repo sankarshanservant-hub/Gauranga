@@ -88,5 +88,65 @@ King Parīkṣit asked Śrī Śukadeva whether Kṛṣṇa's *parakīyā* pastim
 
 Bhagavān, full of endless pastimes, eternally abides in His many forms of manifestation (*prakāśa*). Devī-dhāma, the material world, is a distorted reflection of Goloka and Vaikuṇṭha. The variety within the material world resembles that of Goloka and Vaikuṇṭha, but it has limitation, inferiority, insignificance or undesirability, and subjection to time. The many manifestations of the *viṣaya-vigraha* abide eternally in relationships of service suited to the different classes of *jīvas* who depend on Him (*āśrita*). In Vaikuṇṭha there is pure *sattva*; in the material world one sees mixed *sattva*, made of the *guṇas*. Because the *viṣaya* and the *āśraya* eternally experience each other, the variety of pastimes is eternal. Judged by what suits the *āśraya*, the saying “The human body is the root of worship” is justified. In the material world the human race stands on a high rung of creation. *Jīvas* belonging to the *āśraya*, while they dwell in the material world, gain the right to serve the *viṣaya-vigraha* suited to them.
 
+Besides His human form, Bhagavān also has many nonhuman forms. The variety of pastimes depends on how the object of worship appears as the *jīva*'s original nature (*svarūpa-vṛtti*) awakens. If one compares these pastimes by what suits [the *āśraya*], the greatest mercy is given to devotees who have taken shelter of the eternal pastimes in human form. When such pastimes descend into the material world, the best of human beings become eager to serve the object of service, each in the way that suits him. Hearing how the object of worship is experienced at the summit of worship gives the *jīva* enormous help in the unfolding of his original nature. Of the five kinds of *rati*, or *sthāyi-bhāva*, the highest is *madhura-rati*. Joined with all the ingredients of *rasa*, it manifests the best of all *rasas*, and only a devotee who has acquired taste (*ruci*) is entitled to it. To make it easier to acquire taste, Bhagavān manifests in the world the pastimes of Rāma and others instead of the pastimes of Matsya, Kūrma, Varāha and others. Yet in the human pastimes of Rāma and the rest the wonder of *rasa* does not reach its full strength. That wonder is almost beyond the reach of the *jīva*'s intellect and is extremely rare; still, *parakīyā madhura-rati*, when the degrees of majesty and sweetness are compared, manifests it as incomparable and ever new.
+
+The *sahajikas*, whose intelligence is worldly, cannot understand the teaching of the transcendental *sahaja-dharma* and bring licentiousness into it. By this they do not point to the variety of Goloka, which consists of pure *sattva*; they only drag an impure heart down into sense gratification. In the transcendental pastimes there is service to Adhokṣaja. The *prākṛta-sahajikas* do not understand this, and in their error they take service to Kṛṣṇa for sense gratification aimed at enjoyment. Bhagavān's pastimes that have descended into the material world are by no means a playground for the *prākṛta-sahajikas*. Kṛṣṇa's *rāsa* and His other pastimes are created by *yogamāyā*, and worldly reasoning cannot see them properly. The Sahajiyā sect regards Kṛṣṇa's pastimes as one more perishable enjoyment. They distort the meaning of the words *tat-paratvena nirmalam*[^34-2] and *tat-paro bhavet* and merely throw the rubbish of the mundane onto the transcendental. Mistaking the meaning of the words *tādṛśīḥ krīḍāḥ* (“such pastimes”), they sink into sense gratification. In truth, however, the primary meaning of the word *tādṛśī* is transcendental *rati*. The *jīva* seized by ignorance (*avidyā*) and turned away from Hari rejects the transcendental pastimes and, intoxicated with material enjoyment through knowledge gained by the senses, misinterprets this verse. As soon as *vivarta* — taking one thing for another — appears at the stage of *sādhana* or of perfection, the *jīva* becomes a *prākṛta-sahajiyā*.
+
+Seeing the word *bhavet* in the *vidhi-liṅ* form, let no one think that this *rāgānugā* path, attained through taste, is a prescribed (*vaidha*) path for all regardless of qualification, even for a pleasure-seeker full of *anarthas*. In the material world there is consideration of what should and should not be done. In Goloka-Vṛndāvana such rules[^34-3] cannot exist. There, on the path of *anurāga*, all the *āśrita-tattvas*, under the sway of greed (*lobha*), seek only one desirable thing — Kṛṣṇa's pleasure.
+
+The *madhura-bhāva* is the highest [*rati*] in the material world; the *jīva*-soul must eternally and necessarily serve in it. If anyone is indifferent to it, he will certainly abandon service to Bhagavān and fall into perishable worldly debauchery. If the *jīva* does not devote himself to *madhura-rati*, the base doctrine of material enjoyment, the opposite of *madhura-rati*, will prevail in him. In the same way, if in *vātsalya-rati* the *jīva* turns away from serving Kṛṣṇa, the urge to enjoy will drag him down into perishable affection for a son. In the same way, if one does not regard Kṛṣṇa as one's only friend, perishable friends devoted to the senses will come and drag the *jīva* down. In the same way, having turned away from Bhagavān, the *jīva* will become indifferent to serving Kṛṣṇa. He will play the servant to a perishable body that serves the senses for enjoyment, and he will forget his true nature. In the same way, if the mind does not find equanimity (*nirapekṣā*) in Kṛṣṇa, the *jīva* will turn away from Kṛṣṇa and become indifferent to matter. That is, he will become a slave of *mokṣa*, or *nirvāṇa*, which is called “turning to stone,” and become an impersonalist. Whoever is indifferent to entering Kṛṣṇa's pastimes will be dominated by an intelligence devoted to the senses and bent on enjoyment. Because of this his false ego, founded on designations, will swell in good and bad deeds alike and deprive him of the ultimate good.
+
+## 36
+
+> Subheading: The desire to preach devotion full of *rāga* is the main cause of the avatāra of Śrī Gaura; killing the *asuras* is a secondary purpose —
+
+## 37
+
+> Subheading: Establishing *dharma* and the like is not the main work of Kṛṣṇa, the original form, or of Gaura —
+
+## 38
+
+> Subheading: The source of the avatāras unites with His own part, the *yuga-avatāra* —
+
+## 39
+
+> Subheading: Having descended for the hidden and the external reasons, He Himself practices [the teaching] and preaches it —
+
+## 41
+
+Wishing to manifest His pastimes of magnanimity (*audārya-līlā*), Kṛṣṇa revealed in the material world His eternal pastimes as Gaura. In the eternal pastimes of Gaura, Kṛṣṇa is in the mood of a devotee, and this is the wonder of His eternal pastimes. Kṛṣṇa, the original form, brought the eternal pastimes of Gaura down into the world and made the service of Kṛṣṇa, the object of service, easily accessible to the *jīvas*. The debauched sect of *prākṛta-sahajikas* does not know the true nature of transcendental *vipralambha*. They pervert the meaning of Śrī Gaurasundara's acceptance of the mood of a devotee and wish illegitimately to present Him as a form of *sambhoga* (enjoyment in union). They adorn themselves with invented titles such as “Nadīyā-nāgarī” or “Gaura-nāgarī” and wipe out the mood of the devotee, that is, of the *āśraya*, in the *rasa* of eternal separation. Such outrages do not please Kṛṣṇa, the original form. Śrī Gaura-vigraha, the original form, does not bestow mercy on these *prākṛta-sahajikas* devoted to enjoyment but keeps them far away from Himself. To apply the *sambhoga* considerations of Kṛṣṇa's pastimes to Him whose pastimes are full of the *rasa* of *vipralambha* is an attempt to destroy devotion to Kṛṣṇa. It is nothing but hatred of Śrī Gaura.
+
+## 42
+
+> Subheading: The *āśrayas* of the four *rasas* other than *śānta* desire only Kṛṣṇa's pleasure —
+
+## 43
+
+> Subheading: Each devotee considers his own *rasa* the best for pleasing Kṛṣṇa —
+
+## 44
+
+> Subheading: Judged impartially, the transcendental *madhura-rasa* contains all the other *rasas*, and so in it the endeavor to please Kṛṣṇa is greatest —
+
+## 45
+
+> Subheading: In *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa*, one after another, the relish of Kṛṣṇa's happiness grows fuller —
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Southern Division, the wave on *sthāyi-bhāva*, verse 38)
+
+**asau ratiḥ** (this *rati*) **yathottaram** (progressively, one after another) **svādu-viśeṣollāsa-mayī** (ever more full of special sweetness) **api** **vāsanayā** (according to differences of *vāsanā*) **kā api** **kasyacit** (to one devotee or another) **svādvī bhāsate** (appears sweet).
+
+## 46
+
+> Subheading: *Madhura-rasa* is of two kinds: *svakīyā* and *parakīyā* —
+
+The *Ujjvala-nīlamaṇi* says of Kṛṣṇa's *svakīyā* beloveds: “The *svakīyās* are those who have been married by rite, who are devoted to their husband's commands and unwavering in fidelity.” The *svakīyās* are women who have been taken in marriage according to the rules of scripture; they diligently carry out their husband's will and are unwavering in the *dharma* of fidelity to him. Of the *parakīyās* (Kṛṣṇa's beloveds): “The *parakīyās* are those who have given themselves out of *rāga* alone, caring neither for this world nor for the next, and whom *dharma* has not accepted [as wives].” The *parakīyās* are women who, drawn by *anurāga* to a man not their husband, surrender themselves to him. They know that the rules of the *dharma-śāstras* do not recognize such a union, and still they pay no heed to any hardship, in this world or the next.
+
+## 47
+
+> Subheading: Of the two, Kṛṣṇa's pleasure is greatest in *parakīyā-bhāva*, and it abides only in Vraja —
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
+[^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).
+[^34-3]: The edition reads “তাদৃশ অবতারময় বিধি” (literally “such rules full of avatāra”); possibly a misprint for “অবরতাময়” (“inferior”) — compare “অবরতা” earlier in the same section.

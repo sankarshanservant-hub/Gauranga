@@ -43,3 +43,11 @@ In this verse the verb *bhavet* is in the *vidhi-liṅ*, the injunctive mood. It
 ## 36
 
 In the avatāra as Kṛṣṇa, Kṛṣṇa appeared because of the desire just described, and killing the *asuras* was not His main purpose but only a secondary one. In the same way, in the avatāra as Gaura, Kṛṣṇa Caitanya is the most complete Bhagavān, and establishing the *dharma* of the age, *nāma-kīrtana*, was not His own work. But when the complete Bhagavān resolved for a certain hidden reason to descend, it so happened that the time for the *dharma* of the age arrived at that very moment. So Gaurāṅga descended for two reasons: for His hidden, internal purpose and for the external one, preaching the *dharma* of the age. Having descended, He relished *prema* and *nāma-saṅkīrtana* together with His devotees.
+
+## 42–44
+
+*Dāsya*, *sakhya*, *vātsalya* and *madhura* — each of these four *rasas* seems to its own devotees the best for relishing Kṛṣṇa's happiness. But if one looks *taṭastha*, that is, impartially, it becomes clear that the sweetness of the *madhura*, or *śṛṅgāra*, *rasa* surpasses the other three.
+
+## 45
+
+*Rati* full of delight (*ullāsa*) unfolds in ever more special relish. In particular cases, according to *vāsanā*, this *rati* becomes a special, supreme relish and manifests as *madhura-rasa*.
