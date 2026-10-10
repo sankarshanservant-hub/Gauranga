@@ -210,6 +210,82 @@ In the *Laghu-bhāgavatāmṛta*, where Viṣṇu's freedom from the *guṇas* i
 
 With both kinds of cause — material and efficient — He is related as the one who glances; yet *māyā* can in no way overpower Him. The world with all its transformations is a transformation of Bhagavān's potency of desire (*icchā-śakti*), but in Him no material transformation is possible. See Ādi 2.52, 54.
 
+## 87
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 11, verse 38)
+
+## 88
+
+> Subheading: The Lord (*Īśvara*) possesses inconceivable potency —
+
+## 89
+
+> Subheading: The world's relation with the Lord — difference and nondifference —
+
+Without Bhagavān's existence the visible world can have no foundation at all. The world rests in Bhagavān; but one must not therefore take the external perception — the vision of *acit*, full of enjoyment — to be Bhagavān, nor regard the world of enjoyment as Godhood. Enjoyment, that is, aversion to Bhagavān — in other words, *māyā* — does not rest in Bhagavān: in the Reality, Bhagavān, aversion to Bhagavān can have no place. Bhagavān Adhokṣaja descends into the world, into the phenomenal realm (*prapañca*), and yet He does not become, and cannot become, a fragmented and perishable thing of this world. In both His manifest and unmanifest pastimes He is eternally beyond *māyā* and eternally her master — that is, His nature as the *nirguṇa* Vaikuṇṭha is eternally present. Through various pastimes He descends into the world and remains the original presiding deity of everything that exists in the world.
+
+Nor can the world exist as a second reality, with a being separate from Him. Viṣṇu Himself never comes into contact with the material world or with *māyā*. Neither His own *svarūpa* nor His opulence of the same nature (*tad-rūpa-vaibhava*) belongs in the least to the measurable world of enjoyment or to *prakṛti*, which is turned away from Him. This is the independent sovereignty and the Godhood of Bhagavān, who acts by His own will and is full of inconceivable majesty.
+
+See the *Gauḍīya-bhāṣya*, with its various commentaries, on the verse “*yathā mahānti*” (34), one of the *catuḥ-ślokī* in the ninth chapter of the second canto of *Śrīmad-Bhāgavatam*, and also *Śrīmad-Bhāgavatam* 11.15.36.
+
+## 90
+
+The *Gītā* (9.4–5) says: “By Me, in My unmanifest form, this whole world is pervaded. All beings rest in Me, but I do not rest in them. And yet beings do not rest in Me — behold My divine *yoga*! My Self sustains beings and brings them into being, yet does not abide in beings.”
+
+## 93
+
+> Subheading: The meaning of the tenth of the fourteen opening verses —
+
+> Subheading: (a verse from the diary of Śrī Svarūpa Gosvāmī)
+
+**yan-nābhy-abjam** (the lotus that grows from whose navel), **loka-saṅghāta-nālam** (whose stem, that is, support, is the host of worlds, the fourteen worlds), is **loka-sraṣṭuḥ** (Brahmā's) **sūtikā-dhāma** (birthplace); **śrīla-garbhoda-śāyī** (the second Puruṣa-avatāra) is **yasya** (Nityānanda-Rāma's) **aṁśāṁśaḥ** (portion of a portion, *kalā*); **taṁ śrī-nityānanda-rāmam ahaṁ prapadye** (to that Śrī Nityānanda-Rāma I surrender).
+
+## 94
+
+> Subheading: Description of Garbhodaśāyī —
+
+## 94–101
+
+*Brahma-saṁhitā* (5.14): “Thus by a single portion He Himself enters each one.” Madhya 20.283–293.
+
+## 96
+
+See *Śrīmad-Bhāgavatam* 2.10.10.
+
+## 98
+
+> Subheading: The origin of the fourteen worlds —
+
+**Caudda bhuvana** (the fourteen worlds): Bhū, Bhuvaḥ, Svaḥ, Mahaḥ, Jana, Tapaḥ and Satya — these seven higher worlds; and Tala, Atala, Vitala, Nitala, Talātala, Mahātala and Sutala — these seven *pātālas* (lower worlds). See *Śrīmad-Bhāgavatam* 2.5.38–42 and 11.4.3.
+
+## 99
+
+> Subheading: In the Garbha Ocean He manifests His own abode, Vaikuṇṭha —
+
+## 101
+
+> Subheading: He whom the hymn of the *Ṛg-veda* praises —
+
+## 99–101
+
+See *Śrīmad-Bhāgavatam* 1.3.2, 4, 5.
+
+## 100–101
+
+(*Śrīmad-Bhāgavatam* 1.3.4): “With flawless eyes the devotees behold His wondrous form with thousands of feet, thighs, arms and faces, with thousands of heads, ears, eyes and noses, shining with thousands of crowns, garments and earrings.” (*Ṛg-veda-saṁhitā* 8.4.17; *Sāma-veda* 6.4.4.3; *Śukla Yajur-veda* 31.1; *Atharva-veda* 19.6.1): “The Puruṣa has a thousand heads, a thousand eyes, a thousand feet. Enveloping the earth on every side, He extends beyond it by ten fingers' breadth.” See *Śrīmad-Bhāgavatam* 11.4.4–5 and *Brahma-saṁhitā* 5.10–11.
+
+## 102
+
+> Subheading: From Him come Viṣṇu, Brahmā and Rudra —
+
+## 102–103
+
+In the *Mahābhārata*, in the *Mokṣa-dharma*, in the narrative of Nārāyaṇa (*Śānti-parva*, Chapter 339, verses 70–72, and Chapter 340, verses 27–28), it is said: “He who is Pradyumna is also Aniruddha; He is also the father of Brahmā.” Here it must be understood that He who is Garbhodaśāyī is also Kṣīrodaśāyī. The two are nondifferent, and therefore in truth Pradyumna is the controller — that is, the indwelling Lord (*antaryāmī*) — and the father of Hiraṇyagarbha, who was born from the lotus. See *Śrīmad-Bhāgavatam* 3.1.2.
+
+## 103–105
+
+The Puruṣa of the verse *Śrīmad-Bhāgavatam* 1.2.23 is this very Garbhodaśāyī!
+
 ---
 
 [^84-1]: *Śrīmad-Bhāgavatam* 10.39.55.

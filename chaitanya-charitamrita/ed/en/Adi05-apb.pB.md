@@ -60,6 +60,11 @@ See Ādi 2.55.
 
 I abide in the world, and the world abides in Me; and yet I am not in the world, and the world is not in Me. This is called the “inconceivable meaning.”
 
+## 93
+
+I bow down to Nityānanda-Rāma, a portion of whose portion is Garbhodaśāyī. The stem of the lotus that grows from Garbhodaśāyī's navel is the birthplace of Vidhātā, who beholds the worlds[^93-1], and the resting place of all the worlds.
+
 ---
 
 [^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.
+[^93-1]: The edition reads *loka-draṣṭā* (“who beholds the worlds”); the verse has *loka-sraṣṭuḥ* (“of the creator of the worlds”). Possibly a misprint.
