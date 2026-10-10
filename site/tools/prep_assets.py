@@ -86,15 +86,24 @@ save(sky.resize((1800, round(sky.height * 1800 / sky.width)), Image.LANCZOS), 'h
 
 
 # Иллюстрации лил: src/lila/<id>.png (виньетка на белом) → img/<id>.webp с прозрачным фоном.
-# Белое и почти белое уходит в прозрачность, мягкий край кисти сохраняется.
-def white_to_alpha(im, lo=8, hi=60):
-    a = np.asarray(im.convert('RGB')).astype(np.float32)
-    d = 255 - a.min(axis=2)                    # насколько пиксель темнее белого
-    alpha = np.clip((d - lo) / (hi - lo), 0, 1)
-    # цвет полупрозрачного края «отмываем» от белого, чтобы на бумаге не было светлой каймы
-    k = np.maximum(alpha, 1e-3)[..., None]
-    rgb = np.clip((a - 255 * (1 - k)) / k, 0, 255)
-    return Image.fromarray(np.dstack([rgb, alpha * 255]).astype(np.uint8), 'RGBA')
+# Фон — светлая малонасыщенная область, связанная с краем картинки (заливка от краёв), вместе со светлой
+# «бумажной» бахромой кисти; край затем чуть подрезается и смягчается (1–2 px). Живопись остаётся непрозрачной,
+# со своими естественными краями; белые облака внутри не трогаются (они не связаны с краем через светлый фон).
+def white_to_alpha(im, thr=140, sat=45, erode=9):
+    a = np.asarray(im.convert('RGB'))
+    ai = a.astype(int)
+    light = (ai.min(axis=2) > thr) & ((ai.max(axis=2) - ai.min(axis=2)) < sat)
+    cand = Image.fromarray(np.where(light, 0, 255).astype(np.uint8), 'L').copy()
+    w, h = cand.size
+    px = cand.load()
+    seeds = [(x, 0) for x in range(0, w, 3)] + [(x, h - 1) for x in range(0, w, 3)] + \
+            [(0, y) for y in range(0, h, 3)] + [(w - 1, y) for y in range(0, h, 3)]
+    for xy in seeds:
+        if px[xy] == 0:
+            ImageDraw.floodfill(cand, xy, 128)
+    alpha = Image.fromarray(np.where(np.asarray(cand) == 128, 0, 255).astype(np.uint8), 'L')
+    alpha = alpha.filter(ImageFilter.MinFilter(erode)).filter(ImageFilter.GaussianBlur(1.6))
+    return Image.fromarray(np.dstack([a, np.asarray(alpha)]), 'RGBA')
 
 
 LILA = os.path.join(SRC, 'lila')
