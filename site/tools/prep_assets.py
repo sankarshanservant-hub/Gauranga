@@ -84,3 +84,27 @@ save(desk.resize((1600, round(desk.height * 1600 / desk.width)), Image.LANCZOS),
 sky = load('header-navadvipa-sunset.png')
 save(sky.resize((1800, round(sky.height * 1800 / sky.width)), Image.LANCZOS), 'header-sunset.jpg', quality=80)
 
+
+# Иллюстрации лил: src/lila/<id>.png (виньетка на белом) → img/<id>.webp с прозрачным фоном.
+# Белое и почти белое уходит в прозрачность, мягкий край кисти сохраняется.
+def white_to_alpha(im, lo=8, hi=60):
+    a = np.asarray(im.convert('RGB')).astype(np.float32)
+    d = 255 - a.min(axis=2)                    # насколько пиксель темнее белого
+    alpha = np.clip((d - lo) / (hi - lo), 0, 1)
+    # цвет полупрозрачного края «отмываем» от белого, чтобы на бумаге не было светлой каймы
+    k = np.maximum(alpha, 1e-3)[..., None]
+    rgb = np.clip((a - 255 * (1 - k)) / k, 0, 255)
+    return Image.fromarray(np.dstack([rgb, alpha * 255]).astype(np.uint8), 'RGBA')
+
+
+LILA = os.path.join(SRC, 'lila')
+for f in sorted(os.listdir(LILA)) if os.path.isdir(LILA) else []:
+    if not f.lower().endswith('.png'):
+        continue
+    im = Image.open(os.path.join(LILA, f))
+    if im.mode == 'RGBA' and np.asarray(im)[:, :, 3].min() < 250:
+        cut = im                                # уже с прозрачностью
+    else:
+        cut = white_to_alpha(im)
+    cut.thumbnail((900, 900), Image.LANCZOS)
+    save(cut, f[:-4] + '.webp', quality=86)

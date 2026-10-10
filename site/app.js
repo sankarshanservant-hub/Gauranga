@@ -37,7 +37,9 @@
   }
 
   // Иллюстрации: id лилы или эпизода → файл (PNG/WebP с прозрачным фоном). Пока пусто — везде заглушки.
-  const IMAGES = {};
+  const IMAGES = {
+    'ev-gaura-appearance': 'assets/img/ev-gaura-appearance.webp',
+  };
   const LAYERS = ['orig', 'translit', 'wbw', 'text', 'notes'];
   const ORN = '<svg class="orn-line" viewBox="0 0 200 10" aria-hidden="true"><path d="M0 5h86M114 5h86" stroke="currentColor" stroke-width=".8"/><path d="M100 1l4 4-4 4-4-4z" fill="currentColor"/></svg>';
   const LOTUS = '<svg class="ph" viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"><circle cx="50" cy="50" r="46" stroke-dasharray="2 4"/><path d="M50 22c8 10 10 22 0 40-10-18-8-30 0-40Z"/><path d="M50 62c5-14 16-22 30-22-3 14-14 23-30 22Z"/><path d="M50 62C34 63 23 54 20 40c14 0 25 8 30 22Z"/><path d="M28 70h44M34 76h32"/></g></svg>';
