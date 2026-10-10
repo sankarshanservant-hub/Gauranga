@@ -191,3 +191,45 @@ In the tenth volume of the *Śrī Sajjana-toṣaṇī*, the translation by Śrī
 **tamasaḥ pāre** (in the region beyond the three *guṇas*) **tu** **siddha-lokaḥ** ([lies]), **yatra** **siddhāḥ** (those perfected in the knowledge of undifferentiated Brahman and in the *yoga* of *kaivalya*) **hariṇā** (by Kṛṣṇa) **hatāḥ** **daityāḥ ca** **brahma-sukhe** (in *sāyujya* with the featureless Brahman) **magnāḥ** ([being] immersed) **vasanti hi**.
 
 See the *Anubhāṣya* to 35–36 above.
+
+## 40
+
+> Subheading: The second *catur-vyūha* in Paravyoma is a manifestation of the original *catur-vyūha* of Dvārakā —
+
+Śrī Rūpa Prabhu in the *Laghu-bhāgavatāmṛta* (describing the *catur-vyūha*, 83–84): “The *Padma Purāṇa*, however, says that the four *vyūhas* — Vāsudeva and the others — abide in order in the four directions of Paramavyoma, beginning with the east. Likewise in the *pāda-vibhūti* they abide in order: in the city of Vedavatī, in the Vaikuṇṭha within the covering of water; in the world of Viṣṇu above Satya; in the eternal city of Dvārakā; and in Śvetadvīpa, north of the Ocean of Pure Water, in the city of Airāvatī — in the abode that is the couch on Ananta's lap, in the Ocean of Milk.”
+
+The *Padma Purāṇa* says that in the four directions of Paravyoma, beginning with the east, the *catur-vyūha* — Vāsudeva and the others — abides in order. And in the *eka-pāda-vibhūti*, that is, in the material world, these four forms — Vāsudeva and the others — dwell in order in four places. Vāsudeva dwells in the Vaikuṇṭha within the covering of water, in the city of Vedavatī; Saṅkarṣaṇa in Viṣṇuloka above Satyaloka; Pradyumna in the eternal city of Dvārakā; and Aniruddha on the bed of Ananta, in the city of Airāvatī in Śvetadvīpa, in the middle of the Ocean of Milk, on the northern shore of the Ocean of Pure Water.
+
+## 41
+
+> Subheading: They are *turīya*, beyond the Virāṭ, the Garbha and the Kāraṇa —
+
+## 42
+
+> Subheading: Mahā-Saṅkarṣaṇa of the second *catur-vyūha* is the original shelter of the *cit-śakti* —
+
+## 43
+
+> Subheading: The splendor of that form is a transformation of the *sandhinī* of the *cit-śakti* —
+
+## 44
+
+> Subheading: The six opulences and all the rest are the spiritual splendor of Mahā-Saṅkarṣaṇa —
+
+## 45
+
+> Subheading: Mahā-Saṅkarṣaṇa is the shelter of the *jīva-śakti* —
+
+## 46
+
+> Subheading: A part of Saṅkarṣaṇa — Viṣṇu who lies in the Causal Ocean —
+
+## 41–48
+
+Saṅkarṣaṇa is another name for “Mahā-Saṅkarṣaṇa” (He is described below, in 42–48).
+
+In the second *pāda* of the second chapter of the *Brahma-sūtra*, in the *Utpatty-asambhava-adhikaraṇa*, Śrī Śaṅkarācārya in his commentary put forward a mistaken argument about the *catur-vyūha*. Settling the matter, the author refutes that doctrine in 41–47. Śrīpāda [Śaṅkara] erred in taking Viṣṇu, the nondual Knowledge (*advaya-jñāna*), for one of the objects of the visible world; in the *Pañcarātra* Śrī Nārāyaṇa Himself made this clear to him. Yet to bewilder the conditioned *jīvas* of demoniac nature he had to resort to deception (*vipralipsā*). Because of this the followers of Advaita — Appayya Dīkṣita and others — have reached the utmost limit of error. With the capacities of conditioned *jīvas*, knowledge of the *catur-vyūha* is not possible. The ācārya spoke such ill words to increase their folly. The *catur-vyūha* is made of *śuddha-sattva*, delights in the play of the *cit-śakti* and possesses the six kinds of majesty. To call Them poor and powerless, and to think of Them so, is the trait of deluded *jīvas*. Such *jīvas* are fit only to be bewildered by *māyā*. Whoever cannot understand [the difference between] Vaikuṇṭha and the realm of *māyā* falls into just this kind of error. In his commentary on *sūtras* 42–45 of the second *pāda* of the second chapter of the *Brahma-sūtra*, Śrīpāda Śaṅkara made a vain attempt to refute “the doctrine of the *catur-vyūha*.” Below are quoted from Śrīpāda Śaṅkarācārya's commentary his words on the “*catur-vyūha*,” rooted in his distorted understanding.
+
+*Utpatty-asambhavāt* (42) (Śaṅkara's commentary): * * * “On this the Bhāgavatas hold: Bhagavān Vāsudeva alone, stainless, whose nature is knowledge, is the highest reality. Dividing Himself fourfold, He abides in the form of the *vyūha* of Vāsudeva, the *vyūha* of Saṅkarṣaṇa, the *vyūha* of Pradyumna and the *vyūha* of Aniruddha. Vāsudeva is the name for the Supreme Self, Saṅkarṣaṇa for the *jīva*, Pradyumna for the mind, Aniruddha for the ego (*ahaṅkāra*). Of these, Vāsudeva is the highest *prakṛti*, and the others — Saṅkarṣaṇa and the rest — are effects. To this we say: what is asserted — that the supreme Nārāyaṇa, the Supreme Self, the Self of all, by Himself dividing Himself in many ways, abides in the form of *vyūhas* — is not refuted. But what is said further — that from Vāsudeva Saṅkarṣaṇa is born, from Saṅkarṣaṇa Pradyumna, and from Pradyumna Aniruddha — to this we say: the birth of the *jīva* called Saṅkarṣaṇa from the Supreme Self called Vāsudeva is impossible, for then defects such as impermanence would follow. If the *jīva* were born, defects such as impermanence would attach to it, and then liberation — attaining Bhagavān — would be impossible for it, for an effect, on reaching its cause, would dissolve into it. And the Ācārya will reject the birth of the *jīva* [by the *sūtra*] ‘The self [is not born], because of *śruti*, and because of eternity [known] from them.’ Therefore their construction is incoherent.”
+
+The meaning of the commentary is this: “The Bhāgavatas hold that Bhagavān Vāsudeva is one, stainless, His body is knowledge, and He is the highest reality. He Himself has divided Himself into four and so abides. These four *vyūhas* are: 1) the *vyūha* of Vāsudeva, 2) the *vyūha* of Saṅkarṣaṇa, 3) the *vyūha* of Pradyumna, 4) the *vyūha* of Aniruddha; these four *vyūhas* are His body. Another name of Vāsudeva is ‘Paramātmā’; of Saṅkarṣaṇa, ‘*jīva*’; of Pradyumna, ‘mind’; and of Aniruddha, ‘*ahaṅkāra*.’ Of the four *vyūhas*, the *vyūha* of Vāsudeva is the highest *prakṛti*, that is, the root cause. Saṅkarṣaṇa and the others have arisen from the *vyūha* of Vāsudeva, and so Saṅkarṣaṇa, Pradyumna and Aniruddha are the effects of that highest *prakṛti*. For a long time the *jīva* goes to the temple of Bhagavān, gathers [the articles of worship], performs worship (*ijyā*), studies [scripture] and practices *yoga*; thus it becomes free from sin, obtains a pure body and attains the highest *prakṛti*, Bhagavān. The great-souled Bhāgavatas say that Nārāyaṇa is beyond *prakṛti*, renowned as the Paramātmā, and is the Self of all — this does not contradict *śruti*. We also accept that He by Himself abides in the form of many *vyūhas*. Therefore this part of the Bhāgavata doctrine is not refuted by this *sūtra*. The Ācārya composed this *sūtra* only to reject the part where the Bhāgavatas say that from Vāsudeva Saṅkarṣaṇa was born, from Saṅkarṣaṇa Pradyumna, and from Pradyumna Aniruddha. The birth of the *jīva* called Saṅkarṣaṇa from the Paramātmā called Vāsudeva is utterly impossible: the *jīva* would then be subject to defects such as impermanence. If the *jīva* is born, defects such as impermanence are unavoidable for it. And if the *jīva* is perishable by nature, liberation — attaining Bhagavān — is impossible for it altogether. When the cause perishes, the effect must perish too. Ācārya Vedavyāsa rejected the birth of the *jīva* by the *sūtra* of the third *pāda* of the second chapter, ‘The self [is not born], because of *śruti*, and because of eternity [known] from them,’ and by rejecting its birth he will prove its eternity. Therefore this construction is incoherent.”
