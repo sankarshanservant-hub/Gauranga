@@ -253,6 +253,10 @@ def run(chap):
         if not f['used']: warn.append('правка не применена: @%s %s: %s' % (f['n'], f['f'], f['old']))
     open(os.path.join(od, 'review', 'fixes-%s.md' % chap), 'w', encoding='utf-8').write('\n'.join(F) + '\n')
     json.dump(rows, open(os.path.join(od, 'work', 'rows-%s.json' % chap), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    if vb:
+        import cmp_bn
+        nr, no = cmp_bn.write_md(chap)
+        print('  расхождения с vedabase: чтений %d, орфографических %d -> ed/review/vedabase-diff-%s.md' % (nr, no, chap))
     print('%s: %d блоков, стихи 1–%d; удалено фрагментов: %d; правок: %d' % (chap, len(verses), expect - 1, len(removed), len(fixes)))
     for w in warn: print('  !', w)
 
