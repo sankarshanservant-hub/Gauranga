@@ -11,9 +11,20 @@ def nb(s):
     s = re.sub(r'\s+([,!?])', r'\1', s)
     return re.sub(r'\s+', ' ', s).strip()
 def key(w): return re.sub(r'[-—,!?;‘’“”\s]', '', w)
+def vb_skips(chap):
+    """стихи vedabase, которых нет в издании ГМ (`@vb skip: N  # …` в ed/fixes/<Гл>.txt); после них нумерация сдвинута"""
+    fx = os.path.join(R, '..', 'fixes', '%s.txt' % chap)
+    if not os.path.exists(fx): return []
+    return sorted(int(m.group(1)) for l in open(fx, encoding='utf-8') for m in [re.match(r'^@vb skip:\s*(\d+)', l)] if m)
+def vbnum(n, skips):
+    for s in skips:
+        if n >= s: n += 1
+    return n
 def diffs(chap):
     vb = json.load(open(os.path.join(R, 'vb-%s.json' % chap))); rows = json.load(open(os.path.join(R, 'rows-%s.json' % chap)))
+    skips = vb_skips(chap)
     def vbt(n):
+        n = vbnum(n, skips)
         for k, e in vb.items():
             a, b = (list(map(int, k.split('-'))) + [None])[:2]; b = b or a
             if a <= n <= b: return k, e['bn']
@@ -24,7 +35,8 @@ def diffs(chap):
             mine = ' '.join(r['bn'][i])
             if '-' in k:   # сдвоенный у vedabase: взять нужное двустишие
                 parts = re.findall(r'.*?॥\s*[০-৯]+\s*॥', ' '.join(bl), re.S)
-                a = int(k.split('-')[0]); B = nb(parts[n - a]) if n - a < len(parts) else nb(' '.join(bl))
+                a = int(k.split('-')[0]); j = vbnum(n, skips) - a
+                B = nb(parts[j]) if j < len(parts) else nb(' '.join(bl))
             else: B = nb(' '.join(bl))
             A = nb(mine)
             aw, bw = A.split(), B.split()
@@ -67,6 +79,10 @@ def write_md(chap):
            'текст исправлен по скану; было/стало — в `fixes-%s.md`.' % chap, '',
            '| Стих | Гаудия Матх (в книге) | vedabase | Тип | У ВЧД |', '|---|---|---|---|---|']
     nr = no = 0
+    vb = json.load(open(os.path.join(R, 'vb-%s.json' % chap)))
+    for s in vb_skips(chap):
+        out.append('| (vedabase %d) | — | %s | **нет в ГМ** | — |' % (s, nb(' '.join(vb[str(s)]['bn'])) if str(s) in vb else '?'))
+        nr += 1
     for n, d in D:
         for a, b in d:
             o = ortho(a, b); nr += not o; no += o

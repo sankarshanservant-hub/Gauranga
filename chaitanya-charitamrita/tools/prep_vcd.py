@@ -185,7 +185,7 @@ def load_fixes(path):
     if not os.path.exists(path): return fx
     for l in open(path, encoding='utf-8'):
         l = l.rstrip('\n')
-        if not l.strip() or l.startswith('#'): continue
+        if not l.strip() or l.startswith('#') or l.startswith('@vb skip:'): continue   # @vb skip — для cmp_bn
         m = re.match(r'^@(\S+)\s+(\w+):\s*(.*?)\s*=>\s*(.*?)\s*(?:#\s*(.*))?$', l)
         if not m: print('  ! bad fix line:', l); continue
         fx.append({'n': m.group(1), 'f': m.group(2), 'old': m.group(3), 'new': m.group(4), 'why': m.group(5) or '', 'used': 0})

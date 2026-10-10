@@ -765,7 +765,7 @@ He too  Your  portion  You  the original  Nārāyaṇa
 (69) The Nārāyaṇa who lies on the water and dwells within all is Your portion. You are the original Nārāyaṇa.
 
 ‘অঙ্গ’-শব্দে অংশ কহে, সেহো সত্য হয় ৷  
-মায়াকার্য্য নহে — সব চিদনন্দময় ॥ ৭০ ॥
+মায়াকার্য্য নহে — সব চিদানন্দময় ॥ ৭০ ॥
 
 ‘aṅga’-śabde aṁśa kahe, seho satya haya  
 by the word aṅga  a portion  it says  that too  true  is  

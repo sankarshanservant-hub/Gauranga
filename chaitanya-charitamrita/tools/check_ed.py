@@ -46,7 +46,8 @@ def check(chap):
         if not v['tr']: errs.append('%s: нет перевода' % lab)
     vbp = os.path.join(ROOT, 'ed', 'work', 'vb-%s.json' % chap)
     if os.path.exists(vbp):
-        nvb = max(int(k.split('-')[-1]) for k in json.load(open(vbp)))
+        from cmp_bn import vb_skips
+        nvb = max(int(k.split('-')[-1]) for k in json.load(open(vbp))) - len(vb_skips(chap))
         if nvb != expect - 1: warn.append('стихов %d, у vedabase %d' % (expect - 1, nvb))
     print('%s: стихов %d (блоков %d); ошибок %d, замечаний %d' % (chap, expect - 1, len(verses), len(errs), len(warn)))
     for e in errs: print('  ! ' + e)
