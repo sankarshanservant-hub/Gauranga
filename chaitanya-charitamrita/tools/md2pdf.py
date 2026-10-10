@@ -17,14 +17,43 @@ def inline(t, notes):
                % (m.group(1), m.group(1), notes.index(m.group(1)) + 1 if m.group(1) in notes else 0), t)
     return t
 
+def load_comm(chap, kind):
+    """ed/ru/<Глава>-<kind>.md -> ({ключ раздела: текст}, сноски) ; ключ '0', '5' или '5–6'"""
+    f = os.path.join(ROOT, 'ed', 'ru', '%s-%s.md' % (chap, kind))
+    if not os.path.exists(f): return {}, ''
+    t = open(f, encoding='utf-8').read()
+    body, _, foot = t.partition('\n---\n')
+    sec = {}
+    for m in re.finditer(r'^## +([\d–-]+)\s*\n(.*?)(?=^## |\Z)', body, re.M | re.S):
+        sec[m.group(1).replace('-', '–')] = m.group(2).strip()
+    return sec, foot
+
+def comm_html(text, notes):
+    out, sub = [], ''
+    for para in re.split(r'\n\s*\n', text):
+        para = para.strip()
+        if not para: continue
+        if para.startswith('> Подзаголовок:'): continue
+        out.append('<p>%s</p>' % inline(para.replace('\n', ' '), notes))
+    return ''.join(out)
+
+def subheading(text):
+    m = re.search(r'^> Подзаголовок:\s*(.+)$', text, re.M)
+    return m.group(1).strip() if m else ''
+
 def build(chap, ed='full', size='a5'):
     md = open(os.path.join(ROOT, 'ed', 'vcd', 'CC_%s.md' % chap), encoding='utf-8').read()
     body, _, foot = md.partition('\n---\n')
+    apb, fa = load_comm(chap, 'apb') if ed == 'full' else ({}, '')
+    anu, fn = load_comm(chap, 'anu') if ed == 'full' else ({}, '')
+    foot = foot + '\n' + fa + '\n' + fn
     notes = re.findall(r'^\[\^([\w-]+)\]:', foot, re.M)
     paras = [p for p in body.split('\n\n') if p.strip()]
     hdr = [l.strip() for l in paras[0].split('\n')]
     H = ['<header><div class="book">%s</div><div class="lila">%s</div><div class="ch">%s</div><h1>%s</h1><div class="by">%s</div></header>'
          % tuple(inline(x.strip('*'), notes) for x in hdr[:5])]
+    if apb.get('0'):
+        H.append('<section class="intro"><h2>Амрита-праваха-бхашья</h2>%s</section>' % comm_html(apb['0'], notes))
     blk = []
     for p in paras[1:]:
         lines = [l.rstrip() for l in p.split('\n')]
@@ -32,8 +61,17 @@ def build(chap, ed='full', size='a5'):
             if ed == 'full': blk.append('<div class="bn">%s</div>' % '<br>'.join(html.escape(l.strip()) for l in lines))
         elif re.match(r'^\(\d+(–\d+)?\) ', p):
             m = re.match(r'^\((\d+(?:–\d+)?)\) (.*)', p, re.S)
-            blk.append('<p class="tr"><span class="n">%s</span> %s</p>' % (m.group(1), inline(m.group(2), notes)))
-            H.append('<section class="v">%s</section>' % ''.join(blk)); blk = []
+            lab = m.group(1); a, b = (lab.split('–') + [lab])[:2]
+            blk.append('<p class="tr"><span class="n">%s</span> %s</p>' % (lab, inline(m.group(2), notes)))
+            keys = [k for k in list(apb) + list(anu) if k != '0' and (k == lab or k == a or k.split('–')[-1] == b)]
+            sh = ''
+            for k in dict.fromkeys(keys):
+                if k in anu and subheading(anu[k]): sh = subheading(anu[k])
+            for name, src in (('Амрита-праваха-бхашья', apb), ('Анубхашья', anu)):
+                for k in dict.fromkeys(keys):
+                    if k in src and comm_html(src[k], notes):
+                        blk.append('<div class="comm"><span class="cn">%s.</span> %s</div>' % (name, comm_html(src[k], notes)))
+            H.append('<section class="v">%s%s</section>' % (('<h3 class="sub">%s</h3>' % inline(sh, notes)) if sh else '', ''.join(blk))); blk = []
         elif ed == 'full':
             rows = []
             for l in (x.strip() for x in lines):
@@ -63,6 +101,11 @@ section.v .bn, section.v .tlww { break-inside: avoid; }
 .ww { font-size: 9pt; color: #555; margin-bottom: 0.8mm; }
 p.tr { margin: 0; text-align: justify; hyphens: auto; }
 p.tr .n { font-weight: bold; }
+.comm { margin-top: 2.5mm; font-size: 10pt; text-align: justify; hyphens: auto; }
+.comm p { margin: 0 0 1.5mm; } .comm .cn { font-weight: bold; font-style: italic; }
+.comm p:first-child { display: inline; } .comm p:first-child + p { margin-top: 1.5mm; }
+h3.sub { font-size: 10.5pt; font-style: italic; font-weight: normal; text-align: center; margin: 0 0 2mm; }
+section.intro { font-size: 10pt; text-align: justify; margin-bottom: 6mm; } section.intro h2 { font-size: 11pt; text-align: center; }
 sup.fn a { text-decoration: none; color: #333; font-size: 8pt; }
 section.notes { border-top: 0.5pt solid #999; margin-top: 8mm; font-size: 9.5pt; }
 section.notes h2 { font-size: 11pt; } section.notes a { text-decoration: none; color: #555; }
