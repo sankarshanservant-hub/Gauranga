@@ -170,7 +170,7 @@ In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites thi
 
 **suvarṇa-varṇaḥ** (He whose color is yellow, like the color of gold) **hemāṅgaḥ** (He whose body is like gold) **varāṅgaḥ** (He whose body bears the marks of a *mahāpuruṣa*) **candanāṅgadī** (He whose armlets are anointed with sandal) (these are four names of Bhagavān Gauracandra in His first pastimes). **sannyāsa-kṛt** (devoted to the duty of a renunciant) **śamaḥ** (free from sense objects) **śāntaḥ** (He whose mind is fixed on Kṛṣṇa alone) **niṣṭhā-śānti-parāyaṇaḥ** (*niṣṭhā* is one-pointedness of mind, and there is *śānti*; *niṣṭhā* and *śānti* are His highest shelter) (the *Sahasra-nāma* also cites these four names of Bhagavān Gaurahari in His last pastimes).
 
-In Śrī Baladeva Vidyābhūṣaṇa's commentary on the *Viṣṇu-sahasra-nāma*, called *Nāmārtha-sudhā*, it is said: “*Suvarṇa-varṇa*: ‘His color, that is, His form, is like gold,’ according to the Śruti: ‘When the seer sees the golden Creator, the Lord, the Puruṣa, the source of Brahman.’[^49-1] *Hemāṅga*: ‘His limbs, the bearers of color, are as desirable as gold.’ *Varāṅga*: ‘His limbs are excellent, that is, full of beauty.’ *Candanāṅgadī*: ‘His armlets (*aṅgada*) are *candana*, that is, they gladden the hearts of the devotees.’ Some apply these four names, beginning with *suvarṇa-varṇa*, to His form as Kṛṣṇa Caitanya. Now, with six names, the verse points to His being Kṛṣṇa Caitanya. *Sannyāsa-kṛt*: ‘He who performs *sannyāsa*, the life of a wandering renunciant.’ *Śama*: ‘He who reflects (*śamayati*) on the secret of Hari’; the root *śam* in the sense of ‘to reflect’ belongs to the tenth class. *Śānta*: ‘He who has withdrawn (*śāmyati*) from everything other than Kṛṣṇa.’ *Niṣṭhā*: ‘That in which the sacrifices of devotion abide (*nitiṣṭhanti*), the chief of which is *hari-kīrtana*’ — for the *smṛti* says, ‘*kṛṣṇa-varṇaṁ tviṣākṛṣṇam*.’[^49-2] *Śānti*: ‘That by which the opponents of devotion, headed by the followers of *kevalādvaita*, are subdued.’ *Parāyaṇa*: ‘The highest shelter of all kinds of *bhāva*, up to *mahābhāva*.’”
+In Śrī Baladeva Vidyābhūṣaṇa's commentary on the *Viṣṇu-sahasra-nāma*, called *Nāmārtha-sudhā*, it is said: “*Suvarṇa-varṇa*: ‘His color, that is, His form, is like gold,’ according to the Śruti: ‘When the seer sees the golden Creator, the Lord, the Puruṣa, the source of Brahman.’[^49-1] *Hemāṅga*: ‘His limbs, the bearers of color, are as desirable as gold.’ *Varāṅga*: ‘His limbs are excellent, that is, full of beauty.’ *Candanāṅgadī*: ‘His armlets (*aṅgada*) are *candana*, that is, they gladden the hearts of the devotees.’ Some apply these four names, beginning with *suvarṇa-varṇa*, to His form as Kṛṣṇa Caitanya. Now, with six names, the verse points to His being Kṛṣṇa Caitanya. *Sannyāsa-kṛt*: ‘He who performs *sannyāsa*, the life of a wandering renunciant.’ *Śama*: ‘He who reflects (*śamayati*) on the secret of Hari’; the root *śam* in the sense of ‘to reflect’ belongs to the tenth class. *Śānta*: ‘He who has withdrawn (*śāmyati*) from everything other than Kṛṣṇa.’ *Niṣṭhā*: ‘That in which the sacrifices of devotion abide (*nitiṣṭhanti*), the chief of which is *hari-kīrtana*’ — for the *smṛti* says, *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* (“He who utters the name of Kṛṣṇa, yet is not dark”).[^49-2] *Śānti*: ‘That by which the opponents of devotion, headed by the followers of *kevalādvaita*, are subdued.’ *Parāyaṇa*: ‘The highest shelter of all kinds of *bhāva*, up to *mahābhāva*.’”
 
 ## 51
 
@@ -355,3 +355,24 @@ Gaura is Kṛṣṇa, and this is the aim of the scriptures. One can understand 
 > Subheading: The devotee's self-surrender defeats the Unconquerable (words of the *Viṣṇu-dharma* and the *Gautamīya-tantra*) —
 
 **bhakta-vatsalaḥ** (Bhagavān, devoted to His own) **tulasī-dala-mātreṇa** (with merely a *tulasī* leaf, without sandal paste, *mantras* and the like) **jalasya culukena** (with a mouthful of water) **vā bhaktebhyaḥ ātmānaṁ vikrīṇīte** (places Himself in their power).
+
+## 109
+
+> Subheading: Kṛṣṇa Himself displays the pastimes of Gaura to fulfill His devotee's desire — the distribution of love for Kṛṣṇa —
+
+## 110
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 9, verse 11)
+
+Having attained the *darśana* and mercy of Bhagavān through austerity, Brahmā, wishing to create, offers Him prayers:
+
+**nanu** (O) **nātha** (O Lord) **śrutekṣita-pathaḥ** (He whose path is seen through *śruta*, hearing the conclusions of scripture) **tvaṁ puṁsāṁ bhakti-yoga-paribhāvita-hṛt-saroja** (in the lotus of the heart, purified, made fit, by *bhakti-yoga*, that is, by *prema*) **āsse** (You dwell). **dhiyā yad yad vibhāvayanti** (contemplate), **[he] urugāya** (O You who are sung of in many ways — Urukrama), **sad-anugrahāya** (to show mercy to the *sat*, the devotees) **tat tad vapuḥ** (body) **praṇayase** (You bring fully near to them, You manifest).
+
+*Thus ends the third chapter of the “Anubhāṣya.”*
+
+[^7-1]: That is, 4,320,000.
+[^10-1]: So in the edition (৯৭৫৩২০০০০).
+[^18-1]: So in the edition (“Bhāg. 9.7.67”); apparently *Śrīmad-Bhāgavatam* 9.4.67 is meant.
+[^49-1]: *Muṇḍaka Upaniṣad* 3.1.3.
+[^49-2]: *Śrīmad-Bhāgavatam* 11.5.32 (*Caitanya-caritāmṛta*, Ādi 3.51).
+[^84-1]: In the edition this section is also numbered 83; by its content it belongs to verse 84.
