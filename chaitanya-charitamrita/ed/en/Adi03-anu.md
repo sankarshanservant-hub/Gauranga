@@ -230,7 +230,7 @@ See Ādi 2.30.
 
 ## 70
 
-In the realm of *māyā*, *māyā* divides an object and it becomes a part. With *viṣṇu-tattva* it is not so: it cannot come under the control of *māyā*. Therefore, though He is a part, He is not divided either in His nature as Viṣṇu or in His substance. The example of a lamp shows this: another lamp is lit from the original lamp, yet in substance they do not differ. In the same way all the *viṣṇu-tattvas* appear from Baladeva, the *svayaṁ-prakāśa*, or *vilāsa*, of Kṛṣṇa, the original form (*svayaṁ-rūpa*). Their pastimes differ, but in substance they are one. The separated parts (*vibhinnāṁśa*), however — Brahmā and Śiva — have acquired a capacity for transformation to the degree that they can come under the control of *māyā*. All those Viṣṇus are full of spirit and bliss, and all are masters of *māyā*: *māyā* has no power over them. On other *tattvas* *māyā* does act. As curd is a transformation of milk, so are *śambhu-tattva* and the rest.
+In the realm of *māyā*, *māyā* divides an object and it becomes a part. With *viṣṇu-tattva* it is not so: it cannot come under the control of *māyā*. Therefore, though He is a part, He is not divided either in His nature as Viṣṇu or in His substance. The example of a lamp shows this: another lamp is lit from the original lamp, yet in substance they do not differ. In the same way all the *viṣṇu-tattvas* appear from Baladeva, the *svayaṁ-prakāśa*, or *vilāsa*, of Kṛṣṇa, the original form (*svayaṁ-rūpa*). Their pastimes differ, but in substance they are one. The separated parts (*vibhinnāṁśa*), however — Brahmā and Śiva — can come under the control of *māyā*, and therefore they have acquired a capacity for transformation. All those Viṣṇus are full of spirit and bliss, and all are masters of *māyā*: *māyā* has no power over them. On other *tattvas* *māyā* does act. As curd is a transformation of milk, so are *śambhu-tattva* and the rest.
 
 ## 71
 
@@ -372,7 +372,7 @@ Having attained the *darśana* and mercy of Bhagavān through austerity, Brahmā
 
 [^7-1]: That is, 4,320,000.
 [^10-1]: So in the edition (৯৭৫৩২০০০০).
-[^18-1]: So in the edition (“Bhāg. 9.7.67”); apparently *Śrīmad-Bhāgavatam* 9.4.67 is meant.
+[^18-1]: The edition gives “Bhāg. 9.7.67” — apparently a misprint: the same refusal of the four kinds of liberation by devotees content with service is found in the Lord’s words to Durvāsā about His devotees, *Śrīmad-Bhāgavatam* 9.4.67.
 [^49-1]: *Muṇḍaka Upaniṣad* 3.1.3.
 [^49-2]: *Śrīmad-Bhāgavatam* 11.5.32 (*Caitanya-caritāmṛta*, Ādi 3.51).
 [^84-1]: In the edition this section is also numbered 83; by its content it belongs to verse 84.
