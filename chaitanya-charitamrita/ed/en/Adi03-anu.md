@@ -261,3 +261,97 @@ In the realm of *māyā*, *māyā* divides an object and it becomes a part. With
 > Subheading: To think the Lord in the form of the holy name equal to material activities is godlessness —
 
 “To consider [the name] equal to all auspicious activities — *dharma*, vows, renunciation, sacrifices and the like — is also a blunder.” This eighth offense against the holy name must be avoided in every way. “Giving away ten million cows during a solar eclipse, living for a *kalpa* by the waters of the Gaṅgā at Prayāga, performing ten thousand sacrifices, giving away as much gold as there is in Mount Meru — none of this equals even a hundredth part of glorifying Govinda.”
+
+## 80
+
+> Subheading: (*Tattva-sandarbha*, verse 2)
+
+Śrī Jīva Gosvāmī placed the verse *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* in the *maṅgalācaraṇa* of the *Bhāgavata-sandarbha*, or *Ṣaṭ-sandarbha*. Similar to it is his own verse, *antaḥ kṛṣṇaṁ bahir gauram*. This is the second verse of that *maṅgalācaraṇa*, and it merely explains Karabhājana's verse in the *Bhāgavatam*. Its meaning is explained at the beginning of the *Sarva-saṁvādinī*, the supplementary commentary (*anuvyākhyā*) on the *Ṣaṭ-sandarbha*.
+
+**antaḥ-kṛṣṇam** (Him within whom, in the depth of whose heart, is Kṛṣṇa; Him in whom the mood of the lover [*nāgara*] dwelling in Kṛṣṇa's heart is covered by the mood of Rādhā's heart) **bahir gauram** (Him whose form is yellow with the rays of His bodily luster) **darśitāṅgādi-vaibhavam** (Him who has shown, revealed, the splendor of His limbs, subsidiary parts, weapons and associates) **kṛṣṇa-caitanyam** **kalau saṅkīrtanādyaiḥ** (by the sacrifice of *nāma-kīrtana* and the rest) **vayam āśritāḥ sma**.
+
+## 82
+
+> Subheading: (In an Upapurāṇa)
+
+This verse is found in one of the Upapurāṇas.
+
+**he brahman**, **aham** (Bhagavān) **eva kvacit kalau** (in the first *sandhyā* of the Kali-yuga of the twenty-eighth *catur-yuga* of the Vaivasvata *manvantara*) **sannyāsāśramam** (the fourth *āśrama*) **āśritaḥ san** (having accepted) **pāpa-hatān narān hari-bhaktiṁ grāhayāmi** (I shall give).
+
+## 83
+
+> Subheading: The evidence of scripture that Gaurasundara is Bhagavān Himself —
+
+See the *Anubhāṣya* on Ādi 2.22.
+
+## 84
+
+> Subheading: Direct evidence of this —
+
+Gaura is Kṛṣṇa, and this is the aim of the scriptures. One can understand it directly as well: by seeing with one's own senses what Śrī Mahāprabhu's pastimes can do, His superhuman conduct and the variety of His superhuman glory and power.[^84-1]
+
+## 85
+
+> Subheading: The *adhokṣaja-tattva*, the Truth beyond the senses, cannot be seen with eyes that crave enjoyment —
+
+## 86
+
+> Subheading: (Ālavandāru Yāmunācārya, *Stotra-ratna*, verse 15)
+
+Śrī Yāmunācārya, the guru and *parama-guru* of Śrī Rāmānujācārya, who is also called Ālavandāru, describes Bhagavān's glory and majesty in verses 15 and 18 of his *Stotra-ratna*:
+
+**he bhagavan**, **parama-prakṛṣṭaiḥ** (most excellent) **śīla-rūpa-caritaiḥ** (by His character, forms and deeds) **sattvena** (by superhuman power) **sāttvikatayā** (by the predominance of *sattva*) **prabalaiḥ śāstraiḥ** **prakhyāta-daiva-paramārtha-vidām** (of the renowned knowers of the divine and of the highest truth) **mataiḥ ca** **āsura-prakṛtayaḥ** (the wicked, the enemies of the devotees) **tvāṁ boddhum** (to know) **na samarthāḥ bhavanti**.
+
+## 87
+
+> Subheading: But the devotee's love conquers the Unconquerable and makes the Unlimited measurable —
+
+## 88
+
+> Subheading: (Ālavandāru Yāmunācārya, *Stotra-ratna*, verse 18)
+
+**ullaṅghita-trividha-sīma-samātiśāyi-sambhāvanam** (that which oversteps, surpasses, the limits of the three — space, time and substance — and even the possibility of an equal or a superior) **bhavatā māyā-balena** (by the power of Your *yogamāyā*) **nigūhyamānam api tava parivraḍhima-svabhāvam** (the nature, the *svarūpa*, of Your lordship) **kecit tvad-ananya-bhāvāḥ** (those whose feeling is directed to You alone — the *ekāntins*, the exclusive devotees) **aniśam** (unceasingly) **paśyanti**.
+
+## 89
+
+> Subheading: The *adhokṣaja-tattva* is attained through devotion, not reached by knowledge born of the senses —
+
+## 90
+
+> Subheading: (*Padma Purāṇa*)
+
+**asmin loke daivaḥ āsuraḥ ca eva dvau bhūta-sargau** (two kinds of created beings): **viṣṇu-bhaktaḥ** (the servant of Hari) **daivaḥ smṛtaḥ**, **tad-viparyayaḥ** (one absorbed in enjoyment within *māyā*) **āsuraḥ** (a person of material nature) **eva**.
+
+## 91
+
+> Subheading: The Ācārya is the avatāra of a devotee, and therefore he has the power to make Gaura descend —
+
+## 92
+
+> Subheading: Before the avatāra of the original form, His servants, the elders, appear —
+
+## 95
+
+> Subheading: The state of society before the Lord's descent —
+
+## 96
+
+> Subheading: The pious and the sinner alike enjoy the senses and alike suffer the disease of worldly existence —
+
+## 97
+
+> Subheading: The Ācārya reflects on showing mercy to living beings —
+
+## 100
+
+> Subheading: Kṛṣṇa descends only by the power of pure service —
+
+## 101
+
+> Subheading: Only Viṣṇu can bring Viṣṇu down — hence his name, Advaita —
+
+## 103
+
+> Subheading: The devotee's self-surrender defeats the Unconquerable (words of the *Viṣṇu-dharma* and the *Gautamīya-tantra*) —
+
+**bhakta-vatsalaḥ** (Bhagavān, devoted to His own) **tulasī-dala-mātreṇa** (with merely a *tulasī* leaf, without sandal paste, *mantras* and the like) **jalasya culukena** (with a mouthful of water) **vā bhaktebhyaḥ ātmānaṁ vikrīṇīte** (places Himself in their power).

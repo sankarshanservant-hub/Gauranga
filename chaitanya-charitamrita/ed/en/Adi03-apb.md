@@ -157,3 +157,23 @@ O *brāhmaṇa*, in a certain special Kali-yuga I shall accept the *āśrama* of
 ## 83
 
 Many statements prove that Caitanya-Kṛṣṇa is a direct avatāra. In the *Bhāgavatam* there are the words *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* (“He who utters the name of Kṛṣṇa, yet is not dark”), *āsan varṇās trayaḥ* (“there were three colors”), *channaḥ kalau* (“hidden in the age of Kali”) and others. In the *Mahābhārata* there are the words *sambhavāmi yuge yuge* (“I appear in every *yuga*”), *sannyāsa-kṛc chamaḥ śāntaḥ* (“the renunciant, self-controlled and peaceful”) and others. In the Vedas there are *mahān prabhur vai puruṣaḥ* (“the Puruṣa is indeed the great Lord”), *yadā paśyaḥ paśyate rukma-varṇam* (“when the seer sees the golden One”) and others. In the Tantras that follow the Āgamas there are many statements such as *māyāpure bhaviṣyāmi śacī-sutaḥ* (“I shall be the son of Śacī in Māyāpura”). And in the Upapurāṇa there are the words *aham eva* (“I Myself”) and what follows.
+
+## 85
+
+*Ulūka*: a kind of owl that is blind by day. Unable to see the rays of the sun, it cannot admit that the sun exists.
+
+## 86
+
+O Bhagavān, Vyāsa and the other devotees who know the highest truth and the truth of Your avatāras are able to know You: through the powerful *sāttvika* scriptures they discern Your character, Your form, Your deeds and Your supremely *sāttvika* nature. But living beings of demoniac nature, endowed with the qualities of *rajas* and *tamas*, are unable to know You.
+
+## 88
+
+O Bhagavān, everything is confined by three limits — space, time and thought. But Your hidden nature has no equal and none above it, and so it exists beyond those three limits. By the power of Your *māyā* You conceal this nature, yet Your exclusive devotees are always able to see You.
+
+## 90
+
+In this world living beings are created of two kinds, *daiva*, the godly, and *āsura*, the demoniac. The devotees of Viṣṇu are *daiva*, and those who are not devoted to Viṣṇu are their opposite, that is, demoniac by nature.
+
+## 92–96
+
+Before Bhagavān Himself descends, He sends the elders — that is, He has them take birth on earth. Together with other elders appeared Śrī Mādhavendra Purī, Śrī Īśvara Purī, Śrī Śacī, Śrī Jagannātha and Śrī Advaita Ācārya. Having appeared, the Ācārya saw that the whole world was entangled in sin and piety and devoid of devotion to Kṛṣṇa. Living beings were enjoying the objects of the senses, but they did not mix with this the devotion to Kṛṣṇa that cures the disease of worldly existence.
