@@ -179,3 +179,85 @@ In Śrī Baladeva Vidyābhūṣaṇa's commentary on the *Viṣṇu-sahasra-nām
 “In which *yuga* and in what way does Bhagavān descend?” In answer to this question of King Nimi, Śrī Karabhājana speaks of the source of avatāras in the age of Kali and of how He is worshipped:
 
 **su-medhasaḥ** (the intelligent) **tviṣā** (by His luster) **akṛṣṇam** (golden like lightning — the third color, yellow, which remains after white and red) **kṛṣṇa-varṇam** (Him who describes, who sings of Kṛṣṇa; or, Him in whom are these two syllables, “Kṛṣ-ṇa”) **sāṅgopāṅgāstra-pārṣadam** (together with His limbs [*aṅgas*] — Nityānanda and Advaita; His subsidiary parts [*upāṅgas*] — Śrīvāsa and the other devotees; His weapons [*astras*] — the holy name of Hari and so on; and His associates [*pārṣadas*] — Gadādhara, Dāmodara Svarūpa and others) **saṅkīrtana-prāyaiḥ** (by singing *hari-kathā* and the names when many people gather together) **yajñaiḥ** **yajanti**.
+
+## 53
+
+> Subheading: Explanation of the verse *kṛṣṇa-varṇam* —
+
+## 57
+
+> Subheading: (*Stava-mālā*, the second prayer to Śrī Caitanyadeva, verse 1)
+
+**vidvāṁsaḥ** (the learned) **sphuṭam** (openly) **dyuti-bharāt** (from the abundance of His luster) **akṛṣṇāṅgam** (golden, of yellow color) **kṛṣṇam** **utkīrtana-mayaiḥ** (resting on the devotion called loud *kīrtana*) **makha-vidhibhiḥ** (by the rites of the sacrifice of the name) **kalau abhiyajante**, **yaṁ ca akhila-caturthāśrama-juṣām** (of all mendicant monks) **upāsyam** (worthy of worship) **prāhuḥ**, **saḥ caitanyākṛtiḥ devaḥ naḥ** (us) **atitarām** (exceedingly) **kṛpayatu**.
+
+## 58
+
+> Subheading: The effulgence of Brahman destroys darkness —
+
+## 60
+
+> Subheading: What is called darkness, or *kalmaṣa* —
+
+## 62
+
+> Subheading: (*Stava-mālā*, the second prayer to Śrī Caitanyadeva, verse 8)
+
+**yasya** (of Caitanyadeva) **smitālokaḥ** (the glance with a gentle smile) **jagatām** (of all living beings) **paritaḥ** (completely) **śokam** (sorrow, want) **harati** (destroys), **girāṁ prārambhaḥ** (the beginning of His words) **tu kuśala-paṭalīm** (the series of blessings) **pallavayati** (unfolds), **padālambhaḥ** (shelter at His feet) **kaṁ vā prema-nivaham** (all *prema*) **na hi praṇayati** (does not bestow), **saḥ caitanyākṛtiḥ devaḥ naḥ** (us) **atitarāṁ kṛpayatu**.
+
+## 63
+
+> Subheading: Whoever sees Gaura is freed of sin and attains *prema* —
+
+## 64
+
+> Subheading: Other avatāras have weapons and armies, but the Gaura-avatāra has devotees and *saṅkīrtana* —
+
+## 65
+
+> Subheading: (*Stava-mālā*, the first *Caitanyāṣṭaka*, verse 1)
+
+**praṇayitāṁ vahadbhiḥ** (bearing love, that is, intent on nourishing their own attachment) **dhṛta-manuja-kāyaiḥ** (who have taken human bodies) **giriśa-parameṣṭhi-prabhṛtibhiḥ** (Śiva, the four-headed [Brahmā] and others) **gīr-vāṇaiḥ** (by the gods) **sadā** (eternally) **upāsyaḥ** (worshipped) **sva-bhaktebhyaḥ** (to His own intimates — Svarūpa, Rāmānanda and others) **śuddhām** (pure — free of other desires, not covered by *karma*, *jñāna* and the like) **nija-bhajana-mudrām** (the way of worshipping Him) **upadiśan** **saḥ caitanyaḥ kiṁ punaḥ api me** (my) **dṛśoḥ padaṁ yāsyati** (will reach)?
+
+## 68
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 14, verse 14)
+
+See Ādi 2.30.
+
+## 69
+
+> Subheading: The meaning of this verse —
+
+## 70
+
+In the realm of *māyā*, *māyā* divides an object and it becomes a part. With *viṣṇu-tattva* it is not so: it cannot come under the control of *māyā*. Therefore, though He is a part, He is not divided either in His nature as Viṣṇu or in His substance. The example of a lamp shows this: another lamp is lit from the original lamp, yet in substance they do not differ. In the same way all the *viṣṇu-tattvas* appear from Baladeva, the *svayaṁ-prakāśa*, or *vilāsa*, of Kṛṣṇa, the original form (*svayaṁ-rūpa*). Their pastimes differ, but in substance they are one. The separated parts (*vibhinnāṁśa*), however — Brahmā and Śiva — have acquired a capacity for transformation to the degree that they can come under the control of *māyā*. All those Viṣṇus are full of spirit and bliss, and all are masters of *māyā*: *māyā* has no power over them. On other *tattvas* *māyā* does act. As curd is a transformation of milk, so are *śambhu-tattva* and the rest.
+
+## 71
+
+> Subheading: The two generals —
+
+## 72
+
+*Pāṣaṇḍa*: those who imagine that *śiva-tattva* and the like, which are subject to *māyā*, are equal to *viṣṇu-tattva*, the master of *māyā*. They do not realize that Bhagavān's pastimes are eternal, and they regard even the eternal truth of devotion as mere activity, divided by time and impermanent. Viṣṇu and His own associates labor to rid such *pāṣaṇḍīs* of their wicked intelligence.
+
+## 73
+
+> Subheading: The two Viṣṇus are the two generals —
+
+## 74
+
+> Subheading: The devotees are the army, and *kīrtana* of Kṛṣṇa is the weapon —
+
+## 76
+
+> Subheading: Gaurasundara is the very father of *kīrtana* of Kṛṣṇa —
+
+## 77
+
+> Subheading: As a father is pleased when his son is honored, so Gaura is pleased by *kīrtana* of Kṛṣṇa —
+
+## 78
+
+> Subheading: To think the Lord in the form of the holy name equal to material activities is godlessness —
+
+“To consider [the name] equal to all auspicious activities — *dharma*, vows, renunciation, sacrifices and the like — is also a blunder.” This eighth offense against the holy name must be avoided in every way. “Giving away ten million cows during a solar eclipse, living for a *kalpa* by the waters of the Gaṅgā at Prayāga, performing ten thousand sacrifices, giving away as much gold as there is in Mount Meru — none of this equals even a hundredth part of glorifying Govinda.”

@@ -91,3 +91,69 @@ He whose height equals four of his own cubits, measured by the length and span o
 ## 49
 
 A golden color, a body like molten gold, a form beautiful in every limb, adornment with sandal and garlands — these four marks are seen in His pastimes as a householder. [In His pastimes of *sannyāsa* He is] a *sannyāsī*; He possesses the quality of *śama*, which consists in reflecting on the secrets of Hari; He is firmly fixed in the great sacrifice of *hari-kīrtana*; and He is wholly devoted to *mahābhāva*, attained through *śānti* — the *śānti* that silences the non-devotees who hold to *kevalādvaita*, pure monism.
+
+## 51
+
+Intelligent people worship, with a sacrifice in which *saṅkīrtana* is foremost, the Great Personality (*Mahāpuruṣa*) in whose mouth the syllables “Kṛṣṇa” always dwell, whose luster is *akṛṣṇa*, that is, golden, and who is surrounded by His limbs and subsidiary parts (*aṅgas* and *upāṅgas*), His weapons and His associates.
+
+Śrī Jīva (in the *Krama-sandarbha*): “*Tviṣā*, by His luster: the One who is not black — that is, golden — the intelligent worship Him. That He is golden follows by elimination from the verse ‘*āsan varṇās trayo hy asya gṛhṇato ’nu-yugaṁ tanūḥ / śuklo raktas tathā pīta idānīṁ kṛṣṇatāṁ gataḥ*.’[^51-1] It says that ‘now’ — in the Dvāpara famous as the age in which this avatāra descends — ‘He has become black.’ White and red are assigned to Satya and Tretā. Therefore the yellow color is spoken of as past with reference to earlier avatāras. Later it will be said that Śrī Kṛṣṇa is the complete form [of God]. He is called a *yuga-avatāra* because all avatāras are contained within Him, and so all their purposes are fulfilled in Him alone. It is thus naturally understood that whenever Kṛṣṇa descends in Dvāpara, Śrī Gaura too descends in the following Kali. It follows that this Gaura is a special manifestation of Śrī Kṛṣṇa, for this rule admits no exception. The verse itself shows that He is such a manifestation by the qualifier *kṛṣṇa-varṇam*: He in whom are the two syllables ‘Kṛṣ-ṇa’ — that is, in whose name ‘Śrī Kṛṣṇa Caitanyadeva’ the two syllables ‘Kṛṣ-ṇa’ are used, revealing that He is Kṛṣṇa.
+
+“In the Third Canto, in the words of Śrī Uddhava, in the verse beginning *samāhutāḥ*, there is the phrase *śriyaḥ savarṇena*, and the commentary on it says: ‘He whose name has two syllables the same as [those of the name of] Śrī, that is, Rukmiṇī’; the expression *śriyaḥ savarṇo rukmī* is also found. Or else [*kṛṣṇa-varṇam* means]: He who describes (*varṇayati*) Kṛṣṇa — who Himself sings of Him, exulting in the memory of such pastimes of His own supreme bliss, and out of the greatest compassion teaches [this] to all people. Or else: He Himself is *akṛṣṇa*, golden, by *tviṣā*, His special beauty, and He teaches about Kṛṣṇa; the sense is that the mere sight of Him reveals Śrī Kṛṣṇa to all. Or else: though golden to all people, to special devotees He is, by *tviṣā* — a special manifestation — *kṛṣṇa-varṇa*, dark; that is, He is that very Śyāmasundara.[^51-2] Therefore, since the very form of Śrī Kṛṣṇa is manifest in Him, He is a special manifestation of Kṛṣṇa Himself. That is the sense.
+
+“The verse makes clear that He is Bhagavān with the words *sāṅgopāṅgāstra-pārṣadam*. His limbs (*aṅgas*) are so supremely charming that they themselves serve as *upāṅgas*, ornaments and the like. They are so powerful that they themselves are His weapons. They always dwell with Him alone, and so they themselves are His associates. Many great souls saw Him in just this way, again and again, and this is widely known among the people of Gauḍa, Varendra, Vaṅga, Utkala and other lands. Or else [by the other meaning of the particle *ca*]: His associates — the feet of the great soul Śrīmad Advaita Ācārya and others — are so intensely loved by Him that they are equal to His limbs, and He is present together with them. With what do they worship Him who is such? *Yajñaiḥ*, with the articles of worship, according to the words ‘[where there are no] sacrifices to the Lord of sacrifice, no great festivals.’[^51-3] Among these the verse specially names the *abhidheya* itself, *saṅkīrtana*: when many gather together and sing of Śrī Kṛṣṇa, rejoicing in that singing — [with sacrifices] in which this is foremost. And since the primacy of *saṅkīrtana* is seen only among those who have taken shelter of Him, it is clear that here the *abhidheya* is He Himself. That is why the *Sahasra-nāma* gives names that point to His avatāra: ‘*suvarṇa-varṇo hemāṅgo varāṅgaś candanāṅgadī / sannyāsa-kṛc chamaḥ śāntaḥ*.’ Śrī Sārvabhauma Bhaṭṭācārya, the crest-jewel of the most learned, also showed this: ‘May the bee of my mind sink ever more deeply into the lotus feet of Him who has appeared under the name Kṛṣṇa Caitanya to reveal again His own *bhakti-yoga*, lost in the course of time.’[^51-4]” So [it is said] in the *Sarva-saṁvādinī*.
+
+## 55
+
+Someone might say, from the word *kṛṣṇa-varṇa* in the original verse, that the One worshipped in the age of Kali is “Kṛṣṇa,” dark. But the other qualifier, *tviṣākṛṣṇam*, does not allow that meaning.
+
+## 57
+
+Śrī Kṛṣṇa has become *akṛṣṇa* — that is, has taken a golden form — because He is overflowing with luster, the *bhāva* of Śrī Rādhikā. In the age of Kali the learned openly worship Him with a sacrifice made of *kīrtana*. He is the only object of worship for those who serve in the fourth *āśrama*, the *paramahaṁsas* within *sannyāsa*. May that Supreme Person in the form of Caitanya bestow His mercy on us in abundance.
+
+## 58
+
+*Tamas-tati*: the spreading darkness of ignorance.
+
+## 60
+
+Be it *dharma* or *adharma*, whenever an action is opposed to devotion, it is called *kalmaṣa* — and that is the great darkness.
+
+## 62
+
+His smiling glance completely takes away the sorrow of the world. As soon as He begins to speak, the creeper of devotion — the creeper of every blessing — puts forth new leaves. Shelter at His feet reveals all the secrets of *prema*. May that Supreme Person in the form of Caitanya bestow His mercy on us in abundance.
+
+## 65
+
+Śrī Caitanyadeva is lovingly honored by Śiva, Brahmā and the other gods, who have taken human bodies, and all living beings always worship Him. He teaches His devotees the pure way of worshipping Him. Will that Caitanyadeva come before my eyes again?
+
+## 67
+
+Besides the meaning already explained, the word *aṅga* has another: *aṅga* means *aṁśa*, a part. *Paramāṇa* is the same as *pramāṇa*, evidence. The parts of an *aṅga* are the *upāṅgas*.
+
+## 70
+
+The word *aṅga* refers to the three *puruṣas*, beginning with Kāraṇābdhiśāyī, who are *aṁśas*. They are full of spirit and bliss, the true Īśvara, the Lord — not *tattvas* created by *māyā*. Therefore Advaita and Nityānanda are the Lord's two *aṅgas*.
+
+## 73
+
+That is, He is directly an avatāra of Mahā-Viṣṇu.
+
+## 75
+
+*Bānā*: a sign; an instrument like the *tūrī* or *bherī* (trumpet or kettledrum), whose sound announces that the *pāṣaṇḍīs*, the godless, will be crushed.
+
+## 77–78
+
+One who worships Kṛṣṇa Caitanya with the sacrifice of *saṅkīrtana* is truly *sumedhā*, that is, intelligent. Those in this world who do not worship Him in this way are utterly foolish. The sacrifice of Kṛṣṇa's name is the essence of all sacrifices. Ten million *aśvamedha* sacrifices cannot be compared with a single name of Kṛṣṇa. One who thinks them equal is a *pāṣaṇḍī*, and Yama punishes him.
+
+## 80
+
+In the age of Kali we take shelter, through *saṅkīrtana* and the other limbs [of devotion], of Kṛṣṇa Caitanya. He is marked by the splendor of His *aṅgas*, *upāṅgas* and the rest; within He is Kṛṣṇa Himself, and without He is Gaura.
+
+## 82
+
+O *brāhmaṇa*, in a certain special Kali-yuga I shall accept the *āśrama* of *sannyāsa* and give *hari-bhakti* to people stricken by sin.
+
+## 83
+
+Many statements prove that Caitanya-Kṛṣṇa is a direct avatāra. In the *Bhāgavatam* there are the words *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* (“He who utters the name of Kṛṣṇa, yet is not dark”), *āsan varṇās trayaḥ* (“there were three colors”), *channaḥ kalau* (“hidden in the age of Kali”) and others. In the *Mahābhārata* there are the words *sambhavāmi yuge yuge* (“I appear in every *yuga*”), *sannyāsa-kṛc chamaḥ śāntaḥ* (“the renunciant, self-controlled and peaceful”) and others. In the Vedas there are *mahān prabhur vai puruṣaḥ* (“the Puruṣa is indeed the great Lord”), *yadā paśyaḥ paśyate rukma-varṇam* (“when the seer sees the golden One”) and others. In the Tantras that follow the Āgamas there are many statements such as *māyāpure bhaviṣyāmi śacī-sutaḥ* (“I shall be the son of Śacī in Māyāpura”). And in the Upapurāṇa there are the words *aham eva* (“I Myself”) and what follows.
