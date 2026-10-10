@@ -51,3 +51,35 @@ If I do not uphold the order of duties (*karma*) by performing My duties, this w
 ## 25
 
 Whatever the best person does, others imitate. Whatever the best declares to be the “standard,” everyone follows and holds dear.
+
+## 26
+
+“I wish to appear in order to preach two things: the *dharma* of the age, *nāma-saṅkīrtana*, and the love of Vraja. An *aṁśa-avatāra* can do the work of preaching the *dharma* of the age. But no one other than Me — Śrī Kṛṣṇa, Bhagavān in full — can preach the love of Vraja.”
+
+## 27
+
+Bhagavān Paṅkajanābha may have many auspicious avatāras. But who other than Kṛṣṇa gives *prema* to the creepers — that is, to those who have taken shelter of Him?
+
+## 31
+
+*Kalmaṣa* means sin; *dvirada*, an elephant.
+
+## 32
+
+*Bhūta-grāma* is the multitude of living beings.
+
+## 33
+
+The word *Viśvambhara* is formed from the root *ḍubhṛñ*. The meaning of that root is to nourish and to sustain. By giving *prema* He nourished and sustained the three worlds.
+
+## 35
+
+Garga Mahāśaya knew that Śrī Kṛṣṇa Caitanya is the avatāra of the age of Kali, and in the following verse he specified His color.
+
+## 36
+
+“This boy of yours takes on white, red and yellow colors in the other three *yugas*; now, in Dvāpara, He has become black.”
+
+## 39
+
+In the Dvāpara-yuga Bhagavān is marked in this way: He is dark in color, wears yellow garments, holds His own weapons — the flute and the rest — and bears the Śrīvatsa and other marks.
