@@ -347,3 +347,131 @@ Kṛṣṇa had disappeared, and the *gopīs*, unable to see Him, sang in lament
 ## 207
 
 **janāḥ** (the servants of Hari) **mat-sevanam vinā** (without service to Me, that is, giving up worship of Me) **dīyamānam** (offered) **sālokya** (living with Me in the same world) **sārṣṭi** (equal majesty) **sāmīpya** (dwelling nearby) **sārūpya** (the same form) **ekatvam uta** (and even *sāyujya*) **na gṛhṇanti** (do not accept, do not welcome).
+
+## 208
+
+> Subheading: Not to speak of perishable enjoyments — a devotee does not desire even liberation and the like —
+>
+> (*Śrīmad-Bhāgavatam* 9.4.67)
+
+Describing the qualities of devotees like Ambarīṣa, Śrī Bhagavān says to Durvāsā:
+
+**sevayā pūrṇāḥ te** (those devotees, fulfilled by service) **mat-sevayā pratītam** (attained by service to Me) **api sālokyādi-catuṣṭayam** (even the four [kinds of liberation] — *sālokya* and the others) **na icchanti** (do not desire); **anyat** (anything else — the heavenly planets and the like) **kāla-viplutam** (which in time is doomed to perish) — **kutaḥ** (what to speak of).
+
+## 209
+
+> Subheading: A description of the *gopīs'* love —
+
+## 210
+
+> Subheading: The relationship of the *gopīs* with Kṛṣṇa
+
+## 211
+
+> Subheading: Kṛṣṇa Himself describes His bond with the *gopīs* —
+>
+> (words of the *Ādi Purāṇa*)
+
+**he pārtha** (O Pārtha), **te** (to you) **aham satyam** (the truth, on oath) **vadāmi** (I speak): **me** (My) **sahāyāḥ** (helpers in the *rāsa* dance and other pastimes) **guravaḥ** (teachers in the science of love and so on) **śiṣyāḥ** (disciples, always intent on carrying out My orders) **bhujiṣyāḥ** (serving Me like maidservants) **bāndhavāḥ** (loving Me like friends) **striyaḥ** (desired by Me as one's own wives) — ([therefore]) **gopyaḥ me kiṁ na bhavanti** (what are the *gopīs* not to Me)? (That is, they are My all in all.)
+
+## 213
+
+> Subheading: (*Laghu-bhāgavatāmṛta*, *Uttara-khaṇḍa* 39; words of the *Ādi Purāṇa*)
+
+**he pārtha** (O Pārtha), **gopikāḥ** (the *gopīs*) **man-māhātmyam** (My greatness) **mat-saparyām** (service to Me) **mac-chraddhām** (what I desire) **man-mano-gatam** (the intentions of My mind) **tattvataḥ** (in truth, as they are) **jānanti** (know) (, but other devotees do not know).
+
+## 214
+
+> Subheading: Śrī Rādhikā is the best of all the *gopīs* —
+
+## 215
+
+> Subheading: (*Laghu-bhāgavatāmṛta*, *Uttara-khaṇḍa* 45; words of the *Padma Purāṇa*)
+
+**viṣṇoḥ** (to Kṛṣṇa) **rādhā yathā priyā** (as Rādhā is dear), **tasyāḥ** (Rādhā's) **kuṇḍam tathā priyam** (so dear is Her *kuṇḍa*). **sarva-gopīṣu sā** (among all the *gopīs* She, Śrī Rādhikā,) **ekā eva** (alone) **viṣṇoḥ atyanta-vallabhā** (is most beloved of Viṣṇu — the dearest of all).
+
+## 216
+
+> Subheading: The best of places is Vṛndāvana, the best of devotees is Śrī Rādhā —
+>
+> (*Laghu-bhāgavatāmṛta*, *Uttara-khaṇḍa* 46; words of the *Ādi Purāṇa*)
+
+**he pārtha** (O Pārtha), **trailokye** (in the three worlds — Bhūr, Bhuvar and Svar) **pṛthivī dhanyā** (blessed is the earth), **yatra** (where, on earth,) **vṛndāvanam purī** (there is the abode called Vṛndāvana). **tatra api** (there, in Vṛndāvana,) **gopikāḥ** ([blessed are] the *gopīs*), **yatra mama rādhābhidhā** (among whom is My [*gopī*] named Rādhā).
+
+## 217
+
+> Subheading: In *madhura-rasa* the principal pastimes are with Śrī Rādhā; everything else only serves them —
+
+## 217
+
+Śrī Rādhikā is Śrī Kṛṣṇa's all in all. The other *gopīs* are only what serves the *rasa*: they increase the relish of Śrī Kṛṣṇa's pastimes with Rādhā.
+
+“The lovely-browed girls whose playful movements attract Mādhava from every side are the friends of the queen of Vṛndāvana; they are held to be of five kinds: *sakhīs*, *nitya-sakhīs*, *prāṇa-sakhīs*, *priya-sakhīs* and the celebrated *parama-preṣṭha-sakhīs*… Though their love for the Two reaches the highest limit, sometimes it seems greater for the One, sometimes for the Other… A *sakhī* fully unfolds the loving pastimes [of the Divine Couple].”
+
+The lovely *gopīs*, able to attract Śrī Kṛṣṇa completely by actions born of eager loving desire, are the friends of Śrī Rādhikā, the queen of Vṛndāvana, and are of five kinds: *sakhī*, *nitya-sakhī*, *prāṇa-sakhī*, *priya-sakhī* and *parama-preṣṭha-sakhī*. Out of supreme love the eight *parama-preṣṭha-sakhīs* sometimes take Śrī Kṛṣṇa's side during a lovers' quarrel (*māna*), and sometimes, when Rādhā is *khaṇḍitā* (offended), they take Śrī Rādhā's side. Showing affection to one and opposition to the other, they increase the *rasa*.
+
+## 218
+
+> Subheading: Rādhā is the dearest to Kṛṣṇa —
+
+## 219
+
+> Subheading: (*Gīta-govinda* 3.1)
+
+Śrī Kṛṣṇa left the place of the *rāsa* and went in search of Rādhā, the chief shelter of the *rāsa*. On this occasion Śrī Jayadeva says:
+
+**kaṁsāriḥ** (Śrī Kṛṣṇa) **api saṁsāra-vāsanā-baddha-śṛṅkhalām** (Her who, bound by the desire for the *rāsa-līlā* — *saṁ-sāra*, the perfect essence [of all] — became a chain and fetter to bind [Him] more firmly; Rādhā, the supreme shelter of the *rāsa* pastimes) **rādhām** (Rādhā) **hṛdaye ādhāya** (placing in His heart — *ā* means “fully”) **vraja-sundarīḥ** (the beauties of Vraja — all the cowherd women) **tatyāja** (left).
+
+## 220
+
+> Subheading: The principal aim — fulfilling the three desires in Rādhā's emotion; the secondary — preaching the holy name and *prema* —
+
+“That emotion of Rādhā.” Rādhā is Śrīmatī Gāndharvikā, the highest of all, Kṛṣṇa's all in all, the *āśraya* of love. Her *bhāva* is the disposition of the heart given wholly and exclusively to the service of Kṛṣṇa alone.
+
+## 222
+
+> Subheading: The son of Nanda, the embodiment of the *rasa* of union, is Gaura, the embodiment of the *rasa* of separation —
+
+## 223
+
+> Subheading: The Relisher descends, taking the emotion and luster of Her whom He relished —
+
+## 224
+
+> Subheading: Kṛṣṇa's eternal pastimes with the girls of Vraja —
+>
+> (*Gīta-govinda* 1.11)
+
+**he sakhi** (O friend), **anurañjanena** (by delighting) **viśveṣām** (of all the cowherd women) **ānandam janayan** (producing bliss), **indīvara-śreṇī-śyāmala-komalaiḥ** (dark and tender, like many blue lotuses) **aṅgaiḥ** (with His limbs) **anaṅgotsavam upanayan** (bringing the festival of Anaṅga, the god of love), **svacchandam** (freely, without restraint) **vraja-sundarībhiḥ abhitaḥ pratyaṅgam āliṅgitaḥ** (embraced by the beauties of Vraja on every side, limb by limb) **mugdhaḥ hariḥ** (enchanted Hari) **madhau** (in spring) **mūrtimān śṛṅgāraḥ iva** (like *śṛṅgāra* personified) **krīḍati** (plays).
+
+## 225
+
+> Subheading: In the avatāra of Gaura, Kṛṣṇa, the treasury of *rasa*, relishes in every way the *rasa* of the *gopīs'* love —
+
+## 226
+
+> Subheading: Only a servant of Caitanya, sheltered by the *cit-śakti*, knows the secret of Gaura's avatāra —
+
+## 227
+
+> Subheading: Obeisance to the devotees of Gaura —
+
+## 229
+
+> Subheading: So far, a general description of the sixth verse; now, a detailed explanation
+
+## 230
+
+> Subheading: (A verse from the diary of Śrī Svarūpa Gosvāmī)
+
+**śrī-rādhāyāḥ** (of Śrī Rādhā, the daughter of Vṛṣabhānu) **praṇaya-mahimā** (the greatness of love) **vā kīdṛśaḥ** (what is it like), **anayā** (by Rādhā) **madīyaḥ adbhuta-madhurimā** (My wondrous sweetness — an unprecedented fullness of sweetness) **yena** (by that love) **kīdṛśaḥ vā āsvādyaḥ** (how is it relished), **mad-anubhavataḥ** (from experiencing Me) **asyāḥ** (Śrī Rādhā's) **saukhyam kīdṛśam vā** (what is the happiness) — **iti lobhāt** (out of longing [to know] this) **tad-bhāvāḍhyaḥ** (rich with Her emotion) **śacī-garbha-sindhau** (in the ocean of mother Śacī's womb) **harīnduḥ** (Kṛṣṇacandra, the moon Hari) **samajani** (appeared).
+
+## 231
+
+> Subheading: Though it is hidden, it is described for the sake of devotees who know the taste of *rasa* —
+
+The hidden conclusions about the avatāra of Śrī Gaura are the cherished desire of Śrī Kṛṣṇa's heart. It is not fitting to reveal them to the world, and listeners in this world are not qualified for them. Yet if this is not told, the *jīva* will never grasp their limit by his own efforts.
+
+## 233
+
+> Subheading: Only a servant of Śrī Guru and Gaurāṅga is qualified for the conclusions about *rasa*

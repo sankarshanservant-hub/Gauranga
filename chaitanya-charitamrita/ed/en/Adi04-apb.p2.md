@@ -146,6 +146,41 @@ See this too: without loving service to Kṛṣṇa a pure devotee will never ac
 
 “By serving Me they attain the four kinds of liberation — *sālokya* and the rest — of their own accord. Yet the pure devotee, fulfilled by service to Me, does not accept even these. Why then would he desire the enjoyments of *māyā* and *sāyujya-mukti*, which time very quickly destroys?” In *sāyujya-mukti* the very existence of the *jīva* falls into the jaws of time. Therefore neither worldly enjoyment (*bhukti*) nor *sāyujya-mukti* is lasting.
 
+## 211
+
+“The *gopīs* are everything to Me. They are My helpers, that is, My beloveds; they love Me as a guru does; they serve Me as disciples; I delight in their company; they love Me as friends, and they behave toward Me as wives.”
+
+## 212
+
+*Iṣṭa-samīhita*: desired actions.
+
+## 213
+
+“My greatness, service to Me, reverence for Me and the feelings of My mind are known only to the *gopīs*. O Pārtha, no one else truly knows all this.”
+
+## 215
+
+As Rādhā is dear to Śrī Kṛṣṇa, so is Rādhā-kuṇḍa dear to Him. Of all the *gopīs*, Kṛṣṇa loves Rādhā most.
+
+## 218
+
+Because Vṛndāvana-dhāma descended to the earth, the three worlds are blessed. Among them the *gopīs* are blessed, for among them is the *gopī* named Rādhā, who is very dear to Me.[^218-1]
+
+Without Rādhikā the other *gopīs* cannot be the cause of Kṛṣṇa's happiness.
+
+## 219
+
+Kṛṣṇa, the enemy of Kaṁsa, took into His heart Rādhā, who was bound by the desire for the *rāsa-līlā*, the perfect essence of all, and went away, leaving the other beauties of Vraja.
+
+## 224
+
+O friend, Śrī Kṛṣṇa is *śṛṅgāra* personified. He delights the world with the beauty of His body, and with His hands, feet and other limbs, lovely and tender as blue lotuses, He awakens in the hearts of the girls of Vraja the festival of Kandarpa. In spring He plays freely with the beauties of Vraja, and they embrace Him.
+
+## 230
+
+“What is the glory of Śrī Rādhā's love? What is My wondrous sweetness that Śrī Rādhā relishes? And what happiness does Śrī Rādhā feel in experiencing My sweetness?” When Śrī Kṛṣṇa was seized by the longing to know these three things, He, like the moon, took birth from the ocean of Śacī's womb.
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.
+[^218-1]: In the edition this paragraph is numbered 218; by its content it belongs to verse 216.
