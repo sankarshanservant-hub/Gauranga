@@ -257,3 +257,93 @@ See Ādi 4.20.
 ## 179
 
 > Subheading: Kṛṣṇa's unpayable debt to the *gopīs'* love —
+
+## 180
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.32.22)
+
+Kṛṣṇa had disappeared, and the *gopīs*, unable to see Him, sang in lament at the separation. Hearing their song, Kṛṣṇa appeared and consoles them thus:
+
+**niravadya-saṁyujām** (whose union [with Me] is faultless — guileless and complete) **vaḥ** (your) **sva-sādhu-kṛtyam** (own extraordinary good deed) **aham** (I) **vibudhāyuṣā api** (even in the lifetime of the gods) **na pāraye** (am unable [to repay]). **yāḥ** (you who) **durjaya-geha-śṛṅkhalāḥ** (the unbreakable chains of home) **saṁvṛścya** (cutting completely) **mā** (Me) **abhajan** (worshiped) — **tāsām vaḥ eva** (by your own) **sādhunā** (good deed) **tat** (that good deed of yours) **pratiyātu** (let it be repaid).
+
+## 181
+
+> Subheading: Even when the *gopīs* bring happiness to themselves, they seek only Kṛṣṇa's happiness —
+
+## 184
+
+> Subheading: Even in adorning their bodies, the *gopīs* aim only to please Kṛṣṇa —
+>
+> (*Laghu-bhāgavatāmṛta*, *Uttara-khaṇḍa* 40; words of the *Ādi Purāṇa*)
+
+**he pārtha** (O Pārtha), **yāḥ gopyaḥ** (those *gopīs* who) **nijāṅgam api** (even their own bodies) **mama iti** (as “Mine,” that is, thinking, “This body has been given to the Beloved; it belongs to Bhagavān”) **samupāsate** (adorn with ornaments and the like) — **tābhyaḥ** (than those *gopīs*) **param** (other) **me** (My) **nigūḍha-prema-bhājanam** (vessel of hidden love) (there is none).
+
+## 185
+
+> Subheading: The *gopīs'* happiness in service is millions of times greater than Kṛṣṇa's —
+
+## 194
+
+> Subheading: The *gopīs* are happy in Kṛṣṇa's happiness —
+
+## 195
+
+> Subheading: The *gopīs'* love increases Kṛṣṇa's happiness — therefore it is not *kāma* —
+
+## 196
+
+> Subheading: (*Stava-mālā*, *Keśavāṣṭaka* 8)
+
+**ābhiḥ sundarī-tatibhiḥ** (by these rows of beauties who enjoy pastimes in Vraja) **upetya** (having climbed onto the rooftops) **pathi** (on the road) **smitāṅkura-karambitaiḥ** (mixed with budding gentle smiles) **naṭad-apāṅga-bhaṅgī-śataiḥ** (with hundreds of curves of dancing sidelong glances) **abhyarcitam** (worshiped on every side) **stana-stavaka-sañcaran-nayana-cañcarīkāñcalam** (Him the corners of whose eyes, like bees, flit over breasts that are like clusters of flowers) **vipina-deśataḥ** (from the forest — in the afternoon, returning from the pastures) **vraje** (into Vraja, into Nandīśvara) **vijayinam** (entering in triumph) **keśavam** (Keśava, Kṛṣṇa) **bhaje** (I worship).
+
+## 197
+
+> Subheading: The natural mark of the *gopīs'* love —
+
+## 198
+
+> Subheading: The *gopīs'* love increases Kṛṣṇa's sweetness —
+
+## 199
+
+> Subheading: The servant, the *āśraya*, finds pure joy only in the joy of the *viṣaya*, the One who is served —
+
+## 200
+
+> Subheading: The devotee's joy lies in Bhagavān's joy; such joy is pure and spotless —
+
+## 201
+
+> Subheading: During service to Kṛṣṇa, gratifying one's own senses is contemptible and must be cast far away —
+
+## 202
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga* 2.62)
+
+**yena** (by which, that is, by the bliss of love) **kaṁsārāteḥ** (of Kṛṣṇa) **vījane** (in fanning, in the service of the *cāmara*) **sākṣāt akṣodīyān** (directly, no small) **antarāyaḥ** (obstacle) **vyadhāyi** (was created) — **dārukaḥ** (Dāruka, Śrī Kṛṣṇa's charioteer) **aṅga-stambhārambham** (the stiffening of the limbs, the stupor of the body) **uttuṅgayantam** (producing) **tam premānandam** (that bliss of love, worthy to be experienced for oneself) **na abhyanandat** (did not welcome: he did not desire it at all, since it was not favorable [to service]).
+
+## 203
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga* 3.54)
+
+**aravinda-vilocanā** (lotus-eyed Rādhikā) **govinda-prekṣaṇākṣepi-bāṣpa-pūrābhivarṣiṇam** (which by its nature pours down floods of tears that hinder the sight of Govinda) **ānandam** (bliss) **uccaiḥ** (strongly) **anindat** (reproached).
+
+## 204
+
+> Subheading: Without devotion to Kṛṣṇa, even liberation is repugnant to a pure devotee —
+
+## 205
+
+> Subheading: Only devotion to Kṛṣṇa — causeless and uninterrupted — is beyond the *guṇas* —
+>
+> (*Śrīmad-Bhāgavatam* 3.29.11–13)
+
+## 205–206
+
+Śrī Kapiladeva says to His mother Devahūti:
+
+**mad-guṇa-śruti-mātreṇa** (simply by hearing of My qualities) **sarva-guhāśaye** (who dwell in all hearts) **mayi** (toward Me), **ambudhau** (into the ocean) **gaṅgāmbhasaḥ yathā** (as the waters of the Gaṅgā), **avicchinnā** (unobstructed: such that no other object can break it) **mano-gatiḥ** (the movement of the mind); **puruṣottame** (toward the Puruṣottama) **yā ahaitukī** (devotion free of the search for fruits) **avyavahitā** (free of such obstacles as craving for the body's comforts, for wealth, for popularity, godlessness and the like) **bhaktiḥ** (devotion) — **sā** (that) **nirguṇasya** (beyond the three *guṇas*, directed to Bhagavān) **bhakti-yogasya** (of *bhakti-yoga*) **lakṣaṇam** (the mark) **udāhṛtam hi** (is indeed declared).
+
+## 207
+
+**janāḥ** (the servants of Hari) **mat-sevanam vinā** (without service to Me, that is, giving up worship of Me) **dīyamānam** (offered) **sālokya** (living with Me in the same world) **sārṣṭi** (equal majesty) **sāmīpya** (dwelling nearby) **sārūpya** (the same form) **ekatvam uta** (and even *sāyujya*) **na gṛhṇanti** (do not accept, do not welcome).

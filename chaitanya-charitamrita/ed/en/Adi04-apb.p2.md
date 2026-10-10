@@ -98,6 +98,54 @@ The *gopīs* said: “O beloved, we gently hold Your tender lotus feet on our ha
 
 “O *gopīs*, for My sake you gave up social custom, Vedic duty and all your relatives. Still, I disappeared so that your attachment to Me might grow even stronger. O beloved ones, I am only trying to please you — do not blame Me.”
 
+## 180
+
+“O *gopīs*, your union with Me is spotless. Even in many lifetimes I could not fulfill My duty to you by good deeds of My own, for you completely broke the hardest chains of household life and went in search of Me. I am unable to repay My debt to you. So let your own deeds be your reward.”
+
+## 184
+
+The *gopīs* take care of their bodies, considering them meant for Kṛṣṇa's enjoyment. “O Pārtha, there is no one who is a greater vessel of My love than these *gopīs*.”
+
+## 186–187
+
+The *gopīs* have no desire for their own happiness. Still, when they see Kṛṣṇa, they relish a happiness millions of times greater than the happiness Kṛṣṇa feels on seeing the *gopīs*.
+
+## 194–195
+
+Someone may perhaps reproach the *gopīs* and call “*kāma*” the happiness they feel on seeing Kṛṣṇa. But in the *gopīs'* minds the feeling is this: “If Kṛṣṇa sees that we are happy looking at Him, His happiness will become still fuller.” So the ultimate reason the *gopīs* attain happiness is the desire to please Kṛṣṇa's senses. Therefore it has no taint of *kāma*, the desire to please one's own senses.
+
+## 196
+
+I worship Keśava, who is returning from the forest to Vraja. The beauties of Vraja honored Him on the road with hundreds of playful glances and gentle smiles. And the corners of His eyes, like bees, flit over the breasts of those *gopīs*, which are like clusters of flowers.
+
+## 199–201
+
+The *gopīs*, the *āśraya* of love, delight in the delight of Kṛṣṇa, its *viṣaya*. In this abundance of joy there is no connection at all with a desire for their own happiness. Wherever love is free of all designations, you will see this very law: the *āśraya* of love is happy with the happiness of its *viṣaya*. You may, however, say: where one's own bliss of love arises, there will surely be an obstacle to the bliss of serving Kṛṣṇa. That is why, when a joy arises that hinders the bliss of service, the devotee becomes greatly angry.
+
+## 202
+
+While fanning Śrī Kṛṣṇa with a *cāmara*, Dāruka understood that the stupor of the body caused by the bliss of love was an obstacle to service, and he did not welcome that bliss.
+
+## 203
+
+Kṛṣṇa's lotus-eyed beloved bitterly reproached the bliss that poured from her eyes as tears and kept her from seeing Kṛṣṇa.
+
+## 204
+
+See this too: without loving service to Kṛṣṇa a pure devotee will never accept even liberation — *sālokya* and the others — if it brings happiness to himself.
+
+## 205–206
+
+“Simply by hearing of My qualities, the mind flows toward Me, who dwell in all hearts, unbroken, like the waters of the Gaṅgā flowing into the ocean. This state is the mark of *nirguṇa bhakti-yoga* (*bhakti-yoga* free of the *guṇas*). Such devotion to Me, the Puruṣottama, is causeless and uninterrupted.” Causeless (*ahaitukī*) means it has no cause; it is perfect in itself. Uninterrupted (*avyavahitā*) means it has no obstacles and no search for incidental fruits.
+
+## 207
+
+“Even if they are offered *sālokya* (residence in Vaikuṇṭha), *sārṣṭi* (equal majesty and wealth), *sāmīpya* (nearness), *sārūpya* (a four-armed form) and *ekatva* (*sāyujya*, merging), the devotees do not accept them: apart from transcendental service to Me, they have nothing to ask for.”
+
+## 208
+
+“By serving Me they attain the four kinds of liberation — *sālokya* and the rest — of their own accord. Yet the pure devotee, fulfilled by service to Me, does not accept even these. Why then would he desire the enjoyments of *māyā* and *sāyujya-mukti*, which time very quickly destroys?” In *sāyujya-mukti* the very existence of the *jīva* falls into the jaws of time. Therefore neither worldly enjoyment (*bhukti*) nor *sāyujya-mukti* is lasting.
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.
