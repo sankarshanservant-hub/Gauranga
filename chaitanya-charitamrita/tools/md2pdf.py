@@ -31,17 +31,22 @@ def load_comm(chap, kind, lang='ru'):
         sec[m.group(1).replace('-', '–')] = m.group(2).strip()
     return sec, foot
 
+SUB = re.compile(r'^> (?:Подзаголовок|Subheading):\s*(.+)$', re.M)
+
 def comm_html(text, notes):
-    out, sub = [], ''
+    out = []
     for para in re.split(r'\n\s*\n', text):
         para = para.strip()
-        if not para: continue
-        if para.startswith('> Подзаголовок:'): continue
-        out.append('<p>%s</p>' % inline(para.replace('\n', ' '), notes))
+        if not para or SUB.match(para): continue
+        lines = [l.strip() for l in para.split('\n') if l.strip()]
+        if all(l.startswith('- ') for l in lines):          # глоссы списком: каждое слово с новой строки
+            out.append('<ul class="gl">%s</ul>' % ''.join('<li>%s</li>' % inline(l[2:], notes) for l in lines))
+        else:
+            out.append('<p>%s</p>' % inline(' '.join(lines), notes))
     return ''.join(out)
 
 def subheading(text):
-    m = re.search(r'^> Подзаголовок:\s*(.+)$', text, re.M)
+    m = SUB.search(text)
     return m.group(1).strip() if m else ''
 
 def build(chap, ed='full', size='a5', lang='ru'):
@@ -106,9 +111,9 @@ section.v .bn, section.v .tlww { break-inside: avoid; }
 p.tr { margin: 0; text-align: justify; hyphens: auto; }
 p.tr .n { font-weight: bold; }
 .comm { margin-top: 2.5mm; font-size: 10pt; text-align: justify; hyphens: auto; }
-.comm p { margin: 0 0 1.5mm; } .comm .cn { font-weight: bold; font-style: italic; }
+.comm p { margin: 0 0 1.5mm; } .comm ul.gl { list-style: none; margin: 1mm 0 1.5mm; padding-left: 4mm; } .comm ul.gl li { margin: 0 0 0.6mm; text-indent: -4mm; padding-left: 4mm; } .comm .cn { font-weight: bold; font-style: italic; }
 .comm p:first-child { display: inline; } .comm p:first-child + p { margin-top: 1.5mm; }
-h3.sub { font-size: 10.5pt; font-style: italic; font-weight: normal; text-align: center; margin: 0 0 2mm; }
+h3.sub { break-after: avoid; page-break-after: avoid; font-size: 10.5pt; font-style: italic; font-weight: normal; text-align: center; margin: 0 0 2mm; }
 section.intro { font-size: 10pt; text-align: justify; margin-bottom: 6mm; } section.intro h2 { font-size: 11pt; text-align: center; }
 sup.fn a { text-decoration: none; color: #333; font-size: 8pt; }
 section.notes { border-top: 0.5pt solid #999; margin-top: 8mm; font-size: 9.5pt; }
