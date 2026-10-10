@@ -32,7 +32,7 @@ Mahāprabhu appears in the *manvantara* of the seventh Manu, named Vaivasvata. �
 
 ## 10
 
-Of the 71 *mahā-yugas* of the Vaivasvata *manvantara*, 27 have passed. In the twenty-eighth *catur-yuga*, after Satya and Tretā have passed, the time of Kṛṣṇa's manifest presence comes at the end of Dvāpara. From the beginning of Brahmā's day to the end of that Dvāpara, six Manus pass, together with their junctions. Adding [these] together with the 27 *yugas* of Vaivasvata Manu and the periods of Satya, Tretā and Dvāpara (and subtracting the time of creation), one finds that 975,320,000[^10-1] solar years have passed.
+Of the 71 *mahā-yugas* of the Vaivasvata *manvantara*, 27 have passed. In the twenty-eighth *catur-yuga*, after Satya and Tretā have passed, the time of Kṛṣṇa's manifest presence comes at the end of Dvāpara. From the beginning of Brahmā's day to the end of that Dvāpara, six Manus pass, together with their junctions. Adding this time to the 27 *yugas* of Vaivasvata Manu and to the Satya, Tretā and Dvāpara [of the twenty-eighth] (and subtracting the time of creation), one finds that 975,320,000[^10-1] solar years have passed.
 
 ## 11
 
