@@ -8,3 +8,21 @@
 - পূর্ব্বপক্ষ → пурвапакша (воззрения противника) / *pūrvapakṣa* (the opponent's views).
 - «১৩৬ সংখ্যায়» (ЛБх) → «в разделе 136» / “in section 136”.
 - উপবর্হণ (উপাধান) → подушка / pillow.
+- অবধূত; অসংস্কৃত-দেহ → авадхута; «асамскрита-деха» (тот, кто не заботится о своём теле) / *avadhūta*; *asaṁskṛta-deha* (one who does not care for his body).
+- অহোরাত্র → ахоратра (круглые сутки, восемь прахар) / *ahorātra* (the whole day and night, eight *praharas*).
+- বিশ্বাস-আভাস → вишваса-абхаса (совсем слабая вера) / *viśvāsa-ābhāsa* (very slight faith).
+- অর্দ্ধকুক্কুটী-ন্যায় / অর্দ্ধজরতীয় ন্যায় → ардха-куккути-ньяя («логика половины курицы») / ардха-джаратия-ньяя / *ardha-kukkuṭī-nyāya* / *ardha-jaratīya-nyāya*.
+- পাষণ্ডতা ও ভণ্ডতা → безбожие и лицемерие / godlessness and hypocrisy.
+- ভক্তিসিদ্ধান্তাচার্য্য / ভক্তিরসাচার্য্য → ачарья учения о бхакти (бхакти-сиддханта-ачарья) / ачарья бхакти-расы (бхакти-раса-ачарья) / the ācārya of the conclusions of *bhakti* (*bhakti-siddhānta-ācārya*) / the ācārya of *bhakti-rasa* (*bhakti-rasa-ācārya*).
+- অভিধেয়-দেবতা / অভিধেয়-বিগ্রহ (মন্ত্রের) → Божество, к которому обращена мантра (абхидхея-виграха) / the Deity to whom the mantra is addressed (*abhidheya-vigraha*).
+- অষ্টাদশাক্ষর-মন্ত্র → восемнадцатисложная мантра / the eighteen-syllable mantra.
+- শ্রীমূর্ত্তি / শ্রীবিগ্রহ → Божество (шри-мурти, шри-виграха) / the Deity (*śrī-mūrti*, *śrī-vigraha*) — не «статуя/изображение».
+- প্রতীক → символ (пратика) / symbol (*pratīka*); নারকী → нараки (обитатель ада) / *nārakī* (a dweller in hell).
+- অপরাধী মায়াবাদী → «майявадины-оскорбители» / “offensive Māyāvādīs”.
+- গৌরবস্তু → подлинный Гаура / the real Gaura; শ্রীগান্ধর্ব্বিকাগিরিধর → Шри Гандхарвика-Гиридхари / Śrī Gāndharvikā-Giridhārī.
+- পঞ্চোপাসক-সমাজ, প্রাকৃত স্মার্ত্ত → общество панчопасаков, мирские смарты / the society of *pañcopāsakas*, mundane *smārtas*.
+- নদীয়া-নাগরী-ভাব → настроение «надия-нагари» / the mood of “Nadīyā-nāgarī”.
+- হাতসান → прикосновение руки / a touch of the hand; ভক্তিরসপ্রান্ত → близость к бхакти-расе / nearness to *bhakti-rasa*; আয় → придя / having come.
+- কদম্ব (в 166) → множество / a multitude; জাড্য → оцепенение (стамбха) / stupor (*stambha*).
+- Имена/места: Минакетана Рамдас / Mīnaketana Rāmadāsa; Гунарнава Мишра / Guṇārṇava Miśra; Ромахаршана Сута / Romaharṣaṇa Sūta; Наимишаранья / Naimiṣāraṇya; Джаматапур / Jhāmaṭapura; Наихати / Naihāṭī; Катва / Kāṭoyā; Салар / Sālār; Кеши-гхат, Кеши-тиртха / Keśī-ghāṭa, Keśī-tīrtha; Шри Рагхавендра / Śrī Rāghavendra; Бадринатха / Badarīnātha; Хаягрива, Аджита / Hayagrīva, Ajita.
+- Источники: “Вишну-дхармоттара”, “Брахманда-пурана”, “Сканда-пурана” (“Рама-гита”), “Бхакти-сандарбха”, “Вилапа-кусуманджали”, “Прартхана” (Нароттамы), “Брихад-Бхагаватамрита”, “Дашама-типпани”, “Хари-бхакти-виласа” / *Viṣṇu-dharmottara*, *Brahmāṇḍa Purāṇa*, *Skanda Purāṇa* (*Rāma-gītā*), *Bhakti-sandarbha*, *Vilāpa-kusumāñjali*, *Prārthanā*, *Bṛhad-bhāgavatāmṛta*, *Daśama-ṭippanī*, *Hari-bhakti-vilāsa*.

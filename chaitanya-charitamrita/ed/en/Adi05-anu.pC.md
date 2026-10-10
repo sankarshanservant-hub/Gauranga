@@ -272,9 +272,58 @@ During the *rāsa* dance Kṛṣṇa disappeared. The *gopīs*, longing to see �
 
 Brahmā, who sits on the lotus, together with the residents of his own world, Brahmaloka, meditates on the form of Govinda, the Deity to whom the mantra is addressed (*abhidheya-vigraha*). This Govinda, on whom the residents of the fourteen worlds meditate, is worshipped with the eighteen-syllable mantra.
 
+## 223
+
+Ādi 4.147: “Kṛṣṇa's sweetness has a natural power: it stirs all men and women, and Kṛṣṇa Himself first among them.”
+
+In Śrī Rūpa Prabhu's *Laghu-bhāgavatāmṛta*, where the supremacy of Kṛṣṇa's sweetness is described (sections 351–352), a story from the *Padma Purāṇa* is retold: “Lakṣmī-devī saw the sweetness of Śrī Kṛṣṇa, longed for it, and began to perform austerities. Śrī Kṛṣṇa asked her, ‘Why are you performing austerities?’ Lakṣmī replied, ‘I wish to enjoy pastimes with You in Vṛndāvana in the form of a *gopī*.’ Śrī Kṛṣṇa said, ‘That is very hard to attain.’ Lakṣmī spoke again: ‘O Lord, then I wish to stay on Your chest like a golden line.’ And Śrī Kṛṣṇa said, ‘So be it.’ Since then Lakṣmī has remained on Kṛṣṇa's chest as a golden line.” In the *Śrīmad-Bhāgavatam* (10.16.36) the wives of the serpent say: “Lakṣmī is the most beautiful of all, and yet she longed for the dust of Your feet. For its sake she gave up all desires, took vows, and performed austerities for a long time.”
+
+## 224
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Eastern Division, second wave — *sādhana-bhakti*, verse 239)
+
+**sakhe** (O friend), **yadi tava bandhu-saṅge** (in the company of those attached to sons, wife, and other worldly things) **raṅgaḥ** (interest) **asti** (there is), [then] **itaḥ** (here) **keśi-tīrthopakaṇṭhe** (near Keśī-tīrtha on the bank of the Yamunā) **smerām** (smiling), **bhaṅgī-traya-paricitām** (bent in three places — at the neck, the waist, and the knees), **sāci-vistīrṇa-dṛṣṭim** (casting wide sidelong glances), **vaṁśī-nyastādhara-kiśalayām** (whose lips, tender as young shoots, are placed on the flute), **candrakeṇa** (with a peacock feather) **ujjvalām** (shining, full of supreme beauty) **govindākhyām** (named Govinda) **hari-tanum** (the form of Hari, the son of Nanda) **mā prekṣiṣṭhāḥ** (do not look at). (Under the guise of a prohibition, it is said here that this form, the abode of supreme beauty, must certainly be seen. Once you taste His sweetness, you will think everything else worthless. Therefore look at Him alone — that is the intent.)
+
+## 225
+
+> Subheading: To see mundane stone, wood, or metal in the transcendental Deity is a grave offense —
+
+## 225–226
+
+The *Bhakti-sandarbha* (section 286) says: “The highest worshippers see the Deity as none other than the Supreme Lord Himself. For as soon as the idea of difference arises, *bhakti* is broken; therefore only this is proper.”
+
+The highest worshippers see the Deity (*śrī-mūrti*) as the Supreme Lord Himself. If one considers Bhagavān's Deity different from Bhagavān, *bhakti* is broken. Therefore one must regard the Deity as Bhagavān Himself. Once fallen from *bhakti*, the *jīva* becomes a nondevotee and falls into offenses. A verse of the *Padma Purāṇa* says: “One who sees stone in the worshipable Viṣṇu … is a dweller in hell.” By its meaning, a *jīva* who thinks that the form of Śrī Viṣṇu is made of material substance, or is only a symbol (*pratīka*), earns the name *nārakī*, a dweller in hell. The impersonalists are deprived of seeing the Deity with eyes of love, and their vision is mundane. Therefore Vaiṣṇavas call them “offensive Māyāvādīs.” And the *Śrīmad-Bhāgavatam*, in the verse *yasyātma-buddhiḥ* (“one who takes [the body] as the self…”),[^225-1] says that a person with such notions as *bhauma ijya-dhīḥ* (“regarding earthly things as worshipable”) does not gain eligibility for service, because of his ignorance.
+
+## 228
+
+> Subheading: To be a Vaiṣṇava is to worship Rādhā-Govinda under the shelter of Nityānanda and Gaura —
+
+## 228–229
+
+All the Vaiṣṇavas who live in Śrī Vṛndāvana bring supreme good. They are devoted to Kṛṣṇa's name and have taken shelter of the *bhakti* called *kīrtana*. The treasure of their lives is Śrī Gaura-Nityānanda. Apart from the eternal service of Rādhā-Kṛṣṇa, they know no other, invented *bhakti*. But nowadays some abandon the worship of the pure devotees of old and devise new paths! Some say, “Whether Śrī Gaurāṅga is Rādhā-Kṛṣṇa or not, we like His name Gaura; the name Rādhā-Kṛṣṇa does not give us as much taste.” Others hold that “Gaura-bhakti” is worshipping Gaura in *madhura-rasa* (*sambhoga*) in the mood of “Nadīyā-nāgarī”! If, they say, Gaura is not worshipped in the mood of a *nāgarī*, what is the point of Śrī Gaurāṅga's separate avatāra? Such wicked views did not exist before. But as Kali grows, such grotesque ideas are spreading under the garb of Vaiṣṇavas, and the pure devotees grieve to see it. These people have become playthings of insurmountable *māyā* and consider Śrī Gaurāṅga a little greater than Śrī Rādhā-Kṛṣṇa. They reason: “Gaurāṅga is the united body of Rādhā and Kṛṣṇa, and so He is greater than Kṛṣṇa alone.” Others again bow at the feet of the mundane *smārtas* and the society of *pañcopāsakas*; they oppose Gaura, Gaura's abode, Gaura's *śakti*, and devotion to Gaura, and they invent the worship of Rādhā-Kṛṣṇa by the power of knowledge born of the material senses. Both these groups oppose the pure teaching of the six Gosvāmīs. They therefore lack devotion to Bhagavān; they are given to the senses, godless, and servants of Kali. Śrī Kavirāja Gosvāmī, all-seeing and all-knowing, foresaw this: in the future, proud people averse to Hari will try by force of imagination to pass themselves off as most dear to Śrī Gaurasundara. They will forget the real Gaura, abandon devotion to Rādhā-Kṛṣṇa, and extol a Gaura of their own invention, born from the womb of their wicked desires, to deceive unfortunate *jīvas*. Needless to say, in truth the only object of worship for those who have taken shelter at the feet of Śrī Gaurāṅga is the two feet of Śrī Gāndharvikā-Giridhārī.
+
+## 230
+
+> Subheading: Only by Nityānanda's mercy does one attain the lotus feet of the Vaiṣṇavas —
+
+## 231
+
+In Vṛndāvana the author wrote *Śrī Caitanya-caritāmṛta* at the order of the Vaiṣṇavas, but the root and source of this work is Nitāi's merciful order. See Ādi 5.196.
+
+## 232
+
+> Subheading: By Nityānanda's mercy all desires are fulfilled —
+
+## 234
+
+See Madhya 21.10 and 12, and *Bhāgavatam* 2.7.41 and 10.14.7.
+
+*Thus ends the fifth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^140-1]: The verse translation ascribes these words to Brahmā.
 [^203-1]: Caitanya-caritāmṛta, Antya 4.219–221 (numbering of the VCD translation).
 [^203-2]: *Vilāpa-kusumāñjali* 6.
 [^203-3]: In the VCD translation, verses 223–224.
+[^225-1]: *Śrīmad-Bhāgavatam* 10.84.13.

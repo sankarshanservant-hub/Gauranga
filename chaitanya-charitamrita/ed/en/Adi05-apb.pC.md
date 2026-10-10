@@ -74,6 +74,16 @@ Kavirāja Gosvāmī lived in the village of Jhāmaṭapura, near the village of 
 
 In the *rāsa* pastime the *gopīs* bitterly lamented in separation. Suddenly Madana-mohana Himself appeared among them — in yellow garments, with a garland of forest flowers, and with a smile on His face.
 
+## 224
+
+O friend, if you cherish the company of your relatives, do not look at the form of Govinda near Keśī-ghāṭa. He is gently smiling, His body is bent in three places, and He casts sidelong glances to the left. The flute rests on His lips, tender as young lotus shoots, and a peacock feather lends Him wondrous beauty. The meaning is this: whoever sees the form of Śrī Govinda will lose all attraction for anything else.
+
+## 232
+
+*Āya* means having come.
+
+*Thus ends the fifth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^128-1]: The verse translation reads differently: the knowledge that the avatāra and the source of the avatāras are nondifferent is ascribed to those who know the truth; Bhaktivinoda calls “one who sees no difference” the person who confuses them.
