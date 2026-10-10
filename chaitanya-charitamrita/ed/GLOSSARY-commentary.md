@@ -107,7 +107,7 @@
 - сваям-рупа → *svayaṁ-rūpa* (original form); кайа-вьюха → *kāya-vyūha* (expansion of His body); пракаша → *prakāśa*
   (manifestation); виласа → *vilāsa*.
 - амша-, гуна-, шактьявеша-аватара → *aṁśa-avatāra*, *guṇa-avatāra*, *śaktyāveśa-avatāra*.
-- аварана-таттва → *āvaraṇa-tattva* (His surrounding retinue); шакти → energy (*śakti*); обладатель энергии → possessor of energy.
+- аварана-таттва → *āvaraṇa-tattva* (His surrounding retinue); шакти → potency (*śakti*), как в переводе стихов (`ed/en/work/glossary-Adi01.md`); обладатель энергии → possessor of potency.
 - ачинтья-бхедабхеда-таттва → *acintya-bhedābheda-tattva*, the truth of inconceivable oneness and difference.
 - сварупа (природа) → true / intrinsic nature (*svarūpa*); царицы → the queens; маха-бхагавата → *mahā-bhāgavata*;
   махаджана → *mahājana* (great soul); остатки → remnants.
