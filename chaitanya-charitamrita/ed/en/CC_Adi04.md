@@ -1266,33 +1266,41 @@ them  to taste  although  He made  efforts
 কৃষ্ণ কহে, — আমি হই রসের নিদান ॥ ১২১ ॥
 
 tāṅhāra prathama vāñchā kariye vyākhyāna  
-kṛṣṇa kahe, — āmi hai rasera nidāna
+His  first  desire  I make  explanation  
+kṛṣṇa kahe, — āmi hai rasera nidāna  
+Kṛṣṇa  says  I  am  of rasa  the source
 
-(121) [not yet translated]
+(121) Now I shall explain His first desire. Kṛṣṇa says: “I am the source of all *rasa*.
 
 পূর্ণানন্দময় আমি চিন্ময় পূর্ণতত্ত্ব ৷  
 রাধিকার প্রেমে আমা করায় উন্মত্ত ॥ ১২২ ॥
 
 pūrṇānanda-maya āmi cin-maya pūrṇa-tattva  
-rādhikāra preme āmā karāya unmatta
+full of complete bliss  I  spiritual  the complete truth  
+rādhikāra preme āmā karāya unmatta  
+of Rādhikā  by the love  Me  makes  mad
 
-(122) [not yet translated]
+(122) I am full of complete bliss, the complete spiritual truth, yet Rādhikā's love drives Me mad.
 
 না জানি রাধার প্রেমে আছে কত বল ৷  
 যে বলে আমারে করে সর্ব্বদা বিহ্বল ॥ ১২৩ ॥
 
 nā jāni rādhāra preme āche kata bala  
-ye bale āmāre kare sarvadā vihvala
+not  I know  of Rādhā  in the love  there is  how much  strength  
+ye bale āmāre kare sarvadā vihvala  
+by which  strength  Me  makes  always  overwhelmed
 
-(123) [not yet translated]
+(123) I do not know how much strength there is in Rādhā's love, by which She always overwhelms Me.
 
 রাধিকা প্রেমগুরু, আমি শিষ্য নট ৷  
 সদা আমা নানা নৃত্যে নাচায় উদ্ভট ॥ ১২৪ ॥
 
 rādhikā prema-guru, āmi śiṣya naṭa  
-sadā āmā nānā nṛtye nācāya udbhaṭa
+Rādhikā  the teacher of love  I  the disciple  a dancer  
+sadā āmā nānā nṛtye nācāya udbhaṭa  
+always  Me  in various  dances  makes dance  unheard-of
 
-(124) [not yet translated]
+(124) Rādhikā is My teacher in love, and I am Her pupil, a dancer. She always makes Me dance in many new and unheard-of ways.
 
 কস্মাদ্বৃন্দে প্রিয়সখি হরেঃ পাদমূলাৎ কুতোঽসৌ  
 কুণ্ডারণ্যে কিমিহ কুরুতে নৃত্যশিক্ষাং গুরুঃ কঃ ৷  
@@ -1300,51 +1308,65 @@ sadā āmā nānā nṛtye nācāya udbhaṭa
 শৈলূষীব ভ্রমতি পরিতো নর্ত্তয়ন্তী স্বপশ্চাৎ ॥ ১২৫ ॥
 
 kasmād vṛnde priya-sakhi hareḥ pāda-mūlāt kuto ’sau  
+from where  Vṛndā  O dear friend  of Hari  from the feet  where  He  
 kuṇḍāraṇye kim iha kurute nṛtya-śikṣāṁ guruḥ kaḥ  
+in the forest by the kuṇḍa  what  here  does  of dance  learning  teacher  who  
 taṁ tvan-mūrtiḥ prati-taru-lataṁ dig-vidikṣu sphurantī  
-śailūṣīva bhramati parito nartayantī sva-paścāt
+Him  Your form  in every  tree  creeper  in the directions and between them  appearing  
+śailūṣīva bhramati parito nartayantī sva-paścāt  
+like a dancer  moves  all around  making dance  behind itself
 
-(125) [not yet translated]
+(125) “‘Vṛndā, dear friend, where are you coming from?’ ‘From Hari's feet.’ ‘Where is He?’ ‘In the forest by Rādhā-kuṇḍa.’ ‘What is He doing there?’ ‘Learning to dance.’ ‘And who is His teacher?’ ‘Your own form, appearing in every tree and creeper in all directions. Like a skilled dancer it moves all around, making Him dance behind it.’” (Govinda-līlāmṛta 8.77)
 
 নিজ-প্রেমাস্বাদে মোর হয় যে আহ্লাদ ৷  
 তাহা হইতে কোটিগুণ রাধা-প্রেমাস্বাদ ॥ ১২৬ ॥
 
 nija-premāsvāde mora haya ye āhlāda  
-tāhā haite koṭi-guṇa rādhā-premāsvāda
+in tasting My own love  My  is  what  delight  
+tāhā haite koṭi-guṇa rādhā-premāsvāda  
+than that  ten million times  of Rādhā  the tasting of love
 
-(126) [not yet translated]
+(126) Rādhā's relish of Her love is ten million times greater than the delight I feel in tasting My own love.
 
 আমি যৈছে পরস্পর বিরুদ্ধধর্ম্মাশ্রয় ৷  
 রাধাপ্রেম তৈছে সদা বিরুদ্ধধর্ম্মময় ॥ ১২৭ ॥
 
 āmi yaiche paraspara viruddha-dharmāśraya  
-rādhā-prema taiche sadā viruddha-dharma-maya
+I  as  mutually  of contradictory qualities  the abode  
+rādhā-prema taiche sadā viruddha-dharma-maya  
+of Rādhā  the love  so  always  with contradictory qualities  full
 
-(127) [not yet translated]
+(127) Just as I am the abode of mutually contradictory qualities, so Rādhā's love is always full of contradictions.
 
 রাধা-প্রেমা বিভু — যার বাড়িতে নাহি ঠাঞি ৷  
 তথাপি সে ক্ষণে ক্ষণে বাড়য়ে সদাই ॥ ১২৮ ॥
 
 rādhā-premā vibhu — yāra bāḍite nāhi ṭhāñi  
-tathāpi se kṣaṇe kṣaṇe bāḍaye sadāi
+of Rādhā  the love  all-pervading  for which  to grow  there is not  room  
+tathāpi se kṣaṇe kṣaṇe bāḍaye sadāi  
+yet  it  moment  by moment  grows  always
 
-(128) [not yet translated]
+(128) Rādhā's love is all-pervading; there is no room for it to grow. Yet it keeps growing at every moment.
 
 যাহা বই গুরুবস্তু নাহি সুনিশ্চিত ৷  
 তথাপি গুরুর ধর্ম্ম গৌরব-বর্জ্জিত ॥ ১২৯ ॥
 
 yāhā vai guru vastu nāhi suniścita  
-tathāpi gurura dharma gaurava-varjita
+than which  besides  great  thing  there is not  certainly  
+tathāpi gurura dharma gaurava-varjita  
+yet  of the great  the trait  of self-importance  devoid
 
-(129) [not yet translated]
+(129) Certainly there is nothing greater than it, yet it is free of the self-importance that marks the great.
 
 যাহা বই সুনির্ম্মল দ্বিতীয় নাহি আর ৷  
 তথাপি সর্ব্বদা বাম্য, বক্র ব্যবহার ॥ ১৩০ ॥
 
 yāhā bai sunirmala dvitīya nāhi āra  
-tathāpi sarvadā vāmya, vakra vyavahāra
+than which  besides  most pure  second  there is not  other  
+tathāpi sarvadā vāmya, vakra vyavahāra  
+yet  always  contrariness  crooked  behavior
 
-(130) [not yet translated]
+(130) There is nothing as pure as it, yet it is always contrary and its ways are crooked.
 
 বিভুরপি কলয়ন্ সদাভিবৃদ্ধিং  
 গুরুরপি গৌরবচর্য্যয়া বিহীনঃ ৷  
@@ -1352,83 +1374,105 @@ tathāpi sarvadā vāmya, vakra vyavahāra
 জয়তি মুরদ্বিষি রাধিকানুরাগঃ ॥ ১৩১ ॥
 
 vibhur api kalayan sadābhivṛddhiṁ  
+all-pervading  though  making  constant  increase  
 gurur api gaurava-caryayā vihīnaḥ  
+great  though  of self-importance  behavior  devoid of  
 muhur upacita-vakrimāpi śuddho  
-jayati mura-dviṣi rādhikānurāgaḥ
+constantly  increasing  crookedness  though  pure  
+jayati mura-dviṣi rādhikānurāgaḥ  
+all glory  for the enemy of Mura  Rādhikā's  love
 
-(131) [not yet translated]
+(131) “All glory to Rādhikā's love for the enemy of Mura! Though all-pervading, it ever increases; though great, it is free of all self-importance; though its crookedness constantly grows, it is pure.” (Dāna-keli-kaumudī 2)
 
 সেই প্রেমার রাধিকা পরম ‘আশ্রয়’ ৷  
 সেই প্রেমার আমি হই কেবল ‘বিষয়’ ॥ ১৩২ ॥
 
 sei premāra rādhikā parama ‘āśraya’  
-sei premāra āmi hai kevala ‘viṣaya’
+of that  love  Rādhikā  the supreme  abode  
+sei premāra āmi hai kevala ‘viṣaya’  
+of that  love  I  am  only  the object
 
-(132) [not yet translated]
+(132) Rādhikā is the supreme abode (*āśraya*) of that love, and I am only its object (*viṣaya*).
 
 বিষয়জাতীয় সুখ আমার আস্বাদ ৷  
 আমা হৈতে কোটিগুণ আশ্রয়ের আহ্লাদ ॥ ১৩৩ ॥
 
 viṣaya-jātīya sukha āmāra āsvāda  
-āmā haite koṭi-guṇa āśrayera āhlāda
+of the object  of the kind  happiness  My  tasting  
+āmā haite koṭi-guṇa āśrayera āhlāda  
+than Me  ten million times  of the abode  the delight
 
-(133) [not yet translated]
+(133) I taste the happiness that belongs to the object of love, but the delight of its abode is ten million times greater than Mine.
 
 আশ্রয়জাতীয় সুখ পাইতে মন ধায় ৷  
 যত্নে আস্বাদিতে নারি, কি করি উপায় ॥ ১৩৪ ॥
 
 āśraya-jātīya sukha pāite mana dhāya  
-yatne āsvādite nāri, ki kari upāya
+of the abode  of the kind  happiness  to obtain  the mind  runs  
+yatne āsvādite nāri, ki kari upāya  
+by effort  to taste  I cannot  what  I do  means
 
-(134) [not yet translated]
+(134) My mind runs after the happiness that belongs to the abode of love, but for all My effort I cannot taste it. What means can I find?
 
 কভু যদি এই প্রেমার হইয়ে আশ্রয় ৷  
 তবে এই প্রেমানন্দের অনুভব হয় ॥ ১৩৫ ॥
 
 kabhu yadi ei premāra haiye āśraya  
-tabe ei premānandera anubhava haya
+ever  if  of this  love  I become  the abode  
+tabe ei premānandera anubhava haya  
+then  of this  of love  of the bliss  the experience  will be
 
-(135) [not yet translated]
+(135) If ever I become the abode of this love, then I shall experience the bliss of this love.”
 
 এত চিন্তি’ রহে কৃষ্ণ পরমকৌতুকী ৷  
 হৃদয়ে বাড়য়ে প্রেম-লোভ ধক্ধকি ॥ ১৩৬ ॥
 
 eta cinti’ rahe kṛṣṇa parama-kautukī  
-hṛdaye bāḍaye prema-lobha dhakdhaki
+so much  thinking  remains  Kṛṣṇa  supremely  eager for play  
+hṛdaye bāḍaye prema-lobha dhakdhaki  
+in the heart  grows  for love  longing  blazing
 
-(136) [not yet translated]
+(136) Thinking thus, Kṛṣṇa, ever eager for play, remains with a longing for that love blazing ever higher in His heart.
 
 এই এক, শুন আর লোভের প্রকার ৷  
 স্বমাধুর্য্য দেখি’ কৃষ্ণ করেন বিচার ॥ ১৩৭ ॥
 
 ei eka, śuna āra lobhera prakāra  
-sva-mādhurya dekhi’ kṛṣṇa karena vicāra
+this  one  hear  another  of longing  kind  
+sva-mādhurya dekhi’ kṛṣṇa karena vicāra  
+His own  sweetness  seeing  Kṛṣṇa  makes  reflection
 
-(137) [not yet translated]
+(137) That is one desire. Now hear of another kind of longing. Seeing His own sweetness, Kṛṣṇa reflects:
 
 অদ্ভুত, অনন্ত, পূর্ণ মোর মধুরিমা ৷  
 ত্রিজগতে ইহার কেহ নাহি পায় সীমা ॥ ১৩৮ ॥
 
 adbhuta, ananta, pūrṇa mora madhurimā  
-tri-jagate ihāra keha nāhi pāya sīmā
+wondrous  infinite  complete  My  sweetness  
+tri-jagate ihāra keha nāhi pāya sīmā  
+in the three worlds  its  anyone  not  finds  limit
 
-(138) [not yet translated]
+(138) “My sweetness is wondrous, infinite and complete. No one in the three worlds can find its limit.
 
 এই প্রেমদ্বারে নিত্য রাধিকা একলি ৷  
 আমার মাধুর্য্যামৃত আস্বাদে সকলি ॥ ১৩৯ ॥
 
 ei prema-dvāre nitya rādhikā ekali  
-āmāra mādhuryāmṛta āsvāde sakali
+of this  love  by means  eternally  Rādhikā  alone  
+āmāra mādhuryāmṛta āsvāde sakali  
+My  of sweetness the nectar  tastes  whole
 
-(139) [not yet translated]
+(139) Through Her love Rādhikā alone eternally tastes the whole nectar of My sweetness.
 
 যদ্যপি নির্ম্মল রাধার সৎপ্রেমদর্পণ ৷  
 তথাপি স্বচ্ছতা তার বাঢ়ে ক্ষণে ক্ষণ ॥ ১৪০ ॥
 
 yadyapi nirmala rādhāra sat-prema-darpaṇa  
-tathāpi svacchatā tāra bāḍhe kṣaṇe kṣaṇa
+although  spotless  of Rādhā  of true  love  the mirror  
+tathāpi svacchatā tāra bāḍhe kṣaṇe kṣaṇa  
+yet  clarity  its  grows  moment  by moment
 
-(140) [not yet translated]
+(140) Although the mirror of Rādhā's true love is spotless, its clarity grows at every moment.
 
 আমার মাধুর্য্য নাহি বাঢ়িতে অবকাশে ৷  
 এ-দর্পণের আগে নব নব রূপে ভাসে ॥ ১৪১ ॥
