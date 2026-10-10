@@ -22,3 +22,10 @@ I worship the original Person Govinda, whose *kalā* is that Mahā-Viṣṇu fro
 
 Where am I, enclosed in this body made of *prakṛti*, the *mahat-tattva*, *ahaṅkāra* and the five elements and measuring seven spans? And where is Your greatness, such that all the universes, like the finest particles, wander through the openings of Your bodily pores? That is, my body — the universe — is nothing compared with Your greatness.
 
+## 73–76
+
+Balarāma, the *vilāsa-mūrti* of Kṛṣṇa, is *mūla-Saṅkarṣaṇa*, the original Saṅkarṣaṇa. A portion of His *svarūpa* in Paravyoma is Saṅkarṣaṇa. His portion is Kāraṇābdhiśāyī Mahā-Viṣṇu; He is a portion of a portion and is therefore called a “*kalā*.” The two Puruṣas, Garbhodaśāyī and Kṣīrodaśāyī, are portions of Mahā-Viṣṇu.
+
+## 77
+
+In the eternal abode Viṣṇu has three forms. The first is Kāraṇābdhiśāyī Mahā-Viṣṇu, the creator of the *mahat-tattva*. The second is Garbhodaśāyī, the Puruṣa within the aggregate universe. The third is Kṣīrodaśāyī, the Puruṣa within each individual universe; He is the indwelling Lord (*antaryāmī*) and the Paramātmā of every *jīva*. Whoever can know the truth of these three is freed from material intelligence.

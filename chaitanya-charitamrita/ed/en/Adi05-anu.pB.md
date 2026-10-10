@@ -65,3 +65,67 @@ Bhagavān's external potency, *māyā*, has two portions: the efficient portion,
 ## 59–61
 
 See Madhya 20.259–261. The external potency, *māyā*, is known in the material portion of the world by the names “*pradhāna*” and “*prakṛti*,” and in the efficient portion of the world by the name “*māyā*.” Inert *prakṛti* is not the cause of the world. For Kṛṣṇa, as Kāraṇārṇavaśāyī Mahā-Viṣṇu, grants *prakṛti* the material, substantial potency and so infuses her with power. The example is red-hot iron. Iron has no “power” to burn or give heat, but touched by fire, red-hot iron can burn and heat other things. In the same way inert *prakṛti*, which is like iron, has no independent capacity to be the substance or the material cause. Only when the glance-potency of Kāraṇodakaśāyī, who is like fire, is infused into her does iron-like *prakṛti*, a mere likeness of the material cause, acquire the power to burn and give heat. To regard *prakṛti*, known as the material, as the material cause of the world is therefore sheer delusion. Śrī Kapiladeva also says: “As the firebrand, the sparks and the smoke are born of the fire itself and are thought of as one with it, yet the fire is distinct from the firebrand…” (*Śrīmad-Bhāgavatam* 3.28.40) Smoke, the burning log and the sparks contain the substance of fire, and so they are spoken of as one with fire; nevertheless fire is something distinct from the firebrand. “The elements,” like the smoke, “the *jīva*,” like the sparks, and “*pradhāna*,” like the firebrand — all of them receive their powers from Bhagavān, who is like the fire, the substance of everything, and so each displays its own separate identity. Even so, the substance of them all is Bhagavān. “*Pradhāna*” is held to be the material of the world, but it appears as such only through the substance Bhagavān has placed in it. “*Pradhāna*” cannot be an independent material cause separate from Bhagavān. To forget Kṛṣṇa, the root shelter of all material causes, and to ascribe that role to the *prakṛti* of Sāṅkhya is as fruitless as expecting milk from the teat-like lumps of flesh on a goat's neck.
+
+## 62
+
+> Subheading: Śrī Nārāyaṇa is the efficient cause —
+
+## 63
+
+> Subheading: The original Director is Bhagavān, the all-pervading Consciousness —
+
+## 64
+
+> Subheading: Kṛṣṇa creates the world through *māyā* —
+
+## 65
+
+> Subheading: Kāraṇābdhiśāyī glances at *māyā* and brings the *jīvas* into manifestation —
+
+## 66
+
+> Subheading: By a semblance of His body He touches *māyā*, and so Bhagavān Himself is the material cause —
+
+## 59–66
+
+In the Vedic view, the world is created only by the joining of potency that comes from the Reality itself, and in that form it appears before the conditioned *jīva*. In the non-Vedic view, the visible world is born of *prakṛti*. The potency of the Reality works in three ways: as *cit*, as *acit*, and as a potency that partakes of both. Some, following a path foreign to the Śrutis, think that the world arose from inert *prakṛti*; the Vedas do not accept that view. The Reality, Bhagavān, is nondifferent from His spiritual potency. When the *cit-śakti* is infused into the *acit* potency, a temporary, perishable semblance of spiritual being appears. Bhagavān's *jīva-śakti*, called *taṭasthā*, combines *cit* and *acit*. It is eternally subordinate to the spiritual potency, yet from time without beginning it is liable to wander in the visible world, the transformation of the *acit* potency. Cut off from the Reality, the *jīva* misuses pure spirit, and this gradually becomes his experience of bondage. In truth, once the *jīva* knows his own *svarūpa*, he can understand that readiness to serve is the ground of his eternal highest good. When he turns away from service, this potency called *taṭasthā* imagines itself the possessor of potency and sets out to enjoy. To become masters of *acit*, his senses begin to act against the purely spiritual potency. Only Kṛṣṇa's own potency gives power to His *acit* potency, which is of a different nature (*vijātīya*). An example: fire and its power to burn, infused into iron that has no fire, display the iron as fire. In truth the *acit* potency gains its activity only from Kṛṣṇa's *cit-śakti*. The *taṭasthā jīva*, driven by the *acit* potency, thinks that the visible material world is born of *prakṛti*. But the liberated *jīva*, situated in pure spirit, can understand that the *cit-śakti* of the Possessor of potency imparts a share of strength to the *acit* potency and so makes it active. *Prakṛti*, the root cause of the *acit* potency, brings with it every kind of undesirability, limitation and inferiority. A *jīva* who follows reasoning in the conceit of his bondage sees the goat's milk-giving udder and yet vainly seeks milk from the teat-like growths on her neck. Equally foolish is it to call *prakṛti*, whose root is *acit*, the cause of the material world. Bhagavān's *acit* potency, “*māyā*,” appears before the *jīva* who is averse to Hari as the “efficient” and the “material” cause and turns him away from accepting the true Reality. When knowledge of his *svarūpa* dawns, the *jīva* notices the twofold action of the *acit* potency: “covering” (*āvaraṇī*) and “projecting” (*vikṣepātmikā*). A thing such as a pot has a twofold cause: the potter is the efficient cause, while the clay, the wheel, the rod and the like are the material cause and the instruments. In the same way, when one considers the Reality, the controller of the visible world and its elements is shown to be the Possessor of potency (*śaktimat-tattva*). If, however, one considers the potencies separately, *māyā*, made of the three *guṇas*, governs the elements — the material portion — through the *guṇas*. The *taṭasthā-śakti*, the *jīva*, turning away from Hari in this visible world, takes on the role of enjoyer. That the Reality is perceived in the visible world as *acit* is merely the fruit of aversion to Kṛṣṇa. The perception of *acit* displays enjoyment, that is, devotion to the senses. But in perceiving Bhagavān with readiness to serve, the *jīva* sees his own relationship with Him. Kṛṣṇa is the cause of the eternal spiritual world. He is also the cause of the world of *acit*, whose truth is covered, and He is the root cause and ordainer of the *jīva* called *taṭasthā*. The perception of *acit* is the work of Bhagavān's external potency, and the perception of *cit* is the work of His internal potency. From the word born of spiritual perception we can learn that every attribute of independent agency and of being the source of all is established in the Reality, Bhagavān. That Reality is the Great (*Bṛhat*), and His minute fragments are what the word “*jīva*” denotes. The Reality, Bhagavān, though divided, does not display the quality of fragmentation; and fragmented perception is never identical with undivided perception. In terms of pervaded and pervader, Brahman and the *jīva* are of the same kind. Yet the Lord is the master of *māyā*, while the dependent is subject to *māyā*. But when one who is subject to *māyā* becomes subject to the Lord of *māyā*, his subjection to *māyā* can no longer remain.
+
+## 65–66
+
+See Madhya 20.271–273 and *Śrīmad-Bhāgavatam* 3.5.26 and 3.26.18.
+
+## 67
+
+> Subheading: The fruit of Kāraṇārṇavaśāyī's glance —
+
+## 68
+
+> Subheading: With His exhalation and inhalation the universes are created and dissolved —
+
+## 70
+
+> Subheading: In His bodily pores are countless universes —
+
+## 67–70
+
+See Madhya 20.277–280.
+
+## 71
+
+> Subheading: (*Brahma-saṁhitā*, Chapter 5, verse 48) —
+
+**atha yasya loma-vila-jāḥ** (born from the bodily pores) **jagad-aṇḍa-nāthāḥ** (the lords of the universes — the aggregate Viṣṇu and others) **eka-niśvasita-kālam** (a time equal to one exhalation) **avalambya** (resorting to) **iha jīvanti** (remain manifest), **saḥ mahān viṣṇuḥ** (that Mahā-Viṣṇu) is **yasya** (Govinda's) **kalā-viśeṣaḥ** (particular *kalā*); **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi** (that original Person, Govinda, I worship).
+
+## 72
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 14, verse 11)
+
+After stealing the calves, Brahmā prayed to atone for his offense. This is one of those prayers:
+
+**tamo-mahad-ahaṁ-kha-carāgni-vār-bhū-saṁveṣṭitāṇḍa-ghaṭa-sapta-vitasti-kāyaḥ** (*tamaḥ*, the unmanifest; *mahat*, the *mahat-tattva*; *aham*, *ahaṅkāra*; *kha*, ether; *cara*, air; *agni*, fire; *vāḥ*, water; *bhū*, earth; the *aṇḍa-ghaṭa*, the pot of the universe, enclosed by all these from *pradhāna* to earth, is the body, and within it is one whose body, by his own measure, is seven spans) **ahaṁ kva** (where am I?) **īdṛg-vidhāvigaṇitāṇḍa-parāṇu-caryā-vātādhva-roma-vivarasya** (of Him whose bodily pores are like windows [*vātādhva*, window] through which wander countless universes like this one, which are themselves the finest particles) **te** (Your) **mahitvaṁ ca kva** (and where is the greatness?).
+
+## 73
+
+> Subheading: The relationship of *mūla-Saṅkarṣaṇa*, Mahā-Saṅkarṣaṇa and the three Puruṣas —
+
+**Pratimūrti** (image): the second body (Ādi 5.4–5; Madhya 20.174).
