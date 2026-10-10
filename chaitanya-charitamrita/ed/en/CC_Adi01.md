@@ -216,7 +216,7 @@ the avatāra as a devotee  the one called a devotee
 namāmi bhakta-śaktikam  
 I bow to  the devotional potency
 
-(14) “I bow to Kṛṣṇa, who comprises the five truths (Pañca-tattva). He appears in the form of a devotee, in the identity of a devotee, as the avatāra of a devotee, as the one called a devotee, and as the devotional potency.” (Śrī Rūpa Gosvāmī)
+(14) “I bow to Kṛṣṇa, who comprises the five truths (Pañca-tattva). He appears in the form of a devotee, in the identity of a devotee, as the avatāra of a devotee, as the one called a devotee, and as the devotional potency.”
 
 জয়তাং সুরতৌ পঙ্গোর্মম মন্দমতের্গতী ৷  
 মৎসর্ব্বস্বপদাম্ভোজৌ রাধামদনমোহনৌ ॥ ১৫ ॥

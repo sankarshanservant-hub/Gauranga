@@ -215,7 +215,7 @@ Uddhava heard about *svadharma*, one's true duty, both for those who follow *var
 - **martya-buddhyā** — (him) with an intellect bound by conditioned, material place, time and person.
 - **na asūyeta** — one should not, growing envious through one's own material dullness, think him equal to oneself.
 
-*Ācārya*: “The twice-born who performs the *upanayana* rite for a disciple and teaches him the Veda with its rituals and secret portions is called an ācārya.” (*Manu-saṁhitā* 2.140). “He who gathers the meaning of the scriptures, establishes it in conduct and himself acts accordingly is called an ācārya.” (*Vāyu Purāṇa*).
+*Ācārya*: “The twice-born who performs the *upanayana* rite for a disciple and teaches him the Veda with its rituals and secret portions is called an ācārya.” (*Manu-saṁhitā* 2.140). “He who gathers the meaning of the scriptures, establishes others in right conduct and himself acts accordingly is called an ācārya.” (*Vāyu Purāṇa*).
 
 Śrī Bhagavān Himself appears before the disciple in the form of the ācārya. In the conduct of the revered ācārya there is nothing but service to Hari. He is the *āśraya-vigraha* in person. If someone has turned away from serving Hari yet fancies himself an ācārya, no one will take his bad conduct for good. The ācārya's undivided worship is what shows him to be a manifestation of Bhagavān. Those devoted to their senses and unsatisfied in enjoyment envy even the ācārya's faultless conduct. The ācārya is a limb inseparable from Bhagavān, the One who is served. Therefore a *jīva* who harbours hostility toward him loses the mercy of Bhagavān and His associates and falls into misfortune.
 
@@ -225,7 +225,7 @@ The guru is in truth a servant of Kṛṣṇa Caitanya. Yet the disciple looks w
 
 > Subheading: (2) The truth of the *śikṣā-guru*; his two forms: (a) the *caitya-guru* (the guru within the heart), (b) the *mahānta-guru* —
 
-He who teaches worship (*bhajana*) is the *śikṣā-guru*. One who is without worship and of bad conduct is neither a guru nor an ācārya. Teachers are of two kinds: the *mahānta-guru*, who delights in worship, and the *caitya-guru*, who grants the discernment favourable to worship. Instruction in worship differs according to the goal (*sādhya*) and the practice. Śrī Gurudeva, who gives Kṛṣṇa, enriches the disciple with knowledge of *sambandha* and awakens in him a realization of his own service. The disciple receives the mercy of this *dīkṣā-guru* and learns to serve Viṣṇu properly. This instruction is called *abhidheya*. The *śikṣā-guru* is the *āśraya-vigraha* who embodies *abhidheya*. So he is not different from the *dīkṣā-guru*, who gives knowledge of *sambandha*. Both are Śrī Gurudeva. To treat one of them as higher and the other as lower, outwardly or at heart, brings offense. As words, Kṛṣṇa's “*rūpa*” (form) and “*svarūpa*” do not differ. The *dīkṣā-guru* Śrī Sanātana gives the lotus feet of Madana-mohana. The *jīva* has forgotten Bhagavān and cannot wander in Vraja, and Sanātana gives him the realization that Bhagavān's feet are all his wealth. The *śikṣā-guru* Śrī Rūpa gives the right to serve the feet of Śrī Govinda and His dearest ones.
+He who teaches worship (*bhajana*) is the *śikṣā-guru*. One who is without worship and of bad conduct is neither a guru nor an ācārya. Teachers are of two kinds: the *mahānta-guru*, who delights in worship, and the *caitya-guru*, who grants the discernment favourable to worship. Instruction in worship differs according to the goal (*sādhya*) and the practice. Śrī Gurudeva, who gives Kṛṣṇa, enriches the disciple with knowledge of *sambandha* and awakens in him a realization of his own service. The disciple receives the mercy of this *dīkṣā-guru* and learns to serve Viṣṇu properly. This instruction is called *abhidheya*. The *śikṣā-guru* is the *āśraya-vigraha* who embodies *abhidheya*. So he is not different from the *dīkṣā-guru*, who gives knowledge of *sambandha*. Both are Śrī Gurudeva. To treat one of them as higher and the other as lower, outwardly or at heart, brings offense. As words, Kṛṣṇa's “*rūpa*” (form) and “*svarūpa*” do not differ. The *dīkṣā-guru* Śrī Sanātana gives the lotus feet of Madana-mohana. The *jīva* has forgotten Bhagavān and cannot wander in Vraja. Sanātana gives him the realization that Bhagavān's feet are all his wealth. The *śikṣā-guru* Śrī Rūpa gives the right to serve the feet of Śrī Govinda and His dearest ones.
 
 ## 48
 
@@ -247,7 +247,7 @@ Uddhava had heard the scripture of yoga in detail and saw that the path of yoga 
 - **tanubhṛtām** — of embodied living beings.
 - **aśubham** — what is inauspicious, that is, absorption in objects other than Kṛṣṇa.
 - **vidhunvan** — dispelling.
-- **sva-gatim** — their own goal, that is, their true nature, marked by being the Lord's associate.
+- **sva-gatim** — their own path, that is, their true nature, marked by being the Lord's associate.
 - **vyanakti** — You reveal.
 
 ## 49
@@ -332,7 +332,7 @@ Brahmā resolved to create and sank into deep thought. He heard a divine voice s
 - **nateṣu** — in those who bow down to Me.
 - **praviṣṭaḥ** — have entered: I abide in the heart to show Myself to their inner sight.
 
-In the same way, without entering, I also abide outside — to give their eyes My beauty and their nostrils My fragrance; to converse with them and fill their ears with the nectar of My sweet voice; and by touch, embrace and the like to let their bodies feel the tenderness, sweetness and other graces of My body. These devotees are beyond the *guṇas*, and I cannot leave them, either within or without: My play with them is always full of attachment. This shows that the “mystery” is their *prema-bhakti*, which brings Me so under their control.
+In the same way, without entering, I also abide outside. I do this to give their eyes My beauty and their nostrils My fragrance; to converse with them and fill their ears with the nectar of My sweet voice; and by touch, embrace and the like to let their bodies feel the tenderness, sweetness and other graces of My body. These devotees are beyond the *guṇas*, and I cannot leave them, either within or without: My play with them is always full of attachment. This shows that the “mystery” is their *prema-bhakti*, which brings Me so under their control.
 
 ## 56
 
@@ -352,7 +352,7 @@ In the same way, without entering, I also abide outside — to give their eyes M
 - **yat syāt sarvatra** — what exists everywhere: in Śrī Vṛndāvana and the other abodes beyond all the universes — in the servants, friends, elders and beloveds.
 - **sarvadā** — eternally, even at the time of the great dissolution.
 
-(This points to the relishing of the *rasas* of servitude, friendship, parental love and amorous love: *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*.)
+(This points to the relishing of the four *rasas* of servitude, friendship, parental love and amorous love: *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*.)
 
 ## 57
 
@@ -503,7 +503,7 @@ Vidura Mahāśaya had wandered through many holy places and returned to Hastinā
 - **dvayor dvayor madhye** — between each two.
 - **praviṣṭena** — by Him who entered in a separate form.
 - **yam** — Śrī Kṛṣṇa, whom.
-- **sva-nikaṭam** — as being beside herself (that is, “He has embraced me alone”).
+- **sva-nikaṭam** — as being close to herself (that is, “He has embraced me alone”).
 - **manyeran** — they thought.
 - **yogeśvareṇa** — by that Kṛṣṇa.
 - **kaṇṭhe gṛhītānām** — of those embraced at the neck from both sides.
@@ -643,7 +643,7 @@ Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
 
 > Subheading: *Śan-dau* —
 
-The *Mahābhārata* (Udyoga-parva, Chapter 43, verse 16) names twelve kinds of faults, and the *Viṣṇu Purāṇa* eighteen. Why the *svarūpa* is hard to know: (1) *ajñāna*, ignorance — the notion “I am the material body”; (2) *viparyāsa*, inversion — the conceit of being an enjoyer of matter; (3) *bheda*, division — absorption in a second thing; (4) fear, and taking on a distorted form; (5) grief. These five are ignorance.
+The *Mahābhārata* (Udyoga-parva, Chapter 43, verse 16) names twelve kinds of faults, and the *Viṣṇu Purāṇa* eighteen. The difficulty of knowing the *svarūpa*: (1) *ajñāna*, ignorance — the notion “I am the material body”; (2) *viparyāsa*, inversion — the conceit of being an enjoyer of matter; (3) *bheda*, division — absorption in a second thing; (4) fear, and taking on a distorted form; (5) grief. These five are ignorance.
 
 ## 108
 

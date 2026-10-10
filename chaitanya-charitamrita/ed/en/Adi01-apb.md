@@ -27,7 +27,7 @@ and placed it in the sādhus' hands.
 
 ## 15
 
-I am lame and dull-witted. My only refuge is the supremely merciful Śrī Śrī Rādhā-Madana-mohana, and Their lotus feet are all my wealth. May They be glorified![^15-1]
+I am lame and dull-witted. My only refuge is the supremely merciful Śrī Śrī Rādhā-Madana-mohana, and Their lotus feet are all my wealth. May They be glorified!
 
 ## 16
 
@@ -67,7 +67,7 @@ Bhagavān said to Uddhava: “O Uddhava, know the guru to be My very self. Do no
 
 ## 48
 
-O Lord! The wise are filled with bliss when they remember You, yet even with a lifespan like Brahmā's they could not repay You. For in Your boundless mercy You abide outside as the ācārya and within as the indwelling Lord (*antaryāmī*). You do this to destroy all that is inauspicious in embodied souls and to reveal to them their own goal.
+O Lord! The wise are filled with bliss when they remember You, yet even with a lifespan like Brahmā's they could not repay You. For in Your boundless mercy You abide outside as the ācārya and within as the indwelling Lord (*antaryāmī*). You do this to destroy all that is inauspicious in embodied souls and to reveal to them their own path.
 
 ## 49
 
@@ -91,7 +91,7 @@ Before this world was created, I alone existed. Nothing existed apart from Me �
 
 ## 54
 
-The previous verse established knowledge of the nature (*svarūpa*) of the Supreme Truth. But until that knowledge of the *svarūpa-tattva* is made firm by knowing the truth that is other than the *svarūpa*, there is no realization (*vijñāna*). The truth other than the *svarūpa-tattva* is called *māyā*. This verse sets out knowledge of the *māyā-tattva* in detail. The *svarūpa-tattva* is the *artha*, that is, the true reality. Whatever is perceived outside that truth, and whatever has no place in the perception of the *svarūpa-tattva* itself, should be known as a manifestation of *māyā* (*māyā-vaibhava*) belonging to the *ātma-tattva*. Since this is not easy to grasp, here are two particular examples. Think of the *svarūpa-tattva* as the sun. What is other than the sun is perceived in two forms: as *ābhāsa*, a reflection, and as *tamas*, darkness. The sun's reflection falls from water onto another place; this is called *ābhāsa*. The side where the sun's power is not seen is called *tamas*, that is, darkness. The spiritual world is the rays of Bhagavān's own form. The manifestation of *māyā* is an *ābhāsa* that rests on its likeness to that world; this is the example of *ābhāsa*. The darkness far removed from the spiritual truth (*cit-tattva*) is that same manifestation of *māyā*; this is the second example. The point is this: the *ātma-tattva* and the *māyā-tattva* stand in a twofold relation. First, whatever is manifest as a form other than the *ātma-svarūpa* is *māyā*. And the ignorance, the non-self far removed from the *ātma-svarūpa*, is also *māyā*.
+The previous verse established knowledge of the nature (*svarūpa*) of the Supreme Truth. But there is no realization (*vijñāna*) until that knowledge of the *svarūpa-tattva* is made firm by knowing the truth that is other than the *svarūpa*. The truth other than the *svarūpa-tattva* is called *māyā*. This verse sets out knowledge of the *māyā-tattva* in detail. The *svarūpa-tattva* is the *artha*, that is, the true reality. Whatever is perceived outside that truth, and whatever has no place in the perception of the *svarūpa-tattva* itself, should be known as a manifestation of *māyā* (*māyā-vaibhava*) belonging to the *ātma-tattva*. Since this is not easy to grasp, here are two particular examples. Think of the *svarūpa-tattva* as the sun. What is other than the sun is perceived in two forms: as *ābhāsa*, a reflection, and as *tamas*, darkness. The sun's reflection falls from water onto another place; this is called *ābhāsa*. The side where the sun's power is not seen is called *tamas*, that is, darkness. The spiritual world is the rays of Bhagavān's own form. The manifestation of *māyā* is an *ābhāsa* that rests on its likeness to that world; this is the example of *ābhāsa*. The darkness far removed from the spiritual truth (*cit-tattva*) is that same manifestation of *māyā*; this is the second example. The point is this: the *ātma-tattva* and the *māyā-tattva* stand in a twofold relation. First, whatever is manifest as a form other than the *ātma-svarūpa* is *māyā*. And the ignorance, the non-self far removed from the *ātma-svarūpa*, is also *māyā*.
 
 ## 55
 
@@ -121,11 +121,11 @@ Therefore an intelligent person will give up bad company and associate with sād
 
 ## 60
 
-In the company of sādhus, narratives that reveal My power are discussed, an elixir for the heart and ears. As a person listens to them, there soon awakens in him faith in Me, the path of liberation; then attachment (*rati*); and at last loving devotion (*prema-bhakti*).
+In the company of sādhus, narratives that reveal My power are discussed, an elixir for the heart and ears. As a person listens to them, there soon awakens in him faith in Me, the path of liberation; then *rati*; and at last loving devotion (*prema-bhakti*).
 
 ## 61
 
-Whoever is devoted to the Lord (*Īśvara*) in His form of eternal being, knowledge and bliss is himself the place where Kṛṣṇa dwells; that is, his heart is.
+Whoever is devoted to the Lord (*Īśvara*) in His form of eternal being, knowledge and bliss — that is, his heart — is the place where Kṛṣṇa dwells.
 
 ## 62
 
@@ -189,7 +189,7 @@ I worship Śrī Kṛṣṇa Caitanya and Nityānanda. Like the sun and the moon,
 
 ## 91
 
-This *Śrīmad-Bhāgavatam* was first composed by the great sage Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). It sets forth the highest dharma for those free from envy, that is, kind to all beings. This dharma is free from cheating (*kaitava*), and that cheating includes religious duty, wealth, pleasure and even liberation: *dharma*, *artha*, *kāma* and *mokṣa*. It destroys the threefold miseries of the *jīva*, bestows good fortune and gives knowledge of the true reality. Those who wish to hear the *Bhāgavatam* can hold the Lord captive in their hearts at will. What need, then, is there for any scripture other than the *Bhāgavatam*?
+This *Śrīmad-Bhāgavatam* was first composed by the great sage Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). It sets forth the highest dharma for those free from envy, that is, kind to all beings. This dharma is free from cheating (*kaitava*), and that cheating includes *dharma*, *artha*, *kāma* and even *mokṣa*. It destroys the threefold miseries of the *jīva*, bestows good fortune and gives knowledge of the true reality. Those who wish to hear the *Bhāgavatam* can hold the Lord captive in their hearts at will. What need, then, is there for any scripture other than the *Bhāgavatam*?
 
 ## 92–93
 
@@ -219,5 +219,4 @@ Instead of *kṛṣṇe gāḍha prema habe* (“there will be deep love for K�
 
 *Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”*
 
-[^15-1]: Bhaktivinoda gives only the glorification here; the Russian verse translation (VCD) adds a prayer for attachment to the lotus feet.
-[^57-1]: The Russian verse translation (VCD) reads differently: there Cintāmaṇi and Somagiri are two different gurus (Cintāmaṇi showed the way, Somagiri was the initiating guru), whereas for Bhaktivinoda *cintāmaṇi* is a simile for Somagiri. (The *Anubhāṣya* on this verse, like the VCD translation, distinguishes them.)
+[^57-1]: Our verse translation of 1.57 reads differently: it takes Cintāmaṇi and Somagiri as two different gurus, whereas for Bhaktivinoda *cintāmaṇi* is a simile for Somagiri. (The *Anubhāṣya* on this verse likewise distinguishes them: Cintāmaṇi showed the way, Somagiri was the initiating guru.)
