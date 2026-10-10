@@ -70,6 +70,34 @@ The women of Mathurā said: “Ah, what austerity the *gopīs* must have perform
 
 Kṛṣṇa longed to relish His own sweetness fully, with the love known to the *āśraya*, but He could not and was distressed. This is the second hidden reason why He accepted Rādhikā's emotion.
 
+## 162
+
+“The love of the *gopīs* is called *rūḍha-bhāva*” — that is, the name of this *prema* is *rūḍha-bhāva*. For spotless *prema* cannot in truth be expressed by the word *kāma* (the desire to please one's own senses).
+
+## 163
+
+It became customary to call the pure love of the cowherd women “*kāma*.” Even the devotees of Bhagavān — Uddhava and others — thirst for this love.
+
+## 164
+
+Iron and gold are entirely different by their very nature. So too *kāma* and *prema*: though they are almost of one kind, their characteristics differ.
+
+## 165–168
+
+A desire whose aim is one's own enjoyment is called *kāma*. The Vedas speak of such desires with the words *lokaiṣaṇā* (the craving for worldly recognition), *putraiṣaṇā* (the craving for offspring), *vittaiṣaṇā* (the craving for wealth) and the like. These make up the following: *loka-dharma* (social custom), *veda-dharma* (Vedic duty), *deha-dharma* (the needs of the body), *karma*, shame, composure, bodily happiness, one's own happiness in the form of liberation and so on, the path of the Āryans, affection for one's family, and fear of punishment and reproach from one's relatives. All this is *kāma*, the desire to please one's own senses: in all these activities what drives one is the wish to gratify one's own senses. Desires that follow the awareness “I am a servant of Kṛṣṇa” can be the desire to please Kṛṣṇa's senses. But all desires born of the notion “I am the enjoyer of the fruits” are desires of *kāma*.
+
+## 169
+
+The words “giving up everything” do not counsel abandoning the activities of body, mind and so on. If the activities of body and mind too are moved by the awareness “I am a servant of Kṛṣṇa,” that is not *kāma* either.
+
+## 173
+
+The *gopīs* said: “O beloved, we gently hold Your tender lotus feet on our hard breasts. With these feet You now wander through the forest, and they must surely hurt, wounded by tiny stones and the like. You are our very life, and so our hearts are anxious for You.”
+
+## 176
+
+“O *gopīs*, for My sake you gave up social custom, Vedic duty and all your relatives. Still, I disappeared so that your attachment to Me might grow even stronger. O beloved ones, I am only trying to please you — do not blame Me.”
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.

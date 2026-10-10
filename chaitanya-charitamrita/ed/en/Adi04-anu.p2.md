@@ -179,3 +179,81 @@ In Kaṁsa's arena in Mathurā, Rāma and Kṛṣṇa were wrestling with his wr
 ## 160
 
 > Subheading: Svarūpa Dāmodara alone is the original *mahājana* in the nectar of *bhakti-rasa* —
+
+## 162
+
+> Subheading: The definition of the *gopīs'* love
+
+In the *mahābhāva* of the *gopīs* all the *sāttvika-bhāvas* blaze forth; therefore their love is called *rūḍha-bhāva*: “When the *sāttvika* [*bhāvas*] blaze forth, it is called *rūḍha*.” Their love aims only at Kṛṣṇa's happiness and is therefore spotless. It cannot be called by the contemptible word *kāma*, which means enjoyment for someone other than Kṛṣṇa.
+
+## 163
+
+> Subheading: The *kāma* and the *prema* of the *gopīs* are one and the same —
+>
+> (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga* 2.285–286)
+
+**gopa-rāmāṇām** (of the young women of Vraja) **premā eva** (the *prema* itself) **kāmaḥ iti** (as *kāma*) **prathām** (fame) **agamat** (attained); **iti** (therefore) **uddhavādayaḥ api bhagavat-priyāḥ** (even Uddhava and others dear to Bhagavān, that is, devotees who relish other *rasas*) **etam** (this *prema*) **vāñchanti** (desire).
+
+## 164
+
+> Subheading: The nature, marks and difference of *kāma* and *prema* —
+
+## 165
+
+> Subheading: The definition of *kāma* and *prema* —
+
+“When the bond of feeling between a young couple is in no way destroyed, even when there is cause for its destruction, it is called *prema*.” When a cause for separation arises and yet the firm bond of feeling between two lovers is destroyed by nothing — that is called *prema*. The *gopīs*, the *āśraya* of love, are bound to Kṛṣṇa by a firm bond of feeling, exclusively and with their whole being. They are the model of renouncing one's own happiness, that is, *kāma*, and are intent only on the service that delights Kṛṣṇa. Thus one sees how, sacrificing their own happiness for Kṛṣṇa, they feel immense joy, and how firm the bond of their feeling is.
+
+## 166
+
+> Subheading: The aim of *kāma* and the aim of *prema* —
+
+## 167
+
+> Subheading: The marks by which love for Kṛṣṇa is known —
+
+## 171
+
+> Subheading: The difference between *kāma* and *prema* —
+
+## 172
+
+> Subheading: *Kāma* — and the *gopīs'* love for Kṛṣṇa —
+
+## 173
+
+> Subheading: How the deep love of the *gopīs* for Kṛṣṇa shows itself —
+>
+> (*Śrīmad-Bhāgavatam* 10.31.19)
+
+When Kṛṣṇa disappeared during the *rāsa* dance, the *gopīs* sang in lament for Him:
+
+**he priya** (O beloved), **te** (Your) **yat sujāta-caraṇāmburuham** (tender lotus feet) **karkaśeṣu** (on hard) **staneṣu** (breasts) **bhītāḥ** (afraid that the touch might hurt them) **satyaḥ** ([we]) **śanaiḥ** (carefully) **dadhīmahi** (hold), **tena** (with those feet) **aṭavīm** (through the forest) **aṭasi** (You wander); **tat** (then [Your lotus feet]) **kūrpādibhiḥ** (by tiny splinters of stone) **kiṁ svit na vyathate** (are they not pained?) — **iti** (so [thinking]) **bhavad-āyuṣām** (of those whose life is You) **naḥ** (our) **dhīḥ** (mind) **bhramati** (loses its calm).
+
+## 174
+
+> Subheading: The pure love of the *gopīs* for Kṛṣṇa —
+
+## 176
+
+> Subheading: Kṛṣṇa, bound by the *gopīs'* love, asks forgiveness for having disappeared —
+>
+> (*Śrīmad-Bhāgavatam* 10.32.21)
+
+Having returned to the place of the *rāsa* dance and heard the *gopīs*, Kṛṣṇa says:
+
+**he priyāḥ abalāḥ** (O beloved, tender women), **evam** (thus) **mad-arthojjhita-loka-veda-svānām** (who for My sake, to attain Me, have abandoned *loka* — worldly duties and the like — *veda* — duties for the next world — and *sva* — your kin and family; [you] for whom Kṛṣṇa is the only life) **vaḥ** (your) **mayi anuvṛttaye** (so that your attachment to Me might increase, like that of other devotees with the marks described) **parokṣam** (so that you did not see Me) **bhajatā** (by Me, who was doing you good) **mayā** (by Me) **tirohitam hi** ([My presence] was hidden); **tat** (therefore) **priyam** (beloved) **mā** (Me) **asūyitum** (to look on with reproach, finding fault) **na arhatha** (you ought not).
+
+## 177
+
+> Subheading: Kṛṣṇa is attained differently according to the kinds of pure devotion —
+
+## 178
+
+> Subheading: (*Bhagavad-gītā* 4.11)
+
+See Ādi 4.20.
+
+## 179
+
+> Subheading: Kṛṣṇa's unpayable debt to the *gopīs'* love —
