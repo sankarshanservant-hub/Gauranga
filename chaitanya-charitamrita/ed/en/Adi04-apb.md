@@ -51,3 +51,15 @@ In the avatāra as Kṛṣṇa, Kṛṣṇa appeared because of the desire just 
 ## 45
 
 *Rati* full of delight (*ullāsa*) unfolds in ever more special relish. In particular cases, according to *vāsanā*, this *rati* becomes a special, supreme relish and manifests as *madhura-rasa*.
+
+## 46–50
+
+Because the sweetness of *śṛṅgāra-rasa* is greater than that of the other three *rasas*, it is called “*madhura-rasa*,” the sweet *rasa*. This *madhura-rasa* is of two kinds, *svakīya* and *pārakīya*. When *madhura-rasa* arises in the awareness that Kṛṣṇa is one's wedded husband, we call it *svakīya madhura-rasa*. When it arises in the awareness that Kṛṣṇa is an *upapati*, a paramour, we call it *pārakīya madhura-rasa*. Those who have studied *madhura-rasa* have concluded with one voice that in *pārakīya-bhāva* the delight of *madhura-rasa* is greater, and that this *rasa* abides nowhere but in Vraja. Many think that Śrī Kṛṣṇa, who eternally enjoys His pastimes in Goloka, appeared in Vraja only for a short time and there performed these pastimes in *pārakīya-bhāva*. But this is not the view of the Gosvāmīs. According to the Śrī Gosvāmīs, the pastimes in Vraja are eternal too. “Vraja” is the very name of the most intimate inner chambers of Goloka, the eternal spiritual abode. Whatever pastimes Śrī Kṛṣṇa performed when He descended into the material world, the same pastimes go on eternally in the eternal abode of Vraja. The *pārakīya-rasa* abides eternally in Vraja. Kavirāja Gosvāmī said in the third chapter: “At the end of the Dvāpara age of the twenty-eighth cycle, Kṛṣṇa appears in this world together with His Vraja” (*Caitanya-caritāmṛta*, Ādi 3.10). From the words “together with His Vraja” it is clear that in the spiritual realm there is an inconceivable abode (*pīṭha*) called “Vraja.” Together with that abode Kṛṣṇa descended into the material world by the power of His spiritual potency (*cit-śakti*). Nowhere except in this eternal Vraja, the inner chambers of Goloka, does the *pārakīya-rasa* abide, for there abides a *rasa* infinitely superior to that of Goloka. It is only that in the manifest Vraja the eyes of the *jīvas* beheld the variety of the unmanifest Vraja. The *bhāva* of the wives of Vraja reaches its limit, its utmost boundary, in Śrī Rādhā. Śrī Rādhā's love in Vraja, a mature and pure *bhāva*, is the highest of all. For through it Kṛṣṇa relishes the *rasa* of His own sweetness as fully as is at all possible. Therefore Gaurāṅga-Śrī Hari accepted that *bhāva* and fulfilled His own desire.
+
+## 51
+
+He whom the gods can hardly approach, the supreme goal of the Upaniṣads, the whole wealth of the sages, the sweetness of the hosts of devotees bowed before Him, the very essence of the love that dwells in the eyes of the young maidens of Vraja — will that Caitanyacandra ever again come before my sight?
+
+## 52
+
+Kṛṣṇa, who delights in play, relished the *rasas* of the many who love Him and wished to enjoy a certain boundless, special *madhura-rasa*. For that He hid His own complexion, accepted the radiance of Śrī Rādhā and appeared in the form of Caitanya. May He bestow on us His special mercy.

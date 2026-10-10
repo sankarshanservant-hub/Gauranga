@@ -146,6 +146,20 @@ The *Ujjvala-nīlamaṇi* says of Kṛṣṇa's *svakīyā* beloveds: “The *sv
 
 > Subheading: Of the two, Kṛṣṇa's pleasure is greatest in *parakīyā-bhāva*, and it abides only in Vraja —
 
+## 48
+
+> Subheading: *Pārakīya-bhāva* abides eternally in the beautiful women of Vraja and reaches its highest limit in Śrī Rādhā —
+
+## 50
+
+> Subheading: Accepting the *bhāva* of Śrī Rādhā, He fulfills His three desires in the form of Gaura —
+
+## 51
+
+> Subheading: (*Stava-mālā*, the first *Caitanyāṣṭaka*, verse 2)
+
+**sureśānām** (of Mahendra and the others) **durgam** (a shelter hard to approach) **upaniṣadām** (of the Upaniṣads, the crown of the Vedas) **atiśayena gatiḥ** (the supreme goal) **munīnāṁ sarva-svam** (the sole wealth of sages weary of matter) **praṇata-paṭalīnām** (of the hosts of devotees) **madhurimā** (the abode of beauty) **nikhila-paśu-pālāmbuja-dṛśām** (of all the women of Vraja) **premṇaḥ viniryāsaḥ** (the essence of love) **sa caitanyaḥ punaḥ api kiṁ me dṛśoḥ padaṁ yāsyati** (will reach)?
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
 [^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).
