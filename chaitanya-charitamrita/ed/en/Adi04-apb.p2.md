@@ -148,7 +148,7 @@ See this too: without loving service to Kṛṣṇa a pure devotee will never ac
 
 ## 211
 
-“The *gopīs* are everything to Me. They are My helpers, that is, My beloveds; they love Me as a guru does; they serve Me as disciples; I delight in their company; they love Me as friends, and they behave toward Me as wives.”
+“The *gopīs* are everything to Me. They are My helpers, that is, My beloveds; they love Me as a guru does; they serve Me as disciples; they are fit for My enjoyment; they love Me as friends, and they behave toward Me as wives.”
 
 ## 212
 
