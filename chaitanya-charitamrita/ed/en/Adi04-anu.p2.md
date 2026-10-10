@@ -118,8 +118,6 @@ Within the midday pastimes of Śrī Rādhā and Kṛṣṇa, Śrī Rādhā and V
 
 > Subheading: (*Lalita-mādhava* 8.34)
 
-## 146
-
 In Dvārakā, in Nava-Vṛndāvana, Śrī Kṛṣṇa sees His reflection in a wall of jewels and, beholding His own beauty, says:
 
 **aparikalita-pūrvaḥ** (never experienced before) **camatkāra-kārī** (causing wonder) **eṣaḥ garīyān** (this most exalted) **mama kaḥ** (My indescribable) **mādhurya-pūraḥ** (flood of sweetness, a mass of beauty) **sphurati** (appears). **ayam aham** (I, Kṛṣṇa) **api yam** (it, this image in the reflection) **prekṣya** (seeing) **rādhikā iva** (like Rādhikā) **lubdha-cetāḥ san** (with a mind full of longing) **sarabhasam** (eagerly) **upabhoktum** (to enjoy) **kāmaye** (desire).
@@ -401,8 +399,6 @@ Describing the qualities of devotees like Ambarīṣa, Śrī Bhagavān says to D
 ## 217
 
 > Subheading: In *madhura-rasa* the principal pastimes are with Śrī Rādhā; everything else only serves them —
-
-## 217
 
 Śrī Rādhikā is Śrī Kṛṣṇa's all in all. The other *gopīs* are only what serves the *rasa*: they increase the relish of Śrī Kṛṣṇa's pastimes with Rādhā.
 
