@@ -117,3 +117,13 @@
 - Пуруша → Puruṣa; Каранодакашайи, Гарбходакашайи, Кширодашайи → Kāraṇodakaśāyī, Garbhodakaśāyī, Kṣīrodaśāyī.
 - дневник Сварупы Госвами → the diary (*kaḍacā*) of Svarūpa Gosvāmī.
 - Глоссы: `- **iast** — gloss.` (IAST — из кириллической транслитерации `tools/cyr2iast.py`).
+- ашрая-виграха / вишая-виграха → *āśraya-vigraha* (the form who shelters and holds love) / *viṣaya-vigraha* (the object of love).
+- мантра-, шравана-, шикша-, чайтья-, маханта-гуру → *mantra-guru*, *śravaṇa-guru* (the guru from whom one hears),
+  *śikṣā-guru*, *caitya-guru* (the guru within the heart), *mahānta-guru*; гуру-брува → *guru-bruva* (pretender);
+  парамартхика-гуру → *pāramārthika-guru* (who guides one to the highest goal); гурудева → the guru / Śrī Gurudeva.
+- шраддха, ручи → faith (*śraddhā*), taste (*ruci*); прити → love (*prīti*); сукрити → pious merit (*sukṛti*);
+  ануграха → mercy (*anugraha*); акинчана бхакти → selfless devotion (*akiñcanā bhakti*); бхаджан → worship (*bhajana*).
+- Антарьями → the indwelling Lord (*antaryāmī*); тадия → *tadīya*, “His own”; нирвишешавадины → the impersonalists
+  (*nirviśeṣa-vādīs*); адвая-гьяна → nondual Knowledge (*advaya-jñāna*); сансара → worldly existence (*saṁsāra*).
+- джива → *jīva* (he/his); ачарья → ācārya; ачарья-вайшнав → Vaiṣṇava ācārya; свадхарма → *svadharma*, one's true duty.
+- «см. Ади 10.85» → “see Ādi 10.85”; «Ади, гл. 6» → “Ādi, Chapter 6”; разделы «Сандарбх» → (section 202).
