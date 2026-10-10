@@ -81,3 +81,39 @@ Within the midday pastimes of Śrī Rādhā and Kṛṣṇa, Śrī Rādhā and V
 > Subheading: (*Dāna-keli-kaumudī* 2)
 
 **vibhuḥ** (all-pervading) **api sadā abhivṛddhim** (increase on every side) **kalayan** (bearing), **guruḥ api** (though supreme) **gaurava-caryayā vihīnaḥ** (devoid of service out of deference, *dākṣiṇya*) (for it is born of *madhu-sneha*, affection sweet as honey and full of the feeling “He is mine”), **muhuḥ** (again and again) **upacita-vakrimā** (in which crookedness — cunning, the mark of contrariness — increases) **api śuddhaḥ** (yet pure, free of designations) **rādhikānurāgaḥ** (Śrī Rādhikā's *anurāga*) **mura-dviṣi** (for Murāri, Śrī Kṛṣṇa) **jayati** (stands supreme over all).
+
+## 132
+
+> Subheading: Kṛṣṇa is the *viṣaya* of that love, Rādhikā its *āśraya* —
+
+## 133
+
+> Subheading: The difference in the happiness of the *viṣaya* and the *āśraya* —
+
+## 134
+
+> Subheading: Seeing the greater happiness of the *āśraya*, the *viṣaya* longs to become the *āśraya* —
+
+## 137
+
+> Subheading: (2) The second desire —
+
+## 138
+
+> Subheading: Kṛṣṇa Himself is amazed and attracted by His own sweetness —
+
+## 140
+
+> Subheading: Śrī Rādhā's love is complete, yet it grows at every moment —
+
+## 142
+
+*Hoḍa kari*: rivaling.
+
+## 145
+
+> Subheading: To relish His own sweetness, He longs to take the form of Her who relishes it —
+
+## 146
+
+> Subheading: (*Lalita-mādhava* 8.34)

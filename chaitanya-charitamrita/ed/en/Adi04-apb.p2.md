@@ -38,6 +38,14 @@ This Kṛṣṇa boldly spoke of the art of love of the previous night and so ma
 
 Rādhikā's *anurāga* is *vibhu*, that is, it has reached the furthest limit, yet it is always growing; it is supremely exalted, yet it knows no deference; it is pure and spotless, yet again and again it takes crooked ways. May such *anurāga* of Rādhikā for Kṛṣṇa be glorious!
 
+## 132–135
+
+One who loves is the *āśraya*, the abode, of love; one who is loved is its *viṣaya*, the object. In the science of *rasa* there are four kinds of ingredients: *vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī*. *Vibhāva* is of two kinds: *ālambana*, the support of the emotion, and *uddīpana*, that which awakens it. *Ālambana* in turn is of two kinds: *viṣaya* and *āśraya*. The *āśraya* of Rādhā's love is Rādhikā, and the one and only *viṣaya* of that love is Kṛṣṇa. “The happiness that I, Kṛṣṇa, relish is the happiness of the *viṣaya*. But the delight, or happiness, of the *āśraya* is millions of times greater than My happiness as *viṣaya*. Only Rādhikā relishes the happiness of the *āśraya*; I, as Kṛṣṇa, cannot relish it. Only if one day I become the *āśraya* of this love shall I experience that supreme bliss, the happiness of the *āśraya*. The longing to taste love as the *āśraya* tastes it — that is My desire.”
+
+## 137–145
+
+The second desire is this. Kṛṣṇa's sweetness is wondrous, endless and unlimited. Rādhikā alone relishes this sweetness, through the love that fills Her as the *āśraya*. “The mirror of Rādhikā's pure love is spotless, yet its clarity increases at every moment. My sweetness is unlimited and so cannot increase — yet it does increase, and before the clear mirror of Rādhikā's love it shines in ever newer forms. Therefore My sweetness and Rādhā's love rival each other, each striving to surpass the other, and neither wants to yield. Seeing My own sweetness in the mirror of Rādhikā's love and in other such mirrors, I long to relish it. Out of that longing My mind runs to accept the *svarūpa* of Rādhikā.”
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.
