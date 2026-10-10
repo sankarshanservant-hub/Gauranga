@@ -19,3 +19,27 @@ When Bhagavān Kṛṣṇa Himself descended, the time had also come to remove t
 ## 20
 
 O Pārtha, in whatever way someone worships Me, in that way I become attainable to him. All people follow My path, that is, the path I have shown.
+
+## 21–22
+
+“Whoever in pure devotion feels toward Me *vātsalya* — ‘Kṛṣṇa is my son,’ *sakhya* — ‘Kṛṣṇa is my friend,’ or *madhura-bhāva* — ‘Kṛṣṇa is the lord of my life,’ — by the particular nature of his *rasa* regards Me as lower and himself as greater. To that feeling I submit.” Pure devotion (*śuddha-bhakti*) is the cultivation of service to Kṛṣṇa with a favorable intention, free from all other desires and not covered by *jñāna* and *karma*.
+
+## 23
+
+Devotion to Me is the nectar of immortality for the *jīva*. O *gopīs*! Your love for Me is the one and only cause of your attaining Me.
+
+## 28–33
+
+“In Vaikuṇṭha and elsewhere,” that is, in Vaikuṇṭha, Goloka and the other abodes, certain pastimes are not manifest. Those pastimes I shall manifest in this avatāra as Kṛṣṇa, and they will astonish even Me. My *yogamāyā*, My *svarūpa-śakti*, will by My will and by her inconceivable power awaken in the hearts of the *gopīs*, My eternal beloveds, the feeling that I am their *upapati* — a lover who is not their husband. For the fullness of *rasa* I Myself will not know this then: My inconceivable *śakti* will cover My omniscience and so produce a wonderful *rasa*. And the *gopīs*, though they are the *svarūpa-śakti* herself, will not know it either. I and My *gopīs* will steal each other's hearts by Our wonderful beauty and qualities. Then We will leave the ordinary path of *dharma*, and on the pure path of *rāga* the joy of Our meeting will dawn. Meeting and separation will come in turn, as if by the will of destiny. I will relish the very essence of all these *rasas* and then, well pleased, give it to the devotees. And this is how I will give that *rasa* to all devotees: hearing of the pure *rāga* I will manifest in Vraja, the devotees will give up *dharma* and *karma* and worship Me on the path of *rāga*.
+
+## 34
+
+To show mercy to His devotees Bhagavān manifested a human body and revealed the *rāsa* pastimes. Qualified devotees who hear of them will devote themselves to those pastimes and worship Him in them.
+
+## 35
+
+In this verse the verb *bhavet* is in the *vidhi-liṅ*, the injunctive mood. It is therefore established that this is an obligatory duty. Otherwise, that is, if one does not do it, there is *pratyavāya* — a fault.
+
+## 36
+
+In the avatāra as Kṛṣṇa, Kṛṣṇa appeared because of the desire just described, and killing the *asuras* was not His main purpose but only a secondary one. In the same way, in the avatāra as Gaura, Kṛṣṇa Caitanya is the most complete Bhagavān, and establishing the *dharma* of the age, *nāma-kīrtana*, was not His own work. But when the complete Bhagavān resolved for a certain hidden reason to descend, it so happened that the time for the *dharma* of the age arrived at that very moment. So Gaurāṅga descended for two reasons: for His hidden, internal purpose and for the external one, preaching the *dharma* of the age. Having descended, He relished *prema* and *nāma-saṅkīrtana* together with His devotees.
