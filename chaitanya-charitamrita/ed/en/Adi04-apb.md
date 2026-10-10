@@ -63,3 +63,11 @@ He whom the gods can hardly approach, the supreme goal of the Upaniṣads, the w
 ## 52
 
 Kṛṣṇa, who delights in play, relished the *rasas* of the many who love Him and wished to enjoy a certain boundless, special *madhura-rasa*. For that He hid His own complexion, accepted the radiance of Śrī Rādhā and appeared in the form of Caitanya. May He bestow on us His special mercy.
+
+## 53–54
+
+Wishing to accept the *bhāva* of Śrī Rādhā, He undertook to establish *dharma*. I shall now tell the main purpose of that undertaking. Until now I have only hinted at the verse, in order to come to the root cause.
+
+## 55
+
+The *hlādinī-śakti* is the transformation of the love of Rādhā and Kṛṣṇa; because of it Rādhā and Kṛṣṇa are one in Their own nature. But Their pastimes (*vilāsa-tattva*) are eternal, and so Rādhā and Kṛṣṇa eternally abide in two forms. Now these two *tattvas* have appeared in one form — as the Caitanya-*tattva*. Therefore I bow down to Gaurasundara, Kṛṣṇa Himself, adorned with the *bhāva* and radiance of Rādhā.

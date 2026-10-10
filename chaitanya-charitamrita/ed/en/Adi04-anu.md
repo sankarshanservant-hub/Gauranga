@@ -160,6 +160,40 @@ The *Ujjvala-nīlamaṇi* says of Kṛṣṇa's *svakīyā* beloveds: “The *sv
 
 **sureśānām** (of Mahendra and the others) **durgam** (a shelter hard to approach) **upaniṣadām** (of the Upaniṣads, the crown of the Vedas) **atiśayena gatiḥ** (the supreme goal) **munīnāṁ sarva-svam** (the sole wealth of sages weary of matter) **praṇata-paṭalīnām** (of the hosts of devotees) **madhurimā** (the abode of beauty) **nikhila-paśu-pālāmbuja-dṛśām** (of all the women of Vraja) **premṇaḥ viniryāsaḥ** (the essence of love) **sa caitanyaḥ punaḥ api kiṁ me dṛśoḥ padaṁ yāsyati** (will reach)?
 
+## 52
+
+> Subheading: (*Stava-mālā*, the second *Caitanyāṣṭaka*, verse 3)
+
+**kutukī** (He who delights in relishing *bhāvas*) **yaḥ** **kasya api praṇayi-jana-vṛndasya** (of a certain host of loving ones — the embodiments of love for Him) **kam api** (indescribable) **apāraṁ madhuraṁ rasa-stomam** **hṛtvā** **upabhoktum** (in order to relish it Himself by accepting their *bhāva*) **tadīyām** (belonging to those loving ones) **dyutim** (radiance) **prakaṭayan** (manifesting) **svām** (His own — the radiance of His form, dark as a dense rain cloud) **rucam** **āvavre** (covered), **saḥ caitanyākṛtiḥ devaḥ** (the beloved of the *gopīs*) **naḥ** (to us) **atitarāṁ kṛpayatu**.
+
+## 53–54
+
+In place of these four lines some manuscripts have six: “To accept that *bhāva*, He established *dharma*. First I shall explain the verse about the root cause. Hear now how He accepted the *bhāva*; for this I shall examine the fifth verse. Thus I have given a hint of the fifth verse; now I shall reveal the meaning of that verse.”
+
+## 55
+
+> Subheading: Explanation of the fifth of the fourteen opening verses —
+
+> Subheading: (A verse from the diary of Śrī Svarūpa Gosvāmī)
+
+**rādhā** **kṛṣṇa-praṇaya-vikṛtiḥ** (the transformation of Kṛṣṇa's love — the *hlādinī-śakti* in the form of the pastimes of love); **ekātmānau** (one in soul) **purā** (since time without beginning) **tau** (They, Rādhā and Kṛṣṇa) **bhuvi** **deha-bhedam** (the difference of two bodies — the form of the *viṣaya* and the form of the *āśraya*) **gatau** (have assumed). **adhunā** (now) **tad-dvayam** (the two of Them) **aikyam āptam** (have attained oneness). **rādhā-bhāva-dyuti-suvalitam** (*bhāva* and radiance make *bhāva-dyutī*; the *bhāva* and radiance of Rādhā — He who is joined, *suvalita*, with them: Kṛṣṇa within, Gaura without) **kṛṣṇa-svarūpam** **caitanyākhyam** **prakaṭam** (the manifest form) **naumi** (I bow down).
+
+## 56
+
+> Subheading: The explanation of the fifth verse begins; the hidden cause of the Gaura-avatāra — first, the truth of Rādhā and Kṛṣṇa —
+
+## 57
+
+> Subheading: Gaura is the form in which Rādhā and Govinda are united —
+
+## 58
+
+> Subheading: To describe the glory of the truth of Gaura, the author explains the love of Rādhā and Govinda —
+
+## 59
+
+> Subheading: The truth of Śrī Rādhā and Her relationship with Kṛṣṇa —
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
 [^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).
