@@ -826,3 +826,126 @@
   event: ev-krishna-resolves-advent-radha-bhava
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "36", to: "54"}
+
+- id: cc-0043
+  source: cc
+  ref: "Ади 4.55–72"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: PX
+  order: 370
+  title: "Пятая шлока: Радха — хладини-шакти; три аспекта чит-шакти; Радха — воплощение махабхавы"
+  summary: "Шлока Сварупы Дамодары: Радха — преображение любви к Кришне, Его хладини-шакти; единые душой, Радха и Кришна приняли два тела, а теперь соединились в Чайтанье; облик Кришны — сач-чид-ананда, и единая чит-шакти принимает три формы: хладини, сандхини и самвит (Вишну-пурана 1.12.69); суть сандхини — шуддха-саттва, из которой мать, отец, обитель и всё окружение Кришны (Бхаг. 4.3.23); суть самвит — знание о Кришне как Бхагаване; суть хладини — према, суть премы — бхава, высший предел — махабхава, воплощение которой — Шри Радха, венец возлюбленных Кришны (Уджвала-ниламани 4.3; Брахма-самхита 5.37)."
+  persons: ["@radha", "@krishna", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#goloka"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema, gaura-tattva, scripture]
+  scriptures: ["Дневник Сварупы Дамодары", "Вишну-пурана 1.12.69", "Шримад-Бхагаватам 4.3.23", "Уджвала-ниламани 4.3", "Брахма-самхита 5.37"]
+  cc: "Ади 4"
+  event: ev-tattva-radha-hladini
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "55", to: "72"}
+
+- id: cc-0044
+  source: cc
+  ref: "Ади 4.73–98"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: PX
+  order: 380
+  title: "Радха — источник всех возлюбленных Кришны; толкование стиха «деви кришна-майи»"
+  summary: "Возлюбленные Кришны трёх видов — Лакшми, царицы и гопи Враджа — распространяются от Радхи, как аватары от Кришны: Лакшми — Её вайбхава-виласы, царицы — вайбхава-пракаши, гопи — кайя-вьюха, ведь без многих возлюбленных нет ликования расы; Радха радует и очаровывает Говинду; толкование стиха Брихад-гаутамия-тантры: «деви» — сияющая красавица и обитель поклонения Кришне, «кришна-майи» — Кришна внутри и вне Её, «радхика» — исполняющая желания Кришны (Бхаг. 10.30.28), «сарва-лакшми» и «сарва-канти» — источник всех Лакшми, красоты и исполнение всех желаний Кришны; Радха — полная шакти, Кришна — полный шактиман, Они неразличны, как мускус и запах, огонь и жар, но принимают два облика ради расы игр."
+  persons: ["@radha", "@krishna"]
+  places: ["#vrindavana", "#dvaraka", "#vaikuntha"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema, scripture]
+  scriptures: ["Брихад-гаутамия-тантра", "Шримад-Бхагаватам 10.30.28"]
+  cc: "Ади 4"
+  event: ev-tattva-radha-hladini
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "73", to: "98"}
+
+- id: cc-0045
+  source: cc
+  ref: "Ади 4.99–100"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P00
+  order: 7.2
+  title: "Итог пятой шлоки: Кришна принял чувство и сияние Радхи и явился как Шри Кришна Чайтанья"
+  summary: "Чтобы научить према-бхакти, Кришна Сам низошёл, приняв и чувство, и сияние Радхи, в облике Шри Кришна Чайтаньи — таков смысл пятой шлоки."
+  persons: ["@krishna", "@radha", "@mahaprabhu"]
+  places: []
+  kind: pre-advent
+  authority: A
+  themes: [revelation]
+  bhava: [radha]
+  teaching: [gaura-tattva, prema]
+  cc: "Ади 4"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "99", to: "100"}
+
+- id: cc-0046
+  source: cc
+  ref: "Ади 4.101–111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P14
+  order: 100
+  title: "Вступление к шестой шлоке: сокровенная причина известна от Сварупы Дамодары; Господь в бхаве Радхи в последние годы"
+  summary: "Санкиртана — внешняя причина нисшествия; главное семя — собственное дело Кришны, венца расиков, трёх видов, и известно оно от Сварупы Дамодары, ближайшего спутника; сердце Господа — воплощение чувств Радхики: в последних играх Он в безумии разлуки с Кришной, как Радха при встрече с Уддхавой, ночами, обняв Сварупу за шею, говорит в бреду и раскрывает Свои чувства, а Дамодара утешает Его песнями и шлоками; подробно это будет описано позже."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@radha", "@uddhava", "@krishnadasa-kaviraja"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание: божественное безумие последних лет подробно — ЧЧ Антья 14–20."
+  themes: [ecstasy, separation, teaching]
+  bhava: [radha]
+  teaching: [gaura-tattva, prema]
+  cc: "Ади 4"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "101", to: "111"}
+
+- id: cc-0047
+  source: cc
+  ref: "Ади 4.112–120"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P00
+  order: 7.3
+  title: "Кришна во Врадже: три возраста; юность исполнена в раса-лиле, но три желания остались неисполненными"
+  summary: "Во Врадже Кришна прошёл три возраста — каумару, пауганду и кайшору; младенчество Он сделал плодотворным родительской любовью, детство — с друзьями, а в юности с Радхикой и гопи вкусил сущность расы в раса-лиле, сделав плодотворными юность, Камадеву и весь мир (Вишну-пурана 5.13.59; Бхакти-расамрита-синдху 2.1.119; Видагдха-мадхава 7.3); однако, хотя Он и старался, три Его желания так и не исполнились."
+  persons: ["@krishna", "@radha"]
+  places: ["#vrindavana"]
+  kind: pre-advent
+  authority: A
+  themes: [krishna-lila, teaching]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Вишну-пурана 5.13.59", "Бхакти-расамрита-синдху 2.1.119", "Видагдха-мадхава 7.3"]
+  cc: "Ади 4"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "112", to: "120"}
+
+- id: cc-0048
+  source: cc
+  ref: "Ади 4.121–136"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md"
+  period: P00
+  order: 7.4
+  title: "Первое желание Кришны: познать величие любви Радхи"
+  summary: "Кришна размышляет: Я — источник расы и полное блаженство, но любовь Радхики сводит Меня с ума; Радхика — Мой учитель в любви, Я — Её ученик-танцор (Говинда-лиламрита 8.77); Её вкус любви в миллионы раз больше Моего; Её любовь, как и Я, полна противоречий — всеобъемлюща и всё же растёт, велика и без гордыни, чиста и всё же лукава (Дана-кели-каумуди 2); Радхика — ашрая этой любви, Я — лишь вишая, и радость ашраи в миллионы раз больше; лишь став ашраей, Я вкушу это блаженство — и в сердце Кришны разгорается жажда этой любви."
+  persons: ["@krishna", "@radha", "@vrinda-devi"]
+  places: ["#radha-kunda"]
+  kind: pre-advent
+  authority: A
+  notes: "Три желания Кришны — толкование шестой шлоки (Ади 1.6); второе желание начинается со стиха 137 (продолжение — в следующей записи)."
+  themes: [krishna-lila, teaching]
+  bhava: [radha]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Говинда-лиламрита 8.77", "Дана-кели-каумуди 2"]
+  cc: "Ади 4"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi04.md", from: "121", to: "136"}
