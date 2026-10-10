@@ -407,6 +407,21 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   }
   .mbooks .book { padding-block: 6px; }
   .reader { padding-block: 0; }
+  /* окно чтения на телефоне: больше места тексту — без даты и возраста, кнопки меньше,
+     шапка и нижняя навигация ближе к скалкам, поля чуть уже */
+  .scroll__when { display: none; }
+  .scroll__head, .scroll__body, .scroll__foot { padding-inline: calc(var(--rw) * .155); }
+  .scroll__head { padding-top: calc(var(--rw) * .245); padding-bottom: 4px; } /* сразу под лотосом орнамента */
+  .scroll__close { top: calc(var(--rw) * .17); width: 30px; height: 30px; font-size: 19px; }
+  .scroll__lila { font-size: 14px; margin-top: 0; }
+  .scroll__title { font-size: 21px; }
+  .scroll__author { font-size: 14px; margin-bottom: 6px; }
+  .layers { gap: 4px; }
+  .layers button { font-size: 13px; padding: 1px 7px; border-radius: 5px; }
+  .scroll__body { padding-top: 8px; padding-bottom: 14px; }
+  .scroll__foot { padding-bottom: calc(var(--rw) * .2); }
+  .scroll__nav { width: 32px; height: 32px; font-size: 16px; }
+  .verse__text { font-size: 17px; }
 }
 
 /* на широком экране свиток опускается под кнопки шапки, как на макете */

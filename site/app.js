@@ -263,7 +263,7 @@
     const idx = ev.sources.findIndex(s => s.id === S.reader.src);
     const src = ev.sources[idx];
     const passages = S.reader.all ? S.reader.all[src.id] || [] : null;
-    $('r-lila').textContent = L(ev, 'title') + ' · ' + when(ev);
+    $('r-lila').innerHTML = esc(L(ev, 'title')) + `<span class="scroll__when"> · ${when(ev)}</span>`;
     $('r-title').textContent = L(src, 'title');
     $('r-author').textContent = L(src, 'author');
     $('layers').innerHTML = LAYERS.map(k => {
