@@ -65,6 +65,10 @@ ALLOW = {('dhoti_near', 'dhoti_far'): [(567, 1252), (552, 1130), (540, 1000), (5
 # Узор подложки: области слоя под верхним слоем продолжаются узором указанной области
 # (дальняя штанина сзади — основная ткань с точками, а не гладкая полоса).
 PATTERN_AS = {('dhoti_near', 'dhoti_far'): (596, 1249)}
+LINE_BY_LAYER = {'arm'}
+# Шнур уходит за предплечье у запястья; его продолжение под рукой (до края руки) —
+# дорисовка по кривизне видимого конца. Конец, направление, поворот (°/шаг 2 px).
+CORD_END, CORD_DIR, CORD_TURN, CORD_STEPS = (576.0, 719.0), (-0.75, 0.66), 1.3, 45
 # Анизотропия (масштаб по y, x): шаль продолжается под дхоти вбок, а не вниз ниже своего края.
 ANISO = {('dhoti_near', 'shawl'): (3.0, 1.0), ('dhoti_far', 'shawl'): (3.0, 1.0)}
 # Области, которые не продолжаем под другими слоями (тонкий шнур — дорисовка его пути неизвестна).
@@ -292,13 +296,20 @@ def main():
         d_bg = ndimage.distance_transform_edt(~pure_bg)
         to_bg = rest_t & ((d_bg < best_d) | (ids < 0))
         ids[to_bg] = bg_id
-        # контур по границам областей; снаружи фигуры (прозрачно) — тоже граница с фоном
-        ids_b = ids.copy()
-        ids_b[~rest_t & (alpha == 0)] = bg_id
+        # контур по границам областей; снаружи фигуры (прозрачно) — тоже граница с фоном.
+        # Под рукой внутренних контуров не рисуем (только край с фоном): стыки мелких областей
+        # шали и пояса иначе дают «лесенку» и прямоугольные рамки; открываются узкие полосы.
+        if occ_name in LINE_BY_LAYER:
+            key = np.where(ids >= 0, 10, -1)
+            key[ids == bg_id] = 1
+        else:
+            key = ids.copy()
+        key_b = key.copy()
+        key_b[~rest_t & (alpha == 0)] = 1 if occ_name in LINE_BY_LAYER else bg_id
         bnd = np.zeros((H, W), bool)
         for sh in ((0, 1), (1, 0), (0, -1), (-1, 0)):
-            nb = np.roll(ids_b, sh, axis=(0, 1))
-            bnd |= rest_t & (nb >= 0) & (nb != ids)
+            nb = np.roll(key_b, sh, axis=(0, 1))
+            bnd |= rest_t & (nb >= 0) & (nb != key)
         dline = ndimage.distance_transform_edt(~bnd)
         la = np.clip(2.0 - dline, 0, 1)
         ty, tx = np.nonzero(rest_t)
@@ -325,6 +336,44 @@ def main():
             under_mask[name][ty[k], tx[k]] = True
             full = k & (out_a >= 1)
             eff[ty[full], tx[full]] = li
+
+    # --- продолжение шнура под рукой (в слой корпуса) ---
+    cord_id = lab[NO_EXTEND_SEEDS[0][1], NO_EXTEND_SEEDS[0][0]]
+    cord_col = med[cord_id]
+    pts = []
+    p_ = np.array(CORD_END, float)
+    d_ = np.array(CORD_DIR, float)
+    d_ /= np.linalg.norm(d_)
+    th_ = np.radians(CORD_TURN)
+    rot = np.array([[np.cos(th_), -np.sin(th_)], [np.sin(th_), np.cos(th_)]])
+    for _ in range(CORD_STEPS):
+        pts.append(p_.copy())
+        p_ = p_ + 2 * d_
+        d_ = rot @ d_
+    SS = 4
+    x0c, y0c = 440, 680
+    wc, hc = 200, 140
+    pl = (np.array(pts) - [x0c, y0c]) * SS
+    pl = pl.round().astype(np.int32).reshape(-1, 1, 2)
+    m_out = np.zeros((hc * SS, wc * SS), np.uint8)
+    m_core = np.zeros_like(m_out)
+    cv2.polylines(m_out, [pl], False, 255, thickness=8 * SS, lineType=cv2.LINE_AA)
+    cv2.polylines(m_core, [pl], False, 255, thickness=4 * SS, lineType=cv2.LINE_AA)
+    a_out = cv2.resize(m_out, (wc, hc), interpolation=cv2.INTER_AREA) / 255.0
+    a_core = cv2.resize(m_core, (wc, hc), interpolation=cv2.INTER_AREA) / 255.0
+    region = (owner[y0c:y0c + hc, x0c:x0c + wc] == Z['arm'])
+    tl = layer_rgba['torso'][y0c:y0c + hc, x0c:x0c + wc]
+    a_out *= region
+    a_core *= region
+    base_a = tl[..., 3:4]
+    col = tl[..., :3] * base_a
+    col = col * (1 - a_out[..., None])                       # чёрный контур поверх
+    al = base_a[..., 0] + a_out * (1 - base_a[..., 0])
+    col = col * (1 - a_core[..., None]) + cord_col * a_core[..., None]
+    al = al * (1 - a_core) + a_core
+    tl[..., :3] = np.where(al[..., None] > 0, col / np.maximum(al, 1e-6)[..., None], 0)
+    tl[..., 3] = al
+    under_mask['torso'][y0c:y0c + hc, x0c:x0c + wc] |= (a_out > 0.05)
 
     # --- обрезка, сетки, запись ---
     rig = {'version': '0.2', 'status': 'TECHNICAL_TEST', 'canvas': [W, H],

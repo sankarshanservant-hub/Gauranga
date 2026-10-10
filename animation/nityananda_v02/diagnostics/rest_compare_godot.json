@@ -1,0 +1,9 @@
+{
+ "renderer": "Godot 4.3 gl_compatibility (Mesa llvmpipe), REST, масштаб 1:1, кадр 2",
+ "max_abs_diff": 26,
+ "mean_abs_diff": 0.4294069742400117,
+ "pixels_diff_gt_2": 17646,
+ "pixels_diff_gt_8": 5224,
+ "pixels_diff_gt_24": 1,
+ "pixels_total": 1572568
+}

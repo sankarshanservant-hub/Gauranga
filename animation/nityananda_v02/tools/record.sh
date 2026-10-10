@@ -10,10 +10,11 @@ rec() {  # имя, кадров, аргументы сцены...
   local tmp; tmp="$(mktemp -d)"
   xvfb-run -a -s "-screen 0 1400x1600x24" "$GODOT" --path . --rendering-driver opengl3 \
     --write-movie "$tmp/f.png" --fixed-fps 30 --quit-after "$frames" res://main.tscn -- "$@" 2>&1 | grep -E "ERROR|SCRIPT|Done" || true
-  ffmpeg -y -loglevel error -framerate 30 -i "$tmp/f%08d.png" -c:v libx264 -pix_fmt yuv420p -crf 22 "$OUT/$name.mp4"
+  ffmpeg -y -loglevel error -framerate 30 -i "$tmp/f%08d.png" -c:v libx264 -pix_fmt yuv420p -crf 23 "$OUT/$name.mp4"
   rm -rf "$tmp"
 }
 rec 01_walk_in_place_2cycles 72 --mode=in_place
 rec 02_walk_forward_2cycles 72 --mode=forward
 rec 03_walk_in_place_debug_slow 288 --mode=in_place --debug --slow=0.25
 rec 04_walk_forward_debug 144 --mode=forward --debug
+rec 05_walk_in_place_synth_marked 72 --mode=in_place --synth
