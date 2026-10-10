@@ -138,6 +138,25 @@ def split_body(v, vb):
         pairs.append([squash(l), None]); k += 1
     return pairs, gloss, exp
 
+# Ссылки на шастры: у ВЧД «[ШБ, 11.2.40]» -> как в изданиях писаний «(Шримад-Бхагаватам, 11.2.40)»
+REF_MAP = {'ШБ': 'Шримад-Бхагаватам', 'Шримад Бхагаватам': 'Шримад-Бхагаватам', 'Бг': 'Бхагавад-гита',
+           'Брс': 'Бхакти-расамрита-синдху', 'БРС': 'Бхакти-расамрита-синдху', 'Б.р.с': 'Бхакти-расамрита-синдху',
+           'Хари-бхакти-судходаи': 'Хари-бхакти-судходая', 'Хари-бхакти-судходайа': 'Хари-бхакти-судходая',
+           'Лалита-Мадхава': 'Лалита-мадхава', 'Говинда-лӣла̄мр̣та': 'Говинда-лиламрита',
+           'Уджжвала-ниламани': 'Уджвала-ниламани', 'Чайтанйа-чандродайа-на̄т̣ака': 'Чайтанья-чандродая-натака'}
+SPEECH = re.compile(r'сказал|говорит|обратил|взмолил|плачет|молит|спросил|ответил')
+def fix_refs(tr, log):
+    def r(m):
+        body = m.group(1).strip().rstrip(')')
+        if SPEECH.search(body) or body == 'pic': return m.group(0)
+        mm = re.match(r'^(.*?)[,\s]*(\d[\d.,\s–-]*)$', body)
+        title, num = (mm.group(1), mm.group(2).strip()) if mm else (body, '')
+        title = REF_MAP.get(title.strip(), title.strip())
+        new = '(%s)' % (title + (', ' + num if num else ''))
+        log.append((m.group(0), new)); return new
+    tr = re.sub(r'\[([^\]\[]+)\]', r, tr)
+    return re.sub(r'([”»])\.?\s*\(', r'\1. (', tr)   # «”.(…)», «”(…)» -> «”. (…)»
+
 def load_fixes(path):
     fx = []
     if not os.path.exists(path): return fx
@@ -169,6 +188,7 @@ def run(chap):
             '(перевод Вриндавана Чандры даса)', '']
     expect = 1
     rows = []
+    notes = []
     for v in verses:
         nums = v['nums']
         lab = '%d' % nums[0] if len(nums) == 1 else '%d–%d' % (nums[0], nums[-1])
@@ -225,9 +245,15 @@ def run(chap):
             il.append(a)
             if b: il.append(b)
         out.append('  \n'.join(il)); out.append('')
+        rl = []; tr = fix_refs(tr, rl)
+        for a, b in rl: autofix.append((lab, 'tr', 'ссылка %s' % a, b))
+        for f in fixes:     # @N note: => текст редакторской сноски
+            if f['f'] == 'note' and f['n'] in (key, str(nums[0])):
+                notes.append('[^%s]: %s' % (key, f['new'])); tr += '[^%s]' % key; f['used'] += 1
         out.append('(%s) %s' % (lab, tr)); out.append('')
         rows.append({'lab': lab, 'nums': nums, 'bn': bn, 'pairs': pairs, 'exp': exp, 'tr': tr})
         # проверка транслитерации и бенгальского против vedabase
+    if notes: out += ['---', ''] + [x + '\n' for x in notes]
     md = '\n'.join(out).rstrip() + '\n'
     od = os.path.join(ROOT, 'ed')
     for d in ('vcd', 'review'): os.makedirs(os.path.join(od, d), exist_ok=True)
