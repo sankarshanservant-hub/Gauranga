@@ -178,3 +178,26 @@
   themes: [teaching, krishna-lila]
   teaching: [gaura-tattva, yuga-dharma, prema, holy-name]
   notes: "Внешняя причина нисхождения: завершив игры во Врадже, Кришна видит, что мир знает лишь поклонение по правилам в сознании величия, и решает Сам ввести нама-санкиртану и учить бхакти примером. Ср. ev-tattva-gaura-external-cause (толкование шлоки Ади 1.4) и внутреннюю причину — ev-krishna-resolves-advent-radha-bhava."
+
+# Ади 4 — сокровенные причины явления Шри Чайтаньи (толкование шлок Ади 1.5–6).
+- id: ev-tattva-krishna-advent-reasons
+  title: "Причины нисшествия Кришны: снятие бремени Земли — побочное, главное — вкусить сущность расы и дать миру рага-маргу"
+  title_en: "Why Krishna descends: removing the earth's burden is secondary; the chief reasons are to taste the essence of rasa and to give the world the path of raga"
+  period: PX
+  order: 114
+  cc: "Ади 4.1–35"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva, prema]
+  notes: "Богословская тема, не эпизод жизни: в полном Бхагаване соединяются все аватары, и убийство демонов совершает Вишну в Его теле; любовь, ослабленная сознанием величия, Кришну не покоряет — Его покоряет чистая любовь Враджа (Бхаг. 10.33.36). Ср. ev-krishna-resolves-to-give-vraja-prema (Ади 3) и ev-krishna-resolves-advent-radha-bhava."
+
+- id: ev-tattva-radha-hladini
+  title: "Радха-таттва: Радха — хладини-шакти и махабхава, источник всех возлюбленных Кришны; Радха и Кришна едины"
+  title_en: "Radha-tattva: Radha is the hladini-shakti and mahabhava, the source of all Krishna's beloveds; Radha and Krishna are one"
+  period: PX
+  order: 115
+  cc: "Ади 4.55–98"
+  cb: ""
+  themes: [teaching]
+  teaching: [prema, scripture]
+  notes: "Богословская тема, не эпизод жизни: толкование шлоки Сварупы Дамодары (Ади 1.5): три аспекта чит-шакти (хладини, сандхини, самвит), шуддха-саттва, према — бхава — махабхава; Лакшми, царицы и гопи — проявления Радхи; толкование стиха «деви кришна-майи» (Брихад-гаутамия-тантра)."
