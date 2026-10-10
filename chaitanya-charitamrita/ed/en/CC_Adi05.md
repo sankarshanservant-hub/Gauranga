@@ -1276,183 +1276,233 @@ the sun  surpassing  of jewels  hosts  make  glittering
 যাঁর একফণে রহে সর্ষপ-আকার ॥ ১১৯ ॥
 
 pañcāśat-koṭi-yojana pṛthivī vistāra  
-yāṅra eka-phaṇe rahe sarṣapa-ākāra
+fifty  crores  of yojanas  of the earth  the expanse  
+yāṅra eka-phaṇe rahe sarṣapa-ākāra  
+whose  on one hood  rests  a mustard seed  in size
 
-(119) [not yet translated]
+(119) The earth, fifty crores of *yojanas* in extent, rests on one of His hoods like a mustard seed.
 
 সেই ত’ ‘অনন্ত’ ‘শেষ’ — ভক্ত-অবতার ৷  
 ঈশ্বরের সেবা বিনা নাহি জানে আর ॥ ১২০ ॥
 
 sei ta’ ‘ananta’ ‘śeṣa’ — bhakta-avatāra  
-īśvarera sevā vinā nāhi jāne āra
+that  indeed  Ananta  Śeṣa  the devotee  avatāra  
+īśvarera sevā vinā nāhi jāne āra  
+of the Lord  service  except  not  He knows  anything else
 
-(120) [not yet translated]
+(120) That Ananta Śeṣa is the avatāra who appears as a devotee (*bhakta-avatāra*). He knows nothing but service to the Lord.
 
 সহস্র-বদনে করে কৃষ্ণগুণ গান ৷  
 নিরবধি গুণ গান, অন্ত নাহি পা’ন ॥ ১২১ ॥
 
 sahasra-vadane kare kṛṣṇa-guṇa gāna  
-niravadhi guṇa gāna, anta nāhi pā’na
+with a thousand mouths  He does  of Kṛṣṇa's qualities  singing  
+niravadhi guṇa gāna, anta nāhi pā’na  
+without cease  the qualities  singing  the end  not  He finds
 
-(121) [not yet translated]
+(121) With His thousand mouths He sings the qualities of Kṛṣṇa. He sings them without cease, yet never reaches their end.
 
 সনকাদি ভাগবত শুনে যার মুখে ৷  
 ভগবানের গুণ কহে, ভাসে প্রেমসুখে ॥ ১২২ ॥
 
 sanakādi bhāgavata śune yāra mukhe  
-bhagavānera guṇa kahe, bhāse prema-sukhe
+Sanaka and the others  the Bhāgavata  hear  whose  from the mouth  
+bhagavānera guṇa kahe, bhāse prema-sukhe  
+of the Lord  the qualities  He tells  He floats  in the joy of love
 
-(122) [not yet translated]
+(122) Sanaka and the other Kumāras hear the Bhāgavatam from His mouth. He tells the qualities of the Lord and floats in the joy of love.
 
 ছত্র, পাদুকা, শয়্যা, উপাধান, বসন ৷  
 আরাম, আবাস, যজ্ঞসূত্র, সিংহাসন ॥ ১২৩ ॥
 
 chatra, pādukā, śayyā, upādhāna, vasana  
-ārāma, āvāsa, yajña-sūtra, siṁhāsana
+umbrella  sandals  bed  pillow  garments  
+ārāma, āvāsa, yajña-sūtra, siṁhāsana  
+resting place  dwelling  sacred thread  throne
 
-(123) [not yet translated]
+(123) Umbrella, sandals, bed, pillow, garments, resting place, dwelling, sacred thread and throne —
 
 এত মূর্ত্তি-ভেদ করি’ কৃষ্ণসেবা করে ৷  
 কৃষ্ণের শেষতা পাঞা ‘শেষ’ নাম ধরে ॥ ১২৪ ॥
 
 eta mūrti-bheda kari’ kṛṣṇa-sevā kare  
-kṛṣṇera śeṣatā pāñā ‘śeṣa’ nāma dhare
+so many  forms  distinct  assuming  service to Kṛṣṇa  He does  
+kṛṣṇera śeṣatā pāñā ‘śeṣa’ nāma dhare  
+of Kṛṣṇa  the state of a śeṣa  attaining  Śeṣa  the name  He bears
 
-(124) [not yet translated]
+(124) in all these different forms He serves Kṛṣṇa. Having become Kṛṣṇa's *śeṣa*, one who exists wholly for Him, He bears the name Śeṣa.
 
 সেই ত’ অনন্ত, যাঁর কহি এক কলা ৷  
 হেন প্রভু নিত্যানন্দ, কে জানে তাঁর খেলা ॥ ১২৫ ॥
 
 sei ta’ ananta, yāṅra kahi eka kalā  
-hena prabhu nityānanda, ke jāne tāṅra khelā
+that  indeed  Ananta  whose  I call  one  portion  
+hena prabhu nityānanda, ke jāne tāṅra khelā  
+such  Lord  Nityānanda  who  knows  His  play
 
-(125) [not yet translated]
+(125) That Ananta, I say, is but one portion of Him. Such is Lord Nityānanda — who can know His play?
 
 এসব প্রমাণে জানি নিত্যানন্দতত্ত্বসীমা ৷  
 তাঁহাকে ‘অনন্ত’ কহি, কি তাঁর মহিমা ॥ ১২৬ ॥
 
 esaba pramāṇe jāni nityānanda-tattva-sīmā  
-tāṅhāke ‘ananta’ kahi, ki tāṅra mahimā
+by all these  proofs  I know  of the truth of Nityānanda  the full extent  
+tāṅhāke ‘ananta’ kahi, ki tāṅra mahimā  
+Him  Ananta  I call  what  His  glory
 
-(126) [not yet translated]
+(126) By all these proofs I know the full extent of the truth about Nityānanda. I call Him Ananta — but what glory of His does that express?
 
 অথবা ভক্তের বাক্য মানি সত্য করি’ ৷  
 সকল সম্ভবে তাঁতে, যাতে অবতারী ॥ ১২৭ ॥
 
 athavā bhaktera vākya māni satya kari’  
-sakala sambhave tāṅte, yāte avatārī
+or else  of the devotees  the words  I accept  as true  taking  
+sakala sambhave tāṅte, yāte avatārī  
+all  is possible  in Him  since  the source of avatāras
 
-(127) [not yet translated]
+(127) Or else I accept the words of the devotees as true: everything is possible in Him, since He is the source of the avatāras.
 
 অবতার-অবতারী — অভেদ, যে জানে ৷  
 পূর্ব্বে যৈছে কৃষ্ণকে কেহো কাহো করি’ মানে ॥ ১২৮ ॥
 
 avatāra-avatārī — abheda, ye jāne  
-pūrve yaiche kṛṣṇake keho kāho kari’ māne
+avatāra  and the source of avatāras  non-different  who  knows  
+pūrve yaiche kṛṣṇake keho kāho kari’ māne  
+before  just as  Kṛṣṇa  someone  as someone  taking  regarded
 
-(128) [not yet translated]
+(128) Those who know understand that an avatāra and the source of the avatāras are not different. So it was before, when people regarded Kṛṣṇa as one avatāra or another.
 
 কেহো কহে, কৃষ্ণ সাক্ষাৎ নরনারায়ণ ৷  
 কেহো কহে, কৃষ্ণ হয় সাক্ষাৎ বামন ॥ ১২৯ ॥
 
 keho kahe, kṛṣṇa sākṣāt nara-nārāyaṇa  
-keho kahe, kṛṣṇa haya sākṣāt vāmana
+some  say  Kṛṣṇa  directly  Nara-Nārāyaṇa  
+keho kahe, kṛṣṇa haya sākṣāt vāmana  
+some  say  Kṛṣṇa  is  directly  Vāmana
 
-(129) [not yet translated]
+(129) Some said Kṛṣṇa was Nara-Nārāyaṇa Himself; others said Kṛṣṇa was Vāmana Himself.
 
 কেহো কহে, কৃষ্ণ ক্ষীরোদশায়ী-অবতার ৷  
 অসম্ভব নহে, সত্য বচন সবার ॥ ১৩০ ॥
 
 keho kahe, kṛṣṇa kṣīroda-śāyī-avatāra  
-asambhava nahe, satya vacana sabāra
+some  say  Kṛṣṇa  of Kṣīrodaśāyī  the avatāra  
+asambhava nahe, satya vacana sabāra  
+impossible  it is not  true  the words  of all
 
-(130) [not yet translated]
+(130) Still others said that Kṛṣṇa was the avatāra of Kṣīrodaśāyī. None of this is impossible; the words of all of them are true.
 
 কৃষ্ণ যবে অবতরে সর্ব্বাংশ-আশ্রয় ৷  
 সর্ব্বাংশ আসি’ তবে কৃষ্ণেতে মিলয় ॥ ১৩১ ॥
 
 kṛṣṇa yabe avatare sarvāṁśa-āśraya  
-sarvāṁśa āsi’ tabe kṛṣṇete milaya
+Kṛṣṇa  when  descends  of all portions  the shelter  
+sarvāṁśa āsi’ tabe kṛṣṇete milaya  
+all the portions  coming  then  in Kṛṣṇa  unite
 
-(131) [not yet translated]
+(131) When Kṛṣṇa, the shelter of all portions, descends, all His portions come and unite in Him.
 
 যেই যেই রূপে জানে, সেই তাহা কহে ৷  
 সকল সম্ভবে কৃষ্ণে, কিছু মিথ্যা নহে ॥ ১৩২ ॥
 
 yei yei rūpe jāne, sei tāhā kahe  
-sakala sambhave kṛṣṇe, kichu mithyā nahe
+in whichever  whichever  form  one knows  that one  that  says  
+sakala sambhave kṛṣṇe, kichu mithyā nahe  
+all  is possible  in Kṛṣṇa  anything  false  is not
 
-(132) [not yet translated]
+(132) Each describes Him in the form in which he knows Him. Everything is possible in Kṛṣṇa; nothing of it is false.
 
 অতএব শ্রীকৃষ্ণচৈতন্য গোসাঞি ৷  
 সর্ব্ব-অবতার-লীলা করি’ সবারে দেখাই ॥ ১৩৩ ॥
 
 ataeva śrī-kṛṣṇa-caitanya gosāñi  
-sarva-avatāra-līlā kari’ sabāre dekhāi
+therefore  Śrī Kṛṣṇa Caitanya  Gosāñi  
+sarva-avatāra-līlā kari’ sabāre dekhāi  
+of all  avatāras  the pastimes  performing  to everyone  showed
 
-(133) [not yet translated]
+(133) Therefore Śrī Kṛṣṇa Caitanya Gosāñi performed the pastimes of all the avatāras and showed them to everyone.
 
 এইরূপে নিত্যানন্দ ‘অনন্ত’ প্রকাশ ৷  
 সেইভাবে — কহে মুঞি চৈতন্যের দাস ॥ ১৩৪ ॥
 
 ei-rūpe nityānanda ‘ananta’ prakāśa  
-sei-bhāve — kahe muñi caitanyera dāsa
+in this way  Nityānanda  as Ananta  manifest  
+sei-bhāve — kahe muñi caitanyera dāsa  
+in that mood  says  I  Caitanya's  servant
 
-(134) [not yet translated]
+(134) In this way Nityānanda is manifest as Ananta, and in that mood He says, “I am Caitanya's servant.”
 
 কভু গুরু, কভু সখা, কভু ভৃত্য-লীলা ৷  
 পূর্ব্বে যেন তিনভাবে ব্রজে কৈল খেলা ॥ ১৩৫ ॥
 
 kabhu guru, kabhu sakhā, kabhu bhṛtya-līlā  
-pūrve yena tina-bhāve vraje kaila khelā
+sometimes  guru  sometimes  friend  sometimes  servant  pastime  
+pūrve yena tina-bhāve vraje kaila khelā  
+before  as  in three moods  in Vraja  He played
 
-(135) [not yet translated]
+(135) Sometimes He plays as the Lord's guru, sometimes as His friend, sometimes as His servant — just as before, in Vraja, He played in these three moods.
 
 বৃষ হঞা কৃষ্ণসনে মাথামাথি রণ ৷  
 কভু কৃষ্ণ করে তাঁর পাদ সম্বাহন ॥ ১৩৬ ॥
 
 vṛṣa hañā kṛṣṇa-sane māthā-māthi raṇa  
-kabhu kṛṣṇa kare tāṅra pāda samvāhana
+a bull  becoming  with Kṛṣṇa  head against head  fight  
+kabhu kṛṣṇa kare tāṅra pāda samvāhana  
+sometimes  Kṛṣṇa  does  His  feet  massaging
 
-(136) [not yet translated]
+(136) Becoming a bull, He would fight with Kṛṣṇa head to head; and sometimes Kṛṣṇa would massage His feet.
 
 আপনাকে ভৃত্য করি’ কৃষ্ণে প্রভু জানে ৷  
 কৃষ্ণের কলার কলা আপনাকে মানে ॥ ১৩৭ ॥
 
 āpanāke bhṛtya kari’ kṛṣṇe prabhu jāne  
-kṛṣṇera kalāra kalā āpanāke māne
+Himself  a servant  considering  Kṛṣṇa  as master  He knows  
+kṛṣṇera kalāra kalā āpanāke māne  
+of Kṛṣṇa  of a portion  a portion  Himself  He considers
 
-(137) [not yet translated]
+(137) Considering Himself a servant, He knows Kṛṣṇa as His master and regards Himself as a portion of a portion of Kṛṣṇa.
 
 বৃষায়মাণৌ নর্দ্দন্তৌ যুয়ুধাতে পরস্পরম্ ৷  
 অনুকৃত্য রুতৈর্জন্তূংশ্চেরতুঃ প্রাকৃতৌ যথা ॥ ১৩৮ ॥
 
 vṛṣāyamāṇau nardantau  
+pretending to be bulls  bellowing  
 yuyudhāte parasparam  
+They fought  with each other  
 anukṛtya rutair jantūṁś  
-ceratuḥ prākṛtau yathā
+imitating  with their cries  the animals  
+ceratuḥ prākṛtau yathā  
+They roamed  ordinary boys  like
 
-(138) [not yet translated]
+(138) “Pretending to be bulls and bellowing, the two fought each other; imitating the cries of the animals, They roamed about like ordinary boys.” (Śrīmad-Bhāgavatam 10.11.40)
 
 ক্বচিৎ ক্রীড়া-পরিশ্রান্তং গোপোৎসঙ্গোপবর্হণম্ ৷  
 স্বয়ং বিশ্রাময়ত্যার্য্যং পাদসম্বাহনাদিভিঃ ॥ ১৩৯ ॥
 
 kvacit krīḍā-pariśrāntaṁ  
+sometimes  from play  tired  
 gopotsaṅgopabarhaṇam  
+a cowherd boy's lap  as His pillow  
 svayaṁ viśrāmayaty āryaṁ  
-pāda-saṁvāhanādibhiḥ
+Himself  refreshes  His elder brother  
+pāda-saṁvāhanādibhiḥ  
+by massaging His feet  and other services
 
-(139) [not yet translated]
+(139) “Sometimes, when His elder brother was tired from play and lay with His head on a cowherd boy's lap, Kṛṣṇa Himself would refresh Him by massaging His feet and with other services.” (Śrīmad-Bhāgavatam 10.15.14)
 
 কেয়ং বা কুত আয়াতা দৈবী বা নার্য্যুতাসুরী ৷  
 প্রায়ো মায়াস্তু মে ভর্ত্তুর্নান্যা মেঽপি বিমোহিনী ॥ ১৪০ ॥
 
 keyaṁ vā kuta āyātā  
+who is she  or  from where  has come  
 daivī vā nāry utāsurī  
+divine  or  human  or else demonic  
 prāyo māyāstu me bhartur  
-nānyā me ’pi vimohinī
+most likely  the māyā  let it be  of My  master  
+nānyā me ’pi vimohinī  
+no other  Me  even  could bewilder
 
-(140) [not yet translated]
+(140) [Balarāma thought:] “Who is she, and where has she come from? Is she divine, human or demonic? Most likely she is the māyā of My master, Kṛṣṇa; no other could bewilder even Me.” (Śrīmad-Bhāgavatam 10.13.37)
 
 যস্যাঙ্ঘ্রিপঙ্কজরজোঽখিললোক-পালৈ-  
 র্মৌল্যুত্তমৈর্ধৃতমুপাসিত-তীর্থতীর্থম্ ৷  
@@ -1460,27 +1510,35 @@ nānyā me ’pi vimohinī
 শ্রীশ্চোদ্বহেম চিরমস্য নৃপাসনং ক্ব ॥ ১৪১ ॥
 
 yasyāṅghri-paṅkaja-rajo ’khila-loka-pālair  
+whose  feet  lotus  the dust  of all the worlds  by the rulers  
 mauly-uttamair dhṛtam upāsita-tīrtha-tīrtham  
+on crowns  finest  is borne  worshiped  of holy places  the holy place  
 brahmā bhavo ’ham api yasya kalāḥ kalāyāḥ  
-śrīś codvahema ciram asya nṛpāsanaṁ kva
+Brahmā  Śiva  I  also  whose  portions  of a portion  
+śrīś codvahema ciram asya nṛpāsanaṁ kva  
+Śrī  and  we carry  forever  His  a king's throne  where
 
-(141) [not yet translated]
+(141) [Baladeva said:] “The rulers of all the worlds bear the dust of His lotus feet on their finest crowns; that dust is worshiped as the holy place of all holy places. Brahmā, Śiva, I Myself and Śrī, the goddess of fortune, are portions of His portion, and we carry it on our heads forever. What, then, is a king's throne to Him?” (Śrīmad-Bhāgavatam 10.68.37)
 
 একলা ঈশ্বর কৃষ্ণ, আর সব ভৃত্য ৷  
 যারে যৈছে নাচায়, সে তৈছে করে নৃত্য ॥ ১৪২ ॥
 
 ekalā īśvara kṛṣṇa, āra saba bhṛtya  
-yāre yaiche nācāya, se taiche kare nṛtya
+alone  the Lord  Kṛṣṇa  the rest  all  servants  
+yāre yaiche nācāya, se taiche kare nṛtya  
+whom  as  He makes dance  that one  so  does  dance
 
-(142) [not yet translated]
+(142) Kṛṣṇa alone is the Lord; all others are His servants. As He makes each one dance, so each one dances.
 
 এই মত চৈতন্যগোসাঞি একলা ঈশ্বর ৷  
 আর সব পারিষদ, কেহ বা কিঙ্কর ॥ ১৪৩ ॥
 
 ei mata caitanyagosāñi ekalā īśvara  
-āra saba pāriṣada, keha vā kiṅkara
+in the same way  Caitanya Gosāñi  alone  the Lord  
+āra saba pāriṣada, keha vā kiṅkara  
+the rest  all  associates  some  or  servants
 
-(143) [not yet translated]
+(143) In the same way Caitanya Gosāñi alone is the Lord; all others are His associates or His servants.
 
 গুরুবর্গ, — নিত্যানন্দ, অদ্বৈত আচার্য্য ৷  
 শ্রীবাসাদি, আর যত — লঘু, সম, আর্য্য ॥ ১৪৪ ॥
@@ -1489,83 +1547,105 @@ ei mata caitanyagosāñi ekalā īśvara
 সবা লঞা নিজ-কার্য্য সাধে গৌর-রায় ॥ ১৪৫ ॥
 
 guru-varga, — nityānanda, advaita ācārya  
+the elders  Nityānanda  Advaita  Ācārya  
 śrīvāsādi, āra yata — laghu, sama, ārya  
+Śrīvāsa and others  and  all  younger  equal  senior  
 sabe pāriṣada, sabe līlāra sahāya  
-sabā lañā nija-kārya sādhe gaura-rāya
+all  associates  all  of the pastimes  helpers  
+sabā lañā nija-kārya sādhe gaura-rāya  
+all  taking  His own purpose  accomplishes  Gaura Rāya
 
-(144–145) [not yet translated]
+(144–145) His elders — Nityānanda, Advaita Ācārya, Śrīvāsa and others — and all the rest, whether younger, equal or senior, are His associates and helpers in His pastimes. With all of them Lord Gaura accomplishes His purpose.
 
 অদ্বৈত আচার্য্য, নিত্যানন্দ, — দুই অঙ্গ ৷  
 দুইজন লঞা প্রভুর যত কিছু রঙ্গ ॥ ১৪৬ ॥
 
 advaita ācārya, nityānanda, — dui aṅga  
-dui-jana lañā prabhura yata kichu raṅga
+Advaita  Ācārya  Nityānanda  two  limbs  
+dui-jana lañā prabhura yata kichu raṅga  
+the two  taking  of the Lord  all  whatever  pastimes
 
-(146) [not yet translated]
+(146) Advaita Ācārya and Nityānanda are His two limbs. With these two the Lord enjoys all His pastimes.
 
 অদ্বৈত-আচার্য্য-গোসাঞি সাক্ষাৎ ঈশ্বর ৷  
 প্রভু, গুরু করি’ মানে, তিঁহো ত’ কিঙ্কর ॥ ১৪৭ ॥
 
 advaita-ācārya-gosāñi sākṣāt īśvara  
-prabhu, guru kari’ māne, tiṅho ta’ kiṅkara
+Advaita Ācārya  Gosāñi  directly  the Lord  
+prabhu, guru kari’ māne, tiṅho ta’ kiṅkara  
+Mahāprabhu  as guru  regarding  honors  He  indeed  a servant
 
-(147) [not yet translated]
+(147) Advaita Ācārya Gosāñi is the Lord Himself. Mahāprabhu honors Him as His guru, yet Advaita is His servant.
 
 আচার্য্য-গোসাঞির তত্ত্ব না যায় কথন ৷  
 কৃষ্ণ অবতারিয়া যেঁহো তারিল ভুবন ॥ ১৪৮ ॥
 
 ācārya-gosāñira tattva nā yāya kathana  
-kṛṣṇa avatāriyā yeṅho tārila bhuvana
+of Ācārya Gosāñi  the truth  not  can be  told  
+kṛṣṇa avatāriyā yeṅho tārila bhuvana  
+Kṛṣṇa  bringing down  who  delivered  the world
 
-(148) [not yet translated]
+(148) The truth of Ācārya Gosāñi cannot be told. He brought Kṛṣṇa down and delivered the world.
 
 নিত্যানন্দস্বরূপ পূর্ব্বে হইয়া লক্ষ্মণ ৷  
 লঘুভ্রাতা হৈয়া করে রামের সেবন ॥ ১৪৯ ॥
 
 nityānanda-svarūpa pūrve haiyā lakṣmaṇa  
-laghu-bhrātā haiyā kare rāmera sevana
+Nityānanda  Svarūpa  formerly  becoming  Lakṣmaṇa  
+laghu-bhrātā haiyā kare rāmera sevana  
+younger  brother  becoming  does  to Rāma  service
 
-(149) [not yet translated]
+(149) Formerly Nityānanda Svarūpa became Lakṣmaṇa and, as His younger brother, served Rāma.
 
 রামের চরিত্র সব, — দুঃখের কারণ ৷  
 স্বতন্ত্র লীলায় দুঃখ সহেন লক্ষ্মণ ॥ ১৫০ ॥
 
 rāmera caritra saba, — duḥkhera kāraṇa  
-svatantra līlāya duḥkha sahena lakṣmaṇa
+of Rāma  the deeds  all  of sorrow  the cause  
+svatantra līlāya duḥkha sahena lakṣmaṇa  
+of His own will  in the pastime  sorrows  bears  Lakṣmaṇa
 
-(150) [not yet translated]
+(150) All of Rāma's deeds were a source of sorrow, and in those pastimes, which Rāma chose freely, Lakṣmaṇa bore the sorrow.
 
 নিষেধ করিতে নারে, যাতে ছোট ভাই ৷  
 মৌন ধরি’ রহে লক্ষ্মণ মনে দুঃখ পাই’ ॥ ১৫১ ॥
 
 niṣedha karite nāre, yāte choṭa bhāi  
-mauna dhari’ rahe lakṣmaṇa mane duḥkha pāi’
+objection  to make  He could not  because  younger  brother  
+mauna dhari’ rahe lakṣmaṇa mane duḥkha pāi’  
+silence  keeping  remains  Lakṣmaṇa  in His mind  pain  feeling
 
-(151) [not yet translated]
+(151) Being the younger brother, He could not object. Lakṣmaṇa kept silent and bore the pain within His heart.
 
 কৃষ্ণ-অবতারে জ্যেষ্ঠ হৈলা সেবার কারণ ৷  
 কৃষ্ণকে করাইল নানা সুখ আস্বাদন ॥ ১৫২ ॥
 
 kṛṣṇa-avatāre jyeṣṭha hailā sevāra kāraṇa  
-kṛṣṇake karāila nānā sukha āsvādana
+in Kṛṣṇa's descent  the elder  He became  of service  for the sake  
+kṛṣṇake karāila nānā sukha āsvādana  
+Kṛṣṇa  He made  various  joys  to taste
 
-(152) [not yet translated]
+(152) When Kṛṣṇa descended, He became the elder brother in order to serve Him, and He made Kṛṣṇa taste many kinds of joy.
 
 রাম-লক্ষ্মণ — কৃষ্ণ-রামের অংশবিশেষ ৷  
 অবতার-কালে দোঁহে দোঁহাতে প্রবেশ ॥ ১৫৩ ॥
 
 rāma-lakṣmaṇa — kṛṣṇa-rāmera aṁśa-viśeṣa  
-avatāra-kāle doṅhe doṅhāte praveśa
+Rāma  Lakṣmaṇa  of Kṛṣṇa  and Balarāma  particular portions  
+avatāra-kāle doṅhe doṅhāte praveśa  
+of the descent  at the time  both  into both  entering
 
-(153) [not yet translated]
+(153) Rāma and Lakṣmaṇa are particular portions of Kṛṣṇa and Balarāma. At the time of the descent the two enter into these two.
 
 সেই অংশ লঞা জ্যেষ্ঠ-কনিষ্ঠাভিমান ৷  
 অংশাংশী রূপে শাস্ত্রে করয়ে ব্যাখ্যান ॥ ১৫৪ ॥
 
 sei aṁśa lañā jyeṣṭha-kaniṣṭhābhimāna  
-aṁśāṁśī rūpe śāstre karaye vyākhyāna
+those  portions  taking  of elder  and younger  the sense  
+aṁśāṁśī rūpe śāstre karaye vyākhyāna  
+as portion and source  in scripture  is made  the explanation
 
-(154) [not yet translated]
+(154) Because of these portions the two take the roles of elder and younger brother, while scripture explains Them as the portion and the source of the portion.
 
 রামাদিমূর্ত্তিষু কলানিয়মেন তিষ্ঠন্  
 নানাবতারমকরোদ্ভুবনেষু কিন্তু ৷  
@@ -1573,509 +1653,639 @@ aṁśāṁśī rūpe śāstre karaye vyākhyāna
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ১৫৫ ॥
 
 rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan  
+in Rāma and other  forms  by His portions  in order  abiding  
 nānāvatāram akarod bhuvaneṣu kintu  
+various  descents  He made  in the worlds  but  
 kṛṣṇaḥ svayaṁ samabhavat paramaḥ pumān yo  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+Kṛṣṇa  Himself  appeared  the Supreme  Person  who  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(155) [not yet translated]
+(155) “I worship Govinda, the original Person, who, abiding in His portions in Rāma and other forms, descended in many avatāras in the worlds, but who Himself appeared as Kṛṣṇa, the Supreme Person.” (Brahma-saṁhitā 5.39)
 
 শ্রীচৈতন্য — সেই কৃষ্ণ, নিত্যানন্দ — রাম ৷  
 নিত্যানন্দ পূর্ণ করে চৈতন্যের কাম ॥ ১৫৬ ॥
 
 śrī-caitanya — sei kṛṣṇa, nityānanda — rāma  
-nityānanda pūrṇa kare caitanyera kāma
+Śrī Caitanya  that  Kṛṣṇa  Nityānanda  Balarāma  
+nityānanda pūrṇa kare caitanyera kāma  
+Nityānanda  fulfillment  does  Caitanya's  of the desires
 
-(156) [not yet translated]
+(156) Śrī Caitanya is that Kṛṣṇa, and Nityānanda is Balarāma. Nityānanda fulfills all of Caitanya's desires.
 
 নিত্যানন্দ-মহিমা-সিন্ধু অনন্ত, অপার ৷  
 এক কণা স্পর্শি মাত্র, — সে কৃপা তাঁহার ॥ ১৫৭ ॥
 
 nityānanda-mahimā-sindhu ananta, apāra  
-eka kaṇā sparśi mātra, — se kṛpā tāṅhāra
+of Nityānanda's glory  the ocean  endless  shoreless  
+eka kaṇā sparśi mātra, — se kṛpā tāṅhāra  
+one  drop  I touch  only  that  mercy  His
 
-(157) [not yet translated]
+(157) The ocean of Nityānanda's glory is endless and without a shore. I have touched only one drop of it, and that only by His mercy.
 
 আর এক শুন তাঁর কৃপার মহিমা ৷  
 অধম জীবেরে চড়াইল ঊর্দ্ধ্ব সীমা ॥ ১৫৮ ॥
 
 āra eka śuna tāṅra kṛpāra mahimā  
-adhama jīvere caḍāila ūrddhva sīmā
+one more  hear  His  of mercy  the glory  
+adhama jīvere caḍāila ūrddhva sīmā  
+a fallen  soul  He raised  to the highest  limit
 
-(158) [not yet translated]
+(158) Hear one more glory of His mercy: He raised a fallen soul to the highest limit.
 
 বেদগুহ্য কথা এই অয়োগ্য কহিতে ৷  
 তথাপি কহিয়ে তাঁর কৃপা প্রকাশিতে ॥ ১৫৯ ॥
 
 veda-guhya kathā ei ayogya kahite  
-tathāpi kahiye tāṅra kṛpā prakāśite
+hidden in the Vedas  account  this  improper  to tell  
+tathāpi kahiye tāṅra kṛpā prakāśite  
+nevertheless  I tell  His  mercy  to reveal
 
-(159) [not yet translated]
+(159) It is not fitting to tell this account, which is as hidden as the Vedas. Still I tell it, to reveal His mercy.
 
 উল্লাস-উপরি লেখোঁ তোমার প্রসাদ ৷  
 নিত্যানন্দ প্রভু, মোর ক্ষম অপরাধ ॥ ১৬০ ॥
 
 ullāsa-upari lekhoṅ tomāra prasāda  
-nityānanda prabhu, mora kṣama aparādha
+in overflowing joy  I write  Your  grace  
+nityānanda prabhu, mora kṣama aparādha  
+Nityānanda  Lord  my  forgive  offense
 
-(160) [not yet translated]
+(160) In overflowing joy I write of Your grace. O Lord Nityānanda, forgive my offense!
 
 অবধূত গোসাঞির এক ভৃত্য প্রেমধাম ৷  
 মীনকেতন রামদাস হয় তাঁর নাম ॥ ১৬১ ॥
 
 avadhūta gosāñira eka bhṛtya prema-dhāma  
-mīnaketana rāmadāsa haya tāṅra nāma
+of the Avadhūta  Gosāñi  one  servant  of love  the abode  
+mīnaketana rāmadāsa haya tāṅra nāma  
+Mīnaketana  Rāmadāsa  is  his  name
 
-(161) [not yet translated]
+(161) Avadhūta Gosāñi had a servant who was an abode of love. His name was Mīnaketana Rāmadāsa.
 
 আমার আলয়ে অহোরাত্র-সঙ্কীর্ত্তন ৷  
 তাহাতে আইলা তিঁহো পাঞা নিমন্ত্রণ ॥ ১৬২ ॥
 
 āmāra ālaye aho-rātra-saṅkīrtana  
-tāhāte āilā tiṅho pāñā nimantraṇa
+in my  house  day and night  saṅkīrtana  
+tāhāte āilā tiṅho pāñā nimantraṇa  
+to that  came  he  receiving  an invitation
 
-(162) [not yet translated]
+(162) In my house there was *saṅkīrtana* day and night, and he came to it at my invitation.
 
 মহাপ্রেমময় তিঁহো বসিলা অঙ্গনে ৷  
 সকল বৈষ্ণব তাঁর বন্দিলা চরণে ॥ ১৬৩ ॥
 
 mahā-prema-maya tiṅho vasilā aṅgane  
-sakala vaiṣṇava tāṅra vandilā caraṇe
+with great love  filled  he  sat  in the courtyard  
+sakala vaiṣṇava tāṅra vandilā caraṇe  
+all  Vaiṣṇavas  his  bowed  at the feet
 
-(163) [not yet translated]
+(163) Filled with great love, he sat in the courtyard, and all the Vaiṣṇavas bowed at his feet.
 
 নমস্কার করিতে, কা’র উপরেতে চড়ে ৷  
 প্রেমে কা’রে বংশী মারে, কাহাকে চাপড়ে ॥ ১৬৪ ॥
 
 namaskāra karite, kā’ra uparete caḍe  
-preme kā’re vaṁśī māre, kāhāke cāpaḍe
+obeisance  while offering  whose  upon  he climbs  
+preme kā’re vaṁśī māre, kāhāke cāpaḍe  
+in love  whom  with his flute  strikes  whom  slaps
 
-(164) [not yet translated]
+(164) As they offered him obeisances, in his love he would climb on one man's back, strike another with his flute, and slap another.
 
 যে নয়ন দেখিতে অশ্রু হয় মনে যার ৷  
 সেই নেত্রে অবিচ্ছিন্ন বহে অশ্রুধার ॥ ১৬৫ ॥
 
 ye nayana dekhite aśru haya mane yāra  
-sei netre avicchinna vahe aśru-dhāra
+which  eyes  seeing  tears  come  in the mind  whose  
+sei netre avicchinna vahe aśru-dhāra  
+from those  eyes  unbroken  flows  of tears  a stream
 
-(165) [not yet translated]
+(165) From his eyes flowed an unbroken stream of tears, and whoever saw those eyes had tears in his own heart.
 
 কভু কোন অঙ্গে দেখি পুলক-কদম্ব ৷  
 এক অঙ্গে জাড়্য তাঁর, আর অঙ্গে কম্প ॥ ১৬৬ ॥
 
 kabhu kona aṅge dekhi pulaka-kadamba  
-eka aṅge jāḍya tāṅra, āra aṅge kampa
+sometimes  on some  limb  I see  hair standing on end like kadamba buds  
+eka aṅge jāḍya tāṅra, āra aṅge kampa  
+on one  limb  stiffness  his  on another  limb  trembling
 
-(166) [not yet translated]
+(166) Sometimes I saw the hair on some limb of his body stand erect like the buds of a *kadamba* flower; one limb would be stiff, while another trembled.
 
 নিত্যানন্দ বলি’ যবে করেন হুঙ্কার ৷  
 তাহা দেখি’ লোকের হয় মহা-চমৎকার ॥ ১৬৭ ॥
 
 nityānanda bali’ yabe karena huṅkāra  
-tāhā dekhi’ lokera haya mahā-camatkāra
+Nityānanda  calling  when  he makes  a loud roar  
+tāhā dekhi’ lokera haya mahā-camatkāra  
+that  seeing  of the people  is  great  astonishment
 
-(167) [not yet translated]
+(167) When he called out “Nityānanda!” with a loud roar, the people who saw it were struck with wonder.
 
 গুণার্ণব মিশ্র নামে এক বিপ্র আর্য্য ৷  
 শ্রীমূর্ত্তি-নিকটে তেঁহো করে সেবা-কার্য্য ॥ ১৬৮ ॥
 
 guṇārṇava miśra nāme eka vipra ārya  
-śrī-mūrti-nikaṭe teṅho kare sevā-kārya
+Guṇārṇava  Miśra  by name  a  brāhmaṇa  respectable  
+śrī-mūrti-nikaṭe teṅho kare sevā-kārya  
+the Deity  near  he  does  service
 
-(168) [not yet translated]
+(168) A respectable brāhmaṇa named Guṇārṇava Miśra was serving near the Deity.
 
 অঙ্গনে আসিয়া তেঁহো না কৈল সম্ভাষ ৷  
 তাহা দেখি’ ক্রুদ্ধ হঞা বলে রামদাস ॥ ১৬৯ ॥
 
 aṅgane āsiyā teṅho nā kaila sambhāṣa  
-tāhā dekhi’ kruddha hañā bale rāmadāsa
+into the courtyard  on his coming  he  not  made  greeting  
+tāhā dekhi’ kruddha hañā bale rāmadāsa  
+that  seeing  angry  becoming  says  Rāmadāsa
 
-(169) [not yet translated]
+(169) When Rāmadāsa came into the courtyard, the brāhmaṇa did not greet him. Seeing this, Rāmadāsa became angry and said:
 
 এই ত’ দ্বিতীয় সূত রোমহরষণ ৷  
 বলদেব দেখি’ যে না কৈল প্রত্যুদ্গম ॥ ১৭০ ॥
 
 ei ta’ dvitīya sūta romaharaṣaṇa  
-baladeva dekhi’ ye nā kaila pratyudgama
+this  indeed  a second  Sūta  Romaharṣaṇa  
+baladeva dekhi’ ye nā kaila pratyudgama  
+Baladeva  seeing  who  not  made  rising to greet
 
-(170) [not yet translated]
+(170) “Here is a second Romaharṣaṇa Sūta, who did not rise to greet Baladeva when he saw Him!”
 
 এত বলি’ নাচে গায়, করয়ে সন্তোষ ৷  
 কৃষ্ণকার্য্য করে বিপ্র — না করিল রোষ ॥ ১৭১ ॥
 
 eta bali’ nāce gāya, karaye santoṣa  
-kṛṣṇa-kārya kare vipra — nā karila roṣa
+so  saying  he dances  sings  shows  delight  
+kṛṣṇa-kārya kare vipra — nā karila roṣa  
+for Kṛṣṇa  service  does  the brāhmaṇa  not  he showed  anger
 
-(171) [not yet translated]
+(171) Having said this, he danced and sang in delight. The brāhmaṇa was engaged in Kṛṣṇa's service, and so he showed no anger.
 
 উৎসবান্তে গেলা তিঁহো করিয়া প্রসাদ ৷  
 মোর ভ্রাতা-সনে তাঁর কিছু হৈল বাদ ॥ ১৭২ ॥
 
 utsavānte gelā tiṅho kariyā prasāda  
-mora bhrātā-sane tāṅra kichu haila vāda
+at the festival's end  went  he  bestowing  his blessings  
+mora bhrātā-sane tāṅra kichu haila vāda  
+my  brother  with  his  some  there was  dispute
 
-(172) [not yet translated]
+(172) When the festival was over, he bestowed his blessings and was about to leave. Then a dispute arose between him and my brother.
 
 চৈতন্য-প্রভুতে তাঁর সুদৃঢ় বিশ্বাস ৷  
 নিত্যানন্দ-প্রতি তাঁর বিশ্বাস-আভাস ॥ ১৭৩ ॥
 
 caitanya-prabhute tāṅra sudṛḍha viśvāsa  
-nityānanda-prati tāṅra viśvāsa-ābhāsa
+in Caitanya  the Lord  his  firm  faith  
+nityānanda-prati tāṅra viśvāsa-ābhāsa  
+toward Nityānanda  his  a semblance of faith
 
-(173) [not yet translated]
+(173) My brother had firm faith in Lord Caitanya, but toward Nityānanda he had only a semblance of faith.
 
 ইহা জানি’ রামদাসের দুঃখ হৈল মনে ৷  
 তবে ত’ ভ্রাতারে আমি করিনু ভর্ৎসনে ॥ ১৭৪ ॥
 
 ihā jāni’ rāmadāsera duḥkha haila mane  
-tabe ta’ bhrātāre āmi karinu bhartsane
+this  knowing  of Rāmadāsa  pain  was  in the mind  
+tabe ta’ bhrātāre āmi karinu bhartsane  
+then  indeed  my brother  I  did  rebuke
 
-(174) [not yet translated]
+(174) Knowing this, Rāmadāsa was pained at heart. Then I rebuked my brother:
 
 দুই ভাই একতনু — সমান-প্রকাশ ৷  
 নিত্যানন্দ না মান’, তোমার হবে সর্ব্বনাশ ॥ ১৭৫ ॥
 
 dui bhāi eka-tanu — samāna-prakāśa  
-nityānanda nā māna’, tomāra habe sarva-nāśa
+two  brothers  one body  equal  manifestation  
+nityānanda nā māna’, tomāra habe sarva-nāśa  
+Nityānanda  not  you honor  your  will be  ruin
 
-(175) [not yet translated]
+(175) “The two brothers are one body and equal manifestations. If you do not honor Nityānanda, you will be ruined.
 
 একেতে বিশ্বাস, অন্যে না কর সম্মান ৷  
 ‘অর্ধকুক্কুটী-ন্যায়’ তোমার প্রমাণ ॥ ১৭৬ ॥
 
 ekete viśvāsa, anye nā kara sammāna  
-‘ardha-kukkuṭī-nyāya’ tomāra pramāṇa
+in one  faith  to the other  not  you show  respect  
+‘ardha-kukkuṭī-nyāya’ tomāra pramāṇa  
+of the half-hen  the logic  your  standard
 
-(176) [not yet translated]
+(176) You have faith in one, but you show no respect to the other. Your standard is the logic of half a hen (*ardha-kukkuṭī-nyāya*).
 
 কিংবা, দোঁহা না মানিঞা হও ত’ পাষণ্ড ৷  
 একে মানি’ আরে না মানি, — এইমত ভণ্ড ॥ ১৭৭ ॥
 
 kiṁvā, doṅhā nā māniñā hao ta’ pāṣaṇḍa  
-eke māni’ āre nā māni, — ei-mata bhaṇḍa
+or else  both  not  accepting  be  then  an unbeliever  
+eke māni’ āre nā māni, — ei-mata bhaṇḍa  
+one  accepting  the other  not  accepting  this way  a hypocrite
 
-(177) [not yet translated]
+(177) Better reject both and be an unbeliever. Accepting one and rejecting the other — that is hypocrisy.”
 
 ক্রুদ্ধ হৈয়া বংশী ভাঙ্গি’ চলে রামদাস ৷  
 তৎকালে আমার ভ্রাতার হৈল সর্ব্বনাশ ॥ ১৭৮ ॥
 
 kruddha haiyā vaṁśī bhāṅgi’ cale rāmadāsa  
-tat-kāle āmāra bhrātāra haila sarva-nāśa
+angry  becoming  his flute  breaking  goes  Rāmadāsa  
+tat-kāle āmāra bhrātāra haila sarva-nāśa  
+at that time  my  brother's  there was  complete  ruin
 
-(178) [not yet translated]
+(178) Rāmadāsa broke his flute in anger and left. At that very moment my brother's ruin was complete.
 
 এই ত’ কহিল তাঁর সেবক-প্রভাব ৷  
 আর এক কহি তাঁর দয়ার স্বভাব ॥ ১৭৯ ॥
 
 ei ta’ kahila tāṅra sevaka-prabhāva  
-āra eka kahi tāṅra dayāra svabhāva
+thus  indeed  I have told  His  servant's  power  
+āra eka kahi tāṅra dayāra svabhāva  
+one more  I tell  His  of compassion  the nature
 
-(179) [not yet translated]
+(179) Thus I have told the power of His servant. Now I tell one more thing, about the nature of His compassion.
 
 ভাইকে ভর্ৎসিনু মুঞি, লঞা এই গুণ ৷  
 সেই রাত্রে প্রভু মোরে দিলা দরশন ॥ ১৮০ ॥
 
 bhāike bhartsinu muñi, lañā ei guṇa  
-sei rātre prabhu more dilā daraśana
+my brother  rebuked  I  taking  this  merit  
+sei rātre prabhu more dilā daraśana  
+that  night  the Lord  to me  gave  His sight
 
-(180) [not yet translated]
+(180) I had rebuked my brother, and, taking this as a merit in me, the Lord appeared to me that very night.
 
 নৈহাটি-নিকটে ‘ঝামটপুর’ নামে গ্রাম ৷  
 তাঁহা স্বপ্নে দেখা দিলা নিত্যানন্দ-রাম ॥ ১৮১ ॥
 
 naihāṭi-nikaṭe ‘jhāmaṭapura’ nāme grāma  
-tāṅhā svapne dekhā dilā nityānanda-rāma
+Naihāṭi  near  Jhāmaṭapura  named  a village  
+tāṅhā svapne dekhā dilā nityānanda-rāma  
+there  in a dream  appeared  Nityānanda-Rāma
 
-(181) [not yet translated]
+(181) In the village named Jhāmaṭapura, near Naihāṭi, Nityānanda-Rāma appeared to me in a dream.
 
 দণ্ডবৎ হৈয়া আমি পড়িনু পায়েতে ৷  
 নিজপাদপদ্ম প্রভু দিলা মোর মাথে ॥ ১৮২ ॥
 
 daṇḍavat haiyā āmi paḍinu pāyete  
-nija-pāda-padma prabhu dilā mora māthe
+like a rod  becoming  I  fell  at His feet  
+nija-pāda-padma prabhu dilā mora māthe  
+His own  lotus feet  the Lord  placed  on my  head
 
-(182) [not yet translated]
+(182) I fell at His feet like a rod, and the Lord placed His own lotus feet on my head.
 
 ‘উঠ’, ‘উঠ’ বলি’ মোরে বলে বার বার ৷  
 উঠি’ তাঁর রূপ দেখি’ হৈনু চমৎকার ॥ ১৮৩ ॥
 
 ‘uṭha’, ‘uṭha’ bali’ more bale bāra bāra  
-uṭhi’ tāṅra rūpa dekhi’ hainu camatkāra
+get up  get up  saying  to me  He says  again and again  
+uṭhi’ tāṅra rūpa dekhi’ hainu camatkāra  
+rising  His  form  seeing  I was  amazed
 
-(183) [not yet translated]
+(183) “Get up, get up!” He told me again and again. When I rose and saw His form, I was struck with wonder.
 
 শ্যাম-চিক্কণ কান্তি, প্রকাণ্ড শরীর ৷  
 সাক্ষাৎ কন্দর্প, যৈছে মহামল্ল-বীর ॥ ১৮৪ ॥
 
 śyāma-cikkaṇa kānti, prakāṇḍa śarīra  
-sākṣāt kandarpa, yaiche mahā-malla-vīra
+dark and glossy  luster  massive  body  
+sākṣāt kandarpa, yaiche mahā-malla-vīra  
+directly  Kandarpa  like  a great  wrestler  hero
 
-(184) [not yet translated]
+(184) His complexion was dark and glossy, His body massive. He was Kandarpa, the god of love, in person, and like a mighty wrestler and hero.
 
 সুবলিত হস্ত, পদ, কমল-লোচন ৷  
 পট্টবস্ত্র শিরে, পট্টবস্ত্র পরিধান ॥ ১৮৫ ॥
 
 suvalita hasta, pada, kamala-locana  
-paṭṭa-vastra śire, paṭṭa-vastra paridhāna
+shapely  hands  feet  lotus  eyes  
+paṭṭa-vastra śire, paṭṭa-vastra paridhāna  
+silk cloth  on His head  silk cloth  garment
 
-(185) [not yet translated]
+(185) His hands and feet were shapely and His eyes like lotuses. He wore silk on His head and was dressed in silk.
 
 সুবর্ণ-কুণ্ডল কর্ণে, স্বর্ণাঙ্গদ-বালা ৷  
 পায়েতে নূপুর বাজে, কণ্ঠে পুষ্পমালা ॥ ১৮৬ ॥
 
 suvarṇa-kuṇḍala karṇe, svarṇāṅgada-vālā  
-pāyete nūpura bāje, kaṇṭhe puṣpa-mālā
+golden  earrings  in His ears  golden armlets  bracelets  
+pāyete nūpura bāje, kaṇṭhe puṣpa-mālā  
+on His feet  anklets  jingle  on His neck  a flower  garland
 
-(186) [not yet translated]
+(186) Golden earrings hung from His ears; He wore golden armlets and bracelets. Anklets jingled on His feet, and a garland of flowers hung around His neck.
 
 চন্দন লেপিত অঙ্গ, তিলক সুঠাম ৷  
 মত্ত-গজ জিনি’ মদ-মন্থর পয়ান ॥ ১৮৭ ॥
 
 candana lepita aṅga, tilaka suṭhāma  
-matta-gaja jini’ mada-manthara payāna
+with sandalwood paste  smeared  body  tilaka  graceful  
+matta-gaja jini’ mada-manthara payāna  
+an intoxicated  elephant  surpassing  with intoxication  slow  gait
 
-(187) [not yet translated]
+(187) His body was smeared with sandalwood paste, and His *tilaka* was graceful. His slow gait, heavy with intoxication, surpassed that of an intoxicated elephant.
 
 কোটিচন্দ্র-জিনি’ মুখ উজ্জ্বল-বরণ ৷  
 দাড়িম্ব-বীজ-সম দন্ত তাম্বূল-চর্ব্বণ ॥ ১৮৮ ॥
 
 koṭi-candra-jini’ mukha ujjvala-varaṇa  
-dāḍimba-bīja-sama danta tāmbūla-carvaṇa
+millions of moons  surpassing  face  bright  in color  
+dāḍimba-bīja-sama danta tāmbūla-carvaṇa  
+of pomegranate  seeds  like  teeth  betel  chewing
 
-(188) [not yet translated]
+(188) His face, brighter than millions of moons, shone with radiant color. He was chewing betel, and His teeth were like pomegranate seeds.
 
 প্রেমে মত্ত অঙ্গ ডাহিনে বামে দোলে ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ বলিয়া গম্ভীর বোল বলে ॥ ১৮৯ ॥
 
 preme matta aṅga ḍāhine vāme dole  
-‘kṛṣṇa’ ‘kṛṣṇa’ baliyā gambhīra bola bale
+in love  intoxicated  body  to the right  to the left  sways  
+‘kṛṣṇa’ ‘kṛṣṇa’ baliyā gambhīra bola bale  
+Kṛṣṇa  Kṛṣṇa  saying  deep  words  He speaks
 
-(189) [not yet translated]
+(189) Intoxicated with love, His body swayed right and left, and in a deep voice He called, “Kṛṣṇa! Kṛṣṇa!”
 
 রাঙ্গা-যষ্টি-হস্তে দোলে যেন মত্ত সিংহ ৷  
 চারি পাশে বেড়ি আছে চরণেতে ভৃঙ্গ ॥ ১৯০ ॥
 
 rāṅgā-yaṣṭi-haste dole yena matta siṁha  
-cāri pāśe veḍi āche caraṇete bhṛṅga
+a red  staff  in His hand  He sways  like  a maddened  lion  
+cāri pāśe veḍi āche caraṇete bhṛṅga  
+on four  sides  surrounding  are  at His feet  bees
 
-(190) [not yet translated]
+(190) With a red staff in His hand He swayed like a maddened lion, and bees surrounded His feet on all sides.
 
 পারিষদগণে দেখি’ সব গোপ-বেশে ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে সবে সপ্রেম আবেশে ॥ ১৯১ ॥
 
 pāriṣada-gaṇe dekhi’ saba gopa-veśe  
-‘kṛṣṇa’ ‘kṛṣṇa’ kahe sabe saprema āveśe
+the associates  I see  all  in cowherd  dress  
+‘kṛṣṇa’ ‘kṛṣṇa’ kahe sabe saprema āveśe  
+Kṛṣṇa  Kṛṣṇa  say  all  with love  absorbed
 
-(191) [not yet translated]
+(191) I saw His associates, all in the dress of cowherds. All were calling, “Kṛṣṇa! Kṛṣṇa!” absorbed in love.
 
 শিঙ্গা বাঁশী বাজায় কেহ, কেহ নাচে গায় ৷  
 সেবক যোগায় তাম্বূল, চামর ঢুলায় ॥ ১৯২ ॥
 
 śiṅgā vāṅśī bājāya keha, keha nāce gāya  
-sevaka yogāya tāmbūla, cāmara ḍhulāya
+horns  flutes  plays  someone  someone  dances  sings  
+sevaka yogāya tāmbūla, cāmara ḍhulāya  
+a servant  offers  betel  a cāmara  waves
 
-(192) [not yet translated]
+(192) Some played horns and flutes; some danced and sang. A servant offered betel, and another waved a *cāmara*.
 
 নিত্যানন্দ-স্বরূপের দেখিয়া বৈভব ৷  
 কিবা রূপ, গুণ, লীলা — অলৌকিক সব ॥ ১৯৩ ॥
 
 nityānanda-svarūpera dekhiyā vaibhava  
-kibā rūpa, guṇa, līlā — alaukika saba
+of Nityānanda Svarūpa  seeing  the splendor  
+kibā rūpa, guṇa, līlā — alaukika saba  
+what  form  qualities  pastimes  beyond this world  all
 
-(193) [not yet translated]
+(193) So I beheld the splendor of Nityānanda Svarūpa. What form, what qualities, what pastimes — all beyond this world!
 
 আনন্দে বিহ্বল আমি, কিছু নাহি জানি ৷  
 তবে হাসি’ প্রভু মোরে কহিলেন বাণী ॥ ১৯৪ ॥
 
 ānande vihvala āmi, kichu nāhi jāni  
-tabe hāsi’ prabhu more kahilena vāṇī
+in bliss  overwhelmed  I  anything  not  I know  
+tabe hāsi’ prabhu more kahilena vāṇī  
+then  smiling  the Lord  to me  spoke  words
 
-(194) [not yet translated]
+(194) Overwhelmed with bliss, I was aware of nothing. Then the Lord smiled and spoke to me:
 
 আরে আরে কৃষ্ণদাস, না করহ ভয় ৷  
 বৃন্দাবনে যাহ, — তাঁহা সর্ব্ব লভ্য হয় ॥ ১৯৫ ॥
 
 āre āre kṛṣṇadāsa, nā karaha bhaya  
-vṛndāvane yāha, — tāṅhā sarva labhya haya
+O  O  Kṛṣṇadāsa  not  have  fear  
+vṛndāvane yāha, — tāṅhā sarva labhya haya  
+to Vṛndāvana  go  there  everything  attainable  is
 
-(195) [not yet translated]
+(195) “O Kṛṣṇadāsa, do not be afraid! Go to Vṛndāvana; there you will attain everything.”
 
 এত বলি’ প্রেরিলা মোরে হাতসান দিয়া ৷  
 অন্তর্দ্ধান কৈল প্রভু নিজগণ লঞা ॥ ১৯৬ ॥
 
 eta bali’ prerilā more hātasāna diyā  
-antardhāna kaila prabhu nija-gaṇa lañā
+so  saying  He sent  me  a beckoning of the hand  giving  
+antardhāna kaila prabhu nija-gaṇa lañā  
+disappearance  made  the Lord  His own associates  taking
 
-(196) [not yet translated]
+(196) Saying this, He sent me off with a sign of His hand, and the Lord disappeared together with His associates.
 
 মূর্চ্ছিত হইয়া মুঞি পড়িনু ভূমিতে ৷  
 স্বপ্নভঙ্গ হৈল, দেখি, হঞাছে প্রভাতে ॥ ১৯৭ ॥
 
 mūrcchita haiyā muñi paḍinu bhūmite  
-svapna-bhaṅga haila, dekhi, hañāche prabhāte
+unconscious  becoming  I  fell  to the ground  
+svapna-bhaṅga haila, dekhi, hañāche prabhāte  
+of the dream  the breaking  was  I see  it has become  morning
 
-(197) [not yet translated]
+(197) I fell unconscious to the ground. Then the dream broke, and I saw that morning had come.
 
 কি দেখিনু কি শুনিনু, করিয়ে বিচার ৷  
 প্রভু-আজ্ঞা হৈল বৃন্দাবন যাইবার ॥ ১৯৮ ॥
 
 ki dekhinu ki śuninu, kariye vicāra  
-prabhu-ājñā haila vṛndāvana yāibāra
+what  I saw  what  I heard  I make  reflection  
+prabhu-ājñā haila vṛndāvana yāibāra  
+the Lord's order  was  to Vṛndāvana  to go
 
-(198) [not yet translated]
+(198) I reflected on what I had seen and heard: the Lord had ordered me to go to Vṛndāvana.
 
 সেইক্ষণে বৃন্দাবনে করিনু গমন ৷  
 প্রভুর কৃপাতে সুখে আইনু বৃন্দাবন ॥ ১৯৯ ॥
 
 sei kṣaṇe vṛndāvane karinu gamana  
-prabhura kṛpāte sukhe āinu vṛndāvana
+at that  moment  to Vṛndāvana  I made  departure  
+prabhura kṛpāte sukhe āinu vṛndāvana  
+by the Lord's  mercy  happily  I came  to Vṛndāvana
 
-(199) [not yet translated]
+(199) That very moment I set out for Vṛndāvana, and by the Lord's mercy I reached Vṛndāvana happily.
 
 জয় জয় নিত্যানন্দ, নিত্যানন্দ-রাম ৷  
 যাঁহার কৃপাতে পাইনু বৃন্দাবন-ধাম ॥ ২০০ ॥
 
 jaya jaya nityānanda, nityānanda-rāma  
-yāṅhāra kṛpāte pāinu vṛndāvana-dhāma
+glory  glory  to Nityānanda  to Nityānanda-Rāma  
+yāṅhāra kṛpāte pāinu vṛndāvana-dhāma  
+by whose  mercy  I attained  Vṛndāvana  the abode
 
-(200) [not yet translated]
+(200) Glory, glory to Nityānanda, to Nityānanda-Rāma, by whose mercy I attained the abode of Vṛndāvana!
 
 জয় জয় নিত্যানন্দ, জয় কৃপাময় ৷  
 যাঁহা হৈতে পাইনু রূপ-সনাতনাশ্রয় ॥ ২০১ ॥
 
 jaya jaya nityānanda, jaya kṛpā-maya  
-yāṅhā haite pāinu rūpa-sanātanāśraya
+glory  glory  to Nityānanda  glory  to the merciful one  
+yāṅhā haite pāinu rūpa-sanātanāśraya  
+from whom  I attained  of Rūpa and Sanātana  the shelter
 
-(201) [not yet translated]
+(201) Glory, glory to Nityānanda! Glory to the merciful Lord, from whom I attained the shelter of Rūpa and Sanātana!
 
 যাঁহা হৈতে পাইনু রঘুনাথ-মহাশয় ৷  
 যাঁহা হৈতে পাইনু শ্রীস্বরূপ-আশ্রয় ॥ ২০২ ॥
 
 yāṅhā haite pāinu raghunātha-mahāśaya  
-yāṅhā haite pāinu śrī-svarūpa-āśraya
+from whom  I attained  Raghunātha  the great soul  
+yāṅhā haite pāinu śrī-svarūpa-āśraya  
+from whom  I attained  of Śrī Svarūpa  the shelter
 
-(202) [not yet translated]
+(202) From Him I attained the great soul Raghunātha; from Him I attained the shelter of Śrī Svarūpa.
 
 সনাতন-কৃপায় পাইনু ভক্তির সিদ্ধান্ত ৷  
 শ্রীরূপ-কৃপায় পাইনু ভক্তিরসপ্রান্ত ॥ ২০৩ ॥
 
 sanātana-kṛpāya pāinu bhaktira siddhānta  
-śrī-rūpa-kṛpāya pāinu bhakti-rasa-prānta
+by Sanātana's mercy  I attained  of bhakti  the conclusions  
+śrī-rūpa-kṛpāya pāinu bhakti-rasa-prānta  
+by Śrī Rūpa's mercy  I attained  of bhakti-rasa  the furthest limit
 
-(203) [not yet translated]
+(203) By Sanātana's mercy I attained the conclusions of *bhakti*; by Śrī Rūpa's mercy I attained the furthest reaches of *bhakti-rasa*.
 
 জয় জয় নিত্যানন্দ-চরণারবিন্দ ৷  
 যাঁহা হৈতে পাইনু শ্রীরাধাগোবিন্দ ॥ ২০৪ ॥
 
 jaya jaya nityānanda-caraṇāravinda  
-yāṅhā haite pāinu śrī-rādhā-govinda
+glory  glory  to Nityānanda's  lotus feet  
+yāṅhā haite pāinu śrī-rādhā-govinda  
+from which  I attained  Śrī Rādhā-Govinda
 
-(204) [not yet translated]
+(204) Glory, glory to the lotus feet of Nityānanda, by which I attained Śrī Rādhā-Govinda!
 
 জগাই মাধাই হৈতে মুঞি সে পাপিষ্ঠ ৷  
 পুরীষের কীট হৈতে মুঞি সে লঘিষ্ঠ ॥ ২০৫ ॥
 
 jagāi mādhāi haite muñi se pāpiṣṭha  
-purīṣera kīṭa haite muñi se laghiṣṭha
+Jagāi  Mādhāi  than  I  am  more sinful  
+purīṣera kīṭa haite muñi se laghiṣṭha  
+of excrement  the worm  than  I  am  lower
 
-(205) [not yet translated]
+(205) I am more sinful than Jagāi and Mādhāi, and lower than a worm in excrement.
 
 মোর নাম শুনে যেই তার পুণ্য ক্ষয় ৷  
 মোর নাম লয় যেই তার পাপ হয় ॥ ২০৬ ॥
 
 mora nāma śune yei tāra puṇya kṣaya  
-mora nāma laya yei tāra pāpa haya
+my  name  hears  whoever  his  pious credit  is destroyed  
+mora nāma laya yei tāra pāpa haya  
+my  name  takes  whoever  his  sin  occurs
 
-(206) [not yet translated]
+(206) Whoever hears my name loses his pious merit; whoever utters my name incurs sin.
 
 এমন নির্ঘৃণ্য মোরে কেবা কৃপা করে ৷  
 এক-নিত্যানন্দ বিনু জগৎ ভিতরে ॥ ২০৭ ॥
 
 emana nirghṛṇya more kebā kṛpā kare  
-eka-nityānanda vinu jagat bhitare
+such  a despicable one  to me  who  mercy  shows  
+eka-nityānanda vinu jagat bhitare  
+the one Nityānanda  except  the world  within
 
-(207) [not yet translated]
+(207) Who in all the world would show mercy to someone as despicable as me, except Nityānanda alone?
 
 প্রেমে মত্ত নিত্যানন্দ কৃপা-অবতার ৷  
 উত্তম, অধম, কিছু না করে বিচার ॥ ২০৮ ॥
 
 preme matta nityānanda kṛpā-avatāra  
-uttama, adhama, kichu nā kare vicāra
+with love  intoxicated  Nityānanda  of mercy  the avatāra  
+uttama, adhama, kichu nā kare vicāra  
+high  low  any  not  He makes  distinction
 
-(208) [not yet translated]
+(208) Nityānanda, intoxicated with love, is the avatāra of mercy. He makes no distinction between the high and the low.
 
 যে আগে পড়য়ে, তারে করয়ে নিস্তার ৷  
 অতএব নিস্তারিলা মো-হেন দুরাচার ॥ ২০৯ ॥
 
 ye āge paḍaye, tāre karaye nistāra  
-ataeva nistārilā mo-hena durācāra
+whoever  before Him  falls  him  He makes  delivered  
+ataeva nistārilā mo-hena durācāra  
+therefore  He delivered  like me  a wicked person
 
-(209) [not yet translated]
+(209) Whoever falls before Him, He delivers. Therefore He delivered even a wicked person like me.
 
 মো-পাপিষ্ঠে আনিলেন শ্রীবৃন্দাবন ৷  
 মো-হেন অধমে দিলা শ্রীরূপচরণ ॥ ২১০ ॥
 
 mo-pāpiṣṭhe ānilena śrī-vṛndāvana  
-mo-hena adhame dilā śrī-rūpa-caraṇa
+me  the most sinful  He brought  to Śrī Vṛndāvana  
+mo-hena adhame dilā śrī-rūpa-caraṇa  
+to one like me  fallen  He gave  Śrī Rūpa's  feet
 
-(210) [not yet translated]
+(210) He brought me, the most sinful, to Śrī Vṛndāvana, and to a fallen soul like me He gave the feet of Śrī Rūpa.
 
 শ্রীমদনগোপাল-শ্রীগোবিন্দ-দরশন ৷  
 কহিবার যোগ্য নহে এসব কথন ॥ ২১১ ॥
 
 śrī-madana-gopāla-śrī-govinda-daraśana  
-kahibāra yogya nahe esaba kathana
+of Śrī Madana-gopāla  of Śrī Govinda  the sight  
+kahibāra yogya nahe esaba kathana  
+to be told  fit  is not  all this  account
 
-(211) [not yet translated]
+(211) The sight of Śrī Madana-gopāla and Śrī Govinda — all this is not fit to be told.
 
 বৃন্দাবন-পুরন্দর শ্রীমদনগোপাল ৷  
 রাসবিলাসী সাক্ষাৎ ব্রজেন্দ্রকুমার ॥ ২১২ ॥
 
 vṛndāvana-purandara śrī-madana-gopāla  
-rāsa-vilāsī sākṣāt vrajendra-kumāra
+of Vṛndāvana  the lord  Śrī Madana-gopāla  
+rāsa-vilāsī sākṣāt vrajendra-kumāra  
+in the rāsa  the enjoyer  directly  of the king of Vraja  the son
 
-(212) [not yet translated]
+(212) Śrī Madana-gopāla is the lord of Vṛndāvana. He enjoys the *rāsa* dance; He is the son of the king of Vraja Himself.
 
 শ্রীরাধা-ললিতা-সঙ্গে রাস-বিলাস ৷  
 মন্মথ-মন্মথরূপে যাঁহার প্রকাশ ॥ ২১৩ ॥
 
 śrī-rādhā-lalitā-saṅge rāsa-vilāsa  
-manmatha-manmatha-rūpe yāṅhāra prakāśa
+Śrī Rādhā  Lalitā  with  the rāsa  pastime  
+manmatha-manmatha-rūpe yāṅhāra prakāśa  
+of Cupid  the bewilderer  in the form  whose  manifestation
 
-(213) [not yet translated]
+(213) With Śrī Rādhā and Lalitā He enjoys the *rāsa* pastime, manifest in the form that bewilders even Cupid.
 
 তাসামাবিরভূচ্ছৌরিঃ স্ময়মানমুখাম্বুজঃ ৷  
 পীতাম্বরধরঃ স্রগ্বী সাক্ষান্মন্মথমন্মথঃ ॥ ২১৪ ॥
 
 tāsām āvirabhūc chauriḥ  
+among them  appeared  Śauri  
 smayamāna-mukhāmbujaḥ  
+smiling  His lotus face  
 pītāmbara-dharaḥ sragvī  
-sākṣān manmatha-manmathaḥ
+yellow garments  wearing  garlanded  
+sākṣān manmatha-manmathaḥ  
+directly  of Cupid  the bewilderer
 
-(214) [not yet translated]
+(214) “Śauri appeared among them, His lotus face smiling. Wearing yellow garments and a garland, He was Himself the bewilderer of Cupid.” (Śrīmad-Bhāgavatam 10.32.2)
 
 স্বমাধুর্য্যে লোকের মন করে আকর্ষণ ৷  
 দুই পাশে রাধা-ললিতা করেন সেবন ॥ ২১৫ ॥
 
 sva-mādhurye lokera mana kare ākarṣaṇa  
-dui pāśe rādhā-lalitā karena sevana
+by His own sweetness  of people  the minds  He does  attract  
+dui pāśe rādhā-lalitā karena sevana  
+on two  sides  Rādhā  Lalitā  do  service
 
-(215) [not yet translated]
+(215) By His own sweetness He attracts the minds of all. On His two sides Rādhā and Lalitā serve Him.
 
 নিত্যানন্দ-দয়া মোরে তাঁরে দেখাইল ৷  
 শ্রীরাধা-মদনমোহনে প্রভু করি’ দিল ॥ ২১৬ ॥
 
 nityānanda-dayā more tāṅre dekhāila  
-śrī-rādhā-madana-mohane prabhu kari’ dila
+Nityānanda's mercy  to me  Him  showed  
+śrī-rādhā-madana-mohane prabhu kari’ dila  
+Śrī Rādhā  Madana-mohana  my Lord  making  gave
 
-(216) [not yet translated]
+(216) Nityānanda's mercy showed Him to me; it gave me Śrī Rādhā-Madana-mohana as my Lord.
 
 মো-অধমে দিল শ্রীগোবিন্দ দরশন ৷  
 কহিবার কথা নহে অকথ্য-কথন ॥ ২১৭ ॥
 
 mo-adhame dila śrī-govinda daraśana  
-kahibāra kathā nahe akathya-kathana
+to me, the fallen  gave  of Śrī Govinda  the sight  
+kahibāra kathā nahe akathya-kathana  
+to be told  matter  is not  inexpressible  account
 
-(217) [not yet translated]
+(217) It gave me, a fallen soul, the sight of Śrī Govinda. That is not a thing to be told; it is beyond words.
 
 বৃন্দাবনে যোগপীঠে কল্পতরু-বনে ৷  
 রত্নমণ্ডপ, তাহে রত্নসিংহাসনে ॥ ২১৮ ॥
@@ -2084,43 +2294,55 @@ kahibāra kathā nahe akathya-kathana
 মাধুর্য্য প্রকাশি’ করেন জগৎ মোহন ॥ ২১৯ ॥
 
 vṛndāvane yoga-pīṭhe kalpa-taru-vane  
+in Vṛndāvana  at the Yogapīṭha  of wish-fulfilling trees  in a grove  
 ratna-maṇḍapa, tāhe ratna-siṁhāsane  
+a jeweled  pavilion  in it  on a jeweled  throne  
 śrī-govinda vasiyāchena vrajendra-nandana  
-mādhurya prakāśi’ karena jagat mohana
+Śrī Govinda  is seated  of the king of Vraja  the son  
+mādhurya prakāśi’ karena jagat mohana  
+sweetness  revealing  He does  the world  enchant
 
-(218–219) [not yet translated]
+(218–219) In Vṛndāvana, at the Yogapīṭha, in a grove of wish-fulfilling trees, there is a jeweled pavilion. On a jeweled throne there sits Śrī Govinda, the son of the king of Vraja. Revealing His sweetness, He enchants the world.
 
 বাম-পার্শ্বে শ্রীরাধিকা সখীগণ-সঙ্গে ৷  
 রাসাদিক-লীলা প্রভু করে কত রঙ্গে ॥ ২২০ ॥
 
 vāma-pārśve śrī-rādhikā sakhī-gaṇa-saṅge  
-rāsādika-līlā prabhu kare kata raṅge
+on the left side  Śrī Rādhikā  with Her sakhīs  
+rāsādika-līlā prabhu kare kata raṅge  
+the rāsa and other  pastimes  the Lord  does  with how much  delight
 
-(220) [not yet translated]
+(220) On His left is Śrī Rādhikā with Her *sakhīs*. With them the Lord enjoys the *rāsa* and other pastimes in so many delightful ways.
 
 যাঁর ধ্যান নিজ-লোকে করে পদ্মাসন ৷  
 অষ্টাদশাক্ষর-মন্ত্রে করে উপাসন ॥ ২২১ ॥
 
 yāṅra dhyāna nija-loke kare padmāsana  
-aṣṭādaśākṣara-mantre kare upāsana
+on whom  meditation  in his own world  does  the lotus-seated one  
+aṣṭādaśākṣara-mantre kare upāsana  
+with the eighteen-syllable mantra  does  worship
 
-(221) [not yet translated]
+(221) In his own world Brahmā, who is seated on the lotus, meditates on Him and worships Him with the eighteen-syllable mantra.
 
 চৌদ্দভুবনে যাঁর সবে করে ধ্যান ৷  
 বৈকুণ্ঠাদি-পুরে যাঁর লীলাগুণ গান ॥ ২২২ ॥
 
 caudda-bhuvane yāṅra sabe kare dhyāna  
-vaikuṇṭhādi-pure yāṅra līlā-guṇa gāna
+in the fourteen worlds  on whom  all  do  meditation  
+vaikuṇṭhādi-pure yāṅra līlā-guṇa gāna  
+in Vaikuṇṭha and other  realms  whose  pastimes and qualities  are sung
 
-(222) [not yet translated]
+(222) In the fourteen worlds all meditate on Him; in Vaikuṇṭha and the other realms His pastimes and qualities are sung.
 
 যাঁর মাধুরীতে করে লক্ষ্মী আকর্ষণ ৷  
 রূপগোসাঞি করিয়াছেন সে-রূপ বর্ণন ॥ ২২৩ ॥
 
 yāṅra mādhurīte kare lakṣmī ākarṣaṇa  
-rūpa-gosāñi kariyāchena se-rūpa varṇana
+by whose  sweetness  He does  Lakṣmī  attract  
+rūpa-gosāñi kariyāchena se-rūpa varṇana  
+Rūpa  Gosāñi  has made  of that form  description
 
-(223) [not yet translated]
+(223) By His sweetness He attracts even Lakṣmī. Rūpa Gosāñi has described that form:
 
 স্মেরাং ভঙ্গীত্রয়পরিচিতাং সাচিবিস্তীর্ণদৃষ্টিং  
 বংশীন্যস্তাধরকিশলয়ামুজ্জ্বলাং চন্দ্রকেণ ৷  
@@ -2128,96 +2350,122 @@ rūpa-gosāñi kariyāchena se-rūpa varṇana
 মা প্রেক্ষিষ্ঠাস্তব যদি সখে বন্ধুসঙ্গেঽস্তি রঙ্গঃ ॥ ২২৪ ॥
 
 smerāṁ bhaṅgī-traya-paricitāṁ sāci-vistīrṇa-dṛṣṭiṁ  
+smiling  by three bends  recognized  sidelong  wide  glance  
 vaṁśī-nyastādhara-kiśalayām ujjvalāṁ candrakeṇa  
+on the flute  placed  lips like new leaves  brilliant  with a peacock feather  
 govindākhyāṁ hari-tanum itaḥ keśi-tīrthopakaṇṭhe  
-mā prekṣiṣṭhās tava yadi sakhe bandhu-saṅge ’sti raṅgaḥ
+called Govinda  Hari's  form  here  of Keśī-tīrtha  near  
+mā prekṣiṣṭhās tava yadi sakhe bandhu-saṅge ’sti raṅgaḥ  
+do not  look  your  if  friend  in kinsmen's company  there is  delight
 
-(224) [not yet translated]
+(224) “My friend, if you still delight in the company of your kinsmen, do not look at the form of Hari called Govinda, who stands here near Keśī-tīrtha. He smiles; His body bends in three places; His glance is sidelong and wide; His lips, soft as new leaves, rest on His flute; and He shines with a peacock feather.” (Bhakti-rasāmṛta-sindhu 1.2.239)
 
 সাক্ষাৎ ব্রজেন্দ্রসুত ইথে নাহি আন ৷  
 যেবা অজ্ঞে করে তাঁরে প্রতিমা-হেন জ্ঞান ॥ ২২৫ ॥
 
 sākṣāt vrajendra-suta ithe nāhi āna  
-yebā ajñe kare tāṅre pratimā-hena jñāna
+directly  of the king of Vraja  the son  in this  there is not  otherwise  
+yebā ajñe kare tāṅre pratimā-hena jñāna  
+whoever  ignorant  makes  of Him  an image  as  conception
 
-(225) [not yet translated]
+(225) He is directly the son of the king of Vraja; there is no doubt about this. If some ignorant person thinks of Him as a mere image,
 
 সেই অপরাধে তার নাহিক নিস্তার ৷  
 ঘোর নরকেতে পড়ে, কি বলিব আর ॥ ২২৬ ॥
 
 sei aparādhe tāra nāhika nistāra  
-ghora narakete paḍe, ki baliba āra
+for that  offense  his  there is not  deliverance  
+ghora narakete paḍe, ki baliba āra  
+a terrible  into hell  he falls  what  shall I say  more
 
-(226) [not yet translated]
+(226) for that offense there is no deliverance for him. He falls into a terrible hell — what more can I say?
 
 হেন যে গোবিন্দ প্রভু, পাইনু যাঁহা হৈতে ৷  
 তাঁহার চরণ-কৃপা কে পারে বর্ণিতে ॥ ২২৭ ॥
 
 hena ye govinda prabhu, pāinu yāṅhā haite  
-tāṅhāra caraṇa-kṛpā ke pāre varṇite
+such  who  Govinda  the Lord  I attained  from whom  
+tāṅhāra caraṇa-kṛpā ke pāre varṇite  
+His  feet's  mercy  who  can  describe
 
-(227) [not yet translated]
+(227) Who can describe the mercy of the feet of Him by whom I attained such a Lord as Govinda?
 
 বৃন্দাবনে বৈসে যত বৈষ্ণব-মণ্ডল ৷  
 কৃষ্ণনাম-পরায়ণ, পরম-মঙ্গল ॥ ২২৮ ॥
 
 vṛndāvane vaise yata vaiṣṇava-maṇḍala  
-kṛṣṇa-nāma-parāyaṇa, parama-maṅgala
+in Vṛndāvana  dwell  all  the Vaiṣṇava  circles  
+kṛṣṇa-nāma-parāyaṇa, parama-maṅgala  
+to Kṛṣṇa's name  devoted  supremely  auspicious
 
-(228) [not yet translated]
+(228) All the circles of Vaiṣṇavas who live in Vṛndāvana are devoted to the name of Kṛṣṇa and are supremely auspicious.
 
 যাঁর প্রাণধন — নিত্যানন্দ-শ্রীচৈতন্য ৷  
 রাধাকৃষ্ণ-ভক্তি বিনে নাহি জানে অন্য ॥ ২২৯ ॥
 
 yāṅra prāṇa-dhana — nityānanda-śrī-caitanya  
-rādhā-kṛṣṇa-bhakti vine nāhi jāne anya
+whose  wealth of life  Nityānanda  Śrī Caitanya  
+rādhā-kṛṣṇa-bhakti vine nāhi jāne anya  
+Rādhā-Kṛṣṇa  devotion  except  not  they know  anything else
 
-(229) [not yet translated]
+(229) Nityānanda and Śrī Caitanya are the treasure of their lives, and they know nothing but devotion to Rādhā-Kṛṣṇa.
 
 সে বৈষ্ণবের পদরেণু, তার পদছায়া ৷  
 অধমেরে দিল প্রভুনিত্যানন্দ-দয়া ॥ ২৩০ ॥
 
 se vaiṣṇavera pada-reṇu, tāra pada-chāyā  
-adhamere dila prabhu-nityānanda-dayā
+of those  Vaiṣṇavas  the dust of the feet  their  feet's  shade  
+adhamere dila prabhu-nityānanda-dayā  
+to the fallen one  gave  Lord Nityānanda's  mercy
 
-(230) [not yet translated]
+(230) Lord Nityānanda's mercy gave this fallen soul the dust of those Vaiṣṇavas' feet and the shade of their feet.
 
 ‘তাঁহা সর্ব্ব লভ্য হয়’ — প্রভুর বচন ৷  
 সেই সূত্র, এই তার কৈল বিবরণ ॥ ২৩১ ॥
 
 ‘tāṅhā sarva labhya haya’ — prabhura vacana  
-sei sūtra, ei tāra kaila vivaraṇa
+there  everything  attainable  is  the Lord's  words  
+sei sūtra, ei tāra kaila vivaraṇa  
+that  the sūtra  this  its  I made  explanation
 
-(231) [not yet translated]
+(231) “There you will attain everything” — these were the Lord's words. That was the *sūtra*, and this has been my explanation of it.
 
 সে সব পাইনু আমি বৃন্দাবনে আয় ৷  
 সেই সব লভ্য এই প্রভুর কৃপায় ॥ ২৩২ ॥
 
 se saba pāinu āmi vṛndāvane āya  
-sei saba labhya ei prabhura kṛpāya
+that  all  attained  I  to Vṛndāvana  coming  
+sei saba labhya ei prabhura kṛpāya  
+that  all  attained  by this  the Lord's  mercy
 
-(232) [not yet translated]
+(232) Coming to Vṛndāvana, I attained all of that, and all of it was attained by the mercy of this Lord.
 
 আপনার কথা লিখি নির্লজ্জ হইয়া ৷  
 নিত্যানন্দগুণে লেখায় উন্মত্ত করিয়া ॥ ২৩৩ ॥
 
 āpanāra kathā likhi nirlajja haiyā  
-nityānanda-guṇe lekhāya unmatta kariyā
+my own  story  I write  shameless  becoming  
+nityānanda-guṇe lekhāya unmatta kariyā  
+Nityānanda's qualities  make me write  mad  making
 
-(233) [not yet translated]
+(233) I write my own story without shame. Nityānanda's qualities drive me mad and make me write.
 
 নিত্যানন্দ-প্রভুর গুণ-মহিমা অপার ৷  
 ‘সহস্রবদনে’ শেষ নাহি পায় যাঁর ॥ ২৩৪ ॥
 
 nityānanda-prabhura guṇa-mahimā apāra  
-‘sahasra-vadane’ śeṣa nāhi pāya yāṅra
+of Lord Nityānanda  of the qualities  the glory  boundless  
+‘sahasra-vadane’ śeṣa nāhi pāya yāṅra  
+with a thousand mouths  the end  not  finds  of which
 
-(234) [not yet translated]
+(234) The glory of Lord Nityānanda's qualities is boundless; even Śeṣa, with His thousand mouths, finds no end to it.
 
 শ্রীরূপ-রঘুনাথ-পদে যাঁর আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৩৫ ॥
 
 śrī-rūpa-raghunātha-pade yāṅra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+of Śrī Rūpa and Raghunātha  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
-(235) [not yet translated]
+(235) Praying at the feet of Śrī Rūpa and Raghunātha, I, Kṛṣṇadāsa, tell the *Caitanya-caritāmṛta*.
