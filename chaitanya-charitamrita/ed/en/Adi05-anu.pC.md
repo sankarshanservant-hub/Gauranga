@@ -114,7 +114,7 @@ In the *Laghu-bhāgavatāmṛta*, where the *līlā-avatāras* are described, se
 
 ## 155
 
-> Subheading: Kṛṣṇa alone is the original form (*svayaṁ-rūpa*); all the other avatāras are His parts (*aṁśas*) or parts of parts (*kalās*) —
+> Subheading: Kṛṣṇa alone is the original form (*svayaṁ-rūpa*); all the other avatāras are His parts (*aṁśas*) or *kalās* —
 
 > Subheading: (*Brahma-saṁhitā*, Chapter 5, verse 39)
 
@@ -123,6 +123,68 @@ In the *Laghu-bhāgavatāmṛta*, where the *līlā-avatāras* are described, se
 ## 156
 
 > Subheading: Gaura's desire — to spread the holy name and *prema* — is fulfilled through Nityānanda alone —
+
+## 157
+
+> Subheading: Nityānanda's glory is boundless —
+
+## 158
+
+> Subheading: From his own experience, the author describes the greatness of Nityānanda's mercy —
+
+## 161
+
+> Subheading: The greatness of a servant: Mīnaketana Rāmadāsa —
+
+In his commentary on *Bhāgavatam* 3.1.19, Śrīdhara Svāmipāda explains the word *avadhūta* as *asaṁskṛta-deha*, one who does not care for his body. The disciple of the *avadhūta* Śrī Nityānanda was also a *mahā-bhāgavata*, a *paramahaṁsa*, eternally perfect and beyond *varṇāśrama*. Therefore his body bore no marks of *varṇāśrama*, and, careless of his body, he remained intoxicated with the moods of Vraja.
+
+Mīnaketana Rāmadāsa: see the *Anubhāṣya* on Ādi 11.53.
+
+## 162
+
+*Ahorātra* means eight *praharas*, that is, the whole day and night. In those days pure devotees had the custom of sending one another letters of invitation to *kīrtana* festivals.
+
+## 163
+
+> Subheading: The state of a *mahā-bhāgavata*, or *paramahaṁsa* —
+
+## 168
+
+> Subheading: A worldly devotee of the lowest level (*kaniṣṭha*), lacking faith, offends the feet of a Vaiṣṇava —
+
+## 170
+
+*Bhāgavatam* 10.78.22–28 tells how, in Naimiṣāraṇya, Baladeva killed Romaharṣaṇa, the disciple of Vyāsa.
+
+## 171
+
+> Subheading: Even when insulted, a Vaiṣṇava does not look for faults in others —
+
+## 173
+
+> Subheading: Kavirāja Gosvāmī's brother is devoted to Gaura but does not honor Nityānanda and the Vaiṣṇavas —
+
+*Viśvāsa-ābhāsa* means very slight faith.
+
+## 174
+
+> Subheading: Kavirāja Gosvāmī rebukes his brother —
+
+## 175
+
+> Subheading: Disrespect that comes from taking the undivided Truth as divided is nothing but godlessness —
+
+## 177
+
+> Subheading: Faith in Nitāi without Gaura, or in Gaura without Nitāi, is also nothing but opposition to *bhakti* —
+
+## 178
+
+> Subheading: For insulting a devotee, the brother devoted to Gaura is ruined and falls —
+
+## 180
+
+> Subheading: Proof of Nityānanda's mercy —
 
 ---
 

@@ -30,6 +30,39 @@ The dust of His feet is the holy place of all holy places. The guardians of the 
 
 Dividing Himself into parts (*kalās*), Bhagavān manifested various avatāras in the world in the forms of Rāma and others. But I worship Govinda, the original Person: this Supreme Person Himself appears in the form of Kṛṣṇa.
 
+## 160
+
+*Ullāsa-upari* means: “I rejoice so much that I cannot keep it hidden, and so I am writing the account of Your favor.”
+
+## 161
+
+Avadhūta Gosāñi is Nityānanda Prabhu. *Prema-dhāma* means the abode of *prema*.
+
+## 165
+
+Whenever anyone looked into the eyes of Mīnaketana Rāmadāsa, tears welled up from the depths of his heart into his own eyes. And from the eyes of Rāmadāsa himself streams of tears flowed without pause. By another reading, *ye nayane dekhite*, the sense is this: in whatever eyes a person wished to see tears, from those eyes the tears flowed.
+
+## 166
+
+*Kadamba* means a multitude. *Jāḍya* means stupor (*stambha*).[^166-1]
+
+## 169–171
+
+Guṇārṇava Miśra, the servant of the Deity, sat in the courtyard and did not greet the servant of Śrī Nityānanda. So Mīnaketana Rāmadāsa grew angry and said, “This Guṇārṇava Miśra is a second Romaharṣaṇa Sūta.” The meaning is this. In Naimiṣāraṇya, Romaharṣaṇa Sūta saw Baladeva but did not leave the seat of Vyāsa and did not greet Him. Guṇārṇava Miśra behaved just as improperly. In Guṇārṇava Miśra's heart there was no special faith in Śrī Nityānanda. Śrī Mīnaketana understood this and lost respect for him. The devotees do not fault Śrī Mīnaketana for this act or call him proud.
+
+## 172–173
+
+Seeing this behavior, my brother got into an argument with Mīnaketana. My brother had firm faith in Śrī Caitanya Prabhu, but he did not have the same faith in Nityānanda Prabhu.
+
+## 176–177
+
+*Ardha-kukkuṭī-nyāya*, “the logic of half a hen,” is the same as *ardha-jaratīya-nyāya*: as if half of a hen were old and half young. As an argument this is utterly unacceptable. In the same way, holding to the logic of half a hen, you accept one of Caitanya and Nityānanda, the one undivided Lord, and reject the other. This is your godlessness and hypocrisy.
+
+## 181
+
+Kavirāja Gosvāmī lived in the village of Jhāmaṭapura, near the village of Naihāṭī, two *krośas* north of Kāṭoyā. Now a Deity of Śrī Mahāprabhu is there.
+
 ---
 
 [^128-1]: The verse translation reads differently: the knowledge that the avatāra and the source of the avatāras are nondifferent is ascribed to those who know the truth; Bhaktivinoda calls “one who sees no difference” the person who confuses them.
+[^166-1]: The verse translation reads differently: *kadamba* is taken as the *kadamba* flower.
