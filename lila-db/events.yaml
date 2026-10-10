@@ -655,6 +655,30 @@
   themes: [celestial, revelation]
   notes: "Мурари 1.05."
 
+- id: ev-thirteen-months-in-womb
+  title: "Тринадцать месяцев в лоне Шачи; Ниламбара предсказывает срок явления"
+  title_en: "Thirteen months in Shachi's womb; Nilambara foretells the time of the advent"
+  period: P01
+  order: 65
+  years: [1486, 1486]
+  date_conf: вероятно
+  date_basis: "перед явлением (ЧЧ Ади 13)"
+  cc: "Ади 13"
+  themes: [family]
+  notes: ""
+
+- id: ev-nature-heralds-advent
+  title: "Природа встречает явление: ранняя весна и ночь полнолуния"
+  title_en: "Nature heralds the advent: early spring and the full-moon night"
+  period: P01
+  order: 68
+  years: [1486, 1486]
+  date_conf: точно
+  date_basis: "ночь пхалгуна-пурнимы 1407 г. Шака"
+  calendar: "пхалгуна, пурнима"
+  themes: [celestial]
+  notes: "Поэтические знамения перед рождением (Карнапура)."
+
 - id: ev-gaura-appearance
   title: "Явление Шри Гауранги"
   title_en: "The appearance of Sri Gauranga"
@@ -669,6 +693,19 @@
   cb: "Ади 3"
   themes: [revelation, celestial, family]
   notes: "Мурари 1.05."
+
+- id: ev-advaita-proclaims-advent
+  title: "Адвайта в час явления возвещает: «Привёл Гауру!»"
+  title_en: "At the hour of the advent Advaita proclaims: “I have brought Gaura!”"
+  period: P01
+  order: 72
+  years: [1486, 1486]
+  age: [0, 0]
+  date_conf: точно
+  date_basis: "в час явления (пхалгуна-пурнима 1407 г. Шака)"
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  themes: [kirtan, ecstasy]
+  notes: "Адвайта и Харидас в Шантипуре ликуют и пляшут, узнав о явлении."
 
 - id: ev-nilambara-prediction
   title: "Ниламбара Чакраварти предсказывает величие новорождённого"

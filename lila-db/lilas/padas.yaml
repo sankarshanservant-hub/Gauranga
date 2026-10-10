@@ -5742,7 +5742,7 @@
   parallels: "ЧЧ Ади 13; ЧБ Ади 2"
   notes: "Только ГПТ (БД-030)."
   themes: [revelation, ecstasy]
-  event: ev-gaura-appearance
+  event: ev-advaita-proclaims-advent
   verses:
     - {file: "padas/ru/13.md", from: "22.1", to: "22.4"}
 
@@ -6431,7 +6431,7 @@
   themes: [ecstasy, celestial]
   calendar: "пхалгуна, пурнима; лунное затмение"
   date_basis: "Сама пада: 1407 г. Шаки, полнолуние пхалгуны, затмение (как ЧЧ Ади 13)"
-  event: ev-gaura-appearance
+  event: ev-advaita-proclaims-advent
   verses:
     - {file: "padas/ru/15.md", from: "4.1", to: "4.5"}
 

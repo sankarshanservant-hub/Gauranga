@@ -344,33 +344,44 @@
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 31–46 — [31–46](../lochana/ru/09.md?plain=1#L101-L146) · `lcm-0034`
 - murari-kcc (A): Пракрама 1, сарга 5, шлоки 5–15 — [5–15](../murari-gupta/ru/1.05.md?plain=1#L13-L33) · `mkc-0015`
 
+## Тринадцать месяцев в лоне Шачи; Ниламбара предсказывает срок явления / Thirteen months in Shachi's womb; Nilambara foretells the time of the advent  `ev-thirteen-months-in-womb` (1486–1486, возраст 0–0, вероятно)
+
+- advaita-prakasha (D): Гл. 10, 71–76 — [71. И вот у Ша–76. Услышав эт](../advaita-prakash/10.md?plain=1#L75-L80) · `apr-0042a`
+
+## Природа встречает явление: ранняя весна и ночь полнолуния / Nature heralds the advent: early spring and the full-moon night  `ev-nature-heralds-advent` (1486–1486, возраст 0–0, точно)
+
+- karnapura-ckm (A): Сарга 2, 25–37 — [25–37](../karnapura-mahakavya/ru/02.md?plain=1#L570-L843) · `kcm-0008`
+
 ## Явление Шри Гауранги / The appearance of Sri Gauranga  `ev-gaura-appearance` (1486–1486, возраст 0–0, точно)
 
 - gaura-krishnodaya (B): Сарга 2, 9–18 — [9–18](../gaura-krishnodaya/ru/02.md?plain=1#L23-L43) · `gkd-0010`
-- karnapura-ckm (A): Сарга 2, 25–37 — [25–37](../karnapura-mahakavya/ru/02.md?plain=1#L570-L843) · `kcm-0008`
-- advaita-prakasha (D): Гл. 10, 71–95 — [71. И вот у Ша–95. Харидас и д](../advaita-prakash/10.md?plain=1#L75-L99) · `apr-0042`
+- advaita-prakasha (D): Гл. 10, 77–93 — [77. У Самого Б–93. При явлени](../advaita-prakash/10.md?plain=1#L81-L97) · `apr-0042`
 - chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 20 — [> **20.** Он, рождаясь в полнолуние, под–**Адхарма.** И это — твоё заблуждение: т](../chaitanya-chandrodaya/ru/01.md?plain=1#L174-L177) · `ccd-0005`
 - jayananda-cm (C): Надия-кханда: «Рождение Гаурачандры» (Г. Райчаудхури); «Рождение во время затмения» (рукопись № 546, л. 11 об.) — [5:1–2:2](../jayananda/ru/05-quotes.md?plain=1#L58-L61); [6:1–3:5](../jayananda/ru/06-manuscripts.md?plain=1#L101-L113) · `jcm-0018`
 - karnapura-ckm (A): Сарга 2, 38–44 — [38–44](../karnapura-mahakavya/ru/02.md?plain=1#L864-L996) · `kcm-0009`
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 47–80 — [47–80](../lochana/ru/09.md?plain=1#L149-L248) · `lcm-0035`
 - murari-kcc (A): Пракрама 1, сарга 5, шлоки 16–22 — [16–22](../murari-gupta/ru/1.05.md?plain=1#L35-L47) · `mkc-0016`
 - prema-vilasa (C): Виласа 7, 49–53 — [49–53](../prema-vilasa/ru/07.md?plain=1#L149-L161) · `pvl-0041`
-- vaishnava-vandana (B): Вандана Дживы, 44 — [44–44](../vaishnava-vandana/ru/01.md?plain=1#L101-L101) · `vv-0006`
-- vaishnava-vandana (B): Девакинандана, 29 — [29–29](../vaishnava-vandana/ru/02.md?plain=1#L106-L106) · `vv-0035`
 - padas (B): Васу Гхош, ПК 1121 = БР 12 (изд. 1913, с. 763; изд. 1960, ст. 895–900) = ГПТ1 с. 51 (№ 2) «জয় জয় কলরব নদিয়া নগরে» — [6.1–6.6](../padas/ru/07.md?plain=1#L183-L198) · `pad-0128`
 - padas (C): Васу Гхош, ГПТ1 с. 51 (№ 3) «নদীয়া-আকাশে আসি উদিল গৌরাঙ্গ-শশী» — [2.1–2.5](../padas/ru/12.md?plain=1#L50-L70) · `pad-0232`
-- padas (C): Кану Дас, ГПТ1 с. 449 (№ 33) «চৌদ্দশত সাত শাকে» — [4.1–4.5](../padas/ru/15.md?plain=1#L113-L125) · `pad-0317`
-- padas (C): Баларама Дас, ГПТ1 с. 450 (№ 36) «ভাবের আবেশে বহু সীতাপতি মোর পহুঁ» — [22.1–22.4](../padas/ru/13.md?plain=1#L617-L626) · `pad-0281`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 59 (2.1, № 19) «ফাল্গুন-পূর্ণিমা শুভক্ষণে» = БР 12 (изд. 1912, с. 764; изд. 1960, ст. 907–916) — [2.1–2.10](../padas/ru/20.md?plain=1#L43-L61) · `pad-0419`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 59–60 (2.1, № 20) «ফাল্গুন-পূর্ণিমা মঙ্গলের সীমা» = БР 12 (изд. 1912, с. 764–765; изд. 1960, ст. 917–920) — [3.1–3.4](../padas/ru/20.md?plain=1#L79-L88) · `pad-0420`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 60 (2.1, № 21) «পরম শুভ শচীগর্ভে বিলসত» = БР 12 (изд. 1912, с. 765; изд. 1960, ст. 921–924) — [4.1–4.4](../padas/ru/20.md?plain=1#L102-L111) · `pad-0421`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 60–61 (2.1, № 22) «জয় জয় জয় মঙ্গলরব» = БР 12 (изд. 1912, с. 765–766; изд. 1960, ст. 925–928) — [5.1–5.4](../padas/ru/20.md?plain=1#L124-L139) · `pad-0422`
+
+## Адвайта в час явления возвещает: «Привёл Гауру!» / At the hour of the advent Advaita proclaims: “I have brought Gaura!”  `ev-advaita-proclaims-advent` (1486–1486, возраст 0–0, точно)
+
+- padas (C): Кану Дас, ГПТ1 с. 449 (№ 33) «চৌদ্দশত সাত শাকে» — [4.1–4.5](../padas/ru/15.md?plain=1#L113-L125) · `pad-0317`
+- padas (C): Баларама Дас, ГПТ1 с. 450 (№ 36) «ভাবের আবেশে বহু সীতাপতি মোর পহুঁ» — [22.1–22.4](../padas/ru/13.md?plain=1#L617-L626) · `pad-0281`
+- advaita-prakasha (D): Гл. 10, 94–95 — [94. Шри Адвайт–95. Харидас и д](../advaita-prakash/10.md?plain=1#L98-L99) · `apr-0042b`
 
 ## Ниламбара Чакраварти предсказывает величие новорождённого / Nilambara Chakravarti foretells the newborn's greatness  `ev-nilambara-prediction` (1486–1486, возраст 0–0, вероятно)
 
 - gaura-krishnodaya (B): Сарга 2, 39 — [39–39](../gaura-krishnodaya/ru/02.md?plain=1#L87-L87) · `gkd-0013`
 - karnapura-ckm (A): Сарга 2, 56–59 — [56–59](../karnapura-mahakavya/ru/02.md?plain=1#L1270-L1337) · `kcm-0011`
 - murari-kcc (A): Пракрама 1, сарга 5, шлоки 23–27 — [23–27](../murari-gupta/ru/1.05.md?plain=1#L49-L57) · `mkc-0017`
+- vaishnava-vandana (B): Вандана Дживы, 44 — [44–44](../vaishnava-vandana/ru/01.md?plain=1#L101-L101) · `vv-0006`
+- vaishnava-vandana (B): Девакинандана, 29 — [29–29](../vaishnava-vandana/ru/02.md?plain=1#L106-L106) · `vv-0035`
 
 ## Новорождённый Гаура не берёт грудь, пока мать не услышит святое имя / The newborn Gaura refuses the breast until His mother hears the holy name  `ev-newborn-refuses-milk` (1486–1487, возраст 0–1, оценка)
 

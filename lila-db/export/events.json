@@ -1432,6 +1432,62 @@
   ]
  },
  {
+  "id": "ev-thirteen-months-in-womb",
+  "title": "Тринадцать месяцев в лоне Шачи; Ниламбара предсказывает срок явления",
+  "title_en": "Thirteen months in Shachi's womb; Nilambara foretells the time of the advent",
+  "period": "P01",
+  "order": 65,
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "перед явлением (ЧЧ Ади 13)",
+  "cc": "Ади 13",
+  "themes": [
+   "family"
+  ],
+  "notes": "",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "apr-0042a"
+  ],
+  "sources": [
+   "advaita-prakasha"
+  ]
+ },
+ {
+  "id": "ev-nature-heralds-advent",
+  "title": "Природа встречает явление: ранняя весна и ночь полнолуния",
+  "title_en": "Nature heralds the advent: early spring and the full-moon night",
+  "period": "P01",
+  "order": 68,
+  "years": [
+   1486,
+   1486
+  ],
+  "date_conf": "точно",
+  "date_basis": "ночь пхалгуна-пурнимы 1407 г. Шака",
+  "calendar": "пхалгуна, пурнима",
+  "themes": [
+   "celestial"
+  ],
+  "notes": "Поэтические знамения перед рождением (Карнапура).",
+  "age": [
+   0,
+   0
+  ],
+  "entries": [
+   "kcm-0008"
+  ],
+  "sources": [
+   "karnapura-ckm"
+  ]
+ },
+ {
   "id": "ev-gaura-appearance",
   "title": "Явление Шри Гауранги",
   "title_en": "The appearance of Sri Gauranga",
@@ -1458,7 +1514,6 @@
   "notes": "Мурари 1.05.",
   "entries": [
    "gkd-0010",
-   "kcm-0008",
    "apr-0042",
    "ccd-0005",
    "jcm-0018",
@@ -1466,12 +1521,8 @@
    "lcm-0035",
    "mkc-0016",
    "pvl-0041",
-   "vv-0006",
-   "vv-0035",
    "pad-0128",
    "pad-0232",
-   "pad-0317",
-   "pad-0281",
    "pad-0419",
    "pad-0420",
    "pad-0421",
@@ -1486,8 +1537,39 @@
    "lochana-cm",
    "murari-kcc",
    "padas",
-   "prema-vilasa",
-   "vaishnava-vandana"
+   "prema-vilasa"
+  ]
+ },
+ {
+  "id": "ev-advaita-proclaims-advent",
+  "title": "Адвайта в час явления возвещает: «Привёл Гауру!»",
+  "title_en": "At the hour of the advent Advaita proclaims: “I have brought Gaura!”",
+  "period": "P01",
+  "order": 72,
+  "years": [
+   1486,
+   1486
+  ],
+  "age": [
+   0,
+   0
+  ],
+  "date_conf": "точно",
+  "date_basis": "в час явления (пхалгуна-пурнима 1407 г. Шака)",
+  "calendar": "пхалгуна, пурнима; лунное затмение",
+  "themes": [
+   "kirtan",
+   "ecstasy"
+  ],
+  "notes": "Адвайта и Харидас в Шантипуре ликуют и пляшут, узнав о явлении.",
+  "entries": [
+   "pad-0317",
+   "pad-0281",
+   "apr-0042b"
+  ],
+  "sources": [
+   "advaita-prakasha",
+   "padas"
   ]
  },
  {
@@ -1516,12 +1598,15 @@
   "entries": [
    "gkd-0013",
    "kcm-0011",
-   "mkc-0017"
+   "mkc-0017",
+   "vv-0006",
+   "vv-0035"
   ],
   "sources": [
    "gaura-krishnodaya",
    "karnapura-ckm",
-   "murari-kcc"
+   "murari-kcc",
+   "vaishnava-vandana"
   ]
  },
  {
