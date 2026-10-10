@@ -15,7 +15,7 @@
   --beng: "Noto Serif Bengali", "Kohinoor Bangla", serif;
   /* Раскладка как на макете: пейзаж — полосой сверху, рваный верхний край ленты лежит прямо на нём;
      комната (стол, свеча, книги) видна под лентой. */
-  --top: clamp(112px, 16vh, 150px);   /* высота шапки */
+  --top: clamp(128px, 16vh, 150px);   /* высота шапки */
   --rh: clamp(380px, 74vh, 740px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
   --ribbon-top: calc(var(--top) - var(--rh) * .06);
   --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
@@ -94,26 +94,24 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ——— шапка ——— */
 .top {
   position: relative; z-index: 2;
-  display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 12px clamp(20px, 3vw, 44px);
+  display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: flex-start; gap: 12px clamp(20px, 3vw, 44px);
   align-content: flex-start;
   height: var(--top); padding: 16px max(16px, 3vw) 0;
 }
-.top__brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
+.top__brand { display: flex; align-items: flex-start; gap: 14px; min-width: 0; }
 .top__lotus { width: 52px; height: 52px; flex: none; color: var(--gold); filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .6)); }
 .top__title {
   margin: 0; font: 600 clamp(28px, 4vw, 44px)/1 var(--display); letter-spacing: .01em;
   color: #f6dfae; text-shadow: 0 2px 10px rgba(0, 0, 0, .7), 0 0 24px rgba(var(--flame), .35);
 }
 .top__sub { margin: 4px 0 0; font: italic 500 clamp(15px, 1.6vw, 19px)/1.2 var(--display); color: #f1d9a8; text-shadow: 0 1px 6px rgba(0, 0, 0, .8); }
-.jump { margin-top: 4px; }
-.corner { /* язык и музыка — в правом нижнем углу; при открытом свитке сдвигаются левее него */
-  position: fixed; right: 16px; bottom: max(12px, env(safe-area-inset-bottom, 0px)); z-index: 12;
-  display: flex; align-items: center; gap: 10px;
-  transition: right .3s;
+.jump { margin-top: 10px; } /* на уровне названия */
+.corner { /* язык и музыка — под названием */
+  display: flex; align-items: center; gap: 8px; margin-top: 8px;
 }
-body.is-reading .corner { right: calc(var(--rw) + 16px); }
-.foot { transition: opacity .3s; }
-body.is-reading .foot { opacity: 0; pointer-events: none; } /* при чтении подсказка не нужна и не мешает кнопкам */
+.corner .music { width: 32px; height: 32px; }
+.corner .music svg { width: 17px; height: 17px; }
+.corner .lang button { padding: 4px 10px; font-size: 13px; }
 .jump select {
   max-width: min(78vw, 360px);
   appearance: none; -webkit-appearance: none;
@@ -388,8 +386,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   .landscape::before { display: none; }
   .landscape::after { background: linear-gradient(90deg, rgba(20, 13, 7, .75), rgba(20, 13, 7, .2) 70%); }
   .jump { flex: 1 1 100%; }
-  .foot { padding-bottom: 64px; }
-  body.is-reading .corner { display: none; }
+
   .band { margin-top: calc(var(--rh) * -.08); }
   .room {
     top: auto; bottom: 0; width: 100%; height: 52vh; background-size: cover; background-position: 4% 70%;

@@ -20,6 +20,15 @@
     <div>
       <h1 class="top__title" data-i18n="title">Гаура-лила</h1>
       <p class="top__sub" data-i18n="subtitle">Лилы Шри Чайтаньи Махапрабху по писаниям</p>
+      <div class="corner">
+        <button type="button" class="music" id="music" aria-pressed="false" aria-label="Музыка">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l11-2v13" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="6.5" cy="18" r="2.5" fill="currentColor"/><circle cx="17.5" cy="16" r="2.5" fill="currentColor"/><path class="music__off" d="M3 3l18 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
+        <div class="lang" role="group" aria-label="Язык / Language">
+          <button type="button" id="lang-ru" data-lang="ru" aria-pressed="true">RU</button>
+          <button type="button" id="lang-en" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+      </div>
     </div>
   </div>
   <label class="jump">
@@ -27,17 +36,6 @@
     <select id="jump"></select>
   </label>
 </header>
-
-<div class="corner">
-  <button type="button" class="music" id="music" aria-pressed="false" aria-label="Музыка">
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l11-2v13" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="6.5" cy="18" r="2.5" fill="currentColor"/><circle cx="17.5" cy="16" r="2.5" fill="currentColor"/><path class="music__off" d="M3 3l18 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-  </button>
-  <div class="lang" role="group" aria-label="Язык / Language">
-    <button type="button" id="lang-ru" data-lang="ru" aria-pressed="true">RU</button>
-    <button type="button" id="lang-en" data-lang="en" aria-pressed="false">EN</button>
-  </div>
-</div>
-
 <main>
   <section class="band" aria-labelledby="band-title">
     <h2 id="band-title" class="sr" data-i18n="ribbon">Лента лил</h2>
