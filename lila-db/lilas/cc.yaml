@@ -447,3 +447,62 @@
   cc: "Ади 1"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi01.md", from: "104", to: "110"}
+
+# Ади 2 — истина о Шри Чайтанье (толкование шлоки Ади 1.3)
+- id: cc-0024
+  source: cc
+  ref: "Ади 2.1–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 220
+  title: "Мангалачарана второй главы: поклон Шри Чайтанье и молитва о нектаре Его лил"
+  summary: "Автор поклоняется Шри Чайтанье, по милости Которого даже дитя переплывёт океан сиддханты, кишащий крокодилами чужих мнений; молит, чтобы небесная Ганга Его лил оросила пустыню его языка; славит Панча-таттву и берётся объяснить третий стих мангалачараны — указание на Высшую Истину."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva]
+  cc: "Ади 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "1", to: "4"}
+
+- id: cc-0025
+  source: cc
+  ref: "Ади 2.5–22"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 230
+  title: "Брахман — сияние тела Говинды, Параматма — Его полная часть; Говинда пришёл как Шри Чайтанья"
+  summary: "Толкование шлоки «яд адвайтам»: Брахман, Параматма и Бхагаван — три аспекта единой Истины; Брахман Упанишад — сияние тела Кришны, которое философ, как плотский глаз солнце, видит без разнообразия; Параматма йога-шастр — Его полная часть, отражённая в каждом существе, как солнце в кристаллах; изначальный Кришна, сын Нанды, — Сам Бхагаван, и Он низошёл как Шри Чайтанья, милостивейший спаситель душ."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, vedanta, scripture]
+  scriptures: ["Шримад-Бхагаватам 1.2.11", "Брахма-самхита 5.40", "Шримад-Бхагаватам 11.6.47", "Бхагавад-гита 10.42", "Шримад-Бхагаватам 1.9.42"]
+  cc: "Ади 2"
+  event: ev-tattva-chaitanya-bhagavan
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "5", to: "22"}
+
+- id: cc-0026
+  source: cc
+  ref: "Ади 2.23–60"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 240
+  title: "Нарайяна Вайкунтхи — виласа Кришны; молитва Брахмы: Кришна — изначальный Нарайяна"
+  summary: "Нарайяна духовного неба тождествен Кришне, хоть и с четырьмя руками; Брахма, похитивший телят и пастушков и молящий о прощении, доказывает Кришне, что Он — мула-Нарайяна: прибежище всех душ, Владыка выше Пуруша-аватар и Свидетель всех миров; три Пуруши, творящие через майю, не касаются её, а Кришна — четвёртый, турия, вовсе вне связи с майей; Брахман, Параматма и Бхагаван — проявления Кришны, а иное толкование — измышление глупцов."
+  persons: ["@krishna", "@brahma"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture, maya]
+  scriptures: ["Шримад-Бхагаватам 10.14.14", "Шримад-Бхагаватам 11.15.16 (комм. Шридхары Свами)", "Шримад-Бхагаватам 1.11.38"]
+  cc: "Ади 2"
+  event: ev-tattva-krishna-mula-narayana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "23", to: "60"}

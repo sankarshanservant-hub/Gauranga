@@ -17,7 +17,7 @@
   title_en: "Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion"
   period: PX
   order: 100
-  cc: "Ади 1.3"
+  cc: "Ади 1.3; 2.5–22"
   cb: ""
   themes: [teaching]
   teaching: [gaura-tattva, vedanta]
@@ -132,3 +132,15 @@
   themes: [teaching]
   teaching: [scripture, vaishnava, prema]
   notes: "Богословская тема, не эпизод жизни."
+
+# Ади 2 — истина о Шри Чайтанье
+- id: ev-tattva-krishna-mula-narayana
+  title: "Кришна — изначальный Нарайяна; Нарайяна Вайкунтхи — Его виласа"
+  title_en: "Krishna is the original Narayana; Narayana of Vaikuntha is His vilasa"
+  period: PX
+  order: 111
+  cc: "Ади 2.23–60"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, maya]
+  notes: "Богословская тема, не эпизод жизни: молитва Брахмы (Бхаг. 10.14.14) и её толкование; три Пуруши и турия."
