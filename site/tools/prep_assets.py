@@ -34,24 +34,21 @@ def save(im, name, **kw):
 
 H = 560  # высота ленты в файле (px)
 
-# Горизонтальная лента: плитка = полотно + его зеркало (бесшовный повтор)
+# Горизонтальная лента: полотно стыкуется само с собой по краям — повторяем как есть
 plain = load('ribbon-plain.png')
 plain = plain.resize((round(plain.width * H / plain.height), H), Image.LANCZOS)
-tile = Image.new('RGB', (plain.width * 2, H))
-tile.paste(plain, (0, 0))
-tile.paste(plain.transpose(Image.FLIP_LEFT_RIGHT), (plain.width, 0))
-save(cutout(tile), 'ribbon-tile.webp', quality=82)
+save(cutout(plain), 'ribbon-tile.webp', quality=84)
 
-# Начало ленты со скалкой: подгоняем высоту бумаги к полотну (бумага 72–632 → 64–644 у полотна)
+# Начало ленты со скалкой: подгоняем высоту бумаги к полотну (бумага 72–632 → 64–644 у полотна);
+# после подгонки картинка совпадает с полотном уже за скалкой (≈ x 400–600 при высоте 560) — режем там
 rod = load('ribbon-rod-left.png')
 k = (644 - 64) / (632 - 72)
 rod = rod.resize((round(rod.width * k), round(rod.height * k)), Image.LANCZOS)
 top = round(72 * k) - 64
-rod = rod.crop((0, top, 700, top + 724))
-rod = rod.resize((round(rod.width * H / 724), H), Image.LANCZOS)
-save(cutout(rod), 'ribbon-start.webp', quality=82)
-# Конец ленты — зеркальная скалка
-save(cutout(rod.transpose(Image.FLIP_LEFT_RIGHT)), 'ribbon-end.webp', quality=82)
+rod = rod.crop((0, top, rod.width, top + 724))
+rod = rod.resize((round(rod.width * H / 724), H), Image.LANCZOS).crop((0, 0, 520, H))
+save(cutout(rod), 'ribbon-start.webp', quality=84)
+save(cutout(rod.transpose(Image.FLIP_LEFT_RIGHT)), 'ribbon-end.webp', quality=84)
 
 # Вертикальный свиток (окно чтения): ширина 640
 W = 640
@@ -60,7 +57,7 @@ vt = vt.resize((W, round(vt.height * W / vt.width)), Image.LANCZOS)
 save(cutout(vt.crop((0, 0, W, 300))), 'vscroll-top.webp', quality=82)
 vm = load('vscroll-middle.png')
 vm = vm.resize((W, round(vm.height * W / vm.width)), Image.LANCZOS)
-save(cutout(vm.crop((0, 100, W, vm.height - 100))), 'vscroll-middle.webp', quality=82)
+save(cutout(vm), 'vscroll-middle.webp', quality=82)  # стыкуется сама с собой — целиком
 vb = load('vscroll-bottom.png')
 k = (876 - 92) / (848 - 90)  # подогнать ширину бумаги к верхней части
 vb = vb.resize((round(vb.width * k), round(vb.height * k)), Image.LANCZOS)
@@ -75,6 +72,3 @@ save(desk.resize((1600, round(desk.height * 1600 / desk.width)), Image.LANCZOS),
 sky = load('header-navadvipa-sunset.png')
 save(sky.resize((1800, round(sky.height * 1800 / sky.width)), Image.LANCZOS), 'header-sunset.jpg', quality=80)
 
-# Временная иллюстрация рождения — вырезка из макета пользователя
-mock = load('reference-mockup.png')
-save(mock.crop((28, 198, 246, 472)), 'lila-birth-draft.jpg', quality=88)

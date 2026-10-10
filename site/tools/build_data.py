@@ -1,9 +1,10 @@
-"""Собирает данные сайта: лилы группы (по умолчанию «Явление Господа») со всеми отрывками и стихами.
+"""Собирает данные сайта: крупные эпизоды → лилы → писания → стихи.
 
 Источник — lila-db/export (сначала `python3 lila-db/build.py`) и файлы переводов. Для каждого отрывка
 стихи разбираются на слои: оригинал, транслитерация, пословный, перевод, примечания (наши сноски / «Прим.»),
 RU и EN. Оригинал и пословный берутся из самого файла (Карнапура) или из полного издания (*-full.md: Мурари,
-Лочан, пады). Запуск: python3 site/tools/build_data.py  →  site/data/lilas.json
+Лочан, пады). Запуск: python3 site/tools/build_data.py  →  site/data/timeline.json (эпизоды, лилы, перечни
+писаний — грузится сразу) и site/data/verses/<эпизод>.json (стихи — подгружаются при чтении).
 """
 import json
 import os
@@ -11,20 +12,40 @@ import re
 import html
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-OUT = os.path.join(ROOT, 'site', 'data', 'lilas.json')
+DATA = os.path.join(ROOT, 'site', 'data')
 
-GROUPS = [
-    {
-        'id': 'grp-advent',
-        'title': 'Явление Господа', 'title_en': 'The Advent of the Lord',
-        'events': [
-            'ev-lord-enters-shachi-womb', 'ev-advaita-worships-shachi-womb', 'ev-gods-praise-lord-in-womb',
-            'ev-thirteen-months-in-womb', 'ev-nature-heralds-advent', 'ev-gaura-appearance',
-            'ev-advaita-proclaims-advent', 'ev-nilambara-prediction', 'ev-newborn-refuses-milk',
-            'ev-sita-visits-newborn', 'ev-goddesses-visit-newborn', 'ev-birth-festival-nimai-name',
-        ],
-    },
+# Крупные эпизоды (временно — по периодам lila-db/PERIODS.md; «Явление Господа» выделено из P01–P02).
+# Эпизод забирает события своих периодов; границы внутри P01/P02 — в episode_of (по order события).
+EPISODES = [  # (id, RU, EN, периоды, —)
+    ('ep-before', 'До явления', 'Before the Advent', ['P00'], None),
+    ('ep-ancestors', 'Предки и спутники', 'Ancestors and Associates', ['P01'], None),
+    ('ep-advent', 'Явление Господа', 'The Advent of the Lord', ['P01', 'P02'], None),
+    ('ep-infancy', 'Младенчество', 'Infancy', ['P02'], None),
+    ('ep-childhood', 'Детство', 'Childhood', ['P03'], None),
+    ('ep-boyhood', 'Отрочество и учёба', 'Boyhood and Studies', ['P04'], None),
+    ('ep-youth', 'Юность: учитель и семья', 'Youth: Teacher and Householder', ['P05'], None),
+    ('ep-gaya', 'Гая: посвящение', 'Gaya: Initiation', ['P06'], None),
+    ('ep-navadvipa', 'Санкиртана в Навадвипе', 'Sankirtana in Navadvipa', ['P07'], None),
+    ('ep-sannyasa', 'Санньяса', 'Sannyasa', ['P08'], None),
+    ('ep-to-puri', 'Путь в Пури', 'The Road to Puri', ['P09'], None),
+    ('ep-sarvabhauma', 'Пури: Сарвабхаума', 'Puri: Sarvabhauma', ['P10'], None),
+    ('ep-south', 'Паломничество по Югу', 'Pilgrimage to the South', ['P11'], None),
+    ('ep-ratha', 'Пури: Ратха-ятра', 'Puri: Ratha-yatra', ['P12'], None),
+    ('ep-vrindavana', 'Путь во Вриндаван', 'Journey to Vrindavana', ['P13'], None),
+    ('ep-final', 'Последние годы в Пури', 'Final Years in Puri', ['P14'], None),
+    ('ep-departure', 'Уход и после', 'Departure and After', ['P15'], None),
 ]
+ADVENT_P02_MAX = 5  # события P02 с order ≤ 5 (Ниламбара, грудь, Сита, богини, имя Нимай) — в «Явлении»
+
+
+def episode_of(ev):
+    per, o = ev['period'], ev.get('order') or 0
+    if per == 'P01': return 'ep-ancestors' if o < 50 else 'ep-advent'
+    if per == 'P02': return 'ep-advent' if o <= ADVENT_P02_MAX else 'ep-infancy'
+    for eid, _, _, periods, _ in EPISODES:
+        if per in periods: return eid
+    return None
+
 
 # Краткие названия писаний для сайта (RU, EN, автор RU, автор EN)
 SOURCES = {
@@ -137,10 +158,15 @@ def full_layers(full_rel, first_line):
     """Слои (orig/translit/wbw), стоящие перед строкой перевода в полном издании."""
     L = lines_of(full_rel)
     if not L: return {}
-    target = strip_fn(first_line)
-    idx = [i for i, ln in enumerate(L) if strip_fn(ln) == target]
-    if not idx: return {}
-    i = idx[0] - 1
+    key = ('idx', full_rel)
+    if key not in _cache:
+        d = {}
+        for i, ln in enumerate(L):
+            d.setdefault(strip_fn(ln), i)
+        _cache[key] = d
+    j = _cache[key].get(strip_fn(first_line))
+    if j is None: return {}
+    i = j - 1
     block = []
     while i >= 0:
         ln = L[i]
@@ -246,46 +272,80 @@ def passage(e):
     return p
 
 
-def age_label(ev):
-    y, a = ev.get('years'), ev.get('age')
-    return y, a
-
-
 def main():
     L = json.load(open(os.path.join(ROOT, 'lila-db/export/lilas.json'), encoding='utf-8'))
-    E = {e['id']: e for e in json.load(open(os.path.join(ROOT, 'lila-db/export/events.json'), encoding='utf-8'))}
+    events = json.load(open(os.path.join(ROOT, 'lila-db/export/events.json'), encoding='utf-8'))
+    meta = json.load(open(os.path.join(ROOT, 'lila-db/export/meta.json'), encoding='utf-8'))
+    pord = list(meta['periods'])
+    events.sort(key=lambda e: (pord.index(e['period']) if e['period'] in pord else 99, e.get('order') or 0))
     by_ev = {}
     for e in L:
         if e.get('event'): by_ev.setdefault(e['event'], []).append(e)
-    groups = []
-    for g in GROUPS:
-        evs = []
-        for eid in g['events']:
-            ev = E[eid]
-            srcs = {}
-            for e in by_ev.get(eid, []):
-                s = srcs.setdefault(e['source'], {'id': e['source'], 'authority': e.get('authority'), 'passages': []})
-                s['passages'].append(passage(e))
-            order = list(SOURCES)
-            slist = sorted(srcs.values(), key=lambda s: (s['authority'] or 'D', order.index(s['id']) if s['id'] in order else 99))
-            for s in slist:
-                t = SOURCES.get(s['id'], (s['id'],) * 4)
-                s.update(title=t[0], title_en=t[1], author=t[2], author_en=t[3])
-                s['authority'] = min((p['authority'] or 'D') for p in s['passages'])
-            evs.append({
-                'id': eid, 'title': ev['title'], 'title_en': ev.get('title_en', ''),
-                'years': ev.get('years'), 'date_conf': ev.get('date_conf'),
-                # до явления (P01 раньше самого рождения) возраста нет
-                'age': None if (ev['period'] in ('P00', 'P01') and (ev.get('order') or 0) < 70) else ev.get('age'),
-                'before': ev['period'] in ('P00', 'P01') and (ev.get('order') or 0) < 70,
-                'calendar': ev.get('calendar', ''), 'cc': ev.get('cc', ''), 'cb': ev.get('cb', ''),
-                'sources': slist,
-            })
-        groups.append({**{k: g[k] for k in ('id', 'title', 'title_en')}, 'events': evs})
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    json.dump({'groups': groups}, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    n = sum(len(p['verses']) for g in groups for e in g['events'] for s in e['sources'] for p in s['passages'])
-    print(OUT, os.path.getsize(OUT) // 1024, 'КБ;', n, 'стихов')
+    order = list(SOURCES)
+    eps = {eid: {'id': eid, 'title': t, 'title_en': te, 'events': []} for eid, t, te, _, _ in EPISODES}
+    verses = {eid: {} for eid in eps}
+    nverses = 0
+    for ev in events:
+        ep = episode_of(ev)
+        if ep is None or not by_ev.get(ev['id']): continue
+        srcs = {}
+        for e in by_ev[ev['id']]:
+            s = srcs.setdefault(e['source'], {'id': e['source'], 'passages': []})
+            s['passages'].append(passage(e))
+        slist = sorted(srcs.values(), key=lambda s: (min(p['authority'] or 'D' for p in s['passages']),
+                                                    order.index(s['id']) if s['id'] in order else 99))
+        cards = []
+        for s in slist:
+            t = SOURCES.get(s['id'], (s['id'], s['id'], '', ''))
+            cards.append({'id': s['id'], 'title': t[0], 'title_en': t[1], 'author': t[2], 'author_en': t[3],
+                          'authority': min((p['authority'] or 'D') for p in s['passages'])})
+            nverses += sum(len(p['verses']) for p in s['passages'])
+        verses[ep][ev['id']] = {s['id']: s['passages'] for s in slist}
+        before = ev['period'] == 'P00' or (ev['period'] == 'P01' and (ev.get('order') or 0) < 70)
+        eps[ep]['events'].append({
+            'id': ev['id'], 'title': ev['title'], 'title_en': ev.get('title_en', ''),
+            'years': ev.get('years'), 'date_conf': ev.get('date_conf'),
+            'age': None if before else ev.get('age'), 'before': before,
+            'calendar': ev.get('calendar', ''), 'cc': ev.get('cc', ''), 'cb': ev.get('cb', ''),
+            'sources': cards,
+        })
+    out = []
+    for e in eps.values():
+        if not e['events']: continue
+        ys = [y for ev in e['events'] for y in (ev['years'] or [])]
+        e['years'] = [min(ys), max(ys)] if ys else None
+        e['before'] = all(ev['before'] for ev in e['events'])
+        out.append(e)
+    os.makedirs(os.path.join(DATA, 'verses'), exist_ok=True)
+    for f in os.listdir(os.path.join(DATA, 'verses')):
+        os.remove(os.path.join(DATA, 'verses', f))
+    tl = os.path.join(DATA, 'timeline.json')
+    json.dump({'episodes': out}, open(tl, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    # стихи — порциями ≤ CHUNK байт (лилы эпизода подряд), номер порции записан у лилы в timeline.json
+    CHUNK = 800_000
+    total, nchunks = 0, 0
+    evmap = {ev['id']: ev for e in out for ev in e['events']}
+    for ep, d in verses.items():
+        part, size, k = {}, 0, 1
+        def flush():
+            nonlocal part, size, k, total, nchunks
+            if not part: return
+            name = f'{ep}-{k}'
+            p = os.path.join(DATA, 'verses', name + '.json')
+            json.dump(part, open(p, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+            for eid in part: evmap[eid]['chunk'] = name
+            total += os.path.getsize(p); nchunks += 1
+            part, size, k = {}, 0, k + 1
+        for eid, v in d.items():
+            n = len(json.dumps(v, ensure_ascii=False).encode())
+            if part and size + n > CHUNK: flush()
+            part[eid] = v; size += n
+        flush()
+    json.dump({'episodes': out}, open(tl, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    old = os.path.join(DATA, 'lilas.json')
+    if os.path.exists(old): os.remove(old)
+    print(f"{len(out)} эпизодов, {sum(len(e['events']) for e in out)} лил, {nverses} стихов; "
+          f"timeline.json {os.path.getsize(tl) // 1024} КБ, стихи {total // 1024} КБ в {nchunks} файлах")
 
 
 if __name__ == '__main__':
