@@ -72,7 +72,8 @@ def build(chap, ed='full', size='a5', lang='ru'):
             m = re.match(r'^\((\d+(?:–\d+)?)\) (.*)', p, re.S)
             lab = m.group(1); a, b = (lab.split('–') + [lab])[:2]
             blk.append('<p class="tr"><span class="n">%s</span> %s</p>' % (lab, inline(m.group(2), notes)))
-            keys = [k for k in list(apb) + list(anu) if k != '0' and (k == lab or k == a or k.split('–')[-1] == b)]
+            # раздел комментария — под блоком стихов, в который входит последний номер раздела (группы у ВЧД и в издании бывают разными)
+            keys = [k for k in list(apb) + list(anu) if k != '0' and int(a) <= int(k.split('–')[-1]) <= int(b)]
             sh = ''
             for k in dict.fromkeys(keys):
                 if k in anu and subheading(anu[k]): sh = subheading(anu[k])
