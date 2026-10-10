@@ -153,3 +153,26 @@
 - дхарма, артха, кама, мокша → religious duty, wealth, pleasure, liberation (*dharma*, *artha*, *kāma*, *mokṣa*);
   три вида страданий → the threefold miseries; красноречие → eloquence.
 - Колофон: *Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”* / *… of the “Anubhāṣya.”*
+
+## English — добавлено по Ади 2
+- анувада / видхея → *anuvāda* (what is already known, the subject) / *vidheya* (what is said about it, the predicate) — в переводе стихов (`glossary-Adi02.md`): subject (*anuvāda*) / predicate (*vidheya*); уддешья → *uddeśya*; аланкара-шастра → the science of poetics (*alaṅkāra-śāstra*).
+- авимришта-видхеямша → the defect *avimṛṣṭa-vidheyāṁśa*; садхья / бадхья → what must be established (*sādhya*) / necessarily (*bādhya*); пурвапакша → *pūrvapakṣa* (an opponent's thesis); парибхаша → *paribhāṣā*, a [defining] *sūtra*.
+- бхрама, прамада, випралипса, каранапатава → *bhrama*, *pramāda*, *vipralipsā*, *karaṇāpāṭava* (определения — как у каждого комментатора); арша → *ārṣa*, the sayings of the sages.
+- сияние тела → the radiance of His body; амши → the whole (*aṁśī*); анга / ангин → limb, part (*aṅga*) / possessor of the limbs (*aṅgī*).
+- Сам Бхагаван → Bhagavān Himself; источник аватар → the source of the avatāras; изначальный Нараяна → the original Nārāyaṇa; Параматма → the Paramātmā (при первом появлении — the Supersoul), далее Paramātmā без курсива как имя.
+- Антарьями → the indwelling Lord (*antaryāmī*); Антарьями-пуруша → the Puruṣa who dwells within; совокупная / индивидуальная джива → the aggregate / the individual *jīva* (*samaṣṭi* / *vyaṣṭi*).
+- ашрая / ашрита → *āśraya*, the shelter / *āśrita*, that which rests on the shelter; ашрая-таттва → *āśraya-tattva*; ашрита-таттвы → *āśrita-tattvas*.
+- десять признаков Пураны → *sarga*, *visarga*, *sthāna* (*sthiti*), *poṣaṇa*, *ūti*, *manvantara*, *īśānukathā*, *nirodha*, *mukti*, *āśraya* (курсивом, с пояснением по глоссам).
+- прабхава / вайбхава → *prābhava* / *vaibhava*; амшавеша / шактьявеша → *aṁśāveśa* / *śaktyāveśa*; балья, пауганда, кишора → childhood (*bālya*), boyhood (*paugaṇḍa*), youth (*kiśora*); нитья-кишора → eternally youthful (*nitya-kiśora*).
+- чит-шакти / джива-шакти / майя-шакти → *cit-śakti* / *jīva-śakti* / *māyā-śakti*; внутренняя, пограничная, внешняя → internal, marginal (*taṭastha*), external potency; сандхини, самвит, хладини → *sandhinī*, *saṁvit*, *hlādinī*.
+- Вират, Хираньягарбха, Карана → Virāṭ, Hiraṇyagarbha, Kāraṇa; упадхи → designation (*upādhi*); турия → *turīya*, the fourth; турия-виграха → the *turīya-vigraha*, the form beyond the three states.
+- Деви-дхама → Devī-dhāma, the material world; прадхана → *pradhāna*; махат-таттва → the *mahat-tattva*; чатур-вьюха → the *catur-vyūha*.
+- Каранабдхишайи / Каранарнавашайи, Гарбходакашайи / Гарбходашайи, Кширодакашайи / Кширодашайи → Kāraṇābdhiśāyī / Kāraṇārṇavaśāyī, Garbhodakaśāyī / Garbhodaśāyī, Kṣīrodakaśāyī / Kṣīrodaśāyī (как в оригинале); Каранодака, Гарбходака, Кширодака → the Kāraṇodaka (the Causal Waters), the Garbhodaka, the Kṣīrodaka (the Ocean of Milk).
+- сватагата / саджатия / виджатия → internal / homogeneous / heterogeneous distinctions (*svagata* / *sajātīya* / *vijātīya*).
+- анвая / вьятирека (о Брахмане) → the accompanying presence (*anvaya*) / separately (*vyatireka*).
+- нитья-виграха → eternal form (*nitya-vigraha*); бхакти-рати → *bhakti-rati*, the loving attraction of devotion; виласа-мурти → *vilāsa-mūrti*.
+- саттвика-викары → the *sāttvika-vikāras* (spiritual transformations); каништха-адхикари → devotees of the lowest level (*kaniṣṭha-adhikārīs*); слушание как часть бхакти → hearing, a part of devotion (*śravaṇāṅga*).
+- Гаудия-даршана → Gauḍīya philosophy (*Gauḍīya-darśana*); вишиштадвайтисты → the Viśiṣṭādvaitins; адвайтавадины → the Advaitavādīs.
+- Нада (прозвище Адвайты) → Nāḍā; Аулукья → Aulūkya; Триюга → Triyuga; Майя (место) → Māyā; Адхиша → Adhīśa.
+- Источники: *Tattva-sandarbha*, *Bhagavat-sandarbha*, *Ṣaṭ-sandarbha*, *Laghu-bhāgavatāmṛta*, *Bhāvārtha-dīpikā*, *Ekādaśī-tattva*, *Gauḍīya-bhāṣya*, *Hayaśīrṣa-pañcarātra*, *Kṛṣṇa-yāmala*, *Brahma-yāmala*, *Vāyu Purāṇa*, *Ananta-saṁhitā*, *Caitanya Upaniṣad*, *Nārāyaṇa-atharvaśira Upaniṣad*, *Muṇḍaka Upaniṣad*, *Śvetāśvatara Upaniṣad*, *Ṛg-veda-saṁhitā*, *Pañcarātra*.
+- Колофон: *Thus ends the second chapter of the “Amṛta-pravāha-bhāṣya.”* / *… of the “Anubhāṣya.”*

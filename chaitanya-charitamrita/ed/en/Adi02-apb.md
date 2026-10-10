@@ -124,4 +124,70 @@ In this verse the word *advaya-jñāna* (nondual knowledge) means the original T
 
 Rāma, Nṛsiṁha and the others are parts (*aṁśas*) or parts of parts (*kalās*) of the *puruṣa-avatāra*. But Kṛṣṇa is Bhagavān Himself. These avatāras protect the world, oppressed by the Daityas (demons), in age after age.
 
+## 74
+
+In poetics the unknown is called the *vidheya*, and the known the *anuvāda*. Take the sentence “This brāhmaṇa is learned.” Everyone knows that this man is a brāhmaṇa; so this is the *anuvāda*. Not everyone knows that the brāhmaṇa is learned; so this is the *vidheya*. If someone states the *vidheya* first without stating the *anuvāda*, his statement has nothing to rest on and cannot stand.
+
+## 79
+
+*Iha* means “they.” “His avatāras” is a known subject. But whose avatāras they are is not yet known.
+
+## 80–86
+
+In the verse *ete cāṁśa-kalāḥ…* the word *ete* (these) names the avatāras; this is its *anuvāda*. That they are parts of the *puruṣa-avatāra* was not known before, and this is stated next as the *vidheya*. In this verse Kṛṣṇa too is mentioned among the avatāras. But the special knowledge about Kṛṣṇa is not yet known, so a *vidheya* is needed. That is why the word “Kṛṣṇa” comes first, as the *anuvāda*, and its *vidheya* is that Kṛṣṇa is “Bhagavān Himself.” This is what must be established here (*sādhya*): the reasoning must prove that Kṛṣṇa is Bhagavān Himself. Therefore the words *kṛṣṇas tu bhagavān svayam* necessarily (*bādhya*) mean “Kṛṣṇa is Bhagavān Himself,” and they can have no other meaning. If Nārāyaṇa were the whole and Kṛṣṇa the part, Sūta's words would stand in the reverse order: “Bhagavān Himself is Kṛṣṇa.” But *ārṣa*, the wise sayings of the sages, are free from the four defects — *bhrama*, *pramāda*, *vipralipsā* and *karaṇāpāṭava*. That is why the text reads *kṛṣṇas tu bhagavān svayam*. *Bhrama* is false knowledge; *pramāda*, inattention; *vipralipsā*, a mind distracted elsewhere; *karaṇāpāṭava*, the imperfection of the senses.
+
+## 87
+
+The defect called *avimṛṣṭa-vidheyāṁśa* arises when the *vidheya* is stated before the *anuvāda*. *Avimṛṣṭa* means unconsidered.
+
+## 91
+
+The *Bhāgavatam* describes ten subjects: *sarga*, *visarga*, *sthāna*, *ūti*, *poṣaṇa*, the *manvantaras*, *īśa-kathā*, *nirodha*, *mukti* and *āśraya*. The tenth truth is *āśraya*, the shelter. To examine it in its purity, the great souls have described the nine preceding marks: in some places through prayers and narratives, and in others through direct reasoning.
+
+## 92
+
+In the Tenth Canto Śrī Kṛṣṇa is pointed out as the *āśraya-vigraha*, the form who is the shelter of all who seek shelter. I bow to that supreme abode and abode of the universe whose name is Śrī Kṛṣṇa. The meaning is this. In the world there are two truths: *āśraya*, the shelter, and *āśrita*, that which rests on the shelter. The original truth on which all the *āśrita-tattvas* rest is the *āśraya*. All the truths that exist by resting on it are *āśrita-tattvas*. Everything from *sarga* to *mukti* is *āśrita-tattva*. Thus the *puruṣa-avatāras* and all the avatāras who follow Them, all the potencies, and after them the worlds of *jīvas* and of matter — all of these rest on that shelter, on Kṛṣṇa. In its prayers and narratives the *Bhāgavatam* examines the *āśraya-tattva* partly indirectly, and in its direct teachings directly. Therefore one must know Kṛṣṇa's *svarūpa* and His three potencies.
+
+## 96
+
+The three potencies are the *cit-śakti*, the *jīva-śakti* and the *māyā-śakti*.
+
+## 97
+
+*Prābhava* and *vaibhava* are those whose forms, full of being, consciousness and bliss, are equal to Hari's, but who are slightly below His supreme state. Their names depend on the measure of potency: where lordship (*prabhutā*) predominates, there is *prābhava*; where greatness (*vibhutā*) predominates, *vaibhava*. *Prābhava* is of two kinds. *Prābhavas* of the first kind remain in the world only briefly: for example, Mohinī, Haṁsa, Śukla and other short-lived avatāras connected with particular ages. The fame of *prābhavas* of the second kind does not spread very widely: for example, Dhanvantari, Ṛṣabha, Vyāsa, Dattātreya, Kapila and others. But Kūrma, Matsya, Nara-Nārāyaṇa, Varāha, Hayagrīva, Pṛśnigarbha, Baladeva and the avatāras of the fourteen *manvantaras* — Yajña, Vibhu, Satyasena, Hari, Vaikuṇṭha, Ajita, Vāmana, Sārvabhauma, Ṛṣabha, Viṣvaksena, Dharmasetu, Sudhāmā, Yogeśvara and Bṛhadbhānu — are *vaibhava-avatāras*.
+
+## 98
+
+The *aṁśāveśa-* and *śaktyāveśa-avatāras* are explained elsewhere. They too are counted among the *prābhavas* and *vaibhavas*. The same holds for the *guṇa-avatāras*.
+
+## 99
+
+Kṛṣṇa is eternally youthful (*nitya-kiśora*), and He has two kinds of pastimes, in childhood (*bālya*) and in boyhood (*paugaṇḍa*). Therefore the source of the avatāras Himself is precisely Kṛṣṇa in His youthful form.
+
+## 97–100
+
+Kṛṣṇa's *svarūpa* displays six kinds of *vilāsa*: two kinds of manifestation, *prābhava* and *vaibhava*; two kinds of avatāra, *aṁśa* and *śaktyāveśa*; and two ages, *bālya* and *paugaṇḍa*. In these six kinds of *vilāsa* of His *svarūpa*, Kṛṣṇa in His youthful form performs pastimes throughout the universe. Thus these six forms divide without end. But even having become endless, Kṛṣṇa remains the one undivided Truth.
+
+## 101–103
+
+The *cit-śakti*, or *svarūpa-śakti*, is also called the internal potency. From it come the endless manifestations of splendor in Vaikuṇṭha and the other abodes. From the marginal potency, the *jīva-śakti*, come the countless *jīvas*, conditioned and liberated. From the external potency, the *māyā-śakti*, comes the endless variety of material universes.
+
+## 107
+
+The Supreme Lord is Kṛṣṇa, the form of being, consciousness and bliss. He Himself has no beginning, yet He is the beginning of all and the cause of all causes.
+
+## 108
+
+*Calāite* means “to unsettle me needlessly.”
+
+## 110–112
+
+In some books Śrī Caitanya is called Kṣīrodaśāyī, the Lord of Vaikuṇṭha. This does not describe His greatness fully, yet the words of those devotees are not false either. For Kṛṣṇa Caitanya, who is non-different from Kṛṣṇa, is Himself the source of the avatāras, and so all the avatāras abide in Him.
+
+## 117
+
+Some who thirst for devotion do not count these conclusions (*siddhāntas*) as part of devotion and are too lazy to study them. But this does not lead to good. For when one has understood one's relationship with Kṛṣṇa (*sambandha-jñāna*), the mind becomes firmly attached to His lotus feet. Therefore such true conclusions are the root of pure devotion.
+
+*Thus ends the second chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 [^21-1]: The Russian verse translation (VCD) reads differently: it does not render *ātma-kalpita* separately, and it relates the delusion of difference to the Lord's various forms.

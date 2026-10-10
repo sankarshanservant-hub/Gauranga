@@ -343,9 +343,217 @@ After listing Śrī Kṛṣṇa's avatāras, Śrī Sūta concludes with this ver
 - **yuge yuge** — (in every age, at the proper time)
 - **mṛḍayanti** — (make happy).
 
+## 73
+
+> Subheading: (3) Refuting, by the rules of poetics, the view that Kṛṣṇa is a part of Nārāyaṇa —
+
+## 74
+
+> Subheading: (a rule of poetics, *Ekādaśī-tattva* 13)
+
+- **anuvādam** — the *uddeśya*, that is, the known subject.
+- **anuktvā** — without stating.
+- **vidheyam** — the unknown subject.
+- **na udīrayet** — one should not state.
+- **hi** — for.
+- **alabdhāspadam** — that which has not found a footing, its own place.
+- **kiñcit** — anything.
+- **kutracit** — anywhere.
+- **na pratitiṣṭhati** — does not stand firm.
+
+## 75
+
+> Subheading: The rule for using the *anuvāda* and the *vidheya* —
+
+## 76
+
+> Subheading: Definition of the *anuvāda* and the *vidheya* —
+
+## 77
+
+> Subheading: An example —
+
+## 79
+
+> Subheading: Explaining the verse *ete cāṁśa-kalāḥ…* by the rule of *anuvāda* and *vidheya*, or: Kṛṣṇa is the source of the avatāras —
+
+## 84
+
+> Subheading: Otherwise Sūta's words would contradict themselves —
+
+## 86
+
+> Subheading: Freedom from the four defects is the mark and distinction of the words of liberated souls —
+
+**Bhrama** is false knowledge of a thing, taking it to be what it is not, as when one takes a rope for a snake or mother-of-pearl for silver. **Pramāda** is inattention: one perceives, hears or says one thing as another. **Vipralipsā** is the desire to cheat. **Karaṇāpāṭava** is the imperfection of the senses. For example, the eye cannot see what is far away or make out what is tiny; in jaundice and other diseases the perception of color (form) is distorted; and the ear cannot hear a sound from far away.
+
+## 87
+
+**Avimṛṣṭa-vidheyāṁśa.** The *vidheyāṁśa* is the unknown subject. If it is not set forth as the main thing, the defect called *avimṛṣṭa-vidheyāṁśa* arises. Its other name is *vidheya-avimarśa*.
+
+## 88
+
+> Subheading: The meaning and definition of the words “Bhagavān Himself” —
+
+## 89
+
+> Subheading: An example of the source of the avatāras and of the avatāras —
+
+*Brahma-saṁhitā*, Chapter 5, verse 46: “The flame of a lamp passes to another wick and itself becomes a lamp: it burns separately, yet has the same qualities as its source. In the same way He shines in the form of Viṣṇu. I worship Govinda, the original Puruṣa.”
+
+All the *viṣṇu-tattvas* are like lamps: they are full of light and have the same qualities as the original Nārāyaṇa. Yet they are lit from the original lamp. The *viṣṇu-tattvas* are equal to Govinda in being light. But Viriñci (Brahmā) and Śambhu (Śiva) are not so, even though they too are *guṇa-avatāras*. Śrī Jīva Gosvāmī says: “Śambhu, however, is the seat of *tamas*. He is like a thin lamp flame mixed with soot, and so there is no such equality.”
+
+## 91
+
+> Subheading: (4) By the marks of a Purāṇa too, the original shelter is not Nārāyaṇa but Kṛṣṇa — (*Śrīmad-Bhāgavatam* 2.10.1–2)
+
+Parīkṣit asked how the *rājasic* creations arose from the Vairāja Puruṣa. In answer Śukadeva speaks this verse at the start of his explanation of the *catuḥ-ślokī*, the four verses.
+
+- **atra** — here, in the *Śrīmad-Bhāgavatam*.
+- **sargaḥ** — the birth of the elements, the subtle elements, the senses and the intelligence.
+- **visargaḥ** — the imbalance of the modes in Brahmā's creation.
+- **sthānam** — maintenance (*sthiti*). This is Bhagavān's victory: His excellence shows in the fact that everything created keeps within its bounds.
+- **poṣaṇam** — His mercy to His devotees.
+- **ūtayaḥ** — the desires that impel one to karma.
+- **manvantara** — the *manvantaras*, that is, the *dharma* of goodness.
+- **īśānukathāḥ** — the narratives of Hari's avatāras.
+- **nirodhaḥ** — withdrawal: the world, together with the potencies, lies down to sleep following the Self.
+- **muktiḥ** — abiding in the pure state.
+- **āśrayaḥ** — the Parabrahman, the Paramātmā, the cause of creation, maintenance and dissolution.
+
+These are the ten subjects.
+
+## 92
+
+- **mahātmānaḥ** — the great souls, Vidura and others.
+- **iha** — here, in the Purāṇa *Śrīmad-Bhāgavatam*.
+- **daśamasya** — of the tenth, that is, of the *āśraya*.
+- **viśuddhy-artham** — for clear knowledge, that is, knowledge of the truth.
+- **navānām** — of the nine [subjects].
+- **lakṣaṇam** — the nature.
+- **śrutena** — by the word that names them directly.
+- **añjasā** — directly.
+- **arthena** — by the meaning.
+- **varṇayanti** — describe.
+
+1. *Sarga* — the arising of the five great elements, the five *tanmātras* (subtle elements), the ten senses, the mind, the *mahat-tattva* and false ego (*ahaṅkāra*), both in the form of the Virāṭ and in their own nature.
+2. *Visarga* — Brahmā's creation of the moving and the unmoving.
+3. *Sthiti* — Bhagavān's victory, His excellence over Brahmā, the creator, and over Śiva, the destroyer.
+4. *Poṣaṇa* — Bhagavān's mercy to His devotees.
+5. *Ūti* — the desires that impel one to karma.
+6. *Manvantara* — the *dharma* followed by the *jīvas* in goodness.
+7. *Īśa-kathā* — the narratives of Hari's avatāras and of the *bhāgavatas* (His devotees).
+8. *Nirodha* — Hari enters His mystic sleep (*yoga-nidrā*) and lies down together with His potencies, the *upādhis*.
+9. *Mukti* — the *jīva* gives up his gross and subtle forms and abides in the form of a pure *jīva* or of an associate of the Lord.
+10. *Āśraya* — that celebrated Parabrahman and Paramātmā from whom creation and dissolution proceed and in whom the universe is manifest.
+
+## 95
+
+> Subheading: (from the *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 10.1.1)
+
+- **daśame** — in the Tenth Canto of the *Śrīmad-Bhāgavatam*.
+- **āśritāśraya-vigraham** — the form who is the shelter of the *āśritas*, the surrendered souls.
+- **daśamam** — the tenth, that is, the *āśraya-tattva*.
+- **lakṣyam** — is pointed out.
+- **tat paraṁ dhāma** — that supreme abode, the best shelter,
+- **jagad-dhāma** — the abode of the universe, the shelter of all,
+- **śrī-kṛṣṇākhyam** — named Śrī Kṛṣṇa,
+- **namāmi** — I worship.
+
+## 96
+
+> Subheading: The basis of knowledge about Kṛṣṇa —
+
+Śrī Jīva Prabhu writes in the *Bhagavat-sandarbha* (16): “The one Supreme Truth, by Its own natural inconceivable potency, always abides in four ways: as Its *svarūpa*, as the manifestations of the *svarūpa* (*vaibhava*), as the *jīvas* and as *pradhāna*. So too the radiance within the sun's disc abides as the disc itself, as the rays issuing from it, and as their reflection. Inconceivability is the power to accomplish the impossible. Potency is of three kinds: internal, external and marginal. By the internal potency, called *svarūpa-śakti*, the Truth abides in Its full form and in the manifestations of that form, Vaikuṇṭha and the rest. By the marginal potency It abides as the pure *jīvas*: they are like the rays, spiritual and one with It in nature. By the external potency, called *māyā*, It abides as *pradhāna*: this is Its external, material manifestation, like the play of colors in a reflection. These are the four ways. The *jīva* is a part of It and therefore the marginal potency, while *pradhāna* belongs to *māyā*; with this in view the *Viṣṇu Purāṇa* counts three potencies. The potency whose work is ignorance (*avidyā*) is called ‘karma’ there; this is *māyā*. Although it is external, it has the power to cover even the *jīva*, who consists of the marginal potency. Its covering lies on bodies from Brahmā down to the unmoving beings, now lighter, now heavier. *Pradhāna* lacks such qualities as spirituality and changelessness; one should understand that it is this inconceivable *māyā* that makes it material and changeable. The internal, marginal and external potencies are one in nature [with the Truth]. It is said here only that each of them resembles its image in one respect, not in all: they take the place of the disc, the rays and the reflection, but are not identical with them. Therefore the defects of these images do not apply here.”
+
+This one Supreme Truth, by the power of a natural potency beyond human understanding, always abides in four ways: as the *svarūpa*, as the manifestations of the *svarūpa*, as the *jīva* and as *pradhāna*. So too the sun has four aspects: the radiance within the disc, the disc itself, the rays issuing from the disc, and their reflection. Inconceivability means that the Truth accomplishes the impossible. Potency, too, is of three kinds: internal, external and marginal. The internal *svarūpa-śakti* reveals the full form of the *svarūpa* and its manifestations — Vaikuṇṭha, Goloka and the rest. The marginal potency reveals the spiritual forms of the pure *jīvas*, which are like the rays. The external potency, *māyā*, reveals the external manifestation connected with the Truth — material *pradhāna*, like the play of colors in a reflection. These are the four ways. The *jīva* is a part of It and therefore the marginal potency, while *pradhāna* belongs to *māyā*; understanding this, the *Viṣṇu Purāṇa* counts three potencies. The potency that does the work of ignorance (*avidyā*) is called *māyā*. This potency is external, and yet it is given the power to cover the *jīva*, who consists of the marginal potency. The *jīvas* covered by *māyā* abide, to a greater or lesser degree, in bodies from the unmoving beings up to Brahmā. *Pradhāna* lacks such qualities as spirituality and changelessness — it is material and changeable; one should know that this happens only by the will of the inconceivable *māyā*. The internal, marginal and external potencies are one in nature, and they are equal in being potencies. But they do not resemble each other in everything: it is said of them only that they take the place [of the disc, the rays and the reflection], not that they are those images. Therefore the defects proper to the marginal and external potencies have no place in the internal potency. Nor do the defects of the external potency have a place in the marginal, or those of the marginal in the external.
+
+## 101
+
+> Subheading: The *cit-śakti* and its manifestations —
+
+## 102
+
+> Subheading: The *māyā-śakti* and its manifestations —
+
+## 103
+
+> Subheading: The *jīva-śakti* —
+
+*Śvetāśvatara Upaniṣad*, Chapter 6, mantra 8: “He has no work and no organs of action; no one is seen equal to Him or higher than Him. The Śrutis say that His supreme potency is manifold, and knowledge, strength and action belong to Him by nature.”
+
+## 104
+
+> Subheading: Where the forms of the *svarūpa* and the potencies abide —
+
+## 106
+
+> Subheading: Who Kṛṣṇa is —
+
+## 107
+
+> Subheading: (*Brahma-saṁhitā* 5.1)
+
+- **kṛṣṇaḥ** — Kṛṣṇa, Vrajendranandana.
+- **paramaḥ īśvaraḥ** — the Supreme Lord. He is the Master of all: of Baladeva, Nārāyaṇa, Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; of the *puruṣa-avatāras*, the Paramātmās who lie in the three oceans — Kāraṇa, Garbha and Kṣīrārṇava; of the *naimittika-avatāras* — Matsya, Kūrma, Varāha, Rāma, Nṛsiṁha and others; of the *guṇa-avatāras* — Brahmā, Śiva and others; of the impersonal Brahman; and of the *vibhūti-avatāras* — Mahendra and the rest.
+- **sac-cid-ānanda-vigrahaḥ** — the form of being, consciousness and bliss, endowed with three potencies: *sandhinī*, *saṁvit* and *hlādinī*.
+- **anādiḥ** — without beginning; of Him it is said, “I alone was in the beginning.”
+- **ādiḥ** — the original form of all.
+- **sarva-kāraṇa-kāraṇam** — the cause, the root, of all causes.
+- **govindaḥ** — Govinda.
+
+## 109
+
+> Subheading: Śrī Caitanya is Kṛṣṇa, Himself the source of the avatāras —
+
+## 110
+
+> Subheading: In Śrī Caitanya, the source of the avatāras, all the avatāras are contained —
+
+## 111
+
+> Subheading: Therefore it is no error to call Him by any name of Viṣṇu —
+
+*Śrī Caitanya-bhāgavata*, Madhya, Chapter 6, 95: “I was lying in the Ocean of Milk — and Nāḍā's roar broke My sleep.”[^111-1]
+
+## 114
+
+In the *Laghu-bhāgavatāmṛta*, where Kṛṣṇa is described as the source of the avatāras, it is said: “Therefore in the Purāṇas and other scriptures the sages, following particular events, name Kṛṣṇa differently: some call Him Narasakha, the Friend of Nara; others, the younger brother of Mahendra; still others, the One who lies in the Ocean of Milk; some, the Thousand-headed One; and some, the Lord of Vaikuṇṭha.”
+
+## 116
+
+> Subheading: All devotees, on the path of *vaidhī* and on the path of *rāgānugā* alike, absolutely need to know the conclusions of devotion —
+
+## 117
+
+Many see the example of devotees in whom taste (*ruci*) has awakened and think it is not so necessary to study the conclusions (*siddhānta*). Out of such laziness many grow poor in worship (*bhajana*) and turn away from Kṛṣṇa. They take for devotion material feelings hostile to devotion, and fall under the sway of *anarthas*. The path led by reasoning suits those in whom taste has not yet awakened. Yet those in whom taste has awakened but is still weak have special need of hearing, a part of devotion (*śravaṇāṅga*). Without hearing the conclusions about Kṛṣṇa, taste does not grow. Among the nine kinds of devotion, hearing is prescribed at the very beginning, before glorification. The creeper of devotion grows only when it is watered with hearing and glorification. Even Brahmā, when he praised Kṛṣṇa and described the devotees who had given up the effort for knowledge, said: “…the news of You, resounding from the mouths of the sādhus and reaching the ear.” The *Bhāgavatam* grants the pure knowledge of the *paramahaṁsas*. Only one who reads and hears it while reflecting on it attains the level of a *mahā-bhāgavata*. In Śrī Mahāprabhu's teachings to Sanātana we hear: “One who is expert in scripture and reasoning and has firm faith is a devotee of the highest level; he delivers the world.” And Śrī Rūpa Gosvāmīpāda said that one must give up laziness: “Devotion is perfected by six qualities: enthusiasm, conviction, patience, carrying out the prescribed duties, giving up [bad] company, and following the conduct of the sādhus.”[^117-1]
+
+Those who claim to be devotees without knowing the conclusions often, out of foolishness, artificially practice the *sāttvika-vikāras* (spiritual transformations), and so lower the standing of a Vaiṣṇava in people's eyes. Condemning this bad habit, the *Śrīmad-Bhāgavatam* gives the verse *tad aśma-sāram…*.[^117-2] In his commentary on it Śrīpāda Cakravartī Ṭhākura says: “If there are tears and thrilling outside but the heart is not transformed, that heart is made of stone. This censure is aimed at devotees of the lowest level (*kaniṣṭha-adhikārīs*): even when they have tears, thrilling and the like, their hearts are of stone.” When the conclusions are not respected, artificial devotion appears; Śrī Rūpa Prabhu painted its picture like this: “In those whose hearts are slippery by nature, and in those who practice it, tears, thrilling and the like sometimes appear even without a semblance of *sattva*.” Here too is a vivid example of how the crowd of false devotees, lacking the conclusions, take transformations of *māyā* for transcendental ones.
+
+Many condemn even reading the works on *siddhānta* written by the Vaiṣṇava ācāryas — Śrī Rāmānuja, Madhvācārya, Nimbārka, Viṣṇusvāmī and others — just as they condemn studying the books of the Advaitavādīs, who are hostile to devotion. Yet for the good of the Vaiṣṇavas Śrī Jīva quoted precisely their excellent conclusions in the *Ṣaṭ-sandarbha*. The impersonalists (*nirviśeṣa-vādīs*) mistakenly take the parts of devotion for parts of karma. So too *jīvas* who are Vaiṣṇavas in name only, not knowing the conclusions, imagine that conclusions favorable to devotion are hostile to it — and fall away from devotion to Kṛṣṇa.
+
+## 118
+
+> Subheading: Love for worship (*bhajana*) is born of the conclusions of devotion —
+
+In the *Pañcarātra*: “Firm love (*sneha*), surpassing all and joined with knowledge of [the Lord's] greatness, is called devotion; by it [one attains] *sārṣṭi* and the rest, and by nothing else.” “In those who follow the path of rules it is joined with knowledge of His greatness; but in those who have taken shelter of *rāgānugā* it is usually pure (*kevala*).”
+
+## 119
+
+> Subheading: The author describes the truth about Kṛṣṇa only to establish faith in Caitanya —
+
+## 120
+
+> Subheading: He who is Kṛṣṇa is Caitanya —
+
+*Thus ends the second chapter of the “Anubhāṣya.”*
+
 [^5-1]: The edition reads *atan-māyā-rahita* (literally “free from *māyā*, [which is] not-That”); taken here as “untouched by *māyā*.”
 [^11-1]: The edition reads *māyā vā advaya-jñāna-dvārā* (“by *māyā*, or nondual knowledge”); the sense probably requires *dvaya-jñāna*, dual knowledge (compare *dvaita-jñāna* in the same sentence); translated by the sense.
 [^19-1]: *Muṇḍaka Upaniṣad* 3.1.1–3.
 [^22-2]: Sources not named in the edition: *Śvetāśvatara Upaniṣad* 6.7 and 3.12; *Muṇḍaka Upaniṣad* 3.1.3; *Śrīmad-Bhāgavatam* 11.5.33–34 and 7.9.38.
 [^22-1]: *Māyāyām*, literally “in Māyā”; usually understood as Māyāpura.
 [^37-1]: *Kaṭha Upaniṣad* 2.2.13; *Śvetāśvatara Upaniṣad* 6.13.
+[^111-1]: Nāḍā is a nickname of Advaita Ācārya.
+[^117-1]: *Śrīmad-Bhāgavatam* 10.14.3; *Caitanya-caritāmṛta*, Madhya 22.65; *Upadeśāmṛta* 3.
+[^117-2]: *Śrīmad-Bhāgavatam* 2.3.24.
