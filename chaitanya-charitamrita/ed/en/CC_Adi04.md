@@ -956,65 +956,81 @@ of all  Lakṣmīs  She  is  the basis
 তাঁর অধিষ্ঠাত্রী শক্তি — সর্ব্বশক্তিবর্য্য ॥ ৯১ ॥
 
 kimbā, ‘sarva-lakṣmī’ — kṛṣṇera ṣaḍ-vidha aiśvarya  
-tāṅra adhiṣṭhātrī śakti — sarva-śakti-varya
+or  sarva-lakṣmī  of Kṛṣṇa  of six kinds  opulence  
+tāṅra adhiṣṭhātrī śakti — sarva-śakti-varya  
+of that  the presiding  potency  of all  potencies  the best
 
-(91) [not yet translated]
+(91) Or else, *sarva-lakṣmī* means Kṛṣṇa's six kinds of opulence, and She is the potency that presides over them, the best of all potencies.
 
 সর্ব্ব-সৌন্দর্য্য-কান্তি বৈসয়ে যাঁহাতে ৷  
 সর্ব্বলক্ষ্মীগণের শোভা হয় যাঁহা হৈতে ॥ ৯২ ॥
 
 sarva-saundarya-kānti vaisaye yāṅhāte  
-sarva-lakṣmī-gaṇera śobhā haya yāṅhā haite
+all  of beauty  the splendor  dwells  in whom  
+sarva-lakṣmī-gaṇera śobhā haya yāṅhā haite  
+of all  the Lakṣmīs  the beauty  comes  from whom
 
-(92) [not yet translated]
+(92) *Sarva-kānti* means that in Her dwells the splendor of all beauty, and from Her comes the beauty of all the Lakṣmīs.
 
 কিংবা ‘কান্তি’ শব্দে কৃষ্ণের সব ইচ্ছা কহে ৷  
 কৃষ্ণের সকল বাঞ্ছা রাধাতেই রহে ॥ ৯৩ ॥
 
 kiṁvā ‘kānti’ śabde kṛṣṇera saba icchā kahe  
-kṛṣṇera sakala vāñchā rādhātei rahe
+or  kānti  by the word  of Kṛṣṇa  all  desires  is meant  
+kṛṣṇera sakala vāñchā rādhātei rahe  
+of Kṛṣṇa  all  desires  in Rādhā alone  rest
 
-(93) [not yet translated]
+(93) Or else, the word *kānti* means all of Kṛṣṇa's desires: all of Kṛṣṇa's desires rest in Rādhā alone.
 
 রাধিকা করেন কৃষ্ণের বাঞ্ছিত পূরণ ৷  
 ‘সর্ব্বকান্তি’ শব্দের এই অর্থ বিবরণ ॥ ৯৪ ॥
 
 rādhikā karena kṛṣṇera vāñchita pūraṇa  
-‘sarva-kānti’ śabdera ei artha vivaraṇa
+Rādhikā  makes  of Kṛṣṇa  of the desired  fulfillment  
+‘sarva-kānti’ śabdera ei artha vivaraṇa  
+sarva-kānti  of the word  this  of the meaning  the explanation
 
-(94) [not yet translated]
+(94) Rādhikā fulfills whatever Kṛṣṇa desires. This is the meaning of the word *sarva-kānti*.
 
 জগৎমোহন কৃষ্ণ, তাঁহার মোহিনী ৷  
 অতএব সমস্তের পরা ঠাকুরাণী ॥ ৯৫ ॥
 
 jagat-mohana kṛṣṇa, tāṅhāra mohinī  
-ataeva samastera parā ṭhākurāṇī
+the world  enchanting  Kṛṣṇa  His  enchantress  
+ataeva samastera parā ṭhākurāṇī  
+therefore  of all  the supreme  Mistress
 
-(95) [not yet translated]
+(95) Kṛṣṇa enchants the world, and She enchants Him. Therefore She is the supreme Mistress of all.
 
 রাধা — পূর্ণশক্তি, কৃষ্ণ — পূর্ণশক্তিমান্ ৷  
 দুই বস্তু ভেদ নাই, শাস্ত্র-পরমাণ ॥ ৯৬ ॥
 
 rādhā — pūrṇa-śakti, kṛṣṇa — pūrṇa-śaktimān  
-dui vastu bheda nāi, śāstra-paramāṇa
+Rādhā  the complete potency  Kṛṣṇa  the complete  possessor of potency  
+dui vastu bheda nāi, śāstra-paramāṇa  
+of the two  realities  difference  there is not  of the scriptures  the evidence
 
-(96) [not yet translated]
+(96) Rādhā is the complete potency, and Kṛṣṇa is the complete possessor of potency. The scriptures testify that there is no difference between the two.
 
 মৃগমদ, তার গন্ধ — যৈছে অবিচ্ছেদ ৷  
 অগ্নি, জ্বালাতে — যৈছে কভু নাহি ভেদ ॥ ৯৭ ॥
 
 mṛgamada, tāra gandha — yaiche aviccheda  
-agni, jvālāte — yaiche kabhu nāhi bheda
+musk  its  fragrance  as  inseparable  
+agni, jvālāte — yaiche kabhu nāhi bheda  
+fire  and its heat  as  ever  there is not  difference
 
-(97) [not yet translated]
+(97) They are as inseparable as musk and its fragrance, as fire and its heat, which are never different.
 
 রাধাকৃষ্ণ ঐছে সদা একই স্বরূপ ৷  
 লীলারস আস্বাদিতে ধরে দুইরূপ ॥ ৯৮ ॥
 
 rādhā-kṛṣṇa aiche sadā ekai svarūpa  
-līlā-rasa āsvādite dhare dui-rūpa
+Rādhā-Kṛṣṇa  thus  always  one  nature  
+līlā-rasa āsvādite dhare dui-rūpa  
+of the pastimes  the rasa  to relish  assume  two forms
 
-(98) [not yet translated]
+(98) In the same way Rādhā and Kṛṣṇa are always one in nature, but They assume two forms to relish the *rasa* of Their pastimes.
 
 প্রেমভক্তি শিখাইতে আপনে অবতরি’ ৷  
 রাধা-ভাব-কান্তি দুই অঙ্গীকার করি’ ॥ ৯৯ ॥
@@ -1022,142 +1038,180 @@ līlā-rasa āsvādite dhare dui-rūpa
 শ্রীকৃষ্ণচৈতন্যরূপে কৈল অবতার ৷  
 এই ত’ পঞ্চম শ্লোকের অর্থ পরচার ॥ ১০০ ॥
 
-prema-bhakti śikhāite āpane avatari  
+prema-bhakti śikhāite āpane avatari’  
+loving devotion  to teach  Himself  having descended  
 rādhā-bhāva-kānti dui aṅgīkāra kari’  
+of Rādhā  the emotion  the radiance  both  acceptance  making  
 śrī-kṛṣṇa-caitanya-rūpe kaila avatāra  
-ei ta’ pañcama ślokera artha paracāra
+of Śrī Kṛṣṇa Caitanya  in the form  He made  descent  
+ei ta’ pañcama ślokera artha paracāra  
+this  indeed  of the fifth  verse  of the meaning  the explanation
 
-(99–100) [not yet translated]
+(99–100) To teach loving devotion (*prema-bhakti*), Kṛṣṇa Himself descended. Accepting both Rādhā's emotion and Her radiance, He appeared in the form of Śrī Kṛṣṇa Caitanya. This is the explanation of the fifth verse.
 
 ষষ্ঠ শ্লোকের অর্থ করিতে প্রকাশ ৷  
 প্রথমে কহিয়ে সেই শ্লোকের আভাস ॥ ১০১ ॥
 
 ṣaṣṭha ślokera artha karite prakāśa  
-prathame kahiye sei ślokera ābhāsa
+of the sixth  verse  of the meaning  to make  disclosure  
+prathame kahiye sei ślokera ābhāsa  
+first  I speak  of that  verse  a hint
 
-(101) [not yet translated]
+(101) To disclose the meaning of the sixth verse, I shall first give a hint of it.
 
 অবতরি’ প্রভু প্রচারিল সঙ্কীর্ত্তন ৷  
 এহো বাহ্য হেতু, পূর্ব্বে করিয়াছি সূচন ॥ ১০২ ॥
 
 avatari’ prabhu pracārila saṅkīrtana  
-eho bāhya hetu, pūrve kariyāchi sūcana
+having descended  Lord Caitanya  spread  the congregational chanting  
+eho bāhya hetu, pūrve kariyāchi sūcana  
+this  external  reason  earlier  I have made  an indication
 
-(102) [not yet translated]
+(102) The Lord descended and spread the congregational chanting of the Name. As I indicated before, this too is an external reason.
 
 অবতারের আর এক আছে মুখ্যবীজ ৷  
 রসিকশেখর কৃষ্ণের সেই কার্য্য নিজ ॥ ১০৩ ॥
 
 avatārera āra eka āche mukhya-bīja  
-rasika-śekhara kṛṣṇera sei kārya nija
+of the descent  another  one  there is  principal seed  
+rasika-śekhara kṛṣṇera sei kārya nija  
+of the crown of relishers of rasa  of Kṛṣṇa  that  concern  own
 
-(103) [not yet translated]
+(103) There is another, principal seed of His descent. It is the personal concern of Kṛṣṇa, the crown of all relishers of *rasa*.
 
 অতি গূঢ় হেতু সেই ত্রিবিধ প্রকার ৷  
 দামোদর-স্বরূপ হৈতে যাহার প্রচার ॥ ১০৪ ॥
 
 ati gūḍha hetu sei tri-vidha prakāra  
-dāmodara-svarūpa haite yāhāra pracāra
+very  hidden  reason  that  of three  kinds  
+dāmodara-svarūpa haite yāhāra pracāra  
+from Svarūpa Dāmodara  of which  the making known
 
-(104) [not yet translated]
+(104) That most hidden reason has three aspects. It became known through Svarūpa Dāmodara.
 
 স্বরূপ-গোসাঞি — প্রভুর অতি অন্তরঙ্গ ৷  
 তাহাতে জানেন প্রভুর এসব প্রসঙ্গ ॥ ১০৫ ॥
 
 svarūpa-gosāñi — prabhura ati antaraṅga  
-tāhāte jānena prabhura esaba prasaṅga
+Svarūpa Gosāñi  of Lord Caitanya  very  intimate  
+tāhāte jānena prabhura esaba prasaṅga  
+therefore  knows  of Lord Caitanya  these  matters
 
-(105) [not yet translated]
+(105) Svarūpa Gosvāmī is the Lord's most intimate associate, and therefore he knows these matters of the Lord.
 
 রাধিকার ভাব-মূর্ত্তি প্রভুর অন্তর ৷  
 সেইভাবে সুখ-দুঃখ উঠে নিরন্তর ॥ ১০৬ ॥
 
 rādhikāra bhāva-mūrti prabhura antara  
-sei-bhāve sukha-duḥkha uṭhe nirantara
+of Rādhikā  of the emotion  the image  of Lord Caitanya  the heart  
+sei-bhāve sukha-duḥkha uṭhe nirantara  
+in that mood  joy and sorrow  arise  constantly
 
-(106) [not yet translated]
+(106) The Lord's heart is the very image of Rādhikā's emotion. In that mood joy and sorrow arise in Him constantly.
 
 শেষলীলায় প্রভুর কৃষ্ণবিরহ-উন্মাদ ৷  
 ভ্রমময় চেষ্টা, আর প্রলাপময়-বাদ ॥ ১০৭ ॥
 
 śeṣa-līlāya prabhura kṛṣṇa-viraha-unmāda  
-bhrama-maya ceṣṭā, āra pralāpa-maya-vāda
+in the final pastimes  of Lord Caitanya  for Kṛṣṇa  of separation  madness  
+bhrama-maya ceṣṭā, āra pralāpa-maya-vāda  
+full of bewilderment  actions  and  full of delirium  speech
 
-(107) [not yet translated]
+(107) In His final pastimes the Lord was in the divine madness of separation from Kṛṣṇa. His actions were full of bewilderment, and His words were delirious.
 
 রাধিকার ভাব যৈছে উদ্ধবদর্শনে ৷  
 সেই ভাবে মত্ত প্রভু রহে রাত্রি-দিনে ॥ ১০৮ ॥
 
 rādhikāra bhāva yaiche uddhava-darśane  
-sei bhāve matta prabhu rahe rātri-dine
+of Rādhikā  the emotion  as  on seeing Uddhava  
+sei bhāve matta prabhu rahe rātri-dine  
+in that  emotion  intoxicated  Lord Caitanya  remains  night and day
 
-(108) [not yet translated]
+(108) Day and night the Lord remained intoxicated with the emotion Rādhikā felt on seeing Uddhava.
 
 রাত্রে প্রলাপ করে স্বরূপের কণ্ঠ ধরি’ ৷  
 আবেশে আপন ভাব কহয়ে উঘাড়ি’ ॥ ১০৯ ॥
 
 rātre pralāpa kare svarūpera kaṇṭha dhari’  
-āveśe āpana bhāva kahaye ughāḍi’
+at night  delirious talk  makes  of Svarūpa  the neck  holding  
+āveśe āpana bhāva kahaye ughāḍi’  
+in absorption  His own  emotions  speaks  laying bare
 
-(109) [not yet translated]
+(109) At night, holding Svarūpa by the neck, He would speak deliriously, and in His absorption He laid bare the emotions of His heart.
 
 যবে যেই ভাব উঠে প্রভুর অন্তর ৷  
 সেই গীত-শ্লোকে সুখ দেন দামোদর ॥ ১১০ ॥
 
 yabe yei bhāva uṭhe prabhura antara  
-sei gīta-śloke sukha dena dāmodara
+when  whatever  emotion  arises  of Lord Caitanya  in the heart  
+sei gīta-śloke sukha dena dāmodara  
+with that  song  verse  joy  gives  Dāmodara
 
-(110) [not yet translated]
+(110) Whenever an emotion arose in the Lord's heart, Dāmodara would gladden Him with a song or verse suited to it.
 
 এবে কার্য্য নাহি কিছু এসব বিচারে ৷  
 আগে ইহা বিবরিব করিয়া বিস্তারে ॥ ১১১ ॥
 
 ebe kārya nāhi kichu esaba vicāre  
-āge ihā vivariba kariyā vistāre
+now  need  there is not  any  of these things  in the examination  
+āge ihā vivariba kariyā vistāre  
+later  this  I shall describe  making  in detail
 
-(111) [not yet translated]
+(111) There is no need to examine all this now. Later I shall describe it in detail.
 
 পূর্ব্বে ব্রজে কৃষ্ণের ত্রিবিধ বয়োধর্ম্ম ৷  
 কৌমার, পৌগণ্ড, আর কৈশোর অতিমর্ম্ম ॥ ১১২ ॥
 
 pūrve vraje kṛṣṇera tri-vidha vayo-dharma  
-kaumāra, paugaṇḍa, āra kaiśora atimarma
+formerly  in Vraja  of Kṛṣṇa  of three kinds  of age  the characteristics  
+kaumāra, paugaṇḍa, āra kaiśora atimarma  
+infancy  boyhood  and  youth  the most essential
 
-(112) [not yet translated]
+(112) Formerly, in Vraja, Kṛṣṇa passed through three ages: infancy (*kaumāra*), boyhood (*paugaṇḍa*) and youth (*kaiśora*), which is the most essential.
 
 বাৎসল্য-আবেশে কৈল কৌমার সফল ৷  
 পৌগণ্ড সফল কৈল লঞা সখাবল ॥ ১১৩ ॥
 
 vātsalya-āveśe kaila kaumāra saphala  
-paugaṇḍa saphala kaila lañā sakhāvala
+of parental love  in the absorption  He made  infancy  fruitful  
+paugaṇḍa saphala kaila lañā sakhāvala  
+boyhood  fruitful  He made  taking  His friends
 
-(113) [not yet translated]
+(113) He made His infancy fruitful through absorption in parental love, and He made His boyhood fruitful with His friends.
 
 রাধিকাদি লঞা কৈল রাসাদি-বিলাস ৷  
 বাঞ্ছা ভরি’ আস্বাদিল রসের নির্য্যাস ॥ ১১৪ ॥
 
 rādhikādi lañā kaila rāsādi-vilāsa  
-vāñchā bhari’ āsvādila rasera niryāsa
+Rādhikā and others  taking  He made  the rāsa and other  pastimes  
+vāñchā bhari’ āsvādila rasera niryāsa  
+His desire  fulfilling  He relished  of rasa  the essence
 
-(114) [not yet translated]
+(114) With Rādhikā and the other gopīs He enjoyed the *rāsa* dance and other pastimes, and to His heart's content He tasted the essence of *rasa*.
 
 কৈশোর-বয়সে কাম, জগৎসকল ৷  
 রাসাদি-লীলায় তিন করিল সফল ॥ ১১৫ ॥
 
 kaiśora-vayase kāma, jagat-sakala  
-rāsādi-līlāya tina karila saphala
+the age of youth  Kāmadeva  the world  entire  
+rāsādi-līlāya tina karila saphala  
+by the rāsa and other  pastimes  the three  He made  fruitful
 
-(115) [not yet translated]
+(115) His youth, Kāmadeva and the whole world — these three He made fruitful through the *rāsa* dance and His other pastimes.
 
 সোঽপি কৈশোরক-বয়ো মানয়ন্মধুসূদনঃ ৷  
 রেমে স্ত্রীরত্নকূটস্থঃ ক্ষপাসু ক্ষপিতাহিতঃ ॥ ১১৬ ॥
 
 so ’pi kaiśoraka-vayo  
+He  too  youthful  age  
 mānayan madhusūdanaḥ  
+honoring  Madhusūdana  
 reme strī-ratna-kūṭa-sthaḥ  
-kṣapāsu kṣapitāhitaḥ
+enjoyed  of women-jewels  amid the host  staying  
+kṣapāsu kṣapitāhitaḥ  
+at night  the destroyer of misfortune
 
-(116) [not yet translated]
+(116) “Honoring His youth, Madhusūdana, who destroys all misfortune, enjoyed at night amid a host of jewels among women.” (Viṣṇu Purāṇa 5.13.59)
 
 বাচা সূচিতশর্ব্বরীরতিকলাপ্রাগল্ভ্যয়া রাধিকাং  
 ব্রীড়াকুঞ্চিতলোচনাং বিরচয়ন্নগ্রে সখীনামসৌ ৷  
@@ -1165,11 +1219,15 @@ kṣapāsu kṣapitāhitaḥ
 কৈশোরং সফলীকরোতি কলয়ন্কুঞ্জে বিহারং হরিঃ ॥ ১১৭ ॥
 
 vācā sūcita-śarvarī-rati-kalā-prāgalbhyayā rādhikāṁ  
+by words  hinting  of the night's  of love  arts  at the boldness  Rādhikā  
 vrīḍā-kuñcita-locanāṁ viracayann agre sakhīnām asau  
+from shyness  with closed  eyes  making  before  Her friends  He  
 tad-vakṣo-ruha-citra-keli-makarī-pāṇḍitya-pāraṁ gataḥ  
-kaiśoraṁ saphalī-karoti kalayan kuñje vihāraṁ hariḥ
+on Her  breasts  of drawings  of playful  makarīs  of skill  the limit  having reached  
+kaiśoraṁ saphalī-karoti kalayan kuñje vihāraṁ hariḥ  
+His youth  fruitful  makes  enjoying  in the grove  pastimes  Hari
 
-(117) [not yet translated]
+(117) “Before Her friends He made Rādhikā close Her eyes in shyness with words that hinted at Her boldness in the arts of love the night before. He reached the summit of skill in drawing playful *makarīs* on Her breasts. Thus, enjoying pastimes in the groves, Hari makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu 2.1.119)
 
 হরিরেষ ন চেদবাতরিষ্যম্  
 মথুরায়াং মধুরাক্ষি রাধিকা চ ৷  
@@ -1177,11 +1235,15 @@ kaiśoraṁ saphalī-karoti kalayan kuñje vihāraṁ hariḥ
 র্মকরাঙ্কস্তু বিশেষতস্তদাত্র ॥ ১১৮ ॥
 
 harir eṣa na ced avātariṣyam  
+Hari  this  not  if  had descended  
 mathurāyāṁ madhurākṣi rādhikā ca  
+in Mathurā  O lovely-eyed one  Rādhikā  and  
 abhaviṣyad iyaṁ vṛthā visṛṣṭir  
-makarāṅkas tu viśeṣatas tadātra
+would have been  this  in vain  creation  
+makarāṅkas tu viśeṣatas tadātra  
+Kāmadeva  and  especially  then  here
 
-(118) [not yet translated]
+(118) “O lovely-eyed one, if this Hari had not descended in Mathurā, and Rādhikā with Him, this whole creation would have been in vain — and Kāmadeva most of all.” (Vidagdha-mādhava 7.3)
 
 এইমত পূর্ব্বে কৃষ্ণ রসের সদন ৷  
 যদ্যপি করিল রস-নির্য্যাস-চর্ব্বণ ॥ ১১৯ ॥
@@ -1190,11 +1252,15 @@ makarāṅkas tu viśeṣatas tadātra
 তাহা আস্বাদিতে যদি করিল যতন ॥ ১২০ ॥
 
 ei mata pūrve kṛṣṇa rasera sadana  
+in this way  formerly  Kṛṣṇa  of rasa  the abode  
 yadyapi karila rasa-niryāsa-carvaṇa  
+although  He made  of rasa  of the essence  the tasting  
 tathāpi nahila tina vāñchita pūraṇa  
-tāhā āsvādite yadi karila yatana
+yet  there was not  of three  desires  fulfillment  
+tāhā āsvādite yadi karila yatana  
+them  to taste  although  He made  efforts
 
-(119–120) [not yet translated]
+(119–120) In this way Kṛṣṇa, the abode of *rasa*, formerly relished the very essence of *rasa*. Yet though He tried to taste them, three of His desires remained unfulfilled.
 
 তাঁহার প্রথম বাঞ্ছা করিয়ে ব্যাখ্যান ৷  
 কৃষ্ণ কহে, — আমি হই রসের নিদান ॥ ১২১ ॥
