@@ -79,7 +79,7 @@ vb = vb.resize((W, round(vb.height * W / 971)), Image.LANCZOS)
 save(cutout(vb.crop((0, vb.height - 260, W, vb.height))), 'vscroll-bottom.webp', quality=82)
 
 # Фоны
-desk = load('bg-desk-candle.png')
+desk = load('bg-desk-books.png')  # без свечи (2026-10-10); прежний вариант — bg-desk-candle.png
 save(desk.resize((1600, round(desk.height * 1600 / desk.width)), Image.LANCZOS), 'bg-desk.jpg', quality=80)
 sky = load('header-navadvipa-sunset.png')
 save(sky.resize((1800, round(sky.height * 1800 / sky.width)), Image.LANCZOS), 'header-sunset.jpg', quality=80)

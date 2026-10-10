@@ -19,9 +19,9 @@
   --rh: clamp(380px, 74vh, 740px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
   --ribbon-top: calc(var(--top) - var(--rh) * .06);
   --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
-  /* комната: не шире экрана и такого размера, чтобы под лентой целиком помещались пламя свечи
-     (40% высоты картинки) … низ книг (70%) */
-  --room-h: min(calc(100vw * 941 / 1672), calc((100vh - var(--paper-bottom) - 14px) / .30));
+  /* комната (стол с книгами): верх книг — 53% высоты картинки, низ — 81%, край стола — 83%.
+     Верхний край книг чуть заходит под ленту; под ней целиком видны корешки и край стола. */
+  --room-h: min(calc(100vw * 941 / 1672), calc((100vh - var(--paper-bottom)) / .29));
   --room-w: calc(var(--room-h) * 1672 / 941);
   /* пейзаж: от верхушек куполов (17% высоты картинки) до воды Ганги (85%) — в полосе над лентой */
   --land-h: calc((var(--top) + var(--rh) * .03) / .68);
@@ -44,8 +44,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ——— комната и пейзаж ——— */
 .room {
   position: fixed; left: 0; z-index: 0; pointer-events: none;
-  /* пламя свечи — чуть ниже края бумаги ленты, книги и стол под ним */
-  top: calc(var(--paper-bottom) + 14px - var(--room-h) * .404);
+  top: calc(var(--paper-bottom) - var(--room-h) * .545);
   width: var(--room-w); height: var(--room-h);
   background: url("assets/img/bg-desk.jpg") center top / 100% 100% no-repeat;
   /* сверху и справа картинка растворяется в темноте комнаты */
@@ -85,22 +84,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ——— свет ——— */
 .light { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
 .light__candle, .light__sun { position: absolute; border-radius: 50%; }
-.light__candle { /* над пламенем свечи на картинке комнаты (x ≈ 4%) */
-  left: calc(4.2vw - 35vmax); top: calc(var(--paper-bottom) + 14px - 35vmax); width: 70vmax; height: 70vmax;
-  background: radial-gradient(circle, rgba(var(--flame), .38), rgba(var(--flame), .12) 38%, transparent 66%);
-  animation: flicker 5.5s infinite;
+.light__candle { /* ровный тёплый свет над книгами, без мерцания */
+  left: calc(14vw - 35vmax); top: calc(var(--paper-bottom) + 4vh - 35vmax); width: 70vmax; height: 70vmax;
+  background: radial-gradient(circle, rgba(var(--flame), .22), rgba(var(--flame), .07) 40%, transparent 66%);
 }
 .light__sun {
   right: -20vmax; top: -30vmax; width: 70vmax; height: 60vmax;
   background: radial-gradient(circle, rgba(255, 196, 120, .30), transparent 62%);
-}
-@keyframes flicker {
-  0%, 100% { opacity: .9; transform: scale(1); }
-  18% { opacity: 1; transform: scale(1.015); }
-  31% { opacity: .82; }
-  47% { opacity: .97; transform: scale(.995); }
-  63% { opacity: .86; }
-  80% { opacity: 1; transform: scale(1.01); }
 }
 
 /* ——— шапка ——— */
@@ -302,7 +292,7 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .reader__glow {
   position: absolute; inset: -20% -30% -20% -60%;
   background: radial-gradient(closest-side, rgba(var(--flame), .36), rgba(var(--flame), .1) 55%, transparent);
-  animation: flicker 6.5s infinite; pointer-events: none;
+  pointer-events: none;
 }
 .scroll {
   position: relative; height: 100%;
@@ -420,7 +410,6 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 @media (min-width: 701px) { .reader { top: 64px; } }
 
 @media (prefers-reduced-motion: reduce) {
-  .light__candle, .reader__glow { animation: none; }
   .scroll { animation: none; }
   .card { transition: none; }
 }
