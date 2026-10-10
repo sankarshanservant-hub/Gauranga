@@ -17,7 +17,7 @@
   title_en: "Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion"
   period: PX
   order: 100
-  cc: "Ади 1.3; 2.5–22"
+  cc: "Ади 1.3; 2.5–22; 2.109–118"
   cb: ""
   themes: [teaching]
   teaching: [gaura-tattva, vedanta]
@@ -144,3 +144,25 @@
   themes: [teaching]
   teaching: [scripture, maya]
   notes: "Богословская тема, не эпизод жизни: молитва Брахмы (Бхаг. 10.14.14) и её толкование; три Пуруши и турия."
+
+- id: ev-tattva-krishnas-tu-bhagavan-svayam
+  title: "«Кришнас ту бхагаван свайам»: Кришна — источник всех аватар"
+  title_en: "\"Krishnas tu bhagavan svayam\": Krishna is the source of all avataras"
+  period: PX
+  order: 112
+  cc: "Ади 2.61–90"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 1.3.28; правило анувада–видхея."
+
+- id: ev-tattva-krishna-ashraya
+  title: "Кришна — ашрая: прибежище всего, Его проявления и три энергии"
+  title_en: "Krishna is the ashraya: shelter of all, His manifestations and three energies"
+  period: PX
+  order: 113
+  cc: "Ади 2.91–108"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, maya]
+  notes: "Богословская тема, не эпизод жизни: десять тем Бхагаватам (2.10.1–2), шесть видов виласы, чит-, майя- и джива-шакти; Брахма-самхита 5.1."

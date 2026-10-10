@@ -506,3 +506,80 @@
   event: ev-tattva-krishna-mula-narayana
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "23", to: "60"}
+
+- id: cc-0027
+  source: cc
+  ref: "Ади 2.61–90"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 250
+  title: "«Кришнас ту бхагаван свайам»: опровержение мнения, что Кришна — аватара Нарайяны"
+  summary: "Глупцы считают четырёхрукого Нарайяну источником, а Кришну — Его воплощением; автор опровергает это шлокой Бхагаватам 1.3.28: Сута Госвами, перечислив аватар, отделил Кришну как Сваям Бхагавана; по правилу анувада–видхея (сначала известное, затем неизвестное) «Кришна» — предмет, а «Сам Бхагаван» — сказуемое, и иное толкование — ошибка неверно поставленной видхеи; в словах мудрецов нет четырёх изъянов; как от одной свечи зажигаются многие, так Кришна — причина всех аватар."
+  persons: ["@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture]
+  scriptures: ["Шримад-Бхагаватам 1.2.11", "Шримад-Бхагаватам 1.3.28", "Экадаши-таттва 13"]
+  cc: "Ади 2"
+  event: ev-tattva-krishnas-tu-bhagavan-svayam
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "61", to: "90"}
+
+- id: cc-0028
+  source: cc
+  ref: "Ади 2.91–108"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 260
+  title: "Кришна — ашрая, прибежище всего: шесть видов Его проявлений и три энергии"
+  summary: "Десять тем Бхагаватам (2.10.1–2) описаны ради десятой — ашраи, и ашрая — это Кришна, в теле Которого покоятся все вселенные; знающий Его облик и три энергии не пребывает в неведении о Нём; шесть видов виласы (прабхава и вайбхава, амша- и шактьявеша-аватары, детский и отроческий облик) при юном Кришне-источнике; внутренняя энергия — Вайкунтхи, внешняя — вселенные, пограничная — бесчисленные души; Кришна — изначальное прибежище и Пуруш (Брахма-самхита 5.1); критику эти заключения известны, а возражает он лишь из упрямства."
+  persons: ["@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture, maya]
+  scriptures: ["Шримад-Бхагаватам 2.10.1–2", "Бхавартха-дипика 10.1.1", "Брахма-самхита 5.1"]
+  cc: "Ади 2"
+  event: ev-tattva-krishna-ashraya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "91", to: "108"}
+
+- id: cc-0029
+  source: cc
+  ref: "Ади 2.109–118"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 270
+  title: "Кришна, сын царя Враджа, пришёл как Шри Чайтанья — предел Высшей Истины"
+  summary: "Источник всех аватар Сам низошёл как Шри Чайтанья, поэтому назвать Его Кширодашайи — не прославить Его; но в устах преданного это не ошибка: в источнике пребывают все аватары, и Кришну, смотря по пониманию, зовут Нара-Нараяной, Ваманой, Кширодашайи или Нараяной — всё в Нём возможно; автор просит слушателей не лениться в изучении сиддханты: она утверждает ум в Кришне и открывает величие Шри Чайтаньи."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, scripture]
+  cc: "Ади 2"
+  event: ev-tattva-chaitanya-bhagavan
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "109", to: "118"}
+
+- id: cc-0030
+  source: cc
+  ref: "Ади 2.119–121"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md"
+  period: PX
+  order: 280
+  title: "Слава Кришны — ради славы Шри Чайтаньи; колофон второй главы"
+  summary: "Автор поясняет, что так подробно описал величие Кришны, чтобы раскрыть славу Шри Чайтаньи, Который — Сам Кришна, сын царя Враджа; колофон: Кришнадас, уповая на стопы Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva]
+  cc: "Ади 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "119", to: "121"}
