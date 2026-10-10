@@ -308,6 +308,7 @@
     document.documentElement.lang = S.lang;
     document.querySelectorAll('[data-i18n]').forEach(el => { const v = t()[el.dataset.i18n]; if (typeof v === 'string') el.textContent = v; });
     document.querySelectorAll('.lang button').forEach(b => b.setAttribute('aria-pressed', b.dataset.lang === S.lang));
+    musicLabel();
     $('prev').setAttribute('aria-label', t().prev); $('next').setAttribute('aria-label', t().next); $('r-close').setAttribute('aria-label', t().close);
     const c = document.querySelector('.is-center');
     keepPlace(c ? c.id.slice(5) : '', renderRibbon);
@@ -315,6 +316,71 @@
     renderReader();
   }
   document.querySelectorAll('.lang button').forEach(b => b.addEventListener('click', () => { S.lang = b.dataset.lang; savePrefs(); applyLang(); }));
+
+  /* ——— фоновая музыка: «Prema Dhama», 8 частей по 10 мин, по кругу. Звук браузер разрешает только после
+     действия пользователя, поэтому при включённой музыке она начинается с первого нажатия на странице. ——— */
+  const MUSIC = Array.from({ length: 8 }, (_, i) => `assets/audio/prema-dhama-${i + 1}.mp3`);
+  const M = { on: true, part: 0, time: 0, el: null, next: null, started: false, fade: 0 };
+  try {
+    const m = JSON.parse(localStorage.getItem('gl-music') || 'null');
+    if (m) { M.on = m.on !== false; M.part = (m.part | 0) % MUSIC.length; M.time = +m.time || 0; }
+  } catch (e) { /* ничего */ }
+  const musicBtn = $('music');
+  function musicSave() { try { localStorage.setItem('gl-music', JSON.stringify({ on: M.on, part: M.part, time: M.el ? M.el.currentTime : M.time })); } catch (e) { /* ничего */ } }
+  function musicLabel() {
+    musicBtn.setAttribute('aria-pressed', M.on);
+    musicBtn.setAttribute('aria-label', S.lang === 'en' ? (M.on ? 'Turn music off' : 'Turn music on') : (M.on ? 'Выключить музыку' : 'Включить музыку'));
+    musicBtn.title = musicBtn.getAttribute('aria-label');
+  }
+  function audioFor(i) { const a = new Audio(MUSIC[i]); a.preload = 'auto'; a.volume = 0; return a; }
+  function fadeTo(a, v, ms, done) {
+    clearInterval(M.fade);
+    const from = a.volume, t0 = performance.now();
+    M.fade = setInterval(() => {
+      const k = Math.min(1, (performance.now() - t0) / ms);
+      a.volume = from + (v - from) * k;
+      if (k === 1) { clearInterval(M.fade); if (done) done(); }
+    }, 50);
+  }
+  const VOL = 0.35;
+  function musicPlay() {
+    if (!M.el) {
+      M.el = audioFor(M.part);
+      M.el.currentTime = M.time;
+      M.el.addEventListener('ended', musicNext);
+      M.el.addEventListener('timeupdate', () => {
+        if (!M.next && M.el.duration && M.el.duration - M.el.currentTime < 20) M.next = audioFor((M.part + 1) % MUSIC.length);
+      });
+    }
+    M.el.play().then(() => { M.started = true; fadeTo(M.el, VOL, 2500); }).catch(() => { M.started = false; });
+  }
+  function musicNext() {
+    M.part = (M.part + 1) % MUSIC.length;
+    const n = M.next || audioFor(M.part);
+    M.next = null; M.el = null; M.time = 0;
+    M.el = n; n.volume = VOL;
+    n.addEventListener('ended', musicNext);
+    n.addEventListener('timeupdate', () => {
+      if (!M.next && n.duration && n.duration - n.currentTime < 20) M.next = audioFor((M.part + 1) % MUSIC.length);
+    });
+    n.play().catch(() => { /* ничего */ });
+    musicSave();
+  }
+  function musicPause() { if (M.el) fadeTo(M.el, 0, 600, () => M.el && M.el.pause()); musicSave(); }
+  musicBtn.addEventListener('click', e => {
+    e.stopPropagation();
+    if (M.on && !M.started) { musicPlay(); return; } // была включена, но браузер ждал нажатия
+    M.on = !M.on; musicLabel(); musicSave();
+    if (M.on) musicPlay(); else musicPause();
+  });
+  function firstGesture() {
+    if (M.on && !M.started) musicPlay();
+  }
+  ['pointerdown', 'keydown'].forEach(ev => document.addEventListener(ev, firstGesture, { capture: true }));
+  setInterval(() => { if (M.el && !M.el.paused) musicSave(); }, 5000);
+  window.addEventListener('pagehide', musicSave);
+  musicLabel();
+  if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
 
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
   fetch('data/timeline.json').then(r => r.json()).then(d => {

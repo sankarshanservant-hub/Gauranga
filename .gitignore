@@ -1,5 +1,5 @@
 __pycache__/
 chaitanya-charitamrita/src/CC_SS.pdf
 
-# сайт: сгенерированные данные (python3 site/tools/build_data.py)
-site/data/
+# исходник музыки (156 МБ, больше лимита GitHub; лежит на Google Диске) — в сайт идут site/assets/audio/*.mp3
+site/assets/src/audio/

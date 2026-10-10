@@ -78,6 +78,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
   backdrop-filter: blur(4px);
 }
 .jump option, .jump optgroup { background: #2a1a0c; color: #f6e3bd; }
+.music {
+  width: 38px; height: 38px; display: grid; place-items: center; padding: 0;
+  border: 1px solid rgba(233, 194, 122, .45); border-radius: 50%; background: rgba(30, 18, 9, .72); color: var(--gold);
+}
+.music svg { width: 20px; height: 20px; }
+.music[aria-pressed="true"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; box-shadow: 0 0 14px rgba(var(--flame), .55); }
+.music[aria-pressed="true"] .music__off { display: none; }
 .lang { display: flex; border: 1px solid rgba(233, 194, 122, .45); border-radius: 999px; overflow: hidden; background: rgba(30, 18, 9, .72); }
 .lang button { border: 0; background: none; padding: 7px 12px; font-size: 14px; letter-spacing: .08em; }
 .lang button[aria-pressed="true"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; }
@@ -250,16 +257,23 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
   filter: drop-shadow(-20px 26px 26px rgba(0, 0, 0, .65)) drop-shadow(-2px 3px 3px rgba(0, 0, 0, .4));
   animation: unroll .55s cubic-bezier(.2, .7, .2, 1);
 }
-@keyframes unroll { from { clip-path: inset(0 0 92% 0); opacity: .4; } to { clip-path: inset(0 0 0 0); opacity: 1; } }
-/* бумага свитка занимает 9.5–90% ширины картинок; текст — внутри внутренних линий */
-.scroll__head, .scroll__body, .scroll__foot { padding-inline: calc(var(--rw) * .17); }
-.scroll__head {
-  position: relative; flex: none; text-align: center;
-  padding-top: calc(var(--rw) * .27); padding-bottom: 8px;
+/* Свиток неподвижен: середина (повтор) + верх и низ со скалками собраны по высоте окна; листается только текст */
+.scroll::before, .scroll::after { content: ""; position: absolute; left: 0; right: 0; pointer-events: none; }
+.scroll::before {
+  top: calc(var(--rw) * .40); bottom: calc(var(--rw) * .33); z-index: 0;
+  background: url("assets/img/vscroll-middle.webp") center top / 100% auto repeat-y;
+}
+.scroll::after {
+  top: 0; bottom: 0; z-index: 1;
   background:
     url("assets/img/vscroll-top.webp") center top / 100% auto no-repeat,
-    url("assets/img/vscroll-middle.webp") center calc(var(--rw) * .45) / 100% auto no-repeat;
+    url("assets/img/vscroll-bottom.webp") center bottom / 100% auto no-repeat;
 }
+.scroll > * { position: relative; z-index: 2; }
+@keyframes unroll { from { clip-path: inset(0 0 92% 0); opacity: .4; } to { clip-path: inset(0 0 0 0); opacity: 1; } }
+/* бумага занимает 9.5–90% ширины картинок; текст — внутри внутренних линий */
+.scroll__head, .scroll__body, .scroll__foot { padding-inline: calc(var(--rw) * .17); }
+.scroll__head { flex: none; text-align: center; padding-top: calc(var(--rw) * .27); padding-bottom: 8px; }
 .scroll__close {
   position: absolute; top: calc(var(--rw) * .2); right: calc(var(--rw) * .14);
   width: 34px; height: 34px; border-radius: 50%;
@@ -276,20 +290,18 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 }
 .layers button[aria-pressed="true"] { background: #6b3f17; border-color: #6b3f17; color: #fbecc9; box-shadow: 0 2px 6px rgba(80, 40, 5, .35); }
 .layers button:disabled { opacity: .35; cursor: not-allowed; }
-.layers__sep { width: 1px; background: rgba(138, 90, 43, .4); margin-inline: 4px; }
 
 .scroll__body {
   flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain;
-  background: url("assets/img/vscroll-middle.webp") center top / 100% auto repeat-y local;
-  padding-top: 6px; padding-bottom: 20px;
+  padding-top: 14px; padding-bottom: 22px;
   scrollbar-width: thin; scrollbar-color: rgba(138, 90, 43, .5) transparent;
+  /* текст мягко уходит под край, бумага при этом стоит */
+  -webkit-mask-image: linear-gradient(transparent, #000 16px, #000 calc(100% - 22px), transparent);
+  mask-image: linear-gradient(transparent, #000 16px, #000 calc(100% - 22px), transparent);
 }
 .scroll__foot {
   flex: none; display: flex; align-items: center; justify-content: space-between; gap: 8px;
-  padding-top: 4px; padding-bottom: calc(var(--rw) * .3);
-  background:
-    url("assets/img/vscroll-bottom.webp") center bottom / 100% auto no-repeat,
-    url("assets/img/vscroll-middle.webp") center bottom calc(var(--rw) * .38) / 100% auto no-repeat;
+  padding-top: 4px; padding-bottom: calc(var(--rw) * .26);
 }
 .scroll__nav { width: 36px; height: 36px; border-radius: 50%; border: 1px solid rgba(138, 90, 43, .45); background: rgba(255, 245, 220, .6); color: var(--ink); font-size: 18px; flex: none; }
 .scroll__nav:disabled { opacity: .3; cursor: default; }

@@ -5,7 +5,7 @@
 """
 import os
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFilter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, '..', 'assets', 'src')
@@ -17,12 +17,24 @@ def load(name):
     return Image.open(os.path.join(SRC, name)).convert('RGB')
 
 
-def cutout(im, lo=38, hi=95):
-    """Тёмный фон → прозрачность; бумага и бронза остаются."""
+def cutout(im, thr=34):
+    """Тёмный фон → прозрачность. Фоном считается только тёмная область, связанная с краем картинки
+    (заливка от краёв), поэтому сам свиток и бронза остаются полностью непрозрачными; мягкий переход —
+    лишь по контуру (1–2 px)."""
     a = np.asarray(im).astype(np.float32)
     lum = a @ np.array([0.299, 0.587, 0.114], dtype=np.float32)
-    alpha = np.clip((lum - lo) / (hi - lo), 0, 1)
-    rgba = np.dstack([a, alpha * 255]).astype(np.uint8)
+    cand = Image.fromarray(np.where(lum < thr, 0, 255).astype(np.uint8), 'L').copy()
+    w, h = cand.size
+    px = cand.load()
+    step = 4
+    seeds = [(x, 0) for x in range(0, w, step)] + [(x, h - 1) for x in range(0, w, step)] + \
+            [(0, y) for y in range(0, h, step)] + [(w - 1, y) for y in range(0, h, step)]
+    for xy in seeds:
+        if px[xy] == 0:
+            ImageDraw.floodfill(cand, xy, 128)
+    alpha = np.where(np.asarray(cand) == 128, 0, 255).astype(np.uint8)
+    alpha = np.asarray(Image.fromarray(alpha, 'L').filter(ImageFilter.GaussianBlur(1.2)))
+    rgba = np.dstack([a.astype(np.uint8), alpha])
     return Image.fromarray(rgba, 'RGBA')
 
 
