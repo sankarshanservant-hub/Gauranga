@@ -649,7 +649,7 @@ afterwards  I  what  this (creation)  and
 yo ‘vaśiṣyeta so ‘smy aham  
 what  remains  that  am  I
 
-(53) “Before creation I alone existed; there was nothing else, neither the gross, nor the subtle, nor what lies beyond them. After creation I exist, and all this creation too is I.[^53-1] And what remains at the end, that am I.” (Śrīmad-Bhāgavatam 2.9.33)
+(53) “Before creation I alone existed; there was nothing else, neither the gross, nor the subtle, nor what lies beyond them. After creation I exist, and all this creation too is I. And what remains at the end, that am I.” (Śrīmad-Bhāgavatam 2.9.33)
 
 ঋতেঽর্থং যৎ প্রতীয়েত ন প্রতীয়েত চাত্মনি ৷  
 তদ্বিদ্যাদত্মনো মায়াং যথাভাসো যথা তমঃ ॥ ৫৪ ॥
@@ -1263,7 +1263,3 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 (110) Ever hoping for the mercy of the feet of Śrī Rūpa and Raghunātha, I, Kṛṣṇadāsa, narrate *Śrī Caitanya-caritāmṛta*.
-
----
-
-[^53-1]: “All this creation too is I”: the world is the Lord’s energy and is non-different from Him only as an energy is from its source; the Lord Himself remains distinct from it and beyond it, as the next two verses state (2.9.34–35).

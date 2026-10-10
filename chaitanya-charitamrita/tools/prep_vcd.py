@@ -135,7 +135,10 @@ def split_body(v, vb):
     near = []                         # нумерация сдвоенных стихов у vedabase может быть сдвинута (Ади 1.72–73 / 73–74)
     for n in range(v['nums'][0] - 1, v['nums'][-1] + 2): near += vb_lines(vb, n)
     def is_tl(l):
-        return tlish(l) or (near and max(sim(l, e) for e in near) > 0.7)
+        # похожесть на строку vedabase — только для строк без русских букв-маркеров и не с заглавной (пословный ВЧД бывает
+        # почти дословным: «Брахма, Вишну, Шива — три гуна-Аватары», Ади 1.67)
+        return tlish(l) or (bool(near) and not any(c in RUS for c in l) and not l[:1].isupper()
+                            and max(sim(l, e) for e in near) > 0.7)
     def is_gloss(l):
         if ' — ' not in l: return False
         left, right = l.split(' — ', 1)
