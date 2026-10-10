@@ -77,3 +77,11 @@ Wherever scripture says that the enemies of Bhagavān and His beloved ones attai
 ## 39
 
 Beyond *tamas*, that is, beyond the world of *māyā*, lies “Siddhaloka,” the abode of Brahman. There dwell the *māyāvādīs* immersed in the happiness of Brahman, and the *asuras* — Kaṁsa and others — slain by Bhagavān. The *yogīs* of Patañjali's school, even after attaining *kaivalya*, will also reach that world.
+
+## 40–45
+
+The *catur-vyūha* of Dvārakā — Kṛṣṇa, Baladeva and the others — is manifest a second time in Paravyoma. This *catur-vyūha* is called “the second *catur-vyūha*”; it too is spiritual and pure. There the form of Balarāma is Mahā-Saṅkarṣaṇa. In Paravyoma there is a manifestation of the *sandhinī* aspect of the *cit-śakti* called “*śuddha-sattva*”; from it come the abodes of Vaikuṇṭha and the rest, made of *śuddha-sattva*, and the six kinds of majesty. All this is the splendor (*vibhūti*) of Mahā-Saṅkarṣaṇa. Mahā-Saṅkarṣaṇa is the shelter of all *jīvas*, and therefore the shelter of the *jīva-śakti*, called marginal (*taṭastha*). The being of the *jīva*, a particle of spirit, springs from the *jīva-śakti*, yet it is made such that the *māyā-śakti* can overpower it. It therefore stands on the border between two realms — *māyā* and spirit (*cit*) — and so has received the name “marginal” (*taṭastha*).
+
+## 48
+
+Mahā-Saṅkarṣaṇa is spiritual, pure *sattva* (*viśuddha-sattva*); He is a limb (*aṅga*), that is, a manifestation (*prakāśa*), of Nityānanda-Rāma.
