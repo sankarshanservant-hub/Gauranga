@@ -272,9 +272,114 @@ Satī was about to go to the house of her father Dakṣa to see the sacrifice. M
 
 > Subheading: Within and without, in every one of Her limbs, the form of love for Kṛṣṇa is manifest —
 
+## 72
+
+> Subheading: Govinda eternally enjoys the pastimes of *rasa* with the *gopīs* in Goloka —
+
+> Subheading: (*Brahma-saṁhitā*, Chapter 5, verse 37)
+
+**akhilātma-bhūtaḥ** (dear to all the residents of Gokula, their very soul) **saḥ eva** **ānanda-cinmaya-rasa-pratibhāvitābhiḥ** (imbued at every moment with the *rasa* made of bliss and spirit) **nija-rūpatayā** (known as His own form) **kalābhiḥ** (with parts — the embodiments of the *hlādinī-śakti*) **tābhiḥ** (with the beautiful women of Vraja) **goloke eva nivasati**; **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi**.
+
+## 74
+
+> Subheading: In *madhura-rati* marked by the mood of majesty or of sweetness, Kṛṣṇa's beloveds are of three kinds —
+
+## 76
+
+> Subheading: All of Kṛṣṇa's beloveds are parts of Rādhā, the whole (*aṁśinī*) —
+
+## 77
+
+In place of *vaibhava-gaṇa yena tāra aṅga-vibhūti* (“the *vaibhavas* are as it were the splendor of Her body”) there is also the reading *lakṣmī-gaṇa hana tāra aṁśa-vibhūti* (“the Lakṣmīs are the splendor of Her parts”).
+
+## 78
+
+> Subheading: The queens in Dvārakā and the Lakṣmīs of Nārāyaṇa, Vāsudeva and others —
+
+## 79
+
+> Subheading: Lalitā and the other women of Vraja are Her *kāya-vyūha* —
+
+In place of the word *svarūpa* another reading has *svabhāva*.
+
+## 80
+
+> Subheading: For the growth and wonder of *rasa* the one *hlādinī* displays many manifestations —
+
+## 81
+
+> Subheading: Of these, the pastimes in Vraja are the highest wonder of Kṛṣṇa's pleasure —
+
+## 82
+
+> Subheading: The five names of Śrī Rādhikā —
+
+These are the five names of Śrī Rādhā.
+
+## 83
+
+> Subheading: (Words of the *Bṛhad-gautamīya-tantra*)
+
+**rādhikā** (she who worships) **devī** (the radiant one) **kṛṣṇa-mayī** (nondifferent from Kṛṣṇa, Kṛṣṇa's embodied manifestation) **para-devatā** (supremely worshipable) **sarva-lakṣmī-mayī** (the original mistress of all the Lakṣmīs) **sarva-kāntiḥ** (she in whom is all splendor, all beauty) **sammohinī** (whose nature is to enchant Śrī Kṛṣṇa) **parā** **proktā** (is called).
+
+## 84
+
+> Subheading: Meaning of the verse: (1) the abode of beauty and of pastimes —
+
+## 85
+
+> Subheading: (2) complete absorption in Kṛṣṇa —
+
+## 86
+
+> Subheading: Oneness with Kṛṣṇa —
+
+## 87
+
+> Subheading: (3) the name “Rādhā” — because She worships Kṛṣṇa by fulfilling His desires —
+
+## 88
+
+> Subheading: A hint of Rādhā's name in the *Bhāgavatam* —
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 30, verse 28)
+
+When Śrī Rādhā and Śrī Govinda had gone away together from the place of the *rāsa* dance, the *gopīs* said:
+
+**anayā** (by Rādhā) **nūnam** (surely) **īśvaraḥ** (who grants His devotees what they desire) **bhagavān hariḥ** **ārādhitaḥ** (has been won over by worship — and not by us, the wives of Vraja); **yat** (since) **govindaḥ** **prītaḥ** (full of love) **naḥ** (us) **vihāya** (leaving altogether) **yām** (Rādhā) **rahaḥ** (to a secluded place) **anayat**.
+
+## 89
+
+> Subheading: (4) She attracts Kṛṣṇa and so is above all; She nourishes all the devotees and devotion itself and is their original source —
+
+## 90
+
+> Subheading: (5) The whole of which all of Kṛṣṇa's beloveds are parts —
+
+## 91
+
+> Subheading: The original shelter of all of Kṛṣṇa's potencies of majesty —
+
+## 92
+
+> Subheading: (5) The original source of all beauty[^92-1] —
+
+## 93
+
+> Subheading: She who fulfills Kṛṣṇa's desires —
+
+## 95
+
+> Subheading: (6) She who enchants the mind of Him who enchants the world —
+
+## 96
+
+> Subheading: She is the full-moon night of Kṛṣṇa, the full moon —
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
 [^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).
 [^34-3]: The edition reads “তাদৃশ অবতারময় বিধি” (literally “such rules full of avatāra”); possibly a misprint for “অবরতাময়” (“inferior”) — compare “অবরতা” earlier in the same section.
 [^62-1]: *Śrīmad-Bhāgavatam* 11.25.12.
 [^62-2]: *Śrīmad-Bhāgavatam* 10.27.4.
+[^92-1]: So in the edition: the number 5 is repeated (compare the subheading to verse 90).

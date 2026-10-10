@@ -107,3 +107,31 @@ Among the *gopīs* who enjoy the pastimes of Vraja, the foremost are Candrāval�
 ## 72
 
 I worship the original Person, Govinda, the wondrous Soul of all. In His own form He dwells eternally in Goloka together with the *gopīs*, who are imbued with the spiritual *rasa* of bliss.
+
+## 75
+
+*Āra* means “of another kind.” The third kind are the women of Vraja: they are the essence of all kinds of beloveds, that is, the best of them.
+
+## 76–81
+
+Just as Kṛṣṇa, the source of the avatāras, expands the avatāras — the Puruṣas and the others — so Śrīmatī Rādhikā is the whole (*aṁśinī*) for all the beloveds: from Her parts the Lakṣmīs, the queens and the women of Vraja have expanded. These beloveds are counted among the *vaibhavas* as the splendor of Her body. The queens have expanded as reflections of Her image. The distinction here is this: the Lakṣmīs are Her parts in the form of *vaibhava-vilāsa*, and the queens are Her *prābhava-prakāśa*. The maidens of Vraja are Her own *kāya-vyūha*; differing in form and nature, they have become the cause of *rasa*. Without many beloveds *rasa* does not blossom, and so, to assist in the pastimes, She displays many such “manifestations.” Of them the *rasa* of Vraja is the highest. There, through the variety of *bhāvas* and *rasas*, She lets Kṛṣṇa relish the *rāsa* and other pastimes.
+
+## 83
+
+The supreme goddess Rādhikā-devī is called “Kṛṣṇa-mayī Herself,” “Sarva-lakṣmī-mayī,” “Sarva-kānti,” “Kṛṣṇa-sammohinī” and “Parā-śakti,” the supreme potency.
+
+## 84–87
+
+She is called “Devī” because She is radiant and supremely beautiful, or because She is the dwelling place of play, that is, of the worship of Kṛṣṇa. The word “Kṛṣṇa-mayī” has two meanings. The first: within and without She has Kṛṣṇa, and wherever Her glance falls, there He appears. Or else: Kṛṣṇa's own nature is full of the *rasa* of *prema*, and His potency is one *tattva* with Him; this is the second meaning of the word “Kṛṣṇa-mayī.” The name “Rādhikā” is given to Her for Her worship (*ārādhana*), which consists in fulfilling Kṛṣṇa's desires.
+
+## 88
+
+O friend! She whom Śrī Kṛṣṇa, leaving us, has taken to a secluded place has surely worshipped the Lord Hari more than anyone. The hidden meaning is this: She is the crown jewel of Kṛṣṇa's beloveds, and so She is called “Rādhikā.”
+
+## 91
+
+Rādhikā is the shelter of all the Lakṣmīs. Or else: the word *sarva-lakṣmī* means Kṛṣṇa's six kinds of majesty, and She is Kṛṣṇa's potency that presides over them.
+
+## 95
+
+Up to the words “and therefore She is the supreme mistress of all,” the meaning of each word of the verse beginning *devī kṛṣṇa-mayī* has been examined.
