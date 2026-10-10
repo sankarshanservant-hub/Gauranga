@@ -127,3 +127,11 @@
   (*nirviśeṣa-vādīs*); адвая-гьяна → nondual Knowledge (*advaya-jñāna*); сансара → worldly existence (*saṁsāra*).
 - джива → *jīva* (he/his); ачарья → ācārya; ачарья-вайшнав → Vaiṣṇava ācārya; свадхарма → *svadharma*, one's true duty.
 - «см. Ади 10.85» → “see Ādi 10.85”; «Ади, гл. 6» → “Ādi, Chapter 6”; разделы «Сандарбх» → (section 202).
+- вигьяна → realization (*vijñāna*); майическое проявление → a manifestation of *māyā* (*māyā-vaibhava*); абхаса → *ābhāsa*,
+  a reflection; тамас → *tamas*, darkness; атма-таттва → *ātma-tattva*; сварупа-таттва → *svarūpa-tattva*; чит-таттва → the
+  spiritual truth (*cit-tattva*); джада-таттва → matter (*jaḍa-tattva*); Параматма → the Supersoul (*Paramātmā*);
+  Парамешвара → the Supreme Lord; анвая-вьятирека → *anvaya-vyatireka* (the direct and the indirect method; injunctions and
+  prohibitions); абхидха-вритти → the direct meaning (*abhidhā-vṛtti*); махапрема → great love (*mahā-prema*).
+- самбхога / випраламбха → *sambhoga* (union) / *vipralambha* (separation); дасья, сакхья, ватсалья, шрингара → servitude,
+  friendship, parental love, amorous love (*dāsya*, *sakhya*, *vātsalya*, *śṛṅgāra*).
+- пандит → wise devotee (*paṇḍita*); шрути → the Śrutis; “Гаудия-бхашья” → the *Gauḍīya-bhāṣya*; «с. 577–629» → pp. 577–629.

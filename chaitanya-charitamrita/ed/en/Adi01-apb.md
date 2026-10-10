@@ -69,4 +69,42 @@ Bhagavān said to Uddhava: “O Uddhava, know the guru to be My very self. Do no
 
 O Lord! The wise are filled with bliss when they remember You, yet even with a lifespan like Brahmā's they could not repay You. For in Your boundless mercy You abide outside as the ācārya and within as the indwelling Lord (*antaryāmī*). You do this to destroy all that is inauspicious in embodied souls and to reveal to them their own goal.
 
+## 49
+
+“To those who worship Me with love through eternal *bhakti-yoga*, I give the pure *prema-yoga* born of pure knowledge. Through it they reach My abode of supreme bliss.”
+
+## 50
+
+Bhagavān Himself made Brahmā realize this by instructing him as follows.
+
+## 51
+
+“Out of mercy I am telling you My supreme secret knowledge, filled with realization (*vijñāna*), together with its mystery and its parts. Accept it.
+
+## 52
+
+By My mercy, realize the full truth of what My own nature (*svarūpa*) is, and what My characteristics, form, qualities and *līlās* are.
+
+## 53
+
+Before this world was created, I alone existed. Nothing existed apart from Me — neither *sat* nor *asat*, nor even the indescribable Brahman without attributes (*nirviśeṣa*). After creation I exist as all this, and when creation dissolves, I alone shall remain.”
+
+## 54
+
+The previous verse established knowledge of the nature (*svarūpa*) of the Supreme Truth. But until that knowledge of the *svarūpa-tattva* is made firm by knowing the truth that is other than the *svarūpa*, there is no realization (*vijñāna*). The truth other than the *svarūpa-tattva* is called *māyā*. This verse sets out knowledge of the *māyā-tattva* in detail. The *svarūpa-tattva* is the *artha*, that is, the true reality. Whatever is perceived outside that truth, and whatever has no place in the perception of the *svarūpa-tattva* itself, should be known as a manifestation of *māyā* (*māyā-vaibhava*) belonging to the *ātma-tattva*. Since this is not easy to grasp, here are two particular examples. Think of the *svarūpa-tattva* as the sun. What is other than the sun is perceived in two forms: as *ābhāsa*, a reflection, and as *tamas*, darkness. The sun's reflection falls from water onto another place; this is called *ābhāsa*. The side where the sun's power is not seen is called *tamas*, that is, darkness. The spiritual world is the rays of Bhagavān's own form. The manifestation of *māyā* is an *ābhāsa* that rests on its likeness to that world; this is the example of *ābhāsa*. The darkness far removed from the spiritual truth (*cit-tattva*) is that same manifestation of *māyā*; this is the second example. The point is this: the *ātma-tattva* and the *māyā-tattva* stand in a twofold relation. First, whatever is manifest as a form other than the *ātma-svarūpa* is *māyā*. And the ignorance, the non-self far removed from the *ātma-svarūpa*, is also *māyā*.
+
+## 55
+
+The great elements enter beings large and small, yet they also remain independent, as if they had not entered. In the same way I, as the Supersoul (*Paramātmā*), the shelter of their existence, enter all beings in this world of elements, and yet I eternally abide apart in My form as Bhagavān. For the devotees I am the only object of love. The meaning is this. The great elements — earth, water, fire, air and ether — combine and manifest the gross world. They are present within it as its components, yet in their state as great elements they remain independent. In the same way the spiritual Supreme Lord creates the world through His material potency and His potency of the *jīvas*. With one portion of Himself He pervades the world, yet at the same time He eternally abides in His spiritual abode in the fullness of His spiritual form. And the *jīvas*, the tiniest particles of the rays of His spiritual form, taste pure love for Him on the path of pure love. This is the secret.
+
+## 56
+
+One who seeks knowledge of the *ātma-tattva* should examine this subject by *anvaya-vyatireka*, the direct and the indirect method, and search for the reality that is eternal everywhere and always. The point is this: the means by which the secret of love is attained is called *sādhana-bhakti*. The seeker of truth learns *anvaya-vyatireka*, that is, injunctions and prohibitions, at the feet of a true guru. Cultivating the truth constantly in this way, he will attain knowledge of the truth.
+
+## 53–56
+
+The *Śrīmad-Bhāgavatam* contains the teaching of Mahāprabhu Śrī Caitanyadeva in full. The *Bhāgavatam* has 18,000 verses.
+
+The root of everything in those eighteen thousand verses lies in these four. The verse *aham eva* briefly describes the truth of Bhagavān, His own form, His qualities and His *līlās*. The verse *ṛte 'rtham* examines the truths of *māyā*, of the *jīva* and of matter. *Māyā-tattva* appears separately from Bhagavān's *svarūpa-tattva*. *Jīva-tattva*, through its connection with this *māyā-tattva*, is liable to fall under the control of the *māyā* potency. *Jaḍa-tattva*, matter, is the field of the *jīva*'s enjoyment. From these two verses one should fully grasp knowledge of *sambandha*. The verse *yathā mahānti* says that Bhagavān's eternal form abides separately, although the truth of Bhagavān is inconceivably one with the *jīvas* and matter and different from them. It also names the supreme goal (*prayojana*): the *jīvas* take shelter at His feet and gain the wealth of great love, *mahā-prema*. The verse *etāvad eva* names the only means to reach this supreme goal: *sādhana-bhakti*. *Sādhana-bhakti* includes injunctions that lead to the goal; as favourable, they are called *anvaya*. Actions that obstruct the goal and produce what is unfavourable are counted among the prohibitions and called *vyatireka*. The truth of practice is called *abhidheya*. *Abhidheya* is the instruction one receives through the direct meaning of the scriptures (*abhidhā-vṛtti*).
+
 [^15-1]: Bhaktivinoda gives only the glorification here; the Russian verse translation (VCD) adds a prayer for attachment to the lotus feet.

@@ -249,3 +249,109 @@ Uddhava had heard the scripture of yoga in detail and saw that the path of yoga 
 - **vidhunvan** — dispelling.
 - **sva-gatim** — their own goal, that is, their true nature, marked by being the Lord's associate.
 - **vyanakti** — You reveal.
+
+## 49
+
+> Subheading: Śrī Bhagavān grants the perfection of love to the surrendered practitioner — (*Bhagavad-gītā* 10.10)
+
+There are wise devotees (*paṇḍitas*) who know that everything arises and acts from Bhagavān. They are fixed in unwavering *bhakti-yoga* and worship Him; their minds are turned to Kṛṣṇa, and Kṛṣṇa is their life. They share their feelings with one another and speak about Hari; so they please Kṛṣṇa and delight in Him. Of them Kṛṣṇa says to Arjuna:
+
+- **teṣām satata-yuktānām** — of those who always long to be joined with Me in service.
+- **prīti-pūrvakam** — with love, with reverence.
+- **bhajatām** — who serve: those who have given up other desires, karma and jñāna and are devoted to serving Hari.
+- **tam buddhi-yogam dadāmi** — I give that *buddhi-yoga*, that is, I Myself awaken it in the movements of their hearts.
+- **yena te mām upayānti** — by which they attain Me.
+
+(The sense: this *buddhi-yoga* cannot be gained by oneself or from anyone else; I alone give it, and only from Me can it be received.)
+
+## 51
+
+> Subheading: (*Śrīmad-Bhāgavatam* 2.9.30–35)
+
+Brahmā resolved to create and sank into deep thought. He heard a divine voice say “*Tapa*” (austerity), and he gave himself sincerely to austerity. Viṣṇu became pleased with him, and Brahmā beheld Vaikuṇṭha. There he was freed from pride and began to inquire about the truth, and Bhagavān spoke six verses. See the *Gauḍīya-bhāṣya* on the *Bhāgavatam*, pp. 577–629.
+
+- **me** — My, that is, Bhagavān's.
+- **jñānam parama-guhyam** — knowledge that surpasses even knowledge of the impersonal Brahman and the like.
+- **vijñāna-samanvitam** — joined with realization (*vijñāna*). I give you not merely knowledge of My form, but knowledge joined with *vijñāna*, the realization of Kṛṣṇa and of all that belongs to Kṛṣṇa.
+- **sa-rahasyam** — with its mystery. If there is anything secret in it, that comes too, namely *prema-bhakti*.
+- **tad-aṅgam ca** — and with its limb: *sādhana-bhakti-yoga*, which consists of hearing and the rest and aids knowledge of *sambandha*.
+- **mayā gaditam** — spoken by Me. You did not ask about these three, yet I speak of them out of mercy, and no one else has spoken of them.
+- **sat gṛhāṇa** — accept.
+
+## 52
+
+- **yāvān** — of what size and shape. That is, what My form is like, its limbs joined in a particular harmony of fullness, slenderness, length, height and the rest, and what My measure is in My own nature.
+- **aham yathā-bhāvaḥ** — what My being is, what My characteristics are.
+- **aham yad-rūpa-guṇa-karmakaḥ** — He who has these forms, qualities and deeds. The forms are the dark, the four-armed, the two-armed and the golden, the form of Kṛṣṇa, of Rāma, of Nṛsiṁha and others. The qualities are love for the devotees and others. The deeds are accepting Lakṣmī, lifting Govardhana and others.
+- **tathaiva** — just so, in every respect.
+- **tattva-vijñānam** — realization of their truth.
+- **mad-anugrahāt** — by My mercy.
+- **te** — to you.
+- **astu** — may it be.
+
+(As *sādhana-bhakti* and *prema-bhakti* grow in you, you will realize ever more of the sweetness of My form, qualities and *līlās*. So you will directly realize Me in the land of Vraja — Kṛṣṇa, supremely hard to attain, whose sweetness surpasses even My own form.) (This by itself refutes the view that the four verses point to the impersonal.)
+
+## 53
+
+- **aham** — the word *aham* (“I”) denotes the speaker, the one who has form, not the impersonal Brahman, for that cannot be its object. If knowledge of the self (*ātmā*) were meant, then, as in *tat tvam asi* (“you are that”), it would have been proper to say *tvam eva asīḥ* (“you alone were”). I am that most enchanting divine form (*śrī-vigraha*) who now appears before you.
+- **eva agre** — before creation, even at the time of the great dissolution.
+- **āsam** — I was.
+- **anyat na** — nothing else was. So say the Śrutis: “Vāsudeva alone was, neither Brahmā nor Śaṅkara,” “Nārāyaṇa alone was, neither Brahmā nor Īśāna,” and so on. Vaikuṇṭha, His associates and the rest are His inseparable part, so the same word *aham* includes them, just as the phrase “the king is setting out” includes his retinue.[^53-1]
+- **sad-asat-param** — beyond *sat* and *asat*. *Sat* is the effect, *asat* the cause.
+- **yat** — that, that is, Brahman.
+- **tat anyat na** — is not other than Me. Or else: at that time, since there was no variety in the cosmos, I was in the form of pure, attributeless spirit, and in Vaikuṇṭha in the form of Bhagavān with attributes.
+- **paścāt** — and after creation.
+- **aham** — I alone am: in Vaikuṇṭha as Bhagavān and other forms, in the worlds as the indwelling Lord and other forms.
+- **yad etat** — this universe.
+- **tat api aham eva asmi** — that too is only I, for the universe is not other than Me and is Mine by nature.
+- **yo 'vaśiṣyeta so 'ham eva asmi** — (and at dissolution) what remains is I.
+
+(The sense: the form of Śrī Kṛṣṇa's eternal *līlās* is not limited by time and the like, and He is manifest at all times.)
+
+## 54
+
+- **artham** — the highest reality.
+- **mām ṛte** — without Me.
+- **yat pratīyeta** — what is perceived. When I am perceived it is not perceived, so it is perceived only outside Me.
+- **yac ca ātmani na pratīyeta** — and what is not perceived without resting on Me, that is, is not perceived by itself.
+- **tat** — a thing with these marks.
+- **ātmanaḥ** — of Me, the Supreme Lord.
+- **yathābhāsaḥ** — like *ābhāsa*, a reflection. *Ābhāsa* is a particular reflection of a luminary, somehow cast onto a place beyond its own light. It is perceived only outside the luminary, yet without the luminary it cannot be perceived at all.
+- **yathā tamaḥ** — like darkness. Here the word *tamas* means a play of colours close to darkness. It does not exist in the light that is its source, yet it cannot exist without resting on that light.
+- **māyām** — so too this potency called *māyā*, which is twofold: *jīva-māyā* and *guṇa-māyā*.
+- **vidyāt** — one should know.
+
+## 55
+
+- **yathā mahānti bhūtāni** — as the great elements, ether and the rest.
+- **uccāvaceṣu bhūteṣu** — in higher and lower beings: gods, humans, animals and others.
+- **apra-viṣṭāni** — though situated outside.
+- **anupraviṣṭāni** — appear to be within.
+- **tathā** — so too (though I have not entered, for I abide in Vaikuṇṭha, beyond the worlds).
+- **aham teṣu** — I, in those renowned for the corresponding qualities.
+- **nateṣu** — in those who bow down to Me.
+- **praviṣṭaḥ** — have entered: I abide in the heart to show Myself to their inner sight.
+
+In the same way, without entering, I also abide outside — to give their eyes My beauty and their nostrils My fragrance; to converse with them and fill their ears with the nectar of My sweet voice; and by touch, embrace and the like to let their bodies feel the tenderness, sweetness and other graces of My body. These devotees are beyond the *guṇas*, and I cannot leave them, either within or without: My play with them is always full of attachment. This shows that the “mystery” is their *prema-bhakti*, which brings Me so under their control.
+
+## 56
+
+- **ātmanaḥ** — of Me, Bhagavān.
+- **tattva-jijñāsunā** — by one who wishes to realize what truly brings about his good.
+- **etāvad eva jijñāsyam** — this alone should be learned at the feet of Śrī Guru.
+
+(What is it?)
+
+- **yat** — that one reality which…
+- **anvaya-vyatirekābhyām** — through injunctions and prohibitions…
+- **sarvadā sarvatra syāt** — exists always and everywhere.
+
+(If one asks which of heaven, liberation and *prema* is one's own good, the answer is: *prema* is established by its own *anvaya* and *vyatireka*, whereas heaven and liberation are not established by them.) (That is: of all that is to be learned, this alone should be learned. What is it?)
+
+- **anvaya-vyatirekābhyām** — through union and separation, that is, through *sambhoga* and *vipralambha*.
+- **yat syāt sarvatra** — what exists everywhere: in Śrī Vṛndāvana and the other abodes beyond all the universes — in the servants, friends, elders and beloveds.
+- **sarvadā** — eternally, even at the time of the great dissolution.
+
+(This points to the relishing of the *rasas* of servitude, friendship, parental love and amorous love: *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*.)
+
+[^53-1]: The edition prints «রাজহসৌ প্রজাতীতিবৎ», a typesetting error; read «রাজাঽসৌ প্রয়াতীতিবৎ» (“as [one says] ‘the king is setting out’,” meaning his retinue as well); compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.
