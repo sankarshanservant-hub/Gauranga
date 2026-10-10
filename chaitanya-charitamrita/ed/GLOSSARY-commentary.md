@@ -210,3 +210,79 @@
 - адхокшаджа-таттва → the *adhokṣaja-tattva*, the Truth beyond the senses; дайва / асура → *daiva*, godly / *āsura*, demoniac; вибхиннамша → separated part (*vibhinnāṁśa*).
 - Источники: *Sūrya-siddhānta* (*Madhyamādhikāra*), *Nārāyaṇa-saṁhitā*, *Kali-santaraṇa Upaniṣad*, *Krama-sandarbha*, *Sarva-saṁvādinī*, *Nāmārtha-sudhā*, *Stava-mālā*, *Stotra-ratna*, *Viṣṇu-dharma*, *Gautamīya-tantra*, *Mañjuṣā*.
 - Колофон: *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”* / *… of the “Anubhāṣya.”*
+
+## Термины (добавлено по Ади 4; RU и EN)
+
+### RU
+- বহিরঙ্গ / অন্তরঙ্গ হেতু → внешняя (бахиранга) / внутренняя, сокровенная (антаранга) причина; আনুষঙ্গিক কর্ম্ম → побочное дело.
+- রসিক / রসিকশেখর → расика / венец расиков; কৌতুকী → любящий забавы.
+- বিজাতীয় / সজাতীয় (о положении вишаи и ашраи) → виджатия (иная позиция) / саджатия (так же, как Она).
+- কামতত্ত্ব → кама; শ্রীকৃষ্ণপ্রীতি-কামনা → желание доставить радость Шри Кришне.
+- শুদ্ধভক্তি / বিদ্ধভক্তি / অবিদ্ধা ভক্তি → шуддха-бхакти / виддха-бхакти («пронзённая», смешанная) / авиддха-бхакти; রাগাত্মিক → рагатмика-преданные; পরাকাষ্ঠা → высший предел (паракаштха); লোভ → жажда (лобха); লৌল্য → жажда (лаулья).
+- উপপতি → упапати (возлюбленный, который не муж); স্বকীয়া / পরকীয়া → свакия / паракия; ব্রজললনা, ব্রজবধূ → красавицы / жёны Враджа.
+- বিধিলিঙ্ → видхи-лин (повелительное наклонение); প্রত্যবায় → пратьявая (прегрешение за неисполнение долга).
+- প্রাকৃত-সহজিয়া, সাহজিক → пракрита-сахаджия, сахаджики; 'নদীয়া-নাগরী', 'গৌর-নাগরী' → «Надия-нагари», «Гаура-нагари» (в кавычках); নাগর / নাগরী → нагара (возлюбленный) / нагари (возлюбленная); রসাভাস → расабхаса (искажённая раса); বিবর্ত → виварта (подмена одного другим).
+- সমাবেশ → самавеша (полное погружение); নিত্যবৃত্তি → вечное служение (нитья-вритти); ঔদার্য্যলীলা → игры щедрости (аударья-лила).
+- নিরপেক্ষ (о шанте) → невозмутимость (нирапекша); প্রস্তরতা → «окаменение» (о мокше).
+- স্থায়িভাব, সামগ্রী → стхайи-бхава, составляющие расы (самагри).
+- পীঠ (ব্রজ) → место, питха; গোলোকান্তঃপুর → внутренние покои Голоки.
+- ভগবৎপ্রীতি → любовь к Бхагавану (бхагават-прити); বস্তুশক্তি → васту-шакти; অর্থাপত্তি → артхапатти (вывод о том, без чего смысл не объяснить).
+- বিশুদ্ধসত্ত্ব / শুদ্ধসত্ত্ব / মিশ্রসত্ত্ব → вишуддха-саттва / шуддха-саттва / смешанная саттва; আধারশক্তি → адхара-шакти (опорная сила); আত্মবিদ্যা → атма-видья; গুহ্যবিদ্যা → гухья-видья (сокровенное знание); মূর্ত্তি → мурти (облик).
+- ঈক্ষণ → «один лишь взгляд» (икшана); সম্বেদন-জ্ঞান → знание-познавание (самведана-гьяна); সাক্ষাজ্জ্ঞান / ব্যতিরেকজ্ঞান / বিকৃতজ্ঞান → прямое / через отрицание / искажённое знание.
+- অংশিনী → целое (амшини); অঙ্গবিভূতি → достояние тела; বিম্ব-প্রতিবিম্ব → отражения образа; বৈভব-বিলাস / প্রাভব-প্রকাশ → вайбхава-виласа / прабхава-пракаша.
+- রূঢ় / অধিরূঢ় মহাভাব → рудха / адхирудха-махабхава; মাদন → мадана; দুঃখাভাস → подобие страдания (духкхабхаса); ভাবমূর্ত্তি → бхава-мурти (воплощение бхавы).
+- দ্বিতীয় স্বরূপ (Сварупа Дамодара) → второе «я».
+- Источники: “Прити-сандарбха”, “Бхагават-сандарбха”, “Манах-шикша”, “Мукунда-мала”, “Уджвала-ниламани”, “Става-мала” (первая / вторая “Чайтаньяштака”), “Брахма-самхита”, “Брихад-гаутамия-тантра”, “Гаура-ганоддеша-дипика”, “Сарвагья-сукта”, “Нарада-панчаратра”.
+- Имена/места: Саманта-панчака; Кулашекхара; Пурушоттама Бхаттачарья; Чандравали; Вишнусвами.
+
+### EN
+- external (*bahiraṅga*) / internal, hidden (*antaraṅga*) cause; secondary task; *rasika*; Kṛṣṇa, who delights in play (*kutukī*).
+- *vijātīya* (from a different position) / *sajātīya* (as She does); the desire to please Śrī Kṛṣṇa.
+- *śuddha-bhakti* / *viddha-bhakti* (“pierced,” mixed devotion) / *aviddha-bhakti*; the *rāgātmika* devotees; the highest limit (*parākāṣṭhā*); greed (*lobha*); eagerness (*laulya*).
+- *upapati*, a lover who is not the husband / paramour; *svakīyā* / *parakīyā* (APB: *svakīya* / *pārakīya*, as in the edition); the women / wives of Vraja.
+- *vidhi-liṅ*, the injunctive mood; *pratyavāya*, a fault.
+- *prākṛta-sahajiyā*, *sahajikas*, the Sahajiyā sect; “Nadīyā-nāgarī,” “Gaura-nāgarī”; *nāgara* (lover) / *nāgarī* (beloved); *rasābhāsa*, a distorted *rasa*; *vivarta*, taking one thing for another.
+- complete absorption (*samāveśa*); eternal function (*nitya-vṛtti*); pastimes of magnanimity (*audārya-līlā*); equanimity (*nirapekṣā*); “turning to stone.”
+- *sthāyi-bhāva*; the ingredients of *rasa*; abode (*pīṭha*); the inner chambers of Goloka.
+- love for Bhagavān (*bhagavat-prīti*); *vastu-śakti*, the potency of the Reality itself; *arthāpatti*.
+- *viśuddha-sattva* / *śuddha-sattva* / mixed *sattva*; *ādhāra-śakti*, the supporting potency; *ātma-vidyā*; *guhya-vidyā*, hidden knowledge; *mūrti*, form.
+- “mere glance” (*īkṣaṇa*); knowledge by cognition (*saṁvedana-jñāna*); direct / by negation / distorted knowledge.
+- the whole (*aṁśinī*); splendor of Her body; reflections of Her image; *vaibhava-vilāsa* / *prābhava-prakāśa*.
+- *rūḍha* / *adhirūḍha mahābhāva*; *madana*; semblance of sorrow (*duḥkhābhāsa*); *bhāva-mūrti*, embodiment of *bhāva*; second self.
+- Sources: *Prīti-sandarbha*, *Bhagavat-sandarbha*, *Manaḥ-śikṣā*, *Mukunda-mālā*, *Ujjvala-nīlamaṇi*, *Stava-mālā* (first / second *Caitanyāṣṭaka*), *Brahma-saṁhitā*, *Bṛhad-gautamīya-tantra*, *Gaura-gaṇoddeśa-dīpikā*, *Sarvajña-sūkta*, *Nārada-pañcarātra*.
+- Names/places: Samanta-pañcaka; Kulaśekhara; Puruṣottama Bhaṭṭācārya; Candrāvalī; Viṣṇusvāmī.
+
+
+- বিপ্রলম্ভরস → випраламбха-раса (раса разлуки) / *vipralambha-rasa*, the *rasa* of separation.
+- অক্ষজজ্ঞানবাদী → приверженцы знания, рождённого от чувств / those who hold to knowledge born of the senses.
+- সেব্যবস্তু → Предмет служения / the Object of service.
+- নদীয়া-নাগরী-বাদ → учение «надия-нагари» / the doctrine called “Nadīyā-nāgarī”.
+- জড়ভোগবাদী → материалисты, ищущие наслаждений (джада-бхога-вади) / materialists in search of enjoyment (*jaḍa-bhoga-vādīs*).
+- বিষ্ণুবিদ্বেষী → враги Вишну / enemies of Viṣṇu.
+- উৎকণ্ঠা → тоска (уткантха) / longing (*utkaṇṭhā*); গূঢ়রোষ → сокровенный гнев / hidden anger.
+- মাথুরভাব → матхура-бхава (чувство разлуки, когда Кришна в Матхуре) / *māthura-bhāva*.
+- চিত্রজল্প → читра-джалпа («пёстрые речи») / *citra-jalpa*, “varied talk”; জল্প → джалпа / *jalpa*.
+- কৌমার, পৌগণ্ড, কৈশোর, যৌবন → каумара, пауганда, кайшора, яувана / *kaumāra*, *paugaṇḍa*, *kaiśora*, *yauvana*; বাল্য → балья / *bālya*.
+- কাম (= Кришна) → Кама, Сам Манматха / *Kāma*, Manmatha Himself.
+- কূটস্থ তত্ত্ব → кутастха-таттва (неизменная Истина в средоточии) / *kūṭastha-tattva*, the unchanging Truth at the center.
+- ধীরললিত নায়ক → дхира-лалита-наяка (беззаботный, игривый герой) / *dhīra-lalita-nāyaka*, the carefree and playful hero.
+- সম্প্রয়োগ → сампрайога (соединение) / *samprayoga*; সম্ভোগ → самбхога (единение) / *sambhoga* (union).
+- শৈলূষী → шайлуши (фокусник; искусная танцовщица) / *śailūṣī*, a conjurer; a skilled dancer.
+- বাম্য → строптивость (вамья) / contrariness (*vāmya*); গৌরব → почтительность / deference; দাক্ষিণ্য → дакшинья / *dākṣiṇya*.
+- মধুস্নেহ, মদীয়তা → мадху-снеха (привязанность, сладкая, как мёд), чувство «Он мой» / *madhu-sneha*, “He is mine”.
+- অনুরাগ → анурага / *anurāga*; বিভু → вибху (всепроникающий; достигший предела) / *vibhu*.
+- Источники: “Вишну-пурана”, “Говинда-лиламрита”, “Дана-кели-каумуди”, “Видагдха-мадхава”, “Уджвала-ниламани” / *Viṣṇu Purāṇa*, *Govinda-līlāmṛta*, *Dāna-keli-kaumudī*, *Vidagdha-mādhava*, *Ujjvala-nīlamaṇi*. Паурнамаси / Paurṇamāsī; Вринда-деви / Vṛndā-devī.
+- রূঢ়ভাব → рудха-бхава / *rūḍha-bhāva*; সাত্ত্বিকভাব উদ্দীপ্ত → саттвика-бхавы пылают / the *sāttvika-bhāvas* blaze forth.
+- কাম (vs প্রেম) → кама (желание услаждать собственные чувства) / *kāma* (the desire to please one's own senses); not «похоть» in the commentary text.
+- লোকৈষণা, পুত্রৈষণা, বিত্তৈষণা → локаишана, путраишана, виттаишана / *lokaiṣaṇā*, *putraiṣaṇā*, *vittaiṣaṇā*.
+- লোকধর্ম্ম, বেদধর্ম্ম, দেহধর্ম্ম → лока-, веда-, деха-дхарма / *loka-*, *veda-*, *deha-dharma*; আর্য্যপথ → путь арьев / the path of the Āryans.
+- বিভাব, অনুভাব, সাত্ত্বিক, ব্যভিচারী; আলম্বন, উদ্দীপন → вибхава, анубхава, саттвика, вьябхичари; аламбана (опора чувства), уддипана (то, что его пробуждает) / *vibhāva*, *anubhāva*, *sāttvika*, *vyabhicārī*; *ālambana*, *uddīpana*.
+- বিষয় / আশ্রয় (প্রেমের) → вишая (объект) / ашрая (вместилище) любви / *viṣaya* (object) / *āśraya* (abode) of love; বিষয়জাতীয় / আশ্রয়জাতীয় সুখ → счастье вишаи / ашраи.
+- অহৈতুকী, অব্যবহিতা → ахайтуки (беспричинная), авьявахита (ничем не прерываемая) / *ahaitukī* (causeless), *avyavahitā* (uninterrupted); নির্গুণ ভক্তিযোগ → ниргуна-бхакти-йога / *nirguṇa bhakti-yoga*.
+- সালোক্য, সার্ষ্টি, সামীপ্য, সারূপ্য, একত্ব (সাযুজ্য); ভুক্তি → салокья, сарштхи, самипья, сарупья, экатва (саюджья); бхукти / *bhukti* (worldly enjoyment).
+- সখী, নিত্যসখী, প্রাণসখী, প্রিয়সখী, পরমপ্রেষ্ঠসখী → сакхи, нитья-, прана-, прия-, парама-прештха-сакхи; খণ্ডিতা → кхандита (оскорблённая) / *khaṇḍitā*; মান → мана (ссора) / *māna*; রসোপকরণ → то, что служит расе.
+- গান্ধর্ব্বিকা → Гандхарвика / Gāndharvikā; বার্ষভানবী → дочь Вришабхану.
+- অন্যাভিলাষী → аньябхилаши (с иными желаниями) / *anyābhilāṣī*; কুতর্ক → кутарка (ложные доводы) / *kutarka*.
+- মদনমোহন → Мадана-мохана / Madana-mohana; হ্লাদিনী → хладини / *hlādinī*.
+- Источники: “Лалита-мадхава”, “Гита-Говинда”, “Лагху-бхагаватамрита” (Уттара-кханда), “Ади-пурана”, “Падма-пурана”, “Става-мала” (Кешава-аштака; второй Чайтанья-аштака), дневник Шри Сварупы Госвами / *Lalita-mādhava*, *Gīta-govinda*, *Laghu-bhāgavatāmṛta* (*Uttara-khaṇḍa*), *Ādi Purāṇa*, *Padma Purāṇa*, *Stava-mālā* (*Keśavāṣṭaka*; second *Caitanyāṣṭaka*).
+- Имена: Дарука, Девахути, Капиладева, Амбариша, Дурваса, Муштика, Чанура, Шукадева, Бхарата Муни, Джаядева / Dāruka, Devahūti, Kapiladeva, Ambarīṣa, Durvāsā, Muṣṭika, Cāṇūra, Śukadeva, Bharata Muni, Jayadeva.
