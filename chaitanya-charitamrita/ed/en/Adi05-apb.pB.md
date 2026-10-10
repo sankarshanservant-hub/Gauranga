@@ -29,3 +29,29 @@ Balarāma, the *vilāsa-mūrti* of Kṛṣṇa, is *mūla-Saṅkarṣaṇa*, the
 ## 77
 
 In the eternal abode Viṣṇu has three forms. The first is Kāraṇābdhiśāyī Mahā-Viṣṇu, the creator of the *mahat-tattva*. The second is Garbhodaśāyī, the Puruṣa within the aggregate universe. The third is Kṣīrodaśāyī, the Puruṣa within each individual universe; He is the indwelling Lord (*antaryāmī*) and the Paramātmā of every *jīva*. Whoever can know the truth of these three is freed from material intelligence.
+
+## 79
+
+See Ādi 2.67.
+
+## 80
+
+That Puruṣa-avatāra (as the protector of the world) is Kṣīrodaśāyī.
+
+## 83
+
+The Kāraṇābdhiśāyī Puruṣa is the first avatāra of Bhagavān. Time, nature (*svabhāva*), *prakṛti* as cause and effect, the *mahat-tattva* — the mind and the rest, *ahaṅkāra* — the great elements and the rest, the *guṇas* — *sattva* and the others, the senses, the Virāṭ, the Svarāṭ, the unmoving and the moving — all these are His opulence (*vibhūti*).
+
+In another reading these verses are also found[^83-1]: “I [Brahmā], Bhava, Yajña, these lords of progeny headed by Dakṣa, you [Nārada] and others; the guardians of the heavenly worlds, of the worlds of birds, of the human world and of the lower worlds; the lords of the Gandharvas, Vidyādharas and Cāraṇas; the masters of the Yakṣas, Rākṣasas, serpents and Nāgas; the best of the sages and of the Pitṛs; the kings of the Daityas, the lords of the Siddhas and the kings of the Dānavas; and the others — the rulers of the *pretas*, *piśācas*, *bhūtas* and *kūṣmāṇḍas*, of aquatic creatures, beasts and birds; whatever in the world has greatness, splendor, strength of the senses, endurance, bodily might, forbearance, beauty, modesty, wealth, intelligence or wondrous color — whether it has form or is formless — [all this is] the supreme Truth.”
+
+## 84
+
+Bhagavān, wishing to create the worlds, assumed the form called the Puruṣa, composed of the *mahat-tattva* and the rest and endowed with sixteen *kalās*.
+
+## 85–86
+
+He is the shelter of all, and *saṁsāra* abides in Him; yet as the indwelling Self (*antarātmā*) He is the support of the world. Although He has these two kinds of relation with *prakṛti*, He accepts no fault from contact with *prakṛti*.
+
+---
+
+[^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.

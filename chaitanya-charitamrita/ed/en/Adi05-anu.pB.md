@@ -129,3 +129,53 @@ After stealing the calves, Brahmā prayed to atone for his offense. This is one 
 > Subheading: The relationship of *mūla-Saṅkarṣaṇa*, Mahā-Saṅkarṣaṇa and the three Puruṣas —
 
 **Pratimūrti** (image): the second body (Ādi 5.4–5; Madhya 20.174).
+
+## 75
+
+The words “Mahā-Viṣṇu” and “Mahāpuruṣāvatārī” (the source of the Puruṣa-avatāras) refer to Kāraṇārṇavaśāyī.
+
+## 76
+
+**The characteristic of the Puruṣa**: the *Laghu-bhāgavatāmṛta*, in describing the avatāras (section 4), paraphrases a verse of the *Viṣṇu Purāṇa* (6.8.59) quoted there: “I always bow down to that imperishable Puruṣa. He is a portion of Kṛṣṇa, Puruṣottama, who is free from the six kinds of change. He has contact with the *guṇas*, that is, He glances at *prakṛti*, the *mahat* and the other material things. In truth He never gives up His one *svarūpa*, yet He divides into many portions of Himself and expands all living beings. He is pure, that is, free from contact with *māyā*, and yet He appears impure, as if in contact with *māyā*. And He is eternally spiritual.” Śrī Rūpa's *kārikā* on this verse: “That portion of the Supreme Lord who seems to partake of the *guṇas* of *pradhāna*, who casts His glance upon it and performs the other acts, and who has many avatāras, is known as the Puruṣa.” That is, the portion of the Supreme Lord who, as if in contact with the *guṇas* of *pradhāna*, glances at *prakṛti*, the *mahat-tattva* and the rest, and who manifests the various avatāras — that portion the scriptures call the “Puruṣa.”
+
+## 77
+
+> Subheading: (*Laghu-bhāgavatāmṛta*, *Pūrva-khaṇḍa*, Chapter 2, verse 9; words of the *Sātvata-tantra*)
+
+**viṣṇoḥ tu puruṣākhyāni trīṇi rūpāṇi viduḥ** (Viṣṇu is known to have three forms called Puruṣas). Of them, **ekam** (the first) **tu mahataḥ** (of the *mahat-tattva*) **sraṣṭṛ** (the creator — the indwelling Lord of *prakṛti*), **dvitīyaṁ tu aṇḍa-saṁsthitam** (the second, who dwells in the universe, its indwelling Lord), **tṛtīyaṁ sarva-bhūta-stham** (the third, who dwells in all beings, the indwelling Lord of the *jīvas*). **tāni rūpāṇi jñātvā vimucyate** (knowing these forms, the knower is freed from the bonds of *māyā*).
+
+## 78
+
+> Subheading: Kāraṇārṇavaśāyī is the source of all the avatāras, beginning with Matsya —
+
+## 79
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 3, verse 28)
+
+## 80
+
+> Subheading: The work of the three Puruṣa-avatāras —
+
+“He is the storehouse and the imperishable seed of the many avatāras; by portions of His portions the gods, animals, humans and others are created.” (*Śrīmad-Bhāgavatam* 1.3.5) As Kāraṇābdhiśāyī He is the cause of creation, maintenance and dissolution; as Garbhodaśāyī, the abode where the many avatāras are born; and as Kṣīrodaśāyī, the Lord of the earth.
+
+## 81
+
+> Subheading: The avatāras are only portions —
+
+The *Laghu-bhāgavatāmṛta*, describing the characteristics of the avatāras (section 1), says: “When the forms mentioned before appear for the work of the universe, as if for the first time, either themselves or through another medium, they are then called avatāras. That medium is either a *tad-ekātma-rūpa* or His devotee — like Śeṣaśāyī and others, or like Vasudeva and others.” That is, when the original form mentioned before, Śrī Kṛṣṇa, appears for the work of the universe either Himself or through a medium, He is called an “avatāra.” The medium is of two kinds: a *tad-ekātma-rūpa* and a devotee. Śeṣaśāyī is a *tad-ekātma-rūpa*, while Vasudeva and others are devotees. Śrī Baladeva's commentary: “‘Themselves’ means without a medium; ‘through another medium’ — if they appear in the world in either way, they are then called avatāras. Descent from what lies beyond the world into the world is indeed avatāra. Through a medium: as Garbhodakaśāyī from Śeṣaśāyī Kāraṇārṇavaśāyī, Kṛṣṇa from Vasudeva, Rāma from Daśaratha. ‘The work’: agitating *prakṛti* and producing the *mahat* and the rest; increasing the happiness of the gods and others by crushing the wicked; distributing the bliss of *prema* to *sādhakas* who long for Him by appearing before them Himself; and spreading pure devotion — such is the meaning of ‘for the work.’”
+
+In the realm of *māyā* everything is fragmented by differences of place, time and person, and actions there are fragmented. In those actions, in their efficient or material portion, one sees the causality of Bhagavān's *svarūpa*. The Godhood in the form of Mahā-Viṣṇu, the cause of those actions, is a portion of Kṛṣṇa. It is this portion that is called an “avatāra.” Ordinarily, by gross vision and on the maxim of the lame and the blind, inert *prakṛti* is called the “material” cause and the enjoyer, the *puruṣa-jīva* made of the three *guṇas*, the “efficient” cause. But *prakṛti* is neither the “material” nor the “efficient” cause of the world; this the devotees (*bhāgavatas*) have subtly realized. By the power of His glance *prakṛti* is known as the “material” of the world, and *māyā* is famed as its “efficient agent”; both these potencies are given by Bhagavān Himself. Those manifestations of Bhagavān in which He displays the pastime of empowering *māyā* — to create the universe or for its welfare — those manifest forms are called “portions” or “avatāras.” In truth the avatāras, who are likened to lamps, are Viṣṇu. But because they exercise authority over *māyā*, in the language of *māyā* they are merely called “portions” or “avatāras.” See Madhya 20.263–264.
+
+## 82
+
+On Garbhodaśāyī, the seed of all avatāras, see *Śrīmad-Bhāgavatam* 1.3.5.
+
+## 83
+
+> Subheading: Kāraṇārṇavaśāyī Mahā-Viṣṇu —
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 6, verse 42)
+
+Śrī Brahmā describes to Nārada the opulence of Bhagavān Kāraṇārṇavaśāyī:
+
+**parasya bhūmnaḥ** (of Bhagavān) **puruṣaḥ** (Kāraṇārṇavaśāyī) is **ādyaḥ avatāraḥ** (the first avatāra). **kālaḥ** (time, the agitator of the *guṇas*), **svabhāvaḥ** (its impression), **sad-asat** (*prakṛti*, effect and cause), **manaḥ** (the *mahat-tattva*), **dravyam** (the subtle elements, the five great elements), **vikāraḥ** (*ahaṅkāra*), **guṇaḥ** (*sattva* and the others), **indriyāṇi** (the eleven), **virāṭ** (the aggregate body), **svarāṭ** (the Vairāja), **sthāsnu** (the unmoving), **cariṣṇu** (the moving, the individual body) **ca** (all are forms of His opulence).
