@@ -234,8 +234,118 @@ Brahmā stole the calves, then came to understand the truth about Śrī Kṛṣ�
 
 (Even when You descend as an avatāra, *māyā* cannot touch Your spiritual body. O Kṛṣṇa, You are the original Nārāyaṇa, and the Puruṣa and the other avatāras are Your parts; You alone are the whole. These avatāras are limbs (*aṅgas*), and You are the possessor of the limbs (*aṅgī*) — such is my conviction.)
 
+## 31
+
+> Subheading: Explanation of the verse —
+
+## 32
+
+> Subheading: Since Kṛṣṇa is the original Nārāyaṇa, all the *puruṣa-avatāras* are contained in Him —
+
+## 35
+
+> Subheading: The first proof —
+
+## 36
+
+All the various things that have arisen from *prakṛti* through the modes are material (*prākṛta*). There are also the eternal varieties of spiritual *vilāsa*, which the modes cannot disturb; this is the transcendental (*aprākṛta*) creation. The hosts of liberated *jīvas* who belong to the transcendental manifestation are devoted to serving Kṛṣṇa. The conditioned *jīvas* are subject to time, are under the sway of the three modes and belong to the material creation. The liberated *jīvas* of the transcendental manifestation are always engaged in serving Kṛṣṇa, while the material *jīvas* are always bound to taste happiness and distress. Saṅkarṣaṇa is the original *svarūpa* of both the liberated and the conditioned *jīvas*. From His marginal potency (*taṭastha-śakti*) come various *jīvas*; some are turned toward service and others away from it, and all abide in various forms. When liberated, the *jīva* serves Bhagavān in the transcendental kingdom: he takes the position of *āśraya*, the one who holds love, in one of the five different *rasas*. In the kingdom of enjoyment, however, he is gripped by ignorance (*avidyā*): he thinks himself the enjoyer and sees other things as objects to enjoy. Both kinds of *jīvas* are manifestations of the transformation of the *taṭastha-śakti*; both depend on the Possessor of potency.
+
+## 37
+
+All-pervading clay is the material cause of the various pots it pervades. So too from Bhagavān, nondual knowledge, all the hosts of *jīvas* are eternally manifest, like pots. Bhagavān, the cause of all causes, always abides [in them] as the cause of the *jīvas*. The Śruti “The eternal among the eternal, the conscious among the conscious”[^37-1] shows that the shelter of all that exists is the Supreme Truth.
+
+The Viśiṣṭādvaitins define the subject of Vedānta like this. The *jīva*, the possessor of the subtle and gross bodies, is seen in three states. So too the spiritual and the material worlds appear in two states, separately from Bhagavān's *svarūpa*, and so establish His nonduality endowed with distinguishing features. The spiritual world is full of Bhagavān's associates, and the material world is the field of enjoyment for the conditioned *jīvas*, who have turned away from Bhagavān. Bhagavān's internal potency is the cause of the variety of His retinue; His external potency has created the world born of the material modes. The material world is the gross, external part of Bhagavān's body, and the world of *jīvas* the subtle part of His body. Bhagavān is the possessor (*aṅgī*) of both kinds of parts. Gauḍīya philosophy (*Gauḍīya-darśana*) has established inconceivable oneness and difference (*acintya-bhedābheda*), present at once in the relation of cause and effect: between the Possessor of His own potency (*svarūpa-śakti*) and the two worlds, which are transformations of the spiritual and the non-spiritual potencies.
+
+## 40
+
+> Subheading: The second proof —
+
+## 43
+
+> Subheading: The third proof —
+
+## 49
+
+> Subheading: The marks of the three *puruṣa-avatāras* —
+
+## 53
+
+> Subheading: (from the *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 11.15.16)
+
+Śrīdhara Svāmī quotes this verse in his commentary to explain the word *turīya*.
+
+- **virāṭ** — (the gross),
+- **hiraṇya-garbhaḥ** — (the subtle)
+- **ca** — and
+- **kāraṇam** — (ignorance, or *prakṛti*) —
+- **iti** — (these)
+- **īśasya** — of the Lord (the *puruṣa-avatāra*, creator of the *mahat-tattva*)
+- **upādhayaḥ** — are the *upādhis* (particular manifestations).
+- **yat** — That which
+- **tribhiḥ** — by (these) three (*upādhis*)
+- **hīnam** — is untouched (not connected with them),
+- **tat** — that (state)
+- **turīyam** — the fourth (Vaikuṇṭha, beyond the three Puruṣas)
+- **pracakṣate** — they call.
+
+## 55
+
+> Subheading: To descend into the material world and remain beyond it — this is the very nature of Bhagavān — (*Śrīmad-Bhāgavatam* 1.11.38)
+
+Śrī Kṛṣṇa returned to His palace in the city of Dvārakā and spent His time with the queens. There was not even a trace of *māyā* in His conduct, and Śrī Sūta spoke of it like this:
+
+- **tad-āśrayā** — (sheltered in Śrī Bhagavān, as is that of the great devotees)
+- **buddhiḥ** — intelligence
+- **yathā** — just as (though it has somehow come to be in *prakṛti*) (**na yujyate**) does not become bound [to the modes], so [He too]. Or else, by contrast:
+- **tad-āśrayā** — (resting on *prakṛti*)
+- **buddhiḥ** — intelligence (the knowledge of the *jīva*)
+- **yathā** — just as (**yujyate**) becomes bound, so [He] **na** — does not [become bound].
+- **prakṛti-sthaḥ api** — even while abiding in *prakṛti* (being in the world made of the three modes),
+- **sadā** — always
+- **ātma-sthaiḥ** — abiding in Him
+- **tad-guṇaiḥ** — by its modes
+- **na yujyate** — is not bound (does not become attached to the material modes).
+- **etat** — (Just) this
+- **īśasya** — of the Lord (Bhagavān, all-powerful and beyond *māyā*)
+- **īśanam** — is the lordship (*aiśvarya*).
+
+## 56
+
+For “those three” — Kṣīrodakaśāyī, Garbhodakaśāyī and Kāraṇārṇavaśāyī Mahā-Viṣṇu — You are the supreme shelter. Their source is Your *vilāsa-mūrti*, the *catur-vyūha*: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha. From Saṅkarṣaṇa, in the Causal Waters, appears the first *puruṣa-avatāra*, the creator of the *mahat-tattva*, Kāraṇārṇavaśāyī; from Pradyumna, the second *puruṣa-avatāra*, Garbhodakaśāyī; and from Aniruddha, the third *puruṣa-avatāra*, Kṣīrodakaśāyī. Once They appear, They remain under the shelter of Nārāyaṇa alone.
+
+## 59
+
+“This verse” is the verse *nārāyaṇas tvam…* quoted above as number 30.
+
+## 61
+
+> Subheading: Refuting the view that Kṛṣṇa is a part of Nārāyaṇa and Nārāyaṇa the whole —
+
+## 63
+
+> Subheading: (2) Refuting the view that Kṛṣṇa and Nārāyaṇa are different — (*Śrīmad-Bhāgavatam* 1.2.11)
+
+See Ādi 2.11.
+
+## 67
+
+> Subheading: Refuting the view that Kṛṣṇa is an avatāra or a part — (*Śrīmad-Bhāgavatam* 1.3.28)
+
+After listing Śrī Kṛṣṇa's avatāras, Śrī Sūta concludes with this verse.
+
+- **ete** — (the avatāras named before)
+- **puṁsaḥ** — (of the *puruṣa-avatāra*)
+- **aṁśa-kalāḥ** — are parts and *kalās* (parts of parts).
+- **kṛṣṇaḥ tu** — But Kṛṣṇa
+- **bhagavān svayam** — is Bhagavān Himself.
+- **indrāri-vyākulam** — (These partial avatāras) (oppressed by the demons)
+- **lokam** — (the universe)
+- **yuge yuge** — (in every age, at the proper time)
+- **mṛḍayanti** — (make happy).
+
 [^5-1]: The edition reads *atan-māyā-rahita* (literally “free from *māyā*, [which is] not-That”); taken here as “untouched by *māyā*.”
 [^11-1]: The edition reads *māyā vā advaya-jñāna-dvārā* (“by *māyā*, or nondual knowledge”); the sense probably requires *dvaya-jñāna*, dual knowledge (compare *dvaita-jñāna* in the same sentence); translated by the sense.
 [^19-1]: *Muṇḍaka Upaniṣad* 3.1.1–3.
 [^22-2]: Sources not named in the edition: *Śvetāśvatara Upaniṣad* 6.7 and 3.12; *Muṇḍaka Upaniṣad* 3.1.3; *Śrīmad-Bhāgavatam* 11.5.33–34 and 7.9.38.
 [^22-1]: *Māyāyām*, literally “in Māyā”; usually understood as Māyāpura.
+[^37-1]: *Kaṭha Upaniṣad* 2.2.13; *Śvetāśvatara Upaniṣad* 6.13.

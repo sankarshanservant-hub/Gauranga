@@ -60,4 +60,68 @@ Bhagavān's eternal form (*nitya-vigraha*) cannot be seen with the material sens
 
 O Adhīśa, Supreme Lord, You are the witness of all the worlds. You are the Self of all embodied beings, that is, what is dearest to them; are You not, then, my father Nārāyaṇa? The water born of Nara is called *nāra*, and He whose resting place (*ayana*) is in it is Nārāyaṇa. He is Your *aṅga*, that is, Your part. None of Your parts — Kāraṇābdhiśāyī, Kṣīrodaśāyī and Garbhodaśāyī — is subject to *māyā*: They are the masters of *māyā*, the supreme Truth beyond *māyā*.
 
+## 36–37
+
+The material (*prākṛta*) creation lies within the bounds of *māyā*, *prakṛti*. “Earth, water, fire, air, ether, mind, intelligence and false ego — these are the eight divisions of My separated *prakṛti*. This is the lower…” (*Bhagavad-gītā* 7.4–5). According to these words of the *Gītā*, all of it belongs to *māyā*, that is, is material: both the subtle world — mind, intelligence and false ego — and the five great elements beginning with earth. The pure *jīva* and the spiritual world are transcendental (*aprākṛta*). There are two worlds, the material and the transcendental, and two kinds of *jīvas*, the conditioned and the pure; You are the Self of them all, and therefore their original *svarūpa*. Earth is the cause and shelter of all pots; so too You alone are the *nidāna* of the *jīvas*, that is, their cause and shelter.
+
+## 40
+
+“The Puruṣa and the other avatāras” are the three *puruṣa-avatāras*: Kāraṇābdhiśāyī, Garbhodakaśāyī and Kṣīrodakaśāyī.
+
+## 44
+
+*Ithe* (in them) means in the material multitudes of universes and in the transcendental abodes, Vaikuṇṭha and the rest. You are the one witness, that is, the seer, of all the deeds of the conditioned and the pure *jīvas* — past, future and present.
+
+## 46
+
+*Yāte* means “because”: because You see the *jīvas*, You are Nārāyaṇa, the shelter (*ayana*) of *nāra*. Brahmā establishes by three arguments that Kṛṣṇa is the original Nārāyaṇa. First: Kṛṣṇa is the *nidāna* (cause) and shelter of all *jīvas*, and therefore He is the original Nārāyaṇa. Second: the Lord of all *jīvas* is the Kāraṇābdhiśāyī Puruṣa; the Self of the aggregate *jīva*, that is, of Hiraṇyagarbha, is the Garbhodaśāyī Puruṣa; and the indwelling Lord, the Self of the individual *jīva*, is the Kṣīrodaśāyī Puruṣa. These three Puruṣas and Their avatāras receive Their power from Kṛṣṇa; He is its original source and thus the shelter of *nāra*, and therefore He is the original Nārāyaṇa. Third: in countless universes, in Vaikuṇṭha and in the other abodes, Kṛṣṇa is the witness of the deeds of the conditioned and the pure *jīvas* in all three times; thus He is the shelter of *nāra*, and therefore the original Nārāyaṇa.
+
+## 47
+
+*Jīva-hṛdi* means in the heart of the individual and of the aggregate *jīva*. *Jale* (in the water) means in the Kāraṇābdhi, the Garbhodaka and the Kṣīrodaka.
+
+## 49
+
+*Tāte saba māyī*: because these three Puruṣas create through *māyā*, They are *māyī*, that is, the masters of *māyā*.
+
+## 50
+
+*Ye puruṣa-nāmī* means “They whose name is Puruṣa.”
+
+## 51–52
+
+Hiraṇyagarbha is the aggregate *jīva*; his indwelling Lord is Garbhodakaśāyī. The indwelling Lord of the *vyaṣṭi*, that is, of each separate *jīva*, is the Puruṣa Kṣīrodakaśāyī. The Puruṣa beyond these three Puruṣas is *turīya*, that is, the fourth. He is Kṛṣṇacandra's *vilāsa-mūrti*, Nārāyaṇa, the Lord of Paravyoma; in Him there is not even a trace of *māyā*.
+
+## 53
+
+Virāṭ, Hiraṇyagarbha and Kāraṇa are all designations (*upādhis*) connected with *māyā*. The truth free of *upādhis* is *turīya*, the fourth.
+
+## 54
+
+Hiraṇyagarbha and the rest — the aggregate and the individual *jīvas* — are subject to *māyā*. The three Puruṣas mentioned have dealings with *māyā*, yet They are beyond it. They are the truth that rules over *māyā*: They glance at *māyā* but do not touch it.
+
+## 55
+
+The Lord's lordship consists in just this: He abides in *prakṛti* yet does not come under the sway of its modes. When the intelligence of a *jīva* bound by *māyā* takes shelter of the Lord (*Īśa*), it does not join with the modes of *māyā* even when near *māyā*.
+
+## 57
+
+*Aṁśī* is the One of whom [another] is a part. The Nārāyaṇa of Paravyoma is the *aṁśī* of the *puruṣa-avatāras*. He is Your secondary manifestation (*prakāśa*) in the form of *vilāsa*.
+
+## 59
+
+*Paribhāṣā* means a [defining] *sūtra*. *Sarvatrādhikāra*: you will find this mark everywhere in the *Bhāgavatam*.
+
+## 60–62
+
+*Vihāra* means *vihāra* in the form of manifestations (*prakāśas*). Fools do not understand this meaning and interpret otherwise, for example: “Nārāyaṇa is the source of the avatāras, and Kṛṣṇa is an avatāra.” When such conclusions are put forward as a *pūrvapakṣa* (an opponent's thesis), the verses of the *Bhāgavatam* refute them with special skill.
+
+## 65
+
+In this verse the word *advaya-jñāna* (nondual knowledge) means the original Truth, Kṛṣṇa's *svarūpa*.
+
+## 67
+
+Rāma, Nṛsiṁha and the others are parts (*aṁśas*) or parts of parts (*kalās*) of the *puruṣa-avatāra*. But Kṛṣṇa is Bhagavān Himself. These avatāras protect the world, oppressed by the Daityas (demons), in age after age.
+
 [^21-1]: The Russian verse translation (VCD) reads differently: it does not render *ātma-kalpita* separately, and it relates the delusion of difference to the Lord's various forms.
