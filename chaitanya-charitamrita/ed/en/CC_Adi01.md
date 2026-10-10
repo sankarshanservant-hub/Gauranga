@@ -78,7 +78,7 @@ called Caitanya  manifest  now  those two  and  oneness  attained
 rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam  
 with Rādhā's emotion and radiance  adorned  I bow to  Kṛṣṇa Himself
 
-(5) Rādhā is the transformation of love for Kṛṣṇa; She is His pleasure-giving potency (*hlādinī śakti*). Therefore, although Rādhā and Kṛṣṇa are one in soul, long ago They assumed separate forms on earth. Now the two have become one and appeared as Caitanya. I bow to Him, who is Kṛṣṇa Himself, adorned with Rādhā’s emotion and radiance.
+(5) “Rādhā is the transformation of love for Kṛṣṇa; She is His pleasure-giving potency (*hlādinī śakti*). Therefore, although Rādhā and Kṛṣṇa are one in soul, long ago They assumed separate forms on earth. Now the two have become one and appeared as Caitanya. I bow to Him, who is Kṛṣṇa Himself, adorned with Rādhā’s emotion and radiance.” (Svarūpa Dāmodara’s diary)
 
 শ্রীরাধায়াঃ প্রণয়মহিমা কীদৃশো বানয়ৈবা-  
 স্বাদ্যো যেনাদ্ভুতমধুরিমা কীদৃশো বা মদীয়ঃ ৷  
@@ -158,7 +158,7 @@ of the creator of the worlds  the birthplace  of Brahmā
 taṁ śrī-nityānanda-rāmaṁ prapadye  
 to Him  Śrī Nityānanda-Rāma  I surrender
 
-(10) “The blessed Garbhodakaśāyī is a portion of His portion. The lotus from His navel has a stem that holds the multitude of worlds, and it is the birthplace of Brahmā, the creator of the worlds. I surrender to that Śrī Nityānanda-Rāma.” (Svarūpa Dāmodara’s diary)
+(10) “The blessed Garbhodakaśāyī is a portion of His portion. The lotus from His navel has a stem that holds the multitude of worlds, and it is the birthplace of Brahmā, the creator of the worlds. I surrender to that Śrī Nityānanda-Rāma.”
 
 যস্যাংশাংশাংশঃ পরাত্মাখিলানাং  
 পোষ্টা বিষ্ণুর্ভাতি দুগ্ধাব্ধিশায়ী ৷  
@@ -174,7 +174,7 @@ the upholder of the earth  whose part  he  also  Ananta
 taṁ śrī-nityānanda-rāmaṁ prapadye  
 to Him  Śrī Nityānanda-Rāma  I surrender
 
-(11) “Viṣṇu who lies in the Ocean of Milk, the Supersoul and maintainer of all beings, is a portion of a portion of His portion. Ananta, who upholds the earth, is also His part. I surrender to that Śrī Nityānanda-Rāma.” (Svarūpa Dāmodara’s diary)
+(11) “Viṣṇu who lies in the Ocean of Milk, the Supersoul and maintainer of all beings, is a portion of a portion of His portion. Ananta, who upholds the earth, is also His part. I surrender to that Śrī Nityānanda-Rāma.”
 
 মহাবিষ্ণুর্জগৎকর্ত্তা মায়য়া যঃ সৃজত্যদঃ ৷  
 তস্যাবতার এবায়মদ্বৈতাচার্য্য ঈশ্বরঃ ॥ ১২ ॥
@@ -643,13 +643,13 @@ may there be  your  by My grace
 aham evāsam evāgre  
 I  alone  was  indeed  in the beginning  
 nānyat yat sad-asat-param  
-not  anything else  which  the gross, the subtle, or beyond them  
+not  anything else  which  effect, cause, or beyond them  
 paścād ahaṁ yad etac ca  
 afterwards  I  what  this (creation)  and  
 yo ‘vaśiṣyeta so ‘smy aham  
 what  remains  that  am  I
 
-(53) “Before creation I alone existed; there was nothing else, neither the gross, nor the subtle, nor what lies beyond them. After creation I exist, and all this creation too is I. And what remains at the end, that am I.” (Śrīmad-Bhāgavatam 2.9.33)
+(53) “Before creation I alone existed; there was nothing else, neither effect nor cause, nor what lies beyond them. After creation I exist, and all this creation too is I. And what remains at the end, that am I.” (Śrīmad-Bhāgavatam 2.9.33)
 
 ঋতেঽর্থং যৎ প্রতীয়েত ন প্রতীয়েত চাত্মনি ৷  
 তদ্বিদ্যাদত্মনো মায়াং যথাভাসো যথা তমঃ ॥ ৫৪ ॥
@@ -745,9 +745,9 @@ become  to heart and ear  a delight  the narrations
 taj-joṣaṇād āśv apavarga-vartmani  
 by relishing them  quickly  on the path of liberation  
 śraddhā ratir bhaktir anukramiṣyati  
-faith  attraction  devotion  will follow in order
+faith  rati  devotion  will follow in order
 
-(60) “In the association of saints, discussions of My power become narrations that delight the heart and the ear. By relishing them one quickly advances on the path of liberation: faith, attraction and devotion follow one after another.” (Śrīmad-Bhāgavatam 3.25.25)
+(60) “In the association of saints, discussions of My power become narrations that delight the heart and the ear. By relishing them one quickly advances on the path of liberation: faith, *rati* and devotion follow one after another.” (Śrīmad-Bhāgavatam 3.25.25)
 
 ঈশ্বরস্বরূপ ভক্ত তাঁর অধিষ্ঠান ৷  
 ভক্তের হৃদয়ে কৃষ্ণের সতত বিশ্রাম ॥ ৬১ ॥
