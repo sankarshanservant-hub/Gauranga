@@ -46,6 +46,30 @@ One who loves is the *āśraya*, the abode, of love; one who is loved is its *vi
 
 The second desire is this. Kṛṣṇa's sweetness is wondrous, endless and unlimited. Rādhikā alone relishes this sweetness, through the love that fills Her as the *āśraya*. “The mirror of Rādhikā's pure love is spotless, yet its clarity increases at every moment. My sweetness is unlimited and so cannot increase — yet it does increase, and before the clear mirror of Rādhikā's love it shines in ever newer forms. Therefore My sweetness and Rādhā's love rival each other, each striving to surpass the other, and neither wants to yield. Seeing My own sweetness in the mirror of Rādhikā's love and in other such mirrors, I long to relish it. Out of that longing My mind runs to accept the *svarūpa* of Rādhikā.”
 
+## 146
+
+Kṛṣṇa said: “Ah! Who is this excellent person (*puruṣa*) pictured here, never seen before, whose deep sweetness astonishes? Looking at Him, I am stirred at heart, and like Rādhikā I want to embrace Him impetuously.”
+
+## 152
+
+The *gopīs* attained Śrī Kṛṣṇa, whom they had longed for over many days, and as they gazed at Him they reproached the Creator who made the eyes blink. Through their eyes they all embraced Him to their hearts' content within the heart and attained the highest emotion, unattainable even for *yogīs* who meditate on Brahman.
+
+## 153
+
+The *gopīs* said: “O Kṛṣṇa, when You go to the forest by day, every instant (*truṭi*) in which we do not see Your beautiful face framed by curling locks becomes an entire *yuga* for us. And the Creator who made eyelids on our eyes, which gaze at Your face, we consider a fool.”
+
+## 155
+
+The *gopīs* said: “O friends, when Nanda's two sons enter the forest with the cows, surrounded by Their friends, blessed are those who serve Their faces with their eyes: They play the flute and cast glances at those who love Them. Those who have eyes can gain nothing higher than this.”
+
+## 156
+
+The women of Mathurā said: “Ah, what austerity the *gopīs* must have performed! With their eyes they constantly drink the nectar of Śrī Kṛṣṇa's face. He is the sole abode of beauty, majesty and all fame; He is hard to attain, perfect by Himself, with none equal or superior to Him — the very essence of loveliness.”
+
+## 159
+
+Kṛṣṇa longed to relish His own sweetness fully, with the love known to the *āśraya*, but He could not and was distressed. This is the second hidden reason why He accepted Rādhikā's emotion.
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.

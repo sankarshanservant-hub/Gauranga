@@ -117,3 +117,65 @@ Within the midday pastimes of Śrī Rādhā and Kṛṣṇa, Śrī Rādhā and V
 ## 146
 
 > Subheading: (*Lalita-mādhava* 8.34)
+
+## 146
+
+In Dvārakā, in Nava-Vṛndāvana, Śrī Kṛṣṇa sees His reflection in a wall of jewels and, beholding His own beauty, says:
+
+**aparikalita-pūrvaḥ** (never experienced before) **camatkāra-kārī** (causing wonder) **eṣaḥ garīyān** (this most exalted) **mama kaḥ** (My indescribable) **mādhurya-pūraḥ** (flood of sweetness, a mass of beauty) **sphurati** (appears). **ayam aham** (I, Kṛṣṇa) **api yam** (it, this image in the reflection) **prekṣya** (seeing) **rādhikā iva** (like Rādhikā) **lubdha-cetāḥ san** (with a mind full of longing) **sarabhasam** (eagerly) **upabhoktum** (to enjoy) **kāmaye** (desire).
+
+## 147
+
+> Subheading: The power of Kṛṣṇa's sweetness and His efforts to relish it —
+
+Kṛṣṇa's sweetness by its very nature has the power to stir everyone: Kṛṣṇa Himself, the *gopīs*, Baladeva, Nārāyaṇa, Lakṣmī and all other living beings.
+
+## 149
+
+> Subheading: Kṛṣṇa's sweetness knows no worldly satiety — longing only grows —
+
+## 152
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.82.39)
+
+After the cowherds met the Vṛṣṇis at Kurukṣetra, Śukadeva describes the feelings of the *gopīs* for Kṛṣṇa:
+
+**yat-prekṣaṇe** (when seeing Śrī Kṛṣṇa) **dṛśiṣu** (on the eyes) **pakṣma-kṛtam** (the Creator who made the eyelashes, the hairs of the eyelids that obstruct the view) **śapanti** (they curse). ([All]) **gopyaḥ** (the *gopīs*) ([Him]) **abhīṣṭam** (Kṛṣṇa, their desired one) **cirāt** (after a long time, at Kurukṣetra) **upalabhya** (having attained), **dṛgbhiḥ** (through the eyes) **hṛdī-kṛtam** (brought into the heart) **parirabhya** (embracing), **nitya-yujām** (for *yogīs* who have reached the summit of *yoga*) **api durāpam** (hard to attain) **tad-bhāvam** (the state of concentrated supreme bliss) **āpuḥ** (attained).
+
+## 153
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.31.15)
+
+When Kṛṣṇa disappeared during the *rāsa* dance, the *gopīs* sang in lament for Him:
+
+**yat** (when) **ahni** (by day) **bhavān** (You) **kānanam** (to the forest, Vṛndāvana) **aṭati** (go), **tadā tvām apaśyatām** (then for [the living beings] who do not see You) **truṭiḥ** (even half a moment) **yugāyate** (seems to last a *yuga*). **te** (Your) **kuṭila-kuntalam** (framed by curling locks) **śrī-mukham** (beautiful face) **udīkṣatām** (of those looking up [at it]) **ca dṛśām** (of the eyes) **pakṣma-kṛt** (the Creator who made blinking) **jaḍaḥ** (a fool) **eva** (indeed).
+
+## 154
+
+> Subheading: The eyes of a fortunate soul find their purpose only in seeing Kṛṣṇa's form —
+
+## 155
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.21.7)
+
+At the coming of autumn, the *gopīs* sing with Kṛṣṇa in mind:
+
+**he sakhyaḥ** (O friends), **vayasyaiḥ** (with Their friends) **paśūn anuviveśayatoḥ** (leading the herds from forest to forest) **vrajeśa-sutayoḥ** (of the sons of the lord of Vraja, Rāma and Kṛṣṇa) **anuveṇu-juṣṭam** (playing the flute) **anurakta-kaṭākṣa-mokṣam** (casting tender sidelong glances) [the face] **yaiḥ nipītam** (by whom it was drunk) — that which they enjoyed — **idam vai** (this indeed) **akṣaṇvatām** (of those who have eyes) **phalam** (the fruit); **param** (anything else) **na vidāmaḥ** (we do not know).
+
+## 156
+
+> Subheading: The women of Mathurā marvel at the good fortune of the *gopīs* —
+>
+> (*Śrīmad-Bhāgavatam* 10.44.14)
+
+In Kaṁsa's arena in Mathurā, Rāma and Kṛṣṇa were wrestling with his wrestlers Muṣṭika and Cāṇūra. Seeing this, the assembled women say:
+
+**gopyaḥ kim tapaḥ acaran** (what austerity did the *gopīs* perform), **yat** (since) **amuṣya** (of Śrī Kṛṣṇa) **lāvaṇya-sāram** (excelling all in loveliness) **asamordhvam** (that which has no equal or superior) **ananya-siddham** (perfect not through anything else — ornaments and the like — but by itself) **anusavābhinavam** (new at every moment) **durāpam** (hard to attain) **yaśasaḥ śriyaḥ aiśvarasya** (of fame, beauty and majesty) **ekānta-dhāma** (the sole abode) — **rūpam** (the form) — **dṛgbhiḥ pibanti** (they drink with their eyes).
+
+## 159
+
+> Subheading: (3) The third desire —
+
+## 160
+
+> Subheading: Svarūpa Dāmodara alone is the original *mahājana* in the nectar of *bhakti-rasa* —
