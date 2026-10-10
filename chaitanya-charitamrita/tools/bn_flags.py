@@ -41,7 +41,7 @@ def main(chap, d, p1, p2, txt2=None):
     pages = {p: lines_of(os.path.join(d, 't%d.tsv' % p)) for p in range(p1, p2 + 1) if os.path.exists(os.path.join(d, 't%d.tsv' % p))}
     big = [l['h'] for Ls in pages.values() for l in Ls]
     hmin = sorted(big)[len(big) // 2] * 0.9 if big else 22     # стихи набраны крупнее комментария
-    out, crops = [], []
+    out, crops, order = [], [], []
     M = ocr_markers(d, p1, p2)           # n -> (стр., строки выше, строка с номером, высота)
     for r in rows:
         for gi, g in enumerate(r['bn']):
@@ -66,6 +66,8 @@ def main(chap, d, p1, p2, txt2=None):
                 top = L['top'] - int(k * L['h'] * 1.75) - 8; bot = L['top'] + L['h'] + 8
                 left, right = L['left'], L['right']
             a = [canon(x) for x in key(' '.join(g))]; b = [canon(x) for x in key(ocr)]
+            if n in M and difflib.SequenceMatcher(None, canon(g[-1].split('॥')[0]), canon(last.split('॥')[0])).ratio() < 0.5:
+                order.append('%d | с.%d | у нас: %s | в скане под этим номером: %s' % (n, p, g[-1], last))
             bad = diffs_of(a, b)
             if bad and L2 is not None:     # голосование: оставить только то, в чём второй OCR согласен с первым
                 b2 = best_window(a, L2, len(g) - 1)
@@ -92,6 +94,8 @@ def main(chap, d, p1, p2, txt2=None):
         o = Image.new('L', (Wm, sum(c.size[1] for c in part)), 255); y = 0
         for c in part: o.paste(c, (0, y)); y += c.size[1]
         o.save(os.path.join(sd, '%s-%d.png' % (chap, k // 8)))
+    open(os.path.join(ROOT, 'ed', 'work', 'order-%s.txt' % chap), 'w', encoding='utf-8').write('\n'.join(order) + '\n')
+    if order: print('!! возможный сбой порядка/нумерации стихов: %d (ed/work/order-%s.txt)' % (len(order), chap))
     print('%s: строк на просмотр %d, листов %d -> %s' % (chap, len(out), (len(crops) + 7) // 8, sd))
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), sys.argv[5] if len(sys.argv) > 5 else None)

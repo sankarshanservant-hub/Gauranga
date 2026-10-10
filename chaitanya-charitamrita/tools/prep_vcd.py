@@ -196,6 +196,22 @@ def run(chap):
     vb = json.load(open(vbp, encoding='utf-8')) if os.path.exists(vbp) else {}
     hdr, verses, removed = parse(src)
     fixes = load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s.txt' % chap))
+    # @N reorder: 74 71 72-73 => 71 72 73-74 — переставить и перенумеровать стихи по изданию Гаудия Матха
+    for f in fixes:
+        if f['f'] != 'reorder': continue
+        olds, news = f['old'].split(), f['new'].split()
+        def rng(x): a, b = (x.split('-') + [x])[:2]; return list(range(int(a), int(b) + 1))
+        blocks = [next(v for v in verses if v['nums'] == rng(o)) for o in olds]
+        idx = sorted(verses.index(b) for b in blocks)
+        for i, b, nw in zip(idx, blocks, news):
+            nn_ = rng(nw)
+            for g, n_ in zip(b['bn_raw'], nn_): g[-1] = VEND.sub('॥ %s ॥' % bnum(n_), g[-1])
+            lab_ = '%d' % nn_[0] if len(nn_) == 1 else '%d–%d' % (nn_[0], nn_[-1])
+            b['tr_raw'] = [PNUM.sub('(%s) ' % lab_, b['tr_raw'][0], count=1)] + b['tr_raw'][1:]
+            b['nums'] = nn_
+            verses[i] = b
+        f['used'] += 1
+        autofix.append((f['new'], 'порядок', 'у ВЧД: ' + f['old'], 'по изд. Гаудия Матха: ' + f['new']))
     log_auto = {'junk': 0}
     warn = []
     out = []
