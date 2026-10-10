@@ -49,7 +49,24 @@ SEEDS = {
 # Подложки: подвижный верхний слой -> ширина полосы (px) от краёв нижних слоёв.
 # Под таким слоем строится одна общая подложка: каждый пиксель продолжает ближайшую
 # область заливки из слоёв НИЖЕ него и принадлежит тому слою, чья это область.
-OCCLUDERS = {'arm': 200, 'dhoti_near': 70, 'near_foot': 45, 'dhoti_far': 40}
+OCCLUDERS = {'arm': 200, 'dhoti_near': 400, 'near_foot': 120, 'dhoti_far': 120}
+# Предел продолжения нижнего слоя под верхним, px (без записи — без предела).
+REACH = {
+    ('dhoti_near', 'dhoti_far'): 200, ('dhoti_near', 'shawl'): 70,
+    ('dhoti_near', 'near_foot'): 40, ('dhoti_near', 'far_foot'): 40,
+    ('near_foot', 'far_foot'): 40, ('near_foot', 'dhoti_far'): 40, ('near_foot', 'shawl'): 10,
+    ('dhoti_far', 'far_foot'): 40, ('dhoti_far', 'shawl'): 60,
+}
+# Допустимые области продолжения (многоугольники холста). Скрытая часть дальней штанины
+# за ближней: её задний край задан вручную — от видимого края у щели между штанинами
+# (567,1250) вверх под ближнюю дхоти. Это дорисовка-предположение, не авторский контур.
+ALLOW = {('dhoti_near', 'dhoti_far'): [(567, 1252), (552, 1130), (540, 1000), (532, 870),
+                                       (530, 740), (540, 600), (730, 600), (730, 1252)]}
+# Узор подложки: области слоя под верхним слоем продолжаются узором указанной области
+# (дальняя штанина сзади — основная ткань с точками, а не гладкая полоса).
+PATTERN_AS = {('dhoti_near', 'dhoti_far'): (596, 1249)}
+# Анизотропия (масштаб по y, x): шаль продолжается под дхоти вбок, а не вниз ниже своего края.
+ANISO = {('dhoti_near', 'shawl'): (3.0, 1.0), ('dhoti_far', 'shawl'): (3.0, 1.0)}
 # Области, которые не продолжаем под другими слоями (тонкий шнур — дорисовка его пути неизвестна).
 NO_EXTEND_SEEDS = [(647, 399)]
 
@@ -87,9 +104,16 @@ def weights_for(layer, x, y):
         return {'root': 1 - ua, 'shawl_a': ua * (1 - ub), 'shawl_b': ua * ub}
     if layer in ('dhoti_near', 'dhoti_far'):
         side = 'near' if layer == 'dhoti_near' else 'far'
+        # Ткань следует за линией бедро→щиколотка (без колена: широкая дхоти не повторяет
+        # сгиб колена); у самого края штанины добавляется поворот голени.
         t = smooth(y, 640, 920)
-        s = smooth(y, 960, 1180)
-        return {'root': 1 - t, side + '_thigh': t * (1 - s), side + '_shin': t * s}
+        s = smooth(y, 1180, 1300)
+        if side == 'near':
+            # задняя драпировка (левее линии ноги) следует за ногой слабее
+            hip, ank = BONES['near_hip'], BONES['near_ankle']
+            lx = hip[0] + (ank[0] - hip[0]) * np.clip((y - hip[1]) / (ank[1] - hip[1]), 0, 1)
+            t = t * (1 - 0.45 * smooth(lx - x, 15, 100))
+        return {'root': 1 - t, side + '_leg': t * (1 - s), side + '_shin': t * s}
     if layer == 'arm':
         e = smooth(y, 505, 605)
         return {'arm_upper': 1 - e, 'arm_fore': e}
@@ -201,6 +225,27 @@ def main():
         no_ext[lab[y, x]] = True
     src_ok = fill & big[lab] & ~no_ext[lab]
     bg_id = int(np.flatnonzero(is_bgid)[0])
+    interior = ndimage.binary_erosion(fill & big[lab], iterations=3) & (alpha >= 1)
+
+    def pattern_fill(ty, tx, cid):
+        """Цвет подложки: узор той же области заливки, взятый со сдвигом (точки на дхоти,
+        ровный цвет шали); если подходящего сдвига нет — медианный цвет области."""
+        out = med[cid].copy()
+        todo = ~is_bgid[cid]
+        for r in (40, 70, 100, 140, 180, 230, 290):
+            for ang in range(0, 360, 30):
+                if not todo.any():
+                    return out
+                ox = int(round(r * np.cos(np.radians(ang))))
+                oy = int(round(r * np.sin(np.radians(ang))))
+                sx_, sy_ = tx + ox, ty + oy
+                ok = todo & (sx_ >= 0) & (sx_ < W) & (sy_ >= 0) & (sy_ < H)
+                i_ = np.flatnonzero(ok)
+                good = interior[sy_[i_], sx_[i_]] & (lab[sy_[i_], sx_[i_]] == cid[i_])
+                i_ = i_[good]
+                out[i_] = im[sy_[i_], sx_[i_]]
+                todo[i_] = False
+        return out
     eff = owner.copy()          # владелец с учётом уже построенных подложек
     for occ_name in sorted(OCCLUDERS, key=lambda k: -Z[k]):
         band = OCCLUDERS[occ_name]
@@ -223,13 +268,36 @@ def main():
             eff[ty[ok], tx[ok]] = np.where(alpha[sy[ok], sx[ok]] >= 1, Z['far_foot'], eff[ty[ok], tx[ok]])
             filled[ty[ok], tx[ok]] = True
         rest_t = target & ~filled
-        src = ndimage.binary_erosion(src_ok & (owner >= 0) & (owner < zo), iterations=1) | pure_bg
-        _, (sy, sx) = ndimage.distance_transform_edt(~src, return_indices=True)
-        ids = np.where(rest_t, lab[sy, sx], -1)
-        ids[rest_t & is_bgid[np.maximum(ids, 0)]] = bg_id      # все области фона — одна
+        # Ближайшая область среди нижних слоёв, но каждый слой продолжается под верхним
+        # не дальше своего предела (REACH); дальше — прозрачно (фон).
+        best_d = np.full((H, W), np.inf)
+        ids = np.full((H, W), -1, int)
+        for gi in range(zo):
+            src = ndimage.binary_erosion(src_ok & (owner == gi), iterations=1)
+            if not src.any():
+                continue
+            samp = ANISO.get((occ_name, LAYERS[gi]), (1.0, 1.0))
+            d, (sy, sx) = ndimage.distance_transform_edt(~src, sampling=samp, return_indices=True)
+            d = np.where(d <= REACH.get((occ_name, LAYERS[gi]), 1e9), d, np.inf)
+            if (occ_name, LAYERS[gi]) in ALLOW:
+                am = np.zeros((H, W), np.uint8)
+                cv2.fillPoly(am, [np.array(ALLOW[(occ_name, LAYERS[gi])], np.int32)], 1)
+                d = np.where(am > 0, d, np.inf)
+            upd = rest_t & (d < best_d)
+            best_d[upd] = d[upd]
+            ids[upd] = lab[sy[upd], sx[upd]]
+            if (occ_name, LAYERS[gi]) in PATTERN_AS:
+                px_, py_ = PATTERN_AS[(occ_name, LAYERS[gi])]
+                ids[upd] = lab[py_, px_]
+        d_bg = ndimage.distance_transform_edt(~pure_bg)
+        to_bg = rest_t & ((d_bg < best_d) | (ids < 0))
+        ids[to_bg] = bg_id
+        # контур по границам областей; снаружи фигуры (прозрачно) — тоже граница с фоном
+        ids_b = ids.copy()
+        ids_b[~rest_t & (alpha == 0)] = bg_id
         bnd = np.zeros((H, W), bool)
         for sh in ((0, 1), (1, 0), (0, -1), (-1, 0)):
-            nb = np.roll(ids, sh, axis=(0, 1))
+            nb = np.roll(ids_b, sh, axis=(0, 1))
             bnd |= rest_t & (nb >= 0) & (nb != ids)
         dline = ndimage.distance_transform_edt(~bnd)
         la = np.clip(2.0 - dline, 0, 1)
@@ -242,7 +310,7 @@ def main():
             _, (qy, qx) = ndimage.distance_transform_edt(nb_l < 0, return_indices=True)
             fb = nb_l[qy, qx][ty, tx]
             lay[lay < 0] = fb[lay < 0]
-        fc = med[cid]
+        fc = pattern_fill(ty, tx, cid)
         fa = np.where(is_bgid[cid], 0.0, 1.0)
         l_ = la[ty, tx]
         out_a = l_ + fa * (1 - l_)

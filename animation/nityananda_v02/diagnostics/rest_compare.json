@@ -6,11 +6,11 @@
  "pixels_diff_gt_24": 1,
  "figure_pixels": 325571,
  "synthesized_underlay_pixels": {
-  "shawl": 65676,
-  "far_foot": 2308,
-  "dhoti_far": 35008,
-  "near_foot": 991,
-  "dhoti_near": 8395,
+  "shawl": 51301,
+  "far_foot": 2315,
+  "dhoti_far": 27022,
+  "near_foot": 993,
+  "dhoti_near": 8432,
   "torso": 0,
   "arm": 0
  },
