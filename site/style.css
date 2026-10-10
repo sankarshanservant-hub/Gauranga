@@ -15,7 +15,7 @@
   --beng: "Noto Serif Bengali", "Kohinoor Bangla", serif;
   /* Раскладка как на макете: пейзаж — полосой сверху, рваный верхний край ленты лежит прямо на нём;
      комната (стол, свеча, книги) видна под лентой. */
-  --top: clamp(128px, 16vh, 150px);   /* высота шапки */
+  --top: clamp(140px, 17vh, 162px);   /* высота шапки: название, подпись, под ними музыка и язык */
   --rh: clamp(380px, 74vh, 740px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
   --ribbon-top: calc(var(--top) - var(--rh) * .06);
   --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
@@ -70,7 +70,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   mask-composite: intersect;
 }
 .landscape::before { /* зеркальное продолжение слева */
-  content: ""; position: absolute; top: 0; left: 0; width: 50%; height: calc(100% / 1.08);
+  content: ""; position: absolute; top: 0; left: 0; width: calc(50% + 2px); height: calc(100% / 1.08); /* +2px — без шва */
   background: url("assets/img/header-sunset.jpg") center / 100% 100% no-repeat;
   transform: scaleX(-1);
 }
