@@ -41,3 +41,23 @@ Above the *prakṛti* of twenty-four elements there is a spiritual abode called 
 ## 17
 
 Highest of all in the abode of Paravyoma are Śrī Gokula, that is, the abode of Vrajaloka; Śrī Goloka, that is, the abode of Kṛṣṇa where the mood of *svakīyā* prevails; Śvetadvīpa; and Vṛndāvana.
+
+## 19–21
+
+This spiritual abode of Vraja, by Kṛṣṇa's will, is manifest within the material universe, yet even here it remains in the very same form. Some think that Goloka and the other abodes in Paravyoma are different from the abode of Vraja manifest in the material world. But that is not so: it is one and the same abode, only manifest at the same time both in Paravyoma and in the material world. Even in the Vraja manifest in the material world the ground is *cintāmaṇi* and the forests consist of wish-fulfilling trees. The eyes of *prema* see the true form of this abode, while to material eyes it looks like the material world.
+
+## 22
+
+I worship the original Puruṣa, Śrī Govindacandra. He tends the wish-fulfilling cows in places made of heaps of *cintāmaṇi*, surrounded by hundreds of thousands of wish-fulfilling trees, and hundreds of thousands of Lakṣmīs serve Him with reverence.
+
+## 23
+
+In the part of Kṛṣṇa's abode called Mathurā and Dvārakā, Kṛṣṇa manifests the original *catur-vyūha* — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — and sports in various forms. The *catur-vyūha* of Dvārakā is the whole of which all other *catur-vyūhas* are parts; it is pure and spiritual.
+
+## 27–28
+
+Kṛṣṇa's *svarūpa-vigraha*, His original form, is always two-armed. His *svarūpa-prakāśa* in Paravyoma is four-armed Nārāyaṇa, served by the potencies Śrī, Bhū and Nīlā. These three potencies are described in detail in the books of the Vaiṣṇavas of the Śrī-sampradāya.
+
+## 29
+
+Though His nature is pastime alone, out of mercy for the *jīvas* He also performs this pastime: He delivers the *jīvas*.
