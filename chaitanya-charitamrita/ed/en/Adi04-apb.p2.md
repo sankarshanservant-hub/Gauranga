@@ -180,6 +180,48 @@ O friend, Śrī Kṛṣṇa is *śṛṅgāra* personified. He delights the worl
 
 “What is the glory of Śrī Rādhā's love? What is My wondrous sweetness that Śrī Rādhā relishes? And what happiness does Śrī Rādhā feel in experiencing My sweetness?” When Śrī Kṛṣṇa was seized by the longing to know these three things, He, like the moon, took birth from the ocean of Śacī's womb.
 
+## 235–236
+
+Still, there is joy in my heart: the nonbelievers who are to be feared cannot enter this book. So they will not read it — will not understand it. What happiness could be greater?
+
+## 248
+
+*Jīvātu*: life.
+
+## 249
+
+“I think My love for Rādhikā is exceedingly strong. But on reflection the opposite appears: Rādhikā's love for Me seems greater than Mine.”
+
+## 251
+
+“The sound of My flute steals Rādhikā's consciousness, and Rādhikā's tender song steals Mine. When Rādhikā loses consciousness, She takes a *tamāla* tree for Kṛṣṇa, embraces it and attains great happiness.” There is another explanation too: bamboo stalks rub against one another and give out a sound like the song of the flute. Hearing it, Rādhikā loses consciousness, takes the *tamāla* for Me and embraces it.
+
+## 257
+
+According to Bharata Muni, the *rasa* of the man and the *rasa* of the woman are equal. But though he is a sage, he does not know the truth of the *rasa* of My Vraja: for Rādhikā's *rasa* is by its very nature greater.
+
+## 259
+
+“O auspicious one, Your lips, like the *bimba* fruit, have surpassed the sweetness and fragrance of nectar; Your face is fragrant as a lotus; Your words put to shame the song of the cuckoo; Your limbs are cool as sandal, and Your body is the abode of all beauty. Attaining You, so full of beauty, qualities and pastimes, My senses come to great delight again and again.”
+
+## 260
+
+This is what is seen in Śrī Rādhā. Her eyes long for the form of Śrī Kṛṣṇa, the enemy of Kaṁsa; Her skin thrills with joy at Kṛṣṇa's touch; Her ears yearn for His words; Her nostrils open at the fragrance of Kṛṣṇa's body; Her tongue is conquered by the nectar of Kṛṣṇa's lips; Her lotus face, ever blooming, is bowed; and Her limbs are seized by intense transformations — horripilation and the rest — that shatter all composure.
+
+## 266
+
+*Vijātīya*: that is, the emotion of the *viṣaya*.
+
+## 269–273
+
+“I shall fulfill the three desires described and by My own conduct teach the devotees devotion on the path of *rāga*.” When Kṛṣṇa resolved to descend for all these reasons, the time of the *yuga-avatāra* arrived, and at that same time Śrī Advaita Ācārya was worshiping Kṛṣṇa. Therefore Kṛṣṇacandra accepted the emotion and complexion of Rādhikā and rose in Navadvīpa from Śacī's womb in the form of Gaurāṅga. The truth I have explained in the two verses of Svarūpa Gosvāmī I now confirm with a verse of Śrī Rūpa Gosvāmī.
+
+## 276
+
+The six verses set forth three subjects: the *maṅgalācaraṇa*, the marks of the truth of Kṛṣṇa Caitanya, and the purpose of Caitanya's avatāra.
+
+*Thus ends the fourth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^115-1]: The verse translation reads differently: the word *tina* (three) is not rendered separately, and *kāma* is not taken as a name of Kṛṣṇa.

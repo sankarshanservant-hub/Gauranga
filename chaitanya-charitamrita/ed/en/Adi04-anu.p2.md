@@ -475,3 +475,101 @@ The hidden conclusions about the avatāra of Śrī Gaura are the cherished desir
 ## 233
 
 > Subheading: Only a servant of Śrī Guru and Gaurāṅga is qualified for the conclusions about *rasa*
+
+## 234–235
+
+These words delight only the devotees of Gaura and Nityānanda. The devotees of Gaura are like cuckoos, and the *siddhānta* is like young mango shoots. As the cuckoo prizes mango shoots, so the devotees find the highest joy in these conclusions. The camel, however, does not want mango shoots and the like — it wants thorns that tear its tongue. So too the nonbelieving camels — *jñānīs*, *karmīs* and false devotees with other desires (*anyābhilāṣīs*) — build specious arguments (*kutarka*) against these conclusions.
+
+## 236
+
+> Subheading: The ill will of nonbelievers is to be feared, but their ignorance is a joy —
+
+## 238
+
+> Subheading: Before the sweetness of *hlādinī*, Kṛṣṇa's sweetness yields and is defeated —
+
+## 242
+
+Kṛṣṇa is Madana-mohana: Kṛṣṇa's sweetness can eclipse the matchless beauty of millions of Kāmadevas. Nothing has sweetness equal to Kṛṣṇa's form or greater than it. No one of beauty can compare with Kṛṣṇa.
+
+## 248
+
+> Subheading: Rādhikā's beauty and qualities are Kṛṣṇa's life and all His wealth —
+
+## 249
+
+> Subheading: An inquiry showing that Rādhikā's love for Kṛṣṇa exceeds Kṛṣṇa's love for Rādhā —
+
+## 252
+
+> Subheading: Rādhikā is wholly absorbed in Kṛṣṇa: seeing Him everywhere, She is overwhelmed with bliss —
+
+## 254
+
+> Subheading: Rādhā's happiness in serving Kṛṣṇa is beyond the knowledge even of Kṛṣṇa —
+
+## 257
+
+> Subheading: In the material world the *rasa* of lover and beloved are equal, but in the spiritual realm the *rasa* of the beloved is greater
+
+## 258
+
+> Subheading: With Rādhā Kṛṣṇa is happiest of all —
+
+## 259
+
+> Subheading: (*Lalita-mādhava* 9.9)
+
+**he kalyāṇi** (O auspicious one, embodiment of bliss), **te** (Your) **bimbādharaḥ** (red lips) **nirdhūtāmṛta-mādhurī-parimalaḥ** (which have put to shame the sweetness and fragrance of nectar), **vaktram** (face) **paṅkaja-saurabham** (fragrant like a lotus), **giraḥ** (words) **kuharita-ślāghā-bhidaḥ** (which shame the praise given to *kuharita*, the cuckoo's song), **aṅgam** (limbs) **candana-śītalam** (cool as sandal), **iyam tanuḥ** (this body) **saundarya-sarvasva-bhāk** (possessing all the wealth of beauty). **he rādhe** (O Rādhā), **tvām āsvādya** (relishing You) **mama idam indriya-kulam** (all My senses) **muhuḥ** (again and again) **modate** (are filled with joy).
+
+## 260
+
+> Subheading: (Words of Śrī Rūpa Gosvāmī)
+
+**kaṁsa-harasya** (of Śrī Kṛṣṇa, the slayer of Kaṁsa) **rūpe** (on seeing the form) **lubdha-nayanām** (Her whose eyes are full of longing, drawn to Kṛṣṇa's form) **sparśe** (at the touch) **ati-hṛṣyat-tvacam** (Her whose skin thrills with delight — whose body is full of bliss at Kṛṣṇa's touch) **vāṇyām** (at His words) **utkalita-śrutim** (Her whose ears are eager — attentive to Kṛṣṇa's sounds) **parimale** (at the fragrance of His body) **saṁhṛṣṭa-nāsā-puṭām** (Her whose nostrils are thrilled — who has felt wondrous joy breathing Kṛṣṇa's fragrance) **adhara-puṭe** (on tasting the nectar of His lips) **ārajyad-rasanām** (Her whose tongue is full of love — attached to Kṛṣṇa's lips) **nyañcan-mukhāmbhoruhām** (Her whose lotus face is reverently bowed) **bahiḥ api kila dambhodgīrṇa-mahā-dhṛtim** (Her who feigns great composure — outwardly behaving contrarily) **prodyad-vikārākulām** (seized by transformations surging forth — full of inner eagerness for pastimes) **rādhām aham smarāmi** (I remember Rādhā).
+
+## 261
+
+> Subheading: Kṛṣṇa considers the power of His own sweetness —
+
+## 262
+
+> Subheading: Kṛṣṇa longs to relish Rādhā's happiness
+
+## 264
+
+> Subheading: The avatāra of Gaura — to relish in every way the *rasa* of Rādhā's love —
+
+## 265
+
+> Subheading: Preaching and practicing the way of *rāga-bhajana* —
+
+## 266
+
+> Subheading: Without the emotion of the *āśraya*, in the emotion of the *viṣaya*, the happiness of service cannot be relished —
+
+## 269
+
+> Subheading: When He descended as Gaura, the time of the *yuga-avatāra* and Advaita's call coincided —
+
+## 271
+
+> Subheading: First the elders descend, then Gaura, the original form —
+
+*Avatari*: having caused to descend.
+
+## 273
+
+> Subheading: Meditating on the lotus feet of Śrī Rūpa Gosvāmī, the author cites his verse to confirm the meaning of the verses —
+
+## 275
+
+> Subheading: (*Stava-mālā*, second *Caitanyāṣṭaka* 3)
+
+See Ādi 4.52.
+
+## 276
+
+**kṛṣṇa-caitanya-tattva-lakṣaṇam** (setting forth the truth of Gaura) **maṅgalācaraṇam** (the *maṅgalācaraṇa*), **avatāre** (concerning the avatāra of Gaura) **prayojanam ca** (and the purpose) **śloka-ṣaṭkaiḥ** (by the six verses — from *vande gurūn* to *garbha-sindhau harīnduḥ*) **nirūpitam** (are set forth).
+
+*Thus ends the fourth chapter of the “Anubhāṣya.”*
