@@ -483,3 +483,4 @@
 | @gopiramana-chakravarti | Гопирамана Чакраварти | Gopiramana Chakravarti | ученик Нароттамы в Кхетури |
 | @devidasa-kirtaniya | Девидас, киртания (кхол) | Devidasa the kirtaniya (khol) | ученик Нароттамы, играл на кхоле в киртанах Кхетури |
 | @shridhara-svami | Шридхара Свами | Shridhara Svami | автор комментария «Бхавартха-дипика» на «Бхагавату», почитаемый Господом |
+| @suta-gosvami | Сута Госвами | Suta Gosvami | рассказчик «Шримад-Бхагаватам» в Наймишаранье |
