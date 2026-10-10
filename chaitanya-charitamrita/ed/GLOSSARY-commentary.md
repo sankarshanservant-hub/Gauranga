@@ -142,3 +142,7 @@
   ништха → steadiness (*niṣṭhā*); асакти → attachment (*āsakti*); рати → *rati*; бхава → *bhāva*; анурага → *anurāga*.
 - чинтамани → wish-fulfilling gem (*cintāmaṇi*); сваямвара → *svayaṁvara*, the free choice of a husband; триданди → *tridaṇḍī*;
   матх → *maṭha*; эра Шака / Кали → the Śaka era / Kali era.
+- прабхава-виласа → *prābhava-vilāsa*; сваям-пракаша → *svayaṁ-prakāśa*; тад-экатма-рупа → *tad-ekātma-rūpa*;
+  йогешвара → the master of mystic power (*yogeśvara*); Враджендранандана → Vrajendranandana, the son of the king of Vraja;
+  сварупа-шакти → His very own potency (*svarūpa-śakti*); виграха → form (*vigraha*); Шри Виграха (Божество) → Deity.
+- Инципиты стихов в разборе (44–80) → курсивом IAST + перевод в “…” и «verse N».

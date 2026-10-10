@@ -143,5 +143,37 @@ Devotees are of two kinds: Bhagavān's associates and practitioners (*sādhakas*
 
 The *aṁśa-avatāras* are direct avatāras of Viṣṇu, masters of *māyā*. The *guṇa-avatāras* are avatāras of Bhagavān manifest in the three *guṇas*: *sattva*, *rajas* and *tamas*. The *śaktyāveśa-avatāras* are exalted *jīvas* whom a special potency of Kṛṣṇa enters.
 
+## 68–70
+
+Bhagavān manifests in two ways: as *prakāśa* and as *vilāsa*. Kṛṣṇa displayed many forms at once when He married the queens in Dvārakā and when He danced the *rāsa* in Vṛndāvana. Those forms did not differ in shape: one and the same form (*vigraha*) became many. This is Kṛṣṇa's principal *prakāśa*. But where the *svarūpa* takes another shape, one resembling itself, that manifestation is called *vilāsa*. Baladeva in Vṛndāvana, and Nārāyaṇa, Vāsudeva, Pradyumna, Saṅkarṣaṇa and others in Paravyoma, are *vilāsa* forms in which Bhagavān's own form appears.
+
+## 71
+
+What is wonderful is this: the one Kṛṣṇa, each time in a single form, married sixteen thousand wives at once in separate palaces.
+
+## 72–74
+
+Śrī Kṛṣṇa, the master of mystic power (*yogeśvara*), by His inconceivable potency manifested a form of Himself between every two gopīs. Adorned by the circle of gopīs, He began the festival of the *rāsa*. When He had entered among them in this way, the gopīs felt that Śrī Kṛṣṇa was embracing them, His arm about their necks. At that moment the gods and their wives appeared in the sky, having come eagerly on hundreds of chariots. Then kettledrums sounded and a rain of flowers began to fall.
+
+## 75
+
+When one form manifests at the same time as many identical forms, this is called *prakāśa*.
+
+## 77
+
+When, in the play of His inconceivable potency, His own form appears in another shape, almost like Himself, it is called *vilāsa*.
+
+## 79–80
+
+The Lakṣmīs dwell in Vaikuṇṭha, the queens in the city, that is, in Dvārakā, and the gopīs in Vraja are the third kind of potency. *Sabāte* means “among all.” *Yāte* means “since”: since Vrajendranandana, the son of the king of Vraja, is Bhagavān Himself. His companions in Vraja are His very own potency (*svarūpa-śakti*).
+
+## 44–80
+
+From *yadyapi āmāra guru* (“although my guru,” verse 44) to *sādhaka-gaṇa āra* (“and the others are practitioners,” verse 64): the examination of two truths, the guru and the devotee. From *īśvarera avatāra* (“the Lord's avatāras,” verse 65) to *pṛthu vyāsa muni* (“Pṛthu and the sage Vyāsa,” verse 67): the examination of the Lord and His avatāras. From *dui-rūpe haya* (“is of two kinds,” verse 68) to *pradyumnādi-saṅkarṣaṇa* (“Pradyumna and the others, Saṅkarṣaṇa,” verse 78): the examination of His *prakāśa* and *vilāsa*. Then from *īśvarera śakti haya* (“the Lord's potencies are,” verse 79) to *svayaṁ bhagavān* (“Bhagavān Himself,” verse 80): the examination of His potencies.
+
+## 81
+
+*Svayaṁ-rūpa*: the verses of the *Laghu-bhāgavatāmṛta* on *tad-ekātma* and related forms show that the two-armed Kṛṣṇa alone is the *svayaṁ-rūpa*. His *kāya-vyūha* is equal to Him; *kāya-vyūha* means the expansion of His own body. The devotees who stand beside this form are His *āvaraṇa*. When we consider the *āvaraṇa* together with the truth it surrounds, the six truths named above prove to be one. This conclusion is established only by considering *acintya-bhedābheda-tattva*.
+
 [^15-1]: Bhaktivinoda gives only the glorification here; the Russian verse translation (VCD) adds a prayer for attachment to the lotus feet.
 [^57-1]: The Russian verse translation (VCD) reads differently: there Cintāmaṇi and Somagiri are two different gurus (Cintāmaṇi showed the way, Somagiri was the initiating guru), whereas for Bhaktivinoda *cintāmaṇi* is a simile for Somagiri. (The *Anubhāṣya* on this verse, like the VCD translation, distinguishes them.)

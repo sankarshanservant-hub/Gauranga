@@ -464,4 +464,92 @@ Vidura Mahāśaya had wandered through many holy places and returned to Hastinā
 
 *Īśvarera*, “of the Lord,” means of Kṛṣṇa in His original form (*svayaṁ-rūpa*). See the first part of the *Laghu-bhāgavatāmṛta*, the section on the object of worship and on the avatāras, and also *Caitanya-caritāmṛta*, Madhya-līlā, Chapter 20.
 
+## 68
+
+> Subheading: The Lord's manifestations differ by *līlā* —
+
+*Bhagavānera*, “of Bhagavān”: of His original form (*svayaṁ-rūpa*). See *Caitanya-caritāmṛta*, Madhya-līlā, Chapter 20.
+
+## 69
+
+> Subheading: The Lord's manifestation (*īśa-prakāśa*) —
+
+“A *prakāśa* is not counted among the distinct forms, for He is not separate from Him.” (*Laghu-bhāgavatāmṛta*, first part).
+
+## 70
+
+“As one body became many forms in the *rāsa* dance, so at His marriage to the queens He appeared in many forms. This is known in the scriptures as *prābhava-vilāsa*.”[^70-1] (*Caitanya-caritāmṛta*, Madhya 20.168).
+
+## 71
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.69.2)
+
+- **bata** — oh!
+- **etat citram** — this is wonderful.
+- **ekaḥ** — the one Kṛṣṇa.
+- **ekena vapuṣā** — in a single body.
+- **yugapat pṛthag gṛheṣu** — at once in separate palaces.
+- **dvy-aṣṭa-sāhasram** — sixteen thousand.
+- **striyaḥ** — queens.
+- **udāvahat** — married.
+
+## 72
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.33.3–5)
+
+## 72–74
+
+- **tāsām** — of them, standing in a circle.
+- **dvayor dvayor madhye** — between each two.
+- **praviṣṭena** — by Him who entered in a separate form.
+- **yam** — Śrī Kṛṣṇa, whom.
+- **sva-nikaṭam** — as being beside herself (that is, “He has embraced me alone”).
+- **manyeran** — they thought.
+- **yogeśvareṇa** — by that Kṛṣṇa.
+- **kaṇṭhe gṛhītānām** — of those embraced at the neck from both sides.
+- **gopī-maṇḍala-maṇḍitaḥ** — adorned by the circle of gopīs.
+- **rāsotsavaḥ sampravṛttaḥ** — the festival of the *rāsa* began.
+- **tāvat** — at that very moment.
+- **atyautsukya-bhṛtātmanām** — of those whose minds were deeply stirred by longing to see.
+- **sa-dārāṇām** — with their wives.
+- **divaukasām** — of the gods.
+- **vimāna-śata-saṅkulam** — full, filled, crowded with hundreds of aerial chariots.
+- **abhavat** — (the sky) became.
+- **tataḥ dundubhayo nedur nipetuḥ puṣpa-vṛṣṭayaḥ** — then kettledrums sounded and showers of flowers fell.
+
+## 75
+
+> Subheading: (*Laghu-bhāgavatāmṛta*, first part, 1.21)
+
+- **ekadā** — at one time.
+- **ekasya rūpasya** — of one form.
+- **yā anekatra prakaṭatā** — the manifestation in many places.
+- **sarvathā tat-svarūpaiva** — identical with it in nature in every way, that is, one in shape, qualities, *līlās* and the rest.
+- **sa prakāśa itīryate** — is called *prakāśa*.
+
+## 76
+
+> Subheading: The Lord's *vilāsa* (*īśa-vilāsa*) —
+
+## 77
+
+> Subheading: (*Laghu-bhāgavatāmṛta*, in the description of the *tad-ekātma-rūpa*, 1.15)
+
+- **tasya** — of the original form.
+- **yat svarūpam anyākāram** — a *svarūpa* different in shape, that is, with a different arrangement of the limbs.
+- **vilāsataḥ** — through a particular *līlā*.
+- **prāyeṇa** — less or greater in certain qualities.
+- **ātma-samam** — like its own original form.
+- **śaktyā bhāti** — appears by potency.
+- **sa vilāso nigadyate** — is called *vilāsa*.
+
+## 78
+
+Baladeva is *svayaṁ-prakāśa*. Nārāyaṇa is *prābhava-vilāsa*.
+
+## 79
+
+> Subheading: The Lord's potency (*īśa-śakti*) —
+
 [^53-1]: The edition prints «রাজহসৌ প্রজাতীতিবৎ», a typesetting error; read «রাজাঽসৌ প্রয়াতীতিবৎ» (“as [one says] ‘the king is setting out’,” meaning his retinue as well); compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.
+[^70-1]: The quotation in the *Anubhāṣya* is made up of lines from CC Madhya 20.168, in a different order and with the reading *prābhava-vilāsa* (the VCD translation of that verse has *prābhava*).
