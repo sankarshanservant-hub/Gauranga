@@ -199,6 +199,9 @@ def run(chap):
             elif fld == 'addww':     # @N addww: <строка транслит. (начало)> => <пословный>
                 for p in pairs:
                     if p[1] is None and p[0].startswith(f['old']): p[1] = f['new']; f['used'] += 1
+        # «_» в пословном у ВЧД — сцепка слов одной глоссы (в .doc); в md — обычный пробел
+        for p in pairs:
+            if p[1] and '_' in p[1]: log_auto['us'] = log_auto.get('us', 0) + p[1].count('_'); p[1] = p[1].replace('_', ' ')
         if gloss: removed.append({'where': 'стих %s, пояснение к словам после пословного' % lab, 'lines': gloss})
         rest = v['rest']
         # разбить «хвост» на куски по разделителям
@@ -211,7 +214,7 @@ def run(chap):
         for c in chunks:
             txt = ' '.join(c)
             if re.search(r'Махарадж|Прабхупад|Шридхар', txt): kind = 'современный комментарий'
-            elif (has_bn(txt) or any(unicodedata.combining(ch) for ch in txt)) and v is not verses[-1]:
+            elif c is chunks[-1] and (has_bn(txt) or (len(c) <= 3 and any(unicodedata.combining(ch) for ch in txt))) and v is not verses[-1]:
                 kind = 'подзаголовок «Анубхашьи» перед стихом %d' % expect
             else: kind = 'прочее'
             removed.append({'where': 'после стиха %s — %s' % (lab, kind), 'lines': c})
@@ -240,6 +243,7 @@ def run(chap):
     F = ['# Правки главы %s (этап А)' % chap, '',
          '## Автоматически', '',
          '- Мусорные символы Word (U+1160, U+3000, U+FFA0, U+3164, табуляции) убраны, слова пословного разделены двумя пробелами: %d символов.' % log_auto['junk'],
+         '- «_» внутри глоссы пословного (сцепка слов в .doc) заменён пробелом: %d.' % log_auto.get('us', 0),
          '- Переносы строк выгрузки внутри перевода склеены; переносы после дефиса — без пробела.', '',
          '## Вручную (ed/fixes/%s.txt)' % chap, '', '| Стих | Поле | Было | Стало | Причина |', '|---|---|---|---|---|']
     for n, fld, a, b in autofix:
