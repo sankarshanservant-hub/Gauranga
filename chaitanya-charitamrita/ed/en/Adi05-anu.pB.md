@@ -286,6 +286,71 @@ In the *Mahābhārata*, in the *Mokṣa-dharma*, in the narrative of Nārāyaṇ
 
 The Puruṣa of the verse *Śrīmad-Bhāgavatam* 1.2.23 is this very Garbhodaśāyī!
 
+## 104
+
+See *Śrīmad-Bhāgavatam* 3.8.16. The *Laghu-bhāgavatāmṛta*, describing the three Puruṣas (sections 137–139), says: “The four-armed *vilāsa* of this Garbhodaśāyī enters the lotus of the worlds and, called Viṣṇu, lies in the Ocean of Milk. He becomes the indwelling Lord in the hearts of all embodied beings, from the gods down to the unmoving, and abides as if in many forms. The form of Viṣṇu of whom the *Sātvata-tantra* says, ‘The third abides in all beings,’ is accepted as His *vilāsa*.” The four-armed form, the *vilāsa* of Garbhodaśāyī, enters the lotus of the worlds, is called “Viṣṇu” and lies in the Ocean of Milk. As the indwelling Lord, this Viṣṇu abides in the hearts of all living beings, from the gods down to the unmoving, as if in many forms. The form of Viṣṇu called in the *Sātvata-tantra* “the third Puruṣa, who abides in all beings” is the *vilāsa-mūrti* of Garbhodaśāyī Viṣṇu.
+
+The *Laghu-bhāgavatāmṛta*, describing the Puruṣa (section 12), gives Śrī Baladeva's commentary: “Viṣṇu is not joined even with *sattva*; by His will alone He merely controls it. That is why it is said: ‘The highest good comes from Him.’ So the *Vāmana Purāṇa* says: ‘Brahmā, Viṣṇu and Īśa are the three forms of the great-souled Viṣṇu. In Brahmā He is in the form of Brahmā, in Śiva in the form of Śiva, but the god Janārdana, in the form of Viṣṇu, remains apart.’” Viṣṇu is the presiding deity of the *guṇa* of *sattva*, yet He is never bound by *sattva-guṇa*: by His will alone He merely controls it. That is why it is said, “From Him alone comes the welfare of the *jīva*.” So the *Vāmana Purāṇa* says that one and the same Viṣṇu exists in the forms of Brahmā, Viṣṇu and Śiva: in Brahmā He is in the form of Brahmā, in Śiva in the form of Śiva, and Janārdana in the form of Viṣṇu remains separate from them both.
+
+And where Viṣṇu is described (sections 29–30): “Viṣṇu extends (*tanoti*) *sattva*, and so in the scriptures He is known as *sattva-tanu*. His avatāras, likewise, are *sattva-tanu*. Or else *sattva* is His ‘body’ (*tanu*) in the sense of an external seat. That He is *nirguṇa*, beyond the *guṇas*, is therefore fully established in all the scriptures. So it is said (*Śrīmad-Bhāgavatam* 10.88.5): ‘Hari is indeed *nirguṇa*, the Puruṣa Himself, beyond *prakṛti*.’”
+
+He extends *sattva-guṇa*, and so in the scriptures Viṣṇu has received the name *sattva-tanu*. The avatāras of Kṣīrābdhiśāyī Viṣṇu are likewise called *sattva-tanu*; or He is called *sattva-tanu* because that body, *sattva*, is merely His external seat. That is why all the scriptures call Viṣṇu *nirguṇa*. So too in the tenth canto: “Hari is *nirguṇa*, the Supreme Lord Himself, beyond *prakṛti*, the giver of knowledge to Brahmā and the other gods, the witness of all; whoever worships Him attains freedom from the *guṇas*.” This is why the verse of the *Bhāgavatam* says: “From this *sattva-tanu* comes every kind of good.”
+
+## 109
+
+> Subheading: Explanation of the eleventh of the fourteen opening verses —
+
+> Subheading: (a verse from the diary of Śrī Svarūpa Gosvāmī)
+
+**akhilānām** (of the *jīvas*) **parātmā** (the Paramātmā), **poṣṭā** (the maintainer), **dugdhābdhi-śāyī** (the third Puruṣa-avatāra, Kṣīrodaśāyī) **viṣṇuḥ bhāti** (Viṣṇu shines); **saḥ api** (He too) is **yasya** **aṁśāṁśāṁśaḥ** (a portion of a portion of the portion of Nityānanda-Rāma: a portion of a portion is a *kalā*, and its portion a *vikalā*); **kṣauṇī-bhartā** (the maintainer of the world) **anantaḥ** (Ananta) is **yat** (Kṣīrodaśāyī's) **kalā** (portion of a portion); **taṁ śrī-nityānanda-rāmam ahaṁ prapadye** (to that Śrī Nityānanda-Rāma I surrender).
+
+## 110
+
+> Subheading: Description of the abode of Kṣīrodaśāyī Viṣṇu —
+
+## 111
+
+> Subheading: “Śvetadvīpa” —
+
+The *Siddhānta-śiromaṇi* says: “The best of teachers say that the half of the earth lying north of the Salt Ocean is Jambudvīpa. In the other, southern half lie the six other *dvīpas* and the oceans of salt, milk and the rest. First comes the ocean of salt water, then the ocean of milk, from which nectar, the moon and Śrī appeared; there dwells Vāsudeva, the shelter of all, whose lotus feet are honored by lotus-born Brahmā and the other gods. Then come the oceans of yogurt, of ghee and of sugarcane juice, then of wine, and the last is of fresh water. Within the ocean of fresh water is the submarine fire, Vaḍavānala, and the *pātāla* worlds are layers within the earth.” That is: 1) the Salt Ocean, 2) the Milk Ocean, 3) the ocean of yogurt, 4) the ocean of ghee, 5) the ocean of sugarcane juice, 6) the ocean of wine, 7) the ocean of fresh water. South of the Salt Ocean is the Kṣīroda, the Milk Ocean; there Vāsudeva, the shelter of all, dwells, and Brahmā and the other gods worship His feet.
+
+## 112
+
+> Subheading: The indwelling Lord of each individual *jīva* —
+
+The *Laghu-bhāgavatāmṛta*, describing Śrī Viṣṇu — the gist of verses 26–28: “I shall briefly point out all the abodes mentioned in the *Viṣṇu-dharmottara* and other books among the manifestations of Viṣṇu within the universe. Namely: ‘Above Rudraloka there is another world, “Viṣṇuloka,” fifty thousand *yojanas* in size and inaccessible to every other world. Above it, east of Sumeru, in the middle of the Salt Ocean, within the waters, there is said to be a huge golden “Mahā-Viṣṇuloka”; Brahmā goes there from time to time to see it. In that world Janārdana Viṣṇu sleeps with Lakṣmī on the couch of Śeṣa during the four months of the rainy season. East of Meru, in the middle of the Milk Ocean, amid its waters, there is another abode, “Śubhravarṇā” (the white); in it Lord Viṣṇu sits with Lakṣmī on the throne of Śeṣa. There too the Lord enjoys the bliss of sleep during the four months of the rains. South of it, in the Milk Ocean, is a most beautiful island, twenty-five thousand *yojanas* in size, known as “Śvetadvīpa.”’”
+
+The *Brahmāṇḍa Purāṇa* also says: “The island surrounded by the Milk Ocean, a hundred thousand *yojanas* in extent, … — that very great, beautiful golden island is called ‘Śvetadvīpa.’” Further, the *Viṣṇu Purāṇa* and other books, and the *Mokṣa-dharma* of the *Mahābhārata* as well, describe it: “Śvetadvīpa lies on the northern shore of the Milk Ocean,” and so on. The *Padma Purāṇa* says that Śvetadvīpa shines on the northern shore of the Ocean of Water. On Śvetadvīpa see *Śrīmad-Bhāgavatam* 11.15.18.
+
+The *Śrī Laghu-bhāgavatāmṛta*, describing the Puruṣa (section 10), says: “The third form, too, is seen from the verse of the second canto (*Śrīmad-Bhāgavatam* 2.2.8): ‘Some [meditate on Him] in the space of the heart within their own body.’” Śrī Baladeva's commentary: “So too Aniruddha, the lord of the Milk Ocean, the third Puruṣa, in a form the size of a span, dwelling in the hearts of all *jīvas*, is the object of meditation.” That is, the third Puruṣa, Kṣīraśāyī, in a form the size of a span, is to be meditated upon as the indwelling Lord of all *jīvas*. Where Viṣṇu is described (section 25): “He who is called ‘Viṣṇu’ is considered to be Kṣīrāmbudhiśaya. He is the *vilāsa* of Garbhodaśāyī, and so the lords of the sages call Him Nārāyaṇa and the indwelling Lord of the Virāṭ.” That is, He who is called “Viṣṇu” is Kṣīrodaśāyī. He is the *vilāsa* of Garbhodaśāyī, and so the sages call Viṣṇu “Nārāyaṇa” and also the indwelling Lord of the Virāṭ.
+
+## 113
+
+> Subheading: The avatāras of the *yugas* and *manvantaras* come from Kṣīrodakaśāyī —
+
+## 115
+
+> Subheading: Kṣīrodaśāyī Viṣṇu is the maintainer of the world —
+
+## 117
+
+> Subheading: His form as the great serpent called “Śeṣa” —
+
+## 119
+
+See *Śrīmad-Bhāgavatam* 5.17.21 and 5.25.2.
+
+## 120
+
+> Subheading: Viṣṇu in the form of Śeṣa, the devotee of Kṛṣṇa —
+
+Śrī Jīva Prabhu writes in the *Śrī Kṛṣṇa-sandarbha* (section 86): “‘Ananta, the *kalā* of Vāsudeva, thousand-mouthed, self-effulgent (*svarāṭ*), the god, will appear first, wishing to please Hari.’[^120-1] The *kalā* of Vāsudeva, the son of Śrī Vasudeva, is His first portion, Śrī Saṅkarṣaṇa. *Svarāṭ*: He who shines by His own [glory] alone. Therefore He is Ananta, unlimited by time or place; He, called Śeṣa, is also the thousand-mouthed one. By one portion of Himself He is the one called Śeṣa. In the *Skanda Purāṇa*, in the *Ayodhyā-māhātmya*: ‘Then, as all looked on, Śakra spoke sweetly to Lakṣmaṇa, true to his word, who had become Śeṣa: “Attain Your own eternal supreme abode of Viṣṇu. Your form has come too — Śeṣa with his shining hoods.” Having said this to Lakṣmaṇa, the king of the gods, together with the gods, sent Śeṣa, who is able to bear the burden of the earth, to Pātāla.’ Therefore both in the words ‘My abode called Śeṣa’ (*Śrīmad-Bhāgavatam* 10.2.8) and here, in the words ‘remains, called Śeṣa’ (*Śrīmad-Bhāgavatam* 10.3.25), He is called an unfailing portion. Or else [Śeṣa is He] from whom the name and fame of Śeṣa come.”
+
+The *kalā* of Bhagavān (the portion of His portion) is Śrī Anantadeva, thousand-mouthed and *svarāṭ*. Wishing to do what pleases Śrī Hari, He is always present before Him. The first portion of Vāsudeva, the son of Vasudeva, is Saṅkarṣaṇa. He is self-manifest and is therefore *svarāṭ*; and so He is Ananta, that is, free from the limits of time and place. He is present also in the form of the thousand-mouthed “Śeṣa.” “By one portion” means in the form of the avatāra called Śeṣa. In the *Skanda Purāṇa*, in the *Ayodhyā-māhātmya*: “As all looked on, Indra, the king of the gods, began to speak to Lakṣmaṇa, true to his vow, who bore the form of Śeṣa: ‘Go to Your own eternal abode of Viṣṇu — Your form, Śeṣa adorned with hoods, has come as well.’ Having said this, the king of the gods sent Lakṣmaṇa in the form of Śeṣa, able to bear the burden of the earth, to Pātāla and went to the abode of the gods.” (That is, when Lakṣmaṇa, the *vyūha* Saṅkarṣaṇa, descended with Śrī Rāma, Śeṣa, the bearer of the earth who lives in Pātāla, came and merged with him. Later, when the time of disappearance came, “Śeṣa” separated from Lakṣmaṇa and went to his own abode, Pātāla, and Lakṣmaṇa went to Vaikuṇṭha, the abode of Viṣṇu.) Therefore in the words “My abode called Śeṣa” too, “Śeṣa” means that by which the end (*śeṣa*) is reached — that which remains at the very end. Just as the remainder is nondifferent from the original thing, so Śeṣa is spoken of as a nondifferent portion of Vāsudeva. Or else “Śeṣa” is He from whom comes His fame by the name of Śeṣa.
+
+The *Laghu-bhāgavatāmṛta*, describing the truth of Rudra (section 19), gives Śrī Baladeva's commentary: “‘Like Śeṣa’: Śeṣa who is the bed of Śārṅgī (Viṣṇu), His supporting potency, belongs to the category of the Lord; but the Śeṣa who bears the earth is a *jīva* whom He has entered.” That is, Śeṣa in the form of the bed of Viṣṇu, the wielder of the bow Śārṅga — the supporting potency — belongs to the category of the Lord, while the earth-bearing “Śeṣa” belongs to the category of empowered (*śaktyāviṣṭa*) *jīvas*. And again, where the truth of Śrī Rāma is described (section 28): “Saṅkarṣaṇa, the second *vyūha*, is Rāma Himself. Uniting with Śeṣa, the bearer of the earth, He became manifest. Śeṣa is twofold: one bears the earth, the other is the bed of Śārṅgī. Of them, the one who bears the earth is considered Saṅkarṣaṇa, because Saṅkarṣaṇa has entered him. But the one who is the bed thinks of Himself as His friend and servant.” That is, Saṅkarṣaṇa of the second *catur-vyūha*, uniting with the earth-bearing “Śeṣa,” descended in the form of Rāma. “Śeṣa” is twofold: the bearer of the earth and Bhagavān's bed. The earth-bearing “Śeṣa” is an *āveśa-avatāra* of Saṅkarṣaṇa; that is why he too is called “Saṅkarṣaṇa.” The one who is the bed thinks of Himself as the servant and friend of the wielder of Śārṅga.
+
 ---
 
 [^84-1]: *Śrīmad-Bhāgavatam* 10.39.55.
+[^120-1]: *Śrīmad-Bhāgavatam* 10.1.24.

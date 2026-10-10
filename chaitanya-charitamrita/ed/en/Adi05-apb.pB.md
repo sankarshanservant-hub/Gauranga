@@ -64,6 +64,18 @@ I abide in the world, and the world abides in Me; and yet I am not in the world,
 
 I bow down to Nityānanda-Rāma, a portion of whose portion is Garbhodaśāyī. The stem of the lotus that grows from Garbhodaśāyī's navel is the birthplace of Vidhātā, who beholds the worlds[^93-1], and the resting place of all the worlds.
 
+## 106
+
+Garbhodaśāyī Viṣṇu Himself is Hiraṇyagarbha, the indwelling Lord (*antaryāmī*) and the cause of the world. His portion is conceived of as the “Virāṭ.”
+
+## 108
+
+“The meaning of the tenth verse”: the tenth verse and the verses that follow it describe Garbhodaśāyī Viṣṇu.
+
+## 109
+
+I bow down to Nityānanda-Rāma. A portion of a portion of His portion is Kṣīrodaśāyī, the Paramātmā of all, Viṣṇu the maintainer; and His *kalā* is “Ananta,” who holds up the earth.
+
 ---
 
 [^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.
