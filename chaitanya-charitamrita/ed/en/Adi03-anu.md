@@ -33,3 +33,55 @@ Mahāprabhu appears in the *manvantara* of the seventh Manu, named Vaivasvata. �
 ## 10
 
 Of the 71 *mahā-yugas* of the Vaivasvata *manvantara*, 27 have passed. In the twenty-eighth *catur-yuga*, after Satya and Tretā have passed, the time of Kṛṣṇa's manifest presence comes at the end of Dvāpara. From the beginning of Brahmā's day to the end of that Dvāpara, six Manus pass, together with their junctions. Adding [these] together with the 27 *yugas* of Vaivasvata Manu and the periods of Satya, Tretā and Dvāpara (and subtracting the time of creation), one finds that 975,320,000[^10-1] solar years have passed.
+
+## 11
+
+> Subheading: The four principal *rasas*, apart from *śānta* —
+
+*Śānta-rasa* is not named here for this reason. In the material world *śānta-rasa* stands highest of all, but in the spiritual world it stands very low. *Śānta-rasa* is transcendental, yet in it the *ālambana* of *rasa* — the *viṣaya* and the *āśrayas*, the object of love and those who love — do not exchange the roles of knower and known. Therefore in *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa* love for Kṛṣṇa rises step by step in excellence.
+
+## 13
+
+> Subheading: An intimation of the Gaura-avatāra, in which magnanimity is foremost —
+
+## 15
+
+> Subheading: The world is driven by *vaidhī-bhakti* and therefore knows nothing of love for Kṛṣṇa —
+
+## 16
+
+> Subheading: In the mood of reverence, love for Kṛṣṇa, which is attained by pure *rāga* (spontaneous attraction), is extremely rare —
+
+## 17
+
+> Subheading: The fruit of *vaidhī-bhakti* full of reverence: the four kinds of liberation and attaining Nārāyaṇa in Vaikuṇṭha —
+
+## 18
+
+“Even when I offer them *sālokya*, *sārṣṭi*, *sārūpya*, *sāmīpya* and even oneness [with Me], people do not accept anything other than serving Me.” (*Śrīmad-Bhāgavatam* 3.29.13); see also (*Śrīmad-Bhāgavatam* 9.7.67).[^18-1]
+
+## 19
+
+> Subheading: Kṛṣṇa's own desire to teach how to worship Him —
+
+## 20
+
+> Subheading: For this very reason He descends as a devotee and a guru; preaching and personal example —
+
+## 21
+
+> Subheading: Preaching without personal example is fruitless —
+
+## 22
+
+> Subheading: The time of descent (*Bhagavad-gītā*, Chapter 4, verses 7–8) —
+
+Śrī Kṛṣṇa recalled ancient times. The path of yoga He had once told the sun-god had been lost over time, so He told it again to Arjuna. To convince Arjuna, Bhagavān speaks of His own appearance:
+
+**he bhārata yadā yadā hi dharmasya glāniḥ** (decline) **adharmasya abhyutthānam** (increase) **bhavati**, **tadā aham** (unable to bear these two [calamities], and in order to reverse them) **ātmānaṁ sṛjāmi**.
+
+## 23
+
+> Subheading: The work of the avatāra —
+
+**sādhūnām** (of those wholly devoted to serving Me) **paritrāṇāya** (to remove the obstacles to their service) **duṣkṛtām** (of the enemies of the devotees — Rāvaṇa, Kaṁsa, Keśī and others, whom no one but I can slay) **vināśāya**, **dharma-saṁsthāpanārthāya ca** (and in order to practise and preach properly the *dharma* free of envy — devotion to the service of Bhagavān, which consists of *paricaryā* [service] and *saṅkīrtana*) **yuge yuge** (at the respective times) **sambhavāmi**.

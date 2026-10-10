@@ -27,3 +27,27 @@ At the end of the Dvāpara of the twenty-eighth *catur-yuga* in the *manvantara*
 ## 14–16
 
 “Until now I have not given *prema-bhakti* to the world. People in the world read the scriptures and worship Me through *vidhi-bhakti*, devotion by rules. But My highest mood is the mood of Vraja, and *vidhi-bhakti* cannot attain it. In *vidhi-bhakti* the awareness of My majesty (*aiśvarya-jñāna*) prevails. In the mood of majesty *prema* grows slack — that is, it loses its depth. Therefore such *prema* does not please Me.”
+
+## 18
+
+*Sārṣṭi* is attaining majesty equal to Viṣṇu's; *sārūpya* is attaining a form like Viṣṇu's, with four arms and the other limbs and the same complexion; *sāmīpya* is dwelling near Viṣṇu; *sālokya* is living in Viṣṇu's world.
+
+## 17–20
+
+“Those who worship Me on the path of rules, aware of My majesty, attain the four kinds of liberation — *sārṣṭi*, *sārūpya*, *sāmīpya* and *sālokya* — and go to Vaikuṇṭha. For *sāyujya-mukti*, liberation as oneness with Brahman, even the followers of *vidhi-bhakti* do not pray. But once devotees attain *prema-bhakti*, they reject even those four kinds of liberation and live in the happiness of serving Me. It is My desire to preach to the world this *prema-bhakti*, which lies beyond *vidhi-bhakti*. I will give the world the *dharma* of the age of Kali, *nāma-saṅkīrtana*, together with the *rasas* of *dāsya*, *sakhya*, *vātsalya* and *śṛṅgāra*, and make all people dance. And I Myself will accept the mood of a devotee and teach the living beings of the world by My own conduct.”
+
+## 22
+
+O Arjuna, whenever *dharma* declines and *adharma* rises, I manifest Myself.
+
+## 23
+
+To deliver the sādhus, to destroy the wicked and to establish *dharma*, I appear in every *yuga*.
+
+## 24
+
+If I do not uphold the order of duties (*karma*) by performing My duties, this world will be ruined. I will become the cause of the mixing of the social orders, and I Myself will turn out to be the destroyer of the people.
+
+## 25
+
+Whatever the best person does, others imitate. Whatever the best declares to be the “standard,” everyone follows and holds dear.
