@@ -177,7 +177,8 @@ def fix_refs(tr, log):
     def r3(m):                         # «(Видагдха-мадхава 1.2)» -> «(Видагдха-мадхава, 1.2)»
         new = '(%s, %s)' % (m.group(1), m.group(2)); log.append((m.group(0), new)); return new
     tr = re.sub(r'\(([А-ЯЁ][А-Яа-яЁё\- ]+?) (\d+(?:\.\d+)*(?:[–-]\d+)?)\)', r3, tr)
-    return re.sub(r'([”»])\.?\s*\(', r'\1. (', tr)   # «”.(…)», «”(…)» -> «”. (…)»
+    # «”.(…)», «”(…)» -> «”. (…)» — только ссылка в конце перевода (не пояснение в скобках: «“бхри” (основа слова…)»)
+    return re.sub(r'([”»])\.?\s*\(([^()]*)\)$', r'\1. (\2)', tr.rstrip())
 
 def load_fixes(path):
     fx = []
@@ -261,6 +262,10 @@ def run(chap):
             elif fld == 'bn': bn = [[rep(l) for l in g] for g in bn]
             elif fld == 'tl': pairs = [[rep(a), b] for a, b in pairs]
             elif fld == 'ww': pairs = [[a, rep(b) if b else b] for a, b in pairs]
+            elif fld == 'tlsplit':   # @N tlsplit: <строка транслит. без диакритики, принятая за пословный> => (то же)
+                for i, p in enumerate(pairs):
+                    if p[1] and p[1].startswith(f['old']):
+                        pairs.insert(i + 1, [p[1], None]); p[1] = None; f['used'] += 1; break
             elif fld == 'addww':     # @N addww: <строка транслит. (начало)> => <пословный>
                 for p in pairs:
                     if p[1] is None and p[0].startswith(f['old']): p[1] = f['new']; f['used'] += 1
