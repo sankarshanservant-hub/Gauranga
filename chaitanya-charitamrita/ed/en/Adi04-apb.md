@@ -135,3 +135,15 @@ Rādhikā is the shelter of all the Lakṣmīs. Or else: the word *sarva-lakṣm
 ## 95
 
 Up to the words “and therefore She is the supreme mistress of all,” the meaning of each word of the verse beginning *devī kṛṣṇa-mayī* has been examined.
+
+## 97
+
+Musk and its fragrance are two different things, yet they are inseparable; fire and its heat are different things, yet they too are inseparable. So it is with Rādhā and Kṛṣṇa: to relish the *rasa* of Their pastimes They are eternally separate — and still one in Their own nature.
+
+## 99
+
+Having Himself accepted Rādhikā's *bhāva* and *kānti*, that is, the beauty of Her complexion.
+
+## 104
+
+The main cause of the Gaura-avatāra is extremely hidden, and it is threefold. Further on in the text it is stated in the verse beginning *śrī-rādhāyāḥ praṇaya-mahimā*.

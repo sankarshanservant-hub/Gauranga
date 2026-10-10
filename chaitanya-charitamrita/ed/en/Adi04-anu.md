@@ -376,6 +376,40 @@ When Śrī Rādhā and Śrī Govinda had gone away together from the place of th
 
 > Subheading: She is the full-moon night of Kṛṣṇa, the full moon —
 
+## 97
+
+> Subheading: Rādhā and Kṛṣṇa are inseparably bound to each other — like musk and the deer, or the flame and the fire —
+
+## 98
+
+> Subheading: One in nature, They abide in two bodies — the one who relishes and the one who is relished —
+
+## 99
+
+> Subheading: To distribute Śrī Rādhā's love for Kṛṣṇa, Kṛṣṇa accepts Rādhā's *bhāva* and form and descends as Gaura —
+
+## 101
+
+> Subheading: The explanation of the sixth of the fourteen opening verses begins —
+
+## 102
+
+> Subheading: A preliminary hint: establishing *nāma-saṅkīrtana* is the external cause of the Gaura-avatāra —
+
+## 103
+
+> Subheading: The main and hidden cause: it is the very own work of Kṛṣṇa Himself, and only Śrī Dāmodara Svarūpa, Gaura's second self, knows it —
+
+## 105
+
+Śrī Puruṣottama Bhaṭṭācārya lived in Navadvīpa. Even before Mahāprabhu took *sannyāsa*, he, wishing to take *sannyāsa* himself, went to Vārāṇasī and became a *brahmacārī* among the *daṇḍī-sannyāsīs* of the ten names. Then he came to be called “Śrī Dāmodara Svarūpa.” Afterward, without waiting for his *sannyāsa* to be completed, he came to the lotus feet of Śrī Mahāprabhu and stayed in Nīlācala for the rest of his life. He was always with Śrī Gaurasundara, singing songs of worship and the like that the Lord had taught, and so he constantly gave Him the greatest joy. Only by his mercy were the devotees able to grasp the hidden feelings of Śrī Prabhu's heart. In the pastimes of Vraja this great soul is Lalitā-devī, and therefore Rādhikā's second self. According to Kavi Karṇapūra's *Gaura-gaṇoddeśa-dīpikā*, he is Viśākhā-devī: “Viśākhā, who once taught Rādhā the arts in Vraja, is now Svarūpa Gosvāmī, who delights in her moods.” In the pastimes of Śrī Gaura, the second self of Gaurahari, the embodiment of Rādhā's *bhāva*, is Śrī Dāmodara Svarūpa.
+
+## 106
+
+> Subheading: Gaurasundara is immersed in Rādhā's *mahābhāva* —
+
+The heart of Śrī Gaurasundara has a form full of Śrīmatī Rādhikā's *bhāva*. People of gross intelligence, busy gratifying the material senses, hear the word *bhāva-mūrti*, “embodiment of *bhāva*,” and cannot grasp the nature of a form made of *bhāva*. Devotees free from *anarthas*, in whom *rati* has awakened, are seen to be of five kinds when considered as *āśrita-tattva*. Rādhikā's *bhāva* is the highest and complete state of sweetness. That *bhāva* is of two kinds, *rūḍha* and *adhirūḍha*. The songs of the queens and the songs of the *gopīs* express these two *bhāvas*, *rūḍha* and *adhirūḍha*. What is meant here is Śrī Gaurasundara's *adhirūḍha mahābhāva*. When rules fall away, then, judged by eagerness (*laulya*), the *adhirūḍha-bhāva* of Dvārakā finds its culmination in the *bhāva* of Gokula. In Śrī Gaurasundara's heart there constantly arise a semblance of sorrow (*duḥkhābhāsa*) in *vipralambha*, separation from Kṛṣṇa, and the happiness of *sambhoga*, attaining Kṛṣṇa. Thus, passing beyond the reach of imagination, *madhura-rasa* is relished. There are people who do not understand how *bhāva* differs from its absence and who set up “*adhirūḍha mahābhāva*” on the ground of gratifying the material senses. They do not realize the *āśrita-tattva* in their own true nature. As long as his original nature has not unfolded, the unfortunate *jīva* does not know that Gaurasundara is maddened by the *bhāva* of the *nāgarī*, the beloved of Vraja. Seeing in Him an object for gratifying his own material senses, he takes Him for a “*nāgara*,” a lover, and becomes guilty of the fault of *rasābhāsa*, a distorted *rasa*.
+
 [^33-1]: *Manaḥ-śikṣā* 2.
 [^34-1]: The edition reads “পরম প্রাকৃতশরীরম্”; by the sense (compare 34–35 on Bhagavān's human form) apparently “পরমাপ্রাকৃত” (“supreme transcendental”), the negating *a-* having dropped out.
 [^34-2]: *Nārada-pañcarātra* (*Bhakti-rasāmṛta-sindhu* 1.1.12).
