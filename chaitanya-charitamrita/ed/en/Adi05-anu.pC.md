@@ -64,6 +64,66 @@ When Brahmā stole the calves, Śrī Kṛṣṇa created the calves and the rest
 
 **iyam** (this [*māyā*]) **kā** (who)? **kutaḥ vā āyātā** (where has she come from)? **kim daivī** (is she related to the gods), **nārī** (to humans), **vā** (or — *uta*) **āsurī** (to the demons)? **prāyaḥ** (most likely) **māyā me bhartuḥ** (it is the *māyā* of my Master, Bhagavān Himself) **astu** (it must be); **anyā** (another [*māyā*]) **na** (it cannot be), ([for]) **iyam me api** (even me) **vimohinī** (she bewilders).
 
+## 141
+
+> Subheading: The six opulences eternally abide in Kṛṣṇa's lotus feet —
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 68, verse 37)
+
+The Kauravas spoke ill of Śrī Kṛṣṇa and tried to win Baladeva over to their side. Then Baladeva grew angry and said to them:
+
+**yasya** (Kṛṣṇa's) **aṅghri-paṅkaja-rajaḥ** (the dust of the lotus feet) **akhila-loka-pālaiḥ** (by the rulers of all the worlds) **mauly-uttamaiḥ** (on their heads adorned with crowns) **dhṛtam** (borne, held in the mind by concentration), **upāsita-tīrtha-tīrtham** (the holy place even for the yogīs who honor holy places); **yasya kalāyāḥ kalāḥ** (parts [*vikalās*] of whose part) — **brahmā**, **bhavaḥ** (Śiva), **aham** (I, Baladeva), **śrīḥ ca** (and Lakṣmī) — **api ciram** (forever) **udvahema** (we pray to carry it on our heads), — **asya** (for Him, Bhagavān Kṛṣṇa) **nṛpāsanam** (a royal throne) **kva** (where; what does it mean)?
+
+## 142
+
+> Subheading: Kṛṣṇa alone, the original form (*svayaṁ-rūpa*), is the Lord of all —
+
+## 143
+
+> Subheading: Gaurasundara is the Supreme Lord, and His associates are His servants —
+
+## 146
+
+> Subheading: Gaura's two limbs (*aṅgas*): Nitāi and Advaita —
+
+See Ādi 3.71.
+
+## 147
+
+> Subheading: Though Advaita Prabhu is an avatāra of Mahā-Viṣṇu, He considers Himself a servant of Gaura —
+
+Śrī Mahāprabhu honored Advaita Ācārya, regarding Him as one of His elders (*guru-varga*). Yet Śrī Advaita Prabhu considered Himself a servant of Śrī Caitanya. He was a contemporary and friend of Śrī Mahāprabhu's father. Śrī Īśvara Purī and Śrī Advaita Prabhu were disciples of Śrī Mādhavendra Purī. Mahāprabhu accepted Śrī Īśvara Purī as His *dīkṣā-guru*, and so Advaita Prabhu was a godbrother of Mahāprabhu's guru and worthy of respect.
+
+## 148
+
+> Subheading: Proof of the Ācārya's mercy to the *jīvas* —
+
+## 149
+
+> Subheading: Because Lakṣmaṇa, the younger brother, served the elder, Rāmacandra, in the avatāra of Kṛṣṇa Balarāma is the elder brother and Kṛṣṇa the younger —
+
+Among the *daṇḍī-sannyāsīs* of the ten names, a *brahmacārī* bears one of four titles: “Svarūpa,” “Ānanda,” “Prakāśa,” and “Caitanya.” While traveling to the holy places, Nityānanda Prabhu stayed with a *sannyāsī* whose title was “Tīrtha” or “Āśrama.” Therefore His *brahmacārī* name became “Nityānanda-svarūpa.”
+
+## 153
+
+In the *Laghu-bhāgavatāmṛta*, where the truth of Śrī Rāghavendra is described, section 20 says (in substance): “The *Viṣṇu-dharmottara* glorifies Rāma, Lakṣmaṇa, Bharata, and Śatrughna as avatāras of Vāsudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha respectively. And the *Padma Purāṇa* glorifies Rāmacandra as Nārāyaṇa, and Lakṣmaṇa, Bharata, and Śatrughna respectively as Śeṣa, the Cakra, and the Śaṅkha (conch).”
+
+## 154
+
+In the *Laghu-bhāgavatāmṛta*, where the *līlā-avatāras* are described, section 79 says (in translation): “The *Rāma-gītā* of the *Skanda Purāṇa* says that Lakṣmaṇa, Bharata, and Śatrughna are the three *vyūhas* of Śrī Rāma.”
+
+## 155
+
+> Subheading: Kṛṣṇa alone is the original form (*svayaṁ-rūpa*); all the other avatāras are His parts (*aṁśas*) or parts of parts (*kalās*) —
+
+> Subheading: (*Brahma-saṁhitā*, Chapter 5, verse 39)
+
+**yaḥ** (He who), **paramaḥ pumān** (the Supreme Person) **kṛṣṇaḥ** (Kṛṣṇa), **kalā-niyamena** (as parts, parts of parts, and so on) **rāmādi-mūrtiṣu tiṣṭhan** (abiding in the forms of Rāma and others — manifesting the forms of the various *naimittika* avatāras, who descend for a particular occasion) **nānāvatāram akarot** (manifested many avatāras), **kintu svayam samabhavat** (but appeared Himself [as Kṛṣṇa]) — **tam govindam ādi-puruṣam** (that Govinda, the original Person) **ahaṁ bhajāmi** (I worship).
+
+## 156
+
+> Subheading: Gaura's desire — to spread the holy name and *prema* — is fulfilled through Nityānanda alone —
+
 ---
 
 [^140-1]: The verse translation ascribes these words to Brahmā.
