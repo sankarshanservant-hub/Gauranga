@@ -583,3 +583,63 @@
   cc: "Ади 2"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi02.md", from: "119", to: "121"}
+
+- id: cc-0031
+  source: cc
+  ref: "Ади 3.1–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: PX
+  order: 290
+  title: "Мангалачарана третьей главы; четвёртая шлока «анарпита-чарим» как предмет главы"
+  summary: "Автор склоняется перед Шри Чайтаньей, силой прибежища у Чьих стоп даже невежда собирает драгоценности сиддханты, славит Чайтанью, Нитьянанду, Адвайту и преданных Гауры и, объяснив третью шлоку, приступает к четвёртой — «анарпита-чарим»: Господь, сияющий золотом, по милости пришёл в век Кали даровать сокровище служения в высшей расе."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva]
+  scriptures: ["Видагдха-мадхава 1.2"]
+  cc: "Ади 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "1", to: "4"}
+
+- id: cc-0032
+  source: cc
+  ref: "Ади 3.5–28"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: P00
+  order: 6.8
+  title: "Кришна, завершив игры во Врадже, решает Сам прийти дать миру враджа-прему и нама-санкиртану"
+  summary: "Полный Бхагаван Кришна вечно играет на Голоке и раз в день Брахмы — в конце Двапары двадцать восьмой чатур-юги седьмой манвантары — является с Враджем; покорённый преданными четырёх рас, Он, завершив игры, размышляет: мир поклоняется Ему по правилам, в сознании величия, что ведёт лишь к четырём видам освобождения, а любви Враджа никто не знает; поэтому Он Сам введёт нама-санкиртану, примет роль преданного и Своим примером научит бхакти — ведь враджа-прему, в отличие от юга-дхармы, не может дать никто, кроме Него."
+  persons: ["@krishna"]
+  places: ["#goloka", "#vrindavana"]
+  kind: pre-advent
+  authority: A
+  notes: "Внешняя причина нисхождения (толкование Ади 1.4); внутренняя — Ади 4 (ev-krishna-resolves-advent-radha-bhava)."
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva, yuga-dharma, prema, holy-name]
+  scriptures: ["Бхагавад-гита 4.7", "Бхагавад-гита 4.8", "Бхагавад-гита 3.24", "Бхагавад-гита 3.21", "Лагху-бхагаватамрита 1.5.37"]
+  cc: "Ади 3"
+  event: ev-krishna-resolves-to-give-vraja-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "5", to: "28"}
+
+- id: cc-0033
+  source: cc
+  ref: "Ади 3.29–34"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: P01
+  order: 70
+  title: "Лев Чайтанья нисходит в Надии; имена Вишвамбхара и Шри Кришна Чайтанья"
+  summary: "Так решив, Кришна Сам низошёл в Надии в первой сандхье Кали-юги — лев Чайтанья с львиной шеей, силой и рыком, от которого гибнет слон греха; в ранних играх Его имя — Вишвамбхара (корень «ду-бхрин» — питать и поддерживать: Он питал и поддерживал три мира, даруя любовь), в поздних — Шри Кришна Чайтанья, возвестивший Кришну всему миру."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание явления; толкование имён."
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva]
+  cc: "Ади 3"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "29", to: "34"}

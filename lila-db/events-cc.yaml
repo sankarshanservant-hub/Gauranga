@@ -166,3 +166,15 @@
   themes: [teaching]
   teaching: [scripture, maya]
   notes: "Богословская тема, не эпизод жизни: десять тем Бхагаватам (2.10.1–2), шесть видов виласы, чит-, майя- и джива-шакти; Брахма-самхита 5.1."
+
+# Ади 3 — внешние причины явления Шри Чайтаньи.
+- id: ev-krishna-resolves-to-give-vraja-prema
+  title: "Кришна решает Сам прийти и дать миру любовь Враджа"
+  title_en: "Krishna resolves to come Himself and give the world the love of Vraja"
+  period: P00
+  order: 6.8
+  cc: "Ади 3.5–28"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva, yuga-dharma, prema, holy-name]
+  notes: "Внешняя причина нисхождения: завершив игры во Врадже, Кришна видит, что мир знает лишь поклонение по правилам в сознании величия, и решает Сам ввести нама-санкиртану и учить бхакти примером. Ср. ev-tattva-gaura-external-cause (толкование шлоки Ади 1.4) и внутреннюю причину — ev-krishna-resolves-advent-radha-bhava."
