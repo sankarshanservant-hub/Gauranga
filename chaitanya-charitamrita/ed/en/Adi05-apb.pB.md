@@ -52,6 +52,14 @@ Bhagavān, wishing to create the worlds, assumed the form called the Puruṣa, c
 
 He is the shelter of all, and *saṁsāra* abides in Him; yet as the indwelling Self (*antarātmā*) He is the support of the world. Although He has these two kinds of relation with *prakṛti*, He accepts no fault from contact with *prakṛti*.
 
+## 87
+
+See Ādi 2.55.
+
+## 89
+
+I abide in the world, and the world abides in Me; and yet I am not in the world, and the world is not in Me. This is called the “inconceivable meaning.”
+
 ---
 
 [^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.

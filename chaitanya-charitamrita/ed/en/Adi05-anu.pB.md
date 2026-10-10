@@ -179,3 +179,37 @@ On Garbhodaśāyī, the seed of all avatāras, see *Śrīmad-Bhāgavatam* 1.3.5.
 Śrī Brahmā describes to Nārada the opulence of Bhagavān Kāraṇārṇavaśāyī:
 
 **parasya bhūmnaḥ** (of Bhagavān) **puruṣaḥ** (Kāraṇārṇavaśāyī) is **ādyaḥ avatāraḥ** (the first avatāra). **kālaḥ** (time, the agitator of the *guṇas*), **svabhāvaḥ** (its impression), **sad-asat** (*prakṛti*, effect and cause), **manaḥ** (the *mahat-tattva*), **dravyam** (the subtle elements, the five great elements), **vikāraḥ** (*ahaṅkāra*), **guṇaḥ** (*sattva* and the others), **indriyāṇi** (the eleven), **virāṭ** (the aggregate body), **svarāṭ** (the Vairāja), **sthāsnu** (the unmoving), **cariṣṇu** (the moving, the individual body) **ca** (all are forms of His opulence).
+
+## 84
+
+> Subheading: The creator of the *mahat-tattva*, the first Puruṣa-avatāra —
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 3, verse 1)
+
+Answering the five questions of the sages headed by Śaunaka, Sūta describes the avatāras of Bhagavān:
+
+**ādau** (at the beginning of creation) **bhagavān** (Mahā-Saṅkarṣaṇa) **loka-sisṛkṣayā** (wishing to create the worlds) **mahad-ādibhiḥ** (with the *mahat-tattva*, *ahaṅkāra*, the five great elements, the eleven senses and the five *tanmātras*) **sambhūtam** (composed) **ṣoḍaśa-kalam** (endowed with the full complement of potencies needed for that creation) **pauruṣaṁ rūpaṁ jagṛhe** (manifested the form of the Puruṣa).
+
+**Ṣoḍaśa-kalam** (endowed with sixteen *kalās*): the *Laghu-bhāgavatāmṛta*, describing the Puruṣa (section 68), says: “Śrī, Bhū, Kīrti, Ilā, Līlā, Kānti and Vidyā — these seven — and the nine headed by Vimalā: these are the sixteen chief potencies.” Śrī Baladeva comments on this: “Vimalā, Utkarṣiṇī, Jñānā, Kriyā, Yogā, and also Prahvī, Satyā, Īśānā and Anugrahā — these are known as the nine.” In the *Bhagavat-sandarbha* (section 102): “He is served by Śrī, Puṣṭi, Gīr, Kānti, Kīrti, Tuṣṭi, Ilā, Ūrjā, Vidyā, Avidyā, Śakti and Māyā.”[^84-1] “One should also know Sandhinī, Saṁvit, Hlādinī, Bhakti, Ādhāra-śakti, Mūrti, Vimalā, Jayā, Yogā, Prahvī, Īśā, Anugraha and others. Therefore in the verse ‘*Śriyā*…’ and the like one should everywhere understand two kinds of powers: some are functions of the *śakti*, others are functions of *māyā*. The varieties of the first are the opulence of Bhagavān; the varieties of the second are the opulence of the world. … Here Ilā indicates Bhū, and through her Līlā as well. Sandhinī is Satyā, Jayā is Utkarṣiṇī, Yogā is *yogamāyā*, and Saṁvit is the Jñānājñāna-śakti and *śuddha-sattva*; so it should be understood. The difference between Prahvī and Īśānā is this: Prahvī is the source of wondrous, unlimited capacity, and Īśānā the source of the power of sovereignty over all.”
+
+1) Śrī, 2) Bhū, 3) Līlā, 4) Kānti, 5) Kīrti, 6) Tuṣṭi, 7) Gīḥ, 8) Puṣṭi, 9) Satyā, 10) Jñānājñānā, 11) Jayā-Utkarṣiṇī, 12) Vimalā, 13) Yogamāyā, 14) Prahvī, 15) Īśānā and 16) Anugrahā — these sixteen potencies are present in Vaikuṇṭha. See the *Bhāgavata-tātparya* of Śrī Madhva, included in the *Gauḍīya-bhāṣya* on *Śrīmad-Bhāgavatam*, and the *Tathya* section there.
+
+## 85
+
+> Subheading: The shelter of all and the indwelling Lord —
+
+See Madhya 20.282.
+
+## 86
+
+> Subheading: Though related to *māyā* in His glance and other acts, He is in truth beyond *māyā* —
+
+In the *Laghu-bhāgavatāmṛta*, where Viṣṇu's freedom from the *guṇas* is described, Śrī Rūpa's *kārikā* is given: “Relation with the *guṇas* as their controller is called *yoga*. Therefore He who is the Supreme's own portion is not bound up with them.” That is, Viṣṇu's relation with the *guṇas* as their controller is called *yoga*. That Puruṣa, therefore, is never bound by the *guṇas*. Still less is any of the Viṣṇus — His own portions, in truth nondifferent from the Supreme Person — ever in any way joined with the *guṇas*. Śrī Baladeva's commentary: “But how can the Supreme Person have a relation with the *guṇas*? That contradicts such statements as ‘*māyā*, abashed, withdraws from His sight’ (*Śrīmad-Bhāgavatam* 2.7.47). To this the word *yoga* replies. The *guṇas* are the controlled, and the Puruṣa who appears in three ways is the controller: such is the relation, and here it is called *yoga*, not bondage. And He is not joined with them, for in the words of Drumila, lord of *yogīs* (*Śrīmad-Bhāgavatam* 11.4.5), no relation with the *guṇas* is mentioned.”
+
+“If you say: is not a relation of Mahā-Viṣṇu with the *guṇas* established? For then it would contradict the words ‘*māyā*, abashed, stands turned away from Bhagavān.’ The answer is this: the word ‘*guṇa*’ means ‘the controlled.’ The Puruṣa who appears in three forms — Viṣṇu, Brahmā and Śiva — is related to *prakṛti* as her controller. In the world this is called *yoga*; it is never denoted by the word ‘bondage’ by those three *guṇas*. That Viṣṇu is never joined with the *guṇas*, for in the words of Drumila, one of the nine Yogendras, no relation of the three *guṇas* with Viṣṇu is mentioned at all.”
+
+With both kinds of cause — material and efficient — He is related as the one who glances; yet *māyā* can in no way overpower Him. The world with all its transformations is a transformation of Bhagavān's potency of desire (*icchā-śakti*), but in Him no material transformation is possible. See Ādi 2.52, 54.
+
+---
+
+[^84-1]: *Śrīmad-Bhāgavatam* 10.39.55.
