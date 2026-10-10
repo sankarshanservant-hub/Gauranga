@@ -663,3 +663,44 @@
   event: ev-tattva-gaura-scripture-proofs
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "35", to: "56"}
+
+- id: cc-0035
+  source: cc
+  ref: "Ади 3.57–75"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: PX
+  order: 310
+  title: "Анги, упанги, оружие и спутники Господа: Нитьянанда, Адвайта и Шриваса — Его войско"
+  summary: "Золотое сияние Господа рассеивает тьму невежества; чтобы уничтожить «калмашу» — всякую деятельность, противную бхакти, будь она праведной или нет, — Он держит оружие: анги, упанги и святое имя; Он поёт «Хари», подняв руки, и любящим взглядом затопляет мир премой; в других аватарах у Него были войска и оружие, а у Чайтаньи-Кришны войско — анги и упанги; «анга» означает и полную часть (Бхаг. 10.14.14): Адвайта и Нитьянанда — две анги Чайтаньи, Нитьянанда — Сам Баларама, Адвайта — Сам Господь; с Шривасой и другими спутниками эти два полководца ходят с киртаном и обращают в бегство безбожников."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@brahma"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Толкование слов «санґопанґастра-паршадам» (Бхаг. 11.5.32)."
+  themes: [teaching, kirtan]
+  teaching: [gaura-tattva, associates-tattva, holy-name]
+  scriptures: ["Става-мала, Двития Чайтаньяштака 1", "Става-мала, Двития Чайтаньяштака 8", "Става-мала, Пратхама Чайтаньяштака 1", "Шримад-Бхагаватам 10.14.14"]
+  cc: "Ади 3"
+  event: ev-tattva-pancha-tattva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "57", to: "75"}
+
+- id: cc-0036
+  source: cc
+  ref: "Ади 3.76–78"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md"
+  period: PX
+  order: 320
+  title: "Санкиртана-ягья — суть всех жертвоприношений"
+  summary: "Шри Кришна Чайтанья — основатель санкиртаны; кто поклоняется Ему санкиртана-ягьей, тот благословен и по-настоящему разумен (су-медхас), а остальной мир неразумен; жертвоприношение имени Кришны — суть всех жертвоприношений, и кто приравнивает одно имя к десяти миллионам ашвамедх, тот безбожник, наказуемый Ямой."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Толкование слов «яджнаих санкиртана-праяир яджанти хи су-медхасах» (Бхаг. 11.5.32)."
+  themes: [teaching, kirtan]
+  teaching: [holy-name, yuga-dharma]
+  cc: "Ади 3"
+  event: ev-tattva-holy-name
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi03.md", from: "76", to: "78"}
