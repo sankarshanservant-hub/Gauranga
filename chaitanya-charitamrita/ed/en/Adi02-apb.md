@@ -31,3 +31,33 @@ Those who know the truth call nondual knowledge the Truth. This nondual knowledg
 ## 14
 
 I worship Govinda, the original Puruṣa. From His radiance comes Brahman — undivided, infinite, boundless, and distinct from the countless opulences of millions and millions of universes, such as their lands.
+
+## 17
+
+Naked sages who practice austerity and keep their seed, and peaceful, pure *sannyāsīs*, attain the abode of Brahman.
+
+## 19
+
+A single sun, reflected in countless pieces of crystal, shows itself in each as a separate image. So too Paramātmā, a part of Govinda, manifests in countless *jīvas*.
+
+## 20
+
+O Arjuna, what more need I say? With one part of Myself, as Paramātmā, I have entered the whole universe and abide in it.
+
+## 21
+
+Bhīṣma said: “O Kṛṣṇa, one and the same sun appears to each eye as a separate, distinct object. So too Paramātmā, Your part, abides in the heart of every embodied being, and people take Him to be a separate truth. But when they become *ātma-kalpita* — Your own, that is, when they know themselves to be Your servants — this delusion of difference vanishes. I have come to know Paramātmā as Your part, and so I too am free from the delusion of difference: I have gained knowledge of You, who are unborn in Your own nature (*svarūpa*).”[^21-1]
+
+## 22
+
+By using the word *sākṣāt* (directly, in person) here, the author establishes that Śrī Kṛṣṇa Caitanya is Govinda Himself, not a *prakāśa* or *vilāsa* of Govinda.
+
+## 25–26
+
+Bhagavān's eternal form (*nitya-vigraha*) cannot be seen with the material senses or by the efforts of knowledge. Only devotees, through *bhakti-yoga*, that is, through *bhakti-rati*, the loving attraction of devotion, become fit to see it. Here is an example. The sun is an object that has a form. Ordinary eyes of flesh, or demoniac eyes, cannot see that form; but the divine eyes of the demigods pierce the network of the sun's rays and see it. Those who seek Bhagavān on the path of knowledge and on the path of yoga can follow only Brahman, the network of rays of the eternal form, and Paramātmā, His part. They do not become fit to see the spiritual eternal form.
+
+## 30
+
+O Adhīśa, Supreme Lord, You are the witness of all the worlds. You are the Self of all embodied beings, that is, what is dearest to them; are You not, then, my father Nārāyaṇa? The water born of Nara is called *nāra*, and He whose resting place (*ayana*) is in it is Nārāyaṇa. He is Your *aṅga*, that is, Your part. None of Your parts — Kāraṇābdhiśāyī, Kṣīrodaśāyī and Garbhodaśāyī — is subject to *māyā*: They are the masters of *māyā*, the supreme Truth beyond *māyā*.
+
+[^21-1]: The Russian verse translation (VCD) reads differently: it does not render *ātma-kalpita* separately, and it relates the delusion of difference to the Lord's various forms.

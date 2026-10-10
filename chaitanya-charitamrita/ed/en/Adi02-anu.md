@@ -94,5 +94,148 @@ The sense is this: nondual knowledge realized through the function of knowledge 
 
 Bhagavān's devotees know that the embodiment of nondual knowledge is Vrajendranandana, the son of the king of Vraja. In Kṛṣṇa's name, form, qualities and pastimes they see nothing second. If one separates Kṛṣṇa from His transcendental name, form, qualities and pastimes, a mundane conception of Viṣṇu's body arises; this is the very absence of nondual knowledge. Things other than Kṛṣṇa are not Viṣṇu, and nondual knowledge is not in them. Therefore everything other than Kṛṣṇa is separated from Kṛṣṇa, that is, from nondual knowledge, by *māyā*, or dual knowledge.[^11-1] So it becomes liable to fall under *māyā*'s control, and is therefore subject to *māyā*, or dual knowledge. In all of Kṛṣṇa's manifestations (*prakāśas*) and forms of *vilāsa*, however, there is no knowledge of anything second; therefore they are *viṣṇu-tattva* and the masters of *māyā*. The yogīs regard only one state as free from knowledge of a second: the unmixed union (*yoga*) of the pure soul with the Paramātmā, the embodiment of nondual knowledge. The *jñānīs*, for their part, regard as nondual knowledge, as Brahman, a featureless knowledge free from all distinctions — internal, homogeneous and heterogeneous (*svagata*, *sajātīya* and *vijātīya*). See the *Gauḍīya-bhāṣya* on the *Bhāgavatam* by the author of this commentary, pp. 88–89.
 
+## 12
+
+> Subheading: (1) Examining Brahman —
+
+*Muṇḍaka Upaniṣad*, second *muṇḍaka*, second *khaṇḍa*, mantras 9–11: “In the highest, golden sheath dwells Brahman, stainless and undivided. It is pure, the light of lights; those who know the Self know It. There the sun does not shine, nor the moon and stars, nor do these lightnings shine — how then this fire? As He shines, everything shines after Him; by His light all this is illumined. Truly, Brahman is this immortal one: Brahman in front, Brahman behind, Brahman to the right and to the left, below and above — spread everywhere. Truly, Brahman is all this, this most excellent universe.”
+
+## 14
+
+> Subheading: (*Brahma-saṁhitā* 5.40)
+
+Śrī Brahmā set forth the truth and greatness of Śrī Govinda in the form of a prayer; it is given in the fifth chapter of the *Brahma-saṁhitā*.
+
+- **jagad-aṇḍa-koṭi-koṭiṣu** — in millions and millions of universes, that is, in countless universes.
+- **aśeṣa-vasudhādi-vibhūti-bhinnam** — distinct, that is, set apart, by the opulences — the countless universes and all else that has form and so on.
+- **niṣkalam** — (that which is) without parts: undivided, perfect,
+- **anantam** — beyond limited knowledge,
+- **aśeṣa-bhūtam** — boundless —
+- **tat brahma** — that Brahman
+- **prabhavataḥ** — (of the One endowed with power)
+- **yasya** — whose (Govinda's)
+- **prabhā** — is the radiance of the body.
+- **tam ādi-puruṣam govindam aham bhajāmi** — that original Puruṣa, Govinda, I worship.
+
+## 16
+
+“I” is Brahmā.
+
+## 17
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.6.47)
+
+Uddhava learned that Śrī Kṛṣṇa would soon withdraw from view, and in a prayer at His holy feet he said: devotees reach Kṛṣṇa's feet with ease, while *sannyāsīs* who impose hardships on themselves win the fruit of their practice by hard labor — and attain only Brahmaloka.
+
+- **vāta-vasanāḥ** — clothed in the wind, that is, naked, without garments.
+- **śramaṇāḥ** — mendicant monks who emaciate the body.
+- **ūrdhva-manthinaḥ** — who keep their seed.
+- **śāntāḥ** — those whose minds are fixed on Brahman alone.
+- **amalāḥ** — free from the filth of sense objects.
+- **sannyāsinaḥ** — *sannyāsīs*.
+- **te** — they.
+- **brahmākhyam** — called Brahman (impersonal).
+- **dhāma** — the abode.
+- **yānti** — attain.
+
+## 18
+
+> Subheading: (2) Examining Paramātmā —
+
+Bhagavān is a form full of spiritual *vilāsa*. He is the *turīya-vigraha*, the form beyond the three states, and so He Himself has no part in any affairs of Devī-dhāma, the material world: He controls *pradhāna* and the *jīvas* through the *puruṣa-avatāras*. As soon as the *jīva* understands the truth of the three *puruṣa-avatāras*, he is freed from perceiving the twenty-four elements of *māyā*. Kṣīrodakaśāyī Mahā-Viṣṇu is the indwelling Lord (*antaryāmī*) of each *jīva*; Garbhodakaśāyī Mahā-Viṣṇu is the indwelling Lord of the aggregate *jīva* of the universe; and the creator of the universes, Kāraṇārṇavaśāyī Mahā-Viṣṇu, is also an indwelling Lord. These three *puruṣa-avatāras* carry out the creation of Devī-dhāma and govern this partial work. The scriptures of yoga prescribe union (*yoga*) with Paramātmā in order to pass beyond the twenty-four elements of *māyā*. Thus the indwelling Puruṣa, Paramātmā, is only a partial manifestation (*aṁśa-vibhūti*) of Govinda.
+
+## 19
+
+The one sun stays in its place and is reflected in countless pieces of crystal as countless images. So too the one Śrī Govinda, eternally manifest in Goloka-Vṛndāvana, manifests in the hearts of countless *jīvas* as the indwelling Paramātmā, the Puruṣa whom the *jīva* is meant to serve. The three mantras that begin “Two birds, inseparable friends…”[^19-1] speak of two birds on one tree, the *jīvātmā* and Paramātmā; they stand in the relation of the servant and the One served. Paramātmā makes the *jīvātmā* taste the fruits of karma, but He Himself does not taste such fruits. When the *jīva* stops enjoying the fruits of karma and comes to know the glory of Paramātmā, whom he is meant to serve, he becomes stainless and attains the supreme equality — Vaikuṇṭha.
+
+## 20
+
+> Subheading: (*Bhagavad-gītā* 10.42)
+
+Bhagavān explained to Arjuna in many ways the truth of His relationship with all that exists (*sambandha-tattva*), and in this verse He states it briefly.
+
+- **atha vā** — or else.
+- **arjuna** — O Arjuna.
+- **bahunā** — with many details, taught one by one.
+- **jñātena kim** — what use is it (for you) to know? That is, enough.
+- **idam** — this (made of spirit and matter)
+- **kṛtsnam** — entire
+- **jagat** — universe
+- **ekāṁśena** — with one part (the part called the Puruṣa, the indwelling Lord of *prakṛti* and the rest)
+- **viṣṭabhya** — supporting (as its foundation, bearing it; as its overseer, governing it; as its controller, subduing it; as the all-pervading one, pervading it),
+- **aham** — I (Bhagavān)
+- **sthitaḥ** — abide.
+
+## 21
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.9.42)
+
+Yudhiṣṭhira went to Bhīṣma wishing to ask him about *dharma*, and Śrī Kṛṣṇa followed him on Arjuna's chariot. Other divine and brahminical sages (*devarṣis* and *brahmarṣis*) also gathered there to see Bhīṣma. Bhīṣma answered some of Yudhiṣṭhira's questions. Then, when the time of his departure came, he praised Śrī Kṛṣṇa, who stood before him, in many verses; this verse is one of them.
+
+- **prati-dṛśam** — to each eye (of beings in different places)
+- **naikadhā** — in many ways (because they abide in different places),
+- **ekam arkam iva** — like the one sun.
+- **ātma-kalpitānām** — created by Himself
+- **śarīra-bhājām** — of the embodied
+- **hṛdi hṛdi** — in each heart
+- **dhiṣṭhitam** — abiding,
+- **tam imam ajam** — this Unborn One (Śrī Kṛṣṇa)
+- **vidhūta-bheda-mohaḥ** — one whose delusion of difference is cast off (*vidhūta*, removed). This delusion is the idea that Bhagavān's name, form, qualities and pastimes are different from Him. It shows itself as a perception of multiplicity: one imagines that Bhagavān's form divides into different forms — *prakāśas* and *vilāsa-mūrtis* — in order to become all-pervading.
+- **aham** — I
+- **samadhigataḥ asmi** — have fully realized (attained).
+
+## 22
+
+> Subheading: (3) Examining Bhagavān —
+
+In the *Caitanya Upaniṣad*: “Gaura is the Self of all, the Great Person, the Great Soul, the great yogī; He is beyond the three modes and is the embodiment of pure goodness (*sattva*). He will reveal devotion in the world.” In the *Śvetāśvatara*: “He is the supreme great Lord of lords, the supreme Deity of deities, the supreme Master of masters, higher than the highest. We know Him as God, the Lord of the worlds, worthy of praise.” “Truly, the great Lord is the Puruṣa. He impels the intelligence toward this purest attainment; He is the Ruler, the imperishable Light.” “When the seer sees the golden-colored Creator, the Lord, the Puruṣa, the source of Brahman…” “O Great Person! I bow to Your lotus feet. They are always to be meditated on; they destroy humiliation and fulfill desires; they are the refuge of the holy places, praised by Śiva and Brahmā, and they are the shelter. They destroy the sufferings of servants; O Protector of the surrendered, they are the boat on the ocean of birth and death. O most righteous One! At the word of a worthy one You gave up a glorious kingdom, so hard to renounce and coveted even by the gods, and went to the forest; You ran after the deer of illusion that Your beloved desired…” “Thus, O Great Person, You descend as human, animal, sage, demigod and fish, sustain the worlds, slay the enemies of the world and protect the *dharma* proper to each age. But in Kali You came concealed (*channa*), and therefore You are Triyuga” — these are Prahlāda's words.[^22-2]
+
+There is no need to cite here the evidence already quoted in the *Caritāmṛta*. In the *Kṛṣṇa-yāmala*: “In the holy place Navadvīpa I shall become the son of Śacī.” In the *Brahma-yāmala*: “Or else I shall descend to earth in the form of My devotee and appear in Māyā[^22-1] in the Kali age, when *saṅkīrtana* begins.” In the *Vāyu Purāṇa*: “When *saṅkīrtana* begins in the Kali age, I shall become the son of Śacī.” In the *Ananta-saṁhitā*: “That same Bhagavān Kṛṣṇa, the beloved of Rādhikā's life, who at the beginning of creation is the Lord of the universe, became Gaura, O Maheśvarī!” And so on.
+
+## 23
+
+> Subheading: Nārāyaṇa, the Lord of Paravyoma, is described in all the scriptures —
+
+## 24
+
+In the *Ṛg-veda-saṁhitā* (1.22.20): “The sages always see that supreme abode of Viṣṇu, like an eye spread across the sky,” and so on. In the *Śrīmad-Bhāgavatam* (11.3.34–35): “You are the best knowers of Brahman; tell us, then, of the foundation of Brahman, the Paramātmā called Nārāyaṇa.” “It is the cause of the creation, maintenance and dissolution of this world, but Itself has no cause. It is present in dreaming, waking and deep sleep, and also beyond them. By It the body, the senses, the life air and the heart come alive and act. Know It as the Supreme, O king.” In the *Nārāyaṇa-atharvaśira Upaniṣad*: “From Nārāyaṇa alone everything is born, by Nārāyaṇa it is set in motion, in Nārāyaṇa it dissolves. Nārāyaṇa is eternal. All this is Nārāyaṇa alone — all that has been and all that will be. Pure is the one God Nārāyaṇa, and there is no second.” In the *Nārāyaṇa Upaniṣad*: “He from whom the mother of the world was born.” In the *Hayaśīrṣa-pañcarātra*: “The Paramātmā is the Lord Hari.”
+
+## 25
+
+> Subheading: A difference in vision brings a difference in what is seen; a difference in means brings a difference in how the goal is perceived —
+
+## 28
+
+> Subheading: (1) Kṛṣṇa and Nārāyaṇa are one, yet differ in Their pastimes —
+
+## 30
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.14.14)
+
+Brahmā stole the calves, then came to understand the truth about Śrī Kṛṣṇa and offered Him praise; this is one of the verses of that prayer.
+
+- **adhīśa** — O Adhīśa (Lord, endowed with majesty greater than that of the three *puruṣa-avatāras*)!
+- **tvam** — You
+- **nārāyaṇaḥ** — are Nārāyaṇa (He from whom comes the movement (*ayana*), that is, the activity, of *nāra*).
+- **sarva-dehinām** — of all the embodied (of all living beings)
+- **ātmā** — the Self; (and so)
+- **tvam** — You
+- **nārāyaṇaḥ** — (He whose shelter (*ayana*) is *nāra*, that is, the totality of *jīvas*: the third *puruṣa-avatāra*, who abides in the Ocean of Milk)
+- **asi na hi** — are You not?
+- **akhila-loka-sākṣī** — the witness of all the worlds (the indwelling Lord of the aggregate [of *jīvas*])
+- **tvam** — You
+- **nārāyaṇaḥ** — (He who knows (*ayase*) *nāra*: the second *puruṣa-avatāra*, who abides in the Garbhodaka).
+- **nara-bhū-jalāyanāt** — (because His shelter is the *arthas*, that is, the twenty-four elements that arose from Nara, the Paramātmā, and also the water born of Nara)
+- **nārāyaṇaḥ** — Nārāyaṇa (that celebrated first *puruṣa-avatāra*, who abides in the Kāraṇodaka) —
+- **saḥ api** — He too
+- **tava aṅgam** — is Your *aṅga* (part).
+- **tat ca api satyam** — And this too is true,
+- **na tava eva māyā** — and not at all *māyā* (not transient, like what belongs to *māyā*).
+
+(Even when You descend as an avatāra, *māyā* cannot touch Your spiritual body. O Kṛṣṇa, You are the original Nārāyaṇa, and the Puruṣa and the other avatāras are Your parts; You alone are the whole. These avatāras are limbs (*aṅgas*), and You are the possessor of the limbs (*aṅgī*) — such is my conviction.)
+
 [^5-1]: The edition reads *atan-māyā-rahita* (literally “free from *māyā*, [which is] not-That”); taken here as “untouched by *māyā*.”
 [^11-1]: The edition reads *māyā vā advaya-jñāna-dvārā* (“by *māyā*, or nondual knowledge”); the sense probably requires *dvaya-jñāna*, dual knowledge (compare *dvaita-jñāna* in the same sentence); translated by the sense.
+[^19-1]: *Muṇḍaka Upaniṣad* 3.1.1–3.
+[^22-2]: Sources not named in the edition: *Śvetāśvatara Upaniṣad* 6.7 and 3.12; *Muṇḍaka Upaniṣad* 3.1.3; *Śrīmad-Bhāgavatam* 11.5.33–34 and 7.9.38.
+[^22-1]: *Māyāyām*, literally “in Māyā”; usually understood as Māyāpura.
