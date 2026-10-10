@@ -137,3 +137,45 @@ When Śrī Mahāprabhu went to Keśava Bhāratī to accept *sannyāsa*, His name
 Garga Mahāśaya explains to Nanda Mahārāja why Kṛṣṇa is given this name, and in doing so he speaks of His other avatāras and of His being the source of avatāras:
 
 **anu-yugam** (as befits each *yuga*) **tanūḥ gṛhṇataḥ asya** (of your son) **śuklaḥ raktaḥ tathā** (these words point to the future: in the first *sandhyā* of the Kali-yuga of the twenty-eighth *mahā-yuga* of the Vaivasvata *manvantara*) **pītaḥ** (He will be yellow) **trayaḥ varṇāḥ āsan**. **idānīṁ hi kṛṣṇatāṁ gataḥ** (has attained).
+
+## 39
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 5, verse 27)
+
+Nimi, the king of Videha, asked at what time and in what way the avatāras of Bhagavān descend. In reply, one of the nine Yogendras, Śrī Karabhājana, described the avatāras of Satya and Tretā and then speaks of the avatāra of Dvāpara:
+
+**dvāpare bhagavān śyāmaḥ pīta-vāsāḥ** (He whose garments are yellow) **nijāyudhaḥ** (He who bears His own weapons — the club, the disc and the rest) **śrī-vatsādibhiḥ aṅkaiḥ** (by marks on His body) **lakṣaṇaiḥ** (and by external signs, such as the Kaustubha) **upalakṣitaḥ**.
+
+## 40
+
+> Subheading: The marks of the avatāra of the age of Kali —
+
+In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites this evidence from the *Śrī Nārāyaṇa-saṁhitā*: “In Dvāpara people worship Viṣṇu by the *Pañcarātras* alone, but in Kali Bhagavān Hari is worshipped by the name alone.” The *Kali-santaraṇa Upaniṣad* also says: “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare — these sixteen names destroy the contamination of the age of Kali. No means higher than this is found in all the Vedas.”
+
+## 42–43
+
+*Nyagrodha-parimaṇḍala*: one who is four of his own cubits tall and as many broad, that is, around, measured by his own arms, is a *mahāpuruṣa*. And He who has subdued (*nyak*) all living beings and holds them in check (*rodha*) by His own *māyā* is Viṣṇu in full, possessed of the *catur-vyūha*.
+
+## 47
+
+*Sahasra-nāma* means the thousand names of Viṣṇu, that is, the *Mahābhārata*, the *Dāna-dharma* section, Chapter 149. Śaṅkarācārya and the Vaiṣṇava ācāryas down to Śrī Baladeva Vidyābhūṣaṇa have written commentaries on this text.
+
+## 48
+
+*Ādi*, the first: the householder pastimes (the first 24 years); *śeṣa*, the last: the pastimes of *sannyāsa* (the last 24 years). See verses 32–34. “Four names each”: these are given in the next verse, 49.
+
+## 49
+
+> Subheading: (*Mahābhārata*, *Dāna-dharma*, Chapter 149, *Sahasra-nāma*, 92 and 95)
+
+**suvarṇa-varṇaḥ** (He whose color is yellow, like the color of gold) **hemāṅgaḥ** (He whose body is like gold) **varāṅgaḥ** (He whose body bears the marks of a *mahāpuruṣa*) **candanāṅgadī** (He whose armlets are anointed with sandal) (these are four names of Bhagavān Gauracandra in His first pastimes). **sannyāsa-kṛt** (devoted to the duty of a renunciant) **śamaḥ** (free from sense objects) **śāntaḥ** (He whose mind is fixed on Kṛṣṇa alone) **niṣṭhā-śānti-parāyaṇaḥ** (*niṣṭhā* is one-pointedness of mind, and there is *śānti*; *niṣṭhā* and *śānti* are His highest shelter) (the *Sahasra-nāma* also cites these four names of Bhagavān Gaurahari in His last pastimes).
+
+In Śrī Baladeva Vidyābhūṣaṇa's commentary on the *Viṣṇu-sahasra-nāma*, called *Nāmārtha-sudhā*, it is said: “*Suvarṇa-varṇa*: ‘His color, that is, His form, is like gold,’ according to the Śruti: ‘When the seer sees the golden Creator, the Lord, the Puruṣa, the source of Brahman.’[^49-1] *Hemāṅga*: ‘His limbs, the bearers of color, are as desirable as gold.’ *Varāṅga*: ‘His limbs are excellent, that is, full of beauty.’ *Candanāṅgadī*: ‘His armlets (*aṅgada*) are *candana*, that is, they gladden the hearts of the devotees.’ Some apply these four names, beginning with *suvarṇa-varṇa*, to His form as Kṛṣṇa Caitanya. Now, with six names, the verse points to His being Kṛṣṇa Caitanya. *Sannyāsa-kṛt*: ‘He who performs *sannyāsa*, the life of a wandering renunciant.’ *Śama*: ‘He who reflects (*śamayati*) on the secret of Hari’; the root *śam* in the sense of ‘to reflect’ belongs to the tenth class. *Śānta*: ‘He who has withdrawn (*śāmyati*) from everything other than Kṛṣṇa.’ *Niṣṭhā*: ‘That in which the sacrifices of devotion abide (*nitiṣṭhanti*), the chief of which is *hari-kīrtana*’ — for the *smṛti* says, ‘*kṛṣṇa-varṇaṁ tviṣākṛṣṇam*.’[^49-2] *Śānti*: ‘That by which the opponents of devotion, headed by the followers of *kevalādvaita*, are subdued.’ *Parāyaṇa*: ‘The highest shelter of all kinds of *bhāva*, up to *mahābhāva*.’”
+
+## 51
+
+> Subheading: The *saṅkīrtana* of Kṛṣṇa's name is the *dharma* of the age (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 5, verse 32) —
+
+“In which *yuga* and in what way does Bhagavān descend?” In answer to this question of King Nimi, Śrī Karabhājana speaks of the source of avatāras in the age of Kali and of how He is worshipped:
+
+**su-medhasaḥ** (the intelligent) **tviṣā** (by His luster) **akṛṣṇam** (golden like lightning — the third color, yellow, which remains after white and red) **kṛṣṇa-varṇam** (Him who describes, who sings of Kṛṣṇa; or, Him in whom are these two syllables, “Kṛṣ-ṇa”) **sāṅgopāṅgāstra-pārṣadam** (together with His limbs [*aṅgas*] — Nityānanda and Advaita; His subsidiary parts [*upāṅgas*] — Śrīvāsa and the other devotees; His weapons [*astras*] — the holy name of Hari and so on; and His associates [*pārṣadas*] — Gadādhara, Dāmodara Svarūpa and others) **saṅkīrtana-prāyaiḥ** (by singing *hari-kathā* and the names when many people gather together) **yajñaiḥ** **yajanti**.

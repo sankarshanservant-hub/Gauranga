@@ -83,3 +83,11 @@ Garga Mahāśaya knew that Śrī Kṛṣṇa Caitanya is the avatāra of the age
 ## 39
 
 In the Dvāpara-yuga Bhagavān is marked in this way: He is dark in color, wears yellow garments, holds His own weapons — the flute and the rest — and bears the Śrīvatsa and other marks.
+
+## 43
+
+He whose height equals four of his own cubits, measured by the length and span of his arms, is famed as a *mahāpuruṣa*, and his name is *nyagrodha-parimaṇḍala*.
+
+## 49
+
+A golden color, a body like molten gold, a form beautiful in every limb, adornment with sandal and garlands — these four marks are seen in His pastimes as a householder. [In His pastimes of *sannyāsa* He is] a *sannyāsī*; He possesses the quality of *śama*, which consists in reflecting on the secrets of Hari; He is firmly fixed in the great sacrifice of *hari-kīrtana*; and He is wholly devoted to *mahābhāva*, attained through *śānti* — the *śānti* that silences the non-devotees who hold to *kevalādvaita*, pure monism.
