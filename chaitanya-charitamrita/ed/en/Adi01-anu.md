@@ -262,7 +262,7 @@ There are wise devotees (*paṇḍitas*) who know that everything arises and act
 - **tam buddhi-yogam dadāmi** — I give that *buddhi-yoga*, that is, I Myself awaken it in the movements of their hearts.
 - **yena te mām upayānti** — by which they attain Me.
 
-(The sense: this *buddhi-yoga* cannot be gained by oneself or from anyone else; I alone give it, and only from Me can it be received.)
+(The sense: this *buddhi-yoga* cannot be gained by oneself or from anyone else; I alone can give it, and only they, such devotees, can receive it.)
 
 ## 51
 
