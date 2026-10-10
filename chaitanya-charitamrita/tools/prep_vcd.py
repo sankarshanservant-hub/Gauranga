@@ -42,6 +42,10 @@ def norm_tl(s):
 def sim(a, b): return difflib.SequenceMatcher(None, norm_tl(a), norm_tl(b)).ratio()
 
 autofix = []
+def is_bn_gap(L, a, b):
+    # два ॥N॥ подряд разделены двумя и более пустыми строками-разделителями «ᅠ» — это разные стихи, не сдвоенный
+    return sum(1 for k in range(a + 1, b) if L[k].strip() in ('\uffa0', '\u1160', 'ᅠ')) >= 2
+
 def parse(path):
     L = [l.rstrip('\n') for l in open(path, encoding='utf-8')]
     pend = [l.endswith('\xa0') for l in L]           # конец абзаца в выгрузке antiword
@@ -49,7 +53,8 @@ def parse(path):
     # группы стихов: подряд идущие ॥N॥, между которыми только бенгальские строки
     groups = []
     for i in vend:
-        if groups and all(has_bn(L[k]) and not has_cyr(L[k]) for k in range(groups[-1][-1] + 1, i)):
+        if groups and all((has_bn(L[k]) and not has_cyr(L[k])) or is_sep(L[k]) for k in range(groups[-1][-1] + 1, i)) \
+                and any(has_bn(L[k]) for k in range(groups[-1][-1] + 1, i)) and not is_bn_gap(L, groups[-1][-1], i):
             groups[-1].append(i)
         else: groups.append([i])
     blocks = []
@@ -80,6 +85,7 @@ def parse(path):
         bn = []
         cur = []
         for i in range(b['start'], b['ends'][-1] + 1):
+            if is_sep(L[i]): continue
             cur.append(L[i])
             m = VEND.search(L[i])
             if m and i in b['ends']:
@@ -119,23 +125,28 @@ def split_body(v, vb):
     """body -> пары (транслит, пословный) + пояснения к словам (удаляются)"""
     exp = []
     for n in v['nums']: exp += vb_lines(vb, n)
-    lines = [l for l in v['body'] if not is_sep(l)]
-    pairs, gloss, k = [], [], 0
+    lines = [re.sub(r' {2,}', '  ', re.sub('[' + JUNK + ']', ' ', l)).strip() for l in v['body'] if not is_sep(l)]
+    pairs, gloss = [], []
     tlwords = set()
     for x in exp: tlwords |= {norm_tl(w) for w in re.split(r'[\s\-—,]+', x) if w}
-    for idx, l in enumerate(lines):
-        if gloss or (k >= len(exp) and pairs and pairs[-1][1] is not None):
-            gloss.append(l); continue
-        if k < len(exp) and sim(l, exp[k]) > 0.6:
-            pairs.append([squash(l), None]); k += 1; continue
-        left = l.split(' — ')[0] if ' — ' in l else None
-        if left is not None and pairs and all(norm_tl(w) in tlwords or norm_tl(w) == '' for w in re.split(r'[\s\-,]+', left) if w) \
-                and any(unicodedata.combining(c) or c == 'й' for c in left):
-            gloss.append(l); continue
-        if pairs and pairs[-1][1] is None:
-            pairs[-1][1] = squash(l); continue
-        # строка без пары: возможно, транслитерация, сильно отличающаяся от vedabase
-        pairs.append([squash(l), None]); k += 1
+    TLM = '\u0301\u0303\u0304\u0307\u0310\u0323'
+    RUS = set('ыьъюяёщцфЫЬЪЮЯЁЩЦФ')
+    def tlish(t): return any(c in TLM for c in t) and not any(c in RUS for c in t)
+    def is_tl(l):
+        return tlish(l) or (exp and max(sim(l, e) for e in exp) > 0.7)
+    def is_gloss(l):
+        if ' — ' not in l: return False
+        left, right = l.split(' — ', 1)
+        lw = [w for w in re.split(r'[\s\-,;]+', left) if w]
+        return bool(lw) and (any(c in TLM for c in left) or all(norm_tl(w) in tlwords for w in lw)) \
+            and any(c in RUS for c in right) and not any(c in RUS for c in left)
+    for l in lines:
+        if gloss: gloss.append(l); continue
+        if pairs and pairs[-1][1] is not None and is_gloss(l): gloss.append(l); continue
+        if is_tl(l): pairs.append([squash(l), None]); continue
+        if pairs and pairs[-1][1] is None: pairs[-1][1] = squash(l); continue
+        if pairs: pairs[-1][1] += '  ' + squash(l); continue    # перенос строки пословного в .doc
+        gloss.append(l)
     return pairs, gloss, exp
 
 # Ссылки на шастры: у ВЧД «[ШБ, 11.2.40]» -> как в изданиях писаний «(Шримад-Бхагаватам, 11.2.40)»
@@ -192,6 +203,13 @@ def run(chap):
     for v in verses:
         nums = v['nums']
         lab = '%d' % nums[0] if len(nums) == 1 else '%d–%d' % (nums[0], nums[-1])
+        if nums[0] != expect and len(nums) == 1:
+            mt = PNUM.match(join_wrapped(v['tr_raw']))
+            if mt and int(mt.group(1)) == expect:     # у ВЧД номер стиха повторён (напр. Ади 1.34 = шлока 1.1)
+                old_n = nums[0]; nums[0] = expect
+                v['bn_raw'][0][-1] = VEND.sub('॥ %s ॥' % bnum(expect), v['bn_raw'][0][-1])
+                autofix.append((expect, 'bn', 'номер ॥ %s ॥ (повтор шлоки)' % bnum(old_n), '॥ %s ॥' % bnum(expect)))
+                lab = str(expect)
         if nums[0] != expect: warn.append('нумерация: перед ॥%d॥ ожидался %d' % (nums[0], expect))
         expect = nums[-1] + 1
         for x in v['bn_raw'] + [v['body'], v['tr_raw']]:

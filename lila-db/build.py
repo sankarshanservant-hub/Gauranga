@@ -43,10 +43,18 @@ _labels = {}
 
 
 def labels(path):
-    """[(метка стиха, номер строки)] в файле перевода: строки вида **N.**"""
+    """[(метка стиха, номер строки)] в файле перевода: строки вида **N.** или «(N) …» (ЧЧ)"""
     if path not in _labels:
         f = os.path.join(ROOT, path)
-        _labels[path] = [(m.group(1), i + 1) for i, l in enumerate(open(f, encoding='utf-8')) if (m := re.match(r'^\*\*([^*]+?)\.\*\*', l))] if os.path.exists(f) else None
+        if not os.path.exists(f): _labels[path] = None; return None
+        out = []
+        for i, l in enumerate(open(f, encoding='utf-8')):
+            if (m := re.match(r'^\*\*([^*]+?)\.\*\*', l)): out.append((m.group(1), i + 1))
+            elif (m := re.match(r'^\((\d+)(?:[–-](\d+))?\) ', l)):     # «Чайтанья-чаритамрита»: «(N) перевод», «(18–19) …»
+                a, b = int(m.group(1)), int(m.group(2) or m.group(1))
+                out += [(str(n), i + 1) for n in range(a, b + 1)]
+                if b > a: out.append(('%d–%d' % (a, b), i + 1))
+        _labels[path] = out
     return _labels[path]
 
 
