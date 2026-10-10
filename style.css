@@ -1,0 +1,429 @@
+/* Тёмная комната со свечой; горизонтальный свиток-лента по центру, окно чтения — вертикальный свиток справа.
+   Одна тема (тёплая тёмная) — сознательно, как на макете. */
+:root {
+  color-scheme: dark;
+  --room: #140d07;            /* темнота комнаты */
+  --ink: #3b2412;             /* чернила на бумаге */
+  --ink-soft: #6b4a2b;        /* вторичный текст на бумаге */
+  --sepia: #8a5a2b;           /* орнамент, рамки, номера */
+  --gold: #e9c27a;            /* бронза, текст на тёмном */
+  --flame: 255, 178, 92;      /* свет свечи (rgb) */
+  --paper-hi: rgba(255, 238, 200, .55);
+  --display: "Cormorant Garamond", "EB Garamond", Georgia, "Times New Roman", serif;
+  --body: "EB Garamond", Georgia, "Times New Roman", serif;
+  --deva: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", serif;
+  --beng: "Noto Serif Bengali", "Kohinoor Bangla", serif;
+  /* Раскладка как на макете: пейзаж — полосой сверху, рваный верхний край ленты лежит прямо на нём;
+     комната (стол, свеча, книги) видна под лентой. */
+  --top: clamp(140px, 17vh, 162px);   /* высота шапки: название, подпись, под ними музыка и язык */
+  --rh: clamp(380px, 74vh, 740px);    /* высота ленты (картинка; бумага — 9–89% её высоты) */
+  --ribbon-top: calc(var(--top) - var(--rh) * .06);
+  --paper-bottom: calc(var(--ribbon-top) + var(--rh) * .89);
+  /* комната (стол с книгами): верх книг — 53% высоты картинки, низ — 81%, край стола — 83%.
+     Верхний край книг чуть заходит под ленту; под ней целиком видны корешки и край стола. */
+  --room-h: min(calc(100vw * 941 / 1672), calc((100vh - var(--paper-bottom)) / .29));
+  --room-w: calc(var(--room-h) * 1672 / 941);
+  /* пейзаж: от верхушек куполов (17% высоты картинки) до воды Ганги (85%) — в полосе над лентой */
+  --land-h: calc((var(--top) + var(--rh) * .03) / .68);
+  --rw: min(560px, 100vw);             /* ширина окна-свитка */
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: var(--room);
+  color: var(--gold);
+  font: 17px/1.5 var(--body);
+  overflow-x: hidden;
+  display: flex; flex-direction: column;
+}
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+/* ——— комната и пейзаж ——— */
+.room {
+  position: fixed; left: 0; z-index: 0; pointer-events: none;
+  top: calc(var(--paper-bottom) - var(--room-h) * .545);
+  width: var(--room-w); height: var(--room-h);
+  background: url("assets/img/bg-desk.jpg") center top / 100% 100% no-repeat;
+  /* сверху и справа картинка растворяется в темноте комнаты */
+  -webkit-mask-image: linear-gradient(transparent, #000 22%), linear-gradient(90deg, #000 72%, transparent);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(transparent, #000 22%), linear-gradient(90deg, #000 72%, transparent);
+  mask-composite: intersect;
+}
+.room::after { /* стол продолжается вправо до края экрана */
+  content: ""; position: absolute; top: 0; bottom: 0; left: 100%; width: calc(100vw - var(--room-w));
+  background: linear-gradient(transparent 60%, rgba(40, 22, 10, .5) 78%, rgba(30, 16, 7, .8));
+}
+/* Пейзаж — панорама Навадвипы (две картинки пользователя, склеены без шва; соотношение 3208:724).
+   Прижата к правому краю; левый край панорамы плавно уходит в темноту; снизу растворяется под ленту;
+   под названием — мягкая вуаль. (Вариант, утверждённый пользователем 2026-10-10.) */
+.landscape {
+  position: absolute; top: calc(var(--land-h) * -.17); right: 0; z-index: 0; pointer-events: none;
+  height: calc(var(--land-h) * 1.08); width: max(100%, calc(var(--land-h) * 4.43));
+  background: url("assets/img/header-panorama.jpg") right top / calc(var(--land-h) * 4.43) var(--land-h) no-repeat;
+  -webkit-mask-image: linear-gradient(90deg, transparent calc(100% - var(--land-h) * 4.43), #000 calc(100% - var(--land-h) * 3.1)), linear-gradient(#000 46%, transparent 92%);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(90deg, transparent calc(100% - var(--land-h) * 4.43), #000 calc(100% - var(--land-h) * 3.1)), linear-gradient(#000 46%, transparent 92%);
+  mask-composite: intersect;
+}
+.landscape::after { /* мягкая вуаль под названием, чтобы текст читался */
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, rgba(20, 13, 7, .7) 0, rgba(20, 13, 7, .45) 22%, rgba(20, 13, 7, .1) 42%, transparent 55%);
+}
+
+/* ——— свет ——— */
+.light { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+.light__candle, .light__sun { position: absolute; border-radius: 50%; }
+.light__candle { /* ровный тёплый свет над книгами, без мерцания */
+  left: calc(14vw - 35vmax); top: calc(var(--paper-bottom) + 4vh - 35vmax); width: 70vmax; height: 70vmax;
+  background: radial-gradient(circle, rgba(var(--flame), .22), rgba(var(--flame), .07) 40%, transparent 66%);
+}
+.light__sun {
+  right: -20vmax; top: -30vmax; width: 70vmax; height: 60vmax;
+  background: radial-gradient(circle, rgba(255, 196, 120, .30), transparent 62%);
+}
+
+/* ——— шапка ——— */
+.top {
+  position: relative; z-index: 2;
+  display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: flex-start; gap: 12px clamp(20px, 3vw, 44px);
+  align-content: flex-start;
+  height: var(--top); padding: 16px max(16px, 3vw) 0;
+}
+.top__brand { display: flex; align-items: flex-start; gap: 14px; min-width: 0; }
+.top__lotus { width: 52px; height: 52px; flex: none; color: var(--gold); filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .6)); }
+.top__title {
+  margin: 0; font: 600 clamp(28px, 4vw, 44px)/1 var(--display); letter-spacing: .01em;
+  color: #f6dfae; text-shadow: 0 2px 10px rgba(0, 0, 0, .7), 0 0 24px rgba(var(--flame), .35);
+}
+.top__sub { margin: 4px 0 0; font: italic 500 clamp(15px, 1.6vw, 19px)/1.2 var(--display); color: #f1d9a8; text-shadow: 0 1px 6px rgba(0, 0, 0, .8); }
+.jump { margin-top: 10px; flex: 1 1 190px; max-width: 360px; } /* на уровне названия; на узком окне сужается, не переносится */
+.jump select { width: 100%; }
+.corner { /* язык и музыка — под названием */
+  display: flex; align-items: center; gap: 8px; margin-top: 8px;
+}
+.corner .music { width: 32px; height: 32px; }
+.corner .music svg { width: 17px; height: 17px; }
+.corner .lang button { padding: 4px 10px; font-size: 13px; }
+.jump select {
+  max-width: min(78vw, 360px);
+  appearance: none; -webkit-appearance: none;
+  font: 16px var(--body); color: #f6e3bd;
+  background: rgba(30, 18, 9, .72) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23e9c27a' fill='none' stroke-width='1.6'/%3E%3C/svg%3E") right 12px center no-repeat;
+  border: 1px solid rgba(233, 194, 122, .45); border-radius: 999px;
+  padding: 8px 36px 8px 16px;
+  backdrop-filter: blur(4px);
+}
+.jump option, .jump optgroup { background: #2a1a0c; color: #f6e3bd; }
+.music {
+  width: 38px; height: 38px; display: grid; place-items: center; padding: 0;
+  border: 1px solid rgba(233, 194, 122, .45); border-radius: 50%; background: rgba(30, 18, 9, .72); color: var(--gold);
+}
+.music svg { width: 20px; height: 20px; }
+.music[aria-pressed="true"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; box-shadow: 0 0 14px rgba(var(--flame), .55); }
+.music[aria-pressed="true"] .music__off { display: none; }
+.lang { display: flex; border: 1px solid rgba(233, 194, 122, .45); border-radius: 999px; overflow: hidden; background: rgba(30, 18, 9, .72); }
+.lang button { border: 0; background: none; padding: 7px 12px; font-size: 14px; letter-spacing: .08em; }
+.lang button[aria-pressed="true"] { background: rgba(233, 194, 122, .9); color: #2a1a0c; }
+
+main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; }
+.band { margin-top: calc(var(--rh) * -.06); }
+.foot {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 1;
+  display: grid; gap: 4px; justify-items: center; padding: 0 16px 10px;
+  text-shadow: 0 1px 4px #000, 0 0 12px #000;
+}
+
+/* ——— лента ——— */
+.band { position: relative; }
+.ribbon {
+  overflow-x: auto; overflow-y: hidden;
+  scrollbar-width: none;
+  scroll-snap-type: x proximity;
+  cursor: grab;
+  outline: none;
+  filter: drop-shadow(16px 26px 22px rgba(0, 0, 0, .6)) drop-shadow(2px 3px 2px rgba(0, 0, 0, .35));
+}
+.ribbon::-webkit-scrollbar { display: none; }
+.ribbon.is-drag { cursor: grabbing; scroll-snap-type: none; }
+.ribbon__track { display: flex; width: max-content; height: var(--rh); }
+.cap { flex: none; height: 100%; width: calc(var(--rh) * .929); background: center / 100% 100% no-repeat; }
+.cap--start { background-image: url("assets/img/ribbon-start.webp"); }
+.cap--end { background-image: url("assets/img/ribbon-end.webp"); }
+.paper {
+  flex: none; height: 100%;
+  display: flex; align-items: stretch; gap: clamp(8px, 2vw, 28px);
+  padding: calc(var(--rh) * .2) clamp(12px, 2vw, 32px) calc(var(--rh) * .2);
+  margin-inline: -2px;
+  background: url("assets/img/ribbon-tile.webp") left top / auto 100% repeat-x;
+}
+.cap--start + .paper { padding-left: 0; }
+.cap--start { margin-right: -1px; }
+
+/* эпизод: медальон + название; раскрытый эпизод ведёт за собой главу из лил */
+.episode {
+  position: relative; flex: none;
+  width: clamp(190px, 17vw, 230px);
+  display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 6px;
+  color: var(--ink); text-align: center; cursor: pointer;
+  scroll-snap-align: center;
+}
+.episode::before {
+  content: ""; position: absolute; inset: -12% -18%;
+  background: radial-gradient(closest-side, rgba(255, 228, 160, .5), rgba(255, 210, 130, .15) 60%, transparent);
+  opacity: 0; transition: opacity .5s; pointer-events: none;
+}
+.episode.is-center::before, .episode.is-open::before { opacity: 1; }
+.episode__name {
+  display: block; width: 100%; border: 0; background: none; padding: 2px 4px;
+  font: 600 clamp(20px, 1.9vw, 24px)/1.08 var(--display); color: var(--ink); text-wrap: balance;
+}
+.episode:hover .episode__name, .episode.is-open .episode__name { color: #7a3d0e; }
+.episode__more { margin: 3px 0 0; font: italic 15px/1.2 var(--display); color: var(--sepia); }
+.episode__more span { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.ph { width: 74%; max-height: 100%; aspect-ratio: 1; color: var(--sepia); opacity: .55; }
+.ph--ep { width: 88%; opacity: .8; }
+.episode.is-open .ph--ep { color: #7a3d0e; opacity: .95; }
+
+.chapter {
+  flex: none; position: relative;
+  display: flex; align-items: stretch; gap: clamp(8px, 2vw, 28px);
+  padding-inline: clamp(14px, 1.6vw, 24px);
+}
+.chapter::before, .chapter::after { /* тонкие скобки главы */
+  content: ""; position: absolute; top: 4%; bottom: 4%; width: 10px;
+  border: 1px solid rgba(138, 90, 43, .55);
+}
+.chapter::before { left: 0; border-right: 0; }
+.chapter::after { right: 0; border-left: 0; }
+
+.card {
+  position: relative; flex: none;
+  width: clamp(200px, 20vw, 250px);
+  display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 6px;
+  color: var(--ink);
+  scroll-snap-align: center;
+  transition: width .45s cubic-bezier(.2, .7, .2, 1);
+}
+.card::before { /* пятно света на бумаге за активной лилой */
+  content: ""; position: absolute; inset: -12% -18%;
+  background: radial-gradient(closest-side, rgba(255, 228, 160, .55), rgba(255, 210, 130, .18) 60%, transparent);
+  opacity: 0; transition: opacity .5s; pointer-events: none;
+}
+.card.is-center::before, .card.is-open::before { opacity: 1; }
+.card__fig { position: relative; margin: 0; min-height: 0; display: grid; place-items: center; }
+.card__fig img { /* иллюстрации — с прозрачным фоном, лежат прямо на бумаге и отбрасывают лёгкую тень */
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain;
+  filter: drop-shadow(3px 5px 6px rgba(70, 40, 10, .28));
+  user-select: none; -webkit-user-drag: none;
+}
+.card__cap { text-align: center; }
+.card__name {
+  display: block; width: 100%; border: 0; background: none; padding: 2px 4px;
+  font: 600 clamp(18px, 1.7vw, 21px)/1.12 var(--display); color: var(--ink); text-wrap: balance;
+}
+.card__name:hover, .card.is-open .card__name { color: #7a3d0e; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.card__when { margin: 3px 0 0; font: 15px/1.25 var(--body); color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.card__count { margin: 2px 0 0; font: italic 14px/1.2 var(--display); color: var(--sepia); }
+
+/* раскрытая лила: справа от картинки — писания */
+.card.is-open { width: clamp(300px, 52vw, 720px); grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) auto; column-gap: 16px; }
+.card.is-open .card__fig { grid-row: 1; grid-column: 1; }
+.card.is-open .card__cap { grid-row: 2; grid-column: 1; }
+.books { display: none; }
+.card.is-open .books {
+  display: flex; flex-direction: column; gap: 4px;
+  grid-row: 1 / span 2; grid-column: 2; align-self: stretch; justify-content: safe center;
+  margin: 0; padding: 2px 4px 2px 0; list-style: none;
+  min-height: 0; overflow-y: auto; scrollbar-width: thin; scrollbar-color: rgba(138, 90, 43, .5) transparent;
+}
+.book {
+  display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 0 8px;
+  width: 100%; text-align: left;
+  border: 1px solid rgba(138, 90, 43, .35); border-radius: 6px;
+  background: linear-gradient(rgba(255, 245, 220, .55), rgba(240, 215, 165, .45));
+  padding: 3px 10px 3px 5px; color: var(--ink);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 1px 2px 3px rgba(80, 45, 10, .18);
+  transition: background .2s, transform .2s;
+}
+.book:hover { background: linear-gradient(rgba(255, 248, 228, .9), rgba(246, 222, 172, .8)); transform: translateX(2px); }
+.book[aria-current="true"] { background: #5a3416; color: #f8e6c2; border-color: #5a3416; }
+.book[aria-current="true"] .book__author { color: #e4c99a; }
+.book__t { font: 600 16px/1.1 var(--display); }
+.book__author { grid-column: 2; font: 12.5px/1.15 var(--body); color: var(--ink-soft); }
+.auth {
+  grid-row: span 2; display: inline-grid; place-items: center;
+  width: 20px; height: 20px; border-radius: 50%;
+  font: 600 12px/1 var(--body); color: #fff6e2;
+}
+.auth--A { background: #6d4512; }
+.auth--B { background: #8d6326; }
+.auth--C { background: #a88a5c; }
+.auth--D { background: #b9ab93; color: #3b2412; }
+
+.mbooks { display: none; }
+
+.band__arrow {
+  position: absolute; top: 50%; translate: 0 -50%; z-index: 3;
+  width: 44px; height: 44px; border-radius: 50%;
+  border: 1px solid rgba(233, 194, 122, .6); background: rgba(30, 18, 9, .78);
+  font: 28px/1 var(--display); color: var(--gold);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, .5);
+}
+.band__arrow--prev { left: 10px; }
+.band__arrow--next { right: 10px; }
+.band__arrow:hover { background: rgba(70, 42, 18, .9); }
+
+.hint { margin: 0; max-width: 70ch; text-align: center; font: italic 15px/1.35 var(--display); color: #e9cf9e; }
+.legend {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 16px;
+  margin: 0; font: 13.5px/1.4 var(--body); color: #dcc093;
+}
+.legend > span { display: inline-flex; align-items: center; gap: 6px; }
+.legend .auth { width: 18px; height: 18px; font-size: 11px; }
+
+/* ——— окно чтения: вертикальный свиток ——— */
+.reader { position: fixed; z-index: 10; top: 0; right: 0; bottom: 0; width: var(--rw); padding-block: 6px; pointer-events: none; }
+.reader__glow {
+  position: absolute; inset: -20% -30% -20% -60%;
+  background: radial-gradient(closest-side, rgba(var(--flame), .36), rgba(var(--flame), .1) 55%, transparent);
+  pointer-events: none;
+}
+.scroll {
+  position: relative; height: 100%;
+  display: flex; flex-direction: column;
+  pointer-events: auto;
+  color: var(--ink);
+  filter: drop-shadow(-20px 26px 26px rgba(0, 0, 0, .65)) drop-shadow(-2px 3px 3px rgba(0, 0, 0, .4));
+  animation: unroll .55s cubic-bezier(.2, .7, .2, 1);
+}
+/* Свиток неподвижен: середина (повтор) + верх и низ со скалками собраны по высоте окна; листается только текст */
+.scroll::before, .scroll::after { content: ""; position: absolute; left: 0; right: 0; pointer-events: none; }
+.scroll::before {
+  top: calc(var(--rw) * .40); bottom: calc(var(--rw) * .33); z-index: 0;
+  background: url("assets/img/vscroll-middle.webp") center top / 100% auto repeat-y;
+}
+.scroll::after {
+  top: 0; bottom: 0; z-index: 1;
+  background:
+    url("assets/img/vscroll-top.webp") center top / 100% auto no-repeat,
+    url("assets/img/vscroll-bottom.webp") center bottom / 100% auto no-repeat;
+}
+.scroll > * { position: relative; z-index: 2; }
+@keyframes unroll { from { clip-path: inset(0 0 92% 0); opacity: .4; } to { clip-path: inset(0 0 0 0); opacity: 1; } }
+/* бумага занимает 9.5–90% ширины картинок; текст — внутри внутренних линий */
+.scroll__head, .scroll__body, .scroll__foot { padding-inline: calc(var(--rw) * .17); }
+.scroll__head { flex: none; text-align: center; padding-top: calc(var(--rw) * .27); padding-bottom: 8px; }
+.scroll__close {
+  position: absolute; top: calc(var(--rw) * .2); right: calc(var(--rw) * .14);
+  width: 34px; height: 34px; border-radius: 50%;
+  border: 1px solid rgba(138, 90, 43, .45); background: rgba(255, 245, 220, .6);
+  font: 22px/1 var(--display); color: var(--ink);
+}
+.scroll__lila { margin: 4px 0 0; font: italic 15px/1.3 var(--display); color: var(--ink-soft); text-wrap: balance; padding-inline: 30px; }
+.scroll__title { margin: 2px 0 0; font: 600 clamp(22px, 3vw, 27px)/1.1 var(--display); text-wrap: balance; }
+.scroll__author { margin: 2px 0 10px; font: 15px/1.3 var(--body); color: var(--ink-soft); }
+.layers { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; }
+.layers button {
+  border: 1px solid rgba(138, 90, 43, .45); border-radius: 6px;
+  background: rgba(255, 246, 225, .55); padding: 3px 10px; font-size: 15px; color: var(--ink);
+}
+.layers button[aria-pressed="true"] { background: #6b3f17; border-color: #6b3f17; color: #fbecc9; box-shadow: 0 2px 6px rgba(80, 40, 5, .35); }
+.layers button:disabled { opacity: .35; cursor: not-allowed; }
+
+.scroll__body {
+  flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain;
+  padding-top: 14px; padding-bottom: 22px;
+  scrollbar-width: thin; scrollbar-color: rgba(138, 90, 43, .5) transparent;
+  /* текст мягко уходит под край, бумага при этом стоит */
+  -webkit-mask-image: linear-gradient(transparent, #000 16px, #000 calc(100% - 22px), transparent);
+  mask-image: linear-gradient(transparent, #000 16px, #000 calc(100% - 22px), transparent);
+}
+.scroll__foot {
+  flex: none; display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  padding-top: 4px; padding-bottom: calc(var(--rw) * .26);
+}
+.scroll__nav { width: 36px; height: 36px; border-radius: 50%; border: 1px solid rgba(138, 90, 43, .45); background: rgba(255, 245, 220, .6); color: var(--ink); font-size: 18px; flex: none; }
+.scroll__nav:disabled { opacity: .3; cursor: default; }
+.scroll__ref { flex: 1; min-width: 0; text-align: center; font: italic 14px/1.25 var(--display); color: var(--ink-soft); }
+
+.passage + .passage { margin-top: 26px; }
+.scroll__msg { text-align: center; font: italic 17px/1.4 var(--display); color: var(--ink-soft); margin-top: 24px; }
+.passage__head { text-align: center; margin: 4px 0 10px; }
+.passage__head h3 { margin: 0; font: 600 19px/1.2 var(--display); color: #5a3416; }
+.passage__head p { margin: 2px 0 0; font: 13px/1.3 var(--body); color: var(--ink-soft); }
+.passage__noen { text-align: center; font: italic 14px/1.4 var(--display); color: var(--sepia); margin: 0 0 8px; }
+.orn-line { display: block; width: 46%; height: 10px; margin: 14px auto; color: var(--sepia); opacity: .8; }
+.verse { display: grid; gap: 8px; }
+.verse__orig { text-align: center; font-size: 19px; line-height: 1.6; color: #4a2a10; }
+.verse__orig[lang="bn"] { font-family: var(--beng); font-size: 18px; }
+.verse__orig[lang="sa"] { font-family: var(--deva); }
+.verse__translit { text-align: center; font: italic 17px/1.5 var(--body); color: #5c3a1c; }
+.verse__wbw { font: 15px/1.5 var(--body); color: var(--ink-soft); }
+.verse__wbw::before { content: attr(data-label); display: block; font: italic 13px var(--display); letter-spacing: .04em; color: var(--sepia); }
+.verse__text { font: 18px/1.55 var(--body); color: var(--ink); }
+.verse__n { font: 600 15px/1 var(--display); color: var(--sepia); margin-right: 6px; font-variant-numeric: tabular-nums; }
+.verse__text sup { color: var(--sepia); font-size: 11px; }
+.verse__notes { margin: 0; padding: 8px 12px; border-left: 2px solid rgba(138, 90, 43, .5); background: rgba(255, 240, 205, .45); font: 14.5px/1.45 var(--body); color: #4f3218; }
+.verse__notes p { margin: 0; }
+.verse__notes p + p { margin-top: 6px; }
+
+@media (max-width: 700px) {
+  :root { --rh: clamp(360px, 60vh, 470px); --top: auto; }
+  .top { height: auto; padding-top: 14px; padding-bottom: calc(var(--rh) * .08); }
+  .landscape {
+    top: 0; width: 100%; height: 100%; max-height: 260px;
+    background: url("assets/img/header-panorama.jpg") 88% 35% / cover no-repeat;
+    -webkit-mask-image: linear-gradient(#000 55%, transparent); mask-image: linear-gradient(#000 55%, transparent);
+  }
+  .landscape::after { background: linear-gradient(90deg, rgba(20, 13, 7, .75), rgba(20, 13, 7, .2) 70%); }
+  .jump { flex: 1 1 100%; max-width: none; margin-top: 0; }
+
+  .band { margin-top: calc(var(--rh) * -.08); }
+  .room {
+    top: auto; bottom: 0; width: 100%; height: 52vh; background-size: cover; background-position: 4% 70%;
+    -webkit-mask-image: linear-gradient(transparent, #000 22%); mask-image: linear-gradient(transparent, #000 22%);
+  }
+  .room::after { display: none; }
+  .light__candle { left: -30vmax; top: auto; bottom: -20vmax; }
+  .foot { position: static; padding-top: 14px; }
+  .top__lotus { width: 40px; height: 40px; }
+  .band__arrow { display: none; }
+  .jump { min-width: 0; }
+  .jump select { width: 100%; max-width: none; }
+  .episode { width: 62vw; }
+  .card, .card.is-open { width: 68vw; grid-template-columns: 1fr; grid-template-rows: minmax(0, 1fr) auto; }
+  .card.is-open .books { display: none; }
+  .mbooks:not(:empty) {
+    display: grid; gap: 6px; margin: 14px 16px 0; padding: 0; list-style: none;
+  }
+  .mbooks .book { padding-block: 6px; }
+  .reader { padding-block: 0; }
+  /* окно чтения на телефоне: больше места тексту — без даты и возраста, кнопки меньше,
+     шапка и нижняя навигация ближе к скалкам, поля чуть уже */
+  .scroll__when { display: none; }
+  .scroll__head, .scroll__body, .scroll__foot { padding-inline: calc(var(--rw) * .155); }
+  .scroll__head { padding-top: calc(var(--rw) * .245); padding-bottom: 4px; } /* сразу под лотосом орнамента */
+  .scroll__close { top: calc(var(--rw) * .17); width: 30px; height: 30px; font-size: 19px; }
+  .scroll__lila { font-size: 14px; margin-top: 0; }
+  .scroll__title { font-size: 21px; }
+  .scroll__author { font-size: 14px; margin-bottom: 6px; }
+  .layers { gap: 4px; }
+  .layers button { font-size: 13px; padding: 1px 7px; border-radius: 5px; }
+  .scroll__body { padding-top: 8px; padding-bottom: 14px; }
+  .scroll__foot { padding-bottom: calc(var(--rw) * .2); }
+  .scroll__nav { width: 32px; height: 32px; font-size: 16px; }
+  .verse__text { font-size: 17px; }
+}
+
+/* на широком экране свиток опускается под кнопки шапки, как на макете */
+@media (min-width: 701px) { .reader { top: 12px; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll { animation: none; }
+  .card { transition: none; }
+}
