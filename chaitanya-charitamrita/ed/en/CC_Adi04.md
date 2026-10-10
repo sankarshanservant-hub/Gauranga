@@ -308,43 +308,55 @@ of the two  by the beauty and qualities  of the two  always  steals  the mind
 কভু মিলে, কভু না মিলে, — দৈবের ঘটন ॥ ৩১ ॥
 
 dharma chāḍi’ rāge duṅhe karaye milana  
-kabhu mile, kabhu nā mile, — daivera ghaṭana
+religious norms  leaving aside  out of loving attachment  the two  make  union  
+kabhu mile, kabhu nā mile, — daivera ghaṭana  
+sometimes  they meet  sometimes  not  they meet  of destiny  the arrangement
 
-(31) [not yet translated]
+(31) Setting aside religious norms, the two will unite out of loving attachment (*rāga*). Sometimes they will meet and sometimes not, as destiny arranges.
 
 এই সব রসনির্য্যাস করিব আস্বাদ ৷  
 এই দ্বারে করিব সব ভক্তেরে প্রসাদ ॥ ৩২ ॥
 
 ei saba rasa-niryāsa kariba āsvāda  
-ei dvāre kariba saba bhaktere prasāda
+these  all  of rasa  the essence  I shall make  tasting  
+ei dvāre kariba saba bhaktere prasāda  
+by this  means  I shall show  to all  devotees  mercy
 
-(32) [not yet translated]
+(32) I shall taste the very essence of all these *rasas*, and in this way I shall bestow mercy on all devotees.
 
 ব্রজের নির্ম্মল রাগ শুনি’ ভক্তগণ ৷  
 রাগমার্গে ভজে যেন ছাড়ি’ ধর্ম্ম-কর্ম্ম ॥ ৩৩ ॥
 
 vrajera nirmala rāga śuni’ bhakta-gaṇa  
-rāga-mārge bhaje yena chāḍi’ dharma-karma
+of Vraja  the pure  love  hearing  the devotees  
+rāga-mārge bhaje yena chāḍi’ dharma-karma  
+on the path of rāga  worship  so that  giving up  religious duties and rites
 
-(33) [not yet translated]
+(33) Hearing of the pure love of Vraja, the devotees will worship Me on the path of spontaneous love, giving up religious duties and rites.”
 
 অনুগ্রহায় ভক্তানাং মানুষং দেহমাশ্রিতঃ ৷  
 ভজতে তাদৃশীঃ ক্রীড়া যাঃ শ্রুত্বা তৎপরো ভবেৎ ॥ ৩৪ ॥
 
 anugrahāya bhaktānāṁ  
+for the sake of mercy  to the devotees  
 mānuṣaṁ deham āśritaḥ  
+a human  body  having assumed  
 bhajate tādṛśīḥ krīḍā  
-yāḥ śrutvā tat-paro bhavet
+performs  such  pastimes  
+yāḥ śrutvā tat-paro bhavet  
+which  having heard  devoted to Him  one must become
 
-(34) [not yet translated]
+(34) “To show mercy to His devotees, He assumes a humanlike form and performs such pastimes that whoever hears of them must become wholly devoted to Him.” (Śrīmad-Bhāgavatam 10.33.36)
 
 ‘ভবেৎ’ ক্রিয়া বিধিলিঙ্, সেই ইহা কয় ৷  
 কর্ত্তব্য অবশ্য এই, অন্যথা প্রত্যবায় ॥ ৩৫ ॥
 
 ‘bhavet’ kriyā vidhiliṅ, sei ihā kaya  
-kartavya avaśya ei, anyathā pratyavāya
+bhavet  the verb  in the injunctive mood  that  here  says  
+kartavya avaśya ei, anyathā pratyavāya  
+a duty  certainly  this  otherwise  a fault
 
-(35) [not yet translated]
+(35) The verb *bhavet*, “must become,” is in the injunctive mood (*vidhi-liṅ*). It declares this a binding duty; to neglect it is a fault.
 
 এই বাঞ্ছা যৈছে কৃষ্ণপ্রাকট্য-কারণ ৷  
 অসুরসংহার — আনুষঙ্গ প্রয়োজন ॥ ৩৬ ॥
@@ -353,117 +365,149 @@ kartavya avaśya ei, anyathā pratyavāya
 যুগধর্ম্মপ্রবর্ত্তন নহে তাঁর কাম ॥ ৩৭ ॥
 
 ei vāñchā yaiche kṛṣṇa-prākaṭya-kāraṇa  
+this  desire  as  of Kṛṣṇa's appearance  the cause  
 asura-saṁhāra — ānuṣaṅga prayojana  
+of the demons  slaying  a secondary  purpose  
 ei mata caitanya-kṛṣṇa pūrṇa bhagavān  
-yuga-dharma-pravartana nahe tāṅra kāma
+in the same  way  Caitanya-Kṛṣṇa  the complete  Bhagavān  
+yuga-dharma-pravartana nahe tāṅra kāma  
+of the religion of the age  establishing  is not  His  desire
 
-(36–37) [not yet translated]
+(36–37) Just as this desire was the cause of Kṛṣṇa's appearance, while slaying the demons was a secondary purpose, so too Caitanya-Kṛṣṇa is the complete Bhagavān, and establishing the religion of the age is not what He Himself desires.
 
 কোন কারণে যবে হৈল অবতারে মন ৷  
 যুগধর্ম্ম-কাল হৈল সে কালে মিলন ॥ ৩৮ ॥
 
 kona kāraṇe yabe haila avatāre mana  
-yuga-dharma-kāla haila se kāle milana
+for some  reason  when  arose  to descend  the intention  
+yuga-dharma-kāla haila se kāle milana  
+of the religion of the age  the time  became  at that  time  coincident
 
-(38) [not yet translated]
+(38) When, for His own reason, He resolved to descend, the time for the religion of the age coincided with it.
 
 দুই হেতু অবতরি’ লঞা ভক্তগণ ৷  
 আপনে আস্বাদে প্রেম-নাম-সঙ্কীর্ত্তন ॥ ৩৯ ॥
 
 dui hetu avatari’ lañā bhakta-gaṇa  
-āpane āsvāde prema-nāma-saṅkīrtana
+for the two  reasons  having descended  taking  the devotees  
+āpane āsvāde prema-nāma-saṅkīrtana  
+Himself  relishes  love and  of the Name  the congregational chanting
 
-(39) [not yet translated]
+(39) For these two reasons He descended with His devotees, and Himself relished love and the congregational chanting of the Name.
 
 সেই দ্বারে আচণ্ডালে কীর্ত্তন সঞ্চারে ৷  
 নাম-প্রেমমালা গাঁথি’ পরাইল সংসারে ॥ ৪০ ॥
 
 sei dvāre ācaṇḍāle kīrtana sañcāre  
-nāma-prema-mālā gāṅthi’ parāila saṁsāre
+by that  means  even to the caṇḍālas  kīrtana  He spreads  
+nāma-prema-mālā gāṅthi’ parāila saṁsāre  
+of the Name  of love  a garland  weaving  He placed on  the world
 
-(40) [not yet translated]
+(40) In this way He spread *kīrtana* even to the outcastes (*caṇḍālas*). Weaving a garland of the Name and of love, He placed it around the neck of the whole world.
 
 এইমত ভক্তভাব করি’ অঙ্গীকার ৷  
 আপনি আচরি’ ভক্তি করিল প্রচার ॥ ৪১ ॥
 
 ei-mata bhakta-bhāva kari’ aṅgīkāra  
-āpani ācari’ bhakti karila pracāra
+in this way  of a devotee  the mood  making  acceptance  
+āpani ācari’ bhakti karila pracāra  
+Himself  practising  devotion  He made  preaching
 
-(41) [not yet translated]
+(41) Thus, accepting the mood of a devotee, He preached devotion by practising it Himself.
 
 দাস্য, সখ্য, বাৎসল্য, আর যে শৃঙ্গার ৷  
 চারি প্রেম, চতুর্বিধ ভক্তই আধার ॥ ৪২ ॥
 
 dāsya, sakhya, vātsalya, āra ye śṛṅgāra  
-cāri prema, catur-vidha bhaktai ādhāra
+servitude  friendship  parental love  and  which  amorous love  
+cāri prema, catur-vidha bhaktai ādhāra  
+four  loves  of four kinds  devotees  the vessels
 
-(42) [not yet translated]
+(42) Servitude, friendship, parental love and amorous love are the four kinds of love, and the four kinds of devotees are their vessels.
 
 নিজ নিজ ভাব সবে শ্রেষ্ঠ করি’ মানে ৷  
 নিজভাবে করে কৃষ্ণসুখ-আস্বাদনে ॥ ৪৩ ॥
 
 nija nija bhāva sabe śreṣṭha kari’ māne  
-nija-bhāve kare kṛṣṇa-sukha-āsvādane
+own  own  mood  all  the best  making  consider  
+nija-bhāve kare kṛṣṇa-sukha-āsvādane  
+in one's own mood  make  with Kṛṣṇa  of happiness  the tasting
 
-(43) [not yet translated]
+(43) Each of them considers his own mood the best, and in that mood relishes happiness with Kṛṣṇa.
 
 তটস্থ হইয়া হৃদি বিচার যদি করি ৷  
 সব রস হৈতে শৃঙ্গারে অধিক মাধুরী ॥ ৪৪ ॥
 
 taṭastha haiyā hṛdi vicāra yadi kari  
-saba rasa haite śṛṅgāre adhika mādhurī
+impartial  becoming  in the heart  consideration  if  we make  
+saba rasa haite śṛṅgāre adhika mādhurī  
+all  rasas  than  in amorous love  greater  sweetness
 
-(44) [not yet translated]
+(44) Yet if we consider the matter impartially in our hearts, amorous love holds greater sweetness than all the other *rasas*.
 
 যথোত্তরমসৌ স্বাদুবিশেষোল্লাসময়্যপি ৷  
 রতির্বাসনয়া স্বাদ্বী ভাসতে কাপি কস্যচিৎ ॥ ৪৫ ॥
 
 yathottaram asau svādu-  
+in each higher one  this  of taste  
 viśeṣollāsamayy api  
+with special  delight  full  although  
 ratir vāsanayā svādvī  
-bhāsate kāpi kasyacit
+love  by one's inclination  sweet  
+bhāsate kāpi kasyacit  
+appears  some one  to someone
 
-(45) [not yet translated]
+(45) “Although this love (*rati*) holds ever greater delight of taste in each higher *rasa*, any one of them appears sweetest to a particular devotee according to his own inclination.” (Bhakti-rasāmṛta-sindhu 2.5.38)
 
 অতএব মধুর রস কহি তার নাম ৷  
 স্বকীয়া-পরকীয়া-রূপে দ্বিবিধ সংস্থান ॥ ৪৬ ॥
 
 ataeva madhura rasa kahi tāra nāma  
-svakīyā-parakīyā-rūpe dvi-vidha saṁsthāna
+therefore  madhura  rasa  I call  its  name  
+svakīyā-parakīyā-rūpe dvi-vidha saṁsthāna  
+svakīyā  parakīyā  in the form of  two kinds  arrangement
 
-(46) [not yet translated]
+(46) Therefore I call it *madhura-rasa*, the sweet *rasa*. It takes two forms: *svakīyā*, love as one's own wife, and *parakīyā*, love as another's.
 
 পরকীয়া-ভাবে অতি রসের উল্লাস ৷  
 ব্রজ বিনা ইহার অন্যত্র নাহি বাস ॥ ৪৭ ॥
 
 parakīyā-bhāve ati rasera ullāsa  
-vraja vinā ihāra anyatra nāhi vāsa
+in the parakīyā mood  greatest  of rasa  exultation  
+vraja vinā ihāra anyatra nāhi vāsa  
+Vraja  except  its  elsewhere  not  abode
 
-(47) [not yet translated]
+(47) In the *parakīyā* mood *rasa* rises to its greatest exultation, and it dwells nowhere but in Vraja.
 
 ব্রজবধূগণের এই ভাব নিরবধি ৷  
 তার মধ্যে শ্রীরাধার ভাবের অবধি ॥ ৪৮ ॥
 
 vraja-vadhū-gaṇera ei bhāva niravadhi  
-tāra madhye śrī-rādhāra bhāvera avadhi
+of the young women of Vraja  this  mood  boundless  
+tāra madhye śrī-rādhāra bhāvera avadhi  
+among  them  of Śrī Rādhā  of the mood  the pinnacle
 
-(48) [not yet translated]
+(48) In the young women of Vraja this love is boundless, and among them Śrī Rādhā's love is its very pinnacle.
 
 প্রৌঢ়-নির্ম্মলভাব প্রেম সর্ব্বোত্তম ৷  
 কৃষ্ণের মাধুর্য্যরস-আস্বাদ-কারণ ॥ ৪৯ ॥
 
 prauḍha-nirmala-bhāva prema sarvottama  
-kṛṣṇera mādhurya-rasa-āsvāda-kāraṇa
+mature  pure  mood  love  the highest of all  
+kṛṣṇera mādhurya-rasa-āsvāda-kāraṇa  
+of Kṛṣṇa  of sweetness  of the rasa  of the tasting  the cause
 
-(49) [not yet translated]
+(49) Her mature and pure love is the highest of all; through it Kṛṣṇa's sweetness is tasted.
 
 অতএব সেই ভাব অঙ্গীকার করি’ ৷  
 সাধিলেন নিজ বাঞ্ছা গৌরাঙ্গ-শ্রীহরি ॥ ৫০ ॥
 
 ataeva sei bhāva aṅgīkāra kari’  
-sādhilena nija vāñchā gaurāṅga-śrī-hari
+therefore  that  mood  acceptance  making  
+sādhilena nija vāñchā gaurāṅga-śrī-hari  
+fulfilled  His own  desire  Gaurāṅga  Śrī Hari
 
-(50) [not yet translated]
+(50) Therefore Śrī Hari, appearing as Gaurāṅga, accepted that mood and fulfilled His own desire.
 
 সুরেশানাং দুর্গং গতিরতিশয়েনোপনিষদাং  
 মুনীনাং সর্ব্বস্বং প্রণতপটলীনাং মধুরিমা ৷  
@@ -471,11 +515,15 @@ sādhilena nija vāñchā gaurāṅga-śrī-hari
 স চৈতন্যঃ কিং মে পুনরপি দৃশোর্যাস্যতি পদম্ ॥ ৫১ ॥
 
 sureśānāṁ durgaṁ gatir atiśayenopaniṣadāṁ  
+of the lords of the gods  the fortress  the goal  supremely  of the Upaniṣads  
 munīnāṁ sarva-svaṁ praṇata-paṭalīnāṁ madhurimā  
+of the sages  the all-in-all  of those who bow  of the hosts  the sweetness  
 viniryāsaḥ premṇo nikhila-paśu-pālāmbuja-dṛśāṁ  
-sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam
+the essence  of love  of all  the cowherd maidens  lotus-eyed  
+sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam  
+that  Caitanya  will  my  again  indeed  of the eyes  reach  the range
 
-(51) [not yet translated]
+(51) “He is the fortress of the lords of the gods, the supreme goal of the Upaniṣads, the all-in-all of the sages, the sweetness of the hosts who bow to Him, and the very essence of the love of all the lotus-eyed cowherd maidens. Will that Caitanya ever again come within the range of my eyes?” (Stava-mālā, First Caitanyāṣṭaka 2)
 
 অপারং কস্যাপি প্রণয়িজনবৃন্দস্য কুতুকী  
 রসস্তোমং হৃত্বা মধুরমুপভোক্তুং কমপি যঃ ৷  
@@ -483,27 +531,35 @@ sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam
 স দেবশ্চৈতন্যাকৃতিরতিতরাং নঃ কৃপয়তু ॥ ৫২ ॥
 
 apāraṁ kasyāpi praṇayi-jana-vṛndasya kutukī  
+boundless  of a certain one  of loving  people  of the host  the playful one  
 rasa-stomaṁ hṛtvā madhuram upabhoktuṁ kam api yaḥ  
+of rasa  the wealth  taking away  sweet  to enjoy  indescribable  who  
 rucaṁ svām āvavre dyutim iha tadīyāṁ prakaṭayan  
-sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu
+complexion  His own  covered  radiance  here  Hers  manifesting  
+sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu  
+that  Lord  in the form of Caitanya  abundantly  to us  may be merciful
 
-(52) [not yet translated]
+(52) “Playful by nature, He wished to take for Himself and enjoy the boundless, indescribably sweet wealth of *rasa* belonging to one among the host of His loving ones. So He covered His own complexion and revealed here Her radiance. May that Lord, who has appeared in the form of Caitanya, be abundantly merciful to us.” (Stava-mālā, Second Caitanyāṣṭaka 3)
 
 ভাবগ্রহণের হেতু করিল ধর্ম্ম স্থাপন ৷  
 তার মুখ্য হেতু কহি, শুন সর্ব্বজন ॥ ৫৩ ॥
 
 bhāva-grahaṇera hetu karila dharma sthāpana  
-tāra mukhya hetu kahi, śuna sarva-jana
+of the mood  of acceptance  for the sake  He made  of religion  establishment  
+tāra mukhya hetu kahi, śuna sarva-jana  
+of that  the chief  reason  I tell  hear  everyone
 
-(53) [not yet translated]
+(53) He established religion for the sake of accepting that mood. Now hear, everyone, as I tell the chief reason for this.
 
 মূল হেতু আগে শ্লোকের কৈল আভাস ৷  
 এবে কহি সেই শ্লোকের অর্থ প্রকাশ ॥ ৫৪ ॥
 
 mūla hetu āge ślokera kaila ābhāsa  
-ebe kahi sei ślokera artha prakāśa
+of the root  cause  earlier  of the verse  I made  a hint  
+ebe kahi sei ślokera artha prakāśa  
+now  I tell  of that  verse  of the meaning  the disclosure
 
-(54) [not yet translated]
+(54) Earlier I gave a hint of the verse that tells the root cause. Now I shall disclose the meaning of that verse.
 
 রাধা কৃষ্ণপ্রণয়বিকৃতির্হ্লাদিনী শক্তিরস্মা-  
 দেকাত্মানাবপি ভুবি পুরা দেহভেদং গতৌ তৌ ৷  
@@ -511,51 +567,65 @@ ebe kahi sei ślokera artha prakāśa
 রাধাভাবদ্যুতিসুবলিতং নৌমি কৃষ্ণস্বরূপম্ ॥ ৫৫ ॥
 
 rādhā kṛṣṇa-praṇaya-vikṛtir hlādinī śaktir asmād  
+Rādhā  of love for Kṛṣṇa  the transformation  pleasure-giving  potency  therefore  
 ekātmānāv api bhuvi purā deha-bhedaṁ gatau tau  
+one in soul  although  on earth  long ago  separate bodies  assumed  They two  
 caitanyākhyaṁ prakaṭam adhunā tad-dvayaṁ caikyam āptaṁ  
-rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam
+called Caitanya  manifest  now  those two  and  oneness  attained  
+rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam  
+with Rādhā's emotion and radiance  adorned  I bow to  Kṛṣṇa Himself
 
-(55) [not yet translated]
+(55) “Rādhā is the transformation of love for Kṛṣṇa; She is His pleasure-giving potency (*hlādinī śakti*). Therefore, although Rādhā and Kṛṣṇa are one in soul, long ago They assumed separate forms on earth. Now the two have become one and appeared as Caitanya. I bow to Him, who is Kṛṣṇa Himself, adorned with Rādhā’s emotion and radiance.” (Svarūpa Dāmodara’s diary)
 
 রাধাকৃষ্ণ এক আত্মা, দুই দেহ ধরি’ ৷  
 অন্যোন্যে বিলসে রস আস্বাদন করি’ ॥ ৫৬ ॥
 
 rādhā-kṛṣṇa eka ātmā, dui deha dhari’  
-anyonye vilase rasa āsvādana kari’
+Rādhā-Kṛṣṇa  one  soul  two  bodies  assuming  
+anyonye vilase rasa āsvādana kari’  
+with each other  sport  of rasa  tasting  making
 
-(56) [not yet translated]
+(56) Rādhā and Kṛṣṇa are one soul. Assuming two bodies, They sport with each other and relish *rasa*.
 
 সেই দুই এক এবে চৈতন্য-গোসাঞি ৷  
 ভাব আস্বাদিতে দোঁহে হৈলা একঠাঞি ॥ ৫৭ ॥
 
 sei dui eka ebe caitanya-gosāñi  
-bhāva āsvādite doṅhe hailā eka-ṭhāñi
+those  two  one  now  Caitanya Gosāñi  
+bhāva āsvādite doṅhe hailā eka-ṭhāñi  
+the emotion  to relish  both  became  in one place
 
-(57) [not yet translated]
+(57) Now those two are one as Lord Caitanya: to relish that love, both have come together in one form.
 
 ইথি লাগি’ আগে করি তার বিবরণ ৷  
 যাহা হৈতে হয় গৌরের মহিমা-কথন ॥ ৫৮ ॥
 
 ithi lāgi’ āge kari tāra vivaraṇa  
-yāhā haite haya gaurera mahimā-kathana
+for this reason  first  I make  of it  the description  
+yāhā haite haya gaurera mahimā-kathana  
+from which  comes  of Gaura  of the glory  the telling
 
-(58) [not yet translated]
+(58) For this reason I shall first describe this truth, for from it the glory of Gaura will be told.
 
 রাধিকা হয়েন কৃষ্ণের প্রণয়-বিকার ৷  
 স্বরূপশক্তি — ‘হ্লাদিনী’ নাম যাঁহার ॥ ৫৯ ॥
 
 rādhikā hayena kṛṣṇera praṇaya-vikāra  
-svarūpa-śakti — ‘hlādinī’ nāma yāṅhāra
+Rādhikā  is  of Kṛṣṇa  of love  the transformation  
+svarūpa-śakti — ‘hlādinī’ nāma yāṅhāra  
+His very own potency  hlādinī  the name  whose
 
-(59) [not yet translated]
+(59) Rādhikā is the transformation of love for Kṛṣṇa. She is His very own potency (*svarūpa-śakti*), whose name is *hlādinī*.
 
 হ্লাদিনী করায় কৃষ্ণে আনন্দাস্বাদন ৷  
 হ্লাদিনীর দ্বারা করে ভক্তের পোষণ ॥ ৬০ ॥
 
 hlādinī karāya kṛṣṇe ānandāsvādana  
-hlādinīra dvārā kare bhaktera poṣaṇa
+hlādinī  makes  Kṛṣṇa  bliss  taste  
+hlādinīra dvārā kare bhaktera poṣaṇa  
+of hlādinī  by means  He makes  of the devotees  nourishment
 
-(60) [not yet translated]
+(60) *Hlādinī* makes Kṛṣṇa taste bliss, and through *hlādinī* He nourishes His devotees.
 
 সচ্চিদানন্দ, পূর্ণ, কৃষ্ণের স্বরূপ ৷  
 একই চিচ্ছক্তি তাঁর ধরে তিন রূপ ॥ ৬১ ॥
