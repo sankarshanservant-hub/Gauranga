@@ -236,7 +236,7 @@
   function openReader(evId, srcId) {
     const same = S.reader && S.reader.ev === evId;
     S.reader = { ev: evId, src: srcId, all: same ? S.reader.all : null };
-    $('reader').hidden = false;
+    $('reader').hidden = false; document.body.classList.add('is-reading');
     renderReader(); $('r-body').scrollTop = 0;
     markCurrentBook();
     $('r-close').focus({ preventScroll: true });
@@ -250,7 +250,7 @@
   }
   function closeReader() {
     const r = S.reader;
-    $('reader').hidden = true; S.reader = null; markCurrentBook();
+    $('reader').hidden = true; document.body.classList.remove('is-reading'); S.reader = null; markCurrentBook();
     if (r) { const b = document.querySelector(`.book[data-ev="${r.ev}"][data-src="${r.src}"]`); if (b) b.focus({ preventScroll: true }); }
   }
   function markCurrentBook() {
