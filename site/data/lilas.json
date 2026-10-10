@@ -13,8 +13,9 @@
       1485,
       1486
      ],
-     "age": null,
      "date_conf": "вероятно",
+     "age": null,
+     "before": true,
      "calendar": "",
      "cc": "Ади 13",
      "cb": "Ади 2",
@@ -530,8 +531,9 @@
      "title": "Адвайта поклоняется лону Шачи",
      "title_en": "Advaita worships Shachi's womb",
      "years": null,
-     "age": null,
      "date_conf": null,
+     "age": null,
+     "before": true,
      "calendar": "",
      "cc": "",
      "cb": "",
@@ -889,8 +891,9 @@
      "title": "Хвала богов Господу в лоне Шачи",
      "title_en": "The gods praise the Lord in Shachi's womb",
      "years": null,
-     "age": null,
      "date_conf": null,
+     "age": null,
+     "before": true,
      "calendar": "",
      "cc": "",
      "cb": "Ади 2",
@@ -1349,11 +1352,9 @@
       1486,
       1486
      ],
-     "age": [
-      0,
-      0
-     ],
      "date_conf": "вероятно",
+     "age": null,
+     "before": true,
      "calendar": "",
      "cc": "Ади 13",
      "cb": "",
@@ -1411,11 +1412,9 @@
       1486,
       1486
      ],
-     "age": [
-      0,
-      0
-     ],
      "date_conf": "точно",
+     "age": null,
+     "before": true,
      "calendar": "пхалгуна, пурнима",
      "cc": "",
      "cb": "",
@@ -1567,11 +1566,12 @@
       1486,
       1486
      ],
+     "date_conf": "точно",
      "age": [
       0,
       0
      ],
-     "date_conf": "точно",
+     "before": false,
      "calendar": "пхалгуна, пурнима; лунное затмение",
      "cc": "Ади 13",
      "cb": "Ади 3",
@@ -3305,11 +3305,12 @@
       1486,
       1486
      ],
+     "date_conf": "точно",
      "age": [
       0,
       0
      ],
-     "date_conf": "точно",
+     "before": false,
      "calendar": "пхалгуна, пурнима; лунное затмение",
      "cc": "",
      "cb": "",
@@ -3517,11 +3518,12 @@
       1486,
       1486
      ],
+     "date_conf": "вероятно",
      "age": [
       0,
       0
      ],
-     "date_conf": "вероятно",
+     "before": false,
      "calendar": "",
      "cc": "",
      "cb": "",
@@ -3766,11 +3768,12 @@
       1486,
       1487
      ],
+     "date_conf": "оценка",
      "age": [
       0,
       1
      ],
-     "date_conf": "оценка",
+     "before": false,
      "calendar": "",
      "cc": "",
      "cb": "",
@@ -4189,11 +4192,12 @@
       1486,
       1487
      ],
+     "date_conf": "оценка",
      "age": [
       0,
       1
      ],
-     "date_conf": "оценка",
+     "before": false,
      "calendar": "",
      "cc": "Ади 13",
      "cb": "",
@@ -4255,11 +4259,12 @@
       1486,
       1487
      ],
+     "date_conf": "оценка",
      "age": [
       0,
       1
      ],
-     "date_conf": "оценка",
+     "before": false,
      "calendar": "",
      "cc": "Ади 13",
      "cb": "",
@@ -4341,11 +4346,12 @@
       1486,
       1486
      ],
+     "date_conf": "вероятно",
      "age": [
       0,
       0
      ],
-     "date_conf": "вероятно",
+     "before": false,
      "calendar": "",
      "cc": "Ади 13",
      "cb": "Ади 3",

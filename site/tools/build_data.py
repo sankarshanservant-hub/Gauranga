@@ -274,7 +274,10 @@ def main():
                 s['authority'] = min((p['authority'] or 'D') for p in s['passages'])
             evs.append({
                 'id': eid, 'title': ev['title'], 'title_en': ev.get('title_en', ''),
-                'years': ev.get('years'), 'age': ev.get('age'), 'date_conf': ev.get('date_conf'),
+                'years': ev.get('years'), 'date_conf': ev.get('date_conf'),
+                # до явления (P01 раньше самого рождения) возраста нет
+                'age': None if (ev['period'] in ('P00', 'P01') and (ev.get('order') or 0) < 70) else ev.get('age'),
+                'before': ev['period'] in ('P00', 'P01') and (ev.get('order') or 0) < 70,
                 'calendar': ev.get('calendar', ''), 'cc': ev.get('cc', ''), 'cb': ev.get('cb', ''),
                 'sources': slist,
             })
