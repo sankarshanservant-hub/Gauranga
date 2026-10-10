@@ -71,3 +71,11 @@ Wishing to accept the *bhāva* of Śrī Rādhā, He undertook to establish *dhar
 ## 55
 
 The *hlādinī-śakti* is the transformation of the love of Rādhā and Kṛṣṇa; because of it Rādhā and Kṛṣṇa are one in Their own nature. But Their pastimes (*vilāsa-tattva*) are eternal, and so Rādhā and Kṛṣṇa eternally abide in two forms. Now these two *tattvas* have appeared in one form — as the Caitanya-*tattva*. Therefore I bow down to Gaurasundara, Kṛṣṇa Himself, adorned with the *bhāva* and radiance of Rādhā.
+
+## 56–62
+
+*Anyonye* means “with each other.” The literal sense of these verses is clear, but their inner meaning is hidden. Rādhā is the *śakti*, Kṛṣṇa the *tattva* who possesses *śakti*. The Vedānta saying *śakti-śaktimator abhedaḥ* (“the potency and its possessor are not different”) means that no reasoning can separate the *śakti* from the one in whom it resides. Yet by the power of an inconceivable *śakti*, Rādhā and Kṛṣṇa, in order to relish the *rasa* of Their pastimes with each other, are eternally separate — and at the same time one. Rādhā is truly the *hlādinī*, Kṛṣṇa's *svarūpa-śakti*. She bears that name because She keeps Kṛṣṇa immersed in supreme bliss. She is also recognized by the way She nourishes the *prema* inherent in the very nature of the *jīva*, Kṛṣṇa's separated spiritual part. Śrī Kṛṣṇa, the possessor of *śakti*, is the complete *tattva*; by nature He is *sac-cid-ānanda*. The one and the same spiritual potency (*cit-śakti*), in its aspect of being (*sat*), is the *sandhinī*, that which expands existence. In its aspect of consciousness (*cit*) it is the *saṁvit-tattva*, complete knowledge, that is, the truth of Kṛṣṇa's own nature. In its aspect of bliss (*ānanda*) it is the *hlādinī*, that which gives joy to that very nature.
+
+## 63
+
+O Bhagavān, shelter of all, free from the *guṇas*! In You all three functions of the *śakti* — *hlādinī*, *sandhinī* and *saṁvit* — are spiritual. The *jīva* is a spiritual particle that *māyā* can subdue. Having fallen under *māyā*'s sway and taken shelter of her three *guṇas*, the *jīva* has come into a condition in which the *śakti* appears to him in three forms — “giving joy,” “giving pain” and “mixed.” But in You, who are beyond all the *guṇas*, this *śakti* is pure, free from the *guṇas* and one.
