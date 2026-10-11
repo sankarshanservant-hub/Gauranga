@@ -114,7 +114,8 @@ python3 tools/coord/prompt.py prompts/commentary-part.md CH=Adi17 PART=2 RANGE="
 python3 tools/coord/prompt.py prompts/stageA.md CH_LIST="Adi17" CH=Adi17 TOPIC="…" LILA_ID=cc-0240 EXTRA="- …"
 python3 tools/coord/prompt.py prompts/check.md CH_LIST="Adi17" CH=Adi17 PAGES="276–310" EXTRA="- сноски …; стык с. 293 …"
 ```
-Текст задания — целиком в `prompt` инструмента Agent (`run_in_background: true`, `model: sonnet|opus`,
+Длинный или содержащий обратные кавычки `EXTRA` передавать из файла: `cat > $W/extra.txt <<'EOF' … EOF`, затем
+`EXTRA="$(cat $W/extra.txt)"` (иначе bash выполнит `…` как команду). Текст задания — целиком в `prompt` инструмента Agent (`run_in_background: true`, `model: sonnet|opus`,
 `subagent_type: general-purpose`). Для части 1 длинной главы — `commentary-part.md` с `PART=1` и
 `OUTPUT="\`ed/ru/<Гл>-apb.md\`, … (с заголовком \`# …\`)"`. Последний id базы лил: `grep -o 'id: cc-0[0-9]*' ../lila-db/lilas/cc.yaml | tail -1` (+1).
 
