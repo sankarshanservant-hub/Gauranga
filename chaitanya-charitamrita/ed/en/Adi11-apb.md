@@ -31,3 +31,7 @@ These two are like Nityānanda's own associates. When Mahāprabhu ordered Nityā
 ## 20
 
 Murāri-Caitanyadāsa was born in the village of Sar-Vṛndāvanapura, one *krośa* from Galaśī station in Barddhamāna district. When he came to the village of Modadruma, or Māugāchi, in Navadvīpa-dhāma, he came to be called “Śārṅga” (Sāraṅga) Murāri-Caitanyadāsa. His descendants still live at the *pāṭa* of Sar.
+
+## 24
+
+The descendants of Kamalākara Pippalāi are servants of Śrī Jagannāthadeva at Māheśa.

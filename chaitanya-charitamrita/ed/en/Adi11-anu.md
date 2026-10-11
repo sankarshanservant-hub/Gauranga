@@ -97,3 +97,43 @@ All the devotees who took shelter of Śrī Nityānanda Prabhu took shelter of th
 ## 22
 
 > Subheading: (7) Raghunātha Vaidya —
+
+## 23
+
+> Subheading: (8) Sundarānanda (*gopāla* 2) —
+
+Sundarānanda. *Caitanya-bhāgavata*, Antya, Chapter 6: “An ocean of the *rasa* of *prema*, named Sundarānanda, the chief among the associates of Nityānanda-svarūpa.” In the *Gaura-gaṇoddeśa* (verse 127): “He who was formerly named Sudāma is now Ṭhākura Sundara.” He is one of the twelve *gopālas*, “Sudāma.”
+
+His *śrīpāṭa* is the village of Maheśapura, 14 miles east of “Mājadiyā” station (formerly called “Śivanivāsa”) on the E.B.R. line; it is now in Yaśohara district. Nothing old remains here as a memorial except the site of Sundarānanda's ancestral home. A Bāul lives at the *śrīpāṭa* on the edge of the village. The temple, the Deities and everything else are recent. At present Śrī Śrī Rādhā-vallabha and Śrī Śrī Rādhā-ramaṇa are served in Maheśapura. The river Vetravatī flows nearby. Sundarānanda Ṭhākura remained a celibate all his life, so he has no descendants. Descendants of his kinsmen and of his servitor-disciples are living. In the village of Maṅgaladihi in Vīrabhūma district there is a family of Sundarānanda's kinsmen; Śrī Śrī Balarāma Jīu is served there. The Deity of Śrī Śrī Rādhā-vallabha established by Sundarānanda Ṭhākura was taken away by the Gosvāmīs of Saidābāda in Baharampura; later the present Deity was installed. Now the zamindars of Maheśapura are His servitors. On the full-moon day of Māgha the festival of Sundarānanda Ṭhākura's disappearance is held.
+
+## 24
+
+> Subheading: (9) Kamalākara Pippalāi (*gopāla* 3) —
+
+Kamalākara Pippalāi. In the *Gaura-gaṇoddeśa* (verse 128): “He who was Mahābala came to be named Kamalākara Pippalāi.” He is one of the twelve *gopālas*, “Mahābala.” It was he who established the Deity of Śrī Jagannātha at Māheśa. The temple of Śrī Jagannāthadeva at Māheśa is about 2½ miles from Śrīrāmapura station on the E.I.R. line.
+
+Kamalākara's son was named Caturbhuja. Caturbhuja had two sons, Nārāyaṇa and Jagannātha; Nārāyaṇa's son was Jagadānanda, and his son was Rājīvalocana. In his time the service of Jagannāthadeva fell short of funds. The Nawab of Ḍhākā, Oyālisa Sā (Sujā?), granted Jagannāthadeva 1185 *bighās* of land in the year 1060. The land lies in the village of Jagannāthapura, a *krośa* and a half west of Māheśa. That *mauzā* took the name “Jagannāthapura” from Jagannāthadeva's name.
+
+There is a tradition that Kamalākara's younger brother, Nidhipati Pippalāi, searched for his elder brother, came to Māheśa, and found Kamalākara there. He could in no way persuade him to return home, so in the end he himself came to Māheśa with his own family and his brothers' families and settled there. Even now about thirty households of twice-born descendants of Kamalākara Pippalāi live in the village of Māheśa, among them Śrīyukta Prasādadāsa Adhikārī.
+
+Another story is told. A certain renunciant Vaiṣṇava named “Dhruvānanda” went to Puruṣottama-kṣetra. He strongly desired to cook with his own hands and offer *bhoga* to Śrī Jagannātha. At night he saw in a dream that Śrī Jagannāthadeva appeared to him and told him to go to the village of Māheśa on the bank of the Gaṅgā, install Śrī Jagannātha there, and fulfill his desire by offering Him *bhoga* every day with his own hands. When Dhruvānanda reached Māheśa, he saw Śrī Jagannātha, Balarāma and Subhadrā-devī floating in the waters of the Gaṅgā. He lifted the three Deities out of the water, built a hut on the bank of the Gaṅgā, and began to serve Them. As the time of his disappearance drew near, one thought filled his heart: who would be a fit servitor for Śrī Jagannātha? Then in a dream he received Śrī Jagannāthadeva's order: “Tomorrow morning a resident of the village of Khālijuli near the Sundarbans, named ‘Śrī Kamalākara Pippalāi,’ a supreme devotee of Śrī Jagannāthadeva and a crest jewel of Vaiṣṇavas, will come to Māheśa; entrust the service to him.” The next morning Dhruvānanda met Kamalākara and entrusted him with the service of Śrī Jagannāthadeva. Ever since Kamalākara obtained the right to serve Śrī Jagannāthadeva, [his family] has borne the title “Adhikārī.” Among the fifty-six *grāmīs* (clans named after villages) of *brāhmaṇas* by birth of the Rāḍhīya class, “Pippalāi” is one.
+
+## 25
+
+> Subheading: (10) Sūryadāsa and (11) Kṛṣṇadāsa Sarakhela —
+
+Sūryadāsa Sarakhela. *Bhakti-ratnākara*, wave 12: “Not far from Navadvīpa is ‘Śāligrāma.’ There lives a *paṇḍita* named Sūryadāsa. He is very able in the service of the Yavana king in Gauḍa; he became famous as ‘Sarakhela’ and earned great wealth. Sūryadāsa is one of four brothers, all of very pure conduct. His two daughters are named Vasudhā and Jāhnavā.” In the *Gaura-gaṇoddeśa* (verse 65): “His two beloveds, Vasudhā and Jāhnavī, descend from Śrī Vāruṇī and from the line of Revata.[^25-1] They are the daughters of the great soul Śrī Sūryadāsa, who is Kakudmī, radiant as the sun.”
+
+Baḍagāchi. On the E.B.R. line, 2 miles from “Muḍāgāchā” station, lies Baḍagāchi, or Bahiragāchi, on the bank of the “Guḍaguḍe” canal, across from the village of Dharmadaha. Śāligrāma and Rukuṇapura are close by.
+
+Kṛṣṇadāsa Sarakhela was the younger brother of Gaurīdāsa Paṇḍita and Sūryadāsa Sarakhela. For the *adhivāsa* of Nityānanda's wedding he went from Baḍagāchi to Śāligrāma. *Bhakti-ratnākara*, wave 12: “Taking various articles, Kṛṣṇadāsa Paṇḍita came from his home together with the *brāhmaṇas*.”
+
+## 26
+
+> Subheading: (12) Gaurīdāsa Paṇḍita (*gopāla* 4) —
+
+Śrī Gaurīdāsa Paṇḍita. He was patronized by Rājā Kṛṣṇadāsa, the son of Harihoḍa. He is one of the twelve *gopālas* of Vraja, “Subala the friend.” He lived first in Śāligrāma, not far from Muḍāgāchā station on the E.B.R. line, and later at Ambikā-Kālanā. In the *Gaura-gaṇoddeśa* (verse 128): “He who was Subala, the best of the dear friends, is Gaurīdāsa Paṇḍita.” *Caitanya-bhāgavata*, Antya, Chapter 6: “Gaurīdāsa Paṇḍita is supremely fortunate; in body, mind and words Nityānanda is his life.” “Sarakhela Sūryadāsa Paṇḍita is generous. His brother Gaurīdāsa Paṇḍita is renowned. Taking leave of his elder brother at Śāligrāma, he came to ‘Ambikā’ and made his home on the bank of the Gaṅgā.”
+
+He had twenty-two and a half branches: (1) Śrī Nṛsiṁha-caitanya, (2) Kṛṣṇadāsa, (3) Viṣṇudāsa, (4) Baḍa Balarāmadāsa, (5) Govinda, (6) Raghunātha, (7) Baḍu Gaṅgādāsa, (8) Āuliyā Gaṅgārāma, (9) Yādavācārya, (10) Hṛdaya-caitanya, (11) Cā̃da Hāladāra, (12) Maheśa Paṇḍita, (13) Mukuṭa Rāya, (14) Bhātuyā Gaṅgārāma, (15) Āuliyā Caitanya, (16) Kāliyā Kṛṣṇadāsa, (17) Pātuyā Gopāla, (18) Baḍa Jagannātha, (19) Nityānanda, (20) Bhāvi, (21) Jagadīśa, (22) Rāiyā Kṛṣṇadāsa, (22½) Annapūrṇā.
+
+Gaurīdāsa Paṇḍita's elder son was (Baḍa) Balarāma and the younger, Raghunātha. Raghunātha's sons were Maheśa Paṇḍita and Govinda, and his daughter was Annapūrṇā. Śrī Kaṁsāri Miśra of Śāligrāma (family title “Ghoṣāla,” “Vātsya” *gotra*) had six sons: (1) Dāmodara, (2) Jagannātha, (3) Sūryadāsa Sarakhela (the father of Vasudhā and Jāhnavā), (4) Gaurīdāsa, (5) Kṛṣṇadāsa Sarakhela, (6) Nṛsiṁha-caitanya. Some descendants of Kaṁsāri Miśra's kinsmen still live in Śāligrāma. Neither Gaurīdāsa Paṇḍita nor Hṛdaya-caitanya has descendants. Some say that those living now are descendants in the disciplic line of Gaurīdāsa Paṇḍita or Hṛdaya-caitanya. When Jāhnavā-devī went to Śrī Vṛndāvana and saw the *samāja* of her uncle Gaurīdāsa Paṇḍita, she wept: “Seeing the *samādhi* of Gaurīdāsa Paṇḍita, she cannot stop the streams of tears flowing from her eyes.” (*Bhakti-ratnākara*,
