@@ -176,7 +176,7 @@ def iast(lines):
     return [sanscript.transliterate(l, 'devanagari', 'iast').replace('ṃ', 'ṁ') for l in lines]
 
 
-def with_skt(text, sk, an=None):
+def with_skt(text, sk, an=None, lab=('Шлока', 'Пословно', 'Пословно (анвайя Бхактисиддханты)')):
     an = an or {}
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
@@ -184,19 +184,19 @@ def with_skt(text, sk, an=None):
         keys = []
         if m:
             keys = [m.group(1)]
-        elif para.strip().startswith('(Поклоняюсь Шри Кришне Чайтанье'):
+        elif para.strip().startswith(('(Поклоняюсь Шри Кришне Чайтанье', '(I bow to Sri Krishna Chaitanya')):
             keys = ['13a']
         for k in keys:
             rec = sk.get(k)
             if not rec or not rec['skt']:
                 continue
-            out.append(f'### Шлока {k}')
+            out.append(f'### {lab[0]} {k}')
             out.append('\n'.join(rec['skt']))
             out.append('\n'.join(f'*{l}*' for l in iast(rec['skt'])))
             if an.get(k, {}).get('anvaya'):
-                out.append('*Пословно (анвайя Бхактисиддханты):* ' + an[k]['anvaya'])
+                out.append(f'*{lab[2]}:* ' + an[k]['anvaya'])
             elif rec.get('wfw'):
-                out.append('*Пословно:* ' + rec['wfw'])
+                out.append(f'*{lab[1]}:* ' + rec['wfw'])
         out.append(para)
     return '\n\n'.join(out)
 
