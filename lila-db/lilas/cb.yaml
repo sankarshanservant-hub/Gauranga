@@ -1,0 +1,443 @@
+# Вриндаван Дас Тхакур, «Шри Чайтанья-бхагавата» (ок. 1540-х) — лилы по порядку изложения.
+# Пока внесена только Ади-кханда — по изданной книге пользователя (рус. пер., изд. Шри Чайтанья Сарасват Матха):
+# метки стихов — «**N.**» / «**N–M.**» (сгруппированные стихи издания) в chaitanya-bhagavata/ed/CB_AdiNN.md.
+# Мадхья- и Антья-кханда — ждём отредактированный текст. Записи добавлять в конец.
+# Поправки поля `cb` существующих событий — не здесь, а в lila-db/review/cb-fields.md.
+
+# ---------- Ади 1. Описание деяний Шри Чайтаньи (мангалачарана, вандана Нитьянанды-Ананты, сутра всей книги) ----------
+
+- id: cb-0001
+  source: cb
+  ref: "Ади 1, 1–7"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 10
+  title: "Мангалачарана: поклон Гауре и Нитьянанде, Господу, Его спутникам и преданным"
+  summary: "Санскритские шлоки-благословения: поклон Шри Чайтанье и Нитьянанде, золотым, с руками до колен, отцам санкиртаны и защитникам дхармы века Кали; Господу, пришедшему сыном Джаганнатхи Мишры, с Его спутниками, сыновьями и жёнами; слава Гаурасундару и Его близким преданным; поклон Вишвамбхаре, нисшедшему в Навадвипе."
+  persons: ["@mahaprabhu", "@nityananda", "@jagannatha-mishra"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: A
+  notes: "Ст. 4: Гаурасундар с шестью длинными руками — намёк на шестирукий облик (подробно — в Мадхья- и Антья-кханде)."
+  themes: [author]
+  teaching: [gaura-tattva, yuga-dharma]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "1", to: "7"}
+
+- id: cb-0002
+  source: cb
+  ref: "Ади 1, 8–10"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 11
+  title: "Сначала — поклон преданным: служение преданным выше служения Господу"
+  summary: "Господь в Ведах и «Бхагавате» говорит, что поклонение Его преданным выше поклонения Ему Самому; поэтому автор прежде всего молится преданным — в этом тайна успеха."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author, teaching]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 11.19.21"]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "8", to: "10"}
+
+- id: cb-0003
+  source: cb
+  ref: "Ади 1, 11–41"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 12
+  title: "Вандана Нитьянанде-Балараме; раса-лила Баларамы"
+  summary: "По милости Нитьянанды открылась слава Чайтаньи; автор молится тысячеглавому Балараме, в устах которого хранится слава Кришны, и, ссылаясь на «Бхагавату», утверждает вечность раса-лилы Баларамы с гопи Враджа в месяцы мадху и мадхава и Холи Кришны и Баларамы; отвергающие это свидетельство шастр — оскорбители."
+  persons: ["@nityananda", "@balarama", "@krishna", "@mahaprabhu", "@shiva", "@parvati"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: A
+  notes: "Тема Нитьянанда = Баларама (Санкаршана). Раса-лила Баларамы — по Бхаг. 10.65; ЧБ подчёркивает её вечность против сомневающихся. Ст. 17 — пояснение в скобках издания."
+  themes: [teaching, krishna-lila]
+  teaching: [associates-tattva, scripture]
+  scriptures: ["Бхаг. 10.65.17–18", "Бхаг. 10.65.21–22", "Бхаг. 10.34.20–22"]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "11", to: "41"}
+
+- id: cb-0004
+  source: cb
+  ref: "Ади 1, 42–82"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 13
+  title: "Слава Ананты-Шеши — Нитьянанды: служение во всех обликах; Нитьянанда велит писать книгу"
+  summary: "Нитьянанда — воплощение любви Чайтаньи: ради служения Кришне Он становится Его другом, братом, ложем, домом, зонтом, одеждой и троном; как Ананта Шеша Он держит вселенные на головах и тысячами уст вечно славит Кришну и Чайтанью, не находя предела этой славе; Нарада воспевает Его у Брахмы. Нитьянанда, Ананта и Баладева — одно лицо; Нитьянанда повелел автору писать о Чайтанье, и лилы Гауры открываются лишь по Его милости."
+  persons: ["@nityananda", "@balarama", "@krishna", "@mahaprabhu", "@narada", "@brahma", "@shiva", "@sanaka-kumaras", "@vyasa", "@vrindavana-dasa"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Ст. 80: Нитьянанда повелел Вриндавану Дасу написать книгу — свидетельство автора о себе. Ст. 78: Баларама (Нитьянанда) назван гурудевом автора."
+  themes: [teaching, author]
+  teaching: [associates-tattva]
+  scriptures: ["Ямуначарья, Стотра-ратна 40", "Бхаг. 5.25.9–11", "Бхаг. 2.7.41"]
+  event: ev-tattva-nityananda-advaita
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "42", to: "82"}
+
+- id: cb-0005
+  source: cb
+  ref: "Ади 1, 83–91"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 14
+  title: "Смирение автора; три части книги: Ади, Мадхья и Антья"
+  summary: "Лилы Чайтаньи сокрыты даже от Вед; автор пишет лишь то, что слышал от вайшнавов, как кукла, движимая Гаурачандрой. Ади-кханда — главным образом школьные игры, Мадхья — санкиртана, Антья — жизнь в Пури после санньясы и проповедь, доверенная Нитьянанде."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "83", to: "90–91"}
+
+- id: cb-0006
+  source: cb
+  ref: "Ади 1, 92–96"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: P01
+  order: 70
+  title: "Сутра явления: Нараяна рождается у Джаганнатхи Мишры и Шачи в пхалгуна-пурниму при затмении"
+  summary: "Джаганнатха Мишра, подобный Васудеве, и Шачи, подобная Деваки, жили в Навадвипе; из лона Шачи явился Сам Нараяна — Шри Кришна Чайтанья — в ночь полнолуния пхалгуны, во время лунного затмения, под всеобщее пение имени Хари."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.19–21 (сутра)"
+  notes: "Краткое изложение (сутра); подробно — Ади 2.195–234."
+  themes: [revelation, kirtan]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  years: [1486, 1486]
+  date_conf: точно
+  date_basis: "ЧБ Ади 1.95: ночь пхалгуна-пурнимы, лунное затмение (год — по ЧЧ Ади 13.89)"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "92", to: "96"}
+
+- id: cb-0007
+  source: cb
+  ref: "Ади 1, 97–118"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 15
+  title: "Сутра Ади-кханды: от детских игр до Гаи"
+  summary: "Перечень лил Ади-кханды: Господь являет родителям Свою обитель, следы стоп со знаками, воры уносят Его, в экадаши Он ест угощение у Джагадиши и Хираньи, плачет, чтобы пели имя Хари, учит мать, сидя на выброшенных горшках, учится и учит; уход отца и санньяса Вишварупы, игры в Ганге, Восточная Бенгалия, уход Лакшмиприи и брак с дочерью Раджа-пандита, «болезнь» с проявлением премы, победа над дигвиджайи, паломничество в Гаю и милость Ишваре Пури."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@vishvarupa", "@lakshmipriya", "@vishnupriya", "@ishvara-puri", "@jagadisha-pandita", "@hiranya-pandita", "@keshava-kashmiri"]
+  places: ["#navadvipa", "#east-bengal", "#gaya"]
+  kind: author
+  authority: A
+  parallels: "ЧЧ Ади 13.26–33 (сутра Ади-лилы)"
+  notes: "Сутра (план) Ади-кханды; эпизоды — в гл. 2–17. Ст. 115: Господь «погружает преданных в иллюзию» — действие йогамайи, скрывающей Его величие (а не майи над Ним)."
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "97", to: "118"}
+
+- id: cb-0008
+  source: cb
+  ref: "Ади 1, 119–153"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 16
+  title: "Сутра Мадхья-кханды: от откровения в Навадвипе до санньясы"
+  summary: "Перечень лил Мадхья-кханды: Господь на троне Вишну у Шривасы, встреча с Нитьянандой, шестирукий и вселенский облики, Вьяса-пуджа, бхава Баларамы, Джагай и Мадхай, маха-пракаша (21 час), нагара-киртан и Кази, облики Варахи и четырёхрукий у Мурари, рис Шукламбары, танец в облике Рукмини, наказание и милость Мукунде и Адвайте, умерший сын Шривасы, прыжок в Гангу, остатки пищи Нараяни, санньяса."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@murari-gupta", "@shuklambara", "@mukunda-datta", "@haridasa-thakura", "@shridhara", "@narayani", "@shachi", "@jagai-madhai", "@chand-kazi"]
+  places: ["#navadvipa", "#house-srivasa", "#house-murari"]
+  kind: author
+  authority: A
+  parallels: "ЧЧ Ади 17 (сутра лил Навадвипы)"
+  notes: "Сутра (план) Мадхья-кханды; эпизоды — в Мадхья-кханде (пока не внесена)."
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "119", to: "153"}
+
+- id: cb-0009
+  source: cb
+  ref: "Ади 1, 154–180"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 17
+  title: "Сутра Антья-кханды: от санньясы до восемнадцати лет в Нилачале"
+  summary: "Перечень лил Антья-кханды: скорбь Адвайты и Шачи, Нитьянанда ломает данду, Господь в Нилачале, Сарвабхаума и шестирукий облик, милость Пратапарудре, жизнь у Каши Мишры, Сварупа Дамодара и Парамананда Пури; путь к Матхуре через Бенгалию (Видьявачаспати, Кулия) и возвращение, Ратха-ятра, Рамешвара, путь в Матхуру через Джхарикханду, Рамананда Рай, Дабир Кхас — Рупа и Санатана, Варанаси; проповедь Нитьянанды в Панихати и освобождение общины торговцев; восемнадцать лет в Нилачале."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@shachi", "@sarvabhauma", "@prataparudra", "@kashi-mishra", "@svarupa-damodara", "@paramananda-puri", "@vidya-vachaspati", "@ramananda-raya", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#puri", "#kulia", "#mathura", "#jharikhanda", "#setubandha", "#kashi", "#panihati"]
+  kind: author
+  authority: A
+  parallels: "ЧЧ Ади 13.34–38 (сутра Мадхья- и Антья-лилы)"
+  divergence: "Порядок странствий в сутре ЧБ иной, чем в ЧЧ: Рамешвара (юг) и встреча с Раманандой Раем отнесены к поздним годам, после Ратха-ятры и неудачной попытки идти в Матхуру; по ЧЧ (Мадхья 7–9) южное паломничество и встреча с Раманандой — сразу после первого пребывания в Пури (1510–1512)."
+  notes: "Сутра (план) Антья-кханды; эпизоды — в Антья-кханде (пока не внесена). Ст. 179: восемнадцать лет в Нилачале."
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "154", to: "180"}
+
+- id: cb-0010
+  source: cb
+  ref: "Ади 1, 181–185"
+  file: "chaitanya-bhagavata/ed/CB_Adi01.md"
+  period: PX
+  order: 18
+  title: "Молитва о служении Нитьянанде; переход к Ади-кханде; колофон"
+  summary: "Нитьянанда доволен каждым, кто славит Чайтанью; автор молит Гаурачандру о служении стопам Нитьянанды-Ананты и обещает подробно изложить три части, начиная с Ади-кханды; колофон Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi01.md", from: "181", to: "185"}
+
+# ---------- Ади 2. Явление Золотого Господа ----------
+
+- id: cb-0011
+  source: cb
+  ref: "Ади 2, 1–6"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: PX
+  order: 20
+  title: "Мангалачарана второй главы"
+  summary: "Слава Гаурасундару, сыну Джаганнатхи, жизни Нитьянанды и Гададхары, прибежищу преданных во главе с Адвайтой; слушание о Чайтанье дарует бхакти; Братья и Их преданные непостижимы, но по Их милости истина о Них открывается в сердце."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "1", to: "6"}
+
+- id: cb-0012
+  source: cb
+  ref: "Ади 2, 7–27"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: PX
+  order: 21
+  title: "Причины нисхождения Господа; Гаура несёт дхарму века Кали — санкиртану"
+  summary: "Нисхождение Кришны непостижимо даже для Брахмы и открывается лишь по милости; по Гите Господь приходит восстановить дхарму, защитить садху и уничтожить злодеев; дхарма Кали-юги — совместное воспевание имён, и, как сказано в «Бхагавате» («кришна-варнам твишакришнам»), Сам Кришна пришёл сыном Шачи со Своими спутниками, чтобы утвердить санкиртану."
+  persons: ["@mahaprabhu", "@krishna", "@brahma", "@shachi"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, yuga-dharma, holy-name]
+  scriptures: ["Бхаг. 2.4.22", "Бхаг. 10.14.21", "Гита 4.7–8", "Бхаг. 11.5.31–32"]
+  event: ev-tattva-gaura-scripture-proofs
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "7", to: "27"}
+
+- id: cb-0013
+  source: cb
+  ref: "Ади 2, 28–55"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 5
+  title: "Спутники рождаются по всей стране и сходятся в Навадвипе"
+  summary: "По воле Господа Его вечные спутники рождаются в разных краях и сословиях: Шриваса, Шрирама, Чандрашекхара и Мурари — в Шрихатте, Пундарика Видьянидхи, Чайтанья Валлабха и Васудева Датта — в Чаттаграме, Харидас — в Будхане, Нитьянанда — в Экачакре Радха-деши, Парамананда Пури — в Тирхуте; они рождаются в неблагочестивых краях, чтобы очистить их, — где родится чистый преданный, там всё становится тиртхой, — а затем все сходятся в Навадвипе."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@chandrashekhara-acharya", "@murari-gupta", "@pundarika-vidyanidhi", "@chaitanya-vallabha", "@vasudeva-datta", "@haridasa-thakura", "@nityananda", "@hadai-pandita", "@paramananda-puri", "@balarama", "@shiva", "@brahma"]
+  places: ["#shrihatta", "#chattagrama", "#budhana", "#radha-desha", "#ekachakra", "#mithila", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.52–55, 61–62; Мурари 1.4.1–16; Лочан, Сутра-кханда, «Грантхарамбха» 599–631"
+  divergence: "ЧБ называет родиной Мурари Гупты Шрихатту (ЧЧ Ади 13.61–62 — в одном ряду с рождёнными в Радха-деше); Харидас — из Будханы."
+  notes: "Тирхут (ст. 43) — область Митхилы. Ст. 38–42 — рождение Нитьянанды (подробно — ст. 127–135)."
+  themes: [celestial]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-associates-descend
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "28", to: "55"}
+
+- id: cb-0014
+  source: cb
+  ref: "Ади 2, 56–77"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 2
+  title: "Навадвипа перед явлением Господа: учёность без бхакти"
+  summary: "Навадвипа богата и учёна — сотни тысяч пандитов и учеников, — но жители заняты мирскими делами: ночами поют Мангалачанди, поклоняются Вишахари, тратят богатство на свадьбы; учёные Бхаттачарьи и Мишры не говорят о санкиртане, толкуют Гиту и «Бхагавату» без бхакти. Вайшнавы скорбят и молят Кришну о милости к ним."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.1.16–24; Карнапура (ЧКМ) 2.1–11; ЧЧ Ади 13.63–71"
+  themes: [learning, kirtan]
+  teaching: [bhakti-supremacy]
+  event: ev-navadvipa-vaishnavas-before-advent
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "56", to: "77"}
+
+- id: cb-0015
+  source: cb
+  ref: "Ади 2, 78–95"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 4
+  title: "Адвайта призывает Кришну туласи и водой Ганги"
+  summary: "Адвайта Ачарья, равный Шиве в объяснении бхакти, ежедневно поклоняется Кришне туласи-манджари и водой Ганги и громко взывает к Нему — зов достигает Вайкунтхи; скорбя о людях без бхакти, Он решает: «Я зовусь Адвайта-симха, если призову Владыку Вайкунтхи, все будут петь и плясать, и души освободятся». Господь Сам подтверждал, что пришёл по молитве Адвайты."
+  persons: ["@advaita", "@krishna", "@mahaprabhu"]
+  places: ["#navadvipa", "#vaikuntha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 3.91–111; ЧЧ Ади 13.63–71"
+  themes: [celestial, mercy]
+  teaching: [associates-tattva]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "78", to: "95"}
+
+- id: cb-0016
+  source: cb
+  ref: "Ади 2, 96–110"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 2.2
+  title: "Шриваса с братьями и вайшнавы собираются у Адвайты; насмешки мирян"
+  summary: "Шриваса с тремя братьями поёт имена Кришны и трижды в день омывается в Ганге; Чандрашекхара, Джагадиша, Гопинатха Ачарья, Шриман, Мурари, Гаруда и Гангадас тайно родились в Надии до прихода Господа; не находя слушателей, вайшнавы собираются у Адвайты говорить о Кришне, а миряне смеются над их киртаном; Адвайта от горя постится."
+  persons: ["@srivasa", "@srirama-pandita", "@shripati", "@shrinidhi", "@chandrashekhara-acharya", "@jagadisha-pandita", "@gopinatha-acharya", "@shriman-pandita", "@murari-gupta", "@garuda-pandita", "@gangadasa-pandita", "@advaita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.1.16–24"
+  notes: "Трое братьев Шривасы по ЧЧ — Шрирама, Шрипати, Шринидхи."
+  themes: [kirtan, offense]
+  event: ev-navadvipa-vaishnavas-before-advent
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "96", to: "110"}
+
+- id: cb-0017
+  source: cb
+  ref: "Ади 2, 111–126"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 4.5
+  title: "Соседи грозят Шривасе за киртан; обет Адвайты низвести Кришну"
+  summary: "Соседи-безбожники грозят выгнать Шривасу и разрушить его дом, боясь, что мусульманский правитель накажет деревню за громкий киртан; разгневанный Адвайта обещает Шривасе, Гангадасу и Шукламбаре, что Кришна скоро явится и освободит всех, а иначе Он Сам примет четырёхрукий облик и диском покарает оскорбителей; вайшнавы со слезами поклоняются Кришне и теряют вкус к пище."
+  persons: ["@advaita", "@srivasa", "@gangadasa-pandita", "@shuklambara", "@krishna"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Угрозы соседей Шривасе и обет Адвайты — подробность ЧБ; близкие мотивы в «Адвайта-пракаше» (D), гл. 9–10 (обет Адвайты)."
+  themes: [offense, muslims, kirtan]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "111", to: "126"}
+
+- id: cb-0018
+  source: cb
+  ref: "Ади 2, 127–135"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 30
+  title: "Явление Нитьянанды в Экачакре"
+  summary: "Когда преданные отреклись от всего, Господь собрался нисойти; прежде, по Его воле, в Экачакре Радха-деши явился Нитьянанда Рама, источник Ананта-Шеши, — у Падмавати и Хадаи Пандита в светлую трайодаши месяца магха; боги незримо осыпали Его цветами, и край расцвёл. Позднее Он принял отречение и странствовал по святым местам."
+  persons: ["@nityananda", "@padmavati", "@hadai-pandita", "@balarama"]
+  places: ["#ekachakra", "#radha-desha"]
+  kind: lila
+  authority: A
+  notes: "Ст. 134 — сутра ухода Нитьянанды из дома и паломничества (подробно — Ади 9)."
+  themes: [family, celestial]
+  teaching: [associates-tattva]
+  calendar: "магха, шукла-трайодаши"
+  date_basis: "ЧБ Ади 2.129–130: тринадцатый день светлой половины магхи (год не назван)"
+  event: ev-nityananda-birth
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "127", to: "135"}
+
+- id: cb-0019
+  source: cb
+  ref: "Ади 2, 136–143"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 20
+  title: "Джаганнатха Мишра и Шачи; дочери умерли, растёт Вишварупа"
+  summary: "Джаганнатха Мишра подобен Васудеве и соединяет достоинства Кашьяпы, Дашаратхи, Васудевы и Нанды; Шачи — воплощение бхакти и мать вселенной; все их дочери умерли в младенчестве, а сын Вишварупа, прекрасный как Камадева, с детства отрешён и постигает смысл шастр."
+  persons: ["@jagannatha-mishra", "@shachi", "@vishvarupa"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.72–79; Мурари 1.2.5–10; Карнапура (ЧКМ) 2.17–21"
+  themes: [family]
+  event: ev-vishvarupa-birth
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "136", to: "143"}
+
+- id: cb-0020
+  source: cb
+  ref: "Ади 2, 144–149"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 50
+  title: "Господь входит в тела Джаганнатхи Мишры и Шачи"
+  summary: "Видя страдания преданных, Гаурачандра входит в тела Шачи и Джаганнатхи Мишры; Ананта восклицает «Джая!», и супругам кажется, что это сон; они сияют, но жители Навадвипы не видят этого света; Брахма, Шива и боги приходят возносить молитвы."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@balarama", "@brahma", "@shiva"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.80–88; Мурари 1.5.1–4; Лочан, Ади-кханда, «Джанма-лила» 1–13"
+  themes: [celestial, revelation]
+  event: ev-lord-enters-shachi-womb
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "144–145", to: "149"}
+
+- id: cb-0021
+  source: cb
+  ref: "Ади 2, 150–194"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 60
+  title: "Молитвы богов Господу в лоне Шачи"
+  summary: "Незримые Брахма и боги ежедневно славят Господа в лоне Шачи: Он мог бы одной волей уничтожить Равану и Камсу, но нисходит, чтобы учить дхарме; в Сатья-югу Он белый брахмачари, в Трета — красный, в Двапару — тёмный, в Кали — золотой брахман, дающий санкиртану; перечислены Его аватары, а ныне Он придёт как преданный, наполнит мир нама-санкиртаной и раздаст сокровенную бхакти, исполнив желание Ганги."
+  persons: ["@mahaprabhu", "@brahma", "@shiva", "@shachi", "@ganga-devi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.5.5–15; Лочан, Ади-кханда, «Джанма-лила» 31–46"
+  themes: [celestial, teaching]
+  bhava: [devotee]
+  teaching: [yuga-dharma, holy-name, gaura-tattva]
+  event: ev-gods-praise-lord-in-womb
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "150", to: "194"}
+
+- id: cb-0022
+  source: cb
+  ref: "Ади 2, 195–210"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 70
+  title: "Явление Господа в пхалгуна-пурниму при лунном затмении"
+  summary: "Господь пребывал в лоне Шачи до ночи полнолуния пхалгуны; по Его воле Раху закрыл луну, и вся Надия, омываясь в Ганге, пела «Хари бол!» — так, под звуки святого имени, Шачинандана явился, возвестив начало санкиртаны; боги били в барабаны и сыпали цветы, а жители Надии забыли тревоги."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.89–97; Мурари 1.5.16–22; Лочан, Ади-кханда, «Джанма-лила» 47–80; Карнапура (ЧКМ) 2.38–44"
+  themes: [revelation, kirtan, celestial]
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  years: [1486, 1486]
+  date_conf: точно
+  date_basis: "ЧБ Ади 2.195–197: ночь полнолуния пхалгуны, лунное затмение (год Шака 1407 — по ЧЧ Ади 13.89)"
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "195", to: "210"}
+
+- id: cb-0023
+  source: cb
+  ref: "Ади 2, 211–234"
+  file: "chaitanya-bhagavata/ed/CB_Adi02.md"
+  period: P01
+  order: 70.5
+  title: "Песни о явлении: боги в облике людей приходят к дому Шачи"
+  summary: "Песни-пады Вриндавана Даса: красота новорождённого затмевает солнце, на стопах — знаки флага и ваджры; Ананта, Брахма, Шива и боги в облике простых людей, под прикрытием затмения поют имя Хари со всеми, во тьме входят в дом Шачи, падают ниц, держат зонт и чамары; только Кали опечален, а безбожники не узнают Господа."
+  persons: ["@mahaprabhu", "@shachi", "@balarama", "@brahma", "@shiva", "@kali-personified", "@vrindavana-dasa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#brahmaloka"]
+  kind: lila
+  authority: A
+  notes: "Песенная вставка (пады в рагах) с бханитой Вриндавана Даса. Боги в облике людей у дома Шачи — ср. ev-goddesses-visit-newborn (ЧЧ Ади 13.104–107: богини в облике брахманок)."
+  themes: [celestial, kirtan]
+  event: ev-gaura-appearance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "211", to: "234"}
