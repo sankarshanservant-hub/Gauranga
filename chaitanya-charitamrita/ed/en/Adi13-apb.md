@@ -10,7 +10,7 @@ By His grace even this fallen soul at once becomes able to describe His pastimes
 
 ## 17
 
-Śrī Murāri Gupta's *sūtras*, his brief notes, on the Ādi-līlā still exist. The Vaiṣṇavas study them, and they hear the *sūtras* of Śrī Svarūpa Gosvāmī's diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord's pastimes[^17-1].
+Śrī Murāri Gupta's *sūtras*, his brief notes, on the Ādi-līlā still exist. The Vaiṣṇavas study them, and they hear the *sūtras* of Śrī Svarūpa Gosvāmī's diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord's pastimes.
 
 ## 19
 
@@ -68,7 +68,5 @@ Mars, the lord of the ninth house, is exalted (*ucca*); Venus and Saturn are nea
 *Thus ends the thirteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
-
-[^17-1]: The verse translation reads differently: “any Vaiṣṇava can learn of all Śrī Caitanya's pastimes in order.”
 
 [^89-1]: The edition gives the table without explanation; the figures have been checked against the scan. The first line apparently gives the elapsed years, months, days, *daṇḍas* and *palas* of the Śaka era.
