@@ -5,3 +5,23 @@ Through contact with the *yavanas*, the people of the western lands had partly l
 ## 90
 
 The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: they spread the worship of seven Deities — Śrī Madana-mohana, Śrī Govinda, Śrī Gopīnātha and others.
+
+## 92–93
+
+“Hidden service”: those services to which outsiders have no access. The intimate services dear to the Lord, needed when He bathes, eats, rests, sings *kīrtana* and so on, are here also called *antaraṅga-sevā*, intimate service.
+
+## 94
+
+“Throwing myself down”: falling from a high mountain peak.
+
+## 100
+
+“Day and night he served Rādhā and Kṛṣṇa within his mind”: together with chanting (*kīrtana*) the holy name, he meditated on the service of the eight periods of the day (*aṣṭa-kālīya sevā*).
+
+## 104
+
+“Later”: for the Lord's meeting with Raghunātha see Antya, Chapter 6.
+
+## 107
+
+“Śrīnātha Paṇḍita”: a resident of Kāṁcaḍāpāḍā.
