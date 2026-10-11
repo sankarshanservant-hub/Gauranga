@@ -5,7 +5,9 @@
 import os, re, sys, html, subprocess, unicodedata
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 FONT_BN = os.path.abspath(os.path.join(ROOT, '..', 'fonts', 'NotoSerifBengali-Regular.ttf'))
-CHROME = '/opt/pw-browsers/chromium-1194/chrome-linux/chrome'
+import glob, shutil
+CHROME = os.environ.get('CHROME') or next(iter(sorted(glob.glob('/opt/pw-browsers/chromium-*/chrome-linux/chrome'))), None) \
+    or shutil.which('chromium') or shutil.which('chromium-browser') or shutil.which('google-chrome')
 
 TXT = {'ru': {'apb': 'Амрита-праваха-бхашья', 'anu': 'Анубхашья', 'notes': 'Примечания'},
        'en': {'apb': 'Amṛta-pravāha-bhāṣya', 'anu': 'Anubhāṣya', 'notes': 'Notes'}}
