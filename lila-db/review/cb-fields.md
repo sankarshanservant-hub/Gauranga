@@ -62,3 +62,5 @@
 | ev-lakshmipriya-departure | Ади 14 | Ади 14.99–108 | уточнение стихов (cb-0103) |
 | ev-tapana-mishra-east-bengal | — | Ади 14.109–155 | (cb-0104) |
 | ev-return-from-east-bengal | Ади 14 | Ади 14.156–191 | уточнение стихов (cb-0105) |
+| ev-vishnupriya-matchmaking | Ади 15 | Ади 15.38–67 | уточнение стихов (cb-0107) |
+| ev-marriage-vishnupriya | Ади 15 | Ади 15.68–225 | уточнение стихов (cb-0108, cb-0109) |
