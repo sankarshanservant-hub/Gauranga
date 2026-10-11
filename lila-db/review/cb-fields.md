@@ -68,3 +68,8 @@
 | ev-haridasa-muslim-governor | Ади 16 | Ади 16.36–171 | уточнение стихов (cb-0112–0114) |
 | ev-haridasa-snake | — | Ади 16.172–197 | змей в пещере Харидаса (cb-0115) |
 | ev-navadvipa-vaishnavas-before-advent | Ади 2 | + Ади 16.1–15 | насмешки над киртаном в годы учительства Господа (cb-0110) |
+| ev-departure-for-gaya | Ади 17 | Ади 17.1–15 | уточнение стихов (cb-0119) |
+| ev-mandara-fever-brahmana-water | Ади 17 | Ади 17.16–27 | уточнение стихов (cb-0120) |
+| ev-gaya-vishnupada-prema | Ади 17 | Ади 17.28–45, 64–79 | уточнение стихов (cb-0121, cb-0123) |
+| ev-gaya-ishvara-puri-initiation | Ади 17 | Ади 17.46–63, 80–112 | уточнение стихов (cb-0122, cb-0124) |
+| ev-gaya-heavenly-voice-return | Ади 17 | Ади 17.113–140 | уточнение стихов (cb-0125) |
