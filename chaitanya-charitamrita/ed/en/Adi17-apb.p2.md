@@ -68,6 +68,14 @@ At the end of Mahāprabhu's twenty-fourth year, on the day of the *saṅkramaṇ
 
 ***Caturvidha bhakta-bhāva*** (the four kinds of devotees' moods) — the four kinds of devotional mood based on the *rasas* of *dāsya*, *sakhya*, *vātsalya* and *madhura*.
 
+## 281
+
+Once Śrī Kṛṣṇa, in jest, manifested the four-armed form of Nārāyaṇa, endowed with wondrous beauty — and the love (*rāga*) of the *gopīs*, instead of awakening, shrank. So which *paṇḍita* can understand the workings of the *gopīs'* *bhāva*? For they follow the inaccessible path of *parakīya*, worshipping the son of Nanda alone.
+
+## 293
+
+At the beginning of the *rāsa*, Kṛṣṇa, in play, hid in a *kuñja*. Seeing the doe-eyed *gopīs* coming toward Him, He grew anxious and displayed His charming four-armed form. The ordinary *gopīs* said only, “This is not Śrī Kṛṣṇa, the object of our love.” But how wondrous is the glory of Rādhā's love! As soon as Śrī Rādhā arrived, Kṛṣṇa, try as He might, could not keep that four-armed form.
+
 ---
 
 [^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”

@@ -372,6 +372,88 @@ See the *Caitanya-bhāgavata*, Madhya, Chapter 26.
 
 > Subheading: Gaurasundara is Himself the *viṣaya-vigraha*, filled with the *bhāva* of the *āśraya*; refutation of the “Gaura-nāgarī” doctrine —
 
+## 276–278
+
+Śrī Gaurasundara is Kṛṣṇa illumined by the mood and luster of Śrī Rādhā. Therefore, for the sake of serving Śrī Kṛṣṇa, He never gave up the heartfelt mood of Śrīmatī Rādhikā and the other *gopīs*, the mood of the *āśraya*. Never, like Śrī Kṛṣṇa Himself, did He take on the conduct of the *viṣaya*; that is, never, conceiving of Himself as the enjoyer, did He display the ways of a “lecherous *nāgara*,” such as looking at other men's wives. The worldly, lustful Sahajiyā sect, lechers after other men's wives, try to load their own abominable lustful thirst and adultery onto the shoulders of Śrī Gaurasundara, the guru of the world, who displays the pastimes of an ācārya. But by this they only increase their offense at the feet of Śrī Svarūpa Dāmodara, the crest jewel of Vaiṣṇava ācāryas, and of Ṭhākura Vṛndāvana dāsa. The *Caitanya-bhāgavata*, Ādi, Chapter 15: “He never jested with other men's wives; when He saw a woman, the Lord moved far to one side. In this way He was playful with everyone — only at women would He not look even from the corner of His eye. In this *avatāra* the Lord would not even let the word ‘woman’ reach His ears — this is known to all the world. Therefore no great soul ever offers a prayer such as ‘Gaurāṅga-nāgara.’ Although every prayer befits Him, the wise still sing only of His true nature.” In these three verses the imaginary “Gaura-nāgarī doctrine,” which opposes the conclusions of devotion and is nourished by immorality, is clearly refuted.
+
+## 279
+
+> Subheading: The *gopīs* have no love for any form other than Kṛṣṇa's *svayaṁ-rūpa* —
+
+## 281
+
+> Subheading: (*Lalita-mādhava*, Act 6, verse 14)
+
+Viśākhā's words to Savarṇā, the wife of Sūrya: **gopīnāṁ** **durūha-padavī-sañcāriṇaḥ** (whose nature is to move along a path hard to understand) **paśupendra-nandana-juṣaḥ** (of one who serves the son of the lord of the cowherds, Nanda, the king of the *gopas* — that is, wholly devoted to serving Kṛṣṇa) **bhāvasya** **tāṁ** **prakriyāṁ** **vijñātuṁ** (to understand) **kaḥ** **kṛtī** **kṣamate** (is able)? (For) **hanta**! **jiṣṇubhiḥ** (victorious) **caturbhiḥ** **bhujaiḥ** (the arms of the Nārāyaṇa form He has assumed) **adbhuta-ruciṁ** (whose luster, whose beauty, is wondrous — unearthly and full of radiance) **vaiṣṇavīṁ** **tanuṁ** **āviṣkurvati** (when He manifests) **tasmin** (in Kṛṣṇa) **api** **yāsāṁ** (of the *gopīs*) **rāgodayaḥ** **kuñcati** (does not blossom).
+
+## 282
+
+> Subheading: Wishing to hide during the *rāsa*, Kṛṣṇa shows the *gopīs* a four-armed form and so protects Himself —
+
+## 283
+
+***Bāṭa*** — a path, a road. ***Ṭhāṭa*** — an army drawn up in ranks.
+
+## 287
+
+> Subheading: The *gopīs* offer prayers to Nārāyaṇa —
+
+## 290
+
+> Subheading: As soon as Śrīmatī Rādhikā arrives, the four-armed form vanishes: the two-armed form is the *svayaṁ-rūpa* —
+
+## 292
+
+> Subheading: Śrī Rādhā's inconceivable love for Kṛṣṇa —
+
+## 293
+
+> Subheading: Kṛṣṇa's cleverness is defeated before Śrī Rādhā; Śyāmasundara is the eternal *svayaṁ-rūpa* — (*Ujjvala-nīlamaṇi*, section 7, the words of Śrī Rūpa Gosvāmī)
+
+## 285
+
+***Sādhvasa*** — fear, terror, apprehension, agitation of the mind, confusion.
+
+## 288
+
+***More*** — to us.
+
+## 293
+
+**govardhanopatyakāyāṁ** (in the valley at Govardhana, at the site of the *rāsa* known as “Parāsaulī”) **vasanta-kāle** (in spring) **rāsārambha-vidhau** (at the beginning of the *rāsa* dance, that is, when it was about to begin) **kuñje** **nilīya vasatā** (hiding) **hariṇā** (by Śrī Kṛṣṇa) **mṛgākṣi-gaṇaiḥ** (doe-eyed) **gopībhiḥ** (by the *gopīs* — in the forest Praviṣṭaka, called Peṭhā) **dṛṣṭaṁ** **svam** (Himself) **gopayituṁ** (to hide — for the many *gopīs* had surrounded that *kuñja* on all sides, and it was impossible to slip away from it suddenly) **uddhura-dhiyā** (with superb intelligence) **yā** **catur-bāhutā** **suṣṭhu** **sandarśitā**, **yasya** (of the glory of love for Kṛṣṇa) **śriyā** **prabhaviṣṇunā** (by Kṛṣṇa) **api** **sā** **catur-bāhutā** **rakṣituṁ** **na** **śakyā** **āsīt** — **hanta** (oh!) **rādhāyāḥ** **praṇayasya** **mahimā** (glory) — (so inconceivable is it). (In the *Gautamīya-tantra*: “…dwelling on the beautiful hill of Govardhana, eager to taste the *rasa* of the *rāsa* dance.” Bhagavān is subordinate to *prema*; still, one cannot say that His majesty ceases to exist before *prema*, for it is eternal; rather, it becomes hidden.)
+
+## 294
+
+> Subheading: Nanda is Jagannātha Miśra; Yaśodā is Śacī —
+
+## 295
+
+> Subheading: Kānāi and Balāi of Vraja are Gaura and Nitāi of Gauḍa —
+
+## 296
+
+> Subheading: Nityānanda Rāma serves Gaura-Kṛṣṇa in all the *rasas* except *madhura* —
+
+## 298
+
+> Subheading: Advaita, the *avatāra* of a devotee, preaches pure devotion —
+
+## 299
+
+> Subheading: Advaita serves Gaura-Kṛṣṇa in two moods —
+
+## 300
+
+> Subheading: The *dāsya* of Śrīvāsa and the other pure devotees —
+
+## 301
+
+> Subheading: The Lord's potencies — Gadādhara, Svarūpa, Rāmānanda, Śrī Rūpa and others — serve Gaura-Kṛṣṇa in *madhura-rasa* —
+
+## 302
+
+> Subheading: In Vraja, the pastimes of Śyāma, the cowherd's son with the flute at His lips; in Gauḍa, the pastimes of Gaura, the embodiment of *kīrtana* in the guise of a brāhmaṇa and a *sannyāsī* —
+
 ---
 
 [^230-1]: In the *smṛti*, a *golaka* is a son born to a widow after her husband's death (*Manu-saṁhitā* 3.174).
