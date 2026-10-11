@@ -160,6 +160,82 @@ One may object: “The author of the scripture, having found [such] statements, 
 
 [The author] cites the decisive statement that Sadāśiva is a form of Kṛṣṇa Himself, the *svayaṁ-rūpa*: “Niyati….” The words “and so on” include the following: “The desire of Hari is the great seed. These progeny of Maheśvara were born having the nature of *liṅga* and *yoni*. This Puruṣa, the possessor of potency, is Maheśvara in the form of the *liṅga*. In that *liṅga* appeared Mahā-Viṣṇu, the Lord of the world” (*Brahma-saṁhitā* 5.8–10). The meaning is as follows. Earlier His sport with Ramā was mentioned. What is that Ramā like? It is said: “*niyati*” — she who is held, fixed in Him, the lover; that is, she is inseparable from Him and part of His own nature. Hence it is said: “His beloved, obedient to Him.” For the *Hayaśīrṣa-pañcarātra* says: “There is no Devī without Viṣṇu, and no Viṣṇu without the lotus-born one,” and the *Viṣṇu Purāṇa*: “Eternal indeed is she, Śrī, the mother of the world, inseparable from Viṣṇu” (*Viṣṇu Purāṇa* 1.8.15). Bhagavān Śambhu is the “*liṅga*” of that *svayaṁ-rūpa*, that is, His sign: “*Liṅga* — in the sense of sign and of inference,” says the *Viśva* [lexicon]. Bhagavān is the Lord of Paravyoma, possessed of the six opulences. “Śambhu” is He who, as His second *vyūha* Saṅkarṣaṇa, brings welfare (*śam*) to the *jīvas* dissolved in *prakṛti* by creating their respective *upādhis*; “whose form is light” — whose form is consciousness. Kṛṣṇa's being Lord over Him reveals that Kṛṣṇa is the *svayaṁ-rūpa*, as a cow is recognized by its dewlap and other marks: He of whom this [Śambhu] is the *vilāsa* is [Bhagavān] Himself; that is why [Śambhu] is called His *liṅga*. “She who is the *yoni*” — the material cause of the *mahat* and the rest — “is the *aparā śakti*,” that is, consisting of the three *guṇas*. “Of Hari” — of His part, Saṅkarṣaṇa; “desire” — His desire to glance [at her] — bears fruit in the creation of the *mahat* and the rest; hence “the great seed.” “Great” — the immeasurable *jīva-tattva* — is placed in her. Therefore “these progeny of Maheśvara, having the nature of *liṅga* and *yoni*,” are said to be born from the Puruṣa and *prakṛti* as their causes. Since *prakṛti* is secondary and depends on Him, the progeny are called “of Maheśvara”: this he establishes with the words “the possessor of potency….” Then he clarifies what was said: “In that….” “In the *liṅga*” — in her Lord, in His presence. Mahā-Viṣṇu is Saṅkarṣaṇa.
 
+## 80
+
+> Subheading: (13) Service to Kṛṣṇa runs through all four *rasas* — conjugal, parental, friendly and servile —
+
+## 81
+
+> Subheading: Kṛṣṇa Himself is the Lord of all —
+
+See Ādi 2.70, 83, 88, 102, 106; 3.5; 4.11–12; 5.131; 7.7–8; Madhya 6.147; 8.133–135; 10.15; 15.139; 18.190–191; 20.152–155, 240, 400; 21.3, 92; 22.7; 24.71 and others.
+
+## 83
+
+> Subheading: (14) Everything spiritual other than He is His servant —
+
+Forgetting his true nature, the *jīva* puts on the costume of an enjoyer and turns away from serving Kṛṣṇa. And some, out of ignorance, at times think that service to Bhagavān is not their only duty. But in fact every living being eternally abides in His service. If the *jīva* does not serve Bhagavān, his nature is overturned and misfortune arrives. Service to Śrī Caitanya is the intrinsic duty (*svarūpa-dharma*) of the *jīva*, an atomic particle of spirit. When the conditioned *jīva* forgets the function of his true nature and strives for something else, it is only the pull of enjoying matter. When consciousness (*caitanya*) awakens in him, service to Caitanya naturally manifests in his heart. Deprived of service to Caitanya, the conditioned *jīva* in his undertakings comes to lord it over other things; but even then he is only an unworthy servant of Caitanya.
+
+## 86
+
+> Subheading: Baladeva and all His *aṁśa-avatāras* regard Themselves as servants of Kṛṣṇa —
+
+## 87
+
+> Subheading: (1) His avatāra Saṅkarṣaṇa regards Himself as a servant —
+
+## 88
+
+> Subheading: (2) His avatāra Lakṣmaṇa regards Himself as a servant —
+
+## 89
+
+> Subheading: (3) His avatāra the original Puruṣa also regards Himself as a devotee —
+
+## 90
+
+> Subheading: (4) His avatāra Advaita also regards Himself as a devotee —
+
+## 93
+
+> Subheading: (5) His avatāra Śeṣa also regards Himself as a servant —
+
+*Kāya-vyūha* means the ten bodies. See verse 76.
+
+## 94
+
+> Subheading: All of Kṛṣṇa's *aṁśa-avatāras* are His devotees —
+
+## 95
+
+> Subheading: The supreme dignity of the *bhakta-avatāra* —
+
+Bhagavān descends into the material world to display His majesty. But for the welfare of the *jīva*, higher and more needful than all the pastimes of these Īśvara-avatāras is the exemplary *bhakta-avatāra*, who awakens in the *jīva* an understanding of how to serve [the Lord]. Trying to see the avatāras in whom majesty predominates through knowledge born of the senses, the *jīva* often comes to grief; but when he sees an avatāra of Bhagavān in the form of a devotee, his false ego cannot draw bad fruit from such an example. Many ignorant people, while being *jīvas*, call themselves “Vāsudeva” and the like, and after death take birth as jackals. Such a fate befalls precisely those who are bewildered and do not see the true nature of the *bhakta-avatāras*. False ego intoxicates the conditioned *jīva* with a craving for the majesty of Bhagavān and turns him into a Māyāvādī.
+
+## 96
+
+> Subheading: The behavior of elder and younger between the *aṁśa-avatāras* and Kṛṣṇa, the whole (*aṁśī*) —
+
+## 97
+
+> Subheading: An elder *aṁśa-avatāra* sees the younger *aṁśī* as master, and a younger *aṁśa-avatāra* regards himself as servant of the elder *aṁśī* —
+
+A separated portion of a thing is called *aṁśa*, and that of which it is a portion is the *aṁśī*. The part of the *aṁśī*, the portion of the undivided, is contained within the *aṁśī*, within the undivided. The *aṁśī* is the master (*prabhu*), the *aṁśa* is the devotee (*bhakta*). The relationship of “master” and “devotee” includes the distinction of elder and younger, greater and lesser: the greater is called “*prabhu*,” the lesser “*bhakta*.” The *aṁśī* is Kṛṣṇa; the *aṁśas* are Baladeva and the manifestations of Mahā-Viṣṇu who share His nature. Kṛṣṇa regards Himself as the Lord, and Baladeva and the others regard Themselves as devotees.
+
+## 98
+
+> Subheading: With Kṛṣṇa the devotee receives the highest honor —
+
+The position of Kṛṣṇa's devotee, that is, the devotee's service to Kṛṣṇa, is higher than the idea of equality with Kṛṣṇa: for Kṛṣṇa loves His servant more than He loves His own interests. The best evidence of this is the verse of the *Śrīmad-Bhāgavatam* (9.4.68): “The sādhus are My heart, and I am the heart of the sādhus. They know nothing but Me, and I know nothing but them.”
+
+## 100
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.14.15)
+
+## 101
+
+> Subheading: Only in the mood of a devotee does Kṛṣṇa taste His own sweetness —
+
 ---
 
 [^43-1]: *Bhakti-rasāmṛta-sindhu* 1.1.38.
