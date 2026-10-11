@@ -2766,3 +2766,238 @@
   event: ev-gopala-bhatta-comes-vrindavana
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "105", to: "105"}
+
+- id: cc-0139
+  source: cc
+  ref: "Ади 10.106–114"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 840
+  title: "Ветви древа: Шанкараранья, Шринатха Пандит, Джаганнатха Ачарья (поселился у Ганги) и перечень спутников"
+  summary: "Шанкараранья — ветвь древа Ачарьи, его веточки — Мукунда, Кашинатха и Рудра; Шринатха Пандит получил милость Господа — его служение Кришне покоряет три мира; Джаганнатха Ачарья по велению Господа поселился у Ганги; далее — перечень: Кришнадас Вайдья, Пандит Шекхара, Кавичандра, певец Шаштхивара, Шринатха Мишра, Шубхананда, Шрирама, Ишана, Шринидхи, Шри Гопиканта, Мишра Бхагаван, Субуддхи Мишра, Хридаянанда, Камаланаяна, Махеша Пандит, Шрикара, Шри Мадхусудана, Пурушоттама, Шри Галима, Джаганнатха Дас, Шри Чандрашекхара Вайдья, брахман Харидас, Рамадас, Кавидатта, Шри Гопала Дас, Бхагаватачарья, Тхакур Саранга Дас, Джаганнатха Тиртха, брахман Шри Джанакинатха, Гопала Ачарья, брахман Ванинатха."
+  persons: ["@shankararanya", "@jagannatha-acharya-ganga", "@kavichandra", "@shrinatha-mishra", "@subuddhi-mishra", "@dvija-haridasa", "@bhagavatacharya", "@saranga-thakura", "@jagannatha-tirtha", "@mahaprabhu"]
+  places: ["#ganga"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Теги — только при уверенном отождествлении (реестр; ГГД; «Анубхашья» к 10.113–114); прочие имена без тегов. «Ачарья-врикша» (10.106) — древо Ачарьи (не уточняется, какого). Шринатха Пандит — без тега."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "106", to: "114"}
+
+- id: cc-0140
+  source: cc
+  ref: "Ади 10.115–118"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 90
+  title: "Братья Гхош и Рамадас Абхирама; Нитьянанда по велению Господа идёт в Гауду с Рамадасом, Мадхавой и Васудевой, Говинда остаётся с Господом"
+  summary: "Три брата — Говинда, Мадхава и Васудева: под их киртан пляшут Чайтанья и Нитай; Рамадас Абхирама — сокровищница дружеской премы: подняв бревно, которое несли шестнадцать человек, он сделал из него флейту; по велению Господа Нитьянанда пошёл в Гауду, и с Ним по велению Господа — трое: Шри Рамадас, Мадхава и Васудева Гхош, а Говинда, довольный, остался с Господом."
+  persons: ["@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha", "@abhirama", "@nityananda", "@mahaprabhu"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  notes: "Упоминание. О флейте Абхирамы ср. ev-associates-of-nityananda-wonders; у ВЧД в 10.116 — «флейта из бамбука с шестнадцатью узлами» (ш̣оласа̄н̇гера ка̄ш̣т̣ха — бревно «шестнадцати носильщиков»)."
+  themes: [kirtan, mercy]
+  cc: "Ади 10"
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "115", to: "118"}
+
+- id: cc-0141
+  source: cc
+  ref: "Ади 10.119–121"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 850
+  title: "Ветви древа: Бхагаватачарья и другие; Джагай и Мадхай — свидетели имени «Спаситель падших»; бенгальские преданные бесчисленны"
+  summary: "Бхагаватачарья, Чиранджива, Шри Рагхунандана, Мадхавачарья, Камалаканта, Шри Ядунандана; великие получатели милости Господа Джагай и Мадхай — два брата, свидетели Его имени «Патита-павана»; так вкратце описаны преданные Гауды — бесчисленных преданных Чайтаньи не перечесть."
+  persons: ["@bhagavatacharya", "@jagai-madhai", "@mahaprabhu"]
+  places: ["#gauda"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей; о Джагае и Мадхае — ev-jagai-madhai-deliverance. Прочие имена 10.119 без тегов."
+  themes: [teaching, mercy]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "119", to: "121"}
+
+- id: cc-0142
+  source: cc
+  ref: "Ади 10.122–129"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 860
+  title: "Преданные в Нилачале: Парамананда Пури и Сварупа Дамодара — сердце Господа; прежние спутники и ежегодные гости из Гауды"
+  summary: "Все эти преданные служили Господу и в Нилачале, в двух местах на разные лады; теперь — о преданных только Нилачалы: из всех двое главных, сердце Господа, — Парамананда Пури и Сварупа Дамодара; далее Гададхара, Джагадананда, Шанкара, Вакрешвара, Дамодара Пандит, Тхакур Харидас, Рагхунатха Вайдья и Рагхунатха Дас — прежние спутники, оставшиеся служить Господу в Нилачале; прочие преданные — жители Гауды — ежегодно приходят видеть Господа; далее — те, кто впервые встретил Господа в Нилачале."
+  persons: ["@paramananda-puri", "@svarupa-damodara", "@gadadhara-pandita", "@jagadananda-pandita", "@shankara-pandita", "@vakreshvara", "@damodara-pandita", "@haridasa-thakura", "@raghunatha-dasa", "@mahaprabhu"]
+  places: ["#puri", "#gauda"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Рагхунатха Вайдья — без тега. О ежегодных приходах — ev-gauda-devotees-yearly-visit."
+  themes: [teaching, jagannatha]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "122", to: "129"}
+
+- id: cc-0143
+  source: cc
+  ref: "Ади 10.130–134"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 3
+  title: "Сарвабхаума и Гопинатха Ачарья; Каши Мишра, Прадьюмна Мишра; Бхавананда Рай: «Ты — Панду, твои пять сыновей — Пандавы; с Раманандой у Меня различие лишь в теле»"
+  summary: "Большая ветвь — Сарвабхаума Бхаттачарья и муж его сестры Шри Гопинатха Ачарья; Каши Мишра, Прадьюмна Мишра и Бхавананда Рай — встреча с ними радовала Господа; обняв Бхавананду, Господь сказал: «Ты — Панду, а пятеро Пандавов — твои сыновья: Рамананда Рай, Паттанаяк Гопинатха, Каланидхи, Судханидхи и Наяк Ванинатха; эти пять сыновей Мне дороги, а с Раманандой у Меня различие лишь в теле»."
+  persons: ["@sarvabhauma", "@gopinatha-acharya", "@kashi-mishra", "@pradyumna-mishra", "@bhavananda-raya", "@ramananda-raya", "@gopinatha-pattanayaka", "@kalanidhi", "@sudhanidhi", "@vaninatha-raya", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 10. «Различие лишь в теле» — о единстве сердца Господа и Рамананды в любви, а не о тождестве преданного с Господом."
+  themes: [mercy, family]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-bhavananda-raya-pandu
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "130", to: "134"}
+
+- id: cc-0144
+  source: cc
+  ref: "Ади 10.135–137"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 870
+  title: "Ветви древа в Пури: царь Пратапарудра, ории Кришнананда и Шивананда, Парамананда Махапатра, Бхагаван Ачарья, Брахмананда Бхарати, Шикхи и Мурари Махити; Мадхави-деви — из служанок Радхи"
+  summary: "Царь Пратапарудра, ория Кришнананда, Парамананда Махапатра, ория Шивананда, Бхагаван Ачарья, Брахмананда Бхарати, Шри Шикхи Махити и Мурари Махити; сестра Шикхи Махити Мадхави-деви причислена к служанкам Шри Радхи."
+  persons: ["@prataparudra", "@bhagavan-acharya", "@brahmananda-bharati", "@shikhi-mahiti", "@murari-mahiti", "@madhavi-devi", "@radha"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Кришнананда, Парамананда Махапатра, Шивананда (ории) — без тегов."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "135–136", to: "137"}
+
+- id: cc-0145
+  source: cc
+  ref: "Ади 10.138–142"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 9
+  title: "Кашишвара и Говинда, ученики Ишвары Пури, по его велению приходят к Господу; Говинда служит телу Господа, Кашишвара расчищает Ему путь в толпе"
+  summary: "Кашишвара Брахмачари — ученик Ишвары Пури, Шри Говинда — его дорогой слуга; при уходе Ишвары Пури оба по его велению пришли к Господу в Нилачалу; из-за связи с гуру Господь оказал им почтение и, приняв веление гуру, дал обоим служение: Говинде — служение Своему телу, а Кашишвара шёл впереди, когда Господь шёл к Джаганнатхе, и, могучий, расталкивал людей, чтобы никто не коснулся Господа."
+  persons: ["@kashishvara", "@govinda-servant", "@ishvara-puri", "@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 10."
+  themes: [jagannatha]
+  teaching: [vaishnava]
+  cc: "Ади 10"
+  event: ev-govinda-ishvara-puri-servant
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "138", to: "142"}
+
+- id: cc-0146
+  source: cc
+  ref: "Ади 10.143–151"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 880
+  title: "Ветви древа в Пури: Рамаи и Нандаи, Кришнадас — спутник на юге, Балабхадра — на пути в Матхуру, певцы Старший и Младший Харидас, Ачьютананда и другие"
+  summary: "Рамаи и Нандаи постоянно служат вместе с Говиндой: Рамаи ежедневно наполняет водой двадцать два кувшина, Нандаи служит по указанию Говинды; Кришнадас, чистый кулина-брахман, — спутник Господа в странствии по югу; Балабхадра Бхаттачарья — Его брахмачари на пути в Матхуру; певцы Старший и Младший Харидас всегда при Махапрабху; Рамабхадрачарья, ория Симхешвара, Тапана Ачарья, Рагху, Ниламбара, Сингабхатта, Камабхатта, Дантура Шивананда, прежний слуга из Гауды Камалананда; сын Адвайты Ачьютананда живёт в Нилачале, приняв прибежище у стоп Господа; Нирлома Гангадас и Вишнудас — все они живут с Господом в Нилачале."
+  persons: ["@ramai-puri", "@nandai", "@govinda-servant", "@kala-krishnadasa", "@balabhadra-bhattacharya", "@bada-haridasa", "@chhota-haridasa", "@simheshvara", "@kamalananda", "@achyutananda", "@advaita", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Прочие имена (10.148–149, 10.151) без тегов; Вишнудас — тождество с @vishnudasa не установлено."
+  themes: [teaching, pilgrimage]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "143", to: "151"}
+
+- id: cc-0147
+  source: cc
+  ref: "Ади 10.152–155"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P13
+  order: 35
+  title: "Каши: Господь два месяца живёт у Чандрашекхары и принимает пищу у Тапаны Мишры; мальчик Рагхунатха служит Ему"
+  summary: "В Варанаси три преданных Господа: лекарь Чандрашекхара, Тапана Мишра и сын Мишры Рагхунатха Бхаттачарья; когда Господь, повидав Вриндаван, пришёл в Каши, Он два месяца жил в доме Чандрашекхары и два месяца принимал пищу в доме Тапаны Мишры; мальчик Рагхунатха служил Ему — убирал после трапезы и растирал Его стопы."
+  persons: ["@chandrashekhara-vaidya", "@tapana-mishra", "@raghunatha-bhatta", "@mahaprabhu"]
+  places: ["#kashi"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 17, 25."
+  themes: [prasada, pilgrimage]
+  bhava: [sannyasi]
+  cc: "Ади 10"
+  event: ev-kashi-tapana-mishra
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "152–153", to: "155"}
+
+- id: cc-0148
+  source: cc
+  ref: "Ади 10.156–158"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 75
+  title: "Рагхунатха Бхатта восемь месяцев у Господа в Пури; по Его велению — во Вриндаван к Рупе, читает ему «Бхагавату»"
+  summary: "Повзрослев, Рагхунатха пришёл к Господу в Нилачалу, прожил там восемь месяцев и в иные дни угощал Господа; по Его велению он пришёл во Вриндаван и жил при Шри Рупе Госани; Рупа Госани слушал от него «Бхагавату»; по милости Господа он опьянён любовью к Кришне."
+  persons: ["@raghunatha-bhatta", "@rupa-gosvami", "@mahaprabhu"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 13."
+  themes: [prasada, teaching]
+  teaching: [scripture, prema]
+  cc: "Ади 10"
+  event: ev-raghunatha-bhatta-sent-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "156", to: "158"}
+
+- id: cc-0149
+  source: cc
+  ref: "Ади 10.159–163"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 890
+  title: "Преданные Чайтаньи бесчисленны: на каждой ветви — миллионы побегов, древо затопило три мира премой"
+  summary: "Так бесчисленны преданные Чайтаньи — автор дал лишь намёк; на каждой ветви — миллионы побегов: ученики и ученики учеников; все они полны цветов и плодов премы и затопили три мира водами любви к Кришне; сила и слава каждой ветви безграничны — и тысячеустый (Ананта) не найдёт им предела; вкратце рассказано о преданных Махапрабху — всех не перечислит и тысячеустый."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, prema]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "159", to: "163"}
+
+- id: cc-0150
+  source: cc
+  ref: "Ади 10.164"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 900
+  title: "Колофон десятой главы"
+  summary: "Кришнадас, уповая на стопы Шри Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 10"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "164", to: "164"}
