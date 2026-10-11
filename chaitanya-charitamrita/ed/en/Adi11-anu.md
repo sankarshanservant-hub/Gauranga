@@ -302,12 +302,48 @@ Uddhāraṇa Datta. In the *Gaura-gaṇoddeśa* (verse 129): “He who in Vraja 
 
 At Saptagrāma there is a six-armed form of Mahāprabhu, installed by Śrīla Uddhāraṇa Ṭhākura and served by him with his own hands. To His right is Śrī Nityānanda and to His left Śrī Gadādhara. There are also forms of Śrī Rādhā-Govinda and a Śrī Śālagrāma, and beneath the throne-altar a painting of Śrī Uddhāraṇa Ṭhākura Mahāśaya is worshiped. In front of the present temple is a large *nāṭya-mandira*. A memorial stone plaque on a pillar of the *nāṭya-mandira* bears the names of the builder of the temple and of those who restored the *śrīpāṭa*. Right in front of the *nāṭya-mandira* is a cool, shady *mādhavī* bower. On either side of the bower stand two pillars: on one is a painting of Uddhāraṇa Ṭhākura Mahāśaya, and on the other, on a stone plaque, the four *tāraka-brahma-nāmas* of the four *yugas* are inscribed.
 
-In 1283 a mendicant named Nitāidāsa Bābājī collected 12 *bighās* of land for the *śrīpāṭa*. Then, through the special efforts of certain people, the *śrīpāṭa*
+In 1283 a mendicant named Nitāidāsa Bābājī collected 12 *bighās* of land for the *śrīpāṭa*. Then, through the special efforts of certain people, the *śrīpāṭa* kept up for a while, but gradually the service fell into disorder. Later, in 1306, through the combined efforts of Balarāma Mallika, former Sub-judge of Hugalī, and many wealthy Suvarṇa-vaṇiks of Calcutta, some order is now seen again in the service of the *śrīpāṭa*.
+
+Half a century ago a wooden image of Śrīla Uddhāraṇa Ṭhākura, installed by the late Jagamohana Datta of Bāli in Hugalī, resided in a broken-down hut. That image is no longer at the Saptagrāma *śrīpāṭa*, and his painting is worshiped now. On inquiry we heard that Uddhāraṇa Ṭhākura's former image is now in the house of Śrī Madana Datta Mahāśaya of Bāli, Hugalī, and the *śālagrāma* the Ṭhākura served is in the same village, in the house of Śrīnātha Datta.
+
+Ṭhākura Uddhāraṇa was the *dewan* of the Rājā of the village of “Naihāṭī,” 1½ miles north of Kāṭoyā. Near Dā̃ihāṭ station the ruins of that royal family's palace can still be seen. The place where the Ṭhākura lived while serving the Rājā is still called “Uddhāraṇapura.” It is said that the Śrī Nitāi-Gaura Deity the Ṭhākura installed here was taken to the capital of Banoyārībāda. West of the temple here (or, according to some, in Vṛndāvana) is the Ṭhākura's *samādhi*. According to some, the Ṭhākura's father was named Śrīkara, his mother Bhadrāvatī, and his son Śrīnivāsa.
+
+## 42
+
+> Subheading: (27) Vaiṣṇavānanda Ācārya —
+
+Vaiṣṇavānanda Ācārya. *Caitanya-bhāgavata*: “Ācārya Vaiṣṇavānanda is supremely generous; formerly he was known as ‘Raghunātha Purī.’” The *Gaura-gaṇoddeśa* (verse 97), naming Raghunātha Purī among the eight Purīs, describes him as one of the eight *siddhis*, beginning with *aṇimā*.
+
+## 43
+
+> Subheading: (28) Viṣṇudāsa, Nandana, Gaṅgādāsa — three brothers —
+
+Viṣṇudāsa, Nandana and Gaṅgādāsa were three brothers, Bhaṭṭācāryas of Navadvīpa. Viṣṇudāsa and Gaṅgādāsa stayed with Mahāprabhu at Nīlācala for some time (Ādi 10.151). Mahāprabhu and Advaita Prabhu hid in Nandana Ācārya's house. Śrī Nityānanda Prabhu, on coming to Navadvīpa, also stayed there for a few days. *Caitanya-bhāgavata*, Antya, Chapter 6: “Gaṅgādāsa, the son of Caturbhuja Paṇḍita — in his house Nityānanda once sported.”
+
+## 44
+
+> Subheading: (29) Paramānanda Upādhyāya, (30) Śrī Jīva Paṇḍita —
+
+Paramānanda Upādhyāya. *Caitanya-bhāgavata*, Antya, Chapter 6: “Paramānanda Upādhyāya is an exclusively devoted Vaiṣṇava.”
+
+Śrī Jīva Paṇḍita was the middle son of Ratnagarbha Ācārya, a childhood friend of Hāḍāi Ojhā, Nityānanda's father. *Caitanya-bhāgavata*, Antya, Chapter 6: “The generous Jīva Paṇḍita is a great devotee; in his house Nityānanda-candra sported.” In Vraja he is Indirā (*Gaura-gaṇoddeśa*, verse 169).
+
+## 45
+
+> Subheading: (31) Paramānanda Gupta —
+
+Paramānanda Gupta. *Caitanya-bhāgavata*, Antya, Chapter 6: “Famous is Paramānanda Gupta Mahāśaya; formerly Nityānanda lived in his house.” In the *Gaura-gaṇoddeśa* (verses 194 and 199) he is Mañjumedhā of Vraja: “The *Kṛṣṇa-stavāvalī* composed by Paramānanda Gupta.”
+
+## 46
+
+> Subheading: (32) Nārāyaṇa, (33) Kṛṣṇadāsa, (34) Manohara, (35) Devānanda —
+
+Nārāyaṇa, Kṛṣṇadāsa, Manohara and Devānanda. *Caitanya-bhāgavata*, Antya, Chapter 6: “Kṛṣṇadāsa and Devānanda are two pure-hearted ones. Dear to Nityānanda are these four: ‘Manohara,’ ‘Nārāyaṇa,’ ‘Kṛṣṇadāsa’ and ‘Devānanda.’”
 
 ---
 
 [^25-1]: The edition reads *revata-vaṁśa*, “the line of Revata” (Revata, also called Kakudmī, is Revatī's father). Possibly *revaty-aṁśa* should be read: “born of portions of Vāruṇī and Revatī.”
 
-[^35-1]: So in the edition. The *Caitanya-bhāgavata* itself (Madhya, Chapter 1) apparently reads “of the Prabhu's father,” that is, Jagannātha Miśra: Ratnagarbha Ācārya was his fellow villager from Śrīhaṭṭa.
+[^35-1]: The *Caitanya-bhāgavata* itself (Madhya 1.296) reads “a companion of the Prabhu's father,” that is, from the context, of Jagannātha Miśra. Below (on verse 44) the edition again calls Ratnagarbha a childhood friend of Hāḍāi Ojhā, Nityānanda's father.
 
 [^40-1]: So in the edition (*dvādaśa varṣera*, “of twelve years”). Yet just below it says that in his fifth year the child had already gone with Mother Jāhnavā to Vṛndāvana.
