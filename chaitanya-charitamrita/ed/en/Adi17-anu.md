@@ -276,6 +276,142 @@ This incident is not in the *Śrī Caitanya-bhāgavata*.
 
 > Subheading: Śrīvāsa reads the *Viṣṇu-sahasra-nāma* —
 
+## 91
+
+> Subheading: The pastime in which the Lord is absorbed in the mood of Nṛsiṁha —
+
+## 92
+
+> Subheading: Absorbed in the mood of Śrī Nṛsiṁha, the one chastiser of godlessness, the Lord puts the godless to flight —
+
+## 93
+
+> Subheading: The people's terror —
+
+**Bhāge**: they flee. This incident is not in the *Caitanya-bhāgavata*.
+
+## 94
+
+> Subheading: The Lord restrains His anger and shows compassion —
+
+## 95
+
+> Subheading: The Lord's words to Śrīvāsa —
+
+## 90–95
+
+*Caitanya-maṅgala*, Madhya-khaṇḍa: “Śrīvāsa Paṇḍita was performing the rite for his ancestors. With a very pure heart he hears the ‘Sahasra-nāma.’ At that time Gaurahari came to that place. He hears the ‘Sahasra-nāma’ to His heart's content. As He listened, He became absorbed in the mood of Nṛsiṁha. Both His eyes turned red with anger, His hair stood on end. His whole body thrilled, the color of the dawn. Again and again a loud roar — the roar of a lion. Suddenly He seized a club and rushed off. Seeing this, everyone trembled at heart. Restraining it all, the Lord sat on His seat: ‘I do not know what offense I have committed.’”
+
+## 96
+
+> Subheading: Śrīvāsa's words: Gaura's name destroys offenses —
+
+## 97
+
+> Subheading: The sight of Gaura destroys worldly existence —
+
+## 99
+
+> Subheading: The Lord in the mood of Śiva on the shoulders of a most fortunate Śaiva —
+
+## 99–100
+
+See the *Caitanya-bhāgavata*, Madhya, Chapter 8.
+
+## 101
+
+> Subheading: The Lord gives love for Kṛṣṇa to a dancing beggar —
+
+## 103
+
+> Subheading: The Lord asks an astrologer about His own past —
+
+**Sarvajña**: one who knows the three times — past, future and present.
+
+## 104
+
+To this day in East Bengal (especially in the Ḍhākā division), in place of verb forms such as *chila*, *chile*, *chilām*, people use *āchila*, *āchilā* and *āchilām*.
+
+## 105
+
+> Subheading: The astrologer realizes that the Lord is the Supreme Lord —
+
+## 107
+
+> Subheading: The astrologer is bewildered —
+
+## 108
+
+> Subheading: The astrologer's answer to the Lord's question —
+
+## 110
+
+> Subheading: The Lord declares Himself a cowherd —
+
+## 110–111
+
+The Lord's playful, mysterious words to the all-knowing astrologer.
+
+## 112
+
+> Subheading: Seeing the dark form, the astrologer is bewildered and takes shelter of the Lord —
+
+## 114
+
+> Subheading: The Lord shows mercy to the astrologer and gives him *prema* —
+
+## 103–114
+
+The story of the astrologer is not found in the *Caitanya-bhāgavata*.
+
+## 115
+
+> Subheading: In the mood of Baladeva, the Lord enacts the pastime of dragging the Yamunā —
+
+## 116
+
+See the *Caitanya-bhāgavata*, Madhya, Chapter 25.
+
+## 117
+
+Baladeva went to Gokula and lived there in the months of Caitra and Vaiśākha surrounded by the *gopīs*. Having drunk *vāruṇī*, Baladeva called the Yamunā to come near so that he could sport in the water. (*Śrīmad-Bhāgavatam* 10.65.25–30, 33): “The Lord called the Yamunā for sport in the water. But the river disregarded his words, thinking him drunk, and did not come. Then Bala, angered, dragged her with the tip of his plough. ‘Sinful one! Disregarding me, you do not come when I call. With the tip of my plough I will bring you here, split into a hundred streams, you willful one!’ Thus rebuked, the frightened Yamunā, O king, trembling, fell at the feet of the delight of the Yadus and said: ‘Rāma, Rāma, mighty-armed one! I did not know your might: by a single portion of it you uphold the earth, O lord of the universe. O Bhagavān, soul of the universe, lover of your devotees! Release me: I did not know the supreme nature of the Lord, and now I have surrendered to you.’ Then, being entreated, Lord Bala released the Yamunā and plunged into the water with the women, like the king of elephants with his she-elephants. Even today, O king, the channel along which the Yamunā was dragged can be seen; it seems to proclaim the might of Bala, whose power is unlimited.”
+
+## 118
+
+> Subheading: Candraśekhara Ācāryaratna sees the Lord in the form of Baladeva —
+
+## 119
+
+> Subheading: Vanamālī Ācārya sees a golden plough in the Lord's hand —
+
+*Caitanya-maṅgala*, Madhya-khaṇḍa: “With him was his son, named Vanamālī. Born in a brāhmaṇa family, he lives in the eastern land, Vaṅga. He saw the Lord's body fashioned of gold, adorned with jewels, like the peak of Sumeru. In the guise of Halāyudha the Lord of the three worlds dances.” “Vanamālī Paṇḍita,” mentioned in Ādi 10.73, also saw the golden plough and pestle in the Lord's hands. That one has the title “Paṇḍita,” and this one the title “Ācārya”: are they one and the same person, or two different people?
+
+## 120
+
+> Subheading: A dance lasting twelve hours —
+
+## 121
+
+> Subheading: By the Lord's order, *kīrtana* of Kṛṣṇa in every home —
+
+## 122
+
+> Subheading: A song of the names —
+
+## 124
+
+> Subheading: The *yavanas* and the Kāzī oppose the *kīrtana* —
+
+The townspeople's *kīrtana* of Kṛṣṇa, the Kāzī's anger, and the Kāzī's deliverance: see the *Caitanya-bhāgavata*, Madhya, Chapter 23.
+
+Kāzī: the *phaujadāra* (district magistrate), Chā̃d Kāzī. In former times the land tax was collected by the zamindars — rājās or *maṇḍalas* (village headmen). Punishment, administration and the like were in the hands of the *kāzīs*. Both zamindar and *kāzī* were subordinate to the *subādāra*, the governor of Subā Bāṅgālā. The *parganās* of Nadīyā, Islāmapura, Bāgoyāna and others then belonged to Hari Hoḍa or to his descendant Kṛṣṇadāsa Hoḍa. But although they owned the land, it was the Kāzī who had taken over the government. It is said that Chā̃d Kāzī was the guru of the Nawab of Bengal, “Hosena Sā.” According to some, his other name was “Maulānā Sirājuddin”; others say “Habibar Rahamān.” His descendants still live in that place, and Chā̃d Kāzī's tomb also survives.
+
+## 125
+
+> Subheading: The Kāzī breaks the *khola* —
+
+To this day in the village of Śrī Māyāpura there is a well-known piece of land called “Khol-bhāṅgār Ḍāṅgā” (“the mound where the *khola* was broken”).
+
 ---
 
 [^31-1]: So in the edition: *taror api*; the verse reads *taror iva*.

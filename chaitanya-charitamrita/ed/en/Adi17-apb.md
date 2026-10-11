@@ -119,3 +119,15 @@ One day the Lord, tired from the city *kīrtana* with the devotees, came to a ce
 ## 89
 
 One day Mahāprabhu was performing *saṅkīrtana* far away, and at that time the sky was massed with clouds. The Lord willed the clouds to go and ordered them away, and they at once dispersed. For this reason that sandbank of the Gaṅgā came to be called “Megher Car” (“the Cloud Sandbank”). Now, because the Gaṅgā has changed its course, that “Megher Car” has shifted to the village of “Belpukhuriyā.” And the place where Belpukhuriyā used to be is now called “Tāraṇavāsa” and “Ṭoṭā.”
+
+## 111
+
+Serving cows brings piety. In My previous birth I was a cowherd and served the cows. The piety I earned in this way was the cause (bore the fruit) of My becoming a “brāhmaṇa” this time.
+
+## 117
+
+The pastime of dragging the Yamunā: one day Baladeva, angry with the Yamunā, dragged the Yamunā with His plough and pestle. When Mahāprabhu, in the mood of Baladeva, cried, “Bring honey, bring honey!”, all the others at that moment were seeing that very pastime of dragging the Yamunā.
+
+## 121
+
+When preaching the name in the town, the Lord first ordered the townspeople who lived near Śrīvāsa's courtyard to chant the name of Hari while clapping their hands; gradually *mṛdaṅgas*, *karatālas* and the like began to be played. From then on *saṅkīrtana* has spread from door to door, and it continues to this day.
