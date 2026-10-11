@@ -394,9 +394,17 @@ Viśākhā's words to Savarṇā, the wife of Sūrya: **gopīnāṁ** **durūha-
 
 ***Bāṭa*** — a path, a road. ***Ṭhāṭa*** — an army drawn up in ranks.
 
+## 285
+
+***Sādhvasa*** — fear, terror, apprehension, agitation of the mind, confusion.
+
 ## 287
 
 > Subheading: The *gopīs* offer prayers to Nārāyaṇa —
+
+## 288
+
+***More*** — to us.
 
 ## 290
 
@@ -409,16 +417,6 @@ Viśākhā's words to Savarṇā, the wife of Sūrya: **gopīnāṁ** **durūha-
 ## 293
 
 > Subheading: Kṛṣṇa's cleverness is defeated before Śrī Rādhā; Śyāmasundara is the eternal *svayaṁ-rūpa* — (*Ujjvala-nīlamaṇi*, section 7, the words of Śrī Rūpa Gosvāmī)
-
-## 285
-
-***Sādhvasa*** — fear, terror, apprehension, agitation of the mind, confusion.
-
-## 288
-
-***More*** — to us.
-
-## 293
 
 **govardhanopatyakāyāṁ** (in the valley at Govardhana, at the site of the *rāsa* known as “Parāsaulī”) **vasanta-kāle** (in spring) **rāsārambha-vidhau** (at the beginning of the *rāsa* dance, that is, when it was about to begin) **kuñje** **nilīya vasatā** (hiding) **hariṇā** (by Śrī Kṛṣṇa) **mṛgākṣi-gaṇaiḥ** (doe-eyed) **gopībhiḥ** (by the *gopīs* — in the forest Praviṣṭaka, called Peṭhā) **dṛṣṭaṁ** **svam** (Himself) **gopayituṁ** (to hide — for the many *gopīs* had surrounded that *kuñja* on all sides, and it was impossible to slip away from it suddenly) **uddhura-dhiyā** (with superb intelligence) **yā** **catur-bāhutā** **suṣṭhu** **sandarśitā**, **yasya** (of the glory of love for Kṛṣṇa) **śriyā** **prabhaviṣṇunā** (by Kṛṣṇa) **api** **sā** **catur-bāhutā** **rakṣituṁ** **na** **śakyā** **āsīt** — **hanta** (oh!) **rādhāyāḥ** **praṇayasya** **mahimā** (glory) — (so inconceivable is it). (In the *Gautamīya-tantra*: “…dwelling on the beautiful hill of Govardhana, eager to taste the *rasa* of the *rāsa* dance.” Bhagavān is subordinate to *prema*; still, one cannot say that His majesty ceases to exist before *prema*, for it is eternal; rather, it becomes hidden.)
 
@@ -476,7 +474,7 @@ See Ādi 17.276–278.
 
 ## 307
 
-> Subheading: The wretched fate of the logician: “The doubter perishes” —
+> Subheading: The wretched fate of the logician: “The doubter perishes”[^307-1] —
 
 ***Kumbhīpāka*** — a particular hell, where sinners are cooked in a special vessel called a *kumbhī*. (*Śrīmad-Bhāgavatam* 5.26.13): “One who in this world cruelly cooks animals or birds alive — merciless, despised even by man-eaters — is cooked in the next world by the servants of Yama in Kumbhīpāka, in boiling oil.” The *jīva* who kills living beings deserves Yama's punishment and is cooked in Kumbhīpāka.
 
@@ -537,5 +535,7 @@ See Madhya 21.10 and 12, and *Śrīmad-Bhāgavatam* 2.7.41, 10.14.7 and other ve
 ---
 
 [^230-1]: In the *smṛti*, a *golaka* is a son born to a widow after her husband's death (*Manu-saṁhitā* 3.174).
+
+[^307-1]: *Bhagavad-gītā* 4.40.
 
 [^329-1]: The verse translation reads otherwise: “After the fourteen introductory chapters, in five chapters I have briefly told of the five transcendental kinds of relationship with God.”
