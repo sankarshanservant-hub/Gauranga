@@ -52,6 +52,76 @@ Mahāprabhu called Vidyānidhi “Father” and gave him the name “Premanidhi.
 
 In Puṇḍarīka's family Śrī Harakumāra Smṛtitīrtha and Śrī Kṛṣṇakiṅkara Vidyālaṅkāra are now living (see the *Vaiṣṇava-mañjuṣā*, issue 1).
 
+## 15
+
+> Subheading: (4) The branch of Śrī Gadādhara —
+
+Gadādhara Paṇḍita Gosāñi (*Gaura-gaṇoddeśa*, verses 147–153): “She who was formerly the Queen of Vṛndāvana, the embodiment of Śrī Rādhā's *prema*, is now Śrī Gadādhara, the beloved of Gaura, who bears the name ‘Paṇḍita.’ Śrī Svarūpa has determined that he is the Lakṣmī of Vraja: ‘She who formerly in Vṛndāvana was Lakṣmī, the beloved of Śyāmasundara, is now the Lakṣmī of Gaura's *prema*, Śrī Gadādhara Paṇḍita.’ Lalitā follows Rādhā and is therefore also called Anurādhikā; so she too entered him, as described in the *Gauracandrodaya*.”
+
+For the branch of Gadādhara, see the end of Ādi, Chapter 12.
+
+## 17
+
+> Subheading: (5) The glory and the branch of Śrī Vakreśvara —
+
+Śrī Vakreśvara Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 71): “He who was Aniruddha, the fourth *vyūha*, is Vakreśvara Paṇḍita. With his dancing, born of absorption in Kṛṣṇa, he gave the Lord joy. ‘O merciful one, give me a thousand singers!’ — these sweet words he spoke at Caitanya's feet. Śaśirekhā entered him as a distinct manifestation of herself.”
+
+Śrī Dhyānacandra Gosvāmī Prabhu writes: “I worship Śrī Vakreśvara Paṇḍita, the best of the twice-born, the devotee of Caitanya. He is devoted to revealing the *rasa* of Rādhā and Kṛṣṇa, adorned with garlands of songs, born to spread the happiness of Vṛndāvana, and endowed with *stambha* and the other *bhāvas*; he is the sprout of the avatāra of dance that merges with the *rasa* of Śrī Gaurāṅga Mahāprabhu. Within him Tuṅgavidyā always dwells, full of eager longing: she has become a *vipralabdhā* (a heroine disappointed in her waiting) and is ever filled with love for Śrī Kṛṣṇa. Her age is the measure (?).[^17-1] In Gaura's *rasa*, in the Kali age, she again became famous as Vakreśvara.”
+
+He used to dance in Mahāprabhu's *kīrtana* in Śrīvāsa's courtyard and in Candraśekhara's house. On how the Lord told Devānanda of Vakreśvara's glory, see the *Caitanya-bhāgavata*, Antya, Chapter 3.
+
+The Utkala poet Śrī Govinda writes of Śrī Vakreśvara in the *Śrī Gaura-kṛṣṇodaya*: “Considering that he was the Lord's first disciple, they settled Vakreśvara in that hermitage and each went to his own dwelling.”
+
+His disciple was Śrī Gopāla-guru, and Gopāla-guru's disciple was Śrī Dhyānacandra. In Utkala most of those in the line of Śrī Vakreśvara's disciples call themselves Gauḍīya Vaiṣṇavas.
+
+## 21
+
+> Subheading: (6) The greatness of Śrī Jagadānanda —
+
+Jagadānanda. In the *Gaura-gaṇoddeśa* (verse 51): “By a certain inner distinction the Sātvatas set him apart: Jagadānanda Paṇḍita is also a manifestation of Satyabhāmā.” He was the Lord's companion in *kīrtana* in Śrīvāsa's courtyard and in Candraśekhara's house. When the Lord went to Orissa after His *sannyāsa*, he carried His *daṇḍa* and begged alms.
+
+## 24
+
+> Subheading: (7) The branch of Śrī Rāghava Paṇḍita —
+
+Rāghava Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 44): “Dhaniṣṭhā, who in Vraja gave Kṛṣṇa countless foodstuffs, is now Rāghava Paṇḍita, dear to Gaurāṅga.”
+
+Rāghava's house is in the village of Pāṇihāṭī on the bank of the Gaṅgā: on the E.B.R. line from Śiyāladaha station to Sodapura station, and from there one mile west. Over Rāghava Paṇḍita's *samādhi* a high platform has been built, surrounded by a bower of creepers. North of the *samādhi*, in a nearly ruined, dilapidated house, resides the Deity Śrī Madana-mohana, who is served without proper care. This service is managed under the supervision of the present zamindar of Pāṇihāṭī, Śrī Śivacandra Rāya Caudhurī.
+
+Makaradhvaja. In the *Gaura-gaṇoddeśa* (verse 141): “He who was formerly the actor Candramukha is Makaradhvaja Kara.” He lived in the village of Pāṇihāṭī.
+
+## 25
+
+> Subheading: The virtues of his sister Damayantī —
+
+Damayantī. In the *Gaura-gaṇoddeśa* (verse 167): “She who in Vraja was Guṇamālā is Damayantī, his sister.”
+
+## 27
+
+For a description of the *jhāli* (bags), see Antya, Chapter 10.
+
+## 29
+
+> Subheading: (8) Śrī Gaṅgādāsa —
+
+Gaṅgādāsa Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 53): “He who was formerly the sage Vasiṣṭha, the guru of Raghunātha, [became] by a special manifestation Gaṅgādāsa and Sudarśana.” The same, verse 119: “… Gaṅgādāsa, dear to the Lord, was formerly Durvāsā in Nidhuvana, dear to the gopīs.”
+
+## 30
+
+> Subheading: (9) Śrī Purandara Ācārya —
+
+Purandara Ācārya. *Caitanya-bhāgavata*, Antya, Chapter 5: “As soon as the Lord arrived at the Paṇḍita's house, Ācārya Purandara heard the news and came. Seeing him, the Lord called him ‘Father’ and, maddened with ecstatic love, took him in His arms. Supremely fortunate is that Ācārya Purandara: seeing the Lord, he wept, unable to restrain himself.”
+
+## 31
+
+> Subheading: (10) The branch of Śrī Dāmodara Paṇḍita —
+
+## 31–32
+
+Dāmodara Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 169): “The fierce Śaibyā who was in Vraja is Dāmodara Paṇḍita. For some purpose the goddess Sarasvatī entered him.” By the Lord's order Dāmodara would come to Gauḍa to see Āi (Śacīmātā), and then, before the Ratha-yātrā, go again with the devotees to Puruṣottama (*Caitanya-bhāgavata*, Antya, Chapter 9). For the Lord's question about Śacīdevī's devotion to Kṛṣṇa and Dāmodara Paṇḍita's answer, see the *Caitanya-bhāgavata*, Antya, Chapter 10. For Dāmodara's verbal chastisement of the Lord, see Antya-līlā, Chapter 3.
+
 ---
 
 [^14-1]: The edition reads *śakti adhastana*, literally “descendants by *śakti*”; the sense probably requires *śaukra* (শৌক্র), “descendants by birth.”
+
+[^17-1]: An unclear place in the quotation: the words “her age is the measure” are not connected to anything in the extract; perhaps the statement of the age itself has been left out.
