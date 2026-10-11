@@ -109,3 +109,57 @@ Keśava Purī, Kṛṣṇānanda Purī, Nṛsiṁha Tīrtha and Sukhānanda Pur�
 > Subheading: Seeing Gaura's mercy, the *jīva* attains eternal good in chanting Gaura's name —
 
 Piety makes people in the world happy, and the spread of sin increases human misery. The pure life of the pious is glorified, while people do not even wish to speak of the outrages of the sinful. In the same way, when the people of the world become happy by obtaining *kṛṣṇa-prema*, the good fame of the One who gives *prema* will grow.
+
+## 41
+
+> Subheading: Everyone born as a human being in the land of Bhārata must show people eternal mercy — that is, turn them toward Kṛṣṇa —
+
+To be born a human being in holy Bhāratavarṣa and to do the world real, eternal good — this is the fulfillment of having received a body in the holiest land and among the highest of beings.
+
+## 42
+
+> Subheading: To turn the *jīva* toward devotion to Kṛṣṇa by body, mind and words is the highest mercy, the highest auspicious act (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 22, verse 35) —
+
+After the pastime of stealing the garments, Śrī Kṛṣṇa went far away with His friends, the cowherd boys, and sat down to rest beneath some trees. Seeing how the trees help others and how compassionate and tolerant they are, He pointed to them and said to His friends:
+
+**sadā** **prāṇaiḥ** **arthaiḥ** **dhiyā** **vācā** (by every means) **dehiṣu** (toward the *jīvas*) **śreya** **ācaraṇam** (doing eternal good — that is, removing their aversion to Bhagavān, turning them toward Him, and so fully showing eternal mercy) — **etāvat** **eva** **iha** (in this world) **dehinām** (for the *jīvas*) **janma-sāphalyam** ([is], to be supplied).
+
+## 43
+
+> Subheading: (*Viṣṇu Purāṇa*, Part 3, Chapter 12, verse 45)
+
+**mati-mān** (an intelligent person) **yat** **eva** **karma** **iha** (in this world) **paratra** (in the next) **ca** **prāṇinām** **upakārāya** (for their eternal good) [is], **tat** **eva** (that is, only what produces the *sukṛti* that turns one toward devotion to Bhagavān) **karmaṇā** **manasā** **vācā** (by body, mind and words) **bhajet**.
+
+## 45
+
+> Subheading: Seeing the causeless mercy of the tree, He wishes to become the original wish-fulfilling tree —
+
+## 46
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 22, verse 33)
+
+After the pastime of stealing the garments, Śrī Kṛṣṇa went far away with His friends, the cowherd boys, and rested beneath the trees. Seeing the trees' tolerance and their constant readiness to help others, He pointed to them and said to His friends:
+
+**aho** **eṣām** (of these trees) **sarva-prāṇy-upajīvanam** (that by which all beings live)[^46-1] **janma** **sujanasya** **iva** **varam** (the best), — **yeṣām** (from whom) **arthinaḥ** (those who ask) **vimukhāḥ** (with their wishes unfulfilled) **na** **yānti** (do not go away).
+
+## 47
+
+> Subheading: Hearing this, all the parts of the tree were filled with joy —
+
+## 48
+
+> Subheading: The fruits of *prema* are given without regard to qualification —
+
+## 51
+
+> Subheading: By giving the *jīva* love for Kṛṣṇa like His own, He makes him a *mahā-bhāgavata* —
+
+## 53
+
+> Subheading: Even lowly blasphemers and others are delivered by obtaining love for Kṛṣṇa —
+
+*Thus ends the ninth chapter of the “Anubhāṣya.”*
+
+---
+
+[^46-1]: So in the edition; the transliteration of the verse reads *upajīvinām* (“who sustain all beings”).

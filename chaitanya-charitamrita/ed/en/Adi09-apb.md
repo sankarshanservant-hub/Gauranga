@@ -35,3 +35,9 @@ The fulfillment of birth for an embodied *jīva* is always to do good to others 
 ## 43
 
 An intelligent person does by deed, mind and word whatever benefits living beings in this life and the next.
+
+## 46
+
+Pointing to the trees, He says: “Oh, all living beings live by them! Their birth is fruitful. Those who ask never leave them empty-handed. They behave like good people.”
+
+*Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
