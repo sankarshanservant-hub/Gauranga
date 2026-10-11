@@ -238,7 +238,50 @@ Sudevī-sakhī, one of the eight *sakhīs*, is in the avatāra of Gaura (1) Śr�
 
 > Subheading: The order to the author to describe Gaura's final pastimes —
 
+## 66
+
+> Subheading: Separate introductions of the devotees who gave the same order —
+
+Śrī Kāśīśvara (Paṇḍita) Gosvāmī was a disciple of Śrī Īśvara Purī and the son of Vāsudeva Bhaṭṭācārya of the Vātsya *gotra*, of the Kāñjilāla Kānu family. His family title was Caudhurī. His nephew, his sister's son, was Śrī Rudra Paṇḍita of Vallabhapura (see verse 106).[^66-1] In the village of Cātarā, one mile from Śrīrāmapura station, there are Deities of Śrī Rādhā-Govinda and Śrī Gaurāṅga established by him. He was very strong: every day, when Śrīman Mahāprabhu went to see Jagannātha, Kāśīśvara walked ahead, pushed the crowd aside and cleared the way for Him (see Ādi 10.138–142; Madhya 12.207; 13.89). In Puruṣottama he distributed *prasāda* to the devotees after *kīrtana*. On his meeting with Mahāprabhu see Madhya 10.134, 185.
+
+The present superintendent of the service is Śrī Śivacandra Caudhurī, of the line of Kāśīśvara Gosvāmī Prabhu's brother. Here nine seers of rice are allotted daily for the service. From of old there were lands near the village set aside for the service of the Deity, but the descendants of his brother lost all that property in the courts, and the service is now poorly provided for. In the *Śrī Gaura-gaṇoddeśa* (verses 137 and 166) it is said that he who in Vṛndāvana was Kṛṣṇa's servant “Bhṛṅgāra,” or she who was “Śaśirekhā,” is Kāśīśvara in the avatāra of Gaura (?).
+
+## 69
+
+The disciples of Bhūgarbha (Ādi 12.81) were Caitanya dāsa, Mukundānanda and Kṛṣṇadāsa. On Śivānanda see Ādi 12.87.
+
+## 73
+
+> Subheading: At the order of the Vaiṣṇavas he reverently asks permission of Śrī Madana-Gopāla —
+
+## 74
+
+> Subheading: As soon as he made his request through the priest Gosāñi dāsa, the garland of command fell from Madana-Gopāla before all the Vaiṣṇavas —
+
+## 77
+
+> Subheading: Receiving the garland of command, he set out to write this book —
+
+## 78
+
+> Subheading: Madana-mohana Himself is wholly the doer and inspirer of the book's composition —
+
+## 80
+
+> Subheading: The service of Madana-mohana in the author's guru-paramparā —
+
+## 81
+
+> Subheading: As befits a Vaiṣṇava, the author regards Ṭhākura Vṛndāvana dāsa as his guru and bows to him —
+
+## 83
+
+> Subheading: Words of humility —
+
+*Thus ends the eighth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^24-1]: *Śivasya* can also be read as “of Śiva”; it then refers to one who sees the names and qualities of Śiva as different from Śrī Viṣṇu, that is, as independent. In the explanation below Bhaktisiddhānta gives both readings.
 [^25-1]: Apparently Śrī Jīva Gosvāmī's *Krama-sandarbha* on this verse.
+[^66-1]: The edition does not name the chapter.

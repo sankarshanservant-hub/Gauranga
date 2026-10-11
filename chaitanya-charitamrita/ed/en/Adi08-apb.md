@@ -70,6 +70,12 @@ In one who has exclusive devotion (*kevalā bhakti*) to Śrī Kṛṣṇa, all t
 
 “Paṇḍita Gosāñi” is Śrī Gadādhara Paṇḍita.
 
+## 78
+
+That I have written this *Caitanya-caritāmṛta* is by the inspiration of Śrī Madana-mohana. Therefore, like a parrot reciting what it was taught, I have no merit of my own.
+
+*Thus ends the eighth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^19-1]: The verse translation reads differently: the verse is given there as the words of Śukadeva Gosvāmī to Mahārāja Parīkṣit (*Śrīmad-Bhāgavatam* 5.6.18; so also in the *Anubhāṣya*), and it says that the Lord gives *bhakti-yoga* to no one.
