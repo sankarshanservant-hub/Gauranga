@@ -5147,3 +5147,302 @@
   event: ev-brahmana-curse-sannyasa
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "60", to: "64"}
+
+- id: cc-0257
+  source: cc
+  ref: "Ади 17.65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 113.7
+  title: "Сутра: Господь наказанием являет милость Мукунде Датте и рассеивает его уныние"
+  summary: "Мукунде Датте Господь оказал милость в виде наказания и рассеял всё уныние его сердца."
+  persons: ["@mahaprabhu", "@mukunda-datta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — ЧБ Мадхья 10."
+  themes: [mercy]
+  cc: "Ади 17"
+  event: ev-mukunda-danda-prasada
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "65", to: "65"}
+
+- id: cc-0258
+  source: cc
+  ref: "Ади 17.66–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 112.8
+  title: "Сутра: Господь чтит Адвайту как гуру; огорчённый Адвайта нарочно толкует путь знания и, наказанный, ликует"
+  summary: "Господь относился к Адвайте Ачарье как к гуру, и Ачарья очень огорчался. Тогда он нарочно стал толковать путь знания, и Господь в гневе выказал ему неуважение; Ачарья возликовал, а Господь, смутившись, оказал ему милость."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "Сутра; место в ЧЧ не названо (в ЧБ Мадхья 19 и «Адвайта-пракаше» — Шантипур)."
+  themes: [mercy, teaching]
+  teaching: [bhakti-supremacy]
+  cc: "Ади 17"
+  divergence: "В «Адвайта-пракаше» Адвайта толкует «Йога-васиштху», и Господь в гневе Нрисимхи сбрасывает Его с помоста; в ЧЧ — кратко: «выказал неуважение»."
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "66", to: "68"}
+
+- id: cc-0259
+  source: cc
+  ref: "Ади 17.69"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 104
+  title: "Сутра: услышав от Мурари Гупты славу Рамы, Господь пишет у него на лбу «Рамадас»"
+  summary: "Услышав из уст Мурари Гупты множество достоинств Рамы, Господь написал у него на лбу имя «Рамадас»."
+  persons: ["@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; «Анубхашья» приводит рассказ «Чайтанья-мангалы»: Мурари читает восемь шлок о Рагхувире, Господь ставит стопу ему на голову и являет облик Рамы."
+  themes: [mercy, revelation]
+  bhava: [rama]
+  cc: "Ади 17"
+  event: ev-murari-ramadasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "69", to: "69"}
+
+- id: cc-0260
+  source: cc
+  ref: "Ади 17.70"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 123
+  title: "Сутра: Господь пьёт воду из железного сосуда Шридхары и дарует преданным желанные благословения"
+  summary: "Господь выпил воды из железного сосуда Шридхары и даровал всем преданным желанные благословения."
+  persons: ["@mahaprabhu", "@shridhara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — ЧБ Мадхья 23 (после усмирения Кази)."
+  themes: [mercy]
+  cc: "Ади 17"
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "70", to: "70"}
+
+- id: cc-0261
+  source: cc
+  ref: "Ади 17.71"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 127.5
+  title: "Сутра: милость Харидасу Тхакуру; Господь избавляет Шачи от оскорбления перед Адвайтой"
+  summary: "Господь оказал милость Харидасу Тхакуру и избавил Свою мать от оскорбления, нанесённого Адвайте Ачарье."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@shachi", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра двух эпизодов; по «Анубхашье»: милость Харидасу — ЧБ Мадхья 10, Шачи — ЧБ Мадхья 22 (ср. ст. 10: дарование премы Шачи)."
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  cc: "Ади 17"
+  divergence: "В ЧЧ и ЧБ оскорбление Шачи — перед Адвайтой; у Карнапуры («Чайтанья-чандродая», акт 1) — перед Шривасой и другими преданными."
+  event: ev-shachi-vaishnava-aparadha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "71", to: "71"}
+
+- id: cc-0262
+  source: cc
+  ref: "Ади 17.72–76"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 90
+  title: "Ученик называет славу Имени артхавадой; Господь велит не смотреть ему в лицо, омывается в Ганге в одежде и возвещает: Кришну подчиняет лишь према"
+  summary: "Господь рассказывал преданным о славе Имени; ученик, услышав это, назвал её артхавадой (преувеличенной похвалой). Опечаленный Господь запретил всем смотреть ему в лицо, со спутниками в одежде омылся в Ганге и там растолковал славу бхакти: Кришна не подчиняется знанию, карме, йоге и дхарме — Его подчиняет лишь вкус любви к Нему (шлока «Бхагаваты» 11.14.20)."
+  persons: ["@mahaprabhu", "@uddhava", "@krishna"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [offense, teaching]
+  teaching: [holy-name, bhakti-supremacy]
+  scriptures: ["Бхаг. 11.14.20"]
+  cc: "Ади 17"
+  divergence: "У Мурари и Лочана Даса ученик говорит, что Кришна порождён майей; в ЧЧ и у Карнапуры — называет славу Имени артхавадой."
+  event: ev-blasphemous-student-ganga-bath
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "72", to: "76"}
+
+- id: cc-0263
+  source: cc
+  ref: "Ади 17.77–78"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 127
+  title: "«Ты подчинил Кришну», — говорит Господь Мурари; Мурари отвечает шлокой Судамы «кваха̄м̇ даридрах̣»"
+  summary: "Господь сказал Мурари: «Ты подчинил Кришну». В ответ Мурари прочёл шлоку «Бхагаваты» (10.81.16): «Кто я — нищий грешник, брахман лишь по рождению, и кто Кришна, обитель Шри? И всё же Он обнял меня Своими руками»."
+  persons: ["@mahaprabhu", "@murari-gupta", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Шлока — слова брахмана Судамы. Ст. 77 — у ВЧД «Ты угодил Господу Кришне» (исправлено со сноской: кришна-ваша — «подчинил Кришну»)."
+  themes: [mercy, teaching]
+  teaching: [bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 10.81.16"]
+  cc: "Ади 17"
+  event: ev-murari-sudama-verse-abhisheka
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "77", to: "78"}
+
+- id: cc-0264
+  source: cc
+  ref: "Ади 17.79–88"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 82
+  title: "Чудо с манговым деревом: из косточки тотчас вырастает дерево; плоды без косточки и кожуры год служат праздником после киртана"
+  summary: "Однажды после санкиртаны Господь, устав, сел и посадил во дворе косточку манго; она тотчас проросла, дерево выросло и на глазах у всех принесло множество спелых плодов. Господь велел сорвать около двухсот, омыл и поднёс Кришне. Плоды, красно-жёлтые, без косточки и кожуры, полные нектарного сока, — одного хватало, чтобы насытиться; Господь сначала вкусил Сам и накормил всех. Двенадцать месяцев дерево плодоносило каждый день, и после киртана Господь устраивал праздник манго; кроме преданных, об этих лилах никто не знал."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: miracle
+  authority: A
+  themes: [kirtan, prasada]
+  cc: "Ади 17"
+  divergence: "У Мурари, Лочана Даса и Карнапуры дерево вырастает на миг как «фокус» — урок о майе и посвящении дел Господу (у Лочана Даса дерево затем исчезает); в ЧЧ дерево плодоносит год, плоды без косточки и кожуры."
+  event: ev-mango-tree
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "79", to: "88"}
+
+- id: cc-0265
+  source: cc
+  ref: "Ади 17.89"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 78
+  title: "Господь Своей волей рассеивает тучи над киртаном"
+  summary: "Во время киртана собрались тучи, и Господь Своей волей остановил их."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: miracle
+  authority: A
+  themes: [kirtan, revelation]
+  cc: "Ади 17"
+  divergence: "У Мурари, Лочана Даса и Карнапуры Господь берёт мандиры и поёт, и тучи расходятся; в ЧЧ — одной волей."
+  event: ev-clouds-dispersed-kirtan
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "89", to: "89"}
+
+- id: cc-0266
+  source: cc
+  ref: "Ади 17.90–98"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 124
+  title: "Бхава Нрисимхи: услышав имя Нрисимхи в «Сахасра-наме», Господь с палицей бежит в город; люди в страхе, Шриваса утешает Господа"
+  summary: "Господь велел Шривасе читать «Брихат-сахасра-наму»; когда тот дошёл до имени Нрисимхи, Господь в бхаве Нрисимхи схватил палицу и побежал в город истреблять пашанди; люди в ужасе разбегались. Видя их страх, Господь пришёл во внешнее сознание, вернулся в дом Шривасы, бросил палицу и в печали сказал: «Люди испугались — это Моё оскорбление». Шриваса ответил: «Кто произносит Твоё имя, у того исчезают миллионы оскорблений; оскорбления нет — Ты освободил людей: кто увидел Тебя, свободен от сансары», — и послужил Ему; довольный Господь вернулся домой."
+  persons: ["@mahaprabhu", "@srivasa", "@nrisimha"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 91 — по изданию ГМ «гунадхама» (обитель достоинств); у ВЧД — «Шри Гаурачандра» (сноска)."
+  themes: [revelation, ecstasy]
+  bhava: [nrisimha]
+  cc: "Ади 17"
+  divergence: "У Мурари, Лочана Даса и Карнапуры Шриваса слушает «Тысячу имён» после поминального обряда, и Господь приходит сам; в ЧЧ Господь велит Шривасе читать и бежит с палицей в город."
+  event: ev-nrisimha-bhava-shrivasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "90", to: "98"}
+
+- id: cc-0267
+  source: cc
+  ref: "Ади 17.99–100"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 125
+  title: "Певец Шивы: Господь в бхаве Махеши пляшет у него на плечах"
+  summary: "Преданный Шивы пел о Шиве во дворе Господа, плясал и играл на дамару; Господь, проникшись бхавой Махеши, взобрался ему на плечи и долго плясал."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, revelation]
+  bhava: [shiva]
+  cc: "Ади 17"
+  event: ev-shiva-singer
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "99", to: "100"}
+
+- id: cc-0268
+  source: cc
+  ref: "Ади 17.101–102"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 125.5
+  title: "Нищий, пришедший за подаянием, пляшет с Господом и получает прему"
+  summary: "Нищий пришёл за подаянием и, увидев пляску Господа, сам пустился в пляс; он плясал с Господом в великой радости, и Господь даровал ему прему — тот поплыл в её вкусе."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy, ecstasy]
+  cc: "Ади 17"
+  event: ev-beggar-dances-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "101", to: "102"}
+
+- id: cc-0269
+  source: cc
+  ref: "Ади 17.103–114"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 85
+  title: "Всеведущий астролог: на вопрос о прежнем рождении он видит в медитации Высшую Истину; Господь смеётся: «Я был пастушком»"
+  summary: "Пришёл всеведущий астролог; Господь почтил его и попросил вычислить, кем Он был в прошлом рождении. В медитации астролог увидел сияющий облик — прибежище бесчисленных Вайкунтх и вселенных, Высшую Истину, Парабрахмана, Верховного Владыку — и онемел; на повторный вопрос сказал: «Ты был Высшим Прибежищем, Бхагаваном, полным всех достояний, и ныне Ты тот же; Твоя суть — непостижимое вечное блаженство». Господь, смеясь, ответил: «Ты ничего не понял: Я был пастухом, пас коров и за это благочестие стал сыном брахмана». Астролог сказал: «Это я и видел — и, увидев величие, растерялся; тот облик и этот для меня едины, а если вижу различие — это Твоя майя. Кем бы Ты ни был, кланяюсь Тебе». Господь наградил его премой."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 104 — по изданию ГМ иной порядок слов (сверено). Ст. 113 «Твоя майя» — сила Самого Господа, скрывающая от смотрящего тождество обликов (не власть майи над Господом)."
+  themes: [revelation, mercy]
+  bhava: [aishvarya, krishna]
+  cc: "Ади 17"
+  event: ev-astrologer-sarvajna
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "103", to: "114"}
+
+- id: cc-0270
+  source: cc
+  ref: "Ади 17.115–120"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 131
+  title: "Бхава Баларамы: «Несите мёду!» — Нитьянанда подаёт воду Ганги; лила притяжения Ямуны; Чандрашекхара видит Раму, Ванамали — золотой плуг"
+  summary: "Сидя в павильоне Вишну, Господь закричал: «Несите мёду!» Нитьянанда понял Его настроение и поставил перед Ним сосуд с водой Ганги; выпив, Господь в упоении плясал, и все увидели лилу притяжения Ямуны. Он ступал хмельной поступью Баладевы; Ачарья Шекхара (Чандрашекхара) увидел Его в облике Рамы, Ванамали Ачарья — золотой плуг. Все плясали в блаженстве четыре прахары, а вечером, омывшись в Ганге, разошлись по домам."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@vanamali-pandita", "@balarama"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "«Ванамали Ачарья» (ст. 119) отождествлён с @vanamali-pandita, видевшим золотые палицу и плуг (ЧЧ Ади 10.73), — предположительно."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  cc: "Ади 17"
+  divergence: "У Мурари, Лочана Даса и Карнапуры бхава Баларамы — в доме Мурари; в ЧЧ — в павильоне Вишну, воду Ганги подаёт Нитьянанда; видение Ванамали (золотой плуг) — как у Карнапуры."
+  event: ev-balarama-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "115", to: "120"}
+
+- id: cc-0271
+  source: cc
+  ref: "Ади 17.121–138"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 122.5
+  title: "Санкиртана в каждом доме; Кази разбивает мриданг и запрещает киртан; Господь велит украсить город и ведёт вечером три группы киртана"
+  summary: "По велению Господа горожане стали петь санкиртану в каждом доме («хари харайе намах̣…»), и, кроме «Хари! Хари!», ничего не было слышно. Разгневанные мусульмане пожаловались Кази; вечером тот пришёл в один дом, разбил мриданг и запретил киртан во всём городе, пригрозив отнять имущество и касту. Горожане в горе рассказали Господу; Он велел: «Идите и пойте — сегодня Я истреблю всех яванов». Видя их страх, Господь созвал всех: «Сегодня Я пройду с киртаном по всему городу — украсьте город и зажгите светильники в каждом доме; посмотрим, какой Кази Меня остановит». Вечером Гаурарай вышел с тремя группами: впереди плясал Харидас, посредине — Адвайта, позади — Сам Гаурачандра с Нитьянандой. Подробно это описал Вриндаван Дас в «Чайтанья-мангале»."
+  persons: ["@mahaprabhu", "@chand-kazi", "@haridasa-thakura", "@advaita", "@nityananda", "@vrindavana-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [kirtan, muslims]
+  teaching: [holy-name]
+  cc: "Ади 17"
+  divergence: "В «Гаура-кришнодае» Кази запрещает киртан по доносу еретиков, и Господь пугает его обликом Нрисимхи до шествия; в ЧЧ сон о Нрисимхе Кази рассказывает сам (ст. 178–186)."
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "121", to: "138"}
