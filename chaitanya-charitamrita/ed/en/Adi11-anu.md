@@ -132,7 +132,7 @@ Kṛṣṇadāsa Sarakhela was the younger brother of Gaurīdāsa Paṇḍita an
 
 > Subheading: (12) Gaurīdāsa Paṇḍita (*gopāla* 4) —
 
-Śrī Gaurīdāsa Paṇḍita. He was patronized by Rājā Kṛṣṇadāsa, the son of Harihoḍa. He is one of the twelve *gopālas* of Vraja, “Subala the friend.” He lived first in Śāligrāma, not far from Muḍāgāchā station on the E.B.R. line, and later at Ambikā-Kālanā. In the *Gaura-gaṇoddeśa* (verse 128): “He who was Subala, the best of the dear friends, is Gaurīdāsa Paṇḍita.” *Caitanya-bhāgavata*, Antya, Chapter 6: “Gaurīdāsa Paṇḍita is supremely fortunate; in body, mind and words Nityānanda is his life.” “Sarakhela Sūryadāsa Paṇḍita is generous. His brother Gaurīdāsa Paṇḍita is renowned. Taking leave of his elder brother at Śāligrāma, he came to ‘Ambikā’ and made his home on the bank of the Gaṅgā.”
+Śrī Gaurīdāsa Paṇḍita. He was patronized by Rājā Kṛṣṇadāsa, the son of Hari Hoḍa. He is one of the twelve *gopālas* of Vraja, “Subala the friend.” He lived first in Śāligrāma, not far from Muḍāgāchā station on the E.B.R. line, and later at Ambikā-Kālanā. In the *Gaura-gaṇoddeśa* (verse 128): “He who was Subala, the best of the dear friends, is Gaurīdāsa Paṇḍita.” *Caitanya-bhāgavata*, Antya, Chapter 6: “Gaurīdāsa Paṇḍita is supremely fortunate; in body, mind and words Nityānanda is his life.” “Sarakhela Sūryadāsa Paṇḍita is generous. His brother Gaurīdāsa Paṇḍita is renowned. Taking leave of his elder brother at Śāligrāma, he came to ‘Ambikā’ and made his home on the bank of the Gaṅgā.”
 
 He had twenty-two and a half branches: (1) Śrī Nṛsiṁha-caitanya, (2) Kṛṣṇadāsa, (3) Viṣṇudāsa, (4) Baḍa Balarāmadāsa, (5) Govinda, (6) Raghunātha, (7) Baḍu Gaṅgādāsa, (8) Āuliyā Gaṅgārāma, (9) Yādavācārya, (10) Hṛdaya-caitanya, (11) Cā̃da Hāladāra, (12) Maheśa Paṇḍita, (13) Mukuṭa Rāya, (14) Bhātuyā Gaṅgārāma, (15) Āuliyā Caitanya, (16) Kāliyā Kṛṣṇadāsa, (17) Pātuyā Gopāla, (18) Baḍa Jagannātha, (19) Nityānanda, (20) Bhāvi, (21) Jagadīśa, (22) Rāiyā Kṛṣṇadāsa, (22½) Annapūrṇā.
 
@@ -340,6 +340,76 @@ Paramānanda Gupta. *Caitanya-bhāgavata*, Antya, Chapter 6: “Famous is Param�
 
 Nārāyaṇa, Kṛṣṇadāsa, Manohara and Devānanda. *Caitanya-bhāgavata*, Antya, Chapter 6: “Kṛṣṇadāsa and Devānanda are two pure-hearted ones. Dear to Nityānanda are these four: ‘Manohara,’ ‘Nārāyaṇa,’ ‘Kṛṣṇadāsa’ and ‘Devānanda.’”
 
+## 47
+
+> Subheading: (36) Hoḍa Kṛṣṇadāsa —
+
+Hoḍa Kṛṣṇadāsa. “Kṛṣṇadāsa of Baḍagāchi, rich in pious merit, in whose temple Nityānanda sported”; the same place tells of the glory of Baḍagāchi (*Caitanya-bhāgavata*, Antya, Chapter 6). See below, “Navanī Hoḍa.”
+
+## 48
+
+> Subheading: (37) Nakaḍi, (38) Mukunda, (39) Sūrya, (40) Mādhava, (41) Śrīdhara (*gopāla* 12), (42) Rāmānanda, (43) Jagannātha, (44) Mahīdhara —
+
+## 49
+
+> Subheading: (45) Śrīmanta, (46) Gokuladāsa, (47) Hariharānanda, (48) Śivāi, (49) Nandāi, (50) Paramānanda —
+
+## 50
+
+> Subheading: (51) Vasanta, (52) Navanī, (53) Gopāla, (54) Sanātana, (55) Viṣṇāi, (56) Kṛṣṇānanda, (57) Sulocana —
+
+Navanī Hoḍa. Rājā Kṛṣṇadāsa Hoḍa, the son of Hari Hoḍa, lived in Baḍagāchi. Baḍagāchi (Bahiragāchi) lies on the Lālagolā-ghāṭ line of the E.B.R., two miles from Muḍāgāchā station, across from Dharmadaha, on the bank of the “Guḍaguḍe” canal. In nearby Śāligrāma, through Rājā Kṛṣṇadāsa's efforts, the wedding of Śrī Nityānanda Prabhu took place (*Bhakti-ratnākara*, wave 12). “Rukuṇapura” is a short distance from Bahiragāchi. Kṛṣṇadāsa's son was Navanī Hoḍa. His descendants now live in Rukuṇapura. By birth they are Dakṣiṇa-Rāḍhīya Kāyasthas; having received brahminical *saṁskāras*, they give initiation to people of all *varṇas*. In former times the Gaṅgā flowed at Baḍagāchi; that channel is now known as the “Kālśira canal.”
+
+Kṛṣṇānanda: see section 35.
+
+## 51
+
+> Subheading: (58) Kaṁsāri, (59) Rāmasena, (60) Rāmacandra, (61) Govinda, (62) Śrīraṅga, (63) Mukunda —
+
+Kaṁsāri Sena is “Ratnāvalī” of Vraja. See the *Gaura-gaṇoddeśa*, verses 194 and 200, and “Sadāśiva Kavirāja” above.
+
+Rāmacandra Kavirāja was the son of Cirañjīva and Sunandā of Khaṇḍa, a disciple of Śrīnivāsa Ācārya, and a dear friend of Ṭhākura Narottama. Ṭhākura Narottama prayed for his company birth after birth. His younger brother was Govinda Kavirāja. Seeing his devotion to Kṛṣṇa, Śrī Jīva Gosvāmī Prabhu gave him the name “Kavirāja” in Vṛndāvana. From birth he was detached from worldly life, and he was the chief and dearest companion of Ṭhākura Mahāśaya and Śrīnivāsa Ācārya Prabhu in preaching and in *bhajana*. He lived first in Śrīkhaṇḍa and later came to “Kumāranagara” on the bank of the Bhāgīrathī and settled there (see the *Bhakti-ratnākara*).
+
+Govinda Kavirāja was the younger son of Cirañjīva of Khaṇḍa and the brother of Rāmacandra Kavirāja. At first he was a Śākta; later he was initiated by Śrīnivāsa Ācārya Prabhu. He lived first in Śrīkhaṇḍa, then in Kumāranagara, and later came to the village of “Teliyā Budhari” on the south bank of the Padmā and settled there. Seeing his poetic gift, Śrī Jīva Gosvāmī Prabhu gave him too the name “Kavirāja.” He is the author of the drama *Saṅgīta-mādhava*, the *Gītāmṛta* and other works (see the *Bhakti-ratnākara*, wave 9).
+
+## 52
+
+> Subheading: (64) Pītāmbara, (65) Mādhavācārya, (66) Dāmodara, (67) Śaṅkara, (68) Mukunda, (69) Jñānadāsa, (70) Manohara —
+
+## 53
+
+> Subheading: (71) Gopāla, (72) Rāmabhadra, (73) Gaurāṅgadāsa, (74) Nṛsiṁha-caitanya, (75) Mīnaketana —
+
+Mīnaketana Rāmadāsa. In the *Gaura-gaṇoddeśa* (verse 68): “For a purpose the two born together, Niśaṭha and Ulmuka, entered him. Mīnaketana Rāma[^53-1] is another *vyūha* of Saṅkarṣaṇa.”
+
+## 54
+
+> Subheading: (76) Śrī Ṭhākura Vṛndāvana dāsa —
+
+Vṛndāvana dāsa. In the *Gaura-gaṇoddeśa* (verse 109): “He who was Vedavyāsa is now Vṛndāvana dāsa. For a purpose, [Kṛṣṇa's] friend Kusumāpīḍa also entered him.” He is the son of Nārāyaṇī, the daughter of Śrīvāsa's brother, and the author of the *Caitanya-bhāgavata*. See the essay “The Ṭhākura's Life” in the introduction to the *Caitanya-bhāgavata* written by the author of this commentary.
+
+## 55
+
+> Subheading: Vyāsadeva described Kṛṣṇa's pastimes in the *Śrīmad-Bhāgavatam*, and [Vṛndāvana dāsa] Gaura's pastimes in the *Caitanya-bhāgavata* —
+
+## 56
+
+> Subheading: The branch of Vīrabhadra Gosāñi is the best of all —
+
+## 57
+
+> Subheading: Nityānanda's associates are countless; [the author] glorifies their qualities to purify himself —
+
+## 58
+
+> Subheading: They deliver the world by giving love for Kṛṣṇa —
+
+## 59
+
+> Subheading: The deeds of their direct love for Kṛṣṇa —
+
+*Thus ends the eleventh chapter of the “Anubhāṣya.”*
+
 ---
 
 [^25-1]: The edition reads *revata-vaṁśa*, “the line of Revata” (Revata, also called Kakudmī, is Revatī's father). Possibly *revaty-aṁśa* should be read: “born of portions of Vāruṇī and Revatī.”
@@ -347,3 +417,5 @@ Nārāyaṇa, Kṛṣṇadāsa, Manohara and Devānanda. *Caitanya-bhāgavata*, 
 [^35-1]: The *Caitanya-bhāgavata* itself (Madhya 1.296) reads “a companion of the Prabhu's father,” that is, from the context, of Jagannātha Miśra. Below (on verse 44) the edition again calls Ratnagarbha a childhood friend of Hāḍāi Ojhā, Nityānanda's father.
 
 [^40-1]: So in the edition (*dvādaśa varṣera*, “of twelve years”). Yet just below it says that in his fifth year the child had already gone with Mother Jāhnavā to Vṛndāvana.
+
+[^53-1]: The edition reads *mīnaketana-rāmādir vyūhaḥ*, literally “Mīnaketana Rāma and the others are a *vyūha*”; translated according to the sense.
