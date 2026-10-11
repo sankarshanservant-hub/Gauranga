@@ -178,7 +178,7 @@
 | @jagadisha-mishra | Джагадиша, сын Адвайты | Jagadisha, Advaita's son | близнец Сварупы («Адвайта-пракаша») |
 | @anupama | Анупама (Валлабха) | Anupama (Vallabha) | младший брат Рупы и Санатаны, отец Дживы Госвами |
 | @jiva-gosvami | Джива Госвами | Jiva Gosvami | племянник Рупы и Санатаны; один из шести Госвами |
-| @prabodhananda-sarasvati | Прабодхананда Сарасвати | Prabodhananda Sarasvati | санньяси в Каши, обращённый Господом («Адвайта-пракаша»; в ЧЧ — Пракашананда) |
+| @prabodhananda-sarasvati | Прабодхананда Сарасвати | Prabodhananda Sarasvati | санньяси в Каши, обращённый Господом («Адвайта-пракаша» отождествляет с Пракашанандой ЧЧ; Бхактисиддханта («Анубхашья», Ади 7) это отвергает — см. @prakashananda-sarasvati) |
 | @suryadasa-pandita | Сурьядас Пандит (Саркхел) | Suryadasa Pandita (Sarakhela) | отец Васудхи и Джахнавы, тесть Нитьянанды |
 | @chhota-haridasa | Младший Харидас (певец) | Junior Haridasa (the singer) | певец при Господе в Пури, отвергнутый за разговор с женщиной (ЧЧ Антья 2); не путать с @haridasa-thakura |
 | @raghunatha-advaita-grandson | Рагхунатха, внук Адвайты | Raghunatha, Advaita's grandson | сын Кришна Мишры («Адвайта-пракаша»); не путать с @raghunatha-dasa, @raghunatha-bhatta |
