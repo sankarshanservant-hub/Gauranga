@@ -393,3 +393,83 @@
 - কদম্ব (в 166) → множество / a multitude; জাড্য → оцепенение (стамбха) / stupor (*stambha*).
 - Имена/места: Минакетана Рамдас / Mīnaketana Rāmadāsa; Гунарнава Мишра / Guṇārṇava Miśra; Ромахаршана Сута / Romaharṣaṇa Sūta; Наимишаранья / Naimiṣāraṇya; Джаматапур / Jhāmaṭapura; Наихати / Naihāṭī; Катва / Kāṭoyā; Салар / Sālār; Кеши-гхат, Кеши-тиртха / Keśī-ghāṭa, Keśī-tīrtha; Шри Рагхавендра / Śrī Rāghavendra; Бадринатха / Badarīnātha; Хаягрива, Аджита / Hayagrīva, Ajita.
 - Источники: “Вишну-дхармоттара”, “Брахманда-пурана”, “Сканда-пурана” (“Рама-гита”), “Бхакти-сандарбха”, “Вилапа-кусуманджали”, “Прартхана” (Нароттамы), “Брихад-Бхагаватамрита”, “Дашама-типпани”, “Хари-бхакти-виласа” / *Viṣṇu-dharmottara*, *Brahmāṇḍa Purāṇa*, *Skanda Purāṇa* (*Rāma-gītā*), *Bhakti-sandarbha*, *Vilāpa-kusumāñjali*, *Prārthanā*, *Bṛhad-bhāgavatāmṛta*, *Daśama-ṭippanī*, *Hari-bhakti-vilāsa*.
+
+## Термины (добавлено по Ади 6; RU и EN)
+
+Формат: бенг./санскр. → RU / EN.
+
+### Термины
+- নিমিত্ত / উপাদান (о майе) → нимитта (действующая часть) / упадана (материальная часть) / *nimitta* (efficient portion) / *upādāna* (material portion); প্রধানস্থ / প্রকৃতিস্থ → пребывающий в прадхане / в пракрити / abiding in *pradhāna* / in *prakṛti*.
+- কর্ত্তাবিশেষ → особая роль деятеля / a special role as agent; কর্ত্তৃসত্তা → природа деятеля / nature as the agent.
+- জগজ্জঞ্জাল → «обуза мира» (пустые мирские люди) / “the world's encumbrance” (worthless worldly people).
+- আত্মবৃত্তি → природное действие души / the natural function of the soul.
+- কেবলাদ্বৈতবাদ / কেবলাদ্বৈতবাদী → кевала-адвайта / кевала-адвайтавадины / *kevalādvaita* / *kevalādvaita-vādīs*.
+- অহংগ্রহোপাসক → ахамграхопасаки (почитающие Богом самих себя) / *ahaṅgrahopāsakas* (who worship themselves as God).
+- আত্মম্ভরিতা → самомнение / self-conceit.
+- মঙ্গলাচরণ (в 12, игра слов) → благое действие / an auspicious act.
+- নৈমিত্তিক অবতার → наймиттика-аватара (нисходящий по особому поводу) / *naimittika-avatāra* (one who descends for a particular occasion).
+- নিঃশ্রেয়স → высшее благо (нихшреяса) / the highest good (*niḥśreyasa*).
+- শক্তিমত্তত্ত্ব → Обладатель силы (шактиман-таттва) / the Possessor of potency (*śaktimat-tattva*); অপসিদ্ধান্ত → ложный вывод (апасиддханта) / false conclusion (*apasiddhānta*).
+- অধিরোহ-বাদ / অবরোহ → адхироха-вада (восходящий метод) / авароха (нисходящий) / *adhiroha-vāda* (the ascending method) / *avaroha* (descending).
+- সবিশেষ-তত্ত্ব → Истина, наделённая признаками (савишеша-таттва) / the Truth possessed of features (*saviśeṣa-tattva*).
+- চিদাভাস → подобие сознания (чид-абхаса) / semblance of consciousness (*cid-ābhāsa*); গুণমায়া → гуна-майя / *guṇa-māyā*.
+- প্রকৃতি-বিকৃতি → пракрити-викрити (порождающее и порождённое) / *prakṛti-vikṛtis*; বিকৃতি / বিকার → викрити, преобразование / *vikṛti*, transformation.
+- অপবর্গ → освобождение (апаварга) / liberation (*apavarga*); অধ্যাস → перенос (свойств) / superimposition; সন্নিধি → близость / proximity.
+- অঙ্গাঙ্গিভাব → отношение главного и подчинённого / relation of principal and subordinate; অঙ্গিত্ব → главенство / principal status.
+- অদৃষ্ট → адришта (плоды прошлых дел) / *adṛṣṭa* (the fruits of past deeds); প্রলয় → уничтожение мира (пралая) / dissolution (*pralaya*).
+- অন্বয় (у Баладевы, о гунах) → сопутствие (анвая) / concomitance (*anvaya*).
+- জ্ঞানকাণ্ড / কর্ম্মকাণ্ড → джняна-канда / карма-канда / *jñāna-kāṇḍa* / *karma-kāṇḍa*.
+- উপবৃংহণ → развёртывание (упабримхана) / elaboration (*upabṛṁhaṇa*); অনবকাশ → «не остаётся места», остаться без предмета (анавакаша) / “having no room,” being left without a subject (*anavakāśa*); নির্ব্বিষয় → без предмета / without a subject.
+- আপ্ত / অনাপ্ত → достойный доверия, достоверный / недостоверный / trustworthy / untrustworthy; স্বকপোলকল্পিত → выдуманный из головы / invented out of one's own head.
+- সমন্বয় (Веданты) → единый смысл (саманвая) / single import (*samanvaya*).
+- পূর্ব্বপক্ষ → пурвапакша / *pūrvapakṣa* (как в общем глоссарии).
+- অঙ্গ / অংশ / উপাঙ্গ (об Адвайте и спутниках) → анга (член) / амша (часть) / упанга / *aṅga* (limb) / *aṁśa* (part) / *upāṅga* (subsidiary limb).
+- তাণ্ডবনৃত্য → дикая пляска (тандава) / wild dance (*tāṇḍava*).
+
+### Источники и имена
+- “Говинда-бхашья” (Баладева Видьябхушана) к Брахма-сутре 2.2.1–9 и 2.1.1–2 / *Govinda-bhāṣya* on *Brahma-sūtra* 2.2.1–9 and 2.1.1–2.
+- “Антарьями-брахмана” / *Antaryāmi-brāhmaṇa*; “Ману-самхита” / *Manu-saṁhitā*; “Падма-пурана” / *Padma Purāṇa*.
+- “Шри Гаура-ганоддеша-дипика”, “Прамея-ратнавали”, “Шри Бхакти-ратнакара”, “Бхакти-ратнавали” (Вишну Пури), “Вишну-самхита” (Вьясатиртха) / *Śrī Gaura-gaṇoddeśa-dīpikā*, *Prameya-ratnāvalī*, *Śrī Bhakti-ratnākara*, *Bhakti-ratnāvalī*, *Viṣṇu-saṁhitā*.
+- Капила (автор санкхьи, из рода Агни) ≠ Бхагаван Капила, сын Кардамы / Kapila (of the line of Agni) ≠ Bhagavān Kapila, son of Kardama; Асури / Āsuri; Парашара, Пуластья, Васиштха / Parāśara, Pulastya, Vasiṣṭha; Готама / Gautama; тайттирии / the Taittirīyas.
+- Преемственность Мадхвы: Падманабхачарья, Нарахари, брахман Мадхава, Акшобхья, Джаятиртха, Гьянасиндху, Маханидхи, Видьянидхи, Раджендра, Джаядхарма, Вишну Пури, Брахманья Пурушоттама, Вьясатиртха, Лакшмипати, Мадхавендра (Пури), Ишвара Пури; Шри Гопала-гуру Госвами / Padmanābhācārya, Narahari, Mādhava, Akṣobhya, Jayatīrtha, Jñānasindhu, Mahānidhi, Vidyānidhi, Rājendra, Jayadharma, Viṣṇu Purī, Brahmaṇya Puruṣottama, Vyāsatīrtha, Lakṣmīpati, Mādhavendra Purī, Īśvara Purī; Śrī Gopāla-guru Gosvāmī.
+- Мангала (другое имя Адвайты, по мнению некоторых) / Maṅgala; Камалакша / Kamalākṣa.
+
+Формат: бенг./санскр. → RU / EN.
+
+### Термины
+- ব্রহ্মসুখ → брахма-сукха (счастье Брахмана: «я — Брахман») / *brahma-sukha* (the happiness of Brahman).
+- আগল → агала (первый, главный) / *āgala*, foremost.
+- মর্য্যাদা-মার্গ → путь почтительного благоговения (марьяда-марга) / the path of reverent propriety (*maryādā-mārga*).
+- ঐশ্বর্য্য-প্রধান বুদ্ধি → ум, в котором главное — величие / a mind dominated by majesty.
+- গুরু / সম / লঘু (спутники Кришны) → старшие / равные / младшие / elders / equals / juniors.
+- কেবল (অমিশ্র) সখ্য → сакхья «кевала», «несмешанная» / *kevala* (“unmixed”) *sakhya*.
+- আর্য্যপুত্র → Арья-путра / *ārya-putra*.
+- আত্যন্তিক সেবা → служат всецело / serve wholly.
+- প্রকোষ্ঠ (চতুর্ব্যূহ — প্রকোষ্ঠ Баладевы) → покой (пракоштха) / chamber (*prakoṣṭha*).
+- দশদেহ (Шеши) → десять тел: зонт, сандалии, ложе, подушка, одежда, украшения, сад для отдыха, жилище, священный шнур, трон / the ten bodies: umbrella, sandals, bed, pillow, garments, ornaments, pleasure garden, dwelling, sacred thread, throne.
+- স্বাংশ → сваямша (собственная часть Господа) / *svāṁśa* (the Lord's own part); বিভিন্নাংশ → вибхиннамша / *vibhinnāṁśa*.
+- একাদশব্যূহ, অষ্টতনু / অষ্টমূর্ত্তি (Рудры) → одиннадцать вьюх, восемь тел / обликов (мурти) / eleven *vyūhas*, eight bodies / forms (*mūrtis*).
+- লিঙ্গ / যোনি (Брахма-самхита 5.8) → линга (знак) / йони (лоно; часть, служащая лоном) — транслитерацией, с пояснениями издания / *liṅga* (sign) / *yoni* (womb).
+- লোকপ্রতীত্যনুবাদ → пересказ (анувада) того, как его видят люди / a restatement (*anuvāda*) of how people see him.
+- আগন্তুক বিকার → изменение, пришедшее извне / a change that comes from outside.
+- সদাশিব, কালাগ্নিরুদ্র, শিবলোক → Садашива, Калагни-Рудра, Шивалока / Sadāśiva, Kālāgni-Rudra, Śivaloka.
+- চৈতন্যদাস্য → служение (Шри) Чайтанье / service to (Śrī) Caitanya; চৈতন্যোদয় → пробуждение сознания (чайтаньи) / the awakening of consciousness (*caitanya*).
+- অণুচিৎ জীব → джива — крошечная частица духа / the *jīva*, an atomic particle of spirit.
+- স্বরূপ-ধর্ম্ম → сварупа-дхарма (изначальная природа) / intrinsic duty (*svarūpa-dharma*).
+- অচিদ্ভোগ → наслаждение материей / enjoying matter.
+- ভক্তাবতার / মূল-ভক্তাবতার → бхакта-аватара / изначальная бхакта-аватара / *bhakta-avatāra* / the original *bhakta-avatāra*.
+- অংশ / অংশী (97) → амша (отделённая часть) / амши (целое) / *aṁśa* (separated portion) / *aṁśī* (the whole).
+- প্রভু / ভক্ত (97) → господин (прабху) / преданный (бхакта) / master (*prabhu*) / devotee (*bhakta*).
+- অহঙ্কার → ахамкара / false ego.
+- দৃপ্তি (Радхи, 70) → в порыве гордости / in a fit of pride.
+
+### Источники
+- “Бхавартха-дипика” / *Bhāvārtha-dīpikā*; “Падма-пурана”, “Картика-махатмья” (Дамодараштака, 4 и 7) / *Padma Purāṇa*, *Kārtika-māhātmya* (*Dāmodarāṣṭaka* 4 and 7).
+- “Шри Нараяна-вьюха-става” из “Хаяширша-панчаратры” / *Śrī Nārāyaṇa-vyūha-stava* of the *Hayaśīrṣa-pañcarātra*.
+- “Джитанте-стотра” (“Нарада-панчаратра”) / *Jitante-stotra* (*Nārada-pañcarātra*); “Мукунда-мала” царя Кулашекхары / *Mukunda-mālā* of the emperor Kulaśekhara.
+- “Лагху-бхагаватамрита” (гуна-аватары, 18–24); “Махабхарата”; Ядава (словарь); Риг-веда; “Нараяна-упанишад”; “Маха-упанишад”; “Мокша-дхарма”; “Вишну-дхарма”; “Шатапатха-брахмана”; “Кайвалья-упанишад”; “Ваю-пурана”; “Вишну-пурана”; “Вишва” (словарь) / *Laghu-bhāgavatāmṛta*; *Mahābhārata*; Yādava; *Ṛg-veda*; *Nārāyaṇa Upaniṣad*; *Mahā Upaniṣad*; *Mokṣa-dharma*; *Viṣṇu-dharma*; *Śatapatha-brāhmaṇa*; *Kaivalya Upaniṣad*; *Vāyu Purāṇa*; *Viṣṇu Purāṇa*; *Viśva* (lexicon).
+
+### Имена и места
+- Калинди, Лакшмана (царица), Драупади, Саманта-панчака, Талавана, Дхенука / Kālindī, Lakṣmaṇā, Draupadī, Samanta-pañcaka, Tālavana, Dhenuka.
+- Одиннадцать Рудр: Аджайкапат, Ахирбудхнья, Вирупакша, Райвата, Хара, Бахурупа, Трьямбака, Савитра, Джаянта, Пинаки, Апараджита / Ajaikapāt, Ahirbudhnya, Virūpākṣa, Raivata, Hara, Bahurūpa, Tryambaka, Sāvitra, Jayanta, Pinākī, Aparājita.
+- Родные и друзья Кришны, служанки Радхи (в разборе 10.47.21) — транслитерацией, как в издании (Парджанья, Вариясь, Упананда…; Лалита, Вишакха, Читра…) / as in the edition (Parjanya, Varīyasī, Upananda…; Lalitā, Viśākhā, Citrā…).
