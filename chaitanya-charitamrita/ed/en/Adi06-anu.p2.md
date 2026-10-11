@@ -88,7 +88,7 @@ Before the demon Dhenuka was killed in Tālavana, the cowherd boys played with o
 
 When Kṛṣṇa disappeared during the *rāsa* dance, the gopīs, searching for Him, sang:
 
-**he vraja-janārti-han** (O You who destroy the pain of separation of those full of love for Kṛṣṇa), **vīra** (O You whose form is magnanimous), **nija-jana-smaya-dhvaṁsana-smita** (O You whose smile destroys the *smaya*, that is, the pride, of Your own people, the embodiments of *rasa*), **sakhe** (O friend), **sma** (surely) **bhavat-kiṅkarīḥ** **naḥ** (us, Your maidservants) **bhaja** (do not forsake); **cāru** (enchanting) **jala-ruhānanam** (lotus face) **ca** **yoṣitām** (to us women, the gopīs) **darśaya** (show).
+**he vraja-janārti-han** (O You who destroy the pain of separation of those full of love for Kṛṣṇa), **vīra** (O You whose form is magnanimous), **nija-jana-smaya-dhvaṁsana-smita** (O You whose smile destroys the *smaya*, that is, the pride, of Your own people, the embodiments of *rasa*), **sakhe** (O friend), **sma** (surely) **bhavat-kiṅkarīḥ** **naḥ** (us, Your maidservants) **bhaja** (stay with us); **cāru** (enchanting) **jala-ruhānanam** (lotus face) **ca** **yoṣitām** (to us women, the gopīs) **darśaya** (show).
 
 ## 67
 
@@ -101,6 +101,44 @@ When Uddhava came to Vraja, Śrīmatī, addressing a bee, speaks *citra-jalpa* (
 ## 68
 
 > Subheading: (8) More than that, even Śrī Rādhā Herself serves Kṛṣṇa —
+
+## 70
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.30.39)
+
+During the *rāsa* dance Kṛṣṇa left the other gopīs and disappeared with Śrīmatī Rādhikā alone. Seeing the other gopīs lament in separation from Kṛṣṇa, Śrīmatī, in a fit of pride, said that She could walk no further and told Kṛṣṇa to carry Her. Then Kṛṣṇa disappeared, and Śrīmatī lamented:
+
+**hā nātha**, **ramaṇa**, **preṣṭha** (the best of all), **kvāsi** ([where are] You), **kvāsi**? **he sakhe**, **kṛpaṇāyāḥ** (tormented by separation from You) **dīnāyāḥ** **te** (Your) **dāsyāḥ** (to the maidservant, that is, to me) **sannidhim** (Your nearness) **darśaya** (reveal).
+
+## 72
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.83.11)
+
+When the women of the Yadu and Kuru dynasties gathered together at Samanta-pañcaka, Kṛṣṇa's queen Kālindī, in a conversation about Kṛṣṇa, said to Draupadī:
+
+**sva-pāda-sparśanāśayā** (with the hope of touching the feet of Him, Śrī Kṛṣṇa) **tapaś carantīm** **mā** (me), who was performing austerities, **ājñāya** (knowing), **saḥ kṛṣṇaḥ** **sakhyā** (with Arjuna) **saha** **upetya** (coming near) **pāṇim agrahīt**; **sā** (I) am **tat** (His) **gṛha-mārjanī** (maidservant).
+
+## 73
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.83.39)
+
+At the same time, in the same conversation, Kṛṣṇa's queen Lakṣmaṇā says to Draupadī:
+
+**imāḥ vayam** (we, the queens) **sarva-saṅga-nivṛttyā** (by withdrawing, through indifference, from attachment to everything — happiness, wealth, sons and so on, or the four goals of life including *mokṣa*) **tapasā** (by the service of maidservants) **ātmārāmasya** **tasya** (of Him, Kṛṣṇa) **addhā** (directly) **gṛha-dāsikāḥ** **babhūvima** (have become).
+
+## 74
+
+> Subheading: (10) Service to Kṛṣṇa — even by Balarāma, the *svayaṁ-prakāśa* —
+
+Baladeva is the elder brother and so worthy of honor, yet He knows Himself only as the servant of His younger brother Kṛṣṇa. In Mahā-Vaikuṇṭha the *catur-vyūha* is only a chamber (*prakoṣṭha*) of this same Baladeva, the *svayaṁ-prakāśa*: this is the supreme majesty of the all-powerful Parameśvara. On the path of reverence (*maryādā-mārga*) even such an exalted, supreme position is established in service to Kṛṣṇa. Therefore no being — neither in Goloka and Vaikuṇṭha, nor in the countless universes, nor within them — is able to enjoy Kṛṣṇa or make Him its servant. Everyone other than Kṛṣṇa excels others exactly to the degree that he is inclined to serve Kṛṣṇa. And to the degree that a being has given up service to Kṛṣṇa and turned away from Him, to that degree he has invited misfortune. In the material world the urge to enjoy Kṛṣṇa, or to think oneself Kṛṣṇa's equal and enjoy as He does, is the root mantra of the nondevotees; yet by their true nature all who take shelter of Kṛṣṇa are eternally engaged in serving Bhagavān. It is aversion to serving Kṛṣṇa that makes the *jīva* like one dead. When knowledge of Kṛṣṇa awakens, the inclination to serve Kṛṣṇa is seen in every *jīva*, to a greater or lesser degree.
+
+## 76
+
+> Subheading: (11) Ananta in the form of Śeṣa serves Kṛṣṇa in ten bodies —
+
+## 77
+
+> Subheading: (12) Śiva's service to Kṛṣṇa —
 
 ---
 

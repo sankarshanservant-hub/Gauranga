@@ -46,6 +46,10 @@ I was performing austerities, longing to touch Śrī Kṛṣṇa's feet. In His 
 
 Through many austerities, giving up all attachment, we have attained the position of maidservants in the house of this Person, who delights in Himself (*ātmārāma*).
 
+## 76
+
+The ten bodies are the umbrella, sandals, bed, pillow, garments, ornaments, pleasure garden, dwelling, sacred thread and throne.
+
 ---
 
 [^43-1]: The verse translation reads differently: “the happiness of abiding in the effulgence of Brahman.”
