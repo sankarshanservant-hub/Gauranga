@@ -40,6 +40,22 @@ The Kazi said: “O Gaurahari, when I questioned that *mleccha* peon, he answere
 
 ***Tālāka*** — a solemnly made vow.
 
+## 229
+
+One night Mahāprabhu was performing *kīrtana* in Śrīvāsa's courtyard, and at that time one of Śrīvāsa's sons departed from this world. Fearing that the *rasa* of the *kīrtana* would be broken, Śrīvāsa forbade everyone to show any grief, and Mahāprabhu danced and sang *kīrtana* until late in the night. When the *kīrtana* ended, Mahāprabhu could understand that some misfortune had befallen the house. Learning that Śrīvāsa's son had departed, the Lord first expressed sorrow that He had not been told sooner. Then He had the dead boy laid before Him and asked him, “Boy, why are you leaving Śrīvāsa?” The dead boy replied, “I was destined to stay in Śrīvāsa's house for a certain number of days. Those days are over, and now by Your will I am going elsewhere. I am a *jīva*, eternally subordinate to You and dependent on You, and I have no right to do anything beyond Your will.” Hearing the dead boy's words, Śrīvāsa's family gained divine knowledge, and no grief remained in them. Then the boy's funeral rites were performed. The Lord said to Śrīvāsa, “The son you had has gone. But Nityānanda and I are your eternal sons; We can never leave you.”
+
+## 231–232
+
+A *yavana* tailor who lived near Śrīvāsa used to sew his clothes. When he watched Mahāprabhu's dancing with faith and was charmed, the Lord showed him the spiritual (*cinmaya*) nature of His own form. The tailor began to dance, mad with *prema*, crying, “I have seen! I have seen!” ***Āgala*** — foremost.
+
+## 241
+
+One night in the house of Śrī Candraśekhara Ācāryaratna the Lord assumed the form of Rukmiṇī and others and enacted a pastime. Advaita, Haridāsa and many others also put on various costumes.
+
+## 250
+
+***Doṣodgāra*** — blaming with mockery.
+
 ---
 
 [^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”

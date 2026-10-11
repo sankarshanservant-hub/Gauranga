@@ -212,6 +212,8 @@ That the *kīrtana* of Kṛṣṇa's name should meet with no obstruction in Nav
 
 > Subheading: The Kazi's promise —
 
+The Kazi's descendants still take part in the *saṅkīrtana* of Kṛṣṇa's name and have not the slightest objection to it.
+
 ## 223
 
 > Subheading: The joy of the Lord and the devotees —
@@ -219,3 +221,75 @@ That the *kīrtana* of Kṛṣṇa's name should meet with no obstruction in Nav
 ## 224
 
 > Subheading: The Lord returns home with His associates —
+
+## 227
+
+> Subheading: During the Lord's *kīrtana* in Śrīvāsa's house, Śrīvāsa's son leaves his body —
+
+## 229
+
+> Subheading: The truth is spoken through the mouth of the dead son —
+
+## 228–229
+
+See the *Caitanya-bhāgavata*, Madhya, Chapter 25.
+
+## 230
+
+> Subheading: The Lord gives His remnants to Nārāyaṇī, Śrīvāsa's niece —
+
+See the *Caitanya-bhāgavata*, Madhya, Chapter 10. Certain characterless *prākṛta-sahajiyā* “Ṭhākuras,” *pāṣaṇḍīs* by nature, wishing to present Śrīla Vṛndāvana dāsa as a *golaka*[^230-1], say: “Śrīmatī Nārāyaṇī ate the remnants of Śrīman Mahāprabhu's food, or His chewed betel, and as a result, while a widow, gave birth to Ṭhākura Vṛndāvana dāsa.” Such slanderous babble is wholly offensive, and therefore one must not listen to it.
+
+## 231
+
+> Subheading: A tailor born in a *yavana* family sees the Lord's form and goes mad —
+
+## 233
+
+> Subheading: At the Lord's wish Śrīvāsa describes Kṛṣṇa's sweet pastimes —
+
+## 235–239
+
+Śrīvāsa's description of Kṛṣṇa's *madhura* (*śṛṅgāra*) *rasa* with the *gopīs* of Vraja deserves special attention.
+
+## 241
+
+> Subheading: In Ācāryaratna's house the Lord dances in the guise of Lakṣmī —
+
+On the Lord in the mood and guise of Rukmiṇī, see the *Caitanya-bhāgavata*, Madhya, Chapter 18.
+
+## 242
+
+On the Lord, in the guise of Ādyā-śakti, giving the devotees breast milk and *prema-bhakti*, see the *Caitanya-bhāgavata*, Madhya, Chapter 18.
+
+## 243
+
+> Subheading: A brāhmaṇa woman touches the Lord's feet, and the Lord throws Himself into the Gaṅgā —
+
+## 243–246
+
+This incident does not appear in the *Caitanya-bhāgavata*.
+
+## 247
+
+> Subheading: The Lord cries aloud, “Gopī! Gopī!” —
+
+## 248
+
+> Subheading: A *pāṣaṇḍī* student, not understanding the heart of the matter, tries to stop the Lord —
+
+## 250
+
+> Subheading: The Lord chases the student to strike him; the student flees —
+
+## 252
+
+> Subheading: The Lord is calmed —
+
+## 253
+
+> Subheading: The students speak harshly of the Lord and grow angry —
+
+---
+
+[^230-1]: In the *smṛti*, a *golaka* is a son born to a widow after her husband's death (*Manu-saṁhitā* 3.174).
