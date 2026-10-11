@@ -25,3 +25,11 @@ The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: 
 ## 107
 
 “Śrīnātha Paṇḍita”: a resident of Kāṁcaḍāpāḍā.
+
+## 108
+
+“He lived by the Gaṅgā”: he founded a village named “Gaṅgāvāsa” on the bank of the Alakānandā within Śrī Navadvīpa.
+
+## 113
+
+“Bhāgavatācārya” lived in Varāhanagara. Even now his *āśrama* is called “the *pāṭa* of Bhāgavatācārya.” “Ṭhākura Sāraṅga dāsa” lived in Māmagāchi.

@@ -104,9 +104,67 @@ Kāśīnātha was the brāhmaṇa *paṇḍita* who arranged Viśvambhara's wedd
 
 Rudra. The *Gaura-gaṇoddeśa* (verse 135) says: “Kṛṣṇacandra's friend in Vraja named Varūthapa is now Rudra Paṇḍita, dear to Gaurāṅga.”
 
+Vallabhapura lies a mile north of Māheśa, the *śrīpāṭa* of Kamalākara Pippalāi. Here, in a large temple, resides Śrī Rādhā-vallabha Jiu, installed by Śrī Rudrarāma Paṇḍita, the son of Kāśīśvara Gosvāmī's sister. The present servitors of Śrī Rādhā-vallabha Jiu are the “Cakravartīs,” descendants of Yadunandana Bandyopādhyāya Mahāśaya, the younger brother of Rudrarāma Paṇḍita. Formerly, at the time of the Ratha-yātrā, Śrī Jagannātha-deva used to come from Māheśa to the temple of Śrī Rādhā-vallabha Jiu at Vallabhapura, but from the (Bengali) year 1262 the custom was discontinued because of quarrels among the servitors of that Deity.
+
 ## 107
 
 > Subheading: (48) Śrīnātha Paṇḍita, who received the mercy of Śrīman Mahāprabhu, a wonderful example of service to Śrī Kṛṣṇa —
+
+Śrīnātha Paṇḍita. The *Gaura-gaṇoddeśa* (verse 211) says: “He who skillfully expounded the *Bhāgavata-saṁhitā*, and whose glory is Kṛṣṇa-deva, who resides in Kumārahaṭṭa.”
+
+About one and a half miles from Kumārahaṭṭa, at Kāṁcaḍāpāḍā, is the place of Śivānanda Sena. There, in a very large temple, reside the Deity “Śrī Gaura-Gopāla,” installed by Śivānanda, and the Deity of Śrī Rādhā-Kṛṣṇa named “Śrī Kṛṣṇa-rāya,” installed by the brāhmaṇa Śrīnātha. In front of the temple are a large courtyard, a kitchen for cooking the offerings, a guesthouse and so on. The courtyard is enclosed by a high wall. This temple is larger even than the temple at Māheśa. The present temple was built in 1708 Śaka. In front of the temple a verse in the *anuṣṭubh* meter is engraved, giving the names of the temple's founder, his father and his grandfather, and the date. The temple was built by a wealthy man named Nimāi Mallika of Pāthuriyāghāṭā, Calcutta, now deceased. Śrīnātha Paṇḍita was a disciple of Śrī Advaitācārya; Śivānanda's third son, Paramānanda Kavi Karṇapūra, the author of the *Gaura-gaṇoddeśa-dīpikā*, received the mercy of Śrīnātha Paṇḍita. The Deity Śrī Kṛṣṇa-rāya probably manifested in the time of Kavi Karṇapūra. Tradition says that Vīrabhadra Prabhu brought a large and beautiful stone from Murśidābāda, and from it three Deities manifested: Śrī Rādhā-vallabha of Vallabhapura, Śrī Śyāmasundara of Khaḍadaha and Śrī Kṛṣṇa-rāya of Kāṁcaḍāpāḍā.
+
+The old place of Śivānanda Sena is on the bank of the Gaṅgā; a small, almost ruined temple stood there. It is said that Nimāi Mallika was traveling to Kāśī, went ashore at this place, saw with his own eyes the ruined state of Śrī Kṛṣṇa-rāya's temple and built the present large temple.
+
+## 108
+
+> Subheading: (49) Śrī Jagannātha Ācārya —
+
+Jagannātha Ācārya. The *Gaura-gaṇoddeśa* (verse 111) says: “Ācārya Śrī Jagannātha, who lived by the Gaṅgā and was dear to the Lord, was formerly, in Nidhuvana, Durvāsā, dear to the *gopīs*.”
+
+## 109
+
+> Subheading: (50) Kṛṣṇadāsa, (51) Śekhara Paṇḍita, (52) Kavicandra and (53) Ṣaṣṭhīvara —
+
+## 110
+
+> Subheading: (54) Śrīnātha Miśra, (55) Śubhānanda, (56) Śrīrāma, (57) Īśāna, (58) Śrīnidhi, (59) Gopīkānta, (60) Bhagavān Miśra —
+
+## 109–110
+
+Kavicandra and Śrīnātha Miśra. The *Gaura-gaṇoddeśa* (verse 171) says: “Śrīnātha Miśra is Citrāṅgī; Kavicandra is Manoharā.”
+
+Śubhānanda is Mālatī of Vraja. During the dancing before the chariot he was one of the singers in the party of Śrīvāsa and Nityānanda, one of the seven *kīrtana* parties, and he drank the foam that flowed from the mouth of the Lord when He was overwhelmed by *bhāva* (see Madhya, Chapter 13, verse 110). See the *Gaura-gaṇoddeśa*, verses 197 and 199.
+
+Īśāna. *Caitanya-bhāgavata* (Madhya, Chapter 8): “Īśāna served Āi (Śacī) at all times; in all the fourteen worlds he is most fortunate.” In the *Vaiṣṇava-vandanā*: “With folded hands I shall bow to Īśāna dāsa, whom Śacī Ṭhākurāṇī loved so much.” *Bhakti-ratnākara* (twelfth wave): “That Īśāna is very dear to Nimāi-cāṁda.”
+
+## 111
+
+> Subheading: (61) Subuddhi Miśra, (62) Hṛdayānanda, (63) Kamalanayana, (64) Maheśa Paṇḍita, (65) Śrīkara, (66) Madhusūdana —
+
+Subuddhi Miśra is Guṇacūḍā of Vraja (*Gaura-gaṇoddeśa*, verses 194 and 201). His *śrīpāṭa* is “Belagāṁ,” three miles west of Śrīkhaṇḍa. The Deities of Śrī Nitāi-Gaura are there. His present descendant is Śrī Govindacandra Gosvāmī.
+
+Kamalanayana is Gandhonmādā of Vraja (*Gaura-gaṇoddeśa*, verses 205 and 196).
+
+Maheśa Paṇḍita: see Ādi, Chapter 11, verse 32.
+
+## 112
+
+> Subheading: (67) Puruṣottama, (68) Śrī Galīma, (69) Jagannātha dāsa, (70) Śrī Candraśekhara, (71) Dvija Haridāsa —
+
+Candraśekhara Vaidya. When Mahāprabhu stayed in Kāśī, He lived in his house. He earned his living as a scribe. See Ādi, Chapter 7, verse 45 and the *Anubhāṣya* on it; Chapter 10, verses 152 and 154; Madhya, Chapter 17, verse 92; Chapter 19, verses 241–243; Madhya, Chapter 20, verses 46–53 and 67–71; Chapter 25, verses 62 and 172.
+
+Dvija Haridāsa. It is uncertain whether he is the author of the *Aṣṭottara-śata-nāma*. His two sons, Śrīdāma and Gokulānanda, residents of Kāñcanagaḍiyā, were disciples of Śrīnivāsa Ācārya Prabhu. Kāñcanagaḍiyā is in Murśidābāda district, within five miles of “Bājārasāu” station, the fifth station from Ājimagañja.
+
+## 113
+
+> Subheading: (72) Rāmadāsa, (73) Kavidatta, (74) Gopāla dāsa, (75) Raghunātha, (76) Śārṅga Ṭhākura —
+
+Śrī Gopāla dāsa. The *Gaura-gaṇoddeśa* (verse 158) says: “Those who were formerly Śrī Tārakā and Pālī in Vraja-maṇḍala are now Jagannātha and Śrī Gopāla, dear to the Lord.”
+
+Bhāgavatācārya. The *Gaura-gaṇoddeśa* (verse 203) says: “Śrīmad Bhāgavatācārya, who wrote the book *Kṛṣṇa-prema-taraṅgiṇī*, is extremely dear to Gaurāṅga.” *Caitanya-bhāgavata* (Antya, Chapter 5): “Then the Lord came to Varāhanagara, to the house of a most fortunate brāhmaṇa. That brāhmaṇa was thoroughly learned in the *Bhāgavata*. Seeing the Lord, he began to recite the *Bhāgavata*. Hearing him recite on *bhakti-yoga*, Gauracandra Nārāyaṇa was overwhelmed with ecstasy. The Lord said: ‘Never have I heard anyone else recite the *Bhāgavata* like this. Therefore your name is “Bhāgavatācārya.” Do no other work but this.’” His name is said to have been “Raghunātha.” His *pāṭa* is at Mālipāḍā in Varāhanagara (about three and a half miles north of Calcutta), on the bank of the Gaṅgā. The present servitor of this dilapidated *pāṭa* is Dhīrendra Gāṅguli, the son of the late Rājacandra Gāṅguli.
+
+Ṭhākura Sāraṅga dāsa: his other name is Śārṅga Ṭhākura. Some also call him Śārṅgapāṇi and Śārṅgadhara. He lived in Modadrumadvīpa within Śrī Navadvīpa and worshipped in solitude on the bank of the Gaṅgā. The Lord urged him again and again to accept a disciple, and at last he resolved: “Whomever I meet tomorrow at dawn, him I will accept as my disciple.” The next day at dawn, as he bathed in the Bhāgīrathī, a dead body drifted against his feet; he brought it back to life and accepted it as his disciple. That disciple became famous by the name “Śrī Ṭhākura Murāri.” His followers, in the line of descent, now live in a village called “Śar.” The story of Murāri is bound up with the name of Śrī Śārṅga: even now the name “Śārṅga-Murāri” is heard everywhere.
 
 ---
 
