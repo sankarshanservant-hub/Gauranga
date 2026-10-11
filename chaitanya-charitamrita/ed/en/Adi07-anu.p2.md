@@ -212,6 +212,50 @@ In the *Śrī Bhagavat-sandarbha* (section 48): “The *śruti* says of the *pra
 
 The *Śrī Bhagavat-sandarbha* [says]: the *śruti* says of the *praṇava* that *Om* is the nearest (the sweetest) of all the names of the Supreme Brahman: from the moment one begins to utter it, it saves the *jīva* from the fear of worldly existence; therefore He is also called “Tāra.” [Śrīdhara Svāmipāda, at the beginning of his own commentary on the *Bhāgavatam*, called the *Śrīmad-Bhāgavatam* *tārāṅkura*, “the sprout of Tāra,” because it begins with *Om*.] So the holy name is directly the *svarūpa* of Bhagavān. About the eight-syllable mantra the *Śrī Nārada-pañcarātra* says clearly: “It is well known that Bhagavān Śrī Nārāyaṇa Himself directly appears in the mouth of the *jīva* in the form of the eight syllables.” And about the *praṇava* the *Māṇḍūkya Upaniṣad* says: “All that is seen by spiritual vision is *Oṁkāra*, the syllable *Om*.” “The *praṇava* is another appearance of Brahman; He is called the Supreme Reality. He has nothing before Him, is unbounded, has nothing outside Him, is supreme and imperishable; He is the beginning, the middle and the end of all. Knowing the *praṇava* thus, one tastes immortality. Know that the *praṇava*, abiding in the heart of everyone, is the *svarūpa* of the Lord. As soon as a wise person understands *Oṁkāra* as all-pervading — *vibhu*, that is, the *svarūpa* of Viṣṇu — he no longer needs to grieve; that is, he is no longer a *śūdra*.[^128-2] He is without material measure, yet possesses infinite measure; through Him the material knowledge of duality subsides and nondual knowledge is attained; therefore He is the supreme good itself.” One should not think that such auspicious works are possible only for the Supreme Lord as an *avatāra*, and that therefore such statements about a material sound or letter contain no real truth and are mere praise. In fact, like the other *avatāras* of the Supreme Lord, this *praṇava* too is His *avatāra* in the form of sound. This sense is accepted on the very strength of the *śruti* statements quoted above, and since the *praṇava* is nondifferent from Him, this is possible; so this sense alone is correct. Therefore there is no doubt that the name of Bhagavān and the Bearer of the name, Bhagavān, are nondifferent.
 
+*Om*, or the *praṇava*, is the *mahā-vākya*, the root of the Vedas. The *praṇava* is placed at the beginning and at the end of every Vedic mantra. The *praṇava* is the very form of the Lord. “By the sound *a* Kṛṣṇa is denoted, the sole Master of all the worlds; by the sound *u* Rādhā is denoted; *m* denotes the *jīva*.”
+
+## 129
+
+> Subheading: The Lord is what is denoted (*vācya*), the *praṇava* is what denotes (*vācaka*); “You are That” and similar statements only illumine one part of the Vedas —
+
+The *śruti* “You are That” (*tat tvam asi*) is found in the *Chāndogya Upaniṣad*, in the sixth *prapāṭhaka*, in the eighth to the sixteenth *khaṇḍas*: “He is the Self; you are That, Śvetaketu.” “You are That” is one of the four Vedic “great statements” (*mahā-vākyas*) introduced by Śaṅkara.
+
+## 131
+
+> Subheading: The Vedas and other scriptures, in their direct meaning (*abhidhā-vṛtti*), acknowledge Kṛṣṇa alone —
+
+“In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — in the beginning, at the end and in the middle — Hari is sung everywhere.”
+
+## 132
+
+> Subheading: The evidence of the word, dependent on nothing else, is supreme —
+
+See the *Anubhāṣya* on Ādi 7.107.
+
+## 133
+
+> Subheading: Śaṅkara's explanation rests on *lakṣaṇā-vṛtti* and is therefore invented —
+
+## 134
+
+> Subheading: The Lord refutes Śaṅkara's commentary on each *sūtra* —
+
+## 135
+
+> Subheading: The *sannyāsīs*' astonishment, their admission, and their loyalty to their *sampradāya* —
+
+## 133–136
+
+See Madhya 25.46–48.
+
+## 137
+
+> Subheading: The Lord is asked to explain by the direct meaning (*abhidhā-vṛtti*) —
+
+## 138
+
+> Subheading: The Lord's explanation: (1) Bhagavān Kṛṣṇa is the *sambandha* —
+
 ---
 
 [^95-1]: *Śvetāśvatara Upaniṣad* 6.23.

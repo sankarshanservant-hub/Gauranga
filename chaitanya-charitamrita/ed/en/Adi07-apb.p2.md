@@ -44,6 +44,15 @@ The *jīva-tattva* is a particular potency. If one tries to establish the *jīva
 
 The root statement of the Vedas is the *praṇava*; therefore it alone is the great statement (*mahā-vākya*) that denotes Brahman. The *praṇava* is the word that reveals the *svarūpa* of the Lord; therefore it is the Lord's eternal name and points to the Lord — *sarva-viśva-dhāma*, the shelter of all. To call “*mahā-vākyas*” such statements as “You are That” (*Chāndogya* 6.8.7), “All this is what this Self is,” “All this is Brahman” (*Bṛhad-āraṇyaka* 2.5.1), “All this is the Self” (*Chāndogya* 7.25.2) and “There is no diversity here” (*Kaṭha* 2.1.11; *Bṛhad-āraṇyaka* 4.4.19) is a grave error. For the chief among them, “You are That,” is only a partial statement: what the words “You are That” teach covers only one part of the Vedas. A *mahā-vākya* is what covers the Vedas as a whole; therefore nothing but the *praṇava* can be a “*mahā-vākya*.”[^128-1] Concealing this truth, Śrī Śaṅkarācārya called “You are That” a *mahā-vākya*. Relying on this invented *mahā-vākya*, he everywhere in the Vedas abandoned the primary meaning, that is, *abhidhā-vṛtti*, and explained them by *lakṣaṇā*, the secondary meaning. In this way he rejected without any reason the way all the Vedas and *sūtras* reveal the Kṛṣṇa-*tattva*. The Vedas are their own evidence (*svataḥ-pramāṇa*); so to impose a figurative sense (*lakṣaṇā*) on their words is merely to destroy the authority of evidence that is self-established.
 
+## 135
+
+O Śrī Kṛṣṇa Caitanya! You presented these arguments and refuted Śaṅkara's interpretation; this is no empty dispute (*vivāda*) — that is, a fortunate person accepts it as “the truth.”[^135-1]
+
+## 138–140
+
+In the *Bṛhad-āraṇyaka* (5.1), in the statement “That is full…” and so on, the Supreme Truth, full of the six opulences, is called *bṛhad-vastu*, the great Reality. In the Purāṇas these characteristics are described by the word “Bhagavān”; therefore wherever the Vedas say “Brahman,” the word fulfills its purpose only when “Śrī Bhagavān” is put in its place. So in all the Vedas the one *sambandha* is Bhagavān. Bhagavān embraces even the quality of featurelessness, yet He is eternally possessed of features. To call Him “featureless” is to deny His *cit-śakti*. Brahman possesses *cit-śakti* — that is, possesses features; so if one does not accept half of His *svarūpa*, His fullness is impaired.
+
 ---
 
 [^128-1]: From these words on, the edition prints the heading *Anubhāṣya* above the continuation — apparently a typesetting error, since the text continues the sentence of the *Amṛta-pravāha-bhāṣya*.
+[^135-1]: The verse translation reads differently: “in this there is no disagreement between us.”
