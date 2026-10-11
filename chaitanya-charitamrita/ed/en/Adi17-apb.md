@@ -168,7 +168,7 @@ The Kazi said: “O Gaurahari, when I questioned that *mleccha* peon, he answere
 
 ## 211
 
-***Nīca bāḍa bāḍa***: he performs Kṛṣṇa's *kīrtana* with many low-born people, and by this the low are “growing,” that is, rising[^211-1].
+***Nīca bāḍa bāḍa***: he performs Kṛṣṇa's *kīrtana* with many low-born people, and by this the low are “growing,” that is, rising.
 
 ## 222
 
@@ -215,7 +215,3 @@ At the beginning of the *rāsa*, Kṛṣṇa, in play, hid in a *kuñja*. Seeing
 The truth that lies beyond *prakṛti* — that is the mark of the inconceivable. Logic (*tarka*) is material, and so it cannot touch that truth. Therefore one should not apply logic to what is inconceivable.
 
 *Thus ends the seventeenth chapter of the “Amṛta-pravāha-bhāṣya.”*
-
----
-
-[^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”

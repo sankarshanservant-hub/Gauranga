@@ -242,7 +242,7 @@ The glory of Śrī Nāma Prabhu is non-different from Kṛṣṇa Himself. To co
 
 ## 77–78
 
-Mahāprabhu said to Murāri, “By your *prema* and devotion you have brought Kṛṣṇa under your control.”[^77-1] In reply Murāri recited the verse from the *Bhāgavata* spoken by the brāhmaṇa “Sudāmā.”
+Mahāprabhu said to Murāri, “By your *prema* and devotion you have brought Kṛṣṇa under your control.” In reply Murāri recited the verse from the *Bhāgavata* spoken by the brāhmaṇa “Sudāmā.”
 
 These were the words the brāhmaṇa “Śrīdāmā,” or “Sudāmā,” spoke to himself as he went home: **daridraḥ** (devoid of wealth) **pāpīyān** (sinful) **aham** **kva** (where)? **śrī-niketanaḥ** (the form in whom all majesty is rooted, the shelter of all piety) **kṛṣṇaḥ** **kva** (where)? **aham** **brahma-bandhuḥ** (the lowest of brāhmaṇas by birth) **iti** — thus (by Kṛṣṇa) **bāhubhyām** **parirambhitaḥ** (embraced). (The words that Kṛṣṇa could never embrace me, an unworthy *brahma-bandhu*, show only Kṛṣṇa's greatness; the sentence expresses the speaker's humility.)
 
@@ -922,7 +922,7 @@ Verses 313 to 327 list the chapters. In the first chapter — the *maṅgalācar
 
 ## 329
 
-The Ādi-līlā has seventeen chapters, or sections (*prabandhas*). Of these, the first twelve are only the preface, or introduction, to the book. The following five chapters, from the thirteenth to the seventeenth, are five sections on the five ages: “birth,” “childhood” (*bālya*), “boyhood” (*paugaṇḍa*), “youth” (*kaiśora*) and “young manhood” (*yuvā*)[^329-1].
+The Ādi-līlā has seventeen chapters, or sections (*prabandhas*). Of these, the first twelve are only the preface, or introduction, to the book. The following five chapters, from the thirteenth to the seventeenth, are five sections on the five ages: “birth,” “childhood” (*bālya*), “boyhood” (*paugaṇḍa*), “youth” (*kaiśora*) and “young manhood” (*yuvā*).
 
 ## 331
 
@@ -950,8 +950,6 @@ See Madhya 21.10 and 12, and *Śrīmad-Bhāgavatam* 2.7.41, 10.14.7 and other ve
 
 [^31-1]: So in the edition: *taror api*; the verse reads *taror iva*.
 
-[^77-1]: The verse translation reads otherwise: “You have pleased Lord Kṛṣṇa.”
-
 [^78-1]: In the numbering now accepted, 10.81.16.
 
 [^89-1]: Unclear passage: “সন্ধ্যা ধন্য দিগন্তর” (literally “evening, the horizons blessed”); the translation is tentative.
@@ -960,4 +958,3 @@ See Madhya 21.10 and 12, and *Śrīmad-Bhāgavatam* 2.7.41, 10.14.7 and other ve
 
 [^307-1]: *Bhagavad-gītā* 4.40.
 
-[^329-1]: The verse translation reads otherwise: “After the fourteen introductory chapters, in five chapters I have briefly told of the five transcendental kinds of relationship with God.”
