@@ -50,6 +50,20 @@ Through many austerities, giving up all attachment, we have attained the positio
 
 The ten bodies are the umbrella, sandals, bed, pillow, garments, ornaments, pleasure garden, dwelling, sacred thread and throne.
 
+## 80
+
+Whatever mood [toward Kṛṣṇa] one may take up, one must certainly acknowledge the mood of a servant (*dāsya*) contained within every mood.
+
+## 100
+
+O Uddhava! Neither Brahmā, nor Saṅkarṣaṇa, nor Lakṣmī, nor even I Myself am as dear to Me as you, My devotee, are dear to Me.
+
+## 101
+
+One who regards himself as Kṛṣṇa's equal does not taste His sweetness.
+
+*Thus ends the sixth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^43-1]: The verse translation reads differently: “the happiness of abiding in the effulgence of Brahman.”
