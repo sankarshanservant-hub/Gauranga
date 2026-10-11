@@ -278,6 +278,10 @@ It is said that from Saṅkarṣaṇa the mind named Pradyumna is born. Here too
 
 In this scripture the birth of the *jīva* is denied. For the *Parama-saṁhitā* says: “The three *guṇas* — unconscious, serving another's purpose, always subject to change — are the field of those who perform *karma*: such is the form of *prakṛti*. The Puruṣa's connection with it is by way of pervasion, and that this connection is beginningless is also true.” Thus in all the *saṁhitās* the “*jīva*” is eternal, and therefore the *Pañcarātra* doctrine denies its birth. Whatever is born must perish: accepting the birth of the *jīva*, one would have to accept its destruction as well. But since the *jīva* is eternal, its birth is excluded of itself, by its eternity. Above, the *Parama-saṁhitā* said: “the form of *prakṛti* is always subject to change”; so birth, destruction and the like should be understood as included in this “constant change.” Thus Śaṅkarācārya's charge that Saṅkarṣaṇa and the others are born as *jīvas* has been refuted (*sūtra* 45). See Śrīdhara [Svāmī]'s commentary on *Bhāgavatam* 3.1.34.
 
+## 48
+
+The verse itself reads *aṁśa* (“portion”), the *Amṛta-pravāha-bhāṣya* reads *aṅga* (“body”); both readings convey the same meaning.
+
 ## 50
 
 > Subheading: The meaning of the ninth of the fourteen opening verses —
@@ -940,7 +944,7 @@ All the Vaiṣṇavas who live in Śrī Vṛndāvana bring supreme good. They ar
 
 ## 231
 
-In Vṛndāvana the author wrote *Śrī Caitanya-caritāmṛta* at the order of the Vaiṣṇavas, but the root and source of this work is Nitāi's merciful order. See Ādi 5.196.
+In Vṛndāvana the author wrote *Śrī Caitanya-caritāmṛta* at the order of the Vaiṣṇavas, but the root and source of this work is Nitāi's merciful order. See Ādi 5.196.[^231-1]
 
 ## 232
 
@@ -959,7 +963,8 @@ See Madhya 21.10 and 12, and *Bhāgavatam* 2.7.41 and 10.14.7.
 [^41-1]: The words of the Earth to Dharma: *Śrīmad-Bhāgavatam* 1.16.30 (the edition has “the first chapter of the first canto”).
 [^84-1]: *Śrīmad-Bhāgavatam* 10.39.55.
 [^120-1]: *Śrīmad-Bhāgavatam* 10.1.24.
-[^203-1]: Caitanya-caritāmṛta, Antya 4.219–221 (numbering of the VCD translation).
+[^203-1]: Caitanya-caritāmṛta, Antya 4.219–221 (in the verse numbering of the translation used in this edition).
 [^203-2]: *Vilāpa-kusumāñjali* 6.
-[^203-3]: In the VCD translation, verses 223–224.
+[^203-3]: The edition cites Antya 4.224; in the verse numbering of the translation used here the passage is verses 223–224.
 [^225-1]: *Śrīmad-Bhāgavatam* 10.84.13.
+[^231-1]: So in the edition; by sense, verse 195 (where Nityānanda tells him to go to Vraja; verse 196 describes the gesture and His disappearance).

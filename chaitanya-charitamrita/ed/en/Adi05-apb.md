@@ -256,6 +256,6 @@ O friend, if you cherish the company of your relatives, do not look at the form 
 [^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.
 [^93-1]: The edition reads *loka-draṣṭā* (“who beholds the worlds”); the verse has *loka-sraṣṭuḥ* (“of the creator of the worlds”). Possibly a misprint.
 [^128-1]: The verse translation reads differently: the knowledge that the avatāra and the source of the avatāras are nondifferent is ascribed to those who know the truth; Bhaktivinoda calls “one who sees no difference” the person who confuses them.
-[^166-1]: The verse translation reads differently: *kadamba* is taken as the *kadamba* flower.
-[^196-1]: The verse translation reads differently: “showed with a gesture of His hand.”
-[^203-1]: The verse translation reads differently: “relished the nectar of loving relationships with Śrī Kṛṣṇa.”
+[^166-1]: The verse translation reads differently: it takes *kadamba* as the *kadamba* flower (“like the buds of a *kadamba* flower”).
+[^196-1]: The verse translation reads differently: “sent me off with a sign of His hand.”
+[^203-1]: The verse translation reads differently: “I attained the furthest reaches of *bhakti-rasa*.”
