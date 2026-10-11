@@ -528,7 +528,7 @@ The *Gītā* (9.4–5) says: “By Me, in My unmanifest form, this whole world i
 
 > Subheading: Description of Garbhodaśāyī —
 
-## 94–101
+## 94–107
 
 *Brahma-saṁhitā* (5.14): “Thus by a single portion He Himself enters each one.” Madhya 20.283–293.
 
