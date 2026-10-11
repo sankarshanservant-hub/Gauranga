@@ -176,6 +176,60 @@ Kuliyā-grāma: the present town of Navadvīpa. “Between Nadīyā and Kuliyā 
 
 > Subheading: After surrendering, one must not sin again —
 
+## 59
+
+> Subheading: Gopāla Cāpāla takes shelter at Śrīvāsa's feet and is freed from his offense —
+
+## 60
+
+> Subheading: Another foolish brāhmaṇa curses the Lord —
+
+## 64
+
+Whoever thinks that the Lord, the master of *māyā*, is subject to curses and the like, or that He is a *jīva* punished by Yama and subject to the fruits of karma, invites godlessness upon himself. But once the *jīva* comes instead to know Him as the Supreme Lord, eternally worthy of service, its beginningless aversion to Kṛṣṇa disappears. This incident is not in the *Caitanya-bhāgavata*.
+
+## 65
+
+> Subheading: Mercy through punishment for Mukunda —
+
+Mercy through punishment for Mukunda: see the *Caitanya-bhāgavata*, Madhya, Chapter 10.
+
+## 66
+
+> Subheading: Mercy through punishment for Advaita —
+
+## 69
+
+> Subheading: Murāri Gupta's exclusive devotion to Śrī Rāma —
+
+*Caitanya-maṅgala*, Madhya-khaṇḍa: “I ever worship Rāma, the guru of the three worlds.” “Having thus heard the eight verses about Raghuvīra, He Himself placed His foot on Murāri's head. He wrote the name ‘Rāmadāsa’ on his forehead: ‘By My grace you have become “Rāmadāsa.”’ Saying this, He showed him the form of Rāma. Murāri, falling at His feet, offers prayers.” The Lord's mercy to Murāri Gupta: see the *Caitanya-bhāgavata*, Madhya, Chapter 10.
+
+## 70
+
+> Subheading: The Lord drinks water from an iron pot in Śrīdhara's house and gives boons —
+
+How the Lord drank water from Śrīdhara's iron pot: see the *Caitanya-bhāgavata*, Madhya, Chapter 23.
+
+## 71
+
+> Subheading: Mercy to Ṭhākura Haridāsa; the pastime of freeing Śacī from her offense —
+
+Mercy to Ṭhākura Haridāsa: see the *Caitanya-bhāgavata*, Madhya, Chapter 10; the Lord's mercy to Śacīmātā: the *Caitanya-bhāgavata*, Madhya, Chapter 22.
+
+## 72
+
+> Subheading: A godless student calls the glory of the holy name exaggeration (*arthavāda*) —
+
+The glory of Śrī Nāma Prabhu is non-different from Kṛṣṇa Himself. To consider it “exaggerated praise,” “not real,” and therefore “untrue” — this divisive mentality is what is called “*arthavāda*,” that is, (false) praise or else defamation. It is outright godlessness, or atheism — nothing but enmity toward God.
+
+## 74
+
+> Subheading: The Lord and His associates bathe in the Gaṅgā with their clothes on, and He glorifies devotion, the one and only means (*abhidheya*) —
+
+## 76
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 14, Verse 20)
+
 ---
 
 [^31-1]: So in the edition: *taror api*; the verse reads *taror iva*.
