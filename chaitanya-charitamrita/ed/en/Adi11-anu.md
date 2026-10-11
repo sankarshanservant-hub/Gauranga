@@ -286,6 +286,24 @@ According to Kānu Ṭhākura's descendants, Ṭhākura Kānāi appeared in Śak
 
 In his fifth year the child Kṛṣṇadāsa went with the queen Mother Jāhnavā to Śrī Vṛndāvana-dhāma. The Vrajavāsīs headed by Śrī Jīva Gosvāmī, seeing the child Kṛṣṇadāsa's *bhāva* and other signs, gave him the name “Ṭhākura Kānāi.” There is a story that once in Vṛndāvana, as Ṭhākura Kānāi danced, overwhelmed by the bliss of *kīrtana*, an anklet vanished from his right foot. Ṭhākura Kānāi then said, “Wherever this anklet has fallen, there I will live.” It is said that the anklet fell in a village called “Bodhakhānā” in Yaśohara district, and from then on Ṭhākura Kānāi came to live at Bodhakhānā.
 
+Another tradition is handed down in this family: the Deity “Prāṇavallabha” has been served since some ancestor of Sadāśiva several hundred years before the appearance of Śrīman Mahāprabhu. This “Prāṇavallabha” is still served at Bodhakhānā.
+
+At the time of the “Bargī hāṅgāmā” (the Bargī raids), all of Ṭhākura Kānāi's sons, headed by Vaṁśīvadana, except the descendants of his eldest son, fled Bodhakhānā and settled in a village called “Bhājana-ghāṭ” in Nadīyā district. One of the descendants of Ṭhākura Kānāi's younger sons, named “Harikṛṣṇa Gosvāmī,” came back to Bodhakhānā after the Bargī raids had ended. He installed another, new Deity, also named “Prāṇavallabha.” Even now, in the village of Bodhakhānā, the descendants of Ṭhākura Kānāi's eldest son serve the ancient “Śrī Prāṇavallabha,” and the descendants of the younger son serve the newly installed “Prāṇavallabha.” At Bhājana-ghāṭ the Deity “Śrī Rādhā-vallabha” is served. The book *Prema-vilāsa* shows that Kānu Ṭhākura was present at the Kheturi festival together with Jāhnavā-devī and Vīrabhadra Prabhu.
+
+Puruṣottama Ṭhākura and Kānu Ṭhākura had many disciples who were *brāhmaṇas* by birth. The four chief disciples of Puruṣottama Ṭhākura who were *brāhmaṇas* by birth are named thus: “His four dearest disciples, the best of *brāhmaṇas*: first Mādhavācārya, then Yādavācārya Paṇḍita, and Daivakīnandana dāsa, famous in Gauḍa-maṇḍala, who composed the book *Śrīmad Vaiṣṇava-vandanā*.” This Mādhavācārya is the husband of Gaṅgā-devī, the daughter of Śrī Nityānanda Prabhu. After the village of Sukhasāgara was destroyed, the Deities installed by Puruṣottama were brought to Cānduḍiyā, and they are now served together with his other Deities under the supervision of the descendants of Gaṅgā at Jirāṭ. Puruṣottama Ṭhākura's *śrīpāṭa* is also called the *pāṭa* of “Vasu-Jāhnavā.”
+
+Kānu Ṭhākura's disciples live in the village of Gaḍabetā on the bank of the river Śilāvatī in Medinīpura district. A *brāhmaṇa* named “Śrīrāma,” of the Rāḍhī class and of the Kauthumī branch of the *Sāma Veda*, was a famous disciple of Kānāi Ṭhākura.
+
+## 41
+
+> Subheading: (26) Uddhāraṇa Ṭhākura (*gopāla* 11) —
+
+Uddhāraṇa Datta. In the *Gaura-gaṇoddeśa* (verse 129): “He who in Vraja was the cowherd Subāhu is Datta, named Uddhāraṇa.” He lived in Saptagrāma, on the bank of the river Sarasvatī near Triśabighā station in Hugalī district. Formerly “Saptagrāma” meant Vāsudevapura, Bā̃śaberiyā, Kṛṣṇapura, Nityānandapura, Śivapura, Śaṅkhanagara and Saptagrāma taken together. *Caitanya-bhāgavata*, Antya, Chapter 6: “Uddhāraṇa Datta is a great and generous Vaiṣṇava, who was given the right to serve Nityānanda.” Antya, Chapter 5: “After staying some days at Khaḍadaha, Nityānanda came to Saptagrāma with all His associates. The best of lords stayed on the bank of the Triveṇī, in the temple of the fortunate Uddhāraṇa Datta. In body, mind and words Datta Uddhāraṇa served Nityānanda's feet without pretense. Through Uddhāraṇa the whole merchant community was purified — of this there is no doubt.” By birth he belonged to a Suvarṇa-vaṇik family.
+
+At Saptagrāma there is a six-armed form of Mahāprabhu, installed by Śrīla Uddhāraṇa Ṭhākura and served by him with his own hands. To His right is Śrī Nityānanda and to His left Śrī Gadādhara. There are also forms of Śrī Rādhā-Govinda and a Śrī Śālagrāma, and beneath the throne-altar a painting of Śrī Uddhāraṇa Ṭhākura Mahāśaya is worshiped. In front of the present temple is a large *nāṭya-mandira*. A memorial stone plaque on a pillar of the *nāṭya-mandira* bears the names of the builder of the temple and of those who restored the *śrīpāṭa*. Right in front of the *nāṭya-mandira* is a cool, shady *mādhavī* bower. On either side of the bower stand two pillars: on one is a painting of Uddhāraṇa Ṭhākura Mahāśaya, and on the other, on a stone plaque, the four *tāraka-brahma-nāmas* of the four *yugas* are inscribed.
+
+In 1283 a mendicant named Nitāidāsa Bābājī collected 12 *bighās* of land for the *śrīpāṭa*. Then, through the special efforts of certain people, the *śrīpāṭa*
+
 ---
 
 [^25-1]: The edition reads *revata-vaṁśa*, “the line of Revata” (Revata, also called Kakudmī, is Revatī's father). Possibly *revaty-aṁśa* should be read: “born of portions of Vāruṇī and Revatī.”
