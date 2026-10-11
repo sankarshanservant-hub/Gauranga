@@ -54,7 +54,56 @@ The Lord's elders in this world serve Him without knowing it. A mind dominated b
 
 > Subheading: (5) Service to Kṛṣṇa — even in the parental love (*vātsalya-rasa*) of Nanda Mahārāja —
 
+## 59
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.47.66–67)
+
+After meeting the residents of Vraja, Uddhava took leave of them and was about to return to Dvārakā.[^59-1] Then Nanda and the other cowherd men, full of love for Śrī Kṛṣṇa, speak to Uddhava:
+
+**naḥ** (our) **manasaḥ** **vṛttayaḥ** (workings of the mind) **kṛṣṇa-pādāmbujāśrayāḥ** (taking shelter of Kṛṣṇa's lotus feet) **syuḥ** (may be). [Our] **vācaḥ** (words) **tu** **nāmnām** (His names) **abhidhāyinīḥ** (uttering — may they be devoted to *kīrtana*), **kāyaḥ** (the body) **tat-prahvaṇādiṣu** (in bowing to Him, Kṛṣṇa, and so on) **astu** (may be engaged).
+
+## 60
+
+**karmabhiḥ** (by deeds — sinful, pious and others that bear fruit) **īśvarecchayā** (by the will of Īśvara) **yatra kvāpi** (wherever it may be) **bhrāmyamāṇānām** (wandering — being born among the eighty-four [lakhs of] species) **naḥ** (our) **maṅgalācaritaiḥ** **dānaiḥ** (by the auspicious deeds that arise from them) **īśvare** (for Bhagavān) **kṛṣṇe** (Kṛṣṇa) **ratiḥ** (attachment) **astu** (may there be).
+
+## 61
+
+> Subheading: (6) Service to Kṛṣṇa — even in the friendship (*sakhya-rasa*) of the friends of Vraja —
+
+## 63
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.15.17)
+
+Before the demon Dhenuka was killed in Tālavana, the cowherd boys played with one another in this way, together with Rāma and Kṛṣṇa:
+
+**hata-pāpmānaḥ** (freed of impurity) **kecit** (some cowherd boys) **mahātmanaḥ** (of Bhagavān) **tasya** (of Him, Kṛṣṇa) **pāda-saṁvāhanam** (massaging of the feet) **cakruḥ** (did); **apare** (other cowherd boys) **vyajanaiḥ** (with fans) **samavījayan** (fanned properly).
+
+## 64
+
+> Subheading: (7) Service to Kṛṣṇa — even in the conjugal love (*madhura-rasa*) of the gopīs of Vraja —
+
+## 66
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.31.6)
+
+When Kṛṣṇa disappeared during the *rāsa* dance, the gopīs, searching for Him, sang:
+
+**he vraja-janārti-han** (O You who destroy the pain of separation of those full of love for Kṛṣṇa), **vīra** (O You whose form is magnanimous), **nija-jana-smaya-dhvaṁsana-smita** (O You whose smile destroys the *smaya*, that is, the pride, of Your own people, the embodiments of *rasa*), **sakhe** (O friend), **sma** (surely) **bhavat-kiṅkarīḥ** **naḥ** (us, Your maidservants) **bhaja** (do not forsake); **cāru** (enchanting) **jala-ruhānanam** (lotus face) **ca** **yoṣitām** (to us women, the gopīs) **darśaya** (show).
+
+## 67
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.47.21)
+
+When Uddhava came to Vraja, Śrīmatī, addressing a bee, speaks *citra-jalpa* (varied talk):
+
+**he saumya** (O gentle one), **api bata** **ārya-putraḥ** (the son of Nanda) **adhunā** (now) **madhu-puryām** (in Mathurā) **āste** (does He live happily)? **saḥ** **pitṛ-gehān** (together with His parents, Nanda and Yaśodā, and with the homes) **bandhūn** (the relatives — Parjanya, Varīyasī, Upananda, Abhinanda, Sannanda, Nandana, Rohiṇī, Sānandā, Nandinī, Kaṇḍava, Daṇḍava and others), **gopān** (the cowherd boys — Subala, Arjuna, Gandharva, Vasanta, Śrīdāmā, Sudāmā, Ujjvala, Kokila, Sanandana, Vidagdha and others) **ca** **kiṁ smarati** (does He remember)? **kvacit** (ever) **api** **kiṅkarīṇām** (of the maidservants — Lalitā, Viśākhā, Citrā, Campakalatā, Tuṅgavidyā, Indulekhā, Raṅgadevī, Sudevī, Kalāvatī, Śubhāṅgadā, Hiraṇyāṅgī, Ratnalekhā, Śikhāvatī, Kandarpa-mañjarī, Phullakalikā, Anaṅga-mañjarī, Puṇḍarīkā, Sītākhaṇḍī, Cārucaṇḍī, Sadaṇḍikā, Kuṇṭhitā, Kalakaṇṭhī, Romaci, Mecakā, Haridrābhā, Haricchelā, Vitaṇḍikā, Līlāvatī, Sādhikā, Candrikā, Mādhavī, Vijayā, Nandā, Gaurī, Sudhāmukhī, Vṛndā, Kaumudī, Ratnabhavā, Ratnaprabhā and others) **naḥ** (of us — Śrīmatī, the daughter of Vṛṣabhānu, Gāndharvikā) **kathām** (talk) **saḥ** **gṛṇīte** (does He speak with His own lips)? **kadā nu** (when) **aguru-sugandham** (more fragrant even than *aguru*) **bhujam** (His arm) **mūrdhni** (on our heads) **adhāsyat** (will He place)?
+
+## 68
+
+> Subheading: (8) More than that, even Śrī Rādhā Herself serves Kṛṣṇa —
+
 ---
 
 [^43-1]: *Bhakti-rasāmṛta-sindhu* 1.1.38.
 [^43-2]: *Dāmodarāṣṭaka* 4 and 7.
+[^59-1]: So in the edition; according to the *Śrīmad-Bhāgavatam* (10.46–47), Uddhava came to Vraja from Mathurā and returned there.
