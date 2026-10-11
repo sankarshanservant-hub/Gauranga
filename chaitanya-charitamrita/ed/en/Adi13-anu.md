@@ -79,3 +79,63 @@
 ## 28
 
 > Subheading: In His boyhood, studying and teaching, He explains Kṛṣṇa's name in every subject and moves others to chant it —
+
+## 28–29
+
+The *Caitanya-bhāgavata* (Madhya-khaṇḍa, Chapter 1) says: “Absorbed, the Lord explains: in every *sūtra*, *vṛtti* and *ṭīkā* there is only the name of Hari. The Lord says, ‘At all times Kṛṣṇa's name is true. All the scriptures speak of Kṛṣṇa and nothing else. Whoever leaves Kṛṣṇa's feet and explains anything else wastes his life in unspeakable talk. Whoever explains the scriptures while giving up the worship of Kṛṣṇa is low and will never know their inner meaning. Not knowing the inner meaning of the scriptures, he takes up teaching them — and, like an ass, he only carries the scriptures about until he dies.’”
+
+## 30
+
+> Subheading: He moves everyone without exception to chant Kṛṣṇa's name —
+
+## 31
+
+> Subheading: In His youth He Himself performs *kīrtana* and so moves everyone to the name —
+
+## 33
+
+> Subheading: For all 24 years in Navadvīpa He moves the *jīvas* to the name —
+
+## 34
+
+> Subheading: Six of the last 24 years, spent in Nīlācala: preaching the name and *prema* from the ocean to the Himālayas —
+
+## 37
+
+> Subheading: These six years are the Madhya-līlā, and it is entirely the preaching of the name —
+
+## 38
+
+> Subheading: Of the remaining 18 years, six: preaching *prema* by *kīrtana* and dance alone —
+
+## 39
+
+> Subheading: The last 12 years: in separation from Kṛṣṇa He Himself tastes love for Kṛṣṇa at every moment and displays the states of *prema* —
+
+One in whom *prema* has awakened abides in the transcendental *vipralambha-rasa*, the *rasa* of separation, which nourishes *sambhoga*, union. Śrī Gaurasundara wished to taste this state of *prema* Himself, and in this way He taught it to the *jīvas* of the world. Unless *vipralambha* arises, *sambhoga* is not nourished.
+
+## 41
+
+> Subheading: Like Śrī Rādhā on seeing Uddhava, the Lord is in *mahābhāva* —
+
+Śrī Gaurasundara is the living ideal of the long, long *vipralambha-rasa*: He is filled with the mood of *citra-jalpa*, “varied talk,” that seized Śrīmatī Vṛṣabhānujā (Rādhā) when She saw Uddhava. With envy (*asūyā*), jealousy (*īrṣyā*) and pride (*mada*), in a manner of open disdain, Rādhikā set out to declare Kṛṣṇa's want of courtesy (*akauśala*) and, addressing the bumblebee, spoke *prajalpa*, words full of reproach. Śrī Gaurasundara was immersed in all those moods (see Ādi 4.107–108).
+
+## 42
+
+> Subheading: With Svarūpa and Rāya He relishes Caṇḍīdāsa, Vidyāpati and the *Gīta-govinda* —
+
+Vidyāpati was a Vaiṣṇava poet who lived in Mithilā. He flourished during the reign of King Śivasiṁha and Queen Lachimādevī; that is, he composed his songs in the first quarter of the fourteenth century of the Śaka era. He appeared about a hundred years before Śrī Mahāprabhu's manifest pastimes. He was a Maithila *brāhmaṇa*, and his descendant in the twelfth generation is alive today. His songs about Kṛṣṇa abound in examples of transcendental *vipralambha-rasa*. Those moods were what Śrī Mahāprabhu relished.
+
+Jayadeva was born, during the reign of Lakṣmaṇasena, the king of Bengal, to Bhojadeva and Vāmādevī. That period, according to some, is the eleventh or the twelfth century of the Śaka era. He lived for a long time in the city of Navadvīpa, the capital of Bengal. Jayadeva's birthplace is the village of Kenduvilva in the district of Birbhum; according to others, Utkala (Orissa); according to still others, the South. He spent the last part of his life at Śrī Jagannātha-kṣetra. His book of poetry is called the *Gīta-govinda*, or *Aṣṭapadī*. It too abounds in transcendental *vipralambha-rasa*. It describes the *vipralambha-rasa* that nourishes the *rasa* of *sambhoga* — the separation that arose when the prince of Vraja left the place of the *rāsa* dance, as the *Śrīmad-Bhāgavatam* tells. For the commentaries on the *Aṣṭapadī* and the names of the commentators, see the *Vaiṣṇava-mañjuṣā* (issue 1).
+
+Caṇḍīdāsa was born in a *brāhmaṇa* family in the village of Nānnura in the district of Birbhum, at the close of the first quarter of the fourteenth century of the Śaka era. He was probably a friend of Vidyāpati Ṭhākura. His writings abound in transcendental *vipralambha-rasa*.
+
+The moods that blossomed in Caṇḍīdāsa and other devotees were Śrī Mahāprabhu's most beloved delicacy. Steeped in the mood of Śrī Rādhā, Kṛṣṇacandra tasted *vipralambha-rasa* with His two intimate devotees, Śrī Dāmodara Svarūpa and Śrī Rāmānanda Rāya, and so fulfilled His own desire.
+
+## 43
+
+> Subheading: By tasting the love for Kṛṣṇa that arises from Śrī Rādhā's actions in separation from Kṛṣṇa, He fulfills His three desires —
+
+## 45
+
+> Subheading: Even Anantadeva Himself cannot reach the end of Gaura's pastimes —
