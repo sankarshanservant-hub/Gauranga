@@ -78,6 +78,54 @@ Describing how the “*śuddha-bhakta*” and the “*antaraṅga-bhakta*” dif
 
 Of the five *tattvas* of the Pañca-tattva, two are potency (*śakti*) and three are the possessor of potency (*śaktimān*). The pure devotees and the intimate devotees are the two kinds of potency. Those who are free of other desires and do not cover their pure inclination to serve Kṛṣṇa with the covering of karma or *jñāna* are *śuddha-bhaktas*. The devotees wholly devoted to Kṛṣṇa (*aikāntika*) who have taken shelter in *madhura-rasa* alone are the *antaraṅga-bhaktas*. *Madhura-rasa* includes *vātsalya*, *sakhya* and *dāsya*. The *antaraṅga-bhakta* is a special kind of *śuddha-bhakta*.
 
+## 18
+
+> Subheading: With the four *tattvas* the Lord plays, preaches, tastes and gives —
+
+## 18–19
+
+Śrī Mahāprabhu, together with all of them — His *prakāśa*, the avatāra of His *puruṣa-avatāra*, the intimate devotees and the pure devotees — Himself eternally plays by tasting *prema*, and gives *prema* to the world by preaching *kīrtana*.
+
+## 20
+
+> Subheading: The five *tattvas* together eternally taste and distribute the *rasa* of love for Kṛṣṇa —
+
+## 23
+
+> Subheading: In distributing love for Kṛṣṇa there is no considering who is fit and who is unfit —
+
+## 24
+
+> Subheading: Distributing *prema* makes it increase rather than diminish —
+
+## 25
+
+> Subheading: The world drowns in the flood of *prema* —
+
+## 27
+
+> Subheading: Immersed in the *rasa* of love for Kṛṣṇa, the *jīva* is rid of the seed of karma —
+
+In the Lord's marginal potency, called the *jīva-śakti*, together with the endeavor turned toward Kṛṣṇa there also lies, in unmanifest form, the seed of the desire to enjoy — aversion to Kṛṣṇa. This seed of desire, born of the tree of *saṁsāra*, is watered by the flow of time, and day after day it binds the conditioned *jīva* with all kinds of bonds of enjoyment and torments him with the threefold miseries. A seed buried in the soil will not sprout if water submerges it. Just so, in the flood of *prema* — the bottomless waters of the ocean of service to Bhagavān — the seeds of the desire to enjoy anything other than service to Kṛṣṇa were drowned and destroyed, and no sprouts of desire could arise from them any longer. Śrī Caitanyacandra descended in the form of the Pañca-tattva, and the purpose of His descent was fulfilled; seeing this, all were filled with joy. Śrīmat Prabodhānanda Sarasvatī, the *tridaṇḍipāda*, described this in his book *Śrī Caitanya-candrāmṛta*: “When Caitanyacandra revealed the supreme path of *bhakti-yoga*, the worldly gave up talk of wives, sons and the like; the learned gave up disputes over the *śāstras*; the kings of *yogīs* gave up the hardship of restraining the breath; ascetics gave up their austerities; and *sannyāsīs* gave up the practice of knowledge. No other *rasa* remained.”
+
+## 28
+
+> Subheading: The rain of *prema* increases the *rasa* of *prema* —
+
+## 29
+
+> Subheading: Those deprived of the *rasa* of love for Kṛṣṇa —
+
+## 31
+
+> Subheading: The ocean of causeless mercy thinks how to deliver them —
+
+## 33
+
+> Subheading: To deliver the fallen *jīvas* deprived of *prema*, He accepts *sannyāsa* —
+
+One who mistakenly believes that “*māyā*” is present in Bhagavān's being, in His abode, in devotion to Him and in His devotee — though all of these are beyond *māyā* — is a “Māyāvādī.” One who mistakenly believes that these four truths are subject to karma and to enjoying its fruits is “devoted to karma” (*karma-niṣṭha*). People who mistakenly think that in these four truths there is room for argument born of ignorance are “sophists.” One who mistakenly thinks that these four truths deserve censure is a “blasphemer.” One who mistakenly thinks that other things of *māyā* are equal to these four truths is a “*pāṣaṇḍī*.” And those fond of study who mistakenly think that these four truths are on a par with other objects of material enjoyment are “lowly students.” All of them fled, driven by one aim: that the waters of the flood of *prema* given by Gaurasundara, who is full of love, should in no way touch them. Seeing this, Śrī Mahāprabhu wished to accept the ornament of the fourth *āśrama*. It is highly revered by those people of material nature already mentioned, who turn away from love for Kṛṣṇa and long for the four goals of life (*catur-varga*). He reasoned that in the eyes of these worldly people, bewitched by *māyā*, the fourth *āśrama* is the desirable ideal.
+
 ---
 
 [^5-1]: *Śvetāśvatara Upaniṣad* 6.8.

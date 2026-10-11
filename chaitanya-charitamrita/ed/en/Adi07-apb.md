@@ -15,3 +15,25 @@ In the first chapter I described *guru-tattva*, dividing it into the *dīkṣā-
 ## 6
 
 I bow down to Śrī Kṛṣṇa, who comprises the five *tattvas*: Kṛṣṇa's *bhakta-rūpa*, *bhakta-svarūpa*, *bhakta-avatāra*, *bhakta* and *bhakta-śakti*.
+
+## 20–21
+
+Śrī Kṛṣṇa's own pastimes are the storehouse of *prema*. That storehouse had indeed come into the world, but its doors were locked and sealed. In the avatāra of Śrī Caitanya the five *tattvas* together broke that seal, opened the doors and, plundering *prema*, tasted it.
+
+## 25–27
+
+When the storehouse of *prema* was thrown open, the flood of the *rasa* of *prema* drowned the whole world with tremendous force. In it perished the seed from which the bondage of ignorance (*avidyā*) grows in the conditioned *jīvas* — their forgetfulness that they are Kṛṣṇa's servants.
+
+## 29
+
+The Māyāvādīs are Prakāśānanda and the other *sannyāsīs*. In every matter that is real they raise disputes about “*māyā*”! They call Brahman “beyond *māyā*,” yet they make Īśvara “an associate of *māyā*” and call the bodies of all Īśvara's avatāras “made of *māyā*.” They say that *māyā* takes part in the very constitution of the *jīva*, that is, that every notion of “I” in the *jīva* is made by *māyā*. From this they conclude that once the *jīva* is liberated, no state that could be called “the pure *jīva*” remains. In other words, they teach that the liberated *jīva* becomes nondifferent from Brahman.
+
+Those devoted to karma (*karma-niṣṭha*) are Devānanda and other *karmīs* devoid of *bhakti*, and the *smārtas* dulled by karma — that is, those who declare karma and its fruits to be the chief aim of the *jīva*.
+
+The sophists are Sārvabhauma and other logicians who deny Īśvara.
+
+The blasphemers are the man whom the Lord chased with a stick, and Gopāla Cāpāla and others who blasphemed the Lord and His devotees.
+
+The *pāṣaṇḍīs* are those who explain other gods as equal to Bhagavān.
+
+The lowly students are those who take learning to be a cause for argument and do not know that learning is the means to attain Īśvara.
