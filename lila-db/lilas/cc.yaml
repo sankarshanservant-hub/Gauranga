@@ -4008,3 +4008,347 @@
   cc: "Ади 13"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi13.md", from: "122", to: "124"}
+
+# Ади 14 — игры младенчества и детства
+- id: cc-0201
+  source: cc
+  ref: "Ади 14.1–5"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: PX
+  order: 980
+  title: "Мангалачарана четырнадцатой главы: памятование о Чайтанье делает трудное лёгким; переход к сутрам детских лил"
+  summary: "Автор чтит Шри Чайтанью, памятование о Котором любым образом делает трудное лёгким, а забвение — наоборот («Хари-бхакти-виласа» 20.1); славит Чайтанью, Нитьянанду, Адвайту и преданных Гауры. Рассказано, как сын Яшоды стал сыном Шачи; теперь — сутры детских лил. Детские игры Чайтанья-Кришны пленяют ум: хотя они похожи на человеческие, внутри они исполнены деяний Господа."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Хари-бхакти-виласа 20.1"]
+  cc: "Ади 14"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "1", to: "5"}
+
+- id: cc-0202
+  source: cc
+  ref: "Ади 14.6–11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P02
+  order: 36
+  title: "Следы маленьких стоп со знаками флага, ваджры, раковины, диска и рыбы; Мишра думает, что играет Бала-гопала; те же знаки на стопах Нимая"
+  summary: "В детских играх Господь сначала лежал на спине и показал родителям знаки на стопах. В доме они увидели следы маленьких стоп со знаками флага, ваджры, раковины, диска и рыбы и изумились: чьи это следы? Мишра решил, что Бала-гопала, пребывающий у них вместе с шалаграма-шилой, принимает облик и играет в доме. В тот миг Нимай проснулся и заплакал; кормя Его грудью, Шачи увидела на Его стопах те же знаки и позвала Мишру."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [revelation, family]
+  bhava: [child]
+  years: [1486, 1487]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 14.6: в младенчестве, когда Господь ещё лежал на спине"
+  cc: "Ади 14"
+  event: ev-footprints-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "6", to: "11"}
+
+- id: cc-0203
+  source: cc
+  ref: "Ади 14.12–20"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P02
+  order: 20
+  title: "Ниламбара Чакраварти видит тридцать два признака махапуруши и знаки Нараяны; праздник и наречение имени «Вишвамбхара»"
+  summary: "Обрадованный Мишра тайно позвал Ниламбару Чакраварти; тот, улыбаясь, сказал, что, рассчитав лагну, уже записал это: на теле ребёнка все тридцать два признака великой личности (шлока о пяти длинных, пяти тонких, семи красных, шести высоких, трёх коротких, широких и глубоких частях тела), на руках и стопах — знаки Нараяны; Он спасёт все миры, проповедует вайшнава-дхарму и освободит оба рода. «Устройте праздник, позовите брахманов: сегодня благоприятный день, я дам Ему имя. Он будет поддерживать и питать всех людей — поэтому Его имя Вишвамбхара». Шачи и Мишра в радости созвали брахманов с жёнами и устроили праздник."
+  persons: ["@jagannatha-mishra", "@shachi", "@nilambara-chakravarti", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "В ЧЧ наречение имени не связано с первым кормлением рисом (аннапрашаной) — названо лишь празднество с брахманами (ср. ev-annaprashana-vishvambhara-name)."
+  themes: [festival, family, revelation]
+  years: [1486, 1487]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 14.12–20: в младенчестве, до того как Господь начал ползать (14.21)"
+  cc: "Ади 14"
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "12", to: "20"}
+
+- id: cc-0204
+  source: cc
+  ref: "Ади 14.21–23"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P02
+  order: 30
+  title: "Господь ползает на коленях и являет чудеса; плачем заставляет женщин петь «Хари» и смеётся; начинает ходить и играть с детьми"
+  summary: "Через несколько дней Господь стал ползать на коленях и являл разные чудеса; под предлогом плача заставлял повторять имя Хари: все женщины говорили «Хари», а золотой Господь смеялся. Ещё через несколько дней Он начал ходить и играть с детьми."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [kirtan, family]
+  bhava: [child]
+  teaching: [holy-name]
+  years: [1486, 1487]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 14.21–23: возраст ползания и первых шагов"
+  cc: "Ади 14"
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "21", to: "23"}
+
+- id: cc-0205
+  source: cc
+  ref: "Ади 14.24–36"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 2
+  title: "Дитя ест глину: «всё — видоизменение земли»; Шачи объясняет различие примером горшка и комка глины; Господь скрывает Себя и просит грудь"
+  summary: "Шачи дала сыну блюдо с воздушным рисом и сладостями и ушла по делам, а Он тайком стал есть землю. Шачи прибежала с криком «Увы!» и отняла землю. Плача, дитя сказало: «Ты сама дала Мне землю — в чём Моя вина? Рис, сладости, пища — всё видоизменение земли; тело — земля, пища — земля; ты бранишь без рассуждения». Изумлённая Шачи ответила: «Кто научил Тебя есть землю по джняна-йоге? Пища, видоизменение земли, питает тело, а сама земля вызывает болезнь; в горшке из глины я ношу воду, а на комок глины вода льётся и впитывается». Скрывая Себя, Господь сказал: «Почему ты раньше Меня этому не научила? Больше не буду есть землю, а проголодаюсь — буду сосать грудь», — и, слегка улыбаясь, забрался к матери на колени. Так под разными предлогами Он являл величие и снова скрывал его детскими повадками."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [pranks, teaching, family]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-eating-clay
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "24", to: "36"}
+
+- id: cc-0206
+  source: cc
+  ref: "Ади 14.37"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 5
+  title: "Трижды съедает пищу гостя-брахмана и тайно дарует ему освобождение"
+  summary: "Господь трижды съел пищу, приготовленную брахманом-гостем, а потом тайно даровал этому брахману освобождение."
+  persons: ["@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра); подробно — «Чайтанья-бхагавата», Ади-кханда."
+  themes: [revelation, prasada, mercy]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-tirthika-brahmana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "37", to: "37"}
+
+- id: cc-0207
+  source: cc
+  ref: "Ади 14.38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 3
+  title: "Воры уносят Господа с улицы, но Он, сидя у них на плечах, сбивает их с толку и возвращается домой"
+  summary: "Воры, найдя Господа на улице, унесли Его; сидя у них на плечах, Он сбил их с толку и вернулся домой."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра)."
+  themes: [pranks, revelation]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-thieves-carry-off-nimai
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "38", to: "38"}
+
+- id: cc-0208
+  source: cc
+  ref: "Ади 14.39"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 81
+  title: "Под предлогом болезни Господь в экадаши съедает наиведью Вишну в домах Джагадиши и Хираньи"
+  summary: "Под предлогом болезни Господь в день экадаши съел подношение Вишну в домах Джагадиши и Хираньи."
+  persons: ["@mahaprabhu", "@jagadisha-pandita", "@hiranya-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра); ср. Ади 10.70–71."
+  themes: [pranks, prasada, festival]
+  bhava: [child]
+  calendar: "экадаши"
+  cc: "Ади 14"
+  event: ev-jagadisha-hiranya-ekadashi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "39", to: "39"}
+
+- id: cc-0209
+  source: cc
+  ref: "Ади 14.40–44"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 15
+  title: "С детьми ворует еду в соседских домах и бьёт мальчишек; на упрёки Шачи в гневе разбивает все горшки, потом стыдится"
+  summary: "Взяв детей, Господь ходил в дома соседей, воровал и ел еду и бил мальчиков. Дети пожаловались Шачи, и она отчитала сына: «Зачем воруешь, бьёшь детей, ходишь в чужие дома — чего нет у нас дома?» Рассердившись, Он ушёл в дом и разбил все горшки; тогда Шачи взяла Его на колени и успокоила, и Господь устыдился, признав свою вину."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [pranks, family]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-nimai-pranks-neighbours
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "40", to: "44"}
+
+- id: cc-0210
+  source: cc
+  ref: "Ади 14.45–47"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 50
+  title: "Господь ударяет мать, она лишается чувств; по совету женщин Он приносит два кокоса — чудо"
+  summary: "Однажды Господь мягкой ручкой ударил мать; увидев её без чувств, Он заплакал. Женщины сказали: «Принеси кокос — и твоя мать поправится». Он вышел и принёс два кокоса; все изумились этому чуду."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "В ЧЧ — удар «мягкой ручкой» (о кирпиче не сказано; ср. ev-brick-two-coconuts)."
+  themes: [pranks, revelation, family]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-brick-two-coconuts
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "45", to: "47"}
+
+- id: cc-0211
+  source: cc
+  ref: "Ади 14.48–61"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 40
+  title: "У Ганги Господь требует, чтобы девочки поклонялись Ему, съедает их подношения и даёт благословения: прекрасный муж и семь сыновей — или старый муж с четырьмя соперницами"
+  summary: "Купаясь с детьми в Ганге, Господь садился среди девочек, пришедших поклоняться богам: «Поклоняйтесь Мне — дам благословение; Ганга и Дурга — Мои служанки, Махеша — Мой слуга». Сам умащался сандалом, надевал гирлянды, выхватывал и ел подношения — сладости, рис, бананы. Девочки сердились: «Нимай, по деревне Ты нам брат; не бери подношений богам». Господь благословил: мужья будут прекрасны, учёны, искусны, молоды, богаты, по семь долголетних и разумных сыновей; девочки радовались, но бранились в притворном гневе. Убежавшей с подношением Он сказал: «Пожалеешь — будет старый муж и четыре соперницы»; испугавшись (вдруг Он что-то знает или в Нём бог), они принесли подношения, Он съел их и дал желанные благословения. Так Он всем показывал Свои шалости, и никто не огорчался — все радовались."
+  persons: ["@mahaprabhu", "@ganga-devi", "@durga", "@shiva"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [pranks, revelation]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-girls-worship-lord-ganga
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "48", to: "61"}
+
+- id: cc-0212
+  source: cc
+  ref: "Ади 14.62–70"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 45
+  title: "Первая встреча с Лакшми, дочерью Валлабхачарьи, у Ганги: «Поклоняйся Мне — Я Махешвара»; она почитает Его цветами и сандалом, Он отвечает шлокой «Бхагаватам» 10.22.25"
+  summary: "Однажды дочь Валлабхачарьи по имени Лакшми, омывшись в Ганге, пришла поклоняться богам. Увидев её, Господь ощутил влечение сердца, а Лакшми обрадовалась, увидев Господа; в обоих пробудилась естественная любовь, и, хотя их тела ещё были сокрыты детством, она стала твёрдой. Под предлогом поклонения богам они открыли свои чувства. Господь сказал: «Поклоняйся Мне — Я Махешвара; почтив Меня, получишь желанное благословение». Лакшми умастила Его сандалом с цветами, надела гирлянду из маллики и поклонилась; приняв её поклонение, Господь улыбнулся и, прочтя шлоку (Бхаг. 10.22.25), принял её чувства. Так оба вернулись домой — кто постигнет глубокие лилы Чайтаньи?"
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 64 — по изданию Гаудия Матха «чханна тану» («тела сокрыты детством»); у ВЧД — «чханна табху» (сноска)."
+  themes: [family, revelation]
+  scriptures: ["Бхаг. 10.22.25"]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 14: среди лил детства (балья), до начала обучения (14.94)"
+  divergence: "В ЧЧ встреча отнесена к детским лилам; у Мурари (1.09.5–8) и других — в юности, перед сватовством."
+  cc: "Ади 14"
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "62", to: "70"}
+
+- id: cc-0213
+  source: cc
+  ref: "Ади 14.71–75"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 30
+  title: "Убегая от матери, Господь садится на выброшенные горшки в помойной яме; на её упрёк говорит о брахма-джняне; Шачи всё же ведёт Его омыться"
+  summary: "Люди с любовью жаловались Шачи и Джаганнатхе на шалости Чайтаньи. Однажды Шачи-деви, отругав сына, пошла Его поймать, а Он убежал и с удовольствием уселся на выброшенные горшки в яме для объедков. Шачи сказала: «Зачем коснулся нечистого? Ты осквернился — иди омойся в Ганге». В ответ Он поведал матери брахма-джняну; изумлённая, она всё же заставила Его омыться."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [teaching, pranks]
+  teaching: [purity]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-discarded-pots-teaching
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "71", to: "75"}
+
+- id: cc-0214
+  source: cc
+  ref: "Ади 14.76–82"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 41
+  title: "Небожители наполняют дом; звон нупуров на босых ногах идущего за отцом Господа; Мишра: «Лишь бы Вишвамбхаре было благо»"
+  summary: "Однажды, когда Шачи легла с сыном, она увидела, что дом наполнили небожители, и послала сына позвать отца. Когда Он шёл, на Его ногах зазвенели нупуры — родители изумились. Мишра сказал: «Откуда звон бубенчиков на босых ногах ребёнка?» Шачи рассказала о другом чуде: двор заполнили дивные существа, громко восклицали — видно, кому-то возносили молитвы. Мишра сказал: «Что бы ни было — не беда; лишь бы Вишвамбхаре было благо»."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [celestial, revelation, family]
+  bhava: [child]
+  cc: "Ади 14"
+  event: ev-gods-worship-infant-anklets
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "76", to: "82"}
+
+- id: cc-0215
+  source: cc
+  ref: "Ади 14.83–92"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P03
+  order: 90
+  title: "Мишра бранит сына за шалости; во сне брахман упрекает его: «Ты не знаешь, кто твой сын»; Мишра: «Пусть Он Нараяна — долг отца учить сына»"
+  summary: "Видя шалости сына, Мишра дал Ему наставление в дхарме и сильно отругал. Ночью во сне пришёл брахман и гневно сказал: «Мишра, ты не знаешь истины о сыне — бранишь и бьёшь Его, считая сыном». Мишра ответил: «Пусть Он бог, сиддха или муни — каким бы великим ни был, теперь Он мой сын; растить и учить сына — долг отца: если не научу, откуда Он узнает суть дхармы?» Брахман: «Если Он божественно совершенен и знание Его самосовершенно, учение бесполезно». Мишра: «Пусть сын — Нараяна, и всё же долг отца — учить сына». Так они рассуждали о дхарме; у Мишры была чистая ватсалья, и иного он не знал. Довольный брахман ушёл; проснувшись, изумлённый Мишра рассказал сон друзьям и родным, и все изумились."
+  persons: ["@jagannatha-mishra", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Ст. 86 — по изданию Гаудия Матха «теперь Он мой сын» (এবে); у ВЧД — «лишь только моим любимым сыном» (сноска)."
+  themes: [celestial, family, revelation]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 14.83–94: среди лил детства, до хатэ-кхади"
+  divergence: "У Мурари (1.07.14–17) сон — после санньясы Вишварупы (пауганда)."
+  cc: "Ади 14"
+  event: ev-jagannatha-mishra-dream
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "83", to: "92"}
+
+- id: cc-0216
+  source: cc
+  ref: "Ади 14.93–94"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: P04
+  order: 20
+  title: "Детские игры Гаурачандры радуют родителей; Мишра вкладывает в руку сына мел — за несколько дней Он выучивает буквы"
+  summary: "Так Гаурачандра совершал детские игры, и радость родителей росла день ото дня. Через некоторое время Мишра вложил в руку сына мел (хатэ-кхади), и за несколько дней Он выучил буквы с их двенадцатью знаками-сочетаниями."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "По ЧЧ Ади 13.26 хатэ-кхади завершает детство (балья) и открывает пауганду."
+  themes: [learning, festival, family]
+  cc: "Ади 14"
+  event: ev-hate-khadi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "93", to: "94"}
+
+- id: cc-0217
+  source: cc
+  ref: "Ади 14.95–97"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md"
+  period: PX
+  order: 981
+  title: "Сутра детских лил окончена — подробно у Вриндавана Даса; колофон четырнадцатой главы"
+  summary: "Так по порядку рассказана сутра детских лил; подробно их описал Вриндаван Дас, поэтому здесь они даны кратко — из страха повторения. Уповая на стопы Шри Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 14"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "95", to: "97"}
