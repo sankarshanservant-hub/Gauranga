@@ -4455,7 +4455,8 @@
   ],
   "entries": [
    "pvl-0186",
-   "vv-0034"
+   "vv-0034",
+   "vv-0062"
   ],
   "sources": [
    "prema-vilasa",
@@ -6339,6 +6340,7 @@
    "lcm-0153",
    "mkc-0118",
    "pad-0509",
+   "vv-0063",
    "mkc-0119",
    "mkc-0120",
    "mkc-0121",
@@ -6350,7 +6352,8 @@
    "karnapura-ckm",
    "lochana-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -10601,6 +10604,7 @@
    "vv-0012",
    "vv-0048",
    "pad-0528",
+   "vv-0068",
    "pad-0529",
    "pad-0530"
   ],
@@ -10653,6 +10657,7 @@
    "pad-0137",
    "pad-0310",
    "pad-0537",
+   "vv-0061",
    "pad-0327",
    "mkc-0251"
   ],
@@ -10660,7 +10665,8 @@
    "bhaktamal",
    "jayananda-cm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -10833,6 +10839,7 @@
    "vv-0026",
    "vv-0054",
    "gst-0018",
+   "vv-0077",
    "mkc-0234"
   ],
   "sources": [
@@ -11986,6 +11993,7 @@
    "vv-0023",
    "pad-0142",
    "pad-0024",
+   "vv-0075",
    "pad-0141",
    "pad-0143",
    "apr-0138"
@@ -13231,13 +13239,15 @@
    "ccd-0092",
    "kcm-0165",
    "gst-0003",
+   "vv-0065",
    "apr-0132"
   ],
   "sources": [
    "advaita-prakasha",
    "chaitanya-chandrodaya",
    "gaura-stotras",
-   "karnapura-ckm"
+   "karnapura-ckm",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -23313,7 +23323,8 @@
   ],
   "entries": [
    "vv-0013",
-   "vv-0042"
+   "vv-0042",
+   "vv-0069"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23373,7 +23384,8 @@
   ],
   "entries": [
    "vv-0019",
-   "vv-0046"
+   "vv-0046",
+   "vv-0071"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23433,7 +23445,8 @@
   ],
   "entries": [
    "vv-0017",
-   "vv-0045"
+   "vv-0045",
+   "vv-0070"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23464,7 +23477,8 @@
   ],
   "entries": [
    "vv-0027",
-   "vv-0055"
+   "vv-0055",
+   "vv-0078"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23494,7 +23508,8 @@
   ],
   "entries": [
    "vv-0022",
-   "vv-0052"
+   "vv-0052",
+   "vv-0074"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23523,7 +23538,8 @@
    28
   ],
   "entries": [
-   "vv-0029"
+   "vv-0029",
+   "vv-0079"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23553,7 +23569,8 @@
   ],
   "entries": [
    "vv-0030",
-   "vv-0051"
+   "vv-0051",
+   "vv-0076"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23587,7 +23604,8 @@
    "vv-0025",
    "vv-0028",
    "vv-0047",
-   "vv-0049"
+   "vv-0049",
+   "vv-0073"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23618,7 +23636,8 @@
   ],
   "entries": [
    "vv-0020",
-   "vv-0050"
+   "vv-0050",
+   "vv-0072"
   ],
   "sources": [
    "vaishnava-vandana"
@@ -23648,7 +23667,68 @@
   ],
   "entries": [
    "vv-0031",
-   "vv-0056"
+   "vv-0056",
+   "vv-0080"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-hiranya-jagadisha-ekadashi-naivedya",
+  "title": "Младенец Нимай в экадаши ест угощение для Вишну в домах Джагадиши и Хираньи",
+  "title_en": "The infant Nimai eats the Ekadashi offering for Vishnu in the houses of Jagadisha and Hiranya",
+  "period": "P03",
+  "order": 6.5,
+  "cc": "",
+  "cb": "Ади 6",
+  "themes": [
+   "pranks",
+   "prasada"
+  ],
+  "notes": "ЧБ Ади 6; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» (ч. 4, 106–107).",
+  "years": [
+   1487,
+   1491
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   1,
+   5
+  ],
+  "entries": [
+   "vv-0064"
+  ],
+  "sources": [
+   "vaishnava-vandana"
+  ]
+ },
+ {
+  "id": "ev-virachandra-secret-counsel",
+  "title": "Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги",
+  "title_en": "The Lord's secret counsel with Nityananda at Nilachala: Virachandra will be Gauranga's own descent",
+  "period": "P12",
+  "order": 305,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "revelation",
+   "family"
+  ],
+  "notes": "Только вандана в трипади «второго» Вриндавана Даса (ч. 5, 16–17); ср. ГГД 67 и ev-virachandra-recognized. Место на шкале условно.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vv-0067"
   ],
   "sources": [
    "vaishnava-vandana"
