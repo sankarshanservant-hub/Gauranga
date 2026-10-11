@@ -146,3 +146,57 @@ The ninth *sūtra*. Even if one infers otherwise, the inert does not act by itse
 
 “‘And the rest,’ that is, what the Sāṅkhya *smṛti* speaks of, is not found in the Vedas; therefore it is not trustworthy. These are its tenets: the *puruṣas* are all-pervading and are consciousness alone; *prakṛti* alone binds and liberates them, and bondage and liberation belong to *prakṛti* alone; there is no Lord of all, a special Puruṣa; time is not a *tattva*; the five *prāṇas* and the rest are merely functions of the senses. Such tenets and others like them are to be seen in it.”
 
+1. The Śruti mentions a trustworthy sage named “Kapila.” He duly accepted the *karma-kāṇḍa* enjoined by the Vedas. This same sage Kapila composed the Sāṅkhya *smṛti* in order to elaborate the *jñāna-kāṇḍa*. In *sūtras* such as “Now, the complete cessation of the threefold misery is the highest goal of man,” the Sāṅkhya *smṛti* calls the complete cessation of the threefold misery — *ādhyātmika* and the rest — “the highest goal of man,” or liberation. In it unconscious *pradhāna* alone is established as the independent cause of the world. If Brahman alone is called the sole cause of the world, this Sāṅkhya *smṛti* will be left without a subject, for from beginning to end it speaks of nothing else. Therefore the texts of Vedānta should be interpreted so as not to contradict the views of the entirely trustworthy sage Kapila. Then the *smṛtis* proclaimed by Manu and others will not be left without a subject either: by setting forth *dharma* they elaborate the *karma-kāṇḍa* and so have a subject. To refute this, the author introduces the first *sūtra*, “If [it is said:] there follows the fault that the *smṛti* has no room…”.
+
+Absence of room is *anavakāśa*; the word *anavakāśa* means being left without a subject. If Vedānta is interpreted according to its single import (*samanvaya*), the Sāṅkhya *smṛti* incurs the fault of being left without a subject. So should the texts of Vedānta be interpreted in a sense opposite to what one hears in them? The answer: that is impossible. If they are interpreted so, a great calamity follows: other *smṛtis* — those of Manu and others, which follow Vedānta and teach that Brahman alone is the cause — will be left without a subject. In these *smṛtis* only the Lord of all is shown to be the cause of the origin of the world and the rest. The *tattvas* are not described in them as the sage Kapila describes them. Thus Śrī Manu says: “Before creation the whole universe was darkness — unknown, without marks, beyond reasoning, unknowable — and lay as if asleep. Then the self-born Bhagavān, though Himself unmanifest, appeared endowed with the potencies of the great elements and the rest in order to manifest this world, and dispelled that darkness. He is beyond the senses, imperceptible, subtle, unmanifest, eternal, containing all beings and inconceivable by nature. Having appeared Himself, He desired in His mind to create various beings from His own body, and first of all He created water. Then the Supreme Lord placed His seed in that water. From the seed arose a golden egg, shining like a thousand suns. In that egg Brahmā himself, the grandfather of all the worlds, was born.” And the sage Parāśara says: “The visible world arose from Bhagavān Viṣṇu and abides resting on Him. He maintains it and He destroys it. This world is a particular potency of His. As a spider draws threads out of its own body and later swallows them itself, so Bhagavān Viṣṇu creates the universe from His potency and later dissolves it again in His potency.” Other sages say the same. Nor can one say that the Sāṅkhya *smṛti*[^15-7] will have a subject by elaborating the *karma-kāṇḍa*: [these *smṛtis*] enjoin *dharma* for the purification of the mind, so that knowledge of Brahman may dawn. Therefore the purpose of these *smṛtis* is to elaborate the *jñāna-kāṇḍa*. It is also seen that these *dharmas* purify the mind: the words of the Śruti “Him [the *brāhmaṇas* seek to know] by the study of the Vedas” and so on are the proof. Here and there it is seen and confirmed that these *dharmas* (their performance) bring such fruits as rain, sons, heaven and the like. But this too is only to purify the mind by creating faith in the scriptures. The Śrutis “The goal that all the Vedas proclaim” and “The Vedas are devoted to Nārāyaṇa” express the same intention. Even if the purpose of the Sāṅkhya *smṛti* is to elaborate the *jñāna-kāṇḍa*, one still cannot accept that it elaborates the meaning of Vedānta, for the Sāṅkhya *smṛti* teaches what contradicts the Śruti. To clarify the meaning of the statements of the Śruti — that is what “elaboration” (*upabṛṁhaṇa*) means. No such clarification of the meaning of the Śruti is seen in the Sāṅkhya *smṛti*. It must therefore be judged contrary to the Śruti. And what contradicts the Śruti is invented out of one's own head and is therefore untrustworthy. So the uselessness of this untrustworthy Sāṅkhya *smṛti* is inevitable. Nor is it right to favor one *smṛti* while waiting for the untrustworthiness of another to be established. If one favors *smṛtis* that differ in meaning, then, faced with the many opinions of Gautama and many others who interpret in different ways, one will never settle the real meaning. When two *smṛtis* contradict each other, one cannot resort to any deciding proof other than the Śruti. Whatever one relies on must certainly follow the Śruti; if it does not follow the Śruti, it cannot be honored. Those who raise censure by the strength of *smṛti* will be refuted by the strength of that same *smṛti*; therefore pointing out the fault “other *smṛtis* will be left without a subject” is unavoidable. In the *Śvetāśvatara Upaniṣad* the words “the sage Kapila, born…” and so on do speak of a trustworthy sage Kapila. But that Kapila is not this one; he is another sage Kapila. Therefore, in calling Kapila, the author of Sāṅkhya, untrustworthy, we show no disrespect to the Śruti. The trustworthiness of Manu and Parāśara is well known from the Śruti and the *smṛti*. Thus with the words “Whatever Manu said is medicine” the Taittirīyas affirm Manu's trustworthiness. And the *smṛti* says that Śrī Parāśara understood the highest truth about the Deity by the grace of Pulastya and Vasiṣṭha. Kapila, the founder of the Sāṅkhya *smṛti* opposed to the Vedas, and Bhagavān Kapila, the son of Kardama, are not the same person. The first Kapila is a particular *jīva* of the line of Agni, deluded by *māyā*; the second, the son of Kardama, is an avatāra of Vāsudeva Himself. The *Padma Purāṇa* says: “Bhagavān Vāsudeva descended from the sage Kardama as Kapila and taught the doctrine of Sāṅkhya to the gods headed by Brahmā, to the sages headed by Bhṛgu and to a *brāhmaṇa* named Āsuri; the Sāṅkhya *smṛti* He taught is elaborated by the meaning of the Vedas. But another Kapila taught another Āsuri a different Sāṅkhya — opposed to all the Vedas, elaborated with false arguments and invented out of his own head.” Therefore there is no fault whatever in calling this latter Sāṅkhya *smṛti*, opposed to the Vedas and untrustworthy, useless.
+
+2. Moreover, this Sāṅkhya *smṛti* speaks of certain matters that are not found in the Vedas. For this reason too it can be called “untrustworthy.” These are the matters: “The *puruṣas*, that is, the individual souls, are consciousness alone and all-pervading; *prakṛti* alone binds and liberates them. Both ‘bondage’ and ‘liberation’ are material. There is no *puruṣa* called ‘the Lord of all.’ ‘Time’ is not a *tattva* at all. The five *prāṇas* and the rest are merely functions of the senses.” These and certain other tenets opposed to Vedānta are seen in this Sāṅkhya *smṛti*.
+
+## 16
+
+> Subheading: He Himself is the “efficient” cause, and Advaita Prabhu the “material” cause —
+
+## 17
+
+> Subheading: As the one who casts the glance He is the efficient cause, and as Advaita He is the Creator in the form of the material cause —
+
+## 18
+
+> Subheading: Refutation of the Sāṅkhya doctrine —
+
+## 19
+
+> Subheading: *Prakṛti* acts only by the potency of Bhagavān —
+
+## 18–19
+
+See Ādi 5.58–66; Madhya 20.259–261, 271, 276.
+
+## 20
+
+> Subheading: The two forms of Advaita Prabhu —
+
+## 21
+
+> Subheading: Advaita Prabhu, a limb (*aṅga*) or part (*aṁśa*) of Bhagavān —
+
+## 22
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 14, verse 14)
+
+## 23
+
+> Subheading: Though a limb or a part, He is beyond *māyā* —
+
+## 24
+
+> Subheading: Why He is called a limb (*aṅga*) and not a part (*aṁśa*) —
+
+## 25
+
+> Subheading: Why the name “Advaita” is fitting —
+
+## 26
+
+> Subheading: Why the name “Ācārya” is fitting —
+

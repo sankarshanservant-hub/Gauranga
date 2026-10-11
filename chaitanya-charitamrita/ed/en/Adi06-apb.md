@@ -20,3 +20,7 @@ One and the same *māyā* is called “*pradhāna*” in its material portion (*
 
 *Prakṛti* has two divisions, “*nimitta*” and “*upādāna*.” In the same way the Puruṣa creates the universe by taking two forms: as the *nimitta*, the form of “Mahā-Viṣṇu,” and as the *upādāna*, the form of “Advaita.”
 
+## 22
+
+See Ādi 2.30.
+
