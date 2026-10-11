@@ -18,6 +18,15 @@
 - `check/nf-45-03-navadvipa-candidates.jpg` — проба сверки: кандидаты OSM нанесены на лист 1955 г. по грубой
   (линейной) привязке рамки; расхождение ~1–1,5 км — это погрешность привязки, точную делать по сетке 15'.
 
+## Прототип на сайте (2026-10-11)
+Вкладка «Карта» (`site/`, Leaflet): подложка `site/data/basemap.json` (суша, озёра, реки — `tools/build_basemap.py`;
+Natural Earth 1:10m + реки Бенгалии из OSM: Бхагиратхи-Хугли, Джаланги, Дамодар, Аджай; без современных границ),
+места — `site/data/places.json` (собирает `site/tools/build_data.py` из `places-candidates.json` + поправок
+`places-overrides.yaml`; явно ошибочные кандидаты скрыты), слой «Топокарта 1955 г.» — лист NF 45-3 (грубая привязка
+по рамке). Пунктирный кружок — координата предварительная; сплошной — по традиции / приблизительно.
+Скачать Natural Earth заново (в git не хранится): файлы `ne_10m_land`, `ne_10m_lakes`, `ne_10m_rivers_lake_centerlines`
+из https://github.com/nvkelso/natural-earth-vector/tree/master/geojson → `maps/src/natural-earth/`.
+
 ## Основа: точные старые карты в общественном достоянии
 1. **AMS Series U502, India and Pakistan 1:250 000** (U.S. Army Map Service, 1955–; работы правительства США —
    общественное достояние). 188 листов на всю Индию: https://maps.lib.utexas.edu/maps/ams/india/

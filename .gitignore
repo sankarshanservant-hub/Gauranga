@@ -3,3 +3,6 @@ chaitanya-charitamrita/src/CC_SS.pdf
 
 # исходник музыки (156 МБ, больше лимита GitHub; лежит на Google Диске) — в сайт идут site/assets/audio/*.mp3
 site/assets/src/audio/
+
+# Natural Earth (25 МБ на весь мир) — скачивается заново, см. maps/README.md; в сайт идёт обрезанная подложка site/data/basemap.json
+maps/src/natural-earth/

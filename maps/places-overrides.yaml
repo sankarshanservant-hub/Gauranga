@@ -1,0 +1,42 @@
+# Поправки к предварительным координатам (places-candidates.json) — до полной сверки по листам AMS U502.
+# lat/lon — координата; status: tradition (по традиции гаудия-вайшнавов) / approx (приблизительно) /
+# hidden (кандидат OSM явно ошибочен — не показывать); note — откуда.
+
+navadvipa:
+  lat: 23.4237
+  lon: 88.3889
+  status: tradition
+  note: "Шридхам Маяпур (Йогапитха) на восточном берегу Ганги — место явления Господа по Шриле Бхактивиноде Тхакуру и Шриле Бхактисиддханте Сарасвати; нынешний город Набадвип — на западном берегу (русло сместилось)."
+house-jagannatha-mishra:
+  parent: navadvipa
+shrihatta:
+  lat: 24.8949
+  lon: 91.8687
+  status: approx
+  note: "город Силхет; область Шрихатта шире"
+chandradvipa:
+  lat: 22.701
+  lon: 90.3535
+  status: approx
+  note: "город Барисал; Бакла-Чандрадвипа — область вокруг"
+dandeshvara:
+  status: hidden
+  note: "OSM нашёл храм в Мумбаи — неверно"
+fatehabad:
+  status: hidden
+  note: "OSM подменил Фатехабад Фаридпуром"
+narayanapura:
+  status: hidden
+  note: "OSM нашёл Нараянпур в Чандпуре — отождествление не подтверждено"
+devghar:
+  status: hidden
+  note: "OSM нашёл Девгхар в Райгаде — по «Кадаче Говинды Даса» место в Центральной Индии"
+teliya-budhari:
+  status: hidden
+  note: "OSM нашёл улицу в Раджшахи — не подтверждено"
+gopalapura:
+  status: hidden
+  note: "OSM нашёл Гопалпур в Наторе — не подтверждено"
+vidyanagara:
+  status: approx
+  note: "по традиции — у Раджамандри (Коввур) на Годавари"

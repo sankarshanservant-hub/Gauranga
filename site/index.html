@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+Bengali:wght@400;500&family=Tiro+Devanagari+Sanskrit&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -35,8 +36,14 @@
     <span class="sr" data-i18n="jumpLabel">Перейти к лиле</span>
     <select id="jump"></select>
   </label>
+  <nav class="tabs" aria-label="Разделы">
+    <button type="button" data-tab="lilas" data-i18n="tabLilas" aria-current="page">Лилы</button>
+    <button type="button" data-tab="map" data-i18n="tabMap">Карта</button>
+    <button type="button" data-tab="people" data-i18n="tabPeople">Спутники</button>
+  </nav>
 </header>
 <main>
+<div class="view" id="view-lilas">
   <section class="band" aria-labelledby="band-title">
     <h2 id="band-title" class="sr" data-i18n="ribbon">Лента лил</h2>
     <button type="button" class="band__arrow band__arrow--prev" id="prev" aria-label="Назад">‹</button>
@@ -48,6 +55,29 @@
 
   <ul class="mbooks" id="mbooks" aria-live="polite"></ul>
 
+</div>
+
+<div class="view view--sheet" id="view-map" hidden>
+  <div class="sheet sheet--map">
+    <div id="map" class="map" role="region" aria-label="Карта лил"></div>
+    <div class="map-ui">
+      <p class="map-note" data-i18n="mapNote">Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.</p>
+      <label class="map-toggle"><input type="checkbox" id="ams-toggle"> <span data-i18n="amsLayer">Топокарта 1955 г. (лист «Бурдван»)</span></label>
+      <div class="map-focus" id="map-focus" hidden></div>
+    </div>
+  </div>
+</div>
+
+<div class="view view--sheet" id="view-people" hidden>
+  <div class="sheet sheet--people">
+    <div class="people-head">
+      <h2 class="people-title" data-i18n="peopleTitle">Спутники и участники лил</h2>
+      <label class="people-search"><span class="sr" data-i18n="search">Поиск</span>
+        <input type="search" id="people-q" autocomplete="off" placeholder="Поиск по имени"></label>
+    </div>
+    <div class="people-list" id="people-list"></div>
+  </div>
+</div>
 </main>
 
 <footer class="foot">
@@ -80,6 +110,7 @@
   </article>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

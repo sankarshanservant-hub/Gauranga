@@ -20,6 +20,16 @@
       draft: 'Временный текст — будет заменён описанием из выбранных источников.', noBio: 'Описание готовится.',
       ggd: '«Гаура-ганоддеша-дипика» Кави Карнапуры — кем был прежде', ggdOnlyRu: '',
       of: (i, n) => `${i} из ${n}`,
+      tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники',
+      mapNote: 'Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.',
+      amsLayer: 'Топокарта 1955 г. (лист «Бурдван»)', peopleTitle: 'Спутники и участники лил', search: 'Поиск',
+      searchPh: 'Поиск по имени', place: 'Место лил', allLilas: n => `Лилы · ${n}`, allPlaces: n => `Места · ${n}`,
+      onMap: 'Места на карте', openPerson: 'Все лилы и места спутника →', noPlaces: 'Мест с координатами пока нет.',
+      geoStatus: { tradition: 'место по традиции', approx: 'приблизительно', unverified: 'координата предварительная, не сверена' },
+      within: 'Святые места внутри', focus: n => `Места: ${n}`, clear: 'Показать все места',
+      sections: { 'Семья': 'Семья Господа', 'Спутники': 'Спутники', 'Небожители и мудрецы': 'Небожители и мудрецы', 'Господь и Его формы': 'Божества и формы Господа' },
+      hintMap: 'Нажмите на место, чтобы увидеть его лилы. Колесо или щипок — масштаб.',
+      hintPeople: 'Нажмите на имя, чтобы увидеть лилы спутника и его места на карте.',
     },
     en: {
       title: 'Gaura-lila', subtitle: 'Pastimes of Sri Chaitanya Mahaprabhu in the scriptures',
@@ -38,6 +48,16 @@
       draft: 'Provisional text — to be replaced with descriptions from the chosen sources.', noBio: 'Description in preparation.',
       ggd: 'Gaura-ganoddesha-dipika of Kavi Karnapura — who they were before', ggdOnlyRu: 'Translated into Russian only so far.',
       of: (i, n) => `${i} of ${n}`,
+      tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates',
+      mapNote: 'Prototype. Place coordinates are provisional (OpenStreetMap) and are being checked against 1955 topographic maps.',
+      amsLayer: 'Topographic map, 1955 (sheet “Burdwan”)', peopleTitle: 'Associates and participants of the pastimes', search: 'Search',
+      searchPh: 'Search by name', place: 'Place of pastimes', allLilas: n => `Pastimes · ${n}`, allPlaces: n => `Places · ${n}`,
+      onMap: 'Places on the map', openPerson: 'All pastimes and places →', noPlaces: 'No places with coordinates yet.',
+      geoStatus: { tradition: 'place according to tradition', approx: 'approximate', unverified: 'provisional coordinate, not yet checked' },
+      within: 'Holy places within', focus: n => `Places: ${n}`, clear: 'Show all places',
+      sections: { 'Семья': 'The Lord’s family', 'Спутники': 'Associates', 'Небожители и мудрецы': 'Celestials and sages', 'Господь и Его формы': 'Deities and forms of the Lord' },
+      hintMap: 'Tap a place to see its pastimes. Wheel or pinch to zoom.',
+      hintPeople: 'Tap a name to see the associate’s pastimes and places on the map.',
     },
   };
   function plural(n, one, few, many) {
@@ -294,6 +314,17 @@
     markCurrentBook();
     $('r-close').focus({ preventScroll: true });
   }
+  function personBody(tag) {
+    const tt = t(), p = (S.persons || {})[tag] || {};
+    const bio = (S.lang === 'en' && p.bio_en) || p.bio;
+    let h = `<h4 class="person__src">${tt.bio}</h4>`;
+    h += bio ? bio.map(x => `<p class="verse__text">${x}</p>`).join('') + `<p class="person__draft">${tt.draft}</p>` : `<p class="person__draft">${tt.noBio}</p>`;
+    if (p.ggd && p.ggd.length) {
+      h += ORN + `<h4 class="person__src">${tt.ggd}</h4>` + (tt.ggdOnlyRu ? `<p class="passage__noen">${tt.ggdOnlyRu}</p>` : '');
+      h += p.ggd.map(v => `<p class="verse__text"><span class="verse__n">${esc(v.n)}</span>${v.text}</p>`).join('');
+    }
+    return h;
+  }
   function renderPeople() {
     const tt = t(), { kind, o, list } = peopleOf(S.reader.key);
     const P = S.persons || {};
@@ -303,15 +334,8 @@
     $('r-title').textContent = kind === 'ep' ? tt.peopleEp : tt.people;
     $('r-author').textContent = '';
     $('layers').innerHTML = list.map(tag => `<button type="button" data-person="${tag}" aria-pressed="${tag === cur}">${esc(name(tag))}</button>`).join('');
-    const bio = (S.lang === 'en' && p.bio_en) || p.bio;
-    let h = `<section class="person"><h3 class="person__name">${esc(name(cur))}</h3>`;
-    h += `<h4 class="person__src">${tt.bio}</h4>`;
-    h += bio ? bio.map(x => `<p class="verse__text">${x}</p>`).join('') + `<p class="person__draft">${tt.draft}</p>` : `<p class="person__draft">${tt.noBio}</p>`;
-    if (p.ggd && p.ggd.length) {
-      h += ORN + `<h4 class="person__src">${tt.ggd}</h4>` + (tt.ggdOnlyRu ? `<p class="passage__noen">${tt.ggdOnlyRu}</p>` : '');
-      h += p.ggd.map(v => `<p class="verse__text"><span class="verse__n">${esc(v.n)}</span>${v.text}</p>`).join('');
-    }
-    $('r-body').innerHTML = h + '</section>';
+    $('r-body').innerHTML = `<section class="person"><h3 class="person__name">${esc(name(cur))}</h3>` + personBody(cur) +
+      `<p class="person__more"><button type="button" class="link-btn" data-open-person="${cur}">${tt.openPerson}</button></p></section>`;
     $('r-ref').textContent = tt.of(idx + 1, list.length);
     $('r-prev').disabled = idx <= 0; $('r-next').disabled = idx >= list.length - 1;
     $('r-prev').dataset.person = idx > 0 ? list[idx - 1] : '';
@@ -322,6 +346,8 @@
     if (!S.reader) return;
     $('reader').classList.toggle('is-people', S.reader.mode === 'people');
     if (S.reader.mode === 'people') return renderPeople();
+    if (S.reader.mode === 'person') return renderPerson();
+    if (S.reader.mode === 'place') return renderPlace();
     const [, ev] = findEv(S.reader.ev), tt = t();
     const idx = ev.sources.findIndex(s => s.id === S.reader.src);
     const src = ev.sources[idx];
@@ -374,6 +400,192 @@
   }));
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && S.reader) closeReader(); });
 
+  /* ——— общее для карты и спутников: списки лил по эпизодам ——— */
+  const pname = tag => { const p = (S.persons || {})[tag]; return p ? L(p, 'name') : tag.slice(1); };
+  const plname = tag => { const p = (S.places || {})[tag]; return p ? L(p, 'name') : tag.slice(1); };
+  function lilasOfPerson(tag) { return S.data.episodes.flatMap(ep => ep.events.filter(e => (e.persons || []).includes(tag))); }
+  function lilaList(ids) {
+    const set = new Set(ids);
+    return S.data.episodes.map(ep => {
+      const evs = ep.events.filter(e => set.has(e.id));
+      if (!evs.length) return '';
+      return `<h4 class="person__src">${esc(L(ep, 'title'))}</h4><ul class="lila-list">` +
+        evs.map(e => `<li><button type="button" class="link-btn" data-goto-lila="${e.id}">${esc(L(e, 'title'))}</button><span class="lila-list__when">${when(e)}</span></li>`).join('') + '</ul>';
+    }).join('');
+  }
+  function openSide(state) {
+    S.reader = state;
+    $('reader').hidden = false; document.body.classList.add('is-reading');
+    renderReader(); $('r-body').scrollTop = 0; markCurrentBook();
+  }
+  function openPerson(tag) { openSide({ mode: 'person', tag }); }
+  function renderPerson() {
+    const tt = t(), tag = S.reader.tag, p = (S.persons || {})[tag] || {};
+    const evs = lilasOfPerson(tag);
+    const places = placesOfEvents(evs);
+    $('r-lila').textContent = (tt.sections[p.section] || '') + (p.note ? ' · ' + p.note : '');
+    $('r-title').textContent = pname(tag);
+    $('r-author').textContent = '';
+    $('layers').innerHTML = places.length ? `<button type="button" data-act="person-map">${tt.onMap} · ${places.length}</button>` : '';
+    $('r-body').innerHTML = `<section class="person">${personBody(tag)}${ORN}<h3 class="person__name">${tt.allLilas(evs.length)}</h3>${lilaList(evs.map(e => e.id))}</section>`;
+    $('r-ref').textContent = ''; $('r-prev').disabled = $('r-next').disabled = true;
+    $('r-prev').dataset.person = $('r-next').dataset.person = '';
+  }
+  function placesOfEvents(evs) {
+    const P = S.places || {}, out = [];
+    for (const e of evs) for (let tag of e.places || []) {
+      if (P[tag] && P[tag].parent) tag = P[tag].parent;
+      if (P[tag] && P[tag].lat != null && !out.includes(tag)) out.push(tag);
+    }
+    return out;
+  }
+  function openPlace(tag) { openSide({ mode: 'place', tag }); }
+  function renderPlace() {
+    const tt = t(), tag = S.reader.tag, P = S.places || {}, p = P[tag] || {};
+    $('r-lila').textContent = tt.place + (p.status ? ' · ' + tt.geoStatus[p.status] : '');
+    $('r-title').textContent = plname(tag);
+    $('r-author').textContent = p.note || '';
+    $('layers').innerHTML = '';
+    let h = p.geo_note ? `<p class="person__draft">${esc(p.geo_note)}</p>` : '';
+    h += `<h3 class="person__name">${tt.allLilas((p.lilas || []).length)}</h3>` + lilaList(p.lilas || []);
+    const subs = Object.entries(P).filter(([, v]) => v.parent === tag && (v.lilas || []).length);
+    if (subs.length) {
+      h += ORN + `<h3 class="person__name">${tt.within}</h3>`;
+      h += subs.map(([k, v]) => `<h4 class="person__src">${esc(L(v, 'name'))}</h4>` + lilaList(v.lilas).replace(/<h4 class="person__src">[^<]*<\/h4>/g, '')).join('');
+    }
+    $('r-body').innerHTML = `<section class="person">${h}</section>`;
+    $('r-ref').textContent = ''; $('r-prev').disabled = $('r-next').disabled = true;
+  }
+  $('r-body').addEventListener('click', e => {
+    const g = e.target.closest('[data-goto-lila]');
+    if (g) { closeReader(); showTab('lilas'); openLila(g.dataset.gotoLila, true, true); return; }
+    const op = e.target.closest('[data-open-person]');
+    if (op) openPerson(op.dataset.openPerson);
+  });
+
+  /* ——— вкладки ——— */
+  const TABS = ['lilas', 'map', 'people'];
+  function showTab(tab, push = true) {
+    S.tab = tab;
+    TABS.forEach(x => { $('view-' + x).hidden = x !== tab; });
+    document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-current', b.dataset.tab === tab ? 'page' : 'false'));
+    document.body.dataset.tab = tab;
+    const hint = document.querySelector('.foot .hint');
+    hint.textContent = tab === 'map' ? t().hintMap : tab === 'people' ? t().hintPeople : t().hint;
+    if (tab === 'map') initMap();
+    if (tab === 'people') renderPeopleList();
+    if (push && tab !== 'lilas') history.replaceState(null, '', '#' + tab);
+    if (push && tab === 'lilas') history.replaceState(null, '', '#' + (S.open || S.ep || ''));
+  }
+  document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => {
+    if (S.reader && S.reader.mode === 'books') closeReader();
+    showTab(b.dataset.tab);
+  }));
+  jump.addEventListener('change', () => { if (S.tab !== 'lilas') showTab('lilas'); }, true);
+
+  /* ——— спутники ——— */
+  const SECTION_ORDER = ['Семья', 'Спутники', 'Небожители и мудрецы', 'Господь и Его формы'];
+  function renderPeopleList() {
+    if (!S.persons || !S.data) return;
+    const q = ($('people-q').value || '').trim().toLowerCase();
+    $('people-q').placeholder = t().searchPh;
+    const count = {};
+    S.data.episodes.forEach(ep => ep.events.forEach(e => (e.persons || []).forEach(p => { count[p] = (count[p] || 0) + 1; })));
+    const groups = {};
+    Object.entries(S.persons).forEach(([tag, p]) => {
+      if (q && !(p.name + ' ' + p.name_en + ' ' + (p.note || '')).toLowerCase().includes(q)) return;
+      (groups[p.section] = groups[p.section] || []).push(tag);
+    });
+    $('people-list').innerHTML = SECTION_ORDER.filter(s => groups[s]).map(sec => {
+      const tags = groups[sec].sort((a, b) => (count[b] || 0) - (count[a] || 0) || pname(a).localeCompare(pname(b)));
+      return `<section class="people-group"><h3>${t().sections[sec]} <span>· ${tags.length}</span></h3><div class="people-grid">` +
+        tags.map(tag => `<button type="button" class="book person-card" data-person-open="${tag}"><span class="book__t">${esc(pname(tag))}</span><span class="book__author">${t().allLilas(count[tag] || 0)}</span></button>`).join('') +
+        '</div></section>';
+    }).join('');
+  }
+  $('people-q').addEventListener('input', renderPeopleList);
+  $('people-list').addEventListener('click', e => { const b = e.target.closest('[data-person-open]'); if (b) openPerson(b.dataset.personOpen); });
+
+  /* ——— карта ——— */
+  const MAPC = { map: null, markers: {}, focus: null, line: null, ams: null };
+  function initMap() {
+    if (MAPC.map) { setTimeout(() => MAPC.map.invalidateSize(), 50); return; }
+    if (!window.L || !window.L.map) return;   // Leaflet не загрузился
+    const Lf = window.L;
+    const BOUNDS = [[0, 60], [37, 101]];   // как у подложки (maps/tools/build_basemap.py)
+    const map = Lf.map('map', { zoomSnap: 0.25, minZoom: 4.5, maxZoom: 13, attributionControl: true, zoomControl: true,
+      maxBounds: BOUNDS, maxBoundsViscosity: 1 });
+    MAPC.map = map;
+    map.createPane('ams').style.zIndex = 450;     // старая топокарта — над подложкой
+    map.createPane('places').style.zIndex = 620;  // места — над всем
+    map.attributionControl.setPrefix('');
+    map.attributionControl.addAttribution('Natural Earth · © OpenStreetMap contributors · AMS U502 (1955)');
+    map.fitBounds([[18.5, 77], [27.8, 92]]);
+    Promise.all([
+      fetch('data/basemap.json').then(r => r.json()),
+      S.places ? Promise.resolve(S.places) : fetch('data/places.json').then(r => r.json()),
+    ]).then(([bm, pl]) => {
+      S.places = pl;
+      Lf.rectangle(BOUNDS, { stroke: false, fillColor: '#5d7a80', fillOpacity: .22, interactive: false }).addTo(map);
+      Lf.geoJSON(bm.land, { interactive: false, style: { color: '#7a5326', weight: 1.1, opacity: .7, fillColor: '#f3e2b8', fillOpacity: .55 } }).addTo(map);
+      Lf.geoJSON(bm.lakes, { interactive: false, style: { stroke: false, fillColor: '#5d7a80', fillOpacity: .35 } }).addTo(map);
+      Lf.geoJSON(bm.rivers, {
+        style: f => ({ color: '#4d727b', weight: f.properties.rank <= 3 ? 2.4 : f.properties.rank <= 6 ? 1.5 : 1, opacity: .8 }),
+        onEachFeature: (f, layer) => layer.bindTooltip(S.lang === 'en' ? f.properties.name_en : f.properties.name, { sticky: true, className: 'map-tip map-tip--river' }),
+      }).addTo(map);
+      MAPC.ams = Lf.imageOverlay('assets/img/ams-nf-45-03.jpg', [[23, 87], [24, 88.5]], { opacity: .92, pane: 'ams' });
+      drawPlaces();
+    });
+    $('ams-toggle').addEventListener('change', e => {
+      if (e.target.checked) { MAPC.ams.addTo(map); map.flyToBounds([[23, 87], [24, 88.5]], { duration: .8 }); } else MAPC.ams.remove();
+    });
+  }
+  function drawPlaces() {
+    const Lf = window.L, map = MAPC.map, P = S.places;
+    Object.values(MAPC.markers).forEach(m => m.remove()); MAPC.markers = {};
+    const focus = MAPC.focus;
+    Object.entries(P).forEach(([tag, p]) => {
+      if (p.lat == null || p.type !== 'point') return;
+      const subs = Object.values(P).filter(v => v.parent === tag).reduce((n, v) => n + (v.lilas || []).length, 0);
+      const n = (p.lilas || []).length + subs;
+      if (!n) return;
+      const on = !focus || focus.places.includes(tag);
+      const m = Lf.circleMarker([p.lat, p.lon], { pane: 'places',
+        radius: 3.5 + Math.sqrt(n) * 1.1, weight: p.status === 'unverified' ? 1.5 : 2.2,
+        dashArray: p.status === 'unverified' ? '3 2' : null,
+        color: '#4a250b', fillColor: p.status === 'tradition' ? '#b5541b' : '#8a3b12',
+        fillOpacity: on ? .85 : .15, opacity: on ? 1 : .25,
+      }).addTo(map);
+      m.bindTooltip(esc(L(p, 'name')) + (n ? ` · ${n}` : ''), {
+        permanent: on && (focus ? n >= 3 : n >= 30), direction: 'right', offset: [6, 0], className: 'map-tip',
+      });
+      m.on('click', () => openPlace(tag));
+      MAPC.markers[tag] = m;
+    });
+    if (MAPC.line) { MAPC.line.remove(); MAPC.line = null; }
+    if (focus && focus.places.length > 1) {
+      MAPC.line = Lf.polyline(focus.places.map(t => [P[t].lat, P[t].lon]), { pane: 'places', color: '#7a3d0e', weight: 1.2, dashArray: '4 6', opacity: .55, interactive: false }).addTo(map);
+    }
+  }
+  function focusPerson(tag) {
+    const places = placesOfEvents(lilasOfPerson(tag));   // по порядку лил — путь спутника
+    MAPC.focus = { tag, places };
+    const box = $('map-focus');
+    box.hidden = false;
+    box.innerHTML = `<span>${esc(t().focus(pname(tag)))}</span><button type="button" class="link-btn" id="map-clear">${t().clear}</button>`;
+    $('map-clear').onclick = () => { MAPC.focus = null; box.hidden = true; drawPlaces(); };
+    drawPlaces();
+    if (places.length) MAPC.map.flyToBounds(places.map(p => [S.places[p].lat, S.places[p].lon]), { padding: [60, 60], maxZoom: 9, duration: .8 });
+  }
+  $('layers').addEventListener('click', e => {
+    const b = e.target.closest('[data-act="person-map"]');
+    if (!b) return;
+    const tag = S.reader.tag;
+    showTab('map');
+    const go = () => (MAPC.map && S.places && MAPC.markers && Object.keys(MAPC.markers).length) ? focusPerson(tag) : setTimeout(go, 120);
+    go();
+  });
+
   /* ——— язык ——— */
   function applyLang() {
     document.documentElement.lang = S.lang;
@@ -385,6 +597,8 @@
     keepPlace(c ? c.id.slice(5) : '', renderRibbon);
     updateCenter();
     renderReader();
+    if (S.tab) showTab(S.tab, false);
+    if (MAPC.map && S.places) drawPlaces();
   }
   document.querySelectorAll('.lang button').forEach(b => b.addEventListener('click', () => { S.lang = b.dataset.lang; savePrefs(); applyLang(); }));
 
@@ -454,12 +668,14 @@
   if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
 
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
-  fetch('data/persons.json').then(r => r.json()).then(p => { S.persons = p; renderReader(); }).catch(() => { S.persons = {}; });
+  fetch('data/persons.json').then(r => r.json()).then(p => { S.persons = p; renderReader(); if (S.tab === 'people') renderPeopleList(); }).catch(() => { S.persons = {}; });
+  fetch('data/places.json').then(r => r.json()).then(p => { if (!S.places) S.places = p; }).catch(() => {});
   fetch('data/timeline.json').then(r => r.json()).then(d => {
     S.data = d;
     const h = location.hash.slice(1);
     if (findEp(h)) S.ep = h;
     else { S.open = findEv(h)[0] ? h : 'ev-gaura-appearance'; S.ep = findEv(S.open)[0].id; }
+    S.tab = TABS.includes(h) ? h : 'lilas';
     applyLang();
     requestAnimationFrame(() => { centerOn(S.open || S.ep, false); updateCenter(); });
   });

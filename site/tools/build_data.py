@@ -317,6 +317,50 @@ def participants(entries, reg):
     return [t for t, _ in c.most_common()]
 
 
+def places_of(entries):
+    seen = []
+    for e in entries:
+        for p in e.get('places') or []:
+            if p not in seen: seen.append(p)
+    return seen
+
+
+def places_registry():
+    reg = {}
+    for ln in open(os.path.join(ROOT, 'lila-db/PLACES.md'), encoding='utf-8'):
+        m = re.match(r'^\|\s*(#[a-z0-9-]+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$', ln)
+        if m: reg[m.group(1)] = {'name': m.group(2), 'name_en': m.group(3), 'note': m.group(4)}
+    return reg
+
+
+def build_places(events_out):
+    """site/data/places.json: имена (PLACES.md) + координаты (maps/places-candidates.json — предварительные,
+    поправки maps/places-overrides.yaml) + лилы места."""
+    import yaml
+    reg = places_registry()
+    cand = json.load(open(os.path.join(ROOT, 'maps/places-candidates.json'), encoding='utf-8'))
+    over = yaml.safe_load(open(os.path.join(ROOT, 'maps/places-overrides.yaml'), encoding='utf-8')) or {}
+    lilas = {}
+    for ev in events_out:
+        for p in ev['places']:
+            lilas.setdefault(p, []).append(ev['id'])
+    out = {}
+    for tag, r in reg.items():
+        c = cand.get(tag, {}); o = over.get(tag[1:]) or {}
+        d = {'name': r['name'], 'name_en': r['name_en'], 'note': r['note'], 'type': c.get('type', 'point')}
+        if c.get('parent') or o.get('parent'): d['parent'] = '#' + (o.get('parent') or c['parent'].lstrip('#'))
+        status = o.get('status') or ('unverified' if 'lat' in c else None)
+        if status != 'hidden':
+            lat, lon = o.get('lat', c.get('lat')), o.get('lon', c.get('lon'))
+            if lat is not None and d['type'] == 'point':
+                d.update(lat=lat, lon=lon, status=status)
+        if o.get('note'): d['geo_note'] = o['note']
+        d['lilas'] = lilas.get(tag, [])
+        out[tag] = d
+    json.dump(out, open(os.path.join(DATA, 'places.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    return out
+
+
 def ggd_verses():
     t = open(os.path.join(ROOT, 'gaura-ganoddesha/Gaura-Ganoddesha-Dipika-ru.md'), encoding='utf-8').read()
     return {m.group(1): md_inline(strip_fn(m.group(2))) for m in re.finditer(r'^\*\*(\d+)\.\*\* (.+)$', t, re.M)}
@@ -362,6 +406,7 @@ def main():
             'age': None if before else ev.get('age'), 'before': before,
             'calendar': ev.get('calendar', ''), 'cc': ev.get('cc', ''), 'cb': ev.get('cb', ''),
             'sources': cards, 'persons': people,
+            'places': places_of(by_ev[ev['id']]),
         })
     out = []
     for e in eps.values():
@@ -385,12 +430,13 @@ def main():
     for t in sorted(used_people):
         r = reg[t]
         b = bios.get(t[1:]) or {}
-        d = {'name': r['name'], 'name_en': r['name_en']}
+        d = {'name': r['name'], 'name_en': r['name_en'], 'section': r['section'], 'note': r['note']}
         if b.get('bio_ru'): d['bio'] = [md_inline(x.strip()) for x in b['bio_ru'].split('\n\n') if x.strip()]
         if b.get('bio_en'): d['bio_en'] = [md_inline(x.strip()) for x in b['bio_en'].split('\n\n') if x.strip()]
         if b.get('ggd'): d['ggd'] = [{'n': str(n), 'text': ggd[str(n)]} for n in b['ggd'] if str(n) in ggd]
         people_out[t] = d
     json.dump(people_out, open(os.path.join(DATA, 'persons.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    pl = build_places([ev for e in out for ev in e['events']])
     tl = os.path.join(DATA, 'timeline.json')
     json.dump({'episodes': out}, open(tl, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     # стихи — порциями ≤ CHUNK байт (лилы эпизода подряд), номер порции записан у лилы в timeline.json

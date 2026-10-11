@@ -138,3 +138,15 @@ for f in sorted(os.listdir(LILA)) if os.path.isdir(LILA) else []:
         cut = white_to_alpha(im)
     cut.thumbnail((900, 900), Image.LANCZOS)
     save(cut, f[:-4] + '.webp', quality=86)
+
+# Чистая бумага для листов карты и спутников: середина вертикального свитка без краёв и внутренних линий.
+# Повторяется зеркально, чтобы не было шва.
+pm = load('vscroll-middle.png')
+w, h = pm.size
+paper = pm.crop((round(w * .26), round(h * .1), round(w * .74), round(h * .9)))
+paper = paper.resize((480, round(480 * paper.height / paper.width)), Image.LANCZOS)
+tile = Image.new('RGB', (paper.width * 2, paper.height * 2))
+tile.paste(paper, (0, 0)); tile.paste(paper.transpose(Image.FLIP_LEFT_RIGHT), (paper.width, 0))
+tile.paste(paper.transpose(Image.FLIP_TOP_BOTTOM), (0, paper.height))
+tile.paste(paper.transpose(Image.ROTATE_180), (paper.width, paper.height))
+save(tile, 'paper.webp', quality=80)
