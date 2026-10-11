@@ -7,7 +7,8 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 FONT_BN = os.path.abspath(os.path.join(ROOT, '..', 'fonts', 'NotoSerifBengali-Regular.ttf'))
 import glob, shutil
 CHROME = os.environ.get('CHROME') or next(iter(sorted(glob.glob('/opt/pw-browsers/chromium-*/chrome-linux/chrome'))), None) \
-    or shutil.which('chromium') or shutil.which('chromium-browser') or shutil.which('google-chrome')
+    or shutil.which('chromium') or shutil.which('chromium-browser') or shutil.which('google-chrome') \
+    or next((x for x in ('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',) if os.path.exists(x)), None)
 
 TXT = {'ru': {'apb': 'Амрита-праваха-бхашья', 'anu': 'Анубхашья', 'notes': 'Примечания'},
        'en': {'apb': 'Amṛta-pravāha-bhāṣya', 'anu': 'Anubhāṣya', 'notes': 'Notes'}}

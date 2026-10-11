@@ -88,8 +88,21 @@ def raw_edits(path, L, log):
         i += 1
     return L
 
+def norm_nums(L, log):
+    """Типовые сбои номера стиха у ВЧД: латинские цифры (॥ 55 ॥) и пропущенный открывающий ॥ («…কেমনে ? ৬৯ ॥»)."""
+    for i, l in enumerate(L):
+        if not has_bn(l) or has_cyr(l): continue
+        m = re.search(r'॥\s*([0-9]{1,3})\s*॥\s*$', l)
+        if m:
+            L[i] = l[:m.start()] + '॥ %s ॥' % bnum(int(m.group(1))) + l[m.end():]; log.append(('auto', m.group(0).strip(), 'латинские цифры', '')); continue
+        m = re.search(r'\s([০-৯]{1,3})\s*॥\s*$', l)
+        if m and not re.search(r'॥\s*[০-৯]{1,3}\s*॥\s*$', l):
+            L[i] = l[:m.start()] + ' ॥ %s ॥' % m.group(1) + l[m.end():]; log.append(('auto', m.group(0).strip(), 'пропущен открывающий ॥', ''))
+    return L
+
 def parse(path, edits=None, log=None):
     L = [l.rstrip('\n') for l in open(path, encoding='utf-8')]
+    L = norm_nums(L, log if log is not None else [])
     if edits: L = raw_edits(edits, L, log if log is not None else [])
     pend = [l.endswith('\xa0') for l in L]           # конец абзаца в выгрузке antiword
     vend = [i for i, l in enumerate(L) if VEND.search(l) and has_bn(l) and not has_cyr(l)]

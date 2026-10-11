@@ -5,6 +5,7 @@
 p=$1
 CCDIR=$(cd "$(dirname "$0")/../.." && pwd)
 PDF="$CCDIR/src/CC_SS.pdf"
+[ -z "$CC_WORK" ] && [ -d "$CCDIR/../../cc-work" ] && CC_WORK="$(cd "$CCDIR/../../cc-work" && pwd)"
 S="${CC_WORK:-/tmp/cc-work}/scan1"; mkdir -p "$S"; cd "$S" || exit 1
 [ -s "$PDF" ] || { echo "нет $PDF" >&2; exit 1; }
 if [ ! -s p$p.pgm ]; then
