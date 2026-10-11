@@ -67,6 +67,24 @@ def raw_edits(path, L, log):
             if k is None: print('  ! вставка не применена:', m.group(1))
             else: L[k:k] = blk + ['']; log.append(('insert', m.group(1), '%d строк' % len(blk), ''))
             i = j
+        # `@delete: <фрагмент первой строки> => <фрагмент последней строки>  # причина` — удалить строки (стих, которого нет в издании)
+        m = re.match(r'^@delete:\s*(.*?)\s*=>\s*(.*?)\s*(?:#\s*(.*))?$', l)
+        if m:
+            a = next((q for q, x in enumerate(L) if m.group(1) in x), None)
+            b = next((q for q in range(a, len(L)) if m.group(2) in L[q]), None) if a is not None else None
+            if b is None: print('  ! удаление не применено:', m.group(1))
+            else: log.append(('delete', m.group(1), '%d строк' % (b - a + 1), m.group(3) or '')); del L[a:b + 1]
+        # `@shift: <фрагмент строки> => -1  # причина` — сдвинуть номера ॥N॥ и «(N)» с этой строки до конца
+        m = re.match(r'^@shift:\s*(.*?)\s*=>\s*([-+]?\d+)\s*(?:#\s*(.*))?$', l)
+        if m:
+            a = next((q for q, x in enumerate(L) if m.group(1) in x), None); dlt = int(m.group(2))
+            if a is None: print('  ! сдвиг не применён:', m.group(1))
+            else:
+                bn2i = lambda s: int(''.join(str('০১২৩৪৫৬৭৮৯'.index(c)) for c in s))
+                for q in range(a, len(L)):
+                    L[q] = re.sub(r'॥(\s*)([০-৯]+)(\s*)॥', lambda x: '॥%s%s%s॥' % (x.group(1), bnum(bn2i(x.group(2)) + dlt), x.group(3)), L[q])
+                    L[q] = re.sub(r'^\((\d+)(?:–(\d+))?\)', lambda x: '(%d%s)' % (int(x.group(1)) + dlt, '–%d' % (int(x.group(2)) + dlt) if x.group(2) else ''), L[q])
+                log.append(('shift', m.group(1), m.group(2), m.group(3) or ''))
         i += 1
     return L
 
