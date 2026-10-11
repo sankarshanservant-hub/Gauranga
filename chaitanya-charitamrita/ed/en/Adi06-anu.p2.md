@@ -232,9 +232,63 @@ The position of Kṛṣṇa's devotee, that is, the devotee's service to Kṛṣ
 
 > Subheading: (*Śrīmad-Bhāgavatam* 11.14.15)
 
+Śrī Kṛṣṇa's words to Uddhava, the best of His devotees:
+
+**me** (to Me) **yathā bhavān** (you, Uddhava) **priyatamaḥ** (the devotee), [so] **ātma-yoniḥ** (Brahmā) **tathā na**; **śaṅkaraḥ tathā na**; **saṅkarṣaṇaḥ ca na tathā priyatamaḥ**; **śrīḥ** (Lakṣmī) **tathā na**, **ātmā tathā na eva** (not even I Myself, My divine form, am so dear).
+
 ## 101
 
 > Subheading: Only in the mood of a devotee does Kṛṣṇa taste His own sweetness —
+
+## 101–102
+
+In *sārūpya* and the other kinds of liberation, and in *viṣṇu-tattva*, there is [a sense of] equality with Kṛṣṇa, so the sweetness of service to Kṛṣṇa is not tasted so [fully]. In the mood of a devotee there is no equality with Kṛṣṇa (no position of enjoyer), and so Kṛṣṇa's sweetness is fully realized, like the taste of food that is chewed. Ordinary people, out of foolishness and greed for mastery, are by their very nature unable to experience the highest limit of the servant's mood. Only those who are highly experienced and have entered deeply into the scriptures can understand this subtle subject.
+
+## 103
+
+> Subheading: Nityānanda, Rāma and the other Viṣṇus taste Kṛṣṇa's sweetness only in the mood of devotees —
+
+## 105
+
+> Subheading: To taste His own sweetness, Kṛṣṇa Himself descends in the mood of a devotee as Gaura —
+
+## 106
+
+Kṛṣṇa, the object of the devotees' worship, wished to know how the devotees taste His sweetness. Understanding that it cannot be tasted without accepting the mood of a devotee, He Himself became a devotee.
+
+## 105–106
+
+See Ādi 4.137–158.
+
+## 107
+
+> Subheading: Tasting His own sweetness in the mood of a devotee —
+
+## 107–108
+
+To taste the five different *rasas* — *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura* — Śrī Gaurahari accepted the mood of each, and so He is full of every mood. Accepting the moods of devotees who take shelter of different *bhāvas*, Gauracandra, full of every mood, drinks His own sweetness.
+
+## 109
+
+> Subheading: The mood of a devotee belongs to all the avatāras of Viṣṇu —
+
+All the avatāras of Viṣṇu are entitled to descend in the mood of a devotee for the sake of serving Kṛṣṇa. One who tastes [*rasa*] feels more happiness in serving the One who is served in the mood of a devotee than in the mood of Īśvara.
+
+## 110
+
+> Subheading: Śrī Saṅkarṣaṇa is the original *bhakta-avatāra* —
+
+Advaita Prabhu is *viṣṇu-tattva*, yet He displayed the pastimes of a servant befitting an associate of Śrī Caitanya. Regarding Himself as a servant is precisely what makes a *viṣṇu-tattva* a *bhakta-avatāra*. Śrī Saṅkarṣaṇa in Mahā-Vaikuṇṭha, though He abides as the Īśvara of the *catur-vyūha*, is the original *bhakta-avatāra*. From Him [comes] Mahā-Viṣṇu in the Causal Waters, and through the differences of His manifestations we learn of [His] glance (*īkṣaṇa*) in the efficient and material [causes]. Therefore Śrī Advaitācārya, the avatāra of Mahā-Viṣṇu, is Śrī *viṣṇu-tattva*. All the manifestations of Saṅkarṣaṇa are engaged in the service of Kṛṣṇa, the *svayaṁ-rūpa* — therefore Advaita Prabhu too is a servant of Gaura-Kṛṣṇa, that is, a *bhakta-avatāra*.
+
+## 111
+
+> Subheading: The glory of Advaita Prabhu —
+
+## 114
+
+> Subheading: Homage to Ācārya Prabhu —
+
+*Thus ends the sixth chapter of the “Anubhāṣya.”*
 
 ---
 
