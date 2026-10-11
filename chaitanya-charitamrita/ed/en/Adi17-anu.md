@@ -139,3 +139,43 @@ The story of “Gopāla Cāpāla” is not found in the *Caitanya-bhāgavata*.
 ## 43
 
 > Subheading: The distress of the respectable local people, and the purifying of the place —
+
+## 45
+
+> Subheading: Gopāla Cāpāla's leprosy, the fruit of an offense against a Vaiṣṇava —
+
+## 47
+
+> Subheading: He stays on the bank of the Gaṅgā and begs the Lord to deliver him —
+
+## 50
+
+> Subheading: Because of his offense against a Vaiṣṇava, the Lord rebukes him angrily and refuses to deliver him —
+
+## 52
+
+Worship of Bhavānī is the business of a non-Vaiṣṇava, that is, it is not the business of a Vaiṣṇava. By condemning it, the Lord taught people to regard as “bad association” the worldly, mixed Vaiṣṇava (*prākṛta viddha-vaiṣṇava*) who at heart nourishes the doctrine of many gods, that is, who leans toward the worship of many gods and goddesses.
+
+## 54
+
+> Subheading: One who offends a Vaiṣṇava suffers constantly and so cannot easily die —
+
+**Bhoge**: suffers.
+
+## 55
+
+> Subheading: When the Lord came, he surrendered to Him —
+
+Kuliyā-grāma: the present town of Navadvīpa. “Between Nadīyā and Kuliyā there is only the Gaṅgā” (*Caitanya-bhāgavata*, Antya 3.380): Kuliyā is on the western bank of the Gaṅgā, and Navadvīpa on the eastern bank. For mentions of Kuliyā on the western bank of the Gaṅgā, see the *Bhakti-ratnākara* (twelfth wave), the *Caitanya-carita* *mahākāvya*, the play *Caitanya-candrodaya*, and the *Caitanya-bhāgavata*. In the village of Kuliyā, which belongs to Koladvīpa, there is to this day a quarter called “Kuliyār Gañj” and a stream called “Kuliyār Daha”; it lies within the present municipal town of Navadvīpa. In Śrī Mahāprabhu's time there were villages called “Kuliyā” and “Pāhāḍapura” on the western bank of the Gaṅgā. They lie among the fields of “Bāhir-dvīpa.” But then and ever since, Navadvīpa was in “Antardvīpa,” on the eastern bank of the Gaṅgā. In Śrī Māyāpura that place is still known as “Dvīper Māṭh” (“the field of the island”). The village called “Kuliyā” near Kāñcaḍāpāḍā is not the Kuliyā mentioned above, nor the “*pāṭa* of Aparādha-bhañjana” (the place where offenses were forgiven). The false notion about it arose only a few years ago — from fancies born of hostility toward the Dhāma, and from error.
+
+## 57
+
+> Subheading: The Lord tells him to beg forgiveness from Śrīvāsa Paṇḍita —
+
+## 58
+
+> Subheading: After surrendering, one must not sin again —
+
+---
+
+[^31-1]: So in the edition: *taror api*; the verse reads *taror iva*.

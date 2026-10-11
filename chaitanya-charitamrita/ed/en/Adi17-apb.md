@@ -69,3 +69,11 @@ One who considers himself lower than grass, who is tolerant like a tree, who see
 ## 32–33
 
 The author says: “O people! With upraised arms I tell you: listen! String this verse on the garland of Kṛṣṇa's name and wear it around your neck.” The meaning is this: if one chants the name without being qualified, the result is *nāmābhāsa* (a mere shadow of the name) or *nāmāparādha* (offense against the name). Then the *jīva* does not attain the fruit of the name, “love for Kṛṣṇa.” Chant the name of Hari while acting on the instruction Mahāprabhu gave in the verse *tṛṇād api*; then you will certainly attain the feet of Śrī Kṛṣṇa.
+
+## 35–45
+
+While Mahāprabhu, with the doors shut, was tasting the bliss of *kīrtana* in Śrīvāsa's courtyard, many brāhmaṇas of the town who were turned away from God tried in many ways to ridicule the Vaiṣṇavas. A certain garrulous Bhaṭṭācārya nicknamed “Gopāla Cāpāla” left outside the closed door the articles for worshiping the Devī — a banana leaf, a *javā* flower, red sandalwood and so on — together with a pot of wine. In the morning Śrīvāsa Paṇḍita saw it and said to everyone in jest, “Look, look! Every night I worship Bhavānī. Now you have learned how great I am as a ‘*śākta*’!” The respectable people were deeply distressed at the sight. They called a *hāḍi* (a sweeper), had the wine and the other vile things thrown far away, and purified the place with water and cow dung. For that offense against a Vaiṣṇava, Gopāla Cāpāla was stricken with a rotting leprosy.
+
+## 55
+
+Kuliyā-grāma: at that time Navadvīpa was on the eastern bank of the Gaṅgā, and on the other bank was the village of Kuliyā — the place now known as “Navadvīpa.”
