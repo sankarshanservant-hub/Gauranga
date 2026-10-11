@@ -197,7 +197,7 @@ Gangadasa was delighted to have such a pupil, though the boy plagued him and His
 of logic, to everyone's amazement. <!-- F82 F83 -->
 
 The father rejoiced at his son's disciplined life: a bath in the Ganga every day, worship of Vishnu according to all
-the rules, water for the tulasi, prasada — and then study in solitude. He prayed to Krishna for His welfare, yet fear
+the rules, water for the tulasi, prasada — and then study in solitude. Mishra prayed to Krishna for his son's welfare, yet fear
 would not leave him: what if his son grasped the emptiness of samsara and went away? One night he dreamed of
 Mahaprabhu as a sannyasi: surrounded by devotees, He was singing, dancing, laughing and weeping in sankirtana. From
 then on Mishra was sure that Nimai would leave home, and Shachi, however much she argued that their son was too
