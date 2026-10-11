@@ -37,3 +37,15 @@ The blasphemers are the man whom the Lord chased with a stick, and Gopāla Cāp�
 The *pāṣaṇḍīs* are those who explain other gods as equal to Bhagavān.
 
 The lowly students are those who take learning to be a cause for argument and do not know that learning is the means to attain Īśvara.
+
+## 39
+
+As soon as the Lord accepted *sannyāsa*, the sophists, those devoted to karma, the blasphemers, the *pāṣaṇḍīs* and the lowly students one after another took shelter at His feet, and even many *mlecchas* accepted His guidance. Only the Māyāvādīs of Vārāṇasī-dhāma, having fled from the flood of *prema*, remained apart!
+
+## 45–46
+
+The Vaidya Candraśekhara was a *śūdra* by *varṇa*. It is not proper for *sannyāsīs* to spend the night in a *śūdra*'s house, but Mahāprabhu, out of mercy to him, stayed in his house: for He is the independent Īśvara, and before His mercy all are equal, brāhmaṇa and *śūdra* alike. He accepted *bhikṣā*, that is, His meals, in the house of Tapana Miśra. And nowhere did He accept invitations together with other *sannyāsīs*.
+
+## 57
+
+Even so, the Lord, wishing to bestow mercy on the *sannyāsīs*, inspired the brāhmaṇa from within his heart, and that is why he made such an insistent request.

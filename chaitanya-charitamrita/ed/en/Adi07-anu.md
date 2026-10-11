@@ -126,8 +126,81 @@ In the Lord's marginal potency, called the *jīva-śakti*, together with the end
 
 One who mistakenly believes that “*māyā*” is present in Bhagavān's being, in His abode, in devotion to Him and in His devotee — though all of these are beyond *māyā* — is a “Māyāvādī.” One who mistakenly believes that these four truths are subject to karma and to enjoying its fruits is “devoted to karma” (*karma-niṣṭha*). People who mistakenly think that in these four truths there is room for argument born of ignorance are “sophists.” One who mistakenly thinks that these four truths deserve censure is a “blasphemer.” One who mistakenly thinks that other things of *māyā* are equal to these four truths is a “*pāṣaṇḍī*.” And those fond of study who mistakenly think that these four truths are on a par with other objects of material enjoyment are “lowly students.” All of them fled, driven by one aim: that the waters of the flood of *prema* given by Gaurasundara, who is full of love, should in no way touch them. Seeing this, Śrī Mahāprabhu wished to accept the ornament of the fourth *āśrama*. It is highly revered by those people of material nature already mentioned, who turn away from love for Kṛṣṇa and long for the four goals of life (*catur-varga*). He reasoned that in the eyes of these worldly people, bewitched by *māyā*, the fourth *āśrama* is the desirable ideal.
 
+## 34
+
+There are four kinds of *āśramas*: *brahmacārī*, *gṛhastha*, *vānaprastha* and *yati*. Each *āśrama* in turn has four divisions. The *Bhāgavatam* says: “*Sāvitrya*, *prājāpatya*, *brāhma* and *bṛhat* [for the *brahmacārīs*]; *vārtā*, *sañcaya*, *śālīna* and *śiloñcha* for the householder; the *vaikhānasas*, *vālakhilyas*, *audumbaras* and *phenapas* in the forest; and for the *sannyāsīs*, first the *kuṭīcaka*, then the *bahūdaka*, the *haṁsa* and the *niṣkriya*.” (*Śrīmad-Bhāgavatam* 3.12.42–43) That is, *brahmacarya* is of four kinds: (1) *sāvitrya*, a *brahmacarya* of three nights, from the *upanayana* until the study of the Gāyatrī; (2) *prājāpatya*, a *brahmacarya* in which one keeps vows for a year after the *upanayana*; (3) *brāhma*, a *brahmacarya* from the *upanayana* until the three Vedas have been learned; (4) *bṛhat*, a *brahmacarya* from the *upanayana* until death. The first three are known as “*upakurvāṇa*” and the last as “*naiṣṭhika*.” Householders are of four kinds: (1) *vārtā*, who lives by agriculture and other occupations that are not forbidden; (2) *sañcaya*, who lives by performing sacrifices for others and the like; (3) *śālīna*, who lives on what comes unasked; (4) *śiloñchana*, who lives on grains gleaned from the ground. *Vānaprasthas* are of four kinds: (1) the *vaikhānasa*, who lives on what grows without plowing; (2) the *vālikhilya*, who, on obtaining new grain, gives up what he had stored before; (3) the *auḍumbara*, who, on rising from bed, accepts food brought from whatever direction he first looks; (4) the *phenapa*, who sustains life on fruits that have fallen by themselves. *Sannyāsīs* are of four kinds: (1) the *kuṭīcaka*, chiefly devoted to the duties of his own *āśrama*; (2) the *bahūdaka*, who has given up karma and is chiefly devoted to cultivating knowledge; (3) the *haṁsa*, fixed in the cultivation of knowledge; (4) the *niṣkriya*, a *paramahaṁsa*, or one who has realized the truth.
+
+*Sannyāsa* is of two kinds, “*dhīra*” and “*narottama*.” (*Bhāg.* 1.13.26–27): “One who, detached and freed from bonds, gives up this body, which no longer serves any purpose, without anyone knowing where he has gone, is called ‘*dhīra*.’ And one who, self-possessed, has become disgusted with the world by himself or through another's instruction and, placing Hari in his heart, leaves home, is ‘*narottama*.’” Śrī Mahāprabhu accepted *sannyāsa* in the bright fortnight of the month of Māgha in the Śaka year 1432 from Śrī Keśava Bhāratī, a *daṇḍi-svāmī* of the *sampradāya* of Śrī Śaṅkara, who lived in Kāṭoyā. These *sannyāsīs* are under the Śṛṅgerī *maṭha* in the south.
+
+## 35
+
+> Subheading: The deliverance of those deprived of *prema* — the *karmīs*, students, *pāṣaṇḍīs*, logicians, blasphemers and the rest —
+
+## 36
+
+See the last part of the *Anubhāṣya* on Ādi 7.33.
+
+## 37
+
+> Subheading: They are freed from their offenses and gain *bhakti* —
+
+## 38
+
+> Subheading: The Lord devises a means to deliver all *jīvas* —
+
+## 39
+
+> Subheading: All people are delivered except the Māyāvādīs of Kāśī —
+
+“The Māyāvādīs of Kāśī.” People bewildered by knowledge born of the senses say that the world they see with their senses is “created by *māyā*,” since it can be measured by sensory knowledge. There are people skilled in this kind of reasoning: “The Truth (*tattva-vastu*) is beyond *māyā*, yet in it there is no eternal spiritual variety and no spiritual pastime; it is pure consciousness alone (*cin-mātra*).” They are the “Māyāvādīs of Kāśī.” The “Māyāvādīs of Sārnāth,” or the “Māyāvādīs of Bodh Gayā,” do not accept the *māyā* of Brahman: in their reasoning, the doctrine that there is nothing but non-spirit (*acin-mātra-vāda*) is established. The “Māyāvādīs of Kāśī” and the Māyāvādīs of other places are all *prakṛti-vādīs*; none of them is a “*brahma-vādī* or *tattva-vādī*.” The Māyāvādīs of Kāśī call themselves “*brahma-vādīs*” with their lips, but they do not accept the distinction between Brahman and *prakṛti*: following their doctrine of merging (*samanvaya-vāda*), they hold Brahman and *māyā* to be one and the same. The Māyāvādīs know nothing of *bhakti* and Yogamāyā, and that is why they are nondevotees, averse to devotion to Kṛṣṇa. In their hearts the Māyāvādīs are convinced that everything said about eternal *bhakti*, the One who is worshipped and the devotee — all of it is subject to their sense-born knowledge. But in fact, judged by the real truth, such words are worth nothing. However many sophistries and disputes the Māyāvādīs put forward among themselves, they never approach the real truth, and so the Truth and His spiritual variety are not subject to their imaginary reasonings.
+
+## 41
+
+> Subheading: The Māyāvādīs blaspheme the Lord —
+
+The *smṛti* enjoins: “The *sannyāsī* should give up the *tauryatrika* — singing, dancing and playing instruments — and should always study Vedānta.” The *sannyāsīs* of Kāśī saw that Śrī Mahāprabhu did not listen to Śaṅkara's Māyāvāda but, on the contrary, was absorbed in singing of Kṛṣṇa and so on, and danced overwhelmed with love. Measuring Him by this injunction, they concluded that He did not know the *dharma* of *sannyāsa*. Śaṅkara says: “Fortunate indeed are those who wear only a loincloth and always delight in the words of Vedānta.”[^41-1] Not seeing this mark in Śrī Mahāprabhu, the Māyāvādī *sannyāsīs* and the home-bound householders (*gṛhavratas*) blasphemed Him. On the deliverance of the Māyāvādī *sannyāsīs* of Kāśī, see especially Madhya 25.5–169.
+
+## 44
+
+> Subheading: The Lord disregards them and goes to Mathurā —
+
+## 45
+
+> Subheading: The Lord stays in Candraśekhara's house —
+
+In the *Śrī Caitanya-candrodaya-nāṭaka* Śrī Candraśekhara is called a “*śaukra-vaidya*” (a Vaidya by birth). In those days the Vaidyas by birth, and every *varṇa* other than the brāhmaṇas by birth, were called “*śūdras*.” Later, in the present century, the Kāyasthas, resorting to the purificatory rite for the *vrātyas* (those who have lost the right to initiation), took and are taking the *saṁskāras* of *kṣatriyas*, and the Vaidyas those of *vaiśyas*. In the families of the Śrī Gauḍīya Vaiṣṇava ācāryas who follow the Vaiṣṇava faith — in the line of Ṭhākura Raghunandana, in the line of Ṭhākura Kṛṣṇadāsa and Navanī Hoḍa, and in the line of Śrī Rasikānanda-deva, the disciple of Śyāmānanda Prabhu — the *upanayana-saṁskāra*, the ideal of brahminhood, has continued for three or four centuries now. To this day they act as *dīkṣā-gurus* for all *varṇas*, brāhmaṇas included, and worship *śālagrāmas* and other Deities.
+
+## 46
+
+> Subheading: Leaving the Māyāvādī *sannyāsīs*, the Lord accepts *bhikṣā* in the house of Tapana Miśra —
+
+## 47
+
+> Subheading: Instructions to Śrī Sanātana —
+
+## 49
+
+> Subheading: The appeal of Candraśekhara and Tapana Miśra —
+
+## 53
+
+> Subheading: The brāhmaṇa's request —
+
+## 56
+
+> Subheading: The Lord accepts the invitation —
+
+## 58
+
+> Subheading: The Lord enters the assembly of *sannyāsīs* —
+
+## 59
+
+> Subheading: The Lord's humility —
+
 ---
 
 [^5-1]: *Śvetāśvatara Upaniṣad* 6.8.
 [^6-1]: So in the edition. In Ādi 6.4 the subheading attributes the neighboring verses (12–13) to the diary of Śrī Svarūpa Gosvāmī.
 [^10-1]: *Kaṭha Upaniṣad* 2.2.13; *Śvetāśvatara Upaniṣad* 6.13.
+[^41-1]: Śaṅkara, *Kaupīna-pañcaka* 1.
