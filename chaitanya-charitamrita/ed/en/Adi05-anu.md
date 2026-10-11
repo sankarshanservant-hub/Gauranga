@@ -967,4 +967,4 @@ See Madhya 21.10 and 12, and *Bhāgavatam* 2.7.41 and 10.14.7.
 [^203-2]: *Vilāpa-kusumāñjali* 6.
 [^203-3]: The edition cites Antya 4.224; in the verse numbering of the translation used here the passage is verses 223–224.
 [^225-1]: *Śrīmad-Bhāgavatam* 10.84.13.
-[^231-1]: So in the edition; by sense, verse 195 (where Nityānanda tells him to go to Vraja; verse 196 describes the gesture and His disappearance).
+[^231-1]: Cf. verses 195–196: in 195 Nityānanda tells the author to go to Vṛndāvana; in 196 He sends him off with a gesture of His hand and disappears.
