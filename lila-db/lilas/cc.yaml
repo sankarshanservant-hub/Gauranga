@@ -4821,3 +4821,329 @@
   cc: "Ади 16"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "109", to: "111"}
+
+- id: cc-0241
+  source: cc
+  ref: "Ади 17.1–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: PX
+  order: 991
+  title: "Мангалачарана семнадцатой главы: поклон Чайтанье, по чьей милости даже яваны, повторяя имя Кришны, становятся праведными; переход к сутре юношеских лил"
+  summary: "Автор склоняется перед Шри Чайтаньей, чьи деяния свободны и дивны: по Его милости даже яваны, громко повторяя имена Кришны, становятся подобны праведникам. Слава Чайтанье, Нитьянанде, Адвайте и преданным Гауры. Сутра кайшора-лилы перечислена; теперь по порядку — сутра лил юности: в юности Гаура играет учёностью, красотой, нарядом, наслаждением, танцем и киртаном, раздавая прему и святое имя."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [holy-name]
+  cc: "Ади 17"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "1", to: "4"}
+
+- id: cc-0242
+  source: cc
+  ref: "Ади 17.5–6"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P05
+  order: 28.5
+  title: "Сутра: юный Господь в дивных одеждах, гордый учёностью, побеждает всех пандитов и преподаёт"
+  summary: "С наступлением юности Господь украшал Себя дивными одеждами, гирляндами и сандалом; в гордости учёностью Он ни с кем не считался и, победив всех пандитов, преподавал."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра (краткое перечисление) юношеских лил; подробно — у Вриндавана Даса. Ст. 6 — у ВЧД пословный «изучение» (адхьяпана — преподавание; исправлено)."
+  themes: [learning]
+  bhava: [teacher]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 17.5: с наступлением юности (по «Анубхашье» 17.4 — после пятнадцатого года)"
+  cc: "Ади 17"
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "5", to: "6"}
+
+- id: cc-0243
+  source: cc
+  ref: "Ади 17.7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P05
+  order: 58
+  title: "Сутра: под видом «болезни вайю» Господь являет прему и играет с преданными"
+  summary: "Под предлогом расстройства вайю (жизненного воздуха) Господь являл любовь к Богу и вместе с преданными наслаждался разнообразными играми."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — см. ЧБ Ади 12 (до поездки в Гаю)."
+  themes: [ecstasy]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 17.7: в сутре — до поездки в Гаю; «Анубхашья» отсылает к ЧБ Ади 12"
+  cc: "Ади 17"
+  event: ev-vayu-vyadhi-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "7", to: "7"}
+
+- id: cc-0244
+  source: cc
+  ref: "Ади 17.8–9"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P06
+  order: 40
+  title: "Сутра: в Гае Господь встречает Ишвару Пури и принимает посвящение; в Нём проявляется према, и, вернувшись, Он вновь играет в преме"
+  summary: "Господь отправился в Гаю и там встретился с Ишварой Пури. После посвящения в Нём проявилась према; Он вернулся на родину, и вновь начались игры любви."
+  persons: ["@mahaprabhu", "@ishvara-puri"]
+  places: ["#gaya", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — ЧБ Ади 17, Мадхья 1. Отправление в Гаю — ev-departure-for-gaya; возвращение — ev-return-from-gaya-teaching."
+  themes: [pilgrimage, ecstasy]
+  years: [1508, 1509]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 17.8–9 (сутра); период — по PERIODS.md"
+  cc: "Ади 17"
+  event: ev-gaya-ishvara-puri-initiation
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "8", to: "9"}
+
+- id: cc-0245
+  source: cc
+  ref: "Ади 17.10"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 101
+  title: "Сутра: Господь дарует прему Шачи; встреча с Адвайтой, которому Он являет вселенский облик"
+  summary: "Господь даровал прему матери Шачи; затем встретился с Адвайтой, и Адвайта удостоился видеть вселенский облик (вишварупу)."
+  persons: ["@mahaprabhu", "@shachi", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра трёх эпизодов; по «Анубхашье»: према Шачи — ЧБ Мадхья 22 (ev-shachi-receives-prema, ev-shachi-vaishnava-aparadha; ср. ст. 71), встреча с Адвайтой — ЧБ Мадхья 6 (ev-advaita-comes-to-navadvipa), вишварупа — ЧБ Мадхья 24."
+  themes: [revelation, family]
+  bhava: [aishvarya]
+  cc: "Ади 17"
+  event: ev-vishvarupa-shown-advaita
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "10", to: "10"}
+
+- id: cc-0246
+  source: cc
+  ref: "Ади 17.11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 113.5
+  title: "Сутра: Шриваса совершает абхишеку Господа; на ложе Господь являет Своё величие"
+  summary: "Шриваса совершил абхишеку (омовение) Господа, и, восседая на ложе, Господь явил Своё божественное величие."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — «сат-прахария»-бхава на ложе Вишну в доме Шриваса (ЧБ Мадхья 9); ср. ст. 18."
+  themes: [revelation, festival]
+  bhava: [aishvarya]
+  cc: "Ади 17"
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "11", to: "11"}
+
+- id: cc-0247
+  source: cc
+  ref: "Ади 17.12–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 109
+  title: "Сутра: приход Нитьянанды; Господь являет Ему шестирукий, четырёхрукий и двурукий облик"
+  summary: "Пришёл Нитьянанда Сварупа и, встретившись с Господом, удостоился видеть шестирукий облик: сначала Господь явил Ему шесть рук с раковиной, диском, булавой, лотосом, луком Шарнгой и флейтой; затем — четырёхрукий облик, изогнутый в трёх местах, двумя руками играющий на флейте, двумя держащий раковину и диск; затем — лишь двурукий, с флейтой у уст: тёмный, в жёлтых одеждах, сын царя Враджа."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра. Приход Нитьянанды — ev-nityananda-first-meeting (по «Анубхашье» — ЧБ Мадхья 3); шестирукий облик — по «Анубхашье» на вьяса-пудже (ЧБ Мадхья 5)."
+  themes: [revelation]
+  bhava: [aishvarya, krishna]
+  cc: "Ади 17"
+  divergence: "В ЧЧ шесть рук держат раковину, диск, булаву, лотос, лук и флейту; в «Анубхашье» (по ЧБ) — плуг и пест-мушалу вместо лука и флейты; у Мурари, Лочана Даса и Карнапуры облик явлен в доме Шривасы во время трапезы Нитьянанды; в падах — лук Рамы, флейта Кришны, посох и камандалу санньяси."
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "12", to: "15"}
+
+- id: cc-0248
+  source: cc
+  ref: "Ади 17.16"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 109.5
+  title: "Сутра: вьяса-пуджа Нитьянанды; Господь в настроении Нитьянанды берёт пест-мушалу"
+  summary: "Затем была вьяса-пуджа Нитьянанды Госани, и Господь, проникшись настроением Нитьянанды (Баларамы), взял в руки пест-мушалу."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — ЧБ Мадхья 5."
+  themes: [revelation, festival]
+  bhava: [balarama]
+  cc: "Ади 17"
+  event: ev-nityananda-vyasa-puja
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "16", to: "16"}
+
+- id: cc-0249
+  source: cc
+  ref: "Ади 17.17"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 121
+  title: "Сутра: Шачи видит двух братьев Рамой и Кришной; Господь освобождает Джагая и Мадхая"
+  summary: "Шачи увидела в двух братьях — Гауре и Нитьянанде — Раму (Балараму) и Кришну; затем Господь освободил Джагая и Мадхая."
+  persons: ["@shachi", "@mahaprabhu", "@nityananda", "@jagai-madhai"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра двух эпизодов; по «Анубхашье»: сон Шачи — ЧБ Мадхья 8 (отдельного события в базе нет), Джагай и Мадхай — ЧБ Мадхья 13."
+  themes: [mercy, revelation]
+  bhava: [krishna, balarama]
+  cc: "Ади 17"
+  event: ev-jagai-madhai-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "17", to: "17"}
+
+- id: cc-0250
+  source: cc
+  ref: "Ади 17.18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 113.6
+  title: "Сутра: семь прахар Господь пребывает в бхаве, и преданные всюду видят Его в особом величии"
+  summary: "Семь прахар (около двадцати одного часа) Господь пребывал в бхаве, и преданные, где бы они ни были, видели Его в особом величии."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — «сат-прахария»-бхава в доме Шриваса (ЧБ Мадхья 9): Духкхи названа Сукхи, Шридхара видит махапракашу, Мурари — облик Рамы, милость Харидасу и Мукунде, наставление Адвайте о смысле Гиты; ср. ст. 11."
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya]
+  cc: "Ади 17"
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "18", to: "18"}
+
+- id: cc-0251
+  source: cc
+  ref: "Ади 17.19"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 60
+  title: "Сутра: бхава Варахи в доме Мурари — Господь взбирается ему на плечи и пляшет во дворе"
+  summary: "В доме Мурари Господь проникся бхавой Варахи и, взобравшись Мурари на плечи, плясал во дворе."
+  persons: ["@mahaprabhu", "@murari-gupta", "@varaha"]
+  places: ["#house-murari"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — ЧБ Мадхья 3."
+  themes: [revelation, ecstasy]
+  bhava: [varaha]
+  cc: "Ади 17"
+  divergence: "В ЧЧ Господь в бхаве Варахи пляшет на плечах Мурари; у Мурари, Лочана Даса и Карнапуры — ползает с рыком, поднимает клыками сосуд и велит Мурари описать Его."
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "19", to: "19"}
+
+- id: cc-0252
+  source: cc
+  ref: "Ади 17.20"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 72
+  title: "Сутра: Господь ест сырой рис Шукламбары"
+  summary: "Господь съел сырой рис Шукламбары и растолковал смысл шлоки «харер нама»."
+  persons: ["@mahaprabhu", "@shuklambara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Сутра; по «Анубхашье» — рис, собранный Шукламбарой подаянием (ЧБ Мадхья 16). Толкование «харер нама» — следующая запись (cc-0253)."
+  themes: [mercy, prasada]
+  cc: "Ади 17"
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "20", to: "20"}
+
+- id: cc-0253
+  source: cc
+  ref: "Ади 17.21–33"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 65
+  title: "Толкование шлоки «харер нама»: в Кали Кришна нисходит как Имя; «тринад апи сунчена» — как повторять Имя"
+  summary: "Шлока «Брихан-нарадия-пураны»: только имя Хари; в Кали нет иного пути. В Кали Кришна нисходит в образе Имени, и Имя освобождает весь мир. «Харер нама» сказано трижды для твёрдости, «эва» — чтобы вразумить непонятливых; «кевала» исключает знание, йогу, аскезу и прочие пути; кто думает иначе, не освободится. Как повторять Имя: смиреннее травы, терпеливее дерева (срубленное, оно молчит, засыхая, не просит воды), не ища почёта и почитая других; вайшнав ни у кого ничего не просит, живёт тем, что приходит само, и всегда доволен. Автор, воздев руки, призывает всех нанизать стих «тринад апи» на нить Имени и носить на шее — тогда непременно обретёшь стопы Кришны."
+  persons: ["@mahaprabhu", "@krishnadasa-kaviraja"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 23 — у ВЧД роли «харер нама» и «эва» переставлены (исправлено со сноской). Ст. 26–30 — ср. Антья 20.22–26; ст. 31 — шлока из «Шикшаштаки» Господа."
+  themes: [teaching]
+  teaching: [holy-name, yuga-dharma, vaishnava]
+  scriptures: ["Брихан-нарадия-пурана, 38.126", "Шикшаштака, 3"]
+  cc: "Ади 17"
+  divergence: "У Лочана Даса Господь толкует шлоку в бхаве Вепря в доме Шриваса; в ЧЧ эпизод отнесён к сутре после риса Шукламбары."
+  event: ev-harer-nama-explained
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "21", to: "33"}
+
+- id: cc-0254
+  source: cc
+  ref: "Ади 17.34–54"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 129
+  title: "Год ночного киртана у Шривасы за закрытыми дверями; Гопала Чапала подбрасывает предметы пуджи Бхавани и вино, поражён проказой, и Господь отказывается спасти его"
+  summary: "Целый год Господь ночами пел санкиртану в доме Шривасы, закрыв двери; пашанди приходили насмехаться и, не попав внутрь, горели завистью. Брахман Гопала Чапала, глава пашанди, ночью положил у дверей Шривасы всё для поклонения Бхавани — цветы, куркуму, киноварь, красный сандал, рис — и кувшин вина. Утром Шриваса, смеясь, позвал почтенных людей: «Каждую ночь я почитаю Бхавани — смотрите, каково моё величие!»; те ужаснулись, велели убрать всё и очистить место. Через три дня Гопала Чапала заболел проказой: тело покрылось язвами и червями. Сидя под деревом у Ганги, он попросил Господа как «племянника по деревне» спасти его; Господь в гневе ответил: «Ненавистник преданных, Я не спасу тебя: десять миллионов рождений тебя будут есть черви и ты будешь падать в ад Раурава за то, что выставил Шривасу почитателем Бхавани. Я пришёл истребить пашанди и распространить бхакти». Грешник продолжал мучиться, но не умирал."
+  persons: ["@mahaprabhu", "@srivasa", "@gopala-chapala"]
+  places: ["#house-srivasa", "#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Имя в оригинале — «гопала чапала» (у ВЧД «Чапал Гопал»; в переводе исправлено)."
+  themes: [offense, kirtan]
+  teaching: [vaishnava]
+  cc: "Ади 17"
+  divergence: "В ЧЧ прокажённый — Гопала Чапала, прощён лишь после санньясы в Кулии (ст. 55–59); у Мурари и Карнапуры Господь отказывает безымянному прокажённому, у Лочана Даса Шриваса прощает его сразу и тот исцеляется; у Джаянанды прокажённый отослан к Шривасе в Шантипуре после санньясы."
+  event: ev-leper-shrivasa-offense
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "34", to: "54"}
+
+- id: cc-0255
+  source: cc
+  ref: "Ади 17.55–59"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P13
+  order: 8
+  title: "Кулия: после санньясы Гопала Чапала предаётся Господу и по Его совету получает прощение Шривасы"
+  summary: "Когда Господь, приняв санньясу и побывав в Нилачале, пришёл в селение Кулия, тот грешник принял у Него прибежище; Господь милостиво наставил его: «Твоё оскорбление — перед Шривасой Пандитом; иди к нему: если он окажет милость и ты не повторишь подобного, будешь избавлен от греха». Брахман пришёл к Шривасе, принял у него прибежище и по его милости освободился от греха."
+  persons: ["@mahaprabhu", "@gopala-chapala", "@srivasa"]
+  places: ["#kulia"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 17.55: после санньясы, когда Господь пришёл из Нилачалы в Кулию (на пути во Вриндаван через Гауду)"
+  cc: "Ади 17"
+  event: ev-gopala-chapala-forgiven
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "55", to: "59"}
+
+- id: cc-0256
+  source: cc
+  ref: "Ади 17.60–64"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md"
+  period: P07
+  order: 130
+  title: "Брахман, не попавший на киртан, проклинает Господа: «Да погибнет Твоё мирское счастье!» — и Господь ликует"
+  summary: "Брахман пришёл посмотреть киртан, но двери были закрыты; огорчённый, он на другой день у Ганги сказал Господу: «Я прокляну Тебя!» — и, разорвав священный шнур, проклял: «Да погибнет Твоё мирское счастье!» Услышав проклятие, Махапрабху возликовал. Кто с верой слушает о проклятии Господа, избавляется от проклятия брахманов."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [offense, sannyasa]
+  cc: "Ади 17"
+  event: ev-brahmana-curse-sannyasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "60", to: "64"}
