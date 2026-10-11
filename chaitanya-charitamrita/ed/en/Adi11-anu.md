@@ -268,10 +268,28 @@ The village of Cā̃nduḍe on the Bhāgīrathī is in Nadīyā district, within
 
 Since the old Sukhasāgara was swallowed by the river, the new Sukhasāgara lies 3–4 miles from the village of Cā̃nduḍe, south of Kālīgañja.
 
-Śrī Nityānanda Prabhu's son-in-law, the husband of Śrīmatī Gaṅgā-devī, was Śrī Mādhavācārya (Mādhava Caṭṭopādhyāya) of Jirāṭ; according to some he was a disciple of Śrī Nityānanda Prabhu, according to others of Śrī Jāhnavā-devī, and according to others of this
+Śrī Nityānanda Prabhu's son-in-law, the husband of Śrīmatī Gaṅgā-devī, was Śrī Mādhavācārya (Mādhava Caṭṭopādhyāya) of Jirāṭ; according to some he was a disciple of Śrī Nityānanda Prabhu, according to others of Śrī Jāhnavā-devī, and according to others of this Śrī Puruṣottama Ṭhākura. The *Vaiṣṇava-vandanā* states plainly that its author, Śrī Devakīnandana dāsa, was a disciple of this very Puruṣottama.
+
+The present temple is a thatched hut with a mud wall. In the temple reside Śrī Jagannātha, Balarāma and Subhadrā; Nitāi-Gaura, two pairs of Deities; Gopīnātha; Mother Jāhnavā; Bāla-Gopāla; Rādhā-Govinda, five pairs; Revatī and Balarāma; and a *śālagrāma*. Some say that several of these sacred forms were installed by Puruṣottama Ṭhākura and the rest belong to Jāhnavā-devī's *gādi*. This *śrīpāṭa* is also known as “the *pāṭa* of Vasu-Jāhnavā.” The names of the following servitor-*mahāntas* of the Cā̃nduḍe *śrīpāṭa* are known: (1) Gopāladāsa Mahānta, (2) Rāmakṛṣṇa, (3) Vihāridāsa, (4) Rāmadāsa, (5) Gopāladāsa and (6) the present aged servitor, Sītānātha dāsa.
+
+## 40
+
+> Subheading: (25) Kānu Ṭhākura —
+
+Kānu Ṭhākura. Some count him among the twelve *gopālas*. He lived at Bodhakhānā. On the Central Section of the E.B.R. line one gets off at “Jhikaragāchā-ghāṭ” station, and from there, by boat on the river Kapotākṣa or overland, it is 2 or 2½ miles to the *śrīpāṭa* of Bodhakhānā.
+
+Ṭhākura Kānāi's ancestor four generations back, Śrī Kaṁsāri Sena, was also called “Sambarāri.” In the *Vaiṣṇava-vandanā* Devakīnandana names four generations of Ṭhākura Kānāi's ancestors: “I honor Śrī Kaṁsāri Sena and Sena Śrīvallabha. With all my heart I honor Sadāśiva Kavirāja, who is ever mad with love and knows nothing external. I honor my chosen lord, named Śrī Puruṣottama. Who can describe his incomparable qualities?”
+
+Puruṣottama Ṭhākura was the son of Sadāśiva, and Kānu Ṭhākura was the son of Puruṣottama Ṭhākura. Kānu Ṭhākura's descendants hold that Puruṣottama Ṭhākura and “Nāgara Puruṣottama” were different persons. They say that Kānu Ṭhākura's father is the one mentioned in the *Gaura-gaṇoddeśa* as “Dāsa Puruṣottama,” who is “Stokakṛṣṇa” in the pastimes of Vraja. But in the *Gaura-gaṇoddeśa* it is Puruṣottama, the son of Sadāśiva, born in a Vaidya family, who is called “Nāgara Puruṣottama.” This Nāgara Puruṣottama is the friend named “Dāma” in the pastimes of Vraja. Among Kānu Ṭhākura's descendants a tradition is current that Puruṣottama Ṭhākura lived in the village of “Sukhasāgara” on the east bank of the Gaṅgā. Puruṣottama's wife was named “Jāhnavā.” Soon after Ṭhākura Kānāi's birth, Jāhnavā passed away. When Nityānanda Prabhu learned that Puruṣottama Ṭhākura had lost his wife, He came to Puruṣottama's house and took the twelve-year-old[^40-1] child to His own home at Khaḍadaha.
+
+According to Kānu Ṭhākura's descendants, Ṭhākura Kānāi appeared in Śaka 1457 (Bengali year 942), on the second lunar day of the bright fortnight of Āṣāḍha, a Thursday, the day of the Ratha-yātrā. Seeing the Ṭhākura's devotion to Kṛṣṇa from infancy, Nityānanda Prabhu named him “Śiśu Kṛṣṇadāsa” (the child Kṛṣṇadāsa).
+
+In his fifth year the child Kṛṣṇadāsa went with the queen Mother Jāhnavā to Śrī Vṛndāvana-dhāma. The Vrajavāsīs headed by Śrī Jīva Gosvāmī, seeing the child Kṛṣṇadāsa's *bhāva* and other signs, gave him the name “Ṭhākura Kānāi.” There is a story that once in Vṛndāvana, as Ṭhākura Kānāi danced, overwhelmed by the bliss of *kīrtana*, an anklet vanished from his right foot. Ṭhākura Kānāi then said, “Wherever this anklet has fallen, there I will live.” It is said that the anklet fell in a village called “Bodhakhānā” in Yaśohara district, and from then on Ṭhākura Kānāi came to live at Bodhakhānā.
 
 ---
 
 [^25-1]: The edition reads *revata-vaṁśa*, “the line of Revata” (Revata, also called Kakudmī, is Revatī's father). Possibly *revaty-aṁśa* should be read: “born of portions of Vāruṇī and Revatī.”
 
 [^35-1]: So in the edition. The *Caitanya-bhāgavata* itself (Madhya, Chapter 1) apparently reads “of the Prabhu's father,” that is, Jagannātha Miśra: Ratnagarbha Ācārya was his fellow villager from Śrīhaṭṭa.
+
+[^40-1]: So in the edition (*dvādaśa varṣera*, “of twelve years”). Yet just below it says that in his fifth year the child had already gone with Mother Jāhnavā to Vṛndāvana.
