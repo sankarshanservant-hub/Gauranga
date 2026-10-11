@@ -108,6 +108,10 @@ This incident is among those left out of the *Caitanya-bhāgavata* and supplied 
 
 To take objects of food for oneself is merely an activity of the material kind; there is no service to Hari in it. The *nirviśeṣa-vādīs* mistakenly regard things favorable to Kṛṣṇa's service as being of the same nature as unfavorable things. Such a notion is an utterly mistaken, immature expression of mundane conclusions. Through His mother's mouth, with the simple example of clay and a pot, Mahāprabhu showed how worthless such foolish impersonal thinking is.
 
+## 36
+
+> Subheading: In various ways He manifests pastimes of majesty —
+
 ## 37
 
 > Subheading: He eats the pilgrim brāhmaṇa's rice and delivers him —
