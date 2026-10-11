@@ -107,3 +107,15 @@ One day Mahāprabhu was describing to the devotees the boundless glory of the ho
 ## 76
 
 O Uddhava! As strong devotion to Me can win Me over, so I am not won over by *aṣṭāṅga-yoga*, by *sāṅkhya-jñāna* — the doctrine of non-difference from Brahman, by *svādhyāya* — a brāhmaṇa's study of his own branch of the Veda, by every kind of austerity, or by *sannyāsa* and the like, which is renunciation.
+
+## 78
+
+Where am I, a great sinner and a pauper, and where is Kṛṣṇa, the abode of Śrī! Knowing me to be an unworthy son of a brāhmaṇa, He embraced me. This is truly astonishing.
+
+## 79–86
+
+One day the Lord, tired from the city *kīrtana* with the devotees, came to a certain place and planted a mango seed in the courtyard of the devotee who lived there. At once it bore fruit, and a mango festival took place. That place is now known as “Āmraghaṭṭa” (“Āmaghāṭā”).
+
+## 89
+
+One day Mahāprabhu was performing *saṅkīrtana* far away, and at that time the sky was massed with clouds. The Lord willed the clouds to go and ordered them away, and they at once dispersed. For this reason that sandbank of the Gaṅgā came to be called “Megher Car” (“the Cloud Sandbank”). Now, because the Gaṅgā has changed its course, that “Megher Car” has shifted to the village of “Belpukhuriyā.” And the place where Belpukhuriyā used to be is now called “Tāraṇavāsa” and “Ṭoṭā.”

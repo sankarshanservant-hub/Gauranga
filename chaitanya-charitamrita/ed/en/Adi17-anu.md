@@ -230,6 +230,58 @@ The glory of Śrī Nāma Prabhu is non-different from Kṛṣṇa Himself. To co
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 14, Verse 20)
 
+Śrī Kṛṣṇa said to Uddhava: O **uddhava**, **yogaḥ** (*yama*, *niyama*, *āsana*, *prāṇāyāma* and the rest, born of the restraint of the breath), **sāṅkhyam** (the enumeration of the *tattvas* taught by Kapila), **dharmaḥ** (the *dharma* of *varṇa* and *āśrama*), **svādhyāyaḥ** (study of the Veda), **tapaḥ**, **tyāgaḥ** (*sannyāsa*) **tathā** (so) **mām** **na sādhayati** (do not win Me over), **yathā** (as) **mama** **ūrjitā** (intensified) **bhaktiḥ** **mām** (wins Me over).
+
+## 77
+
+> Subheading: Praise of Murāri —
+
+## 78
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 81, Verse 14)[^78-1]
+
+## 77–78
+
+Mahāprabhu said to Murāri, “By your *prema* and devotion you have brought Kṛṣṇa under your control.”[^77-1] In reply Murāri recited the verse from the *Bhāgavata* spoken by the brāhmaṇa “Sudāmā.”
+
+These were the words the brāhmaṇa “Śrīdāmā,” or “Sudāmā,” spoke to himself as he went home: **daridraḥ** (devoid of wealth) **pāpīyān** (sinful) **aham** **kva** (where)? **śrī-niketanaḥ** (the form in whom all majesty is rooted, the shelter of all piety) **kṛṣṇaḥ** **kva** (where)? **aham** **brahma-bandhuḥ** (the lowest of brāhmaṇas by birth) **iti** — thus (by Kṛṣṇa) **bāhubhyām** **parirambhitaḥ** (embraced). (The words that Kṛṣṇa could never embrace me, an unworthy *brahma-bandhu*, show only Kṛṣṇa's greatness; the sentence expresses the speaker's humility.)
+
+If Murāri accepted Mahāprabhu's words favorably, he recited the verse with this thought: “Murāri has no power to bring Kṛṣṇa under control; it is Kṛṣṇa who, by His own love for His devotees, on the pretext of something incidental and secondary, makes an unworthy servant the recipient of unimaginable good fortune.”
+
+If, however, Murāri recited the verse to set aside Mahāprabhu's words as unfavorable to himself, then he said, “I am wholly unfit to control Kṛṣṇa; I have not been able to control Kṛṣṇa.” The brāhmaṇa Śrīdāmā listed his own disqualifications — poverty, a bent toward sin, not being a true brāhmaṇa and so on — and proclaimed his good fortune: Kṛṣṇa embraced him. But Murāri Gupta thinks, “Even in that way I am unworthy.”
+
+In the commentary on the tenth canto, the *Vaiṣṇava-toṣaṇī*, the meaning of the verse is explained thus: “*Kva*, and so on. **Pāpīyān**: unfortunate; **kṛṣṇaḥ**: Bhagavān Himself. Thus ‘Kṛṣṇa’ and ‘most sinful’ contradict each other, and so do ‘poverty’ and ‘abode of Śrī.’ Nevertheless, **brahma-bandhuḥ**, born in a family of brāhmaṇas, **bāhubhyām**, with both arms, **parirambhitaḥ**, embraced. **Sma** expresses wonder. Thus brāhmaṇa birth alone is named as the cause of the embrace, not friendship, for there he considered himself utterly unworthy. Therefore it is only the Lord's devotion to brāhmaṇas that is praised, not even His love for His devotees.”
+
+In the preceding verse Sudāmā's mood is recorded thus: “With the chest on which Kamalā, dearer to Him than life, resides — with that chest Brahmaṇya-deva, out of love for brāhmaṇas, embraced a pauper like me, bereft of Lakṣmī.” In keeping with the mood of that verse, the commentary on the following verse, quoted here, says: “The cause of the embrace is brāhmaṇa birth alone, not friendship.” And the brāhmaṇa Śrīdāmā in his humility thinks: “I myself am utterly unworthy; I myself do not live as a brāhmaṇa. It is only the Lord, to show the excellence of devotion to brāhmaṇas and His own excellence, who has shown such love even to a *brahma-bandhu* — that is what is astonishing.” The brāhmaṇa Śrīdāmā, wishing to express his humility and his own insignificance, condemned himself as a “*brahma-bandhu*.” And by saying that Kṛṣṇa shows extraordinary grace even to a *brahma-bandhu*, he truly revealed his humility and his brāhmaṇa nature. By this the brāhmaṇa Sudāmā set a shining example of giving up one's own greatness. Being a *brahma-bandhu* is not his own quality or his own achievement; rather, being a *brahma-bandhu* is something extraneous — that which, for the brāhmaṇa Sudāmā, is not his own property, is itself the cause of Kṛṣṇa's love. Neither his own greatness nor his own devotion to Kṛṣṇa compelled Kṛṣṇa to act so.
+
+Murāri Gupta, too, adopted such a mood: covering his own greatness, he displayed humility. In the social view of that time Murāri Gupta was merely a *śūdra* by birth, and the word “*brahma-bandhu*” does not apply to him. But reflecting on the import of the verse “Women, *śūdras* and *dvija-bandhus* have no access to hearing the three Vedas” (*Śrīmad-Bhāgavatam* 1.4.25), Murāri Gupta likened the position of a *dvija-bandhu* to that of a *śūdra*.
+
+In his commentary on the *Chāndogya Upaniṣad*, Śaṅkarācārya, explaining the word *brahma-bandhu*, says: “He calls the brāhmaṇas his kinsmen, but does not himself live as a brāhmaṇa.” (*Śrīmad-Bhāgavatam* 1.7.57): “Shaving the head, seizing one's wealth, expelling one from one's dwelling — this is the execution of *brahma-bandhus*; there is no other, bodily execution for them.” In the *Kūrma Purāṇa*: “The servant of a *śūdra*, a servant of the king, a *vṛṣala*, a priest for a whole village, and one who lives by killing and imprisoning — these six are *brahma-bandhus*.” Being a *brahma-bandhu*, that is, a brāhmaṇa merely by birth, is no proof of one's own qualification; rather, it proves only dependence on something else.
+
+## 79
+
+> Subheading: The story of how the Lord planted a mango tree and gave out its fruit —
+
+## 79–86
+
+This incident is not in the *Śrī Caitanya-bhāgavata*.
+
+## 89
+
+> Subheading: During the *kīrtana* the Lord keeps the clouds from raining —
+
+*Caitanya-maṅgala*, Madhya-khaṇḍa: “The day was done, evening came, the far horizons grew lovely[^89-1]. Suddenly clouds overspread the vault of the sky; thunder rolls again and again with a deep roar. Seeing this, the Vaiṣṇavas took it for a calamity. Then Mahāprabhu took cymbals in His hands and loudly sang the *saṅkīrtana* of the names and qualities. Thinking, ‘I shall bless the world of the gods,’ the Lord turned His face up to the sky. The clouds went far away, the sky cleared, and the Vaiṣṇavas' joy grew. The night became pure, tinted by the moon. His followers sing His qualities, and He Himself dances.”
+
+## 90
+
+> Subheading: Śrīvāsa reads the *Viṣṇu-sahasra-nāma* —
+
 ---
 
 [^31-1]: So in the edition: *taror api*; the verse reads *taror iva*.
+
+[^77-1]: The verse translation reads otherwise: “You have pleased Lord Kṛṣṇa.”
+
+[^78-1]: In the numbering now accepted, 10.81.16.
+
+[^89-1]: Unclear passage: “সন্ধ্যা ধন্য দিগন্তর” (literally “evening, the horizons blessed”); the translation is tentative.
