@@ -56,6 +56,18 @@ One night in the house of Śrī Candraśekhara Ācāryaratna the Lord assumed th
 
 ***Doṣodgāra*** — blaming with mockery.
 
+## 265
+
+According to the scriptures, when a brāhmaṇa accepts *sannyāsa*, everyone — householders, brāhmaṇas and all the rest — bows to him with the thought of a *sannyāsī*, that is, knowing that a *sannyāsī* is worthy of obeisance. If I accept *sannyāsa*, the blaspheming brāhmaṇas will surely bow down to Me and receive good sense from Me.
+
+## 272
+
+At the end of Mahāprabhu's twenty-fourth year, on the day of the *saṅkramaṇa* (the sun's passage into a new sign) that begins the *uttarāyaṇa* and that fell in the bright fortnight of Māgha, Mahāprabhu left Śrī Navadvīpa at the end of the night. He swam across the Gaṅgā at “Nidayā's Ghāṭa,” reached Kaṇṭakanagara, that is, the village of Kāṭoyā, and accepted (one) *daṇḍa* from Keśava Bhāratī. On Mahāprabhu's order Candraśekhara Ācāryaratna performed all the ritual parts of *sannyāsa*. The *kīrtana* went on all day, and only when the day was nearly over was the shaving of the head completed. The next morning Śrī Kṛṣṇa Caitanya, dressed as a *sannyāsī* and bearing the *daṇḍa*, set out to wander through Rāḍha-deśa. Keśava Bhāratī went with Him for some distance.
+
+## 275
+
+***Caturvidha bhakta-bhāva*** (the four kinds of devotees' moods) — the four kinds of devotional mood based on the *rasas* of *dāsya*, *sakhya*, *vātsalya* and *madhura*.
+
 ---
 
 [^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”

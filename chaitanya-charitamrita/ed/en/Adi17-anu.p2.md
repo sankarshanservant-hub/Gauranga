@@ -290,6 +290,88 @@ This incident does not appear in the *Caitanya-bhāgavata*.
 
 > Subheading: The students speak harshly of the Lord and grow angry —
 
+## 256
+
+> Subheading: A plot to beat the Lord —
+
+## 257
+
+> Subheading: For their enmity toward the Lord they lose their learning and intelligence —
+
+For (*Śvetāśvatara Upaniṣad* 6.23): “Only to the great soul whose supreme devotion is for God, and for the guru as for God, are the meanings of these words revealed.” That is, the true meaning of these Śrutis, whose import is devotion to Hari, is revealed only in the pure heart of that great soul whose supreme (causeless and uninterrupted) devotion is for Viṣṇu, his supreme Deity, and equally for Śrī Gurudeva, the best of His servants. In no other heart is it revealed.
+
+Śrī Prahlāda's words (*Śrīmad-Bhāgavatam* 7.5.24): “If a person, having offered himself to Viṣṇu, performs the ninefold devotion directly for Bhagavān, I consider that the best learning.” Śrīdhara's commentary: “If it is performed already offered, and not first performed and offered afterward, I consider that the best learning. The sense is: nothing of that kind have I studied or learned from this teacher.” That is, first self-surrender, then the activity of serving Hari — this alone is the rule. Only then may the study of scripture be considered the best. No learning or study can be higher than worship of Viṣṇu preceded by self-surrender.
+
+Under the sway of ignorance (*avidyā*), the proud man who prides himself on worldly learning disregards Viṣṇu, the life of the bride of transcendental knowledge. Since that hypocrite does not surrender to Viṣṇu, the eternal, real Substance, knowledge does not dawn in his heart, stained with sin. Therefore it is said (*Śrīmad-Bhāgavatam* 11.11.18): “If one expert in the *śabda-brahman* is not absorbed in the Supreme, his labor yields him only labor, like one who tends a cow that gives no milk.” If someone, though thoroughly versed in the Vedas and other scriptures, is not devoted to Viṣṇu, the Parabrahman, all his labor in studying scripture ends only in useless toil.
+
+## 259
+
+> Subheading: Seeing the wretched fate of the *pāṣaṇḍīs*, the Lord is filled with compassion —
+
+## 260
+
+> Subheading: Who the nondevotees are —
+
+## 261
+
+> Subheading: The Lord ponders how to free them from the offense of enmity toward Kṛṣṇa —
+
+## 262
+
+The *Caitanya-bhāgavata*, Madhya, Chapter 25: “I tried to cure the phlegm with bits of *pippalī*, but instead the phlegm in the body only increased.”
+
+## 247–263
+
+A *smārta* student sunk in *karma* could not understand that the Lord's anger toward Kṛṣṇa and His reproaches of Kṛṣṇa in the mood of a *gopī* were transcendental, and he argued with the Lord. The Lord, full of the mood of a *gopī*, took him for Kṛṣṇa's partisan and angrily chased him, and the student fled. Seeing this, the so-called brāhmaṇas (*brāhmaṇa-bruvas*), sunk in *karma* and averse to Hari, deluded as they were, plotted to beat the Lord. And the Lord, to free them from their evil fate and misery, wished to accept the fourth *āśrama* — the *āśrama* of the guru of those who, in the eyes of worldly society, are highest in birth and proud of their *varṇa*. See the *Caitanya-bhāgavata*, Madhya, Chapter 25.
+
+## 264
+
+> Subheading: The Lord wishes to deliver the *pāṣaṇḍīs* —
+
+## 265
+
+> Subheading: The resolve to enact the pastime of *sannyāsa*, honored by the world —
+
+## 266
+
+> Subheading: By bowing to the Lord as a *sannyāsī*, even the *pāṣaṇḍīs* — brāhmaṇas and other high castes — will be purified in heart, and the urge to serve will awaken in them —
+
+## 265–266
+
+Mahāprabhu was convinced that even so-called brāhmaṇas, *pāṣaṇḍīs* by nature, would prostrate themselves before a Vaiṣṇava *sannyāsī*; and in those days such was proper conduct (*sadācāra*) as well. Nowadays, however, there are people even more arrogant than those so-called brāhmaṇas, who do not prostrate themselves before a Vaiṣṇava *sannyāsī*. For them the scripture enjoins: “A man who sees a Deity or a *tridaṇḍī yati* and does not bow down must perform atonement.” (A variant reading: “…if he does not bow down, he is purified by fasting.”) That is, if some so-called brāhmaṇa sees the Deity of Śrī Viṣṇu, the supreme Godhead, or a Vaiṣṇava *tridaṇḍi-sannyāsī* and does not bow down, then for that lapse he must perform atonement or be purified by fasting.
+
+## 268
+
+> Subheading: At that time Keśava Bhāratī accepts alms in the Lord's house in Navadvīpa —
+
+## 270
+
+> Subheading: The Lord appeals to Bhāratī —
+
+## 271
+
+> Subheading: Bhāratī's words —
+
+## 272
+
+> Subheading: Bhāratī returns to Kāṭoyā, and the Lord accepts *sannyāsa* from him —
+
+## 273
+
+> Subheading: At the Lord's *sannyāsa*: Nitāi, Ācāryaratna and Mukunda —
+
+## 274
+
+See the *Caitanya-bhāgavata*, Madhya, Chapter 26.
+
+## 275
+
+> Subheading: The Lord's states of heart in the moods of *dāsya*, *sakhya*, *vātsalya* and *madhura* (but not *śānta*) —
+
+## 276
+
+> Subheading: Gaurasundara is Himself the *viṣaya-vigraha*, filled with the *bhāva* of the *āśraya*; refutation of the “Gaura-nāgarī” doctrine —
+
 ---
 
 [^230-1]: In the *smṛti*, a *golaka* is a son born to a widow after her husband's death (*Manu-saṁhitā* 3.174).
