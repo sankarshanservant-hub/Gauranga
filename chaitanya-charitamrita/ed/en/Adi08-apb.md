@@ -58,6 +58,18 @@ If someone takes shelter of Caitanya and Nityānanda with faith, all his past of
 
 Nārāyaṇī was the daughter of Śrīvāsa Paṇḍita's brother. As a child she used to receive the remnants of Mahāprabhu's meal at the end of *kīrtana*.
 
+## 57
+
+Kṛṣṇa's general good qualities are fifty. These fifty qualities are described in the verse “*ayaṁ netā suramyāṅgaḥ*…” (“This Hero has a most beautiful body…”) and following (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, First Wave).
+
+## 58
+
+In one who has exclusive devotion (*kevalā bhakti*) to Śrī Kṛṣṇa, all the gods reside with all good qualities. But the mind of one devoid of devotion to Hari always runs toward false, external objects. Great qualities are impossible for him.
+
+## 59
+
+“Paṇḍita Gosāñi” is Śrī Gadādhara Paṇḍita.
+
 ---
 
 [^19-1]: The verse translation reads differently: the verse is given there as the words of Śukadeva Gosvāmī to Mahārāja Parīkṣit (*Śrīmad-Bhāgavatam* 5.6.18; so also in the *Anubhāṣya*), and it says that the Lord gives *bhakti-yoga* to no one.

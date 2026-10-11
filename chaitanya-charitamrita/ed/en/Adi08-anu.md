@@ -164,6 +164,80 @@ The *Śrīmad-Bhāgavatam* is the original source of the conclusions of devotion
 
 > Subheading: By a single book he delivered the world —
 
+## 41
+
+> Subheading: Śrī Vṛndāvana dāsa, the son of Nārāyaṇī, the recipient of the Lord's mercy —
+
+Śrī Kavi-karṇapūra writes about Śrī Nārāyaṇī Devī in the *Śrī Gaura-gaṇoddeśa-dīpikā*: “The sister of Ambikā, named Śrīla Kilimbikā, who ate the remnants of Kṛṣṇa's food, is considered to be this Nārāyaṇī.” Ambikā is Śrī Kṛṣṇa's nurse, and her sister is Kilimbikā. She used to eat Kṛṣṇa's remnants. She herself, in the avatāra of Śrī Gaura, is “Nārāyaṇī Devī.”
+
+Ṭhākura Śrī Vṛndāvana is the son born of Nārāyaṇī, the niece of Śrīvāsa. His mother, the Ṭhākurāṇī, ate the remnants of Śrī Gaurasundara's meals (*vighasāśī*), that is, she received His mercy. The Ṭhākura Mahāśaya is known through her. And since naming one's forefathers is not needed to introduce a Vaiṣṇava, they have been left out here.
+
+## 42
+
+> Subheading: By describing the life of Gaura he delivered the world —
+
+## 43
+
+> Subheading: Auspiciousness lies only in worshipping Nitāi-Gaura; hence the appeal to the *jīvas* —
+
+## 44
+
+> Subheading: Ṭhākura Vṛndāvana described Gaura's pastimes first briefly, as *sūtras*, and then in detail —
+
+## 47
+
+> Subheading: But fearing the book would grow too large, he did not wish to expand the *sūtras* —
+
+## 48
+
+> Subheading: Absorbed in describing Nitāi's pastimes, he left the description of Gaura's final pastimes incomplete —
+
+## 49
+
+> Subheading: The residents of Vṛndāvana wish to hear of Gaura's final pastimes —
+
+## 50
+
+> Subheading: A description of the service of Śrī Govinda on a jeweled throne beneath the wish-fulfilling tree —
+
+## 54
+
+> Subheading: A description of the virtues of Śrī Haridāsa Paṇḍita, the superintendent of His service —
+
+Paṇḍita Haridāsa: his gurudeva was Śrī Ananta Ācārya, a disciple of Śrī Gadādhara Paṇḍita Gosvāmī. See verses 59–65 below and the *Anubhāṣya* on them.
+
+## 58
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 5, Chapter 18, verse 12)
+
+Describing the qualities of the great devotee Prahlāda, Śrī Śukadeva says to Mahārāja Parīkṣit:
+
+**yasya** (of which devotee) **bhagavati** (for Śrī Viṣṇu) **akiñcanā** (free from selfish desire) **bhaktiḥ** (the inclination to serve in a way favorable to Him) **asti** (there is), **tatra** (in that devotee) **surāḥ** (all the gods) **sarvaiḥ** **guṇaiḥ** (with the whole multitude of good qualities) **samāsate** (fully reside, dwell eternally). **asati** (in the transient happiness of sense objects) **mano-rathena** (by the mind's desires) **bahiḥ** **dhāvataḥ** (of one bent on enjoyment) **harau** **abhaktasya** (of one not devoted to Hari — one who follows the path of other desires, karma, *jñāna* or yoga; and so of a person attached to home and the like, since for him devotion to Hari is impossible) **kutaḥ** **mahad-guṇāḥ** (the qualities of the great — knowledge, renunciation and the rest, or the multitudes of excellent virtues; supply “can arise”).
+
+## 59
+
+> Subheading: Who Paṇḍita Haridāsa was, and his guru-paramparā —
+
+## 61
+
+> Subheading: His attachment to Nitāi and Gaura —
+
+## 62
+
+> Subheading: Deep love for the Vaiṣṇavas —
+
+## 59–60
+
+Sudevī-sakhī, one of the eight *sakhīs*, is in the avatāra of Gaura (1) Śrī Ananta Ācārya, as stated in the *Gaura-gaṇoddeśa* (verse 165): “Ananta Ācārya Gosvāmī was formerly Sudevī in Vraja.” The famous “Gaṅgāmātā Maṭha” in Śrī Puruṣottama is one branch of his line. In the guru-paramparā of that *maṭha* he is called “Vinoda Mañjarī.” (2) His disciple is Śrī Haridāsa Paṇḍita Gosvāmī, also called “Śrī Raghu Gopāla” — Śrī Rāsa Mañjarī. His disciple was (3) Śrī Lakṣmīpriyā (the aunt of Gaṅgāmātā, the wife of her maternal uncle). (4) Śrī Gaṅgāmātā was the daughter of the king of Puṭiyā. She brought the Deity “Śrī Rasika-rāya” from Kṛṣṇa Miśra of Jaipur and established His service in Puruṣottama, in the house of Sārvabhauma. (5) Śrī Vanamālī, (6) Śrī Bhagavān dāsa (of Bengal), (7) Śrī Madhusūdana dāsa (of Orissa), (8) Śrī Nīlāmbara dāsa, (9) Śrī Narottama dāsa, (10) Śrī Pītāmbara dāsa, (11) Śrī Mādhava dāsa, (12) his disciple — at present the *mahānta* of the Gaṅgāmātā Maṭha.
+
+## 63
+
+> Subheading: He reads the *Caitanya-bhāgavata* in the assembly of Vaiṣṇavas —
+
+## 65
+
+> Subheading: The order to the author to describe Gaura's final pastimes —
+
 ---
 
 [^24-1]: *Śivasya* can also be read as “of Śiva”; it then refers to one who sees the names and qualities of Śiva as different from Śrī Viṣṇu, that is, as independent. In the explanation below Bhaktisiddhānta gives both readings.
