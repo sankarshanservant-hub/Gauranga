@@ -27,3 +27,7 @@ Rāmadāsa is Abhirāma dāsa.
 ## 14–15
 
 These two are like Nityānanda's own associates. When Mahāprabhu ordered Nityānanda Prabhu to go to Gauḍa, He sent Rāmadāsa and Gadādhara dāsa with Him. So these two were counted once among Mahāprabhu's associates, and now they are counted among Nityānanda's as well. Mādhava and Vāsu Ghoṣa are likewise counted in both groups.
+
+## 20
+
+Murāri-Caitanyadāsa was born in the village of Sar-Vṛndāvanapura, one *krośa* from Galaśī station in Barddhamāna district. When he came to the village of Modadruma, or Māugāchi, in Navadvīpa-dhāma, he came to be called “Śārṅga” (Sāraṅga) Murāri-Caitanyadāsa. His descendants still live at the *pāṭa* of Sar.
