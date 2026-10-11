@@ -1786,3 +1786,238 @@
   cc: "Ади 7"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi07.md", from: "168", to: "171"}
+
+# --- Ади 8: Повеление вайшнавов ---
+- id: cc-0089
+  source: cc
+  ref: "Ади 8.1–6"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 610
+  title: "Мангалачарана восьмой главы: по воле Чайтаньи глупец танцует на сцене письма; слава Панча-таттве"
+  summary: "Автор кланяется Шри Чайтанье, по воле Которого даже он, глупец, пляшет на сцене писательства; слава Шри Кришна Чайтанье, Нитьянанде, Адвайте, Гададхаре, Шривасу и всем преданным; памятуя о Них, немой становится поэтом, хромой переходит горы, слепой видит звёзды; учёность тех, кто этого не признаёт, — кваканье лягушек."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "1", to: "6"}
+
+- id: cc-0090
+  source: cc
+  ref: "Ади 8.7–9"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 620
+  title: "Кто не признаёт Шри Чайтанью, тот, как Джарасандха, — дайтья"
+  summary: "Кто не признаёт Панча-таттву, хоть и служит Кришне, не обретает милости Кришны и цели; как Джарасандха и другие цари, исполнявшие ведическую дхарму и поклонявшиеся Вишну, но не признававшие Кришну, считаются демонами, так и не признающий Чайтанью — демон."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva]
+  cc: "Ади 8"
+  event: ev-tattva-rejecting-chaitanya-asura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "7", to: "9"}
+
+- id: cc-0091
+  source: cc
+  ref: "Ади 8.10–11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: P07
+  order: 139.5
+  title: "Господь принимает санньясу, чтобы и не признающие Его поклонились Ему как санньяси"
+  summary: "«Не признав Меня, все люди погибнут», — подумал милосердный Господь и принял санньясу: «Кланяясь Мне хотя бы как санньяси, они избавятся от страданий и обретут освобождение»."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание: мотив санньясы (подробно — Ади 7.31–39, Ади 17)."
+  themes: [sannyasa, mercy]
+  bhava: [sannyasi]
+  years: [1509, 1510]
+  age: [23, 24]
+  date_conf: вероятно
+  date_basis: "Ади 7.34: санньяса — на 25-м году жизни (магха 1510)"
+  cc: "Ади 8"
+  event: ev-students-offend-sannyasa-resolve
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "10", to: "11"}
+
+- id: cc-0092
+  source: cc
+  ref: "Ади 8.12–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 630
+  title: "Не поклоняющийся милостивому Чайтанье — асура; «с поднятыми руками: оставьте кутарку»"
+  summary: "Кто не поклоняется столь милостивому Чайтанье, тот, будь он лучшим из людей, причислен к асурам; автор, воздев руки, вновь призывает оставить пустые доводы и поклоняться Чайтанье и Нитьянанде; если логик скажет, что почитать следует лишь доказанное логикой, — пусть рассмотрит милость Шри Кришна Чайтаньи и изумится."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  cc: "Ади 8"
+  event: ev-tattva-rejecting-chaitanya-asura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "12", to: "15"}
+
+- id: cc-0093
+  source: cc
+  ref: "Ади 8.16–21"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 640
+  title: "Кришна скрывает бхакти, а Шри Чайтанья раздаёт прему всем, даже Джагаю и Мадхаю"
+  summary: "Можно много рождений слушать и воспевать, но не обрести премы к стопам Кришны: освобождение даётся знанием, наслаждение — жертвами, а бхакти труднодостижима даже тысячами садхан; Кришна, одарив преданного бхукти и мукти, ускользает, а бхакти скрывает (Бхаг. 5.6.18); такую прему Шри Чайтанья раздавал повсюду — даже Джагаю и Мадхаю: независимый Господь раздал сокровенную сокровищницу всем без разбора."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@krishna", "@jagai-madhai"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Джагай и Мадхай — упоминание (ev-jagai-madhai-deliverance)."
+  themes: [teaching, mercy]
+  teaching: [prema, bhakti-supremacy, gaura-tattva]
+  scriptures: ["Бхакти-расамрита-синдху 1.1.36", "Шримад-Бхагаватам 5.6.18"]
+  cc: "Ади 8"
+  event: ev-tattva-chaitanya-gives-rare-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "16", to: "21"}
+
+- id: cc-0094
+  source: cc
+  ref: "Ади 8.22–32"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 650
+  title: "Имя Кришны и оскорбления; имена Чайтаньи и Нитьянанды дают прему без учёта оскорблений"
+  summary: "И поныне, кто произносит имя Чайтаньи, охвачен любовью к Кришне — трепет и слёзы; при имени «Нитьянанда» пробуждается према и текут слёзы, как Ганга; имя Кришны учитывает оскорбления: у оскорбителя нет изменений любви (Бхаг. 2.3.24); одно имя Кришны уничтожает все грехи, являет бхакти — причину премы, легко прекращает самсару и даёт служение Кришне, но если при многократном повторении нет премы и слёз, значит, оскорблений много и семя имени не прорастает; у Чайтаньи и Нитьянанды такого рассмотрения нет — Они дают прему при одном имени; не поклоняющийся независимому и великодушному Господу не освободится."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy]
+  teaching: [holy-name, gaura-tattva, prema]
+  scriptures: ["Шримад-Бхагаватам 2.3.24"]
+  cc: "Ади 8"
+  event: ev-tattva-gaura-nitai-names-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "22", to: "32"}
+
+- id: cc-0095
+  source: cc
+  ref: "Ади 8.33–40"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 660
+  title: "Вриндаван дас — Вьяса лил Шри Чайтаньи; величие «Чайтанья-мангалы»"
+  summary: "Глупцы, слушайте «Чайтанья-мангалу»: как Ведавьяса поведал игры Кришны в «Бхагаватам», так Вриндаван дас — Вьяса лил Чайтаньи; слушание его книги уничтожает всё дурное, раскрывает величие Чайтаньи и Нитая и предел сиддханты бхакти, сути «Бхагаватам»; услышав её, даже пашанди и явана становятся великими вайшнавами; человеку не написать такой книги — устами Вриндавана даса говорит Сам Шри Чайтанья; миллионы поклонов его стопам — он спас мир."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@vyasa"]
+  places: []
+  kind: author
+  authority: A
+  notes: "«Чайтанья-мангала» — первоначальное название «Чайтанья-бхагаваты»."
+  themes: [author]
+  teaching: [scripture]
+  cc: "Ади 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "33", to: "40"}
+
+- id: cc-0096
+  source: cc
+  ref: "Ади 8.41"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: P12
+  order: 130
+  title: "Нараяни, вкусившая остатки трапезы Чайтаньи, — мать Вриндавана даса"
+  summary: "Нараяни удостоилась остатков пищи Шри Чайтаньи, и из её лона родился Шри Вриндаван дас."
+  persons: ["@narayani", "@vrindavana-dasa", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; дарование остатков Нараяни — ev-narayani-remnants."
+  themes: [prasada, family]
+  cc: "Ади 8"
+  event: ev-vrindavana-dasa-birth
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "41", to: "41"}
+
+- id: cc-0097
+  source: cc
+  ref: "Ади 8.42–48"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 670
+  title: "«Чайтанья-мангала»: сначала сутра, потом подробности; последние лилы остались неописанными"
+  summary: "Описание лил Чайтаньи у Вриндавана даса очищает три мира — поклоняйтесь Чайтанье и Нитьянанде; он изложил все лилы сначала кратко, как сутру, затем подробно; лилы бесконечны, книга разрослась, и, смутившись её объёмом, он не описал часть игр, упомянутых в сутре; погрузившись в описание игр Нитьянанды, он оставил последние лилы Чайтаньи."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "42", to: "48"}
+
+- id: cc-0098
+  source: cc
+  ref: "Ади 8.49–72"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: P15
+  order: 80
+  title: "Харидас Пандит, служитель Говинды, и вайшнавы Вриндавана велят автору описать последние лилы"
+  summary: "Вайшнавы Вриндавана жаждут услышать о последних лилах; во Вриндаване под древом желаний — золотой храм, маха-йогапитха и трон, где восседает Говинда-дева — Сам трансцендентный Мадана; там тысячи слуг совершают царское служение, управитель которого — Харидас Пандит, ученик Ананты Ачарьи (ученика Гададхары Пандита), украшенный пятьюдесятью качествами Кришны (Бхаг. 5.18.12), всегда слушающий «Чайтанья-мангалу»; он по милости велел автору описать последние лилы Гауранги; того же пожелали Говинда Госани (ученик Кашишвары), Ядавачарья, спутник Рупы, Бхугарбха (ученик Гададхары) и его ученики Чайтанья дас, Мукундананда Чакраварти и Кришнадас, Шивананда Чакраварти (ученик Ачарьи Госани) и другие; по их слову автор пишет, отбросив стыд."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-pandita-govinda", "@govinda-deity", "@ananta-acharya", "@gadadhara-pandita", "@govinda-gosani", "@kashishvara", "@yadavacharya-gosani", "@rupa-gosvami", "@bhugarbha", "@chaitanya-dasa-pujari", "@mukundananda-chakravarti", "@krishnadasa-premi", "@shivananda-chakravarti", "@vrindavana-dasa"]
+  places: ["#vrindavana", "#gomatila"]
+  kind: post-advent
+  authority: A
+  notes: "Ананта Ачарья здесь — ученик Гададхары Пандита (8.59); «Ачарья Госани» в 8.70 ВЧД толкует как Ананту Ачарью. Йогапитха Говинды отмечена как #gomatila."
+  themes: [author, deities]
+  teaching: [vaishnava]
+  scriptures: ["Шримад-Бхагаватам 5.18.12"]
+  cc: "Ади 8"
+  event: ev-kaviraja-ordered-to-write-cc
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "49", to: "72"}
+
+- id: cc-0099
+  source: cc
+  ref: "Ади 8.73–80"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: P15
+  order: 81
+  title: "Гирлянда Мадана-Гопалы — позволение писать «Чайтанья-чаритамриту»"
+  summary: "Получив повеление вайшнавов, но тревожась, автор пошёл к Мадана-Гопале просить позволения; пуджари Госани дас служил стопам Божества; когда автор попросил позволения, с шеи Господа соскользнула гирлянда, вайшнавы воскликнули «Хари!», Госани дас надел её автору на шею, и с этой «гирляндой-повелением» он начал книгу; её пишет Мадана-мохан, а автор лишь повторяет, как попугай, как кукла пляшет в руках кукловода; Мадана-мохан, Которому служат Рагхунатха, Рупа и Санатана, — его семейное Божество."
+  persons: ["@krishnadasa-kaviraja", "@madana-mohana-vrindavana", "@gosani-dasa-pujari", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: A
+  notes: "Мадана-Гопала (8.73, 8.79) и Мадана-мохана (8.78, 8.80) — одно Божество Вриндавана."
+  themes: [author, deities]
+  cc: "Ади 8"
+  event: ev-kaviraja-ordered-to-write-cc
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "73", to: "80"}
+
+- id: cc-0100
+  source: cc
+  ref: "Ади 8.81–85"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md"
+  period: PX
+  order: 680
+  title: "Позволение Вриндавана даса; смирение автора; колофон восьмой главы"
+  summary: "Медитируя на стопы Вриндавана даса — Вьясы лил Чайтаньи, без милости которого их никто не явит, — и получив его позволение, автор пишет; он, глупый, низкий и жаждущий мирского, дерзает лишь силой повеления вайшнавов; сила стоп Рупы и Рагхунатхи исполняет все желания; колофон: Кришнадас, уповая на их стопы, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [vaishnava]
+  cc: "Ади 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "81", to: "85"}

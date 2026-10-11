@@ -269,3 +269,50 @@
   themes: [teaching, mercy, kirtan]
   teaching: [associates-tattva, prema, holy-name]
   notes: "Образ, не отдельный эпизод: пятеро вскрывают печать сокровищницы премы, пьют и раздают её без разбора достойных и мест; потоп любви топит мир и семя желаний; спаслись бегством лишь майявади, карми, лжелогики, хулители, пашанди и пандиты-грамотеи. Продолжение — ev-students-offend-sannyasa-resolve (санньяса ради них)."
+
+# Ади 8 — величие Шри Чайтаньи, Его имени и «Чайтанья-мангалы»; повеление вайшнавов автору.
+- id: ev-tattva-rejecting-chaitanya-asura
+  title: "Не признающий Шри Чайтанью — асура; призыв оставить пустые доводы и поклоняться Чайтанье и Нитьянанде"
+  title_en: "One who does not accept Sri Chaitanya is an asura; the call to give up false argument and worship Chaitanya and Nityananda"
+  period: PX
+  order: 121
+  cc: "Ади 8.7–15"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  notes: "Богословская тема, не эпизод жизни: как Джарасандха, поклонявшийся Вишну, но не признававший Кришну, — дайтья, так и не признающий Чайтанью; санньяса Господа — ради тех, кто иначе Его не признал бы (ср. ev-students-offend-sannyasa-resolve); логику предлагается обратить на милость Шри Чайтаньи."
+
+- id: ev-tattva-chaitanya-gives-rare-prema
+  title: "Бхакти, которую Кришна скрывает, Шри Чайтанья раздаёт всем без разбора"
+  title_en: "The bhakti Krishna keeps hidden, Sri Chaitanya gives to all without discrimination"
+  period: PX
+  order: 122
+  cc: "Ади 8.16–21"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [prema, bhakti-supremacy, gaura-tattva]
+  notes: "Богословская тема, не эпизод жизни: прему не обрести и за много рождений слушания и воспевания; Кришна даёт бхукти и мукти, а бхакти прячет (Тантра / Бхакти-расамрита-синдху 1.1.36; Бхаг. 5.6.18); Шри Чайтанья раздал прему всем, даже Джагаю и Мадхаю (ev-jagai-madhai-deliverance)."
+
+- id: ev-tattva-gaura-nitai-names-prema
+  title: "Имя Кришны учитывает оскорбления, а имена Чайтаньи и Нитьянанды дают прему без этого"
+  title_en: "Krishna's name takes offenses into account, but the names of Chaitanya and Nityananda give prema regardless"
+  period: PX
+  order: 123
+  cc: "Ади 8.22–32"
+  cb: ""
+  themes: [teaching, ecstasy]
+  teaching: [holy-name, gaura-tattva, prema]
+  notes: "Богословская тема, не эпизод жизни: и поныне имя Чайтаньи и Нитьянанды пробуждает прему со слезами и трепетом; одно имя Кришны уничтожает грехи, даёт бхакти, прекращает самсару и дарует служение Кришне, но у оскорбителя не проявляются изменения любви (Бхаг. 2.3.24) — семя имени не прорастает; у Чайтаньи и Нитьянанды такого рассмотрения нет."
+
+- id: ev-kaviraja-ordered-to-write-cc
+  title: "Вайшнавы Вриндавана во главе с Харидасом Пандитом поручают Кришнадасу Кавирадже описать последние лилы; гирлянда Мадана-мохана"
+  title_en: "The Vaishnavas of Vrindavana led by Haridasa Pandita ask Krishnadasa Kaviraja to describe the final pastimes; the garland of Madana-mohana"
+  period: P15
+  order: 80
+  years: [1560, 1615]
+  date_conf: оценка
+  date_basis: "в ЧЧ дата не названа; окончание ЧЧ — по колофону ряда рукописей 1537 шака (1615 г.), по другим оценкам — ок. 1581 г.; начато после «Чайтанья-бхагаваты»"
+  cc: "Ади 8.49–80"
+  cb: ""
+  themes: [author, deities]
+  notes: "Рассказ автора о себе: Вриндаван дас, увлёкшись играми Нитьянанды, не описал последние игры Чайтаньи; Харидас Пандит, управитель служения Говиндадеве, и вайшнавы Вриндавана велят Кришнадасу писать; в храме Мадана-Гопалы (Мадана-мохана) с шеи Божества падает гирлянда — знак позволения, и автор начинает книгу."
