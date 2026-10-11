@@ -24,3 +24,7 @@ One and the same *māyā* is called “*pradhāna*” in its material portion (*
 
 See Ādi 2.30.
 
+## 39
+
+Advaita Prabhu was a disciple of Mādhavendra Purī, and His godbrother Īśvara Purī was Mahāprabhu's guru. Because of this relationship Mahāprabhu regards Ācārya Gosāñi as His “guru.” In truth Śrī Caitanya Gosāñi is the Lord of all, and Advaita Ācārya Prabhu is His servant. In this relationship Advaita Prabhu regarded Himself as a “servant.”
+

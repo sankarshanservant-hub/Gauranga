@@ -180,6 +180,8 @@ See Ādi 5.58–66; Madhya 20.259–261, 271, 276.
 
 > Subheading: Advaita Prabhu, a limb (*aṅga*) or part (*aṁśa*) of Bhagavān —
 
+See Ādi 3.67.
+
 ## 22
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 14, verse 14)
@@ -187,6 +189,8 @@ See Ādi 5.58–66; Madhya 20.259–261, 271, 276.
 ## 23
 
 > Subheading: Though a limb or a part, He is beyond *māyā* —
+
+See Ādi 3.69–70.
 
 ## 24
 
@@ -199,4 +203,62 @@ See Ādi 5.58–66; Madhya 20.259–261, 271, 276.
 ## 26
 
 > Subheading: Why the name “Ācārya” is fitting —
+
+## 27
+
+> Subheading: In His descent as Advaita, His one work is to preach devotion to Kṛṣṇa —
+
+## 26–28
+
+Although Advaita Prabhu is the Viṣṇu-*tattva*, the one who is served, He has no other duty and no other conduct than this: to awaken in the *jīvas* the inclination to serve, for that is what securing their good means. Bhagavān Viṣṇu saw that if He displayed His pastimes only as the one who is served, the pleasure-seeking people of the world would imitate Him and become godless *kevalādvaita-vādīs* or *ahaṅgrahopāsakas*, who worship themselves as God. Therefore He manifested the pastimes of a servant; displaying this kind of ācāryaship is also one of His works. The Ācārya has no work other than conduct turned toward the service of Kṛṣṇa. He behaves as the servant of the One who is served — that is why He is the ācārya; this is a particular pastime of a *naimittika-avatāra*. Wicked people try to defile the Ācārya's holy place and His dress and, instead of serving Bhagavān, launch into a wild dance (*tāṇḍava*) of gratifying their own senses. The Ācārya condemns this utterly.
+
+## 29
+
+Śrī Advaita Ācārya is the guru of the whole Vaiṣṇava world, and everyone honors Him. Following His lotus feet, the Vaiṣṇavas devoted to Bhagavān adopt His conduct and serve Hari.
+
+## 30
+
+> Subheading: Why the name “Kamalākṣa” is fitting —
+
+## 31
+
+> Subheading: In Vaikuṇṭha the Vaiṣṇavas attain a form like that of Viṣṇu —
+
+## 32
+
+> Subheading: The glory of Advaita Prabhu's qualities —
+
+## 33
+
+> Subheading: Advaita Prabhu calls Mahāprabhu down into the world —
+
+## 33–34
+
+See Ādi 3.91, 95–108.
+
+## 36
+
+> Subheading: One limb of Gaura is Advaita, another is Nitāi —
+
+## 37
+
+> Subheading: The subsidiary limbs (*upāṅgas*) and weapons — the devotees headed by Śrīvāsa —
+
+## 38
+
+> Subheading: With His limbs and subsidiary limbs Gaura preaches the holy name and *prema* —
+
+## 36–38
+
+See Ādi 3.71–74.
+
+## 39
+
+> Subheading: Gaura regards Advaita Prabhu as His guru —
+
+Śrī Mādhavendra Purī is one of the gurus of the Śrī Madhvācārya-sampradāya. His disciples are Īśvara Purī and Śrī Advaita Prabhu. The branch of the Śrī Gauḍīya Vaiṣṇavas in the succession of Śrī Madhva is cited in the *Śrī Gaura-gaṇoddeśa-dīpikā*, in the *Prameya-ratnāvalī* and in the book of Śrī Gopāla-guru Gosvāmī; it is also mentioned in the *Śrī Bhakti-ratnākara*. In the *Śrī Gaura-gaṇoddeśa-dīpikā* the branch of Śrī Madhva is described as follows: “The disciple of the Lord of Paravyoma was Brahmā, the master of the universe. His disciple became Nārada, and Nārada's disciple was Vyāsa. Śuka, having grasped knowledge, became the disciple of Vyāsa. From Vyāsa the renowned Madhvācārya received initiation into the mantra of Kṛṣṇa. His disciple was the great-hearted Padmanābhācārya. His disciple was Narahari, and his disciple the *brāhmaṇa* Mādhava. His disciple was Akṣobhya, and his disciple Jayatīrtha. His disciple was Jñānasindhu, and his disciple Mahānidhi. His disciple was Vidyānidhi, and his servant Rājendra. His disciple was the sage Jayadharma; from among his followers came Śrīmad Viṣṇu Purī, the author of the *Bhakti-ratnāvalī*. The disciple of Jayadharma was Brahmaṇya Puruṣottama. His disciple was Vyāsatīrtha, who composed the *Viṣṇu-saṁhitā*. His disciple was the glorious Lakṣmīpati, the abode of *bhakti-rasa*. His disciple was Mādhavendra, who inaugurated this *dharma*. His disciple was the glorious *sannyāsī* Īśvara Purī. He whose very nature is the fruit of *śṛṅgāra* cultivated *śṛṅgāra*; Advaita cultivated both fruits, *dāsya* and *sakhya*. Gaura respectfully accepted Īśvara Purī [as guru] and flooded the whole world, both material and transcendental [with *prema*].”
+
+## 40
+
+> Subheading: Following worldly custom, Gaura treats Advaita like a guru —
 
