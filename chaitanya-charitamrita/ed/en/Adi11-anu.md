@@ -213,3 +213,35 @@ Pālapāḍā lies in Nadīyā district, in the jungle, a mile south of Cākadah
 Śrī Maheśa Paṇḍita was with Śrī Nityānanda at the festival at Pāṇihāṭī, and after the festival he went with Śrī Nityānanda to Saptagrāma. The eighth wave of the *Bhakti-ratnākara* shows that when Śrī Narottama Ṭhākura came to Khaḍadaha, Śrī Maheśa Paṇḍita was present there.
 
 The temple of the *śrīpāṭa* is a simple house. In the dilapidated temple reside the sacred forms of Śrī Gaura-Nityānanda, Śrī Gopīnātha, Śrī Madana-mohana, Śrī Rādhā-Govinda and a *śālagrāma*. In front of the temple is the altar of Maheśa Paṇḍita's *phula-samāja* (flower tomb). Now the service is maintained only by begging. A local resident, Śrī Kālīkṛṣṇa Cakravartī, contributes 25 rupees a year. Śrī Maheśa Paṇḍita has no descendants. The present servitor is Śrī Sanātana dāsa Bābājī.
+
+## 33
+
+> Subheading: (18) Puruṣottama Paṇḍita (*gopāla* 8) —
+
+Puruṣottama Paṇḍita. *Caitanya-bhāgavata*, Antya, Chapter 6: “Paṇḍita Puruṣottama was born in Navadvīpa; he is a great servant of Nityānanda-svarūpa, close to His heart.” He is one of the twelve *gopālas*, “Stokakṛṣṇa.” In the *Gaura-gaṇoddeśa* (verse 130): “He who was formerly the friend Stokakṛṣṇa is the servant Śrī Puruṣottama.” Some say that his *śrīpāṭa* is at Sukhasāgara.
+
+## 34
+
+> Subheading: (19) Balarāma dāsa —
+
+Balarāma dāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “Balarāma dāsa, utterly intoxicated with the *rasa* of *prema*: even by the breeze that has touched him, all sins are destroyed.”
+
+## 35
+
+> Subheading: (20) Yadunātha Kavicandra —
+
+Yadunātha Kavicandra. *Caitanya-bhāgavata*, Antya, Chapter 6: “Yadunātha Kavicandra is full of the *rasa* of *prema*; Nityānanda is always in his heart.” The same work, Madhya, Chapter 1: “Ratnagarbha Ācārya is his famous name; he was a companion of Nityānanda Prabhu's father,[^35-1] born in the same village. His three sons are like the honey of Kṛṣṇa's lotus feet: Kṛṣṇānanda, Jīva and Yadunātha Kavicandra.”
+
+## 36
+
+> Subheading: (21) Dvija Kṛṣṇadāsa —
+
+Kṛṣṇadāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “The noble *brāhmaṇa* Kṛṣṇadāsa was born in Rāḍha; his pastimes are among Nityānanda's associates.”
+
+## 37
+
+> Subheading: (22) Kālā Kṛṣṇadāsa (*gopāla* 9) —
+
+Kālā Kṛṣṇadāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “Kāliyā Kṛṣṇadāsa is famous throughout the three worlds; by remembering him one attains Gauracandra.” In the *Gaura-gaṇoddeśa* (verse 132): “He who is Lavaṅga, the friend in Vraja, is Kāla Śrī Kṛṣṇadāsa.” He is one of the twelve *gopālas*, the friend “Lavaṅga.” His *śrīpāṭa* is the village of “Ākāihāṭ” in Barddhamāna district, within Kāṭoyā police station and post office; it lies beside the “Navadvīpa–Kāṭoyā” highway that runs from Kāṭoyā. On the E.I.R. line one goes from Byāṇḍel junction to Kāṭoyā station and walks two miles from there; or one gets off at Dā̃ihāṭ, the station before Kāṭoyā, and the way is about a mile. The village of Ākāihāṭ is very small, and few people live there. The *śrīpāṭa* is now in decay. The temple over Kālā Kṛṣṇadāsa Ṭhākura's *samādhi* has collapsed: its beams broke and everything lies buried. Going from the road through a mango grove, one sees ahead a ruined little room. In it is the Deity's empty altar, and in its southeast corner a thatched shed, under which is the *samāja* of the servitors. The present servitor is Hareramadāsa Bābājī. To the south is a pond: this is “Nūpura-kuṇḍa.” Tradition says that the anklet (*nūpura*) of Raghunandana Ṭhākura, the son of Mukunda of Śrīkhaṇḍa — or, as some say, of Nityānanda Prabhu — fell into this pond. It is said that this anklet, along with Śrī Rādhā-vallabha and Śrī Gopāla Jīu of the Ākāihāṭ *śrīpāṭa*, is still kept at the *mahānta-bāṭī* in the village of Kaḍui, three *krośas* from Ākāihāṭ. There is a handwritten *Śrī Caitanya-bhāgavata* of the year 1200 and a *Śrī Caritāmṛta* copied in 1271. In the month of Caitra, on the twelfth lunar day of the dark fortnight — the day of Vāruṇī — the festival of Śrī Kālā Kṛṣṇadāsa Ṭhākura's disappearance is held here.
+
+According to the “Gosvāmīs” of the village of “Sonātalā,” on the north bank of the river Ichāmatī about 3 miles west of the well-known Beḍābandara in Pābanā district, Kālā Kṛṣṇadāsa Ṭhākura was born in a *brāhmaṇa* family of the Varendra class, of the Bharadvāja *gotra*, and a “Bhāduḍa-grāmī.” From Ākāihāṭ, Kālā Kṛṣṇadāsa Ṭhākura, preaching the holy name,
