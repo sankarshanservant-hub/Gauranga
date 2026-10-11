@@ -26,6 +26,35 @@ While explaining to His students the *sūtras* of grammar and their commentaries
 
 Śrī Navadvīpa-dhāma is encircled by the Jāhnavī (the Gaṅgā) and lies within a circumference of sixteen *krośas*. Nine islands (*dvīpas*) shine within it, the seats of the nine kinds of *bhakti*: Antaḥ, Sīmanta, Godruma, Madhya, Kola, Ṛtu, Jahnu, Modadruma and Rudra. In the middle of Antardvīpa, in the village of Śrī Māyāpura, stands the home of Śrī Jagannātha Miśra. Going with *kīrtana* through all these towns, the Lord flooded the three worlds with *prema-bhakti*.
 
+## 75
+
+Viśvarūpa is the avatāra of Mahā-Saṅkarṣaṇa, who dwells in Paravyoma.
+
+## 77
+
+Nothing is astonishing in the unlimited Bhagavān, the Lord of the universe: in Him this whole universe appears woven lengthwise and crosswise, like the threads in a cloth.
+
+## 78
+
+Mahā-Saṅkarṣaṇa pervades the universe lengthwise and crosswise as its “material” (*upādāna*) and “efficient” (*nimitta*) cause; that is why Mahāprabhu calls Him His “elder brother.” But Kṛṣṇa and Balarāma in Kṛṣṇaloka are Caitanya and Nitāi themselves. Therefore Nityānanda Prabhu is the original Saṅkarṣaṇa, that is, Baladeva.
+
+## 89
+
+The birth horoscope is as follows:
+
+Śaka 1407 | 10 | 22 | 28 | 45  
+Day (*dinam*)[^89-1]:  
+7 · 11 · 8  
+15 · 54 · 38  
+40 · 37 · 40  
+13 · 6 · 23
+
+At the hour of the Lord's birth, Venus (*Śukra*) was in Aries (*Meṣa*), in the *nakṣatra* (lunar mansion) Aśvinī; Ketu in Leo (*Siṁha*), in the *nakṣatra* Uttara-phalgunī; the moon (*Candra*) in the *nakṣatra* Pūrva-phalgunī; Saturn (*Śani*) in Scorpio (*Vṛścika*), in the *nakṣatra* Jyeṣṭhā; Jupiter (*Bṛhaspati*) in Sagittarius (*Dhanu*), in the *nakṣatra* Pūrvāṣāḍhā; Mars (*Maṅgala*) in Capricorn (*Makara*), in the *nakṣatra* Śravaṇā; the sun (*Ravi*) in Aquarius (*Kumbha*), in Pūrva-bhādrapadā; Rāhu in the *nakṣatra* Pūrva-bhādrapadā; Mercury (*Budha*) in Pisces (*Mīna*), in the *nakṣatra* Uttara-bhādrapadā. The ascendant (*lagna*) is Leo.
+
+Mars, the lord of the ninth house, is exalted (*ucca*); Venus and Saturn are nearly exalted. Jupiter, in its own house (*svagṛha*), aspects Venus, which stands in the house of *dharma*. Venus, the lord of the tenth house, aspected by Jupiter (*Guru*), stands in the ninth house.
+
 ---
 
 [^17-1]: The verse translation reads differently: “any Vaiṣṇava can learn of all Śrī Caitanya's pastimes in order.”
+
+[^89-1]: The edition gives the table without explanation; the figures have been checked against the scan. The first line apparently gives the elapsed years, months, days, *daṇḍas* and *palas* of the Śaka era.
