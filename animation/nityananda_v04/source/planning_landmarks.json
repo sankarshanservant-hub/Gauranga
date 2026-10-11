@@ -1,0 +1,102 @@
+{
+  "schema": "planning_landmarks_v1",
+  "status": "approximate_manual_landmarks_not_validated_rig",
+  "source": "Nityananda_Standing_Accepted_Working.png",
+  "canvas": [
+    1054,
+    1492
+  ],
+  "coordinates": "pixels; origin top-left; x right; y down",
+  "facing": "right",
+  "ground_y": 1415,
+  "landmarks": {
+    "head_anchor": [
+      566,
+      240
+    ],
+    "neck_base": [
+      566,
+      285
+    ],
+    "near_shoulder": [
+      526,
+      345
+    ],
+    "near_elbow": [
+      530,
+      552
+    ],
+    "near_wrist": [
+      566,
+      759
+    ],
+    "near_hand": [
+      578,
+      840
+    ],
+    "pelvis_root": [
+      599,
+      593
+    ],
+    "near_hip": [
+      579,
+      610
+    ],
+    "near_knee_hidden": [
+      513,
+      990
+    ],
+    "near_ankle": [
+      486,
+      1355
+    ],
+    "near_heel": [
+      459,
+      1407
+    ],
+    "near_toe": [
+      611,
+      1408
+    ],
+    "far_hip_hidden": [
+      618,
+      611
+    ],
+    "far_knee_hidden": [
+      623,
+      990
+    ],
+    "far_ankle": [
+      607,
+      1348
+    ],
+    "far_heel": [
+      573,
+      1388
+    ],
+    "far_toe": [
+      708,
+      1394
+    ],
+    "shawl_attachment": [
+      520,
+      307
+    ]
+  },
+  "notes": [
+    "Ground line is a target, not an assertion that both feet already share it: far foot currently slightly higher.",
+    "Knees and hips are inferred under fabric, not anatomical truth.",
+    "Far arm is occluded and lacks complete visible artwork.",
+    "No bone weights, topology, alpha masks or layer shapes are provided by this file.",
+    "Calibrate pivots against the supplied image before binding."
+  ],
+  "initial_test_parameters": {
+    "cycle_seconds": 1.2,
+    "foot_advance_relative_body_px": 70,
+    "foot_retreat_relative_body_px": 70,
+    "swing_lift_px": 25,
+    "body_bob_max_px": 4,
+    "head_mesh_deformation": false
+  },
+  "parameter_status": "conservative_starting_hypothesis_not_verified"
+}
