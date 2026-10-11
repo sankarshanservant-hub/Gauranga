@@ -3230,3 +3230,312 @@
   cc: "Ади 11"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "61", to: "61"}
+
+# Ади 12 — ветви ствола Шри Адвайты и подветви Гададхары Пандита (нумерация стихов — по изданию: ст. ВЧД 75 в издании нет).
+- id: cc-0163
+  source: cc
+  ref: "Ади 12.1–7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 940
+  title: "Вступление к ветвям Адвайты: поклон принимающим суть; Адвайта — второй ствол древа, питаемый водой милости садовника"
+  summary: "Среди пчёл у лотосных стоп Адвайты есть принимающие суть и принимающие пустое; отвергнув пустых, автор славит принимающих суть, чья жизнь — Чайтанья; хвала Чайтанье, Нитьянанде и Адвайте; шлока: последователи Адвайтачандры — ветви второго ствола бессмертного древа Шри Чайтаньи; Ачарья Госани — второй ствол, его ветвям нет счёта; садовник Чайтанья поливает его водой милости, ствол растёт день ото дня и передаёт воду ветвям; плоды любви к Кришне с этого ствола наполнили мир."
+  persons: ["@krishnadasa-kaviraja", "@advaita", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "1", to: "7"}
+
+- id: cc-0164
+  source: cc
+  ref: "Ади 12.8–12"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P15
+  order: 45
+  title: "Последователи Адвайты разделились: мнение Ачарьи — суть, нарушившие Его веление — пустые; рис меряют вместе с шелухой"
+  summary: "Сначала последователи Ачарьи были единодушны, потом по воле судьбы разделились надвое: одни следуют велению Ачарьи, другие стали независимы и, подвластные судьбе, выдумали свои учения; мнение Ачарьи — суть, а нарушивший Его веление — пуст; называть пустых нет нужды — автор перечисляет всех вместе лишь затем, чтобы видна была разница: так рис сначала меряют с шелухой, а потом шелуху отвеивают."
+  persons: ["@advaita", "@krishnadasa-kaviraja"]
+  places: []
+  kind: post-advent
+  authority: A
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  cc: "Ади 12"
+  event: ev-advaita-followers-split
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "8", to: "12"}
+
+- id: cc-0165
+  source: cc
+  ref: "Ади 12.13–17"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P13
+  order: 211
+  title: "Пятилетний Ачьютананда возражает отцу: у Чайтаньи, гуру четырнадцати миров, не может быть другого гуру"
+  summary: "Ачьютананда, сын Ачарьи, — большая ветвь, с рождения служивший стопам Чайтаньи; услышав от отца, что гуру Чайтаньи — Кешава Бхарати, он очень огорчился: «Ты даёшь такое наставление о гуру мира — оно губит страну; Чайтанья — гуру четырнадцати миров, что у Него есть другой гуру, не сказано ни в одном писании»; услышав суть сиддханты из уст пятилетнего мальчика, Ачарья безмерно обрадовался."
+  persons: ["@achyutananda", "@advaita", "@keshava-bharati", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "Место в ЧЧ не названо (дом Адвайты — Шантипур, условно). Возраст: «на пятом году» — по «Анубхашье», Ачьютананде было пять лет в 1433–34 г. Шака."
+  themes: [teaching, family]
+  teaching: [gaura-tattva]
+  cc: "Ади 12"
+  event: ev-achyutananda-keshava-bharati-dispute
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "13", to: "17"}
+
+- id: cc-0166
+  source: cc
+  ref: "Ади 12.18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 942
+  title: "Кришна Мишра, сын Адвайты: в его сердце пребывает Чайтанья"
+  summary: "Другой сын Ачарьи — Кришна Мишра; в его сердце пребывает Чайтанья Госани."
+  persons: ["@krishna-mishra", "@advaita", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "18", to: "18"}
+
+- id: cc-0167
+  source: cc
+  ref: "Ади 12.19–26"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P12
+  order: 66
+  title: "Гопала, сын Адвайты, пляшет перед Господом в храме Гундичи и падает без чувств; Адвайта читает мантру Нрисимхи; Господь поднимает его: «Вставай, Гопала, повторяй “Хари”!»"
+  summary: "Сын Ачарьи Шри Гопала в храме Гундичи перед Махапрабху плясал в киртане в великом блаженстве любви; в его теле являлись разные бхавы, танец был дивен, и двое Госани радостно восклицали «Хари»; плясал, плясал — и упал без чувств; опечаленный Ачарья взял сына на колени и читал мантру Нрисимхи для защиты, читал разные мантры, но сознание не возвращалось, и вайшнавы плакали, видя горе Ачарьи; тогда Махапрабху положил руку ему на грудь: «Вставай, Гопала, повторяй “Хари”!» — и от прикосновения и голоса Господа Гопала поднялся, а все в радости запели имя Хари."
+  persons: ["@gopala-dasa-advaita", "@advaita", "@mahaprabhu"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  notes: "У ВЧД в ст. 21 признаки блаженства приписаны Чайтанье и Адвайте (исправлено, сноска)."
+  themes: [kirtan, mercy, ecstasy]
+  cc: "Ади 12"
+  event: ev-gopala-dasa-revived
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "19", to: "26"}
+
+- id: cc-0168
+  source: cc
+  ref: "Ади 12.27"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 944
+  title: "Другие сыновья Адвайты: Баларама, Сварупа и Джагадиша"
+  summary: "Ещё один сын Ачарьи — Шри Баларама; другие сыновья — ветвь Сварупа и Джагадиша."
+  persons: ["@balarama-mishra", "@svarupa-mishra", "@jagadisha-mishra", "@advaita"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей."
+  themes: [teaching, family]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "27", to: "27"}
+
+- id: cc-0169
+  source: cc
+  ref: "Ади 12.28–38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P14
+  order: 22.5
+  title: "Письмо Камалаканты Вишваса Пратапарудре: «Ачарья — Ишвара, но задолжал триста рупий»; Господь велит Говинде не пускать «баулию»; Адвайта радуется наказанию"
+  summary: "Слуга Ачарьи Камалаканта Вишвас, знавший все Его дела, в Нилачале написал письмо Пратапарудре: Ачарья — Ишвара, но по судьбе у Него долг, для уплаты нужно триста рупий; Ачарья о письме не знал, но оно попало к Господу; огорчённый, Господь с улыбкой сказал: «Признать Ачарью Ишварой — не ошибка, Он и есть Ишвара; но он выставил Ишвару бедняком и просил милостыню — накажу его и проучу», — и велел Говинде впредь не пускать «баулию» Вишваса; Вишвас горевал, а Ачарья обрадовался: «Тебе повезло — тебя наказал Сам Бхагаван»."
+  persons: ["@kamalakanta-vishvasa", "@advaita", "@prataparudra", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [offense, teaching]
+  teaching: [vaishnava, purity]
+  cc: "Ади 12"
+  event: ev-kamalakanta-letter-prataparudra
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "28", to: "38"}
+
+- id: cc-0170
+  source: cc
+  ref: "Ади 12.39–42"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P07
+  order: 112.8
+  title: "Адвайта вспоминает: чтобы лишиться почтения Господа, Он толковал «Васиштху», ставя мукти выше всего, и был наказан; наказаны были и Мукунда, и Шачи"
+  summary: "Адвайта рассказывает Камалаканте: прежде Махапрабху почитал Его, это Его печалило, и Он задумал хитрость — стал толковать «(Йога-)Васиштху», провозглашая освобождение высшей целью; Господь разгневался и обесчестил Его; это наказание доставило Ему высшую радость — такое же получил счастливый Шри Мукунда; а милость-наказание, полученное благословенной Шачи, — где другим его найти?"
+  persons: ["@advaita", "@mahaprabhu", "@mukunda-datta", "@shachi", "@kamalakanta-vishvasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (воспоминание в речи Адвайты). Наказание Мукунды (ЧБ Мадхья 10) и Шачи (оскорбление Адвайты, ЧБ Мадхья 22; ev-shachi-vaishnava-aparadha) — упомянуты вскользь, отдельных записей нет."
+  themes: [offense, teaching, mercy]
+  teaching: [bhakti-supremacy, vedanta]
+  cc: "Ади 12"
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "39", to: "42"}
+
+- id: cc-0171
+  source: cc
+  ref: "Ади 12.43–55"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P14
+  order: 22.6
+  title: "Адвайта упрекает Господа: «Камалаканте Ты дал милости больше, чем Мне»; Господь смеётся, зовёт Камалаканту и наставляет: ачарья не принимает царских даров"
+  summary: "Утешив Камалаканту, Ачарья радостно пришёл к Господу: «Не понимаю Твоей лилы: Камалу Ты сделал сосудом милости больше, чем Меня, — Мне никогда не доставалось такой милости; в чём Моё оскорбление?» Господь рассмеялся, позвал Камалаканту и был доволен; Ачарья сказал: «Зачем Ты дал ему даршан? Он двояко Меня осрамил»; оба знали сокровенный смысл друг друга; Господь сказал: «Баулия, зачем ты так поступаешь — это позорит Ачарью и вредит Его дхарме; Он никогда не должен принимать богатства царей: от пищи мирских людей ум оскверняется, а в осквернённом уме нет памятования о Кришне, без него жизнь бесплодна; это позор перед людьми и ущерб дхарме и славе — никогда так не делай»; наставление было для всех, и Ачарья обрадовался; намерение Ачарьи понимает лишь Господь, а глубокие слова Господа — лишь Ачарья; здесь много о чём можно рассуждать, но автор боится раздуть книгу."
+  persons: ["@advaita", "@mahaprabhu", "@kamalakanta-vishvasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy, offense]
+  teaching: [vaishnava, purity]
+  cc: "Ади 12"
+  event: ev-kamalakanta-letter-prataparudra
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "43", to: "55"}
+
+- id: cc-0172
+  source: cc
+  ref: "Ади 12.56–57"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 946
+  title: "Ядунанданачарья — ветвь Адвайты, получивший милость Васудевы Датты"
+  summary: "Шри Ядунанданачарья — ветвь Адвайты, его ветвям и веточкам нет счёта; он получил милость Васудевы Датты и во всём принял прибежище у стоп Чайтаньи."
+  persons: ["@yadunandana-acharya", "@advaita", "@vasudeva-datta", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. У ВЧД — «пятая ветвь» (исправлено, сноска)."
+  themes: [teaching, mercy]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "56", to: "57"}
+
+- id: cc-0173
+  source: cc
+  ref: "Ади 12.58–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 948
+  title: "Перечень ветвей Адвайты: Бхагаватачарья, Вишнудасачарья, Чакрапани, Ананта Ачарья и другие"
+  summary: "Бхагаватачарья, Вишнудасачарья, Чакрапани Ачарья, Ананта Ачарья, Нандини, Камадева, Чайтанья Дас, Дурлабха Вишвас, Ванамали Дас, Джаганнатха Кара, Бхаванатха Кара, Хридаянанда Сена, Бхоланатха Дас, Ядава Дас, Виджая Дас, Джанардана Дас, Ананта Дас, Кану Пандит, Нараяна Дас, Шриватса Пандит, Харидас Брахмачари, Пурушоттама Брахмачари, Кришнадас, Пурушоттама Пандит, Рагхунатха, Ванамали Кавичандра, Вайдьянатха, Локанатха Пандит, Мурари Пандит, Шри Харичарана, Мадхава Пандит, Виджая Пандит, Пандит Шрирама; ветвей Адвайты не счесть."
+  persons: ["@advaita", "@vishnudasa-acharya", "@ananta-acharya", "@ananta-dasa"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Без тегов (тождество не установлено): Бхагаватачарья (ср. @bhagavatacharya — в ст. 79 подветвь Гададхары), Камадева (ср. @kamadeva-nagara), Ванамали Дас (ср. @vanamali-dasa-vaidya), Пурушоттама Брахмачари, Локанатха Пандит, Шрирама Пандит (по «Анубхашье» — младший брат Шривасы)."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "58", to: "65"}
+
+- id: cc-0174
+  source: cc
+  ref: "Ади 12.66–72"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P15
+  order: 45.1
+  title: "Ветви, не признавшие садовника, засыхают: ствол-Адвайта не даёт им воды; отвернувшийся от Чайтаньи — мёртв при жизни и наказан Ямой"
+  summary: "Воду, данную садовником, ствол Адвайты передаёт ветвям, и они живут и цветут; но после садовника некоторые ветви, к несчастью, не признали садовника Чайтанью — Того, кто их взрастил и питал; неблагодарные, они вызвали гнев ствола, и он перестал передавать им воду — ветви засохли; тело без Чайтаньи (сознания) — сухое дерево: живой мертвец, а после смерти его карает Яма; так — не только с этими: всякий, отвернувшийся от Чайтаньи, — пашанда, будь он пандит, аскет, домохозяин или санньяси."
+  persons: ["@advaita", "@mahaprabhu", "@yama"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "У ВЧД в ст. 68–69 ствол отождествлён с Чайтаньей (исправлено, сноски)."
+  themes: [teaching, offense]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Ади 12"
+  event: ev-advaita-followers-split
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "66", to: "72"}
+
+- id: cc-0175
+  source: cc
+  ref: "Ади 12.73–77"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: P15
+  order: 45.2
+  title: "Принявшие путь Ачьютананды — маха-бхагаваты: по милости Ачарьи легко обрели стопы Чайтаньи"
+  summary: "Те последователи Ачарьи, что приняли путь Шри Ачьютананды, — маха-бхагаваты: получив милость Ачарьи, они легко обрели стопы Чайтаньи; автор шлёт миллионы поклонов тем последователям Ачарьи, чья жизнь, как у Ачьютананды, — Чайтанья; так рассказано о последователях Ачарьи и вкратце перечислены ветви трёх стволов; подветвям нет счёта — дан лишь намёк."
+  persons: ["@achyutananda", "@advaita", "@mahaprabhu", "@krishnadasa-kaviraja"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [vaishnava, associates-tattva]
+  cc: "Ади 12"
+  event: ev-advaita-followers-split
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "73", to: "77"}
+
+- id: cc-0176
+  source: cc
+  ref: "Ади 12.78–89"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 950
+  title: "Подветви Гададхары Пандита: Дхрувананда, Шридхара Брахмачари, Бхагаватачарья, Харидас Брахмачари, Бхугарбха и Бхагавата Дас во Вриндаване, Шивананда Чакраварти у стоп Мадана-гопалы и другие"
+  summary: "Подветви Шри Гададхары Пандита превосходны: лучшие — Дхрувананда, Шридхара Брахмачари, Бхагаватачарья, Харидас Брахмачари, Ананта Ачарья, Кавидатта, Наяна Мишра, Гангамантри, Маму Тхакур, Кантхабхарана; Бхугарбха Госани и Бхагавата Дас пришли жить во Вриндаван; великая душа Ванинатха Брахмачари, полный любви к Кришне Валлабха-Чайтанья Дас, Шринатха Чакраварти, Уддхава Дас, Джитамитра, Джаганнатха Дас — «дровосек», Шри Хари Ачарья, Пурия-Гопала Дас, Кришнадас Брахмачари, Пушпагопала, Шрихарша, Рагху Мишра, Пандит Лакшминатха, Бангавати-Чайтанья Дас, Шри Рагхунатха, Амогха Пандит, Хастигопала, Чайтанья-валлабха, Яду Гангули, Мангала Вайшнава; Шивананда Чакраварти, возвышенный среди ветвей, нашёл покой у стоп Мадана-гопалы; все последователи Пандита — благословенные бхагаваты, и для всех Шри Кришна Чайтанья — возлюбленный жизни."
+  persons: ["@gadadhara-pandita", "@dhruvananda-brahmachari", "@bhagavatacharya", "@mamu-thakura", "@bhugarbha", "@shivananda-chakravarti", "@mahaprabhu"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. По изданию Гаудия Матха (ст. 78) — «подветви Пандита превосходны» (у ВЧД — «Гададхара — главная ветвь»; сноска). Без тегов: Ананта Ачарья (ср. @ananta-acharya), Кришнадас Брахмачари (ср. @krishnadasa-brahmachari), Мадана-гопала (Божество; тождество с @madana-gopala-deity не установлено). У ВЧД в ст. 84 — «Садипурийя Гопал» (по изданию — Пурия-Гопала Дас; сноска)."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "78", to: "89"}
+
+- id: cc-0177
+  source: cc
+  ref: "Ади 12.90–94"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 952
+  title: "Памятование ветвей трёх стволов освобождает и даёт стопы Чайтаньи; автор переходит к лилам садовника — капля с берега океана"
+  summary: "Перечислены ветви трёх стволов: памятование о них освобождает от уз бытия, даёт стопы Чайтаньи и исполняет желания; поэтому автор чтит их стопы и теперь рассказывает по порядку лилы садовника Чайтаньи; океан нектара лил Гауры безбрежен и бездонен — кто может пожелать в него погрузиться? Но аромат его сладости манит ум, и, стоя на берегу, автор пробует одну каплю."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 12"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "90", to: "94"}
+
+- id: cc-0178
+  source: cc
+  ref: "Ади 12.95"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md"
+  period: PX
+  order: 960
+  title: "Колофон двенадцатой главы"
+  summary: "Кришнадас, уповая на стопы Шри Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 12"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi12.md", from: "95", to: "95"}

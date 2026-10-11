@@ -521,3 +521,5 @@
 | @vaishnavananda-acharya | Вайшнавананда Ачарья (прежде Рагхунатха Пури) | Vaishnavananda Acharya (formerly Raghunatha Puri) | ветвь Нитьянанды (ЧЧ Ади 11.42); не путать с @raghunatha-tirtha |
 | @paramananda-upadhyaya | Парамананда Упадхьяя | Paramananda Upadhyaya | слуга Нитьянанды (ЧЧ Ади 11.44) |
 | @hoda-krishnadasa | Хода Кришнадас | Hoda Krishnadasa | ветвь Нитьянанды: «для него Нитьянанда — сама жизнь» (ЧЧ Ади 11.47); не путать с @kaliya-krishnadasa |
+| @kamalakanta-vishvasa | Камалаканта Вишвас | Kamalakanta Vishvasa | слуга Адвайты; письмом Пратапарудре о долге Адвайты навлёк наказание Господа («баулия»), затем прощён (ЧЧ Ади 12.28–55) |
+| @dhruvananda-brahmachari | Дхрувананда Брахмачари | Dhruvananda Brahmachari | лучшая из подветвей Гададхары Пандита (ЧЧ Ади 12.79; ГГД 152) |
