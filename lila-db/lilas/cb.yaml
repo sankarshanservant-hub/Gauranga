@@ -1640,3 +1640,182 @@
   event: ev-ishvara-puri-navadvipa
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "85–86", to: "127"}
+
+# ---------- Ади 12. Странствия Господа по Навадвипе ----------
+
+- id: cb-0085
+  source: cb
+  ref: "Ади 12, 1–28"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 44.2
+  title: "Нимай побеждает Мукунду в споре об аланкарах и Гададхару — о признаках мукти"
+  summary: "Нимай, учитель грамматики, ставящий Бхаттачарьев ниже травы, ловит Мукунду: тот надеется победить Его в аланкарах, но Господь находит изъяны в трудных стихах — «Иди почитай и приходи завтра»; Мукунда думает: «Стань Он преданным, я бы не оставлял Его ни на миг». Гададхару, «корифея логики», Он спрашивает о признаках освобождения и опровергает его ответы, и тот мечтает поскорее уйти."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [learning, pranks]
+  bhava: [teacher]
+  event: ev-nimai-challenges-mukunda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "1", to: "28"}
+
+- id: cb-0086
+  source: cb
+  ref: "Ади 12, 29–66"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 28.2
+  title: "Вайшнавы у Ганги благословляют Нимая обратиться к Кришне"
+  summary: "После полудня Нимай с учениками толкует шастры на берегу Ганги; поодаль вайшнавы слушают с радостью и печалью: «Какой прок в красоте и знании без Кришны? Он хватает всех, как сборщик налогов», — и молят: «Кришна, пусть сын Мишры станет преданным»; Господь кланяется Шривасе и другим, принимая их благословения как единственный путь к бхакти, и обещает вскоре оставить преподавание и служить чистому преданному; Его любят даже яваны; Он учит у Мукунды-Санджаи."
+  persons: ["@mahaprabhu", "@srivasa", "@lakshmipriya", "@mukunda-sanjaya"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 16.5–7"
+  notes: "Ст. 31: Ему служила Лакшми, дочь Океана, — Лакшмиприя. Ст. 53: вайшнавы, по воле Господа, Его не узнают."
+  themes: [learning, teaching]
+  bhava: [teacher]
+  teaching: [vaishnava, bhakti-supremacy]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "29", to: "66"}
+
+- id: cb-0087
+  source: cb
+  ref: "Ади 12, 67–87"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 58
+  title: "«Болезнь вайю»: Господь являет прему и объявляет: «Я — Вишвамбхара»"
+  summary: "Притворившись больным расстройством вайю, Господь являет признаки экстатической любви: неземные звуки, хохот, катание по земле, вызов каждому встречному, обмороки; Буддхиманта Хан и Мукунда-Санджая лечат Его маслами, сажают в чан с маслом, а Он громогласно говорит: «Я — Господь, поддерживающий вселенную, потому Я — Вишвамбхара, но никто Меня не узнаёт»; люди думают — демон, ведьма, расстройство вайю; наконец Он «выздоравливает», и все радостно поют имя Хари."
+  persons: ["@mahaprabhu", "@buddhimanta-khan", "@mukunda-sanjaya"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.7 (сутра)"
+  notes: "«Болезнь» — лишь видимость: Господа нельзя «излечить» (ст. 74); это первое проявление премы (ср. сутру Ади 1.111). Люди, по воле Господа, не узнают Его."
+  themes: [ecstasy, revelation]
+  bhava: [aishvarya]
+  event: ev-vayu-vyadhi-prema
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "67", to: "87"}
+
+- id: cb-0088
+  source: cb
+  ref: "Ади 12, 88–107"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 28.3
+  title: "Учитель в чанди-мандапе — как Нараяна в Бадарикашраме; день Нимая с Лакшми"
+  summary: "Вайшнавы просят Нимая поклоняться Кришне, Он улыбается и кланяется им; с лекарственным маслом на голове Он учит в чанди-мандапе Мукунды-Санджаи, словно Нараяна в Бадарикашраме среди Санаки и мудрецов; в полдень купается в Ганге, чтит Вишну, поливает туласи и обедает с именем Хари — Лакшми подаёт рис и растирает Его стопы, а Шачи радуется; жители почитают Его, не зная Его природы."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi", "@mukunda-sanjaya"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 16.5–7"
+  themes: [learning, family]
+  bhava: [teacher]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "88", to: "107"}
+
+- id: cb-0089
+  source: cb
+  ref: "Ади 12, 108–152"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 29
+  title: "Господь обходит лавки Навадвипы: ткач, пастухи, масла, цветы, бетель, раковины"
+  summary: "Нимай с учениками обходит Навадвипу, как Кришна Матхуру: ткач даёт ткань в долг, пастухи сажают Его на плечи, зовут «дядей», кормят молоком и маслом: «Не помнишь, как ел рис в моём доме?»; торговец маслами умащает Его, цветочник надевает гирлянду, торговец бетелем и раковинами отдают товар без платы; милостивым взглядом Он благословляет каждого, и поэтому жители Навадвипы и поныне находят прибежище у стоп Чайтаньи и Нитьянанды."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 120: слова пастухов по милости Сарасвати были правдой (Господь — Кришна Гокулы), хотя сами они этого не понимали."
+  themes: [mercy, krishna-lila, pranks]
+  bhava: [krishna]
+  event: ev-gaura-merchants-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "108", to: "152"}
+
+- id: cb-0090
+  source: cb
+  ref: "Ади 12, 153–177"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 29.5
+  title: "Астролог видит в медитации облики Господа"
+  summary: "Господь просит астролога сказать, кем Он был в прошлой жизни; повторяя Гопала-мантру, тот видит четырёхрукое Божество, Кришну в темнице Камсы и в Гокуле, нагого Бала-Гопалу с маслом, трижды изогнутого Кришну с флейтой среди гопи, затем Раму на троне, Вараху, Нрисимху, Ваману, Матсью, Балараму с плугом, Джаганнатху с Баларамой и Субхадрой; не понимая увиденного, он думает, что это бог испытывает его, и просит прийти вечером."
+  persons: ["@mahaprabhu", "@krishna", "@rama", "@varaha", "@nrisimha", "@balarama", "@jagannatha-deity"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Ади 17.103–114"
+  divergence: "В ЧЧ (Ади 17.103–114) всеведущий астролог видит Высшую Истину и прямо называет Господа Владыкой всего, а Господь отвечает: «Я был пастушком»; по ЧБ астролог видит облики, но не понимает их и уклоняется от ответа. В ЧЧ эпизод — в сутре Мадхья-лилы (после Гаи)."
+  themes: [revelation, krishna-lila]
+  bhava: [aishvarya, krishna]
+  event: ev-astrologer-sarvajna
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "153", to: "177"}
+
+- id: cb-0091
+  source: cb
+  ref: "Ади 12, 178–213"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 29.7
+  title: "Шутки со Шридхарой: бананы даром и «Я — сын пастуха»"
+  summary: "Господь любит поддразнивать бедного торговца банановыми чашками Шридхару: «Ты служишь Супругу Лакшми — почему в заплатах? Поклоняющиеся Чанди живут в достатке»; Шридхар отвечает, что каждый получает по воле Господа; «Ты скрываешь сокровище — скоро Я всем расскажу», — грозит Господь и выпрашивает лучшие бананы, цветы, стебли и чашки даром, ест тыкву с его крыши; «Я не брахман — Я сын пастуха; Ганга прославилась благодаря Мне», — и Шридхар не узнаёт Его."
+  persons: ["@mahaprabhu", "@shridhara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.67–68 (упоминание)"
+  themes: [pranks, prasada, krishna-lila]
+  bhava: [krishna]
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "178", to: "213"}
+
+- id: cb-0092
+  source: cb
+  ref: "Ади 12, 214–231"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 31
+  title: "Флейта в полнолуние: Шачи видит луну на груди сына"
+  summary: "Сидя у дверей комнаты Вишну, Нимай, увидев полную луну, в настроении Вриндавана-чандры играет на флейте — слышит лишь Шачи и лишается чувств; выйдя, она видит сына без флейты, но с сияющей полной луной на груди; в другие ночи она слышит музыку раса-лилы, видит свет в доме, женщин с лотосами, подобных Лакшми, и исчезающих богов — ведь Шачи олицетворяет служение Вишну."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [revelation, krishna-lila, family]
+  bhava: [krishna]
+  event: ev-shachi-flute-moon-visions
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "214", to: "231"}
+
+- id: cb-0093
+  source: cb
+  ref: "Ади 12, 232–287"
+  file: "chaitanya-bhagavata/ed/CB_Adi12.md"
+  period: P05
+  order: 28.4
+  title: "Шриваса укоряет гордого Нимая; учитель на берегу Ганги; плач автора"
+  summary: "Нимай в жёлтом, как Кришна, идёт с учениками; Шриваса со смехом благословляет Его: «Куда идёшь, лучший из гордецов? Учиться стоит лишь тому, что ведёт к бхакти — начни поклоняться Кришне», — «По твоей милости так и будет». На берегу Ганги Он, как сын Нанды у Ямуны с пастушками, толкует шастры, рушит чужие толкования и гордостью уничтожает гордость других; ученики прибывают ежедневно; автор скорбит, что не родился в то время, и молит помнить эти лилы."
+  persons: ["@mahaprabhu", "@srivasa", "@vrindavana-dasa"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 16.5–7"
+  notes: "Ст. 235–241: Господь превосходит всех, но рад поражению от преданного. Ст. 275: проявляя гордость, Он уничтожал гордость других — гордость Нимая есть лила."
+  themes: [learning, krishna-lila]
+  bhava: [teacher, krishna]
+  teaching: [bhakti-supremacy]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi12.md", from: "232", to: "287"}

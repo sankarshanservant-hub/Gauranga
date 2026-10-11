@@ -51,3 +51,8 @@
 | ev-marriage-lakshmipriya | Ади 10 | Ади 10.78–131 | уточнение стихов (cb-0078, cb-0079) |
 | ev-ishvara-puri-navadvipa | Ади 11 | Ади 11.69–127 | уточнение стихов (cb-0083, cb-0084) |
 | ev-advaita-calls-lord | — | + Ади 11.52–68 | повтор обета Адвайты в юности Господа (cb-0082) |
+| ev-nimai-pandit-teaching | — | + Ади 12.29–66, 88–107, 232–287 | (cb-0086, cb-0088, cb-0093) |
+| ev-vayu-vyadhi-prema | Ади 12 | Ади 12.67–87 | уточнение стихов (cb-0087) |
+| ev-gaura-merchants-navadvipa | — | Ади 12.108–152 | (cb-0089) |
+| ev-astrologer-sarvajna | — | Ади 12.153–177 | в ЧБ — до Гаи, в годы учительства (cb-0090) |
+| ev-shridhara-kholavecha | — | Ади 12.178–213 | шутки со Шридхарой в годы учительства (cb-0091) |
