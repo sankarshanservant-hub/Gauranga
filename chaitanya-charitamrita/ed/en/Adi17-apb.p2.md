@@ -22,4 +22,24 @@ The *aśvamedha*, the *gomedha*, *sannyāsa*, a *śrāddha* to the forefathers w
 
 ## 169–171
 
-The scriptures of the *yavanas* are of three kinds: the old book of the “Yu” (the Jews), the Koran and the Bible.
+The scriptures of the *yavanas* are of three kinds: the old book of the “Yu” (the Jews), the Koran and the Bible. All these books have a beginning; none of them is beginningless like the words of the Veda. Therefore, since the reasoning in those scriptures has no firm root, it is open to doubt.
+
+## 195
+
+Even though the Pādśāh is your relative, he can punish you. The Pādśāh — the Pādśāh of Gauḍa, “Husain” Shah.
+
+## 196–202
+
+The Kazi said: “O Gaurahari, when I questioned that *mleccha* peon, he answered: ‘I said to the Hindus, “Some of you, calling yourselves Kṛṣṇadāsa, Rāmadāsa or Haridāsa, keep saying ‘Hari, Hari.’ But the word *hari, hari* means ‘I steal, I steal,’ so it seems you say ‘Hari, Hari’ (‘I take away, I take away’) because you mean to steal other people's wealth.” Ever since the day I joked with them like this, my tongue keeps saying “Hari, Hari” against my will, and I can do nothing about it.’”
+
+## 211
+
+***Nīca bāḍa bāḍa***: he performs Kṛṣṇa's *kīrtana* with many low-born people, and by this the low are “growing,” that is, rising[^211-1].
+
+## 222
+
+***Tālāka*** — a solemnly made vow.
+
+---
+
+[^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”
