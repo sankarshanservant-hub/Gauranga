@@ -46,8 +46,33 @@ def is_bn_gap(L, a, b):
     # два ॥N॥ подряд разделены двумя и более пустыми строками-разделителями «ᅠ» — это разные стихи, не сдвоенный
     return sum(1 for k in range(a + 1, b) if L[k].strip() in ('\uffa0', '\u1160', 'ᅠ')) >= 2
 
-def parse(path):
+def raw_edits(path, L, log):
+    """ed/fixes/<Гл>-raw.txt — правки исходной выгрузки ВЧД до разбора (нумерация, пропущенные стихи):
+    `@raw: <было> => <стало>  # причина` — замена в строке; блок `@insert-before: <фрагмент строки>` … `@end` —
+    вставка строк (бенгальский с ॥N॥, пустая, транслитерация, пустая, «(N) перевод») перед первой строкой с фрагментом."""
+    if not os.path.exists(path): return L
+    E = open(path, encoding='utf-8').read().split('\n'); i = 0
+    while i < len(E):
+        l = E[i]
+        m = re.match(r'^@raw:\s*(.*?)\s*=>\s*(.*?)\s*(?:#\s*(.*))?$', l)
+        if m:
+            k = next((j for j, x in enumerate(L) if m.group(1) in x), None)
+            if k is None: print('  ! правка raw не применена:', m.group(1))
+            else: L[k] = L[k].replace(m.group(1), m.group(2)); log.append(('raw', m.group(1), m.group(2), m.group(3) or ''))
+        m = re.match(r'^@insert-before:\s*(.+?)\s*$', l)
+        if m:
+            j = i + 1; blk = []
+            while j < len(E) and E[j].strip() != '@end': blk.append(E[j]); j += 1
+            k = next((q for q, x in enumerate(L) if m.group(1) in x), None)
+            if k is None: print('  ! вставка не применена:', m.group(1))
+            else: L[k:k] = blk + ['']; log.append(('insert', m.group(1), '%d строк' % len(blk), ''))
+            i = j
+        i += 1
+    return L
+
+def parse(path, edits=None, log=None):
     L = [l.rstrip('\n') for l in open(path, encoding='utf-8')]
+    if edits: L = raw_edits(edits, L, log if log is not None else [])
     pend = [l.endswith('\xa0') for l in L]           # конец абзаца в выгрузке antiword
     vend = [i for i, l in enumerate(L) if VEND.search(l) and has_bn(l) and not has_cyr(l)]
     # группы стихов: подряд идущие ॥N॥, между которыми только бенгальские строки
@@ -201,7 +226,9 @@ def run(chap):
     src = os.path.join(ROOT, 'vcd', 'txt', 'CC_%s.txt' % chap)
     vbp = os.path.join(ROOT, 'ed', 'work', 'vb-%s.json' % chap)
     vb = json.load(open(vbp, encoding='utf-8')) if os.path.exists(vbp) else {}
-    hdr, verses, removed = parse(src)
+    raw_log = []
+    hdr, verses, removed = parse(src, os.path.join(ROOT, 'ed', 'fixes', '%s-raw.txt' % chap), raw_log)
+    for r in raw_log: print('  raw: %s %s => %s %s' % r)
     fixes = load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s.txt' % chap))
     # @N reorder: 74 71 72-73 => 71 72 73-74 — переставить и перенумеровать стихи по изданию Гаудия Матха
     for f in fixes:
