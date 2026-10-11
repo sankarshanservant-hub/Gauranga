@@ -312,6 +312,62 @@ Govinda was Mahāprabhu's personal servant. The *Gaura-gaṇoddeśa* (verse 137)
 
 Rāmāi and Nandāi. The *Gaura-gaṇoddeśa* (verse 139) says: “Payoda and Vārida, who formerly prepared the water, are now the two servants known as Rāmāi and Nandāi.” They served the Lord under Govinda's guidance.
 
+## 145
+
+> Subheading: (22) The brāhmaṇa Kālā Kṛṣṇadāsa —
+
+Kṛṣṇadāsa: his story is told in Madhya, Chapters 7 and 9. This simple brāhmaṇa went south with the Lord to carry His waterpot. In the land of Malabar the Bhaṭṭathāris tried to entice him with a woman and hold him; seeing this, Gaurahari rescued him, and after returning to Nīlācala He dismissed him.
+
+## 146
+
+> Subheading: (23) Balabhadra Bhaṭṭa —
+
+Balabhadra Bhaṭṭācārya is Madhurekṣaṇā of Vraja. Cooking and other practical work (*karma-kāṇḍa*) are forbidden to *sannyāsīs*; they accept such services from householders. *Sannyāsīs* are gurus, *brahmacārīs* are disciples. Balabhadra performed the duties of a *brahmacārī* for Mahāprabhu when the Lord went to Vṛndāvana.
+
+## 147
+
+> Subheading: (24) Baḍa Haridāsa, (25) Choṭa Haridāsa —
+
+Choṭa Haridāsa: for his story see Antya, Chapter 2.
+
+## 148
+
+> Subheading: (26) Rāmabhadra, (27) Siṁheśvara, (28) Tapana Ācārya, (29) Raghunātha, (30) Nīlāmbara —
+
+## 149
+
+> Subheading: (31) Siṅgābhaṭṭa, (32) Kāmābhaṭṭa, (33) Śivānanda, (34) Kamalānanda —
+
+## 150
+
+> Subheading: (35) Acyutānanda —
+
+Acyutānanda: see Ādi, Chapter 12, verse 13.
+
+## 151
+
+> Subheading: (36) Gaṅgādāsa, (37) Viṣṇudāsa —
+
+## 152
+
+> Subheading: Residents of Kāśī: (1) Candraśekhara, (2) Tapana Miśra, (3) Śrī Raghunātha Bhaṭṭa —
+
+Tapana Miśra. When Mahāprabhu went to Vaṅga (Bengal), Tapana Miśra asked Him about the truths of the means and the goal (*sādhana* and *sādhya*) and received the holy name from the Lord. Later, at the Lord's command, he settled in Kāśī. When the Lord was in Kāśī, He took His meals at Tapana Miśra's house.
+
+## 154
+
+> Subheading: The account of Śrī Raghunātha Bhaṭṭa —
+
+## 153–158
+
+Raghunātha Bhaṭṭācārya was one of the six Gosvāmīs and the son of Tapana Miśra. He was born in about 1425 Śaka. He was especially expert in the *Bhāgavata-śāstra*. Antya, Chapter 13, verses 107–108: “Raghunātha Bhaṭṭa was very skilled in cooking; whatever he cooked became like nectar. The Lord ate it with great satisfaction, and Bhaṭṭa ate the Lord's remnants. … After eight months the Lord sent Bhaṭṭa home, forbidding him, ‘Do not marry.’ ‘Go and serve your aged mother and father, and study the *Bhāgavata* with a Vaiṣṇava.’ … Saying this, He put His own neck-garland around Raghunātha's neck.” (Antya 13.107–108, 112–114) “For four years at home he served his father and mother and studied the *Bhāgavata* with a Vaiṣṇava scholar. When his parents passed away in Kāśī, he became indifferent to the world, left his home and other ties, and came to the Lord again.” (Antya 13.117–118) “‘By My order, Raghunātha, go to Vṛndāvana; there, stay with Rūpa and Sanātana. Read the *Bhāgavata* and always chant Kṛṣṇa's name; soon Kṛṣṇa, Bhagavān, will bestow His mercy.’ Saying this, the Lord embraced him, and by the Lord's mercy he became maddened with love for Kṛṣṇa. … a fourteen-cubit *tulasī* garland of Jagannātha — that garland and some betel the Lord gave him.” (Antya 13.120–124) “In Rūpa Gosāñi's assembly he recites the *Bhāgavata*; as he reads the *Bhāgavata* his mind is overwhelmed. … His voice is like the cuckoo's, and in it the *rāgas* are clearly distinguished; in reciting a single verse he changes three or four *rāgas*. … He had his disciple build a temple for Govinda, and he provided ornaments — a flute, *makara* earrings and others.” (Antya 13.126, 128, 131) “He does not hear worldly talk nor speak it with his tongue; his eight *praharas* pass in talk of Kṛṣṇa, worship and the like. He does not let blame of Vaiṣṇavas enter his ears; he knows only this: everyone is worshipping Kṛṣṇa.” (Antya 13.132–133) The *Gaura-gaṇoddeśa* (verse 185) says: “The Bhaṭṭa named Raghunātha, who was formerly Rāga-mañjarī, lived in a hut at Śrī Rādhikā-kuṇḍa.”
+
+## 159
+
+> Subheading: The deliverance of the three worlds by countless devotees of Gaura — branches and sub-branches —
+
+*Thus ends the tenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^85-1]: The expression *guru-devatātmā* comes from the *Śrīmad-Bhāgavatam* (11.2.37).
