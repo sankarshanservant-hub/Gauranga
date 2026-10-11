@@ -26,7 +26,7 @@ The *śāstras* are many, and what each of them defines as *sādhya* and as *sā
 
 ## 15
 
-The Lord said: “Knowledge of Brahman as undifferentiated oneness, and enjoyments (*bhukti*) such as those of heaven, are not the goal (*sādhya*) of the *jīva*. The *jīva*'s only goal is love for Kṛṣṇa. *Karma* and *jñāna* are not the *sādhana*, the means of attaining that goal. The only means of attaining it is pure *bhakti* that takes shelter of Kṛṣṇa's name.”
+The Lord said: “Neither knowledge of Brahman as undifferentiated oneness nor enjoyment (*bhukti*) in heaven and other worlds is the goal (*sādhya*) of the *jīva*. The *jīva*'s only goal is love for Kṛṣṇa. *Karma* and *jñāna* are not the *sādhana*, the means of attaining that goal. The only means of attaining it is pure *bhakti* that takes shelter of Kṛṣṇa's name.”
 
 ## 19
 
