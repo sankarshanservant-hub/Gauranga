@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Запись проверочных роликов v0.3 через Movie Maker Godot (нужны godot 4.3+, xvfb-run, ffmpeg).
+# Запись проверочных роликов v0.4 через Movie Maker Godot (нужны godot 4.3+, xvfb-run, ffmpeg).
 # Использование: tools/record.sh <путь к godot> <папка вывода>
 set -euo pipefail
 GODOT="$1"; OUT="$2"; cd "$(dirname "$0")/.."
