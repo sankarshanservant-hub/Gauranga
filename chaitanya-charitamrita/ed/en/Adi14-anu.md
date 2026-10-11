@@ -107,3 +107,123 @@ This incident is among those left out of the *Caitanya-bhāgavata* and supplied 
 ## 27–33
 
 To take objects of food for oneself is merely an activity of the material kind; there is no service to Hari in it. The *nirviśeṣa-vādīs* mistakenly regard things favorable to Kṛṣṇa's service as being of the same nature as unfavorable things. Such a notion is an utterly mistaken, immature expression of mundane conclusions. Through His mother's mouth, with the simple example of clay and a pot, Mahāprabhu showed how worthless such foolish impersonal thinking is.
+
+## 37
+
+> Subheading: He eats the pilgrim brāhmaṇa's rice and delivers him —
+
+See the *Caitanya-bhāgavata*, Ādi, Chapter 3.
+
+## 38
+
+> Subheading: He bewilders the thief —
+
+See the *Caitanya-bhāgavata*, Ādi, Chapter 3.
+
+## 39
+
+> Subheading: On Ekādaśī He eats Viṣṇu's *naivedya* from the house of Hiraṇya and Jagadīśa —
+
+See the *Caitanya-bhāgavata*, Ādi, Chapter 4.
+
+## 40
+
+> Subheading: Pastimes befitting a child: stealing, quarrels and so on —
+
+The *Caitanya-bhāgavata* (Ādi, Chapter 3): “However many friends and relatives live nearby — in their houses He Himself steals every day for fun. In one house He drinks milk, in another He eats rice. Where He finds nothing, He breaks the pots. If there is a child in the house, He makes him cry.” Ibid., Chapter 4: “Someone says: ‘My son is very small, and He poured water into his ears — now he cries without end.’”
+
+## 41
+
+> Subheading: The complaints to Śacī and Śacī's scolding —
+
+*Olāhana*: a reproach, a scolding.
+
+## 43
+
+> Subheading: The Lord's anger and His rampage at home —
+
+## 44
+
+> Subheading: The Lord is consoled, and He feels ashamed —
+
+## 45
+
+> Subheading: He strikes His mother and, seeing her faint, brings rare coconuts —
+
+## 46
+
+Locana dāsa's *Śrī Caitanya-maṅgala* (Ādi): “Then a divine woman smiled, took Viśvambhara by the chin and said: ‘Bring your mother two coconuts — then Śacī, your mother, will revive.’ Hearing this, Viśvambhara was delighted and at once brought a pair of coconuts.”
+
+## 48
+
+> Subheading: Fun with the girls at bathing time —
+
+## 50
+
+> Subheading: The Lord's words to the girls —
+
+## 52
+
+> Subheading: The girls' reply —
+
+## 54
+
+> Subheading: The Lord gives blessings in jest —
+
+## 57
+
+> Subheading: Feigned anger, in the guise of a curse, at a girl who ran away —
+
+## 59
+
+> Subheading: Frightened, the girls give their offerings —
+
+## 61
+
+> Subheading: The Lord's sweet mischief delights everyone —
+
+## 62
+
+> Subheading: The meeting with Lakṣmī-devī, Vallabha's daughter —
+
+## 63
+
+> Subheading: Both rejoice on seeing each other —
+
+## 64
+
+> Subheading: The eternally perfect, natural love of the two and their joy —
+
+## 66
+
+> Subheading: The Lord tells Lakṣmī to worship Him —
+
+## 67
+
+> Subheading: Lakṣmī carries out the order —
+
+## 68
+
+> Subheading: The Lord is pleased —
+
+## 62–68
+
+Vallabhācārya was a royal paṇḍita (*rāja-paṇḍita*) living in Navadvīpa. *Gaura-gaṇoddeśa-dīpikā* (44): “He who formerly was the great King Janaka, lord of Mithilā, is now Vallabhācārya; he is also considered to be Bhīṣmaka.” Śrī Gaurahari first accepted the hand of his daughter, Lakṣmīpriyā Devī.
+
+Lakṣmī-devī: *Gaura-gaṇoddeśa-dīpikā* (45): “Śrī Jānakī and Rukmiṇī are his daughter named Lakṣmī. She, named Lakṣmī, is described in the *Caitanya-carita* thus: ‘Vallabhācārya's daughter Lakṣmī, who had descended together with Him, was going with her friends to bathe in the river of the gods, and there she came before the Lord's eyes.’”
+
+## 69
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 22, verse 25)
+
+Śrī Kṛṣṇa's words. The *gopīs*, who desired Kṛṣṇa, were keeping the Kātyāyanī vow; He stole their clothes, then gave them back, and seeing their desire to attain Kṛṣṇa, He said:
+
+**sādhvyaḥ** (O chaste ones)! **mad-arcanam** (worship for the sake of attaining Me — just this) **bhavatīnām** (your, the *gopīs'*) **saṅkalpaḥ** (desire, that is, the feeling in your hearts — though out of shyness you did not speak of it) **mayā viditaḥ** (is known to Me) **anumoditaḥ** (and accepted); (therefore) **saḥ asau** (that desire) **satyaḥ** (true, fulfilled) **bhavitum arhati** (deserves to become).
+
+## 71
+
+> Subheading: Seeing the Lord's mischief, everyone complains —
+
+## 72
+
+> Subheading: Śacī tries to catch Nimāi —
