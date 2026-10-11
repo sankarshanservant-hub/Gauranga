@@ -220,6 +220,64 @@ One day in Śrīvāsa's house Gaurasundara was seated with Nityānanda. Murāri 
 
 Śrīmān Sena lived in Navadvīpa and was a companion of the Lord.
 
+## 53
+
+> Subheading: (23) The branch of Śrī Gadādhara dāsa —
+
+Śrī Gadādhara dāsa. The village of Eṅḍiyādaha lies on the bank of the Bhāgīrathī, four *krośas* north of Calcutta. After Mahāprabhu withdrew from the world's sight, Dāsa Gadādhara went from Navadvīpa to Kāṭoyā (*Bhakti-ratnākara*, seventh wave), and later came from there to this village and lived there. He is the luster (*kānti*) of Śrī Rādhā: as Śrīla Paṇḍita Gosvāmī is Śrīmatī Vṛṣabhānu-nandinī Herself, so Śrīla Gadādhara dāsa is the beauty of Śrīmatī's body. Gaura is “adorned with the mood and luster of Rādhā,” and Gadādhara dāsa is that very luster of Gaura. In the *Gaura-gaṇoddeśa* he is named the *vibhūti*, the expansion, of Vṛṣabhānu-nandinī. He is counted among the associates of both Gaura and Nityānanda. Gaura's associates are connoisseurs (*rasikas*) of the *madhura-rasa* of Vraja; Nityānanda's associates are connoisseurs of *sakhya* and the other *rasas* in which pure devotion predominates. Although Śrī Dāsa Gadādhara is among Nityānanda's associates, he is not a *gopāla*, a cowherd boy full of *sakhya-bhāva*: he was a connoisseur of *madhura-rasa*. At Kāṭoyā he had the worship of Gaura.
+
+In 1434 Śaka, when Śrī Mahāprabhu requested Śrī Nityānanda Prabhu to go from Nīlācala to Gauḍa to preach devotion, Gadādhara became one of Nityānanda's chief helpers in the work of preaching (Ādi 11.13–14). Śrī Gadādhara dāsa taught everyone to chant the holy name of Hari. The Kazi of that village opposed *kīrtana*. One night Śrī Dāsa Gadādhara, while performing *kīrtana*, went to the Kazi's house, wishing to deliver him, and asked him to utter the holy name of Hari. The Kazi replied, “I will say ‘Hari’ tomorrow,” and Gadādhara dāsa, filled with the joy of *prema*, said: “… Why tomorrow? You have just said ‘Hari’ with your own mouth.” In the *Gaura-gaṇoddeśa*: “She who was formerly in Vraja Candrakānti, the *vibhūti* of Rādhā, is Gadādhara of the Dāsa family, who is near Śrī Gaurāṅga. She who in Vraja was Pūrṇānandā, the foremost of Baladeva's beloveds, also entered that Gadādhara for some purpose.”
+
+On the way from Nīlācala to Gauḍa, Śrī Dāsa Gadādhara, in the mood of Śrī Rādhā and laughing loudly, became a seller of yogurt and forgot his external identity. Nityānanda Prabhu saw this. Sometimes Gadādhara, absorbed in the mood of a gopī, would carry on his head a pot full of Gaṅgā water and sell it as milk. When Śrīman Mahāprabhu wished to go to Śrī Vṛndāvana by way of Gauḍa-maṇḍala, He came to Rāghava's house in the village of Pāṇihāṭī. Then “hearing that Śrī Gaurasundara was in Rāghava's house, Gadādhara dāsa came running at once. The Lord, seeing pious Gadādhara, raised His feet and placed them on his head” (*Caitanya-bhāgavata*, Antya, Chapter 5). During his manifest presence there was a Deity of Bāla-Gopāla in Gadādhara's house in Eṅḍiyādaha. With the help of Śrī Nityānanda Prabhu and Śrī Dāsa Gadādhara, Śrī Mādhava Ghoṣa sang and danced before the Deity of Śrī Gopāla, enacting the “Dāna-khaṇḍa” (*Caitanya-bhāgavata*, Antya, Chapter 5).
+
+When Śrī Gadādhara disappeared, his *samādhi* was made in that village. The *samādhi* was in the possession of *saṁyogī* Vaiṣṇavas. On the instruction of the perfected Śrī Bhagavān dāsa Bābājī Mahārāja of Kālnā, the late Madhusūdana Mallika of Nārikeladāṅgā in Calcutta founded a *pāṭabāṭī* (holy residence) there and in the Bengali year 1256 arranged the service of the Deity Śrī Rādhākānta. His son Balāi Mallika in 1312 established a service of Śrī Gaura-Nitāi. On the throne of the temple reside the Deities of Śrī Gaura-Nityānanda and of Śrī Rādhā-Kṛṣṇa; beneath the throne a Sanskrit verse is engraved. A Gopeśvara Śiva-liṅga is also installed there. At the temple entrance all that is stated above is engraved on a stone tablet. See the *Vaiṣṇava-mañjuṣā-samāhṛti* (issue 1).
+
+## 54
+
+> Subheading: (24) The branch of Śrī Śivānanda Sena —
+
+## 56
+
+> Subheading: The Lord bestows mercy by descending in three forms —
+
+“*Sākṣāt*”: Gaurasundara in His own form; “*āveśa*”: in Nakula or Pradyumna Brahmacārī; *āvirbhāva* (CC Antya 2.34–35): “In Śacī's house, where Nityānanda dances, at Śrīvāsa's *kīrtana* and in Rāghava's house — in these four places the Lord is always manifest (*āvirbhāva*). To be drawn by love is the Lord's natural disposition.”
+
+According to the *Gaura-gaṇoddeśa*, the Lord's *āvirbhāva* and *āveśa* took place in Nakula Brahmacārī and Pradyumna Miśra, thus (verse 74): “The *āvirbhāva* of Gaurahari was in Nakula Brahmacārī, and *āveśa* likewise should be recognized in the Miśra named Pradyumna.”
+
+## 57
+
+In the direct manifestation (*sākṣāt*) all the devotees are seen without distinction among themselves — as servants of one kind, not different from one another. But because Śrīman Mahāprabhu entered Nṛsiṁhānanda, Śrī Śivānanda Sena and other devotees saw him exactly like Śrī Gaurasundara: full of love for Kṛṣṇa and performing more superhuman, divine acts than all the other devotees.
+
+## 58
+
+Pradyumna Brahmacārī formerly lived in the hamlet of Piyārīgañja near Kālnā. He is mentioned in Ādi 10.35 and Antya 2.3–83. See the *Caitanya-bhāgavata*, Antya, Chapters 3 and 9.
+
+## 61
+
+> Subheading: (24a) The branch of Śrī Śivānanda — his sons, servants and others —
+
+Śivānanda Sena was a resident of Kumārahaṭṭa, or Hālisahara, and a devotee of the Lord. One and a quarter miles from there, in Kāñcaḍāpāḍā, there is a Deity of Gaura-Gopāla established by him (still present today in the temple of Śrī Kṛṣṇa-rāya). His son Paramānanda (Purīdāsa) writes in the *Gaura-gaṇoddeśa* (verse 176): “She who formerly in Vṛndāvana, as the messenger Vīrā, brought all the gopīs to Kṛṣṇa, is now my father.” Every year he guided the devotees from Gauḍa, bore their travel expenses, looked after them and brought them to Mahāprabhu in Nīlācala (Madhya 16.19–26). His three sons were Caitanya dāsa, Rāmadāsa and Paramānanda (Kavi-karṇapūra). On Karṇapūra's *dīkṣā-guru* (Śivānanda's guru and family priest) Śrīnātha Paṇḍita, see Ādi 10.107. Seeing Vāsudeva Datta's lavish spending, Mahāprabhu ordered Śivānanda to act as his *sarakhela* (manager) (Madhya 15.93–97).
+
+Śrī Mahāprabhu bestows mercy on the devotees in three ways — “*sākṣāt*,” “*āveśa*” and “*āvirbhāva*.” Śivānanda Sena experienced and tasted these three *rasas* (Antya, Chapter 2), and the story of his dog, who longed to see Gaura's feet, is told in Antya, Chapter 1. When Raghunātha dāsa Gosvāmī Prabhu fled to Nīlācala to see the Lord, Govardhana sent Śivānanda a letter and learned news of his son. He then sent a cook, a servant and much money for Raghunātha's comfort, and the next year Śivānanda took them to Nīlācala (Antya 6.245–267). Once in Nīlācala Śivānanda invited the Lord and fed Him a very heavy meal. The Lord's mind was not fully pleased, so the next day Śivānanda's son Caitanya dāsa fed the Lord foods that aid digestion and satisfied Him (Antya 10.124–151).
+
+Once, on the way to Nīlācala, while Śivānanda was settling matters at the toll station (*ghāṭi*), Nityānanda and all the others found no lodging and had to stay under a tree in a nearby village. Nitāi, feigning hunger and anger, cursed: “May Śivānanda's three sons die!” Śivānanda's wife, fearing misfortune, began to weep. Śivānanda came from the toll station, heard everything and spoke to his wife in praise of his own good fortune. As soon as he came to Nitāi, he received the good fortune of being kicked by Nitāi. Seeing this, Śivānanda's nephew Śrīkānta took offense and went alone to the Lord. The Lord, the indweller of the heart, forgave and consoled him. On that same visit the Lord put His big toe into Purīdāsa's mouth; at first the boy kept a vow of silence, and later, on another day, by the Lord's order he composed a verse (Antya 16.15–75). At that time the Lord ordered Govinda: “As long as Śivānanda's wife and sons are here, let them receive the plate of My remnants” (Antya 12.15–53).
+
+## 62
+
+> Subheading: His three sons —
+
+Caitanya dāsa was Śivānanda's eldest son. His commentary on the *Kṛṣṇa-karṇāmṛta*, with a translation by Śrīmad Bhaktivinoda Ṭhākura, was published in the journal *Śrī Sajjana-toṣaṇī*. In the opinion of those who know, he, and not Kavi-karṇapūra, is the author of the Sanskrit *mahākāvya* (great poem) called *Caitanya-carita*.
+
+Rāmadāsa was the middle son. In the *Gaura-gaṇoddeśa* (verse 145): “The two parrots famous in Vṛndāvana, Dakṣa and Vicakṣaṇa, have now been born as my elder brothers, Caitanya and Rāmadāsa.”
+
+Karṇapūra is Paramānanda dāsa, also called Purīdāsa or Kavi-karṇapūra. He was a disciple of Śrīnātha Paṇḍita of the Advaita branch. He composed the *Ānanda-vṛndāvana-campū*, the *Alaṅkāra-kaustubha*, the *mahākāvya* *Śrī Caitanya-carita* (?), the play *Śrī Caitanya-candrodaya*, the *Gaura-gaṇoddeśa-dīpikā* and other books. He was born in 1448 Śaka and wrote books until 1498 Śaka.
+
+## 63
+
+> Subheading: (24b) Śrī Śivānanda's two nephews —
+
+Śrī Vallabha Sena and Śrīkānta Sena were the sons of Śivānanda's sister. When they were coming to Purī, Nityānanda Prabhu abused, cursed and kicked their maternal uncle Śivānanda. Śrīkānta took offense, left the party and came to Mahāprabhu ahead of the others. The omniscient Lord knew this and told Govinda to give him His own *prasāda* for as long as he stayed in Nīlācala. At the Ratha-yātrā these two brothers were singers in Mukunda's party, one of the seven *kīrtana* parties (Madhya 13.41). In the *Gaura-gaṇoddeśa* (verse 174): “She who in Vraja was Kātyāyanī is now Śrīkānta Sena.”
+
 ---
 
 [^14-1]: The edition reads *śakti adhastana*, literally “descendants by *śakti*”; the sense probably requires *śaukra* (শৌক্র), “descendants by birth.”

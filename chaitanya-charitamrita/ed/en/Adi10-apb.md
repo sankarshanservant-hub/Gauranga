@@ -47,3 +47,7 @@ See Antya, Chapters 4, 7, 12 and 13.
 ## 53
 
 Gadādhara dāsa was a resident of Eṅḍiyādaha.
+
+## 56
+
+To all the devotees He gave *darśana* in one and the same form, and so bestowed “*sākṣāt*,” direct mercy. But at times He entered (*āviṣṭa*) the body of Nakula or of Pradyumna Brahmacārī; in that *brahmacārī*'s body Śrī Caitanya's “*āvirbhāva*,” manifestation, took place.
