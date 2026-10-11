@@ -34,6 +34,29 @@ Nārada said: “O child Yudhiṣṭhira! For you and for the Yadus, Bhagavān K
 
 There is one wonderful feature of the avatāra of Śrī Caitanya. To anyone who comes near Him He gives the hidden storehouse of *prema*, without considering whether that person is worthy or not, for He is the independent Lord. Consider also that Caitanyacandra has descended as the guru of the whole world. Whether one is an offender or free from offense, if he surrenders and calls out to Him, “O Gaurāṅga! O Kṛṣṇa Caitanya!” he is overwhelmed by the thrill and the tears of love for Kṛṣṇa.
 
+## 24
+
+Offenses against the holy name are listed in the *Padma Purāṇa*: (1) blasphemy of the saints; (2) thinking that the names and so on of Śiva are independent of Śrī Viṣṇu; (3) disregard for the guru; (4) blasphemy of the *śruti* and of the scriptures that follow it; (5) thinking that the glorification of Hari's name is mere exaggeration (*arthavāda*); (6) interpreting the name in some other way; (7) inclining to sin on the strength of the name; (8) thinking the name equal to other auspicious acts; (9) instructing the name to those who are faithless and have turned away from the Lord; (10) having no love for the name even after hearing of its glory. (For a detailed explanation see the *Anubhāṣya*.) As long as these ten offenses remain, Kṛṣṇa does not show mercy. In an offender, Kṛṣṇa's name does not produce genuine *sāttvika-vikāras* and the other signs.
+
+## 25
+
+If, when a person takes Hari's name, his heart does not change, his eyes do not fill with tears and his hair does not stand on end, his heart is made of stone. That is, grave offenses have hardened his heart, and it does not melt at the name.
+
+## 26
+
+He reveals the *sādhana-bhakti* that awakens *prema*.
+
+## 31
+
+If someone takes shelter of Caitanya and Nityānanda with faith, all his past offenses are washed away in a moment; and as soon as Kṛṣṇa's name rises on his lips, the Lord gives him *prema*.
+
+## 33
+
+“*Caitanya-maṅgala*” is the *Caitanya-bhāgavata* of Śrī Vṛndāvana dāsa Ṭhākura, who lived in the village of Denuḍa (Mantreśvara police station, Barddhamāna district). Earlier that book was called *Caitanya-maṅgala*. There is a tradition that when Locana dāsa Ṭhākura began to sing his own *Caitanya-maṅgala*, Vṛndāvana dāsa Ṭhākura changed the name of his book.
+
+## 41
+
+Nārāyaṇī was the daughter of Śrīvāsa Paṇḍita's brother. As a child she used to receive the remnants of Mahāprabhu's meal at the end of *kīrtana*.
 
 ---
 
