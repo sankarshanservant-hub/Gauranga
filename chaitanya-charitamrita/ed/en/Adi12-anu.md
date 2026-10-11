@@ -209,3 +209,105 @@ Haridāsa Brahmacārī is counted among the associates of both Advaita and Gadā
 ## 67
 
 > Subheading: Only the unfortunate worthless ones who fancy themselves Advaita's servants oppose Gaura and, deprived of His mercy, perish —
+
+## 65
+
+Śrīrāma Paṇḍita was the younger brother of Śrīvāsa Paṇḍita. *Gaura-gaṇoddeśa*, 91: “The best of sages named Parvata, who was dear to Nārada, is the glorious Śrīrāma Paṇḍita, his younger brother.” See Madhya, Chapter 13, 39.
+
+## 70
+
+> Subheading: The devotee of Gaura-Kṛṣṇa is Yama's guru; those who turn away from Gaura-Kṛṣṇa are punished by Yama —
+
+Yama's words to his messengers (*Śrīmad-Bhāgavatam* 6.3.29): “Bring to me those wicked people whose tongues do not utter the names and qualities of Bhagavān, whose hearts do not remember His lotus feet, whose heads have never once bowed down to Kṛṣṇa — those who have done nothing for Viṣṇu.”
+
+## 73
+
+> Subheading: Only the followers of Acyuta are devotees of Gaura who accept the essence and have received Advaita's mercy —
+
+## 75
+
+> Subheading: Obeisances to all these pure devotees —[^75-1]
+
+## 78
+
+> Subheading: The disciples, or sub-branches, of Śrī Gadādhara —
+
+## 79
+
+> Subheading: (1) Dhruvānanda, (2) Śrīdhara, (3) Haridāsa Brahmacārī and (4) Raghunātha Bhāgavatācārya —
+
+Dhruvānanda Brahmacārī. *Gaura-gaṇoddeśa*, 152: “Others have said that Dhruvānanda Brahmacārī is Lalitā. That view is correct when one distinguishes her own manifestations (*svaprakāśa*).” *Śākhā-nirṇayāmṛta*, 4: “I praise Dhruvānanda, who always delights in the *ujjvala-rasa*, to whom Śrī Gadādhara in his mercy gave his own nature.”
+
+Śrīdhara Brahmacārī is Candralatikā of Vraja (*Gaura-gaṇoddeśa*, verses 194 and 199). *Śākhā-nirṇayāmṛta*, 5: “[I praise] Śrī Śrīdhara, called Sudāmā, the wonderful *brahmacārī*, wholly full of the nectar of *prema*, who delights in Gaura's pastimes.”
+
+## 80
+
+> Subheading: (5) Anantācārya, (6) Kavidatta, (7) Nayana Miśra, (8) Gaṅgāmantrī, (9) Māmu Ṭhākura, (10) Kaṇṭhābharaṇa —
+
+Kavidatta. *Śākhā-nirṇayāmṛta*, 14: “I praise Kavidatta, in whose heart Rādhā and Kṛṣṇa dwell eternally and by nature, the very wonder of *mahābhāva*.” He is Kalakaṇṭhī of Vraja (*Gaura-gaṇoddeśa*, verses 197 and 207).
+
+Nayana Miśra (*Gaura-gaṇoddeśa*, verses 196 and 207) is Nitya-mañjarī of Vraja. *Śākhā-nirṇayāmṛta*, verse 1[^80-1]: “I praise Śrī Nayanānanda Miśra, an ocean of the nectar of *prema*, the one vessel of the jewel of love of Gadādhara and Gaura.”
+
+Gaṅgāmantrī (*Gaura-gaṇoddeśa*, 196 and 205) is Candrikā of Vraja. *Śākhā-nirṇayāmṛta*, 16: “I glorify Gaṅgāmantrī, who delights in the joy of service, with whom the Gaṅgā herself, the Svardhunī, took counsel in order to reveal love for the holy name.”
+
+Māmu Ṭhākura. Śrī Mahāprabhu used to call him “*māmā*” (maternal uncle), and so people called him “Māmu Ṭhākura”: in East Bengal and in Utkala a maternal uncle is called “*māmu*.” His real name was “Jagannātha Cakravartī.” He was the nephew of Śrī Nīlāmbara Cakravartī, his brother's son, and came from the village of Magaḍobā in Pharidapura district. After Śrī Gadādhara's disappearance, Māmu Ṭhākura became the superintendent of the service of Śrī Ṭoṭā-Gopīnātha in Purī. According to the *Gaura-gaṇoddeśa* (verses 196 and 205), he is Kalabhāṣiṇī of Vraja. *Śākhā-nirṇayāmṛta*, 17: “I praise Māmu Ṭhākura, whom Gauracandra and His associates lovingly addressed in Utkala as ‘*māmu*.’”
+
+The guru line of the servitors of Ṭoṭā-Gopīnātha: (1) Śrī Gadādhara Paṇḍita Gosvāmī (Śrīmatī Rādhikā; by another view, Saubhāgya-mañjarī); (2) his follower Śrī Jagannātha Cakravartī, “Māmu” Gosvāmī (Śrī Rūpa-mañjarī?); (3) his follower Raghunātha Gosvāmī; (4) Rāmacandra; (5) Rādhāvallabha; (6) Kṛṣṇajīvana; (7) Śyāmasundara; (8) Śāntāmaṇi; (9) Harinātha; (10) Navīnacandra; (11) Matilāla; (12) Dayāmayī; (13) Kuñjabihārī.
+
+Kaṇṭhābharaṇa. His name was Śrī Ananta Caṭṭarāja. *Gaura-gaṇoddeśa*, 196 and 206: “Ananta, born in the Caṭṭa family, who bore the title Śrī Kaṇṭhābharaṇa.” He is Gopālī of Vraja. *Śākhā-nirṇayāmṛta*, 18: “I praise Śrī Kaṇṭhābharaṇa, full of pastimes, the very embodiment of the *rasa* of Rādhā and Kṛṣṇa, [the necklace] descended from Their necks.”
+
+## 81
+
+> Subheading: (11) Bhūgarbha Gosvāmī, (12) Bhāgavata dāsa —
+
+Bhūgarbha Gosāñi is “Prema-mañjarī” of Vraja, the intimate friend of Śrī Lokanātha Gosvāmī, one with him in heart. *Gaura-gaṇoddeśa*, 187: “Bhūgarbha Ṭhākura was formerly named Prema-mañjarī.” *Śākhā-nirṇayāmṛta*, 24: “I always praise Bhūgarbha Gosvāmī, renowned, born from the womb of the earth, a great soul, the master who bestows love for Kṛṣṇa; who delights in the joy of serving Śrī Govindadeva, merciful, bestowing *prema*, pure, eternally the embodiment of bliss.”
+
+Bhāgavata dāsa. *Śākhā-nirṇayāmṛta*, 31: “I praise Śrī Bhāgavata dāsa, Bhūgarbha's companion, whose mind is always adorned with singing of the pastimes of Rādhā and Kṛṣṇa.”
+
+## 82
+
+> Subheading: (13) Vāṇīnātha Brahmacārī, (14) Vallabha-caitanya —
+
+Vāṇīnātha Brahmacārī. *Śākhā-nirṇayāmṛta*, 32: “I glorify the *brahmacārī* Vāṇīnātha Mahāśaya, renowned for his devotion in the assemblies of devotees[^82-1], shining amid the host of devotees.” See Ādi, Chapter 10, 114.
+
+Vallabha-caitanya. *Śākhā-nirṇayāmṛta*, 33: “I praise Vallabha-caitanya, full of love for Kṛṣṇa, pure, the giver of supreme bliss, whose heart is absorbed in singing of the pastimes.” In this branch Śrīyuta Nalinīmohana Gosvāmī serves Śrī Madana-Gopāla-deva at Gānatalā in Kuliyā-Navadvīpa.
+
+## 83
+
+> Subheading: (15) Śrīnātha, (16) Uddhava, (17) Jitāmitra, (18) Jagannātha —
+
+Śrīnātha Cakravartī. *Śākhā-nirṇayāmṛta*, 13: “I praise the *paṇḍita* named Śrīnātha, the shelter of good qualities, by whom the service of Kṛṣṇa was performed with great care in all its proper order.”
+
+Uddhava dāsa. *Śākhā-nirṇayāmṛta*, 35: “I praise Śrīmad Uddhava dāsa, rich in virtues, who gives the full wealth of *prema* to the most lowly.”
+
+Jitāmitra. *Gaura-gaṇoddeśa*, 202: “He who conquered and subdued the six enemies headed by lust was given by Gaura a name true to its meaning — Jitāmitra, ‘he who has conquered his foes.’” He is Śyāma-mañjarī of Vraja. *Śākhā-nirṇayāmṛta*, 36: “I praise Jitāmitra, the fulfiller of all desires, whose holy book nourishes love for Kṛṣṇa's sweetness.”
+
+Jagannātha dāsa lived in the village of Kāṣṭhakāṭā (Kāṭhādiyā) in Vikramapura, Ḍhākā. His descendants now live in the village of Āḍiyala, in Kāmārapāḍā and in Pāikapāḍā. The Deity he installed, “Yaśomādhava,” is served by the “*gosvāmīs*” of Āḍiyala. In the *Kṛṣṇa-gaṇoddeśa* Śrī Rūpapāda describes sixty-four *sakhīs* of one assembly; Jagannātha dāsa is the twenty-sixth of them, “Tilakinī,” a junior friend of Citrā-devī. Verse 142: “Rasālikā, Tilakinī, Śaurasenī, Sugandhikā.” His line: (2) Rāmanṛsiṁha, (3) Rāmagopāla, (4) Rāmacandra, (5) Sanātana, (6) Muktārāma, (7) Gopīnātha, (8) Goloka, (9) Harimohana Śiromaṇi, (10) Rākhālarāja. Gopīnātha's younger sons were (8) Mādhava and (9) Lakṣmīkānta.
+
+In the *Bhoga-nirṇaya-paddhati* of Sūryadāsa Sarakhela: “Then those who became *mahāntas* in the groups headed by Sucitrā: Jagannātha dāsa and Ṭhākura Jagadīśa.”[^83-1] *Śākhā-nirṇayāmṛta*, 48: “I praise Jagannātha dāsa, known as ‘Kāṣṭhakāṭā,’ who gave the blessing of Śrī Hari's holy name in Tripura as well.” That is, he preached the holy name in the region of Tripura.
+
+## 84
+
+> Subheading: (19) Hari Ācārya, (20) Puriyā-Gopāla, (21) Kṛṣṇadāsa Brahmacārī, (22) Puṣpagopāla —
+
+Hari Ācārya (*Gaura-gaṇoddeśa*, 196 and 207) is Kālākṣī of Vraja. *Śākhā-nirṇayāmṛta*, 37: “With supreme devotion I praise Haridāsācārya, a resident of Bengal, made radiant by his own *ujjvala-rasa*.”
+
+Puriyā-Gopāla dāsa. *Śākhā-nirṇayāmṛta*, 38: “I praise him who is called Gopāla dāsa, a resident of Sādipura, who flooded the town of Vikrama[pura] with the *rasa* of love for Rādhā and Kṛṣṇa.” That is, he preached the holy name in Vikramapura.
+
+Kṛṣṇadāsa Brahmacārī is Indulekhā, one of the eight *sakhīs* of Vraja. *Gaura-gaṇoddeśa*, 164: “She who formerly in Vraja was Indulekhā, Śrī Rādhā's friend, is Kṛṣṇadāsa Brahmacārī, who made his home in Vṛndāvana.” *Śākhā-nirṇayāmṛta*, 41: “I praise the *brahmacārī* Kṛṣṇadāsa, who reveals love for Kṛṣṇa, bright of mind, a resident of Vṛndāvana.”
+
+Puṣpagopāla. *Śākhā-nirṇayāmṛta*, 39: “I praise him who is called Puṣpagopāla, who delights in *prema*: by his *rasa* the village of Svarṇagrāma blossomed (*puṣpita*), and hence his name.”
+
+## 85
+
+> Subheading: (23) Śrīharṣa, (24) Raghu Miśra, (25) Lakṣmīnātha, (26) Caitanya dāsa, (27) Raghunātha —
+
+Śrīharṣa (*Gaura-gaṇoddeśa*, 194 and 201) is Sukeśinī of Vraja. *Śākhā-nirṇayāmṛta*, 40: “I praise him who is called Śrīharṣa Miśra, who delights in love for Kṛṣṇa, whose heart is intoxicated with love for Gaura, a shoot of the *rasa* of great bliss.”
+
+Raghu Miśra (*Gaura-gaṇoddeśa*, 195 and 201) is Karpūra-mañjarī of Vraja.
+
+Lakṣmīnātha Paṇḍita (*Gaura-gaṇoddeśa*, 196, 205) is Rasonmādā of Vraja. *Śākhā-nirṇayāmṛta*, 42: “I praise Vraja-Lakṣmīnātha dāsa, compassion embodied, filled with *mahābhāva*, the bestower of Vraja's good fortune.”
+
+Baṅgavāṭī-Caitanya dāsa (*Gaura-gaṇoddeśa*, 196 and 206) is Kālī of Vraja. *Śākhā-nirṇayāmṛta*, 43: “I praise Śrī Caitanya dāsa of Baṅgavāṭī, the great soul, whose body is always adorned with tears of love and with hair standing on end.” The succession of his branch: (2) Mathurāprasāda, (3) Rukmiṇīkānta, (4) Jīvanakṛṣṇa, (5) Yugalakiśora, (6) Ratanakṛṣṇa, (7) Rādhāmādhava, (8) Uṣāmaṇi, (9) Vaikuṇṭhanātha, (10) Lālamohana Śāhā Śaṅkhanidhi (a resident of Ḍhākā).
+
+Raghunātha is Varāṅgadā of Vraja. *Gaura-gaṇoddeśa*, 194 and 200: “Raghunātha, a certain brāhmaṇa, an exclusive servant of Gaurāṅga.” *Śākhā-nirṇayāmṛta*, 44: “I praise him who is called Śrī Raghunātha, the great soul, the root of *prema*: simply by hearing his name one obtains the *rasa* of Vṛndāvana.”
