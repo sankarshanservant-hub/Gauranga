@@ -399,6 +399,54 @@ The *aṣṭa-varga*: the *aṣṭa-varga* is calculated by drawing prescribed l
 
 *Uparāga* means an eclipse. *Manobale*: with eagerness of mind; or else, He gave gifts to the *brāhmaṇas* in His mind. The *Śrīmad-Bhāgavatam* (10.3.11) says: “Then Ānakadundubhi, his eyes wide with wonder, saw that his son was Hari. Stirred by the festival of Kṛṣṇa's descent, he joyfully bathed [in his mind] and [in his mind] gave ten thousand cows to the *brāhmaṇas*.” Seeing Bhagavān Hari as his son, Vasudeva rejoiced at the festival of Kṛṣṇa's birth and in the prison gave ten thousand cows to the *brāhmaṇas* in his mind.
 
+## 101
+
+> Subheading: Advaita hints to Haridāsa of the Lord's auspicious appearance —
+
+*Ṭhāre-ṭhore*: by hints.
+
+## 102
+
+> Subheading: Śrīvāsa, overflowing with joy, chants Hari's name —
+
+## 103
+
+> Subheading: The hearts of all the devotees in the world are gladdened —
+
+## 104
+
+> Subheading: Men and women rejoice to see the child shining like gold —
+
+## 105
+
+> Subheading: The goddesses come to the world of mortals dressed as *brāhmaṇa* ladies to see Gaura —
+
+Sāvitrī is Brahmā's wife; Gaurī, Śiva's wife; Sarasvatī, Nṛsiṁha's consort, as in Śrīdhara Svāmī's commentary: “I worship Nṛsiṁha, on whose lips is the goddess of speech, on whose chest is Lakṣmī, and in whose heart is knowledge”; Śacī, Indra's wife; Rambhā, a heavenly dancer; Arundhatī, Vasiṣṭha's wife.
+
+## 106
+
+> Subheading: The gods and others in the sky rejoice, bow down, offer prayers and dance —
+
+Siddhas: beings of divine birth who attained that birth through perfection in *mantras*. Gandharvas: heavenly singers, born from Brahmā's luster; their abode is Guhyaloka. Cāraṇas: “The singers of the gods, the reciters of hymns of praise, are the Cāraṇas”; a particular class of celestial beings.
+
+## 107
+
+*Sambhālite*: to understand. Gods, humans, Siddhas and the rest belong to different orders of beings, and so they cannot understand one another's words.
+
+## 108
+
+> Subheading: The Lord's birth ceremony (*jātakarma*) —
+
+Ācāryaratna is Candraśekhara; Śrīvāsa is Śrīnivāsa Paṇḍita.
+
+## 109
+
+> Subheading: Miśra gives gifts on the occasion of the auspicious rite —
+
+## 110
+
+> Subheading: The auspicious rites of Mālinī Ṭhākurāṇī and the Lord's maternal aunt —
+
 ---
 
 [^61-1]: An anna is one sixteenth of the whole, and a *gaṇḍā* one twentieth of an anna; the three shares together make up the whole (16 annas).

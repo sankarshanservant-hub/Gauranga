@@ -53,6 +53,10 @@ At the hour of the Lord's birth, Venus (*Śukra*) was in Aries (*Meṣa*), in th
 
 Mars, the lord of the ninth house, is exalted (*ucca*); Venus and Saturn are nearly exalted. Jupiter, in its own house (*svagṛha*), aspects Venus, which stands in the house of *dharma*. Venus, the lord of the tenth house, aspected by Jupiter (*Guru*), stands in the ninth house.
 
+## 101
+
+“*Dekhi kichu kārye āche bhāsa*” (“I see something is behind this”): in this one seems to sense the manifestation of some special work.
+
 ---
 
 [^17-1]: The verse translation reads differently: “any Vaiṣṇava can learn of all Śrī Caitanya's pastimes in order.”
