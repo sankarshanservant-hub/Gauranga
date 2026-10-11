@@ -57,6 +57,16 @@ Mars, the lord of the ninth house, is exalted (*ucca*); Venus and Saturn are nea
 
 “*Dekhi kichu kārye āche bhāsa*” (“I see something is behind this”): in this one seems to sense the manifestation of some special work.
 
+## 118
+
+“*Putra-mātā-snāna-dine*”: that is, on the fifth day, the *pāṅcaṭa*, and on the ninth, the day of the *nattā*.
+
+## 121
+
+“*Lagne aṅge bhinna bhinna*” (“separately, in the *lagna* and on the body”): according to *sāmudrika*, the science of bodily marks — in the *lagna*, that is, in the birth chart (*jātaka-kuṇḍalī*), and on the *aṅga*, that is, on the body.
+
+*Thus ends the thirteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^17-1]: The verse translation reads differently: “any Vaiṣṇava can learn of all Śrī Caitanya's pastimes in order.”
