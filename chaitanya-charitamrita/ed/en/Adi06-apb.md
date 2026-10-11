@@ -16,3 +16,7 @@ Mahā-Viṣṇu, who creates this world by *māyā*, is the Creator of the world
 
 One and the same *māyā* is called “*pradhāna*” in its material portion (*upādāna*) and “*māyā*” in its efficient portion (*nimitta*). In keeping with these two functions of *māyā*, Mahā-Viṣṇu abides in two forms. In one form Mahā-Viṣṇu abides in *prakṛti* as the efficient cause of the world — this is the form of “Viṣṇu.” In His second form He abides in *pradhāna* and, in the form of Rudra, is called “Advaita.” Advaita is therefore not in the least different from the Puruṣa; only Their bodies differ.
 
+## 15
+
+*Prakṛti* has two divisions, “*nimitta*” and “*upādāna*.” In the same way the Puruṣa creates the universe by taking two forms: as the *nimitta*, the form of “Mahā-Viṣṇu,” and as the *upādāna*, the form of “Advaita.”
+
