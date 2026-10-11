@@ -1236,3 +1236,170 @@
   event: ev-study-gangadasa
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Adi08.md", from: "183", to: "207"}
+
+# ---------- Ади 9. Детские игры Нитьянанды ----------
+
+- id: cb-0064
+  source: cb
+  ref: "Ади 9, 1–7"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P01
+  order: 30
+  title: "Ананта является Нитьянандой в Экачакре до прихода Гауры"
+  summary: "Мангала главы; по указанию Господа Чайтаньи Шри Анантадева прежде Него явился в Радха-деше, в Экачакре, у Хадаи Оджхи и Падмавати; с детства Он сдержан, разумен и прекрасен, и с Его рождением Радха-деша избавилась от нищеты и засух."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@mahaprabhu"]
+  places: ["#ekachakra", "#radha-desha"]
+  kind: lila
+  authority: A
+  themes: [family, celestial]
+  teaching: [associates-tattva]
+  event: ev-nityananda-birth
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "1", to: "7"}
+
+- id: cb-0065
+  source: cb
+  ref: "Ади 9, 8–12"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P01
+  order: 70.3
+  title: "Громовой клич Нитьянанды в час явления Гауры"
+  summary: "В день явления Гаурачандры в Навадвипе Нитьянанда издаёт радостный клич, подобный грому; он отзывается во вселенных, люди теряют сознание: одни думают — гром, другие — бедствие, немногие узнают голос Господа гаудиев; истины о Нем не понимает никто."
+  persons: ["@nityananda", "@mahaprabhu"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [ecstasy, celestial]
+  years: [1486, 1486]
+  event: ev-nityananda-roar-gaura-birth
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "8", to: "12"}
+
+- id: cb-0066
+  source: cb
+  ref: "Ади 9, 13–42"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P01
+  order: 30.5
+  title: "Мальчик Нитьянанда разыгрывает с друзьями лилы Кришны"
+  summary: "С друзьями Нитьянанда ставит представления: молитву Земли богам, свадьбу Васудевы и Деваки, рождение Кришны в темнице и подмену Махамайей, Путану, Шакату, кражу масла, Калию, Дхенуку, Баку и Агху, Говардхану, похищение одежд гопи, жён брахманов, Акруру, Матхуру с Кубджей и луком, Кувалаяпиду, Чануру, Муштику и Камсу; в настроении гопи Он плачет, а родители друзей дивятся: откуда Он знает лилы Кришны?"
+  persons: ["@nityananda", "@krishna", "@kamsa"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 12, 37: люди не узнают Нитьянанду из-за майи — у ЧБ это сокрытие Господом Своей природы от непреданных."
+  themes: [krishna-lila, pranks]
+  event: ev-nityananda-childhood-dramas
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "13", to: "42"}
+
+- id: cb-0067
+  source: cb
+  ref: "Ади 9, 43–99"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P01
+  order: 30.6
+  title: "Нитьянанда в роли Лакшманы: сражённый шакти-шелой оживает от травы «Ханумана»"
+  summary: "Нитьянанда играет Ваману у Бали, строит с «обезьянами» мост, в гневе Лакшманы зовёт Сугриву, коронует Вибхишану; когда «Равана» бросает в Него лотос — шакти-шелу, Он падает бездыханным, родители лишаются чувств; вспомнив Его наказ, мальчики посылают «Ханумана»: тот побеждает «крокодила», «ракшаса» и «гандхарвов», приносит гору Гандхамадану, и от травы у ноздрей Нитьянанда оживает: «Всё это Мои игры»."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@rama"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 51: Нитьянанда пребывал в настроении Лакшманы (Он — Баларама, бывший в Трета-югу Лакшманой)."
+  themes: [krishna-lila, ecstasy]
+  event: ev-nityananda-childhood-dramas
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "43", to: "99"}
+
+- id: cb-0068
+  source: cb
+  ref: "Ади 9, 100–101"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P01
+  order: 31
+  title: "Двенадцать лет дома, затем двадцать лет странствий"
+  summary: "Нитьянанда провёл двенадцать лет в доме родителей, затем ушёл в паломничество и двадцать лет странствовал по святым местам, после чего присоединился к Господу Чайтанье."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati"]
+  places: ["#ekachakra"]
+  kind: lila
+  authority: A
+  divergence: "ЧБ не упоминает санньяси, увёдшего Нитьянанду (по «Према-виласе» — санньяси выпрашивает сына у Хадаи); по ЧБ Нитьянанда уходит один в 12 лет."
+  themes: [pilgrimage, family]
+  date_basis: "ЧБ Ади 9.100–101: 12 лет дома, 20 лет странствий до встречи с Господом (возраст Нитьянанды)"
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "100", to: "101"}
+
+- id: cb-0069
+  source: cb
+  ref: "Ади 9, 102–153"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P05
+  order: 1
+  title: "Паломничество Нитьянанды: от Вакрешвары до Бадарикашрамы и Юга"
+  summary: "Нитьянанда посещает Вакрешвару, Вайдьянатх, Гаю, Каши, в магху — Праягу, Матхуру, Говардхану, двенадцать лесов и дом Нанды, Хастинапур («О Халадхара, спаси Меня!»), Двараку, Курукшетру, Наймишаранью, Айодхью (три дня в экстазе у царства Гухаки), Харидвар; на Шри-шайле Шива и Парвати в облике брахманов угощают Его; Он обходит Юг — Венкату, Канчи, Шрирангам, Мадураи, Тамрапарни; Вьяса в Бадарикашраме узнаёт в Нём Балараму; в буддийском монастыре никто не отвечает Ему; Каньякумари, Гокарна, Махишмати — и всюду Он плачет и смеётся от премы."
+  persons: ["@nityananda", "@shiva", "@parvati", "@vyasa", "@balarama"]
+  places: ["#gaya", "#kashi", "#prayaga", "#mathura", "#govardhana", "#vrindavana", "#gokula", "#dvaraka", "#naimisharanya", "#ayodhya", "#shri-shaila", "#ranga-kshetra", "#kaveri", "#madurai", "#tamraparni", "#badrikashrama", "#kanyakumari", "#kanchi", "#vishnu-kanchi", "#prabhasa", "#rishabha-parvata"]
+  kind: lila
+  authority: A
+  notes: "Известно в подробностях только по ЧБ. Порядок мест в тексте не строго географический."
+  themes: [pilgrimage, ecstasy]
+  calendar: "магха (омовение в Праяге)"
+  event: ev-nityananda-pilgrimage
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "102–104", to: "153"}
+
+- id: cb-0070
+  source: cb
+  ref: "Ади 9, 154–193"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P05
+  order: 1.5
+  title: "Встреча Нитьянанды с Мадхавендрой Пури"
+  summary: "В пути Нитьянанда встречает Мадхавендру Пури, гуру Адвайты, олицетворение экстатического поклонения; оба падают без чувств, затем обнимаются и катаются по земле в слезах, а ученики во главе с Ишварой и Брахманандой Пури плачут; несколько дней они вместе в беседах о Кришне; Мадхавендра говорит, что место общения с Нитьянандой — святейшее и кто враждебен Нитьянанде, тому Кришна не милостив; Нитьянанда чтит его как гуру; затем они расходятся — к Сетубандхе и к Сараю."
+  persons: ["@nityananda", "@madhavendra-puri", "@ishvara-puri", "@brahmananda-puri", "@advaita"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 160: Господь Чайтанья говорил, что Мадхавендра Пури — олицетворение экстатического поклонения; ст. 175: при виде тёмной тучи Мадхавендра падал без чувств. Ст. 188: Нитьянанда считал Мадхавендру своим гуру (ср. разные мнения о гуру Нитьянанды: по ванданам — Санкаршана Пури, по традиции — Лакшмипати Тиртха)."
+  themes: [ecstasy, pilgrimage]
+  teaching: [vaishnava, prema]
+  event: ev-nityananda-meets-madhavendra
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "154", to: "193"}
+
+- id: cb-0071
+  source: cb
+  ref: "Ади 9, 194–210"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: P05
+  order: 3.5
+  title: "Сетубандха, Нилачала, Ганга-сагар; Нитьянанда ждёт во Вриндаване"
+  summary: "Нитьянанда посещает Сетубандху и Рамешвару, Виджаянагар, Годавари, Джияда-Нрисимху, Курма-кшетру; у Нилачалы, увидев флаг храма, падает без чувств и видит Джаганнатху источником чатур-вьюхи; затем Ганга-сагар и снова Матхура: во Вриндаване Он, почти не евший, купается в Ямуне и играет с детьми, ожидая, когда Гаурачандра, тайно живущий в Навадвипе, явит Своё величие."
+  persons: ["@nityananda", "@jagannatha-deity", "@mahaprabhu"]
+  places: ["#setubandha", "#godavari", "#simhachala", "#kurma-kshetra", "#puri", "#gangasagara", "#mathura", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, ecstasy, jagannatha]
+  event: ev-nityananda-pilgrimage
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "194", to: "210"}
+
+- id: cb-0072
+  source: cb
+  ref: "Ади 9, 211–238"
+  file: "chaitanya-bhagavata/ed/CB_Adi09.md"
+  period: PX
+  order: 90
+  title: "Слава Нитьянанды; о кажущихся разногласиях вайшнавов; молитва автора"
+  summary: "Нитьянанда даровал бхакти лишь после повеления Гауры; кто поклоняется Нитьянанде, обретёт бхакти к Чайтанье; одни называют Его Баларамой, другие — санньяси, бхактой или гьяни, но для автора Он — Господь; хулящий Нитьянанду губит себя, а кажущиеся разногласия вайшнавов — их игра, и принимать в них сторону — гибельно; автор молит служить Гауре под началом Нитьянанды и изучать с Ним «Бхагавату» из рождения в рождение."
+  persons: ["@nityananda", "@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#vrindavana"]
+  kind: author
+  authority: A
+  notes: "Ст. 233: Гауранга подарил автору общение с Нитьянандой, а затем забрал его."
+  themes: [author]
+  teaching: [associates-tattva, vaishnava]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "211–213", to: "238"}
