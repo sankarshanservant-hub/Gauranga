@@ -51,3 +51,4 @@ PDF-страница N = книжная страница N−5; страницы
 | 18.48 | «чья жизнь [держалась лишь] неугасимой решимостью» | *jalpanto 'thānalpa-kalpānta-jīvāḥ svābhiprāyaṃ prāyaśas te tirodhuḥ* | прояснено: перевод исправлен |
 | 18.63 | «Чтение отчасти предположительно» | текст ясен: *yad varṇitaṃ laghutayā sahasā hasantaḥ santo hi santu śaraṇaṃ tv itare na tatra* | оговорка снята, сноска переписана |
 | 18 (колофон) | дата | *sāśīti-ṣoḍaśa-śata… āśvina-sitetara-netra-tithyām … kaver ahani … plava-nāma-varṣe* | перевод верен |
+| 16.4 | «Четыре имени в издании читаются неуверенно» | *dharmādhvara-dhruva-dharādhara-nāmadheyāḥ* — Дхарма, Адхвара, Дхрува, Дхарадхара | прояснено: оговорка снята |

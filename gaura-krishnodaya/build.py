@@ -44,8 +44,7 @@ META = {
 переведена только поэма, предисловие издателя не переводилось.
 
 **Принципы.** Перевод прозаический, по шлокам; номера — как в издании (благословляющая шлока Рупы Госвами
-перед первой саргой обозначена 0). Пометки *[с. N]* — страницы PDF-скана. Текст набран бенгальским шрифтом
-и известен нам по OCR, сверенному со сканом; испорченные места оговорены. В сносках — параллели с
+перед первой саргой обозначена 0). Пометки *[с. N]* — страницы PDF-скана. Текст набран бенгальским шрифтом; весь перевод выверен по изображениям страниц скана, а неясные места самого издания (опечатки, порча) оговорены в сносках. В сносках — параллели с
 «Чайтанья-чаритамритой» (ЧЧ), «Чайтанья-бхагаватой» (ЧБ), «Гаура-ганоддеша-дипикой» (ГГД) и богословские
 пояснения в духе учения Шрилы Бхактисиддханты Сарасвати; там, где автор расходится с ЧЧ или с
 гаудия-вайшнавским богословием, текст переведён как есть, а расхождение оговорено.
@@ -93,8 +92,8 @@ edition contains no commentary or notes; only the poem is translated, and the ed
 
 **Principles.** The translation is in prose, verse by verse; the numbers are those of the edition (Rupa
 Gosvami's benedictory verse before the first canto is marked 0). The markers *[p. N]* give the pages of the
-PDF scan. The text is printed in Bengali script and is known to us through OCR checked against the scan;
-corrupt passages are noted. The footnotes give parallels with the *Chaitanya-charitamrita* (CC), the
+PDF scan. The text is printed in Bengali script; the whole translation has been checked against
+the page images of the scan, and unclear places in the edition itself (misprints, corruptions) are noted. The footnotes give parallels with the *Chaitanya-charitamrita* (CC), the
 *Chaitanya-bhagavata* (CB) and the *Gaura-ganoddesha-dipika* (GGD), and theological explanations in the
 spirit of the teaching of Srila Bhaktisiddhanta Sarasvati; where the author departs from the CC or from Gaudiya
 Vaishnava theology, the text is translated as it stands and the divergence is noted.
