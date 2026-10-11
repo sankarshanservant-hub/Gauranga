@@ -1,0 +1,150 @@
+# Описания участников лил для сайта (окно «Участники лилы»).
+# Ключ — тег из lila-db/PERSONS.md. Поля:
+#   bio_ru / bio_en — краткое описание (ЗАГЛУШКА: временный текст, своими словами по общеизвестным сведениям;
+#                     будет заменён текстами из двух источников, которые укажет пользователь);
+#   ggd             — номера стихов «Гаура-ганоддеша-дипики» (наш перевод), где названо, кем спутник был прежде.
+# Имена берутся из PERSONS.md. Лица без описания показываются с пометкой «описание готовится».
+
+shachi:
+  ggd: [37]
+  bio_ru: |
+    Шачи-деви — мать Шри Чайтаньи Махапрабху, дочь Ниламбары Чакраварти и супруга Джаганнатхи Мишры.
+    Восемь её дочерей умерли в младенчестве; затем родился Вишварупа, а в полнолуние месяца пхалгуна 1486 года —
+    Вишвамбхара, которого она ласково звала Нимаем.
+
+    Вся жизнь Шачи — материнская любовь к Гауранге. Она растила его в Навадвипе, пережила уход Вишварупы
+    в санньясу и самого Нимая — в Катве. По просьбе матери Господь поселился в Пури, чтобы она могла получать
+    вести о нём. «Гаура-ганоддеша-дипика» говорит, что Шачи — это Яшода, мать Кришны во Врадже.
+  bio_en: |
+    Shachi-devi is the mother of Sri Chaitanya Mahaprabhu, daughter of Nilambara Chakravarti and wife of
+    Jagannatha Mishra. Her eight daughters died in infancy; then Vishvarupa was born, and on the full-moon day
+    of Phalguna 1486, Vishvambhara, whom she lovingly called Nimai.
+
+    Shachi's whole life was a mother's love for Gauranga. She raised him in Navadvipa and endured first
+    Vishvarupa's sannyasa and then Nimai's own at Katwa. At her request the Lord settled in Puri, so that she
+    could have news of him. The Gaura-ganoddesha-dipika says that Shachi is Yashoda, Krishna's mother in Vraja.
+
+jagannatha-mishra:
+  ggd: [37]
+  bio_ru: |
+    Джаганнатха Мишра (Пурандара) — отец Шри Чайтаньи, учёный брахман родом из Шрихатты, переселившийся
+    в Навадвипу на берег Ганги. Он женился на Шачи, дочери Ниламбары Чакраварти; их старший сын — Вишварупа,
+    младший — Вишвамбхара (Нимай).
+
+    При рождении сына он, ликуя, раздал дары брахманам и беднякам. Он заботился об учёбе Нимая и, по преданию,
+    не хотел, чтобы младший сын слишком много читал, опасаясь, что тот, как Вишварупа, уйдёт из дома. Он оставил
+    мир, когда Нимай был ещё отроком. «Гаура-ганоддеша-дипика» говорит, что Джаганнатха Мишра — это Нанда,
+    царь Враджа.
+  bio_en: |
+    Jagannatha Mishra (Purandara) is the father of Sri Chaitanya, a learned brahmana from Shrihatta who settled
+    in Navadvipa on the bank of the Ganges. He married Shachi, daughter of Nilambara Chakravarti; their elder
+    son was Vishvarupa, the younger Vishvambhara (Nimai).
+
+    At his son's birth he joyfully gave gifts to brahmanas and the poor. He cared for Nimai's education and,
+    by tradition, did not want his younger son to study too much, fearing he would leave home like Vishvarupa.
+    He passed away while Nimai was still a boy. The Gaura-ganoddesha-dipika says that Jagannatha Mishra is
+    Nanda, the king of Vraja.
+
+nilambara-chakravarti:
+  ggd: [104]
+  bio_ru: |
+    Ниламбара Чакраварти — отец Шачи-деви, дед Шри Чайтаньи по матери, учёный брахман и знаток джйотиша
+    (астрологии), переселившийся из Шрихатты в Навадвипу.
+
+    Когда срок беременности Шачи затянулся, он по расчётам предсказал явление на тринадцатом месяце, а после
+    рождения внука составил его гороскоп и увидел в нём признаки Великой Личности. Он же предложил назвать
+    младенца Вишвамбхарой. «Гаура-ганоддеша-дипика» называет его Гаргой — жрецом рода Ядавов, который
+    некогда предсказал величие Кришны.
+  bio_en: |
+    Nilambara Chakravarti is the father of Shachi-devi and the maternal grandfather of Sri Chaitanya, a learned
+    brahmana and an expert in jyotisha (astrology) who moved from Shrihatta to Navadvipa.
+
+    When Shachi's pregnancy lasted long, he calculated and foretold the advent in the thirteenth month; after
+    the birth he cast the child's horoscope and saw in it the signs of a Great Personality. He also proposed the
+    name Vishvambhara. The Gaura-ganoddesha-dipika calls him Garga, the priest of the Yadu dynasty who once
+    foretold Krishna's greatness.
+
+advaita:
+  ggd: [11, 12]
+  bio_ru: |
+    Адвайта Ачарья — один из трёх Прабху (вместе с Шри Чайтаньей и Нитьянандой), старший из спутников Господа.
+    Он жил в Шантипуре и Навадвипе; ещё до явления Гауранги, видя упадок преданности в век Кали, он поклонялся
+    Кришне водой Ганги и листьями туласи и громко взывал к Нему, прося нисшествия.
+
+    Писания говорят, что Господь явился в ответ на зов Адвайты. В час рождения Гауры Адвайта в Шантипуре
+    ликовал и плясал вместе с Харидасом Тхакуром, а потом пришёл поклониться младенцу. «Гаура-ганоддеша-дипика»
+    называет его Садашивой; традиция почитает в нём и Маха-Вишну.
+  bio_en: |
+    Advaita Acharya is one of the three Prabhus (with Sri Chaitanya and Nityananda), the eldest of the Lord's
+    associates. He lived in Shantipura and Navadvipa; even before Gauranga's advent, seeing devotion decline in
+    the age of Kali, he worshipped Krishna with Ganges water and tulasi leaves and loudly called upon him to
+    descend.
+
+    The scriptures say that the Lord appeared in answer to Advaita's call. At the hour of Gaura's birth Advaita
+    rejoiced and danced in Shantipura with Haridasa Thakura, and later came to pay homage to the child. The
+    Gaura-ganoddesha-dipika names him Sadashiva; the tradition also honours him as Maha-Vishnu.
+
+sita-thakurani:
+  ggd: [86]
+  bio_ru: |
+    Сита Тхакурани — супруга Адвайты Ачарьи, мать Ачьютананды и других его сыновей. Её почитают как
+    наставницу: у неё были свои ученики, и она занимает видное место в преданиях о роде Адвайты.
+
+    Узнав о рождении Гауранги, Сита пришла в дом Джаганнатхи Мишры с дарами — украшениями, тканями,
+    благими подношениями — и благословила младенца. «Гаура-ганоддеша-дипика» говорит, что она — Йогамайя.
+  bio_en: |
+    Sita Thakurani is the wife of Advaita Acharya and the mother of Achyutananda and his other sons. She is
+    honoured as a teacher in her own right: she had her own disciples and holds a prominent place in the
+    traditions of Advaita's family.
+
+    On hearing of Gauranga's birth, Sita came to Jagannatha Mishra's house with gifts — ornaments, cloth and
+    auspicious offerings — and blessed the child. The Gaura-ganoddesha-dipika says that she is Yogamaya.
+
+haridasa-thakura:
+  ggd: [93]
+  bio_ru: |
+    Харидас Тхакур — великий преданный, прославленный как «намачарья», учитель святого имени. Родившись
+    в мусульманской семье, он ежедневно повторял триста тысяч имён Господа и стойко перенёс гонения и побои,
+    не оставив воспевания.
+
+    Он был рядом с Адвайтой Ачарьей в Шантипуре и вместе с ним ликовал в час явления Гауранги. Позже Господь
+    поселил его в Пури, и там Харидас оставил тело на глазах у Махапрабху. «Гаура-ганоддеша-дипика» говорит,
+    что он — подвижник Брахма, сын мудреца Ричики, явившийся вместе с Прахладой.
+  bio_en: |
+    Haridasa Thakura is a great devotee, glorified as the namacharya, the teacher of the holy name. Born in a
+    Muslim family, he chanted three hundred thousand names of the Lord daily and steadfastly endured
+    persecution and beatings without giving up his chanting.
+
+    He was with Advaita Acharya in Shantipura and rejoiced with him at the hour of Gauranga's advent. Later the
+    Lord settled him in Puri, where Haridasa left his body before Mahaprabhu's eyes. The Gaura-ganoddesha-dipika
+    says that he is the ascetic Brahma, son of the sage Richika, who appeared together with Prahlada.
+
+nityananda:
+  ggd: [11, 61]
+  bio_ru: |
+    Нитьянанда Прабху — ближайший спутник Шри Чайтаньи, один из трёх Прабху. Он родился в Экачакре в Радхе
+    (Западная Бенгалия), рано ушёл из дома со странствующим санньяси и много лет странствовал по святым местам,
+    прежде чем встретил Гаурангу в Навадвипе.
+
+    По «Адвайта-пракаше», в час явления Махапрабху Нитьянанда, бывший тогда в Радхе, громогласно ревел от любви.
+    «Гаура-ганоддеша-дипика» говорит, что он — Баларама (Санкаршана).
+  bio_en: |
+    Nityananda Prabhu is the closest companion of Sri Chaitanya, one of the three Prabhus. He was born in
+    Ekachakra in Radha (West Bengal), left home early with a wandering sannyasi and travelled to holy places for
+    many years before meeting Gauranga in Navadvipa.
+
+    According to the Advaita-prakasha, at the hour of Mahaprabhu's advent Nityananda, then in Radha, roared
+    loudly with love. The Gaura-ganoddesha-dipika says that he is Balarama (Sankarshana).
+
+malini:
+  ggd: [42]
+  bio_ru: |
+    Малини — супруга Шриваса Тхакура, близкая подруга Шачи. Она помогала Шачи после рождения Нимая и с любовью
+    заботилась о младенце; позже в доме Шриваса проходили ночные киртаны Махапрабху.
+
+    «Гаура-ганоддеша-дипика» говорит, что Малини — это Амбика, кормилица Кришны во Врадже.
+  bio_en: |
+    Malini is the wife of Srivasa Thakura and a close friend of Shachi. She helped Shachi after Nimai's birth and
+    lovingly cared for the infant; later Mahaprabhu's night-long kirtanas took place in Srivasa's house.
+
+    The Gaura-ganoddesha-dipika says that Malini is Ambika, Krishna's wet-nurse in Vraja.

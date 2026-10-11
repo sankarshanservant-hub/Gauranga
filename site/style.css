@@ -351,6 +351,24 @@ main { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: c
 .scroll__nav:disabled { opacity: .3; cursor: default; }
 .scroll__ref { flex: 1; min-width: 0; text-align: center; font: italic 14px/1.25 var(--display); color: var(--ink-soft); }
 
+.people-btn {
+  display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%;
+  border: 1px solid rgba(107, 63, 23, .55); border-radius: 6px;
+  background: linear-gradient(rgba(122, 61, 14, .14), rgba(122, 61, 14, .22));
+  padding: 5px 10px; font: 600 16px/1.15 var(--display); color: #5a3416;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .45) inset, 1px 2px 3px rgba(80, 45, 10, .16);
+}
+.people-btn svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; }
+.people-btn:hover { background: linear-gradient(rgba(122, 61, 14, .22), rgba(122, 61, 14, .3)); }
+.people-btn[aria-current="true"] { background: #5a3416; color: #f8e6c2; border-color: #5a3416; }
+.episode .people-btn { margin-top: 8px; width: auto; display: inline-flex; font-size: 15px; }
+.mbooks .people-btn { padding-block: 8px; }
+/* в окне участников кнопки с именами — как кнопки слоёв */
+.reader.is-people .layers button { font-size: 14.5px; }
+.person__name { margin: 2px 0 6px; text-align: center; font: 600 22px/1.15 var(--display); color: #5a3416; }
+.person__src { margin: 10px 0 6px; font: italic 600 15px/1.3 var(--display); color: var(--sepia); letter-spacing: .02em; }
+.person__draft { margin: 6px 0 0; font: italic 13.5px/1.35 var(--display); color: var(--sepia); opacity: .85; }
+.person .verse__text + .verse__text { margin-top: 10px; }
 .passage + .passage { margin-top: 26px; }
 .scroll__msg { text-align: center; font: italic 17px/1.4 var(--display); color: var(--ink-soft); margin-top: 24px; }
 .passage__head { text-align: center; margin: 4px 0 10px; }

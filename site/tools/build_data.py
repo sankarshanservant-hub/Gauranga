@@ -272,6 +272,56 @@ def passage(e):
     return p
 
 
+# ——— участники лил ———
+# Не участники: Сам Господь (Он — в каждой лиле), аллегорические лица, авторы писаний в своих текстах
+# и поэты пад (их тег стоит у записи, но они не участвуют в описываемой лиле).
+NOT_PARTICIPANTS = {'@mahaprabhu', '@krishna', '@radha'}  # Кришна и Радха — Сам Гауранга и Его бхава, не отдельные участники
+SOURCE_AUTHORS = {
+    'lochana-cm': {'@lochana-dasa', '@narahari-sarakara'},   # Лочан и его гуру, упоминаемый в колофонах
+    'jayananda-cm': {'@jayananda'},
+    'prema-vilasa': {'@nityananda-dasa-author'},
+    'gaura-krishnodaya': {'@govinda-deva-kavi'},
+    'bhakti-ratnakara': {'@narahari-chakravarti'},
+    'narottama-vilasa': {'@narahari-chakravarti'},
+    'karnananda': {'@yadunandana-dasa-author'},
+}
+
+
+def persons_registry():
+    """PERSONS.md → {тег: {name, name_en, note, section}}"""
+    reg, section = {}, ''
+    for ln in open(os.path.join(ROOT, 'lila-db/PERSONS.md'), encoding='utf-8'):
+        m = re.match(r'^\| \*\*(.+?)\*\* \|', ln)
+        if m:
+            section = m.group(1); continue
+        m = re.match(r'^\|\s*(@[a-z0-9-]+)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*$', ln)
+        if m:
+            reg[m.group(1)] = {'name': m.group(2), 'name_en': m.group(3), 'note': m.group(4), 'section': section}
+    return reg
+
+
+def participants(entries, reg):
+    from collections import Counter
+    c = Counter()
+    for e in entries:
+        if e.get('kind') == 'author':
+            continue
+        skip = set(NOT_PARTICIPANTS) | SOURCE_AUTHORS.get(e['source'], set())
+        if e['source'] == 'padas':   # поэт пады — первый отрезок ссылки («Васу Гхош, ПК …»)
+            poet = e['ref'].split(',')[0].lower()
+            skip |= {t for t in e.get('persons', []) if t in reg and reg[t]['name'].split()[0].lower() in poet}
+        for t in e.get('persons') or []:
+            if t in skip or t not in reg or reg[t]['section'] == 'Аллегорические лица':
+                continue
+            c[t] += 1
+    return [t for t, _ in c.most_common()]
+
+
+def ggd_verses():
+    t = open(os.path.join(ROOT, 'gaura-ganoddesha/Gaura-Ganoddesha-Dipika-ru.md'), encoding='utf-8').read()
+    return {m.group(1): md_inline(strip_fn(m.group(2))) for m in re.finditer(r'^\*\*(\d+)\.\*\* (.+)$', t, re.M)}
+
+
 def main():
     L = json.load(open(os.path.join(ROOT, 'lila-db/export/lilas.json'), encoding='utf-8'))
     events = json.load(open(os.path.join(ROOT, 'lila-db/export/events.json'), encoding='utf-8'))
@@ -284,6 +334,8 @@ def main():
     order = list(SOURCES)
     eps = {eid: {'id': eid, 'title': t, 'title_en': te, 'events': []} for eid, t, te, _, _ in EPISODES}
     verses = {eid: {} for eid in eps}
+    reg = persons_registry()
+    used_people = set()
     nverses = 0
     for ev in events:
         ep = episode_of(ev)
@@ -301,13 +353,15 @@ def main():
                           'authority': min((p['authority'] or 'D') for p in s['passages'])})
             nverses += sum(len(p['verses']) for p in s['passages'])
         verses[ep][ev['id']] = {s['id']: s['passages'] for s in slist}
+        people = participants(by_ev[ev['id']], reg)
+        used_people.update(people)
         before = ev['period'] == 'P00' or (ev['period'] == 'P01' and (ev.get('order') or 0) < 70)
         eps[ep]['events'].append({
             'id': ev['id'], 'title': ev['title'], 'title_en': ev.get('title_en', ''),
             'years': ev.get('years'), 'date_conf': ev.get('date_conf'),
             'age': None if before else ev.get('age'), 'before': before,
             'calendar': ev.get('calendar', ''), 'cc': ev.get('cc', ''), 'cb': ev.get('cb', ''),
-            'sources': cards,
+            'sources': cards, 'persons': people,
         })
     out = []
     for e in eps.values():
@@ -315,10 +369,28 @@ def main():
         ys = [y for ev in e['events'] for y in (ev['years'] or [])]
         e['years'] = [min(ys), max(ys)] if ys else None
         e['before'] = all(ev['before'] for ev in e['events'])
+        seen = []   # участники эпизода — по порядку первого появления в его лилах
+        for ev in e['events']:
+            seen += [t for t in ev['persons'] if t not in seen]
+        e['persons'] = seen
         out.append(e)
     os.makedirs(os.path.join(DATA, 'verses'), exist_ok=True)
     for f in os.listdir(os.path.join(DATA, 'verses')):
         os.remove(os.path.join(DATA, 'verses', f))
+    # реестр участников: имена — из PERSONS.md, описания (пока заглушки) — из site/content/persons.yaml
+    import yaml
+    bios = yaml.safe_load(open(os.path.join(ROOT, 'site/content/persons.yaml'), encoding='utf-8')) or {}
+    ggd = ggd_verses()
+    people_out = {}
+    for t in sorted(used_people):
+        r = reg[t]
+        b = bios.get(t[1:]) or {}
+        d = {'name': r['name'], 'name_en': r['name_en']}
+        if b.get('bio_ru'): d['bio'] = [md_inline(x.strip()) for x in b['bio_ru'].split('\n\n') if x.strip()]
+        if b.get('bio_en'): d['bio_en'] = [md_inline(x.strip()) for x in b['bio_en'].split('\n\n') if x.strip()]
+        if b.get('ggd'): d['ggd'] = [{'n': str(n), 'text': ggd[str(n)]} for n in b['ggd'] if str(n) in ggd]
+        people_out[t] = d
+    json.dump(people_out, open(os.path.join(DATA, 'persons.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     tl = os.path.join(DATA, 'timeline.json')
     json.dump({'episodes': out}, open(tl, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     # стихи — порциями ≤ CHUNK байт (лилы эпизода подряд), номер порции записан у лилы в timeline.json

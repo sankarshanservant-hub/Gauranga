@@ -16,6 +16,10 @@
       open: 'раскрыть', fold: 'свернуть',
       noEn: '', close: 'Закрыть', illus: 'Иллюстрация готовится', prev: 'Назад', next: 'Вперёд',
       passages: n => `${n} ${plural(n, 'отрывок', 'отрывка', 'отрывков')}`, loading: 'Загружаю стихи…', failed: 'Не удалось загрузить стихи. Обновите страницу.',
+      people: 'Участники лилы', peopleEp: 'Участники эпизода', bio: 'Кратко',
+      draft: 'Временный текст — будет заменён описанием из выбранных источников.', noBio: 'Описание готовится.',
+      ggd: '«Гаура-ганоддеша-дипика» Кави Карнапуры — кем был прежде', ggdOnlyRu: '',
+      of: (i, n) => `${i} из ${n}`,
     },
     en: {
       title: 'Gaura-lila', subtitle: 'Pastimes of Sri Chaitanya Mahaprabhu in the scriptures',
@@ -30,6 +34,10 @@
       open: 'unfold', fold: 'fold',
       noEn: 'No English translation yet — shown in Russian.', close: 'Close', illus: 'Illustration in preparation', prev: 'Back', next: 'Forward',
       passages: n => `${n} passage${n === 1 ? '' : 's'}`, loading: 'Loading verses…', failed: 'Could not load the verses. Please reload the page.',
+      people: 'Participants', peopleEp: 'Participants of the episode', bio: 'In brief',
+      draft: 'Provisional text — to be replaced with descriptions from the chosen sources.', noBio: 'Description in preparation.',
+      ggd: 'Gaura-ganoddesha-dipika of Kavi Karnapura — who they were before', ggdOnlyRu: 'Translated into Russian only so far.',
+      of: (i, n) => `${i} of ${n}`,
     },
   };
   function plural(n, one, few, many) {
@@ -79,8 +87,13 @@
     const img = IMAGES[id];
     return img ? `<img src="${img}" alt="" draggable="false">` : ph + `<span class="sr">${t().illus}</span>`;
   }
+  function peopleBtn(kind, o) {
+    const n = (o.persons || []).length;
+    return n ? `<button type="button" class="people-btn" data-people="${kind}:${o.id}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.2"/><circle cx="16.5" cy="9" r="2.6"/><path d="M3.5 19c.6-3.4 2.8-5.3 5.5-5.3s4.9 1.9 5.5 5.3M14 14.2c.8-.5 1.6-.7 2.5-.7 2.2 0 3.8 1.5 4.3 4.5"/></svg>${kind === 'ep' ? t().peopleEp : t().people} · ${n}</button>` : '';
+  }
   function booksHtml(ev) {
-    return ev.sources.map(s => `<li><button type="button" class="book" data-ev="${ev.id}" data-src="${s.id}"><b class="auth auth--${s.authority}" title="${s.authority}">${s.authority}</b><span class="book__t">${esc(L(s, 'title'))}</span><span class="book__author">${esc(L(s, 'author'))}</span></button></li>`).join('');
+    const pb = peopleBtn('ev', ev);
+    return (pb ? `<li>${pb}</li>` : '') + ev.sources.map(s => `<li><button type="button" class="book" data-ev="${ev.id}" data-src="${s.id}"><b class="auth auth--${s.authority}" title="${s.authority}">${s.authority}</b><span class="book__t">${esc(L(s, 'title'))}</span><span class="book__author">${esc(L(s, 'author'))}</span></button></li>`).join('');
   }
   function lilaCard(ev) {
     const on = S.open === ev.id, tt = t();
@@ -102,7 +115,8 @@
         <figure class="card__fig">${fig(ep.id, MEDALLION(roman(i + 1)))}</figure>
         <div class="card__cap"><button type="button" class="episode__name" aria-expanded="${on}">${esc(L(ep, 'title'))}</button>
         <p class="card__when">${when(ep)}</p>
-        <p class="episode__more">${tt.lilas(ep.events.length)} · <span>${on ? tt.fold : tt.open}</span></p></div></div>`;
+        <p class="episode__more">${tt.lilas(ep.events.length)} · <span>${on ? tt.fold : tt.open}</span></p>
+        ${on ? peopleBtn('ep', ep) : ''}</div></div>`;
       if (on) h += `<div class="chapter" role="group" aria-label="${esc(L(ep, 'title'))}">${ep.events.map(lilaCard).join('')}</div>`;
     });
     h += '</div><div class="cap cap--end" aria-hidden="true"></div>';
@@ -189,6 +203,8 @@
   });
   ribbon.addEventListener('click', e => {
     if (justDragged) { e.preventDefault(); e.stopPropagation(); return; }
+    const pbtn = e.target.closest('.people-btn');
+    if (pbtn) { openPeople(pbtn.dataset.people); return; }
     const book = e.target.closest('.book');
     if (book) { openReader(book.dataset.ev, book.dataset.src); return; }
     const name = e.target.closest('.card__name');
@@ -214,7 +230,10 @@
   $('prev').addEventListener('click', () => step(-1));
   $('next').addEventListener('click', () => step(1));
   jump.addEventListener('change', () => openLila(jump.value, true, true));
-  mbooks.addEventListener('click', e => { const b = e.target.closest('.book'); if (b) openReader(b.dataset.ev, b.dataset.src); });
+  mbooks.addEventListener('click', e => {
+    const pb = e.target.closest('.people-btn'); if (pb) { openPeople(pb.dataset.people); return; }
+    const b = e.target.closest('.book'); if (b) openReader(b.dataset.ev, b.dataset.src);
+  });
 
   /* ——— окно чтения ——— */
   function loadChunk(name) {
@@ -234,8 +253,8 @@
   }
 
   function openReader(evId, srcId) {
-    const same = S.reader && S.reader.ev === evId;
-    S.reader = { ev: evId, src: srcId, all: same ? S.reader.all : null };
+    const same = S.reader && S.reader.mode === 'books' && S.reader.ev === evId;
+    S.reader = { mode: 'books', ev: evId, src: srcId, all: same ? S.reader.all : null };
     $('reader').hidden = false; document.body.classList.add('is-reading');
     renderReader(); $('r-body').scrollTop = 0;
     markCurrentBook();
@@ -254,11 +273,55 @@
     if (r) { const b = document.querySelector(`.book[data-ev="${r.ev}"][data-src="${r.src}"]`); if (b) b.focus({ preventScroll: true }); }
   }
   function markCurrentBook() {
-    document.querySelectorAll('.book').forEach(b => b.setAttribute('aria-current', !!S.reader && b.dataset.ev === S.reader.ev && b.dataset.src === S.reader.src));
+    const r = S.reader && S.reader.mode === 'books' ? S.reader : null;
+    document.querySelectorAll('.book').forEach(b => b.setAttribute('aria-current', !!r && b.dataset.ev === r.ev && b.dataset.src === r.src));
+    const pk = S.reader && S.reader.mode === 'people' ? S.reader.key : '';
+    document.querySelectorAll('.people-btn').forEach(b => b.setAttribute('aria-current', b.dataset.people === pk));
+  }
+
+  /* ——— участники лилы / эпизода: тот же свиток; сверху — кнопки с именами, ниже — описание выбранного ——— */
+  function peopleOf(key) {
+    const [kind, id] = key.split(':');
+    const o = kind === 'ep' ? findEp(id) : findEv(id)[1];
+    return { kind, o, list: (o && o.persons) || [] };
+  }
+  function openPeople(key) {
+    const { list } = peopleOf(key);
+    if (!list.length) return;
+    S.reader = { mode: 'people', key, person: list[0] };
+    $('reader').hidden = false; document.body.classList.add('is-reading');
+    renderReader(); $('r-body').scrollTop = 0;
+    markCurrentBook();
+    $('r-close').focus({ preventScroll: true });
+  }
+  function renderPeople() {
+    const tt = t(), { kind, o, list } = peopleOf(S.reader.key);
+    const P = S.persons || {};
+    const name = tag => (P[tag] ? L(P[tag], 'name') : tag.slice(1));
+    const cur = S.reader.person, idx = list.indexOf(cur), p = P[cur] || {};
+    $('r-lila').innerHTML = esc(L(o, 'title'));
+    $('r-title').textContent = kind === 'ep' ? tt.peopleEp : tt.people;
+    $('r-author').textContent = '';
+    $('layers').innerHTML = list.map(tag => `<button type="button" data-person="${tag}" aria-pressed="${tag === cur}">${esc(name(tag))}</button>`).join('');
+    const bio = (S.lang === 'en' && p.bio_en) || p.bio;
+    let h = `<section class="person"><h3 class="person__name">${esc(name(cur))}</h3>`;
+    h += `<h4 class="person__src">${tt.bio}</h4>`;
+    h += bio ? bio.map(x => `<p class="verse__text">${x}</p>`).join('') + `<p class="person__draft">${tt.draft}</p>` : `<p class="person__draft">${tt.noBio}</p>`;
+    if (p.ggd && p.ggd.length) {
+      h += ORN + `<h4 class="person__src">${tt.ggd}</h4>` + (tt.ggdOnlyRu ? `<p class="passage__noen">${tt.ggdOnlyRu}</p>` : '');
+      h += p.ggd.map(v => `<p class="verse__text"><span class="verse__n">${esc(v.n)}</span>${v.text}</p>`).join('');
+    }
+    $('r-body').innerHTML = h + '</section>';
+    $('r-ref').textContent = tt.of(idx + 1, list.length);
+    $('r-prev').disabled = idx <= 0; $('r-next').disabled = idx >= list.length - 1;
+    $('r-prev').dataset.person = idx > 0 ? list[idx - 1] : '';
+    $('r-next').dataset.person = idx < list.length - 1 ? list[idx + 1] : '';
   }
 
   function renderReader() {
     if (!S.reader) return;
+    $('reader').classList.toggle('is-people', S.reader.mode === 'people');
+    if (S.reader.mode === 'people') return renderPeople();
     const [, ev] = findEv(S.reader.ev), tt = t();
     const idx = ev.sources.findIndex(s => s.id === S.reader.src);
     const src = ev.sources[idx];
@@ -294,6 +357,8 @@
     $('r-ref').textContent = passages.length === 1 ? passages[0].ref : tt.passages(passages.length);
   }
   $('layers').addEventListener('click', e => {
+    const pb = e.target.closest('button[data-person]');
+    if (pb) { S.reader.person = pb.dataset.person; renderReader(); $('r-body').scrollTop = 0; return; }
     const b = e.target.closest('button[data-layer]');
     if (!b || b.disabled) return;
     S.layers[b.dataset.layer] = !S.layers[b.dataset.layer];
@@ -301,6 +366,10 @@
   });
   $('r-close').addEventListener('click', closeReader);
   ['r-prev', 'r-next'].forEach(id => $(id).addEventListener('click', e => {
+    if (S.reader && S.reader.mode === 'people') {
+      const p = e.currentTarget.dataset.person; if (p) { S.reader.person = p; renderReader(); $('r-body').scrollTop = 0; }
+      return;
+    }
     const s = e.currentTarget.dataset.src; if (s) { S.reader.src = s; renderReader(); $('r-body').scrollTop = 0; markCurrentBook(); }
   }));
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && S.reader) closeReader(); });
@@ -385,6 +454,7 @@
   if (M.on) musicPlay(); // если браузер разрешит — сразу, иначе с первого нажатия
 
   /* ——— запуск: по умолчанию раскрыт эпизод «Явление Господа» и лила рождения ——— */
+  fetch('data/persons.json').then(r => r.json()).then(p => { S.persons = p; renderReader(); }).catch(() => { S.persons = {}; });
   fetch('data/timeline.json').then(r => r.json()).then(d => {
     S.data = d;
     const h = location.hash.slice(1);
