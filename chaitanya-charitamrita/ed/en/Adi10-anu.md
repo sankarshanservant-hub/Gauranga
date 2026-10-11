@@ -246,7 +246,7 @@ According to the *Gaura-gaṇoddeśa*, the Lord's *āvirbhāva* and *āveśa* to
 
 ## 57
 
-In the direct manifestation (*sākṣāt*) all the devotees are seen without distinction among themselves — as servants of one kind, not different from one another. But because Śrīman Mahāprabhu entered Nṛsiṁhānanda, Śrī Śivānanda Sena and other devotees saw him exactly like Śrī Gaurasundara: full of love for Kṛṣṇa and performing more superhuman, divine acts than all the other devotees.
+In the direct manifestation (*sākṣāt*) all the devotees are seen without distinction among themselves — as servants of one kind, not different from one another.[^57-1] But because Śrīman Mahāprabhu entered Nṛsiṁhānanda, Śrī Śivānanda Sena and other devotees saw him exactly like Śrī Gaurasundara: full of love for Kṛṣṇa and performing more superhuman, divine acts than all the other devotees.
 
 ## 58
 
@@ -785,6 +785,8 @@ Raghunātha Bhaṭṭācārya was one of the six Gosvāmīs and the son of Tapan
 [^35-1]: The edition reads “Madhya, Chapter 1, 55–62”; the episode is in Madhya 1.155–162.
 
 [^48-1]: The edition reads “Madhya, Chapter 10, 100–101”; these words of the Lord are in Madhya 15.100–101.
+
+[^57-1]: The verse translation reads it differently: “all the devotees saw Him alike” (Bengali *nirviśeṣa*, “without distinction”).
 
 [^78-1]: An unclear place in the scan: the middle digit of the verse number is damaged; probably 177.
 
