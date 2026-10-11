@@ -35,3 +35,9 @@ Murāri-Caitanyadāsa was born in the village of Sar-Vṛndāvanapura, one *kro�
 ## 24
 
 The descendants of Kamalākara Pippalāi are servants of Śrī Jagannāthadeva at Māheśa.
+
+## 27
+
+“*Pā̃ti*”: eating together in one row (*paṅkti-bhojana*).
+
+*Thus ends the eleventh chapter of the “Amṛta-pravāha-bhāṣya.”*
