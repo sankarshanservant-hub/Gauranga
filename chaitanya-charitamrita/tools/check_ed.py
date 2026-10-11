@@ -20,7 +20,7 @@ def check(chap):
     for p in paras[1:]:
         lines = [x.rstrip() for x in p.split('\n')]
         if has_bn(p) and re.search(r'॥\s*[০-৯]+\s*॥', p):
-            n = bn2i(re.search(r'॥\s*([০-৯]+)\s*॥\s*$', lines[-1].strip()).group(1))
+            n = bn2i(re.search(r'॥\s*([০-৯]+)\s*॥(?:\s*ধ্রু[ব]?\s*॥)?\s*$', lines[-1].strip()).group(1))  # «॥ ৩০ ॥ধ্রু॥» — припев
             if cur is None or cur.get('tr'): cur = {'nums': [], 'tl': None, 'tr': None}; verses.append(cur)
             cur['nums'].append(n)
             if n != expect: errs.append('нумерация: ॥%d॥, ожидался %d' % (n, expect))
