@@ -2145,3 +2145,175 @@
   event: ev-marriage-vishnupriya
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Adi15.md", from: "126", to: "225"}
+
+# ---------- Ади 16. Величие Харидаса Тхакура ----------
+
+- id: cb-0110
+  source: cb
+  ref: "Ади 16, 1–15"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P05
+  order: 101
+  title: "Господь ещё не начал проповеди; миряне глумятся над киртаном"
+  summary: "Мангала главы; Повелитель Вайкунтхи живёт домохозяином и, по Своей воле, ещё не проповедует; толкующие Гиту и «Бхагавату» не говорят об имени; над киртаном вайшнавов смеются: «Все мы — Брахман, какая разница между слугой и Господином?», «поют ради подаяний», грозят разрушить их дома; преданные скорбят и молятся."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 11: насмешки с позиции майявады («все мы — Брахман»)."
+  themes: [offense, kirtan]
+  teaching: [bhakti-supremacy]
+  event: ev-navadvipa-vaishnavas-before-advent
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "1", to: "15"}
+
+- id: cb-0111
+  source: cb
+  ref: "Ади 16, 16–35"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.5
+  title: "Харидас: из Будханы в Пхулию; встреча с Адвайтой; экстаз имени"
+  summary: "Харидас, олицетворение преданности Вишну, родился в Будхане и поселился в Пхулии близ Шантипура; Адвайта при встрече с ним громко кричит от радости; Харидас странствует по берегам Ганги, громко воспевая имена, танцует, рычит, плачет, смеётся, теряет сознание; ему кланяются даже грешники, а брахманы Пхулии исполнены веры в него."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#budhana", "#phulia", "#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, kirtan]
+  teaching: [holy-name]
+  event: ev-haridasa-phulia-benapole
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "16", to: "35"}
+
+- id: cb-0112
+  source: cb
+  ref: "Ади 16, 36–67"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.7
+  title: "Харидаса вызывают к царю; благословение узникам: «оставайтесь как есть»"
+  summary: "Кази жалуется царю Бенгалии: мусульманин Харидас ведёт себя как индус; Харидас без страха идёт, воспевая имена; узники, желая его увидеть, кланяются ему, и он благословляет их загадочно: «Оставайтесь, как сейчас», — и объясняет: пусть ваш ум будет так же сосредоточен на Кришне, как в заточении, где никто не мешает петь имена; через несколько дней вы будете свободны — не забывайте этого."
+  persons: ["@haridasa-thakura", "@gauda-sultan"]
+  places: ["#gauda"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.45 (упоминание)"
+  notes: "Благословение узникам известно только по ЧБ."
+  themes: [muslims, teaching, mercy]
+  teaching: [holy-name, maya]
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "36", to: "67"}
+
+- id: cb-0113
+  source: cb
+  ref: "Ади 16, 68–147"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.7
+  title: "Харидаса бьют на двадцати двух базарах: он не чувствует боли и молится за палачей"
+  summary: "Царь уговаривает Харидаса вернуться к вере предков и прочесть калму; Харидас отвечает: Бог един, лишь имена разные, — и не оставит имени, даже если его разрубят на куски; по совету Кази его бьют на двадцати двух рынках, но, помня Кришну, он не чувствует боли, как Прахлада, и молит Кришну простить стражников; когда те боятся казни, он входит в самадхи без дыхания; Кази велит бросить «мертвеца» в Гангу, но тело, в которое вошёл Господь Вишвамбхара, неподвижно, как колонна; потом Ганга несёт его, он приходит в себя и идёт в Пхулию, а мусульмане склоняются перед ним."
+  persons: ["@haridasa-thakura", "@gauda-sultan", "@mahaprabhu"]
+  places: ["#gauda", "#ganga", "#phulia"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.45 (упоминание); ЧЧ Антья 3"
+  notes: "Ст. 76–84: «Бог един» — в устах Харидаса это проповедь единого Господа мусульманину, а не уравнивание всех путей. Ст. 130: Господь Вишвамбхара вошёл в тело Харидаса."
+  themes: [muslims, offense, mercy]
+  teaching: [holy-name]
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "68", to: "147"}
+
+- id: cb-0114
+  source: cb
+  ref: "Ади 16, 148–171"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.75
+  title: "Царь просит прощения; Харидас в Пхулии: «Это наказание за то, что я слушал хулу на Господа»"
+  summary: "Царь Бенгалии, признав Харидаса святым, просит прощения и позволяет ему жить где угодно; в Пхулии брахманы с киртаном встречают его, он пляшет в экстазе и говорит им не печалиться: Господь лёгким наказанием избавил его от последствий того, что он слушал хулу на Вишну и вайшнавов, — за это положен ад Кумбхипака; через несколько дней мучители Харидаса и их семьи погибают."
+  persons: ["@haridasa-thakura", "@gauda-sultan"]
+  places: ["#phulia", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [muslims, offense, kirtan]
+  teaching: [vaishnava]
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "148", to: "171"}
+
+- id: cb-0115
+  source: cb
+  ref: "Ади 16, 172–197"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.8
+  title: "Змей в пещере Харидаса покидает её по его слову"
+  summary: "В пещере на берегу Ганги Харидас повторяет триста тысяч имён в день, и пещера становится Вайкунтхой; но жар яда огромного змея не даёт посетителям оставаться; заклинатели советуют Харидасу уйти, и он обещает уйти завтра, если змей не уйдёт сам; тотчас во время киртана змей — жёлтый, синий и белый, с самоцветом на голове — на глазах у всех уползает, и жар исчезает."
+  persons: ["@haridasa-thakura"]
+  places: ["#phulia", "#ganga"]
+  kind: miracle
+  authority: A
+  notes: "Ст. 173: число имён — триста тысяч ежедневно. Ст. 197: даже Кришна не поступит вопреки слову Харидаса."
+  themes: [kirtan, mercy]
+  teaching: [holy-name]
+  event: ev-haridasa-snake
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "172", to: "197"}
+
+- id: cb-0116
+  source: cb
+  ref: "Ади 16, 198–250"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.85
+  title: "Заклинатель змей: Царь змей наказывает лжеэкстатика и славит Харидаса"
+  summary: "Когда заклинатель, в которого вошёл Царь змей, поёт о танце Кришны на Калии, Харидас падает в экстазе, а заклинатель почтительно стоит в стороне; брахман, из зависти изобразивший экстаз, избит; Царь змей устами заклинателя объясняет: подражание бхаве ради почёта — лицемерие, а Харидас, рождённый в низкой семье, чтобы показать ничтожность происхождения без бхакти, как Прахлада и Хануман, — тот, с кем танцует Сам Кришна и к кому стремятся Брахма и Шива."
+  persons: ["@haridasa-thakura"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [ecstasy, offense, krishna-lila]
+  teaching: [vaishnava]
+  event: ev-haridasa-snake-charmer
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "198", to: "250"}
+
+- id: cb-0117
+  source: cb
+  ref: "Ади 16, 251–307"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P01
+  order: 2.87
+  title: "Брахман из Харинади против громкого воспевания; Харидас о стократном благе"
+  summary: "Невежды ропщут, что громкий киртан в чатурмасью будит спящего Господа и навлечёт засуху; брахман из Харинади требует от Харидаса шастр в пользу громкого имени; Харидас: животные и птицы, услышав имя из уст преданного, достигают Вайкунтхи; шепчущий спасает себя, громко поющий — и всех слышащих, потому он в сто раз благотворнее; брахман грозит отрезать ему нос и уши, если тот неправ; Харидас с улыбкой уходит, а через несколько дней нос брахмана сгнивает от оспы. Брахманы без бхакти — демоны в брахманских семьях."
+  persons: ["@haridasa-thakura"]
+  places: ["#harinadi"]
+  kind: teaching
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 293: брахман называет Харидаса «шудрой, объясняющим Веды». Цитаты пуран: ст. 283 «джапато хари-намани…» (громкое воспевание), ст. 301 «ракшасах калим ашритья…», ст. 303–304 — о брахманах-невайшнавах."
+  themes: [teaching, offense, kirtan]
+  teaching: [holy-name, vaishnava]
+  scriptures: ["Бхаг. 10.34.17"]
+  event: ev-haridasa-loud-chanting-harinadi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "251", to: "307"}
+
+- id: cb-0118
+  source: cb
+  ref: "Ади 16, 308–316"
+  file: "chaitanya-bhagavata/ed/CB_Adi16.md"
+  period: P05
+  order: 102
+  title: "Харидас приходит в Навадвипу к Адвайте и вайшнавам"
+  summary: "Печалясь о мире, погружённом в чувственность, Харидас приходит в Навадвипу; Адвайта встречает его как самого дорогого друга, вайшнавы любят его; вместе они говорят об оскорблениях безбожников и обсуждают Гиту и «Бхагавату»."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [kirtan]
+  event: ev-haridasa-phulia-benapole
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi16.md", from: "308", to: "316"}

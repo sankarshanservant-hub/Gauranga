@@ -64,3 +64,7 @@
 | ev-return-from-east-bengal | Ади 14 | Ади 14.156–191 | уточнение стихов (cb-0105) |
 | ev-vishnupriya-matchmaking | Ади 15 | Ади 15.38–67 | уточнение стихов (cb-0107) |
 | ev-marriage-vishnupriya | Ади 15 | Ади 15.68–225 | уточнение стихов (cb-0108, cb-0109) |
+| ev-haridasa-phulia-benapole | Ади 16 | Ади 16.16–35, 308–316 | уточнение стихов (cb-0111, cb-0118) |
+| ev-haridasa-muslim-governor | Ади 16 | Ади 16.36–171 | уточнение стихов (cb-0112–0114) |
+| ev-haridasa-snake | — | Ади 16.172–197 | змей в пещере Харидаса (cb-0115) |
+| ev-navadvipa-vaishnavas-before-advent | Ади 2 | + Ади 16.1–15 | насмешки над киртаном в годы учительства Господа (cb-0110) |
