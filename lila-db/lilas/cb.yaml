@@ -441,3 +441,420 @@
   event: ev-gaura-appearance
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Adi02.md", from: "211", to: "234"}
+
+# ---------- Ади 3. Гороскоп Господа ----------
+
+- id: cb-0024
+  source: cb
+  ref: "Ади 3, 1–8"
+  file: "chaitanya-bhagavata/ed/CB_Adi03.md"
+  period: P02
+  order: 5
+  title: "Радость родителей и родных после явления Господа"
+  summary: "Господь ещё до прихода возвестил санкиртану: в час затмения даже никогда не произносившие имени повторяли «Хари»; видя лицо сына, Джаганнатха Мишра и Шачи теряются от счастья, женщины восклицают «Джая!», родные и друзья спешат в дом."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.108–110, 119–120; Мурари 1.5.28–29; Лочан, Ади-кханда, «Джанма-лила» 81–92"
+  themes: [family, kirtan]
+  years: [1486, 1486]
+  event: ev-birth-festival-nimai-name
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi03.md", from: "1", to: "8"}
+
+- id: cb-0025
+  source: cb
+  ref: "Ади 3, 9–14"
+  file: "chaitanya-bhagavata/ed/CB_Adi03.md"
+  period: P02
+  order: 2
+  title: "Ниламбара Чакраварти видит в гороскопе внука царские знаки"
+  summary: "Ниламбара Чакраварти, отец Шачи и астролог, находит во всех домах гороскопа знаки великого царя, вспоминает пророчество, что Бенгалией будет править сын брахмана, и предсказывает, что дитя превзойдёт Брихаспати в учёности и будет обителью всех добродетелей."
+  persons: ["@nilambara-chakravarti", "@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.121; Мурари 1.5.23–27; Карнапура (ЧКМ) 2.56–59"
+  themes: [revelation, family]
+  years: [1486, 1486]
+  event: ev-nilambara-prediction
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi03.md", from: "9", to: "14"}
+
+- id: cb-0026
+  source: cb
+  ref: "Ади 3, 15–31"
+  file: "chaitanya-bhagavata/ed/CB_Adi03.md"
+  period: P02
+  order: 2.5
+  title: "Садху-брахман предсказывает деяния Младенца и нарекает Его Вишвамбхарой"
+  summary: "В дом приходит садху-брахман: дитя — Сам Нараяна, Он начнёт небывалую проповедь, даст прему, о которой мечтают Брахма, Шива и Шука, и даже яваны будут чтить Его стопы; он нарекает Его Вишвамбхарой и Навадвипа-чандрой, умолчав о будущей санньясе. Бедный Мишра, не имея даров, плачет у стоп брахмана, и тот плачет в ответ."
+  persons: ["@mahaprabhu", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: prophecy
+  authority: A
+  notes: "Брахман не назван. Ст. 28: он скрыл предсказание санньясы, чтобы не печалить семью в радостный день."
+  divergence: "Имя Вишвамбхара: по ЧБ Ади 3.26 — даёт садху-брахман по гороскопу (ср. Ади 4.49: пандиты на наречении); по Мурари 1.6.1–3 — отец."
+  themes: [revelation, family]
+  years: [1486, 1486]
+  event: ev-brahmana-astrologer-names-vishvambhara
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi03.md", from: "15", to: "31"}
+
+- id: cb-0027
+  source: cb
+  ref: "Ади 3, 32–42"
+  file: "chaitanya-bhagavata/ed/CB_Adi03.md"
+  period: P02
+  order: 4.5
+  title: "Неузнанные богини благословляют Младенца; Адити желает Ему долгой жизни"
+  summary: "Под звуки барабанов и флейт богини с небес, неузнанные, смешиваются с женщинами; мать богов Адити, улыбаясь, касается головы Младенца рисом и травой дурва: «Живи долго!»; богини берут пыль со стоп Шачи, а та немеет от счастья. Вся Надия ликует, думая, что празднует затмение."
+  persons: ["@mahaprabhu", "@shachi", "@aditi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.104–107"
+  themes: [celestial, family]
+  years: [1486, 1486]
+  event: ev-goddesses-visit-newborn
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi03.md", from: "32", to: "42"}
+
+- id: cb-0028
+  source: cb
+  ref: "Ади 3, 43–55"
+  file: "chaitanya-bhagavata/ed/CB_Adi03.md"
+  period: PX
+  order: 30
+  title: "Святость дней явления Гауры (пхалгуна-пурнима) и Нитьянанды (магха, трайодаши); вечность лил"
+  summary: "Гаурачандра явился в полнолуние пхалгуны, Нитьянанда — в светлую трайодаши магхи; почитание этих дней даёт бхакти и рассекает узы, а дни явления вайшнавов столь же благодатны; слушание о явлении Гауры избавляет от страданий. Лилы Господа вечны: «явление» и «уход» лишь так называются в Ведах."
+  persons: ["@mahaprabhu", "@nityananda", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author, festival]
+  teaching: [vaishnava]
+  calendar: "пхалгуна, пурнима (Гаура); магха, шукла-трайодаши (Нитьянанда)"
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi03.md", from: "43", to: "55"}
+
+# ---------- Ади 4. Церемония наречения именем ----------
+
+- id: cb-0029
+  source: cb
+  ref: "Ади 4, 1–2"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: PX
+  order: 40
+  title: "Мангалачарана четвёртой главы"
+  summary: "Слава лотосоокому Гауре и Его преданным; автор просит милостивого взора, чтобы день и ночь служить Господу."
+  persons: ["@mahaprabhu", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "1", to: "2"}
+
+- id: cb-0030
+  source: cb
+  ref: "Ади 4, 3–9"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 12
+  title: "Младенец затихает лишь от имени Хари"
+  summary: "Вишварупа сажает брата на колени, родные день и ночь охраняют Младенца мантрами Вишну и Дурги; когда лотосоокий плачет, успокоить Его может лишь пение имён Хари, — узнав эту тайну, все сразу начинают петь."
+  persons: ["@mahaprabhu", "@vishvarupa", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.22–25; ЧЧ Ади 14.21–23"
+  themes: [kirtan, family]
+  bhava: [child]
+  years: [1486, 1486]
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "3", to: "9"}
+
+- id: cb-0031
+  source: cb
+  ref: "Ади 4, 10–17"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 11
+  title: "Боги навещают Младенца: тень бога принимают за вора"
+  summary: "Один из богов незаметно проникает в дом увидеть Господа; родные, заметив тень, кричат «Вор!», взывают к Нрисимхе и Апараджите, читают охранные мантры, а бог ускользает; незримые боги смеются над этой суматохой."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [celestial, pranks]
+  years: [1486, 1486]
+  event: ev-gods-alarm-thief-infant
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "10", to: "17"}
+
+- id: cb-0032
+  source: cb
+  ref: "Ади 4, 18–22"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 11.5
+  title: "Первый выход: Шачи с женщинами у Ганги чтит Гангу и Шаштхи"
+  summary: "Через месяц Шачи с женщинами, с пением и музыкой, впервые выносит Младенца к Ганге; совершив омовение и поклонение Ганге, Шаштхи и всем богам, она одаривает женщин воздушным рисом, бананами, маслом, кункумой и бетелем, и те благословляют дитя."
+  persons: ["@mahaprabhu", "@shachi", "@ganga-devi"]
+  places: ["#ganga", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ."
+  themes: [festival, family]
+  years: [1486, 1486]
+  date_conf: точно
+  date_basis: "ЧБ Ади 4.17–18: через месяц после рождения"
+  event: ev-nishkramana-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "18", to: "22"}
+
+- id: cb-0033
+  source: cb
+  ref: "Ади 4, 23–29"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 12.5
+  title: "Плачем Господь заставляет петь имена: в доме Шачи не смолкает киртан"
+  summary: "Господь нарочно плачет, пока женщины не запоют имена Бога, — и тогда улыбается; поняв это, люди непрестанно поют имена Кришны, хлопая в ладоши, и дом Шачи наполняется хари-санкиртаной."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 13.22–25; ЧЧ Ади 14.21–23"
+  themes: [kirtan, pranks]
+  bhava: [child]
+  years: [1486, 1486]
+  event: ev-crying-stops-at-holy-name
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "23", to: "29"}
+
+- id: cb-0034
+  source: cb
+  ref: "Ади 4, 30–41"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 13
+  title: "Четырёхмесячный Господь разбрасывает зерно и бьёт горшки"
+  summary: "Оставшись один, Младенец разбрасывает рис и горох, разливает молоко, масло и йогурт, бьёт горшки, а заслышав мать, ложится в кроватку и плачет; родные решают, что это бессильный навредить ребёнку демон; Мишра безмолвно принимает убыток, а при взгляде на сына родители забывают печаль."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, Ади-кханда, «Балья-лила» 154–174; Мурари 1.6.9–12"
+  notes: "Ср. проказы Кришны с горшками в Гокуле."
+  themes: [pranks, krishna-lila]
+  bhava: [child]
+  years: [1486, 1486]
+  date_conf: точно
+  date_basis: "ЧБ Ади 4.35: «четырёхмесячный малыш»"
+  event: ev-child-dust-broken-pots
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "30–31", to: "41"}
+
+- id: cb-0035
+  source: cb
+  ref: "Ади 4, 42–62"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 20
+  title: "Наречение имени: Нимай и Вишвамбхара; Младенец выбирает «Бхагавату»"
+  summary: "На обряд наречения приходят пандиты во главе с Ниламбарой; женщины предлагают имя Нимай, ведь Шачи потеряла многих дочерей, а пандиты — Вишвамбхара: с Его рождением кончились голод и засуха и мир обрёл благоденствие; когда перед Ним раскладывают рис, книги, монеты, золото и серебро, Младенец обнимает «Шримад-Бхагаватам», и все предрекают Ему учёность и бхакти."
+  persons: ["@mahaprabhu", "@nilambara-chakravarti", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.12–20; Мурари 1.6.1–3; Лочан, Ади-кханда, «Балья-лила» 103–108; Карнапура (ЧКМ) 2.60–62"
+  divergence: "В ЧБ выбор предметов — на обряде наречения (нама-карана), имя Нимай дают женщины (по ЧЧ Ади 13.117 — Сита Тхакурани), Вишвамбхару — пандиты; у Мурари имя даёт отец, у Лочана — на первом кормлении рисом."
+  themes: [festival, family, learning]
+  years: [1486, 1486]
+  event: ev-annaprashana-vishvambhara-name
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "42", to: "62"}
+
+- id: cb-0036
+  source: cb
+  ref: "Ади 4, 63–76"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 32
+  title: "Ползающий Господь ложится на кольца змея — Ананты"
+  summary: "Ползая с колокольчиками на пояске, Господь хватает всё подряд; в дом заползает змей, Он ложится на его кольца и улыбается, а родные в ужасе кричат «Гаруда!»; Ананта уползает, Господь пытается снова схватить Его; Младенца окропляют чаранамритой, а мудрый говорит: это был царь змей."
+  persons: ["@mahaprabhu", "@balarama", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Змей — Ананта, служащий Господу ложем (ср. Ади 1.44). Ст. 76 — плод слушания."
+  themes: [pranks, revelation]
+  bhava: [child]
+  years: [1486, 1487]
+  event: ev-child-lies-on-snake
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "63", to: "76"}
+
+- id: cb-0037
+  source: cb
+  ref: "Ади 4, 77–83"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P02
+  order: 30
+  title: "Первые шаги и красота Младенца"
+  summary: "Шачинандана начинает ходить и играет по двору: локоны, лотосовые глаза, руки до колен, золотое тело, алые ладони и стопы — Он как Гопала Гокулы; Шачи пугается, думая, что алые стопы кровоточат; бедные родители полны неземного счастья."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.6.7; Лочан, Ади-кханда, «Балья-лила» 109–120; Карнапура (ЧКМ) 2.63–67"
+  themes: [family, krishna-lila]
+  bhava: [child]
+  years: [1487, 1487]
+  event: ev-first-steps
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "77", to: "83"}
+
+- id: cb-0038
+  source: cb
+  ref: "Ади 4, 84–99"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P03
+  order: 95
+  title: "Дитя пляшет под киртан женщин и выпрашивает угощение для поющих"
+  summary: "Родители шепчутся: в их дом пришла великая личность, — Он улыбается и пляшет, лишь заслышав имя Хари; соседки с утра поют, хлопая в ладоши, а Гаурасундар танцует, катается в пыли; Он выпрашивает у прохожих бананы и сладости и раздаёт их поющим женщинам — так всех незаметно побуждает петь имена."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, Ади-кханда, «Балья-лила» 404–421"
+  themes: [kirtan, pranks]
+  bhava: [child]
+  years: [1487, 1488]
+  event: ev-child-kirtan
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "84", to: "99"}
+
+- id: cb-0039
+  source: cb
+  ref: "Ади 4, 100–107"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P03
+  order: 15
+  title: "Проказы в соседских домах"
+  summary: "Нимай забирается в дома соседей, пьёт молоко, ест рис, а не найдя еды — бьёт горшки и заставляет плакать младенцев; пойманный, падает в ноги: «Больше не буду!» — и вместо гнева вызывает лишь ещё большую любовь."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.40–44"
+  themes: [pranks, krishna-lila]
+  bhava: [child]
+  event: ev-nimai-pranks-neighbours
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "100", to: "107"}
+
+- id: cb-0040
+  source: cb
+  ref: "Ади 4, 108–143"
+  file: "chaitanya-bhagavata/ed/CB_Adi04.md"
+  period: P03
+  order: 3
+  title: "Воры уносят Нимая и, заблудившись, приносят Его домой"
+  summary: "Двое воров, позарившись на украшения, уносят Нимая на плечах, угощая сладостями; родные в панике ищут Его, предаваясь Говинде; по воле Господа воры сбиваются с пути и ссаживают Его у дома Мишры, думая, что пришли к себе; Нимай бросается к отцу, а воры, решив, что их спасла Чанди, убегают. Нимай говорит, что заблудился у Ганги и двое взрослых принесли Его."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.38"
+  notes: "Воров сбивает с пути иллюзия Господа (Его йогамайя); ст. 132: воры — счастливейшие, ибо несли Господа на плечах. Ст. 141–143 — плод слушания и колофон главы."
+  themes: [pranks, mercy]
+  bhava: [child]
+  event: ev-thieves-carry-off-nimai
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi04.md", from: "108", to: "143"}
+
+# ---------- Ади 5. Нимай вкушает подношение ----------
+
+- id: cb-0041
+  source: cb
+  ref: "Ади 5, 1–15"
+  file: "chaitanya-bhagavata/ed/CB_Adi05.md"
+  period: P02
+  order: 36
+  title: "Звон нупуров и следы стоп со знаками флага, ваджры и стрекала"
+  summary: "Когда Нимай бежит в дом за книгой отца, родители слышат звон ножных колокольчиков, которых Он не носит, и видят по всему дому следы стоп со знаками флага, ваджры, стрекала и вымпела; плача от восторга, они кланяются следам; Мишра решает, что по дому ходит их Божество — Дамодара-шалаграма, и велит приготовить для Него угощение и омовение панча-гавьей, а Нимай про себя улыбается."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.6–11; ЧЧ Ади 14.76–82 (нупуры); Мурари 1.6.31–35; Лочан, Ади-кханда, «Балья-лила» 125–153"
+  notes: "Звон нупуров на босых ногах — ср. ev-gods-worship-infant-anklets (ЧЧ, Мурари, Лочан); в ЧБ оба чуда соединены в одном эпизоде."
+  themes: [revelation, deities]
+  bhava: [child]
+  event: ev-footprints-gopala
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi05.md", from: "1", to: "15"}
+
+- id: cb-0042
+  source: cb
+  ref: "Ади 5, 16–119"
+  file: "chaitanya-bhagavata/ed/CB_Adi05.md"
+  period: P03
+  order: 5
+  title: "Брахман-паломник: Нимай дважды съедает его подношение; «Я пастушок»"
+  summary: "Странствующий брахман, поклоняющийся Бала-Гопале шестислоговой мантрой, гостит у Мишры; едва он в медитации предлагает рис, нагой, в пыли Нимай съедает горсть; брахман удерживает разгневанного отца. Пока брахман готовит снова, Нимай у соседок отвечает: «Брахман сам Меня позвал; Я пастушок — Мне не потерять касты от риса брахмана», — и снова съедает подношение. Вишварупа, сияющий как Сам Нитьянанда в ином облике, уговаривает гостя приготовить в третий раз; Нимая запирают в комнате."
+  persons: ["@mahaprabhu", "@jagannatha-mishra", "@shachi", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.37; Мурари 1.6.8 (упоминание)"
+  notes: "Ст. 57–59: Господь косвенно открывает, что Он — пастушок Гокулы, но люди под Его йогамайей не понимают. Ст. 81: Вишварупа — «Сам Нитьянанда в другом облике» (ср. ЧЧ Ади 13.75–78: Вишварупа — Санкаршана, проявление Баладевы, по уходе вошёл в Нитьянанду)."
+  themes: [prasada, pranks, krishna-lila]
+  bhava: [child, krishna]
+  event: ev-tirthika-brahmana
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi05.md", from: "16", to: "119"}
+
+- id: cb-0043
+  source: cb
+  ref: "Ади 5, 120–166"
+  file: "chaitanya-bhagavata/ed/CB_Adi05.md"
+  period: P03
+  order: 5.5
+  title: "Брахман-паломник видит восьмирукий облик Господа"
+  summary: "В третий раз, когда всех погрузила в сон Нидра (йога-нидра), Господь приходит к брахману: «Ты зовёшь Меня мантрой — как Мне не прийти?» — и являет восьмирукий облик: раковина, диск, булава, лотос, горшок с маслом, масло у рта, флейта в двух руках; брахман лишается чувств. Господь открывает, что тот уже видел этот облик гостем Нанды в Гокуле, что Он пришёл дать санкиртану и прему, и велит хранить тайну; брахман пляшет «Слава Бала-Гопалу!», вкушает рис и остаётся тайно жить в Навадвипе подле Господа."
+  persons: ["@mahaprabhu", "@nanda"]
+  places: ["#house-jagannatha-mishra", "#navadvipa", "#gokula"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.37 («тайно дарует ему освобождение»)"
+  divergence: "ЧЧ (Ади 14.37) лишь упоминает, что Господь трижды съел пищу гостя и тайно даровал ему милость; восьмирукий облик и рассказ о Гокуле — по ЧБ."
+  themes: [revelation, mercy, krishna-lila]
+  bhava: [aishvarya, krishna]
+  teaching: [holy-name, gaura-tattva]
+  event: ev-tirthika-brahmana
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi05.md", from: "120", to: "166"}
+
+- id: cb-0044
+  source: cb
+  ref: "Ади 5, 167–173"
+  file: "chaitanya-bhagavata/ed/CB_Adi05.md"
+  period: PX
+  order: 50
+  title: "Плод слушания; Гаура и Нитьянанда — прежде Рама и Лакшмана, Кришна и Баларама"
+  summary: "Слушающий об этих лилах скоро обретёт прибежище стоп Кришны; Гаурасундар — Владыка Вайкунтхи, возлюбленный Лакшми и Ситы; в Трета-югу Они с Нитьянандой были Рамой и Лакшманой, в Двапару — Кришной и Баларамой; колофон."
+  persons: ["@mahaprabhu", "@nityananda", "@rama", "@krishna", "@balarama", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [gaura-tattva, associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi05.md", from: "167", to: "173"}

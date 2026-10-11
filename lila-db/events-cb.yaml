@@ -1,0 +1,33 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты» (источник cb; пока Ади-кханда). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml и query.py).
+
+- id: ev-brahmana-astrologer-names-vishvambhara
+  title: "Садху-брахман предсказывает деяния новорождённого и нарекает Его Вишвамбхарой"
+  title_en: "A saintly brahmana foretells the newborn's deeds and names Him Vishvambhara"
+  period: P02
+  order: 2.5
+  cc: ""
+  cb: "Ади 3.15–31"
+  themes: [revelation, family]
+  notes: "Неназванный садху-брахман (не Ниламбара) видит в младенце Нараяну, предсказывает санкиртану и милость даже яванам, даёт имена Вишвамбхара и Навадвипа-чандра и умалчивает о санньясе; бедный Мишра, не имея даров, плачет у его стоп. Ср. ev-nilambara-prediction."
+
+- id: ev-gods-alarm-thief-infant
+  title: "Боги тайком навещают младенца: тень бога принимают за вора"
+  title_en: "The gods secretly visit the infant: a god's shadow is taken for a thief"
+  period: P02
+  order: 11
+  cc: ""
+  cb: "Ади 4.10–17"
+  themes: [celestial, pranks]
+  notes: "Дом Шачи полон охраняющих младенца родных; бог, пробравшийся увидеть Господа, замечен по тени — крики «Вор!», «Нрисимха!», мантры Апараджите; невидимые боги смеются. Ср. ev-gods-worship-infant-anklets."
+
+- id: ev-nishkramana-ganga
+  title: "Первый выход младенца: Шачи с женщинами чтит Гангу и Шаштхи"
+  title_en: "The infant's first outing: Shachi and the women worship Ganga and Shashthi"
+  period: P02
+  order: 11.5
+  years: [1486, 1486]
+  cc: ""
+  cb: "Ади 4.18–22"
+  themes: [festival, family]
+  notes: "Через месяц после рождения (ЧБ Ади 4.17) Шачи с женщинами, с пением и музыкой, идёт к Ганге, совершает омовение и поклонение Ганге и Шаштхи; женщин одаривают воздушным рисом, бананами, бетелем."
