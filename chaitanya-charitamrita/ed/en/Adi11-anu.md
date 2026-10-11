@@ -136,4 +136,50 @@ Kṛṣṇadāsa Sarakhela was the younger brother of Gaurīdāsa Paṇḍita an
 
 He had twenty-two and a half branches: (1) Śrī Nṛsiṁha-caitanya, (2) Kṛṣṇadāsa, (3) Viṣṇudāsa, (4) Baḍa Balarāmadāsa, (5) Govinda, (6) Raghunātha, (7) Baḍu Gaṅgādāsa, (8) Āuliyā Gaṅgārāma, (9) Yādavācārya, (10) Hṛdaya-caitanya, (11) Cā̃da Hāladāra, (12) Maheśa Paṇḍita, (13) Mukuṭa Rāya, (14) Bhātuyā Gaṅgārāma, (15) Āuliyā Caitanya, (16) Kāliyā Kṛṣṇadāsa, (17) Pātuyā Gopāla, (18) Baḍa Jagannātha, (19) Nityānanda, (20) Bhāvi, (21) Jagadīśa, (22) Rāiyā Kṛṣṇadāsa, (22½) Annapūrṇā.
 
-Gaurīdāsa Paṇḍita's elder son was (Baḍa) Balarāma and the younger, Raghunātha. Raghunātha's sons were Maheśa Paṇḍita and Govinda, and his daughter was Annapūrṇā. Śrī Kaṁsāri Miśra of Śāligrāma (family title “Ghoṣāla,” “Vātsya” *gotra*) had six sons: (1) Dāmodara, (2) Jagannātha, (3) Sūryadāsa Sarakhela (the father of Vasudhā and Jāhnavā), (4) Gaurīdāsa, (5) Kṛṣṇadāsa Sarakhela, (6) Nṛsiṁha-caitanya. Some descendants of Kaṁsāri Miśra's kinsmen still live in Śāligrāma. Neither Gaurīdāsa Paṇḍita nor Hṛdaya-caitanya has descendants. Some say that those living now are descendants in the disciplic line of Gaurīdāsa Paṇḍita or Hṛdaya-caitanya. When Jāhnavā-devī went to Śrī Vṛndāvana and saw the *samāja* of her uncle Gaurīdāsa Paṇḍita, she wept: “Seeing the *samādhi* of Gaurīdāsa Paṇḍita, she cannot stop the streams of tears flowing from her eyes.” (*Bhakti-ratnākara*,
+Gaurīdāsa Paṇḍita's elder son was (Baḍa) Balarāma and the younger, Raghunātha. Raghunātha's sons were Maheśa Paṇḍita and Govinda, and his daughter was Annapūrṇā. Śrī Kaṁsāri Miśra of Śāligrāma (family title “Ghoṣāla,” “Vātsya” *gotra*) had six sons: (1) Dāmodara, (2) Jagannātha, (3) Sūryadāsa Sarakhela (the father of Vasudhā and Jāhnavā), (4) Gaurīdāsa, (5) Kṛṣṇadāsa Sarakhela, (6) Nṛsiṁha-caitanya. Some descendants of Kaṁsāri Miśra's kinsmen still live in Śāligrāma. Neither Gaurīdāsa Paṇḍita nor Hṛdaya-caitanya has descendants. Some say that those living now are descendants in the disciplic line of Gaurīdāsa Paṇḍita or Hṛdaya-caitanya. When Jāhnavā-devī went to Śrī Vṛndāvana and saw the *samāja* of her uncle Gaurīdāsa Paṇḍita, she wept: “Seeing the *samādhi* of Gaurīdāsa Paṇḍita, she cannot stop the streams of tears flowing from her eyes.” (*Bhakti-ratnākara*, wave 11.)
+
+Gaurīdāsa's disciple was Hṛdaya-caitanya; Hṛdaya-caitanya's disciple was Gopīramaṇa, the son of Annapūrṇā Devī. His descendants are the present *adhikārīs* of Mahāprabhu at Kālnā.
+
+The *śrīpāṭa* of Ambikā-Kālnā is on the bank of the Gaṅgā across from Śāntipura, in Barddhamāna district; it is a subdivision and a small town. The *śrīpāṭa* is about 1 *krośa* east of Kālnā Court station on the Hāoḍā–Byāṇḍel–Bārahāroyā line, right next to the new *samāja-bāṭī* (mausoleum) of the Rājā of Barddhamāna, or the bazaar. At the entrance to Gaurīdāsa's temple stands a wonderful tamarind tree. It is said that Mahāprabhu and Gaurīdāsa Paṇḍita met beneath this tamarind. The temple is paved with white stone, and in the three chambers of the building the sacred forms reside thus: (1) Śrī Gaurīdāsa, (2) Śrī Rādhā-Kṛṣṇa, (3) Śrī Gaura-Nityānanda, (4) Śrī Jagannātha, (5) Śrī Balarāma and (6) Śrī Rāma-Sītā. West of Paṇḍita Gaurīdāsa's house is the temple of Śrī Sūryadāsa Paṇḍita, and a little farther away the *āśrama* of the perfected Śrī Bhagavān dāsa Bābājī.
+
+The place where the present temple stands is called “Ambikā,” and north of it is Kālnā; so together they are called “Ambikā-Kālnā.” It is said that the oar Śrī Mahāprabhu plied with His own hand and the *Gītā* written in His own hand (see the *Bhakti-ratnākara*, wave 7) are still kept in the temple.
+
+## 27
+
+> Subheading: Gaurīdāsa Paṇḍita, whose life is Gaura and Nitāi —
+
+## 28
+
+> Subheading: (13) Purandara Paṇḍita —
+
+Purandara Paṇḍita. *Caitanya-bhāgavata*, Antya, Chapter 6: “Purandara Paṇḍita is supremely peaceful and self-controlled; he is exclusively dear to Nityānanda-svarūpa.” Antya, Chapter 5: “Then the Prabhu came to the village of Khaḍadaha, to the place of Purandara Paṇḍita's temple. No one can describe all the dancing that Prabhu Nityānanda Rāya did in the village of Khaḍadaha. Purandara Paṇḍita was in supreme madness: climbing a tree, he roared like a lion. Crying, ‘I am Aṅgada!’ he leaped down.”
+
+## 29
+
+> Subheading: (14) Parameśvarī dāsa (*gopāla* 5) —
+
+Parameśvara, or Parameśvarī dāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “Parameśvara dāsa, whose life is Nityānanda; in his body Nityānanda sports.” Antya, Chapter 5: “Kṛṣṇadāsa and Parameśvara dāsa — these two, in the mood of cowherd boys, shout ‘He! He!’ all the time. Purandara Paṇḍita and Parameśvarī dāsa, in whose body Gauracandra is manifest, came running at once. Seeing the Prabhu, both wept, overcome with love.” For some time he lived in Khaḍadaha. In the *Gaura-gaṇoddeśa* (verse 132): “He who was formerly the friend named Arjuna is the servant Śrī Parameśvara.” He is one of the twelve *gopālas*, the friend “Arjuna.” When the queen Śrī Jāhnavā went to the festival at Kheturi, Parameśvara was with her (*Bhakti-ratnākara*, wave 10). By the order of Mother Jāhnavā he installed the Deity “Śrī Rādhā-Gopīnātha” at Āṭapura (see the same, wave 13).
+
+In the *Śrī Vaiṣṇava-vandanā*: “With care I shall honor Parameśvara dāsa Ṭhākura, who made a jackal utter the holy name where *saṅkīrtana* was held.” The thirteenth wave of the *Bhakti-ratnākara* tells of Parameśvarī Ṭhākura.
+
+The *śrīpāṭa* of Parameśvarī Ṭhākura is Āṭapura, on the Cā̃pāḍāṅgā branch of the Hāoḍā–Āmtā railway, near Āṭapura station and the ancient temple of Śrī Rādhā-Govinda, founded by the late Kṛṣṇakumāra Mitra, *dewan* of the Barddhamāna Rāja Teja Bāhādura. Formerly the place was called “Viśakhālā.”
+
+Right in front of the temple grow two *bakula* trees side by side, giving dense shade, and separately a *kadamba* tree; between them is the *samādhi* of Parameśvarī Ṭhākura, beautifully crowned with a *tulasī* platform. It is said that the present two trees grew from branches of the two *bakula* trees that stood in Śrīla Parameśvarī Ṭhākura's time. Every year the *kadamba* tree bears a single flower, and with it the Deity's lotus feet are worshiped.
+
+Parameśvarī Ṭhākura was born in a Vaidya family. His brother's descendants are the present servitors of the *śrīpāṭa*. Some of them also live in the village of Garalagāchā (Caṇḍītalā post office, Hugalī district). Until recently they had many disciples who were *brāhmaṇas* by birth. But in the course of time they took up the Vaidya profession, like ordinary worldly people, and so all their disciples of *brāhmaṇa* families gradually left them. Their title is “Adhikārī.” The present servitors of the *śrīpāṭa* are Śrī Rādhikāprasanna Adhikārī Kavirāja Mahāśaya and the widowed, sonless mother-in-law of Naṭavara Adhikārī Mahāśaya. The family name of their caste is “Gupta.”
+
+They regard themselves as ordinary “Vaidyas” and have the Ṭhākura worshiped by *devala brāhmaṇas*. There are now eight households of servitors, and the eight households have merged into two. Formerly much land was set aside for the Deity's service, but they have lost all of it. Now the service of the Deity is kept up with great difficulty on a small *debottara* endowment.
+
+In the temple, Śrī Baladeva and Śrī Rādhā-Gopīnātha are seen on a single throne. The Baladeva Deity was probably installed later. To place Śrī Baladeva and Śrī Kṛṣṇa with Śrīmatī on the same throne is contrary to *tattva*. On the full-moon day of Vaiśākha the festival of Parameśvarī Ṭhākura's disappearance is held.
+
+## 30
+
+> Subheading: (15) Jagadīśa Paṇḍita —
+
+The *śrīpāṭa* of Śrī Jagadīśa Paṇḍita is the village of Yaśaḍā, within a mile of Cākadaha station (on the E.B.R. line) in Nadīyā district. See the *Caitanya-bhāgavata*, Ādi, Chapter 4, and the *Caitanya-caritāmṛta*, Ādi 14.39. From the account of the Yaśaḍā *śrīpāṭa* we learn that Jagadīśa Bhaṭṭa was born in East Bengal, in the region of Gauhāṭī. His father, Kamalākṣa, was a descendant of Bhaṭṭanārāyaṇa, of the Bandyaghaṭīya family of Gayaghara. Both Jagadīśa's father and his mother were householders devoted to Viṣṇu. After his parents' disappearance, Jagadīśa left his birthplace with his wife “Duḥkhinī” and his brother Maheśa. In order to live on the bank of the Gaṅgā and spend his time with Vaiṣṇavas, he came to Śrī Māyāpura and settled near the house of Śrī Jagannātha Miśra. Gaurasundara ordered Jagadīśa to go to Nīlācala to preach the holy name. By Śrīman Mahāprabhu's order Jagadīśa Paṇḍita preached the name in Nīlācala. There he prayed to Jagannāthadeva, and in answer to his prayer he was allowed to bring back a form of Jagannāthadeva. Jagadīśa installed the Deity in the village of Yaśaḍā on the bank of the Gaṅgā, now within Cākadaha police station. There is a tradition that Jagadīśa Paṇḍita carried this Jagannātha Deity from Puruṣottama to Yaśaḍā on a staff. Even today the servitors at Yaśaḍā display a staff as “Jagadīśa Paṇḍita's staff on which the Jagannātha Deity was brought.”
+
+It is said that Śrī Gaura-Nityānanda Prabhu came to the village of Yaśaḍā twice with Their associates, and here there were *saṅkīrtana* processions, talks about Hari, *kīrtana* and a great festival.
+
+Jagadīśa Paṇḍita enacted the pastime of a householder. His only son was named “Rāmabhadra Gosvāmī.”
+
+Formerly the Jagannātha Deity was installed under a banyan tree on the bank of the Gaṅgā; later Rājā Kṛṣṇacandra of Goyāḍī-Kṛṣṇanagara had a temple built. When the temple built by the Rājā of Kṛṣṇanagara fell into ruin, Mokṣadā Dāsī, the wife of the local Umeśacandra Majumadāra, in 1324
