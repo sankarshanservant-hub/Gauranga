@@ -575,3 +575,112 @@
 - Имена/места: Джарасандха; Джагай, Мадхай; Шри Вриндаван дас Тхакур, деревня Денур (участок Мантрешвар, округ Бардхаман); Лочана дас Тхакур; Нараяни (Деви), Амбика, Килимбика; Пандит Харидас (Шри Рагху Гопала, Раса-манджари); Ананта Ачарья (Судеви, Винода-манджари); Гангамата-матх, Лакшмиприя, Гангамата (дочь раджи Путии), Божество Шри Расика-рай, Кришна Мишра из Джайпура; Кашишвара (Пандит) Госвами (род Канджилал Кану, готра Ватсья, титул Чаудхури; Чатра близ Шрирампура; Бхрингара, Шаширекха), Рудра Пандит из Валлабхапура, Шивачандра Чаудхури; Бхугарбха, Шивананда Чакраварти; Мадана-Гопала, Мадана-мохан, пуджари Госани дас; Пандит Госани (= Гададхара Пандит); Кумарахатта (Халисахар); Гопинатха Ачарья; Парамананда Пури (из Трихуты; Уддхава); Кешава Бхарати (Сандипани; Акрура; Катва; Кхатунди, почта Кандра; Нишапати, Ушапати, Накаричандра Видьяратна, Ракхаладаспур близ Байнчи; Мадхава Бхарати, Балабхадра, Мадана (Аурия), Гопала (Дендур)); Брахмананда Пури, Брахмананда Бхарати / Jarāsandha; Jagāi, Mādhāi; Śrī Vṛndāvana dāsa Ṭhākura, Denuḍa (Mantreśvara police station, Barddhamāna district); Locana dāsa Ṭhākura; Nārāyaṇī (Devī), Ambikā, Kilimbikā; Paṇḍita Haridāsa (Śrī Raghu Gopāla, Rāsa Mañjarī); Ananta Ācārya (Sudevī, Vinoda Mañjarī); the Gaṅgāmātā Maṭha, Lakṣmīpriyā, Gaṅgāmātā (daughter of the king of Puṭiyā), the Deity Śrī Rasika-rāya, Kṛṣṇa Miśra of Jaipur; Kāśīśvara (Paṇḍita) Gosvāmī (Kāñjilāla Kānu family, Vātsya *gotra*, title Caudhurī; Cātarā near Śrīrāmapura; Bhṛṅgāra, Śaśirekhā), Rudra Paṇḍita of Vallabhapura, Śivacandra Caudhurī; Bhūgarbha, Śivānanda Cakravartī; Madana-Gopāla, Madana-mohana, the priest Gosāñi dāsa; Paṇḍita Gosāñi (= Gadādhara Paṇḍita); Kumārahaṭṭa (Hālisahara); Gopīnātha Ācārya; Paramānanda Purī (of Trihuta; Uddhava); Keśava Bhāratī (Sāndīpani; Akrūra; Kāṭoyā; Khāṭundi, Kāndarā post office; Niśāpati, Uṣāpati, Nakaṛicandra Vidyāratna, Rākhāladāsapura near Baiṁci; Mādhava Bhāratī, Balabhadra, Madana (Āuriyā), Gopāla (Denduḍa)); Brahmānanda Purī, Brahmānanda Bhāratī.
 - Источники: “Хари-бхакти-виласа” (11.289, слова “Падма-пураны”), “Бхакти-расамрита-синдху”, “Шри Гаура-ганоддеша-дипика”, “Кришна-лиламрита” (Ишвары Пури), “Чайтанья-бхагавата” (Ади, Антья), “Вайшнава-манджуша” (выпуск 2), “Шри Бхагавата-самхита”, “Вишну-пурана” (3.12.45), “Крама-сандарбха” (по-видимому, «Сандарбха» в Ади 8.25) / *Hari-bhakti-vilāsa*, *Padma Purāṇa*, *Bhakti-rasāmṛta-sindhu*, *Śrī Gaura-gaṇoddeśa-dīpikā*, *Kṛṣṇa-līlāmṛta*, *Caitanya-bhāgavata*, *Vaiṣṇava-mañjuṣā*, *Śrī Bhāgavata-saṁhitā*, *Viṣṇu Purāṇa*, *Krama-sandarbha*.
 - Оформление: подзаголовок, состоящий только из ссылки на источник шлоки, передаётся как `> Подзаголовок: (Шримад-Бхагаватам, песнь 5, глава 18, стих 12)`; цитаты стихов ЧЧ из Мадхьи и Антьи — переводом ВЧД (`vcd/txt/`), если он есть и близок к тексту, иначе своим переводом.
+
+## Термины (добавлено по Ади 10; RU и EN)
+
+Имена — с окончанием по санскритской форме (Гададхара, Чандрашекхара), кроме устоявшихся у ВЧД бенгальских форм (Шривас, Харидас, Мукунда Датта, Шивананда Сен). Деревни, округа, участки — транслитерацией бенгальского названия, без осовременивания (Чаттаграм, не «Читтагонг»).
+
+### Термины
+- নবনিধি → девять нидхи (сокровищ) / the nine *nidhis* (treasures).
+- দেবীভাবে নৃত্যাভিনয় → танец, в котором Он представлял Деви / dance enacting the role of the Goddess.
+- একঘরে → «экагхаре», отлучённые от общины / *ekaghare*, outcasts from the community.
+- বারেন্দ্র / রাঢ়ীয় বিপ্র → брахманы-варендра / -радхия / Vārendra / Rāḍhīya brāhmaṇas.
+- শ্রীপাট → шрипат (святое место, где жил преданный) / *śrīpāṭa* (holy site).
+- ভজনমন্দির → храм, где совершал бхаджан / temple of worship (*bhajana-mandira*).
+- ক্রোশ → крош / *krośa*; হস্ত → локоть / cubit; থানা → полицейский участок / police station.
+- দীক্ষাভিনয় লীলা → игра, в которой принимает посвящение / the pastime of taking initiation.
+
+### Имена и места
+- Шривас Пандит, Шрирама Пандит, Шрипати, Шринидхи; Малини; Нараяни Деви; Амбика; Нарада, Парвата / Śrīvāsa Paṇḍita, Śrīrāma Paṇḍita, Śrīpati, Śrīnidhi; Mālinī; Nārāyaṇī Devī; Ambikā; Nārada, Parvata.
+- Шри Чандрашекхара Ачарьяратна; Враджапаттана / Śrī Candraśekhara Ācāryaratna; Vrajapattana.
+- Пундарика Видьянидхи (Пундарикакша, Према-нидхи); Вришабхану; Ратнавати, Киртида; Банешвара, Шукламбара Брахмачари, Гангадеви, Шиварама Гангопадхьяя; Сароджананда Госвами; Харакумара Смрититиртха, Кришнакинкара Видьяланкара / Puṇḍarīka Vidyānidhi (Puṇḍarīkākṣa, Premanidhi); Vṛṣabhānu; Ratnāvatī, Kīrtidā; Bāṇeśvara, Śuklāmbara Brahmacārī, Gaṅgādevī, Śivarāma Gaṅgopādhyāya; Sarojānanda Gosvāmī; Harakumāra Smṛtitīrtha, Kṛṣṇakiṅkara Vidyālaṅkāra.
+- Места: Чаттаграм; Багхия (округ Дхака); Хат-Хаджари; Мекхала; гхат Аннапурны; Кумарахатта; Катва; Гауда; Шри Кшетра / Caṭṭagrāma; Bāghiyā (Ḍhākā district); Hāṭ-Hājārī; Mekhalā; Annapūrṇā's *ghāṭa*; Kumārahaṭṭa; Kāṭoyā; Gauḍa; Śrī Kṣetra.
+- Источники: “Вайшнава-манджуша” (выпуск 1) / *Vaiṣṇava-mañjuṣā* (issue 1).
+- Гададхара Пандит Госани; Лалита (Анурадхика); “Гаурачандродая” (так в издании) / Gadādhara Paṇḍita Gosāñi; Lalitā (Anurādhikā); *Gauracandrodaya*.
+- Вакрешвара Пандит; Анируддха; Шаширекха; Тунгавидья; Шри Дхьяначандра Госвами Прабху; Шри Гопала-гуру; Шри Говинда, поэт из Уткалы, “Шри Гаура-кришнодая”; Девананда / Vakreśvara Paṇḍita; Aniruddha; Śaśirekhā; Tuṅgavidyā; Śrī Dhyānacandra Gosvāmī Prabhu; Śrī Gopāla-guru; Śrī Govinda, the Utkala poet, *Śrī Gaura-kṛṣṇodaya*; Devānanda.
+- Джагадананда Пандит, Сатьябхама, сатваты / Jagadānanda Paṇḍita, Satyabhāmā, the Sātvatas.
+- Рагхава Пандит, Дхаништха; Макарадхваджа Кара, Чандрамукха; Дамаянти, Гунамала; Панихати, Шиялдаха, Содапур; Шри Мадана-мохан; Шри Шивачандра Рай Чаудхури / Rāghava Paṇḍita, Dhaniṣṭhā; Makaradhvaja Kara, Candramukha; Damayantī, Guṇamālā; Pāṇihāṭī, Śiyāladaha, Sodapura; Śrī Madana-mohana; Śrī Śivacandra Rāya Caudhurī.
+- Гангадаса Пандит, Васиштха, Сударшана, Дурваса, Нидхувана; Пурандара Ачарья; Дамодара Пандит, Шайбья, Сарасвати; Аи (Шачимата); Шанкара Пандит, Бхадра / Gaṅgādāsa Paṇḍita, Vasiṣṭha, Sudarśana, Durvāsā, Nidhuvana; Purandara Ācārya; Dāmodara Paṇḍita, Śaibyā, Sarasvatī; Āi (Śacīmātā); Śaṅkara Paṇḍita, Bhadrā.
+- Термины: випралабдха / *vipralabdhā*; джхали (мешки Рагхавы) / *jhāli*; Е. B. R. → Восточно-Бенгальская железная дорога / the E.B.R. line; заминдар / zamindar; самадхи / *samādhi*.
+- Садашива Пандит; Прадьюмна Брахмачари (Нрисимхананда, Прадьюмна Мишра); Накула Брахмачари; Кулия; Канай Наташала; Пияригандж, Кална / Sadāśiva Paṇḍita; Pradyumna Brahmacārī (Nṛsiṁhānanda, Pradyumna Miśra); Nakula Brahmacārī; Kuliyā; Kānāi Nāṭaśālā; Piyārīgañja, Kālnā.
+- Нараяна Пандит; Шриман Пандит; Шукламбара Брахмачари; Нандана Ачарья, Рамаи Пандит; Мукунда Датта (Мадхукантха), Васудева Датта (Мадхуврата); Чханхара, полицейский участок Патия; Джалешвар; Ядунандана Ачарья; Пурвастхали, Мамагачхи; Шри Мадана-Гопала / Nārāyaṇa Paṇḍita; Śrīmān Paṇḍita; Śuklāmbara Brahmacārī; Nandana Ācārya, Rāmāi Paṇḍita; Mukunda Datta (Madhukaṇṭha), Vāsudeva Datta (Madhuvrata); Chanharā, Paṭiyā police station; Jaleśvara; Yadunandana Ācārya; Pūrvasthalī, Māmagāchi; Śrī Madana-Gopāla.
+- Харидас Тхакур (Намачарья); Бурхан, Фулия, Шантипур, Бенапол; подокруг Саткшира, 24 Парганы, Кхулна; Сатьяраджа Кхан, Гунараджа Кхан, Рамананда Васу; Кулинаграм, станция Джауграм / Haridāsa Ṭhākura (Nāmācārya); Būṛhana, Phuliyā, Śāntipura, Benāpola; Sātakṣīrā subdivision, Twenty-four Parganas, Khulnā; Satyarāja Khān, Guṇarāja Khān, Rāmānanda Vasu; Kulīnagrāma, Jaugrāma station.
+- Мурари Гупта (“Шри Чайтанья-чарита”); Шрихатта; Шриман Сен; Гададхара дас, Эндиядаха, Чандраканти, Пурнананда; Мадхава Гхош («Дана-кханда»); Бала-Гопала; Бхагаван дас Бабаджи из Калны; Мадхусудана Маллик, Нарикеладанга; Балай Маллик; Шри Радхаканта; Гопешвара / Murāri Gupta (*Śrī Caitanya-carita*); Śrīhaṭṭa; Śrīmān Sena; Gadādhara dāsa, Eṅḍiyādaha, Candrakānti, Pūrṇānandā; Mādhava Ghoṣa (“Dāna-khaṇḍa”); Bāla-Gopāla; Bhagavān dāsa Bābājī of Kālnā; Madhusūdana Mallika, Nārikeladāṅgā; Balāi Mallika; Śrī Rādhākānta; Gopeśvara.
+- Шивананда Сен (Вира); Канчарапара, Гаура-Гопала, храм Шри Кришна-рая; Чайтанья дас, Рамадас, Парамананда (Пуридас, Кави Карнапура); Дакша, Вичакшана; Шринатха Пандит; Шриваллабха Сен, Шриканта Сен (Катьяяни); Говинданда, Говинда Датта, Сукхачар, Кхарадаха / Śivānanda Sena (Vīrā); Kāñcaḍāpāḍā, Gaura-Gopāla, temple of Śrī Kṛṣṇa-rāya; Caitanya dāsa, Rāmadāsa, Paramānanda (Purīdāsa, Kavi-karṇapūra); Dakṣa, Vicakṣaṇa; Śrīnātha Paṇḍita; Śrīvallabha Sena, Śrīkānta Sena (Kātyāyanī); Govindānanda, Govinda Datta, Sukhacara, Khaḍadaha.
+- Виджая дас (Ратнабаху); Акинчана Кришнадас; Шридхара (Кусумасава-гопала); Бхагаван Пандит; Джагадиша Пандит (Чандрахаса), Хиранья Пандит; Пурушоттама, Санджая, Мукунда Санджая; Ванамали Пандит (Маладхара); Буддхиманта Кхан; Вишнуприя Деви, Санатана Мишра; Гаруда Пандит; Гопинатха Симха (Акрура); Девананда Пандит (Бхагури Муни), Махешвара Вишарада / Vijaya dāsa (Ratnabāhu); Akiñcana Kṛṣṇadāsa; Śrīdhara (Kusumāsava-gopāla); Bhagavān Paṇḍita; Jagadīśa Paṇḍita (Candrahāsa), Hiraṇya Paṇḍita; Puruṣottama, Sañjaya, Mukunda Sañjaya; Vanamālī Paṇḍita (Mālādhara); Buddhimanta Khān; Viṣṇupriyā Devī, Sanātana Miśra; Garuḍa Paṇḍita; Gopīnātha Siṁha (Akrūra); Devānanda Paṇḍita (Bhāguri Muni), Maheśvara Viśārada.
+- Шрикханда (Кханда): Мукунда дас (Вринда-деви), Нараяна дас, Мадхава дас, Рагхунандана (Прадьюмна), Канай, Мадана Рай, Вамшивадана; Нарахари Саркар Тхакур (Мадхумати); Лочана дас Тхакур, Кограм, Джаматапур; Чиранджива Сен (Чандрика), Сулочана; Рамачандра Кавирадж, Говинда дас Кавирадж, Сунанда, Дамодара Сен Кавирадж; Кумаранагар / Śrīkhaṇḍa (Khaṇḍa): Mukunda dāsa (Vṛndā-devī), Nārāyaṇa dāsa, Mādhava dāsa, Raghunandana (Pradyumna), Kānāi, Madana Rāya, Vaṁśīvadana; Narahari Sarakāra Ṭhākura (Madhumatī); Locana dāsa Ṭhākura, Kogrāma, Jhāmaṭapura; Cirañjīva Sena (Candrikā), Sulocana; Rāmacandra Kavirāja, Govinda dāsa Kavirāja, Sunandā, Dāmodara Sena Kavirāja; Kumāranagara.
+- Кулинаграм: Калакантхи, Сукантхи; Ядунатха, Пурушоттама, Шанкара, Видьянанда; Ванинатха Васу / Kalakaṇṭhī, Sukaṇṭhī; Yadunātha, Puruṣottama, Śaṅkara, Vidyānanda; Vāṇīnātha Vasu.
+- Рупа, Санатана, Анупама (Шри Валлабха, Анупам Маллик): Сарвагья, Анируддха, Рупешвара, Харихара, Падманабха, Мукунда, Кумарадева; Карната, Шикхарабхуми, Наихати, Бакла-Чандрадвипа, Фатеябад, Яшохар, Рамакели («Гупта-Вриндаван»), Инреджбаджар, Малдах; Субуддхи Рай; Видьявачаспати; Ишана, Шриканта (муж сестры), Хаджипур; Тапана Мишра; Рупа-манджари, Рати-манджари (Лаванга-манджари); Мадана-мохан, кели-кадамба, Рупа-сагара; «Рамакели-самскара-самити» / Rūpa, Sanātana, Anupama (Śrī Vallabha, Anupama Mallika): Sarvajña, Aniruddha, Rūpeśvara, Harihara, Padmanābha, Mukunda, Kumāradeva; Karṇāṭa, Śikharabhūmi, Naihāṭī, Bākalā-Candradvīpa, Phateyābāda, Yaśohara, Rāmakeli (“Gupta Vṛndāvana”), Iṁrejabājāra, Māladaha; Subuddhi Rāya; Vidyāvācaspati; Īśāna, Śrīkānta (sister's husband), Hājipura; Tapana Miśra; Rūpa-mañjarī, Rati-mañjarī (Lavaṅga-mañjarī); Madana-mohana, *keli-kadamba*, Rūpa-sāgara; *Rāmakeli-saṁskāra-samiti*.
+
+### Термины (добавлено, разделы 33–84)
+- কাচ → представление, кача (костюм для игры) / play, costume (*kāca*); কোটাল → котвал (начальник стражи) / *koṭāla* (chief of the watch).
+- সাক্ষাৎ, আবেশ, আবির্ভাব → «сакшат» (непосредственно), «авеша» (вхождение), «авирбхава» (проявление) / *sākṣāt*, *āveśa*, *āvirbhāva*.
+- সাতপ্রহরিয়া ভাব → «сат-прахария»-бхава (бхава, длившаяся семь прахар) / the *sāt-prahariyā bhāva*.
+- আত্মবৃত্তি → атма-вритти, занятие своей варны / *ātma-vṛtti*, the occupation of one's own *varṇa*; কবিরাজ → кавирадж, лекарь / *kavirāja*, physician.
+- সরখেল → саркхел (управляющий) / *sarakhela* (manager); ঘাটি → застава (гхати) / toll station (*ghāṭi*); মোহর → мохар / *mohar*; ভোটকম্বল → бхотское одеяло / Bhoṭa blanket.
+- পট্টডোরী → шёлковые верёвки (патта-дори) / silk ropes (*paṭṭa-ḍorī*); চাতুর্মাস্য → чатурмасья / Cāturmāsya.
+- বায়ুব্যাধি → расстройство ваю (воздуха в теле) / disorder of *vāyu*; চণ্ডীগৃহ → чанди-мандапа / Caṇḍī-maṇḍapa.
+- সংযোগী বৈষ্ণব → саньоги-вайшнавы / *saṁyogī* Vaiṣṇavas; পাটবাটী → патбати (святая обитель) / *pāṭabāṭī* (holy residence).
+- গঙ্গাপ্রাপ্তি → «обрёл Гангу» (оставил тело на Ганге) / attaining the Gaṅgā; রামচন্দ্রের ধাম লাভ → достиг обители Шри Рамачандры / attained the abode of Śrī Rāmacandra.
+- সাল (бенг.) → год бенгальской эры / Bengali year; ইং তারিখ → по английскому календарю / English calendar; শকাব্দ → эра Шака / Śaka era.
+- গোপাল (দ্বাদশ গোপাল) → гопалы (двенадцать гопал) / *gopālas* (the twelve *gopālas*); পদকর্তা → автор пад / composer of *padas*.
+- মুমুক্ষু → мумукшу (стремящийся к освобождению) / *mumukṣu*; পাষণ্ড ছাত্রগণ → безбожники-ученики / godless students.
+
+### Термины
+- দিগ্বিজয়ী পণ্ডিত → дигвиджайи-пандит / *digvijayī paṇḍita*; জয়পত্র → расписка в поражении / a written admission of defeat.
+- জড়প্রতিষ্ঠাভিক্ষু → жаждущий мирской славы / hungering for worldly fame.
+- গুরুদেবতাত্মা → «гуру-деватма» (для кого гуру — божество и сама душа; Бхаг. 11.2.37) / *guru-devatātmā*.
+- তৃণাদপি সুনীচ, মানদ → «смиреннее травы», «чтящий других» / “lower than a blade of grass,” “giving honor to others.”
+- স্বকীয়-বাদ → учение свакия / the *svakīyā* doctrine; পারকীয়-ব্রজরস → паракия-раса Враджа / the *parakīyā-rasa* of Vraja.
+- শৌক্র কায়স্থ / শৌক্র করণ / শৌক্র ব্রাহ্মণ → каястха / карана / брахман по рождению / Kāyastha / Karaṇa / brāhmaṇa by birth; অশৌক্রব্রাহ্মণ-কুলোদ্ভূত → рождённый не в брахманской семье / not born in a brāhmaṇa family.
+- নাট্যমন্দির, জগমোহন → натья-мандир, джагамохана / *nāṭya-mandira*, *jagamohana*.
+- ভজনাসন → «место бхаджана» / “seat of worship” (*bhajanāsana*).
+- হাত (мера) → хат (локоть) / cubit; ১॥০, ১।০, ৷৷০/৸০ — полтора, с четвертью, три четверти.
+- শ্রীপাট, পাট, পাটবাটী → шрипат, пат / *śrīpāṭa*, *pāṭa*.
+- সমাজ (о гробнице) → самадж (гробница) / *samāja* (tomb).
+- সেবায়েত → служители (Божества) / servitors.
+- ক্ষেত্র-সন্ন্যাস → кшетра-санньяса / *kṣetra-sannyāsa*.
+- ভট্টথারি → бхаттатхари / the Bhaṭṭathāris.
+- গজপতি → гаджапати / a Gajapati.
+- মহাসোয়ার (Мадхья 10.43) → (у ВЧД опущено) / *mahāsoyāra*.
+- নান্দীশ্লোক → нанди-шлока / the *nāndī* verse.
+- প্রাণসখী, প্রিয়নর্ম্মসখ → прана-сакхи, прия-нарма-сакха / *prāṇa-sakhī*, *priya-narma-sakha*.
+- চাতুর্ম্মাস্য-ব্রত → обет чатурмасьи / the Cāturmāsya vow.
+- অষ্টকালীয় সেবা → аштакалия-сева (служение в восемь частей суток) / *aṣṭa-kālīya sevā*.
+- গুপ্তসেবা / অন্তরঙ্গ-সেবা → сокровенное служение / антаранга-сева (интимное служение) / hidden service / *antaraṅga-sevā*.
+- ভৃগুপাত → броситься вниз (с горы) / throwing oneself down (from a height).
+- মাঠা → пахта / buttermilk.
+- অপরশ → не касаясь / without touching.
+- ‘যদ্বা তদ্বা’ কবি → поэт, кое-как слагающий стихи / a mere versifier.
+- সাড়ে তিন জন → «трое с половиной» / “three and a half.”
+- বঙ্গাব্দ / সাল → год бенгальской эры / Bengali year; শকাব্দ → год Шака / Śaka.
+- ই, আই, আর (E. I. R.) → линия E. I. R. / the E.I.R. line.
+
+### Книги
+- “Харинамамрита”, “Сутра-малика”, “Дхату-санграха”, “Кришнарча-дипика”, “Гопала-вирудавали”, “Расамрита-шеша”, “Шри Мадхава-махотсава”, “Шри Санкалпа-калпаврикша”, “Бхавартха-сучака” (чампу), “Гопала-тапани”, “Йогасара-става”, “Агни-пурана”, “Гопала-чампу” (Пурва, Уттара), семь “Сандарбх” (Крама-, Таттва-, Бхагават-, Параматма-, Кришна-, Бхакти-, Прити-) / *Harināmāmṛta*, *Sūtra-mālikā*, *Dhātu-saṅgraha*, *Kṛṣṇārcā-dīpikā*, *Gopāla-virudāvalī*, *Rasāmṛta-śeṣa*, *Śrī Mādhava-mahotsava*, *Śrī Saṅkalpa-kalpavṛkṣa*, *Bhāvārtha-sūcaka*, *Gopāla-tāpanī*, *Yogasāra-stava*, *Agni Purāṇa*, *Gopāla-campū*, the *Sandarbhas*.
+- “Става-мала” (“Стававали”), “Шри Дана-чарита”, “Мукта-чарита” / *Stava-mālā* (*Stavāvalī*), *Śrī Dāna-carita*, *Mukta-carita*.
+- “Сат-крия-сара-дипика”, “Кришна-карнамрита” / *Sat-kriyā-sāra-dīpikā*, *Kṛṣṇa-karṇāmṛta*.
+- “Аштоттара-шата-нама”, “Кришна-према-тарангини”, “Стхана-нирупана”, “Чайтанья-шатака”, “Дидхити”, “Шри Джаганнатха-валлабха”, “Чайтанья-чандродая”, “Чайтанья-чарита-махакавья”, “Вайшнава-вандана” / *Aṣṭottara-śata-nāma*, *Kṛṣṇa-prema-taraṅgiṇī*, *Sthāna-nirūpaṇa*, *Caitanya-śataka*, *Dīdhiti*, *Śrī Jagannātha-vallabha*, *Caitanya-candrodaya*, *Caitanya-carita-mahākāvya*, *Vaiṣṇava-vandanā*.
+- “Шри Бхакти-ратнакара”: волна N / *Śrī Bhakti-ratnākara*: wave N (taraṅga).
+
+### Имена (спутники; в скобках — отождествления по “Гаура-ганоддеше”)
+- Шри Джива (Виласа-манджари), Шри Валлабха (Анупама), Мадхусудана Вачаспати, Виттхала-дева, Дукхи Кришнадас («Шьямананда»), Рамачандра Сен и Говинда («Кавираджа»), Джахнава-деви, Кришнадас Адхикари / Śrī Jīva (Vilāsa-mañjarī), Śrī Vallabha, Madhusūdana Vācaspati, Viṭṭhala-deva, Duḥkhī Kṛṣṇadāsa, Rāmacandra Sena, Govinda, Jāhnavā Devī, Kṛṣṇadāsa Adhikārī.
+- Рагхунатха дас (Раса-манджари / Рати-манджари / Бханумати), Хиранья Маджумдар, Говардхана (дас), Ядунандана Ачарья, Харичарана Гхош / Raghunātha dāsa (Rasa-, Rati-mañjarī, Bhānumatī), Hiraṇya Majumadāra, Govardhana (dāsa), Yadunandana Ācārya, Haricaraṇa Ghoṣa.
+- Гопала Бхатта (Ананга-манджари / Гуна-манджари), Венката Бхатта, Прабодхананда Сарасвати, Гханашьяма дас, пуджари Гопинатха / Gopāla Bhaṭṭa (Anaṅga-, Guṇa-mañjarī), Veṅkaṭa Bhaṭṭa, Prabodhānanda Sarasvatī, Ghanaśyāma dāsa, Gopīnātha Pūjārī.
+- Шанкараранья (Вишварупа), Пуришвара, Мукунда Санджая, Пурушоттама, Кашинатха, Сатраджит, Сатья, Рудра Пандит (Варутхапа), Рудрарама Пандит, Ядунандана Бандьопадхьяя, «Чакраварти», Камалакара Пиппалаи / Śaṅkarāraṇya, Purīśvara, Mukunda Sañjaya, Puruṣottama, Kāśīnātha, Satrājit, Satyā, Rudra Paṇḍita (Varūthapa), Rudrarāma Paṇḍita, Yadunandana Bandyopādhyāya, the Cakravartīs, Kamalākara Pippalāi.
+- Шринатха Пандит, Шивананда Сен, Парамананда Кави Карнапура, Нимай Маллик, Вирабхадра Прабху; Божества Шри Гаура-Гопала, Шри Кришна-рай, Шри Радха-валлабха, Шри Шьямасундара / Śrīnātha Paṇḍita, Śivānanda Sena, Paramānanda Kavi Karṇapūra, Nimāi Mallika, Vīrabhadra Prabhu; Śrī Gaura-Gopāla, Śrī Kṛṣṇa-rāya, Śrī Rādhā-vallabha, Śrī Śyāmasundara.
+- Джаганнатха Ачарья (Дурваса), Шринатха Мишра (Читранги), Кавичандра (Манохара), Шубхананда (Малати), Ишана (дас), Субуддхи Мишра (Гуначуда), Камаланаяна (Гандхонмада), Махеша Пандит, Чандрашекхара Вайдья, Двиджа Харидас (сыновья Шридама, Гокулананда), Шри Галима, Гопала дас (Тарака / Пали), Бхагаватачарья (Рагхунатха), Тхакур Саранга дас = Шарнга Тхакур (Шарнгапани, Шарнгадхара; Нандимукхи), Шри Тхакур Мурари / Jagannātha Ācārya (Durvāsā), Śrīnātha Miśra (Citrāṅgī), Kavicandra (Manoharā), Śubhānanda (Mālatī), Īśāna (dāsa), Subuddhi Miśra (Guṇacūḍā), Kamalanayana (Gandhonmādā), Maheśa Paṇḍita, Candraśekhara Vaidya, Dvija Haridāsa, Śrī Galīma, Gopāla dāsa (Tārakā, Pālī), Bhāgavatācārya, Ṭhākura Sāraṅga dāsa = Śārṅga Ṭhākura, Śrī Ṭhākura Murāri.
+- Ванинатха (Камалекха), Парамананда Брахмачари, Говинда / Мадхава / Васудева Гхош (Калавати, Расолласа, Гунатунга), Мадхавачарья (Мадхави), Пурушоттама (Нагара), Ганга-деви, Камалаканта Вишвас, Ядунанданачарья, Джагай и Мадхай (Джая и Виджая), Гопичарана дас Бабаджи, Рагхунатха Вайдья (Упадхьяя; Ревати) / Vāṇīnātha (Kāmalekhā), Paramānanda Brahmacārī, Govinda / Mādhava / Vāsudeva Ghoṣa, Mādhavācārya (Mādhavī), Puruṣottama (Nāgara), Gaṅgā-devī, Kamalākānta Viśvāsa, Yadunandanācārya, Jagāi and Mādhāi, Gopīcaraṇa dāsa Bābājī, Raghunātha Vaidya.
+- Сарвабхаума (Васудева; Гишпати), Махешвара Вишарада, Пакшадхара Мишра, Рагхунатха Широмани, Гопинатха Ачарья (Ратнавали; Брахма), Каши Мишра (Сайриндхри), Гопала-гуру Госвами, Прадьюмна Мишра, Бхавананда Рай («царь Панду»), Рамананда Рай (Арджуна, Арджуния, Лалита, Вишакха), Пратапарудра (Индрадьюмна), Парамананда Махапатра, Бхагаван Ачарья, Шатананда Кхан, Гопала Бхаттачарья, Чхота Харидас, Шикхи Махити (Маханти; Рагалекха), Мурари Махити, Мадхави-деви (Калакели), Говинда и Кашишвара (Бхрингара, Бхангура), Рамай и Нандай (Пайода, Варида), Кала Кришнадас, Балабхадра Бхаттачарья (Мадхурекшана), Тапана Мишра, Рагхунатха Бхатта (Рага-манджари) / Sārvabhauma (Vāsudeva; Gīṣpati), Maheśvara Viśārada, Pakṣadhara Miśra, Raghunātha Śiromaṇi, Gopīnātha Ācārya (Ratnāvalī), Kāśī Miśra (Sairindhrī), Gopāla-guru Gosvāmī, Pradyumna Miśra, Bhavānanda Rāya, Rāmānanda Rāya (Arjuna, Arjunīyā), Pratāparudra (Indradyumna), Paramānanda Mahāpātra, Bhagavān Ācārya, Śatānanda Khān, Gopāla Bhaṭṭācārya, Choṭa Haridāsa, Śikhi Māhiti (Mahānti; Rāgalekhā), Murāri Māhiti, Mādhavī-devī (Kalākeli), Bhṛṅgāra, Bhaṅgura, Payoda, Vārida, Kālā Kṛṣṇadāsa, Balabhadra Bhaṭṭācārya (Madhurekṣaṇā), Tapana Miśra, Raghunātha Bhaṭṭa (Rāga-mañjarī).
+
+### Места (по-бенгальски, без осовременивания)
+- Шри Кришнапур (округ Хугли), Саптаграм, станция Тришабигха, Симла (Калькутта), река Сарасвати / Śrī Kṛṣṇapura (Hugalī district), Saptagrāma, Triśabighā station, Simlā (Calcutta), the Sarasvatī.
+- Ранга-кшетра, Пандерапур (округ Шолапур), Нидхувана / Raṅga-kṣetra, Pāṇḍerapura (Śolāpura district), Nidhuvana.
+- Валлабхапур, Махеш, Канчарапара, Кумарахатта, Патхурьягхата, Муршидабад, Кхардаха / Vallabhapura, Māheśa, Kāṁcaḍāpāḍā, Kumārahaṭṭa, Pāthuriyāghāṭā, Murśidābāda, Khaḍadaha.
+- Гангаваса (на Алакананде), Белгаон (у Шрикханды), Канчанагария (станция Баджарасау, Аджимгандж), Варахнагар (Малипара), Мамагачхи, Модадрумадвипа, деревня Шар / Gaṅgāvāsa (on the Alakānandā), Belagāṁ (near Śrīkhaṇḍa), Kāñcanagaḍiyā (Bājārasāu, Ājimagañja), Varāhanagara (Mālipāḍā), Māmagāchi, Modadrumadvīpa, Śar.
+- Чампахатта / Чапахати (округ Бардхаман, участок Пурбастхали, почта Самудрагар), Аградвип, Кханакул-Кришнанагар, Джират, Панджинагар, Гхошахат / Мадхаитала, Акаихат, Панихати / Campāhaṭṭa / Cāṁpāhāṭi (Barddhamāna district, Pūrvasthalī police station, Samudragaḍa post office), Agradvīpa, Khānākula-Kṛṣṇanagara, Jīrāṭ, Pāṁjinagara, Ghoṣahāṭ / Mādhāitalā, Ākāihāṭ, Pāṇihāṭī.
+- Видьянагар (у Навадвипы), Митхила, Брахмагири / Алаланатха, Катак, Ремуна, Малабар, Уттара-Радха, Ванга / Vidyānagara, Mithilā, Brahmagiri / Ālālanātha, Kaṭaka, Remuṇā, Malabar, Uttara-Rāḍha, Vaṅga.
+
+### Решения по оформлению
+- Цитаты стихов ЧЧ в «Анубхашье» (Мадхья 7, 8, 10; Антья 2, 5, 6, 7, 10, 13) — переводом ВЧД из `vcd/txt/` (исправлены лишь опечатки), со ссылкой «(ЧЧ, Антья 13.107–108)»; в EN — свой перевод с бенгальского.
+- Ссылки издания «Мадхья, гл. 10, стихи 82–100» (эпизод с Говиндой) — сноска: на деле Антья 10.
