@@ -4352,3 +4352,181 @@
   cc: "Ади 14"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi14.md", from: "95", to: "97"}
+
+# Ади 15 — пауганда-лила
+- id: cc-0218
+  source: cc
+  ref: "Ади 15.1–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: PX
+  order: 985
+  title: "Мангалачарана пятнадцатой главы: цветок у стоп Чайтаньи делает злоумного благоумным; сутры пауганда-лилы — от начала учёбы до женитьбы"
+  summary: "Автор чтит Господа Чайтанью: лишь поднеся цветок к Его лотосным стопам, злоумный становится благоумным («Хари-бхакти-виласа» 7.1); славит Чайтанью, Нитьянанду, Адвайту и преданных Гауры. Теперь — сутры пауганда-лилы: в этом возрасте главное занятие Господа — учёба; пауганда-лилы Чайтанья-Кришны очень обширны и пленительны — от начала обучения до принятия руки невесты."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Хари-бхакти-виласа 7.1"]
+  cc: "Ади 15"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "1", to: "4"}
+
+- id: cc-0219
+  source: cc
+  ref: "Ади 15.5–7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P04
+  order: 70
+  title: "Учёба у Гангадаса Пандита: Господь запоминает сутры и вритти с одного раза, вскоре овладевает «Панджи-тикой» и превосходит старых учеников"
+  summary: "Господь изучал грамматику у Гангадаса Пандита: услышав сутры и вритти лишь раз, знал их наизусть; вскоре стал знатоком «Панджи-тики» и, будучи новичком, побеждал давних учеников. Лилы учёбы подробно описал Вриндаван Дас в «Чайтанья-мангале»."
+  persons: ["@mahaprabhu", "@gangadasa-pandita", "@vrindavana-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 7 — в оригинале «Чайтанья-мангала» (первое название «Чайтанья-бхагаваты»); у ВЧД — «Шри Чайтанья-бхагавата» (сноска)."
+  themes: [learning]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 15.3: пауганда (учёба — главное занятие)"
+  cc: "Ади 15"
+  event: ev-study-gangadasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "5", to: "7"}
+
+- id: cc-0220
+  source: cc
+  ref: "Ади 15.8–10"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P04
+  order: 50
+  title: "Господь просит у матери дар — не есть зерна в экадаши; с тех пор Шачи соблюдает экадаши"
+  summary: "Однажды, поклонившись к стопам матери, Господь попросил у неё один дар. Мать обещала дать всё, что Он попросит; Господь сказал: «Не ешь зерна в экадаши». Шачи ответила: «Не буду — Ты хорошо сказал», и с тех пор стала соблюдать экадаши."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [teaching, festival, family]
+  calendar: "экадаши"
+  cc: "Ади 15"
+  event: ev-ekadashi-instruction-shachi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "8", to: "10"}
+
+- id: cc-0221
+  source: cc
+  ref: "Ади 15.11–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P04
+  order: 10
+  title: "Мишра хочет женить юного Вишварупу — тот уходит из дома и принимает санньясу; Господь утешает родителей: «Он спас оба рода, а я буду служить вам»"
+  summary: "Видя, что Вишварупа вошёл в пору юности, Мишра решил найти ему невесту и женить его. Услышав об этом, Вишварупа ушёл из дома, принял санньясу и отправился по святым местам. Шачи и Мишра опечалились, и Господь утешил их: «Хорошо, что Вишварупа принял санньясу: он спас и род отца, и род матери. А я буду служить вам обоим», — и родители успокоились."
+  persons: ["@jagannatha-mishra", "@shachi", "@vishvarupa", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, family, separation]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 15: в пауганде Господа, когда Вишварупа вошёл в юность"
+  cc: "Ади 15"
+  event: ev-vishvarupa-sannyasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "11", to: "15"}
+
+- id: cc-0222
+  source: cc
+  ref: "Ади 15.16–22"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P04
+  order: 55
+  title: "Съев бетель с подношения, Господь теряет сознание; очнувшись, рассказывает: Вишварупа звал Его в санньясу, но Он отказался ради родителей и Лакшми-Нараяны"
+  summary: "Однажды, съев бетель, поднесённый Божеству, Господь упал без чувств; родители поспешно брызнули Ему в лицо водой, и, придя в себя, Он рассказал удивительное: «Вишварупа увёл Меня отсюда и сказал: „Прими санньясу“. Я ответил: „Мои отец и мать беспомощны, а я ребёнок — что я знаю о санньясе? Став грихастхой, буду служить отцу и матери — этим будут довольны Лакшми-Нараяна“. Тогда Вишварупа отправил Меня обратно и передал матери миллионы поклонов». Так Гаурахари совершает разные лилы — их причины автор понять не может."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@vishvarupa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [family, revelation, sannyasa]
+  cc: "Ади 15"
+  event: ev-betel-swoon-vishvarupa-message
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "16", to: "22"}
+
+- id: cc-0223
+  source: cc
+  ref: "Ади 15.23–24"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P04
+  order: 60
+  title: "Уход Джаганнатхи Мишры; скорбь матери и сына; Господь по правилам совершает обряды по отцу"
+  summary: "Через некоторое время Мишра ушёл в иной мир; скорбь матери и сына возросла. Пришли друзья и родные и утешали их, а Господь (Ишвара) по правилам совершил обряды по отцу."
+  persons: ["@jagannatha-mishra", "@shachi", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "У ВЧД в ст. 24 — «по умершему отцу» (слово ВЧД оставлено)."
+  themes: [departure, family, separation]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 15.23: в пауганде, после санньясы Вишварупы"
+  cc: "Ади 15"
+  event: ev-jagannatha-mishra-departure
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "23", to: "24"}
+
+- id: cc-0224
+  source: cc
+  ref: "Ади 15.25–29"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P05
+  order: 15
+  title: "Господь решает жениться: без жены нет домашней дхармы; по пути с учёбы видит у Ганги дочь Валлабхачарьи; по воле провидения к Шачи приходит сват Ванамали"
+  summary: "Через некоторое время Господь подумал: «Я остался грихастхой — теперь нужно исполнять домашнюю дхарму, а без жены она не прекрасна», — и решил жениться (шлока: не дом называют домом, а жену; с нею обретают все цели жизни). Однажды по воле провидения, возвращаясь с учёбы, Он увидел на пути к Ганге дочь Валлабхачарьи; в обоих пробудилось извечное чувство, и, по провидению, к Шачи пришёл сват Ванамали."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@vanamali-acharya", "@shachi"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ванамали-сват — по-видимому, @vanamali-acharya (в ЧЧ — «Ванамали гхатака», без титула). Встреча на пути к Ганге (ст. 28) — ср. ev-lakshmipriya-first-meeting (Мурари 1.09.6–7)."
+  themes: [family]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 13.26, 15.4: женитьба завершает пауганду"
+  cc: "Ади 15"
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "25", to: "29"}
+
+- id: cc-0225
+  source: cc
+  ref: "Ади 15.30"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: P05
+  order: 25
+  title: "По знаку Шачи сват устраивает союз — сын Шачи женится на Лакшми"
+  summary: "По знаку Шачи сват устроил союз, и сын Шачи женился на Лакшми."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@shachi", "@vanamali-acharya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра); подробно — «Чайтанья-бхагавата», Ади 10."
+  themes: [family, festival]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 13.26–27: женитьбой кончается пауганда и начинается юность"
+  cc: "Ади 15"
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "30", to: "30"}
+
+- id: cc-0226
+  source: cc
+  ref: "Ади 15.31–34"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md"
+  period: PX
+  order: 986
+  title: "Сутра пауганда-лилы окончена — подробно у Вриндавана Даса, в «Чайтанья-мангале»; колофон пятнадцатой главы"
+  summary: "Вриндаван Дас подробно описал эти лилы; здесь показана лишь сутра пауганда-лилы. Лил пауганды много, Вриндаван Дас описал их подробно, поэтому здесь — лишь намёк: благодаря «Чайтанья-мангале» они прославились по всему миру. Уповая на стопы Шри Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 33 — в оригинале «Чайтанья-мангала»; у ВЧД — «Шри Чайтанья-бхагавата» (сноска)."
+  themes: [author]
+  cc: "Ади 15"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "31", to: "34"}
