@@ -449,5 +449,5 @@ The *Mahābhārata* (Udyoga-parva, Chapter 43, verse 16) names twelve kinds of f
 
 *Thus ends the first chapter of the “Anubhāṣya.”*
 
-[^53-1]: The edition prints «রাজহসৌ প্রজাতীতিবৎ», a typesetting error; read «রাজাঽসৌ প্রয়াতীতিবৎ» (“as [one says] ‘the king is setting out’,” meaning his retinue as well); compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.
+[^53-1]: The edition has «রাজহসৌ প্রজাতীতিবৎ»: the «হ» is the *avagraha* (ঽ), as usual in this edition («রাজাঽসৌ», *rājā ’sau*), while «প্রজাতীতিবৎ» is a misprint for «প্রয়াতীতিবৎ» (*prayātīti-vat*): “as [one says] ‘the king is setting out’,” meaning his retinue as well; compare the same example in Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 2.9.32.
 [^70-1]: The quotation in the *Anubhāṣya* is made up of lines from CC Madhya 20.168, in a different order and with the reading *prābhava-vilāsa* (the VCD translation of that verse has *prābhava*).
