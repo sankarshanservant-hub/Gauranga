@@ -4529,3 +4529,213 @@
   cc: "Ади 15"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi15.md", from: "31", to: "34"}
+
+- id: cc-0227
+  source: cc
+  ref: "Ади 16.1–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: PX
+  order: 987
+  title: "Мангалачарана шестнадцатой главы: река милости Чайтаньи течёт к смиренным; юного Чайтанью почтили Лакшми и Сарасвати; сутра кайшора-лилы — Господь начинает учить"
+  summary: "Автор поклоняется Господу Чайтанье: река нектара Его милости затопляет весь мир, но всегда течёт вниз — к смиренным. Слава Чайтанье, Нитьянанде, Адвайте и преданным Гауры. Да славится юный Чайтанья, которому в семейной жизни служила воплощённая Лакшми, а Сарасвати почтила Его под предлогом победы над дигвиджайи. Сутра кайшора-лилы: Господь начал учить учеников."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@sarasvati-devi", "@keshava-kashmiri"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 3: «воплощённая Лакшми» — супруга Господа (в стихе не названа); «дигвиджайи» — Кешава Кашмири (по «Анубхашье»)."
+  themes: [author]
+  cc: "Ади 16"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "1", to: "4"}
+
+- id: cc-0228
+  source: cc
+  ref: "Ади 16.5–7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 29
+  title: "Нимай-пандит учит сотни учеников, побеждает всех пандитов, никого не обижая, и с учениками резвится в водах Ганги"
+  summary: "С Господом всегда были сотни учеников; слыша Его толкования, все изумлялись. Во всех шастрах Он побеждал всех пандитов, но так учтиво, что никто не огорчался. С учениками Он проказничал и на разные лады резвился в водах Джахнави."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [learning, pranks]
+  bhava: [teacher]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.4: начало кайшора-лилы (после женитьбы на Лакшмиприи)"
+  cc: "Ади 16"
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "5", to: "7"}
+
+- id: cc-0229
+  source: cc
+  ref: "Ади 16.8–9, 19"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 66
+  title: "Путешествие в Восточную Бенгалию: Господь повсюду вводит нама-санкиртану, к Нему стекаются сотни учеников; имя делает людей Ванги бхактами, учение — пандитами"
+  summary: "Через некоторое время Господь отправился в Вангу (Восточную Бенгалию) и, куда бы ни приходил, побуждал людей к нама-санкиртане. Изумлённые силой Его учёности, к Нему приходили учиться сотни студентов. Так Он принёс благо всем жителям Ванги: даруя имя, делал их преданными, обучая — пандитами (ст. 19)."
+  persons: ["@mahaprabhu"]
+  places: ["#east-bengal"]
+  kind: lila
+  authority: A
+  notes: "Ст. 19 — итог поездки после эпизода с Тапаной Мишрой (cc-0230)."
+  themes: [pilgrimage, kirtan, learning]
+  teaching: [holy-name]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.8: «через некоторое время» после начала преподавания"
+  cc: "Ади 16"
+  event: ev-east-bengal-tour
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "8", to: "9"}
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "19", to: "19"}
+
+- id: cc-0230
+  source: cc
+  ref: "Ади 16.10–18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 70
+  title: "Тапана Мишра: смущённый множеством шастр, по вещему сну приходит к Нимаю-пандиту; Господь называет садхьей и садханой нама-санкиртану и велит ему идти в Варанаси"
+  summary: "Брахман Тапана Мишра в Восточной Бенгалии, смущённый множеством шастр и мнений, не мог решить, что есть высшая цель (садхья) и путь (садхана). Во сне брахман велел ему идти к Нимаю-пандиту: «Он — Сам Ишвара, Он и разрешит твой вопрос». Мишра пришёл к стопам Господа и рассказал сон; довольный Господь объяснил садхью и садхану и наставил: «Совершай нама-санкиртану». Мишра хотел жить с Господом в Навадвипе, но Господь велел ему идти в Варанаси: «Там ты встретишься со Мной». Автор не может понять, почему Господь лишил его Своего общества."
+  persons: ["@tapana-mishra", "@mahaprabhu"]
+  places: ["#east-bengal", "#kashi"]
+  kind: lila
+  authority: A
+  notes: "По «Анубхашье» (16.11, 18), в Каши Тапана Мишра услышал из уст Господа ответы Санатане Госвами о садхье и садхане."
+  themes: [teaching, celestial, mercy]
+  teaching: [holy-name]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.10: во время поездки в Восточную Бенгалию"
+  cc: "Ади 16"
+  event: ev-tapana-mishra-east-bengal
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "10", to: "18"}
+
+- id: cc-0231
+  source: cc
+  ref: "Ади 16.20–21"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 80
+  title: "Лакшми в Навадвипе страдает в разлуке; змея разлуки с Господом жалит её, и от её яда Лакшми уходит в иной мир"
+  summary: "Пока Господь совершал игры в Ванге, Лакшми в Навадвипе страдала в разлуке. Змея разлуки с Господом ужалила её, и от яда этой змеи она ушла в иной мир."
+  persons: ["@lakshmipriya", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [departure, separation]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.20: во время поездки Господа в Восточную Бенгалию"
+  cc: "Ади 16"
+  divergence: "В ЧЧ змея — сама разлука с Господом (иносказание); у Мурари (1.11) — обычная змея."
+  event: ev-lakshmipriya-departure
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "20", to: "21"}
+
+- id: cc-0232
+  source: cc
+  ref: "Ади 16.22–23"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 85
+  title: "Господь, знающий сердца, внутренне узнаёт об уходе Лакшми и возвращается с богатством и учениками; словами об истине утоляет горе Шачи"
+  summary: "Господь, Антарьями, узнал обо всём в сердце и, зная о горе Шачи, вернулся на родину. Он пришёл домой со множеством богатств и людей и, поведав истину (таттву), избавил Шачи от горя."
+  persons: ["@mahaprabhu", "@shachi"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [family, separation, teaching]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.22: после ухода Лакшмиприи"
+  cc: "Ади 16"
+  divergence: "В ЧЧ Господь узнаёт об уходе Лакшми внутренне, ещё в Ванге, и потому возвращается; в «Чайтанья-бхагавате» (Ади 14) Он узнаёт об этом, лишь вернувшись домой."
+  event: ev-return-from-east-bengal
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "22", to: "23"}
+
+- id: cc-0233
+  source: cc
+  ref: "Ади 16.24"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 87
+  title: "Вернувшись, Господь снова наслаждается учёностью с учениками и, побеждая всех, являет гордость учёного"
+  summary: "С учениками Господь вновь предался играм учёности: силой знания Он побеждал всех и являл гордость."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра)."
+  themes: [learning]
+  bhava: [teacher]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.24: после возвращения из Восточной Бенгалии"
+  cc: "Ади 16"
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "24", to: "24"}
+
+- id: cc-0234
+  source: cc
+  ref: "Ади 16.25"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 100
+  title: "Свадьба с Вишнуприей-тхакурани, затем победа над дигвиджайи (сутра)"
+  summary: "Затем состоялась свадьба Господа с Вишнуприей-тхакурани, а после неё Господь победил дигвиджайи."
+  persons: ["@mahaprabhu", "@vishnupriya", "@keshava-kashmiri"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (сутра); победа над дигвиджайи подробно — ст. 28–108 (cc-0236 — cc-0239)."
+  themes: [family, festival]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.25: после возвращения из Восточной Бенгалии"
+  cc: "Ади 16"
+  event: ev-marriage-vishnupriya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "25", to: "25"}
+
+- id: cc-0235
+  source: cc
+  ref: "Ади 16.26–27"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: PX
+  order: 988
+  title: "Вриндаван Дас описал это подробно, но не изложил явно разбора достоинств и недостатков; автор, поклонившись ему, рассказывает эту часть"
+  summary: "Вриндаван Дас подробно описал эти лилы, но разбора достоинств и недостатков (шлоки дигвиджайи) явно не изложил. Поклонившись ему, автор рассказывает эту часть, услышав которую дигвиджайи осудил себя."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@keshava-kashmiri"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 26 у ВЧД понято иначе («нет необходимости искать достоинства или недостатки»; исправлено со сноской)."
+  themes: [author]
+  cc: "Ади 16"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "26", to: "27"}
+
+- id: cc-0236
+  source: cc
+  ref: "Ади 16.28–40"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md"
+  period: P05
+  order: 62
+  title: "Лунной ночью у Ганги к Нимаю-пандиту приходит дигвиджайи; Господь смиренно просит его восславить Гангу, тот за одну гхатику слагает сто шлок, и Господь повторяет одну из них"
+  summary: "Лунной ночью Господь с учениками сидел на берегу Ганги, беседуя о науках. Пришёл дигвиджайи, поклонился Ганге и встретился с Господом; Господь почтительно усадил его, а тот надменно сказал: «Ты учишь грамматике, Твоё имя — Нимай-пандит; говорят, Ты хорош в науке для детей и учишь „Калапе“; слышал я и фанки Твоих учеников». Господь смиренно ответил, что Он лишь мальчик-новичок, а дигвиджайи сведущ во всех шастрах и поэзии, и попросил его описать Гангу. Тот с гордостью за одну гхатику сложил сто шлок о Ганге. Господь похвалил его как несравненного поэта, чьи стихи понятны лишь ему да Сарасвати, и попросил растолковать одну шлоку; когда тот спросил какую, Господь прочёл одну из ста."
+  persons: ["@mahaprabhu", "@keshava-kashmiri"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 36: «за одну гхатику» (24 минуты); у ВЧД — «за один час» (исправлено со сноской)."
+  themes: [learning]
+  bhava: [teacher]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 16.24–25: после возвращения из Восточной Бенгалии и свадьбы с Вишнуприей"
+  cc: "Ади 16"
+  divergence: "ЧЧ ставит победу над Кешавой после поездки в Восточную Бенгалию и свадьбы с Вишнуприей (ст. 24–25); в «Чайтанья-бхагавате» (Ади 13) — до поездки."
+  event: ev-keshava-kashmiri-defeat
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi16.md", from: "28", to: "40"}
