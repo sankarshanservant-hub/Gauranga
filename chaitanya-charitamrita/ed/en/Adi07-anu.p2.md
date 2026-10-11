@@ -106,6 +106,32 @@ See Antya 2.94–99.
 
 > Subheading: (4) He possesses a form full of eternal being, knowledge and bliss, and is not formless —
 
+## 113
+
+> Subheading: To call the Truth formless, and the body of Viṣṇu and so on a transformation of *māyā* — this is “Māyāvāda” —
+
+The *Vedānta-sāra* of Sadānanda Yogīndra says: “The real (*vastu*) is Brahman — being, consciousness and bliss, nondual. The whole mass of inert things, beginning with ignorance (*ajñāna*), is the unreal (*avastu*). Ignorance, they say, cannot be described as either existent or nonexistent; it consists of the three *guṇas*, is opposed to knowledge, is of a positive nature, and is ‘something.’ This ignorance is spoken of as one or as many, depending on whether one means the aggregate or the individual. This aggregate, because its *upādhi* is excellent, is one in which pure *sattva* predominates. Consciousness conditioned by it, possessing qualities such as omniscience, lordship over all and control over all, is *sad-asad-vyakta*, the inner ruler, the cause of the world, and it is called Īśvara. Because it illumines all ignorance, it is omniscient.”
+
+The Śaṅkarite Vedāntist Sadānanda summarized the purport of Śaṅkara's doctrine in the book *Vedānta-sāra*. Today this book is a highly respected, authoritative foundation of Śaṅkara's *sampradāya*.
+
+“Brahman is the nondual Reality, being, consciousness and bliss; the whole mass of inert things, beginning with ignorance, is unreal. ‘Ignorance’ means everything that is distinct from both the existent and the nonexistent, indescribable, made of the three *guṇas*, opposed to knowledge and of a positive nature. This ignorance is spoken of both as one and as many, depending on whether it is the aggregate or the individual. When this aggregate is endowed with an excellent *upādhi*, it receives the name ‘that in which pure *sattva* predominates.’ When this [aggregate ignorance], in which pure *sattva* predominates, is reflected in consciousness, [consciousness] receives the name ‘Īśvara’ — omniscient, lord of all, ruler of all, manifest as both the existent and the nonexistent (*sad-asad-vyakta*), the inner ruler of the *jīvas*, the cause of the world. Īśvara is ‘omniscient’ because He illumines all ignorance. In their view, being Īśvara is merely a transformation of material *sattva* born of ignorance. The *jīva*, in turn, is one in whom impure *sattva* predominates, and he is endowed with an individual *upādhi*.”
+
+## 111–113
+
+See Madhya 25.33–34.
+
+## 114
+
+> Subheading: Though Śaṅkara, who carried out the order, is not at fault, the *jīva* who hears his commentary loses everything —
+
+See Madhya 6.169.
+
+## 115
+
+> Subheading: To regard Viṣṇu, the Master of *māyā*, as a product of *māyā* — this is godlessness (*pāṣaṇḍatā*) —
+
+The Truth possessed of features is Viṣṇu. Viṣṇu's *prakṛti* is the root of the material, inert world. In the reasoning of *vivarta-vāda*, the *prakṛti*, or *māyā-śakti*, of the featureless Brahman has no real existence. The scriptures have described Viṣṇu's *māyā* at length. Viṣṇu is not some god born of *māyā*. Those who think so have a distorted idea of Viṣṇu. Viṣṇu can never be counted among the material gods. Only those deluded in this way regard Viṣṇu as a material deity. To free them from the bondage of worldly existence, Śrī Bhagavān said in the *Gītā*:
+
 ---
 
 [^95-1]: *Śvetāśvatara Upaniṣad* 6.23.
