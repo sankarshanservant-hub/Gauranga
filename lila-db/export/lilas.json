@@ -17287,6 +17287,67 @@
   "attestation": 5
  },
  {
+  "id": "pv-0009",
+  "source": "prema-vivarta",
+  "ref": "Гл. 8, 15–19",
+  "file": "prema-vivarta/ru/08.md",
+  "period": "P04",
+  "order": 64,
+  "title": "Шивананда Сена учит Джагадананду и приводит его к Господу; Кави Карнапура в семь лет",
+  "summary": "Автор славит односельчанина Кави Карнапуру, которого Гаура в семь лет сделал великим поэтом, и его отца Шивананду, учившего автора в детстве «Бхагавате» и «Гите», приведшего его в Надию к стопам Господа; в доме Шивананды автор научился стряпать для Гауранги.",
+  "persons": [
+   "@jagadananda-pandita",
+   "@shivananda-sena",
+   "@kavi-karnapura",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#kumarahatta"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Воспитание Джагадананды Шиванандой и их общая деревня известны только по «Према-виварте»; семилетний Карнапура — ЧЧ Антья 16.",
+  "themes": [
+   "learning",
+   "family"
+  ],
+  "divergence": "По 2.18–24 Джагадананда в детстве учится в одной школе с Нимаем в Навадвипе и кормится у Шачи; здесь в Надию его приводит Шивананда — может означать переселение в детстве.",
+  "event": "ev-shivananda-raises-jagadananda",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/08.md",
+    "from": "15",
+    "to": "19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/08.md",
+    "from": "15",
+    "to": "19",
+    "line": 52,
+    "line_to": 66,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/08.md?plain=1#L52-L66",
+    "file_en": "prema-vivarta/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/08.md?plain=1#L52-L66"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "«в детстве» (Према-виварта 8.17–18); до учёбы в одной школе с Нимаем",
+  "years": [
+   1491,
+   1496
+  ],
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0032",
   "source": "jayananda-cm",
   "ref": "Надия-кханда (в т. ч. разд. 29): цитаты 15–17",
@@ -17373,6 +17434,135 @@
    1496
   ],
   "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pv-0003",
+  "source": "prema-vivarta",
+  "ref": "Гл. 2, 18–25",
+  "file": "prema-vivarta/ru/02.md",
+  "period": "P04",
+  "order": 66,
+  "title": "Детская ссора в школе; Нимай с Гададхарой ночью приходят за обиженным Джагаданандой",
+  "summary": "Нимай и Джагадананда подрались в школе; Джагадананда всю ночь плакал на берегу Ганги в Маяпуре; до рассвета Нимай с Гададхарой пришли за ним — Нимай из-за его обиды постился и лежал на земле; Джагадананда поел и уснул в доме Господа, утром Шачи и Джаганнатха накормили его и отправили учиться, а Нимай пришёл обедать к нему. «После ссоры любовь — как чистое золото».",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadananda-pandita",
+   "@gadadhara-pandita",
+   "@shachi",
+   "@jagannatha-mishra"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga",
+   "#house-jagannatha-mishra"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте»; «Маяпур» как название части Навадвипы — одна из примет, по которым Маджумдар сомневался в авторстве.",
+  "themes": [
+   "pranks",
+   "family"
+  ],
+  "divergence": "ЧЧ и ЧБ о детстве Джагадананды не рассказывают; у Джаянанды Шачи приводит Гададхару и Джагадананду в дом (ev-gadadhara-jagadananda-in-lords-house).",
+  "event": "ev-jagadananda-childhood-quarrel",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "18",
+    "to": "25"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "18",
+    "to": "25",
+    "line": 64,
+    "line_to": 101,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/02.md?plain=1#L64-L101",
+    "file_en": "prema-vivarta/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/02.md?plain=1#L64-L101"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "школьные годы, при жизни Джаганнатхи Мишры (Према-виварта 2.24)",
+  "years": [
+   1491,
+   1496
+  ],
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pv-0004",
+  "source": "prema-vivarta",
+  "ref": "Гл. 2, 31–42",
+  "file": "prema-vivarta/ru/02.md",
+  "period": "P04",
+  "order": 67,
+  "title": "Попугай поёт «Гаура» и называет Гадая Радхой",
+  "summary": "Играя на берегу Алакананды с Гададхарой и Джагаданандой, Нимай ловит попугая и велит ему говорить «Радха-Кришна»; попугай поёт «Гаурахари», говорит, что Вриндаван стал Навадвипой, Нимай — его Кришна, а Гадай — Радха; Нимай, будто бы печалясь от «иного имени», уходит с Гадаем в Маяпур.",
+  "persons": [
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@jagadananda-pandita"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте». Учение: неотличие Навадвипы и Вриндавана, Гаура-Гададхара — Радха-Кришна.",
+  "themes": [
+   "pranks",
+   "revelation",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "teaching": [
+   "gaura-tattva"
+  ],
+  "event": "ev-parrot-sings-gaura",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "31",
+    "to": "42"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "31",
+    "to": "42",
+    "line": 133,
+    "line_to": 168,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/02.md?plain=1#L133-L168",
+    "file_en": "prema-vivarta/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/02.md?plain=1#L133-L168"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "игры детства/юности в Навадвипе (Према-виварта 2.31)",
+  "years": [
+   1491,
+   1496
+  ],
   "years_from": "period",
   "age": [
    5,
@@ -65795,6 +65985,82 @@
   "attestation": 1
  },
  {
+  "id": "pv-0013",
+  "source": "prema-vivarta",
+  "ref": "Гл. 15, 1–48",
+  "file": "prema-vivarta/ru/15.md",
+  "period": "P07",
+  "order": 134.72,
+  "title": "Прасад у Шачи; киртан до Гадигачхи; пастухи Бхима и Шьяма; крокодил в Горадахе",
+  "summary": "Шачи даёт автору остатки трапезы Горы; с Нитаем и спутниками Господь идёт с киртаном вдоль Ганги в Гадигачху, отдыхает под баньяном с пастухами; пастух Бхима, сын молочницы Шьямы, зовёт «дядю» в дом и угощает всех в хлеву; по жалобе Рамадаса Господь киртаном привлекает крокодила из пруда — тот, коснувшись Его стоп, обретает облик сына полубогов, проклятого Дурвасой, славит Господа и уходит в Трипиштапу; пруд зовётся Горадахой, пастухи видят в прогулке Говардхану и Манаса-Гангу.",
+  "persons": [
+   "@mahaprabhu",
+   "@shachi",
+   "@jagadananda-pandita",
+   "@nityananda",
+   "@govinda-ghosha",
+   "@vasu-ghosha",
+   "@gadadhara-pandita",
+   "@vakreshvara",
+   "@nrisimhananda",
+   "@svarupa-damodara",
+   "@bhima-gopa",
+   "@shyama-goyalini",
+   "@ramadasa-gopa",
+   "@durvasa"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga",
+   "#gadigachha"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте». «Пурушоттама Ачарья» (15.11) — Сварупа Дамодара до санньясы (ЧЧ Мадхья 10.103); «Нрисимхананда и Прадьюмна» по ЧЧ (Антья 2) — одно лицо.",
+  "themes": [
+   "kirtan",
+   "mercy",
+   "krishna-lila",
+   "prasada"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "event": "ev-goradaha-crocodile-deliverance",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/15.md",
+    "from": "1",
+    "to": "48"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/15.md",
+    "from": "1",
+    "to": "48",
+    "line": 7,
+    "line_to": 170,
+    "count": 48,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/15.md?plain=1#L7-L170",
+    "file_en": "prema-vivarta/en/15.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/15.md?plain=1#L7-L170"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "навадвипская лила с Нитьянандой и киртаниями (Према-виварта 15.6–7)",
+  "years": [
+   1509,
+   1510
+  ],
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pad-0066",
   "source": "padas",
   "ref": "Чайтаньядас, ПК 1169 «গৌরাঙ্গ-চান্দের মনে কি ভাব উঠিল»",
@@ -100395,6 +100661,65 @@
   "attestation": 2
  },
  {
+  "id": "pv-0005",
+  "source": "prema-vivarta",
+  "ref": "Гл. 3, 2–4",
+  "file": "prema-vivarta/ru/03.md",
+  "period": "P12",
+  "order": 12,
+  "title": "Господь с Гададхарой в Пури: Тота-Гопинатха — Гададхаре, Гиридхари — Джагадананде",
+  "summary": "Нандананда, став Шри Кришной Чайтаньей, приводит Гададхару в Надию, затем в Пурушоттаму, совершает там сокровенную лилу Гадая-Гауранги, вверяет Гададхаре служение Тота-Гопинатхе, а автору — служение Гиридхари на берегу океана; все преданные из Гауды — рядом с автором.",
+  "persons": [
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@jagadananda-pandita",
+   "@gopinatha-deity-puri"
+  ],
+  "places": [
+   "#puri",
+   "#tota"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Упоминание. Служение Джагадананды Гиридхари известно только по «Према-виварте».",
+  "themes": [
+   "deities"
+  ],
+  "event": "ev-jagadananda-giridhari-seva",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/03.md",
+    "from": "2",
+    "to": "4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/03.md",
+    "from": "2",
+    "to": "4",
+    "line": 10,
+    "line_to": 17,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/03.md?plain=1#L10-L17",
+    "file_en": "prema-vivarta/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/03.md?plain=1#L10-L17"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после переселения Гададхары в Пури",
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0093",
   "source": "advaita-prakasha",
   "ref": "Гл. 15, 137–148",
@@ -124773,6 +125098,70 @@
   "attestation": 3
  },
  {
+  "id": "pv-0010",
+  "source": "prema-vivarta",
+  "ref": "Гл. 9, 1–36",
+  "file": "prema-vivarta/ru/09.md",
+  "period": "P14",
+  "order": 14.5,
+  "title": "Господь отвечает Санатане о юкта-вайрагье",
+  "summary": "Санатана спрашивает, что такое юкта-вайрагья и каков долг вайшнава; Господь различает пхалгу-вайрагью карми и гьяни и юкта-вайрагью преданного; учит принимать необходимое без привязанности, есть саттвичную пищу, не копить ради «служения Божеству», не хлопотать о матхах и храмах без средств, служить Гиридхари водой и туласи, почитать вайшнавов, заботиться о домочадцах как о слугах Кришны.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-gosvami",
+   "@jagadananda-pandita"
+  ],
+  "places": [],
+  "kind": "teaching",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте»; в конце автор говорит, что из-за этого настроения много ссорился с Гаурой (ср. ЧЧ Антья 12–13).",
+  "themes": [
+   "teaching",
+   "sannyasa"
+  ],
+  "teaching": [
+   "sannyasa-teaching",
+   "bhakti-supremacy"
+  ],
+  "scriptures": [
+   "«Гита» 9.31"
+  ],
+  "divergence": "В ЧЧ наставление о юкта-вайрагье Господь даёт Рагхунатхе Дасу (Мадхья 16.238).",
+  "event": "ev-yukta-vairagya-sanatana-question",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/09.md",
+    "from": "1",
+    "to": "36"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/09.md",
+    "from": "1",
+    "to": "36",
+    "line": 7,
+    "line_to": 119,
+    "count": 36,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/09.md?plain=1#L7-L119",
+    "file_en": "prema-vivarta/en/09.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/09.md?plain=1#L7-L119"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "место и время не названы; Санатана жил при Господе в Пури (ЧЧ Антья 4)",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0125",
   "source": "advaita-prakasha",
   "ref": "Гл. 18, 126–127",
@@ -126266,6 +126655,142 @@
   "attestation": 5
  },
  {
+  "id": "pv-0014",
+  "source": "prema-vivarta",
+  "ref": "Гл. 16, 1–61",
+  "file": "prema-vivarta/ru/16.md",
+  "period": "P14",
+  "order": 30.5,
+  "title": "Рагхунатха спрашивает Сварупу о «пирити»; наставление Господа Рагхунатхе",
+  "summary": "Рагхунатха Дас спрашивает Сварупу, как понимать любовь в песнях Видьяпати и Чандидаса; Сварупа объясняет: в них нет мирской камы, описания мужчины и женщины — уподобления; осуждает сахаджиев, «аропу» Кришны на мирское тело и «обезьяньих отшельников»; право на такое общение (обучение девадаси) — лишь у Рамананды; Рагхунатха спрашивает Господа намёками, и Господь при Сварупе даёт ему наставление: не слушать и не вести мирских речей, не есть и не одеваться хорошо, всегда принимать имя Кришны и в уме служить Радхе и Кришне во Врадже.",
+  "persons": [
+   "@raghunatha-dasa",
+   "@svarupa-damodara",
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@vidyapati"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "notes": "Беседа о пирити известна только по «Према-виварте»; наставление Господа (16.48–49) и слова о вайраги (16.58–61) — ЧЧ Антья 6.224–227, 236–237. Богословие (против сахаджиев) — в согласии с Бхактисиддхантой.",
+  "themes": [
+   "teaching",
+   "sannyasa"
+  ],
+  "teaching": [
+   "prema",
+   "sannyasa-teaching"
+  ],
+  "scriptures": [
+   "ЧЧ Мадхья 2.45",
+   "«Падьявали» («йах каумара-харах», ЧЧ Мадхья 1.58)"
+  ],
+  "parallels": "ЧЧ Антья 6 (наставление Рагхунатхе)",
+  "cc": "Антья 6",
+  "event": "ev-svarupa-teaches-raghunatha-piriti",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/16.md",
+    "from": "1",
+    "to": "61"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/16.md",
+    "from": "1",
+    "to": "61",
+    "line": 7,
+    "line_to": 242,
+    "count": 61,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/16.md?plain=1#L7-L242",
+    "file_en": "prema-vivarta/en/16.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/16.md?plain=1#L7-L242"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после прихода Рагхунатхи в Пури, когда Господь вверил его Сварупе (ЧЧ Антья 6)",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pv-0015",
+  "source": "prema-vivarta",
+  "ref": "Гл. 17, 1–90",
+  "file": "prema-vivarta/ru/17.md",
+  "period": "P14",
+  "order": 30.6,
+  "title": "Сварупа наставляет Рагхунатху о поведении преданных, Ачьюта-готре и трёх видах бхакти",
+  "summary": "В другой день Сварупа учит Рагхунатху: дхарма без бхаджана — обман; поведение вайшнава-домохозяина и вайшнава-отрёкшегося; самозваные «кришны» идут в Кумбхипаку; свадхарму оставляют, оставляя привязанность к ней; коренное предписание — помнить Кришну; Ачьюта-готра; праварта, садхака и сиддха; аропа-, санга- и сварупа-сиддха-бхакти.",
+  "persons": [
+   "@svarupa-damodara",
+   "@raghunatha-dasa",
+   "@jagadananda-pandita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте». Учение о трёх видах бхакти восходит к Дживе Госвами («Бхакти-сандарбха») и Бхактивиноде («Джайва-дхарма»); описание поклонения неофита как «аропы» пояснено в сносках (Божество — Сам Господь).",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava",
+   "sannyasa-teaching",
+   "bhakti-supremacy"
+  ],
+  "scriptures": [
+   "«Бхагаватам» 10.33.36"
+  ],
+  "event": "ev-svarupa-teaches-raghunatha-piriti",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/17.md",
+    "from": "1",
+    "to": "90"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/17.md",
+    "from": "1",
+    "to": "90",
+    "line": 7,
+    "line_to": 292,
+    "count": 90,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/17.md?plain=1#L7-L292",
+    "file_en": "prema-vivarta/en/17.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/17.md?plain=1#L7-L292"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после прихода Рагхунатхи в Пури, когда Господь вверил его Сварупе (ЧЧ Антья 6)",
+  "cc": "Антья 6",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkd-0160",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 16, 64–65",
@@ -126822,6 +127347,77 @@
   "attestation": 1
  },
  {
+  "id": "pv-0016",
+  "source": "prema-vivarta",
+  "ref": "Гл. 18, 1–21",
+  "file": "prema-vivarta/ru/18.md",
+  "period": "P14",
+  "order": 45,
+  "title": "Экадаши в Джаганнатха-валлабхе: махапрасад почтён поклоном, вкушён наутро",
+  "summary": "В чистый экадаши Господь со Сварупой, Раманандой, Вакрешварой и жителями Кшетры проводит день и ночь в киртане; Гопинатха-паричха с Сарвабхаумой приносят махапрасад из Гундичи; Господь велит поклониться ему и вкушает его наутро; на вопрос преданных даёт решение: в экадаши — пост и бдение, в иные дни — прасад; служение Имени и обет экадаши — одно.",
+  "persons": [
+   "@mahaprabhu",
+   "@svarupa-damodara",
+   "@ramananda-raya",
+   "@vakreshvara",
+   "@sarvabhauma",
+   "@gopinatha-acharya",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#jagannatha-vallabha",
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте». «Гопинатха-паричха» — возможно, Гопинатха Ачарья.",
+  "themes": [
+   "festival",
+   "prasada",
+   "kirtan",
+   "jagannatha"
+  ],
+  "teaching": [
+   "prasada-teaching",
+   "holy-name"
+  ],
+  "calendar": "экадаши в дни Ратха-ятры",
+  "event": "ev-ekadashi-mahaprasada-jagannatha-vallabha",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/18.md",
+    "from": "1",
+    "to": "21"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/18.md",
+    "from": "1",
+    "to": "21",
+    "line": 7,
+    "line_to": 103,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/18.md?plain=1#L7-L103",
+    "file_en": "prema-vivarta/en/18.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/18.md?plain=1#L7-L103"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "в дни пребывания Джаганнатхи в Гундиче, при «орийских» и «гаудийских» преданных; год не назван",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "gkd-0171",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 17, 35–41",
@@ -127200,6 +127796,146 @@
   "attestation": 2
  },
  {
+  "id": "pv-0017",
+  "source": "prema-vivarta",
+  "ref": "Гл. 19, 1–164",
+  "file": "prema-vivarta/ru/19.md",
+  "period": "P14",
+  "order": 61,
+  "title": "У самадхи Харидаса Господь толкует «Нама-рахасья-паталу»",
+  "summary": "Лунной ночью Господь с преданными у самадхи Харидаса на берегу океана говорит, что в Кали нет дхармы, кроме киртана Имени, и толкует Сварупе и Рамананде беседу Санаткумары с Нарадой из «Падма-пураны» о десяти оскорблениях Имени и их преодолении; велит распространять её и служить Имени вслед за Харидасом, ачарьей Имени.",
+  "persons": [
+   "@mahaprabhu",
+   "@svarupa-damodara",
+   "@ramananda-raya",
+   "@haridasa-thakura",
+   "@narada",
+   "@sanaka-kumaras",
+   "@shiva"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "notes": "Сцена известна только по «Према-виварте»; стихи о десяти оскорблениях — «Падма-пурана» (приводятся в «Хари-бхакти-виласе» 11 и «Бхакти-сандарбхе»).",
+  "themes": [
+   "teaching",
+   "kirtan",
+   "offense"
+  ],
+  "teaching": [
+   "holy-name",
+   "scripture"
+  ],
+  "scriptures": [
+   "«Падма-пурана» (Нама-рахасья-патала)",
+   "«Гита» 18.66, 9.30–31"
+  ],
+  "event": "ev-nama-rahasya-patala-haridasa-samadhi",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/19.md",
+    "from": "1",
+    "to": "164"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/19.md",
+    "from": "1",
+    "to": "164",
+    "line": 7,
+    "line_to": 512,
+    "count": 164,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/19.md?plain=1#L7-L512",
+    "file_en": "prema-vivarta/en/19.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/19.md?plain=1#L7-L512"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после ухода Харидаса Тхакура (ЧЧ Антья 11)",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pv-0018",
+  "source": "prema-vivarta",
+  "ref": "Гл. 20, 1–221",
+  "file": "prema-vivarta/ru/20.md",
+  "period": "P14",
+  "order": 62,
+  "title": "Кришнадас в доме Каши Мишры спрашивает о славе Имени",
+  "summary": "По просьбе Кришнадаса Господь излагает славу Имени: оно уничтожает грехи, болезни, страхи, выше обетов, искуплений, паломничеств и Вед, не знает правил места и времени, равно Кришне; приводит множество стихов шастр, маха-мантру Харе Кришна; на вопрос, почему плод не у всех одинаков, отвечает: плод — по вере, а считать славу Имени преувеличением — оскорбление.",
+  "persons": [
+   "@mahaprabhu",
+   "@krishnadasa-sthaneshvari",
+   "@kashi-mishra"
+  ],
+  "places": [
+   "#puri",
+   "#house-kashi-mishra"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте»; стихи — подборка, как в «Хари-бхакти-виласе» 11.",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "scripture"
+  ],
+  "scriptures": [
+   "«Бхагаватам» 6.2.7–18, 6.2.46, 12.3.44, 12.12.47, 8.23.16, 3.33.7, 11.5.36, 2.1.11, 1.1.14, 3.9.15, 6.16.44",
+   "«Гита» 11.36",
+   "«Бхакти-расамрита-синдху» 1.2.108",
+   "«Ригведа» 1.156.3"
+  ],
+  "event": "ev-nama-mahima-krishnadasa",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/20.md",
+    "from": "1",
+    "to": "221"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/20.md",
+    "from": "1",
+    "to": "221",
+    "line": 7,
+    "line_to": 641,
+    "count": 221,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/20.md?plain=1#L7-L641",
+    "file_en": "prema-vivarta/en/20.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/20.md?plain=1#L7-L641"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "антья-лила в Пури; время не названо",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "ccd-0095",
   "source": "chaitanya-chandrodaya",
   "ref": "Акт 10, уборка Гундичи, ст. 28–40",
@@ -127387,6 +128123,126 @@
    30,
    47
   ],
+  "attestation": 2
+ },
+ {
+  "id": "pv-0007",
+  "source": "prema-vivarta",
+  "ref": "Гл. 5, 7–8",
+  "file": "prema-vivarta/ru/05.md",
+  "period": "P14",
+  "order": 70,
+  "title": "Разбитый кувшин сандалового масла; Господь велит стряпать «в гневе»",
+  "summary": "Услышав колкие слова о привезённом масле с сандалом, Джагадананда разбивает кувшин и, обидевшись, лежит без еды; Господь хитростями развеивает обиду, велит ему стряпать рис, овощи, зелень и говорит: «Стряпня гнева очень сладка».",
+  "persons": [
+   "@jagadananda-pandita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Антья 12",
+  "cc": "Антья 12",
+  "themes": [
+   "sannyasa",
+   "prasada"
+  ],
+  "event": "ev-jagadananda-sandal-oil",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "7",
+    "to": "8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "7",
+    "to": "8",
+    "line": 35,
+    "line_to": 40,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/05.md?plain=1#L35-L40",
+    "file_en": "prema-vivarta/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/05.md?plain=1#L35-L40"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pv-0002",
+  "source": "prema-vivarta",
+  "ref": "Гл. 2, 11–17",
+  "file": "prema-vivarta/ru/02.md",
+  "period": "P14",
+  "order": 71,
+  "title": "Господь в шутку называет Джагадананду царицей Двараки",
+  "summary": "Господь, смеясь, говорит Джагадананде, что тот — главная царица Двараки и найдёт сотни таких санньяси, как Он; Джагадананда отвечает, что он служанка стоп Радхи, что Господь украл цвет кожи Радхи и, обманывая всех санньясой, Сам служит Радхе; затем — плач автора об ушедшем Господе.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagadananda-pandita",
+   "@radha"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Известно только по «Према-виварте». Шуточный любовный спор; ср. ГГД 51 (Джагадананда — Сатьябхама).",
+  "themes": [
+   "pranks",
+   "krishna-lila"
+  ],
+  "bhava": [
+   "sannyasi",
+   "radha"
+  ],
+  "cc": "Ади 10.21; Антья 7.138",
+  "event": "ev-jagadananda-dvaraka-queen-jest",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "11",
+    "to": "17"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "11",
+    "to": "17",
+    "line": 39,
+    "line_to": 57,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/02.md?plain=1#L39-L57",
+    "file_en": "prema-vivarta/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/02.md?plain=1#L39-L57"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Господь уже санньяси (Према-виварта 2.12)",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
   "attestation": 1
  },
  {
@@ -127447,7 +128303,187 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pv-0006",
+  "source": "prema-vivarta",
+  "ref": "Гл. 5, 3–6",
+  "file": "prema-vivarta/ru/05.md",
+  "period": "P14",
+  "order": 72,
+  "title": "Джагадананда во Вриндаване хочет ударить Санатану горшком с рисом",
+  "summary": "Придя посмотреть Враджу и живя у Санатаны, Джагадананда увидел у него на голове красную ткань санньяси и решил ударить его горшком с рисом; видя смирение Санатаны, устыдился; Гаура, посылая его во Вриндаван, сам смотрит на эту «потеху».",
+  "persons": [
+   "@jagadananda-pandita",
+   "@sanatana-gosvami",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Антья 13.50–61",
+  "cc": "Антья 13",
+  "themes": [
+   "pilgrimage",
+   "offense"
+  ],
+  "event": "ev-jagadananda-vrindavana-pilu",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "3",
+    "to": "6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "3",
+    "to": "6",
+    "line": 13,
+    "line_to": 28,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/05.md?plain=1#L13-L28",
+    "file_en": "prema-vivarta/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/05.md?plain=1#L13-L28"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pv-0011",
+  "source": "prema-vivarta",
+  "ref": "Гл. 13, 1–13",
+  "file": "prema-vivarta/ru/13.md",
+  "period": "P14",
+  "order": 72,
+  "title": "Песня Джагадананды на пути во Вриндаван: тоска по Гауре",
+  "summary": "Оставив стопы Гауранги ради Вриндавана, автор в пути не может вынести разлуки: бросается в океан, бежит к Тоте, падает без чувств во дворе Гопинатхи, Пандит Госай берёт его к себе; ни уйти без наказа, ни остаться без лица Горачанда; люди Гададхары перешёптываются о нём.",
+  "persons": [
+   "@jagadananda-pandita",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@gopinatha-deity-puri"
+  ],
+  "places": [
+   "#puri",
+   "#tota"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "notes": "Песня-переживание, а не хроника.",
+  "themes": [
+   "separation",
+   "pilgrimage"
+  ],
+  "cc": "Антья 13",
+  "event": "ev-jagadananda-vrindavana-pilu",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/13.md",
+    "from": "1",
+    "to": "13"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/13.md",
+    "from": "1",
+    "to": "13",
+    "line": 7,
+    "line_to": 69,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/13.md?plain=1#L7-L69",
+    "file_en": "prema-vivarta/en/13.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/13.md?plain=1#L7-L69"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pv-0012",
+  "source": "prema-vivarta",
+  "ref": "Гл. 14, 1–10",
+  "file": "prema-vivarta/ru/14.md",
+  "period": "P14",
+  "order": 72,
+  "title": "Сон в пути: Гаура зовёт Джагадананду назад; Навадвипа вместо Вриндавана",
+  "summary": "Блуждая на пути во Вриндаван, автор видит во сне танец Горы у океана; Гора тянет его за руку, упрекает за уход в гневе и просит сготовить зелени; проснувшись у берега Джахнави, автор понимает, что Навадвипа — суть Враджи, кланяется матушке Аи в Маяпуре и решает не идти дальше.",
+  "persons": [
+   "@jagadananda-pandita",
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@shachi"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga",
+   "#puri"
+  ],
+  "kind": "vision",
+  "authority": "C",
+  "notes": "«Обратная виварта» — песня-настроение; по ЧЧ Антья 13 Джагадананда дошёл до Вриндавана и жил у Санатаны (и сама ПВ 5.3 говорит то же).",
+  "themes": [
+   "separation",
+   "celestial"
+  ],
+  "divergence": "Здесь он не доходит до Вриндавана и заходит к Шачи в Навадвипу — ЧЧ этого не сообщает.",
+  "event": "ev-jagadananda-vrindavana-pilu",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/14.md",
+    "from": "1",
+    "to": "10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/14.md",
+    "from": "1",
+    "to": "10",
+    "line": 9,
+    "line_to": 56,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/14.md?plain=1#L9-L56",
+    "file_en": "prema-vivarta/en/14.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/14.md?plain=1#L9-L56"
+   }
+  ],
+  "cc": "Антья 13",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
  },
  {
   "id": "ccd-0097",
@@ -132858,7 +133894,68 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "pv-0008",
+  "source": "prema-vivarta",
+  "ref": "Гл. 5, 9–12",
+  "file": "prema-vivarta/ru/05.md",
+  "period": "P14",
+  "order": 120,
+  "title": "Господь не отпускает Джагадананду во Вриндаван, а посылает в Навадвипу",
+  "summary": "Когда Джагадананда хочет во Вриндаван, Господь не даёт позволения и строит уловки, а после ссор велит идти в Навадвипу — по наказу матери Сам живя в Пури, Он посылает в Свой город тех, к кому милостив.",
+  "persons": [
+   "@jagadananda-pandita",
+   "@mahaprabhu",
+   "@shachi",
+   "@sanatana-gosvami"
+  ],
+  "places": [
+   "#puri",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "notes": "Упоминание; поездки Джагадананды к Шачи — ЧЧ Антья 12.",
+  "cc": "Антья 12",
+  "themes": [
+   "separation",
+   "family"
+  ],
+  "event": "ev-jagadananda-visits-shachi",
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "9",
+    "to": "12"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/05.md",
+    "from": "9",
+    "to": "12",
+    "line": 45,
+    "line_to": 60,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/05.md?plain=1#L45-L60",
+    "file_en": "prema-vivarta/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/05.md?plain=1#L45-L60"
+   }
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Антья 12 (поездки Джагадананды в Навадвипу по поручению Господа)",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 2
  },
  {
   "id": "pad-0025",
@@ -132924,7 +134021,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "vv-0031",
@@ -165918,6 +167015,51 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/ru/45.md?plain=1#L517-L541",
     "file_en": "lochana/en/45.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/45.md?plain=1#L517-L541"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pv-0001",
+  "source": "prema-vivarta",
+  "ref": "Гл. 2, 1–10",
+  "file": "prema-vivarta/ru/02.md",
+  "period": "PX",
+  "order": 40,
+  "title": "Джагадананда начинает книгу; Сварупа называет его безумцем",
+  "summary": "Вспоминая облик и качества Чайтаньи, автор в слезах берётся за перо; на вопрос Сварупы Госая отвечает, что пишет лишь то, что любит, «в великой тайне», а не ради блага мира; Сварупа уходит, назвав его безумцем; автор пишет, что вспомнится.",
+  "persons": [
+   "@jagadananda-pandita",
+   "@svarupa-damodara",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "B",
+  "notes": "Рамка книги; беседа известна только по «Према-виварте». Ср. 2.17: автор пишет после ухода Господа.",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "1",
+    "to": "10"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vivarta/ru/02.md",
+    "from": "1",
+    "to": "10",
+    "line": 7,
+    "line_to": 36,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/ru/02.md?plain=1#L7-L36",
+    "file_en": "prema-vivarta/en/02.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vivarta/en/02.md?plain=1#L7-L36"
    }
   ],
   "attestation": 1

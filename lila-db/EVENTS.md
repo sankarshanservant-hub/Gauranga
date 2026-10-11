@@ -656,9 +656,21 @@
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 655–696 — [655–696](../lochana/ru/16.md?plain=1#L129-L252) · `lcm-0065`
 - murari-kcc (A): Пракрама 1, сарга 8, шлоки 11–24 — [11–24](../murari-gupta/ru/1.08.md?plain=1#L25-L51) · `mkc-0033`
 
+## Шивананда Сена воспитывает Джагадананду и приводит его к Господу в Надию / Shivananda Sena brings up Jagadananda and brings him to the Lord in Nadia  `ev-shivananda-raises-jagadananda` (1491–1496, возраст 5–10, оценка)
+
+- prema-vivarta (C): Гл. 8, 15–19 — [15–19](../prema-vivarta/ru/08.md?plain=1#L52-L66) · `pv-0009`
+
 ## Шачи приводит в дом Гададхару и Джагадананду / Shachi brings Gadadhara and Jagadananda into the house  `ev-gadadhara-jagadananda-in-lords-house` (1491–1496, возраст 5–10, оценка)
 
 - jayananda-cm (C): Надия-кханда (в т. ч. разд. 29): цитаты 15–17 — [14:1–9:4](../jayananda/ru/05-quotes.md?plain=1#L244-L253); [15:1–11:2](../jayananda/ru/05-quotes.md?plain=1#L260-L263); [16:1–16:1](../jayananda/ru/05-quotes.md?plain=1#L269-L269) · `jcm-0032`
+
+## Детская ссора Нимая и Джагадананды в школе и примирение ночью / The childhood quarrel of Nimai and Jagadananda at school and their reconciliation at night  `ev-jagadananda-childhood-quarrel` (1491–1496, возраст 5–10, оценка)
+
+- prema-vivarta (C): Гл. 2, 18–25 — [18–25](../prema-vivarta/ru/02.md?plain=1#L64-L101) · `pv-0003`
+
+## Попугай на берегу Алакананды поёт «Гаура» вместо «Радха-Кришна» / The parrot on the bank of the Alakananda sings «Gaura» instead of «Radha-Krishna»  `ev-parrot-sings-gaura` (1491–1496, возраст 5–10, оценка)
+
+- prema-vivarta (C): Гл. 2, 31–42 — [31–42](../prema-vivarta/ru/02.md?plain=1#L133-L168) · `pv-0004`
 
 ## Учёба у Гангадаса Пандита / Study under Gangadasa Pandita  `ev-study-gangadasa` (1491–1496, возраст 5–10, оценка)
 
@@ -1836,6 +1848,10 @@
 - padas (C): Васу Гхош, ГПТ1 с. 330 (№ 28) «বৃন্দাবনের ভাবে গোরা ফিরায় পাঁচনি» — [14.1–14.4](../padas/ru/14.md?plain=1#L389-L398) · `pad-0299`
 - padas (C): Вамшидас, ГПТ1 с. 330–331 (№ 30) «শ্রীনন্দনন্দন শচীর দুলাল চলে গোঠে পায় পায়» — [15.1–15.4](../padas/ru/14.md?plain=1#L410-L419) · `pad-0300`
 
+## Утренняя прогулка к пастухам Гадигачхи; освобождение проклятого крокодила в пруду Горадаха / A morning outing to the cowherds of Gadigachha; the deliverance of the cursed crocodile in the Goradaha pond  `ev-goradaha-crocodile-deliverance` (1509–1510, возраст 23–24, оценка)
+
+- prema-vivarta (C): Гл. 15, 1–48 — [1–48](../prema-vivarta/ru/15.md?plain=1#L7-L170) · `pv-0013`
+
 ## Джхулан: Господь на качелях на берегу Ганги (Навадвипа) / Jhulana: the Lord on the swing by the Ganga (Navadvipa)  `ev-jhulana-navadvipa` (1509–1509, возраст 23–23, оценка)
 
 - padas (B): Васу Гхош, ПК 1550 «দেখত ঝুলত গৌরচন্দ্র» — [5.1–5.4](../padas/ru/04.md?plain=1#L173-L188) · `pad-0064`
@@ -2820,6 +2836,10 @@
 - gaura-krishnodaya (B): Сарга 11, 19 — [19–19](../gaura-krishnodaya/ru/11.md?plain=1#L47-L47) · `gkd-0103`
 - govinda-karcha (D): Часть 12, 2467–2473 — [2467–2473](../govinda-kadacha/ru/12.md?plain=1#L89-L107) · `gkr-0106`
 
+## Господь вверяет Гададхаре служение Тота-Гопинатхе, а Джагадананде — Гиридхари в Пури / The Lord entrusts Gadadhara with the service of Tota-Gopinatha and Jagadananda with that of Giridhari in Puri  `ev-jagadananda-giridhari-seva` (1512–1514, возраст 26–28, оценка)
+
+- prema-vivarta (C): Гл. 3, 2–4 — [2–4](../prema-vivarta/ru/03.md?plain=1#L10-L17) · `pv-0005`
+
 ## Сита посвящает Кришна Мишру и его жену Виджаю / Sita initiates Krishna Mishra and his wife Vijaya  `ev-krishna-mishra-initiation-sita` (1512–1514, возраст 26–28, оценка)
 
 - advaita-prakasha (D): Гл. 15, 137–148 — [137. Затем, по–148. Это сокро](../advaita-prakash/15.md?plain=1#L141-L152) · `apr-0093`
@@ -3576,6 +3596,10 @@
 - bhakti-ratnakara (B): Таранга 1, 675–679 — [675–679](../bhakti-ratnakara/ru/01.md?plain=1#L2053-L2065) · `brt-0036`
 - gaura-krishnodaya (B): Сарга 17, 1–3 — [1–3](../gaura-krishnodaya/ru/17.md?plain=1#L7-L11) · `gkd-0162`
 
+## Санатана спрашивает Господа о юкта-вайрагье / Sanatana asks the Lord about yukta-vairagya  `ev-yukta-vairagya-sanatana-question` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 9, 1–36 — [1–36](../prema-vivarta/ru/09.md?plain=1#L7-L119) · `pv-0010`
+
 ## Милость Господа к маленькому сыну Шивананды — будущему Кави Карнапуре / The Lord's mercy to Shivananda's little son, the future Kavi Karnapura  `ev-karnapura-child-mercy` (1516–1533, возраст 30–47, оценка)
 
 - advaita-prakasha (D): Гл. 18, 126–127 — [126. По милост–127. Он стал и](../advaita-prakash/18.md?plain=1#L130-L131) · `apr-0125`
@@ -3656,6 +3680,11 @@
 - prema-vilasa (C): Виласа 18, 31–43 — [31–43](../prema-vilasa/ru/18.md?plain=1#L95-L131) · `pvl-0131`
 - gaura-stotras (A): Рагхунатха, «Вилапа-кусуманджали» 5 — [4–4](../stotras/ru/03.md?plain=1#L19-L19) · `gst-0016`
 
+## Сварупа Дамодара наставляет Рагхунатху Даса: что такое пирити, поведение преданных, три вида бхакти / Svarupa Damodara instructs Raghunatha Dasa: what piriti is, the conduct of devotees, the three kinds of bhakti  `ev-svarupa-teaches-raghunatha-piriti` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 16, 1–61 — [1–61](../prema-vivarta/ru/16.md?plain=1#L7-L242) · `pv-0014`
+- prema-vivarta (C): Гл. 17, 1–90 — [1–90](../prema-vivarta/ru/17.md?plain=1#L7-L292) · `pv-0015`
+
 ## Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи / The Lord gives Raghunatha the Govardhana stone and the gunja necklace  `ev-govardhana-shila-gunja-gift` (1516–1533, возраст 30–47, оценка)
 
 - gaura-krishnodaya (B): Сарга 16, 64–65 — [64–65](../gaura-krishnodaya/ru/16.md?plain=1#L145-L147) · `gkd-0160`
@@ -3685,6 +3714,10 @@
 - vallabha-varta (D): Нидж-варта, варта-прасанг 22; § 1.2 — [2:1–1:9](../vallabha/ru/01.md?plain=1#L38-L66) · `vlb-0002`
 - vallabha-varta (D): Аштасакха ки варта, варта 4 (Кришнадас Адхикари), прасанг 2; § 1.13 — [13:1–1:23](../vallabha/ru/01.md?plain=1#L495-L597) · `vlb-0014`
 
+## Экадаши в саду Джаганнатха-валлабха: Господь почитает махапрасад поклоном и вкушает наутро / Ekadashi in the Jagannatha-vallabha garden: the Lord honours the mahaprasada with obeisance and eats it the next morning  `ev-ekadashi-mahaprasada-jagannatha-vallabha` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 18, 1–21 — [1–21](../prema-vivarta/ru/18.md?plain=1#L7-L103) · `pv-0016`
+
 ## Господь предсказывает бедствия века Кали / The Lord foretells the calamities of the Kali age  `ev-lord-prophesies-kali-age` (1516–1533, возраст 30–47, оценка)
 
 - jayananda-cm (C): Вайрагья-кханда: «Пророчество о храмах» (рукопись № 548); «Пророчество о лжевайшнавах» (цитаты) — [14:1–9:4](../jayananda/ru/06-manuscripts.md?plain=1#L341-L350); [42:1–29:2](../jayananda/ru/05-quotes.md?plain=1#L740-L743) · `jcm-0051`
@@ -3699,16 +3732,32 @@
 - advaita-prakasha (D): Гл. 19, 142–154 — [142. Теперь по–154. Уповая на](../advaita-prakash/19.md?plain=1#L146-L158) · `apr-0135`
 - gaura-krishnodaya (B): Сарга 17, 42–46 — [42–46](../gaura-krishnodaya/ru/17.md?plain=1#L93-L101) · `gkd-0172`
 
+## Господь у самадхи Харидаса толкует «Нама-рахасья-паталу» / At Haridasa's samadhi the Lord expounds the «Nama-rahasya-patala»  `ev-nama-rahasya-patala-haridasa-samadhi` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 19, 1–164 — [1–164](../prema-vivarta/ru/19.md?plain=1#L7-L512) · `pv-0017`
+
+## В доме Каши Мишры Господь рассказывает Кришнадасу о славе Имени / In Kashi Mishra's house the Lord tells Krishnadasa of the glory of the Name  `ev-nama-mahima-krishnadasa` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 20, 1–221 — [1–221](../prema-vivarta/ru/20.md?plain=1#L7-L641) · `pv-0018`
+
 ## Калидас пьёт воду со стоп Господа у Львиных ворот / Kalidasa drinks the water of the Lord's feet at the Lion Gate  `ev-kalidasa-foot-water` (1516–1533, возраст 30–47, оценка)
 
 
 ## Джагадананда разбивает сосуд с сандаловым маслом / Jagadananda breaks the jar of sandalwood oil  `ev-jagadananda-sandal-oil` (1516–1533, возраст 30–47, оценка)
 
 - gaura-krishnodaya (B): Сарга 17, 20–22 — [20–22](../gaura-krishnodaya/ru/17.md?plain=1#L47-L51) · `gkd-0167`
+- prema-vivarta (B): Гл. 5, 7–8 — [7–8](../prema-vivarta/ru/05.md?plain=1#L35-L40) · `pv-0007`
+
+## Господь в шутку называет Джагадананду царицей Двараки / The Lord jokingly calls Jagadananda the queen of Dvaraka  `ev-jagadananda-dvaraka-queen-jest` (1516–1533, возраст 30–47, оценка)
+
+- prema-vivarta (C): Гл. 2, 11–17 — [11–17](../prema-vivarta/ru/02.md?plain=1#L39-L57) · `pv-0002`
 
 ## Джагадананда во Вриндаване у Санатаны; плоды пилу для Господа / Jagadananda in Vrindavana with Sanatana; pilu fruits for the Lord  `ev-jagadananda-vrindavana-pilu` (1516–1533, возраст 30–47, оценка)
 
 - gaura-krishnodaya (B): Сарга 17, 23–26 — [23–26](../gaura-krishnodaya/ru/17.md?plain=1#L53-L59) · `gkd-0168`
+- prema-vivarta (B): Гл. 5, 3–6 — [3–6](../prema-vivarta/ru/05.md?plain=1#L13-L28) · `pv-0006`
+- prema-vivarta (C): Гл. 13, 1–13 — [1–13](../prema-vivarta/ru/13.md?plain=1#L7-L69) · `pv-0011`
+- prema-vivarta (C): Гл. 14, 1–10 — [1–10](../prema-vivarta/ru/14.md?plain=1#L9-L56) · `pv-0012`
 
 ## Рагхунатха Бхатта у Господа в Пури; послан во Вриндаван / Raghunatha Bhatta with the Lord in Puri; sent to Vrindavana  `ev-raghunatha-bhatta-sent-vrindavana` (1516–1533, возраст 30–47, оценка)
 
@@ -3885,6 +3934,7 @@
 ## Джагадананда приходит из Пури к Шачи в Навадвипу / Jagadananda comes from Puri to Shachi in Navadvipa  `ev-jagadananda-visits-shachi` (1516–1533, возраст 30–47, оценка)
 
 - padas (C): Мадхави Дас, ПК 1853 = ГПТ1 с. 407 (№ 17) «নীলাচল হৈতে শচীরে দেখিতে» — [21.1–21.5](../padas/ru/06.md?plain=1#L713-L732) · `pad-0119`
+- prema-vivarta (B): Гл. 5, 9–12 — [9–12](../prema-vivarta/ru/05.md?plain=1#L45-L60) · `pv-0008`
 - padas (C): Чандрашекхара, ПК 1854 «ক্ষণেক রহিয়া চলিয়া উঠিয়া পণ্ডিত জগদানন্দ» — [25.1–25.13](../padas/ru/01.md?plain=1#L663-L723) · `pad-0025`
 
 ## Шанкара Гхош радует Господа игрой на дамфе / Shankara Ghosha delights the Lord by playing the dampha  `ev-shankara-ghosha-dampha` (1516–1533, возраст 30–47, оценка)
