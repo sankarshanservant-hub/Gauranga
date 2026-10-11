@@ -188,6 +188,38 @@ Yadunandana Ācārya, who received his mercy, was the *dīkṣā-guru* of Śrī 
 
 On the E.I.R. line, one mile from Pūrvasthalī station, in the village of Māmagāchi, the birthplace of Ṭhākura Vṛndāvana, the Śrī Madana-Gopāla he established still resides. His service is very much neglected. It is desirable that His service be made splendid.
 
+## 43
+
+> Subheading: (20) The virtues of Ṭhākura Haridāsa, the Nāmācārya, and his branch —
+
+## 43–47
+
+Śrī Haridāsa Ṭhākura. *Caitanya-bhāgavata*, Ādi, Chapter 2: “Haridāsa descended in Būṛhana … After staying there some days, he came to the bank of the Gaṅgā and settled in Phuliyā, near Śāntipura.” The persecution by the Muslims is described in the *Caitanya-bhāgavata*, Chapter 11. On Haridāsa's humble words and the Lord's mercy, see the *Caitanya-bhāgavata*, Madhya, Chapter 10; on preaching the holy name from door to door, Madhya, Chapter 13; on Haridāsa playing the *koṭāla* (chief of the watch) during the play in Candraśekhara's house, the *Caitanya-bhāgavata*, Madhya, Chapter 18; on his worship of the holy name of Hari at Benāpola and his test, the *Caitanya-caritāmṛta*, Antya, Chapter 3; and on Haridāsa's departure, Antya, Chapter 11.
+
+In the Sātakṣīrā subdivision of the Twenty-four Parganas (now Khulnā district) there is a *paragaṇā* called Būṛhana. Whether the Ṭhākura appeared there is not known.
+
+## 48
+
+> Subheading: (20a) Haridāsa's disciples, Satyarāja Khān (Vasu) and others —
+
+Satyarāja Khān was the son of Guṇarāja Khān of Kulīnagrāma and the father of Rāmānanda Vasu. Ṭhākura Haridāsa lived in Kulīnagrāma during Cāturmāsya, performing his worship, and bestowed his mercy on the Vasu family. On Mahāprabhu's merciful order to bring silk ropes (*paṭṭa-ḍorī*) for Jagannāthadeva every year, see Madhya, Chapter 14. On how Satyarāja asked about a householder's duties and heard of the characteristics of a Vaiṣṇava, a better Vaiṣṇava and the best Vaiṣṇava and of the gradation of their qualification, see Madhya 15.102–109 and 16.69–75. At the place where he worshipped there is now a Deity of Śrī Mahāprabhu.
+
+Kulīnagrāma lies within two miles of Jaugrāma station on the Howrah–Barddhamāna New Chord line. For Mahāprabhu's words on the glory of Kulīnagrāma, see Ādi 10.82–83 and Madhya 15.100–101.[^48-1]
+
+## 49
+
+> Subheading: (21) The greatness and the branch of Śrī Murāri Gupta —
+
+Śrī Murāri Gupta was the author of the book *Śrī Caitanya-carita*. He was born in a Vaidya family of Śrīhaṭṭa and later settled in Navadvīpa. He was older than Mahāprabhu. In his house Mahāprabhu showed the form of Varāha (*Caitanya-bhāgavata*, Madhya, Chapter 3), and in the state of the Mahā-prakāśa He showed him His form as Śrī Rāma (*Caitanya-bhāgavata*, Madhya, Chapter 10).
+
+One day in Śrīvāsa's house Gaurasundara was seated with Nityānanda. Murāri Gupta first bowed down to Gaura and then offered prostrated obeisances to Nityānanda. The Lord said to Murāri, “You have offered obeisances in violation of proper order,” and at night, in a dream, He revealed to him the truth about Nityānanda. The next morning Murāri first worshipped the feet of Nityānanda and then those of Mahāprabhu. The Lord gave Murāri chewed betel. One day Murāri offered rice with ghee to Śrī Mahāprabhu in thought. The next morning Mahāprabhu, suffering indigestion from eating so much rice, came to Murāri for treatment. Saying, “The only medicine for this is the water in Murāri's water pot,” the Lord drank that water. In Śrīvāsa's house Mahāprabhu assumed a four-armed form; Murāri felt himself to be Garuḍa, and the Lord mounted his shoulders. Thinking that he could not bear the separation when the Lord concealed Himself, Murāri resolved to give up his body while the Lord was still manifest, but the Lord, the indweller of the heart, held him back (*Caitanya-bhāgavata*, Madhya, Chapter 20). One day the Lord, absorbed in *bhāva*, manifested the form of Varāha in Murāri Gupta's house, and Murāri, seeing Him, offered prayers (*Caitanya-bhāgavata*, Antya, Chapter 4). For Murāri Gupta's humble words, see Madhya 11.152–158; for Murāri's steadfast devotion to Śrī Rāma, see Madhya 15.137–157.
+
+## 52
+
+> Subheading: (22) Śrīmān Sena —
+
+Śrīmān Sena lived in Navadvīpa and was a companion of the Lord.
+
 ---
 
 [^14-1]: The edition reads *śakti adhastana*, literally “descendants by *śakti*”; the sense probably requires *śaukra* (শৌক্র), “descendants by birth.”
@@ -195,3 +227,5 @@ On the E.I.R. line, one mile from Pūrvasthalī station, in the village of Māma
 [^17-1]: An unclear place in the quotation: the words “her age is the measure” are not connected to anything in the extract; perhaps the statement of the age itself has been left out.
 
 [^35-1]: The edition reads “Madhya, Chapter 1, 55–62”; the episode is in Madhya 1.155–162.
+
+[^48-1]: The edition reads “Madhya, Chapter 10, 100–101”; these words of the Lord are in Madhya 15.100–101.

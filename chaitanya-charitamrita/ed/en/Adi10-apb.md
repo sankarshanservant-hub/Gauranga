@@ -35,3 +35,15 @@ See Antya, Chapters 4, 7, 12 and 13.
 ## 32
 
 “*Āge*” (later): see Antya, Chapter 3.
+
+## 43
+
+“*Apatita*”: without breaking the rule.
+
+## 50
+
+“*Ātma-vṛtti*”: the occupation of one's own *varṇa*; Murāri Gupta's profession as a physician (*kavirāja*).
+
+## 53
+
+Gadādhara dāsa was a resident of Eṅḍiyādaha.
