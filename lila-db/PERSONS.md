@@ -535,3 +535,5 @@
 | @vijaya-acharya | Виджая Ачарья | Vijaya Acharya | житель Навадвипы, в доме которого Господь провёл ночь, бросившись в Гангу (ЧЧ Ади 17.246); отождествление с @vijaya-dasa не установлено |
 | @chaitanya-vallabha | Чайтанья Валлабха | Chaitanya Vallabha | вайшнав из Чаттаграма, родился до явления Господа (ЧБ Ади 2.36–37; ср. Чайтанья-валлабха Датта, ЧЧ Ади 10) |
 | @aditi | Адити | Aditi | мать богов; неузнанной благословляет новорождённого Гауру (ЧБ Ади 3.35) |
+| @kamalakanta-navadvipa | Камалаканта (соученик Господа) | Kamalakanta (the Lord's schoolmate) | соученик у Гангадаса Пандита (ЧБ Ади 8.38); отождествление с @kamalakanta-vishvasa не установлено |
+| @krishnananda-navadvipa | Кришнананда (соученик Господа) | Krishnananda (the Lord's schoolmate) | соученик у Гангадаса Пандита (ЧБ Ади 8.38); не путать с @krishnananda-datta, @krishnananda-puri |
