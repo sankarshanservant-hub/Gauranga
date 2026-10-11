@@ -450,10 +450,92 @@ Viśākhā's words to Savarṇā, the wife of Sūrya: **gopīnāṁ** **durūha-
 
 > Subheading: The Lord's potencies — Gadādhara, Svarūpa, Rāmānanda, Śrī Rūpa and others — serve Gaura-Kṛṣṇa in *madhura-rasa* —
 
+## 296–301
+
+These verses describe the gradations in the wondrous variety of moods in which Śrī Nityānanda and Śrī Advaita serve Gaura, transcendentally and supremely marvelously. The *Gaura-gaṇoddeśa-dīpikā* (11–16): “Gauracandra is in the form of a devotee, for He is the son of Nanda. Nityānanda, who in Vraja is Śrī Halāyudha, is a devotee by His very nature. Ācārya Advaita, who is Śrī Sadāśiva, is the *avatāra* of a devotee. Śrīnivāsa and the others are called devotees, for they are in the form of devotees. The foremost of the twice-born, Śrī Gadādhara Paṇḍita, is the potency of a devotee. Śrīmad Viśvambhara, Advaita and the *avadhūta* Nityānanda — here three *vigrahas* are to be recognized, and all three are *prabhus*. One is Mahāprabhu, Śrī Caitanya, the ocean of mercy; two are *prabhus*, the illustrious great souls Nityānanda and Advaita. They are *gosvāmīs* and *vigrahas*; and together with Gadādhara, the twice-born, and Śrīnivāsa Paṇḍita, they make up the Pañca-tattva. On this the Gosvāmī Śrī Svarūpa, whose feet are lotuses, said: ‘Here three *vigrahas* are to be known, and these three are *prabhus*: one is Mahāprabhu, and two are *prabhus*; so the saintly hold.’” Ibid., verses 23–24: Śrī Īśvara Purī served in *śṛṅgāra-rasa*, Advaita Prabhu in *dāsya-* and *sakhya-rasa*, and Śrī Raṅgapurī in pure *vātsalya-rasa*. See Ādi 7.10–17.
+
 ## 302
 
 > Subheading: In Vraja, the pastimes of Śyāma, the cowherd's son with the flute at His lips; in Gauḍa, the pastimes of Gaura, the embodiment of *kīrtana* in the guise of a brāhmaṇa and a *sannyāsī* —
 
+## 303
+
+> Subheading: Kṛṣṇa, filled with the mood of the *gopīs*, tastes love for Kṛṣṇa in the form of Gaura —
+
+## 304
+
+> Subheading: Without following those who follow Rūpa, Gaura's *rasa* of separation (*vipralambha*) cannot be fathomed —
+
+## 303–304
+
+See Ādi 17.276–278.
+
+## 305
+
+> Subheading: Gaura's inconceivable moods, full of supreme and wondrous variety, are beyond logic —
+
+## 307
+
+> Subheading: The wretched fate of the logician: “The doubter perishes” —
+
+***Kumbhīpāka*** — a particular hell, where sinners are cooked in a special vessel called a *kumbhī*. (*Śrīmad-Bhāgavatam* 5.26.13): “One who in this world cruelly cooks animals or birds alive — merciless, despised even by man-eaters — is cooked in the next world by the servants of Yama in Kumbhīpāka, in boiling oil.” The *jīva* who kills living beings deserves Yama's punishment and is cooked in Kumbhīpāka.
+
+## 308
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, the wave on *sthāyi-bhāva*, 93)
+
+Dhṛtarāṣṭra wished to hear the names of the rivers, mountains, forests and other things on the earth, and in reply to his question Sañjaya said: **ye bhāvāḥ** **acintyāḥ** (beyond thought that is full of material enjoyment) **khalu** (certainly), **tān** **acintya-bhāvān** **tarkeṇa** **na** **yojayet** (meaning: one should not assail them with arguments); **yat ca** **prakṛtibhyaḥ** **param** (other, beyond — in short, transcendental), **tat eva** **acintyasya** **lakṣaṇam**.
+
+## 309
+
+> Subheading: Only one who has faith attains service —
+
+## 311
+
+> Subheading: Repetition —
+
+## 312
+
+> Subheading: The chapters described after the manner of Śrī Vyāsa in the *Bhāgavatam* —
+
+At the end of the *Śrīmad-Bhāgavatam*, in the twelfth chapter of the twelfth canto, Śrī Kṛṣṇa Dvaipāyana Vedavyāsa summarized the entire *Bhāgavatam* from beginning to end in 52 verses and so concluded the book. Following the path shown by that *mahājana*, the author too briefly recapitulates Śrī Caitanya's Ādi-līlā.
+
+## 313
+
+> Subheading: Repetition, briefly describing the chapters —
+
+## 313–327
+
+Verses 313 to 327 list the chapters. In the first chapter — the *maṅgalācaraṇa*, with obeisance to the gurus and others. In the second — the *maṅgalācaraṇa* that points to the truth of Gaura. In the third — the general cause of the *avatāra*: the gift of *prema*. In the fourth — the root cause of the *avatāra*. In the fifth — the truth of Nityānanda. In the sixth — the truth of Advaita set forth. In the seventh — the Pañca-tattva set forth, and its preaching. In the eighth — the introduction and the glory of the name. In the ninth — the description of the wish-fulfilling tree of devotion, and its preaching. In the tenth — the list of Gaura's associates. In the eleventh — the list of Nityānanda's associates. In the twelfth — the list of Advaita's and Gadādhara's associates. In the thirteenth — Gaura's birth pastime. In the fourteenth — the pastimes of childhood. In the fifteenth — the *paugaṇḍa* pastimes. In the sixteenth — the *kaiśora* pastimes. In the seventeenth — the pastimes of youth.
+
+## 329
+
+The Ādi-līlā has seventeen chapters, or sections (*prabandhas*). Of these, the first twelve are only the preface, or introduction, to the book. The following five chapters, from the thirteenth to the seventeenth, are five sections on the five ages: “birth,” “childhood” (*bālya*), “boyhood” (*paugaṇḍa*), “youth” (*kaiśora*) and “young manhood” (*yuvā*)[^329-1].
+
+## 331
+
+> Subheading: Gaura's pastimes are boundless —
+
+See Madhya 21.10 and 12, and *Śrīmad-Bhāgavatam* 2.7.41, 10.14.7 and other verses.
+
+## 332
+
+> Subheading: The supreme good for those who hear and chant Gaura's pastimes —
+
+## 334
+
+> Subheading: Homage to the devotees who live in Vṛndāvana —
+
+## 335
+
+> Subheading: Obeisance to the gurus —
+
+**Śrī Svarūpa** — Śrī Svarūpa Dāmodara; see Madhya 10.102–127 and the *Anubhāṣya*.
+
+*Thus ends the seventeenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^230-1]: In the *smṛti*, a *golaka* is a son born to a widow after her husband's death (*Manu-saṁhitā* 3.174).
+
+[^329-1]: The verse translation reads otherwise: “After the fourteen introductory chapters, in five chapters I have briefly told of the five transcendental kinds of relationship with God.”

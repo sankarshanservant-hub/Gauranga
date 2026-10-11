@@ -76,6 +76,12 @@ Once Śrī Kṛṣṇa, in jest, manifested the four-armed form of Nārāyaṇa,
 
 At the beginning of the *rāsa*, Kṛṣṇa, in play, hid in a *kuñja*. Seeing the doe-eyed *gopīs* coming toward Him, He grew anxious and displayed His charming four-armed form. The ordinary *gopīs* said only, “This is not Śrī Kṛṣṇa, the object of our love.” But how wondrous is the glory of Rādhā's love! As soon as Śrī Rādhā arrived, Kṛṣṇa, try as He might, could not keep that four-armed form.
 
+## 308
+
+The truth that lies beyond *prakṛti* — that is the mark of the inconceivable. Logic (*tarka*) is material, and so it cannot touch that truth. Therefore one should not apply logic to what is inconceivable.
+
+*Thus ends the seventeenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^211-1]: The verse translation reads otherwise: “Tirelessly all the low-born chant the holy name of Kṛṣṇa.”
