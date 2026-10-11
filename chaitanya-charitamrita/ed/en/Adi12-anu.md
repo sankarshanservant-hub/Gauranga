@@ -226,7 +226,7 @@ Yama's words to his messengers (*Śrīmad-Bhāgavatam* 6.3.29): “Bring to me t
 
 ## 75
 
-> Subheading: Obeisances to all these pure devotees —[^75-1]
+> Subheading: Obeisances to all these pure devotees —
 
 ## 78
 
@@ -246,7 +246,7 @@ Dhruvānanda Brahmacārī. *Gaura-gaṇoddeśa*, 152: “Others have said that D
 
 Kavidatta. *Śākhā-nirṇayāmṛta*, 14: “I praise Kavidatta, in whose heart Rādhā and Kṛṣṇa dwell eternally and by nature, the very wonder of *mahābhāva*.” He is Kalakaṇṭhī of Vraja (*Gaura-gaṇoddeśa*, verses 197 and 207).
 
-Nayana Miśra (*Gaura-gaṇoddeśa*, verses 196 and 207) is Nitya-mañjarī of Vraja. *Śākhā-nirṇayāmṛta*, verse 1[^80-1]: “I praise Śrī Nayanānanda Miśra, an ocean of the nectar of *prema*, the one vessel of the jewel of love of Gadādhara and Gaura.”
+Nayana Miśra (*Gaura-gaṇoddeśa*, verses 196 and 207) is Nitya-mañjarī of Vraja. *Śākhā-nirṇayāmṛta*, verse 1: “I praise Śrī Nayanānanda Miśra, an ocean of the nectar of *prema*, the one vessel of the jewel of love of Gadādhara and Gaura.”
 
 Gaṅgāmantrī (*Gaura-gaṇoddeśa*, 196 and 205) is Candrikā of Vraja. *Śākhā-nirṇayāmṛta*, 16: “I glorify Gaṅgāmantrī, who delights in the joy of service, with whom the Gaṅgā herself, the Svardhunī, took counsel in order to reveal love for the holy name.”
 
@@ -311,3 +311,53 @@ Lakṣmīnātha Paṇḍita (*Gaura-gaṇoddeśa*, 196, 205) is Rasonmādā of V
 Baṅgavāṭī-Caitanya dāsa (*Gaura-gaṇoddeśa*, 196 and 206) is Kālī of Vraja. *Śākhā-nirṇayāmṛta*, 43: “I praise Śrī Caitanya dāsa of Baṅgavāṭī, the great soul, whose body is always adorned with tears of love and with hair standing on end.” The succession of his branch: (2) Mathurāprasāda, (3) Rukmiṇīkānta, (4) Jīvanakṛṣṇa, (5) Yugalakiśora, (6) Ratanakṛṣṇa, (7) Rādhāmādhava, (8) Uṣāmaṇi, (9) Vaikuṇṭhanātha, (10) Lālamohana Śāhā Śaṅkhanidhi (a resident of Ḍhākā).
 
 Raghunātha is Varāṅgadā of Vraja. *Gaura-gaṇoddeśa*, 194 and 200: “Raghunātha, a certain brāhmaṇa, an exclusive servant of Gaurāṅga.” *Śākhā-nirṇayāmṛta*, 44: “I praise him who is called Śrī Raghunātha, the great soul, the root of *prema*: simply by hearing his name one obtains the *rasa* of Vṛndāvana.”
+
+## 86
+
+> Subheading: (28) Amogha, (29) Hastigopāla, (30) Caitanya-vallabha, (31) Yadu, (32) Maṅgala Vaiṣṇava —
+
+Amogha Paṇḍita. *Śākhā-nirṇayāmṛta*, 59: “I praise Amogha Paṇḍita, whom Śrī Gaura made His own, whose body is filled with *prema* and whose voice is choked with it, whose body trembles with hair standing on end.”
+
+Hastigopāla is Hariṇī of Vraja (*Gaura-gaṇoddeśa*, 196 and 206). “With supreme devotion I bow to him who is called Hastigopāla dāsa, whose body is intoxicated with *prema*, full of the highest love for Gaura.” (*Śākhā-nirṇayāmṛta*, 61)
+
+Caitanya-vallabha. *Śākhā-nirṇayāmṛta*, 60: “I praise him who is called Caitanya-vallabha, the abode of the *rasa* of *prema*, who longs to sing of the qualities of Gadādhara and Gaura.”
+
+Yadu Gāṅguli. *Śākhā-nirṇayāmṛta*, 34: “With devotion I praise Yadunātha Cakravartī, called Līlā-bhāgavata, the root of *prema*, a great scholar, a great soul.” A descendant of this branch is Śrī Nalinākṣa Ṭhākura, a resident of Pāligrāma-Cāṇaka in Barddhamāna district.
+
+Maṅgala Vaiṣṇava. *Śākhā-nirṇayāmṛta*, 47: “I praise Maṅgala Vaiṣṇava, pure in heart and body, whose body is moistened by the nectar of the pastimes of the Lords of Vṛndāvana.” He lived in the village of Ṭiṭakaṇā in Murśidābāda. His father's family were servitors of the goddess Kirīṭeśvarī in Murśidābāda. According to tradition, he first took the great vow (*bṛhad-vrata*) and left home, and later, in Mayanāḍāla, married the daughter of his disciple Prāṇanātha Adhikārī. His descendants are now known as “the Ṭhākuras of Kāṅdaḍā.” Kāṅdaḍā is a village near Kāṭoyā in Barddhamāna district. Not long ago thirty-six households of Maṅgala Ṭhākura's line lived there.
+
+Among Ṭhākura Mahāśaya's well-known disciples, Prāṇanātha Adhikārī of Mayanāḍāla, Puruṣottama Cakravartī of Kāṅdaḍā and Nṛsiṁhaprasāda Mitra Ṭhākura of Mayanāḍāla deserve mention. The Adhikārī line of Mayanāḍāla has died out, but descendants through their daughters remain. Of Puruṣottama Cakravartī's line, Śrī Kuñjabihārī Cakravartī and Rādhāvallabha Cakravartī now live in the village of Āṅgaḍā under Sākuleśvara in Bīrabhūma. They sing the *Śrī Caitanya-maṅgala*. In the line of Nṛsiṁhaprasāda Mitra Ṭhākura, Sudhākṛṣṇa Mitra Ṭhākura and Nikuñjabihārī Mitra Ṭhākura are well known; they are masters of the art of the *mṛdaṅga*.
+
+Maṅgala Ṭhākura Mahāśaya obtained the pair of Deities “Śrī Rādhāvallabha” when the king of Gauḍa was building a road from Gauḍa to Kṣetra and digging a pond. At that time he lived in the village of Rāṇīpura, west of Kāṅdaḍā. The Śrī Nṛsiṁha-śilā that Ṭhākura Mahāśaya worshipped is still at Kāṅdaḍā. When the property granted by the king of Gauḍa for the service of the Deities was lost, Maṅgala Ṭhākura maintained the service by begging.
+
+Maṅgala Ṭhākura had three sons: (1) Rādhikāprasāda, (2) Gopīramaṇa, (3) Śyāmakiśora. The lines of these three brothers still exist. Later the service of Śrī Vṛndāvanacandra was established at Kāṅdaḍā.
+
+## 87
+
+> Subheading: (33) Śivānanda Cakravartī —
+
+Śivānanda Cakravartī. *Gaura-gaṇoddeśa*, verse 183: “Śivānanda Cakravartī, who made his home in Vṛndāvana, is known as a manifestation of Śrīmatī Lavaṅga-mañjarī.” *Śākhā-nirṇayāmṛta*, 10: “I praise Śivānanda, who is called Kumudānanda, endowed with *ujjvala-rasa*, pure, a resident of Vṛndāvana.” See Ādi, Chapter 8, 70.
+
+Besides these, Śrī Yadunandana dāsa in his *Śākhā-nirṇaya* mentions several more members of Gadādhara's branch: 1. Mādhavācārya; 2. Gopāla dāsa; 3. Hṛdayānanda; 4. Vallabha Bhaṭṭa (after whose name the “Vallabha,” or “Puṣṭi-mārgīya,” *sampradāya* is known); 5. Madhu Paṇḍita (his *śrīpāṭa* is in the village of Sāiṁbonā, two miles east of Khaḍadaha; it was he who installed and served the famous Deity of Gopīnāthadeva in Vṛndāvana); 6. Acyutānanda; 7. Candraśekhara; 8. Vakreśvara Paṇḍita (?); 9. Dāmodara; 10. Bhagavān Ācārya (another); 11. Anantācārya-varya (another); 12. Kṛṣṇadāsa; 13. Paramānanda Bhaṭṭācārya; 14. Bhavānanda Gosvāmī; 15. Caitanya dāsa; 16. Lokanātha Bhaṭṭa (the guru of Śrī Ṭhākura Narottama, a native of Tālakhaḍi in Yaśohara district, who installed Śrī Rādhā-vinoda in Vṛndāvana, a close friend of Bhūgarbha Ṭhākura) (?); 17. Govindācārya; 18. Akrūra Ṭhākura; 19. Saṅketācārya; 20. Pratāpāditya; 21. Kamalākānta Ācārya; 22. Yādavācārya; 23. Nārāyaṇa Paḍihārī (a resident of Kṣetra).
+
+## 89
+
+> Subheading: The exclusive devotion to Gaura of Gadādhara's associates —
+
+## 90
+
+> Subheading: The glory of remembering the associates of Nitāi, Advaita and Gadādhara —
+
+## 93
+
+> Subheading: The author's humble words —
+
+*Thus ends the twelfth chapter of the “Anubhāṣya.”*
+
+---
+
+[^13-1]: The edition reads “Ādi, Chapter 13, 452”; the verse quoted is Madhya 13.45.
+
+[^82-1]: Unclear wording in the quotation: *bhakta-saṁghaṭṭa-bhakty-ākhyam*; the translation is tentative.
+
+[^83-1]: Unclear quotation: the line is grammatically disconnected; the translation is tentative.

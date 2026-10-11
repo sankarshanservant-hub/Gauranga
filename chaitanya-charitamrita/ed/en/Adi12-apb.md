@@ -37,3 +37,7 @@ Kamalākānta declared Advaita Ācārya to be “Īśvara” and on that basis b
 Advaita Prabhu is one of the trunks of the wish-fulfilling tree of devotion. Śrī Caitanya, like a gardener, waters that trunk and nourishes both it and its branches. Yet by misfortune some branches, after the gardener's departure, refused to acknowledge Him and declared the trunk itself to be the cause of the wish-fulfilling tree. In this way they ungratefully rejected the One who created and sustains the trunk — Advaita's tree — that is, Mahāprabhu. So He no longer supplied water to those sinful branches, and for want of water the lean branches began to dry up and die. This punishment did not fall on those branches alone. In general, anyone — whether a scholar, an ascetic, a householder or a renunciant (*yati*) — who turns away from Caitanya becomes a *pāṣaṇḍī*, a godless man. And the great souls who accepted the teaching of Śrī Acyutānanda are the *mahā-bhāgavatas* among Śrī Advaitācārya Prabhu's associates.
 
 *Thus ends the twelfth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^34-1]: The (Russian) verse translation reads differently: “He is the all-worshipable Lord.”
