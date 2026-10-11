@@ -52,6 +52,40 @@ The pain of separation from the Lord took the form of a snake and bit Lakṣmī.
 
 “*Ghaṭī eke*”: within one *ghaṭikā*[^36-1].
 
+## 37
+
+“*Karila sat-kāra*”: He showed respect.
+
+## 38
+
+“*Kiṁbā*”: that is, *kibā*, “or.”
+
+## 40
+
+He asked which verse he should explain.
+
+## 41
+
+The glory of this Gaṅgā-devī always shines, because she is supremely blessed. She was born from the lotus feet of Śrī Viṣṇu, and, like a second form of Lakṣmī-devī, she is the one whose feet gods and men worship. Endowed with wonderful qualities, she has risen above Mahādeva, the husband of Bhavānī.
+
+## 46
+
+***Upamā-alaṅkāra***, the ornament of simile: to display a poetic excellence by giving a comparison (*upamā*). ***Anuprāsa***, alliteration: the art of sound shown in the last line by placing many *bh*'s close together.
+
+## 48
+
+The mental power to arrange speech in ever new ways is called *pratibhā*, poetic genius. By showing such a mind in this verse you have pleased even the gods[^48-1]; that is, your genius is richly displayed in these words. But if the verse is examined well, both its merits and its faults will come to light.
+
+## 50
+
+“*Vaiyākaraṇa*”: that is, a grammarian, expert (only) in the learning meant for children and unable to examine poetics (*alaṅkāra*) and other *śāstras*.
+
+## 52
+
+“I have not studied poetics, but I have heard about it from the lips of *paṇḍitas*. That is why I see many faults and merits in this verse.”
+
 ---
 
 [^36-1]: A *ghaṭikā* is twenty-four minutes. The verse translation reads otherwise: “in just one hour.”
+
+[^48-1]: The verse translation reads otherwise: “is surely pleasing to God.”

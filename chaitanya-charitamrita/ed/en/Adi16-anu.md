@@ -124,6 +124,88 @@ This means the following. The merchants of the *śāstras*, who support the *kar
 
 > Subheading: The *digvijayī* praises the Gaṅgā in a hundred verses —
 
+## 37
+
+> Subheading: The Lord praises him and shows him respect —
+
+## 39
+
+> Subheading: The request to explain one verse of the hymn —
+
+## 40
+
+> Subheading: The Lord, whose memory is beyond this world (*śrutidhara*), recites one verse out of the hundred —
+
+## 41
+
+> Subheading: Keśava Kāśmīrī's verse on the glory of the Gaṅgā —
+
+**gaṅgāyāḥ** **idam** **mahattvam** **satatam** (always) **nitarām** (beyond doubt) **ābhāti** (shines); **yat** (because) **eṣā** (the Gaṅgā) **śrī-viṣṇoś caraṇa-kamalotpatti-subhagā** (she was born [*utpatti*, creation] from the lotus feet of Śrī Viṣṇu, that is, from the Lord's lotus feet, and by this her *bhaga*, her majesty, is beautiful; such is she), **dvitīya-śrī-lakṣmīr iva** (like a second Kamalā, endowed with beauty) **sura-naraiḥ** (by gods, men and others) **arcya-caraṇā** (she whose feet are served), **bhavānī-bhartuḥ** (of Bhavānī's *bhartā*, husband, that is, of Giriśa, Bhava) **śirasi** (on the head) **yā** (she who, the Gaṅgā) **vibhavati** (reigns); **ataḥ** (therefore) (she is) **adbhuta-guṇā** (endowed with wonderful qualities).
+
+## 43
+
+> Subheading: Seeing the Lord's power of memory, the *digvijayī* is amazed and asks —
+
+## 44
+
+> Subheading: The Lord's humble reply —
+
+## 45
+
+> Subheading: The *digvijayī*'s explanation —
+
+## 46
+
+> Subheading: At the Lord's request he declares his verse faultless and describes its merits —
+
+## 47
+
+> Subheading: The Lord's words and the poet's reply —
+
+## 48
+
+> Subheading: The Lord praises him and asks him to examine the merits and faults of the verse —
+
+## 50
+
+> Subheading: Thinking the Lord ignorant of the taste of poetry, the *digvijayī* mocks Him —
+
+## 51
+
+> Subheading: The Lord's words —
+
+## 53
+
+> Subheading: At the poet's request the Lord examines the merits and faults of the verse —
+
+## 54
+
+> Subheading: Five faults and five merits —
+
+## 55
+
+> Subheading: The five faults of the verse. The first fault explained —
+
+## 58
+
+See Ādi 2.74.
+
+## 59
+
+> Subheading: The second fault explained —
+
+## 62
+
+> Subheading: The third fault explained —
+
+## 65
+
+> Subheading: Another example of the same —
+
+## 66
+
+> Subheading: The fourth fault explained —
+
 ---
 
 [^25-1]: Unclear passage: the line “বর্ণি লীলাভোগ ‘লঘুকেশব’ নামেতে” seems to be quoted in abridged form; the translation is tentative.
