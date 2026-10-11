@@ -96,3 +96,97 @@
   order: 85.1
   themes: [departure, celestial]
   notes: "«Карнананда» 7 (со слов Шринивасы): согласование «Према-виласы» (смерть Кавираджи от горя) с ЧЧ (Рагхунатха Дас жив при её завершении) и обетом Рагхунатхи умереть на глазах Дживы, Кришнадаса и Локанатхи. Только «Карнананда»."
+
+- id: ev-vrindavana-two-teachers-rule
+  title: "Правило двух наставников во Вриндаване: «западные» — к Гопале Бхатте, гаудии — к Рагхунатхе Бхатте"
+  title_en: "The rule of the two teachers in Vrindavana: 'westerners' to Gopala Bhatta, Gaudiyas to Raghunatha Bhatta"
+  period: P15
+  order: 16.8
+  themes: [learning]
+  notes: "Только «Анурага-валли» 2.3–6: правило установлено, чтобы не было разлада; посвящение Шринивасы (гаудии) у Гопалы Бхатты — особая милость."
+
+- id: ev-gadadhara-riddle-gadadhara-dasa
+  title: "Загадка Гададхары Пандита: Шринивас забывает передать её Дасу Гададхаре, отвергнут им и прощён по слову Вишнуприи"
+  title_en: "Gadadhara Pandita's riddle: Srinivasa forgets to deliver it to Dasa Gadadhara, is rejected and forgiven at Vishnupriya's word"
+  period: P15
+  order: 58.5
+  themes: [offense, mercy, separation]
+  notes: "Только «Анурага-валли» 2.69, 85–173 («скажи тёзке: тёзка уйдёт в тот дом»); Шринивас постится у Ганги, служанки Вишнуприи узнают, Вишнуприя просит Гададхару Даса простить; Шринивас удостаивается её даршана. Ср. ev-srinivasa-vishnupriya-mercy («Према-виласа» 4: голодание у Ганги из-за скорби по Гададхаре, заступник — Ишана)."
+
+- id: ev-gadadhara-dasa-scorching-breath
+  title: "Бхава Гададхары Даса: его дыхание обжигает сомневающегося"
+  title_en: "Gadadhara Dasa's bhava: his breath scorches a doubter"
+  period: P15
+  order: 58.6
+  themes: [ecstasy, offense, separation]
+  notes: "«Анурага-валли» 3.3–27: Гададхара Дас внешне спокоен, но горит в разлуке; дыхание его обжигает того, кто усомнился в его бхаве, и тот просит прощения."
+
+- id: ev-radha-for-govinda-from-puri
+  title: "Шри Радха для Говинды из Пури: Божества, присланные Пурушоттамой Джаной, и Лакшми храма Джаганнатхи"
+  title_en: "Sri Radha for Govinda from Puri: the Deities sent by Purushottama Jana and the Lakshmi of Jagannatha's temple"
+  period: P15
+  order: 64.2
+  themes: [deities]
+  notes: "«Анурага-валли» 4.4–19: из двух Божеств, присланных Пурушоттамой Джаной, Мадана-мохан во сне называет меньшее Радхой, большее Лалитой; Лакшми из храма Джаганнатхи во сне называет Себя Радхой и отправлена к Говинде. Предание известно и по поздним житиям."
+
+- id: ev-srinivasa-vraja-pilgrimage
+  title: "Шринивас обходит Врадж: Радха-кунда с Рагхунатхой Дасом, Говардхана, Натхджи и Виттхаланатха, Варшана, Нандаграм"
+  title_en: "Srinivasa's circuit of Vraja: Radha-kunda with Raghunatha Dasa, Govardhana, Nathji and Vitthalanatha, Varshana, Nandagrama"
+  period: P15
+  order: 78.5
+  themes: [pilgrimage, ecstasy]
+  notes: "«Анурага-валли» 5.3–22; встреча с Виттхаланатхой — только здесь."
+
+- id: ev-srinivasa-narottama-farewell-parikrama
+  title: "Прощальный обход Враджа Шринивасой и Нароттамой перед отправлением в Гауду"
+  title_en: "The farewell circuit of Vraja by Srinivasa and Narottama before leaving for Gauda"
+  period: P15
+  order: 81.5
+  themes: [pilgrimage, separation]
+  notes: "«Анурага-валли» 6.32–80: Мадхувана, Бахулавана, Радха-кунда и Говардхана, Камьявана, Варшана, Нандаграм, Кокила-вана, Шеша-шаи, Бхандиравана, Раваль, Гокула, Матхура; провожатый от Дживы."
+
+- id: ev-srinivasa-marriage-untruth
+  title: "Шринивас скрывает от Гопалы Бхатты свою женитьбу и прощён; адхикари Радха-раманы — Гопинатха Пуджари"
+  title_en: "Srinivasa hides his marriage from Gopala Bhatta and is forgiven; Gopinatha Pujari becomes adhikari of Radha-ramana"
+  period: P15
+  order: 96.6
+  themes: [offense, mercy, family]
+  notes: "Только «Анурага-валли» 6.150, 169–200: Гопала Бхатта сделал Шринивасу адхикари Радха-раманы, но узнав от Рамачандры о его женитьбе, снимает назначение (адхикари должен быть отрёкшимся); по просьбе Шринивасы адхикари становится Гопинатха Пуджари (ср. «Према-виласа» 25.507); Вьяса по слову Дживы становится учеником Шринивасы."
+
+- id: ev-hemalata-radha-ramana
+  title: "Служение Вамшивадане в доме Шринивасы; Хемалата являет Божество Радха-раманы"
+  title_en: "The service of Vamshivadana in Srinivasa's house; Hemalata manifests the Deity of Radha-ramana"
+  period: P15
+  order: 112.6
+  themes: [deities, family]
+  notes: "«Анурага-валли» 6.236–252: порядок служения шалаграму Вамшивадане; с позволения Шринивасы Хемалата устанавливает Божество, названное по Радха-рамане Гопалы Бхатты."
+
+- id: ev-four-sampradayas
+  title: "Четыре вайшнавские сампрадаи и место в них Махапрабху"
+  title_en: "The four Vaishnava sampradayas and Mahaprabhu's place among them"
+  period: PX
+  order: 125
+  themes: [teaching]
+  teaching: [gaura-tattva, scripture]
+  notes: "«Анурага-валли» 8: почему Махапрабху принял гуру; шлоки «Падма-пураны»; Шри (Рамануджа, Рамананда), Брахма (Мадхва — Мадхавендра Пури — Ишвара Пури — Махапрабху, у автора «нимананди»), Рудра (Вишнусвами, Валлабха, Виттхаланатха), Санака (Нимбадитья, Харивьяса). Гаудия-вайшнавы во главе с Бхактисиддхантой называют свою линию Брахма-Мадхва-Гаудия."
+
+- id: ev-gopala-guru-mahamantra
+  title: "Толкование маха-мантры Гопалы-гуру: Харе — Радха, Рама — Радха-рамана"
+  title_en: "Gopala-guru's explanation of the maha-mantra: Hare is Radha, Rama is Radha-ramana"
+  period: PX
+  order: 126
+  themes: [teaching]
+  teaching: [holy-name, prema]
+  notes: "«Анурага-валли» 8.15–30: четыре шлоки, найденные автором в записи Гопалы-гуру (ученика Вакрешвары)."
+
+- id: ev-anuragavalli-composed
+  title: "Манохара Дас завершает «Анурага-валли» во Вриндаване (самват 1753, шака 1618 = 1696 г.)"
+  title_en: "Manohara Dasa completes the Anuraga-valli in Vrindavana (Samvat 1753, Shaka 1618 = 1696)"
+  period: P15
+  order: 131
+  years: [1696, 1696]
+  date_conf: точно
+  date_basis: "колофон «Анурага-валли» (8.144): самват 1753, шака 1618, чайтра, светлая половина, десятый день"
+  calendar: "чайтра, шукла-дашами"
+  themes: [author]
+  notes: ""
