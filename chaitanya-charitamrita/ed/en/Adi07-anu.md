@@ -260,6 +260,70 @@ You may say: mantras consist of the name of Bhagavān; what distinguishes a mant
 
 For the conditioned *jīva* to cease from enjoyment, that is, to be rid of the material ego, perfection in the mantra (*mantra-siddhi*) is necessary. In the word *namaḥ* the syllable “*ma*” means the ego and the syllable “*na*” its cessation; that is, the fruit of *mantra-siddhi* is the *jīva*'s transcendental experience. And Śrī Rūpa Gosvāmī Prabhu in the *Nāmāṣṭaka* invokes the name of Hari with the words “O You, who are worshipped by hosts of the liberated!”[^74-4]
 
+## 75
+
+> Subheading: The verse “*harer nāma*” —
+
+## 76
+
+> Subheading: (*Bṛhan-nāradīya Purāṇa* 38.126)
+
+(In Satya-yuga the way is meditation), **kalau** **nāsty eva** (only **harer nāma eva** [the name of Hari alone]); (in Tretā-yuga the way is worship of the Lord of sacrifice through *yajña*), **kalau** **nāsty eva** (only the name of Hari); (in Dvāpara-yuga the way is *arcana*), **kalau** **nāsty eva** (the way is only the name of Hari). (Especially) **kalau** **anyathā** **gatiḥ** **nāsty eva** (for all other *sādhanas* are fruitless).
+
+## 77
+
+> Subheading: The fruit of chanting the name —
+
+## 80
+
+> Subheading: Amazement at seeing one's own state brought on by chanting the name —
+
+## 83
+
+> Subheading: The nature of Kṛṣṇa's name —
+
+When Śrī Gurudeva sings the name, that holy name enters the ears of the disciple. Following Śrī Gurudeva, the disciple places the holy name he has heard in his heart with faith and worships it by repeating it (*japa*). When the holy name is worshipped, He Himself unfolds His nature as the independent Agent and grants the chanter the right to *kīrtana*. It is then that, by singing the name, he becomes able to make the whole world his disciple. Under the instructing power of the name's *kīrtana*, the world begins to chant the name of Kṛṣṇa. As one goes on chanting, the way of serving the name becomes manifest in him — laughing, weeping, dancing, *kīrtana* and the rest. Some people, out of foolishness, do not know that the sixteen names “Hare Kṛṣṇa” — thirty-two syllables — are the *mahā-mantra*. Regarding it as merely a mantra for *japa*, they artificially obstruct the *kīrtana* of this *mahā-mantra*. Therefore one who has attained *prema* sings the name of Kṛṣṇa and, together with the devotees, performs the full *kīrtana* of Kṛṣṇa's name; through such *kīrtana* the people of the world receive instruction in Kṛṣṇa's name. Along with hearing and chanting the name comes remembrance of the name. Because the name and the One who bears the name are nondifferent, the power of chanting Kṛṣṇa's name awakens the inclination to serve Kṛṣṇa, the Reality — and this is called “*bhāva*.” Those in whom *bhāva* has been born are not bound by the fetters of *avidyā* and are free of *anarthas*. *Rati* has been born in them, and so they taste the *rasa* that arises when its four ingredients (*sāmagrī*) come together. *Bhāva* in its condensed state is “*prema*.”
+
+Kṛṣṇa's name is the *mahā-mantra*. The mantras of the *Pañcarātra* are known by the name “mantra,” while the name of Bhagavān is renowned as the “*mahā-mantra*.”
+
+## 84
+
+> Subheading: The four goals of life and love for Kṛṣṇa —
+
+Love for Kṛṣṇa is the highest of all the goals of the *jīva*. If one compares the fifth goal, *prema*, with the *jīva*'s goals — *dharma*, *artha*, *kāma* and *mokṣa* — the gradation makes it clear that what those who hunger for enjoyment (*bubhukṣus*) and those who hunger for liberation (*mumukṣus*) attain is perishable and worthless. The hunger for enjoyment and the hunger for liberation are rooted in identifying oneself (*asmitā*) with the perishable *upādhis*. Love for Bhagavān is the eternal, unchanging *dharma* of the soul, and therefore all reasoning about the goals of the *catur-varga* — *bhukti* and *mukti* — is worth nothing compared with *prema*.
+
+## 85
+
+> Subheading: *Prema*, which puts *mokṣa* and the rest to shame, is the fifth goal of human life —
+
+## 86
+
+> Subheading: The fruit of Kṛṣṇa's name —
+
+## 87
+
+> Subheading: The nature of love for Kṛṣṇa —
+
+## 88
+
+Nondevotees devoid of love for Kṛṣṇa make a show of restless senses and, as if mad, laugh, weep, dance, sing and so on; but this is only a sign that misfortune awaits them. One engaged in *bhajana* must avoid in every way any artificial agitation of the body and senses. When the natural function of the soul awakens, *bhāva* and *prema* appear, and in them arise laughing, weeping, singing, dancing and longing (*utkaṇṭhā*). All of these are the genuine expressions of one who is turned toward service. But when a person in whom *prema* has not arisen audaciously claims the high position of a devotee, he brings calamity (*anartha*), that is, turmoil, into the world.
+
+Śrī Jīva Prabhu says in the *Prīti-sandarbha* (section 66): “The function that is love for Bhagavān is not made of *māyā* or the like; it is the bliss of the *svarūpa-śakti*, on which even Śrī Bhagavān Himself depends.” (Ibid., section 69):[^88-1] “Thus the sign of *prīti* is the melting of the heart, and the signs of that are horripilation and the like. It has also been shown that if the melting of the heart, horripilation and the rest somehow arise but there is no purity of intention (*āśaya-śuddhi*), then even so *bhakti* has not fully appeared. Purity of intention means giving up every other aim and aiming at *prīti* alone. Hence its qualifiers: ‘causeless’ and ‘natural.’”
+
+The function that is love for Bhagavān is never made of *māyā*: it is the *svarūpa-śakti*, whose essence is bliss, for even Śrī Bhagavān is subject to that bliss. The sign of such *prīti* is the melting of the heart, and its result is horripilation and the like. But if, despite some melting of the heart or horripilation, there is no purity of intention, one must understand that *bhakti* has not fully appeared. “Purity of intention” means giving up other aims and aiming at *prīti* alone. Hence its qualifiers: “*ahaitukī*” (causeless) and “*svābhāvikī*” (natural).
+
+## 89
+
+> Subheading: The *sāttvika* and *vyabhicārī bhāvas* —
+
+## 91
+
+> Subheading: The guru instructs the disciple in his duty —
+
+## 92
+
+Those who have become qualified in the eyes of Śrī Gurudeva are granted by Śrī Gurudeva the right to dance, sing, perform *saṅkīrtana* and so on together with Hari's servants who are devoted to *bhajana*, like-minded and affectionate (*sajātīyāśaya-snigdha*). Only they, following in the footsteps of Śrī Gurudeva, take up the work of delivering the world with the knowledge of their own *bhajana*. Those who are not qualified should chant the name of Kṛṣṇa in solitude. In such worship there is no association with others. But once the qualification is attained, association with people can no longer bring an evil result; on the contrary, even people averse to the Lord then become able to receive the mercy of the name. In this connection one should reflect on such verses as “One who is not a controller should never do this, even in his mind”[^92-1] or “When one is not attached to the objects of the senses, uses them as is fitting and firmly connects everything with Kṛṣṇa, that is called proper renunciation (*yukta-vairāgya*).”[^92-2]
+
 ---
 
 [^5-1]: *Śvetāśvatara Upaniṣad* 6.8.
@@ -273,3 +337,6 @@ For the conditioned *jīva* to cease from enjoyment, that is, to be rid of the m
 [^74-2]: *Chāndogya Upaniṣad* 3.14.1.
 [^74-3]: So in the edition's Bengali paraphrase; the Sanskrit text above reads “since mantras possess even greater power than the name.”
 [^74-4]: *Śrī Nāmāṣṭaka* 1.
+[^88-1]: Unclear place in the scan: instead of the book's title the edition has “***”; apparently the same *Prīti-sandarbha*.
+[^92-1]: *Śrīmad-Bhāgavatam* 10.33.30.
+[^92-2]: *Bhakti-rasāmṛta-sindhu* 1.2.255.

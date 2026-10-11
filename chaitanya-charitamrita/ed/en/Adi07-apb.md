@@ -53,3 +53,11 @@ Even so, the Lord, wishing to bestow mercy on the *sannyāsīs*, inspired the br
 ## 67
 
 “A *sannyāsī* of the *sampradāya*”: according to the teaching of Śrī Śaṅkarācārya, the brāhmaṇas who accept *sannyāsa* in the order of the ten names are the world-honored “Vedic *sannyāsīs*,” that is, genuine *sannyāsīs* sanctioned by the *śāstras*.
+
+## 76
+
+In Kali there is no way other than the name of Hari; the name of Hari is the only way.
+
+## 84
+
+“*Dharma*,” “*artha*,” “*kāma*” and “*mokṣa*” are the four goals of human life (*puruṣārthas*). Love for Kṛṣṇa is the fifth goal. The bliss of Brahman and the like — the first stage of *mokṣa* — cannot be compared even with a single drop of it. *Dharma*, *artha*, *kāma* and *mokṣa* are not the “fruit” of Kṛṣṇa's name. All the *śāstras* agree that love for Kṛṣṇa is the one and only fruit of Kṛṣṇa's name.
