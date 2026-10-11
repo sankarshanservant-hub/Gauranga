@@ -692,7 +692,7 @@ These two verses are spoken where the childhood play of Kṛṣṇa and Rāma is
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 13, verse 37)
 
-When Brahmā stole the calves, Śrī Kṛṣṇa created the calves and the rest anew and went on with His pastimes as usual. One day Śrī Baladeva saw how the cows were behaving, understood what had happened, and was amazed:[^140-1]
+When Brahmā stole the calves, Śrī Kṛṣṇa created the calves and the rest anew and went on with His pastimes as usual. One day Śrī Baladeva saw how the cows were behaving, understood what had happened, and was amazed:
 
 **iyam** (this [*māyā*]) **kā** (who)? **kutaḥ vā āyātā** (where has she come from)? **kim daivī** (is she related to the gods), **nārī** (to humans), **vā** (or — *uta*) **āsurī** (to the demons)? **prāyaḥ** (most likely) **māyā me bhartuḥ** (it is the *māyā* of my Master, Bhagavān Himself) **astu** (it must be); **anyā** (another [*māyā*]) **na** (it cannot be), ([for]) **iyam me api** (even me) **vimohinī** (she bewilders).
 
@@ -959,7 +959,6 @@ See Madhya 21.10 and 12, and *Bhāgavatam* 2.7.41 and 10.14.7.
 [^41-1]: The words of the Earth to Dharma: *Śrīmad-Bhāgavatam* 1.16.30 (the edition has “the first chapter of the first canto”).
 [^84-1]: *Śrīmad-Bhāgavatam* 10.39.55.
 [^120-1]: *Śrīmad-Bhāgavatam* 10.1.24.
-[^140-1]: The verse translation ascribes these words to Brahmā.
 [^203-1]: Caitanya-caritāmṛta, Antya 4.219–221 (numbering of the VCD translation).
 [^203-2]: *Vilāpa-kusumāñjali* 6.
 [^203-3]: In the VCD translation, verses 223–224.
