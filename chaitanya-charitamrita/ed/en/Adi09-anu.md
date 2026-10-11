@@ -42,7 +42,7 @@ When Śrīman Mahāprabhu came to Kumārahaṭṭa to see the birthplace of Śr�
 
 > Subheading: The nine *sannyāsīs* — the nine roots —
 
-Paramānanda Purī was a brāhmaṇa from Trihuta (Tirhut), a disciple of Śrī Mādhavendra Purī and very dear to Śrī Mahāprabhu. *Caitanya-bhāgavata* (Antya, Chapter 11): “Among the *sannyāsīs* the Lord's dear one is he alone, Purī Gosāñi, and no other. Dāmodara-Svarūpa and Paramānanda Purī — these two alone have a place among His *sannyāsī* associates. Both are always near Him, and for the Lord who has taken *sannyāsa* they hold His staff. Purī is absorbed in meditation, Dāmodara in *kīrtana*. *** As much love as the Lord has for Purī Gosāñi, so much He has for Dāmodara-Svarūpa.”
+Paramānanda Purī was a brāhmaṇa from Trihuta (Tirhut), a disciple of Śrī Mādhavendra Purī and very dear to Śrī Mahāprabhu. *Caitanya-bhāgavata* (Antya, Chapter 11): “Among the *sannyāsīs* the Lord's dear one is he alone, Purī Gosāñi, and no other. Dāmodara-Svarūpa and Paramānanda Purī — these two alone have a place among His *sannyāsī* associates. Both are always near Him, and in the Lord’s *sannyāsa* they take up the *daṇḍa*. Purī is absorbed in meditation, Dāmodara in *kīrtana*. *** As much love as the Lord has for Purī Gosāñi, so much He has for Dāmodara-Svarūpa.”
 
 The Lord's words on seeing Paramānanda Purī (*Caitanya-bhāgavata*, Antya, Chapter 3): “Today My eyes are blessed, today My birth has borne fruit, today all My *dharma* has borne fruit. The Lord said: ‘Today My *sannyāsa* has borne fruit; today Mādhavendra has appeared to Me.’ For a long while they bowed to each other. Paramānanda Purī is Caitanya's beloved abode.”
 
