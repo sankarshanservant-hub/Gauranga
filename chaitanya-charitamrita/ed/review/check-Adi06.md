@@ -28,3 +28,16 @@
 
 ## 5. Итог
 Полнота: разделов без замечаний — 114 из 115 (≈ 99 %; по проверенным страницам замечание одно, смысловое — Ану 39). Пропусков, искажений смысла, нарушений стоп-списка и несовпадений RU ↔ EN не найдено; «существенного» для расширения проверки на всю главу не выявлено. Типичная особенность: длинные цитатные разделы (Ану 15, 43–44, 77–78) переведены полно, но ссылки на шастры в издании местами неточны (см. «на решение» 2) — перевод следует изданию.
+
+## 6. Целевая проверка санскрита и сносок (TASK-check п. 3а)
+Повод — ошибка чтения аваграхи («ে হলব্ধে» = *’labdhe*) в Ади 7. Проверены (а) все текстологические сноски переводчиков в `Adi06-apb.md`/`Adi06-anu.md` — по изображению колонки и по смыслу; (б) все санскритские места с отрицанием (ন, নো, নহি, নৈব, বিনা, অ-) и с аваграхой («হ» на стыке слов, в том числе слитной «োহ/েহ») — по OCR, спорные — по изображению; RU и EN.
+
+| раздел | было | стало | причина |
+|---|---|---|---|
+| — | — | — | ошибок не найдено |
+
+Проверено и верно:
+- **Сноски.** APB 43-1 (расхождение с переводом стиха); APB 66-1 (в издании «নিজজন-সন্দোহ (গর্ব্ব)» — так, с. 137; переведено по смыслу шлоки «смая»); Ану 15-7 (в бенгальском пересказе издания действительно «কর্মকাণ্ডের বিস্তারদ্বারাই সাংখ্যস্মৃতির সবিষয়তা…», с. 132 R, а в санскрите — смрити Ману и др.); 39-1 («জ্ঞানাবরোধনাৎ», Гаура-ганоддеша-дипика 22); 59-1 (в издании «উদ্ধব দ্বারকায় প্রত্যাবর্তন» — так); 77-1 (с. 140 R1: в издании действительно «প্রতিপাদয়িতুমাহ—শ্রীতি»); сноски-ссылки 15-1…15-6, 43-2.
+- **Отрицания и аваграха.** Ану 15, «Говинда-бхашья» к БС 2.2.1–9 и 2.1.1–2 (*na paricchinnaṁ sarvopādānam; tan na jagad-upādānaṁ na ca tan-nimittam; na khalu cetanānadhiṣṭhitaiḥ…; na hi bāhyā ghaṭādayaḥ…; kartṛtvaṁ neti; antyo ’pi na; na ca puruṣa-gataḥ; na tu svataḥ; payo ’mbuvac cet; na ca tad-adṛṣṭodbodhābhāvāt…; anyatrābhāvāc ca na tṛṇādivat; na svabhāva-mātraṁ hetuḥ; na kiñcit tavābhīṣṭam; na cāpavargaḥ; deśādayo ’ndhasya; na ceśvaraḥ kālo vā; ādi-sarge tu na bhajeran; anumāne ’pi na doṣān mucyate; smṛty-anavakāśa…iti cen nānya-smṛty-anavakāśa…; na tu kāpiloktaprakāra…; yo ’sāv atīndriyo ’grāhyaḥ sūkṣmo ’vyaktaḥ…sarva-bhūta-mayo ’cintyaḥ; na cāsāṁ smṛtīnām…sāvakāśatā; na ca sāṅkhya-smṛtyā…; na tad-vyarthatā-doṣād bibhīmaḥ; na cāpta-tva-vyapāśraya…; tan na, tasyā anya-paratvāt; na tu kardamodbhūtaḥ; kapilo ’nyaḥ; sarveśvaraḥ puruṣa-viśeṣo nāsti; kālas tattvaṁ na bhavati*); 43–44 (БРС 1.1.38 *naiti*; Бхавартха-дипика *gatim aṇvīm anicchataḥ…na kadācit spṛhā*; Дамодараштака *mokṣaṁ na…na mokṣe graho me ’sti*; *na dharmaṁ…; muktiṁ na yācitaḥ; naicchan mokṣaṁ vinā dāsyam; spṛhayāmi na muktaye; nehcā mama; prārthaye na; nāhaṁ vande…*); 59 (*vāco ’bhidhāyinīḥ* — не отрицание); 77–78 (Брахма-самхита 5.45 *na tu tataḥ pṛthag asti*; Маха-упанишад *nāsīn na brahmā neśānaḥ*; *na tu govindāt śambhur anyaḥ*; *svarūpe na tat-prasaṅgaḥ*; *na tac caturasram*; Кайвалья *nānyaḥ panthā*; *na viṣṇunā vinā devī…*); 98 (ШБ 9.4.68 *mad-anyat te na jānanti nāhaṁ tebhyaḥ*); 100 (ШБ 11.14.15 *na tathā me priyatamaḥ…*); APB 66 (*naḥ* — «нам», не отрицание). Всё прочитано верно.
+
+Итог: проверено 7 текстологических сносок (и 8 сносок-ссылок) и ≈ 50 санскритских мест; ошибок чтения нет.
