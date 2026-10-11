@@ -49,6 +49,6 @@ cc-kit/
 6. Первое сообщение Claude — текст из `gauranga/chaitanya-charitamrita/START-local.md`.
 
 ## Где результат
-- Книги: `gauranga/chaitanya-charitamrita/ed/pdf/CC_<Глава>-full.pdf` (RU) и `…-full-en.pdf` (EN), а также `…-text…`.
+- Книги: `gauranga/chaitanya-charitamrita/ed/pdf/CC_<Глава>-full.pdf` (RU) и `…-full-en.pdf` (EN), а также `…-text…` (PDF готовых глав Ади в комплект не входят — пересобрать любую: `bash tools/coord/finish.sh Adi05`).
 - Тексты: `ed/vcd/CC_<Глава>.md` (RU), `ed/en/CC_<Глава>.md` (EN), комментарии — `ed/ru|en/<Глава>-apb.md`, `-anu.md`.
 - Вернуть работу в общий репозиторий позже: заархивировать папку `gauranga` (или `git bundle`) и передать.
