@@ -222,7 +222,7 @@ See Ādi 2.74.
 
 ## 71
 
-**vibhūṣitam** (fully adorned) **sundaram** (charming) **api** **vapuḥ** (body) **yathā** (as) **ekena** **śvitreṇa** (by the disease called white leprosy) **durbhagam** (bereft of beauty, sullied) **syāt**, **tathā** **rasālaṅkāra-vat** **kāvyam** (*rasa*: *śṛṅgāra* and the rest; *alaṅkāra*: *anuprāsa*, *upamā* and the rest; *kāvya* endowed with them, speech whose soul is *rasa*) **cet** (if) **doṣa-yuk** **bhavati**, **tathā** **durbhagam** (bereft of beauty) **jñeyam**.
+**vibhūṣitam** (fully adorned) **sundaram** (charming) **api** **vapuḥ** (body) **yathā** **ekena** **śvitreṇa** (by the disease called white leprosy) **durbhagam** (bereft of beauty, sullied) **syāt**, **tathā** **rasālaṅkāra-vat** **kāvyam** (*rasa*: *śṛṅgāra* and the rest; *alaṅkāra*: *anuprāsa*, *upamā* and the rest; *kāvya* endowed with them, speech whose soul is *rasa*) **cet** (if) **doṣa-yuk** **bhavati**, **tathā** **durbhagam** (bereft of beauty) **jñeyam**.
 
 ## 72
 
@@ -232,8 +232,98 @@ See Ādi 2.74.
 
 > Subheading: The first and second merits, both ornaments of sound —
 
+## 78
+
+> Subheading: The third, fourth and fifth merits, all three ornaments of sense —
+
+## 82
+
+> Subheading: Evidence of Kṛṣṇa's inconceivable energy (a verse spoken by the Lord Śrī Kṛṣṇa Caitanya Himself) —
+
+**ambuni** (in water) **ambujam** (the lotus) **jātam** (is born); **kvacit** (anywhere) **api** **ambujāt** (from a lotus) **ambu** (water) **na jātam**; (but) **mura-bhidi** (in Murāri, Kṛṣṇa) **tad-viparītam** (the opposite, the reversal of the [usual] relation of cause and effect) (is seen), **yataḥ** (from Kṛṣṇa's lotus feet) **mahā-nadī** (the Gaṅgā) **jātā** (flowed forth).
+
+## 85
+
+> Subheading: The Lord, who sees no faults in others, encourages the poet —
+
+If poetry is not examined, its faults are certainly not easy to see[^85-1].
+
+## 87
+
+> Subheading: Amazed, the *digvijayī* reflects —
+
+## 90
+
+> Subheading: He concludes that the goddess of speech gave the Lord's extraordinary explanation —
+
+## 91
+
+> Subheading: The poet's words to the Lord —
+
+## 94
+
+> Subheading: The Lord names Sarasvatī as the cause of His skillful explanation —
+
+## 95
+
+> Subheading: The *digvijayī* feels hurt by Sarasvatī —
+
+## 97
+
+> Subheading: The author points out the real cause of what happened —
+
+## 98
+
+> Subheading: The students laugh at the poet's defeat, and the Lord stops them —
+
+## 99
+
+> Subheading: The Lord honors the poet —
+
+## 101
+
+> Subheading: There are faults even in the poetry of Jayadeva, Kālidāsa and Bhavabhūti —
+
+**Bhavabhūti**, or Śrīkaṇṭha, wrote the Sanskrit plays *Mālatī-mādhava*, *Uttara-carita*, *Vīra-carita* and others. He lived in the reign of King Bhoja. A resident of Padmanagara, he was the son of Nīlakaṇṭha and the grandson of a *śrotriya* brāhmaṇa of the Kāśyapa *gotra* named Bhaṭṭa Gopāla.
+
+**Kālidāsa** was a great poet, one of the renowned “nine jewels” at the court of Emperor Vikramāditya. He wrote the *Raghu-vaṁśa*, *Kumāra-sambhava*, *Abhijñāna-śakuntala*, *Megha-dūta* and others, some thirty or forty Sanskrit epic poems, plays and works on other subjects.
+
+**Jayadeva**: see Ādi 13.42.
+
+## 102
+
+> Subheading: The true merit is the very gift of composing verse —
+
+## 103
+
+> Subheading: The Lord's humble words —
+
+## 104
+
+> Subheading: The Lord courteously takes leave of him —
+
+## 105
+
+> Subheading: At night the poet worships Sarasvatī —
+
+## 106
+
+> Subheading: Instructed by Sarasvatī, he recognizes the Lord as the Supreme Lord Himself —
+
+## 107
+
+> Subheading: In the morning he takes shelter at the Lord's feet, and the Lord bestows mercy on him —
+
+## 108
+
+> Subheading: The *digvijayī*'s pious merit (*sukṛti*) —
+
+*Thus ends the sixteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^25-1]: Unclear passage: the line “বর্ণি লীলাভোগ ‘লঘুকেশব’ নামেতে” seems to be quoted in abridged form; the translation is tentative.
 
 [^67-1]: The edition has “পঞ্চ দোষের” (“of the five faults”), apparently for “পঞ্চম দোষের” (“of the fifth fault”).
+
+[^85-1]: The verse translation reads otherwise: “if one does not reflect on each verse, faults may creep in.”

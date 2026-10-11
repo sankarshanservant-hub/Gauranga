@@ -106,8 +106,20 @@ Now I will speak of the merits. This verse of yours has two ornaments of sound (
 
 A beautiful, adorned body becomes unsightly when it has a patch of white leprosy (*śvitra*). In the same way poetry endowed with *rasa* and ornaments becomes unsightly if it has a fault.
 
+## 82
+
+A lotus is born only in water; water is never born from a lotus. But here is the wonder: in Śrī Kṛṣṇa the opposite is seen — from His lotus feet the great river Gaṅgā was born.
+
+## 107
+
+***Bandhana***, bondage: the bondage of *māyā*, that is, pride in learning[^107-1].
+
+*Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^36-1]: A *ghaṭikā* is twenty-four minutes. The verse translation reads otherwise: “in just one hour.”
 
 [^48-1]: The verse translation reads otherwise: “is surely pleasing to God.”
+
+[^107-1]: The verse translation reads otherwise: “freed him from the bondage of *karma*.”
