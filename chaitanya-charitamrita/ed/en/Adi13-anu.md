@@ -285,6 +285,124 @@ See Ādi 3.95–109 and the *Caitanya-bhāgavata*, Ādi-khaṇḍa, Chapter 2.
 
 Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took *sannyāsa* and received the name “Śaṅkarāraṇya.” In Śaka 1431 He departed from this world at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took *sannyāsa* before Him and left this world.”
 
+And there too: “…Nityānanda Avadhūta, glorified as the Effulgence — indeed, Saṅkarṣaṇa…”[^74-1] And further: “When this eternal Śrī Viśvarūpa left this world, He joined with Nityānanda Avadhūta and remained [in Him].”
+
+## 75
+
+> Subheading: Viśvarūpa is the Mahā-Saṅkarṣaṇa of Vaikuṇṭha —
+
+## 77
+
+Referring to the pastime in which Baladeva killed the demon Dhenuka, Śukadeva says to Parīkṣit: **aṅga** (O king), **yasmin** **idaṁ** (this universe) **tantuṣu** **paṭaḥ** (cloth) **yathā** (as) **otaṁ protam** (woven lengthwise and crosswise), (in that) **anante** (unlimited) **jagad-īśvare** **bhagavati** (in that Viṣṇu) **etat** (the killing of demons and the like) **citram** (astonishing) **na hi** (not at all) (is).
+
+## 78
+
+> Subheading: Why the Lord calls Him “elder brother” —
+
+## 79
+
+> Subheading: The joy of Miśra and Śacī at having a son —
+
+## 80
+
+> Subheading: Thirteen months before His appearance, Kṛṣṇa enters Śacī's womb —
+
+## 81
+
+> Subheading: Miśra is astonished to see Śacī changed in a way not of this world —
+
+## 83
+
+> Subheading: Śacī is astonished to see the gods offering prayers —
+
+## 84
+
+> Subheading: Kṛṣṇa enters first Miśra's heart, then Śacī's —
+
+## 85
+
+> Subheading: They sense the coming appearance of some great personality —
+
+## 86
+
+> Subheading: Both serve Nārāyaṇa with special care —
+
+## 80–86
+
+The conclusion is this. Jagannātha and Śacī are eternally perfect (*nitya-siddha*), and so their hearts and bodies consist of pure goodness (*śuddha-sattva*) and are not at all like those of ordinary mundane *jīvas*. Pure goodness (*viśuddha-sattva*) is called “Vasudeva”; it is in Vasudeva that Vāsudeva, who enjoys spiritual pastimes, becomes manifest (see the *Vivṛti* in the *Gauḍīya-bhāṣya* on *Śrīmad-Bhāgavatam* 4.3.23). The union of Śrī Jagannātha and Śacīdevī and the conception in Śacīdevī were not like the amorous play and the pregnancy of men and women with mundane bodies of blood and flesh, absorbed in gratifying their material senses. Therefore even to think so in one's mind is an offense. One who reflects with a heart turned toward the service of Bhagavān will grasp the glory of the transcendental womb of Śrī Śacīdevī, who is made entirely of pure goodness. The *Śrīmad-Bhāgavatam* (10.2.16) says: “Bhagavān, the Soul of the universe, who frees His devotees from fear, entered the mind of Ānakadundubhi with His portion.” Śrīdhara Svāmī comments: “‘Entered the mind’ — He became manifest in the mind; the meaning is that He has no connection with bodily elements (*dhātu*), as the *jīvas* do.” In this connection see also *Śrīmad-Bhāgavatam* 10.2.18 and 19.
+
+On the same subject, here is a rendering of the sense of verses 160–165 from the section on the manifestation of the manifest pastimes in Śrī Rūpa Gosvāmī Prabhu's *Laghu-bhāgavatāmṛta*. The words of the *Śrīmad-Bhāgavatam* (10.2.16), “He entered the mind of Ānakadundubhi with His portion,” mean that Kṛṣṇa first became manifest in the heart of Ānakadundubhi. Then from Ānakadundubhi's heart He became manifest in Devakī's heart. Fondled by the nectar of loving bliss, Devakī's parental love, Śrī Kṛṣṇa grew more and more in her heart, like the waxing moon. Then Śrī Kṛṣṇa vanished from Devakī's heart and appeared on her bed in the birth chamber of Kaṁsa's prison. Devakī and the others, under the sway of *yogamāyā*, then thought that the child had been born in the ordinary way, easily and happily. Such humanlike yet transcendental feelings of the devotee and Bhagavān, supremely delightful, serve the most wonderful spiritual pastimes. They bewilder even great sages enchanted by *māyā*, and they establish that Mathurā-dhāma is higher even than Paravyoma-Vaikuṇṭha. Thus Śrī Kṛṣṇa eternally remains the eternal son of the eternal Yaśodā, and in the same way He enjoys pastimes in the endless unmanifest *līlā* as well. Śrī Līlā-puruṣottama Śrī Kṛṣṇa eternally sports in Vraja, rejoicing in such pastimes: they give bliss to His dearest devotees and astonish Him as well. Under the sway of the transcendental parental love of the transcendental Nanda and Yaśodā — a love that has no equal and none higher — Bhagavān eternally knows Himself as their eternal son. In the Tenth Canto (10.5.1): “When a son was born to the great-hearted Nanda, he was overjoyed.” In the same Tenth Canto (10.6.43): “Generous-hearted Nanda, returning from abroad, took his son Kṛṣṇa on his lap, smelled His head and was filled with supreme bliss.” And again (10.9.21): “This Bhagavān Śrī Kṛṣṇa, the son of a cowherd woman, so easily reached by devotees, is never easily attained by those who take the body for the self, by ascetics, or by *jñānīs* who contemplate the self.”
+
+Śrīpāda Baladeva Vidyābhūṣaṇa writes: “This [portion], having become one with Kṛṣṇa — Svayaṁ Bhagavān in His form, who dwelt in Ānakadundubhi's heart — becomes manifest in Devakī's heart. For Śrī Śuka says: ‘Then the goddess (“meaning: made of pure goodness,” says Svāmipāda) held in her mind the portion of Acyuta — the auspiciousness of the world, the Soul of all, the Self — placed in her (“properly placed, that is, imparted through initiation according to the rules,” says Svāmipāda) by the son of Śūra, as the east holds the delightful moon’ (*Śrīmad-Bhāgavatam* 10.2.18). Although it says ‘in Devakī's heart,’ it should be understood that He was in her womb, as the gods' prayer shows: ‘Fortunately, O mother, the Supreme Person is in your womb’ (*Śrīmad-Bhāgavatam* 10.2.41). *** And in the section on the birth: ‘In Devakī, whose form is divine, Viṣṇu, who dwells in everyone's heart, appeared, like the full moon in the east’ (*Śrīmad-Bhāgavatam* 10.3.8).”
+
+“Then, as the east reveals the rising moon, so Devakī, made of pure goodness, having received from Śūrasena (Vasudeva) initiation into Kṛṣṇa's *mantra*, held in her heart Śrī Acyuta — the auspiciousness of the world, the Soul of all and the Supreme Soul.” From these words of the *Bhāgavatam* it is known that Svayaṁ Bhagavān became manifest from the heart of Ānakadundubhi (Vasudeva) in the heart of Devakī. Although “in Devakī's heart” is said here, it must be understood to mean that He was in Devakī's womb, for in the *Bhāgavatam* there is the gods' prayer: “O mother, the Supreme Person resides in your womb.” And in the section on the Lord's birth these words of the *Bhāgavatam* should be especially noted: “As the full moon rises in the east, so Viṣṇu, who dwells in everyone's heart, appeared in Devakī's heart.”
+
+Here, by the words “with special care they served Govinda's feet” (Ādi 13.79), it should be understood that Śrī Gaurasundara appeared in the very hearts of Miśra and Śacī, which were always immersed in the service of Govinda's feet.
+
+## 87
+
+> Subheading: Even after thirteen months there is no sign of His descent —
+
+## 88
+
+> Subheading: Nīlāmbara Cakravartī's calculation —
+
+## 89
+
+> Subheading: The descent of Gaura Prabhu —
+
+At the end of the play *Śrī Caitanya-candrodaya*: “In the Śaka year fourteen hundred joined with the horses of the sun[^89-1], Gaura Hari appeared in the circle of the earth.” Many events and known dates do not agree with Śrī Mahāprabhu's appearance in this Śaka year; therefore some think that Śaka 1426 or some other year is correct.
+
+## 90
+
+The *ṣaḍ-varga*: *kṣetra*, *horā*, *dreṣkāṇa*, *navāṁśa*, *dvādaśāṁśa* and *triṁśāṁśa* — these six are called the *ṣaḍ-varga*, the six divisions of a sign. Nīlāmbara examined the lords of this *ṣaḍ-varga* according to the exact degree (*spaṣṭāṁśa*) of the ascendant and established the auspicious signs.
+
+The *aṣṭa-varga*: the *aṣṭa-varga* is calculated by drawing prescribed lines from the positions of the planets at the moment, as described in the *Bṛhaj-jātaka* and other books. Experts in *horā-śāstra*, astrology, apply the stated results to it and determine what is auspicious and what is not. By this calculation too Cakravartī saw auspicious signs in Mahāprabhu.
+
+## 91
+
+> Subheading: Gauracandra rises as if to rebuke the moon —
+
+## 92
+
+> Subheading: The lunar eclipse, and on that occasion the *jīvas* chant Hari's name —
+
+## 94
+
+> Subheading: The Lord descends while the *jīvas* chant Hari's name —
+
+## 95
+
+> Subheading: At that time even the Yavanas, mocking, utter Hari's name —
+
+## 96
+
+> Subheading: The joy of the gods in heaven —
+
+## 97
+
+> Subheading: Joy plays everywhere —
+
+## 98
+
+> Subheading: The *sūtra* of the Lord's birth: Gaurahari appears amid the *kīrtana* of Hari's name —
+
+## 99
+
+> Subheading: Advaita dances, overflowing with joy —
+
+“In His own home”: in His house at Śāntipura. On the day of the Lord's birth Haridāsa Ṭhākura was in Śāntipura.
+
+## 100
+
+> Subheading: The lunar eclipse: the people chant Hari's name —
+
+*Uparāga* means an eclipse. *Manobale*: with eagerness of mind; or else, He gave gifts to the *brāhmaṇas* in His mind. The *Śrīmad-Bhāgavatam* (10.3.11) says: “Then Ānakadundubhi, his eyes wide with wonder, saw that his son was Hari. Stirred by the festival of Kṛṣṇa's descent, he joyfully bathed [in his mind] and [in his mind] gave ten thousand cows to the *brāhmaṇas*.” Seeing Bhagavān Hari as his son, Vasudeva rejoiced at the festival of Kṛṣṇa's birth and in the prison gave ten thousand cows to the *brāhmaṇas* in his mind.
+
 ---
 
 [^61-1]: An anna is one sixteenth of the whole, and a *gaṇḍā* one twentieth of an anna; the three shares together make up the whole (16 annas).
+
+[^74-1]: An incomplete line of the quotation; the translation is tentative.
+
+[^89-1]: The sun's horses are seven; that is, Śaka 1407.
