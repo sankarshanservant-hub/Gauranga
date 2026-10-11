@@ -196,6 +196,6 @@ Brahmā said: “O Lord, You always move along the paths of Your devotees' heari
 
 *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
 
-[^51-1]: Unclear passage: the edition reads *sarva-loka-draṣṭāraṁ kṛṣṇaṁ gauram api* (literally, “Kṛṣṇa, the seer of all people, though golden”); translated by the sense.
+[^51-1]: Unclear passage: the edition (scan checked) reads *sarva-loka-draṣṭāraṁ kṛṣṇaṁ gauram api* (literally, “Kṛṣṇa, the seer of all people, though golden”). Translated by the sense, following the parallel with the next phrase, *bhakta-viśeṣa-dṛṣṭau* (“in the eyes of special devotees”): one would expect *sarva-loka-dṛṣṭau gauram api*, “though golden in the eyes of all people.”
 [^51-2]: *Śrīmad-Bhāgavatam* 5.19.24.
 [^51-3]: *Caitanya-caritāmṛta*, Madhya 6.255.
