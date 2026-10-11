@@ -70,7 +70,7 @@ the avatāra as a devotee  the one called a devotee
 namāmi bhakta-śaktikam  
 I bow to  having the energy of devotion
 
-(6) “I bow to Kṛṣṇa, who comprises the five truths: He appears in the form of a devotee and as the very nature of a devotee, as the avatāra of a devotee and as one known as a devotee, and as the energy of devotion.”
+(6) “I bow to Kṛṣṇa, who comprises the five truths: He appears in the form of a devotee and as the very nature of a devotee, as the avatāra of a devotee and as one known as a devotee, and as the energy of devotion.” (Śrī Rūpa Gosvāmī’s diary)
 
 স্বয়ং ভগবান্ কৃষ্ণ একলে ঈশ্বর ৷  
 অদ্বিতীয়, নন্দাত্মজ, রসিক-শেখর ॥ ৭ ॥
