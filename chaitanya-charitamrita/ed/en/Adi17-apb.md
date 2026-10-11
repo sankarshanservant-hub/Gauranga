@@ -33,3 +33,39 @@ One day in Śrīvāsa's house all the devotees together performed Mahāprabhu's 
 ## 12
 
 Śrī Nityānanda Prabhu was born in the village of “Ekacakrā” in the Vīrabhūma district, as the son of Hāḍāi Paṇḍita, from the womb of Padmāvatī. When Nityānanda had grown a little, a *sannyāsī* came to Hāḍāi Paṇḍita and begged Nityānanda from him as alms. From then on Nityānanda traveled with that *sannyāsī* through many lands, came to the Mathurā-maṇḍala, and lived there a long time. Drawn by Mahāprabhu, Prabhu Nityānanda came to Śrī Navadvīpa and stayed in the house of Nandana Ācārya. Mahāprabhu and the devotees brought Nityānanda from there to His own place.
+
+## 13–15
+
+One day Mahāprabhu showed Nityānanda Prabhu a six-armed form holding conch, disc, club, lotus, the Śārṅga bow and flute. Then He showed a four-armed form, holding conch and disc in two hands and the flute in the other two. Finally He showed the form of Śrī Kṛṣṇa holding the flute alone. (*Śrī Caitanya-maṅgala*, Madhya.)
+
+## 16
+
+By Mahāprabhu's order Śrī Nityānanda Prabhu resolved to perform the Vyāsa-pūjā on the full-moon night and had Śrīvāsa arrange the necessary articles. During the *saṅkīrtana*, Nityānanda Prabhu placed a flower garland around Mahāprabhu's neck. At that moment Nityānanda Prabhu saw the six-armed form. Nothing more of the Vyāsa-pūjā took place.
+
+On the night before the Vyāsa-pūjā, during *saṅkīrtana* in Śrīvāsa's house, Mahāprabhu, in the mood of Balarāma, sat on Viṣṇu's couch and asked Nityānanda for the plough and the pestle (*muṣala*). Nityānanda Prabhu placed his own hand in His hand, and at that moment the devotees saw the plough and the pestle before their eyes.
+
+## 17
+
+One night Śacīdevī dreamed that Kṛṣṇa and Balarāma, the two Deities of her house, were snatching the offered food (*naivedya*) from each other together with Gaurāṅga and Nityānanda. The next day, by Gaurāṅga's wish, Śacīdevī invited Nityānanda to eat at her house. While Viśvambhara and Nityānanda were eating, Śacīdevī saw Kṛṣṇa and Balarāma Themselves eating, and at that sight she fainted in *prema*.
+
+Jagāi and Mādhāi were born in Navadvīpa and were given to all kinds of sin. When Nityānanda and Haridāsa, by Mahāprabhu's order, went from house to house preaching the holy name, they incurred the anger of these two drunkards. The two, in a frenzy, chased them, and they fled. Another day Mādhāi struck Nityānanda on the head with a shard of a broken pot. Jagāi was somewhat sorry for that deed. Hearing of it, Mahāprabhu came there with His followers, ready to punish Jagāi and Mādhāi. But the merciful Gaurāṅga, hearing of Jagāi's decent conduct, embraced him with love. By seeing and touching the Lord, the two sinners had a change of heart, and the Lord delivered them by giving them the name of Hari.
+
+## 18
+
+One day in Śrīvāsa's house Mahāprabhu sat on Viṣṇu's couch, and the devotees, reciting the *Puruṣa-sūkta* — “The Puruṣa with a thousand heads, a thousand eyes, a thousand feet…” — performed His *abhiṣeka* with Gaṅgā water. They worshiped Him with various articles and gave Him many kinds of food to eat. The Lord began to eat everything the devotees offered. That day He remained in that *bhāva* for a full seven *praharas* and displayed the moods of all the avatāras. He revealed secret events from the devotees' past, dispelled everyone's doubts, and gave boons to all. Some call this *bhāva* the “*sāt-prahariyā bhāva*” (the *bhāva* that lasted seven *praharas*), and some the “*mahā-prakāśa*” (the great manifestation).
+
+## 19
+
+One day Mahāprabhu, crying “Boar! Boar!”, Himself assumed the form of Varāha and entered Murāri Gupta's house. With His tusks He lifted a vessel full of water (a *gāḍu*), as He once lifted the earth, and drank the water. And another day the Lord climbed onto Murāri's shoulders and danced at length.
+
+## 20
+
+Śuklāmbara Brahmacārī lived on the bank of the Gaṅgā in Śrī Navadvīpa. While Mahāprabhu was dancing, he arrived there with his bag of rice collected as alms. Out of love for His devotee, the Lord took that begged rice from his bag and began to eat it with great *prema*.
+
+## 31
+
+One who considers himself lower than grass, who is tolerant like a tree, who seeks no honor himself and gives honor to others — he alone is qualified to chant about Hari always.
+
+## 32–33
+
+The author says: “O people! With upraised arms I tell you: listen! String this verse on the garland of Kṛṣṇa's name and wear it around your neck.” The meaning is this: if one chants the name without being qualified, the result is *nāmābhāsa* (a mere shadow of the name) or *nāmāparādha* (offense against the name). Then the *jīva* does not attain the fruit of the name, “love for Kṛṣṇa.” Chant the name of Hari while acting on the instruction Mahāprabhu gave in the verse *tṛṇād api*; then you will certainly attain the feet of Śrī Kṛṣṇa.
