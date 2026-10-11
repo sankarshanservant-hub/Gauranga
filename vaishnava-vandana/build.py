@@ -1,4 +1,4 @@
-"""Собирает «Вайшнава-ванданы» (ru/en, части 01–03 + указатель лиц) в MD, DOCX и PDF; генерирует INDEX.md из index.tsv.
+"""Собирает «Вайшнава-ванданы» (ru/en, части 01–05 + указатель лиц) в MD, DOCX и PDF; генерирует INDEX.md из index.tsv.
 Использует функции разбора и вёрстки из ../govinda-kadacha/build.py. Запуск: python3 build.py [ru|en].
 """
 import importlib.util, os, re, sys
@@ -7,15 +7,15 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('kb', os.path.join(HERE, '..', 'govinda-kadacha', 'build.py'))
 kb = importlib.util.module_from_spec(spec); spec.loader.exec_module(kb)
 
-PARTS = ['01', '02', '03']
+PARTS = ['01', '02', '03', '04', '05']
 
 META = {
     'ru': dict(out='Vaishnava-Vandana-ru', title='Вайшнава-ванданы',
-               author='Джива Госвами (приписывается), Девакинандана Дас; рус. пер.', preface="""# Вайшнава-ванданы
+               author='Джива Госвами (приписывается), Девакинандана Дас, Вриндаван Дас (приписывается); рус. пер.', preface="""# Вайшнава-ванданы
 
 *«Восхваления вайшнавов»: перечни спутников Шри Чайтаньи*
 
-*Санскритская вандана, приписываемая Дживе Госвами; «Вайшнава-вандана» и «Вайшнавабхидхана» Девакинанданы Даса*
+*Санскритская вандана, приписываемая Дживе Госвами; «Вайшнава-вандана» и «Вайшнавабхидхана» Девакинанданы Даса; две бенгальские ванданы, приписанные Вриндавану Дасу*
 
 *Перевод с санскрита и бенгали на русский*
 
@@ -51,15 +51,24 @@ META = {
 **Часть 3. Девакинандана Кавираджа, «Вайшнавабхидхана»** — санскритский перечень имён (53 шлоки), почти
 дословно повторяющий порядок бенгальской ванданы; из того же издания 1910 г.
 
-**Не переведены** две другие ванданы издания 1910 г. — «Первая вандана» о спутниках Нитьянанды и вандана в
-трипади, приписанные Вриндавану Дасу (см. `CATALOG.md`).
+**Части 4 и 5. Две бенгальские ванданы, приписанные Вриндавану Дасу.** Обе взяты из того же издания 1910 г.
+«Первая вандана» (144 стиха) по существу составлена из двустиший «Чайтанья-бхагаваты»: перечня спутников
+Нитьянанды и рассказа о том, как преданные идут в Нилачалу на праздник колесниц. К ним добавлена вставка
+«Гопала-нирная», где спутники Нитьянанды отождествлены с пастушками Враджа. Сам Вриндаван Дас таких
+отождествлений не давал, и шесть из десяти расходятся с «Гаура-ганоддешей», так что имя автора «Чайтанья-бхагаваты»
+в колофоне указывает скорее на источник строк, чем на составителя. Вандана в трипади (150 строф и двустиший) подписана
+«Вриндаван Дас», но её автор сам славит Вриндавана Даса, сына Нараяни, и, значит, это другой человек — «второй
+Вриндаван Дас», как называет его Маджумдар. Порядок имён и многие характеристики у него почти дословно повторяют
+санскритскую вандану части 1, но есть и подробности, которых нет больше нигде: тайный совет Господа с Нитьянандой
+о Вирачандре, сорок шакалов Парамешвары, сто двадцать змей Саранги. Сноски отмечают параллели с частями 1–2,
+с «Чайтанья-бхагаватой» и с «Гаура-ганоддешей».
 
 **Принципы.** Переведён только текст ванданы — без оригинала и пословного перевода. Русский и английский
 переводы сделаны параллельно, с единой нумерацией и одинаковыми сносками. В сносках кратко сказано, кто этот
 спутник (по «Гаура-ганоддеше» — ГГД, по нашему переводу; «Чайтанья-чаритамрите» — ЧЧ; «Чайтанья-бхагавате» —
 ЧБ), и отмечены расхождения между ванданами, с ГГД и с выводами Маджумдара. Где вандана расходится с принятым
 у гаудия-вайшнавов (например, иное отождествление спутника), перевод точен, а пояснение дано в сноске.
-В конце книги — **сводный указатель лиц**: где каждый спутник упомянут в трёх текстах и в ГГД.
+В конце книги — **сводный указатель лиц**: где каждый спутник упомянут в пяти текстах и в ГГД.
 
 ---
 
@@ -67,11 +76,11 @@ META = {
 
 """),
     'en': dict(out='Vaishnava-Vandana-en', title='The Vaishnava-vandanas',
-               author='Jiva Gosvami (attributed), Devakinandana Dasa; Eng. tr.', preface="""# The Vaishnava-vandanas
+               author='Jiva Gosvami (attributed), Devakinandana Dasa, Vrindavana Dasa (attributed); Eng. tr.', preface="""# The Vaishnava-vandanas
 
 *"Praises of the Vaishnavas": lists of the associates of Sri Chaitanya*
 
-*The Sanskrit vandana attributed to Jiva Gosvami; the* Vaishnava-vandana *and* Vaishnavabhidhana *of Devakinandana Dasa*
+*The Sanskrit vandana attributed to Jiva Gosvami; the* Vaishnava-vandana *and* Vaishnavabhidhana *of Devakinandana Dasa; two Bengali vandanas ascribed to Vrindavana Dasa*
 
 *Translated from the Sanskrit and Bengali*
 
@@ -109,8 +118,18 @@ not been found in a public-domain edition.
 **Part 3. Devakinandana Kaviraja, the Vaishnavabhidhana** — a Sanskrit list of names (53 verses), following
 almost exactly the order of the Bengali vandana; from the same 1910 edition.
 
-**Not translated** are two other vandanas of the 1910 edition — the "First vandana" on Nityananda's associates
-and a vandana in tripadi, both attributed to Vrindavana Dasa (see `CATALOG.md`).
+**Parts 4 and 5. Two Bengali vandanas ascribed to Vrindavana Dasa.** Both come from the same 1910 edition.
+The "First vandana" (144 verses) is essentially made up of couplets from the *Chaitanya-bhagavata*: the list of
+Nityananda's associates and the account of the devotees going to Nilachala for the Chariot festival. To these is
+added the "Gopala-nirnaya", which identifies Nityananda's associates with the cowherd boys of Vraja. Vrindavana Dasa
+himself gave no such identifications, and six of the ten differ from the *Gaura-ganoddesha*, so the name of the
+author of the *Chaitanya-bhagavata* in the colophon points to the source of the lines rather than to the compiler.
+The tripadi vandana (150 stanzas and couplets) is signed "Vrindavana Dasa", but its author himself praises
+Vrindavana Dasa, Narayani's son, and is therefore another man — the "second Vrindavana Dasa", as Majumdar calls him.
+His order of names and many characterisations repeat the Sanskrit vandana of Part 1 almost word for word, but there
+are also details found nowhere else: the Lord's secret counsel with Nityananda about Virachandra, Parameshvara's
+forty jackals, Saranga's hundred and twenty snakes. The notes mark parallels with Parts 1–2, with the
+*Chaitanya-bhagavata* and with the *Gaura-ganoddesha*.
 
 **Principles.** Only the text of the vandanas is translated — without the original or a word-for-word
 rendering. The Russian and English translations were made in parallel, with the same numbering and the same
@@ -119,7 +138,7 @@ numbering; the *Chaitanya-charitamrita* — CC; the *Chaitanya-bhagavata* — CB
 the vandanas, from GGD and from Majumdar's conclusions. Where a vandana differs from what Gaudiya Vaishnavas
 accept (for example, a different identification of an associate), the translation is exact and the
 explanation is given in a note. At the end of the book there is a **consolidated index of persons**: where
-each associate is mentioned in the three texts and in GGD.
+each associate is mentioned in the five texts and in GGD.
 
 ---
 
@@ -129,19 +148,19 @@ each associate is mentioned in the three texts and in GGD.
 }
 
 IDX = {
-    'ru': dict(h='# Указатель лиц', intro='*Где упомянут каждый спутник: ч. 1 — вандана, приписываемая Дживе (шлоки); ч. 2 — Девакинандана (двустишия); ч. 3 — «Вайшнавабхидхана» (шлоки); ГГД — «Гаура-ганоддеша-дипика» (шлоки по нашему переводу). Тег — код лица в базе лил (`lila-db/PERSONS.md`); «—» — тег не заведён (лицо не отождествлено). «(?)» — отождествление предположительно. Порядок — по первому упоминанию.*',
-               cols=['Имя', 'Тег', 'Ч. 1', 'Ч. 2', 'Ч. 3', 'ГГД']),
-    'en': dict(h='# Index of persons', intro='*Where each associate is mentioned: Part 1 — the vandana attributed to Jiva (verses); Part 2 — Devakinandana (couplets); Part 3 — the* Vaishnavabhidhana *(verses); GGD — the* Gaura-ganoddesha-dipika *(verses by our numbering). Tag — the person code in the lila database (`lila-db/PERSONS.md`); "—" — no tag (person not identified). "(?)" — tentative identification. Order — by first mention.*',
-               cols=['Name', 'Tag', 'Pt. 1', 'Pt. 2', 'Pt. 3', 'GGD']),
+    'ru': dict(h='# Указатель лиц', intro='*Где упомянут каждый спутник: ч. 1 — вандана, приписываемая Дживе (шлоки); ч. 2 — Девакинандана (двустишия); ч. 3 — «Вайшнавабхидхана» (шлоки); ч. 4 — «Первая вандана» (стихи); ч. 5 — вандана в трипади (строфы и двустишия); ГГД — «Гаура-ганоддеша-дипика» (шлоки по нашему переводу). Тег — код лица в базе лил (`lila-db/PERSONS.md`); «—» — тег не заведён (лицо не отождествлено). «(?)» — отождествление предположительно. Порядок — по первому упоминанию.*',
+               cols=['Имя', 'Тег', 'Ч. 1', 'Ч. 2', 'Ч. 3', 'Ч. 4', 'Ч. 5', 'ГГД']),
+    'en': dict(h='# Index of persons', intro='*Where each associate is mentioned: Part 1 — the vandana attributed to Jiva (verses); Part 2 — Devakinandana (couplets); Part 3 — the* Vaishnavabhidhana *(verses); Part 4 — the "First vandana" (verses); Part 5 — the tripadi vandana (stanzas and couplets); GGD — the* Gaura-ganoddesha-dipika *(verses by our numbering). Tag — the person code in the lila database (`lila-db/PERSONS.md`); "—" — no tag (person not identified). "(?)" — tentative identification. Order — by first mention.*',
+               cols=['Name', 'Tag', 'Pt. 1', 'Pt. 2', 'Pt. 3', 'Pt. 4', 'Pt. 5', 'GGD']),
 }
 
 
 def index_md(lang):
     rows = [l.rstrip('\n').split('\t') for l in open(os.path.join(HERE, 'index.tsv'), encoding='utf-8')][1:]
     m = IDX[lang]
-    out = [m['h'], '', m['intro'], '', '| ' + ' | '.join(m['cols']) + ' |', '|' + '---|' * 6]
-    for tag, ru, en, j, d, a, g in rows:
-        out.append(f"| {ru if lang == 'ru' else en} | {tag if tag != '—' else '—'} | {j} | {d} | {a} | {g} |")
+    out = [m['h'], '', m['intro'], '', '| ' + ' | '.join(m['cols']) + ' |', '|' + '---|' * 8]
+    for tag, ru, en, j, d, a, g, p4, p5 in rows:
+        out.append(f"| {ru if lang == 'ru' else en} | {tag if tag != '—' else '—'} | {j} | {d} | {a} | {p4} | {p5} | {g} |")
     return '\n'.join(out) + '\n'
 
 
@@ -150,11 +169,11 @@ def write_index():
     rows = [l.rstrip('\n').split('\t') for l in open(os.path.join(HERE, 'index.tsv'), encoding='utf-8')][1:]
     out = ['# Сводный указатель лиц «Вайшнава-вандан» / Index of persons', '',
            'Генерируется из `index.tsv` скриптом `build.py`. Ч. 1 — вандана, приписываемая Дживе (шлоки); ч. 2 — Девакинандана '
-           '(двустишия, нумерация как у Маджумдара); ч. 3 — «Вайшнавабхидхана»; ГГД — «Гаура-ганоддеша-дипика» по `../gaura-ganoddesha/ru/`. '
+           '(двустишия, нумерация как у Маджумдара); ч. 3 — «Вайшнавабхидхана»; ч. 4 — «Первая вандана»; ч. 5 — вандана в трипади; ГГД — «Гаура-ганоддеша-дипика» по `../gaura-ganoddesha/ru/`. '
            f'Всего {len(rows)} строк, из них с тегом — {sum(1 for r in rows if r[0].startswith("@"))}.', '',
-           '| RU | EN | Тег | Ч. 1 | Ч. 2 | Ч. 3 | ГГД |', '|---|---|---|---|---|---|---|']
-    for tag, ru, en, j, d, a, g in rows:
-        out.append(f'| {ru} | {en} | {tag} | {j} | {d} | {a} | {g} |')
+           '| RU | EN | Тег | Ч. 1 | Ч. 2 | Ч. 3 | Ч. 4 | Ч. 5 | ГГД |', '|---|---|---|---|---|---|---|---|---|']
+    for tag, ru, en, j, d, a, g, p4, p5 in rows:
+        out.append(f'| {ru} | {en} | {tag} | {j} | {d} | {a} | {p4} | {p5} | {g} |')
     open(os.path.join(HERE, 'INDEX.md'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
 
 
