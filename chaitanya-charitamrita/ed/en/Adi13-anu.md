@@ -132,6 +132,9 @@ Caṇḍīdāsa was born in a *brāhmaṇa* family in the village of Nānnura in
 
 The moods that blossomed in Caṇḍīdāsa and other devotees were Śrī Mahāprabhu's most beloved delicacy. Steeped in the mood of Śrī Rādhā, Kṛṣṇacandra tasted *vipralambha-rasa* with His two intimate devotees, Śrī Dāmodara Svarūpa and Śrī Rāmānanda Rāya, and so fulfilled His own desire.
 
+
+Svayaṁ Bhagavān Śrī Gaurasundara, together with unequalled knowers of the truth of spiritual *kṛṣṇa-rasa* — Śrī Dāmodara Svarūpa, the crest jewel of the *paramahaṁsas*, and Śrī Rāya Rāmānanda — relished the transcendental songs composed by these three devotees. These songs unfold the countless varieties of the *mahābhāva* of Śrī Rādhikā, “full of Kṛṣṇa” (*kṛṣṇamayī*), toward Śrī Nandanandana, the unequalled Enjoyer, whose form is eternity, knowledge and bliss. Only the most fortunate person can always follow them: one who is indifferent both to enjoyment and to renunciation in this perishable gross and subtle world, who is supremely liberated and owns nothing (*niṣkiñcana*), and who eternally longs to serve Śrī Rādhā. People who delight in mundane poetic *rasa*, who love godless literature, who take pleasure in the body — for the sake of research — and the *prākṛta-sahajiyā* sect — to gratify their material senses, fancying themselves *rāgānuga* — show the impudence of discussing the songs of Caṇḍīdāsa, Vidyāpati and Jayadeva. As a result, licentiousness and atheism grow in the world, and this leads them to hell. Unqualified people, who take the body for the self, are full of thirst for what is unworthy and burdened with *anarthas*, may take the supramundane pastimes of Śrī Rādhā and Kṛṣṇa, worshipped by the supremely liberated, to be the tasteless, vile amorous sports of a mundane hero and heroine, or something like them — and end up gratifying their senses. Therefore any kind of discussion of the pastimes of Rādhā and Kṛṣṇa is strictly forbidden to them.
+
 ## 43
 
 > Subheading: By tasting the love for Kṛṣṇa that arises from Śrī Rādhā's actions in separation from Kṛṣṇa, He fulfills His three desires —
@@ -139,3 +142,51 @@ The moods that blossomed in Caṇḍīdāsa and other devotees were Śrī Mahāp
 ## 45
 
 > Subheading: Even Anantadeva Himself cannot reach the end of Gaura's pastimes —
+
+## 46
+
+> Subheading: Murāri and Śrī Svarūpa compiled the Ādi-līlā and the last pastimes in *sūtras* of their own —
+
+## 47
+
+> Subheading: Relying on those *sūtras*, Ṭhākura Vṛndāvana dāsa describes Gaura's pastimes —
+
+## 48
+
+> Subheading: The sweetness of Vṛndāvana dāsa's work —
+
+## 49
+
+> Subheading: The author promises to describe what Vṛndāvana dāsa left out —
+
+## 50
+
+> Subheading: The author honors Ṭhākura Vṛndāvana —
+
+## 51
+
+> Subheading: The *sūtras* of the Ādi-līlā begin —
+
+## 52
+
+> Subheading: To fulfill three desires, Kṛṣṇa descends in the form of Gaura —
+
+## 53
+
+> Subheading: The descent of Kṛṣṇa's elders —
+
+## 54
+
+> Subheading: The names of the elders —
+
+## 56
+
+Upendra Miśra. The *Gaura-gaṇoddeśa* (verse 35) says: “The cowherd named Parjanya, Kṛṣṇa's grandfather, was born in Śrīhaṭṭa as Upendra Miśra, the father of seven sons.” He lived in the village of Ḍhākā-dakṣiṇa in the district of Śrīhaṭṭa. Even today several people, headed by Śrī Indrakumāra Miśra, live there and introduce themselves as his descendants.
+
+## 57
+
+> Subheading: The seven sons of Upendra Miśra —
+
+## 59
+
+> Subheading: Who Jagannātha was in Kṛṣṇa's avatāra —
