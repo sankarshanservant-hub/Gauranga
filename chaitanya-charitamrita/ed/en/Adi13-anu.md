@@ -190,3 +190,101 @@ Upendra Miśra. The *Gaura-gaṇoddeśa* (verse 35) says: “The cowherd named P
 ## 59
 
 > Subheading: Who Jagannātha was in Kṛṣṇa's avatāra —
+
+## 60
+
+> Subheading: Śacī and Nīlāmbara Cakravartī —
+
+Nīlāmbara Cakravartī. The *Gaura-gaṇoddeśa* (verse 104) says: “Nīlāmbara Cakravartī foretold Gaura's future birth in an assembly, and so he is called ‘Garga.’ As the father of Śrī Śacī he is considered the cowherd Sumukha.” His kinsmen live in the village of Magaḍobā in the district of Faridpur. His nephew Jagannātha Cakravartī, or “Māmu Ṭhākura,” a disciple of Paṇḍita Gosvāmī, was the servant of Ṭoṭā-Gopīnātha at Śrī Kṣetra. The *Prema-vilāsa* records that Nīlāmbara's home in Navadvīpa was in Belpukuriyā. On the other hand, he also had a home in Kāzīpāḍā, and so, by village kinship, the Kazi too is spoken of as the Lord's maternal uncle. The Kazi's house, together with his tomb, could not have moved; hence it is known that all those places of the Belpukuriyā quarter mentioned above have become part of the present-day quarter called Bāmanpukur.
+
+## 61
+
+> Subheading: Śrī Nityānanda, Gaṅgādāsa, Murāri, Mukunda —
+
+In Rāḍha-deśa: in the village of Ekacakrā in the district of Birbhum. It lies about eight miles east of Mallārpur station on the loop line of the East Indian Railway. From north to south the village of Ekacakrā stretches four *krośas*. Vīracandrapura, or Vīrabhadrapura, lies within the bounds of Ekacakrā. The place got the name Vīracandrapura, or Vīrabhadrapura, from the name of Vīrabhadra Prabhu.
+
+Last year, 1331, in the month of Āṣāḍha, lightning struck the temple and broke its spire, and the temple itself has become badly dilapidated. Never before had such a calamity befallen the temple.
+
+In the temple stands the Deity of Kṛṣṇa installed by Śrīman Nityānanda Prabhu, named “Śrī Baṅkima Rāya,” or “Bāṅkā Rāya.” To the right of Śrī Baṅkima Rāya stands Jāhnavā, and to the left Śrīmatī Rādhikā. The temple servants say that Śrīman Nityānanda Prabhu entered into Śrī Baṅkima Rāya, and that is why Jāhnavā-mātā was later installed on His right. Later still, other Deities were installed in the temple. On another throne in the temple are the Deities “Muralīdhara” and “Rādhā-Mādhava.” And on a third, separate throne, Śrī Manomohana, Śrī Vṛndāvanacandra and Śrī Nitāi-Gaura, brought to Ekacakrā from the *gādi* (seat) of Vipraghāṭī in the district of Murshidabad, have been served for a year now. Only Śrī Baṅkima Rāya is said to be the ancient Deity installed by Nityānanda Prabhu. Legend has it that the Deity of Śrī Baṅkima Rāya was floating in the waters of the Yamunā at Kadambakhaṇḍī Ghāṭ, east of the temple. Śrīman Nityānanda Prabhu lifted the Deity out of the water and installed Him for service. And Śrīmatī appeared under a *nimba* tree at a place called Bhaḍḍāpura, about half a mile west of Vīracandrapura. That is why many people used to call Baṅkima Rāya's Śrīmatī “the Ṭhākurāṇī of Bhaḍḍāpura.” On yet another throne in the temple, to the right of Bāṅkā Rāya, stands “Yogamāyā.” The temple and the *jagamohana* stand on a high brick plinth. Directly in front is a modest *nāṭa-mandira*. It is said that in the northern part of Śrī Bāṅkā Rāya's temple there was a Śiva named “Bhāṇḍīśvara,” and Hāḍāi Paṇḍita worshipped that Śiva, the king of Vaiṣṇavas. That Śiva-*liṅga* has now disappeared, and in its place a Deity of Śrī Jagannātha is installed.
+
+Śrīman Nityānanda Prabhu built no temples or other buildings. When the temple from Vīrabhadra Prabhu's time collapsed in 1298, a *brahmacārī* named Śivānanda Svāmī restored it. Seventeen seers and ten *chaṭāks* of rice are allotted every day for the Deity's offering (*bhoga*).
+
+The servitors, the “Gosvāmīs,” are a branch of the family of Śrī Gopījana-vallabhānanda, a descendant of Nityānanda. An estate (*zamindari*) is settled in the Gosvāmīs' name for the service, and the service is maintained from its income. The “Gosvāmīs” are three shareholders, and they serve by turns. Śrīyukta Goṣṭhavihārī “Gosvāmī” holds a share of eight annas eight *gaṇḍās* in the estate; Śrīyukta Vijayacandra “Gosvāmī” and others, five annas fourteen *gaṇḍās*; and Śrīyukta Prasanna Kumāra Bandyopādhyāya (a daughter's son of the “Gosvāmīs”), one anna eighteen *gaṇḍās*[^61-1].
+
+Not far from the temple is a place called Viśrāmatalā. Legend has it that here, in His childhood, Śrī Nityānanda Prabhu acted out various pastimes of Vraja and the *rāsa* dance with His friends.
+
+At a place called Āmlītalā stands a spreading tamarind tree. The Neḍās and similar sects have invented many fanciful stories about this place. Legend has it that a pond called “Śvetagaṅgā” was dug by Vīrabhadra Prabhu's twelve hundred Neḍās. A little farther on are the memorial pillars over the Gosvāmīs' tombs. Crossing the Yamunā, which flows north from Mauḍeśvara to the river Dvārakeśvara, one comes within half a mile to the temple at Śrī Nityānanda Prabhu's birthplace (*sūtikā-mandira*). In front of it stood an old *nāṭa-mandira*; it is now in ruins and covered by a spreading banyan. Later a temple was built in that courtyard, and the Deities of Śrī Gaura and Nityānanda reside in it. A stone tablet in the *jagamohana* records that this temple was restored in the month of Vaiśākha, 1323, in memory of the late Prasannakumāra, the steward (*kārpharmā*).
+
+The place where the *sūtikā-mandira* stands is called “Garbhavāsa.” About 43 *bighās* of land are set aside for the service; of these, 20 *bighās* are tax-free — this is land of the Mahārāja of Dinajpur. Near Garbhavāsa stood the school (*ṭol*) of Hāḍāi Paṇḍita.
+
+The servitors of this place: (1) Śrī Rāghavacandra Gosvāmī (in Vraja, Campakalatā, *Gaura-gaṇoddeśa* 162; he lived at Govardhana; the day of his departure, the thirteenth lunar day of the bright fortnight of Jyaiṣṭha); (2) Jagadānanda dāsa (day of departure, Rādhāṣṭamī); (3) Kṛṣṇadāsa (of Ciḍiyā-kuñja; day of departure, Kṛṣṇa-janmāṣṭamī); (4) Nityānanda dāsa; (5) Rāmadāsa; (6) Vrajamohana dāsa; (7) Kānāi dāsa; (8) Gauradāsa; (9) Śivānanda dāsa; (10) Haridāsa (the present servitor).
+
+Not far from Garbhavāsa, the *sūtikā-mandira*, is Bakulatalā. Here Śrī Nityānanda Prabhu played the game of *jhāl-jhapeṭā* with His friends. This *bakula* tree is a great wonder: its branches and twigs look exactly like snakes, with heads and hoods. Probably they appear this way by the will of Anantadeva Himself, Śrī Nityānanda. The tree itself is very old. It is said that two of its branches once grew apart. Nityānanda Prabhu saw that during play His friends found it hard to cross from one branch to the other, and He joined the two branches.
+
+Hāṅṭugāḍā. Tradition says that Śrī Nityānanda Prabhu gathered all the holy places (*tīrthas*) at this spot. To this day the residents of this *dhāma* do not go to the Gaṅgā or other *tīrthas*, but bathe at this *tīrtha*. Śrīman Nityānanda Prabhu held a festival of *dadhi-ciḍā*, yogurt with flat rice, here. Legend has it that He sat here on His knees eating *dadhi-ciḍā*, and the spot sank into a hollow; that is why it is called “Hāṅṭugāḍā” (“knees sunk in”). This pond (*kuṇḍa*) holds water all year round.
+
+In the month of Kārttika, at the time of the Goṣṭha festival, a large fair takes place here. A huge fair is also held at Vīracandrapura for the festival of Śrī Nityānanda Prabhu's birth, on the thirteenth lunar day of the bright fortnight of Māgha. The *Gaura-gaṇoddeśa* (verse 11) says: “Nityānanda, who in Vraja is Śrī Halāyudha, in the form of a devotee”; and (verses 58–59): “Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa. And Nityānanda Avadhūta is also called He, by way of *prakāśa* (manifestation).” He is the Balarāma of Vraja.
+
+## 62
+
+> Subheading: Last of all, Kṛṣṇa Himself descends —
+
+See Ādi 3.93.
+
+## 63
+
+> Subheading: Before Mahāprabhu, Śrī Advaita was the head, worshipped by all —
+
+## 64
+
+> Subheading: Advaita explains *bhakti* —
+
+## 65
+
+> Subheading: He teaches that devotion to Kṛṣṇa alone is the means (*abhidheya*) —
+
+## 66
+
+> Subheading: Accepting Him as their head, all the Vaiṣṇavas worship Kṛṣṇa —
+
+## 67
+
+> Subheading: Having appeared in the world, the Ācārya sees the *jīvas* bent on sense pleasure and grieves —
+
+## 68
+
+> Subheading: The Ācārya thinks deeply how to deliver the people —
+
+## 69
+
+> Subheading: Only the descent of Kṛṣṇa Himself will surely deliver the people —
+
+## 70
+
+> Subheading: To bring Kṛṣṇa Himself down, the Ācārya worships Kṛṣṇa —
+
+## 71
+
+> Subheading: The Ācārya calls Kṛṣṇa, and Kṛṣṇa is drawn —
+
+## 67–71
+
+See Ādi 3.95–109 and the *Caitanya-bhāgavata*, Ādi-khaṇḍa, Chapter 2.
+
+## 72
+
+> Subheading: Before Gaura's descent, the eight daughters of Miśra and Śacī pass away —
+
+## 73
+
+> Subheading: Miśra's grief and his worship of Viṣṇu for a son —
+
+## 74
+
+> Subheading: Their ninth child, Viśvarūpa —
+
+Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took *sannyāsa* and received the name “Śaṅkarāraṇya.” In Śaka 1431 He departed from this world at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took *sannyāsa* before Him and left this world.”
+
+---
+
+[^61-1]: An anna is one sixteenth of the whole, and a *gaṇḍā* one twentieth of an anna; the three shares together make up the whole (16 annas).
