@@ -84,6 +84,28 @@ The mental power to arrange speech in ever new ways is called *pratibhā*, poeti
 
 “I have not studied poetics, but I have heard about it from the lips of *paṇḍitas*. That is why I see many faults and merits in this verse.”
 
+## 54–84
+
+The verse “*Mahattvaṁ gaṅgāyāḥ*” has five ornaments (*alaṅkāra*), which are its merits, and five faults (*doṣa*). In two places the fault is *avimṛṣṭa-vidheyāṁśa* (the *vidheya*, the new statement, is not properly set apart), and in three more there are the faults *viruddha-mati* (creating a contradictory idea), *punarukti* (repetition) and *bhagna-krama* (broken order).
+
+The first *avimṛṣṭa-vidheyāṁśa* fault is this. The main *vidheya* of the verse is the glory of the Gaṅgā, and the word *idam*, “this,” is the *anuvāda* (what is being spoken of, the already known). Here “the glory of the Gaṅgā” is written first and the word *idam* after it, and that is against the rules. If the *anuvāda*, the known subject, is not written first, the meaning suffers.
+
+The second *avimṛṣṭa-vidheyāṁśa* fault is this. In the expression *dvitīya-śrī-lakṣmīr iva*, “like a second Śrī Lakṣmī,” the *vidheya*, the unknown, is “secondness” (*dvitīyatva*). It was placed first and made part of a compound (*samāsa*), and so the meaning became subordinate and was lost. For the point of the meaning was to show [the Gaṅgā's] equality with Lakṣmī, and the faulty compound destroyed it.
+
+The third fault, *viruddha-mati-kṛt*, is seen in the word *bhavānī-bhartuḥ*, “of Bhavānī's husband.” In such usage the word *Bhavānī* means Mahādeva's wife, and the word *bhavānī-bhartā* gives rise to another idea, that of a second husband of Bhavānī. Such words taint poetry with the fault *viruddha-mati-kṛt*.
+
+The fourth fault is this. The sentence ended with the verb *vibhavati*, “reigns,” and after it the epithet *adbhuta-guṇā*, “endowed with wonderful qualities,” is given. This is the fault *punar-ātta* (returning to a finished sentence).
+
+The fifth fault is *bhagna-krama*. Three lines, the first, third and fourth, have alliteration on *t*, *r* and *bh*, but the second line has none. That is the fault *bhagna-krama*.
+
+The verse has five ornaments and merits, yet these five faults have ruined it. If a verse has ten ornaments and even one fault, it is condemned (*vigīta*), like a beautiful body adorned with jewels but marked by a white patch of leprosy.
+
+Now I will speak of the merits. This verse of yours has two ornaments of sound (*śabdālaṅkāra*) and three ornaments of sense (*arthālaṅkāra*). (1) The alliteration in three lines is an ornament of sound. (2) The expression “Śrī Lakṣmī” is not the fault of repetition (*punarukti*): it is the ornament of sound *punarukta-vad-ābhāsa*, apparent repetition. If “Śrī” and “Lakṣmī” are taken as one and the same, there is no fault at all. If the sense is taken as “Lakṣmī endowed with beauty (*śrī*),” the meanings do differ, and there is no repetition: it is a special ornament of sound, *punarukta-vad-ābhāsa*. (3) The expression *lakṣmīr iva*, “like Lakṣmī,” is an ornament of sense, the simile (*upamālaṅkāra*). (4) There is one more ornament of sense, *virodhābhāsa*, apparent contradiction, in what is said of the Gaṅgā's birth from Viṣṇu's lotus feet. A lotus is born from water, but here water is born from a lotus; such contradictory words give rise to the ornament of contradiction (*virodha*). But the Gaṅgā appeared by the inconceivable energy of the Lord, so there is no contradiction here at all, only an “apparent contradiction,” and that is the ornament. (5) The words that prove the *sādhya*, the glory of the Gaṅgā, that is, the words about her birth from Viṣṇu's feet, are the ornament *anumāna*, inference.
+
+## 71
+
+A beautiful, adorned body becomes unsightly when it has a patch of white leprosy (*śvitra*). In the same way poetry endowed with *rasa* and ornaments becomes unsightly if it has a fault.
+
 ---
 
 [^36-1]: A *ghaṭikā* is twenty-four minutes. The verse translation reads otherwise: “in just one hour.”

@@ -206,6 +206,34 @@ See Ādi 2.74.
 
 > Subheading: The fourth fault explained —
 
+## 67
+
+> Subheading: The fifth fault explained[^67-1] —
+
+## 68
+
+> Subheading: The five faults ruin the glory of the verse —
+
+## 70
+
+> Subheading: A comparison —
+
+***Vigīta***: condemned.
+
+## 71
+
+**vibhūṣitam** (fully adorned) **sundaram** (charming) **api** **vapuḥ** (body) **yathā** (as) **ekena** **śvitreṇa** (by the disease called white leprosy) **durbhagam** (bereft of beauty, sullied) **syāt**, **tathā** **rasālaṅkāra-vat** **kāvyam** (*rasa*: *śṛṅgāra* and the rest; *alaṅkāra*: *anuprāsa*, *upamā* and the rest; *kāvya* endowed with them, speech whose soul is *rasa*) **cet** (if) **doṣa-yuk** **bhavati**, **tathā** **durbhagam** (bereft of beauty) **jñeyam**.
+
+## 72
+
+> Subheading: The five merits of the verse —
+
+## 73
+
+> Subheading: The first and second merits, both ornaments of sound —
+
 ---
 
 [^25-1]: Unclear passage: the line “বর্ণি লীলাভোগ ‘লঘুকেশব’ নামেতে” seems to be quoted in abridged form; the translation is tentative.
+
+[^67-1]: The edition has “পঞ্চ দোষের” (“of the five faults”), apparently for “পঞ্চম দোষের” (“of the fifth fault”).
