@@ -2489,3 +2489,280 @@
   event: ev-murari-gupta-physician
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "49", to: "51"}
+
+- id: cc-0125
+  source: cc
+  ref: "Ади 10.52–53"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 111
+  title: "Шриман Сена; Гададхара Дас заставляет кази произносить «Хари»"
+  summary: "Шриман Сена — главный слуга Господа, не знающий ничего, кроме стоп Чайтаньи; ветвь Шри Гададхары Даса выше всех: он заставил кази произносить имя Хари."
+  persons: ["@shriman-sena", "@gadadhara-dasa"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей)."
+  themes: [muslims, mercy, kirtan]
+  cc: "Ади 10"
+  event: ev-gadadhara-dasa-kazi-hari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "52", to: "53"}
+
+- id: cc-0126
+  source: cc
+  ref: "Ади 10.54–55"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 5
+  title: "Шивананда Сена ежегодно ведёт преданных Гауды в Нилачалу, опекая их в пути"
+  summary: "Шивананда Сена — близкий слуга Господа: все, кто идёт к Господу, идут с ним; каждый год он ведёт преданных в Нилачалу, заботясь о них в пути."
+  persons: ["@shivananda-sena", "@mahaprabhu"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 16, Антья 1, 10, 12."
+  themes: [pilgrimage, jagannatha]
+  cc: "Ади 10"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "54", to: "55"}
+
+- id: cc-0127
+  source: cc
+  ref: "Ади 10.56–60"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 20
+  title: "Три вида милости Господа — сакшат, авеша, авирбхава: Накула Брахмачари и Нрисимхананда; Шивананда вкусил все три"
+  summary: "Господь милостив к преданным в трёх обликах: лично (сакшат) — все преданные видят Его равно; «вхождением» (авеша) — в теле Накулы Брахмачари; «явлением» (авирбхава) — в Прадьюмне Брахмачари, которого Господь назвал Нрисимханандой; таковы необычайные свойства Господа; Шивананда Сена вкусил все эти расы — подробно впереди."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@nakula-brahmachari", "@nrisimhananda"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 2. «Авеша» и «авирбхава» здесь — особые виды присутствия Господа в преданном, а не отождествление преданного с Господом."
+  themes: [mercy, revelation]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 10"
+  event: ev-nakula-brahmachari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "56", to: "60"}
+
+- id: cc-0128
+  source: cc
+  ref: "Ади 10.61–66"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 810
+  title: "Ветви древа: семья Шивананды Сены, Говиндананда и Говинда Датта, Виджая Дас «Ратнабаху», Акинчана Кришнадас"
+  summary: "Веточки Шивананды — его спутники, сыновья и слуги, все — слуги Чайтаньи; три его сына — Чайтанья Дас, Рамадас и Карнапура — отважные преданные Господа; родственники Шивананды Шриваллабха Сена и Шриканта Сена безраздельно преданы Господу; дорогой Господу Говиндананда — маха-бхагавата; Шри Говинда Датта — главный певец киртана Господа; Шри Виджая Дас переписал для Господа много книг, и Господь назвал его «Ратнабаху»; дорог Господу и неимущий (акинчана) Кришнадас."
+  persons: ["@shivananda-sena", "@chaitanya-dasa-shivananda-son", "@ramadasa-shivananda-son", "@kavi-karnapura", "@shrivallabha-sena", "@shrikanta-sena", "@govindananda", "@govinda-datta", "@vijaya-dasa", "@akinchana-krishnadasa", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Тег @govindananda — по реестру (Говиндананда, ГГД 91); тождество с Говинданандой ЧЧ 10.64 принято по совпадению имени. В 10.65 «а̄кхарийа̄» — писец, переписчик (у Бхактисиддханты — липикар); у ВЧД — «певец киртана»."
+  themes: [teaching, family]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "61", to: "66"}
+
+- id: cc-0129
+  source: cc
+  ref: "Ади 10.67–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 123
+  title: "Шридхара Кхолавеча: Господь шутит с ним, берёт его банановые побеги и пьёт из его дырявого железного кувшина"
+  summary: "Торговец банановой корой Шридхара — дорогой слуга Господа, с которым Господь постоянно шутил; Господь каждый день брал у него банановую сердцевину, цветы и плоды и пил воду из его дырявого железного кувшина."
+  persons: ["@shridhara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей)."
+  themes: [pranks, mercy, prasada]
+  cc: "Ади 10"
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "67", to: "68"}
+
+- id: cc-0130
+  source: cc
+  ref: "Ади 10.69–71"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P03
+  order: 81
+  title: "Бхагаван Пандит; Джагадиша и Хиранья: в экадаши Господь-ребёнок выпросил у них подношение Вишну"
+  summary: "Бхагаван Пандит — очень дорогой слуга Господа: в его теле прежде пребывал Кришна; Джагадиша Пандит и Хиранья Махашая — им милостивый Господь явил милость в детстве: в их двух домах в день экадаши Он выпросил наиведью Вишну и съел её Сам."
+  persons: ["@bhagavan-pandita", "@jagadisha-pandita", "@hiranya-pandita", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей); подробно — ЧЧ Ади 14. 10.69 — о Бхагаване Пандите (характеристика)."
+  themes: [pranks, prasada, festival]
+  bhava: [child]
+  cc: "Ади 10"
+  event: ev-jagadisha-hiranya-ekadashi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "69", to: "71"}
+
+- id: cc-0131
+  source: cc
+  ref: "Ади 10.72–76"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 820
+  title: "Ветви древа: ученики Пурушоттама и Санджая; Ванамали Пандит видел золотые палицу и плуг; Буддхиманта Хан; Гаруда Пандит, неуязвимый для яда; Гопинатха Симха — «Акрура»"
+  summary: "Два ученика Господа по грамматике — Пурушоттама и Санджая; Ванамали Пандит видел в руках Господа золотые палицу и плуг; Буддхиманта Хан с рождения исполняет веления Господа, он главный слуга; Гаруда Пандит повторяет святое имя, и силой имени яд не имел над ним власти; Гопинатху Симху Господь в шутку называл Акрурой."
+  persons: ["@vanamali-pandita", "@buddhimanta-khan", "@garuda-pandita", "@gopinatha-simha", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Пурушоттама и Санджая без тегов: отношение к @mukunda-sanjaya (в доме которого Нимай учил, ЧБ) здесь не устанавливается. Видение Ванамали — облик Баларамы (палица и плуг)."
+  themes: [teaching, revelation, learning]
+  bhava: [balarama]
+  teaching: [associates-tattva, holy-name]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "72", to: "76"}
+
+- id: cc-0132
+  source: cc
+  ref: "Ади 10.77"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P13
+  order: 9
+  title: "Девананда, чтец «Бхагаваты», по милости Вакрешвары получает от Господа бхакти-смысл «Бхагаваты»"
+  summary: "Чтец «Бхагаваты» Девананда по милости Вакрешвары получил от Господа понимание «Бхагаваты» как бхакти."
+  persons: ["@devananda-pandita", "@vakreshvara", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 1, ЧБ."
+  themes: [mercy, offense]
+  teaching: [scripture, bhakti-supremacy]
+  cc: "Ади 10"
+  event: ev-devananda-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "77", to: "77"}
+
+- id: cc-0133
+  source: cc
+  ref: "Ади 10.78–79"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 830
+  title: "Ветви из Кханды: Мукунда Дас, Рагхунандана, Нарахари Дас, Чиранджива, Сулочана"
+  summary: "Жители Кханды — Мукунда Дас, Шри Рагхунандана, Нарахари Дас, Чиранджива и Сулочана — великие ветви, обитель милости Чайтаньи: они повсюду раздают плоды и цветы премы."
+  persons: ["@mukunda-dasa", "@raghunandana", "@narahari-sarakara", "@chiranjiva-sena"]
+  places: ["#shrikhanda"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Сулочана без тега."
+  themes: [teaching]
+  teaching: [associates-tattva, prema]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "78–79", to: "78–79"}
+
+- id: cc-0134
+  source: cc
+  ref: "Ади 10.80–83"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 95
+  title: "Кулинаграма: «Даже собака Кулинаграмы Мне дорога»"
+  summary: "Жители Кулинаграмы — Сатьяраджа, Рамананда, Ядунатха, Пурушоттама, Шанкара, Видьянанда, Ванинатха Васу и все сельчане — слуги Чайтаньи, для них Чайтанья — сокровище жизни; Господь сказал: «Даже собака Кулинаграмы Мне дорога, что говорить о других; удачу жителей Кулинаграмы не описать: там даже дом, пасущий свиней, поёт о Кришне»."
+  persons: ["@satyaraja-khan", "@ramananda-vasu", "@vaninatha-vasu", "@mahaprabhu"]
+  places: ["#kulinagrama"]
+  kind: lila
+  authority: A
+  notes: "Ядунатха, Пурушоттама, Шанкара, Видьянанда — без тегов."
+  themes: [mercy, kirtan]
+  teaching: [vaishnava, holy-name]
+  cc: "Ади 10"
+  event: ev-kulinagrama-glory
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "80", to: "83"}
+
+- id: cc-0135
+  source: cc
+  ref: "Ади 10.84–90"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 17.5
+  title: "Западные ветви — Рупа и Санатана: бхакти покрывает запад до Инда и Гималаев; открыты утраченные тиртхи, во Вриндаване утверждено поклонение Божествам"
+  summary: "Анупама (Валлабха), Шри Рупа и Санатана — три ветви на западной стороне древа; Рупа и Санатана — большие ветви, Анупама, Джива, Раджендра и другие — веточки; по воле садовника ветви разрослись и покрыли западные земли до берегов Инда и Гималаев, Вриндаван, Матхуру и все тиртхи; плоды премы затопили всех, и люди обезумели от их вкуса; среди непросвещённых людей запада братья проповедали бхакти и праведное поведение, по указаниям шастр открыли утраченные тиртхи и утвердили во Вриндаване поклонение Божествам."
+  persons: ["@anupama", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#vrindavana", "#mathura"]
+  kind: lila
+  authority: A
+  notes: "Раджендра — без тега."
+  themes: [deities, pilgrimage, krishna-lila]
+  teaching: [scripture, prema]
+  cc: "Ади 10"
+  event: ev-gosvamis-reveal-lost-tirthas
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "84", to: "90"}
+
+- id: cc-0136
+  source: cc
+  ref: "Ади 10.91–93"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 30
+  title: "Рагхунатха Дас оставляет всё и живёт у стоп Господа; Господь вверяет его Сварупе; шестнадцать лет сокровенного служения"
+  summary: "Дорогой слуга Махапрабху Рагхунатха Дас, оставив всё, поселился у Его стоп; Господь вверил его Сварупе, и вместе со Сварупой он совершал сокровенное служение Господу; шестнадцать лет длилось это служение, а после ухода Сварупы он пришёл во Вриндаван."
+  persons: ["@raghunatha-dasa", "@svarupa-damodara", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 6."
+  themes: [sannyasa, ecstasy]
+  teaching: [sannyasa-teaching]
+  cc: "Ади 10"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "91", to: "93"}
+
+- id: cc-0137
+  source: cc
+  ref: "Ади 10.94–104"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P15
+  order: 12
+  title: "Рагхунатха Дас во Вриндаване: хотел броситься с Говардханы, Рупа и Санатана удержали его; его подвижничество у Радха-кунды"
+  summary: "Рагхунатха решил: «Увижу стопы двух братьев во Вриндаване — и оставлю тело, бросившись с Говардханы»; придя, он поклонился Рупе и Санатане, но братья не дали ему умереть, приняли его третьим братом и держали при себе; из его уст они постоянно слушали внешние и сокровенные лилы Махапрабху; он оставил еду и питьё, лишь немного пахты; тысяча поклонов, сто тысяч имён, поклоны двум тысячам вайшнавов ежедневно; днём и ночью мысленное служение Радхе и Кришне, прахару — беседы о Махапрабху, трижды в день омовение в Радха-кунде, объятия и почтение вайшнавам Враджа; семь с половиной прахар садханы, сон — четыре данды, а в иные дни и того нет; автор называет Рупу и Рагхунатху своими владыками; как все они встретились с Господом — впереди."
+  persons: ["@raghunatha-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@krishnadasa-kaviraja", "@radha", "@krishna"]
+  places: ["#vrindavana", "#govardhana", "#radha-kunda"]
+  kind: lila
+  authority: A
+  themes: [separation, departure, krishna-lila]
+  teaching: [vaishnava, holy-name]
+  cc: "Ади 10"
+  event: ev-raghunatha-dasa-radha-kunda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "94", to: "104"}
+
+- id: cc-0138
+  source: cc
+  ref: "Ади 10.105"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 90
+  title: "Гопала Бхатта — лучшая ветвь: беседы о преме с Рупой и Санатаной"
+  summary: "Шри Гопала Бхатта — одна из лучших ветвей: в обществе Рупы и Санатаны он беседует о преме."
+  persons: ["@gopala-bhatta", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей)."
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  cc: "Ади 10"
+  event: ev-gopala-bhatta-comes-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "105", to: "105"}
