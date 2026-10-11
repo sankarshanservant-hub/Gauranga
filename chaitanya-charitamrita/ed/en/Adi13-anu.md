@@ -447,6 +447,94 @@ Siddhas: beings of divine birth who attained that birth through perfection in *m
 
 > Subheading: The auspicious rites of Mālinī Ṭhākurāṇī and the Lord's maternal aunt —
 
+## 111
+
+> Subheading: What Sītā Ṭhākurāṇī did —
+
+One day after the Lord's birthday, Advaita Prabhu's wife Sītādevī, with His permission, came with gifts from Śāntipura to Navadvīpa to see the child. Although Advaita Prabhu also had a house in Navadvīpa at that time, the words “in His own home” (Ādi 13.99) show that He was then staying in Śāntipura.
+
+## 112
+
+> Subheading: The ornaments of the Lord in the form of a child —
+
+*Kaḍi-bauli*: a golden waist ring; *pāśuli*: a particular silver ornament for the feet; *aṅgada* and *kaṅkaṇa*: golden bracelets — *curi*, *bālā*, *ananta*; *divya śaṅkha*: bangles made of conch shell (*śāṅkhā*); *malabaṅka*: curved anklets (*bāṅkmal*).
+
+## 113
+
+*Hemajaḍi*: a jeweled ornament set with a tiger's claw; *kaṭi-paṭṭasūtra-ḍorī*: a *ghunsi*, a waist string; *citravarṇa paṭṭasāḍī*: a colorful silk cloth; *buni photo paṭṭapāḍī*: a *phatuyā* with a woven silk border, that is, a little shirt for a baby.
+
+## 114
+
+> Subheading: Auspicious rites —
+
+*Gorocana*: a bright yellow substance obtained from a cow's head, or dried bile. *Kuṅkuma*: a fragrant substance native to Kashmir. “*Kuṅkuma* from the fields of Kashmir — with fine filaments, reddish, with the fragrance of a lotus — is the best. *Kuṅkuma* from the land of Bāhlīka — pale, with the fragrance of *ketakī*, with fine filaments — is middling. Persian *kuṅkuma* is said to smell of honey; it is slightly pale, with coarse filaments, and is the lowest.”
+
+*Vastragupta-dolā*: a litter (*ḍuli* or *thāñjām*) covered with cloth; *ceḍī*: a maidservant.
+
+## 115
+
+*Ṭhāma*: build; *kāna*: Kānu, that is, Kṛṣṇa. Kṛṣṇa's color is dark, like a dense *indranīla* sapphire; Viśvambhara's color is the opposite, golden (*gaura*).
+
+## 116
+
+> Subheading: Seeing the child's golden body, the women are filled with parental love —
+
+*Sunirmāṇa*: beautifully formed limbs; *bhāna*: appearance.
+
+## 117
+
+> Subheading: The child is blessed and a protective amulet is tied on Him —
+
+The two brothers are Viśvarūpa and Viśvambhara. *Ḍākinīs* and *śākhinīs* are the companions of Pārvatī and Maheśa, a particular class of malevolent ghosts (*preta*) born in female form. These lower deities (*apadevatās*) cannot approach the sacred *nimba* tree or places connected with it.
+
+## 118
+
+> Subheading: Śacī and Miśra show honor —
+
+“On the day of the mother's bath”: that is, on the day of the *niṣkrāmaṇa*, the child's first going out of the house. In Bengal in former times the *brāhmaṇas* and other *varṇas* observed the impurity of childbirth (*jananāśauca*) for four months, followed by the rite of seeing the sun (*sūrya-darśana*). Later, instead of four months, twenty-one days of birth impurity were prescribed for the twice-born *varṇas*, the *brāhmaṇas* and others, while among the *śūdras* and others a month is still observed. Among the Kartābhajās and in the Satīmā group the birth impurity ends at once, with a *harinuṭ* (a scattering of sweets in Hari's name).
+
+This custom at parting is still seen in Bengali social life. When relatives or in-laws visit someone's home, the householder honors them at their departure with cloth and other gifts. Having received such honor from Jagannātha Miśra and Śacīdevī, Sītā Ṭhākurāṇī returned to Śāntipura.
+
+## 119
+
+> Subheading: The joy of Śacī and Miśra at having a son —
+
+*Lokamānya-kalevara*, “a body honored by the world”: gods, humans and all others, drawn by the sight of Śrī Mahāprabhu's beauty, majesty and loveliness, showed honor to His body; seeing this, His father and mother rejoiced.
+
+## 120
+
+> Subheading: Miśra, a peaceful, self-controlled and generous Vaiṣṇava —
+
+Mundane, worldly people, for the sake of wife, sons and the like, take pride in enjoying wealth and bustle after it. The pure devotee Jagannātha Miśra was not like that. He offered everything he had to Bhagavān and gave the remnants to worthy recipients, *brāhmaṇas* and others. He accepted nothing for the sake of his own enjoyment.
+
+## 121
+
+> Subheading: Cakravartī casts the Lord's horoscope —
+
+*Gupte*: in private.
+
+## 122
+
+> Subheading: The glory of hearing of the Lord's birth —
+
+## 123
+
+> Subheading: The misfortune of worldly people hostile to Gaura —
+
+*Amṛta-dhunī*: a river of nectar. Whoever refuses to drink the water of the nectarean stream of devotion to Kṛṣṇa and drinks the water of the poisonous well of sense objects (harmful to the soul) is utterly dead, and should not go on living.
+
+In Śrīmat Prabodhānanda Sarasvatīpāda's *Caitanya-candrāmṛta*: “This world is without consciousness (*acaitanya*) if it does not worship Caitanya, the Lord whom the best of the immortals worship: death surrounds it on every side.” “This world is without consciousness if it does not know Caitanya, the Lord: such people, though they know all the scriptures, wander astray.” “Now that the moon of Caitanya has risen and the ocean of the nectarean *rasa* of great *prema* has spread wide, whoever remains poor is poor indeed.” “Now that Gauracandra has descended, the ocean of *prema* has spread wide and its heaps of jewels shine brightly, whoever remains poor is poor indeed.”
+
+The *Śrīmad-Bhāgavatam* (2.3.19, 20, 23) says: “A man into whose ears the name of Gadāgraja has never entered is an animal, praised by dogs, dung-eating hogs, camels and asses.” “O Sūta, the ears of a man who does not hear of the exploits of Urukrama are mere holes; and the wicked tongue that does not sing the songs of Urugāya is like the tongue of a frog.” “A mortal who has never taken on himself the dust of the feet of a *bhāgavata* is a corpse though alive; and a man who has never known the fragrance of the *tulasī* from Śrī Viṣṇu's feet is a breathing corpse.” (*Śrīmad-Bhāgavatam* 10.1.4): “The recounting of Uttamaśloka's qualities is sung by those free of thirst; it is the medicine for the disease of worldly existence and a delight to the ear and the mind. Who, except a killer of animals, would turn away from it?” (*Śrīmad-Bhāgavatam* 3.23.56): “… whoever does not live for the service of Him whose feet are holy places is dead though alive.”
+
+## 124
+
+The lotus feet of Śrī Mahāprabhu, Nityānanda, Advaita, Dāmodara Svarūpa, Rūpa and Raghunātha dāsa are the very own wealth of Śrī Kṛṣṇadāsa Kavirāja Gosvāmī and of the pure, or intimate, devotees who follow him. The wealth of worldly people is a price set by *māyā*; in truth it deserves the name “debt.” The *jīva* who has turned away from Kṛṣṇa does not know that the highest goal is wealth, and takes lust (*kāma*), a debt in the form of material enjoyment, to be “wealth.” Worldly *jīvas* bustle after the things they take for wealth, but in these the servants of Hari see only a growth of debt, not a growth of wealth. On the other hand, when Bhagavān makes someone rich by giving him the wealth of His mercy, He takes away his material riches. “Upon whom I bestow My mercy, I gradually take away his wealth”[^124-1]. Ṭhākura Narottama says: “My wealth is Nityānanda”; “The holy feet of Rādhā and Kṛṣṇa are the wealth of my life”; “Glory to You, O purifier of the fallen! Give me this wealth; nothing but You appeals to me”; “The feet of Śrī Rūpa-mañjarī are my treasure, my worship and adoration, the wealth of my life”; “Carelessly I lost the jewel-wealth of *prema*. Striving for what is no wealth, I gave up true wealth” — and so on.
+
+The *smārtas*, guided by the notion of kinship by seed, impute *śūdra*-hood — the lack of *brāhmaṇa* status — to the lotus feet of Śrī Raghunātha dāsa; in their wealth of devotion this is only a debt. But to realize transcendental *brāhmaṇa*-hood in his lotus feet is the devotee's very own wealth.
+
+*Thus ends the thirteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^61-1]: An anna is one sixteenth of the whole, and a *gaṇḍā* one twentieth of an anna; the three shares together make up the whole (16 annas).
@@ -454,3 +542,5 @@ Siddhas: beings of divine birth who attained that birth through perfection in *m
 [^74-1]: An incomplete line of the quotation; the translation is tentative.
 
 [^89-1]: The sun's horses are seven; that is, Śaka 1407.
+
+[^124-1]: *Śrīmad-Bhāgavatam* 10.88.8.
