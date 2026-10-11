@@ -56,6 +56,11 @@
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 288–318 — [288–318](../lochana/ru/05.md?plain=1#L67-L157) · `lcm-0017`
 
+## Брахма открывает Пиппаладе тайну явления Гауры и маха-мантру / Brahma reveals to Pippalada the secret of Gaura's advent and the maha-mantra  `ev-brahma-pippalada-gaura-prophecy`
+
+- chaitanya-upanishad (C): Шлоки 1–8 — [1–8](../chaitanya-upanishad/ru/01.md?plain=1#L21-L145) · `cup-0001`
+- chaitanya-upanishad (C): Шлоки 9–19 — [9–19](../chaitanya-upanishad/ru/01.md?plain=1#L159-L319) · `cup-0002`
+
 ## Брахма о юга-аватарах и золотом аватаре Кали / Brahma on the yuga-avataras and the golden avatara of Kali  `ev-brahma-yuga-avatara-discourse`
 
 - lochana-cm (B): Сутра-кханда, «Грантхарамбха», 319–347 — [319–347](../lochana/ru/05.md?plain=1#L162-L254) · `lcm-0018`

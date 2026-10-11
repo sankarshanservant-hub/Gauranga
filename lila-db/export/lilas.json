@@ -1007,6 +1007,126 @@
   "attestation": 1
  },
  {
+  "id": "cup-0001",
+  "source": "chaitanya-upanishad",
+  "ref": "Шлоки 1–8",
+  "file": "chaitanya-upanishad/ru/01.md",
+  "period": "P00",
+  "order": 29.5,
+  "title": "Брахма предрекает Пиппаладе явление Гауры в Навадвипе",
+  "summary": "Пиппалада спрашивает Брахму, как освободятся люди Кали; Брахма открывает тайну: на берегу Джахнави, в Навадвипе, именуемой Голокой, двурукий Говинда явится золотым Гаурой, в облике преданного, и явит миру бхакти; Брахма склоняется перед Чайтаньей, познаваемым через Веданту.",
+  "persons": [
+   "@brahma",
+   "@pippalada",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga",
+   "#goloka"
+  ],
+  "kind": "prophecy",
+  "authority": "C",
+  "parallels": "Бхаг. 11.5.32–34; Бхаг. 7.9.38; Бхаг. 10.8.13 (по комм. Бхактивиноды)",
+  "notes": "Пророчество ведийского образца; в традиции (Бхактивинода, Бхактисиддханта) принимается как шрути, категория C — как источник о событиях (см. SOURCES.md). Комм. Бхактивиноды: «саттва-рупа» — облик чистого духа; в Кали Господь — в облике преданного (бхакта-акара).",
+  "themes": [
+   "celestial",
+   "revelation"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "yuga-dharma"
+  ],
+  "scriptures": [
+   "Шветашватара-уп. 3.8",
+   "Бхаг. 11.5.33–34",
+   "Бхаг. 10.8.13",
+   "Бхаг. 7.9.38"
+  ],
+  "event": "ev-brahma-pippalada-gaura-prophecy",
+  "verses": [
+   {
+    "file": "chaitanya-upanishad/ru/01.md",
+    "from": "1",
+    "to": "8"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-upanishad/ru/01.md",
+    "from": "1",
+    "to": "8",
+    "line": 21,
+    "line_to": 145,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-upanishad/ru/01.md?plain=1#L21-L145",
+    "file_en": "chaitanya-upanishad/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-upanishad/en/01.md?plain=1#L21-L145"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cup-0002",
+  "source": "chaitanya-upanishad",
+  "ref": "Шлоки 9–19",
+  "file": "chaitanya-upanishad/ru/01.md",
+  "period": "P00",
+  "order": 29.6,
+  "title": "Брахма о маха-мантре, которую Гаура Сам будет повторять, и о Чайтанье как Пурушоттаме",
+  "summary": "Господь радует всё мантрой Своего имени; Он Сам повторяет коренную мантру «Хари, Кришна, Рама» (по комм. — «Харе Кришна…» из шестнадцати имён); толкование трёх имён; кто постоянно повторяет их, преодолевает майю; Чайтанья — источник всех богов и существ, Пурушоттама выше тленного и нетленного; служащий Ему достигает цели.",
+  "persons": [
+   "@brahma",
+   "@pippalada",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "prophecy",
+  "authority": "C",
+  "parallels": "Кали-сантарана-уп. (маха-мантра); Бг. 15.16–18",
+  "notes": "Пророчество-наставление в той же беседе (см. cup-0001).",
+  "themes": [
+   "teaching",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "gaura-tattva",
+   "maya"
+  ],
+  "scriptures": [
+   "Мундака-уп. 2.2.8",
+   "Бхаг. 1.2.21",
+   "Бхаг. 1.2.6",
+   "Бг. 15.16–18"
+  ],
+  "event": "ev-brahma-pippalada-gaura-prophecy",
+  "verses": [
+   {
+    "file": "chaitanya-upanishad/ru/01.md",
+    "from": "9",
+    "to": "19"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-upanishad/ru/01.md",
+    "from": "9",
+    "to": "19",
+    "line": 159,
+    "line_to": 319,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-upanishad/ru/01.md?plain=1#L159-L319",
+    "file_en": "chaitanya-upanishad/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-upanishad/en/01.md?plain=1#L159-L319"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0021",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Грантхарамбха», 450–467",
