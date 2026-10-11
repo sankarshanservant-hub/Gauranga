@@ -178,7 +178,7 @@
 | @jagadisha-mishra | Джагадиша, сын Адвайты | Jagadisha, Advaita's son | близнец Сварупы («Адвайта-пракаша») |
 | @anupama | Анупама (Валлабха) | Anupama (Vallabha) | младший брат Рупы и Санатаны, отец Дживы Госвами |
 | @jiva-gosvami | Джива Госвами | Jiva Gosvami | племянник Рупы и Санатаны; один из шести Госвами |
-| @prabodhananda-sarasvati | Прабодхананда Сарасвати | Prabodhananda Sarasvati | санньяси в Каши, обращённый Господом («Адвайта-пракаша»; в ЧЧ — Пракашананда) |
+| @prabodhananda-sarasvati | Прабодхананда Сарасвати | Prabodhananda Sarasvati | санньяси в Каши, обращённый Господом («Адвайта-пракаша» отождествляет с Пракашанандой ЧЧ; Бхактисиддханта («Анубхашья», Ади 7) это отвергает — см. @prakashananda-sarasvati) |
 | @suryadasa-pandita | Сурьядас Пандит (Саркхел) | Suryadasa Pandita (Sarakhela) | отец Васудхи и Джахнавы, тесть Нитьянанды |
 | @chhota-haridasa | Младший Харидас (певец) | Junior Haridasa (the singer) | певец при Господе в Пури, отвергнутый за разговор с женщиной (ЧЧ Антья 2); не путать с @haridasa-thakura |
 | @raghunatha-advaita-grandson | Рагхунатха, внук Адвайты | Raghunatha, Advaita's grandson | сын Кришна Мишры («Адвайта-пракаша»); не путать с @raghunatha-dasa, @raghunatha-bhatta |
@@ -262,7 +262,7 @@
 | @paramananda-gupta | Парамананда Гупта | Paramananda Gupta | спутник Господа в Навадвипе (ЧБ); по Маджумдару — автор пад с бханитой «Парамананда» о Навадвипе |
 | @ramachandra-poet | Рамачандра (Дас), поэт | Ramachandra (Dasa), the poet | автор пад о Гауре, приведённых в «Бхакти-ратнакаре» как свидетельство; личность не установлена (не @ramachandra-kaviraja?) |
 | @madhavi-dasa | Мадхави (Мадхави Дас), поэт | Madhavi (Madhavi Dasa), the poet | бханита «মাধবী দাস» / «মাধবি» в ПК 1853, 2239, 2240 (прибытие Господа в Пури, дом Сарвабхаумы); тождество с Мадхави Деви из Пури (ЧЧ Антья 2) не доказано |
-| @ananta-acharya | Ананта Ачарья | Ananta Acharya | спутник из ветви Адвайты, живший в Навадвипе (ЧЧ Ади 12); по Маджумдару — вероятный автор пады ПК 2285 о санньясе |
+| @ananta-acharya | Ананта Ачарья | Ananta Acharya | спутник, живший в Навадвипе (ЧЧ Ади 12 — в ветви Адвайты; ЧЧ Ади 8.59 — ученик Гададхары Пандита: одно ли это лицо — не выяснено); по Маджумдару — вероятный автор пады ПК 2285 о санньясе |
 | @ananta-dasa | Ананта Дас, поэт | Ananta Dasa, the poet | поэт ветви Адвайты, по Маджумдару — современник Господа; в ПК 32 пады с его подписью (2208, 2336 и др.) |
 | @chaitanya-dasa-poet | Чайтаньядас, поэт | Chaitanyadasa, the poet | автор пад о Гауре (ПК 463, 1169, 1985 и др.), по Маджумдару — вероятно, из ветви Гададхары, современник; не путать с @chaitanya-dasa (отцом Шринивасы) и @chaitanya-dasa-auliya |
 | @kanu-thakura | Кану Тхакур (Канудас, Канурам Дас), поэт | Kanu Thakura (Kanudasa, Kanurama Dasa), the poet | сын Пурушоттамы Даса, внук Садашивы Кавираджи, ветвь Нитьянанды (ЧЧ Ади 11); по Маджумдару — автор пад ПК 2321, 2327 и др. |
@@ -493,3 +493,43 @@
 | @ramadasa-gopa | Рамадас, пастух из Гадигачхи | Ramadasa, the cowherd of Gadigachha | сообщил Господу о крокодиле в пруду («Према-виварта» 15); не путать с @ramadasa-vipra |
 | @durvasa | Дурваса | Durvasa | мудрец, известный проклятиями; в «Према-виварте» 15 проклинает сына полубогов стать крокодилом |
 | @krishnadasa-sthaneshvari | Кришнадас («Стханешвари») | Krishnadasa ("Sthaneshvari") | в доме Каши Мишры просит Господа рассказать о славе Имени («Према-виварта» 20); отождествление неясно |
+| @suta-gosvami | Сута Госвами | Suta Gosvami | рассказчик «Шримад-Бхагаватам» в Наймишаранье |
+| @arjuna | Арджуна (Партха) | Arjuna (Partha) | собеседник Кришны в «Бхагавад-гите» и «Ади-пуране» |
+| @daruka | Дарука | Daruka | возничий Кришны в Двараке |
+| @minaketana-ramadasa | Минакетана Рамадас | Minaketana Ramadasa | слуга Нитьянанды, гость на киртане в доме Кришнадаса Кавираджи (ЧЧ Ади 5.161–178) |
+| @gunarnava-mishra | Гунарнава Мишра | Gunarnava Mishra | брахман, служивший Божеству в доме Кришнадаса Кавираджи; не встал навстречу Минакетане Рамадасу (ЧЧ Ади 5.168–171) |
+| @kaviraja-brother | брат Кришнадаса Кавираджи | Krishnadasa Kaviraja's brother | веривший в Чайтанью, но не в Нитьянанду; упрекнут автором (ЧЧ Ади 5.172–178) |
+| @prakashananda-sarasvati | Пракашананда Сарасвати | Prakashananda Sarasvati | глава санньяси-майявади в Каши, обращённый Господом (ЧЧ Ади 7, Мадхья 25); Бхактисиддханта («Анубхашья», Ади 7) отвергает отождествление с @prabodhananda-sarasvati |
+| @kashi-vipra-host | брахман в Каши, пригласивший Господа к санньяси | the brahmana of Kashi who invited the Lord to meet the sannyasis | ЧЧ Ади 7.52–58 (в Мадхья 17, 25 — брахман из Махараштры) |
+| @govinda-gosani | Говинда Госани (ученик Кашишвары) | Govinda Gosani (disciple of Kashishvara) | дорогой слуга Говинды во Вриндаване (ЧЧ Ади 8.66); не путать с @govinda-servant |
+| @yadavacharya-gosani | Ядавачарья Госани | Yadavacharya Gosani | спутник Рупы Госвами во Вриндаване (ЧЧ Ади 8.67) |
+| @chaitanya-dasa-pujari | Чайтанья Дас, пуджари Говинды | Chaitanya Dasa, the priest of Govinda | ученик Бхугарбхи (ЧЧ Ади 8.69); не путать с @chaitanya-dasa |
+| @mukundananda-chakravarti | Мукундананда Чакраварти | Mukundananda Chakravarti | ученик Бхугарбхи (ЧЧ Ади 8.69) |
+| @krishnadasa-premi | Кришнадас «премӣ» (ученик Бхугарбхи) | Krishnadasa the loving (disciple of Bhugarbha) | ЧЧ Ади 8.69; не путать с другими Кришнадасами |
+| @gosani-dasa-pujari | Госани Дас, пуджари Мадана-мохана | Gosani Dasa, the priest of Madana-mohana | надел автору гирлянду Мадана-мохана (ЧЧ Ади 8.74–76) |
+| @damayanti | Дамаянти (сестра Рагхавы Пандита) | Damayanti (sister of Raghava Pandita) | весь год готовила угощения для Господа, которые Рагхава привозил в Пури («Рагхавера джхали», ЧЧ Ади 10.25–27) |
+| @shriman-sena | Шриман Сена | Shriman Sena | главный слуга Господа (ЧЧ Ади 10.52); не путать с @shriman-pandita |
+| @chaitanya-dasa-shivananda-son | Чайтанья Дас (сын Шивананды Сены) | Chaitanya Dasa (son of Shivananda Sena) | старший сын Шивананды (ЧЧ Ади 10.62); не путать с @chaitanya-dasa и др. |
+| @ramadasa-shivananda-son | Рамадас (сын Шивананды Сены) | Ramadasa (son of Shivananda Sena) | ЧЧ Ади 10.62; не путать с @abhirama (Рамадас Абхирама) |
+| @shrivallabha-sena | Шриваллабха Сена | Shrivallabha Sena | родственник Шивананды Сены, вместе со @shrikanta-sena (ЧЧ Ади 10.63) |
+| @akinchana-krishnadasa | Акинчана Кришнадас | Akinchana Krishnadasa | «неимущий» Кришнадас, дорогой Господу (ЧЧ Ади 10.66); не путать с другими Кришнадасами |
+| @bhagavan-pandita | Бхагаван Пандит | Bhagavan Pandita | дорогой слуга Господа; «в его теле прежде пребывал Кришна» (ЧЧ Ади 10.69); не путать с @bhagavan-acharya |
+| @vanamali-pandita | Ванамали Пандит | Vanamali Pandita | видел в руках Господа золотые палицу и плуг (ЧЧ Ади 10.73); тождество с @vanamali-acharya не установлено |
+| @shankararanya | Шанкараранья | Shankararanya | «ветвь древа Ачарьи» (ЧЧ Ади 10.106); отождествление (напр., с санньяси-именем @vishvarupa) здесь не устанавливается |
+| @jagannatha-acharya-ganga | Джаганнатха Ачарья (жил у Ганги) | Jagannatha Acharya (who lived by the Ganga) | по велению Господа поселился у Ганги (ЧЧ Ади 10.108); не путать с @jagannatha-acharya-shakta |
+| @vaninatha-vasu | Ванинатха Васу | Vaninatha Vasu | из Кулинаграмы (ЧЧ Ади 10.81); не путать с @vaninatha-raya |
+| @gopinatha-pattanayaka | Гопинатха Паттанаяк | Gopinatha Pattanayaka | сын Бхавананды Рая, брат Рамананды Рая (ЧЧ Ади 10.133; Антья 9) |
+| @kalanidhi | Каланидхи | Kalanidhi | сын Бхавананды Рая (ЧЧ Ади 10.133) |
+| @sudhanidhi | Судханидхи | Sudhanidhi | сын Бхавананды Рая (ЧЧ Ади 10.133) |
+| @ramai-puri | Рамаи (слуга в Пури) | Ramai (servant in Puri) | помогал Говинде, носил Господу воду — 22 кувшина в день (ЧЧ Ади 10.143–144); не путать с @ramai-blind, @ramai-jahnava |
+| @nandai | Нандаи | Nandai | слуга Господа в Пури, помощник Говинды (ЧЧ Ади 10.143–144) |
+| @bada-haridasa | Старший Харидас (Бада Харидас, певец) | Senior Haridasa (Bada Haridasa, the singer) | певец при Господе в Пури (ЧЧ Ади 10.147); не путать с @chhota-haridasa, @haridasa-thakura |
+| @raghunatha-vaidya-upadhyaya | Рагхунатха Вайдья (Упадхьяя) | Raghunatha Vaidya (Upadhyaya) | ветвь Нитьянанды: «при виде его пробуждается любовь к Кришне» (ЧЧ Ади 11.22); тождество с Рагхунатхой Вайдьей из преданных Нилачалы (ЧЧ Ади 10.124–126) не установлено |
+| @paramananda-upadhyaya | Парамананда Упадхьяя | Paramananda Upadhyaya | слуга Нитьянанды (ЧЧ Ади 11.44) |
+| @hoda-krishnadasa | Хода Кришнадас | Hoda Krishnadasa | ветвь Нитьянанды: «для него Нитьянанда — сама жизнь» (ЧЧ Ади 11.47); не путать с @kaliya-krishnadasa |
+| @kamalakanta-vishvasa | Камалаканта Вишвас | Kamalakanta Vishvasa | слуга Адвайты; письмом Пратапарудре о долге Адвайты навлёк наказание Господа («баулия»), затем прощён (ЧЧ Ади 12.28–55) |
+| @dhruvananda-brahmachari | Дхрувананда Брахмачари | Dhruvananda Brahmachari | лучшая из подветвей Гададхары Пандита (ЧЧ Ади 12.79; ГГД 152) |
+| @upendra-mishra | Упендра Мишра | Upendra Mishra | дед Господа по отцу, вайшнав из Шрихатты, отец семерых сыновей (ЧЧ Ади 13.56–58; ГГД 35 — пастух Парджанья) |
+| @jayadeva | Джаядева (Госвами) | Jayadeva (Gosvami) | поэт, автор «Гита-говинды»; его песни вкушал Господь (ЧЧ Ади 13.42) |
+| @chandidasa | Чандидас | Chandidasa | бенгальский поэт, певец лил Радхи и Кришны; его песни вкушал Господь (ЧЧ Ади 13.42) |
+| @vijaya-acharya | Виджая Ачарья | Vijaya Acharya | житель Навадвипы, в доме которого Господь провёл ночь, бросившись в Гангу (ЧЧ Ади 17.246); отождествление с @vijaya-dasa не установлено |
