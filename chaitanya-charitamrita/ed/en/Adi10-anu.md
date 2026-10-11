@@ -278,6 +278,110 @@ Karṇapūra is Paramānanda dāsa, also called Purīdāsa or Kavi-karṇapūra.
 
 Śrī Vallabha Sena and Śrīkānta Sena were the sons of Śivānanda's sister. When they were coming to Purī, Nityānanda Prabhu abused, cursed and kicked their maternal uncle Śivānanda. Śrīkānta took offense, left the party and came to Mahāprabhu ahead of the others. The omniscient Lord knew this and told Govinda to give him His own *prasāda* for as long as he stayed in Nīlācala. At the Ratha-yātrā these two brothers were singers in Mukunda's party, one of the seven *kīrtana* parties (Madhya 13.41). In the *Gaura-gaṇoddeśa* (verse 174): “She who in Vraja was Kātyāyanī is now Śrīkānta Sena.”
 
+## 64
+
+> Subheading: (25) Śrī Govindānanda and (26) Śrī Govinda Datta —
+
+Govindānanda was Mahāprabhu's companion in His first *kīrtana* in Navadvīpa. On the day the Lord drank water at Śrīdhara's house, he wept. He went to Puruṣottama for the Ratha-yātrā.
+
+Govinda Datta was the Lord's companion in *kīrtana* in Navadvīpa and sang *kīrtana* with Mahāprabhu as the lead singer (*Caitanya-bhāgavata*, Antya, Chapter 9): “… he who, as lead singer, performs *kīrtana* with the Lord.” His *śrīpāṭa* is in the village of Sukhacara on the southern border of Khaḍadaha.
+
+## 65
+
+> Subheading: (27) Śrī Vijaya dāsa —
+
+Vijaya dāsa was a scribe of Navadvīpa, one of the nine *nidhis*. He copied many books for the Lord, and for this Gaurahari gave him the name “Ratnabāhu.” On the mercy Mahāprabhu showed Vijaya in Śuklāmbara's house, see the *Caitanya-bhāgavata*, Madhya, Chapter 25.
+
+## 66
+
+> Subheading: (28) Akiñcana Kṛṣṇadāsa —
+
+Akiñcana Kṛṣṇadāsa lived in Navadvīpa and was the Lord's companion. He came to Puruṣottama for the Ratha-yātrā. See the *Caitanya-bhāgavata*, Antya, Chapter 9.
+
+## 67
+
+> Subheading: (29) The virtues of Śrīdhara —
+
+## 67–68
+
+Śrīdhara was a poor brāhmaṇa of Navadvīpa who lived on what the banana groves gave him. On the Lord's snatching from Śrīdhara, see the *Caitanya-bhāgavata*, Ādi, Chapter 8; on the Lord's mercy to Śrīdhara during the *sāt-prahariyā bhāva*, Madhya, Chapter 9; on Śrīdhara's dancing when he heard the *kīrtana* on the day the Kazi was subdued, the beginning of Madhya, Chapter 23; on the Lord's drinking water in great joy from his old, holed iron pot, the end of Madhya, Chapter 23; and on how, the night before His *sannyāsa*, the Lord had Śacīdevī cook the gourd Śrīdhara had brought and ate it, Madhya, Chapter 16. He used to go to Puruṣottama for the Ratha-yātrā. According to Karṇapūra he is one of the twelve *gopālas*, “Kusumāsava-gopāla.” In the *Gaura-gaṇoddeśa* (verse 133): “Paṇḍita Śrīdhara, the brāhmaṇa famed as a seller of *kholā* (banana bark), was in Vraja the jester named Kusumāsava.”
+
+## 69
+
+> Subheading: (30) Śrī Bhagavān Paṇḍita —
+
+Bhagavān Paṇḍita. *Caitanya-bhāgavata*, Antya, Chapter 9: “The scribe Paṇḍita Bhagavān set out, in whose body Kṛṣṇa had resided.”
+
+## 70
+
+> Subheading: (31) Śrī Jagadīśa Paṇḍita and (32) Hiraṇya —
+
+## 70–71
+
+Jagadīśa Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 192): “Two other wives of the sacrificing brāhmaṇas are Śrī Jagadīśa and Hiraṇya, whose food the Lord begged and ate on Ekādaśī.” Verse 143: “He who in Vraja was Candrahāsa, a dancer expert in *rasa*, is this Śrī Jagadīśa Paṇḍita, who delights in dancing.” How on the day of Ekādaśī the Lord ate the food offered to Viṣṇu in the house of Hiraṇya and Jagadīśa is described in CC Ādi 11.30 and 14.39 and in the *Caitanya-bhāgavata*, Ādi, Chapter 4. *Caitanya-bhāgavata*, Antya, Chapter 6: “Jagadīśa Paṇḍita is the abode of supreme effulgence; Nityānanda with His associates is his wealth and life.”
+
+Hiraṇya Paṇḍita. *Caitanya-bhāgavata*, Antya, Chapter 5: Nityānanda, alone and wearing very costly ornaments, was staying in Navadvīpa in the house of a good brāhmaṇa named Hiraṇya Paṇḍita. A chief of robbers tried again and again to take those ornaments from His body, but in the end, his plans frustrated, he took shelter at Nitāi's feet.
+
+## 72
+
+> Subheading: (33) Śrī Puruṣottama and (34) Śrī Sañjaya —
+
+Puruṣottama and Sañjaya. These two *paṇḍitas* lived in Navadvīpa: first they were the Lord's students, and later, when the *kīrtana* began, His companions. *Caitanya-bhāgavata*, Ādi, Chapter 10: “… Mukunda Sañjaya, a servant for many births. Puruṣottama dāsa is his son. Every day Gauracandra goes to teach at that fortunate man's home. The Lord first comes and sits in the Caṇḍī-maṇḍapa, and then the students gather one by one.” *Caitanya-bhāgavata*, Antya, Chapter 9: “Puruṣottama Sañjaya set out with a joyful heart, he who was formerly the Lord's chief student.” Thus, according to the description in the *Caitanya-bhāgavata*, Puruṣottama Sañjaya is the son of Mukunda Sañjaya. But Kavirāja Gosvāmī, intending to speak of two persons named “Puruṣottama” and “Sañjaya,” used these two words three times and so corrected the idea of the *Caitanya-bhāgavata*.
+
+## 73
+
+> Subheading: (35) The branch of Śrī Vanamālī Paṇḍita —
+
+Vanamālī Paṇḍita. “The auspicious Vanamālī Paṇḍita set out, he who saw the golden plough and club.” In the *Gaura-gaṇoddeśa* (verse 144): “He who in Vraja, named Mālādhara, held the *veṇu* and the *muralī* (flutes) is now called Vanamālī Paṇḍita and is dear to Gaura.” He saw the Lord in the mood of Baladeva. CC Ādi 17.119 and the *Caitanya-bhāgavata*, Antya, Chapter 9: in Śrīvāsa's house the Lord ascended the throne of Viṣṇu, took the plough and club from Nityānanda Prabhu and displayed a pastime; but it is not mentioned there that on that day Vanamālī Paṇḍita saw a golden plough and club in the Lord's hands.
+
+## 74
+
+> Subheading: (36) Śrī Buddhimanta Khān —
+
+Buddhimanta Khān was a wealthy devotee of Navadvīpa. He bore all the expenses of the Lord's second marriage, to Viṣṇupriyā Devī, the daughter of the royal *paṇḍita* Sanātana Miśra. When the Lord suffered a disorder of *vāyu* (air in the body), he arranged His treatment. He was the Lord's companion in water sports and in *kīrtana*, and in Candraśekhara's house, when the Lord enacted the play in the guise of Mahā-lakṣmī, he collected the clothes, ornaments and other things. He went to Nīlācala for the Ratha-yātrā.
+
+## 75
+
+> Subheading: (37) Śrī Garuḍa Paṇḍita —
+
+Garuḍa Paṇḍita lived in Navadvīpa and was the Lord's companion. *Caitanya-bhāgavata*, Antya, Chapter 9: “Śrī Garuḍa Paṇḍita set out joyfully, he whom snake poison could not overcome by the power of the holy name.” In the *Gaura-gaṇoddeśa* (verse 17): “Garuḍa Paṇḍita is now he who was formerly known as Garuḍa.”
+
+## 76
+
+> Subheading: (38) Śrī Gopīnātha Siṁha —
+
+Gopīnātha Siṁha. *Caitanya-bhāgavata*, Antya, Chapter 9 (at the Ratha-yātrā): “Gopīnātha Siṁha Mahāśaya set out, he whom Gauracandra calls ‘Akrūra.’” In the *Gaura-gaṇoddeśa* (verse 117): “He who was formerly named Akrūra is this Gopīnātha Siṁha.”
+
+## 77
+
+> Subheading: (5a) The branch of Devānanda Paṇḍita —
+
+Devānanda. *Caitanya-bhāgavata*, Madhya, Chapter 21: “The Lord Viśvambhara went to the embankment of Maheśvara Viśārada, the father of Sārvabhauma. There Devānanda Paṇḍita lived.” CC Madhya 1.153: “In the village of Kuliyā He bestowed His mercy on Devānanda.” He desired liberation (he was a *mumukṣu*) and used to recite the *Bhāgavatam*. One day, during his recitation, Śrīvāsa Paṇḍita began to weep, and Devānanda's godless students drove Śrīvāsa out (*Caitanya-bhāgavata*, Madhya, Chapters 9 and 21). Long afterwards, one day Mahāprabhu came that way and saw Devānanda explaining the *Bhāgavatam*. In anger the Lord sharply rebuked Devānanda, who had no faith in the Vaiṣṇavas. Devānanda had no faith in Mahāprabhu either. But by his great good fortune Vakreśvara Paṇḍita once stayed at his house and sang *kīrtana* of Kṛṣṇa. Then by Vakreśvara's grace Devānanda understood the Lord's greatness, and the Lord told him to explain the *Bhāgavatam* in terms of devotion. He is Bhāguri Muni, the court *paṇḍita* of Nanda in Vraja: see the *Gaura-gaṇoddeśa*, verses 106 and 77.
+
+## 78
+
+> Subheading: (39) Mukunda, (40) Narahari, (41) Cirañjīva and (42) Sulocana of Śrī Khaṇḍa —
+
+Mukunda dāsa was the son of Nārāyaṇa dāsa and the elder brother of Narahari Sarakāra Ṭhākura; the middle brother's name was Mādhava dāsa. His son was Raghunandana. Raghunandana's descendants still live in the village of Śrīkhaṇḍa, four miles west of Kāṭoyā. Raghunandana's son was Kānāi, and Kānāi had two sons: Madana Rāya (a disciple of Narahari Ṭhākura) and Vaṁśīvadana. In this family somewhat more than four hundred persons have been born up to the present. Their unbroken genealogy is kept at Śrīkhaṇḍa. In the *Gaura-gaṇoddeśa-dīpikā* (verse 170): “She who was formerly the mistress of Vraja, named Vṛndā-devī, is now Śrī Mukunda dāsa of Khaṇḍa, dear to the Lord.” For a description of Mukunda's most wonderful love for Kṛṣṇa, see this book, Madhya 15.113–131.
+
+Raghunandana served the Deity of Śrī Gaura (see the *Bhakti-ratnākara*, eighth wave). In the *Gaura-gaṇoddeśa* (verse 70): “The third *vyūha*, Pradyumna, became the dear confidential friend (*priya-narma-sakha*) who assisted Rādhā and Mādhava in Their pastimes in Vraja.” He is the third *vyūha*, Pradyumna Viṣṇu (see “Mukunda dāsa” above). For a description of the great festival at Śrīkhaṇḍa, see the *Bhakti-ratnākara*, ninth wave.
+
+Narahari dāsa Sarakāra Ṭhākura. In the *Gaura-gaṇoddeśa* (verse 177[^78-1]): “She who was formerly Madhumatī in Vṛndāvana, a dearest friend, is now the one called Narahari Sarakāra, dear to the Lord.” His disciple was Śrī Locana dāsa Ṭhākura of Kogrāma near Jhāmaṭapura, the author of the *Śrī Caitanya-maṅgala*. In that book Śrī Gadādhara and Śrī Narahari are described as most dear to Śrī Mahāprabhu. In the *Caitanya-bhāgavata*, however, there is hardly any special mention of the residents of Khaṇḍa.
+
+Cirañjīva and Sulocana were both residents of Khaṇḍa. Their homes can still be seen in Śrīkhaṇḍa, and their descendants are living. Cirañjīva Sena had two sons: the elder, Rāmacandra Kavirāja, was a disciple of Śrīnivāsa Ācārya and a companion of Ṭhākura Mahāśaya; the younger was Govinda dāsa Kavirāja, the composer of *padas*. Cirañjīva's wife was Sunandā, and his father-in-law was Dāmodara Sena Kavirāja of Khaṇḍa. Cirañjīva formerly lived in the village of Kumāranagara on the bank of the Bhāgīrathī (*Bhakti-ratnākara*).
+
+Cirañjīva is Candrikā of Vraja. *Gaura-gaṇoddeśa*, verses 197 and 207: “Cirañjīva and Sulocana of Khaṇḍa, great through their association with Narahari, whose only shelter is Gaurāṅga.”
+
+## 80
+
+> Subheading: Residents of Kulīnagrāma — (20b) Rāmānanda, (20c) Yadunātha, (20d) Puruṣottama, (20e) Śaṅkara, (20f) Vidyānanda —
+
+Rāmānanda Vasu. In the *Gaura-gaṇoddeśa*: “Kalakaṇṭhī and Sukaṇṭhī, the two singer-actresses in Vraja, are Rāmānanda Vasu and Satyarāja respectively.” Yadunātha, Puruṣottama, Śaṅkara, Vidyānanda and the others were all born in the Vasu family. Everyone in this Vasu family was a devotee of Kṛṣṇa and highly skilled in dramatic performances of Kṛṣṇa's pastimes; the memory of these performances is preserved even today. They were pure devotees, followers of Haridāsa Ṭhākura. See the comment on verse 48 above.
+
+## 81
+
+> Subheading: (20g) The glory of the residents of Kulīnagrāma headed by Vāṇīnātha Vasu —
+
 ---
 
 [^14-1]: The edition reads *śakti adhastana*, literally “descendants by *śakti*”; the sense probably requires *śaukra* (শৌক্র), “descendants by birth.”
@@ -287,3 +391,5 @@ Karṇapūra is Paramānanda dāsa, also called Purīdāsa or Kavi-karṇapūra.
 [^35-1]: The edition reads “Madhya, Chapter 1, 55–62”; the episode is in Madhya 1.155–162.
 
 [^48-1]: The edition reads “Madhya, Chapter 10, 100–101”; these words of the Lord are in Madhya 15.100–101.
+
+[^78-1]: An unclear place in the scan: the middle digit of the verse number is damaged; probably 177.
