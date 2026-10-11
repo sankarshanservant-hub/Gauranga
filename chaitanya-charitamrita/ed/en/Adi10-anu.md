@@ -120,8 +120,78 @@ Purandara Ācārya. *Caitanya-bhāgavata*, Antya, Chapter 5: “As soon as the L
 
 Dāmodara Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 169): “The fierce Śaibyā who was in Vraja is Dāmodara Paṇḍita. For some purpose the goddess Sarasvatī entered him.” By the Lord's order Dāmodara would come to Gauḍa to see Āi (Śacīmātā), and then, before the Ratha-yātrā, go again with the devotees to Puruṣottama (*Caitanya-bhāgavata*, Antya, Chapter 9). For the Lord's question about Śacīdevī's devotion to Kṛṣṇa and Dāmodara Paṇḍita's answer, see the *Caitanya-bhāgavata*, Antya, Chapter 10. For Dāmodara's verbal chastisement of the Lord, see Antya-līlā, Chapter 3.
 
+## 33
+
+> Subheading: (11) The greatness and the branch of Śrī Śaṅkara Paṇḍita —
+
+Śaṅkara Paṇḍita. In the *Gaura-gaṇoddeśa* (verse 157): “She on whose breast Kṛṣṇa formerly slept in Vṛndāvana, Śrī Bhadrā, is now Śaṅkara Paṇḍita, dear to Gaurāṅga.” See Antya 19.67–74.
+
+Mahāprabhu's love for Paṇḍita Dāmodara was mixed with reverence, while for his younger brother, Paṇḍita Śaṅkara, He had pure (*kevala*) *prema*: see Madhya 11.146–148.
+
+## 34
+
+> Subheading: (12) Śrī Sadāśiva Paṇḍita —
+
+Sadāśiva Paṇḍita. *Caitanya-bhāgavata*, Antya, Chapter 9 (at the time of the Ratha-yātrā): “Sadāśiva Paṇḍita, pure of mind, set out — he in whose house Nityānanda formerly lived.”
+
+He lived in Navadvīpa and was the Lord's companion in *kīrtana*. On returning from Gayā, Mahāprabhu told him and other devotees, in Śuklāmbara's house, of His own worship of Kṛṣṇa. When Mahāprabhu was going to dance in Candraśekhara's house in the guise of Lakṣmī, He told Sadāśiva to prepare the costumes and everything else for the play (*Caitanya-bhāgavata*, Madhya, Chapter 18).
+
+## 35
+
+> Subheading: (13) Śrī Pradyumna Brahmacārī —
+
+Pradyumna Brahmacārī. Antya, Chapter 2: “His own name was Pradyumna Brahmacārī; Gaura, the abode [of all], named him ‘Nṛsiṁhānanda.’” (CC Antya 2.53) Coming from Rāghava's house in Pāṇihāṭī to Śivānanda's house in Kumārahaṭṭa, Mahāprabhu appeared within his heart and accepted the offerings meant for three — Jagannātha, Nṛsiṁha and Himself (CC Antya 2.48–78). When he heard in Kuliyā that Mahāprabhu was going to Vṛndāvana, he became absorbed in meditation and in his mind built a road from Kuliyā to Vṛndāvana. Then his meditation broke, and he told the devotees that this time the Lord would go only as far as Kānāi Nāṭaśālā and would not go to Vṛndāvana (Madhya 1.155–162).[^35-1]
+
+In the *Gaura-gaṇoddeśa* (verse 74): “*Āveśa* should likewise be recognized in the Miśra named Pradyumna.” *Caitanya-bhāgavata*, Antya, Chapter 3: “… in whose body Nṛsiṁha is manifest”; and Antya, Chapter 9: “… with whom Nṛsiṁha Himself converses face to face.”
+
+## 36
+
+> Subheading: (14) Śrī Nārāyaṇa Paṇḍita —
+
+Nārāyaṇa Paṇḍita went to Nīlācala with Śrīrāma Paṇḍita, the brother of Śrīvāsa, to see Śrī Mahāprabhu. See the *Caitanya-bhāgavata*, Antya, Chapter 9, verse 93.
+
+## 37
+
+> Subheading: (15) The branch of Śrī Śrīmān Paṇḍita —
+
+Śrīmān Paṇḍita lived in Śrī Navadvīpa and was the Lord's companion in His first *kīrtana*. On the day of the play, when the Lord danced in the mood of the Goddess, and whenever the Lord danced, he held a lighted torch. *Caitanya-bhāgavata*, Madhya, Chapter 18: “In the guise of Ādyā-śakti the Lord, Gaura the lion, dances, and all the bees at His feet joyfully watch … Paṇḍita Śrīmān holds the torch before Him.”
+
+## 38
+
+> Subheading: (16) Śrī Śuklāmbara Brahmacārī —
+
+Śuklāmbara Brahmacārī lived in Śrī Navadvīpa and was the Lord's companion in His first *kīrtana*. On returning from Gayā, Mahāprabhu gathered the devotees in his very house and asked to hear the narrations of Kṛṣṇa from him (*Caitanya-bhāgavata*, Madhya, Chapter 1). In His Navadvīpa pastimes Mahāprabhu, in great joy, would snatch and eat the rice cooked from the grain Śuklāmbara had collected as alms (*Caitanya-bhāgavata*, Madhya, Chapters 16 and 25). In the *Gaura-gaṇoddeśa* (verse 191): “Śuklāmbara Brahmacārī was formerly one of the wives of the sacrificing brāhmaṇas; the Lord, Śrī Gaurāṅga, begged his food and ate it. Some say that this *brahmacārī* was formerly a brāhmaṇa who performed sacrifice.”
+
+## 39
+
+> Subheading: (17) The branch of Śrī Nandana Ācārya —
+
+Nandana Ācārya lived in Navadvīpa and was the Lord's companion in *kīrtana*. After travelling to many holy places in the dress of an *avadhūta*, Śrī Nityānanda Prabhu came first to his house. There Mahāprabhu met Him together with the devotees. On the day of the Mahā-prakāśa, Mahāprabhu sent Rāmāi Paṇḍita to bring Advaita Prabhu. Advaitācārya was hiding in Nandanācārya's house, but Gaurasundara, who knows every heart, came to know of it. Śrī Mahāprabhu too once hid in his house. See the *Caitanya-bhāgavata*, Madhya, Chapters 6 and 17.
+
+## 40
+
+> Subheading: (18) The branch of Śrī Mukunda Datta —
+
+Śrī Mukunda Datta was born in the village of Chanharā, under the Paṭiyā police station in Caṭṭagrāma district, ten *krośas* from Mekhalā, the village of Vidyānidhi's *śrīpāṭa*. In the *Gaura-gaṇoddeśa* (verse 140): “Madhukaṇṭha and Madhuvrata, the two singers in Vraja, are Mukunda and Vāsudeva, the two Dattas, the singers of Gaurāṅga.”
+
+In His student days Nimāi used to argue with His classmate Mukunda, posing trick questions of logic (*nyāya*) (*Caitanya-bhāgavata*, Ādi, Chapters 5 and 8). When the Lord returned from Gayā, mad with love for Kṛṣṇa, Mukunda would delight Him by reciting verses of the *Bhāgavatam*. It was through his efforts that his companion Śrī Gadādhara Paṇḍita Gosvāmī took initiation from Śrī Vidyānidhi (Madhya, Chapter 7). When he sang *kīrtana* in Śrīvāsa's courtyard, Mahāprabhu would dance and sing. During the *bhāva* that lasted seven *praharas* (“*sāt-prahariyā*”), he sang the “Abhiṣeka.” For the Lord's punishment of Mukunda and His mercy to him, see the *Caitanya-bhāgavata*, Madhya, Chapter 10. When the Lord danced in Candraśekhara's house in the guise of Lakṣmī, it was he who first began to sing.
+
+After telling Nityānanda Prabhu that He would take *sannyāsa*, the Lord went to Mukunda's house. Hearing everything, Mukunda begged the Lord to continue His *kīrtana* pastimes in Navadvīpa a few days longer (*Caitanya-bhāgavata*, Madhya, Chapter 25). When Mukunda learned of the Lord's *sannyāsa* from Nityānanda's lips, he went to Kāṭoyā with Gadādhara and Candraśekhara. There he sang *kīrtana* and performed everything proper to the Lord's *sannyāsa*. After the *sannyāsa* he followed the Lord together with Nitāi, Gadādhara and Govinda (Madhya, Chapter 26; Antya, Chapter 1), and in this way followed Him all the way to Puruṣottama (see Antya, Chapter 2). On the way to Jaleśvara he was present when Nityānanda broke the Lord's *daṇḍa*, and he reached Jaleśvara shortly after the Lord. Every year he came with the devotees from Gauḍa to Nīlācala to see the Lord.
+
+## 41
+
+> Subheading: (19) The virtues of Śrī Vāsudeva Datta Ṭhākura —
+
+Śrī Vāsudeva Datta was born in Caṭṭagrāma; he was the brother of Mukunda Datta. *Caitanya-bhāgavata*, Antya, Chapter 9: “… to whom Kṛṣṇa Himself is sold.” When the Lord was staying at Śrīvāsa's house in Kumārahaṭṭa (*Caitanya-bhāgavata*, Antya, Chapter 5): “Such was the Lord's love for Datta! The Lord says: ‘I certainly belong to Vāsudeva … This body of Mine belongs to Vāsudeva Datta. Wherever Datta sells Me, there I am sold. It is true, true — it cannot be otherwise. I speak the truth; hear, O assembly of Vaiṣṇavas: this body of Mine belongs to Vāsudeva alone.’”
+
+Yadunandana Ācārya, who received his mercy, was the *dīkṣā-guru* of Śrī Raghunātha dāsa Gosvāmī (Antya 6.161). Seeing his tendency to spend lavishly, the Lord ordered Śivānanda Sena to become his *sarakhela* (manager) and to manage his expenses (Madhya 15.93–96). For his prayer to Mahāprabhu on seeing the suffering of the *jīvas*, see Madhya 15.159–180.
+
+On the E.I.R. line, one mile from Pūrvasthalī station, in the village of Māmagāchi, the birthplace of Ṭhākura Vṛndāvana, the Śrī Madana-Gopāla he established still resides. His service is very much neglected. It is desirable that His service be made splendid.
+
 ---
 
 [^14-1]: The edition reads *śakti adhastana*, literally “descendants by *śakti*”; the sense probably requires *śaukra* (শৌক্র), “descendants by birth.”
 
 [^17-1]: An unclear place in the quotation: the words “her age is the measure” are not connected to anything in the extract; perhaps the statement of the age itself has been left out.
+
+[^35-1]: The edition reads “Madhya, Chapter 1, 55–62”; the episode is in Madhya 1.155–162.
