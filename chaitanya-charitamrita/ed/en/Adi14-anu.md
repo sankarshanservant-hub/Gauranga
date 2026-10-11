@@ -227,3 +227,79 @@ Lakṣmī-devī: *Gaura-gaṇoddeśa-dīpikā* (45): “Śrī Jānakī and Rukmi
 ## 72
 
 > Subheading: Śacī tries to catch Nimāi —
+
+## 73
+
+> Subheading: Nimāi sits on the discarded pots —
+
+The *Caitanya-bhāgavata* (Ādi, Chapter 7): “The Lord made all the discarded pots from Viṣṇu's *naivedya* His seat and sat on them. His mother came, saw this and cried: ‘Alas, alas! It isn't right, my son, to sit in such a place!’ The Lord said: ‘Everywhere My knowledge is nondual. In these pots there is, at root, no defilement. Pots in which food is cooked for Viṣṇu are never defiled; touching such pots purifies other places too.’”
+
+## 74
+
+> Subheading: Thinking her son defiled, Śacī wants to purify Him —
+
+## 75
+
+> Subheading: The son instructs His mother in the knowledge of Brahman —
+
+## 76
+
+> Subheading: At bedtime Śacī sees the gods —
+
+## 78
+
+> Subheading: As He goes at His mother's word, ankle bells ring though He wears none —
+
+## 79
+
+> Subheading: Miśra's astonishment —
+
+## 80
+
+> Subheading: Śacī's astonishment at seeing the gods —
+
+## 82
+
+> Subheading: Both think of Nimāi's welfare —
+
+## 83
+
+> Subheading: Seeing the Lord's mischief, Miśra scolds Him severely —
+
+## 84
+
+> Subheading: At night a dream: a brāhmaṇa rebukes Miśra —
+
+## 86
+
+> Subheading: Miśra's transcendental reply, steeped in affection —
+
+## 88
+
+> Subheading: The brāhmaṇa's words and Miśra's reply —
+
+See Antya 4.174–176. The Lord's words to Uddhava (*Śrīmad-Bhāgavatam* 11.28.4): “What is good and what is bad in duality, which is not reality — and to what extent? Whatever is spoken in words and conceived in the mind is false.” That is, “in the transcendental there is no notion of things as good and bad” (*Caitanya-caritāmṛta*, Antya 4.174). “In duality, every notion of good and bad is a mere product of the mind; ‘this is good, this is bad’ — all this is error” (*Caitanya-caritāmṛta*, Antya 4.176). (*Śrīmad-Bhāgavatam* 11.19.45): “To see good and bad qualities is itself the fault; the virtue is to be free of both.” And (*Śrīmad-Bhāgavatam* 11.21.3): “O sinless one, purity and impurity, merit and fault, the auspicious and the inauspicious are prescribed even for things of the same kind — to discern the nature of a substance, for the sake of *dharma*, for worldly dealings and for the maintenance of life.”
+
+Miśra regarded his son Nimāi as untaught and ignorant and wished to teach Him and awaken knowledge in Him. Seeing this, the brāhmaṇa said to Miśra: “Your son is an eternally perfect deity. Yet you take His eternally perfect, natural knowledge for such foolishness, and so your attempt to teach Him proves futile. Therefore it does not become you.”
+
+## 90
+
+> Subheading: Miśra's pure parental affection for the Lord —
+
+*Bhakti-rasāmṛta-sindhu* (*Paścima-vibhāga*, fourth wave): “The *sthāyi-bhāva* of *vātsalya*, brought to fullness by *vibhāva* and the rest, is here called ‘*vatsala*’ [*rasa*].” (*Śrīmad-Bhāgavatam* 10.8.45): “Hari, whose glory is sung by the three Vedas, the Upaniṣads, the Sāṅkhya and Yoga scriptures and the Sātvata scriptures — she regarded Him as her own son.”
+
+## 91
+
+> Subheading: Waking from the dream, Miśra is astonished and tells his friends —
+
+## 94
+
+> Subheading: Nimāi takes the chalk in hand —
+
+The twelve *phalās* (subscript signs): the *repha*, and the *ṇa*, *na*, *ma*, *ya*, *ra*, *la*, *va*, *ṛ*, *ṝ*, *ḷ* and *ḹ phalās*.
+
+## 95
+
+> Subheading: These childhood pastimes in brief; they are described in the *Caitanya-bhāgavata* —
+
+*Thus ends the fourteenth chapter of the “Anubhāṣya.”*
