@@ -45,3 +45,9 @@
 | ev-jagannatha-mishra-departure | Ади 8 | Ади 8.109–121 | уточнение стихов (cb-0060) |
 | ev-nityananda-birth | — | Ади 2.127–135; 9.1–7 | см. выше; повтор в 9-й главе (cb-0064) |
 | ev-nityananda-leaves-home | Ади 9 | Ади 9.100–101 | в ЧБ: 12 лет дома, без санньяси (cb-0068) |
+| ev-nimai-pandit-teaching | — | Ади 10.38–45; 11.1–17 | школа в доме Мукунды-Санджаи; учёная слава (cb-0075, cb-0080) |
+| ev-lakshmipriya-first-meeting | Ади 10 | Ади 10.46–51 | уточнение стихов (cb-0076) |
+| ev-lakshmipriya-matchmaking | Ади 10 | Ади 10.52–77 | уточнение стихов (cb-0077) |
+| ev-marriage-lakshmipriya | Ади 10 | Ади 10.78–131 | уточнение стихов (cb-0078, cb-0079) |
+| ev-ishvara-puri-navadvipa | Ади 11 | Ади 11.69–127 | уточнение стихов (cb-0083, cb-0084) |
+| ev-advaita-calls-lord | — | + Ади 11.52–68 | повтор обета Адвайты в юности Господа (cb-0082) |

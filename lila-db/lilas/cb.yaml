@@ -1403,3 +1403,240 @@
   teaching: [associates-tattva, vaishnava]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Adi09.md", from: "211–213", to: "238"}
+
+# ---------- Ади 10. Женитьба Господа на Лакшмиприе ----------
+
+- id: cb-0073
+  source: cb
+  ref: "Ади 10, 1–5"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: PX
+  order: 100
+  title: "Мангалачарана десятой главы"
+  summary: "Слава Гаурачандре, возлюбленному Нитьянанды, Господу Говинды, сыну Джаганнатхи; автор просит слушать об играх Господа-учителя."
+  persons: ["@mahaprabhu", "@nityananda", "@govinda-servant"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 2: «Господь Говинды, охранявшего Его покои» — слуга Говинда (Пури)."
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "1", to: "5"}
+
+- id: cb-0074
+  source: cb
+  ref: "Ади 10, 6–37"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 6
+  title: "Шестнадцатилетний Нимай вызывает на спор Мурари Гупту"
+  summary: "В школе Гангадаса Нимай, сидя в позе вирасана, с тилакой и сандалом, шестнадцатилетний, бросает вызов самоучкам; молчаливого Мурари Он дразнит: «Лекарь, иди собирай травы — в грамматике нет слизи и желчи»; Мурари, по природе вспыльчивый как Рудра, не гневается и отвечает, и они не могут одолеть друг друга; от прикосновения руки Господа Мурари полон блаженства: «Не обычный это человек», — и решает учиться у Него."
+  persons: ["@mahaprabhu", "@murari-gupta", "@gangadasa-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 24: Мурари — воплощение Рудры."
+  themes: [learning, pranks]
+  bhava: [teacher]
+  years: [1501, 1502]
+  age: [15, 16]
+  date_conf: вероятно
+  date_basis: "ЧБ Ади 10.14: «Ему было шестнадцать лет»"
+  event: ev-nimai-murari-debate
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "6", to: "37"}
+
+- id: cb-0075
+  source: cb
+  ref: "Ади 10, 38–45"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 7
+  title: "Нимай открывает школу в чанди-мандапе Мукунды-Санджаи"
+  summary: "Господь открывает школу в просторной чанди-мандапе дома Мукунды-Санджаи; Его ученик — сын хозяина Пурушоттама Санджая; разделив учеников на группы, Он толкует и опровергает, высмеивая учителей: «В век Кали даже не знающие сандхи зовутся Бхаттачарьями»."
+  persons: ["@mahaprabhu", "@mukunda-sanjaya", "@purushottama-sanjaya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 16.5–7"
+  divergence: "По ЧБ Господь открывает школу ещё до первой женитьбы; ЧЧ (Ади 16) говорит о преподавании в начале кайшоры, после женитьбы."
+  themes: [learning]
+  bhava: [teacher]
+  years: [1502, 1503]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "38", to: "45"}
+
+- id: cb-0076
+  source: cb
+  ref: "Ади 10, 46–51"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 10
+  title: "Встреча с Лакшми у Ганги: они узнают друг друга"
+  summary: "Шачи думает о женитьбе сына; у брахмана Валлабхачарьи, подобного Джанаке, дочь — словно Сама Лакшми; однажды у Ганги Гаурасундар встречает её, узнаёт Свою вечную супругу и улыбается, а она мысленно кланяется Ему."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@shachi"]
+  places: ["#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 14.62–70; Мурари 1.9.5–8; Лочан, Ади-кханда, «Пауганда-лила» 711–718; Карнапура (ЧКМ) 3.5–11"
+  divergence: "По ЧЧ (Ади 14.62–70) первая встреча — в детстве, Господь велит Лакшми поклоняться Ему; в ЧБ — в юности, перед сватовством, безмолвное узнавание."
+  themes: [family]
+  bhava: [shakti]
+  event: ev-lakshmipriya-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "46", to: "51"}
+
+- id: cb-0077
+  source: cb
+  ref: "Ади 10, 52–77"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 15
+  title: "Сватовство Ванамали Ачарьи: отказ Шачи и намёк Нимая"
+  summary: "В тот же день сват Ванамали предлагает Шачи брак сына с дочерью Валлабхачарьи; Шачи отвечает, что сын без отца — пусть сначала учится; огорчённый брахман встречает Нимая, и Тот дома спрашивает мать, почему она отказала; Шачи понимает намёк и посылает Ванамали к Валлабхе; тот рад, но беден — может дать лишь пять плодов харитаки."
+  persons: ["@vanamali-acharya", "@shachi", "@mahaprabhu", "@vallabhacharya", "@lakshmipriya"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 15.25–29; Мурари 1.9.9–33; Лочан, Ади-кханда, «Пауганда-лила» 719–779; Карнапура (ЧКМ) 3.12–39"
+  themes: [family]
+  event: ev-lakshmipriya-matchmaking
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "52", to: "77"}
+
+- id: cb-0078
+  source: cb
+  ref: "Ади 10, 78–118"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 25
+  title: "Свадьба с Лакшмиприей"
+  summary: "Адхиваса с музыкой и ведическими гимнами; утром Нимай раздаёт милостыню и чтит предков; боги с жёнами в облике людей приходят на свадьбу; в сумерки Он у Валлабхачарьи: невесту семь раз обносят вокруг жениха, обмен гирляндами, Лакшми кланяется Ему; Валлабха, подобный Бхишмаке, омывает стопы, которым поклоняются Брахма и Шива, и отдаёт дочь; наутро молодых несут в паланкине, женщины сравнивают их с Шивой и Парвати, Лакшми и Нараяной, Ситой и Рамой, а Шачи встречает невестку."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 15.30; Мурари 1.9.34–1.10.27; Лочан, Ади-кханда, «Кайшора-лила» 1–184; Карнапура (ЧКМ) 3.40–74"
+  themes: [family, festival]
+  bhava: [shakti]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "78", to: "118"}
+
+- id: cb-0079
+  source: cb
+  ref: "Ади 10, 119–131"
+  file: "chaitanya-bhagavata/ed/CB_Adi10.md"
+  period: P05
+  order: 26
+  title: "Сияние и аромат лотоса в доме: Шачи узнаёт в невестке Лакшми"
+  summary: "С Лакшми рядом с Господом дом Шачи становится подобен Вайкунтхе: его наполняет сияние, рядом с сыном Шачи видит языки пламени, чувствует аромат лотоса и решает, что невестка — Сама Лакшми и бедности конец; Господь отчасти являет Своё величие, но ещё не открывается полностью — даже Лакшми знает Его лишь по Его воле."
+  persons: ["@shachi", "@lakshmipriya", "@mahaprabhu"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 1.11.1–4; Карнапура (ЧКМ) 3.75–81"
+  themes: [family, revelation]
+  bhava: [shakti]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi10.md", from: "119", to: "131"}
+
+# ---------- Ади 11. Встреча с Ишварой Пури ----------
+
+- id: cb-0080
+  source: cb
+  ref: "Ади 11, 1–17"
+  file: "chaitanya-bhagavata/ed/CB_Adi11.md"
+  period: P05
+  order: 28
+  title: "Нимай-пандит в славе учёности; вайшнавы сожалеют, что Он не служит Кришне"
+  summary: "Прекрасный, в дивных одеждах, жуя бетель, Нимай гуляет по Навадвипе с тысячами учеников, держа в руке книгу — Свою супругу Сарасвати; никто, кроме Гангадаса, не понимает Его толкований; женщины видят в Нём Мадану, безбожники — смерть, учёные — Брихаспати; вайшнавы, не узнавая Его по Его воле, сожалеют: «Зачем Ему знание без Кришны?» — а Он отвечает: «Я счастлив, что вы Меня наставляете»."
+  persons: ["@mahaprabhu", "@gangadasa-pandita", "@sarasvati-devi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 16.5–7; ЧЧ Ади 17.5–6"
+  notes: "Учёная гордость Нимая — лила; вайшнавы не узнают Его, потому что Он скрывает Себя йогамайей."
+  themes: [learning]
+  bhava: [teacher]
+  event: ev-nimai-pandit-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "1", to: "17"}
+
+- id: cb-0081
+  source: cb
+  ref: "Ади 11, 18–51"
+  file: "chaitanya-bhagavata/ed/CB_Adi11.md"
+  period: P05
+  order: 44
+  title: "Песни Мукунды у Адвайты; Нимай вызывает преданных на спор: «Я стану великим вайшнавом»"
+  summary: "Отрешённые вайшнавы из Чаттаграма учатся в Навадвипе и после полудня собираются у Адвайты в Маяпуре, где от песен Мукунды все падают без чувств; Господь, довольный Мукундой, останавливает его спорами о грамматике, вызывает Шриваса и других — преданные прячутся от Него; увидев убегающего Мукунду, Он говорит: «Он бежит от непреданного — Я ведь не говорю о Кришне; но когда Я закончу учёбу, стану таким вайшнавом, что Брахма и Шива придут к Моим дверям»."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@advaita", "@srivasa"]
+  places: ["#navadvipa", "#chattagrama"]
+  kind: lila
+  authority: A
+  notes: "Известно только по ЧБ. Ст. 44: обидные слова — косвенное откровение; Господь доволен Мукундой. Маяпур (ст. 23) — часть Навадвипы."
+  themes: [learning, kirtan, revelation]
+  bhava: [teacher]
+  event: ev-nimai-challenges-mukunda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "18", to: "51"}
+
+- id: cb-0082
+  source: cb
+  ref: "Ади 11, 52–68"
+  file: "chaitanya-bhagavata/ed/CB_Adi11.md"
+  period: P05
+  order: 44.5
+  title: "Насмешки над киртаном Шривасы; гнев Адвайты в настроении Рудры"
+  summary: "Миряне смеются над киртаном: поют ради еды, пляшут как безумцы, Шриваса с братьями не даёт спать после обеда — разве нельзя тихо повторять имя? Вайшнавы плачут и жалуются Адвайте; Тот, в настроении Рудры, грозит: «Скоро придёт Мой Господь с чакрой — Я сделаю так, что Кришну увидят все»; утешенные, они начинают киртан."
+  persons: ["@advaita", "@srivasa", "@shiva"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Повтор мотива Ади 2.111–126 (обет Адвайты) — уже в юности Господа."
+  themes: [offense, kirtan]
+  bhava: [shiva]
+  event: ev-advaita-calls-lord
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "52", to: "68"}
+
+- id: cb-0083
+  source: cb
+  ref: "Ади 11, 69–84"
+  file: "chaitanya-bhagavata/ed/CB_Adi11.md"
+  period: P05
+  order: 45
+  title: "Неузнанный Ишвара Пури у Адвайты: от песни Мукунды он падает без чувств"
+  summary: "Ишвара Пури, исполненный любви к Кришне, приходит неузнанным к Адвайте и садится рядом с совершающим пуджу; Адвайта узнаёт в нём вайшнава-санньяси — «Я ниже шудры», — отвечает тот; Мукунда поёт о Кришне, Ишвара Пури падает без чувств, слёзы потоком омывают обнявшего его Адвайту, и, узнав, кто он, вайшнавы ликуют."
+  persons: ["@ishvara-puri", "@advaita", "@mukunda-datta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Известно в подробностях только по ЧБ."
+  themes: [ecstasy, kirtan]
+  event: ev-ishvara-puri-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "69", to: "84"}
+
+- id: cb-0084
+  source: cb
+  ref: "Ади 11, 85–127"
+  file: "chaitanya-bhagavata/ed/CB_Adi11.md"
+  period: P05
+  order: 45.5
+  title: "Ишвара Пури и Нимай: обед у Шачи, «Кришна-лиламрита» и спор о глаголе"
+  summary: "Возвращаясь из школы, Нимай кланяется Ишваре Пури и приглашает его на обед; несколько месяцев тот живёт у Гопинатхи Ачарьи, учит Гададхару по своей «Шри Кришна-лиламрите» и просит Нимая указать ошибки; Господь отвечает: видящий изъяны в слове преданного о Кришне — грешник: Кришна принимает и «вишная», и «вишнаве», если зовут с любовью; однажды Он указывает на неверный залог (атманепади), Ишвара Пури доказывает правоту — и Господь с радостью признаёт победу слуги; затем Пури уходит странствовать. Мадхавендра передал ему сокровище премы."
+  persons: ["@mahaprabhu", "@ishvara-puri", "@shachi", "@gopinatha-acharya", "@gadadhara-pandita", "@madhavendra-puri"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Известно в подробностях только по ЧБ. Ст. 121: Господь рад, когда преданный побеждает Его."
+  themes: [learning, teaching]
+  bhava: [teacher]
+  teaching: [vaishnava]
+  event: ev-ishvara-puri-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Adi11.md", from: "85–86", to: "127"}

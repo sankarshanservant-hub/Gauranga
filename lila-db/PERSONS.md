@@ -537,3 +537,4 @@
 | @aditi | Адити | Aditi | мать богов; неузнанной благословляет новорождённого Гауру (ЧБ Ади 3.35) |
 | @kamalakanta-navadvipa | Камалаканта (соученик Господа) | Kamalakanta (the Lord's schoolmate) | соученик у Гангадаса Пандита (ЧБ Ади 8.38); отождествление с @kamalakanta-vishvasa не установлено |
 | @krishnananda-navadvipa | Кришнананда (соученик Господа) | Krishnananda (the Lord's schoolmate) | соученик у Гангадаса Пандита (ЧБ Ади 8.38); не путать с @krishnananda-datta, @krishnananda-puri |
+| @purushottama-sanjaya | Пурушоттама Санджая | Purushottama Sanjaya | сын Мукунды-Санджаи, ученик Господа в Его школе (ЧБ Ади 10.39; ЧЧ Ади 10 — «Пурушоттама и Санджая») |
