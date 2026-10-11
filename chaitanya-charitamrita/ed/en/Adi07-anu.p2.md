@@ -132,8 +132,43 @@ See Madhya 6.169.
 
 The Truth possessed of features is Viṣṇu. Viṣṇu's *prakṛti* is the root of the material, inert world. In the reasoning of *vivarta-vāda*, the *prakṛti*, or *māyā-śakti*, of the featureless Brahman has no real existence. The scriptures have described Viṣṇu's *māyā* at length. Viṣṇu is not some god born of *māyā*. Those who think so have a distorted idea of Viṣṇu. Viṣṇu can never be counted among the material gods. Only those deluded in this way regard Viṣṇu as a material deity. To free them from the bondage of worldly existence, Śrī Bhagavān said in the *Gītā*:
 
+“This divine *māyā* of Mine, made of the *guṇas*, is hard to overcome. But those who surrender to Me cross over this *māyā*.”[^115-1] Viṣṇu is the Reality of Vaikuṇṭha. To regard Him as a deity born of *prakṛti* is to do violence to what is said about the Reality; this is blasphemy. Viṣṇu is the Reality beyond the senses (*adhokṣaja*): He cannot be perceived by the material senses, as material objects are. Between His body and the possessor of that body there is nonduality (*advaya-jñāna*). In material things, the body and its possessor are different. Material things are objects of enjoyment, but Viṣṇu is eternally the enjoyer. To regard the “enjoyer” as the “enjoyed” is an offense. And to present the One whom the *jīva* eternally serves as a servant on a level with the *jīva* is to blaspheme Him.
+
+See the *Anubhāṣya* on Ādi 7.112–113 and Madhya 25.35–39.
+
+## 118
+
+> Subheading: (*Bhagavad-gītā* 7.5)
+
+**iyam** **aparā** (insentient *prakṛti*, inferior because it is inert). **itaḥ** (than inert *prakṛti*) **anyām** **parām** (spiritual) **jīva-bhūtām** (whose nature is the *jīva*) **me** (My) **prakṛtim** **viddhi** (know). **he mahā-bāho**, **yayā** (by the conscious potency called the *jīva*) **idam** (inert) **jagat** **dhāryate** (is taken up as the object of its own enjoyment).
+
+## 119
+
+> Subheading: *Cit*, *jīva* and *māyā* — the three kinds of Viṣṇu's potency —
+
+> Subheading: (*Viṣṇu Purāṇa* 6.7.61)
+
+**viṣṇu-śaktiḥ** (Viṣṇu's *svarūpa-śakti*) **parā** (spiritual by nature) **proktā**; **tathā** **aparā** (a certain other potency) **kṣetrajñākhyā** (is called *jīva-śakti*); **anyā** **tṛtīyā** **śaktiḥ** **avidyā-karma-saṁjñā** (the one called both *avidyā* and *karma* — the *māyā-śakti*) **iṣyate**.
+
+## 120
+
+> Subheading: To consider the Lord, like the *jīva*, to be full of ignorance — this too is Māyāvāda —
+
+## 121
+
+> Subheading: The *Brahma-sūtra* accepts only the doctrine of the transformation of potency (*śakti-pariṇāma-vāda*) —
+
+Setting out to describe the nature of the Lord, the *jīva* and *prakṛti* as indescribable and to explain it in terms of ignorance, Śaṅkara concealed the transcendent supremacy of the Lord.
+
+Śrī Rāmānujapāda writes in the *Vedānta-sāra*: “Objection: the statement ‘In the beginning all this was the Ātmā alone’ establishes oneness before creation. How, then, can Nārāyaṇa, qualified by subtle spirit and matter, be the cause? Answer: [it is said:] ‘That from which these beings are born, by which, once born, they live, and into which, departing, they enter.’ What is taught here is that beings, having given up their gross forms and taken on subtle ones, abide in Brahman — not that their own nature ceases. For [in the *śruti*] we hear: ‘The *akṣara* dissolves into darkness (*tamas*); darkness becomes one with the supreme Deity’ — that is, *prakṛti*, called by the word *tamas*, becomes one with the Paramātmā. To become one is to exist without being perceived separately; and that is the meaning of the word *laya* (dissolution): as birds dissolve into a tree, and deer into a forest.”
+
+You may ask: “Before the creation of the world only the Ātmā existed (*Bṛhad-āraṇyaka* 1.4.1); how then can Nārāyaṇa, possessed of subtle spiritual and material potencies, be the root cause of the world?” The answer can be given thus. The statement of the *Taittirīya*, “He from whom these beings were born, by whom they are sustained, and into whom they enter” (*Taittirīya*, *Bhṛgu-vallī* 1), shows that beings give up their gross material forms, are released from them, take on subtle forms and [so] abide in Brahman, but their *svarūpa* is not destroyed. For when the imperishable soul dissolves into *prakṛti*, called by the word *tamas*, *prakṛti* becomes nondifferent (one) with Brahman. At that time *prakṛti* is not perceived separately from Brahman, and so the existence of *prakṛti* abides in Brahman itself. This is what the word *laya* means. An example: just as birds in a tree or animals in a forest dissolve into the tree or the forest, that is, are hidden within it.
+
+Śrī Vedavyāsa, the author of the *Brahma-sūtra*, says: “The *ānandamaya* [is Brahman], because [this] is repeated” (*Brahma-sūtra* 1.1.12). In connection with this *sūtra*, while explaining the *sūtra* “And [scripture] teaches its union with that in it” (*Brahma-sūtra* 1.1.19), Śrī Śaṅkara wrote what may be paraphrased thus: “The statement about the *ānandamaya* lacks the word ‘Brahman,’ so the *ānandamaya* cannot be called the principal Brahman. If the *ānandamaya* were called ‘Brahman,’ then, since it has parts, one would have to speak of a Brahman possessed of features. Yet at the end of the statement about the *ānandamaya*
+
 ---
 
 [^95-1]: *Śvetāśvatara Upaniṣad* 6.23.
 [^106-1]: The edition reads *śaḥ bhāḥ* 3.3.32; apparently Śaṅkara's commentary on *Brahma-sūtra* 3.3.32, which mentions Apāntaratamā, the ancient teacher of the Vedas.
 [^108-1]: *Muktikā Upaniṣad* 1.30–39. Many names in the verse are abbreviated (e.g., “Tāpanī” for the *Nṛsiṁha-tāpanī*); they are given as in the edition.
+[^115-1]: *Bhagavad-gītā* 7.14.
