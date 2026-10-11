@@ -262,3 +262,12 @@ See Ādi 3.71–74.
 
 > Subheading: Following worldly custom, Gaura treats Advaita like a guru —
 
+---
+
+[^15-1]: *Manu-saṁhitā* 1.5–9.
+[^15-2]: *Viṣṇu Purāṇa* 1.1.31.
+[^15-3]: *Bṛhad-āraṇyaka Upaniṣad* 4.4.22.
+[^15-4]: *Kaṭha Upaniṣad* 1.2.15.
+[^15-5]: *Śrīmad-Bhāgavatam* 2.5.15.
+[^15-6]: *Śvetāśvatara Upaniṣad* 5.2.
+[^15-7]: So in the edition; in the Sanskrit text of the *Govinda-bhāṣya* this point concerns the *smṛtis* of Manu and others.
