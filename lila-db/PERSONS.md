@@ -483,6 +483,16 @@
 | @gopiramana-chakravarti | Гопирамана Чакраварти | Gopiramana Chakravarti | ученик Нароттамы в Кхетури |
 | @devidasa-kirtaniya | Девидас, киртания (кхол) | Devidasa the kirtaniya (khol) | ученик Нароттамы, играл на кхоле в киртанах Кхетури |
 | @shridhara-svami | Шридхара Свами | Shridhara Svami | автор комментария «Бхавартха-дипика» на «Бхагавату», почитаемый Господом |
+| @pippalada | Пиппалада | Pippalada | риши, учитель «Прашна-упанишад»; в «Чайтанья-упанишад» — ученик Брахмы |
+| @hiranya-pandita | Хиранья (Бхагавата, Пандит) | Hiranya (Bhagavata, Pandita) | в Навадвипе; в его доме и у Джагадиши младенец Нимай в экадаши потребовал угощение для Вишну (ЧБ Ади 6; Антья 8.28–29); вандана ч. 4, 106 |
+| @govinda-datta | Говинда Датта | Govinda Datta | запевала (мула-гаяка) в киртане Господа (ЧБ Антья 8.17; ЧЧ Ади 10) |
+| @gopinatha-simha | Гопинатха Симха | Gopinatha Simha | Господь называл его Акрурой (ЧБ Антья 8.35; ГГД 117) |
+| @vaishnavananda | Вайшнавананда Ачарья (прежде Рагхунатха Пури) | Vaishnavananda Acharya (formerly Raghunatha Puri) | спутник Нитьянанды (ЧБ Антья 5.746; вандана ч. 4, 59, 64) |
+| @bhima-gopa | Бхима, пастух из Гадигачхи | Bhima, the cowherd of Gadigachha | угощал Господа и спутников в Гадигачхе; зовёт Господа «дядей» («Према-виварта» 15) |
+| @shyama-goyalini | Шьяма, молочница | Shyama, the milkmaid | мать Бхимы, дочь пастуха из Ганганагара, звала Шачи «мамой» («Према-виварта» 15) |
+| @ramadasa-gopa | Рамадас, пастух из Гадигачхи | Ramadasa, the cowherd of Gadigachha | сообщил Господу о крокодиле в пруду («Према-виварта» 15); не путать с @ramadasa-vipra |
+| @durvasa | Дурваса | Durvasa | мудрец, известный проклятиями; в «Према-виварте» 15 проклинает сына полубогов стать крокодилом |
+| @krishnadasa-sthaneshvari | Кришнадас («Стханешвари») | Krishnadasa ("Sthaneshvari") | в доме Каши Мишры просит Господа рассказать о славе Имени («Према-виварта» 20); отождествление неясно |
 | @suta-gosvami | Сута Госвами | Suta Gosvami | рассказчик «Шримад-Бхагаватам» в Наймишаранье |
 | @arjuna | Арджуна (Партха) | Arjuna (Partha) | собеседник Кришны в «Бхагавад-гите» и «Ади-пуране» |
 | @daruka | Дарука | Daruka | возничий Кришны в Двараке |
@@ -502,11 +512,8 @@
 | @chaitanya-dasa-shivananda-son | Чайтанья Дас (сын Шивананды Сены) | Chaitanya Dasa (son of Shivananda Sena) | старший сын Шивананды (ЧЧ Ади 10.62); не путать с @chaitanya-dasa и др. |
 | @ramadasa-shivananda-son | Рамадас (сын Шивананды Сены) | Ramadasa (son of Shivananda Sena) | ЧЧ Ади 10.62; не путать с @abhirama (Рамадас Абхирама) |
 | @shrivallabha-sena | Шриваллабха Сена | Shrivallabha Sena | родственник Шивананды Сены, вместе со @shrikanta-sena (ЧЧ Ади 10.63) |
-| @govinda-datta | Говинда Датта | Govinda Datta | главный певец киртана Господа (ЧЧ Ади 10.64); не путать с @govinda-ghosha |
 | @akinchana-krishnadasa | Акинчана Кришнадас | Akinchana Krishnadasa | «неимущий» Кришнадас, дорогой Господу (ЧЧ Ади 10.66); не путать с другими Кришнадасами |
 | @bhagavan-pandita | Бхагаван Пандит | Bhagavan Pandita | дорогой слуга Господа; «в его теле прежде пребывал Кришна» (ЧЧ Ади 10.69); не путать с @bhagavan-acharya |
-| @hiranya-pandita | Хиранья (Махашая, Пандит) | Hiranya (Mahashaya, Pandita) | вместе с @jagadisha-pandita: в экадаши Господь-ребёнок выпросил у них подношение Вишну (ЧЧ Ади 10.70–71, Ади 14) |
-| @gopinatha-simha | Гопинатха Симха | Gopinatha Simha | Господь в шутку звал его «Акрурой» (ЧЧ Ади 10.76) |
 | @vanamali-pandita | Ванамали Пандит | Vanamali Pandita | видел в руках Господа золотые палицу и плуг (ЧЧ Ади 10.73); тождество с @vanamali-acharya не установлено |
 | @shankararanya | Шанкараранья | Shankararanya | «ветвь древа Ачарьи» (ЧЧ Ади 10.106); отождествление (напр., с санньяси-именем @vishvarupa) здесь не устанавливается |
 | @jagannatha-acharya-ganga | Джаганнатха Ачарья (жил у Ганги) | Jagannatha Acharya (who lived by the Ganga) | по велению Господа поселился у Ганги (ЧЧ Ади 10.108); не путать с @jagannatha-acharya-shakta |
@@ -518,7 +525,6 @@
 | @nandai | Нандаи | Nandai | слуга Господа в Пури, помощник Говинды (ЧЧ Ади 10.143–144) |
 | @bada-haridasa | Старший Харидас (Бада Харидас, певец) | Senior Haridasa (Bada Haridasa, the singer) | певец при Господе в Пури (ЧЧ Ади 10.147); не путать с @chhota-haridasa, @haridasa-thakura |
 | @raghunatha-vaidya-upadhyaya | Рагхунатха Вайдья (Упадхьяя) | Raghunatha Vaidya (Upadhyaya) | ветвь Нитьянанды: «при виде его пробуждается любовь к Кришне» (ЧЧ Ади 11.22); тождество с Рагхунатхой Вайдьей из преданных Нилачалы (ЧЧ Ади 10.124–126) не установлено |
-| @vaishnavananda-acharya | Вайшнавананда Ачарья (прежде Рагхунатха Пури) | Vaishnavananda Acharya (formerly Raghunatha Puri) | ветвь Нитьянанды (ЧЧ Ади 11.42); не путать с @raghunatha-tirtha |
 | @paramananda-upadhyaya | Парамананда Упадхьяя | Paramananda Upadhyaya | слуга Нитьянанды (ЧЧ Ади 11.44) |
 | @hoda-krishnadasa | Хода Кришнадас | Hoda Krishnadasa | ветвь Нитьянанды: «для него Нитьянанда — сама жизнь» (ЧЧ Ади 11.47); не путать с @kaliya-krishnadasa |
 | @kamalakanta-vishvasa | Камалаканта Вишвас | Kamalakanta Vishvasa | слуга Адвайты; письмом Пратапарудре о долге Адвайты навлёк наказание Господа («баулия»), затем прощён (ЧЧ Ади 12.28–55) |
