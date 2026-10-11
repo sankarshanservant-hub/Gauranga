@@ -3001,3 +3001,232 @@
   cc: "Ади 10"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "164", to: "164"}
+
+# Ади 11 — ветви ствола Шри Нитьянанды (записи — по эпизодам, которые глава рассказывает или упоминает; голые перечни
+# имён — записи kind: teaching со ссылкой на ev-tattva-bhakti-kalpataru).
+- id: cc-0151
+  source: cc
+  ref: "Ади 11.1–7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 910
+  title: "Вступление к ветвям Нитьянанды: Авадхута — верхний ствол древа любви; ветви неисчислимы"
+  summary: "Поклон всем пчёлам у лотосных стоп Нитьянанды, опьянённым мёдом любви, — автор пишет лишь о немногих главных; хвала Чайтанье, Адвайте, Нитьянанде и всем преданным Махапрабху; шлока: Чайтанья — бессмертное древо чистой любви, Авадхута — его верхний ствол, его последователи — ветви; ствол древа Нитьянанды могуч, на нём выросли бесчисленные ветви; политые волей садовника, они покрыли мир цветами и плодами любви; ради своего очищения автор называет лишь главных."
+  persons: ["@krishnadasa-kaviraja", "@nityananda", "@mahaprabhu", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 11"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "1", to: "7"}
+
+- id: cc-0152
+  source: cc
+  ref: "Ади 11.8–12"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 912
+  title: "Вирабхадра Госани — великая ветвь ствола: Ишвара, называющий себя преданным; главная колонна в зале бхакти"
+  summary: "Шри Вирабхадра Госани — великая ветвь ствола Нитьянанды, его веточкам нет счёта; будучи Ишварой, он называет себя великим преданным; будучи выше ведийских обязанностей, исполняет их; внутри — деяния Ишвары, внешне — ни тени гордыни; он — главная колонна в зале преданности Чайтанье; по славе его милости и поныне весь мир поёт о Чайтанье и Нитьянанде; его стопы — прибежище автора, по его милости исполняются желания."
+  persons: ["@virabhadra", "@nityananda", "@mahaprabhu", "@krishnadasa-kaviraja"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Время — после ухода Господа (проповедь Вирабхадры), но запись — о его природе и славе, не эпизод."
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 11"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "8", to: "12"}
+
+- id: cc-0153
+  source: cc
+  ref: "Ади 11.13–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: P12
+  order: 90.5
+  title: "Рамадас и Гададхара Дас посланы с Нитьянандой в Гауду — потому они в обоих перечнях"
+  summary: "Шри Рамадас и Гададхара Дас, преданные Чайтаньи, жили рядом с Нитьянандой: когда Махапрабху велел Нитьянанде идти в Гауду, Он послал этих двоих с Ним; потому их числят и среди преданных Чайтаньи, и среди преданных Нитьянанды; так же — Мадхава и Васудева Гхош."
+  persons: ["@abhirama", "@gadadhara-dasa", "@nityananda", "@mahaprabhu", "@madhava-ghosha", "@vasu-ghosha"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей). Рамадас — Абхирама (ср. Ади 10.116); у ВЧД в ст. 13 — «с Вирабхадрой» (исправлено, сноска)."
+  themes: [mercy, teaching]
+  cc: "Ади 11"
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "13", to: "15"}
+
+- id: cc-0154
+  source: cc
+  ref: "Ади 11.16"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: P12
+  order: 112.7
+  title: "Рамадас (Абхирама) — сокровище любви в дружбе: бревно на шестнадцать носильщиков стало его флейтой"
+  summary: "Рамадас — главная ветвь, исполненный любви в дружбе (сакхья); бревно, которое несут шестнадцать человек, он поднял и сделал своей флейтой."
+  persons: ["@abhirama"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание. То же — ЧЧ Ади 10.116 (cc-0140)."
+  themes: [revelation, ecstasy]
+  cc: "Ади 11"
+  event: ev-associates-of-nityananda-wonders
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "16", to: "16"}
+
+- id: cc-0155
+  source: cc
+  ref: "Ади 11.17–18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: P12
+  order: 111.5
+  title: "Гададхара Дас в бхаве гопи: в его доме Нитьянанда совершил «дана-кели»; под пение Мадхавы Гхоша пляшет Нитьянанда"
+  summary: "Гададхара Дас полон блаженства в настроении гопи; в его доме Нитьянанда совершил «дана-кели» (лилу сбора пошлины); Шри Мадхава Гхош — главный из певцов киртана, под его пение пляшет Нитьянанда Прабху."
+  persons: ["@gadadhara-dasa", "@nityananda", "@madhava-ghosha"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание. Место — дом Гададхары Даса в Эндиядахе (по «Анубхашье» к Ади 10.53)."
+  themes: [kirtan, krishna-lila, ecstasy]
+  cc: "Ади 11"
+  event: ev-dana-khanda-gadadhara-dasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "17", to: "18"}
+
+- id: cc-0156
+  source: cc
+  ref: "Ади 11.19–21"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: P12
+  order: 112.71
+  title: "Песни Васудевы Гхоша плавят дерево и камень; Мурари Чайтанья Дас бьёт тигров по щекам и играет со змеями; спутники Нитьянанды — друзья-пастушки Враджа"
+  summary: "Васудева воспевает Господа так, что от его песен плавятся дерево и камень; лилы Мурари Чайтаньи Даса необычайны: он даёт пощёчины тиграм и играет со змеями; все спутники Нитьянанды — друзья Враджа: с рогами, посохами, в одежде пастухов, с павлиньими перьями на голове."
+  persons: ["@vasu-ghosha", "@murari-chaitanya-dasa", "@nityananda"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей). У ВЧД в ст. 20 — «Мурари, великий слуга Чайтаньи» (исправлено: имя одного лица, сноска)."
+  themes: [revelation, kirtan]
+  cc: "Ади 11"
+  event: ev-associates-of-nityananda-wonders
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "19", to: "21"}
+
+- id: cc-0157
+  source: cc
+  ref: "Ади 11.22–37"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 914
+  title: "Ветви Нитьянанды: Рагхунатха Вайдья, Сундарананда, Камалакара Пиппалаи, Сурьядас Саркхел, Гауридас Пандит, Пурандара, Парамешвара Дас, Джагадиша, Дхананджая, Махеша, Пурушоттама, Баларама Дас, Ядунатха Кавичандра, Кала Кришнадас"
+  summary: "При виде Рагхунатхи Вайдьи Упадхьяи пробуждается любовь к Кришне; Сундарананда — близкий слуга, с ним Нитьянанда играет в игры Враджа; поведение и любовь Камалакары Пиппалаи необычайны; Сурьядас Саркхел и его брат Кришнадас твёрдо верят в Нитьянанду; Гауридас Пандит может давать и принимать любовь к Кришне — он отдал Нитьянанде касту, род и общину; Пурандара Пандит движется в океане любви, как гора Мандара; кто вспомнит Парамешвару Даса, обретёт бхакти; Джагадиша Пандит — очиститель мира, проливает нектар любви, как ливень; Дхананджая Пандит отрешён; Махеша Пандит — щедрый пастушок Враджа, пляшет под литавры; Пурушоттама Пандит из Навадвипы и Баларама Дас безумеют от имени Нитьянанды; в сердце Ядунатхи Кавичандры пляшет Нитьянанда; Кришнадас из Радхи — высший слуга Нитьянанды; Кала Кришнадас не знает никого, кроме Нитьянанды."
+  persons: ["@raghunatha-vaidya-upadhyaya", "@sundarananda", "@nityananda", "@kamalakara-pippalai", "@suryadasa-pandita", "@gauridasa-pandita", "@mahaprabhu", "@purandara-pandita", "@parameshvara-dasa", "@jagadisha-pandita", "@dhananjaya-pandita", "@mahesha-pandita", "@yadunatha-kavichandra", "@kaliya-krishnadasa"]
+  places: ["#navadvipa", "#radha-desha"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Без тегов (тождество не установлено): Кришнадас, брат Сурьядаса (ср. @krishnadasa-poet — брат Гауридаса), Пурушоттама Пандит из Навадвипы (ср. @purushottama-pandita), Баларама Дас (ср. @balarama-dasa-poet), Кришнадас из Радхи."
+  themes: [teaching, ecstasy]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 11"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "22", to: "37"}
+
+- id: cc-0158
+  source: cc
+  ref: "Ади 11.38–40"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: P12
+  order: 112.8
+  title: "Садашива Кавираджа, его сын Пурушоттама Дас — с рождения погружён в стопы Нитьянанды и играет с Кришной; внук Кану Тхакур"
+  summary: "Шри Садашива Кавираджа — великая душа, Шри Пурушоттама Дас — его сын: с рождения погружён в стопы Нитьянанды и непрестанно играет в детские игры с Кришной; его сын — великая душа Шри Кану Тхакур, в чьём теле пребывает поток нектара любви к Кришне."
+  persons: ["@sadashiva-kaviraja", "@purushottama-nagara", "@kanu-thakura", "@nityananda", "@krishna"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей). У ВЧД в ст. 40 — «в его теле Кришна наслаждался нектаром любовных игр» (исправлено, сноска)."
+  themes: [ecstasy, krishna-lila]
+  cc: "Ади 11"
+  event: ev-purushottama-nagara-wonders
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "38", to: "40"}
+
+- id: cc-0159
+  source: cc
+  ref: "Ади 11.41–53"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 916
+  title: "Ветви Нитьянанды: Уддхарана Датта, Вайшнавананда (Рагхунатха Пури), три брата, в чьём доме жил Нитай, Парамананда Упадхьяя, Джива Пандит, Парамананда Гупта, Хода Кришнадас и перечень имён"
+  summary: "Уддхарана Датта, лучший из великих бхагавата, во всём служит стопам Нитьянанды; Ачарья Вайшнавананда, прежде Рагхунатха Пури, достоин бхакти; Вишнудас, Нандана и Гангадас — три брата, в чьём доме прежде жил Тхакур Нитай; Парамананда Упадхьяя — слуга Нитьянанды; Джива Пандит воспевает Его качества; в доме Парамананды Гупты прежде жил Нитьянанда; Нараяна, Кришнадас, Манохара и Девананда — четыре брата-слуги Нитая; для Ходы Кришнадаса Нитьянанда — сама жизнь; далее — перечень: Накади, Мукунда, Сурья, Мадхава, Шридхара, Рамананда Васу, Джаганнатха, Махидхара, Шриманта, Гокула Дас, Харихарананда, Шиваи, Нандаи, Авадхута Парамананда, Васанта, Навани Хода, Гопала, Санатана, Вишнаи Хаджара, Кришнананда, Сулочана, Камсари Сена, Рамасена, Рамачандра Кавираджа, трое лекарей — Говинда, Шриранга, Мукунда, Питамбара, Мадхавачарья, Дамодара Дас, Шанкара, Мукунда, Джнянадас, Манохара, танцор Гопала, Рамабхадра, Гауранга Дас, Нрисимха Чайтанья, Минакетана Рамадас."
+  persons: ["@uddharana-datta", "@nityananda", "@vaishnavananda-acharya", "@paramananda-upadhyaya", "@jiva-pandita", "@hoda-krishnadasa", "@paramananda-avadhuta", "@minaketana-ramadasa"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Без тегов: Вишнудас, Нандана, Гангадас (ср. @nandana-acharya — в его доме в Навадвипе остановился Нитьянанда; тождество не установлено), Парамананда Гупта (ср. @paramananda-gupta), Рамачандра Кавираджа и Говинда — не ученики Шринивасы (@ramachandra-kaviraja, @govinda-kaviraja — другие лица), Нандаи — не @nandai (слуга в Пури)."
+  themes: [teaching]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 11"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "41", to: "53"}
+
+- id: cc-0160
+  source: cc
+  ref: "Ади 11.54–55"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 918
+  title: "Вриндаван Дас, сын Нараяни, автор «Чайтанья-мангалы», — Вьяса лил Чайтаньи"
+  summary: "Вриндаван Дас, сын Нараяни, составил «Чайтанья-мангалу» (позднее названную «Чайтанья-бхагаватой»); как Ведавьяса описал лилы Кришны в «Бхагавате», так Вриндаван Дас — Вьяса лил Чайтаньи."
+  persons: ["@vrindavana-dasa", "@narayani", "@vyasa", "@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [scripture]
+  cc: "Ади 11"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "54", to: "55"}
+
+- id: cc-0161
+  source: cc
+  ref: "Ади 11.56–60"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 920
+  title: "Вирабхадра — лучшая из ветвей; спутники Нитьянанды бесчисленны, полны спелых плодов любви и раздают Кришну"
+  summary: "Вирабхадра Госани — лучшая из всех ветвей, его веточкам нет конца; спутники Нитьянанды бесчисленны — автор описал немногих ради самоочищения; все эти ветви полны спелых плодов любви и, раздавая их каждому встречному, затопили всех; их любовь и деяния безграничны, все они в силах дать прему и дать Кришну; предела им не найдёт и тысячеустый."
+  persons: ["@virabhadra", "@nityananda", "@krishnadasa-kaviraja"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, prema]
+  cc: "Ади 11"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "56", to: "60"}
+
+- id: cc-0162
+  source: cc
+  ref: "Ади 11.61"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md"
+  period: PX
+  order: 930
+  title: "Колофон одиннадцатой главы"
+  summary: "Кришнадас, уповая на стопы Шри Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 11"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi11.md", from: "61", to: "61"}

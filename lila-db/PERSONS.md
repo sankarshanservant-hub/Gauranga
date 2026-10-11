@@ -517,3 +517,7 @@
 | @ramai-puri | Рамаи (слуга в Пури) | Ramai (servant in Puri) | помогал Говинде, носил Господу воду — 22 кувшина в день (ЧЧ Ади 10.143–144); не путать с @ramai-blind, @ramai-jahnava |
 | @nandai | Нандаи | Nandai | слуга Господа в Пури, помощник Говинды (ЧЧ Ади 10.143–144) |
 | @bada-haridasa | Старший Харидас (Бада Харидас, певец) | Senior Haridasa (Bada Haridasa, the singer) | певец при Господе в Пури (ЧЧ Ади 10.147); не путать с @chhota-haridasa, @haridasa-thakura |
+| @raghunatha-vaidya-upadhyaya | Рагхунатха Вайдья (Упадхьяя) | Raghunatha Vaidya (Upadhyaya) | ветвь Нитьянанды: «при виде его пробуждается любовь к Кришне» (ЧЧ Ади 11.22); тождество с Рагхунатхой Вайдьей из преданных Нилачалы (ЧЧ Ади 10.124–126) не установлено |
+| @vaishnavananda-acharya | Вайшнавананда Ачарья (прежде Рагхунатха Пури) | Vaishnavananda Acharya (formerly Raghunatha Puri) | ветвь Нитьянанды (ЧЧ Ади 11.42); не путать с @raghunatha-tirtha |
+| @paramananda-upadhyaya | Парамананда Упадхьяя | Paramananda Upadhyaya | слуга Нитьянанды (ЧЧ Ади 11.44) |
+| @hoda-krishnadasa | Хода Кришнадас | Hoda Krishnadasa | ветвь Нитьянанды: «для него Нитьянанда — сама жизнь» (ЧЧ Ади 11.47); не путать с @kaliya-krishnadasa |
