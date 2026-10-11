@@ -27,3 +27,7 @@ At first all of Advaita Prabhu's followers held one teaching. Later, through an 
 ## 40
 
 While explaining the *Yoga-vāsiṣṭha*, Advaita Prabhu on some pretext declared liberation (*mukti*) superior to devotion.
+
+## 49–53
+
+Kamalākānta declared Advaita Ācārya to be “Īśvara” and on that basis begged money from the king. Mahāprabhu was greatly displeased by such an act. Even though the Ācārya is Īśvara, His human pastime as the teacher of the world is well known. To fall into debt and beg money from a king is shameless conduct for an ācārya. Greed for money must be avoided in every way; and if one displays that greed before a foreign king in order to pay off a debt, *dharma* suffers. A king is by nature a worldly man (*viṣayī*). Eating a worldly man's food corrupts the heart; and when the heart is corrupted, one does not remember Kṛṣṇa, and life is wasted. This is forbidden to everyone, and to teachers of religion (*dharmācāryas*) above all. To instruct people in the holy name is the duty of an ācārya. But those who instruct in the name for money are unfit for the title of “instructor in the name”; rather, they are offenders against the name. For such people this is forbidden all the more strictly. If an ācārya who instructs in the name accepts gifts, he brings public shame upon himself and gravely damages his religious reputation.

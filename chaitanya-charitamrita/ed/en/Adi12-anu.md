@@ -50,7 +50,7 @@ There is a Bengali book in verse called *Sītā-advaita-carita*. It was composed
 
 Before the great manifestation (*mahā-prakāśa*) in Śrī Navadvīpa, Śrīman Mahāprabhu sent Śrīrāma Paṇḍita to Śāntipura to bring Advaita. Acyutānanda then joined his father and mother in weeping for joy: “Advaita's son, named ‘Acyutānanda,’ just a little boy — he too weeps without stopping.” And when Advaita Prabhu was expounding knowledge (*jñāna*) against devotion and Mahāprabhu was beating Him, Acyutānanda was present there too. All these events must be placed two or three years before the Lord's *sannyāsa*. (*Caitanya-bhāgavata*, Madhya, Chapter 19): “Acyuta, Advaita's son, bows down.”
 
-From childhood Śrī Acyuta was a devotee of Śrīman Mahāprabhu. Nothing is known of his ever taking a wife and living as a householder. In the description of Śrī Advaita's branch his name stands first among the disciples. Śrī Yadunandana dāsa wrote the *Śākhā-nirṇayāmṛta* on the branches of Śrī Gadādhara Paṇḍita Gosvāmī, and from it we learn that Acyutānanda Ṭhākura was a disciple and branch of Gadādhara: “Acyutānanda, the bliss of the nectar of the great *rasa*, the son of Śrīmad Advaita, most dear to Gadādhara.” Acyutānanda performed his worship in Nīlācala, having taken shelter of Mahāprabhu's feet (Ādi, Chapter 10): “Acyutānanda, the son of Advaita Ācārya, lived in Nīlācala, sheltered at the Lord's feet.” (CC, Ādi 10.150) At the end of his life Śrī Gadādhara Paṇḍita Gosvāmī lived in Nīlācala near Śrī Mahāprabhu. That is why, as we see, many of Advaita Prabhu's true servants, headed by Acyutānanda, took shelter of Śrī Gadādhara's feet.
+From childhood Śrī Acyuta was a devotee of Śrīman Mahāprabhu. Nothing is known of his ever taking a wife and living as a householder. In the description of Śrī Advaita's branch his name stands first among the disciples. Śrī Yadunandana dāsa wrote the *Śākhā-nirṇayāmṛta* on the branches of Śrī Gadādhara Paṇḍita Gosvāmī, and from it we learn that Acyutānanda Ṭhākura was a disciple and branch of Gadādhara: “Acyutānanda, the bliss of the nectar of the great *rasa*, the son of Śrīmad Advaita, most dear to Gadādhara.” Acyutānanda performed his worship in Nīlācala, having taken shelter of Mahāprabhu's feet (Ādi, Chapter 10): “Acyutānanda, the son of Advaita Ācārya, who stayed in Nīlācala, taking shelter at the Lord's feet.” (CC, Ādi 10.150) At the end of his life Śrī Gadādhara Paṇḍita Gosvāmī lived in Nīlācala near Śrī Mahāprabhu. That is why, as we see, many of Advaita Prabhu's true servants, headed by Acyutānanda, took shelter of Śrī Gadādhara's feet.
 
 From his earliest childhood Acyutānanda showed intense devotion to Śrī Mahāprabhu. In the dancing and *kīrtana* before the chariot, too, we see the Lord's dear Acyutānanda every time (see Ādi, Chapter 13, 452[^13-1]): “There was one party of the Ācārya of Śāntipura; Acyutānanda danced there, and all the rest sang.” (CC, Madhya 13.45) The boy was then only six years old. In the *Śrī Gaura-gaṇoddeśa-dīpikā* by Śrī Kavi Karṇapūra, Acyutānanda is glorified as “Gadādhara's disciple, dear to Kṛṣṇa Caitanya.” Some identify him with Kārttikeya, others with the *gopī* named “Acyutā.” The author has concluded that both views are correct: “His son Acyutānanda, dear to Kṛṣṇa Caitanya, is known to be the beloved disciple of Śrīmat Paṇḍita Gosvāmī. Some say that formerly he was Kārttikeya. Others, knowers of *rasa*, say he is the *gopī* named Acyutā. Both are correct, for the two have come together in one.”
 
@@ -111,3 +111,101 @@ Kamalākānta Viśvāsa. The “Kamalānanda” mentioned in Ādi, Chapter 10, v
 ## 38
 
 > Subheading: Advaita Prabhu consoles him —
+
+## 40
+
+“*Vāśiṣṭha*”: the *Yoga-vāsiṣṭha Rāmāyaṇa*. It propounds Māyāvāda, which opposes devotion to Viṣṇu, that is, liberation as extinction (*nirvāṇa-mokṣa*) in the form of merging into Brahman (*brahma-sāyujya*). Pure devotees therefore should not read it.
+
+## 40–42
+
+On Advaita's punishment, see the *Caitanya-bhāgavata*, Madhya, Chapter 19; on Mukunda's punishment, the *Caitanya-bhāgavata*, Madhya, Chapter 10; on Śacīmātā's punishment, the *Caitanya-bhāgavata*, Madhya, Chapter 22.
+
+## 44
+
+> Subheading: Seeing Kamalākānta punished, Advaita speaks to the Lord —
+
+## 46
+
+> Subheading: Mahāprabhu laughs and shows His favor —
+
+## 47
+
+> Subheading: Advaita's words —
+
+He calls Me the transcendental Nārāyaṇa, and yet in practice he takes Me for a mundane pauper begging for money.
+
+## 49
+
+> Subheading: Mahāprabhu's words to the *bāuliyā* —
+
+## 50
+
+> Subheading: The Lord defines the duty of a Vaiṣṇava ācārya —
+
+## 53
+
+> Subheading: Advaita's joy —
+
+## 54
+
+> Subheading: Mahāprabhu and Advaita Prabhu: each knows the heart of the other —
+
+## 56
+
+> Subheading: (5) The branch of Yadunandanācārya —
+
+## 57
+
+Yadunandanācārya was the guru who gave Śrī Raghunātha dāsa Gosvāmī Prabhu initiation according to the *Pañcarātra*. See Antya, Chapter 6, 160–169.
+
+Vāsudeva Datta is Madhuvrata, the singer of Vraja (*Gaura-gaṇoddeśa*, verse 140). See Ādi, Chapter 10, 41.
+
+## 58
+
+> Subheading: (6) Bhāgavatācārya, (7) Viṣṇudāsa, (8) Cakrapāṇi, (9) Ananta Ācārya —
+
+Bhāgavatācārya was at first among Advaita's associates and later joined Gadādhara's associates. In Yadunandana dāsa's *Śākhā-nirṇayāmṛta*, verse 6: “I praise Bhāgavatācārya, dear to Gaurāṅga, who composed the great book named *Prema-taraṅgiṇī*.” According to the *Gaura-gaṇoddeśa* (195 and 202), he is Śveta-mañjarī of Vraja. See Ādi, Chapter 10, 113.
+
+Viṣṇudāsācārya went with Acyutānanda Prabhu to the festival at Khetari (see the *Bhakti-ratnākara*, wave 10).
+
+Ananta Ācārya is “Sudevī,” one of the eight *sakhīs* of Vraja. He was among Advaita Prabhu's associates but later joined Gadādhara's branch. *Gaura-gaṇoddeśa*, 165: “Ananta Ācārya Gosvāmī is she who formerly in Vraja was ‘Sudevī.’” See Ādi, Chapter 8, 59–60. *Śākhā-nirṇayāmṛta*, verse 11: “I praise him who is called Ananta Ācārya, full of endless wonderful *rasa*, full of endless wonderful pastimes, the vessel of Gaura's love.” His disciple was Haridāsa Paṇḍita Gosvāmī, superintendent of the service of Śrī Govinda in Vṛndāvana. Haridāsa's disciple was Śrī Rādhā-Kṛṣṇa Gosvāmī, the author of the book *Sādhana-dīpikā* (*Bhakti-ratnākara*, wave 2).
+
+## 59
+
+> Subheading: (10) Nandinī, (11) Kāmadeva, (12) Caitanya dāsa, (13) Durlabha Viśvāsa, (14) Vanamālī dāsa —
+
+Nandinī. *Gaura-gaṇoddeśa*, 89: “Nandinī and Jaṅgalī are to be known as Jayā and Vijayā respectively.” A daughter of Advaita born of Sītā (?).
+
+## 60
+
+> Subheading: (15) Jagannātha and (16) Bhavanātha Kara, (17) Hṛdayānanda, (18) Bholānātha —
+
+## 61
+
+> Subheading: (19) Yādava, (20) Vijaya, (21) Janārdana, (22) Ananta dāsa, (23) Kānu Paṇḍita, (24) Nārāyaṇa —
+
+## 62
+
+> Subheading: (25) Śrīvatsa, (26) Haridāsa Brahmacārī, (27) Puruṣottama and (28) Kṛṣṇadāsa Brahmacārī —
+
+Haridāsa Brahmacārī is counted among the associates of both Advaita and Gadādhara. *Śākhā-nirṇayāmṛta*, verse 9: “With devotion I praise the glorious Haridāsa Brahmacārī Mahāśaya, a mass of supreme bliss, a mine of joy.”
+
+## 63
+
+> Subheading: (29) Puruṣottama Paṇḍita, (30) Raghunātha, (31) Vanamālī, (32) Vaidyanātha —
+
+## 64
+
+> Subheading: (33) Lokanātha, (34) Murāri Paṇḍita, (35) Haricaraṇa, (36) Mādhava Paṇḍita —
+
+## 65
+
+> Subheading: (37) Vijaya and (38) Śrīrāma Paṇḍita —
+
+## 66
+
+> Subheading: By the power of Gaura's mercy the servants of Advaita who accept the essence flourish —
+
+## 67
+
+> Subheading: Only the unfortunate worthless ones who fancy themselves Advaita's servants oppose Gaura and, deprived of His mercy, perish —
