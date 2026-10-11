@@ -188,7 +188,7 @@ called Him away, but He answered like the sage Dattatreya: an unlettered boy can
 which food was cooked for Vishnu cannot be defiled; and where I am there can be no impurity; talk of purity drawn from
 the karma-kanda is only the invention of those who know nothing but the material world. Seeing that her son would not
 move, Shachi dragged Him away by force, bathed Him and bathed herself. Then she and the neighbours came to Jagannatha
-and begged him to let the boy return to his studies, and the father gave way. <!-- F77 F78 F79 F80 F81 -->
+and begged him to let the boy return to His studies, and the father gave way. <!-- F77 F78 F79 F80 F81 -->
 
 ## The Last Years
 After the upanayana — the sacred-thread ceremony — Nimai, like Vamana, went round the houses with a begging bowl. Then
@@ -197,11 +197,11 @@ Gangadasa was delighted to have such a pupil, though the boy plagued him and His
 of logic, to everyone's amazement. <!-- F82 F83 -->
 
 The father rejoiced at his son's disciplined life: a bath in the Ganga every day, worship of Vishnu according to all
-the rules, water for the tulasi, prasada — and then study in solitude. He prayed to Krishna for his welfare, yet fear
+the rules, water for the tulasi, prasada — and then study in solitude. He prayed to Krishna for His welfare, yet fear
 would not leave him: what if his son grasped the emptiness of samsara and went away? One night he dreamed of
 Mahaprabhu as a sannyasi: surrounded by devotees, He was singing, dancing, laughing and weeping in sankirtana. From
 then on Mishra was sure that Nimai would leave home, and Shachi, however much she argued that their son was too
-absorbed in his studies, could not dissuade him. Much later, admonishing his pupil, Gangadasa would tell Him: “Your
+absorbed in His studies, could not dissuade him. Much later, admonishing his pupil, Gangadasa would tell Him: “Your
 maternal grandfather is Nilambara Chakravarti, your father Jagannatha Mishra; in neither family has there ever been
 an unlettered man.” <!-- F84 F85 F86 F87 F88 -->
 
