@@ -52,6 +52,20 @@ O Śrī Kṛṣṇa Caitanya! You presented these arguments and refuted Śaṅka
 
 In the *Bṛhad-āraṇyaka* (5.1), in the statement “That is full…” and so on, the Supreme Truth, full of the six opulences, is called *bṛhad-vastu*, the great Reality. In the Purāṇas these characteristics are described by the word “Bhagavān”; therefore wherever the Vedas say “Brahman,” the word fulfills its purpose only when “Śrī Bhagavān” is put in its place. So in all the Vedas the one *sambandha* is Bhagavān. Bhagavān embraces even the quality of featurelessness, yet He is eternally possessed of features. To call Him “featureless” is to deny His *cit-śakti*. Brahman possesses *cit-śakti* — that is, possesses features; so if one does not accept half of His *svarūpa*, His fullness is impaired.
 
+## 141–142
+
+To attain shelter at the feet of that Bhagavat-*tattva*, all the Vedas have determined *sādhana-bhakti* to be the *abhidheya*. It is from the ninefold *sādhana-bhakti*, beginning with hearing, that love for Kṛṣṇa awakens.
+
+## 146
+
+“Who am I? What is this material universe? What is Bhagavān? And what is our relationship with one another?” When one finds the true answer to these four questions, one has “knowledge of *sambandha*.” What is the duty of one who has gained knowledge of *sambandha*? One must understand this, and taking up that duty is to be known as the *abhidheya* of all the scriptures. The fruit one attains by carrying out that duty is called the *prayojana*. The *Brahma-sūtra* teaches precisely these three meanings.
+
+## 162
+
+“Later”: see Madhya, Chapter 25.
+
+*Thus ends the seventh chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^128-1]: From these words on, the edition prints the heading *Anubhāṣya* above the continuation — apparently a typesetting error, since the text continues the sentence of the *Amṛta-pravāha-bhāṣya*.

@@ -256,6 +256,78 @@ See Madhya 25.46–48.
 
 > Subheading: The Lord's explanation: (1) Bhagavān Kṛṣṇa is the *sambandha* —
 
+## 140
+
+Śrī Rāmānujapāda writes in the *Vedārtha-saṅgraha*: “If it is asked, ‘How is it known that the very nature [of Brahman] is defined by knowledge as an attribute, and not that Brahman is mere knowledge?’ — [the answer is:] this is understood from the *śrutis* that speak of Him as the knower, such as ‘He who is all-knowing, all-wise’; from hundreds of *śrutis* such as ‘His supreme potency is heard to be manifold’ and ‘By what, my dear, should one know the knower?’; and also because knowledge is only an attribute, and a mere attribute without a substrate cannot be accepted as an independent entity. Therefore words such as ‘truth,’ ‘knowledge’ and so on establish Brahman as possessed of knowledge and so on — the very things that are their own meanings. And if in ‘*tat tvam*’ both words abandon their own meanings in order to point to the nature of an entity without features, that is an abandonment of the primary meaning. [It may be said:] ‘Since the purport [of the statement] is established to be oneness, there is no fault of *lakṣaṇā*, as in the words “This is that very Devadatta.”’[^140-1] *** Moreover, a word gains its force as evidence because, by its very nature as words and sentences, it conveys differences of meaning and their particular relations; therefore it is incapable of conveying an entity without features, and for such an entity the word is not evidence. Words such as ‘featureless’ convey [meaning] in another way: of an entity known as possessed of some feature, they deny a feature known from some other thing.”
+
+## 141
+
+> Subheading: (2) The means, or *abhidheya*, is *sādhana-bhakti*, beginning with hearing —
+
+## 143
+
+> Subheading: (3) The goal to be attained — the *prayojana*, or fifth goal of life — is love for Kṛṣṇa —
+
+## 146
+
+> Subheading: The *Brahma-sūtra* establishes *sambandha*, *abhidheya* and *prayojana* —
+
+## 147
+
+> Subheading: Having heard the explanation of all the *sūtras*, the *sannyāsīs* offer praise —
+
+## 149
+
+> Subheading: They constantly take the name of Kṛṣṇa —
+
+The leader at that time of the *ekadaṇḍī sannyāsīs* of Śaṅkara's *sampradāya* living in Kāśī was Śrī Prakāśānanda Sarasvatī. Some mistakenly try to identify him with Śrī Prabodhānanda Sarasvatī, who lived in Śrī Raṅga-kṣetra and later in Kāmyavana. Needless to say, Prabodhānanda was a *tridaṇḍī* of Rāmānuja's line, a *jīyar svāmī*, who had come from the land of Mysore and lived in Raṅga-kṣetra. He is the author of such books as *Śrī Caitanya-candrāmṛta*, *Rādhā-rasa-sudhā-nidhi*, *Saṅgīta-mādhava*, *Vṛndāvana-śataka* and *Navadvīpa-śataka*. Veṅkaṭa Bhaṭṭa, Tirumalaya Bhaṭṭa and Prabodhānanda were three brothers. Mahāprabhu saw him in Śaka 1433, during the *cāturmāsya*, as a member of Rāmānuja's *sampradāya*; so it is unreasonable to think that in Śaka 1435 He saw him in Kāśī as a member of Śaṅkara's *sampradāya*. See the book *Śrī Bhakti-ratnākara*.
+
+## 150
+
+> Subheading: The Lord forgives their offenses and bestows mercy —
+
+## 151
+
+> Subheading: Together they honor the *mahā-prasāda* —
+
+## 153
+
+> Subheading: The devotees rejoice at the Lord's magnanimous pastimes —
+
+## 155
+
+> Subheading: Kāśī is blessed, for the Lord set foot there —
+
+## 156
+
+> Subheading: Countless people come to see the Lord —
+
+## 159
+
+> Subheading: The Lord delivers the people by making them chant the names of Hari —
+
+## 160
+
+> Subheading: The Lord leaves Kāśī and sends Śrī Sanātana to Vṛndāvana —
+
+## 163
+
+> Subheading: The Lord, in the form of the Pañca-tattva, delivers the world —
+
+## 164
+
+> Subheading: The Lord, Himself and through His preachers, spreads the name and *prema* throughout India and delivers the people —
+
+## 164–167
+
+To deliver everyone throughout India through love for Kṛṣṇa, [Mahāprabhu] spread the name of Kṛṣṇa: in the northwest, in the Māthura-maṇḍala, through Śrī Rūpa and Sanātana; in Gauḍa and Bengal through Śrī Nityānanda; and Himself in the south, village after village, as far as Setubandha.
+
+## 168
+
+> Subheading: By hearing the explanation of the Pañca-tattva one gains knowledge of the Gaura-*tattva* —
+
+*Thus ends the seventh chapter of the “Anubhāṣya.”*
+
 ---
 
 [^95-1]: *Śvetāśvatara Upaniṣad* 6.23.
@@ -264,3 +336,4 @@ See Madhya 25.46–48.
 [^115-1]: *Bhagavad-gītā* 7.14.
 [^128-1]: The text of the quotation from the *Atharva-śikhā* is corrupt in places in the edition; it is translated according to the sense.
 [^128-2]: A play on words: *śūdra* is explained as “one who grieves” (from the root *śuc*, to grieve).
+[^140-1]: Apparently this is an opponent's objection; the reply to it is omitted in the edition (***).
