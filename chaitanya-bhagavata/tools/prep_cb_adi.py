@@ -133,30 +133,37 @@ def parse(d, first=16, last=724):
 WORDS = None
 def dehyph(lines, vocab):
     t = ''
-    for l in lines:
-        l = norm(l).rstrip()
-        if t.endswith('-') and re.search(r'[а-яё̀-ͯ]-$', t) and re.match(r'[а-яё]', l):
-            a = re.search(r'([\ẁ-ͯ]+)-$', t).group(1); b = re.match(r'[\ẁ-ͯ]+', l).group()
-            if (a + '-' + b).lower() in vocab['hy'] and (a + b).lower() not in vocab['w']: t = t + l
+    for raw in lines:
+        soft = raw.rstrip().endswith('\xad')
+        l = norm(raw).rstrip()
+        if t.endswith('\x00'):                                   # мягкий перенос в конце прошлой строки
+            t = t[:-1] + l.lstrip()
+        elif t.endswith('-') and re.search(r'[а-яё\u0300-\u036f]-$', t) and re.match(r'[а-яё]', l):
+            a = re.search(r'([\w\u0300-\u036f]+)-$', t).group(1); b = re.match(r'[\w\u0300-\u036f]+', l).group()
+            A, B, AB = a.lower(), b.lower(), (a + b).lower()
+            if ((A + '-' + B) in vocab['hy'] and len(B) > 2) or (len(A) >= 5 and len(B) >= 5 and A in vocab['w'] and B in vocab['w']
+                                                and AB not in vocab['w']):
+                t = t + l
             else: t = t[:-1] + l
         else:
             t = (t + ' ' + l.lstrip()) if t else l.lstrip()
-    return re.sub(r'\s+', ' ', t).strip()
+        if soft: t = t.rstrip() + '\x00'
+    return re.sub(r'\s+', ' ', t.replace('\x00', '')).strip()
 
 
 def vocab_of(d):
+    """слова и пары через дефис, встреченные внутри строк (не на краях) — для решения о переносах"""
     w, hy = set(), set()
     for pn in range(len(d)):
         for line in d[pn].get_text('text').split('\n'):
-            line = norm(line)
-            for m in re.finditer(r'[\ẁ-ͯ]+(?:-[\ẁ-ͯ]+)*', line[:-1] if line.endswith('-') else line):
+            line = norm(line).strip()
+            toks = list(re.finditer(r'[\w\u0300-\u036f]+(?:-[\w\u0300-\u036f]+)*', line))
+            for j, m in enumerate(toks):
                 tok = m.group().lower()
-                if m.end() >= len(line.rstrip()) - 1: continue
-                if '-' in tok:
-                    parts = tok.split('-')
+                parts = tok.split('-')
+                if not (j == len(toks) - 1 and line.endswith('-')):
                     for k in range(len(parts) - 1): hy.add(parts[k] + '-' + parts[k + 1])
-                w.add(tok.replace('-', '') if '-' not in tok else '')
-                for p_ in tok.split('-'): w.add(p_)
+                if len(parts) == 1 and 0 < j < len(toks) - 1: w.add(tok)
     return {'w': w, 'hy': hy}
 
 
