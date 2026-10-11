@@ -130,7 +130,7 @@ One who mistakenly believes that “*māyā*” is present in Bhagavān's being,
 
 There are four kinds of *āśramas*: *brahmacārī*, *gṛhastha*, *vānaprastha* and *yati*. Each *āśrama* in turn has four divisions. The *Bhāgavatam* says: “*Sāvitrya*, *prājāpatya*, *brāhma* and *bṛhat* [for the *brahmacārīs*]; *vārtā*, *sañcaya*, *śālīna* and *śiloñcha* for the householder; the *vaikhānasas*, *vālakhilyas*, *audumbaras* and *phenapas* in the forest; and for the *sannyāsīs*, first the *kuṭīcaka*, then the *bahūdaka*, the *haṁsa* and the *niṣkriya*.” (*Śrīmad-Bhāgavatam* 3.12.42–43) That is, *brahmacarya* is of four kinds: (1) *sāvitrya*, a *brahmacarya* of three nights, from the *upanayana* until the study of the Gāyatrī; (2) *prājāpatya*, a *brahmacarya* in which one keeps vows for a year after the *upanayana*; (3) *brāhma*, a *brahmacarya* from the *upanayana* until the three Vedas have been learned; (4) *bṛhat*, a *brahmacarya* from the *upanayana* until death. The first three are known as “*upakurvāṇa*” and the last as “*naiṣṭhika*.” Householders are of four kinds: (1) *vārtā*, who lives by agriculture and other occupations that are not forbidden; (2) *sañcaya*, who lives by performing sacrifices for others and the like; (3) *śālīna*, who lives on what comes unasked; (4) *śiloñchana*, who lives on grains gleaned from the ground. *Vānaprasthas* are of four kinds: (1) the *vaikhānasa*, who lives on what grows without plowing; (2) the *vālikhilya*, who, on obtaining new grain, gives up what he had stored before; (3) the *auḍumbara*, who, on rising from bed, accepts food brought from whatever direction he first looks; (4) the *phenapa*, who sustains life on fruits that have fallen by themselves. *Sannyāsīs* are of four kinds: (1) the *kuṭīcaka*, chiefly devoted to the duties of his own *āśrama*; (2) the *bahūdaka*, who has given up karma and is chiefly devoted to cultivating knowledge; (3) the *haṁsa*, fixed in the cultivation of knowledge; (4) the *niṣkriya*, a *paramahaṁsa*, or one who has realized the truth.
 
-*Sannyāsa* is of two kinds, “*dhīra*” and “*narottama*.” (*Bhāg.* 1.13.26–27): “One who, detached and freed from bonds, gives up this body, which no longer serves any purpose, without anyone knowing where he has gone, is called ‘*dhīra*.’ And one who, self-possessed, has become disgusted with the world by himself or through another's instruction and, placing Hari in his heart, leaves home, is ‘*narottama*.’” Śrī Mahāprabhu accepted *sannyāsa* in the bright fortnight of the month of Māgha in the Śaka year 1432 from Śrī Keśava Bhāratī, a *daṇḍi-svāmī* of the *sampradāya* of Śrī Śaṅkara, who lived in Kāṭoyā. These *sannyāsīs* are under the Śṛṅgerī *maṭha* in the south.
+*Sannyāsa* is of two kinds, “*dhīra*” and “*narottama*”: “One who, detached and freed from bonds, gives up this body, which no longer serves any purpose, without anyone knowing where he has gone, is called ‘*dhīra*.’ And one who, self-possessed, has become disgusted with the world by himself or through another's instruction and, placing Hari in his heart, leaves home, is ‘*narottama*.’” (*Śrīmad-Bhāgavatam* 1.13.26–27) Śrī Mahāprabhu accepted *sannyāsa* in the bright fortnight of the month of Māgha in the Śaka year 1432 from Śrī Keśava Bhāratī, a *daṇḍi-svāmī* of the *sampradāya* of Śrī Śaṅkara, who lived in Kāṭoyā. These *sannyāsīs* are under the Śṛṅgerī *maṭha* in the south.
 
 ## 35
 
@@ -198,9 +198,59 @@ In the *Śrī Caitanya-candrodaya-nāṭaka* Śrī Candraśekhara is called a �
 
 > Subheading: The Lord's humility —
 
+## 60
+
+> Subheading: The Lord displays His majesty and bewilders the *pāṣaṇḍīs* —
+
+## 62
+
+> Subheading: The words of Prakāśānanda Sarasvatī —
+
+## 64
+
+> Subheading: The Lord's humble words —
+
+Among the *daṇḍīs* of the ten names, whose order Śrī Śaṅkarācārya founded, three *sampradāyas* — “Tīrtha,” “Āśrama” and “Sarasvatī” — rank above the *sannyāsīs* of the other *sampradāyas* in good conduct and in honor. Śrī Mahāprabhu had accepted *sannyāsa* in the “Bhāratī” *sampradāya*, and so He regarded Prakāśānanda Sarasvatī as belonging to a higher *sampradāya*. Or else: the *brahma-sannyāsīs* themselves consider their social standing high, and so Śrī Mahāprabhu, wishing to show the *dharma* of a Vaiṣṇava *sannyāsī* — to seek no honor for oneself (*amānī*) and to give honor to others (*mānada*) — spoke of Himself as belonging to a lower *sampradāya*. Even today the *sannyāsīs* of Śaṅkara's *sampradāya* are unwilling to call other *sannyāsīs* “*sannyāsīs*”: they give them only the title “*brahmacārī*” and fancy themselves “gurus.”
+
+## 65
+
+> Subheading: Prakāśānanda's question —
+
+## 66
+
+Keśava Bhāratī — see the *Vaiṣṇava-mañjuṣā-samāhṛti* (part 2).
+
+## 69
+
+See the *Anubhāṣya* on Ādi 7.41.
+
+## 71
+
+> Subheading: The Lord describes the glory of the holy name —
+
+Śrī Caitanya-deva is the Form of the real Reality, the one thing Vedānta establishes. Determining who is qualified to study Vedānta, He proclaimed that the right to the path of *śruti* belongs to those who are “humbler than a blade of grass,” tolerant like a tree, who seek no honor for themselves and give honor to others.[^71-1] The guru chants the words of *śruti* with his holy mouth, and the listener chants them after him; only this *kīrtana* — the *abhidheya*, that is, the *sādhana* — brings forth the fruit, the *prayojana*. That part of the words of *śruti* in which realized knowledge (*vijñāna*) of the real Reality, the object of worship, is glorified is the all-embracing whole (*aṁśī*), the root and source of the *śruti-śāstras*. Within that whole lie both the perception and the non-perception of all its parts. The devotee who serves the Reality that is worshipped is, by his own worship, connected with It. But where the inclination to serve grows slack, the Reality is grasped only in part instead of as the whole. As the inclination to serve slackens, the potency that rests on the worshipped Reality as its shelter becomes separated from It; this is forgetfulness of one's own true nature, or aversion to serving Hari.
+
+Śrī Caitanya-deva, in teaching the devotee's pure conduct, independent of the world, showed the highest ideal of where Vedānta ultimately leads. And the best example of it is what the Lord of the fourteen worlds, free of all pride, says here: He speaks as a disciple. People intoxicated by the brilliance of their learning are not fit to serve the lotus feet of the guru — nor fit to study the *Brahma-sūtra*. The nondevotee absorbed in a “second” (in something other than the Lord), while trying to serve the Reality that is worshipped, abandons service to the guru who himself worships It. To prevent any error in understanding the servant's own true nature in such a case, Bhagavān in the form of the guru, describing the pure nature of the disciple, speaks of his “foolishness.” Śrī Gurudeva, for the disciple's good, says in simple words that the disciple lacks the qualification. In doing so he ascribes no relative fault to the disciple. The disciple's “foolishness” lies in not knowing the truth about Bhagavān. The modesty that befits a “fool” is eternally present in the disciple. We, however, not knowing our own true nature, often hypocritically pose as disciples and deceive those who are really our disciples by calling them “guru” with our lips; this brings us no good. All the Vedas constantly serve the feet of the Puruṣa who is known through Vedānta; one who judges Him by knowledge born of the senses is a “fool” indeed. Whatever a person bewildered by sensory knowledge takes to be the real foundation of the Vedic *śāstras* is guided by external intelligence and belongs to the lower knowledge (*aparā vidyā*). Until the *jīva* loses the conceit, born of the *guṇas*, that the world is subject to him, all his limited, undesirable, changing knowledge born of the senses is that same “foolishness.”
+
+One who is qualified for Vedānta is a servant of the Viṣṇu-*vastu* alone, the Great One and the Maintainer. Unless one goes beyond serving limited things and the like, one cannot become a knower of Brahman. Being qualified to read and teach the *Brahma-sūtra* on the level of karma or on the level of knowledge does not make one qualified for the name of Kṛṣṇa — the eternal, pure, complete, free Form of the *rasa* of consciousness, the transcendental *cintāmaṇi*. And one who is qualified for the name need not again acquire a qualification for Vedānta through knowledge born of the senses.
+
+People who are not qualified to serve the name do not understand that the name and the One who bears the name are nondifferent, and they try to become Māyāvādī Vedāntists. By transcendental judgment they are, in the words of Śrī Gurudeva, the greatest “fools.” Whoever studies Vedānta by relying on the ascending method (*adhiroha-vāda*) is overtaken by “foolishness,” or dullness. But the one who is truly qualified for the name abides eternally on the far shore of Vedānta. In this connection one should reflect on the *Śrīmad-Bhāgavatam* verse “Oh, how great is even a dog-eater on the tip of whose tongue Your name abides! Those who chant Your name have already performed austerities and fire sacrifices, bathed at the holy places; they are true Āryans and have studied the Vedas,”[^71-2] and others like it, and also on the verse “One who has uttered the two syllables ‘Ha-ri’ has studied the *Ṛg-veda*, the *Yajur-veda*, the *Sāma-veda* and the *Atharva-veda*,” and others.
+
+The foolish sect of the *sāhajikas*, fancying themselves Vaiṣṇavas while being Vaiṣṇavas in name only, consider Vedānta the playground of the *ahaṅgrahopāsakas* — the *kevalādvaita-vādīs* who worship themselves as God. But “Vedānta” is the playground only of Hari's servants from Vaikuṇṭha. The Vaiṣṇava ācāryas of the four *sampradāyas*, following *Śrīmad-Bhāgavatam* — the commentary on the *Brahma-sūtra*, Vedānta — composed works on Vedānta, and these are not to be shunned as bad association. This simple point the *prākṛta-sahajiyās* cannot grasp. So they imagine the genuine pure Vaiṣṇavas and Vaiṣṇava ācāryas to be *viddha-bhaktas*, whose devotion is mixed with knowledge and karma; thus they head for hell and themselves become Māyāvādīs devoid of service to Viṣṇu. If one seeks the qualification for Vedānta through knowledge born of the senses, the meaning of chanting the Kṛṣṇa mantra cannot be realized. Those enchanted by sensory knowledge are bound in *saṁsāra* on every side. The two *tattvas* — the enjoyer and the enjoyed — have the power to hold them in *saṁsāra* and do not let them turn the mind away from external objects.
+
+## 73
+
+> Subheading: The mantra and the *mahā-mantra*, the holy name: a variety of pastimes —
+
+## 74
+
+> Subheading: In Kali-yuga the name of Kṛṣṇa alone is to be worshipped —
+
 ---
 
 [^5-1]: *Śvetāśvatara Upaniṣad* 6.8.
 [^6-1]: So in the edition. In Ādi 6.4 the subheading attributes the neighboring verses (12–13) to the diary of Śrī Svarūpa Gosvāmī.
 [^10-1]: *Kaṭha Upaniṣad* 2.2.13; *Śvetāśvatara Upaniṣad* 6.13.
 [^41-1]: Śaṅkara, *Kaupīna-pañcaka* 1.
+[^71-1]: *Śrī Śikṣāṣṭaka* 3.
+[^71-2]: *Śrīmad-Bhāgavatam* 3.33.7.

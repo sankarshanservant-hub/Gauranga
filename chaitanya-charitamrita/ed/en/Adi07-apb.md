@@ -49,3 +49,7 @@ The Vaidya Candraśekhara was a *śūdra* by *varṇa*. It is not proper for *sa
 ## 57
 
 Even so, the Lord, wishing to bestow mercy on the *sannyāsīs*, inspired the brāhmaṇa from within his heart, and that is why he made such an insistent request.
+
+## 67
+
+“A *sannyāsī* of the *sampradāya*”: according to the teaching of Śrī Śaṅkarācārya, the brāhmaṇas who accept *sannyāsa* in the order of the ten names are the world-honored “Vedic *sannyāsīs*,” that is, genuine *sannyāsīs* sanctioned by the *śāstras*.
