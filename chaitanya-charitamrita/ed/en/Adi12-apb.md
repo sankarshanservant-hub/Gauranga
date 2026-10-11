@@ -15,3 +15,15 @@ I bow down to all the associates of Advaita Prabhu, the branches of the second t
 ## 8–12
 
 At first all of Advaita Prabhu's followers held one teaching. Later, through an unhappy turn of fate, some of them came to hold separate views. Those who walked by the Ācārya's own teaching are pure Vaiṣṇavas. But those who, subject to fate, invented some view of their own, different from what the Ācārya taught, are worthless. We have no need of the names of worthless people. Still, to keep the Vaiṣṇavas who accept the essence apart from those who carry the worthless, we mention them, counting them all together — as one separates rice by winnowing away the empty husks (*pātnā*). “*Pātnā*” is the name for a worthless grain of rice with no kernel.
+
+## 34
+
+“*Daivata īśvara*”: in fact Īśvara, the Lord[^34-1].
+
+## 36
+
+“*Bāuliyā* Viśvāsa”: Kamalākānta Viśvāsa's conclusions are like the talk of a *bāul*, a madman; that is why he was called “*bāuliyā* Viśvāsa.”
+
+## 40
+
+While explaining the *Yoga-vāsiṣṭha*, Advaita Prabhu on some pretext declared liberation (*mukti*) superior to devotion.
