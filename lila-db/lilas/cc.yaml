@@ -2155,3 +2155,337 @@
   cc: "Ади 9"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "54", to: "55"}
+
+# Ади 10 — ствол и ветви древа Шри Чайтаньи: перечень спутников (записи — по эпизодам, которые глава рассказывает или
+# упоминает; голые перечни имён — записи kind: teaching со ссылкой на ev-tattva-bhakti-kalpataru).
+- id: cc-0108
+  source: cc
+  ref: "Ади 10.1–7"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 760
+  title: "Вступление к перечню ветвей: поклон пчёлам у лотосных стоп Чайтаньи; старшинство спутников неопределимо"
+  summary: "Поклон тем, кто, как пчёлы, пьёт мёд лотосных стоп Шри Чайтаньи: приняв их прибежище, даже собака причастится аромату; хвала Чайтанье, Нитьянанде, Адвайте и всем преданным Гауры; садовник и древо неописуемы — теперь имена главных ветвей; кто из спутников выше или ниже, определить нельзя, и великие души, перечисляя их, не устанавливали старшинства, поэтому автор, поклонившись всем, лишь называет имена; шлока-вандана ветвям древа любви, дарующим плод любви к Кришне."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 10"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "1", to: "7"}
+
+- id: cc-0109
+  source: cc
+  ref: "Ади 10.8–11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 88
+  title: "Шриваса и Шри Рама Пандит с братьями Шрипати и Шринидхи: в их доме — постоянная санкиртана Махапрабху"
+  summary: "Шриваса Пандит и Шри Рама Пандит — две прославленные ветви; Шрипати и Шринидхи — их братья; слуги, служанки и домочадцы четырёх братьев — веточки этих ветвей; в их доме Махапрабху постоянно совершал санкиртану; всей семьёй они служат Чайтанье и не знают иного бога или богини, кроме Гаурачандры."
+  persons: ["@srivasa", "@srirama-pandita", "@shripati", "@shrinidhi", "@mahaprabhu"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей). @shrinidhi — брат Шривасы (ЧЧ Ади 10.9); не путать с Шринидхи из перечня 10.110."
+  themes: [kirtan, family]
+  cc: "Ади 10"
+  event: ev-dance-shrivasa-house
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "8", to: "11"}
+
+- id: cc-0110
+  source: cc
+  ref: "Ади 10.12–13"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 135
+  title: "Ачарьяратна (Чандрашекхара): в его доме Господь плясал в бхаве Богини"
+  summary: "Большая ветвь — Ачарьяратна, его спутники — его ветви и веточки; его имя — Шри Чандрашекхара; в его доме Господь плясал в бхаве Богини."
+  persons: ["@chandrashekhara-acharya", "@mahaprabhu"]
+  places: ["#house-chandrashekhara", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей)."
+  themes: [ecstasy, revelation]
+  bhava: [shakti]
+  cc: "Ади 10"
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "12", to: "13"}
+
+- id: cc-0111
+  source: cc
+  ref: "Ади 10.14–16"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 770
+  title: "Ветви древа: Пундарика Видьянидхи (Господь плакал, называя его имя) и Гададхара Пандит — воплощение Лакшми"
+  summary: "Большая ветвь — Пундарика Видьянидхи: произнося его имя, Господь Сам плакал; большая ветвь — Гададхара Пандит Госани, воплощение Лакшми, равного ему нет; его ученики и ученики учеников — его веточки; так описываются все ветви и веточки."
+  persons: ["@pundarika-vidyanidhi", "@gadadhara-pandita", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. «Лакшми-рупа» о Гададхаре — в гаудия-вайшнавском понимании Гададхара — шакти Господа (Шри Радха в лиле Гауры)."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "14", to: "16"}
+
+- id: cc-0112
+  source: cc
+  ref: "Ади 10.17–20"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 381.5
+  title: "Вакрешвара пляшет семьдесят два часа и просит десять тысяч гандхарвов; «Ты — одно Моё крыло»"
+  summary: "Вакрешвара Пандит, очень дорогой слуга Господа, в единой бхаве мог плясать двадцать четыре прахары; когда он плясал, пел Сам Махапрабху; обняв стопы Господа, Вакрешвара сказал: «Луноликий, дай мне десять тысяч гандхарвов: пусть поют, а я буду плясать — тогда я счастлив»; Господь ответил: «Ты — одно Моё крыло; будь у Меня второе, Я полетел бы по небу»."
+  persons: ["@vakreshvara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  cc: "Ади 10"
+  event: ev-vakreshvara-dance-kirtana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "17", to: "20"}
+
+- id: cc-0113
+  source: cc
+  ref: "Ади 10.21–23"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 70
+  title: "Джагадананда — жизнь Господа и Сатьябхама: хочет окружить Господа заботой, а Господь, санньяси, отказывается — любовные ссоры"
+  summary: "Пандит Джагадананда — сама жизнь Господа, известный как воплощение Сатьябхамы; из любви он хочет заботиться о Господе и баловать Его, но Господь, опасаясь за Своё отречение и мнение людей, никогда не принимает этого; так между ними вспыхивают ссоры; рассказ о его любви — впереди."
+  persons: ["@jagadananda-pandita", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 12–13 (сосуд с сандаловым маслом, подушка)."
+  themes: [sannyasa, ecstasy]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  cc: "Ади 10"
+  event: ev-jagadananda-sandal-oil
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "21", to: "23"}
+
+- id: cc-0114
+  source: cc
+  ref: "Ади 10.24–28"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 49
+  title: "Рагхава Пандит, Макарадхваджа Кара и Дамаянти; «Рагхавера джхали»"
+  summary: "Рагхава Пандит — изначальный последователь Господа; его главная ветвь — Макарадхваджа Кара; его сестра Дамаянти, дорогая служанка Господа, весь год готовит для Него угощения; Рагхава укладывает их в мешки и тайно везёт Господу, и Господь принимает их весь год — эти мешки прославились как «Рагхавера джхали»; слушая о них, преданные плачут; подробно — впереди."
+  persons: ["@raghava-pandita", "@makaradhvaja-kara", "@damayanti", "@mahaprabhu"]
+  places: ["#panihati", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 10."
+  themes: [prasada, mercy]
+  cc: "Ади 10"
+  event: ev-raghavera-jhali
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "24", to: "28"}
+
+- id: cc-0115
+  source: cc
+  ref: "Ади 10.29–30"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 780
+  title: "Ветви древа: Гангадас Пандит и Пурандара Ачарья, которого Господь звал отцом"
+  summary: "Очень дорог Господу Пандит Гангадас: памятование о нём уничтожает все оковы; спутник Чайтаньи Шри Пурандара Ачарья — его Гаурангасундара звал отцом."
+  persons: ["@gangadasa-pandita", "@purandara-acharya", "@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей."
+  themes: [teaching]
+  teaching: [associates-tattva, vaishnava]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "29", to: "30"}
+
+- id: cc-0116
+  source: cc
+  ref: "Ади 10.31–32"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 15
+  title: "Дамодара Пандит словом упрекает Господа и, к Его удовольствию, послан в Надию"
+  summary: "Дамодара Пандит — ветвь, могучая в любви: он подверг Господа «наказанию словом»; довольный этим упрёком, Господь послал его в Надию; рассказ — впереди."
+  persons: ["@damodara-pandita", "@mahaprabhu"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 3."
+  themes: [teaching, family]
+  cc: "Ади 10"
+  event: ev-damodara-sent-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "31", to: "32"}
+
+- id: cc-0117
+  source: cc
+  ref: "Ади 10.33–37"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 790
+  title: "Ветви древа: Шанкара Пандит — «подушка для стоп Господа», Садашива Пандит, Нрисимхананда, Нараяна Пандит, Шриман Пандит со светильником"
+  summary: "Младший брат Дамодары Шанкара Пандит известен как «подушка для стоп Господа»; Садашива Пандит, чья надежда — стопы Господа, в его доме сначала жил Нитьянанда; почитатель Нрисимхи Прадьюмна Брахмачари получил от Господа имя Нрисимхананда; великодушный Нараяна Пандит не знает ничего, кроме стоп Чайтаньи; Шриман Пандит, личный слуга Господа, держит светильник, когда Господь пляшет."
+  persons: ["@shankara-pandita", "@sadashiva-pandita", "@nityananda", "@nrisimhananda", "@shriman-pandita", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей. Нараяна Пандит без тега: тождество с @narayana-navadvipa не установлено. ВЧД в 10.33 переводит «прабху-па̄допа̄дха̄на» как «сандалии Господа»; упа̄дха̄на — подушка."
+  themes: [teaching, kirtan]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "33", to: "37"}
+
+- id: cc-0118
+  source: cc
+  ref: "Ади 10.38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 72
+  title: "Шукламбара Брахмачари: Господь выпрашивает и выхватывает его пищу"
+  summary: "Шукламбара Брахмачари очень удачлив: Бхагаван выпрашивал его еду и, выхватив, ел."
+  persons: ["@shuklambara", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень ветвей)."
+  themes: [mercy, prasada]
+  cc: "Ади 10"
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "38", to: "38"}
+
+- id: cc-0119
+  source: cc
+  ref: "Ади 10.39–40"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: PX
+  order: 800
+  title: "Ветви древа: Нандана Ачарья, в доме которого скрывались два Господа, и Мукунда Датта, под киртан которого пляшет Господь"
+  summary: "Ветвь Нандана Ачарья известна в мире: в его доме, прячась, находились два Господа; ветвь Шри Мукунда Датта — школьный товарищ Господа, под его киртан пляшет Чайтанья Госани."
+  persons: ["@nandana-acharya", "@mukunda-datta", "@mahaprabhu", "@nityananda"]
+  places: ["#house-nandana-acharya", "#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Перечень ветвей; о доме Нанданы ср. ev-nityananda-first-meeting."
+  themes: [teaching, kirtan]
+  teaching: [associates-tattva]
+  cc: "Ади 10"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "39", to: "40"}
+
+- id: cc-0120
+  source: cc
+  ref: "Ади 10.41–42"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P12
+  order: 88
+  title: "Васудева Датта хочет взять грехи всех существ и страдать за них в аду"
+  summary: "Васудева Датта — великодушный слуга Господа, его достоинств не описать и тысячей уст: он желает взять на себя грехи всех существ мира и сам пойти в ад, чтобы их освободить."
+  persons: ["@vasudeva-datta", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Мадхья 15."
+  themes: [mercy]
+  teaching: [vaishnava]
+  cc: "Ади 10"
+  event: ev-vasudeva-datta-prayer
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "41", to: "42"}
+
+- id: cc-0121
+  source: cc
+  ref: "Ади 10.43–44"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P01
+  title: "Харидас Тхакур: триста тысяч имён в день; Адвайта кормит его поминальным блюдом"
+  order: 2.95
+  summary: "Деяния ветви Харидаса Тхакура удивительны: он неотступно произносит триста тысяч имён; его достоинства бесконечны — автор говорит лишь малую часть: Ачарья Госани кормил его шраддха-патрой (поминальным блюдом)."
+  persons: ["@haridasa-thakura", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 3."
+  themes: [teaching, prasada]
+  teaching: [holy-name, vaishnava, purity]
+  cc: "Ади 10"
+  event: ev-shraddha-patra-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "43", to: "44"}
+
+- id: cc-0122
+  source: cc
+  ref: "Ади 10.45"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P01
+  order: 2.7
+  title: "Харидас, как Прахлада, не дрогнул при избиении мусульманами"
+  summary: "Волны достоинств Харидаса подобны Прахладе: даже когда его истязали мусульмане, он не повёл бровью."
+  persons: ["@haridasa-thakura"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [muslims, offense]
+  teaching: [holy-name]
+  cc: "Ади 10"
+  event: ev-haridasa-muslim-governor
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "45", to: "45"}
+
+- id: cc-0123
+  source: cc
+  ref: "Ади 10.46–48"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P14
+  order: 60
+  title: "Уход Харидаса: Господь пляшет, держа его тело на руках; веточки Харидаса — жители Кулинаграмы"
+  summary: "Когда Харидас достиг совершенства, Чайтанья, взяв его тело на руки, в великом ликовании плясал; его игры описал Вриндаван дас, оставшееся автор изложит впереди; веточки Харидаса — все жители Кулинаграмы во главе с Сатьяраджей, получившие его милость."
+  persons: ["@haridasa-thakura", "@mahaprabhu", "@vrindavana-dasa", "@satyaraja-khan"]
+  places: ["#puri", "#kulinagrama"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; подробно — ЧЧ Антья 11."
+  themes: [departure, kirtan, ecstasy]
+  cc: "Ади 10"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "46", to: "48"}
+
+- id: cc-0124
+  source: cc
+  ref: "Ади 10.49–51"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md"
+  period: P07
+  order: 104.5
+  title: "Мурари Гупта: смирение, отказ от даров, врачевание тела и болезни бытия"
+  summary: "Ветвь Шри Мурари Гупта — сокровищница премы: сердце Господа тает, слыша о его смирении; он не принимает даров и ничьих денег, содержит семью своим трудом врача, и кого он, сжалившись, лечит, у того проходят обе болезни — телесная и болезнь бытия."
+  persons: ["@murari-gupta", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Характеристика (перечень ветвей). «Бхава-рога» — болезнь материального бытия (у ВЧД в переводе 10.51 — «духовные недуги»)."
+  themes: [mercy]
+  teaching: [vaishnava]
+  cc: "Ади 10"
+  event: ev-murari-gupta-physician
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi10.md", from: "49", to: "51"}

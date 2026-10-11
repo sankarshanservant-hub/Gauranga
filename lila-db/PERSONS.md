@@ -497,3 +497,23 @@
 | @mukundananda-chakravarti | Мукундананда Чакраварти | Mukundananda Chakravarti | ученик Бхугарбхи (ЧЧ Ади 8.69) |
 | @krishnadasa-premi | Кришнадас «премӣ» (ученик Бхугарбхи) | Krishnadasa the loving (disciple of Bhugarbha) | ЧЧ Ади 8.69; не путать с другими Кришнадасами |
 | @gosani-dasa-pujari | Госани Дас, пуджари Мадана-мохана | Gosani Dasa, the priest of Madana-mohana | надел автору гирлянду Мадана-мохана (ЧЧ Ади 8.74–76) |
+| @damayanti | Дамаянти (сестра Рагхавы Пандита) | Damayanti (sister of Raghava Pandita) | весь год готовила угощения для Господа, которые Рагхава привозил в Пури («Рагхавера джхали», ЧЧ Ади 10.25–27) |
+| @shriman-sena | Шриман Сена | Shriman Sena | главный слуга Господа (ЧЧ Ади 10.52); не путать с @shriman-pandita |
+| @chaitanya-dasa-shivananda-son | Чайтанья Дас (сын Шивананды Сены) | Chaitanya Dasa (son of Shivananda Sena) | старший сын Шивананды (ЧЧ Ади 10.62); не путать с @chaitanya-dasa и др. |
+| @ramadasa-shivananda-son | Рамадас (сын Шивананды Сены) | Ramadasa (son of Shivananda Sena) | ЧЧ Ади 10.62; не путать с @abhirama (Рамадас Абхирама) |
+| @shrivallabha-sena | Шриваллабха Сена | Shrivallabha Sena | родственник Шивананды Сены, вместе со @shrikanta-sena (ЧЧ Ади 10.63) |
+| @govinda-datta | Говинда Датта | Govinda Datta | главный певец киртана Господа (ЧЧ Ади 10.64); не путать с @govinda-ghosha |
+| @akinchana-krishnadasa | Акинчана Кришнадас | Akinchana Krishnadasa | «неимущий» Кришнадас, дорогой Господу (ЧЧ Ади 10.66); не путать с другими Кришнадасами |
+| @bhagavan-pandita | Бхагаван Пандит | Bhagavan Pandita | дорогой слуга Господа; «в его теле прежде пребывал Кришна» (ЧЧ Ади 10.69); не путать с @bhagavan-acharya |
+| @hiranya-pandita | Хиранья (Махашая, Пандит) | Hiranya (Mahashaya, Pandita) | вместе с @jagadisha-pandita: в экадаши Господь-ребёнок выпросил у них подношение Вишну (ЧЧ Ади 10.70–71, Ади 14) |
+| @gopinatha-simha | Гопинатха Симха | Gopinatha Simha | Господь в шутку звал его «Акрурой» (ЧЧ Ади 10.76) |
+| @vanamali-pandita | Ванамали Пандит | Vanamali Pandita | видел в руках Господа золотые палицу и плуг (ЧЧ Ади 10.73); тождество с @vanamali-acharya не установлено |
+| @shankararanya | Шанкараранья | Shankararanya | «ветвь древа Ачарьи» (ЧЧ Ади 10.106); отождествление (напр., с санньяси-именем @vishvarupa) здесь не устанавливается |
+| @jagannatha-acharya-ganga | Джаганнатха Ачарья (жил у Ганги) | Jagannatha Acharya (who lived by the Ganga) | по велению Господа поселился у Ганги (ЧЧ Ади 10.108); не путать с @jagannatha-acharya-shakta |
+| @vaninatha-vasu | Ванинатха Васу | Vaninatha Vasu | из Кулинаграмы (ЧЧ Ади 10.81); не путать с @vaninatha-raya |
+| @gopinatha-pattanayaka | Гопинатха Паттанаяк | Gopinatha Pattanayaka | сын Бхавананды Рая, брат Рамананды Рая (ЧЧ Ади 10.133; Антья 9) |
+| @kalanidhi | Каланидхи | Kalanidhi | сын Бхавананды Рая (ЧЧ Ади 10.133) |
+| @sudhanidhi | Судханидхи | Sudhanidhi | сын Бхавананды Рая (ЧЧ Ади 10.133) |
+| @ramai-puri | Рамаи (слуга в Пури) | Ramai (servant in Puri) | помогал Говинде, носил Господу воду — 22 кувшина в день (ЧЧ Ади 10.143–144); не путать с @ramai-blind, @ramai-jahnava |
+| @nandai | Нандаи | Nandai | слуга Господа в Пури, помощник Говинды (ЧЧ Ади 10.143–144) |
+| @bada-haridasa | Старший Харидас (Бада Харидас, певец) | Senior Haridasa (Bada Haridasa, the singer) | певец при Господе в Пури (ЧЧ Ади 10.147); не путать с @chhota-haridasa, @haridasa-thakura |
