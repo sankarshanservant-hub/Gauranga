@@ -166,6 +166,80 @@ Bhāgavatācārya. The *Gaura-gaṇoddeśa* (verse 203) says: “Śrīmad Bhāga
 
 Ṭhākura Sāraṅga dāsa: his other name is Śārṅga Ṭhākura. Some also call him Śārṅgapāṇi and Śārṅgadhara. He lived in Modadrumadvīpa within Śrī Navadvīpa and worshipped in solitude on the bank of the Gaṅgā. The Lord urged him again and again to accept a disciple, and at last he resolved: “Whomever I meet tomorrow at dawn, him I will accept as my disciple.” The next day at dawn, as he bathed in the Bhāgīrathī, a dead body drifted against his feet; he brought it back to life and accepted it as his disciple. That disciple became famous by the name “Śrī Ṭhākura Murāri.” His followers, in the line of descent, now live in a village called “Śar.” The story of Murāri is bound up with the name of Śrī Śārṅga: even now the name “Śārṅga-Murāri” is heard everywhere.
 
+Today in the village of Māmagāchi there is an old service of Śārṅga Ṭhākura. Recently a temple of Śrī Ṭhākura was built in front of an old *bakula* tree. One wishes that the service there were arranged even better.
+
+The *Gaura-gaṇoddeśa* (verse 172) says: “She who in Vraja was Nāndīmukhī is now Sāraṅga Ṭhākura. Some consider him to be Prahlāda, but my father does not think so.”
+
+## 114
+
+> Subheading: (77) Jagannātha Tīrtha, (78) Jānakīnātha, (79) Gopāla Ācārya, (80) Dvija Vāṇīnātha —
+
+Jagannātha Tīrtha: see Ādi, Chapter 9, verse 14 (*Anubhāṣya*).
+
+Vāṇīnātha. The *Gaura-gaṇoddeśa* (verse 204) says: “The brāhmaṇa Vāṇīnātha, who lived in Campāhaṭṭa, is dear to the Lord.” In Vraja he is Kāmalekhā. Campāhaṭṭa, or Cāṁpāhāṭi, is a small, little-known village in Barddhamāna district, under Pūrvasthalī police station and Samudragaḍa post office. The servitors of the Śrī Caitanya Maṭha at Śrī Māyāpura in ancient Navadvīpa, headed by Śrī Paramānanda Brahmacārī, saw how disordered and neglected the service at this ancient *śrīpāṭa* had become. In the Bengali year 1328 they restored the *pāṭa* and built a new temple. In it the two life-sized Deities installed by Śrī Vāṇīnātha, Śrī Gaura and Gadādhara, delightful to the eyes and the mind, are worshipped according to scripture. The temple of Śrī Gaura-Gadādhara is at Cāṁpāhāṭi, two miles from Samudragaḍa, or Navadvīpa, station on the E.I.R. line.
+
+## 115
+
+> Subheading: (81) Govinda, (82) Mādhava, (83) Vāsudeva —
+
+Govinda, Mādhava and Vāsudeva Ghoṣa were three brothers born in a family of Kāyasthas (by birth) of Uttara-Rāḍha. *Caitanya-bhāgavata* (Antya, Chapter 5): “The pious Mādhava Ghoṣa was devoted to *kīrtana*; there is no such *kīrtana* singer anywhere on earth. He is called the singer of Vṛndāvana; he is most dear to Nityānanda-svarūpa. Mādhava, Govinda and Vāsudeva, the three brothers, began to sing, and Lord Nitāi danced.” The *Gaura-gaṇoddeśa* (verse 188) says: “Kalāvatī, Rasollāsā and Guṇatuṅgā lived in Vraja and sang the songs composed by Śrī Viśākhā. They are now considered to be Govinda, Mādhavānanda and Vāsudeva, respectively.” In Śrī Kṣetra, when the chariot was being pulled, Mahāprabhu formed seven *kīrtana* parties; in one of them these three brothers were the main singers, and Vakreśvara Paṇḍita himself was their chief dancer (Madhya, Chapter 13, verses 42–43).
+
+## 116
+
+> Subheading: (84) Ṭhākura Abhirāma —
+
+## 117
+
+> Subheading: Preaching the holy name in Gauḍa: Nitāi with Abhirāma, Mādhava and Vāsu Ghoṣa —
+
+See Madhya, Chapter 15, verses 42–43.
+
+## 118
+
+> Subheading: (81) Śrī Govinda Ghoṣa Ṭhākura —
+
+Rāmadāsa: see Ādi, Chapter 11, verses 13–16, and Madhya, Chapter 15, verses 42–43.
+
+## 119
+
+> Subheading: (75), (41), (39a), (85) Mādhavācārya, (86) Kamalākānta, (87) Yadunandana —
+
+Mādhavācārya is Mādhavī of Vraja (*Gaura-gaṇoddeśa*, verse 169), a branch of Nityānanda and the husband of Śrīmatī Gaṅgā-devī, the daughter of Nityānanda Prabhu. He received initiation from Puruṣottama (Nāgara) of Nityānanda's company. It is said that at Gaṅgā-devī's wedding Nityānanda Prabhu gave Pāṁjinagara to Mādhava. His *śrīpāṭa* is Jīrāṭ (near the station of that name on the E.I.R. line); see Chapter 11, verse 38.
+
+Kamalākānta is Kamalākānta Viśvāsa of Advaita's company.
+
+Yadunandanācārya belongs to Advaita's branch (Antya, Chapter 6, verses 160–169).
+
+## 120
+
+> Subheading: (88) Jagāi and (89) Mādhāi —
+
+Jagāi and Mādhāi. The *Gaura-gaṇoddeśa* (verse 115) says: “Jaya and Vijaya, the doorkeepers of Vaikuṇṭha, have now been born by their own will as Śrī Jagannātha and Mādhava.” Both lived in Navadvīpa and, though brāhmaṇas by birth, lived by banditry and indulged in every kind of sin. Later, by the mercy of Śrī Mahāprabhu and Nityānanda Prabhu, they received the holy name, and both became *mahā-bhāgavatas*. Mādhāi has descendants; they are *kulīna* brāhmaṇas. On the road to Ākāihāṭ, a mile south of Kāṭoyā, in the village of “Ghoṣahāṭ,” or Mādhāitalā, is the *samāja* (tomb) of Jagāi and Mādhāi. It is said that about two hundred years ago Gopīcaraṇa dāsa Bābājī restored the place and installed the Deities of Śrī Nitāi-Gaura.
+
+## 121
+
+> Subheading: Of the countless devotees of Gauḍa only a few Vaiṣṇavas are named —
+
+## 122
+
+> Subheading: Their service to Gaura both in Gauḍa and in Oḍra —
+
+## 123
+
+> Subheading: A list of only those servants who gathered in Nīlācala —
+
+## 125
+
+> Subheading: The foremost — (1) Śrī Paramānanda and (2) Śrī Svarūpa —
+
+## 126
+
+Raghunātha Vaidya. *Caitanya-bhāgavata*, Antya, Chapter 5 (at Pāṇihāṭī): “At that moment Raghunātha Vaidya came, a supreme Vaiṣṇava whose good qualities are endless.” When Nityānanda was going to Gauḍa, his companions on the way displayed the moods of Vraja. *Caitanya-bhāgavata* (Antya, Chapter 5): “Raghunātha Vaidya Upādhyāya, great of mind, became like Revatī in person.” The same book, Antya, Chapter 6: “Whoever receives his glance feels attraction to Kṛṣṇa.” See *Caitanya-caritāmṛta*, Ādi, Chapter 11, verse 22. He lived in Purī by the seashore and wrote a book named *Sthāna-nirūpaṇa*.
+
+## 130
+
+> Subheading: (3) The branch of Sārvabhauma, (4) Gopīnāthācārya —
+
 ---
 
 [^85-1]: The expression *guru-devatātmā* comes from the *Śrīmad-Bhāgavatam* (11.2.37).

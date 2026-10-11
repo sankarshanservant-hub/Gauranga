@@ -33,3 +33,15 @@ The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: 
 ## 113
 
 “Bhāgavatācārya” lived in Varāhanagara. Even now his *āśrama* is called “the *pāṭa* of Bhāgavatācārya.” “Ṭhākura Sāraṅga dāsa” lived in Māmagāchi.
+
+## 114
+
+“The brāhmaṇa Vāṇīnātha” lived in Campāhāṭī.
+
+## 115
+
+“Govinda” installed the Deity of Gopīnātha at Agradvīpa.
+
+## 116
+
+“Abhirāma” lived in Khānākula-Kṛṣṇanagara.
