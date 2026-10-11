@@ -244,4 +244,34 @@ Kṛṣṇadāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “The noble *brāhma
 
 Kālā Kṛṣṇadāsa. *Caitanya-bhāgavata*, Antya, Chapter 6: “Kāliyā Kṛṣṇadāsa is famous throughout the three worlds; by remembering him one attains Gauracandra.” In the *Gaura-gaṇoddeśa* (verse 132): “He who is Lavaṅga, the friend in Vraja, is Kāla Śrī Kṛṣṇadāsa.” He is one of the twelve *gopālas*, the friend “Lavaṅga.” His *śrīpāṭa* is the village of “Ākāihāṭ” in Barddhamāna district, within Kāṭoyā police station and post office; it lies beside the “Navadvīpa–Kāṭoyā” highway that runs from Kāṭoyā. On the E.I.R. line one goes from Byāṇḍel junction to Kāṭoyā station and walks two miles from there; or one gets off at Dā̃ihāṭ, the station before Kāṭoyā, and the way is about a mile. The village of Ākāihāṭ is very small, and few people live there. The *śrīpāṭa* is now in decay. The temple over Kālā Kṛṣṇadāsa Ṭhākura's *samādhi* has collapsed: its beams broke and everything lies buried. Going from the road through a mango grove, one sees ahead a ruined little room. In it is the Deity's empty altar, and in its southeast corner a thatched shed, under which is the *samāja* of the servitors. The present servitor is Hareramadāsa Bābājī. To the south is a pond: this is “Nūpura-kuṇḍa.” Tradition says that the anklet (*nūpura*) of Raghunandana Ṭhākura, the son of Mukunda of Śrīkhaṇḍa — or, as some say, of Nityānanda Prabhu — fell into this pond. It is said that this anklet, along with Śrī Rādhā-vallabha and Śrī Gopāla Jīu of the Ākāihāṭ *śrīpāṭa*, is still kept at the *mahānta-bāṭī* in the village of Kaḍui, three *krośas* from Ākāihāṭ. There is a handwritten *Śrī Caitanya-bhāgavata* of the year 1200 and a *Śrī Caritāmṛta* copied in 1271. In the month of Caitra, on the twelfth lunar day of the dark fortnight — the day of Vāruṇī — the festival of Śrī Kālā Kṛṣṇadāsa Ṭhākura's disappearance is held here.
 
-According to the “Gosvāmīs” of the village of “Sonātalā,” on the north bank of the river Ichāmatī about 3 miles west of the well-known Beḍābandara in Pābanā district, Kālā Kṛṣṇadāsa Ṭhākura was born in a *brāhmaṇa* family of the Varendra class, of the Bharadvāja *gotra*, and a “Bhāduḍa-grāmī.” From Ākāihāṭ, Kālā Kṛṣṇadāsa Ṭhākura, preaching the holy name,
+According to the “Gosvāmīs” of the village of “Sonātalā,” on the north bank of the river Ichāmatī about 3 miles west of the well-known Beḍābandara in Pābanā district, Kālā Kṛṣṇadāsa Ṭhākura was born in a *brāhmaṇa* family of the Varendra class, of the Bharadvāja *gotra*, and a “Bhāduḍa-grāmī.” From Ākāihāṭ, Kālā Kṛṣṇadāsa Ṭhākura, preaching the holy name, came to Pābanā. In the field where he set up his *āśrama*, ruins of buildings can still be seen. Later his kinsmen also came to this place. As there were no Vārendra *brāhmaṇas* at Ākāihāṭ, he married in this region, and after some time he went again to Ākāihāṭ and to Śrī Vṛndāvana. While he was living in the village of Sonātalā, a son named “Śrī Mohanadāsa” was born to him. He left the boy at the home of his maternal uncle in the village of Sonātalā, or Bhāduṭī-Mathurāpura, gave him all his property, and went with his wife to Śrī Vṛndāvana. In Śrī Vṛndāvana another son was born to him, named “Gaurāṅgadāsa.” Because Gaurāṅgadāsa was born in Śrī Vṛndāvana, he was also called Vṛndāvanadāsa. Later the father sent him too to his eldest son, Mohanadāsa, and told him to take a six-*ānā* share (six-sixteenths) of the property. Gaurāṅgadāsa manifested the Deity of Śrī Kālācā̃da, resembling Śrī Govinda Jīu of Śrī Vṛndāvana, and served Him together with his elder brother.
+
+Kālā Kṛṣṇadāsa Ṭhākura's descendants, headed by Śrī Vijayagovinda Gosvāmī, still live today in Sonātalā and other places in Pābanā district.
+
+At Sonātalā one can still see the site of the *āśrama* house, the bricks of the temple, and the *ghāṭa* of the pond. The Deity here, Śrī Kālācā̃da Jīu, is served in turn by Kālā Kṛṣṇadāsa's descendants themselves. Here, in the month of Agrahāyaṇa, on the twelfth lunar day of the dark fortnight, the festival of Kālā Kṛṣṇadāsa Ṭhākura's disappearance is held.
+
+## 38
+
+> Subheading: (23) Sadāśiva Kavirāja, (24) Puruṣottama (*gopāla* 10) —
+
+## 39
+
+> Subheading: “Nāgara” Puruṣottama —
+
+## 38–39
+
+Sadāśiva Kavirāja and Nāgara Puruṣottama. *Caitanya-bhāgavata*, Antya, Chapter 6: “Sadāśiva Kavirāja is greatly fortunate; his son is named Śrī Puruṣottama dāsa. Puruṣottama dāsa's body has no external consciousness: Nityānanda-candra sports in his heart.” In the *Gaura-gaṇoddeśa* (verse 156): “She who was formerly Candrāvalī in Vraja, most dear to Kṛṣṇa, is now in Gauḍa the Kavirāja Sadāśiva.” Verse 131: “Sadāśiva's son, named Nāgara Puruṣottama, born in a Vaidya family, is he who in Vraja was the cowherd named Dāma.” Sadāśiva Kavirāja's father, Kaṁsāri Sena, is in Kṛṣṇa's pastimes the *sakhī* “Ratnāvalī” of Vraja. Some say that Kaṁsāri Sena lived at Guptipāḍā on the E.I.R. line, but no trace of him can be found there now. Be that as it may, perfected devotees of Gaura like these, four generations in a row, are rare anywhere else.
+
+Śrī Puruṣottama Ṭhākura's *śrīpāṭa* was formerly at Sukhasāgara, equidistant from Cākadaha and Śimurāli stations. First, when the village of Beleḍāṅgā was destroyed, Śrī Puruṣottama Ṭhākura's Deities were brought to Sukhasāgara. Then Sukhasāgara too was swallowed by the Gaṅgā. So Puruṣottama Ṭhākura's Deity was brought to Sāhebaḍāṅgā-Beḍigrāma together with the Deities of Mother Śrī Jāhnavā's *gādi* (seat), which had been at that place. When Beḍigrāma too was destroyed, Puruṣottama Ṭhākura's Deity, together with the Deities of Mother Jāhnavā's *gādi*, was moved to the village of Cā̃nduḍe, where He has now resided for about fifty years.
+
+The village of Cā̃nduḍe on the Bhāgīrathī is in Nadīyā district, within Cākadaha police station, a mile from “Simurāli” station on the E.B.R. line and a mile's walk from “Pālapāḍā.”
+
+Since the old Sukhasāgara was swallowed by the river, the new Sukhasāgara lies 3–4 miles from the village of Cā̃nduḍe, south of Kālīgañja.
+
+Śrī Nityānanda Prabhu's son-in-law, the husband of Śrīmatī Gaṅgā-devī, was Śrī Mādhavācārya (Mādhava Caṭṭopādhyāya) of Jirāṭ; according to some he was a disciple of Śrī Nityānanda Prabhu, according to others of Śrī Jāhnavā-devī, and according to others of this
+
+---
+
+[^25-1]: The edition reads *revata-vaṁśa*, “the line of Revata” (Revata, also called Kakudmī, is Revatī's father). Possibly *revaty-aṁśa* should be read: “born of portions of Vāruṇī and Revatī.”
+
+[^35-1]: So in the edition. The *Caitanya-bhāgavata* itself (Madhya, Chapter 1) apparently reads “of the Prabhu's father,” that is, Jagannātha Miśra: Ratnagarbha Ācārya was his fellow villager from Śrīhaṭṭa.
