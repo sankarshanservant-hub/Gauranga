@@ -118,7 +118,7 @@ A lotus is born only in water; water is never born from a lotus. But here is the
 
 ---
 
-[^36-1]: A *ghaṭikā* is twenty-four minutes. The verse translation reads otherwise: “in just one hour.”
+[^36-1]: A *ghaṭikā* is twenty-four minutes.
 
 [^48-1]: The verse translation reads otherwise: “is surely pleasing to God.”
 
