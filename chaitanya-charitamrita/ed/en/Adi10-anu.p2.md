@@ -240,6 +240,82 @@ Raghunātha Vaidya. *Caitanya-bhāgavata*, Antya, Chapter 5 (at Pāṇihāṭī)
 
 > Subheading: (3) The branch of Sārvabhauma, (4) Gopīnāthācārya —
 
+Sārvabhauma Bhaṭṭācārya's name was “Vāsudeva.” He was the son of Maheśvara Viśārada, a well-known resident of the village “Vidyānagara,” two and a half miles from present-day Navadvīpa, or Cāṁpāhāṭī. It is said that he learned the entire *nyāya-śāstra* by heart from Pakṣadhara Miśra, the chief teacher of the famous school of logic in Mithilā and the foremost logician of India in those days; then he founded a school of logic in Navadvīpa and began to teach. In the history of *nyāya-śāstra* this marked a turning of the ages: from then on Navadvīpa eclipsed Mithilā, and even today it is known throughout India as the foremost seat of the study of logic. According to some, the famous logician Raghunātha Śiromaṇi, author of the *Dīdhiti*, was his student. However that may be, Sārvabhauma gained profound learning in logic and Vedānta and, while remaining in the householder *āśrama*, accepted *kṣetra-sannyāsa* and taught Vedānta in Nīlācala. He made Mahāprabhu hear Vedānta as interpreted in Śaṅkara's commentary, and afterwards learned the true meaning of Vedānta from the Lord. He saw the Lord's six-armed form. His *Caitanya-śataka* reveals devotion to Gaura; in particular the two verses beginning *vairāgya-vidyā-nija-bhakti-yoga* are the summit of Sārvabhauma's learning. For the Lord's meeting with Sārvabhauma, their discussion and his deliverance, see Madhya, Chapter 6. The *Gaura-gaṇoddeśa* (verse 119) says: “Bhaṭṭācārya Sārvabhauma was formerly Gīṣpati (Bṛhaspati) in heaven.”
+
+Gopīnātha Ācārya was a brāhmaṇa of Navadvīpa and a companion of the Lord. He was the husband of Sārvabhauma's sister. The *Gaura-gaṇoddeśa* (verse 178) says: “She who was formerly in Vraja the *prāṇa-sakhī* named Ratnāvalī is now the ācārya named Gopīnātha, renowned for his purity.” According to some, he is Brahmā. The *Gaura-gaṇoddeśa* (verse 75) says: “Brahmā, the lord of the universe, is to be known by the name Gopīnāthācārya; those who know the Tantras count him among the nine *vyūhas* in the Tantra.”
+
+## 131
+
+> Subheading: (5) Kāśī Miśra, (6) Pradyumna Miśra, (7) Rāya Bhavānanda —
+
+Kāśī Miśra was the royal priest. Mahāprabhu lived in his house in Nīlācala. Later the place passed to Śrī Vakreśvara Paṇḍita, and in the time of his disciple Śrī Gopāla-guru Gosvāmī the Deity “Śrī Rādhākānta” was installed there. The *Gaura-gaṇoddeśa* (verse 193) says: “She who was formerly in Mathurā Sairindhrī, beloved of Kṛṣṇa, is now Kāśī Miśra, a resident of Nīlācala, dear to the Lord.”
+
+Pradyumna Miśra was a resident of Oḍiśā. *Caitanya-bhāgavata* (Antya, Chapter 5): “Śrī Pradyumna Miśra is an ocean of Kṛṣṇa's happiness; Śrī Gaurasundara gave him His own feet.” Antya, Chapter 8: “Śrī Pradyumna Miśra is foremost in *prema-bhakti*.” (*Caitanya-caritāmṛta*, Madhya 10.43): “Pradyumna Miśra is the foremost of the Vaiṣṇavas; he is Jagannātha's *mahāsoyāra*, called by the name ‘Dāsa.’” The Lord showed His mercy by making Pradyumna Miśra, a brāhmaṇa by birth, a disciple of the *mahā-bhāgavata* Śrī Rāmānanda, who was not born in a brāhmaṇa family — a disciple by hearing *hari-kathā* from him. For this see Antya, Chapter 5.
+
+Bhavānanda Rāya was the father of Śrī Rāmānanda Rāya. He lived near Brahmagiri, or Ālālanātha, six *krośas* west of Purī. By caste he was a Karaṇa (by birth). For his five sons see verse 133. He was formerly known as “King Pāṇḍu.”
+
+## 133
+
+> Subheading: (8) The five brothers headed by Śrī Rāya Rāmānanda —
+
+## 134
+
+Rāmānanda Rāya. The *Gaura-gaṇoddeśa* (verses 120–124) says: “A certain Arjuna, a *priya-narma-sakha* (an intimate friend of Kṛṣṇa), and Arjuna the Pāṇḍava together became Rāmānanda Rāya, dear to the Lord. Therefore the expert Rāmānanda described to Gauracandra day after day the truths of devotion and love for Rādhā and Kṛṣṇa and so on. Some call him Lalitā, and one alone agrees with this[^134-1]. Gaura said to Bhavānanda: ‘You are the husband of Pṛthā.’ Therefore the best authorities say that Arjuna the Pāṇḍava, having become one with the *gopī* Arjunīyā, is Rāya Rāmānanda. That both Arjunīyā and Arjuna the Pāṇḍava were fully present in him is clearly stated in the *Uttara-khaṇḍa* of the *Padma Purāṇa*. Therefore Rāmānanda Rāya Mahāśaya is all three.” According to some, he is Viśākhā-devī (see Madhya, Chapter 8, Antya, Chapter 5 and elsewhere). His place among the intimate devotees is very high. The Lord's words: “I am a *sannyāsī* and consider Myself detached. Yet, let alone seeing a woman, if I merely hear a woman's name, My body and mind are disturbed. Who can remain steady on seeing a woman? … His body and mind are unmoved, like wood or stone; how wonderful that his mind stays unmoved at the touch of young women! Only Rāmānanda has this qualification. From this I know that his body is transcendental. Only he knows the state of his mind; there is no one else able to know it. ***” (*Caitanya-caritāmṛta*, Antya 5.35–36, 41–43) “Though a householder, Rāya is not under the sway of the six enemies; though engaged in worldly affairs, he instructs *sannyāsīs*.” (Antya 5.80)
+
+With Śrī Svarūpa and with him, Mahāprabhu in His final pastimes constantly tasted the many varieties of Rādhā's *mahābhāva* in separation from Śrī Kṛṣṇa (Madhya, Chapter 2, verse 77); the Lord was won over by his pure friendship (*sakhya*) (ibid., 78). Sārvabhauma's words (Madhya, Chapter 7): “Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor in Vidyānagara. … On earth there is no *rasika* devotee equal to him. He is the very limit of both learning and *bhakti-rasa*.” (Madhya 7.62, 64–65)
+
+See further: the Lord's meeting with Śrī Rāmānanda Rāya; the Lord has Rāya speak on the truths of the goal and the means (*sādhya* and *sādhana*) and listens to him; the Lord shows Rāya His form as Rasarāja and Mahābhāva; the Lord's words: “I am one madman and you are a second madman; therefore you and I are equal” (Madhya 8.290); the Lord tells Rāma Rāya to give up his government service and go to Śrī Kṣetra (Madhya, Chapter 8). After the Lord's preaching in the South — His second meeting with Rāma Rāya; Rāya sends the Lord on to Nīlācala (Madhya, Chapter 9, verses 319–335) and later meets the Lord in Nīlācala (Madhya, Chapter 11, verse 15). Rāya's efforts to obtain the Lord's mercy for King Pratāparudra (Madhya, Chapter 12, verses 41–57); water sports with Sārvabhauma after the *kīrtana* on the day of the Ratha-yātrā (Madhya, Chapter 14, verse 82). Rāya is unwilling to let the Lord go to Vṛndāvana (Chapter 16, verses 10 and 85) but at last, yielding to the Lord's request, consents; the Lord's meeting with the king at Kaṭaka (ibid., 105); the Lord takes leave of Rāya at Remuṇā (ibid., 153); instead of going to Vṛndāvana the Lord returns to Nīlācala by way of Gauḍa and meets Rāya (ibid., 254). His discussion of *rasa* with Śrī Rūpa and his praise of Rūpa's poetry (Antya, Chapter 1, verses 115–196); Rāma Rāya's renunciation equals Sanātana's (ibid., 201). He is one of the “three and a half” vessels of the *rasa* of love for Śrī Rādhā and Kṛṣṇa (Antya, Chapter 2, verse 106); his meeting with Sanātana (Antya, Chapter 4, verse 110); Rāya speaks about Kṛṣṇa to Pradyumna Miśra, whom the Lord sent to him; the Lord praises Rāya (Antya, Chapter 5, verses 4–85). “As Subala formerly helped Kṛṣṇa's happiness, so Rāma Rāya is there to give happiness to Gaura.” (Antya 6.9) “The power of Rāmānanda cannot be described. By Rāya's grace I came to know the pure mood of Vraja.” (Antya 7.37) “Rāmānanda Rāya is the treasury of the *rasa* of Kṛṣṇa; he made Me understand that Kṛṣṇa is Bhagavān Himself.” (Antya 7.23) In the final pastimes the Lord, with Rāma Rāya and Svarūpa, tasted the *rasa* of songs and laments of separation from Kṛṣṇa (Antya, Chapters 14–20). Rāmānanda Rāya wrote the drama *Śrī Jagannātha-vallabha*.
+
+## 135
+
+> Subheading: (9) King Pratāparudra, (10) Kṛṣṇānanda, (11) Paramānanda Mahāpātra, (12) Śivānanda —
+
+Pratāparudra was the emperor of Utkala, of the Gaṅgā dynasty (a Gajapati). His capital was Kaṭaka. Having heard of Mahāprabhu's qualities, he served Him long in humble dress and longed for Him, and then, with the help of Rāma Rāya and Sārvabhauma, received His mercy. The *Gaura-gaṇoddeśa* (verse 118) says: “The great king Indradyumna, who formerly worshipped Jagannātha, has now been born as Pratāparudra, equal to Indra.” At his wish Karṇapūra wrote the drama *Caitanya-candrodaya*.
+
+Paramānanda Mahāpātra. *Caitanya-bhāgavata* (Antya, Chapter 5): “All the followers born in Utkala recognized the Lord of their lives. Śrī Paramānanda Mahāpātra Mahāśaya — Śrī Caitanya is his very body and life; he is full of *bhakti-rasa*.”
+
+## 136
+
+> Subheading: (13) Bhagavān Ācārya, (14) Brahmānanda Bhāratī, (15) Śikhi and (16) Murāri Māhiti —
+
+Bhagavān Ācārya lived in Hālisahara; his son's name was Raghunātha (*Bhakti-ratnākara*). He was lame. Madhya 10.184: “*** and Bhagavān Ācārya: both stayed at the Lord's feet, giving up all their work.” Antya, Chapter 2: “In Puruṣottama, near the Lord, was Bhagavān Ācārya, a supreme Vaiṣṇava, very learned and noble. His heart was filled with the mood of friendship; he was an incarnation of a cowherd boy, and he dealt with Svarūpa Gosāñi as a friend. He had taken shelter of Caitanya's feet with exclusive devotion, and from time to time he invited the Lord for a meal.” (Antya 2.84–86) It was in his house, when the Lord came for a meal, that it came out that Choṭa Haridāsa had begged fine rice from Mādhavī-devī for the Lord and so had spoken with a woman; for this Mahāprabhu rejected him (see Antya, Chapter 2, verses 101–166). Bhagavān Ācārya was very generous and guileless. His father, Śatānanda Khān, was a thoroughly worldly man, and his younger brother, Gopāla Bhaṭṭācārya, was a Māyāvādī. Gopāla studied the Māyāvāda commentary in Kāśī and came to his elder brother in Purī; out of affection Bhagavān wanted to hear Māyāvāda from him, but Śrī Svarūpa stopped him, saying that it is hostile to devotion (Antya, Chapter 2, verses 89–100). One day a Bengali poet, a mere versifier whom Bhagavān had known before, composed a drama contrary to the teachings of devotion, brought it, stayed at his lodging and wanted to recite it to the Lord. Śrī Svarūpa had doubts, but Bhagavān begged him to hear the drama. As soon as the poet recited the *nāndī* verse, Śrī Svarūpa showed how much in the drama contradicted the teachings of devotion. In the end the poet took shelter at the feet of the devotees (Antya, Chapter 5, verses 91–166). See *Caitanya-bhāgavata*, Antya, Chapter 3. The *Gaura-gaṇoddeśa* (verse 74) says: “The lame Ācārya Bhagavān is said to be a *kalā* (portion) of Gaura.”
+
+Śikhi Māhiti. The *Gaura-gaṇoddeśa* (verse 189) says: “Rāgalekhā and Kalākeli, maidservants of Rādhā, are now known as Śikhi Māhāti and his sister Mādhavī, respectively.” Both he and his sister were intimate and qualified devotees of the Lord from Utkala. The *Caitanya-carita-mahākāvya* (canto 13, 89–109) tells of them. In Puruṣottama-kṣetra lived a great soul named Śikhi Māhiti (Mahānti), pure-hearted and compassionate. He was a servant of Śrī Jagannātha, the ornament of Nīlācala. His younger brother was named Murāri Māhiti, and his younger sister was the pure-minded Mādhavī-devī. The younger brother and sister were both devoted to Gaurasundara: their inborn, steady and auspicious intelligence never allowed them to forget Śrī Gaurasundara. Now Vṛndāvanacandra Kṛṣṇa has risen on this earth in the form of Gauracandra and constantly showers this brother and sister with Gaura's affection. They tried their utmost to bring their elder brother Śikhi Māhiti, the loving servant of Jagannātha, the Lord of Nīlācala, to the worship of Śrī Gaurasundara, but Śikhi Māhiti would not take up the worship of Gaura at all.
+
+One day, after hearing his siblings' advice and reflecting on it long and hard, he fell asleep, and toward dawn he started up: he had dreamed that his younger siblings, who see Gaura's lotus feet, were waking him. At this wonderful dream his hair stood on end; doubly amazed and overjoyed, he slowly opened his tear-filled eyes and saw his brother and sister. Awake now and seeing those great younger ones beside him, he embraced them with great joy. They were all astonished. Śikhi Māhiti began to tell them: “Brother, listen to the dream I have had — it is most wonderful. Only today have I become convinced that the glory of Śrī Śacī's son is immeasurable. I saw Gaurasundara looking at the Lord of Nīlācala, entering into Him moment after moment, coming out again and again and looking at Him once more — such is the pastime He was displaying. How wonderful! Even now I see the Supreme Lord Gaurasundara in that very state — are my eyes deceiving me? Ah, that ocean of boundless mercy, Gaurasundara, saw me near Jagannātha-deva, called me by name and, as it were, embraced me with His long, raised, graceful arms.” So, with his hair standing on end, tears in his eyes and his voice choked with love, Śikhi spoke these words and went out. Murāri and Mādhavī, hearing their elder brother's words, asked him to go to Jagannātha for the Lord's *darśana*. Then all three agreed and went for the *darśana* of the Lord of Nīlācala. Murāri and Mādhavī saw the Lord in the *jagamohana* and shed tears of joy, but the elder, Śikhi Māhiti, saw Gaurasundara on all sides exactly as he had seen Him in the dream, in the very same mood, and his heart blossomed with love. The supremely magnanimous Mahāprabhu said, “Are you Murāri's elder brother?” and embraced him with both arms; and Śikhi Māhiti, his mind absorbed in service to Gaura, felt immense happiness. From then on Śikhi Māhiti, intoxicated by the fragrance of Gaura's lotus feet, forgot everything else and served Śrī Gaura, the Lord of his heart.
+
+Murāri Māhiti. Madhya 10.44: “This is Murāri Māhiti, the brother of Śikhi Māhiti. He has no refuge but Your feet.”
+
+## 137
+
+> Subheading: (17) Mādhavī-devī —
+
+Mādhavī-devī (Antya, Chapter 2, verses 104–106): “She whom the Lord counts among Rādhikā's company. In all the world there are only three and a half such vessels: Svarūpa Gosāñi and Rāya Rāmānanda, Śikhi Māhiti — these three; and his sister is the half.” (Antya 2.105–106)
+
+## 138
+
+> Subheading: (18) Kāśīśvara, (19) Govinda —
+
+Govinda was Mahāprabhu's personal servant. The *Gaura-gaṇoddeśa* (verse 137) says: “Those who were formerly the servants Bhṛṅgāra and Bhaṅgura in Vṛndāvana have now been born as Śrī Kāśīśvara and Govinda, the servants of the Lord.” For the Lord's meeting with Govinda, the disciple of Īśvara Purī, see Madhya, Chapter 10, verses 131–148. The Lord was won over “by the pure *dāsya-rasa* of Govinda and others” (Madhya, Chapter 2, verse 78). For the sake of the Lord's service Govinda did not hesitate to step over the Lord's body, but for his own sake he feared the offense in such an act: “Govinda said: ‘My service is my rule. Let there be offense, or even going to hell.’” (Antya 10.95) See Madhya, Chapter 10, verses 82–100[^138-1].
+
+## 140
+
+> Subheading: Honoring all that is connected with the guru and reasoning that “the order of the guru is not to be questioned,” He accepts their service —
+
+## 141
+
+> Subheading: The service of Govinda and Kāśīśvara to Gaura —
+
+## 143
+
+> Subheading: (20) Rāmāi, (21) Nandāi —
+
+Rāmāi and Nandāi. The *Gaura-gaṇoddeśa* (verse 139) says: “Payoda and Vārida, who formerly prepared the water, are now the two servants known as Rāmāi and Nandāi.” They served the Lord under Govinda's guidance.
+
 ---
 
 [^85-1]: The expression *guru-devatātmā* comes from the *Śrīmad-Bhāgavatam* (11.2.37).
+
+[^134-1]: The meaning of this line of the verse is unclear (literally, “some call him Lalitā; this is accepted by one”); it is translated literally.
+
+[^138-1]: So in the edition; the episode is in Antya, Chapter 10, verses 82–100.

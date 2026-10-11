@@ -45,3 +45,13 @@ The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: 
 ## 116
 
 “Abhirāma” lived in Khānākula-Kṛṣṇanagara.
+
+## 138
+
+“Govinda and Kāśīśvara” were disciples of Īśvara Purī. When Īśvara Purī attained perfection, they came at his command to Mahāprabhu in Nīlācala.
+
+## 142
+
+“Without touching”: without making contact.
+
+*Thus ends the tenth chapter of the “Amṛta-pravāha-bhāṣya.”*
