@@ -202,6 +202,8 @@ Haridāsa Brahmacārī is counted among the associates of both Advaita and Gadā
 
 > Subheading: (37) Vijaya and (38) Śrīrāma Paṇḍita —
 
+Śrīrāma Paṇḍita was the younger brother of Śrīvāsa Paṇḍita. *Gaura-gaṇoddeśa*, 91: “The best of sages named Parvata, who was dear to Nārada, is the glorious Śrīrāma Paṇḍita, his younger brother.” See Madhya, Chapter 13, 39.
+
 ## 66
 
 > Subheading: By the power of Gaura's mercy the servants of Advaita who accept the essence flourish —
@@ -209,10 +211,6 @@ Haridāsa Brahmacārī is counted among the associates of both Advaita and Gadā
 ## 67
 
 > Subheading: Only the unfortunate worthless ones who fancy themselves Advaita's servants oppose Gaura and, deprived of His mercy, perish —
-
-## 65
-
-Śrīrāma Paṇḍita was the younger brother of Śrīvāsa Paṇḍita. *Gaura-gaṇoddeśa*, 91: “The best of sages named Parvata, who was dear to Nārada, is the glorious Śrīrāma Paṇḍita, his younger brother.” See Madhya, Chapter 13, 39.
 
 ## 70
 
