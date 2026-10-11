@@ -2021,3 +2021,137 @@
   cc: "Ади 8"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi08.md", from: "81", to: "85"}
+
+# --- Ади 9: Древо желаний бхакти ---
+- id: cc-0101
+  source: cc
+  ref: "Ади 9.1–5"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 690
+  title: "Мангалачарана девятой главы: по милости Чайтаньи даже собака переплывает океан; вандана преданным и шести Госвами"
+  summary: "Автор кланяется Шри Кришна Чайтанье, мировому гуру, по милости Которого даже собака легко переплывает великий океан; слава Гаурачандре, Адвайте, Нитьянанде и преданным Гауры во главе со Шривасой, памятование о которых исполняет все желания; по милости Рупы, Санатаны, Рагхунатхи Бхатты, Дживы, Гопалы Бхатты и Рагхунатхи даса он пишет о лилах и качествах Чайтаньи — понимает он их или нет — ради собственного очищения."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@advaita", "@nityananda", "@srivasa", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  cc: "Ади 9"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "1", to: "5"}
+
+- id: cc-0102
+  source: cc
+  ref: "Ади 9.6–12"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 700
+  title: "Вишвамбхара — садовник: древо бхакти посажено в Навадвипе; Мадхавендра Пури — первый росток, Ишвара Пури — росток, Сам Чайтанья — ствол"
+  summary: "Шри Чайтанья — Сам садовник и Сам бессмертное древо любви к Кришне, дающий и вкушающий его плоды; Господь подумал: «Имя Вишвамбхара оправдается, если Я наполню вселенную премой», принял роль садовника и в Навадвипе начал разводить плодовый сад: принёс на землю древо желаний бхакти, посадил и поливал водой Своей воли; Мадхавендра Пури — первый росток, в облике Ишвары Пури росток окреп, а Сам садовник Своей непостижимой энергией стал стволом — опорой всех ветвей."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@madhavendra-puri", "@ishvara-puri"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, prema, gaura-tattva]
+  cc: "Ади 9"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "6", to: "12"}
+
+- id: cc-0103
+  source: cc
+  ref: "Ади 9.13–16"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 710
+  title: "Девять корней древа: санньяси во главе с Парамананда Пури"
+  summary: "Девять корней выросли у основания ствола и держат древо: Парамананда Пури, Кешава Бхарати, Брахмананда Пури, Брахмананда Бхарати, Вишну Пури, Кешава Пури, Кришнананда Пури, Шри Нрисимха Тиртха и Сукхананда Пури; центральный корень — Парамананда Пури, великий и стойкий."
+  persons: ["@krishnadasa-kaviraja", "@paramananda-puri", "@keshava-bharati", "@brahmananda-puri", "@brahmananda-bharati", "@vishnu-puri", "@keshava-puri", "@krishnananda-puri", "@narasimha-tirtha", "@sukhananda-puri"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Шри Нрисимха Тиртха отмечен тегом @narasimha-tirtha (Нарасимха Тиртха, ГГД 100). В 9.16 в издании Гаудия Матха — «на этих девяти корнях» (в других изданиях — «восемь корней в восьми сторонах»)."
+  themes: [teaching]
+  teaching: [associates-tattva]
+  cc: "Ади 9"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "13–15", to: "16"}
+
+- id: cc-0104
+  source: cc
+  ref: "Ади 9.17–30"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 720
+  title: "Ветви древа — Адвайта и Нитьянанда и бесчисленные ученики; садовник раздаёт плоды премы даром"
+  summary: "Над стволом выросли бесчисленные ветви, по двадцать в каждой группе, и покрыли вселенную; перечень главных ветвей — впереди; выше ствол разделился на два — Адвайту и Нитьянанду, и их ветви, ученики, ученики учеников и последователи заполнили мир; как смоковница-удумбара, древо бхакти плодоносит повсюду, и плод премы слаще нектара; садовник Чайтанья раздаёт созревшие плоды, не беря платы — все богатства трёх миров не стоят одного плода, — не разбирая, просят или нет, достойны или нет: бросает пригоршнями во все стороны, бедные подбирают и едят, а садовник улыбается."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@advaita", "@nityananda"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, prema]
+  cc: "Ади 9"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "17", to: "30"}
+
+- id: cc-0105
+  source: cc
+  ref: "Ади 9.31–46"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 730
+  title: "Повеление садовника: раздавайте плоды всем; рождённый в Бхарате — живи для блага других"
+  summary: "Садовник говорит семье древа: это древо необычайно — недвижное, оно действует всеми чувствами, все его части сознательны; один Я не обойду всех мест и не раздам столько плодов, а сам столько не съем — потому велю вам раздавать плоды премы всем и повсюду, чтобы люди стали свободны от старости и смерти и мир воспел Мою славу; рождённый человеком в земле Бхараты должен сделать жизнь осмысленной, творя благо другим (Бхаг. 10.22.35; Вишну-пурана 3.12.45); Я — садовник без царства и богатства и стал также древом, чтобы им кормились все существа, как деревья, никого не отпускающие ни с чем (Бхаг. 10.22.33)."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [prema, holy-name]
+  scriptures: ["Шримад-Бхагаватам 10.22.35", "Вишну-пурана 3.12.45", "Шримад-Бхагаватам 10.22.33"]
+  cc: "Ади 9"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "31", to: "46"}
+
+- id: cc-0106
+  source: cc
+  ref: "Ади 9.47–53"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 740
+  title: "Ветви раздают плоды премы: весь мир опьянён любовью, даже прежние хулители пляшут"
+  summary: "Обрадованные повелением ветви раздают плоды премы повсюду; вкусив их досыта, люди пьянеют — смеются, пляшут, поют, катаются по земле и рычат, а садовник смеётся от радости; Сам садовник вкушает этот плод и всегда пребывает опьянённым, беспомощным и взволнованным; Он сделал всех подобными Себе — нет никого, кто не опьянён премой; даже те, кто прежде хулил Его, называя пьяницей, едят плод, пляшут и восклицают: «Прекрасно!»"
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy, mercy]
+  bhava: [devotee]
+  teaching: [prema]
+  cc: "Ади 9"
+  event: ev-tattva-bhakti-kalpataru
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "47", to: "53"}
+
+- id: cc-0107
+  source: cc
+  ref: "Ади 9.54–55"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md"
+  period: PX
+  order: 750
+  title: "Переход к перечню ветвей; колофон девятой главы"
+  summary: "Так рассказано о раздаче плодов премы; теперь — о ветвях, раздающих плоды (Ади 10–12); колофон: Кришнадас, уповая на стопы Рупы и Рагхунатхи, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Ади 9"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi09.md", from: "54", to: "55"}
