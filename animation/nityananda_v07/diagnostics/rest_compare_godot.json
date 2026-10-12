@@ -1,0 +1,5 @@
+{
+ "max_abs_diff": 26,
+ "mean_abs_diff": 0.4288325422705621,
+ "pixels_diff_gt_8": 5204
+}
