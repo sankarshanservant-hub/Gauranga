@@ -110,3 +110,149 @@ The *Brahma-saṁhitā*: Madhya 9.237–241 and the *Anubhāṣya*; the *Karṇ�
 
 Ālālanātha, also called “Brahmagiri.” About fourteen miles from Purī along a sandy road stands the temple. Today there is a police station and a post office here (see the *Amṛta-pravāha-bhāṣya* on Madhya 7.59).
 
+## 123
+
+> Subheading: Hearing that the devotees of Gauḍa are coming —
+
+## 124
+
+> Subheading: The Lord is brought back to Purī —
+
+## 125
+
+> Subheading: The Lord's separation from Kṛṣṇa day and night —
+
+## 126
+
+> Subheading: *Kīrtana* with the devotees —
+
+## 127
+
+> Subheading: The earlier order to Rāya to come to Purī —
+
+## 128
+
+> Subheading: Coming to Purī by the king's order, Rāya discusses Kṛṣṇa with the Lord —
+
+## 129
+
+> Subheading: Meeting Kāśī and Pradyumna Miśra, Paramānanda Purī, Govinda and Kāśīśvara —
+
+## 130
+
+> Subheading: Meeting Śrī Svarūpa Dāmodara and Śikhi Māhiti —
+
+## 121–130
+
+See Madhya, Chapter 10.
+
+## 131
+
+> Subheading: Meeting the residents of Kulīna-grāma who have come from Gauḍa —
+
+## 132
+
+> Subheading: Meeting the residents of Khaṇḍa and Śivānanda —
+
+## 131–132
+
+See Madhya, Chapter 11.
+
+## 133
+
+> Subheading: Seeing the Snāna-yātrā with the devotees, and cleaning the Guṇḍicā temple —
+
+See Madhya, Chapter 12.
+
+## 134
+
+> Subheading: Dancing and *kīrtana* before the chariot —
+
+## 135
+
+> Subheading: Mercy to Pratāparudra —
+
+## 134–135
+
+Madhya, Chapter 13 describes the dancing before the chariot, and Chapter 14 the going to the garden and the mercy to Pratāparudra.
+
+## 136
+
+> Subheading: The yearly invitation to the Gauḍīya devotees —
+
+## 137
+
+> Subheading: Sārvabhauma feeds the Lord; the offense of his son-in-law Amogha, and Amogha's deliverance —
+
+See Madhya, Chapter 15.
+
+## 138
+
+> Subheading: The next year Advaita and the other devotees come from Gauḍa —
+
+## 139
+
+> Subheading: The Lord arranges for everyone —
+
+## 140
+
+> Subheading: The departure of Śivānanda's dog after seeing the Lord's feet —
+
+## 141
+
+> Subheading: Meeting Sārvabhauma on the road to Purī, as he was going to Kāśī —
+
+## 142
+
+> Subheading: Water sports with the devotees —
+
+## 143
+
+> Subheading: Dancing before the chariot and cleaning the Guṇḍicā temple —
+
+## 144
+
+> Subheading: The Lord's pastimes, absorbed in the mood of separation (*vipralambha*) —
+
+## 145
+
+> Subheading: Water sports after the dance, and Herā-pañcamī —
+
+## 146
+
+> Subheading: The cowherd pastime on Janmāṣṭamī —
+
+## 147
+
+> Subheading: Farewell to the Gauḍīya devotees —
+
+## 148
+
+> Subheading: Pratāparudra's service to the Lord as He went to Gauḍa, not (directly) to Vṛndāvana —
+
+## 149
+
+> Subheading: Rāya accompanies the Lord as far as Bhadraka —
+
+## 150
+
+> Subheading: Arrival at Vidyānagara in Gauḍa —
+
+## 151
+
+> Subheading: Arrival at Kuliyā —
+
+## 152
+
+> Subheading: The crowds that came to see the Lord —
+
+## 153
+
+> Subheading: The forgiving of the offenses of Devānanda and Gopāla Cāpāla at Kuliyā —
+
+On the deliverance of Gopāla Cāpāla, see Ādi 17.55–59.
+
+## 155
+
+> Subheading: Hearing that the Lord would go to Vraja, Nṛsiṁhānanda in meditation decorates the road as far as Kānāi's Nāṭaśālā and paves it with jewels —
+
