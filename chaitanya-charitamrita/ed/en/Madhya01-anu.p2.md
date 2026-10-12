@@ -604,6 +604,72 @@ See Antya, Chapter 9.
 
 See Antya, Chapter 8.
 
+## 267
+
+> Subheading: The deliverance of countless beings of the universe through darśana of the Lord —
+
+## 269
+
+> Subheading: The Lord's rebuke and show of anger because Śrīvāsa and the other devotees sing of Gaura, and His order to sing of Kṛṣṇa —
+
+## 272
+
+> Subheading: Cries of victory to Gaura from countless throats, and the expression of their distress —
+
+## 275
+
+> Subheading: The Lord's compassion —
+
+## 276
+
+> Subheading: Having received the merciful order of Śrī Mahāprabhu, countless people cry out “Gaurahari” —
+
+## 277
+
+> Subheading: Praise of the Lord —
+
+## 278
+
+> Subheading: Hearing the cries of victory from millions of throats and seeing his chance, Śrīvāsa reproaches the Lord —
+
+## 281
+
+> Subheading: The Lord's embarrassment, and His feigned rebuke of Śrīvāsa —
+
+## 282
+
+> Subheading: The people are delivered by the Lord's shower of merciful glances —
+
+## 267–282
+
+See Antya 9.7–12.
+
+## 283
+
+> Subheading: Śrī Raghunātha's service to Nityānanda and His associates at Pāṇihāṭi —
+
+## 284
+
+> Subheading: Then, by Nityānanda's mercy, Raghunātha leaves home, comes to the Lord's feet at Purī, and surrenders himself to Dāmodara Svarūpa —
+
+## 283–284
+
+“I worship Caitanya-candra, the ocean of dense compassion, free in will by His very nature. In an instant, with the ropes of mercy, He lifted me out of the great waterless well of the insurmountable house, out of endless exhaustion, brought me to the edge of His own feet that put the lotus to shame, and Himself gave me over to Śrī Dāmodara.” (*Vilāpa-kusumāñjali* 5) See Antya, Chapter 6.
+
+## 285
+
+> Subheading: Brahmānanda Bhāratī gives up his garment of hide —
+
+See Madhya, Chapter 10.
+
+## 286
+
+> Subheading: Of the eighteen years, apart from six, the *sūtras* of the last twelve years are to be described later —
+
+Following the practice of Vyāsa mentioned in Ādi 17.312, the author wrote a restatement (*anuvāda*) of what he had set down, at the end of each of the three *līlās* — Ādi, Madhya and Antya. In the Ādi-līlā he wrote only *sūtras* for the five stages of life, described some pastimes, and referred to Śrī Vṛndāvana dāsa's detailed account. Having written in this chapter the *sūtras* of the Śeṣa-līlā, that is, of the Madhya- and Antya-līlās, he set down in the second chapter the *sūtras* of the last twelve years. Then, step by step, he described the Madhya- and Antya-līlās in detail. His purpose is stated in Antya 1.10–11: “Within the Madhya-līlā are the *sūtras* of the Antya-līlā; I described them briefly in the earlier book. I am overcome by old age and know that death is near, so I have described some *sūtras* of the Antya-līlā.”
+
+*Thus ends the first chapter of the “Anubhāṣya.”*
+
 ---
 
 [^178-1]: *Manu-saṁhitā* 7.8. (The edition gives no number.)

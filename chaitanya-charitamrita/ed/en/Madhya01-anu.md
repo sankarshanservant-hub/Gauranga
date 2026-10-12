@@ -190,6 +190,38 @@ Further, the *Laghu-toṣaṇī* says: “Among the works of the younger of thes
 
 See the Anubhāṣya on Ādi 10.85.
 
+## 45
+
+> Subheading: Writing books and living in Vṛndāvana with their own company (*goṣṭhī*) —
+
+## 46
+
+> Subheading: In the first year after the Lord's *sannyāsa*, Advaita and the other Gauḍīyas go to Purī —
+
+## 47
+
+> Subheading: In Purī they pass *Cāturmāsya* in *kīrtana* and other practices —
+
+## 48
+
+> Subheading: The Lord invites them to come every year to see Guṇḍicā —
+
+## 49
+
+> Subheading: Every year the Gauḍīya devotees come to Purī to see Guṇḍicā —
+
+## 50
+
+> Subheading: For twelve of the last 24 years, the Lord meets with the devotees —
+
+## 51
+
+> Subheading: The last 12 years: the Lord's separation from Kṛṣṇa —
+
+## 52
+
+> Subheading: Day and night, the divine madness born of separation from Kṛṣṇa —
+
 ---
 
 [^35-1]: Unclear: the edition prints *trayī trayī* (literally “triad, triad”); the meaning is not established, and the words are rendered literally.

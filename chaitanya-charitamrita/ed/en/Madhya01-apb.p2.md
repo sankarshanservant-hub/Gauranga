@@ -87,3 +87,9 @@ A woman in love with another man, even while busy with household chores, tastes 
 ## 227
 
 *Kṛṣṇa-caritra-līlā*. In those days in many places in Gauḍa there was an arrangement called a “Kānāi-Nāṭaśālā.” At the Kānāi-Nāṭaśālā near Gauḍa the Lord saw many kinds of depictions of Kṛṣṇa's pastimes.
+
+## 281
+
+In some readings this line is replaced by: “You do all the things that cause Me pain.”
+
+*Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”*

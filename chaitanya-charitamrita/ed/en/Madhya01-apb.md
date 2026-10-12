@@ -43,3 +43,15 @@ See Ādi 1.17.
 ## 40
 
 ***Govinda-virudāvalī*** is included in the *Stava-mālā*. ***Nāṭaka-varṇana*** — the *Nāṭaka-candrikā*.
+
+## 48
+
+***Guṇḍicā.*** During the Ratha-yātrā, Śrī Jagannāthadeva goes to the temple called Guṇḍicā, at the place called Sundarācala, and performs His pastimes there for nine nights; for this reason the people of Orissa call the Ratha-yātrā the Guṇḍicā-yātrā.
+
+## 50
+
+The Lord and the Lord's devotees were not happy without meeting one another.
+
+## 51
+
+The pastime of the *gopīs'* separation from Kṛṣṇa was always awake in the Lord's inner being, that is, in His *antaḥkaraṇa*.
