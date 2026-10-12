@@ -207,3 +207,198 @@
   event: ev-ramakeli-rupa-sanatana
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "182", to: "218"}
+
+- id: cc-P2-10
+  source: cc
+  ref: "Мадхья 1.219–226"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 12.2
+  title: "Рамакели: братья кланяются спутникам Господа и советуют Ему уйти — с такой толпой не ходят во Вриндаван"
+  summary: "При встрече были Нитьянанда, Харидас, Шривас, Гададхар, Мукунда, Джагадананда, Мурари и Вакрешвар; братья падают к стопам каждого, и все говорят: «Вы благословенны — вы обрели Господа». Прощаясь, они смиренно просят Господа уйти: хоть царь Гауды и почитает Его, он мусульманин, доверять ему нельзя; идти во Вриндаван с толпой в сотни тысяч человек — не подобает. Господу нечего бояться, но Его лила — человеческая. Братья уходят, и Господь решает покинуть деревню."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu", "@nityananda", "@haridasa-thakura", "@srivasa", "@gadadhara-pandita", "@mukunda-datta", "@jagadananda-pandita", "@murari-gupta", "@vakreshvara", "@gauda-sultan"]
+  places: ["#ramakeli"]
+  kind: lila
+  authority: A
+  notes: "Подробнее совет Санатаны — Мадхья 16."
+  themes: [mercy, muslims, pilgrimage]
+  years: [1514, 1514]
+  date_conf: вероятно
+  date_basis: "путь в Гауду, 1514 г. (ev-departure-for-gauda)"
+  cc: "Мадхья 1; Мадхья 16"
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "219", to: "226"}
+
+- id: cc-P2-11
+  source: cc
+  ref: "Мадхья 1.227–231"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 13
+  title: "Канаи Наташала: картины лил Кришны; по совету Санатаны Господь оставляет поход с толпой и объявляет, что идёт в Нилачалу"
+  summary: "Утром Господь приходит в Канаи Наташалу и видит там изображения лил Кришны. Ночью Он размышляет: Санатана сказал, что толпа — нехорошо; идти в Матхуру с таким множеством людей — нарушить расу; идти надо одному или с одним спутником. Утром, омывшись в Ганге, Он говорит: «Пойду в Нилачалу» — и отправляется в путь."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kanai-natashala", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Сбывается предсказание Нрисимхананды (Мадхья 1.161–162)."
+  themes: [pilgrimage, krishna-lila]
+  years: [1514, 1514]
+  date_conf: вероятно
+  date_basis: "путь в Гауду, 1514 г. (ev-departure-for-gauda)"
+  cc: "Мадхья 1; Мадхья 16"
+  event: ev-natashala-kanai-return
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "227", to: "231"}
+
+- id: cc-P2-12
+  source: cc
+  ref: "Мадхья 1.232–235"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 15
+  title: "Шантипур: пять–семь дней у Адвайты; Шачи семь дней кормит Господа; прощание с преданными"
+  summary: "Господь приходит в Шантипур и пять–семь дней живёт в доме Адвайты Ачарьи. Приходит Шачидеви и выражает Ему почтение; семь дней Господь принимает пищу у неё. С её позволения Он снова отправляется в путь и смиренно прощается с преданными: в Нилачалу Он пойдёт с двумя спутниками, а с остальными встретится на Ратха-ятре."
+  persons: ["@mahaprabhu", "@advaita", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "У ВЧД ст. 233 передан вольно: «Адвайта не замедлил пригласить Шачидеви, и та семь дней готовила»."
+  themes: [family, prasada, separation]
+  years: [1514, 1514]
+  date_conf: вероятно
+  date_basis: "возвращение из Гауды, 1514 г. (оценка)"
+  cc: "Мадхья 1; Мадхья 16"
+  divergence: "У Мурари и Лочана Даса (ev-shantipura-second-visit) пребывание у Адвайты в Шантипуре отнесено и ко времени после Вриндавана; в ЧЧ — после поворота от Канаи Наташалы."
+  event: ev-shantipura-after-natashala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "232", to: "235"}
+
+- id: cc-P2-13
+  source: cc
+  ref: "Мадхья 1.236"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 20
+  title: "Господь возвращается в Нилачалу с Балабхадрой Бхаттачарьей и Дамодарой Пандитом"
+  summary: "С двумя спутниками — Балабхадрой Бхаттачарьей и Пандитом Дамодарой — Господь приходит в Нилачалу."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра-перечень."
+  themes: [pilgrimage, jagannatha]
+  years: [1514, 1515]
+  date_conf: оценка
+  date_basis: "после пути в Гауду 1514 г.; осенью 1515 г. — уход во Вриндаван (оценка)"
+  cc: "Мадхья 1; Мадхья 16"
+  event: ev-return-puri-after-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "236", to: "236"}
+
+- id: cc-P2-14
+  source: cc
+  ref: "Мадхья 1.237–240"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 25
+  title: "Тайный уход во Вриндаван с одним Балабхадрой: Джхарикханда, Каши, Матхура, двенадцать лесов; Балабхадра уводит Господа из Матхуры"
+  summary: "Пробыв в Нилачале несколько дней, Господь тайно, ночью, уходит во Вриндаван; с Ним лишь Балабхадра Бхаттачарья. Лесной дорогой Джхарикханды, являя разные игры, Он приходит в Каши; через четыре дня идёт во Вриндаван, видит Матхуру и обходит двенадцать лесов. При виде мест лил Он теряет покой от премы, и Балабхадра уводит Его из Матхуры."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#puri", "#jharikhanda", "#kashi", "#mathura", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Сутра-перечень; подробно — Мадхья 17–18. Ст. 239 — у ВЧД в перевод вставлен перечень двенадцати лесов (из «Анубхашьи»); снят, перечень дан в комментарии. Уход из Матхуры — ср. ev-akrura-ghata-fall."
+  themes: [pilgrimage, krishna-lila, ecstasy]
+  years: [1515, 1515]
+  date_conf: оценка
+  date_basis: "поход во Вриндаван — по традиционной хронологии осень 1515 г. (оценка)"
+  cc: "Мадхья 1; Мадхья 17–18"
+  event: ev-departure-for-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "237", to: "240"}
+
+- id: cc-P2-15
+  source: cc
+  ref: "Мадхья 1.241–243"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 182
+  title: "Праяга: встреча с Рупой, наставление; Рупа послан во Вриндаван"
+  summary: "Дорогой вдоль Ганги Балабхадра приводит Господа в Праягу; там к Нему приходит Шри Рупа и падает ниц, и Господь в великом блаженстве обнимает его. Наставив Рупу, Господь посылает его во Вриндаван, а Сам идёт в Варанаси."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@balabhadra-bhattacharya"]
+  places: ["#prayaga", "#ganga", "#kashi"]
+  kind: lila
+  authority: A
+  notes: "Сутра-перечень; подробно — Мадхья 19."
+  themes: [mercy, teaching, pilgrimage]
+  years: [1516, 1516]
+  date_conf: оценка
+  date_basis: "на обратном пути из Матхуры, перед двумя месяцами в Каши — начало 1516 г. (оценка)"
+  cc: "Мадхья 1; Мадхья 19"
+  divergence: "У Лочана Даса встречи с Рупой и Санатаной объединены (в ЧЧ — Праяга и Каши раздельно)."
+  event: ev-rupa-prayaga
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "241", to: "243"}
+
+- id: cc-P2-16
+  source: cc
+  ref: "Мадхья 1.244–245"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P13
+  order: 185
+  title: "Каши: два месяца наставлений Санатане; Санатана послан в Матхуру; милость к санньяси; возвращение в Нилачалу"
+  summary: "В Каши к Господу приходит Санатана; два месяца Господь наставляет его, а затем, наделив силой бхакти, посылает в Матхуру. Оказав милость санньяси, Господь уходит в Нилачалу."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@prakashananda-sarasvati"]
+  places: ["#kashi", "#mathura", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра-перечень; подробно — Мадхья 20–25. «Санньяси» — по «Анубхашье», Пракашананда (Мадхья 25: ev-varanasi-sannyasis)."
+  themes: [teaching, mercy, sannyasa]
+  years: [1516, 1516]
+  date_conf: оценка
+  date_basis: "на обратном пути из Матхуры, два месяца в Каши — начало 1516 г. (оценка)"
+  cc: "Мадхья 1; Мадхья 20, 25"
+  event: ev-sanatana-kashi-instruction
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "244", to: "245"}
+
+- id: cc-P2-17
+  source: cc
+  ref: "Мадхья 1.246–248"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: PX
+  order: 990
+  title: "Итог Мадхья-лилы: шесть лет странствий и жизни в Кшетре, киртан и даршан Джаганнатхи; переход к сутрам Антья-лилы"
+  summary: "Шесть лет Господь так совершал Свои игры — то странствуя, то живя в Кшетре; в блаженстве с преданными Он постоянно пел киртан, созерцал Джаганнатху и вкушал игры любви. Так автор изложил сутры Мадхья-лилы и приглашает преданных слушать сутры Антья-лилы."
+  persons: ["@mahaprabhu", "@krishnadasa-kaviraja", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: author
+  authority: A
+  themes: [author, kirtan]
+  cc: "Мадхья 1"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "246", to: "248"}
+
+- id: cc-P2-18
+  source: cc
+  ref: "Мадхья 1.249–256"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P14
+  order: 1
+  title: "Восемнадцать лет в Нилачале: спутники, живущие с Господом, и ежегодные приходы преданных Гауды на четыре месяца"
+  summary: "Вернувшись из Вриндавана, Господь восемнадцать лет живёт в Нилачале и никуда не уходит. Каждый год приходят преданные Гауды и остаются с Ним четыре месяца; Господь непрестанно поёт и пляшет в киртане и дарует любовную преданность всем, вплоть до чандалов. В Нилачале живут Гададхара Пандит, Вакрешвар, Дамодар, Шанкар, Харидас, Джагадананда, Бхавананда, Говинда, Кашишвар, Парамананда Пури, Сварупа Дамодара, Рамананда Рай и другие жители Кшетры; каждый год приходят Адвайта, Нитьянанда, Мукунда, Шривас, Видьянидхи, Васудева, Мурари и другие."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@vakreshvara", "@damodara-pandita", "@shankara-pandita", "@haridasa-thakura", "@jagadananda-pandita", "@bhavananda-raya", "@govinda-servant", "@kashishvara", "@paramananda-puri", "@svarupa-damodara", "@ramananda-raya", "@advaita", "@nityananda", "@mukunda-datta", "@srivasa", "@pundarika-vidyanidhi", "@vasudeva-datta", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 253 — по изданию ГМ «Бхавананда» (у ВЧД — «Бхагаван», сноска); отождествление с Бхаванандой Раем — по контексту (жители Нилачалы). «Васудева» (ст. 255) — предположительно Васудева Датта, «Говинда» — слуга Господа (@govinda-servant)."
+  themes: [kirtan, mercy, jagannatha]
+  years: [1516, 1533]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 1.249: восемнадцать лет после возвращения из Вриндавана (1516–1533)"
+  cc: "Мадхья 1"
+  event: ev-puri-eighteen-years-associates
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "249", to: "256"}
