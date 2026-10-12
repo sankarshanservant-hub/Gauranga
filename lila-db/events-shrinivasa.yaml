@@ -190,3 +190,43 @@
   calendar: "чайтра, шукла-дашами"
   themes: [author]
   notes: ""
+
+# События, известные по 24-й виласе «Према-виласы» (поздняя вставка).
+
+- id: ev-jangali-tota
+  title: "Джангали, служанка Ситы, и правитель Гауды: Джангали-тота"
+  title_en: "Jangali, Sita's maidservant, and the ruler of Gauda: Jangali-tota"
+  period: P01
+  order: 1.98
+  themes: [mercy, offense]
+  notes: "«Према-виласа» 24 (ср. «Адвайта-пракашу»): подвижница Джангали является женщинам женщиной, а порочным мужчинам — мужчиной; раскаявшийся правитель строит ей обитель."
+
+- id: ev-purushottama-acharya-sannyasa
+  title: "Пурушоттама Ачарья принимает санньясу в Варанаси — Сварупа Дамодара"
+  title_en: "Purushottama Acharya takes sannyasa in Varanasi — Svarupa Damodara"
+  period: P10
+  order: 80
+  years: [1510, 1511]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 10: после санньясы Господа"
+  cc: "Мадхья 10"
+  themes: [sannyasa]
+  notes: "По ЧЧ — житель Навадвипы, получивший от Чайтаньянанды облачение и имя Сварупа; по «Према-виласе» 24 — сын Падмагарбхи Ачарьи и единокровный брат Лакшминатхи Лахири."
+
+- id: ev-shrihatta-grandparents
+  title: "Господь в Шрихатте у деда и бабушки: переписанная «Чанди» и уход стариков в вечную обитель"
+  title_en: "The Lord in Srihatta with His grandparents: the copied Chandi and the elders' departure to the eternal abode"
+  period: P05
+  order: 66
+  themes: [family, revelation]
+  notes: "Только «Према-виласа» 24 (и позднейшие жизнеописания); ЧБ Ади 14 говорит о поездке в Вангу, но не о Шрихатте."
+
+- id: ev-false-avataras
+  title: "Лжеаватары в Рархе и Ванге; изгнание Чудадхари из Нилачалы"
+  title_en: "False avataras in Rarh and Vanga; Chudadhari driven out of Nilachala"
+  period: P05
+  order: 68
+  cb: "Ади 14"
+  themes: [offense, teaching]
+  teaching: [gaura-tattva, vaishnava]
+  notes: "ЧБ Ади 14 упоминает самозваных «Рагхунатх» и «Гопалу»-Шакала в Рархе; «Према-виласа» 24 называет Шиял Васудеву, Капиндри Вишнудаса и Чудадхари Мадхаву."
