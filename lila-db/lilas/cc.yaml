@@ -6128,3 +6128,346 @@
   cc: "Мадхья 1"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "89", to: "90"}
+
+- id: cc-0306
+  source: cc
+  ref: "Мадхья 1.91"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P08
+  order: 40.1
+  title: "Сутра: первая сутра — санньяса; приняв её, Господь отправляется во Вриндаван"
+  summary: "Первая сутра — принятие Господом санньясы; приняв санньясу, Господь отправился в Шри Вриндаван."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Ади 17, Мадхья 3, ЧБ Мадхья 26–28."
+  themes: [sannyasa]
+  cc: "Мадхья 1"
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "91", to: "91"}
+
+- id: cc-0307
+  source: cc
+  ref: "Мадхья 1.92–93"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P09
+  order: 10.1
+  title: "Сутра: три дня Господь в любви блуждает по Радха-деше; Нитьянанда приводит Его к Ганге, назвав её Ямуной"
+  summary: "Охваченный любовью, не помня о внешнем, Господь три дня блуждал по Радха-деше; Нитьянанда, введя Махапрабху в заблуждение, привёл Его на берег Ганги, назвав её Ямуной."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#radha-desha", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 3."
+  themes: [ecstasy, pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "92", to: "93"}
+
+- id: cc-0308
+  source: cc
+  ref: "Мадхья 1.94–95"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P09
+  order: 45.1
+  title: "Сутра: в доме Адвайты в Шантипуре — первая бхикша и ночной киртан; встреча с матерью и преданными; уход в Нилачалу"
+  summary: "Господь пришёл в дом Ачарьи в Шантипуре, там впервые принял бхикшу, а ночью была санкиртана; там Он встретился с матерью и преданными и, всё уладив, ушёл в Ниладри."
+  persons: ["@mahaprabhu", "@advaita", "@shachi"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 3."
+  themes: [kirtan, family, prasada]
+  cc: "Мадхья 1"
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "94", to: "95"}
+
+- id: cc-0309
+  source: cc
+  ref: "Мадхья 1.96–97"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P09
+  order: 75.1
+  title: "Сутра: по пути в Пури — даршаны Божеств, рассказ о Мадхавендре Пури, Гопале и Кширачоре, история Сакши-гопалы; Нитьянанда ломает посох Господа"
+  summary: "По пути были разные лилы: даршаны всех Божеств, рассказ о Мадхаве Пури и установлении Гопалы, история о похищении сладкого риса и рассказ о Сакши-гопале; Нитьянанда сломал посох Господа."
+  persons: ["@mahaprabhu", "@nityananda", "@madhavendra-puri", "@shrinathji-deity", "@gopala-remuna", "@sakshi-gopala"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 4–5. Упоминание: ev-madhavendra-kshira-chora, ev-sakshi-gopala. Ст. 97 — у ВЧД «Нитьянанда поведал… о Гопинатхе… и о Свидетеле-Гопале» (в стихе рассказчик не назван; историю Кширачоры рассказывает Сам Господь, Мадхья 4; сноска). Гопала Мадхавендры отождествлён со @shrinathji-deity по описанию тега."
+  themes: [pilgrimage, deities, sannyasa]
+  cc: "Мадхья 1"
+  event: ev-danda-broken
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "96", to: "97"}
+
+- id: cc-0310
+  source: cc
+  ref: "Мадхья 1.98–100"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P10
+  order: 10.1
+  title: "Сутра: разгневанный, Господь один идёт к Джаганнатхе и падает без чувств; Сарвабхаума уносит Его к себе; спутники догоняют Его"
+  summary: "Разгневавшись, Господь один пошёл увидеть Джаганнатху и, увидев, упал без чувств; Сарвабхаума отнёс Его к себе домой, и в третью прахару Господь пришёл в сознание. Нитьянанда, Джагадананда, Дамодара и Мукунда пришли следом, встретились с Ним и обрадовались."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@sarvabhauma", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 6. Встреча с Сарвабхаумой — ev-sarvabhauma-meeting."
+  themes: [jagannatha, ecstasy]
+  cc: "Мадхья 1"
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "98", to: "100"}
+
+- id: cc-0311
+  source: cc
+  ref: "Мадхья 1.101"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P10
+  order: 30.1
+  title: "Сутра: милость Сарвабхауме — Господь являет ему Свой облик Владыки"
+  summary: "Затем Господь оказал милость Сарвабхауме и показал ему Свой облик Ишвары."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 6."
+  themes: [mercy, revelation]
+  bhava: [aishvarya]
+  cc: "Мадхья 1"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "101", to: "101"}
+
+- id: cc-0312
+  source: cc
+  ref: "Мадхья 1.102"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 10.1
+  title: "Сутра: Господь отправляется на юг; в Курма-кшетре избавляет Васудеву"
+  summary: "Затем Господь отправился на юг и в Курма-кшетре избавил Васудеву."
+  persons: ["@mahaprabhu", "@vasudeva-vipra"]
+  places: ["#kurma-kshetra"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 7."
+  themes: [mercy, pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "102", to: "102"}
+
+- id: cc-0313
+  source: cc
+  ref: "Мадхья 1.103"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 20.1
+  title: "Сутра: молитвы Джияда-Нрисимхе; Господь утверждает святое имя на каждой дороге и в каждой деревне"
+  summary: "У Джияда-Нрисимхи Господь вознёс молитвы Нрисимхе и на каждой дороге, в каждой деревне утверждал святое имя."
+  persons: ["@mahaprabhu", "@jiyada-nrisimha"]
+  places: ["#simhachala"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 8."
+  themes: [deities, kirtan, pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "103", to: "103"}
+
+- id: cc-0314
+  source: cc
+  ref: "Мадхья 1.104"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 30.1
+  title: "Сутра: лес на берегу Годавари Господь принимает за Вриндаван; встреча с Раманандой Раем"
+  summary: "В лесу на берегу Годавари Господь принял это место за Вриндаван и там же встретился с Раманандой Раем."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 8."
+  themes: [teaching, ecstasy]
+  cc: "Мадхья 1"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "104", to: "104"}
+
+- id: cc-0315
+  source: cc
+  ref: "Мадхья 1.105–106"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 38.1
+  title: "Сутра: Трималла и Трипади; проповедь имени Кришны повсюду; сокрушение безбожников; даршан Аховала-Нрисимхи"
+  summary: "Господь посетил святые места Трималлу и Трипади и повсюду распространял имя Кришны; затем сокрушил безбожников и видел Аховала-Нрисимху и другие Божества."
+  persons: ["@mahaprabhu", "@nrisimha"]
+  places: ["#tirupati", "#venkata"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9. Аховала (Ахобилам) — без тега места."
+  themes: [pilgrimage, deities, learning]
+  cc: "Мадхья 1"
+  event: ev-tripadi-ramats
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "105", to: "106"}
+
+- id: cc-0316
+  source: cc
+  ref: "Мадхья 1.107–110"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 50.1
+  title: "Сутра: Шрирангам — экстаз при виде Шри Ранги; чатурмасья в доме Трималлы Бхатты, изумлённого учёностью и любовью Господа"
+  summary: "Господь пришёл в Шри Ранга-кшетру на берегу Кавери и, увидев Шри Рангу, пришёл в волнение любви; четыре месяца дождей Он жил в доме Трималлы Бхатты — шри-вайшнава и великого пандита, изумлённого учёностью и премой Господа, — и провёл чатурмасью со шри-вайшнавами в танце, пении и кришна-санкиртане."
+  persons: ["@mahaprabhu", "@ranganatha-deity", "@trimalla-bhatta"]
+  places: ["#ranga-kshetra", "#kaveri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9."
+  themes: [festival, kirtan, deities]
+  cc: "Мадхья 1"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "107", to: "110"}
+
+- id: cc-0317
+  source: cc
+  ref: "Мадхья 1.111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 60.1
+  title: "Сутра: после чатурмасьи Господь снова идёт на юг и встречает Парамананду Пури"
+  summary: "После чатурмасьи Господь снова пошёл на юг и там встретился с Парамананда Пури."
+  persons: ["@mahaprabhu", "@paramananda-puri"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9."
+  themes: [pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "111", to: "111"}
+
+- id: cc-0318
+  source: cc
+  ref: "Мадхья 1.112"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 82.6
+  title: "Сутра: Господь спасает Кришнадаса от бхаттатхари и распространяет имя Кришны через брахманов, повторявших имя Рамы"
+  summary: "Затем Господь вызволил Кришнадаса у бхаттатхари и распространил имя Кришны устами брахманов, повторявших имя Рамы."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9."
+  themes: [mercy, kirtan]
+  cc: "Мадхья 1"
+  event: ev-krishnadasa-bhattathari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "112", to: "112"}
+
+- id: cc-0319
+  source: cc
+  ref: "Мадхья 1.113"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 85.6
+  title: "Сутра: встреча со Шри Ранга Пури; Господь избавляет от горя брахмана Рамадаса"
+  summary: "Там Господь встретился со Шри Ранга Пури и избавил от горя брахмана Рамадаса."
+  persons: ["@mahaprabhu", "@ranga-puri", "@ramadasa-vipra"]
+  places: ["#pandharpur"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9. Горе Рамадаса — ev-maya-sita-kurma-purana (ст. 117–119)."
+  themes: [mercy, pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-ranga-puri-pandharpur
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "113", to: "113"}
+
+- id: cc-0320
+  source: cc
+  ref: "Мадхья 1.114"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 84.6
+  title: "Сутра: беседа о таттве с таттвавади — они признают себя ниже"
+  summary: "Господь обсуждал истину с таттвавади, и все они сочли себя ниже Его."
+  persons: ["@mahaprabhu"]
+  places: ["#udupi"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9."
+  themes: [learning, teaching]
+  cc: "Мадхья 1"
+  event: ev-udupi-tattvavadis
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "114", to: "114"}
+
+- id: cc-0321
+  source: cc
+  ref: "Мадхья 1.115–116"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 80.1
+  title: "Сутра: даршаны Ананты, Пурушоттамы, Джанарданы, Падманабхи и Васудевы; освобождение семи пальм; омовение в Сетубандхе и даршан Рамешвары"
+  summary: "Господь видел Ананту, Пурушоттаму, Шри Джанардану, Падманабху и Васудеву; затем освободил семь пальм (сапта-тала), совершил омовение в Сетубандхе и видел Рамешвару."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#travancore", "#setubandha"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9. Упоминание: ev-saptatala-deliverance. Ст. 116 — у ВЧД «у мыса Коморин» (исправлено: Сетубандха; сноска)."
+  themes: [pilgrimage, deities]
+  cc: "Мадхья 1"
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "115", to: "116"}
+
+- id: cc-0322
+  source: cc
+  ref: "Мадхья 1.117–119"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 75.1
+  title: "Сутра: в Сетубандхе Господь слышит «Курма-пурану» о призрачной Сите, похищенной Раваной, берёт старинный лист и рассеивает горе Рамадаса"
+  summary: "Там Господь слушал «Курма-пурану», где написано, что Равана похитил призрачную Ситу; обрадовавшись, Он вспомнил слова брахмана Рамадаса, настойчиво взял тот старинный лист и, показав его Рамадасу, рассеял его горе."
+  persons: ["@mahaprabhu", "@ramadasa-vipra", "@rama"]
+  places: ["#setubandha", "#madurai"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9."
+  themes: [mercy, teaching]
+  cc: "Мадхья 1"
+  event: ev-maya-sita-kurma-purana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "117", to: "119"}
+
+- id: cc-0323
+  source: cc
+  ref: "Мадхья 1.120"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P11
+  order: 83.6
+  title: "Сутра: Господь находит рукописи «Брахма-самхиты» и «Карнамриты» и, сочтя их превосходными, приносит с Собой"
+  summary: "Найдя две рукописи — «Брахма-самхиту» и «Карнамриту», Господь, зная их превосходство, взял обе книги с Собой."
+  persons: ["@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 9. Упоминание: ev-krishna-karnamrita-found."
+  themes: [teaching, pilgrimage]
+  cc: "Мадхья 1"
+  event: ev-brahma-samhita-adikeshava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "120", to: "120"}
