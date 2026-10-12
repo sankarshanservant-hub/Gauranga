@@ -1004,7 +1004,7 @@ The warning that ignorant people, not understanding the Lord, will criticize Him
 
 > Subheading: The fall of Vallabha Bhaṭṭa's pride, and hearing the glory of Kṛṣṇa's name —
 
-**Vallabha Bhaṭṭa**: in the seventh chapter of Antya, on the matter of Vallabha Bhaṭṭa; see Madhya, Chapter 19 and Antya, Chapter 7.
+**Vallabha Bhaṭṭa.** His story is told in the seventh chapter of Antya; see Madhya, Chapter 19, and Antya, Chapter 7.
 
 Vallabha Bhaṭṭa had received the name-*mantra* from Śrī Gadādhara Paṇḍita Gosvāmī, a dear associate of Śrī Gaurasundara. Therefore Mahāprabhu, regarding him as belonging to His own *sampradāya*, Himself explained the meaning of the name to him. According to this saying of the *Pañcarātra* — “Then, having purified the humble sons and others by the rite, one should instruct them”[^263-1] — Bhaṭṭa gained the right to hear the meaning of the name.
 
