@@ -100,7 +100,7 @@ See Ādi 6.50 and 51.
 
 ## 32
 
-> Subheading: (a) the preaching of pure *bhakti*, (b) the recovery of lost *tīrthas*, (c) the preaching of the Śrī-mūrti (the Deity) by founding *maṭhas* and the like —
+> Subheading: (a) the preaching of pure *bhakti*, (b) the recovery of lost *tīrthas*, (c) the propagation of the Deity (*śrī-mūrti*) by founding *maṭhas* and the like —
 
 *Bhakti* is spread through service that is not of this world, and through it the *tīrthas* (holy places) are revealed in their true nature. But when, in the guise of feigned *bāul*-like immorality, people strive to settle carefree in a holy place for the gratification of the senses, the *tīrtha* of Vaikuṇṭha does not appear. That is nothing but a play of *māyā*.
 

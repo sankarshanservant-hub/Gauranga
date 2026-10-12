@@ -66,11 +66,11 @@ Not finding satisfaction in the meeting at Kurukṣetra, He constantly felt in H
 
 ## 58
 
-He who stole my heart in my youth, on the bank of the river Revā, has now become my husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state my heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
+He who stole My heart in My youth, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
 
 ## 59
 
-***The only Svarūpa.*** This verse was composed about an utterly lowly (*heya*) hero and heroine, fit to be rejected. The deep purport of the great love with which Mahāprabhu recited it was known to no one except Svarūpa Dāmodara.
+***The only Svarūpa.*** This verse was composed about an utterly lowly (*heya*) hero and heroine, fit to be rejected. No one except Svarūpa Dāmodara knew the deep purport of why Mahāprabhu recited it with such great love.
 
 ## 63
 
