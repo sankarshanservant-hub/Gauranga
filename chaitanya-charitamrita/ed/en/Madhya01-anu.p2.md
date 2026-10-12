@@ -352,6 +352,28 @@ Blaspheming a *sādhu* is an offense. An offense born of blaspheming Viṣṇu i
 
 > Subheading: The words that they are lower even than Jagāi and Mādhāi —
 
+## 198
+
+> Subheading: Pitiful lamentations of both, in humility —
+
+**The pit of the filth of bad objects** (*ku-viṣaya-viṣṭhā-garta*). An “object” (*viṣaya*) is whatever is accepted in worldly life by a being who is subject to enjoyment and acts through the senses. What is gained by pious acts (*puṇya*) is a “good object” (*su-viṣaya*); what is gained by sin is a “bad object” (*ku-viṣaya*). All material enjoyments are of the same nature as filth, and are to be given up. Service to Kṛṣṇa is the highest thing, the one that is acceptable and fit to be taken up by the living being. Service to the senses is despicable and to be abandoned; therefore, like filth, it should be thrown away. Just as worms and insects have their place in discarded filth, so the *jīva*, forgetting himself and thinking it best to dwell in the filth of objects like worms and insects, only follows the taste (*ruci*) of worms and insects. Just as a creature fallen into a pit cannot climb out by its own will, so a *jīva* absorbed in objects, even while trying to gain a turning toward Kṛṣṇa, cannot by his own strength climb out of the pit of the filth of objects — the material realm of enjoyment.
+
+## 203
+
+**he nātha** (**prabho** — O Lord), (**tava** — before You) **agrataḥ** (**purataḥ** — in front) **me** (**mama** — my) **ekaṁ** **paramārthaṁ** (true) **vijñāpanaṁ** (petition) **śṛṇu** (hear); **na** (**tat** — it is not) **mṛṣā** (false); **yadi** **me** (**mama sambandhe mayi** — toward me) **na dayiṣyase** (**dayāṁ kariṣyasi** — You do not show mercy), **tadā** **tava** **dayanīyaḥ** (**dayārhaḥ** — one worthy of mercy) **durlabhaḥ** (is hard to find). I am the lowest of all and therefore the most suitable vessel of mercy; so it is said of the excess of my lowness.[^203-1]
+
+## 206
+
+**he nātha** (**prabho** — O Lord), **praśānta-niḥśeṣa-manorathāntaraḥ** (**praśāntaṁ** — stilled, **niścalaṁ** — unshaken, **niḥśeṣaṁ** — **sampūrṇaṁ** — completely: one whose other desires (**manorathānāṁ**), attachments (**vyasanānāṁ**), are fully stilled) **aikāntika-nitya-kiṅkaraḥ** (**dṛḍha-nitya-dāsaḥ san** — being a firmly eternal servant) **saḥ ahaṁ** (I, such as I am) **bhavantaṁ** (**mama sevyaṁ tvam** — You, whom I serve) **eva** **nirantaraḥ** (**sāndraḥ** — without a break, closely) **anucaran** (**paricaryāṁ kurvan ghanam anugacchan** — serving and closely following) **kadā** (**kasmin kāle** — when) **jīvitaṁ** (**prāṇān** — life) **praharṣayiṣyāmi** (**sarvato-bhāvena sukhayāmi** — I will gladden completely).
+
+## 207
+
+> Subheading: The Lord's merciful words to both brothers, addressed to Śrī Rūpa —
+
+## 208
+
+Śrī Mahāprabhu, giving them His mercy, named Dabira-khāsa “Rūpa” and Sākara-mallika “Sanātana.” At the *vaidhī* stage, for the *kaniṣṭha-adhikārī*, giving a name is one of the *saṁskāras*. Those who disregard the name-*prasāda* cannot hope for devotion to Hari: they are intoxicated with worldly fame. “Marking the body with the conch, the disc and other signs, and with the vertical *tilaka* and so on, is the sign (of a Vaiṣṇava); and so is the giving of a (Vaiṣṇava) name: this is what is called Vaiṣṇavism here.”[^208-1] Among the *prākṛta-sahajiyās* there is no giving of names that express service to Viṣṇu, and so in our time they cannot be called by the word “Gauḍīya Vaiṣṇavas.” Non-Vaiṣṇavas do not receive a name from a Vaiṣṇava guru; through the delusion of identifying with the body they do not know their relationship with Hari, and they are intoxicated with preserving the names and so on that suit their former *varṇa*.
+
 ---
 
 [^178-1]: *Manu-saṁhitā* 7.8. (The edition gives no number.)
@@ -359,3 +381,7 @@ Blaspheming a *sādhu* is an offense. An offense born of blaspheming Viṣṇu i
 [^189-1]: *Śrīmad-Bhāgavatam* 7.11.35.
 
 [^189-2]: In the verse itself (CC Madhya 1.197) the reading is *mleccha-saṅgī*, “keeping company with *mlecchas*”; the edition quotes *mleccha-sevī*, “serving *mlecchas*.”
+
+[^203-1]: In the edition a closing parenthesis follows the last words (*sarvādhamatvāt … ādhikyam*) with no opening one; the clause is rendered as an explanation of the preceding sentence.
+
+[^208-1]: The edition gives no source.

@@ -71,3 +71,11 @@ There are two kinds of *mlecchas*: *mlecchas* by birth, and *mlecchas* by associ
 ## 202
 
 Mercifully deliver such utterly fallen people as we are, and so make true Your name *sadaya*, “the merciful.”
+
+## 203
+
+I make one petition before You. There is not a trace of falsehood in it — it is full of the highest truth. If You do not show mercy to me, O Lord, where will You find another fit to receive Your mercy?
+
+## 206
+
+When, through constant service to You, will I be rid of every other desire and, at peace, as Your eternal servant, blossom with joy together with my life of service?
