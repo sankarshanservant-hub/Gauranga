@@ -1250,257 +1250,321 @@ ratha-yātrā-daraśane prabhura nartana
 প্রভুর অভিষেক কৈল বিপ্র কৃষ্ণদাস ॥ ১৪৪ ॥
 
 upavane kaila prabhu vividha vilāsa  
-prabhura abhiṣeka kaila vipra kṛṣṇadāsa
+in the gardens  did  the Lord  various  pastimes  
+prabhura abhiṣeka kaila vipra kṛṣṇadāsa  
+the Lord's  ceremonial bath  performed  the brāhmaṇa  Kṛṣṇadāsa
 
-(144) [not yet translated]
+(144) In the gardens the Lord enjoyed various pastimes, and the brāhmaṇa Kṛṣṇadāsa performed His ceremonial bath (*abhiṣeka*).
 
 গুণ্ডিচাতে নৃত্য-অন্তে কৈল জলকেলি ৷  
 হেরা-পঞ্চমী দেখিল লক্ষ্মীদেবীর কেলি ॥ ১৪৫ ॥
 
 guṇḍicāte nṛtya-ante kaila jala-keli  
-herā-pañcamī dekhila lakṣmī-devīra kelī
+at Guṇḍicā  dancing-  -after  He did  water sports  
+herā-pañcamī dekhila lakṣmī-devīra kelī  
+on Herā-pañcamī  He saw  of Lakṣmī-devī  the pastime
 
-(145) [not yet translated]
+(145) At Guṇḍicā, after dancing, He played in the water, and on Herā-pañcamī He watched the pastime of the goddess Lakṣmī.
 
 কৃষ্ণজন্ম-যাত্রাতে প্রভু গোপবেশ হৈলা ৷  
 দধিভার বহি’ তবে লগুড় ফিরাইলা ॥ ১৪৬ ॥
 
 kṛṣṇa-janma-yātrāte prabhu gopa-veśa hailā  
-dadhi-bhāra vahi’ tabe laguḍa phirāilā
+at the festival of Kṛṣṇa's birth  the Lord  in a cowherd's dress  was  
+dadhi-bhāra vahi’ tabe laguḍa phirāilā  
+a load of yogurt  carrying  then  a staff  He twirled
 
-(146) [not yet translated]
+(146) At the festival of Kṛṣṇa's birth the Lord dressed as a cowherd; He carried a yoke laden with pots of yogurt and then twirled a staff.
 
 গৌড়ের ভক্তগণে তবে করিল বিদায় ৷  
 সঙ্গের ভক্ত লঞা করে কীর্ত্তন সদায় ॥ ১৪৭ ॥
 
 gauḍera bhakta-gaṇe tabe karila vidāya  
-saṅgera bhakta lañā kare kīrtana sadāya
+of Gauḍa  the devotees  then  He gave  leave  
+saṅgera bhakta lañā kare kīrtana sadāya  
+of His company  the devotees  taking  He does  kīrtana  always
 
-(147) [not yet translated]
+(147) Then He bade farewell to the devotees of Gauḍa, and with the devotees who stayed with Him He held *kīrtana* constantly.
 
 বৃন্দাবন যাইতে কৈল গৌড়েরে গমন ৷  
 প্রতাপরুদ্র কৈল পথে বিবিধ সেবন ॥ ১৪৮ ॥
 
 vṛndāvana yāite kaila gauḍere gamana  
-pratāparudra kaila pathe vividha sevana
+to Vṛndāvana  in order to go  He made  to Gauḍa  the journey  
+pratāparudra kaila pathe vividha sevana  
+Pratāparudra  rendered  on the way  various  services
 
-(148) [not yet translated]
+(148) Intending to go to Vṛndāvana, He set out for Gauḍa, and on the way Pratāparudra served Him in many ways.
 
 পুরীগোসাঞি-সঙ্গে বস্ত্রপ্রদান-প্রসঙ্গ ৷  
 রামানন্দ রায় আইলা ভদ্রক পর্য্যন্ত ॥ ১৪৯ ॥
 
 purī-gosāñi-saṅge vastra-pradāna-prasaṅga  
-rāmānanda rāya āilā bhadraka paryanta
+with Purī Gosāñi  of the giving of cloth  the episode  
+rāmānanda rāya āilā bhadraka paryanta  
+Rāmānanda  Rāya  came  Bhadraka  as far as
 
-(149) [not yet translated]
+(149) Then came the episode of the gift of cloth with Purī Gosāñi, and Rāmānanda Rāya accompanied Him as far as Bhadraka.
 
 আসি’ বিদ্যাবাচস্পতির গৃহেতে রহিলা ৷  
 প্রভুরে দেখিতে লোকসংঘট্ট হইলা ॥ ১৫০ ॥
 
 āsi’ vidyā-vācaspatira gṛhete rahilā  
-prabhure dekhite loka-saṅghaṭṭa hailā
+coming  of Vidyā-vācaspati  in the house  He stayed  
+prabhure dekhite loka-saṅghaṭṭa hailā  
+the Lord  to see  of people  a throng  formed
 
-(150) [not yet translated]
+(150) Arriving in Bengal, He stayed in the house of Vidyā-vācaspati, and crowds of people gathered to see Him.
 
 পঞ্চদিন দেখে লোক নাহিক বিশ্রাম ৷  
 লোকভয়ে রাত্রে প্রভু আইলা কুলিয়া-গ্রাম ॥ ১৫১ ॥
 
 pañca dina dekhe loka nāhika viśrāma  
-loka-bhaye rātre prabhu āilā kuliyā-grāma
+five  days  they look  the people  there is no  rest  
+loka-bhaye rātre prabhu āilā kuliyā-grāma  
+for fear of the crowds  at night  the Lord  came  to the village of Kuliyā
 
-(151) [not yet translated]
+(151) For five days people kept coming to see Him without pause; to escape the crowds, the Lord went at night to the village of Kuliyā.
 
 কুলিয়া-গ্রামেতে প্রভুর শুনিয়া আগমন ৷  
 কোটি কোটি লোক আসি’ কৈল দরশন ॥ ১৫২ ॥
 
 kuliyā-grāmete prabhura śuniyā āgamana  
-koṭi koṭi loka āsi’ kaila daraśana
+in the village of Kuliyā  of the Lord  hearing  of the arrival  
+koṭi koṭi loka āsi’ kaila daraśana  
+millions  upon millions  people  coming  had  sight of Him
 
-(152) [not yet translated]
+(152) Hearing that the Lord had come to Kuliyā, millions upon millions of people came to see Him.
 
 কুলিয়া-গ্রামে কৈল দেবানন্দেরে প্রসাদ ৷  
 গোপাল-বিপ্রেরে ক্ষমাইল শ্রীবাসাপরাধ ॥ ১৫৩ ॥
 
 kuliyā-grāme kaila devānandere prasāda  
-gopāla-viprere kṣamāila śrīvāsāparādha
+in the village of Kuliyā  He showed  to Devānanda  grace  
+gopāla-viprere kṣamāila śrīvāsāparādha  
+the brāhmaṇa Gopāla  He forgave  the offense to Śrīvāsa
 
-(153) [not yet translated]
+(153) In Kuliyā He showed His grace to Devānanda and forgave the brāhmaṇa Gopāla his offense against Śrīvāsa.
 
 পাষণ্ডী নিন্দক আসি’ পড়িলা চরণে ৷  
 অপরাধ ক্ষমি’ তারে দিল কৃষ্ণপ্রেমে ॥ ১৫৪ ॥
 
 pāṣaṇḍī nindaka āsi’ paḍilā caraṇe  
-aparādha kṣami’ tāre dila kṛṣṇa-preme
+heretics  blasphemers  coming  fell  at His feet  
+aparādha kṣami’ tāre dila kṛṣṇa-preme  
+the offenses  forgiving  to them  He gave  love for Kṛṣṇa
 
-(154) [not yet translated]
+(154) Heretics and blasphemers came and fell at His feet; He forgave their offenses and gave them love for Kṛṣṇa.
 
 বৃন্দাবন যাবেন প্রভু শুনি’ নৃসিংহানন্দ ৷  
 পথ সাজাইল মনে করিয়া আনন্দ ॥ ১৫৫ ॥
 
 vṛndāvana yābena prabhu śuni’ nṛsiṁhānanda  
-patha sājāila mane kariyā ānanda
+to Vṛndāvana  will go  the Lord  hearing  Nṛsiṁhānanda  
+patha sājāila mane kariyā ānanda  
+the road  decorated  in his mind  feeling  joy
 
-(155) [not yet translated]
+(155) When Nṛsiṁhānanda heard that the Lord would go to Vṛndāvana, he joyfully decorated the road in his mind.
 
 কুলিয়া নগর হৈতে পথ রত্নে বান্ধাইল ৷  
 নিবৃন্ত পুষ্পশয্যা উপরে পাতিল ॥ ১৫৬ ॥
 
 kuliyā nagara haite patha ratne bāndhāila  
-nivṛnta puṣpa-śayyā upare pātila
+Kuliyā  town  from  the road  with jewels  he paved  
+nivṛnta puṣpa-śayyā upare pātila  
+stemless  of flowers  a bed  on top  he spread
 
-(156) [not yet translated]
+(156) From the town of Kuliyā he paved the road with jewels and spread over it a bed of flowers with their stems removed.
 
 পথে দুইদিকে পুষ্পবকুলের শ্রেণী ৷  
 মধ্যে মধ্যে দুই পাশে দিব্য পুষ্করিণী ॥ ১৫৭ ॥
 
 pathe dui dike puṣpa-bakulera śreṇī  
-madhye madhye dui-pāśe divya puṣkariṇī
+along the road  on two  sides  of flowering bakula trees  rows  
+madhye madhye dui-pāśe divya puṣkariṇī  
+here  and there  on both sides  divine  ponds
 
-(157) [not yet translated]
+(157) On both sides of the road stood rows of flowering *bakula* trees, and here and there on either side lay divine ponds,
 
 রত্নবন্ধ-ঘাট তাহে প্রফুল্ল কমল ৷  
 নানা পক্ষি-কোলাহল, সুধা-সম জল ॥ ১৫৮ ॥
 
 ratna-bandha-ghāṭa tāhe praphulla kamala  
-nānā pakṣi-kolāhala, sudhā-sama jala
+jewel-  -built  bathing steps  in them  blooming  lotuses  
+nānā pakṣi-kolāhala, sudhā-sama jala  
+various  the chatter of birds  nectar-  -like  water
 
-(158) [not yet translated]
+(158) with bathing steps built of jewels and full-blown lotuses, the chatter of many birds and water like nectar.
 
 শীতল সমীর বহে নানা গন্ধ লঞা ৷  
 ‘কানাইর নাটশালা’ পর্য্যন্ত লৈল বাধিঞা ॥ ১৫৯ ॥
 
 śītala samīra vahe nānā gandha lañā  
-‘kānāira nāṭaśālā’ paryanta laila bādhiñā
+cool  breeze  blows  various  fragrances  carrying  
+‘kānāira nāṭaśālā’ paryanta laila bādhiñā  
+Kānāi's  Nāṭaśālā  as far as  he took it  paving
 
-(159) [not yet translated]
+(159) A cool breeze blew, bearing many fragrances. Thus he paved the road as far as Kānāi's Nāṭaśālā.
 
 আগে মন নাহি চলে, না পারে বান্ধিতে ৷  
 পথবান্ধা না যায়, নৃসিংহ হৈলা বিস্মিতে ॥ ১৬০ ॥
 
 āge mana nāhi cale, nā pāre bāndhite  
-patha-bāndhā nā yāya, nṛsiṁha hailā vismite
+further  the mind  not  goes  not  can  pave  
+patha-bāndhā nā yāya, nṛsiṁha hailā vismite  
+the road-  -paving  not  goes on  Nṛsiṁha  became  astonished
 
-(160) [not yet translated]
+(160) Beyond that his mind would not go; he could not pave any further. The road could not be paved, and Nṛsiṁhānanda was astonished.
 
 নিশ্চয় করিয়া কহি, শুন, ভক্তগণ ৷  
 এবার না যাবেন প্রভু শ্রীবৃন্দাবন ॥ ১৬১ ॥
 
 niścaya kariyā kahi, śuna, bhakta-gaṇa  
-ebāra nā yābena prabhu śrī-vṛndāvana
+certainty  making  I say  hear  O devotees  
+ebāra nā yābena prabhu śrī-vṛndāvana  
+this time  not  will go  the Lord  to Śrī Vṛndāvana
 
-(161) [not yet translated]
+(161) “I tell you with certainty — listen, O devotees: this time the Lord will not go to Śrī Vṛndāvana.
 
 ‘কানাঞির নাটশালা’ হইতে আসিব ফিরিঞা ৷  
 জানিবে পশ্চাৎ, কহিলুঁ নিশ্চয় করিঞা ॥ ১৬২ ॥
 
 ‘kānāñira nāṭaśālā’ haite āsiba phiriñā  
-jānibe paścāt, kahiluṅ niścaya kariñā
+Kānāi's  Nāṭaśālā  from  He will come  turning back  
+jānibe paścāt, kahiluṅ niścaya kariñā  
+you will know  later  I have spoken  certainty  making
 
-(162) [not yet translated]
+(162) He will turn back from Kānāi's Nāṭaśālā. You will see it later; I have said this with certainty.”
 
 গোসাঞি কুলিয়া হৈতে চলিলা বৃন্দাবন ৷  
 সঙ্গে সহস্রেক লোক যত ভক্তগণ ॥ ১৬৩ ॥
 
 gosāñi kuliyā haite calilā vṛndāvana  
-saṅge sahasreka loka yata bhakta-gaṇa
+the Gosāñi  Kuliyā  from  set out  for Vṛndāvana  
+saṅge sahasreka loka yata bhakta-gaṇa  
+with Him  thousands of  people  all  devotees
 
-(163) [not yet translated]
+(163) The Lord set out from Kuliyā for Vṛndāvana, and thousands of people went with Him, all of them devotees.
 
 যাঁহা যায় প্রভু, তাঁহা কোটিসংখ্য লোক ৷  
 দেখিতে আইসে, দেখি’ খণ্ডে দুঃখ-শোক ॥ ১৬৪ ॥
 
 yāṅhā yāya prabhu, tāṅhā koṭi-saṅkhya loka  
-dekhite āise, dekhi’ khaṇḍe duḥkha-śoka
+wherever  goes  the Lord  there  numbering millions  people  
+dekhite āise, dekhi’ khaṇḍe duḥkha-śoka  
+to see  come  seeing  is broken  sorrow and grief
 
-(164) [not yet translated]
+(164) Wherever the Lord went, people came by the millions to see Him, and seeing Him, they were freed from sorrow and grief.
 
 যাঁহা যাঁহা প্রভুর চরণ পড়য়ে চলিতে ৷  
 সে মৃত্তিকা লয় লোক, গর্ত্ত হয় পথে ॥ ১৬৫ ॥
 
 yāṅhā yāṅhā prabhura caraṇa paḍaye calite  
-se mṛttikā laya loka, garta haya pathe
+wherever  wherever  the Lord's  foot  falls  while walking  
+se mṛttikā laya loka, garta haya pathe  
+that  earth  take  people  pits  form  in the road
 
-(165) [not yet translated]
+(165) Wherever the Lord's feet touched the ground as He walked, people took away that earth, leaving pits in the road.
 
 ঐছে চলি’ আইলা প্রভু ‘রামকেলি’ গ্রাম ৷  
 গৌড়ের নিকট গ্রাম অতি অনুপম ॥ ১৬৬ ॥
 
-aiche cali, āilā prabhu ‘rāmakeli’ grāma  
-gauḍera nikaṭa grāma ati anupama
+aiche cali’ āilā prabhu ‘rāmakeli’ grāma  
+thus  walking  came  the Lord  Rāmakeli  village  
+gauḍera nikaṭa grāma ati anupama  
+of Gauḍa  near  a village  very  incomparable
 
-(166) [not yet translated]
+(166) Walking on in this way, the Lord came to the village of Rāmakeli, a village of incomparable beauty near Gauḍa.
 
 তাঁহা নৃত্য করে প্রভু প্রেমে অচেতন ৷  
 কোটি কোটী লোক আইসে দেখিতে চরণ ॥ ১৬৭ ॥
 
 tāṅhā nṛtya kare prabhu preme acetana  
-koṭi koṭī loka āise dekhite caraṇa
+there  dance  does  the Lord  in love  unconscious  
+koṭi koṭī loka āise dekhite caraṇa  
+millions  upon millions  people  come  to see  His feet
 
-(167) [not yet translated]
+(167) There the Lord danced, losing outer consciousness in love, and millions upon millions of people came to see His feet.
 
 গৌড়াধ্যক্ষ যবন-রাজা প্রভাব শুনিঞা ৷  
 কহিতে লাগিল কিছু বিস্মিত হঞা ॥ ১৬৮ ॥
 
 gauḍādhyakṣa yavana-rājā prabhāva śuniñā  
-kahite lāgila kichu vismita hañā
+of Gauḍa the ruler  the Muslim  king  of His power  hearing  
+kahite lāgila kichu vismita hañā  
+to speak  began  something  amazed  being
 
-(168) [not yet translated]
+(168) Hearing of His power, the Muslim king who ruled Gauḍa was amazed and said:
 
 বিনা দানে এত লোক যাঁর পাছে হয় ৷  
 সেই ত’ গোসাঞা, ইহা জানিহ নিশ্চয় ॥ ১৬৯ ॥
 
 vinā dāne eta loka yāṅra pāche haya  
-sei ta’ gosāñā, ihā jāniha niścaya
+without  gifts  so many  people  whom  behind  are  
+sei ta’ gosāñā, ihā jāniha niścaya  
+that one  indeed  a holy master  this  know  for certain
 
-(169) [not yet translated]
+(169) “One whom so many people follow without being given anything is surely a holy master (*gosāñi*). Know this for certain.
 
 কাজী, যবন ইহার না করিহ হিংসন ৷  
 আপন-ইচ্ছায় বুলুন, যাঁহা উঁহার মন ॥ ১৭০ ॥
 
 kājī, yavana ihāra nā kariha hiṁsana  
-āpana-icchāya buluna, yāṅhā uṅhāra mana
+qāzī  Muslims  Him  do not  do  harm  
+āpana-icchāya buluna, yāṅhā uṅhāra mana  
+by His own  will  let Him wander  wherever  His  mind
 
-(170) [not yet translated]
+(170) Qāzī, Muslims — let no one harm Him. Let Him wander wherever He pleases.”
 
 কেশব-ছত্রীরে রাজা বার্ত্তা পুছিল ৷  
 প্রভুর মহিমা ছত্রী উড়াইয়া দিল ॥ ১৭১ ॥
 
 keśava-chatrīre rājā vārtā puchila  
-prabhura mahimā chatrī uḍāiyā dila
+Keśava Chatrī  the king  for news  asked  
+prabhura mahimā chatrī uḍāiyā dila  
+of the Lord  the glory  Chatrī  blowing away  dismissed
 
-(171) [not yet translated]
+(171) The king asked Keśava Chatrī for news of Him, but Chatrī brushed aside the Lord's greatness:
 
 ভিখারী সন্ন্যাসী করে তীর্থ পর্য্যটন ৷  
 তাঁরে দেখিবারে আইসে দুই চারিজন ॥ ১৭২ ॥
 
 bhikhārī sannyāsī kare tīrtha paryaṭana  
-tāṅre dekhibāre āise dui cāri jana
+a beggar  sannyāsī  does  of holy places  a tour  
+tāṅre dekhibāre āise dui cāri jana  
+Him  to see  come  two  four  people
 
-(172) [not yet translated]
+(172) “He is a mendicant *sannyāsī* touring the holy places. Only a handful of people come to see Him.
 
 যবনে তোমার ঠাঞি করয়ে লাগানি ৷  
 তাঁর হিংসায় লাভ নাহি, হয় আর হানি ॥ ১৭৩ ॥
 
 yavane tomāra ṭhāñi karaye lāgāni  
-tāṅra hiṁsāya lābha nāhi, haya āra hāni
+a Muslim  to you  before  makes  slander  
+tāṅra hiṁsāya lābha nāhi, haya āra hāni  
+Him  in harming  gain  there is no  there will be  rather  loss
 
-(173) [not yet translated]
+(173) Some Muslim has been slandering Him to you. You gain nothing by harming Him; rather, you would suffer loss.”
 
 রাজারে প্রবোধি’ কেশব, ব্রাহ্মণ পাঠাঞা ৷  
 চলিবার তরে প্রভুকে কহিল যাঞা ॥ ১৭৪ ॥
 
 rājāre prabodhi’ keśava, brāhmaṇa pāṭhāñā  
-calibāra tare prabhuke kahila yāñā
+the king  pacifying  Keśava  a brāhmaṇa  sending  
+calibāra tare prabhuke kahila yāñā  
+to leave  in order  to the Lord  told  going
 
-(174) [not yet translated]
+(174) Having pacified the king, Keśava sent a brāhmaṇa, who went and asked the Lord to leave.
 
 দবির খাসেরে রাজা পুছিল নিভৃতে ৷  
 গোসাঞির মহিমা তিঁহো লাগিল কহিতে ॥ ১৭৫ ॥
 
 dabira khāsere rājā puchila nibhṛte  
-gosāñira mahimā tiṅho lāgila kahite
+Dabira  Khāsa  the king  asked  in private  
+gosāñira mahimā tiṅho lāgila kahite  
+of the Gosāñi  the glory  he  began  to tell
 
-(175) [not yet translated]
+(175) Then the king questioned Dabira Khāsa in private, and he began to tell of the Lord's greatness:
 
 যে তোমারে রাজ্য দিল, যে তোমার গোসাঞা ৷  
 তোমার দেশে তোমার ভাগ্যে জন্মিলা আসিঞা ॥ ১৭৬ ॥
@@ -1762,7 +1826,7 @@ praharṣayiṣyāmi sa nātha jīvitam
 শুনি’ মহাপ্রভু কহে, — শুন, দবির খাস ৷  
 তুমি দুই ভাই — মোর পুরাতন দাস ॥ ২০৭ ॥
 
-śuni’ mahāprabhu kahe, — śuna, dabira-khāsa  
+śuni’ mahāprabhu kahe, — śuna, dabira khāsa  
 tumi dui bhāi — mora purātana dāsa
 
 (207) [not yet translated]
@@ -2020,7 +2084,7 @@ jhārikhaṇḍa-pathe kāśī āilā nānā-raṅge
 দিন চারি কাশীতে রহি’ গেলা বৃন্দাবন ৷  
 মথুরা দেখিয়া দেখে দ্বাদশ কানন ॥ ২৩৯ ॥
 
-dina cāra kāśīte rahi’ gelā vṛndāvana  
+dina cāri kāśīte rahi’ gelā vṛndāvana  
 mathurā dekhiyā dekhe dvādaśa kānana
 
 (239) [not yet translated]
@@ -2266,7 +2330,7 @@ mahāprabhura guṇa gāñā karena kīrtana
 “কৃষ্ণ-নাম-গুণ ছাড়ি’ কি কর কীর্ত্তনে ॥ ২৭০ ॥
 
 śuni’ bhakta-gaṇe kahe sa-krodha vacane  
-kṛṣṇa-nāma-guṇa chāḍi, ki kara kīrtane
+kṛṣṇa-nāma-guṇa chāḍi’ ki kara kīrtane
 
 (270) [not yet translated]
 
@@ -2313,8 +2377,8 @@ bāhire āsi’ daraśana dilā dayā-maya
 বাহু তুলি’ বলে প্রভু, — বল, ‘হরি’ ‘হরি’ ৷  
 উঠিল শ্রীহরিধ্বনি চতুর্দ্দিক্ ভরি’ ॥ ২৭৬ ॥
 
-bāhu tuli’ bale prabhu bala’ ‘hari’ ‘hari’  
-uṭhila — śrī-hari-dhvani catur-dik bhari’
+bāhu tuli’ bale prabhu, — bala, ‘hari’ ‘hari’  
+uṭhila śrī-hari-dhvani catur-dik bhari’
 
 (276) [not yet translated]
 
