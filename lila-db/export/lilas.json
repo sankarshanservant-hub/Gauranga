@@ -2173,6 +2173,61 @@
   "attestation": 2
  },
  {
+  "id": "pvl-0240",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 1–34",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P00",
+  "order": 35,
+  "title": "Природа Кришны, Баларамы и Садашивы; подвижничество Садашивы и его рождение Адвайтой",
+  "summary": "Кришна — Сам Бхагаван; Нараяна — Его виласа, Баларама и Садашива — также Его виласы; Баларама — Нитьянанда и Вишварупа; Махавишну-Садашива (Хари-Хара) семьсот лет подвижничает в Кали-югу, Кришна велит ему родиться и призвать Его мантрой Имени; Садашива рождается Адвайтой.",
+  "persons": [
+   "@krishna",
+   "@balarama",
+   "@nityananda",
+   "@vishvarupa",
+   "@shiva",
+   "@advaita",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Учение о Садашиве как виласе Кришны и об Адвайте как Махавишну-Садашиве — по «Адвайта-пракаше»; в ЧЧ (Ади 6) Адвайта — воплощение Махавишну; Садашива в гаудия-вайшнавском понимании — форма Вишну, не мирской Шива.",
+  "themes": [
+   "revelation"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "scriptures": [
+   "Лагху-бхагаватамрита (о пракаше)"
+  ],
+  "event": "ev-advaita-advent-cause",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1",
+    "to": "34"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1",
+    "to": "34",
+    "line": 5,
+    "line_to": 104,
+    "count": 34,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L5-L104",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L5-L104"
+   }
+  ],
+  "attestation": 2
+ },
+ {
   "id": "lcm-0027",
   "source": "lochana-cm",
   "ref": "Сутра-кханда, «Грантхарамбха», 544–567",
@@ -2672,7 +2727,7 @@
   "kind": "pre-advent",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена); ср. Бхаг. 10.13 (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.); ср. Бхаг. 10.13 (сноска перевода).",
   "themes": [
    "celestial"
   ],
@@ -2698,6 +2753,58 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2634-L2637",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2634-L2637"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0257",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 290–320",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P00",
+  "order": 38.5,
+  "title": "Природа Харидаса: Брахма, сын Ричики и Прахлада, оскорбивший четверых Санов",
+  "summary": "Харидас — соединение Брахмы, ставшего яваном за похищение телят, Брахмы, сына Ричики, проклятого за неомытую туласи, и Прахлады, который из-за невнимания к четырём Санам впал в тамо-гуну и оскорбил Нараяну; Нараяна предрекает ему рождение яваном и прославление Имени; Брахма в другом проявлении — Гопинатха Ачарья.",
+  "persons": [
+   "@haridasa-thakura",
+   "@brahma",
+   "@prahlada",
+   "@sanaka-kumaras",
+   "@narayana",
+   "@gopinatha-acharya"
+  ],
+  "places": [],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Рассказ о Прахладе в пуранах не встречается. Ср. ev-haridasa-previous-birth, «Гаура-ганоддеша-дипика».",
+  "themes": [
+   "celestial",
+   "offense"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-brahma-steals-calves-haridasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "290",
+    "to": "320"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "290",
+    "to": "320",
+    "line": 874,
+    "line_to": 964,
+    "count": 31,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L874-L964",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L874-L964"
    }
   ],
   "attestation": 2
@@ -2876,7 +2983,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "«Адвайта-пракаша»: apr-0002, apr-0004",
-  "notes": "Только в указателе (24-я виласа не переведена). Мать Адвайты названа Набха-деви.",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.). Мать Адвайты названа Набха-деви.",
   "themes": [
    "family"
   ],
@@ -2901,6 +3008,60 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2418-L2433",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2418-L2433"
+   }
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0241",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 35–62",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.1,
+  "title": "Кувера Ачарья и Набха-деви: шестеро сыновей, переселение в Шантипур; рождение Адвайты (Камалаканты)",
+  "summary": "Придворный пандит раджи Дивьясимхи в Лауре Кувера Ачарья, из рода Нарасимхи Надияла, женат на Набха-деви; их жрец Виджая Пури — источник сведений о детстве Адвайты; из шести сыновей четверо умирают, родители переселяются в Шантипур; Набха зачинает, в Наваграме Кувера извещает раджу; Адвайта рождается в Магха-шукла-саптами и получает имена Камалаканта и Адвайта.",
+  "persons": [
+   "@kubera-acharya",
+   "@labha",
+   "@divya-simha",
+   "@vijaya-puri",
+   "@narasimha-nadiyal",
+   "@advaita",
+   "@nityananda-dasa-author"
+  ],
+  "places": [
+   "#lauda",
+   "#shantipura",
+   "#shrihatta"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Мать Адвайты здесь — Набха-деви (в «Адвайта-пракаше» — Лабха).",
+  "themes": [
+   "family"
+  ],
+  "calendar": "магха, шукла-саптами",
+  "event": "ev-advaita-birth",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "35",
+    "to": "62"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "35",
+    "to": "62",
+    "line": 107,
+    "line_to": 188,
+    "count": 28,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L107-L188",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L107-L188"
    }
   ],
   "attestation": 3
@@ -3074,7 +3235,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "«Адвайта-пракаша»: apr-0006",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "pranks"
   ],
@@ -3097,6 +3258,54 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2436-L2442",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2436-L2442"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0242",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 63–74",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.2,
+  "title": "Детство Адвайты: пляска при имени Кришны; рык Адвайты сражает насмешливого царевича, оживлённого водой шалаграмы",
+  "summary": "Мальчик Камалаканта пляшет, слыша имена Кришны; царевич насмехается — от рыка Камалаканты падает без чувств; раджа скорбит, но Камалаканта говорит, что царевич не умер, и оживляет его водой со стоп шалаграмы.",
+  "persons": [
+   "@advaita",
+   "@kubera-acharya",
+   "@divya-simha"
+  ],
+  "places": [
+   "#lauda"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "pranks",
+   "mercy"
+  ],
+  "event": "ev-advaita-revives-prince",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "63",
+    "to": "74"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "63",
+    "to": "74",
+    "line": 191,
+    "line_to": 224,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L191-L224",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L191-L224"
    }
   ],
   "attestation": 2
@@ -3173,7 +3382,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "«Адвайта-пракаша»: apr-0007",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "deities"
   ],
@@ -3196,6 +3405,54 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2445-L2454",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2445-L2454"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0243",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 75–89",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.25,
+  "title": "Камалаканта не кланяется Кали: изваяние раскалывается; совет радже служить вайшнавам",
+  "summary": "После упанаяны Камалаканта в павильоне Калики не кланяется Деви, говоря, что он Садашива; по настоянию отца кланяется — Деви исчезает, изваяние раскалывается; он советует радже служить преданным Вишну и почитать Деви с преданностью, и раджа ставит образы Деви и Вишну.",
+  "persons": [
+   "@advaita",
+   "@kubera-acharya",
+   "@divya-simha"
+  ],
+  "places": [
+   "#lauda"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Почитание Дурги здесь — как служанки Господа, ради бхакти («Брахма-самхита» 5.44).",
+  "themes": [
+   "deities",
+   "offense"
+  ],
+  "event": "ev-advaita-kali-image-splits",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "75",
+    "to": "89"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "75",
+    "to": "89",
+    "line": 227,
+    "line_to": 269,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L227-L269",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L227-L269"
    }
   ],
   "attestation": 2
@@ -3338,7 +3595,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "«Адвайта-пракаша» (ev-advaita-lotus-miracle)",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "learning",
    "revelation"
@@ -3362,6 +3619,53 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2457-L2469",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2457-L2469"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0244",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 90–101",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.35,
+  "title": "Учение Адвайты в Шантипуре и у Шантачарьи; лотосы из озера со змеями, хождение по воде",
+  "summary": "Изучив грамматику, Адвайта приходит в Шантипур, изучает словесность, смрити, Веды и пураны, привозит туда родителей; у Шантачарьи из Пхуллавати изучает Веды, «Бхагавату» и «Йога-васиштху», получает звание Ачарьи; для учителя приносит лотосы из кишащего змеями озера, идя по воде, и Шантачарья признаёт в нём частицу Ишвары.",
+  "persons": [
+   "@advaita",
+   "@shanta-vedantavagisha"
+  ],
+  "places": [
+   "#shantipura",
+   "#phulia"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-advaita-studies-shantipura.",
+  "themes": [
+   "learning"
+  ],
+  "event": "ev-advaita-lotus-miracle",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "90",
+    "to": "101"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "90",
+    "to": "101",
+    "line": 272,
+    "line_to": 305,
+    "count": 12,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L272-L305",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L272-L305"
    }
   ],
   "attestation": 2
@@ -3547,7 +3851,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "pilgrimage",
    "teaching"
@@ -3571,6 +3875,57 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2472-L2478",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2472-L2478"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0245",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 102–111",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.5,
+  "title": "Уход родителей Адвайты; паломничество; встреча с Мадхавендрой Пури на юге и с Виджаей Пури в Каши",
+  "summary": "Родители Адвайты уходят из мира; он совершает пинду в Гае и обходит святые места; на юге встречает Мадхавендру Пури, изучает у него писания о бхакти; Мадхавендра называет его Садашивой и предсказывает, что он приведёт Кришну на землю; в Каши — встреча с Виджаей Пури.",
+  "persons": [
+   "@advaita",
+   "@madhavendra-puri",
+   "@vijaya-puri"
+  ],
+  "places": [
+   "#gaya",
+   "#kashi"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-advaita-parents-departure, ev-advaita-pilgrimage.",
+  "themes": [
+   "pilgrimage"
+  ],
+  "teaching": [
+   "bhakti-supremacy"
+  ],
+  "event": "ev-advaita-meets-madhavendra",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "102",
+    "to": "111"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "102",
+    "to": "111",
+    "line": 308,
+    "line_to": 335,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L308-L335",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L308-L335"
    }
   ],
   "attestation": 2
@@ -3796,7 +4151,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "«Адвайта-пракаша» (ev-advaita-madana-mohana, ev-advaita-vishakha-painting)",
-  "notes": "Только в указателе (24-я виласа не переведена); Вишакха — подруга Радхи (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.); Вишакха — подруга Радхи (сноска перевода).",
   "themes": [
    "deities"
   ],
@@ -3820,6 +4175,59 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2481-L2517",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2481-L2517"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0246",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 112–165",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.6,
+  "title": "Адвайта обретает Мадана-мохана во Врадже; Божество скрывается от млеччхов, уходит к Чаубе; картина Вишакхи — Мадана-гопал Шантипура",
+  "summary": "Во сне Кришна называет Адвайту Шивой Гопешварой и велит откопать Своё изваяние Мадана-мохана; Адвайта устанавливает Божество; при набеге млеччхов Оно, став Гопалой, скрывается под цветами; затем во сне велит отдать Себя брахману-чаубе из Матхуры, любящему Его как сына (до прихода Рупы и Санатаны), а Адвайте взять картину Вишакхи; Адвайта находит её в роще и устанавливает в Шантипуре как Мадана-гопала.",
+  "persons": [
+   "@advaita",
+   "@krishna",
+   "@madana-mohana-vrindavana",
+   "@madana-gopala-deity",
+   "@damodara-chaube"
+  ],
+  "places": [
+   "#vrindavana",
+   "#mathura",
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-advaita-vishakha-painting. В «Бхакти-ратнакаре» и в. 23 Мадана-мохан — у чаубе, от которого Его получает Санатана; роль Адвайты — только по «Адвайта-пракаше» и этой виласе.",
+  "themes": [
+   "deities",
+   "revelation"
+  ],
+  "divergence": "По «Бхакти-ратнакаре» Мадана-мохана получает от чаубе Санатана Госвами, без участия Адвайты.",
+  "event": "ev-advaita-madana-mohana",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "112",
+    "to": "165"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "112",
+    "to": "165",
+    "line": 338,
+    "line_to": 497,
+    "count": 54,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L338-L497",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L338-L497"
    }
   ],
   "attestation": 2
@@ -3991,7 +4399,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "teaching"
   ],
@@ -4014,6 +4422,53 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2520-L2520",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2520-L2520"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0247",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 166–169",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.7,
+  "title": "Мадхавендра Пури в Шантипуре посвящает Адвайту в мантру Гопалы",
+  "summary": "Мадхавендра Пури, придя в Шантипур, кланяется образу Кришны; Адвайта почитает его и принимает у него посвящение в десятисложную мантру Гопалы.",
+  "persons": [
+   "@advaita",
+   "@madhavendra-puri",
+   "@madana-gopala-deity"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "learning"
+  ],
+  "event": "ev-advaita-madhavendra-initiation",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "166",
+    "to": "169"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "166",
+    "to": "169",
+    "line": 500,
+    "line_to": 509,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L500-L509",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L500-L509"
    }
   ],
   "attestation": 2
@@ -4144,7 +4599,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "deities",
    "prasada"
@@ -4171,6 +4626,56 @@
    }
   ],
   "cc": "Мадхья 4",
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0248",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 170–175",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.75,
+  "title": "Мадхавендра с сандалом для Говинды; Кшира-чора Гопинатха в Ремуне; уход Мадхавендры",
+  "summary": "Мадхавендра несёт с юга сандал с гор Малая, чтобы унять жар тела Говинды; в Ремуне Гопинатха ради него крадёт сладкий рис; по велению Говинды он подносит сандал Гопинатхе, уходит в край Вриндавана и там покидает мир.",
+  "persons": [
+   "@madhavendra-puri",
+   "@gopala-remuna",
+   "@govinda-deity"
+  ],
+  "places": [
+   "#remuna",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "deities"
+  ],
+  "cc": "Мадхья 4",
+  "divergence": "В ЧЧ сандал предназначен Гопале на Говардхане, и Мадхавендра уходит из мира в Ремуне.",
+  "event": "ev-madhavendra-kshira-chora",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "170",
+    "to": "175"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "170",
+    "to": "175",
+    "line": 512,
+    "line_to": 527,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L512-L527",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L512-L527"
+   }
+  ],
   "attestation": 3
  },
  {
@@ -4247,7 +4752,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "learning"
   ],
@@ -4270,6 +4775,55 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2541-L2550",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2541-L2550"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0250",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 186–196",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.8,
+  "title": "Дигвиджайи Бада Шьямадас побеждён Адвайтой — Бхагавата Ачарья; Шринатха Чакраварти, гуру Кави Карнапуры",
+  "summary": "Пандит-дигвиджайи Бада Шьямадас, побеждённый Адвайтой в Шантипуре, принимает у него мантру Кришны и, изучив «Бхагавату», становится известен как Бхагавата Ачарья; Шринатха Чакраварти изучает у Адвайты «Бхагавату», получает посвящение, устанавливает Кришна-рая в Кумарахатте, пишет «Чайтанья-мата-манджушу»; его ученик — Кави Карнапура.",
+  "persons": [
+   "@shyamadasa-acharya",
+   "@advaita",
+   "@srinatha-chakravarti",
+   "@kavi-karnapura"
+  ],
+  "places": [
+   "#shantipura",
+   "#kumarahatta"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "learning"
+  ],
+  "event": "ev-advaita-name-digvijayi",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "186",
+    "to": "196"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "186",
+    "to": "196",
+    "line": 560,
+    "line_to": 590,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L560-L590",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L560-L590"
    }
   ],
   "attestation": 2
@@ -4342,7 +4896,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "mercy"
   ],
@@ -4365,6 +4919,57 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2532-L2538",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2532-L2538"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0249",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 176–185",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.85,
+  "title": "Раджа Дивьясимха — ученик Адвайты Кришнадас, Кришнадас Брахмачари во Вриндаване",
+  "summary": "Раджа Дивьясимха по велению Адвайты поклоняется Кали и Вишну, приходит в Шантипур, оставляет мантру Шакти и принимает у Адвайты мантру Гопалы и имя Кришнадас; он поведал о житии Адвайты; изучив «Бхагавату», уходит во Вриндаван, где известен как Кришнадас Брахмачари, друг Кашишвары, любимый Рупой и Санатаной.",
+  "persons": [
+   "@divya-simha",
+   "@advaita",
+   "@krishnadasa-brahmachari",
+   "@kashishvara",
+   "@rupa-gosvami",
+   "@sanatana-gosvami"
+  ],
+  "places": [
+   "#shantipura",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Отождествление Дивьясимхи с Кришнадасом Брахмачари — только по «Адвайта-пракаше» и этой виласе; ему приписывается «Балья-лила-сутра» (по Маджумдару — поздняя).",
+  "themes": [
+   "mercy"
+  ],
+  "event": "ev-divya-simha-krishnadasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "176",
+    "to": "185"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "176",
+    "to": "185",
+    "line": 530,
+    "line_to": 557,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L530-L557",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L530-L557"
    }
   ],
   "attestation": 2
@@ -4440,7 +5045,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "mercy"
   ],
@@ -4466,6 +5071,59 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2553-L2562",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2553-L2562"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0251",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 197–207",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.9,
+  "title": "Брахма-Харидас: брахман, выросший у Малаи Кази; посвящение у Адвайты; триста тысяч имён в день",
+  "summary": "Харидас, рождённый в брахманском роду в Будхане, осиротел и вырос у правителя Андуи Малаи Кази, утратив касту; помня о прошлом грехе, приходит в Шантипур, принимает прибежище у Адвайты, изучает писания о бхакти, получает посвящение; ежедневно повторяет триста тысяч имён — в уме, слухом и вслух.",
+  "persons": [
+   "@haridasa-thakura",
+   "@malaya-kazi",
+   "@advaita"
+  ],
+  "places": [
+   "#budhana",
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "cb": "Ади 16",
+  "divergence": "По ЧБ Харидас родился в семье мусульман; версия о брахманском происхождении — по «Адвайта-пракаше».",
+  "event": "ev-haridasa-comes-to-advaita",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "197",
+    "to": "207"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "197",
+    "to": "207",
+    "line": 593,
+    "line_to": 623,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L593-L623",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L593-L623"
    }
   ],
   "attestation": 2
@@ -4597,7 +5255,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "learning"
   ],
@@ -4620,6 +5278,58 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2565-L2571",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2565-L2571"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0252",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 208–214",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.92,
+  "title": "Пандит Ядунандана побеждён Харидасом и становится учеником Адвайты; его ученик — Рагхунатха Дас",
+  "summary": "Дигвиджайи Ядунандана в споре об истине Бога побеждён Харидасом, отвергшим учение знания ради бхакти; он принимает посвящение у Адвайты и преподаёт «Бхагавату»; его ученик — Дас Госвами (Рагхунатха Дас).",
+  "persons": [
+   "@yadunandana-acharya",
+   "@haridasa-thakura",
+   "@advaita",
+   "@raghunatha-dasa"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "learning"
+  ],
+  "teaching": [
+   "bhakti-supremacy"
+  ],
+  "cc": "Антья 6",
+  "event": "ev-yadunandana-tarka-chudamani",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "208",
+    "to": "214"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "208",
+    "to": "214",
+    "line": 626,
+    "line_to": 644,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L626-L644",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L626-L644"
    }
   ],
   "attestation": 2
@@ -4774,7 +5484,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family",
    "revelation"
@@ -4798,6 +5508,65 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2640-L2670",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2640-L2670"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0258",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 321–353",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.96,
+  "title": "Женитьба Адвайты на Сите и Шри; четырёхрукая Сита; школа в Шантипуре; сыновья Адвайты",
+  "summary": "Кап Нрисимха Бхадури из Нараянапура, увидев во сне Адвайту мужем своих дочерей, через Бада Шьямадаса устраивает свадьбу в Пхулии на средства Хираньи и Говардханы; на пакаспарше Сита являет четыре руки; Адвайта переносит школу в Шантипур; от Ситы пять сыновей, от Шри — один (Ачьютананда — Ганеша; его проявление — Чхота Шьямадас, вскормленный Ситой).",
+  "persons": [
+   "@advaita",
+   "@sita-thakurani",
+   "@shri-thakurani",
+   "@nrisimha-bhaduri",
+   "@shyamadasa-acharya",
+   "@hiranya-majumdar",
+   "@govardhana-majumdar",
+   "@achyutananda",
+   "@chhota-shyamadasa"
+  ],
+  "places": [
+   "#narayanapura",
+   "#phulia",
+   "#shantipura",
+   "#kulia"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-sita-initiation, ev-krishna-mishra-birth, ev-svarupa-jagadisha-birth.",
+  "themes": [
+   "family"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "event": "ev-advaita-marries-sita",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "321",
+    "to": "353"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "321",
+    "to": "353",
+    "line": 967,
+    "line_to": 1063,
+    "count": 33,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L967-L1063",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L967-L1063"
    }
   ],
   "attestation": 2
@@ -4846,6 +5615,54 @@
     "line_to": 128,
     "count": null,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/08.md?plain=1#L116-L128"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0259",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 354–368",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 1.98,
+  "title": "Джангали, служанка Ситы: правитель Гауды видит её то женщиной, то мужчиной; Джангали-тота",
+  "summary": "Сита посвящает служанок Джангали и Нандини; Джангали подвижничает в лесу среди зверей; правитель Гауды на охоте хочет её обесчестить, но видит мужчину; испытание показывает, что женщинам она является женщиной, а порочным мужчинам — мужчиной; раскаявшийся правитель строит ей обитель — Джангали-тоту.",
+  "persons": [
+   "@jangali",
+   "@nandini-sita",
+   "@sita-thakurani"
+  ],
+  "places": [
+   "#gauda"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "mercy",
+   "offense"
+  ],
+  "event": "ev-jangali-tota",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "354",
+    "to": "368"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "354",
+    "to": "368",
+    "line": 1066,
+    "line_to": 1108,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1066-L1108",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1066-L1108"
    }
   ],
   "attestation": 1
@@ -5286,7 +6103,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "mercy"
   ],
@@ -5315,6 +6132,61 @@
    }
   ],
   "cc": "Антья 3",
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0256",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 261–289",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 2.6,
+  "title": "Блудница, посланная кази, в Бенаполе принимает от Харидаса Хари-наму",
+  "summary": "В Бенаполе к подвижничающему Харидасу кази посылает блудницу «из рода моголов»; три-четыре ночи она слушает его Хари-наму, очищается, раздаёт богатство, остригает волосы и принимает от Харидаса тилаку, чётки туласи и Имя; кази поражён.",
+  "persons": [
+   "@haridasa-thakura"
+  ],
+  "places": [
+   "#benapola"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Анахронизм: моголы в Бенгалии — с 1576 г.",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "scriptures": [
+   "Бхаг. 10.48.31",
+   "Сканда-пурана (Хари-бхакти-виласа 11.234)"
+  ],
+  "cc": "Антья 3",
+  "divergence": "По ЧЧ блудницу подослал Рамачандра Хан, а не кази.",
+  "event": "ev-haridasa-prostitute",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "261",
+    "to": "289"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "261",
+    "to": "289",
+    "line": 785,
+    "line_to": 871,
+    "count": 29,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L785-L871",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L785-L871"
+   }
+  ],
   "attestation": 2
  },
  {
@@ -5535,7 +6407,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "muslims",
    "offense"
@@ -5565,6 +6437,57 @@
    }
   ],
   "cb": "Ади 16",
+  "attestation": 4
+ },
+ {
+  "id": "pvl-0255",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 250–260",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 2.7,
+  "title": "Кази заточает Харидаса и топит его в мешке в Ганге; рыбаки вылавливают его живым",
+  "summary": "В Навадвипе кази связывает Харидаса за следование индусской вере; в темнице тот поёт с узниками санкиртану; кази топит его в мешке в Ганге; через дни рыбаки вылавливают мешок, и Харидаса находят в позе йоги, повторяющим Имя; яваны просят прощения.",
+  "persons": [
+   "@haridasa-thakura"
+  ],
+  "places": [
+   "#navadvipa",
+   "#ganga"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "muslims"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "cb": "Ади 16",
+  "divergence": "По ЧБ Харидаса бьют в двадцати двух рынках и бросают в Гангу; рассказ о мешке и сети — иной.",
+  "event": "ev-haridasa-muslim-governor",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "250",
+    "to": "260"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "250",
+    "to": "260",
+    "line": 752,
+    "line_to": 782,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L752-L782",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L752-L782"
+   }
+  ],
   "attestation": 4
  },
  {
@@ -5879,7 +6802,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "offense"
   ],
@@ -5902,6 +6825,53 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2592-L2604",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2592-L2604"
+   }
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0254",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 232–249",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 2.9,
+  "title": "Раскол брахманов Шантипура: противники Адвайты едят с Харидасом, видя на нём сияющий шнур, и смиряются",
+  "summary": "Брахманы Шантипура хулят Адвайту за шраддха-патру явану; противники Адвайты на пиру, приняв сияющего Харидаса со священным шнуром за санньяси, едят с ним в одном ряду; пришедший Адвайта открывает, кто это, — брахманы просят прощения.",
+  "persons": [
+   "@haridasa-thakura",
+   "@advaita"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Мотив шнура — следствие версии о брахманском происхождении Харидаса.",
+  "themes": [
+   "offense",
+   "prasada"
+  ],
+  "event": "ev-shantipura-brahmins-haridasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "232",
+    "to": "249"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "232",
+    "to": "249",
+    "line": 698,
+    "line_to": 749,
+    "count": 18,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L698-L749",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L698-L749"
    }
   ],
   "attestation": 2
@@ -6026,7 +6996,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "offense",
    "mercy"
@@ -6056,6 +7026,60 @@
    }
   ],
   "cc": "Антья 3",
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0253",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 215–231",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 2.95,
+  "title": "Шраддха-патра Харидасу; Харидас отнимает и возвращает огонь; Рамадас в Пхулии; змея и тигр в Кулии",
+  "summary": "Адвайта кормит Харидаса поминальным блюдом, люди хулят его; по слову Адвайты Харидас отнимает огонь, а на мольбы людей раздувает его из травы; в Пхулии его учеником становится брахман Рамадас и многие жители; в лесу у Кулии змея и тигр, услышав Имя, пляшут и уходят на Вайкунтху.",
+  "persons": [
+   "@advaita",
+   "@haridasa-thakura",
+   "@ramadasa-phulia"
+  ],
+  "places": [
+   "#shantipura",
+   "#phulia",
+   "#kulia"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Рассказ об огне, змее и тигре — только здесь (и в «Адвайта-пракаше»); ср. ev-haridasa-phulia-benapole.",
+  "themes": [
+   "mercy",
+   "prasada"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "cc": "Антья 3",
+  "event": "ev-shraddha-patra-haridasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "215",
+    "to": "231"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "215",
+    "to": "231",
+    "line": 647,
+    "line_to": 695,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L647-L695",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L647-L695"
+   }
+  ],
   "attestation": 3
  },
  {
@@ -6510,7 +7534,7 @@
   "kind": "pre-advent",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "celestial"
   ],
@@ -6533,6 +7557,58 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2673-L2676",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2673-L2676"
+   }
+  ],
+  "cc": "Ади 3",
+  "attestation": 7
+ },
+ {
+  "id": "pvl-0260",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 369–374",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 4,
+  "title": "Ишана укоряет Адвайту; рык Адвайты — Кришна со спутниками нисходит в Надию",
+  "summary": "Ученик Ишана говорит Адвайте, что, став домохозяином, он не сделал ничего для спасения живых существ; Адвайта издаёт рык, начинает подвижничество и приводит Кришначандру со спутниками в Надию; Господь проповедует бхакти.",
+  "persons": [
+   "@advaita",
+   "@ishana-nagara",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "revelation"
+  ],
+  "teaching": [
+   "yuga-dharma"
+  ],
+  "event": "ev-advaita-calls-lord",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "369",
+    "to": "374"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "369",
+    "to": "374",
+    "line": 1111,
+    "line_to": 1126,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1111-L1126",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1111-L1126"
    }
   ],
   "cc": "Ади 3",
@@ -7417,7 +8493,7 @@
   "kind": "pre-advent",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family"
   ],
@@ -7440,6 +8516,59 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2754-L2766",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2754-L2766"
+   }
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0263",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 441–455",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 8,
+  "title": "Родословие Махапрабху: Мадху Мишра и Упендра Мишра; Джаганнатха, Чандрашекхара и Ниламбара Чакраварти в Надии",
+  "summary": "Вишуддха Мишра из рода Ватсьи; его сын Мадху Мишра в Бараганге (Шрихатта) — отец четырёх сыновей, в том числе Упендры; семь сыновей Упендры от Камалавати, среди них Джаганнатха Мишра Пурандара, поселившийся в Навадвипе; Чандрашекхара Ачарьяратна; Ниламбара Чакраварти из Белпукхурии — отец Йогешвары, Шачи, Ратнагарбхи и Сарваджаи; браки Шачи и Сарваджаи.",
+  "persons": [
+   "@upendra-mishra",
+   "@jagannatha-mishra",
+   "@chandrashekhara-acharya",
+   "@nilambara-chakravarti",
+   "@shachi",
+   "@ratnagarbha-acharya"
+  ],
+  "places": [
+   "#shrihatta",
+   "#navadvipa",
+   "#belpukhuria"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Родословие из кулинских хроник, известное только по 24-й виласе (явная поздняя вставка), категория D. Семь сыновей Упендры согласуются с ЧЧ Ади 13; Ратнагарбха как брат Шачи — только здесь.",
+  "themes": [
+   "family"
+  ],
+  "cc": "Ади 13",
+  "event": "ev-mishra-family-migrates-navadvipa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "441",
+    "to": "455"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "441",
+    "to": "455",
+    "line": 1327,
+    "line_to": 1369,
+    "count": 15,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1327-L1369",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1327-L1369"
    }
   ],
   "attestation": 3
@@ -8712,7 +9841,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена); двустишие 910 сильно повреждено (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.); двустишие 910 сильно повреждено (сноска перевода).",
   "themes": [
    "sannyasa",
    "pilgrimage"
@@ -8740,6 +9869,62 @@
    }
   ],
   "cb": "Ади 9",
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0265",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 467–502",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P01",
+  "order": 31,
+  "title": "Нитьянанда: род Хадаи Ойхи; по сну Баларамы Ишвара Пури посвящает его в санньясу; встречи с Мадхавендрой; Ишвара Пури посылает его к Гауре",
+  "summary": "В Экачаке у Хадаи Ойхи (Мукунды), сына Сундарамаллы, и Падмавати семь сыновей, старший — Нитьянанда (Чидананда), неотличный от Вишварупы; Баларама во сне велит Ишваре Пури дать Нитьянанде посвящение и санньясу; тот просит его у Хадаи, вкладывает в него мощь Вишварупы; странствия по святым местам, встреча с Мадхавендрой; во Вриндаване Ишвара Пури говорит, что Кришна нисшёл в Навадвипе, — и Нитьянанда идёт к Гауре.",
+  "persons": [
+   "@nityananda",
+   "@hadai-pandita",
+   "@padmavati",
+   "@ishvara-puri",
+   "@madhavendra-puri",
+   "@balarama",
+   "@vishvarupa",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#ekachakra",
+   "#vrindavana",
+   "#navadvipa"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-nityananda-meets-madhavendra, ev-nityananda-pilgrimage, ev-nityananda-first-meeting; посвящение у Ишвары Пури — только здесь (кратко — в. 7).",
+  "themes": [
+   "sannyasa",
+   "pilgrimage"
+  ],
+  "cb": "Ади 9",
+  "event": "ev-nityananda-leaves-home",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "467",
+    "to": "502"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "467",
+    "to": "502",
+    "line": 1405,
+    "line_to": 1510,
+    "count": 36,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1405-L1510",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1405-L1510"
+   }
+  ],
   "attestation": 2
  },
  {
@@ -12710,7 +13895,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family"
   ],
@@ -20430,7 +21615,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "sannyasa",
    "departure"
@@ -20459,6 +21644,70 @@
   ],
   "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cc": "Ади 15",
+  "cb": "Ади 7",
+  "years": [
+   1491,
+   1496
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   5,
+   10
+  ],
+  "attestation": 9
+ },
+ {
+  "id": "pvl-0264",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 456–466",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P04",
+  "order": 10,
+  "title": "Вишварупа: посвящение у Ишвары Пури, санньяса (Шанкараранья) со спутником Локанатхой, передача мощи Ишваре Пури",
+  "summary": "У Шачи умирают восемь дочерей, затем рождается Вишварупа — Баладева; он посвящён Ишварой Пури; взяв с собой двоюродного брата Локанатху, сына Ратнагарбхи, уходит на юг, принимает санньясу под именем Шанкараранья Пури, вкладывает свою мощь в Ишвару Пури, велит передать её Нитьянанде и уходит из мира.",
+  "persons": [
+   "@vishvarupa",
+   "@shachi",
+   "@ishvara-puri",
+   "@lokanatha-pandita",
+   "@ratnagarbha-acharya",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-vishvarupa-birth; в. 7 этой книги.",
+  "themes": [
+   "sannyasa"
+  ],
+  "scriptures": [
+   "Чайтанья-чандродая-натака, д. 1"
+  ],
+  "cc": "Ади 7; Мадхья 9",
+  "event": "ev-vishvarupa-sannyasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "456",
+    "to": "466"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "456",
+    "to": "466",
+    "line": 1372,
+    "line_to": 1402,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1372-L1402",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1372-L1402"
+   }
+  ],
+  "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cb": "Ади 7",
   "years": [
    1491,
@@ -31625,7 +32874,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "pilgrimage",
    "learning",
@@ -31655,6 +32904,70 @@
   ],
   "cc": "Ади 16",
   "cb": "Ади 14",
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 10
+ },
+ {
+  "id": "pvl-0266",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 503–521",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P05",
+  "order": 65,
+  "title": "Путешествие Господа в Вангу: санкиртана на Падме; путь в Шрихатту; благословение Лакшминатхе Лахири в Бхитадии",
+  "summary": "Из Навадвипы Господь приходит на Падму, являет игры учёности и санкиртану, «привлекает» Нароттаму; идёт в Шрихатту через Фаридпур, Нурпур в Викрамапуре, Суварнаграм, Эгарасиндур и Беталь; в Бхитадии гостит у кулина Лакшминатхи Лахири и благословляет его на сына — Рупу Нараяну.",
+  "persons": [
+   "@mahaprabhu",
+   "@narottama-dasa",
+   "@lakshminatha-lahiri",
+   "@rupa-narayana"
+  ],
+  "places": [
+   "#east-bengal",
+   "#padmavati",
+   "#bhitadia",
+   "#shrihatta"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Маршрут и рассказ о Лакшминатхе — только здесь; ср. ev-rupa-narayana.",
+  "themes": [
+   "pilgrimage",
+   "mercy"
+  ],
+  "cb": "Ади 14",
+  "event": "ev-east-bengal-tour",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "503",
+    "to": "521"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "503",
+    "to": "521",
+    "line": 1513,
+    "line_to": 1567,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1513-L1567",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1513-L1567"
+   }
+  ],
+  "cc": "Ади 16",
   "years": [
    1496,
    1508
@@ -31858,6 +33171,134 @@
    22
   ],
   "attestation": 10
+ },
+ {
+  "id": "pvl-0268",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 544–567",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P05",
+  "order": 66,
+  "title": "Господь в Шрихатте у деда и бабушки: мгновенно переписанная «Чанди», сладкий джекфрут; дед и бабушка уходят в вечную обитель",
+  "summary": "В Бараганге Господь кланяется деду Упендре Мишре и бабушке Камалавати; бабушка видела сон, что внук — Нараяна; пока дед в покоях, Господь в мгновение переписывает «Чанди»; бабушка кормит Его джекфрутом и просит вновь показать облик из сна; увидев его, оба обретают тела спутников и уходят в вечную обитель; Господь возвращается на Падму.",
+  "persons": [
+   "@mahaprabhu",
+   "@upendra-mishra"
+  ],
+  "places": [
+   "#shrihatta",
+   "#padmavati"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. ЧБ (Ади 14) о посещении Шрихатты не говорит.",
+  "themes": [
+   "family",
+   "revelation"
+  ],
+  "event": "ev-shrihatta-grandparents",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "544",
+    "to": "567"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "544",
+    "to": "567",
+    "line": 1636,
+    "line_to": 1705,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1636-L1705",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1636-L1705"
+   }
+  ],
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0269",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 568–611",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P05",
+  "order": 68,
+  "title": "Лжеаватары в Рархе и Ванге: Шакал Васудева, Капиндри Вишнудас, Чудадхари Мадхава; Господь изгоняет Чудадхари из Нилачалы",
+  "summary": "Видя, что все чтут Чайтанью как Ишвару, некоторые грешники объявляют Ишварой себя: брахман Васудева («Шиял»), называвший себя Гопалой, каястха Вишнудас («Капиндри»), называвший себя Рагхунатхой, и пуджари Мадхава («Чудадхари»), игравший «лилу» с женщинами; Чудадхари приходит на санкиртану в Нилачале, и Господь велит преданным прогнать его; автор поясняет «сутру» ЧБ и предостерегает от общения с отверженными.",
+  "persons": [
+   "@shrigala-vasudeva",
+   "@kapindri-vishnudasa",
+   "@chudadhari-madhava",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#radha-desha",
+   "#east-bengal",
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Лжеаватары упомянуты в ЧБ Ади 14 (без «Капиндри» и «Чудадхари»).",
+  "themes": [
+   "offense"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "vaishnava"
+  ],
+  "scriptures": [
+   "Бхаг. 3.31.34",
+   "Бхаг. 10.33.31",
+   "Ману 11.176"
+  ],
+  "cb": "Ади 14",
+  "event": "ev-false-avataras",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "568",
+    "to": "611"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "568",
+    "to": "611",
+    "line": 1708,
+    "line_to": 1852,
+    "count": 44,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1708-L1852",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1708-L1852"
+   }
+  ],
+  "years": [
+   1496,
+   1508
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 1
  },
  {
   "id": "apr-0065",
@@ -52407,7 +53848,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена); ср. указатель к виласе 4 (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.); ср. указатель к виласе 4 (сноска перевода).",
   "themes": [
    "teaching",
    "offense"
@@ -52438,6 +53879,69 @@
    }
   ],
   "cb": "Мадхья 19",
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0261",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 375–397",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P07",
+  "order": 112.8,
+  "title": "Адвайта толкует учение знания и получает наказание от Господа; отвергнутые ученики Камадева Нагара, Агала, Пагала и Шанкара",
+  "summary": "Тяготясь почтением Махапрабху, Адвайта нарочно толкует «Йога-васиштху» и учение знания; Господь с Нитьянандой приходит в Шантипур и бьёт его, затем обнимает и велит обратить учеников к бхакти; Камадева Нагара, Агала, Пагала и Шанкара отказываются — Адвайта отвергает их как «тьяги».",
+  "persons": [
+   "@advaita",
+   "@mahaprabhu",
+   "@nityananda",
+   "@kamadeva-nagara"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Наказание Адвайты — по ЧБ Мадхья 19; рассказ об отвергнутых учениках — по «Адвайта-пракаше». Это лила: Адвайта не принимает учения знания всерьёз.",
+  "themes": [
+   "offense"
+  ],
+  "teaching": [
+   "bhakti-supremacy",
+   "vedanta"
+  ],
+  "cb": "Мадхья 19",
+  "event": "ev-advaita-yoga-vasishtha-beating",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "375",
+    "to": "397"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "375",
+    "to": "397",
+    "line": 1129,
+    "line_to": 1195,
+    "count": 23,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1129-L1195",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1129-L1195"
+   }
+  ],
   "years": [
    1509,
    1510
@@ -57985,7 +59489,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена). Указание на Кулию — по изд. 1913 г. (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.). Указание на Кулию — по изд. 1913 г. (сноска перевода).",
   "themes": [
    "mercy",
    "learning"
@@ -58010,6 +59514,73 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2700-L2751",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2700-L2751"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0262",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 398–440",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P07",
+  "order": 127.2,
+  "title": "Мадхава Ачарья (Кавиваллабха): «Кришна-мангала», посвящение от Адвайты; Господь семь дней у него в Кулии; санньяса у Парамананды Пури",
+  "summary": "Сын Калидаса Мадхавадас, услышав Хари-наму из уст Прабху в Махапракашу, переселяется в Кулию, учится у Адвайты, перелагает десятую песнь «Бхагаваты» в «Шри Кришна-мангалу» и подносит её Господу в Пури; Господь велит Адвайте посвятить его; идя через Гауду, Господь семь дней живёт в его доме в Кулии; узнав о походе Господа во Вриндаван, Мадхава бежит от свадьбы, принимает санньясу у Парамананды Пури и учится бхаджану у Рупы и Санатаны.",
+  "persons": [
+   "@madhava-acharya-kavivallabha",
+   "@advaita",
+   "@mahaprabhu",
+   "@paramananda-puri",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@nityananda-dasa-author"
+  ],
+  "places": [
+   "#kulia",
+   "#navadvipa",
+   "#puri",
+   "#vrindavana",
+   "#kheturi"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Путь Господа через Гауду (Панихати, Кумарахатта, Шантипур, Кулия, Канаи-Натшала) — ср. ev-gauda-journey-ganga-villages; семь дней у Мадхавы и его санньяса — только здесь.",
+  "themes": [
+   "learning",
+   "mercy"
+  ],
+  "cc": "Мадхья 16",
+  "event": "ev-madhava-acharya-krishna-mangala",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "398",
+    "to": "440"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "398",
+    "to": "440",
+    "line": 1198,
+    "line_to": 1324,
+    "count": 43,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1198-L1324",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1198-L1324"
    }
   ],
   "years": [
@@ -101863,6 +103434,71 @@
   "age": [
    24,
    24
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0267",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 522–543",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P10",
+  "order": 80,
+  "title": "Падмагарбха Ачарья и его сын Пурушоттама, принявший санньясу в Варанаси под именем Сварупа Дамодара",
+  "summary": "Пандит Падмагарбха, учась в Навадвипе, женится на дочери Джаярамы Чакраварти, у них рождается Пурушоттама; учится в Митхиле и Каши, принимает мантру Гопалы у Лакшмипати, пишет комментарии; в Бхитадии от других жён у него рождаются Лакшминатха Лахири и другие; Пурушоттама Ачарья, любимый преданный Чайтаньи, после санньясы Господа принимает санньясу в Варанаси (гуру — Чайтаньянанда) и становится Сварупой Дамодарой, проверяющим книги и песни для Господа.",
+  "persons": [
+   "@padmagarbha-acharya",
+   "@svarupa-damodara",
+   "@lakshmipati-tirtha",
+   "@chaitanyananda",
+   "@lakshminatha-lahiri",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#navadvipa",
+   "#mithila",
+   "#kashi",
+   "#bhitadia"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Родословие из кулинских хроник, известное только по 24-й виласе (явная поздняя вставка), категория D. Санньяса Пурушоттамы в Варанаси и его служение — по ЧЧ Мадхья 10; происхождение от Падмагарбхи и родство с Лакшминатхой — только здесь.",
+  "themes": [
+   "sannyasa",
+   "family"
+  ],
+  "cc": "Мадхья 10",
+  "event": "ev-purushottama-acharya-sannyasa",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "522",
+    "to": "543"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "522",
+    "to": "543",
+    "line": 1570,
+    "line_to": 1633,
+    "count": 22,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1570-L1633",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1570-L1633"
+   }
+  ],
+  "years": [
+   1510,
+   1511
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 10: после санньясы Господа",
+  "age": [
+   24,
+   25
   ],
   "attestation": 1
  },
@@ -152761,7 +154397,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "«Адвайта-пракаша»: apr-0139",
-  "notes": "Только в указателе (24-я виласа не переведена). «Ванташи», «вирабхадри» — названия «пороков» (сноски перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.). «Ванташи», «вирабхадри» — названия «пороков» (сноски перевода).",
   "themes": [
    "family",
    "mercy"
@@ -152785,6 +154421,80 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2898-L2925",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2898-L2925"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "pvl-0270",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 612–653",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P15",
+  "order": 20,
+  "title": "Женитьба Нитьянанды: Уддхарана сватает, Сурьядас гневается и видит сон; оживление Васудхи; Джахнава в приданое; о «пороке ванташи»",
+  "summary": "В Догачхии у Кришнадаса Хода Нитьянанда объявляет о женитьбе; Уддхарана Датта сватает дочерей Сурьядаса Саркхела, тот гневается, но, увидев сон, ведёт Нитьянанду в Шалиграм, где Васудха умерла от укуса змеи, — Нитьянанда оживляет её; Он берёт Васудху по обряду и Джахнаву в приданое; автор приводит шастры о запрете брака санньяси и заключает, что к Самому Ишваре предписания не относятся; дети Нитьянанды: семь сыновей умирают от поклонов Абхирамы, выживают Вирабхадра и Ганга.",
+  "persons": [
+   "@nityananda",
+   "@hoda-krishnadasa",
+   "@uddharana-datta",
+   "@suryadasa-pandita",
+   "@vasudha",
+   "@jahnava",
+   "@abhirama",
+   "@virabhadra",
+   "@ganga-nityananda"
+  ],
+  "places": [
+   "#dogachhia",
+   "#shaligrama-village",
+   "#kharadaha"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. «Нитьянанда-вамша-вистару», «Бхакти-ратнакару» 12; ev-nityananda-settles-khardaha, ev-virachandra-birth.",
+  "themes": [
+   "family"
+  ],
+  "teaching": [
+   "sannyasa-teaching",
+   "associates-tattva"
+  ],
+  "scriptures": [
+   "Хемадри, Шраддха-калпа (Яма, Девала)",
+   "Шанкара, Брахма-сутра-бхашья 3.4.43",
+   "Бхаг. 10.33.29"
+  ],
+  "event": "ev-nityananda-marriage",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "612",
+    "to": "653"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "612",
+    "to": "653",
+    "line": 1855,
+    "line_to": 1980,
+    "count": 42,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1855-L1980",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1855-L1980"
    }
   ],
   "years": [
@@ -153154,6 +154864,70 @@
   "attestation": 1
  },
  {
+  "id": "pvl-0271",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 654–683",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P15",
+  "order": 21,
+  "title": "Родословие Бхагиратхи Ачарьи; Мадхава Ачарья женится на Ганге — дочери гуру; Девивара делает его кулином",
+  "summary": "Бхагиратха (Гауридас) Чатта из Наньяпура, потомок Аравинды, растит Мадхаву как сына; Нитьянанда отдаёт Мадхаве дочь Гангу вопреки запрету брака с дочерью гуру (приведены «Махабхарата» о Каче и Деваяни и «Матсья-сукта»); Девивара провозглашает Мадхаву кулином Кхардаха-мелы, его сыновья переходят в мелу Дашаратхи Гхатаки; природа Мадхавы — Шантану, Мадхуспанда и сакхи Мадхави.",
+  "persons": [
+   "@bhagiratha-acharya",
+   "@madhava-acharya-ganga",
+   "@ganga-nityananda",
+   "@nityananda",
+   "@devivara-ghataka"
+  ],
+  "places": [
+   "#nanyapur",
+   "#kharadaha",
+   "#katwa"
+  ],
+  "kind": "lila",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Родословие из кулинских хроник, известное только по 24-й виласе (явная поздняя вставка), категория D. Ср. в. 19 и 21. Участие Девивары хронологически сомнительно.",
+  "themes": [
+   "family"
+  ],
+  "scriptures": [
+   "Махабхарата, Ади-парва (Кача и Деваяни)"
+  ],
+  "event": "ev-ganga-marries-madhava",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "654",
+    "to": "683"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "654",
+    "to": "683",
+    "line": 1983,
+    "line_to": 2070,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L1983-L2070",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L1983-L2070"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
   "id": "pvl-0180",
   "source": "prema-vilasa",
   "ref": "Виласа 21, 4–35",
@@ -153229,7 +155003,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family"
   ],
@@ -154196,7 +155970,7 @@
   "kind": "miracle",
   "authority": "D",
   "parallels": "«Адвайта-пракаша»: apr-0152",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family",
    "revelation"
@@ -154221,6 +155995,66 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2952-L2967",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2952-L2967"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "pvl-0272",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 684–704",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P15",
+  "order": 34,
+  "title": "Вирабхадра плывёт за посвящением к Адвайте; Абхирама разбивает лодку флейтой; Джахнава четырёхрукая посвящает сына",
+  "summary": "Вирабхадра с музыкантами плывёт в Шантипур принять мантру у Адвайты, не сказав матери; Джахнава посылает Абхираму вернуть его; тот бросает флейту, лодка раскалывается; устыдившись, Вира приходит к матери, видит её четырёхрукой и принимает посвящение у неё.",
+  "persons": [
+   "@virabhadra",
+   "@jahnava",
+   "@abhirama",
+   "@advaita"
+  ],
+  "places": [
+   "#kharadaha",
+   "#shantipura",
+   "#ganga"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C.",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-virabhadra-initiation",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "684",
+    "to": "704"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "684",
+    "to": "704",
+    "line": 2073,
+    "line_to": 2133,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2073-L2133",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2073-L2133"
    }
   ],
   "years": [
@@ -154572,7 +156406,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "family"
   ],
@@ -154595,6 +156429,67 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2979-L2982",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2979-L2982"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "pvl-0274",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 729–736",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P15",
+  "order": 36.5,
+  "title": "Женитьба Вирачандры на Шримати и Нараяни; его дети",
+  "summary": "Ядунандана из Джхаматпура, из рода Пиппали, отдаёт Вирабхадре дочерей Шримати и Нараяни; у Вирачандры три сына — Гопиджанаваллабха, Рамакришна, Рамачандра — и дочь Бхуванамохини, жена Парватинатхи Мукхути из Пхулии.",
+  "persons": [
+   "@virabhadra",
+   "@srimati-virachandra",
+   "@narayani-virachandra",
+   "@gopijanavallabha",
+   "@ramakrishna-virachandra",
+   "@ramachandra-virachandra"
+  ],
+  "places": [
+   "#jhamatpur",
+   "#phulia"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. Ср. ev-virachandra-children.",
+  "themes": [
+   "family"
+  ],
+  "event": "ev-virachandra-marriage",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "729",
+    "to": "736"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "729",
+    "to": "736",
+    "line": 2208,
+    "line_to": 2229,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2208-L2229",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2208-L2229"
    }
   ],
   "years": [
@@ -154752,7 +156647,7 @@
   "kind": "lila",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена); название первого места неясно (сноска перевода).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.); название первого места неясно (сноска перевода).",
   "themes": [
    "deities",
    "muslims"
@@ -154776,6 +156671,65 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L2970-L2976",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L2970-L2976"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0273",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 705–728",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "P15",
+  "order": 37,
+  "title": "Вирачандра у падишаха Гауды: кушанье превращается в цветы; камень — Шьямасундара Кхардахи, Нанда-дулал и Валлабхаджи",
+  "summary": "Вирачандра приходит к падишаху Гауды; на предложение поесть просит принести их кушанье — трижды под тканью оказываются цветы; в дар он берёт камень с ворот; из него изваяно Божество Шьямасундары, абхишеку совершает Ачьютананда; из остатка — Нанда-дулал (Свамибан) и Валлабхаджи (Валлабхапур); подробности автор отсылает к своей «Вирачандра-чарите».",
+  "persons": [
+   "@virabhadra",
+   "@achyutananda",
+   "@shyamasundara-khardaha"
+  ],
+  "places": [
+   "#gauda",
+   "#kharadaha"
+  ],
+  "kind": "miracle",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Известно по 24-й виласе (поздняя вставка, во многом совпадает с «Адвайта-пракашей»), категория C. «Вирачандра-чарита» вне этой виласы не известна.",
+  "themes": [
+   "deities",
+   "muslims"
+  ],
+  "event": "ev-virachandra-shyamasundara",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "705",
+    "to": "728"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "705",
+    "to": "728",
+    "line": 2136,
+    "line_to": 2205,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2136-L2205",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2136-L2205"
    }
   ],
   "years": [
@@ -175968,6 +177922,52 @@
   "attestation": 1
  },
  {
+  "id": "jvn-0001",
+  "source": "jagannatha-vallabha",
+  "ref": "Акт 1, пролог, ст. 10–18 и проза между ними",
+  "file": "jagannatha-vallabha/ru/01.md",
+  "period": "PX",
+  "order": 0,
+  "title": "Пролог: по повелению Гаджапати Пратапарудры ставится драма Рамананды Рая",
+  "summary": "Сутрадхара рассказывает, что царь Пратапарудра (прославлен в стихах 10–12 как гроза соседних султанов, щедрый даритель и устроитель жертв) велел поставить новое сочинение о стопах Шри Хари; выбрана «Шри Джаганнатха-валлабха», сочинённая и поднесённая царю Раманандой Раем, сыном Бхавананды Рая; поэт смиренно говорит, что его труд — прославление стоп Врага Мадху.",
+  "persons": [
+   "@prataparudra",
+   "@ramananda-raya",
+   "@bhavananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "parallels": "",
+  "notes": "Рамка драмы, не лила Махапрабху: о Чайтанье в тексте драмы ничего нет. Все 21 песня кончаются посвящением Гаджапати (Пратапа)рудре. Место постановки не названо; драма, по ЧЧ Антья 5.13–24, исполнялась перед Джаганнатхой в Пури — отсюда #puri. ЧЧ Мадхья 2.17, 2.77; Антья 20.67 — Махапрабху читал стихи и слушал песни «драмы Рая».",
+  "themes": [
+   "author",
+   "jagannatha"
+  ],
+  "cc": "Мадхья 2.17, 2.77; Антья 5.13–24; Антья 20.67",
+  "verses": [
+   {
+    "file": "jagannatha-vallabha/ru/01.md",
+    "from_text": "**Сутрадхара.** Милая, слушай. Ныне",
+    "to_text": "Итак, пусть музыкантам велят взять в руки вины."
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jagannatha-vallabha/ru/01.md",
+    "from": "**Сутрадхара.** Милая, слушай. Ныне",
+    "to": "Итак, пусть музыкантам велят взять в руки вины.",
+    "line": 38,
+    "line_to": 60,
+    "count": null,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jagannatha-vallabha/ru/01.md?plain=1#L38-L60"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0001",
   "source": "jayananda-cm",
   "ref": "Ади-кханда: начальные поклонения (описания рукописей; цитаты)",
@@ -184570,7 +186570,7 @@
   "kind": "author",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена).",
+  "notes": "Указатель; подробно — в. 24 (pvl-0240 и сл.).",
   "themes": [
    "author"
   ],
@@ -184612,7 +186612,7 @@
   "kind": "author",
   "authority": "D",
   "parallels": "",
-  "notes": "Только в указателе (24-я виласа не переведена): родословный и сословный раздел, к лилам Господа отношения не имеет.",
+  "notes": "Указатель; подробно — в. 24 (pvl-0275…0280): родословный и сословный раздел, к лилам Господа отношения не имеет.",
   "themes": [
    "author"
   ],
@@ -184634,6 +186634,241 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L3036-L3183",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L3036-L3183"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0275",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 737–821",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 22.95,
+  "title": "Девивара Гхатак: обида Йогешвары, благословение Деви, «пороки» кулинов, шлока о Йогешваре; проклятие Шобхакары и посвящение у Вирабхадры",
+  "summary": "Сын вамшаджи Сарвананды Видьядхара, оскорблённый двоюродным братом-кулином Йогешварой, получает от Деви благословение и, став Девиварой, распределяет кулинов по «порокам» (дхадха, надха, мулукджури, вирабхадри); игрой слов в шлоке сохраняет Йогешваре кул; его гуру Шобхакара проклинает его бездетностью; Девивара принимает посвящение у Вирабхадры.",
+  "persons": [
+   "@devivara-ghataka",
+   "@yogeshvara-mukhuti",
+   "@virabhadra",
+   "@nityananda",
+   "@hadai-pandita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники (явная поздняя вставка), категория D; к лилам Господа отношения не имеет. Девивара (по традиционной датировке — конец XV в.) — ученик Вирабхадры: хронологически сомнительно.",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "737",
+    "to": "821"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "737",
+    "to": "821",
+    "line": 2232,
+    "line_to": 2483,
+    "count": 85,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2232-L2483",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2232-L2483"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0276",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 822–857",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 22.96,
+  "title": "Родословия Нитьянанды и Адвайты (от Нараяны Бхатты и Гаутамы); Нарасимха Надиял",
+  "summary": "Род Нитьянанды из готры Шандильи от Нараяны Бхатты до Хадаи Ойхи и Вирабхадры; род Адвайты из готры Бхарадваджи от Гаутамы через Нарасимху Надияла, министра раджи Ганеши, до Куверы и шести сыновей Адвайты.",
+  "persons": [
+   "@nityananda",
+   "@hadai-pandita",
+   "@virabhadra",
+   "@advaita",
+   "@kubera-acharya",
+   "@narasimha-nadiyal",
+   "@raja-ganesha"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники, категория D. По Маджумдару, такое родословие Адвайты несовместимо с датой его рождения (1434).",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "822",
+    "to": "857"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "822",
+    "to": "857",
+    "line": 2486,
+    "line_to": 2591,
+    "count": 36,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2486-L2591",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2486-L2591"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0277",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 858–901",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 22.97,
+  "title": "Родословие Гададхары Пандита: от Сушены через Удаяну Бхадури до Виласы Ачарьи; Мадхава Мишра и Пундарика; рождение Гададхары; Наяна Мишра",
+  "summary": "Род Гададхары из готры Кашьяпы — от Сушены через Крату Бхадури и Удаяну до Виласы Ачарьи, придворного пандита раджи Читтагонга Читрасены; его сын Мадхава Мишра, друг Пундарики Видьянидхи, переселяется в Надию; Гададхара рождается в новолуние вайшакхи; Наяна Мишра получает от него Гопинатху и после его ухода уходит в Бхаратпур.",
+  "persons": [
+   "@madhava-mishra",
+   "@pundarika-vidyanidhi",
+   "@madhavendra-puri",
+   "@gadadhara-pandita",
+   "@nayanananda-mishra",
+   "@udayana-bhaduri"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники, категория D; ср. в. 22. Логик Удаяна смешан с кулинским Удаяной.",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "858",
+    "to": "901"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "858",
+    "to": "901",
+    "line": 2594,
+    "line_to": 2723,
+    "count": 44,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2594-L2723",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2594-L2723"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0278",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 902–1105",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 22.98,
+  "title": "Рархи и варендры: Адишура и пятеро брахманов из Каннауджа; их потомство; разделения и кулинство Баллалы",
+  "summary": "Бездетный раджа-амбаштха Адишура приглашает из Каннауджа пятерых брахманов (Кшитишу, Витарагу, Судханидхи, Медхатитхи, Саубхари) с пятью слугами-каястхами; оживлённое сухое дерево, путрешти (шака 954); отлучённые сородичами, они селятся в Гауде; 56 сыновей; рархи, варендры и сапташати; пандиты Баллалы, «Кула-сагара» Дхараи; испытание Баллалы — кулины, шуддха- и кашта-шротрии.",
+  "persons": [
+   "@adishura",
+   "@ballala-sena"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники, категория D; к лилам Господа отношения не имеет.",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "902",
+    "to": "1105"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "902",
+    "to": "1105",
+    "line": 2726,
+    "line_to": 3335,
+    "count": 204,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L2726-L3335",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L2726-L3335"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0279",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 1106–1422",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 22.99,
+  "title": "Гайны и родословия кулинов и шротриев рархи и варендров; Удаяна Бхадури и Девивара; разногласия гхатаков",
+  "summary": "Спор рархи и варендров о первенстве; восемь кулинских гайнов у каждых; родословия кулинских родов с мнениями «разных гхатаков»; сиддха-, садхья- и кашта-шротрии; автор признаёт, что кулачарьи не согласны между собой.",
+  "persons": [
+   "@udayana-bhaduri",
+   "@devivara-ghataka",
+   "@ballala-sena",
+   "@kamsanarayana",
+   "@advaita"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники, категория D.",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1106",
+    "to": "1422"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1106",
+    "to": "1422",
+    "line": 3338,
+    "line_to": 4288,
+    "count": 317,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L3338-L4288",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L3338-L4288"
    }
   ],
   "attestation": 1
@@ -184773,6 +187008,127 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/25.md?plain=1#L3186-L3225",
     "file_en": "prema-vilasa/en/25.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/25.md?plain=1#L3186-L3225"
+   }
+  ],
+  "age": [
+   115,
+   115
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0280",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 1423–1990",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 23.0,
+  "title": "Вамшаджи и капы; Удаяна и его сыновья; Нарасимха Надиял и Мадху Майтра; Камсанараяна; мелы, пати, париварта и карана",
+  "summary": "Происхождение вамшаджей у рархи и капов у варендров; Удаяна отвергает сыновей старшей жены — первые капы; Бхадада — «заполняющие ряд»; Нарасимха Надиял на средства раджи Ганеши выдаёт дочерей за Мадху Майтру; Дхеи Багчи; раджа Тахирпура Камсанараяна возвышает капов; 36 мел рархи и 8 пати варендров; правила париварты, караны, кушамая-караны и «пороков»; завершение раздела: Нитьянанда — рархи, Адвайта и Гададхара — варендры, раздел написан по повелению Тхакурани.",
+  "persons": [
+   "@udayana-bhaduri",
+   "@narasimha-nadiyal",
+   "@raja-ganesha",
+   "@madhu-maitra",
+   "@dheyi-bagchi",
+   "@kamsanarayana",
+   "@devivara-ghataka",
+   "@jahnava",
+   "@nityananda",
+   "@advaita",
+   "@gadadhara-pandita",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Кулинские хроники, категория D. Анахронизмы: Камсанараяна (XVI в.) — современник явления Махапрабху; Нарасимха Надиял — современник Шукадевы и Камсанараяны.",
+  "themes": [
+   "author",
+   "family"
+  ],
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1423",
+    "to": "1990"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1423",
+    "to": "1990",
+    "line": 4291,
+    "line_to": 5988,
+    "count": 568,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L4291-L5988",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L4291-L5988"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "pvl-0281",
+  "source": "prema-vilasa",
+  "ref": "Виласа 24, 1991–2023 и колофон",
+  "file": "prema-vilasa/ru/24.md",
+  "period": "PX",
+  "order": 23.05,
+  "title": "Заключение 24-й виласы: даты ЧБ (1495 Шака) и ЧЧ (1503 Шака); «Према-виласа» завершена в пхалгуну 1522 Шака; где написаны виласы; молитва автора",
+  "summary": "Автор называет годы создания «Чайтанья-бхагаваты» (1495 Шака) и «Чайтанья-чаритамриты» (1503 Шака, с шлокой о завершении) и дату завершения своей книги — пхалгуна, кришна-трайодаши, 1522 Шака; виласы 1–18 написаны в Кханде, 19–20 в Кхардахе, 21–24 в Катоа; письма помещены в «Полувиласу»; книга поднесена Вирачандре; автор просит простить повторы старческой памяти и молит о милости Чайтаньи, Нитьянанды, Адвайты, спутников, Шринивасы, Нароттамы, Шьямананды, Джахнавы и Вирачандры.",
+  "persons": [
+   "@nityananda-dasa-author",
+   "@vrindavana-dasa",
+   "@krishnadasa-kaviraja",
+   "@jahnava",
+   "@virabhadra",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita",
+   "@srinivasa-acharya",
+   "@narottama-dasa",
+   "@shyamananda"
+  ],
+  "places": [
+   "#shrikhanda",
+   "#kharadaha",
+   "#katwa"
+  ],
+  "kind": "author",
+  "authority": "D",
+  "parallels": "",
+  "notes": "Только в 24-й виласе (поздняя вставка), категория D. Шлоки о завершении ЧЧ в 1503 Шака (1581) нет в принятом тексте ЧЧ; Маджумдар отвергает эту дату (ЧЧ упоминает «Гопала-чампу», 1592); традиция Гаудия-матха принимает 1537 Шака (1615). Дата завершения «Према-виласы» 1522 Шака (1601) противоречит другим её сведениям (Маджумдар).",
+  "themes": [
+   "author"
+  ],
+  "calendar": "пхалгуна, кришна-трайодаши",
+  "years": [
+   1601,
+   1601
+  ],
+  "date_conf": "оценка",
+  "date_basis": "«Према-виласа» 24, 1996–1997: 1522 Шака, пхалгуна (≈ февраль–март 1601)",
+  "verses": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1991",
+    "to": "2023"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "prema-vilasa/ru/24.md",
+    "from": "1991",
+    "to": "2023",
+    "line": 5991,
+    "line_to": 6087,
+    "count": 33,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/ru/24.md?plain=1#L5991-L6087",
+    "file_en": "prema-vilasa/en/24.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/prema-vilasa/en/24.md?plain=1#L5991-L6087"
    }
   ],
   "age": [
