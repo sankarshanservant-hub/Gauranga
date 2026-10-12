@@ -1254,185 +1254,231 @@ the two  books  taking  He came back  excellent  knowing them
 ভক্তগণে মেলিয়া স্নানযাত্রা দেখিল ॥ ১২১ ॥
 
 punarapi nīlācale gamana karila  
-bhakta-gaṇe meliyā snāna-yātrā dekhila
+once again  to Nīlācala  journey  He made  
+bhakta-gaṇe meliyā snāna-yātrā dekhila  
+the devotees  meeting  the Snāna-yātrā  He saw
 
-(121) [not yet translated]
+(121) Once again He went back to Nīlācala; meeting the devotees, He saw the Snāna-yātrā (the bathing festival).
 
 অনবসরে জগন্নাথ না পাঞা দরশন ৷  
 বিরহে আলালনাথ করিলা গমন ॥ ১২২ ॥
 
 anavasare jagannātha nā pāñā daraśana  
-virahe ālālanātha karilā gamana
+during anavasara  of Jagannātha  not  obtaining  darśana  
+virahe ālālanātha karilā gamana  
+in separation  to Ālālanātha  He made  departure
 
-(122) [not yet translated]
+(122) During *anavasara*, unable to see Jagannātha, He went to Ālālanātha in the pain of separation.
 
 ভক্তসঙ্গে দিন কত তাহাঞি রহিল ৷  
 গৌড়ের ভক্ত আইসে, সমাচার পাইল ॥ ১২৩ ॥
 
 bhakta-saṅge dina kata tāhāñi rahila  
-gauḍera bhakta āise, samācāra pāila
+with the devotees  days  a few  there  He stayed  
+gauḍera bhakta āise, samācāra pāila  
+of Gauḍa  the devotees  are coming  the news  He received
 
-(123) [not yet translated]
+(123) He stayed there a few days with the devotees, and then received news that the devotees of Gauḍa were coming.
 
 নিত্যানন্দ-সার্ব্বভৌম আগ্রহ করিঞা ৷  
 নীলাচলে আইলা মহাপ্রভুকে লইঞা ॥ ১২৪ ॥
 
 nityānanda-sārvabhauma āgraha kariñā  
-nīlācale āilā mahāprabhuke laiñā
+Nityānanda and Sārvabhauma  insistence  making  
+nīlācale āilā mahāprabhuke laiñā  
+to Nīlācala  came  Mahāprabhu  bringing
 
-(124) [not yet translated]
+(124) Nityānanda and Sārvabhauma pressed Him and brought Mahāprabhu back to Nīlācala.
 
 বিরহে বিহ্বল প্রভু গোঙায় রাত্রি দিনে ৷  
 হেনকালে আইলা গৌড়ের ভক্তগণে ॥ ১২৫ ॥
 
 virahe vihvala prabhu goṅāya rātri-dine  
-hena-kāle āilā gauḍera bhakta-gaṇe
+in separation  overwhelmed  the Lord  passes  nights and days  
+hena-kāle āilā gauḍera bhakta-gaṇe  
+at that time  came  of Gauḍa  the devotees
 
-(125) [not yet translated]
+(125) The Lord passed His nights and days overwhelmed by separation. At that time the devotees of Gauḍa arrived.
 
 সবে মিলি’ যুক্তি করি’ কীর্ত্তন আরম্ভিল ৷  
 কীর্ত্তন-আবেশে প্রভুর মন স্থির হৈল ॥ ১২৬ ॥
 
 sabe mili’ yukti kari’ kīrtana ārambhila  
-kīrtana-āveśe prabhura mana sthira haila
+all  gathering  counsel  taking  kīrtana  began  
+kīrtana-āveśe prabhura mana sthira haila  
+in the absorption of kīrtana  the Lord’s  mind  steady  became
 
-(126) [not yet translated]
+(126) They all gathered, took counsel and began *kīrtana*; absorbed in the kīrtana, the Lord’s mind grew calm.
 
 পূর্ব্বে যবে প্রভু রামানন্দেরে মিলিলা ৷  
 নীলাচলে আসিবারে তাঁরে আজ্ঞা দিলা ॥ ১২৭ ॥
 
 pūrve yabe prabhu rāmānandere mililā  
-nīlācale āsibāre tāṅre ājñā dilā
+earlier  when  the Lord  Rāmānanda  met  
+nīlācale āsibāre tāṅre ājñā dilā  
+to Nīlācala  to come  to him  the order  He gave
 
-(127) [not yet translated]
+(127) Earlier, when the Lord met Rāmānanda, He had ordered him to come to Nīlācala.
 
 রাজ-আজ্ঞা লঞা তিঁহো আইলা কত দিনে ৷  
 রাত্রি-দিনে কৃষ্ণকথা রামানন্দসনে ॥ ১২৮ ॥
 
 rāja-ājñā lañā tiṅho āilā kata dine  
-rātri-dine kṛṣṇa-kathā rāmānanda-sane
+the king’s  permission  taking  he  came  some days later  
+rātri-dine kṛṣṇa-kathā rāmānanda-sane  
+night and day  talks about Kṛṣṇa  with Rāmānanda
 
-(128) [not yet translated]
+(128) Taking the king’s permission, he came some days later, and night and day the Lord talked about Kṛṣṇa with Rāmānanda.
 
 কাশীমিশ্রে কৃপা, প্রদ্যুম্ন মিশ্রাদি-মিলন ৷  
 পরমানন্দপুরী-গোবিন্দ-কাশীশ্বরাগমন ॥ ১২৯ ॥
 
 kāśī-miśre kṛpā, pradyumna miśrādi-milana  
-paramānanda-purī-govinda-kāśīśvarāgamana
+to Kāśī Miśra  mercy  Pradyumna  Miśra and others meeting  
+paramānanda-purī-govinda-kāśīśvarāgamana  
+the arrival of Paramānanda Purī, Govinda and Kāśīśvara
 
-(129) [not yet translated]
+(129) He showed mercy to Kāśī Miśra and met Pradyumna Miśra and others; Paramānanda Purī, Govinda and Kāśīśvara arrived.
 
 দামোদরস্বরূপ-মিলনে পরম আনন্দ ৷  
 শিখিমাহিতি-মিলন, রায় ভবানন্দ ॥ ১৩০ ॥
 
 dāmodara-svarūpa-milane parama ānanda  
-śikhi-māhiti-milana, rāya bhavānanda
+in meeting Dāmodara Svarūpa  supreme  joy  
+śikhi-māhiti-milana, rāya bhavānanda  
+the meeting with Śikhi Māhiti  Rāya  Bhavānanda
 
-(130) [not yet translated]
+(130) Meeting Svarūpa Dāmodara brought Him supreme joy; He also met Śikhi Māhiti and Bhavānanda Rāya.
 
 গৌড় হৈতে সর্ব্ব বৈষ্ণবের আগমন ৷  
 কুলীনগ্রামবাসী-সঙ্গে প্রথম মিলন ॥ ১৩১ ॥
 
 gauḍa haite sarva vaiṣṇavera āgamana  
-kulīna-grāma-vāsī-saṅge prathama milana
+Gauḍa  from  of all  the Vaiṣṇavas  the arrival  
+kulīna-grāma-vāsī-saṅge prathama milana  
+with the residents of Kulīna-grāma  the first  meeting
 
-(131) [not yet translated]
+(131) All the Vaiṣṇavas came from Gauḍa, and there was the first meeting with the residents of Kulīna-grāma.
 
 নরহরি দাস আদি যত খণ্ডবাসী ৷  
 শিবানন্দসেন-সঙ্গে মিলিলা সবে আসি’ ॥ ১৩২ ॥
 
 narahari dāsa ādi yata khaṇḍa-vāsī  
-śivānanda-sena-saṅge mililā sabe āsi’
+Narahari  Dāsa  headed by  all  the residents of Khaṇḍa  
+śivānanda-sena-saṅge mililā sabe āsi’  
+with Śivānanda Sena  met (the Lord)  all  coming
 
-(132) [not yet translated]
+(132) All the residents of Khaṇḍa, headed by Narahari Dāsa, came with Śivānanda Sena and met the Lord.
 
 স্নানযাত্রা দেখি’ প্রভু সঙ্গে ভক্তগণ ৷  
 সবা লঞা কৈলা প্রভু গুণ্ডিচা মার্জ্জন ॥ ১৩৩ ॥
 
 snāna-yātrā dekhi’ prabhu saṅge bhakta-gaṇa  
-sabā lañā kailā prabhu guṇḍicā mārjana
+the Snāna-yātrā  having seen  the Lord  with  the devotees  
+sabā lañā kailā prabhu guṇḍicā mārjana  
+all  taking  made  the Lord  of the Guṇḍicā  cleansing
 
-(133) [not yet translated]
+(133) After seeing the Snāna-yātrā with the devotees, the Lord took them all and cleansed the Guṇḍicā temple.
 
 সবা-সঙ্গে রথযাত্রা কৈল দরশন ৷  
 রথ-অগ্রে নৃত্য করি’ উদ্যানে গমন ॥ ১৩৪ ॥
 
 sabā-saṅge ratha-yātrā kaila daraśana  
-ratha-agre nṛtya kari’ udyāne gamana
+with everyone  of the Ratha-yātrā  He made  the sight  
+ratha-agre nṛtya kari’ udyāne gamana  
+before the chariot  dance  having performed  to the garden  going
 
-(134) [not yet translated]
+(134) With everyone He saw the Ratha-yātrā; He danced before the chariot and then went to a garden.
 
 প্রতাপরুদ্রেরে কৃপা কৈল সেই স্থানে ৷  
 গৌড়ভক্তে আজ্ঞা দিল বিদায়ের দিনে ॥ ১৩৫ ॥
 
 pratāparudrere kṛpā kaila sei sthāne  
-gauḍa-bhakte ājñā dila vidāyera dine
+to Pratāparudra  mercy  He showed  in that  place  
+gauḍa-bhakte ājñā dila vidāyera dine  
+to the devotees of Gauḍa  an order  He gave  of farewell  on the day
 
-(135) [not yet translated]
+(135) In that place He showed mercy to Pratāparudra. On the day of farewell He gave the devotees of Gauḍa an order:
 
 প্রত্যব্দ আসিবে রথযাত্রা-দরশনে ৷  
 এই ছলে চাহে ভক্তগণের মিলনে ॥ ১৩৬ ॥
 
 pratyabda āsibe ratha-yātrā-daraśane  
-ei chale cāhe bhakta-gaṇera milane
+every year  come  to see the Ratha-yātrā  
+ei chale cāhe bhakta-gaṇera milane  
+on this  pretext  He wants  with the devotees  meeting
 
-(136) [not yet translated]
+(136) “Come every year to see the Ratha-yātrā.” On this pretext He wished to meet His devotees.
 
 সার্ব্বভৌম-ঘরে প্রভুর ভিক্ষা-পরিপাটী ৷  
 ষাঠীর মাতা কহে, যাতে রাণ্ডী হউক্ ষাঠী ॥ ১৩৭ ॥
 
 sārvabhauma-ghare prabhura bhikṣā-paripāṭī  
-ṣāṭhīra mātā kahe, yāte rāṇḍī hauka ṣāṭhī
+in Sārvabhauma’s house  the Lord’s  meal  the splendid arrangement  
+ṣāṭhīra mātā kahe, yāte rāṇḍī hauka ṣāṭhī  
+Ṣāṭhī’s  mother  says  because of which  a widow  let her become  Ṣāṭhī
 
-(137) [not yet translated]
+(137) Then there was the splendid meal for the Lord at Sārvabhauma’s house, because of which Ṣāṭhī’s mother said, “Let Ṣāṭhī become a widow!”
 
 বর্ষান্তরে অদ্বৈতাদি ভক্তের আগমন ৷  
 প্রভুরে দেখিতে সবে করিলা গমন ॥ ১৩৮ ॥
 
 varṣāntare advaitādi bhaktera āgamana  
-prabhure dekhite sabe karilā gamana
+the next year  headed by Advaita  of the devotees  the arrival  
+prabhure dekhite sabe karilā gamana  
+the Lord  to see  all  made  journey
 
-(138) [not yet translated]
+(138) The next year the devotees headed by Advaita came again: they all set out to see the Lord.
 
 আনন্দে সবারে নিয়া দেন বাস-স্থান ৷  
 শিবানন্দ সেন করে সবার পালন ॥ ১৩৯ ॥
 
 ānande sabāre niyā dena vāsa-sthāna  
-śivānanda sena kare sabāra pālana
+joyfully  all  taking along  he gives  lodging  
+śivānanda sena kare sabāra pālana  
+Śivānanda  Sena  makes  of all  the care
 
-(139) [not yet translated]
+(139) Joyfully he led them all and gave them lodging — Śivānanda Sena looked after everyone.
 
 শিবানন্দের সঙ্গে আইলা কুক্কুর ভাগ্যবান্ ৷  
 প্রভুর চরণ দেখি’ কৈল অন্তর্দ্ধান ॥ ১৪০ ॥
 
 śivānandera saṅge āilā kukkura bhāgyavān  
-prabhura caraṇa dekhi’ kaila antardhāna
+with Śivānanda  together  came  a dog  fortunate  
+prabhura caraṇa dekhi’ kaila antardhāna  
+the Lord’s  feet  having seen  it made  disappearance
 
-(140) [not yet translated]
+(140) A fortunate dog came with Śivānanda; having seen the Lord’s feet, it vanished from this world.
 
 পথে সার্ব্বভৌম সহ সবার মিলন ৷  
 সার্ব্বভৌম ভট্টাচার্য্যের কাশীতে গমন ॥ ১৪১ ॥
 
 pathe sārvabhauma saha sabāra milana  
-sārvabhauma bhaṭṭācāryera kāśīte gamana
+on the way  Sārvabhauma  with  of all  the meeting  
+sārvabhauma bhaṭṭācāryera kāśīte gamana  
+Sārvabhauma  Bhaṭṭācārya’s  to Kāśī  departure
 
-(141) [not yet translated]
+(141) On the way they all met Sārvabhauma, and Sārvabhauma Bhaṭṭācārya went on to Kāśī.
 
 প্রভুরে মিলিলা সর্ব্ব বৈষ্ণব আসিয়া ৷  
 জলক্রীড়া কৈল প্রভু সবারে লইয়া ॥ ১৪২ ॥
 
 prabhure mililā sarva vaiṣṇava āsiyā  
-jala-krīḍā kaila prabhu sabāre laiyā
+the Lord  met  all  the Vaiṣṇavas  coming  
+jala-krīḍā kaila prabhu sabāre laiyā  
+water sports  made  the Lord  all  taking along
 
-(142) [not yet translated]
+(142) All the Vaiṣṇavas came and met the Lord, and the Lord sported in the water with them all.
 
 সবা লঞা কৈল গুণ্ডিচা-গৃহ-সংমার্জ্জন ৷  
 রথযাত্রা-দরশনে প্রভুর নর্ত্তন ॥ ১৪৩ ॥
 
 sabā lañā kaila guṇḍicā-gṛha-saṁmārjana  
-ratha-yātrā-daraśane prabhura nartana
+all  taking  He made  of the Guṇḍicā temple  cleansing  
+ratha-yātrā-daraśane prabhura nartana  
+of the Ratha-yātrā  at the sight  the Lord’s  dancing
 
-(143) [not yet translated]
+(143) Taking everyone, He cleansed the Guṇḍicā temple, and at the Ratha-yātrā the Lord danced.
 
 উপবনে কৈল প্রভু বিবিধ বিলাস ৷  
 প্রভুর অভিষেক কৈল বিপ্র কৃষ্ণদাস ॥ ১৪৪ ॥
