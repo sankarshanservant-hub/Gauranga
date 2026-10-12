@@ -118,7 +118,7 @@ There is no old Sanskrit commentary (*ṭīkā*) in the edition.
 
 > **11.** Is it the play of self-multiplication of the Lord's mountain, a double of the nectar-rayed moon, the extract of the Snow Mountain, a twin of the Milk Ocean, the essence of an autumn cloud? — The mass of his fame, sharing sovereignty with the waters of the heavenly river, ceaselessly purifies the world.
 
-> **12.** Rejoicing at the embrace of the rivers formed by the streams of water poured with his gifts,[^01-9] the ocean praises him under the pretext of the roar of its rolling, towering waves; and by the sacrifices he constantly performs the minds of the gods are so stitched to him that, in the guise of images, they never leave his courtyard.
+> **12.** Rejoicing at the embrace of the rivers formed by the streams of water poured with his gifts,[^01-9] the ocean praises him under the pretext of the roar of its rolling, towering waves; and by the sacrifices he constantly performs the minds of the gods are so stitched to him that, in the form of sacred images (pratimā), they never leave his courtyard.
 
 By him — the Rudra of the fire of world's end to the hosts of hostile kings — by the illustrious Prataparudra I have been commanded to stage some composition concerning the feet of Sri Hari. As it was said:
 
@@ -259,7 +259,7 @@ Friend, how very sweet is the cooing of the cuckoos!
 
 [^01-9]: "Waters of his gifts": by rite a gift is accompanied by a libation of water.
 
-[^01-10]: Bhavananda Raya was Ramananda's father; in CC Madhya 10 Mahaprabhu receives him and his sons in Puri. The Sanskrit is partly corrupt here (printed "…*mantrā ṛvīkṛta*…") and is rendered by the sense.
+[^01-10]: Bhavananda Raya was Ramananda's father; in CC Madhya 10 Mahaprabhu receives him and his sons in Puri. The Sanskrit is partly corrupt here (printed "…*mantrā ṛvīkṛta*…") and is rendered by the sense. The compound also admits another reading, in which Bhavananda himself is called "lord of the earth" (*pṛthvīśvara*), that is, a ruler.
 
 [^01-11]: The verse is printed without a number and belongs to passage 19. The bee wearied with the honey of all the lotuses is a veiled image of Krishna wearied by His play with the gopis; so the stage-director understands it in his next speech.
 
