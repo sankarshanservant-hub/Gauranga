@@ -20,21 +20,21 @@ See Madhya 8.11 and 8.14–20.
 
 > Subheading: Darśana of Tirumalaya and Tirupati —
 
-Trimalla (Tirumalaya) is in the Tanjore district (Madhya 9.71). Tripadī (Tirupati, Padi, or Tiruppattur, in North Arcot) lies in the valley of Veṅkaṭācala; there stands the temple of Śrī Rāmacandra. On top of that same Veṅkaṭācala is the famous temple of Śrī Bālājī (Madhya 9.64).
+**Trimalla** (Tirumalaya) is in the Tanjore district (Madhya 9.71). **Tripadī** (Tirupati, Padi, or Tiruppattur, in North Arcot) lies in the valley of Veṅkaṭācala; there stands the temple of Śrī Rāmacandra. On top of that same Veṅkaṭācala is the famous temple of Śrī Bālājī (Madhya 9.64).
 
 ## 106
 
 > Subheading: Deliverance of the atheists and Buddhists, and darśana of Nṛsiṁha at Ahobala —
 
-The defeat of the atheists (*pāṣaṇḍīs*): Madhya 9.42–62.
+**The defeat of the atheists** (*pāṣaṇḍīs*): Madhya 9.42–62.
 
-Ahobala (also called “Ahobilam”) is a temple in South India, in the Sarvel taluk of the Kurnool district. In the whole district this temple of Nṛsiṁhadeva is the famous one. Nine neighboring temples, with nine Viṣṇu deities, together with it are called the “Nava-nṛsiṁha-mandira” (“nine temples of Nṛsiṁha”). The main temple is built on sixty-four pillars, and each of these pillars is in turn carved with small pillars. In front of the temple stands an unfinished but most wonderful *maṇḍapa*; its huge pillars of white stone, three feet in diameter, bear witness to the richness of the architecture (*Kurnool Manual*).
+**Ahobala** (also called “Ahobilam”) is a temple in South India, in the Sarvel taluk of the Kurnool district. In the whole district this temple of Nṛsiṁhadeva is the famous one. Nine neighboring temples, with nine Viṣṇu deities, together with it are called the “Nava-nṛsiṁha-mandira” (“nine temples of Nṛsiṁha”). The main temple is built on sixty-four pillars, and each of these pillars is in turn carved with small pillars. In front of the temple stands an unfinished but most wonderful *maṇḍapa*; its huge pillars of white stone, three feet in diameter, bear witness to the richness of the architecture (*Kurnool Manual*).
 
 ## 107
 
 > Subheading: Darśana of Śrī Raṅganātha —
 
-Śrī Raṅga-kṣetra: see the *Anubhāṣya* on Madhya 9.79.
+**Śrī Raṅga-kṣetra**: see the *Anubhāṣya* on Madhya 9.79.
 
 ## 108
 
@@ -44,61 +44,63 @@ Ahobala (also called “Ahobilam”) is a temple in South India, in the Sarvel t
 
 > Subheading: Tirumalaya Bhaṭṭa, a Vaiṣṇava of the Śrī-sampradāya —
 
-Trimalla Bhaṭṭa. Among the residents of Śrīraṅgam and other places in the Tamil country there is no custom of giving the names “Tirumalaya” or “Veṅkaṭa.” Moreover, Tirumalaya, or Veṅkaṭa Bhaṭṭa, and others like him are *vaḍagalai*, that is, Vaiṣṇavas of the northern region, from the Andhra country, while the residents of Śrīraṅgam are *teṅgalai*, that is, Vaiṣṇavas of the southern region. See the *Amṛta-pravāha-bhāṣya* and the *Anubhāṣya* on Madhya 9.82.
+**Trimalla Bhaṭṭa**. Among the residents of Śrīraṅgam and other places in the Tamil country there is no custom of giving the names “Tirumalaya” or “Veṅkaṭa.” Moreover, Tirumalaya, or Veṅkaṭa Bhaṭṭa, and others like him are *vaḍagalai*, that is, Vaiṣṇavas of the northern region, from the Andhra country, while the residents of Śrīraṅgam are *teṅgalai*, that is, Vaiṣṇavas of the southern region. See the *Amṛta-pravāha-bhāṣya* and the *Anubhāṣya* on Madhya 9.82.
 
 ## 110
 
-The Lord's Cāturmāsya in the house of a Śrī Vaiṣṇava: Madhya 9.84–164.
+**The Lord's Cāturmāsya in the house of a Śrī Vaiṣṇava**: Madhya 9.84–164.
 
 ## 111
 
 > Subheading: Meeting Paramānanda Purī south of Śrī Raṅga —
 
-“There” means on Ṛṣabha Mountain (Madhya 9.167–173 and the *Anubhāṣya* on verse 167).
+**“There”** means on Ṛṣabha Mountain (Madhya 9.167–173 and the *Anubhāṣya* on verse 167).
 
 ## 112
 
 > Subheading: Rescuing His companion Kṛṣṇadāsa, and turning Rāmasevaka to Kṛṣṇa's name —
 
-*Bhaṭṭathāri*: this is the correct word. In the Malabar country live many Nambudri brāhmaṇas, proud of their purity. The Bhaṭṭatharis serve them as priests. Their skill in tantric sacrifices — the rites of “killing” (*māraṇa*), “driving away” (*uccāṭana*), “subjugating” (*vaśīkaraṇa*) and the like — is famous. The Lord's companion, the brāhmaṇa Kṛṣṇadāsa, was fickle and light-minded. He fell into their clutches and forgot the *jīva*'s one and only *dharma*, service to Mahāprabhu, the highest of the highest. Then the Lord, the deliverer of the fallen, seized him by the hair and pulled him out of servitude to *māyā*. In this way He made His name “ocean of causeless mercy” true. Through a scribe's error, the word *bhaṭṭathāri* has become “*bhaṭṭamāri*” in the Bengali manuscripts.
+**Bhaṭṭathāri**: this is the correct word. In the Malabar country live many Nambudri brāhmaṇas, proud of their purity. The Bhaṭṭatharis serve them as priests. Their skill in tantric sacrifices — the rites of “killing” (*māraṇa*), “driving away” (*uccāṭana*), “subjugating” (*vaśīkaraṇa*) and the like — is famous. The Lord's companion, the brāhmaṇa Kṛṣṇadāsa, was fickle and light-minded. He fell into their clutches and forgot the *jīva*'s one and only *dharma*, service to Mahāprabhu, the highest of the highest. Then the Lord, the deliverer of the fallen, seized him by the hair and pulled him out of servitude to *māyā*. In this way He made His name “ocean of causeless mercy” true. Through a scribe's error, the word *bhaṭṭathāri* has become “*bhaṭṭamāri*” in the Bengali manuscripts.
 
 ## 113
 
 > Subheading: Meeting Śrī Raṅgapurī, and consoling the brāhmaṇa Rāmadāsa by telling how Rāvaṇa abducted the illusory Sītā (*māyā-Sītā*) —
 
-The rescue of Kṛṣṇadāsa from the Bhaṭṭatharis: Madhya 9.226–233. Mercy to the brāhmaṇa Rāmasevaka: Madhya 9.180–197 and 201–217.
+**The rescue of Kṛṣṇadāsa from the Bhaṭṭatharis**: Madhya 9.226–233. **Mercy to the brāhmaṇa Rāmasevaka**: Madhya 9.180–197 and 201–217.
 
 ## 114
 
 > Subheading: Debate with the head of the Mādhva monastery, a Tattvavādī —
 
-The destruction of the Tattvavādī's pride: Madhya 9.245–278. The name of this ācārya of the Tattvavāda was Śrī Raghuvaryatīrtha Madhvācārya, head of the Uttara-rāḍhī monastery.
+**The destruction of the Tattvavādī's pride**: Madhya 9.245–278. The name of this ācārya of the Tattvavāda was Śrī Raghuvaryatīrtha Madhvācārya, head of the Uttara-rāḍhī monastery.
 
 ## 115
 
 > Subheading: Darśana of the Viṣṇu deities —
 
-“Ananta-Padmanābha” is a temple of Viṣṇu in the Trivandrum district, famous under that name.
+**“Ananta-Padmanābha”** is a temple of Viṣṇu in the Trivandrum district, famous under that name.
 
-“Śrī Janārdana” is a temple of Viṣṇu in the Trivandrum district, twenty-six miles to the north, near Varkala station.
+**“Śrī Janārdana”** is a temple of Viṣṇu in the Trivandrum district, twenty-six miles to the north, near Varkala station.
 
 ## 116
 
 > Subheading: Liberating the seven palm trees, and bathing at Setubandha-tīrtha at Rāmeśvara —
 
-On the liberation of the seven palms, see the *Anubhāṣya* on Madhya 9.311–315; on Setubandha and Rāmeśvara, the *Anubhāṣya* on Madhya 9.200.
+**The liberation of the seven palms**: see the *Anubhāṣya* on Madhya 9.311–315. **Setubandha and Rāmeśvara**: see the *Anubhāṣya* on Madhya 9.200.
 
 ## 117
 
 > Subheading: The Lord takes the *Kūrma Purāṇa* from the holy place Rāmeśvara and ends the sorrow of the brāhmaṇa Rāmadāsa —
 
-On how the Lord gave the brāhmaṇa Rāmadāsa the leaf of the *Kūrma Purāṇa*, see Madhya 9.201–217.
+## 117–119
+
+**Giving the brāhmaṇa Rāmadāsa the leaf of the *Kūrma Purāṇa***: see Madhya 9.201–217.
 
 ## 120
 
 > Subheading: The two books He brought: the *Brahma-saṁhitā* and the *Karṇāmṛta* —
 
-The *Brahma-saṁhitā*: Madhya 9.237–241 and the *Anubhāṣya*; the *Karṇāmṛta*: Madhya 9.305–309 and 323–325.
+**The *Brahma-saṁhitā***: Madhya 9.237–241 and the *Anubhāṣya*; **the *Karṇāmṛta***: Madhya 9.305–309 and 323–325.
 
 ## 121
 
@@ -108,7 +110,7 @@ The *Brahma-saṁhitā*: Madhya 9.237–241 and the *Anubhāṣya*; the *Karṇ�
 
 > Subheading: Going to Ālālanātha during the *anavasara* and staying there —
 
-Ālālanātha, also called “Brahmagiri.” About fourteen miles from Purī along a sandy road stands the temple. Today there is a police station and a post office here (see the *Amṛta-pravāha-bhāṣya* on Madhya 7.59).
+**Ālālanātha**, also called “Brahmagiri.” About fourteen miles from Purī along a sandy road stands the temple. Today there is a police station and a post office here (see the *Amṛta-pravāha-bhāṣya* on Madhya 7.59).
 
 ## 123
 
@@ -250,9 +252,110 @@ See Madhya, Chapter 15.
 
 > Subheading: The forgiving of the offenses of Devānanda and Gopāla Cāpāla at Kuliyā —
 
-On the deliverance of Gopāla Cāpāla, see Ādi 17.55–59.
+**The deliverance of Gopāla Cāpāla**: see Ādi 17.55–59.
 
 ## 155
 
 > Subheading: Hearing that the Lord would go to Vraja, Nṛsiṁhānanda in meditation decorates the road as far as Kānāi's Nāṭaśālā and paves it with jewels —
 
+## 161
+
+> Subheading: The prophecy of Nṛsiṁhānanda —
+
+## 162
+
+**Kānāi's Nāṭaśālā**. From Calcutta it is 202 miles on the Loop Line of the East Indian Railway; one gets down at “Tinpahāṛ” station, and from there, by the branch line, it lies about six miles from Rājmahal station (two miles from Talajhāṛi).
+
+## 163
+
+> Subheading: The Lord sets out from Kuliyā for Vṛndāvana —
+
+## 164
+
+> Subheading: Countless crowds gather to see the Lord —
+
+## 166
+
+> Subheading: Arrival at Rāmakeli —
+
+## 168
+
+> Subheading: The emperor orders his official not to hinder the Lord from going wherever He wishes —
+
+## 171
+
+> Subheading: The kṣatriya Keśava, wishing the Lord well, calms the emperor —
+
+## 174
+
+> Subheading: Through a spy, the request that the Lord move to another place —
+
+## 175
+
+> Subheading: The emperor asks Śrī Rūpa about the Lord —
+
+## 176
+
+> Subheading: Śrī Rūpa glorifies the Lord's greatness —
+
+## 178
+
+> Subheading: Praise of the emperor —
+
+“For this is a great deity, who stands in human form.” (*Manu-saṁhitā*)[^178-1]
+
+## 180
+
+> Subheading: The emperor realizes that the Lord is Īśvara —
+
+## 182
+
+> Subheading: The counsel of Śrī Rūpa and Sanātana —
+
+## 183
+
+> Subheading: The brothers go to see the Lord and first meet Nityānanda and Haridāsa —
+
+## 184
+
+> Subheading: The Lord learns of their coming —
+
+## 185
+
+> Subheading: Both show their humility —
+
+## 187
+
+> Subheading: The humility and prayers of Śrī Rūpa and Sanātana —
+
+## 189
+
+**Low caste.** The brothers were born in a pure family of Karṇāṭa brāhmaṇas; such words are spoken out of humility. Birth is of three kinds: by seed (*śaukra*), by Sāvitrī (*sāvitrya*) and by initiation (*daikṣya*). One's occupation (*vṛtta*), or nature, becomes low in the company of low people. “I am a *mleccha* by caste, I serve *mlecchas*, I do the deeds of *mlecchas*; my company is with the enemies of cows and brāhmaṇas”[^189-2] — this is said in accord with the instruction of the Seventh Canto of the *Bhāgavata*: “The characteristics stated as indicating a man's *varṇa* — if they are seen in another man as well, he should be classified by those very characteristics.”[^189-1] The words about low caste are spoken because they served as servants of a *yavana* (a Muslim). And because, deprived of the occupations of a brāhmaṇa, they took up the low occupation of a śūdra, they are counted as belonging to that same class. In the *Bhakti-ratnākara*, in the first *taraṅga*, it is said: “Always keeping company with the low-born, he behaved in a low way. For this reason it is said of him that he is of low birth, and so on.”
+
+## 190
+
+**he puruṣottama** (O Puruṣottama, best of persons)! **mat-tulyaḥ** (like me) **kaścit** **pāpātmā** (sinner) **nāsti** (there is none), **kaścana** **aparādhī** (offender) **na** (**nāsti** — there is none); **parihāre** (in the matter of begging forgiveness for an offense) **api** **me** (**mama** — I have) **lajjā** (shame, a shy constraint), (**ataḥ ahaṁ** — therefore I) **kiṁ** **bruve** (what shall I say? — that is, I do not even have an occasion to pray).
+
+## 192
+
+> Subheading: Jagāi and Mādhāi are regarded as comparatively less sinful —
+
+## 194
+
+> Subheading: By *nāmābhāsa* alone their sins are burned and they are delivered —
+
+## 195
+
+Blaspheming a *sādhu* is an offense. An offense born of blaspheming Viṣṇu is destroyed by taking the Name.
+
+## 196
+
+> Subheading: The words that they are lower even than Jagāi and Mādhāi —
+
+---
+
+[^178-1]: *Manu-saṁhitā* 7.8. (The edition gives no number.)
+
+[^189-1]: *Śrīmad-Bhāgavatam* 7.11.35.
+
+[^189-2]: In the verse itself (CC Madhya 1.197) the reading is *mleccha-saṅgī*, “keeping company with *mlecchas*”; the edition quotes *mleccha-sevī*, “serving *mlecchas*.”
