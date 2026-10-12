@@ -330,217 +330,271 @@ the wretched  the lowly  the blasphemers  all  He delivered
 প্রভু-আজ্ঞায় দুই ভাই আইলা বৃন্দাবন ॥ ৩১ ॥
 
 tabe prabhu vraje pāṭhāila rūpa-sanātana  
-prabhu-ājñāya dui bhāi āilā vṛndāvana
+then  the Lord  to Vraja  sent  Rūpa and Sanātana  
+prabhu-ājñāya dui bhāi āilā vṛndāvana  
+by the Lord’s order  the two  brothers  came  to Vṛndāvana
 
-(31) [not yet translated]
+(31) Then the Lord sent Rūpa and Sanātana to Vraja, and by His order the two brothers came to Vṛndāvana.
 
 ভক্তি প্রচারিয়ে সর্ব্বতীর্থ প্রকাশিল ৷  
 মদনগোপাল-গোবিন্দের সেবা প্রচারিল ॥ ৩২ ॥
 
 bhakti pracāriye sarva-tīrtha prakāśila  
-madana-gopāla-govindera sevā pracārila
+devotion  preaching  all the holy places  they revealed  
+madana-gopāla-govindera sevā pracārila  
+of Madana-gopāla  and Govinda  the service  they spread
 
-(32) [not yet translated]
+(32) Preaching devotion, they revealed all the holy places and spread the service of Madana-gopāla and Govinda.
 
 নানা শাস্ত্র আনি’ কৈল ভক্তিগ্রন্থ সার ৷  
 মূঢ় অধম জনেরে তিঁহো করিলা নিস্তার ॥ ৩৩ ॥
 
 nānā śāstra āni’ kaila bhakti-grantha sāra  
-mūḍha adhama-janere tiṅho karilā nistāra
+various  scriptures  gathering  they made  books of devotion  the essence  
+mūḍha adhama-janere tiṅho karilā nistāra  
+foolish  fallen people  they  made  deliverance
 
-(33) [not yet translated]
+(33) Gathering many scriptures, they composed books of devotion that are their essence, and so delivered foolish and fallen people.
 
 প্রভু আজ্ঞায় কৈল সব শাস্ত্রের বিচার ৷  
 ব্রজের নিগূঢ় ভক্তি করিল প্রচার ॥ ৩৪ ॥
 
 prabhu ājñāya kaila saba śāstrera vicāra  
-vrajera nigūḍha bhakti karila pracāra
+the Lord’s  by order  they made  of all  the scriptures  study  
+vrajera nigūḍha bhakti karila pracāra  
+of Vraja  the confidential  devotion  they made  preaching
 
-(34) [not yet translated]
+(34) By the Lord’s order they examined all the scriptures and preached the confidential devotion of Vraja.
 
 হরিভক্তিবিলাস, আর ভাগবতামৃত ৷  
 দশম-টিপ্পনী, আর দশম-চরিত ॥ ৩৫ ॥
 
 hari-bhakti-vilāsa, āra bhāgavatāmṛta  
-daśama-ṭippanī, āra daśama-carita
+Hari-bhakti-vilāsa  and  Bhāgavatāmṛta  
+daśama-ṭippanī, āra daśama-carita  
+Daśama-ṭippanī  and  Daśama-carita
 
-(35) [not yet translated]
+(35) *Hari-bhakti-vilāsa*, *Bhāgavatāmṛta*, *Daśama-ṭippanī* and *Daśama-carita* —
 
 এই সব গ্রন্থ কৈল গোসাঞি সনাতন ৷  
 রূপগোসাঞি কৈল যত, কে করু গণন ॥ ৩৬ ॥
 
 ei saba grantha kaila gosāñi sanātana  
-rūpa-gosāñi kaila yata, ke karu gaṇana
+these  all  books  composed  Gosāñi  Sanātana  
+rūpa-gosāñi kaila yata, ke karu gaṇana  
+Rūpa Gosāñi  composed  as many as  who  can make  a count
 
-(36) [not yet translated]
+(36) all these books Sanātana Gosāñi composed. And who can count all that Rūpa Gosāñi composed?
 
 প্রধান প্রধান কিছু করিয়ে গণন ৷  
 লক্ষ গ্রন্থে কৈল ব্রজবিলাস বর্ণন ॥ ৩৭ ॥
 
 pradhāna pradhāna kichu kariye gaṇana  
-lakṣa granthe kaila vraja-vilāsa varṇana
+principal  principal  some  I make  enumeration  
+lakṣa granthe kaila vraja-vilāsa varṇana  
+in a hundred thousand  verses  he made  of Vraja’s pastimes  description
 
-(37) [not yet translated]
+(37) I shall name some of the principal ones. In a hundred thousand verses he described the pastimes of Vraja.
 
 রসামৃতসিন্ধু, আর বিদগ্ধমাধব ৷  
 উজ্জ্বলনীলমণি, আর ললিতমাধব ॥ ৩৮ ॥
 
 rasāmṛta-sindhu, āra vidagdha-mādhava  
-ujjvala-nīlamaṇi, āra lalita-mādhava
+Bhakti-rasāmṛta-sindhu  and  Vidagdha-mādhava  
+ujjvala-nīlamaṇi, āra lalita-mādhava  
+Ujjvala-nīlamaṇi  and  Lalita-mādhava
 
-(38) [not yet translated]
+(38) *Bhakti-rasāmṛta-sindhu*, *Vidagdha-mādhava*, *Ujjvala-nīlamaṇi* and *Lalita-mādhava*;
 
 দানকেলিকৌমুদী, আর বহু স্তবাবলী ৷  
 অষ্টাদশ লীলাচ্ছন্দ আর পদ্যাবলী ॥ ৩৯ ॥
 
 dāna-keli-kaumudī, āra bahu stavāvalī  
-aṣṭādaśa līlā-cchanda āra padyāvalī
+Dāna-keli-kaumudī  and  many  hymns (Stavāvalī)  
+aṣṭādaśa līlā-cchanda āra padyāvalī  
+eighteen  Līlā-cchandas  and  Padyāvalī
 
-(39) [not yet translated]
+(39) *Dāna-keli-kaumudī*, many hymns (*Stavāvalī*), the eighteen *Līlā-cchandas* and *Padyāvalī*;
 
 গোবিন্দ-বিরুদাবলী, তাহার লক্ষণ ৷  
 মথুরা-মাহাত্ম্য, আর নাটক-বর্ণন ॥ ৪০ ॥
 
 govinda-virudāvalī, tāhāra lakṣaṇa  
-mathurā-māhātmya, āra nāṭaka-varṇana
+Govinda-virudāvalī  its  lakṣaṇa (definitions)  
+mathurā-māhātmya, āra nāṭaka-varṇana  
+Mathurā-māhātmya  and  Nāṭaka-varṇana
 
-(40) [not yet translated]
+(40) *Govinda-virudāvalī* with its *lakṣaṇa* (definitions), *Mathurā-māhātmya* and *Nāṭaka-varṇana*.
 
 লঘুভাগবতামৃতাদি কে করু গণন ৷  
 সর্ব্বত্র করিল ব্রজবিলাস বর্ণন ॥ ৪১ ॥
 
 laghu-bhāgavatāmṛtādi ke karu gaṇana  
-sarvatra karila vraja-vilāsa varṇana
+Laghu-bhāgavatāmṛta and others  who  can make  a count  
+sarvatra karila vraja-vilāsa varṇana  
+everywhere  he made  of Vraja’s pastimes  description
 
-(41) [not yet translated]
+(41) Who can count *Laghu-bhāgavatāmṛta* and the rest? Everywhere in them he described the pastimes of Vraja.
 
 তাঁর ভ্রাতুষ্পুত্র নাম — শ্রীজীবগোসাঞি ৷  
 যত ভক্তিগ্রন্থ কৈল, তার অন্ত নাই ॥ ৪২ ॥
 
 tāṅra bhrātuṣ-putra nāma — śrī-jīva-gosāñi  
-yata bhakti-grantha kaila, tāra anta nāi
+his  brother’s son  named  Śrī Jīva Gosāñi  
+yata bhakti-grantha kaila, tāra anta nāi  
+as many  books of devotion  he composed  of them  end  there is none
 
-(42) [not yet translated]
+(42) His nephew is named Śrī Jīva Gosāñi. There is no end to the books of devotion he composed.
 
 শ্রীভাগবতসন্দর্ভ-নাম গ্রন্থ-বিস্তার ৷  
 ভক্তিসিদ্ধান্ত তাতে লিখিয়াছেন সার ॥ ৪৩ ॥
 
 śrī-bhāgavata-sandarbha-nāma grantha-vistāra  
-bhakti-siddhānta tāte likhiyāchena sāra
+Śrī Bhāgavata-sandarbha  named  an extensive book  
+bhakti-siddhānta tāte likhiyāchena sāra  
+of the conclusions of devotion  in it  he has written  the essence
 
-(43) [not yet translated]
+(43) In his extensive book named *Śrī Bhāgavata-sandarbha* he has written the essence of the conclusions of devotion.
 
 গোপালচম্পূ-নামে গ্রন্থ মহাশূর ৷  
 নিত্যলীলা স্থাপন যাহে ব্রজরস-পূর ॥ ৪৪ ॥
 
 gopāla-campū-nāme grantha mahāśūra  
-nitya-līlā sthāpana yāhe vraja-rasa-pūra
+Gopāla-campū  named  a book  most mighty  
+nitya-līlā sthāpana yāhe vraja-rasa-pūra  
+of the eternal pastimes  the establishment  in which  with the rasa of Vraja  full
 
-(44) [not yet translated]
+(44) The mighty book named *Gopāla-campū* establishes the eternal pastimes and is full of the *rasa* of Vraja.
 
 এইমত নানা গ্রন্থ করিয়া প্রকাশ ৷  
 গোষ্ঠী সহিতে কৈলা বৃন্দাবনে বাস ॥ ৪৫ ॥
 
 ei mata nānā grantha kariyā prakāśa  
-goṣṭhī sahite kailā vṛndāvane vāsa
+in this way  various  books  having made  manifest  
+goṣṭhī sahite kailā vṛndāvane vāsa  
+their community  together with  they made  in Vṛndāvana  residence
 
-(45) [not yet translated]
+(45) In this way they brought out many books and lived in Vṛndāvana together with their community.
 
 প্রথম বৎসরে অদ্বৈতাদি ভক্তগণ ৷  
 প্রভুরে দেখিতে কৈলা, নীলাদ্রি গমন ॥ ৪৬ ॥
 
 prathama vatsare advaitādi bhakta-gaṇa  
-prabhure dekhite kailā, nīlādri gamana
+in the first  year  headed by Advaita  the devotees  
+prabhure dekhite kailā, nīlādri gamana  
+the Lord  to see  made  to Nīlādri  journey
 
-(46) [not yet translated]
+(46) In the first year the devotees headed by Advaita went to Nīlādri to see the Lord.
 
 রথযাত্রা দেখি’ তাঁহা রহিলা চারিমাস ৷  
 প্রভুসঙ্গে নৃত্যগীত পরম উল্লাস ॥ ৪৭ ॥
 
 ratha-yātrā dekhi’ tāṅhā rahilā cāri-māsa  
-prabhu-saṅge nṛtya-gīta parama ullāsa
+the Ratha-yātrā  having seen  there  they stayed  four months  
+prabhu-saṅge nṛtya-gīta parama ullāsa  
+with the Lord  dancing  singing  supreme  joy
 
-(47) [not yet translated]
+(47) Having seen the Ratha-yātrā, they stayed there four months, dancing and singing with the Lord in supreme joy.
 
 বিদায় সময় প্রভু কহিলা সবারে ৷  
 প্রত্যব্দ আসিবে সবে গুণ্ডিচা দেখিবারে ॥ ৪৮ ॥
 
 vidāya samaya prabhu kahilā sabāre  
-pratyabda āsibe sabe guṇḍicā dekhibāre
+of farewell  at the time  the Lord  said  to all  
+pratyabda āsibe sabe guṇḍicā dekhibāre  
+every year  come  all  the Guṇḍicā  to see
 
-(48) [not yet translated]
+(48) When they took leave, the Lord told them all, “Come every year, all of you, to see the Guṇḍicā festival.”
 
 প্রভু-আজ্ঞায় ভক্তগণ প্রত্যব্দ আসিয়া ৷  
 গুণ্ডিচা দেখিয়া যান প্রভুরে মিলিয়া ॥ ৪৯ ॥
 
 prabhu-ājñāya bhakta-gaṇa pratyabda āsiyā  
-guṇḍicā dekhiyā yāna prabhure miliyā
+by the Lord’s order  the devotees  every year  coming  
+guṇḍicā dekhiyā yāna prabhure miliyā  
+the Guṇḍicā  having seen  they go back  the Lord  having met
 
-(49) [not yet translated]
+(49) By the Lord’s order the devotees came every year, saw the Guṇḍicā festival, met the Lord and went back.
 
 দ্বাদশ বৎসর ঐছে কৈল গতাগতি ৷  
 অন্যোন্যে দুঁহার দুঁহা বিনা নাহি স্থিতি ॥ ৫০ ॥
 
 dvādaśa vatsara aiche kaila gatāgati  
-anyonye duṅhāra duṅhā vinā nāhi sthiti
+twelve  years  thus  they made  coming and going  
+anyonye duṅhāra duṅhā vinā nāhi sthiti  
+mutually  of both  each other  without  there is no  existence
 
-(50) [not yet translated]
+(50) For twelve years they came and went like this; neither the Lord nor His devotees could live without each other.
 
 তার শেষ যেই রহে দ্বাদশ বৎসর ৷  
 কৃষ্ণের বিরহলীলা প্রভুর অন্তর ॥ ৫১ ॥
 
 tāra śeṣa yei rahe dvādaśa vatsara  
-kṛṣṇera viraha-līlā prabhura antara
+of this  at the end  which  remain  twelve  years  
+kṛṣṇera viraha-līlā prabhura antara  
+of Kṛṣṇa  pastimes of separation  the Lord’s  within the heart
 
-(51) [not yet translated]
+(51) In the twelve years that remained at the end, the Lord’s heart was filled with the pastimes of separation from Kṛṣṇa.
 
 নিরন্তর রাত্রি-দিন বিরহ-উন্মাদে ৷  
 হাসে, কান্দে, নাচে, গায় পরম বিষাদে ॥ ৫২ ॥
 
 nirantara rātri-dina viraha unmāde  
-hāse, kānde, nāce, gāya parama viṣāde
+constantly  night and day  of separation  in the madness  
+hāse, kānde, nāce, gāya parama viṣāde  
+He laughs  weeps  dances  sings  in great  sorrow
 
-(52) [not yet translated]
+(52) Night and day, in the divine madness of separation, He laughed, wept, danced and sang in great sorrow.
 
 যে কালে করেন জগন্নাথ দরশন ৷  
 মনে ভাবেন, কুরুক্ষেত্রে পাঞাছি মিলন ॥ ৫৩ ॥
 
 ye kāle karena jagannātha daraśana  
-mane bhāvena, kurukṣetre pāñāchi milana
+at whatever  time  He takes  of Jagannātha  darśana  
+mane bhāvena, kurukṣetre pāñāchi milana  
+in the mind  He thinks  at Kurukṣetra  I have found  union
 
-(53) [not yet translated]
+(53) Whenever He took *darśana* of Jagannātha, He thought, “I have found Him again at Kurukṣetra.”
 
 রথযাত্রার আগে যবে করেন নর্ত্তন ৷  
 তাঁহা এই পদ মাত্র করয়ে গায়ন ॥ ৫৪ ॥
 
 ratha-yātrāra āge yabe karena nartana  
-tāṅhā ei pada mātra karaye gāyana
+of the Ratha-yātrā  in front  when  He performs  dance  
+tāṅhā ei pada mātra karaye gāyana  
+there  this  song  only  He makes  singing
 
-(54) [not yet translated]
+(54) When He danced in front of the Ratha-yātrā, He sang only this song:
 
 “সেইত পরাণ-নাথ পাইনু ॥  
 যাহা লাগি’ মদনদহনে ঝুরি’ গেনু ॥” ॥ ৫৫ ॥
 
 seita parāṇa-nātha pāinu  
-yāhā lāgi’ madana-dahane jhuri’ genu
+that very  Lord of My life  I have found  
+yāhā lāgi’ madana-dahane jhuri’ genu  
+whom  for  in the fire of Madana  pining  I was wasting away
 
-(55) [not yet translated]
+(55) “I have found that very Lord of My life for whom I was wasting away, burning in the fire of Madana (love).”
 
 এই ধুয়া-গানে নাচেন দ্বিতীয় প্রহর ৷  
 কৃষ্ণ লঞা ব্রজে যাই — এভাব অন্তর ॥ ৫৬ ॥
 
 ei dhuyā-gāne nācena dvitīya prahara  
-kṛṣṇa lañā vraje yāi — e-bhāva antara
+to this  refrain song  He dances  the second  prahara  
+kṛṣṇa lañā vraje yāi — e-bhāva antara  
+Kṛṣṇa  taking  to Vraja  I go  this feeling  within
 
-(56) [not yet translated]
+(56) To this refrain He danced through the second *prahara* (watch) of the day, feeling within, “Taking Kṛṣṇa, I go back to Vraja.”
 
 এই ভাবে নৃত্যমধ্যে পড়ে এক শ্লোক ৷  
 সেই শ্লোকের অর্থ কেহ নাহি বুঝে লোক ॥ ৫৭ ॥
 
 ei bhāve nṛtya-madhye paḍe eka śloka  
-sei ślokera artha keha nāhi bujhe loka
+in this  mood  of the dance  in the midst  He recites  a  verse  
+sei ślokera artha keha nāhi bujhe loka  
+of that  verse  the meaning  anyone  not  understands  of the people
 
-(57) [not yet translated]
+(57) In this mood, in the midst of the dance, He recited a verse whose meaning none of the people understood:
 
 যঃ কৌমারহরঃ স এব হি বরস্তা এব চৈত্রক্ষপা-  
 স্তে চোন্মীলিতমালতীসুরভয়ঃ প্রৌঢ়াঃ কদম্বানিলাঃ ৷  
@@ -548,27 +602,35 @@ sei ślokera artha keha nāhi bujhe loka
 রেবারোধসি বেতসীতরুতলে চেতঃ সমুৎকণ্ঠতে ॥ ৫৮ ॥
 
 yaḥ kaumāra-haraḥ sa eva hi varas tā eva caitra-kṣapās  
+who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra  
 te conmīlita-mālatī-surabhayaḥ prauḍhāḥ kadambānilāḥ  
+those same  and  fragrant with blossoming mālatī  full  breezes from the kadambas  
 sā caivāsmi tathāpi tatra surata-vyāpāra-līlā-vidhau  
-revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate
+she  the same  am I  yet  there  for the pastimes of love  
+revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate  
+of the Revā  on the bank  of the vetasī  tree  beneath  My heart  yearns
 
-(58) [not yet translated]
+(58) “He who stole My heart in My girlhood is the same beloved; these are the same moonlit nights of Caitra, the same full breezes from the kadamba trees, fragrant with blossoming *mālatī*; and I am the same girl. Yet My heart yearns for those pastimes of love there, beneath the *vetasī* tree on the bank of the Revā.” (Padyāvalī 386)
 
 এই শ্লোকের অর্থ জানে একেলা স্বরূপ ৷  
 দৈবে সে বৎসর তাঁহা গিয়াছেন রূপ ॥ ৫৯ ॥
 
 ei ślokera artha jāne ekelā svarūpa  
-daive se vatsara tāṅhā giyāchena rūpa
+of this  verse  the meaning  knows  alone  Svarūpa  
+daive se vatsara tāṅhā giyāchena rūpa  
+by providence  that  year  there  had come  Rūpa
 
-(59) [not yet translated]
+(59) Svarūpa alone knew the meaning of this verse. By providence, that year Rūpa had come there.
 
 প্রভুমুখে লোক শুনি’ শ্রীরূপগোসাঞি ৷  
 সেই শ্লোকের অর্থ-শ্লোক করিলা তথাই ॥ ৬০ ॥
 
 prabhu-mukhe loka śuni’ śrī-rūpa-gosāñi  
-sei ślokera artha-śloka karilā tathāi
+from the Lord’s mouth  the verse  hearing  Śrī Rūpa Gosāñi  
+sei ślokera artha-śloka karilā tathāi  
+of that  verse  of the meaning  a verse  composed  right there
 
-(60) [not yet translated]
+(60) Hearing the verse from the Lord’s mouth, Śrī Rūpa Gosāñi then and there composed a verse giving its meaning.
 
 শ্লোক করি’ এক তালপত্রেতে লিখিয়া ৷  
 আপন বাসার চালে রাখিল গুঞ্জিয়া ॥ ৬১ ॥
@@ -1570,246 +1632,310 @@ of the Gosāñi  the glory  he  began  to tell
 তোমার দেশে তোমার ভাগ্যে জন্মিলা আসিঞা ॥ ১৭৬ ॥
 
 ye tomāre rājya dila, ye tomāra gosāñā  
-tomāra deśe tomāra bhāgye janmilā āsiñā
+who  to you  the kingdom  gave  who  your  Lord  
+tomāra deśe tomāra bhāgye janmilā āsiñā  
+in your  country  by your  fortune  was born  coming
 
-(176) [not yet translated]
+(176) “He who gave you your kingdom, He who is your Lord, has come and taken birth in your country by your good fortune.
 
 তোমার মঙ্গল বাঞ্ছে, বাক্য সিদ্ধি হয় ৷  
 ইহার আশীর্ব্বাদে তোমার সর্বত্রই জয় ॥ ১৭৭ ॥
 
 tomāra maṅgala vāñche, vākya siddha haya  
-ihāra āśīrvāde tomāra sarvatrai jaya
+your  welfare  He desires  words  fulfilled  become  
+ihāra āśīrvāde tomāra sarvatrai jaya  
+by His  blessing  your  everywhere  victory
 
-(177) [not yet translated]
+(177) He desires your welfare, and His words come true; by His blessing you will be victorious everywhere.
 
 মোরে কেন পুছ, তুমি পুছ আপন-মন ৷  
 তুমি নরাধিপ হও বিষ্ণু-অংশ সম ॥ ১৭৮ ॥
 
 more kena pucha, tumi pucha āpana-mana  
-tumi narādhipa hao viṣṇu-aṁśa sama
+me  why  you ask  you  ask  your own mind  
+tumi narādhipa hao viṣṇu-aṁśa sama  
+you  a ruler of men  are  a part of Viṣṇu  like
 
-(178) [not yet translated]
+(178) Why do you ask me? Ask your own heart. As a ruler of men you are like a part of Viṣṇu.
 
 তোমার চিত্তে চৈতন্যেরে কৈছে হয় জ্ঞান ৷  
 তোমার চিত্তে যেই লয়, সেই ত’ প্রমাণ ॥ ১৭৯ ॥
 
 tomāra citte caitanyere kaiche haya jñāna  
-tomāra citte yei laya, sei ta’ pramāṇa
+in your  mind  of Caitanya  what kind of  is  knowledge  
+tomāra citte yei laya, sei ta’ pramāṇa  
+in your  mind  whatever  is accepted  that  indeed  the proof
 
-(179) [not yet translated]
+(179) Whatever understanding of Caitanya arises in your heart — whatever your heart accepts — that is the proof.”
 
 রাজা কহে, শুন, মোর মনে যেই লয় ৷  
 সাক্ষাৎ ঈশ্বর, ইঁহা নাহিক সংশয় ॥ ১৮০ ॥
 
 rājā kahe, śuna, mora mane yei laya  
-sākṣāt īśvara, iṅhā nāhika saṁśaya
+the king  says  listen  my  mind  what  accepts  
+sākṣāt īśvara, iṅhā nāhika saṁśaya  
+directly  God  of this  there is no  doubt
 
-(180) [not yet translated]
+(180) The king said: “Listen to what my heart accepts: He is God Himself. Of this there is no doubt.”
 
 এত কহি’ রাজা গেলা নিজ অভ্যন্তরে ৷  
 তবে দবির খাস আইলা আপনার ঘরে ॥ ১৮১ ॥
 
 eta kahi’ rājā gelā nija abhyantare  
-tabe dabira khāsa āilā āpanāra ghare
+thus  saying  the king  went  his own  inner apartments  
+tabe dabira khāsa āilā āpanāra ghare  
+then  Dabira  Khāsa  came  to his own  house
 
-(181) [not yet translated]
+(181) Saying this, the king withdrew to his inner apartments, and Dabira Khāsa returned to his own house.
 
 ঘরে আসি’ দুই ভাই যুকতি করিঞা ৷  
 প্রভু দেখিবারে চলে বেশ লুকাঞা ॥ ১৮২ ॥
 
 ghare āsi’ dui bhāi yukati kariñā  
-prabhu dekhibāre cale veśa lukāñā
+at home  coming  the two  brothers  counsel  taking  
+prabhu dekhibāre cale veśa lukāñā  
+the Lord  to see  go  dress  disguising
 
-(182) [not yet translated]
+(182) At home the two brothers took counsel together and went in disguise to see the Lord.
 
 অর্দ্ধরাত্রে দুই ভাই আইলা প্রভু-স্থানে ৷  
 প্রথমে মিলিলা নিত্যানন্দ-হরিদাস সনে ॥ ১৮৩ ॥
 
 ardha-rātre dui bhāi āilā prabhu-sthāne  
-prathame mililā nityānanda-haridāsa sane
+at midnight  the two  brothers  came  to the Lord's place  
+prathame mililā nityānanda-haridāsa sane  
+first  met  Nityānanda and Haridāsa  with
 
-(183) [not yet translated]
+(183) At midnight the two brothers came to where the Lord was staying. First they met Nityānanda and Haridāsa,
 
 তাঁরা দুই জন জানাইলা প্রভুর গোচরে ৷  
 রূপ, সাকরমল্লিক আইলা তোমা’ দেখিবারে ॥ ১৮৪ ॥
 
 tāṅrā dui-jana jānāilā prabhura gocare  
-rūpa, sākara-mallika āilā tomā’ dekhibāre
+they  two  made known  of the Lord  to the notice  
+rūpa, sākara-mallika āilā tomā’ dekhibāre  
+Rūpa  Sākara-mallika  have come  You  to see
 
-(184) [not yet translated]
+(184) and these two informed the Lord: “Rūpa and Sākara-mallika have come to see You.”
 
 দুই গুচ্ছ তৃণ দুঁহে দশনে ধরিঞা ৷  
 গলে বস্ত্র বান্ধি’ পড়ে দণ্ডবৎ হঞা ॥ ১৮৫ ॥
 
 dui guccha tṛṇa duṅhe daśane dhariñā  
-gale vastra bāndhi’ paḍe daṇḍavat hañā
+two  bunches  of straw  both  in their teeth  holding  
+gale vastra bāndhi’ paḍe daṇḍavat hañā  
+on the neck  a cloth  tying  they fall  like a rod  becoming
 
-(185) [not yet translated]
+(185) Holding bunches of straw between their teeth and with cloths tied around their necks, the two brothers fell flat like rods.
 
 দৈন্য রোদন করে, আনন্দে বিহ্বল ৷  
 প্রভু কহে, — উঠ, উঠ, হইল মঙ্গল ॥ ১৮৬ ॥
 
 dainya rodana kare, ānande vihvala  
-prabhu kahe, — uṭha, uṭha, haila maṅgala
+humbly  weeping  they do  with joy  overwhelmed  
+prabhu kahe, — uṭha, uṭha, haila maṅgala  
+the Lord  says  rise  rise  has come  auspiciousness
 
-(186) [not yet translated]
+(186) They wept in humility, overwhelmed with joy. The Lord said, “Rise, rise! Good fortune has come.”
 
 উঠি’ দুই ভাই তবে দন্তে তৃণ ধরি’ ৷  
 দৈন্য করি’ স্তুতি করে করযোড় করি’ ॥ ১৮৭ ॥
 
 uṭhi’ dui bhāi tabe dante tṛṇa dhari’  
-dainya kari’ stuti kare karayoḍa kari’
+rising  the two  brothers  then  in their teeth  straw  holding  
+dainya kari’ stuti kare karayoḍa kari’  
+humility  showing  prayer  they make  joined palms  making
 
-(187) [not yet translated]
+(187) Rising, the two brothers, still holding straw between their teeth, humbly offered prayers with joined palms:
 
 জয় জয় শ্রীকৃষ্ণচৈতন্য দয়াময় ৷  
 পতিতপাবন জয়, জয় মহাশয় ॥ ১৮৮ ॥
 
 jaya jaya śrī-kṛṣṇa-caitanya dayā-maya  
-patita-pāvana jaya, jaya mahāśaya
+glory  glory  to Śrī Kṛṣṇa Caitanya  the merciful  
+patita-pāvana jaya, jaya mahāśaya  
+to the savior of the fallen  glory  glory  to the magnanimous
 
-(188) [not yet translated]
+(188) “Glory, glory to Śrī Kṛṣṇa Caitanya, the merciful! Glory to the savior of the fallen! Glory to the magnanimous Lord!
 
 নীচ-জাতি, নীচ-সঙ্গী, করি নীচ কাজ ৷  
 তোমার অগ্রেতে প্রভু কহিতে বাসি লাজ ॥ ১৮৯ ॥
 
 nīca-jāti, nīca-saṅgī, kari nīca kāja  
-tomāra agrete prabhu kahite vāsi lāja
+low-born  in low company  we do  low  work  
+tomāra agrete prabhu kahite vāsi lāja  
+of You  before  O Lord  to speak  we feel  shame
 
-(189) [not yet translated]
+(189) We are low-born, we keep low company and do low work; O Lord, we are ashamed even to speak before You.
 
 মত্তুল্যো নাস্তি পাপাত্মা নাপরাধী চ কশ্চন ৷  
 পরিহারেঽপি লজ্জা মে কিং ব্রুবে পুরুষোত্তম ॥ ১৯০ ॥
 
 mat-tulyo nāsti pāpātmā  
+like me  there is not  a sinner  
 nāparādhī ca kaścana  
+nor an offender  and  anyone  
 parihāre ‘pi lajjā me  
-kiṁ bruve puruṣottama
+in asking pardon  even  shame  mine  
+kiṁ bruve puruṣottama  
+what  shall I say  O Puruṣottama
 
-(190) [not yet translated]
+(190) “There is no sinner like me, nor any offender like me. O Puruṣottama, I am ashamed even to ask forgiveness; what more can I say?” (Bhakti-rasāmṛta-sindhu 1.2.154)
 
 পতিত-পাবন-হেতু তোমার অবতার ৷  
 আমা-বই জগতে, পতিত নাহি আর ॥ ১৯১ ॥
 
 patita-pāvana-hetu tomāra avatāra  
-āmā-bai jagate, patita nāhi āra
+for delivering the fallen  the purpose  Your  descent  
+āmā-bai jagate, patita nāhi āra  
+except us  in the world  fallen  there is not  other
 
-(191) [not yet translated]
+(191) You descended to deliver the fallen, and in all the world there are none more fallen than we.
 
 জগাই-মাধাই — দুই করিলে উদ্ধার ৷  
 তাহাঁ উদ্ধারিতে শ্রম নহিল তোমার ॥ ১৯২ ॥
 
 jagāi-mādhāi — dui karile uddhāra  
-tāhāṅ uddhārite śrama nahila tomāra
+Jagāi and Mādhāi  the two  You made  deliverance  
+tāhāṅ uddhārite śrama nahila tomāra  
+them  to deliver  effort  there was not  for You
 
-(192) [not yet translated]
+(192) You delivered the two brothers Jagāi and Mādhāi, but delivering them cost You no effort.
 
 ব্রাহ্মণ জাতি তারা, নবদ্বীপে ঘর ৷  
 নীচ-সেবা নাহি করে, নহে নীচের কূর্পর ॥ ১৯৩ ॥
 
 brāhmaṇa jāti tārā, navadvīpe ghara  
-nīca-sevā nāhi kare, nahe nīcera kūrpara
+brāhmaṇas  by birth  they  in Navadvīpa  home  
+nīca-sevā nāhi kare, nahe nīcera kūrpara  
+the low  service  not  they do  not are  of the low  the elbow
 
-(193) [not yet translated]
+(193) They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the low people's “elbow” (their instruments).
 
 সবে এক দোষ তার, হয় পাপাচার ৷  
 পাপরাশি দহে নামাভাসেই তোমার ॥ ১৯৪ ॥
 
 sabe eka doṣa tāra, haya pāpācāra  
-pāpa-rāśi dahe nāmābhāsei tomāra
+only  one  fault  theirs  was  sinful conduct  
+pāpa-rāśi dahe nāmābhāsei tomāra  
+heaps of sin  burns  by the mere semblance of the name  Your
 
-(194) [not yet translated]
+(194) Their only fault was sinful conduct, and even the semblance of Your name (*nāmābhāsa*) burns up heaps of sin.
 
 তোমার নাম লঞা তোমার করিল নিন্দন ৷  
 সেই নাম হইল তার মুক্তির কারণ ॥ ১৯৫ ॥
 
 tomāra nāma lañā tomāra karila nindana  
-sei nāma haila tāra muktira kāraṇa
+Your  name  taking  You  they did  blasphemy  
+sei nāma haila tāra muktira kāraṇa  
+that  name  became  their  of liberation  the cause
 
-(195) [not yet translated]
+(195) They uttered Your name while blaspheming You, and that very name became the cause of their liberation.
 
 জগাই-মাধাই হৈতে কোটি কোটি গুণ ৷  
 অধম পতিত পাপী আমি দুই জন ॥ ১৯৬ ॥
 
 jagāi-mādhāi haite koṭi koṭi guṇa  
-adhama patita pāpī āmi dui jana
+Jagāi and Mādhāi  than  millions  of millions  times  
+adhama patita pāpī āmi dui jana  
+lower  fallen  sinful  we  two  persons
 
-(196) [not yet translated]
+(196) We two are millions of times lower, more fallen and more sinful than Jagāi and Mādhāi.
 
 ম্লেচ্ছজাতি, ম্লেচ্ছসঙ্গী, করি ম্লেচ্ছকর্ম্ম ৷  
 গো-ব্রাহ্মণ-দ্রোহি-সঙ্গে আমার সঙ্গম ॥ ১৯৭ ॥
 
 mleccha-jāti, mleccha-saṅgī, kari mleccha-karma  
-go-brāhmaṇa-drohi-saṅge āmāra saṅgama
+mlecchas by birth  in the company of mlecchas  we do  mleccha deeds  
+go-brāhmaṇa-drohi-saṅge āmāra saṅgama  
+with enemies of cows and brāhmaṇas  our  association
 
-(197) [not yet translated]
+(197) We are *mlecchas* by birth, keep the company of *mlecchas* and do the deeds of *mlecchas*; we associate with the enemies of cows and brāhmaṇas.
 
 মোর কর্ম্ম, মোর হাতে-গলায় বান্ধিঞা ৷  
 কুবিষয়বিষ্ঠা-গর্ত্তে দিয়াছে ফেলিয়া ॥ ১৯৮ ॥
 
 mora karma, mora hāte-galāya bāndhiñā  
-ku-viṣaya-viṣṭhā-garte diyāche pheliyā
+my  karma  my  hands and neck  binding  
+ku-viṣaya-viṣṭhā-garte diyāche pheliyā  
+into the pit of the filth of evil sense objects  has  thrown
 
-(198) [not yet translated]
+(198) My own deeds have bound me by the hands and neck and thrown me into the pit of filth that is wicked sense enjoyment.
 
 আমা উদ্ধারিতে বলী নাহি ত্রিভুবনে ৷  
 পতিতপাবন তুমি — সবে তোমা বিনে ॥ ১৯৯ ॥
 
 āmā uddhārite balī nāhi tri-bhuvane  
-patita-pāvana tumi — sabe tomā vine
+us  to deliver  able  is none  in the three worlds  
+patita-pāvana tumi — sabe tomā vine  
+the savior of the fallen  You  only  You  except
 
-(199) [not yet translated]
+(199) No one in the three worlds is strong enough to deliver us — none but You, the savior of the fallen.
 
 আমা উদ্ধারিয়া যদি রাখ নিজ-বল ৷  
 ‘পতিতপাবন’ নাম তবে সে সফল ॥ ২০০ ॥
 
 āmā uddhāriyā yadi rākha nija-bala  
-‘patita-pāvana’ nāma tabe se saphala
+us  delivering  if  You show  Your own strength  
+‘patita-pāvana’ nāma tabe se saphala  
+savior of the fallen  the name  then  that  fulfilled
 
-(200) [not yet translated]
+(200) If You show Your strength by delivering us, then Your name “Savior of the Fallen” will be fulfilled.
 
 সত্য এক বাত কহোঁ, শুন, দয়াময় ৷  
 মো-বিনু দয়ার পাত্র জগতে না হয় ॥ ২০১ ॥
 
 satya eka bāta kahoṅ, śuna, dayā-maya  
-mo-vinu dayāra pātra jagate nā haya
+true  one  word  I say  listen  O merciful one  
+mo-vinu dayāra pātra jagate nā haya  
+except me  for mercy  a recipient  in the world  not  is
 
-(201) [not yet translated]
+(201) I tell You one true thing — listen, O merciful Lord: in all the world there is no one so fit for mercy as I.
 
 মোরে দয়া করি’ কর সদয় (স্বদয়া) সফল ৷  
 অখিল ব্রহ্মাণ্ড দেখুক্ তোমার দয়া-বল ॥ ২০২ ॥
 
 more dayā kari’ kara sadaya (sva-dayā) saphala  
-akhila brahmāṇḍa dekhuk tomāra dayā-bala
+to me  mercy  showing  make  Your name “Merciful” (Your own mercy)  fruitful  
+akhila brahmāṇḍa dekhuk tomāra dayā-bala  
+the whole  universe  let it see  Your  power of mercy
 
-(202) [not yet translated]
+(202) Show me mercy and make Your name “Merciful” (or: Your own mercy) bear fruit; let the whole universe see the power of Your mercy.
 
 ন মৃষা পরমার্থমেব মে, শৃণু বিজ্ঞাপনমেকমগ্রতঃ ৷  
 যদি মে ন দয়িষ্যসে তদা,  
 দয়নীয়স্তব নাথ দুর্ল্লভঃ ॥ ২০৩ ॥
 
 na mṛṣā paramārtham eva me  
+not  false  the highest truth  indeed  mine  
 śṛṇu vijñāpanam ekam agrataḥ  
+hear  petition  one  before You  
 yadi me na dayiṣyase tadā  
-dayanīyas tava nātha durlabhaḥ
+if  to me  not  You will show mercy  then  
+dayanīyas tava nātha durlabhaḥ  
+one fit for mercy  Your  O Lord  hard to find
 
-(203) [not yet translated]
+(203) “Hear one petition I lay before You; it is no lie but the highest truth: if You will not show me mercy, O Lord, You will hardly find anyone more fit for Your mercy.” (Stotra-ratna 47)
 
 আপনে অয়োগ্য দেখি’ মনে পাঙ ক্ষোভ ৷  
 তথাপি তোমার গুণে উপজয় লোভ ॥ ২০৪ ॥
 
 āpane ayogya dekhi’ mane pāṅa kṣobha  
-tathāpi tomāra guṇe upajaya lobha
+myself  unfit  seeing  in my mind  I feel  distress  
+tathāpi tomāra guṇe upajaya lobha  
+still  for Your  qualities  arises  longing
 
-(204) [not yet translated]
+(204) Seeing my own unworthiness, I am distressed at heart; yet Your qualities awaken longing in me.
 
 বামন হঞা চাঁদ ধরিতে ইচ্ছা করে ৷  
 তৈছে মোর এই বাঞ্ছা উঠয়ে অন্তরে ॥ ২০৫ ॥
 
 vāmana hañā cāṅda dharite icchā kare  
-taiche mora ei vāñchā uṭhaye antare
+a dwarf  being  the moon  to catch  wish  he makes  
+taiche mora ei vāñchā uṭhaye antare  
+so  my  this  desire  rises  in my heart
 
-(205) [not yet translated]
+(205) As a dwarf wishes to catch the moon, so this desire rises in my heart.
 
 ভবন্তমেবানুচরন্নিরন্তরঃ  
 প্রশান্তনিঃশেষমনোরথান্তরঃ ৷  
@@ -1817,109 +1943,139 @@ taiche mora ei vāñchā uṭhaye antare
 প্রহর্ষয়িষ্যামি স নাথ জীবিতম্ ॥ ২০৬ ॥
 
 bhavantam evānucaran nirantaraḥ  
+You  alone  serving  constantly  
 praśānta-niḥśeṣa-mano-rathāntaraḥ  
+with every other desire completely stilled  
 kadāham aikāntika-nitya-kiṅkaraḥ  
-praharṣayiṣyāmi sa nātha jīvitam
+when shall I  as a wholly devoted eternal servant  
+praharṣayiṣyāmi sa nātha jīvitam  
+gladden  that very  O Lord  life
 
-(206) [not yet translated]
+(206) “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna 43)
 
 শুনি’ মহাপ্রভু কহে, — শুন, দবির খাস ৷  
 তুমি দুই ভাই — মোর পুরাতন দাস ॥ ২০৭ ॥
 
 śuni’ mahāprabhu kahe, — śuna, dabira khāsa  
-tumi dui bhāi — mora purātana dāsa
+hearing  Mahāprabhu  says  listen  Dabira  Khāsa  
+tumi dui bhāi — mora purātana dāsa  
+you  two  brothers  My  old  servants
 
-(207) [not yet translated]
+(207) Hearing this, Mahāprabhu said: “Listen, Dabira Khāsa: you two brothers are My servants of old.
 
 আজি হৈতে দুঁহার নাম ‘রূপ’ ‘সনাতন’ ৷  
 দৈন্য ছাড়, তোমার দৈন্যে ফাটে মোর মন ॥ ২০৮ ॥
 
 āji haite duṅhāra nāma ‘rūpa’ ‘sanātana’  
-dainya chāḍa, tomāra dainye phāṭe mora mana
+today  from  of you two  the names  Rūpa  Sanātana  
+dainya chāḍa, tomāra dainye phāṭe mora mana  
+humility  give up  your  by humility  breaks  My  heart
 
-(208) [not yet translated]
+(208) From today your names are Rūpa and Sanātana. Give up this humility — your humility breaks My heart.
 
 দৈন্যপত্রী লিখি’ মোরে পাঠালে বার বার ৷  
 সেই পত্রীদ্বারা জানি তোমার ব্যবহার ॥ ২০৯ ॥
 
 dainya-patrī likhi’ more pāṭhāle bāra bāra  
-sei patrī-dvārā jāni tomāra vyavahāra
+humble letters  writing  to Me  you sent  time  after time  
+sei patrī-dvārā jāni tomāra vyavahāra  
+those  through the letters  I know  your  conduct
 
-(209) [not yet translated]
+(209) Time and again you wrote Me humble letters, and through those letters I came to know your life.
 
 তোমার হৃদয় আমি জানি পত্রীদ্বারে ৷  
 তোমা শিখাইতে শ্লোক কহিলুঁ বারে বারে ॥ ২১০ ॥
 
 tomāra hṛdaya āmi jāni patrī-dvāre  
-tomā śikhāite śloka kahiluṅ bāre bāre
+your  heart  I  know  through the letters  
+tomā śikhāite śloka kahiluṅ bāre bāre  
+you  to teach  a verse  I spoke  time  after time
 
-(210) [not yet translated]
+(210) Through those letters I knew your hearts, and to instruct you I quoted a verse again and again:
 
 পরব্যসনিনী নারী ব্যগ্রাপি গৃহকর্ম্মসু ৷  
 তদেবাস্বাদয়ত্যন্তর্নবসঙ্গরসায়নম্ ॥ ২১১ ॥
 
 para-vyasaninī nārī  
+devoted to another  a woman  
 vyagrāpi gṛha-karmasu  
+though busy  with household duties  
 tad evāsvādayaty antar  
-nava-saṅga-rasāyanam
+that  alone  she relishes  within  
+nava-saṅga-rasāyanam  
+the nectar of a new meeting
 
-(211) [not yet translated]
+(211) “A woman attached to a man other than her husband may seem busy with her household duties, but within she relishes only the nectar of new meetings with him.”
 
 গৌড়-নিকট আসিতে নাহি মোর প্রয়োজন ৷  
 তোমা-দুঁহা দেখিতে মোর ইঁহা আগমন ॥ ২১২ ॥
 
 gauḍa-nikaṭa āsite nāhi mora prayojana  
-tomā-duṅhā dekhite mora iṅhā āgamana
+near Gauḍa  to come  there is not  My  purpose  
+tomā-duṅhā dekhite mora iṅhā āgamana  
+you two  to see  My  here  coming
 
-(212) [not yet translated]
+(212) I had no reason to come near Gauḍa; I came here only to see you two.
 
 এই মোর মনের কথা কেহ নাহি জানে ৷  
 সবে বলে, কেনে আইলা রামকেলি-গ্রামে ॥ ২১৩ ॥
 
 ei mora manera kathā keha nāhi jāne  
-sabe bale, kene āilā rāmakeli-grāme
+this  of My  heart  the matter  anyone  not  knows  
+sabe bale, kene āilā rāmakeli-grāme  
+all  say  why  has He come  to the village of Rāmakeli
 
-(213) [not yet translated]
+(213) No one knows this, the secret of My heart; everyone asks why I have come to Rāmakeli.
 
 ভাল হৈল, দুই ভাই আইলা মোর স্থানে ৷  
 ঘরে যাহ, ভয় কিছু না করিহ মনে ॥ ২১৪ ॥
 
 bhāla haila, dui bhāi āilā mora sthāne  
-ghare yāha, bhaya kichu nā kariha mane
+good  it was  the two  brothers  came  My  to the place  
+ghare yāha, bhaya kichu nā kariha mane  
+home  go  fear  any  not  keep  in the mind
 
-(214) [not yet translated]
+(214) It is good that you two brothers came to Me. Now go home and do not be afraid.
 
 জন্মে জন্মে তুমি দুই — কিঙ্কর আমার ৷  
 অচিরাতে কৃষ্ণ তোমায় করিবে উদ্ধার ॥ ২১৫ ॥
 
 janme janme tumi dui — kiṅkara āmāra  
-acirāte kṛṣṇa tomāya karibe uddhāra
+in birth  after birth  you  two  servants  Mine  
+acirāte kṛṣṇa tomāya karibe uddhāra  
+very soon  Kṛṣṇa  you  will make  deliverance
 
-(215) [not yet translated]
+(215) Birth after birth you two are My servants. Very soon Kṛṣṇa will deliver you.”
 
 এত বলি দুঁহার শিরে ধরিল দুই হাতে ৷  
 দুই ভাই ধরি’ প্রভুর পদ নিল মাথে ॥ ২১৬ ॥
 
 eta bali duṅhāra śire dharila dui hāte  
-dui bhāi dhari’ prabhura pada nila māthe
+thus  saying  of both  on the heads  He placed  two  hands  
+dui bhāi dhari’ prabhura pada nila māthe  
+the two  brothers  taking  the Lord's  feet  placed  on their heads
 
-(216) [not yet translated]
+(216) Saying this, He placed His two hands on their heads, and the two brothers took the Lord's feet and placed them on their heads.
 
 দোঁহা আলিঙ্গিয়া প্রভু বলিল ভক্তগণে ৷  
 সবে কৃপা করি’ উদ্ধার’ এই দুই জনে ॥ ২১৭ ॥
 
 doṅhā āliṅgiyā prabhu balila bhakta-gaṇe  
-sabe kṛpā kari’ uddhāra’ ei dui jane
+both  embracing  the Lord  said  to the devotees  
+sabe kṛpā kari’ uddhāra’ ei dui jane  
+all  mercy  showing  deliver  these  two  persons
 
-(217) [not yet translated]
+(217) Embracing them both, the Lord said to the devotees: “All of you, be merciful and deliver these two.”
 
 দুই জনে প্রভুর কৃপা দেখি’ ভক্তগণে ৷  
 ‘হরি’ ‘হরি’ বলে সবে আনন্দিত-মনে ॥ ২১৮ ॥
 
 dui jane prabhura kṛpā dekhi’ bhakta-gaṇe  
-‘hari’ ‘hari’ bale sabe ānandita-mane
+to the two  persons  the Lord's  mercy  seeing  the devotees  
+‘hari’ ‘hari’ bale sabe ānandita-mane  
+Hari  Hari  call  all  with joyful hearts
 
-(218) [not yet translated]
+(218) Seeing the Lord's mercy on the two, all the devotees joyfully called out, “Hari! Hari!”
 
 নিত্যানন্দ, হরিদাস, শ্রীবাস, গদাধর ৷  
 মুকুন্দ, জগদানন্দ, মুরারি, বক্রেশ্বর ॥ ২১৯ ॥
