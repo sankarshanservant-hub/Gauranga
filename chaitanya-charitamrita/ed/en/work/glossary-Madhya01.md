@@ -12,7 +12,7 @@
 | Madana-gopāla, Govinda | Madana-gopāla, Govinda (Deities in Vṛndāvana) | 1.32 |
 | Books of the Gosvāmīs | *Hari-bhakti-vilāsa*, *Bhāgavatāmṛta*, *Daśama-ṭippanī*, *Daśama-carita*; *Bhakti-rasāmṛta-sindhu*, *Vidagdha-mādhava*, *Ujjvala-nīlamaṇi*, *Lalita-mādhava*, *Dāna-keli-kaumudī*, *Stavāvalī*, *Līlā-cchandas*, *Padyāvalī*, *Govinda-virudāvalī*, *Mathurā-māhātmya*, *Nāṭaka-varṇana*, *Laghu-bhāgavatāmṛta*; *Śrī Bhāgavata-sandarbha*, *Gopāla-campū* | 1.35–44 |
 | tāhāra lakṣaṇa | with its *lakṣaṇa* (definitions) | 1.40 (untranslated in VCD) |
-| lakṣa grantha | a hundred thousand verses | 1.37 (*grantha* = a unit of 32 syllables) |
+| lakṣa grantha | a hundred thousand verses | 1.37 (*grantha* as a unit of measure — see the commentaries) |
 | guṇḍicā dekhibāre | to see the Guṇḍicā festival | 1.48–49 |
 | viraha-unmāda; udghūrṇā-pralāpa | the divine madness of separation; the bewildered raving (*udghūrṇā*) of that madness | 1.52, 1.87 (never ‘insanity’) |
 | dhuyā-gāna; dvitīya prahara | refrain; the second *prahara* (watch) of the day | 1.56 (VCD ‘after noon’ — footnote) |
