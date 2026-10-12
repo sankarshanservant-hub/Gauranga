@@ -222,8 +222,202 @@ See the Anubhāṣya on Ādi 10.85.
 
 > Subheading: Day and night, the divine madness born of separation from Kṛṣṇa —
 
+## 53
+
+> Subheading: Filled with Rādhikā's mood, born of seeing Kṛṣṇa at the end of a long separation, the Lord gazes at Jagannātha —
+
+## 54
+
+> Subheading: The Lord's song as He dances before the chariot —
+
+## 55
+
+> Subheading: For example, this song —
+
+## 56
+
+> Subheading: The Lord's mood as Jagannātha goes to Guṇḍicā —
+
+## 53–56
+
+Śrī Mahāprabhu, saturated with Rādhā's mood and taking on the mood of the long separation in Mathurā, has shown that the only *sādhana* for living beings is the embodied, visible manifestation of *vipralambha-rasa*, which constantly nourishes *sambhoga*. The *gopīs* of Gokula, eager to see Kṛṣṇa, as described in the eighty-second chapter of the Tenth Canto of the *Śrīmad-Bhāgavatam*, went to Syamantapañcaka at Kurukṣetra on the occasion of an eclipse and expressed the feelings of their hearts; when Śrī Gaurasundara gazes at the Lord of Nīlācala, that same mood appears a second time. Just as at Kurukṣetra the *gopīs* tried to dispel Kṛṣṇa's majesty and lead Him to taste the sweetness of Gokula, so Gaurahari leads Jagannāthadeva — Kṛṣṇa — from the temple of Nīlācala, which is like Kurukṣetra, toward the Guṇḍicā temple, which is like Vṛndāvana: going before the chariot as Śrī Gaurasundara, He sings the feelings of the heart of Śrīmatī Vārṣabhānavī and brings Him to Guṇḍicā, the place of *parakīya* pastimes.[^53-1]
+
+## 57
+
+> Subheading: The secret verse —
+
+## 58
+
+> Subheading: The verse that expresses this mood (quoted in the *Kāvya-prakāśa*, first *ullāsa*, no. 4) —
+
+**he sakhi** (O friend), **yaḥ kāntaḥ** (that beloved) **kaumāra-haraḥ** (who steals, carries off, the *kaumāra*, girlhood) **sa eva hi varaḥ** (is indeed the husband), **tā eva caitra-kṣapāḥ** (those same moonlit nights of the month of Madhu-Caitra), **tathā te ca unmīlita-mālatī-surabhayaḥ** (and those [breezes], fragrant with the *mālatī* flowers that have opened, blossomed), **prauḍhāḥ** (strong — giving dense, full happiness) **kadambānilāḥ** (the *kadamba* breezes — breezes full of the fragrance of *kadambas* blow), **sā ca aham eva asmi** (and I am that very one), **tathāpi** (and yet) **tatra revā-rodhasi** (there, on the bank of the river Revā), **vetasī-taru-tale** (under the *vetasī* tree — in a secluded, cool place thick with *vetasī* thorns), **surata-vyāpāra-līlā-vidhau** (in the play of love's doings — just where, in longing for union with the hero, the first union once took place) **cetaḥ** (the mind) **samutkaṇṭhate** (burns with desire to play, to enjoy).
+
+## 59
+
+> Subheading: Only Dāmodara Svarūpa knows the Lord's mood —
+
+## 60
+
+> Subheading: The verse composed by Śrī Rūpa himself to correspond to it —
+
+## 53–60
+
+See Madhya 13.111–159.
+
+## 61
+
+> Subheading: The story of the verses of Mahāprabhu and Śrī Rūpa —
+
+## 63
+
+> Subheading: Though they are transcendental teachers of *brāhmaṇas* and *ācāryas* of the Vaiṣṇavas, out of humility and regard for propriety the three do not wish to enter the Jagannātha temple —
+
+## 68
+
+> Subheading: The Lord's unfeigned affection and mercy toward Rūpa —
+
+## 71
+
+> Subheading: The Lord shows Svarūpa the verse composed by Śrī Rūpa and questions him —
+
+## 76
+
+**he sahacari** (friend), **saḥ** (my beloved) **ayam** (dear, delight of life) **kṛṣṇaḥ** **kurukṣetra-militaḥ** (met at Kurukṣetra), **tathā sā rādhā aham** (and I am that same Rādhā), **ubhayoḥ tat idam** **saṅgama-sukham** (the happiness of meeting of the two — though happiness has come from our mutual meeting), **tathāpi** (still) **antaḥ-khelan-madhura-muralī-pañcama-juṣe** (to the forest that enjoys the sweet fifth *rāga* of the flute playing within — in the depths of the heart or in the midst of Vṛndā's forest) **kālindī-pulina-vipināya** (to the forest on the bank of the Kālindī, that is, the Yamunā: that secluded forest thick with trees on her bank — to Vṛndāvana, standing on the Yamunā's bank, full of the sound of the flute) **me** (my) **manaḥ** (heart) **spṛhayati** (longs — burns with eagerness to go there).
+
+## 77
+
+> Subheading: The verse expresses the Lord's mood on seeing Jagannātha —
+
+## 78
+
+> Subheading: Rādhikā's mood on seeing Kṛṣṇa at Kurukṣetra —
+
+## 79
+
+> Subheading: The longing to have Kṛṣṇa among the humble *gopīs* of Vraja, making Him give up prescribed duties (*vidhi-dharma*) and majesty —
+
+## 81
+
+> Subheading: The eagerness to find Kṛṣṇa in their own home (*Śrīmad-Bhāgavatam* 10.82.48) —
+
+The words of the *gopīs* to Kṛṣṇa after the cowherds and *gopīs* met, at Syamantapañcaka in Kurukṣetra, the Vṛṣṇis headed by Kṛṣṇa.
+
+**gopyaḥ āhuḥ ca** (the *gopīs* said) **he nalinanābha** (O Lotus-navelled One — Padmanābha), **agādha-bodhaiḥ** (by those whose intelligence is deep — who have reached the summit of wisdom) **yogeśvaraiḥ** (by the lords of yoga — withdrawn from sense objects) **hṛdi** (in the heart — in the mind) **vicintyaṁ** (worthy of contemplation in every way) **saṁsāra-kūpa-patitottaraṇāvalambaṁ** (the support for lifting up those fallen into the well of *saṁsāra*: *saṁsāra* itself is the well; for those fallen into it, for their lifting up, their deliverance, a support, that is, a shelter, a means of liberation for those attached to sense objects) **te** (Your) **padāravindaṁ** (lotus feet) **gehaṁ** (home — the cowherd dwelling, Vṛndāvana) **juṣām** (of those who dwell [in it] — the *gopīs*, by nature devoted to household duties) **naḥ** (our) **manasi** (in the mind) **sadā udiyāt** (may they ever arise) [Your lotus feet are able to lift up those immersed in the taste of worldly objects, and they are the object of meditation of yogis free from sense objects; but they could not lift up us, who are by nature devoted to household duties and plunged in the ocean of separation from You, for we are not yogis absorbed in meditation, nor wretched worldly people who delight in talk of husbands, sons and the like].
+
+## 82
+
+> Subheading: The longing for union after a long separation —
+
+The *gopīs* are wholly devoted to pure service to Kṛṣṇa. They do not serve because they are enchanted by Kṛṣṇa's majesty or by any similar grandeur; therefore they never have any liking for the elephants, horses and royal dress of Kurukṣetra. Just as Kṛṣṇa, the beloved of the *gopīs*, is bound only by the *gopīs'* spotless love, so the *gopīs* too are the eternal maidservants of that very beloved of the *gopīs*. Yogis who have withdrawn from sense objects and whose minds are fixed on Him alone meditate on the Lord of inconceivable power. But those who are absorbed in sense objects take shelter at the feet of Hari for the sake of the welfare of their own bodies, sons, wives and the rest in this world, for the growth of worldly prosperity, or to be freed from their own cycle of birth and death. The *gopīs* have no such meditative effort or skill in good works. With all their senses, with body, mind and speech, they are absorbed in the pure service of Kṛṣṇa. Having renounced both dry, tasteless reasoning and worldly *rasa* — whether absent or present — the *gopīs* do not want their own beloved to be busy with others' affairs or, having become a person of dignity, to live elsewhere. Having established the son of the king of Vraja in Vṛndāvana, the *gopīs* find happiness only in pleasing Him by service to Kṛṣṇa, with body, mind and speech.
+
+## 84
+
+> Subheading: The longing to renew, after separation, a meeting made sweet forever by memory (*Lalita-mādhava* 10.38) —
+
+Śrī Kṛṣṇa asked Śrīmatī Rādhikā to ask for a boon she desired. Then Śrīmatī said:
+
+**līlā-rasa-parimalodgāri-vanyā-parītā** (surrounded by a forest [*vanyā*] that exhales the fragrance of the *rasa* of Your pastimes — a forest that has enclosed it with many trees) **māthurī** (belonging to Mathurā) **mādhurībhiḥ** (with beauties) **vṛtā** (embraced) **dhanyā** (worthy of praise), **yā te** (Your) **kṣauṇī** (land of Vraja) **vilasati** (shines, plays), **tatra** (there — in the city of Vraja) **caṭula-paśupī-bhāva-mugdhāntarābhiḥ** (by those whose minds are restless and enchanted by the mood of a cowherd girl, that is, a *gopī*) **asmābhiḥ** (by us, the *gopīs*) **saṁvītaḥ** (surrounded, joined with us) **vadanollāsi-veṇuḥ** (with a flute whose habit is to resound joyfully from the lips) **tathābhūtaḥ san** (being so), **smita-vadanottha-gopy-unmādi-muralī-ninādakārī tvaṁ** (You, whose flute, born of a smiling mouth, drives the *gopīs* mad) **vihāraṁ** (pastimes) **kalaya** (perform).
+
+## 75–84
+
+See Madhya 13.121–159.
+
+## 85
+
+> Subheading: Because of separation, the longing to take Jagannātha to Vraja —
+
+## 87
+
+> Subheading: The Lord, filled with Rādhikā's mood on seeing Uddhava —
+
+***Unmāda*** is divine madness (*divyonmāda*), which includes *udghūrṇā*, *citra-jalpa* and the rest. The *Ujjvala-nīlamaṇi* says: “A certain wondrous variety [of states], resembling delusion, in one who has attained some state (*gati*) of this *bhāva* called *mohana*, is called *divyonmāda*. Its kinds, *udghūrṇā*, *citra-jalpa* and others, are many.”
+
+In *adhirūḍha-mahābhāva* there are two kinds, *modana* and *mādana*. The *modana bhāva* in the state of separation (*viśleṣa*) is known as “*mohana*.” In *mohana*, in the helplessness caused by separation, the *sāttvika-bhāvas* blaze brightly. “A certain wondrous variety [of states] in one who has attained an indescribable state (*gati*) and disposition (*vṛtti*) is *divyonmāda*.” That is, a certain inexpressible state of *mohana*, reached in a special disposition and full of a variety resembling delusion, is called “*divyonmāda*”; it has many kinds, such as *udghūrṇā* and *citra-jalpa*.
+
+***Udghūrṇā*** is a distinctive state accompanied by various helpless acts. “*Udghūrṇā* is a distinctive state shown in various helpless acts. For example: ‘Rādhā, tormented by the delusion of separation from You, at one moment makes a bed in a bower as *vāsaka-sajjā*; at another, having taken the state of *khaṇḍitā* and fallen into a rage (*caṇḍī*), she scolds the blue cloud; at another, in the agitation of hurrying to a tryst (*abhisāra*), she reels in dreadful darkness — what state does she not assume?’” Uddhava said to Kṛṣṇa: “Rādhā, tormented by the delusion of separation from You, at times arranges a bed in a bower as *vāsaka-sajjā*, at times, becoming *khaṇḍitā*, rebukes the blue cloud, at times, becoming an *abhisārikā*, wanders in thick darkness — what state does she not assume!”[^87-1]
+
+## 88
+
+> Subheading: The last 12 years: the Lord's separation from Kṛṣṇa —
+
+## 89
+
+> Subheading: The Lord's limitless pastimes —
+
+## 90
+
+> Subheading: The author only points the way —
+
+## 91
+
+> Subheading: First the Lord's *sannyāsa*, then the journey to Vṛndāvana —
+
+The *sannyāsa* of Śrī Mahāprabhu is not like the *sannyāsa* of the *karmīs* or the *jñānīs*. Having accepted *sannyāsa*, He displayed the pastime of traveling to Vṛndāvana. *Sannyāsa* is renunciation of non-Vaiṣṇava life: to serve Śrī Kṛṣṇa favorably (*anuśīlana*), free from mundane thoughts of enjoyment — that is what taking *sannyāsa* means. “Renunciation (*vairāgya*) is called proper when one, unattached, uses objects as is fitting, firmly relating them to Kṛṣṇa.”[^91-1] The *jñānī-sannyāsī*, turned away from the service of Hari and unable to understand the transcendental truth, regards things connected with Hari as mundane.
+
+## 92
+
+> Subheading: Three days of wandering in Rāḍha-deśa —
+
+## 93
+
+> Subheading: By Nityānanda's trick, the Lord comes to Navadvīpa —
+
+## 94
+
+> Subheading: Alms and *kīrtana* at Advaita's house in Śāntipura —
+
+## 95
+
+> Subheading: Meeting with His mother and the devotees, and the journey to Purī —
+
+## 91–95
+
+See Madhya, Chapter 3.
+
+## 96
+
+> Subheading: On the road to Purī: the story of Mādhavendra Purī at Remuṇā and the *darśana* of Gopīnātha —
+
+By the words “Śrī Mādhavapurī” Śrī Mādhavendra Purī is meant. Śrī Vallabha Bhaṭṭa, of the branch of Śrī Gadādhara Paṇḍita Gosvāmī, took the *tridaṇḍa* from Śrī Mādhavācārya, the author of the *Śrīmaṅgala-bhāṣya*. Śrī Mādhavācārya is a different person from Śrī Mādhavendra Purī.
+
+## 97
+
+> Subheading: The story of Sākṣi-gopāla, and Nityānanda's breaking of the Lord's staff —
+
+***Kṣīra-corā Gopīnātha*** resides at the *śrīpāṭa* of Remuṇā (five miles west of Balasore station on the B. N. R. line). The servitor (*sevāyet*) of the present temple, Śyāmasundara Adhikārī, is a disciple [in the line] of Śrī Rasikānanda Murāri, a successor of Śrī Śyāmānanda Prabhu, from the *śrīpāṭa* of Gopīvallabhapura, at the edge of the Midnapore district.
+
+***Sākṣi-gopāla.*** The temple stands in the village called Satyavādī, a short distance from the station of that name on the B. N. R. line on the way to Purī. In the time of Śrī Mahāprabhu the temple of Sākṣi-gopāla was in the city of Kaṭaka (see the *Amṛta-pravāha-bhāṣya* on Madhya 5.8).
+
+## 96–97
+
+See Madhya, Chapters 4 and 5.
+
+## 98
+
+> Subheading: Going alone to see Jagannātha, the Lord faints —
+
+## 99
+
+> Subheading: The Lord is brought to Sārvabhauma's house and regains consciousness —
+
+## 100
+
+> Subheading: Then the meeting with Nityānanda and the other devotees —
+
+## 101
+
+> Subheading: Mercy to Sārvabhauma, and the showing of the six-armed form —
+
+See Madhya 6.201–204.
+
 ---
 
 [^35-1]: Unclear: the edition prints *trayī trayī* (literally “triad, triad”); the meaning is not established, and the words are rendered literally.
 
 [^35-2]: The edition has *sadbhir ādyaiḥ* (“by the good, the first”); by the sense one would expect *ṣaḍbhir ādyaiḥ* (“by the first six”). Translated as printed.
+
+[^53-1]: The sentence breaks off at the foot of one column with the word meaning “facing the Guṇḍicā temple” and resumes in the next column without a verb; it is rendered here according to the sense.
+
+[^87-1]: In the edition the second verse (“makes a bed in a bower…”) has no source given; it contains the word *vyavahati*, whose sense in this context is unclear; it is rendered according to the paraphrase given after the verse.
+
+[^91-1]: *Bhakti-rasāmṛta-sindhu* 1.2.255.

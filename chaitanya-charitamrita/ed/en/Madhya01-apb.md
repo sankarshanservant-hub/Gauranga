@@ -55,3 +55,53 @@ The Lord and the Lord's devotees were not happy without meeting one another.
 ## 51
 
 The pastime of the *gopīs'* separation from Kṛṣṇa was always awake in the Lord's inner being, that is, in His *antaḥkaraṇa*.
+
+## 53
+
+When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord's inner being the mood of separation from Kṛṣṇa was aroused. Only at those times when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
+
+## 56
+
+Not finding satisfaction in the meeting at Kurukṣetra, He constantly felt in His heart: “I will take Kṛṣṇa to Vraja and meet Him there.”
+
+## 58
+
+He who stole my heart in my youth, on the bank of the river Revā, has now become my husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state my heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
+
+## 59
+
+***The only Svarūpa.*** This verse was composed about an utterly lowly (*heya*) hero and heroine, fit to be rejected. The deep purport of the great love with which Mahāprabhu recited it was known to no one except Svarūpa Dāmodara.
+
+## 63
+
+Haridāsa Ṭhākura was a Kazi's son; fearing to violate the order of the temple, he did not go into the Śrī-mandira. Rūpa and Sanātana, considering themselves “lower than a blade of grass” and thinking that their right of entry was the same as that of people of low birth, also did not go into the Śrī-mandira.
+
+## 64
+
+***Upala-bhoga*** — *chattra-bhoga*. All the other offerings (*bhoga*) of Jagannāthadeva are made inside the Maṇi-koṭhā. The great offering made after midday takes place on a large stone platform behind Garuḍa. *Upala* means “stone”; because this offering is made on the stone ground, it is called *upala-bhoga*.
+
+## 68
+
+***Uṭhi*** (“having risen”) — another reading: *uhāi*.
+
+## 76
+
+O friend! My most beloved Kṛṣṇa has met Me today at Kurukṣetra, and I am that same Rādhā; and the joy of our union is the same. Even so, My heart longs for the forest on the bank of the Kālindī, flooded with bliss by the fifth note of the flute that plays in the forest — the flute of this same Kṛṣṇa.
+
+## 81
+
+The *gopīs* said: “O Lotus-navelled One! May Your lotus feet — the one support for the rescue of those who have fallen into the well of *saṁsāra*, feet that the *yogeśvaras* of deep intelligence must always contemplate in their hearts — arise in the minds of us who are engaged in household life.”
+
+In some readings the following verse is found: (*Śrīmad-Bhāgavatam* 10.83.2) “Thus questioned by the Lord of the worlds and honored well, they replied with glad minds, for their sins had been destroyed by the sight of His feet.”
+
+## 84
+
+O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over with forests that diffuse the fragrance of the *rasa* of Your pastimes, surrounded by the beauties of the Mathurā district, and served by us *gopīs*, whose minds are enchanted by love. O Vaṁśīvadana, join us and again engage in that pastime.
+
+## 87
+
+***Udghūrṇā-pralāpa*** — ravings and the like that arise from various helpless acts.
+
+## 94
+
+***The first alms.*** After wandering for several days following His *sannyāsa*, He accepted the first offering of food (*anna-bhikṣā*) at the house of Advaita Prabhu.
