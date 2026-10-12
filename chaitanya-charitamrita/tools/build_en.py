@@ -39,6 +39,9 @@ def build(chap):
     lila, nn = re.match(r'([A-Za-z]+)(\d+)', chap).groups()
     rows = json.load(open(os.path.join(ROOT, 'ed', 'work', 'rows-%s.json' % chap), encoding='utf-8'))
     title, items, notes = parse(os.path.join(ROOT, 'ed', 'en', 'work', '%s.txt' % chap))
+    p2 = os.path.join(ROOT, 'ed', 'en', 'work', '%s.p2.txt' % chap)   # вторая часть этапа А длинной главы
+    if os.path.exists(p2):
+        t2, i2, n2 = parse(p2); title = title or t2; items.update(i2); notes += n2
     out = ['“Śrī Caitanya-caritāmṛta”  ', LILA[lila] + '  ', 'Chapter %d  ' % int(nn), '**%s**  ' % title,
            '(translated from the Bengali for this edition)', '']
     errs, done = [], 0
