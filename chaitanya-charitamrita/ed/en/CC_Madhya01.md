@@ -636,165 +636,207 @@ of that  verse  of the meaning  a verse  composed  right there
 আপন বাসার চালে রাখিল গুঞ্জিয়া ॥ ৬১ ॥
 
 śloka kari’ eka tāla-patrete likhiyā  
-āpana vāsāra cāle rākhila guñjiyā
+the verse  composing  on a  palm leaf  writing  
+āpana vāsāra cāle rākhila guñjiyā  
+of his own  dwelling  in the thatch  he put  tucking
 
-(61) [not yet translated]
+(61) Having composed the verse and written it on a palm leaf, he tucked it into the thatched roof of his dwelling.
 
 শ্লোক রাখি’ গেলা সমুদ্রস্নান করিতে ৷  
 হেনকালে আইলা প্রভু তাঁহারে মিলিতে ॥ ৬২ ॥
 
 śloka rākhi’ gelā samudra-snāna karite  
-hena-kāle āilā prabhu tāṅhāre milite
+the verse  leaving  he went  bath in the sea  to take  
+hena-kāle āilā prabhu tāṅhāre milite  
+at that time  came  the Lord  him  to meet
 
-(62) [not yet translated]
+(62) Leaving the verse there, he went to bathe in the sea, and at that very time the Lord came to meet him.
 
 হরিদাস ঠাকুর, শ্রীরূপ-সনাতন ৷  
 জগন্নাথ-মন্দিরে না যা’ন তিনজন ॥ ৬৩ ॥
 
 haridāsa ṭhākura, śrī rūpa-sanātana  
-jagannātha-mandire nā yā’na tina-jana
+Haridāsa Ṭhākura  Śrī  Rūpa and Sanātana  
+jagannātha-mandire nā yā’na tina-jana  
+into Jagannātha’s temple  not  go  the three
 
-(63) [not yet translated]
+(63) Haridāsa Ṭhākura, Śrī Rūpa and Sanātana — these three did not go into the temple of Jagannātha.
 
 মহাপ্রভু জগন্নাথের উপল-ভোগ দেখিয়া ৷  
 নিজগৃহে যা’ন এই তিনেরে মিলিয়া ॥ ৬৪ ॥
 
 mahāprabhu jagannāthera upala-bhoga dekhiyā  
-nija-gṛhe yā’na ei tinere miliyā
+Mahāprabhu  Jagannātha’s  upala-bhoga  having seen  
+nija-gṛhe yā’na ei tinere miliyā  
+to His own residence  goes  these  three  having met
 
-(64) [not yet translated]
+(64) After seeing Jagannātha’s *upala-bhoga* offering, Mahāprabhu would meet these three and then go to His own residence.
 
 এই তিন মধ্যে যবে থাকে যেই জন ৷  
 তাঁরে আসি’ আপনে মিলে, — প্রভুর নিয়ম ॥ ৬৫ ॥
 
 ei tina madhye yabe thāke yei jana  
-tāṅre āsi’ āpane mile, — prabhura niyama
+these  three  among  when  is present  whichever  person  
+tāṅre āsi’ āpane mile, — prabhura niyama  
+him  coming  Himself  He meets  the Lord’s  rule
 
-(65) [not yet translated]
+(65) Whichever of the three was there at the time, the Lord would come and meet him Himself — this was His rule.
 
 দৈবে আসি’ প্রভু যবে ঊর্দ্ধ্বেতে চাহিল ৷  
 চালে গোঁজা তালপত্রে সেই শ্লোক পাইল ॥ ৬৬ ॥
 
 daive āsi’ prabhu yabe ūrdhvete cāhila  
-cāle goṅjā tāla-patre sei śloka pāila
+by chance  having come  the Lord  when  upward  looked  
+cāle goṅjā tāla-patre sei śloka pāila  
+in the thatch  tucked  on the palm leaf  that  verse  He found
 
-(66) [not yet translated]
+(66) When the Lord came and by chance looked up, He found that verse on the palm leaf tucked into the thatch.
 
 শ্লোক পড়ি’ আছে প্রভু আবিষ্ট হইয়া ৷  
 রূপগোসাঞি আসি’ পড়ে দণ্ডবৎ হঞা ॥ ৬৭ ॥
 
 śloka paḍi’ āche prabhu āviṣṭa haiyā  
-rūpa-gosāñi āsi’ paḍe daṇḍavat hañā
+the verse  having read  remains  the Lord  absorbed (in ecstasy)  becoming  
+rūpa-gosāñi āsi’ paḍe daṇḍavat hañā  
+Rūpa Gosāñi  coming  falls  like a rod  becoming
 
-(67) [not yet translated]
+(67) Having read the verse, the Lord stood absorbed in ecstasy. Rūpa Gosāñi came and fell before Him flat like a rod.
 
 উঠি’ মহাপ্রভু তাঁরে চাপড় মারিয়া ৷  
 কহিতে লাগিলা কিছু কোলেতে করিয়া ॥ ৬৮ ॥
 
 uṭhi’ mahāprabhu tāṅre cāpaḍa māriyā  
-kahite lāgilā kichu kolete kariyā
+getting up  Mahāprabhu  him  a slap  giving  
+kahite lāgilā kichu kolete kariyā  
+to speak  began  something  in His arms  taking
 
-(68) [not yet translated]
+(68) Mahāprabhu got up, gave him a slap, took him in His arms and said:
 
 মোর শ্লোকের অভিপ্রায় না জানে কোন জনে ৷  
 মোর মনের কথা তুঞি জানিলি কেমনে ? ॥ ৬৯ ॥
 
 mora ślokera abhiprāya nā jāne kona jane  
-mora manera kathā tuñi jānili kemane?
+of My  verse  the intent  not  knows  any  person  
+mora manera kathā tuñi jānili kemane?  
+of My  mind  the words  you  knew  how
 
-(69) [not yet translated]
+(69) “No one knows the intent of My verse. How did you know what was in My mind?”
 
 এত বলি’ তাঁরে বহু প্রসাদ করিয়া ৷  
 স্বরূপ-গোসাঞিরে শ্লোক দেখাইল লঞা ॥ ৭০ ॥
 
 eta bali’ tāṅre bahu prasāda kariyā  
-svarūpa-gosāñire śloka dekhāila lañā
+so  saying  to him  much  favour  showing  
+svarūpa-gosāñire śloka dekhāila lañā  
+to Svarūpa Gosāñi  the verse  He showed  taking
 
-(70) [not yet translated]
+(70) Saying this, He showed him great favour, and then took the verse and showed it to Svarūpa Gosāñi.
 
 স্বরূপে পুছেন প্রভু হইয়া বিস্মিতে ৷  
 মোর মনের কথা রূপ জানিল কেমতে ॥ ৭১ ॥
 
 svarūpe puchena prabhu haiyā vismite  
-mora manera kathā rūpa jānila kemate
+Svarūpa  asks  the Lord  being  astonished  
+mora manera kathā rūpa jānila kemate  
+of My  mind  the words  Rūpa  knew  how
 
-(71) [not yet translated]
+(71) Astonished, the Lord asked Svarūpa, “How did Rūpa know what is in My mind?”
 
 স্বরূপ কহে, — যাতে জানিল তোমার মন ৷  
 তাতে জানি, — হয় তোমার কৃপার ভাজন ॥ ৭২ ॥
 
 svarūpa kahe, — yāte jānila tomāra mana  
-tāte jāni, — haya tomāra kṛpāra bhājana
+Svarūpa  says  since  he knew  Your  mind  
+tāte jāni, — haya tomāra kṛpāra bhājana  
+from that  I know  he is  of Your  mercy  a recipient
 
-(72) [not yet translated]
+(72) Svarūpa said, “Since he knew Your mind, I know from this that he has received Your mercy.”
 
 প্রভু কহে, — তারে আমি সন্তুষ্ট হঞা ৷  
 আলিঙ্গন কৈলুঁ সর্ব্বশক্তি সঞ্চারিয়া ॥ ৭৩ ॥
 
 prabhu kahe, — tāre āmi santuṣṭa hañā  
-āliṅgana kailuṅ sarva-śakti sañcāriyā
+the Lord  says  with him  I  pleased  being  
+āliṅgana kailuṅ sarva-śakti sañcāriyā  
+embrace  I made  all  potencies  infusing
 
-(73) [not yet translated]
+(73) The Lord said, “Pleased with him, I embraced him and infused all potencies into him.
 
 যোগ্যপাত্র হয় গূঢ়রস-বিবেচনে ৷  
 তুমিও কহিও তারে গূঢ়রসাখ্যানে ॥ ৭৪ ॥
 
 yogya-pātra haya gūḍha-rasa-vivecane  
-tumio kahio tāre gūḍha-rasākhyāne
+a worthy  recipient  he is  of confidential  rasa  for discerning  
+tumio kahio tāre gūḍha-rasākhyāne  
+you also  speak  to him  in explaining the confidential rasa
 
-(74) [not yet translated]
+(74) He is a worthy recipient for discerning the confidential *rasa*. You too should speak to him and explain that confidential *rasa*.”
 
 এসব কহিব আগে বিস্তার করিঞা ৷  
 সংক্ষেপে উদ্দেশ কৈল প্রস্তাব পাইঞা ॥ ৭৫ ॥
 
 e saba kahiba āge vistāra kariñā  
-saṅkṣepe uddeśa kaila prastāva pāiñā
+this  all  I shall tell  later  in detail  making  
+saṅkṣepe uddeśa kaila prastāva pāiñā  
+briefly  mention  I made  occasion  finding
 
-(75) [not yet translated]
+(75) All this I shall tell later in detail; here, finding the occasion, I have mentioned it briefly.
 
 প্রিয়ঃ সোঽয়ং কৃষ্ণঃ সহচরি কুরুক্ষেত্রমিলিত-  
 স্তথাহং সা রাধা তদিদমুভয়োঃ সঙ্গমসুখম্ ৷  
 তথাপ্যন্তঃ-খেলন্মধুরমুরলীপঞ্চমজুষে  
 মনো মে কালিন্দীপুলিনবিপিনায় স্পৃহয়তি ॥ ৭৬ ॥
 
-priyaḥ so ‘yaṁ kṛṣṇaḥ saha-cari kuru-kṣetra-militas  
+priyaḥ so ’yaṁ kṛṣṇaḥ saha-cari kuru-kṣetra-militas  
+beloved  that  very  Kṛṣṇa  O companion  at Kurukṣetra  met  
 tathāhaṁ sā rādhā tad idam ubhayoḥ saṅgama-sukham  
+likewise  I  that  Rādhā  that  this  of both  of union  the joy  
 tathāpy antaḥ-khelan-madhura-muralī-pañcama-juṣe  
-mano me kālindī-pulina-vipināya spṛhayati
+yet  within  playing  sweet  of the flute  the fifth note  delighting in  
+mano me kālindī-pulina-vipināya spṛhayati  
+mind  My  of the Kālindī  bank  for the forest  longs
 
-(76) [not yet translated]
+(76) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī 387)
 
 এই শ্লোকের সংক্ষেপার্থ শুন, ভক্তগণ ৷  
 জগন্নাথ দেখি’ যৈছে প্রভুর ভাবন ॥ ৭৭ ॥
 
 ei ślokera saṅkṣepārtha śuna, bhakta-gaṇa  
-jagannātha dekhi’ yaiche prabhura bhāvana
+of this  verse  the brief meaning  hear  O devotees  
+jagannātha dekhi’ yaiche prabhura bhāvana  
+Jagannātha  seeing  how  the Lord’s  feeling
 
-(77) [not yet translated]
+(77) Hear, O devotees, the brief meaning of this verse — how the Lord felt on seeing Jagannātha.
 
 শ্রীরাধিকা কুরুক্ষেত্রে কৃষ্ণের দরশন ৷  
 যদ্যপি পায়েন, তবু ভাবেন ঐছন ॥ ৭৮ ॥
 
 śrī-rādhikā kurukṣetre kṛṣṇera daraśana  
-yadyapi pāyena, tabu bhāvena aichana
+Śrī Rādhikā  at Kurukṣetra  of Kṛṣṇa  the sight  
+yadyapi pāyena, tabu bhāvena aichana  
+although  She obtains  still  She thinks  thus
 
-(78) [not yet translated]
+(78) Although Śrī Rādhikā obtains the sight of Kṛṣṇa at Kurukṣetra, She still thinks:
 
 রাজবেশ, হাতী, ঘোড়া, মনুষ্য গহন ৷  
 কাঁহা গোপ-বেশ, কাঁহা নির্জ্জন বৃন্দাবন ॥ ৭৯ ॥
 
 rāja-veśa, hātī, ghoḍā, manuṣya gahana  
-kāṅhā gopa-veśa, kāṅhā nirjana vṛndāvana
+royal dress  elephants  horses  of people  a throng  
+kāṅhā gopa-veśa, kāṅhā nirjana vṛndāvana  
+where is  the cowherd’s dress  where is  secluded  Vṛndāvana
 
-(79) [not yet translated]
+(79) “Royal dress, elephants, horses and crowds of people! Where is His cowherd dress, where is secluded Vṛndāvana?
 
 সেই ভাব, সেই কৃষ্ণ, সেই বৃন্দাবন ৷  
 যবে পাই, তবে হয় বাঞ্ছিত পূরণ ॥ ৮০ ॥
 
 sei bhāva, sei kṛṣṇa, sei vṛndāvana  
-yabe pāi, tabe haya vāñchita pūraṇa
+that  mood  that  Kṛṣṇa  that  Vṛndāvana  
+yabe pāi, tabe haya vāñchita pūraṇa  
+when  I obtain  then  there will be  of My desire  fulfilment
 
-(80) [not yet translated]
+(80) Only when I regain that mood, that Kṛṣṇa and that Vṛndāvana will My desire be fulfilled.”
 
 আহুশ্চ তে নলিননাভ পদারবিন্দং  
 যোগেশ্বরৈর্হৃদি বিচিন্ত্যমগাধবোধৈঃ ৷  
@@ -802,27 +844,35 @@ yabe pāi, tabe haya vāñchita pūraṇa
 গেহং জুষামপি মনস্যুদিয়াৎ সদা নঃ ॥ ৮১ ॥
 
 āhuś ca te nalina-nābha padāravindaṁ  
+they said  and  Your  O lotus-naveled Lord  lotus feet  
 yogeśvarair hṛdi vicintyam agādha-bodhaiḥ  
+by the masters of yoga  in the heart  meditated upon  of fathomless wisdom  
 saṁsāra-kūpa-patitottaraṇāvalambaṁ  
-gehaṁ juṣām api manasy udiyāt sadā naḥ
+of worldly life  into the well  of the fallen  for rescue  the support  
+gehaṁ juṣām api manasy udiyāt sadā naḥ  
+to home  attached  even  in the mind  may they rise  always  our
 
-(81) [not yet translated]
+(81) And they said: “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate on Your lotus feet within their hearts; those feet are the support that rescues those fallen into the well of worldly life. May they always rise in our minds too, though we are attached to our homes.” (Śrīmad-Bhāgavatam 10.82.48)
 
 তোমার চরণ মোর ব্রজপুরঘরে ৷  
 উদয় করয়ে যদি, তবে বাঞ্ছা পূরে ॥ ৮২ ॥
 
 tomāra caraṇa mora vraja-pura-ghare  
-udaya karaye yadi, tabe vāñchā pūre
+Your  feet  in My  of Vraja  village  home  
+udaya karaye yadi, tabe vāñchā pūre  
+rising  they make  if  then  desire  is fulfilled
 
-(82) [not yet translated]
+(82) “If Your feet rise in My home in the village of Vraja, then My desire will be fulfilled.”
 
 ভাগবতের শ্লোকার্থ বিচার করিঞা ৷  
 রূপ-গোসাঞি শ্লোক কৈল লোক বুঝাইঞা ॥ ৮৩ ॥
 
 bhāgavatera ślokārtha vicara kariñā  
-rūpa-gosāñi śloka kaila loka bujhāiñā
+of the Bhāgavata  the meaning of the verse  consideration  making  
+rūpa-gosāñi śloka kaila loka bujhāiñā  
+Rūpa Gosāñi  a verse  composed  to the people  explaining
 
-(83) [not yet translated]
+(83) Having considered the meaning of this verse of the *Bhāgavata*, Rūpa Gosāñi composed a verse that explains it to people.
 
 যা তে লীলারসপরিমলোদ্গারিবন্যাপরীতা ৷  
 ধন্যা ক্ষৌণী বিলসতি বৃতা মাথুরী মাধুরীভিঃ ৷  
@@ -830,59 +880,75 @@ rūpa-gosāñi śloka kaila loka bujhāiñā
 সম্বীতস্ত্বং কলয় বদনোল্লাসি-বেণুবিহারম্ ॥ ৮৪ ॥
 
 yā te līlā-rasa-parimalodgāri-vanyāparītā  
+which  of Your  pastimes  of the nectar  the fragrance  exhaling  by forests  surrounded  
 dhanyā kṣauṇī vilasati vṛtā māthurī mādhurībhiḥ  
+blessed  land  shines  encircled  of Mathurā  with charms  
 tatrāsmābhiś caṭula-paśupī-bhāva-mugdhāntarābhiḥ  
-saṁvītas tvaṁ kalaya vadanollāsi-veṇu-vihāram
+there  by us  playful  of cowherd girls  by the mood  enchanted  whose hearts  
+saṁvītas tvaṁ kalaya vadanollāsi-veṇu-vihāram  
+surrounded  You  enjoy  at Your lips  shining  with the flute  pastimes
 
-(84) [not yet translated]
+(84) “The blessed land of Mathurā shines, encircled by its charms and by forests that exhale the fragrance of the nectar of Your pastimes. There, surrounded by us, whose hearts are enchanted by the mood of playful cowherd girls, enjoy Your pastimes with the flute shining at Your lips.” (Lalita-mādhava 10.38)
 
 এইরূপ মহাপ্রভু দেখি’ জগন্নাথে ৷  
 সুভদ্রা-সহিত দেখে, বংশী নাহি হাতে ॥ ৮৫ ॥
 
 ei-rūpa mahāprabhu dekhi’ jagannāthe  
-subhadrā-sahita dekhe, vaṁśī nāhi hāte
+in this way  Mahāprabhu  seeing  Jagannātha  
+subhadrā-sahita dekhe, vaṁśī nāhi hāte  
+with Subhadrā  together  He sees  the flute  not  in the hand
 
-(85) [not yet translated]
+(85) Thus, when Mahāprabhu looked at Jagannātha, He saw Him with Subhadrā and with no flute in His hand.
 
 ত্রিভঙ্গসুন্দর ব্রজে ব্রজেন্দ্রনন্দন ৷  
 কাঁহা পাব, এই বাঞ্ছা করে অনুক্ষণ ॥ ৮৬ ॥
 
 tri-bhaṅga-sundara vraje vrajendra-nandana  
-kāṅhā pāba, ei vāñchā kare anukṣaṇa
+beautiful in His threefold bending  in Vraja  the son of Vraja’s king  
+kāṅhā pāba, ei vāñchā kare anukṣaṇa  
+where  shall I find  this  desire  He has  constantly
 
-(86) [not yet translated]
+(86) “Where in Vraja shall I find the son of the king of Vraja, beautiful in His threefold bending?” — this was His constant desire.
 
 রাধিকা-উন্মাদ যৈছে উদ্ধব-দর্শনে ৷  
 উদ্ঘূর্ণা প্রলাপ তৈছে প্রভুর রাত্রি দিনে ॥ ৮৭ ॥
 
 rādhikā-unmāda yaiche uddhava-darśane  
-udghūrṇā-pralāpa taiche prabhura rātri-dine
+Rādhikā’s  madness  as  on seeing Uddhava  
+udghūrṇā-pralāpa taiche prabhura rātri-dine  
+bewildered  raving  so  the Lord’s  night and day
 
-(87) [not yet translated]
+(87) Just as Rādhikā fell into divine madness on seeing Uddhava, so the Lord, night and day, spoke in the bewildered raving (*udghūrṇā*) of that madness.
 
 দ্বাদশ বৎসর শেষ ঐছে গোঙাইল ৷  
 এই মত শেষ লীলার বিধান করিল ॥ ৮৮ ॥
 
 dvādaśa vatsara śeṣa aiche goṅāila  
-ei mata śeṣa līlāra vidhāna karila
+twelve  years  the last  thus  He passed  
+ei mata śeṣa līlāra vidhāna karila  
+thus  of the final  pastimes  the arrangement  I have set out
 
-(88) [not yet translated]
+(88) Thus He passed the last twelve years. In this way I have set out the arrangement of the final pastimes.
 
 সন্ন্যাস করি’ চব্বিশ বৎসর কৈল যে যে কর্ম্ম ৷  
 অনন্ত, অপার — তার কে জানিবে মর্ম্ম ॥ ৮৯ ॥
 
 sannyāsa kari’ cabbiśa vatsara kaila ye ye karma  
-ananta, apāra — tāra ke jānibe marma
+sannyāsa  having taken  twenty-four  years  He did  whatever  whatever  deeds  
+ananta, apāra — tāra ke jānibe marma  
+endless  boundless  of them  who  will know  the heart
 
-(89) [not yet translated]
+(89) Whatever He did during the twenty-four years after taking sannyāsa is endless and boundless — who can know its inner meaning?
 
 উদ্দেশ করিতে করি দিগ্দরশন ৷  
 মুখ্য-মুখ্য-লীলার করি সূত্র গণন ॥ ৯০ ॥
 
 uddeśa karite kari dig-daraśana  
-mukhya-mukhya-līlāra kari sūtra gaṇana
+a pointer  to give  I make  an indication of direction  
+mukhya-mukhya-līlāra kari sūtra gaṇana  
+of the principal  principal  pastimes  I make  of the sūtras  enumeration
 
-(90) [not yet translated]
+(90) Just to give a pointer, I offer a glimpse and list the sūtras of the principal pastimes.
 
 প্রথম সূত্র প্রভুর সন্ন্যাসকরণ ৷  
 সন্ন্যাস করি’ চলিলা প্রভু শ্রীবৃন্দাবন ॥ ৯১ ॥
@@ -2081,289 +2147,361 @@ Hari  Hari  call  all  with joyful hearts
 মুকুন্দ, জগদানন্দ, মুরারি, বক্রেশ্বর ॥ ২১৯ ॥
 
 nityānanda, haridāsa, śrīvāsa, gadādhara  
-mukunda, jagadānanda, murāri, vakreśvara
+Nityānanda  Haridāsa  Śrīvāsa  Gadādhara  
+mukunda, jagadānanda, murāri, vakreśvara  
+Mukunda  Jagadānanda  Murāri  Vakreśvara
 
-(219) [not yet translated]
+(219) Nityānanda, Haridāsa, Śrīvāsa, Gadādhara, Mukunda, Jagadānanda, Murāri and Vakreśvara were there.
 
 সবার চরণে ধরি’ পড়ে দুই ভাই ৷  
 সবে বলে, — ধন্য তুমি, পাইলে গোসাঞি ॥ ২২০ ॥
 
 sabāra caraṇe dhari’ paḍe dui bhāi  
-sabe bale, — dhanya tumi, pāile gosāñi
+of all  the feet  clasping  fall  the two  brothers  
+sabe bale, — dhanya tumi, pāile gosāñi  
+all  say  blessed  you are  you have attained  the Gosāñi
 
-(220) [not yet translated]
+(220) The two brothers clasped the feet of each of them and fell down, and all said: “You are blessed — you have attained the Lord.”
 
 সবা-পাশ আজ্ঞা মাগি’ চলন-সময় ৷  
 প্রভু-পদে কহে কিছু করিয়া বিনয় ॥ ২২১ ॥
 
 sabā-pāśa ājñā māgi’ calana-samaya  
-prabhu-pade kahe kichu kariyā vinaya
+from all  permission  asking  at the time of leaving  
+prabhu-pade kahe kichu kariyā vinaya  
+at the Lord's feet  they say  something  showing  humility
 
-(221) [not yet translated]
+(221) Asking leave of everyone, at the time of departure they humbly spoke to the Lord at His feet:
 
 ইঁহা হৈতে চল, প্রভু, ইঁহা নাহি কাজ ৷  
 যদ্যপি তোমারে ভক্তি করে গৌড়রাজ ॥ ২২২ ॥
 
 iṅhā haite cala, prabhu, iṅhā nāhi kāja  
-yadyapi tomāre bhakti kare gauḍa-rāja
+here  from  go  O Lord  here  there is no  business  
+yadyapi tomāre bhakti kare gauḍa-rāja  
+although  You  devotion  shows  the king of Gauḍa
 
-(222) [not yet translated]
+(222) “Leave this place, O Lord; there is nothing for You here. Although the king of Gauḍa shows You devotion,
 
 তথাপি যবনজাতি, না করিহ প্রতীতি ৷  
 তীর্থযাত্রায় এত সংঘট্ট ভাল নহে রীতি ॥ ২২৩ ॥
 
 tathāpi yavana jāti, nā kariha pratīti  
-tīrtha-yātrāya eta saṅghaṭṭa bhāla nahe rīti
+still  a Muslim  by birth  not  do  trust  
+tīrtha-yātrāya eta saṅghaṭṭa bhāla nahe rīti  
+on pilgrimage  such  a crowd  good  is not  the custom
 
-(223) [not yet translated]
+(223) he is still a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
 
 যাঁহা সঙ্গে চলে এই লোক লক্ষকোটি ৷  
 বৃন্দাবন যাইবার এ নহে পরিপাটী ॥ ২২৪ ॥
 
 yāṅhā saṅge cale ei loka lakṣa-koṭi  
-vṛndāvana yāivāra e nahe paripāṭī
+with whom  together  go  these  people  in hundreds of thousands  
+vṛndāvana yāivāra e nahe paripāṭī  
+to Vṛndāvana  for going  this  is not  the proper manner
 
-(224) [not yet translated]
+(224) To go to Vṛndāvana with hundreds of thousands of people following is not the proper manner.”
 
 যদ্যপি বস্তুতঃ প্রভুর কিছু নাহি ভয় ৷  
 তথাপি লৌকিকলীলা, লোক-চেষ্টাময় ॥ ২২৫ ॥
 
 yadyapi vastutaḥ prabhura kichu nāhi bhaya  
-tathāpi laukika-līlā, loka-ceṣṭā-maya
+although  in truth  of the Lord  any  there is no  fear  
+tathāpi laukika-līlā, loka-ceṣṭā-maya  
+still  a worldly pastime  of human behavior  full
 
-(225) [not yet translated]
+(225) Although in truth the Lord has nothing to fear, still His pastime here is human-like and full of ordinary human conduct.
 
 এত বলি’ চরণ বন্দি’ গেলা দুইজন ৷  
 প্রভুর সেই গ্রাম হৈতে চলিতে হৈল মন ॥ ২২৬ ॥
 
 eta bali’ caraṇa vandi’ gelā dui-jana  
-prabhura sei grāma haite calite haila mana
+thus  saying  His feet  saluting  went  the two  
+prabhura sei grāma haite calite haila mana  
+of the Lord  that  village  from  to leave  arose  the mind
 
-(226) [not yet translated]
+(226) Saying this, the two saluted His feet and left, and the Lord resolved to leave that village.
 
 প্রাতে চলি’ আইলা প্রভু ‘কানাইর নাটশালা’ ৷  
 দেখিল সকল তাঁহা কৃষ্ণচরিত্র-লীলা ॥ ২২৭ ॥
 
 prāte cali’ āilā prabhu ‘kānāira nāṭaśālā’  
-dekhila sakala tāṅhā kṛṣṇa-caritra-līlā
+in the morning  setting out  came  the Lord  to Kānāi's  Nāṭaśālā  
+dekhila sakala tāṅhā kṛṣṇa-caritra-līlā  
+He saw  all  there  of Kṛṣṇa's deeds  the pastimes
 
-(227) [not yet translated]
+(227) Setting out in the morning, the Lord came to Kānāi's Nāṭaśālā, and there He saw depicted all the pastimes of Kṛṣṇa.
 
 সেই রাত্রে প্রভু তাঁহা চিন্তে মনে মন ৷  
 সঙ্গে সংঘট্ট ভাল নহে, বলে সনাতন ॥ ২২৮ ॥
 
 sei rātre prabhu tāṅhā cinte mane mana  
-saṅge saṅghaṭṭa bhāla nahe, bale sanātana
+that  night  the Lord  there  ponders  in His mind  within  
+saṅge saṅghaṭṭa bhāla nahe, bale sanātana  
+with Him  a crowd  good  is not  says  Sanātana
 
-(228) [not yet translated]
+(228) That night the Lord pondered within Himself: “Sanātana says it is not good to travel with a crowd.
 
 মথুরা যাইব আমি এত লোক-সঙ্গে ৷  
 কিছু সুখ না হইবে, হবে রসভঙ্গে ॥ ২২৯ ॥
 
 mathurā yāiba āmi eta loka-saṅge  
-kichu sukha nā haibe, habe rasa-bhaṅge
+to Mathurā  will go  I  so many  with people  
+kichu sukha nā haibe, habe rasa-bhaṅge  
+any  happiness  not  there will be  there will be  a break of rasa
 
-(229) [not yet translated]
+(229) If I go to Mathurā with so many people, there will be no happiness in it; the *rasa* will be spoiled.
 
 একাকী যাইব, কিম্বা সঙ্গে একজন ৷  
 তবে সে শোভয়ে বৃন্দাবনেরে গমন ॥ ২৩০ ॥
 
 ekākī yāiba, kimbā saṅge eka jana  
-tabe se śobhaye vṛndāvanere gamana
+alone  I will go  or  with Me  one  person  
+tabe se śobhaye vṛndāvanere gamana  
+then  only  becomes beautiful  to Vṛndāvana  the journey
 
-(230) [not yet translated]
+(230) I shall go alone, or with just one companion; only then will the journey to Vṛndāvana be graceful.”
 
 এত চিন্তি’ প্রাতঃকালে গঙ্গাস্নান করি’ ৷  
 ‘নীলাচলে যাব’ বলি’ চলিলা গৌরহরি ॥ ২৩১ ॥
 
 eta cinti’ prātaḥ-kāle gaṅgā-snāna kari’  
-‘nīlācale yāba’ bali’ calilā gaurahari
+thus  thinking  in the morning  in the Gaṅgā a bath  taking  
+‘nīlācale yāba’ bali’ calilā gaurahari  
+to Nīlācala I will go  saying  set out  Gaurahari
 
-(231) [not yet translated]
+(231) Thinking this, Gaurahari bathed in the Gaṅgā in the morning and set out, saying, “I shall go to Nīlācala.”
 
 এই মত চলি’ চলি’ আইলা শান্তিপুরে ৷  
 দিন পাঁচ-সাত রহিলা আচার্য্যের ঘরে ॥ ২৩২ ॥
 
 ei mata cali’ cali’ āilā śāntipure  
-dina pāṅca-sāta rahilā ācāryera ghare
+in this  way  walking  walking  He came  to Śāntipura  
+dina pāṅca-sāta rahilā ācāryera ghare  
+days  five or seven  He stayed  of the Ācārya  at the house
 
-(232) [not yet translated]
+(232) Walking on in this way He came to Śāntipura and stayed five or seven days at the Ācārya's house.
 
 শচীদেবী আসি’ তাঁরে কৈল নমস্কার ৷  
 সাত দিন তাঁর ঠাঞি ভিক্ষা-ব্যবহার ॥ ২৩৩ ॥
 
 śacī-devī āsi’ tāṅre kaila namaskāra  
-sāta dina tāṅra ṭhāñi bhikṣā-vyavahāra
+Śacīdevī  coming  to Him  made  obeisance  
+sāta dina tāṅra ṭhāñi bhikṣā-vyavahāra  
+seven  days  her  at the place  the taking of meals
 
-(233) [not yet translated]
+(233) Śacīdevī came and offered Him her obeisance, and for seven days He took His meals from her.
 
 তাঁর আজ্ঞা লঞা পুনঃ করিলা গমনে ৷  
 বিনয় করিয়া বিদায় দিল ভক্তগণে ॥ ২৩৪ ॥
 
 tāṅra ājñā lañā punaḥ karilā gamane  
-vinaya kariyā vidāya dila bhakta-gaṇe
+her  permission  taking  again  He made  the journey  
+vinaya kariyā vidāya dila bhakta-gaṇe  
+humility  showing  leave  gave  to the devotees
 
-(234) [not yet translated]
+(234) Taking her permission, He set out again, and He humbly bade the devotees farewell:
 
 জনা দুই সঙ্গে আমি যাব নীলাচলে ৷  
 আমারে মিলিবা আসি’ রথযাত্রা-কালে ॥ ২৩৫ ॥
 
 janā dui saṅge āmi yāba nīlācale  
-āmāre milibā āsi’ ratha-yātrā-kāle
+persons  two  with Me  I  will go  to Nīlācala  
+āmāre milibā āsi’ ratha-yātrā-kāle  
+Me  you will meet  coming  at the time of the Ratha-yātrā
 
-(235) [not yet translated]
+(235) “I shall go to Nīlācala with two companions. Come and meet Me at the time of the Ratha-yātrā.”
 
 বলভদ্র ভট্টাচার্য্য, আর পণ্ডিত দামোদর ৷  
 দুইজন-সঙ্গে প্রভু আইলা নীলাচল ॥ ২৩৬ ॥
 
 balabhadra bhaṭṭācārya, āra paṇḍita dāmodara  
-dui-jana-saṅge prabhu āilā nīlācala
+Balabhadra  Bhaṭṭācārya  and  Paṇḍita  Dāmodara  
+dui-jana-saṅge prabhu āilā nīlācala  
+with the two persons  the Lord  came  to Nīlācala
 
-(236) [not yet translated]
+(236) With two companions — Balabhadra Bhaṭṭācārya and Dāmodara Paṇḍita — the Lord came to Nīlācala.
 
 দিন কত রহি’ তাঁহা চলিলা বৃন্দাবন ৷  
 লুকাঞা চলিলা রাত্রে, না জানে কোন জন ॥ ২৩৭ ॥
 
 dina kata rahi’ tāṅhā calilā vṛndāvana  
-lukāñā calilā rātre, nā jāne kona jana
+days  a few  staying  there  He set out  for Vṛndāvana  
+lukāñā calilā rātre, nā jāne kona jana  
+secretly  He went  at night  not  knows  any  person
 
-(237) [not yet translated]
+(237) After staying there a few days He set out for Vṛndāvana, leaving secretly at night without anyone knowing.
 
 বলভদ্র ভট্টাচার্য্য রহে মাত্র সঙ্গে ৷  
 ঝারিখণ্ড-পথে কাশী আইলা নানারঙ্গে ॥ ২৩৮ ॥
 
 balabhadra bhaṭṭācārya rahe mātra saṅge  
-jhārikhaṇḍa-pathe kāśī āilā nānā-raṅge
+Balabhadra  Bhaṭṭācārya  remains  only  with Him  
+jhārikhaṇḍa-pathe kāśī āilā nānā-raṅge  
+by the Jhārikhaṇḍa road  to Kāśī  He came  in many delights
 
-(238) [not yet translated]
+(238) Only Balabhadra Bhaṭṭācārya stayed with Him. By the forest road of Jhārikhaṇḍa He came to Kāśī, enjoying many wonderful pastimes on the way.
 
 দিন চারি কাশীতে রহি’ গেলা বৃন্দাবন ৷  
 মথুরা দেখিয়া দেখে দ্বাদশ কানন ॥ ২৩৯ ॥
 
 dina cāri kāśīte rahi’ gelā vṛndāvana  
-mathurā dekhiyā dekhe dvādaśa kānana
+days  four  in Kāśī  staying  He went  to Vṛndāvana  
+mathurā dekhiyā dekhe dvādaśa kānana  
+Mathurā  seeing  He sees  twelve  forests
 
-(239) [not yet translated]
+(239) After staying four days in Kāśī He went to Vṛndāvana; having seen Mathurā, He visited the twelve forests.
 
 লীলাস্থল দেখি’ প্রেমে হইলা অস্থির ৷  
 বলভদ্র কৈল তাঁরে মথুরার বাহির ॥ ২৪০ ॥
 
 līlā-sthala dekhi’ preme ha-ilā asthira  
-balabhadra kaila tāṅre mathurāra bāhira
+the places of the pastimes  seeing  in love  He became  restless  
+balabhadra kaila tāṅre mathurāra bāhira  
+Balabhadra  brought  Him  of Mathurā  outside
 
-(240) [not yet translated]
+(240) Seeing the places of the pastimes, He became overwhelmed with love, and Balabhadra led Him away from Mathurā.
 
 গঙ্গাতীর-পথে লঞা প্রয়াগে আইলা ৷  
 শ্রীরূপ প্রভুরে আসি’ তথাই মিলিলা ॥ ২৪১ ॥
 
 gaṅgā-tīra-pathe lañā prayāge āilā  
-śrī-rūpa prabhure āsi’ tathāi mililā
+by the road along the Gaṅgā  taking  to Prayāga  he came  
+śrī-rūpa prabhure āsi’ tathāi mililā  
+Śrī Rūpa  the Lord  coming  right there  met
 
-(241) [not yet translated]
+(241) Taking Him along the road beside the Gaṅgā, Balabhadra came to Prayāga, and there Śrī Rūpa came and met the Lord.
 
 দণ্ডবৎ করি’ রূপ ভূমিতে পড়িলা ৷  
 পরম আনন্দে প্রভু আলিঙ্গন দিলা ॥ ২৪২ ॥
 
 daṇḍavat kari’ rūpa bhūmite paḍilā  
-parama ānande prabhu āliṅgana dilā
+obeisance  making  Rūpa  on the ground  fell  
+parama ānande prabhu āliṅgana dilā  
+in supreme  joy  the Lord  an embrace  gave
 
-(242) [not yet translated]
+(242) Rūpa fell to the ground in obeisance, and the Lord embraced him in supreme joy.
 
 শ্রীরূপে শিক্ষা করাই’ পাঠা’ন বৃন্দাবন ৷  
 আপনে করিলা বারাণসী আগমন ॥ ২৪৩ ॥
 
 śrī-rūpe śikṣā karāi’ pāṭhā’na vṛndāvana  
-āpane karilā vārāṇasī āgamana
+Śrī Rūpa  instruction  giving  sends  to Vṛndāvana  
+āpane karilā vārāṇasī āgamana  
+Himself  made  to Vārāṇasī  coming
 
-(243) [not yet translated]
+(243) Having instructed Śrī Rūpa, He sent him to Vṛndāvana, and He Himself came to Vārāṇasī.
 
 কাশীতে প্রভুকে আসি’ মিলিলা সনাতন ৷  
 দুই মাস রহি’ তাঁরে করাইল শিক্ষণ ॥ ২৪৪ ॥
 
 kāśīte prabhuke āsi’ mililā sanātana  
-dui māsa rahi’ tāṅre karāila śikṣaṇa
+in Kāśī  the Lord  coming  met  Sanātana  
+dui māsa rahi’ tāṅre karāila śikṣaṇa  
+two  months  staying  him  He gave  instruction
 
-(244) [not yet translated]
+(244) In Kāśī Sanātana came and met the Lord, who stayed two months and instructed him.
 
 মথুরা পাঠাইলা তাঁরে দিয়া ভক্তিবল ৷  
 সন্ন্যাসীরে কৃপা করি’ গেলা নীলাচল ॥ ২৪৫ ॥
 
 mathurā pāṭhāilā tāṅre diyā bhakti-bala  
-sannyāsīre kṛpā kari’ gelā nīlācala
+to Mathurā  He sent  him  giving  the strength of bhakti  
+sannyāsīre kṛpā kari’ gelā nīlācala  
+to the sannyāsī  mercy  showing  He went  to Nīlācala
 
-(245) [not yet translated]
+(245) He sent him to Mathurā, investing him with the strength of *bhakti*; then, after showing mercy to the *sannyāsī*, He went to Nīlācala.
 
 ছয় বৎসর প্রভু ঐছে করিলা বিলাস ৷  
 কভু ইতি-উতি গতি, কভু ক্ষেত্রবাস ॥ ২৪৬ ॥
 
 chaya vatsara prabhu aiche karilā vilāsa  
-kabhu iti-uti gati, kabhu kṣetra-vāsa
+six  years  the Lord  thus  enjoyed  pastimes  
+kabhu iti-uti gati, kabhu kṣetra-vāsa  
+sometimes  here and there  wandering  sometimes  dwelling in the Kṣetra
 
-(246) [not yet translated]
+(246) For six years the Lord enjoyed such pastimes, sometimes wandering here and there, sometimes living in the Kṣetra (Purī).
 
 আনন্দে ভক্ত-সঙ্গে সদা কীর্ত্তন-বিলাস ৷  
 জগন্নাথ-দরশন, প্রেমের বিলাস ॥ ২৪৭ ॥
 
 ānande bhakta-saṅge sadā kīrtana-vilāsa  
-jagannātha-daraśana, premera vilāsa
+in joy  with the devotees  always  pastimes of kīrtana  
+jagannātha-daraśana, premera vilāsa  
+seeing Jagannātha  of love  the pastimes
 
-(247) [not yet translated]
+(247) With the devotees He always enjoyed *kīrtana* in bliss, beheld Jagannātha and sported in love.
 
 মধ্যলীলার কৈলুঁ এই সূত্র-বিবরণ ৷  
 অন্ত্যলীলার সূত্র এবে শুন, ভক্তগণ ॥ ২৪৮ ॥
 
 madhya-līlāra kailuṅ ei sūtra-vivaraṇa  
-antya-līlāra sūtra ebe śuna, bhakta-gaṇa
+of the Madhya-līlā  I have made  this  summary in sūtras  
+antya-līlāra sūtra ebe śuna, bhakta-gaṇa  
+of the Antya-līlā  the sūtras  now  hear  O devotees
 
-(248) [not yet translated]
+(248) Thus I have given the *sūtras* (summary) of the Madhya-līlā. Now, O devotees, hear the *sūtras* of the Antya-līlā.
 
 বৃন্দাবন হৈতে যদি নীলাচলে আইলা ৷  
 আঠার বর্ষ তাঁহা বাস, কাঁহা নাহি গেলা ॥ ২৪৯ ॥
 
 vṛndāvana haite yadi nīlācale āilā  
-āṭhāra varṣa tāṅhā vāsa, kāṅhā nāhi gelā
+Vṛndāvana  from  when  to Nīlācala  He came  
+āṭhāra varṣa tāṅhā vāsa, kāṅhā nāhi gelā  
+eighteen  years  there  dwelling  anywhere  not  went
 
-(249) [not yet translated]
+(249) After He returned from Vṛndāvana to Nīlācala, He lived there eighteen years and went nowhere else.
 
 প্রতিবর্ষ আইসেন তাঁহা গৌড়ের ভক্তগণ ৷  
 চারি মাস রহে প্রভুর সঙ্গে সম্মিলন ॥ ২৫০ ॥
 
 prativarṣa āisena tāṅhā gauḍera bhakta-gaṇa  
-cāri māsa rahe prabhura saṅge sammilana
+every year  come  there  of Gauḍa  the devotees  
+cāri māsa rahe prabhura saṅge sammilana  
+four  months  last  with the Lord  together  the meeting
 
-(250) [not yet translated]
+(250) Every year the devotees of Gauḍa came there and stayed four months in the Lord's company.
 
 নিরন্তর নৃত্যগীত কীর্ত্তন-বিলাস ৷  
 আ-চণ্ডালে প্রেমভক্তি করিলা প্রকাশ ॥ ২৫১ ॥
 
 nirantara nṛtya-gīta kīrtana-vilāsa  
-ā-caṇḍāle prema-bhakti karilā prakāśa
+constantly  dancing and singing  pastimes of kīrtana  
+ā-caṇḍāle prema-bhakti karilā prakāśa  
+down to the caṇḍāla  loving devotion  He made  manifest
 
-(251) [not yet translated]
+(251) Constantly He sang and danced in the joy of *kīrtana*, and revealed loving devotion (*prema-bhakti*) to all, even to the *caṇḍālas*.
 
 পণ্ডিত-গোসাঞি কৈল নীলাচলে বাস ৷  
 বক্রেশ্বর, দামোদর, শঙ্কর, হরিদাস ॥ ২৫২ ॥
 
 paṇḍita-gosāñi kaila nīlācale vāsa  
-vakreśvara, dāmodara, śaṅkara, haridāsa
+the Paṇḍita Gosāñi  made  in Nīlācala  residence  
+vakreśvara, dāmodara, śaṅkara, haridāsa  
+Vakreśvara  Dāmodara  Śaṅkara  Haridāsa
 
-(252) [not yet translated]
+(252) Gadādhara Paṇḍita Gosāñi lived in Nīlācala, and so did Vakreśvara, Dāmodara, Śaṅkara and Haridāsa,
 
 জগদানন্দ, ভবানন্দ, গোবিন্দ, কাশীশ্বর ৷  
 পরমানন্দপুরী, আর স্বরূপ-দামোদর ॥ ২৫৩ ॥
 
 jagadānanda, bhavānanda, govinda, kāśīśvara  
-paramānanda-purī, āra svarūpa-dāmodara
+Jagadānanda  Bhavānanda  Govinda  Kāśīśvara  
+paramānanda-purī, āra svarūpa-dāmodara  
+Paramānanda Purī  and  Svarūpa Dāmodara
 
-(253) [not yet translated]
+(253) Jagadānanda, Bhavānanda, Govinda, Kāśīśvara, Paramānanda Purī and Svarūpa Dāmodara.
 
 ক্ষেত্রবাসী রামানন্দ রায় প্রভৃতি ৷  
 প্রভুসঙ্গে এই সব কৈল নিত্য স্থিতি ॥ ২৫৪ ॥
 
 kṣetra-vāsī rāmānanda rāya prabhṛti  
-prabhu-saṅge ei saba kaila nitya sthiti
+residents of the Kṣetra  Rāmānanda  Rāya  and others  
+prabhu-saṅge ei saba kaila nitya sthiti  
+with the Lord  these  all  made  constant  stay
 
-(254) [not yet translated]
+(254) Rāmānanda Rāya and the other residents of the Kṣetra all remained constantly with the Lord.
 
 অদ্বৈত, নিত্যানন্দ, মুকুন্দ, শ্রীবাস ৷  
 বিদ্যানিধি, বাসুদেব, মুরারি, — যত দাস ॥ ২৫৫ ॥
@@ -2372,11 +2510,15 @@ prabhu-saṅge ei saba kaila nitya sthiti
 তাঁ-সবা লঞা প্রভুর বিবিধ বিলাস ॥ ২৫৬ ॥
 
 advaita, nityānanda, mukunda, śrīvāsa  
+Advaita  Nityānanda  Mukunda  Śrīvāsa  
 vidyānidhi, vāsudeva, murāri, — yata dāsa  
+Vidyānidhi  Vāsudeva  Murāri  all the servants  
 prativarṣe āise saṅge, rahe cāri-māsa  
-tāṅ-sabā lañā prabhura vividha vilāsa
+every year  come  together  stay  four months  
+tāṅ-sabā lañā prabhura vividha vilāsa  
+them all  taking  the Lord's  various  pastimes
 
-(255–256) [not yet translated]
+(255–256) Advaita, Nityānanda, Mukunda, Śrīvāsa, Vidyānidhi, Vāsudeva, Murāri and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.
 
 হরিদাসের সিদ্ধিপ্রাপ্তি, — অদ্ভুত সে সব ৷  
 আপনি মহাপ্রভু যাঁর কৈল মহোৎসব ॥ ২৫৭ ॥
