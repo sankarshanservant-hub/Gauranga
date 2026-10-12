@@ -536,6 +536,74 @@ See Madhya 16.265–276.
 
 > Subheading: Śrī Gadādhara's *kṣetra-sannyāsa*, and the devotees who lived at Purī —
 
+## 255
+
+> Subheading: Every year the Gauḍīya devotees spend Cāturmāsya with the Lord —
+
+## 257
+
+> Subheading: The departure of Ṭhākura Haridāsa at Purī —
+
+**The departure of Ṭhākura Haridāsa**: see Antya, Chapter 11.
+
+## 258
+
+> Subheading: Śrī Rūpa's arrival at Purī —
+
+The infusion of *cit-śakti*, that is, of transcendental power. Without it — or with the infusion of *māyā-śakti* — the tendency toward enjoyment grows. See Antya, Chapter 1.
+
+## 259
+
+> Subheading: The punishment of Choṭa Haridāsa and Dāmodara Paṇḍita's “punishment in words” —
+
+**Choṭa Haridāsa**: see Antya, Chapter 2. **Dāmodara's “punishment in words”** (*vākya-daṇḍa*): see Antya, Chapter 3.
+
+The warning that ignorant people, not understanding the Lord, will criticize Him, is itself the “punishment in words” directed at the Lord. In the view of devotees, such words from Dāmodara Paṇḍita are only words in the form of a punishment. To go and warn the one who is able both to punish and to show favor is merely to meddle where one has no right.
+
+## 260
+
+> Subheading: Śrī Sanātana's arrival at Purī —
+
+**Sanātana**: see Antya, Chapter 4.
+
+## 261
+
+> Subheading: The Lord sends Sanātana to Vṛndāvana; the meal at Advaita's house —
+
+**The Lord's meal, taken alone, at Advaita's house**: see the *Caitanya-bhāgavata*, Antya, Chapter 8.
+
+## 262
+
+> Subheading: The Lord sends Nityānanda to Gauḍa to preach the name and love —
+
+**The order to Śrī Nityānanda to preach the name and love in Gauḍa**: see Madhya 15.42 and 16.59–67.
+
+## 263
+
+> Subheading: The fall of Vallabha Bhaṭṭa's pride, and hearing the glory of Kṛṣṇa's name —
+
+**Vallabha Bhaṭṭa**: in the seventh chapter of Antya, on the matter of Vallabha Bhaṭṭa; see Madhya, Chapter 19 and Antya, Chapter 7.
+
+Vallabha Bhaṭṭa had received the name-*mantra* from Śrī Gadādhara Paṇḍita Gosvāmī, a dear associate of Śrī Gaurasundara. Therefore Mahāprabhu, regarding him as belonging to His own *sampradāya*, Himself explained the meaning of the name to him. According to this saying of the *Pañcarātra* — “Then, having purified the humble sons and others by the rite, one should instruct them”[^263-1] — Bhaṭṭa gained the right to hear the meaning of the name.
+
+## 264
+
+> Subheading: Rāya Rāmānanda, a Vaiṣṇava ācārya who was not a brāhmaṇa by birth (*aśaukra-vipra*), is accepted as guru by Pradyumna Miśra, a brāhmaṇa by birth (*śaukra-vipra*) —
+
+See Antya, Chapter 5.
+
+## 265
+
+> Subheading: The rescue of Gopīnātha, who had fallen under the king's anger —
+
+See Antya, Chapter 9.
+
+## 266
+
+> Subheading: The hostile Rāmacandra Purī rebukes the Lord, and the sorrow of the devotees —
+
+See Antya, Chapter 8.
+
 ---
 
 [^178-1]: *Manu-saṁhitā* 7.8. (The edition gives no number.)
@@ -547,3 +615,5 @@ See Madhya 16.265–276.
 [^203-1]: In the edition a closing parenthesis follows the last words (*sarvādhamatvāt … ādhikyam*) with no opening one; the clause is rendered as an explanation of the preceding sentence.
 
 [^208-1]: The edition gives no source.
+
+[^263-1]: A quotation from the *Pañcarātra*; the edition gives no source.
