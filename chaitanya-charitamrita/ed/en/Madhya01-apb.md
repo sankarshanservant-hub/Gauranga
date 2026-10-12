@@ -31,3 +31,15 @@ See Ādi 1.17.
 ## 35
 
 ***Bhāgavatāmṛta*** — the *Bṛhad-bhāgavatāmṛta*. ***Daśama-ṭippanī*** — the commentary on the Tenth Canto called *Bṛhad-vaiṣṇava-toṣaṇī*. ***Daśama-carita*** — the account of Kṛṣṇa's pastimes described in the Tenth Canto.
+
+## 37
+
+***Grantha*** — *anuṣṭubh* (a word-count measured as one *śloka*).
+
+## 39
+
+***Bahu-stavāvalī*** (many collections of hymns) — the book *Stava-mālā*.
+
+## 40
+
+***Govinda-virudāvalī*** is included in the *Stava-mālā*. ***Nāṭaka-varṇana*** — the *Nāṭaka-candrikā*.
