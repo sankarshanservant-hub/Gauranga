@@ -9,7 +9,7 @@
 изданию Гаудия Матха 1928 г., база лил). Работа идёт давно: Ади-лила готова, начинаем Мадхья-лилу. Мы работаем
 локально, без GitHub.
 
-1. Прочитай `CLAUDE.md` и `chaitanya-charitamrita/COORDINATOR.md` целиком (особенно § 2а «Локальный режим») — это
+1. Прочитай `chaitanya-charitamrita/FORMAT-simple.md` (короткий формат всех файлов главы), затем `CLAUDE.md` и `chaitanya-charitamrita/COORDINATOR.md` целиком (особенно § 2а «Локальный режим») — это
    полная инструкция; следуй ей. Затем `chaitanya-charitamrita/MADHYA-NOTES.md` — карта страниц скана по главам
    Мадхьи и особенности нумерации, найденные заранее.
 2. Выполни `bash chaitanya-charitamrita/tools/coord/setup.sh` и проверь вывод (tesseract с ben, CC_SS.pdf
