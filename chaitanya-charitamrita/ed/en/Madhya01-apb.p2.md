@@ -79,3 +79,11 @@ I make one petition before You. There is not a trace of falsehood in it — it i
 ## 206
 
 When, through constant service to You, will I be rid of every other desire and, at peace, as Your eternal servant, blossom with joy together with my life of service?
+
+## 211
+
+A woman in love with another man, even while busy with household chores, tastes in the depths of her heart the sweetness of a new, dear union.
+
+## 227
+
+*Kṛṣṇa-caritra-līlā*. In those days in many places in Gauḍa there was an arrangement called a “Kānāi-Nāṭaśālā.” At the Kānāi-Nāṭaśālā near Gauḍa the Lord saw many kinds of depictions of Kṛṣṇa's pastimes.

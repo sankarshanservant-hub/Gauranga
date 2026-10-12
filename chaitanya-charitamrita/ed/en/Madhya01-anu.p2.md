@@ -374,6 +374,168 @@ Blaspheming a *sādhu* is an offense. An offense born of blaspheming Viṣṇu i
 
 Śrī Mahāprabhu, giving them His mercy, named Dabira-khāsa “Rūpa” and Sākara-mallika “Sanātana.” At the *vaidhī* stage, for the *kaniṣṭha-adhikārī*, giving a name is one of the *saṁskāras*. Those who disregard the name-*prasāda* cannot hope for devotion to Hari: they are intoxicated with worldly fame. “Marking the body with the conch, the disc and other signs, and with the vertical *tilaka* and so on, is the sign (of a Vaiṣṇava); and so is the giving of a (Vaiṣṇava) name: this is what is called Vaiṣṇavism here.”[^208-1] Among the *prākṛta-sahajiyās* there is no giving of names that express service to Viṣṇu, and so in our time they cannot be called by the word “Gauḍīya Vaiṣṇavas.” Non-Vaiṣṇavas do not receive a name from a Vaiṣṇava guru; through the delusion of identifying with the body they do not know their relationship with Hari, and they are intoxicated with preserving the names and so on that suit their former *varṇa*.
 
+## 211
+
+> Subheading: The outward conduct of a devotee on the path of *rāga* —
+
+**para-vyasaninī** (**nija-pati-bhinna-para-puruṣa-saṅgāmodinī** — taking delight in meeting a man other than her husband) **nārī** (**kula-ramaṇī** — a married woman of a good family) **gṛha-karmasu** **vyagrā** (**pati-putra-sevādiṣu sevaika-paratā-pradarśana-parā** — intent on showing that she is devoted only to serving her husband, sons and the rest) **api** **antaḥ** (**hṛdayābhyantare** — in the depths of her heart) **tat** **nava-saṅga-rasāyanaṁ** (**nava-nava-kānta-saṅga-sukha-rasa-sthānam** — the source of the happiness and *rasa* of meeting an ever-new beloved) **eva** **āsvādayati** (tastes). (Just as a woman who loves another man, not her husband, busy with the duties of her home, living in the family, passes her days in the happiness of meeting her paramour (**jāra**), so clever Vaiṣṇavas, observing the prescribed *vaidhī* *varṇāśrama-dharma* and deceiving the foolish, make service to Hari, and that alone, the skill of their *bhajana*.)
+
+## 212
+
+> Subheading: The Lord comes to Rāmakeli to see Rūpa and Sanātana —
+
+## 214
+
+> Subheading: The Lord reassures the anxious brothers —
+
+## 216
+
+> Subheading: Both place the Lord's feet on their heads —
+
+## 217
+
+> Subheading: In mercy, the Lord appeals to the devotees on behalf of both —
+
+## 218
+
+> Subheading: The devotees' astonishment and joy —
+
+## 219
+
+> Subheading: The devotees who were with the Lord at Rāmakeli —
+
+## 220
+
+> Subheading: The brothers beg mercy at the feet of all the devotees and are told, “You are blessed” —
+
+## 221
+
+> Subheading: At parting, Sanātana gives the Lord good advice —
+
+## 224
+
+> Subheading: In the place of one's own *bhajana*, a crowd of outsiders is not needed —
+
+## 225
+
+> Subheading: Although He is the Supreme Lord Himself, in the role of an ācārya He gives the *kaniṣṭha-adhikārī* a chance to learn —
+
+## 221–225
+
+See Madhya 16.265–276.
+
+## 226
+
+> Subheading: The brothers take their leave —
+
+## 227
+
+> Subheading: From Rāmakeli to Kānāi's Nāṭaśālā —
+
+## 228
+
+> Subheading: On Sanātana's advice the Lord gives up the wish to go to Vṛndāvana —
+
+## 231
+
+> Subheading: On the way to Nīlācala, arrival at Śāntipura —
+
+## 233
+
+> Subheading: Seven days at Śāntipura —
+
+## 232–233
+
+See Madhya 16.212–216, 223, 234, 245–250 and the *Caitanya-bhāgavata*, Antya, Chapter 3.
+
+## 234
+
+> Subheading: The Lord takes leave of all the devotees and tells them to meet Him at Purī at the Ratha-yātrā —
+
+## 228–235
+
+See Madhya 16.265–276.
+
+## 236
+
+> Subheading: Arrival at Purī with Balabhadra and Dāmodara Paṇḍita —
+
+**Dāmodara**: see Ādi 10.31 and Antya, Chapter 3.
+
+## 237
+
+> Subheading: Setting out for Vṛndāvana after some days at Purī —
+
+## 238
+
+> Subheading: The Lord's only companion, Balabhadra Bhaṭṭa —
+
+## 236–238
+
+**Balabhadra**: see Ādi 10.146. **The Lord's journey to Kāśī by way of Jhārikhaṇḍa**: see Madhya 17.3–82.
+
+## 239
+
+> Subheading: Arrival at Kāśī and, after four days there, the journey to Mathurā —
+
+**The twelve forests** (*dvādaśa-kānana*): Kāmyavana, Tālavana, Tamālavana, Madhuvana, Kusumavana, Bhāṇḍīravana, Bilvavana, Bhadravana, Khadiravana, Lauhavana, Kumudavana and Gokula-Mahāvana.
+
+## 240
+
+> Subheading: Madness of love in Vṛndāvana, then by way of Mathurā to Prayāga —
+
+## 241
+
+> Subheading: Meeting Śrī Rūpa at Daśāśvamedha-ghāṭa in Prayāga —
+
+## 243
+
+> Subheading: After instructing Rūpa, the Lord sends him to Vṛndāvana and Himself goes to Kāśī —
+
+## 241–243
+
+**The meeting with Śrī Rūpa and his instruction**: see Madhya, Chapter 19.
+
+## 244
+
+> Subheading: Meeting Śrī Sanātana at Kāśī and instructing him —
+
+## 245
+
+> Subheading: The Lord sends Sanātana to the Mathurā district and delivers Prakāśānanda —
+
+## 244–245
+
+**The meeting with Śrī Sanātana and his instruction**: see Madhya, Chapter 20.
+
+## 246
+
+> Subheading: The “Madhya-līlā”: six years of going here and there —
+
+## 247
+
+> Subheading: At Purī, daily *kīrtana* with the devotees and darśana of Jagannātha —
+
+## 248
+
+> Subheading: The beginning of the *sūtras* of the Antya-līlā —
+
+## 249
+
+> Subheading: After the six years, the remaining eighteen years are spent only at Purī —
+
+## 250
+
+> Subheading: The Gauḍīya devotees stay with the Lord at Purī during Cāturmāsya —
+
+## 251
+
+> Subheading: Constant *kīrtana* of Kṛṣṇa and the giving of *prema-bhakti* —
+
+## 252
+
+> Subheading: Śrī Gadādhara's *kṣetra-sannyāsa*, and the devotees who lived at Purī —
+
 ---
 
 [^178-1]: *Manu-saṁhitā* 7.8. (The edition gives no number.)
