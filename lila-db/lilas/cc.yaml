@@ -6471,3 +6471,248 @@
   event: ev-brahma-samhita-adikeshava
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "120", to: "120"}
+
+- id: cc-0324
+  source: cc
+  ref: "Мадхья 1.121–126"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 60.1
+  title: "Сутра: возвращение в Нилачалу, Снана-ятра; в анавасару Господь в разлуке уходит в Алаланатху; Нитьянанда и Сарвабхаума возвращают Его; приходят гаудии, и киртан успокаивает Его"
+  summary: "Господь снова вернулся в Нилачалу и с преданными увидел Снана-ятру; в анавасару, не получая даршана Джаганнатхи, Он в разлуке ушёл в Алаланатху и пробыл там несколько дней; узнав, что идут преданные Гауды, Нитьянанда и Сарвабхаума настояли и привели Махапрабху обратно в Нилачалу. Господь дни и ночи проводил, охваченный разлукой; тогда пришли гаудии и, посовещавшись, начали киртан — в упоении киртаном ум Господа успокоился."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@nityananda", "@sarvabhauma"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 11. Приход гаудиев — ev-gauda-devotees-arrive-puri."
+  themes: [jagannatha, separation, kirtan]
+  calendar: "Снана-ятра; анавасара"
+  cc: "Мадхья 1"
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "121", to: "126"}
+
+- id: cc-0325
+  source: cc
+  ref: "Мадхья 1.127–128"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 8.6
+  title: "Сутра: по прежнему повелению Господа Рамананда Рай с дозволения царя приходит в Пури; дни и ночи — беседы о Кришне"
+  summary: "Ещё при встрече Господь велел Рамананде прийти в Нилачалу; получив дозволение царя, он через несколько дней пришёл, и Господь дни и ночи беседовал с Раманандой о Кришне."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 11."
+  themes: [teaching]
+  teaching: [prema]
+  cc: "Мадхья 1"
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "127", to: "128"}
+
+- id: cc-0326
+  source: cc
+  ref: "Мадхья 1.129–130"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 9.6
+  title: "Сутра: милость Каши Мишре, встреча с Прадьюмной Мишрой; приходят Парамананда Пури, Говинда и Кашишвара; радость встречи со Сварупой Дамодарой; Шикхи Махити и Бхавананда Рай"
+  summary: "Господь оказал милость Каши Мишре и встретился с Прадьюмной Мишрой и другими; пришли Парамананда Пури, Говинда и Кашишвара; встреча со Сварупой Дамодарой принесла Ему высшую радость; Он встретился также с Шикхи Махити и Бхаванандой Раем."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@pradyumna-mishra", "@paramananda-puri", "@govinda-servant", "@kashishvara", "@svarupa-damodara", "@shikhi-mahiti", "@bhavananda-raya"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 10. Упоминание: ev-kashi-mishra-residence, ev-govinda-ishvara-puri-servant, ev-bhavananda-raya-pandu."
+  themes: [mercy]
+  cc: "Мадхья 1"
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "129", to: "130"}
+
+- id: cc-0327
+  source: cc
+  ref: "Мадхья 1.131–132"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 20.2
+  title: "Сутра: приходят все вайшнавы Гауды; первая встреча с жителями Кулинаграмы; жители Кханды во главе с Нарахари Дасом приходят с Шиванандой Сеном"
+  summary: "Из Гауды пришли все вайшнавы; была первая встреча с жителями Кулина-грамы; все жители Кханды во главе с Нарахари Дасом пришли вместе с Шиванандой Сеном и встретились с Господом."
+  persons: ["@mahaprabhu", "@narahari-sarakara", "@shivananda-sena"]
+  places: ["#puri", "#gauda", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 11. Кханда — Шрикханда."
+  themes: [kirtan, mercy]
+  cc: "Мадхья 1"
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "131", to: "132"}
+
+- id: cc-0328
+  source: cc
+  ref: "Мадхья 1.133"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 65.1
+  title: "Сутра: после Снана-ятры Господь со всеми преданными очищает храм Гундичи"
+  summary: "Увидев Снана-ятру вместе с преданными, Господь взял всех и очистил храм Гундичи."
+  persons: ["@mahaprabhu"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 12."
+  themes: [jagannatha, festival]
+  cc: "Мадхья 1"
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "133", to: "133"}
+
+- id: cc-0329
+  source: cc
+  ref: "Мадхья 1.134"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 70.2
+  title: "Сутра: Ратха-ятра — Господь танцует перед колесницей и уходит в сад"
+  summary: "Вместе со всеми Господь видел Ратха-ятру; станцевав перед колесницей, Он ушёл в сад."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 13–14."
+  themes: [jagannatha, festival, kirtan]
+  calendar: "Ратха-ятра (ашадха)"
+  cc: "Мадхья 1"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "134", to: "134"}
+
+- id: cc-0330
+  source: cc
+  ref: "Мадхья 1.135–136"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 300.1
+  title: "Сутра: в саду — милость Пратапарудре; при прощании Господь велит гаудиям приходить каждый год на Ратха-ятру"
+  summary: "Там же, в саду, Господь оказал милость Пратапарудре. В день прощания Он велел преданным Гауды приходить каждый год на Ратха-ятру — под этим предлогом Он желал встречаться с преданными."
+  persons: ["@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 14–15. Прощание — ср. ev-gauda-devotees-yearly-visit."
+  themes: [mercy, jagannatha]
+  cc: "Мадхья 1"
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "135", to: "136"}
+
+- id: cc-0331
+  source: cc
+  ref: "Мадхья 1.137"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 85.1
+  title: "Сутра: пышная трапеза Господа в доме Сарвабхаумы; мать Шатхи говорит: «Пусть Шатхи станет вдовой»"
+  summary: "В доме Сарвабхаумы Господу было устроено пышное угощение, из-за чего мать Шатхи сказала: «Пусть Шатхи станет вдовой!»"
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Мадхья 15 (хула Амогхи, мужа Шатхи). Шатхи и её мать (жена Сарвабхаумы) — без тегов; Амогха в стихе не назван (у ВЧД — пояснение в переводе)."
+  themes: [prasada, offense]
+  cc: "Мадхья 1"
+  event: ev-amogha-cholera
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "137", to: "137"}
+
+- id: cc-0332
+  source: cc
+  ref: "Мадхья 1.138–139"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 120
+  title: "Сутра: на следующий год преданные во главе с Адвайтой снова идут к Господу; Шивананда Сен ведёт их и заботится обо всех"
+  summary: "На следующий год преданные во главе с Адвайтой снова отправились к Господу; Шивананда Сен с радостью вёл всех, давал им кров и заботился обо всех."
+  persons: ["@mahaprabhu", "@advaita", "@shivananda-sena"]
+  places: ["#gauda", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; ср. Мадхья 16, Антья 1. Ст. 139 — у ВЧД «Махапрабху разместил всех преданных» (подлежащее — Шивананда, ср. Антья 1; исправлено со сноской)."
+  themes: [pilgrimage, jagannatha]
+  years: [1513, 1513]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 1.138: «на следующий год» после первого прихода гаудиев (1512)"
+  cc: "Мадхья 1"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "138", to: "139"}
+
+- id: cc-0333
+  source: cc
+  ref: "Мадхья 1.140"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 121
+  title: "Сутра: с Шиванандой приходит удачливая собака и, увидев стопы Господа, уходит из этого мира"
+  summary: "Вместе с Шиванандой пришла удачливая собака; увидев стопы Господа, она исчезла (обрела освобождение)."
+  persons: ["@mahaprabhu", "@shivananda-sena"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Сутра; подробно — Антья 1."
+  themes: [mercy]
+  years: [1513, 1513]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 1.138–140: во второй год приходов гаудиев"
+  divergence: "В Мадхье 1 эпизод отнесён ко второму году приходов гаудиев (до путешествия Господа во Вриндаван); в Антье 1 он рассказан в начале антья-лилы, после возвращения Господа из Вриндавана; у Карнапуры (ЧЧд, акт 10) — «ещё до того, как Господь ходил в Матхуру»."
+  cc: "Мадхья 1"
+  event: ev-shivananda-dog
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "140", to: "140"}
+
+- id: cc-0334
+  source: cc
+  ref: "Мадхья 1.141"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 122
+  title: "Сутра: по пути гаудии встречают Сарвабхауму, уходящего в Каши"
+  summary: "В пути все встретились с Сарвабхаумой; Сарвабхаума Бхаттачарья уходил в Каши."
+  persons: ["@sarvabhauma"]
+  places: ["#kashi"]
+  kind: lila
+  authority: A
+  notes: "Сутра. Ст. 141 — у ВЧД «по пути в Варанаси преданные…» (в Каши шёл Сарвабхаума; исправлено со сноской). Событие по Карнапуре отнесено к последним годам (P14); в ЧЧ Мадхья 1 — ко второму году приходов гаудиев."
+  themes: [teaching, pilgrimage]
+  years: [1513, 1513]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 1.138–141: во второй год приходов гаудиев"
+  cc: "Мадхья 1"
+  event: ev-sarvabhauma-to-varanasi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "141", to: "141"}
+
+- id: cc-0335
+  source: cc
+  ref: "Мадхья 1.142–143"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md"
+  period: P12
+  order: 123
+  title: "Сутра: второй год — вайшнавы встречаются с Господом, игры в воде, очищение Гундичи и танец Господа на Ратха-ятре"
+  summary: "Все вайшнавы пришли и встретились с Господом; Господь со всеми играл в воде, со всеми очистил храм Гундичи и танцевал, глядя на Ратха-ятру."
+  persons: ["@mahaprabhu"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  notes: "Сутра; ср. Мадхья 16 (второй год). Продолжение перечня второго года — ст. 144 и далее."
+  themes: [jagannatha, festival, kirtan]
+  years: [1513, 1513]
+  date_conf: оценка
+  date_basis: "ЧЧ Мадхья 1.138: второй год приходов гаудиев"
+  calendar: "Ратха-ятра (ашадха)"
+  cc: "Мадхья 1"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md", from: "142", to: "143"}
