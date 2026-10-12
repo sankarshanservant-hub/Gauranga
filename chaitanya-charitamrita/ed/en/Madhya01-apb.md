@@ -58,7 +58,7 @@ The pastime of the *gopīs'* separation from Kṛṣṇa was always awake in the
 
 ## 53
 
-When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord's inner being the mood of separation from Kṛṣṇa was aroused. Only at those times when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
+When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord's inner being the mood of separation from Kṛṣṇa was awake, and only when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
 
 ## 56
 
@@ -66,11 +66,11 @@ Not finding satisfaction in the meeting at Kurukṣetra, He constantly felt in H
 
 ## 58
 
-He who stole My heart in My youth, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
+He who stole My heart in My girlhood, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
 
 ## 59
 
-***The only Svarūpa.*** This verse was composed about an utterly lowly (*heya*) hero and heroine, fit to be rejected. No one except Svarūpa Dāmodara knew the deep purport of why Mahāprabhu recited it with such great love.
+***Svarūpa alone.*** This verse was composed about an utterly contemptible (*heya*) hero and heroine. Why Mahāprabhu recited it with such great love — that deep purport no one knew except Svarūpa Dāmodara.
 
 ## 63
 
@@ -90,13 +90,13 @@ O friend! My most beloved Kṛṣṇa has met Me today at Kurukṣetra, and I am
 
 ## 81
 
-The *gopīs* said: “O Lotus-navelled One! May Your lotus feet — the one support for the rescue of those who have fallen into the well of *saṁsāra*, feet that the *yogeśvaras* of deep intelligence must always contemplate in their hearts — arise in the minds of us who are engaged in household life.”
+The *gopīs* said: “O Lotus-navelled One! Your lotus feet are the one support that rescues those who have fallen into the well of *saṁsāra*, and the *yogeśvaras* of deep intelligence must always contemplate them in their hearts. May they arise in the minds of us who are engaged in household life.”
 
 In some readings the following verse is found: (*Śrīmad-Bhāgavatam* 10.83.2) “Thus questioned by the Lord of the worlds and honored well, they replied with glad minds, for their sins had been destroyed by the sight of His feet.”
 
 ## 84
 
-O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over with forests that diffuse the fragrance of the *rasa* of Your pastimes, surrounded by the beauties of the Mathurā district, and served by us *gopīs*, whose minds are enchanted by love. O Vaṁśīvadana, join us and again engage in that pastime.
+O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over with forests that diffuse the fragrance of the *rasa* of Your pastimes, surrounded by the beauties of the Mathurā district, and served by us *gopīs*, whose minds are enchanted by love. O Vaṁśīvadana, join us and engage in that pastime.
 
 ## 87
 
@@ -116,7 +116,7 @@ O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over wit
 
 ## 122
 
-*Anavasara*. After the Snāna-yātrā, for several days, until the day before the darśana called “Navayauvana,” there is no darśana of Jagannātha. That period is called *anavasara*.
+*Anavasara*. After the Snāna-yātrā, for several days, until the eve of the darśana called “Navayauvana,” there is no darśana of Jagannātha. That period is called *anavasara*.
 
 ## 144
 
@@ -130,7 +130,7 @@ On His way to Vṛndāvana the Lord came to Gauḍa-maṇḍala and stayed in th
 
 After staying five days at Vidyānagara and seeing great crowds gather, the Lord came at night to the village of Kuliyā. In the *Śrī Caitanya-bhāgavata*, in the third chapter of the Antya-khaṇḍa, it is written: “With great love for the Gaṅgā, He came very quickly to the land of Gauḍa. Sārvabhauma's brother was named ‘Vidyā-vācaspati.’ … Suddenly He came and stopped at his house. From Navadvīpa onward the news spread in every direction: ‘The jewel of renunciates has come to Vācaspati's house.’ The Lord of Vaikuṇṭha came to Kuliyā. … Only the Gaṅgā lies between Nadiyā and Kuliyā. As soon as they heard, all the people ran in great joy.”
 
-If this chapter of the *Caitanya-bhāgavata* is read together with Locana dāsa's account, it will be clear that the place now known as “Navadvīpa” is the Kuliyā village of that time, on the other bank from ancient Navadvīpa. It was there that the offenses of Devānanda Paṇḍita, Gopāla Cāpāla and several others were forgiven. At that time, to go from Vidyānagara to Kuliyā one had to cross one branch of the Gaṅgā, and to go from Kuliyā to Navadvīpa one had to cross the main stream of the Bhāgīrathī. Even today, if one looks at these places, it appears that the Kuliyā village of that time consisted of quarters such as “Cināḍāṅgā,” and that the market of Kuliyā, now called “Koler-gañja,” and all that land remain as what is left of the Kuliyā of that time.
+If this chapter of the *Caitanya-bhāgavata* is read together with Locana dāsa's account, it will be clear that the place now known as “Navadvīpa” is the Kuliyā village of that time, on the other bank from ancient Navadvīpa. It was there that the offenses of Devānanda Paṇḍita, Gopāla Cāpāla and several others were forgiven. At that time, to go from Vidyānagara to Kuliyā one had to cross one branch of the Gaṅgā, and to go from Kuliyā to Navadvīpa one had to cross the main stream of the Bhāgīrathī. Even today a look at these places shows that the quarters of the Kuliyā of that time, such as “Cināḍāṅgā,” and the *gañja* (market) of Kuliyā, now called “Koler-gañja” — all that land is what remains of the Kuliyā of that time.
 
 ## 160–162
 
@@ -170,11 +170,11 @@ There is no sinner like me, and no offender like me. O Puruṣottama, I am asham
 
 ## 192–195
 
-You did not have to labor greatly to deliver Jagāi and Mādhāi. We are lower than they, and delivering us is a special task. Jagāi and Mādhāi were brāhmaṇas by birth who had not fallen from their position, and they lived in the great holy place Navadvīpa. Unlike us, they never served low people. They were not the “elbow” (*kūrpara*) of low people — low people did not maintain them; they were merely sinners. All sins are burned up by the mere *nāmābhāsa* of Your name. And since, while uttering Your name, they offended You, that very name became the cause of their release from sin.
+You did not have to labor greatly to deliver Jagāi and Mādhāi. We are lower than they, and delivering us is a special task. Jagāi and Mādhāi were brāhmaṇas by birth who had not fallen from their position, and they lived in the great holy place Navadvīpa. Unlike us, they never served low people. They were not the “elbow” (*kūrpara*) of low people — low people did not maintain them; they were merely sinners. All sins are burned up by the mere *nāmābhāsa* of Your name. And since, while uttering Your name, they blasphemed You, that very name became the cause of their release from sin.
 
 ## 197
 
-There are two kinds of *mlecchas*: *mlecchas* by birth, and *mlecchas* by association. As one who is a *mleccha* by birth, so we too are “companions of *mlecchas*.” Having fallen, we have done many *mleccha* deeds, and especially we have kept company with those *mlecchas* who are enemies of cows and brāhmaṇas.
+There are two kinds of *mlecchas*: *mlecchas* by birth, and *mlecchas* by association. We are “companions of *mlecchas*”: we keep company with those who are *mlecchas* by birth. Having fallen, we have done many *mleccha* deeds, and especially we have kept company with those *mlecchas* who are enemies of cows and brāhmaṇas.
 
 ## 202
 
