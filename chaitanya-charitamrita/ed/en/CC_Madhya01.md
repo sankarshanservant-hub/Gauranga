@@ -282,9 +282,9 @@ by the Lord’s order  He made  here  and there  the gift of love
 tāṅhāra caraṇe mora koṭi namaskāra  
 at His  feet  my  millions of  obeisances  
 caitanyera priya yiṅho laoyāila saṁsāra  
-to Caitanya  what is dear  He who  made accept  the world
+to Caitanya  dear  He who  made accept  the world
 
-(26) Millions of obeisances at His feet! He made the whole world accept what is dear to Caitanya.
+(26) Millions of obeisances at His feet! He who is dear to Caitanya made the whole world accept Him.
 
 চৈতন্য-গোসাঞি যাঁরে বলে ‘বড় ভাই’ ৷  
 তেঁহো কহে, মোর প্রভু — চৈতন্য গোসাঞি ॥ ২৭ ॥
