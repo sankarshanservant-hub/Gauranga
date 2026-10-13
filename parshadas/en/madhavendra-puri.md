@@ -402,7 +402,7 @@ one of the nine roots; the other roots are Keshava Bharati, Brahmananda Puri, Br
 Keshava Puri, Krishnananda Puri, Nrisimha Tirtha and Sukhananda Puri — and above them are the first sprout,
 Madhavendra, the second, Ishvara Puri, and the trunk, Mahaprabhu (CC, Adi 9.13–16). <!-- F115 F116 F117 F118 Q23 -->
 
-Sri Ranga Puri Mahaprabhu met in Pandharpur, in the house of a brahmana where he was staying, and fell at his feet in
+Mahaprabhu met Sri Ranga Puri in Pandharpur, in the house of a brahmana where he was staying, and fell at his feet in
 love:
 
 “Seeing Sri Chaitanya before him offering dandavat, Sri Ranga Puri was amazed and exclaimed: ‘O Shripada, please
