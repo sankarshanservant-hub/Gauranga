@@ -16,6 +16,7 @@ import os
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw
+from scipy import ndimage
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PROJ = os.path.join(HERE, '..')
@@ -58,9 +59,10 @@ HEAD_POLY = [(372, 20), (720, 20), (720, 226), (588, 226), (548, 260), (540, 281
              (440, 392), (372, 402)]
 # подложка шеи над разрезом (закрыта головой в покое; открывается при наклоне)
 NECK_UL = [(589, 227), (589, 194), (566, 186), (546, 196), (530, 226), (528, 262), (538, 284), (548, 260)]
-# полоса шали над плечом — поверх плеча руки и волос
-BAND_YMAX = 350
-BAND_X = (430, 612)
+# полоса шали над плечом — поверх плеча и волос. Итерация 2: только дуга прямо над плечом (раньше — вся шаль
+# выше y=350: когда плечо уходит назад, на его заднем контуре был виден прямой срез полосы)
+BAND_POLY = [(494, 338), (500, 312), (512, 294), (530, 282), (548, 274), (572, 284), (590, 312), (596, 346),
+             (560, 346), (550, 326), (532, 314), (514, 318), (503, 330), (500, 342)]   # тонкая дуга над куполом плеча
 ELBOW_R = 25.5          # радиус накладки локтя (половина ширины руки на уровне локтя: 506–555)
 LINE_W = 3.2            # толщина контура рисунка, px
 WRIST_CUT = 14.0        # px от центра браслета вдоль предплечья: ниже — кисть исходника (заменяется)
@@ -111,7 +113,13 @@ def tint(rgba, mask):
 
 # ---------------- голова ----------------
 torso = LAY['torso']
-head_m = poly_mask(HEAD_POLY) & (torso[..., 3] > 0)
+yy, xx = np.mgrid[0:H, 0:W]
+_sh = LAY['shawl']
+_band0 = (_sh[..., 3] > 0) & ~SYN['shawl'] & poly_mask(BAND_POLY)
+# итерация 2: контур края полосы шали (в слое корпуса v0.7 он принадлежал волосам) — к полосе, а не к голове:
+# иначе при наклоне головы линия уезжала вместе с волосами
+band_edge = (torso[..., 3] > 0) & (src.mean(2) < 110) & (ndimage.distance_transform_edt(~_band0) <= 4) & poly_mask(BAND_POLY, 7)
+head_m = poly_mask(HEAD_POLY) & (torso[..., 3] > 0) & ~band_edge
 head = torso * head_m[..., None]
 body_torso = torso * (~head_m)[..., None]
 syn_torso = SYN['torso'] & ~head_m
@@ -129,30 +137,37 @@ neck_ul[nl, :3] = dark
 fill = lum > 70
 n_lab, lab = cv2.connectedComponents(fill.astype(np.uint8), connectivity=4)
 shawl = LAY['shawl']
-band_m = (shawl[..., 3] > 0) & (yy < BAND_YMAX) & (xx >= BAND_X[0]) & (xx <= BAND_X[1]) & ~SYN['shawl']   # только видимая шаль, без подложки под рукой
+band_m = (shawl[..., 3] > 0) & poly_mask(BAND_POLY) & ~SYN['shawl']   # только видимая шаль, без подложки под рукой
 src_shawl = fill & (shawl[..., 3] >= 1) & ~SYN['shawl']
-from scipy import ndimage  # noqa: E402
 d_sh, (iy, ix) = ndimage.distance_transform_edt(~src_shawl, return_indices=True)
 other_fig = ((shawl[..., 3] > 0) | (body_torso[..., 3] > 0)) & ~head_m
 under_hair = head_m & (ndimage.distance_transform_edt(~other_fig) < 45) & ~neck_m & (d_sh < 60)
-ids = lab[iy, ix]
-med = {}
-for cid in np.unique(ids[under_hair]):
-    med[cid] = np.median(src[lab == cid], 0)
-hair_ul = np.zeros((H, W, 4), np.float32)
-ty, tx = np.nonzero(under_hair)
-hair_ul[ty, tx, :3] = np.array([med[c] for c in ids[ty, tx]])
-hair_ul[ty, tx, 3] = 1
-key = np.where(under_hair, ids, -1)
-bnd = np.zeros((H, W), bool)
-for sh in ((0, 1), (1, 0)):
-    nb = np.roll(key, sh, axis=(0, 1))
-    bnd |= under_hair & (nb >= 0) & (nb != key)
-bl = np.clip(LINE_W / 2 + 0.5 - ndimage.distance_transform_edt(~bnd), 0, 1)
-hair_ul[..., :3] = hair_ul[..., :3] * (1 - bl[..., None]) + dark * bl[..., None]
+
+
+def shawl_underlay(target):
+    """Продолжение областей шали под целевой областью: ближайшая видимая область заливки шали, её медианный
+    цвет, контур по границам областей. Это подложка-предположение, не авторский рисунок (пурпур в diag)."""
+    ids = lab[iy, ix]
+    rgba = np.zeros((H, W, 4), np.float32)
+    ty, tx = np.nonzero(target)
+    cid = ids[ty, tx]
+    med = {c: np.median(src[lab == c], 0) for c in np.unique(cid)}
+    rgba[ty, tx, :3] = np.array([med[c] for c in cid])
+    rgba[ty, tx, 3] = 1
+    key = np.where(target, ids, -1)
+    bnd = np.zeros((H, W), bool)
+    for sh in ((0, 1), (1, 0)):
+        nb = np.roll(key, sh, axis=(0, 1))
+        bnd |= target & (nb >= 0) & (nb != key)
+    bl = np.clip(LINE_W / 2 + 0.5 - ndimage.distance_transform_edt(~bnd), 0, 1)
+    rgba[..., :3] = rgba[..., :3] * (1 - bl[..., None]) + dark * bl[..., None]
+    return rgba
+
+
+hair_ul = shawl_underlay(under_hair)
 
 # ---------------- шаль: полоса над плечом отдельно ----------------
-band = shawl * band_m[..., None]
+band = over(shawl * band_m[..., None], torso * band_edge[..., None])
 shawl_rest = shawl * (~band_m)[..., None]
 
 # ---------------- корпус (неподвижный) ----------------
@@ -165,9 +180,16 @@ for name, lay, syn in (('shawl', shawl_rest, SYN['shawl'] & ~band_m), ('far_foot
     body_syn = np.where(lay[..., 3] > 0.5, syn, body_syn)
 body = over(body, hair_ul)
 body_syn |= under_hair
+# итерация 2: под куполом плеча и полосой шали в слоях v0.7 подложки не было (дыра закрыта рукой и полосой) —
+# при отведении плеча назад открывался ровный верхний край подложки v0.7. Заполняем продолжением шали.
+_tmp = over(body, body_torso)
+under_dome = ((LAY['arm'][..., 3] > 0) | band_m | band_edge) & (_tmp[..., 3] < 0.99) & (yy < 460)
+dome_ul = shawl_underlay(under_dome)
+body = over(dome_ul, body)
+body_syn |= under_dome
 body = over(body, neck_ul)
 body_syn |= neck_m
-body = over(body, body_torso)
+body = over(body, body_torso * (~band_edge)[..., None])
 body_syn = np.where(body_torso[..., 3] > 0.5, syn_torso, body_syn)
 
 # ---------------- рука ----------------
@@ -333,7 +355,7 @@ ALL = np.ones((H, W), bool)
 part('body', body, body_syn, (599, 593), 0, 'неподвижный корпус: шаль, дхоти, стопы, торс с шеей (слои v0.7) + подложки')
 part('head', head, SYN['torso'] & head_m, P['head_pivot'], 1, 'голова с волосами и тюрбаном — один жёсткий блок')
 part('upper_arm', upper, upper_syn, P['shoulder'], 2, 'плечо; накладка локтя — новый рисунок', fill_only(upper))
-part('band', band, SYN['shawl'] & band_m, P['shoulder'], 3, 'полоса шали над плечом — поверх плеча и волос')
+part('band', band, (SYN['shawl'] & band_m), P['shoulder'], 3, 'полоса шали над плечом (дуга) с контуром — поверх плеча и волос')
 bangle = np.abs(along_fo - np.linalg.norm(Wr - E)) <= 16
 part('forearm', fore, fore_syn, P['elbow'], 4, 'предплечье с браслетом; накладка локтя — новый рисунок', fill_only(fore, keep=bangle))
 part('vessel', vessel, ALL, P['wrist'], 5, 'тестовый сосуд — новый рисунок (технический черновик)')
@@ -344,6 +366,7 @@ missing = {}
 for name, rgba, m, why in (
         ('neck_under_head', neck_ul, neck_m, 'шея над линией разреза: закрыта головой, открывается при наклоне'),
         ('shawl_under_hair', hair_ul, under_hair, 'шаль и шея под волосами: открываются, когда волосы смещаются с головой'),
+        ('shawl_under_shoulder', dome_ul, under_dome, 'шаль под куполом плеча и полосой шали: открывается при отведении плеча'),
         ('elbow_cap_upper', cap_up * cap_up_m[..., None], cap_up_m & ~up_m, 'накладка локтя на плече (сторона предплечья)'),
         ('elbow_cap_forearm', cap_fo * cap_fo_m[..., None], cap_fo_m & ~fo_m, 'накладка локтя на предплечье (сторона плеча)'),
         ('body_behind_arm', body * (body_syn & (arm[..., 3] > 0))[..., None], body_syn & (arm[..., 3] > 0),

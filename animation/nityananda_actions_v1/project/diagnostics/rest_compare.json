@@ -1,5 +1,5 @@
 {
- "mean_abs_diff_excl_hand": 0.808224618434906,
- "pixels_diff_gt_24_excl_hand": 371,
+ "mean_abs_diff_excl_hand": 0.8086926341056824,
+ "pixels_diff_gt_24_excl_hand": 374,
  "note": "покой без кисти и сосуда против исходника (кисть исходника заменена — исключена из сравнения)"
 }

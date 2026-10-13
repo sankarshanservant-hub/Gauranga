@@ -17,7 +17,7 @@
     107
    ],
    "what": "шея над линией разреза: закрыта головой, открывается при наклоне",
-   "pixels": 3458
+   "pixels": 3436
   },
   "shawl_under_hair": {
    "png": "shawl_under_hair.png",
@@ -31,7 +31,21 @@
     168
    ],
    "what": "шаль и шея под волосами: открываются, когда волосы смещаются с головой",
-   "pixels": 6499
+   "pixels": 6553
+  },
+  "shawl_under_shoulder": {
+   "png": "shawl_under_shoulder.png",
+   "mask": "shawl_under_shoulder_mask.png",
+   "offset": [
+    490,
+    274
+   ],
+   "size": [
+    111,
+    77
+   ],
+   "what": "шаль под куполом плеча и полосой шали: открывается при отведении плеча",
+   "pixels": 3667
   },
   "elbow_cap_upper": {
    "png": "elbow_cap_upper.png",

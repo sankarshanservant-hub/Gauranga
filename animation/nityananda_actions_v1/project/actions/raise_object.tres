@@ -1,0 +1,16 @@
+[gd_resource type="Animation" format=3]
+
+[resource]
+length = 3.8
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:raise_amount")
+tracks/0/interp = 1
+tracks/0/loop_wrap = false
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1.4, 2.4, 3.8),
+"transitions": PackedFloat32Array(-2, -2, -2, -2),
+"update": 0,
+"values": [0.0, 1.0, 1.0, 0.0]
+}
