@@ -90,7 +90,49 @@ for fn in frames:
 track = np.array(track)
 smooth = np.stack([gaussian_filter1d(track[:, k], 1.5, mode='nearest') for k in range(3)], 1)
 
-# 4. сборка: голова из исходника поверх кадра
+# 4. ремонт передней линии шеи на стыке. Мягкое смешивание двух несовпадающих линий (рисунок сверху,
+#    генерация снизу) давало размытый разрыв. В полосе стыка линия строится заново: кривая Эрмита от линии шеи
+#    рисунка (выше стыка) к линии груди генерации (ниже стыка), слева — кожа, справа — фон, линия той же толщины.
+NECK_SEAM_SRC = (588.0, 258.0)   # передняя линия шеи на нижней границе области головы (исходник)
+BAND_UP, BAND_DN = 12, 24        # px кадра выше / ниже стыка
+
+
+def line_x(img, y, x0, x1):
+    # передний край шеи в строке y: правее самого правого пикселя кожи (между x0 и x1) — контур.
+    # По коже, а не по тёмному: тёмное в строке бывает и волосами, а линия генерации местами бледная.
+    row = img[int(y), int(x0):int(x1)].astype(float)
+    b, g, r = row[:, 0], row[:, 1], row[:, 2]
+    skin = np.flatnonzero((r > 200) & (g > 150) & (b < 215) & (r - b > 25))
+    if len(skin) == 0:
+        return None
+    return x0 + skin.max() + 1.5
+
+
+def repair_neck(out, fr, Wt):
+    S = cv2.transform(np.array([[NECK_SEAM_SRC]], np.float32), np.vstack([Wt, [0, 0, 1]])[:2] @ np.vstack([A_src_f0, [0, 0, 1]]))[0, 0]
+    ya, yb = int(round(S[1] - BAND_UP)), int(round(S[1] + BAND_DN))
+    xa = line_x(out, ya, S[0] - 25, S[0] + 25)
+    xa2 = line_x(out, ya - 6, S[0] - 25, S[0] + 25)
+    xb = line_x(fr, yb, S[0] - 25, S[0] + 40)
+    xb2 = line_x(fr, yb + 6, S[0] - 25, S[0] + 40)
+    if None in (xa, xa2, xb, xb2) or abs(xb - xa) > 30 or abs(xa - xa2) > 8 or abs(xb2 - xb) > 8:
+        return False                              # не нашли край уверенно — оставляем мягкий стык
+    m0, m1 = (xa - xa2) / 6 * (yb - ya), (xb2 - xb) / 6 * (yb - ya)
+    skin = np.median(out[ya, int(xa) - 14:int(xa) - 5], 0)
+    lc = out[ya, int(xa) - 2:int(xa) + 1].min(0)
+    for y in range(ya + 1, yb):
+        u = (y - ya) / (yb - ya)
+        c = (2 * u**3 - 3 * u**2 + 1) * xa + (u**3 - 2 * u**2 + u) * m0 + (-2 * u**3 + 3 * u**2) * xb + (u**3 - u**2) * m1
+        bg = fr[y, min(int(c) + 30, W - 1)]
+        for x in range(int(c) - 9, int(c) + 12):   # 9 px кожи слева: убирает след прежней линии
+            d = x + 0.5 - c                       # центр линии чуть левее края кожи
+            base = skin if d < -0.8 else bg
+            la = np.clip(1.3 - abs(d + 0.8), 0, 1)
+            out[y, x] = base * (1 - la) + lc * la
+    return True
+
+
+# 5. сборка: голова из исходника поверх кадра
 feather = cv2.GaussianBlur(m0.astype(np.float32) / 255, (0, 0), FEATHER_BACK / 2)
 log = []
 for i, fn in enumerate(frames):
@@ -103,9 +145,10 @@ for i, fn in enumerate(frames):
                         borderMode=cv2.BORDER_REPLICATE).astype(np.float32)
     al = cv2.warpAffine(feather, Wt, (W, H), flags=cv2.INTER_LINEAR)[..., None]
     out = hd * al + fr * (1 - al)
+    neck_ok = repair_neck(out, fr, Wt)
     cv2.imwrite(os.path.join(OUT, fn), out.clip(0, 255).astype(np.uint8))
     log.append({'frame': fn, 'ecc': cc[i], 'raw_deg_dx_dy': [round(float(v), 2) for v in track[i]],
-                'used_deg_dx_dy': [round(float(v), 2) for v in smooth[i]]})
+                'used_deg_dx_dy': [round(float(v), 2) for v in smooth[i]], 'neck_repaired': neck_ok})
 json.dump({'src_to_frame0_affine': A_src_f0.round(5).tolist(), 'frames': log},
           open(os.path.join(OUT, 'track.json'), 'w'), ensure_ascii=False, indent=0)
 print('кадров', len(frames), 'ECC min %.3f median %.3f' % (np.nanmin(cc), np.nanmedian(cc)))
