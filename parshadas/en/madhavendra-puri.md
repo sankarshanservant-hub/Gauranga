@@ -132,22 +132,22 @@ non-Vaishnavas.” <!-- F32 F35 F36 -->
 
 Day after day he thought of the good of the people, and his mind was turned to one thing: the descent of Krishna.
 Vrindavana Dasa shows how Madhavendra, seeing the wretched state of the world, longed ardently for Krishna to come,
-and on meeting Advaita passed on to him the whole force of that longing. <!-- F37 I10 Q6 -->
+and on meeting Advaita passed on to Him the whole force of that longing. <!-- F37 I10 Q6 -->
 
-So, grieving for the world, he came to Shantipur, to the house of Advaita Acharya. Advaita, who himself grieved for
-the people, was then teaching the “Gita” and the “Bhagavatam,” revealing their meaning as devotion. Seeing in his
-guest the signs of a Vaishnava, he at once fell at his feet; Madhavendra embraced him and bathed him in tears.
+So, grieving for the world, he came to Shantipur, to the house of Advaita Acharya. Advaita, who Himself grieved for
+the people, was then teaching the “Gita” and the “Bhagavatam,” revealing their meaning as devotion. Seeing in His
+guest the signs of a Vaishnava, He at once fell at his feet; Madhavendra embraced Him and bathed Him in tears.
 Absorbed in talk of Krishna, both forgot their bodies: at the sight of a cloud Madhavendra fell senseless, at the name
 of Krishna he roared. Advaita rejoiced to see such devotion to Vishnu and accepted instruction from him (CB, Adi
-4.419–440). Madhavendra, delighted by Advaita's love for Krishna, gave him initiation into the mantra of Krishna,
-instruction and all that goes with them.[^3] Advaita is himself a manifestation of the Supreme Lord; and yet,
-convinced by his guest's ecstatic love that here was his guru, he underwent the rite of initiation to show conditioned
-souls that no one can do without a guru: he played the part of Madhavendra's disciple.[^4]
+4.419–440). Madhavendra, delighted by Advaita's love for Krishna, gave Him initiation into the mantra of Krishna,
+instruction and all that goes with them.[^3] Advaita is Himself a manifestation of the Supreme Lord; and yet,
+convinced by His guest's ecstatic love that here was His guru, He underwent the rite of initiation to show conditioned
+souls that no one can do without a guru: He played the part of Madhavendra's disciple.[^4]
 <!-- F38 F39 F40 F41 F42 Q13 -->
 
 The “Chaitanya-bhagavata” (Antya 4.398) says that Madhavendra and Advaita are not different from each other, and yet
-Advaita is his disciple. That is why the Lord honoured Advaita as a guru, while Advaita himself saw in Chaitanya the
-Lord and regarded himself as His servant — His principal limb (CC, Adi 6.36–41). <!-- F43 F44 Q7 Q22 -->
+Advaita is his disciple. That is why the Lord honoured Advaita as a guru, while Advaita Himself saw in Chaitanya the
+Lord and regarded Himself as His servant — His principal limb (CC, Adi 6.36–41). <!-- F43 F44 Q7 Q22 -->
 
 At about the same time Madhavendra, with his disciple Sri Ranga Puri, a resident of Pandharpur, also visited Sridham
 Mayapur, the house of Jagannatha Mishra. Many years later Ranga Puri told the Lord in Pandharpur:
@@ -170,14 +170,14 @@ itself blessed; trembling, tears, hair on end — “Chaitanya was playing in bo
 “Chaitanya-bhagavata” (Adi 9.158–168). <!-- F47 F48 F49 -->
 
 “However many holy places I have visited,” said Nityananda, “only today have I gained their true fruit, in seeing your
-feet. Nowhere have I seen such love.” And Madhavendra embraced him, took him on his lap and could not utter a word for
-tears — he only held him to his breast. <!-- F50 F51 -->
+feet. Nowhere have I seen such love.” And Madhavendra embraced Him, took Him on his lap and could not utter a word for
+tears — he only held Him to his breast. <!-- F50 F51 -->
 
 Madhavendra's disciples — Ishvara Puri, Brahmananda Puri and others — at once came to love Nityananda. They had met
 many “sadhus” before, but found love for Krishna in none of them: all were seeking something else — the fruits of
 karma, knowledge, yoga, vows and austerities — and the disciples had wandered through the forests in sorrow. Now their
 grief vanished. Ishvara Puri, seeing how dear Nityananda was to his guru, was himself, like the others, filled with
-great love for him. <!-- F52 F53 -->
+great love for Him. <!-- F52 F53 -->
 
 For several days Nityananda wandered with Madhavendra, and through the forests they seemed to be enacting a search for
 Krishna. Neither knew day from night, the disciples sang the name of Hari unceasingly, and what the two spoke of only
@@ -185,8 +185,8 @@ Krishna knows. “Nowhere have I seen such love,” Madhavendra would say. “Wh
 Krishna is merciful to me, since He has given me such a friend. Where there is Nityananda's company, there are all the
 tirthas and Vaikuntha itself. Whoever hears of such a devotee will surely attain Krishna; and whoever bears Nityananda
 even the slightest ill will is not dear to Krishna, even if he is a devotee.” So day and night he spoke of Nityananda
-and served him with love (CB, Adi 9.169–185). Madhavendra treated him as a friend and an equal, while Nityananda
-always honoured him only as his guru — for he, the teacher of all the world's teachers, was teaching people thus (CB,
+and served Him with love (CB, Adi 9.169–185). Madhavendra treated Him as a friend and an equal, while Nityananda
+always honoured him only as His guru — for He, the teacher of all the world's teachers, was teaching people thus (CB,
 Adi 9.187–188; BR 5.2330–2334). <!-- F54 F55 F56 Q9 -->
 
 At last they parted: Nityananda went to Setubandha, Madhavendra to see the Sarayu. Both were so absorbed in Krishna
@@ -197,8 +197,8 @@ life is preserved because service gives an unbroken inner bliss; such love, in t
 to be found in the world of men (CC, Madhya 2.43). And whoever hears with faith the story of Nityananda and
 Madhavendra obtains the treasure of love for Krishna. <!-- F57 F58 I8 Q30 -->
 
-Whose disciple Nityananda himself was, the traditions tell differently: some consider him a disciple of Madhavendra,
-others of Lakshmipati Tirtha, and so Madhavendra's godbrother; the “Prema-vilasa” names Ishvara Puri as his guru.[^6]
+Whose disciple Nityananda Himself was, the traditions tell differently: some consider Him a disciple of Madhavendra,
+others of Lakshmipati Tirtha, and so Madhavendra's godbrother; the “Prema-vilasa” names Ishvara Puri as His guru.[^6]
 Srila Bhaktisiddhanta, listing Madhavendra's principal disciples, names Ishvara Puri, Nityananda and Advaita.
 <!-- F59 -->
 
@@ -562,8 +562,8 @@ shukla-dvadashi). Where it took place the “Charitamrita” does not say.[^12] 
 <!-- F149 F150 F151 F152 F153 F154 Q20 -->
 
 ## The Day of Remembrance in Advaita's House
-Every year Advaita Acharya celebrated the day of remembrance of his guru (CB, Adi 4.441–468).[^14] On that day he
-joyfully spent all he had, and provisions poured in from every side. Gaurasundara with all His companions was happy.
+Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Adi 4.441–468).[^14] On that day He
+joyfully spent all He had, and provisions poured in from every side. Gaurasundara with all His companions was happy.
 Ai — Shachi — together with the wives of the Vaishnavas took on all the cooking, Nityananda the reception and
 honouring of the Vaishnavas; some ground sandalwood, others wove garlands, carried water, swept the courtyard, washed
 the guests' feet, hung up flags and canopies; the sankirtana never ceased, and Advaita's house became Vaikuntha.
@@ -1232,7 +1232,7 @@ made it their standard. <!-- F29 I2 -->
 [^6]: Srila Bhaktisiddhanta remarks in the “Gaudiya-bhashya” (on CB, Adi 9.187–188) that the question of
     godbrotherhood is inseparable from the question of the guru and is in essence the same. An old verse in the
     “Bhakti-ratnakara” (5) honours Nityananda as “dear to Lakshmipati,” and some hold that it was Lakshmipati Tirtha
-    himself who led him away from home at the age of twelve.
+    himself who led Him away from home at the age of twelve.
 [^7]: According to one of the biographies, the pujari hid Gopala in a thicket on the very summit of Govardhana;
     according to the “Charitamrita” and the other accounts, in a thicket below, from where the Deity was later carried
     up the hill.
@@ -1251,7 +1251,7 @@ made it their standard. <!-- F29 I2 -->
 [^13]: According to one historical report, Vitthalanatha, Vallabhacharya's son, was born thirty-two years after
     Madhavendra's departure. If Vitthalanatha was born in 1515, the departure would fall around 1483 — before the
     Lord's appearance, which is hard to reconcile with the “Chaitanya-bhagavata” and the “Charitamrita”: Nityananda
-    meets Madhavendra in the years of his wanderings, which began when he was twelve — that is, after the Lord's
+    meets Madhavendra in the years of His wanderings, which began when He was twelve — that is, after the Lord's
     appearance.
 [^14]: The “Chaitanya-bhagavata” calls this festival “the day of the worship (aradhana) of Madhava Puri”; one of the
     biographies calls it a festival on the day of the guru's appearance.

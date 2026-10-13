@@ -30,8 +30,8 @@ pure goodness, shuddha-sattva, which is also called “vasudeva”: in it alone 
 ## Eight Daughters and Vishvarupa
 The first years of her marriage brought Shachi great sorrow. Eight daughters were born to her, and not one lived more
 than a few moments. Then Jagannatha performed a special rite, praying for a son, and soon Vishvarupa was born — a
-manifestation of Baladeva. This boy, indifferent to worldly things from his very childhood, later took sannyasa under
-the name Shankararanya and ended his days in Pandharpur in 1509 (1431 of the Shaka era). <!-- F3 F4 -->
+manifestation of Baladeva. This boy, indifferent to worldly things from His very childhood, later took sannyasa under
+the name Shankararanya and ended His days in Pandharpur in 1509 (1431 of the Shaka era). <!-- F3 F4 -->
 
 When Sri Ranga Puri, a disciple of Madhavendra Puri, met the Lord in Pandharpur many years later, he remembered Shachi
 thus:
@@ -44,7 +44,7 @@ treated them with the same love as her own sons.” (CC, Madhya 9.298)
 
 He and his guru had once been guests at Mishra's house, and Ranga Puri still remembered the taste of the banana-flower
 curry the lady of the house had cooked for them. Then he told how this woman had a worthy son who became the sannyasi
-Shankararanya, and how here, in Pandharpur, he had attained perfection. The Lord, overcome by separation, answered
+Shankararanya, and how here, in Pandharpur, He had attained perfection. The Lord, overcome by separation, answered
 that Shankararanya had been His brother in His former life, and Jagannatha and Shachi His father and mother.[^2]
 <!-- F23 F24 -->
 
@@ -124,7 +124,7 @@ Yashoda Himself, Krishna. <!-- F22 I1 -->
 ## Vishvarupa Leaves
 Every noon Shachi would send little Nimai to take lunch to Vishvarupa, who was studying at Advaita's house. Advaita
 would gaze at the beautiful Boy, not yet recognising in Him the One He had been calling with His cries. When Vishvarupa
-turned twelve and his parents began to speak of his marriage, he secretly left home and took sannyasa. Shachi and
+turned twelve and His parents began to speak of His marriage, He secretly left home and took sannyasa. Shachi and
 Jagannatha felt the separation bitterly; everyone around grieved too, and Advaita and Sita consoled them and helped
 raise Nimai, repeating that Krishna Himself would soon come. Lochana Dasa also writes of their weeping. <!-- F27 F17 -->
 
@@ -207,7 +207,7 @@ my son's side; then I shall have nothing to worry about.” <!-- F34 -->
 In those years Shachi's house became a home for Nityananda too. She dreamt that Gaura and Nitai were Kanai and Balai of
 Vraja Themselves, and that Nitai was calling her “Ma” and asking for something to eat. So she invited Nitai and fed Him
 together with Nimai. Even before this the Lord had begged His mother to let Him invite Nitai, and when she agreed He
-went to call Him Himself, while Ishana, the servant of the house, brought water to wash their feet before the meal.
+went to call Him Himself, while Ishana, the servant of the house, brought water to wash Their feet before the meal.
 When Nityananda wandered about unclothed like a child and the Lord Himself dressed Him, Shachi laughed at His childlike
 ways. At the close of the Vyasa-puja in Srivasa's house she sat apart, watching the play of the two brothers and
 bathing Them in her motherly love. <!-- F103 F48 F104 F102 -->

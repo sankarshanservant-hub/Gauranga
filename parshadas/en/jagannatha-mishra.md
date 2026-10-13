@@ -34,7 +34,7 @@ and so any request of the little boy was a joy to them. <!-- F67 F68 -->
 For a long time grief weighed upon the family: Shachi and Jagannatha had eight daughters, and not one survived.[^4]
 Then Jagannatha performed a special rite praying for a son, and soon Vishvarupa was born — a manifestation of
 Baladeva, the Sankarshana of the spiritual world, who is also called Nityananda's second self. By the day of
-Mahaprabhu's appearance he was the only one of the children left in the house. <!-- F17 F18 F19 F20 -->
+Mahaprabhu's appearance He was the only one of the children left in the house. <!-- F17 F18 F19 F20 -->
 
 Before He comes, the Lord sends to the earth those whom He will honour as His elders:
 
@@ -53,7 +53,7 @@ would appear in Navadvipa in a golden form, together with His associates, as the
 When Shachi was carrying the Lord, in the sixth month Advaita Acharya came to the house. He bowed to the child in her
 womb and walked around her, and the couple could not understand what this homage meant. When the time drew near,
 Jagannatha, seeing the signs of the coming birth, sent word to Shantipur. On hearing it, Advaita bathed in the Ganga
-with Haridasa, sang and danced for a long time, and then sent his wife Sita to Mayapur. <!-- F22 F23 -->
+with Haridasa, sang and danced for a long time, and then sent His wife Sita to Mayapur. <!-- F22 F23 -->
 
 The Lord appeared on the full-moon day of the month of Phalguna in 1486 (1407 of the Shaka era), at sunset, during a
 lunar eclipse. The townspeople were calling “Hari!” and “Krishna!”, the women raised the joyful ulu cry, and the music
@@ -176,8 +176,8 @@ eternal associate. <!-- F70 F71 I5 -->
 
 ## Vishvarupa Leaves Home
 From childhood Vishvarupa was indifferent to worldly things. He studied with Advaita Acharya and understood that all
-the scriptures come down to one thing — service to Krishna. When he was twelve and his parents began to speak of
-marriage, he left home and took sannyasa with the name Shankararanya. Shachi and Jagannatha were struck down by
+the scriptures come down to one thing — service to Krishna. When He was twelve and His parents began to speak of
+marriage, He left home and took sannyasa with the name Shankararanya. Shachi and Jagannatha were struck down by
 separation from their firstborn; little Gaurasundara grieved too. Advaita Acharya and Sita Thakurani consoled them and
 helped to bring up Nimai. <!-- F72 F73 F74 F75 F76 -->
 
@@ -240,7 +240,7 @@ she were the mother of the whole universe.” (CC, Madhya 9.297)
 place, Pandarpur.” (CC, Madhya 9.300)
 
 And the Lord answered that Shankararanya had been His brother, and Jagannatha Mishra and Shachi His father and mother.
-Vishvarupa left his body at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 -->
+Vishvarupa left His body at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 -->
 
 The courtyard of Shachi and Jagannatha, where the infant Vishvambhara danced, was sung of by Vasu Ghosha in his padas.
 After the Lord's departure the house became a place of pilgrimage. Narottama came to its threshold and fell at the door
