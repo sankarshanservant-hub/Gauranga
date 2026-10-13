@@ -1,0 +1,197 @@
+{
+ "version": "actions_v1",
+ "status": "TECHNICAL_TEST",
+ "canvas": [
+  1054,
+  1492
+ ],
+ "source": "Nityananda_Standing_Accepted_Working.png (v0.7)",
+ "points": {
+  "shoulder": [
+   528.0,
+   340.0
+  ],
+  "elbow": [
+   530.0,
+   552.0
+  ],
+  "wrist": [
+   563.0,
+   752.0
+  ],
+  "head_pivot": [
+   560.0,
+   240.0
+  ],
+  "neck_front_jaw": [
+   588.0,
+   226.0
+  ]
+ },
+ "parts": {
+  "body": {
+   "texture": "assets/body.png",
+   "texture_diag": "assets/body_diag.png",
+   "origin": [
+    295,
+    182
+   ],
+   "size": [
+    420,
+    1239
+   ],
+   "pivot": [
+    599.0,
+    593.0
+   ],
+   "z": 0,
+   "note": "неподвижный корпус: шаль, дхоти, стопы, торс с шеей (слои v0.7) + подложки",
+   "synth_pixels": 41438
+  },
+  "head": {
+   "texture": "assets/head.png",
+   "texture_diag": "assets/head_diag.png",
+   "origin": [
+    423,
+    58
+   ],
+   "size": [
+    229,
+    325
+   ],
+   "pivot": [
+    560.0,
+    240.0
+   ],
+   "z": 1,
+   "note": "голова с волосами и тюрбаном — один жёсткий блок",
+   "synth_pixels": 0
+  },
+  "upper_arm": {
+   "texture": "assets/upper_arm.png",
+   "texture_diag": "assets/upper_arm_diag.png",
+   "origin": [
+    484,
+    314
+   ],
+   "size": [
+    90,
+    268
+   ],
+   "pivot": [
+    528.0,
+    340.0
+   ],
+   "z": 2,
+   "note": "плечо; накладка локтя — новый рисунок",
+   "synth_pixels": 1054,
+   "texture_fill": "assets/upper_arm_fill.png"
+  },
+  "band": {
+   "texture": "assets/band.png",
+   "texture_diag": "assets/band_diag.png",
+   "origin": [
+    471,
+    273
+   ],
+   "size": [
+    133,
+    81
+   ],
+   "pivot": [
+    528.0,
+    340.0
+   ],
+   "z": 3,
+   "note": "полоса шали над плечом — поверх плеча и волос",
+   "synth_pixels": 0
+  },
+  "forearm": {
+   "texture": "assets/forearm.png",
+   "texture_diag": "assets/forearm_diag.png",
+   "origin": [
+    499,
+    523
+   ],
+   "size": [
+    91,
+    250
+   ],
+   "pivot": [
+    530.0,
+    552.0
+   ],
+   "z": 4,
+   "note": "предплечье с браслетом; накладка локтя — новый рисунок",
+   "synth_pixels": 1054,
+   "texture_fill": "assets/forearm_fill.png"
+  },
+  "vessel": {
+   "texture": "assets/vessel.png",
+   "texture_diag": "assets/vessel_diag.png",
+   "origin": [
+    514,
+    752
+   ],
+   "size": [
+    122,
+    92
+   ],
+   "pivot": [
+    563.0,
+    752.0
+   ],
+   "z": 5,
+   "note": "тестовый сосуд — новый рисунок (технический черновик)",
+   "synth_pixels": 6929
+  },
+  "hand_grip": {
+   "texture": "assets/hand_grip.png",
+   "texture_diag": "assets/hand_grip_diag.png",
+   "origin": [
+    533,
+    724
+   ],
+   "size": [
+    75,
+    110
+   ],
+   "pivot": [
+    563.0,
+    752.0
+   ],
+   "z": 6,
+   "note": "кисть с хватом — новый рисунок (технический черновик)",
+   "synth_pixels": 4849,
+   "texture_fill": "assets/hand_grip_fill.png"
+  }
+ },
+ "grip": {
+  "vessel_parent": "hand_grip",
+  "vessel_offset": [
+   0,
+   0
+  ],
+  "note": "сосуд жёстко привязан к кисти; хват один",
+  "hand_axis_rest": [
+   0.16279878299320225,
+   0.9866592908678924
+  ],
+  "vessel_up_rest": [
+   0.9866592908678924,
+   -0.16279878299320225
+  ]
+ },
+ "z_order_bottom_to_top": [
+  "body",
+  "head",
+  "upper_arm(line)",
+  "forearm(line)",
+  "vessel",
+  "hand_grip(line)",
+  "upper_arm(fill)",
+  "hand_grip(fill)",
+  "forearm(fill)",
+  "band"
+ ]
+}

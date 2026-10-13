@@ -1,0 +1,107 @@
+{
+ "canvas": [
+  1054,
+  1492
+ ],
+ "coords": "пиксели холста исходного рисунка (1054×1492), начало — левый верхний угол",
+ "parts": {
+  "neck_under_head": {
+   "png": "neck_under_head.png",
+   "mask": "neck_under_head_mask.png",
+   "offset": [
+    524,
+    182
+   ],
+   "size": [
+    70,
+    107
+   ],
+   "what": "шея над линией разреза: закрыта головой, открывается при наклоне",
+   "pixels": 3458
+  },
+  "shawl_under_hair": {
+   "png": "shawl_under_hair.png",
+   "mask": "shawl_under_hair_mask.png",
+   "offset": [
+    423,
+    215
+   ],
+   "size": [
+    128,
+    168
+   ],
+   "what": "шаль и шея под волосами: открываются, когда волосы смещаются с головой",
+   "pixels": 6499
+  },
+  "elbow_cap_upper": {
+   "png": "elbow_cap_upper.png",
+   "mask": "elbow_cap_upper_mask.png",
+   "offset": [
+    501,
+    546
+   ],
+   "size": [
+    59,
+    36
+   ],
+   "what": "накладка локтя на плече (сторона предплечья)",
+   "pixels": 1054
+  },
+  "elbow_cap_forearm": {
+   "png": "elbow_cap_forearm.png",
+   "mask": "elbow_cap_forearm_mask.png",
+   "offset": [
+    501,
+    523
+   ],
+   "size": [
+    59,
+    36
+   ],
+   "what": "накладка локтя на предплечье (сторона плеча)",
+   "pixels": 1054
+  },
+  "body_behind_arm": {
+   "png": "body_behind_arm.png",
+   "mask": "body_behind_arm_mask.png",
+   "offset": [
+    484,
+    314
+   ],
+   "size": [
+    123,
+    592
+   ],
+   "what": "корпус, шаль, шнур и дхоти за рукой (подложки v0.7): открываются при подъёме руки",
+   "pixels": 31481
+  },
+  "hand_grip": {
+   "png": "hand_grip.png",
+   "mask": "hand_grip_mask.png",
+   "offset": [
+    533,
+    724
+   ],
+   "size": [
+    75,
+    110
+   ],
+   "what": "кисть с хватом — технический черновик, нужна доработка художником",
+   "pixels": 4849
+  },
+  "vessel": {
+   "png": "vessel.png",
+   "mask": "vessel_mask.png",
+   "offset": [
+    514,
+    752
+   ],
+   "size": [
+    122,
+    92
+   ],
+   "what": "тестовый сосуд — технический черновик",
+   "pixels": 6929
+  }
+ }
+}
