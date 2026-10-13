@@ -886,6 +886,320 @@ Gopala. Later, at Gopala's command in a dream, the kshatriya merchant Puranmal b
 the two look like a pair of shrines, the main one and a chamber for rest. Its spire, it is said, was destroyed by
 Aurangzeb, and Dvarakesha Maharaja of the Vallabha sampradaya restored it about a hundred years ago. <!-- F87 -->
 
+## Around Shrinathji and Govardhana
+What follows belongs no longer to the life of Madhavendra himself but to the long memory of him: to the disputes over
+his Gopala, to the traditions that grew up around Govardhana, and to the books in which those traditions are recorded.
+Above, the history of Shrinathji and the disagreements with Vallabha's followers were told briefly so as not to break
+the narrative; here the details are gathered. The Vallabhite works are reported as the books themselves tell them, and
+the judgements as the biographies of the Gaudiya Vaishnavas give them.
+
+### Arail
+The Vallabhite books have their own account of Mahaprabhu's visit to Vallabha at Arail. The “Nij-varta” is brief:
+travelling from Bengal to Vrindavana, Krishna Chaitanya heard that the Acharyaji was living at Arail and came to him.
+The Acharyaji, seeing that Sri Krishna dwelt in His body, fed Him, giving Him provisions not offered to the Deity;
+Chaitanya stayed with him a few days and then went on “to His own place,” Vrindavana. <!-- F213 -->
+
+The “Sampradaya-pradipa” tells more. Krishna Chaitanya came to Vallabha's house on the eastern bank of the Ganga; seeing
+Him for the first time, Vallabha said, “This is Krishna Chaitanya,” and bowed down. After the midday offering, while the
+Lord was resting, Vallabha told his wife to feed Him well-cooked rice. She objected: how could she give food that had
+not been offered to the Deity? “Give it,” Vallabha replied. “Krishna, who dwells in His heart, will surely taste it.”
+<!-- F214 -->
+
+The biographies of the Gaudiya Vaishnavas, citing both accounts, observe that whether it happened so or otherwise, then
+or later, Vallabha and his sons received the mercy of Krishna Chaitanya and His associates. But the later books of the
+sampradaya said a great deal about the Gaudiya teachers, beginning with Madhavendra, whom Vallabha and Vitthala always
+honoured, and even about Gaurasundara Himself. The biographies quote some of these claims only to show how poorly they
+agree with one another. <!-- F215 -->
+
+### Vyasatirtha and the Dispute over the “Advaita-siddhi”
+The Vallabhite books tell of Vallabha's meeting with Vyasatirtha in different ways. According to the “Chaurasi
+Baithak” (baithak 21, “Bhandira-vana”), Vallabha came from Kaushala-vana to Bhandira-vana, which the book calls the
+place of Gopala's appearance, and for seven days recited the “Bhagavatam” there. There stood a great seat (gadi) of the
+Madhva sampradaya, and its head, Vyasatirtha, came to Vallabha and said: he had a hundred thousand servants, great
+kings were his disciples, Madhavendra Puri too was his disciple, and Madhavendra's disciple was Krishna Chaitanya; the
+lakh or so of rupees he possessed he would give to Vallabha, who was worthy to sit on his seat. Vallabha promised to
+answer the next day. About midnight, when Vyasatirtha had returned to his ashrama, four of Vallabha's servants armed
+with clubs began to beat him mercilessly. Asked why, they answered that they were the Acharyaji's messengers: how dared
+he seat the Acharyaji on his own seat, and what right had he to do so? Let him take shelter at the Acharyaji's feet, or
+he would be sent to the abode of Yama. In the morning Vyasatirtha fell at Vallabha's feet, begged forgiveness for his
+offence and asked to be accepted as a disciple, and Vallabha accepted him. <!-- F216 F217 -->
+
+The “Sampradaya-pradipa,” ascribed to Gadadhara Dasa Dvivedi, “said to be a disciple of Vitthalanatha,” moves the scene
+to the south. Hearing that there were Mayavadis there, Vallabha came to Vidyanagara, where King Krishnaraya ruled and
+the ascetic Vyasatirtha, “dispeller of the darkness of Mayavada,” lived. The king arranged in his assembly a debate
+between the Mayavadis and the Tattvavadis; the dispute went on for six days, and the Tattvavadis were defeated. Then
+Vallabha came of his own accord to the doors of the assembly; the king received him, and Vallabha told the Mayavadi
+that his victory would be complete only if he defeated him too — and easily defeated him. The king bathed Vallabha
+with water from a golden vessel and wished to shower him with gifts, but he distributed them to both parties.
+Vyasatirtha, seeing the guest's extraordinary power, resolved to give him sannyasa and make him the acharya of the
+sampradaya: if such a man entered it, it would endure. This “bathing with gold” (kanakabhisheka) is described in detail
+in the “Nij-varta” (varta 4) and in a Gujarati book, the “Kanakabhisheka ka Itihasa.” <!-- F218 F219 -->
+
+But in a dream Bilvamangala of Dravida, an acharya of the Vishnusvami sampradaya, appeared to Vallabha and said: “Do
+not become Vyasatirtha's disciple.” Though he had withdrawn from the world, at Krishna's command he had remained here,
+wishing to see Vallabha. Seven hundred years had passed; in that time seven hundred acharyas had appeared in the
+Vishnusvami sampradaya, and he had remained the last. When Rudra, by the Lord's will, descended as Shankaracharya and
+turned everyone away from the path of bhakti, Bilvamangala prayed to be taken to the Lord, and the Lord replied: in
+this age Vallabha would appear, an incarnation of the fire of His mouth; in the form of Vallabha He would save four
+lakhs of souls by the path of bhakti, in the form of his son thirty-two lakhs, and in the forms of his other sons many
+more; let Bilvamangala hand on to Vallabha the whole teaching of Vishnusvami, hear Vallabha's own teaching and return.
+<!-- F220 -->
+
+The “Vallabha-digvijaya” (section 2) is shorter: the Madhva yati Vyasatirtha proposed that Vallabha accept his
+direction, ascend his seat and preach his path; Vallabha answered, “I shall do as the Lord wishes,” and that same night
+Bhagavan told him to become the acharya of the teaching of Vishnusvami and not to accept what Vyasatirtha had said. In
+the “Nij-varta” (varta 4) Vallabha is living at Vidyanagara under the patronage of King Krishnadeva Raya; the aged
+sannyasi of the Madhva sampradaya Vyasatirtha comes to him at night and urges him in every way to enter the sampradaya
+of the Tattvavadis; Vallabha promises to think it over, and he leaves. Of a beating there is not a word. That same
+night Bilvamangala appears to Vallabha in person with a letter written by Vishnusvami himself: Vallabha has much to do
+for the sampradaya, for the original Vishnusvami sampradaya has died out, and without it the world will have no good.
+Vallabha replies that the best branch of it must be accepted and there is nothing to worry about; Bilvamangala adds
+that for seven hundred years, at the Lord's command, he has dwelt on that spot in the form of air in order to pass this
+on to Vallabha. When he had vanished and Vallabha had fallen asleep, Govardhananathji appeared: “Never accept the
+sampradaya of Madhvacharya.” In the morning Vallabha received certificates of victory from all the disputants of
+Vidyanagara and set out for Vraja. <!-- F221 F222 F223 -->
+
+The biographies of the Gaudiya Vaishnavas see in all these stories a fabrication born of envy, meant to belittle the
+teachers of the Brahma-Madhva-Gaudiya sampradaya. It is astonishing, they write, that people calling themselves
+followers of the Pushtimarga should print robbers' tales as history in books on devotion — thereby not glorifying
+Vallabha but portraying so venerable an acharya as the patron of a gang of ruffians. Vyasatirtha's “Nyayamrita” is, for
+those who follow the pure Vedas, like the Sudarshana in Vishnu's hand: it shatters every contrary argument, protects
+the community and has torn the arguments of the Mayavadis to shreds. To portray this lion among acharyas and great
+devotees as the victim of ruffians who fancied themselves Vallabha's followers does no credit to the Vallabha
+sampradaya. And the biographies ask: were these perhaps special ruffians, hired by the Mayavadi sampradaya? Otherwise
+whence such enmity towards a world-renowned acharya? <!-- F224 F225 -->
+
+There is another incongruity. In early childhood Vallabha had the good fortune to study the Vedas with Madhavendra, a
+disciple of Vyasatirtha's disciple, while according to the “252 Vartas” (varta 251) Vallabha's younger son, Vitthala,
+first studied with Madhavendra and then made his own teacher his disciple. Yet the “Bhagavatam” (11.10.12) likens the
+teacher and the disciple to the two pieces of wood from which fire is kindled, and knowledge to the fire born between
+them; and the “Narada-pancharatra” bids one honour a Vaishnava, a teacher of knowledge, as Vishnu, for there is none
+more worthy of service than the guru who gives knowledge. There is no end, the biographies conclude, to the
+contradictory histories and inventions in the books of this sampradaya, and where they were composed to belittle the
+great souls of the past, a most lamentable envy is plainly visible. <!-- F226 F227 Q35 Q36 -->
+
+With Bilvamangala the case is different. The “Vallabha-digvijaya,” the “Sampradaya-pradipa,” the “Nij-varta” and other
+books say that Vallabha met Lilashuka Bilvamangala and received his mercy. Historians who look only at dates judge
+otherwise, since Bilvamangala lived several centuries before Vallabha; but the Lord's devotees have no reason to
+object to meetings of great souls who are not bound by time. When, however, great souls of the past are made, across
+the bounds of historical time, into disciples of later men, or are “beaten at the hands of robbers,” those who know the
+truth cannot but oppose such envious designs. <!-- F228 I16 -->
+
+Of late some have tried to confirm the meeting of Vyasatirtha and Vallabha historically by appeal to the
+“Vyasayoga-charitam.” Televala, in his introduction to the edition of the “Anubhashya” (Nirnaya Sagar Press, 1926),
+writes that the author of this “recently discovered” work from the Vyasaraya-matha reports that King Krishnadeva Raya
+honoured Vallabha “under the presidency of the then celebrated Madhva svami Vyasatirtha.” The Gaudiya biographies
+remark that these words speak of Vyasatirtha's presidency — that is, they testify to still greater honour paid to him.
+<!-- F229 -->
+
+They recall, too, the controversy that flared up around the “Nyayamrita.” In it Vyasatirtha refuted kevala-advaita;
+Madhusudana Sarasvati tried to refute the “Nyayamrita” in the “Advaita-siddhi”; Ramacharya Tirtha refuted the
+“Advaita-siddhi” in the “Tarangini”; the kevala-advaitin Brahmananda Giri tried to refute the “Tarangini,” but Vanamala
+Mishra of the Tattvavadi sampradaya demolished his teaching entirely. And the “Nij-varta” (episode 29) relates that,
+meeting this same Madhusudana Sarasvati at Prayaga, Vallabha listened with pleasure to the auspicious invocation
+(mangalacharana) of his commentary on the “Gita” and to the conclusions of his “Bhakti-rasayana.” Had Vallabha defeated
+the kevala-advaitin who stood against Vyasatirtha, the biographies ask, could he have rejoiced in the conclusions of
+the kevala-advaitin Madhusudana? Some say it outright: the Tattvavadi Vyasatirtha mercilessly refuted Vallabha's
+shuddhadvaita, and that is why the later Vallabha sampradaya invented the story of his beating and composed various
+tales in his name. <!-- F230 F231 F232 -->
+
+### The “Three Vishnusvamis”
+The “Sampradaya-pradipa” (at the end of section 3) calls Chaitanya “a sub-sampradaya of Vishnusvami,” and the same book
+(section 4) and the “Nij-varta” (episode 5) call Vallabha a follower of the Vishnusvami sampradaya. According to the
+“Purva-guru-shamsana-vivarana” of Brajanatha and the Sanskrit “Vallabha-digvijaya” of Yadunatha, there were three
+Vishnusvamis: the first was Devatanu, the second Rajagopala (Bilvamangala was a disciple of his disciple), the third
+Andhra-Vishnusvami. Later came Balabhatta, Premakara, Lakshmana Bhatta and others, and Vallabha, the son of Lakshmana
+Bhatta, was a late member of the sampradaya of the third Vishnusvami. Outside the Vallabhite books the words and
+teaching of Vishnusvami's “Sarva-sukta” are cited by the chapter “Raseshvara-darshana” in the
+“Sarva-darshana-sangraha” of Sayana-Madhava and by Shridhara Svami — in the “Bhavartha-dipika” on the “Bhagavatam” and
+in the commentary “Atma-prakasha” on the “Vishnu Purana.” <!-- F233 F234 F235 -->
+
+Against the “sub-sampradaya” the biographies cite an incident at Nilachala. In an assembly of Vaishnavas Vallabha
+wished to read to Mahaprabhu his commentary on the “Bhagavatam,” written against the conclusions of the jagad-guru
+Shridhara Svami; Gaurasundara called an opinion contrary to the Svami “the opinion of a harlot,” and Vallabha, bowing his
+head, accepted this merciful correction. And yet his so-called successors in discipleship put forward a deliberately
+contrived and overextended idea — with the defect logicians call ativyapti — that Chaitanya belongs to a
+sub-sampradaya of Vishnusvami because He accepted the teaching of Shridhara Svami (“shuddhadvaita,” as they put it) and
+called him jagad-guru. <!-- F236 -->
+
+### Other Traditions and How the Gaudiyas Judge Them
+The “Chaurasi Baithak” tells other stories as well, mentioned above only in brief. In baithak 10 Vallabha recites the
+“Bhagavatam” for seven days at his baithak on the bank of Manasi-Ganga in Vraja. Chaitanya had a place of bhajana
+there: for six months He lived there, having vowed to speak with no one on a given day until He had completed a
+hundred and twenty-five thousand names. One day, before finishing His count, He heard that Vallabha had come, went to
+him and supposedly prostrated Himself before him, and when asked how long He had been there, answered: half a year. By
+the Puranas Manasi-Ganga is made of milk, and in a dream she had told Him that by Vallabha's mercy He would see her
+milky form. “The wish will be fulfilled at once,” said Vallabha, sprinkled water from his vessel into the eyes of the
+Vaishnavas, and they, receiving divine sight, saw together with Chaitanya the milky form of Manasi-Ganga. This story,
+in the Gaudiya judgement, was introduced only to exalt Vallabha above Krishna Chaitanya. <!-- F237 -->
+
+In baithak 4 Gopala Bhatta wishes to adorn the shalagrama whom he serves with a flute, a crown and the like, and tells
+Chaitanya of it; He replies in a dream that the wish will be fulfilled only if he takes shelter of Vallabha. Vallabha
+manifests from Gopala Bhatta's shalagrama the Deity of Radha-ramana; Gopala Bhatta, seeing his power, asks him for
+instruction as from a guru and calls him Purna Purushottama. Vallabha answers: in this life remain a disciple of
+Krishna Chaitanya, and in another birth you will enter the Pushtimarga — and quotes a verse saying that devotion to
+Krishna is born only after thousands of births, when sins have been exhausted by austerity, meditation and samadhi. In
+his next birth, having joined the Pushtimarga, Gopala Bhatta is said to have received the name “Gopala Naga.”
+<!-- F238 Q38 -->
+
+Were these absurdities not composed, the Gaudiya biographies ask, by later upstart storytellers of the Pushtimarga to
+amuse women? For Vitthalanatha, Vallabha's son, together with Rupa arranged the honouring of Gopala Bhatta at Mathura,
+while Vallabha himself at Arail drank with his whole family the water that had washed Mahaprabhu's feet, and at
+Nilachala, bowing his head, accepted Gaurasundara's correction and was purified by it. His overzealous would-be
+disciples, belittling the Lord and His associates for the sake of Vallabha's glory, surely wounded his heart; and their
+claims do not survive historical scrutiny either. The “Sri Radha-ramanera seva-prakata,” according to which
+Radha-ramana appeared in 1599 Vikrama, is an old book that one of the Gaudiya authors saw in the possession of the
+scholar Banamali Lal Gosvami Vidyabhushana of the Radha-ramana temple compound; and the year of Vallabha's departure,
+1587 Vikrama, is given by the Vallabhite “Ghar-varta” and “Vallabha-digvijaya” themselves. Hence the appearance of
+Radha-ramana has nothing to do with Vallabha. Moreover, according to the “Sampradaya-pradipa” and other books of the
+Vallabha sampradaya itself, Gaurasundara met Vallabha only at Arail and at Nilachala; of a meeting in Vraja no
+authoritative book such as the “Charitamrita” speaks, nor even the early books of the Pushtimarga such as the
+“Vallabha-digvijaya.” When the Lord was travelling through Vraja, Vallabha was at Charanat, and when He returned from
+there, Vallabha was living at Arail. <!-- F239 F240 F241 F242 -->
+
+The biographies also answer the charges of greed that Vallabhite authors level at the Gaudiya Gosvamis. Is this not an
+echo of the saying “the lustful see the world full of objects of lust”? they ask. The Gosvamis headed by Rupa and
+Raghunatha desired only Krishna's pleasure: they gave up high ministerial posts under Husain Shah and other rulers and
+displayed divine madness and great love for Krishna. And what moved the Pushtimargi lawyer Televala to bring the
+“childish” charge that such men misappropriated funds meant for the Deity's service is plain to every thoughtful
+reader. Seeing in one class of Pushtimargi literature a multitude of stories contrary to history, logic and ordinary
+morality, the biographies conclude that their authors promoted the so-called Pushtimarga in illicit rivalry with the
+followers of Rupa — teachers and preachers of selfless bhakti — in order to strengthen a householder sampradaya
+teaching a tamasic bhakti swollen with pride in wealth and in the number of its followers. <!-- F252 F253 -->
+
+Televala will not accept that a presumptuous opinion, contrary to the shastras and disregarding the jagad-guru
+Shridhara Svami, was called “the opinion of a harlot.” Such an expression, the Gaudiyas reply, does indeed trouble one
+who lacks unswerving loyalty and love for the feet of the guru and for the succession; but Vallabha himself, bowing his
+head, accepted this correction from the Lord. Sarvabhauma had once been a teacher of Mayavada, yet this did not
+prevent him from becoming an associate of Gaura worthy of the title of jagad-guru; so too Vallabha, though he had once
+displayed the rationalism and manners of a scholar, was honoured as an acharya by Gaura's associates, and Kavi
+Karnapura celebrated him as an incarnation of Shukadeva: the “Gaura-ganoddesha-dipika” (110) sees in Vallabha Bhatta
+Shuka, the son of Dvaipayana. For such is the eternal nature of Chaitanya's followers — to seek no honour for
+themselves but to honour others; and that is why the Gaudiyas have always honoured both Vallabha and Vitthala.
+<!-- F254 F255 F256 Q39 I15 -->
+
+### Vitthala and the “Svamini-ashtaka”
+Televala himself, however, acknowledges Vitthala's connection with Mahaprabhu's followers. Living near Jagannatha at
+Puri, he writes in his introduction to the “Anubhashya” (to chapter 3, section 4), Vitthaleshvara came into contact
+with the direct followers of Chaitanya who lived there; perhaps the “Svamini-ashtaka,” the “Svamini-stotra” and other
+short stotras glorifying Radha, the eternal beloved of Sri Krishna, belong to that period or arose under the direct or
+indirect influence of Chaitanya's saints. So far as he knows, Vallabha himself has no stotra or work in which Radha is
+glorified as she is by Vitthaleshvara; and Vitthaleshvara's commentary on the “Krishna-prema-amrita” and his
+“Shringara-rasa-mandana” may likewise owe something to “the mould of Chaitanya's thought.” <!-- F243 F244 F245 -->
+
+He also writes that after the shrine had passed to Vitthaleshvara, Giridhara (in samvat 1623) moved it to his own
+house in Mathura. From that time Vitthaleshvara greatly elaborated the order of service, the shrine became the
+exclusive refuge of the Vallabhites, and the Bengali Vaishnavas began to forget their early connection with it. The
+mass of Vaishnavas was henceforth deprived of direct access to the shrine, and Televala doubts whether Vallabhacharya
+or Vitthaleshvara desired such a consequence when “Vallabhacharya”[^19] obtained exclusive control of it: the immediate
+aim was only to remove the Bengalis. <!-- F250 F251 -->
+
+### Govinda-kunda and Its Babajis
+When, on 18 October 1932, a disciple of Srila Bhaktisiddhanta went round Madhavendra's places at Govardhana, he also
+questioned the local Vrajavasis. At Govinda-kunda he met Manohara Dasa Babaji and learned in conversation that the
+babaji called the bhajana of the holy name “bhakti turned outward,” and hearing of the lilas and the like “bhakti
+turned inward.”[^20] <!-- F246 -->
+
+The babaji's disciple, Ananta Dasa, told of the recent past. Shortly before, Govinda-kunda had become something like a
+kingdom of the Vallabhites, and they mocked the Gaudiyas, nicknaming them “an-magi.” So his guru, Manohara Dasa, began
+to teach boys grammar, then the “Bhagavatam,” and told them to earn their living by expounding it; the Vallabhite
+gosains were pleased and yielded the Gaudiyas a little room. But when Ramasvarupa Mishra, priest of the Vallabhite
+gosain Ranchhorlalji, took initiation from Manohara Dasa, the Vallabha sampradaya was enraged; seeing that his disciple
+was about to lose his only livelihood — his priestly service — Manohara Dasa told him to go on adhering to the
+Vallabhites. <!-- F247 F248 -->
+
+Ananta Dasa also told of Ramakrishna Dasa Babaji. Once, reading before an assembly of Vallabhites, he called Vallabha a
+disciple of Gadadhara Pandita, the associate of Krishna Chaitanya, and so enraged his listeners that they wanted to
+beat him. Later, when he held a festival at his ashrama, that very night men of robber-like appearance came to him:
+“So many festivals — you must have plenty of money; hand it over.” He had nothing to give, and they beat him until he
+bled. <!-- F249 -->
+
+### Growse on the Gosains
+The historians' statement that the cult of enjoyment in the Pushtimarga began under Gokulanatha is supported in the
+Gaudiya biographies by extracts from F. S. Growse's “Mathura” (second edition, 1880). Of Vitthala's sons, Growse writes,
+the most celebrated is the fourth, Gokulanatha, and his descendants therefore “claim kinship”; their chief
+representative is the gosain at Bombay. Unlike other Hindu sects, whose religious teachers are generally celibate, all
+the gosains of the Vallabhacharyas are family men and engage freely in worldly business; they are “the Epicureans of
+the East,” not ashamed to see the ideal of life in social enjoyment rather than in solitude and mortification. Their
+scandalous practices and the unnatural servility of those who court them were crushingly exposed in a famous libel
+case in the Supreme Court of Bombay in 1862; from its detailed report Growse took many of his facts.
+<!-- F257 F258 F259 F260 -->
+
+Gokulanatha, Growse continues, revered as the most authoritative expounder of his grandfather's teaching, insists in
+all his writings on the complete identity of the gosain with the Deity. The gosain obtains his position by birth
+alone, and no moral or intellectual defect cancels his hereditary right to the worship of his followers, who are told
+to close their eyes and ears to whatever discredits him; hence, according to Growse, the door is open to intolerable
+scandals. By the act of initiation a man surrenders to the gosain, as the representative of God, not only the first
+fruits of his wealth but also the virginity of his newly married wife, and the doctrine of brahma-sambandha is
+interpreted as though such union were equal to ecstatic union with God and the highest act of piety; the glorification
+of immorality is the sole point of many of the stories of the “Chaurasi Varta,” “the narratives of the eighty-four
+great converts of Vallabhacharya.” All this is Growse's own assertion and judgement; the Gaudiya biographies cite it
+without additions of their own. <!-- F261 F262 -->
+
+### Sahajiyas and Sakhi-bhekis
+From here the biographies turn to how the later Vallabhites differ from the pure Gaudiya devotees. In the
+“Sannyasa-lakshana,” one of Vallabha's sixteen works, a sannyasa imbued with bhava is accepted; but the present-day
+views of the Vallabha sampradaya diverge from the words: “Among Mahaprabhu's devotees renunciation is the chief thing;
+seeing it, Gaura Bhagavan is pleased.” Their householder customs are not valued by the pure Gaudiyas, while those
+Gaudiyas who are spoiled by worldly sahajiya ideas (viddha-bhaktas) are tormented by the poisonous fruits of this
+current of thought. <!-- F263 F264 -->
+
+The gopis in the “Bhagavatam” (10.82.48) pray that He on whom the masters of yoga of unfathomable intelligence meditate
+in their hearts may ever appear in the minds of them who live at home; and Mahaprabhu, though He wore the dress of a
+sannyasi, cherished their mood. The worldly sahajiyas misunderstand this: they imagine that the outward dress of a
+renunciant is incompatible with the vision of the Lord. The pure devotees, however, distinguish the outer body and its
+display from the inner mood. <!-- F265 Q33 I13 -->
+
+From this error, the biographies continue, the sampradaya of the sakhi-bhekis fell away from renunciation and, like
+the worldly sahajiyas, became greedy for worldly things. Misinterpreting the instruction “be firm within, and outwardly
+behave as people do,” they dance a dance of hypocrisy under the guise of an outward imitation of humility “lower than
+the grass.” But to serve the Lord in one's inner state and outwardly to stage a deceitful service of Hari are not the
+same thing: imitation of humility without inner service is hypocrisy, not bhajana. To understand this difference one
+studies the conversation of Raya Ramananda with Mahaprabhu and Sanatana's questions about sadhana and sadhya. Bhakti
+in practice (sadhana) and bhakti in perfection (siddha) are both bhakti, but the conceptions of the varieties of each
+differ, and judgement guided by external consciousness is quite another thing from the cultivation of the inner self.
+<!-- F266 F267 I13 -->
+
+In the same distorted way — in the present worldly sahajiya sampradaya and even among some “Gaudiya Vaishnavas”
+reputed to be saints — is understood the instruction of the “Bhakti-rasamrita-sindhu” (1.2.295): one who longs for a
+particular mood serves both in the form of a sadhaka and in the siddha form, following the residents of Vraja in whom
+that mood lives. Since a corrupted society of Gaudiya Vaishnavas has adopted the way of thinking of the Vallabha
+sampradaya, they say, this must be the view of the Gosvamis, Mahaprabhu's followers; in truth this betrays only
+inexperience in bhajana. For if remembrance of the eight periods of the day (ashta-kala) and the like is not awakened
+through kirtana, it is artificial and is not the Gosvamis' path of bhajana. <!-- F268 F269 F270 Q34 I14 -->
+
+### Books and Editions
+The biographies cite the Vallabhite and other works on which these accounts rest in the following editions:
+- “Sri Vallabhacharyaji ki Nij-varta” — the manuscript was obtained from Sarasvati, daughter of Seth Mangal Dasa
+  Giridhar Dasa of Ahmedabad; first printed in 1959 Vikrama after collation with four manuscripts; then published in
+  Ahmedabad at the Viravijaya Press by Manilal Chhaganlal (1979 Vikrama) and reissued there by Lalubhai Chhaganlal Desai
+  (1990 Vikrama; in one place this edition is called the second). References: p. 57 (Arail), pp. 36–40 (Puranmal's
+  temple), episodes 21–22, p. 41 (Madhavendra's appointment), varta 4, pp. 5–11 and 9 (Vidyanagara, kanakabhisheka),
+  episode 5, p. 10, episode 29, p. 52.
+- “Sampradaya-pradipa” — Sanskrit prose ascribed to Pandita Gadadhara Dasa Dvivedi, a disciple of Vitthalanatha;
+  composed, it is said, in 1610 Vikrama (1475 Shaka); published by the Vidya-vibhaga at Kankroli (Mewar). References:
+  p. 48 (end of section 3), section 4 (pp. 59, 62), p. 80.
+- “Sri Vallabha-digvijaya” — in Sanskrit; its author is Yadunatha, the sixth son of Vitthalanatha (born 1613 Vikrama);
+  written in 1658 Vikrama; the time of Vitthalanatha's appearance is given in the “Purva-yatravachchheda,” and the
+  stages of Vallabha's sannyasa are described in the conclusion of the book.
+- “Sri Vallabhacharyaji ki Chaurasi Baithak ke Charitra” — Ahmedabad, published by Lalubhai Chhaganlal Desai, Viravijaya
+  Press; it gives (p. 227) the horoscope of Vitthalanatha cast by Govindasvami. References: baithak 4 (pp. 108–110), 10
+  (p. 117) and 21, “Sri Bhandira-vana ki Baithak ko Charitra” (pp. 131–132).
+- “Sri Vallabhakhyana tatha Mula-purusha” — a Gujarati book (published by Govardhanadasa Lakshmidasa, Mumbai, 1955
+  Vikrama); it gives the same date of Vitthala's birth.
+- “Sri Gosainji ke 252 Vaishnav ki Varta” — on the 252 disciples of Vitthalanatha; edited by Ramadasaji, Lakshmi
+  Venkateshvara Press, Mumbai, 1988 Vikrama; the account of Madhavendra is varta 251, p. 504.
+- Vallabha's “Anubhashya” on the “Brahma-sutras” — Nirnaya Sagar Press, 1984 Vikrama (1926); editor Mulchandra Tulsidas
+  Televala, B.A., LL.B., advocate of the High Court at Bombay, a Pushtimargi author; his introductions are cited,
+  including that to chapter 3, section 4.
+- In addition: the “Chaurasi Vaishnavan ki Varta” of Gosvami Gokulanathji — on Krishnadasa and the temple (in it
+  Ramadasa, on learning of Krishnadasa's death, utters the words of the “Gita” (14.18) “adho gacchanti tāmasāḥ” —
+  “those in the mode of ignorance go down”); the Gujarati “Kanakabhisheka ka Itihasa”; the
+  “Purva-guru-shamsana-vivarana” of Brajanatha; the Vallabhite “Ghar-varta”; the “Sri Radha-ramanera seva-prakata”;
+  F. S. Growse, “Mathura” (2nd ed., 1880); the journal “Gaudiya,” year 5, nos. 22–23, with Srila Bhaktisiddhanta's
+  letter on Nathdvara.
+<!-- F271 F272 F273 F274 F275 F276 F277 F278 Q37 -->
+
 ## Significance
 Madhavendra Puri opened in the line of Madhva what had not been in it before — love for Krishna in separation; and
 ever since, wherever such love is found, it is sure to have a connection with him (so, according to the
@@ -951,3 +1265,8 @@ made it their standard. <!-- F29 I2 -->
     Mathura ostensibly out of fear of the Muslims, and so the aged Rupa, no longer able to walk to Govardhana, saw
     Madhavendra's Deity. According to Televala, Giridhara moved Him to his own house, probably to assert his
     authority.
+[^19]: So in Televala, although Vallabhacharya had departed as early as 1530, long before Gopala was moved to Mathura
+    (1567).
+[^20]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
+    “outward” bhakti but the foundation of bhajana, and remembrance of the lilas that is not awakened through kirtana is
+    artificial (see below, “Sahajiyas and Sakhi-bhekis”).
