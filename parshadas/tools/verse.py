@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+"""Перевод стиха по ссылке из наших файлов (почти без затрат токенов).
+  verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД (chaitanya-charitamrita/vcd/txt/CC_<Лила><NN>.txt)
+  verse.py "CB Antya 3.176-178"    — ЧБ, Мадхья/Антья (chaitanya-bhagavata/src/txt/CB_<Кханда><NN>.txt)
+Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади (CB_Adi_all.txt) — двухколоночная выгрузка, автоматически не ищется."""
+import re, sys
+from pathlib import Path
+R = Path(__file__).resolve().parents[2]
+
+def cc(lila, ch, a, b):
+    t = (R / f'chaitanya-charitamrita/vcd/txt/CC_{lila}{ch:02d}.txt').read_text(errors='replace')
+    out = []
+    for v in range(a, b + 1):
+        m = re.search(rf'^\({v}(?:[–-]\d+)?\)(.*?)(?=^\(\d+(?:[–-]\d+)?\)|\Z)', t, re.S | re.M)
+        if not m: out.append(f'({v}) — не найден'); continue
+        body = re.split(r'[\u0980-\u09FF]', m.group(1))[0]  # до бенгальского текста следующего стиха
+        out.append(f'({v}) ' + re.sub(r'[\s\u3164]+', ' ', body).strip())
+    return out
+
+def cb(kh, ch, a, b):
+    if kh == 'Adi':
+        return ['ЧБ Ади: файл CB_Adi_all.txt — двухколоночная выгрузка, искать вручную']
+    t = (R / f'chaitanya-bhagavata/src/txt/CB_{kh}{ch:02d}.txt').read_text(errors='replace')
+    out = []
+    for v in range(a, b + 1):
+        m = re.search(rf'^Текст {v}(?:[–-]\d+)?\s*$(.*?)(?=^Текст \d+|\Z)', t, re.S | re.M)
+        if not m: out.append(f'({v}) — не найден'); continue
+        # перевод — первые подряд идущие строки кириллицей, без бенгальского и без диакритики транслитерации
+        tr, started = [], False
+        for l in m.group(1).splitlines():
+            s = l.strip()
+            ok = bool(s) and re.search('[А-Яа-яЁё]{3}', s) and not re.search(r'[\u0980-\u09FF\u0300-\u036F]', s)
+            if ok:
+                tr.append(s); started = True
+            elif started:
+                break
+        out.append(f'({v}) ' + ' '.join(tr))
+    return out
+
+for ref in sys.argv[1:]:
+    m = re.match(r'(CC|CB)\s+(Adi|Madhya|Antya)\s+(\d+)\.(\d+)(?:[–-](\d+))?', ref)
+    if not m: print(ref, '— формат: "CC Adi 5.205-207"'); continue
+    src, lila, ch, a, b = m.group(1), m.group(2), int(m.group(3)), int(m.group(4)), int(m.group(5) or m.group(4))
+    print(f'## {ref}'); print('\n'.join((cc if src == 'CC' else cb)(lila, ch, a, b)))
