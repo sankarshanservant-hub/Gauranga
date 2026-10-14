@@ -31,6 +31,9 @@
 | @shrinathji-deity | Шринатхаджи (Шри Говарданатха) — Божество на Говардхане | Shrinathji (Sri Govardhananatha), the Deity on Govardhana | главное Божество пушти-марги (ныне в Натхдваре); гаудии отождествляют с Гопалой, явленным Мадхавендрой Пури (ЧЧ Мадхья 4) |
 | @damodara-shalagrama | Дамодара — шалаграма в доме Джаганнатхи Мишры | Damodara, the shalagrama of Jagannatha Mishra's house | домашнее Божество семьи Господа (ЧЧ Ади 14.9); не путать с @damodara-pandita |
 | @adhokshaja-mayapura | Адхокшаджа — четырёхрукое Божество Вишну в доме Джаганнатхи Мишры | Adhokshaja, the four-armed Vishnu Deity of Jagannatha Mishra's house | найден в 1934 г. при закладке храма в Йогапитхе (Майяпур) |
+| @gaura-deity-vishnupriya | Божество Махапрабху, которому служила Вишнуприя | the Deity of Mahaprabhu served by Vishnupriya | по Мурари 4.14.8 — проявленный облик Господа; после её ухода перенесено Вамшиваданой в Коладвип / Кулию (M 241, B 912) |
+| @gaura-vishnupriya-kheturi | Гаура и Вишнуприя — Божества Нароттамы | Gaura and Vishnupriya, Narottama's Deities | явились из амбара Випрадаса (БР 10.202); установлены в Кхетури, ныне в Гамбхиле |
+| @gaura-vishnupriya-mayapura | Гаура и Вишнуприя — Божества на месте явления Господа | Gaura and Vishnupriya, the Deities at the Lord's birthplace | установлены Бхактивинодой Тхакуром 21 марта 1894 г. в Майяпуре |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -51,6 +54,7 @@
 | @janardana-mishra | Джанардана | Janardana | младший брат Джаганнатхи Мишры («Према-виласа» 24) |
 | @trailokyanatha-mishra | Трайлокьянатха | Trailokyanatha | младший брат Джаганнатхи Мишры («Према-виласа» 24) |
 | @sarvajaya | Сарваджая | Sarvajaya | сестра Шачи, жена Чандрашекхары Ачарьяратны («Гаудия-вайшнава-абхидхана») |
+| @durgadasa-mishra | Дургадас Мишра | Durgadasa Mishra | дед Вишнуприи (по иным — отец), отец Санатаны Мишры; не путать с @durgadasa-raya |
 | **Спутники** ||||
 | @nityananda | Нитьянанда | Nityananda | Авадхута |
 | @advaita | Адвайта Ачарья | Advaita Acharya | |
@@ -308,6 +312,11 @@
 | @raghavendra-puri | Рагхавендра Пури | Raghavendra Puri | ученик Мадхавендры Пури, гуру Рамананды Рая по «Бхаджана-нирнае»; не путать с @raghavendra-raya |
 | @hiranya-pandita | Хиранья Пандит | Hiranya Pandita | брат Джагадиши Пандита, сосед и друг Джаганнатхи Мишры (ЧЧ Ади 10.70–71) |
 | @ratnavati | Ратнавати | Ratnavati | мать Гададхары Пандита, жена Мадхавы Мишры; соседка и подруга Шачи |
+| @bhaktivinoda | Бхактивинода Тхакур (Саччидананда) | Bhaktivinoda Thakura (Sacchidananda) | ачарья XIX в.; открыл место явления Господа, установил Божества Гауры и Вишнуприи (1894) |
+| @bhaktisiddhanta | Бхактисиддханта Сарасвати (Прабхупада) | Bhaktisiddhanta Sarasvati (Prabhupada) | ачарья, сын Бхактивиноды; основатель Гаудия-матха |
+| @jagannatha-dasa-babaji | Джаганнатха дас Бабаджи | Jagannatha Dasa Babaji | «вайшнава-сарвабхаума»; указал место явления Господа и день явления Вишнуприи; не путать с @jagannatha-dasa-odia |
+| @kanai-shrikhanda | Канаи Тхакур (Шрикханда) | Kanai Thakura (of Shrikhanda) | сын Рагхунанданы; по повелению Нарахари — служение Гауранге и Вишнуприе (B 131) |
+| @vishvanatha-chakravarti | Вишванатха Чакраварти Тхакур | Vishvanatha Chakravarti Thakura | ачарья XVII–XVIII вв., комментатор «Бхагаваты» |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |
@@ -352,6 +361,7 @@
 | @ananga-manjari | Ананга-манджари | Ananga-manjari | младшая сестра Радхи; её воплощением считается Джахнава |
 | @vrinda-devi | Вринда-деви | Vrinda-devi | богиня Вриндавана, устроительница игр Радхи и Кришны |
 | @vasuki | Васуки | Vasuki | царь нагов |
+| @satrajit | Сатраджит | Satrajit | царь из рода Ядавов, отец Сатьябхамы; по ГГД 47 — Санатана Мишра |
 | **Аллегорические лица** ||||
 | @kali-personified | Кали (олицетворение века Кали) | Kali (personification of the Kali age) | «царь эпохи» в аллегорических сценах; не путать с богиней Кали |
 | @adharma | Адхарма (Беззаконие) | Adharma (Irreligion) | олицетворение; друг и слуга Кали |

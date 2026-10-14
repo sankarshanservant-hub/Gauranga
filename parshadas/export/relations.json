@@ -1135,5 +1135,402 @@
    "F65"
   ],
   "note": "Благословила его во сне (F65)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "spouse",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F22",
+   "F48",
+   "F50",
+   "F52",
+   "F66",
+   "F67",
+   "F69",
+   "F70",
+   "F72",
+   "F73",
+   "F86",
+   "F87"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "note": "Вторая супруга; перед санньясой Господь явил ей четырёхрукий облик и обещал: «Где бы Я ни был, Я с тобой» (F69, F72). Ответила ли она вслух (M) или лишь подумала (B) — F73."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "father",
+  "who": "@sanatana-mishra",
+  "facts": [
+   "F1",
+   "F2",
+   "F3",
+   "F6",
+   "F20",
+   "F21",
+   "F23",
+   "F24",
+   "F45",
+   "F52",
+   "F53",
+   "F54",
+   "F107"
+  ],
+  "note": "По ГГД 47 — царь Сатраджит (F107)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "grandfather",
+  "who": "@durgadasa-mishra",
+  "facts": [
+   "F4",
+   "F5"
+  ],
+  "note": "По некоторым — отец."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "in-law",
+  "who": "@shachi",
+  "facts": [
+   "F9",
+   "F10",
+   "F15",
+   "F17",
+   "F25",
+   "F37",
+   "F56",
+   "F63",
+   "F76",
+   "F77",
+   "F79",
+   "F80"
+  ],
+  "event": "ev-lament-after-lord-leaves",
+  "note": "Свекровь: благословляла её девочкой на гхате (F9) и выбрала в невестки; вместе пережили разлуку (F77, F80)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@lakshmipriya",
+  "facts": [
+   "F15",
+   "F112",
+   "F114",
+   "F115",
+   "F116",
+   "F120"
+  ],
+  "note": "Первая супруга Господа: шри-шакти при бху-шакти Вишнуприи (F114); по B — сокрылась, когда Вишнуприя возросла для служения (F120)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@kashinatha",
+  "facts": [
+   "F16",
+   "F17",
+   "F19",
+   "F21",
+   "F22",
+   "F24",
+   "F25"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "note": "Сват (T, M 246, B; по ГГД 50 — Кулака) ≠ M 85 по «Чайтанья-мангале» — Двиджа Кашишвара (F18)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "patron",
+  "who": "@buddhimanta-khan",
+  "facts": [
+   "F28",
+   "F29",
+   "F30",
+   "F40"
+  ],
+  "note": "Взял на себя все расходы на свадьбу."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@mukunda-sanjaya",
+  "facts": [
+   "F29"
+  ],
+  "note": "Предлагал разделить расходы (M)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F63",
+   "F76"
+  ],
+  "event": "ev-chandrashekhara-drama",
+  "note": "В его доме она смотрела действо, где Господь — Лакшми (F63); принёс весть из Катвы (F76)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F76",
+   "F124"
+  ],
+  "note": "Утешал её и Шачи после ухода Господа (F76)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "disciple",
+  "who": "@vamshivadana",
+  "facts": [
+   "F90",
+   "F94",
+   "F95",
+   "F97",
+   "F101",
+   "F102"
+  ],
+  "note": "Слуга и защитник; по B — её ученик и «исключительный сосуд милости» (F102); по её желанию установил Божество Гауранги (F90). Когда начал служить: T — после ухода Шачи; M — после сокрытия Господа."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "servant",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F93",
+   "F99",
+   "F100",
+   "F101"
+  ],
+  "note": "Заботился о ней и Шачи после санньясы; пережил её."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "servant",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F103"
+  ],
+  "note": "По ГВА вёл дела Шачи и Вишнуприи."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "protege",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F85",
+   "F93",
+   "F94",
+   "F95",
+   "F96",
+   "F97",
+   "F98",
+   "F105",
+   "F139"
+  ],
+  "event": "ev-srinivasa-vishnupriya-mercy",
+  "note": "Не сразу дала даршан (M); благословила, поставив стопы ему на голову (B), дала наставления (B 664). Лично видел её подвиг (БР 4)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F134",
+   "F139",
+   "F140",
+   "F141",
+   "F142",
+   "F143"
+  ],
+  "event": "ev-kheturi-six-deities",
+  "note": "Действовал под её милостью (B); обрёл и установил Божества Гауры и Вишнуприи (Кхетури)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F138",
+   "F139"
+  ],
+  "note": "B ставит их рядом: как Джахнава после Нитьянанды, так Вишнуприя после Гауры — ачарья."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "deity-served",
+  "who": "@gaura-deity-vishnupriya",
+  "facts": [
+   "F86",
+   "F87",
+   "F88",
+   "F89",
+   "F90"
+  ],
+  "event": "ev-vishnupriya-deity",
+  "note": "Мурари 4.14.8: Господь Сам проявил Себя в мурти у неё (F86–F87) ≠ T: «говорят», она велела сделать образ, как Рама — золотую Ситу (F88). Дальнейшая судьба Божества: T — Вамши установил по её желанию; M — после её ухода перенёс в Коладвип; B — служение перенесено в Кулию-Пахарпур (F90)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@gaura-vishnupriya-kheturi",
+  "facts": [
+   "F140",
+   "F141",
+   "F142",
+   "F143"
+  ],
+  "note": "Её Божество вместе с Гаурой — у Нароттамы."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@gaura-vishnupriya-mayapura",
+  "facts": [
+   "F145",
+   "F146",
+   "F147",
+   "F148"
+  ],
+  "note": "Её Божество вместе с Гаурой — в Майяпуре (1894)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F91"
+  ],
+  "event": "ev-gauridasa-deities",
+  "note": "Параллель: в то же время явил Божества Нитая-Гауры."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@kanai-shrikhanda",
+  "facts": [
+   "F144"
+  ],
+  "note": "Явил служение Гауранге и Вишнуприе в Шрикханде (по повелению Нарахари)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F144",
+   "F91"
+  ]
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F144"
+  ],
+  "note": "Отец Канаи."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@vipradasa",
+  "facts": [
+   "F141"
+  ],
+  "note": "Из его амбара явились Божества Гауры и Вишнуприи."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F60",
+   "F61",
+   "F65",
+   "F74",
+   "F125",
+   "F128",
+   "F129",
+   "Q3",
+   "Q6"
+  ],
+  "note": "Главный рассказ о ночи перед санньясой и разлуке; по B в его книгу вставлены учения гаура-нагари (F125)."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F60",
+   "F61",
+   "F86",
+   "F87",
+   "Q4",
+   "Q8"
+  ]
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F59",
+   "F22",
+   "F57",
+   "F58",
+   "Q2",
+   "Q5"
+  ]
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F64",
+   "F136"
+  ]
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F12",
+   "F145",
+   "F147"
+  ],
+  "note": "Определил день её явления; дал дозволение на установку Божеств."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F12",
+   "F124",
+   "F132",
+   "F146",
+   "F147",
+   "F148"
+  ],
+  "note": "Установил Божества Гауры и Вишнуприи в Майяпуре 21.03.1894; распространил празднование её дня явления."
+ },
+ {
+  "from": "@vishnupriya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F99",
+   "F114",
+   "F122",
+   "F148",
+   "F149"
+  ],
+  "note": "Песня о Гауре и Вишнуприи (приложение к «Анувритти»); учредил «Вишва-вайшнава-раджа-сабху» в её день (1919)."
  }
 ]
