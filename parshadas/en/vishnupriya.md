@@ -22,7 +22,7 @@ The wedding itself he describes in detail in the fifteenth chapter of the Adi-kh
 
 “Then Nimai married Vishnupriya, the goddess of fortune.” (CC, Adi 16.25)
 
-and passes at once to the Lord's victory over the digvijayi; beyond this the “Charitamrita” says not a word about
+He passes at once to the Lord's victory over the digvijayi; beyond this the “Charitamrita” says not a word about
 Vishnupriya. The matchmaking and the wedding are described by Murari Gupta in his “Kadacha” (first prakrama, sargas
 13–14), and in particular detail by Lochana Dasa in the “Chaitanya-mangala” (Adi-khanda, chapter 6); in Lochana Dasa's
 poem Vishnupriya appears in many other places as well, and at its very beginning, among the invocations, he glorifies
@@ -46,7 +46,7 @@ well-mannered, like Lakshmi in person. From early childhood she was devoted to h
 the Ganga three times a day[^3]; she kept strictly to the injunctions of scripture, performed puja and archana, served
 tulasi and observed many vows — from her very first years her life was service to Vishnu. <!-- F6 F7 F8 -->
 
-She appeared on the bright fifth lunar day of the month of Magha — shukla-panchami, or Sri-panchami. On this day those
+She appeared on the fifth lunar day of the bright fortnight of the month of Magha — shukla-panchami, or Sri-panchami. On this day those
 who seek perfection in worldly learning honour Sarasvati, the goddess of knowledge. But knowledge is of two kinds: apara,
 the worldly, and para, the transcendent; and Vishnupriya is honoured as the goddess and mistress of transcendent
 knowledge, para-vidya. The day of her appearance was determined by Jagannatha Dasa Babaji; he revealed it anew to the
@@ -215,7 +215,7 @@ asked in tears:
 “‘Listen, listen, Lord of my life, put Your hand on my head [and tell me the truth]: will You really take sannyasa? Hearing
 this from people, I feel my heart will break — I will enter the fire.’” (CM, Madhya 12.10)
 
-He is the treasure of her life, ever youthful; deprived of Him, she said, it would be better to drink poison.
+“You are the treasure of my life, ever youthful,” she said, “and, deprived of You, I would rather drink poison.”
 <!-- F65 F66 -->
 
 The Lord, smiling slightly, began to instruct her:
@@ -540,8 +540,8 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
 [^1]: According to other information, Vishnupriya was the daughter of the priest (purohita) of a local zamindar.
 [^2]: In the opinion of some, Durgadasa Mishra was not the grandfather but the father of Vishnupriya.
 [^3]: According to one biography — two or three times a day.
-[^4]: So in the “Chaitanya-bhagavata” and in most biographers. According to the “Chaitanya-mangala,” Shachi arranged the
-    second marriage through Dvija Kashishvara.
+[^4]: So in most biographers; according to one retelling of the “Chaitanya-mangala,” Shachi arranged the second marriage
+    through Dvija Kashishvara.
 [^5]: The order is given differently: in the “Chaitanya-bhagavata” (Adi 15.176–178) the exchange of garlands comes first,
     then the flowers; one biography in its own retelling names the flowers first and then the garlands.
 [^6]: The words “whoever hears of the Lord's wedding is freed from the bonds of the world; Lakshmi sat beside the Lord, and
@@ -572,8 +572,9 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
 [^15]: Here the sources differ in wording: according to one explanation, Sri Navadvipa-dhama is the lila-shakti, according
     to another — the nila-shakti; in Srila Bhaktisiddhanta's song Nila Devi is the Dhama and Lakshmi Devi is Lakshmipriya,
     and all three shaktis serve Radha and Krishna.
-[^16]: So in one biography; according to others, a single venomous snake lived in the granary, and the Deities came of
-    Themselves not onto Narottama's lap but into his hands.
+[^16]: The details are told differently: according to some biographies, a single venomous snake lived in the granary, and
+    the Deities of Themselves sat on Narottama's lap (so too in the “Bhakti-ratnakara”); according to another, many snakes
+    hissed there, and the Deities came of Themselves into his hands.
 [^17]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
     disagrees both with the “Bhakti-ratnakara” (10.202) and with the other testimonies.
 [^18]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
