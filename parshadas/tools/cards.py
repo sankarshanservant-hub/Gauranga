@@ -15,10 +15,14 @@ REL_TYPES = set('''father mother spouse son daughter sibling relative grandfathe
 in-law guru disciple siksha-guru siksha-disciple sannyasa-guru sannyasa-disciple friend companion servant served-by
 met opposed ruler-of subject-of deity-served lineage-predecessor lineage-successor neighbor host guest patron
 protege co-worker other'''.split())
+IDENT_IN = set('krishna-lila rama-lila other-avatara tattva other'.split())
 KINDS = set('associate family guru acharya opponent ruler deity other'.split())
 
+DUP = []
 def tags(path, ch):
-    return set(re.findall(rf'^\| ({re.escape(ch)}[\w\-]+) \|', (ROOT / path).read_text(), re.M))
+    found = re.findall(rf'^\| ({re.escape(ch)}[\w\-]+) \|', (ROOT / path).read_text(), re.M)
+    DUP.extend(f'{path}: тег {t} заведён {found.count(t)} раза' for t in sorted(set(found)) if found.count(t) > 1)
+    return set(found)
 
 PERSONS, PLACES = tags('lila-db/PERSONS.md', '@'), tags('lila-db/PLACES.md', '#')
 EVENTS = {m for f in (ROOT / 'lila-db').glob('events*.yaml') for m in re.findall(r'^- id: (ev-[\w\-]+)', f.read_text(), re.M)}
@@ -42,7 +46,9 @@ def check(card, fname):
     if me not in PERSONS: errs.append(f'id {me!r} нет в PERSONS.md')
     if f'{me.lstrip("@")}.yaml' != fname: errs.append(f'имя файла должно быть {me.lstrip("@")}.yaml')
     if card.get('kind') and card['kind'] not in KINDS: errs.append(f'kind {card["kind"]!r} не из {sorted(KINDS)}')
-    for r in card.get('relations') or []:
+    for i in card.get('identities') or []:
+        if i.get('in') not in IDENT_IN: errs.append(f'identities: in {i.get("in")!r} не из {sorted(IDENT_IN)}')
+    for r in (card.get('relations') or []) + (card.get('unnamed') or []):
         if r.get('type') not in REL_TYPES: errs.append(f'relations: тип {r.get("type")!r} не из списка (cards.py REL_TYPES)')
     for path, v in walk(card):
         if not isinstance(v, str): continue
@@ -77,6 +83,7 @@ def main():
     out = P / 'export'; out.mkdir(exist_ok=True)
     for name, data in (('persons', persons), ('relations', rels), ('identities', idents)):
         (out / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=1))
+    if DUP: print('предупреждения:\n  ' + '\n  '.join(DUP))
     if allerr: print('\n'.join(allerr))
     if not quiet or allerr: print(f'{len(files)} карточек, {len(rels)} связей, {len(idents)} отождествлений; ошибок: {len(allerr)}')
     sys.exit(1 if allerr else 0)

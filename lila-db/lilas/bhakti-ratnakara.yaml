@@ -739,7 +739,7 @@
   order: 120
   title: "Перечень книг Санатаны, Рупы, Рагхунатхи Даса и Дживы (по «Лагху-тошани» и Кришнадасу Адхикари)"
   summary: "Четыре книги Санатаны, шестнадцать — Рупы (с одиннадцатью шлоками аштакала-лилы, развёрнутыми Кришнадасом Кавираджей), три — Рагхунатхи Даса, двадцать пять — Дживы (включая семь «Сандарбх»); бхакти постигается лишь милостью Бхакти-деви."
-  persons: ["@sanatana-gosvami", "@rupa-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@krishnadasa-adhikari", "@krishnadasa-kaviraja"]
+  persons: ["@sanatana-gosvami", "@rupa-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@krishnadasa-adhikari-vraja", "@krishnadasa-kaviraja"]
   places: ["#vrindavana"]
   kind: post-advent
   authority: B

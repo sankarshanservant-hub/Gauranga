@@ -411,7 +411,7 @@
 | @kumara-deva | Кумара-дева | Kumara-deva | отец Санатаны, Рупы и Валлабхи (Анупамы) |
 | @madhusudana-vachaspati | Мадхусудана Вачаспати | Madhusudana Vachaspati | учитель Дживы Госвами в Каши (БР 1); не путать с @madhusudana-sarasvati |
 | @vasanta-dasa | Васанта (Дас) | Vasanta (Dasa) | поэт из брахманов, ученик Нароттамы |
-| @krishnadasa-adhikari | Кришнадас Адхикари | Krishnadasa Adhikari | ученик Дживы Госвами, перечислил книги Госвами (БР 1) |
+| @krishnadasa-adhikari-vraja | Кришнадас Адхикари | Krishnadasa Adhikari | ученик Дживы Госвами, перечислил книги Госвами (БР 1); не путать с @krishnadasa-adhikari (Натхдвара) |
 | @chaitanya-dasa-vamshi | Чайтанья Дас, сын Вамшиваданы | Chaitanya Dasa, son of Vamshivadana | приходит на праздник в Кхетури («Нароттама-виласа» 6); не путать с @chaitanya-dasa |
 | @balarama-pujari-kheturi | Баларама, пуджари в Кхетури | Balarama, the pujari of Kheturi | брахман, ученик Нароттамы, служитель Гауранги в Кхетури; не путать с @balarama |
 | @ananta-puri | Ананта Пури | Ananta Puri | санньяси, один из восьми «Пури» (ГГД 97); ванданы |
