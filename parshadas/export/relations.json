@@ -713,5 +713,427 @@
    "F101",
    "F106"
   ]
+ },
+ {
+  "from": "@shachi",
+  "type": "father",
+  "who": "@nilambara-chakravarti",
+  "facts": [
+   "F1"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "spouse",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F2",
+   "F3",
+   "F20",
+   "F21"
+  ],
+  "event": "ev-jagannatha-mishra-marries-shachi",
+  "note": "Восемь дочерей умерли сразу после рождения, имён нет (F3)."
+ },
+ {
+  "from": "@shachi",
+  "type": "son",
+  "who": "@vishvarupa",
+  "facts": [
+   "F3",
+   "F4",
+   "F17",
+   "F24",
+   "F27"
+  ],
+  "event": "ev-vishvarupa-sannyasa"
+ },
+ {
+  "from": "@shachi",
+  "type": "son",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F6",
+   "F9",
+   "F21",
+   "F30",
+   "F33",
+   "F43",
+   "F44",
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F63",
+   "F85",
+   "F109",
+   "F111"
+  ],
+  "note": "Господь поселился в Пури по её желанию (F44) и незримо приходил вкушать её подношения (F60, F61, F63); обещал «ещё два рождения» быть её сыном (F109). ЧЧ Мадхья 9.301: в ответе Ранге Пури Шачи не названа (F24)."
+ },
+ {
+  "from": "@shachi",
+  "type": "sibling",
+  "who": "@sarvajaya",
+  "facts": [
+   "F46"
+  ],
+  "note": "По «Гаудия-вайшнава-абхидхане»."
+ },
+ {
+  "from": "@shachi",
+  "type": "in-law",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F42",
+   "F45",
+   "F46",
+   "F86"
+  ],
+  "note": "Муж сестры (по ГВА; «по некоторым сведениям» — месо Господа); после смерти Джаганнатхи вёл её хозяйство (F45); привёз её в Шантипур (F42) ≠ по B за ней послал Адвайта (F113)."
+ },
+ {
+  "from": "@shachi",
+  "type": "in-law",
+  "who": "@lakshmipriya",
+  "facts": [
+   "F28",
+   "F29",
+   "F30",
+   "F115",
+   "F116",
+   "F117",
+   "F118"
+  ],
+  "event": "ev-marriage-lakshmipriya",
+  "note": "Невестка; служила свекрови."
+ },
+ {
+  "from": "@shachi",
+  "type": "in-law",
+  "who": "@vishnupriya",
+  "facts": [
+   "F31",
+   "F32",
+   "F53",
+   "F86",
+   "F95",
+   "F107",
+   "F108"
+  ],
+  "event": "ev-marriage-vishnupriya",
+  "note": "Невестка; разделила с ней разлуку."
+ },
+ {
+  "from": "@shachi",
+  "type": "in-law",
+  "who": "@vallabhacharya",
+  "facts": [
+   "F28",
+   "F80"
+  ],
+  "note": "Отец Лакшмиприи."
+ },
+ {
+  "from": "@shachi",
+  "type": "in-law",
+  "who": "@sanatana-mishra",
+  "facts": [
+   "F31",
+   "F32",
+   "F96",
+   "F97"
+  ],
+  "note": "Отец Вишнуприи."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@vanamali-acharya",
+  "facts": [
+   "F80"
+  ],
+  "event": "ev-lakshmipriya-matchmaking",
+  "note": "Сват первой женитьбы; сначала она ему отказала."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@kashinatha",
+  "facts": [
+   "F31",
+   "F95",
+   "F96",
+   "F97"
+  ],
+  "event": "ev-vishnupriya-matchmaking",
+  "note": "Сват второй женитьбы (T и M 246) ≠ M 85 по «Чайтанья-мангале» — Двиджа Кашишвара (F81)."
+ },
+ {
+  "from": "@shachi",
+  "type": "friend",
+  "who": "@malini",
+  "facts": [
+   "F93",
+   "F110"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "friend",
+  "who": "@sita-thakurani",
+  "facts": [
+   "F87",
+   "F88",
+   "F89",
+   "F90",
+   "F91",
+   "F92"
+  ],
+  "note": "Сита дала Младенцу имя «Нимай» (M, B; ЧЧ Ади 13.117) ≠ T: имя дали Шачи и женщины (F10, F88)."
+ },
+ {
+  "from": "@shachi",
+  "type": "friend",
+  "who": "@ratnavati",
+  "facts": [
+   "F67"
+  ],
+  "note": "Мать Гададхары Пандита; относилась к Шачи как к старшей сестре."
+ },
+ {
+  "from": "@shachi",
+  "type": "neighbor",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F15",
+   "F22"
+  ],
+  "note": "Он и его жена Духкхини любили Нимая как родители (F22)."
+ },
+ {
+  "from": "@shachi",
+  "type": "neighbor",
+  "who": "@hiranya-pandita",
+  "facts": [
+   "F15"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F17",
+   "F27",
+   "F37",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F73"
+  ],
+  "event": "ev-shachi-vaishnava-aparadha",
+  "note": "Оскорбила Адвайту лишь мысленно, из любви к сыну, и получила прощение, взяв пыль с его стоп. T: после прощения Господь показал ей Свой облик ≠ B: Господь сказал, что простить может лишь Адвайта; Шачи взяла прах его стоп и упала без чувств в преме (F40). Адвайта простился с ней перед путём в Нилачалу (F41)."
+ },
+ {
+  "from": "@shachi",
+  "type": "guru",
+  "who": "@advaita",
+  "event": "ev-advaita-initiates-mishra-shachi",
+  "note": "Только «Адвайта-пракаша» (уровень D) в lila-db; в реестре нет."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F42",
+   "F48",
+   "F64",
+   "F70",
+   "F102",
+   "F103",
+   "F104",
+   "F105",
+   "F106"
+  ],
+  "event": "ev-nityananda-meal-shachi",
+  "note": "Во сне увидела Гауру и Нитая как Каная и Балая; Нитай звал её «Ма» (F103). Где жил Нитьянанда по её просьбе после свадьбы: T — в Навадвипе, M — у Адвайты в Шантипуре (F64)."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F33",
+   "F39",
+   "F55"
+  ],
+  "note": "Объяснил ей, что состояние Нимая — не болезнь, а према (F33)."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F34",
+   "F56"
+  ],
+  "note": "Просила его всегда быть рядом с Нимаем (F34)."
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F23"
+  ],
+  "note": "С учеником Рангой Пури; угостила их гхантом из бананового цвета."
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@ranga-puri",
+  "facts": [
+   "F23",
+   "F24"
+  ],
+  "event": "ev-ranga-puri-pandharpur"
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F26"
+  ],
+  "event": "ev-ishvara-puri-navadvipa"
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F58"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F114"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "guest",
+  "who": "@murari-gupta",
+  "facts": [
+   "F114"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F43",
+   "F59",
+   "F60"
+  ],
+  "event": "ev-damodara-sent-navadvipa",
+  "note": "Послан Господом помогать вести её дела и передать тайное послание."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F57",
+   "F61",
+   "F62",
+   "F114"
+  ],
+  "event": "ev-jagadananda-visits-shachi",
+  "note": "Ежегодный посланец Господа с Его ношеной тканью."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@kala-krishnadasa",
+  "facts": [
+   "F57"
+  ],
+  "event": "ev-messenger-to-gauda-after-south",
+  "note": "Принёс весть о возвращении Господа с юга."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@shridhara",
+  "facts": [
+   "F36",
+   "F43"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "servant",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F47",
+   "F48",
+   "F49"
+  ],
+  "note": "Q7: Ишана, которого так любила Шачи-тхакурани."
+ },
+ {
+  "from": "@shachi",
+  "type": "servant",
+  "who": "@vamshivadana",
+  "facts": [
+   "F49",
+   "F50",
+   "F51",
+   "F54"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "servant",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F52"
+  ],
+  "note": "По ГВА — вёл её дела и дела Вишнуприи."
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F70",
+   "F71"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@vasudha",
+  "facts": [
+   "F70"
+  ]
+ },
+ {
+  "from": "@shachi",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F50",
+   "F65"
+  ],
+  "note": "Благословила его во сне (F65)."
  }
 ]
