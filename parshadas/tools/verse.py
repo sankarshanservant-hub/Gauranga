@@ -2,7 +2,7 @@
 """Перевод стиха по ссылке из наших файлов (почти без затрат токенов).
   verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД (chaitanya-charitamrita/vcd/txt/CC_<Лила><NN>.txt)
   verse.py "CB Antya 3.176-178"    — ЧБ, Мадхья/Антья (chaitanya-bhagavata/src/txt/CB_<Кханда><NN>.txt)
-Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади (CB_Adi_all.txt) — двухколоночная выгрузка, автоматически не ищется."""
+Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади — по CB_Adi_verses.json (разбор tools/cb_adi_parse.py, ~94 % стихов)."""
 import re, sys
 from pathlib import Path
 R = Path(__file__).resolve().parents[2]
@@ -18,8 +18,16 @@ def cc(lila, ch, a, b):
     return out
 
 def cb(kh, ch, a, b):
-    if kh == 'Adi':
-        return ['ЧБ Ади: файл CB_Adi_all.txt — двухколоночная выгрузка, искать вручную']
+    if kh == 'Adi':  # разобрано tools/cb_adi_parse.py из двухколоночной выгрузки CB_Adi_all.txt
+        import json
+        d = json.loads((R / 'chaitanya-bhagavata/src/txt/CB_Adi_verses.json').read_text())
+        out = []
+        for v in range(a, b + 1):
+            s = d.get(f'{ch}.{v}', '')
+            sure = s.rstrip().endswith(('.', '!', '?', '»', '”', ']', ')')) and len(s) < 450
+            out.append(f'({v}) ' + (s if s else '— не найден (искать в CB_Adi_all.txt)')
+                       + ('' if not s or sure else '  ⚠ проверить по CB_Adi_all.txt (разбор неуверенный)'))
+        return out
     t = (R / f'chaitanya-bhagavata/src/txt/CB_{kh}{ch:02d}.txt').read_text(errors='replace')
     out = []
     for v in range(a, b + 1):
