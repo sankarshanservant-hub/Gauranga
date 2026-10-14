@@ -902,6 +902,217 @@ On Raghava's advice Raghunatha gave a generous dakshina to Nityananda and His co
 blessing, considered his life fulfilled. This festival is celebrated in Panihati to this day — as the
 chida-dadhi-mahotsava, the festival of flat rice with yogurt. <!-- F290 F291 F292 Q40 -->
 
+## Through Gauda: Gadadhara Dasa, Saptagrama, Shantipur
+Once Nityananda wished to wear ornaments — and at once countless ornaments appeared; putting them on, He wandered in the
+dress of a cowherd (gopa-vesha). So He went round the homes of devotees in the villages on both banks of the Ganga,
+spreading kirtana everywhere. <!-- F293 F294 -->
+
+In the house of Gadadhara Dasa He found the master in the bhava of a gopi: with a pot of Ganga water on his head he was
+crying “Who will buy milk!” Seeing this, Nityananda took from his temple the Deity of Bala-Gopala whom Gadadhara Dasa
+served, and danced, pressing Him to His chest. There, too, the dana-lila was played — the pastime of Krishna levying
+“toll” on the gopis:
+
+“Gadadhara Dasa was in bliss, overwhelmed by the feelings of a gopi. In his house Nityananda played in the drama
+‘Danakeli.’” (CC, Adi 11.17)
+
+Madhavananda Ghosha sang the song of the dana-khanda-lila, and Nityananda danced and sank into deep trance; that is why
+the house of Gadadhara Dasa is called the place of the dana-lila[^38]. <!-- F295 F296 -->
+
+Then Nityananda came to Mayapur to Shachi, spent a few days in Khardaha and set out with His companions for Saptagrama:
+
+“Having spent a few days in Khardaha, Nityananda set out with His companions for Saptagrama.” (CB, Antya 5.443)
+
+“In great bliss Nityananda bathed at that ghata together with His companions.” (CB, Antya 5.448)
+
+“Lord Nityananda stayed on the bank of the Triveni in the house of the fortunate Uddharana Datta.” (CB, Antya 5.449)
+
+“Uddharana Datta sincerely worshipped Nityananda's feet with body, mind and speech.” (CB, Antya 5.450) <!-- F297 Q41 -->
+
+Nityananda accepted Uddharana's service and gladly ate what he cooked, won over by His devotee's love, and all around He
+preached love for the Name. Uddharana's presence purified the whole caste of gold merchants; by Nityananda's mercy the
+banik traders, though considered low and unlearned, attained prema-bhakti, and even a hostile yavana took shelter at His
+feet. Sri Krishna Chaitanya and Nityananda wanted to show that a great devotee can appear in any family and caste —
+therefore some of Their devotees were born in such families. By worshipping Uddharana and pleasing him one quickly gains
+Nityananda's mercy, and through it love for Krishna. <!-- F298 F299 F300 I4 -->
+
+Chaitanya and Nityananda delivered everyone — sinners and offenders alike. Ordinarily offences keep the holy name from
+bearing fruit, but with Them it is otherwise:
+
+“But such considerations do not apply to the names of Sri Chaitanya and Nityananda Prabhu. One who chants these holy
+names will gradually be purified of all possible offences and, with tears in his eyes, will taste the nectar of divine
+love for Krishna.” (CC, Adi 8.31)
+
+Bhaktivinoda Thakura explains: whoever takes shelter of Chaitanya and Nityananda with faith is quickly purified of
+offences. <!-- F301 Q48 -->
+
+After the chida-dadhi festival Mahesha Pandita, too, followed Nityananda to Saptagrama. From there Nityananda came to
+Shantipur and delighted in sankirtana with Advaita; by His mercy hundreds of villains, thieves and robbers attained the
+good. <!-- F302 F303 -->
+
+## The Robber Chief
+In Navadvipa Nityananda was staying at that time in the house of Hiranya Pandita. The son of a Navadvipa brahmana had
+become the chief of a robber band; coveting Nityananda's ornaments, he dogged His steps. <!-- F304 -->
+
+On the first night the band surrounded with weapons the house where kirtana was going on and waited for everyone to fall
+asleep — but by Nityananda's will it was the robbers who fell asleep. They woke to the cawing of crows, hid their weapons,
+went to the Ganga and blamed one another. On the second night, after worshipping Chandi with wine and meat, they again
+surrounded the house — and saw a host of armed guards singing the name of Hari; in amazement they did not dare go out to
+their work for some ten days. On the third night, a very dark one, they entered the house — and all went blind: they fell
+into pits of leftovers, onto thorns, into rubbish heaps, and on top of that a storm with hail broke out. <!-- F305 F306 F307 -->
+
+Then the chief remembered Nityananda's inconceivable power, fell at His feet, begged forgiveness and glorified Him.
+Nityananda placed His foot on his head; the offences of the chief and of the whole band were removed, and they attained
+prema-bhakti. Through the influence of the former chief, thieves and robbers everywhere turned to righteousness and took
+shelter of Gaura:
+
+“They stopped stealing, harming others and doing immoral deeds, and their conduct became saintly.” (CB, Antya 5.697)
+
+“Other avataras of the Supreme Lord do not give shelter so easily, but Nityananda always moved each and every one to
+surrender to Lord Chaitanya.” (CB, Antya 5.700)
+
+And Vrindavana Dasa ranks a brahmana who does not accept Nityananda no higher than a thief and robber — and such a one
+Nityananda teaches through robbers (CB, Antya 5.701). <!-- F308 F309 Q42 -->
+
+## A Brahmana's Doubt; Slander of the Avadhuta
+Nityananda preached Gaura's name wearing ornaments and fragrant garlands, His lips red with betel. A brahmana from
+Navadvipa, a former schoolfellow of Gaura and His devotee, came to doubt Nityananda and went with this to the Lord. Gaura
+answered: the conduct of the highest, the uttama-adhikari, is not subject to the general rules and is not given for
+imitation; whoever would imitate Rudra, who drank the kalakuta poison, will surely die; and if the highest adhikari
+outwardly does something reprehensible, not only blasphemy of him but even mockery brings ruin[^22]. <!-- F310 F311 -->
+
+“His deeds lie beyond the jurisdiction of any rules and injunctions. Who is able to understand Him?” (CB, Antya 6.118)
+
+“‘Even if Sri Nityananda takes the hand of an outcaste woman or enters a wine shop, His lotus feet still remain an object
+of worship even for Brahma.’” (CB, Antya 6.124)
+
+“Strong faith in Nityananda arose in him. Then that brahmana returned home to Navadvipa.” (CB, Antya 6.126) <!-- Q43 -->
+
+Bhaktivinoda Thakura in the “Sajjana-toshani” (8.9) rejects the judgments of the “adhyakshikas,” worldly judges: though
+Nityananda was an avadhuta, never once in His life did He show bad conduct, and shame on those who call Him immoral.
+People of bad conduct slander the acharya to pass off their vices as virtues. Many pseudo-Vaishnavas say that Nityananda
+ate fish and meat, ascribe to Mahaprabhu dealings with women and count Him among the “nava-rasikas,” and slander Rupa
+Gosvami and Ramananda. All this is the slander of the age of Kali, meant to justify one's own vices: the avadhuta
+Nityananda is spotless. <!-- F312 Q63 I24 -->
+
+## Shivananda Sena and the Last Coming to Puri
+Every year it was Shivananda Sena who led the Bengali devotees to Puri: he paid the road tolls for everyone and knew the
+way through Orissa well. Once he was delayed at the toll station, leaving everyone at the crossing, and without him no
+lodging could be found — all waited under a tree. Nityananda, like a hungry cowherd boy of Vraja, acting out the pangs of
+hunger, feigned anger and cursed: “Shiva has not come and found us lodging, and I am dying of hunger — may his three sons
+die!” Shivananda's wife wept. But Shivananda, on arriving, told her: let all three die, since we have caused Nityananda
+Prabhu inconvenience. <!-- F313 F314 F315 -->
+
+“Having spoken thus, Shivananda went without delay to Nityananda. But Nityananda rose and kicked him.” (CC, Antya 12.24)
+
+Shivananda took this blow as a sign of the greatest good fortune. He found lodging in a milkman's house, brought
+Nityananda there and glorified Him:
+
+“Under the pretext of punishment You have granted me Your mercy. Who can understand the nature and greatness of Your
+deeds?” (CC, Antya 12.28)
+
+“Even Brahma cannot touch the dust of Your beautiful feet. Yet with Your foot You have touched my body, full of sin.” (CC,
+Antya 12.29)
+
+Pleased, Nityananda embraced him. So Shivananda received the touch of His feet, unattainable even for Brahma. But
+Shivananda's nephew Shrikanta was upset that Nityananda had kicked a companion of Mahaprabhu honoured by all, and went on
+ahead to Puri alone; the Lord knew his thoughts. <!-- F316 F317 Q47 -->
+
+This was Nityananda's last coming to Puri — in the year Haridasa Thakura departed. Mahaprabhu had forbidden Him to come
+and told Him to preach in Gauda; that same year He sent Jagadananda to Navadvipa with news for His mother. But
+Nityananda, having taken leave of Shachi, could not bear the separation and joined the Bengali pilgrims (CC, Antya 12).
+<!-- F256 F257 -->
+
+In Puri Nityananda stayed in a flower garden. Gaura came to Him alone and, circling Him, glorified Him with the words:
+let Nityananda take the hand of a yavana woman or enter a wine shop — His feet are worthy of Brahma's worship[^39]. The
+ornaments on Nityananda, Gaura said — gold, gems, pearls, diamonds, silver — are the nine kinds of bhakti themselves, and
+the ignorant do not grasp it; Nityananda and His companions are the Baladeva of Vraja and His cowherd friends. And again
+and again Gaura forbade Him to come to Nilachala: “Stay in Gauda and spread what I desire — there You will have My
+eternal company.” <!-- F258 F259 F260 -->
+
+## Other Homes and Places of Gauda
+In Gopalpur Nityananda with His retinue stayed in the house of Raja Krishnananda Datta, Narottama's father, and blessed
+him generously. In Shrikhanda, when Mahaprabhu and Nityananda, coming to the house of Narahari Sarakara, wished for honey,
+Narahari turned the water of the pond by the house into honey; since then the pond has been called Madhu-pushkarini. At
+Nupura-kunda near the shripata of Lavanga (Akai-hat, near Katwa), tradition says, an ankle bell fell — according to some,
+that of Raghunandana, the son of Mukunda of Shrikhanda, according to others, that of Nityananda Prabhu.
+<!-- F318 F319 F320 -->
+
+At Ramakeli Rupa and Sanatana, coming to the Lord by night, first met Nityananda and Haridasa:
+
+“In the dead of night they came to the house of Sri Chaitanya. First they met Sri Nityananda and Thakura Haridasa.” (CC,
+Madhya 1.183)
+
+“And They informed Mahaprabhu that Rupa and Sanatana had come to see Him.” (CC, Madhya 1.184)
+
+To show that a conditioned soul is saved by the mercy of devotees, the Lord told Nityananda, Haridasa, Srivasa, Gadadhara
+and others to bless the brothers, and they touched the feet of His companions, among them the feet of Nityananda.
+<!-- F321 F442 -->
+
+With the place called Prematali on the bank of the Padmavati is linked the tradition of the love left for Narottama: by one
+version, Mahaprabhu, travelling in Bengal and having sent Nityananda to Puri, wept there in ecstasy and kept prema for
+Narottama; by another (the “Prema-vilasa”), at Kanai-natshala the Lord in kirtana called out “Narottama!” and to
+Nityananda's question replied: “You do not know Your own glory: in Puri You shed tears of love day after day; I have
+gathered Your love and shall leave it in the keeping of the Padmavati for Narottama”; by a third, it was Nityananda
+Himself who bathed at Prematali and left prema there for Narottama[^40]. <!-- F322 -->
+
+According to the “Bhakti-ratnakara” (1.765–772), young Jiva Gosvami met Nityananda in Navadvipa, in Srivasa's house.
+Nityananda with a father's tenderness touched his head with His feet, raised him, embraced him tightly and said in
+ecstasy: “I rushed here from Khardaha only for your sake.” He told Srivasa and others to bless Jiva, kept him with Him for
+some time, and then sent him west: “Hurry to Vraja — the Lord has given that place to your family.” By Nityananda's mercy
+Jiva went round all the holy places of Navadvipa-dhama; in Bhaktivinoda Thakura's “Navadvipa-dhama-mahatmya” it is
+Nityananda who guides him through Navadvipa. At Shridhara's house, He says there, the Lord used to stop the kirtana to let
+the devotees rest — this is the “vishrama-sthana,” the place of rest — and He invites Jiva to rest there too.
+<!-- F323 F409 Q61 -->
+
+## Marriage: Vasudha and Jahnava
+Nityananda, the avadhuta bound by no rules, in Gauda took on the role of a householder as well. Not all the biographies
+speak of it: one of them, which calls Him the eldest son of Hadai and Padmavati (but does not name their other children),
+is silent about the marriage, as it is silent about the date and place of His departure; of the identifications according
+to the “Gaura-ganoddesha-dipika” it gives only two — Baladeva, and Jahnava as Ananga-manjari. <!-- F84 -->
+
+Nityananda's wives were the two daughters of Surya Dasa Sarakhela (Sarahela), elder brother of Gauri Dasa Pandita —
+Vasudha and Jahnava. By one account, Surya Dasa lived in Shaligrama and served as a secretary to the Muslim authorities;
+by another, his house and temple stood in Ambika, a little west of the shripata of Gauri Dasa[^41]. He and his younger
+brother Krishnadasa Sarakhela had firm faith in Nityananda:
+
+“Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were full of love of God.” (CC,
+Adi 11.25) <!-- F324 F325 F326 -->
+
+The “Bhakti-ratnakara” (12th wave) tells in detail of this wedding, performed “according to human custom.” Its
+arrangement was taken on by Krishnadasa, son of Harihora (by some, a king) of Borgachi (Boroganchhi) near Shaligrama, a
+dear devotee of Nityananda[^42]. An old brahmana of Shaligrama, seeing Surya Dasa searching for a bridegroom for his two
+daughters, told him that Nityananda was their eternal husband. And Surya Dasa saw Nityananda in a dream as Balarama
+Himself — in incomparable radiance filling all ten directions, in wondrous ornaments — and on either side of Him his
+daughters in the forms of Revati and Varuni[^43]. “Until He accepts them, I shall have no peace,” he told a brahmana
+friend. <!-- F327 F328 F329 F330 F331 -->
+
+Surya Dasa sent the brahmana to Navadvipa to Srivasa, with whom Nityananda was then living. Srivasa rejoiced and passed
+the matter on to Nityananda, and the merciful Nityananda had Surya Dasa assured that He would fulfil his wish; Advaita,
+on hearing it, said: “Let it happen soon.” Srivasa, Advaita, Chandrashekhara, Murari Gupta and others gathered and sang
+sankirtana; Nityananda arrived, and the devotees from Shaligrama arrived too. Surya Dasa ran out to meet Him, fell at
+Nityananda's feet and held them, flooding the ground with tears and unable to utter a word; Nityananda smiled, could not
+hold back His joyful laughter and, bestowing full mercy on him, embraced him. Gauri Dasa, seeing his brother, was in
+ecstasy too. <!-- F332 F333 F334 -->
+
+When Surya Dasa offered his daughters at Nityananda's feet, He mercifully showed him the same vision in waking: both
+shone brighter than mountains of gold and kunkuma, in jewels and many-coloured garments, and Surya Dasa fainted with love.
+The adhivasa on the eve of the wedding was held in the house of Krishnadasa Sarakhela in Shaligrama in the presence of all
+the brahmanas of Borgachi and Shaligrama (BR 12.3983); Surya Dasa bowed to Nityananda's feet and, according to rite and
+custom, gave Him both daughters. He was truly fortunate, says the “Bhakti-ratnakara”: he gave his daughters to the
+Supreme Personality of Godhead, Lord Nityananda. <!-- F335 F336 F337 -->
+
+After the wedding Nityananda stayed for a while in Shaligrama, and then with His two wives came to Navadvipa to Shachi Devi
+and bowed at her feet; Shachi joyfully embraced Vasudha and Jahnava, sat them on her lap and pinched their cheeks
+affectionately. At Shachimata's request Nityananda lived for a time in Navadvipa, then in Saptagrama with Uddharana Datta,
+and then settled for good in Khardaha on the Ganga[^44]. In Khardaha He had a house where His two energies, Vasudha and
+Jahnava, lived; Parameshvari Dasa served them there. <!-- F338 F339 -->
+
+Nityananda's marriage is no worldly union. The eternal associates of the Lord, descending into the world, act in a human
+way, but never touch maya and are never entangled in family life; their unearthly nature is recognised by those who have
+surrendered to Vishnu and the Vaishnavas. Srila Bhaktisiddhanta Sarasvati says: Nityananda had no material body like
+ours; He entered into no material intimacy with a material body and did not sink into the material rasa of
+separation[^45]. <!-- I7 F431 -->
+
 <!-- SECOND SHIFT: section “Puri” and onward goes here; continue footnotes from [^30] -->
 
 [^1]: One of the names in this list — “Vishvasta” (“He on whom one may rely”) — is uncertainly read in the manuscript.
@@ -1006,3 +1217,27 @@ lemon tree to him (see below, “Disciples and Companions”).
 by the power of meditation (dhyana-yoga) brought Gaura to Panihati and had Him accept the feast. Nityananda's words to
 Raghunatha (CC, Antya 6.139–140) say that the Lord came to taste the feast out of His mercy; by one retelling — invisibly
 to others.
+[^38]: The biographies relate the details of the dana-lila differently. By one, Nityananda watched the performance (it was
+played by Madhavananda Ghosha) and fell into deep trance; according to the “Charitamrita,” Nityananda Himself played in
+it; by another account, the drama “Dana-khanda” was staged by Madhava Ghosha with Nityananda and Gadadhara Dasa taking
+part; by a third, Nityananda danced to Madhavananda Ghosha's song of the dana-khanda-lila.
+[^39]: One biography places these words at the meeting in the garden; in the “Chaitanya-bhagavata” (Antya 6.124) they are
+heard by the brahmana who doubted Nityananda (see above).
+[^40]: All three versions of the tradition are given by one and the same biography, in different places, without
+reconciling them.
+[^41]: The first by one biography, the second by another.
+[^42]: Where and in whose house the wedding was held the biographies tell differently. By one, the adhivasa was in the house
+of Krishnadasa Sarakhela in Shaligrama, while further on the same biography names Shantipur as the place of the wedding.
+By another, the preparations took place in Boroganchhi, in the house of Krishnadasa, son of Harihora, who persuaded
+Nityananda to come there; in the same place this Krishnadasa is called Surya Dasa's brother — evidently two Krishnadasas
+have been confused: the son of Harihora and Krishnadasa Sarakhela.
+[^43]: Which daughter was Revati and which Varuni is not clearly said, and the order of the names in one biography shifts:
+according to the “Gaura-ganoddesha-dipika” (65–66) Balarama's wives Varuni and Revati became Vasudha and Jahnava; in the
+dream Surya Dasa sees them “as Revati and Varuni,” in waking “as Varuni and Revati.” On the other view (Jahnava as
+Ananga-manjari) see below, “Identifications.”
+[^44]: By one biography, after the wedding Nityananda remained in Shaligrama and then came with His wives to Shachi; by
+another, at Shachi's request He lived in Navadvipa, then with Uddharana in Saptagrama, and finally settled for good in
+Khardaha. Here these accounts are combined into one.
+[^45]: Nityananda's marriage is His lila, arranged by His own energy (yogamaya), not a bond brought about by karma: Vasudha
+and Jahnava are His transcendental shaktis, and these pastimes are eternal (see below, “The Tattva of Nityananda”). So
+teaches Srila Bhaktisiddhanta Sarasvati; they must not be measured by a worldly measure (cf. note 22).
