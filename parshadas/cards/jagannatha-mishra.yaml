@@ -1,0 +1,137 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/jagannatha-mishra.md и lila-db.
+id: "@jagannatha-mishra"
+names:
+  ru: "Джаганнатха Мишра"
+  en: "Jagannatha Mishra"
+  variants: ["Пурандара", "Джаганнатха Пурандара", "Мишра Пурандара"]
+  facts: [F7]
+kind: family
+circle: [elders, navadvipa]
+period: [P01, P02, P03, P04]
+period_note: "После ухода — является в Гае принять пинду (P06, ev-jagannatha-mishra-accepts-pinda)."
+life:
+  appearance: {place: "#dhaka-dakshina", facts: [F1]}
+  disappearance:
+    date: "до паломничества Господа в Гаю (1508), после упанаяны Нимая"
+    conf: "приблизительно; источники расходятся"
+    facts: [F89, F90, F91, F92]
+    note: "T 19 — вскоре после упанаяны, когда Нимай погрузился в учение; M — после упанаяны, по болезни; B 720 — незадолго до паломничества в Гаю (F90). M — вошёл в непроявленные игры Господа (F91); B — в вечную лилу (F92). Место не указано."
+origin:
+  places: ["#shrihatta", "#dhaka-dakshina"]
+  family: ["@madhu-mishra", "@upendra-mishra", "@kalavati"]
+  varna: "брахман"
+  facts: [F1, F2, F4, F14]
+  note: "Поселился в Навадвипе (Майяпуре) на берегу Ганги (F9); о переселении из Шрихатты — lila-db, ev-mishra-family-migrates-navadvipa (Джаянанда, C; «Према-виласа», D)."
+relations:
+  # род
+  - {type: father, who: "@upendra-mishra", facts: [F4, F6], note: "Упендра в лиле Кришны — пастух Парджанья, дед Кришны (F6)."}
+  - {type: mother, who: "@kalavati", facts: [F4], note: "В ГГД 36 бабка Кришны Махаманья названа «Камалавати» — расходится с именем «Калавати» (F4)."}
+  - {type: grandfather, who: "@madhu-mishra", facts: [F2]}
+  - {type: uncle, who: "@rangada-mishra", facts: [F2, F3], note: "Имя: T — Рангада, B — Рангана (F3)."}
+  - {type: uncle, who: "@kirtida-mishra", facts: [F2]}
+  - {type: uncle, who: "@kirtivasa-mishra", facts: [F2]}
+  - {type: sibling, who: "@kamsari-mishra", facts: [F5], note: "Семь сыновей Упендры: Камсари, Парамананда, Падманабха, Сарвешвара, Джаганнатха (пятый), Джанардана, Трайлокьянатха."}
+  - {type: sibling, who: "@paramananda-mishra", facts: [F5]}
+  - {type: sibling, who: "@padmanabha-mishra", facts: [F5]}
+  - {type: sibling, who: "@sarveshvara-mishra", facts: [F5]}
+  - {type: sibling, who: "@janardana-mishra", facts: [F5]}
+  - {type: sibling, who: "@trailokyanatha-mishra", facts: [F5]}
+  - {type: spouse, who: "@shachi", facts: [F8, F17], event: ev-jagannatha-mishra-marries-shachi,
+     note: "Прежде Вишварупы родились восемь дочерей; все умерли (T — сразу при рождении), имён нет (F17)."}
+  - {type: in-law, who: "@nilambara-chakravarti", facts: [F8, F28, F88], note: "Тесть; составил гороскоп Нимая (F28)."}
+  - {type: son, who: "@vishvarupa", facts: [F18, F19, F20, F21, F57, F72, F73, F74], event: ev-vishvarupa-sannyasa}
+  - {type: son, who: "@mahaprabhu", facts: [F15, F24, F25, F44, F49, F69, F70, F71, F77, F80, F82, F86, F93, F95, F100],
+     note: "Господь принял его отцом (F24, F100); после его ухода совершил шраддху в Гае (F95)."}
+  - {type: relative, who: "@chandrashekhara-acharya", facts: [F97],
+     note: "Ещё при его жизни с женой помогал в доме; после его ухода принял на себя всю заботу о доме Шачи (F97). Родство (муж сестры Шачи) — по реестру Шачи (@shachi:F46)."}
+  # соседи, друзья
+  - {type: friend, who: "@srivasa", facts: [F36, F37, F102]}
+  - {type: friend, who: "@jagadisha-pandita", facts: [F65, F66, F67, F68]}
+  - {type: friend, who: "@hiranya-pandita", facts: [F65, F67, F68]}
+  - {type: neighbor, who: "@madhava-mishra", facts: [F38], note: "Родители Гададхары Пандита жили рядом с его домом."}
+  - {type: neighbor, who: "@ratnavati", facts: [F38]}
+  - {type: other, who: "@advaita", facts: [F22, F23, F72, F76],
+     note: "Навестил Шачи на шестом месяце беременности (F22); Мишра известил его о близких родах (F23); Вишварупа учился в его толе (F72); утешал после ухода Вишварупы (F76)."}
+  - {type: guru, who: "@advaita", event: ev-advaita-initiates-mishra-shachi,
+     note: "Только «Адвайта-пракаша» (уровень D) в lila-db: посвящение во сне; в реестре нет."}
+  - {type: other, who: "@sita-thakurani", facts: [F34, F35, F76], note: "Принесла дары новорождённому; наставляла, как растить ребёнка."}
+  - {type: other, who: "@gangadasa-pandita", facts: [F82, F88], note: "Отдал ему сына в учение."}
+  # слуги, гости
+  - {type: servant, who: "@ishana-navadvipa", facts: [F98, F105, F106]}
+  - {type: guest, who: "@madhavendra-puri", facts: [F99], note: "С учеником Рангой Пури; угощала Шачи."}
+  - {type: guest, who: "@ranga-puri", facts: [F99, F100]}
+  # Божества
+  - {type: deity-served, who: "@damodara-shalagrama", facts: [F51], event: ev-footprints-gopala}
+  - {type: deity-served, who: "@adhokshaja-mayapura", facts: [F108]}
+identities:
+  - in: krishna-lila
+    as: "Нанда Махараджа, царь Враджа"
+    source: "ГГД 37; ЧЧ Ади 17.294–295"
+    level: A
+    facts: [F10]
+  - in: other
+    as: "в него (вместе с Шачи) вошли отцы других аватар — Кашьяпа, Дашаратха, Сутапа, Васудева"
+    source: "ГГД 37–38"
+    level: A
+    facts: [F11, F12]
+    variants: ["T: родители других аватар «вошли» в Джаганнатху и Шачи (F11).",
+               "B: эта чета в разных лилах «известна» как Кашьяпа, Дашаратха, Сутапа и Васудева — без слов о вхождении (F12)."]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-navadvipa-vaishnavas-before-advent
+  - ev-associates-descend
+  - ev-mishra-family-migrates-navadvipa
+  - ev-jagannatha-mishra-marries-shachi
+  - ev-advaita-initiates-mishra-shachi
+  - ev-vishvarupa-birth
+  - ev-lord-enters-shachi-womb
+  - ev-advaita-worships-shachi-womb
+  - ev-gaura-appearance
+  - ev-nilambara-prediction
+  - ev-birth-festival-nimai-name
+  - ev-annaprashana-vishvambhara-name
+  - ev-first-steps
+  - ev-child-lies-on-snake
+  - ev-footprints-gopala
+  - ev-thieves-carry-off-nimai
+  - ev-tirthika-brahmana
+  - ev-discarded-pots-teaching
+  - ev-vishvarupa-sannyasa
+  - ev-hate-khadi
+  - ev-ganga-ghat-pranks
+  - ev-chudakarana-karnavedha
+  - ev-bird-tracks-game-father-anger
+  - ev-jagannatha-mishra-dream
+  - ev-upanayana
+  - ev-betel-swoon-vishvarupa-message
+  - ev-jagannatha-mishra-departure
+  - ev-study-gangadasa
+  - ev-jagannatha-mishra-accepts-pinda
+  - ev-gaya-vishnupada-prema
+  - ev-ranga-puri-pandharpur
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#shrihatta", "#dhaka-dakshina", "#navadvipa", "#house-jagannatha-mishra", "#ganga", "#gaya"]
+places_facts: [F1, F9, F95, F104, F105, F106, F107, F108]
+character:
+  - {trait: "несравненное великодушие — образец брахманского благородства", facts: [F16, I1]}
+  - {trait: "гостеприимство к санньяси и паломникам", facts: [F53, F55, F99], events: [ev-tirthika-brahmana]}
+  - {trait: "ватсалья, скрывающая от него Божественность сына: знаки на стопах счёл следами шалаграмы, сон о сыне-Бхагаване забыл", facts: [F50, F51, F63, I4], events: [ev-footprints-gopala]}
+  - {trait: "отцовская строгость, тающая при виде сына", facts: [F54, F56, F70]}
+  - {trait: "страх, что и младший сын уйдёт в отречение: прервал его учение, видел во сне его санньясу", facts: [F77, F85, F86], events: [ev-jagannatha-mishra-dream]}
+  - {trait: "радость о благочестивом распорядке сына", facts: [F84]}
+significance: {facts: [F13, F14, F15, F32, F33, F69, I1, I2, I3, I4, I5, I6]}
+sources:
+  T: "12–14 (гл.); 4, 10, 11, 14–15, 19, 67, 223, 246, 259"
+  M: "отдельной главы нет; pdf 35, 74, 101; 57, 79, 81–83, 107, 116, 128, 206, 216–218, 221"
+  B: "710–715 (гл.); 2, 71–72, 142–143, 190, 720, 741, 746, 795, 830–832, 908, 922, 1052, 1109–1110"
+  other: ["ЧЧ Ади 13–15, 17", "ЧЧ Мадхья 9", "ЧБ Ади 2–4, 17", "ГГД 35–38", "«Према-виласа» 24", "«Чайтанья-мангала» (по M)"]
+article: {ru: "parshadas/ru/jagannatha-mishra.md", en: "parshadas/en/jagannatha-mishra.md"}
+open_questions:
+  - "Время ухода (F90)."
+  - "Кто дал имя Вишвамбхара: Ниламбара с учёными (T), брахман при гороскопе (B), брахманы (M) (F30)."
+  - "Когда было испытание наклонностей: наречение имени (T) или аннапрашана (B) (F42)."
+  - "Порядок эпизодов «змей» и «следы стоп» (F52); судьба брахмана с Бала-Гопалой (F60)."
+  - "Кто прервал учение сына: отец (T 14, B) или оба родителя (T 19) (F78)."
+  - "Номер стиха ГГД об Упендре: T — 37, в нашем ГГД — 35 (F6); Калавати ≠ «Камалавати» ГГД 36 (F4)."
+  - "В lila-db нет событий: просьба Нимая о прасаде Джагадиши и Хираньи в экадаши (ЧЧ Ади 10.70–71; F65–F66); посещение дома Мадхавендрой Пури (ЧЧ Мадхья 9; F99)."

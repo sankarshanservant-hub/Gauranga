@@ -1,5 +1,310 @@
 [
  {
+  "from": "@jagannatha-mishra",
+  "type": "father",
+  "who": "@upendra-mishra",
+  "facts": [
+   "F4",
+   "F6"
+  ],
+  "note": "Упендра в лиле Кришны — пастух Парджанья, дед Кришны (F6)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "mother",
+  "who": "@kalavati",
+  "facts": [
+   "F4"
+  ],
+  "note": "В ГГД 36 бабка Кришны Махаманья названа «Камалавати» — расходится с именем «Калавати» (F4)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "grandfather",
+  "who": "@madhu-mishra",
+  "facts": [
+   "F2"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "uncle",
+  "who": "@rangada-mishra",
+  "facts": [
+   "F2",
+   "F3"
+  ],
+  "note": "Имя: T — Рангада, B — Рангана (F3)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "uncle",
+  "who": "@kirtida-mishra",
+  "facts": [
+   "F2"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "uncle",
+  "who": "@kirtivasa-mishra",
+  "facts": [
+   "F2"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@kamsari-mishra",
+  "facts": [
+   "F5"
+  ],
+  "note": "Семь сыновей Упендры: Камсари, Парамананда, Падманабха, Сарвешвара, Джаганнатха (пятый), Джанардана, Трайлокьянатха."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@paramananda-mishra",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@padmanabha-mishra",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@sarveshvara-mishra",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@janardana-mishra",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "sibling",
+  "who": "@trailokyanatha-mishra",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "spouse",
+  "who": "@shachi",
+  "facts": [
+   "F8",
+   "F17"
+  ],
+  "event": "ev-jagannatha-mishra-marries-shachi",
+  "note": "Прежде Вишварупы родились восемь дочерей; все умерли (T — сразу при рождении), имён нет (F17)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "in-law",
+  "who": "@nilambara-chakravarti",
+  "facts": [
+   "F8",
+   "F28",
+   "F88"
+  ],
+  "note": "Тесть; составил гороскоп Нимая (F28)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "son",
+  "who": "@vishvarupa",
+  "facts": [
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F57",
+   "F72",
+   "F73",
+   "F74"
+  ],
+  "event": "ev-vishvarupa-sannyasa"
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "son",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F15",
+   "F24",
+   "F25",
+   "F44",
+   "F49",
+   "F69",
+   "F70",
+   "F71",
+   "F77",
+   "F80",
+   "F82",
+   "F86",
+   "F93",
+   "F95",
+   "F100"
+  ],
+  "note": "Господь принял его отцом (F24, F100); после его ухода совершил шраддху в Гае (F95)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "relative",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F97"
+  ],
+  "note": "Ещё при его жизни с женой помогал в доме; после его ухода принял на себя всю заботу о доме Шачи (F97). Родство (муж сестры Шачи) — по реестру Шачи (@shachi:F46)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "friend",
+  "who": "@srivasa",
+  "facts": [
+   "F36",
+   "F37",
+   "F102"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "friend",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F65",
+   "F66",
+   "F67",
+   "F68"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "friend",
+  "who": "@hiranya-pandita",
+  "facts": [
+   "F65",
+   "F67",
+   "F68"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "neighbor",
+  "who": "@madhava-mishra",
+  "facts": [
+   "F38"
+  ],
+  "note": "Родители Гададхары Пандита жили рядом с его домом."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "neighbor",
+  "who": "@ratnavati",
+  "facts": [
+   "F38"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F22",
+   "F23",
+   "F72",
+   "F76"
+  ],
+  "note": "Навестил Шачи на шестом месяце беременности (F22); Мишра известил его о близких родах (F23); Вишварупа учился в его толе (F72); утешал после ухода Вишварупы (F76)."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "guru",
+  "who": "@advaita",
+  "event": "ev-advaita-initiates-mishra-shachi",
+  "note": "Только «Адвайта-пракаша» (уровень D) в lila-db: посвящение во сне; в реестре нет."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "other",
+  "who": "@sita-thakurani",
+  "facts": [
+   "F34",
+   "F35",
+   "F76"
+  ],
+  "note": "Принесла дары новорождённому; наставляла, как растить ребёнка."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "other",
+  "who": "@gangadasa-pandita",
+  "facts": [
+   "F82",
+   "F88"
+  ],
+  "note": "Отдал ему сына в учение."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "servant",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F98",
+   "F105",
+   "F106"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "guest",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F99"
+  ],
+  "note": "С учеником Рангой Пури; угощала Шачи."
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "guest",
+  "who": "@ranga-puri",
+  "facts": [
+   "F99",
+   "F100"
+  ]
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "deity-served",
+  "who": "@damodara-shalagrama",
+  "facts": [
+   "F51"
+  ],
+  "event": "ev-footprints-gopala"
+ },
+ {
+  "from": "@jagannatha-mishra",
+  "type": "deity-served",
+  "who": "@adhokshaja-mayapura",
+  "facts": [
+   "F108"
+  ]
+ },
+ {
   "from": "@madhavendra-puri",
   "type": "lineage-predecessor",
   "who": "@madhvacharya",
