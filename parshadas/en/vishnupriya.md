@@ -208,100 +208,214 @@ even in this description the special character of the pastimes of Lakshmi and Ga
 with His own energy in the home of a pious brahmana — is in no way violated. <!-- F64 F136 -->
 
 ## The Night before Sannyasa
-The “Chaitanya-bhagavata” does not relate the Lord's conversation with Vishnupriya before His sannyasa; it is described
-by Lochana Dasa. Rumour reached Vishnupriya that the Lord meant to leave home, and coming to Him she embraced His feet and
-asked in tears:
+The “Chaitanya-bhagavata” does not relate the Lord's conversation with Vishnupriya before His sannyasa; it is described by
+Lochana Dasa — in detail, and with the tenderness that fills his whole poem. This account must be read as the account of
+the wedding is read: it is not a tale of worldly spouses being parted, but a pastime of Lakshmi and Gaura-Narayana. The
+Lord Himself directs it — and Himself prepares His bhu-shakti for the service that lies ahead of her, the service of
+separation. <!-- F65 F127 -->
 
-“‘Listen, listen, Lord of my life, put Your hand on my head [and tell me the truth]: will You really take sannyasa? Hearing
-this from people, I feel my heart will break — I will enter the fire.’” (CM, Madhya 12.10)
+Mother Shachi was the first to learn of her son's decision. She wished to tell her daughter-in-law what was in her heart,
+but could not utter a word — her face only grew wan, and tears streamed from her eyes. Vishnupriya herself had already
+heard what people were whispering, and from these hints she understood everything: “a thunderbolt fell out of season,”
+and she lost consciousness. At the close of day the Lord came home in haste, ate and lay down to rest, and Vishnupriya
+came to Him. Sighing, she sat by His lotus feet, laid them on her bosom, bound them with her arms and wept until her
+tears ran down His feet. Feeling this, the Lord rose:
 
-“You are the treasure of my life, ever youthful,” she said, “and, deprived of You, I would rather drink poison.”
-<!-- F65 F66 -->
+“‘You are dear to Me as life — why do you weep? I want to know: answer Me, beloved.’ Setting her on His lap, taking her
+chin in His right hand, He asks in sweet words.” (CM, Madhya-khanda, part 15, v. 6)
 
-The Lord, smiling slightly, began to instruct her:
+She said nothing and only wept, clasping His feet. Again and again the Lord questioned her in many ways, wiped her face
+with the edge of His cloth, began one tender, playful talk after another — “at such words even a stone would blossom” —
+until at last she spoke in a faltering voice: <!-- F150 -->
 
-“Consider all you see in the world empty: only Bhagavan is real, and the Vaishnavas are real; all else besides them
-consider empty. Empty are son, husband, wife, father, mother — all that goes by such names: in the end, who belongs to
-whom? Apart from the feet of Sri Krishna there is no other kin; all you see is His maya. Woman or man — see: the soul in
-all is one [in nature]; only in the bonds of maya does it seem that there are two; Sri Krishna is the husband of all, and
-all others are prakriti: this no one understands.”[^7] (CM, Madhya 12.27–29)
+“‘Listen, listen, Lord of my life, put Your hand on my head [and tell the truth]: are You really going to take sannyasa?
+Hearing it from people, I feel my heart will burst — I shall enter fire.’” (CM, Madhya-khanda, part 15, v. 10)
 
-A person, He went on, is born of blood and semen in a place of impurity, suffers from childhood to old age, priding
-himself on body and home, and, forgetting the service of Krishna for which he took a body, paves his own way to hell.
+For Him, she said, were her life and wealth, her beauty and youth; if He went away, what use was this wretched life? Her
+heart burned as with poison[^7]. But then she spoke no longer of herself, but of Him: <!-- F66 F152 -->
+
+“‘Shame on my body! One thing I ask You: how will You walk the roads on foot? Your feet are tender as shirisha flowers —
+my hand is afraid to touch them. When You stand on the ground, my heart quakes with fear and my whole body shudders; in
+the forests, among thorns, where will You go, to what lands? How will You walk on Your crimson feet?’” (CM,
+Madhya-khanda, part 15, vv. 12–13)
+
+At the slightest effort, she went on, drops of sweat appear on His face, and a sannyasi wanders now in downpour, now in
+scorching heat. To whom would He leave her? Shachi is old and half-dead — how could He leave such a mother? How could He
+leave Murari and Mukunda, Srivasa and Haridasa, Advaita Acharya? The whole world thinks Him a treasury of prema — would
+He cover everyone with disgrace? And at last:
+
+“‘What shall I, worthless one, say? If I am the root of Your household life and You take sannyasa because of me — let me
+take Your misfortunes upon myself and die by taking poison, and You live happily in Your own home.’” (CM,
+Madhya-khanda, part 15, v. 18) <!-- F151 -->
+
+In this plea there is not a word of her own enjoyment. Vishnupriya fears for His tender feet, for His aged mother, for the
+devotees, for His good name — and is ready to die herself, if only He need not suffer hardship. This is what pure
+devotees see in her: not a trace of the possessive desire that would stand in the way of the Lord's sannyasa.
+<!-- F128 -->
+
+Hearing her, Gauranga smiled, again took her onto His lap, wiped her face with His cloth and began to jest:
+
+“‘Do not dwell on needless grief. That I will leave you and go to take sannyasa — who ever told you that? Whatever I do,
+when I do it, I shall tell you then — but now do not die of needless sorrow.’” (CM, Madhya-khanda, part 15, vv. 20–21)
+
+So, embracing her, in sweet and playful pastimes the Lord comforted Vishnupriya in every way[^8]. Yet even when “in
+joyful play the night came to an end,” the fire in her heart was not quenched. At daybreak, gazing at the face of her
+Lord and pressing His hand to her breast, she asked again: <!-- F153 -->
+
+“‘Do not lie to me for fear of me. This is what I think: all You say is mere playfulness — You will run away without my
+knowing. You, Lord, are Your own master, never in another's power, and You do what pleases You. If You will take
+sannyasa — what can I say? [Only] tell me the truth.’” (CM, Madhya-khanda, part 15, vv. 24–25)
+
+Then the Lord smiled softly and said: “Listen, My beloved, do not grieve at all in your heart: what I say for your good,
+listen to attentively.” And He began to instruct her: <!-- F154 -->
+
+“All that you see in the world count as empty: Bhagavan alone is true, and true are the Vaishnavas; all else besides them
+count as empty. Empty are son, husband, wife, father, mother — all that goes by such names: in the end, who belongs to
+whom? Apart from Sri Krishna's feet there is no other kin; all that you see is His maya. Whether woman or man — see: the
+soul of all is one [in nature]; only in the bonds of maya does one imagine ‘two.’ Sri Krishna is the husband of all, and
+all others are prakriti: this no one understands.”[^9] (CM, Madhya-khanda, part 15, vv. 27–29)
+
+A person, He went on, is born of blood and seed in a place of filth, suffers from childhood to old age, priding himself on
+body and home; those he raised revile him, his hearing and sight grow dim, he weeps over his woes — and still he does not
+serve Govinda. He was given a body in order to serve Krishna, yet, forgetting that service, he paves his own way to hell.
 And the Lord concluded:
 
-“Your name is Vishnupriya (‘dear to Vishnu’): make it meaningful, do not keep useless grief in your heart. I have told you
-this — leave other thoughts and give your mind to Krishna's deeds.” (CM, Madhya 12.33) <!-- F67 F68 -->
+“Your name is Vishnupriya (‘dear to Vishnu’): make it meaningful, do not keep needless grief in your heart. I have told
+you this — put away other thoughts and give your mind to the deeds of Krishna.” (CM, Madhya-khanda, part 15, v. 33)
+<!-- F67 F68 -->
 
 By this conversation Gaurasundara was teaching not Vishnupriya alone: His words are addressed to all living beings
-intoxicated with the thirst for enjoyment — the true husband of all is one, Krishna. Then the Lord, Himself the Master,
-withdrew His maya, which had hidden His divinity from her[^8], and revealed to her His four-armed form of Narayana: “Before
-you is the Supreme Lord — give up the grief born of maya.” Her sorrow left her, and her heart filled with joy and wonder.
-<!-- I5 F69 -->
+intoxicated with the thirst for enjoyment — the true husband of all is one, Krishna. So too was fulfilled what had been
+foretold of her name at the matchmaking: the name “Vishnupriya” was to become true. <!-- I5 -->
 
-But even on seeing the four-armed form she did not give up thinking of Him as her husband, and falling at His feet she
-pleaded:
+Then the Lord, Himself the Master, withdrew His maya, which had hidden His divinity from her[^10] — and her heart grew
+clear:
 
-“‘I, the lowest and most insignificant, was born in this world, and You are my beloved husband, the Lord of my life; such
-was my happiness — I became Your maidservant — why then [now] such a fall?’” (CM, Madhya 12.36)
+“Grief and sorrow went away, her breast filled with joy — and suddenly she sees [Him] four-armed.” (CM, Madhya-khanda,
+part 15, v. 34)
 
-Without serving You, she said, I shall perish — and she wept bitterly. Seeing the suffering of one so dear to Him, the Lord
-bestowed on her a merciful glance, as if embracing her with His eyes, and said: <!-- F70 F71 -->
+Before her stood Narayana, the Supreme Lord, and the very vision told her: give up the grief born of maya. Her sorrow left
+her, and her heart filled with joy and wonder. <!-- F69 -->
 
-“‘Listen, Vishnupriya Devi, this is what I tell you: whenever you think of Me — wherever I go, I am with you; truly, truly
-I tell you this firmly.’” (CM, Madhya 12.38) <!-- F72 -->
+Yet even seeing the four-armed form, she did not give up thinking of Him as her husband. The form of Narayana, full of
+majesty, did not eclipse for her the One whom she had served at home; falling at His feet, she pleaded:
 
-Then she understood that the Lord is wholly independent:
+“‘I, the lowest and most worthless, was born in this world, and You are my beloved husband, the Lord of my life; such was
+my good fortune — I had become Your maidservant — why then [now] such a fall?’” (CM, Madhya-khanda, part 15, v. 36)
 
-“Hearing Krishna's word of command, Vishnupriya thought: ‘This Lord is the independent Master; He does whatever pleases
-Him — who can stop Him?’ — and made no reply.” (CM, Madhya 12.39)
+Without serving You, she said, I shall perish — and she wept aloud. Seeing His beloved's anguish, the Lord, His eyes
+brimming with tears, took her in His arms, bestowed His grace on her[^11] and said: <!-- F70 F71 F155 -->
 
-She turned away her tear-filled eyes and fell silent[^9]. Lochana Dasa also describes the pastimes of the Lord with
-Vishnupriya on the last night before He left home; how these pastimes are to be understood is said below, in the section
-on gaura-nagari. <!-- F73 F74 -->
+“‘Listen, Vishnupriya-devi, this is what I tell you: whenever you think of Me — wherever I may go, I am with you; truly,
+truly I tell you firmly.’” (CM, Madhya-khanda, part 15, v. 38) <!-- F72 -->
+
+This promise the Lord kept: in separation He remained with her in His holy name and in the Deity whom she served all her
+life. Then she understood that the Lord is wholly independent:
+
+“Hearing the word of Krishna's command, Vishnupriya thought: ‘This Lord is the independent Master, He does what pleases
+Him — who can stand in His way?’ — and she made no reply.” (CM, Madhya-khanda, part 15, v. 39)
+
+She lowered her face, her eyes brimming with tears[^12], and the Lord spoke tender words to her. “It is painful to hear of
+the Lord's deeds,” sighs Lochana Dasa. In this silence is the whole of Vishnupriya. She does not argue, does not hold Him
+back, does not become an obstacle on His path: she gives Him her grief as well. In taking sannyasa the Lord enters the
+mood of Radha parted from Krishna, and Vishnupriya's separation from Him is also a service to this vipralambha of His,
+His “pastime of separation.” <!-- F73 F156 F128 -->
+
+Then, Lochana writes, days and nights went by in anxious surmise, “as if a fire had flared up in everyone's heart.”
+Shachi and Vishnupriya wept day and night — “darkness on every side, all seems empty.” Srivasa begged to be taken along;
+in the house of Murari Gupta the Lord privately told Murari to worship Advaita Acharya and, consoling him, said that the
+sannyasa was “not yet soon.” <!-- F157 -->
+
+Haridasa Shastri's edition (1983) — and before it the edition of 1903 — continues the story here with a section, “The
+Consolation of the Devotees,” which is not in Srila Bhaktisiddhanta's edition[^13]. In those last days, according to this
+section, the Lord laid aside His absorption in renunciation and showed His love in every house: He gladdened His mother
+with words that set her heart at ease, jested and laughed with townsfolk and household, anointed Himself with sandal and
+wore ornaments. Those who had secretly meant to go with Him His yogamaya sent back home, and everyone concluded there
+would be no sannyasa. On the last night <!-- F158 F74 -->
+
+“The Lord lay down in His chamber, and Vishnupriya came with a bunch of betel in her hand. Smiling with delight, the Lord
+says, ‘Come, come!’ — and with great tenderness seated her on His lap. Vishnupriya anointed the Lord's body with sandal
+and drew a tilaka with fragrant aguru and musk, put a divine garland of malati on Gora's body and with tender jests placed
+betel in His holy mouth. Then Mahaprabhu, the crown of connoisseurs of rasa, Himself began to adorn Vishnupriya.” (CM,
+Madhya-khanda, part 15, vv. 68+9–68+13)
+
+He braided her long hair and decked it with malati flowers, placed on her forehead a dot of sindura ringed with dots of
+sandal — “as if the moon had taken the sun onto its lap” — lined her eyes and adorned her. Further on Lochana Dasa speaks
+of the tenderness of that night in the images with which poetry sings of divine love, and himself cautions that this is
+“beyond the reach of Kama.”[^14] And this is how the night ended: <!-- F159 -->
+
+“At the end of the night the Lord rose quickly; Vishnupriya sleeps a deep sleep. At the time of renunciation His prema
+surges higher still; with the thought ‘I shall take sannyasa’ His heart is as if maddened.” (CM, Madhya-khanda, part 15,
+vv. 68+27–68+28) <!-- F160 -->
+
+Why at such an hour did the Lord unfold play, rasa and bhava? Lochana Dasa answers himself: the Lord repays each according
+to his service, but Krishna is captured only by prema full of anuraga — and Gaura, the ocean of mercy, Himself begs for
+such prema and Himself bestows it:
+
+“In mercy He reveals His own anuraga, so that in separation her bhava may grow in her heart. ‘Whoever sees My body with
+bhava — with him My bhava is never broken.’ Who else is such a treasury of mercy, who gives prema and anuraga so as to
+bind His very Self? This is why [He showed] grace to Vishnupriya — knowing this, let no one go astray in mind.” (CM,
+Madhya-khanda, part 15, vv. 68+35–68+38) <!-- F161 -->
+
+So the poet himself understands this night: not as worldly love, but as a grace by which the Lord deepened the prema of
+His eternal consort before her long years of separation. Yet Gaudiya Vaishnavas, following Vrindavana Dasa, see in the
+Gaura of Navadvipa a model of the strict propriety of a brahmana householder, and Srila Bhaktisiddhanta apparently left
+this section out of his edition deliberately: written in the spirit of nagari-bhava, it easily becomes a prop for the
+doctrine of gaura-nagari. That is why it is retold here only briefly, and only in the light of Lochana Dasa's own words.
+<!-- F162 F135 -->
+
+Rising at dawn and performing His morning duties, Gaurahari settled His resolve: “I shall take sannyasa from Bharati
+Gosani in Kantakanagara.” Setting out, He noted that His breath was flowing through the right nostril — an auspicious
+sign. The Lord went to the Ganga[^15]:
+
+“Bowing to the Ganga, He leaves Navadvipa — as if a thunderbolt struck everyone on the head. As if the sun had hidden in
+the middle of the day, as if the swans had left the lake — where have they gone?” (CM, Madhya-khanda, part 16, vv. 5–6)
+<!-- F163 F164 -->
 
 ## Separation
 When Mahaprabhu went to Katwa to take sannyasa, He was only twenty-four years old. On learning that He had swum across the
 Ganga and gone to Keshava Bharati, Shachi and Vishnupriya fell senseless; Nityananda tried to console them. Later
-Chandrashekhara Acharya returned from Katwa with the news of the sannyasa, and both wept bitterly again (CM, Madhya
-13–14). <!-- F75 F76 -->
+Chandrashekhara Acharya returned from Katwa with the news of the sannyasa, and both wept bitterly again (CM,
+Madhya-khanda, parts 16–18). <!-- F75 F76 -->
 
 Lochana Dasa paints their grief thus:
 
-“Shachi Devi weeps, holding Vishnupriya on her lap — and Vishnupriya lies as though dead: the body is there, but life has
-left it. Shachi and Vishnupriya weep, rolling on the ground.” (CM, Madhya 13.10–11)
+“Shachi Devi weeps, holding Vishnupriya on her lap — and Vishnupriya lies as though dead: the body is there, but life
+has left it. Shachi and Vishnupriya weep, rolling on the ground.” (CM, Madhya-khanda, part 16, vv. 10–11)
 
 “Where have you run off to, abandoning Vishnupriya?” laments Shachi. “You have counted the love of all the devotees as
-nothing!” And Vishnupriya now rises, now falls, as if mad (CM, Madhya 13.21–22). <!-- F77 -->
+nothing!” And Vishnupriya now rises, now falls, as if mad (CM, Madhya-khanda, part 16, vv. 21–22). <!-- F77 -->
 
 When Chandrashekhara returned, her grief grew still stronger:
 
-“From Vishnupriya's weeping the earth splits; beasts, birds, creepers, trees — even the stones weep.” (CM, Madhya 14.15)
+“From Vishnupriya's weeping the earth splits; beasts, birds, creepers, trees — even the stones weep.” (CM,
+Madhya-khanda, part 18, v. 15)
 
 “‘Life does not leave my sinful body!’ — rolling on the ground, the Devi cries: ‘Alas, alas!’ Her breath bursts forth
 unceasingly, burning with the fire of separation; her lips are parched, her body trembles. Lying in the dust, she tends
 neither her hair nor her clothes; now her body wastes away, now it seems to swell. Now she loses consciousness,
-contemplating His crimson feet, now with great difficulty she comes to herself. Now she cries aloud: ‘Lord, Lord!’ — and at
-Vishnupriya's weeping everyone weeps.” (CM, Madhya 14.26–30) <!-- F78 -->
+contemplating His crimson feet, now with great difficulty she comes to herself. Now she cries aloud: ‘Lord, Lord!’ — and
+at Vishnupriya's weeping everyone weeps.” (CM, Madhya-khanda, part 18, vv. 26–30) <!-- F78 -->
 
 Those who came to console her burned in their own hearts and said: “‘The deeds of your Lord are not unknown to you:
-understand this and comfort your heart’” (CM, Madhya 14.33). Then the devotees remembered His former word — “Whoever takes
-My name will attain Me” — and then
+understand this and comfort your heart’” (CM, Madhya-khanda, part 18, v. 33). Then the devotees remembered His former
+word — “Whoever takes My name will attain Me” — and then
 
 “all sat down to chant the name — Shachi, Vishnupriya and all the rest, children and old people, young men and maidens —
-sat down to chant the name, making Gauranga their shelter.” (CM, Madhya 14.39–40) <!-- F79 Q6 -->
+sat down to chant the name, making Gauranga their shelter.” (CM, Madhya-khanda, part 18, vv. 39–40) <!-- F79 Q6 -->
 
-So began for her the long years of separation. According to the “Advaita-prakasha,” every morning she went with Shachi to
-bathe in the Ganga, and all day she remained in the house, allowing neither the sun nor the moon to see her; even the
-devotees saw only her feet and never heard her voice. She ate only the remnants of Shachi's food, grew pale and thin. All
-day in seclusion she chanted the holy name before a picture of Gauranga, serving it as the Lord Himself and surrendering at
-His feet. Her life in separation is the ideal of a devoted wife and of that forbearance of which the Lord's own verse
-speaks: “humbler than a blade of grass, more tolerant than a tree” (“trinad api sunichena”). <!-- F80 F81 I2 -->
+So began for her the long years of separation. According to the “Advaita-prakasha,” every morning she went with Shachi
+to bathe in the Ganga, and all day she remained in the house, allowing neither the sun nor the moon to see her; even the
+devotees saw only her feet and never heard her voice. She ate only the remnants of Shachi's food, grew pale and thin.
+All day in seclusion she chanted the holy name before a picture of Gauranga, serving it as the Lord Himself and
+surrendering at His feet. Her life in separation is the ideal of a devoted wife and of that forbearance of which the
+Lord's own verse speaks: “humbler than a blade of grass, more tolerant than a tree” (“trinad api sunichena”).
+<!-- F80 F81 I2 -->
 
 ## The Sacrifice of the Holy Name
 She counted the holy name with grains of rice. On either side of her stood two clay pots — one with uncooked rice, the
 other empty — and after each complete utterance of the mantra of sixteen names and thirty-two syllables she moved one
-grain[^10]; thus she chanted the name until three in the afternoon. The rice so gathered she cooked — she prepared no
+grain[^16]; thus she chanted the name until three in the afternoon. The rice so gathered she cooked — she prepared no
 other food for herself — and, moistening it with her tears, offered it to Mahaprabhu, eating only a small portion herself,
 as much as was needed to sustain life. Even while honouring prasada she chanted the name in the mood of separation;
 giving up sleep and rest, she chanted it through all eight praharas, day and night, wholly immersed in the transcendent
@@ -336,7 +450,7 @@ Gaura-Narayana paid her debt to her Lord: she had an image of Mahaprabhu made, s
 name. This Deity abides in Navadvipa to this day, and He is worshipped. At her wish the worship of the Deity of Mahaprabhu
 was established by Vamshivadana, and after her departure His service was moved to Kuliya, the present town of Navadvip;
 and when the descendants of Vamshi, having accepted Jahnava's mercy, settled in Baghnapara, the service in Kuliya remained
-with servitors from Malkhana[^11]. <!-- F88 F89 F90 -->
+with servitors from Malkhana[^17]. <!-- F88 F89 F90 -->
 
 Consoling His mother on the eve of sannyasa, the Lord promised her:
 
@@ -358,9 +472,9 @@ Mahaprabhu's house, he saw her and the old Vaishnava Ishana, and there he also m
 lived in Mayapur to serve her. <!-- F93 F97 -->
 
 Vamshi, according to the “Bhakti-ratnakara” (4.20–24), guessed without any introduction that this was Srinivasa, embraced
-him, bathed him in tears, would not let him bow down, and went to inform “Ishvari Vishnupriya-Ma” of him cautiously[^12].
+him, bathed him in tears, would not let him bow down, and went to inform “Ishvari Vishnupriya-Ma” of him cautiously[^18].
 At first she did not grant him darshana; only when Vamshi asked her again and again — seeing Srinivasa's despair — to
-receive and bless him, did she agree, and at her bidding Vamshi brought him[^13]. Srinivasa fell to the ground with tears
+receive and bless him, did she agree, and at her bidding Vamshi brought him[^19]. Srinivasa fell to the ground with tears
 of love; in motherly affection Vishnupriya placed her feet on his head, blessed him, and told him to stay and take
 prasada. Thus he received the blessing of both her and Vamshi. <!-- F94 F95 F96 -->
 
@@ -378,7 +492,7 @@ Navadvipa. <!-- F99 I4 F100 -->
 
 Beside him Vamshivadana Thakura was blessed with service: he became the servant and protector of Vishnupriya and Shachi.
 After Mahaprabhu's disappearance Vishnupriya took him as her servant, and, it is said, he was the first to receive her
-mercy; he was glorified as her “exclusive vessel of mercy,” and he was her disciple[^14]. According to the
+mercy; he was glorified as her “exclusive vessel of mercy,” and he was her disciple[^20]. According to the
 “Gaudiya-vaishnava-abhidhana,” Gadadhara Dasa too looked after Shachi and Vishnupriya in Navadvipa; when they were gone,
 he moved to Katwa and established a Deity of Gauranga there. <!-- F101 F102 F103 -->
 
@@ -416,7 +530,7 @@ the daughter of Vrishabhanu, Sri Radha, Vishnupriya too may be called her manife
 Radha Herself. <!-- F111 F112 F113 -->
 
 Vishnu has three energies — Sri, Bhu and Nila (or Lila). In the pastimes of Gaura-Narayana the sri-shakti is Lakshmipriya,
-the bhu-shakti is Vishnupriya, and the third energy is Sri Navadvipa-dhama Herself[^15]; all three are manifestations and
+the bhu-shakti is Vishnupriya, and the third energy is Sri Navadvipa-dhama Herself[^21]; all three are manifestations and
 maidservants of the supreme shakti, Sri Radhika. Srila Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 1.37–45) explains:
 when Gaura shows His oneness with Narayana, His shaktis are His consorts Lakshmipriya and Vishnupriya; when with Krishna —
 Gadadhara Pandita, the Radha of Krishna-lila. Lakshmipriya, Vishnupriya and others are the shaktis of Gaura-Vasudeva, while
@@ -495,9 +609,9 @@ obtained miraculously. The night before he received an instruction in a dream, a
 neighbouring village of Gopalpur and wished to enter the granary of the brahmana Vipradasa, full of rice. People tried to
 dissuade him: venomous snakes hissed there, which even snake-charmers had failed to drive out. But when Narottama came and
 the granary was opened, the snakes vanished, and the Deities of Gaura and Vishnupriya, before everyone's eyes, came of
-Themselves onto his lap[^16]; at once a great kirtana began. The “Bhakti-ratnakara” (10.202) says: “Gaurasundara and His
+Themselves onto his lap[^22]; at once a great kirtana began. The “Bhakti-ratnakara” (10.202) says: “Gaurasundara and His
 beloved Vishnupriya came out of the granary and sat on Narottama's lap.” Narottama took these Deities to Kheturi and
-installed Them there; today They are served in Gambhila[^17]. <!-- F142 F141 Q12 F143 -->
+installed Them there; today They are served in Gambhila[^23]. <!-- F142 F141 Q12 F143 -->
 
 At the great festival in Kheturi, on Phalguni Purnima, Narottama revealed six Deities: Gauranga with Vishnupriya,
 Vallabhikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
@@ -525,7 +639,7 @@ established Priya and Hari in Mayapur as his duty. <!-- F148 -->
 
 Srila Bhaktisiddhanta also chose the day of Vishnupriya's appearance to re-establish the “Vishva-vaishnava-raja-sabha”:
 this took place amid kirtana on 5 February 1919 at the Ultadanga Math, the Bhaktivinoda-asana, and the “Amrita Bazar
-Patrika” wrote about it[^18]. <!-- F149 -->
+Patrika” wrote about it[^24]. <!-- F149 -->
 
 ## Significance
 The life of Vishnupriya Devi is service to the Lord in two forms: at home, as Lakshmi beside Gaura-Narayana, and in
@@ -548,34 +662,56 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
     Shachi's house was filled with light” are sometimes cited as verses of the “Chaitanya-bhagavata,” Adi 10.110–111. That
     passage of the CB, however, concerns the Lord's first marriage — to Lakshmipriya; the passage close in meaning about
     the second marriage is Adi 15.214: “When Lakshmi and Narayana sat down, the whole house was filled with joyful cries.”
-[^7]: “Empty” here means “transient, vain,” not “illusory” in the sense of Mayavada: the world is real as the Lord's energy,
+[^7]: The 1983 edition has one more couplet here (v. 11+1), found neither in Bhaktisiddhanta's edition nor in that of
+    1903: “There is no other young woman as fortunate as I: You are my beloved Lord of life; great were my love and hope —
+    I gave myself to You.”
+[^8]: Vishnupriya is the Lord's eternal consort, His bhu-shakti, and His tenderness towards her is the pastime of
+    Narayana with His own energy, not a worldly intimacy in which one seeks enjoyment for oneself (see below, “Gaura-nagari
+    and the Sahajiyas”). The playful “who ever told you that?” is also part of the lila: His intention is hidden for the
+    time being by yogamaya.
+[^9]: “Empty” here means “transient, vain,” not “illusory” in the sense of Mayavada: the world is real as the Lord's energy,
     but all in it apart from Bhagavan and the Vaishnavas is perishable. Likewise “the soul in all is one” is not monism: all
     souls are one in nature, for all are the Lord's energy (prakriti) and in themselves neither men nor women; the seeming
     “two” arises from identification with the body. The only Purusha, the enjoyer, is Krishna.
-[^8]: That is, yogamaya — His internal energy, which for the sake of the lila hid His divinity from Vishnupriya. The Lord is
+[^10]: That is, yogamaya — His internal energy, which for the sake of the lila hid His divinity from Vishnupriya. The Lord is
     not subject to maya; the “grief born of maya” is Vishnupriya's grief, not ignorance on the Lord's part.
-[^9]: In the “Chaitanya-mangala” and in one biography Vishnupriya only thinks this to herself and makes no reply; in another
+[^11]: So in the “Chaitanya-mangala”; in one of the biographies that retell it, the Lord only bestows on Vishnupriya a
+    merciful glance, “as if embracing her with His eyes.”
+[^12]: In the “Chaitanya-mangala” and in one biography Vishnupriya only thinks this to herself and makes no reply; in another
     biography she says it to the Lord aloud — “let no one become an obstacle to Your mission” — and only then falls silent.
-[^10]: So according to the “Prema-vilasa”; one biography writes otherwise — that she set aside one grain for each round
+[^13]: This section (part 15, vv. 68+1–68+39) is not in the edition of Srila Bhaktisiddhanta Sarasvati (1922); it is found
+    in Haridasa Shastri's edition (1983), under the heading “The Consolation of the Devotees,” and in the 1903 edition. In
+    our translation of the “Chaitanya-mangala” it is rendered in its place with a note, like all the additions of the 1983
+    edition; it does not carry the weight of the text accepted by Bhaktisiddhanta.
+[^14]: Here Lochana Dasa calls the Lord “the playful Nagara” (v. 68+23). This poetic word gives no support to the doctrine
+    of gaura-nagari: Gaurasundara, adorned with the mood and lustre of Radha, is not a “nagara,” a gallant lover (see below,
+    “Gaura-nagari and the Sahajiyas”); and the poet himself cautions that the love of the Lord and His shakti transcends
+    mundane desire.
+[^15]: According to the “Chaitanya-bhagavata” (Madhya 28.41–50), on that night the Lord, having spent the evening with
+    the devotees, took His supper and went to His bedroom, while Haridasa and Gadadhara lay down nearby; Shachi, knowing
+    that He would leave, did not sleep but wept. Four dandas before dawn the Lord rose; Gadadhara begged to go with Him;
+    Shachi sat down by the door, and the Lord, taking her hands, consoled her at length. Of Vishnupriya on that night
+    Vrindavana Dasa says nothing.
+[^16]: So according to the “Prema-vilasa”; one biography writes otherwise — that she set aside one grain for each round
     (mala) of the Hare Krishna mantra, and in the evening cooked this rice and offered it to her Deity of Mahaprabhu.
-[^11]: Accounts of the Deity's later history differ. According to some, Vamshivadana established His worship at her wish
+[^17]: Accounts of the Deity's later history differ. According to some, Vamshivadana established His worship at her wish
     during her lifetime; according to others, Vamshi after her departure moved the Deity to Koladvipa (the present town of
     Navadvip) and instituted His service there; according to a third account, after her departure the service was moved to
     Kuliya-Paharpur (printed “Phuliya”).
-[^12]: According to one biography — “Vishnupriya and Shachimata.” But the same biography says at once that Vamshi served
+[^18]: According to one biography — “Vishnupriya and Shachimata.” But the same biography says at once that Vamshi served
     Vishnupriya and Ishana after the departure of both Mahaprabhu and Shachi, that is, Shachi was no longer living by then;
     the “Bhakti-ratnakara” (4.20–24) names Vishnupriya alone.
-[^13]: So in one biography; according to another, Vamshi, seeing Srinivasa's despair, himself asked Vishnupriya to receive
+[^19]: So in one biography; according to another, Vamshi, seeing Srinivasa's despair, himself asked Vishnupriya to receive
     and bless him — nothing is said of her first refusing.
-[^14]: When Vamshi began to serve her is told differently: according to some — after Mahaprabhu's disappearance, according to
+[^20]: When Vamshi began to serve her is told differently: according to some — after Mahaprabhu's disappearance, according to
     others — only after the departure of both Mahaprabhu and Shachi.
-[^15]: Here the sources differ in wording: according to one explanation, Sri Navadvipa-dhama is the lila-shakti, according
+[^21]: Here the sources differ in wording: according to one explanation, Sri Navadvipa-dhama is the lila-shakti, according
     to another — the nila-shakti; in Srila Bhaktisiddhanta's song Nila Devi is the Dhama and Lakshmi Devi is Lakshmipriya,
     and all three shaktis serve Radha and Krishna.
-[^16]: The details are told differently: according to some biographies, a single venomous snake lived in the granary, and
+[^22]: The details are told differently: according to some biographies, a single venomous snake lived in the granary, and
     the Deities of Themselves sat on Narottama's lap (so too in the “Bhakti-ratnakara”); according to another, many snakes
     hissed there, and the Deities came of Themselves into his hands.
-[^17]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
+[^23]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
     disagrees both with the “Bhakti-ratnakara” (10.202) and with the other testimonies.
-[^18]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
+[^24]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
     February”; one of the two dates is evidently mistaken.
