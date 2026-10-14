@@ -693,6 +693,215 @@ Chandaneshvara; their loud kirtana brought the Lord back to consciousness, and t
 Nityananda, intoxicated with the rasa of Chaitanya, rushed to embrace Jagannatha. And once He climbed onto the golden
 throne, embraced the Deity of Balarama and put His garland on Himself. <!-- F234 F235 -->
 
+## In Puri
+When He set out for the South, the Lord took none of His intimates with Him. Nityananda offered to go along — He knew
+the roads to the holy places of the South — but Mahaprabhu declined and, as though reproaching Nityananda, Jagadananda,
+Mukunda and Damodara, in fact praised their love:
+
+“After accepting sannyasa I set out for Vrindavana, but You brought Me to the house of Advaita Acharya.” (CC, Madhya 7.19)
+
+“On the way to Jagannatha Puri You broke My danda. All of you love Me boundlessly, but such deeds stand in the way of My
+plans.” (CC, Madhya 7.20)
+
+Still, at Nityananda's request the Lord took a servant with Him — a simple brahmana named Krishnadasa (he is also called
+Kala Krishnadasa) — to carry His kaupina, upper cloth and waterpot; Nityananda Himself arranged it. <!-- F236 F237 -->
+
+Returning from the South, the Lord sent Krishnadasa ahead from Alalanatha to inform Nityananda and the others. Nityananda
+could not wait:
+
+“Hearing of Mahaprabhu's imminent arrival, Nityananda Raya at once hurried to meet Him, unable to bear the waiting, so
+full was He of the feelings of divine love.” (CC, Madhya 9.339)
+
+Jagadananda, Damodara and Mukunda danced with joy all along the road, and at the meeting the waves of love surged again.
+Soon the same Krishnadasa carried to Gauda, to Navadvipa, the news of the Lord's return[^30]. <!-- F238 F239 Q31 -->
+
+Life in Puri took its course. When the Lord was distributing prasada to the devotees Himself and not eating, and they
+would not eat without Him, Svarupa Damodara asked Him to sit down to the meal together with Nityananda. Svarupa was very
+dear to both Advaita and Nityananda: arriving in Puri and receiving the Lord's embrace, he first of all bowed to
+Nityananda and Paramananda Puri. Svarupa Damodara, Raya Ramananda and Haridasa Thakura all honoured Nityananda's feet in
+Nilachala. <!-- F240 F241 -->
+
+King Prataparudra longed to see the Lord, but Mahaprabhu, a sannyasi, refused to meet a ruler. Sarvabhauma advised not to
+ask Him directly, and Nityananda simply told the Lord of the king's resolve:
+
+“You may think it proper or improper, but the fact is that King Prataparudra has resolved to become a mendicant beggar if
+he cannot meet You.” (CC, Madhya 12.19)
+
+“He is ready to put on the ivory earrings of renunciation and give up his kingdom, which has become hateful to him without
+Your mercy.” (CC, Madhya 12.20)
+
+The Lord remained unbending, pointing to the strict Damodara Pandita. Then Nityananda said: those rejected in love take
+their own lives, — and asked that, to save the king, He at least give a worn upper cloth (bahirvasa). The Lord could not
+refuse Him. Nityananda took the cloth from Govinda and sent it to the king through Sarvabhauma; the moment he touched it,
+Prataparudra felt love for God and began to worship it as the Lord Himself[^31]. <!-- F242 F243 Q32 -->
+
+In the festivals of Nilachala Nityananda was always beside the Lord. When the Gundicha temple was cleaned, Mahaprabhu did
+not give heavy work to His elders:
+
+“All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled pots and carried water.” (CC, Madhya
+12.109)
+
+At Gundicha, where kirtana went on three times a day, the Lord made now Advaita dance, now Nityananda, now Haridasa,
+Achyutananda, Vakreshvara and others. Before the Ratha-yatra He anointed His companions with sandal paste with His own
+hand and adorned them with garlands:
+
+“Advaita Acharya and Nityananda, too, felt immense happiness when the Lord's hand touched Them.” (CC, Madhya 13.31)
+
+In the second kirtana party, led in song by Srivasa, the dancer was Nityananda (CC, Madhya 13.38–39); the Lord told
+Nityananda, Advaita, Haridasa and Vakreshvara each to dance in one of four parties. The dancing Lord was surrounded by three
+rings of guards: the inner one led by Nityananda, the second by Kashishvara, Mukunda and others, the outer by Prataparudra
+with his soldiers. And in the bera-kirtana, when the devotees circled the temple in seven parties, each had its own
+dancer — Advaita, Nityananda, Vakreshvara, Achyutananda, Srivasa, Satyaraja Khan and Narahari — and the Lord passed from
+party to party so that each felt He was with it alone (CC, Antya 10.58–61). <!-- F244 F245 F246 F247 F248 F249 Q33 -->
+
+Though Mahaprabhu now lived in Puri, in Gauda He still manifested Himself wherever He was loved:
+
+“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always
+manifested Himself in four places: in the home temple of Mother Shachi, wherever Nityananda Prabhu dances, in the kirtana
+of Srivasa Thakura and in the house of Raghava Pandita.” (CC, Antya 2.34)
+
+Nityananda Himself came every year with the devotees of Bengal to Puri and spent the four months of the rains with the
+Lord. <!-- F250 F251 Q34 -->
+
+On one of these visits Nityananda, having been to Jagannatha and shown there wondrous transformations of love, went to
+Tota, to the house of Gadadhara Pandita, for darshana of Gopinatha. Gadadhara, learning that Nityananda was in Puri, left
+off reading the “Bhagavata” and came out to meet Him. Nityananda had brought from Gauda fine rice worthy of the Deity and a
+beautiful coloured cloth for Gopinatha's service; Gadadhara cooked the rice with greens and vegetables from the garden of
+Yameshvara. Mahaprabhu, too, came to the offering: praising Nityananda's rice and Gadadhara's cooking, He honoured
+Gopinatha's prasada, and the three ate together in joy, while the devotees afterwards snatched up the remnants of
+Nitai-Gaura-Gadadhara's meal (CB, Antya 10). <!-- F252 F253 F254 -->
+
+When Rupa and Sanatana came to Puri, Mahaprabhu arranged for them to meet Advaita and Nityananda and asked Them to bless
+the brothers. <!-- F255 -->
+
+## The Command to Preach in Gauda
+One day Mahaprabhu, in private, told Nityananda to leave Puri with His companions and tirelessly preach pure devotion —
+prema-bhakti — in Gauda, delivering the low-born, the ignorant and the fallen. He promised always to be with Him
+invisibly. <!-- F261 F264 -->
+
+With Nityananda the Lord sent His own devotees:
+
+“When Sri Chaitanya sent Nityananda to Bengal, He ordered these two devotees to go with Him.” (CC, Adi 11.14)
+
+These were Ramadasa (Abhirama) and Gadadhara Dasa; Gadadhara Dasa became one of Nityananda's chief helpers in preaching
+sankirtana. According to the “Chaitanya-bhagavata” (Antya 5.231–233), there left Puri with Nityananda Ramadasa, Gadadhara
+Dasa, Raghunatha Vaidya-Ojha, Krishnadasa Pandita, Parameshvari Dasa and Purandara Pandita[^32]. One of the biographies
+dates this command to the year 1434 of the Shaka era[^33]. <!-- F262 F263 F265 -->
+
+Before setting out, Nityananda empowered His companions, filling them with love of God:
+
+“So Lord Nityananda and all His companions set out, overwhelmed by the feeling of divine love.” (CB, Antya 5.234)
+
+“They forgot themselves in it completely. There was no end or limit to the signs of divine ecstasy that appeared in their
+bodies.” (CB, Antya 5.235)
+
+On the way each lived in his own bhava. Gadadhara Dasa, forgetting himself like a girl of Vraja selling yogurt, laughed
+loudly and cried “Who will buy yogurt!” — and Nityananda noticed it. Abhirama, in the mood of a cowherd boy, stood nine
+hours in the tribhanga pose, bent in three places, unaware of the outer world (CB, Antya 5.237). Krishnadasa and
+Parameshvari shouted “hoi! hoi!” like the cowherd boys of Vraja, and Purandara climbed a tree crying “I am Angada!” and
+leapt down. <!-- F266 F267 Q35 -->
+
+Coming to Gauda, Nityananda went all over it as a wandering parivrajaka, preaching the Name and love of God. Whomever He
+met, He took a straw between His teeth and begged: “Buy Me — worship Gaurahari.” The avadhuta wandered for two tasks:
+preaching prema and subduing the godless. Lochana Dasa, who in the “Chaitanya-mangala” glorified more his guru Narahari
+as the Lord's dearest companion and wrote little of Nityananda's glory, later, fearing to offend Him, composed several
+songs about Him that devotees especially love. In one (“nitāi guṇa-maṇi…”) he sings that Nitai brought a flood of prema
+to Gauda, passing over neither the downtrodden nor the sinners, and went from house to house giving out a love
+unattainable even for Brahma — whoever has not worshipped Nitai ruins himself. In another (“akrodha paramānanda…”) — that
+Nityananda, knowing neither anger nor pride, roams the town with a blade of grass between His teeth, asks everyone “buy
+Me — worship Gaura Hari” and falls to the ground like a golden mountain in the dust; whoever has not become attached to
+such an avatara is a sinner. And in the song “parama karuṇa pahun dui jana…” Lochana glorifies the two Lords, Nitai and
+Gaurachandra, boundlessly merciful, the essence of all avataras: “Brother, worship Chaitanya and Nitai with firm faith” —
+in the three worlds there is none like Them, and Their mercy makes even birds and beasts weep. <!-- F268 Q36 Q37 Q38 F398 -->
+
+## Ramachandra Khan
+Ramachandra Khan, the zamindar of Benapol (Jessore district), hated the Vaishnavas fiercely. Out of envy he sent a young
+prostitute to Haridasa Thakura to ruin his dharma; by Haridasa's mercy she became a great devotee, and Khan's envy only
+grew (CC, Antya 3). <!-- F269 -->
+
+On His preaching round Nityananda came to him too. As the Inner Controller, He knew of his offences against Haridasa: He
+is most merciful, but with the offender of a Vaishnava He is angry. Nityananda sat down in Khan's durga-mandapa and asked
+for shelter. The proud man sent word through his people: He could stay with His party in the cowshed — there was no other
+place. Nityananda, still more displeased, left at once, saying: “This house is not for Vaishnavas — it is fit only for
+mlecchas who kill cows.” Thus Nityananda Raya, “never angry, supreme bliss” (akrodha paramānanda), showed a lila of anger
+towards the enemy of the Vaishnavas and left both his house and his village. <!-- F270 F271 F272 -->
+
+Khan had a servant dig up the earth where Nityananda had sat and sprinkle the place with water mixed with cow dung. The
+fruit of the offence was not long in coming: soon a vizier of the Muslim ruler, a tax collector, took up quarters in that
+same durga-mandapa; he bound and carried off Khan with his wife and sons, plundered Benapol for three days and for three
+days cooked forbidden meat in Khan's house. Khan lost his caste, his wealth and his people, and his house and village were
+ruined. Though Nityananda is most merciful, He does not forgive the offender of a Vaishnava, and a place where a great
+devotee is offended perishes. <!-- F273 F274 I1 -->
+
+## Panihati: Raghava Pandita
+Wandering along the banks of the Ganga, Nityananda, drawn by the pure devotion of Raghava Pandita, came to Panihati.
+According to the “Bhakti-ratnakara” (8.156–158), Ramadasa and Gadadhara Dasa were with Him, and first of all He visited
+Raghava's house; one of the biographies also names the three Ghosha brothers. The kirtana begun there filled the universe
+with joy. Nityananda flooded Raghava's house with love, delighting Raghava, Makaradhvaja Kara and others; when the Ghoshas
+began to sing, He danced in trance to the singing of Madhava Ghosha — the finest kirtaniya on earth. <!-- F275 F276 -->
+
+Then He sat on the throne of Vishnu, and Raghava and his companions performed His abhisheka according to the shastras,
+dressed Him and adorned Him with a garland; He sat on the throne again, and Raghava held an umbrella over Him. In trance
+Nityananda told Raghava to bring at once a garland of kadamba flowers. Raghava objected that the kadamba was not yet in
+bloom; Nityananda told him to look near the house — and Raghava found kadamba flowers on a lemon (jambira) tree and
+garlanded Him[^34]. Soon the house filled with the fragrance of damanaka flowers, and Nityananda explained: Mahaprabhu
+Himself had come from Nilachala wearing a garland of damanaka to hear the kirtana and watch the dance (BR 12.3645–3647).
+<!-- F277 F278 F279 -->
+
+He told everyone to give up their affairs, forget body and home, and sing Krishna's name without cease:
+
+“Therefore you should give up all your other occupations and immerse yourselves in the unceasing glorification of Lord
+Krishna.” (CB, Antya 5.298)
+
+“By constantly glorifying Sri Krishna Chaitanyachandra you will taste the sweetness of divine love of God in all its
+fullness.” (CB, Antya 5.299) <!-- F280 Q39 -->
+
+Nityananda stayed in Panihati three months. With His companions He would come to eat in Raghava's house, and all praised
+his cooking; and the Lord, taking Raghava aside, explained to him His oneness with Nityananda — “another form of
+Balarama.” It is also said that Nityananda gave Panihati over to Kamalakara Pippalai[^35]. <!-- F281 F282 F283 Q60 -->
+
+## The Chida-dadhi Festival
+Hearing that Nityananda was in Panihati, young Raghunatha Dasa decided: by the mercy of the saviour of the fallen he
+would gain his freedom. With his father's permission he crossed the Ganga and found Nityananda seated under a tree on a
+rise by the river amid His companions, to the sound of kirtana; seeing Him from afar, Raghunatha fell flat. <!-- F284 -->
+
+“Hearing this, Nityananda said: ‘Oh! This thief has come to meet Me again. Come here to Me, then, don't be afraid. Today I
+shall punish you.’” (CC, Antya 6.47)
+
+Nityananda drew him to Himself, placed His feet on his head and announced the “punishment”:
+
+“‘You do not come close, but keep your distance like a thief. But I have caught you and shall punish you today.” (CC,
+Antya 6.50)
+
+“I want you to feed all My companions yogurt and flat rice.’ Hearing these words, Raghunatha became inexpressibly happy.”
+(CC, Antya 6.51)
+
+So, understanding the young man's innermost desires, He assigned him service to the Vaishnavas. Raghava Pandita added
+foods that had not touched boiled rice and watched in wonder this “picnic” of Nityananda's by the river. Present at the
+festival were Gadadhara Dasa, Mahesha Pandita and Jagadisha Pandita[^36]. <!-- F285 F286 F287 -->
+
+Mahaprabhu Himself came too[^37]. Nityananda and Mahaprabhu ate on the bank of the Ganga as the cowherd boys on the bank
+of the Yamuna, and with Them ate Their companions, many brahmanas and countless men and women. In the afternoon
+Nityananda went to Raghava's house and spent the evening in kirtana and dance; drawn by His dancing, Mahaprabhu came again,
+and to show Raghava's good fortune They sat together and accepted his meal — fine rice, vegetables, cakes, sweet rice;
+the remnants of Mahaprabhu's meal Raghava gave to Raghunatha. <!-- F288 F289 -->
+
+Next day Raghunatha asked through Raghava how he might attain Mahaprabhu's feet. Nityananda placed His feet on his head
+and answered:
+
+“Gaurachandra Himself came to save you. From now on everything that hindered and bound you is removed by His sweet
+will.” (CC, Antya 6.141)
+
+“Sri Chaitanya will entrust you to the care and protection of His closest servant, Svarupa Damodara. Thus you will gain
+the shelter of His lotus feet.” (CC, Antya 6.142)
+
+“Go home with this assurance. And very soon you will gain, without any hindrance, the shelter of Sri Chaitanya
+Mahaprabhu.” (CC, Antya 6.143)
+
+On Raghava's advice Raghunatha gave a generous dakshina to Nityananda and His companions and, having received their
+blessing, considered his life fulfilled. This festival is celebrated in Panihati to this day — as the
+chida-dadhi-mahotsava, the festival of flat rice with yogurt. <!-- F290 F291 F292 Q40 -->
+
 <!-- SECOND SHIFT: section “Puri” and onward goes here; continue footnotes from [^30] -->
 
 [^1]: One of the names in this list — “Vishvasta” (“He on whom one may rely”) — is uncertainly read in the manuscript.
@@ -776,3 +985,24 @@ Nityananda and Svarupa”). According to another biography, at Kamalapur Gaura w
 the danda with Nityananda. That Nityananda set the pieces floating down the river is told by only one of the biographies.
 [^29]: Another interpretation: Nityananda, non-different from Balarama, taught His followers to accept the tridanda — the
 sign of Vaishnava tridandi-sannyasa.
+[^30]: Who sent Krishnadasa to Gauda the biographies tell differently. By one, Mahaprabhu Himself sent him to inform the
+Bengali Vaishnavas (in one place it is even said: together with Nityananda and others). By others, it was Nityananda who
+sent Krishnadasa to Navadvipa — with maha-prasada and news for Shachi. By a third account, when the Lord rejected Kala
+Krishnadasa for his fall in the South, Nityananda, Damodara, Jagadananda and Mukunda, out of compassion for him, conferred
+and proposed sending him to Navadvipa, and the Lord agreed (CC, Madhya 10).
+[^31]: In one biography this cloth is called a loincloth; the bahirvasa, however, is the upper cloth.
+[^32]: The biographies name the companions differently: some — Abhirama (Ramadasa) and Gadadhara Dasa; others — Rama Dasa,
+Gadadhara Dasa, Krishnadasa Pandita, Parameshvari Dasa, Purandara Pandita, Raghunatha Vaidya “and others.” The
+“Charitamrita” in another place speaks of three: “By the direct order of Sri Chaitanya, Nityananda Prabhu went to Bengal
+together with three devotees. These three devotees were Ramadasa, Madhava and Vasudeva Ghosha. Govinda Ghosha, however,
+stayed with Sri Chaitanya and was extraordinarily glad of it” (CC, Adi 10.117–118).
+[^33]: The same source converts this year as 1534 of the Common Era; but the year 1434 of the Shaka era is 1512, so one of
+the two figures is wrong.
+[^34]: So according to two biographies; a third, in its account of Sundarananda, ascribes the miracle of the kadamba on the
+lemon tree to him (see below, “Disciples and Companions”).
+[^35]: Only one biography reports this, with a reference to the “Vijaya-khanda”; what this source is remains unclear.
+[^36]: One biography adds that Narottama saw Mahesha there; chronologically this is doubtful.
+[^37]: By one biography, Mahaprabhu came of His own accord, drawn by the festival and the dancing; by another, Nityananda
+by the power of meditation (dhyana-yoga) brought Gaura to Panihati and had Him accept the feast. Nityananda's words to
+Raghunatha (CC, Antya 6.139–140) say that the Lord came to taste the feast out of His mercy; by one retelling — invisibly
+to others.
