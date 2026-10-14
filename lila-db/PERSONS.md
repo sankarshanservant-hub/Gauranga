@@ -29,6 +29,8 @@
 | @vishvanatha-kashi | Вишвешвара (Вишванатха) — Божество в Каши | Vishveshvara (Vishvanatha), the Deity of Kashi | Шива |
 | @veni-madhava | Вени-Мадхава — Божество в Праяге | Veni-Madhava, the Deity of Prayaga | |
 | @shrinathji-deity | Шринатхаджи (Шри Говарданатха) — Божество на Говардхане | Shrinathji (Sri Govardhananatha), the Deity on Govardhana | главное Божество пушти-марги (ныне в Натхдваре); гаудии отождествляют с Гопалой, явленным Мадхавендрой Пури (ЧЧ Мадхья 4) |
+| @damodara-shalagrama | Дамодара — шалаграма в доме Джаганнатхи Мишры | Damodara, the shalagrama of Jagannatha Mishra's house | домашнее Божество семьи Господа (ЧЧ Ади 14.9); не путать с @damodara-pandita |
+| @adhokshaja-mayapura | Адхокшаджа — четырёхрукое Божество Вишну в доме Джаганнатхи Мишры | Adhokshaja, the four-armed Vishnu Deity of Jagannatha Mishra's house | найден в 1934 г. при закладке храма в Йогапитхе (Майяпур) |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -36,6 +38,19 @@
 | @lakshmipriya | Лакшмиприя | Lakshmipriya | первая супруга |
 | @vishnupriya | Вишнуприя | Vishnupriya | вторая супруга |
 | @nilambara-chakravarti | Ниламбара Чакраварти | Nilambara Chakravarti | дед по матери |
+| @upendra-mishra | Упендра Мишра | Upendra Mishra | дед Господа по отцу, отец Джаганнатхи Мишры («Према-виласа» 24); по ГГД — пастух Парджанья |
+| @kalavati | Калавати | Kalavati | бабка Господа по отцу, жена Упендры Мишры («Према-виласа» 24) |
+| @madhu-mishra | Мадху Мишра | Madhu Mishra | прадед Господа, отец Упендры Мишры («Према-виласа» 24) |
+| @rangada-mishra | Рангада (Рангана) | Rangada (Rangana) | второй сын Мадху Мишры, брат Упендры («Према-виласа» 24) |
+| @kirtida-mishra | Киртида | Kirtida | сын Мадху Мишры, брат Упендры («Према-виласа» 24); не путать с Киртидой, матерью Радхи |
+| @kirtivasa-mishra | Киртиваса | Kirtivasa | сын Мадху Мишры, брат Упендры («Према-виласа» 24) |
+| @kamsari-mishra | Камсари | Kamsari | старший брат Джаганнатхи Мишры («Према-виласа» 24); не путать с @kamsari-sena |
+| @paramananda-mishra | Парамананда | Paramananda | брат Джаганнатхи Мишры («Према-виласа» 24); не путать с @paramananda-puri |
+| @padmanabha-mishra | Падманабха | Padmanabha | брат Джаганнатхи Мишры («Према-виласа» 24); не путать с @padmanabha-chakravarti |
+| @sarveshvara-mishra | Сарвешвара | Sarveshvara | брат Джаганнатхи Мишры («Према-виласа» 24) |
+| @janardana-mishra | Джанардана | Janardana | младший брат Джаганнатхи Мишры («Према-виласа» 24) |
+| @trailokyanatha-mishra | Трайлокьянатха | Trailokyanatha | младший брат Джаганнатхи Мишры («Према-виласа» 24) |
+| @sarvajaya | Сарваджая | Sarvajaya | сестра Шачи, жена Чандрашекхары Ачарьяратны («Гаудия-вайшнава-абхидхана») |
 | **Спутники** ||||
 | @nityananda | Нитьянанда | Nityananda | Авадхута |
 | @advaita | Адвайта Ачарья | Advaita Acharya | |
@@ -287,6 +302,12 @@
 | @madhavadasa-utkala | Мадхавдас (близ Пури) | Madhavdas (near Puri) | «слуга/ученик Кришна-Чайтаньи», затем ученик Валлабхи (варты, вайшнав 85) |
 | @sundaradasa-utkala | Сундардас (близ Пури) | Sundardas (near Puri) | ученик Валлабхи, друг Мадхавдаса (варты, вайшнав 85) |
 | @madhusudana-sarasvati | Мадхусудана Сарасвати | Madhusudana Sarasvati | адвайтист и бхакта, автор «Адвайта-сиддхи» |
+| @lakshmipati-tirtha | Лакшмипати Тиртха | Lakshmipati Tirtha | мадхва-санньяси, гуру Мадхавендры Пури (ГГД 22); по одному мнению — гуру Нитьянанды |
+| @raghupati-upadhyaya | Рагхупати Упадхьяя | Raghupati Upadhyaya | учёный из Тирхута, ученик Мадхавендры Пури; встреча с Господом в Праяге (ЧЧ Мадхья 19) |
+| @sanodiya-vipra | Санодия-брахман из Матхуры | the Sanodiya brahmana of Mathura | ученик Мадхавендры Пури, у которого Господь принял бхикшу и который сопровождал Его по Враджу (ЧЧ Мадхья 17–18); в ЧЧ без имени; ср. @krishnadasa-mathura (Мурари) — отождествление не установлено |
+| @raghavendra-puri | Рагхавендра Пури | Raghavendra Puri | ученик Мадхавендры Пури, гуру Рамананды Рая по «Бхаджана-нирнае»; не путать с @raghavendra-raya |
+| @hiranya-pandita | Хиранья Пандит | Hiranya Pandita | брат Джагадиши Пандита, сосед и друг Джаганнатхи Мишры (ЧЧ Ади 10.70–71) |
+| @ratnavati | Ратнавати | Ratnavati | мать Гададхары Пандита, жена Мадхавы Мишры; соседка и подруга Шачи |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

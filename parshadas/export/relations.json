@@ -1,1 +1,412 @@
-[]
+[
+ {
+  "from": "@madhavendra-puri",
+  "type": "lineage-predecessor",
+  "who": "@madhvacharya",
+  "facts": [
+   "F6",
+   "F7",
+   "F9",
+   "F16",
+   "F18"
+  ]
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "lineage-predecessor",
+  "who": "@vyasatirtha",
+  "facts": [
+   "F9",
+   "F14",
+   "F15"
+  ],
+  "note": "По ГГД и B — гуру его гуру (Вьясатиртха → Лакшмипати → Мадхавендра). Валлабхитская «Чаураси байтхак» делает Мадхавендру прямым учеником Вьясатиртхи (F202, F216); B отвергает эти рассказы как вымысел (F203, F224)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "guru",
+  "who": "@lakshmipati-tirtha",
+  "facts": [
+   "F9",
+   "F14",
+   "F18",
+   "F19"
+  ]
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F13",
+   "F14",
+   "F49",
+   "F52",
+   "F53",
+   "F113",
+   "F114",
+   "F146",
+   "F147"
+  ],
+  "note": "Любимейший ученик; по ГГД принял плод шрингары; служил гуру в последние дни и получил благословение премы. T и B: посвящение; B 716 — санньяса."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@advaita",
+  "facts": [
+   "F13",
+   "F14",
+   "F37",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "F44",
+   "F155"
+  ],
+  "event": "ev-advaita-madhavendra-initiation",
+  "note": "Время посвящения расходится: ЧЧ — на пути за сандалом, после двух лет служения Гопале (F40, F90); ЧБ Ади 4 — при первой встрече, до явления Господа; B 724 — «приглашение» до паломничества во Врадж (F42). По ГГД принял плоды дасьи и сакхьи (F13). ЧБ Антья 4.398: неотличны, но Адвайта — ученик (F43)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@nityananda",
+  "facts": [
+   "F14",
+   "F59"
+  ],
+  "note": "Спорно: T — одни считают учеником Мадхавендры, другие — Лакшмипати, «Према-виласа» — Ишвары Пури; B — ученик Мадхавендры или Лакшмипати (тогда собрат Мадхавендры); M (Бхактисиддханта) — один из главных учеников (F59)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "friend",
+  "who": "@nityananda",
+  "facts": [
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F51",
+   "F54",
+   "F55",
+   "F56",
+   "F57",
+   "F58"
+  ],
+  "note": "Встреча в странствиях Нитьянанды (запад Индии; T — «по Южной Индии», F47); Мадхавендра относился к нему как к другу и равному, Нитьянанда чтил его как гуру (F56). Отдельного события в lila-db нет."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F115",
+   "F116",
+   "F117",
+   "F118"
+  ],
+  "event": "ev-paramananda-puri-meeting"
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@brahmananda-puri",
+  "facts": [
+   "F52",
+   "F117",
+   "F131"
+  ],
+  "note": "Одни — посвящённый ученик, другие — последователь (F131)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@ranga-puri",
+  "facts": [
+   "F13",
+   "F45",
+   "F46",
+   "F119",
+   "F120",
+   "F121"
+  ],
+  "event": "ev-ranga-puri-pandharpur",
+  "note": "Житель Пандарпура (F45). Строка ГГД о Ранге Пури (ватсалья) есть только в B (F13)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@pundarika-vidyanidhi",
+  "facts": [
+   "F112",
+   "F122",
+   "F123",
+   "F124"
+  ]
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@sanodiya-vipra",
+  "facts": [
+   "F83",
+   "F112",
+   "F125",
+   "F126",
+   "F127",
+   "F128"
+  ],
+  "event": "ev-arrival-mathura"
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@raghupati-upadhyaya",
+  "facts": [
+   "F111",
+   "F112",
+   "F129"
+  ]
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@keshava-bharati",
+  "facts": [
+   "F112",
+   "F117",
+   "F130"
+  ],
+  "note": "«Некоторые говорят» — мантра-ученик (F130)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@brahmananda-bharati",
+  "facts": [
+   "F112",
+   "F117",
+   "F132"
+  ],
+  "note": "Последователь (F132)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@keshava-puri",
+  "facts": [
+   "F112",
+   "F117",
+   "F133"
+  ],
+  "note": "Последователь (F133)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@krishnananda-puri",
+  "facts": [
+   "F112",
+   "F117",
+   "F133"
+  ],
+  "note": "Последователь (F133)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@narasimha-tirtha",
+  "facts": [
+   "F112",
+   "F117",
+   "F133"
+  ],
+  "note": "Последователь (F133)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@sukhananda-puri",
+  "facts": [
+   "F112",
+   "F117",
+   "F133"
+  ],
+  "note": "Последователь (F133)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@ramachandra-puri",
+  "facts": [
+   "F134",
+   "F141",
+   "F142",
+   "F143",
+   "F144",
+   "F145",
+   "F147"
+  ],
+  "note": "B: «называвший себя учеником»; склонен к сухому знанию; у смертного одра стал поучать гуру о Брахмане и был отвергнут (F141–F143)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@raghavendra-puri",
+  "facts": [
+   "F135"
+  ],
+  "note": "Вывод из «Бхаджана-нирнаи»: Рамананда Рай — ученик Рагхавендры Пури и ученик ученика Мадхавендры (F135)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@madhava-mishra",
+  "event": "ev-gadadhara-birth",
+  "note": "Только «Према-виласа» (уровень C) в lila-db; в реестре нет."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "disciple",
+  "who": "@sita-thakurani",
+  "event": "ev-sita-initiation",
+  "note": "Только «Адвайта-пракаша» (уровень D) в lila-db: посвящение во сне; в реестре нет."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "lineage-successor",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F16",
+   "F21",
+   "F24",
+   "F25",
+   "F26",
+   "F30",
+   "F60",
+   "F108",
+   "F110",
+   "F114",
+   "F157"
+  ],
+  "note": "Парама-гуру Господа (через Ишвару Пури). Господь называл его первым устроителем бхакти-расы (F24), рассказал его историю в Ремуне (F60, F108), читал его шлоку (F110), праздновал день его памяти у Адвайты (F157). Личная встреча в реестре не описана."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "lineage-successor",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F124",
+   "F137"
+  ],
+  "note": "Через Пундарику Видьянидхи."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "lineage-successor",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F137",
+   "F204",
+   "F226"
+  ],
+  "note": "По B — гуру гуру гуру Валлабхи (Валлабха ← Гададхара Пандит ← Пундарика ← Мадхавендра); в детстве Валлабха учил у него Веды (по «Нидж-варте» — в Каши). Валлабхитское предание о том, что Валлабха поставил его к служению Шринатхаджи (F178–F180), B считает вымыслом (F209)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "other",
+  "who": "@vitthalanatha",
+  "facts": [
+   "F30",
+   "F200",
+   "F201"
+  ],
+  "note": "Гуру Валлабхи и Виттхаланатхи всегда чтили Мадхавендру (F30). «252 варты»: Мадхавендра учил Виттхалу и стал его слугой (F200); B — исторически невозможно и духовное оскорбление (F201)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F136"
+  ],
+  "note": "Чтит его в мангала-стихах своего сочинения."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "host",
+  "who": "@shachi",
+  "facts": [
+   "F45",
+   "F46"
+  ],
+  "note": "Угостила его и Рангу Пури гхантом из бананового цвета (ЧЧ Мадхья 9)."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "host",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F45",
+   "@jagannatha-mishra:F99"
+  ]
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "deity-served",
+  "who": "@shrinathji-deity",
+  "facts": [
+   "F62",
+   "F65",
+   "F66",
+   "F68",
+   "F70",
+   "F72",
+   "F75",
+   "F76",
+   "F79",
+   "F80",
+   "F81",
+   "F82",
+   "F88",
+   "F104",
+   "F163",
+   "F194",
+   "F195"
+  ],
+  "event": "ev-madhavendra-kshira-chora",
+  "note": "Гопала (Говардхана-дхари), явленный ему на Говардхане; позже — Шринатхджи (F163, F194). Служение поручил двум отреченцам-брахманам из Гауды (F81; без имён, тега нет). Отдельного события «обретение Гопалы» в lila-db нет — эпизод внутри ev-madhavendra-kshira-chora."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "deity-served",
+  "who": "@gopala-remuna",
+  "facts": [
+   "F91",
+   "F92",
+   "F94",
+   "F95",
+   "F96",
+   "F97",
+   "F98",
+   "F103",
+   "F104",
+   "F105"
+  ],
+  "event": "ev-madhavendra-kshira-chora",
+  "note": "Кширачора-Гопинатха в Ремуне: украл для него кширу; по велению Гопалы умащён привезённым сандалом."
+ },
+ {
+  "from": "@madhavendra-puri",
+  "type": "met",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F100",
+   "F101",
+   "F106"
+  ]
+ }
+]
