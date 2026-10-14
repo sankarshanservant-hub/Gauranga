@@ -66,8 +66,8 @@ her son's happiness, and, having made sure that Gaurasundara was not unwilling, 
 resolved to have Him married again. <!-- F15 -->
 
 She sent a servant for Kashinatha Pandita, a well-known matchmaker of Navadvipa — in Krishna-lila, according to the
-“Gaura-ganoddesha-dipika” (50), the brahmana Kulaka whom King Satrajit sent to Krishna to propose the marriage of
-Satyabhama[^4]. Shachi herself put the match to him: “Speak to the raja-pandita; if he wishes, let him give his daughter
+“Gaura-ganoddesha-dipika” (50), the brahmana whom King Satrajit sent to Krishna to propose the marriage of
+Satyabhama; he is called Kulaka[^4]. Shachi herself put the match to him: “Speak to the raja-pandita; if he wishes, let him give his daughter
 to my Nimai.” Yet she was anxious whether so eminent a man would give his daughter to the son of poor parents, who was
 reputed to be eccentric besides. “Thakurani,” the matchmaker replied, “if not to Nimai Pandita, to whom else should he
 give her?” Delighted, he promised to arrange everything quickly and set off at once for Sanatana's house, repeating the
@@ -157,7 +157,7 @@ flowers, while the gods headed by Brahma invisibly showered them with flowers fr
 
 “The Mother of the universe, Vishnupriya, offered the Lord a garland of flowers and bowed devotedly at His lotus feet.
 Smiling gently, the Lord also offered a garland to His bride. After this Lakshmi and Narayana joyfully began to shower each
-other with flowers.” (CB, Adi 15.176–178) <!-- F50 -->
+other with flowers.” (CB, Adi 15.176–178) <!-- F50 Q5 -->
 
 Playful banter broke out between the families of the bride and groom, and the Lord's smile delighted everyone. Then
 Sanatana, having washed his feet and rinsed his mouth, performed the kanyadana — gave his daughter to the Lord — and with
@@ -382,6 +382,160 @@ mercy; he was glorified as her “exclusive vessel of mercy,” and he was her d
 “Gaudiya-vaishnava-abhidhana,” Gadadhara Dasa too looked after Shachi and Vishnupriya in Navadvipa; when they were gone,
 he moved to Katwa and established a Deity of Gauranga there. <!-- F101 F102 F103 -->
 
+## Departure
+When, where and how Vishnupriya Devi left this world the biographies do not say. We know only that after the Lord's
+disappearance she lived in His house in Mayapur and that she outlived many: Gadadhara Dasa moved to Katwa only after the
+departure of Shachi and Vishnupriya, Vamshivadana moved her Deity after her departure, and Ishana outlived even her. The
+news of her departure in Navadvipa reached Srinivasa in Yajigrama, where he had returned with a chest of books after the
+events in Vishnupur; he fell senseless, and the devotees brought him round with difficulty. <!-- F104 F106 F105 -->
+
+## The Bhu-shakti of Gaura-Narayana
+Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who she and her father were in the eternal lila:
+
+“Sri Sanatana Mishra is the former King Satrajit, whose daughter is Vishnupriya, the Mother of the world, the incarnation
+of Bhu.” (GGD 47)
+
+The daughter of Satrajit whom Krishna married is Satyabhama; therefore in Krishna-lila Vishnupriya is called Satyabhama,
+the Lord's bhu-shakti. Karnapura finds confirmation in the “Chaitanya-chandrodaya,” where Kali says that the Lord, “taking
+as wife another, a partial incarnation of Bhu, named Vishnupriya…” (GGD 48); the same drama calls her “devotion itself
+embodied” — sakshat bhakti-svarupini. <!-- F107 Q1 F110 F119 -->
+
+But Gaudiya authors at once note a difference as well. Satyabhama is the lawful (svakiya) wife of Krishna, the Lord of
+Dvaraka, who has many wives, and a son was born to Krishna from her; in Vishnupriya's pastimes there is nothing of the
+kind, and Gaura-Narayana, the Lord of Mayapur, has no multitude of wives. Therefore on the path of reverence
+(maryada-marga) she is worshipped as Sri Lakshmi in the pastimes of Gaura-Narayana. Gaura-Narayana and Gaura-Vishvambhara
+are in essence one non-dual Truth, but in the manifestations of lila there is a difference between Them, and Their
+pastimes have different abodes. <!-- F108 F109 -->
+
+Vrindavana Dasa compares her with Rukmini: the union of Vishnupriya and Nimai is like the union of Rukmini and Krishna
+(CB, Adi 15.59); Murari Gupta and Lochana Dasa say the same, and her father's good fortune is likened to that of Bhishmaka,
+Rukmini's father. For comparison: the father of the Lord's first consort, Vallabhacharya, is called by the
+“Chaitanya-bhagavata” (Adi 10.48) and the “Gaura-ganoddesha-dipika” (44) both Janaka and Bhishmaka, and his daughter
+Lakshmipriya — Lakshmi, the single form of Janaki and Rukmini. And since both Satyabhama and Rukmini are manifestations of
+the daughter of Vrishabhanu, Sri Radha, Vishnupriya too may be called her manifestation — but, as will be said below, not
+Radha Herself. <!-- F111 F112 F113 -->
+
+Vishnu has three energies — Sri, Bhu and Nila (or Lila). In the pastimes of Gaura-Narayana the sri-shakti is Lakshmipriya,
+the bhu-shakti is Vishnupriya, and the third energy is Sri Navadvipa-dhama Herself[^15]; all three are manifestations and
+maidservants of the supreme shakti, Sri Radhika. Srila Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 1.37–45) explains:
+when Gaura shows His oneness with Narayana, His shaktis are His consorts Lakshmipriya and Vishnupriya; when with Krishna —
+Gadadhara Pandita, the Radha of Krishna-lila. Lakshmipriya, Vishnupriya and others are the shaktis of Gaura-Vasudeva, while
+Gadadhara Pandita, Svarupa Damodara and Ramananda Raya are the shaktis of madhura-rasa; and all of them assist
+Gaurasundara in His vipralambha, His mood of separation. <!-- F114 F115 F116 -->
+
+The change of consorts is explained in the same way. Before Gaurasundara revealed Himself as the incarnation of
+prema-bhakti, Lakshmipriya disappeared: while Vishnupriya — prema-bhakti embodied — was growing up, Lakshmipriya served
+Gaura-Narayana; but when this prema-bhakti had grown and become worthy of serving Gaurasundara, Lakshmipriya departed. As
+Navadvipa is the seat of the nine kinds of devotion, so Vishnupriya is ninefold devotion itself, the mistress of Gaura's
+home. <!-- F120 F118 -->
+
+Gaurasundara is Radha and Krishna united in one form. Therefore Vishnupriya, the Mother of the world, who bestows love on
+the devotees, may be called a maidservant of Radha-Krishna, a devotee and companion (sahachari) of the daughter of
+Vrishabhanu — and Parameshvari. Srila Bhaktisiddhanta in one of his songs calls her the incarnation of prema-bhakti,
+Narayani, and says that, following the gopis, she served all three in her mind — Radha, Krishna and Gaura.
+<!-- F121 F122 -->
+
+## Gaura-nagari and the Sahajiyas
+Vishnupriya's wedding, her conversation with the Lord before His sannyasa and her separation are subjects on which it is
+especially easy to stumble. The Gaudiya tradition — following Srila Bhaktisiddhanta — speaks of them directly and
+strictly, and without these warnings an account of her would be incomplete. <!-- I6 -->
+
+Into Lochana Dasa's “Chaitanya-mangala” self-interested people inserted the doctrine of gaura-nagari and various invented
+descriptions contrary to siddhanta; even some modern secular literary scholars acknowledge this. Into the
+“Chaitanya-bhagavata” and the “Chaitanya-charitamrita” nothing contrary to siddhanta has been inserted; therefore any view
+of another biography that cannot be reconciled with them is not accepted as true by the followers of Gaura.
+<!-- F125 F126 -->
+
+The pastimes of Lakshmi and Narayana are not an attempt at enjoyment such as is natural to ordinary living beings. If an
+account of them is made the support of a false doctrine of enjoyment — the doctrine of gaura-nagari or of the
+prakrita-sahajiyas — this is a grave offence. In speaking with Vishnupriya before leaving home, Gaurasundara was teaching
+precisely those intoxicated with the thirst for enjoyment. And Lochana Dasa himself shows that pure devotees see in
+Vishnupriya not a trace of a possessive desire for enjoyment that might hinder the Lord's sannyasa; on the contrary, she
+nourished the joy of the independent Gaura-Vishvambhara — the pastime of separation of Vrajendra-nandana, imbued with
+Radha's bhava. <!-- F127 F128 -->
+
+Those who distort Lochana Dasa's account and, displaying a seemingly great devotion to Vishnupriya, seek in their
+imagination to arrange her meeting with Gaurasundara in the Gambhira, in the house of Kashi Mishra in Nilachala, are great
+offenders at the feet of Gaurasundara and Vishnupriya, opponents of the siddhanta of pure devotion, prakrita-sahajiyas
+deserving censure. The same people write that Mahaprabhu, even after sannyasa, while living in Nilachala, bought cloth and
+other things and sent them to the wife of His former household life. In truth this is only the uncontrollable agitation of
+the inner enemies in those who write with a worldly mind and try to load their own worldly attachment onto the shoulders
+of Gaurasundara. <!-- F129 F130 -->
+
+Various sects of “grihi-bauls,” householder bauls, paint invented pictures of Nimai's sannyasa, and some blame Sri
+Chaitanya for having, by taking sannyasa, abandoned His grown wife, violated dharma and caused a woman grief. They do not
+comprehend the words of the Vyasa of Chaitanya's pastimes:
+
+“In truth all these examples of renunciation are not a rejection of one's obligations. At their root lies the attainment
+of the highest good, but only great souls can understand this. Even a hard tree melts on hearing of these divine pastimes,
+which bring liberation to all living beings.” (CB, Madhya 3.104–105) <!-- F131 Q10 -->
+
+Nor may the two lilas be confused. Those who call Vishnupriya “the original Radha” (amshini), and Gaura and Vishnupriya
+“Radha and Krishna,” erase the distinctive features of both lilas and commit a grave offence in both. Gaurasundara, adorned
+with Radha's bhava and radiance, is nowhere a “nagara” — a lover-gallant. <!-- F135 -->
+
+Bhaktivinoda Thakura wholly rejected the doctrines of “gaura-bhaja,” “gaura-vadi,” “gaura-nagari” and those mixed with
+“theosophy” — doctrines which, abandoning the path of Rupa's followers, merely imitated the worship of Vishnupriya and
+Gauranga — and preached the worship of Gaurasundara on the pure path of the rupanugas. Where the worship of Krishna together
+with the ashraya-vigraha — taught by Rupa, Raghunatha, Jiva, Krishnadasa Kaviraja and Narottama — is abandoned, and Gaura
+and Vishnupriya, under the guise of worshipping them, are honoured as separate from Krishna, there is neither Vishnupriya,
+the bhu-shakti, nor her Lord Gaurasundara. The worship of Gaura and Vishnupriya is genuine only on the path of the
+rupanugas — as part of the service of Radha and Krishna. <!-- F132 F133 I6 -->
+
+## The Worship of Gaura and Vishnupriya
+The true form of this worship was revealed by Narottama Dasa Thakura. He dispelled the misconception that Gaurasundara is
+not Vishnu but a living being within varnashrama, a “bhagavad-bhakta,” a “so-called great man” or merely a guru — the
+founder of one of the sampradayas — and in Kheturi he revealed the bhu-shakti Vishnupriya together with Gaura-Narayana.
+There she assists Gaurasundara's separation, whose form in separation is imbued with the bhava of the gopis; in Their
+relationship there is not a shadow of enjoyment. <!-- F134 -->
+
+From his guru Lokanatha Gosvami Narottama had received the order to establish Deities of Radha-Krishna and Gauranga.
+Returning to Kheturi, he prepared five pairs of Radha-Krishna Deities, while the Deities of Gaura and Vishnupriya he
+obtained miraculously. The night before he received an instruction in a dream, and in the morning he went to the
+neighbouring village of Gopalpur and wished to enter the granary of the brahmana Vipradasa, full of rice. People tried to
+dissuade him: venomous snakes hissed there, which even snake-charmers had failed to drive out. But when Narottama came and
+the granary was opened, the snakes vanished, and the Deities of Gaura and Vishnupriya, before everyone's eyes, came of
+Themselves onto his lap[^16]; at once a great kirtana began. The “Bhakti-ratnakara” (10.202) says: “Gaurasundara and His
+beloved Vishnupriya came out of the granary and sat on Narottama's lap.” Narottama took these Deities to Kheturi and
+installed Them there; today They are served in Gambhila[^17]. <!-- F142 F141 Q12 F143 -->
+
+At the great festival in Kheturi, on Phalguni Purnima, Narottama revealed six Deities: Gauranga with Vishnupriya,
+Vallabhikanta, Krishna, Vrajamohana, Radhakanta and Radharamana (BR 10, 12; “Prema-vilasa” 19; “Narottama-vilasa” 6). It
+is said that in Shrikhanda too, by the order of Narahari Sarakara, Raghunandana's son Kanai Thakura revealed the service of
+Gauranga and Vishnupriya. <!-- F140 F144 -->
+
+Three centuries later this service was revived by Bhaktivinoda Thakura. In 1892 (the 20th of Phalguna, 1299 of the Bengali
+era), at a meeting in Mayapur, Jagannatha Dasa Babaji proposed that Jagannatha Mishra and Shachi be worshipped in one
+building and Mahaprabhu with Lakshmi and Vishnupriya at His sides in another; the Pancha-tattva in Srivasa-angana. In
+January 1894 a meeting convened by Bhaktivinoda at the A. B. school in Krishnanagar resolved to establish Deities at the
+Lord's birthplace; the “Navadvipa-pracharini-sabha” was founded, and Dvarakanath-babu, Naphar-babu and others resolved to
+build a hut there for the Deities of Gaura and Vishnupriya. On Friday, 21 March 1894 (the 9th of Chaitra, 1300 of the
+Bengali era), on Phalguni Purnima, during a lunar eclipse, amid loud kirtana, the Deities of Gaura and Vishnupriya were
+installed; for Their service the committee “Sri Mayapur Seva Samiti” was formed, joined by many well-known people. Thus
+Bhaktivinoda — following Narottama and with the permission of Jagannatha Dasa Babaji — revealed the service of
+Gaurasundara with Vishnupriya in Gaura's home in Mayapur. <!-- F145 F146 F147 -->
+
+The meaning of this service Srila Bhaktisiddhanta expressed in a song appended to his “Anuvritti” on the “Upadeshamrita.”
+Some, he says, call for worshipping Vishnupriya all one's life, abandoning the path of Rupa and the service of
+Radha-Krishna, following “theosophy” and worldly enjoyment — such people have no association with Raghunatha, the
+rupanuga. Narottama, however, dispelling the world's delusion, established Gaura and Vishnupriya, while he himself,
+remembering Radha and Krishna, worshipped Them with all his heart in Vraja. The new doctrine of nagari, stricken by Kali,
+destroys bhakti; but Bhaktivinoda, the servant of Gaura at the feet of his Prabhupada, remembering the feet of Narottama,
+established Priya and Hari in Mayapur as his duty. <!-- F148 -->
+
+Srila Bhaktisiddhanta also chose the day of Vishnupriya's appearance to re-establish the “Vishva-vaishnava-raja-sabha”:
+this took place amid kirtana on 5 February 1919 at the Ultadanga Math, the Bhaktivinoda-asana, and the “Amrita Bazar
+Patrika” wrote about it[^18]. <!-- F149 -->
+
+## Significance
+The life of Vishnupriya Devi is service to the Lord in two forms: at home, as Lakshmi beside Gaura-Narayana, and in
+separation, as the acharya of the holy name, serving Him in the name and in the Deity. By her mercy the worldly life ruled
+by the relation of “enjoyer and object of enjoyment,” born of the worldly distinction of man and woman, falls away, and
+there awakens the longing to enter Gaura's home and to serve, even as a broom, in the marketplace of the holy name
+(nama-hatta) of Nityananda and of Sach-chid-ananda Bhaktivinoda. By her mercy the dharma of attachment to home
+(grihavrata) is torn out by the root, and one gains entry into Gaura's home in Yoga-Mayapur — and love for it.
+<!-- F124 F137 -->
+
 <!-- footnotes -->
 [^1]: According to other information, Vishnupriya was the daughter of the priest (purohita) of a local zamindar.
 [^2]: In the opinion of some, Durgadasa Mishra was not the grandfather but the father of Vishnupriya.
@@ -415,3 +569,12 @@ he moved to Katwa and established a Deity of Gauranga there. <!-- F101 F102 F103
     and bless him — nothing is said of her first refusing.
 [^14]: When Vamshi began to serve her is told differently: according to some — after Mahaprabhu's disappearance, according to
     others — only after the departure of both Mahaprabhu and Shachi.
+[^15]: Here the sources differ in wording: according to one explanation, Sri Navadvipa-dhama is the lila-shakti, according
+    to another — the nila-shakti; in Srila Bhaktisiddhanta's song Nila Devi is the Dhama and Lakshmi Devi is Lakshmipriya,
+    and all three shaktis serve Radha and Krishna.
+[^16]: So in one biography; according to others, a single venomous snake lived in the granary, and the Deities came of
+    Themselves not onto Narottama's lap but into his hands.
+[^17]: One biography, speaking of the Deity in Gambhila, at once calls these Deities “Sri Gauranga and Nityananda,” which
+    disagrees both with the “Bhakti-ratnakara” (10.202) and with the other testimonies.
+[^18]: One biography gives the date 5 February and says at once that the newspaper wrote about it “on the next day, 10
+    February”; one of the two dates is evidently mistaken.
