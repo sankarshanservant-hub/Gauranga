@@ -317,6 +317,12 @@
 | @jagannatha-dasa-babaji | Джаганнатха дас Бабаджи | Jagannatha Dasa Babaji | «вайшнава-сарвабхаума»; указал место явления Господа и день явления Вишнуприи; не путать с @jagannatha-dasa-odia |
 | @kanai-shrikhanda | Канаи Тхакур (Шрикханда) | Kanai Thakura (of Shrikhanda) | сын Рагхунанданы; по повелению Нарахари — служение Гауранге и Вишнуприе (B 131) |
 | @vishvanatha-chakravarti | Вишванатха Чакраварти Тхакур | Vishvanatha Chakravarti Thakura | ачарья XVII–XVIII вв., комментатор «Бхагаваты» |
+| @ramachandra-khan | Рамачандра Кхан | Ramachandra Khan | заминдар Бенаполя (Джессор), враг вайшнавов: подослал блудницу к Харидасу, отвёл Нитьянанде коровник (ЧЧ Антья 3) |
+| @minaketana-ramadasa | Минакетана Рамадас | Minaketana Ramadasa | спутник Нитьянанды, авадхута; упрекнул Гунарнаву в Джхаматпуре (ЧЧ Ади 5); не путать с @abhirama (Рамадас) |
+| @krishnadasa-sarakhela | Кришнадас Саркхел | Krishnadasa Sarakhela | младший брат Сурьядаса Пандита, твёрдо верил в Нитьянанду (ЧЧ Ади 11.25); не путать с @krishnadasa-badagachhi |
+| @raghunatha-vaidya | Рагхунатха Вайдья (Оджха) | Raghunatha Vaidya (Ojha) | спутник Нитьянанды на пути из Пури в Гауду (ЧБ Антья 5.231) |
+| @gunarnava-mishra | Гунарнава Мишра | Gunarnava Mishra | пуджари в доме Кришнадаса Кавираджи (Джхаматпур), не почтивший Минакетану (ЧЧ Ади 5.170) |
+| @shrimati-virachandra | Шримати (жена Вирачандры) | Shrimati (Virachandra's wife) | дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура; не путать с @radha |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

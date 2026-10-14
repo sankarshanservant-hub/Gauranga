@@ -1,0 +1,316 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/nityananda.md и lila-db.
+id: "@nityananda"
+names:
+  ru: "Нитьянанда Прабху"
+  en: "Nityananda Prabhu"
+  variants: ["Нитай", "Нитай-чанд", "Нитьянанда Авадхута", "Авадхута-чандра", "Нитьянанда-рама", "Нитьянанда-рай",
+             "Нитьянанда-чандра", "Нитьянанда-сварупа", "Махамалла-рай", "Шрипада", "Ишвара Нитай", "Гаурешвара",
+             "Хадаи-нандана", "Ананта (у M)"]
+  facts: [F1, F2, F3, F4, F5]
+kind: associate
+circle: [panca-tattva, navadvipa, puri]
+period: [P00, P01, P05, P06, P07, P08, P09, P10, P11, P12, P13, P14, P15]
+period_note: "Лично: явление и детство в Экачакре (P01; годы детства книги не датируют), паломничество (P01–P06), Навадвипа (P07), санньяса и путь в Пури (P08–P10), Пури и проповедь в Гауде (P11–P14), брак и Кхардаха (в книгах не датированы; в lila-db — P15). P00 — только Нарада у Баларамы на Шветадвипе (F25). После ухода — является Шринивасе во сне и в Кхетури (F411, F412)."
+life:
+  appearance:
+    date: ""
+    tithi: "маги шукла-трайодаши (13-й день светлой половины месяца магха)"
+    place: "#ekachakra"
+    conf: "тития — по ЧБ Ади 3.45 (A); год в реестре не назван"
+    facts: [F27, F28, F29, F30, F31, F32, F33, Q17]
+    events: [ev-nityananda-birth]
+    note: "Год 1395 Шака — только «Адвайта-пракаша» (D), lila-db. T: на двенадцать лет старше Господа (F29) — ⚠ ср. срок паломничества (F99)."
+  disappearance:
+    conf: "неизвестно"
+    facts: [F84, F410, F411, F414]
+    events: [ev-nityananda-departure]
+    note: "Ни T, ни M, ни B не дают даты, места и обстоятельств ухода (F410). По lila-db — Джаянанда (C) и «Нитьянанда-вамша-вистара» (C): уход (вхождение) в Банкимдеву в Экачакре; ср. местное предание о том, что Нитьянанда вошёл в Банким-рая (F49). Ушёл раньше Адвайты (F411)."
+origin:
+  places: ["#ekachakra", "#radha-desha"]
+  family: ["@hadai-pandita", "@padmavati"]
+  varna: "брахман; по B — из рода майтхильских брахманов (Оджха = Упадхьяя)"
+  facts: [F30, F34, F36, F37]
+relations:
+  # семья
+  - {type: father, who: "@hadai-pandita", facts: [F34, F36, F37, F38, F41, F71, F75, F79, F81, F83, Q19],
+     note: "Хадаи / Хараи Пандит, Хадо Оджха (Упадхьяя). По БР — в лиле Кришны Васудева (F415). Отдал двенадцатилетнего сына странствующему санньяси (F77–F81, только B)."}
+  - {type: mother, who: "@padmavati", facts: [F34, F35, F36, F39, F80], note: "По БР — Рохини (F415)."}
+  - {type: other, who: "@vishvarupa", facts: [F416], note: "T 19: Вишварупа назван «другим Я» Нитьянанды (без первоисточника)."}
+  - {type: spouse, who: "@vasudha", facts: [F324, F330, F335, F337, F338, F339, F343, F346, F352, F417, F429], event: ev-nityananda-marriage,
+     note: "Мать Вирабхадры и Ганги. По ГГД 65–66 (у T) — одна из жён Баларамы, Варуни или Ревати: соответствие у T непоследовательно (F330, F417)."}
+  - {type: spouse, who: "@jahnava", facts: [F324, F330, F340, F341, F342, F343, F345, F347, F348, F349, F354, F417, F429], event: ev-nityananda-marriage,
+     note: "Детей не было (F352); гуру Вирабхадры (F354). По ГГД — Варуни или Ревати; по другому мнению (T) и по B — Ананга-манджари, младшая сестра Радхи (F417); T допускает оба мнения."}
+  - {type: in-law, who: "@suryadasa-pandita", facts: [F324, F325, F326, F328, F329, F330, F331, F332, F334, F335, F337], event: ev-nityananda-marriage,
+     note: "Тесть; по ГГД — Какудми, отец Ревати (F417). Жил в Шалиграме (M) ≠ дом и храм в Амбике (T) (F325)."}
+  - {type: in-law, who: "@krishnadasa-sarakhela", facts: [F326, F336], note: "Младший брат Сурьи даса; у T адхиваса свадьбы — в его доме в Шалиграме (F336)."}
+  - {type: other, who: "@krishnadasa-badagachhi", facts: [F328, F336], event: ev-krishnadasa-badagachhi-separation,
+     note: "Кришнадас, сын Харихоры из Боргачи (Бороганчхи) — устроитель свадьбы (T, M); ⚠ M смешивает его с Кришнадасом Саркхелом (F328)."}
+  - {type: son, who: "@virabhadra", facts: [F32, F343, F352, F353, F354, F355, F356, F357, F361, F362, F363, F364, F365, F366, F418, F433, Q49],
+     events: [ev-virachandra-birth, ev-virachandra-recognized], note: "Единственный сын (БР, F353); по ГГД 67 — Кширодакашайи (F418); ученик Джахнавы (F354)."}
+  - {type: daughter, who: "@ganga-nityananda", facts: [F343, F352, F365, F419], event: ev-ganga-marries-madhava, note: "Воплощение реки Ганги (T, F419)."}
+  - {type: in-law, who: "@madhava-acharya-ganga", facts: [F367, F419], event: ev-ganga-marries-madhava, note: "Зять; по ГГД 69 — царь Шантану."}
+  - {type: in-law, who: "@shrimati-virachandra", facts: [F357], note: "Невестка; дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура (F357)."}
+  - {type: in-law, who: "@narayani-virachandra", facts: [F357], note: "Невестка; T — вторая дочь Ядунанданы ≠ B — их приёмная дочь (F357)."}
+  - {type: relative, who: "@gopijanavallabha", facts: [F50, F358, F359], note: "Приёмный (B: по сути — ученик) сын Вирабхадры; от его рода — севаиты Бирчандрапура (F50)."}
+  - {type: relative, who: "@ramakrishna-virachandra", facts: [F358, F359], note: "Приёмный сын (ученик) Вирабхадры."}
+  - {type: relative, who: "@ramachandra-virachandra", facts: [F358, F359], note: "Приёмный сын (ученик) Вирабхадры, жил в Кхардахе."}
+  # Господь и Панча-таттва
+  - {type: other, who: "@mahaprabhu", facts: [F6, F7, F23, F129, F131, F136, F149, F151, F152, F165, F166, F171, F172, F250, F260, F261, F264, F426, F427, I6],
+     note: "Господь, Которому Он служит («двое Прабху служат стопам Махапрабху», F426); как Баладева — Его старший брат (F6, F7)."}
+  - {type: companion, who: "@advaita", facts: [F16, F20, F160, F166, F180, F181, F182, F183, F189, F208, F221, F303, F411, F412, F435],
+     events: [ev-nityananda-visits-advaita, ev-advaita-feast-shantipura, ev-nityananda-advaita-meeting-shantipura, ev-nityananda-advaita-kirtan-navadvipa, ev-tattva-nityananda-advaita],
+     note: "Вместе — Прабху Панча-таттвы; M: «вайшнавы, будто бы порицающие Нитьянанду, — такие, как Адвайта» (I10, Q14)."}
+  # гуру и старшие
+  - {type: guru, who: "@madhavendra-puri", facts: [F102, F103, F104, F105, F106, F107, F109, F111, F112, F113, F114, F115, F119, F122, Q5, Q6, I21],
+     note: "Мнения расходятся: ученик Мадхавендры (одни; Бхактисиддханта у M) ≠ ученик Лакшмипати и духовный брат Мадхавендры (другие) ≠ ученик Ишвары Пури («Према-виласа») (F102). Чтил его как гуру ради примера (F104); по БР Мадхавендра видел в Нём друга и равного (F105)."}
+  - {type: guru, who: "@lakshmipati-tirtha", facts: [F102], note: "Лишь по одному из мнений (T, B)."}
+  - {type: guru, who: "@ishvara-puri", facts: [F102], note: "Лишь по «Према-виласе» (у T), уровень C."}
+  - {type: met, who: "@ishvara-puri", facts: [F108, F109, F116], note: "Ученик Мадхавендры; почувствовал к Нему великую любовь."}
+  - {type: met, who: "@brahmananda-puri", facts: [F108, F116]}
+  - {type: met, who: "@vyasa", facts: [F96], note: "В Бадарике Вьяса узнал в Нём Балараму (ЧБ Ади 9, у M)."}
+  # Навадвипа
+  - {type: host, who: "@nandana-acharya", facts: [F137, F138, F146, F181], event: ev-nityananda-first-meeting, note: "Первое пристанище в Навадвипе (T, M, B) ≠ дом Садашивы (F139)."}
+  - {type: host, who: "@sadashiva-pandita", facts: [F139], note: "ЧЧ Ади 10.34: Нитьянанда жил в его доме; «первым жилищем» — у T."}
+  - {type: host, who: "@srivasa", facts: [F144, F149, F155, F158, F159, F163, F164, F167, F169, F170, F171, F172, F332, Q20, Q21, I11],
+     note: "Жил у него; Господь вручил ему Нитьянанду (F171); «Нитьянанда и Я — твои сыновья» (F172)."}
+  - {type: other, who: "@malini", facts: [F169, F175], note: "Служила Ему, как родному сыну."}
+  - {type: other, who: "@shachi", facts: [F167, F173, F176, F213, F214, F220, F297, F338], event: ev-nityananda-meal-shachi,
+     note: "Во сне видела Гауру и Нитая как Каная и Балая; Нитай звал её «мать» (F173)."}
+  - {type: servant, who: "@ishana-navadvipa", facts: [F174], note: "Омывал Ему стопы и прибирал разбросанный Им рис в доме Шачи."}
+  - {type: co-worker, who: "@haridasa-thakura", facts: [F144, F184, F190, F191, F194, F195, F241, F321], event: ev-preaching-door-to-door,
+     note: "Первые проповедники Имени; после бегства от Джагая и Мадхая Харидас отказался ходить с Ним (F195)."}
+  - {type: other, who: "@murari-gupta", facts: [F143, F155, F185, F186, F333], note: "Объяснил сон Господа (F143); научен кланяться сперва Нитьянанде (F185)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F155, F215, F224, F252, F253, F254], event: ev-gopinatha-prasada-gadadhara,
+     note: "Угостил Его прасадом Тота-Гопинатхи (F252–F254); «жизнь Нитьянанды» и «жизнь Гададхары» (F434)."}
+  - {type: opposed, who: "@jagai-madhai", facts: [F192, F193, F194, F196, F197, F198, F199, F200, F201, F202, F203], event: ev-jagai-madhai-deliverance,
+     note: "Мадхай ранил Его черепком; Он выпросил у Господа их жизни; оба приняли Его прибежище (B) ≠ T: Он один освободил их (F203)."}
+  - {type: opposed, who: "@chand-kazi", facts: [F210], event: ev-nagara-kirtana-kazi}
+  - {type: other, who: "@gangadasa-pandita", facts: [F187]}
+  - {type: other, who: "@chandrashekhara-acharya", facts: [F188, F214, F215, F219, F333], event: ev-chandrashekhara-drama,
+     note: "Нитьянанда послал его к Адвайте и в Навадвипу после санньясы Господа (F219)."}
+  # путь в Пури и Пури
+  - {type: companion, who: "@mukunda-datta", facts: [F215, F224, F233, F238, F239]}
+  - {type: companion, who: "@jagadananda-pandita", facts: [F224, F229, F233, F236, F238, F239], event: ev-danda-broken, note: "По ЧБ — оставил Ему посох Господа (F229)."}
+  - {type: companion, who: "@damodara-pandita", facts: [F214, F224, F233, F236, F238, F239, F243]}
+  - {type: other, who: "@sarvabhauma", facts: [F233, F242, F243], event: ev-sarvabhauma-meeting}
+  - {type: other, who: "@chandaneshvara", facts: [F233]}
+  - {type: other, who: "@gopinatha-acharya", facts: [F233]}
+  - {type: protege, who: "@kala-krishnadasa", facts: [F237, F238, F239], event: ev-messenger-to-gauda-after-south,
+     note: "Брахман Кришнадас — по просьбе Нитьянанды слуга Господа на юге; кто послал его вестником в Гауду — расходится (F239)."}
+  - {type: other, who: "@svarupa-damodara", facts: [F11, F240, F241, F290], note: "Прославил Нитьянанду пятью стихами «Кадчи» (ЧЧ Ади 1.7–11)."}
+  - {type: other, who: "@ramananda-raya", facts: [F241]}
+  - {type: other, who: "@prataparudra", facts: [F242, F243, F248], event: ev-prataparudra-mercy, note: "Нитьянанда выпросил для царя ношеную ткань Господа."}
+  - {type: other, who: "@govinda-servant", facts: [F243]}
+  - {type: other, who: "@kashishvara", facts: [F248]}
+  - {type: other, who: "@rupa-gosvami", facts: [F255, F321], event: ev-ramakeli-rupa-sanatana}
+  - {type: other, who: "@sanatana-gosvami", facts: [F255, F321], event: ev-ramakeli-rupa-sanatana}
+  # Гауда
+  - {type: host, who: "@raghava-pandita", facts: [F250, F275, F276, F277, F278, F279, F282, F286, F288, F289, F290, F291], event: ev-nityananda-panihati-abhisheka}
+  - {type: other, who: "@makaradhvaja-kara", facts: [F275]}
+  - {type: other, who: "@raghunatha-dasa", facts: [F284, F285, F288, F289, F290, F291, F292], event: ev-panihati-chida-dadhi,
+     note: "«Вор» наказан праздником чида-дадхи; благословлён скоро прийти к Господу."}
+  - {type: opposed, who: "@ramachandra-khan", facts: [F269, F270, F271, F272, F273, F274, I1]}
+  - {type: host, who: "@hiranya-pandita", facts: [F304], event: ev-nityananda-thieves}
+  - {type: other, who: "@shivananda-sena", facts: [F313, F314, F315, F316, F317, Q47], note: "«Наказан» ударом ногой — и принял это как милость (ЧЧ Антья 12)."}
+  - {type: host, who: "@krishnananda-datta", facts: [F318]}
+  - {type: host, who: "@narahari-sarakara", facts: [F319]}
+  - {type: other, who: "@jiva-gosvami", facts: [F323, F409], event: ev-jiva-meets-nityananda-navadvipa, note: "Благословил и послал во Врадж (БР); в «Навадвипа-дхама-махатмье» — Его проводник по Навадвипе."}
+  # ученики и спутники
+  - {type: disciple, who: "@vrindavana-dasa", facts: [F373, F374, F375, F376, I9],
+     note: "M — посвящён Нитьянандой ≠ T — «считается учеником» из-за обильных благословений; B — «последний слуга Нитьянанды» (F373)."}
+  - {type: disciple, who: "@krishnadasa-kaviraja", facts: [F391, F392, F393, F394, F395], event: ev-kaviraja-nityananda-jhamatpur,
+     note: "Нитьянанда во сне послал его во Вриндаван; дикша от Нитьянанды — лишь местное предание ≠ «Према-виласа»: от Рагхунатхи даса (F392)."}
+  - {type: companion, who: "@abhirama", facts: [F262, F267, F275, F349, F365, F369, F377], event: ev-nityananda-sent-to-gauda, note: "Рамадас; из двенадцати гопалов; «самый дорогой» Его преданный."}
+  - {type: companion, who: "@gadadhara-dasa", facts: [F262, F263, F267, F275, F287, F295, F296, F407, F408], event: ev-nityananda-sent-to-gauda,
+     note: "Послан с Ним в Гауду; не из гопалов — в мадхурья-расе (F407)."}
+  - {type: companion, who: "@sundarananda", facts: [F369, F378], note: "T 96 приписывает ему чудо с кадамбой ≠ T 79, B — Нитьянанде (F278)."}
+  - {type: companion, who: "@gauridasa-pandita", facts: [F324, F334, F369, F379, F380, F381, F382, F383, F384, F385, F386], event: ev-gauridasa-deities,
+     note: "Субала; брат Сурьи даса; Божества Гаура-Нитай в Амбике — версии предания (F380)."}
+  - {type: companion, who: "@parameshvara-dasa", facts: [F262, F267, F339, F344, F346, F349, F369, F403]}
+  - {type: companion, who: "@kamalakara-pippalai", facts: [F283, F349, F369, F390], note: "По «Виджая-кханде» (у T) получил от Него Панихати (F283) ⚠."}
+  - {type: companion, who: "@dhananjaya-pandita", facts: [F369, F388]}
+  - {type: companion, who: "@mahesha-pandita", facts: [F287, F302, F369, F400]}
+  - {type: companion, who: "@purushottama-nagara", facts: [F350, F351, F367, F369, F404], note: "Дамана; в списке двенадцати гопалов B два Пурушоттамы (F369)."}
+  - {type: companion, who: "@kaliya-krishnadasa", facts: [F349, F369, F389], note: "Не путать с брахманом Кришнадасом — слугой Господа на юге (@kala-krishnadasa)."}
+  - {type: companion, who: "@uddharana-datta", facts: [F297, F298, F299, F338, F348, F369, F405, F406, I4], event: ev-uddharana-pilgrimage-nityananda}
+  - {type: companion, who: "@minaketana-ramadasa", facts: [F349, F393, F396, F397], note: "По ГГД 68 — Нишатха и Ульмука (F397)."}
+  - {type: companion, who: "@purandara-pandita", facts: [F262, F267]}
+  - {type: companion, who: "@raghunatha-vaidya", facts: [F262]}
+  - {type: companion, who: "@murari-chaitanya-dasa", facts: [F349]}
+  - {type: companion, who: "@jnanadasa", facts: [F349]}
+  - {type: companion, who: "@jagadisha-pandita", facts: [F287, F387], note: "Ветвь и Нитьянанды, и Чайтаньи."}
+  - {type: companion, who: "@madhava-ghosha", facts: [F262, F276, F296, F399], note: "Под его пение танцевал Нитьянанда; дана-лила (F296)."}
+  - {type: companion, who: "@vasu-ghosha", facts: [F262, F399], note: "Васудева Гхош — по ЧЧ Ади 10.117–118 пошёл с Ним в Гауду."}
+  - {type: other, who: "@govinda-ghosha", facts: [F262, F399], note: "Остался с Господом."}
+  - {type: protege, who: "@kanu-thakura", facts: [F351], note: "Нитьянанда назвал его Шишу Кришнадасом (T, M); ср. @shishu-krishnadasa."}
+  - {type: other, who: "@nityananda-dasa-author", facts: [F347], note: "Ученик Джахнавы."}
+  - {type: other, who: "@hridaya-chaitanya", facts: [F383, F386]}
+  - {type: other, who: "@srinivasa-acharya", facts: [F346, F411], event: ev-srinivasa-dream-nitai-advaita, note: "После ухода явился ему во сне и утешил."}
+  - {type: other, who: "@narottama-dasa", facts: [F52, F322, F346, F402], events: [ev-nityananda-shows-ekachakra, ev-prema-left-in-padma]}
+  - {type: other, who: "@shyamananda", facts: [F386, F402]}
+  - {type: other, who: "@gunarnava-mishra", facts: [F395, F396], note: "Пренебрёг Минакетаной, ибо не верил в Нитьянанду."}
+  # Божества
+  - {type: deity-served, who: "@bankima-raya", facts: [F46, F47, F49], event: ev-nityananda-departure, note: "Установлен Нитьянандой в Экачакре; по местному преданию Нитьянанда вошёл в Него (F49)."}
+  - {type: deity-served, who: "@shyamasundara-khardaha", facts: [F362], event: ev-nityananda-settles-khardaha, note: "По реестру Божество изваяно из камня, привезённого Вирабхадрой; служение Нитьянанды — по lila-db («Нитьянанда-вамша-вистара», C)."}
+  - {type: met, who: "@jagannatha-deity", facts: [F125, F234]}
+  - {type: met, who: "@gopinatha-deity-puri", facts: [F252, F253, F254]}
+unnamed:
+  - {who: "другие (младшие) сыновья Хадаи и Падмавати — имён нет", type: sibling, facts: [F74, F84]}
+  - {who: "странствующий вайшнав-санньяси, уведший Его из дома (имени B не называет)", type: companion, facts: [F77, F78, F81, F82], event: ev-nityananda-leaves-home}
+  - {who: "старый брахман из Шалиграма", type: other, facts: [F86, F329, F415]}
+  - {who: "Рамаи Пандит, брат Шривасы (тега нет)", type: other, facts: [F162, F180, F183]}
+  - {who: "санньяси-«дари» (вамачари)", type: met, facts: [F204, F205, F206, F207]}
+  - {who: "главарь разбойников, сын брахмана из Навадвипы", type: other, facts: [F304, F305, F306, F307, F308, F309], event: ev-nityananda-thieves}
+  - {who: "брахман Навадвипы, усомнившийся в Нитьянанде", type: other, facts: [F310, F311]}
+  - {who: "Шива Маудешвара близ Экачаки", type: deity-served, facts: [F40]}
+  - {who: "Шива и Парвати на Шри-шайле", type: met, facts: [F94]}
+  - {who: "Кришнадас Пандит (спутник на пути в Гауду)", type: companion, facts: [F262, F267]}
+  - {who: "Шридхара и второй Пурушоттама из списка двенадцати гопалов B (отождествить не удалось)", type: companion, facts: [F369]}
+identities:
+  - in: krishna-lila
+    as: "Баларама (Баладева), старший брат Кришны; в Кали-югу — старший брат Гаурахари"
+    source: "ЧЧ Ади 17.294–295; ЧЧ Ади 5.156–157; ЧБ Ади 9; песня Нароттамы"
+    level: A
+    facts: [F6, F7, F13, F14, F15, F141, F160, F185, F259, Q1, Q55]
+    events: [ev-tattva-nityananda-advaita]
+    variants: ["Вриндаван дас (ЧБ Ади 9, у M): одни зовут Его Самим Баларамой, другие — обителью любви к Чайтанье (F24)."]
+  - in: tattva
+    as: "Мула-Санкаршана; источник пуруша-аватар — Каранодакашайи, Гарбходакашайи, Кширодакашайи"
+    source: "ЧЧ Ади 1.7–11 (стихи Сварупы Дамодары); Бхактисиддханта (по B, T)"
+    level: A
+    facts: [F9, F10, F11, F12, F420, F421, Q58]
+    variants: ["T: Маха-Санкаршана на Вайкунтхе — экспансия Баларамы, а Нитьянанда — мула-Санкаршана (F9).", "⚠ B: из Его образа в водах Карана «проявлены» и Голока, и Вайкунтха — для сноски (F424)."]
+  - in: other-avatara
+    as: "Ананта (Шеша)"
+    source: "ЧБ Ади 9 (у M); ЧЧ Ади 1.11 (у B)"
+    level: A
+    facts: [F2, F8, F421]
+    variants: ["M: Сам Ананта-дева (F8)", "T: Сам Господь Шеша (F8)", "B: Ананта — Его кала, часть (F8, F12)"]
+  - in: tattva
+    as: "бхакта-сварупа Панча-таттвы; прабху- и вишну-таттва, слуга Гауранги («двое Прабху служат Махапрабху»)"
+    source: "ЧЧ Ади 1.14; ЧЧ Ади 7.14"
+    level: A
+    facts: [F14, F16, F17, F18, F19, F426, F427, Q2, Q56]
+  - in: tattva
+    as: "шактиман-таттва, носитель сандхини (сандхини-шактимад-виграха); вишая-таттва; Васудха и Джахнава — Его шакти"
+    source: "Бхактисиддханта Сарасвати (по B)"
+    level: A
+    facts: [F422, F425, F427, F428, F429, F430, F431, F433]
+    variants: ["⚠ F428 (раса-лила с гопи) и F431 — в статье пояснить, исключив мирское прочтение."]
+  - in: other
+    as: "«другое Я» — о Вишварупе, старшем брате Господа"
+    source: "T 19 (первоисточник не назван)"
+    level: C
+    facts: [F416]
+events:   # по порядку жизни (lila-db: period, order); ключевые
+  - ev-narada-shvetadvipa-balarama
+  - ev-associates-descend
+  - ev-nityananda-birth
+  - ev-nityananda-leaves-home
+  - ev-gaura-appearance
+  - ev-nityananda-kundalitala
+  - ev-nityananda-awakens-shridama
+  - ev-nityananda-first-meeting
+  - ev-nityananda-meal-shachi
+  - ev-six-armed-form-nityananda
+  - ev-nityananda-sees-forms
+  - ev-nityananda-visits-advaita
+  - ev-mahaprakasha-abhisheka
+  - ev-nityananda-kaupina
+  - ev-nityananda-dance-shrivasa-courtyard
+  - ev-nityananda-foot-water
+  - ev-preaching-door-to-door
+  - ev-jagai-madhai-deliverance
+  - ev-nagara-kirtana-kazi
+  - ev-jump-into-ganga
+  - ev-nityananda-balarama-rasa-navadvipa
+  - ev-chandrashekhara-drama
+  - ev-sannyasa-decision-devotees-grief
+  - ev-nityananda-follows-to-katwa
+  - ev-sannyasa-katwa
+  - ev-radha-desha-wandering
+  - ev-advaita-boat-ganga-vrindavana
+  - ev-nityananda-brings-navadvipa-to-shantipura
+  - ev-advaita-feast-shantipura
+  - ev-shantipura-reunion
+  - ev-journey-to-puri
+  - ev-danda-broken
+  - ev-remuna-gopala
+  - ev-sakshi-gopala
+  - ev-sarvabhauma-meeting
+  - ev-departure-for-south
+  - ev-return-from-south
+  - ev-messenger-to-gauda-after-south
+  - ev-gundicha-marjana
+  - ev-ratha-yatra-gundicha
+  - ev-nityananda-sent-to-gauda
+  - ev-nityananda-panihati-abhisheka
+  - ev-nityananda-preaching-gauda
+  - ev-krishnadasa-badagachhi-separation
+  - ev-uddharana-pilgrimage-nityananda
+  - ev-nityananda-advaita-meeting-shantipura
+  - ev-nityananda-visits-shachi
+  - ev-nityananda-thieves
+  - ev-nityananda-advaita-kirtan-navadvipa
+  - ev-prataparudra-mercy
+  - ev-prema-left-in-padma
+  - ev-ramakeli-rupa-sanatana
+  - ev-gopinatha-prasada-gadadhara
+  - ev-gauridasa-deities
+  - ev-gauda-devotees-yearly-visit
+  - ev-avirbhava-four-places
+  - ev-panihati-chida-dadhi
+  - ev-kaviraja-nityananda-jhamatpur
+  - ev-nityananda-returns-to-puri
+  - ev-jiva-meets-nityananda-navadvipa
+  - ev-nityananda-marriage
+  - ev-nityananda-settles-khardaha
+  - ev-ganga-marries-madhava
+  - ev-virachandra-birth
+  - ev-virachandra-recognized
+  - ev-nityananda-departure
+  - ev-srinivasa-dream-nitai-advaita
+  - ev-srinivasa-khardaha-jahnava
+  - ev-narottama-dream-gaura-kheturi
+  - ev-nityananda-shows-ekachakra
+  - ev-kheturi-festival
+  - ev-tattva-nityananda-advaita
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "рукопись «Бхагаватам» в храме Шьямасундары в Кхардахе — по мнению некоторых, переписана Им (по преданию — Вирабхадрой)", facts: [F362]}
+places: ["#ekachakra", "#radha-desha", "#vrindavana", "#mathura", "#setubandha", "#badrikashrama", "#gangasagara", "#kanyakumari",
+         "#navadvipa", "#house-nandana-acharya", "#house-srivasa", "#katwa", "#shantipura", "#remuna", "#cuttack", "#bhubaneshvara",
+         "#kamalapura", "#puri", "#alalanatha", "#gundicha", "#tota", "#panihati", "#saptagrama", "#khardaha", "#benapola",
+         "#shaligrama", "#badagachhi", "#ambika-kalna", "#jhamatpura", "#ramakeli", "#shrikhanda", "#padmavati", "#kheturi"]
+places_facts: [F30, F31, F32, F46, F47, F48, F51, F52, F85, F87, F96, F100, F122, F124, F125, F126, F127, F137, F139, F169, F215, F220, F225, F227, F229, F233, F238, F244, F252, F269, F275, F297, F319, F321, F322, F325, F336, F338, F339, F362, F380, F391, F392, F412]
+character:
+  - {trait: "милость к падшим, не разбирающая достойных и недостойных; выпросил жизни Джагая и Мадхая", facts: [F193, F196, F198, F200, F301, F385, I3, I13, Q51], events: [ev-jagai-madhai-deliverance]}
+  - {trait: "детское настроение авадхуты, не связанного внешними правилами (нагота, разбросанный рис, плавание с крокодилами)", facts: [F5, F176, F177, F178, F187, F208, F311, I12, I23]}
+  - {trait: "«никогда не гневающийся» — гнев являет лишь как игру, на оскорбителей вайшнавов", facts: [F270, F271, F272, F274, F314, F316, I1]}
+  - {trait: "независимость: вместо Вьясы надел гирлянду на Господа; сломал Его посох", facts: [F164, F229, F230, F231], events: [ev-danda-broken]}
+  - {trait: "ничего не делает без воли Чайтаньи: ждал во Вриндаване Его приказа раздавать прему", facts: [F130, F131, F132, F426, F427]}
+  - {trait: "не выносит разлуки с Господом: пришёл в Пури вопреки запрету; спешил навстречу Ему с юга", facts: [F238, F256, F260], events: [ev-nityananda-returns-to-puri]}
+  - {trait: "почитание старших вайшнавов: чтил Мадхавендру как гуру, поклонялся Шиве как вайшнаву", facts: [F40, F104, I18, I21]}
+  - {trait: "заступник за других перед Господом — за Пратапарудру, Калу Кришнадаса, Джагая и Мадхая", facts: [F198, F239, F242, F243]}
+  - {trait: "щедрый раздатчик премы, наделивший силой Своих спутников", facts: [F166, F266, F370, I5]}
+significance: {facts: [F20, F21, F23, F26, F166, F250, F261, F356, I3, I6, I13, I16, I17, I25, Q11, Q12, Q16]}
+sources:
+  T: "отдельной главы нет; упоминания: pdf 11, 15; 5–6, 9, 11–12, 14–16, 18–20, 22–25, 27, 31, 34–42, 45–52, 54, 57–58, 60, 63–64, 66–75, 77–80, 82–98, 104–109, 113, 115, 117, 119–120, 123, 130–134, 151, 154, 158, 163–164, 171, 183, 187–188, 191–209, 212, 214–216, 221–222, 228, 244, 246, 248, 250, 253, 257, 270, 290, 295"
+  M: "127–139 (глава — пересказ ЧБ Ади 9, обрывается); упоминания: pdf 5, 9–10, 21–22, 32–34, 48–56, 72, 79–86, 90, 96, 103, 105, 109, 116, 120–121, 124, 126, 130, 133, 166, 191–193, 215–216, 229, 235, 239, 257, 275–281, 290, 294, 298–299; 25, 33–35, 38, 64, 68, 71, 94, 159, 212–213, 219, 224"
+  B: "76–117 (глава «Шри Нитьянанда-рай»)"
+  other: ["ЧБ Ади 1, 3, 9", "ЧБ Мадхья 3, 8, 13, 19, 20, 28", "ЧБ Антья 2, 5, 6, 8, 10", "ЧЧ Ади 1, 5, 6, 7, 8, 10, 11, 13, 17", "ЧЧ Мадхья 1, 3, 7, 9, 10, 12, 13, 14", "ЧЧ Антья 2, 3, 6, 10, 12", "ГГД 65–69, 127–131, 154–155", "БР 1, 5, 8, 10, 12, 13", "«Чайтанья-мангала» Лочана (по M)", "«Према-виласа» (по T)"]
+article: {ru: "parshadas/ru/nityananda.md", en: "parshadas/en/nityananda.md"}
+open_questions:
+  - "Гуру: Мадхавендра Пури / Лакшмипати Тиртха / Ишвара Пури («Према-виласа») (F102)."
+  - "Срок паломничества и возраст при встрече с Господом: M и B — «до двадцатого года» ≠ ЧБ Ади 9.100–101 — двадцать лет странствий после двенадцати лет дома; T: на двенадцать лет старше Господа (F29, F99, F134). B 90: «пока Он жил во Вриндаване, явился Гаурасундара» (F128)."
+  - "Где жил в Навадвипе впервые: у Нанданы Ачарьи или у Садашивы (F137, F139); были ли поиски (F144, F147)."
+  - "Шестирукий облик: на Вьяса-пудже (ЧБ) или у Нанданы (ЧМ) (F156, F165); каупина — у Шривасы (B) или у Адвайты (ЧМ) (F157, F179)."
+  - "Джагай и Мадхай: эпизод с черепком и прощением (B) ≠ «позже освободил один» (T) (F203)."
+  - "Спутники в Катве (F215), в Пури (F224), в Гауду (F262); кто послал Калу Кришнадаса вестником (F239); обстоятельства с посохом (F229–F231)."
+  - "Чудо с кадамбой: Нитьянанда (T 79, B) или Сундарананда (T 96) (F278, F378). Прематали — три версии (F322). Дата 1434 Шака / 1534 г. (F265)."
+  - "Свадьба: устроитель (Кришнадас Саркхел или Кришнадас, сын Харихоры), место (Шалиграм / Бороганчхи; «Шантипур» у T), где жили после неё (F328, F336, F338); где жил Сурья дас (F325); Ревати/Варуни (F330, F417); время свадьбы относительно ухода Господа в книгах не указано."
+  - "Вриндаван дас и Кришнадас Кавираджа — дикша-ученики или нет (F373, F392); жёны Вирабхадры — две дочери Ядунанданы (T) или дочь и приёмная дочь (B) (F357)."
+  - "Уход: в книгах нет ни даты, ни места (F410); lila-db — Джаянанда и «Нитьянанда-вамша-вистара» (C): вхождение в Банкимдеву (ev-nityananda-departure; ср. F49)."
+  - "Богословские сноски: F424 (Голока и Вайкунтха «проявлены» из Его образа), F428 (раса-лила), F431; F207 и F311 — о дари-санньяси и поведении уттама-адхикари."
+  - "В lila-db нет событий: Вьяса-пуджа Нитьянанды (F158–F167); встреча с Мадхавендрой (F106–F122); игры детства в Экачакре (F53–F76); Рамачандра Кхан (F269–F274); Шивананда и удар ногой (ЧЧ Антья 12; F313–F316); санньяси-«дари» (F204–F207); ткань для Пратапарудры (F242–F243, есть лишь общее ev-prataparudra-mercy); сон Шачи о Канае и Балае (F173); сомнение брахмана (F310–F311)."
