@@ -1113,6 +1113,295 @@ surrendered to Vishnu and the Vaishnavas. Srila Bhaktisiddhanta Sarasvati says: 
 ours; He entered into no material intimacy with a material body and did not sink into the material rasa of
 separation[^45]. <!-- I7 F431 -->
 
+## Jahnava and Vasudha after Nityananda's Departure
+Jahnava is Nityananda's shakti, “Nityananda-svarupini,” His other self. Bhaktivinoda Thakura in the
+“Kalyana-kalpataru” prays to her as “Nityananda-shakti” — the energy of Nityananda, devotion to Krishna and to her guru
+personified. Without the mercy of Jahnava Devi, the Vaishnavas say, no one will cross the ocean of births or attain the
+service of Nityananda and of Those whom He worships — Gaura Hari and Radha-Krishna. The “Bhakti-ratnakara” (10th wave)
+glorifies her as the daughter of Surya Pandita and the wife of Nityananda, honoured by the whole world, skilled in giving
+out the pearls of prema. <!-- F340 F341 Q62 -->
+
+After Nityananda's departure Jahnava became the centre of His circle. She came to the festival at Kheturi and there
+blessed Shrinivasa and Narottama, visited Katwa, Shantipur and Navadvipa, made the journey to Vraja and at Radha-kunda
+blessed Raghunatha Dasa (one biography calls her here “Nityananda's widow”). Returning from Vraja to Khardaha, she told
+Vasudha and Virabhadra of the journey; Virachandra and Ganga received her there. In Khardaha Shrinivasa and Narottama
+visited Jahnava and Vasudha, Virabhadra and Parameshvari Dasa; Shrinivasa was then going round the shripatas of the
+companions of Mahaprabhu and Nityananda. <!-- F342 F343 F346 -->
+
+With Jahnava to Kheturi went Nityananda's companions: Minaketana Ramadasa, Abhirama, Murari Chaitanya, Jnanadasa,
+Kamalakara Pippalai, and also Krishna Mishra, Shripati, Shrinidhi, Parameshvari Dasa, Balarama Dasa, Vrindavana Dasa
+Thakura and others (BR 10.372–375)[^46]; Kala Krishnadasa, too, was with her when she came to Katwa. After the departure of
+Uddharana Datta, Jahnava visited his house. <!-- F348 F349 -->
+
+Parameshvari Dasa, a dear companion of Nityananda, by Jahnava's mercy saw Gopinatha together with Radha in Vrindavana;
+returning to Khardaha, he told Jahnava and Vasudha of it, and Jahnava told him to install Radha-Gopinatha at Antpur. The
+Deities of Purushottama (Nagara) were moved together with the Deity of Jahnava Mata to Sahebdanga-Berigram, and then to
+Chanduregram (Anubhashya to CC, Adi 11.39). Nityananda Dasa, author of the “Prema-vilasa,” is a diksha disciple of
+Jahnava Mata. Jahnava departed on the shukla-navami of the month of Vaishakha. <!-- F344 F345 F347 F350 -->
+
+Seeing the devotion of Purushottama's son, Kanu Thakura, Nityananda named him Shishu Krishnadasa. The boy lost his mother early
+(she too was called Jahnava), and, it is said, Nityananda's wife Jahnava adopted him and took him with her to
+Vrindavana[^47]. <!-- F351 -->
+
+## Descendants: Virachandra and Ganga
+Jahnava had no sons; Vasudha bore Virabhadra (Virachandra, Birchandra) Gosvami and a daughter, Ganga Devi. According to
+the “Bhakti-ratnakara” (9.413–414, 420–421), Virabhadra is Nityananda's only son, famed as His branch. Srila
+Bhaktisiddhanta Sarasvati in the “Anubhashya” calls him the son of Vasudha — Nityananda's “other wife” — and a disciple of
+Jahnava: according to the “Prema-vilasa,” seeing her four-armed, he resolved to accept her as his guru.
+<!-- F352 F353 F354 F355 -->
+
+Krishnadasa Kaviraja devotes special lines to Virabhadra:
+
+“On the branch of Sri Nityananda there grew a great branch — Virabhadra Gosani. There is no counting all the twigs and
+shoots to which this branch gave rise.” (CC, Adi 11.8)
+
+“Sri Virabhadra is the Supreme Himself. But He called Himself only a great devotee. And though He is above all the
+injunctions of the Vedas, He strictly performed all the rituals and injunctions.” (CC, Adi 11.9)
+
+“He is the main pillar in the hall of loving devotion to Sri Chaitanya. He knew Himself to be the Supreme God, but
+outwardly showed no pride.” (CC, Adi 11.10)
+
+“And to this day, by the mercy of the all-glorious Sri Virabhadra Gosani, the holy names of Sri Chaitanya and Nityananda
+are chanted everywhere in the world.” (CC, Adi 11.11)
+
+And again: Virabhadra is the best of all Nityananda's branches, and there is no end to the shoots that grew from it (CC,
+Adi 11.56). <!-- F356 Q49 -->
+
+Virabhadra's wife was Shrimati, daughter of Yadunandana (Yadunatha) Acharya and his wife Vidyunmala of Jhamatpur (Hooghly
+district); the second was Narayani. The marriage was arranged by Jahnava, and both daughters-in-law were her disciples.
+As vishnu-tattva, says one biography, Virabhadra had three shaktis, and the Shri-shakti is Shrimati[^48]. He had no
+children of his own. Three are named as his adopted sons: the eldest, Gopijana-vallabha, who lived in Latagram near
+Mankar (Burdwan district); the middle one, Ramakrishna, at Gayespur near Malda; and the youngest, Ramachandra, who lived in
+Khardaha, a pure shrotriya brahmana of the Batavyal family, of the Shandilya gotra. In the “Bhakti-ratnakara” all three
+are called Virabhadra's sons; but, explains one biography, “sons” here means disciples, for their gotras differ.
+<!-- F357 F358 F359 -->
+
+Virabhadra's followers, called “neras” and “neris,” numbered, it is said, twelve hundred and thirteen hundred, and all
+lived restrained lives; later laxity, the eating of fish and the like appeared among them, and many of them earned
+contempt. <!-- F360 -->
+
+With the permission of his mother Vasudha, Virabhadra went to Vrindavana and went round Vraja with the blessings of
+Bhugarbha Gosvami and Jiva (BR 13). In the old temple of Shyamasundara in Khardaha a manuscript of the “Bhagavatam” is kept,
+copied by tradition by Virabhadra, and in the opinion of some by Nityananda Himself. Virabhadra brought to Khardaha the
+stone from which the Deities of Shyamasundara, Radhavallabha and Nandadulala were carved (hence the name
+Shyamasundar-ghat). He also established the custom of celebrating Nityananda's appearance in Khardaha. Virabhadra's own
+appearance day is usually reckoned the krishna-navami of the month of Kartika, and by the “Gaudiya-vaishnava-abhidhana”
+the shukla-chaturdashi of the month of Agrahayana. <!-- F361 F362 F363 -->
+
+Virachandra was in Shrikhanda at the festival of Narahari Sarakara's departure, where Shrinivasa performed the rites; in
+Ambika the followers of Chaitanya joyfully welcomed him as Nityananda's son. Tradition says that only a Vishnu-shila or a
+consecrated Deity could bear the obeisance of Abhirama Thakura — anything else cracked or crumbled; Nityananda's son
+Virachandra and His daughter Ganga Devi received his obeisances unharmed, which confirmed their divinity, and Abhirama
+composed ashtakas in their honour. <!-- F364 F365 F366 -->
+
+Ganga Devi's husband was Madhavacharya (Madhava Chattopadhyaya) of Jirat (Hooghly); in the opinion of some, he was a
+disciple of Purushottama (Nagara). <!-- F367 -->
+
+Nityananda's line continues to this day. From it came the well-known scholar Shyamlal Gosvami, who studied at the
+“Sarasvata-chatushpathi” (1897). And in 1911 those who called themselves descendants of Nityananda and other companions
+took the side of the smartas against the Vaishnavas at the debate in Balighai (Midnapore), where Srila Bhaktisiddhanta
+Sarasvati spoke. <!-- F368 -->
+
+## Disciples and Companions
+Nityananda's companions are without number. They are always in bliss, and they have no other occupation than sankirtana:
+
+“All the companions of Nityananda Prabhu were always filled with transcendental bliss.” (CB, Antya 5.712)
+
+“They devoted themselves to nothing but holy sankirtana and were always intoxicated with the mood of cowherd boys.” (CB,
+Antya 5.713)
+
+The chief among them are the twelve gopalas (dvadasha-gopala), Balarama's friends in Vraja; all of them hold the seats of
+“patra-raja” in the Universal Assembly of Vaishnava Kings (Vishva-vaishnava-raja-sabha). One biography lists them thus:
+Abhirama Thakura, Sundarananda Thakura, Kamalakara Pippalai, Gauridasa Pandita, Parameshvari Dasa, Dhananjaya Pandita,
+Mahesha Pandita, Purushottama Pandita, Kalakrishna Dasa, Purushottama (two different Purushottamas, as printed),
+Uddharana Thakura and Shridhara. Nityananda's companions are like Him: generous, saving the fallen, fulfilling desires,
+and many showed wondrous powers. They are an extension of His mercy: they seek out the still more fallen, and through
+them Nityananda distributes His mercy; for the sinners and offenders of this world have no shelter other than the mercy
+of Nityananda. <!-- F369 F370 F371 I3 I5 Q45 -->
+
+Abhirama Thakura (Ramadasa, Abhirama Gopala) is Nityananda's “dearest” devotee. By His order he became a great acharya and
+preacher and saved many godless people; he was endowed with His power (according to the “Bhakti-ratnakara,” as if
+possessed by Nityananda), and at His request married Malini (BR 4.103–108). <!-- F377 -->
+
+Sundarananda (in Vraja, Sudama, GGD 127) is a branch of Nityananda:
+
+“Sundarananda, a branch of Sri Nityananda, is known as one of His closest servants. With him Nityananda performed deeds
+repeating the pastimes of Vraja.” (CC, Adi 11.23)
+
+The “Chaitanya-bhagavata” (Antya 5.728) calls him the eldest among Nityananda's companions. Like Nityananda, he is a saviour
+of the fallen; one biography ascribes to him the miracle of the kadamba blossoming on a lemon tree (cf. note 34).
+<!-- F378 -->
+
+Gauridasa Pandita — in Vraja, Subala — is one of the twelve gopalas and one of Nityananda's dearest companions (GGD 128). His
+body, mind and speech were given to Nityananda (CB, Antya 5.730):
+
+“For the sake of serving Sri Nityananda, Gauridasa sacrificed the support of his class and family. So he accepted Sri
+Chaitanya and Nityananda as the Lords of his whole life.” (CC, Adi 11.27)
+
+He is one of the most important sub-branches of Nityananda's branch. As Nityananda gave out Krishna-prema to all, without
+distinguishing the worthy from the unworthy, as if intoxicated, so His close companion Gauridasa showed great power in
+preaching. <!-- F379 F385 -->
+
+With Gauridasa is linked the tradition of the Gaura-Nitai Deities of Ambika. When the Lord and Nityananda were about to go
+from Ambika-Kalna to Puri, Gauridasa begged Them to stay; the Lord promised to leave him His own form and Nityananda's:
+“My murti is the same as I.” The two brothers manifested Themselves in two perfect Deity forms, tasted what Gauridasa had
+cooked, left him the “two Lords,” and Themselves went to Puri[^49]. <!-- F380 F381 -->
+
+These Deities, it is said, once revealed Themselves to Gauridasa as Krishna and Balarama in the dress of cowherd boys —
+with sticks, Krishna with flute and peacock feather, forest garlands round Their necks, anklets on Their feet —
+reminding him that he was Subala, and returned to the altar as Gaura and Nityananda. Seeing how old Gauridasa toiled, They
+refused to eat and asked him to cook more simply — shak on a banana leaf — and the ornaments he wished to adorn Them with
+They put on Themselves. Once the Deities left the altar and sang and danced in the kirtana of Hridaya Chaitanya on the
+bank of the Ganga, and seeing the anger of Gauridasa, who came out with a cudgel, became invisible — They entered the
+heart of Hridaya Chaitanya. Gaura and Nityananda always abide in Gauridasa's house; later, in Ambika, Gaura and Nityananda
+appeared in a kirtana, and Jahnava saw Gauridasa with Them in a dream. In the present temple of Ambika are Deities of
+Gaura-Nitai (together with Radha-Krishna, Jagannatha, Balarama and Sita-Rama). <!-- F382 F383 F384 -->
+
+Gauridasa's (Subala's) disciple Hridaya Chaitanya worshipped Gaura-Nitai in the mood of friendship (sakhya). From
+Gauridasa runs the succession called the “line of Nityananda”: Gauridasa Pandita — Hridaya Chaitanya — Shyamananda —
+Rasikananda — Nayanananda — Radha-Damodara — Baladeva Vidyabhushana. <!-- F386 -->
+
+Uddharana Datta is one of the twelve gopalas (Subahu, GGD 129). He was born in 1481 in Saptagrama to help Nityananda:
+
+“The best of the great devotees of God, Uddharana Datta, served the lotus feet of Sri Nityananda with all reverence.”
+(CC, Adi 11.41)
+
+As one of Nityananda's closest companions he is called “parama-parama-patita-pavana,” the saviour of the most fallen;
+whoever takes shelter of him attains service at the feet of Nityananda and Gauranga. According to the
+“Chaitanya-bhagavata,” he has the right to serve Nityananda; possessing great wealth, he gave all his senses to
+Nityananda's service. In his shripata at Saptagrama is the six-armed Mahaprabhu whom he served, and to His right the Deity
+of Nityananda. <!-- F405 F406 -->
+
+Parameshvari Dasa is one of Nityananda's most important companions, who appeared to enrich His pastimes:
+
+“Nityananda was the very life and soul of Parameshvari Dasa. In his body Nityananda enjoyed various pastimes.” (CB,
+Antya 5.732)
+
+“Parameshvara Dasa was wholly devoted to the lotus feet of Sri Nityananda. Anyone who simply remembers his name easily
+attains devotion to Krishna.” (CC, Adi 11.29) <!-- F403 -->
+
+Purushottama (Nagara) — in Vraja, the cowherd boy Damana (GGD 131). The “Charitamrita” counts him among Nityananda's
+devotees:
+
+“From birth Purushottama Dasa was absorbed in service to the lotus feet of Sri Nityananda. All his childhood he plays
+games with Krishna.” (CC, Adi 11.39)
+
+According to the “Chaitanya-bhagavata,” he is one of Nityananda's chief companions, unaware of his body, for Nityananda
+constantly acted through him:
+
+“Nityananda Chandra Himself abode in the heart of Purushottama Dasa, and therefore in his body there was not a trace of
+external consciousness.” (CB, Antya 5.742)
+
+Many of Nityananda's companions showed such powers: Purushottama, according to the “Gaudiya-vaishnava-abhidhana,” ate
+snake poison in trance. <!-- F404 -->
+
+Nityananda delivered Dhananjaya Pandita and, according to the “Chaitanya-bhagavata,” came to dwell in his heart forever
+(CB, Antya 5.733); in his shripata, Shitala-grama, the Deities of Nitai-Gauranga are served to this day. Kala (Kaliya)
+Krishnadasa, also one of the twelve gopalas, is one of Nityananda's chief devotees:
+
+“One of the outstanding great Vaishnavas was Kala Krishnadasa. He wished to know nothing but the feet of Sri
+Nityananda.” (CC, Adi 11.37)
+
+He must not be confused with the brahmana Krishnadasa, the Lord's servant in the South (see above). Kamalakara Pippalai,
+one of the twelve gopalas (Mahabala, GGD 128; “Vaishnavachara-darpana”), is counted among Nityananda's branches. Mahesha
+Pandita is considered a branch of both Nityananda and Chaitanya; like all Nityananda's companions he was generous and
+devoted to saving the fallen, and danced in ecstasy like a madman; he was an especially close friend of Nityananda and,
+according to the “Chaitanya-bhagavata,” especially dear to Him; he was also in Khardaha when Narottama came there (BR
+8.220). Jagadisha Pandita, too, is considered a branch of both Nityananda and Chaitanya: Nityananda, like Mahaprabhu, was
+won over by his devotion and considered him one of His intimates, and for Jagadisha Nityananda was life and soul; he who
+served Jagannatha and Gaura-Gopala is called “a dear companion of Nityananda.” <!-- F388 F389 F390 F400 F387 -->
+
+To the singing of the three Ghosha brothers — Govinda, Madhava and Vasudeva — Nityananda danced:
+
+“The three brothers — Madhava, Vasudeva and Govinda — sang while Lord Nityananda danced.” (CB, Antya 5.259)
+
+“Three brothers — Govinda, Madhava and Vasudeva. When they sang kirtana with self-forgetfulness, Sri Chaitanya and
+Nityananda danced.” (CC, Adi 10.115)
+
+Madhava Ghosha was especially dear to Nityananda; when the three brothers sang, Nityananda Himself danced in great
+ecstasy. <!-- F399 -->
+
+Srila Bhaktisiddhanta counts Gadadhara Dasa among the followers of both Gaura and Nityananda: as a follower of Gaura he is
+in the conjugal mood, as a follower of Nityananda in pure service; but his friendship is not the mood of a cowherd boy,
+but service in the spirit of madhurya (Anubhashya to CC, Adi 10.53). According to the “Gaura-ganoddesha-dipika” (154–155),
+in him are the radiance of Radha (Chandrakanti) and Purnananda, the beloved companion of Balarama; he is not one of the
+gopalas who served Nityananda in sakhya-rasa. Speaking with the kazi of Eriyadaha, Gadadhara Dasa declared that Gaura and
+Nityananda had descended to save people with the nectar of Hari's name. <!-- F407 F408 -->
+
+Counted in Nityananda's branch are also Nandana — the brother of Ganga Dasa and Vishnu Dasa, who composed verses and songs
+(by the “Gaudiya-vaishnava-abhidhana,” a different person from Nandana Acharya), — and those whom the “Charitamrita”
+names thus:
+
+“Kamsari Sena, Ramasena, Ramachandra Kaviraja, and also the three physicians — Govinda, Shriranga and Mukunda.” (CC,
+Adi 11.51)
+
+And Narottama from childhood meditated on the qualities of Chaitanya and Nityananda and prayed to Them; Shyamananda loved
+to hear of the glory of Gauranga and Nityananda. <!-- F401 F372 F402 Q46 Q59 -->
+
+Vrindavana Dasa Thakura, author of the “Chaitanya-bhagavata,” is called a disciple of Nityananda[^50]; he himself called
+himself Nityananda's last servant.
+
+“Having received the greatest mercy of Sri Nityananda, Srila Vrindavana Dasa Thakura beautifully described the pastimes
+of Sri Chaitanya, becoming like the original Vyasa.” (CC, Antya 20.82)
+
+Whoever reads his book, says the “Charitamrita,” knows the glory of Chaitanya and Nitai. His Deities of Gaura-Nitai are
+worshipped to this day at Mamgachhi. <!-- F373 F374 Q70 -->
+
+More than once Vrindavana Dasa repeats that he is ready to “put his foot on the head” of a blasphemer of Nityananda:
+
+“I shall break the head of the wretched sinner who disregards the glory of Lord Nityananda and dares to criticise Him.”
+(CB, Adi 9.225)
+
+Fools blame him for this and themselves fall into vaishnava-aparadha. Srila Bhaktisiddhanta Sarasvati in the
+“Gaudiya-bhashya” to this verse explains: in these words is the compassion of Nityananda's servant, the highest guru, even
+for blasphemers; the dust of his feet, falling on their heads, will destroy their sins. This is an example for the
+preacher: even in threatening, he wishes good[^51]. <!-- F375 Q13 I9 -->
+
+From the “Chaitanya-bhagavata” (it was also called the “Chaitanya-mangala”) Krishnadasa Kaviraja learned of the wonders
+of Chaitanya and Nityananda (CC, Adi 8). Srila Bhaktisiddhanta explains: Vrindavana Dasa, absorbed in describing the
+deeds of Nityananda, left out many events of his plan, and the Vaishnavas of Vrindavana asked Krishnadasa to describe
+them. <!-- F376 -->
+
+Krishnadasa Kaviraja himself was born in Jhamatpur; there his Deities of Gaura-Nitai are worshipped to this day, and in
+the courtyard of his house stands a small temple with the footprints of Nityananda. By local tradition, it was here that
+Krishnadasa received diksha from Nityananda[^52]. His brother — by the “Gaudiya-vaishnava-abhidhana,” Shyama Dasa
+Kaviraja — believed in Chaitanya but not in Nityananda. When Minaketana Ramadasa came to Jhamatpur, shouting the name of
+Nityananda and filling the devotees' hearts with ecstasy, the pujari Gunarnava Mishra, who did not believe in Nityananda,
+did not rise to greet His disciple, and Minaketana called him a second Romaharshana:
+
+“‘This is a second Romaharshana-suta, who on seeing Sri Balarama did not rise to offer Him his respects.’” (CC, Adi
+5.170)
+
+From this one sees how dear Minaketana is to Nityananda. Krishnadasa's brother quarrelled with Ramadasa; the latter in
+anger broke his flute and left — and this brought the brother ruin[^53]. Krishnadasa took Ramadasa's side and rebuked his
+brother:
+
+“‘These two Brothers (Sri Chaitanya and Nityananda) form one body. They are one and indivisible. And you will fall,
+because you have no faith in Nityananda.” (CC, Adi 5.175)
+
+“If you believe in one and are disrespectful to the other, your logic is just like accepting only one half of a hen (the
+one that lays eggs).” (CC, Adi 5.176)
+
+“Better to be an atheist and reject both Brothers than to be a hypocrite — to believe in one and not acknowledge the
+other.’” (CC, Adi 5.177) <!-- F391 F392 F393 F394 F395 F396 Q52 -->
+
+Pleased, Nityananda appeared to Krishnadasa in a dream:
+
+“Lord Sri Nityananda-Balarama appeared to me in a dream in the village of Jhamatpur, which lies near Naihati.” (CC, Adi
+5.181)
+
+“Krishnadasa, do not fear, go to Vrindavana — there you will attain everything,” said Nitai, and with a wave of His hand
+showed him the way; He granted him the vision of Himself, the right to live in Vrindavana and service at the feet of
+Radha-Krishna. To accept Chaitanya without Nityananda or Nityananda without Chaitanya is hostile to bhakti; and the Lord
+values even a small attachment: Krishnadasa merely took the side of Nityananda's companion — and received His blessing.
+Not for nothing does he begin every chapter of the “Charitamrita” by invoking Mahaprabhu and His companions — Nityananda
+and Advaita. <!-- Q53 I6 -->
+
+According to the “Gaura-ganoddesha-dipika” (68), Nishatha and Ulmuka entered Nityananda's expansions as Minaketana and
+Rama; according to the “Charitamrita” and the “Bhakti-ratnakara,” Minaketana Ramadasa is one person, and perhaps both
+were united in him. As Nityananda is an avadhuta, so is His follower Minaketana; Srila Bhaktisiddhanta explains: a
+disciple of Nityananda is an eternally perfect maha-bhagavata, a paramahamsa beyond varnashrama. <!-- F397 -->
+
 <!-- SECOND SHIFT: section “Puri” and onward goes here; continue footnotes from [^30] -->
 
 [^1]: One of the names in this list — “Vishvasta” (“He on whom one may rely”) — is uncertainly read in the manuscript.
@@ -1241,3 +1530,24 @@ Khardaha. Here these accounts are combined into one.
 [^45]: Nityananda's marriage is His lila, arranged by His own energy (yogamaya), not a bond brought about by karma: Vasudha
 and Jahnava are His transcendental shaktis, and these pastimes are eternal (see below, “The Tattva of Nityananda”). So
 teaches Srila Bhaktisiddhanta Sarasvati; they must not be measured by a worldly measure (cf. note 22).
+[^46]: Two lists of Jahnava's companions from different biographies are combined here. In one of them Krishna Mishra is
+called “her uncle”; on what this rests is not said.
+[^47]: So by one biography; by another, Kanu Thakura was born on the day of the Ratha-yatra in the year 1450 of the Shaka
+era, and Nityananda gave him the name Shishu Krishnadasa seeing his devotion. The “Charitamrita” calls Kanu Thakura the son
+of Purushottama Dasa (CC, Adi 11.40).
+[^48]: By one biography, Shrimati and Narayani were sisters, daughters of Yadunandana; by another, Narayani was the adopted
+daughter of Yadunatha Acharya and Vidyunmala.
+[^49]: By another tradition, Gauridasa asked Mahaprabhu to stay with him forever, and the Lord revealed that His form and
+Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai carved from it, and, it is said, Nityananda
+Himself was present at the carving. When They were about to leave, the Lord said: “Nityananda and I are directly present
+in these forms; choose — either the Deities go, or We.” Gauridasa chose that the “real” Gaura-Nitai should stay and the
+Deities might go — for the name, the Deity and the Lord Himself are one; how this choice ended is not clear in the
+retelling.
+[^50]: By one biography, Vrindavana Dasa received initiation from Nityananda; by another, he received Nityananda's
+abundant blessings and is therefore considered His disciple.
+[^51]: In one retelling of the same chapter the words of Vrindavana Dasa run: “If, after all he has heard, there is a
+sinner who does not value Him or who blasphemes Him — I strike his face with my left foot.”
+[^52]: According to the “Prema-vilasa,” Krishnadasa Kaviraja received diksha from Raghunatha Dasa Gosvami.
+[^53]: One and the same biography tells this differently in two places: in one, Gunarnava made no reply to the rebuke and
+the brother was “doomed to ruin”; in the other, Gunarnava was glad of the rebuke and the brother was doomed to lose all his
+devotion. According to the “Charitamrita,” the brother then lost all hope in spiritual life (CC, Adi 5.178).
