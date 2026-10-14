@@ -222,14 +222,14 @@ shadow of hesitation, “To follow your will is my dharma.” With his wife's jo
 sannyasi, and Nityananda went with him — to display the lila of serving a Vaishnava and purifying the holy places.
 <!-- F79 F80 F81 -->
 
-Hadai and Padmavati are the model of a Vaishnava householder: to serve the Vaishnava, giving him one's whole life — for, as the “Bhagavatam” teaches, one
-should always do good: with one's life, wealth, mind and words. A gift
-into which life is put is the highest gift; a gift without it is only a ritual. We readily praise the sacrifices of
-others, while we ourselves draw back or deceive ourselves; millions of sannyasis long for the dust from the feet of such
-grihasthas. Nor was Hadai's parental love a worldly attachment to a son: worldly attachment is only its defective
-reflection, while a drop of such love makes even the happiness of liberation insignificant. The partings of great souls
-the “Chaitanya-bhagavata” explains by the examples of Kapila, who left his mother Devahuti, of Shukadeva, who went away
-from Vyasa, and of Gaura Himself, who left Shachi:
+Hadai and Padmavati are the model of a Vaishnava householder: to serve the Vaishnava, giving him one's whole life — for,
+as the “Bhagavatam” teaches, one should always do good: with one's life, wealth, mind and words. A gift into which life
+is put is the highest gift; a gift without it is only a ritual. We readily praise the sacrifices of others, while we
+ourselves draw back or deceive ourselves; millions of sannyasis long for the dust from the feet of such grihasthas. Nor
+was Hadai's parental love a worldly attachment to a son: worldly attachment is only its defective reflection, while a
+drop of such love makes even the happiness of liberation insignificant. The partings of great souls the
+“Chaitanya-bhagavata” explains by the examples of Kapila, who left his mother Devahuti, of Shukadeva, who went away from
+Vyasa, and of Gaura Himself, who left Shachi:
 
 “In truth none of these examples of renunciation is a forsaking of one's obligations. At their root lies the attainment of
 the highest good, but only great souls can understand this.” (CB, Madhya 3.104) <!-- I19 I20 Q25 Q67 -->
@@ -743,8 +743,8 @@ not give heavy work to His elders:
 12.109)
 
 At Gundicha, where kirtana went on three times a day, the Lord made now Advaita dance, now Nityananda, now Haridasa,
-Achyutananda, Vakreshvara and others. Before the Ratha-yatra He anointed His companions with sandal paste with His own
-hand and adorned them with garlands:
+Achyutananda, Vakreshvara and others. At the Ratha-yatra He anointed His companions with sandal paste with His own hand
+and adorned them with garlands:
 
 “Advaita Acharya and Nityananda, too, felt immense happiness when the Lord's hand touched Them.” (CC, Madhya 13.31)
 
@@ -821,11 +821,12 @@ prostitute to Haridasa Thakura to ruin his dharma; by Haridasa's mercy she becam
 grew (CC, Antya 3). <!-- F269 -->
 
 On His preaching round Nityananda came to him too. As the Inner Controller, He knew of his offences against Haridasa: He
-is most merciful, but with the offender of a Vaishnava He is angry. Nityananda sat down in Khan's durga-mandapa and asked
-for shelter. The proud man sent word through his people: He could stay with His party in the cowshed — there was no other
-place. Nityananda, still more displeased, left at once, saying: “This house is not for Vaishnavas — it is fit only for
-mlecchas who kill cows.” Thus Nityananda Raya, “never angry, supreme bliss” (akrodha paramānanda), showed a lila of anger
-towards the enemy of the Vaishnavas and left both his house and his village. <!-- F270 F271 F272 -->
+is most merciful, but with the offender of a Vaishnava He is angry. Nityananda sat down in Khan's durga-mandapa and
+asked for shelter. The proud man sent word through his people: He could stay with His party in the cowshed — there was
+no other place. Nityananda, still more displeased, left at once, saying: “This house is not for Vaishnavas — it is fit
+only for mlecchas who kill cows.” Thus Nityananda Raya, “never angry, supreme bliss” (akrodha paramānanda, as Lochana
+Dasa sings of Him), showed a lila of anger towards the enemy of the Vaishnavas and left both his house and his village.
+<!-- F270 F271 F272 -->
 
 Khan had a servant dig up the earth where Nityananda had sat and sprinkle the place with water mixed with cow dung. The
 fruit of the offence was not long in coming: soon a vizier of the Muslim ruler, a tax collector, took up quarters in that
@@ -864,7 +865,8 @@ Balarama.” It is also said that Nityananda gave Panihati over to Kamalakara Pi
 ## The Chida-dadhi Festival
 Hearing that Nityananda was in Panihati, young Raghunatha Dasa decided: by the mercy of the saviour of the fallen he
 would gain his freedom. With his father's permission he crossed the Ganga and found Nityananda seated under a tree on a
-rise by the river amid His companions, to the sound of kirtana; seeing Him from afar, Raghunatha fell flat. <!-- F284 -->
+rise by the river amid His companions, to the sound of kirtana; seeing Him from afar, Raghunatha fell flat. Nityananda
+was told who it was. <!-- F284 -->
 
 “Hearing this, Nityananda said: ‘Oh! This thief has come to meet Me again. Come here to Me, then, don't be afraid. Today I
 shall punish you.’” (CC, Antya 6.47)
@@ -1071,9 +1073,9 @@ speak of it: one of them, which calls Him the eldest son of Hadai and Padmavati 
 is silent about the marriage, as it is silent about the date and place of His departure; of the identifications according
 to the “Gaura-ganoddesha-dipika” it gives only two — Baladeva, and Jahnava as Ananga-manjari. <!-- F84 -->
 
-Nityananda's wives were the two daughters of Surya Dasa Sarakhela (Sarahela), elder brother of Gauri Dasa Pandita —
+Nityananda's wives were the two daughters of Surya Dasa Sarakhela (Sarahela), elder brother of Gauridasa Pandita —
 Vasudha and Jahnava. By one account, Surya Dasa lived in Shaligrama and served as a secretary to the Muslim authorities;
-by another, his house and temple stood in Ambika, a little west of the shripata of Gauri Dasa[^41]. He and his younger
+by another, his house and temple stood in Ambika, a little west of the shripata of Gauridasa[^41]. He and his younger
 brother Krishnadasa Sarakhela had firm faith in Nityananda:
 
 “Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were full of love of God.” (CC,
@@ -1092,7 +1094,7 @@ the matter on to Nityananda, and the merciful Nityananda had Surya Dasa assured 
 on hearing it, said: “Let it happen soon.” Srivasa, Advaita, Chandrashekhara, Murari Gupta and others gathered and sang
 sankirtana; Nityananda arrived, and the devotees from Shaligrama arrived too. Surya Dasa ran out to meet Him, fell at
 Nityananda's feet and held them, flooding the ground with tears and unable to utter a word; Nityananda smiled, could not
-hold back His joyful laughter and, bestowing full mercy on him, embraced him. Gauri Dasa, seeing his brother, was in
+hold back His joyful laughter and, bestowing full mercy on him, embraced him. Gauridasa, seeing his brother, was in
 ecstasy too. <!-- F332 F333 F334 -->
 
 When Surya Dasa offered his daughters at Nityananda's feet, He mercifully showed him the same vision in waking: both
@@ -1198,10 +1200,10 @@ composed ashtakas in their honour. <!-- F364 F365 F366 -->
 Ganga Devi's husband was Madhavacharya (Madhava Chattopadhyaya) of Jirat (Hooghly); in the opinion of some, he was a
 disciple of Purushottama (Nagara). <!-- F367 -->
 
-Nityananda's line continues to this day. From it came the well-known scholar Shyamlal Gosvami, who studied at the
-“Sarasvata-chatushpathi” (1897). And in 1911 those who called themselves descendants of Nityananda and other companions
-took the side of the smartas against the Vaishnavas at the debate in Balighai (Midnapore), where Srila Bhaktisiddhanta
-Sarasvati spoke. <!-- F368 -->
+Descendants of Nityananda were spoken of in later times as well. From His line came the well-known scholar Shyamlal
+Gosvami, who studied at the “Sarasvata-chatushpathi” (1897). And in 1911 those who called themselves descendants of
+Nityananda and other companions took the side of the smartas against the Vaishnavas at the debate in Balighai
+(Midnapore), where Srila Bhaktisiddhanta Sarasvati spoke. <!-- F368 -->
 
 ## Disciples and Companions
 Nityananda's companions are without number. They are always in bliss, and they have no other occupation than sankirtana:
@@ -1220,9 +1222,9 @@ and many showed wondrous powers. They are an extension of His mercy: they seek o
 them Nityananda distributes His mercy; for the sinners and offenders of this world have no shelter other than the mercy
 of Nityananda. <!-- F369 F370 F371 I3 I5 Q45 -->
 
-Abhirama Thakura (Ramadasa, Abhirama Gopala) is Nityananda's “dearest” devotee. By His order he became a great acharya and
-preacher and saved many godless people; he was endowed with His power (according to the “Bhakti-ratnakara,” as if
-possessed by Nityananda), and at His request married Malini (BR 4.103–108). <!-- F377 -->
+Abhirama Thakura (Ramadasa, Abhirama Gopala) is Nityananda's “dearest” devotee. By His order he became a great acharya
+and preacher and saved many godless people; he was endowed with His power (according to the “Bhakti-ratnakara,” as if
+Nityananda had entered him), and at His request married Malini (BR 4.103–108). <!-- F377 -->
 
 Sundarananda (in Vraja, Sudama, GGD 127) is a branch of Nityananda:
 
@@ -1411,12 +1413,12 @@ the road and again resolved to give up his body, but that same night both Prabhu
 in a dream, consoled him and dissuaded him. <!-- F410 F411 -->
 
 A tradition recorded in later works (by Jayananda and in the “Nityananda-vamsha-vistara”) says that Nityananda entered
-Bankimdeva in Ekachakra — and the sevaits of Bankim-raya tell the same (see above, “Bankim-raya and the Memorial Places of
-Ekachakra”). Be that as it may, His pastimes did not cease: at the festival in Kheturi (BR 10) Gauranga Himself appeared in
-the kirtana with Nityananda and all the eternal associates, and the devotees saw Nityananda and Advaita overwhelmed with
-ecstasy. And in one letter, addressed apparently to Raghunandana, it is said: when Krishna Chaitanya and His companion
-Nityananda conclude Their appearance, the Vaishnavas of the Kali-yuga will grow ever more anxious and full of doubts.
-“Mahaprabhu gave us Nityananda — and took Him away,” says Vrindavana Dasa. <!-- F412 F414 F413 -->
+Bankimdeva in Ekachakra — and the sevaits of Bankim-raya tell the same (see above, “Bankim-raya and the Memorial Places
+of Ekachakra”). Be that as it may, His pastimes did not cease: at the festival in Kheturi (BR 10) Gauranga Himself
+appeared in the kirtana with Nityananda and all the eternal associates, and the devotees saw Nityananda and Advaita
+overwhelmed with ecstasy. And in one letter, addressed apparently to Raghunandana, it is said: when Krishna Chaitanya
+and His companion Nityananda conclude Their appearance, the Vaishnavas of the Kali-yuga will grow ever more anxious and
+full of doubts. <!-- F412 F414 -->
 
 ## Identifications
 According to the “Bhakti-ratnakara,” Hadai Pandita and Padmavati are in Krishna's lila Vasudeva and Rohini (see above).
