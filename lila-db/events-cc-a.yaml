@@ -153,3 +153,70 @@
   themes: [celestial, mercy]
   teaching: [holy-name]
   notes: "Три лунные ночи у пещеры Харидаса; ЧЧ относит её ко времени разлива премы с приходом Господа (ст. 252)."
+
+# --- Антья 4 ---
+- id: ev-anupama-rama-devotion
+  title: "Анупама не может оставить стопы Рамачандры: испытание старшими братьями"
+  title_en: "Anupama cannot give up Ramachandra's feet: his elder brothers' test"
+  period: P12
+  order: 990
+  cc: "Антья 4.28–47"
+  cb: ""
+  themes: [family, teaching]
+  teaching: [vaishnava]
+  notes: "Рассказ Санатаны в Пури о прошлом (в Гауде, до ухода братьев от мира); Господь сравнивает с испытанием Мурари Гупты."
+
+- id: ev-sanatana-suicide-forbidden
+  title: "Господь запрещает Санатане самоубийство: «твоё тело — Моя собственность»"
+  title_en: "The Lord forbids Sanatana's suicide: \"your body is My property\""
+  period: P14
+  order: 14.1
+  cc: "Антья 4.54–103"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, holy-name, vaishnava]
+  notes: "Поручения Санатане: этикет вайшнавов, бхакти, святые места Враджа."
+
+- id: ev-sanatana-hot-sand-test
+  title: "Санатана идёт по раскалённому песку, избегая Львиных ворот"
+  title_en: "Sanatana walks on the burning sand, avoiding the Lion Gate"
+  period: P14
+  order: 14.2
+  cc: "Антья 4.115–134"
+  cb: ""
+  calendar: "джьяиштха"
+  themes: [teaching, prasada]
+  teaching: [vaishnava, purity]
+  notes: "В саду Ямешвары (Тота?)."
+
+- id: ev-jagadananda-advises-sanatana
+  title: "Джагадананда советует Санатане вернуться во Вриндаван; Господь бранит Джагадананду"
+  title_en: "Jagadananda advises Sanatana to return to Vrindavana; the Lord rebukes Jagadananda"
+  period: P14
+  order: 14.3
+  cc: "Антья 4.135–164"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  notes: ""
+
+- id: ev-sanatana-returns-vrindavana-forest-path
+  title: "Санатана возвращается во Вриндаван лесным путём Господа"
+  title_en: "Sanatana returns to Vrindavana by the Lord's forest path"
+  period: P14
+  order: 14.9
+  cc: "Антья 4.207–213"
+  cb: ""
+  themes: [pilgrimage, separation]
+  notes: "Места пути узнаёт у Балабхадры Бхаттачарьи."
+
+- id: ev-rupa-sanatana-books-vrindavana
+  title: "Рупа и Санатана во Вриндаване: писания, святые места и книги"
+  title_en: "Rupa and Sanatana in Vrindavana: scriptures, holy places and books"
+  period: P14
+  order: 17.1
+  cc: "Антья 4.217–226"
+  cb: ""
+  themes: [teaching, author]
+  teaching: [scripture, prema]
+  notes: "Перечень книг: Брихад-бхагаватамрита, Дашама-типпани, Хари-бхакти-виласа; Бхакти-расамрита-синдху, Уджвала-ниламани, Видагдха- и Лалита-мадхава, Дана-кели-каумуди. Ср. ev-gosvamis-reveal-lost-tirthas."

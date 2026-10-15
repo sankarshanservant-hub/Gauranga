@@ -496,7 +496,7 @@
 
 - id: cc-4027
   source: cc
-  ref: "Антья 3.21–48"
+  ref: "Антья 3.20–48"
   file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
   period: P14
   order: 15
@@ -511,7 +511,7 @@
   cc: "Антья 3"
   event: ev-damodara-sent-navadvipa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "21", to: "48"}
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "20", to: "48"}
 
 - id: cc-4028
   source: cc
@@ -703,3 +703,286 @@
   cc: "Антья 3"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "267", to: "270"}
+
+- id: cc-4038
+  source: cc
+  ref: "Антья 4.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: PX
+  order: 995.08
+  title: "Вступление Антья 4: Санатана снова у Господа — испытание и исцеление"
+  summary: "Когда Санатана пришёл из Вриндавана, Господь с любовью принял его, отговорил от самоубийства, испытал и исцелил его тело. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@sanatana-gosvami", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "1", to: "2"}
+
+- id: cc-4039
+  source: cc
+  ref: "Антья 4.3–25"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 13.9
+  title: "Санатана идёт через Джхарикханду, покрывается язвами и решает броситься под колесо колесницы; в Пури у Харидаса Господь силой обнимает его"
+  summary: "Когда Рупа ушёл в Бенгалию, Санатана один пошёл из Матхуры в Пури лесами Джхарикханды; от голода и дурной воды его тело покрылось зудящими язвами. Считая себя низкорождённым и неспособным приблизиться к храму, он решил на Ратха-ятре оставить тело под колесом колесницы на глазах Господа и Джаганнатхи. В Пури он пришёл к Харидасу; Господь, придя после упала-бхоги, силой обнял его, хотя тот молил не касаться его, и гной из язв попал на тело Господа; затем Господь представил его спутникам."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@haridasa-thakura"]
+  places: ["#mathura", "#jharikhanda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "3", to: "25"}
+
+- id: cc-4040
+  source: cc
+  ref: "Антья 4.26–47"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 13.95
+  title: "Санатана рассказывает о твёрдой преданности Анупамы Рамачандре; Господь: «так Я испытал Мурари Гупту»"
+  summary: "Господь сказал, что Рупа прожил здесь десять месяцев и ушёл десять дней назад, и что Анупама, преданный Рамы, оставил мир. Санатана рассказал: однажды братья уговорили Анупаму (Валлабху) поклоняться Кришне; тот согласился, но всю ночь плакал и утром сказал, что продал голову стопам Рамачандры и не может её забрать; братья обняли его и восхвалили его непоколебимую преданность. Господь ответил, что так же испытал Мурари Гупту: славен преданный, не оставляющий стоп Господа, и славен Господь, не оставляющий слугу."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@anupama", "@rupa-gosvami", "@rama", "@murari-gupta"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 15 (испытание Мурари Гупты)"
+  themes: [teaching, family]
+  teaching: [vaishnava]
+  cc: "Антья 4"
+  event: ev-anupama-rama-devotion
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "26", to: "47"}
+
+- id: cc-4041
+  source: cc
+  ref: "Антья 4.48–53"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.05
+  title: "Санатана поселён с Харидасом; Господь ежедневно приносит им прасад Джаганнатхи"
+  summary: "Господь поселил Санатану в хижине Харидаса, чтобы оба наслаждались беседами о Кришне и именем, и прислал им прасад через Говинду; Санатана кланялся Джаганнатхе издали, глядя на диск на куполе храма, а Господь каждый день приходил к ним и приносил прасад."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, jagannatha]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "48", to: "53"}
+
+- id: cc-4042
+  source: cc
+  ref: "Антья 4.54–103"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.1
+  title: "Господь запрещает Санатане самоубийство: «Кришну не обрести, оставив тело; твоё тело — Моя собственность и инструмент Моей миссии»; Харидас и Санатана славят друг друга"
+  summary: "Всеведущий Господь сказал: если бы самоубийством можно было обрести Кришну, Он сделал бы это миллионы раз, но Кришна достигается лишь бхакти, а самоубийство — плод невежества; рождение в низкой семье не мешает служению, а гордость знатных мешает; из девяти видов бхакти высший — воспевание имени без оскорблений. Санатана предался Ему, и Господь сказал: предавшись, ты не вправе губить Мою собственность — твоим телом Я утвержу этикет вайшнавов, бхакти, найду забытые святые места и проповедую во Вриндаване, куда Сам не могу уйти по слову матери. Харидас восхвалил удачу Санатаны и сожалел, что его собственное тело не пригодно Господу; Санатана ответил: через тебя Господь проповедует имя — ты и сам повторяешь, и проповедуешь."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@uddhava"]
+  places: ["#puri", "#vrindavana", "#mathura"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 75 в файле нет (после 74 сразу 76)."
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, holy-name, vaishnava]
+  scriptures: ["Бхаг. 11.14.20", "Бхаг. 10.52.43", "Бхаг. 10.29.35", "Бхаг. 7.9.10"]
+  cc: "Антья 4"
+  event: ev-sanatana-suicide-forbidden
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "54", to: "103"}
+
+- id: cc-4043
+  source: cc
+  ref: "Антья 4.104–114"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.15
+  title: "Санатана видит танец Господа на Ратха-ятре; Господь представляет его бенгальским преданным; Санатана остаётся до Дола-ятры"
+  summary: "На Ратха-ятру пришли бенгальские преданные; Санатана был поражён танцем Господа перед Джаганнатхой. За четыре месяца дождей Господь представил ему Адвайту, Нитьянанду, Шривасу, Вакрешвару, Васудеву Датту, Мурари, Рагхаву, Дамодару, Парамананду Пури, Брахмананду Пури, Сварупу, Гададхару, Сарвабхауму, Рамананду, Джагадананду, Шанкару, Кашишвару, Говинду и других; все полюбили его. Когда бенгальцы ушли, Санатана остался у Господа и видел Дола-ятру."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@advaita", "@nityananda", "@srivasa", "@vakreshvara", "@vasudeva-datta", "@murari-gupta", "@raghava-pandita", "@damodara-pandita", "@paramananda-puri", "@brahmananda-puri", "@svarupa-damodara", "@gadadhara-pandita", "@sarvabhauma", "@ramananda-raya", "@jagadananda-pandita", "@shankara-pandita", "@kashishvara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "По ст. 115 Санатана пришёл в вайшакху, а испытание было в джьяиштху — т. е. до Ратха-ятры; ст. 104–114 забегают вперёд."
+  themes: [jagannatha, festival]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "104", to: "114"}
+
+- id: cc-4044
+  source: cc
+  ref: "Антья 4.115–134"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.2
+  title: "Испытание в джьяиштху: Санатана идёт к Господу в сад Ямешвары по раскалённому песку, избегая Львиных ворот, чтобы не коснуться служителей Джаганнатхи"
+  summary: "В месяц джьяиштха Господь, обедая в саду Ямешвары, позвал Санатану; тот пошёл по берегу моря, где полуденный песок жёг, как огонь, и, от радости не чувствуя боли, пришёл с волдырями на стопах. Он объяснил, что не вправе идти через Львиные ворота, где ходят служители Джаганнатхи. Господь, довольный, сказал: хотя ты очищаешь даже богов, преданные соблюдают этикет шастр, и это их украшение; кто нарушает его, становится посмешищем; и снова обнял его, испачкавшись гноем, к печали Санатаны."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  calendar: "джьяиштха"
+  themes: [teaching, prasada]
+  teaching: [vaishnava, purity]
+  cc: "Антья 4"
+  event: ev-sanatana-hot-sand-test
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "115", to: "134"}
+
+- id: cc-4045
+  source: cc
+  ref: "Антья 4.135–164"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.3
+  title: "Джагадананда советует Санатане вернуться во Вриндаван; Господь бранит Джагадананду, а Санатана сетует, что его поят «соком нимба»"
+  summary: "Санатана поведал Джагадананде, что Господь, вопреки его просьбам, обнимает его и пачкается гноем, — это оскорбление погубит его. Джагадананда посоветовал после Ратха-ятры вернуться во Вриндаван, и Санатана сказал об этом Господу. Господь рассердился: мальчишка Джагадананда возгордился, наставляя тебя, ведь ты для него гуру и даже Мне даёшь советы. Санатана ответил: велика удача Джагадананды — Ты поишь его нектаром близости, а меня, хваля, — горьким соком нимба и ниншинды."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@jagadananda-pandita", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  cc: "Антья 4"
+  event: ev-jagadananda-advises-sanatana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "135", to: "164"}
+
+- id: cc-4046
+  source: cc
+  ref: "Антья 4.165–204"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.4
+  title: "«Твоё тело для Меня — сосуд нектара»: тело вайшнава духовно; Господь обнимает Санатану, и язвы исчезают"
+  summary: "Господь сказал: Джагадананда дорог, но ты дороже; Я не терплю нарушения этикета; хваля тебя, Я не считаю тебя чужим. Тело твоё лишь кажется материальным, оно духовно; в мире двойственности «хорошее» и «плохое» — плод воображения, а санньяси равно видит грязь и сандал. Харидас возразил, что это лишь внешнее: Ты милостив к падшим; Господь сказал, что любит их, как мать — детей, не чувствуя отвращения, и что при посвящении, когда преданный предаётся Кришне, Кришна делает его тело духовным; Кришна послал язвы, чтобы испытать Господа, а тело Санатаны благоухает чатух-самой. Он оставил Санатану ещё на год и вновь обнял его: язвы исчезли, тело засияло золотом; Харидас понял, что это лила Господа."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@jagadananda-pandita", "@vasudeva-vipra", "@krishna"]
+  places: ["#puri", "#jharikhanda"]
+  kind: lila
+  authority: A
+  notes: "Ст. 194 в переводе отнесён к Бхаг. 11.23.34 (по ГМ — 11.29.34)."
+  themes: [mercy, teaching, miracle]
+  teaching: [vaishnava, maya]
+  scriptures: ["Бхаг. 11.28.4", "Бг. 5.18", "Бг. 6.8", "Бхаг. 11.29.34"]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "165", to: "204"}
+
+- id: cc-4047
+  source: cc
+  ref: "Антья 4.205–213"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.9
+  title: "После Дола-ятры Санатана уходит во Вриндаван лесным путём Господа, расспросив Балабхадру о местах Его игр"
+  summary: "После Дола-ятры Господь простился с Санатаной, дав наставления о делах во Вриндаване; разлуку их не описать. Санатана узнал у Балабхадры Бхаттачарьи названия селений, рек и гор на пути Господа через лес и, проходя их, погружался в прему. Во Вриндаване к нему вскоре пришёл Рупа."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@balabhadra-bhattacharya", "@rupa-gosvami"]
+  places: ["#puri", "#jharikhanda", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, separation]
+  cc: "Антья 4"
+  event: ev-sanatana-returns-vrindavana-forest-path
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "205", to: "213"}
+
+- id: cc-4048
+  source: cc
+  ref: "Антья 4.214–216"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 16
+  title: "Рупа год живёт в Гауде, раздаёт накопленное родным, брахманам и храмам и возвращается во Вриндаван"
+  summary: "Рупа задержался в Бенгалии на год, распределяя накопленные деньги между родственниками, брахманами и храмами, и, исполнив задуманное, вернулся во Вриндаван."
+  persons: ["@rupa-gosvami"]
+  places: ["#gauda", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, family]
+  cc: "Антья 4"
+  event: ev-rupa-year-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "214", to: "216"}
+
+- id: cc-4049
+  source: cc
+  ref: "Антья 4.217–226"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 17.1
+  title: "Рупа и Санатана во Вриндаване собирают писания, открывают святые места и пишут книги: «Брихад-бхагаватамрита», «Хари-бхакти-виласа», «Бхакти-расамрита-синдху», «Уджвала-ниламани»"
+  summary: "Братья жили вместе по воле Господа, собрали множество писаний, разыскали забытые святые места и установили там поклонение. Санатана написал «Брихад-бхагаватамриту», «Дашама-типпани», «Хари-бхакти-виласу» и многое другое — о служении Мадана-мохану и Говинде; Рупа — «Бхакти-расамрита-синдху», «Уджвала-ниламани», «Видагдха-мадхаву», «Лалита-мадхаву», «Дана-кели-каумуди» и др., всего более ста тысяч шлок."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@madana-mohana-vrindavana", "@govinda-deity"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [scripture, prema]
+  cc: "Антья 4"
+  event: ev-rupa-sanatana-books-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "217", to: "226"}
+
+- id: cc-4050
+  source: cc
+  ref: "Антья 4.227–231"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P15
+  order: 120
+  title: "Джива, сын Анупамы, во Вриндаване: «Бхагават-сандарбха», «Гопала-чампу», «Шат-сандарбха»"
+  summary: "Сын Валлабхи (Анупамы) Джива, великий знаток шастр, оставил мир, пришёл во Вриндаван и написал множество книг о чистой бхакти: «Бхагават-сандарбху», «Гопала-чампу», «Шат-сандарбху» — всего более четырёхсот тысяч шлок."
+  persons: ["@jiva-gosvami", "@anupama"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [scripture]
+  cc: "Антья 4"
+  event: ev-jiva-gosvami-writings
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "227", to: "231"}
+
+- id: cc-4051
+  source: cc
+  ref: "Антья 4.232–235"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P15
+  order: 11.5
+  title: "Нитьянанда благословляет Дживу и посылает его во Вриндаван"
+  summary: "Решив идти из Бенгалии в Матхуру, Джива попросил позволения у Нитьянанды; тот, как к племяннику дорогих Господу Рупы и Санатаны, коснулся стопой его головы, обнял и велел тотчас идти во Вриндаван — Господь отдал Врадж его семье. Джива исполнил волю и написал много книг и проповедовал бхакти."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#gauda", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Место встречи в ЧЧ не названо («из Бенгалии»)."
+  themes: [mercy, pilgrimage]
+  cc: "Антья 4"
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "232", to: "235"}
+
+- id: cc-4052
+  source: cc
+  ref: "Антья 4.236–239"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: PX
+  order: 995.09
+  title: "Поклон четырём Госвами-гуру; колофон Антья 4"
+  summary: "Санатана, Рупа, Джива и Рагхунатха Дас — гуру автора. Так описана встреча Санатаны с Господом; качества Господа — как сахарный тростник. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@sanatana-gosvami", "@rupa-gosvami", "@jiva-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "236", to: "239"}
