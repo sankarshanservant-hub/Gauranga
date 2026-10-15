@@ -100,3 +100,38 @@
   themes: [teaching, krishna-lila]
   teaching: [prema]
   notes: "Продолжение ev-sanatana-kashi-instruction (Каши). Поручение Санатане (Мадхья 23.95–118) — в ev-sanatana-kashi-instruction."
+
+# Мадхья 24 — шестьдесят одно толкование шлоки «атмарама»; план «вайшнава-смрити».
+- id: ev-atmarama-sixty-one
+  title: "Шестьдесят одно толкование шлоки «атмарама» для Санатаны"
+  title_en: "Sixty-one explanations of the atmarama verse for Sanatana"
+  period: P13
+  order: 185.5
+  cc: "Мадхья 24"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхаг. 1.7.10"]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши). Прежде (Мадхья 6) Господь толковал эту шлоку Сарвабхауме на восемнадцать ладов."
+
+- id: ev-narada-mrigari-hunter
+  title: "Нарада и охотник Мригари"
+  title_en: "Narada and the hunter Mrigari"
+  period: PX
+  order: 200
+  cc: "Мадхья 24.223–276"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [vaishnava, holy-name]
+  notes: "Пример силы садху-санги, рассказанный Господом Санатане (по Сканда-пуране); не эпизод жизни Господа."
+
+- id: ev-sanatana-vaishnava-smriti-plan
+  title: "Господь даёт Санатане план «вайшнава-смрити»"
+  title_en: "The Lord gives Sanatana the outline of the Vaishnava-smriti"
+  period: P13
+  order: 185.6
+  cc: "Мадхья 24.319–340"
+  cb: ""
+  themes: [teaching, festival]
+  teaching: [purity, vaishnava]
+  notes: "По традиции — «Хари-бхакти-виласа» (в тексте не названа)."
