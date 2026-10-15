@@ -32,7 +32,7 @@
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
   authority: A
-  parallels: "ЧЧ Ади 17.9–10; Мурари 2.1; Лочан, Мадхья-кханда (начало)"
+  parallels: "ЧЧ Ади 17"
   notes: "Ст. 19: «Лакшми» — здесь Вишнуприя (вторая супруга; ср. ст. 137)."
   themes: [ecstasy, family, separation]
   bhava: [devotee]
@@ -69,7 +69,7 @@
   places: ["#navadvipa", "#ganga"]
   kind: lila
   authority: A
-  parallels: "Мурари 2.1.19–30; Лочан, Мадхья-кханда"
+  parallels: "Мурари 2.1.19–30; Лочан, Мадхья-кханда, «Према-дана-лила» 35–52"
   notes: "Ст. 99: «Я растратил жизнь впустую» — смирение Господа в настроении преданного."
   themes: [ecstasy, separation, kirtan]
   bhava: [devotee]
@@ -125,7 +125,7 @@
   places: ["#navadvipa", "#ganga"]
   kind: teaching
   authority: A
-  parallels: "ЧЧ Ади 17; Мурари 2.1.8; Лочан, Мадхья-кханда (начало)"
+  parallels: "ЧЧ Ади 17; Мурари 2.1.8; Лочан, Мадхья-кханда, «Према-дана-лила» 1–16; Карнапура (ЧКМ) 5.9–14"
   themes: [teaching, learning, ecstasy]
   bhava: [devotee]
   teaching: [bhakti-supremacy, holy-name, scripture]
@@ -323,7 +323,7 @@
   places: ["#navadvipa", "#shantipura"]
   kind: lila
   authority: A
-  parallels: "Мурари 2.5.1–19; Лочан, Мадхья-кханда"
+  parallels: "Мурари 2.5.1–19; Лочан, Мадхья-кханда, «Истина об Адвайте» 1–35; Карнапура (ЧКМ) 6.53–62"
   divergence: "По Мурари Господь посещает Адвайту в Шантипуре; по ЧБ — у Адвайты в Навадвипе, откуда Адвайта затем уходит в Шантипур."
   themes: [revelation, deities]
   bhava: [devotee]
@@ -441,3 +441,140 @@
   teaching: [associates-tattva]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "341", to: "347"}
+
+# ---------- Мадхья 3. Встреча со Шри Нитьянандой ----------
+
+- id: cb-1024
+  source: cb
+  ref: "Мадхья 3, 1–17"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P07
+  order: 59
+  title: "Бхавы Господа в киртане; бхава Акруры"
+  summary: "После мангалы: преданные, забыв о доме, день и ночь поют с Господом; слыша о любой лиле Кришны, Он принимает её настроение — в настроении слуги плачет по шесть часов, смеётся по три, лежит бездыханным; порой восклицает «Я — Он! Где старый Нара, призвавший Меня? Я раздам всем нектар премы»; в бхаве Акруры падает, как палка, и просит Нанду отпустить Кришну и Балараму в Матхуру."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 12: «старый Нара» — Адвайта."
+  themes: [ecstasy, kirtan, krishna-lila]
+  bhava: [devotee, aishvarya]
+  event: ev-akrura-bhava-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "1", to: "17"}
+
+- id: cb-1025
+  source: cb
+  ref: "Мадхья 3, 18–57"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P07
+  order: 60
+  title: "Бхава Варахи в доме Мурари: «Веды не знают Меня»; Пракашананда и Нарака"
+  summary: "Услышав стих о Варахе, Господь с рёвом бежит в дом Мурари, восклицая «Вепрь!», в Вишну-мандире поднимает зубами кувшин с водой и, явившись с четырьмя клыками, велит Мурари молиться; Мурари: «Даже Веды не знают Тебя — лишь Ты Сам открываешь Себя»; Господь гневается на тех, кто по Ведам называет Его бесформенным, — на Пракашананду в Каши, рассекающего Его тело, — и открывает тайну: Он, Вараха, зачал от Земли Нараку, а когда тот, общаясь с Баной, стал преследовать преданных, сразил его; так Господь является каждому преданному в его доме, и они, перестав бояться безбожников, поют имена на рынках и гхатах."
+  persons: ["@mahaprabhu", "@murari-gupta", "@varaha", "@prakashananda-sarasvati"]
+  places: ["#house-murari", "#kashi"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.19; Мурари 2.2.11–26; Лочан, Мадхья-кханда, «Према-дана-лила» 84–121; Карнапура (ЧКМ) 5.15–21"
+  notes: "Ст. 37–40: обличение Пракашананды (имперсонализм — «тело Господа создано майей»); проказа — слова Господа о нём. Ст. 46–50: рассказ о Нараке — по Пуранам."
+  themes: [revelation, teaching]
+  bhava: [varaha, aishvarya]
+  teaching: [vedanta, bhakti-supremacy]
+  event: ev-varaha-bhava-murari
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "18", to: "57"}
+
+- id: cb-1026
+  source: cb
+  ref: "Мадхья 3, 58–106"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P01
+  order: 31
+  title: "Предыстория Нитьянанды: Экачакра; санньяси уводит Его из дома"
+  summary: "Господь грустит без Нитьянанды, и автор рассказывает о Нём: в Экачакре Радха-деши, у Шивы Маудешвары, в семье Хадаи Пандита и Падмавати родился Нитьянанда; отец не отпускал Его ни на шаг, но однажды гостивший у них санньяси попросил дать ему старшего сына в спутники для паломничества; Хадаи, помня о служении санньяси, с согласия жены отдал сына и упал без чувств от горя; автор: уход Капилы, Шукадевы и Самого Господа от родных — не отказ от долга, а ради высшего блага."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@mahaprabhu"]
+  places: ["#ekachakra", "#radha-desha"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Ади 9"
+  themes: [family, sannyasa, separation]
+  teaching: [associates-tattva]
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "58", to: "106"}
+
+- id: cb-1027
+  source: cb
+  ref: "Мадхья 3, 107–120"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P05
+  order: 1
+  title: "Паломничество Нитьянанды; жизнь во Вриндаване в настроении дитяти"
+  summary: "Нитьянанда обходит Гаю, Каши, Праягу, Матхуру, Двараку, Бадарику, Рангу, Сетубандху, Венкату, Годавари, Харидвар и другие места и возвращается в Матхуру; во Вриндаване, неузнанный, Он, как дитя, катается в пыли, ни у кого не просит пищи и лишь изредка пьёт молоко, пока в Навадвипе Гаурачандра являет Себя."
+  persons: ["@nityananda"]
+  places: ["#gaya", "#kashi", "#prayaga", "#mathura", "#dvaraka", "#ranga-kshetra", "#setubandha", "#venkata", "#vrindavana"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Ади 9"
+  themes: [pilgrimage]
+  event: ev-nityananda-pilgrimage
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "107", to: "120"}
+
+- id: cb-1028
+  source: cb
+  ref: "Мадхья 3, 121–136"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P07
+  order: 105.5
+  title: "Нитьянанда приходит в Навадвипу, в дом Нанданы Ачарьи"
+  summary: "Поняв, что Господь явил Себя, Нитьянанда спешит в Навадвипу и останавливается у Нанданы Ачарьи, который видит, что Его тело сияет, как солнце; автор описывает огромного авадхуту, всегда повторяющего имена, порой хмельного в настроении Баларамы, — Того, кто сломал данду Гаурасундара и освобождает торговцев и низкорождённых."
+  persons: ["@nityananda", "@nandana-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.8.1–7; Лочан, Мадхья-кханда, «Встреча с Нитьянандой»"
+  themes: [revelation]
+  teaching: [associates-tattva]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "121", to: "136"}
+
+- id: cb-1029
+  source: cb
+  ref: "Мадхья 3, 137–173"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P07
+  order: 105.7
+  title: "Сон о колеснице с пальмовым флагом; Харидас и Шриваса ищут Нитьянанду"
+  summary: "Господь рассказывает вайшнавам сон: у Его дверей остановилась колесница с флагом-пальмой, огромный авадхута в синих одеждах, как Баладева, спрашивал «Здесь ли живёт Нимай Пандит?» и сказал: «Я Твой брат, завтра встретимся»; в бхаве Халадхары Господь кричит «Вина!»; затем посылает Харидаса и Шривасу найти пришельца, но за девять часов поисков они никого не находят — Нитьянанду можно найти лишь по указанию Самого Чайтаньи."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: "Мурари 2.8.1–7; Лочан, Мадхья-кханда, «Встреча с Нитьянандой» 29–73"
+  notes: "Ст. 152: «Вина!» — бхава Баларамы (варуни), не мирское опьянение. Ст. 172: хула на Нитьянанду лишает и обретшего бхакти склонности служить Вишну."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "137", to: "173"}
+
+- id: cb-1030
+  source: cb
+  ref: "Мадхья 3, 174–190"
+  file: "chaitanya-bhagavata/ed/CB_Madhya03.md"
+  period: P07
+  order: 106
+  title: "Господь приводит преданных к Нитьянанде в доме Нанданы Ачарьи"
+  summary: "Улыбаясь, Господь Сам ведёт преданных к дому Нанданы Ачарьи; там сидит Нитьянанда, сияющий, как миллионы солнц, погружённый в блаженное созерцание; Вишвамбхар и преданные кланяются Ему и замирают, а Нитьянанда тотчас узнаёт Владыку Своей жизни; автор описывает красоту Гауранги, умащённого сандалом, с узлом волос и тилакой."
+  persons: ["@mahaprabhu", "@nityananda", "@nandana-acharya"]
+  places: ["#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.8.8–17; Лочан, Мадхья-кханда, «Встреча с Нитьянандой»; Карнапура (ЧКМ) 6.106–116"
+  themes: [revelation, ecstasy]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "174", to: "190"}
