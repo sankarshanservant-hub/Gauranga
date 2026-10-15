@@ -1097,3 +1097,62 @@
   event: ev-vishvarupa-shown-advaita
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya24.md", from: "75", to: "102"}
+
+# ---------- Мадхья 25. Духкхи-Сукхи; смерть сына Шривасы; Господь не может совершить пуджу ----------
+
+- id: cb-2058
+  source: cb
+  ref: "Мадхья 25, 1–23"
+  file: "chaitanya-bhagavata/ed/CB_Madhya25.md"
+  period: P07
+  order: 85.5
+  title: "Служанка Духкхи носит воду для Господа — «Зовите её Сукхи»"
+  summary: "После танца Господь садится во дворе, и преданные омывают Его, а служанка Шривасы Духкхи, со слезами глядя на танец, носит с Ганги воду и ставит кувшины рядами; узнав от Шривасы, кто это, Господь говорит: «Имя Духкхи ей не подходит — она всегда Сукхи», и Шриваса перестаёт относиться к ней как к служанке; Кришна доволен лишь любовью, а не рождением, богатством или бритой головой."
+  persons: ["@mahaprabhu", "@srivasa", "@duhkhi-sukhi"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Ст. 15–16 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [mercy, kirtan]
+  teaching: [vaishnava]
+  event: ev-duhkhi-named-sukhi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya25.md", from: "1", to: "23"}
+
+- id: cb-2059
+  source: cb
+  ref: "Мадхья 25, 24–84"
+  file: "chaitanya-bhagavata/ed/CB_Madhya25.md"
+  period: P07
+  order: 86
+  title: "Сын Шривасы умирает во время киртана; мёртвый ребёнок говорит о карме и душе"
+  summary: "Во время танца Господа в доме Шривасы умирает от болезни его сын; Шриваса утешает женщин: умерший под имя Кришны в присутствии Господа достигает Его обители — не плачьте, чтобы не потревожить Его экстаз, иначе я брошусь в Гангу, — и возвращается к киртану; спустя семь с половиной часов Господь, почувствовав неладное, узнаёт правду и плачет: «Как Я оставлю того, кто ради любви ко Мне не скорбит о сыне?» — и преданные понимают, что Он примет санньясу; Господь спрашивает мёртвого, и тот говорит: «Каждый вкушает плоды своей кармы, кто чей отец и сын? Не дай мне забыть Тебя»; семья Шривасы забывает скорбь, и Господь говорит: «Отныне Я и Нитьянанда — твои сыновья»; тело с киртаном относят к Ганге."
+  persons: ["@srivasa", "@mahaprabhu", "@nityananda", "@malini"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: miracle
+  authority: A
+  parallels: "ЧЧ Ади 17.227–229"
+  notes: "Ст. 24–33, 75–76 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 72: четыре брата Шривасы. Ребёнок по имени не назван."
+  themes: [teaching, separation, sannyasa]
+  teaching: [maya, holy-name]
+  event: ev-shrivasa-dead-son-speaks
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya25.md", from: "34", to: "84"}
+
+- id: cb-2060
+  source: cb
+  ref: "Мадхья 25, 85–93"
+  file: "chaitanya-bhagavata/ed/CB_Madhya25.md"
+  period: P07
+  order: 136.5
+  title: "Слёзы мешают Господу совершить пуджу Вишну: «Гададхара, поклоняйся ты»"
+  summary: "Погружённый в прему, Господь оставляет домашние дела; садясь после омовения за поклонение Вишну, Он промокает от слёз, переодевается, снова садится — и снова промокает; наконец Он говорит Гададхаре: «Ты поклоняйся Вишну, Я не настолько удачлив»; колофон."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@vrindavana-dasa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, deities]
+  bhava: [devotee]
+  event: ev-lord-cannot-worship-vishnu-tears
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya25.md", from: "85", to: "93"}
