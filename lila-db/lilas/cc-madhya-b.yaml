@@ -1739,3 +1739,417 @@
   cc: "Мадхья 15"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "297", to: "302"}
+
+# ---------------- Мадхья 16 ----------------
+
+- id: cc-2092
+  source: cc
+  ref: "Мадхья 16.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: PX
+  order: 996.2
+  title: "Мангалачарана Мадхья 16: Чайтанья — туча, оживившая людей Гауды"
+  summary: "Как туча оживляет иссохшие растения, так Чайтанья милостивым взглядом в саду Гауда-деши оживил людей, горящих в пожаре мирского бытия; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 16"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "1", to: "2"}
+
+- id: cc-2093
+  source: cc
+  ref: "Мадхья 16.3–11"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 90.5
+  title: "Господь хочет идти во Вриндаван; Сарвабхаума и Рамананда откладывают: «после Ратха-ятры», «после Дола-ятры»"
+  summary: "Узнав, что Господь хочет во Вриндаван, опечаленный царь просил Сарвабхауму и Рамананду удержать Его. Когда Господь спросил их совета, они сказали: останься до Ратха-ятры, а в картику — холодно, лучше после Дола-ятры; страшась разлуки, они всё находили предлоги. Независимый Господь не хотел уходить без согласия преданных."
+  persons: ["@mahaprabhu", "@prataparudra", "@sarvabhauma", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, festival]
+  cc: "Мадхья 16"
+  event: ev-puri-festivals-year-cycle
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "3", to: "11"}
+
+- id: cc-2094
+  source: cc
+  ref: "Мадхья 16.12–47"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 140
+  title: "На третий год бенгальцы идут в Пури с жёнами; Шивананда ведёт всех; Ремуна и Сакши-гопала; встреча в Пури"
+  summary: "На третий год преданные во главе с Адвайтой пошли в Пури с жёнами — Ситой, Малини, женой Шивананды с сыном Чайтанья Дасом, женой Чандрашекхары; жёны несли любимые блюда Господа. Шивананда оплачивал пошлины, знал дороги и находил ночлег. В Ремуне Адвайта плясал перед Гопинатхой, служители чтили Нитьянанду и поднесли Ему двенадцать горшков кширы; Нитьянанда рассказывал истории Мадхавендры Пури и Сакши-гопалы. У Атхаранала их встретил Говинда с гирляндами для Адвайты и Нитьянанды, у Нарендры — Сварупа и другие, у Львиных ворот — Сам Господь; Он накормил всех прасадом, и они жили четыре месяца в прежних домах."
+  persons: ["@advaita", "@sita-thakurani", "@srivasa", "@malini", "@shivananda-sena", "@chaitanya-dasa-shivananda-son", "@chandrashekhara-acharya", "@raghunandana", "@narahari-sarakara", "@nityananda", "@gopala-remuna", "@madhavendra-puri", "@sakshi-gopala", "@govinda-servant", "@svarupa-damodara", "@mahaprabhu", "@vaninatha-raya", "@kashi-mishra"]
+  places: ["#remuna", "#cuttack", "#atharanala", "#narendra-sarovara", "#puri"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, deities, prasada]
+  cc: "Мадхья 16"
+  event: ev-gauda-devotees-come-with-wives
+  notes: "В нашем файле ст. 14–17 (перечень идущих) отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "12", to: "47"}
+
+- id: cc-2095
+  source: cc
+  ref: "Мадхья 16.48–54"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 141
+  title: "Ратха-ятра третьего года: уборка Гундичи, верёвки Кулинаграмы; Кришнадас из Радха-деши омывает Господа"
+  summary: "Как и прежде, все убирали Гундичу; жители Кулинаграмы принесли новые верёвки, и все плясали перед колесницей, а потом отдыхали в саду у пруда. Брахман Кришнадас из Радха-деши, слуга Нитьянанды, омыл Господа водой из большого кувшина, и Господь был очень доволен. Принесли прасад из Балаганди; затем были Ратха-ятра и Хера-панчами."
+  persons: ["@mahaprabhu", "@nityananda", "@jagannatha-deity"]
+  places: ["#gundicha", "#balagandi", "#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha]
+  cc: "Мадхья 16"
+  event: ev-ratha-yatra-gundicha
+  notes: "Кришнадас из Радха-деши — без тега (в реестре нет; тождество с @krishnadasa-badagachhi и др. не установлено)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "48", to: "54"}
+
+- id: cc-2096
+  source: cc
+  ref: "Мадхья 16.55–58"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 141.5
+  title: "Приглашение Адвайты в ливень; Малини готовит любимые блюда Господа; приглашения Шривасы, Чандрашекхары и других"
+  summary: "Адвайта пригласил Господа, но в тот день был сильный ливень — об этом подробно рассказал Вриндаван Дас. Затем Господа пригласил Шриваса: Малини, считавшая себя Его служанкой, но любившая Его по-матерински, приготовила Его любимые блюда; по очереди звали Его и Чандрашекхара, и другие главные спутники."
+  persons: ["@advaita", "@mahaprabhu", "@vrindavana-dasa", "@srivasa", "@malini", "@chandrashekhara-acharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada]
+  cc: "Мадхья 16"
+  event: ev-advaita-feeds-lord-hailstorm
+  notes: "Об угощении у Шривасы и других — ev-chaturmasya-puri-invitations."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "55", to: "58"}
+
+- id: cc-2097
+  source: cc
+  ref: "Мадхья 16.59–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 142
+  title: "Загадочная просьба Адвайты; Господь просит Нитьянанду не ходить ежегодно в Пури, а оставаться в Бенгалии: «Я — тело, Ты — жизнь»"
+  summary: "После четырёх месяцев Господь снова ежедневно беседовал с Нитьянандой наедине. Адвайта обратился к Господу жестами и обрывками стихов, никому не понятными; увидев улыбку Господа, Он понял, что просьба принята, и заплясал. Нитьянанде Господь сказал: не приходи каждый год, оставайся в Бенгалии и исполняй Мою волю — лишь Ты можешь это. Нитьянанда ответил: «Я — тело, Ты — жизнь; их нельзя разделить; силой Твоей нет для Меня невозможного». Господь обнял Его и всех на прощание."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [mercy, separation]
+  teaching: [associates-tattva]
+  cc: "Мадхья 16"
+  event: ev-nityananda-asked-stay-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "59", to: "68"}
+
+- id: cc-2098
+  source: cc
+  ref: "Мадхья 16.69–75"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 142.5
+  title: "Вопросы жителей Кулинаграмы на второй и третий год: вайшнав, вайшнавтара, вайшнавтама"
+  summary: "Житель Кулинаграмы снова спросил о долге; Господь ответил: служи вайшнавам и совершай нама-санкиртану. На вопрос, кто вайшнав, Он сказал: тот, чьи уста непрестанно произносят имя Кришны, — лучший вайшнав, его стопам следует поклоняться. На следующий год, на вопрос об уровнях вайшнавов, Он сказал: высший вайшнав — тот, при виде кого другие начинают петь имя Кришны, — и объяснил признаки начинающего, возвышенного и совершенного вайшнава."
+  persons: ["@mahaprabhu", "@satyaraja-khan", "@ramananda-vasu"]
+  places: ["#puri", "#kulinagrama"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [holy-name, vaishnava]
+  cc: "Мадхья 16"
+  event: ev-satyaraja-vaishnava-question
+  notes: "Спрашивающий в тексте — «один из жителей Кулинаграмы»; по ЧЧ Мадхья 15 — Сатьяраджа Хан (теги по контексту)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "69", to: "75"}
+
+- id: cc-2099
+  source: cc
+  ref: "Мадхья 16.76–81"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P12
+  order: 143
+  title: "Пундарика Видьянидхи в Пури: вновь посвящает Гададхару; на Одана-шаштхи осуждает накрахмаленную ткань — и Джаганнатха с Баларамой во сне бьют его по щекам"
+  summary: "В тот год в Пури остался Пундарика Видьянидхи, близкий друг Сварупы, равный ему по духовному уровню. Он вновь дал Гададхаре Пандиту мантру и видел праздник Одана-шаштхи; увидев на Джаганнатхе накрахмаленную ткань, он вознегодовал, и ночью Джаганнатха с Баларамой, улыбаясь, во сне отхлестали его по щекам. Щёки распухли, но в сердце он ликовал; подробно это описал Вриндаван Дас."
+  persons: ["@pundarika-vidyanidhi", "@svarupa-damodara", "@gadadhara-pandita", "@jagannatha-deity", "@balarama", "@vrindavana-dasa"]
+  places: ["#puri"]
+  kind: vision
+  authority: A
+  themes: [offense, jagannatha, celestial]
+  calendar: "Одана-шаштхи"
+  cc: "Мадхья 16"
+  event: ev-pundarika-odana-shashthi-slap
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "76", to: "81"}
+
+- id: cc-2100
+  source: cc
+  ref: "Мадхья 16.82–85"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: PX
+  order: 996.3
+  title: "Автор о хронологии: четыре года — два на юге, два в стремлении во Вриндаван"
+  summary: "Так бенгальцы ежегодно приходили на Ратха-ятру; далее автор опишет примечательные события. Прошло четыре года: два — в паломничестве по югу, два — в стремлении во Вриндаван, которому мешали уловки Рамананды."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@ramananda-raya"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 16"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "82", to: "85"}
+
+- id: cc-2101
+  source: cc
+  ref: "Мадхья 16.86–96"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 2
+  title: "На пятый год Господь настаивает и после Виджая-дашами выходит из Пури во Вриндаван через Гауду, чтобы увидеть мать и Гангу"
+  summary: "На пятый год бенгальцы пришли на Ратха-ятру и вернулись домой. Господь сказал Сарвабхауме и Рамананде: два года их уловки удерживали Его, но теперь Он пойдёт во Вриндаван через Гауду, где у Него два прибежища — мать и Ганга. Раскаявшись, они попросили лишь переждать дожди до Виджая-дашами. После Виджая-дашами, взяв прасад, сандал и шёлковые верёвки и простившись с Джаганнатхой, Господь пустился в путь; за Ним пошли все преданные Ориссы."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@ramananda-raya", "@shachi", "@jagannatha-deity"]
+  places: ["#puri", "#gauda", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, separation, family]
+  calendar: "после Виджая-дашами"
+  cc: "Мадхья 16"
+  event: ev-departure-for-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "86", to: "96"}
+
+- id: cc-2102
+  source: cc
+  ref: "Мадхья 16.97–109"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 2.5
+  title: "Бхаванипур, Бхуванешвара, Катак; под деревом бакула Пратапарудра в слезах падает к стопам Господа и получает Его объятия"
+  summary: "Отпустив жителей Пури, Господь с близкими пришёл в Бхаванипур (туда прибыл Рамананда, Ванинатха прислал прасад), затем в Бхуванешвару и Катак, где видел Гопалу и обедал у брахмана Свапнешвары; Рамананда угостил спутников. Пока Господь спал в саду под деревом бакула, пришёл царь: он то вставал, то падал в поклонах, плакал и молился; Господь, довольный, обнял его, и царь омыл Его тело слезами. Так Господь милостив к Пратапарудре телом, умом и словами и прославился как его спаситель."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@vaninatha-raya", "@sakshi-gopala", "@prataparudra"]
+  places: ["#bhubaneshvara", "#cuttack"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage, deities]
+  cc: "Мадхья 16"
+  event: ev-prataparudra-farewell-six-armed
+  divergence: "В ЧЧ — лишь объятия; шестирукого облика (ГКУ 13) нет."
+  notes: "Брахман Свапнешвара — без тега. «Гопала» в Катаке — Сакши-гопала."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "97", to: "109"}
+
+- id: cc-2103
+  source: cc
+  ref: "Мадхья 16.110–126"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 2.6
+  title: "Указ Пратапарудры о домах и лодках на пути Господа; знатные женщины видят Господа у Читротпалы; Чатурдвара"
+  summary: "Царь разослал указ: в каждом селении построить для Господа новые дома с припасами, у каждой переправы держать новую лодку и ставить памятный столп — место станет тиртхой, где он сам будет омываться и, может быть, умрёт; надзирать велел Харичандане и Мангарадже. Вечером он вывез знатных женщин на слонах, и они издали поклонились Господу, омывавшемуся в Читротпале, — и сами запели имя Кришны в слезах. Господь переправился на новой лодке и в полнолуние пришёл в Чатурдвару; распорядитель храма каждый день слал Ему прасад, а Рамананда, Мангараджа и Харичандана сопровождали Его."
+  persons: ["@prataparudra", "@harichandana", "@ramananda-raya", "@mahaprabhu"]
+  places: ["#cuttack", "#chaturdvara"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage, prasada]
+  cc: "Мадхья 16"
+  event: ev-prataparudra-farewell-six-armed
+  notes: "Мангараджа — без тега. В нашем файле ст. 127–129 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "110", to: "126"}
+
+- id: cc-2104
+  source: cc
+  ref: "Мадхья 16.130–149"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 2.7
+  title: "Гададхара оставляет кшетра-санньясу и служение Гопинатхе, чтобы идти за Господом; Господь в «гневе» отсылает его; Сарвабхаума: «Кришна нарушил обет ради Бхишмы»"
+  summary: "Гададхара хотел идти с Господом; Господь запретил нарушать обет кшетра-санньясы. Гададхара: «Где Ты — там Пури, а кшетра-санньяса пусть идёт в ад; видеть Твои стопы — в миллионы раз больше служения»; вину он берёт на себя и идёт будто бы к Шачи. В Катаке Господь с любовным гневом упрекнул его: ради личного счастья он преступил два принципа и огорчает Его; если хочет Ему счастья — пусть вернётся. Господь уплыл, Гададхара упал без чувств; Сарвабхаума утешил его: так и Кришна нарушил Своё слово, чтобы сдержать обет Бхишмы (Бхаг. 1.9.37), — и они вернулись в Пури. Ради Господа преданные оставляют любой долг, но Сам Он не приемлет, чтобы они отказывались от долга."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri", "@shachi", "@sarvabhauma"]
+  places: ["#puri", "#cuttack", "#tota"]
+  kind: lila
+  authority: A
+  themes: [separation, sannyasa, deities]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 1.9.37"]
+  cc: "Мадхья 16"
+  event: ev-gadadhara-leaves-kshetra-sannyasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "130", to: "149"}
+
+- id: cc-2105
+  source: cc
+  ref: "Мадхья 16.150–155"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 2.8
+  title: "Яджапур и Ремуна: прощание с Раманандой Раем — оба плачут в разлуке"
+  summary: "Царские сановники сопровождали Господа до Яджапура и были отпущены; Рамананда шёл дальше, дни и ночи беседуя с Господом о Кришне, а в каждом селении Господу давали новый дом с припасами. В Ремуне Господь простился с Раманандой: тот от боли разлуки упал без чувств, и Господь, положив его голову к Себе на колени, плакал — Сам не в силах вынести разлуку."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@harichandana"]
+  places: ["#jajpur", "#remuna"]
+  kind: lila
+  authority: A
+  themes: [separation, pilgrimage]
+  cc: "Мадхья 16"
+  event: ev-ramananda-farewell-remuna
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "150", to: "155"}
+
+- id: cc-2106
+  source: cc
+  ref: "Мадхья 16.156–201"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 3
+  title: "Мусульманский правитель пограничья, узнав о Господе от шпиона, приходит в обличье индуса, становится преданным и даёт Господу лодки до Пичхалды"
+  summary: "На границе Ориссы наместник царя предупредил: дальше владения мусульманского правителя-пьяницы до реки Пичхалды, и проход нужно согласовать. Мусульманский шпион, увидев Господа, сам запел имя Кришны и доложил, что этот санньяси — Сам Всевышний; посланный секретарь, поклонившись Господу, тоже погрузился в прему. Правитель пришёл безоружным с семью слугами, в одежде индуса, упал в поклоне, запел имя, скорбел о рождении мусульманином и просил смерти; наместник воспел силу присутствия Господа (Бхаг. 3.33.6). Господь велел ему петь «Кришна» и «Хари»; на вопрос о служении и искуплении жестокости к коровам, брахманам и вайшнавам Мукунда Датта сказал: помоги Господу дойти до Ганги. Правитель дал украшенные лодки, сам с десятью судами охраны проводил Господа через опасный Мантрешвар до Пичхалды и простился в преме."
+  persons: ["@mahaprabhu", "@oriya-border-governor", "@yavana-governor-pichhalda", "@mukunda-datta"]
+  places: ["#pichhalda"]
+  kind: lila
+  authority: A
+  themes: [muslims, mercy, pilgrimage]
+  scriptures: ["Бхаг. 3.33.6"]
+  cc: "Мадхья 16"
+  event: ev-yavana-governor-boat
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "156", to: "201"}
+
+- id: cc-2107
+  source: cc
+  ref: "Мадхья 16.202–209"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 7
+  title: "Панихати, Кумарахатта, дом Шивананды и Васудевы, дом Вачаспати, Кулия: толпы и спасение даже оскорбителей"
+  summary: "На том же судне Господь доплыл до Панихати и отдал кормчему Свою накидку; народ стоял даже в воде, и Рагхава Пандит с трудом провёл Его к себе. Затем — Кумарахатта (дом Шривасы), дома Шивананды Сена и Васудевы Датты, дом Видья-Вачаспати, откуда из-за толпы пришлось уйти в Кулию; там, в доме Мадхава Даса, Он прожил неделю и спас всех приходивших, даже грешников и оскорбителей."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@srivasa", "@shivananda-sena", "@vasudeva-datta", "@vidya-vachaspati"]
+  places: ["#panihati", "#kumarahatta", "#kulia"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage, offense]
+  cc: "Мадхья 16"
+  event: ev-gauda-journey-ganga-villages
+  notes: "Ср. ev-vidya-vachaspati-house, ev-devananda-mercy, ev-gopala-chapala-forgiven (Кулия). Мадхава Дас (хозяин в Кулии) — без тега."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "202", to: "209"}
+
+- id: cc-2108
+  source: cc
+  ref: "Мадхья 16.210–215"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 15
+  title: "Шантипур — встреча с Шачи; Рамакели и Канай-Натшала; снова Шантипур (кратко — описано Вриндаваном Дасом)"
+  summary: "Господь пришёл в Шантипур к Адвайте, встретил мать и утешил её; затем — Рамакели и Канай-Натшала, и снова Шантипур, где Он пробыл десять дней. Автор не повторяет подробностей, описанных Вриндаваном Дасом и им самим ранее (встреча с Рупой и Санатаной, мысленная дорога Нрисимхананды)."
+  persons: ["@mahaprabhu", "@advaita", "@shachi", "@rupa-gosvami", "@sanatana-gosvami", "@nrisimhananda", "@vrindavana-dasa"]
+  places: ["#shantipura", "#ramakeli", "#kanai-natashala"]
+  kind: lila
+  authority: A
+  themes: [family, pilgrimage]
+  cc: "Мадхья 16"
+  event: ev-shantipura-after-natashala
+  notes: "Упоминание; ср. ev-ramakeli-rupa-sanatana, ev-natashala-kanai-return."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "210", to: "215"}
+
+- id: cc-2109
+  source: cc
+  ref: "Мадхья 16.216–244"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 16
+  title: "Рагхунатха Дас в Шантипуре: «Не выставляй напоказ ложное отречение — храни веру в сердце, Кришна скоро освободит тебя»"
+  summary: "О Рагхунатхе Дасе: сын Говардханы, одного из богатых братьев Саптаграмы, почитавших Ниламбару Чакраварти и помогавших Пурандаре Мишре, он с детства был отрешён; ещё после санньясы Господа он встретил Его в Шантипуре и получил прикосновение Его стопы, а дома, обезумев от премы, пытался бежать в Пури, и отец приставил к нему одиннадцать стражей и слуг. Теперь он упросил отца отпустить его и неделю был при Господе, думая, как бежать. Всеведущий Господь сказал: вернись домой и не будь безумцем — океан бытия пересекают постепенно; не выставляй ложное отречение, как обезьяна, принимай должное без привязанности, храни веру внутри; после Вриндавана приходи ко Мне в Пури — Кришна откроет путь. Рагхунатха стал исполнять обязанности без привязанности, и надзор ослаб."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@hiranya-majumdar", "@govardhana-majumdar", "@nilambara-chakravarti", "@jagannatha-mishra", "@advaita"]
+  places: ["#shantipura", "#saptagrama"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, teaching, mercy]
+  teaching: [sannyasa-teaching]
+  cc: "Мадхья 16"
+  event: ev-raghunatha-dasa-shantipura
+  notes: "Ст. 223–226 — рассказ о первой встрече в Шантипуре сразу после санньясы (1510, P09); ст. 220–221: братья почитали Ниламбару и помогали «Пурандаре Мишре» (= Джаганнатха Мишра)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "216", to: "244"}
+
+- id: cc-2110
+  source: cc
+  ref: "Мадхья 16.245–251"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 19
+  title: "Прощание в Шантипуре: «В этом году не приходите в Пури»; Господь получает позволение матери и возвращается в Нилачалу"
+  summary: "В Шантипуре Господь собрал преданных во главе с Адвайтой и Нитьянандой и просил позволить Ему вернуться в Пури, а оттуда идти во Вриндаван; раз они уже встретились, в этот год приходить на Ратха-ятру не нужно. Он припал к стопам матери и получил её позволение идти во Врадж; Шачи проводили в Навадвипу, а Господь, окружённый служением преданных, вернулся в Нилачалу."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@shachi"]
+  places: ["#shantipura", "#navadvipa", "#puri"]
+  kind: lila
+  authority: A
+  themes: [family, separation]
+  cc: "Мадхья 16"
+  event: ev-return-puri-after-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "245", to: "251"}
+
+- id: cc-2111
+  source: cc
+  ref: "Мадхья 16.252–278"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 20
+  title: "Господь рассказывает в Пури: толпы, Рамакели, слова Санатаны «Во Вриндаван не идут с толпой» — и поворот от Канай-Натшалы"
+  summary: "В Пури Господь видел Джаганнатху, и Его встретили Каши Мишра, Рамананда, Прадьюмна, Сарвабхаума, Ванинатха, Шикхи Махити, Гададхара. Он рассказал: сотни тысяч людей окружили Его, ломали изгороди и дома; в Рамакели Он встретил Рупу и Санатану, лучших преданных, считающих себя ниже соломы, и обещал им скорое избавление. Санатана сказал: «Идущему во Вриндаван не подобает вести за собой толпу»; ночью в Канай-Натшале Господь понял: Вриндаван уединён, туда надо идти одному или с одним слугой, как Мадхавендра Пури, которого встретил Сам Кришна, а не как фокусник с толпой, — и повернул назад к Ганге. «И Гададхару Я оставил несчастным — потому тоже не смог дойти»."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@ramananda-raya", "@pradyumna-mishra", "@sarvabhauma", "@vaninatha-raya", "@shikhi-mahiti", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@madhavendra-puri", "@jagannatha-deity"]
+  places: ["#puri", "#ramakeli", "#kanai-natashala", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, teaching]
+  cc: "Мадхья 16"
+  event: ev-natashala-kanai-return
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "252", to: "278"}
+
+- id: cc-2112
+  source: cc
+  ref: "Мадхья 16.279–287"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: P13
+  order: 21
+  title: "Гададхара: «Где Ты — там Вриндаван»; Господь остаётся в Пури на чатурмасью; трапеза у Гададхары"
+  summary: "Гададхара в преме сказал: где бы Ты ни был — там Вриндаван, Ямуна, Ганга и все тиртхи; Ты идёшь во Вриндаван лишь чтобы учить людей; начинаются дожди — пробудь четыре месяца в Пури, а потом поступай как хочешь. Все преданные согласились, Господь остался на чатурмасью, к радости царя, и в тот день с любовью вкушал угощение Гададхары со спутниками."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, separation]
+  calendar: "чатурмасья"
+  cc: "Мадхья 16"
+  event: ev-return-puri-after-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "279", to: "287"}
+
+- id: cc-2113
+  source: cc
+  ref: "Мадхья 16.288–290"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md"
+  period: PX
+  order: 996.4
+  title: "Колофон Мадхья 16"
+  summary: "Лилы Господа непостижимы и бесконечны — даже Ананта тысячью уст не опишет одной; автор описывает их кратко. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 16"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "288", to: "290"}
