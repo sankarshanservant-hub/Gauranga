@@ -754,3 +754,121 @@
   event: ev-nityananda-vyasa-puja
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "153", to: "172"}
+
+# ---------- Мадхья 6. Приход Адвайты в Навадвипу ----------
+
+- id: cb-1040
+  source: cb
+  ref: "Мадхья 6, 1–58"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 97
+  title: "Рамаи послан за Адвайтой; Адвайта: «Я привёл Господа!» — и испытание"
+  summary: "После мангалы (слава Господу Парамананды Пури, Сварупы, Рупы и Санатаны): в настроении Владыки Господь посылает Рамаи сказать Адвайте, что Он уже нисшёл, и велит прийти с женой и предметами поклонения; Адвайта без слов понимает, зачем пришёл Рамаи, сперва для вида сомневается — «В какой шастре сказано, что Господь явится в Надии?», — но, услышав весть, плачет, катается и кричит: «Я привёл Моего Господа с Вайкунтхи!»; плачут Сита и маленький Ачьютананда; Адвайта отправляется в путь, но, желая испытать Господа, тайно останавливается у Нанданы Ачарьи и велит Рамаи сказать, что не пришёл."
+  persons: ["@mahaprabhu", "@srirama-pandita", "@advaita", "@sita-thakurani", "@achyutananda", "@nityananda", "@nandana-acharya", "@paramananda-puri", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#shantipura", "#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.6.11–17; Лочан, Мадхья-кханда, «Истина об Адвайте» 73–89; Карнапура (ЧКМ) 5.22–31; «Чайтанья-чандродая», акт 2"
+  notes: "Ст. 23–27: Адвайта, всё зная, говорит как простой человек — это благо для преданных и камень преткновения для нечестивых."
+  themes: [revelation, family]
+  teaching: [associates-tattva]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "1", to: "58"}
+
+- id: cb-1041
+  source: cb
+  ref: "Мадхья 6, 59–72"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 97.5
+  title: "Господь на троне Вишну: «Нара прислал тебя испытать Меня»"
+  summary: "Зная о намерении Адвайты, Господь приходит в дом Шривасы и с громким криком садится на трон Вишну: «Нара идёт, Он хочет увидеть Моё величие!»; Нитьянанда раскрывает над Ним зонт, Гададхара подаёт камфару и бетель; не дав Рамаи сказать ни слова, Господь говорит: «Нара сейчас у Нанданы Ачарьи и послал тебя испытать Меня — немедленно приведи Его»."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@srirama-pandita", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  themes: [revelation]
+  bhava: [aishvarya]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "59", to: "72"}
+
+- id: cb-1042
+  source: cb
+  ref: "Мадхья 6, 73–103"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 98
+  title: "Адвайта и Сита созерцают величие Господа: боги, Ананта, Ганга на макаре"
+  summary: "Издали поклонившись, Адвайта с женой видят Господа сияющим, с Шриватсой и Каустубхой, Лакшми у Его стоп и Анантой с зонтом, изогнутым в трёх местах, с флейтой; Ему кланяются многоголовые боги, Нарада и Шукадева, богиня, подобная Ганге, на макаре, тысячеглавый Ананта и жёны нагов, небо полно колесниц; Господь говорит: «Я нисшёл исполнить Твой обет — Твой зов потревожил Мой сон на Молочном океане; все Мои спутники родились по Твоей воле»; Адвайта: «Веды не видят Тебя, а Ты даровал это Мне»."
+  persons: ["@advaita", "@sita-thakurani", "@mahaprabhu", "@lakshmi", "@narada", "@brahma", "@ganga-devi"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Ади 17.10; «Гаура-кришнодая» 5.31"
+  themes: [revelation, celestial]
+  bhava: [aishvarya, krishna]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-vishvarupa-shown-advaita
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "73", to: "103"}
+
+- id: cb-1043
+  source: cb
+  ref: "Мадхья 6, 104–138"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 98.2
+  title: "Адвайта поклоняется стопам Господа по панчаратрике; стопы на Его голове"
+  summary: "По велению Господа Адвайта омывает Его стопы ароматной водой, кладёт на них туласи с сандалом и аргхью, предлагает лампаду с пятью фитилями, шестнадцать подношений, гирлянду, ткань и украшения и славит Его шлокой «намо брахманья-девайа» и молитвами: «Источник всех аватар, начавший маха-мантру; Ты — Рама, Нрисимха, наслаждающийся в Нилачале; Веды ищут Тебя, а Ты скрылся здесь»; Господь ставит стопы на голову Адвайты и Ситы, и все кричат «Хари!»."
+  persons: ["@advaita", "@sita-thakurani", "@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  themes: [revelation, deities]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva, holy-name]
+  scriptures: ["Вишну-пур. 1.19.65"]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "104", to: "138"}
+
+- id: cb-1044
+  source: cb
+  ref: "Мадхья 6, 139–163"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 98.3
+  title: "«О Нара, танцуй!»: пляска Адвайты; шутки с Нитьянандой"
+  summary: "Господь велит: «Нара, танцуй в Моём киртане!» — Адвайта пляшет, то как безумный, то изящно, с соломинкой в зубах, и под конец в настроении слуги; увидев Нитьянанду, Он смеётся: «Сегодня Я свяжу Тебя, не убежишь!» — зовя Его то «Прабху», то «безумцем»; автор: Адвайта и Нитьянанда нераздельны, Их пикировка — игра, встающий на сторону одного против другого гибнет; Господь дарит Адвайте гирлянду и предлагает благо, но Адвайта: «Я увидел Тебя и танцевал перед Тобой — чего ещё просить?»."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.6.18–27; Лочан, Мадхья-кханда, «Истина об Адвайте» 90–109; Карнапура (ЧКМ) 6.76–85"
+  themes: [kirtan, ecstasy]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "139", to: "163"}
+
+- id: cb-1045
+  source: cb
+  ref: "Мадхья 6, 164–179"
+  file: "chaitanya-bhagavata/ed/CB_Madhya06.md"
+  period: P07
+  order: 98.4
+  title: "Благо Адвайты: бхакти — и женщинам, и шудрам, и глупцам"
+  summary: "Господь: «Я нисшёл ради Тебя — возвестить Моё имя в каждом доме и раздать бхакти, ради которой Брахма, Шива и Нарада держат обеты»; Адвайта просит: «Раздавай её и неразумным, женщинам и шудрам», — и Господь с рёвом клянётся исполнить; так неприкасаемые пляшут, славя Господа, а гордые званиями Бхатта, Мишра и Чакраварти лишь хулят; по милости Адвайты мир получил прему; Адвайта с женой остаются с преданными."
+  persons: ["@mahaprabhu", "@advaita", "@sita-thakurani", "@vrindavana-dasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 168–169 в издании нет."
+  themes: [mercy, teaching]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-advaita-comes-to-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "164", to: "179"}
