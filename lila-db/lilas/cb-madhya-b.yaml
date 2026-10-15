@@ -615,3 +615,79 @@
   event: ev-murari-knife
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya20.md", from: "113", to: "160"}
+
+# ---------- Мадхья 21. Девананда Пандит; Господь у кабака ----------
+
+- id: cb-2033
+  source: cb
+  ref: "Мадхья 21, 1–28"
+  file: "chaitanya-bhagavata/ed/CB_Madhya21.md"
+  period: P07
+  order: 113.4
+  title: "Толкование «Бхагаваты» без бхакти: Господь хочет порвать книгу Девананды"
+  summary: "Проходя у дома Вишарады Махешвары, отца Сарвабхаумы, Господь слышит, как учёный и аскетичный Девананда Пандит, жаждущий освобождения, толкует «Бхагавату» без преданности; в гневе Он говорит: «“Бхагавата” — Сам Кришна в виде книги, масло, сбитое из Вед, его вывод — бхакти; кто различает Меня, Моего слугу и “Бхагавату”, гибнет», — и идёт порвать книгу, но вайшнавы Его удерживают; автор поясняет: смысл «Бхагаваты» открывается не учёностью, а принятием её как проявления Господа."
+  persons: ["@mahaprabhu", "@devananda-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 9–10 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 28: читающий «Бхагавату» и хулящий Нитьянанду теряет разум."
+  themes: [teaching, offense]
+  teaching: [scripture, bhakti-supremacy, vaishnava]
+  event: ev-devananda-rebuked
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya21.md", from: "1", to: "28"}
+
+- id: cb-2034
+  source: cb
+  ref: "Мадхья 21, 29–52"
+  file: "chaitanya-bhagavata/ed/CB_Madhya21.md"
+  period: P07
+  order: 113.45
+  title: "У кабака: Господь в бхаве Баларамы, Шриваса удерживает Его; пьяницы поют «Харибол»"
+  summary: "Гуляя со Шривасой, Господь у кабака на окраине чует запах вина, вспоминает Варуни и в бхаве Баларамы рвётся внутрь: «Разве Я подчинён правилам?»; Шриваса хватает Его за стопы: «Если Ты, отец мира, нарушишь дхарму, кто её защитит? Иначе я утоплюсь в Ганге»; Господь, не отменяющий слова преданных, с улыбкой уступает; пьяницы, увидев Его, хлопают в ладоши, пляшут и поют «Харибол! Джая Нараяна!», Шриваса плачет от экстаза; автор кланяется всякому, кто видел лилы Господа, будь он и пьяницей."
+  persons: ["@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy]
+  bhava: [balarama]
+  teaching: [purity, holy-name]
+  event: ev-wine-shop-balarama-bhava
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya21.md", from: "29", to: "52"}
+
+- id: cb-2035
+  source: cb
+  ref: "Мадхья 21, 53–82"
+  file: "chaitanya-bhagavata/ed/CB_Madhya21.md"
+  period: P07
+  order: 113.5
+  title: "Господь укоряет Девананду за то, что тот выгнал плачущего Шривасу"
+  summary: "Встретив Девананду, Господь вспоминает: когда Шриваса пришёл послушать «Бхагавату» и плакал от любви, ученики вытолкали его на улицу, а Девананда их не остановил; «Разве можно выгонять плачущего от любви к Кришне? Тебе не понять “Бхагавату” ни в одной жизни»; пристыженный Девананда молча уходит; автор: наказание Господа — великая удача, оно ведёт к любви к Кришне; Кришна являет Себя в четырёх формах — «Бхагавата», Туласи, Ганга и преданные."
+  persons: ["@mahaprabhu", "@devananda-pandita", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.77 (позднейшая милость, ev-devananda-mercy)"
+  notes: "Ст. 63–78 (сгруппированные) в ed-файле отсутствуют, кроме ст. 72, — текст в src/txt."
+  themes: [offense, teaching]
+  teaching: [vaishnava, scripture]
+  event: ev-devananda-rebuked
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya21.md", from: "53", to: "82"}
+
+- id: cb-2036
+  source: cb
+  ref: "Мадхья 21, 83–87"
+  file: "chaitanya-bhagavata/ed/CB_Madhya21.md"
+  period: PX
+  order: 204
+  title: "Колофон Мадхья 21"
+  summary: "Игры Господа Чайтаньи без конца; автор кланяется Его слугам, просит не считать его оскорблений и поёт славу Чайтанье и Нитьянанде."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya21.md", from: "83", to: "87"}

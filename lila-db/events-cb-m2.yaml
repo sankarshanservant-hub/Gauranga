@@ -86,3 +86,23 @@
   cb: "Мадхья 20"
   themes: [mercy, separation]
   notes: "Боясь пережить уход Господа (как Сита была оставлена, а Ядавы погибли), Мурари прячет нож; всеведущий Господь находит его и берёт с Мурари слово: «Иначе ты съешь Мою голову»."
+
+- id: ev-devananda-rebuked
+  title: "Господь обличает Девананду Пандита, выгнавшего Шривасу с чтения «Бхагаваты»"
+  title_en: "The Lord rebukes Devananda Pandita for expelling Shrivasa from his Bhagavata recitation"
+  period: P07
+  order: 113.5
+  cb: "Мадхья 21"
+  themes: [offense, teaching]
+  teaching: [scripture, vaishnava, bhakti-supremacy]
+  notes: "Ученики Девананды вытолкали плачущего от премы Шривасу; Господь, услышав толкование «Бхагаваты» без бхакти, хочет порвать книгу, а встретив Девананду, гневно укоряет его. Позднейшая милость к нему — ev-devananda-mercy (ЧБ Антья 3)."
+
+- id: ev-wine-shop-balarama-bhava
+  title: "Запах вина у кабака: Господь в бхаве Баларамы; пьяницы поют «Хари»"
+  title_en: "The smell of wine at a tavern: the Lord in Balarama's mood; the drunkards chant 'Hari'"
+  period: P07
+  order: 113.45
+  cb: "Мадхья 21"
+  themes: [ecstasy, mercy]
+  bhava: [balarama]
+  notes: "Шриваса удерживает Господа от входа в кабак; от взгляда Господа пьяницы пляшут и поют имена Хари."
