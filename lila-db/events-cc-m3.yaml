@@ -76,3 +76,15 @@
   themes: [teaching, krishna-lila, ecstasy]
   teaching: [prema, scripture]
   notes: "Продолжение ev-sanatana-kashi-instruction (Каши): бесчисленные Вайкунтхи, три обители, Брахмы в Двараке, мадхурья Кришны — в бхаве гопи."
+
+# Мадхья 22 — наставление Санатане: абхидхея, садхана-бхакти.
+- id: ev-sanatana-shiksha-sadhana-bhakti
+  title: "Наставление Санатане: абхидхея — садхана-бхакти, вайдхи и рагануга"
+  title_en: "Instruction to Sanatana: abhidheya — sadhana-bhakti, vaidhi and raganuga"
+  period: P13
+  order: 185.3
+  cc: "Мадхья 22"
+  cb: ""
+  themes: [teaching]
+  teaching: [bhakti-supremacy, vaishnava]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши)."
