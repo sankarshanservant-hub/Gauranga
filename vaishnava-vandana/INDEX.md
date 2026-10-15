@@ -203,7 +203,7 @@
 | Мукунда Кавираджа | Mukunda Kaviraja | — | 131 | 132 | 45 (?) | — | 129 | — |
 | Раджива Пандит | Rajiva Pandita | — | 131 | — | — | — | 129 | — |
 | Джива Пандит | Jiva Pandita | @jiva-pandita | 132 | 132 | 45 | — | — | 169 |
-| Шишу Кришнадас | Shishu Krishnadasa | @shishu-krishnadasa | 133 | 133 | 46 | — | 130 | — |
+| Шишу Кришнадас | Shishu Krishnadasa | @kanu-thakura | 133 | 133 | 46 | — | 130 | — |
 | Уддхарана Датта | Uddharana Datta | @uddharana-datta | 134 | 98 | 33 | 31–32 | 82 | 129 |
 | Мадхава Ачарья, автор «Кришна-мангалы» | Madhava Acharya, author of the Krishna-mangala | @madhava-acharya-kavivallabha | 135 | 134 | 49 (?) | — | 131–132 | 169 |
 | Нрисимха Чайтанья Дас | Nrisimha Chaitanya Dasa | — | 135 | 135 | 49 | — | 133 | — |

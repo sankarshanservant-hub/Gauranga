@@ -48,7 +48,7 @@ relations:
   - {type: disciple, who: "@ranga-puri", facts: [F13, F45, F46, F119, F120, F121], event: ev-ranga-puri-pandharpur,
      note: "Житель Пандарпура (F45). Строка ГГД о Ранге Пури (ватсалья) есть только в B (F13)."}
   - {type: disciple, who: "@pundarika-vidyanidhi", facts: [F112, F122, F123, F124]}
-  - {type: disciple, who: "@sanodiya-vipra", facts: [F83, F112, F125, F126, F127, F128, F279], event: ev-arrival-mathura}
+  - {type: disciple, who: "@krishnadasa-mathura", facts: [F83, F112, F125, F126, F127, F128, F279], event: ev-arrival-mathura}
   - {type: disciple, who: "@raghupati-upadhyaya", facts: [F111, F112, F129]}
   - {type: disciple, who: "@keshava-bharati", facts: [F112, F117, F130], note: "«Некоторые говорят» — мантра-ученик (F130)."}
   - {type: disciple, who: "@brahmananda-bharati", facts: [F112, F117, F132], note: "Последователь (F132)."}
@@ -158,5 +158,5 @@ open_questions:
   - "Время посвящения Адвайты (F40, F42)."
   - "Чей ученик Нитьянанда (F59)."
   - "Чтение ГГД 22–24: «brahmaṇyaḥ puruṣottamaḥ» (F10); строки о древе желаний и о Ранге Пури (F12, F13)."
-  - "Санодия-брахман ЧЧ и брахман Кришнадас у Мурари (@krishnadasa-mathura) — одно ли лицо? В реестре не сказано."
+  - "Санодия-брахман ЧЧ и брахман Кришнадас у Мурари приняты в реестре за одно лицо (@krishnadasa-mathura): та же роль — принял Господа в Матхуре, кормил Его и водил по Враджу (ev-krishnadasa-mathura-guide); ЧЧ имени не называет."
   - "Кешава Пури — старший брат Валлабхачарьи? (F133, требует проверки)."

@@ -1640,7 +1640,7 @@
    },
    {
     "type": "disciple",
-    "who": "@sanodiya-vipra",
+    "who": "@krishnadasa-mathura",
     "facts": [
      "F83",
      "F112",
@@ -2157,7 +2157,7 @@
    "Время посвящения Адвайты (F40, F42).",
    "Чей ученик Нитьянанда (F59).",
    "Чтение ГГД 22–24: «brahmaṇyaḥ puruṣottamaḥ» (F10); строки о древе желаний и о Ранге Пури (F12, F13).",
-   "Санодия-брахман ЧЧ и брахман Кришнадас у Мурари (@krishnadasa-mathura) — одно ли лицо? В реестре не сказано.",
+   "Санодия-брахман ЧЧ и брахман Кришнадас у Мурари приняты в реестре за одно лицо (@krishnadasa-mathura): та же роль — принял Господа в Матхуре, кормил Его и водил по Враджу (ev-krishnadasa-mathura-guide); ЧЧ имени не называет.",
    "Кешава Пури — старший брат Валлабхачарьи? (F133, требует проверки)."
   ]
  },
@@ -3182,7 +3182,7 @@
    },
    {
     "type": "companion",
-    "who": "@raghunatha-vaidya",
+    "who": "@raghunatha-vaidya-upadhyaya",
     "facts": [
      "F262"
     ]
@@ -3245,7 +3245,7 @@
     "facts": [
      "F351"
     ],
-    "note": "Нитьянанда назвал его Шишу Кришнадасом (T, M); ср. @shishu-krishnadasa."
+    "note": "Нитьянанда назвал его Шишу Кришнадасом (T, M); в ванданах — «Шишу Кришнадас»."
    },
    {
     "type": "other",
@@ -3656,7 +3656,7 @@
    "#tota",
    "#panihati",
    "#saptagrama",
-   "#khardaha",
+   "#kharadaha",
    "#benapola",
    "#shaligrama-village",
    "#badagachhi",
@@ -4138,7 +4138,7 @@
      "F41",
      "F73"
     ],
-    "event": "ev-shachi-vaishnava-aparadha",
+    "event": "ev-shachi-receives-prema",
     "note": "Оскорбила Адвайту лишь мысленно, из любви к сыну, и получила прощение, взяв пыль с его стоп. T: после прощения Господь показал ей Свой облик ≠ B: Господь сказал, что простить может лишь Адвайта; Шачи взяла прах его стоп и упала без чувств в преме (F40). Адвайта простился с ней перед путём в Нилачалу (F41)."
    },
    {
@@ -4385,11 +4385,10 @@
    "ev-return-from-east-bengal",
    "ev-vishnupriya-matchmaking",
    "ev-marriage-vishnupriya",
-   "ev-shachi-receives-prema",
    "ev-nityananda-meal-shachi",
    "ev-dream-of-krishna",
    "ev-mahaprakasha-abhisheka",
-   "ev-shachi-vaishnava-aparadha",
+   "ev-shachi-receives-prema",
    "ev-chandrashekhara-drama",
    "ev-lord-consoles-shachi-before-sannyasa",
    "ev-lament-after-lord-leaves",
@@ -4465,7 +4464,7 @@
      "I3"
     ],
     "events": [
-     "ev-shachi-vaishnava-aparadha"
+     "ev-shachi-receives-prema"
     ]
    },
    {
