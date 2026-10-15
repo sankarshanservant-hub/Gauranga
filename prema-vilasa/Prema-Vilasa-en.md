@@ -17,9 +17,21 @@ Vishnupura.
 
 **Source.** The edition of 1913 (Calcutta, Bagbazar; public domain), collated from two independent OCR
 copies (the 1913 edition and its 1999 reprint). **Only the poem itself** is translated: the editors'
-prefaces and notes are not. Vilasas 1–23 are translated, together with the closing "Half-vilasa"
-(the letters of Srinivasa and Jiva Gosvami and the verse index of contents); the main text of the
-twenty-fourth vilasa (a late genealogical addition) is not translated, its contents appear only in the index.
+prefaces and notes are not. All twenty-four vilasas are translated, together with the closing "Half-vilasa"
+(the letters of Srinivasa and Jiva Gosvami and the verse index of contents).
+
+**On the twenty-fourth vilasa.** The twenty-fourth vilasa (about two thousand couplets) differs sharply
+in character from the rest. It gathers a life of Advaita Acharya (largely agreeing with Ishana Nagara's
+*Advaita-prakasha*), accounts of Brahma-Haridasa, of Mahaprabhu's lineage, of Vishvarupa and Nityananda,
+of Mahaprabhu's journey to East Bengal, of Nityananda's marriage and of Virabhadra, while most of it is
+taken up by the genealogies and rules of the kulin system of the Bengali brahmanas (Adishura, Ballala
+Sena, Devivara, Kamsanarayana). Its authenticity is disputed: the old manuscripts of the poem do not
+contain it, and B. Majumdar (*Sri-Chaitanya-chariter upadan*) regards it as a late composition; the text
+shows anachronisms (a "Mughal" courtesan in Haridasa's time, Kamsanarayana as Mahaprabhu's contemporary,
+the conflation of the tenth-century logician Udayana with the kulin reformer) and information unknown to
+other Vaishnava sources. The vilasa is translated in full and faithfully, as it stands; disputed passages,
+divergences from the *Chaitanya-charitamrita*, the *Chaitanya-bhagavata* and other sources, and the signs
+of late interpolation are noted in the translator's notes.
 
 **Principles.** The payar couplets are translated line by line, without rhyme, and numbered within each
 vilasa (the original has no numbering); tripadi stanzas, songs and Sanskrit verses are numbered as single
@@ -53,6 +65,7 @@ units. Corrupt passages are noted in the translator's notes at the end of each v
 - Vilasa 21. Madhava Acharya; Jagai and Madhai
 - Vilasa 22. Mukunda and Vasudeva Datta; Pundarika Vidyanidhi and Gadadhara
 - Vilasa 23. Mahaprabhu's Gurus; Srivasa and Vrindavana Dasa; Rupa, Sanatana and Jiva
+- Vilasa 24. The Life of Advaita Acharya, the Lineages of Mahaprabhu's Associates and the Kulina System of the Bengali Brahmanas
 - The Half-vilasa (Ardha-vilasa). Letters and Index
 
 ---
@@ -19992,6 +20005,6246 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^23-24]: See ch. 19.
 [^23-25]: A jaya-patra is a written acknowledgement of defeat which the loser in a disputation gives to the victor; Rupa and Sanatana signed it without entering into debate.
 [^23-26]: A play on words: "jiva" means both "living being" and the name Jiva.
+
+---
+
+# Vilasa 24. The Life of Advaita Acharya, the Lineages of Mahaprabhu's Associates and the Kulina System of the Bengali Brahmanas
+
+*The nature of Krishna, Balarama and Sadashiva; the birth and childhood pastimes of Advaita; his studies, travels, the finding of Madana-gopala and his initiation by Madhavendra Puri; Advaita's disciples and Brahma-Haridasa; Advaita's marriage and family; Madhava Acharya (Kavivallabha); Mahaprabhu's lineage; Vishvarupa and Nityananda; Mahaprabhu's journey to East Bengal; Nityananda's marriage, Virabhadra and Devivara; the family of Gadadhara Pandita; the Radhi and Varendra brahmanas, Adishura, Ballala and the rules of kulinism; the author's conclusion*[^24-1]
+
+**1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
+Glory to Advaitachandra! Glory to the devotees of Gaura!
+
+**2.** Krishna is Svayam Bhagavan, who sports in Goloka,
+dark like a tamala tree, two-armed, holding the flute,
+
+**3.** dark like a fresh raincloud and a bee,
+radiant like an indranila gem.
+
+**4.** He is called Brahman, Paramatma, Bhagavan;
+sadhakas see His form made of effulgence.
+
+**5.** Within the effulgence they see Sri Shyamasundara —
+He is Sri Krishna, Narayana, the Supreme Lord.
+
+**6.** His manifestations (prakasha) are not counted as different [from Him]:
+the form manifested by Himself is one, not separate.
+
+**7.** Vasudeva, the root of the fourfold expansion (chatur-vyuha) in Dvaraka,
+is a manifestation of Sri Krishna: there is no difference [between them].
+
+**8.** As it is said:
+*"A manifestation is not counted among the different [forms]: it is not separate [from Him]."*[^24-2]
+
+**9.** All know that this Supreme Lord is Krishna;
+His vilasa is Narayana, who dwells in Vaikuntha.
+
+**10.** That same Krishna is Narayana, who sports in Vaikuntha,
+four-armed, holding conch, disc, club and lotus.
+
+**11.** In self-conception Narayana and Krishna are not different;
+vilasa and the other [forms] differ only in appearance.
+
+**12.** Two more vilasas of Krishna are Balarama and Sadashiva:
+non-different [from Him], they take the mood of devotees and [appear as] distinct[^24-3].
+
+**13.** They only seem distinct because of the devotee's mood;
+in truth they are non-different — know this for certain.
+
+**14.** Sankarshana, the root of the chatur-vyuha in Dvaraka,
+is the manifested form of Balarama.
+
+**15.** Balarama's vilasa is Maha-Sankarshana in Vaikuntha;
+in the chatur-vyuha of Rama he is counted as Lakshmana.
+
+**16.** Sankarshana is one of the four vilasas in the enclosure of Vaikuntha.
+Such is the truth of Baladeva; listen further, O hearers.
+
+**17.** Karanodakashayi is the Inner Controller of all the universes,
+Garbhodakashayi the Inner Controller of each universe,
+
+**18.** Kshirodakashayi the Inner Controller of each living being,
+and Sri Ananta-deva Shesha, who is beyond maya —
+
+**19.** all of them are portions of Balarama.
+Who [fully] knows the truth of this Balarama?
+
+**20.** Bed, seat, vehicle, umbrella, sandals —
+taking various forms, Balai serves Krishna.
+
+**21.** This Balarama is Nityananda Mahashaya;
+he is also Vishvarupa, the brother of Sri Chaitanyadeva.
+
+**22.** For the work of creation Sadashiva, together with Rudra, his own portion,
+became manifest from Mahavishnu — know this for certain.
+
+**23.** Therefore Sadashiva is an avatara of Mahavishnu.
+O hearers, I have told you the essence.
+
+**24.** There is no difference between Mahavishnu and Sadashiva;
+the difference is only for the work of creation — this alone I find.
+
+**25.** Mahavishnu and Sadashiva are one body;
+everyone calls it the form of Hari-Hara.
+
+**26.** Mahavishnu-Sadashiva, the benefactor of living beings,
+performed austerities for seven hundred years in Kali[-yuga].
+
+**27.** Seeing Krishna face to face, he offered praise and obeisance
+and asked the Lord: "How will the living beings of Kali be liberated?"
+
+**28.** Krishna said: "Liberation is in the Name. Listen, Sadashiva:
+take birth on earth and deliver the living beings of Kali.
+
+**29.** With the mantra of the Name draw Me down;
+I shall [first] cause My mother, father, associates and others to be born.
+
+**30.** Then, drawn by the mantra of the Name [uttered] by you,
+I shall take birth on earth together with Baladeva."
+
+**31.** Saying this, Bhagavan disappeared,
+and Mahadeva with his associates took birth[^24-4].
+
+**32.** Mahavishnu-Sadashiva, the form of Hari-Hara,
+was born as Advaita — and the world's distress was gone.
+
+**33.** […] worshipping Krishna[^24-5],
+he brought Him to Nadia together with His associates.
+
+**34.** Endless obeisances at the feet of that Advaita Prabhu,
+by whose grace we have obtained Gaura Bhagavan!
+
+**35.** I shall describe the life of Advaita briefly;
+listen, listen, O hearers, attentively.
+
+**36.** In Srihatta, in the land of Laur, there is [a village] Navagrama,
+where Raja Divyasimha lived[^24-6].
+
+**37.** His court pandita, of the lineage of the sage Bharadvaja,
+named Kuvera Acharya, was praised for his good qualities.
+
+**38.** A pure-minded brahmana, keeper of the sacred fire, performer of sacrifices,
+he was descended from the family of Narasimha Nadiyal[^24-7].
+
+**39.** In the same village [lived] the brahmana Mahananda Mahashaya,
+a supreme pandita, the abode of all virtues.
+
+**40.** His daughter Nabha Devi, a great beauty,
+was given in marriage to Kuvera Acharya.
+
+**41.** Mahananda had a family priest, a brahmana,
+whom Nabha Devi always called her brother.
+
+**42.** That brahmana took sannyasa from Lakshmipati;
+everyone calls him Vijaya Puri[^24-8].
+
+**43.** Advaita Prabhu calls him Durvasa;
+it was he who made known Advaita's childhood pastimes.
+
+**44.** Vijaya Puri was a fellow disciple of Madhavendra Puri,
+and for that reason Advaita Prabhu greatly honours him.
+
+**45.** What little of Advaita's life I heard from the mouths of devotees
+I recalled and wrote down on paper.
+
+**46.** In accordance with that I give my description;
+listen, listen, O hearers, with one mind.
+
+**47.** Kuvera Pandita Mahashaya [was like] Kuvera, lord of the yakshas;
+as the fruit of his austerities Mahadeva became his son[^24-9].
+
+**48.** How this son was born I shall tell in order;
+listen, listen, O hearers, with one mind.
+
+**49.** Nabha Devi had six sons and one daughter;
+the daughter, as soon as she was born, went to heaven.
+
+**50.** Srikanta, Lakshmikanta, Hariharananda,
+Sadashiva, Kushala Dasa and Kirtichandra —
+
+**51.** these six sons went wandering to the holy places;
+four died, two came back, missing their father[^24-10].
+
+**52.** The two sons, having returned, afterwards took up household life.
+Now I shall tell how Srila Advaita was born.
+
+**53.** Grieving for their sons, Nabha Devi and the noble Kuvera
+settled in Shantipur on the bank of the Ganga.
+
+**54.** Kuvera Pandita constantly worshipped Narayana;
+after some time Nabha showed signs of pregnancy.
+
+**55.** Sadashiva Bhagavan entered the womb.
+Some time later Kuvera went to Navagrama
+
+**56.** and met Raja Divyasimha;
+he informed the king that Nabha Devi was with child.
+
+**57.** The king said: "Acharya, it seems to me
+that through this child the sufferings of living beings will come to an end."
+
+**58.** In due time Nabha's ten months were complete,
+and on the seventh day [of the bright half] of the month of Magha Prabhu appeared[^24-11].
+
+**59.** Seeing his son, the pandita was overjoyed
+and distributed wealth as far as his means allowed.
+
+**60.** Who can count how many musicians came!
+At the proper time Kuvera performed the naming ceremony.
+
+**61.** Calling an astrologer, he gave him a name:
+one of his names was Kamalakanta.
+
+**62.** Because he is not different from Hari, he was named Advaita ("Non-dual");
+under the name Advaita Prabhu became famous.
+
+**63.** Hearing the name of Krishna, Prabhu dances;
+receiving the prasada of the shalagrama, he is intoxicated with bliss.
+
+**64.** Thus five years passed;
+choosing an auspicious day, his father put chalk into his hand[^24-12].
+
+**65.** In a short time he learned much reading and writing;
+Kamala played every day with the king's son.
+
+**66.** Hearing the names "Krishna," "Hari," Kamalakanta dances;
+the prince, seeing this, mocks him greatly.
+
+**67.** Hearing [the mockery], Kamalakanta roars in anger —
+and the king's son falls senseless.
+
+**68.** Seeing this, Kamalakanta runs away;
+many people rush to the spot.
+
+**69.** A royal messenger goes and informs the king;
+hearing of his son's death, he comes in haste.
+
+**70.** The king sees his son dead, with no consciousness in him;
+grieving for his son, the king laments, "Alas, alas!"
+
+**71.** Kuvera Acharya quickly came there;
+finding his son who had run away, he learned what had happened.
+
+**72.** Kuvera says: "Why did you kill the king's son?"
+Kamalakanta says: "The prince is not dead."
+
+**73.** Hearing this, Raja Divyasimha praises him,
+and with the water that had washed the shalagrama's feet [Kamalakanta] revives the prince.
+
+**74.** Seeing this, all the people say: "This mahashaya
+must be a portion of Ishvara — know this for certain."
+
+**75.** In this way some time passed;
+at the proper time Kamalakanta received the sacred thread.
+
+**76.** Listen, O hearers, to what happened on another day:
+Kamala went to the pavilion of Kalika.
+
+**77.** The king and all the people were there;
+Kamalakanta, coming there, did not bow to Kali.
+
+**78.** Kuvera Pandita and Maharaja Divyasimha
+at once began to speak in anger:
+
+**79.** "O Kamalakanta, what behaviour is this?
+You do not bow to the Devi — this is a great outrage!"
+
+**80.** Kamalakanta says: "The Devi will not accept [my] obeisance:
+I am Sadashiva — know this for certain."
+
+**81.** Hearing his son's words, the pandita grew angry;
+seeing his father's anger, Kamala bowed to the Devi.
+
+**82.** As soon as he bowed, Kalika disappeared,
+and the moment the Devi disappeared, the image split apart[^24-13].
+
+**83.** The king and all the people were amazed:
+"What a wondrous deed of Kamalakanta!"
+
+**84.** Kuvera Pandita says: "Listen, Maharaja:
+install another image of the Devi without delay."
+
+**85.** Sri Kamalakanta says: "Listen, O king:
+you are a worshipper of Shakti — worship Shakti.
+
+**86.** You always revile the devotees of Vishnu;
+for that offence Shakti has left you.
+
+**87.** Always serve the devotees of Vishnu,
+and worship the Devi, O king, with devotion.
+
+**88.** When the Devi is gracious, you will become a Vaishnava,
+you will leave worldly life, and all offences will go."[^24-14]
+
+**89.** Saying this, Kamalakanta departed,
+and the king installed [images of] the Devi and Vishnu.
+
+**90.** Meanwhile Kamalakanta, having studied grammar,
+after some time came to Shantipur.
+
+**91.** There, as he wished, he studied literature, poetics, philosophy and the rest,
+the smritis, the Vedas and the Puranas.
+
+**92.** He brought his mother and father to Shantipur
+and always served the feet of his mother and father.
+
+**93.** Near Shantipur is the village of Phullavati[^24-15];
+[there lived] a most excellent pandita named Shantacharya.
+
+**94.** With him the Vedas and the *Bhagavata*,
+the yoga-shastras, the *Yoga-vasishtha* and the rest
+
+**95.** Kamalakanta studied and received the title of Acharya;
+by expounding bhakti he made the title Acharya meaningful.
+
+**96.** Listen, O hearers, to a wonder that happened during his studies.
+Next to the Ganga was a very deep lake (bil),
+
+**97.** full of fragrant lotuses;
+countless snakes, hooded and unhooded, swarmed there.
+
+**98.** Seeing those lotuses, Shantacharya Mahashaya
+became eager to worship his chosen Deity with them.
+
+**99.** Understanding his teacher's wish, Advaita
+quickly brought many lotuses from the lake:
+
+**100.** he walked on the water as on dry land.
+Seeing this, Shantacharya was astonished to the core.
+
+**101.** He thinks: "Advaita is not a human being at all;
+it seems to me he is a portion of Ishvara."
+
+**102.** Having finished his studies, Advaita came home;
+after some time his mother and father left this world.
+
+**103.** Advaita went to Gaya to offer the pinda
+and gradually travelled to all the holy places.
+
+**104.** In the south he met Madhavendra Puri;
+[Advaita] heard from him the whole truth of bhakti.
+
+**105.** He studied the scriptures of bhakti with Madhavendra;
+grieving for [the sufferings of] living beings, Madhava Puri meditates on Krishna.
+
+**106.** Madhava says: "Advaita, you are Sadashiva;
+bring Krishna and save the living beings of Kali.
+
+**107.** See: the whole world is devoid of devotion to Krishna;
+give the living beings devotion to Krishna and deliver them.
+
+**108.** You will bring Krishna to the earth —
+I saw this in a dream and tell it to you."
+
+**109.** Advaita says: "Puri Gosani, give me this blessing:
+that Krishna may come and deliver the living beings."
+
+**110.** Advaita stayed some days with Madhavendra,
+and from there afterwards went west.
+
+**111.** In Kashi he met Vijaya Puri;
+wandering on, he then came to Vrindavana.
+
+**112.** He circumambulated the whole land of Vrindavana;
+one night he saw a dream:
+
+**113.** dark as a fresh cloud, enchanting the worlds,
+Hari with a peacock feather, the flute at His lips,
+
+**114.** wearing yellow cloth, with ankle bells on His feet,
+His body dazzlingly radiant, full of the nectar of rasa,
+
+**115.** stands in His threefold-bending pose.
+Seeing this, Advaita Prabhu rose up trembling
+
+**116.** and fell at Sri Krishna's feet, stretched out like a rod.
+Krishna says: "Advaita, you are Shiva Gopeshvara[^24-16].
+
+**117.** Restore the lost holy places, preach bhakti,
+give the living beings Krishna-Hari-nama and deliver them.
+
+**118.** There is an image of Mine named Madanamohana
+in a grove on the bank of the Yamuna.
+
+**119.** On account of robbers I am hidden;
+dig up the earth and raise Me up.
+
+**120.** Manifest My service and do good to the world."
+Saying this, Bhagavan disappeared.
+
+**121.** Having seen the dream, Advaita woke and sat up;
+when the night was over, he went and found [the place].
+
+**122.** Having performed his morning duties, he brought people
+and raised Madanamohana from the grove.
+
+**123.** With great labour they dug out the Deity;
+seeing Him, all the people of Vraja were enchanted.
+
+**124.** Performing the abhisheka, [Advaita] installed the Thakura
+and appointed a well-conducted Vaishnava brahmana for His worship.
+
+**125.** Advaita Prabhu went to circumambulate [Vraja].
+Hearing [of the Deity], the mlecchas came to break the Thakura.
+
+**126.** On account of the yavanas, Thakura Madanamohana became [little] Gopala
+and hid beneath the flowers[^24-17].
+
+**127.** All the mlecchas entered the temple,
+searched, did not find the Thakura, and went away.
+
+**128.** When the yavanas had gone, the pujari came;
+not seeing the Thakura in the chamber, he was grieved.
+
+**129.** From people he heard of the yavanas' outrage
+and, striking his head, wept without end.
+
+**130.** When Advaita Prabhu came in the evening,
+[the pujari] cried out: "The mlecchas have taken the Thakura!"
+
+**131.** Not seeing the Thakura, Advaita wept bitterly;
+in anguish of heart he lay down without food.
+
+**132.** At the end of the night Bhagavan says to Advaita:
+"Wary of the mlecchas, I am hiding beneath the flowers.
+
+**133.** Having become Gopala, I lie beneath the flowers;
+take Me and place Me inside the temple.
+
+**134.** Offer Me fruits and roots,
+and you yourself, having taken prasada, sleep in peace.
+
+**135.** Everyone will see Me as before;
+proclaim [My] name — Madana-gopala."
+
+**136.** In great bliss Advaita Prabhu began to dance;
+he brought the Thakura to the temple to offer Him food.
+
+**137.** Having offered fruits and roots,
+he laid Madana-gopala on His bed.
+
+**138.** Having taken prasada, Advaita lay down to sleep;
+rising in the morning, he went to the bank of the Yamuna.
+
+**139.** On the bank of the Yamuna he saw that brahmana
+and told him: "Go quickly to the temple."
+
+**140.** The brahmana says: "Why should I go to the temple in vain?"
+Advaita says: "Go and see — Krishna is there."
+
+**141.** The brahmana hurried to the temple
+and saw Madana-gopala.
+
+**142.** The joy of that brahmana cannot be described:
+he offers praises and obeisances and rolls on the ground.
+
+**143.** From that time this Lord Madanamohana
+is called Madana-gopala by everyone[^24-18].
+
+**144.** One day in a dream Madanamohana
+spoke these words to Advaita:
+
+**145.** "In Mathura there lives a Chaube brahmana;
+he is My exclusive devotee.
+
+**146.** The Chaube and his wife are full of devotion;
+in parental love (vatsalya) they always cherish Me.
+
+**147.** They constantly think of Me as their son;
+I shall surely fulfil their desire.
+
+**148.** Their son's name is Madanamohana;
+with him I shall spend some time.
+
+**149.** When Rupa and Sanatana come to Vrindavana,
+I shall leave the Chaube.
+
+**150.** In the morning that devotee, the Chaube, will come here;
+give Me to him and do not grieve."
+
+**151.** Advaita says: "Hari, if You leave me and go —
+I tell You truly — I shall lose my life."
+
+**152.** Bhagavan says: "Advaita, listen to one thing:
+here there is an image of Mine non-different [from Me] —
+
+**153.** the form that Sri Vishakha made;
+all sing of it as 'Vishakha's picture.'
+
+**154.** Seeing that form, Sri Radha swooned;
+the picture is My image, a Deity non-different [from Me][^24-19].
+
+**155.** Take that picture-image to Shantipur
+and worship it, calling it Madana-gopala."
+
+**156.** Saying this, Bhagavan disappeared.
+Waking, [Advaita] sees that the night has turned to dawn.
+
+**157.** At that moment a Chaube brahmana came
+and began to tell of his dream that night:
+
+**158.** "This Thakura came to my house last night,
+woke my wife, calling 'Mother, mother!',
+
+**159.** and called me: 'Father, listen to what I say:
+I am with Advaita — bring Me here.
+
+**160.** You two are My mother and father;
+bring Me and care for Me in every way.'"
+
+**161.** Hearing this, Advaita prostrated himself [and said]:
+"Take this Madanamohana and go."
+
+**162.** In great bliss the Chaube took Madana-gopala
+and served Him for a long time as his son.
+
+**163.** Meanwhile Sri Advaita Prabhu began to wander [through Vraja]
+and in a certain grove found the picture-image.
+
+**164.** Having obtained the image, he floats in the waters of the ocean of prema;
+after some time he came to Sri Shantipur.
+
+**165.** In Shantipur he installed that image,
+and the name Madana-gopala became known.
+
+**166.** Advaita in Shantipur meditates on Gopala's feet;
+by providence Madhavendra Puri came there.
+
+**167.** Seeing the image of Sri Krishna, he bowed down;
+Advaita came there.
+
+**168.** Advaita honoured Srila Madhavendra
+and again and again prostrated himself before him.
+
+**169.** From him he received initiation in the ten-syllable Gopala mantra;
+all say Advaita is a disciple of Madhavendra.
+
+**170.** Having stayed some days in Shantipur,
+Madhavendra Puri set out for the south.
+
+**171.** From the south Madhava brings sandalwood from the Malaya hills
+to relieve the heat of Govinda's body.
+
+**172.** Coming to Remuna, he saw Gopinatha,
+who out of love for him stole sweet rice;
+
+**173.** out of love for him Gopinatha is called Kshira-chora.
+Endless obeisances at the feet of such a Madhavendra!
+
+**174.** Having given the sandalwood to Gopinatha by Govinda's order,
+Madhavendra set out for the land of Vrindavana
+
+**175.** and, meditating on Sri Govinda's lotus feet,
+having manifested bhakti, he left this world[^24-20].
+
+**176.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**177.** By Advaita's order that Raja Divyasimha
+installed images of Kali and Vishnu and worshipped them.
+
+**178.** By remembering Sri Vishnu his sins were destroyed;
+that king came to Shantipur,
+
+**179.** surrendered himself at Advaita's feet
+and, giving up the Shakti mantra, took initiation in the Gopala mantra.
+
+**180.** Advaita gave him the name Krishnadasa;
+it was he who made known something of Advaita's life[^24-21].
+
+**181.** Having studied the *Sri Bhagavata* with Advaita,
+he set out for Vrindavana as a mendicant.
+
+**182.** Krishnadasa Brahmachari became famous in Vrindavana;
+Rupa and Sanatana loved him.
+
+**183.** This mahashaya became a resident of Vrindavana;
+his friendship with Kashishvara Gosvami was very great.
+
+**184.** He went to Vrindavana before everyone else;
+all proclaimed him "Vrindavanavasi"[^24-22].
+
+**185.** Thus I have told of Krishnadasa Pandita;
+now listen to what I shall say.
+
+**186.** A brahmana of the strictest conduct named Bada Shyamadasa,
+learned in many shastras, the abode of all virtues,
+
+**187.** would go to whatever land he heard of a pandita
+and defeat all the panditas in debate.
+
+**188.** Everywhere he gained the name of "conqueror of the quarters" (digvijayi);
+one day he came to Advaita in Shantipur.
+
+**189.** Entering into debate, he was defeated
+and saw Advaita as Sadashiva himself.
+
+**190.** Bada Shyama received the Krishna mantra from Advaita
+and began to study the scripture *Sri Bhagavata*.
+
+**191.** In the *Bhagavata* he became a supreme scholar;
+he is known in the world by the name Bhagavata Acharya[^24-23].
+
+**192.** Listen, listen, O hearers, with one mind:
+now I shall tell of Srinatha Acharya.
+
+**193.** Srinatha Chakravarti, foremost among panditas —
+some call him Srinatha Acharya.
+
+**194.** He studied the *Bhagavata* with Sri Advaita Prabhu,
+and Sri Advaita Prabhu gave him initiation.
+
+**195.** He is a branch of Sri Chaitanya, an object of His grace;
+his pupil is the poet Karnapura, son of Shivananda.
+
+**196.** In Kumarahatta he installed the Deity of Krishna-raya
+and wrote the commentary on the *Bhagavata*, the *Chaitanya-mata-manjusha*[^24-24].
+
+**197.** Now hear the account of Brahma-Haridasa:
+how he was brought up in a yavana's house.
+
+**198.** For the sin of stealing the calves, Brahma Mahashaya,
+becoming the ward of a yavana, lost his caste.
+
+**199.** He was born in Budhana, in a brahmana family,
+and became a yavana through the fault of [eating] yavanas' food[^24-25].
+
+**200.** In infancy his mother and father died;
+a yavana came and took him to his own house.
+
+**201.** The ruler of Anduya[^24-26], named Malaya Kazi —
+he was brought up by him and ate his food.
+
+**202.** Haridasa constantly remembers his past sin;
+one day he came to Sri Shantipur,
+
+**203.** took shelter at the feet of Advaita Prabhu
+and studied the scriptures of bhakti with him.
+
+**204.** He received initiation from Advaita;
+day and night he chants three hundred thousand names of Hari:
+
+**205.** a hundred thousand Hari-namas in the mind, a hundred thousand he hears with his ears,
+a hundred thousand names he sings aloud in sankirtana.
+
+**206.** Seeing him intoxicated with Hari-nama, [he was named] Haridasa;
+noble brahmanas come and bow to him.
+
+**207.** The supreme Vaishnava Haridasa Mahashaya,
+having become a renunciant, always worships Sri Krishna.
+
+**208.** A digvijayi pandita named Yadunandana
+one day came to Haridasa.
+
+**209.** There was a debate with him on the truth of God,
+and Yadunandana was defeated in every respect.
+
+**210.** [Haridasa,] refuting the doctrine of knowledge, established the primacy of bhakti,
+and Yadunandana accepted that teaching.
+
+**211.** At that time Sri Advaita Prabhu came there;
+bowing down, Yadunandana says: "You are the Lord.
+
+**212.** Give me initiation [in the mantra] of Krishna and deliver me."
+Sri Advaita Prabhu agreed.
+
+**213.** Srila Yadunandana Acharya Mahashaya,
+becoming a disciple of Advaita, teaches the *Bhagavata*.
+
+**214.** Yadunandana's disciple is Dasa Raghunatha,
+who became famous as Dasa Gosvami[^24-27].
+
+**215.** The glory of Sri Haridasa is boundless:
+he is expert in bhajana, his conduct accords with the shastras.
+
+**216.** Sri Advaita Prabhu feeds him the shraddha offering (shraddha-patra);
+all people say: "This is an impure act."[^24-28]
+
+**217.** Hearing the people's censure, Advaita says to Haridasa:
+"Show a little of your power."
+
+**218.** Hearing this, Haridasa took away fire:
+for a whole day no one could obtain fire.
+
+**219.** The brahmanas and all the people [came] to Advaita
+and say: "In what land shall we get fire?"
+
+**220.** Advaita Prabhu says: "I have no fire;
+Brahma-Haridasa has hidden the fire."
+
+**221.** All together went to Haridasa,
+prostrated themselves and offered many praises.
+
+**222.** Haridasa mercifully took a tuft of grass,
+blew on it — and kindled fire.
+
+**223.** All say: "Haridasa is not a human being at all;
+he is the lord Brahma himself — know this for certain."
+
+**224.** From Shantipur Haridasa Mahashaya
+came to the village of Phulia.
+
+**225.** In that village [lived] an excellent brahmana named Ramadasa,
+a supreme pandita endowed with all virtues.
+
+**226.** He conceived firm devotion for Haridasa;
+becoming his disciple, the brahmana purified his mind.
+
+**227.** Many noble brahmanas of the village of Phulia
+took shelter at Haridasa's feet.
+
+**228.** By Haridasa's power many residents of Phulia
+became Vaishnavas and float in love of Krishna.
+
+**229.** From Phulia Haridasa went to Kuliya[^24-29]
+and began austerities in a great forest.
+
+**230.** A snake and a tiger lived in that place;
+they listened to Haridasa's Hari-nama.
+
+**231.** Hearing the Name, the snake and the tiger began to dance
+and, liberated, both went to Vaikuntha.
+
+**232.** From there Haridasa came to Shantipur
+and settled in solitude on the bank of the Ganga.
+
+**233.** Many brahmanas and panditas of Shantipur
+reviled Advaita in an assembly.
+
+**234.** All say: "He fed a yavana the shraddha offering —
+let no one have even a sesame seed's worth of contact with him!"
+
+**235.** Unworthy brahmanas and panditas reject Advaita,
+while worthy brahmanas and panditas stand on Advaita's side.
+
+**236.** The brahmanas of Shantipur split into two parties:
+some for Advaita, some against.
+
+**237.** All the brahmanas opposed to Advaita
+gathered at a single invitation [to a feast].
+
+**238.** Those brahmanas saw Haridasa:
+his form was radiant, his sacred thread gleamed[^24-30].
+
+**239.** The radiant thread shines brightly on his body,
+the splendour of his body seems to outshine the sun.
+
+**240.** Brahma-Haridasa in the dress of a sannyasi —
+with joy in their hearts they insistently bring him.
+
+**241.** All say: "Best of svamis, accept our invitation."
+Haridasa says: "I eat [only] Vishnu's prasada."
+
+**242.** The brahmanas say: "We shall offer food to the shalagrama;
+we shall seat you in the middle and all eat."
+
+**243.** Haridasa accepted the invitation
+and ate together with the brahmanas.
+
+**244.** Having eaten, the brahmanas performed achamana;
+at that moment Advaita Prabhu arrived.
+
+**245.** Haridasa fell at Advaita's feet;
+Advaita says: "Haridasa, you are here?"
+
+**246.** Haridasa says: "Everyone insisted so much —
+that is why I accepted the invitation."
+
+**247.** All the brahmanas, bowing at Advaita's feet,
+say: "We are unworthy.
+
+**248.** Forgive the offence, Prabhu, be merciful to all;
+knowing us to be ignorant, Prabhu, give us the shade of your feet."
+
+**249.** The great Sri Advaita Prabhu
+satisfied all the brahmanas with sweet words.
+
+**250.** Having performed this pastime in this way,
+Haridasa went from Shantipur to Navadvipa.
+
+**251.** Seeing Haridasa, the kazi had him bound:
+"Why, being a yavana, do you practise the Hindu religion?"
+
+**252.** Haridasa says: "Religion is service to Hari;
+what you see as the religion of the yavanas is nothing."
+
+**253.** Hearing this, the kazi grew very angry
+and had him locked up in prison.
+
+**254.** In prison [Haridasa] performs sankirtana with the prisoners;
+the kazi in anger binds Haridasa tightly,
+
+**255.** ties him in a sack and drowns him in the Ganga;
+seeing this, all the people lament, "Alas, alas!"
+
+**256.** Ten or twenty days later, in a fisherman's net
+that Haridasa came up — all say: "Treasure!"
+
+**257.** They brought that sack and gave it to the yavana ruler;
+cutting it open, they see Haridasa in the sack,
+
+**258.** seated in yoga posture, chanting Hari-nama.
+All the yavanas came and bowed to him:
+
+**259.** "Not knowing your nature, we committed an offence;
+best of sannyasis, be merciful, grant us your favour."
+
+**260.** Haridasa says: "No one is guilty of any offence:
+whatever is the will of Ishvara, that is what everyone receives."[^24-31]
+
+**261.** Having shown mercy to the yavanas, Haridasa
+went and arrived at Benapol on the bank of the Ganga[^24-32].
+
+**262.** There he sat in solitude and practised austerities;
+a prostitute sent by the kazi came there[^24-33].
+
+**263.** The prostitute was of the Mughal race[^24-34], a great beauty:
+whoever sees her loses his composure.
+
+**264.** The ascetic loses his austerity, the yogi his yoga;
+from a beautiful woman's glance one's reason is lost.
+
+**265.** Adorned with all kinds of ornaments,
+she went before Haridasa and said:
+
+**266.** "O sannyasi Thakura, listen to my words:
+tonight I shall spend with you."
+
+**267.** Haridasa says: "I agree:
+when [my] Hari-nama is finished, I shall keep your company."
+
+**268.** Hearing this, the prostitute was very pleased;
+with Haridasa's Hari-nama the night turned to dawn.
+
+**269.** Haridasa says: "The night has turned to dawn;
+tonight your company will surely be granted."
+
+**270.** In this way three or four nights passed;
+by the sight of the saint the prostitute's sins were destroyed.
+
+**271.** As it is said:
+*"Not the holy places made of water, nor the gods made of clay and stone [alone purify]: they purify after a long time, but saints by their mere sight."*[^24-35]
+
+**272.** The prostitute says: "There is no such man in the three worlds,
+who blows away with a breath a woman's company freely offered!"
+
+**273.** The prostitute says: "Prabhu, you are a great mahajana;
+what honey do you drink? Give [it to me too].
+
+**274.** Having drunk that nectar, you [merely] make me dance attendance;
+mercifully let me too drink that nectar."
+
+**275.** Haridasa says: "Listen to my words:
+that wealth is gained by giving up wealth and honour."
+
+**276.** The prostitute says: "I shall distribute my wealth
+and come to take shelter at your feet."
+
+**277.** That prostitute had heaps of wealth;
+she distributed it, choosing worthy people.
+
+**278.** Having distributed her wealth, she came to Haridasa;
+Haridasa says: "There are still ornaments on your body.
+
+**279.** Give up your costly ornaments and clothes,
+give up your lovely tresses."
+
+**280.** Hearing this, the prostitute cut off her tresses
+and gave all her clothes and ornaments to the poor.
+
+**281.** Having bathed and put on white clothes,
+she came and fell at Haridasa's feet.
+
+**282.** [Haridasa said:] "The body on which you wore ornaments
+shall now be adorned with wood and clay."
+
+**283.** He had her apply tilaka on twelve places [of the body];
+on her neck was a necklace of tulasi wood.
+
+**284.** Tying a shikha on her head, he gave her Hari-nama:
+"In this Name there is honey; drink it."
+
+**285.** *"Sweeter than the sweet, the most auspicious of all auspicious things,
+the fruit of the creeper of all the Vedas, a wish-fulfilling tree —
+the name of Krishna, chanted even once, with faith or with neglect,
+O best of the Bhrigus, delivers any human being."*[^24-36]
+
+**286.** "With faith always chant the Name:
+when your sins are destroyed, you will find nectar in the Name."
+
+**287.** Having said this and delivered the prostitute, Haridasa
+went from there on pilgrimage to the holy places.
+
+**288.** Seeing the prostitute's renunciation, the kazi Mahashaya
+thinks: "Haridasa is not a human being at all.
+
+**289.** I meant to destroy his virtue and sent a prostitute,
+but by his power the prostitute became a Vaishnavi."
+
+**290.** Haridasa Mahashaya is Brahma, the creator of the world:
+for the sin of stealing the calves he became a yavana.
+
+**291.** The sage Richika had a son named Brahma;
+by his father's curse he became a yavana.
+
+**292.** Richika told his son to bring tulasi;
+he brought unwashed tulasi and gave it into his father's hand.
+
+**293.** In anger the sage Richika said to his son:
+"For this offence you will be born in a low family."
+
+**294.** By his father's curse Richika's son, Brahma Mahashaya,
+merged with Brahma, the creator of the world, and became Haridasa.
+
+**295.** Prahlada came and joined with them:
+the three, united, [became] the great Sri Haridasa[^24-37].
+
+**296.** Why Prahlada became a yavana —
+listen, listen, O hearers, with one mind.
+
+**297.** One day Prahlada was engaged in the worship of Krishna;
+the four Sanas, Sanaka and the others, came there.
+
+**298.** The daityas, bowing to the four Sanas,
+seated them and honoured them with water for the feet and arghya.
+
+**299.** Having honoured them, they informed Prahlada,
+but Prahlada, absorbed in the worship of his Deity, heard and did not hear.
+
+**300.** The rishis waited for some time
+and with heavy hearts went away from there.
+
+**301.** Through this Prahlada committed an offence against Vaishnavas[^24-38]:
+he became intoxicated with tamo-guna, and calamity followed.
+
+**302.** He insulted Indra and the other gods,
+and showed respect neither to Brahma nor to Shiva.
+
+**303.** Intoxicated with tamo-guna, he was disrespectful;
+then Prahlada went to Vaikuntha.
+
+**304.** Where Narayana [dwells] with Lakshmi and Sarasvati,
+there came Prahlada, intoxicated with tamo-guna,
+
+**305.** and without greeting Him says to Narayana:
+"Sit on a low seat; I shall sit on the throne."
+
+**306.** Saying this, Prahlada sat on the throne.
+The wise say this happened because of Prahlada's offence against Vaishnavas.
+
+**307.** Showing mercy to Prahlada, Lord Narayana
+remembered the four Sanas and the gods.
+
+**308.** As soon as He remembered them, all appeared there,
+praised Bhagavan and bowed down.
+
+**309.** Seeing the four Sanas, Prahlada Mahashaya
+was freed from tamo-guna, and his memory awoke.
+
+**310.** Prahlada says: "I have committed a great offence:
+you came to my house, and I did not receive you.
+
+**311.** There is no one as fallen and sinful as I;
+forgive my offence, be merciful, O Gosanis."
+
+**312.** Saying this, Prahlada fell flat like a rod
+at the feet of the four Sanas and remained lying on the ground.
+
+**313.** The four Sanas say: "There is no offence on you:
+by seeing you we attain Krishna's feet.
+
+**314.** By your grace Krishna remembered us,
+and we have seen both a saint like you and Krishna."
+
+**315.** Prahlada's offence was gone and his heart was fulfilled;
+he honoured the assembly of rishis and the assembly of gods.
+
+**316.** Narayana says: "Prahlada, in the age of Kali
+you will take birth on earth and become a yavana.
+
+**317.** Becoming Haridasa, you will increase the glory of the Name;
+I shall take birth in the form of Sri Krishna Chaitanya.
+
+**318.** When, born in a low family, you chant the Name,
+the seed of your offence will be destroyed."
+
+**319.** That Prahlada joined with Brahma-Haridasa,
+while in another manifestation Vidhi (Brahma) became Gopinatha Acharya[^24-39].
+
+**320.** Gopinatha is a disciple of Advaita, a branch of Chaitanya.
+I have written briefly of Haridasa's nature.
+
+**321.** Listen, listen, O hearers, with one mind:
+now I shall tell of Advaita's marriage.
+
+**322.** Near Saptagrama is a village named Narayanapura;
+many brahmanas live there.
+
+**323.** Kulinas, shrotriyas and kapas live there;
+the kapa Nrisimha Bhaduri also lived there[^24-40].
+
+**324.** The kapa Nrisimha Bhaduri is Himalaya,
+and his wife is surely Menaka.
+
+**325.** He had two daughters — Sri Sita Thakurani:
+the elder is Sita, the younger Sri Thakurani.
+
+**326.** Sita is Yogamaya, Durga, Bhagavati;
+her manifestation is Sri Devi — know this for certain[^24-41].
+
+**327.** Nrisimha's wife, leaving the two daughters,
+departed this world — so I have heard from people.
+
+**328.** [Nrisimha] thinks about the marriage of his two daughters, now grown up;
+in a dream he sees Advaita as the husband of both.
+
+**329.** In the two daughters he sees the very nature of Bhagavati,
+and in Advaita he saw the form of Sadashiva himself.
+
+**330.** Having seen the dream, he put his two daughters in a boat,
+keeping in mind: "I shall go to Shantipur."
+
+**331.** He arrived at the ghat of Kuliya,
+and there met Bada Shyamadasa Acharya.
+
+**332.** He had a long conversation with Bada Shyamadasa
+and told Bada Shyamadasa of his dream.
+
+**333.** Bada Shyamadasa went to Advaita,
+wishing to arrange the marriage.
+
+**334.** Bada Shyamadasa says: "Prabhu, marry."
+Prabhu says: "Who will give [a daughter] in marriage to an old man like me?"
+
+**335.** From Kuliya Nrisimha came to Shantipur
+and met Advaita Prabhu at the ghat.
+
+**336.** Advaita met Sri Sita —
+husband and wife were able to recognise each other.
+
+**337.** Sita Devi and Sri Devi say to Bhaduri:
+"Give us both to Advaita."
+
+**338.** On an auspicious day Nrisimha Bhaduri
+gave his daughters to Advaita in the town of Phulia.
+
+**339.** The rulers of that land, the two brothers Hiranya and Govardhana,
+dearest disciples of Yadunandana Acharya[^24-42],
+
+**340.** bore all the expenses of the wedding,
+and the rite was performed with great pomp.
+
+**341.** Advaita Prabhu married Sri Sita.
+I shall tell of a pastime on the day of the pakasparsha[^24-43]:
+
+**342.** Sita came with a dish of rice into the row [of diners];
+a wind arose and forcefully blew away her head-covering.
+
+**343.** With the dish in both hands, she cannot hold the cloth:
+with two other hands she pulls the cloth over her head.
+
+**344.** All the brahmanas saw her four-armed;
+Sita quickly withdrew the two hands.
+
+**345.** Thus I have told of Sri Sita's marriage;
+Advaita lived as a householder with his two wives.
+
+**346.** Formerly Advaita's school (tol) was in Nadia;
+after marrying he established his school in Shantipur.
+
+**347.** Sita Devi and Sri Devi from Advaita
+[received initiation] with great joy in their hearts[^24-44].
+
+**348.** Five sons were born of Sita Devi,
+one son was born of Sri Devi.
+
+**349.** The eldest, Achyutananda, is Ganesha;
+the gopi Achyuta entered into him.
+
+**350.** His manifestation is Chhota Shyamadasa Mahashaya;
+Sita loves him like a son.
+
+**351.** With motherly love Sita nursed him at her breast;
+the wise Chhota Shyamadasa sees Mother Sita four-armed.
+
+**352.** Krishnadasa Mishra, Gopala, Balarama,
+Svarupa, Jagadisha — these are the five sons[^24-45].
+
+**353.** Srila Krishnadasa is Karttikeya;
+Gopala, Balarama, Svarupa and Jagadisha are his manifestations.
+
+**354.** Sita Devi had two maidservants, Jangali and Nandini;
+Sita herself initiated them in the Krishna mantra.
+
+**355.** Nandini serves the feet of Sri Sita,
+while Jangali went to a forest to perform austerities.
+
+**356.** Jangali lives in that jungle
+in the company of tigers, bears and other beasts.
+
+**357.** The ruler of Gauda went hunting in that forest
+and saw a supremely beautiful woman.
+
+**358.** The woman, in the dress of an ascetic, performs austerities;
+the king conceived the intention of destroying her chastity.
+
+**359.** Coming near, he sees — a man!
+Great doubt arose in the king's mind.
+
+**360.** The king says: "Ascetic, are you a woman or a man?"
+Jangali says: "I am a woman, not a man.
+
+**361.** Women see [in me] a woman, men a man;
+never do I call anyone a man[^24-46].
+
+**362.** Good people always see me as a woman
+and address me: 'Mother, mother.'
+
+**363.** A man at first sees me as a woman;
+when his mind turns wicked, he sees a male form."
+
+**364.** The king brought women and made a test:
+the women saw [her] female form.
+
+**365.** At the king's order a man came at once
+and, examining, saw male marks.
+
+**366.** The king says: "Mother, I am a great offender;
+give me the dust of your feet and save me."
+
+**367.** Jangali showed the king great mercy,
+and the king built her a dwelling there.
+
+**368.** Everyone calls that place Jangali-tota.
+Thus I have made known the power of Jangali[^24-47].
+
+**369.** Listen, listen, O hearers, attentively:
+pay heed to what I shall now tell.
+
+**370.** A disciple named Ishana says to Advaita[^24-48]:
+"Tell me, Mahashaya, how will the living beings be liberated?
+
+**371.** — said Ishana. — You married and became a householder,
+but you have not done what would deliver the living beings."
+
+**372.** Hearing this, Advaita roars:
+"I shall bring Krishna with His associates to Nadia!"
+
+**373.** Saying this, Advaita Prabhu began austerities
+and brought Krishnachandra with His associates to Nadia.
+
+**374.** Having come, Prabhu preached the doctrine of bhakti
+and through bhakti-yoga delivered the whole world.
+
+**375.** Mahaprabhu shows Advaita the devotion due to a guru
+and every day takes the dust of his feet.
+
+**376.** At this the Lord of Shantipur is greatly pained:
+his mind is always downcast, he finds no peace.
+
+**377.** Advaita says: "I shall go against bhakti:
+I shall constantly expound the *Yoga-vasishtha* and the like.
+
+**378.** Now I shall preach the doctrine of knowledge,
+so that anger will be kindled in Prabhu.
+
+**379.** Hearing of it, Prabhu will surely come to Shantipur
+and punish me with His own hand."
+
+**380.** Resolving thus in his mind, Advaita,
+abandoning dualism, propounds the doctrine of knowledge[^24-49].
+
+**381.** He instructs his disciples in the doctrine of knowledge;
+hearing this, Prabhu became angry at heart.
+
+**382.** Hearing [of it], Nityananda and Sri Gauranga Raya
+in great anger hurry to Shantipur.
+
+**383.** Hearing the doctrine of knowledge, Prabhu blazed up like fire,
+beat him with His own hand and threw him to the ground.
+
+**384.** Advaita says: "Prabhu, You are the guru of the world,
+the wish-fulfilling tree that fulfils the desires of devotees."
+
+**385.** Saying this, he bowed at Prabhu's feet,
+and Prabhu embraced him and held him to His heart.
+
+**386.** Prabhu says: "Those who have accepted the doctrine of knowledge —
+make them now followers of bhakti."
+
+**387.** Advaita preached the doctrine of bhakti to all his disciples;
+giving up the doctrine of knowledge, all practised bhakti.
+
+**388.** Kamadeva Nagara, Agala and Pagala,
+and also Shankara did not give up the doctrine of knowledge[^24-50].
+
+**389.** Shankara says: "We are followers of the doctrine of knowledge:
+without the doctrine of knowledge no one will attain perfection."
+
+**390.** Advaita says: "Give up the doctrine of knowledge."
+Shankara says: "If you can defeat [us] in debate,
+
+**391.** then we shall give up the doctrine of knowledge and accept bhakti;
+otherwise no one has the power to make us give it up."
+
+**392.** Advaita says: "Shankara, you have become a baul (madman);
+by your teaching all people will become aul (confused)[^24-51].
+
+**393.** Being obstinate against your guru, you have become offenders:
+never will you attain perfection."
+
+**394.** In anger Advaita rejected them;
+rejected, they went off to other lands.
+
+**395.** Those whom Nitai, Chaitanya, Advaita and the devotees rejected
+are counted as "tyagi" (rejected).
+
+**396.** Those whom the devotees of Krishna call guilty
+are great "tyagis" — know this for certain.
+
+**397.** Those offenders whose offence does not go
+are shown to be the foremost of all the rejected.
+
+**398.** Listen, listen, O hearers, with one mind:
+now I shall tell of Madhava, Advaita's disciple.
+
+**399.** I [have already] told Madhava's life briefly as best I could;
+in describing his sannyasa I repeat myself[^24-52].
+
+**400.** The noble Durgadasa of Srihatta
+came with his wife to Nadia and settled there.
+
+**401.** He had two sons, abodes of virtue:
+the elder was Sanatana, the younger was named Parashara.
+
+**402.** This brahmana Parashara was a great devotee of Kali,
+and everyone called him Kalidasa.
+
+**403.** Under the name Kalidasa he became known;
+his son Madhavadasa became an excellent pandita.
+
+**404.** When Prabhu manifested the Mahaprakasha in Srivasa's house,
+Madhavadasa was there at that time.
+
+**405.** Madhava heard Hari-nama from Prabhu's mouth,
+and his heart no longer wished to remain in worldly life.
+
+**406.** From Navadvipa he moved to Kuliya
+and day and night meditated on Chaitanya's lotus feet.
+
+**407.** He studied the shastras with Sri Advaita
+and became known in the world as Madhava Acharya.
+
+**408.** The Tenth Canto of the *Sri Bhagavata*
+he set out in songs in various metres,
+
+**409.** named the book *Sri Krishna-mangala*,
+and in Sri Kshetra offered it at Chaitanya's feet.
+
+**410.** Taking something also from other Puranas,
+he added it to the *Krishna-mangala*.
+
+**411.** Having read the book, Mahaprabhu showed him mercy
+and had Sri Advaita Prabhu give him initiation.
+
+**412.** Later he became famous as Kavivallabha Acharya;
+the world proclaims him "the Vyasa of Kali."
+
+**413.** He is counted in the group (yutha) of Vishakha;
+Madhava's siddha name is the sakhi Madhavi.
+
+**414.** Madhava received all of Advaita's grace,
+and the desire arose in him to become a sannyasi.
+
+**415.** How Madhava became a sannyasi, listen, O hearers:
+I shall describe it briefly.
+
+**416.** Sri Krishna Chaitanyachandra came from Nilachala
+and arrived in Gauda.
+
+**417.** "I shall go to Vrindavana by the road through Gauda" —
+this He announced to all.
+
+**418.** Having come to Gauda, Srila Prabhu Gaura Raya
+first goes to Panihati, to Raghava's house.
+
+**419.** From there He went to Kumarahatta
+and took His meals in the house of Srivasa Pandita.
+
+**420.** From there, having stayed in the houses of Vasudeva and Shivananda,
+Prabhu went to Shantipur.
+
+**421.** He took His meals in the house of Advaita Acharya,
+and from there went to Kuliya.
+
+**422.** He arrived at the house of Madhava Acharya
+and stayed seven days in his house[^24-53].
+
+**423.** For all seven days the residents of Navadvipa
+gaze at Gauranga, floating in an ocean of bliss.
+
+**424.** The joy of Madhava cannot be described:
+Madhava sinks and surfaces in the ocean of bliss.
+
+**425.** Great is Sri Chaitanya's mercy to Madhava:
+because of his devotion the Magnanimous One stayed seven days.
+
+**426.** Who can describe how many people
+came from Navadvipa through all those seven days!
+
+**427.** Having shown mercy to the residents of Navadvipa,
+Gauranga Sri Hari set out for Vrindavana.
+
+**428.** Mahaprabhu showed mercy to Rupa and Sanatana
+and turned back from Kanai Natashala.
+
+**429.** Seeing the crowds of people, He did not go to Vrindavana
+and quickly went to Nilachala.
+
+**430.** By the forest road Mahaprabhu went to Vrindavana —
+Krishnadasa Kaviraja has described it in detail.
+
+**431.** Hearing that Prabhu had gone to Vrindavana by the Jharikhanda road,
+Madhava became very dejected.
+
+**432.** Hearing that Prabhu had come back from Vrindavana to Nilachala,
+Madhava's mind went mad.
+
+**433.** Madhava's heart is not bound to worldly life;
+seeing this, Madhava's mother weeps aloud.
+
+**434.** To keep him at home,
+Madhava's mother hastily began arranging his marriage.
+
+**435.** Seeing his mother's preparations,
+Madhava then fled and went to Vrindavana.
+
+**436.** He took sannyasa from Paramananda Puri
+and learned bhajana from Rupa and Sanatana[^24-54].
+
+**437.** Grieving for her son, his mother gave up her life;
+hearing of it, Madhavadasa came to Shantipur,
+
+**438.** and then by way of Kheturi went again to Vrindavana
+and single-mindedly practised the sadhana [of service] to Radha and Krishna.
+
+**439.** Madhava Acharya loves me very much;
+I write his life with love in my heart.
+
+**440.** Whatever comes to mind at any time, that I write down;
+may the devotees not hold the repetitions against me.
+
+**441.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**442.** [There was a] Vaidika [brahmana] of the lineage of the sage Vatsya named Vishuddha Mishra;
+his son Madhu Mishra made his home in Srihatta.
+
+**443.** In the village of Baraganga, where brahmanas lived,
+Madhu Mishra married and stayed in that village.
+
+**444.** In time four sons were born to him, foremost among panditas:
+Upendra, Rangada, Kirti[da] and Kirtivasa[^24-55].
+
+**445.** Upendra Mishra's wife was named Kamalavati;
+seven sons were born to her, foremost among panditas:
+
+**446.** Kamsari, Paramananda and Jagannatha,
+Padmanabha, Sarveshvara, Janardana, Trailokyanatha.
+
+**447.** Jagannatha received the title of Mishra Purandara;
+coming to the bank of the Ganga, he settled in Navadvipa.
+
+**448.** Jagannatha Mahashaya is Nanda, the king of the cowherds,
+and Vasudeva came and joined in him[^24-56].
+
+**449.** A resident of Srihatta named Chandrashekhara
+became known by the name Acharyaratna.
+
+**450.** He settled on the bank of the Ganga;
+in his house Gauranga danced in the mood of the Devi.
+
+**451.** A resident of Srihatta, Nilambara Chakravarti,
+lives in Nadia on the bank of the Ganga.
+
+**452.** His house is in the village of Belpukhuria;
+two sons and two daughters were born to him.
+
+**453.** The first was Yogeshvara Pandita, the second Shachi,
+the third Ratnagarbha Acharya, the fourth is called Sarvajaya[^24-57].
+
+**454.** Everyone sings of Shachi Devi as Yashoda;
+as a [further] manifestation Sri Devaki is merged in her.
+
+**455.** Mishra Purandara married Shachi,
+Sri Chandrashekhara marries Sarvajaya.
+
+**456.** Eight daughters were born of Shachi and died;
+at last Vishvarupa was born.
+
+**457.** Baladeva was born as Vishvarupa;
+he received initiation from Ishvara Puri.
+
+**458.** Vishvarupa's younger brother is Nimai Pandita,
+known in the world by the name Sri Krishna Chaitanya.
+
+**459.** The son of Ratnagarbha Acharya was named Lokanatha;
+Vishvarupa resolved to take him along.
+
+**460.** As soon as he wished it, Lokanatha came to him;
+taking him, Vishvarupa went to the south.
+
+**461.** Having taken sannyasa, [Vishvarupa received] the name Shankararanya Puri;
+his maternal cousin Lokanatha became his disciple[^24-58].
+
+**462.** Lokanatha serves Vishvarupa;
+by providence Ishvara Puri arrived there.
+
+**463.** Vishvarupa bowed to Ishvara Puri
+and placed his own divine power in Puri.
+
+**464.** As it is said in the *Chaitanya-chandrodaya-nataka*, in the words of Kali:
+*"His elder brother, who took no wife — Lord Sankarshana, Vishvarupa on earth — having, it is said, placed his own splendour in Ishvara Puri, having earlier taken to the wandering life, disappeared."*[^24-59]
+
+**465.** Vishvarupa says: "Lord, this concentrated power —
+give initiation to Nityananda and place it in him."
+
+**466.** Saying this, Vishvarupa attained perfection (left the world),
+and Ishvara Puri went from there to another place.
+
+**467.** In Rarh there is a village called Ekachaka;
+in it lived [a brahmana] named Sundaramalla Nakadi Banduri.
+
+**468.** His son Mukunda was known as Hadai Ojha;
+the name of Hadai Ojha's wife was Padmavati.
+
+**469.** Hadai Pandita is a manifestation of Vasudeva,
+Padmavati in another manifestation is Devaki.
+
+**470.** Seven sons of great virtue were born to them;
+I shall tell their names — listen attentively:
+
+**471.** Nityananda, Krishnananda and Sarvananda,
+Brahmananda, Purnananda and Premananda,
+
+**472.** Vishuddhananda — these are the seven sons[^24-60].
+The eldest of all, Nityananda, is Balarama.
+
+**473.** Vishvarupa and Nityananda are one being (svarupa):
+Baladeva, through difference of manifestation, appears in two forms.
+
+**474.** Nityananda also had another name, Chidananda;
+Hadai Ojha gave it at Advaita's order.
+
+**475.** In household life he was known as Nityananda,
+in sannyasa his name is Nityananda Avadhuta.
+
+**476.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**477.** In the village of Ekachaka Prabhu Nityananda Raya
+always played with bliss in his heart.
+
+**478.** A certain sannyasi sees a dream:
+Balarama comes and speaks these words to him:
+
+**479.** "I am the son of Hadai Ojha, O best of sannyasis;
+in this incarnation My name is Nityananda.
+
+**480.** Give Me initiation, have Me accept sannyasa,
+and keep for Me the name Nityananda Avadhuta."
+
+**481.** Saying this, Balarama spoke a mantra into his ear:
+"This is the mantra you are to give Me."
+
+**482.** Saying this, Balarama disappeared;
+waking, the best of sannyasis sees that the night has turned to dawn.
+
+**483.** By providence that sannyasi came to Hadai Ojha's house
+and asked for Nityananda-svarupa as alms.
+
+**484.** That sannyasi's name was Ishvara Puri;
+giving Nityananda initiation, he made him a sannyasi[^24-61].
+
+**485.** He placed Vishvarupa's power in Nityananda:
+in the form of power Vishvarupa merged with Nitai.
+
+**486.** By the power of the sannyasi Nitai became an avadhuta
+and travelled to many holy places with Ishvara Puri.
+
+**487.** One day Ishvara Puri said:
+"I shall go to seek my guru, Madhavendra Puri.
+
+**488.** You travel to all the holy places
+and keep in mind a meeting with Madhavendra."
+
+**489.** Saying this, Ishvara Puri went away from there
+and came to Madhavendra Puri.
+
+**490.** Nityananda travels alone to all the holy places;
+by providence he met Madhavendra.
+
+**491.** A meeting with Ishvara Puri also took place;
+the joy that arose cannot be described.
+
+**492.** Sri Nityananda Raya, with bliss in his heart,
+always sees Madhavendra Puri as his guru;
+
+**493.** Madhavendra Puri towards Sri Nityananda
+always shows a friend's affection.
+
+**494.** For some days they stayed together in talks of Krishna,
+then they went their ways, each wherever he wished.
+
+**495.** Having travelled to all the holy places, Sri Nityananda Raya
+set out for Vrindavana with bliss in his heart.
+
+**496.** Wandering through the twelve forests, he searches for Krishna;
+again he met Ishvara Puri.
+
+**497.** Bowing down, he says: "Guru, where has Krishna gone?"
+Ishvara Puri says: "There where Navadvipa is:
+
+**498.** He has descended in Navadvipa from the womb of Shachi
+and performs Krishna-sankirtana to deliver the living beings."
+
+**499.** Hearing this, Nityananda Prabhu went to Navadvipa
+and met Sri Krishna Chaitanya.
+
+**500.** I have already described all these matters in brief[^24-62];
+finding an occasion, I have told them again in detail.
+
+**501.** O hearers, listen with contentment
+and do not hold this repetition against me.
+
+**502.** Whatever matters I did not write before,
+I have disclosed them in this detailed account.
+
+**503.** Listen, listen, O hearers, with one mind:
+I shall describe Prabhu's pastimes in Vanga (East Bengal).
+
+**504.** Vrindavana Dasa has described [them] at length;
+what remains I shall describe[^24-63].
+
+**505.** From Navadvipa Prabhu came to Vanga
+and, joyful at heart, stayed on the bank of the Padma.
+
+**506.** He displays pastimes of learning, [performs] sankirtana of the Name,
+and on the bank of the Padma draws Narottama[^24-64].
+
+**507.** After staying some days, Prabhu thought:
+"I must go to the land of Srihatta.
+
+**508.** Having seen My father's birthplace and My grandfather,
+I shall soon come back to the bank of the Padma."
+
+**509.** Thinking thus, Mahaprabhu set out for Srihatta
+and arrived at Faridpur on the bank of the Padma.
+
+**510.** From there He went to Nurpur in Vikramapura,
+and then visited Suvarnagrama.
+
+**511.** From there He came to the land of Egarasindur —
+a most charming town on the bank of the Brahmaputra.
+
+**512.** In that land the village of Betal is well known;
+by His grace the Merciful One came there.
+
+**513.** Near it is the village of Bhitadia,
+a seat of kulinas famed in many lands.
+
+**514.** There lives the brahmana Lakshminatha Lahiri,
+a supreme Vaishnava, surpassing all in virtues.
+
+**515.** In his house Prabhu took His meals
+and, because of his devotion, stayed two to four days.
+
+**516.** Lakshminatha says: "Prabhu, from the signs I see
+I understand that You are Narayana.
+
+**517.** O merciful Prabhu, be gracious:
+knowing me to be fallen, Prabhu, give me the shade of Your feet.
+
+**518.** I have no son — give me the blessing of a son,
+that he be a supreme pandita endowed with all virtues,
+
+**519.** a supreme devotee of Krishna, purifying the family,
+that by his virtues people's evil tendencies may be destroyed."
+
+**520.** Saying "So be it," Prabhu gave His blessing;
+hearing this, Lakshminatha's heart rejoiced.
+
+**521.** By that blessing a son was born — Rupa Narayana[^24-65].
+Hear, O devotees, the background of Lakshminatha.
+
+**522.** The excellent Padmagarbha Acharya, foremost among panditas —
+at the time when he was studying in Navadvipa,
+
+**523.** at that time there was a brahmana resident of Navadvipa,
+Jayarama Chakravarti, a man of very good character.
+
+**524.** Knowing [Padmagarbha] to be a kulina, he gave him a daughter
+and insisted on keeping him in his own house.
+
+**525.** Living in his father-in-law's house,
+he studied for several years in Navadvipa.
+
+**526.** A son of great virtue was born to him;
+they gave him the name Sri Purushottama.
+
+**527.** Leaving his wife and son in his father-in-law's house,
+Padmagarbha, eager to study, set out for Mithila.
+
+**528.** Having studied nyaya and other shastras in Mithila,
+he went with a joyful heart to Kashi.
+
+**529.** There he studies sankhya and the rest, mimamsa, vedanta,
+and with utmost eagerness studies the Vedas and other [scriptures].
+
+**530.** The guru of Madhavendra Puri, named Lakshmipati,
+lived in Kashi for a long time.
+
+**531.** That Padmagarbha Acharya, foremost among panditas,
+received initiation in the Gopala mantra from Lakshmipati.
+
+**532.** That Padmagarbha Acharya, the best of Krishna's devotees,
+composed a commentary on the *Krama-dipika*,
+
+**533.** wrote a commentary on the *Paingi-rahasya-brahmana*,
+and composed a dualist commentary on the Upanishads[^24-66].
+
+**534.** Having finished his studies, the noble Padmagarbha
+settled in his birthplace, Bhitadia.
+
+**535.** Coming to Bhitadia, he married twice more,
+and many sons were born — Lakshminatha Lahiri and others.
+
+**536.** Purushottama with his mother became a resident of Navadvipa;
+a treasury of virtues, he became a dear devotee of Chaitanya.
+
+**537.** Purushottama became very learned in many shastras;
+all know him by the title of Acharya.
+
+**538.** Seeing Chaitanya's sannyasa, he became as if mad,
+went to Varanasi and took sannyasa.
+
+**539.** In sannyasa his name is Svarupa Damodara,
+Prabhu's most intimate devotee, an ocean of rasa.
+
+**540.** If anyone brings a song, a book or a verse,
+Prabhu hears it [only] after Svarupa has examined it.
+
+**541.** His guru is Sri Chaitanyananda;
+with him he studied Vedanta and other shastras.
+
+**542.** The half-brother of that Svarupa Gosvami
+is Lakshminatha Lahiri — listen, all you hearers[^24-67].
+
+**543.** That Lakshminatha is a devotee and foremost among panditas;
+for four days Prabhu rested in his house.
+
+**544.** Having blessed Lakshminatha, Prabhu Gaurahari
+after some days came to Srihatta.
+
+**545.** Prabhu arrived at the village of Baraganga
+and bowed to His grandfather, Upendra Mishra.
+
+**546.** From the introduction he learned it was his grandson;
+His grandmother came there too.
+
+**547.** Prabhu bowed to His grandmother
+and rested there for some days.
+
+**548.** There Prabhu performed a wondrous deed,
+and seeing it His grandfather was amazed.
+
+**549.** Upendra Mishra, in order to copy the *Chandi*,
+had collected many palm leaves.
+
+**550.** Prabhu is sitting near His grandfather;
+Upendra Mishra writes the first verse on a palm leaf.
+
+**551.** Then Upendra Mishra's wife came
+and took Upendra Mishra into the inner apartments.
+
+**552.** She says: "My lord, I have seen a wonderful dream:
+this son of Jagannatha is Narayana Himself."
+
+**553.** Mishra says: "Dear, this is true:
+in His appearance and nature are the signs of Ishvara."
+
+**554.** Kamalavati says: "My lord, to tell this dream
+I have called you to a private place."
+
+**555.** Mishra says: "Dear, do not disclose this;
+feed Gauranga with devotion."
+
+**556.** Saying this, Upendra Mishra went to the outer apartments
+and saw the *Chandi* copied out in full.
+
+**557.** "Jagannatha's son Gaura is Ishvara Himself:
+otherwise who could copy the *Chandi* in a moment?"
+
+**558.** Thinking thus, Upendra Mishra Mahashaya
+took Gauranga into the inner apartments.
+
+**559.** His grandmother gave Him a sweet jackfruit;
+Prabhu ate it and was very pleased.
+
+**560.** His grandmother says: "Child, You are Narayana:
+You appeared to me in a dream.
+
+**561.** That sweet form remains fixed in my heart;
+show me, show me that form — let me see it again."
+
+**562.** Showing mercy to His devotees, Prabhu Gaura Raya
+shows the two of them His sweet form.
+
+**563.** Seeing the form, both steadied their minds
+and, assuming the bodies of associates, went to the eternal abode[^24-68].
+
+**564.** Having shown mercy to His grandmother and grandfather,
+Sri Gauranga Raya goes to the bank of the Padma.
+
+**565.** Staying there, Prabhu displays pastimes of learning,
+performs sankirtana of the Name, manifests His power.
+
+**566.** The people of Vanga are very fortunate:
+men and women together sing sankirtana.
+
+**567.** Prabhu showed great mercy to the people of Vanga,
+and all understood that Gaura is Ishvara Himself,
+
+**568.** Svayam Bhagavan Krishna — how could it be otherwise?
+Hearing this, the great sinners are pained at heart.
+
+**569.** All those who are averse [to the Lord] do not accept Chaitanya
+and establish their own divinity.
+
+**570.** All people are devoted to Sri Chaitanyadeva
+and constantly sing of Him as Ishvara.
+
+**571.** Seeing this, some great sinners
+each establish their own divinity.
+
+**572.** Proclaiming themselves Ishvara,
+in the guise of Krishna they ruin people, going about Rarh and Vanga.
+
+**573.** A brahmana named Vasudeva, a great villain,
+commits great outrages in Rarh, the sinner.
+
+**574.** He says: "I am Ishvara, Gopala, the son of Nanda";
+hearing this, all people call him "Shiyal" (Jackal).
+
+**575.** This great sinner was rejected by Mahaprabhu
+and disowned by Mahaprabhu's devotees.
+
+**576.** Another sinner, a kayastha named Vishnudasa,
+displays "his power" in Vanga.
+
+**577.** He says: "I am Raghunatha, [come] from Vaikuntha,
+appeared on earth to deliver the world.
+
+**578.** Hanuman, Angada and all the lords of monkeys —
+all are my devotees, as everyone knows."
+
+**579.** The villain ruins people with all kinds of tricks;
+he got the name "Kapindri" ("Monkey-lord").
+
+**580.** This Kapindri was rejected by Mahaprabhu
+and disowned by Mahaprabhu's devotees.
+
+**581.** A brahmana named Madhava, the pujari of a certain king,
+stole the ornaments of the Sri Vigraha,
+
+**582.** went off somewhere to a cowherds' settlement
+and began serving as priest to the milkmen.
+
+**583.** The lustful sinner, dressing there as "Chudadhari" ("the crest-wearer" [like Krishna]),
+has himself sung of as Krishna-Narayana.
+
+**584.** He says: "I, Chudadhari, am Krishna-Narayana:
+whoever worships me will go to the abode of Vaikuntha."
+
+**585.** The cowherd men and women are wholly under his sway;
+with the cowherd men and women he constantly dances and sings.
+
+**586.** Dressed as "Chudadhari," he plays "pastimes" with the milkmaids,
+and so became famous under the name Chudadhari.
+
+**587.** With the women of chandalas and other low castes,
+under the pretext of Krishna's lila, he has relations.
+
+**588.** One day Madhava, taking women with him,
+came boldly to Nilachala.
+
+**589.** Madhava, dressed as Chudadhari, together with the women
+came to Mahaprabhu's sankirtana.
+
+**590.** Prabhu says: "What Chudadhari is this who has come,
+playing 'pastimes' with women, destroying dharma?
+
+**591.** O devotees, this Chudadhari has fallen from dharma:
+whatever land he lives in, that land will be ruined.
+
+**592.** Do not look upon the face of this fallen offender;
+drive him quickly out of Purushottama."
+
+**593.** Hearing this, the devotees drove him out,
+and Chudadhari fled to Vanga[^24-69].
+
+**594.** Wicked men who think themselves Ishvara the servants of Yama
+will make suffer in hell as long as the moon and sun [shine].
+
+**595.** The sinner who calls anyone but Sri Chaitanyachandra Ishvara
+will go to hell.
+
+**596.** In the *Chaitanya-bhagavata* Sri Vrindavana Dasa
+has revealed this in the form of a brief sutra.
+
+**597.** As it is said in the *Chaitanya-bhagavata*[^24-70]:
+*"From time to time certain sinners come
+and ruin people by making them accept themselves [as God].
+To fill their bellies, all these sinners —
+one calls himself Raghunatha;
+another great sinner, abandoning Krishna-sankirtana,
+has himself sung of as Narayana.
+How many ghosts have themselves sung of:
+abandoning Krishna-sankirtana — the singing of ghosts!
+I have seen day after day what becomes of them;
+with what shame does that wretch have himself sung of?
+In Rarh there is yet another brahma-daitya (brahmana-demon):
+inwardly a rakshasa, a brahmana only in dress;
+that sinner calls himself Gopala —
+therefore all call him 'Shiyal' (Jackal).
+Whoever calls anyone but Sri Chaitanyachandra Ishvara
+is base, worthless and to be pitied."*
+
+**598.** Having searched out all the deeds of these wicked ones,
+I have disclosed them along with their names, having received my guru's order.
+
+**599.** This has become a gloss and commentary on the sutra of Vrindavana [Dasa]:
+let no one ever associate with the rejected.
+
+**600.** Through association with the wicked everything people have is destroyed;
+the rejected are never fit for association.
+
+**601.** As it is said in the *Sri Bhagavata*:
+*"One should never associate with the wicked who satisfy only the genitals and the belly: whoever follows such a one falls into blind darkness, like a blind man led by the blind."*[^24-71]
+
+**602.** These wicked men perform the rasa and similar pastimes,
+which the *Sri Bhagavata* forbids.
+
+**603.** As it is said in the *Sri Bhagavata*:
+*"One who is not a controller should never do this even in thought: whoever does it out of folly perishes, as [one other than] Rudra [would perish by drinking] the poison born of the ocean."*[^24-72]
+
+**604.** Dressed as Chudadhari, [this] sinner went with low-caste women
+and became an outcaste (apankteya) for brahmana society.
+
+**605.** Whoever accepts gifts from low castes and eats their food,
+or goes with a low-caste woman —
+
+**606.** [doing so] unknowingly falls, and knowingly becomes equal to them:
+this is seen in the law-book of Manu.
+
+**607.** As it is said in the *Manu-smriti*:
+*"A brahmana who has gone with women of chandalas and low castes, eaten [their food] and accepted [their] gifts, falls if unknowingly, and if knowingly becomes equal to them."*[^24-73]
+
+**608.** The pujari Madhava Chudadhari is a sinful soul[^24-74];
+hear more about him, honoured hearers.
+
+**609.** He calls himself Krishna, has the ghosts sing of him:
+abandoning Krishna-sankirtana — the singing of ghosts.
+
+**610.** Singing "tiger songs," he goes from house to house[^24-75]
+and, dressed as Krishna, seduces low-caste women.
+
+**611.** He is a disciple of Jackal Vasudeva;
+the wicked man was born in the vamshaja family of Bandyaghati of the Shandilya gotra.
+
+**612.** Thus I have briefly told of Prabhu's pastimes in Vanga;
+now I begin to describe Nityananda's marriage.
+
+**613.** One day Prabhu Nityananda Rama says:
+"I shall marry — listen, devotees."
+
+**614.** Pandita Krishnadasa Hod in joy
+brings Nityananda to his house in Dogachhia.
+
+**615.** A worry arose in their minds: who will give [a daughter] to a sannyasi?
+At that moment Uddharana Datta arrived,
+
+**616.** the best of devotees, Uddharana Datta of the goldsmith-merchant [caste],
+whose food cooked in ghee Nitai eats.
+
+**617.** Uddharana says: "The noble Suryadasa Sarakhel
+has two very beautiful daughters.
+
+**618.** When I learned of the intention to marry,
+I went to Suryadasa.
+
+**619.** When I made the proposal of marriage,
+Suryadasa at once flared up in anger.
+
+**620.** By Prabhu's power Suryadasa will become softer than clay:
+manifest your power in proper fashion."
+
+**621.** In such conversation the day passed;
+the next day Suryadasa Sarakhel came.
+
+**622.** Prabhu says: "This is King Kakudmi[^24-76];
+I shall marry his two daughters."
+
+**623.** Coming there, Suryadasa bowed to Nitai
+and began to tell his dream:
+
+**624.** "I saw in a dream Balarama-Nityananda:
+He entered into union with my two daughters.
+
+**625.** I gave Him both daughters,
+and the daughters, receiving a sannyasi as husband, were content."
+
+**626.** Having told the dream, Surya rejoiced
+and took Nityananda Rama to Shaligrama.
+
+**627.** Arriving home, they see that a daughter has died:
+a venomous snake has bitten her.
+
+**628.** Seeing his dead daughter, Surya weeps;
+smiling, Nityananda gave her back her life.
+
+**629.** That daughter's name was Vasudha,
+and her younger [sister] is called Jahnava.
+
+**630.** [Suryadasa] gave both daughters to Nityananda;
+Suryadasa, [formerly] of low kula, gained honour[^24-77].
+
+**631.** By Nityananda's grace he became respected in brahmana society;
+becoming Nityananda's disciple, he made his family glorious.
+
+**632.** Vasudha [Prabhu] took in marriage according to the rite,
+and the younger, Jahnava, Prabhu accepted as dowry[^24-78].
+
+**633.** Marriage for a sannyasi is forbidden by the shastras,
+but by the will of Rama-Nityananda it came to pass.
+
+**634.** A sannyasi who becomes a householder is called "one who keeps the cat's vow,"
+and a sannyasi who knows a woman is certainly an "avakirni."
+
+**635.** One who falls from lifelong brahmacharya (naishthika)
+has no atonement: he is counted as fallen.
+
+**636.** The virtuous do not perform sacrifice, study, marriage and the like with him;
+whoever touches him must perform the chandrayana vow.
+
+**637.** As said by Hemadri in the *Shraddha-kalpa*, [quoting] Yama:
+*"Whoever, having entered the ashrama of the yatis, falls back from it again, destroying the dharma of the yati — that vow is called 'the cat's vow.'"*
+In the same place, Devala:
+*"One under a vow who approaches a woman is called an avakirni."*[^24-79]
+
+**638.** [In] Shankara's commentary on the *Brahma-sutra*:
+*"But in both cases [they are] outside, according to smriti and custom. Whether the falling of those vowed to chastity from their ashramas be a great sin or a minor one, in both cases they must be kept outside by the virtuous. 'One who, having taken up the naishthika dharma, falls from it again — for that slayer of the self I see no atonement by which he might be purified'; 'having touched a brahmana fallen from his vow, one expelled from the circle [of the community], one who has hanged himself or one bitten by worms, one should perform the chandrayana' — because of these and similar smritis condemning [them] most strongly, and because of the custom of the virtuous. For the virtuous do not perform sacrifice, study, marriage and the like with them."*[^24-80]
+
+**639.** A dog that eats [its own] vomit is called "vantashi" ("eater of what is vomited");
+a sannyasi who has become a householder is surely like it.
+
+**640.** Therefore all call him "vantashi";
+his offspring too bear the taint of "vantashi."
+
+**641.** The virtuous shun them all:
+far from marriage, they are not even fit to be touched.
+
+**642.** Humans and others are tainted by such faults,
+but in one favoured by Ishvara no fault arises.
+
+**643.** As it is said in the *Sri Bhagavata*:
+*"For the mighty it is no fault, as for fire, which consumes everything."*[^24-81]
+
+**644.** What more can be said of Ishvara Himself!
+He has no connection at all with maya or with what is born of maya.
+
+**645.** Rama-Nityananda is Ishvara Himself:
+injunctions and prohibitions have no relation to Him[^24-82].
+
+**646.** His offspring are portions of Ishvara, gurus of the world,
+protectors of the world, wish-fulfilling trees.
+
+**647.** Although the fault of "vantashi" is not in them,
+still the kulacharyas vainly call [them] "virabhadri."[^24-83]
+
+**648.** Nityananda Prabhu, taking Vasu and Jahnava,
+lived joyfully in Khardaha.
+
+**649.** First seven sons were born to Nityananda;
+from Abhirama's obeisances all seven died.
+
+**650.** The last son is Virabhadra, named Virachandra,
+a vyuha of Sankarshana, whose abode is the Milk Ocean.
+
+**651.** A daughter named Ganga was born — [the goddess] Ganga Devi;
+the daughter too did not die from Abhirama's obeisance.
+
+**652.** Abhirama dances and says: "[He] is a portion of Ishvara;
+the world will be delivered — I know it for certain."[^24-84]
+
+**653.** Prabhu Virabhadra is an avatara of Ishvara;
+by his mercy the world was delivered.
+
+**654.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**655.** Saptagrama, Shiludi and Sitahati,
+Nanyapur, Jhamatpur and Naihati —
+
+**656.** all these villages are on the bank of Sri Ganga,
+all these villages lie near Katwa.
+
+**657.** A resident of Nanyapur is Bhagiratha Acharya [of the] Chatta [family];
+now hear his background, O best of devotees.
+
+**658.** Aravinda's son was Ahita, his son was Dvakara,
+Dvakara's son was Chattamanu Mahashaya.
+
+**659.** Chattamanu's son was Duryodhana,
+his son Chand Chatta, his son Tapana.
+
+**660.** His son was Haridasa Chatta Mahashaya;
+his son's name is Gauridasa.
+
+**661.** Gauridasa's other name is Bhagiratha;
+by many wives many children were born to him.
+
+**662.** Ramachandra, Mahesha, Krishna are the children of one wife;
+Shiva and Vishveshvara, two, another wife bore;
+
+**663.** Srinatha and Sripati were born of a third wife;
+Srinatha has the title of Ghatakacharya.
+
+**664.** I have already told of Madhava Chatta:
+Madhava is Bhagiratha's adopted son[^24-85].
+
+**665.** Srinatha's mother raised him;
+Madhava became Srinatha's third brother.
+
+**666.** Madhava became Bhagiratha's beloved son;
+Nityananda gave him his daughter Ganga.
+
+**667.** Marriage of a disciple with his guru's daughter is forbidden by the shastras,
+but by Nityananda's order it came to pass.
+
+**668.** As it is said in the *Mahabharata*, in the *Adi-parva*:
+*"As [Kacha] was departing for the abode of the gods, Devayani said this: 'Take my hand according to the rite, with mantras.'"*
+
+**669.** Kacha said:
+*"You, good lady, are by dharma always to be honoured by me as my guru's daughter: as your father Shukra, my guru, is ever to be honoured by me, so are you, Devayani; you should not speak to me thus. Considering you my guru's daughter, I refuse — not because of any fault [in you]."*[^24-86]
+
+**670.** In the *Matsya-sukta*:
+*"[Marriage] is forbidden with [those of] the same pravara, with the offspring of a disciple and with the offspring of the guru who gave [the knowledge of] Brahman."*[^24-87]
+
+**671.** The greatness of Ishvara cannot be understood:
+by the will of Ishvara the impossible comes to pass.
+
+**672.** In Nanyapur is the house of Bhagiratha Chatta;
+Madhava Acharya went and lives in Nanyapur.
+
+**673.** Madhava Chatta is tainted by the fault of "virabhadri,"
+and moreover by marriage to his guru's daughter.
+
+**674.** Seeing these and other faults, Devi[vara] Mahashaya
+proclaims Madhava a kulina of the Khardaha mela.
+
+**675.** By Devi[vara]'s order he became a foremost kulina;
+his sons later pass over to Dasharatha:
+
+**676.** in the mela of Dasharatha Ghataki they became kulinas;
+compared with Khardaha, [the mela] of Dasharatha is lower[^24-88].
+
+**677.** Madhava settled in Nanyapur,
+staying at times in Khardaha.
+
+**678.** In Nanyapur many kulinas live —
+a most charming place, an abode of panditas.
+
+**679.** Madhava lives in Jirat and Balagarh,
+and sometimes rests in Katwa.
+
+**680.** Hear, O hearers, of Madhava's nature:
+in him King Shantanu and Madhuspanda united;
+
+**681.** a manifestation of the sakhi Madhavi also joined him —
+the three, uniting, have now become Madhava Pandita[^24-89].
+
+**682.** Through another manifestation of Madhavi there is another Madhava Pandita,
+who composed the songs of the *Sri Krishna-mangala*.
+
+**683.** Of that Madhava I have already told:
+he is a disciple of Advaita and a favourite of Mahaprabhu.
+
+**684.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**685.** One day Virabhadra, in order to receive initiation,
+set out for Shantipur, to Advaita.
+
+**686.** Putting musicians and many people into a boat,
+he goes joyfully to receive a mantra.
+
+**687.** Hearing the music, Sri Jahnava
+asked Abhirama the reason.
+
+**688.** Abhirama says: "Virabhadra Mahashaya
+is going to Shantipur, to Advaita's house:
+
+**689.** with the hope in his heart of receiving initiation
+Virabhadra has set out with great pomp."
+
+**690.** Then Sri Jahnava said to Abhirama:
+"Bring Virabhadra back at once.
+
+**691.** Let him go to Shantipur with his mother's permission —
+tell Vira this, Abhirama."
+
+**692.** Receiving the order, Abhirama hurries;
+the noble one sees the boat moving away swiftly.
+
+**693.** Calling and calling, he could not turn the boat back,
+and with a shout he hurled his flute at the boat.
+
+**694.** From the blow of the flute the boat split and sank;
+all the people swam ashore.
+
+**695.** Having swum ashore, Virabhadra says:
+"Why did you break the boat, Rama Mahashaya?"
+
+**696.** Abhirama says: "Listen, Prabhu Vira:
+go to Shantipur with your mother's permission.
+
+**697.** Bow to your mother and, taking her permission,
+go to Shantipur and receive the mantra from Advaita."
+
+**698.** Hearing this, Prabhu Virabhadra was ashamed:
+"To go without telling my mother is improper."
+
+**699.** Saying this, Virabhadra goes to his mother;
+Srila Jahnava Devi is engaged in worship.
+
+**700.** At that moment there was no cloth on her head,
+when her grown son Virabhadra came.
+
+**701.** With joined hands Jahnava Ishvari offers prayers,
+and with two other hands draws the cloth over her head.
+
+**702.** Seeing her four-armed, Vira prostrated himself fully
+and bowed down, rolling long on the ground.
+
+**703.** Vira says: "Mother, give me initiation;
+I shall no longer go to Shantipur for initiation."
+
+**704.** Hearing this, Jahnava gave him initiation.
+Thus I have described Prabhu Vira's initiation[^24-90].
+
+**705.** Listen, listen, O hearers, with one mind:
+I shall tell of the appearance of the image of Sri Shyamasundara.
+
+**706.** Virachandra Gosani Prabhu is an avatara of Ishvara;
+all his efforts are for the deliverance of living beings.
+
+**707.** Giving Hari-nama, he delivers fallen people,
+making no distinction between Hindu and Muslim.
+
+**708.** Seeing his power, people are amazed.
+One day he went to the gate of the padishah of Gauda.
+
+**709.** All say: "Huzur, this is a wise pandita,
+he knows great fakir-craft, he is a great fakir."
+
+**710.** The padishah with great courtesy
+joyfully gave him a seat.
+
+**711.** The padishah says: "You are a good fakir;
+eat in my house today."
+
+**712.** Hearing this, Prabhu Virabhadra smiles softly:
+"By eating in a yavana's house a Hindu loses his caste.
+
+**713.** But if you give me your own dish,
+I shall surely eat it — this I tell you."
+
+**714.** Hearing this, the padishah laughed:
+"Cook, bring the dish quickly!"
+
+**715.** Receiving the order, the cook brings an excellent dish,
+tied up in a clean cloth.
+
+**716.** The Gosani says: "Quickly untie the dish."
+The cook untied it — the padishah sees flowers:
+
+**717.** jati and yuthi jasmine, malati, bel, bakula,
+roses smeared with sandal — and swarms of bees come.
+
+**718.** In this way the dish was brought three times,
+and each time they saw all kinds of flowers in it.
+
+**719.** The padishah says: "The Gosani is the foremost of fakirs;
+Thakura, take whatever gift you wish."
+
+**720.** The Gosani says: "A precious stone, the 'teluya stone,'
+adorns your gate, glittering.
+
+**721.** I wish to take it" —
+says the Gosani — "with it I shall have a beautiful Deity carved."
+
+**722.** The padishah prised out the stone and gave it to Virachandra;
+taking the stone, Vira went to Khardaha.
+
+**723.** From that stone he had the image of Shyamasundara carved;
+seeing it, all people were freed from all their sorrows.
+
+**724.** He held a great festival and invited the Vaishnavas;
+all the associates of Chaitanya came.
+
+**725.** Advaita's son, the merciful Sri Achyutananda Mahashaya,
+performed the installation and abhisheka of the image.
+
+**726.** All these matters I have recorded
+in great detail in the *Virachandra-charita*[^24-91].
+
+**727.** From the stone left over after carving Shyamasundara
+two charming images were carved:
+
+**728.** the image of Sri Nanda-dulala resides in Svamibana,
+and in Vallabhapura Vallabhaji is installed[^24-92].
+
+**729.** Listen, listen, O hearers, with one mind:
+I shall describe Virabhadra's marriage.
+
+**730.** A resident of Jhamatpur, Sri Yadunandana,
+had two very beautiful daughters:
+
+**731.** the elder Srimati, the younger Narayani,
+blessed in beauty, virtue and character, enchanting the world.
+
+**732.** That fortunate brahmana, of the Pippali family,
+gave both daughters to Prabhu Virabhadra.
+
+**733.** In the *Virachandra-charita* I have described
+this wedding in great detail with joy in my heart[^24-93].
+
+**734.** Virachandra has one daughter and three sons;
+I shall tell all their names:
+
+**735.** the eldest is Gopijanavallabha, the middle Ramakrishna,
+the youngest Ramachandra, excellent in every way.
+
+**736.** The daughter's name is Bhuvanamohini;
+her husband is Parvatinatha Mukhuti of Phulia.
+
+**737.** Listen, listen, O hearers, with one mind:
+hear what I shall now tell.
+
+**738.** [There was] a shrotriya brahmana named Ratneshvara;
+he had two daughters, great beauties.
+
+**739.** One daughter he gave to the kulina Hari Mukhuti,
+the other daughter he gave to the vamshaja Sarvananda Banduri.
+
+**740.** Hari's son was called Yogeshvara Pandita,
+Sarvananda's son was called Vidyadhara.
+
+**741.** Vidyadhara's name later became Devivara;
+it was he who divided the kulinas according to their "faults."
+
+**742.** Listen, listen, O hearers, with one mind:
+I shall describe something of these events.
+
+**743.** One day Yogeshvara, wandering about,
+comes at midday to Devivara's house.
+
+**744.** Devivara was elsewhere at that time;
+Yogeshvara went and bowed to his aunt.
+
+**745.** His aunt says: "Son, bathe quickly:
+the meal is ready, as you see."
+
+**746.** Yogeshvara says: "Auntie, it is not fit to say,
+but if I eat your rice, the honour of my kula will be lost.
+
+**747.** We are kulinas, and you are lower in kula;
+if I eat your rice, my kula will be diminished."
+
+**748.** Saying this, Yogeshvara took his leave,
+and Devivara's mother began to weep.
+
+**749.** Yogeshvara went away from there,
+and then Devivara arrived.
+
+**750.** Bowing to his mother, Devivara says:
+"Why are you weeping, mother? Tell me everything."
+
+**751.** His mother says: "Son, it is not fit to say:
+if a nephew eats his aunt's rice, he loses his caste!
+
+**752.** Yogeshvara, my sister's son, came here;
+he did not eat and spoke harsh words to me.
+
+**753.** Yogeshvara said: 'Auntie, you are lower in kula;
+if I eat your rice, my kula will be diminished.'"
+
+**754.** Saying this, Yogeshvara, without eating,
+went away to his own house.
+
+**755.** Hearing this, Devivara said to his mother:
+"We are not kulinas — that is why Yogeshvara did not eat."
+
+**756.** In anger and grief Devivara's mother rebuked her son:
+"What need had I of a bad son like you?
+
+**757.** If Yoga falls at my feet and eats my rice —
+if you accomplish this, son, then I shall call you son.
+
+**758.** O Vidyadhara, I have suffered humiliation;
+I tell you truly: I shall not live."
+
+**759.** Devivara says: "Mother, do not worry at all:
+by your grace, mother, everything will be accomplished."
+
+**760.** Saying this, Devivara went to perform austerities
+and received the desired blessing from the Devi.
+
+**761.** The Devi says: "Listen, listen, O Vidyadhara:
+here is the blessing you desire:
+
+**762.** whatever you say of anyone within twelve dandas[^24-94],
+that will come true — know this for certain."
+
+**763.** By the Devi's blessing Vidyadhara received the name Devivara ("blessed by the Devi");
+he determined the honour of the families according to their "faults."
+
+**764.** Having received the blessing, Devi[vara] investigates the families:
+he sees the kulinas "sunk in evil deeds" (ku-karye lina)[^24-95].
+
+**765.** In the great kulinas he sees faults, great and greater:
+"By the faults I shall firmly fix the kulas."
+
+**766.** He sees that many kulinas, full of faults,
+have become "unfit" (achala) in society.
+
+**767.** Having searched out all the great faults,
+he established the kulas according to the faults.
+
+**768.** By what faults he established kulinism —
+some of this I shall show.
+
+**769.** Srinathai Chatuti had two daughters;
+they went to Dhandha ghat to fetch water.
+
+**770.** A Muslim named Hasai Khandar
+violated the chastity of both daughters[^24-96].
+
+**771.** One daughter is married by Paramananda Putitunda,
+the other daughter is married by Gangavara Bandya.
+
+**772.** This Devivara calls the fault of "dhadha."
+Now I shall tell of the fault of "nadha."
+
+**773.** The Banduris of Nadha were vamshajas;
+Manohara Mukhuti married there
+
+**774.** and for that reason became a vamshaja;
+[but] Devivara abolished his vamshaja status.
+
+**775.** A vamshaja is an enemy of the kula, unfit to sit with in a row;
+by his touch the shraddhas and other rites for the ancestors are spoiled.
+
+**776.** The original vamshajas were without the Vedas;
+they are counted as non-brahmanas, and [connection with them] diminishes the kula.
+
+**777.** Those brahmanas who associated with them
+were counted among the vamshajas.
+
+**778.** O hearers, listen attentively:
+now I shall tell how vamshaja status was abolished.
+
+**779.** To preserve Manohara's kulinism,
+Devi[vara] makes the Banduris of Nadha "mashachatakas":
+
+**780.** they became shrotriyas [of the rank of] "masha-chataka";
+this Devivara called the fault of "nadha."[^24-97]
+
+**781.** Shivacharya, nephew of Gangananda Mukhuti,
+married a saptashati girl from Mulukjuri and became rejected.
+
+**782.** This Devivara calls [the fault of] "mulukjuri."
+[Now] about the fault of "virabhadri" — listen, honoured hearers.
+
+**783.** The offspring of a sannyasi are called "vantashi";
+this fault is imputed to Nitai's offspring as well.
+
+**784.** All know that Hadai Pandita was a vamshaja,
+and all know that his gain (the "village" designation of the family) is Bandyaghati.
+
+**785.** These two faults are known under the name "virabhadri";
+the ghatakas ceaselessly speak of the fault of "virabhadri."[^24-98]
+
+**786.** Nityananda's daughter was married by Madhava Chatta,
+Virabhadra's daughter was taken by Parvati Mukhuti.
+
+**787.** To preserve their kula,
+Devivara calls Virabhadra "Batavyal."
+
+**788.** Prabhu Virabhadra's son, Srila Ramachandra,
+sits in Devivara's assembly like Indra himself;
+
+**789.** seeing this, [Devivara] calls Virabhadra "Batavyal" —
+that is why Ramachandra became a Batavyal.
+
+**790.** Prabhu Gopijanavallabha and Ramakrishna
+never came to Devivara's assembly:
+
+**791.** they remained vamshajas with the gain Bandyaghati.
+[Thus arose] these two [designations], Batavyal and Banduri[^24-99].
+
+**792.** Through the faults of "nadha," "dhadha," "mulukjuri," "virabhadri" and others
+Devi[vara], laughing, created the Phulia mela.
+
+**793.** Garagari, Pippalai and Dingsai —
+[of them] I inform the kulinas that they are vamshajas.
+
+**794.** By accepting gifts from the unworthy and officiating for those unfit,
+they became outcastes — all know this.
+
+**795.** By giving their daughters to kulinas they become shrotriyas,
+but for true kulinas they remain unfit to sit with in a row.
+
+**796.** Yogeshvara's father, Hari, took a daughter of Garagari,
+Yogeshvara marries a daughter of Pippalai.
+
+**797.** Madhu Chatta marries a daughter of Dingsai;
+receiving the fault of "dindi," Madhu became tainted.
+
+**798.** Previously Dingsai had not given daughters to kulinas;
+Madhu Chatta was the first to marry [his daughter].
+
+**799.** Therefore Madhu Chatta became unfit in society,
+and Yogeshvara Pandita gives him a daughter.
+
+**800.** By these and many other faults Devi[vara] proclaims the Khardaha mela,
+whose original root is Yogeshvara Pandita.
+
+**801.** Remembering his mother's words, the ghataka Devivara
+loudly pronounces this verse in the assembly:
+
+**802.** *"If a hare had horns, if there were a flower in the sky, if a barren woman had a son — then Yogeshvara would have kula (or: then Yogeshvara has no kula)."*[^24-100]
+
+**803.** Devivara, keeping in mind the [double] sense, "kulam" and "akulam,"
+cleverly keeps the promise [made] to his mother.
+
+**804.** Hearing the verse, Yogeshvara — as if thunderstruck —
+hurries and falls at his aunt's feet:
+
+**805.** "Auntie, feed me [even] water-soaked rice[^24-101];
+ask Devi[vara] and save my kula."
+
+**806.** Hearing Yoga's words, his aunt was pleased
+and, calling [her son], told him to give Yogeshvara kula.
+
+**807.** Hearing his mother's words, Devi[vara] said, laughing:
+"Then the meaning is 'Yogeshvara has kula.'"
+
+**808.** Devivara kept his promise to his mother,
+and by his aunt's grace Yogeshvara obtained kula.
+
+**809.** Devivara's tantric guru, Chatta-Shobhakara,
+sits in the assembly on a high seat:
+
+**810.** "I am Devivara's guru, the eldest of all;
+seeing me, Devi[vara] will make [me] the highest."
+
+**811.** Seeing [such] impropriety, Devi[vara] grew angry;
+no virtuous brahmana was pleased.
+
+**812.** Devi[vara] divided all the kulinas according to their faults:
+seeing whose faults were alike, he divided them into thirty-six melas.
+
+**813.** Having finished the work within twelve dandas,
+he cast his eyes on his guru Shobhakara.
+
+**814.** Devivara made Shobhakara "without kula,"
+and by Shobhakara's curse Devi[vara] was left without descendants.
+
+**815.** Shobhakara and Devivara are guru and disciple;
+hear now, O hearers, the words of both.
+
+**816.** Calling out, Devivara says: "Shobhakara is without kula!"
+Calling out, Shobhakara says: "Devivara is without descendants!"
+
+**817.** "Shobhakara without kula, Devivara without descendants" —
+these words spread through the assembly.
+
+**818.** When these words had been spoken in the assembly,
+the assembly broke up, and all went to their homes.
+
+**819.** Devivara conceived a hatred for Shobhakara
+and came to take shelter at Virabhadra's feet.
+
+**820.** Seeing [the truth of] Vaishnava dharma and hearing the shastras,
+Devi[vara] received initiation [in the mantra] of Krishna from Virabhadra.
+
+**821.** Having become a Vaishnava, Devi[vara] said again and again:
+"There is no dharma higher than Vaishnava dharma."[^24-102]
+
+**822.** Listen, listen, O hearers, with one mind:
+hear the genealogies of Advaita and Nityananda.
+
+**823.** Narayana Bhatta, of the Shandilya gotra, was versed in the four Vedas (chaturvedi);
+his son is Adivaraha, as all know.
+
+**824.** His son is Vainateya, his son Subuddhi;
+[the son] of Subuddhi is Vibudhesha, his son Guha.
+
+**825.** Guha's son is Gangadhara, his son Suhasa,
+his son Shakuni, who studied all the shastras.
+
+**826.** His son Maheshvara became a kulina;
+his son is Mahadeva, expert in the shastras.
+
+**827.** Mahadeva's son is Tiku, his son Nengura;
+Nengura has many sons, excellent panditas:
+
+**828.** Ganga, Soma, Sidhu, Lakhai, Mihira.
+Mihira gave his daughter to a vamshaja:
+
+**829.** his kula was lost, he became unfit in society.
+Mihira's son is Bhaskara, a mighty pandita.
+
+**830.** All called him a vamshaja;
+no one ate with him.
+
+**831.** Bhaskara's son was named Pushkara;
+his son Srishtidhara, his son Maladhara.
+
+**832.** Maladhara's son was named Vrishaketu;
+his son is Chandraketu, know this for certain.
+
+**833.** Chandraketu's son was named Sundaramalla Nakadi Banduri;
+his son is Hadai Ojha, named Mukunda.
+
+**834.** His son is Nityananda, who is Balarama;
+his son is Virabhadra, the abode of all virtues.
+
+**835.** Thus I have told the genealogy of Nityananda[^24-103].
+Now hear the genealogy of Sri Advaita.
+
+**836.** Gautama of the Bharadvaja gotra was versed in three Vedas (trivedi);
+his son is Vibhakara, expert in the shastras.
+
+**837.** Vibhakara's son was named Prabhakara;
+his son is Vishnu Mishra, the abode of all virtues.
+
+**838.** His son is Kakutstha, foremost among panditas;
+his son is Gopinatha, knower of all the shastras.
+
+**839.** Gopinatha's son is Gunakara Vachaspati;
+his son is Akashavasi, another name Akai.
+
+**840.** His son is Narayana Panchatapa;
+his son is Vardhamana Agnihotri.
+
+**841.** His son is Prithvidhara Kulapati;
+his son is Sharabha Acharya, another name Marara.
+
+**842.** Sharabha Acharya's son is Matta Ojha,
+another name Matanga Ojha — know this for certain.
+
+**843.** Matanga's son is Jihmani, another name Jaimini;
+his son is Bhaskara, a Vedantist, very learned.
+
+**844.** From him the Varendras are reckoned; he was a skilled pandita;
+in Ballala's assembly his sons and grandsons [became] kulinas and shrotriyas.
+
+**845.** Bhaskara's son is Sayana Acharya Mahashaya;
+his son is Aro Ojha, whom they call Aruni.
+
+**846.** Aro's son is Yadunatha Pandita Mahashaya;
+his son is Sripati, an excellent pandita.
+
+**847.** His son is Kulapati, his son Ishana,
+his son Vibhakara, his son named Prabhakara.
+
+**848.** Prabhakara's son is Narasimha Nadiyal;
+everyone always proclaims him the minister of Raja Ganesha.
+
+**849.** He lived in Shantipur;
+from the marriage of his daughter the kapas arose.
+
+**850.** He went and settled in Laur in Srihatta,
+staying from time to time in Shantipur.
+
+**851.** Narasimha Nadiyal is also called Nadli;
+Nadiyal, Naudiyal, Nadli mean the same.
+
+**852.** Narasimha's sons are Kandarpa, Saranga, Vidyadhara,
+Mahadeva, Narayana, Purandara, Gangadhara.
+
+**853.** Of the seven sons Vidyadhara was worthy;
+Vidyadhara's son is the wise pandita Chhakadi.
+
+**854.** His sons are Kuvera and Nilambara Acharya;
+Kuvera's son is Kamalaksha, Advaita Acharya[^24-104].
+
+**855.** Kamalaksha, Advaita Prabhu, has six sons:
+Achyutananda, Krishnadasa, Gopala, Balarama,
+
+**856.** Svarupa, Jagadisha — these six,
+very learned in all the shastras, endowed with great virtues.
+
+**857.** I have described Advaita's genealogy;
+hear, O hearers, the genealogy of Gadadhara Pandita.
+
+**858.** Sushena-muni of the Kashyapa gotra was versed in the four Vedas;
+his son is Brahmanya Ojha, whom they call Brahma Ojha.
+
+**859.** His son is Daksha, his son Shantanu,
+his son Pitambara — know this for certain.
+
+**860.** His son is Hiranyagarbha, his son Sugarbha (?),
+his son's name is Vedagarbha.
+
+**861.** His son is Jigani, also called Mahamuni;
+some call Jigani Mahamuni by one name,
+
+**862.** others call him Jaganmahamuni.
+Mahamuni has two sons, Svarnarekha and Bhavadeva.
+
+**863.** Svarnarekha [became] a Varendra, Bhavadeva went to the Radhis.
+Svarnarekha's son is Sindhu, called Sandhyaika Ojha.
+
+**864.** Sindhu's son is Garuda; he has two sons:
+Kratu Bhaduri and Matu Maitra.
+
+**865.** All call them Kratu Kaitai and Matu Maitai;
+both excellent men received kulinism in Ballala's assembly.
+
+**866.** Kratu Bhaduri is the foremost kulina of Ballala's assembly;
+his sons are Sankarshana-muni and Vasudeva Ojha.
+
+**867.** Sankarshana's son is Bhalluka Acharya, Bhasa Ojha;
+Bhalluka's sons are Yogesha and the mighty Divakara.
+
+**868.** Divakara, leaving his place, lost the dignity of kulinism:
+going to the village of Karanja, he became a shrotriya.
+
+**869.** Yogesha's sons are Pundarikaksha and Kuvalaya;
+Pundarika's son is Vishvambhara Acharya.
+
+**870.** Vishvambhara's son is Lakshmipati Acharya;
+his son is Brihaspati Acharya, performer of sacrifices.
+
+**871.** His son is the foremost pandita Udayana Acharya,
+author of the *Nyaya-kusumanjali* and other excellent books[^24-105].
+
+**872.** Udayana reformed the kula of the Varendras
+and introduced the customs of parivarta and karana.
+
+**873.** Udayana settled in the village of Vaniati;
+he had numerous offspring.
+
+**874.** By one wife: Bhupati, Bhavanipati, Chandipati,
+Gauripati, Rudranipati and Shachipati.
+
+**875.** For disobeying their father's word these six lost their kula:
+calling them "kapas," Udayana excluded them from society.
+
+**876.** Thus the kapas first arose.
+Of Udayana's other wife Pashupati was born;
+
+**877.** Pashupati, like his father, became a kulina;
+he had many sons:
+
+**878.** Jagai, Ghaghai, Khakhaira, Dhakhaira, Bhadai,
+Tarunai, Vasudeva Ojha and Uddhai.
+
+**879.** Some call Uddhai Ugramani.
+Ghaghai had many sons:
+
+**880.** Kamai, Kumai, Tikai and Hara Chamai,
+Suresha, Vardhamana — these six brothers.
+
+**881.** Kamai's sons are Balai, Pitai, Pushpaketana,
+Amshuman, Kusumashekhara, Minaketana.
+
+**882.** Balai's sons are Anga, Bhanga and the wise Vilasa;
+Vilasa Acharya was very learned.
+
+**883.** The king of Chittagong named Chitrasena
+took Vilasa Acharya [to himself] and honoured him.
+
+**884.** Vilasa Acharya became the king's court pandita
+and settled in Chittagong, in the village of Beleti.
+
+**885.** In Chittagong a son was born to him;
+they gave him the name Sri Madhava.
+
+**886.** Madhava Acharya became a supreme pandita;
+Pundarika Vidyanidhi is his best friend.
+
+**887.** Pundarika is the zamindar of Chakrashala;
+he has great friendship with Madhava Mishra.
+
+**888.** Madhava's wife was named Ratnavati,
+and Pundarika's wife too is called Ratnavati.
+
+**889.** The wives of both became sworn friends by [the water of] the Ganga[^24-106],
+and all knew of their friendship.
+
+**890.** A son was born to Madhava in Chittagong;
+they gave him the names Jagannatha and Vaninatha.
+
+**891.** Leaving Chittagong, Madhava settled in Nadia
+and received the Gopala mantra from Madhavendra Puri.
+
+**892.** Pundarika Vidyanidhi has a house in Nadia;
+he goes back and forth between Nadia and Chittagong.
+
+**893.** In Navadvipa Pundarika with a joyful heart
+received the Gopala mantra from Madhavendra.
+
+**894.** Pundarika and Madhava Mishra, both,
+are counted among the branches of Mahaprabhu.
+
+**895.** Another son was born to Madhava in Nadia,
+on the new-moon day of Vaishakha.
+
+**896.** They gave him the name Srila Gadadhara —
+the best of the associates of Sri Krishna Chaitanyadeva.
+
+**897.** Gadadhara Pandita is the beloved of Gauranga;
+his brother is the wise Jagannatha Acharya.
+
+**898.** Jagannatha settled in Nadia;
+his son is the noble Nayanananda Mishra.
+
+**899.** [Gadadhara] loves him as a son, regarding him as his brother's son;
+in the town of Nadia he gave him initiation in the Gopala mantra
+
+**900.** and entrusted him with the Gopinatha whom he himself served;
+Sri Nayana Mishra Gosani was overjoyed.
+
+**901.** After the disappearance of Pandita Gosani
+Nayana Mishra went to Bharatpur in Rarh[^24-107].
+
+**902.** I have described the genealogy of Pandita Gosani;
+now I shall tell of the origin of the Radhis and Varendras.
+
+**903.** To Adishura's sacrifice came five brahmanas;
+their descendants are the communities of the Radhis and Varendras.
+
+**904.** In the *Kula-ratna* (it is said):
+*"Maharaja Adishura, the ornament of the kshatriya race, brought from Kanyakubja to his kingdom five brahmanas: Medhatithi, Kshitisha, Vitaraga, Sudhanidhi and Saubhari — these five brahmanas came for the sacrifice for the birth of a son. Then, by the time of King Ballala, their offspring gradually multiplied and over a long time reached eleven hundred [families]; of these three hundred and fifty [lived] in Varendra and seven hundred and fifty in Rarh; according to the region where they lived, they received in the world the names Varendra and Radhi."*[^24-108]
+
+**905.** There is a race of Ambashtha kshatriyas of the Lunar dynasty;
+in it Raja Adishura was born.
+
+**906.** Great were their learning, intelligence and valour,
+but through the mother's fault they became the disgrace of the kshatriya race.
+
+**907.** As it is said in the *Ushanas-samhita*:
+*"One born secretly of a brahmana and a queen is called a bhishak (physician); being born in the anuloma order, he is named an Ambashtha. Observing the commands of an anointed king, let him practise medicine — the eightfold Ayurveda — and follow the dharma set out in the tantras; or let him practise astrology and arithmetic, or bodily labour, live by agriculture or by a craft involving fire; the Ambashthas may also live by military service, [as] those who live by arms."*[^24-109]
+
+**908.** That Raja Adishura is the lord of Gauda;
+he had many other dominions as well.
+
+**909.** The eastern bank of the Jahnavi (Ganga) is called Varendra,
+the western bank of the Jahnavi is called Rarh.
+
+**910.** The northern bank of the Padma is counted as Varendra,
+the southern bank of the Padma is foremost in Rarh.
+
+**911.** The eastern and western banks of the Ganga are known as the kingdom of Gauda;
+many brahmana panditas live there.
+
+**912.** In Adishura's kingdom there were many Vaidika brahmanas;
+among them were five kulina Kaushikas:
+
+**913.** Svarna-kaushika, Rajata-kaushika, Kaundinya-kaushika,
+Ghrita-kaushika and [plain] Kaushika — these five best ones.
+
+**914.** Svarna-kaushika's name is Dhara Narayana,
+the brahmana Rajata-kaushika is named Shivashankara,
+
+**915.** Kaundinya-kaushika's name is Janardana,
+the brahmana Ghrita-kaushika is called Bhuvaneshvara,
+
+**916.** Kaushika Kalidasa is very learned.
+These five brahmanas are foremost among panditas.
+
+**917.** These five brahmanas were the king's court panditas,
+and he always showed them great honour.
+
+**918.** Maharaja Adishura had no offspring;
+his queen Chandramukhi lamented greatly.
+
+**919.** The king heard the queen's lament
+and prepared a sacrifice for the birth of a son (putreshti).
+
+**920.** He had the five court panditas perform the sacrifice,
+but it bore not the slightest fruit.
+
+**921.** The local brahmanas did not know the Vedas;
+the king became displeased with them.
+
+**922.** One day the queen says to the king:
+"Send people to Kanyakubja to bring brahmanas.
+
+**923.** There are many fire-keepers, knowers of the Vedas, there;
+bring five brahmanas and have the sacrifice performed with care."
+
+**924.** On the queen's advice Maharaja Adishura
+sends people to Kanyakubja without delay.
+
+**925.** The ruler of Kanyakubja was named Chandraketu;
+the messengers went, delivered a letter and explained the reason.
+
+**926.** Chandraketu's other name is Virasimha;
+this mahashaya was a generous great hero.
+
+**927.** Receiving the letter, Chandraketu, lord of Kanauj,
+at once gave five fire-keepers, knowers of the Vedas.
+
+**928.** The five great rishis, residents of Kanyakubja,
+at the king's order set out for Gauda.
+
+**929.** From what village, of what name and gotra [each] brahmana was,
+versed in how many Vedas — listen, O hearers.
+
+**930.** Kshitisha of the Shandilya gotra is versed in four Vedas;
+some say he is from the village of Jambuchatta, others from Dilichatta.
+
+**931.** Vitaraga of the Kashyapa gotra is versed in four Vedas;
+all know he is a resident of the village of Kaulani.
+
+**932.** Sudhanidhi of the Vatsya gotra is counted as versed in three Vedas;
+he is a resident of the village of Tadita, foremost among panditas.
+
+**933.** Medhatithi of the Bharadvaja gotra is versed in three Vedas;
+all know he is a resident of Audumbara.
+
+**934.** The great rishi Saubhari of the Savarna gotra is versed in three Vedas;
+he is foremost among panditas, a resident of the village of Mara.
+
+**935.** With the five rishis [the king of Kanauj] gave five servants,
+to protect the five rishis and serve them.
+
+**936.** Kshitisha's servant was named Makaranda Ghosh,
+Vitaraga's servant was called Dasharatha Basu,
+
+**937.** Sudhanidhi's servant is Purushottama Datta,
+Medhatithi's servant was named Virata Guha,
+
+**938.** Saubhari's servant was named Kalidasa Mitra.
+These five servants, dressed as warriors, are kshatriyas.
+
+**939.** These five servants, kshatriya-kayasthas[^24-110],
+went to Gauda together with the five rishis.
+
+**940.** The five great rishis, putting on warriors' dress,
+arrived at the palace of Raja Adishura.
+
+**941.** The king heard: "Five brahmanas have come";
+but seeing the warriors' dress, he went into his apartments.
+
+**942.** The king thinks: "If they are brahmanas,
+why have they put on the dress of kshatriyas?
+
+**943.** If kshatriya warriors have come in disguise to deceive,
+then after testing them my mind will be at rest.
+
+**944.** I was born in a kshatriya family of the Lunar dynasty;
+after testing them I shall honour their feet."
+
+**945.** The rishis in warriors' dress came to the palace;
+the nobles came and honoured their feet.
+
+**946.** The king was informed of the rishis' arrival;
+the king thinks: "I shall go later.
+
+**947.** I shall test what sort of brahmanas they are:
+having seen their power, I shall then go and meet them."
+
+**948.** Seeing the king's delay, [the rishis] sat in meditation
+and understood everything in the king's mind.
+
+**949.** Knowing the king's thoughts, the rishis then
+placed their blessing on a dry log:
+
+**950.** as soon as it was placed, the log came to life.
+Hearing this, the maharaja came in fear and haste,
+
+**951.** bowed at the feet of the rishis
+and honoured them with water for the feet, arghya and water for achamana.
+
+**952.** In [the year] "Vedas (4), arrows (5), nine (9)" — in Shaka 954[^24-111] —
+the five great rishis came to Gauda.
+
+**953.** The five rishis summoned the king and queen
+and before the sacrifice had them perform the chandrayana vow.
+
+**954.** The king and queen performed the chandrayana vow
+and, freed from sin, began the sacrifice.
+
+**955.** By the five great rishis the putreshti was performed,
+and a son and a daughter were born to the king.
+
+**956.** Having produced the fruit of the sacrifice, the five great rishis
+went back to their own land, Kanyakubja.
+
+**957.** [But] they had performed rites for a low kshatriya in a non-Aryan land,
+and for that reason their kinsmen excommunicated them all.
+
+**958.** Excommunicated by their kinsmen, the five
+came to Gauda with their wives, sons, grandsons and servants.
+
+**959.** With their fathers came Narayana, Sushena, Dharadhara,
+Gautama and Parashara.
+
+**960.** Seeing that the five rishis had come with wives, children and the rest,
+Raja Adishura rejoiced at heart.
+
+**961.** The maharaja honoured the five
+and gave the five brahmanas five villages on the bank of the Ganga.
+
+**962.** The five great rishis in the land of Gauda,
+receiving five villages, were overjoyed.
+
+**963.** Kshitisha received the village of Panchakoti,
+to Vitaraga Kamakoti was given,
+
+**964.** Sudhanidhi accepted Harikoti,
+to the brahmana Medhatithi Kankagrama was given,
+
+**965.** Saubhari accepted Vatagrama;
+these five villages lie side by side on the bank of the Ganga.
+
+**966.** After some time came the excellent panditas
+Damodara, Daksha, Chhandada, Sriharsha, Vedagarbha;
+
+**967.** and after some more time the remaining sons
+came to their fathers.
+
+**968.** The five rishis, having all their sons with them,
+began to live in joy.
+
+**969.** Listen, listen, O hearers, attentively:
+now I shall tell whose sons were how many, and their names.
+
+**970.** Kshitisha of the Shandilya gotra has seven sons;
+now I shall tell their names:
+
+**971.** Damodara, Narayana Bhatta, Sauri, Shankara,
+Vishvambhara, Lokaranya and Hiranya.
+
+**972.** Vitaraga of the Kashyapa gotra has twelve sons;
+now I shall tell their names:
+
+**973.** Sushena, Daksha, Bhanu Mishra, Kripanidhi Mahashaya,
+Indra, Chandra, Mahesha, Rudra, Jiva,
+
+**974.** Harihara, Baladeva and Danava —
+very learned in all the Vedas, knowers of all the shastras.
+
+**975.** Sudhanidhi of the Vatsya gotra has seven sons;
+now I shall tell their names:
+
+**976.** Dharadhara, Hrishikesha, Chhandada Mahashaya,
+Vibhuti, Bhutabhavana, Deva and Kalyana Mitra.
+
+**977.** Sri Maharshi Medhatithi of the Bharadvaja gotra,
+foremost among panditas, has eighteen sons:
+
+**978.** Adya, Madhya, Gautama, Vishruta Mahashaya,
+Sriharsha, Sridhara, Krishna, Shiva, Durgadasa,
+
+**979.** Ravi, Shashi, Dhruva, Nikara, Pratapa Mahashaya,
+Prabhava, Ganesha, Riksha and Vajra.
+
+**980.** Saubhari of the Savarna gotra has twelve sons;
+I shall tell their names:
+
+**981.** Ratnagarbha, Parashara, Rama, Vedagarbha,
+Vibhu, Soma, Kashyapa, Vasishtha, Kharva,
+
+**982.** Mahatapa, Kirtiman and Danujari;
+Karttikeya is the best of all panditas.
+
+**983.** Of the fifty-six sons ten are foremost among panditas;
+now I shall tell their names:
+
+**984.** Damodara, Narayana, Daksha and Sushena,
+Dharadhara, Chhandada, Sriharsha, Gautama,
+
+**985.** Parashara, Vedagarbha — these ten lords
+became masters in all lands.
+
+**986.** In what lands the descendants of the five rishis settled
+I am writing down now and making known.
+
+**987.** Damodara's descendants remained in Varendra,
+the descendants of Sauri, Vishvambhara and Shankara settled in Rarh.
+
+**988.** The sons of Lokaranya and Hiranya
+also settled in Rarh.
+
+**989.** Of three wives twenty-one sons were born to Narayana:
+five settled in Varendra, sixteen in Rarh.
+
+**990.** Now I shall make known their names —
+who [settled] in Varendra and who in Rarh.
+
+**991.** Adigai Ojha, Adivibhakara,
+Adinatha, Adideva, Adibhaskara —
+
+**992.** these five sons of the eldest wife
+made Varendra glorious by settling there.
+
+**993.** Adivaraha, Nano, Gupta, Mahamati, Guna, Saha,
+Batuka, Shubhakaya, Nikko and Pui[^24-112] —
+
+**994.** these ten sons were born of the middle wife.
+Rama, Vibhu, Gana, Nipa, Vika, Madhusudana —
+
+**995.** these are the six sons of the youngest wife.
+Adivaraha and the others — sixteen — went to Rarh.
+
+**996.** The sons of Sushena, Bhanu Mishra and Kripanidhi
+settled in Varendra.
+
+**997.** The sons of Daksha, Indra, Chandra, Mahesha, Rudra, Jiva,
+Harihara, Kamadeva and Danava —
+
+**998.** all of them, foremost among panditas,
+went to Rarh and settled there.
+
+**999.** The sons of Dharadhara and Hrishikesha
+settled in the land of Varendra.
+
+**1000.** Chhandada, Vibhuti, Bhutabhavana, Deva, Kalyana Mitra —
+their sons sanctified Rarh.
+
+**1001.** The descendants of Adya, Madhya, Gautama and Vishruta
+made Varendra glorious by settling there.
+
+**1002.** Sriharsha, Sridhara, Krishna, Shiva, Durgadasa, Ravi,
+Shashi, Dhruva, Nikara, Pratapa, Prabhava,
+
+**1003.** Ganesha, Riksha, Vajra — their descendants
+made Rarh glorious by settling there.
+
+**1004.** All the sons of Parashara, Rama and Vibhu
+sanctified Varendra by settling there.
+
+**1005.** Ratnagarbha, Vedagarbha, Soma, Kashyapa, Vasishtha,
+Mahatapa, Kirtiman, Danujari, the youngest Karttikeya —
+
+**1006.** their sons, eminent in learning and brahmanical worth,
+settling in Rarh, made it excellent.
+
+**1007.** Ratnagarbha is the best of all panditas,
+the commentator on the *Ramayana*, the *Vishnu Purana* and others.
+
+**1008.** From Adishura to the time of Ballala
+the descendants of the five great rishis numbered eleven hundred [families]:
+
+**1009.** in Rarh there were seven hundred and fifty brahmanas,
+in Varendra three hundred and fifty.
+
+**1010.** Together they are eleven hundred brahmanas from Kanauj;
+the local Vaidikas are counted as seven hundred.
+
+**1011.** Under the influence of the [brahmanas of] Kanauj, the local brahmanas
+in Ballala's time took the name "Saptashati" ("the Seven Hundred")[^24-113].
+
+**1012.** The gotras Shandilya, Kashyapa, Vatsya, Bharadvaja, Savarna —
+the brahmanas of Kanauj are pure in these five gotras.
+
+**1013.** The local Saptashati brahmanas do not have these five gotras;
+among them [we find] Pancha-kaushika, Maudgalya, Gautama and others,
+
+**1014.** Saukalina, Vasishtha, Parashara, Alambayana,
+Jamadagni, Atreya, Angirasa, Katyayana —
+
+**1015.** these and many other gotras exist among the Saptashatis;
+the gotras of the Kanauj brahmanas have no place among them.
+
+**1016.** Ballala had thirty-one court panditas:
+eleven before the division into Radhis and Varendras, twenty after.
+
+**1017.** Those who [were] before the division into Radhis and Varendras —
+their names I shall now recount.
+
+**1018.** Of the Shandilya gotra, these two:
+Jayasagara and Vidyasagara, the best of the Mishras.
+
+**1019.** Vidyasagara's other name is Manisagara.
+Of the Kashyapa gotra, these two:
+
+**1020.** Svarnarekha and the excellent Bhavadeva Bhatta.
+Of the Vatsya gotra, these two:
+
+**1021.** Chaturbhuja Chaturvedacharya, master of the Vedas and Vedanta,
+and Damodara Ojha, foremost among panditas.
+
+**1022.** Of the Bharadvaja gotra, two mighty panditas:
+Bhaskara the Vedantist and Parashara Ojha.
+
+**1023.** Of the Savarna gotra, these three panditas:
+Aniruddha, Gunarnava and Dharai Upadhyaya.
+
+**1024.** At Ballala's order these panditas
+made a census of the Vaidikas, of Kanauj and local.
+
+**1025.** The Kanaujis living in Rarh received the name Radhi,
+the Kanaujis living in Varendra received the name Varendra.
+
+**1026.** The local Vaidika brahmanas were seven hundred;
+they became known by the name Saptashati.
+
+**1027.** In learning and brahmanical worth the Kanaujis were higher;
+the Saptashati Vaidikas were lower in honour.
+
+**1028.** The Saptashatis were only knowers of the Sama Veda;
+brahmanas knowing the other Vedas were not seen among them.
+
+**1029.** Giving a daughter to a Kanauji,
+the Saptashatis considered themselves highly favoured.
+
+**1030.** Ten panditas divided the Radhis and Varendras,
+and one pandita composed the genealogies.
+
+**1031.** All this I shall now describe;
+hearing it, the hearers will rejoice.
+
+**1032.** Jayasagara Mishra is the foremost of the Shandilyas in Varendra,
+Vidyasagara Mishra the foremost of the Shandilyas in Rarh.
+
+**1033.** Svarnarekha Bhatta is the head of the Kashyapas in Varendra,
+Bhavadeva Bhatta the head of the Kashyapas in Rarh.
+
+**1034.** Chaturbhuja Chaturvedacharya is the head of the Vatsyas in Varendra,
+Damodara Ojha the head of the Vatsyas in Rarh.
+
+**1035.** In Varendra Bhaskara the Vedantist is foremost of the Bharadvajas,
+in Rarh Parashara Ojha is foremost of the Bharadvajas.
+
+**1036.** In Varendra Aniruddha Acharya is the head of the Savarna gotra,
+in Rarh Gunarnava Acharya is the head of the Savarna gotra.
+
+**1037.** At Ballala's order these ten noble men,
+becoming heads each of his own gotra, divided the Radhis and Varendras.
+
+**1038.** After some time Maharaja Ballala,
+establishing kulinas among the Radhis and Varendras, made two communities.
+
+**1039.** Jayasagara, Svarnarekha, Chaturbhuja Chaturvedacharya
+and Bhaskara the Vedantist are the best of panditas:
+
+**1040.** their descendants became kulinas among the Varendras,
+while Aniruddha's descendants remained without kula.
+
+**1041.** Listen, listen, O hearers, with one mind:
+now I shall tell of the Radhis.
+
+**1042.** Vidyasagara, Bhavadeva and Damodara,
+Parashara and Gunarnava, the best of panditas —
+
+**1043.** having made the division, they joined the Radhis,
+[but] their descendants did not become kulinas.
+
+**1044.** Bhavadeva Bhatta established the ten samskaras —
+[his work] is called the *Dasha-karma-paddhati*[^24-114].
+
+**1045.** After the division into Radhis and Varendras
+twenty panditas entered Ballala's assembly.
+
+**1046.** Of the Shandilyas: Shakuni Mishra, whom some call Sugana,
+Mahadeva and Vaidyanatha Mahashaya,
+
+**1047.** the great pandita Dharmamshu, whom some call Dharmanga.
+I shall tell of the panditas of the Kashyapa gotra:
+
+**1048.** Srikara Adhvaryu, Srikantha Acharya,
+Hiranya Acharya and Laulika Acharya.
+
+**1049.** Of the Vatsyas: Pingala Bhatta and Varaha Bhatta,
+and also Hingula Mishra, whom some call Nishapati.
+
+**1050.** Of the Bharadvaja gotra, a mighty pandita:
+Kolai Sannyasi, his other name Kolahala.
+
+**1051.** Of the Savarnas: Havi Brahmachari and Kulapati,
+two brothers, great panditas, [like] Brihaspati in intellect.
+
+**1052.** Their descendants became kulinas among the Radhis.
+Dharai Upadhyaya had neither sons nor daughters.
+
+**1053.** Of the Vatsyas: Dhana and Shukra, two foremost panditas,
+greatly learned in the Vedas, Vedanta and other shastras.
+
+**1054.** Of the Bharadvajas: Gunakara and Lakshmana, two,
+on whose lips all the Vedas always dwell.
+
+**1055.** Of the Savarnas: Govinda and Narayana, two,
+supreme panditas, as all know.
+
+**1056.** Their descendants in Rarh and Varendra
+did not become kulinas — all know this.
+
+**1057.** These are Ballala's twenty court panditas;
+together with the former eleven they are thirty-one.
+
+**1058.** Formerly there were marriages between Radhis and Varendras;
+after kulinism was established, this ceased.
+
+**1059.** Dharai Upadhyaya, the best pandita of Ballala's assembly,
+wrote the genealogies of the Kanaujis under the name *Kula-sagara*[^24-115].
+
+**1060.** From Adishura to Ballala's [institution of] kulinism —
+the genealogies of eleven hundred brahmanas are recorded in it.
+
+**1061.** The descendants of the five rishis numbered eleven hundred [families];
+the names Radhi and Varendra became established for them.
+
+**1062.** Narayana, Sushena, Dharadhara, Gautama, Parashara —
+their descendants became the best in the Varendra kula.
+
+**1063.** Narayana, Daksha, Chhandada, Sriharsha, Vedagarbha —
+their descendants became the whole wealth of the Radhi kula.
+
+**1064.** Narayana's descendants went into both kulas,
+and in both kulas they obtained kulinism.
+
+**1065.** Some became kulinas, some became shrotriyas,
+and many remained without kula, respected by no one.
+
+**1066.** Why this happened, O hearers —
+all these matters I shall describe.
+
+**1067.** The king, seeing the learning and brahmanical worth of the Radhi and Varendra brahmanas,
+decided in his mind whom he would make kulinas.
+
+**1068.** Concealing this, he devised a stratagem:
+"After testing, I shall enhance their dignity."
+
+**1069.** One day, holding an assembly, Maharaja Ballala
+without delay says to all the brahmanas:
+
+**1070.** "O brahmanas, hear my words:
+I shall establish dignity according to qualities."
+
+**1071.** He carefully fixed an auspicious day
+and told all the brahmanas to come to the assembly:
+
+**1072.** "On this auspicious day, before one and a half praharas[^24-116],
+let all the brahmanas come and assemble.
+
+**1073.** Quickly finishing your daily rites (ahnika) and the rest,
+come and appear before one and a half praharas.
+
+**1074.** Whoever comes late
+will receive little dignity."
+
+**1075.** Saying this, Ballala dismissed the assembly.
+The appointed day arrived.
+
+**1076.** Hastily finishing their ahnika and the rest,
+many brahmanas came within one and a half praharas.
+
+**1077.** Some brahmanas came after two praharas —
+to them he showed great honour.
+
+**1078.** Some brahmanas came after two and a half praharas —
+Ballala honoured them greatly.
+
+**1079.** Ballala says: "The daily and occasional duties of a brahmana
+can never be done before one and a half praharas.
+
+**1080.** In two praharas the work is finished with difficulty,
+in two and a half it is properly accomplished.
+
+**1081.** Those who came after two and a half praharas
+are by the shastras endowed with nine qualities;
+
+**1082.** those who came after two praharas
+are by the shastras endowed with eight qualities;
+
+**1083.** those who came at one and a half praharas
+are by the shastras endowed with few qualities."
+
+**1084.** Those who came after two and a half praharas,
+seeing [in them] nine qualities, he made kulinas[^24-117];
+
+**1085.** those who came after two praharas,
+seeing eight qualities, he counted as shuddha-shrotriyas;
+
+**1086.** those who came at one and a half praharas,
+seeing few qualities, he counted as kashta-shrotriyas.
+
+**1087.** Kulinas and shrotriyas are the chief among brahmanas;
+other brahmanas, non-kulinas, are counted as secondary.
+
+**1088.** The test at that time was no test:
+it was only a stratagem of Ballala Sena.
+
+**1089.** Which brahmanas were best in learning and brahmanical worth
+he had determined beforehand.
+
+**1090.** It was the pious knowers of the Vedas whom he made kulinas and shrotriyas,
+and the impious brahmanas whom he counted as kashta-shrotriyas.
+
+**1091.** All the impious brahmanas devoid of learning and brahmanical worth —
+they were the ones who came at one and a half praharas.
+
+**1092.** Hoping to receive honour, they came quickly:
+they could not understand Ballala's intention.
+
+**1093.** Ballala recognised them as impious
+and counted them as kashta-shrotriyas, secondary non-kulinas.
+
+**1094.** All those secondary non-kulinas, bad shrotriyas,
+in Rarh and Varendra became kashta-shrotriyas.
+
+**1095.** Marriages were contracted between kulinas and shuddha-shrotriyas;
+later this rule disappeared.
+
+**1096.** What rule was established after Ballala —
+listen, listen, O hearers, with one mind.
+
+**1097.** Marriages were contracted between kulina and kulina;
+kulinas did not give their daughters to others.
+
+**1098.** A kulina takes [in marriage] a shrotriya's daughter,
+and in this the dignity of the kulina's kula remains.
+
+**1099.** The shrotriyas, giving a daughter to a kulina,
+obtained honour in society.
+
+**1100.** If a kulina gives a daughter to a shrotriya,
+the honour of his kula will certainly decrease.
+
+**1101.** All the secondary non-kulinas, the kashta-shrotriyas,
+are outcastes (apankteya) in kulina society:
+
+**1102.** kulinas do not marry their daughters;
+know for certain: if one marries, the kula perishes.
+
+**1103.** Saying that the kula perishes, kulina brahmanas,
+in the name of the kula, do not touch them.
+
+**1104.** But if shuddha-shrotriyas marry
+the daughters of kashta-shrotriyas, their kula does not perish.
+
+**1105.** This rule was established after Ballala
+and gradually became lax.
+
+**1106.** Udayana Acharya Bhaduri and the ghataka Devivara
+again reformed [the families of] the Radhis and Varendras.
+
+**1107.** Udayana first reformed the Varendra kula,
+he whom all call a famous naiyayika (logician).
+
+**1108.** A long time after him the ghataka Devivara [of the] Bandya [family]
+reformed the Radhi kula in detail[^24-118].
+
+**1109.** Hear of the dispute of the Radhis and Varendras:
+each call their own ancestors the performers of the sacrifice.
+
+**1110.** Narayana, Sushena-muni and Dharadhara,
+and the foremost panditas Gautama and Parashara —
+
+**1111.** these five the genealogists of the Varendras
+call the performers of Adishura's sacrifice.
+
+**1112.** Narayana, Daksha-muni and Chhandada,
+Sriharsha and Vedagarbha, the best of panditas —
+
+**1113.** these five the ghatakas of the Radhis
+call the performers of Adishura's sacrifice.
+
+**1114.** The Varendras say the Radhis came later;
+the Radhis say the Varendras joined later.
+
+**1115.** Over this there is constant dispute.
+Now I shall tell of the kulinism of the Radhis and Varendras.
+
+**1116.** The Radhis have eight gains (family designations) of kulinas, the Varendras eight;
+pay attention to this, O hearers.
+
+**1117.** Of the Shandilyas, Bandyaghati; of the Kashyapas, Chatuti;
+of the Vatsyas, Putitunda, Ghoshal, Kanjilal;
+
+**1118.** of the Savarnas, Ganguli and Kundagain;
+of the Bharadvajas, the gain Mukhuti — know this for certain.
+
+**1119.** Among the Varendras in the Shandilya gotra, Bagchi and Lahiri:
+one [gain] Bagchi [divided] in two, named Rudra and Sadhu.
+
+**1120.** Of the Kashyapas, the gain Maitra and Bhaduri:
+Ballala made them kulinas, and their honour became great.
+
+**1121.** Of the Vatsyas, the gain Sanjamini, whom they call Sanyal,
+and also the gain Bhima Kaliyai — know this for certain.
+
+**1122.** Of the Bharadvajas the kulinas are the Bhadada-gramis;
+of the Savarnas no one obtained kulinism.
+
+**1123.** Of the Kashyapas, the kulinas of the gain Chatta are five:
+Bahurupa, Sucha, Aravinda, Halayudha, Bangal.
+
+**1124.** Of the Shandilyas, [the kulinas] Bandyaghati are Maheshvara, Jahlana,
+Devala, Makaranda, Ishana, Vamana.
+
+**1125.** Of the Bharadvajas, [the kulinas] Mukhuti are Utsaha and Garudai;
+of the Savarnas, Shishu Ganguli and Roshakara Kundagain.
+
+**1126.** Of the Vatsyas, Kanu and Kutuhala Kanjilal,
+Govardhana Putitunda and Shiro Ghoshal.
+
+**1127.** Thus I have named the kulinas of the Radhis;
+now I shall name the kulinas of the Varendras.
+
+**1128.** Of the Shandilyas, Sadhu Bagchi and Rudra Bagchi,
+and the very wise Lokanatha Lahiri.
+
+**1129.** Of the Kashyapas, Kratu Bhaduri and Matu Maitra, two,
+honoured by Ballala, the best of kulinas.
+
+**1130.** Of the Vatsyas, Lakshmidhara [of the] gain Sanjamini, or Sanyal,
+Jayamala Mishra [of the] gain Bhima Kaliyai.
+
+**1131.** In the Bharadvaja gotra the kulina is Veda Bhadada;
+[all] of the Savarna gotra remained without kula.
+
+**1132.** Listen, listen, O hearers, with one mind:
+now I shall recount the genealogies of the kulinas[^24-119].
+
+**1133.** Kshitisha of the Shandilya gotra is foremost among panditas;
+his son is Bhatta Narayana, some call him Narayana Bhatta.
+
+**1134.** His son is Adivaraha, his son Vainateya,
+his son Subuddhi, his son Vibudheya.
+
+**1135.** His son is Gau, some call him Gui;
+Vibudheya's other son is Subhiksha Mahashaya.
+
+**1136.** Gui's sons are Gangadhara and Hakucha;
+Gangadhara's son is Suhasa, some call him Pahasa.
+
+**1137.** Suhasa's son was named Shakuni;
+some ghatakas call him Sugana.
+
+**1138.** Shakuni's two sons, Jahlana and Maheshvara,
+became the best kulinas in the Bandya family.
+
+**1139.** Gui's other son is Hakucha Mahashaya;
+his son is Jitamitra, as all know.
+
+**1140.** His son is Svami, his son Vaidyanatha;
+Vaidya's son, Ishana Bandya, obtained kulinism.
+
+**1141.** Vibudheya's other son is Subhiksha Mahashaya;
+his two sons are Aniruddha and Bhayapaha.
+
+**1142.** Aniruddha's son is called Pithai, some say Piyai;
+his son is Dharmamshu, some call him Dharmanga.
+
+**1143.** His sons are Devala and Vamana Bandyaghati;
+in Ballala's assembly they obtained kulinism.
+
+**1144.** Subhiksha's other son is Bhayapaha;
+his son is Dharana, some call him Dharani.
+
+**1145.** His son is Mahadeva, his son Makaranda Bandya;
+obtaining kulinism, he became honoured among brahmanas.
+
+**1146.** Listen, listen, O hearers, with one mind:
+I shall recount the various opinions of various ghatakas.
+
+**1147.** Some say: Gangadhara's son is Suhasa,
+his sons are Shakuni and Budhaka.
+
+**1148.** Shakuni's sons, Maheshvara and Jahlana,
+became the chief kulinas in the Bandya family.
+
+**1149.** Shakuni's other son is Budhaka Mahashaya;
+his sons are Mahadeva, Vaidyanatha, Dharmanga.
+
+**1150.** Mahadeva's son was named Makaranda,
+Vaidyanatha's son is Ishana Bandya.
+
+**1151.** Dharmanga's sons are Devala and Vamana,
+the chief kulinas in the Bandyaghati family.
+
+**1152.** Hear, all of you, the opinion of other ghatakas:
+Narayana Bhatta's son is Adivaraha,
+
+**1153.** Adivaraha's son is Vainateya,
+his son's name is Vibudheya,
+
+**1154.** his sons are Gau and Subhiksha Mahashaya;
+Gau's son is Hakucha, his son Svami,
+
+**1155.** his son is Vaidyanatha Mahashaya,
+and his son is the kulina Ishana Bandya.
+
+**1156.** Vitaraga of the Kashyapa gotra is foremost among panditas;
+his son is the very wise Daksha-muni.
+
+**1157.** Daksha's son was named Sulochana;
+his sons are Mahadeva and Vasudeva.
+
+**1158.** Mahadeva's son is Haladhara; his sons are Krishnadeva,
+another son Narideva, and also Rupadeva.
+
+**1159.** Krishnadeva's son is Varaha Mahashaya;
+his son is Srikara Adhvaryu.
+
+**1160.** His son Bahurupa became a kulina —
+the foremost in the Chatuti family.
+
+**1161.** Haladhara's other son is Narideva;
+his son's name is Lalo Mahashaya.
+
+**1162.** Lalo's sons are Garudadhvaja and Bharata;
+some call Bharata Samanta.
+
+**1163.** Garudadhvaja's sons are Srikantha and Hiranya;
+Srikantha's son, Bangal Chatta, obtained kulinism.
+
+**1164.** Hiranya's son is Halayudha Chatta;
+honoured by Ballala, he obtained kulinism.
+
+**1165.** Lalo's other son is Bharata, whom they call Samanta;
+his son is Laulika Acharya Mahashaya.
+
+**1166.** His sons are Sucha and Aravinda Chatta;
+in Ballala's assembly their kulinism was manifested.
+
+**1167.** Listen, listen, O hearers, with one mind:
+hear the various opinions of various ghatakas.
+
+**1168.** Some say: he who was Haladhara's son is Rupadeva,
+and they consider Garudadhvaja and Bharata his sons.
+
+**1169.** Garuda's sons are Srikantha and Hiranya;
+Srikantha's son is Bangal, Hiranya's son they call Halayudha.
+
+**1170.** Bharata's son is Laulika Mahashaya,
+his sons are Sucha and Aravinda Chatta.
+
+**1171.** Others say: Daksha's son is Sulochana,
+his son Vasudeva, his son they call Vishvambhara;
+
+**1172.** his sons are Narideva and Rupadeva,
+another son's name is Mahadeva.
+
+**1173.** Narideva's son is Varaha Mahashaya,
+his son is Srikara Adhvaryu,
+
+**1174.** his sons are Bahurupa and Halayudha Chatta:
+in Ballala's assembly their kulinism was manifested.
+
+**1175.** Vishvambhara's other son was named Rupadeva;
+his son is Garuda, abode of all virtues,
+
+**1176.** his son is Srikantha Acharya, a good pandita;
+his son, the excellent pandita Bangal, obtained kulinism.
+
+**1177.** Vishvambhara's further son is Mahadeva;
+his son is Siya, his son is called Chahala.
+
+**1178.** Chahala's son is Laulika Acharya Mahashaya;
+his sons are Aravinda and Sucha Chatta.
+
+**1179.** Sudhanidhi of the Vatsya gotra is a great sage;
+his son's name is the great muni Chhandada.
+
+**1180.** He had many sons, foremost among panditas;
+listen attentively to what I shall now tell.
+
+**1181.** Chhandada's son is Surabhi, his son Pingala,
+his son Shiro Ghoshal became a kulina.
+
+**1182.** Listen, listen, O hearers, with one mind:
+hear the various opinions of various ghatakas.
+
+**1183.** Some say: Surabhi's son is Sagara Mahashaya,
+his son Manoratha, his son Vishvamitra,
+
+**1184.** his son Jitamitra, his son Bhagavan,
+his son Pingala Bhatta, foremost among panditas.
+
+**1185.** Pingala's son was named Shiro Ghoshal;
+honouring him, Ballala conferred kulinism on him.
+
+**1186.** Chhandada's other son is Sridhara Mahashaya;
+his son was named Vedagarbha.
+
+**1187.** His son's name is Vasundhara,
+his son is Hingula Bhatta Mahashaya,
+
+**1188.** his sons are Kanu and Kutuhala Kanjilal;
+honouring them, Ballala conferred kulinism on them.
+
+**1189.** Sridhara's family the various ghatakas describe variously;
+I shall tell the hearers what it is.
+
+**1190.** Some say: Sridhara's son is Yajneshvara;
+some call him Vedagarbha, others Hemagarbha;
+
+**1191.** his son is Nishapati, another name Hingula;
+his sons are Kanjilal, Kanu and Kutuhala.
+
+**1192.** Others say: Sridhara's son is Yajneshvara,
+some call him Vedagarbha;
+
+**1193.** his son is Hemagarbha, his son Vasundhara,
+his son Praneshvara, his son Gunakara,
+
+**1194.** his son Nishapati, some call him Hingula;
+his sons are Kanjilal, Kanu and Kutuhala.
+
+**1195.** Some call Kanjilal Kanjibilli:
+Kanjibilli and Kanjilal mean the same.
+
+**1196.** Others say: Sridhara's son is Yajneshvara,
+his son Hemagarbha, his son Vasundhara,
+
+**1197.** his son Praneshvara, his son Guna;
+Guna's son was named Nishapati;
+
+**1198.** Nishapati's son was named Hingula Pandita,
+his sons are Kanjilal, Kanu and Kutuhala.
+
+**1199.** Still others say: Praneshvara's son is Gunakara,
+his sons are Hingula and Varaha;
+
+**1200.** Hingula's son is Kutuhala Kanjilal,
+Varaha's son is Kanu Kanjilal.
+
+**1201.** Chhandada's son is Vira; some say Dhira,
+some firmly call him Ravi.
+
+**1202.** His son is Jaimini, another name Lakshmidhara;
+his son is Utsaha, other names Basala and Nilambara.
+
+**1203.** His son is Govardhana Acharya Putitunda:
+obtaining kulinism, he became the best of brahmanas.
+
+**1204.** O hearers, various ghatakas have various opinions;
+disclosing them, I shall describe them.
+
+**1205.** Some say: Chhandada's son is Ravi, whom they call Dhira;
+a son named Jaimini was born to him;
+
+**1206.** his son is Lakshmidhara, his son Bala,
+his son's name was Amshula;
+
+**1207.** Amshula's son was named Vallabha Mahashaya,
+his son Nilambara, another name Utsaha;
+
+**1208.** his son is Govardhana Acharya Putitunda:
+obtaining kulinism, he became the best of brahmanas.
+
+**1209.** [Others say:] Chhandada's son is Ravi, some call him Vira;
+a son named Jaimini was born to him;
+
+**1210.** his son is Tamopaha, his son Vanamali,
+his son Vatsala, his son Dhiravani,
+
+**1211.** his son Utsaha Acharya Mahashaya,
+his son Govardhana Puti[tunda].
+
+**1212.** [Others:] Dhira's son is Jaimini, his son Tamopaha,
+his son Lakshmidhara, his son they call Vanamali,
+
+**1213.** his son Vatsala, his son Ramana,
+his son Utsaha, his son Puti Govardhana.
+
+**1214.** The son of Medhatithi of the Bharadvaja gotra is Sriharsha;
+his son is Srigarbha, as all know.
+
+**1215.** His son was named Srinivasa;
+a son named Arava was born to him.
+
+**1216.** His son is Trivikrama, foremost among panditas,
+his son the very wise Kaka Mishra.
+
+**1217.** His son was named Sadhu, some say Dhadhu;
+his son is Jalashaya, righteous in all deeds.
+
+**1218.** His son is Suresha, some call him Baneshvara;
+his son is Guha, whom they call Gui.
+
+**1219.** His son is Madhava Acharya Mahashaya;
+his son is Kulai Sannyasi, some call him Kolahala.
+
+**1220.** His sons are Utsaha and Garuda Mukhuti;
+in Ballala's assembly they worthily obtained kulinism.
+
+**1221.** O hearers, hear the various opinions of various ghatakas:
+disclosing them, I shall describe them.
+
+**1222.** Some say: Sriharsha's son is Dhadhu,
+his son Gui, his son they call Gadaka,
+
+**1223.** his son Shubhana, his son Madhava Acharya,
+his son Kolahala, excellent in every respect,
+
+**1224.** his sons Utsaha and Garuda Mukhuti:
+in Ballala's assembly they worthily obtained kulinism.
+
+**1225.** Saubhari of the Savarna gotra is a great muni;
+his son is Vedagarbha, a great sage.
+
+**1226.** His sons are Madana and the noble Haladhara;
+Hala's other name is Viravrata Kulapati.
+
+**1227.** Madana's son was named Ratnagarbha;
+a son named Visha was born to him.
+
+**1228.** Visha's son was named Heramba;
+his son Mangala, some call him Manguli;
+
+**1229.** his son Hari Brahmachari Mahashaya,
+his son Roshakara Kundagain.
+
+**1230.** Vedagarbha's other son is Viravrata Kulapati;
+his son Shubhana, his son the noble Gauri,
+
+**1231.** his son Pitambara, his son Damodara,
+his son Kulapati, his other name Kuloka (?).
+
+**1232.** Kulapati's son was named Shishu Ganguli;
+in Ballala's assembly he joyfully obtained kulinism.
+
+**1233.** Listen, listen, O hearers, with one mind:
+hear the various opinions of various ghatakas.
+
+**1234.** Some say: Hala, whom they call Viravrata,
+had a son named Hemagarbha;
+
+**1235.** his son Padmagarbha, his son Kushali,
+his son Shobhana, his son Gauri.
+
+**1236.** Gaurikanta's son is Udhaka (?) Mahashaya,
+his son named Kulapati;
+
+**1237.** his son was named Shishu Ganguli:
+in Ballala's assembly he joyfully obtained kulinism.
+
+**1238.** I have described the genealogies of the Radhi kulinas;
+hear the genealogies of the Varendra kulinas.
+
+**1239.** Kshitisha of the Shandilya gotra is the best of panditas;
+his son is Narayana, endowed with all virtues.
+
+**1240.** Narayana Bhatta some call Bhatta Narayana;
+his son is Adigai Ojha.
+
+**1241.** His son is Jayamani Bhatta, some call him Jayamana;
+his son is Hari […], another name Harikrishna.
+
+**1242.** His son is Vidyapati, foremost among panditas,
+his son the very wise Raghupati.
+
+**1243.** His son was named Shivacharya;
+Shivacharya's son was named Somacharya.
+
+**1244.** His son is Ugramani, the best of panditas,
+his son Tapomani, a keen-minded pandita.
+
+**1245.** His son was named Sindhusagara,
+his son was named Bindusagara.
+
+**1246.** Bindusagara's two sons are Jayasagara and Manisagara:
+Jaya [remained] in Varendra, Mani went to Rarh —
+the genealogists call him a Radhi.
+
+**1247.** Jayasagara's sons are keen-minded panditas:
+Madhava, Mauna Bhatta, Svarnarekha, Pitambara.
+
+**1248.** Madhava [received the village] Champati, Mauna Bhatta Nandana:
+"Nandana," "resident of Nandana," "Nandami" mean the same.
+
+**1249.** They became shrotriyas in Ballala's assembly;
+Svarnarekha, becoming a shrotriya, received the village of Sihari.
+
+**1250.** Some call Svarnarekha Svarnadeva;
+know this for certain, O hearers.
+
+**1251.** Jayasagara's other son is Pitambara, foremost among panditas;
+three very learned sons were born to him:
+
+**1252.** Sadhu Bagchi, Rudra Bagchi and Lokanatha Lahiri —
+honoured by Ballala, they became eminent kulinas.
+
+**1253.** Listen, listen, O hearers, with one mind:
+hear the various opinions of various genealogists.
+
+**1254.** Some say: Narayana's son is Adigai Ojha,
+his son the mighty Jayamani Bhatta,
+
+**1255.** his sons are foremost among panditas,
+[among them] the very learned Harikrishna Mishra;
+
+**1256.** Hari's son is Shivacharya, his son Somacharya,
+[his son] Ugramani, the best of panditas,
+
+**1257.** his son Tapomani, his son Sindhusagara,
+his son Bindusagara, the best of panditas,
+
+**1258.** his sons Jayasagara and Manisagara;
+Manisagara's other name is Vidyasagara;
+Jayasagara [remained] in Varendra, Mani went to the Radhis.
+
+**1259.** Others say: Adi[gai]'s son is Jayamani Bhatta,
+his son Harikrishna, his son they call Shivacharya,
+
+**1260.** his son Somacharya, his son Ugramani,
+Ugramani's son was named Tapomani,
+
+**1261.** his son Sindhusagara, a keen-minded pandita,
+his sons Jayasagara and Vidyasagara:
+
+**1262.** Jaya [remained] a Varendra, Vidyasagara went to the Radhis;
+among genealogists his other name is Manisagara.
+
+**1263.** Still others say: Adi[gai]'s son is Jayamana,
+he has a son named Harikrishna,
+
+**1264.** his son Shivacharya, foremost among panditas,
+his son the very wise Somacharya,
+
+**1265.** his son Ugramani, the best of panditas,
+his son Tapomani, a keen-minded pandita,
+
+**1266.** his son Vidyapati Mahashaya,
+he has a son named Raghupati,
+
+**1267.** Raghu's sons are Sindhusagara and Bindusagara;
+Sindhu's son is Jayasagara, Bindu's son Vidyasagara;
+
+**1268.** Vidyasagara's other name is Manisagara,
+a supreme pandita, the abode of all virtues.
+
+**1269.** Vitaraga of the Kashyapa gotra is foremost among panditas;
+his son is Sushena-muni, endowed with great virtues,
+
+**1270.** his son Brahma Ojha, his son Daksha,
+his son Shantanu, a pandita, master of all the shastras,
+
+**1271.** his son was named Pitambara Pandita,
+his son Hiranyagarbha, renowned in the world.
+
+**1272.** Some say: Daksha's son is Pitambara Pandita,
+his son Shantanu, his son Hiranya Pandita.
+
+**1273.** Hiranya's son is Bhugarbha (?), his son Vedagarbha;
+Veda's son is Jigani, Mahamuni, some call him Jaganmuni;
+
+**1274.** some call him Jaganmahamuni.
+Jigani is childless; Mahamuni has two sons:
+
+**1275.** two panditas, Svarnarekha and Bhavadeva Bhatta;
+Svarnarekha [remained] a Varendra, Bhavadeva went to the Radhis.
+
+**1276.** Svarnarekha's son is Sindhu, some call him Sandhyaika Ojha;
+his son is the very wise Garuda.
+
+**1277.** Garuda's sons are Kratu Bhaduri and Matu Maitra;
+honoured by Ballala, they obtained kulinism.
+
+**1278.** Kratu is called Kaitai, Matu Maitai;
+some call [them] Kaitai Bhaduri and Maitai Maitra.
+
+**1279.** Sudhanidhi of the Vatsya gotra is very wise;
+his son's name is Dharadhara-muni,
+
+**1280.** his son Veda Ojha Mahashaya,
+his son Siddheshvara Pathaka, some call him Sidhu,
+
+**1281.** his son Chaturbhuja Chaturvedacharya;
+some say his other name is Chaturvedantacharya.
+
+**1282.** Siddheshvara's other son is Damodara Ojha;
+Chaturbhuja Chaturveda [remained] with the Varendras, Damodara went to the Radhis.
+
+**1283.** Some say: Veda Ojha's son is Nabhika (?) Acharya,
+his son Shulapani, the best of panditas,
+
+**1284.** his son Lakhai, his son Hiru (?),
+his son's name is Kalpataru,
+
+**1285.** his son Mantu (?), his son Sidhu,
+a supreme pandita, righteous in all deeds,
+
+**1286.** his son Chaturbhuja Chaturvedacharya,
+another son's name is the excellent Damodara Shukla (?).
+
+**1287.** Chaturvedacharya remained in the Varendra kula,
+and Damodara Ojha went and joined the Radhis.
+
+**1288.** Damodara's sons are Dhana and Shukra Mahashaya:
+Dhana goes to Varendra, Shukra stays in Rarh.
+
+**1289.** Chaturbhuja Chaturveda has many sons;
+now I shall recount their names.
+
+**1290.** Harihara Kad-muriyal (?) Mahashaya,
+honoured by Ballala, obtained shrotriya status.
+
+**1291.** Lakshmidhara Sanjamini, or Sanyal —
+honouring him, Ballala conferred kulinism on him.
+
+**1292.** Jayamana Mishra [of the] gain Bhima-Kaliyai,
+honoured by Ballala, obtained kulinism.
+
+**1293.** Shaktidhara [became] a shrotriya [with the] gain Taluri,
+Shashadhara a shrotriya [with the gain] Kamadeva-Kaliyai.
+
+**1294.** Divakara Acharya is foremost among panditas;
+to him Ballala granted the village of Bhadiyal.
+
+**1295.** Honoured by Ballala, they received honour.
+Listen attentively to what I shall now tell.
+
+**1296.** Medhatithi of the Bharadvaja gotra is very wise;
+his son is the excellent pandita, the great muni Gautama.
+
+**1297.** His son was named Vibhakara,
+his son they call Prabhakara.
+
+**1298.** His son is Vishnu Mishra, foremost among panditas,
+his son Kakutstha, another name Kaku.
+
+**1299.** Kakutstha has two sons, foremost among panditas:
+Gopinatha Ojha and Prajapati Agnihotrika.
+
+**1300.** Gopinatha's son is Vachaspati Mahashaya,
+another name Gunakara, the abode of all virtues,
+
+**1301.** his son Akashavasi, whom they call Akai,
+his son Narayana Panchatapa.
+
+**1302.** Narayana's son is Vardhamana Agnihotrika,
+a supreme pandita, a treasury of all virtues,
+
+**1303.** his son Prithvidhara, an excellent pandita,
+his son's name is Sharabha Acharya.
+
+**1304.** Sharabha's other name is Marara;
+his son is Matanga, whom they call Matta Ojha,
+
+**1305.** his son Jihmani, also Jaimini Acharya,
+a supreme pandita, excellent in all virtues,
+
+**1306.** his sons Bhaskara the Vedantist and Parashara Ojha:
+Bhaskara [remained] a Varendra, the mighty Parashara went to Rarh.
+
+**1307.** Bhaskara's sons are Kana, Dhana, Sukashi, Bhuvana,
+Vinayaka, and another son, Sayana Acharya.
+
+**1308.** Kana [received] the village of Gochchhasi, Dhana Gogram,
+Sukashi Gosvalambi, Bhuvana the village of Aturthi;
+
+**1309.** Vinayaka received the village of Uchchharika,
+its other name is Uchchhakudhi.
+
+**1310.** All of them are foremost among panditas;
+honoured by Ballala, they obtained shrotriya status.
+
+**1311.** Sayanacharya's sons are Ada, Aru, Atu Ojha,
+very mighty, excellent panditas, masters of the Vedas.
+
+**1312.** Ada, honoured by Ballala, took the village of Bampati;
+Bampati's other name is Jhamal.
+
+**1313.** Aru, becoming a shrotriya, received the village of Nadli:
+Nadli, Nadiyal, Naudi mean the same.
+
+**1314.** Atu Ojha, becoming a shrotriya, took Ratnavali;
+some call him Annu Acharya.
+
+**1315.** Honoured by Ballala, they are most excellent panditas;
+in the family of Aru Advaita Prabhu was born[^24-120].
+
+**1316.** Sayana's other son is Vedacharya Mahashaya;
+honouring him, Ballala made him a kulina,
+
+**1317.** granting him the village of Bhadada, he did him honour:
+in the family of Gautama Veda Bhadada became chief.
+
+**1318.** When Udayana Bhaduri appeared,
+at that time the kulinism of the Bhadada family [was lost]:
+
+**1319.** through association with Udayana's son their kula perished,
+and Udayana calls the Bhadadas "fillers of the row" (pankti-puraka).
+
+**1320.** Listen, listen, O hearers, with one mind:
+now I shall describe another branch of Gautama.
+
+**1321.** Gautama's fifth descendant is Kakutstha;
+his son is Prajapati Agnihotrika,
+
+**1322.** his son Gopinatha Ojha Mahashaya,
+his son Siddheshvara Vachaspati.
+
+**1323.** Vachaspati's sons are Gunakara and the noble Lakshmana:
+Gunakara lives in Varendra, Lakshmana in Rarh.
+
+**1324.** A certain genealogist describes Gautama's family differently;
+I shall tell the hearers what it is.
+
+**1325.** Gautama's son is Vibhakara, his son Prabhakara,
+his son Vishnu Mishra, the best of panditas,
+
+**1326.** his son was named Kakutstha Mahashaya,
+his son Prajapati Agnihotrika,
+
+**1327.** his son was named Matanga Ojha,
+his son the mighty Jaimini Acharya,
+
+**1328.** his sons Bhaskara the Vedantist and Parashara:
+Bhaskara [remained] in Varendra, Parashara went to the Radhis.
+
+**1329.** Saubhari of the Savarna gotra is a mahashaya;
+his son is Parashara-muni.
+
+**1330.** Parashara has two sons, foremost among panditas,
+named Mahipati and Digambara Ojha.
+
+**1331.** Mahipati's son was named Pashupati,
+a supreme pandita, [like] Brihaspati in intellect;
+
+**1332.** he has a son named Kulapati,
+his son is Narayana Agnihotrika,
+
+**1333.** Narayana's son is Divakara Ojha,
+his son the mighty Somacharya,
+
+**1334.** his sons Aniruddha and Gunarnava:
+Aniruddha [remained] in Varendra, Gunarnava went to the Radhis.
+
+**1335.** Parashara's other son is Digambara Ojha;
+his son is the mighty Aniruddha,
+
+**1336.** his son was named Lambodara,
+he has a son named Makaradhvaja,
+
+**1337.** his son Madhava Acharya Mahashaya,
+he has a son named Bharata Pathaka,
+
+**1338.** his son was named Vidyananda,
+Vidyananda's son was named Bhavananda,
+
+**1339.** Bhavananda's sons are Govinda and Narayana:
+Govinda [remained] a Varendra, Narayana went to Rarh.
+
+**1340.** Hear the various opinions of various genealogists;
+disclosing them, I shall describe them.
+
+**1341.** Some say: Parashara's son is Divakara,
+some call him Digambara;
+
+**1342.** Divakara's son is Aniruddha Mahashaya,
+his son Sudhakara, his son Vishvambhara,
+
+**1343.** his son Lambodara, his son Durgavara,
+his son Makaradhvaja, the best of panditas,
+
+**1344.** Makara's sons Madhava Acharya and Gopala Acharya,
+Madhava's son Bharata Pathaka Mahashaya,
+
+**1345.** Bharata's sons Vidyananda and Bhavananda,
+Vidyananda's sons Bhavanicharana, Shubhananda,
+
+**1346.** Viprananda, Mukunda, Devi-nandana —
+all of them most excellent panditas;
+
+**1347.** Bhavananda's sons Govinda and Narayana:
+Govinda [remained] a Varendra, Narayana went to Rarh.
+
+**1348.** Having studied the *Kula-ratna* and other books,
+I have described the genealogies of the kulinas.
+
+**1349.** The divergent opinions I heard from the mouths of the kulacharyas
+I have all written down, noting that they are differing opinions.
+
+**1350.** Among the kulacharyas there is no unity of opinion;
+which is true and which false, [only] the Gosani knows[^24-121].
+
+**1351.** Among the Radhis there are eight [gains of] siddha-shrotriyas:
+of the Shandilyas, Batavyal, Mashachataka, Kushari,
+
+**1352.** of the Kashyapas, Pakrashi, whom they call Parkati,
+Paldhi and Shimlai, know this for certain,
+
+**1353.** of the Vatsyas, Shimlal and the gain Kanjari;
+among the Bharadvajas and Savarnas there are no siddha-shrotriyas.
+
+**1354.** Among the Varendras there are eight [gains of] siddha-shrotriyas:
+of the Shandilyas, Champati and Nandanavasi,
+
+**1355.** of the Kashyapas the siddha-shrotriyas are the gain Karanja,
+of the Vatsyas, Bhattashali and Kamadeva Kaliyai —
+
+**1356.** Kamakali is called Kamadeva Kaliyai;
+know this for certain, O hearers —
+
+**1357.** of the Bharadvajas, Nadli, whom they call Nadiyal,
+and the gain Jhampati, whom they call Jhamal,
+
+**1358.** and the gain Atartha, whom they call Aturthi;
+among the Savarnas there are no siddha-shrotriyas at all.
+
+**1359.** Listen, listen, O hearers, with one mind:
+now I shall tell of the sadhya-shrotriyas of the Radhis.
+
+**1360.** Of the Shandilyas: Kusuma, Seyaka, Akasha, Ghoshali,
+Basuyani, Karala and Kulakuli;
+
+**1361.** of the Kashyapas: Amudi (?), Tailabati, Bhurishtal,
+Pushali, Palashai, Koyari, Bhatta, Mula;
+
+**1362.** of the Vatsyas the sadhya is the gain Bapuli;
+of the Bharadvajas the gain Sani (?), know this for certain;
+
+**1363.** of the Savarnas: Pumsika, Nandi, Siyari and Sat,
+Dayi, Nai, Pari, Bali, Siddhal — [these are] made known.
+
+**1364.** Of the Shandilyas seven, of the Kashyapas eight,
+of the Vatsyas one, of the Bharadvajas one, of the Savarnas nine.
+
+**1365.** Listen, listen, O hearers, with one mind:
+now I shall describe the sadhya-shrotriyas of the Varendras.
+
+**1366.** Of the Shandilyas: Sihari and Vishakha, whom they call Vishi;
+of the Kashyapas: Madhugrami, whom they also call Modhagrami;
+
+**1367.** of the Vatsyas: Kurmuriyal, known by the name Kurumba,
+Yanarudhi (?), Bhadiyal and the gain Kaliyai;
+
+**1368.** of the Bharadvajas: the gain Rai and Ratnavali,
+the gain Udrukhi (?), whom they call Uchchharukhi,
+
+**1369.** the gain Gosvalambi, whom they call Goshalakshi,
+and others call Goshrigal and Gopurvarvi;
+
+**1370.** the people of Gochhariyal some call Gochatti,
+others know them as Gochchhas;
+
+**1371.** the gain Kharjuri, whom they also call Khorjar,
+and also the gain Sariyal, know for certain.
+
+**1372.** In the Savarna gotra there are no sadhya-shrotriyas;
+believe this, O hearers.
+
+**1373.** Of the Shandilyas two, of the Kashyapas one, of the Vatsyas four,
+of the Bharadvajas seven, of the Savarnas none.
+
+**1374.** Hear, O hearers, of the kashta-shrotriyas of the Radhi class:
+they are "enemies of the kula," counted as secondary kulinas.
+
+**1375.** If [a kulina] marries their daughter, the kulina's kula perishes;
+that is why they are called enemies of the kula.
+
+**1376.** The kashta-shrotriyas, enemies of the kula, are rejected by kulinas;
+I tell their names — accept them all, O hearers.
+
+**1377.** Of the Shandilyas: Dirghangi, Pariha, Kulabhi,
+Garagari, Keshari, know this for certain;
+
+**1378.** of the Kashyapas: the gains Podari, Had, Gud, Pitamundi;
+of the Vatsyas: the gain Mahinta and Pippalai,
+
+**1379.** Dighali, Chautkhandi and the gain Purva;
+of the Bharadvajas: Rai and Dindi, whom they call Dingsai;
+
+**1380.** in the Savarna gotra: Ghantagrami,
+some call them Ghanteshvari.
+
+**1381.** Of the Shandilyas five, of the Kashyapas four, of the Vatsyas [five],
+of the Bharadvajas two, of the Savarnas one.
+
+**1382.** Hear of the kashta-shrotriyas of the Varendra class:
+calling them enemies of the kula, they are counted as secondary.
+
+**1383.** If [a kulina] marries their daughter, the kulina's kula perishes;
+that is why they are rejected by kulinas.
+
+**1384.** [Of the Shandilyas:] Matsyashi (?), Todaka, whom they call Totaka,
+and some call Suvarna-totaka;
+
+**1385.** the village of Beladi and the village of Bilva —
+Bilva some call Champabilva, others Chatubilva;
+
+**1386.** Betagram some call Kalindibeta, others Kamendrabeta,
+Thukhuri some call Purana-thukhuri;
+
+**1387.** there is also a very well-known gain named Tadoyal —
+so many [gains] are in the Shandilya gotra.
+
+**1388.** Of the Kashyapas the kashta-shrotriyas are the gain Suvi (?),
+some call them Sharagram, others Sarvagrami;
+
+**1389.** Balayashtika, Mauhali, whom some call Mauyali;
+Balihari some call Balihari;
+
+**1390.** Kirali some call Kirala,
+Vishotkata some call Katagrami;
+
+**1391.** there are also the people of Ashrakota (?);
+Parisvami some call Paresha, others Sahagram;
+
+**1392.** Mathagram, Madhyagram and Gangagram,
+Panchana (?), Bijakunda and Belagram, know;
+
+**1393.** the gain Atharvija is very well known —
+some call it Chama-atharvija.
+
+**1394.** I have enumerated the kashta-shrotriyas of the Kashyapas;
+O hearers, hear of the kashta-shrotriyas of the Vatsyas:
+
+**1395.** Shitali some call Simuli —
+Shitali and Simuli are names of one village;
+
+**1396.** Tanudi some call Taluri,
+Devali some call Deuli;
+
+**1397.** Vatsa (?), Kukkati and Shrutavati,
+the gain Nidrala and also Akshagramati;
+
+**1398.** Paundra-vardhani some call Paundrikakshi,
+some know them as Paundra-kali;
+
+**1399.** Ghoshagram some call Chakshusha-gram,
+some know it as Lakshagram;
+
+**1400.** the village of Nagasura some call Sahari,
+the village of Tantrakeli they call Kalindi;
+
+**1401.** the village of Shivatati they call Chaturanandi,
+the village of Vaishali they know as Dhosali;
+
+**1402.** the village of Boda and the village of Kalihaya.
+Now I shall name the kashta-shrotriyas of the Bharadvajas:
+
+**1403.** there are the people of Gogram and the people of Kachudi —
+Kachudi some also call Kachchhati;
+
+**1404.** the village of Nanda some call Nani-gram;
+the people of Kshetra, or Kritra, and also of the villages Puti and Pippali;
+
+**1405.** the people of Shulagram some call people of Sharangigram,
+the people of Shimbibohal they call Shimbibohal;
+
+**1406.** the people of Dadhiyal are very well known;
+Nighata some call Nikhata;
+
+**1407.** Balotkata some call Balotkata,
+the village of Kunja some call Shakati-kunja, others Kanchana-[kunja];
+
+**1408.** Bhogrami some call Samudra-bhogram.
+Now I shall tell of the Savarna gotra:
+
+**1409.** the village of Siudiyar, and also Dadhi and Pakadi —
+Pakadi some call Pipadi;
+
+**1410.** the people of Utadi some call Unduri,
+the people of Dhukadi some call Dhunduri;
+
+**1411.** there is the village of Mehudi and the village of Nedhudi,
+they also name Shringi, Samudra and Naigram;
+
+**1412.** the village of Tuturi and the village of Panchavati,
+very well known is the village of Khandavati;
+
+**1413.** the village of Bad some call Tadayar,
+the village of Alalta (?) some call Bashe-gram;
+
+**1414.** the village of Shvetaka some call Setuka,
+the village of Kalapi some call Kapali;
+
+**1415.** the village of Satili some call Sitali;
+Paundra-vardhani some call Ketu-paundra, others Paundra-ketu,
+
+**1416.** some know it as Pundarika;
+the people of Nikhata some call Nikhadi.
+
+**1417.** Of the Shandilyas seven, of the Kashyapas fourteen,
+of the Vatsyas sixteen, of the Bharadvajas thirteen,
+
+**1418.** of the Savarnas twenty: thus, O hearers,
+I have determined the kashta-shrotriyas of the Varendras[^24-122].
+
+**1419.** After the passing of Raja Kamsanarayana
+Siudiyar and Pakadi among the Savarnas obtained [the rank of] sadhya[^24-123].
+
+**1420.** The sadhya-shrotriyas were formerly kashta-shrotriyas;
+gradually, by giving daughters to kulinas, they obtained [the rank of] sadhya.
+
+**1421.** Many Radhi and Varendra brahmanas, kashta-shrotriyas,
+accept gifts from the unworthy and officiate for those unfit.
+
+**1422.** Some became "varna-brahmanas," others went to other lands
+and began to perform rites, worship and recitation [for pay].
+
+**1423.** The magnanimous Ballala, honouring the Radhi and Varendra brahmanas,
+divided them into three classes: kulinas, shuddha- and kashta-shrotriyas.
+
+**1424.** According to their dignity he gave names to all;
+the brahmanas respect the "Ballala dignity" of the gains.
+
+**1425.** Now I shall tell of the kapas and vamshajas:
+hear how and why they arose.
+
+**1426.** Among the Radhis there are vamshajas, among the Varendras kapas;
+lend your ears to this, O hearers.
+
+**1427.** In Ballala's assembly those endowed with nine qualities were counted as kulinas,
+those endowed with eight qualities received the rank of shuddha-shrotriyas,
+
+**1428.** those endowed with few qualities were counted as kashta-shrotriyas;
+some call them secondary kulinas.
+
+**1429.** They are enemies of the kula, counted as non-brahmanas;
+in brahmana society they became disrespected.
+
+**1430.** By accepting gifts from the unworthy and officiating for those unfit,
+they all became outcastes.
+
+**1431.** Those kulinas who took their daughters [in marriage]
+became unfit in society.
+
+**1432.** In Ballala's time the brahmanas were divided into three classes;
+later one more, new group arose.
+
+**1433.** A kulina who married a kashta-shrotriya's daughter
+remains unfit in society.
+
+**1434.** Those kulinas who give a daughter to a kashta-shrotriya
+become outcastes in society.
+
+**1435.** From [unions of] kashta-shrotriyas with kulinas a new family arose;
+they were given the name "vamshaja."
+
+**1436.** If a kulina takes a vamshaja's daughter
+or gives a daughter to a vamshaja,
+
+**1437.** he becomes unfit in society and receives the name vamshaja.
+Thus many vamshajas arose.
+
+**1438.** Ganai, Had, Jhithu — these three Bandyaghatis,
+Hasya Ganguli and Shakuni Chatuti —
+
+**1439.** by accepting gifts from the unworthy and officiating for those unfit,
+by marrying the daughters of kashta-shrotriyas
+
+**1440.** and giving their daughters to kashta-shrotriyas,
+they lost their place in society.
+
+**1441.** Having done this, they became unfit in society,
+and a group of kulinas entered among them:
+
+**1442.** Vasishtha took Ganai's daughter,
+Thotha married Shakuni's daughter,
+
+**1443.** Dayaka married Had's daughter,
+Chakrapani and Kuvera took Hasya's two daughters,
+
+**1444.** Kulabhushana Chatta took Jhithu's daughter —
+from these six came the name "vamshaja."
+
+**1445.** Garagari, Pippalai, Dindi or Dingsai,
+Mahinta, Pitamundi and the gain Ghanta,
+
+**1446.** Dirghangi, Pariha, Kulabhi, Podari,
+Had, Gud, the gain Rai and Keshari,
+
+**1447.** Dighali, Chautkhandi and the gain Purva —
+these seventeen gains I count as kashta-shrotriyas.
+
+**1448.** They constantly intermarry with the vamshajas,
+and therefore they too received the name vamshaja.
+
+**1449.** Devivara made them kashta-shrotriyas again,
+and the kulinas who had become vamshajas remained outcastes.
+
+**1450.** The vamshajas remain engaged in bad deeds:
+some became agradanis (receivers of funeral gifts), some joined the varna-brahmanas,
+
+**1451.** some perform rites and worship and serve as cooks,
+others go off to other lands.
+
+**1452.** Officiating for shudras, serving as temple priests and cooks,
+the kashta-shrotriyas and vamshajas settle in various lands.
+
+**1453.** How Devivara described [the status of] the vamshajas —
+listen, O hearers, I shall tell what it is.
+
+**1454.** A kulina who gives a daughter to a shuddha- or sadhya-shrotriya is a vamshaja;
+a kulina who gives a daughter to a kashta-shrotriya is a vamshaja;
+
+**1455.** a kulina who takes a vamshaja's daughter is a vamshaja;
+a kulina who gives a daughter to a vamshaja is a vamshaja;
+
+**1456.** a kulina with whom kulinas do not intermarry
+I count among the vamshajas.
+
+**1457.** [Formerly] a kulina who took a kashta-shrotriya's daughter [became] a vamshaja;
+Devivara abolished this rule:
+
+**1458.** one who takes a kashta-shrotriya's daughter loses dignity,
+but by giving a daughter to a great kulina he becomes respected again.
+
+**1459.** Marriages used to be contracted between shuddha-shrotriyas and kulinas,
+and by this the kulina's kula did not perish;
+
+**1460.** Devivara abolished this rule,
+and now Devivara's opinion began to be followed.
+
+**1461.** O hearers, you have heard the account of the vamshajas;
+now I shall tell of the kapas among the Varendras.
+
+**1462.** In Ballala's assembly those endowed with nine qualities became kulinas,
+those endowed with eight qualities were counted as shuddha-shrotriyas,
+
+**1463.** those endowed with few qualities as kashta-shrotriyas,
+whom kulinas and shuddha-shrotriyas always reject.
+
+**1464.** If any kulina took a kashta-shrotriya's daughter,
+all reviled him as a "kapa."
+
+**1465.** "Kapa" is explained as "one who obtains the bad" (ku-apnoti):
+because he ruins the kula out of greed, he is reviled as a "kapa."
+
+**1466.** The offspring of kulinas by kashta-shrotriya women
+were despised under the name kapa.
+
+**1467.** Kashta-shrotriyas, shuddha-shrotriyas, kulinas —
+into three classes Ballala divided the brahmanas.
+
+**1468.** A long time afterwards the kapas arose;
+I shall tell how the kapas increased.
+
+**1469.** A resident of the village of Vaniati, Udayana Acharya,
+composed the *Nyaya-kusumanjali* and other excellent books[^24-124].
+
+**1470.** By his authority the kulinism of the Bhadadas was destroyed:
+he declared the Bhadadas "fillers of the row."
+
+**1471.** *"First Maitra, then Bhima, Rudra, Sanjamini, Sadhu,
+Lahiri and Bhaduri; and Bhadada — the filler of the row."*[^24-125]
+
+**1472.** Udayana created the karana and the custom of parivarta;
+from his son came the community of kapas.
+
+**1473.** [Formerly,] if a kulina intermarried with a shuddha-shrotriya,
+the kulina's kula suffered no harm.
+
+**1474.** Udayana put an end to this rule
+and established a new one:
+
+**1475.** "Marriages shall be contracted between kulina and kulina;
+kulinas shall no longer give daughters to shrotriyas.
+
+**1476.** Kulinas, by marrying the daughters of kulinas
+and of shuddha-shrotriyas, shall make their kula glorious.
+
+**1477.** The karana is made between kulinas,
+and the custom of parivarta also remains among kulinas.
+
+**1478.** If there is no daughter, they shall make a girl of kusha grass
+and, giving her away, make the kula glorious[^24-126].
+
+**1479.** The shrotriya places a mark (phonta) on the forehead of the kulina bridegroom —
+in this their karana consists.
+
+**1480.** A shrotriya shall give his daughter to a kulina —
+by this the shrotriya's honour increases.
+
+**1481.** Between kapa and kapa there shall be karana —
+by this the kapas become honourable.
+
+**1482.** If a kulina gives a daughter to a shrotriya,
+his kula will perish, and he will be counted among the shrotriyas.
+
+**1483.** If a kulina makes a karana with a kapa,
+his kula will perish, and he will be counted among the kapas.
+
+**1484.** If a kulina gives a daughter to a kapa
+or takes a kapa's daughter,
+
+**1485.** his kula will perish, he will become a kapa, unfit in society."
+He enforced yet another very harsh rule:
+
+**1486.** "If a kulina sleeps, eats and so on together with a kapa,
+the kulina's kula will be broken."
+
+**1487.** Udayana promulgated this rule.
+On parivarta and karana I shall speak in detail later.
+
+**1488.** Listen, listen, O hearers, with one mind:
+I shall tell of the ruin of the Bhadada kula and of the kapas.
+
+**1489.** Udayana Acharya Bhaduri had two wives;
+the elder, even in old age, remained fond of finery.
+
+**1490.** Udayana says: "Dear, what behaviour is this?
+You have grown old, and your love of finery has not gone.
+
+**1491.** I see flowers in the knot of your hair, a garland of flowers on your neck —
+your behaviour greatly vexes me."
+
+**1492.** The elder wife says: "My lord, as long as you
+remain alive, my love of finery will not diminish."
+
+**1493.** Udayana says: "The younger wife is very sedate,
+always absorbed in worshipping her chosen Deity;
+
+**1494.** she has no love of finery at all;
+I would like to see you like her.
+
+**1495.** If it is otherwise, I shall surely abandon you;
+from today, dear, be careful."
+
+**1496.** After some days Udayana Acharya sees
+his elder wife still decked out in finery:
+
+**1497.** in the knot of her hair a lovely garland of champaka,
+on her neck bel and bakula shine, and bees hum.
+
+**1498.** Udayana Acharya says in anger: "Sinful woman!
+You have grown old, and your love of finery has not gone!"
+
+**1499.** Saying this, he abandoned his elder wife;
+her six sons remained with her.
+
+**1500.** To his sons, Bhupati, Bhavanipati and the others,
+Udayana keeps saying to abandon their mother.
+
+**1501.** The sons say: "Father, this we cannot do;
+taking our mother, we shall go to another land."
+
+**1502.** In anger Udayana says: "You sons,
+you have lightly transgressed your father's word!
+
+**1503.** For this bad deed you are counted as kapas:
+your kula is gone, you have become contemptible."
+
+**1504.** Hearing this, the sons fell at their father's feet;
+relenting, the father said:
+
+**1505.** "From today your kulinism is at an end;
+I have told you the chief rule of the karana.
+
+**1506.** Those kulinas who associate with you
+will also be counted among the kapas."
+
+**1507.** Seeing their father's severity, the sons
+separated and formed their own group.
+
+**1508.** Considering themselves kulinas, they began to make karanas,
+and many kulinas came and joined them.
+
+**1509.** Ananda Bhadada was the foremost among them;
+from that time the Bhadada kula was ruined.
+
+**1510.** Ananda became the helper of Udayana's sons —
+that is why the Bhadadas' kulina dignity was lost.
+
+**1511.** He slept and ate together with the kapas;
+for this offence the Bhadadas lost their kula.
+
+**1512.** Other kulinas who were with him
+all lost their kula like the Bhadadas.
+
+**1513.** All of them together made karanas
+and all were counted among the kapas.
+
+**1514.** The kulina community does not eat with them,
+and Bhadada laments in his heart.
+
+**1515.** Seeing no way out, Bhadada goes to Udayana —
+and the Bhadadas became "fillers of the row" in the kulina community.
+
+**1516.** Udayana ate in one row with Bhadada —
+hence the designation of the Bhadadas as "fillers of the row."
+
+**1517.** By Udayana's grace the Bhadadas became admissible in society,
+but their kulina dignity was lost and never returned.
+
+**1518.** Udayana Acharya Bhaduri Mahashaya
+examines the faults and merits of the kulinas;
+
+**1519.** seeing their faults and merits, he then, forming equal groups,
+divides the kulinas into eight parts[^24-127].
+
+**1520.** Udayana's younger wife, of very good character,
+bore a son named Pashupati;
+
+**1521.** he became a chief kulina like his father,
+equal to his father in learning, very wise.
+
+**1522.** Bhupati and the other sons of the elder wife,
+having become kapas, are outcastes in the kulina community.
+
+**1523.** Pashupati's son, Ghaghai, was a great pandita;
+by the "blow" (aghata) [that makes one] a kapa and by the "depression" (avasada) he determined the eight patis.
+
+**1524.** One who is suspected of deeds contrary to society and dharma,
+even if he did not commit them —
+
+**1525.** he is punishable by society;
+this punishment the genealogists call "aghata" and "avasada":
+
+**1526.** the heavy punishment is aghata, the light one avasada;
+in avasada the kulina is only censured,
+
+**1527.** but in aghata the kula suffers harm, and [the kulina] is counted among the kapas.
+Through association with kapas many kulinas became disrespected.
+
+**1528.** In this way some time gradually passed,
+and Dheyi Bagchi and Madhu Maitra appeared.
+
+**1529.** All the sons of Madhu Maitra by his first wife
+became kapas through their father's curse.
+
+**1530.** They ruined the kula of many kulinas,
+and Kamsanarayana made manifest the honour of the kapas.
+
+**1531.** When Sri Krishna Chaitanya appeared,
+at that time [there was] the power of Raja Kamsanarayana[^24-128].
+
+**1532.** Now hear, O hearers, all these events —
+how the elevation of the kapas was achieved.
+
+**1533.** A resident of the village of Brahmanbala, Shukadeva Acharya,
+the best of brahmanas, lived in Shantipur.
+
+**1534.** In Shantipur he gave a great feast at his father's shraddha;
+kulinas and shrotriyas from various places came there.
+
+**1535.** A resident of Shantipur, Narasimha Nadiyal,
+came late to that feast[^24-129].
+
+**1536.** Brahmanas have a rule: those invited
+begin to eat when all have arrived.
+
+**1537.** But that day it turned out otherwise:
+all gathered and sat down to eat
+
+**1538.** without waiting for Narasimha Nadiyal.
+Arriving, Narasimha Nadli asked the reason.
+
+**1539.** All say: "You do not give your daughters into a great house;
+that is why we hold you in contempt.
+
+**1540.** If you can give a daughter to Madhu Maitra,
+we shall all together honour you."
+
+**1541.** Narasimha Nadiyal, having suffered humiliation,
+quickly went back to his own place.
+
+**1542.** That Nrisimha Pandita, a poor brahmana,
+was always thinking of giving his daughter into a great house.
+
+**1543.** "To give a daughter into a great house, money is needed;
+how shall I accomplish this?"
+
+**1544.** By providence Raja Sri Ganesha of Srihatta
+honoured Narasimha Nadiyal.
+
+**1545.** They had a conversation,
+and the king understood what was in Nrisimha's mind.
+
+**1546.** The king says: "Accept the post of minister,
+and I shall bear all the expenses of the wedding."
+
+**1547.** Narasimha accepted the post of minister,
+and the king gave all that was needed for the wedding[^24-130].
+
+**1548.** Having received the money, the noble Narasimha,
+together with his wife, sons and two daughters,
+
+**1549.** boarded a boat and went to Majhgram,
+where Madhu Maitra lived.
+
+**1550.** Madhu Maitra is performing the morning sandhya and tarpana;
+Narasimha went quickly to him.
+
+**1551.** Narasimha says: "Maitra, listen to one thing:
+I have fallen into great trouble — be my saviour.
+
+**1552.** Preserve the caste of a brahmana, mahashaya,
+otherwise I shall give up my life — I have resolved it."
+
+**1553.** Maitra says: "Mahashaya, if it is within my power,
+I shall surely help you."
+
+**1554.** Narasimha says: "Maitra, you are noble;
+come with me to where my boat is."
+
+**1555.** Saying this, he took Madhu Maitra into the boat
+and brought his two beautiful daughters to him:
+
+**1556.** "Take these two daughters in marriage;
+this wealth and these jewels I give as dowry."
+
+**1557.** Maitra says: "Great houses do not take [brides from your family];
+I am afraid to take your daughters in marriage."
+
+**1558.** Narasimha says: "If you do not take my daughters,
+I shall die with my whole family, and you will be the slayer of a brahmana.
+
+**1559.** With my whole family I shall give up my life in the river —
+know for certain, Maitra, this is my vow."
+
+**1560.** When Maitra heard Narasimha's words,
+it was as if a thunderbolt had struck his head.
+
+**1561.** "Slaying a brahmana, slaying women — what a terrible plight!"
+Seeing this, Madhu Maitra laments greatly:
+
+**1562.** "If I marry, there will be censure in the kulina community;
+if I do not, a great sin will fall on me.
+
+**1563.** Compared with [such] a sin, marriage is no fault;
+come what may, I shall surely marry."
+
+**1564.** Thinking thus, he reassured Narasimha
+and, choosing a day, married both daughters.
+
+**1565.** Seeing this, Madhu Maitra's sons by his former marriage
+excluded their father from the community.
+
+**1566.** Madhu Maitra sought refuge with Dheyi Bagchi,
+but he at first disregarded him.
+
+**1567.** O hearers, now hear the reason for this disregard:
+disclosing it, I shall describe it.
+
+**1568.** Madhu Maitra and Dheyi Bagchi were two great kulinas;
+for some reason a long-standing quarrel arose between them.
+
+**1569.** Madhu is the brother-in-law (wife's brother), Dheyi the sister's husband;
+at an invitation of Dheyi's Madhu did not eat.
+
+**1570.** Dheyi says: "Listen, Madhu, this is my vow:
+I shall make you eat [even] soaked rice."
+
+**1571.** At that time Dheyi had great power:
+the kulina community almost entirely obeyed him.
+
+**1572.** Some kulinas were on Madhu Maitra's side,
+but they were angered by his marriage to the daughters of Nadli.
+
+**1573.** Madhu's sons, taking all those brahmanas,
+went and took Dheyi's side.
+
+**1574.** All the brahmanas abandoned Madhu Maitra;
+expelled from the community, Madhu Maitra was left alone.
+
+**1575.** Madhu writes a letter to Dheyi Bagchi:
+"In the community I have everywhere become unfit.
+
+**1576.** Preserve my honour, mahashaya;
+know for certain that I take refuge in you."
+
+**1577.** The letter bore Madhu no fruit;
+then Madhu went to Dheyi's house and ate there.
+
+**1578.** At that time Dheyi Bagchi was elsewhere;
+telling his sister, Madhu went home.
+
+**1579.** Gradually some time passed;
+the day of Madhu's father's shraddha arrived.
+
+**1580.** Madhu Maitra, to invite Dheyi Bagchi,
+came to Dheyi's house.
+
+**1581.** Madhu says: "Bagchi, accept the invitation;
+my request is that you act as priest at the shraddha.
+
+**1582.** If you will not accept my words,
+I shall not perform the shraddha, and I shall give up my life."
+
+**1583.** At that time Dheyi Bagchi had great power:
+the kulina community obeyed him.
+
+**1584.** Then Dheyi Bagchi's wife came and said:
+"Conduct his father's shraddha and preserve my brother's honour."
+
+**1585.** Having thought for a long time, Dheyi Bagchi Mahashaya
+vowed to protect Madhu Maitra.
+
+**1586.** Dheyi Bagchi, taking the chief kulinas and shrotriyas,
+went as an invited guest to the shraddha of Madhu's father.
+
+**1587.** Madhu Maitra's sons, fencing themselves off in the house,
+were keeping apart.
+
+**1588.** Dheyi Bagchi, honoured and foremost of all,
+summoned Madhu Maitra's sons
+
+**1589.** and asked them to submit to their father;
+they did not heed Bagchi's words, and Bagchi grew angry.
+
+**1590.** All the brahmanas present, kulinas and others,
+said: "Madhu's sons have become fallen:
+
+**1591.** quarrelling with their father, they have done a wicked deed."
+For a deed worthy of kapas they became kapas.
+
+**1592.** Anai, Arjuna and the other sons of the former wife,
+becoming disowned sons, were counted among the kapas.
+
+**1593.** They lost their kula through their own misdeeds;
+becoming outcastes, in the end they [nevertheless] rose.
+
+**1594.** Madhu Maitra's sons by his last wife, grandsons of Nadli through their mother,
+became the purest in the Maitra family.
+
+**1595.** Raksha, Sadananda, Nanda and the other sons,
+grandsons of Nadli through their mother, are chief kulinas.
+
+**1596.** The kapas became outcastes and untouchable;
+no kulina or shrotriya associated with them.
+
+**1597.** Then all the kapas conspired
+and by various means began to ruin the kula of the kulinas.
+
+**1598.** [When] Dheyi Bagchi and Madhu Maitra had left the world,
+the strictures of the community gradually increased.
+
+**1599.** The constraints of the community brought utter ruin:
+the kula of kulinas was destroyed in the easiest way.
+
+**1600.** One loses his kula by eating a kapa's food;
+another, by bathing at a kapa's ghat, loses his kula;
+
+**1601.** another's kula becomes low from a sprinkling of a kapa's water,
+another's kula is diminished by touching a kapa.
+
+**1602.** Good shrotriyas do not want to give daughters to kapas,
+and for that reason too the kapas' outrages increase.
+
+**1603.** The zamindar of Tahirpur, Raja Kamsanarayana,
+is a shrotriya-nayaka of a shuddha-shrotriya family.
+
+**1604.** Kulinas and genealogists went to him
+and began to tell of the ruin of the kula in the easiest way.
+
+**1605.** Kulinas, shrotriyas and genealogists,
+taking counsel, determined a remedy.
+
+**1606.** [The rule had been:] if [a kulina] takes a kapa's daughter or gives a daughter to a kapa,
+the kulina's kula is broken;
+
+**1607.** the karana in the rites of the kula is the chief part for a kulina:
+if he makes a karana with a kapa, the kulina's kula is broken.
+
+**1608.** [Now they ruled:] "A shrotriya is a touchstone, like the Ganga:
+giving daughters to kapas, they will remain the best.
+
+**1609.** Shrotriyas will give daughters to kapas and kulinas;
+kapas will receive seats [in the row] after the kulinas.
+
+**1610.** If one sleeps and eats together with a kapa,
+kulinism will never be lost."
+
+**1611.** The raja of Tahirpur, Kamsanarayana,
+gave two [of his] daughters to kapas:
+
+**1612.** the first daughter he gave to the son of Vanga Sanyal,
+the second daughter he gave to the son of Daora Majhi Sanyal.
+
+**1613.** At these two weddings kapas and kulinas ate together —
+thus the elevation of the kapas was achieved.
+
+**1614.** The chief performer [of the rite] is the kulina, the secondary the kapa;
+by the raja's efforts the quarrel of kapas and kulinas ended.
+
+**1615.** [A kulina] who takes a kashta-shrotriya's daughter
+does not lose kulinism, but becomes subject to censure;
+
+**1616.** by then giving a daughter to a famous kulina
+he will again obtain the former honour of the kula.
+
+**1617.** Breaking certain rules of Udayana Bhaduri,
+Raja Kamsanarayana established new rules.
+
+**1618.** By these rules all the Varendra brahmanas live;
+to this day no one breaks these rules[^24-131].
+
+**1619.** I shall tell of the rules in detail in the description of the karana;
+know this for certain, O hearers.
+
+**1620.** Listen, listen, O hearers, with one mind:
+now I shall recount the names of the melas and patis.
+
+**1621.** The melas of the Radhis and the patis of the Varendras:
+by the "faults" the order of the kulas is arranged.
+
+**1622.** I shall describe the thirty-six melas of the Radhis:
+Phulia, Vallabhi, Khardaha,
+
+**1623.** Sarvanandi, Surai and Pandita-ratni,
+Bangal, Pasmel and Vijaya-panditi,
+
+**1624.** the mela of Gopala Ghataki and Vidyadhari,
+Chhaya, Narendri and Acharya-shekhari,
+
+**1625.** the melas of Chandai, Madhai and Parihali,
+the mela of Srirangabhatti, Hari Majumdari,
+
+**1626.** the mela of Kakutsthi and Maladhara-khani,
+the mela Srivardhini and the mela Pramodini,
+
+**1627.** the mela Shubharaja-khani, Dasharatha Ghataki,
+the mela Nadiya, the mela Rai, Bhairava Ghataki,
+
+**1628.** Dohata, the mela Chhayi and Dharadhari,
+Chatta-raghavi, Achambita and Bali,
+
+**1629.** the mela Shuddha-sarvanandi, Raghava Ghoshali,
+Sadananda-khani and Chandrashekhari;
+
+**1630.** Chandrashekhari's other name is Chandrapati.
+The Radhi kulinas are distributed among these thirty-six melas.
+
+**1631.** Now I shall describe the patis of the Varendras:
+Nirabil, Bhushana, Rohila,
+
+**1632.** Bhavanipur, Beni and Ale-khani,
+the pati Jonali and the pati Kutub-khani.
+
+**1633.** The Varendra kulinas are distributed among eight patis;
+O hearers, I have told of the patis[^24-132].
+
+**1634.** O hearers, you are most fortunate:
+on this occasion I have told of the division of Radhis and Varendras.
+
+**1635.** Listen, listen, O hearers, with one mind:
+I shall tell of the parivarta among the Radhis and the karana among the Varendras.
+
+**1636.** Chatuti, Putitunda, Ghoshal, Bandyaghati,
+Kanjilal, Ganguli, Kunda[gain] and Mukhuti...
+
+**1637.** In the Kunda family there were many bad deeds,
+and Devivara deprived them all of kula:
+
+**1638.** [they] accepted gifts from the unworthy, officiated for those unfit,
+married the daughters of kashta-shrotriyas,
+
+**1639.** constantly intermarried with vamshajas —
+for all these reasons the Kundas lost their kulinism.
+
+**1640.** In Devi[vara]'s assembly the kulina dignity of the Kundas was lost;
+in Devi[vara]'s assembly seven houses kept their kula.
+
+**1641.** Gathering all the faults of the kulinas,
+seeing the faults, he carefully determined [their] dignity.
+
+**1642.** By likeness of faults he united [families] into melas, forming equal groups:
+by the faults he divided the kulinas into thirty-six melas.
+
+**1643.** As according to sankhya the world arises from prakriti,
+so the melas arise from the Mukhutis.
+
+**1644.** Yogeshvara Mukhuti is the original prakriti of the melas:
+from him Devivara creates the melas.
+
+**1645.** By Devi[vara]'s skill the whole Mukhuti family
+took upon itself the burden of faults and merits:
+
+**1646.** absorbing faults, the Mukhutis became the receptacle of faults and merits —
+and Devivara called the Mukhutis "prakriti."
+
+**1647.** Chatuti, Putitunda and Ghoshal,
+Bandyaghati, Ganguli and Kanjilal —
+
+**1648.** then they took up the burden of faults and merits
+and became the receptacle of faults and merits:
+
+**1649.** through the faults and merits of the Mukhutis they share in faults and merits;
+therefore Devivara calls them all "palti."
+
+**1650.** He from whom a fault originates is "prakriti";
+he to whom that fault attaches is called "palti."
+
+**1651.** If Rama commits a fault, Rama is the prakriti;
+if Shyama is tainted through connection with Rama, Shyama is called palti.
+
+**1652.** Marriages shall be contracted between palti and prakriti —
+such was the rule Devivara laid down.
+
+**1653.** The prakritis shall take the daughters of the six palti houses,
+and the paltis shall take the daughters of the prakritis.
+
+**1654.** Kulina daughters born of kulina daughters
+shall no longer be given in marriage [outside this circle].
+
+**1655.** By this rule the kulina keeps the dignity of his kula;
+if one acts otherwise, the [bond of] palti and prakriti is broken.
+
+**1656.** If the [bond of] palti and prakriti is broken, the kula does not remain:
+the kulacharyas call such a one a vamshaja.
+
+**1657.** "By only taking or only giving [daughters]
+kulinism will not remain," says Devivara.
+
+**1658.** Marriages shall be contracted by the rule of parivarta;
+if one acts otherwise, the dignity of the kula will be lost.
+
+**1659.** If, bypassing the prakritis, the paltis alone
+intermarry among themselves by parivarta,
+
+**1660.** then the dignity of the kulina's kula will be lost,
+and they will be counted among the vamshajas.
+
+**1661.** Kulinas who have no [mutual] exchange [of daughters]
+will also be counted among the vamshajas.
+
+**1662.** If a kulina gives a daughter to a vamshaja or a shrotriya,
+the kulina will become a vamshaja; [likewise] if he takes a vamshaja's daughter.
+
+**1663.** For up to seven generations a vamshaja retains a little honour,
+and after that the vamshaja becomes most contemptible.
+
+**1664.** A vamshaja is like a polluted pot, rejected by kulinas;
+many of them, abandoning good deeds, are sunk in bad ones.
+
+**1665.** A good shrotriya does not want to give a daughter to a vamshaja,
+but even if he does, the shrotriya's dignity is not lost.
+
+**1666.** A shrotriya can marry the daughters of a kulina,
+of a vamshaja and of a shrotriya.
+
+**1667.** A shrotriya is most pure — [like] Ganga water:
+he has the power to purify a vamshaja.
+
+**1668.** Many vamshajas, giving daughters to shrotriyas,
+by Devi[vara]'s grace easily became shrotriyas.
+
+**1669.** The Banduris of Nadha were vamshajas —
+they became shrotriyas of the Mashachataka rank.
+
+**1670.** The Banduris [of the family of] Sundaramalla were vamshajas —
+some of them became Batavyal shrotriyas[^24-133].
+
+**1671.** Many vamshajas, by giving daughters to shrotriyas,
+wish to rise in society by becoming shrotriyas;
+
+**1672.** this caused great turmoil in society,
+and Devivara abolished this rule.
+
+**1673.** Accepting gifts from the unworthy and officiating for those unfit
+is very common among the vamshajas.
+
+**1674.** Many vamshajas, going to various lands,
+perform rites and worship and serve as cooks.
+
+**1675.** Officiating for shudras, serving as temple priests and cooks,
+the vamshajas settled in various lands.
+
+**1676.** The kashta-shrotriyas driven out by Devi[vara] and all the vamshajas,
+going to various lands, officiate for shudras and others,
+
+**1677.** serve as temple priests and as cooks —
+thus the vamshajas came to extreme degradation.
+
+**1678.** Many vamshajas turned to crafts:
+they took up the trades of cowherds, potters, jugi weavers and tanti weavers.
+
+**1679.** Of the kashta-shrotriyas and the vamshajas
+many became varna-brahmanas.
+
+**1680.** In Ballala's time many became agradanis,
+and later many vamshajas joined them.
+
+**1681.** In brahmana society they are objects of censure.
+Now, O hearers, hear of the dignity of parivarta.
+
+**1682.** Parivarta means "exchange"; I shall explain it in detail;
+fix your minds on it, O hearers.
+
+**1683.** When one takes another's sister and the other takes the first one's daughter,
+all call this parivarta.
+
+**1684.** [For example,] Shyama took Rama's sister,
+and Rama takes the daughter of [a relative of] Shyama on the other side —
+
+**1685.** this is called the custom of parivarta.
+I shall tell in detail how it is done.
+
+**1686.** If the father-in-law or brother-in-law marries the son-in-law's paternal aunt or sister,
+this is chief (mukhya) parivarta.
+
+**1687.** If the son-in-law has no aunt or sister,
+and the father-in-law or brother-in-law takes the daughter of [a relative] on the other side,
+
+**1688.** this too counts as chief parivarta.
+Hear, honoured hearers, of secondary (gauna) parivarta:
+
+**1689.** if there is neither aunt nor sister of the son-in-law nor a daughter on the other side,
+and the father-in-law or brother-in-law marries the daughter of his paternal uncle (younger or elder),
+
+**1690.** — this the kulacharyas call secondary parivarta.
+
+**1691.** If even this is ever impossible,
+then that kulina's kula perishes:
+
+**1692.** he is counted among the vamshajas —
+know this for certain, O hearers.
+
+**1693.** The son-in-law too may marry his father-in-law's sister, his paternal cousin,
+his father-in-law's aunt, his cousin through the elder uncle,
+
+**1694.** the daughter of his brother-in-law's paternal cousin,
+and his brother-in-law's daughter —
+
+**1695.** this too counts as parivarta.
+Now hear what relationships arise through parivarta:
+
+**1696.** mutually sons-in-law and fathers-in-law, mutually sisters' husbands:
+one becomes a father-in-law, another a sister's husband,
+
+**1697.** one a son-in-law, another an aunt's husband —
+this is the custom of parivarta among the Radhis.
+
+**1698.** If there is neither aunt nor sister nor daughter,
+then for lack of parivarta the kulina's kula perishes.
+
+**1699.** Without parivarta the kula does not remain:
+a kulina without parivarta is called a vamshaja.
+
+**1700.** Parivarta takes place between palti and prakriti;
+outside palti and prakriti the kula does not remain.
+
+**1701.** Equal standing of kula, equal exchange of gifts (daughters),
+equality of both families — this is called "saparyaya."[^24-134]
+
+**1702.** "Equal standing of kula" means equal kulinism:
+equal faults in both kulas, without difference.
+
+**1703.** Mutual exchange of daughters in saparyaya is best;
+in the absence of a daughter, the giving and receiving of a girl made of kusha grass.
+
+**1704.** […][^24-135]
+
+**1705.** The exchange of daughters in saparyaya is called the best,
+but this rule is very hard to keep.
+
+**1706.** To keep the kula equal one must arrange a "vara" (permission):
+the head of the kula (kula-karta) is concerned to give the vara.
+
+**1707.** Those entitled to perform the nandimukha shraddha
+are entitled to give daughters in marriage:
+
+**1708.** them the kulacharyas call heads of the kula (kula-karta).
+Through the exchange of daughters he gains "merit" (krititva);
+
+**1709.** having gained merit, he obtains the right to give vara:
+the honour of a kula-karta who has gained merit is boundless.
+
+**1710.** To keep the pairing equal, the heads of kulas
+give vara to a son, a grandson, a brother's son.
+
+**1711.** In this there are three classes: arti, kshemya, uchita;
+I shall explain their meaning; hear also of one more, labhya.
+
+**1712.** Vara means "permission"; I shall state its essence:
+to the son, grandson or brother's son of the head of the kula
+
+**1713.** the head of the kula says: "You are equal to me;
+exchange [daughters] and do not think of anything else."
+
+**1714.** The son, grandson, brother's son, by this vara of the head of the kula,
+obtain the right to take and give daughters.
+
+**1715.** Having received the vara, they become equal to the head of the kula:
+all faults and merits remain with the head of the kula.
+
+**1716.** The faults and merits [of these marriages] do not [fall] on the sons, grandsons and others:
+since it is the head of the kula's kula, they remain with the head of the kula.
+
+**1717.** [Those who make] the exchange do not receive its faults and merits —
+this property of the vara the kulacharyas make known to all.
+
+**1718.** Thus I have explained the meaning of [the word] "vara";
+now, O hearers, hear the meaning of the word "arti."
+
+**1719.** When the head of the kula has given permission,
+the son, grandson, brother's son shall give daughters in marriage.
+
+**1720.** If by the vara of the head of the kula one gives in marriage an aunt, sister, daughter, brother's daughter,
+the kula will be glorified.
+
+**1721.** [As it is said:] *"Let the father himself give the daughter, or the brother with the father's permission…"* and so on[^24-136].
+
+**1722.** If a father's duty is done with his permission,
+it is counted as the father's act:
+
+**1723.** being the father's act, it is "in the father's place" (pitri-sthaniya);
+even if a son does it, it is not "in the son's place."
+
+**1724.** Such a gift is counted as a gift of the head of the kula:
+this is "arti," the "ornament of the head," the honoured "father's place."
+
+**1725.** I have explained the meaning of the word "arti";
+O hearers, hear the meaning of the word "kshemya."
+
+**1726.** If, without receiving the permission of the head of the kula,
+a son, grandson or brother's son
+
+**1727.** gives in marriage an aunt, sister, daughter, brother's daughter —
+this is "kshemya," the "ornament of the feet," the "son's place."
+
+**1728.** If a father's duty is done without his permission,
+it will not be "in the father's place":
+
+**1729.** such a gift is counted as the son's act,
+therefore it is "in the son's place."
+
+**1730.** Being the "father's place," arti is higher;
+being the "son's place," kshemya is lower than arti.
+
+**1731.** I have explained the meaning of the word "kshemya";
+O hearers, hear the meaning of the word "uchita."
+
+**1732.** If the head of the kula himself performs his own act,
+all call it "uchita," the "equal place."
+
+**1733.** If the head of the kula himself gives in marriage an aunt, sister, daughter, granddaughter, brother's daughter,
+the kula is glorified.
+
+**1734.** All say this is the best;
+after it comes arti, then kshemya.
+
+**1735.** I have explained the meaning of the word "uchita";
+O hearers, hear the meaning of the word "labhya."
+
+**1736.** [If] someone, having made an exchange [of daughters], gained merit,
+and his younger [brother] has not made an exchange —
+
+**1737.** then by the elder's merit his merit too is acknowledged;
+this is what is accepted as "labhya."
+
+**1738.** A son, grandson, brother's son, by the vara of the head of the kula,
+gain merit even without having made [an exchange];
+
+**1739.** their younger brothers who did not receive vara,
+or who were born after the head of the kula died —
+
+**1740.** for them the receipt of vara is acknowledged through the vara received by the elder;
+this is what is accepted as "labhya."
+
+**1741.** [One who] has not gained merit and has not received vara from the head of the kula —
+[if] the elder's merit and the vara he received are evident,
+
+**1742.** by them the younger's kulina dignity is established:
+this Devivara calls "labhya."
+
+**1743.** I have explained the meaning of the word "labhya";
+now I shall tell of the karana among the Varendras.
+
+**1744.** In karana and parivarta the father gives the daughter;
+with the father's permission the brothers and others may also [give her].
+
+**1745.** For the increase of the dignity of the kulinas
+Udayana created karana and parivarta.
+
+**1746.** Before giving in marriage by parivarta, [they make] a karana —
+this became customary among the Varendra kulinas.
+
+**1747.** When daughters or sisters are mutually taken — by oneself or by a son —
+it is called parivarta, exchange.
+
+**1748.** Those entitled to perform the nandimukha shraddha
+are entitled to give daughters in marriage:
+
+**1749.** they are the heads of the kula, the performers of the karana;
+while the grandfather is alive, he is called the performer of the karana.
+
+**1750.** The mutual promise of the performers of the karana to give a daughter or sister
+is called the "karana of obligation" (dayer karana).
+
+**1751.** While the grandfather is alive it is the grandfather's act:
+therefore at the marriage of a granddaughter or grandson [his karana] is accepted.
+
+**1752.** Honoured hearers, whoever [wishes to know] the detailed meaning of the karana,
+I shall show it by an example, and you will be able to understand.
+
+**1753.** The promise concerning the exchange of daughters
+the genealogists call the "karana of obligation."
+
+**1754.** The karana concerning the giving of a daughter is called the "karana of obligation":
+"obligation" here means the obligation [to give] a daughter — know this for certain.
+
+**1755.** A promise like a betrothal (vagdana),
+in which the names of the actual bridegroom and bride are mentioned —
+
+**1756.** the performer of the karana on the bride's side utters it,
+and the performer of the karana on the bridegroom's side utters the words of consent.
+
+**1757.** Such is the mutual custom of parivarta;
+seeing an example, you will understand the karana for certain.
+
+**1758.** The performer of the karana on the bridegroom's side is Bidhu Maitra,
+the performer of the karana on the bride's side is Rama Sanyal.
+
+**1759.** Rama Sanyal utters the promise to give his daughter,
+Bidhu Maitra utters the consent to take the daughter.
+
+**1760.** Likewise Bidhu Maitra utters the promise to give his sister,
+and Rama Sanyal utters the consent to take that girl.
+
+**1761.** Rama Sanyal promised, according to the rules of karana,
+to give his daughter to Bidhu Maitra's son;
+
+**1762.** Bidhu promised, according to the rules of karana,
+to marry his son to Rama's daughter;
+
+**1763.** Bidhu Maitra promised, according to the rules of karana,
+to give his sister in marriage to Rama Sanyal;
+
+**1764.** Rama promised, according to the rules of karana,
+to marry Bidhu's sister.
+
+**1765.** In the presence of kulinas, genealogists and relatives
+the mutual promises and consents are uttered thus.
+
+**1766.** Filling an earthen pot with water and putting kusha in it,
+they perform the rite according to the rules of betrothal.
+
+**1767.** Gathering with friends, relatives, kulinas and genealogists,
+they go to the ghat of a river, canal, lake or pond,
+
+**1768.** and the performers of the karana on both sides, holding that pot,
+immerse it in the water — this is called karana.
+
+**1769.** [...] He who by parivarta is the bridegroom's side
+is also the bride's side — know for certain[^24-137].
+
+**1770.** "The son of so-and-so and the daughter of so-and-so —
+the marriage alliance between them is settled" — such is their mutual word.
+
+**1771.** "The karana may be performed on another day
+or on the wedding day," says Udayana.
+
+**1772.** First they perform the karana, then the wedding by parivarta —
+this rule became established among the kulinas.
+
+**1773.** Raja Kamsanarayana introduced the rule of ekavarta
+and created a special "karana of obligation":
+
+**1774.** the performer of the karana on the bride's side performs the karana as before,
+in which there will be a promise and a consent;
+
+**1775.** the performer of the karana on the bridegroom's side gives a girl made of kusha,
+and the performer of the karana on the bride's side accepts it.
+
+**1776.** On the bride's side the promise to give a daughter, on the bridegroom's side the gift of a kusha girl:
+such an exchange establishes the "karana of obligation."
+
+**1777.** Seeing an example, O hearers, all will understand;
+therefore I shall show one example.
+
+**1778.** The performer of the karana on the bride's side is Shyama Bagchi,
+the performer of the karana on the bridegroom's side is Yadu Bhaduri.
+
+**1779.** Shyama promised, according to the rules of karana,
+to give his daughter to Yadu Bhaduri's son;
+
+**1780.** Yadu Bhaduri promised, according to the rules of karana,
+to marry [his son] to Shyama's daughter.
+
+**1781.** The performer of the karana on the bridegroom's side is Yadu Bhaduri,
+the performer of the karana on the bride's side is named Shyama.
+
+**1782.** Yadu will at once give Shyama Bagchi
+a kusha daughter or a kusha sister.
+
+**1783.** Accepting the kusha girl, Shyama
+will place it in an earthen pot full of water.
+
+**1784.** Gathering with friends, relatives, kulinas and genealogists,
+they go to the ghat of a river, canal, lake or pond,
+
+**1785.** and the performer of the karana on the bride's side, holding that pot,
+immerses it in the water — this is called karana.
+
+**1786.** The promise to give a real daughter is on the bride's side,
+the gift of a kusha girl on the bridegroom's side.
+
+**1787.** Thus the karana is performed through exchange;
+this rule the raja established for ekavarta weddings.
+
+**1788.** By day they perform the karana of obligation, at night they give the daughter —
+the kulinas proceed by this rule.
+
+**1789.** To preserve the kula of the kulinas
+Kamsanarayana established this rule.
+
+**1790.** A kulina who has neither daughter nor sister
+preserves his kula by giving a kusha girl.
+
+**1791.** In a parivarta wedding [Udayana's] karana of obligation [applies]:
+in the karana of obligation there is an exchange of promises to give daughters.
+
+**1792.** In an ekavarta wedding a promise to give a daughter is made
+and a kusha girl is given.
+
+**1793.** The exchange of the promise to give a daughter and the gift of a kusha girl —
+this condition Raja Kamsanarayana laid down.
+
+**1794.** Thus two kinds of karana of obligation were established,
+and the kulinas hold to the two kinds of karana of obligation.
+
+**1795.** If a kulina takes a daughter without a karana,
+his kula will not remain, say the genealogists.
+
+**1796.** At the giving of a daughter they perform the karana of obligation:
+without the karana of obligation a kulina does not take a daughter.
+
+**1797.** If, with the bridegroom to whom a daughter is to be given by the karana of obligation,
+something happens by providence after the karana —
+
+**1798.** if that bridegroom does not marry the girl,
+or if the bridegroom dies —
+
+**1799.** that girl is tainted by the fault of "previously given to another" (anyapurva):
+no one touches her food and water.
+
+**1800.** Such a girl is never given in marriage;
+occasionally a fallen brahmana marries her.
+
+**1801.** Such a girl is called "dhemni":
+she is rejected by brahmanas, she has no place in society.
+
+**1802.** If a worthy brahmana marries a dhemni,
+he becomes unfit in society and is counted among the fallen.
+
+**1803.** If the karana has been performed, the kula of the father and brother is preserved:
+in the karana the father and brother are not guilty for the girl's faults and merits.
+
+**1804.** If after the karana of obligation something happens by providence
+and the father or brother do not give the girl to that bridegroom —
+
+**1805.** that girl, as before, becomes fallen,
+and her father and brother lose their kulinism:
+
+**1806.** because of the breaking of the kula they go over to the kapas,
+but even the kapas do not admit them into the community.
+
+**1807.** For this offence they become most contemptible;
+[only] by performing a karana do the kapas rise in society.
+
+**1808.** Thus I have explained the meaning of the karana of obligation;
+now, O hearers, hear the meaning of parivarta.
+
+**1809.** If the father-in-law or brother-in-law marries the son-in-law's aunt or sister,
+this is called parivarta.
+
+**1810.** Karana and parivarta exist among the kulinas;
+later all the kulinas began to perform karana and parivarta.
+
+**1811.** Kaluka (?) Bhatta of the gain Nandanavasi
+and Mayura Bhatta of the gain Bhattashali,
+
+**1812.** Mangala Ojha Mahashaya of the gain Karanja —
+with the help of these three Udayana performed parivarta and karana.
+
+**1813.** Udayana Acharya and Vallabha Acharya —
+these two noble men first performed karana and parivarta:
+
+**1814.** Udayana's daughter was taken by Vallabhacharya,
+Vallabha's sister was taken by Udayana's son.
+
+**1815.** The kapas too [perform] karana and parivarta in this way,
+but even so the kapas do not become honoured:
+
+**1816.** the kapas are most contemptible in society,
+by contact with them the kula of kulinas perishes.
+
+**1817.** Kamsanarayana, giving a daughter to a kapa,
+brought them all into society.
+
+**1818.** Making two classes — kulinas the highest, kapas the middle —
+by giving a daughter to a kapa he preserves the kapas' dignity.
+
+**1819.** He arranged for kapas and kulinas to eat together:
+by a kapa's touch kulinas no longer become kapas.
+
+**1820.** Kamsanarayana made the kapas honourable
+and introduced some new rules.
+
+**1821.** "By only taking or only giving [daughters]
+the kula will not remain," so says Udayana.
+
+**1822.** Without parivarta and karana the kula does not remain;
+for this a daughter or sister is needed.
+
+**1823.** Kulinas who have neither daughter nor sister
+lose the dignity of their kula and go over to the kapas.
+
+**1824.** Among the kapas there is only the karana of obligation;
+the rules of parivarta and ekavarta do not apply to them.
+
+**1825.** By the karana of obligation [alone] a kapa becomes honoured —
+so proclaimed Raja Kamsanarayana.
+
+**1826.** Having performed the karana of obligation, the kapas among themselves
+proceed by the rule of parivarta or ekavarta as they wish.
+
+**1827.** Parivarta and ekavarta are between kapa and kapa;
+between kapas and kulinas there are no such rules.
+
+**1828.** A kapa who gives a daughter to a kulina is honoured:
+such a kapa is a "rich" (adhya) kapa […].
+
+**1829.** A kapa gives a daughter to a kulina after performing a karana of obligation […];
+[the raja] introduced ekavarta and the kushamaya-karana.
+
+**1830.** Having performed the karana of obligation, they give a daughter into one house;
+having performed the karana of obligation, they take a daughter from another house:
+
+**1831.** giving a daughter into one house and taking a daughter from another house —
+this is called the custom of ekavarta.
+
+**1832.** Giving a daughter to a kulina and taking a kulina's daughter —
+only this rule applies here.
+
+**1833.** I shall show an example — listen attentively, O hearers:
+Rama Sanyal gives his daughter to Shyama Maitra,
+
+**1834.** and Rama Sanyal's son takes Bidhu Lahiri's daughter —
+this is called the rule of ekavarta.
+
+**1835.** Having performed the karana of obligation, by ekavarta or by parivarta
+all the kulinas exchange [daughters] in this way.
+
+**1836.** Preserving Udayana's karana of obligation and parivarta,
+[Kamsanarayana] established one more rule — ekavarta.
+
+**1837.** In ekavarta Maharaja Kamsanarayana
+created a karana of obligation of another kind.
+
+**1838.** A kulina who has neither daughter nor sister
+does not obtain kulinism for lack of parivarta.
+
+**1839.** Their kula had to be preserved:
+otherwise the kula of many kulinas would have perished.
+
+**1840.** Thinking of this, Raja Kamsanarayana
+established another rule — the kushamaya-karana.
+
+**1841.** He established kulinism through kusha,
+and by this the kula of many kulinas was preserved.
+
+**1842.** [Using] kusha, some [perform] parivarta, others ekavarta:
+thus a rule for the giving of daughters was introduced.
+
+**1843.** But in giving a daughter a karana of obligation is required:
+without the karana of obligation there is no kulinism.
+
+**1844.** First they perform [the rite with] kusha, then the karana of obligation —
+this rule of the raja became customary.
+
+**1845.** If, without performing [the rite with] kusha, one performs the karana of obligation and parivarta,
+kulinism will still not be obtained.
+
+**1846.** For kulinas who have neither daughter nor sister
+the kula is preserved by [the rite with] kusha:
+
+**1847.** if there is neither daughter nor sister, there is no karana of obligation —
+their kula is preserved only by the kushamaya-karana.
+
+**1848.** For those who have a daughter or sister
+the karana of obligation is prescribed.
+
+**1849.** Listen, listen, O hearers, with one mind:
+hear of Raja Kamsanarayana's kushamaya-karana.
+
+**1850.** Performing [the rite with] kusha is called the kushamaya-karana:
+"kusha" and "kushamaya-karana" mean the same.
+
+**1851.** Making a bridegroom and a bride of kusha,
+they are imagined as a son and a daughter.
+
+**1852.** The exchange [takes place] — a kusha girl for a kusha bridegroom or for a real bridegroom;
+within one's own gotra — not.
+
+**1853.** If with the words of giving (sampradana) they exchange each side's kusha girl for the other side's kusha bridegroom,
+the kula will be glorified;
+
+**1854.** if with the words of giving they exchange each side's kusha girl for a real bridegroom,
+the kula will be glorified.
+
+**1855.** Seeing an example, O hearers, all will understand;
+therefore I shall show one example.
+
+**1856.** To Rama's kusha son — Shyama's kusha daughter,
+to Shyama's kusha son — Rama's kusha daughter:
+
+**1857.** if such an exchange is made with the words of giving,
+this will be the kushamaya-karana.
+
+**1858.** Rama's kusha daughter is given to Shyama,
+Shyama's kusha daughter is given to Rama:
+
+**1859.** if this is done, it is called the kushamaya-karana.
+Hear what further rules there are in it.
+
+**1860.** An earthen pot full of water is placed in front;
+at the end of the words that kusha is put into the pot —
+
+**1861.** the kusha that is imagined as son or daughter
+is what they place in the pot.
+
+**1862.** Going to the ghat of a shrotriya's pond,
+the two performers of the karana take the pot
+
+**1863.** and immerse it in the water, leaving it there:
+know that this is the "kushamaya-karana."
+
+**1864.** In the kulaja-karana [the rite is performed] with kusha;
+know that in the upakara-karana too it is with kusha.
+
+**1865.** Kulaja- and upakara-karanas exist among kulinas;
+among kapas there are no kulaja- and upakara-karanas.
+
+**1866.** Kulinas perform all the karanas
+taking with them kulinas, genealogists and friends.
+
+**1867.** If some kulina, taking a real daughter,
+gives her in exchange to another kulina's kusha son —
+
+**1868.** that girl becomes rejected by society:
+no one accepts her food and water.
+
+**1869.** Like one "previously given to another," the girl became unfit;
+Kamsanarayana abolished this practice.
+
+**1870.** Such a girl is called "kushachharani";
+she can no longer live among brahmanas.
+
+**1871.** A kulina who gives his daughter in this way
+has no place in society except through the upakara-karana.
+
+**1872.** A kulina's daughter who has neither father nor brother living
+is called "nibandhava" ("without kin").
+
+**1873.** The performer of the karana for a daughter or sister is the father or brother;
+if there is neither father nor brother, there can be no karana.
+
+**1874.** Without a karana a kulina will not marry her,
+and kulina relatives will not give her in marriage.
+
+**1875.** For such a girl the nandimukha shraddha is not performed;
+the mother or someone else performs the vriddhi shraddha.
+
+**1876.** Such a girl is given away by the mother or someone else,
+and a kapa or a shrotriya takes her.
+
+**1877.** The kulina is high, the kapa lower, the shrotriya lower;
+if a kapa or shrotriya marries her, their honour increases.
+
+**1878.** If a kulina marries her, his kula is broken;
+if kulina relatives give her away, the kula perishes.
+
+**1879.** A kapa can take a kulina's daughter without a karana:
+a kapa takes a nibandhava girl with honour.
+
+**1880.** Shrotriyas have no karana — for them the mark (phonta) is prescribed:
+the shrotriya places a mark on the forehead of the bridegroom, kulina or kapa.
+
+**1881.** Placing a mark on the bridegroom's forehead is an honour for the shrotriya:
+first the mark is placed, then the daughter is given.
+
+**1882.** When a shrotriya gives a daughter to a shrotriya, a deed (patra) is drawn up —
+this rule is current everywhere.
+
+**1883.** Within one's own gotra there is no karana of any kind:
+all karanas are performed with another gotra.
+
+**1884.** While the father is alive, kulina brothers
+are not entitled to perform a karana:
+
+**1885.** while the father is alive, a kulina's sons
+remain within the father's kusha.
+
+**1886.** If any of the brothers meanwhile
+performs a karana with a kapa, he becomes a kapa;
+
+**1887.** his father and brothers, tainted, are counted as "pokra":
+rejected by kulinas, "suspended kulinas," contemptible.
+
+**1888.** But in the community of kapas they are honoured kulinas:
+the kapas respect them, they are honoured in every way.
+
+**1889.** After the father's death the kulina brothers
+must carefully divide the kusha.
+
+**1890.** The kushamaya-karana is called "kusha" —
+believe this, O hearers.
+
+**1891.** With kulinas they perform [the kusha] each separately —
+thus the division of their kusha takes place.
+
+**1892.** If the kulina brothers do not perform [the rite with] kusha,
+they are not counted among the kulinas.
+
+**1893.** For this reason the kulina brothers
+perform the kushamaya-karana each separately:
+
+**1894.** one's kusha does not give kulinism to another —
+therefore each performs a separate kusha.
+
+**1895.** The kusha that kulina brothers perform after the father's death
+is called the "kulaja-karana."
+
+**1896.** The kulaja-karana attests kulinism;
+in other karanas too one must perform the kusha.
+
+**1897.** If the kulaja-karana is performed at the ghat of a siddha-shrotriya,
+the shrotriya thereby obtains the rank of nayaka.
+
+**1898.** If after the father's death one of the kulina brothers,
+without dividing the kusha, performs a karana with a kapa,
+
+**1899.** then all his other brothers
+become tainted and are counted as "bhai-kara."
+
+**1900.** If a kulina himself performs a karana with a kapa,
+he together with his sons is counted among the kapas.
+
+**1901.** If sons with the kulina's permission
+perform a karana with a kapa,
+
+**1902.** they together with their father become kapas.
+But if a son, without the permission of his kulina father,
+
+**1903.** of his own will performs a karana with a kapa,
+he becomes a kapa and remains in the community of kapas.
+
+**1904.** If the father accepts such a son,
+[he] is expelled from the kulina community;
+
+**1905.** but if the father rejects that son, […][^24-138]
+
+**1906.** yet the fault of "avadhyata" (disobedience) falls on them.
+I shall tell how the faults of "pokra," "bhai-kara" and "avadhyata" are expiated:
+
+**1907.** for the expiation of all these offences
+one performs a kushamaya-karana with an equal house.
+
+**1908.** By the kushamaya-karana all these faults are removed —
+all call it the "upakara-karana" (karana of benefit).
+
+**1909.** If a kulina's kula is tainted by a fault,
+he performs a kushamaya-karana with an equal house:
+
+**1910.** the fault goes, and the kulina obtains benefit (upakara) —
+that is why it is called the "upakara-karana."
+
+**1911.** Although the rule that a kulina
+takes a shrotriya's daughter does exist —
+
+**1912.** taking a shrotriya's daughter is not very praiseworthy for a kulina:
+having taken a shrotriya's daughter, one must perform an upakara-karana.
+
+**1913.** If the kulina who has taken a shrotriya's daughter
+has his father living,
+
+**1914.** his father performs the upakara-karana;
+if there is no father, he must perform it himself.
+
+**1915.** If he himself dies without performing the karana,
+his son must perform the upakara-karana.
+
+**1916.** Between two kulinas who have taken shrotriyas' daughters
+no upakara-karana is performed;
+
+**1917.** but if they [both] have also taken kulinas' daughters,
+then they may perform an upakara-karana.
+
+**1918.** If two kulinas who have taken shrotriyas' daughters perform [between themselves] an upakara-karana,
+the fault of "pani-niya" (?) arises;
+
+**1919.** by performing three upakara-karanas this fault goes.
+And on taking a shrotriya's daughter one must perform one, two or three karanas:
+
+**1920.** one who takes a great shrotriya's daughter — one karana,
+one who takes a middle shrotriya's daughter — two karanas,
+
+**1921.** one who takes a small shrotriya's daughter — three karanas:
+having performed them, the kulinas become free [of fault].
+
+**1922.** If a kulina, not performing upakara-karanas,
+gradually takes six shrotriyas' daughters,
+
+**1923.** the fault of "six shrotriyas" arises in his kula:
+the kula does not perish, but [he] is counted lower.
+
+**1924.** All [kinds of] karana exist among kulinas;
+among kapas only the karana of obligation remains.
+
+**1925.** Having performed the karana of obligation, [a kapa] will give a daughter to a kulina;
+having performed the karana of obligation, he will take a kulina's daughter:
+
+**1926.** by this the kapa's dignity increases,
+and the kulinas thereby become kapas.
+
+**1927.** A kapa may take a nibandhava girl without a karana;
+even taking her without a karana, the kapa will be glorified.
+
+**1928.** A kapa may take a kulina's daughter without a karana;
+even if he takes her without a karana, the kapa's honour greatly increases.
+
+**1929.** Without a karana a kapa does not take a kapa's daughter:
+in giving daughters between kapas a karana of obligation must be performed.
+
+**1930.** If a kulina without a karana takes a daughter from a kapa,
+the kulina's kula is broken, he is counted among the kapas;
+
+**1931.** if a kulina, having performed a karana, takes a daughter from a kapa,
+the kulina's kula is broken, he is counted among the kapas.
+
+**1932.** By any other contact with kapas the kula is not lost —
+this rule Raja Kamsanarayana Raya established.
+
+**1933.** In Udayana's karana of obligation there is kusha-water,
+but no kusha girl is present in it;
+
+**1934.** in the raja's karana of obligation there is a kusha girl —
+this difference I have already described.
+
+**1935.** In all the other karanas there is a kusha girl,
+and in some there is also a kusha son.
+
+**1936.** No other kusha exists in the community of kapas:
+among kapas the kusha is only the kusha of obligation, so I find.
+
+**1937.** If a kapa wishes, he may divide the kusha
+even while his father is alive — so it is prescribed:
+
+**1938.** if a kapa's son performs a karana of obligation,
+then his kusha becomes separate.
+
+**1939.** The fathers of kapas [whose sons] have divided the kusha
+are no longer entitled to a karana;
+
+**1940.** if afterwards children are born to them,
+they bear the fault of "garbha-shuda."
+
+**1941.** The earlier sons have no fault,
+but the later sons are ruined by the fault of "garbha-shuda":
+
+**1942.** a "garbha-shuda" has no right to a karana,
+while the earlier sons have the right to a karana.
+
+**1943.** If a kulina's son or another relative
+or people unrelated to the kulina,
+
+**1944.** against the kulina's will or without his knowledge,
+give [the kulina's] daughter to a kapa or a shrotriya —
+
+**1945.** then, if they gave her to a kapa, the kulina becomes a kapa, and if to a shrotriya,
+the kulina becomes a shrotriya — so say the kulacharyas.
+
+**1946.** If a kapa gives his daughter to a shrotriya,
+the kapa becomes a shrotriya — so it is prescribed.
+
+**1947.** If a kapa's son or another relative
+or people unrelated to the kapa,
+
+**1948.** against the kapa's will or without his knowledge,
+give his daughter to a shrotriya —
+
+**1949.** the kapa will still become a shrotriya:
+know for certain, there is no expiation for it.
+
+**1950.** Such a kulina or kapa is called "shrotriyanta":
+no expiation is provided for him.
+
+**1951.** This happened after Kamsanarayana,
+and no one has since established an expiation.
+
+**1952.** The shrotriya is most pure, like the Ganga:
+he gives daughters to kapas and kulinas.
+
+**1953.** If he gives a daughter to a kulina — honour to the shrotriya,
+and if he gives a daughter to a kapa, the honour does not change.
+
+**1954.** If kapas, having become shrotriyas, give a daughter to a kulina,
+the kulina's kulinism does not waver at all.
+
+**1955.** If a kulina gives a daughter to a shrotriya,
+the kulina will become a shrotriya — so it is prescribed;
+
+**1956.** if a kulina, having become a shrotriya, gives a daughter to a kulina,
+the kulinism of the kulina who takes the daughter does not waver.
+
+**1957.** If a kulina gives a daughter without a karana
+or takes [a daughter] without a karana,
+
+**1958.** the kulina will become a shrotriya — this rule was introduced;
+this rule binds kulinas with kulinas.
+
+**1959.** But between kapas and kulinas there is no such rule:
+if a kapa gives a daughter without a karana
+
+**1960.** or takes [a daughter] without a karana,
+the kapa will become a shrotriya — such is the rule.
+
+**1961.** This rule was introduced between kapa and kapa;
+this rule Raja Kamsanarayana established[^24-139].
+
+**1962.** With whomever the kushamaya-karana has been performed,
+with him there is no karana of obligation;
+
+**1963.** without the karana of obligation there is no exchange [of daughters],
+and for an exchange the kusha must be broken.
+
+**1964.** For example, Sadhu Maitra and Bidhu Lahiri have performed a kushamaya-karana —
+these two will not exchange daughters.
+
+**1965.** If these two need to exchange [daughters],
+they break that kusha and perform kusha with others:
+
+**1966.** Sadhu Maitra performs a kushamaya-karana with Rama Sanyal,
+Bidhu Lahiri establishes kusha with Shyama Bhaduri;
+
+**1967.** thus the kusha of Sadhu Maitra and Bidhu Lahiri is broken,
+and between these two the exchange proceeds.
+
+**1968.** By this example, honoured hearers,
+you will understand [the order] of all the gotras.
+
+**1969.** If shrotriyas ever wish
+to pass from a lower pati to a higher one,
+
+**1970.** they must give a daughter to a kapa:
+leaving the fault with the kapa, they will pass to the higher pati.
+
+**1971.** Formerly good shrotriyas did not give daughters to kapas,
+and the kapas felt this as a humiliation to themselves.
+
+**1972.** The shuddha-shrotriya Raja Kamsanarayana
+gave two daughters among the kapas —
+
+**1973.** from that the quarrel of kapas and kulinas ended:
+the raja had kapas and kulinas eat together.
+
+**1974.** Through the shrotriyas the kapas obtained deliverance:
+by obtaining shrotriyas' daughters the kapas raise their name.
+
+**1975.** Taking a shrotriya's daughter is an honour for a kapa:
+the kapas eagerly take shrotriyas' daughters.
+
+**1976.** Kamsanarayana delivered the kapas,
+introducing all these new rules.
+
+**1977.** Establishing kulinism through kusha,
+he preserved the kula of many kulinas:
+
+**1978.** those who had neither daughter nor sister
+kept their kula through the gift of a kusha girl.
+
+**1979.** Through kusha alone he preserved
+the boundless kulina dignity of all the kulinas.
+
+**1980.** By these rules all the kulinas live;
+the protector of kapas and kulinas is Kamsanarayana.
+
+**1981.** About two hundred years before Gauranga's birth
+the power of Udayana Bhaduri arose[^24-140].
+
+**1982.** The harm that Udayana did by creating the kapas
+was all repaired by Kamsanarayana.
+
+**1983.** The parivarta of the Radhis and Varendras differs;
+O hearers, I shall tell something of the difference.
+
+**1984.** The sister of the head of the kula, the daughter of his elder or younger uncle,
+his aunt, granddaughter, brother's daughter and daughter —
+
+**1985.** through them the parivarta of the Radhis takes place.
+I shall tell, honoured ones, of the parivarta of the Varendras:
+
+**1986.** the sister of the performer of the karana and his real daughter,
+and in the kushamaya-karana a kusha daughter:
+
+**1987.** through all these the parivarta of the Varendras takes place;
+know this for certain, O hearers.
+
+**1988.** In the Radhi kula is Nityananda, the jewel of virtues;
+among the Varendras are counted Advaita and Gadadhara.
+
+**1989.** In the two kulas two Prabhus appeared[^24-141] —
+[therefore] the Thakurani ordered the kulas of the Radhis and Varendras to be described.
+
+**1990.** Holding in my heart my guru's mighty order,
+I have briefly described the kulas of the Radhis and Varendras[^24-142].
+
+**1991.** In the year Shaka fourteen hundred and ninety-five
+Vrindavana Dasa composed the *Sri Chaitanya-bhagavata*[^24-143].
+
+**1992.** Krishnadasa Kaviraja, living in Vrindavana,
+in the year Shaka fifteen hundred and three,
+
+**1993.** on a Sunday, on the fifth day of the dark half of Jyaishtha,
+completed the book *Sri Chaitanya-charitamrita*.
+
+**1994.** As it is said in the *Sri Chaitanya-charitamrita*:
+*"In the Shaka [year] 'fire (3), zero (0), arrows (5), moon (1),' in [the month of] Jyaishtha, in Vrindavana, on a Sunday, on the fifth day of the dark half, this book was completed."*[^24-144]
+
+**1995.** Having completed the book, Krishnadasa Kaviraja,
+the king of devotees, wrote this verse.
+
+**1996.** When the year Shaka fifteen hundred and twenty-two came
+and the month of Phalguna arrived,
+
+**1997.** on the thirteenth day of the dark half, with joy in my heart,
+I completed the book *Sri Prema-vilasa*[^24-145].
+
+**1998.** From the first to the eighteenth vilasa I wrote while living in Khanda,
+the two vilasas, nineteenth and twentieth, I wrote after going to Khardaha,
+
+**1999.** and the four vilasas — twenty-first, twenty-second, twenty-third and twenty-fourth —
+I wrote joyfully while living in Katwa[^24-146].
+
+**2000.** In the "Half-vilasa" I set out the index of the book
+and placed the letters of Sri Jiva Gosani, Srinivasa and Narottama:
+
+**2001.** the letters were obtained when the book was finished —
+therefore I placed them in the "Half-vilasa."
+
+**2002.** Having completed the book in old age,
+I offered it at the root of Virachandra's feet.
+
+**2003.** Writing in old age, one constantly errs:
+whatever came to mind at whatever time, that I wrote down.
+
+**2004.** Earlier things I wrote later, and later things earlier:
+reflecting, I wrote the book [recording] whatever came to mind.
+
+**2005.** One and the same thing I have written many times:
+not all events were always in my memory.
+
+**2006.** Having begun to write about someone,
+I wrote in one chapter as much as came to mind;
+
+**2007.** some days later another event of his life
+came into my mind and was added,
+
+**2008.** and I described it in another chapter —
+that is why I have the fault of repetition.
+
+**2009.** Having composed the book, I could not correct it —
+that is why many faults remain in the book.
+
+**2010.** I am old, my body is stricken with illness —
+that is why I could not correct the book.
+
+**2011.** O hearers, you are all most fortunate:
+mercifully forgive me this fault.
+
+**2012.** Bowing down, I make this request:
+correcting the errors, preserve this book.
+
+**2013.** Some events I wrote down having seen them myself,
+others I wrote hearing of them from others —
+
+**2014.** and for that reason too the fault of repetition arose:
+not everything came to mind at one time.
+
+**2015.** This book I have written obeying my guru's order;
+whether I have written well or badly I do not know.
+
+**2016.** O devotees of Krishna, all of you noble:
+mercifully place your feet upon my head.
+
+**2017.** Sri Chaitanya, Nityananda, Sri Advaita Raya,
+Gadadhara, Srivasa and all the devotees,
+
+**2018.** mercifully place your feet upon my head,
+that my offences may go and the bonds of worldly existence be loosed.
+
+**2019.** Srinivasa, Narottama, Prabhu Shyamananda,
+mercifully cut my worldly bonds.
+
+**2020.** O guru, ocean of compassion, purifier of the fallen,
+you gave me your sight in the form of Sri Jahnava.
+
+**2021.** Prabhu Virachandra showed me love;
+mercifully place the feet of both upon my head.
+
+**2022.** That at the last hour I may attain my guru's feet —
+this is the desire of my heart which I make known to you.
+
+**2023.** He whose hope is the feet of Sri Jahnava and Virachandra,
+Nityananda Dasa, tells the *Prema-vilasa*.
+
+*Thus ends the twenty-fourth vilasa of the Prema-vilasa.*
+
+[^24-1]: The authenticity of the twenty-fourth vilasa is disputed. The old manuscripts of the *Prema-vilasa* end with the sixteenth vilasa; the edition of Ramnarayan Vidyaratna had eighteen vilasas, the nineteenth and twentieth were added later, and only the edition of Yashodanandan Talukdar has 24½. B. Majumdar (*Sri-Chaitanya-chariter upadan*) regards the twenty-fourth vilasa, like Ishana Nagara's *Advaita-prakasha*, as a late composition. Much of it agrees in content with the *Advaita-prakasha*, and the kulina genealogies at its end, as Majumdar remarks, are found in no other Vaishnava work. Information known only from this vilasa should be used with caution. The translation renders the text of the 1913 edition as it stands.
+[^24-2]: Half of a verse from Rupa Gosvami's *Laghu-bhagavatamrita* (on the prakasha, a manifestation identical with the Lord).
+[^24-3]: The teaching of Sadashiva as a vilasa of Krishna, on a par with Balarama, and below of Mahavishnu-Sadashiva ("Hari-Hara") as the source of Advaita, is characteristic of the *Advaita-prakasha* and differs from the classical account of the CC (Adi 6), where Advaita is an incarnation of Mahavishnu. In Gaudiya Vaishnava theology (cf. *Brahma-samhita* 5.45 and the commentaries of Bhaktisiddhanta Sarasvati) Sadashiva is a form of Vishnu beyond maya, whereas Rudra, the lord of tamo-guna, is his partial manifestation in the material world; hence the words about Sadashiva below should not be taken as identifying Advaita with a mundane deity.
+[^24-4]: "Mahadeva" here is a name of Sadashiva (see 12, 22–25).
+[^24-5]: Both editions read "making a yantra on his own head" — the meaning is unclear. Cf. CC Adi 3: Advaita called Krishna down by worshipping Him with Ganga water and tulasi leaves.
+[^24-6]: Laur was a principality in the north-west of Srihatta (Sylhet), near the Khasi hills. Raja Divyasimha later became Advaita's disciple under the name Krishnadasa (see below); this account is known from the *Advaita-prakasha* and is not confirmed by the CC or the CB.
+[^24-7]: Narasimha Nadiyal is an ancestor of Advaita's family known from the Bengali kulina chronicles (kulaji). According to Majumdar, by the kulaji Advaita was Narasimha's descendant in the fifth generation, which agrees poorly with the dates of Advaita's life.
+[^24-8]: Lakshmipati is the sannyasi whom tradition names as the guru of Madhavendra Puri. Vijaya Puri is known from the *Advaita-prakasha*; he is not mentioned in the CC or the CB.
+[^24-9]: A play on words: Advaita's father bears the name Kuvera, like the god of wealth, lord of the yakshas.
+[^24-10]: Literally "came in the absence of the father" (the sense is unclear; perhaps "not finding their father," since the parents had by then moved to Shantipur, see 53). In the index of the "Half-vilasa" (784): four sons left the world, two went on pilgrimage.
+[^24-11]: That is, Magha-shukla-saptami, the day of Advaita's appearance accepted in the tradition. The index of the "Half-vilasa" (787) has "on the full moon of Magha" (apparently another reading).
+[^24-12]: The rite of hate-khari (beginning of learning to write): the child is given a piece of chalk and taught to write letters.
+[^24-13]: The story of Kali and the subsequent installation of an image of Vishnu is known from the *Advaita-prakasha*; it is not in the CC or the CB. In the logic of the narrative the Devi cannot accept obeisance from Sadashiva, her lord.
+[^24-14]: The advice is to be understood in the light of the teaching that Durga is the Lord's maidservant who carries out His will (*Brahma-samhita* 5.44): she is honoured as a devotee of Vishnu, for the sake of attaining bhakti, not for worldly fruits.
+[^24-15]: The 1913 edition reads "Phunnavata," the 1999 edition "Phullavata." The index of the "Half-vilasa" (795) has Phulia.
+[^24-16]: Gopeshvara is Shiva as guardian of Vrindavana (his shrine is Gopeshvara Mahadeva in Vrindavana).
+[^24-17]: A lila of the Lord is described: the Deity is not subject to fear or danger; He only displays a play, hiding from those unworthy to see Him.
+[^24-18]: The story of Advaita's finding of Madanamohana and of the Deity's being given to the Chaube is known from the *Advaita-prakasha*. In the *Bhakti-ratnakara* and in the twenty-third vilasa of this book Madanamohana is in the house of the Chaube (Damodara) in Mathura, from whom Sanatana Gosvami receives Him; no role of Advaita is mentioned there.
+[^24-19]: The image of Krishna painted by Vishakha to console Radha in separation is a tradition known from the *Advaita-prakasha*; according to it, this image became the Madana-gopala of Shantipur.
+[^24-20]: In the CC (Madhya 4) Madhavendra carries sandalwood for Gopala on Govardhana; Gopala in a dream orders him to anoint Gopinatha in Remuna with the sandal, and Madhavendra stays in Remuna, where he leaves this world. Here the Deity is called Govinda, and Madhavendra departs this world in the land of Vrindavana.
+[^24-21]: That is, Krishnadasa (Laudiya Krishnadasa) is the source of information on Advaita's childhood. The *Balya-lila-sutra* (in Sanskrit) is ascribed to him; B. Majumdar considers it late: its first two chapters deal with the kulina ranks of brahmanas, and Advaita's lineage in it does not agree with the lineages of the Gosvamis of Shantipur.
+[^24-22]: Krishnadasa Brahmachari is a Vaishnava of Vrindavana known from later biographies (a servant of Madanamohana); his identification with Raja Divyasimha and the statement that he came to Vrindavana before everyone else are known only from the *Advaita-prakasha* and this vilasa.
+[^24-23]: The identification of Bada Shyamadasa with Bhagavata Acharya is given only here (and in the *Advaita-prakasha*). In the CC a Bhagavata Acharya is mentioned in the branch of Gadadhara Pandita.
+[^24-24]: Srinatha Chakravarti is the well-known guru of Kavi Karnapura; the commentary on the *Bhagavata Purana* called *Chaitanya-mata-manjusha* is ascribed to him.
+[^24-25]: According to the CB (Adi 16) and the CC, Haridasa was born in Budhana in a Muslim family, and Mahaprabhu and the Vaishnavas honoured him as Namacharya, who stands above any birth. The version of Haridasa's brahmana origin and his "loss of caste" through yavanas' food is known from the *Advaita-prakasha* and does not agree with the CB.
+[^24-26]: The 1913 edition reads "Anruya," the 1999 edition "Anduya" — the locality is not identified.
+[^24-27]: Cf. CC Antya 6: Yadunandana Acharya is the guru (and family priest) of Raghunatha Dasa. His debate with Haridasa is known only from this account.
+[^24-28]: Cf. CC Antya 3: Advaita, performing a shraddha, first feeds Haridasa the shraddha offering, saying that to feed Haridasa is as good as feeding ten million brahmanas. The story of the "taken fire" is absent in the CC and the CB.
+[^24-29]: Kuliya is a place on the western bank of the Ganga opposite Navadvipa.
+[^24-30]: The motif of the sacred thread on Haridasa follows from the version of his brahmana origin (see 199); it is absent in the CB and the CC. From the Gaudiya Vaishnava point of view Haridasa's greatness does not depend on birth or outward marks.
+[^24-31]: In the CB (Adi 16) the kazi has Haridasa beaten in twenty-two marketplaces and thrown into the Ganga; Haridasa, absorbed in the Name, feels no pain and remains alive. The story of the prison, the sack and the fishermen's net here is different.
+[^24-32]: Benapol is a village in the Jessore district; it does not lie on or near the Ganga.
+[^24-33]: According to the CC (Antya 3), the prostitute was sent to Haridasa at Benapol by the zamindar Ramachandra Khan, not by the kazi.
+[^24-34]: The mention of a prostitute "of the Mughal race" is anachronistic: Haridasa lived in Bengal at the turn of the fifteenth and sixteenth centuries, before the Mughal conquest (Bengal became part of the Mughal empire in 1576).
+[^24-35]: *Bhagavata Purana* 10.48.31 (cf. 10.84.11).
+[^24-36]: A verse from the *Skanda Purana* (Prabhasa-khanda), quoted in the *Hari-bhakti-vilasa* (11.234).
+[^24-37]: Cf. the *Gaura-ganoddesha-dipika*: Haridasa is Brahma combined with Prahlada; the son of the sage Richika is also mentioned there.
+[^24-38]: The story of Prahlada's "fall" and his birth as Haridasa is not found in the Puranas; it is apparently a late tradition. From the Gaudiya Vaishnava point of view such "falls" of the Lord's eternal associates are part of His lila, arranged to glorify the Name, not the result of karma.
+[^24-39]: Cf. the *Gaura-ganoddesha-dipika*: Gopinatha Acharya (Sarvabhauma's brother-in-law) is Brahma.
+[^24-40]: Kulinas, shrotriyas and kapas are ranks of Bengali brahmanas in the kulina system (discussed in detail at the end of this vilasa). The name of Sita's father — Nrisimha Bhaduri of Narayanapura — is given by the *Advaita-prakasha* and this vilasa; the CC and the CB do not name him.
+[^24-41]: Cf. the *Gaura-ganoddesha-dipika*: Sita is Yogamaya, Sri is her manifestation. "Durga" and "Bhagavati" here are names of the Lord's spiritual potency (Yogamaya), not of Mahamaya, who rules the material world.
+[^24-42]: Hiranya and Govardhana Majumdar were wealthy landholders of Saptagrama, the father and uncle of Raghunatha Dasa Gosvami; according to the CC (Antya 6), Yadunandana Acharya was their family priest. Calling them "rulers" is an exaggeration; their part in Advaita's wedding is known only from the *Advaita-prakasha* and this vilasa.
+[^24-43]: Pakasparsha ("touching the cooked food") is a wedding rite in which the new wife first serves rice to her husband's kin and the guests.
+[^24-44]: The second line of the couplet is damaged in both editions (the 1999 edition reads only "…with great joy in their hearts"); the sense is restored from the index of the "Half-vilasa" (863): "the initiation of Sri and Sita by Advaita is described."
+[^24-45]: Six names are given (with Achyutananda) for five sons of Sita and one son of Sri (348); which son was born of Sri Devi is not said. The CC (Adi 12) names Achyutananda, Krishna Mishra and Gopala; Balarama, Svarupa and Jagadisha are known from later genealogies. The identifications (Achyuta as Ganesha, Krishnadasa as Karttikeya) follow the *Advaita-prakasha*.
+[^24-46]: The meaning of the line is unclear (the same in both editions); perhaps "never do I let anyone [see me] as a man."
+[^24-47]: The tradition of Jangali and Nandini, Sita's maidservants, is known from the *Advaita-prakasha* and the later tradition of Shantipur; the "ruler of Gauda" is not named.
+[^24-48]: Ishana was Advaita's disciple and servant; later tradition ascribes to him (Ishana Nagara) the *Advaita-prakasha*, with which this vilasa largely agrees.
+[^24-49]: Cf. the CB (Madhya 19): Advaita expounds the *Yoga-vasishtha*, placing knowledge above bhakti, in order to receive punishment instead of honour from Mahaprabhu; Mahaprabhu comes to Shantipur with Nityananda and beats him. As stressed here, this is lila: Advaita does not take the doctrine of knowledge seriously but wishes for the Lord's punishment, being burdened by His respect.
+[^24-50]: On Kamadeva Nagara see vilasa 4. In the index of the "Half-vilasa" (873–875) these four are named as Advaita's rejected disciples.
+[^24-51]: A play on words: baul means "madman" (and a wandering singer), aul "confused, bewildered." Later tradition traces the origin of unorthodox communities (Bauls and others) to Advaita's rejected disciples.
+[^24-52]: On Madhava Acharya, author of the *Sri Krishna-mangala*, see vilasas 19 and 21; the author himself admits the repetition (cf. "Half-vilasa," 876–879).
+[^24-53]: Cf. the CC (Madhya 16) and the CB (Antya 3–4): on the way from Puri to Gauda (to go to Vrindavana) Mahaprabhu visits Panihati (Raghava's house), Kumarahatta (Srivasa's house), the houses of Shivananda and Vasudeva, Shantipur and Kuliya, from where He goes to Ramakeli and turns back from Kanai Natashala. The CB connects Kuliya with His mercy to Devananda and Gopala Chapala; that He stayed seven days in Madhava Acharya's house is said only here.
+[^24-54]: Madhava Acharya's sannyasa from Paramananda Puri is known only from this vilasa.
+[^24-55]: The 1913 edition: "Upendra, Ranga, Kandida (?), Kirtivasa"; the 1999 edition: "Upendra, Rangada, Kirti, Kirtivasa." The CC (Adi 13) names only Upendra Mishra, Mahaprabhu's grandfather, and his seven sons (Kamsari, Paramananda, Padmanabha, Sarveshvara, Jagannatha, Janardana, Trailokyanatha), which agrees with 446. The names of Vishuddha and Madhu Mishra and the village of Baraganga follow later genealogies.
+[^24-56]: Cf. the *Gaura-ganoddesha-dipika*: Jagannatha Mishra is Nanda and Vasudeva; Shachi is Yashoda and Devaki.
+[^24-57]: According to this vilasa Ratnagarbha Acharya is Shachi's brother and Lokanatha's father. In the CC Ratnagarbha is a fellow countryman of Jagannatha Mishra from Srihatta; in the *Bhakti-ratnakara* Lokanatha Gosvami is the son of Padmanabha Chakravarti of Talagadi. Here apparently another tradition (or another Lokanatha) is meant.
+[^24-58]: Vishvarupa's sannyasa name Shankararanya is also given in the CC (Adi 7; Madhya 9: he left the world at Pandharpur). Vishvarupa's initiation by Ishvara Puri and his companion Lokanatha are known only from this vilasa.
+[^24-59]: Kavi Karnapura's *Chaitanya-chandrodaya-nataka*, act 1; the reading of the last line is restored from the 1999 edition ("pūrvaṁ parivrajita eva tiro babhūva").
+[^24-60]: The six younger brothers of Nityananda are also named in later genealogies; the CB and the CC do not mention them.
+[^24-61]: The sources differ on Nityananda's teacher: later tradition names Lakshmipati Tirtha as his guru; the CB says only that Nityananda wandered and met Madhavendra Puri. Initiation and sannyasa from Ishvara Puri following a dream in which Balarama himself names his mantra are known only from this vilasa (briefly in vilasa 7).
+[^24-62]: See vilasa 7 of this book; cf. the index of the "Half-vilasa," 899–921.
+[^24-63]: See CB, Adi 14: Mahaprabhu's journey to East Bengal (to the Padma). The details of the journey to Srihatta, the list of places (Faridpur, Nurpur in Vikramapura, Suvarnagrama, Egarasindur, Betal, Bhitadia) and the story of Lakshminatha Lahiri are known only from this vilasa.
+[^24-64]: See vilasa 8: on the bank of the Padma Mahaprabhu "draws" Narottama, who is not yet born, entrusting His prema for him to the Padma.
+[^24-65]: On Rupa Narayana see vilasa 19.
+[^24-66]: Padmagarbha Acharya and his works (a commentary on Keshava Kashmiri's *Krama-dipika*, a commentary on the *Paingi-rahasya-brahmana*, a dualist commentary on the Upanishads; the index of the "Half-vilasa," 934, also mentions a commentary on the *Gita*) are known only from this vilasa.
+[^24-67]: Cf. CC (Madhya 10): Purushottama Acharya, a resident of Navadvipa, after Mahaprabhu's sannyasa went to Varanasi, where Chaitanyananda gave him the sannyasi's dress and the name Svarupa; Svarupa Damodara examined verses and songs before Mahaprabhu heard them. Svarupa's descent from Padmagarbha and his kinship with Lakshminatha Lahiri are known only from this vilasa.
+[^24-68]: Mahaprabhu's visit to Srihatta, the miracle of the copying of the *Chandi* and the departure of His grandfather and grandmother to the eternal abode are known only from this vilasa (and later biographies). The CB (Adi 14) tells of Mahaprabhu's journey to Vanga, to the bank of the Padma, but not of Srihatta.
+[^24-69]: On false avataras cf. the CB (Adi 14) and the CC. The nicknames "Shiyal," "Kapindri," "Chudadhari" and the story of Chudadhari at Nilachala are known from later Vaishnava works. At this point the 1913 edition has an editor's note with references to the CC and Sanskrit verses on these same false avataras; it is not translated.
+[^24-70]: CB, Adi 14 (on Mahaprabhu's journey to Vanga).
+[^24-71]: *Bhagavata Purana* 3.31.34.
+[^24-72]: *Bhagavata Purana* 10.33.31 (on the rasa: no one but the Lord may imitate His pastimes).
+[^24-73]: *Manu-smriti* 11.176 (in the 1913 edition the first line of the verse is lost; restored from the 1999 edition).
+[^24-74]: At this point the 1913 edition has an editor's note on the "rejected" and "non-sampradaya" Vaishnavas and on the chudadharis; it is not translated.
+[^24-75]: "Tiger songs" (bagher git) are folk songs with which wandering singers went from house to house collecting alms.
+[^24-76]: Kakudmi is the king, father of Revati, Balarama's consort. Cf. the *Gaura-ganoddesha-dipika*: Vasudha and Jahnava are Varuni and Revati, and Suryadasa is Kakudmi.
+[^24-77]: On Nityananda's marriage cf. the *Nityananda-vamsha-vistara* and the *Bhakti-ratnakara* (12). The story of Suryadasa's anger, his dream and the revival of Vasudha after a snakebite belongs to late tradition. "Low kula" is meant in the sense of the kulina system (Suryadasa was not a kulina of high rank).
+[^24-78]: At this point the 1913 edition has editor's notes with quotations from the *Nityananda-vamsha-vistara*; they are not translated.
+[^24-79]: Hemadri (thirteenth century) is the author of the compendium *Chaturvarga-chintamani*, part of which is the *Shraddha-kalpa*; Yama and Devala are authors of dharma-shastras.
+[^24-80]: Shankara, commentary on the *Brahma-sutra* 3.4.43.
+[^24-81]: *Bhagavata Purana* 10.33.29 (on the rasa: the acts of the mighty do not stain them).
+[^24-82]: This is the Gaudiya Vaishnava view: Nityananda is Balarama Himself, His marriage is lila, to which the rules for sannyasis do not apply. The shastric injunctions quoted above only show how society might judge a sannyasi's marriage.
+[^24-83]: "Virabhadri" is a term of the kulina chronicles: a "fault" with which the kulacharyas (genealogists) marked families that had intermarried with Nityananda's descendants. The author considers this censure groundless.
+[^24-84]: The tradition of Abhirama's obeisances, from which infants who were not portions of the Lord died, is known from later works on Abhirama; cf. the index of the "Half-vilasa" (950–951).
+[^24-85]: On Bhagiratha Acharya and Madhava see vilasas 19 and 21 (Madhava is the son of Vishveshvara Acharya of the Maitra family, taken by Bhagiratha to be brought up). Bhagiratha's genealogy (from Aravinda to Gauridasa-Bhagiratha) is known only from this vilasa.
+[^24-86]: *Mahabharata*, Adi-parva, the story of Kacha and Devayani (chs. 71–72 of the vulgate).
+[^24-87]: The source of the verse has not been identified.
+[^24-88]: A mela is a grouping of kulina families within which marriages were contracted; the institution of the melas is ascribed to Devivara Ghataka. The Khardaha mela and the mela of Dasharatha Ghataka are two of them. By the traditional dating Devivara lived at the end of the fifteenth century, so his involvement in the affairs of Nityananda's son-in-law (and below his initiation by Virabhadra) is chronologically doubtful; this information reflects late kulina chronicles.
+[^24-89]: Cf. the *Gaura-ganoddesha-dipika*: Madhava Acharya, Ganga's husband, is King Shantanu (and Ganga is the river Ganga). Madhuspanda and the sakhi Madhavi here are additional identifications.
+[^24-90]: Virachandra's initiation by Jahnava is the generally accepted tradition (cf. the *Bhakti-ratnakara*); the story of the boat broken by Abhirama's flute and of the four-armed Jahnava is known only from this vilasa (cf. the index of the "Half-vilasa," 960–965).
+[^24-91]: The *Virachandra-charita* is a work the author calls his own; it is not known in the manuscript tradition of the *Prema-vilasa* or from other sources. References to it are one of the marks of a late addition.
+[^24-92]: The tradition of the padishah's "teluya stone" and the three images carved from it — the Shyamasundara of Khardaha, Nanda-dulala (of Saibona?) and the Vallabhaji of Vallabhapura (near Serampore) — is alive in the Khardaha tradition. The 1999 edition reads "Svamibana."
+[^24-93]: In other sources (cf. the glossary: Narayani and Vishnupriya) Virachandra's wives are named differently; here they are Srimati and Narayani, daughters of Yadunandana of Jhamatpur. The sons Gopijanavallabha, Ramakrishna and Ramachandra are known from other sources as well.
+[^24-94]: A danda is about 24 minutes; twelve dandas are about 4 hours 48 minutes.
+[^24-95]: A folk etymology: "kulina" (ku-lina) is interpreted as "sunk in evil."
+[^24-96]: At this point the 1913 edition has an editor's note with Sanskrit and Bengali verses from the kulina chronicles (*Mela-mala*, *Kula-kalpa-latika* and others) on the same event; it is not translated.
+[^24-97]: Dhadha, nadha, virabhadri, mulukjuri and others are the "faults" (dosha) by which, according to the kulina chronicles, Devivara Ghataka distributed the kulina families among the melas. This whole section (like those that follow) is kulina genealogy which, as B. Majumdar remarks, is found in no other Vaishnava work; it is apparently borrowed from the kulina chronicles (kulaji).
+[^24-98]: In other words, according to the kulina chronicles "virabhadri" consists of two "faults": descent from a sannyasi ("vantashi") and the vamshaja status of Nityananda's father. Cf. above, 645–647: the author rejects these censures regarding Nityananda's descendants as groundless.
+[^24-99]: Batavyal and Banduri (Bandyaghati) are family designations (gain) of Virachandra's descendants; the information that Devivara conferred them comes from the kulina chronicles. At this point the 1913 edition has a lengthy editor's note on whether Gopijanavallabha, Ramakrishna and Ramachandra were Virabhadra's sons; it is not translated.
+[^24-100]: A play on words: "yogeśvare 'kulam" can be read both as "Yogeshvara has kula" (kulam) and as "Yogeshvara has no kula" (akulam); thus Devivara formally kept his mother's vow (cf. 757) and then, at her request, left Yogeshvara his kula.
+[^24-101]: Pantha-bhat is boiled rice soaked overnight in water, the simplest food; Yogeshvara asks to be fed as a sign of reconciliation.
+[^24-102]: On the anachronism (Devivara as Virabhadra's disciple) see note 88.
+[^24-103]: Nityananda's genealogy from Narayana Bhatta (one of the five brahmanas who, according to tradition, were invited to Bengal from Kanauj; see below) is taken from the kulina chronicles; the CB and the CC name only Hadai Pandita and Padmavati.
+[^24-104]: According to this genealogy Advaita is the great-grandson of Narasimha Nadiyal, minister of Raja Ganesha (early fifteenth century). B. Majumdar notes that the *Balya-lila-sutra* makes Advaita Narasimha's grandson and the kulina chronicles his descendant in the fifth generation, and that neither agrees with the traditional date of Advaita's birth (1434); the list of Advaita's ancestors itself does not agree with the genealogies of the Gosvamis of Shantipur. The father of Advaita at the beginning of the vilasa is called Kuvera, so here the genealogy agrees with the narrative, but historically it is unreliable.
+[^24-105]: An anachronism: the *Nyaya-kusumanjali* is a work of the logician Udayana of Mithila (tenth century). Here he is conflated with Udayana [Bhaduri], the reformer of kulinism among the Varendras, whom the kulina chronicles place much later. The genealogy of Gadadhara Pandita and the following information on the kulinas are taken from the kulina chronicles (kulaji).
+[^24-106]: Ganga-jal-sai is a rite of sworn friendship (among women) sealed with Ganga water.
+[^24-107]: Cf. vilasa 22 of this book, where Madhava Mishra, Pundarika Vidyanidhi, Gadadhara and Nayana Mishra are described in more detail (including Nayana's move to Bharatpur). The author himself acknowledges this repetition (index of the "Half-vilasa," 985–987).
+[^24-108]: The source is apparently a kulina chronicle; the tradition of Adishura inviting five brahmanas from Kanauj underlies the Bengali kulina genealogies, but historians regard it as legendary.
+[^24-109]: The end of the verse is corrupt in the 1913 edition; restored from the 1999 edition. The verse is quoted to show that Adishura was an Ambashtha (a kshatriya of "mixed" origin).
+[^24-110]: The five companions of the brahmanas — Ghosh, Basu (Vasu), Datta, Guha and Mitra — are, according to tradition, the progenitors of the kulina families of the Bengali kayasthas.
+[^24-111]: Shaka 954 = 1032 CE (the kulina chronicles give differing dates for the coming of the brahmanas).
+[^24-112]: The names in 993 are rendered conjecturally: they are corrupt in both editions.
+[^24-113]: The Saptashatis are a class of local Bengali brahmanas, according to kulina tradition descendants of brahmanas who lived in Bengal before the coming of the Kanaujis.
+[^24-114]: Bhavadeva Bhatta is a Bengali author (eleventh–twelfth centuries), compiler of a manual of domestic rites (the *Dasha-karma-paddhati*).
+[^24-115]: The *Kula-sagara* of Dharai Upadhyaya is not known outside this vilasa.
+[^24-116]: A prahara is about three hours; one and a half praharas after sunrise is about half past nine in the morning.
+[^24-117]: The nine qualities of a kulina, according to a well-known verse of the kulina chronicles: good conduct, humility, learning, good repute, pilgrimage, firmness in faith, proper livelihood, austerity and generosity.
+[^24-118]: Udayana the logician is again conflated here with Udayana Bhaduri, the reformer of kulinism among the Varendras (see note 105).
+[^24-119]: There follow the genealogies of the kulina families of the Radhis and Varendras, with the disagreements of "various ghatakas" — material of the kulina chronicles. The names are given according to the 1913 edition (checked against the 1999 edition); in some cases the reading is conjectural, and individual variants are not noted.
+[^24-120]: Cf. 845–854: Narasimha Nadiyal, Advaita's great-grandfather, descends from Aru (Aro) Ojha; the village of Nadli (Nadiyal) is the source of the family designation.
+[^24-121]: That is, the Lord (literally "the Gosvami"). The author himself admits that the kulina genealogies which he gives from the *Kula-ratna* and the oral traditions of the kulacharyas are contradictory.
+[^24-122]: The lists of gains (family designations taken from villages) of the siddha-, sadhya- and kashta-shrotriyas follow the 1913 edition; many names are corrupt, restored conjecturally, and may not agree with those accepted in the kulina chronicles. The author's totals do not always agree with the lists.
+[^24-123]: Kamsanarayana Raya, raja of Tahirpur, lived in the second half of the sixteenth century; the reference to the time after his passing is another sign that this section was composed no earlier than the end of the sixteenth or the seventeenth century.
+[^24-124]: See notes 105 and 118: Udayana the logician is conflated with Udayana Bhaduri.
+[^24-125]: A verse of the Varendra kulina chronicles: a list of the eight kulina gains (Maitra, Bhima [Kaliyai], Rudra [Bagchi], Sanjamini, Sadhu [Bagchi], Lahiri, Bhaduri), with Bhadada as the "filler of the row," i.e. admitted only to make up the number.
+[^24-126]: The karana is a marriage contract between kulina families; in the absence of a daughter the rite could be performed with a doll of kusha grass (cf. below on the "kushachharani"). Parivarta is the exchange of daughters between families.
+[^24-127]: The "patis" (groups) of the Varendras are, according to the kulina chronicles, eight (cf. the index of the "Half-vilasa," 1022).
+[^24-128]: An anachronism: Kamsanarayana Raya, raja of Tahirpur, lived in the second half of the sixteenth century, while Mahaprabhu appeared in 1486. Cf. note 123.
+[^24-129]: Narasimha Nadiyal, according to the kulina chronicles and to 848 of this vilasa, was the minister of Raja Ganesha (early fifteenth century) and Advaita's great-grandfather; here he turns out to be a contemporary of Shukadeva Acharya and of the age of Kamsanarayana — another internal contradiction of the vilasa.
+[^24-130]: Raja Ganesha was a ruler of Bengal in the early fifteenth century; Narasimha Nadiyal, according to the kulina chronicles, was his minister. The story of the marriage of Narasimha's daughters to Madhu Maitra (hence, according to tradition, the origin of the kapas among the Varendras, cf. 849) comes from the kulina chronicles.
+[^24-131]: The words "to this day" show that the author of this section was writing when Kamsanarayana's rules were already in force (the end of the sixteenth century or later).
+[^24-132]: The lists of melas and patis follow the 1913 edition (checked against the 1999 edition); some names are corrupt in both editions.
+[^24-133]: Sundaramalla Banduri is, according to 833 of this vilasa, Nityananda's grandfather; that is, according to the kulina chronicles, part of his family became Batavyal shrotriyas.
+[^24-134]: Cf. the index of the "Half-vilasa" (1023–1024): "palti," "prakriti," "saparyaya," "vara," "arti," "kshemya," "uchita," "labhya" are terms of kulina marriage law.
+[^24-135]: Both editions have a corrupt line here ("or before the ghataka they mutually say…"); the sense cannot be restored.
+[^24-136]: The beginning of a dharma-shastra verse on who is entitled to give a girl in marriage (cf. *Yajnavalkya-smriti* 1.63).
+[^24-137]: The preceding line is corrupt in the 1913 edition and cannot be read.
+[^24-138]: The continuation of the line is corrupt in both editions.
+[^24-139]: Cf. the index of the "Half-vilasa" (1026–1037): "dhemni," "kushachharani," "nibandhava," "phota," "pokra," "bhai-kara," "avadhyata," "garbha-shuda," "shrotriyanta" and others are terms of kulina marriage law known from the kulina chronicles; in Vaishnava literature they occur nowhere but in this vilasa.
+[^24-140]: By this reckoning Udayana Bhaduri lived about 1286; this is incompatible with the author of the *Nyaya-kusumanjali* (tenth century), with whom the vilasa conflates him (see note 105).
+[^24-141]: That is, Nityananda (a Radhi according to the kulina chronicles) and Advaita (a Varendra); Gadadhara, according to 863–866, is also of Varendra descent.
+[^24-142]: Here the kulina section of the vilasa is explained by the order of Jahnava Devi (the "Thakurani"). Such interest in the kulina system is unusual for a Vaishnava hagiography; B. Majumdar sees in it a sign of late composition.
+[^24-143]: Shaka 1495 = 1573 CE. The date of completion of the *Chaitanya-bhagavata* differs in various sources; B. Majumdar places it around 1548.
+[^24-144]: Shaka 1503 = 1581 CE. This verse is not in the accepted text of the CC; B. Majumdar discusses it as a variant given only by the *Prema-vilasa* and rejects the date 1581, since the CC mentions Jiva Gosvami's *Gopala-champu*, completed in 1592. In the tradition of the Gaudiya Math (Bhaktisiddhanta Sarasvati) the date accepted for the completion of the CC is Shaka 1537 (1615 CE).
+[^24-145]: Shaka 1522 = 1601 CE. Majumdar points out that this date contradicts other information in the *Prema-vilasa* itself (for example, the initiation of Srinivasa's three sons described in vilasa 20) — further evidence of late accretion.
+[^24-146]: The statement that vilasas 1–18 were written in Khanda (Srikhanda), 19–20 in Khardaha and 21–24 in Katwa is found only in this vilasa; it agrees with the view that the later vilasas were added to the poem gradually (cf. note 1).
 
 ---
 
