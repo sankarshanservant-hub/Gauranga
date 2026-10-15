@@ -460,3 +460,15 @@
   cb: ""
   themes: [ecstasy, krishna-lila, separation]
   notes: "Шлоки Бхаг. 10.30; видение Кришны под кадамбой; танец под «Гита-говинду» 2.3. Рупа, «Чайтанья-аштака» 6."
+
+# --- Антья 16 ---
+- id: ev-krishna-adharamrita-phela
+  title: "Прасад со вкусом нектара уст Кришны: «частица фелы, обретаемая благодаря сукрити»"
+  title_en: "Prasada with the taste of the nectar of Krishna's lips: \"a particle of phela obtained by sukriti\""
+  period: P14
+  order: 100.75
+  cc: "Антья 16.88–150"
+  cb: ""
+  themes: [ecstasy, prasada, krishna-lila]
+  teaching: [prasada-teaching, prema]
+  notes: "Прасад «гопала-валлабха-бхога»; ночное толкование шлок о губах Кришны и о флейте (Бхаг. 10.31.14, 10.21.9; Говинда-лиламрита 8.8)."
