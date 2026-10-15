@@ -154,3 +154,79 @@
   event: ev-shuklambara-mercy
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya16.md", from: "109", to: "152"}
+
+# ---------- Мадхья 17. Господь бросается в Гангу; ночь у Нанданы Ачарьи; утешение Адвайты ----------
+
+- id: cb-2009
+  source: cb
+  ref: "Мадхья 17, 1–30"
+  file: "chaitanya-bhagavata/ed/CB_Madhya17.md"
+  period: P07
+  order: 125.8
+  title: "Разговор с безбожниками; на киртане Господь без радости, Адвайта говорит дерзко"
+  summary: "Скрывая Себя, Господь гуляет по Навадвипе, горделивый учёностью; безбожники говорят Ему, что царь-мусульманин хочет услышать Его киртан; вернувшись, Господь начинает киртан, чтобы развеять печаль, но не чувствует блаженства и просит простить Его, если Он кого-то обидел; Адвайта, нахмурившись, в танце отвечает, что откуда взяться преме, если Нара истощён по Его вине, — в исступлении он не помнит, что говорит."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 8–13 и 22–25 в издании пропущены. Ст. 27–29: преданные покупают Кришну силой любви."
+  divergence: "По ЧЧ Ади 17, Мурари 2.11, Лочану и Карнапуре причина — брахманка (брахман), взявшая пыль со стоп Господа; по ЧБ — слова Адвайты."
+  themes: [kirtan, offense]
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya17.md", from: "1", to: "30"}
+
+- id: cb-2010
+  source: cb
+  ref: "Мадхья 17, 31–65"
+  file: "chaitanya-bhagavata/ed/CB_Madhya17.md"
+  period: P07
+  order: 126
+  title: "Господь бросается в Гангу; Нитьянанда и Харидас вытаскивают Его; ночь у Нанданы Ачарьи"
+  summary: "Молча Господь выбегает на улицу и, сочтя жизнь без премы бессмысленной, прыгает в Гангу; Нитьянанда хватает Его за плечи и волосы, Харидас — за стопы, и они вытаскивают Его; Господь велит им молчать и уходит в дом Нанданы Ачарьи; преданные в разлуке плачут, Адвайта считает себя оскорбителем и постится; Нандана переодевает Господа, умащает сандалом, подносит бетель и на просьбу спрятать Его отвечает: «Тебя не спрятать даже в океане молока» — и всю ночь они говорят о Кришне."
+  persons: ["@mahaprabhu", "@nityananda", "@haridasa-thakura", "@nandana-acharya", "@advaita"]
+  places: ["#ganga", "#house-nandana-acharya", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.243–246; Мурари 2.11.19–25; Лочан, Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана», 64–92; Карнапура (ЧКМ) 7.91–97"
+  themes: [separation, ecstasy]
+  bhava: [devotee]
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya17.md", from: "31", to: "65"}
+
+- id: cb-2011
+  source: cb
+  ref: "Мадхья 17, 66–102"
+  file: "chaitanya-bhagavata/ed/CB_Madhya17.md"
+  period: P07
+  order: 126.2
+  title: "Господь утешает постящегося Адвайту: «Кришна наказывает лишь Своих вечных слуг»"
+  summary: "Утром Господь зовёт одного Шривасу; тот рассказывает, что Адвайта постился и едва жив; Господь идёт к Адвайте, лежащему без сознания от раскаяния, и объясняет: министру доверено царство, но за оскорбление царя он может лишиться жизни — так и Кришна, Царь царей, наказывает лишь тех, кто Его слуга из рождения в рождение; поняв, что наказан как слуга, Адвайта смеётся: «Теперь я могу сказать, что Ты мой Господь!» — и пляшет, а вайшнавы ликуют."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@nandana-acharya", "@nityananda", "@haridasa-thakura"]
+  places: ["#house-nandana-acharya", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 83–87, 90–92 в издании пропущены."
+  themes: [mercy, offense, teaching]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-jump-into-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya17.md", from: "66", to: "102"}
+
+- id: cb-2012
+  source: cb
+  ref: "Мадхья 17, 103–118"
+  file: "chaitanya-bhagavata/ed/CB_Madhya17.md"
+  period: PX
+  order: 201
+  title: "Слово автора: положение слуги Господа не ничтожно; слава Нитьянанды"
+  summary: "Положение слуги Кришны не ничтожно: освобождённые души поклоняются Кришне, и Он принимает в слуги лишь удачливых; наделённые Его силой слуги, оскорбив, бывают наказаны, а неофиты, ссорящиеся с ними, грешны; кто учит учеников медитировать на себя как на Рамачандру — обманщик; даже Баларама, держащий вселенные, — слуга Господа Чайтаньи; по милости Нитьянанды проявилась слава Гауры."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@balarama"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author, teaching]
+  teaching: [vaishnava, associates-tattva, gaura-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya17.md", from: "103", to: "118"}
