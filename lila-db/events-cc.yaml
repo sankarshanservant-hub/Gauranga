@@ -39,7 +39,7 @@
   title_en: "Pancha-tattva: Krishna in five forms"
   period: PX
   order: 102
-  cc: "Ади 1.14; 1.28"
+  cc: "Ади 1.14; 1.28; Ади 3, 7"
   cb: ""
   themes: [teaching]
   teaching: [gaura-tattva, associates-tattva]
@@ -207,7 +207,7 @@
   title_en: "The gopis' prema is pure love, not kama; Radha is the best of the gopis"
   period: PX
   order: 116
-  cc: "Ади 4.159–219"
+  cc: "Ади 4.159–219; Ади 17"
   cb: ""
   themes: [teaching, krishna-lila]
   teaching: [prema, scripture]
@@ -287,7 +287,7 @@
   title_en: "The bhakti Krishna keeps hidden, Sri Chaitanya gives to all without discrimination"
   period: PX
   order: 122
-  cc: "Ади 8.16–21"
+  cc: "Ади 8.16–21; Мадхья 2"
   cb: ""
   themes: [teaching, mercy]
   teaching: [prema, bhakti-supremacy, gaura-tattva]
@@ -323,7 +323,7 @@
   title_en: "The wish-fulfilling tree of bhakti: Sri Chaitanya is the gardener and the trunk, His associates the roots and branches, prema the fruit"
   period: PX
   order: 124
-  cc: "Ади 9.6–54"
+  cc: "Ади 9.6–54; Ади 10–12"
   cb: ""
   themes: [teaching, mercy]
   teaching: [associates-tattva, prema, holy-name]
@@ -335,8 +335,8 @@
   title_en: "Shridhara Kholavecha: the Lord jokes with him, takes his banana stems, flowers and fruits, and drinks from his broken iron pot"
   period: P07
   order: 123
-  cc: "Ади 10.67–68"
-  cb: ""
+  cc: "Ади 10.67–68; Ади 17"
+  cb: "Ади 12.178–213; Мадхья 9.135–248; Мадхья 23"
   themes: [pranks, mercy, prasada]
   notes: "В ЧЧ Ади 10 — упоминание: торговец банановой корой Шридхара — дорогой слуга Господа; Господь постоянно подшучивал над ним, ежедневно брал его банановую сердцевину, цветы и плоды и пил воду из его дырявого железного кувшина (последнее традиционно — после ночного шествия к Кази; ср. ev-nagara-kirtana-kazi). Шутки Господа с Шридхарой — и в годы учительства (P05)."
 
@@ -346,10 +346,10 @@
   period: P03
   order: 81
   cc: "Ади 10.70–71; Ади 14"
-  cb: ""
+  cb: "Ади 6.16–41"
   themes: [pranks, prasada, festival]
   bhava: [child]
-  notes: "В ЧЧ Ади 10 — упоминание: Джагадиша Пандит и Хиранья Махашая, которым Господь явил милость в детстве; в их домах в день экадаши Он выпросил наиведью Вишну и съел её Сам. Подробно — ЧЧ Ади 14."
+  notes: "В ЧЧ Ади 10 — упоминание: Джагадиша Пандит и Хиранья Махашая, которым Господь явил милость в детстве; в их домах в день экадаши Он выпросил наиведью Вишну и съел её Сам. Подробно — ЧЧ Ади 14. ЧБ Ади 6.16–41 — подробно; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» Девакинанданы (ч. 4, 106–107)."
 
 - id: ev-murari-gupta-physician
   title: "Мурари Гупта не принимает даров, кормит семью врачеванием и исцеляет и тело, и болезнь бытия"
@@ -395,7 +395,7 @@
   order: 95
   date_conf: оценка
   date_basis: "в ЧЧ Ади 10 время не названо; отнесено к годам приходов жителей Кулинаграмы в Пури (ср. ЧЧ Мадхья 15–16)"
-  cc: "Ади 10.80–83"
+  cc: "Ади 10.80–83; Мадхья 15"
   cb: ""
   themes: [mercy, teaching]
   teaching: [vaishnava, holy-name]
@@ -424,7 +424,7 @@
   date_conf: оценка
   date_basis: "в ЧЧ время не названо; по «Анубхашье» к Ади 10.53 и ЧБ Антья 5 — в годы проповеди Нитьянанды в Гауде"
   cc: "Ади 11.17–18"
-  cb: "Антья-кханда, гл. 5"
+  cb: "Антья 5.371–394"
   themes: [kirtan, krishna-lila, ecstasy]
   notes: "ЧЧ Ади 11.17: в доме Гададхары Даса (Эндиядаха) Нитьянанда совершил «дана-кели» — лилу сбора пошлины; Ади 11.18: Мадхава Гхош — главный из певцов, под его пение пляшет Нитьянанда. По «Анубхашье» (к Ади 10.53, со ссылкой на ЧБ Антья 5) Мадхава Гхош с Нитьянандой и Гададхарой Дасом пел и плясал перед Бала-Гопалой, разыгрывая «Дана-кханду»."
 
@@ -480,7 +480,7 @@
   date_conf: оценка
   date_basis: "ЧЧ Ади 17.7 (сутра, до Гаи); «Анубхашья» отсылает к ЧБ Ади 12"
   cc: "Ади 17.7"
-  cb: "Ади 12"
+  cb: "Ади 12.67–87"
   themes: [ecstasy]
   notes: "ЧЧ Ади 17.7: под предлогом расстройства вайю Господь являл прему и играл с преданными. Подробно — у Вриндавана Даса."
 

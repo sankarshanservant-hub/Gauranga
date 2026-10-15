@@ -735,8 +735,8 @@
   "title_en": "Madhavendra Puri in Shantipura: Advaita's initiation; the image of Radhika",
   "period": "P01",
   "order": 1.7,
-  "cc": "",
-  "cb": "",
+  "cc": "Мадхья 4",
+  "cb": "Антья 4",
   "themes": [
    "deities",
    "teaching"
@@ -957,7 +957,7 @@
   "period": "P01",
   "order": 2,
   "cc": "",
-  "cb": "Ади 2",
+  "cb": "Ади 2.56–77, 96–110; 16.1–15",
   "themes": [
    "celestial",
    "kirtan"
@@ -985,7 +985,7 @@
   "period": "P01",
   "order": 2.5,
   "cc": "",
-  "cb": "Ади 16",
+  "cb": "Ади 16.16–35, 308–316",
   "themes": [
    "kirtan",
    "mercy"
@@ -1038,8 +1038,8 @@
   "title_en": "Haridasa before the Muslim governor",
   "period": "P01",
   "order": 2.7,
-  "cc": "",
-  "cb": "Ади 16",
+  "cc": "Ади 10",
+  "cb": "Ади 16.36–171",
   "themes": [
    "muslims",
    "mercy"
@@ -1068,7 +1068,7 @@
   "period": "P01",
   "order": 2.8,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 16.172–197",
   "themes": [
    "mercy",
    "kirtan"
@@ -1120,7 +1120,7 @@
   "title_en": "Advaita gives the shraddha plate to Haridasa",
   "period": "P01",
   "order": 2.95,
-  "cc": "Антья 3",
+  "cc": "Антья 3; Ади 10",
   "cb": "",
   "themes": [
    "prasada",
@@ -1171,8 +1171,8 @@
   "title_en": "Advaita calls Krishna to descend (with tulasi and Ganga water)",
   "period": "P01",
   "order": 4,
-  "cc": "Ади 3",
-  "cb": "",
+  "cc": "Ади 3; Ади 4, 13",
+  "cb": "Ади 2.78–95, 111–126; 11.52–68",
   "themes": [
    "celestial",
    "ecstasy"
@@ -1209,7 +1209,7 @@
   "period": "P01",
   "order": 5,
   "cc": "Ади 13",
-  "cb": "Ади 2",
+  "cb": "Ади 2.28–55",
   "themes": [
    "celestial"
   ],
@@ -1243,7 +1243,7 @@
   "title_en": "Nilambara Chakravarti and Jagannatha Mishra migrate from Shrihatta to Navadvipa",
   "period": "P01",
   "order": 8,
-  "cc": "",
+  "cc": "Ади 13",
   "cb": "",
   "themes": [
    "family"
@@ -1331,7 +1331,7 @@
   "period": "P01",
   "order": 20,
   "cc": "Ади 13",
-  "cb": "",
+  "cb": "Ади 2.136–143",
   "themes": [
    "family"
   ],
@@ -1382,7 +1382,7 @@
   "period": "P01",
   "order": 30,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 2.127–135; 9.1–7",
   "themes": [
    "family",
    "celestial"
@@ -1410,7 +1410,7 @@
   "period": "P01",
   "order": 31,
   "cc": "",
-  "cb": "Ади 9",
+  "cb": "Ади 9.100–101; Мадхья 3.58–106",
   "themes": [
    "pilgrimage",
    "family"
@@ -1441,7 +1441,7 @@
   "date_conf": "вероятно",
   "date_basis": "за 13 месяцев до явления (ЧЧ Ади 13)",
   "cc": "Ади 13",
-  "cb": "Ади 2",
+  "cb": "Ади 2.144–149",
   "themes": [
    "revelation",
    "family"
@@ -1495,7 +1495,7 @@
   "period": "P01",
   "order": 60,
   "cc": "",
-  "cb": "Ади 2",
+  "cb": "Ади 2.150–194",
   "themes": [
    "celestial",
    "revelation"
@@ -1529,8 +1529,8 @@
   ],
   "date_conf": "точно",
   "date_basis": "Шака 1407, пхалгуна-пурнима, во время лунного затмения (ЧЧ Ади 13.89–98); Мурари 1.05.16, 20: в полночь полнолуния пхалгуны, во время лунного затмения; Карнапура, «Чайтанья-чандродая» 1.20 (в полнолуние, во время затмения) и заключ. стих 4 (Шака 1407)",
-  "cc": "Ади 13",
-  "cb": "Ади 3",
+  "cc": "Ади 13; Ади 3–4",
+  "cb": "Ади 2.195–234 (сутра — Ади 1.92–96); Ади 1",
   "themes": [
    "revelation",
    "celestial",
@@ -1597,7 +1597,7 @@
   "date_conf": "вероятно",
   "date_basis": "сразу после рождения (Мурари 1.05.23)",
   "cc": "Ади 13",
-  "cb": "",
+  "cb": "Ади 3.9–14",
   "themes": [
    "family",
    "revelation"
@@ -1700,7 +1700,7 @@
   "date_conf": "вероятно",
   "date_basis": "сразу после рождения",
   "cc": "Ади 13",
-  "cb": "Ади 3",
+  "cb": "Ади 3.1–8",
   "themes": [
    "family",
    "festival"
@@ -1810,7 +1810,7 @@
   "period": "P02",
   "order": 20,
   "cc": "Ади 14",
-  "cb": "Ади 4",
+  "cb": "Ади 4.42–62",
   "themes": [
    "festival",
    "family"
@@ -1856,7 +1856,7 @@
   "period": "P02",
   "order": 30,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 4.77–83",
   "themes": [
    "family"
   ],
@@ -1925,8 +1925,8 @@
   "title_en": "The gods worship the infant; anklet bells on bare feet",
   "period": "P02",
   "order": 40,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 14",
+  "cb": "Ади 5.1–15",
   "themes": [
    "celestial",
    "revelation",
@@ -1962,8 +1962,8 @@
   "title_en": "The pilgrim brahmana: the Child eats his offering",
   "period": "P03",
   "order": 5,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 14",
+  "cb": "Ади 5.16–166",
   "themes": [
    "revelation",
    "prasada",
@@ -2001,7 +2001,7 @@
   "period": "P03",
   "order": 10,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 4.30–41",
   "themes": [
    "pranks",
    "family"
@@ -2095,7 +2095,7 @@
   "period": "P03",
   "order": 30,
   "cc": "Ади 14",
-  "cb": "",
+  "cb": "Ади 7.161–203",
   "themes": [
    "teaching",
    "pranks"
@@ -2299,7 +2299,7 @@
   "period": "P03",
   "order": 60,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 6.9–15",
   "themes": [
    "pranks",
    "family"
@@ -2462,7 +2462,7 @@
   "period": "P03",
   "order": 95,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 4.84–99",
   "themes": [
    "kirtan",
    "pranks"
@@ -2530,7 +2530,7 @@
   "order": 10,
   "date_basis": "Мурари 1.07.4–6: Вишварупе 16 лет, отец ищет ему невесту (возраст брата, не Господа)",
   "cc": "Ади 15",
-  "cb": "Ади 7",
+  "cb": "Ади 7.9–33, 67–94",
   "themes": [
    "sannyasa",
    "family",
@@ -2581,8 +2581,8 @@
   "title_en": "Beginning of schooling (hate-khadi)",
   "period": "P04",
   "order": 20,
-  "cc": "Ади 15",
-  "cb": "",
+  "cc": "Ади 15; Ади 14",
+  "cb": "Ади 6.1–8",
   "themes": [
    "learning",
    "festival"
@@ -2620,7 +2620,7 @@
   "period": "P04",
   "order": 25,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 6.3",
   "themes": [
    "festival",
    "family"
@@ -2687,8 +2687,8 @@
   "title_en": "Jagannatha Mishra's dream",
   "period": "P04",
   "order": 35,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 14",
+  "cb": "Ади 8.92–108",
   "themes": [
    "celestial",
    "family",
@@ -2729,7 +2729,7 @@
   "period": "P04",
   "order": 40,
   "cc": "",
-  "cb": "Ади 8",
+  "cb": "Ади 8.7–24",
   "themes": [
    "festival",
    "ecstasy"
@@ -2840,7 +2840,7 @@
   "period": "P04",
   "order": 60,
   "cc": "Ади 15",
-  "cb": "Ади 8",
+  "cb": "Ади 8.109–121",
   "themes": [
    "departure",
    "family",
@@ -2912,7 +2912,7 @@
   "period": "P04",
   "order": 70,
   "cc": "Ади 15",
-  "cb": "Ади 8",
+  "cb": "Ади 8.25–71, 183–207",
   "themes": [
    "learning",
    "pranks"
@@ -3199,8 +3199,8 @@
   "title_en": "First meeting with Lakshmipriya by the Ganga",
   "period": "P05",
   "order": 10,
-  "cc": "",
-  "cb": "Ади 10",
+  "cc": "Ади 14",
+  "cb": "Ади 10.46–51",
   "themes": [
    "family"
   ],
@@ -3243,7 +3243,7 @@
   "period": "P05",
   "order": 15,
   "cc": "Ади 15",
-  "cb": "Ади 10",
+  "cb": "Ади 10.52–77",
   "themes": [
    "family"
   ],
@@ -3286,7 +3286,7 @@
   "period": "P05",
   "order": 25,
   "cc": "Ади 15",
-  "cb": "Ади 10",
+  "cb": "Ади 10.78–131",
   "themes": [
    "family",
    "festival"
@@ -3427,7 +3427,7 @@
   "period": "P05",
   "order": 45,
   "cc": "",
-  "cb": "Ади 11",
+  "cb": "Ади 11.69–127",
   "themes": [
    "learning",
    "ecstasy"
@@ -3460,7 +3460,7 @@
   "period": "P05",
   "order": 50,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 14.5–48",
   "themes": [
    "family",
    "prasada"
@@ -3581,7 +3581,7 @@
   "period": "P05",
   "order": 65,
   "cc": "Ади 16",
-  "cb": "Ади 14",
+  "cb": "Ади 14.49–81, 92–98",
   "themes": [
    "pilgrimage",
    "learning",
@@ -3634,7 +3634,7 @@
   "period": "P05",
   "order": 70,
   "cc": "Ади 16",
-  "cb": "",
+  "cb": "Ади 14.109–155",
   "themes": [
    "mercy",
    "teaching"
@@ -3670,7 +3670,7 @@
   "period": "P05",
   "order": 80,
   "cc": "Ади 16",
-  "cb": "Ади 14",
+  "cb": "Ади 14.99–108",
   "themes": [
    "departure",
    "separation",
@@ -3719,7 +3719,7 @@
   "period": "P05",
   "order": 85,
   "cc": "Ади 16",
-  "cb": "Ади 14",
+  "cb": "Ади 14.156–191",
   "themes": [
    "family",
    "separation",
@@ -3762,7 +3762,7 @@
   "period": "P05",
   "order": 90,
   "cc": "",
-  "cb": "Ади 15",
+  "cb": "Ади 15.38–67",
   "themes": [
    "family",
    "pranks"
@@ -3801,7 +3801,7 @@
   "period": "P05",
   "order": 100,
   "cc": "Ади 16",
-  "cb": "Ади 15",
+  "cb": "Ади 15.68–225",
   "themes": [
    "family",
    "festival"
@@ -3914,7 +3914,7 @@
   "period": "P06",
   "order": 10,
   "cc": "Ади 17",
-  "cb": "Ади 17",
+  "cb": "Ади 17.1–15",
   "themes": [
    "pilgrimage",
    "family"
@@ -3987,7 +3987,7 @@
   "period": "P06",
   "order": 30,
   "cc": "",
-  "cb": "Ади 17",
+  "cb": "Ади 17.16–27",
   "themes": [
    "pilgrimage",
    "teaching",
@@ -4024,7 +4024,7 @@
   "period": "P06",
   "order": 40,
   "cc": "Ади 17",
-  "cb": "Ади 17",
+  "cb": "Ади 17.46–63, 80–112",
   "themes": [
    "ecstasy",
    "pilgrimage"
@@ -4105,7 +4105,7 @@
   "period": "P06",
   "order": 50,
   "cc": "",
-  "cb": "Ади 17",
+  "cb": "Ади 17.28–45, 64–79",
   "themes": [
    "ecstasy",
    "pilgrimage",
@@ -4173,7 +4173,7 @@
   "period": "P06",
   "order": 60,
   "cc": "",
-  "cb": "Ади 17",
+  "cb": "Ади 17.113–140",
   "themes": [
    "celestial",
    "pilgrimage"
@@ -4214,7 +4214,7 @@
   "period": "P07",
   "order": 10,
   "cc": "Ади 17",
-  "cb": "Мадхья 1",
+  "cb": "Мадхья 1.134–186, 322–370",
   "themes": [
    "teaching",
    "learning"
@@ -4287,7 +4287,7 @@
   "period": "P07",
   "order": 15,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 2.1–32; 10.112–165",
   "themes": [
    "revelation",
    "teaching"
@@ -4364,7 +4364,7 @@
   "period": "P07",
   "order": 30,
   "cc": "",
-  "cb": "Мадхья 1",
+  "cb": "Мадхья 1.51–119",
   "themes": [
    "ecstasy"
   ],
@@ -4398,7 +4398,7 @@
   "period": "P07",
   "order": 40,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 2.215–224",
   "themes": [
    "kirtan",
    "ecstasy"
@@ -4524,8 +4524,8 @@
   "title_en": "The Boar mood at Murari's house",
   "period": "P07",
   "order": 60,
-  "cc": "",
-  "cb": "Мадхья 3",
+  "cc": "Ади 17",
+  "cb": "Мадхья 3.18–57",
   "themes": [
    "revelation",
    "teaching"
@@ -4599,7 +4599,7 @@
   "period": "P07",
   "order": 70,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 13.368–385; 14.2–4",
   "themes": [
    "celestial",
    "mercy",
@@ -4633,8 +4633,8 @@
   "title_en": "Mercy to Shuklambara Brahmachari",
   "period": "P07",
   "order": 72,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 10, 17",
+  "cb": "Мадхья 16",
   "themes": [
    "mercy",
    "teaching"
@@ -4821,7 +4821,7 @@
   "period": "P07",
   "order": 80,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 8.77–95",
   "themes": [
    "kirtan",
    "ecstasy"
@@ -5022,8 +5022,8 @@
   "title_en": "The Lord dances in the house of Shrivasa and Shri Rama",
   "period": "P07",
   "order": 88,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 10",
+  "cb": "Мадхья 8.138–228",
   "themes": [
    "kirtan"
   ],
@@ -5060,7 +5060,7 @@
   "title_en": "A blaspheming student: the Lord bathes in the Ganga",
   "period": "P07",
   "order": 90,
-  "cc": "",
+  "cc": "Ади 17",
   "cb": "",
   "themes": [
    "offense",
@@ -5097,7 +5097,7 @@
   "period": "P07",
   "order": 92,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 2.126–158",
   "themes": [
    "kirtan",
    "prasada"
@@ -5276,8 +5276,8 @@
   "title_en": "Murari recites the Ramashtaka and becomes Ramadasa",
   "period": "P07",
   "order": 104,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 17",
+  "cb": "Антья 4",
   "themes": [
    "revelation",
    "mercy"
@@ -5348,8 +5348,8 @@
   "title_en": "Narayani receives the remnants of the Lord's meal",
   "period": "P07",
   "order": 105.5,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 17",
+  "cb": "Мадхья 10.288–298",
   "themes": [
    "prasada",
    "mercy",
@@ -5388,7 +5388,7 @@
   "period": "P07",
   "order": 106,
   "cc": "Ади 17",
-  "cb": "Мадхья 3",
+  "cb": "Мадхья 3.121–190; 4.1–64",
   "themes": [
    "ecstasy",
    "revelation",
@@ -5472,7 +5472,7 @@
   "period": "P07",
   "order": 109,
   "cc": "Ади 17",
-  "cb": "",
+  "cb": "Мадхья 5.79–152",
   "themes": [
    "revelation",
    "krishna-lila"
@@ -5647,7 +5647,7 @@
   "title_en": "Advaita expounds the Yoga-Vasishtha on the superiority of knowledge, and the Lord punishes Him",
   "period": "P07",
   "order": 112.8,
-  "cc": "",
+  "cc": "Ади 12, 17",
   "cb": "Мадхья 19",
   "themes": [
    "teaching",
@@ -5729,7 +5729,7 @@
   "title_en": "The Muslim tailor at Srivasa's house sees the Lord",
   "period": "P07",
   "order": 113.5,
-  "cc": "",
+  "cc": "Ади 17",
   "cb": "",
   "themes": [
    "mercy",
@@ -5800,7 +5800,7 @@
   "period": "P07",
   "order": 115,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 12.1–31",
   "themes": [
    "separation"
   ],
@@ -5906,7 +5906,7 @@
   "period": "P07",
   "order": 117,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 12.32–63",
   "themes": [
    "ecstasy",
    "kirtan"
@@ -6127,7 +6127,7 @@
   "title_en": "The Nrisimha mood at Shrivasa's house",
   "period": "P07",
   "order": 124,
-  "cc": "",
+  "cc": "Ади 17",
   "cb": "",
   "themes": [
    "revelation"
@@ -6162,8 +6162,8 @@
   "title_en": "The singer of Shiva's glories: the Lord in Shiva's mood",
   "period": "P07",
   "order": 125,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 17",
+  "cb": "Мадхья 8.96–105",
   "themes": [
    "ecstasy",
    "revelation",
@@ -6203,8 +6203,8 @@
   "title_en": "The Lord throws Himself into the Ganga",
   "period": "P07",
   "order": 126,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 17",
+  "cb": "Мадхья 17",
   "themes": [
    "separation",
    "teaching"
@@ -6346,7 +6346,7 @@
   "period": "P07",
   "order": 129,
   "cc": "Ади 17",
-  "cb": "",
+  "cb": "Антья 4",
   "themes": [
    "offense",
    "mercy"
@@ -6428,8 +6428,8 @@
   "title_en": "The mood of Balarama: \"Bring Me honey!\"",
   "period": "P07",
   "order": 131,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 17",
+  "cb": "Мадхья 26",
   "themes": [
    "revelation",
    "ecstasy"
@@ -6473,7 +6473,7 @@
   "title_en": "The Lord asks for His flute",
   "period": "P07",
   "order": 133,
-  "cc": "",
+  "cc": "Ади 17",
   "cb": "",
   "themes": [
    "revelation",
@@ -6569,7 +6569,7 @@
   "title_en": "The drama at Chandrashekhara's house",
   "period": "P07",
   "order": 135,
-  "cc": "",
+  "cc": "Ади 10, 17",
   "cb": "Мадхья 18",
   "themes": [
    "krishna-lila",
@@ -6892,7 +6892,7 @@
   "title_en": "Keshava Bharati in Navadvipa; the decision to take sannyasa",
   "period": "P07",
   "order": 141,
-  "cc": "",
+  "cc": "Ади 17",
   "cb": "",
   "themes": [
    "sannyasa",
@@ -6929,7 +6929,7 @@
   "period": "P07",
   "order": 142,
   "cc": "",
-  "cb": "Мадхья 26",
+  "cb": "Мадхья 26; Мадхья 27",
   "themes": [
    "sannyasa",
    "separation",
@@ -6978,7 +6978,7 @@
   "period": "P07",
   "order": 144,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 27",
   "themes": [
    "separation",
    "family",
@@ -7201,7 +7201,7 @@
   "period": "P08",
   "order": 20,
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 28",
   "themes": [
    "separation",
    "family"
@@ -7437,7 +7437,7 @@
   "period": "P09",
   "order": 20,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 1",
   "themes": [
    "separation"
   ],
@@ -7475,7 +7475,7 @@
   "period": "P09",
   "order": 30,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 1",
   "themes": [
    "separation",
    "family"
@@ -7666,7 +7666,7 @@
   "period": "P09",
   "order": 55,
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1; Антья 2",
   "themes": [
    "separation",
    "teaching",
@@ -7872,7 +7872,7 @@
   "title_en": "The journey to Nilachala",
   "period": "P09",
   "order": 70,
-  "cc": "",
+  "cc": "Мадхья 3",
   "cb": "Антья 2",
   "themes": [
    "pilgrimage",
@@ -8001,7 +8001,7 @@
   "period": "P09",
   "order": 80,
   "cc": "Мадхья 4",
-  "cb": "",
+  "cb": "Антья 2",
   "themes": [
    "deities",
    "pilgrimage",
@@ -8048,8 +8048,8 @@
   "title_en": "Vaitarani, Jajpur and the goddess Viraja",
   "period": "P09",
   "order": 82,
-  "cc": "",
-  "cb": "",
+  "cc": "Мадхья 5",
+  "cb": "Антья 2",
   "themes": [
    "pilgrimage",
    "deities"
@@ -8121,7 +8121,7 @@
   "period": "P09",
   "order": 85,
   "cc": "Мадхья 5",
-  "cb": "",
+  "cb": "Антья 2",
   "themes": [
    "deities",
    "pilgrimage"
@@ -8210,7 +8210,7 @@
   "period": "P09",
   "order": 90,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 2",
   "themes": [
    "jagannatha",
    "ecstasy",
@@ -8251,7 +8251,7 @@
   "period": "P10",
   "order": 5,
   "cc": "Мадхья 6",
-  "cb": "Антья 3",
+  "cb": "Антья 3; Антья 2",
   "themes": [
    "jagannatha",
    "prasada",
@@ -8648,7 +8648,7 @@
   "title_en": "The people and pandits of the South become Vaishnavas on seeing the Lord",
   "period": "P11",
   "order": 25,
-  "cc": "",
+  "cc": "Ади 7; Мадхья 7, 9",
   "cb": "",
   "themes": [
    "mercy",
@@ -8974,7 +8974,7 @@
   "title_en": "Tripadi (Tirupati): the Deity of Rama and the disputant Mathura of the Ramats",
   "period": "P11",
   "order": 38,
-  "cc": "",
+  "cc": "Мадхья 9",
   "cb": "",
   "themes": [
    "deities",
@@ -9039,7 +9039,7 @@
   "title_en": "Panchavati: the Lord in Rama's mood",
   "period": "P11",
   "order": 40,
-  "cc": "",
+  "cc": "Мадхья 9",
   "cb": "",
   "themes": [
    "pilgrimage",
@@ -10580,7 +10580,7 @@
   "period": "P12",
   "order": 20,
   "cc": "Мадхья 11",
-  "cb": "",
+  "cb": "Антья 8",
   "themes": [
    "kirtan",
    "jagannatha",
@@ -10635,8 +10635,8 @@
   "period": "P12",
   "order": 30,
   "calendar": "Чандана-ятра",
-  "cc": "",
-  "cb": "",
+  "cc": "Антья 10",
+  "cb": "Антья 8",
   "themes": [
    "festival",
    "jagannatha",
@@ -10675,7 +10675,7 @@
   "period": "P12",
   "order": 40,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 9",
   "themes": [
    "kirtan",
    "revelation"
@@ -10707,7 +10707,7 @@
   "period": "P12",
   "order": 50,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 9",
   "themes": [
    "family",
    "separation"
@@ -10821,7 +10821,7 @@
   "title_en": "Gopala, Advaita's son, faints in kirtan and the Lord revives him",
   "period": "P12",
   "order": 66,
-  "cc": "Ади 12",
+  "cc": "Ади 12; Мадхья 12",
   "cb": "",
   "themes": [
    "kirtan",
@@ -10855,7 +10855,7 @@
   "period": "P12",
   "order": 70,
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
-  "cc": "Мадхья 13–14",
+  "cc": "Мадхья 13–14; Мадхья 16",
   "cb": "",
   "themes": [
    "festival",
@@ -11003,7 +11003,7 @@
   "title_en": "Vasudeva Datta's prayer to take upon himself the sins of all beings",
   "period": "P12",
   "order": 88,
-  "cc": "Мадхья 15",
+  "cc": "Мадхья 15; Ади 10",
   "cb": "",
   "themes": [
    "mercy"
@@ -11038,8 +11038,8 @@
   "title_en": "The Lord sends Nityananda to preach in Gauda",
   "period": "P12",
   "order": 90,
-  "cc": "Мадхья 15",
-  "cb": "",
+  "cc": "Мадхья 15; Ади 7, 10–11",
+  "cb": "Антья 5",
   "themes": [
    "mercy",
    "teaching"
@@ -11128,7 +11128,7 @@
   "period": "P12",
   "order": 110,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 5–6",
   "themes": [
    "kirtan",
    "mercy"
@@ -11188,7 +11188,7 @@
   "period": "P12",
   "order": 115,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "kirtan",
    "mercy"
@@ -11228,7 +11228,7 @@
   "period": "P12",
   "order": 120,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "family",
    "revelation",
@@ -11263,7 +11263,7 @@
   "period": "P12",
   "order": 125,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "mercy"
   ],
@@ -11293,7 +11293,7 @@
   "title_en": "The birth of Vrindavana Dasa to Narayani",
   "period": "P12",
   "order": 130,
-  "cc": "",
+  "cc": "Ади 8",
   "cb": "",
   "themes": [
    "family"
@@ -11325,7 +11325,7 @@
   "period": "P12",
   "order": 300,
   "cc": "Мадхья 11–14",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "mercy",
    "jagannatha",
@@ -11545,7 +11545,7 @@
   "title_en": "Mercy to Devananda Pandita",
   "period": "P13",
   "order": 9,
-  "cc": "Мадхья 1",
+  "cc": "Мадхья 1; Ади 10",
   "cb": "Антья 3",
   "themes": [
    "mercy",
@@ -11582,7 +11582,7 @@
   "period": "P13",
   "order": 12,
   "cc": "Мадхья 1",
-  "cb": "",
+  "cb": "Антья 4",
   "themes": [
    "mercy",
    "pilgrimage"
@@ -11669,7 +11669,7 @@
   "period": "P13",
   "order": 15,
   "cc": "Мадхья 16",
-  "cb": "",
+  "cb": "Антья 4",
   "themes": [
    "family",
    "kirtan",
@@ -11750,7 +11750,7 @@
   "period": "P13",
   "order": 18,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 7",
   "themes": [
    "prasada",
    "deities",
@@ -11862,7 +11862,7 @@
   "title_en": "Kashi: Tapana Mishra and Chandrashekhara",
   "period": "P13",
   "order": 35,
-  "cc": "Мадхья 17",
+  "cc": "Мадхья 17; Ади 7, 10; Мадхья 19",
   "cb": "",
   "themes": [
    "mercy",
@@ -12007,7 +12007,7 @@
   "title_en": "Meeting with Rupa Gosvami at Prayaga",
   "period": "P13",
   "order": 182,
-  "cc": "Мадхья 19",
+  "cc": "Мадхья 19; Ади 7",
   "cb": "",
   "themes": [
    "mercy",
@@ -12131,7 +12131,7 @@
   "title_en": "The Lord visits the holy places of Mathura",
   "period": "P13",
   "order": 70,
-  "cc": "",
+  "cc": "Мадхья 17",
   "cb": "",
   "themes": [
    "pilgrimage",
@@ -12374,7 +12374,7 @@
   "title_en": "Instruction to Sanatana Gosvami in Kashi",
   "period": "P13",
   "order": 185,
-  "cc": "Мадхья 20",
+  "cc": "Мадхья 20; Ади 7; Мадхья 23–24",
   "cb": "",
   "themes": [
    "teaching",
@@ -12827,7 +12827,7 @@
   "title_en": "The Lord's mercy to Shivananda's little son, the future Kavi Karnapura",
   "period": "P14",
   "order": 15,
-  "cc": "Антья 16",
+  "cc": "Антья 16; Антья 12",
   "cb": "",
   "themes": [
    "mercy",
@@ -12989,7 +12989,7 @@
   "title_en": "The departure of Haridasa Thakura",
   "period": "P14",
   "order": 60,
-  "cc": "Антья 11",
+  "cc": "Антья 11; Ади 10",
   "cb": "",
   "themes": [
    "departure",
@@ -13381,7 +13381,7 @@
   "title_en": "The Lord's divine madness in Radha's mood (the last years in Puri)",
   "period": "P14",
   "order": 100,
-  "cc": "Антья 14–18",
+  "cc": "Антья 14–18; Ади 4, 13; Мадхья 2; Антья 6, 9, 11–12, 19",
   "cb": "",
   "themes": [
    "ecstasy",
@@ -13494,7 +13494,7 @@
   "period": "P14",
   "order": 110,
   "cc": "",
-  "cb": "",
+  "cb": "Антья 7",
   "themes": [
    "kirtan",
    "teaching"
@@ -13659,7 +13659,7 @@
   "period": "P13",
   "order": 7,
   "cc": "Мадхья 16",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "pilgrimage",
    "mercy"
@@ -13698,7 +13698,7 @@
   "period": "P13",
   "order": 11,
   "cc": "Мадхья 1",
-  "cb": "",
+  "cb": "Антья 4",
   "themes": [
    "muslims"
   ],
@@ -13733,7 +13733,7 @@
   "title_en": "The Lord and the sannyasis of Varanasi",
   "period": "P13",
   "order": 187,
-  "cc": "Мадхья 25",
+  "cc": "Мадхья 25; Ади 7",
   "cb": "",
   "themes": [
    "sannyasa",
@@ -13779,8 +13779,8 @@
   "title_en": "Young Achyutananda disputes with Advaita: Keshava Bharati is not Chaitanya's guru",
   "period": "P13",
   "order": 211,
-  "cc": "",
-  "cb": "",
+  "cc": "Ади 12",
+  "cb": "Антья 4",
   "themes": [
    "teaching"
   ],
@@ -13871,7 +13871,7 @@
   "title_en": "The Lord's return from Vrindavana to Puri",
   "period": "P13",
   "order": 215,
-  "cc": "Мадхья 25",
+  "cc": "Мадхья 25; Ади 7",
   "cb": "",
   "themes": [
    "pilgrimage",
@@ -13907,7 +13907,7 @@
   "title_en": "The yearly pilgrimage of the Gauda devotees to the Lord in Puri",
   "period": "P14",
   "order": 5,
-  "cc": "",
+  "cc": "Ади 10; Антья 10",
   "cb": "",
   "themes": [
    "jagannatha",
@@ -14018,7 +14018,7 @@
   "title_en": "The Lord \"enters\" Nakula Brahmachari; Shivananda's test",
   "period": "P14",
   "order": 20,
-  "cc": "Антья 2",
+  "cc": "Антья 2; Ади 10",
   "cb": "",
   "themes": [
    "revelation",
@@ -14086,7 +14086,7 @@
   "title_en": "Raghunatha Dasa comes to the Lord in Puri",
   "period": "P14",
   "order": 30,
-  "cc": "Антья 6",
+  "cc": "Антья 6; Ади 10",
   "cb": "",
   "themes": [
    "sannyasa",
@@ -17443,8 +17443,8 @@
   "title_en": "The truth about Nityananda and Advaita",
   "period": "PX",
   "order": 4,
-  "cc": "Ади 5–6",
-  "cb": "",
+  "cc": "Ади 5–6; Ади 1",
+  "cb": "Ади 1.11–82",
   "themes": [
    "teaching"
   ],
@@ -17504,7 +17504,7 @@
   "title_en": "Kinds of avataras: yuga-avataras and avataras for a special purpose",
   "period": "PX",
   "order": 6,
-  "cc": "Мадхья 20",
+  "cc": "Мадхья 20; Ади 1",
   "cb": "",
   "themes": [
    "teaching"
@@ -17526,7 +17526,7 @@
   "period": "PX",
   "order": 7,
   "cc": "Ади 3",
-  "cb": "",
+  "cb": "Ади 2.7–27",
   "themes": [
    "teaching"
   ],
@@ -17555,7 +17555,7 @@
   "title_en": "The holy name, the dharma of the age of Kali",
   "period": "PX",
   "order": 8,
-  "cc": "",
+  "cc": "Ади 3",
   "cb": "",
   "themes": [
    "teaching"
@@ -17888,7 +17888,7 @@
   "date_conf": "оценка",
   "date_basis": "Маджумдар: пада очевидца Васу Гхоша (БР, с. 937; ПК 1108), 1509 г.",
   "cc": "",
-  "cb": "",
+  "cb": "Мадхья 13.328–367",
   "themes": [
    "krishna-lila",
    "ecstasy"
@@ -18127,7 +18127,7 @@
   "order": 120,
   "date_conf": "оценка",
   "date_basis": "ЧЧ Антья 12 (поездки Джагадананды в Навадвипу по поручению Господа)",
-  "cc": "Антья 12",
+  "cc": "Антья 12; Антья 19",
   "cb": "",
   "themes": [
    "separation",
@@ -18162,7 +18162,7 @@
   "title_en": "The Lord's sankirtana with His companions in Nilachala",
   "period": "P12",
   "order": 6,
-  "cc": "Мадхья 11, 13",
+  "cc": "Мадхья 11, 13; Мадхья 12",
   "cb": "",
   "themes": [
    "kirtan",
@@ -18204,7 +18204,7 @@
   "title_en": "Darshan of Jagannatha in the mood of a gopi",
   "period": "P14",
   "order": 99.8,
-  "cc": "Антья 14",
+  "cc": "Антья 14; Антья 15",
   "cb": "",
   "themes": [
    "jagannatha",
@@ -18546,7 +18546,7 @@
   "title_en": "The writings of Sri Jiva Gosvami in Vrindavana",
   "period": "P15",
   "order": 120,
-  "cc": "Ади 10.85",
+  "cc": "Ади 10.85; Антья 4",
   "cb": "",
   "themes": [
    "teaching",
@@ -18802,8 +18802,8 @@
   "title_en": "The Infant cries and is stilled on hearing the name of Hari",
   "period": "P02",
   "order": 12,
-  "cc": "Ади 14",
-  "cb": "Ади 4",
+  "cc": "Ади 14; Ади 13",
+  "cb": "Ади 4.3–9, 23–29",
   "themes": [
    "kirtan",
    "family"
@@ -18844,7 +18844,7 @@
   "period": "P02",
   "order": 32,
   "cc": "",
-  "cb": "Ади 4",
+  "cb": "Ади 4.63–76",
   "themes": [
    "revelation",
    "family"
@@ -18878,8 +18878,8 @@
   "title_en": "Footprints with the marks of flag and vajra in Mishra's house",
   "period": "P02",
   "order": 36,
-  "cc": "",
-  "cb": "Ади 4",
+  "cc": "Ади 14",
+  "cb": "Ади 5.1–15",
   "themes": [
    "revelation",
    "family"
@@ -18917,8 +18917,8 @@
   "title_en": "Thieves carry Nimai off for His ornaments and, bewildered, bring Him back home",
   "period": "P03",
   "order": 3,
-  "cc": "",
-  "cb": "Ади 4",
+  "cc": "Ади 14",
+  "cb": "Ади 4.108–143",
   "themes": [
    "pranks",
    "revelation"
@@ -19026,7 +19026,7 @@
   "period": "P03",
   "order": 15,
   "cc": "Ади 14",
-  "cb": "Ади 6",
+  "cb": "Ади 4.100–107; 6; 7.1–8",
   "themes": [
    "pranks",
    "family"
@@ -19067,7 +19067,7 @@
   "period": "P04",
   "order": 22,
   "cc": "Ади 14",
-  "cb": "Ади 6",
+  "cb": "Ади 6.42–139",
   "themes": [
    "pranks",
    "family"
@@ -19101,8 +19101,8 @@
   "title_en": "Nimai Pandita teaches in Navadvipa; Lakshmipriya serves Shachi",
   "period": "P05",
   "order": 28,
-  "cc": "Ади 16",
-  "cb": "",
+  "cc": "Ади 16; Ади 17",
+  "cb": "Ади 10.38–45; 11.1–17; 12.29–66, 88–107, 232–287; Ади 13, 15",
   "themes": [
    "learning",
    "family"
@@ -19251,7 +19251,7 @@
   "period": "P05",
   "order": 29,
   "cc": "",
-  "cb": "",
+  "cb": "Ади 12.108–152",
   "themes": [
    "mercy",
    "learning"
@@ -19945,7 +19945,7 @@
   "period": "P05",
   "order": 62,
   "cc": "Ади 16",
-  "cb": "Ади 13",
+  "cb": "Ади 13.19–209",
   "themes": [
    "learning",
    "mercy",
@@ -20180,6 +20180,7 @@
   "order": 11.5,
   "date_conf": "оценка",
   "date_basis": "после ухода Господа, при жизни Нитьянанды (БР 1; подробнее БР 12)",
+  "cc": "Антья 4",
   "themes": [
    "mercy",
    "pilgrimage"
@@ -20241,6 +20242,7 @@
   "period": "P14",
   "order": 17.5,
   "date_conf": "оценка",
+  "cc": "Ади 10",
   "themes": [
    "pilgrimage"
   ],
@@ -20894,7 +20896,7 @@
    1510,
    1510
   ],
-  "cb": "Антья 3.228–231",
+  "cb": "Антья 3.228–231; Антья 10",
   "themes": [
    "teaching",
    "ecstasy"
@@ -21754,7 +21756,7 @@
   "title_en": "Nityananda lives at Shrivasa's house like a child; Malini feeds Him as her son",
   "period": "P07",
   "order": 109.7,
-  "cb": "Мадхья 7.7–8",
+  "cb": "Мадхья 7.7–8; Мадхья 11",
   "themes": [
    "family",
    "ecstasy"
@@ -22706,7 +22708,7 @@
   "period": "P04",
   "order": 8,
   "cc": "",
-  "cb": "Ади 7.34–66; 7.103–112",
+  "cb": "Ади 7.34–66; 7.103–112; Мадхья 22",
   "themes": [
    "revelation",
    "kirtan",
@@ -22883,7 +22885,7 @@
    1508
   ],
   "cc": "",
-  "cb": "Ади 9.100–153; 9.194–237",
+  "cb": "Ади 9.100–153; 9.194–237; Мадхья 3.107–120",
   "themes": [
    "pilgrimage",
    "ecstasy"
@@ -24565,7 +24567,7 @@
   "period": "P12",
   "order": 17,
   "cc": "Мадхья 10",
-  "cb": "",
+  "cb": "Антья 8",
   "themes": [
    "pilgrimage",
    "separation"
@@ -24596,7 +24598,7 @@
   "title_en": "The Lord refuses to see King Prataparudra; the king's grief and Sarvabhauma's counsel",
   "period": "P12",
   "order": 8.4,
-  "cc": "Мадхья 11",
+  "cc": "Мадхья 11; Мадхья 12",
   "cb": "",
   "themes": [
    "sannyasa",
@@ -24969,7 +24971,7 @@
   "title_en": "Satyaraja Khan's questions: the path of a householder and the marks of a Vaishnava",
   "period": "P12",
   "order": 95.5,
-  "cc": "Мадхья 15",
+  "cc": "Мадхья 15; Мадхья 16",
   "cb": "",
   "themes": [
    "teaching"
@@ -25127,7 +25129,7 @@
   "order": 143,
   "calendar": "Одана-шаштхи",
   "cc": "Мадхья 16",
-  "cb": "",
+  "cb": "Антья 10",
   "themes": [
    "offense",
    "jagannatha",
@@ -25750,7 +25752,7 @@
   "title_en": "Pancha-tattva: Krishna in five forms",
   "period": "PX",
   "order": 102,
-  "cc": "Ади 1.14; 1.28",
+  "cc": "Ади 1.14; 1.28; Ади 3, 7",
   "cb": "",
   "themes": [
    "teaching"
@@ -26107,7 +26109,7 @@
   "title_en": "The gopis' prema is pure love, not kama; Radha is the best of the gopis",
   "period": "PX",
   "order": 116,
-  "cc": "Ади 4.159–219",
+  "cc": "Ади 4.159–219; Ади 17",
   "cb": "",
   "themes": [
    "teaching",
@@ -26288,7 +26290,7 @@
   "title_en": "The bhakti Krishna keeps hidden, Sri Chaitanya gives to all without discrimination",
   "period": "PX",
   "order": 122,
-  "cc": "Ади 8.16–21",
+  "cc": "Ади 8.16–21; Мадхья 2",
   "cb": "",
   "themes": [
    "teaching",
@@ -26370,7 +26372,7 @@
   "title_en": "The wish-fulfilling tree of bhakti: Sri Chaitanya is the gardener and the trunk, His associates the roots and branches, prema the fruit",
   "period": "PX",
   "order": 124,
-  "cc": "Ади 9.6–54",
+  "cc": "Ади 9.6–54; Ади 10–12",
   "cb": "",
   "themes": [
    "teaching",
@@ -26421,8 +26423,8 @@
   "title_en": "Shridhara Kholavecha: the Lord jokes with him, takes his banana stems, flowers and fruits, and drinks from his broken iron pot",
   "period": "P07",
   "order": 123,
-  "cc": "Ади 10.67–68",
-  "cb": "",
+  "cc": "Ади 10.67–68; Ади 17",
+  "cb": "Ади 12.178–213; Мадхья 9.135–248; Мадхья 23",
   "themes": [
    "pranks",
    "mercy",
@@ -26459,7 +26461,7 @@
   "period": "P03",
   "order": 81,
   "cc": "Ади 10.70–71; Ади 14",
-  "cb": "",
+  "cb": "Ади 6.16–41",
   "themes": [
    "pranks",
    "prasada",
@@ -26468,7 +26470,7 @@
   "bhava": [
    "child"
   ],
-  "notes": "В ЧЧ Ади 10 — упоминание: Джагадиша Пандит и Хиранья Махашая, которым Господь явил милость в детстве; в их домах в день экадаши Он выпросил наиведью Вишну и съел её Сам. Подробно — ЧЧ Ади 14.",
+  "notes": "В ЧЧ Ади 10 — упоминание: Джагадиша Пандит и Хиранья Махашая, которым Господь явил милость в детстве; в их домах в день экадаши Он выпросил наиведью Вишну и съел её Сам. Подробно — ЧЧ Ади 14. ЧБ Ади 6.16–41 — подробно; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» Девакинанданы (ч. 4, 106–107).",
   "years": [
    1487,
    1491
@@ -26480,13 +26482,15 @@
    5
   ],
   "entries": [
+   "vv-0064",
    "cb-0047",
    "cc-0130",
    "cc-0208"
   ],
   "sources": [
    "cb",
-   "cc"
+   "cc",
+   "vaishnava-vandana"
   ]
  },
  {
@@ -26597,7 +26601,7 @@
   "order": 95,
   "date_conf": "оценка",
   "date_basis": "в ЧЧ Ади 10 время не названо; отнесено к годам приходов жителей Кулинаграмы в Пури (ср. ЧЧ Мадхья 15–16)",
-  "cc": "Ади 10.80–83",
+  "cc": "Ади 10.80–83; Мадхья 15",
   "cb": "",
   "themes": [
    "mercy",
@@ -26669,7 +26673,7 @@
   "date_conf": "оценка",
   "date_basis": "в ЧЧ время не названо; по «Анубхашье» к Ади 10.53 и ЧБ Антья 5 — в годы проповеди Нитьянанды в Гауде",
   "cc": "Ади 11.17–18",
-  "cb": "Антья-кханда, гл. 5",
+  "cb": "Антья 5.371–394",
   "themes": [
    "kirtan",
    "krishna-lila",
@@ -26809,7 +26813,7 @@
   "date_conf": "оценка",
   "date_basis": "ЧЧ Ади 17.7 (сутра, до Гаи); «Анубхашья» отсылает к ЧБ Ади 12",
   "cc": "Ади 17.7",
-  "cb": "Ади 12",
+  "cb": "Ади 12.67–87",
   "themes": [
    "ecstasy"
   ],
@@ -27043,7 +27047,7 @@
   "title_en": "Krishna resolves to appear in Radha's form to taste Her love",
   "period": "P00",
   "order": 7,
-  "cc": "Ади 1.6; Ади 4",
+  "cc": "Ади 1.6; Ади 4; Мадхья 2",
   "cb": "",
   "themes": [
    "revelation",
@@ -27074,7 +27078,7 @@
   "period": "P02",
   "order": 4.5,
   "cc": "Ади 13",
-  "cb": "",
+  "cb": "Ади 3.32–42",
   "themes": [
    "celestial",
    "family"
@@ -27141,7 +27145,7 @@
   "period": "P03",
   "order": 40,
   "cc": "Ади 14",
-  "cb": "Ади 6",
+  "cb": "ср. Ади 6.72–85",
   "themes": [
    "pranks",
    "revelation"
@@ -27205,7 +27209,7 @@
   "period": "P07",
   "order": 101,
   "cc": "Ади 17",
-  "cb": "",
+  "cb": "Мадхья 6.73–103; Мадхья 24",
   "themes": [
    "revelation"
   ],
@@ -27314,7 +27318,7 @@
   "period": "P07",
   "order": 85,
   "cc": "Ади 17",
-  "cb": "",
+  "cb": "Ади 12.153–177",
   "themes": [
    "revelation"
   ],
@@ -27380,8 +27384,8 @@
   "title_en": "The students offend the Lord: the resolve to take sannyasa to save them",
   "period": "P07",
   "order": 139,
-  "cc": "Ади 17",
-  "cb": "",
+  "cc": "Ади 17; Ади 7–8",
+  "cb": "Мадхья 26",
   "themes": [
    "sannyasa",
    "offense",
@@ -27803,7 +27807,7 @@
   "title_en": "Bhavananda Raya and his sons with the Lord: \"You are Pandu\"",
   "period": "P12",
   "order": 3,
-  "cc": "Мадхья 10",
+  "cc": "Мадхья 10; Ади 10",
   "cb": "",
   "themes": [
    "mercy",
@@ -27868,7 +27872,7 @@
   "title_en": "Govinda, Ishvara Puri's servant, comes to the Lord",
   "period": "P12",
   "order": 9,
-  "cc": "Мадхья 10",
+  "cc": "Мадхья 10; Ади 10",
   "cb": "",
   "themes": [
    "family"
@@ -27901,7 +27905,7 @@
   "period": "P12",
   "order": 9.5,
   "cc": "Мадхья 10",
-  "cb": "",
+  "cb": "Антья 3",
   "themes": [
    "family"
   ],
@@ -28064,7 +28068,7 @@
   "title_en": "Chaturmasya in Puri: the devotees invite the Lord in turn",
   "period": "P12",
   "order": 78,
-  "cc": "Мадхья 15",
+  "cc": "Мадхья 15; Мадхья 14",
   "cb": "",
   "themes": [
    "prasada",
@@ -28468,7 +28472,7 @@
   "title_en": "Rupa and Anupama in Vrindavana with Subuddhi Raya",
   "period": "P13",
   "order": 184,
-  "cc": "Мадхья 19; Антья 1",
+  "cc": "Мадхья 19; Антья 1; Мадхья 25",
   "cb": "",
   "themes": [
    "pilgrimage"
@@ -28565,7 +28569,7 @@
   "title_en": "Rupa goes to Gauda; the passing of Anupama",
   "period": "P14",
   "order": 9,
-  "cc": "Антья 1",
+  "cc": "Антья 1; Мадхья 25",
   "cb": "",
   "themes": [
    "departure"
@@ -28597,7 +28601,7 @@
   "title_en": "The Lord sends Damodara Pandita to Navadvipa to Shachi",
   "period": "P14",
   "order": 15,
-  "cc": "Антья 3",
+  "cc": "Антья 3; Ади 10",
   "cb": "",
   "themes": [
    "family"
@@ -28727,7 +28731,7 @@
   "title_en": "Jagadananda breaks the jar of sandalwood oil",
   "period": "P14",
   "order": 70,
-  "cc": "Антья 12",
+  "cc": "Антья 12; Ади 10",
   "cb": "",
   "themes": [
    "sannyasa",
@@ -28798,7 +28802,7 @@
   "title_en": "Raghunatha Bhatta with the Lord in Puri; sent to Vrindavana",
   "period": "P14",
   "order": 75,
-  "cc": "Антья 13",
+  "cc": "Антья 13; Ади 10",
   "cb": "",
   "themes": [
    "mercy",
@@ -29259,7 +29263,7 @@
   "title_en": "\"Where is Krishna? Show Him to Me!\" — the Lord and the temple doorkeeper",
   "period": "P14",
   "order": 100.7,
-  "cc": "",
+  "cc": "Антья 16",
   "cb": "",
   "themes": [
    "ecstasy",
@@ -31965,7 +31969,7 @@
   "period": "P12",
   "order": 112.7,
   "cc": "Ади 11",
-  "cb": "",
+  "cb": "Антья 5",
   "themes": [
    "revelation"
   ],
@@ -32058,36 +32062,6 @@
    "vv-0031",
    "vv-0056",
    "vv-0080"
-  ],
-  "sources": [
-   "vaishnava-vandana"
-  ]
- },
- {
-  "id": "ev-hiranya-jagadisha-ekadashi-naivedya",
-  "title": "Младенец Нимай в экадаши ест угощение для Вишну в домах Джагадиши и Хираньи",
-  "title_en": "The infant Nimai eats the Ekadashi offering for Vishnu in the houses of Jagadisha and Hiranya",
-  "period": "P03",
-  "order": 6.5,
-  "cc": "",
-  "cb": "Ади 6",
-  "themes": [
-   "pranks",
-   "prasada"
-  ],
-  "notes": "ЧБ Ади 6; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» (ч. 4, 106–107).",
-  "years": [
-   1487,
-   1491
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   1,
-   5
-  ],
-  "entries": [
-   "vv-0064"
   ],
   "sources": [
    "vaishnava-vandana"

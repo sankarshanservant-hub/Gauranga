@@ -642,10 +642,6 @@
 - murari-kcc (A): Пракрама 1, сарга 6, шлока 8 — [8–8](../murari-gupta/ru/1.06.md?plain=1#L19-L19) · `mkc-0022`
 - cb (A): Ади 5, 120–166 — [120–166](../chaitanya-bhagavata/ed/CB_Adi05.md?plain=1#L600-L806) · `cb-0043`
 
-## Младенец Нимай в экадаши ест угощение для Вишну в домах Джагадиши и Хираньи / The infant Nimai eats the Ekadashi offering for Vishnu in the houses of Jagadisha and Hiranya  `ev-hiranya-jagadisha-ekadashi-naivedya` (1487–1491, возраст 1–5, оценка)
-
-- vaishnava-vandana (B): «Первая вандана», 106–107 — [106–107](../vaishnava-vandana/ru/04.md?plain=1#L350-L353) · `vv-0064`
-
 ## Детские шалости: игры в пыли и разбитые горшки / Childhood pranks: playing in the dust and the broken pots  `ev-child-dust-broken-pots` (1487–1491, возраст 1–5, оценка)
 
 - cb (A): Ади 4, 30–41 — [30–31–41](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L159-L209) · `cb-0034`
@@ -733,6 +729,7 @@
 
 ## В экадаши Господь-ребёнок просит подношение Вишну в домах Джагадиши и Хираньи / On Ekadashi the child Lord asks for the offering to Vishnu in the houses of Jagadisha and Hiranya  `ev-jagadisha-hiranya-ekadashi` (1487–1491, возраст 1–5, оценка)
 
+- vaishnava-vandana (B): «Первая вандана», 106–107 — [106–107](../vaishnava-vandana/ru/04.md?plain=1#L350-L353) · `vv-0064`
 - cb (A): Ади 6, 16–41 — [16–41](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L84-L203) · `cb-0047`
 - cc (A): Ади 10.69–71 — [69–71](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L703-L723) · `cc-0130`
 - cc (A): Ади 14.39 — [39–39](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L407-L407) · `cc-0208`

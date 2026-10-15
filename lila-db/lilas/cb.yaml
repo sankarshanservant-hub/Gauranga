@@ -914,7 +914,7 @@
   authority: A
   parallels: "ЧЧ Ади 10.69–71; ЧЧ Ади 14.39"
   divergence: "По ЧЧ Ади 14.39 Господь получил подношение «под предлогом болезни»; в ЧБ — плачем, указав, что сегодня экадаши и что у брахманов готова наиведья."
-  notes: "Ст. 34–36: понять Господа и служить Ему можно лишь по Его милости. Дублирующее событие той же лилы — ev-hiranya-jagadisha-ekadashi-naivedya (events-vaishnava-vandana.yaml); см. review/cb-fields.md."
+  notes: "Ст. 34–36: понять Господа и служить Ему можно лишь по Его милости. Дублирующее событие той же лилы — ev-jagadisha-hiranya-ekadashi (events-vaishnava-vandana.yaml); см. review/cb-fields.md."
   themes: [prasada, pranks, festival]
   bhava: [child, krishna]
   calendar: "экадаши"
