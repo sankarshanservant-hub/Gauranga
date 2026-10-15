@@ -872,3 +872,118 @@
   event: ev-advaita-comes-to-navadvipa
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya06.md", from: "164", to: "179"}
+
+# ---------- Мадхья 7. Приход Пундарики Видьянидхи; посвящение Гададхары ----------
+
+- id: cb-1046
+  source: cb
+  ref: "Мадхья 7, 1–8"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 109.7
+  title: "Мангала; Нитьянанда у Шривасы, Малини кормит Его"
+  summary: "Слава танцу Господа Чайтаньи и Его спутникам — Джагадананде, Шригарбхе, Пундарике, Джагадише и Гопинатхе; преданные во главе с Адвайтой пляшут и поют, а Нитьянанда живёт в доме Шривасы, как дитя, и, не желая есть рис Сам, ест из рук Малини, как её сын."
+  persons: ["@vrindavana-dasa", "@nityananda", "@malini", "@srivasa", "@advaita", "@jagadananda-pandita", "@shrigarbha", "@pundarika-vidyanidhi"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [family, kirtan]
+  bhava: [child]
+  event: ev-nityananda-child-malini
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "1", to: "8"}
+
+- id: cb-1047
+  source: cb
+  ref: "Мадхья 7, 9–35"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 72.5
+  title: "«О отец Мой, Пундарика!» — Господь рассказывает о Видьянидхи"
+  summary: "Пундарика родился по воле Господа в Чаттаграме, чтобы прославить восточные земли; после пляски Господь плачет: «О отец Мой, Пундарика! Когда Я увижу тебя?»; преданные не знают, кто это, и Господь рассказывает: внешне он мирянин, учёный брахман, но всегда в океане премы; он не входит в Гангу, боясь коснуться её ногами, и приходит к ней лишь ночью, скорбя о непочтении людей к ней, и пьёт её воду перед пуджей; у него есть дом в Майяпуре, он скоро придёт, но никто его не узнает."
+  persons: ["@mahaprabhu", "@pundarika-vidyanidhi"]
+  places: ["#navadvipa", "#chattagrama", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [separation, teaching]
+  teaching: [vaishnava, purity]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "9", to: "35"}
+
+- id: cb-1048
+  source: cb
+  ref: "Мадхья 7, 36–70"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 72.6
+  title: "Видьянидхи тайно живёт в Навадвипе; Гададхара видит роскошь и сомневается"
+  summary: "Пундарика приезжает со слугами, брахманами и учениками и живёт скрытно; узнаёт его лишь Мукунда, земляк из Чаттаграма (и Васудева Датта); Мукунда ведёт к нему Гададхару, сына Мадхавы Мишры, отрешённого с детства; Видьянидхи сидит, как принц, на ложе под тремя балдахинами, жуёт пан, глядит в зеркало, слуги машут опахалами из павлиньих перьев, — и Гададхара теряет веру: «Разве это вайшнав? Он — богатый мирянин»."
+  persons: ["@pundarika-vidyanidhi", "@mukunda-datta", "@vasudeva-datta", "@gadadhara-pandita", "@madhava-mishra", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [offense, teaching]
+  teaching: [vaishnava]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "36", to: "70"}
+
+- id: cb-1049
+  source: cb
+  ref: "Мадхья 7, 71–120"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 72.7
+  title: "Мукунда читает шлоки о Путане — Видьянидхи в преме громит свою роскошь; Гададхара просит посвящения"
+  summary: "Поняв сердце Гададхары, Мукунда поёт шлоки «Бхагаваты» о Путане, которой Господь даровал положение матери; Видьянидхи рыдает, кричит «Продолжай!», падает, ногами разбрасывает кувшины, пан, ложе, рвёт одежды и катается: «Кришна, Ты обманул меня в этом воплощении!» — и шесть часов лежит без чувств; Гададхара обнимает Мукунду: «Ты спас меня от великой опасности — я оскорбил его; у каждого на пути бхакти должен быть гуру — я приму у него мантру»; очнувшись, Видьянидхи с радостью соглашается посвятить его в светлую двадаши."
+  persons: ["@mukunda-datta", "@pundarika-vidyanidhi", "@gadadhara-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17"
+  themes: [ecstasy, offense]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 3.2.23", "Бхаг. 10.6.35"]
+  calendar: "двадаши светлой половины (назначенный день посвящения)"
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "71", to: "120"}
+
+- id: cb-1050
+  source: cb
+  ref: "Мадхья 7, 121–147"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 72.8
+  title: "Видьянидхи ночью приходит к Господу: «Сегодня Я встретил отца»"
+  summary: "Ночью, оставив слуг, Видьянидхи один приходит к Господу и падает без чувств, не успев поклониться; очнувшись, плачет: «Кришна, моё дитя, как долго Ты будешь наказывать этого оскорбителя? Ты спас весь мир, а меня — нет»; Господь встаёт, обнимает его: «О Пундарика, отец Мой!» — и три часа стоит неподвижно; Он представляет его вайшнавам — Пундарика Видьянидхи, «Преманидхи», избранный распространять прему; Видьянидхи кланяется Господу, Адвайте и всем."
+  persons: ["@pundarika-vidyanidhi", "@mahaprabhu", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy]
+  teaching: [vaishnava]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "121", to: "147"}
+
+- id: cb-1051
+  source: cb
+  ref: "Мадхья 7, 148–157"
+  file: "chaitanya-bhagavata/ed/CB_Madhya07.md"
+  period: P07
+  order: 73
+  title: "С разрешения Господа Гададхара принимает посвящение от Пундарики"
+  summary: "Гададхара просит у Господа позволения: «Я непочтительно подумал о нём — духовный учитель прощает ученика»; Господь: «Сделай это немедленно!» — и Гададхара принимает мантру от Преманидхи; автор: Пундарика и Гададхара — идеальные гуру и ученик, оба бесконечно дороги Господу; слушающий об их встрече обретёт прему."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@pundarika-vidyanidhi", "@vrindavana-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17"
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  event: ev-gadadhara-initiation-pundarika
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "148", to: "157"}
