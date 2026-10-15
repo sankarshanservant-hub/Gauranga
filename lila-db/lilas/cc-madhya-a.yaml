@@ -644,3 +644,149 @@
   cc: "Мадхья 4"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "210", to: "213"}
+
+- id: cc-1035
+  source: cc
+  ref: "Мадхья 5.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: PX
+  order: 995.6
+  title: "Мадхья 5: поклон Господу, который как Сакши-гопала за сто дней прошёл пешком ради брахмана"
+  summary: "Поклон Верховному Господу, который в облике Сакши-гопалы Своими стопами за сто дней пересёк страну ради блага брахмана. Слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@sakshi-gopala", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "1", to: "2"}
+
+- id: cc-1036
+  source: cc
+  ref: "Мадхья 5.3–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 82
+  title: "Яджапур: Господь поёт и пляшет перед Варахадевой и ночует в храме"
+  summary: "Придя в Яджапур, Господь поклонился Божеству Варахадевы, пел, плясал и возносил молитвы в преме и провёл ночь в храме."
+  persons: ["@mahaprabhu", "@varaha"]
+  places: ["#jajpur"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; у Мурари и в ЧБ в Яджапуре — богиня Вираджа и другие святыни."
+  themes: [pilgrimage, deities, ecstasy]
+  cc: "Мадхья 5"
+  event: ev-jajpur-viraja
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "3", to: "4"}
+
+- id: cc-1037
+  source: cc
+  ref: "Мадхья 5.5–9"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 85
+  title: "Катак: даршан Сакши-гопалы; ночью Нитьянанда рассказывает Его историю"
+  summary: "В Катаке, увидев Сакши-гопалу, Господь в преме пел, плясал и молился и остался в храме на ночь. Нитьянанда, ещё прежде в паломничестве слышавший здесь историю Божества от местных жителей, к великой радости Господа рассказал её преданным."
+  persons: ["@mahaprabhu", "@nityananda", "@sakshi-gopala"]
+  places: ["#cuttack"]
+  kind: lila
+  authority: A
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "5", to: "9"}
+
+- id: cc-1038
+  source: cc
+  ref: "Мадхья 5.10–118"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P01
+  order: 1.7
+  title: "Рассказ Нитьянанды: обет старого брахмана перед Гопалой во Вриндаване; отказ под давлением семьи; Гопала идёт за юным брахманом, звеня колокольчиками, и свидетельствует"
+  summary: "Два брахмана из Видьянагары, старый и молодой, паломничают до Матхуры и Вриндавана; довольный служением молодого, старый обещает ему в жёны дочь и по его просьбе клянётся перед Гопалой. Дома родные грозят отречься, жена и сын — принять яд, и сын учит отца сказать: «Не помню». На сходе сын обвиняет юношу в краже денег; юноша зовёт Свидетелем Гопалу, и решают: если Гопала придёт, дочь будет отдана. Юный брахман идёт во Вриндаван; Кришна обещает свидетельствовать; на возражение «Божества не ходят» юноша отвечает: «Ты не изваяние, Ты сын Нанды». Гопала идёт за ним сто дней, звеня ножными колокольчиками и съедая ежедневно рис, с условием не оборачиваться; у деревни юноша обернулся, и Гопала остался там. Старый брахман простирается перед Ним; Гопала свидетельствует, называет обоих Своими вечными слугами и по их просьбе остаётся; правитель строит храм, Божество зовут Сакши-гопалой."
+  persons: ["@nityananda", "@sakshi-gopala", "@krishna", "@rukmini"]
+  places: ["#vidyanagara", "#gaya", "#kashi", "#prayaga", "#mathura", "#govardhana", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Ст. 13: тогда на месте храма Говинды во Вриндаване стоял большой храм Гопалы."
+  themes: [deities]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala-two-brahmins
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "10", to: "118"}
+
+- id: cc-1039
+  source: cc
+  ref: "Мадхья 5.119–133"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P01
+  order: 1.71
+  title: "Царь Пурушоттама-дэва переносит Сакши-гопалу в Катак; Маникья-симхасана — Джаганнатхе; жемчужина царицы в ноздре Гопалы"
+  summary: "Позже царь Ориссы Пурушоттама-дэва завоевал ту землю и взял драгоценный трон Маникья-симхасану; по его мольбе Гопала согласился пойти в его царство. Трон царь поднёс Джаганнатхе, а Гопале установил служение в Катаке. Царица пожелала поднести Гопале свою жемчужину, будь у Него проколота ноздря; Гопала во сне сказал: «В детстве мать проколола Мне ноздрю — отверстие осталось», и наутро жемчужину вдели с великим празднеством. С тех пор Сакши-гопала — в Катаке."
+  persons: ["@purushottama-deva", "@sakshi-gopala", "@jagannatha-deity", "@yashoda"]
+  places: ["#vidyanagara", "#cuttack", "#puri"]
+  kind: lila
+  authority: A
+  themes: [deities]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala-two-brahmins
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "119", to: "133"}
+
+- id: cc-1040
+  source: cc
+  ref: "Мадхья 5.134–140"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 85.1
+  title: "Господь перед Сакши-гопалой — Они схожи обликом; путь до Бхуванешвары описан Вриндаваном Дасом"
+  summary: "Господь с преданными с наслаждением выслушали рассказ Нитьянанды. Когда Господь сидел перед Гопалой, преданные увидели Их сходство — оба величавы, лотосооки, луноликие, сияющие, — и Нитьянанда с улыбкой указал на это. Утром после мангала-арати Господь пошёл дальше; места до Бхуванешвары подробно описал Вриндаван Дас."
+  persons: ["@mahaprabhu", "@nityananda", "@sakshi-gopala", "@vrindavana-dasa"]
+  places: ["#cuttack", "#bhubaneshvara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 140 — упоминание пути через Бхуванешвару (ЧБ Антья 2)."
+  themes: [deities, revelation]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "134", to: "140"}
+
+- id: cc-1041
+  source: cc
+  ref: "Мадхья 5.141–158"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 88
+  title: "Камалапур: Нитьянанда ломает посох Господа и бросает в Бхаргинади; Господь видит храм Джаганнатхи, в преме идёт до Атхараналы, гневается и уходит вперёд один"
+  summary: "В Камалапуре Господь, омываясь в Бхаргинади, отдал посох Нитьянанде и пошёл в храм Капотешвары; Нитьянанда сломал посох на три части и бросил в реку. Увидев издали храм Джаганнатхи, Господь в преме плясал, смеялся, плакал, и девять километров стали для Него во сто крат длиннее; у Атхараналы Он пришёл в себя и спросил посох. Нитьянанда сказал, что они вместе упали на посох, и просил наказания; опечаленный, Господь в гневе сказал: «Вы привели Меня в Нилачалу, но не сберегли Моё единственное достояние» — и ушёл вперёд один. Смысл этой лилы постигают лишь преданные стоп Чайтаньи и Нитьянанды."
+  persons: ["@mahaprabhu", "@nityananda", "@mukunda-datta", "@shiva"]
+  places: ["#kamalapura", "#atharanala", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Событие ev-danda-broken; одновременно — первое созерцание храма (ev-first-sight-jagannatha-temple)."
+  themes: [sannyasa, ecstasy, jagannatha]
+  cc: "Мадхья 5"
+  event: ev-danda-broken
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "141", to: "158"}
+
+- id: cc-1042
+  source: cc
+  ref: "Мадхья 5.159–161"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: PX
+  order: 995.7
+  title: "Слава Гопалы, воспетая Нитьянандой; плод слушания; колофон"
+  summary: "Милость Гопалы превосходит даже Его славу; Его деяния воспел Нитьянанда, а Господь слушал. Кто с верой слушает рассказ о Гопале, скоро обретёт прибежище у Его стоп. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@sakshi-gopala", "@nityananda", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "159", to: "161"}
