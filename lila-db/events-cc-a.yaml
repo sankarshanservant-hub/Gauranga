@@ -243,3 +243,56 @@
   themes: [teaching, jagannatha, mercy]
   teaching: [gaura-tattva, scripture]
   notes: "Правило: всё, что читают Господу, сначала проверяет Сварупа."
+
+# --- Антья 6 ---
+- id: ev-raghunatha-dasa-saptagrama-arrest
+  title: "Мусульманский чиновник заточает Рагхунатху Даса в Саптаграме; Рагхунатха мирит его с Хираньей"
+  title_en: "A Muslim official imprisons Raghunatha Dasa at Saptagrama; Raghunatha reconciles him with Hiranya"
+  period: P14
+  order: 28
+  cc: "Антья 6.16–41"
+  cb: ""
+  themes: [muslims, family]
+  notes: "После возвращения Господа из Вриндавана; затем — попытки бегства."
+
+- id: ev-raghunatha-dasa-escape
+  title: "Бегство Рагхунатхи Даса из дома в Пури"
+  title_en: "Raghunatha Dasa's flight from home to Puri"
+  period: P14
+  order: 29.5
+  cc: "Антья 6.157–188"
+  cb: ""
+  themes: [sannyasa, pilgrimage]
+  notes: "Ночью, проводив гуру Ядунандану Ачарью; двадцать дней пути через Чхатрабхогу."
+
+- id: ev-raghunatha-lord-instructions
+  title: "Наставления Господа Рагхунатхе Дасу: не слушать мирского, не есть вкусного, повторять имя"
+  title_en: "The Lord's instructions to Raghunatha Dasa: hear nothing worldly, eat nothing rich, chant the name"
+  period: P14
+  order: 30.3
+  cc: "Антья 6.228–241"
+  cb: ""
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, holy-name]
+  notes: "«грамья-катха на шунибе…»; Шикшаштака 3."
+
+- id: ev-raghunatha-stops-invitations
+  title: "Рагхунатха перестаёт приглашать Господа на деньги отца и просить у Львиных ворот"
+  title_en: "Raghunatha stops inviting the Lord with his father's money and begging at the Lion Gate"
+  period: P14
+  order: 30.7
+  cc: "Антья 6.266–286"
+  cb: ""
+  themes: [sannyasa, prasada, teaching]
+  teaching: [sannyasa-teaching, purity]
+  notes: ""
+
+- id: ev-raghunatha-rotten-rice
+  title: "Рагхунатха ест промытый гнилой прасад; Господь отнимает у него пригоршню"
+  title_en: "Raghunatha eats washed rotten prasada; the Lord snatches a handful"
+  period: P14
+  order: 31.5
+  cc: "Антья 6.309–325"
+  cb: ""
+  themes: [sannyasa, prasada]
+  notes: ""

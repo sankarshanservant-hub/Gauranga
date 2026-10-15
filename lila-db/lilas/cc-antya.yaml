@@ -1158,3 +1158,266 @@
   cc: "Антья 5"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "159", to: "164"}
+
+- id: cc-4062
+  source: cc
+  ref: "Антья 6.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: PX
+  order: 995.12
+  title: "Мангалачарана Антья 6: Господь верёвкой милости вытащил Рагхунатху из колодца семейной жизни"
+  summary: "Поклон Чайтанье, Который хитростью, верёвкой беспричинной милости вытащил Рагхунатху Даса из слепого колодца семейной жизни и поручил его Сварупе Дамодаре; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@raghunatha-dasa", "@svarupa-damodara"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "1", to: "2"}
+
+- id: cc-4063
+  source: cc
+  ref: "Антья 6.3–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 100
+  title: "Ночами Господь томится в разлуке с Кришной; Рамананда, как Субала, и Сварупа, как Лалита, утешают Его"
+  summary: "Господь непрестанно чувствовал разлуку с Кришной, но скрывал её, чтобы не огорчать преданных; днём Он отвлекался, а ночью боль возвращалась. Жизнь в Нём поддерживали Рамананда, рассказывавший о Кришне, и Сварупа, певший песни: как Субала утешал Кришну, так Рамананда утешал Господа, и как Лалита утешала Радху, так Сварупа поддерживал Его, переживавшего любовь Радхи."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@radha", "@lalita", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Общее описание (вступление к главе о Рагхунатхе)."
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 6"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "3", to: "12"}
+
+- id: cc-4064
+  source: cc
+  ref: "Антья 6.13–41"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 28
+  title: "Рагхунатха Дас дома в Саптаграме: мусульманский чиновник арестовывает его вместо Хираньи, Рагхунатха смягчает его; попытки бегства"
+  summary: "После наставления в Шантипуре Рагхунатха жил дома как обычный домохозяин, внутренне ни к чему не привязанный. Мусульманский чиновник, лишившийся сбора налогов Саптаграмы в пользу Хираньи, донёс в казну; Хиранья скрылся, и чиновник заточил Рагхунатху, но не смел его бить. Рагхунатха сказал ему: ты мне как отец, а братья то ссорятся, то мирятся; растроганный, тот заплакал, освободил его и через него помирился с Хираньей. Через год Рагхунатха стал постоянно убегать; отец, отвергнув совет матери связать его, сказал: его не удержали богатство Индры и красавица-жена — не удержат и верёвки; на нём милость Чайтаньи."
+  persons: ["@raghunatha-dasa", "@hiranya-majumdar", "@govardhana-majumdar", "@mahaprabhu"]
+  places: ["#saptagrama", "#shantipura"]
+  kind: lila
+  authority: A
+  notes: "По ЧЧ — отец Рагхунатхи Говардхана, дядя Хиранья."
+  themes: [muslims, family, sannyasa]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-saptagrama-arrest
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "13", to: "41"}
+
+- id: cc-4065
+  source: cc
+  ref: "Антья 6.42–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29
+  title: "Чида-дадхи в Панихати: Нитьянанда «наказывает вора» Рагхунатху — накормить всех плющеным рисом с йогуртом; Нитьянанда призывает Господа и кормит Его"
+  summary: "Рагхунатха пришёл к Нитьянанде в Панихати, где Тот сидел на камне под деревом на берегу Ганги, сияя, как восходящее солнце, среди множества преданных. «Вор пришёл! Накажу тебя: накорми всех Моих спутников плющеным рисом с йогуртом», — сказал Нитьянанда и коснулся стопой его головы. Рагхунатха устроил огромный пир: сотни горшков с чидой, йогуртом, молоком, бананами и сахаром; спутники Нитьянанды — Рамадас, Сундарананда, Гададхара Дас, Мурари, Камалакара, Садашива, Пурандара, Дхананджая, Джагадиша, Парамешвара, Махеша, Гауридас, Хода Кришнадас, Уддхарана — сидели на возвышении, тысячи людей — на земле, на берегу и в воде. Пришёл Рагхава Пандит. Нитьянанда в медитации призвал Господа, обходил с Ним ряды, вкладывая чиду Ему в рот, и посадил рядом с Собой; немногие удачливые видели Господа. Все ели с пением «Хари», и спутникам казалось, что они на Ямуне с Кришной и Баларамой. Рагхунатха скупал и раздавал товар торговцев и получил остатки Нитьянанды."
+  persons: ["@nityananda", "@raghunatha-dasa", "@mahaprabhu", "@raghava-pandita", "@abhirama", "@sundarananda", "@gadadhara-dasa", "@murari-chaitanya-dasa", "@kamalakara-pippalai", "@sadashiva-kaviraja", "@purandara-pandita", "@dhananjaya-pandita", "@jagadisha-pandita", "@parameshvara-dasa", "@mahesha-pandita", "@gauridasa-pandita", "@hoda-krishnadasa", "@uddharana-datta"]
+  places: ["#panihati", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Рамадас — Абхирама Тхакур (тег @abhirama); «Мурари», «Садашива» — по смыслу спутники Нитьянанды (Мурари Чайтанья Дас, Садашива Кавираджа)."
+  themes: [prasada, mercy, festival]
+  bhava: [sakha]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "42", to: "100"}
+
+- id: cc-4066
+  source: cc
+  ref: "Антья 6.101–125"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.1
+  title: "Вечером в доме Рагхавы Пандита: пляска Нитьянанды, которую тайно видит Господь, и угощение для двух братьев; Рагхава даёт Рагхунатхе их остатки"
+  summary: "Вечером в доме Рагхавы начался киртан; Нитьянанда заплясал, затопив мир премой, и Господь тайно смотрел — видел Его лишь Нитьянанда. За ужином Нитьянанда поставил справа сиденье для Господа, и Господь пришёл и сел; Рагхава подавал обоим братьям блюда, словно приготовленные Самой Радхой, получившей благословение Дурвасы. Господь ежедневно вкушает подношения Рагхавы, порой позволяя Себя видеть. Остатки трапезы братьев Рагхава отдал Рагхунатхе: «их вкусил Сам Господь — исчезнут все твои оковы»."
+  persons: ["@nityananda", "@mahaprabhu", "@raghava-pandita", "@raghunatha-dasa", "@radha", "@durvasa"]
+  places: ["#panihati"]
+  kind: lila
+  authority: A
+  themes: [kirtan, prasada, revelation]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "101", to: "125"}
+
+- id: cc-4067
+  source: cc
+  ref: "Антья 6.126–156"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.2
+  title: "Нитьянанда благословляет Рагхунатху: «Гаурачандра пришёл спасти тебя и поручит тебя Сварупе»; Рагхунатха одаривает спутников Нитьянанды и возвращается домой"
+  summary: "Утром Рагхунатха через Рагхаву попросил Нитьянанду коснуться стопой его головы, чтобы ничто не помешало ему достичь стоп Господа. Нитьянанда сказал преданным: его богатство — как у Индры, но по милости Чайтаньи в нём нет привязанности, благословите его; затем коснулся стопой его головы: «Ради твоего пира пришёл Сам Господь; Он отдаст тебя Сварупе — иди домой, скоро достигнешь Его стоп». Рагхунатха тайно передал казначею Нитьянанды золото и монеты и через Рагхаву одарил спутников Нитьянанды; дома он стал спать в Дурга-мандапе под стражей, обдумывая побег."
+  persons: ["@nityananda", "@raghunatha-dasa", "@raghava-pandita", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#panihati", "#saptagrama"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa]
+  scriptures: ["Бхаг. 5.14.43"]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "126", to: "156"}
+
+- id: cc-4068
+  source: cc
+  ref: "Антья 6.157–188"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.5
+  title: "Бегство Рагхунатхи: ночью, проводив гуру Ядунандану Ачарью, он уходит лесными тропами и за двадцать дней доходит до Пури"
+  summary: "Когда бенгальцы ушли в Пури, Рагхунатха не мог идти с ними. Однажды ночью к нему пришёл его гуру Ядунандана Ачарья, ученик Адвайты, попросить уговорить брахмана, бросившего служение Божеству; на полпути Рагхунатха отпустил его и, без стражи, пошёл на восток, затем на юг, избегая больших дорог. Ночь он провёл в коровнике пастуха, выпив молока. Отец послал десять человек с письмом к Шивананде; те догнали бенгальцев у Джханкары, но Рагхунатхи с ними не было. Миновав Чхатрабхогу, он шёл просёлками, думая лишь о стопах Господа, и за двадцать дней, поев лишь три раза, достиг Пури."
+  persons: ["@raghunatha-dasa", "@yadunandana-acharya", "@vasudeva-datta", "@advaita", "@govardhana-majumdar", "@shivananda-sena"]
+  places: ["#saptagrama", "#chhatrabhoga", "#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, pilgrimage]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-escape
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "157", to: "188"}
+
+- id: cc-4069
+  source: cc
+  ref: "Антья 6.189–227"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30
+  title: "Рагхунатха у Господа: «Кришна вытащил тебя из выгребной ямы»; Господь отдаёт его Сварупе — «Рагху Сварупы»; Рагхунатха просит подаяние у Львиных ворот, и Господь хвалит его отречение"
+  summary: "Рагхунатха простёрся во дворе; Мукунда Датта объявил его, и Господь обнял его: милость Кришны вытащила тебя из выгребной ямы мирских услад; твои отец и дядя — друзья Моего деда Ниламбары, но они лишь «почти вайшнавы». Видя его худобу, Господь отдал его Сварупе как сына и слугу — «Рагху Сварупы», третий Рагхунатха — и велел Говинде кормить его. Пять дней Рагхунатха ел остатки Господа, а затем стал вечером просить подаяние у Львиных ворот, где служители храма кормят вайшнавов. Господь одобрил: отрешённый должен непрестанно воспевать имя, кормиться подаянием, не зависеть от других и не служить языку, желудку и гениталиям."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara", "@mukunda-datta", "@govinda-servant", "@nilambara-chakravarti", "@hiranya-majumdar", "@govardhana-majumdar"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa, prasada]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "189", to: "227"}
+
+- id: cc-4070
+  source: cc
+  ref: "Антья 6.228–241"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.3
+  title: "Наставления Господа Рагхунатхе: не слушай и не веди мирских разговоров, не ешь вкусного, не носи хорошего, почитай всех, не жди почёта, повторяй имя и мысленно служи Радха-Кришне во Врадже"
+  summary: "Рагхунатха через Сварупу спросил о своём долге. Господь с улыбкой сказал: твой наставник — Сварупа, он знает больше Меня; но вот Мои слова: не слушай и не говори о мирском, не ешь изысканного, не носи дорогого, почитай всех, не ожидая почёта, всегда повторяй имя Кришны и мысленно служи Радха-Кришне во Вриндаване. Шлока «тринад апи суничена». Господь вновь поручил его Сварупе, и с ним Рагхунатха совершал сокровенное служение."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@svarupa-damodara", "@govinda-servant", "@radha", "@krishna"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, holy-name]
+  scriptures: ["Шикшаштака, 3"]
+  cc: "Антья 6"
+  event: ev-raghunatha-lord-instructions
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "228", to: "241"}
+
+- id: cc-4071
+  source: cc
+  ref: "Антья 6.242–265"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.6
+  title: "Рагхунатха видит Ратха-ятру; Шивананда сообщает отцу Рагхунатхи о его отречении; стихи Карнапуры о Рагхунатхе"
+  summary: "Пришли бенгальские преданные; Господь, как прежде, убрал с ними Гундичу и плясал на Ратха-ятре, и Рагхунатха был поражён; Адвайта оказал ему милость, Шивананда рассказал о погоне. Когда бенгальцы вернулись, Шивананда сказал посланцу отца: Рагхунатха живёт у Господа под опекой Сварупы, днём и ночью повторяет имя и просит подаяние у Львиных ворот; родители послали ему слуг, брахмана и четыреста монет. Карнапура в «Чайтанья-чандродае» прославил его отрешённость и дерево премы, выросшее в нём."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@advaita", "@shivananda-sena", "@govardhana-majumdar", "@kavi-karnapura", "@svarupa-damodara"]
+  places: ["#puri", "#gundicha", "#saptagrama"]
+  kind: lila
+  authority: A
+  parallels: "Карнапура, ЧЧд акт 10"
+  themes: [jagannatha, family, sannyasa]
+  scriptures: ["Чайтанья-чандродая, 10.3", "Чайтанья-чандродая, 10.4"]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "242", to: "265"}
+
+- id: cc-4072
+  source: cc
+  ref: "Антья 6.266–286"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.7
+  title: "Рагхунатха перестаёт приглашать Господа на деньги отца и просить у Львиных ворот: «пища мирских людей оскверняет ум», «у ворот думают, как блудница»"
+  summary: "Рагхунатха отказался от слуг и денег, но два года дважды в месяц устраивал для Господа пир на деньги, хранимые присланным брахманом, а затем перестал. Сварупа объяснил: он понял, что, беря деньги мирских людей, оскверняет ум, а Господь принимает приглашения лишь чтобы не огорчать его; Господь согласился — пища мирян в гуне страсти оскверняет и дающего, и принимающего. Затем Рагхунатха стал есть в бесплатной столовой (чхатре), и Господь похвалил: стоящий у ворот думает, как блудница — «этот даст, тот не дал»."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada, teaching]
+  teaching: [sannyasa-teaching, purity]
+  cc: "Антья 6"
+  event: ev-raghunatha-stops-invitations
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "266", to: "286"}
+
+- id: cc-4073
+  source: cc
+  ref: "Антья 6.287–308"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 31
+  title: "Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи, привезённые Шанкаранандой Сарасвати, и учит поклоняться шиле водой и туласи"
+  summary: "Шанкарананда Сарасвати принёс из Вриндавана ожерелье из гунджи и камень с Говардханы; три года Господь носил ожерелье, вспоминая игры Враджа, прижимал камень к глазам и сердцу и омывал слезами, называя его телом Кришны. Довольный Рагхунатхой, Он отдал их ему: в камне Сам Кришна; поклоняйся ему в чистоте кувшином воды и восемью соцветиями туласи. Сварупа дал утварь и велел подносить сладости на восемь каури. Рагхунатха понял: камнем Господь даровал ему место у Говардханы, а гунджей — прибежище у стоп Радхи."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@shankarananda-sarasvati", "@svarupa-damodara", "@govinda-servant", "@krishna", "@radha"]
+  places: ["#puri", "#govardhana", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [deities, mercy, krishna-lila]
+  cc: "Антья 6"
+  event: ev-govardhana-shila-gunja-gift
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "287", to: "308"}
+
+- id: cc-4074
+  source: cc
+  ref: "Антья 6.309–325"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 31.5
+  title: "Отречение Рагхунатхи: полтора часа на сон и еду, лоскутная накидка; он ест промытый гнилой рис, и Господь с Сварупой отнимают у него «нектар»"
+  summary: "Рагхунатха днём и ночью медитировал на стопы Кришны и повторял имя, тратя на сон и еду не более полутора часов; носил ветхую ткань и лоскутную накидку и корил себя даже за малую еду. Он собирал ночью прасад Джаганнатхи, испортившийся так, что его не ели даже телингские коровы у Львиных ворот, промывал и ел твёрдую сердцевину с солью. Сварупа отведал и попрекнул: ешь нектар и не угощаешь нас; Господь пришёл, силой съел пригоршню и сказал, что такого вкусного прасада не пробовал, а Сварупа не дал Ему взять ещё."
+  persons: ["@raghunatha-dasa", "@svarupa-damodara", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada]
+  cc: "Антья 6"
+  event: ev-raghunatha-rotten-rice
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "309", to: "325"}
+
+- id: cc-4075
+  source: cc
+  ref: "Антья 6.326–329"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: PX
+  order: 995.13
+  title: "Рагхунатха о своём спасении («Чайтанья-става-калпаврикша», 11); колофон Антья 6"
+  summary: "Рагхунатха сам описал: Господь спас его из пожара мирской жизни, поручил Сварупе и подарил дорогие Ему гунджу и камень с Говардханы. Кто слушает о встрече Рагхунатхи с Господом, обретает прибежище у Его стоп. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Чайтанья-става-калпаврикша, 11"]
+  cc: "Антья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "326", to: "329"}
