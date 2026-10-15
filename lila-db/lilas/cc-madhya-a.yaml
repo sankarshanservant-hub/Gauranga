@@ -1,0 +1,272 @@
+# «Чайтанья-чаритамрита», Мадхья-лила 2–9 — записи базы лил (исполнитель cc-m1). Формат — lila-db/README.md.
+
+- id: cc-1001
+  source: cc
+  ref: "Мадхья 2.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 995
+  title: "Мадхья 2: вступление — о пралапе Гауры в разлуке с Кришной; слава Чайтанье, Нитьянанде, Адвайте и преданным"
+  summary: "Автор объявляет, что в этой главе, кратко пересказывая сутры Антья-лилы, опишет бессвязные речи Гауры в разлуке с Кришной, и славит Шри Чайтанью, Нитьянанду, Адвайтачандру и преданных Гауры."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "1", to: "2"}
+
+- id: cc-1002
+  source: cc
+  ref: "Мадхья 2.3–14"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100
+  title: "Последние двенадцать лет: Господь, как Радха при встрече с Уддхавой, в безумии разлуки; Гамбхира, Львиные врата, океан, дюны-Говардхана"
+  summary: "Последние двенадцать лет Господь непрестанно переживал разлуку с Кришной, как Радха при виде Уддхавы: речи Его стали бессвязны, из пор сочилась кровь, тело то худело, то полнело. Ночами без сна в Гамбхире Он тёрся лицом о стены; при запертых трёх дверях выходил и падал у Львиных врат или бросался в океан, бежал к песчаным дюнам, принимая их за Говардхану, а сады — за Вриндаван. Суставы Его растягивались, а руки, ноги и голова втягивались в тело, как у черепахи, — такие преображения не были известны прежде."
+  persons: ["@mahaprabhu", "@radha", "@uddhava"]
+  places: ["#puri", "#chataka-parvata"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "3", to: "14"}
+
+- id: cc-1003
+  source: cc
+  ref: "Мадхья 2.15–34"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.1
+  title: "Пралапа: «Где Мой владыка жизни?» — Господь произносит шлоку из драмы Рамананды и сетует, что без Кришны глаза, уши, язык, нос и тело напрасны"
+  summary: "В скорби разлуки Господь восклицает: «Где сын Нанды, играющий на флейте?» — и произносит шлоку «Джаганнатха-валлабха-натаки» (3.9) о любви, что ранит, не разбирая, и о мимолётности юности; Кришна, как огонь мотыльков, похитил сердца и бросил их в океан разлуки. Затем в волнах бхавы Он говорит: глаза, не видевшие лица Кришны, уши, не слышавшие Его повествований и флейты, язык, не вкусивший Его губ, нос, не ощутивший Его благоухания, тело, не знавшее прикосновения Его стоп, — бесполезны."
+  persons: ["@mahaprabhu", "@krishna", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  scriptures: ["Джаганнатха-валлабха-натака, 3.9"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "15", to: "34"}
+
+- id: cc-1004
+  source: cc
+  ref: "Мадхья 2.35–38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.2
+  title: "Пралапа: «Если вновь увижу Кришну, украшу те мгновения драгоценностями»"
+  summary: "В смирении и безнадёжности Господь вновь и вновь повторяет шлоку «Джаганнатха-валлабха-натаки» (3.11): когда случается увидеть Кришну, хотя бы во сне, блаженство и Камадева похищают ум, и не наглядеться на Него; если же Он вновь явится, те мгновения Господь умастит сандалом и украсит гирляндами и драгоценностями."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Джаганнатха-валлабха-натака, 3.11"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "35", to: "38"}
+
+- id: cc-1005
+  source: cc
+  ref: "Мадхья 2.39–49"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.3
+  title: "Вернувшись во внешнее сознание, Господь говорит Сварупе и Рамананде: «Во Мне нет и запаха любви к Кришне»"
+  summary: "Приходя во внешнее сознание, Господь спрашивает двух спутников, не говорил ли Он в безумии, и открывает им сердце: чистая према невозможна среди смертных, а если она есть, то разлуки не пережить. Позабыв стыд, Он произносит шлоку: «Во Мне нет и капли любви к Кришне, Я плачу, лишь чтобы показать Свою удачу; не видя Его лица, Я, как насекомое, влачу жизнь и забочусь о теле». Чистая любовь к Кришне подобна безупречно белой ткани и безбрежному океану счастья, капля которого затопит мир; описать её нельзя, но безумец не может молчать."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, teaching]
+  bhava: [radha, devotee]
+  teaching: [prema]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "39", to: "49"}
+
+- id: cc-1006
+  source: cc
+  ref: "Мадхья 2.50–52"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.4
+  title: "Яд и нектар любви: снаружи — муки, внутри — блаженство"
+  summary: "День за днём наедине с Раманандой Раем и Сварупой Дамодарой Господь являл Свои бхавы: внешне Он словно страдал от яда, но внутри был исполнен блаженства. Любовь к Кришне — как жгучий сладкий сироп, смесь яда и нектара; приведена шлока «Видагдха-мадхавы» (2.18)."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Видагдха-мадхава, 2.18"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "50", to: "52"}
+
+- id: cc-1007
+  source: cc
+  ref: "Мадхья 2.53–56"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.5
+  title: "Даршан Джаганнатхи у колонны Гаруды: «Я пришёл на Курукшетру»; канава у колонны наполняется слезами; «Где же Вриндаван?»"
+  summary: "Видя Джаганнатху с Баларамой и Субхадрой, Господь думал, что пришёл на Курукшетру и узрел лотосоокого Героя. Стоя у колонны Гаруды, Он смотрел на Джаганнатху, и канава у её основания наполнялась Его слезами. Возвращаясь из храма, Он сидел, чертя ногтями по земле, и стенал: «Где Вриндаван, где Кришна, сын царя пастухов, где берег Ямуны, где танец раса?»"
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@balarama", "@subhadra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "В переводе ВЧД ст. 54 — «статуя Гаруды»; имеется в виду колонна Гаруды (гаруда-стамбха) в храме Джаганнатхи."
+  themes: [jagannatha, ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-garuda-stambha-tears
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "53", to: "56"}
+
+- id: cc-1008
+  source: cc
+  ref: "Мадхья 2.57–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.6
+  title: "Пралапа в шлоках «Кришна-карнамриты»: «Как пережить дни и ночи, не видя Тебя?»; битва бхав в теле Господа"
+  summary: "Не в силах вынести разлуку, Господь произносит шлоки «Кришна-карнамриты» (41, 32): «О Хари, океан милости, как прожить дни и ночи без Твоего даршана?», «Когда Я увижу Твоё лицо в уединении?» Противоборствующие бхавы — стремление, дерзость, смирение, гнев, нетерпение — сходились в Нём, как бешеные слоны на тростниковом поле, истощая тело и ум; тогда Он произнёс шлоку «Карнамриты» (40): «Когда же Я вновь увижу Тебя?»"
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Кришна-карнамрита, 41", "Кришна-карнамрита, 32", "Кришна-карнамрита, 40"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "57", to: "65"}
+
+- id: cc-1009
+  source: cc
+  ref: "Мадхья 2.66–71"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.7
+  title: "Пралапа: Кришна то порицаем, то прославляем — «Ты коварный обольститель… Ты — отрада Моих глаз»"
+  summary: "В безумии разлуки, ни на миг не забывая Кришну, Господь то упрекает Его — непостоянного, привлекающего всех женщин, коварного, — то тут же оправдывает и славит: Он океан милости, владыка Враджа, возлюбленный; «Если Ты ушёл, услышав упрёк, — внемли хвале: Ты — Моё богатство и жизнь, явись вновь»."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "66", to: "71"}
+
+- id: cc-1010
+  source: cc
+  ref: "Мадхья 2.72–76"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.8
+  title: "Господь видит Кришну в беспамятстве и вскакивает с криком «Кришна пришёл!» (шлока «Карнамриты», 68)"
+  summary: "Оцепенение, дрожь, испарина, слёзы охватывали Господа: Он плакал, смеялся, плясал, пел, бежал, падал без сознания. Однажды в беспамятстве Он увидел Кришну и, очнувшись, вскочил с криком: «Пришёл Кришна!» — и произнёс шлоку «Кришна-карнамриты» (68): «Не Он ли, сам бог любви, сияющий как кадамба, вновь предстал Моим глазам?» Бхавы — отчаяние, скорбь, смирение, ликование, гнев — как гуру учеником, управляли Его телом и умом."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Кришна-карнамрита, 68"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "72", to: "76"}
+
+- id: cc-1011
+  source: cc
+  ref: "Мадхья 2.77–78"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 99
+  title: "Со Сварупой и Раманандой Господь дни и ночи поёт Чандидаса, Видьяпати, «Гита-говинду», «Карнамриту» и драму Рамананды; четыре расы со спутниками"
+  summary: "С великой радостью Господь дни и ночи вместе с Раманандой Раем и Сварупой Дамодарой пел песни Чандидаса и Видьяпати, стихи «Гита-говинды», «Кришна-карнамриты» и «Джаганнатха-валлабха-натаки». Он вкушал ватсалью с Парамананда Пури, сакхью с Раманандой Раем, дасью с Говиндой и другими, мадхурью с Гададхарой, Джагаданандой и Сварупой и считал Себя в долгу перед ними."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@chandidasa", "@vidyapati", "@jayadeva", "@bilvamangala", "@paramananda-puri", "@govinda-servant", "@gadadhara-pandita", "@jagadananda-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  teaching: [prema, associates-tattva]
+  cc: "Мадхья 2"
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "77", to: "78"}
+
+- id: cc-1012
+  source: cc
+  ref: "Мадхья 2.79–80"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 114.9
+  title: "Если Билвамангала являл такие бхавы, что говорить о Самом Господе; Кришна принял сердце и сияние Радхи, чтобы вкусить три сокровенных чувства"
+  summary: "Лилашука (Билвамангала Тхакур), будучи человеком, являл многие бхавы — не диво, что они проявлялись в теле Самого Владыки, познавшего все расы. Во Врадже Кришна пожелал вкусить три сокровенных чувства, но не смог, ибо они — достояние Радхи; поэтому Он принял Её сердце и сияние и пришёл как Шри Кришна Чайтанья."
+  persons: ["@mahaprabhu", "@bilvamangala", "@krishna", "@radha"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, prema]
+  cc: "Мадхья 2"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "79", to: "80"}
+
+- id: cc-1013
+  source: cc
+  ref: "Мадхья 2.81–83"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 122.1
+  title: "Вкушая прему, Господь учит ей и раздаёт её всем без разбора — Он самый милостивый из аватар; Его деяния понятны лишь по Его милости, в кругу преданных"
+  summary: "Вкушая прему, Господь учил ей Своих преданных и раздавал это сокровище всем без разбора; капли этого океана не получить даже Брахме, а Он раздал его миру — нет никого милостивее Его. Его удивительные деяния понятны лишь по Его милости, и обсуждать их следует в кругу Его преданных, со слугами Его слуг."
+  persons: ["@mahaprabhu", "@brahma"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, vaishnava]
+  cc: "Мадхья 2"
+  event: ev-tattva-chaitanya-gives-rare-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "81", to: "83"}
+
+- id: cc-1014
+  source: cc
+  ref: "Мадхья 2.84–95"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 995.1
+  title: "Сокровище лил Сварупы Дамодары через Рагхунатху Даса — в этой книге; ответ критикам о санскритских шлоках; старость автора; поклон и колофон"
+  summary: "Лилы Господа, хранимые в сердце Сварупы Дамодары, тот передал Рагхунатхе Дасу, а от него услышал и записал автор. Тем, кто сетует на обилие санскритских стихов, он отвечает: всем не угодить, а стихи объяснены простым языком; кто продолжает слушать, обретёт прему. Так кратко описана Антья-лила; автор, старый, с дрожащими руками, почти не видящий и не слышащий, надеется, если продлятся дни, описать её подробнее; он ничего не прибавил и не убавил, следуя Сварупе, Рупе и Рагхунатхе Дасу, и, по повелению вайшнавов Враджа, особенно Тхакура Харидаса, касается лишь капли этого океана."
+  persons: ["@krishnadasa-kaviraja", "@svarupa-damodara", "@raghunatha-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu", "@nityananda", "@advaita", "@haridasa-pandita-govinda"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 95 — «Тхакур Харидас» понят как Харидас Пандит, служитель Говинды во Вриндаване, по повелению которого написана книга (ЧЧ Ади 8); не Харидас Тхакур Намачарья."
+  themes: [author]
+  cc: "Мадхья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "84", to: "95"}
