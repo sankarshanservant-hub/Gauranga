@@ -1,0 +1,300 @@
+# «Шри Чайтанья-бхагавата», Антья-кханда 1–10 (исполнитель cb-a). Записи по порядку изложения; формат — README.md.
+
+# ---------- Антья 1 ----------
+- id: cb-3001
+  source: cb
+  ref: "Антья 1, 1–6, 291"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: PX
+  order: 300
+  title: "Мангала Антья-кханды: поклон Гауре и Нитьянанде"
+  summary: "Автор поклоняется братьям Чайтанье и Нитьянанде, Владыке Вайкунтхи, пришедшему царём санньяси, и Его преданным и призывает слушать, как Гаурачандра пришёл в Нилачалу; в конце главы — подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "1", to: "6"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "291", to: "291"}
+
+- id: cb-3002
+  source: cb
+  ref: "Антья 1, 7–25"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P08
+  order: 45
+  title: "Ночь в Катве: Господь и Кешава Бхарати танцуют в киртане"
+  summary: "Приняв санньясу, Господь велит Мукунде петь и всю ночь танцует, роняя данду и камандалу; Он обнимает Своего гуру, и Кешава Бхарати, отбросив данду, в преме танцует и катается по земле; на рассвете Господь просит отпустить Его в лес искать Кришначандру, и Бхарати идёт с Ним."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@mukunda-datta"]
+  places: ["#katwa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 20: автор кланяется Кешаве Бхарати, ибо Владыка вселенных стал его учеником (по воле Господа, ради лилы)."
+  themes: [kirtan, ecstasy, sannyasa]
+  bhava: [sannyasi]
+  event: ev-keshava-bharati-dances-katwa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "7", to: "25"}
+
+- id: cb-3003
+  source: cb
+  ref: "Антья 1, 26–32"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 20
+  title: "Господь отпускает Чандрашекхару в Навадвипу"
+  summary: "Господь в слезах обнимает Чандрашекхару: «Скажи вайшнавам, что Я ушёл в лес; Я не покину твоего сердца — ты Мой отец, Я твой сын»; Чандрашекхар падает без чувств и, очнувшись, идёт в Навадвипу."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya"]
+  places: ["#katwa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.3.11–19"
+  themes: [separation, sannyasa]
+  event: ev-chandrashekhara-sent-back
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "26", to: "32"}
+
+- id: cb-3004
+  source: cb
+  ref: "Антья 1, 33–50"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 30
+  title: "Скорбь Навадвипы; небесный голос утешает преданных"
+  summary: "Весть «Господь ушёл в лес» повергает преданных в горе: Адвайта падает замертво и грозит броситься в Гангу, Шачи застывает, как кукла; когда все готовы расстаться с жизнью, небесный голос велит им служить Кришне — через несколько дней Господь вернётся; преданные утешаются именем и не отходят от Шачи."
+  persons: ["@chandrashekhara-acharya", "@advaita", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.4.1"
+  themes: [separation, celestial, family]
+  event: ev-navadvipa-lament-after-sannyasa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "33", to: "50"}
+
+- id: cb-3005
+  source: cb
+  ref: "Антья 1, 51–73"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 10
+  title: "Путь на запад; киртан в Радха-деше"
+  summary: "Господь идёт на запад с Кешавой Бхарати, Говиндой, Нитьянандой, Гададхарой и Мукундой; плачущих последователей Он отсылает домой воспевать имя Кришны; в Радха-деше, видя пасущихся коров, Он танцует и поёт «Хари», собираясь уединиться в лесу у Вакрешвары; толпы идут за Ним, даже грешники плачут от премы."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@govinda-servant", "@nityananda", "@gadadhara-pandita", "@mukunda-datta"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3; Мурари 3.3.1–18"
+  notes: "Говинда (ст. 52) — по-видимому, слуга Господа (@govinda-servant); отождествление условно."
+  themes: [kirtan, ecstasy, pilgrimage]
+  bhava: [sannyasi]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "51", to: "73"}
+
+- id: cb-3006
+  source: cb
+  ref: "Антья 1, 74–95"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 11
+  title: "Ночной плач в поле; поворот от Вакрешвары к Нилачале"
+  summary: "Ночью Господь тайно уходит из дома брахмана; преданные находят Его в поле плачущим «О Кришна, Мой возлюбленный!», и Мукунда начинает киртан; за двенадцать километров до Вакрешвары Господь внезапно поворачивает на восток: «Сам Джаганнатха велел Мне идти в Нилачалу»; автор: Господь ходил к Вакрешваре, чтобы благословить Радха-дешу."
+  persons: ["@mahaprabhu", "@mukunda-datta", "@jagannatha-deity"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3"
+  themes: [separation, ecstasy, pilgrimage]
+  bhava: [devotee]
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "74", to: "95"}
+
+- id: cb-3007
+  source: cb
+  ref: "Антья 1, 96–108"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 15
+  title: "Край без имени Кришны; пастушок поёт «Хари»"
+  summary: "В краю, где никто не слышал киртана и не повторял имени Кришны, Господь хочет оставить тело; вдруг благочестивый мальчик-пастушок поёт имя Хари; узнав, что до Ганги три часа пути, Господь говорит: «Таково величие Ганги — её ветерок приносит славу Господа»."
+  persons: ["@mahaprabhu"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3"
+  divergence: "По ЧЧ пастушки по наущению Нитьянанды указывают дорогу к Ганге, которую Господь принимает за Ямуну."
+  themes: [kirtan, ecstasy]
+  teaching: [holy-name]
+  event: ev-cowherd-boy-haribol-radha-desha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "96", to: "108"}
+
+- id: cb-3008
+  source: cb
+  ref: "Антья 1, 109–123"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 17
+  title: "Омовение в Ганге и молитвы Господа Ганге"
+  summary: "Господь спешит к Ганге, как безумный лев, и на закате омывается в ней с Нитьянандой, пьёт её воду и славит её: она — сама сладость премы, её имя даёт служение Вишну, по её милости имя Кришны нисходит на уста; Ганга смущается — ведь она берёт начало у Его стоп."
+  persons: ["@mahaprabhu", "@nityananda", "@ganga-devi"]
+  places: ["#ganga"]
+  kind: lila
+  authority: A
+  notes: "Ст. 122: Господь, из чьих стоп исходит Ганга, славит её — черта этого воплощения (бхакта-бхава)."
+  themes: [ecstasy, pilgrimage]
+  bhava: [devotee]
+  event: ev-lord-praises-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "109", to: "123"}
+
+- id: cb-3009
+  source: cb
+  ref: "Антья 1, 124–145"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 36
+  title: "Господь посылает Нитьянанду в Навадвипу; экстазы Нитьянанды в пути"
+  summary: "Господь велит Нитьянанде идти в Навадвипу утешить Шриваса и других и привести их в Шантипур, в дом Адвайты, а Сам идёт в Пхулию к Харидасу; Нитьянанда в пути играет на флейте под кадамбой, пьёт молоко коров, как телёнок, плачет и смеётся и, в бхаве Ананты, плывёт по Ганге до гхата Господа в Навадвипе."
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa", "@haridasa-thakura"]
+  places: ["#ganga", "#navadvipa", "#phulia"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3; Мурари 3.4.2–4"
+  themes: [ecstasy, krishna-lila]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-nityananda-brings-navadvipa-to-shantipura
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "124", to: "145"}
+
+- id: cb-3010
+  source: cb
+  ref: "Антья 1, 146–176"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 38
+  title: "Нитьянанда прерывает пост Шачи"
+  summary: "Нитьянанда застаёт Шачи постящейся двенадцатый день: в разлуке, как Яшода, она спрашивает встречных, не из Матхуры ли они; Нитьянанда утешает её: её сын — Тот, Кого ищут Веды, и Он обещал её хранить; «Когда ты постишься, постится и Кришна — приготовь, Я голоден»; Шачи подносит пищу Кришне, кормит Нитьянанду и вайшнавов и лишь затем ест сама; все собираются в путь."
+  persons: ["@nityananda", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [family, separation, prasada]
+  event: ev-shachi-breaks-fast-nityananda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "146", to: "176"}
+
+- id: cb-3011
+  source: cb
+  ref: "Антья 1, 177–207"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 42
+  title: "Переправа толп в Пхулию"
+  summary: "Весть о санньясе и имени «Шри Кришна Чайтанья» облетает Навадвипу; стар и млад, даже прежние хулители, слепые и хромые, идут в Пхулию; не хватает лодок — переправляются на плотах, горшках и банановых стволах, лодки переворачиваются, но по милости Господа все достигают берега; Господь, сияя как миллионы лун и воспевая маха-мантру, выходит к ним и одаривает каждого взглядом, а затем идёт в Шантипур."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#ganga", "#phulia"]
+  kind: lila
+  authority: A
+  themes: [mercy, kirtan, sannyasa]
+  teaching: [holy-name]
+  event: ev-crowds-cross-ganga-phulia
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "177", to: "207"}
+
+- id: cb-3012
+  source: cb
+  ref: "Антья 1, 208–212"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 45
+  title: "Адвайта встречает Господа в Шантипуре"
+  summary: "Увидев Владыку Своей жизни, Адвайта обнимает Его стопы, омывает их слезами и падает без чувств; Господь поднимает и обнимает Его, и дом Ачарьи наполняется блаженством."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3; Мурари 3.4.12–23"
+  themes: [ecstasy, family]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "208", to: "212"}
+
+- id: cb-3013
+  source: cb
+  ref: "Антья 1, 213–220"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 46
+  title: "Мальчик Ачьютананда у стоп Господа"
+  summary: "Нагой, покрытый пылью малыш Ачьютананда, сын Адвайты, со смехом приходит и падает к стопам Господа; Господь берёт его на колени: «Адвайта — Мой отец, значит, мы братья»; Ачьюта отвечает: «По Своей воле Ты стал всем другом, а Веды зовут Тебя отцом всего»; все дивятся: что за великая душа пришла в облике ребёнка."
+  persons: ["@mahaprabhu", "@achyutananda", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [revelation, family]
+  teaching: [gaura-tattva]
+  event: ev-achyuta-child-meets-sannyasi-lord
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "213", to: "220"}
+
+- id: cb-3014
+  source: cb
+  ref: "Антья 1, 221–248"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 45.5
+  title: "Нитьянанда приводит преданных; киртан в доме Адвайты"
+  summary: "Нитьянанда приходит с преданными во главе со Шривасом; они в слезах обнимают стопы Господа, и Он обнимает каждого; начинается киртан, как в Навадвипе: Господь танцует, Нитьянанда обнимает Его, Адвайта тайком берёт пыль Его стоп, преданные падают друг на друга и берут пыль стоп друг друга."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3; Мурари 3.4.12–23"
+  divergence: "Шачи в этой главе ЧБ к Шантипуру прямо не названа (по ЧЧ и Мурари она там)."
+  themes: [kirtan, ecstasy]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "221", to: "248"}
+
+- id: cb-3015
+  source: cb
+  ref: "Антья 1, 249–276"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 47
+  title: "Господь на троне Вишну: «Я — Кришна, Рама и Нараяна»"
+  summary: "Явив Свою природу, Господь садится на трон Вишну и говорит преданным со сложенными руками: «Я — Кришна, Рама, Нараяна, Матсья, Курма… Нилачала-чандра; Я спас Драупади и Пандавов, поднял Говардхан; нет никого дороже Моих преданных, Я подвластен им; вы — Мои спутники из рождения в рождение, Я пришёл ради вас и не оставлю вас ни на миг»; преданные плачут и падают ниц."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@srivasa"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [revelation, mercy]
+  bhava: [aishvarya, krishna]
+  teaching: [gaura-tattva, vaishnava]
+  event: ev-shantipura-mahaprakasha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "249", to: "276"}
+
+- id: cb-3016
+  source: cb
+  ref: "Антья 1, 277–290"
+  file: "chaitanya-bhagavata/ed/CB_Antya01.md"
+  period: P09
+  order: 48
+  title: "Омовение, Туласи и трапеза с преданными в доме Адвайты"
+  summary: "Скрыв величие, Господь купается с преданными в Ганге, поливает Туласи и обходит её, кланяется в храме Вишну и садится есть с Нитьянандой в кругу преданных — словно Кришна и Баларама с пастушками; после трапезы даже старые преданные, как дети, бросаются к Его остаткам."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 3; Мурари 3.4.12–23"
+  themes: [prasada, krishna-lila]
+  bhava: [sakha]
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "277", to: "290"}

@@ -1,0 +1,73 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Антья-кханда 1–10 (исполнитель cb-a). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-keshava-bharati-dances-katwa
+  title: "Ночь после санньясы: Кешава Бхарати танцует с Господом"
+  title_en: "The night after sannyasa: Keshava Bharati dances with the Lord"
+  period: P08
+  order: 45
+  years: [1510, 1510]
+  cb: "Антья 1.7–25"
+  themes: [kirtan, ecstasy, sannyasa]
+  notes: "Сразу после санньясы Господь велит Мукунде петь и танцует всю ночь; обнятый Им Кешава Бхарати, бросив данду и камандалу, танцует в преме; на рассвете Бхарати идёт с Господом."
+
+- id: ev-cowherd-boy-haribol-radha-desha
+  title: "Мальчик-пастушок поёт «Хари»: близость Ганги"
+  title_en: "A cowherd boy chants 'Hari': the nearness of the Ganga"
+  period: P09
+  order: 15
+  years: [1510, 1510]
+  cc: "Мадхья 3"
+  cb: "Антья 1.96–108"
+  themes: [ecstasy, kirtan, pilgrimage]
+  notes: "В краю, где не слышали имени Кришны, Господь хочет оставить тело; пастушок вдруг поёт «Хари», и Господь, узнав, что до Ганги три часа пути, славит её влияние. Ср. ЧЧ Мадхья 3 (пастушки, «Хари-бол»)."
+
+- id: ev-lord-praises-ganga
+  title: "Господь омывается в Ганге и возносит ей молитвы"
+  title_en: "The Lord bathes in the Ganga and offers her prayers"
+  period: P09
+  order: 17
+  years: [1510, 1510]
+  cb: "Антья 1.109–123"
+  themes: [ecstasy, pilgrimage]
+  notes: "На закате Господь с Нитьянандой входит в Гангу, пьёт её воду и славит её: её имя даёт бхакти Вишну и имя Кришны на устах; Ганга смущается — ведь она исходит из Его стоп."
+
+- id: ev-shachi-breaks-fast-nityananda
+  title: "Нитьянанда прерывает двенадцатидневный пост Шачи"
+  title_en: "Nityananda ends Shachi's twelve-day fast"
+  period: P09
+  order: 38
+  years: [1510, 1510]
+  cb: "Антья 1.146–176"
+  themes: [family, separation, prasada]
+  notes: "Шачи, в разлуке подобная Яшоде, двенадцать дней не ест; Нитьянанда утешает её («твой сын — Тот, Кого ищут Веды»), просит приготовить для Кришны и накормить Его; она подносит пищу Кришне, кормит Нитьянанду и вайшнавов и лишь тогда ест сама."
+
+- id: ev-crowds-cross-ganga-phulia
+  title: "Толпы Навадвипы переправляются через Гангу к Господу в Пхулию"
+  title_en: "Crowds from Navadvipa cross the Ganga to see the Lord at Phulia"
+  period: P09
+  order: 42
+  years: [1510, 1510]
+  cb: "Антья 1.177–207"
+  themes: [mercy, kirtan, sannyasa]
+  notes: "Узнав о санньясе и имени «Кришна Чайтанья», бесчисленные люди, даже прежние хулители, слепые, хромые и беременные, переправляются кто на лодках, кто на плотах, горшках и банановых стволах; Господь выходит к ним, воспевая имя, и одаривает всех милостивым взглядом."
+
+- id: ev-achyuta-child-meets-sannyasi-lord
+  title: "Дитя Ачьютананда: «Ты стал всем другом, а Веды зовут Тебя отцом»"
+  title_en: "The child Achyutananda: 'You became everyone's friend, though the Vedas call You father'"
+  period: P09
+  order: 46
+  years: [1510, 1510]
+  cb: "Антья 1.213–220"
+  themes: [revelation, family]
+  notes: "Покрытый пылью нагой мальчик-сын Адвайты падает к стопам Господа; на слова «Адвайта — Мой отец, значит, мы братья» отвечает мудростью не по годам."
+
+- id: ev-shantipura-mahaprakasha
+  title: "Господь на троне Вишну в доме Адвайты: «Я — Кришна, Рама, Нараяна…»"
+  title_en: "The Lord on Vishnu's throne in Advaita's house: 'I am Krishna, Rama, Narayana…'"
+  period: P09
+  order: 47
+  years: [1510, 1510]
+  cb: "Антья 1.249–276"
+  themes: [revelation, mercy]
+  notes: "В Шантипуре Господь садится на трон Вишну, перечисляет Свои аватары и деяния, говорит, что подвластен преданным, и обещает никогда не покидать спутников; затем скрывает величие."
