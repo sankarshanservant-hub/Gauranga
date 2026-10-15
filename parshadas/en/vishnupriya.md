@@ -24,11 +24,11 @@ The wedding itself he describes in detail in the fifteenth chapter of the Adi-kh
 
 He passes at once to the Lord's victory over the digvijayi; beyond this the “Charitamrita” says not a word about
 Vishnupriya. The matchmaking and the wedding are described by Murari Gupta in his “Kadacha” (first prakrama, sargas
-13–14), and in particular detail by Lochana Dasa in the “Chaitanya-mangala” (Adi-khanda, chapter 6); in Lochana Dasa's
+13–14), and in particular detail by Lochana Dasa in the “Chaitanya-mangala” (Adi-khanda, parts 13–14); in Lochana Dasa's
 poem Vishnupriya appears in many other places as well, and at its very beginning, among the invocations, he glorifies
 her:
 
-“I glorify Vishnupriya-ma, [the queen] of Navadvipa: her ornament is the Lord's crimson feet.” (CM, Sutra-khanda)
+“I glorify Vishnupriya-ma, [the queen] of Navadvipa: her ornament is the Lord's crimson feet.” (CM, Sutra-khanda, part 1, v. 22)
 <!-- F59 F60 Q13 Q3 -->
 
 ## The Daughter of the Raja Pandita
@@ -67,7 +67,7 @@ resolved to have Him married again. <!-- F15 -->
 
 She sent a servant for Kashinatha Pandita, a well-known matchmaker of Navadvipa — in Krishna-lila, according to the
 “Gaura-ganoddesha-dipika” (50), the brahmana whom King Satrajit sent to Krishna to propose the marriage of
-Satyabhama; he is called Kulaka[^4]. Shachi herself put the match to him: “Speak to the raja-pandita; if he wishes, let him give his daughter
+Satyabhama[^4]. Shachi herself put the match to him: “Speak to the raja-pandita; if he wishes, let him give his daughter
 to my Nimai.” Yet she was anxious whether so eminent a man would give his daughter to the son of poor parents, who was
 reputed to be eccentric besides. “Thakurani,” the matchmaker replied, “if not to Nimai Pandita, to whom else should he
 give her?” Delighted, he promised to arrange everything quickly and set off at once for Sanatana's house, repeating the
@@ -94,12 +94,15 @@ and she answered: “I have done all I could; the rest is in the hands of Sri Ha
 when everything was settled His mother told Him, and He consented, and the people of Navadvipa rejoiced to hear that Nimai
 Pandita was to marry. <!-- F23 F24 F25 F26 -->
 
-Murari Gupta places in Sanatana's heart the thought that, receiving such a husband as Vishvambhara, his daughter would
-make her name — “dear to Vishnu” — true, as Rukmini obtained Krishna (“Kadacha” 1.13.13–14). Lochana Dasa repeats this
-thought:
+Murari Gupta and Lochana Dasa add how the agreement was sealed. After waiting a few days, Sanatana himself sent a
+brahmana to Shachi to say that he was ready to give his daughter to Vishvambhara; Shachi gladly replied that she had long
+desired this union, and the delighted messenger foretold that, gaining such a husband, Vishnupriya would make her name —
+“dear to Vishnu” — true, and Vishvambhara would be as blissful as Krishna on obtaining Rukmini (“Kadacha” 1.13.8–15). In
+Lochana Dasa he says:
 
 “Vishnupriya will obtain a husband like Vishvambhara — and the name Vishnupriya (‘beloved of Vishnu’) will become true for
-her. As Rukmini obtained Sri Krishna as her husband, so it will be with her.” (CM, Adi 6) <!-- F61 Q4 -->
+her. As Rukmini obtained Sri Krishna as her husband, so it will be with her.” (CM, Adi-khanda, part 13, vv. 40–41)
+<!-- F61 Q4 -->
 
 ## The Wedding
 The Lord's students rejoiced to hear of the wedding. All the expenses were taken on by Buddhimanta Khan — a neighbour and
@@ -121,9 +124,9 @@ Some, greedy for gifts, joined the line again and again, but Gauranga ordered th
 the sandal, garlands and betel did not diminish; what fell on the ground alone would have sufficed for five weddings (cf.
 CB, Adi 15). Sanatana came too — with auspicious gifts, with relatives, friends and brahmanas, to music and singing — and
 anointed the Lord with fragrances (gandha-adhivasa). Gaurasundara performed the prescribed rites, worshipping Vishnu and
-the ancestors; Shachi with the women worshipped the Ganga and the goddess Shashthi and gave generously to the women;
-Vishnupriya's mother too rejoiced with her neighbours. And the Lord bestowed food, cloth and wealth on the brahmanas,
-honouring each according to his worth. <!-- F35 F36 F37 -->
+the ancestors; Shachi with the women worshipped the Ganga and the goddess Shashthi and gave generously to the women — rice,
+bananas, ghee, betel and vermilion; by the Lord's power the gifts sufficed in abundance for all; Vishnupriya's mother too rejoiced with her neighbours. And the Lord bestowed food, cloth and wealth on the brahmanas,
+honouring each according to his worth. <!-- F35 F36 F37 F167 -->
 
 The wedding ceremonies fell on the following day. Towards evening the devotees adorned the Lord: sandal paste and fragrant
 oils, a crescent of sandal on His forehead, a crown, garlands, garments, collyrium on His eyes, on His wrist a thread with
@@ -142,7 +145,8 @@ At dusk, in the hour of godhuli, when the herds return home, the groom arrived a
 and his wife received their son-in-law with the varana rite and blessed Him; Sanatana helped the Lord down from the
 palanquin, led Him by the hand to the seat of honour, offered Him water to wash His feet, fragrance for the mouth,
 garments and ornaments. His wife with the women placed on the Lord's head a wreath of fresh ears of grain and kusha,
-performed arati with a seven-wicked lamp, sang hymns, showered Him with rice and blew the conch. <!-- F44 F45 F46 -->
+performed arati with a seven-wicked lamp, sang hymns, showered Him with rice and blew the conch. All the rites were
+performed both according to the injunctions of the shastras and according to folk custom. <!-- F44 F45 F46 F165 -->
 
 Then Vishnupriya, adorned with ornaments, was brought to the place of the wedding. Clad in silks and jewels she seemed a
 celestial maiden, while Nimai in His wedding attire outshone Cupid in beauty. Seven times she circled the Lord — her
@@ -159,6 +163,8 @@ flowers, while the gods headed by Brahma invisibly showered them with flowers fr
 Smiling gently, the Lord also offered a garland to His bride. After this Lakshmi and Narayana joyfully began to shower each
 other with flowers.” (CB, Adi 15.176–178) <!-- F50 Q5 -->
 
+All eyes were fixed on the divine couple. The women gazed in admiration at Nimai, yet not one of them felt the least
+envy at Vishnupriya's good fortune, and in the women's quarters the ulu-dhvani and the sound of conches never ceased.
 Playful banter broke out between the families of the bride and groom, and the Lord's smile delighted everyone. Then
 Sanatana, having washed his feet and rinsed his mouth, performed the kanyadana — gave his daughter to the Lord — and with
 many gifts gave her dowry: many cows, land and servants. Vrindavana Dasa speaks of the meaning of this gift:
@@ -167,7 +173,7 @@ many gifts gave her dowry: many cows, land and servants. Vrindavana Dasa speaks 
 
 After this the final fire sacrifice was performed, and the newly-weds were led to new chambers in the raja-pandita's
 mansion — that night Sanatana's house became Vaikuntha: Lakshmi and Narayana passed an auspicious night in the bridal
-chamber, on a bed adorned with flowers. <!-- F51 F52 F53 -->
+chamber, on a bed adorned with flowers. <!-- F166 F51 F52 F53 -->
 
 Sanatana was granted a good fortune known only to the Lord's great fathers-in-law — Janaka, who gave Sita to Rama, and
 Bhishmaka, who gave Rukmini to Krishna:
@@ -195,7 +201,7 @@ enjoyment,” for the only enjoyer is Narayana. <!-- F58 I1 -->
 
 ## Life with the Lord in Navadvipa
 Some time after the wedding the Lord, having completed His studies and now occupied with teaching, set out for Gaya (CM,
-Adi 7), and on His return from there He revealed to Navadvipa His love for Krishna. Of the years when kirtana resounded in
+Adi-khanda, part 15), and on His return from there He revealed to Navadvipa His love for Krishna. Of the years when kirtana resounded in
 Navadvipa the primary sources preserve little about Vishnupriya. When Mahaprabhu, in the house of Chandrashekhara
 Acharyaratna, played the role of Lakshmi in a sacred drama (CB, Madhya 18), Shachi came to watch Him together with
 Vishnupriya. <!-- F62 F63 -->
@@ -288,7 +294,7 @@ By this conversation Gaurasundara was teaching not Vishnupriya alone: His words 
 intoxicated with the thirst for enjoyment — the true husband of all is one, Krishna. So too was fulfilled what had been
 foretold of her name at the matchmaking: the name “Vishnupriya” was to become true. <!-- I5 -->
 
-Then the Lord, Himself the Master, withdrew His maya, which had hidden His divinity from her[^10] — and her heart grew
+Then the Lord, Himself the Master, drew back the veil of His yogamaya, which had hidden His divinity from her[^10] — and her heart grew
 clear:
 
 “Grief and sorrow went away, her breast filled with joy — and suddenly she sees [Him] four-armed.” (CM, Madhya-khanda,
@@ -524,7 +530,7 @@ pastimes have different abodes. <!-- F108 F109 -->
 Vrindavana Dasa compares her with Rukmini: the union of Vishnupriya and Nimai is like the union of Rukmini and Krishna
 (CB, Adi 15.59); Murari Gupta and Lochana Dasa say the same, and her father's good fortune is likened to that of Bhishmaka,
 Rukmini's father. For comparison: the father of the Lord's first consort, Vallabhacharya, is called by the
-“Chaitanya-bhagavata” (Adi 10.48) and the “Gaura-ganoddesha-dipika” (44) both Janaka and Bhishmaka, and his daughter
+“Chaitanya-bhagavata” (Adi 10.48) and the “Gaura-ganoddesha-dipika” (44–45) both Janaka and Bhishmaka, and his daughter
 Lakshmipriya — Lakshmi, the single form of Janaki and Rukmini. And since both Satyabhama and Rukmini are manifestations of
 the daughter of Vrishabhanu, Sri Radha, Vishnupriya too may be called her manifestation — but, as will be said below, not
 Radha Herself. <!-- F111 F112 F113 -->
@@ -601,7 +607,7 @@ The true form of this worship was revealed by Narottama Dasa Thakura. He dispell
 not Vishnu but a living being within varnashrama, a “bhagavad-bhakta,” a “so-called great man” or merely a guru — the
 founder of one of the sampradayas — and in Kheturi he revealed the bhu-shakti Vishnupriya together with Gaura-Narayana.
 There she assists Gaurasundara's separation, whose form in separation is imbued with the bhava of the gopis; in Their
-relationship there is not a shadow of enjoyment. <!-- F134 -->
+relationship there is no sambhoga, no pastime of union: she serves His separation. <!-- F134 -->
 
 From his guru Lokanatha Gosvami Narottama had received the order to establish Deities of Radha-Krishna and Gauranga.
 Returning to Kheturi, he prepared five pairs of Radha-Krishna Deities, while the Deities of Gaura and Vishnupriya he
@@ -654,8 +660,10 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
 [^1]: According to other information, Vishnupriya was the daughter of the priest (purohita) of a local zamindar.
 [^2]: In the opinion of some, Durgadasa Mishra was not the grandfather but the father of Vishnupriya.
 [^3]: According to one biography — two or three times a day.
-[^4]: So in most biographers; according to one retelling of the “Chaitanya-mangala,” Shachi arranged the second marriage
-    through Dvija Kashishvara.
+[^4]: “Kulaka” in this verse is not a name but the word for “matchmaker”; one biography takes it as the brahmana's name.
+    Another, retelling the “Chaitanya-mangala,” calls the matchmaker Dvija Kashishvara; but in the poem itself he is
+    Kashinatha, “the best of brahmanas” (Adi-khanda, part 13, vv. 5, 8, 25), and so too in Murari Gupta (“Kadacha”
+    1.13.2–7); Srila Bhaktisiddhanta in his summary of this chapter calls him Kashinatha Mishra.
 [^5]: The order is given differently: in the “Chaitanya-bhagavata” (Adi 15.176–178) the exchange of garlands comes first,
     then the flowers; one biography in its own retelling names the flowers first and then the garlands.
 [^6]: The words “whoever hears of the Lord's wedding is freed from the bonds of the world; Lakshmi sat beside the Lord, and
@@ -673,7 +681,7 @@ there awakens the longing to enter Gaura's home and to serve, even as a broom, i
     but all in it apart from Bhagavan and the Vaishnavas is perishable. Likewise “the soul in all is one” is not monism: all
     souls are one in nature, for all are the Lord's energy (prakriti) and in themselves neither men nor women; the seeming
     “two” arises from identification with the body. The only Purusha, the enjoyer, is Krishna.
-[^10]: That is, yogamaya — His internal energy, which for the sake of the lila hid His divinity from Vishnupriya. The Lord is
+[^10]: The “Chaitanya-mangala” says “maya”: here this is yogamaya, the Lord's internal energy, which for the sake of the lila hid His divinity from Vishnupriya. The Lord is
     not subject to maya; the “grief born of maya” is Vishnupriya's grief, not ignorance on the Lord's part.
 [^11]: So in the “Chaitanya-mangala”; in one of the biographies that retell it, the Lord only bestows on Vishnupriya a
     merciful glance, “as if embracing her with His eyes.”
