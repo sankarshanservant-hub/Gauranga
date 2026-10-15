@@ -1532,8 +1532,7 @@ Among all the Lord's eternal associates Nityananda is the first:
 “Sri Nityananda Avadhuta is the chief among all the eternal associates of Sri Chaitanya Mahaprabhu. In the bliss of prema
 He serves Sri Chaitanya as a servant, and this intoxication of love makes Him a madman.” (CC, Adi 6.47) <!-- Q57 -->
 
-Sri Chaitanya is glorified both as “the life of Nityananda” and as “the life of Gadadhara” (the verse of the
-“Charitamrita” “jaya jaya nityānanda-gadādharera jīvana…”). Srila Bhaktisiddhanta explains: devotees who wish to worship
+Sri Chaitanya is glorified both as “the life of Nityananda” and as “the life of Gadadhara” (“Chaitanya-bhagavata”, Madhya 9.3: “Glory to Him, the very life of Nityananda and Gadadhara!”). Srila Bhaktisiddhanta explains: devotees who wish to worship
 Radha-Govinda in madhura-rasa take shelter of Gadadhara; those not so inclined take shelter of Nityananda and serve with
 pure devotion in His mood. And without Advaita's mercy, sings Narottama Dasa (“dayā karo sītāpati…”), one attains the
 service of neither Chaitanya nor Nityananda. <!-- F434 F435 Q4 -->
