@@ -30,3 +30,26 @@
   cb: ""
   calendar: "магха, Макара-санкранти"
   themes: [mercy, pilgrimage, festival]
+
+# Мадхья 19 — милость к Рупе в Праяге.
+- id: ev-raghupati-upadhyaya
+  title: "Рагхупати Упадхьяя читает Господу свои стихи о Кришне"
+  title_en: "Raghupati Upadhyaya recites his verses on Krishna to the Lord"
+  period: P13
+  order: 183.3
+  cc: "Мадхья 19.92–107"
+  cb: ""
+  themes: [teaching, ecstasy, krishna-lila]
+  teaching: [prema]
+  notes: "В Адаиле, в доме Валлабхи Бхатты: высший облик — Шьяма, обитель — Матхура, возраст — кайшора, раса — мадхурья (Падьявали 82)."
+
+- id: ev-rupa-sanatana-vrindavana-vairagya
+  title: "Отречённая жизнь Рупы и Санатаны во Вриндаване (рассказы паломников)"
+  title_en: "The renounced life of Rupa and Sanatana in Vrindavana (as told by pilgrims)"
+  period: P14
+  order: 40
+  date_conf: оценка
+  date_basis: "время не названо: рассказы приходивших в Пури из Вриндавана при жизни Господа"
+  cc: "Мадхья 19.123–134"
+  cb: ""
+  themes: [sannyasa, kirtan]
