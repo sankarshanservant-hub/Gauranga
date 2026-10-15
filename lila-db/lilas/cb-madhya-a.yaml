@@ -1306,3 +1306,160 @@
   event: ev-shridhara-kholavecha
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "189", to: "248"}
+
+# ---------- Мадхья 10. Махапракаша (продолжение): милость Мурари, Харидасу, Адвайте, Мукунде ----------
+
+- id: cb-1068
+  source: cb
+  ref: "Мадхья 10, 1–33"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.57
+  title: "Мурари видит Господа Рамачандрой с Ситой и Лакшманой"
+  summary: "Благословив Шридхару, Господь зовёт «Нара!» и предлагает Адвайте благо, но тот уже доволен; Гададхара подаёт бетель, Нитьянанда держит зонт; Господь велит Мурари: «Узри Мой образ!» — и Мурари видит Его тёмным, как трава дурва, лучником в позе героя, с Ситой и Лакшманой и вожаками обезьян: «Помнишь, как Равана обжёг тебя, а ты спалил его столицу? Я — Рамачандра, ты — Хануман; поклонись стопам Ситы»; Мурари плачет и просит лишь всегда петь славу Господа и в каждой жизни общаться с Его слугами; автор: Господь Мурари незримо (гупта) пребывает в его сердце — отсюда имя «Мурари Гупта»."
+  persons: ["@mahaprabhu", "@murari-gupta", "@advaita", "@gadadhara-pandita", "@nityananda", "@rama"]
+  places: ["#house-srivasa"]
+  kind: vision
+  authority: A
+  parallels: "Лочан, Мадхья-кханда, «Према-дана-лила» (Мурари видит Раму)"
+  notes: "Ст. 10–11, 23–24, 29–30 в издании нет."
+  themes: [revelation, mercy]
+  bhava: [rama, aishvarya]
+  event: ev-murari-sees-rama-mahaprakasha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "1", to: "33"}
+
+- id: cb-1069
+  source: cb
+  ref: "Мадхья 10, 34–111"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.58
+  title: "Милость Харидасу: шрамы на спине Господа; молитва о памятовании и об остатках пищи вайшнавов"
+  summary: "Господь зовёт Харидаса: «Ты дороже Мне Моего тела, мы с тобой одного сословия; когда яваны истязали тебя, Я хотел пустить в ход диск, но ты молился об их благе — и Я закрыл твою спину Своим телом: вот шрамы»; Харидас без чувств катается по двору и молит: «Я падший — кто коснётся меня, должен омыться; памятование спасло Драупади, Парвати, Прахладу, Пандавов от Дурвасы, Аджамилу, а я не помню Тебя; позволь мне всегда питаться остатками пищи Твоих слуг, быть собакой в доме вайшнава»; Господь: «Кто чтит тебя, чтит Меня; ты не оскорбил ни Меня, ни вайшнавов — дарую тебе чистую бхакти»; автор: вайшнав любого рождения выше всех; разделяющий вайшнавов по кастам — грешник."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@advaita", "@prahlada", "@parvati", "@durvasa", "@murari-gupta", "@shridhara"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17 (сутра: милость Харидасу)"
+  notes: "Ст. 38–39, 54, 61–62, 64–65, 93–94 в издании нет."
+  themes: [mercy, muslims, revelation]
+  bhava: [aishvarya]
+  teaching: [vaishnava, prasada-teaching, holy-name]
+  event: ev-haridasa-scars-mahaprakasha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "34", to: "111"}
+
+- id: cb-1070
+  source: cb
+  ref: "Мадхья 10, 112–165"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.59
+  title: "Господь напоминает Адвайте ночные объяснения «Гиты»: «сарватра пани-падам»"
+  summary: "Господь говорит Адвайте: «Помнишь ночь, когда Я заставил Тебя поесть? Не связав стих «Гиты» с бхакти, Ты лёг голодным, и Я пришёл во сне: Твой пост — Мой пост»; Он перечисляет, в какой день какой стих объяснял, и открывает ещё один: в Гите 13.14 верно не «сарватах пани-падам», а «сарватра пани-падам»; Адвайта плачет от счастья; автор: Адвайта — тайный ученик Чайтаньи, равный Бхагавану; кто хулит Чайтанью, называя себя последователем Адвайты, подобен Раване, чтившему Шиву и непочтительному к Раме, — истинный преданный Адвайты признаёт Гаурачандру Владыкой."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@shiva", "@rama"]
+  places: ["#house-srivasa"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 129–130: толкование Господа — «повсюду (сарватра) Его руки и ноги» вместо «со всех сторон (сарватах)»."
+  themes: [teaching, revelation]
+  teaching: [scripture, associates-tattva, gaura-tattva]
+  scriptures: ["Гита 13.14"]
+  event: ev-advaita-gita-dream
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "112", to: "165"}
+
+- id: cb-1071
+  source: cb
+  ref: "Мадхья 10, 166–173"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.6
+  title: "Благословения в махапракашу: милость невеждам; «пусть отец мой смягчится»"
+  summary: "Скрыв дверь к пути бхакти, открытую Адвайте, Господь раздаёт благословения: Адвайта просит милости для необразованных, нищих и падших, кто-то — чтобы отец, не пускающий его к Господу, смягчился; Господь улыбается и исполняет каждое слово."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 167–168, 171–172 в издании нет."
+  themes: [mercy]
+  bhava: [aishvarya]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "166", to: "173"}
+
+- id: cb-1072
+  source: cb
+  ref: "Мадхья 10, 174–263"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.7
+  title: "Мукунда за занавесью: «То с соломой, то с палкой»; «через миллионы жизней» — и прощение"
+  summary: "Мукунда, певец Господа, сидит за занавесью — Господь не зовёт его; Шриваса заступается, и Господь отвечает: «Он то с соломой в зубах поёт с преданными, то в другом обществе, читая «Йога-Васиштху», бьёт Меня палкой, ставя что-то выше бхакти, — это оскорбление бхакти»; Мукунда решает оставить тело, но, узнав, что увидит Господа через миллионы жизней, пляшет от счастья; Господь зовёт его: «Ты прожил миллионы жизней за миг своей верой; ты Мой певец»; Мукунда корит себя: Дурьодхана и Камса видели Господа без бхакти и погибли, Вьяса не знал покоя, пока Нарада не научил его бхакти; Господь: «Без бхакти встреча со Мной бесплодна, как для красильщика в Матхуре; когда бы Я ни пришёл, ты будешь Моим певцом»."
+  persons: ["@mukunda-datta", "@mahaprabhu", "@srivasa", "@advaita", "@kamsa", "@vyasa", "@narada"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.65; ЧЧ Ади 12.36"
+  notes: "Ст. 189: «изучает „Йога-Васиштху“ в обществе Адвайты» — до явления Господа (ср. ev-advaita-yoga-vasishtha-beating). Ст. 197–201, 218–227, 246–248 в издании нет."
+  themes: [mercy, offense, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-mukunda-danda-prasada
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "174", to: "263"}
+
+- id: cb-1073
+  source: cb
+  ref: "Мадхья 10, 264–287"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.75
+  title: "Итог махапракаши: каждый видит Господа по своей мантре; гордецы Навадвипы не видят ничего"
+  summary: "Так благословения получили все, кто молился; каждый преданный видел Вишвамбхара в том облике, которому поклонялся в сердце; слуги Шривасы и Мурари видели то, чего не увидели подвижники, санньяси и учёные бхаттачарьи Навадвипы, изучавшие «Гиту» и «Бхагавату», ибо Господь покоряется лишь любовному служению; Господь говорит: «Вы — Мои спутники в каждом рождении»."
+  persons: ["@mahaprabhu", "@srivasa", "@murari-gupta"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 283–284 в издании нет."
+  themes: [revelation, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "264", to: "287"}
+
+- id: cb-1074
+  source: cb
+  ref: "Мадхья 10, 288–298"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: P07
+  order: 113.8
+  title: "Гирлянда и бетель Господа — преданным; Нараяни получает остатки и плачет от любви"
+  summary: "Господь раздаёт преданным Свою гирлянду и остатки бетеля; маленькая Нараяни, дочь брата Шривасы, получает остатки Его трапезы, и все вайшнавы благословляют её; по слову Господа «Хочу услышать, как ты плачешь от блаженства Кришны» она плачет при имени Кришны — об этом помнят все вайшнавы и сегодня."
+  persons: ["@mahaprabhu", "@narayani", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.7.25–27"
+  themes: [prasada, mercy]
+  teaching: [prasada-teaching]
+  event: ev-narayani-remnants
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "288", to: "298"}
+
+- id: cb-1075
+  source: cb
+  ref: "Мадхья 10, 299–321"
+  file: "chaitanya-bhagavata/ed/CB_Madhya10.md"
+  period: PX
+  order: 174
+  title: "Слово автора: величие Адвайты и Нитьянанды — в служении Чайтанье"
+  summary: "Слава Адвайты в том, что Чайтанья — Его Владыка; Нитьянанда говорит лишь «Я — слуга Чайтаньи», и по Его милости постигают Гаурасундару; непочтительный к Нитьянанде обречён; Мадхья-кханда — нектар, горький для атеистов, как ним; санньяси, не принимающий Гауру, будет рождаться слепым, а птица, поющая имя Чайтаньи, достигнет Его обители."
+  persons: ["@vrindavana-dasa", "@advaita", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva, gaura-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "299", to: "321"}
