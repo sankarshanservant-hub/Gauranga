@@ -34,6 +34,7 @@
 | @gaura-deity-vishnupriya | Божество Махапрабху, которому служила Вишнуприя | the Deity of Mahaprabhu served by Vishnupriya | по Мурари 4.14.8 — проявленный облик Господа; после её ухода перенесено Вамшиваданой в Коладвип / Кулию (M 241, B 912) |
 | @gaura-vishnupriya-kheturi | Гаура и Вишнуприя — Божества Нароттамы | Gaura and Vishnupriya, Narottama's Deities | явились из амбара Випрадаса (БР 10.202); установлены в Кхетури, ныне в Гамбхиле |
 | @gaura-vishnupriya-mayapura | Гаура и Вишнуприя — Божества на месте явления Господа | Gaura and Vishnupriya, the Deities at the Lord's birthplace | установлены Бхактивинодой Тхакуром 21 марта 1894 г. в Майяпуре |
+| @gaura-gadadhara-champahatti | Гаура-Гададхара — Божества в Чампахатти | Gaura-Gadadhara, the Deities of Champahatti | древние Божества, которым служил Двиджа Ванинатха (Чампахатта, Ритудвипа, Навадвипа; B 141) |
 | **Семья** ||||
 | @shachi | Шачи | Shachi | мать |
 | @jagannatha-mishra | Джаганнатха Мишра | Jagannatha Mishra | отец, Пурандара |
@@ -54,6 +55,7 @@
 | @trailokyanatha-mishra | Трайлокьянатха | Trailokyanatha | младший брат Джаганнатхи Мишры («Према-виласа» 24) |
 | @sarvajaya | Сарваджая | Sarvajaya | сестра Шачи, жена Чандрашекхары Ачарьяратны («Гаудия-вайшнава-абхидхана») |
 | @durgadasa-mishra | Дургадас Мишра | Durgadasa Mishra | дед Вишнуприи (по иным — отец), отец Санатаны Мишры; не путать с @durgadasa-raya |
+| @vaninatha-gadadhara | Ванинатха, брат Гададхары Пандита | Vaninatha, Gadadhara Pandita's brother | младший брат Гададхары (T 44); тот ли это Двиджа Ванинатха из Чампахатти (B 141) — не сказано; не путать с @vaninatha-raya, @vaninatha-vasu |
 | **Спутники** ||||
 | @nityananda | Нитьянанда | Nityananda | Авадхута |
 | @advaita | Адвайта Ачарья | Advaita Acharya | |
@@ -318,6 +320,10 @@
 | @krishnadasa-sarakhela | Кришнадас Саркхел | Krishnadasa Sarakhela | младший брат Сурьядаса Пандита, твёрдо верил в Нитьянанду (ЧЧ Ади 11.25); не путать с @krishnadasa-badagachhi |
 | @raghunatha-vaidya | Рагхунатха Вайдья (Оджха) | Raghunatha Vaidya (Ojha) | спутник Нитьянанды на пути из Пури в Гауду (ЧБ Антья 5.231) |
 | @shrimati-virachandra | Шримати (жена Вирачандры) | Shrimati (Virachandra's wife) | дочь Ядунанданы (Ядунатхи) Ачарьи и Видьюнмалы из Джхаматпура; не путать с @radha |
+| @yadunatha-dasa-shakha | Ядунатха Дас, автор «Шакха-нирнаямриты» | Yadunatha Dasa, author of the Shakha-nirnayamrita | ученик Гададхары Пандита (T 50, 77, 97; B 740); не путать с @yadunatha-kavichandra |
+| @bhagavata-dasa-gadadhara | Бхагавата Дас (ученик Гададхары) | Bhagavata Dasa (Gadadhara's disciple) | ветвь Гададхары Пандита, ушёл во Вриндаван (ЧЧ Ади 12.81); соученик Бхугарбхи |
+| @uddhava-dasa-gadadhara | Уддхава Дас (ветвь Гададхары) | Uddhava Dasa (of Gadadhara's branch) | ЧЧ Ади 12.83 (в ВЧД 12.84); не путать с @uddhava (Враджа) и поэтом Уддхавой Дасом (Кришнаканта Маджумдар) |
+| @gangamata-gosvamini | Ганга-мата Госвамини | Gangamata Gosvamini | царевна Шачи из Путии, ученица Харидаса Пандита (преемство Гададхары Пандита); Ганга-мата-матх в Пури |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

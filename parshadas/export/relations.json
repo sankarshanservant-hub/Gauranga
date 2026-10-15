@@ -1,5 +1,591 @@
 [
  {
+  "from": "@gadadhara-pandita",
+  "type": "father",
+  "who": "@madhava-mishra",
+  "facts": [
+   "F14",
+   "F18",
+   "F41"
+  ],
+  "note": "Варендра-брахман, готра Кашьяпа; друг Пундарики Видьянидхи."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "mother",
+  "who": "@ratnavati",
+  "facts": [
+   "F14",
+   "F17"
+  ],
+  "note": "Почитала Шачи как старшую сестру (M)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "sibling",
+  "who": "@vaninatha-gadadhara",
+  "facts": [
+   "F15",
+   "F98"
+  ],
+  "note": "Младший брат (T); тот ли он Двиджа Ванинатха, служивший Гаура-Гададхаре в Чампахатти (B), — не сказано."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "neighbor",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F17"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F17",
+   "F30",
+   "F69"
+  ],
+  "event": "ev-gadadhara-receives-prema",
+  "note": "Просила его всегда быть рядом с Нимаем (F30); «иду повидать Шачи-мату» (F69)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F1",
+   "F5",
+   "F9",
+   "F19",
+   "F22",
+   "F28",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F56",
+   "F61",
+   "F65",
+   "F69",
+   "F71",
+   "F90",
+   "Q1",
+   "Q5"
+  ],
+  "note": "Неразлучный с детства; шакти Гаура-Кришны; Господь — «Гададхара-прананатха», «Гадаи-Гауранга». Испытание с Валлабхой (F65–F66), Каттак (F69–F71)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "guru",
+  "who": "@pundarika-vidyanidhi",
+  "facts": [
+   "F18",
+   "F37",
+   "F38",
+   "F42",
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "Q7"
+  ],
+  "event": "ev-gadadhara-initiation-pundarika",
+  "note": "Дикша в Навадвипе после раскаяния в сомнении; кто посоветовал — сам (T 53, M, B) или Господь (T 46) (F45); повторная мантра в Пури (F50). Вришабхану — отец Радхи (F49)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "siksha-guru",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F24",
+   "F25",
+   "Q10"
+  ],
+  "event": "ev-ishvara-puri-navadvipa",
+  "note": "Учил его своей «Кришна-лиламрите» в доме Гопинатхи Ачарьи."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "lineage-predecessor",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F48"
+  ],
+  "note": "Через Пундарику Видьянидхи (см. @madhavendra-puri F124, F137)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "friend",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F18",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F43",
+   "F45",
+   "F46",
+   "F47",
+   "F53"
+  ],
+  "note": "Земляк из Читтагонга; привёл его к Пундарике."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F61",
+   "F66",
+   "F104",
+   "F105"
+  ],
+  "note": "Знаток киртана рядом со знатоком «Бхагаваты» (F61); звал его к Господу в истории с Валлабхой (F66); по ГГД — определил его как Лакшми Враджа (F104)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F1",
+   "F6",
+   "F35",
+   "F52",
+   "F53",
+   "F60"
+  ],
+  "event": "ev-gopinatha-prasada-gadadhara",
+  "note": "См. @nityananda F155, F215, F224, F252–F254, F434."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F1",
+   "F26",
+   "F32"
+  ],
+  "event": "ev-visit-advaita",
+  "note": "Возражал, когда Адвайта поклонялся стопам юного Гауранги (B 727–728)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F63",
+   "F71",
+   "F72"
+  ],
+  "event": "ev-gadadhara-leaves-kshetra-sannyasa",
+  "note": "Господь поручил ему утешить Гададхару и вернуть в Пури."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@shuklambara",
+  "facts": [
+   "F27",
+   "F28",
+   "F32"
+  ],
+  "event": "ev-shuklambara-house-prema"
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@shriman-pandita",
+  "facts": [
+   "F27",
+   "F29"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F33",
+   "F34"
+  ],
+  "event": "ev-chandrashekhara-drama"
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@brahmananda-bharati",
+  "facts": [
+   "F34"
+  ],
+  "note": "Его «подруга» Супрабха в действе (ЧБ Мадхья 18.9, 102); в ЧБ — Брахмананда."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@vakreshvara",
+  "facts": [
+   "F61",
+   "F85"
+  ],
+  "note": "Слушал его «Бхагавату»; по иным — ветвь Гададхары."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F63"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F55",
+   "F59"
+  ],
+  "note": "Господь звал Санатану из Ямешвара-тоты (F59)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F55"
+  ],
+  "event": "ev-ramakeli-rupa-sanatana"
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F53"
+  ],
+  "event": "ev-journey-to-puri"
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F64",
+   "F65",
+   "F66",
+   "F67",
+   "Q16"
+  ],
+  "event": "ev-vallabha-bhatta-puri",
+  "note": "Посвящение в мантру Кишора-Гопалы (B 22; ЧЧ Антья 7.167 — с позволения Господа)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@bhugarbha",
+  "facts": [
+   "F75",
+   "F76",
+   "F77"
+  ],
+  "event": "ev-lokanatha-sent-to-vrindavana",
+  "note": "С позволения гуру ушёл с Локанатхой во Вриндаван (B 1073)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@bhagavata-dasa-gadadhara",
+  "facts": [
+   "F75"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@ananta-acharya",
+  "facts": [
+   "F78",
+   "F79",
+   "F80"
+  ],
+  "note": "Его ученик — Харидас Пандит; по Анубхашье — Судеви (B 964)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@achyutananda",
+  "facts": [
+   "F81",
+   "Q13"
+  ],
+  "note": "Ученик Гададхары по «Шакха-нирнаямрите» и B ≠ ученик Адвайты по Анубхашье."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@yadunatha-dasa-shakha",
+  "facts": [
+   "F82"
+  ],
+  "note": "Автор «Шакха-нирнаямриты»."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@uddhava-dasa-gadadhara",
+  "facts": [
+   "F83",
+   "Q13"
+  ],
+  "note": "Ветвь Гададхары."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@krishnadasa-brahmachari",
+  "facts": [
+   "F80"
+  ],
+  "note": "Служитель Мадана-Гопалы (B 1095)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "disciple",
+  "who": "@paramananda-bhattacharya",
+  "facts": [
+   "F86"
+  ],
+  "event": "ev-gopinatha-madhu-pandita",
+  "note": "B: «Парамананда Госвами», любимый ученик; вместе с Мадху Пандитом обрёл Гопинатху у Вамшивата. Отождествление с @paramananda-bhattacharya — вероятно."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F84",
+   "F68"
+  ],
+  "note": "Назван ветвью Гададхары (T 117)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F7",
+   "F74",
+   "F88"
+  ],
+  "note": "Последователь Гададхары, вошёл в его общество."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F74"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@haridasa-pandita-govinda",
+  "facts": [
+   "F78",
+   "F79",
+   "F80"
+  ],
+  "note": "Ученик его ученика Ананты Ачарьи."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@gangamata-gosvamini",
+  "facts": [
+   "F79"
+  ],
+  "note": "В его преемстве — через Харидаса Пандита."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F87"
+  ],
+  "note": "У B — «Хридаянанда»: Гададхара отдал его Гауридасу, и тот дал ему дикшу."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F87"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@madhu-pandita",
+  "facts": [
+   "F57",
+   "F86"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@mamu-thakura",
+  "facts": [
+   "F89"
+  ],
+  "note": "Служил Тота-Гопинатхе после него."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "protege",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F91",
+   "F92",
+   "F93"
+  ],
+  "event": "ev-srinivasa-gadadhara-puri",
+  "note": "Жил ради встречи с ним; учил его «Бхагавате» и отослал в Гауду. Весть о его уходе: M — сон-утешение; B — сон о Гаура-Гададхаре и повеление идти во Вриндаван (F93)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F88",
+   "F89",
+   "F97",
+   "Q15"
+  ],
+  "event": "ev-narottama-puri",
+  "note": "«Гададхара — мой род»; посетил его место поклонения в Пури."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F51",
+   "F103",
+   "F105"
+  ],
+  "note": "Пури Дас — пример о мантре (F51); автор ГГД."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F105"
+  ],
+  "note": "Песни, подтверждающие отождествление с Радхой (M)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F100"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F96",
+   "F101",
+   "F102",
+   "F103"
+  ],
+  "note": "B отвергает различение и противопоставление двух Гададхар; Дас — сияние Радхи, Пандит — Сама Радха."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F62",
+   "F94",
+   "F95",
+   "I8",
+   "Q12"
+  ],
+  "note": "Ушёл в его день ухода; «не отличен от Гаура-шакти Гададхары»."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F5",
+   "F6",
+   "F7",
+   "F95",
+   "F103",
+   "I1",
+   "I2"
+  ],
+  "note": "Комментарии о «жизни Гададхары» и о мантре; праздник в Пурушоттама-матхе (1922)."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "deity-served",
+  "who": "@gopinatha-deity-puri",
+  "facts": [
+   "F56",
+   "F57",
+   "F60",
+   "F61",
+   "F89",
+   "F90",
+   "F97"
+  ],
+  "event": "ev-jagadananda-giridhari-seva",
+  "note": "Тота-Гопинатха в Ямешвара-тоте; по B — с дочерью Вришабхану и Ананга-манджари (Джахнавой); по M (БР) — Господь сокрылся в этом Божестве."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@gaura-gadadhara-champahatti",
+  "facts": [
+   "F98"
+  ],
+  "note": "Древние Божества Гаура-Гададхары Двиджи Ванинатхи."
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F57"
+  ]
+ },
+ {
+  "from": "@gadadhara-pandita",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F57"
+  ]
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",
