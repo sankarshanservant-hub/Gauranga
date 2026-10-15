@@ -578,3 +578,179 @@
   event: ev-nityananda-first-meeting
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya03.md", from: "174", to: "190"}
+
+# ---------- Мадхья 4. Встреча Махапрабху и Нитьянанды ----------
+
+- id: cb-1031
+  source: cb
+  ref: "Мадхья 4, 1–44"
+  file: "chaitanya-bhagavata/ed/CB_Madhya04.md"
+  period: P07
+  order: 106.1
+  title: "Нитьянанда в экстазе от шлоки «Бхагаваты»; на коленях Господа"
+  summary: "Нитьянанда, узнав Владыку, замирает, будто пьёт Его красоту глазами; по знаку Господа Шриваса читает шлоку о Кришне, входящем во Вриндаван в наряде танцора, — Нитьянанда падает без чувств, ревёт, как лев, прыгает и катается, и успокаивается лишь на коленях Вишвамбхара, как Рама и Лакшмана; Гададхара улыбается: Ананта, опора Господа, теперь покоится на Его коленях; Господь славит Нитьянанду: «Ты сполна наделён силой Бога, лишь поклоняясь Тебе, обретают преданность Кришне»."
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa", "@gadadhara-pandita"]
+  places: ["#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.8.8–17; Лочан, Мадхья-кханда, «Встреча с Нитьянандой»"
+  themes: [ecstasy, revelation]
+  bhava: [devotee]
+  teaching: [associates-tattva]
+  scriptures: ["Бхаг. 10.21.5"]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya04.md", from: "1", to: "44"}
+
+- id: cb-1032
+  source: cb
+  ref: "Мадхья 4, 45–64"
+  file: "chaitanya-bhagavata/ed/CB_Madhya04.md"
+  period: P07
+  order: 106.2
+  title: "«Откуда Ты пришёл?» — «Мне сказали: Кришна ушёл в Гауду»; толки преданных"
+  summary: "На робкий вопрос Господа Нитьянанда, как дитя, смиренно отвечает: Он обошёл все места игр Кришны, но там Ему сказали, что Кришна ушёл в Гауда-дешу и недавно вернулся из Гаи; Господь и Нитьянанда беседуют знаками; Мурари: «Только Вы понимаете друг друга»; преданные сравнивают Их с Мадхавой и Шанкарой, Рамой и Лакшманой, Кришной и Баларамой, Кришной и Арджуной, Шешей на коленях Кришны."
+  persons: ["@mahaprabhu", "@nityananda", "@murari-gupta", "@srivasa", "@gadadhara-pandita"]
+  places: ["#house-nandana-acharya"]
+  kind: lila
+  authority: A
+  notes: "Ст. 50–56 в издании нет."
+  themes: [revelation]
+  teaching: [associates-tattva]
+  event: ev-nityananda-first-meeting
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya04.md", from: "45", to: "64"}
+
+- id: cb-1033
+  source: cb
+  ref: "Мадхья 4, 65–76"
+  file: "chaitanya-bhagavata/ed/CB_Madhya04.md"
+  period: PX
+  order: 173
+  title: "Слава Нитьянанды: друг, брат, зонт и ложе Господа"
+  summary: "Слушающий о встрече Гауры и Нитьянанды освобождается; Нитьянанда — вечный спутник, друг, брат, зонт, ложе и носитель Господа, и лишь по Его милости можно служить Господу; оскорбивший Его останавливает свой путь; Нитьянанда и Баладева — одно лицо, как Рагхунатха и Ядунатха; по Его приказу автор пишет книгу."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@shiva"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya04.md", from: "65", to: "76"}
+
+# ---------- Мадхья 5. Вьяса-пуджа Нитьянанды; шестирукий облик ----------
+
+- id: cb-1034
+  source: cb
+  ref: "Мадхья 5, 1–36"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.1
+  title: "«Где мы проведём Твою вьяса-пуджу?» — киртан за закрытыми дверями у Шривасы"
+  summary: "После мангалы: Господь спрашивает Нитьянанду, где провести завтра, в полнолуние, Его вьяса-пуджу; Нитьянанда берёт за руку Шривасу — у него в доме, и Шриваса радостно берётся за всё, лишь попросив книгу обрядов; Господь и Нитьянанда, как Баларама и Кришна с жителями Гокулы, идут к Шривасе; за запертыми дверями начинается киртан, и два Владыки пляшут, обнимаются, пытаются коснуться стоп друг друга, срывают одежды, а земля дрожит под стопами Нитьянанды."
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.16"
+  themes: [festival, kirtan, ecstasy]
+  calendar: "полнолуние (Вьяса-пурнима)"
+  event: ev-nityananda-vyasa-puja
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "1", to: "36"}
+
+- id: cb-1035
+  source: cb
+  ref: "Мадхья 5, 37–65"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.2
+  title: "Господь в бхаве Баларамы на троне: плуг и палица; «Нара призвал Меня»"
+  summary: "Чтобы явить славу Нитьянанды, Господь в настроении Баларамы садится на трон, требует «Вина!» и велит Нитьянанде отдать Ему плуг и палицу — одни видят их в Его руках, другие нет; преданные подают Ему воду Ганги, и Он пьёт, как Баларама; Он зовёт «Нара, Нара!» — это Адвайта, по чьему зову Он пришёл с Вайкунтхи начать санкиртану в каждом доме; придя в Себя, просит: «Не обижайтесь на Меня»; Нитьянанда, как дитя, сбрасывает одежды и данду, и лишь окрик Господа: «Завтра — вьяса-пуджа!» — успокаивает Его."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@haridasa-thakura"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.16"
+  notes: "Ст. 38: «Вина!» — бхава Баларамы (варуни); преданные подают воду Ганги (ст. 46–47). Ст. 44–45, 54–55 в издании нет."
+  themes: [revelation, ecstasy]
+  bhava: [balarama]
+  teaching: [associates-tattva, yuga-dharma]
+  event: ev-nityananda-vyasa-puja
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "37", to: "65"}
+
+- id: cb-1036
+  source: cb
+  ref: "Мадхья 5, 66–78"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.3
+  title: "Нитьянанда ломает данду; крокодил в Ганге"
+  summary: "Ночью в доме Шривасы Нитьянанда с криком ломает данду и разбивает камандалу; наутро Рамаи находит обломки, и Господь, найдя Нитьянанду смеющимся, идёт с Ним и преданными к Ганге и пускает данду по течению; Нитьянанда пытается схватить крокодила за хвост и бросается в реку, пока Господь не зовёт Его: «Скорее, пора на вьяса-пуджу!»."
+  persons: ["@nityananda", "@mahaprabhu", "@srirama-pandita", "@srivasa", "@gadadhara-pandita"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, sannyasa, pranks]
+  event: ev-nityananda-breaks-danda-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "66", to: "78"}
+
+- id: cb-1037
+  source: cb
+  ref: "Мадхья 5, 79–103"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.4
+  title: "Вьяса-пуджа: Нитьянанда надевает гирлянду на Господа — шестирукий облик"
+  summary: "Шриваса по шастрам готовит вьяса-пуджу и даёт Нитьянанде гирлянду для Вьясадевы; тот, не зная мантр, бормочет и оглядывается; Шриваса жалуется Господу, Господь подходит, и Нитьянанда надевает гирлянду на Него; Господь являет шестирукий облик — раковина, диск, палица, лотос, плуг и мушала, — и Нитьянанда падает без чувств; Господь будит Его: «Ради Твоего киртана Ты пришёл; према — Твоя, раздай её кому хочешь; враждебный Тебе не получит Моей милости, даже поклоняясь Мне»."
+  persons: ["@nityananda", "@mahaprabhu", "@srivasa", "@vyasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.12–16; Мурари 2.8.20–29; Лочан, Мадхья-кханда"
+  notes: "Ст. 97–98 в издании нет."
+  themes: [revelation, festival]
+  bhava: [aishvarya, balarama]
+  teaching: [associates-tattva]
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "79", to: "103"}
+
+- id: cb-1038
+  source: cb
+  ref: "Мадхья 5, 104–152"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.45
+  title: "Отступление автора: Ананта — вечный слуга; о пракрита-бхакте"
+  summary: "Ананта тождествен Нитьянанде; как Лакшмана служит Раме, а Баларама, будучи старшим братом, в душе — слуга Кришны, так Нитьянанда вечно служит Чайтанье, говоря: «Он — Господь, Я — Его слуга»; считать Нитьянанду и Балараму разными — глупость, пренебрегать Богом в облике слуги — оскорбление Вишну; ссоры вайшнавов — игра, поклоняться одному и хулить другого — гибель; кто чтит Божество, но не чтит Господа в сердцах существ и не знает, как вести себя с преданными, — пракрита-бхакта."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu", "@lakshmi"]
+  places: []
+  kind: teaching
+  authority: A
+  notes: "Ст. 140–148 частично отсутствуют в издании."
+  themes: [teaching, offense]
+  teaching: [associates-tattva, vaishnava]
+  scriptures: ["Бхаг. 11.2.47"]
+  event: ev-six-armed-form-nityananda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "104", to: "152"}
+
+- id: cb-1039
+  source: cb
+  ref: "Мадхья 5, 153–172"
+  file: "chaitanya-bhagavata/ed/CB_Madhya05.md"
+  period: P07
+  order: 109.5
+  title: "Киртан вьяса-пуджи; Шачи видит в двоих своих сыновей; прасад из рук Господа"
+  summary: "Господь объявляет вьяса-пуджу завершённой и велит петь; два брата пляшут, забыв Себя; Шачи из укромного места смотрит на Вишвамбхара и Нитьянанду и думает: «Вот мои сыновья»; Господь велит Шривасе принести пищу, поднесённую Вьясадеве, и Сам раздаёт её преданным и всем домочадцам, даже слугам и служанкам."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  themes: [festival, kirtan, prasada]
+  event: ev-nityananda-vyasa-puja
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya05.md", from: "153", to: "172"}
