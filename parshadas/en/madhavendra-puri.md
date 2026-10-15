@@ -2,7 +2,7 @@
 *Мадхавендра Пури · @madhavendra-puri*
 
 ## The First Sprout of the Tree of Devotion
-Madhavendra Puri lived in the fourteenth century, long before Sri Chaitanya appeared, and yet in His lila he stands at
+Madhavendra Puri came into the world as early as the fourteenth century, long before Sri Chaitanya, and yet in His lila he stands at
 the very source. Before coming into the world, the Lord sends ahead those whom He will honour as parents, teachers and
 elders, so that each of them may serve Him in his own way:
 
@@ -110,7 +110,7 @@ of separation. Srila Bhaktisiddhanta visited Udupi more than once, collected Mad
 from there to teach Madhva philosophy at the head matha in Mayapur. <!-- F19 F20 F21 -->
 
 ## Intoxicated with Love
-Even before the Lord's appearance Madhavendra lived in a state that the “Chaitanya-bhagavata” (Adi 4.402–412)
+Even before the Lord's appearance Madhavendra lived in a state that the “Chaitanya-bhagavata” (Antya 4.402–412)
 describes with wonder. Trembling, tears, hair standing on end, roaring and thunderous cries, loud laughter, stupor and
 perspiration never left him. Absorbed in Govinda, he was unaware of the outer world: walking along a road he would
 break into dance of his own accord, calling out to Hari; at times he lay unconscious for two or three praharas; in
@@ -126,7 +126,7 @@ and indifferent to everything worldly (CC, Madhya 4.123–124, 4.180). <!-- F34 
 Happy in Krishna, Madhavendra suffered deeply to see people without devotion. Before Sri Chaitanya's appearance the
 world was bereft of love for Vishnu and sunk in passion and ignorance: people revelled in songs about Yogipala,
 Bhogipala and Mahipala, even sannyasis called themselves “Narayana,” and the “men of knowledge, yogis and ascetics”
-only argued and did not accept the form of Krishna (CB, Adi 4.416–436). He had no one to talk to, and he stopped
+only argued and did not accept the form of Krishna (CB, Antya 4.416–436). He had no one to talk to, and he stopped
 speaking with sannyasis. “Better to go and live in the forest,” he decided; “there at least there is no talk with
 non-Vaishnavas.” <!-- F32 F35 F36 -->
 
@@ -138,7 +138,7 @@ So, grieving for the world, he came to Shantipur, to the house of Advaita Achary
 the people, was then teaching the “Gita” and the “Bhagavatam,” revealing their meaning as devotion. Seeing in His
 guest the signs of a Vaishnava, He at once fell at his feet; Madhavendra embraced Him and bathed Him in tears.
 Absorbed in talk of Krishna, both forgot their bodies: at the sight of a cloud Madhavendra fell senseless, at the name
-of Krishna he roared. Advaita rejoiced to see such devotion to Vishnu and accepted instruction from him (CB, Adi
+of Krishna he roared. Advaita rejoiced to see such devotion to Vishnu and accepted instruction from him (CB, Antya
 4.419–440). Madhavendra, delighted by Advaita's love for Krishna, gave Him initiation into the mantra of Krishna,
 instruction and all that goes with them.[^3] Advaita is Himself a manifestation of the Supreme Lord; and yet,
 convinced by His guest's ecstatic love that here was His guru, He underwent the rite of initiation to show conditioned
@@ -430,9 +430,11 @@ Vaishnava is not judged by caste. Srila Bhaktisiddhanta calls the Sanodiya brahm
 rules it was forbidden to drink water from his hands, he stood on daiva-varnashrama, and those who judge devotees by
 worldly caste or despise maha-prasada the Lord called wicked fools. <!-- F83 F125 F128 I6 -->
 
-By Madhavendra's mercy love for Krishna awoke in this brahmana, and many years later, seeing the Lord's ecstasy, he
-understood at once that He was connected with Madhavendra. Mahaprabhu asked him where he had obtained such a treasure,
-and the brahmana replied:
+By Madhavendra's mercy love for Krishna awoke in this brahmana. Many years later, already an old man, he saw the Lord
+dancing in ecstasy in Mathura, at the temple of Keshavaji, fell at His feet and joined in His dance; the people,
+seeing such love, decided that before them was an incarnation of Krishna, while the brahmana recognised in Him the son
+of the king of Vraja and understood at once that He was connected with Madhavendra. In private Mahaprabhu called him a
+venerable, simple-hearted old brahmana and asked him where he had obtained such a treasure:
 
 “The brahmana answered: ‘Once the venerable Shripada Sri Madhavendra Puri came to Mathura during his pilgrimage.’”
 (CC, Madhya 17.166)
@@ -448,7 +450,7 @@ disciple, and it is not fitting for a guru to bow to his disciple.” And the br
 exist without a connection with Madhavendra: without him there is not even a scent of it (CC, Madhya 17.170–173). He
 asked Balabhadra Bhattacharya the name of the Lord's guru and rejoiced; the Lord accepted bhiksha from him. The
 Sanodiya brahmana became His companion in His circuit of the twelve forests of Vraja and, together with Balabhadra,
-considered how to lead the Lord on to Soro-kshetra and Prayaga. <!-- F126 F127 Q18 -->
+considered how to lead the Lord on to Soro-kshetra and Prayaga. <!-- F126 F127 F279 Q18 -->
 
 Raghupati Upadhyaya of Tirhut, Mithila, a famous scholar, was also a disciple of Madhavendra (according to the
 “Gaudiya-bhashya” on CB, Adi 9.154); his verses are included in the “Padyavali” (99, 127). In Prayaga, in the presence
@@ -513,7 +515,9 @@ his feeling for a worldly one, born of some lack, and set about teaching him the
 disciple's foolishness and disrespect, Madhavendra ceased to wish him well and drove him away. The “worldly desires”
 here are the craving for dry knowledge, from which grows the tendency to revile devotees. Such is the fruit of
 disregard for the guru: step by step the offence reaches even the Lord Himself (CC, Antya 8.97–98) — later Ramachandra
-reviled Mahaprabhu too. <!-- F143 F144 F145 Q21 I12 -->
+reviled Mahaprabhu too: finding no fault in Him, he noticed a line of ants in His room, suspected that the Lord had
+been eating sweets and slandered Him — and fell, as every reviler of the guru and the Vaishnavas falls.
+<!-- F143 F144 F145 F280 Q21 I12 -->
 
 Quite differently did Ishvara Puri serve his teacher:
 
@@ -557,12 +561,13 @@ became the glorious tree named Chaitanya Mahaprabhu.” (CC, Antya 8.34)
 
 With this verse, the “Charitamrita” says in another place too (Madhya 4.196), Madhavendra attained perfection at the
 end of his life. The day of his departure is the twelfth lunar day of the bright fortnight of Phalguna (phalguna
-shukla-dvadashi). Where it took place the “Charitamrita” does not say.[^12] All that is clear is that by Phalguna of
+shukla-dvadashi).[^21] Where it took place the “Charitamrita” does not say.[^12] All that is clear is that by Phalguna of
 1431 Shaka, when Mahaprabhu told of him in Remuna, Madhavendra had already withdrawn from the eyes of the world.[^13]
 <!-- F149 F150 F151 F152 F153 F154 Q20 -->
 
 ## The Day of Remembrance in Advaita's House
-Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Adi 4.441–468).[^14] On that day He
+Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Antya 4.441–468).[^14] Once this day fell
+at the time when the Lord, already a sannyasi, was staying with Him at Shantipur (CB, Antya 4.396–397). Advaita
 joyfully spent all He had, and provisions poured in from every side. Gaurasundara with all His companions was happy.
 Ai — Shachi — together with the wives of the Vaishnavas took on all the cooking, Nityananda the reception and
 honouring of the Vaishnavas; some ground sandalwood, others wove garlands, carried water, swept the courtyard, washed
@@ -575,7 +580,7 @@ yoghurt and milk, oil, salt and ghee. All the Vaishnavas, anointed with sandal p
 danced. Nityananda danced like a child, Advaita and Haridasa without tiring, and at last the Lord stood everyone in a
 circle and Himself danced in the middle. Then all sat down to the meal; the Lord sat in the centre, “like ten million
 moons among the stars,” and spoke all the time of Madhava Puri: “Whoever eats here on the day of Madhavendra's worship
-obtains devotion to Govinda” (CB, Adi 4.492–508). <!-- F156 F157 -->
+obtains devotion to Govinda” (CB, Antya 4.492–508). <!-- F156 F157 -->
 
 ## Madhavendra's Verses
 Rupa Gosvami preserved five of Madhavendra's verses in the “Padyavali.” In one (79) he takes leave of his former
@@ -693,7 +698,8 @@ Vitthalanatha and duly provided for the Gaudiya pujaris. The “Bhakti-ratnakara
 brahmanas, Madhavendra's disciples, were no more, a certain fortunate man served for a while, and then, after
 consultation with Dasa Gosvami and others, the right of service was given to Vitthaleshvara — who after his father's
 departure lived in seclusion in Mathura, was deeply moved by the lilas of Gaurachandra and always served Gopala with
-zeal. <!-- F172 F173 Q25 -->
+zeal. The Gosvamis headed by Rupa and Raghunatha approved his service because he acknowledged the authority of Krishna
+Chaitanya and His companions. <!-- F172 F173 F281 Q25 -->
 
 The Vallabhite “Chaurasi Vaishnavan ki Varta” of Gokulanatha tells the same story differently. At first Shrinathji was
 served by Bengalis, and Vallabhacharya appointed Krishnadasa as manager. Krishnadasa was incited to expel the Bengalis
@@ -1215,7 +1221,7 @@ made it their standard. <!-- F29 I2 -->
 [^2]: In one of the texts of the “Gaura-ganoddesha-dipika” cited by the biographies, the line about the tree with four
     fruits is absent, and in place of the line about Ranga Puri there is another: Gaura accepted Ishvara Puri as His
     guru and flooded the worlds with love.
-[^3]: The sources date Advaita's initiation differently. According to the “Chaitanya-bhagavata” (Adi 4), it took place
+[^3]: The sources date Advaita's initiation differently. According to the “Chaitanya-bhagavata” (Antya 4.419–440), it took place
     at their first meeting, when Madhavendra was wandering in grief for the world, before the Lord's appearance.
     According to the “Charitamrita” (Madhya 4.110–111), Madhavendra initiated Advaita later, on his way from Vraja to
     fetch sandalwood for Gopala, after two years of serving Him. One of the biographies combines the two accounts: it
@@ -1223,7 +1229,7 @@ made it their standard. <!-- F29 I2 -->
     command, and on the way he initiated Advaita.
 [^4]: One of the biographies says that Advaita, having received Madhavendra's “invitation,” became from then on an
     unwavering preacher of devotion, whereas before he had taught the path of knowledge (jnana-vada). This is hard to
-    reconcile with the “Chaitanya-bhagavata” (Adi 4), according to which Advaita was already expounding the “Gita” and
+    reconcile with the “Chaitanya-bhagavata” (Antya 4), according to which Advaita was already expounding the “Gita” and
     the “Bhagavatam” as devotion before meeting Madhavendra.
 [^5]: So in the “Chaitanya-bhagavata” (Adi 9.154). According to the “Bhakti-ratnakara,” the meeting took place at a
     holy place on the western coast of India; one of the biographies places it in South India, and another says that
@@ -1270,3 +1276,5 @@ made it their standard. <!-- F29 I2 -->
 [^20]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
     “outward” bhakti but the foundation of bhajana, and remembrance of the lilas that is not awakened through kirtana is
     artificial (see below, “Sahajiyas and Sakhi-bhekis”).
+[^21]: So in one of the biographies. Murari Gupta in his “Kadacha” (4.15.8–9) names as the day of Madhava Puri's
+    remembrance, which Advaita observed, the twelfth lunar day of the bright fortnight not of Phalguna but of Chaitra.
