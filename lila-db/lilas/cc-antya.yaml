@@ -265,3 +265,195 @@
   cc: "Антья 1"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "222", to: "2:222"}
+
+- id: cc-4015
+  source: cc
+  ref: "Антья 2.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 995.03
+  title: "Мангалачарана Антья 2"
+  summary: "Поклон гуру, вайшнавам, шастра-гуру — Рупе, Санатане, Рагхунатхе Дасу и Дживе, — Чайтанье с Нитьянандой и Адвайтой, Радха-Говинде и гопи во главе с Лалитой и Вишакхой; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@radha", "@krishna", "@lalita", "@vishakha"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "1", to: "2"}
+
+- id: cc-4016
+  source: cc
+  ref: "Антья 2.3–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 117.1
+  title: "Три способа, которыми Гаура спасает мир: личная встреча (сакшад-даршана), вхождение в достойного преданного (авеша) и явление (авирбхава)"
+  summary: "Желая блага всем мирам, Господь освобождал тремя способами: личной встречей, вхождением в достойного преданного (как в Накулу Брахмачари) и явлением Себя (как Нрисимхананде). Каждый год в Пури приходили бенгальцы и жители других стран, а гандхарвы, девы и киннары в облике людей, увидев Его, становились вайшнавами и пели имя Кришны; ради тех, кто не мог прийти, Господь входил в тела святых вайшнавов, и, видя их, люди становились преданными."
+  persons: ["@mahaprabhu", "@nakula-brahmachari", "@nrisimhananda"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-tattva-three-ways-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "3", to: "15"}
+
+- id: cc-4017
+  source: cc
+  ref: "Антья 2.16–32"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 20
+  title: "Господь входит в Накулу Брахмачари из Амбуи; Накула угадывает мантру Шивананды Сены"
+  summary: "Чтобы спасти бенгальцев, Господь вошёл в сердце Накулы Брахмачари из Амбуи: тот смеялся, плакал, пел и плясал в экстазе, сиял, как Господь, и всем велел петь имя Кришны. Шивананда Сен, усомнившись, загадал: если Накула позовёт его и назовёт его мантру, значит, в нём Господь. Накула велел позвать Шивананду из толпы и назвал его четырёхсложную мантру Гаура-Гопалы; Шивананда уверовал и стал ему служить."
+  persons: ["@mahaprabhu", "@nakula-brahmachari", "@shivananda-sena"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: A
+  notes: "Амбуя — Амбика-Кална. В ст. 31 в переводе — пояснение Бхактивиноды о четырёх слогах мантры."
+  themes: [mercy, ecstasy, revelation]
+  cc: "Антья 2"
+  event: ev-nakula-brahmachari
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "16", to: "32"}
+
+- id: cc-4018
+  source: cc
+  ref: "Антья 2.33–35"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 18.9
+  title: "Господь, привлекаемый любовью, всегда является в четырёх местах: у Шачи, в пляске Нитьянанды, на киртане Шриваса и в доме Рагхавы"
+  summary: "Господь, по природе привлекаемый любовью, всегда проявлялся в домашнем храме Шачи, там, где пляшет Нитьянанда, на киртане Шриваса и в доме Рагхавы Пандита."
+  persons: ["@mahaprabhu", "@shachi", "@nityananda", "@srivasa", "@raghava-pandita"]
+  places: ["#navadvipa", "#panihati"]
+  kind: teaching
+  authority: A
+  themes: [revelation, teaching]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-avirbhava-four-places
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "33", to: "35"}
+
+- id: cc-4019
+  source: cc
+  ref: "Антья 2.36–78"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 21
+  title: "Нрисимхананда «приводит» Господа в Бенгалию: Господь съедает подношения Джаганнатхе, Нрисимхе и Себе"
+  summary: "Шриканта Сен, пробыв два месяца в Пури, принёс весть: в этом году никому не идти — Господь Сам придёт в пауше к Шивананде, и Джагадананда будет Ему готовить. Месяц ожидания прошёл напрасно; Нрисимхананда (прежде Прадьюмна Брахмачари) обещал привести Господа через три дня, в медитации довёл Его до Панихати, приготовил множество блюд и разделил на три подношения — Джаганнатхе, Господу и своему Нрисимхе. В медитации он увидел, как Господь съел все три; с внутренним восторгом он внешне сетовал за Нрисимху, а Шивананда усомнился. На следующий год Господь при всех хвалил угощения Нрисимхананды прошлой зимой, и Шивананда уверовал: Господь един с Нрисимхой и Джаганнатхой."
+  persons: ["@mahaprabhu", "@nrisimhananda", "@shivananda-sena", "@shrikanta-sena", "@jagadananda-pandita", "@advaita", "@jagannatha-deity", "@nrisimha", "@raghava-pandita"]
+  places: ["#puri", "#kumarahatta", "#panihati"]
+  kind: lila
+  authority: A
+  notes: "Дом Шивананды — в Кумарахатте (по Ади 10); в тексте главы место не названо."
+  calendar: "пауша"
+  themes: [revelation, prasada, mercy]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-nrisimhananda-three-offerings
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "36", to: "78"}
+
+- id: cc-4020
+  source: cc
+  ref: "Антья 2.79–83"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 19
+  title: "Четыре места постоянного явления Господа; Гаурасундара покоряется любви — ради Шивананды Он приходит снова и снова"
+  summary: "Господь ежедневно ел в доме Шачи, всегда приходил на киртан Шриваса, был там, где пляшет Нитьянанда, и постоянно проявлен в доме Рагхавы. Он покоряется чистой любви и являет Себя такому преданному; пленённый любовью Шивананды, Он приходил к нему снова и снова."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@nityananda", "@raghava-pandita", "@shivananda-sena"]
+  places: ["#navadvipa", "#panihati"]
+  kind: teaching
+  authority: A
+  themes: [revelation, teaching]
+  teaching: [gaura-tattva, prema]
+  cc: "Антья 2"
+  event: ev-avirbhava-four-places
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "79", to: "83"}
+
+- id: cc-4021
+  source: cc
+  ref: "Антья 2.84–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 24
+  title: "Бхагаван Ачарья и его брат-майявади Гопала: Сварупа запрещает слушать толкование Веданты Шанкары"
+  summary: "Бхагаван Ачарья, учёный преданный в Пури в бхаве друга-пастушка, друг Сварупы, привёл к Господу младшего брата Гопалу, изучившего Веданту в Бенаресе; Господь, зная, что тот майявади без преданности Кришне, лишь внешне был с ним учтив. Когда Бхагаван Ачарья позвал всех слушать толкование Гопалы, Сварупа с любовью упрекнул его: слушание майявада-бхашьи Шанкары оскверняет даже великого вайшнава и разрушает настроение слуги — человек начинает считать себя Всевышним. Устыдившись, Бхагаван Ачарья отослал брата домой."
+  persons: ["@bhagavan-acharya", "@gopala-bhattacharya", "@svarupa-damodara", "@mahaprabhu"]
+  places: ["#puri", "#kashi"]
+  kind: lila
+  authority: A
+  notes: "Ст. 99 в файле нет (после 98 сразу 100)."
+  themes: [teaching, offense]
+  teaching: [vedanta, bhakti-supremacy]
+  cc: "Антья 2"
+  event: ev-gopala-bhattacharya-mayavada
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "84", to: "100"}
+
+- id: cc-4022
+  source: cc
+  ref: "Антья 2.101–145"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 25
+  title: "Наказание Младшего Харидаса: за то, что он просил рис у Мадхави-деви, Господь закрывает ему дверь; даже Парамананда Пури не может умилостивить Господа"
+  summary: "Бхагаван Ачарья послал Младшего Харидаса, певца Господа, попросить тонкого риса у Мадхави-деви — сестры Шикхи Махити, одной из «трёх с половиной» ближайших спутниц Радхи. Похвалив рис, Господь велел Говинде больше не пускать Харидаса: санньяси, ведущий беседы с женщинами, — «обезьянье отречение». Харидас три дня постился; на просьбы преданных Господь пригрозил уйти, а Парамананде Пури сказал, что уйдёт в Алаланатху, и тот смирился с волей независимого Господа. Сварупа уговорил Харидаса поесть; с тех пор тот видел Господа лишь издали; преданные же стали остерегаться женщин даже во сне. Прошёл год, но Господь не сжалился."
+  persons: ["@mahaprabhu", "@chhota-haridasa", "@bhagavan-acharya", "@madhavi-devi", "@shikhi-mahiti", "@svarupa-damodara", "@ramananda-raya", "@govinda-servant", "@paramananda-puri"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  notes: "Ст. 117 в файле нет (после 116 сразу 118)."
+  themes: [sannyasa, offense]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Бхаг. 9.19.17"]
+  cc: "Антья 2"
+  event: ev-chhota-haridasa-punished
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "101", to: "145"}
+
+- id: cc-4023
+  source: cc
+  ref: "Антья 2.146–166"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 25.5
+  title: "Младший Харидас оставляет тело в Праяге и в облике гандхарвы поёт Господу; «таково искупление санньяси, глядящего на женщин»"
+  summary: "Через год после наказания Харидас ушёл в Праягу и, надеясь обрести служение стопам Господа, оставил тело при слиянии трёх рек; в духовном теле гандхарвы он ночами незримо пел для Господа. Господь, спросив о нём, лишь улыбнулся; спутники у океана слышали его пение, и Сварупа отверг догадку о брахма-ракшасе. Весть пришла из Праяги в Навадвипу; когда Шриваса рассказал о ней в Пури, Господь сказал: «Каждый пожинает плоды своих поступков; таково искупление для санньяси, любующегося женщинами». Преданные заключили, что Харидас обрёл прибежище у стоп Господа."
+  persons: ["@mahaprabhu", "@chhota-haridasa", "@svarupa-damodara", "@jagadananda-pandita", "@govinda-servant", "@kashishvara", "@shankara-pandita", "@damodara-pandita", "@mukunda-datta", "@srivasa", "@shivananda-sena"]
+  places: ["#prayaga", "#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 153–154: «Мукунда» — вероятно, Мукунда Датта; «Шанкара» — Шанкара Пандит, «Дамодара» — Дамодара Пандит (по смыслу)."
+  themes: [departure, sannyasa, mercy]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 2"
+  event: ev-chhota-haridasa-prayaga
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "146", to: "166"}
+
+- id: cc-4024
+  source: cc
+  ref: "Антья 2.167–172"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 995.04
+  title: "Смысл наказания Младшего Харидаса: одной игрой Господь достигает многих целей; колофон Антья 2"
+  summary: "Эта игра учит людей правилам отречения, показывает привязанность преданных к Господу, величие святого места и то, что Господь не отвергает верного слугу: одной игрой Он достигает пяти-семи целей. Слушайте с верой, оставив споры. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@chhota-haridasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "167", to: "172"}

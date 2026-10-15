@@ -62,3 +62,36 @@
   cb: ""
   themes: [mercy, festival, pilgrimage]
   notes: "Господь велит прислать к Нему Санатану (ср. ev-sanatana-puri-sores)."
+
+# --- Антья 2 ---
+- id: ev-tattva-three-ways-deliverance
+  title: "Три способа, которыми Гаура спасает мир: личная встреча, вхождение в преданного, явление"
+  title_en: "Three ways Gaura delivers the world: personal meeting, empowering a devotee, manifestation"
+  period: PX
+  order: 117.1
+  cc: "Антья 2.3–15"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva]
+  notes: "Сакшад-даршана, авеша (Накула Брахмачари — ev-nakula-brahmachari), авирбхава (Нрисимхананда — ev-nrisimhananda-three-offerings; ev-avirbhava-four-places)."
+
+- id: ev-gopala-bhattacharya-mayavada
+  title: "Бхагаван Ачарья и его брат-майявади: Сварупа запрещает слушать толкование Шанкары"
+  title_en: "Bhagavan Acharya and his Mayavadi brother: Svarupa forbids hearing Shankara's commentary"
+  period: P14
+  order: 24
+  cc: "Антья 2.84–100"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [vedanta, bhakti-supremacy]
+  notes: ""
+
+- id: ev-chhota-haridasa-prayaga
+  title: "Младший Харидас оставляет тело в Праяге и поёт Господу в облике гандхарвы"
+  title_en: "Junior Haridasa gives up his body at Prayaga and sings to the Lord as a Gandharva"
+  period: P14
+  order: 25.5
+  cc: "Антья 2.146–166"
+  cb: ""
+  themes: [departure, sannyasa, mercy]
+  notes: "Через год после наказания (ev-chhota-haridasa-punished)."
