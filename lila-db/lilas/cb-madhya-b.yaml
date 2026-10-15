@@ -1272,3 +1272,44 @@
   event: ev-sannyasa-decision-devotees-grief
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "157", to: "186"}
+
+# ---------- Мадхья 27. Господь утешает преданных и Шачи перед санньясой ----------
+
+- id: cb-2067
+  source: cb
+  ref: "Мадхья 27, 1–17"
+  file: "chaitanya-bhagavata/ed/CB_Madhya27.md"
+  period: P07
+  order: 143
+  title: "«Где бы вы ни были, Я с вами»: Господь утешает преданных"
+  summary: "Преданные, забыв о еде, плачут: куда Он уйдёт после санньясы и где Его увидеть?; Господь утешает: «Я никогда вас не оставлю; вы — Мои вечные спутники во всех югах; Я нисшёл и в двух других обликах — киртана и ананды — и буду с вами, когда вы поёте; цель Моей санньясы — наставить людей», — и обнимает каждого."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 11–12 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [separation, sannyasa, teaching]
+  teaching: [holy-name, associates-tattva]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya27.md", from: "1", to: "17"}
+
+- id: cb-2068
+  source: cb
+  ref: "Мадхья 27, 18–52"
+  file: "chaitanya-bhagavata/ed/CB_Madhya27.md"
+  period: P07
+  order: 144
+  title: "Плач Шачи; Господь открывает ей, что она — Пришни, Адити, Девахути, Каушалья и Деваки"
+  summary: "Узнав о санньясе, Шачи теряет сознание и молит: «Не оставляй мать — старший брат ушёл, отец на Вайкунтхе; разве уходить от матери — дхарма? Пой киртан дома с Нитьянандой, Адвайтой, Шривасой, Гададхарой»; Господь молчит, а когда она чахнет, уводит её в уединение: «Ты — Моя мать во всех рождениях: Пришни, Адити при Вамане, Девахути при Капиле, Каушалья при Раме, Деваки в темнице Камсы; ещё два раза Я рожусь твоим сыном; в Моём облике Божества ты — земля, в облике имени — язык; ничто нас не разлучит», и Шачи успокаивается."
+  persons: ["@shachi", "@mahaprabhu", "@aditi", "@devaki", "@vrindavana-dasa"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Лочан, Мадхья-кханда, «Скорбь матери Шачи»"
+  notes: "Ст. 23–26 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 35 — песенная вставка (сравнение с Каушальей и Рамой)."
+  themes: [family, separation, revelation]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-lord-consoles-shachi-before-sannyasa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya27.md", from: "18", to: "52"}
