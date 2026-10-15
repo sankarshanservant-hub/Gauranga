@@ -26513,68 +26513,6 @@
   "attestation": 8
  },
  {
-  "id": "cc-4086",
-  "source": "cc",
-  "ref": "Антья 8.16–35",
-  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
-  "period": "P05",
-  "order": 0.5,
-  "title": "Уход Мадхавендры Пури: он отвергает Рамачандру Пури, советовавшего «помнить Брахман», и благословляет служившего ему Ишвару Пури премой; «айи дина-даярдра натха»",
-  "summary": "Умирающий Мадхавендра Пури повторял имя и плакал: «Я так и не достиг Матхуры». Рамачандра Пури без стыда наставил его: ты в блаженстве Брахмана — о чём плакать? Мадхавендра в гневе прогнал его: умирая в твоём присутствии, я не достигну цели. Отвергнутый гуру, Рамачандра Пури наполнился мирскими желаниями: сухое знание Брахмана рождает лишь склонность к хуле. Ишвара Пури же своими руками убирал за учителем, пел ему имя и рассказывал о Кришне, и Мадхавендра благословил его премой. Уходя, Мадхавендра повторял шлоку «айи дина-даярдра натха» о разлуке с Владыкой Матхуры; так он посадил семя премы, ставшее древом — Чайтаньей.",
-  "persons": [
-   "@madhavendra-puri",
-   "@ramachandra-puri",
-   "@ishvara-puri",
-   "@krishna"
-  ],
-  "places": [
-   "#mathura"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "notes": "Время и место ухода в ЧЧ не названы.",
-  "themes": [
-   "departure",
-   "separation",
-   "offense"
-  ],
-  "teaching": [
-   "prema",
-   "bhakti-supremacy"
-  ],
-  "cc": "Антья 8",
-  "event": "ev-madhavendra-puri-departure",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
-    "from": "16",
-    "to": "35"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
-    "from": "16",
-    "to": "35",
-    "line": 200,
-    "line_to": 448,
-    "count": 20,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya08.txt?plain=1#L200-L448"
-   }
-  ],
-  "date_conf": "оценка",
-  "years": [
-   1496,
-   1508
-  ],
-  "years_from": "period",
-  "age": [
-   10,
-   22
-  ],
-  "attestation": 1
- },
- {
   "id": "cb-0069",
   "source": "cb",
   "ref": "Ади 9, 102–153",
@@ -26771,78 +26709,6 @@
   "attestation": 1
  },
  {
-  "id": "cc-4033",
-  "source": "cc",
-  "ref": "Антья 3.164–212",
-  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
-  "period": "P05",
-  "order": 1.5,
-  "title": "Харидас в Чандапуре у Баларамы Ачарьи; на собрании у Хираньи и Говардханы: плод имени — према, освобождение лишь побочно; Гопала Чакраварти, оскорбивший Харидаса, заболевает проказой",
-  "summary": "Харидас жил в Чандапуре у Баларамы Ачарьи, жреца Хираньи и Говардханы; мальчик Рагхунатха Дас каждый день приходил к нему и получил милость, приведшую его к Господу. На собрании у братьев Харидас сказал: уничтожение грехов и освобождение — лишь побочный плод имени, как рассеивание тьмы до восхода; главный плод — према к стопам Кришны, а преданный не принимает освобождения. Главный сборщик податей Гопала Чакраварти поднял его на смех и поклялся отрезать нос, если проблеск имени даёт освобождение; Харидас ответил тем же. Собрание осудило Гопалу, и братья прогнали его; Харидас простил его, но через три дня Гопала заболел проказой, и нос его отпал. Преданные не обижаются на глупцов, но Кришна не терпит хулы на преданных; огорчённый, Харидас ушёл в Шантипур.",
-  "persons": [
-   "@haridasa-thakura",
-   "@balarama-acharya-chandapur",
-   "@hiranya-majumdar",
-   "@govardhana-majumdar",
-   "@raghunatha-dasa",
-   "@gopala-chakravarti"
-  ],
-  "places": [
-   "#chandapur-saptagrama",
-   "#saptagrama"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "notes": "Ст. 166: «Бхагаван Ачарья» — по контексту Баларама Ачарья. Ст. 168: Рагхунатха — «сын Говардханы» (ЧЧ; ср. PERSONS: по другим — сын Хираньи).",
-  "themes": [
-   "teaching",
-   "offense"
-  ],
-  "teaching": [
-   "holy-name",
-   "bhakti-supremacy",
-   "vaishnava"
-  ],
-  "scriptures": [
-   "Бхаг. 11.2.40",
-   "Падьявали, 16",
-   "Бхаг. 6.2.49",
-   "Бхаг. 3.29.13",
-   "Хари-бхакти-судходая, 14.36"
-  ],
-  "cc": "Антья 3",
-  "event": "ev-haridasa-gopala-chakravarti",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
-    "from": "164",
-    "to": "212"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
-    "from": "164",
-    "to": "212",
-    "line": 1706,
-    "line_to": 2227,
-    "count": 50,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L1706-L2227"
-   }
-  ],
-  "years": [
-   1500,
-   1506
-  ],
-  "date_conf": "оценка",
-  "date_basis": "Рагхунатха Дас ещё мальчик-школьник (ст. 168)",
-  "age": [
-   14,
-   20
-  ],
-  "attestation": 1
- },
- {
   "id": "nvv-0037",
   "source": "nityananda-vamsha",
   "ref": "Глава 5, 26–57",
@@ -26893,6 +26759,68 @@
    1508
   ],
   "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   10,
+   22
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-4086",
+  "source": "cc",
+  "ref": "Антья 8.16–35",
+  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
+  "period": "P05",
+  "order": 3,
+  "title": "Уход Мадхавендры Пури: он отвергает Рамачандру Пури, советовавшего «помнить Брахман», и благословляет служившего ему Ишвару Пури премой; «айи дина-даярдра натха»",
+  "summary": "Умирающий Мадхавендра Пури повторял имя и плакал: «Я так и не достиг Матхуры». Рамачандра Пури без стыда наставил его: ты в блаженстве Брахмана — о чём плакать? Мадхавендра в гневе прогнал его: умирая в твоём присутствии, я не достигну цели. Отвергнутый гуру, Рамачандра Пури наполнился мирскими желаниями: сухое знание Брахмана рождает лишь склонность к хуле. Ишвара Пури же своими руками убирал за учителем, пел ему имя и рассказывал о Кришне, и Мадхавендра благословил его премой. Уходя, Мадхавендра повторял шлоку «айи дина-даярдра натха» о разлуке с Владыкой Матхуры; так он посадил семя премы, ставшее древом — Чайтаньей.",
+  "persons": [
+   "@madhavendra-puri",
+   "@ramachandra-puri",
+   "@ishvara-puri",
+   "@krishna"
+  ],
+  "places": [
+   "#mathura"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Время и место ухода в ЧЧ не названы.",
+  "themes": [
+   "departure",
+   "separation",
+   "offense"
+  ],
+  "teaching": [
+   "prema",
+   "bhakti-supremacy"
+  ],
+  "cc": "Антья 8",
+  "event": "ev-madhavendra-puri-departure",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
+    "from": "16",
+    "to": "35"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt",
+    "from": "16",
+    "to": "35",
+    "line": 200,
+    "line_to": 448,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya08.txt?plain=1#L200-L448"
+   }
+  ],
+  "date_conf": "оценка",
+  "years": [
+   1496,
+   1508
+  ],
   "years_from": "period",
   "age": [
    10,
@@ -28493,6 +28421,78 @@
    22
   ],
   "attestation": 7
+ },
+ {
+  "id": "cc-4033",
+  "source": "cc",
+  "ref": "Антья 3.164–212",
+  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
+  "period": "P05",
+  "order": 20,
+  "title": "Харидас в Чандапуре у Баларамы Ачарьи; на собрании у Хираньи и Говардханы: плод имени — према, освобождение лишь побочно; Гопала Чакраварти, оскорбивший Харидаса, заболевает проказой",
+  "summary": "Харидас жил в Чандапуре у Баларамы Ачарьи, жреца Хираньи и Говардханы; мальчик Рагхунатха Дас каждый день приходил к нему и получил милость, приведшую его к Господу. На собрании у братьев Харидас сказал: уничтожение грехов и освобождение — лишь побочный плод имени, как рассеивание тьмы до восхода; главный плод — према к стопам Кришны, а преданный не принимает освобождения. Главный сборщик податей Гопала Чакраварти поднял его на смех и поклялся отрезать нос, если проблеск имени даёт освобождение; Харидас ответил тем же. Собрание осудило Гопалу, и братья прогнали его; Харидас простил его, но через три дня Гопала заболел проказой, и нос его отпал. Преданные не обижаются на глупцов, но Кришна не терпит хулы на преданных; огорчённый, Харидас ушёл в Шантипур.",
+  "persons": [
+   "@haridasa-thakura",
+   "@balarama-acharya-chandapur",
+   "@hiranya-majumdar",
+   "@govardhana-majumdar",
+   "@raghunatha-dasa",
+   "@gopala-chakravarti"
+  ],
+  "places": [
+   "#chandapur-saptagrama",
+   "#saptagrama"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Ст. 166: «Бхагаван Ачарья» — по контексту Баларама Ачарья. Ст. 168: Рагхунатха — «сын Говардханы» (ЧЧ; ср. PERSONS: по другим — сын Хираньи).",
+  "themes": [
+   "teaching",
+   "offense"
+  ],
+  "teaching": [
+   "holy-name",
+   "bhakti-supremacy",
+   "vaishnava"
+  ],
+  "scriptures": [
+   "Бхаг. 11.2.40",
+   "Падьявали, 16",
+   "Бхаг. 6.2.49",
+   "Бхаг. 3.29.13",
+   "Хари-бхакти-судходая, 14.36"
+  ],
+  "cc": "Антья 3",
+  "event": "ev-haridasa-gopala-chakravarti",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
+    "from": "164",
+    "to": "212"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt",
+    "from": "164",
+    "to": "212",
+    "line": 1706,
+    "line_to": 2227,
+    "count": 50,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L1706-L2227"
+   }
+  ],
+  "years": [
+   1500,
+   1506
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Рагхунатха Дас ещё мальчик-школьник (ст. 168)",
+  "age": [
+   14,
+   20
+  ],
+  "attestation": 1
  },
  {
   "id": "lcm-0069",
@@ -109955,178 +109955,6 @@
   "attestation": 7
  },
  {
-  "id": "ccd-0046",
-  "source": "chaitanya-chandrodaya",
-  "ref": "Акт 6, правешака (Ганга и Океан)",
-  "file": "chaitanya-chandrodaya/ru/06.md",
-  "period": "P09",
-  "order": 75,
-  "title": "Камалапура: Нитьянанда ломает посох Господа",
-  "summary": "В деревне Камалапура, пока Господь, омывшись, идёт вперёд к храму, Нитьянанда со словами «На что этот посох — обломок нежданной напасти?» ломает Его посох и бросает в реку.",
-  "persons": [
-   "@ganga-devi",
-   "@ratnakara",
-   "@nityananda",
-   "@mahaprabhu"
-  ],
-  "places": [
-   "#kamalapura"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "parallels": "Лочан: lcm-0200; Мурари: mkc-0151",
-  "notes": "Упоминание.",
-  "themes": [
-   "sannyasa"
-  ],
-  "event": "ev-danda-broken",
-  "verses": [
-   {
-    "file": "chaitanya-chandrodaya/ru/06.md",
-    "from_text": "**Ганга.** Затем, придя в деревню под на",
-    "to_text": "**Ганга.** Затем, придя в деревню под на"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-chandrodaya/ru/06.md",
-    "from": "**Ганга.** Затем, придя в деревню под на",
-    "to": "**Ганга.** Затем, придя в деревню под на",
-    "line": 200,
-    "line_to": 200,
-    "count": null,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/06.md?plain=1#L200-L200"
-   }
-  ],
-  "cc": "Мадхья 5",
-  "cb": "Антья 2",
-  "years": [
-   1510,
-   1510
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   24,
-   24
-  ],
-  "attestation": 7
- },
- {
-  "id": "gkd-0069",
-  "source": "gaura-krishnodaya",
-  "ref": "Сарга 8, 3–7",
-  "file": "gaura-krishnodaya/ru/08.md",
-  "period": "P09",
-  "order": 75,
-  "title": "Нитьянанда ломает посох Господа",
-  "summary": "Нитьянанда ломает посох; на вопрос Господа он объясняет, что посох сломался, когда он подхватил Господа, упавшего в экстазе; Господь в гневе уходит один и, достигнув Джаганнатхи, теряет сознание от премы.",
-  "persons": [
-   "@mahaprabhu",
-   "@nityananda"
-  ],
-  "places": [
-   "#puri"
-  ],
-  "kind": "lila",
-  "authority": "B",
-  "parallels": "ЧЧ Мадхья 5",
-  "cc": "Мадхья 5",
-  "themes": [
-   "sannyasa",
-   "ecstasy"
-  ],
-  "divergence": "Посох сломан у Атхаранала, перед самым Пури (в ЧЧ — у реки Бхарги, по дороге).",
-  "event": "ev-danda-broken",
-  "verses": [
-   {
-    "file": "gaura-krishnodaya/ru/08.md",
-    "from": "3",
-    "to": "7"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "gaura-krishnodaya/ru/08.md",
-    "from": "3",
-    "to": "7",
-    "line": 11,
-    "line_to": 19,
-    "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/08.md?plain=1#L11-L19",
-    "file_en": "gaura-krishnodaya/en/08.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/08.md?plain=1#L11-L19"
-   }
-  ],
-  "cb": "Антья 2",
-  "years": [
-   1510,
-   1510
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   24,
-   24
-  ],
-  "attestation": 7
- },
- {
-  "id": "kcm-0109",
-  "source": "karnapura-ckm",
-  "ref": "Сарга 11, 80–81",
-  "file": "karnapura-mahakavya/ru/11.md",
-  "period": "P09",
-  "order": 75,
-  "title": "Нитьянанда ломает посох Господа",
-  "summary": "Господь отдаёт посох Нитьянанде и идёт вперёд; тот, обдумав, ломает посох и на вопрос Господа отвечает, что споткнулся и посох сломался.",
-  "persons": [
-   "@mahaprabhu",
-   "@nityananda"
-  ],
-  "places": [],
-  "kind": "lila",
-  "authority": "A",
-  "parallels": "Мурари 3.5.10–21; ЧЧ Мадхья 5",
-  "divergence": "У Карнапуры поломка посоха — после Ремуны и Катаки; у Мурари — раньше, до Ремуны.",
-  "themes": [
-   "pranks",
-   "sannyasa"
-  ],
-  "event": "ev-danda-broken",
-  "verses": [
-   {
-    "file": "karnapura-mahakavya/ru/11.md",
-    "from": "80",
-    "to": "81"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "karnapura-mahakavya/ru/11.md",
-    "from": "80",
-    "to": "81",
-    "line": 1788,
-    "line_to": 1811,
-    "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811"
-   }
-  ],
-  "cc": "Мадхья 5",
-  "cb": "Антья 2",
-  "years": [
-   1510,
-   1510
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   24,
-   24
-  ],
-  "attestation": 7
- },
- {
   "id": "lcm-0200",
   "source": "lochana-cm",
   "ref": "Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 116–149",
@@ -111954,6 +111782,61 @@
   "attestation": 6
  },
  {
+  "id": "kcm-0109",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 11, 80–81",
+  "file": "karnapura-mahakavya/ru/11.md",
+  "period": "P09",
+  "order": 85.5,
+  "title": "Нитьянанда ломает посох Господа",
+  "summary": "Господь отдаёт посох Нитьянанде и идёт вперёд; тот, обдумав, ломает посох и на вопрос Господа отвечает, что споткнулся и посох сломался.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 3.5.10–21; ЧЧ Мадхья 5",
+  "divergence": "У Карнапуры поломка посоха — после Ремуны и Катаки; у Мурари — раньше, до Ремуны.",
+  "themes": [
+   "pranks",
+   "sannyasa"
+  ],
+  "event": "ev-danda-broken",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/11.md",
+    "from": "80",
+    "to": "81"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/11.md",
+    "from": "80",
+    "to": "81",
+    "line": 1788,
+    "line_to": 1811,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811"
+   }
+  ],
+  "cc": "Мадхья 5",
+  "cb": "Антья 2",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 7
+ },
+ {
   "id": "cb-3031",
   "source": "cb",
   "ref": "Антья 2, 307–314, 396–403",
@@ -112759,6 +112642,123 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/ru/3.09.md?plain=1#L19-L45",
     "file_en": "murari-gupta/en/3.09.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/3.09.md?plain=1#L19-L45"
+   }
+  ],
+  "cb": "Антья 2",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "ccd-0046",
+  "source": "chaitanya-chandrodaya",
+  "ref": "Акт 6, правешака (Ганга и Океан)",
+  "file": "chaitanya-chandrodaya/ru/06.md",
+  "period": "P09",
+  "order": 88.5,
+  "title": "Камалапура: Нитьянанда ломает посох Господа",
+  "summary": "В деревне Камалапура, пока Господь, омывшись, идёт вперёд к храму, Нитьянанда со словами «На что этот посох — обломок нежданной напасти?» ломает Его посох и бросает в реку.",
+  "persons": [
+   "@ganga-devi",
+   "@ratnakara",
+   "@nityananda",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#kamalapura"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Лочан: lcm-0200; Мурари: mkc-0151",
+  "notes": "Упоминание.",
+  "themes": [
+   "sannyasa"
+  ],
+  "event": "ev-danda-broken",
+  "verses": [
+   {
+    "file": "chaitanya-chandrodaya/ru/06.md",
+    "from_text": "**Ганга.** Затем, придя в деревню под на",
+    "to_text": "**Ганга.** Затем, придя в деревню под на"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-chandrodaya/ru/06.md",
+    "from": "**Ганга.** Затем, придя в деревню под на",
+    "to": "**Ганга.** Затем, придя в деревню под на",
+    "line": 200,
+    "line_to": 200,
+    "count": null,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/06.md?plain=1#L200-L200"
+   }
+  ],
+  "cc": "Мадхья 5",
+  "cb": "Антья 2",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "gkd-0069",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 8, 3–7",
+  "file": "gaura-krishnodaya/ru/08.md",
+  "period": "P09",
+  "order": 88.5,
+  "title": "Нитьянанда ломает посох Господа",
+  "summary": "Нитьянанда ломает посох; на вопрос Господа он объясняет, что посох сломался, когда он подхватил Господа, упавшего в экстазе; Господь в гневе уходит один и, достигнув Джаганнатхи, теряет сознание от премы.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 5",
+  "cc": "Мадхья 5",
+  "themes": [
+   "sannyasa",
+   "ecstasy"
+  ],
+  "divergence": "Посох сломан у Атхаранала, перед самым Пури (в ЧЧ — у реки Бхарги, по дороге).",
+  "event": "ev-danda-broken",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/08.md",
+    "from": "3",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/08.md",
+    "from": "3",
+    "to": "7",
+    "line": 11,
+    "line_to": 19,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/08.md?plain=1#L11-L19",
+    "file_en": "gaura-krishnodaya/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/08.md?plain=1#L11-L19"
    }
   ],
   "cb": "Антья 2",
@@ -135048,6 +135048,185 @@
   "attestation": 2
  },
  {
+  "id": "cc-2019",
+  "source": "cc",
+  "ref": "Мадхья 11.41–61",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+  "period": "P12",
+  "order": 17.5,
+  "title": "Горе Пратапарудры: «Господь спасает всех, кроме меня»; Сарвабхаума советует встретить Господа в саду в день Ратха-ятры",
+  "summary": "Узнав об отказе, царь горевал: Господь спас даже Джагая и Мадхая, а его одного лишил даршана, и без Его милости ему не нужны ни тело, ни царство (шлока «Чайтанья-чандродаи», 8.28). Изумлённый его любовью, Сарвабхаума сказал, что Господа покоряет лишь чистая любовь, и научил: в день Ратха-ятры, когда Господь будет отдыхать в саду у Гундичи, прийти одному, без царских одежд, припасть к Его стопам и читать «Раса-панчадхьяю».",
+  "persons": [
+   "@prataparudra",
+   "@sarvabhauma",
+   "@mahaprabhu",
+   "@jagai-madhai"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "themes": [
+   "mercy",
+   "separation"
+  ],
+  "scriptures": [
+   "Чайтанья-чандродая, 8.28"
+  ],
+  "cc": "Мадхья 11",
+  "event": "ev-lord-refuses-to-see-king",
+  "notes": "Исполнение совета — Мадхья 14 (ev-prataparudra-mercy).",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+    "from": "41",
+    "to": "61"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+    "from": "41",
+    "to": "61",
+    "line": 355,
+    "line_to": 519,
+    "count": 21,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L355-L519"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-2020",
+  "source": "cc",
+  "ref": "Мадхья 11.61–65",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+  "period": "P12",
+  "order": 18,
+  "title": "Снана-ятра; в анавасару Господь в разлуке уходит к Алаланатхе и возвращается к приходу бенгальцев",
+  "summary": "Господь ликовал, созерцая омовение Джаганнатхи, а когда Джаганнатха удалился на отдых и даршан прекратился, Им овладела разлука гопи, и Он ушёл в Алаланатху. Узнав о скором приходе преданных из Бенгалии, Он по просьбе Сарвабхаумы вернулся в Пури.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@jagannatha-deity",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri",
+   "#alalanatha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "themes": [
+   "festival",
+   "jagannatha",
+   "separation"
+  ],
+  "bhava": [
+   "gopi"
+  ],
+  "calendar": "Снана-ятра; анавасара",
+  "cc": "Мадхья 11",
+  "event": "ev-snana-yatra-anavasara-alalanatha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+    "from": "61",
+    "to": "65"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
+    "from": "61",
+    "to": "65",
+    "line": 519,
+    "line_to": 551,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L519-L551"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 5
+ },
+ {
+  "id": "kcm-0130",
+  "source": "karnapura-ckm",
+  "ref": "Сарга 13, 50–59",
+  "file": "karnapura-mahakavya/ru/13.md",
+  "period": "P12",
+  "order": 18,
+  "title": "Возвращение в Пури; Снана-ятра и уход в Алаланатху",
+  "summary": "Вернувшись в Пури, Господь видит Снана-ятру; когда Джаганнатха скрыт в анавасару, Господь в разлуке уходит в Алаланатху, и преданные ищут Его; Кала Кришнадаса отсылают в Бенгалию.",
+  "persons": [
+   "@mahaprabhu",
+   "@kala-krishnadasa"
+  ],
+  "places": [
+   "#puri",
+   "#alalanatha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "Мурари 3.16.8–18, 4.20.5–9; ЧЧ Мадхья 1.122, 10.62–70, 11.61–63",
+  "themes": [
+   "jagannatha",
+   "separation"
+  ],
+  "event": "ev-snana-yatra-anavasara-alalanatha",
+  "verses": [
+   {
+    "file": "karnapura-mahakavya/ru/13.md",
+    "from": "50",
+    "to": "59"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "karnapura-mahakavya/ru/13.md",
+    "from": "50",
+    "to": "59",
+    "line": 1165,
+    "line_to": 1364,
+    "count": 24,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364"
+   }
+  ],
+  "calendar": "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава",
+  "cc": "Мадхья 11",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 5
+ },
+ {
   "id": "cc-2021",
   "source": "cc",
   "ref": "Мадхья 11.66–96",
@@ -137560,128 +137739,6 @@
   "attestation": 1
  },
  {
-  "id": "cc-2019",
-  "source": "cc",
-  "ref": "Мадхья 11.41–61",
-  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-  "period": "P12",
-  "order": 58,
-  "title": "Горе Пратапарудры: «Господь спасает всех, кроме меня»; Сарвабхаума советует встретить Господа в саду в день Ратха-ятры",
-  "summary": "Узнав об отказе, царь горевал: Господь спас даже Джагая и Мадхая, а его одного лишил даршана, и без Его милости ему не нужны ни тело, ни царство (шлока «Чайтанья-чандродаи», 8.28). Изумлённый его любовью, Сарвабхаума сказал, что Господа покоряет лишь чистая любовь, и научил: в день Ратха-ятры, когда Господь будет отдыхать в саду у Гундичи, прийти одному, без царских одежд, припасть к Его стопам и читать «Раса-панчадхьяю».",
-  "persons": [
-   "@prataparudra",
-   "@sarvabhauma",
-   "@mahaprabhu",
-   "@jagai-madhai"
-  ],
-  "places": [
-   "#puri"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "themes": [
-   "mercy",
-   "separation"
-  ],
-  "scriptures": [
-   "Чайтанья-чандродая, 8.28"
-  ],
-  "cc": "Мадхья 11",
-  "event": "ev-lord-refuses-to-see-king",
-  "notes": "Исполнение совета — Мадхья 14 (ev-prataparudra-mercy).",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-    "from": "41",
-    "to": "61"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-    "from": "41",
-    "to": "61",
-    "line": 355,
-    "line_to": 519,
-    "count": 21,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L355-L519"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 1
- },
- {
-  "id": "cc-2020",
-  "source": "cc",
-  "ref": "Мадхья 11.61–65",
-  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-  "period": "P12",
-  "order": 60,
-  "title": "Снана-ятра; в анавасару Господь в разлуке уходит к Алаланатхе и возвращается к приходу бенгальцев",
-  "summary": "Господь ликовал, созерцая омовение Джаганнатхи, а когда Джаганнатха удалился на отдых и даршан прекратился, Им овладела разлука гопи, и Он ушёл в Алаланатху. Узнав о скором приходе преданных из Бенгалии, Он по просьбе Сарвабхаумы вернулся в Пури.",
-  "persons": [
-   "@mahaprabhu",
-   "@sarvabhauma",
-   "@jagannatha-deity",
-   "@prataparudra"
-  ],
-  "places": [
-   "#puri",
-   "#alalanatha"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "themes": [
-   "festival",
-   "jagannatha",
-   "separation"
-  ],
-  "bhava": [
-   "gopi"
-  ],
-  "calendar": "Снана-ятра; анавасара",
-  "cc": "Мадхья 11",
-  "event": "ev-snana-yatra-anavasara-alalanatha",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-    "from": "61",
-    "to": "65"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md",
-    "from": "61",
-    "to": "65",
-    "line": 519,
-    "line_to": 551,
-    "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L519-L551"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 5
- },
- {
   "id": "gkd-0107",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 11, 30–34",
@@ -137732,63 +137789,6 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/11.md?plain=1#L71-L81"
    }
   ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 5
- },
- {
-  "id": "kcm-0130",
-  "source": "karnapura-ckm",
-  "ref": "Сарга 13, 50–59",
-  "file": "karnapura-mahakavya/ru/13.md",
-  "period": "P12",
-  "order": 60,
-  "title": "Возвращение в Пури; Снана-ятра и уход в Алаланатху",
-  "summary": "Вернувшись в Пури, Господь видит Снана-ятру; когда Джаганнатха скрыт в анавасару, Господь в разлуке уходит в Алаланатху, и преданные ищут Его; Кала Кришнадаса отсылают в Бенгалию.",
-  "persons": [
-   "@mahaprabhu",
-   "@kala-krishnadasa"
-  ],
-  "places": [
-   "#puri",
-   "#alalanatha"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "parallels": "Мурари 3.16.8–18, 4.20.5–9; ЧЧ Мадхья 1.122, 10.62–70, 11.61–63",
-  "themes": [
-   "jagannatha",
-   "separation"
-  ],
-  "event": "ev-snana-yatra-anavasara-alalanatha",
-  "verses": [
-   {
-    "file": "karnapura-mahakavya/ru/13.md",
-    "from": "50",
-    "to": "59"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "karnapura-mahakavya/ru/13.md",
-    "from": "50",
-    "to": "59",
-    "line": 1165,
-    "line_to": 1364,
-    "count": 24,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364"
-   }
-  ],
-  "calendar": "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава",
-  "cc": "Мадхья 11",
   "years": [
    1512,
    1514
@@ -140761,7 +140761,7 @@
   "ref": "Мадхья 13.189–192",
   "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md",
   "period": "P12",
-  "order": 72,
+  "order": 70.6,
   "title": "Господь сдвигает колесницу Джаганнатхи головой",
   "summary": "Господь обошёл колесницу, упёрся в неё сзади головой — и она с грохотом пошла, а люди закричали «Хари! Хари!». Затем Он танцевал перед колесницами Субхадры и Баларамы и вновь перед Джаганнатхой.",
   "persons": [
@@ -140781,7 +140781,7 @@
    "festival"
   ],
   "cc": "Мадхья 13",
-  "event": "ev-lord-pushes-chariot",
+  "event": "ev-ratha-yatra-gundicha",
   "notes": "В ЧЧ этот эпизод — в Мадхья 13 (не 14, как указано в событии).",
   "verses": [
    {
@@ -140801,6 +140801,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya13.md?plain=1#L1622-L1646"
    }
   ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
   "years": [
    1512,
    1514
@@ -140811,122 +140812,7 @@
    26,
    28
   ],
-  "attestation": 2
- },
- {
-  "id": "cc-2061",
-  "source": "cc",
-  "ref": "Мадхья 14.47–60",
-  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
-  "period": "P12",
-  "order": 72,
-  "title": "Колесница не идёт даже за слонами; Господь толкает её головой, и она сама катится к Гундиче",
-  "summary": "Колесница встала; ни гауды, ни борцы, ни сам царь, ни могучие слоны не могли её сдвинуть, и толпа досадовала. Господь велел отвязать слонов, дал канаты спутникам и сам толкнул колесницу сзади головой — она с грохотом покатилась сама, верёвки лишь держали. С криками «Слава Джаганнатхе!» и «Слава Гаурачандре!» колесница быстро достигла Гундичи; царь и свита были охвачены восторгом при виде могущества Господа.",
-  "persons": [
-   "@mahaprabhu",
-   "@prataparudra",
-   "@jagannatha-deity"
-  ],
-  "places": [
-   "#puri",
-   "#gundicha"
-  ],
-  "kind": "miracle",
-  "authority": "A",
-  "themes": [
-   "jagannatha",
-   "revelation",
-   "festival"
-  ],
-  "cc": "Мадхья 14",
-  "event": "ev-lord-pushes-chariot",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
-    "from": "47",
-    "to": "60"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
-    "from": "47",
-    "to": "60",
-    "line": 387,
-    "line_to": 491,
-    "count": 14,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L387-L491"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 2
- },
- {
-  "id": "gkd-0113",
-  "source": "gaura-krishnodaya",
-  "ref": "Сарга 12, 1–2",
-  "file": "gaura-krishnodaya/ru/12.md",
-  "period": "P12",
-  "order": 72,
-  "title": "Колесница не трогается; Господь толкает её",
-  "summary": "Царь впрягает слонов, но они не могут сдвинуть колесницу; Гаурахари со смехом толкает колесницы и идёт впереди.",
-  "persons": [
-   "@mahaprabhu",
-   "@prataparudra",
-   "@jagannatha-deity"
-  ],
-  "places": [
-   "#puri"
-  ],
-  "kind": "miracle",
-  "authority": "B",
-  "parallels": "ЧЧ Мадхья 14",
-  "cc": "Мадхья 14",
-  "themes": [
-   "jagannatha",
-   "festival"
-  ],
-  "event": "ev-lord-pushes-chariot",
-  "verses": [
-   {
-    "file": "gaura-krishnodaya/ru/12.md",
-    "from": "1",
-    "to": "2"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "gaura-krishnodaya/ru/12.md",
-    "from": "1",
-    "to": "2",
-    "line": 7,
-    "line_to": 9,
-    "count": 2,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L7-L9",
-    "file_en": "gaura-krishnodaya/en/12.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L7-L9"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 2
+  "attestation": 8
  },
  {
   "id": "kcm-0163",
@@ -141171,6 +141057,121 @@
    28
   ],
   "attestation": 8
+ },
+ {
+  "id": "cc-2061",
+  "source": "cc",
+  "ref": "Мадхья 14.47–60",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
+  "period": "P12",
+  "order": 72.75,
+  "title": "Колесница не идёт даже за слонами; Господь толкает её головой, и она сама катится к Гундиче",
+  "summary": "Колесница встала; ни гауды, ни борцы, ни сам царь, ни могучие слоны не могли её сдвинуть, и толпа досадовала. Господь велел отвязать слонов, дал канаты спутникам и сам толкнул колесницу сзади головой — она с грохотом покатилась сама, верёвки лишь держали. С криками «Слава Джаганнатхе!» и «Слава Гаурачандре!» колесница быстро достигла Гундичи; царь и свита были охвачены восторгом при виде могущества Господа.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "miracle",
+  "authority": "A",
+  "themes": [
+   "jagannatha",
+   "revelation",
+   "festival"
+  ],
+  "cc": "Мадхья 14",
+  "event": "ev-lord-pushes-chariot",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
+    "from": "47",
+    "to": "60"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md",
+    "from": "47",
+    "to": "60",
+    "line": 387,
+    "line_to": 491,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L387-L491"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "gkd-0113",
+  "source": "gaura-krishnodaya",
+  "ref": "Сарга 12, 1–2",
+  "file": "gaura-krishnodaya/ru/12.md",
+  "period": "P12",
+  "order": 72.75,
+  "title": "Колесница не трогается; Господь толкает её",
+  "summary": "Царь впрягает слонов, но они не могут сдвинуть колесницу; Гаурахари со смехом толкает колесницы и идёт впереди.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "miracle",
+  "authority": "B",
+  "parallels": "ЧЧ Мадхья 14",
+  "cc": "Мадхья 14",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "event": "ev-lord-pushes-chariot",
+  "verses": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "1",
+    "to": "2"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "gaura-krishnodaya/ru/12.md",
+    "from": "1",
+    "to": "2",
+    "line": 7,
+    "line_to": 9,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L7-L9",
+    "file_en": "gaura-krishnodaya/en/12.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L7-L9"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
  },
  {
   "id": "cc-2062",
@@ -152809,6 +152810,70 @@
    28
   ],
   "attestation": 7
+ },
+ {
+  "id": "pad-0021",
+  "source": "padas",
+  "ref": "Шивананда Сен, ПК 2355 «জয় জয় পণ্ডিত গোসাঞি»",
+  "file": "padas/ru/01.md",
+  "period": "P13",
+  "order": 2.71,
+  "title": "Хвала Гададхаре, оставившему ради Господа жизнь в Кшетре",
+  "summary": "Слава Пандиту Госани, по милости которого поэт поёт о Чайтанье: ради Господа он оставил обет жить в Кшетре и служение Кришне; Гаура и Гададхар — как Рама и Джанаки, как Радха и Кришна; из любви к Радхе Шьяма стал золотым.",
+  "persons": [
+   "@shivananda-sena",
+   "@gadadhara-pandita",
+   "@mahaprabhu",
+   "@gopinatha-deity-puri"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "parallels": "ЧЧ Мадхья 16",
+  "notes": "Последний стих — отзвук учения Сварупы Дамодары (Маджумдар).",
+  "themes": [
+   "separation",
+   "deities"
+  ],
+  "teaching": [
+   "gaura-tattva",
+   "associates-tattva"
+  ],
+  "years": [
+   1514,
+   1515
+  ],
+  "date_conf": "оценка",
+  "date_basis": "Маджумдар: после ЧЧ никто не написал бы «оставил Кшетру», зная, что Господь вернул Гададхару, — пада синхронна событию",
+  "event": "ev-gadadhara-leaves-kshetra-sannyasa",
+  "verses": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "21.1",
+    "to": "21.6"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "padas/ru/01.md",
+    "from": "21.1",
+    "to": "21.6",
+    "line": 534,
+    "line_to": 549,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L534-L549",
+    "file_en": "padas/en/01.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L556-L571"
+   }
+  ],
+  "cc": "Мадхья 16",
+  "age": [
+   28,
+   29
+  ],
+  "attestation": 2
  },
  {
   "id": "cc-2105",
@@ -172788,70 +172853,6 @@
   "age": [
    28,
    30
-  ],
-  "attestation": 2
- },
- {
-  "id": "pad-0021",
-  "source": "padas",
-  "ref": "Шивананда Сен, ПК 2355 «জয় জয় পণ্ডিত গোসাঞি»",
-  "file": "padas/ru/01.md",
-  "period": "P13",
-  "order": 195.1,
-  "title": "Хвала Гададхаре, оставившему ради Господа жизнь в Кшетре",
-  "summary": "Слава Пандиту Госани, по милости которого поэт поёт о Чайтанье: ради Господа он оставил обет жить в Кшетре и служение Кришне; Гаура и Гададхар — как Рама и Джанаки, как Радха и Кришна; из любви к Радхе Шьяма стал золотым.",
-  "persons": [
-   "@shivananda-sena",
-   "@gadadhara-pandita",
-   "@mahaprabhu",
-   "@gopinatha-deity-puri"
-  ],
-  "places": [
-   "#puri"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "parallels": "ЧЧ Мадхья 16",
-  "notes": "Последний стих — отзвук учения Сварупы Дамодары (Маджумдар).",
-  "themes": [
-   "separation",
-   "deities"
-  ],
-  "teaching": [
-   "gaura-tattva",
-   "associates-tattva"
-  ],
-  "years": [
-   1514,
-   1515
-  ],
-  "date_conf": "оценка",
-  "date_basis": "Маджумдар: после ЧЧ никто не написал бы «оставил Кшетру», зная, что Господь вернул Гададхару, — пада синхронна событию",
-  "event": "ev-gadadhara-leaves-kshetra-sannyasa",
-  "verses": [
-   {
-    "file": "padas/ru/01.md",
-    "from": "21.1",
-    "to": "21.6"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "padas/ru/01.md",
-    "from": "21.1",
-    "to": "21.6",
-    "line": 534,
-    "line_to": 549,
-    "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L534-L549",
-    "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L556-L571"
-   }
-  ],
-  "cc": "Мадхья 16",
-  "age": [
-   28,
-   29
   ],
   "attestation": 2
  },

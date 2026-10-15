@@ -133,7 +133,7 @@
   title: "Харидас в Чандапуре: спор о силе имени и наказание Гопалы Чакраварти"
   title_en: "Haridasa at Chandapur: the debate on the power of the name and the punishment of Gopala Chakravarti"
   period: P05
-  order: 1.5
+  order: 20
   years: [1500, 1506]
   date_conf: оценка
   date_basis: "Рагхунатха Дас ещё мальчик-школьник (ст. 168)"
@@ -325,13 +325,13 @@
   title: "Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури"
   title_en: "Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri"
   period: P05
-  order: 0.5
+  order: 3
   date_conf: оценка
   cc: "Антья 8.16–35"
   cb: ""
   themes: [departure, separation, offense]
   teaching: [prema]
-  notes: "Шлока «айи дина-даярдра натха»; время и место в ЧЧ не названы (до встречи Господа с Ишварой Пури)."
+  notes: "Шлока «айи дина-даярдра натха»; время и место в ЧЧ не названы: после встречи Нитьянанды с Мадхавендрой (ЧБ Ади 9) и до встречи Господа с Ишварой Пури."
 
 - id: ev-ramachandra-puri-criticism
   title: "Рамачандра Пури в Пури осуждает Господа, и Господь сокращает еду"

@@ -902,10 +902,6 @@
 - cb (A): Ади 8, 40–71 — [40–71](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L207-L362) · `cb-0058`
 - cb (A): Ади 8, 183–207 — [183–207](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L916-L1036) · `cb-0063`
 
-## Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури / Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri  `ev-madhavendra-puri-departure` (1496–1508, возраст 10–22, оценка)
-
-- cc (A): Антья 8.16–35 — [16–35](../chaitanya-charitamrita/vcd/txt/CC_Antya08.txt?plain=1#L200-L448) · `cc-4086`
-
 ## Двадцатилетнее паломничество Нитьянанды по святым местам Индии / Nityananda's twenty-year pilgrimage to the holy places of India  `ev-nityananda-pilgrimage` (1486–1508, возраст 0–22, )
 
 - cb (A): Ади 9, 102–153 — [102–104–153](../chaitanya-bhagavata/ed/CB_Adi09.md?plain=1#L512-L755) · `cb-0069`
@@ -916,10 +912,6 @@
 
 - cb (A): Ади 9, 154–193 — [154–193](../chaitanya-bhagavata/ed/CB_Adi09.md?plain=1#L760-L956) · `cb-0070`
 
-## Харидас в Чандапуре: спор о силе имени и наказание Гопалы Чакраварти / Haridasa at Chandapur: the debate on the power of the name and the punishment of Gopala Chakravarti  `ev-haridasa-gopala-chakravarti` (1500–1506, возраст 14–20, оценка)
-
-- cc (A): Антья 3.164–212 — [164–212](../chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L1706-L2227) · `cc-4033`
-
 ## Кундалитала: Нитьянанда-авадхута усмиряет змея в Экачакре / Kundalitala: Nityananda the Avadhuta subdues the serpent at Ekachakra  `ev-nityananda-kundalitala` (1496–1508, возраст 10–22, оценка)
 
 - nityananda-vamsha (C): Глава 5, 26–57 — [26–57](../nityananda-vamsha/ru/05.md?plain=1#L84-L179) · `nvv-0037`
@@ -927,6 +919,10 @@
 ## Нитьянанда-авадхута во Вриндаване пробуждает Шридаму — Абхираму / Nityananda the Avadhuta in Vrindavana awakens Shridama, who becomes Abhirama  `ev-nityananda-awakens-shridama` (1496–1508, возраст 10–22, оценка)
 
 - nityananda-vamsha (C): Глава 10, 29–56 — [29–56](../nityananda-vamsha/ru/10.md?plain=1#L100-L183) · `nvv-0068`
+
+## Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури / Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri  `ev-madhavendra-puri-departure` (1496–1508, возраст 10–22, оценка)
+
+- cc (A): Антья 8.16–35 — [16–35](../chaitanya-charitamrita/vcd/txt/CC_Antya08.txt?plain=1#L200-L448) · `cc-4086`
 
 ## Рождение Кришнадаса (Кришна Мишры), сына Адвайты; младенец отдан Шри / The birth of Krishnadasa (Krishna Mishra), Advaita's son; the infant given to Shri  `ev-krishna-mishra-birth` (1496–1508, возраст 10–22, оценка)
 
@@ -980,6 +976,10 @@
 - murari-kcc (A): Пракрама 1, сарга 9, шлоки 9–22 — [9–22](../murari-gupta/ru/1.09.md?plain=1#L21-L47) · `mkc-0036`
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 761–779 — [761–779](../lochana/ru/17.md?plain=1#L202-L256) · `lcm-0069`
 - murari-kcc (A): Пракрама 1, сарга 9, шлоки 23–33 — [23–33](../murari-gupta/ru/1.09.md?plain=1#L49-L69) · `mkc-0037`
+
+## Харидас в Чандапуре: спор о силе имени и наказание Гопалы Чакраварти / Haridasa at Chandapur: the debate on the power of the name and the punishment of Gopala Chakravarti  `ev-haridasa-gopala-chakravarti` (1500–1506, возраст 14–20, оценка)
+
+- cc (A): Антья 3.164–212 — [164–212](../chaitanya-charitamrita/vcd/txt/CC_Antya03.txt?plain=1#L1706-L2227) · `cc-4033`
 
 ## Свадьба с Лакшмиприей / Marriage with Lakshmipriya  `ev-marriage-lakshmipriya` (1496–1508, возраст 10–22, оценка)
 
@@ -2977,16 +2977,6 @@
 - murari-kcc (A): Пракрама 3, сарга 5, шлоки 7–9 — [7–9](../murari-gupta/ru/3.05.md?plain=1#L17-L21) · `mkc-0150`
 - lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 112–115 — [112–115](../lochana/ru/43.md?plain=1#L100-L109) · `lcm-0199`
 
-## Нитьянанда ломает посох Господа / Nityananda breaks the Lord's staff  `ev-danda-broken` (1510–1510, возраст 24–24, оценка)
-
-- cb (A): Антья 2, 190–236 — [190–236](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L939-L1169) · `cb-3025`
-- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан) — [**Ганга.** Затем, придя в деревню под на–**Ганга.** Затем, придя в деревню под на](../chaitanya-chandrodaya/ru/06.md?plain=1#L200-L200) · `ccd-0046`
-- gaura-krishnodaya (B): Сарга 8, 3–7 — [3–7](../gaura-krishnodaya/ru/08.md?plain=1#L11-L19) · `gkd-0069`
-- karnapura-ckm (A): Сарга 11, 80–81 — [80–81](../karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811) · `kcm-0109`
-- lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 116–149 — [116–149](../lochana/ru/43.md?plain=1#L114-L213) · `lcm-0200`
-- murari-kcc (A): Пракрама 3, сарга 5, шлоки 10–21 — [10–21](../murari-gupta/ru/3.05.md?plain=1#L23-L45) · `mkc-0151`
-- cc (A): Мадхья 5.141–158 — [141–158](../chaitanya-charitamrita/ed/vcd/CC_Madhya05.md?plain=1#L1134-L1270) · `cc-1041`
-
 ## Джалешвара: Господь танцует перед Шивой и славит Нитьянанду / Jaleshvara: the Lord dances before Shiva and glorifies Nityananda  `ev-jaleshvara-shiva-dance` (1510–1510, возраст 24–24, )
 
 - cb (A): Антья 2, 237–263 — [237–263](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L1174-L1304) · `cb-3026`
@@ -3047,6 +3037,16 @@
 - murari-kcc (A): Пракрама 3, сарга 9, шлоки 1–7 — [1–7](../murari-gupta/ru/3.09.md?plain=1#L5-L17) · `mkc-0159`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 93–111 — [93–111](../lochana/ru/44.md?plain=1#L314-L368) · `lcm-0206`
 - murari-kcc (A): Пракрама 3, сарга 9, шлоки 8–21 — [8–21](../murari-gupta/ru/3.09.md?plain=1#L19-L45) · `mkc-0160`
+
+## Нитьянанда ломает посох Господа / Nityananda breaks the Lord's staff  `ev-danda-broken` (1510–1510, возраст 24–24, оценка)
+
+- cb (A): Антья 2, 190–236 — [190–236](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L939-L1169) · `cb-3025`
+- lochana-cm (B): Мадхья-кханда, «Путь Господа в Нилачалу; сломанный посох», 116–149 — [116–149](../lochana/ru/43.md?plain=1#L114-L213) · `lcm-0200`
+- murari-kcc (A): Пракрама 3, сарга 5, шлоки 10–21 — [10–21](../murari-gupta/ru/3.05.md?plain=1#L23-L45) · `mkc-0151`
+- karnapura-ckm (A): Сарга 11, 80–81 — [80–81](../karnapura-mahakavya/ru/11.md?plain=1#L1788-L1811) · `kcm-0109`
+- cc (A): Мадхья 5.141–158 — [141–158](../chaitanya-charitamrita/ed/vcd/CC_Madhya05.md?plain=1#L1134-L1270) · `cc-1041`
+- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан) — [**Ганга.** Затем, придя в деревню под на–**Ганга.** Затем, придя в деревню под на](../chaitanya-chandrodaya/ru/06.md?plain=1#L200-L200) · `ccd-0046`
+- gaura-krishnodaya (B): Сарга 8, 3–7 — [3–7](../gaura-krishnodaya/ru/08.md?plain=1#L11-L19) · `gkd-0069`
 
 ## Господь видит храм Джаганнатхи / The Lord sights Jagannatha's temple  `ev-first-sight-jagannatha-temple` (1510–1510, возраст 24–24, оценка)
 
@@ -3720,6 +3720,18 @@
 - cb (A): Антья 8, 3–46 — [3–46](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L22-L237) · `cb-3102`
 - cc (A): Мадхья 10.85–90 — [85–90](../chaitanya-charitamrita/ed/vcd/CC_Madhya10.md?plain=1#L680-L720) · `cc-2008`
 
+## Снана-ятра; в анавасару Господь уходит к Алаланатхе / Snana-yatra; during anavasara the Lord goes to Alalanatha  `ev-snana-yatra-anavasara-alalanatha` (1512–1514, возраст 26–28, оценка)
+
+- cc (A): Мадхья 11.61–65 — [61–65](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L519-L551) · `cc-2020`
+- karnapura-ckm (A): Сарга 13, 50–59 — [50–59](../karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364) · `kcm-0130`
+- gaura-krishnodaya (B): Сарга 11, 30–34 — [30–34](../gaura-krishnodaya/ru/11.md?plain=1#L71-L81) · `gkd-0107`
+- karnapura-ckm (A): Сарга 14, 115–135 — [115–135](../karnapura-mahakavya/ru/14.md?plain=1#L2096-L2486) · `kcm-0145`
+- karnapura-ckm (A): Сарга 15, 1–11 — [1–11](../karnapura-mahakavya/ru/15.md?plain=1#L36-L252) · `kcm-0146`
+- karnapura-ckm (A): Сарга 15, 71–77 — [71–77](../karnapura-mahakavya/ru/15.md?plain=1#L1558-L1691) · `kcm-0148`
+- murari-kcc (A): Пракрама 4, сарга 20, шлоки 5–9 — [5–9](../murari-gupta/ru/4.20.md?plain=1#L13-L21) · `mkc-0241`
+- chaitanya-chandrodaya (A): Акт 10, праздник омовения, ст. 10–18 — [*(Входят царь, находящийся на террасе дв–> с благоговением образуют вокруг него к](../chaitanya-chandrodaya/ru/10.md?plain=1#L312-L418) · `ccd-0093`
+- chaitanya-chandrodaya (A): Акт 10, анавасара, ст. 19–27 — [> **19.** Когда Господь вселенной вступи–*(Оглядывается кругом.)*](../chaitanya-chandrodaya/ru/10.md?plain=1#L422-L527) · `ccd-0094`
+
 ## Пратапарудра с крыши дворца смотрит на приход бенгальских вайшнавов / Prataparudra watches the arrival of the Bengali Vaishnavas from the palace roof  `ev-prataparudra-watches-devotees-roof` (1512–1514, возраст 26–28, оценка)
 
 - cc (A): Мадхья 11.66–96 — [66–96](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L559-L799) · `cc-2021`
@@ -3786,18 +3798,6 @@
 
 - cb (A): Антья 9, 280–307 — [280–307](../chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L1323-L1447) · `cb-3116`
 
-## Снана-ятра; в анавасару Господь уходит к Алаланатхе / Snana-yatra; during anavasara the Lord goes to Alalanatha  `ev-snana-yatra-anavasara-alalanatha` (1512–1514, возраст 26–28, оценка)
-
-- cc (A): Мадхья 11.61–65 — [61–65](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L519-L551) · `cc-2020`
-- gaura-krishnodaya (B): Сарга 11, 30–34 — [30–34](../gaura-krishnodaya/ru/11.md?plain=1#L71-L81) · `gkd-0107`
-- karnapura-ckm (A): Сарга 13, 50–59 — [50–59](../karnapura-mahakavya/ru/13.md?plain=1#L1165-L1364) · `kcm-0130`
-- karnapura-ckm (A): Сарга 14, 115–135 — [115–135](../karnapura-mahakavya/ru/14.md?plain=1#L2096-L2486) · `kcm-0145`
-- karnapura-ckm (A): Сарга 15, 1–11 — [1–11](../karnapura-mahakavya/ru/15.md?plain=1#L36-L252) · `kcm-0146`
-- karnapura-ckm (A): Сарга 15, 71–77 — [71–77](../karnapura-mahakavya/ru/15.md?plain=1#L1558-L1691) · `kcm-0148`
-- murari-kcc (A): Пракрама 4, сарга 20, шлоки 5–9 — [5–9](../murari-gupta/ru/4.20.md?plain=1#L13-L21) · `mkc-0241`
-- chaitanya-chandrodaya (A): Акт 10, праздник омовения, ст. 10–18 — [*(Входят царь, находящийся на террасе дв–> с благоговением образуют вокруг него к](../chaitanya-chandrodaya/ru/10.md?plain=1#L312-L418) · `ccd-0093`
-- chaitanya-chandrodaya (A): Акт 10, анавасара, ст. 19–27 — [> **19.** Когда Господь вселенной вступи–*(Оглядывается кругом.)*](../chaitanya-chandrodaya/ru/10.md?plain=1#L422-L527) · `ccd-0094`
-
 ## Вторая чатурмасья с Раманандой на Годавари / A second chaturmasya with Ramananda on the Godavari  `ev-second-chaturmasya-ramananda` (1512–1514, возраст 26–28, оценка)
 
 - karnapura-ckm (A): Сарга 13, 60–61 — [60–61](../karnapura-mahakavya/ru/13.md?plain=1#L1387-L1410) · `kcm-0131`
@@ -3862,6 +3862,7 @@
 - padas (C): Йаду, ПК 1547 = ГПТ1 с. 322 (№ 3) «চৌদিকে মহান্ত মেলি করয়ে কীর্তন কেলি» — [21.1–21.5](../padas/ru/14.md?plain=1#L567-L579) · `pad-0306`
 - padas (C): Йаду, ГПТ1 с. 322–323 (№ 5) «লীলাকারী জগন্নাথ» — [22.1–22.5](../padas/ru/14.md?plain=1#L595-L607) · `pad-0307`
 - padas (D): Йадунатх Дас, ПК 1548 (без подписи) = ГПТ1 с. 323 (№ 6) «চৈতন্য নিতাই আরে দোন ভাই নাচে রে» — [23.1–23.4](../padas/ru/14.md?plain=1#L620-L629) · `pad-0308`
+- cc (A): Мадхья 13.189–192 — [189–192](../chaitanya-charitamrita/ed/vcd/CC_Madhya13.md?plain=1#L1622-L1646) · `cc-2055`
 - cc (A): Мадхья 13.193–204 — [193–204](../chaitanya-charitamrita/ed/vcd/CC_Madhya13.md?plain=1#L1654-L1742) · `cc-2056`
 - cc (A): Мадхья 14.23–46 — [23–46](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L195-L379) · `cc-2060`
 - cc (A): Мадхья 14.61–65 — [61–65](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L499-L531) · `cc-2062`
@@ -3873,14 +3874,8 @@
 
 ## Колесница не идёт; Господь толкает её / The chariot will not move; the Lord pushes it  `ev-lord-pushes-chariot` (1512–1514, возраст 26–28, оценка)
 
-- cc (A): Мадхья 13.189–192 — [189–192](../chaitanya-charitamrita/ed/vcd/CC_Madhya13.md?plain=1#L1622-L1646) · `cc-2055`
 - cc (A): Мадхья 14.47–60 — [47–60](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L387-L491) · `cc-2061`
 - gaura-krishnodaya (B): Сарга 12, 1–2 — [1–2](../gaura-krishnodaya/ru/12.md?plain=1#L7-L9) · `gkd-0113`
-
-## Господь в облике пастуха: горшки с молоком и вращение посоха / The Lord as a cowherd: pots of milk and the twirling staff  `ev-gopa-vesha-dadhi-utsava` (1512–1514, возраст 26–28, оценка)
-
-- karnapura-ckm (A): Сарга 18, 46–51 — [46–51](../karnapura-mahakavya/ru/18.md?plain=1#L835-L926) · `kcm-0163`
-- cc (A): Мадхья 15.17–31 — [17–31](../chaitanya-charitamrita/ed/vcd/CC_Madhya15.md?plain=1#L143-L255) · `cc-2077`
 
 ## Девять дней у Гундичи: киртаны и вриндаванские игры в саду Джаганнатха-валлабха / Nine days at Gundicha: kirtanas and Vrindavana pastimes in the Jagannatha-vallabha garden  `ev-gundicha-nine-days-lilas` (1512–1514, возраст 26–28, оценка)
 
@@ -3918,6 +3913,11 @@
 - cc (A): Мадхья 14.66–69 — [66–69](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L539-L563) · `cc-2063`
 - cc (A): Мадхья 15.15–16 — [15–16](../chaitanya-charitamrita/ed/vcd/CC_Madhya15.md?plain=1#L127-L135) · `cc-2076`
 - gaura-krishnodaya (B): Сарга 12, 23–30 — [23–30](../gaura-krishnodaya/ru/12.md?plain=1#L55-L71) · `gkd-0117`
+
+## Господь в облике пастуха: горшки с молоком и вращение посоха / The Lord as a cowherd: pots of milk and the twirling staff  `ev-gopa-vesha-dadhi-utsava` (1512–1514, возраст 26–28, оценка)
+
+- karnapura-ckm (A): Сарга 18, 46–51 — [46–51](../karnapura-mahakavya/ru/18.md?plain=1#L835-L926) · `kcm-0163`
+- cc (A): Мадхья 15.17–31 — [17–31](../chaitanya-charitamrita/ed/vcd/CC_Madhya15.md?plain=1#L143-L255) · `cc-2077`
 
 ## Виджая-дашами: Господь в бхаве Ханумана рушит «Ланку» / Vijaya-dashami: in Hanuman's mood the Lord storms 'Lanka'  `ev-vijaya-dashami-hanuman-lanka` (1512–1514, возраст 26–28, оценка)
 
@@ -4235,6 +4235,11 @@
 
 - karnapura-ckm (A): Сарга 19, 13–19 — [13–19](../karnapura-mahakavya/ru/19.md?plain=1#L249-L358) · `kcm-0167`
 
+## Гададхара оставляет кшетра-санньясу, чтобы идти за Господом в Гауду / Gadadhara abandons his kshetra-sannyasa to follow the Lord to Gauda  `ev-gadadhara-leaves-kshetra-sannyasa` (1514–1514, возраст 28–28, вероятно)
+
+- cc (A): Мадхья 16.130–149 — [130–149](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L1036-L1192) · `cc-2104`
+- padas (A): Шивананда Сен, ПК 2355 «জয় জয় পণ্ডিত গোসাঞি» — [21.1–21.6](../padas/ru/01.md?plain=1#L534-L549) · `pad-0021`
+
 ## Прощание с Раманандой Раем в Ремуне / Farewell to Ramananda Raya at Remuna  `ev-ramananda-farewell-remuna` (1514–1516, возраст 28–30, оценка)
 
 - cc (A): Мадхья 16.150–155 — [150–155](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L1200-L1240) · `cc-2105`
@@ -4248,16 +4253,6 @@
 ## Господь в Амаипуре у Субуддхи Мишры даёт имя Джаянанде / At Amaipura, in Subuddhi Mishra's house, the Lord names Jayananda  `ev-jayananda-named` (1514–1516, возраст 28–30, оценка)
 
 - jayananda-cm (C): Виджая-кханда (70.2.15; 71.1.1–3): статья Н. Васу 1897, «Сведения о поэте», цит. 4; цит. «Путь из Пури в Гауду» — [> 4. «Чайтанья отправился в страну Гауду–> этой надеждой живёт Джаянанда». (70.2.](../jayananda/ru/02-vasu-1897.md?plain=1#L97-L128); [2:1–3–2:1–3](../jayananda/ru/05-quotes.md?plain=1#L1153-L1153) · `jcm-0084`
-
-## Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы / Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala  `ev-natashala-kanai-return` (1514–1516, возраст 28–30, оценка)
-
-- gaura-krishnodaya (B): Сарга 13, 37–38 — [37–38](../gaura-krishnodaya/ru/13.md?plain=1#L83-L85) · `gkd-0126`
-- karnapura-ckm (A): Сарга 20, 31–34 — [31–34](../karnapura-mahakavya/ru/20.md?plain=1#L699-L765) · `kcm-0175`
-- lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 18–24 — [18–24](../lochana/ru/47.md?plain=1#L189-L219) · `lcm-0227`
-- murari-kcc (A): Пракрама 3, сарга 17, шлоки 6–13 — [6–13](../murari-gupta/ru/3.17.md?plain=1#L15-L29) · `mkc-0185`
-- prema-vilasa (C): Виласа 8, 13–28 — [13–28](../prema-vilasa/ru/08.md?plain=1#L41-L86) · `pvl-0049`
-- murari-kcc (A): Пракрама 3, сарга 18, шлоки 12–14 — [12–14](../murari-gupta/ru/3.18.md?plain=1#L27-L31) · `mkc-0189`
-- cc (A): Мадхья 16.252–278 — [252–278](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L2020-L2228) · `cc-2111`
 
 ## Говиндананда (Сугрива Мишра) мысленно строит мост для пути Господа через Гауду / Govindananda (Sugriva Mishra) builds in his mind a bridge for the Lord's journey through Gauda  `ev-govindananda-mental-bridge` (1514–1516, возраст 28–30, оценка)
 
@@ -4352,6 +4347,16 @@
 - cc (A): Мадхья 19.3–12 — [3–12](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L33-L105) · `cc-3021`
 - cc (A): Мадхья 19.13–30 — [13–30](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L113-L249) · `cc-3022`
 - cc (A): Мадхья 19.31–37 — [31–37](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L257-L305) · `cc-3023`
+
+## Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы / Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala  `ev-natashala-kanai-return` (1514–1516, возраст 28–30, оценка)
+
+- gaura-krishnodaya (B): Сарга 13, 37–38 — [37–38](../gaura-krishnodaya/ru/13.md?plain=1#L83-L85) · `gkd-0126`
+- karnapura-ckm (A): Сарга 20, 31–34 — [31–34](../karnapura-mahakavya/ru/20.md?plain=1#L699-L765) · `kcm-0175`
+- lochana-cm (B): Шеша-кханда, «Господь видит Вриндаван», 18–24 — [18–24](../lochana/ru/47.md?plain=1#L189-L219) · `lcm-0227`
+- murari-kcc (A): Пракрама 3, сарга 17, шлоки 6–13 — [6–13](../murari-gupta/ru/3.17.md?plain=1#L15-L29) · `mkc-0185`
+- prema-vilasa (C): Виласа 8, 13–28 — [13–28](../prema-vilasa/ru/08.md?plain=1#L41-L86) · `pvl-0049`
+- murari-kcc (A): Пракрама 3, сарга 18, шлоки 12–14 — [12–14](../murari-gupta/ru/3.18.md?plain=1#L27-L31) · `mkc-0189`
+- cc (A): Мадхья 16.252–278 — [252–278](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L2020-L2228) · `cc-2111`
 
 ## После Канай-Натшалы: у Адвайты в Шантипуре, встреча с Шачи / After Kanai-Natashala: at Advaita's house in Shantipura, meeting with Shachi  `ev-shantipura-after-natashala` (1514–1516, возраст 28–30, оценка)
 
@@ -4753,11 +4758,6 @@
 
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 1–21 (с 9+1 — 9+2, 13+1) — [1–21](../lochana/ru/51.md?plain=1#L11-L80) · `lcm-0245`
 - murari-kcc (A): Пракрама 4, сарга 13, шлоки 22–24 — [22–24](../murari-gupta/ru/4.13.md?plain=1#L47-L51) · `mkc-0225`
-
-## Гададхара оставляет кшетра-санньясу, чтобы идти за Господом в Гауду / Gadadhara abandons his kshetra-sannyasa to follow the Lord to Gauda  `ev-gadadhara-leaves-kshetra-sannyasa` (1514–1514, возраст 28–28, вероятно)
-
-- cc (A): Мадхья 16.130–149 — [130–149](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L1036-L1192) · `cc-2104`
-- padas (A): Шивананда Сен, ПК 2355 «জয় জয় পণ্ডিত গোসাঞি» — [21.1–21.6](../padas/ru/01.md?plain=1#L534-L549) · `pad-0021`
 
 ## Кулия и Навадвипа: встреча с Шачи / Kuliya and Navadvipa: meeting with Shachi  `ev-kuliya-shachi-meeting` (1514–1516, возраст 28–30, оценка)
 

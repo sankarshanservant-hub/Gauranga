@@ -2391,11 +2391,11 @@
   title: "Нитьянанда ломает посох Господа"
   title_en: "Nityananda breaks the Lord's staff"
   period: P09
-  order: 75
+  order: 88.5
   cc: "Мадхья 5"
   cb: "Антья 2"
   themes: [sannyasa, pilgrimage]
-  notes: "Мурари 3.5.10–21."
+  notes: "Мурари 3.5.10–21. Расхождение: ЧЧ (Мадхья 5.141–158), «Чайтанья-чандродая» и «Гаура-кришнодая» — в Камалапуре у Бхаргинади, перед самым Пури (после Сакши-гопалы и Бхуванешвары); ЧБ (Антья 2), Мурари и Лочан — раньше, до Джалешвары и Ремуны."
 
 - id: ev-remuna-gopala
   title: "Тамолук и Ремуна: Божество роняет Господу венец"
@@ -3165,12 +3165,12 @@
   title: "Снана-ятра; в анавасару Господь уходит к Алаланатхе"
   title_en: "Snana-yatra; during anavasara the Lord goes to Alalanatha"
   period: P12
-  order: 60
+  order: 18
   calendar: "Снана-ятра (джьяйштха, пурнима); анавасара; Нетротсава"
   cc: "Мадхья 11"
   cb: ""
   themes: [festival, jagannatha, separation]
-  notes: "Мурари 4.20.5–9."
+  notes: "Мурари 4.20.5–9. По ЧЧ Мадхья 11.61–65 в первый год Господь уходит в Алаланатху в анавасару и возвращается, узнав о приходе бенгальцев, — т. е. до ev-gauda-devotees-arrive-puri; уборка Гундичи, Нетротсава и Ратха-ятра — после."
 
 - id: ev-gundicha-marjana
   title: "Уборка храма Гундичи"
@@ -3331,7 +3331,7 @@
   title: "Нрисимхананда мостит дорогу; Господь поворачивает от Канайр Натшалы"
   title_en: "Nrisimhananda paves the road in his mind; the Lord turns back at Kanair Natashala"
   period: P13
-  order: 5
+  order: 13
   cc: "Мадхья 1; Мадхья 16"
   cb: ""
   themes: [pilgrimage, mercy]
@@ -5288,7 +5288,7 @@
   title: "Гададхара оставляет кшетра-санньясу, чтобы идти за Господом в Гауду"
   title_en: "Gadadhara abandons his kshetra-sannyasa to follow the Lord to Gauda"
   period: P13
-  order: 195
+  order: 2.7
   years: [1514, 1514]
   date_conf: вероятно
   date_basis: "ЧЧ Мадхья 16: на пути Господа в Гауду (во Вриндаван); Маджумдар: пада Шивананды ПК 2355 — 1514/15"
