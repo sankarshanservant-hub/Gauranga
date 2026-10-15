@@ -48,3 +48,41 @@
   themes: [prasada, pranks]
   teaching: [associates-tattva]
   notes: "После примирения Господа с Адвайтой (ev-advaita-yoga-vasishtha-beating), в Шантипуре. Ср. сходную перебранку после санньясы — ev-advaita-feast-shantipura."
+
+- id: ev-murari-dream-nityananda-elder
+  title: "Сон Мурари: Нитьянанда — старший брат; остатки бетеля и обличение Пракашананды"
+  title_en: "Murari's dream: Nityananda is the elder brother; betel remnants and the denunciation of Prakashananda"
+  period: P07
+  order: 113.2
+  cb: "Мадхья 20"
+  themes: [revelation, teaching]
+  teaching: [associates-tattva, vedanta]
+  notes: "Мурари кланяется Господу прежде Нитьянанды и получает укор; во сне видит Нитьянанду Халадхарой, которого обмахивает Господь, и наутро кланяется сперва Нитьянанде; Господь даёт ему остатки бетеля и в настроении Владыки обличает Пракашананду из Каши, считающего Его тело иллюзорным."
+
+- id: ev-murari-rice-lord-indigestion
+  title: "Мурари в экстазе кормит Кришну рисом; Господь «лечится» его водой"
+  title_en: "Murari feeds Krishna rice in ecstasy; the Lord 'cures' Himself with Murari's water"
+  period: P07
+  order: 113.25
+  cb: "Мадхья 20"
+  themes: [prasada, mercy]
+  notes: "Мурари бросает рис на пол со словами «Ешь, Кришна!»; наутро Господь приходит «лечить расстройство желудка» и выпивает его кувшин воды."
+
+- id: ev-murari-garuda
+  title: "Мурари в бхаве Гаруды носит Господа на плечах"
+  title_en: "Murari in the mood of Garuda carries the Lord on his shoulders"
+  period: P07
+  order: 113.3
+  cb: "Мадхья 20"
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya]
+  notes: "В доме Шривасы Господь в четырёхруком облике зовёт Гаруду; Мурари отвечает «Я — Гаруда» и носит Его по двору."
+
+- id: ev-murari-knife
+  title: "Мурари решает оставить тело прежде Господа; Господь отбирает нож"
+  title_en: "Murari resolves to leave his body before the Lord departs; the Lord takes away the knife"
+  period: P07
+  order: 113.35
+  cb: "Мадхья 20"
+  themes: [mercy, separation]
+  notes: "Боясь пережить уход Господа (как Сита была оставлена, а Ядавы погибли), Мурари прячет нож; всеведущий Господь находит его и берёт с Мурари слово: «Иначе ты съешь Мою голову»."
