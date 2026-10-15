@@ -296,3 +296,26 @@
   cb: ""
   themes: [sannyasa, prasada]
   notes: ""
+
+# --- Антья 7 ---
+- id: ev-vallabha-sridhara-svami
+  title: "Валлабха Бхатта спорит с вайшнавами и отвергает Шридхару Свами; Господь смиряет его гордость"
+  title_en: "Vallabha Bhatta argues with the Vaishnavas and rejects Shridhara Svami; the Lord humbles his pride"
+  period: P14
+  order: 32.5
+  cc: "Антья 7.96–137"
+  cb: ""
+  themes: [learning, teaching, mercy]
+  teaching: [scripture, holy-name]
+  notes: "«Кто не признаёт Свами — блудница»; Шридхара Свами — гуру мира. Ср. ev-vallabha-bhatta-puri."
+
+- id: ev-gadadhara-vallabha-initiation
+  title: "Господь испытывает Гададхару; Валлабха Бхатта получает посвящение от Гададхары"
+  title_en: "The Lord tests Gadadhara; Vallabha Bhatta is initiated by Gadadhara"
+  period: P14
+  order: 32.8
+  cc: "Антья 7.138–167"
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [associates-tattva, prema]
+  notes: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; «Гададхара-прананатха»."

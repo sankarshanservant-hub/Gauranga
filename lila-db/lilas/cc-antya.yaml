@@ -1421,3 +1421,153 @@
   cc: "Антья 6"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "326", to: "329"}
+
+- id: cc-4076
+  source: cc
+  ref: "Антья 7.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: PX
+  order: 995.14
+  title: "Мангалачарана Антья 7; бенгальские преданные снова в Пури"
+  summary: "Поклон преданным Чайтаньи, по милости которых освобождаются даже падшие; слава Чайтанье, Нитьянанде, Адвайте и преданным. На следующий год бенгальцы вновь пришли к Господу."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "1", to: "3"}
+
+- id: cc-4077
+  source: cc
+  ref: "Антья 7.4–57"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32
+  title: "Валлабха Бхатта приходит к Господу; Господь отвечает, что Сам — санньяси-майявади, а бхакти постиг через Адвайту, Нитьянанду, Сарвабхауму, Рамананду, Сварупу и Харидаса"
+  summary: "Учёный Валлабха Бхатта пришёл в Пури и восхвалил Господа: Ты учишь санкиртане — значит, наделён силой Кришны, ведь лишь Кришна дарует прему. Видя его гордость, Господь ответил: Я лишь санньяси-майявади; бхакти Я понял по милости преданных — Адвайты, равного Богу; Нитьянанды, океана премы; Сарвабхаумы, показавшего предел бхакти-йоги; Рамананды, открывшего, что Кришна — изначальный Бхагаван и что рагануга-бхакти выше айшварья-бхакти; Сварупы, объяснившего мадхура-расу и чистую любовь гопи, у которых Кришна в долгу; Харидаса, открывшего славу имени, и бенгальских вайшнавов. Гордость Валлабхи рассыпалась, и он пожелал встретиться с ними."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@advaita", "@nityananda", "@sarvabhauma", "@ramananda-raya", "@svarupa-damodara", "@haridasa-thakura", "@chandrashekhara-acharya", "@gadadhara-pandita", "@jagadananda-pandita", "@damodara-pandita", "@shankara-pandita", "@vakreshvara", "@kashishvara", "@mukunda-datta", "@vasudeva-datta", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 48: «Ачарьяратна» — Чандрашекхара Ачарья; Ачарьянидхи без тега."
+  themes: [teaching, learning]
+  teaching: [prema, vaishnava, bhakti-supremacy]
+  scriptures: ["Бхаг. 1.19.33", "Лагху-бхагаватамрита, 1.5.37", "Бхаг. 10.9.21", "Бхаг. 10.47.60", "Бхаг. 10.12.11", "Бхаг. 10.8.45", "Бхаг. 10.8.46", "Бхаг. 10.31.19", "Бхаг. 10.31.36", "Бхаг. 10.32.22"]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "4", to: "57"}
+
+- id: cc-4078
+  source: cc
+  ref: "Антья 7.58–75"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.1
+  title: "Валлабха Бхатта угощает Господа и Его спутников махапрасадом; на Ратха-ятре видит семь групп киртана"
+  summary: "Валлабха пригласил Господа; на другой день Господь представил его вайшнавам, рядом с которыми он чувствовал себя светлячком. Он принёс много махапрасада Джаганнатхи и накормил Господа, санньяси во главе с Парамананда Пури, Адвайту, Нитьянанду и бенгальцев; раздавали Сварупа, Джагадананда, Кашишвара, Шанкара, Рагхава и Дамодара. На Ратха-ятре Господь разделил вайшнавов на семь групп во главе с Адвайтой, Нитьянандой, Харидасом, Вакрешварой, Шривасой, Рагхавой и Гададхарой, по четырнадцать мридангов в каждой, и переходил от группы к группе; Валлабха был поражён."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@paramananda-puri", "@advaita", "@nityananda", "@svarupa-damodara", "@jagadananda-pandita", "@kashishvara", "@shankara-pandita", "@raghava-pandita", "@damodara-pandita", "@haridasa-thakura", "@vakreshvara", "@srivasa", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, jagannatha, kirtan]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "58", to: "75"}
+
+- id: cc-4079
+  source: cc
+  ref: "Антья 7.76–95"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.2
+  title: "Господь не желает слушать комментарий Валлабхи и его толкования имени «Кришна»: «Кришна — тёмный, сын Яшоды»; Валлабха читает их Гададхаре"
+  summary: "Валлабха попросил выслушать его комментарий к «Бхагавате»; Господь ответил, что не понимает «Бхагаваты» и не успевает даже закончить свою норму имени, а из значений имени «Кришна» знает лишь два: Шьямасундара и сын Яшоды. Огорчённый Валлабха стал ходить к Гададхаре и против его воли читал ему своё толкование имени; Гададхара, не смея прервать знатного брахмана, мысленно молился Кришне, а спутники Господа выражали ему недовольство."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@gadadhara-pandita", "@yashoda"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [learning, teaching]
+  teaching: [holy-name, scripture]
+  scriptures: ["Нама-каумуди"]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "76", to: "95"}
+
+- id: cc-4080
+  source: cc
+  ref: "Антья 7.96–112"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.5
+  title: "Споры Валлабхи с вайшнавами: «жена не зовёт мужа по имени» — Господь: «если муж велит, верная жена повторяет его имя»; «кто не признаёт Свами — блудница»"
+  summary: "Валлабха каждый день спорил с Адвайтой и вайшнавами и, как утка среди лебедей, терпел поражение. Он спросил Адвайту: джива по природе — женщина, Кришна — её муж, а верная жена не называет мужа по имени, зачем же вы поёте имя Кришны? Адвайта отослал к Господу, и Господь сказал: долг жены — исполнять волю мужа, а муж велит повторять Его имя. Затем Валлабха объявил, что опровергает в своём комментарии Шридхару Свами; Господь ответил: кто не принимает слова «свами» (мужа), ту Я считаю блудницей."
+  persons: ["@vallabha-bhatta", "@advaita", "@mahaprabhu", "@shridhara-svami"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [learning, teaching]
+  teaching: [holy-name, scripture]
+  cc: "Антья 7"
+  event: ev-vallabha-sridhara-svami
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "96", to: "112"}
+
+- id: cc-4081
+  source: cc
+  ref: "Антья 7.113–137"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.6
+  title: "Валлабха понимает, что Господь смиряет его гордость, как Кришна — гордость Индры, и предаётся; Господь велит толковать «Бхагавату», следуя Шридхаре Свами"
+  summary: "Господь знал гордость Валлабхи и пренебрегал им, чтобы сокрушить её, как Кришна — гордость Индры. Дома Валлабха понял: в Праяге Господь был ко мне милостив, а теперь груб ради моего блага. Утром он предался Господу, признал Его Самим Бхагаваном и попросил прощения. Господь сказал: Шридхара Свами — гуру мира, и Я принимаю его учителем; толкуй «Бхагавату» вслед за ним, оставь гордость, повторяй имя без оскорблений — и обретёшь стопы Кришны. Господь принял его приглашение."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@shridhara-svami", "@indra", "@krishna"]
+  places: ["#puri", "#prayaga"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching, learning]
+  teaching: [scripture, holy-name]
+  cc: "Антья 7"
+  event: ev-vallabha-sridhara-svami
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "113", to: "137"}
+
+- id: cc-4082
+  source: cc
+  ref: "Антья 7.138–167"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.8
+  title: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; Господь испытывает Гададхару и обнимает его; Валлабха получает посвящение от Гададхары"
+  summary: "Любовь Джагадананды, затевавшего с Господом ссоры, подобна любви Сатьябхамы, а покорная любовь Гададхары — любви Рукмини, пугавшейся шуток Кришны. Валлабха, поклонявшийся Бала-Гопале, в общении с Гададхарой стал поклоняться Кишора-Гопале и просил у него мантру, но Гададхара отказался без позволения Господа. В день пира у Валлабхи Господь послал за Гададхарой; Сварупа спросил, почему тот не отвечал Господу упрёком, и Гададхара сказал, что лишь ждёт Его милости. Он с плачем припал к стопам Господа, и Господь обнял его: «Ты купил Меня своей простотой». Потому Господь зовётся «Гададхара-прананатха», «Гадайра Гауранга». На следующий день у Гададхары Валлабха с позволения Господа получил от него посвящение."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@jagadananda-pandita", "@vallabha-bhatta", "@svarupa-damodara", "@govinda-servant", "@rukmini", "@satyabhama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [associates-tattva, prema]
+  cc: "Антья 7"
+  event: ev-gadadhara-vallabha-initiation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "138", to: "167"}
+
+- id: cc-4083
+  source: cc
+  ref: "Антья 7.168–169"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: PX
+  order: 995.15
+  title: "Колофон Антья 7"
+  summary: "Так рассказано о встрече Валлабхи Бхатты с Господом; кто слушает с верой, обретает любовь к Гауранге. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@vallabha-bhatta"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "168", to: "169"}
