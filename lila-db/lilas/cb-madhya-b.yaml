@@ -230,3 +230,156 @@
   teaching: [vaishnava, associates-tattva, gaura-tattva]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya17.md", from: "103", to: "118"}
+
+# ---------- Мадхья 18. Танец Господа в облике Лакшми (действо в доме Чандрашекхары) ----------
+
+- id: cb-2013
+  source: cb
+  ref: "Мадхья 18, 1–37"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 134.95
+  title: "Господь задумывает действо: распределение ролей и костюмы"
+  summary: "Господь объявляет, что сегодня по всем правилам будет представление, и велит Садашиве и Буддхиманте Хану приготовить костюмы: Гададхара будет Рукмини, Брахмананда — её подругой Супрабхой, Нитьянанда — бабушкой, Харидас — стражем, Шриваса — Нарадой, Шриман — факельщиком; Сам Он будет танцевать в облике шакти Господа и допускает лишь владеющих чувствами, но обещает, что все станут великими йогами и не смутятся; в доме Чандрашекхары собираются преданные, Шачи с невесткой и семьи вайшнавов; Адвайта без костюма пляшет, как шут."
+  persons: ["@mahaprabhu", "@sadashiva-pandita", "@buddhimanta-khan", "@gadadhara-pandita", "@brahmananda-puri", "@nityananda", "@haridasa-thakura", "@srivasa", "@srirama-pandita", "@shriman-pandita", "@advaita", "@chandrashekhara-acharya", "@shachi", "@vishnupriya"]
+  places: ["#house-chandrashekhara", "#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.12–13; Мурари 2.15–2.17; Лочан, Мадхья-кханда, «Перед санньясой»; Карнапура (ЧКМ) 11.1–37"
+  notes: "Брахмананда (ст. 9) отождествлён с Брахманандой Пури предположительно; Садашива — вероятно, Садашива Пандит. Ст. 22–23 в издании пропущены."
+  themes: [krishna-lila, kirtan]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "1", to: "37"}
+
+- id: cb-2014
+  source: cb
+  ref: "Мадхья 18, 38–69"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 134.96
+  title: "Харидас — страж Вайкунтхи, Шриваса — Нарада; Шачи теряет сознание"
+  summary: "Под киртан Мукунды первым выходит Харидас с подкрученными усами, в тюрбане и с палкой: «Я страж Вайкунтхи; Господь пришёл раздать прему — будьте бдительны, служите Кришне!»; затем Шриваса в облике Нарады с белой бородой и виной, за ним Рамаи Пандит с кувшином и подстилкой: «На Вайкунтхе пусто — Кришна пришёл в Надию»; увидев его, Шачи от блаженства лишается чувств, женщины шепчут ей имена Кришны."
+  persons: ["@haridasa-thakura", "@srivasa", "@srirama-pandita", "@mukunda-datta", "@murari-gupta", "@advaita", "@shachi", "@malini", "@narada"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, ecstasy, kirtan]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "38", to: "69"}
+
+- id: cb-2015
+  source: cb
+  ref: "Мадхья 18, 70–100"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 134.97
+  title: "Господь в бхаве Рукмини пишет и читает её письмо Кришне"
+  summary: "Одевшись, Господь погружается в настроение Рукмини, считает Себя царевной Видарбхи и, плача, пишет на полу пальцем слезами письмо — семь шлок «Бхагаваты»: услышав о Кришне, она избавилась от страданий и, утратив стыд, пленилась Им; без Него учёность, род и богатство бессмысленны; пусть Он похитит её, не допустит, чтобы её взял Шишупала, и не убивает её родных; «Брахман, скорей передай Кришне моё желание»; вайшнавы плачут и улыбаются от любви."
+  persons: ["@mahaprabhu", "@rukmini", "@krishna", "@haridasa-thakura", "@srivasa"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 74: кто постигнет смысл семи шлок, тому Господь станет супругом. Ст. 82–89, 91–92, 94–96 в издании пропущены."
+  themes: [krishna-lila, ecstasy]
+  bhava: [shakti]
+  scriptures: ["Бхаг. 10.52.37–43"]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "70", to: "100"}
+
+- id: cb-2016
+  source: cb
+  ref: "Мадхья 18, 101–119"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 134.98
+  title: "Танец Гададхары в облике Рамы с «подругой» Брахманандой"
+  summary: "Через три часа киртана выходит Гададхара с Брахманандой в роли старой подруги Супрабхи: «Идём в Матхуру»; Харидас, Шриваса и Гангадас шутливо расспрашивают их о мужьях и ночлеге, а Адвайта укоряет: «Чужих жён почитают как мать; потанцуйте — Мой Господь любит танцы»; Гададхара пляшет в облике богини удачи, и река его слёз радует Землю; Господь говорит: «На Вайкунтхе Гададхара — Моя жена»."
+  persons: ["@gadadhara-pandita", "@brahmananda-puri", "@haridasa-thakura", "@srivasa", "@gangadasa-pandita", "@advaita", "@mahaprabhu"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 115–116: Гададхара — проявление внутренней энергии Кришны."
+  themes: [krishna-lila, ecstasy]
+  teaching: [associates-tattva]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "101", to: "119"}
+
+- id: cb-2017
+  source: cb
+  ref: "Мадхья 18, 120–162"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 134.99
+  title: "Господь выходит в облике высшей Богини; Нитьянанда-«бабушка» падает в экстазе"
+  summary: "Господь выходит в облике Богини, а напротив — Нитьянанда в роли старой бабушки; никто, даже Шачи, не узнаёт Его: Камала ли это, Джанаки, Парвати или жемчужина Вриндавана? — лишь вайшнавы по Его благословению не смущены и видят в Нём мать; по словам «Брахман, идёт ли Кришна?» понимают, что Он — царевна Видарбхи, по словам «Бабушка, пойдём во Вриндаван» — девушка Гокулы; слёзы, смех и покачивания являют Гангу, Махачанди, Ревати; Он танцует за всех Своих жён, уча не хулить Его энергии; Нитьянанда теряет сознание, все плачут."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi", "@advaita", "@shriman-pandita", "@haridasa-thakura"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 147–149: эта лила учит почитать энергии и супруг Кришны; оскорбление полубогов неугодно Кришне. Ст. 124–125 в издании пропущены."
+  themes: [krishna-lila, revelation, ecstasy]
+  bhava: [shakti, radha]
+  teaching: [associates-tattva]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "120", to: "162"}
+
+- id: cb-2018
+  source: cb
+  ref: "Мадхья 18, 163–208"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 135
+  title: "Господь на троне в настроении Маха-Лакшми; молитвы Матери вселенной; Господь кормит преданных грудным молоком"
+  summary: "Посадив на колени Божество Гопинатхи, Господь в настроении Маха-Лакшми садится на трон и велит возносить Ему молитвы; преданные славят Его как Мать вселенной — Лакшми в домах преданных, вера вайшнавов, — и молят о прибежище; на рассвете танец кончается, и преданные и женщины рыдают, как от потери миллионов сыновей; сжалившись, Господь в материнской любви кормит каждого грудным молоком, подтверждая слова Гиты «Я — отец и мать этого мира», и их боль разлуки утихает."
+  persons: ["@mahaprabhu", "@shachi", "@chandrashekhara-acharya"]
+  places: ["#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 166–182: часть преданных славит Его как Лакшми, часть — как Дургу/Махамайю (молитвы в материнском настроении Господа); по ЧБ все эти облики — проявления Самого Господа (ст. 204, 211–214), а не самостоятельные божества. Ст. 172–176 в издании пропущены."
+  themes: [revelation, ecstasy, separation]
+  bhava: [shakti, aishvarya]
+  scriptures: ["Гита 9.17"]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "163", to: "208"}
+
+- id: cb-2019
+  source: cb
+  ref: "Мадхья 18, 209–225"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: PX
+  order: 202
+  title: "Слово автора: все облики Господа истинны; Нитьянанда принимает облик, нужный каждой лиле"
+  summary: "Игры Господа бесконечны; все элементы мира — Его проявления, и Он принимает какой пожелает облик, и все Его облики — высшая истина; грешники, называющие Господа «гопи» без понимания этой истины, губят себя; в этой лиле Нитьянанда был бабушкой — Он всегда принимает облик, подходящий игре Гауры; кто как ни считает Нитьянанду — йогом, преданным или джнани, — автор не оставит Его стоп."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author, teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "209", to: "225"}
+
+- id: cb-2020
+  source: cb
+  ref: "Мадхья 18, 226–234"
+  file: "chaitanya-bhagavata/ed/CB_Madhya18.md"
+  period: P07
+  order: 135.5
+  title: "Семь дней сияния в доме Чандрашекхары"
+  summary: "Семь дней дом Ачарьяратны полон дивного сияния, будто вместе горят луна, солнце и молния; входящие не могут открыть глаз и спрашивают, отчего слепнут, а вайшнавы радуются, но не объясняют; колофон."
+  persons: ["@chandrashekhara-acharya", "@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#house-chandrashekhara"]
+  kind: miracle
+  authority: A
+  parallels: "Мурари 2.17.1–4"
+  notes: "Ст. 233–234 — колофон."
+  themes: [revelation]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "226", to: "234"}
