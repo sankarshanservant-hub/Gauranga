@@ -1,0 +1,64 @@
+# События, заведённые при внесении «Шри Чайтанья-чаритамриты», Антья-лила 1–20 (исполнитель cc-a; формат — README.md).
+# Дописывать в конец; порядок на шкале — поле order.
+
+# --- Антья 1 ---
+- id: ev-satyabhama-dream-rupa
+  title: "Сон Рупы в Сатьябхама-пуре: Сатьябхама велит написать о Ней отдельную драму"
+  title_en: "Rupa's dream at Satyabhama-pura: Satyabhama asks for a separate drama about Her"
+  period: P14
+  order: 9.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.40–44"
+  cb: ""
+  themes: [celestial, author]
+  notes: "По пути из Гауды в Пури; отсюда — разделение замысла на «Видагдха-мадхаву» и «Лалита-мадхаву» (ср. ev-rupa-puri-dramas)."
+
+- id: ev-rupa-arrives-haridasa-puri
+  title: "Рупа приходит в Пури к Харидасу Тхакуру; Господь представляет его преданным"
+  title_en: "Rupa comes to Haridasa Thakura in Puri; the Lord introduces him to the devotees"
+  period: P14
+  order: 10.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.45–61"
+  cb: ""
+  themes: [mercy, prasada]
+  notes: "Вторая встреча Рупы с Господом (первая — в Праяге, ev-rupa-prayaga)."
+
+- id: ev-priyah-so-yam-rupa
+  title: "Шлока Рупы «прийах со ’йам»: Господь находит лист на крыше хижины"
+  title_en: "Rupa's verse priyah so 'yam: the Lord finds the palm leaf on the roof"
+  period: P14
+  order: 11.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.72–92"
+  cb: ""
+  themes: [ecstasy, jagannatha, krishna-lila]
+  notes: "Ответ на шлоку «йах каумара-харах», которую Господь повторял на Ратха-ятре (Мадхья 1, 13)."
+
+- id: ev-tunde-tandavini
+  title: "Стих Рупы «тунде тандавини» о сладости имени «Кришна»"
+  title_en: "Rupa's verse tunde tandavini on the sweetness of the name Krishna"
+  period: P14
+  order: 11.7
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.94–102"
+  cb: ""
+  themes: [ecstasy, teaching]
+  teaching: [holy-name]
+  notes: "Видагдха-мадхава 1.15; затем стих прочитан при собрании (ev-rupa-puri-dramas)."
+
+- id: ev-rupa-sent-vrindavana-after-dola
+  title: "После Дола-ятры Господь посылает Рупу во Вриндаван писать о расах и восстанавливать святые места"
+  title_en: "After Dola-yatra the Lord sends Rupa to Vrindavana to write on rasa and restore the holy places"
+  period: P14
+  order: 12.8
+  years: [1517, 1517]
+  date_conf: оценка
+  cc: "Антья 1.213–221"
+  cb: ""
+  themes: [mercy, festival, pilgrimage]
+  notes: "Господь велит прислать к Нему Санатану (ср. ev-sanatana-puri-sores)."

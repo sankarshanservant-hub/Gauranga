@@ -1,0 +1,267 @@
+# «Шри Чайтанья-чаритамрита», Антья-лила 1–20 (исполнитель cc-a). Формат — lila-db/README.md.
+
+- id: cc-4001
+  source: cc
+  ref: "Антья 1.1–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: PX
+  order: 995.01
+  title: "Мангалачарана Антья-лилы: поклон Чайтанье, святым, шести Госвами, Радха-Мадана-мохану, Говинде и Гопинатхе; автор, старый и близкий к смерти, приступает к Антья-лиле"
+  summary: "Поклон Шри Кришне Чайтанье, по милости Которого хромой одолевает горы; молитва святым о посохе милости, шести Госвами, Радха-Мадана-мохану, Гандхарва-Говиндасундаре и Гопинатхе у Вамшиваты. Главные игры кратко описаны; автор, ослабевший от старости, расскажет теперь о том, что прежде не описал."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-dasa", "@madana-mohana-vrindavana", "@govinda-deity", "@gopinatha-vrindavana"]
+  places: ["#vrindavana", "#vamshivata"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 1"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "1", to: "12"}
+
+- id: cc-4002
+  source: cc
+  ref: "Антья 1.13–33"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 10
+  title: "Собака Шивананды Сены: Шивананда кормит пса в пути и платит за его переправу; пропавший пёс у Господа в Пури повторяет «Кришна» и уходит на Вайкунтху"
+  summary: "Узнав о возвращении Господа из Вриндавана, преданные Бенгалии во главе с Адвайтой идут в Пури под опекой Шивананды Сены; Шивананда кормит приставшего к ним пса и платит лодочнику за его переправу. Когда пёс пропал, Шивананда не стал ужинать. В Пури преданные видят пса перед Господом: Господь кормит его мякотью кокоса и велит повторять «Рама, Кришна, Хари»; пёс повторяет «Кришна», Шивананда кланяется ему и просит прощения, и пёс, обретя духовное тело, уходит на Вайкунтху."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@advaita", "@svarupa-damodara", "@shachi"]
+  places: ["#kulinagrama", "#shrikhanda", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 20 — Шивананду задерживает сборщик пошлины (ср. ev-shivananda-toll-arrest)."
+  themes: [mercy, prasada]
+  cc: "Антья 1"
+  event: ev-shivananda-dog
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "13", to: "33"}
+
+- id: cc-4003
+  source: cc
+  ref: "Антья 1.34–39"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 9
+  title: "Рупа начинает во Врадже драму о Кришне; по пути в Гауду кончается Анупама"
+  summary: "По велению Господа Рупа ушёл во Вриндаван и начал там драму об играх Кришны, составив благословляющее вступление; по пути в Гауду он обдумывал её. В Бенгалии скоропостижно скончался Анупама; совершив обряды, Рупа пошёл к Господу, но уже не застал вайшнавов Бенгалии, ушедших в Пури."
+  persons: ["@rupa-gosvami", "@anupama"]
+  places: ["#vrindavana", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [departure, author]
+  cc: "Антья 1"
+  event: ev-rupa-gauda-anupama-passing
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "34", to: "39"}
+
+- id: cc-4004
+  source: cc
+  ref: "Антья 1.40–44"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 9.5
+  title: "Сон в Сатьябхама-пуре: Сатьябхама велит Рупе написать о Ней отдельную драму"
+  summary: "В оринском селении Сатьябхама-пур Рупе во сне явилась божественной красоты дева и повелела посвятить Ей отдельную драму, обещая, что по Её милости та выйдет прекрасной. Рупа понял, что Сатьябхама велит разделить замысел: игры Вриндавана и Двараки — в двух драмах."
+  persons: ["@rupa-gosvami", "@satyabhama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [celestial, author]
+  cc: "Антья 1"
+  event: ev-satyabhama-dream-rupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "40", to: "44"}
+
+- id: cc-4005
+  source: cc
+  ref: "Антья 1.45–61"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 10.5
+  title: "Рупа приходит в Пури к Харидасу; Господь встречает его и просит Адвайту и Нитьянанду благословить его"
+  summary: "Рупа пришёл к хижине Харидаса, и тот сказал, что Господь предупредил о его приходе. После упала-бхоги Господь пришёл, обнял Рупу, расспросил о Санатане (они разминулись в пути) и выслушал весть о кончине Анупамы. На другой день Он представил Рупу всем преданным и попросил Адвайту и Нитьянанду наделить его силой описывать расы любви к Кришне; каждый день Он приносил Рупе и Харидасу прасад Джаганнатхи."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura", "@advaita", "@nityananda", "@sanatana-gosvami"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada]
+  cc: "Антья 1"
+  event: ev-rupa-arrives-haridasa-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "45", to: "61"}
+
+- id: cc-4006
+  source: cc
+  ref: "Антья 1.62–64"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P12
+  order: 65
+  title: "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа"
+  summary: "Господь с преданными убрал храм Гундичи и в саду Айтота вкусил с ними прасад; Харидас и Рупа радовались, видя это, и, получив от Говинды остатки Господа, плясали от радости."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@rupa-gosvami", "@govinda-servant"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12); period P12 — по событию, сам эпизод — около 1516 г."
+  themes: [jagannatha, prasada]
+  cc: "Антья 1"
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "62", to: "64"}
+
+- id: cc-4007
+  source: cc
+  ref: "Антья 1.65–71"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.9
+  title: "«Не уводи Кришну из Вриндавана»: Господь подтверждает сон Рупы, и тот решает написать две драмы"
+  summary: "Всеведущий Господь сказал Рупе: Кришна, сын Нанды, никогда не покидает Вриндавана, а Яду-кумара — это Васудева-Кришна, играющий в Матхуре и Двараке. Рупа понял, что Господь подтвердил веление Сатьябхамы, и решил составить две драмы с отдельными вступлениями и сюжетами."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@krishna", "@satyabhama"]
+  places: ["#puri", "#vrindavana", "#dvaraka", "#mathura"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema, scripture]
+  scriptures: ["Лагху-бхагаватамрита, 1.5.461"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "65", to: "71"}
+
+- id: cc-4008
+  source: cc
+  ref: "Антья 1.72–92"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.5
+  title: "Шлока Рупы «прийах со ’йам»: Господь находит пальмовый лист на крыше и спрашивает, как Рупа узнал Его сердце"
+  summary: "На Ратха-ятре Господь, танцуя перед колесницей, повторял шлоку «йах каумара-харах», смысл которой понимал лишь Сварупа; Рупа постиг Его настроение и составил ответный стих: Радха, встретив Кришну на Курукшетре, жаждет вернуться к Ямуне и рощам Вриндавана. Лист со стихом Рупа положил под соломенную крышу; Господь нашёл его, пришёл в экстаз премы, хлопнул Рупу по плечу и спросил, как тот узнал Его сокровенное. Сварупа ответил, что это знак особой милости Господа, и Господь велел ему наставлять Рупу в науке рас."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@svarupa-damodara", "@radha", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 1, 13 (шлока «йах каумара-харах» на Ратха-ятре)"
+  themes: [ecstasy, jagannatha, krishna-lila]
+  bhava: [radha]
+  scriptures: ["Падьявали, 386", "Падьявали, 387", "Нала-найшадха, 3.17"]
+  cc: "Антья 1"
+  event: ev-priyah-so-yam-rupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "72", to: "92"}
+
+- id: cc-4009
+  source: cc
+  ref: "Антья 1.93–102"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.7
+  title: "Стих «тунде тандавини»: Господь читает в рукописи Рупы о сладости имени «Кришна», Харидас пляшет"
+  summary: "По окончании чатурмасьи бенгальцы ушли, Рупа остался в Пури. Господь пришёл, когда Рупа писал, похвалил его почерк — «как жемчужные ожерелья» — и, прочитав стих о сладости двух слогов «Криш-на» (имя пляшет на языке, и хочется тысяч ртов и миллионов ушей), пришёл в восторг премы; Харидас, услышав, заплясал. Славу имени следует слушать от великих преданных."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  teaching: [holy-name]
+  scriptures: ["Видагдха-мадхава, 1.15"]
+  cc: "Антья 1"
+  event: ev-tunde-tandavini
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "93", to: "102"}
+
+- id: cc-4010
+  source: cc
+  ref: "Антья 1.103–133"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12
+  title: "Испытание Рупы при Сарвабхауме и Рамананде: «прийах со ’йам», «тунде тандавини», вступление «Видагдха-мадхавы» и шлока о Гауре"
+  summary: "Господь пришёл к Рупе с Сарвабхаумой, Раманандой и Сварупой и, чтобы испытать их, восхвалял Рупу. Сварупа прочитал стих «прийах со ’йам», и Рамананда с Сарвабхаумой признали в нём особую милость Господа; Рупа прочитал «тунде тандавини», и все сказали, что никогда не слышали столь сладостной славы имени. Сварупа рассказал о разделении замысла на «Видагдха-мадхаву» и «Лалита-мадхаву»; Рупа прочитал благословляющие шлоки, и Господь не похвалил стих о Себе (сын Шачи, цвета расплавленного золота, дарует небывалую уннатоджвала-расу), назвав его преувеличением, а преданные одобрили его."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sarvabhauma", "@ramananda-raya", "@svarupa-damodara", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, krishna-lila, mercy]
+  teaching: [prema, holy-name, gaura-tattva]
+  scriptures: ["Бхакти-расамрита-синдху, 2.1.138", "Падьявали, 387", "Видагдха-мадхава, 1.15", "Видагдха-мадхава, 1.1", "Видагдха-мадхава, 1.2"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "103", to: "133"}
+
+- id: cc-4011
+  source: cc
+  ref: "Антья 1.134–170"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.1
+  title: "Рамананда расспрашивает Рупу о «Видагдха-мадхаве»: правартака, прарочана, пурва-рага, природа премы, Вриндаван, флейта, красота Кришны и Радхи"
+  summary: "Рупа объяснил приёмы драмы (правартака, прарочана) и на вопросы Рамананды о пробуждении влечения, преображениях любви и письмах гопи, о природе премы (яд и нектар одновременно), её признаках, о Вриндаване, флейте Кришны и красоте Кришны и Радхи читал стихи из своих драм; ответы поразили всех преданных."
+  persons: ["@rupa-gosvami", "@ramananda-raya", "@radha", "@krishna", "@lalita", "@vishakha"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  scriptures: ["Видагдха-мадхава, 1.10", "Видагдха-мадхава, 1.8", "Видагдха-мадхава, 1.6", "Видагдха-мадхава, 2.9", "Видагдха-мадхава, 2.18", "Видагдха-мадхава, 5.4", "Лалита-мадхава, 4.27"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "134", to: "170"}
+
+- id: cc-4012
+  source: cc
+  ref: "Антья 1.171–212"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.2
+  title: "Вступление «Лалита-мадхавы»; Господь недоволен похвалой Себе — «дёготь в мёде», Рамананда — «камфора»; Господь уполномочивает Рупу и Санатану писать о бхакти"
+  summary: "Рупа смиренно прочитал вступление «Лалита-мадхавы»; услышав шлоку о Себе, Господь внутренне обрадовался, но внешне рассердился: похвала Ему — как дёготь в бочке мёда; Рамананда возразил, что это камфора, и памятование о Божестве в начале благоприятно. Выслушав другие стихи, Рамананда восхвалил поэзию Рупы как поток нектара; Господь сказал, что встретил Рупу в Праяге, просил всех благословить его, прославил Санатану и объявил, что уполномочивает братьев писать во Вриндаване книги о бхакти. Рамананда: Ты — Сам Бхагаван, и истины, сказанные Тобой моими устами, проявились у Рупы. Преданные обняли Рупу; Харидас восхвалил его удачу, а Рупа ответил, что говорит лишь то, что вкладывает в его уста Господь."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@ramananda-raya", "@sanatana-gosvami", "@advaita", "@nityananda", "@haridasa-thakura"]
+  places: ["#puri", "#prayaga"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy, krishna-lila]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Лалита-мадхава, 1.1", "Лалита-мадхава, 1.3", "Лалита-мадхава, 1.11", "Сахитья-дарпана, 6.289", "Бхакти-расамрита-синдху, 1.1.2"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "171", to: "212"}
+
+- id: cc-4013
+  source: cc
+  ref: "Антья 1.213–221"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.8
+  title: "Рупа остаётся до Дола-ятры; Господь посылает его во Вриндаван: писать о расах, восстанавливать святые места, прислать Санатану"
+  summary: "Рупа проводил дни с Харидасом в беседах о Кришне; после чатурмасьи бенгальцы ушли, а Рупа остался до Дола-ятры. После праздника Господь наделил его силой и велел жить во Вриндаване, писать книги о расах, восстанавливать забытые святые места, служить Кришне и проповедовать раса-бхакти, а Санатану прислать к Нему; Рупа возложил стопы Господа себе на голову и через Бенгалию ушёл во Вриндаван."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura", "@sanatana-gosvami"]
+  places: ["#puri", "#vrindavana", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [mercy, festival, pilgrimage]
+  cc: "Антья 1"
+  event: ev-rupa-sent-vrindavana-after-dola
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "213", to: "221"}
+
+- id: cc-4014
+  source: cc
+  ref: "Антья 1.222"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: PX
+  order: 995.02
+  title: "Колофон Антья 1: о второй встрече Рупы с Господом"
+  summary: "Так рассказано о второй встрече Рупы с Господом; кто слушает это, обретает прибежище у стоп Чайтаньи. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Последний стих в файле помечен «(222)» повторно (вместо 223)."
+  themes: [author]
+  cc: "Антья 1"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "222", to: "2:222"}
