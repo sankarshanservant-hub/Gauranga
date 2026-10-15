@@ -1164,3 +1164,145 @@
   event: ev-lord-eats-offerings-throne
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "281", to: "326"}
+
+# ---------- Мадхья 9. Махапракаша (сата-прахария бхава); милость Шридхаре ----------
+
+- id: cb-1061
+  source: cb
+  ref: "Мадхья 9, 1–41"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 113.5
+  title: "Махапракаша: Господь на троне Вишну; абхишека водой Ганги; Духкхи становится Сукхи"
+  summary: "После мангалы автор начинает рассказ о махапракаше — «сата-прахария бхаве», двадцати одном часе, когда Господь открыто являл Своё величие и разные облики; в доме Шривасы во время киртана Господь садится на трон Вишну и велит читать мантры абхишеки; Нитьянанда первым льёт воду Ганги с камфарой Ему на голову, за ним Адвайта, Шриваса и другие с мантрами «Пуруша-сукты», Мукунда поёт, женщины издают благоприятные звуки, тайно участвуют полубоги; служанка Духкхи носит воду, и Господь, сказав «Неси ещё!», нарекает её Сукхи."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@mukunda-datta"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.11, 17.18; «Гаура-кришнодая»"
+  divergence: "У Мурари и Карнапуры махапракаша с омовением Господа описана в связи со шлокой Судамы (ev-murari-sudama-verse-abhisheka); возможно, это то же событие."
+  notes: "Служанка Духкхи (Сукхи) — без отдельного тега. Ст. 37–38 в издании нет."
+  themes: [revelation, festival, deities]
+  bhava: [aishvarya]
+  teaching: [vaishnava]
+  scriptures: ["Пуруша-сукта"]
+  date_basis: "ЧБ Мадхья 9.9: «сата-прахария бхава» — семь прахар (21 час)"
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "1", to: "41"}
+
+- id: cb-1062
+  source: cb
+  ref: "Мадхья 9, 42–87"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 113.51
+  title: "Поклонение шестнадцатью подношениями; молитвы; Господь съедает бесчисленные яства"
+  summary: "Господа облачают в новые одежды, умащают сандалом, Нитьянанда держит зонт; преданные поклоняются Ему шестнадцатью подношениями по Гопала-мантре, кладут на стопы туласи-манджари и славят: «Слава Отцу всего живого, нисшедшему начать санкиртану, спасшему Аджамилу и Путану»; Господь протягивает к ним стопы, и они осыпают их цветами, украшениями, тканями; затем Он велит: «Несите угощения!» — и съедает тысячи горшков йогурта и молока, гроздья бананов, сладости, бетель, а преданные бегут на рынок за новыми."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 58–59, 68–69 в издании нет."
+  themes: [revelation, deities, prasada]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "42", to: "87"}
+
+- id: cb-1063
+  source: cb
+  ref: "Мадхья 9, 88–108"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 113.52
+  title: "Господь напоминает преданным их прошлое: Шриваса у Девананды; лекарь в ночи"
+  summary: "Насытившись, Господь рассказывает преданным об их жизни: «Шриваса, помнишь, как ты плакал от премы, слушая «Бхагавату» у Девананды, а глупые ученики выставили тебя за дверь, и Девананда не остановил их? Видя твою скорбь, Я пришёл с Вайкунтхи, вошёл в твоё сердце, и ты, читая дома, залил всё слезами»; Шриваса катается по земле; так Он напоминает каждому, а отсутствующих велит привести, просит у них угощения и говорит: «Помнишь, Я в облике лекаря излечил тебя от жара?»."
+  persons: ["@mahaprabhu", "@srivasa", "@devananda-pandita", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Мадхья 21 (Девананда)"
+  themes: [revelation, mercy, offense]
+  bhava: [aishvarya]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "88", to: "108"}
+
+- id: cb-1064
+  source: cb
+  ref: "Мадхья 9, 109–120"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 113.55
+  title: "«Помнишь паромщика?» — Гангадас, спасённый от яванов"
+  summary: "Господь говорит Гангадасу: «Ночью, бежав с семьёй от мусульманского царя, ты не нашёл у пристани лодки и, боясь надругательства яванов, решил переплыть Гангу; тогда Я явился паромщиком, ты обещал Мне монету и ещё две, Я перевёз вас и вернулся на Вайкунтху — ты ведь вспоминал Меня»; Гангадас падает без чувств."
+  persons: ["@mahaprabhu", "@gangadasa-pandita"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Тег @gangadasa-pandita — по имени; в тексте не уточнено, что это учитель Господа."
+  themes: [revelation, mercy, muslims]
+  bhava: [aishvarya]
+  event: ev-gangadasa-ferry-rescue
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "109", to: "120"}
+
+- id: cb-1065
+  source: cb
+  ref: "Мадхья 9, 121–134"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 113.56
+  title: "Вечернее арати Господу на троне; благословения всем"
+  summary: "Весь день Господа обмахивают опахалом, расчёсывают Ему волосы, подают бетель, пляшут перед Ним; вечером с лампадами, раковинами, караталами и мридангами совершают арати Его стопам; ночью Он, вытянув ноги, касается стопами преданных и в эту сата-прахария бхаву от сердца одаряет каждого милостью."
+  persons: ["@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  themes: [revelation, deities, mercy]
+  bhava: [aishvarya]
+  event: ev-mahaprakasha-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "121", to: "134"}
+
+- id: cb-1066
+  source: cb
+  ref: "Мадхья 9, 135–188"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 123
+  title: "«Приведите Шридхару!» — торговец банановыми листьями и споры Нимая с ним"
+  summary: "Господь велит привести Шридхару, который ночами громко повторяет имена на окраине; Шридхара продаёт банановые листья и стебли, половину заработка тратит на поклонение Ганге, никогда не меняет цены; безбожники смеются над его ночными криками; услышав имя Господа, он падает без чувств, и его приносят к Вишвамбхару, который напоминает: каждый день Нимай приходил к его лавке, часами торговался, отнимал листья — «Я отец Ганги, которой ты поклоняешься!», — а Шридхара, закрыв уши, «Вишну! Вишну!», уступал и давал Ему что-то даром; Господь ест лишь с его листьев, не замечая миллионов подношений без преданности."
+  persons: ["@mahaprabhu", "@shridhara"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; ЧЧ Ади 10"
+  notes: "Ст. 147–148, 160–161 в издании нет."
+  themes: [pranks, mercy]
+  teaching: [vaishnava]
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "135", to: "188"}
+
+- id: cb-1067
+  source: cb
+  ref: "Мадхья 9, 189–248"
+  file: "chaitanya-bhagavata/ed/CB_Madhya09.md"
+  period: P07
+  order: 123.1
+  title: "Шридхара видит Господа Кришной с флейтой; его молитва и благословение"
+  summary: "Господь предлагает Шридхаре восемь мистических совершенств, и тот видит Его тёмным, как тамала, с флейтой, рядом Баларама, Лакшми подаёт бетель, Брахма и Шива славят, Ананта держит капюшоны; по воле Господа Сарасвати является на его языке, и он славит Его: «Ты — Царь Навадвипы, прежде скрывал бхакти, а теперь явил; силой бхакти Тебя связала Яшода и одолел Бхишма»; на предложение благ он просит: «Пусть тот брахман, что отнимал мои листья, будет Владыкой моего сердца из жизни в жизнь», — и отказывается от царства; Господь дарует ему бхакти, тайную даже для Вед; автор: учёность и богатство раздувают гордыню; хулящий святого за бедность идёт в ад Кумбхипаку."
+  persons: ["@shridhara", "@mahaprabhu", "@krishna", "@balarama", "@lakshmi", "@brahma", "@shiva", "@sarasvati-devi"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17"
+  themes: [revelation, mercy]
+  bhava: [krishna, aishvarya]
+  teaching: [bhakti-supremacy, vaishnava]
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya09.md", from: "189", to: "248"}
