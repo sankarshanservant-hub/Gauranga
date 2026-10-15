@@ -656,3 +656,369 @@
   event: ev-sarvabhauma-meeting
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya02.md", from: "453", to: "501"}
+
+# ---------- Антья 3 ----------
+# В md нет текстов 34–37 и 197(*) (и вообще сгруппированных «Тексты N–M» исходника: 73–74, 90–91, 100–105, 117–118 …):
+# отрезки ниже даны по имеющимся меткам.
+- id: cb-3036
+  source: cb
+  ref: "Антья 3, 1–6, 544–546"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: PX
+  order: 302
+  title: "Мангала и колофон Антья 3"
+  summary: "Слава Кришне Чайтанье, Которого Нитьянанда любит больше жизни; повествования о Гауранге — суть нектара, желанного Брахме и Шиве; в конце — плоды слушания и подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "1", to: "6"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "544", to: "546"}
+
+- id: cb-3037
+  source: cb
+  ref: "Антья 3, 7–64"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 25
+  title: "Господь просит наставлений; Сарвабхаума порицает раннюю санньясу"
+  summary: "Наедине Господь просит Сарвабхауму научить Его, как жить, чтобы не пасть; Сарвабхаума, не узнавая Его, хвалит Его бхакти, но порицает санньясу: она питает гордыню — носящий данду не кланяется святым, — и толкает назвать себя Нараяной вместо поклонения Господу; он цитирует Гиту и «Бхагавату» (дело — то, что радует Хари) и Шанкару («волна — от океана, не океан от волны»), чтобы показать, что и Шанкара учил служению; «Зачем Ты, юный и полный бхакти, принял санньясу?»"
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  parallels: "ЧЧ Мадхья 6; Мурари 3.12"
+  notes: "Ст. 17: Господь «проявил Свою майю» — сокрытие Себя йогамайей ради лилы со слугой. Порицается санньяса, отвергающая бхакти (майявада), а не санньяса как таковая. Тексты 34–37 в md отсутствуют."
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, bhakti-supremacy]
+  scriptures: ["Бхаг. 11.29.16", "Бхаг. 3.29.34", "Гита 9.17", "Гита 6.1", "Бхаг. 4.29.49–50"]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "7", to: "64"}
+
+- id: cb-3038
+  source: cb
+  ref: "Антья 3, 65–79"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 26
+  title: "«Я не санньяси: Я оставил дом от разлуки с Кришной»"
+  summary: "Довольный речью Сарвабхаумы о бхакти, Господь говорит: «На самом деле Я не санньяси — Я сбрил шикху от разлуки с Кришной; забудь, что Я санньяси, и помилуй Меня, чтобы Я всегда помнил Кришну»; Сарвабхаума, не понимая, возражает, что это он должен кланяться санньяси."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 69–72: Господь Сам скрывает Себя от слуги, наслаждаясь лилой; «под влиянием майи» (ст. 75) — йогамайя."
+  themes: [teaching, separation, sannyasa]
+  bhava: [devotee]
+  teaching: [sannyasa-teaching]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "65", to: "79"}
+
+- id: cb-3039
+  source: cb
+  ref: "Антья 3, 80–99"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 27
+  title: "Стих «атмарама»: тринадцать толкований Сарвабхаумы и толкования Господа"
+  summary: "Господь просит объяснить стих «Бхагаваты» об атмарамах, служащих Хари; Сарвабхаума даёт тринадцать толкований — суть: служение стопам Кришны изначально, освобождённые поют Его славу — и умолкает; Господь даёт Свои, непостижимые толкования, и изумлённый Сарвабхаума думает: «Неужели это Сам Господь?»"
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  parallels: "ЧЧ Мадхья 6 (там — сначала Веданта, затем атмарама)"
+  themes: [teaching, learning]
+  teaching: [bhakti-supremacy, scripture]
+  scriptures: ["Бхаг. 1.7.10"]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "80", to: "99"}
+
+- id: cb-3040
+  source: cb
+  ref: "Антья 3, 106–155"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 30
+  title: "Шестирукий облик; сто шлок Сарвабхаумы"
+  summary: "Господь являет Сарвабхауме шестирукий облик, сияющий как миллионы солнц: «Я освобождаю святых и караю грешников — не бойся, молись Мне»; тот падает без чувств; Господь кладёт руку ему на голову и стопу на грудь, и Сарвабхаума, обняв стопы — «Я поймал вора, укравшего моё сердце», — кается, что учил Его дхарме, и слагает сто шлок, в т. ч. о Кришне, пришедшем как Чайтанья учить бхакти и вайрагье; Господь: «Ты Мой вечный спутник; Я пришёл ради тебя; храни тайну этого облика»."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 6; Мурари 3.12"
+  divergence: "По ЧЧ Мадхья 6 Сарвабхауме явлены четырёхрукий облик, затем двурукий Кришна с флейтой; по ЧБ — шестирукий облик, причём до толкования стиха следует и само явление (без беседы о Веданте)."
+  notes: "Тексты 100–105 (начало явления облика) в md отсутствуют; отрезок начат со ст. 106. Ст. 135–137: Джаганнатха в Нилачале и Господь, плачущий при виде Себя, — одно."
+  themes: [revelation, mercy]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva]
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "106", to: "155"}
+
+- id: cb-3041
+  source: cb
+  ref: "Антья 3, 156–166"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 35
+  title: "Киртан на улицах Пури: «Это движущийся Джаганнатха»"
+  summary: "Освободив Сарвабхауму, Господь день и ночь поёт и танцует в Нилачале; жители подхватывают имя Хари, называют Его движущимся Джаганнатхой и берут пыль Его следов; умащённый сандалом, с гирляндами и слезами, Он идёт, как опьянённый лев, не помня внешнего."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, jagannatha, ecstasy]
+  event: ev-puri-people-moving-jagannatha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "156", to: "166"}
+
+- id: cb-3042
+  source: cb
+  ref: "Антья 3, 167–178"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P12
+  order: 9.5
+  title: "Встреча с Парамананда Пури в Нилачале"
+  summary: "Увидев издали Парамананду Пури, вернувшегося из паломничества, Господь почтительно останавливается, танцует и восклицает: «Сегодня Я обрёл плод санньясы — Мадхавендра Пури предстал передо Мной», — и обнимает его, омывая слезами; Пури, ученик Мадхавендры, становится Его спутником."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@madhavendra-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 9, 10; Мурари 3.15.19–25"
+  divergence: "По ЧБ — в Пури вскоре после освобождения Сарвабхаумы (ЧБ не описывает южного паломничества); по ЧЧ — встреча на юге (Мадхья 9), приход в Пури — после возвращения Господа (Мадхья 10)."
+  themes: [ecstasy, mercy]
+  bhava: [devotee]
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "167", to: "178"}
+
+- id: cb-3043
+  source: cb
+  ref: "Антья 3, 179–191"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P12
+  order: 9.6
+  title: "Приходят Сварупа Дамодара и спутники из Ориссы"
+  summary: "Через несколько дней приходит Сварупа Дамодара, под чьё пение, полное расы, танцует Господь; он и Парамананда Пури — главные спутники последних игр; собираются Прадьюмна Мишра, Парамананда и Рамананда, Дамодара и Шанкара Пандиты, Прадьюмна Брахмачари, в теле которого проявлен Нрисимха, Бхагаван Ачарья, не слушавший мирских речей."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@paramananda-puri", "@pradyumna-mishra", "@ramananda-raya", "@damodara-pandita", "@shankara-pandita", "@nrisimhananda", "@bhagavan-acharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 10"
+  notes: "«Парамананда» ст. 184 (уроженец Ориссы) — не Парамананда Пури; отождествление неясно, тег не поставлен."
+  themes: [kirtan]
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "179", to: "191"}
+
+- id: cb-3044
+  source: cb
+  ref: "Антья 3, 192–202"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 36
+  title: "Нитьянанда обнимает Балараму на троне"
+  summary: "Независимый Нитьянанда бросается обнимать Джаганнатху, а однажды взбирается на золотой трон и обнимает Балараму; схвативший Его стражник отлетает, как травинка; Нитьянанда надевает гирлянду Баларамы и уходит походкой царя слонов; стражник понимает, что это не человек, и смиряется, а Нитьянанда, как дитя, обнимает его."
+  persons: ["@nityananda", "@balarama", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Текст 197 (Нитьянанда уходит в гирлянде; стражник поднимается) в md отсутствует — есть в исходнике (src/txt/CB_Antya03.txt, «Текст 197 (*)»)."
+  themes: [jagannatha, ecstasy, revelation]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-nityananda-embraces-balarama-deity
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "192", to: "202"}
+
+- id: cb-3045
+  source: cb
+  ref: "Антья 3, 203–227, 263–268"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 37
+  title: "Лунная ночь на берегу океана: всенощный киртан"
+  summary: "Ясной лунной ночью, при южном ветре, Господь, умащённый сандалом, сидит с преданными на берегу океана, улыбаясь волнам, и всю ночь поёт и танцует; признаки премы, приняв олицетворённый облик, не покидают Его, ибо Он танцует в настроении вайшнава; так океан обретает благо, как прежде Ганга и Ямуна, и жители Нилачалы очищаются омовением в нём."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  bhava: [devotee]
+  event: ev-ocean-shore-moonlit-kirtan
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "203", to: "227"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "263", to: "268"}
+
+- id: cb-3046
+  source: cb
+  ref: "Антья 3, 228–231"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 38
+  title: "Гададхара неотлучно с Господом и читает Ему «Бхагавату»"
+  summary: "Гададхара всегда рядом с Господом — когда Он ест, спит или идёт; он читает Ему «Шримад-Бхагаватам», и Господь безумеет от премы; с ним Господь ходит по домам вайшнавов."
+  persons: ["@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  teaching: [scripture]
+  event: ev-gadadhara-reads-bhagavata-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "228", to: "231"}
+
+- id: cb-3047
+  source: cb
+  ref: "Антья 3, 232–262"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P10
+  order: 39
+  title: "Ганга в колодце Парамананды Пури"
+  summary: "Узнав, что вода в колодце Парамананды Пури мутна, Господь шутит: «Джаганнатха поскупился», — и, воздев руки, просит Его, чтобы в колодец вошла Бхогавати-Ганга из Паталы; наутро колодец полон чистой воды, Пури падает без чувств, все обходят колодец; Господь пьёт и омывается этой водой: «Я пришёл из-за любви Пури Госвами, Я принадлежу ему — он может даже продать Меня»."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@ganga-devi", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: miracle
+  authority: A
+  notes: "Ст. 240: «майя Джаганнатхи испортила воду» — шутливо, по воле Господа ради славы Его преданного."
+  themes: [mercy, revelation]
+  teaching: [vaishnava]
+  event: ev-paramananda-puri-well-ganga
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "232", to: "262"}
+
+- id: cb-3048
+  source: cb
+  ref: "Антья 3, 269–284"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 8
+  title: "Возвращение в Гауду: у Видья-вачаспати в Видьянагаре"
+  summary: "Пратапарудра в это время в походе на Виджаянагар и не видит Господа; через несколько дней Господь, любя Гангу, возвращается в Бенгалию и неожиданно приходит к Видья-вачаспати, брату Сарвабхаумы: «Я хочу идти в Матхуру; дай Мне несколько дней пожить уединённо и омываться в Ганге, а затем подготовь путь»; тот счастлив: «Всё моё — Твоё»."
+  persons: ["@mahaprabhu", "@vidya-vachaspati", "@prataparudra"]
+  places: ["#vidyanagara-bengal", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1, 16; Мурари 3.17.14–16"
+  divergence: "По ЧБ Господь возвращается в Бенгалию через несколько дней после прихода в Пури (южное паломничество не описано); по ЧЧ поездка в Гауду — в 1514 г., после юга и трёх Ратха-ятр."
+  themes: [pilgrimage, family]
+  event: ev-vidya-vachaspati-house
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "269", to: "284"}
+
+- id: cb-3049
+  source: cb
+  ref: "Антья 3, 285–342"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 8.2
+  title: "Толпы Навадвипы спешат к дому Вачаспати"
+  summary: "Весть о Господе облетает Навадвипу; бесчисленные люди, бросив дома, идут через колючие джунгли, каждый со своей молитвой — избавиться от привязанностей, загладить хулу, отучить сына от игры, никогда не забыть Гаурасундара; лодки переворачиваются, плывут на горшках и пальмах; Вачаспати собирает лодки и в слезах ведёт людей к себе; Господь выходит, благословляет: «Думайте о Кришне, пойте Его имя — пусть Кришна станет вашей жизнью»; люди лезут на деревья и крыши, и ни одна не рушится."
+  persons: ["@mahaprabhu", "@vidya-vachaspati"]
+  places: ["#vidyanagara-bengal", "#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1; Мурари 3.17.14–16"
+  themes: [mercy, kirtan]
+  teaching: [holy-name]
+  event: ev-vidya-vachaspati-house
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "285", to: "342"}
+
+- id: cb-3050
+  source: cb
+  ref: "Антья 3, 343–411"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 8.4
+  title: "Господь тайно уходит в Кулию; толпа винит Вачаспати"
+  summary: "Ночью Господь с Нитьянандой и немногими тайно уходит в Кулию; Вачаспати плачет, а толпа не верит ему и упрекает: «Спрятал санньяси, хочет спастись один — сладости в одиночку не едят»; тайный вестник шепчет, что Господь в Кулии; все с Вачаспати переправляются через Гангу — под тонущими лодками возникают отмели, появляются рынки; Вачаспати находит Господа, славит Его шлоками и просит выйти к людям, чтобы снять с него позор."
+  persons: ["@mahaprabhu", "@vidya-vachaspati", "@nityananda"]
+  places: ["#vidyanagara-bengal", "#kulia", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1"
+  notes: "Ст. 380: «устремились в Катву» — так в переводе; по смыслу — в Кулию. Ст. 403: Вачаспати и Сарвабхаума — сыновья Вишарады."
+  themes: [mercy, kirtan]
+  event: ev-kulia-mass-kirtan
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "343", to: "411"}
+
+- id: cb-3051
+  source: cb
+  ref: "Антья 3, 412–441"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 8.5
+  title: "Кулия: Господь танцует в тысячах групп киртана"
+  summary: "По просьбе Вачаспати Господь с улыбкой выходит; миллионы поют имя, тысячи групп киртана — Господь танцует в каждой, Нитьянанда то обнимает Его, то танцует с Ним; Тот, Кого жаждут видеть боги, танцует открыто для всех, и все грешники Кулии освобождаются."
+  persons: ["@mahaprabhu", "@nityananda", "@vidya-vachaspati"]
+  places: ["#kulia"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1"
+  themes: [kirtan, mercy, ecstasy]
+  event: ev-kulia-mass-kirtan
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "412", to: "439"}
+
+- id: cb-3052
+  source: cb
+  ref: "Антья 3, 442–463"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 8.7
+  title: "Лекарство для хулителя: «Теми же устами пей нектар»"
+  summary: "Брахман, хуливший вайшнавов («в Кали-югу нет истинных вайшнавов»), кается и просит очищения; Господь: «Кто выпил яд, пусть теми же устами пьёт нектар — теми устами, что хулили вайшнавов, прославляй их; слагай песни о славе преданных — слава Кришны снимает последствия всякой хулы»; автор: это суть искупления за оскорбление Вишну и вайшнавов."
+  persons: ["@mahaprabhu"]
+  places: ["#kulia"]
+  kind: teaching
+  authority: A
+  themes: [offense, mercy, teaching]
+  teaching: [vaishnava]
+  event: ev-kulia-offender-brahmana-remedy
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "442", to: "463"}
+
+- id: cb-3053
+  source: cb
+  ref: "Антья 3, 464–503"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 9
+  title: "Девананда Пандит, служа Вакрешваре, обретает веру и прощение"
+  summary: "Учёный и отрешённый чтец «Бхагаваты» Девананда не верил в Гауру; когда Господь ушёл в санньясу, у Девананды гостил Вакрешвара, погружённый в разлуку с Кришной, — Девананда охранял его в танце с палкой, держал его голову и мазал себя пылью с его тела, и так обрёл веру; в Кулии Господь сажает его рядом, прощает: «Служение Вакрешваре приблизило тебя ко Мне — где он танцует, танцует Кришна»; Девананда молится и просит наставить, как учить «Бхагавате»."
+  persons: ["@mahaprabhu", "@devananda-pandita", "@vakreshvara"]
+  places: ["#kulia"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 1; ЧЧ Ади 17; Мурари 3.17.17–20"
+  notes: "Ст. 485–487: служение вайшнавам выше служения Кришне (по шастрам)."
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  event: ev-devananda-mercy
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "464", to: "503"}
+
+- id: cb-3054
+  source: cb
+  ref: "Антья 3, 504–543"
+  file: "chaitanya-bhagavata/ed/CB_Antya03.md"
+  period: P13
+  order: 9.1
+  title: "Наставление Девананде: «Бхагавата» — только о бхакти"
+  summary: "Господь учит Девананду: объясняя «Бхагавату», толковать только бхакти — в начале, середине и конце; бхакти Вишну вечна и не гибнет даже при разрушении вселенных; Нараяна легко даёт освобождение, но скрывает бхакти; «Бхагавата» — тело Кришны, проявившаяся на языке Вьясы и удовлетворившая его; считающий, что понял её, не знает её славы; есть два бхагаваты — книга и преданный; оскорбитель Нитьянанды её не поймёт, а Нитьянанда-Ананта тысячью уст не исчерпает её смысла."
+  persons: ["@mahaprabhu", "@devananda-pandita", "@vyasa", "@nityananda"]
+  places: ["#kulia"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [scripture, bhakti-supremacy, associates-tattva]
+  event: ev-devananda-mercy
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya03.md", from: "504", to: "543"}

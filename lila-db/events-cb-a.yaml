@@ -121,3 +121,71 @@
   cb: "Антья 2.315–395"
   themes: [deities, offense]
   notes: "По «Сканда-пуране» в изложении ЧБ: Шива помогает Каширадже против Кришны; Сударшана сжигает Каши, Шива предаётся Кришне, и Тот дарует ему Экамра-вану (Бхуванешвару) к северу от Пурушоттама-кшетры, славит Нилачалу и делает Шиву хранителем Своих обителей."
+
+- id: ev-puri-people-moving-jagannatha
+  title: "Жители Нилачалы: «Это движущийся Джаганнатха»"
+  title_en: "The people of Nilachala: 'He is the moving Jagannatha'"
+  period: P10
+  order: 35
+  years: [1510, 1510]
+  cb: "Антья 3.156–166"
+  themes: [kirtan, jagannatha, ecstasy]
+  notes: "После освобождения Сарвабхаумы Господь день и ночь в киртане на улицах Пури; люди берут пыль Его следов."
+
+- id: ev-nityananda-embraces-balarama-deity
+  title: "Нитьянанда взбирается на трон и обнимает Божество Баларамы"
+  title_en: "Nityananda climbs the throne and embraces the Deity of Balarama"
+  period: P10
+  order: 36
+  years: [1510, 1510]
+  cb: "Антья 3.192–202"
+  themes: [jagannatha, ecstasy, revelation]
+  notes: "Стражник, схвативший Нитьянанду за руку, отлетает; Нитьянанда надевает гирлянду Баларамы; стражник смиряется, и Нитьянанда обнимает его."
+
+- id: ev-ocean-shore-moonlit-kirtan
+  title: "Лунной ночью: киртан Господа на берегу океана"
+  title_en: "The Lord's moonlit kirtana on the ocean shore"
+  period: P10
+  order: 37
+  years: [1510, 1510]
+  cb: "Антья 3.203–227, 263–268"
+  themes: [kirtan, ecstasy]
+  notes: "Господь сидит на берегу океана в ясную лунную ночь с преданными и всю ночь поёт и танцует; олицетворённые признаки экстаза не покидают Его; океан обретает благо, как прежде Ганга и Ямуна."
+
+- id: ev-gadadhara-reads-bhagavata-puri
+  title: "Гададхара читает Господу «Бхагавату»"
+  title_en: "Gadadhara reads the Bhagavata to the Lord"
+  period: P10
+  order: 38
+  years: [1510, 1510]
+  cb: "Антья 3.228–231"
+  themes: [teaching, ecstasy]
+  notes: "Гададхара неотлучно служит Господу и читает Ему «Шримад-Бхагаватам»; слушая, Господь становится безумным от премы."
+
+- id: ev-paramananda-puri-well-ganga
+  title: "Ганга входит в колодец Парамананды Пури"
+  title_en: "The Ganga enters Paramananda Puri's well"
+  period: P10
+  order: 39
+  years: [1510, 1510]
+  cb: "Антья 3.232–262"
+  themes: [mercy, revelation]
+  notes: "Вода в колодце Парамананды Пури мутна; Господь просит Джаганнатху, чтобы в колодец вошла Бхогавати-Ганга; наутро вода чиста; Господь: «Я пришёл из-за любви Пури Госвами; он может даже продать Меня»."
+
+- id: ev-kulia-mass-kirtan
+  title: "Кулия: Господь выходит к толпам; тысячи групп киртана"
+  title_en: "Kulia: the Lord comes out to the crowds; thousands of kirtana parties"
+  period: P13
+  order: 8.5
+  cb: "Антья 3.343–441"
+  themes: [kirtan, mercy]
+  notes: "Господь тайно уходит от Видья-вачаспати в Кулию; толпы обвиняют Вачаспати, что он прячет Господа; узнав правду, все переправляются (под тонущими лодками появляются отмели); по молитве Вачаспати Господь выходит, и тысячи групп киртана поют; Господь танцует в каждой; освобождены все грешники Кулии."
+
+- id: ev-kulia-offender-brahmana-remedy
+  title: "Кулия: брахман-хулитель вайшнавов получает лекарство — прославлять вайшнавов"
+  title_en: "Kulia: a brahmana who blasphemed Vaishnavas receives the remedy — to glorify them"
+  period: P13
+  order: 8.7
+  cb: "Антья 3.442–463"
+  themes: [offense, mercy, teaching]
+  notes: "«Те же уста, что пили яд, должны пить нектар»: теми устами, что хулили вайшнавов, — слагать песни во славу преданных. Суть искупления за вайшнава-апарадху."
