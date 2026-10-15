@@ -1,0 +1,32 @@
+# События, заведённые при разборе «Шри Чайтанья-чаритамриты», Мадхья 18–25 (исполнитель cc-m3). Формат — как events.yaml.
+
+# Мадхья 18 — Господь во Вриндаване.
+- id: ev-gopala-mathura-vitthaleshvara
+  title: "Гопала месяц живёт в Матхуре у Виттхалешвары; Рупа с преданными созерцает Его"
+  title_en: "Gopala stays a month in Mathura at Vitthaleshvara's house; Rupa and the devotees behold Him"
+  period: P15
+  order: 30
+  cc: "Мадхья 18.45–54"
+  cb: ""
+  themes: [deities]
+  notes: "После ухода Господа: Гопала из страха перед мусульманами приходит в Матхуру ради престарелого Рупы Госвами."
+
+- id: ev-akrura-tirtha-imli-tala
+  title: "Господь живёт в Акрура-тиртхе; нама-санкиртана под Имли-талой"
+  title_en: "The Lord stays at Akrura-tirtha; nama-sankirtana under the Imli-tala"
+  period: P13
+  order: 160
+  cc: "Мадхья 18.69–81; 18.129–134"
+  cb: ""
+  themes: [kirtan, pilgrimage, prasada]
+  notes: "Уходя от толп Матхуры, Господь живёт в Акрура-тиртхе, днём воспевает имя у Ямуны под древним тамариндом; брахманы Матхуры наперебой приглашают Его."
+
+- id: ev-soro-to-prayaga
+  title: "Через Соро-кшетру в Праягу; Господь затопляет премой западные края"
+  title_en: "Through Soro-kshetra to Prayaga; the Lord floods the western lands with prema"
+  period: P13
+  order: 181.8
+  cc: "Мадхья 18.213–222"
+  cb: ""
+  calendar: "магха, Макара-санкранти"
+  themes: [mercy, pilgrimage, festival]

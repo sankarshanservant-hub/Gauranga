@@ -1,0 +1,357 @@
+# «Шри Чайтанья-чаритамрита», Мадхья 18–25 (перевод Вриндавана Чандры даса) — лилы по порядку изложения (исполнитель cc-m3).
+# Метки стихов — номера «(N)» в ed/vcd/CC_MadhyaNN.md. Наставления Рупе и Санатане — kind: teaching, по одной теме на запись.
+
+- id: cc-3001
+  source: cc
+  ref: "Мадхья 18.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: PX
+  order: 995
+  title: "Мадхья 18: вступительная шлока и поклон Гауре, Нитьянанде, Адвайте и преданным"
+  summary: "Шлока: странствуя по Вриндавану, Гауранга Своим взглядом радовал всех движущихся и неподвижных, и вид их усиливал Его блаженство. Слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#vrindavana"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 18"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "1", to: "2"}
+
+- id: cc-3002
+  source: cc
+  ref: "Мадхья 18.3–14"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 120
+  title: "Аритграма: Господь обретает забытую Радха-кунду в двух рисовых полях и славит её"
+  summary: "Танцуя всю дорогу, Господь пришёл в себя в Аритграме и спросил о Радха-кунде; никто, даже сопровождающий брахман, не знал. Всеведущий, Он понял, что тиртха утеряна, и омылся в малой воде двух рисовых полей, к изумлению селян. В преме Он прославил кунду: как Радха дороже Кришне всех гопи, так и Её пруд; кто раз омоется в нём, получает прему, подобную любви Радхи. Он танцевал на берегу, поставил тилак глиной кунды и с Балабхадрой взял её с собой."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@sanodiya-vipra", "@radha", "@krishna"]
+  places: ["#radha-kunda"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, revelation, ecstasy]
+  scriptures: ["Падма-пурана", "Говинда-лиламрита, 7.102"]
+  cc: "Мадхья 18"
+  event: ev-radha-kunda-discovery
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "3", to: "14"}
+
+- id: cc-3003
+  source: cc
+  ref: "Мадхья 18.15–21"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 130
+  title: "Сумана-сарас и Говардхана: Господь обнимает камень холма и танцует перед Харидевой"
+  summary: "От озера Суманас Господь увидел Говардхану, простёрся перед ней, обнял камень и обезумел от премы. В селении Говардхан Он поклонился Божеству Харидевы — первому проявлению Нараяны на западном лепестке Матхура-мандалы — и танцевал перед Ним; слуги Харидевы приняли Его. У Брахма-кунды Бхаттачарья приготовил пищу."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@harideva-deity"]
+  places: ["#govardhana"]
+  kind: lila
+  authority: A
+  notes: "Брахма-кунда здесь — у Говардханы (не #brahma-kunda Вриндавана)."
+  themes: [pilgrimage, deities, ecstasy]
+  cc: "Мадхья 18"
+  event: ev-govardhana-visit
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "15", to: "21"}
+
+- id: cc-3004
+  source: cc
+  ref: "Мадхья 18.22–31"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 135
+  title: "Господь не восходит на Говардхану; Гопала под предлогом набега мусульман сходит в Гантхули"
+  summary: "Ночуя в храме Харидевы, Господь думал: «На Говардхану Я не поднимусь — как же увидеть Гопалу?» В бхаве преданного Он не смел ступить на холм, и всеведущий Гопала Сам устроил уловку: вечером в Аннакуту пришёл человек с вестью о набеге турецких воинов, и селяне перенесли Гопалу в Гантхули, в дом брахмана, где поклонение продолжалось."
+  persons: ["@mahaprabhu", "@shrinathji-deity"]
+  places: ["#govardhana", "#ganthuli"]
+  kind: lila
+  authority: A
+  themes: [deities, muslims]
+  bhava: [devotee]
+  cc: "Мадхья 18"
+  event: ev-gopala-ganthuli
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "22", to: "31"}
+
+- id: cc-3005
+  source: cc
+  ref: "Мадхья 18.32–44"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 136
+  title: "Обход Говардханы; три дня даршана Гопалы в Гантхули; Гопала возвращается в храм"
+  summary: "Омывшись в Манаса-Ганге, Господь обошёл Говардхану, танцуя со шлокой «Бхагаватам» (10.21.18) о холме — лучшем из слуг Хари. Услышав у Говинда-кунды, что Гопала в Гантхули, Он пришёл туда и до ночи пел и танцевал перед Ним. Три дня Он созерцал Гопалу, на четвёртый проводил Его с киртаном обратно в храм и остался у подножия. Так милостивый Гопала исполнил желание Господа, «прячась» то в лесу, то в доме брахмана."
+  persons: ["@mahaprabhu", "@shrinathji-deity"]
+  places: ["#govardhana", "#govinda-kunda", "#ganthuli"]
+  kind: lila
+  authority: A
+  themes: [deities, ecstasy, kirtan]
+  scriptures: ["Бхаг. 10.21.18", "Бхакти-расамрита-синдху, 2.1.62"]
+  cc: "Мадхья 18"
+  event: ev-gopala-ganthuli
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "32", to: "44"}
+
+- id: cc-3006
+  source: cc
+  ref: "Мадхья 18.45–54"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P15
+  order: 30
+  title: "Позднее: Гопала месяц живёт в Матхуре у Виттхалешвары; престарелый Рупа с преданными созерцает Его"
+  summary: "Рупа и Санатана тоже не смели подниматься на Говардхану, и Гопала даровал даршан и им. Когда Рупа, уже в преклонных летах, не мог пойти к Нему, Гопала из страха перед мусульманами месяц жил в Матхуре в доме Виттхалешвары; Рупа с Гопалой Бхаттой, Рагхунатхой Дасом, Рагхунатхой Бхаттой, Локанатхой, Бхугарбхой, Дживой, Ядава Ачарьей, Говиндой Госани и другими месяц созерцал Его, после чего Гопала вернулся в храм, а Рупа — во Вриндаван."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@shrinathji-deity", "@vitthalanatha", "@gopala-bhatta", "@raghunatha-dasa", "@raghunatha-bhatta", "@lokanatha", "@bhugarbha", "@jiva-gosvami", "@yadavacharya-gosani", "@govinda-gosani"]
+  places: ["#mathura", "#vrindavana"]
+  kind: post-advent
+  authority: A
+  notes: "Отступление автора о времени после ухода Господа. Также названы Уддхава Дас, Мадхава, Гопала Дас, Нараяна Дас, Говинда, Вани Кришнадас, Пундарикакша, Ишана, Лагху Харидас (без тегов)."
+  themes: [deities, departure]
+  cc: "Мадхья 18"
+  event: ev-gopala-mathura-vitthaleshvara
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "45", to: "54"}
+
+- id: cc-3007
+  source: cc
+  ref: "Мадхья 18.55–62"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 91
+  title: "Камьявана и Нандишвара: в пещере холма Господь видит Божества Нанды, Яшоды и Кришны"
+  summary: "От Гопалы Господь пошёл в Камьявану и обошёл места лил, затем в Нандишвару; при виде дома Нанды Его охватила према. Омывшись в Павана-кунде и прочих прудах, Он спросил, есть ли на холме Божества; Ему сказали о пещере, где отец, мать и между ними трижды изогнутое дитя. Он склонился к стопам Нанды и Яшоды, с любовью коснулся тела Кришны и каждый день пел и танцевал там."
+  persons: ["@mahaprabhu", "@nanda", "@yashoda", "@krishna"]
+  places: ["#kamyavana", "#nandagrama"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, deities, krishna-lila]
+  cc: "Мадхья 18"
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "55", to: "62"}
+
+- id: cc-3008
+  source: cc
+  ref: "Мадхья 18.63–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 92
+  title: "Кхадиравана, Шешашайи, Бхандиравана, Бхадравана, Шривана, Лохавана, Махавана и Гокула"
+  summary: "Из Нандишвары Господь пошёл в Кхадиравану, затем в Шешашайи, где, увидев Лакшми, произнёс шлоку гопи (Бхаг. 10.31.19) о нежных стопах Кришны. Увидев Кхела-тиртху, Он пришёл в Бхандиравану, переправился через Ямуну в Бхадравану, посетил Шривану, Лохавану, Махавану и Гокулу; у места, где были сломаны деревья ямала-арджуна, Его охватила према."
+  persons: ["@mahaprabhu", "@lakshmi", "@krishna"]
+  places: ["#bhandiravana", "#gokula"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, krishna-lila, ecstasy]
+  scriptures: ["Бхаг. 10.31.19"]
+  cc: "Мадхья 18"
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "63", to: "68"}
+
+- id: cc-3009
+  source: cc
+  ref: "Мадхья 18.69–81"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 160
+  title: "Акрура-тиртха и Имли-тала: Господь живёт у Акрура-гхата, а днём во Вриндаване воспевает имя под старым тамариндом"
+  summary: "Из Гокулы Господь пришёл в Матхуру, увидел место рождения Кришны и, уходя от толп, поселился в Акрура-тиртхе. Он омывался в Калия-храде и Праскандане, видел Двадашадитью; в Кеши-тиртхе при виде места раса лишился чувств и весь день катался, смеялся, плакал и пел. Утрами Он омывался у Чира-гхата и сидел под древним тамариндом Тентули-талы у Ямуны, до полудня воспевая имя, а к вечеру всем говорил о величии нама-санкиртаны."
+  persons: ["@mahaprabhu"]
+  places: ["#mathura", "#vrindavana", "#akrura-tirtha"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy, pilgrimage]
+  cc: "Мадхья 18"
+  event: ev-akrura-tirtha-imli-tala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "69", to: "81"}
+
+- id: cc-3010
+  source: cc
+  ref: "Мадхья 18.82–90"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 170
+  title: "Кришнадас-раджпут по сну приходит к Господу под тамариндом и оставляет дом ради служения"
+  summary: "Вайшнав-домохозяин Кришнадас, раджпут с другого берега Ямуны, после омовения в Кеши-тиртхе увидел Господа под тамариндом (Амли-тала) и пал к Его стопам: «Я падший семьянин, но хочу служить вайшнавам; сегодня мне был сон». Господь обнял его, и тот в безумии премы плясал с «Хари!»; он вкусил остатки трапезы Господа и, оставив дом, жену и детей, стал носить Его кувшин."
+  persons: ["@mahaprabhu", "@krishnadasa-rajput"]
+  places: ["#vrindavana", "#akrura-tirtha"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada]
+  cc: "Мадхья 18"
+  event: ev-krishnadasa-rajput
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "82", to: "90"}
+
+- id: cc-3011
+  source: cc
+  ref: "Мадхья 18.91–108"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 180
+  title: "Молва «Кришна танцует на Калии»: Господь удерживает Балабхадру; огонь рыбака приняли за самоцветы Калии"
+  summary: "Повсюду говорили: «Кришна вновь явился во Вриндаване». Однажды люди пришли с вестью, что видели Кришну, танцующего на головах Калии; Господь рассмеялся: «Да, это правда». Балабхадра попросился посмотреть; Господь лёгкой пощёчиной отрезвил его: «Ты учёный — зачем слушаешь глупцов? Разве Кришна явится в Кали-югу?» Наутро почтенные люди объяснили: рыбак ловит рыбу с лампой в лодке, и издали её принимают за Калию и самоцветы. Кришна действительно пришёл во Вриндаван, но не там, где думают."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya"]
+  places: ["#vrindavana", "#akrura-tirtha"]
+  kind: lila
+  authority: A
+  notes: "Ст. 97–98: автор поясняет, что слова людей «видели Кришну» истинны — они видели Махапрабху, хотя сами думали иное."
+  themes: [revelation, pranks]
+  cc: "Мадхья 18"
+  event: ev-vraja-residents-see-krishna
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "91", to: "108"}
+
+- id: cc-3012
+  source: cc
+  ref: "Мадхья 18.109–127"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 180.5
+  title: "«Ты — Кришна»: Господь отвергает приравнивание дживы к Богу, жители Враджа настаивают, что Он — Сам Враджендра-нандана"
+  summary: "На вопрос «Где же Кришна?» люди сказали: «Ты, санньяси, — Нараяна, Кришна, явившийся во Вриндаване». Господь воскликнул: «Вишну! Вишну! Джива — крошечная искра, луч солнца, а Кришна — солнце; кто считает дживу равной Богу, тот оскорбитель и будет наказан Ямой». Люди ответили: «Мы не считаем Тебя дживой: Ты — Враджендра-нандана, лишь золотое сияние скрывает Твой облик; как мускус не скрыть одеждой, так не скрыть Твоей божественности; одно Твоё имя делает святыми даже мясоедов». Господь одарил их премой; ещё несколько дней в Акрура-тиртхе Он раздавал имя и прему."
+  persons: ["@mahaprabhu"]
+  places: ["#vrindavana", "#akrura-tirtha"]
+  kind: lila
+  authority: A
+  themes: [revelation, teaching, mercy]
+  bhava: [devotee]
+  teaching: [gaura-tattva, maya]
+  scriptures: ["Комм. Шридхары Свами на Бхаг. 1.7.6", "Бхаг. 3.33.6"]
+  cc: "Мадхья 18"
+  event: ev-vraja-residents-see-krishna
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "109", to: "127"}
+
+- id: cc-3013
+  source: cc
+  ref: "Мадхья 18.129–134"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 165
+  title: "Брахманы Матхуры наперебой приглашают Господа; бхикша в Акрура-тиртхе"
+  summary: "Ученик Мадхавендры Пури (санодия-брахман) ходил по домам Матхуры, побуждая брахманов приглашать Господа; к Балабхадре приходило по десять–двадцать приглашений в день, он принимал одно. Брахманы из Южной Индии, Каньякубджи и других мест каждое утро готовили в Акрура-тиртхе, подносили Шалаграме и угощали Господа."
+  persons: ["@mahaprabhu", "@sanodiya-vipra", "@balabhadra-bhattacharya"]
+  places: ["#mathura", "#akrura-tirtha"]
+  kind: lila
+  authority: A
+  themes: [prasada]
+  cc: "Мадхья 18"
+  event: ev-akrura-tirtha-imli-tala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "129", to: "134"}
+
+- id: cc-3014
+  source: cc
+  ref: "Мадхья 18.135–138"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 181
+  title: "Акрура-тиртха: вспомнив видение Акруры, Господь бросается в Ямуну; Балабхадра вытаскивает Его"
+  summary: "Сидя на берегу, Господь подумал: «Здесь Акрура увидел Вайкунтху, а жители Враджа — Голоку», — вскочил и прыгнул в реку, надолго скрывшись под водой. Кришнадас закричал в слезах, а Балабхадра Бхаттачарья бросился в воду и вытащил Его."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@krishnadasa-rajput"]
+  places: ["#akrura-tirtha"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila]
+  cc: "Мадхья 18"
+  event: ev-akrura-ghata-fall
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "135", to: "138"}
+
+- id: cc-3015
+  source: cc
+  ref: "Мадхья 18.139–158"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 181.2
+  title: "Балабхадра и санодия-брахман уводят Господа из Вриндавана к Ганге — к Макара-санкранти в Праяге"
+  summary: "Боясь, что во Вриндаване Господь снова бросится в воду, а толпы и приглашения не дают Ему покоя, Балабхадра посоветовался с санодия-брахманом: пойти вдоль Ганги через Соро в Праягу и успеть к омовению на Макара-санкранти в месяце магха. Он сказал Господу, что не в силах выносить толп. Господь, не желая покидать Вриндаван, ради преданного ответил: «Ты привёл Меня во Вриндаван — Я твой должник и пойду, куда поведёшь». Скрыв прему разлуки, Он с Кришнадасом и санодия-брахманом переправился через реку и пошёл к Махаване."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@sanodiya-vipra", "@krishnadasa-rajput"]
+  places: ["#akrura-tirtha", "#vrindavana"]
+  kind: lila
+  authority: A
+  calendar: "магха, Макара-санкранти"
+  themes: [separation, pilgrimage]
+  cc: "Мадхья 18"
+  event: ev-akrura-ghata-fall
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "139", to: "158"}
+
+- id: cc-3016
+  source: cc
+  ref: "Мадхья 18.159–184"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 181.5
+  title: "Звук пастушьей флейты: Господь падает без чувств; патаны хватают Его спутников как отравителей"
+  summary: "На привале у пасущихся коров пастушок заиграл на флейте, и Господь упал без чувств с пеной на губах. Десять конных патанов решили, что четверо спутников отравили богатого монаха, и хотели казнить их; бенгальцы дрожали, но раджпут Кришнадас и санодия-брахман смело отвечали, грозя людьми при дворе и своим отрядом. Очнувшись, Господь громко запел «Хари!» и пустился в пляс; испуганные солдаты отпустили пленных. Он сказал им: «Это Мои спутники; Я нищий санньяси, а без чувств падаю от болезни»."
+  persons: ["@mahaprabhu", "@balabhadra-bhattacharya", "@sanodiya-vipra", "@krishnadasa-rajput"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Ст. 166, 172: «четверо» спутников — Балабхадра, его слуга-брахман, Кришнадас и санодия-брахман."
+  themes: [ecstasy, muslims]
+  cc: "Мадхья 18"
+  event: ev-pathans-ramadasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "159", to: "184"}
+
+- id: cc-3017
+  source: cc
+  ref: "Мадхья 18.185–212"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 181.6
+  title: "Спор с мусульманским святым о Коране: в конце писания — личностный Бог и служение Ему; обращение Рамадаса и Биджули Кхана"
+  summary: "Учёный мусульманин в чёрном одеянии стал доказывать по Корану безличного Бога; Господь опроверг все доводы: писание сначала говорит о безличном, но в итоге утверждает единого Бога-Личность, полного совершенств, тёмного обликом, источник и прибежище всего; служение Ему — высшая цель, освобождение же не сравнится с толикой этого блаженства; решающее — заключение писания. Тот признал: «Так написано, но никто не понимает; при виде Тебя мой язык поёт имя Кришны» — и пал к стопам. Господь очистил его именем и назвал Рамадасом; юный царевич Биджули Кхан тоже пал к Его стопам и получил благословение стопой. Патаны стали странствующими аскетами — «патана-вайшнавами», а Биджули Кхан — маха-бхагаватой."
+  persons: ["@mahaprabhu", "@ramadasa-pathan", "@bijuli-khan"]
+  places: []
+  kind: lila
+  authority: A
+  themes: [muslims, mercy, teaching]
+  teaching: [bhakti-supremacy, holy-name, scripture]
+  cc: "Мадхья 18"
+  event: ev-pathans-ramadasa
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "185", to: "212"}
+
+- id: cc-3018
+  source: cc
+  ref: "Мадхья 18.213–222"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: P13
+  order: 181.8
+  title: "Через Соро-кшетру в Праягу: Господь затопляет премой западные края; Макара-санкранти у слияния Ганги и Ямуны"
+  summary: "Так всемилостивый Господь спасал на западе даже тех, кто не следовал Ведам и ел мясо. В Соро-кшетре Он омылся в Ганге и пошёл вдоль неё к Праяге; Кришнадас и санодия-брахман упросили взять их с собой, ведь Балабхадра не знает языка мусульман. Кто видел Господа, становился безумен от премы и делал вайшнавами других — так, как на Юге. В Праяге Он десять дней праздника Макара-санкранти омывался у слияния Ганги и Ямуны."
+  persons: ["@mahaprabhu", "@sanodiya-vipra", "@krishnadasa-rajput", "@balabhadra-bhattacharya"]
+  places: ["#soro", "#ganga", "#prayaga"]
+  kind: lila
+  authority: A
+  calendar: "магха, Макара-санкранти"
+  themes: [mercy, pilgrimage, festival]
+  cc: "Мадхья 18"
+  event: ev-soro-to-prayaga
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "213", to: "222"}
+
+- id: cc-3019
+  source: cc
+  ref: "Мадхья 18.223–229"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md"
+  period: PX
+  order: 996
+  title: "Колофон Мадхья 18: лилы безбрежны; кто не верит, услышав их, — несчастен"
+  summary: "Деяния Господа во Вриндаване безграничны — их не описать и Шеше; автор даёт лишь общее представление. Эти лилы и способ проповеди дивны от начала до конца; их надо слушать с верой, а кто спорит, призывает гром на свою голову. Капля этого океана нектара затопляет мир; Кришнадас рассказывает, моля о милости Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 18"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya18.md", from: "223", to: "229"}
+
