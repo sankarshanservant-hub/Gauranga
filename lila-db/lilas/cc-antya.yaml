@@ -2109,3 +2109,184 @@
   cc: "Антья 11"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "101", to: "108"}
+
+- id: cc-4113
+  source: cc
+  ref: "Антья 12.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: PX
+  order: 995.23
+  title: "Мангалачарана Антья 12"
+  summary: "Преданные, непрестанно слушайте, пересказывайте и обдумывайте деяния Чайтаньи; слава милостивому Чайтанье, Нитьянанде — океану милости, Адвайте и сострадательным преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "1", to: "3"}
+
+- id: cc-4114
+  source: cc
+  ref: "Антья 12.4–6"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 100.3
+  title: "«О Кришна, владыка Моей жизни, где Мне найти Тебя?» — Господь днём и ночью в разлуке"
+  summary: "Разлука с Кришной не покидала сердца Господа: «О Кришна, владыка Моей жизни, сын Нанды, играющий на флейте пастушок, куда Мне идти, где найти Тебя?» Особенно тяжело было ночью, и утешение Он находил у Сварупы и Рамананды."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 12"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "4", to: "6"}
+
+- id: cc-4115
+  source: cc
+  ref: "Антья 12.7–33"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 5.5
+  title: "Нитьянанда, оставшись без ночлега, «проклинает» сыновей Шивананды и пинает его; Шивананда счастлив: «Ты коснулся стопой моего тела»"
+  summary: "Бенгальцы собрались в Навадвипе у Шивананды и Адвайты; Нитьянанда вновь пошёл, хотя Господь велел Ему жить в Бенгалии; шли Шриваса с женой и братьями, Ачарьяратна с женой, жена Шивананды с тремя сыновьями, Рагхава с мешками, Васудева, Мурари, Видьянидхи — сотни преданных, получив позволение Шачи. Шивананда платил пошлины и находил ночлег; когда его задержал сборщик, Нитьянанда, голодный и без крова, в гневе сказал: пусть умрут трое его сыновей! Жена заплакала, а Шивананда ответил: пусть умрут, раз я причинил неудобство Нитьянанде. Нитьянанда пнул его, и он, обрадованный, нашёл Ему ночлег у молочника: под видом наказания Ты даровал мне милость — Ты коснулся стопой моего тела, чего не может Брахма. Нитьянанда обнял его; Его пинок дарует высшее благо."
+  persons: ["@nityananda", "@shivananda-sena", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@raghava-pandita", "@vasudeva-datta", "@murari-gupta", "@pundarika-vidyanidhi", "@shachi"]
+  places: ["#navadvipa", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage, pranks]
+  cc: "Антья 12"
+  event: ev-nityananda-kicks-shivananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "7", to: "33"}
+
+- id: cc-4116
+  source: cc
+  ref: "Антья 12.34–43"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 5.6
+  title: "Шриканта Сен, оскорбившись за дядю, уходит вперёд к Господу; Господь не позволяет Говинде поправлять его"
+  summary: "Племянник Шивананды Шриканта, возмущённый тем, что Нитьянанда пнул его дядю, один ушёл к Господу и поклонился, не сняв верхней одежды; Говинда поправил его, но Господь сказал: не докучай ему, он пришёл огорчённым. Поняв, что Господь всеведущ, Шриканта промолчал о случившемся. Затем пришли все вайшнавы; женщины видели Господа лишь издали; Господь поселил их на прежних местах и накормил махапрасадом."
+  persons: ["@shrikanta-sena", "@shivananda-sena", "@nityananda", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  cc: "Антья 12"
+  event: ev-nityananda-kicks-shivananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "34", to: "43"}
+
+- id: cc-4117
+  source: cc
+  ref: "Антья 12.44–53"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 15
+  title: "Господь даёт младшему сыну Шивананды, Парамананде (Пури Дасу), пососать палец Своей стопы и велит каждый день давать семье Шивананды Свои остатки"
+  summary: "Шивананда представил трёх сыновей. Когда-то Господь велел назвать будущего сына Пури Дасом; мальчик родился, когда Шивананда вернулся домой, и получил имя Парамананда Дас, а Господь в шутку звал его Пури Дасом. Господь благословил его, вложив ему в рот палец Своей стопы, и велел Говинде, пока семья Шивананды в Пури, ежедневно давать ей остатки Своей трапезы."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@kavi-karnapura", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Антья 16 (тот же ребёнок — будущий Кави Карнапура)"
+  themes: [mercy, prasada, family]
+  cc: "Антья 12"
+  event: ev-karnapura-child-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "44", to: "53"}
+
+- id: cc-4118
+  source: cc
+  ref: "Антья 12.54–60"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 6.5
+  title: "Кондитер Парамешвара из Надии: «Я тот самый Парамешвара! Со мной пришла и мать Мукунды» — Господь рад простодушной любви"
+  summary: "С паломниками пришёл кондитер Парамешвара, сосед Шачи, у которого маленький Нимай пил молоко и ел сладости. Он поклонился: «Я тот самый Парамешвара!» — и Господь ласково приветствовал его; тот добавил: «Со всеми пришла и мать Мукунды». Санньяси не подобает слышать о женщинах, и Господь смутился, но из любви промолчал: простодушная любовь не знает формальностей и радует Господа."
+  persons: ["@mahaprabhu", "@parameshvara-modaka"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [mercy, family]
+  cc: "Антья 12"
+  event: ev-parameshvara-modaka
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "54", to: "60"}
+
+- id: cc-4119
+  source: cc
+  ref: "Антья 12.61–85"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 7
+  title: "Чатурмасья с бенгальцами; прощаясь, Господь говорит: «Я ваш должник — отдаю вам Своё тело, хоть продайте его»"
+  summary: "Как прежде, Господь убрал Гундичу и плясал на Ратха-ятре; Малини и другие жёны вайшнавов приглашали Его, бенгальцы угощали любимыми приправами; ночами Он плакал в разлуке с Кришной. Отпуская их, Господь сказал: ради Меня вы оставляете дома и терпите тяготы пути; Нитьянанда нарушил Мой запрет, Адвайта пришёл даровать Мне милость; Я нищий санньяси и не могу отплатить — отдаю вам Своё тело, хоть продайте его. Все плакали и ещё неделю не могли уйти; Адвайта и Нитьянанда сказали: Ты вновь связал всех верёвкой милостивых слов. Нитьянанде Господь сказал: не приходи так часто, ты общаешься со Мной и в Бенгалии."
+  persons: ["@mahaprabhu", "@malini", "@nityananda", "@advaita"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  themes: [separation, festival, mercy]
+  cc: "Антья 12"
+  event: ev-lord-debt-gauda-devotees
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "61", to: "85"}
+
+- id: cc-4120
+  source: cc
+  ref: "Антья 12.86–101"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 69
+  title: "Джагадананда в Навадвипе у Шачи передаёт прасад и слова Господа: «Я прихожу и ем твою пищу»; Шачи: «мне кажется, что это сон»"
+  summary: "За год до того Джагадананда по просьбе Господа пришёл к Шачи с одеждой и прасадом Джаганнатхи и поклонился от Его имени; днём и ночью она слушала о Нём. Он передал: Господь приходит и ест всё, что ты подносишь, и говорит: «мама накормила Меня досыта», — а ты считаешь это сном. Шачи ответила: мне и правда кажется, что Нимай съел всё, а потом думаю, что это сон. Джагадананда встретился с преданными Навадвипы, Адвайтой, Мурари и Васудевой, не отпускавшими его, и в нём все ощущали присутствие Самого Господа."
+  persons: ["@jagadananda-pandita", "@shachi", "@mahaprabhu", "@advaita", "@murari-gupta", "@vasudeva-datta"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: A
+  themes: [family, revelation, separation]
+  cc: "Антья 12"
+  event: ev-jagadananda-visits-shachi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "86", to: "101"}
+
+- id: cc-4121
+  source: cc
+  ref: "Антья 12.102–151"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 70
+  title: "Сосуд сандалового масла: Господь отказывается — «санньяси не нанимает массажиста», и Джагадананда в гневе разбивает сосуд; через три дня Господь приходит к нему обедать и съедает вдесятеро больше"
+  summary: "У Шивананды приготовили много ароматного сандалового масла от болезни питты и вайу, и Джагадананда принёс его в Пури, попросив Говинду натирать им голову Господа. Господь отказался: санньяси нельзя касаться масла с благовониями — отдайте его на лампады Джаганнатхе; на повторную просьбу Он сказал: нанять ли Мне ещё массажиста? люди решат, что Я дари-санньяси. Джагадананда ответил: кто сказал, что я принёс масло? — и разбил кувшин во дворе, ушёл и три дня лежал за запертой дверью. Господь пришёл: приготовь Мне сегодня обед. Джагадананда сварил рис шали с гхи и множество блюд; Господь хвалил: ты готовишь даже в гневе так вкусно, потому что Сам Кришна готовит твоими руками. Джагадананда всё подкладывал, и Господь, боясь, что тот продолжит поститься, съел вдесятеро больше обычного; уходя, Он оставил Говинду проследить, поел ли Джагадананда, и лишь тогда уснул; остатки Джагадананда раздал Рамаи, Нандаи, Говинде и Рагхунатхе Бхатте."
+  persons: ["@jagadananda-pandita", "@mahaprabhu", "@govinda-servant", "@shivananda-sena", "@ramai-puri", "@nandai", "@raghunatha-bhatta"]
+  places: ["#puri", "#kumarahatta"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada, mercy]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 12"
+  event: ev-jagadananda-sandal-oil
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "102", to: "151"}
+
+- id: cc-4122
+  source: cc
+  ref: "Антья 12.152–155"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: PX
+  order: 995.24
+  title: "Любовь Джагадананды — как у Сатьябхамы; «Према-виварта»; колофон Антья 12"
+  summary: "Любовь Господа и Джагадананды подобна любви Кришны и Сатьябхамы; кто слушает о ней или читает «Према-виварту» Джагадананды, поймёт чистую любовь и обретёт прему. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@jagadananda-pandita", "@satyabhama"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "152", to: "155"}

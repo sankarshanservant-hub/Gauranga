@@ -376,3 +376,34 @@
   cb: ""
   themes: [prasada, family]
   notes: "«Что за имя такое — Чайтанья Дас?»; сын угадывает желание Господа."
+
+# --- Антья 12 ---
+- id: ev-nityananda-kicks-shivananda
+  title: "Нитьянанда пинает Шивананду Сену, оставшись без ночлега; Шриканта уходит вперёд к Господу"
+  title_en: "Nityananda kicks Shivananda Sena when left without lodging; Shrikanta goes ahead to the Lord"
+  period: P14
+  order: 5.5
+  cc: "Антья 12.7–43"
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "«Проклятие» трём сыновьям Шивананды; Шивананда счастлив прикосновению стопы."
+
+- id: ev-parameshvara-modaka
+  title: "Кондитер Парамешвара из Надии у Господа в Пури"
+  title_en: "Parameshvara the sweet-maker of Nadia with the Lord in Puri"
+  period: P14
+  order: 6.5
+  cc: "Антья 12.54–60"
+  cb: ""
+  themes: [mercy, family]
+  notes: "«Со мной пришла и мать Мукунды» — простодушная любовь."
+
+- id: ev-lord-debt-gauda-devotees
+  title: "Прощаясь с бенгальцами, Господь называет Себя их должником и отдаёт им Своё тело"
+  title_en: "Bidding farewell to the Bengalis, the Lord calls Himself their debtor and gives them His body"
+  period: P14
+  order: 7
+  cc: "Антья 12.61–85"
+  cb: ""
+  themes: [separation, mercy]
+  notes: ""
