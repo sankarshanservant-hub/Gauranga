@@ -220,3 +220,26 @@
   themes: [teaching, author]
   teaching: [scripture, prema]
   notes: "Перечень книг: Брихад-бхагаватамрита, Дашама-типпани, Хари-бхакти-виласа; Бхакти-расамрита-синдху, Уджвала-ниламани, Видагдха- и Лалита-мадхава, Дана-кели-каумуди. Ср. ev-gosvamis-reveal-lost-tirthas."
+
+# --- Антья 5 ---
+- id: ev-pradyumna-mishra-hears-ramananda
+  title: "Прадьюмна Мишра слушает о Кришне от Рамананды Рая"
+  title_en: "Pradyumna Mishra hears about Krishna from Ramananda Raya"
+  period: P14
+  order: 35
+  cc: "Антья 5.4–90"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema, vaishnava]
+  notes: "Включает рассказ о том, как Рамананда учит девадаси танцу для Джаганнатхи, и слова Господа о духовной природе тела Рамананды."
+
+- id: ev-bengali-poet-drama-svarupa
+  title: "Бенгальский поэт и его драма: Сварупа Дамодара обличает ошибку и открывает в шлоке молитву Сарасвати"
+  title_en: "The Bengali poet's drama: Svarupa Damodara exposes the error and reveals Sarasvati's prayer in the verse"
+  period: P14
+  order: 36
+  cc: "Антья 5.91–158"
+  cb: ""
+  themes: [teaching, jagannatha, mercy]
+  teaching: [gaura-tattva, scripture]
+  notes: "Правило: всё, что читают Господу, сначала проверяет Сварупа."

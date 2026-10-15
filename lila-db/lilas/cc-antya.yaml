@@ -986,3 +986,175 @@
   cc: "Антья 4"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "236", to: "239"}
+
+- id: cc-4053
+  source: cc
+  ref: "Антья 5.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 995.1
+  title: "Мангалачарана Антья 5"
+  summary: "Автор, изъеденный червями корысти и зависти, предаётся единственному целителю — Чайтанье; слава сыну Шачи, Нитьянанде, Адвайте и преданным — Сварупе, Гададхаре, Рупе и Санатане."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "1", to: "3"}
+
+- id: cc-4054
+  source: cc
+  ref: "Антья 5.4–32"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35
+  title: "Прадьюмна Мишра просит рассказать о Кришне; Господь посылает его к Рамананде, который в саду учит двух девадаси танцу для Джаганнатхи"
+  summary: "Прадьюмна Мишра попросил Господа рассказать о Кришне; Господь сказал, что Сам слушает о Кришне от Рамананды, и послал его к нему. Слуга сказал, что Рамананда в уединённом саду учит двух юных танцовщиц танцевать под песни своей драмы для Джаганнатхи: сам умащает, омывает и наряжает их, но ум его невозмутим, как при касании дерева или камня, — он чувствует себя служанкой гопи. Выйдя, Рамананда смиренно извинился за ожидание, но было поздно, и Мишра ушёл ни с чем."
+  persons: ["@pradyumna-mishra", "@mahaprabhu", "@ramananda-raya", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, jagannatha]
+  bhava: [gopi]
+  scriptures: ["Бхаг. 1.2.8"]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "4", to: "32"}
+
+- id: cc-4055
+  source: cc
+  ref: "Антья 5.33–54"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35.1
+  title: "Господь о Рамананде: «даже имя женщины волнует Мой ум — а он невозмутим»; кто с верой слушает о расе, освобождается от вожделения; тело Рамананды духовно"
+  summary: "Выслушав Мишру, Господь сказал: Я санньяси, но даже имя женщины волнует Мой ум; Рамананда же, касаясь юных танцовщиц, невозмутим — это чудо из чудес; его тело лишь кажется мирским, оно духовно. По «Бхагавате», кто с верой слушает и рассказывает об играх Кришны с гопи, скоро избавляется от вожделения — болезни сердца — и обретает прему; Рамананда идёт путём рага-бхакти, выше правил, и ум его выше майи. Господь вновь послал Мишру к нему, велев сослаться на Него."
+  persons: ["@mahaprabhu", "@pradyumna-mishra", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema, vaishnava]
+  scriptures: ["Бхаг. 10.33.39"]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "33", to: "54"}
+
+- id: cc-4056
+  source: cc
+  ref: "Антья 5.55–76"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35.2
+  title: "Рамананда весь день рассказывает Прадьюмне Мишре о Кришне: «Я лишь вина, на которой играет Господь»"
+  summary: "Узнав, что его послал Господь, Рамананда с радостью увёл Мишру в уединённую комнату; Мишра попросил объяснить то, о чём тот говорил Господу в Видьянагаре. Рамананда пахтал океан рас, сам задавая вопросы и отвечая, до вечера, и оба забыли о себе; Мишра ушёл, танцуя. Вечером он сказал Господу: Рамананда признался, что говорит не он — Господь играет на нём, как на вине; Кришна — океан рас, недоступный даже Брахме."
+  persons: ["@ramananda-raya", "@pradyumna-mishra", "@mahaprabhu"]
+  places: ["#puri", "#vidyanagara"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 8 (беседа в Видьянагаре)"
+  themes: [teaching, krishna-lila, ecstasy]
+  teaching: [prema]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "55", to: "76"}
+
+- id: cc-4057
+  source: cc
+  ref: "Антья 5.77–90"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 117.3
+  title: "Господь прославляет Своих преданных: дхарму Он учит и через «шудр» — Рамананду, Харидаса, Санатану, Рупу"
+  summary: "Господь сказал, что смирение Рамананды не знает равных — он приписывает свои слова другим. Рамананда, домохозяин, не подвластен шести врагам и наставляет санньяси; Господь послал к нему Мишру, чтобы явить его качества. Чтобы сломить гордость надменных, Господь учит дхарме даже через низкорождённых: через Рамананду — истину о Кришне, через Харидаса — славу имени, через Санатану — суть бхакти, через Рупу — вкус рас Вриндавана."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@pradyumna-mishra", "@haridasa-thakura", "@sanatana-gosvami", "@rupa-gosvami"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "77", to: "90"}
+
+- id: cc-4058
+  source: cc
+  ref: "Антья 5.91–108"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36
+  title: "Бенгальский поэт привозит драму о Господе; правило Сварупы: всё сначала слушает он; о расабхасе и неумелых поэтах"
+  summary: "Бенгальский брахман написал драму о Господе и поселился у Бхагавана Ачарьи; вайшнавам она понравилась. Но всё, что читали Господу, сначала слушал Сварупа: Господь гневался на смешение несовместимых рас и противоречие сиддханте. Сварупа сказал Бхагавану Ачарье: ты простодушный пастушок, слушаешь всё подряд; кто не знает рас и сиддханты, не пересечёт океан бхакти; описывать игры Гауры может лишь тот, кто принял Его стопы как богатство жизни, — пример тому две драмы Рупы. После трёх дней уговоров Сварупа согласился слушать."
+  persons: ["@svarupa-damodara", "@bhagavan-acharya", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [prema, scripture]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "91", to: "108"}
+
+- id: cc-4059
+  source: cc
+  ref: "Антья 5.109–127"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36.1
+  title: "Шлока поэта: Чайтанья — «душа» тела Джаганнатхи; Сварупа: тело и душа Господа едины, Джаганнатха — не тленное тело, Чайтанья — не искра-джива"
+  summary: "Поэт прочитал вступление: золотой Чайтанья стал душой лотосоокого тела Джаганнатхи и оживил косную природу; преданные похвалили его. Сварупа в гневе сказал: ты оскорбил обоих — Джаганнатха всецело духовен, а ты представил Его безжизненным телом из пракрити; Чайтанья — Сам Бхагаван с шестью достояниями, изначальный огонь, а ты назвал Его искрой-дживой. Различать тело и душу Господа — тяжкое оскорбление: в Боге тело и душа едины и состоят из блаженства; джива же — слуга майи."
+  persons: ["@svarupa-damodara", "@jagannatha-deity", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, jagannatha, offense]
+  teaching: [gaura-tattva, maya]
+  scriptures: ["Курма-пурана", "Бхаг. 3.9.3", "Бхаг. 3.9.4", "Шридхара Свами к Бхаг. 1.7.6"]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "109", to: "127"}
+
+- id: cc-4060
+  source: cc
+  ref: "Антья 5.128–158"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36.2
+  title: "Сварупа открывает в шлоке поэта молитву Сарасвати: Джаганнатха — неподвижный Дару-брахман, Чайтанья — движущийся Брахман; поэт предаётся и остаётся в Пури"
+  summary: "Поэт онемел от стыда, как утка среди лебедей. Милостивый Сварупа наставил его: слушай «Бхагавату» от вайшнава, предавшись стопам Господа, общайся с Его преданными. Он объяснил: как устами Индры, Джарасандхи и Шишупалы Сарасвати возносила Кришне хвалу, так и здесь — Джаганнатха и Чайтанья едины, это Кришна; Джаганнатха — неподвижный Дару-брахман в Пури, а Чайтанья — движущийся Брахман, странствующий, чтобы спасти тех, кто не может прийти. Поэт с травинкой в зубах предался преданным; они представили его Господу, и он, отрёкшись от всего, остался в Пури."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@jagannatha-deity", "@sarasvati-devi", "@indra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy, jagannatha]
+  teaching: [gaura-tattva, scripture]
+  scriptures: ["Бхаг. 10.25.5"]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "128", to: "158"}
+
+- id: cc-4061
+  source: cc
+  ref: "Антья 5.159–164"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 995.11
+  title: "Итог Антья 5 и колофон"
+  summary: "Так рассказано, как Прадьюмна Мишра слушал Рамананду и как невежественный, но смиренный бенгальский поэт обрёл прибежище у Господа; каждая игра Господа расходится сотнями потоков. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@pradyumna-mishra", "@ramananda-raya"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "159", to: "164"}
