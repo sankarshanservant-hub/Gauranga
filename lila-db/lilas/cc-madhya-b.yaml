@@ -1,0 +1,286 @@
+# Кришнадас Кавирадж Госвами, «Шри Чайтанья-чаритамрита», Мадхья-лила 10–17 (перевод Вриндавана Чандры даса) — лилы
+# по порядку изложения. Метки стихов — «(N)» в chaitanya-charitamrita/ed/vcd/CC_MadhyaNN.md. Исполнитель cc-m2;
+# записи добавлять в конец; новые события — lila-db/events-cc-m2.yaml.
+
+# ---------------- Мадхья 10 ----------------
+
+- id: cc-2001
+  source: cc
+  ref: "Мадхья 10.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: PX
+  order: 995
+  title: "Мангалачарана Мадхья 10: Гаура — туча, оживившая преданных, иссохших в разлуке"
+  summary: "Поклон Гауре, Который, как туча дождём, нектаром Своего даршана оживил преданных, увядших от засухи разлуки; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "1", to: "2"}
+
+- id: cc-2002
+  source: cc
+  ref: "Мадхья 10.3–24"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 1
+  title: "Пратапарудра расспрашивает Сарвабхауму о Махапрабху; для Господа выбран дом Каши Мишры"
+  summary: "Пока Господь был на юге, царь Пратапарудра позвал Сарвабхауму и попросил устроить ему встречу с милостивым санньяси из Бенгалии. Бхаттачарья ответил, что Господь — Сам Кришна, независимый и отрешённый, и с царём встречаться не станет, но обещал попытаться; для жилья Господа царь назначил уединённый дом Каши Мишры у храма, и Каши Мишра счёл это величайшей удачей. Шлока Бхаг. 1.13.10: святые — живые тиртхи."
+  persons: ["@prataparudra", "@sarvabhauma", "@kashi-mishra", "@mahaprabhu"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa]
+  scriptures: ["Бхаг. 1.13.10"]
+  cc: "Мадхья 10"
+  event: ev-prataparudra-asks-sarvabhauma
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "3", to: "24"}
+
+- id: cc-2003
+  source: cc
+  ref: "Мадхья 10.25–37"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 2
+  title: "Возвращение с юга; Господь поселяется в доме Каши Мишры и являет ему четырёхрукий облик"
+  summary: "Когда ожидание жителей Пури достигло предела, Господь вернулся с юга. На следующий день после даршана Джаганнатхи, где слуги Божества поднесли Ему махапрасад, Сарвабхаума привёл Его в дом Каши Мишры. Каши Мишра упал к Его стопам и предложил себя и дом; Господь явил ему четырёхрукий облик, принял его слугой и согласился жить там: «Моё тело принадлежит тебе»."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@kashi-mishra", "@nityananda", "@jagannatha-deity"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [revelation, jagannatha, mercy]
+  bhava: [aishvarya]
+  cc: "Мадхья 10"
+  event: ev-kashi-mishra-residence
+  notes: "Ст. 25–28 — возвращение с юга (ср. ev-return-from-south, ЧЧ Мадхья 9)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "25", to: "37"}
+
+- id: cc-2004
+  source: cc
+  ref: "Мадхья 10.38–48"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 2.2
+  title: "Сарвабхаума представляет Господу вайшнавов Пури"
+  summary: "Сарвабхаума, сидя справа от Господа, представил жаждущих Его, словно птицы-чатаки, жителей Нилачалы: Джанардану, обновляющего тело Джаганнатхи, Кришнадаса с золотым посохом, писаря Шикхи Махити и его брата Мурари Махити, Прадьюмну Мишру, Чандрашекхару, Симхешвару, брахмана Мурари, Вишнудаса, Парамананду Махапатру. Все поклонились, и Господь обнял каждого."
+  persons: ["@sarvabhauma", "@mahaprabhu", "@shikhi-mahiti", "@murari-mahiti", "@pradyumna-mishra", "@simheshvara", "@vishnudasa"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy, jagannatha]
+  cc: "Мадхья 10"
+  event: ev-puri-devotees-introduced
+  notes: "Джанардана, Кришнадас (с золотым посохом), Чандрашекхара, брахман Мурари и Парамананда Махапатра — без тегов (в реестре нет; не путать с одноимёнными спутниками Навадвипы)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "38", to: "48"}
+
+- id: cc-2005
+  source: cc
+  ref: "Мадхья 10.49–61"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 3
+  title: "Бхавананда Рай с сыновьями: «Ты — Панду, жена твоя — Кунти»; Ванинатха — слуга Господа"
+  summary: "Пришёл Бхавананда Рай с четырьмя сыновьями. Господь прославил его сына Рамананду и сказал: «Ты — Панду, твоя жена — Кунти, а пятеро сыновей — Пандавы». Бхавананда, называя себя падшим шудрой, отдал Господу себя, дом и сыновей; Господь принял его как Своего, обещал скорый приход Рамананды и оставил при Себе Ванинатху Паттанаяка."
+  persons: ["@mahaprabhu", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya", "@sarvabhauma"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy, revelation]
+  cc: "Мадхья 10"
+  event: ev-bhavananda-raya-pandu
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "49", to: "61"}
+
+- id: cc-2006
+  source: cc
+  ref: "Мадхья 10.62–66"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 2.8
+  title: "Господь отказывается от Кала Кришнадаса, ушедшего к бхаттатхари"
+  summary: "Господь рассказал Сарвабхауме, что брахман Кришнадас, сопровождавший Его на юге, ушёл к бхаттатхари и был Им спасён, но теперь Господь не хочет, чтобы он дальше Его сопровождал. Кришнадас заплакал."
+  persons: ["@mahaprabhu", "@kala-krishnadasa", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [offense, sannyasa]
+  cc: "Мадхья 10"
+  event: ev-kala-krishnadasa-dismissed
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "62", to: "66"}
+
+- id: cc-2007
+  source: cc
+  ref: "Мадхья 10.67–80"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 10
+  title: "Кала Кришнадас несёт в Гауду весть о возвращении Господа"
+  summary: "Нитьянанда, Джагадананда, Мукунда и Дамодара решили послать Кришнадаса в Бенгалию к Шачи и преданным, тревожившимся без вестей, и Господь согласился. Кришнадас с махапрасадом пришёл к Шачи, к Шривасе и к Адвайте; весть привела всех в ликование, а Адвайта громко кричал, пел и танцевал."
+  persons: ["@kala-krishnadasa", "@nityananda", "@jagadananda-pandita", "@mukunda-datta", "@damodara-pandita", "@shachi", "@srivasa", "@advaita"]
+  places: ["#puri", "#navadvipa", "#shantipura"]
+  kind: lila
+  authority: A
+  themes: [separation, prasada]
+  cc: "Мадхья 10"
+  event: ev-messenger-to-gauda-after-south
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "67", to: "80"}
+
+- id: cc-2008
+  source: cc
+  ref: "Мадхья 10.85–90"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 17
+  title: "Преданные Гауды собираются у Адвайты и с позволения Шачи решают идти в Нилачалу"
+  summary: "Преданные собрались у Адвайты и несколько дней праздновали, затем решили идти в Пури; в Навадвипе получили позволение Шачи. К ним присоединились жители Кулинаграмы, а также Мукунда, Нарахари и Рагхунандана из Кханды."
+  persons: ["@advaita", "@shachi", "@mukunda-dasa", "@narahari-sarakara", "@raghunandana"]
+  places: ["#shantipura", "#navadvipa", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, separation]
+  cc: "Мадхья 10"
+  event: ev-gauda-devotees-set-out-puri
+  notes: "В нашем файле ст. 81–84 отсутствуют (нумерация перевода переходит от 80 к 85)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "85", to: "90"}
+
+- id: cc-2009
+  source: cc
+  ref: "Мадхья 10.91–101"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9.5
+  title: "Парамананда Пури приходит в Пури; Господь даёт ему комнату в доме Каши Мишры"
+  summary: "Парамананда Пури, придя с юга вдоль Ганги, гостил у Шачи, услышал о возвращении Господа и поспешил в Нилачалу с брахманом Камалакантой. Господь в преме поклонился его стопам и попросил остаться при Нём; Пури ответил, что ради этого и пришёл, и Господь дал ему уединённую комнату и слугу."
+  persons: ["@paramananda-puri", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa", "#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, mercy]
+  cc: "Мадхья 10"
+  event: ev-svarupa-paramananda-arrive
+  notes: "Брахман Камалаканта (спутник Парамананды Пури) — без тега: в реестре есть @kamalakanta-vishvasa (слуга Адвайты) и @kamalakanta-navadvipa; тождество не установлено."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "91", to: "101"}
+
+- id: cc-2010
+  source: cc
+  ref: "Мадхья 10.102–117"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9.51
+  title: "Сварупа Дамодара: Пурушоттама Ачарья, его санньяса в Варанаси и служение Господу как проверяющего книги"
+  summary: "В Навадвипе его звали Пурушоттама Ачарья; увидев санньясу Господа, он, как безумный, ушёл в Варанаси и принял санньясу у Чайтаньянанды Бхарати, но не надел шафрана и звался лишь «Сварупа». С позволения гуру пришёл в Пури. Знаток расы, он проверял книги и песни, прежде чем их слушал Господь (без противоречий сиддханте и расабхасы), и сам пел Господу Видьяпати, Чандидаса и «Гита-Говинду»; был дорог Адвайте, Нитьянанде и всем преданным."
+  persons: ["@svarupa-damodara", "@chaitanyananda", "@mahaprabhu", "@vidyapati", "@chandidasa", "@jayadeva", "@advaita", "@nityananda", "@srivasa"]
+  places: ["#navadvipa", "#kashi", "#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, krishna-lila]
+  teaching: [prema, associates-tattva]
+  cc: "Мадхья 10"
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "102", to: "117"}
+
+- id: cc-2011
+  source: cc
+  ref: "Мадхья 10.118–129"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9.52
+  title: "Встреча Сварупы Дамодары с Господом: «Верёвкой милости Ты притянул меня к Своим стопам»"
+  summary: "Сварупа пал к стопам Господа и прочёл шлоку «Чайтанья-чандродаи» (8.10) о милости Господа; Господь обнял его, и оба лишились чувств от премы. Господь сказал, что видел его приход во сне; Сварупа просил простить, что ушёл от Него. Он поклонился Нитьянанде, Парамананде Пури и другим, и Господь дал ему уединённое жилище и слугу."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@nityananda", "@jagadananda-pandita", "@mukunda-datta", "@shankara-pandita", "@sarvabhauma", "@paramananda-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy]
+  scriptures: ["Чайтанья-чандродая, 8.10"]
+  cc: "Мадхья 10"
+  event: ev-svarupa-paramananda-arrive
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "118", to: "129"}
+
+- id: cc-2012
+  source: cc
+  ref: "Мадхья 10.130–150"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9
+  title: "Говинда, слуга Ишвары Пури, по велению гуру становится слугой Господа"
+  summary: "Пришёл Говинда: перед уходом Ишвара Пури велел ему служить Чайтанье (Кашишвара придёт позже). На вопрос Сарвабхаумы, почему у Пури был слуга-шудра, Господь ответил: милость независимого Пури, как и Господа, не связана правилами и сословием — Кришна ел у Видуры; Господа привлекает лишь любовь. Сарвабхаума (шлоки «Рагху-вамши» 14.46 и «Рамаяны») подтвердил, что повеление гуру нельзя нарушать, и Говинда стал личным слугой Господа вместе с Харидасами, Рамаи и Нандаи."
+  persons: ["@govinda-servant", "@ishvara-puri", "@mahaprabhu", "@sarvabhauma", "@kashishvara", "@bada-haridasa", "@chhota-haridasa", "@ramai-puri", "@nandai"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [vaishnava, purity]
+  scriptures: ["Рагху-вамша, 14.46", "Рамаяна, Айодхья-канда, 22.9"]
+  cc: "Мадхья 10"
+  event: ev-govinda-ishvara-puri-servant
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "130", to: "150"}
+
+- id: cc-2013
+  source: cc
+  ref: "Мадхья 10.151–183"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9.7
+  title: "Брахмананда Бхарати и оленья шкура: «Это не Бхарати Госвами»"
+  summary: "Увидев Брахмананду Бхарати в оленьей шкуре, Господь сделал вид, что не узнаёт его; тот понял урок, снял шкуру, и Господь поклонился ему. Бхарати сказал, что Брахман явлен в двух обликах — тёмном Джаганнатхе и золотом Чайтанье; Господь шутливо обратил это на самого Брахмананду, и в споре, где посредником был Сарвабхаума, Бхарати доказал (шлока «Вишну-сахасра-намы»), что Господь — вездесущий Владыка, а он — ограниченная джива; признал, что, всю жизнь созерцая Брахман, при виде Господа ощутил Кришну (шлока Билвамангалы). Господь отверг похвалу Сарвабхаумы: «Вишну! Вишну!» — и Бхарати остался жить с Ним."
+  persons: ["@brahmananda-bharati", "@mahaprabhu", "@mukunda-datta", "@sarvabhauma", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, revelation, teaching]
+  teaching: [gaura-tattva]
+  scriptures: ["Махабхарата, Вишну-сахасра-нама", "Билвамангала (шлока «адвайта-витхи-патхикаих…»)"]
+  cc: "Мадхья 10"
+  event: ev-brahmananda-bharati-deerskin
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "151", to: "183"}
+
+- id: cc-2014
+  source: cc
+  ref: "Мадхья 10.184–188"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: P12
+  order: 9.8
+  title: "Рамабхадра Ачарья, Бхагаван Ачарья и Кашишвара остаются при Господе; все преданные приходят к Нему, как реки к океану"
+  summary: "Рамабхадра Ачарья и Бхагаван Ачарья оставили дела и поселились у стоп Господа; пришёл Кашишвара, жил в Его доме и, идя впереди к храму, сдерживал толпу. Как реки впадают в океан, так все преданные принимали прибежище у Господа."
+  persons: ["@bhagavan-acharya", "@kashishvara", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, jagannatha]
+  cc: "Мадхья 10"
+  event: ev-devotees-gather-nilachala
+  notes: "Рамабхадра Ачарья — без тега (в реестре нет)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "184", to: "188"}
+
+- id: cc-2015
+  source: cc
+  ref: "Мадхья 10.189–190"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md"
+  period: PX
+  order: 995.1
+  title: "Колофон Мадхья 10"
+  summary: "Так рассказано о встрече Господа со всеми вайшнавами; слушающий достигает Его стоп. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "189", to: "190"}

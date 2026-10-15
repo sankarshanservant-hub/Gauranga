@@ -1,0 +1,42 @@
+# События, заведённые при внесении «Шри Чайтанья-чаритамриты», Мадхья 10–17 (исполнитель cc-m2; источник cc).
+# Формат — README.md, раздел «События». Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-puri-devotees-introduced
+  title: "Сарвабхаума представляет Господу вайшнавов Пури"
+  title_en: "Sarvabhauma introduces the Vaishnavas of Puri to the Lord"
+  period: P12
+  order: 2.2
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [mercy, jagannatha]
+  notes: "ЧЧ Мадхья 10.38–48: Джанардана, Кришнадас, Шикхи и Мурари Махити, Прадьюмна Мишра, Парамананда Махапатра и другие."
+
+- id: ev-kala-krishnadasa-dismissed
+  title: "Господь отказывается от Кала Кришнадаса"
+  title_en: "The Lord dismisses Kala Krishnadasa"
+  period: P12
+  order: 2.8
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [offense]
+  notes: "ЧЧ Мадхья 10.62–66: после случая с бхаттатхари (Мадхья 9) Господь не берёт его больше с Собой; затем его посылают вестником в Гауду (ev-messenger-to-gauda-after-south)."
+
+- id: ev-brahmananda-bharati-deerskin
+  title: "Брахмананда Бхарати оставляет оленью шкуру"
+  title_en: "Brahmananda Bharati gives up his deerskin"
+  period: P12
+  order: 9.7
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [sannyasa, revelation]
+  notes: "ЧЧ Мадхья 10.151–183: Господь «не узнаёт» его в шкуре; спор о двух обликах Брахмана (Джаганнатха и Гаура)."
+
+- id: ev-gauda-devotees-set-out-puri
+  title: "Преданные Гауды собираются у Адвайты и выходят в Нилачалу"
+  title_en: "The devotees of Gauda gather at Advaita's and set out for Nilachala"
+  period: P12
+  order: 17
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [pilgrimage, separation]
+  notes: "ЧЧ Мадхья 10.85–90; путь и приход — Мадхья 11 (ev-gauda-devotees-arrive-puri)."
