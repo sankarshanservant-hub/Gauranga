@@ -2001,3 +2001,111 @@
   cc: "Антья 10"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "158", to: "162"}
+
+- id: cc-4107
+  source: cc
+  ref: "Антья 11.1–10"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: PX
+  order: 995.21
+  title: "Мангалачарана Антья 11: поклон Харидасу и Господу, Который плясал, держа его тело"
+  summary: "Поклон Харидасу и его Владыке, Который танцевал, держа на руках его тело; слава Господу — дорогому Адвайте и Нитьянанде, Владыке Шриваса, Харидаса, Гададхары, Сварупы, Каши Мишры, Джагадананды, Рупы, Санатаны и Рагхунатхи; молитвы Нитьянанде, Адвайте, преданным и шести Госвами — хранителям автора."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@svarupa-damodara", "@kashi-mishra", "@jagadananda-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@raghunatha-bhatta", "@gopala-bhatta"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "1", to: "10"}
+
+- id: cc-4108
+  source: cc
+  ref: "Антья 11.11–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 100.2
+  title: "Господь в Нилачале: днём киртан и даршан, ночами с Раманандой и Сварупой — растущие проявления разлуки"
+  summary: "Днём Господь пел, плясал и ходил к Джаганнатхе, а вечером с Раманандой и Сварупой вкушал расы; в разлуке с Кришной в Нем день ото дня усиливались беспокойство, тревога и безумные речи, особенно ночью; Сварупа и Рамананда были с Ним днём и ночью."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 11"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "11", to: "15"}
+
+- id: cc-4109
+  source: cc
+  ref: "Антья 11.16–44"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 59
+  title: "Харидас ослаб и не может закончить норму имени; он просит Господа позволить ему оставить тело прежде, чем Господь завершит Свои игры"
+  summary: "Говинда принёс Харидасу махапрасад; тот лежал и медленно повторял имя: сегодня я пощусь, норма не завершена, — но почтил прасад крошкой. Господь спросил о здоровье; Харидас ответил: тело здорово, болен ум — не могу закончить норму. Господь сказал: ты стар и уже обрёл духовное тело, уменьши число. Харидас ответил: я низкорождённый, а Ты поднял меня до Вайкунтхи; я чувствую, что Ты скоро завершишь Свои игры, и не хочу этого видеть — позволь мне уйти при Тебе, прижав Твои стопы к сердцу, глядя на Твоё лицо и повторяя «Шри Кришна Чайтанья». Господь: Кришна исполнит твоё желание, но Моя радость — общение с тобой. Харидас: если умрёт муравей, что потеряет мир? Исполни мою просьбу."
+  persons: ["@haridasa-thakura", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, prasada]
+  teaching: [holy-name, vaishnava]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "16", to: "44"}
+
+- id: cc-4110
+  source: cc
+  ref: "Антья 11.45–60"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 60
+  title: "Уход Харидаса: при киртане Господа и преданных он, глядя на лицо Господа и повторяя «Шри Кришна Чайтанья», оставляет тело; Господь пляшет с его телом на руках"
+  summary: "На другое утро Господь со всеми преданными пришёл к Харидасу; тот сказал: всё по Твоей воле. Господь начал во дворе маха-санкиртану, плясал Вакрешвара; перед Раманандой, Сарвабхаумой и всеми Господь восхвалял Харидаса, и все склонились к его стопам. Харидас усадил Господа перед собой, устремил глаза-пчёл на Его лицо, прижал Его стопы к сердцу, посыпал голову пылью со стоп преданных и со словами «Шри Кришна Чайтанья» оставил тело по своей воле, как Бхишма. Господь в преме поднял тело и плясал с ним по двору, и все плясали и пели."
+  persons: ["@haridasa-thakura", "@mahaprabhu", "@vakreshvara", "@svarupa-damodara", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, kirtan, ecstasy]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "45", to: "60"}
+
+- id: cc-4111
+  source: cc
+  ref: "Антья 11.61–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 60.1
+  title: "Господь омывает тело Харидаса в океане и сам засыпает его песком; просит прасад у лавочников у Львиных ворот и устраивает праздник ухода Харидаса"
+  summary: "Тело понесли к морю в паланкине с киртаном; Господь омыл его: отныне этот берег — великая тиртха; все выпили воду со стоп Харидаса. Его положили в яму в песке, украсив прасадом Джаганнатхи; Господь с возгласом «Харибол» сам засыпал тело песком, над могилой сделали возвышение с оградой, и Господь плясал вокруг. У Львиных ворот Господь, подставив край одежды, просил у лавочников прасад для праздника; Сварупа отослал Его домой и собрал прасад; прислали ещё Ванинатха и Каши Мишра. Господь сам раздавал, кладя каждому как на пятерых, и ел с Парамананда Пури и Брахмананда Бхарати. Он благословил: кто видел праздник, пел, сыпал песок и ел прасад, скоро обретёт Кришну; Харидас ушёл по своей воле, как Бхишма, мир потерял бриллиант. «Слава Харидасу!» — и Господь лёг отдыхать со смешанным чувством радости и горя."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@svarupa-damodara", "@vakreshvara", "@vaninatha-raya", "@kashi-mishra", "@jagadananda-pandita", "@kashishvara", "@shankara-pandita", "@paramananda-puri", "@brahmananda-bharati"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, festival, prasada]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "61", to: "100"}
+
+- id: cc-4112
+  source: cc
+  ref: "Антья 11.101–108"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: PX
+  order: 995.22
+  title: "Итог Антья 11: любовь Господа к преданным в уходе Харидаса; колофон"
+  summary: "Так рассказано о победоносном уходе Харидаса: Господь даровал ему общение при смерти, плясал с его телом, засыпал его песком, просил милостыню и праздновал его уход. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "101", to: "108"}
