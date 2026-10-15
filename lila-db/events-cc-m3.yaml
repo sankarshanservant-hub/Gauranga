@@ -64,3 +64,15 @@
   cb: ""
   themes: [sannyasa]
   teaching: [sannyasa-teaching]
+
+# Мадхья 21 — наставление Санатане: величие и сладость Кришны.
+- id: ev-sanatana-shiksha-aishvarya-madhurya
+  title: "Наставление Санатане: величие и сладость Кришны"
+  title_en: "Instruction to Sanatana: the majesty and sweetness of Krishna"
+  period: P13
+  order: 185.2
+  cc: "Мадхья 21"
+  cb: ""
+  themes: [teaching, krishna-lila, ecstasy]
+  teaching: [prema, scripture]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши): бесчисленные Вайкунтхи, три обители, Брахмы в Двараке, мадхурья Кришны — в бхаве гопи."

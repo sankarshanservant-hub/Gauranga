@@ -1226,3 +1226,262 @@
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya20.md", from: "403", to: "404"}
 
+
+- id: cc-3065
+  source: cc
+  ref: "Мадхья 21.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: PX
+  order: 999.2
+  title: "Мадхья 21: вступительная шлока — поклон Чайтанье, прибежищу забывших цель жизни"
+  summary: "О Шри Чайтанья, единственное прибежище забывших цель жизни и дарующий нуждающимся высшее богатство, позволь рассказать о Твоей сладости и совершенстве. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 21"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "1", to: "2"}
+
+- id: cc-3066
+  source: cc
+  ref: "Мадхья 21.3–18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.2
+  title: "Наставление Санатане: бесчисленные безграничные Вайкунтхи — лепестки вокруг обители Кришны; качеств Кришны не знают ни Брахма, ни Ананта, ни Он Сам"
+  summary: "Все облики Кришны вечны и духовны, у каждого — своя Вайкунтха; их бесчисленное множество, каждая безгранична и полна блаженства, а жители наделены всеми достояниями. Паравьома подобна лотосу, сердцевина которого — обитель Кришны. Качества Кришны бесконечны: их не знают Брахма, Шива и Кумары, не может описать тысячеустый Ананта, и даже Сам всеведущий Кришна не знает их предела."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 11 — в нашем переводе ссылка «ШБ 2.14.7»; шлока — Бхаг. 10.14.7."
+  themes: [teaching]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 10.14.21", "Бхаг. 10.14.7", "Бхаг. 2.7.41", "Бхаг. 10.87.41"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "3", to: "18"}
+
+- id: cc-3067
+  source: cc
+  ref: "Мадхья 21.19–30"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.21
+  title: "Наставление Санатане: Брахма-вимохана — пастушки и телята становятся Нараянами; Брахма признаёт Кришну непостижимым; во Вриндаване умещаются все Вайкунтхи"
+  summary: "Во Вриндаване по воле Кришны в одно мгновение явились бесчисленные Вайкунтхи и вселенные: несчётные пастушки с телятами, посохами, флейтами и украшениями стали четырёхрукими Нараянами, которым поклонялись Брахмы, и снова вошли в тело Кришны. Оцепеневший Брахма сказал: «Пусть иные говорят, что знают Тебя, — для моего тела, ума и речи Ты недостижим». Вриндаван внешне невелик, но в любом его уголке умещаются все Вайкунтхи и вселенные; это лишь указание, как на луну через ветку."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@brahma", "@krishna"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 10.14.38"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "19", to: "30"}
+
+- id: cc-3068
+  source: cc
+  ref: "Мадхья 21.31–41"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.22
+  title: "Господь погружается в океан достояний Кришны и толкует «Бхагаватам» 3.2.21: Кришна — без равных и высших; «трьядхиша» — владыка Брахмы, Вишну и Шивы, владыка трёх пуруш"
+  summary: "Описывая совершенства Кришны, Господь погрузился в их океан и растерялся, а затем, радостно вкушая смысл, стал толковать шлоку «Бхагаватам» (3.2.21): нет никого равного Кришне или выше Его. Первое значение «трьядхиша»: Брахма, Вишну и Шива лишь исполняют волю Кришны; второе: три пуруша-аватары — Маха-Вишну, Гарбходакашайи и Кширодакашайи — лишь Его части."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 3.2.21", "Брахма-самхита, 5.1", "Бхаг. 2.6.32", "Брахма-самхита, 5.48"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "31", to: "41"}
+
+- id: cc-3069
+  source: cc
+  ref: "Мадхья 21.42–57"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.23
+  title: "Наставление Санатане: три обители — Голока-Вриндавана, Паравьома и Деви-дхама; за Вираджей три четверти достояний, мир майи — лишь четверть"
+  summary: "Сокровенный смысл: высшая обитель — Голока-Вриндавана с отцом, матерью и друзьями Кришны, кладовая сладости и мадхура-расы, где Йогамайя устраивает Его лилы и раса. Ниже — Паравьома (Вишнулока) с Нараяной и бесчисленными обликами, где Вайкунтхи — как покои царской сокровищницы. За рекой Вираджей, изошедшей из тела Господа, — Деви-дхама, где правит Дурга-майя, исполняя волю Всевышнего, а души в плену иллюзии. Кришна владыка всех трёх; духовный мир — три четверти Его достояний, материальный — четверть."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [maya, scripture]
+  scriptures: ["Брахма-самхита, 5.43", "Падма-пурана", "Лагху-бхагаватамрита, 1.5.286"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "42", to: "57"}
+
+- id: cc-3070
+  source: cc
+  ref: "Мадхья 21.58–89"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.24
+  title: "Наставление Санатане: Брахма в Двараке — «Какой Брахма?»; Кришна созывает бесчисленных многоголовых Брахм, Шив и Индр"
+  summary: "Брахма пришёл в Двараку; Кришна велел спросить: «Какой Брахма?» Изумлённый, он назвался четырёхголовым отцом Кумаров и спросил, разве есть другие. Кришна, улыбнувшись, погрузился в медитацию, и явились бесчисленные Брахмы с десятью, сотней, миллионами голов, Шивы и тысячеглазые Индры; их короны звенели о Его стопы, как гимны, каждый думал, что Кришна пришёл в его вселенную, и не видел других. Кришна отпустил их; Брахма, чувствуя себя кроликом среди слонов, повторил: «Ты недостижим». Кришна объяснил: его вселенная мала — потому у него четыре головы; если непостижим мир майи с четвертью Его энергий, что говорить о духовном."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@brahma", "@krishna", "@shiva", "@indra"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [scripture, maya]
+  scriptures: ["Бхаг. 10.14.38", "Падма-пурана"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "58", to: "89"}
+
+- id: cc-3071
+  source: cc
+  ref: "Мадхья 21.90–98"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.25
+  title: "Наставление Санатане: третье значение «трьядхиша» — Гокула, Матхура и Дварака; сварадж-лакшми, чит-шакти исполняет все желания Кришны"
+  summary: "У Кришны три высшие обители, которые Он никогда не покидает: Гокула, Матхура и Дварака, полные внутренней энергии; Он в них — полновластный владыка. Кришна вечно наслаждается играми чит-шакти; её зовут шесть достояний, а сварадж-лакшми исполняет все Его желания, поэтому Веды называют Его изначальным Бхагаваном. «Я коснулся лишь капли этого океана»."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  notes: "В нашем файле метки 93–94 отсутствуют (за 92 следует 95)."
+  themes: [teaching, krishna-lila]
+  teaching: [scripture]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "90", to: "98"}
+
+- id: cc-3072
+  source: cc
+  ref: "Мадхья 21.99–110"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.26
+  title: "Наставление Санатане: нара-лила — высшее; красота Кришны пленяет Его Самого, Нараяну, Лакшми и гопи; Мадана-мохана, туча над гопи-колосьями"
+  summary: "Говоря о величии, Господь ощутил прилив премы и, погрузившись в сладость мадхура-расы, привёл шлоку «Бхагаватам» (3.2.12). Выше всех игр Кришны — те, где Он подобен человеку: пастушок с флейтой, лучший танцор, вечно юный. Йогамайя являет эти лилы из чистой саттвы; облик Кришны изумляет Его Самого, украшает украшения, его трижды изогнутая поза и взгляды пронзают сердца Радхи и гопи; он пленяет Нараяну и Лакшми. Он — Мадана-мохана, чарующий Камадеву; Его флейта приводит в трепет всех; Он — грозовая туча, проливающая дождь лил на гопи-колосья; Шукадева описывает эту сладость по всей «Бхагавате»."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@radha", "@lakshmi"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila, ecstasy]
+  teaching: [prema, scripture]
+  scriptures: ["Бхаг. 3.2.12"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "99", to: "110"}
+
+- id: cc-3073
+  source: cc
+  ref: "Мадхья 21.111–121"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.27
+  title: "«Какие аскезы совершили гопи?» (Бхаг. 10.44.14): сладость Кришны не сравнима с Нараяной — Лакшми совершает аскезы ради Него; эту сладость даёт лишь рагануга"
+  summary: "Как женщины Матхуры славили удачу гопи, так Господь в упоении, взяв Санатану за руку, привёл шлоку «Бхагаватам» (10.44.14): гопи пьют глазами красоту Кришны, самоявленную, вечно юную. Его красота — океан, где флейта — вихрь, уносящий сердца-травинки к Его стопам. Даже Нараяна не обладает этой сладостью: Лакшми, целомудреннейшая, ради неё совершала аскезы. Кришна — источник всех качеств аватар; любовь гопи, как зеркало, отражает Его сладость, и обе соревнуются в росте. Ни карма, ни йога, ни гьяна, ни даже вайдхи-бхакти не дают её вкусить — лишь спонтанная любовь (рага-марга)."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@lakshmi"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  bhava: [gopi]
+  teaching: [prema, bhakti-supremacy]
+  scriptures: ["Бхаг. 10.44.14"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "111", to: "121"}
+
+- id: cc-3074
+  source: cc
+  ref: "Мадхья 21.122–135"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.28
+  title: "Гопи бранят Творца за моргание и два глаза; Кама-гаятри; лицо Кришны — император лун"
+  summary: "Люди корили себя за моргание, а гопи бранили Брахму за несовершенство глаз (Бхаг. 9.24.65; 10.31.15). Природа Кришны явлена в кама-гаятри, чьи двадцать четыре с половиной слога — луны, восходящие в Кришне. Лицо Кришны — император лун на троне тела: щёки, лоб с сандаловой точкой, ногти рук на флейте и ног на земле — луны, танцующие под флейту и колокольчики; брови — луки, взгляды — стрелы. Увидевший жаждет вдвое и бранит Творца, давшего лишь два глаза с веками."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila, ecstasy]
+  bhava: [gopi]
+  teaching: [prema, scripture]
+  scriptures: ["Бхаг. 9.24.65", "Бхаг. 10.31.15"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "122", to: "135"}
+
+- id: cc-3075
+  source: cc
+  ref: "Мадхья 21.136–144"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.29
+  title: "Улыбка Кришны сладче лица и облика (Кришна-карнамрита 92); «строгий доктор не даёт Мне ни капли»; флейта пронизывает миры и уводит гопи"
+  summary: "Взмахнув рукой в блаженстве, Господь произнёс шлоку «Кришна-карнамриты» (92): облик сладок, лицо слаще, а улыбка — слаще всего. «Санатана, Я хочу выпить весь океан сладости Кришны, но Мне не дают и капли — как больному строгий врач». Луч Его улыбки дарует блаженство Голоке, Вайкунтхам и вселенным; нектар губ, преобразившись, становится звуком флейты, которая пронзает оболочку вселенной до Вайкунтхи, пленяет Лакшми, срывает целомудренных жён с колен мужей, и гопи, бросив дела, стыд и страх, бегут к Кришне; звук остаётся в ушах, и они отвечают невпопад."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@lakshmi"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy, krishna-lila]
+  bhava: [radha, gopi]
+  teaching: [prema]
+  scriptures: ["Кришна-карнамрита, 92"]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "136", to: "144"}
+
+- id: cc-3076
+  source: cc
+  ref: "Мадхья 21.145–147"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: P13
+  order: 185.3
+  title: "Господь приходит в себя: «Кришна милостив к тебе — смутив Мой ум, Он через Мои уста открыл тебе Своё величие и сладость»"
+  summary: "Вернувшись во внешнее сознание, Господь сказал: «Санатана, Я хотел говорить о другом, но Кришна, безгранично милостивый к тебе, смутил Мой ум и через Мои уста открыл тебе Своё могущество и сладость; волны нектара унесли Меня». Помолчав, Он снова обратился к Санатане."
+  persons: ["@mahaprabhu", "@sanatana-gosvami"]
+  places: ["#kashi"]
+  kind: teaching
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  cc: "Мадхья 21"
+  event: ev-sanatana-shiksha-aishvarya-madhurya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "145", to: "147"}
+
+- id: cc-3077
+  source: cc
+  ref: "Мадхья 21.148–149"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md"
+  period: PX
+  order: 999.3
+  title: "Колофон Мадхья 21: слушающий о сладости Кришны обретёт кришна-прему"
+  summary: "Кто слушает этот рассказ Господа о сладости Кришны, непременно ощутит блаженство кришна-премы. Кришнадас рассказывает, моля о милости Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 21"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya21.md", from: "148", to: "149"}
+
