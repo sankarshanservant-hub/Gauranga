@@ -270,3 +270,192 @@
   cc: "Мадхья 2"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "84", to: "95"}
+
+- id: cc-1015
+  source: cc
+  ref: "Мадхья 3.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: PX
+  order: 995.2
+  title: "Мадхья 3: вступление — после санньясы Господь хотел идти во Врадж, но в преме блуждал по Радха-деше и пришёл в Шантипур"
+  summary: "Поклон Шри Чайтанье: приняв санньясу, Он решил идти во Враджа-дхаму, но, утратив внешнее сознание от любви к Кришне, странствовал по Радха-деше, а затем пришёл в Шантипур и наслаждался обществом преданных. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#radha-desha", "#shantipura"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "1", to: "2"}
+
+- id: cc-1016
+  source: cc
+  ref: "Мадхья 3.3–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 10
+  title: "Три дня в Радха-деше: Господь в преме повторяет шлоку авантийского брахмана; пастушки кричат «Хари!», и Он благословляет их"
+  summary: "Приняв санньясу в конце двадцать четвёртого года, в светлую половину магхи, Господь в преме пошёл во Вриндаван, но три дня блуждал по Радха-деше, очищая её, и повторял шлоку «Бхагаватам» (11.23.57) о решимости служить стопам Мукунды: «Цель одежд отречения — служение Мукунде; Я пойду во Вриндаван и в уединении буду служить Кришне». С Ним шли Нитьянанда, Чандрашекхара и Мукунда. Всякий, кто видел Его, избавлялся от бед; пастушки кричали «Хари! Хари!», и Господь, касаясь их голов, говорил: «Пойте! Вы очень удачливы»."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@mukunda-datta"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, ecstasy, kirtan]
+  scriptures: ["Бхаг. 11.23.57"]
+  calendar: "санньяса — магха, светлая половина"
+  date_basis: "ЧЧ Мадхья 3.3: санньяса в конце 24-го года, в светлую половину магхи"
+  cc: "Мадхья 3"
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "3", to: "15"}
+
+- id: cc-1017
+  source: cc
+  ref: "Мадхья 3.16–39"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 25
+  title: "Нитьянанда ведёт Господа к Ганге как к Ямуне; Адвайта на лодке с новой одеждой: «Где Ты — там Вриндаван»"
+  summary: "Нитьянанда тайно велит пастушкам указать Господу на дорогу во Вриндаван к Ганге, посылает Чандрашекхару к Адвайте (ждать с лодкой) и в Навадвипу за Шачи и преданными, а Господу на вопрос о Вриндаване отвечает: «Вот Ямуна». В преме Господь славит Ямуну шлокой «Чайтанья-чандродаи» (5.13) и омывается. Приплывший с новой одеждой Адвайта на вопрос «Как Ты узнал, что Я во Врадже?» отвечает: «Где Ты — там Вриндаван»; на упрёк Нитьянанде в обмане Адвайта говорит, что здесь Ганга и Ямуна текут вместе и у западного берега — Ямуна, и зовёт Господа, три дня не евшего, к Себе."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@advaita"]
+  places: ["#radha-desha", "#ganga", "#shantipura"]
+  kind: lila
+  authority: A
+  notes: "У Мурари (3.3) Чандрашекхару отпускает в Навадвипу Сам Господь (ev-chandrashekhara-sent-back); у Кавираджи его посылает Нитьянанда."
+  themes: [ecstasy, pranks]
+  scriptures: ["Чайтанья-чандродая-натака, 5.13"]
+  cc: "Мадхья 3"
+  event: ev-advaita-boat-ganga-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "16", to: "39"}
+
+- id: cc-1018
+  source: cc
+  ref: "Мадхья 3.40–107"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 40
+  title: "Пир у Адвайты: три подношения Кришне; «санньяси не подобает есть роскошно»; шутливая перебранка Адвайты и Нитьянанды, брошенный рис; Харидас и Мукунда едят после"
+  summary: "Адвайта везёт Господа к Себе, омывает Ему стопы; жена Ачарьи готовит, Адвайта подносит Вишну, всё делят на три части — на металлическом блюде для Кришны и в чашах из банановых листьев с сотнями блюд (перечень яств). Харидас и Мукунда отказываются есть вместе с Господом. Господь возражает, что санньяси не подобает роскошная еда; Адвайта отвечает: «В Пури Ты ешь пятьдесят четыре раза в день», — и подкладывает Ему снова и снова. Нитьянанда жалуется, что голоден; Адвайта называет Его падшим авадхутой-обжорой; Нитьянанда бросает рис, и Адвайта, коснувшись остатков, пляшет: «Я очищен!»; Нитьянанда: «Это прасад Кришны — искупи оскорбление, накорми сто санньяси». Затем Адвайта подносит пан, сандал и гирлянды; Господь не позволяет Ему растирать Свои стопы и посылает поесть с Мукундой и Харидасом."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@sita-thakurani", "@haridasa-thakura", "@mukunda-datta", "@krishna"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [prasada, pranks]
+  teaching: [prasada-teaching, sannyasa-teaching]
+  cc: "Мадхья 3"
+  event: ev-advaita-feast-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "40", to: "107"}
+
+- id: cc-1019
+  source: cc
+  ref: "Мадхья 3.108–136"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 45
+  title: "Шантипур стекается к Господу; вечерний киртан: Адвайта пляшет со шлокой «Сегодня Кришна в Моём доме», Мукунда поёт песнь разлуки, Господь в экстазе пляшет три часа"
+  summary: "Узнав о приходе Господа, жители Шантипура весь день приходят на даршан, восклицая «Хари!», изумлённые Его красотой. Вечером Адвайта начинает санкиртану и пляшет, пока Нитьянанда и Харидас пляшут следом; Адвайта поёт стих Радхи «После стольких дней разлуки Кришна снова в Моём доме» и, припадая к стопам Господа, говорит: «Ты долго скрывался, теперь Я свяжу Тебя». Господь падает в экстазе; Мукунда поёт песню, созвучную Его разлуке («любовь к Кришне стала ядом»), и бхавы сражаются в Нём, как воины. Господь вскакивает с криком «Пойте!» и пляшет три часа, пока Нитьянанда не останавливает Его. Десять дней подряд Адвайта устраивал пиры и киртаны."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@haridasa-thakura", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  cc: "Мадхья 3"
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "108", to: "136"}
+
+- id: cc-1020
+  source: cc
+  ref: "Мадхья 3.137–167"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 46
+  title: "Чандрашекхара привозит Шачи и жителей Надии: Шачи плачет над бритой головой сына — «Не будь жесток, как Вишварупа»; «Это тело — твоё»; молитва Шачи Нараяне"
+  summary: "Наутро Чандрашекхара привозит в паланкине Шачи, с ней — множество людей Надии. Господь падает к её стопам; Шачи, положив Его голову на колени, плачет над бритой головой: «Не будь жесток, как Вишварупа, — ты убьёшь меня». Господь отвечает: «Это тело рождено и взлелеяно тобой, Мне не выплатить долг; Я буду жить там, где скажешь». Он встречает каждого — Шривасу, Рамаи, Видьянидхи, Гададхару, Гангадаса, Вакрешвару, Мурари, Шукламбару и других; дом Адвайты стал как Вайкунтха, а запасы Адвайты, кормившего всех, не убывали. Шачи готовит для Господа; видя, как Он падает в киртане, она молит Нараяну, чтобы Нимай не чувствовал боли."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya", "@shachi", "@vishvarupa", "@advaita", "@srivasa", "@srirama-pandita", "@pundarika-vidyanidhi", "@gadadhara-pandita", "@gangadasa-pandita", "@vakreshvara", "@murari-gupta", "@shuklambara", "@buddhimanta-khan", "@nandana-acharya", "@shridhara", "@vijaya-dasa", "@vasudeva-datta", "@damodara-pandita", "@mukunda-datta", "@mukunda-sanjaya", "@narayana"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 154 — «Санджая» отнесён к @mukunda-sanjaya; «Дамодара» — к Дамодаре Пандиту (вероятно)."
+  themes: [family, separation, kirtan]
+  divergence: "Шачи привозит Чандрашекхара (по поручению Нитьянанды); у Мурари, Лочана и других её приводит Нитьянанда."
+  cc: "Мадхья 3"
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "137", to: "167"}
+
+- id: cc-1021
+  source: cc
+  ref: "Мадхья 3.168–192"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 55
+  title: "Шачи просит позволить ей одной готовить для Нимая; «как исполнить две дхармы?» — Шачи велит Господу жить в Пури; Господь просит всех совершать Кришна-санкиртану"
+  summary: "Шриваса и другие брахманы хотели угощать Господа, но Шачи просит: «Позвольте мне готовить, пока Он здесь». Тронутый, Господь говорит преданным: Он не оставит ни их, ни мать, но санньяси не подобает жить у родных — как исполнить обе дхармы? Шачи отвечает: если Его будут порицать, она будет несчастна; пусть живёт в Джаганнатха-Пури — оттуда часто приходят вести, преданные смогут ходить к Нему, а Он — приходить к Ганге. Преданные славят её слова как веды; Господь радостно просит всех дома совершать Кришна-санкиртану и обещает возвращаться."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@advaita"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: A
+  themes: [family, sannyasa, kirtan]
+  teaching: [sannyasa-teaching, holy-name]
+  cc: "Мадхья 3"
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "168", to: "192"}
+
+- id: cc-1022
+  source: cc
+  ref: "Мадхья 3.193–215"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 56
+  title: "Харидас: «Как я буду жить без Тебя?» — Господь обещает взять его в Пури; ещё несколько дней праздника у Адвайты; прощание, Адвайта со слезами идёт следом"
+  summary: "Харидас Тхакур со слезами говорит, что ему, низкому, не попасть к Господу в Пури; Господь просит его оставить смирение и обещает взять его с Собой и молиться за него перед Джаганнатхой. По просьбе Адвайты Господь остаётся ещё на несколько дней: днём беседы о Кришне, ночью санкиртана, Шачи готовит. Затем Он отпускает преданных по домам, велит совершать санкиртану; Адвайта даёт в спутники Нитьянанду, Джагадананду, Дамодару Пандита и Мукунду. Господь утешает мать, обходит её и уходит под плач; Адвайте, идущему следом в слезах, Он велит вернуться и утешить мать и преданных."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@advaita", "@shachi", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [separation, family]
+  cc: "Мадхья 3"
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "193", to: "215"}
+
+- id: cc-1023
+  source: cc
+  ref: "Мадхья 3.216–217"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 70
+  title: "Через Чхатрабхогу вдоль Ганги — в Пури; путь подробно описан Вриндаваном Дасом"
+  summary: "Господь направился через Чхатрабхогу вдоль Ганги в Джаганнатха-Пури. Путешествие подробно описал Вриндаван Дас Тхакур в «Чайтанья-бхагавате» (первоначально — «Чайтанья-мангала»)."
+  persons: ["@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#chhatrabhoga", "#ganga", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; ссылка на ЧБ Антья 2."
+  themes: [pilgrimage]
+  cc: "Мадхья 3"
+  event: ev-journey-to-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "216", to: "217"}
+
+- id: cc-1024
+  source: cc
+  ref: "Мадхья 3.218–219"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: PX
+  order: 995.3
+  title: "Плод слушания об играх в доме Адвайты; колофон"
+  summary: "Кто с преданностью слушает об этих играх Господа в доме Адвайты, вскоре обретёт сокровище любви к Кришне. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "218", to: "219"}
