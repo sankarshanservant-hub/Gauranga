@@ -284,3 +284,292 @@
   cc: "Мадхья 10"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "189", to: "190"}
+
+# ---------------- Мадхья 11 ----------------
+
+- id: cc-2016
+  source: cc
+  ref: "Мадхья 11.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: PX
+  order: 995.2
+  title: "Мангалачарана Мадхья 11: Гаурачандра пляшет в храме Джаганнатхи и затопляет мир сладостью премы"
+  summary: "Гаурачандра с близкими преданными танцевал и прыгал в храме Джаганнатхи, являя множество бхав, и затопил мир сладостью чистой любви к Кришне; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "1", to: "2"}
+
+- id: cc-2017
+  source: cc
+  ref: "Мадхья 11.3–13"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 8.4
+  title: "Господь отказывается встретиться с царём: «Для санньяси видеть царя — что пить яд»"
+  summary: "Сарвабхаума передал Господу желание Пратапарудры встретиться с Ним. Господь закрыл уши: «Нараяна! Нараяна!» — для отрешённого санньяси встреча с царём или с женщиной хуже яда; на довод, что царь — великий преданный, Он ответил, что мирской человек опасен, как змея, и пригрозил уйти из Пури, если просьба повторится. Шлока «Чайтанья-чандродаи» (8.24) и др."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, teaching]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Чайтанья-чандродая, 8.24"]
+  cc: "Мадхья 11"
+  event: ev-lord-refuses-to-see-king
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "3", to: "13"}
+
+- id: cc-2018
+  source: cc
+  ref: "Мадхья 11.14–40"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 8.5
+  title: "Рамананда Рай, оставив службу, приходит к Господу; любовь царя к Господу; слава служения вайшнавам"
+  summary: "Вместе с царём в Пури прибыл Рамананда и, ещё не повидав Джаганнатху, пришёл к Господу; оба плакали в объятиях. Рамананда рассказал, что царь отпустил его со службы с прежним жалованием, обнимал его при имени Господа и считает себя недостойным даршана. Господь сказал: тот, кто любит такого преданного, как Рамананда, будет принят Кришной (шлоки об исключительной славе служения преданным); затем послал Рамананду к Джаганнатхе и домой: «ноги — колесница, сердце — возничий»."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@prataparudra", "@paramananda-puri", "@brahmananda-bharati", "@svarupa-damodara", "@nityananda", "@jagadananda-pandita", "@mukunda-datta", "@jagannatha-deity"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching, mercy]
+  teaching: [vaishnava]
+  scriptures: ["Ади-пурана (Лагху-бхагаватамрита, 2.6)", "Бхаг. 11.19.21", "Бхаг. 11.19.22", "Падма-пурана, 6.253.176", "Бхаг. 3.7.20"]
+  cc: "Мадхья 11"
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "14", to: "40"}
+
+- id: cc-2019
+  source: cc
+  ref: "Мадхья 11.41–61"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 58
+  title: "Горе Пратапарудры: «Господь спасает всех, кроме меня»; Сарвабхаума советует встретить Господа в саду в день Ратха-ятры"
+  summary: "Узнав об отказе, царь горевал: Господь спас даже Джагая и Мадхая, а его одного лишил даршана, и без Его милости ему не нужны ни тело, ни царство (шлока «Чайтанья-чандродаи», 8.28). Изумлённый его любовью, Сарвабхаума сказал, что Господа покоряет лишь чистая любовь, и научил: в день Ратха-ятры, когда Господь будет отдыхать в саду у Гундичи, прийти одному, без царских одежд, припасть к Его стопам и читать «Раса-панчадхьяю»."
+  persons: ["@prataparudra", "@sarvabhauma", "@mahaprabhu", "@jagai-madhai"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, separation]
+  scriptures: ["Чайтанья-чандродая, 8.28"]
+  cc: "Мадхья 11"
+  event: ev-lord-refuses-to-see-king
+  notes: "Исполнение совета — Мадхья 14 (ev-prataparudra-mercy)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "41", to: "61"}
+
+- id: cc-2020
+  source: cc
+  ref: "Мадхья 11.61–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 60
+  title: "Снана-ятра; в анавасару Господь в разлуке уходит к Алаланатхе и возвращается к приходу бенгальцев"
+  summary: "Господь ликовал, созерцая омовение Джаганнатхи, а когда Джаганнатха удалился на отдых и даршан прекратился, Им овладела разлука гопи, и Он ушёл в Алаланатху. Узнав о скором приходе преданных из Бенгалии, Он по просьбе Сарвабхаумы вернулся в Пури."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@jagannatha-deity", "@prataparudra"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha, separation]
+  bhava: [gopi]
+  calendar: "Снана-ятра; анавасара"
+  cc: "Мадхья 11"
+  event: ev-snana-yatra-anavasara-alalanatha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "61", to: "65"}
+
+- id: cc-2021
+  source: cc
+  ref: "Мадхья 11.66–96"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 19
+  title: "Пратапарудра с крыши дворца смотрит на приходящих бенгальских вайшнавов; Гопинатха Ачарья называет их по именам"
+  summary: "Гопинатха Ачарья сообщил, что около двухсот бенгальских маха-бхагават остановились у озера Нарендра, и царь распорядился о жилье и прасаде. С крыши дворца царь, Сарвабхаума и Гопинатха смотрели, как Сварупа и Говинда встречают паломников гирляндами и прасадом; Гопинатха назвал Адвайту, Шривасу, Вакрешвару, Видьянидхи, Гададхару, Мурари, Харидаса, Васудеву Датту, Шивананду, братьев Гхош, жителей Кулинаграмы и Кханды и других. Царь изумился их сиянию и небывалому киртану."
+  persons: ["@prataparudra", "@sarvabhauma", "@gopinatha-acharya", "@svarupa-damodara", "@govinda-servant", "@advaita", "@srivasa", "@vakreshvara", "@pundarika-vidyanidhi", "@gadadhara-pandita", "@chandrashekhara-acharya", "@purandara-pandita", "@gangadasa-pandita", "@shankara-pandita", "@murari-gupta", "@narayana-navadvipa", "@haridasa-thakura", "@nrisimhananda", "@vasudeva-datta", "@shivananda-sena", "@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha", "@raghava-pandita", "@nandana-acharya", "@shriman-pandita", "@shrikanta-sena", "@shuklambara", "@shridhara", "@satyaraja-khan", "@ramananda-vasu", "@mukunda-dasa", "@narahari-sarakara", "@raghunandana", "@chiranjiva-sena"]
+  places: ["#puri", "#narendra-sarovara"]
+  kind: lila
+  authority: A
+  themes: [kirtan, mercy]
+  cc: "Мадхья 11"
+  event: ev-prataparudra-watches-devotees-roof
+  notes: "Перечень упоминает также Хари Бхатту, Нараяну, Виджаю, Валлабху Сена, Пурушоттаму, Санджаю, Сулочану — теги не ставились там, где тождество неочевидно. «Рамананда» из Кулинаграмы отнесён к @ramananda-vasu (по контексту с Сатьяраджей Ханом)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "66", to: "96"}
+
+- id: cc-2022
+  source: cc
+  ref: "Мадхья 11.97–123"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 19.1
+  title: "Сарвабхаума отвечает царю: према-санкиртана — юга-дхарма; Господа узнаёт лишь получивший Его милость; прасад выше поста паломника"
+  summary: "Сарвабхаума объяснил: это према-санкиртана, дхарма Кали-юги, которую явил Сам Господь, и разумные поклоняются Ему санкиртана-ягьей (Бхаг. 11.5.32); учёные не чтят Его, ибо понять, что Он — Кришна, может лишь получивший крупицу Его милости (Бхаг. 10.14.29). Преданные идут сначала к Господу, а не в храм, — таков путь спонтанной любви; и они не постятся и не бреются, как предписано паломникам, а сразу едят махапрасад, ибо отказаться от прасада, данного Самим Господом, — оскорбление (Сарвабхаума вспоминает, как сам ел прасад неумытым; Бхаг. 4.29.46). Затем царь велел Каши Мишре и распорядителю храма исполнять все желания Господа."
+  persons: ["@sarvabhauma", "@prataparudra", "@mahaprabhu", "@vaninatha-raya", "@kashi-mishra", "@gopinatha-acharya"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, prasada, kirtan]
+  teaching: [yuga-dharma, gaura-tattva, prasada-teaching]
+  scriptures: ["Бхаг. 11.5.32", "Бхаг. 10.14.29", "Бхаг. 4.29.46"]
+  cc: "Мадхья 11"
+  event: ev-prataparudra-watches-devotees-roof
+  notes: "В нашем файле ст. 120–121 отсутствуют (за 119 следует 122)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "97", to: "123"}
+
+- id: cc-2023
+  source: cc
+  ref: "Мадхья 11.124–145"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 20
+  title: "Господь встречает бенгальских преданных у дома Каши Мишры; Васудева Датта и Мукунда; книги с юга для переписки; Шриваса"
+  summary: "Бенгальцы прошли Львиные ворота к дому Каши Мишры; Господь вышел навстречу, обнял Адвайту и всех, сам украсил их гирляндами и сандалом. Он сказал Адвайте: «С Твоим приходом Я обрёл совершенство»; Васудеве Датте — что рад ему ещё больше, чем Мукунде, а тот ответил, что младший брат, обретя милость, стал старшим. Две книги, принесённые Господом с юга, по Его слову были переписаны вайшнавами и разошлись по стране. Шривасе с братьями Господь сказал: «Вы покорили Меня служением»."
+  persons: ["@mahaprabhu", "@advaita", "@srivasa", "@sarvabhauma", "@gopinatha-acharya", "@vasudeva-datta", "@mukunda-datta", "@svarupa-damodara"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy, learning]
+  cc: "Мадхья 11"
+  event: ev-gauda-devotees-arrive-puri
+  notes: "Две книги — «Брахма-самхита» и «Кришна-карнамрита» (ЧЧ Мадхья 9; ev-brahma-samhita-adikeshava, ev-krishna-karnamrita-found); в этой главе они не названы. В нашем файле ст. 135–136 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "124", to: "145"}
+
+- id: cc-2024
+  source: cc
+  ref: "Мадхья 11.146–158"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 20.1
+  title: "Шанкара и Дамодара; Шивананда Сена; смирение Мурари Гупты с травой в зубах"
+  summary: "Господь сказал Дамодаре Пандиту, что Его любовь к нему полна почтения, а с его братом Шанкарой Его связывает чистая любовь; Дамодара ответил, что младший брат стал старшим. Шивананду Господь назвал любящим с самого начала, и тот прочёл шлоку «Стотра-ратны» (21). Мурари Гупта поклонился с улицы и, когда за ним пришли, явился с травой в зубах, умоляя не касаться его, грешного; Господь сказал, что его смирение ранит Ему сердце, обнял его и сам очистил его тело."
+  persons: ["@mahaprabhu", "@shankara-pandita", "@damodara-pandita", "@shivananda-sena", "@murari-gupta"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  scriptures: ["Стотра-ратна, 21"]
+  cc: "Мадхья 11"
+  event: ev-gauda-devotees-arrive-puri
+  notes: "В нашем файле ст. 159–160 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "146", to: "158"}
+
+- id: cc-2025
+  source: cc
+  ref: "Мадхья 11.161–168"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 21
+  title: "Харидас Тхакур лежит в поклоне у обочины и не идёт к храму"
+  summary: "Не видя Харидаса, Господь спросил о нём; тот лежал в поклоне вдали у дороги и ответил пришедшим: как низкорождённому ему нельзя приближаться к храму; он просит лишь уединённое место в саду, чтобы ненароком не коснуться служителей Джаганнатхи. Услышав это, Господь очень обрадовался."
+  persons: ["@haridasa-thakura", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, jagannatha]
+  teaching: [vaishnava]
+  cc: "Мадхья 11"
+  event: ev-haridasa-puri-hut
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "161", to: "168"}
+
+- id: cc-2026
+  source: cc
+  ref: "Мадхья 11.169–184"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 20.2
+  title: "Каши Мишра и распорядитель храма расселяют преданных; Господь просит уединённую хижину в саду"
+  summary: "Каши Мишра и распорядитель храма поклонились Господу и предложили устроить вайшнавов. Господь велел Гопинатхе Ачарье разместить их, Ванинатхе — раздать махапрасад, а для Себя попросил уединённую хижину в саду рядом с домом; Каши Мишра ответил: «Всё и так Твоё». Господь отпустил преданных отдохнуть и омыться в океане, глядя на вершину храма."
+  persons: ["@kashi-mishra", "@mahaprabhu", "@gopinatha-acharya", "@vaninatha-raya"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy]
+  cc: "Мадхья 11"
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "169", to: "184"}
+
+- id: cc-2027
+  source: cc
+  ref: "Мадхья 11.185–196"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 21.1
+  title: "Господь обнимает Харидаса: «Я касаюсь тебя, чтобы очиститься» — и даёт ему хижину в саду"
+  summary: "Господь пришёл к Харидасу, воспевавшему имя в преме, поднял его и обнял; оба плакали. На мольбу не касаться его Господь ответил: Он касается Харидаса, чтобы очиститься, ибо тот ежемгновенно совершает все омовения, ягьи и аскезы и чище любого брахмана или санньяси (Бхаг. 3.33.7). Он поселил Харидаса в уединённой хижине в саду, велел воспевать имя и кланяться чакре на храме и обещал ежедневно навещать и обеспечивать прасадом."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, kirtan, jagannatha]
+  teaching: [holy-name, vaishnava]
+  scriptures: ["Бхаг. 3.33.7"]
+  cc: "Мадхья 11"
+  event: ev-haridasa-puri-hut
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "185", to: "196"}
+
+- id: cc-2028
+  source: cc
+  ref: "Мадхья 11.197–211"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 20.3
+  title: "Господь Своей рукой угощает преданных махапрасадом"
+  summary: "После омовения в океане преданные пришли в дом Господа; Он рассадил их рядами и Сам клал каждому столько, что хватило бы на двоих-троих; никто не ел, пока по просьбе Сварупы Господь не сел вместе с санньяси — Парамананда Пури, Брахманандой Бхарати и Нитьянандой; Гопинатха Ачарья, Сварупа, Дамодара и Джагадананда раздавали прасад, Говинда отнёс долю Харидасу. Затем Господь украсил всех гирляндами и сандалом."
+  persons: ["@mahaprabhu", "@advaita", "@svarupa-damodara", "@gopinatha-acharya", "@paramananda-puri", "@brahmananda-bharati", "@nityananda", "@govinda-servant", "@haridasa-thakura", "@damodara-pandita", "@jagadananda-pandita"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy]
+  cc: "Мадхья 11"
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "197", to: "211"}
+
+- id: cc-2029
+  source: cc
+  ref: "Мадхья 11.212–241"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: P12
+  order: 21.5
+  title: "Вечерний киртан в храме Джаганнатхи четырьмя группами; Господь одновременно видит танец четырёх вайшнавов"
+  summary: "Вечером Господь познакомил Рамананду с вайшнавами и повёл всех в храм. Киртан шёл четырьмя группами (восемь мриданг, тридцать две караталы), Господь танцевал в центре и обходил храм, Нитьянанда поддерживал Его; слёзы Господа мочили всех. Потом Он поставил танцевать в группах Нитьянанду, Адвайту, Вакрешвару и Шривасу и явил чудо: каждый думал, что Господь смотрит лишь на него, — как пастушки на трапезе у Ямуны. Царь смотрел с крыши, и его желание встречи безмерно возросло; затем Господь раздал махапрасад. Так преданные каждый день наслаждались санкиртаной."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@nityananda", "@advaita", "@vakreshvara", "@srivasa", "@prataparudra", "@jagannatha-deity", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy, revelation, jagannatha]
+  cc: "Мадхья 11"
+  event: ev-nilachala-sankirtana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "212", to: "241"}
+
+- id: cc-2030
+  source: cc
+  ref: "Мадхья 11.242–243"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md"
+  period: PX
+  order: 995.3
+  title: "Колофон Мадхья 11"
+  summary: "Так рассказано о киртанах Господа с преданными; слушающий станет слугой Чайтаньи. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "242", to: "243"}

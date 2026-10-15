@@ -40,3 +40,33 @@
   cb: ""
   themes: [pilgrimage, separation]
   notes: "ЧЧ Мадхья 10.85–90; путь и приход — Мадхья 11 (ev-gauda-devotees-arrive-puri)."
+
+- id: ev-lord-refuses-to-see-king
+  title: "Господь отказывается видеть царя Пратапарудру; горе царя и совет Сарвабхаумы"
+  title_en: "The Lord refuses to see King Prataparudra; the king's grief and Sarvabhauma's counsel"
+  period: P12
+  order: 8.4
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [sannyasa, mercy]
+  notes: "ЧЧ Мадхья 11.3–13, 41–61: «для санньяси видеть царя — что пить яд»; Сарвабхаума советует встретить Господа в саду в день Ратха-ятры (исполнение — ev-prataparudra-mercy)."
+
+- id: ev-prataparudra-watches-devotees-roof
+  title: "Пратапарудра с крыши дворца смотрит на приход бенгальских вайшнавов"
+  title_en: "Prataparudra watches the arrival of the Bengali Vaishnavas from the palace roof"
+  period: P12
+  order: 19
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [kirtan, teaching, prasada]
+  notes: "ЧЧ Мадхья 11.66–123: Гопинатха Ачарья называет преданных; Сарвабхаума о према-санкиртане и о прасаде."
+
+- id: ev-haridasa-puri-hut
+  title: "Харидас Тхакур в Пури: хижина в саду у дома Каши Мишры"
+  title_en: "Haridasa Thakura in Puri: the hut in the garden by Kashi Mishra's house"
+  period: P12
+  order: 21
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [mercy, kirtan]
+  notes: "ЧЧ Мадхья 11.161–196: Харидас не идёт к храму; Господь обнимает его («касаюсь тебя, чтобы очиститься») и даёт уединённую хижину (традиционно — Сиддха-бакула)."
