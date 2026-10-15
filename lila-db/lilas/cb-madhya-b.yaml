@@ -1156,3 +1156,119 @@
   event: ev-lord-cannot-worship-vishnu-tears
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya25.md", from: "85", to: "93"}
+
+# ---------- Мадхья 26. Трапеза у Шукламбары и видение Виджаи; бхава Баларамы; «Гопи! Гопи!»; решение о санньясе ----------
+
+- id: cb-2061
+  source: cb
+  ref: "Мадхья 26, 1–34"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 137
+  title: "Господь просит Шукламбару сварить Ему рис и ест его с восторгом"
+  summary: "Господь просит нищего Шукламбару угостить Его рисом; испуганный брахман советуется с преданными, и те напоминают, что Господь ел у Видуры, сына шудры, и советуют не касаться пищи руками; Шукламбара варит рис с мякотью банана, поя имена, а Лакшми взглядом превращает его в нектар; в доме у Ганги Господь предлагает рис Вишну и ест, повторяя: «Вкуснее не пробовал с рождения; ты — один из друзей, ради которых Я нисшёл»; преданные со слезами почитают остатки."
+  persons: ["@mahaprabhu", "@shuklambara", "@nityananda", "@lakshmi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy]
+  teaching: [prasada-teaching, vaishnava]
+  event: ev-shuklambara-feast-vijaya-vision
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "1", to: "34"}
+
+- id: cb-2062
+  source: cb
+  ref: "Мадхья 26, 35–59"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 137.1
+  title: "Виджая Дас видит золотую руку Господа и неделю бродит в экстазе"
+  summary: "Когда после трапезы все отдыхают, Господь кладёт руку на писца Виджаю Даса («анкхария Виджая»), переписавшего Ему много книг, и тот видит её длинной золотой колонной в самоцветах и перстнях, сияющей, как миллионы солнц, до Брахмалоки; Господь закрывает ему рот: «Пока ты в этом мире, никому не говори»; Виджая с криком прыгает, пробуждая всех, и падает без чувств; Господь шутит: «Это влияние Ганги — или в доме Шукламбары Сам Господь», и касанием возвращает его в сознание, но Виджая семь дней бродит по Надии без еды и сна."
+  persons: ["@mahaprabhu", "@vijaya-dasa", "@shuklambara"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya]
+  event: ev-shuklambara-feast-vijaya-vision
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "35", to: "59"}
+
+- id: cb-2063
+  source: cb
+  ref: "Мадхья 26, 60–86"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 131
+  title: "Бхавы аватар; многодневная бхава Баларамы: «Принесите вина!»; разлука гопи"
+  summary: "В домах вайшнавов Господь являет настроения Матсьи, Курмы, Нрисимхи, Варахи, Ваманы, Рамы, Будды, Калки и Кришны, но в бхаве Баларамы остаётся по многу дней: кричит «Принесите вина!», и Нитьянанда подаёт Ему кувшин воды Ганги; от Его танца трясётся земля, Он бродит, как опьянённый, слагает стихи, зовёт «Нитьянанда!» и говорит: «Если дядя Баларама ударит Меня, спасёт отец Кришна»; затем являет разлуку гопи, что боятся восхода луны, и плачет, обняв преданного, а Шачи плачет дома."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.14 (бхава Баларамы: «Дайте мёду!»)"
+  notes: "Ст. 62–63 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. «Вино» — варуни Баларамы; Нитьянанда подаёт воду Ганги."
+  themes: [ecstasy, revelation, separation]
+  bhava: [balarama, gopi]
+  event: ev-balarama-bhava
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "60", to: "86"}
+
+- id: cb-2064
+  source: cb
+  ref: "Мадхья 26, 87–118"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 139
+  title: "«Гопи! Гопи!»: студент советует петь имя Кришны, Господь с палкой гонится за ним"
+  summary: "Господь в настроении гопи поёт «Вриндавана! Гопи! Гопи!»; проходящий студент советует: «Пой имя Кришны, как велят шастры»; в трансе Господь бранит Кришну-обманщика (Вали, Шурпанакха, Бали) и с палкой гонится за студентом, пока преданные не возвращают Его; перепуганный студент рассказывает товарищам, и те решают: «Он не царь — если нападёт снова, мы Ему зададим»; Господь, как Сверхдуша, знает их замысел."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.247–258"
+  notes: "Ст. 89–96, 108–117 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [ecstasy, offense]
+  bhava: [gopi]
+  event: ev-students-offend-sannyasa-resolve
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "87", to: "118"}
+
+- id: cb-2065
+  source: cb
+  ref: "Мадхья 26, 119–156"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 139.1
+  title: "«Лекарство усилило слизь»: Господь открывает Нитьянанде решение принять санньясу"
+  summary: "Среди спутников Господь загадочно говорит: «Я дал пиппали-кханду от слизи, а слизи стало больше» — и смеётся; лишь Нитьянанда понимает, что Он скоро уйдёт из дома; наедине Господь говорит Ему: «Я пришёл освободить людей, а они, нападая на Меня, запутываются в миллионах верёвок; Я обрею голову, сниму шнур и как санньяси буду просить милостыню у их дверей — санньяси все кланяются, и они освободятся; дай согласие»; Нитьянанда отвечает: «Ты независим, кто Тебе укажет? Спроси и слуг», а затем в уединении плачет, думая о Шачи."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.259–267"
+  themes: [sannyasa, mercy, separation]
+  teaching: [sannyasa-teaching]
+  event: ev-students-offend-sannyasa-resolve
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "119", to: "156"}
+
+- id: cb-2066
+  source: cb
+  ref: "Мадхья 26, 157–186"
+  file: "chaitanya-bhagavata/ed/CB_Madhya26.md"
+  period: P07
+  order: 142
+  title: "Господь говорит Мукунде и Гададхаре, что срежет шикху; скорбь преданных"
+  summary: "У Мукунды, выслушав его песни о Кришне, Господь говорит: «Я оставлю дом, срежу шикху и сниму шнур»; Мукунда просит прежде провести ещё несколько дней киртана; Гададхаре Господь говорит то же, и тот, как от удара молнии, возражает: «Разве грихастха не может быть вайшнавом? Бритьё головы — Твоё мнение, не Вед; как Ты оставишь овдовевшую мать?»; узнав, все преданные плачут о Его кудрях: кто теперь украсит их гирляндой, вымоет с амалаки?"
+  persons: ["@mahaprabhu", "@mukunda-datta", "@gadadhara-pandita", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.18.17–23"
+  notes: "Ст. 164–165 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [sannyasa, separation]
+  event: ev-sannyasa-decision-devotees-grief
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya26.md", from: "157", to: "186"}
