@@ -1,0 +1,156 @@
+# Вриндаван Дас Тхакур, «Шри Чайтанья-бхагавата» — Мадхья-кханда, главы 15–28 (блок cb-m2), лилы по порядку изложения.
+# Текст — chaitanya-bhagavata/ed/CB_MadhyaNN.md (метки «**N.**»; часть стихов в издании пропущена — ссылки только на имеющиеся метки).
+# Внесено по переводу, без комментариев (TASK-cc-cb-rest.md). Новые события — lila-db/events-cb-m2.yaml.
+
+# ---------- Мадхья 15. Раскаяние Мадхая ----------
+
+- id: cb-2001
+  source: cb
+  ref: "Мадхья 15, 1–19"
+  file: "chaitanya-bhagavata/ed/CB_Madhya15.md"
+  period: P07
+  order: 121.2
+  title: "Джагай и Мадхай после освобождения: имя Кришны и слёзы раскаяния"
+  summary: "По милости Господа Джагай и Мадхай живут в Надии праведно: на рассвете омываются в Ганге и в уединении повторяют по двести тысяч имён Кришны, плачут, вспоминая прежние злодеяния, забывают о еде; особенно неутешен Мадхай, проливший кровь Нитьянанды, хотя Тот его простил."
+  persons: ["@jagai-madhai", "@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense]
+  teaching: [holy-name, vaishnava]
+  event: ev-madhai-ghat
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya15.md", from: "1", to: "19"}
+
+- id: cb-2002
+  source: cb
+  ref: "Мадхья 15, 20–70"
+  file: "chaitanya-bhagavata/ed/CB_Madhya15.md"
+  period: P07
+  order: 121.3
+  title: "Молитва Мадхая Нитьянанде; Нитьянанда прощает и обнимает его"
+  summary: "Застав Нитьянанду одного, Мадхай с соломой в зубах омывает Его стопы слезами и славит Его как Ананту-Санкаршану, ложе, трон и зонт Господа Чайтаньи, источник воплощений, — и казнит себя за то, что ранил это тело; Нитьянанда отвечает: «Встань, ты Мой слуга; отец не сердится на шлепки сына», обещает, что слушающий эти молитвы обретёт преданность, предупреждает, что не будет доволен почитающим Его без почитания Господа Чайтаньи, и обнимает Мадхая."
+  persons: ["@jagai-madhai", "@nityananda", "@mahaprabhu", "@shiva", "@parvati"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Мадхья 13 (нападение Мадхая на Нитьянанду)"
+  themes: [mercy, offense, teaching]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-madhai-ghat
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya15.md", from: "20", to: "70"}
+
+- id: cb-2003
+  source: cb
+  ref: "Мадхья 15, 71–95"
+  file: "chaitanya-bhagavata/ed/CB_Madhya15.md"
+  period: P07
+  order: 121.4
+  title: "Гхат Мадхая на Ганге"
+  summary: "Мадхай спрашивает, как испросить прощения у всех, кого он обидел; Нитьянанда велит построить гхат на Ганге, чтобы омывающиеся благословляли его, и кланяться каждому; со слезами и именем Кришны Мадхай с лопатой строит гхат, кланяется людям, прося прощения, становится известен как Брахмачари; Надия признаёт, что Нимай Пандит — не простой смертный, а гхат Мадхая и поныне свидетельствует о милости Господа."
+  persons: ["@jagai-madhai", "@nityananda", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense]
+  teaching: [vaishnava]
+  event: ev-madhai-ghat
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya15.md", from: "71", to: "95"}
+
+- id: cb-2004
+  source: cb
+  ref: "Мадхья 15, 96–99"
+  file: "chaitanya-bhagavata/ed/CB_Madhya15.md"
+  period: PX
+  order: 200
+  title: "Колофон Мадхья 15: нектар рассказа о спасении двух безбожников"
+  summary: "Рассказы Мадхья-кханды о спасении двух безбожников — нектар; темы Господа Чайтаньи — тайное сокровище Вед; Вриндаван Дас поёт славу стопам Чайтаньи и Нитьянанды."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya15.md", from: "96", to: "99"}
+
+# ---------- Мадхья 16. Тёща Шривасы; Адвайта крадёт пыль со стоп; рис Шукламбары ----------
+
+- id: cb-2005
+  source: cb
+  ref: "Мадхья 16, 1–23"
+  file: "chaitanya-bhagavata/ed/CB_Madhya16.md"
+  period: P07
+  order: 121.6
+  title: "Ночной киртан за запертой дверью: Господь не чувствует радости из-за спрятавшейся тёщи Шривасы"
+  summary: "Ночью Господь поёт за запертыми дверями; в дом Шривасы тайком пробирается его тёща и прячется за корзиной с зерном; Господь, танцуя, повторяет: «Почему Мне нет радости? Не прячется ли кто?»; преданные боятся, что оскорбили Его; Шриваса находит её и велит вывести за волосы — и Господь снова танцует в блаженстве, а Нитьянанда поддерживает Его."
+  persons: ["@mahaprabhu", "@srivasa", "@nityananda"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 8: Господь всеведущ, но скрывает всеведение ради лилы. Тёща Шривасы по имени не названа."
+  themes: [kirtan, ecstasy]
+  event: ev-shrivasa-mother-in-law-expelled
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya16.md", from: "1", to: "23"}
+
+- id: cb-2006
+  source: cb
+  ref: "Мадхья 16, 24–50"
+  file: "chaitanya-bhagavata/ed/CB_Madhya16.md"
+  period: P07
+  order: 121.7
+  title: "Господь в настроении слуги чтит Адвайту как гуру; Адвайта тайно служит Его стопам"
+  summary: "В настроении слуги Господь хватается за стопы вайшнавов, с соломой в зубах зовёт Кришну, просит преданных указать Ему Его ошибки и сам берёт пыль с их стоп; Адвайту Он чтит как гуру, и тот страдает, не имея возможности служить; лишь когда Господь в экстазе теряет сознание, Адвайта омывает Его стопы слезами и чтит их шестью подношениями — потому вайшнавы славят Адвайту как величайшего."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [devotee]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-advaita-steals-foot-dust
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya16.md", from: "24", to: "50"}
+
+- id: cb-2007
+  source: cb
+  ref: "Мадхья 16, 51–108"
+  file: "chaitanya-bhagavata/ed/CB_Madhya16.md"
+  period: P07
+  order: 121.8
+  title: "Адвайта крадёт пыль со стоп Господа; «Я обворую вора»"
+  summary: "Пока Господь без внешнего сознания кружится в танце, Адвайта тайком растирает по телу пыль с Его стоп; Господь тотчас теряет радость и спрашивает, не украл ли кто пыль с Его стоп; Адвайта признаётся: «Вор, который не может взять открыто, берёт тайком»; в шутливом гневе Господь называет его великим разбойником, укравшим Его любовь, сам берёт пыль со стоп Адвайты и говорит: «Ты — хранитель бхакти, Я в твоей власти, можешь продать Меня кому хочешь»; изумлённые вайшнавы славят Адвайту, и начинается киртан, где Адвайта пляшет, как опьянённый."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#house-srivasa", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 66–71 — шутливый упрёк Господа (часть стихов в издании пропущена)."
+  themes: [ecstasy, kirtan, mercy]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-advaita-steals-foot-dust
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya16.md", from: "51", to: "108"}
+
+- id: cb-2008
+  source: cb
+  ref: "Мадхья 16, 109–152"
+  file: "chaitanya-bhagavata/ed/CB_Madhya16.md"
+  period: P07
+  order: 122
+  title: "Господь ест сырой рис из сумы Шукламбары"
+  summary: "Шукламбара Брахмачари, нищий брахман, который подносит Кришне собранную милостыню и ест остатки, пляшет в киртане с сумой на плече; Господь на троне подзывает его, вспоминает Двараку, где ел дроблёный рис, а Камала удержала Его руку, и ест сырой рис из сумы: «Я ем твой дроблёный рис и отворачиваюсь от нектара безбожников»; «Я ем, когда ешь ты, хожу с тобой за подаянием» — и дарует ему према-бхакти; автор заключает, что преданность — душа всех правил, а Кришна не принимает поклонения гордецов, смеющихся над вайшнавами."
+  persons: ["@mahaprabhu", "@shuklambara", "@lakshmi", "@vrindavana-dasa"]
+  places: ["#house-srivasa", "#navadvipa", "#dvaraka"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.3"
+  notes: "Сравнение с Судамой (в тексте — «нищий Дамодар», ст. 117, 124). Ст. 152 — колофон."
+  themes: [mercy, prasada, teaching]
+  bhava: [aishvarya]
+  teaching: [vaishnava, prasada-teaching, purity]
+  scriptures: ["Бхаг. 4.31.21"]
+  event: ev-shuklambara-mercy
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya16.md", from: "109", to: "152"}

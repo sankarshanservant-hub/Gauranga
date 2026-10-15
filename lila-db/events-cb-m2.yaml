@@ -1,0 +1,30 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Мадхья-кханда 15–28 (блок cb-m2). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-madhai-ghat
+  title: "Раскаяние Мадхая: молитва Нитьянанде и гхат на Ганге"
+  title_en: "Madhai's repentance: his prayer to Nityananda and the ghat on the Ganga"
+  period: P07
+  order: 121.3
+  cb: "Мадхья 15"
+  themes: [mercy, offense]
+  notes: "После освобождения (ev-jagai-madhai-deliverance) Мадхай молит Нитьянанду о прощении и по Его слову строит гхат на Ганге."
+
+- id: ev-shrivasa-mother-in-law-expelled
+  title: "Тёща Шривасы, спрятавшаяся на ночном киртане"
+  title_en: "Shrivasa's mother-in-law hidden at the night kirtana"
+  period: P07
+  order: 121.6
+  cb: "Мадхья 16"
+  themes: [kirtan, ecstasy]
+  notes: "Господь не чувствует радости, пока спрятавшуюся тёщу Шривасы не выводят."
+
+- id: ev-advaita-steals-foot-dust
+  title: "Адвайта крадёт пыль со стоп Господа"
+  title_en: "Advaita steals the dust of the Lord's feet"
+  period: P07
+  order: 121.7
+  cb: "Мадхья 16"
+  themes: [ecstasy, mercy]
+  teaching: [associates-tattva]
+  notes: "Господь в ответ берёт пыль со стоп Адвайты: «Я обворую вора»."
