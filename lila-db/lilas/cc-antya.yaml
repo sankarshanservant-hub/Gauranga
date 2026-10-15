@@ -2419,3 +2419,157 @@
   cc: "Антья 13"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "136", to: "139"}
+
+- id: cc-4130
+  source: cc
+  ref: "Антья 14.1–4"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: PX
+  order: 995.27
+  title: "Мангалачарана Антья 14: о деяниях Господа в смятении разлуки"
+  summary: "Автор опишет, что совершал Господь телом, умом и разумом в смятении разлуки с Кришной; слава Чайтанье — Сваям Бхагавану, Нитьянанде, Адвайте, Сварупе, Шривасе и преданным: даруйте силу описать Его игры."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "1", to: "4"}
+
+- id: cc-4131
+  source: cc
+  ref: "Антья 14.5–16"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100
+  title: "Божественное безумие (дивьонмада) Господа: как Радха при виде Уддхавы; источники — записи Сварупы и Рагхунатхи Даса"
+  summary: "Разлука с Кришной делала Господа безумным, и этих чувств не понять даже мудрецам; описать их может лишь наделённый Его силой. Эти игры записали в своих дневниках Сварупа (кратко) и Рагхунатха Дас (подробно) — лишь они жили тогда при Господе; по ним пишет автор. Как гопи скорбели, когда Кришна ушёл в Матхуру, и как Радха плакала при виде Уддхавы, так Господь переживал те же чувства и порой считал Себя Радхой; это состояние похоже на безумие, но рождено высшей любовью (удгхурна, читра-джалпа)."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@raghunatha-dasa", "@radha", "@uddhava", "@krishna"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [ecstasy, separation, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Уджвала-ниламани, 14.190"]
+  cc: "Антья 14"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "5", to: "16"}
+
+- id: cc-4132
+  source: cc
+  ref: "Антья 14.17–21"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.4
+  title: "Господь видит во сне Кришну, танцующего расу с Радхой: «Я обрёл Кришну во Вриндаване!» — и Говинда будит Его"
+  summary: "Господь увидел во сне Кришну, трижды изогнутого, с флейтой, в жёлтых одеждах и лесной гирлянде, чарующего даже Камадеву, в кругу гопи, танцующего с Радхой, и подумал в блаженстве: наконец Я обрёл Кришну во Вриндаване! Говинда разбудил Его, и Господь опечалился, поняв, что это был сон."
+  persons: ["@mahaprabhu", "@krishna", "@radha", "@govinda-servant"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [radha]
+  cc: "Антья 14"
+  event: ev-rasa-dream-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "17", to: "21"}
+
+- id: cc-4133
+  source: cc
+  ref: "Антья 14.22–30"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.45
+  title: "Орийская женщина, ставшая на плечо Господа у колонны Гаруды: «Джаганнатха не дал Мне такого стремления, как у неё»"
+  summary: "Господь, как обычно, созерцал Джаганнатху из-за колонны Гаруды; женщина-ория, не видя Божества в толпе, взобралась на колонну, поставив ногу на Его плечо. Говинда стал стаскивать её, но Господь упрекнул его: не мешай ей смотреть. Женщина в испуге спустилась и склонилась к Его стопам, а Господь сказал: Джаганнатха не дал Мне такого стремления, как у неё — она так поглощена Им, что не заметила, куда ступила; как она удачлива, Я молюсь её стопам."
+  persons: ["@mahaprabhu", "@govinda-servant", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ev-garuda-stambha-darshan (обычай Господа)"
+  themes: [jagannatha, mercy]
+  bhava: [devotee]
+  cc: "Антья 14"
+  event: ev-oriya-woman-garuda-pillar
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "22", to: "30"}
+
+- id: cc-4134
+  source: cc
+  ref: "Антья 14.31–56"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.46
+  title: "После сна Господь видит в храме Кришну на Курукшетре и горюет: «Кто похитил Моего Кришну?»; песнь об уме-йоге, ушедшем во Вриндаван; десять состояний разлуки"
+  summary: "Сначала Господь видел в Джаганнатхе лишь сына Нанды, а после сна — только Кришну с флейтой; встретив женщину, Он вернулся к внешнему сознанию и увидел Джаганнатху, Субхадру и Балараму — словно Кришну на Курукшетре: как Я покинул Вриндаван? Как потерявший драгоценность, Он вернулся домой, чертил ногтями по полу, плакал: Я обрёл Кришну и потерял — кто Его похитил? Ночью, обняв Рамананду и Сварупу, Он поведал: Мой ум, потеряв Кришну, стал йогом-капаликой, надел серьгу раса-лилы, взял чашу жажды и суму надежды, накидку беспокойства, браслеты скорби и тюрбан желания, сделал учениками чувства и ушёл во Вриндаван, кормясь остатками нектара, что пьют гопи, и медитируя в роще на Кришну. В Нём проявлялись десять состояний разлуки гопи; Рамананда читал шлоки, Сварупа пел, и Господь отчасти возвращался к внешнему сознанию."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@jagannatha-deity", "@subhadra", "@balarama", "@krishna", "@radha"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha, gopi]
+  scriptures: ["Уджвала-ниламани, 15.167"]
+  cc: "Антья 14"
+  event: ev-rasa-dream-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "31", to: "56"}
+
+- id: cc-4135
+  source: cc
+  ref: "Антья 14.57–82"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.5
+  title: "Господь, исчезнув из запертого дома, лежит у Львиных ворот: суставы разошлись, тело удлинилось; при пении имени Он встаёт: «Я видел Кришну, как молнию»"
+  summary: "Рамананда ушёл, Сварупа и Говинда легли у двери; Господь всю ночь громко пел имя, а затем затих. Открыв дверь, Сварупа не нашёл Его, хотя все три двери были заперты; Его нашли у северной стороны Львиных ворот: без дыхания, тело вытянулось почти до трёх метров, суставы разошлись, соединённые лишь кожей, глаза закатились, на губах пена. Преданные долго кричали Ему в уши имя Кришны; наконец Он с возгласом «Харибол!» вскочил, и тело приняло обычный облик. Дома, услышав о случившемся, Он сказал: Я ничего не помню, лишь видел Кришну — как молния, Он явился и исчез. Это описал Рагхунатха в «Чайтанья-става-калпаврикше»; автор верит рассказу Рагхунатхи, бывшего рядом с Господом, хотя таких изменений тела нет даже в шастрах."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@govinda-servant", "@ramananda-raya", "@raghunatha-dasa"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, revelation]
+  bhava: [radha]
+  scriptures: ["Чайтанья-става-калпаврикша, 4"]
+  cc: "Антья 14"
+  event: ev-limbs-elongated-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "57", to: "82"}
+
+- id: cc-4136
+  source: cc
+  ref: "Антья 14.83–120"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.6
+  title: "Чатака-парвата: Господь принимает дюну за Говардхану, бежит к ней и падает в экстазе; очнувшись: «Я видел, как Кришна с Радхой вошли в пещеру, а вы вернули Меня»"
+  summary: "По пути к морю Господь увидел песчаную дюну Чатака-парвату, принял её за Говардхану и, повторяя шлоку «Бхагаваты» о холме — лучшем слуге Хари, побежал быстрее ветра; за Ним — Говинда, Сварупа, Джагадананда, Гададхара, Рамаи, Нандаи, Шанкара, Брахмананда Бхарати, Парамананда Пури и даже хромой Бхагаван Ачарья. Вдруг Он застыл: волосы дыбом, как цветок кадамбы, кровь с потом, клокотание в горле, потоки слёз, бледность и дрожь — все восемь саттвика-бхав — и упал. Преданные долго пели имя и обливали Его водой; Он вскочил с «Харибол» и спросил Сварупу: кто унёс Меня с Говардханы? Я видел Кришну с флейтой среди коров, пришла Радха с подругами, они вошли в пещеру, а гопи попросили Меня собрать цветов — и тут вы вернули Меня. Пришедшим Парамананде Пури и Брахмананде Бхарати Он поклонился и смутился, когда те сказали, что пришли посмотреть на Его танец."
+  persons: ["@mahaprabhu", "@govinda-servant", "@svarupa-damodara", "@jagadananda-pandita", "@gadadhara-pandita", "@ramai-puri", "@nandai", "@shankara-pandita", "@brahmananda-bharati", "@paramananda-puri", "@bhagavan-acharya", "@krishna", "@radha", "@raghunatha-dasa"]
+  places: ["#chataka-parvata", "#puri", "#govardhana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha, gopi]
+  scriptures: ["Бхаг. 10.21.18", "Чайтанья-става-калпаврикша, 8"]
+  cc: "Антья 14"
+  event: ev-chataka-parvata-govardhana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "83", to: "120"}
+
+- id: cc-4137
+  source: cc
+  ref: "Антья 14.121–123"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: PX
+  order: 995.28
+  title: "Колофон Антья 14"
+  summary: "Игры Златого Господа невозможно описать полностью; автор описал их кратко, чтобы читатель ощутил их природу. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "121", to: "123"}
