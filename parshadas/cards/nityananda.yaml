@@ -282,7 +282,7 @@ works:
 places: ["#ekachakra", "#radha-desha", "#vrindavana", "#mathura", "#setubandha", "#badrikashrama", "#gangasagara", "#kanyakumari",
          "#navadvipa", "#house-nandana-acharya", "#house-srivasa", "#katwa", "#shantipura", "#remuna", "#cuttack", "#bhubaneshvara",
          "#kamalapura", "#puri", "#alalanatha", "#gundicha", "#tota", "#panihati", "#saptagrama", "#khardaha", "#benapola",
-         "#shaligrama", "#badagachhi", "#ambika-kalna", "#jhamatpura", "#ramakeli", "#shrikhanda", "#padmavati", "#kheturi"]
+         "#shaligrama-village", "#badagachhi", "#ambika-kalna", "#jhamatpur", "#ramakeli", "#shrikhanda", "#padmavati", "#kheturi"]
 places_facts: [F30, F31, F32, F46, F47, F48, F51, F52, F85, F87, F96, F100, F122, F124, F125, F126, F127, F137, F139, F169, F215, F220, F225, F227, F229, F233, F238, F244, F252, F269, F275, F297, F319, F321, F322, F325, F336, F338, F339, F362, F380, F391, F392, F412]
 character:
   - {trait: "милость к падшим, не разбирающая достойных и недостойных; выпросил жизни Джагая и Мадхая", facts: [F193, F196, F198, F200, F301, F385, I3, I13, Q51], events: [ev-jagai-madhai-deliverance]}

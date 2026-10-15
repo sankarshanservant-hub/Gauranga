@@ -1,0 +1,423 @@
+# Sri Chaitanya Upanishad
+
+*With the commentary of Srila Bhaktivinoda Thakura, “Śrī Caitanya-caraṇāmṛta,” and the Bengali translation “Amṛta-bindu”*
+
+*Translated from Sanskrit and Bengali into English*
+
+*Sanskrit text, transliteration, word-for-word, translation, and commentary*
+
+---
+
+## Translator’s Preface
+
+**What this text is.** The Śrī Chaitanya Upanishad (in the edition, “Śrī-Śrī-Caitanyopaniṣat”) is a short
+Upanishad assigned to the Atharva Veda: nineteen brief sections, in prose and verse. Following the pattern of the
+ancient Upanishads, it is cast as a dialogue: the sage Pippalāda, known as the teacher of the Praśna Upaniṣad, comes
+to Brahmā asking about the highest good, and then about how the people of the Kali age will be liberated; he is
+told that in Navadvīpa, on the bank of the Ganges, Govinda Himself will appear as the golden Gaura, in the form of a
+devotee, to manifest bhakti to the world; that He Himself will repeat the mahā-mantra of sixteen names — “Hare Kṛṣṇa
+Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare” — and that whoever serves Him and
+meditates on Him crosses over māyā. The Upanishad explains the names Hari, Kṛṣṇa, and Rāma, speaks of the Lord’s
+two potencies, hlādinī and saṁvit, and closes with the teaching of kṣara (the perishable world), akṣara (the living
+being), and Puruṣottama, who is higher than both and is called Chaitanya. For Gaudiya Vaishnavas it is a Vedic
+prophecy of the appearance of Śrī Chaitanya.
+
+**How Bhaktivinoda found and published it.** According to tradition, Srila Bhaktivinoda Thakura long sought a
+manuscript of this rare Upanishad. In 1886 an old copy was sent to him from Sambalpur (Orissa) by Paṇḍita
+Madhusūdana Dāsa. Bhaktivinoda wrote on it a Sanskrit commentary, “Śrī Caitanya-caraṇāmṛta” (“The Nectar of Śrī
+Chaitanya’s Feet”), and in 1887 — the four-hundredth anniversary of Mahāprabhu’s appearance (the colophon of the
+commentary says “in the fourth century of the Chaitanya era”) — printed the Upanishad at his own press, the Śrī
+Chaitanya Press, at his house “Bhakti Bhavan” in Calcutta, together with the commentary and a Bengali prose
+translation by Madhusūdana Dāsa himself, entitled “Amṛta-bindu” (“A Drop of Nectar”). As was his custom,
+Bhaktivinoda signed the commentary with his worldly name, “Kedāra” (Kedarnath Datta).
+
+**Contents of this book.** Everything the edition contains is translated here: the mūla (the text of the
+Upanishad); Bhaktivinoda’s commentary in full (its maṅgalācaraṇa, introduction, glosses on all nineteen verses, and
+colophon); and the Bengali translation “Amṛta-bindu” (with its colophon). Each verse is given in Devanagari, in
+transliteration, with word-for-word meanings and a translation, followed by the commentary and the “Amṛta-bindu.”
+
+**Sources.** The 1887 edition could not be found in open access. The translation follows its reprint by Sri
+Gopinath Gaudiya Math (Mayapur, ed. Sridas Baba, Gaurabda 448, i.e., c. 1934), where the Sanskrit is printed in
+Bengali script; it reproduces the same contents as the first edition. The text of the Upanishad has been collated
+with the electronic text of sanskritdocuments.org; variants are noted in the footnotes. Modern translations are
+neither reproduced nor paraphrased.
+
+**On the antiquity of the text.** The Upanishad is not in the canonical list of one hundred and eight Upanishads
+of the Muktikā and was unknown in print before Bhaktivinoda’s edition; therefore many academic scholars regard it as
+a late composition of the Vaishnava tradition, pointing to its language and ideas (Navadvīpa, hlādinī and saṁvit,
+the explanations of the names of the mahā-mantra), which are close to the theology of the sixteenth-century Gaudiya
+Vaishnavas. Those who uphold its authenticity point to old manuscripts — copies found in Varanasi, in particular,
+are reported. Vedic tradition knows many “minor” Upanishads that became known late. The Gaudiya Vaishnava
+tradition, following Bhaktivinoda and Bhaktisiddhanta Sarasvati, accepts the Chaitanya Upanishad as śruti bearing
+witness to Śrī Chaitanya.
+
+**Principles of translation.** The translation is as literal as possible; words added for coherence are in square
+brackets. The compressed style of the commentary, built as glosses (a word of the mūla — its explanation), is
+preserved. Theological explanations follow Srila Bhaktisiddhanta Sarasvati: Śrī Chaitanya is Kṛṣṇa Himself in the
+form of a devotee; His form is not material sattva but pure spirit (viśuddha-sattva); the words “Chaitanya is
+Rudra, Indra…” (v. 15) are not a monistic identification but a statement that He is the source and Lord of all.
+Sanskrit is transliterated in IAST.
+
+---
+
+# Sri Chaitanya Upanishad: Text and Commentary
+
+*The Śrī-Śrī-Caitanyopaniṣat of the Atharva Veda, with the Sanskrit commentary of Srila Bhaktivinoda Thakura, “Śrī-Śrī-Caitanya-caraṇāmṛta,” and the Bengali translation “Amṛta-bindu”*[^01-1]
+
+## The Commentator’s Introduction
+
+> **Commentary “Śrī-Śrī-Caitanya-caraṇāmṛta.”** Bowing to Chaitanya, the embodiment of rasa, together with the Pañca-tattva,[^01-2] I compose, for my own purification, a commentary on the Chaitanya Upanishad.
+>
+> This all-blissful Śrī Chaitanya Upanishad, contained within the beginningless Atharva Veda, did not come to light until now, because it lay beyond the sight of people turned away [from God], whose eyes were blinded by māyā. Then, when Śrī Navadvīpa-candra[^01-3] descended, it was made known through the efforts of pure devotees. According to the principle of the Bhāgavata, “in Kali You are hidden” (Bhāg. 7.9.38),[^01-4] the śāstras concerning Bhagavān Śrī Chaitanya-deva, who is to be worshipped in the Kali age, are also hidden in form; therefore it is no wonder that those bewildered by karma and jñāna, through their misfortune, have no faith in it.
+
+## Verse 1
+
+अथ पिप्पलादः समित्पाणिर्भगवन्तं ब्रह्माणमुपसन्नो
+भगवन्मे शुभं किमत्र चक्षस्वेति ॥ १ ॥
+
+*atha pippalādaḥ samit-pāṇir bhagavantaṁ brahmāṇam upasanno*
+*bhagavan me śubhaṁ kim atra cakṣasveti || 1 ||*
+
+*Word for word:* atha — then; pippalādaḥ — Pippalāda; samit-pāṇiḥ — with sacrificial fuel in hand; bhagavantam — the lord; brahmāṇam — Brahmā; upasannaḥ — approaching; bhagavan — O lord; me — to me; śubham — good; kim — what; atra — here (in this world); cakṣasva — declare; iti — thus [he said]
+
+**1.** Then Pippalāda, with sacrificial fuel in hand,[^01-5] approached the lord Brahmā [and said]: “O lord, declare to me: what is the good here?”
+
+> **Commentary.** Now we follow the subject proper. “Then” — after studying many śāstras and practising many kinds of worship, the sage Pippalāda, wishing to know his own highest good, came to his guru, the four-faced [Brahmā], with sacrificial fuel in hand, and asked: “By what will my highest good come about?”
+>
+> **“Amṛta-bindu.”** Then Pippalāda came to his father,[^01-6] the lord Brahmā, with the question: “O lord! Tell me, what in this world is my highest good?”
+
+## Verse 2
+
+स होवाच ।
+भूय एव तपसा ब्रह्मचर्येण शश्वत् रमस्व मनो वशेति ॥ २ ॥
+
+*sa hovāca |*
+*bhūya eva tapasā brahmacaryeṇa śaśvat ramasva mano vaśeti || 2 ||*
+
+*Word for word:* saḥ — he (Brahmā); ha — indeed; uvāca — said; bhūyaḥ eva — once more; tapasā — by austerity; brahmacaryeṇa — by celibacy; śaśvat — constantly; ramasva — abide (lit. “take delight”); manaḥ — the mind; vaśa — subdue; iti — thus
+
+**2.** He said: “Once more, by austerity and celibacy, constantly abide [in them], and subdue the mind.”[^01-7]
+
+> **Commentary.** The four-faced one said to him, instructing: “For another year, by austerity — the practice of yoga — and by celibacy — pure conduct born of detachment — purify your body and mind, and then come.”
+>
+> **“Amṛta-bindu.”** Brahmā said: “Devote a long time to austerity and celibacy, and conquer the mind.”
+
+## Verse 3
+
+स तथा भूत्वा भूय एनमुपसद्याह
+भगवन्कलौ पापाच्छन्नाः प्रजाः कथं मुच्येरन्निति ॥ ३ ॥
+
+*sa tathā bhūtvā bhūya enam upasadyāha —*
+*bhagavan kalau pāpācchannāḥ prajāḥ kathaṁ mucyerann iti || 3 ||*
+
+*Word for word:* saḥ — he (Pippalāda); tathā — so; bhūtvā — having done (lit. “having become”); bhūyaḥ — again; enam — him; upasadya — approaching; āha — said; bhagavan — O lord; kalau — in [the age of] Kali; pāpa-ācchannāḥ — covered by sin; prajāḥ — living beings; katham — how; mucyeran — will be liberated; iti — thus
+
+**3.** Having done so, he approached him again and said: “O lord, how will the living beings in Kali, covered by sin, be liberated?”
+
+> **Commentary.** Pippalāda, having purified his body and mind by austerity and celibacy, came again into the presence of his guru and asked: “How will those in Kali, whose course is sinful by the very nature [of the age], attain liberation from matter?”
+>
+> **“Amṛta-bindu.”** Pippalāda, following this and having purified his heart, came again to his father and said: “O lord! How will the people of the Kali age, covered by sin, be liberated?”
+
+## Verse 4
+
+को वा देवता को वा मन्त्रो ब्रूहीति ॥ ४ ॥
+
+*ko vā devatā ko vā mantro brūhīti || 4 ||*
+
+*Word for word:* kaḥ vā — who then; devatā — the deity; kaḥ vā — what then; mantraḥ — the mantra; brūhi — tell; iti — thus
+
+**4.** “Who is [their] Deity, and what is the mantra? Tell me.”
+
+> **Commentary.** “O lord! Tell me: who is the Īśvara to be worshipped by the living beings whose consciousness is defiled by Kali, and what is the mantra of worship?”
+>
+> **“Amṛta-bindu.”** “Tell me: who is the Deity to be worshipped in the Kali age, and what is the mantra of bhajana?”
+
+## Verse 5
+
+स होवाच । रहस्यं ते वदिष्यामि
+जाह्नवीतीरे नवद्वीपे गोलोकाख्ये धाम्नि गोविन्दो द्विभुजो
+गौरः सर्वात्मा महापुरुषो महात्मा महायोगी
+त्रिगुणातीतः सत्त्वरूपो भक्तिं लोके काश्यतीत ।
+तदेते श्लोका भवन्ति ॥ ५ ॥
+
+*sa hovāca | rahasyaṁ te vadiṣyāmi —*
+*jāhnavī-tīre navadvīpe golokākhye dhāmni govindo dvi-bhujo*
+*gauraḥ sarvātmā mahā-puruṣo mahātmā mahā-yogī*
+*tri-guṇātītaḥ sattva-rūpo bhaktiṁ loke kāśyatīta |*
+*tad ete ślokā bhavanti || 5 ||*
+
+*Word for word:* saḥ ha uvāca — he said; rahasyam — a secret; te — to you; vadiṣyāmi — I shall tell; jāhnavī-tīre — on the bank of the Jāhnavī (Ganges); navadvīpe — in Navadvīpa; goloka-ākhye dhāmni — in the abode called Goloka; govindaḥ — Govinda; dvi-bhujaḥ — two-armed; gauraḥ — golden (Gaura); sarva-ātmā — the Self of all; mahā-puruṣaḥ — the Great Person; mahā-ātmā — the great soul; mahā-yogī — the great yogī (master of potencies); tri-guṇa-atītaḥ — beyond the three guṇas; sattva-rūpaḥ — whose form is [pure] sattva; bhaktim — bhakti; loke — in the world; kāśyati — will manifest; iti — thus; tat — on this; ete ślokāḥ — these verses; bhavanti — there are
+
+**5.** He said: “I shall tell you a secret. On the bank of the Jāhnavī, in Navadvīpa, in the abode called Goloka, Govinda — two-armed, golden (Gaura), the Self of all, the Great Person, the great soul, the great Yogī, beyond the three guṇas, whose form is [pure] sattva — will manifest bhakti in the world.”[^01-8] On this there are these verses.
+
+> **Commentary.** Brahmā, the knower of the secret of all the Vedas, said to him: “To you I shall tell that secret. On the bank of the Jāhnavī, in the supreme abode of Navadvīpa, called Goloka, made manifest [on earth], the Self of all — the Self of all beings — the Great Person, the great soul, the great Yogī — the possessor of the spiritual potency — beyond the three guṇas — beyond māyā — whose form is sattva — that is, whose form is pure spirit — Bhagavān, the two-armed Śrī Kṛṣṇa, having become Śrī Gaurāṅga in His form, will manifest bhakti in the world — supreme bhakti, characterized by prema.” In the Eleventh Canto, with the words “I bow, O Great Person, to Your lotus feet” (Bhāg. 11.5.33–34),[^01-9] it is established that Bhagavān Śrī Chaitanya-deva, the purifier of the Kali age, is the Great Person (Mahāpuruṣa).
+>
+> **“Amṛta-bindu.”** Brahmā said: “I shall tell you this supremely hidden truth. The Self of all, the Great Person, the Supersoul, the great Yogī, beyond the three guṇas, consisting of pure sattva, the two-armed Śyāmasundara Himself, having descended as Gaurasundara in the abode of Navadvīpa on the bank of the Jāhnavī, which is called Goloka, will manifest bhakti in the world.” On this subject these verses are spoken.
+
+## Verse 6
+
+एको देवः सर्वरूपी महात्मा
+गौरो रक्तश्यामलश्वेतरूपः ।
+चैतन्यात्मा स वै चैतन्यशक्तिर्
+भक्ताकारो भक्तिदो भक्तिवेद्यः ॥ ६ ॥
+
+*eko devaḥ sarva-rūpī mahātmā*
+*gauro rakta-śyāmala-śveta-rūpaḥ |*
+*caitanyātmā sa vai caitanya-śaktir*
+*bhaktākāro bhakti-do bhakti-vedyaḥ || 6 ||*
+
+*Word for word:* ekaḥ — one; devaḥ — God; sarva-rūpī — assuming all forms; mahā-ātmā — the great soul; gauraḥ — Gaura (golden); rakta — red; śyāmala — dark; śveta — white; rūpaḥ — [having] form; caitanya-ātmā — whose self is consciousness (Chaitanya); saḥ — He; vai — truly; caitanya-śaktiḥ — possessor of the spiritual potency; bhakta-ākāraḥ — in the form of a devotee; bhakti-daḥ — giver of bhakti; bhakti-vedyaḥ — known through bhakti
+
+**6.** The one God, assuming all forms, the great soul, is Gaura, [who in other ages is] red, dark, and white in form. He is Chaitanya (Consciousness) itself;[^01-10] He is [the possessor of] the spiritual potency; He is in the form of a devotee, the giver of bhakti, known through bhakti.
+
+> **Commentary.** That Great Person in the form of Gaura at times, in the three yugas beginning with Kṛta, becomes red, dark, and white in colour — this is seen in the words of Garga and others: “white, red, and likewise yellow; now He has become black” (Bhāg. 10.8.13).[^01-11] He alone, in Kali, is in the form of a devotee. For the swift good of the living beings of the Kali age He first sent into the world the devotees Śaṭhakopa, Rāmānuja, Viṣṇusvāmī, Madhvācārya, Nimbāditya, and others; and then, desiring to bestow prema — the supreme secret, the unfolding of madhura-rasa — He Himself, too, becoming the embodiment of bhakti whose self is Śrī Kṛṣṇa-Caitanya, descended together with His own abode Goloka upon the land of Gauḍa, which thereby became the supreme tīrtha. This is the secret. “Known through bhakti” — to be known by the living beings through the function of bhakti, not through the function of dry knowledge.
+>
+> **“Amṛta-bindu.”** The one supreme Deity, assuming all forms, the Great Person Gauracandra, in the other three yugas assumes white, red, and dark forms. He is Consciousness itself, the possessor of the spiritual potency; He is in the form of a devotee, the giver of bhakti, known through bhakti.
+
+## Verse 7
+
+नमो वेदान्तवेद्याय कृष्णाय परमात्मने ।
+सर्वचैतन्यरूपाय चैतन्याय नमो नमः ॥ ७ ॥
+
+*namo vedānta-vedyāya kṛṣṇāya paramātmane |*
+*sarva-caitanya-rūpāya caitanyāya namo namaḥ || 7 ||*
+
+*Word for word:* namaḥ — obeisance; vedānta-vedyāya — to the one known through Vedānta; kṛṣṇāya — to Kṛṣṇa; parama-ātmane — to the Supreme Self; sarva-caitanya-rūpāya — to the form of all consciousness; caitanyāya — to Chaitanya; namaḥ namaḥ — obeisance, obeisance
+
+**7.** Obeisance to Kṛṣṇa, known through Vedānta, the Supreme Self — to Chaitanya, the form of all consciousness, obeisance, obeisance!
+
+> **Commentary.** Even the four-faced [Brahmā], considering His boundless mercy toward his own Mādhva-sampradāya,[^01-12] bows down to that Chaitanya: “Obeisance to the one known through Vedānta…”
+>
+> **“Amṛta-bindu.”** Again and again obeisance to Śrī Chaitanya-deva — Śrī Kṛṣṇa, known through Vedānta, the Supersoul, the form of all consciousness.
+
+## Verse 8
+
+वेदान्तवेद्यं पुरुषं पुराणं
+चैतन्यात्मानं विश्वयोनिं महान्तम् ।
+तमेव विदित्वातिमृत्युमेति
+नान्यः पन्था विद्यतेऽयनाय ॥ ८ ॥
+
+*vedānta-vedyaṁ puruṣaṁ purāṇaṁ*
+*caitanyātmānaṁ viśva-yoniṁ mahāntam |*
+*tam eva viditvāti-mṛtyum eti*
+*nānyaḥ panthā vidyate 'yanāya || 8 ||*
+
+*Word for word:* vedānta-vedyam — known through Vedānta; puruṣam — the Person; purāṇam — primeval; caitanya-ātmānam — whose self is Chaitanya (consciousness); viśva-yonim — the source of the universe; mahāntam — the Great; tam eva — Him alone; viditvā — having known; ati-mṛtyum — beyond death; eti — goes; na — not; anyaḥ — other; panthāḥ — path; vidyate — exists; ayanāya — for going (to the goal)
+
+**8.** Only by knowing Him — the primeval Person known through Vedānta, whose self is Chaitanya, the source of the universe, the Great — does one pass beyond death; there is no other path for going [to the goal].[^01-13]
+
+> **Commentary.** Having again reflected upon all the statements of Vedānta, [Brahmā] says to Pippalāda: “Known through Vedānta…” That Chaitanya, though in the form of a devotee, is the one known through Vedānta — Śrī Kṛṣṇa Himself. For the “going” of the living beings — entering the spiritual world after leaving the material world — there is no other path than taking shelter at the feet of Śrī Chaitanya. Through the dāsya-rasa revealed by Śrī Rāmānuja and others the “going” is never complete: the course of those who serve in dāsya and [similar rasas] reaches as far as Vaikuṇṭha, as may be seen in their books.[^01-14] [This is so] because Chaitanya is the source of the universe and the sole teacher in the science of the rasa of Vraja.
+>
+> **“Amṛta-bindu.”** Only by knowing Śrī Chaitanya-deva — known through Vedānta, the primeval Person, the embodiment of consciousness, the cause of the universe, the Great — can one pass beyond death. There is no other means of crossing over māyā.
+
+## Verse 9
+
+स्वनाममूलमन्त्रेण सर्वं ह्लादयति विभुः ॥ ९ ॥
+
+*sva-nāma-mūla-mantreṇa sarvaṁ hlādayati vibhuḥ || 9 ||*
+
+*Word for word:* sva-nāma — of His own name; mūla-mantreṇa — by the root mantra; sarvam — everything; hlādayati — gladdens; vibhuḥ — the Almighty
+
+**9.** By the root mantra of His own name the Almighty gladdens all.
+
+> **Commentary.** “His own name” — the name of Kṛṣṇa, not the name “Chaitanya,” since that would contradict what is said below: “Hari, Kṛṣṇa”;[^01-15] that is, by the root mantra consisting of that [name]. “The Almighty” — the Lord possessing all majesties (aiśvarya); “all” — everything moving and unmoving.
+>
+> **“Amṛta-bindu.”** He is the Supreme Lord: by the root mantra of His own name He gives bliss to all.
+
+## Verse 10
+
+द्वे शक्ती परमे तस्य ह्लादिनी संविदेव च । इति ॥ १० ॥
+
+*dve śaktī parame tasya hlādinī saṁvid eva ca | iti || 10 ||*
+
+*Word for word:* dve śaktī — two potencies; parame — supreme; tasya — His; hlādinī — hlādinī (the potency of bliss); saṁvit — saṁvit (the potency of knowledge); eva ca — and also; iti — thus
+
+**10.** He has two supreme potencies — hlādinī and saṁvit.
+
+> **Commentary.** Two potencies of that Almighty are well known: hlādinī and saṁvit. By hlādinī, by spreading bhakti and prema, He gladdens all; by saṁvit, by spreading the knowledge of Bhagavān accepted by pure Vedānta, He uproots from the hearts of the living beings the various kinds of dharma and adharma, which by nature are the darkness of ignorance.[^01-16]
+>
+> **“Amṛta-bindu.”** He has two supreme potencies: hlādinī, that is, the potency whose nature is bliss, and saṁvit, that is, the potency whose nature is knowledge.
+
+## Verse 11
+
+स एव मूलमन्त्रं जपति हरिरिति कृष्ण इति राम इति ॥ ११ ॥
+
+*sa eva mūla-mantraṁ japati harir iti kṛṣṇa iti rāma iti || 11 ||*
+
+*Word for word:* saḥ eva — He Himself; mūla-mantram — the root mantra; japati — chants (performs japa); hariḥ iti — “Hari”; kṛṣṇaḥ iti — “Kṛṣṇa”; rāmaḥ iti — “Rāma”
+
+**11.** He Himself chants the root mantra: “Hari,” “Kṛṣṇa,” “Rāma.”
+
+> **Commentary.** He, the Supreme Lord in the form of Gaura, teaching the living beings, chants the most powerful root mantra: “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare.”[^01-17]
+>
+> **“Amṛta-bindu.”** He Himself sings (performs kīrtana of) this root mantra — Hari, Kṛṣṇa, Rāma, that is, “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare.”
+
+## Verse 12
+
+हरति हृदयग्रन्थिं वासनारूपमिति हरिः ।
+कृषिः स्मरणे तच्च णस्तदुभयमेलनमिति कृष्णः ।
+रमयति सर्वमिति राम आनन्दरूपः ।
+अत्र श्लोको भवति ॥ १२ ॥
+
+*harati hṛdaya-granthiṁ vāsanā-rūpam iti hariḥ |*
+*kṛṣiḥ smaraṇe tac ca ṇas tad-ubhaya-melanam iti kṛṣṇaḥ |*
+*ramayati sarvam iti rāma ānanda-rūpaḥ |*
+*atra śloko bhavati || 12 ||*
+
+*Word for word:* harati — takes away; hṛdaya-granthim — the knot of the heart; vāsanā-rūpam — in the form of vāsanā (desires); iti — therefore; hariḥ — Hari; kṛṣiḥ — the root kṛṣ; smaraṇe — in [the sense of] remembrance; tat ca — and that; ṇaḥ — [the suffix] ṇa; tat-ubhaya-melanam — the union of both; iti — therefore; kṛṣṇaḥ — Kṛṣṇa; ramayati — delights; sarvam — all; iti — therefore; rāmaḥ — Rāma; ānanda-rūpaḥ — the form of bliss; atra — on this; ślokaḥ — a verse; bhavati — there is
+
+**12.** He takes away the knot of the heart — vāsanā — therefore He is Hari. “Kṛṣ” in the sense of remembrance, and [the suffix] “ṇa”: their union is “Kṛṣṇa.” He delights all — therefore He is Rāma, the form of bliss.[^01-18] On this there is a verse.
+
+> **Commentary.** [Brahmā] states the meaning of the three names: “He takes away…” The living being is in truth by nature Kṛṣṇa’s servant; the vāsanā which, born of forgetting that service, takes the form of thirst for other objects — that is the “knot of the heart.” The statements of the Veda and the Bhāgavata should be consulted: “The knot of the heart is cut, all doubts are severed” (Muṇḍaka Up. 2.2.8; Bhāg. 1.2.21). He who takes away that knot is Hari. “Kṛṣṇa” is Bhagavān, the Lord of Vraja, whose pastimes are worthy of remembrance; according to the statement of the Sandarbha — “the established meaning of the name ‘Kṛṣṇa’ is the infant who sucks at Yaśodā’s breast, whose lustre is dark like the tamāla tree”[^01-19] — enough of other meanings. He who delights all is Rāma. One should reflect thus: by this mantra the living being gives up the conditioned state, attains the position of a participant (upakaraṇa) in the pastimes of the spiritual Vṛndāvana, and thereafter attains the supreme delight of the rāsa and other [pastimes].
+>
+> **“Amṛta-bindu.”** He who takes away the knot of the living being’s heart, which has the form of vāsanā, is “Hari.” The root kṛṣ means “remembrance”; after it comes the suffix ṇa, meaning “cessation”; from the union of the two comes the word “Kṛṣṇa”: He by remembering whom all suffering ceases without remainder is “Kṛṣṇa.” He who gives bliss to all — He, bliss itself — is “Rāma.” On this there is such a verse.
+
+## Verse 13
+
+मन्त्रो गुह्यः परमो भक्तिवेद्यः ॥ १३ ॥
+
+*mantro guhyaḥ paramo bhakti-vedyaḥ || 13 ||*
+
+*Word for word:* mantraḥ — the mantra; guhyaḥ — hidden; paramaḥ — supreme; bhakti-vedyaḥ — known through bhakti
+
+**13.** The mantra is hidden, supreme, known through bhakti.
+
+> **Commentary.** This secret of the mantra, following the principle “That is the supreme dharma for men from which arises bhakti to Adhokṣaja” (Bhāg. 1.2.6), can be known only by those who have attained supreme bhakti, not by those whose [bhakti] is mixed with karma and jñāna.
+>
+> **“Amṛta-bindu.”** This mahā-mantra is the essence of all, the best of all, and is known through bhakti.
+
+## Verse 14
+
+नामान्यष्टावष्ट च शोभनानि, तानि नित्यं ये जपन्ति
+धीरास्ते वै मायामतितरन्ति नान्यः ।
+परमं मन्त्रं परमरहस्यं नित्यमावर्तयति ॥ १४ ॥
+
+*nāmāny aṣṭāv aṣṭa ca śobhanāni, tāni nityaṁ ye japanti*
+*dhīrās te vai māyām atitaranti nānyaḥ |*
+*paramaṁ mantraṁ parama-rahasyaṁ nityam āvartayati || 14 ||*
+
+*Word for word:* nāmāni — names; aṣṭau aṣṭa ca — eight and eight; śobhanāni — beautiful; tāni — them; nityam — constantly; ye — who; japanti — chant; dhīrāḥ — the steadfast; te vai — they indeed; māyām — māyā; atitaranti — cross over; na anyaḥ — not another; paramam — the supreme; mantram — mantra; parama-rahasyam — the highest secret; nityam — constantly; āvartayati — repeats
+
+**14.** Beautiful are the names — eight and eight. The steadfast who constantly chant them — they indeed cross over māyā, and no one else. The supreme mantra, the highest secret, [He] constantly repeats.[^01-20]
+
+> **Commentary.** It is shown that this mantra bears fruit for sādhakas too. By incessant japa of this mantra consisting of sixteen names, the sādhakas cross over māyā — subjugation by matter — perfectly, and by no other means. The eternally perfect (nitya-siddha) also constantly repeat this mantra — by their very nature.
+>
+> **“Amṛta-bindu.”** These sixteen (eight and eight) names are supremely beautiful; only those steadfast persons who constantly sing all these names can cross over māyā; others cannot. The eternally perfect too always sing this supreme, essential mahā-mantra.
+
+## Verse 15
+
+चैतन्य एव सङ्कर्षणो वासुदेवः परमेष्ठी रुद्रः शक्रो
+बृहस्पतिः सर्वे देवाः सर्वाणि भूतानि स्थावराणि चराणि च
+यत्किञ्चित्सदसत्कारणं सर्वम् । तदत्र श्लोकाः ॥ १५ ॥
+
+*caitanya eva saṅkarṣaṇo vāsudevaḥ parameṣṭhī rudraḥ śakro*
+*bṛhaspatiḥ sarve devāḥ sarvāṇi bhūtāni sthāvarāṇi carāṇi ca*
+*yat kiñcit sad-asat kāraṇaṁ sarvam | tad atra ślokāḥ || 15 ||*
+
+*Word for word:* caitanyaḥ eva — Chaitanya indeed; saṅkarṣaṇaḥ — Saṅkarṣaṇa; vāsudevaḥ — Vāsudeva; parameṣṭhī — Parameṣṭhī (Brahmā); rudraḥ — Rudra (Śiva); śakraḥ — Śakra (Indra); bṛhaspatiḥ — Bṛhaspati; sarve — all; devāḥ — gods; sarvāṇi — all; bhūtāni — beings; sthāvarāṇi — unmoving; carāṇi — moving; ca — and; yat kiñcit — whatever; sat-asat — being and non-being; kāraṇam — the cause; sarvam — all; tat — on this; atra — here; ślokāḥ — verses
+
+**15.** Chaitanya is Saṅkarṣaṇa, Vāsudeva, Parameṣṭhī, Rudra, Śakra, Bṛhaspati, all the gods, all beings, unmoving and moving, whatever there is of being and non-being — the cause of all.[^01-21] On this there are [these] verses here.
+
+> **Commentary.** [Answering the question:] “What need have the devotees of Chaitanya to worship other gods and the like?” — [Brahmā] says: “Chaitanya…”
+>
+> **“Amṛta-bindu.”** Śrī Chaitanya-deva is Himself Saṅkarṣaṇa and Vāsudeva; from Him come Brahmā, Rudra, Indra, Bṛhaspati, all the gods, all living beings, moving and unmoving, all things eternal and non-eternal. He is the cause of all causes. Therefore on this such verses are well known.
+
+## Verse 16
+
+यत्किञ्चिदसद्भुङ्क्ते क्षरं तत्कार्यमुच्यते ॥ १६ ॥
+
+*yat kiñcid asad bhuṅkte kṣaraṁ tat kāryam ucyate || 16 ||*
+
+*Word for word:* yat kiñcit — whatever; asat — transient; bhuṅkte — enjoys; kṣaram — “kṣara” (perishable); tat — that; kāryam — effect; ucyate — is called
+
+**16.** Whatever transient thing [the living being] enjoys is called “kṣara” (the perishable) — the effect.
+
+> **Commentary.** This universe is “kṣara,” because by nature it is an effect.
+>
+> **“Amṛta-bindu.”** Whatever is non-eternal, of the nature of an effect, and an object of enjoyment — that is, this world — is called “kṣara.”
+
+## Verse 17
+
+सत्कारणं परं जीवस्तदक्षरमितीरितम् ॥ १७ ॥
+
+*sat kāraṇaṁ paraṁ jīvas tad akṣaram itīritam || 17 ||*
+
+*Word for word:* sat — eternal (being); kāraṇam — cause; param — higher; jīvaḥ — the living being; tat — that; akṣaram — “akṣara” (imperishable); iti — thus; īritam — is called
+
+**17.** The higher — the eternal, the cause — is the living being: it is called “akṣara” (the imperishable).
+
+> **Commentary.** The living being is eternal, the cause of the perishable. Having forgotten its own nature, it imagines itself, under the influence of māyā, to be the doer;[^01-22] therefore it alone is “akṣara.”
+>
+> **“Amṛta-bindu.”** The living being, eternal, that is, the causal entity, is higher than the perishable and is called “akṣara.”
+
+## Verse 18
+
+क्षराक्षराभ्यां परमः स एव पुरुषोत्तमः ।
+चैतन्याख्यं परं तत्त्वं सर्वकारणकारणम् ॥ १८ ॥
+
+*kṣarākṣarābhyāṁ paramaḥ sa eva puruṣottamaḥ |*
+*caitanyākhyaṁ paraṁ tattvaṁ sarva-kāraṇa-kāraṇam || 18 ||*
+
+*Word for word:* kṣara-akṣarābhyām — than the perishable and the imperishable; paramaḥ — higher; saḥ eva — He alone; puruṣottamaḥ — Puruṣottama (the Supreme Person); caitanya-ākhyam — called Chaitanya; param tattvam — the supreme truth; sarva-kāraṇa-kāraṇam — the cause of all causes
+
+**18.** He who is higher than the perishable and the imperishable — He alone is Puruṣottama: the supreme truth called Chaitanya, the cause of all causes.[^01-23]
+
+> **Commentary.** “Kṣara” is the world, “akṣara” the living being. The truth higher than both is the truth of Puruṣottama, called Chaitanya, in the form of the cause of all causes. By this the three truths of Vedānta are firmly established.[^01-24]
+>
+> **“Amṛta-bindu.”** He who is higher even than both — the perishable and the imperishable — He is Puruṣottama. The name of that supreme truth, the cause of all causes, is Śrī Chaitanya-deva.
+
+## Verse 19
+
+य एनं रसयति भजति ध्यायति स पाप्मानं तरति,
+स पूतो भवति, स तत्त्वं जानाति, स तरति शोकम् ।
+गतिस्तस्यास्ते नान्यस्येति ॥ १९ ॥
+
+*ya enaṁ rasayati bhajati dhyāyati sa pāpmānaṁ tarati,*
+*sa pūto bhavati, sa tattvaṁ jānāti, sa tarati śokam |*
+*gatis tasyāste nānyasyeti || 19 ||*
+
+*Word for word:* yaḥ — who; enam — Him; rasayati — relishes (as rasa); bhajati — serves; dhyāyati — meditates on; saḥ — he; pāpmānam — sin; tarati — crosses over; saḥ — he; pūtaḥ — pure; bhavati — becomes; saḥ — he; tattvam — the truth; jānāti — knows; saḥ — he; tarati — crosses over; śokam — grief; gatiḥ — the goal (refuge); tasya — his; āste — is; na — not; anyasya — of another; iti — thus
+
+**19.** He who relishes Him [as rasa], serves Him, and meditates on Him crosses over sin; he becomes pure; he knows the truth; he crosses over grief. The goal is his, and no one else’s.
+
+> **Commentary.** The devotee who “relishes” Him, Kṛṣṇa-Chaitanya — that is, contemplates Him as the Giver of the śṛṅgāra-rasa found in Vraja; who “serves” — serves Him having accepted his own [spiritual] svarūpa; who “meditates” — performs meditation [on Him] — he “crosses over sin,” which has the form of avidyā; having crossed it, he “becomes pure” through spiritual bhāva; “the truth” — he knows the truth which is the inconceivable oneness and difference of the potency and the Possessor of potency (acintya-bhedābheda).[^01-25] He “crosses over grief.”
+>
+> **“Amṛta-bindu.”** He who loves Śrī Kṛṣṇa Chaitanya Mahāprabhu, serves Him, and meditates on Him becomes free from anarthas, becomes pure, comes to know the supreme truth, goes beyond grief; the supreme goal is attainable for him. But for those who turn away from Śrī Chaitanya — the embodiment of every good goal — there is no goal.
+
+## Conclusion
+
+॥ ॐ हरिः शान्तिः ॥
+
+> **Colophon of the commentary.** In this century of the [era of] Śrī Chaitanya called “Veda” (the fourth),[^01-26] on the bank of the Jāhnavī, the most lowly Kedāra composed this commentary on the Veda. May those to whom the bhajana of Chaitanya is dear mercifully place ever upon his head the dust of their feet, which bestows every blessing. Here ends this commentary on the Śrī Chaitanya Upanishad called “Śrī-Śrī-Caitanya-caraṇāmṛta.”
+>
+> “In this world there is no higher truth beyond Chaitanya-Kṛṣṇa.”[^01-27]
+>
+> **Colophon of the “Amṛta-bindu”** (a Bengali couplet). A resident of Sambalpur, the servant Śrī Madhusūdana, composed [this rendering of] the Chaitanya Upanishad in the vernacular. Here ends the “Amṛta-bindu” translation.
+
+[^01-1]: Translated from the edition of Sri Gopinath Gaudiya Math (Mayapur, ed. Sridas Baba, Gaurabda 448 ≈ 1934), where the Sanskrit is printed in Bengali script; here it is given in Devanagari. The text of the Upanishad has been collated with the electronic text of sanskritdocuments.org; variants are noted. The commentary “Śrī-Śrī-Caitanya-caraṇāmṛta” was composed by Bhaktivinoda Thakura (in the colophon, “Kedāra”) and first published in 1887. The Bengali prose translation “Amṛta-bindu” (“A Drop of Nectar”), according to its colophon, is by Madhusudana Dasa of Sambalpur; it renders the mūla, sometimes weaving in explanations from the commentary. Both the commentary and the “Amṛta-bindu” are translated in full.
+[^01-2]: The Pañca-tattva — Śrī Chaitanya in five aspects: the Lord Himself (Chaitanya), His expansion (Nityānanda), His incarnation (Advaita), His energy (Gadādhara), and His devotee (Śrīvāsa).
+[^01-3]: “The moon of Navadvīpa” — Śrī Chaitanya.
+[^01-4]: Bhāg. 7.9.38 (Prahlāda’s prayer): in the Kali age the Lord is “hidden” (channaḥ), and therefore He is called Triyuga. Gaudiya Vaishnavas see here a reference to Śrī Chaitanya, who appeared in the guise of a devotee.
+[^01-5]: Samit-pāṇi, “fuel in hand”: the ancient custom of a disciple approaching a teacher (cf. Muṇḍaka Up. 1.2.12; Praśna Up. 1.1, where six disciples come with fuel to Pippalāda himself).
+[^01-6]: The “Amṛta-bindu” calls Brahmā Pippalāda’s father; the commentary calls him his guru. In the Praśna Upaniṣad (Atharva Veda) Pippalāda is himself a teacher; in the Purāṇas he is the son of the ṛṣi Dadhīci. None of these traditions contradicts Brahmā, the first guru, instructing him.
+[^01-7]: Cf. Praśna Up. 1.2, where Pippalāda tells his disciples: “Live another year in austerity, celibacy, and faith.” Hence the commentary’s gloss, “for another year.” “Ramasva” literally means “take delight, abide”; “vaśa” we take as the imperative “subdue” (vaśaya); Madhusudana has “conquer the mind.” The electronic text misprints “brahmacāryeṇa”; the 1934 edition misprints “bhuya” for “bhūya.”
+[^01-8]: “Kāśyatīta” — so in both witnesses; we read it as kāśyati iti, “will manifest (make shine),” with the particle closing direct speech; the commentary glosses “prakāśayiṣyati,” “will manifest.” The commentary explains “mahā-yogī” as “possessor of the spiritual potency” (cit-śakti), and “sattva-rūpa” as “whose form is pure spirit” (viśuddha-sattva, not the material mode of goodness).
+[^01-9]: Bhāg. 11.5.33–34 (“dhyeyaṁ sadā paribhava-ghnam…,” “tyaktvā su-dustyaja…”): prayers to the Mahāpuruṣa who, according to Karabhājana, is worshipped in the Kali age; Gaudiya Vaishnavas apply them to Śrī Chaitanya (Jīva Gosvāmī, Kṛṣṇadāsa Kavirāja).
+[^01-10]: A play on words: “caitanya” means “consciousness, spirit”; “Chaitanya” is the Lord’s name. “Caitanya-ātmā” can be understood both as “whose self is consciousness” and as “He who is Chaitanya Himself.”
+[^01-11]: Bhāg. 10.8.13: Garga’s words at Kṛṣṇa’s name-giving: “In previous yugas He assumed three colours — white, red, and yellow; now He has become black (Kṛṣṇa).” Gaudiya Vaishnavas understand “yellow” (pīta) as referring to Śrī Gaura. The mūla of the Upanishad lists red, dark, and white — the forms of the other ages; golden (Gaura) is His own form in Kali.
+[^01-12]: Brahmā is the first ācārya of the Brahma-sampradāya, in which Madhva taught; according to Gaudiya tradition (Kavikarṇapūra, Baladeva Vidyābhūṣaṇa), Śrī Chaitanya accepted initiation in this line (through Īśvara Purī) — hence “Brahma-Madhva-Gauḍīya-sampradāya.”
+[^01-13]: The verse almost literally coincides with Śvetāśvatara Up. 3.8 (“vedāham etaṁ puruṣaṁ mahāntam ādityavarṇaṁ tamasaḥ parastāt / tam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate ’yanāya”); cf. also 3.21 and 4.18.
+[^01-14]: This does not mean that Vaikuṇṭha is something lower or mundane: Vaikuṇṭha is the eternal spiritual abode of the Lord in His majesty (aiśvarya); but the sweetness (mādhurya) of Vraja, taught by Śrī Chaitanya, is higher. So Bhaktisiddhanta Sarasvati too explains, following the Chaitanya-charitamrita.
+[^01-15]: That is, “His own name,” by which the Lord gladdens the world, means the names of Kṛṣṇa in the mahā-mantra (verses 11–12), not the name “Chaitanya.”
+[^01-16]: That is, knowledge (saṁvit) destroys both “dharma” in the sense of worldly piety leading to karmic fruits and adharma — both rooted in ignorance (cf. Bhāg. 1.1.2: “all cheating dharma is rejected”).
+[^01-17]: The mahā-mantra of sixteen names in the order accepted by Gaudiya Vaishnavas (so also in the Kali-santaraṇa Upaniṣad).
+[^01-18]: Cf. the verse found in the Mahābhārata (Udyoga-parva) and quoted by Vaishnavas: “Kṛṣ denotes ‘being,’ ṇa ‘bliss’; their union is Kṛṣṇa” (kṛṣir bhū-vācakaḥ śabdo ṇaś ca nirvṛti-vācakaḥ). Here kṛṣ is explained differently — as “remembrance”; the “Amṛta-bindu” renders ṇa as “cessation (of suffering).” The 1934 edition reads “ṇas tad-ubhaya…”, the electronic text “ṇan tad-ubhaya…” (an error). In the commentary Bhaktivinoda explains the name “Rāma” as “He who delights all” and connects it with the rāsa-līlā; in the Gaudiya tradition the “Rāma” of the mahā-mantra is understood above all as Rādhā-ramaṇa — Kṛṣṇa, who gives delight to Rādhā.
+[^01-19]: The formula goes back to Lakṣmīdhara’s Nāma-kaumudī; Jīva Gosvāmī cites it in his Sandarbhas: the established (rūḍhi) meaning of the name “Kṛṣṇa” is Yaśodā’s son, not some other meaning of the word.
+[^01-20]: So in both witnesses: “nityam āvartayati,” “constantly repeats” (singular); the subject is not named — in the light of verse 11 it is the Lord Himself; the commentary applies the words to the eternally perfect (plural, “āvartayanti”). “Eight and eight”: the 1934 edition reads “aṣṭāv aṣṭa ca,” the electronic text “aṣṭāv aṣṭe ca”; the commentary: “the mantra consisting of sixteen names.”
+[^01-21]: This is not a monistic identification: the sense, as the “Amṛta-bindu” explains, is “from Him (come Brahmā, Rudra…),” that is, Chaitanya is the source and Lord of all gods and beings, all of whom are His expansions, energies, or servants (cf. Bg. 10.8: “I am the source of all”). Saṅkarṣaṇa and Vāsudeva are His own expansions (vyūhas); the rest are subordinate to Him.
+[^01-22]: Cf. Bg. 3.27: “The soul bewildered by false ego thinks itself the doer.” The living being is the “cause” of the perishable world not as its creator (the cause of all causes is the Lord, v. 18) but as the eternal enjoyer for whose sake the world is set in motion. Verses 16–18 echo Bg. 15.16–18 (kṣara, akṣara, and Puruṣottama).
+[^01-23]: Cf. Bg. 15.18: “Because I transcend the perishable and am higher even than the imperishable, I am celebrated in the world and in the Veda as Puruṣottama.”
+[^01-24]: The three truths (tattvas): the world (jaḍa), the living being (jīva), and the Lord (Īśvara).
+[^01-25]: Acintya-bhedābheda — Śrī Chaitanya’s teaching of the inconceivable oneness and difference of the Lord and His energies (the jīvas and the world), expounded by Jīva Gosvāmī.
+[^01-26]: In the traditional system of number-words “veda” stands for “4.” The fourth century of the Chaitanya era (Gaurābda; year 1 = 1486) began in 1886; the commentary was published in 1887.
+[^01-27]: In the 1934 edition this line is printed after the colophon of the commentary; the electronic text attaches it to the Upanishad (reading “para-tattvāt”). The edition does not name its source.

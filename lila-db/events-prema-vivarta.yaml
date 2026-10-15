@@ -1,0 +1,141 @@
+# События, заведённые при внесении «Према-виварты» (приписана Джагадананде Пандиту; формат — README.md, раздел «События»).
+# Почти все — известны только по этой поэме. Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-shivananda-raises-jagadananda
+  title: "Шивананда Сена воспитывает Джагадананду и приводит его к Господу в Надию"
+  title_en: "Shivananda Sena brings up Jagadananda and brings him to the Lord in Nadia"
+  period: P04
+  order: 64
+  date_conf: оценка
+  date_basis: "«в детстве» (Према-виварта 8.17–18); до учёбы в одной школе с Нимаем"
+  cc: ""
+  cb: ""
+  themes: [learning, family]
+  notes: "Только «Према-виварта» (8.15–19): Шивананда, отец Кави Карнапуры, учил Джагадананду «Бхагавате» и «Гите», привёл его в Надию и оставил у стоп Господа; в его доме Джагадананда научился стряпать. ЧЧ и ЧБ об этом не говорят."
+
+- id: ev-jagadananda-childhood-quarrel
+  title: "Детская ссора Нимая и Джагадананды в школе и примирение ночью"
+  title_en: "The childhood quarrel of Nimai and Jagadananda at school and their reconciliation at night"
+  period: P04
+  order: 66
+  date_conf: оценка
+  date_basis: "школьные годы, при жизни Джаганнатхи Мишры (Према-виварта 2.24)"
+  cc: ""
+  cb: ""
+  themes: [pranks, family]
+  notes: "Только «Према-виварта» (2.18–25): мальчики подрались в пати, Джагадананда всю ночь плакал на берегу Ганги в Маяпуре; до рассвета Нимай с Гададхарой пришли за ним, Нимай постился из-за его обиды; утром Шачи и Джаганнатха накормили его молоком с рисом. «После ссоры любовь — как чистое золото»."
+
+- id: ev-parrot-sings-gaura
+  title: "Попугай на берегу Алакананды поёт «Гаура» вместо «Радха-Кришна»"
+  title_en: "The parrot on the bank of the Alakananda sings «Gaura» instead of «Radha-Krishna»"
+  period: P04
+  order: 67
+  date_conf: оценка
+  date_basis: "игры детства/юности в Навадвипе (Према-виварта 2.31)"
+  cc: ""
+  cb: ""
+  themes: [pranks, revelation, krishna-lila]
+  notes: "Только «Према-виварта» (2.31–42): Нимай, играя с Гададхарой и Джагаданандой, ловит попугая и велит ему говорить «Радха-Кришна»; попугай поёт «Гаурахари» и называет Нимая Кришной, а Гадая — Радхой; Нимай, будто сердясь, уходит в Маяпур."
+
+- id: ev-jagadananda-giridhari-seva
+  title: "Господь вверяет Гададхаре служение Тота-Гопинатхе, а Джагадананде — Гиридхари в Пури"
+  title_en: "The Lord entrusts Gadadhara with the service of Tota-Gopinatha and Jagadananda with that of Giridhari in Puri"
+  period: P12
+  order: 12
+  date_conf: оценка
+  date_basis: "после переселения Гададхары в Пури"
+  cc: ""
+  cb: ""
+  themes: [deities]
+  notes: "«Према-виварта» 3.3–4. Служение Гададхары Тота-Гопинатхе — предание (ср. Тоту в ЧЧ Антья); о служении Джагадананды Гиридхари ЧЧ и ЧБ не говорят."
+
+- id: ev-yukta-vairagya-sanatana-question
+  title: "Санатана спрашивает Господа о юкта-вайрагье"
+  title_en: "Sanatana asks the Lord about yukta-vairagya"
+  period: P14
+  order: 14.5
+  date_conf: оценка
+  date_basis: "место и время не названы; Санатана жил при Господе в Пури (ЧЧ Антья 4)"
+  cc: ""
+  cb: ""
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, bhakti-supremacy]
+  notes: "Только «Према-виварта» (9): Господь различает пхалгу- и юкта-вайрагью, наставляет о поведении отрёкшегося и домохозяина. В ЧЧ наставление о юкта-вайрагье дано Рагхунатхе Дасу (Мадхья 16.238)."
+
+- id: ev-svarupa-teaches-raghunatha-piriti
+  title: "Сварупа Дамодара наставляет Рагхунатху Даса: что такое пирити, поведение преданных, три вида бхакти"
+  title_en: "Svarupa Damodara instructs Raghunatha Dasa: what piriti is, the conduct of devotees, the three kinds of bhakti"
+  period: P14
+  order: 30.5
+  date_conf: оценка
+  date_basis: "после прихода Рагхунатхи в Пури, когда Господь вверил его Сварупе (ЧЧ Антья 6)"
+  cc: "Антья 6"
+  cb: ""
+  themes: [teaching, sannyasa]
+  teaching: [prema, sannyasa-teaching, vaishnava]
+  notes: "«Према-виварта» 16–17: беседы Сварупы с Рагхунатхой о любви в песнях Видьяпати и Чандидаса (против сахаджиев), о поведении домохозяина и отрёкшегося, Ачьюта-готре, аропа-, санга- и сварупа-сиддха-бхакти; завершаются наставлением Господа Рагхунатхе, совпадающим с ЧЧ Антья 6.236–237. Сами беседы известны только по «Према-виварте»."
+
+- id: ev-ekadashi-mahaprasada-jagannatha-vallabha
+  title: "Экадаши в саду Джаганнатха-валлабха: Господь почитает махапрасад поклоном и вкушает наутро"
+  title_en: "Ekadashi in the Jagannatha-vallabha garden: the Lord honours the mahaprasada with obeisance and eats it the next morning"
+  period: P14
+  order: 45
+  date_conf: оценка
+  date_basis: "в дни пребывания Джаганнатхи в Гундиче, при «орийских» и «гаудийских» преданных; год не назван"
+  calendar: "экадаши в дни Ратха-ятры"
+  cc: ""
+  cb: ""
+  themes: [festival, prasada, kirtan, jagannatha]
+  teaching: [prasada-teaching, holy-name]
+  notes: "Только «Према-виварта» (18): Гопинатха-паричха с Сарвабхаумой приносят махапрасад из Гундичи; Господь велит поклониться ему, всю ночь проводит в киртане и вкушает прасад на рассвете, затем даёт решение: в экадаши — пост и бдение, в иные дни — прасад; служение Имени и обет экадаши едины."
+
+- id: ev-nama-rahasya-patala-haridasa-samadhi
+  title: "Господь у самадхи Харидаса толкует «Нама-рахасья-паталу»"
+  title_en: "At Haridasa's samadhi the Lord expounds the «Nama-rahasya-patala»"
+  period: P14
+  order: 61
+  date_conf: оценка
+  date_basis: "после ухода Харидаса Тхакура (ЧЧ Антья 11)"
+  cc: ""
+  cb: ""
+  themes: [teaching, kirtan, offense]
+  teaching: [holy-name, scripture]
+  notes: "Только «Према-виварта» (19): лунной ночью на берегу океана Господь толкует Сварупе и Рамананде беседу Санаткумары с Нарадой из «Падма-пураны» о десяти оскорблениях Имени, велит распространять её и называет Харидаса ачарьей Имени."
+
+- id: ev-nama-mahima-krishnadasa
+  title: "В доме Каши Мишры Господь рассказывает Кришнадасу о славе Имени"
+  title_en: "In Kashi Mishra's house the Lord tells Krishnadasa of the glory of the Name"
+  period: P14
+  order: 62
+  date_conf: оценка
+  date_basis: "антья-лила в Пури; время не названо"
+  cc: ""
+  cb: ""
+  themes: [teaching, kirtan]
+  teaching: [holy-name, scripture]
+  notes: "Только «Према-виварта» (20): по просьбе Кришнадаса («Стханешвари») Господь излагает славу Имени, подкрепляя её подборкой стихов шастр (как в «Хари-бхакти-виласе» 11), и объясняет, что плод Имени зависит от веры."
+
+- id: ev-jagadananda-dvaraka-queen-jest
+  title: "Господь в шутку называет Джагадананду царицей Двараки"
+  title_en: "The Lord jokingly calls Jagadananda the queen of Dvaraka"
+  period: P14
+  order: 71
+  date_conf: оценка
+  date_basis: "Господь уже санньяси (Према-виварта 2.12)"
+  cc: ""
+  cb: ""
+  themes: [pranks, krishna-lila]
+  bhava: [sannyasi]
+  notes: "Только «Према-виварта» (2.11–16): Господь: «Ты — главная царица Двараки, зачем служить нищему санньяси?»; Джагадананда: «Я — служанка стоп Радхи; Ты украл цвет кожи Радхи». Ср. ГГД 51 (Джагадананда — Сатьябхама) и ЧЧ Антья 7.138."
+
+- id: ev-goradaha-crocodile-deliverance
+  title: "Утренняя прогулка к пастухам Гадигачхи; освобождение проклятого крокодила в пруду Горадаха"
+  title_en: "A morning outing to the cowherds of Gadigachha; the deliverance of the cursed crocodile in the Goradaha pond"
+  period: P07
+  order: 134.72
+  date_conf: оценка
+  date_basis: "навадвипская лила с Нитьянандой и киртаниями (Према-виварта 15.6–7)"
+  cc: ""
+  cb: ""
+  themes: [kirtan, mercy, krishna-lila, prasada]
+  notes: "Только «Према-виварта» (15): после трапезы с остатками Гауры у Шачи Господь с Нитаем, Гададхарой, Вакрешварой, Васу и Говиндой Гхошами идёт с киртаном вдоль Ганги в Гадигачху; пастух Бхима и его мать Шьяма угощают всех в хлеву; по жалобе Рамадаса Господь киртаном освобождает крокодила — сына полубогов, проклятого Дурвасой за срезанные в Камьяване волосы; с тех пор пруд — «Горадаха», подобный Калия-дахе; пастухи видят в прогулке Говардхану и Манаса-Гангу."

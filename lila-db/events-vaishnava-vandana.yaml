@@ -121,3 +121,23 @@
   cb: ""
   themes: [kirtan]
   notes: "Ванданы (Джива 136; Девакинандана 137); ГГД 142. Время и место не указаны; место на шкале условно."
+
+- id: ev-hiranya-jagadisha-ekadashi-naivedya
+  title: "Младенец Нимай в экадаши ест угощение для Вишну в домах Джагадиши и Хираньи"
+  title_en: "The infant Nimai eats the Ekadashi offering for Vishnu in the houses of Jagadisha and Hiranya"
+  period: P03
+  order: 6.5
+  cc: ""
+  cb: "Ади 6"
+  themes: [pranks, prasada]
+  notes: "ЧБ Ади 6; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» (ч. 4, 106–107)."
+
+- id: ev-virachandra-secret-counsel
+  title: "Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги"
+  title_en: "The Lord's secret counsel with Nityananda at Nilachala: Virachandra will be Gauranga's own descent"
+  period: P12
+  order: 305
+  cc: ""
+  cb: ""
+  themes: [revelation, family]
+  notes: "Только вандана в трипади «второго» Вриндавана Даса (ч. 5, 16–17); ср. ГГД 67 и ev-virachandra-recognized. Место на шкале условно."

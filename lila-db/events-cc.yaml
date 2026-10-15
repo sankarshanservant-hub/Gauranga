@@ -1,0 +1,548 @@
+# События, заведённые при разборе «Шри Чайтанья-чаритамриты» (источник cc). Формат — как events.yaml.
+# Ади 1 — вступление: мангалачарана и таттвы; в основном богословские темы (period: PX, не эпизоды жизни).
+
+- id: ev-krishna-teaches-brahma-catuhshloki
+  title: "Кришна наставляет Брахму: четыре шлоки «Бхагаватам»"
+  title_en: "Krishna instructs Brahma: the four verses of the Bhagavatam"
+  period: P00
+  order: 2
+  cc: "Ади 1.50–56"
+  cb: ""
+  themes: [teaching, celestial]
+  teaching: [scripture, maya]
+  notes: "Бхаг. 2.9.30–36: Господь Сам наставляет Брахму о Себе, Своих энергиях и пути; в ЧЧ Ади 1.50–56 приведено как свидетельство о шикша-гуру. Ср. ev-brahma-hamsa-bhagavata-origin."
+
+- id: ev-tattva-chaitanya-bhagavan
+  title: "Шри Чайтанья — Бхагаван; Брахман — Его сияние, Параматма — Его полное проявление"
+  title_en: "Sri Chaitanya is Bhagavan; Brahman is His effulgence, Paramatma His plenary portion"
+  period: PX
+  order: 100
+  cc: "Ади 1.3; 2.5–22; 2.109–118"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, vedanta]
+  notes: "Богословская тема, не эпизод жизни."
+
+- id: ev-tattva-gaura-external-cause
+  title: "Внешняя причина явления Гауры: дарование уннатоджвала-расы в век Кали"
+  title_en: "The external reason for Gaura's advent: bestowing unnatojjvala-rasa in the age of Kali"
+  period: PX
+  order: 101
+  cc: "Ади 1.4"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, yuga-dharma, prema]
+  notes: "Богословская тема, не эпизод жизни. Шлока «анарпита-чарим» (Видагдха-мадхава 1.2); внутренняя причина — ev-krishna-resolves-advent-radha-bhava."
+
+- id: ev-tattva-pancha-tattva
+  title: "Панча-таттва: Кришна в пяти обликах"
+  title_en: "Pancha-tattva: Krishna in five forms"
+  period: PX
+  order: 102
+  cc: "Ади 1.14; 1.28"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: Чайтанья, Нитьянанда, Адвайта, Шривас, Гададхара. Подробно — ЧЧ Ади 7."
+
+- id: ev-tattva-six-tattvas
+  title: "Шесть таттв: Кришна, два вида гуру, преданные, аватары, проявления, энергии"
+  title_en: "The six tattvas: Krishna, the two kinds of guru, devotees, avataras, manifestations, energies"
+  period: PX
+  order: 103
+  cc: "Ади 1.31–33"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: план всей мангалачараны Ади 1."
+
+- id: ev-tattva-guru
+  title: "Гуру-таттва: гуру — проявление Кришны; дикша- и шикша-гуру"
+  title_en: "Guru-tattva: the guru as a manifestation of Krishna; diksha and shiksha gurus"
+  period: PX
+  order: 104
+  cc: "Ади 1.44–47; 1.57–58"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, vaishnava]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 11.17.27; Кришна как Чайтья-гуру в сердце и махант вовне."
+
+- id: ev-tattva-sadhu-hridaya
+  title: "Святые-преданные: общение с садху и сердце вайшнава как обитель Кришны"
+  title_en: "Saintly devotees: association with sadhus and the Vaishnava's heart as Krishna's abode"
+  period: PX
+  order: 105
+  cc: "Ади 1.59–64"
+  cb: ""
+  themes: [teaching]
+  teaching: [vaishnava, bhakti-supremacy]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 3.25.25, 9.4.68, 1.13.10; два вида преданных — парикары и садхаки."
+
+- id: ev-tattva-prakasha-vilasa
+  title: "Пракаша и виласа: проявления Господа"
+  title_en: "Prakasha and vilasa: the Lord's manifestations"
+  period: PX
+  order: 106
+  cc: "Ади 1.68–78"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [scripture]
+  notes: "Богословская тема, не эпизод жизни: раса-лила и свадьбы в Двараке как примеры пракаши; Баларама, Нараяна, Васудева и др. — виласы (Лагху-бхагаватамрита 1.15, 1.21)."
+
+- id: ev-tattva-shaktis
+  title: "Три вида шакти Господа: Лакшми, царицы и гопи"
+  title_en: "The Lord's three kinds of shaktis: Lakshmis, queens and gopis"
+  period: PX
+  order: 107
+  cc: "Ади 1.79–82"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  notes: "Богословская тема, не эпизод жизни."
+
+- id: ev-tattva-chaitanya-nityananda-sun-moon
+  title: "Чайтанья и Нитьянанда — солнце и луна, взошедшие в Гауде"
+  title_en: "Chaitanya and Nityananda: the sun and moon risen in Gauda"
+  period: PX
+  order: 108
+  cc: "Ади 1.2; 1.83–87; 1.101–103"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, associates-tattva]
+  notes: "Богословская тема, не эпизод жизни: образ из шлоки «ванде шри-кришна-чаитанья-нитьянандау»; Кришна и Баларама Враджа — Они же в Гауде."
+
+- id: ev-tattva-kaitava
+  title: "Каитава: тьма невежества; стремление к освобождению — главный обман"
+  title_en: "Kaitava: the darkness of ignorance; the desire for liberation as the chief deceit"
+  period: PX
+  order: 109
+  cc: "Ади 1.88–97"
+  cb: ""
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture, holy-name]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 1.1.2; Кришна, кришна-бхакти, према и нама-санкиртана как таттва-васту."
+
+- id: ev-tattva-two-bhagavatas
+  title: "Два бхагаваты: писание и преданный"
+  title_en: "The two Bhagavatas: the scripture and the devotee"
+  period: PX
+  order: 110
+  cc: "Ади 1.98–103"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, vaishnava, prema]
+  notes: "Богословская тема, не эпизод жизни."
+
+# Ади 2 — истина о Шри Чайтанье
+- id: ev-tattva-krishna-mula-narayana
+  title: "Кришна — изначальный Нарайяна; Нарайяна Вайкунтхи — Его виласа"
+  title_en: "Krishna is the original Narayana; Narayana of Vaikuntha is His vilasa"
+  period: PX
+  order: 111
+  cc: "Ади 2.23–60"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, maya]
+  notes: "Богословская тема, не эпизод жизни: молитва Брахмы (Бхаг. 10.14.14) и её толкование; три Пуруши и турия."
+
+- id: ev-tattva-krishnas-tu-bhagavan-svayam
+  title: "«Кришнас ту бхагаван свайам»: Кришна — источник всех аватар"
+  title_en: "\"Krishnas tu bhagavan svayam\": Krishna is the source of all avataras"
+  period: PX
+  order: 112
+  cc: "Ади 2.61–90"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture]
+  notes: "Богословская тема, не эпизод жизни: Бхаг. 1.3.28; правило анувада–видхея."
+
+- id: ev-tattva-krishna-ashraya
+  title: "Кришна — ашрая: прибежище всего, Его проявления и три энергии"
+  title_en: "Krishna is the ashraya: shelter of all, His manifestations and three energies"
+  period: PX
+  order: 113
+  cc: "Ади 2.91–108"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, maya]
+  notes: "Богословская тема, не эпизод жизни: десять тем Бхагаватам (2.10.1–2), шесть видов виласы, чит-, майя- и джива-шакти; Брахма-самхита 5.1."
+
+# Ади 3 — внешние причины явления Шри Чайтаньи.
+- id: ev-krishna-resolves-to-give-vraja-prema
+  title: "Кришна решает Сам прийти и дать миру любовь Враджа"
+  title_en: "Krishna resolves to come Himself and give the world the love of Vraja"
+  period: P00
+  order: 6.8
+  cc: "Ади 3.5–28"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva, yuga-dharma, prema, holy-name]
+  notes: "Внешняя причина нисхождения: завершив игры во Врадже, Кришна видит, что мир знает лишь поклонение по правилам в сознании величия, и решает Сам ввести нама-санкиртану и учить бхакти примером. Ср. ev-tattva-gaura-external-cause (толкование шлоки Ади 1.4) и внутреннюю причину — ev-krishna-resolves-advent-radha-bhava."
+
+# Ади 4 — сокровенные причины явления Шри Чайтаньи (толкование шлок Ади 1.5–6).
+- id: ev-tattva-krishna-advent-reasons
+  title: "Причины нисшествия Кришны: снятие бремени Земли — побочное, главное — вкусить сущность расы и дать миру рага-маргу"
+  title_en: "Why Krishna descends: removing the earth's burden is secondary; the chief reasons are to taste the essence of rasa and to give the world the path of raga"
+  period: PX
+  order: 114
+  cc: "Ади 4.1–35"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva, prema]
+  notes: "Богословская тема, не эпизод жизни: в полном Бхагаване соединяются все аватары, и убийство демонов совершает Вишну в Его теле; любовь, ослабленная сознанием величия, Кришну не покоряет — Его покоряет чистая любовь Враджа (Бхаг. 10.33.36). Ср. ev-krishna-resolves-to-give-vraja-prema (Ади 3) и ev-krishna-resolves-advent-radha-bhava."
+
+- id: ev-tattva-radha-hladini
+  title: "Радха-таттва: Радха — хладини-шакти и махабхава, источник всех возлюбленных Кришны; Радха и Кришна едины"
+  title_en: "Radha-tattva: Radha is the hladini-shakti and mahabhava, the source of all Krishna's beloveds; Radha and Krishna are one"
+  period: PX
+  order: 115
+  cc: "Ади 4.55–98"
+  cb: ""
+  themes: [teaching]
+  teaching: [prema, scripture]
+  notes: "Богословская тема, не эпизод жизни: толкование шлоки Сварупы Дамодары (Ади 1.5): три аспекта чит-шакти (хладини, сандхини, самвит), шуддха-саттва, према — бхава — махабхава; Лакшми, царицы и гопи — проявления Радхи; толкование стиха «деви кришна-майи» (Брихад-гаутамия-тантра)."
+
+- id: ev-tattva-gopi-prema
+  title: "Према гопи — чистая любовь, а не кама; Радха — лучшая из гопи"
+  title_en: "The gopis' prema is pure love, not kama; Radha is the best of the gopis"
+  period: PX
+  order: 116
+  cc: "Ади 4.159–219"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema, scripture]
+  notes: "Богословская тема, не эпизод жизни: кама — желание удовлетворить свои чувства, према — желание радовать Кришну; гопи оставили всё ради Кришны и радуются лишь Его радостью, поэтому в их любви нет и запаха камы; Радха превосходит всех гопи, остальные — средства расы Её игр с Кришной."
+
+# Ади 5 — Шри Нитьянанда-таттва (толкование шлок Ади 1.7–11).
+- id: ev-tattva-paravyoma-goloka
+  title: "Устройство духовного мира: Голока (Гокула), Матхура и Дварака, Паравьома-Вайкунтха, Брахман-Сиддхалока; Маха-Санкаршана"
+  title_en: "The structure of the spiritual world: Goloka (Gokula), Mathura and Dvaraka, Paravyoma-Vaikuntha, Brahman-Siddhaloka; Maha-Sankarshana"
+  period: PX
+  order: 117
+  cc: "Ади 5.13–49"
+  cb: ""
+  themes: [teaching]
+  teaching: [associates-tattva, scripture]
+  notes: "Богословская тема, не эпизод жизни: толкование шлоки Сварупы Дамодары (Ади 1.8): над Паравьомой — Кришналока (Дварака, Матхура, Гокула), выше всех — Гокула-Голока, проявленная и во вселенной; на Вайкунтхе — Нараяна и второй чатур-вьюха; вне Вайкунтхи — безличное сияние (Сиддхалока), куда уходят достигшие саюджьи и убитые Хари демоны; Маха-Санкаршана — прибежище чит-шакти и всех джив, часть Нитьянанды-Баларамы. Ср. ev-tattva-nityananda-advaita."
+
+- id: ev-tattva-purusha-avataras
+  title: "Три Пуруша-аватары — части Нитьянанды-Баларамы: Каранодакашайи, Гарбходакашайи, Кширодакашайи; творение вселенных"
+  title_en: "The three Purusha-avataras, portions of Nityananda-Balarama: Karanodakashayi, Garbhodakashayi, Kshirodakashayi; the creation of the universes"
+  period: PX
+  order: 118
+  cc: "Ади 5.50–126"
+  cb: ""
+  themes: [teaching]
+  teaching: [associates-tattva, maya, scripture]
+  notes: "Богословская тема, не эпизод жизни: толкование шлок Сварупы Дамодары (Ади 1.9–11): Маха-Вишну в Причинном океане взглядом оплодотворяет майю, но её не касается — пракрити лишь второстепенная причина, как железо, жгущее силой огня; вселенные выходят из пор Его тела с выдохом; Гарбходакашайи входит во вселенные, из Его пупка — лотос Брахмы; Кширодакашайи — Параматма и хранитель, Его форма — Шеша, бхакта-аватара, служащий Кришне во всех обликах. Ср. ev-tattva-nityananda-advaita, ev-tattva-krishna-mula-narayana (Ади 2)."
+
+- id: ev-minaketana-ramadasa-kaviraja-house
+  title: "Минакетана Рамадас на киртане в доме Кришнадаса Кавираджи; брат автора, не почитавший Нитьянанду"
+  title_en: "Minaketana Ramadasa at the kirtana in Krishnadasa Kaviraja's house; the author's brother who did not honor Nityananda"
+  period: P14
+  order: 104
+  cc: "Ади 5.161–178"
+  cb: ""
+  themes: [ecstasy, offense]
+  notes: "Рассказ Кришнадаса Кавираджи о себе; в ту же ночь — сон в Джхаматпуре (ev-kaviraja-nityananda-jhamatpur). Время не указано."
+
+# Ади 6 — Шри Адвайта-таттва (толкование шлок Ади 1.12–13) и дасья-бхава спутников.
+- id: ev-tattva-dasya-bhakta-bhava
+  title: "Дасья-бхава — природа любви к Кришне; бхакта-аватары; бхакта-бхава выше равенства с Кришной"
+  title_en: "The mood of servitude is the nature of love for Krishna; the bhakta-avataras; the devotee's mood is higher than equality with Krishna"
+  period: PX
+  order: 119
+  cc: "Ади 6.41–112"
+  cb: ""
+  themes: [teaching]
+  teaching: [associates-tattva, prema, scripture]
+  notes: "Богословская тема, не эпизод жизни: Адвайта, Нитьянанда и все спутники считают себя слугами Чайтаньи; кришна-према у старших, равных и младших (Нанда, друзья, гопи, Радха, царицы, Баладева, Шеша, Шива) порождает чувство слуги; Баларама — исток бхакта-бхавы, Его части (Санкаршана, Лакшмана, Маха-Вишну, Адвайта) — бхакта-аватары; положение преданного выше равенства с Кришной, и Сам Кришна, чтобы вкусить Свою сладость, принял бхакта-бхаву как Чайтанья. Ср. ev-tattva-nityananda-advaita."
+
+# Ади 7 — Шри Панча-таттва; санньяси-майявади Варанаси.
+- id: ev-pancha-tattva-prema-flood
+  title: "Панча-таттва вскрывает сокровищницу премы: потоп любви затопляет мир"
+  title_en: "The Pancha-tattva opens the storehouse of prema: the flood of love drowns the world"
+  period: PX
+  order: 120
+  cc: "Ади 7.20–30"
+  cb: ""
+  themes: [teaching, mercy, kirtan]
+  teaching: [associates-tattva, prema, holy-name]
+  notes: "Образ, не отдельный эпизод: пятеро вскрывают печать сокровищницы премы, пьют и раздают её без разбора достойных и мест; потоп любви топит мир и семя желаний; спаслись бегством лишь майявади, карми, лжелогики, хулители, пашанди и пандиты-грамотеи. Продолжение — ev-students-offend-sannyasa-resolve (санньяса ради них)."
+
+# Ади 8 — величие Шри Чайтаньи, Его имени и «Чайтанья-мангалы»; повеление вайшнавов автору.
+- id: ev-tattva-rejecting-chaitanya-asura
+  title: "Не признающий Шри Чайтанью — асура; призыв оставить пустые доводы и поклоняться Чайтанье и Нитьянанде"
+  title_en: "One who does not accept Sri Chaitanya is an asura; the call to give up false argument and worship Chaitanya and Nityananda"
+  period: PX
+  order: 121
+  cc: "Ади 8.7–15"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, bhakti-supremacy]
+  notes: "Богословская тема, не эпизод жизни: как Джарасандха, поклонявшийся Вишну, но не признававший Кришну, — дайтья, так и не признающий Чайтанью; санньяса Господа — ради тех, кто иначе Его не признал бы (ср. ev-students-offend-sannyasa-resolve); логику предлагается обратить на милость Шри Чайтаньи."
+
+- id: ev-tattva-chaitanya-gives-rare-prema
+  title: "Бхакти, которую Кришна скрывает, Шри Чайтанья раздаёт всем без разбора"
+  title_en: "The bhakti Krishna keeps hidden, Sri Chaitanya gives to all without discrimination"
+  period: PX
+  order: 122
+  cc: "Ади 8.16–21"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [prema, bhakti-supremacy, gaura-tattva]
+  notes: "Богословская тема, не эпизод жизни: прему не обрести и за много рождений слушания и воспевания; Кришна даёт бхукти и мукти, а бхакти прячет (Тантра / Бхакти-расамрита-синдху 1.1.36; Бхаг. 5.6.18); Шри Чайтанья раздал прему всем, даже Джагаю и Мадхаю (ev-jagai-madhai-deliverance)."
+
+- id: ev-tattva-gaura-nitai-names-prema
+  title: "Имя Кришны учитывает оскорбления, а имена Чайтаньи и Нитьянанды дают прему без этого"
+  title_en: "Krishna's name takes offenses into account, but the names of Chaitanya and Nityananda give prema regardless"
+  period: PX
+  order: 123
+  cc: "Ади 8.22–32"
+  cb: ""
+  themes: [teaching, ecstasy]
+  teaching: [holy-name, gaura-tattva, prema]
+  notes: "Богословская тема, не эпизод жизни: и поныне имя Чайтаньи и Нитьянанды пробуждает прему со слезами и трепетом; одно имя Кришны уничтожает грехи, даёт бхакти, прекращает самсару и дарует служение Кришне, но у оскорбителя не проявляются изменения любви (Бхаг. 2.3.24) — семя имени не прорастает; у Чайтаньи и Нитьянанды такого рассмотрения нет."
+
+- id: ev-kaviraja-ordered-to-write-cc
+  title: "Вайшнавы Вриндавана во главе с Харидасом Пандитом поручают Кришнадасу Кавирадже описать последние лилы; гирлянда Мадана-мохана"
+  title_en: "The Vaishnavas of Vrindavana led by Haridasa Pandita ask Krishnadasa Kaviraja to describe the final pastimes; the garland of Madana-mohana"
+  period: P15
+  order: 80
+  years: [1560, 1615]
+  date_conf: оценка
+  date_basis: "в ЧЧ дата не названа; окончание ЧЧ — по колофону ряда рукописей 1537 шака (1615 г.), по другим оценкам — ок. 1581 г.; начато после «Чайтанья-бхагаваты»"
+  cc: "Ади 8.49–80"
+  cb: ""
+  themes: [author, deities]
+  notes: "Рассказ автора о себе: Вриндаван дас, увлёкшись играми Нитьянанды, не описал последние игры Чайтаньи; Харидас Пандит, управитель служения Говиндадеве, и вайшнавы Вриндавана велят Кришнадасу писать; в храме Мадана-Гопалы (Мадана-мохана) с шеи Божества падает гирлянда — знак позволения, и автор начинает книгу."
+
+# Ади 9 — древо желаний бхакти (вступление к перечню ветвей, Ади 10–12).
+- id: ev-tattva-bhakti-kalpataru
+  title: "Древо желаний бхакти: Шри Чайтанья — садовник и ствол, Его спутники — корни и ветви, према — плод"
+  title_en: "The wish-fulfilling tree of bhakti: Sri Chaitanya is the gardener and the trunk, His associates the roots and branches, prema the fruit"
+  period: PX
+  order: 124
+  cc: "Ади 9.6–54"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [associates-tattva, prema, holy-name]
+  notes: "Богословская тема-образ, не эпизод жизни: Вишвамбхара, чтобы оправдать Своё имя, принёс на землю древо бхакти и посадил его в Навадвипе; Мадхавендра Пури — первый росток, Ишвара Пури — окрепший росток, Сам Чайтанья — ствол; девять санньяси — корни (центральный — Парамананда Пури); выше ствол делится надвое — Адвайта и Нитьянанда, их ветви покрыли мир; садовник раздаёт плоды премы даром и велит ветвям раздавать их всем; рождённый в Бхарате должен трудиться на благо других (Бхаг. 10.22.35, 10.22.33; Вишну-пурана 3.12.45). Перечень ветвей — Ади 10–12."
+
+# Ади 10 — ствол и ветви древа Шри Чайтаньи (перечень спутников; эпизоды, рассказанные или упомянутые в перечне).
+- id: ev-shridhara-kholavecha
+  title: "Шридхара Кхолавеча: Господь шутит с ним, берёт его банановые побеги, цветы и плоды и пьёт из его дырявого железного кувшина"
+  title_en: "Shridhara Kholavecha: the Lord jokes with him, takes his banana stems, flowers and fruits, and drinks from his broken iron pot"
+  period: P07
+  order: 123
+  cc: "Ади 10.67–68"
+  cb: ""
+  themes: [pranks, mercy, prasada]
+  notes: "В ЧЧ Ади 10 — упоминание: торговец банановой корой Шридхара — дорогой слуга Господа; Господь постоянно подшучивал над ним, ежедневно брал его банановую сердцевину, цветы и плоды и пил воду из его дырявого железного кувшина (последнее традиционно — после ночного шествия к Кази; ср. ev-nagara-kirtana-kazi). Шутки Господа с Шридхарой — и в годы учительства (P05)."
+
+- id: ev-jagadisha-hiranya-ekadashi
+  title: "В экадаши Господь-ребёнок просит подношение Вишну в домах Джагадиши и Хираньи"
+  title_en: "On Ekadashi the child Lord asks for the offering to Vishnu in the houses of Jagadisha and Hiranya"
+  period: P03
+  order: 81
+  cc: "Ади 10.70–71; Ади 14"
+  cb: ""
+  themes: [pranks, prasada, festival]
+  bhava: [child]
+  notes: "В ЧЧ Ади 10 — упоминание: Джагадиша Пандит и Хиранья Махашая, которым Господь явил милость в детстве; в их домах в день экадаши Он выпросил наиведью Вишну и съел её Сам. Подробно — ЧЧ Ади 14."
+
+- id: ev-murari-gupta-physician
+  title: "Мурари Гупта не принимает даров, кормит семью врачеванием и исцеляет и тело, и болезнь бытия"
+  title_en: "Murari Gupta accepts no gifts, supports his family as a physician, and heals both the body and the disease of worldly existence"
+  period: P07
+  order: 104.5
+  date_conf: оценка
+  date_basis: "характеристика без датировки; отнесена к навадвипскому периоду общения Мурари с Господом"
+  cc: "Ади 10.49–51"
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [vaishnava]
+  notes: "ЧЧ Ади 10: Мурари — сокровищница премы; от его смирения тает сердце Господа; он не принимает даров и ничьих денег, содержит семью своим ремеслом врача; кого он милостиво лечит, у того проходят и телесная болезнь, и болезнь бытия (бхава-рога)."
+
+- id: ev-raghavera-jhali
+  title: "«Рагхавера джхали»: угощения Дамаянти, которые Рагхава Пандит ежегодно привозит Господу в Пури"
+  title_en: "“Raghava’s bags”: Damayanti’s preparations that Raghava Pandita brings to the Lord in Puri every year"
+  period: P14
+  order: 49
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 10.25–27: ежегодно, с приходом бенгальских преданных в Пури; подробно — Антья 10"
+  cc: "Ади 10.24–28; Антья 10"
+  cb: ""
+  themes: [prasada, mercy]
+  notes: "Сестра Рагхавы Пандита Дамаянти весь год готовит для Господа угощения; Рагхава укладывает их в мешки (джхали) и тайно привозит в Пури; Господь принимает их весь год; мешки прославились как «Рагхавера джхали»; слушая о них, преданные плачут."
+
+- id: ev-gadadhara-dasa-kazi-hari
+  title: "Гададхара Дас заставляет кази произносить имя Хари"
+  title_en: "Gadadhara Dasa makes the Kazi chant the name of Hari"
+  period: P12
+  order: 111
+  date_conf: оценка
+  date_basis: "в ЧЧ время не названо; традиционно — в годы проповеди Нитьянанды в Гауде (ЧБ Антья-кханда)"
+  cc: "Ади 10.53"
+  cb: "Антья-кханда (рассказ о Гададхаре Дасе и кази)"
+  themes: [muslims, mercy, kirtan]
+  notes: "ЧЧ Ади 10.53 — упоминание: ветвь Гададхары Даса выше всех, ибо он заставил кази произносить «Хари»."
+
+- id: ev-kulinagrama-glory
+  title: "«Даже собака Кулинаграмы Мне дорога»: Господь о жителях Кулинаграмы"
+  title_en: "“Even a dog of Kulinagrama is dear to Me”: the Lord on the people of Kulinagrama"
+  period: P12
+  order: 95
+  date_conf: оценка
+  date_basis: "в ЧЧ Ади 10 время не названо; отнесено к годам приходов жителей Кулинаграмы в Пури (ср. ЧЧ Мадхья 15–16)"
+  cc: "Ади 10.80–83"
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [vaishnava, holy-name]
+  notes: "ЧЧ Ади 10: все жители Кулинаграмы во главе с Ванинатхой Васу — слуги Чайтаньи; Господь сказал: «Даже собака Кулинаграмы Мне дорога, что говорить о других»; там даже дом, пасущий свиней, поёт имя Кришны."
+
+- id: ev-raghunatha-dasa-radha-kunda
+  title: "Рагхунатха Дас после ухода Сварупы приходит во Вриндаван; Рупа и Санатана удерживают его от смерти; подвижничество у Радха-кунды"
+  title_en: "After Svarupa’s departure Raghunatha Dasa comes to Vrindavana; Rupa and Sanatana keep him from ending his life; his austerities at Radha-kunda"
+  period: P15
+  order: 12
+  years: [1534, 1534]
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 10.93: после шестнадцати лет сокровенного служения в Пури и ухода Сварупы Дамодары (вскоре после ухода Господа, 1533/34)"
+  cc: "Ади 10.93–103"
+  cb: ""
+  themes: [departure, separation, krishna-lila]
+  teaching: [vaishnava, holy-name]
+  notes: "Рагхунатха решил, увидев стопы Рупы и Санатаны, броситься с Говардханы; братья не дали ему умереть, приняли его как третьего брата и постоянно слушали из его уст лилы Господа; его подвижничество: ни еды, ни воды — лишь немного пахты; тысяча поклонов, сто тысяч имён, поклоны двум тысячам вайшнавов в день; днём и ночью мысленное служение Радхе и Кришне, прахара бесед о Махапрабху, три омовения в Радха-кунде; садхана семь с половиной прахар, сон — не более четырёх данд, а в иные дни и того нет. Автор называет Рупу и Рагхунатху своими владыками."
+
+# Ади 11 — ветви Шри Нитьянанды
+- id: ev-dana-khanda-gadadhara-dasa
+  title: "«Дана-кханда» в доме Гададхары Даса: Мадхава Гхош поёт, Нитьянанда пляшет"
+  title_en: "The “Dana-khanda” in Gadadhara Dasa’s house: Madhava Ghosha sings and Nityananda dances"
+  period: P12
+  order: 111.5
+  date_conf: оценка
+  date_basis: "в ЧЧ время не названо; по «Анубхашье» к Ади 10.53 и ЧБ Антья 5 — в годы проповеди Нитьянанды в Гауде"
+  cc: "Ади 11.17–18"
+  cb: "Антья-кханда, гл. 5"
+  themes: [kirtan, krishna-lila, ecstasy]
+  notes: "ЧЧ Ади 11.17: в доме Гададхары Даса (Эндиядаха) Нитьянанда совершил «дана-кели» — лилу сбора пошлины; Ади 11.18: Мадхава Гхош — главный из певцов, под его пение пляшет Нитьянанда. По «Анубхашье» (к Ади 10.53, со ссылкой на ЧБ Антья 5) Мадхава Гхош с Нитьянандой и Гададхарой Дасом пел и плясал перед Бала-Гопалой, разыгрывая «Дана-кханду»."
+
+# Ади 12 — ветви Шри Адвайты и подветви Гададхары Пандита
+- id: ev-advaita-followers-split
+  title: "Последователи Адвайты делятся надвое: принимающие суть (вслед за Ачьютанандой) и «пустые», отвергшие садовника Чайтанью"
+  title_en: "Advaita’s followers split in two: those who hold to the essence (following Achyutananda) and the “worthless” who rejected Chaitanya the gardener"
+  period: P15
+  order: 45
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 12.67: «после садовника» — после ухода Господа"
+  cc: "Ади 12.8–12, 66–77"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [vaishnava, gaura-tattva]
+  notes: "ЧЧ Ади 12: сначала последователи Ачарьи были единодушны, потом по воле судьбы разделились: одни следуют Его велению, другие стали своевольны и выдумали свои учения; мнение Ачарьи — суть, нарушившие Его веление — пустые (асара); как рис меряют с шелухой, а потом её отвеивают; ветви, не признавшие садовника, вызвали гнев ствола — Адвайты, тот перестал питать их водой, и они засохли; отвернувшийся от Чайтаньи — пашанда; принявшие путь Ачьютананды — маха-бхагаваты, получившие милость Адвайты."
+
+- id: ev-kamalakanta-letter-prataparudra
+  title: "Письмо Камалаканты Вишваса Пратапарудре о долге Адвайты: Господь наказывает «баулию», Адвайта радуется наказанию, Господь прощает и наставляет"
+  title_en: "Kamalakanta Vishvasa’s letter to Prataparudra about Advaita’s debt: the Lord punishes the “bauliya”, Advaita rejoices at the punishment, the Lord forgives and instructs"
+  period: P14
+  order: 22.5
+  date_conf: оценка
+  date_basis: "в ЧЧ время не названо; Господь в Нилачале, Пратапарудра — царь"
+  cc: "Ади 12.28–55"
+  cb: ""
+  themes: [offense, teaching, mercy]
+  teaching: [vaishnava, purity]
+  notes: "Камалаканта написал Пратапарудре, что Адвайта — Ишвара, но по судьбе задолжал, и попросил триста рупий; письмо попало к Господу; Он сказал: «Признать Ачарью Ишварой — не ошибка, но он выставил Ишвару бедняком», — и велел Говинде не пускать «баулию» Вишваса; Адвайта обрадовался, вспомнив своё наказание за «Йога-васиштху» и наказания Мукунды и Шачи, пришёл к Господу и шутливо упрекнул Его, что Камалаканте досталось больше милости; Господь рассмеялся, позвал Камалаканту и наставил: ачарья не должен принимать даров царей и есть пищу мирских людей — ум осквернится, и не будет памятования о Кришне. По «Анубхашье» — «баулия» связано с учением баулов (майявадой)."
+
+# Ади 13 — явление Шри Чайтаньи
+- id: ev-advent-eclipse-devotees-rejoice
+  title: "В час явления Господа Адвайта с Харидасом пляшут, а преданные во время затмения омываются в Ганге и раздают дары"
+  title_en: "At the hour of the Lord's advent Advaita dances with Haridasa, and the devotees bathe in the Ganga during the eclipse and give gifts"
+  period: P01
+  order: 71
+  calendar: "пхалгуна, пурнима; лунное затмение"
+  years: [1486, 1486]
+  age: [0, 0]
+  date_conf: точно
+  date_basis: "ЧЧ Ади 13.89, 99–103: в час явления Господа (Шака 1407, пхалгуна-пурнима), во время лунного затмения"
+  cc: "Ади 13.99–103"
+  cb: ""
+  themes: [ecstasy, kirtan, festival]
+  notes: "ЧЧ Ади 13.99–103: в тот час Адвайта у себя дома пляшет с Харидасом, громко поёт, никто не понимает почему; увидев затмение, они смеются, спешат к Ганге, омываются и под предлогом затмения мысленно раздают брахманам дары; Харидас намёками говорит Адвайте: «Твоё веселье радует меня — видно, за ним что-то кроется»; Ачарьяратна и Шривас тоже омываются и поют; так же ликуют все преданные, где бы ни застало их затмение."
+
+# Ади 17 — юношеские лилы
+- id: ev-vayu-vyadhi-prema
+  title: "Под видом «болезни вайю» Господь являет прему"
+  title_en: "Under the pretext of a disorder of vayu, the Lord manifests prema"
+  period: P05
+  order: 58
+  date_conf: оценка
+  date_basis: "ЧЧ Ади 17.7 (сутра, до Гаи); «Анубхашья» отсылает к ЧБ Ади 12"
+  cc: "Ади 17.7"
+  cb: "Ади 12"
+  themes: [ecstasy]
+  notes: "ЧЧ Ади 17.7: под предлогом расстройства вайю Господь являл прему и играл с преданными. Подробно — у Вриндавана Даса."
+
+- id: ev-nityananda-vyasa-puja
+  title: "Вьяса-пуджа Нитьянанды; Господь в настроении Баларамы берёт пест-мушалу"
+  title_en: "Nityananda's vyasa-puja; in Balarama's mood the Lord takes up the club (mushala)"
+  period: P07
+  order: 109.5
+  cc: "Ади 17.16"
+  cb: "Мадхья 5"
+  themes: [revelation, festival]
+  notes: "ЧЧ Ади 17.16 (сутра): после вьяса-пуджи Нитьянанды Господь в Его настроении взял мушалу; по «Анубхашье» (17.12) на этой вьяса-пудже Нитьянанда увидел шестирукий облик (ev-six-armed-form-nityananda)."
+
+- id: ev-mukunda-danda-prasada
+  title: "Наказание-милость Мукунде Датте"
+  title_en: "The Lord's mercy to Mukunda Datta in the form of punishment"
+  period: P07
+  order: 113.7
+  cc: "Ади 17.65"
+  cb: "Мадхья 10"
+  themes: [mercy]
+  notes: "ЧЧ Ади 17.65 (сутра): Господь оказал Мукунде милость-наказание и рассеял его уныние; подробно — ЧБ Мадхья 10 (по «Анубхашье»). Ср. ЧЧ Ади 12.36 (Адвайта вспоминает наказание Мукунды)."
+
+- id: ev-beggar-dances-prema
+  title: "Нищий пляшет с Господом и получает прему"
+  title_en: "A beggar dances with the Lord and receives prema"
+  period: P07
+  order: 125.5
+  cc: "Ади 17.101–102"
+  cb: ""
+  themes: [mercy, ecstasy]
+  notes: "ЧЧ Ади 17.101–102: нищий, пришедший за подаянием, увидел пляску Господа, сам пустился в пляс и получил прему."
+
+- id: ev-krishna-four-arms-vanish-before-radha
+  title: "Перед Радхой Кришна не может удержать четырёхрукий облик (рассказ о силе любви Радхи)"
+  title_en: "Before Radha Krishna cannot keep His four-armed form (the power of Radha's love)"
+  period: PX
+  order: 116.2
+  cc: "Ади 17.282–293"
+  cb: ""
+  themes: [krishna-lila, teaching]
+  teaching: [prema]
+  notes: "Богословская тема на примере Кришна-лилы: на расе у Говардханы Кришна, застигнутый гопи, принимает облик Нараяны, гопи кланяются и уходят; перед Радхой две руки исчезают. Шлока «Уджвала-ниламани», Найика-бхеда, 7."
+
+- id: ev-tattva-vraja-associates-in-gaura-lila
+  title: "Спутники Враджа в Гаура-лиле: Нанда — Джаганнатха Мишра, Яшода — Шачи, Баладева — Нитьянанда; бхавы Нитьянанды, Адвайты и преданных"
+  title_en: "The Vraja associates in Gaura-lila: Nanda is Jagannatha Mishra, Yashoda is Shachi, Baladeva is Nityananda; the moods of Nityananda, Advaita and the devotees"
+  period: PX
+  order: 116.3
+  cc: "Ади 17.294–302"
+  cb: ""
+  themes: [teaching]
+  teaching: [associates-tattva, gaura-tattva]
+  notes: "Богословская тема, не эпизод жизни: Нитьянанда — в ватсалье, дасье и сакхье; Адвайта — бхакта-аватара, низведший Кришну, в сакхье и дасье, Господь порой чтит Его как гуру; преданные служат каждый в своей расе, и Господь подвластен им; там Шьяма с флейтой — здесь Гаура, брахман и санньяси."
+
+- id: ev-tattva-acintya-gaura-gopi-bhava
+  title: "Кришна в бхаве гопи — непостижимое противоречие; непостижимое не постигается логикой"
+  title_en: "Krishna in the mood of a gopi — an inconceivable contradiction; the inconceivable is not grasped by logic"
+  period: PX
+  order: 116.4
+  cc: "Ади 17.303–310"
+  cb: ""
+  themes: [teaching]
+  teaching: [gaura-tattva, prema]
+  notes: "Богословская тема, не эпизод жизни: Господь в бхаве гопи зовёт Кришну «владыкой жизни»; такова ачинтья-шакти Кришны; шлока «Бхакти-расамрита-синдху» 2.5.93; вера в дивные лилы Чайтаньи приводит к Его стопам."
