@@ -407,3 +407,34 @@
   cb: ""
   themes: [separation, mercy]
   notes: ""
+
+# --- Антья 13 ---
+- id: ev-jagadananda-bed-banana
+  title: "Постель для Господа: Господь отвергает подстилку Джагадананды и принимает ложе из банановых волокон Сварупы"
+  title_en: "A bed for the Lord: He refuses Jagadananda's quilt and accepts Svarupa's bed of banana fibres"
+  period: P14
+  order: 71.5
+  cc: "Антья 13.3–20"
+  cb: ""
+  themes: [sannyasa, separation]
+  notes: ""
+
+- id: ev-devadasi-gita-govinda-song
+  title: "Господь бежит на пение «Гита-говинды» девадаси; Говинда удерживает Его"
+  title_en: "The Lord runs towards a devadasi singing the Gita-govinda; Govinda holds Him back"
+  period: P14
+  order: 73
+  cc: "Антья 13.78–88"
+  cb: ""
+  themes: [ecstasy, sannyasa]
+  notes: "По пути к храму Ямешвары."
+
+- id: ev-raghunatha-bhatta-first-visit-puri
+  title: "Первый приход Рагхунатхи Бхатты к Господу в Пури (с Рамадасом Вишвасом)"
+  title_en: "Raghunatha Bhatta's first visit to the Lord in Puri (with Ramadasa Vishvasa)"
+  period: P14
+  order: 74
+  cc: "Антья 13.89–117"
+  cb: ""
+  themes: [mercy, prasada, family]
+  notes: "Восемь месяцев с Господом; запрет жениться, служение родителям. Затем — ev-raghunatha-bhatta-sent-vrindavana."
