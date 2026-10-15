@@ -455,7 +455,7 @@ entered into him, as is said in the ‘Gaura-chandrodaya.’” (GGD 147–150) 
 
 She who in Krishna-lila was the daughter of Vrishabhanu, Srimati Radharani, became Gadadhara in Gaura-lila; this is
 confirmed by the notes of Svarupa Damodara and the songs of Vasudeva Ghosha. That is why Pundarika, Vrishabhanu, is his
-guru and the Lord's “father” in the mood of Radha; that is why the Lord called him His consort in Vaikuntha, and in
+guru and the Lord's “father” in the mood of Radha; that is why the Lord said that in Vaikuntha Gadadhara is His consort, and in
 Navadvipa he and Gaura are what Radha and Krishna are in Vrindavana. One biography calls Gadadhara the embodiment of
 hladini, the Lord's pleasure energy. Kavi Karnapura in the “Gaura-ganoddesha” shows the distinction between the two
 Gadadharas: Gadadhara Pandita is the very form (svarupa) of the daughter of Vrishabhanu, while Gadadhara Dasa is the
@@ -469,7 +469,7 @@ Gadadhara's feminine attire in the drama at Chandrashekhara's house is a revelat
 play-acting[^18]. <!-- F49 F108 F34 -->
 
 ## Two Gadadharas
-In the year 1340 of the Bengali era (1933–1934) a pamphlet appeared, “Dasa Gadadhara-tattva.” Its author, posing as an
+In the year 1340 of the Bengali era (1933–1934) a pamphlet appeared, the “Dasa Gadadhara-tattva.” Its author, posing as an
 admirer of Gadadhara Dasa, in a sectarian spirit set Gadadhara Pandita against him. Supposedly the Pandita, having
 studied nyaya, at first did not wish to submit to Dasa Gadadhara, the expounder of the “Bhagavatam”; and, realizing that
 he was being deprived of the taste of Gauranga's pastimes, became a disciple of Pundarika Vidyanidhi — a “branch” in a
