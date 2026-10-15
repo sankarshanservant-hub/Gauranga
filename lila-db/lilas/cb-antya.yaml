@@ -1901,3 +1901,140 @@
   event: ev-gopinatha-prasada-gadadhara
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "112", to: "165"}
+
+# ---------- Антья 8 ----------
+- id: cb-3101
+  source: cb
+  ref: "Антья 8, 1–2, 177–179"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: PX
+  order: 308
+  title: "Мангала и колофон Антья 8"
+  summary: "Слава Кришне Чайтанье, Нитьянанде и преданным: слушание о Господе даёт бхакти; в конце — плоды слушания и подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "1", to: "2"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "177", to: "179"}
+
+- id: cb-3102
+  source: cb
+  ref: "Антья 8, 3–46"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 17
+  title: "Преданные Гауды во главе с Адвайтой идут в Нилачалу на Ратха-ятру"
+  summary: "По наставлению Господа преданные ежегодно приходят на Ратха-ятру; ведомые Адвайтой, с позволения Шачи, с жёнами, детьми и слугами и любимыми яствами Господа, с киртаном идут Шривас, Чандрашекхара, Гангадас, Пундарика Видьянидхи, Вакрешвара, Прадьюмна Брахмачари, Харидас и другой Харидас, Васудева и Мукунда Датты, Шивананда Сена, Говинданда, Говинда Датта, Виджая, Садашива, Пурушоттама Санджая, Шриман, Нандана Ачарья, Шукламбара, Шридхара, Бхагаван Пандит, Гопинатха, Шригарбха, Ванамали, Джагадиш и Хиранья, Буддхиманта Кхан, Пурандара, Рагхава, Мурари, Гаруда Пандит, Гопинатха Симха, Шри Рама с Нараяной, Дамодара Пандит и многие другие; где они останавливаются, там Вайкунтха."
+  persons: ["@advaita", "@srivasa", "@chandrashekhara-acharya", "@gangadasa-pandita", "@pundarika-vidyanidhi", "@vakreshvara", "@nrisimhananda", "@haridasa-thakura", "@vasudeva-datta", "@mukunda-datta", "@shivananda-sena", "@govindananda", "@govinda-datta", "@vijaya-dasa", "@sadashiva-pandita", "@purushottama-sanjaya", "@shriman-pandita", "@nandana-acharya", "@shuklambara", "@shridhara", "@bhagavan-pandita", "@gopinatha-navadvipa", "@shrigarbha", "@vanamali-pandita", "@jagadisha-pandita", "@hiranya-pandita", "@buddhimanta-khan", "@purandara-acharya", "@raghava-pandita", "@murari-gupta", "@garuda-pandita", "@gopinatha-simha", "@srirama-pandita", "@narayana-navadvipa", "@damodara-pandita", "@shachi"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 10–11; Мурари 4.17"
+  notes: "«Другой Харидас, живший на берегу океана» (ст. 13) — тег не поставлен; отождествление тегов Гопинатхи, Нараяны, Джагадиша — условно."
+  themes: [pilgrimage, kirtan, festival]
+  event: ev-gauda-devotees-set-out-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "3", to: "46"}
+
+- id: cb-3103
+  source: cb
+  ref: "Антья 8, 47–101"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 20
+  title: "Встреча у Атхаранала и Нарендра-саровары; гирлянды от Джаганнатхи"
+  summary: "У Камалапура преданные видят флаг храма; Господь, из любви к Адвайте посылавший Ему махапрасад всю дорогу до Каттака («Адвайта — причина Моего нисхождения: Его зов прервал Мой сон в молочном океане»), выходит навстречу с Нитьянандой, Гададхарой и Пури Госвами; у Атхаранала и Нарендра-саровары две группы встречаются, все кланяются всем, не разбирая старших и младших; Адвайта рычит: «Я привёл Тебя!»; по велению Джаганнатхи приносят сандал и тысячи гирлянд — первую Господь надевает на Адвайту, затем Сам на каждого; преданные молят помнить Его стопы в любом рождении; жёны вайшнавов плачут, глядя издали."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@jagannatha-deity"]
+  places: ["#kamalapura", "#narendra-sarovara", "#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 11; Мурари 4.17–4.19.15"
+  notes: "Ст. 56–61 в md отсутствуют."
+  themes: [kirtan, jagannatha, mercy]
+  teaching: [vaishnava]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "47", to: "101"}
+
+- id: cb-3104
+  source: cb
+  ref: "Антья 8, 102–141"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 30
+  title: "Игры в водах Нарендра-саровары с Божествами Баларамы, Кришны и Говинды"
+  summary: "На Нарендра-саровару с пышностью приносят Божества Баларамы, Кришны и Говинды для водных игр, их катают на лодке; спутники Джаганнатхи и Гауры смешиваются в киртане; Господь с преданными прыгает в воду и, встав в круг, они играют в «кайю», как пастушки с Кришной в Ямуне; Господь и Адвайта брызгают водой друг другу в глаза, Нитьянанда, Гададхара и Пури, Мукунда и Мурари, Пундарика и Сварупа сражаются в воде; майявади-санньяси, не видя этих игр, ворчат: «Зачем Он оставил Веданту ради киртана?»"
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@gadadhara-pandita", "@paramananda-puri", "@mukunda-datta", "@murari-gupta", "@pundarika-vidyanidhi", "@svarupa-damodara", "@balarama", "@krishna"]
+  places: ["#narendra-sarovara", "#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.18.9–25"
+  notes: "Ст. 125–126 в md отсутствуют. Ст. 129–137: игры видимы лишь по милости Господа; бхакти выше знания и аскезы."
+  themes: [festival, krishna-lila, jagannatha]
+  bhava: [krishna]
+  teaching: [bhakti-supremacy]
+  calendar: "Чандана-ятра"
+  event: ev-narendra-jala-keli
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "102", to: "141"}
+
+- id: cb-3105
+  source: cb
+  ref: "Антья 8, 142–153"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 31
+  title: "Даршан Джаганнатхи; Господь, санньяси, кланяется вайшнавам"
+  summary: "После водных игр все идут к Джаганнатхе; Каши Мишра украшает преданных гирляндами Джаганнатхи, и Господь принимает гирлянду с величайшим почтением; лишь Он знает славу вайшнавов, Ганги и махапрасада; хотя все должны кланяться санньяси, Господь, нарушая правило ашрама, Сам кланяется вайшнавам, уча этому мир."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@advaita", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, teaching, sannyasa]
+  bhava: [devotee]
+  teaching: [vaishnava, prasada-teaching]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "142", to: "153"}
+
+- id: cb-3106
+  source: cb
+  ref: "Антья 8, 154–162"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 32
+  title: "Туласи в горшке: «Без неё Я как рыба без воды»"
+  summary: "Господь сажает туласи в глиняный горшок: «Если Я не увижу туласи, Я не смогу жить, как рыба без воды»; идя с джапой, Он велит нести туласи перед Собой и смотрит на неё в слезах; садясь повторять установленное число имён, ставит её перед Собой, а затем её несут впереди Него домой."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, ecstasy]
+  bhava: [devotee]
+  teaching: [holy-name, vaishnava]
+  event: ev-lord-tulasi-pot-japa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "154", to: "162"}
+
+- id: cb-3107
+  source: cb
+  ref: "Антья 8, 163–174"
+  file: "chaitanya-bhagavata/ed/CB_Antya08.md"
+  period: P12
+  order: 33
+  title: "Вайшнавы не рождаются и не умирают: они нисходят с Господом"
+  summary: "Господь возвращается с преданными домой и, как отец, держит их рядом, исполняя их желания; вайшнавы Бенгалии и Нилачалы живут вместе, иные — жители Шветадвипы; Адвайта говорит в слезах: «Этих вайшнавов не видят даже боги — лишь по Твоей милости Я вижу их»; автор: Господь сначала посылает Своих преданных, затем приходит Сам, как Санкаршана, Прадьюмна и Анируддха пришли Лакшманой, Бхаратой и Шатругхной; у вайшнавов нет рождения и кармы — так говорит «Падма-пурана»."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 175–176 в md отсутствуют."
+  themes: [teaching]
+  teaching: [associates-tattva, vaishnava]
+  scriptures: ["Падма-пурана"]
+  event: ev-gauda-devotees-arrive-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "163", to: "174"}
