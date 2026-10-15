@@ -1571,3 +1571,247 @@
   cc: "Антья 7"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "168", to: "169"}
+
+- id: cc-4084
+  source: cc
+  ref: "Антья 8.1–4"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: PX
+  order: 995.16
+  title: "Мангалачарана Антья 8: Господь, страшась укоров Рамачандры Пури, стал есть меньше"
+  summary: "Поклон Чайтанье, Который уменьшил свою еду, опасаясь упрёков Рамачандры Пури; слава Господу — нисхождению милости, Которому служат Брахма и Шива, — и преданным во главе с Шривасой."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@ramachandra-puri", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 8"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "1", to: "4"}
+
+- id: cc-4085
+  source: cc
+  ref: "Антья 8.5–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37
+  title: "Рамачандра Пури приходит в Пури; у Джагадананды он перекармливает хозяина и упрекает его: «последователи Чайтаньи обжоры»"
+  summary: "Санньяси Рамачандра Пури пришёл встретиться с Господом и Парамананда Пури; Господь поклонился ему. Джагадананда пригласил его и угостил прасадом Джаганнатхи; наевшись, Рамачандра Пури сам стал накладывать Джагадананде, а когда тот поел, упрекнул: я слышал, что последователи Чайтаньи переедают; санньяси, не обуздавший язык, нарушает дхарму. Так он поступал всегда: перекармливал, а потом упрекал."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@paramananda-puri", "@jagadananda-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 10 в файле нет (после 9 сразу 11)."
+  themes: [offense, prasada, sannyasa]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "5", to: "15"}
+
+- id: cc-4086
+  source: cc
+  ref: "Антья 8.16–35"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P05
+  order: 0.5
+  title: "Уход Мадхавендры Пури: он отвергает Рамачандру Пури, советовавшего «помнить Брахман», и благословляет служившего ему Ишвару Пури премой; «айи дина-даярдра натха»"
+  summary: "Умирающий Мадхавендра Пури повторял имя и плакал: «Я так и не достиг Матхуры». Рамачандра Пури без стыда наставил его: ты в блаженстве Брахмана — о чём плакать? Мадхавендра в гневе прогнал его: умирая в твоём присутствии, я не достигну цели. Отвергнутый гуру, Рамачандра Пури наполнился мирскими желаниями: сухое знание Брахмана рождает лишь склонность к хуле. Ишвара Пури же своими руками убирал за учителем, пел ему имя и рассказывал о Кришне, и Мадхавендра благословил его премой. Уходя, Мадхавендра повторял шлоку «айи дина-даярдра натха» о разлуке с Владыкой Матхуры; так он посадил семя премы, ставшее древом — Чайтаньей."
+  persons: ["@madhavendra-puri", "@ramachandra-puri", "@ishvara-puri", "@krishna"]
+  places: ["#mathura"]
+  kind: lila
+  authority: A
+  notes: "Время и место ухода в ЧЧ не названы."
+  themes: [departure, separation, offense]
+  teaching: [prema, bhakti-supremacy]
+  cc: "Антья 8"
+  event: ev-madhavendra-puri-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "16", to: "35"}
+
+- id: cc-4087
+  source: cc
+  ref: "Антья 8.36–68"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.1
+  title: "Рамачандра Пури выискивает недостатки Господа; из-за муравьёв он обвиняет Его в любви к сладостям, и Господь сокращает еду наполовину"
+  summary: "Рамачандра Пури, незваным являясь к трапезам, следил, кто сколько ест; он выведывал распорядок Господа, но не нашёл изъяна и придрался: санньяси, едящий сладости, не может обуздать чувства. Господь почитал его как гуру. Однажды, увидев муравьёв, он сказал: тут ночью были сладости — санньяси привязан к чувствам. Господь велел Говинде брать Ему лишь четверть горшка прасада и овощей на пять ганд, иначе Он уйдёт; преданные, словно поражённые молнией, стали поститься. Рамачандра Пури пришёл и с улыбкой сказал, что и сухое отречение против дхармы, приводя «Гиту»."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@govinda-servant", "@kashishvara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 67 в файле нет (после 66 сразу 68)."
+  themes: [offense, prasada, sannyasa]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Бг. 6.16", "Бг. 6.17"]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "36", to: "68"}
+
+- id: cc-4088
+  source: cc
+  ref: "Антья 8.69–93"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.2
+  title: "Парамананда Пури и преданные просят Господа есть как прежде; Господь защищает Рамачандру Пури, но увеличивает порцию до половины; Господь подвластен желаниям близких спутников"
+  summary: "Парамананда Пури сказал: мой духовный брат по природе хулитель — закармливает и упрекает, нарушает запрет шастр осуждать других; зачем Ты постишься из-за него? Господь ответил: в чём его вина, он говорит о дхарме санньяси — не потакать языку; но по мольбам преданных увеличил порцию до половины прежней. Приглашение стоило теперь две паны каури; приглашения Гададхары, Бхагавана Ачарьи и Сарвабхаумы Он принимал всегда, будучи подвластен желаниям спутников. Господь то служил Рамачандре Пури, то не замечал его, как травинку."
+  persons: ["@paramananda-puri", "@mahaprabhu", "@ramachandra-puri", "@gadadhara-pandita", "@bhagavan-acharya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, sannyasa, teaching]
+  teaching: [sannyasa-teaching, vaishnava]
+  scriptures: ["Бхаг. 11.28.1"]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "69", to: "93"}
+
+- id: cc-4089
+  source: cc
+  ref: "Антья 8.94–101"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.3
+  title: "Рамачандра Пури уходит из Пури, и всё возвращается к прежнему; урок: отвергнутый гуру оскорбляет даже Господа; колофон Антья 8"
+  summary: "Пожив в Пури, Рамачандра Пури ушёл по святым местам, и у спутников словно камень упал с плеч; Господь вновь свободно принимал приглашения. Отвергнутый гуру постепенно оскорбляет всех, даже Самого Господа; Господь не видел греха в его поступках, считая его гуру. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@krishnadasa-kaviraja"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [offense, author]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "94", to: "101"}
+
+- id: cc-4090
+  source: cc
+  ref: "Антья 9.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: PX
+  order: 995.17
+  title: "Мангалачарана Антья 9"
+  summary: "Слава бесчисленным спутникам Чайтаньи, орошающим потоком премы иссохшие сердца; слава Чайтанье, Нитьянанде, милостивому к падшим, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "1", to: "3"}
+
+- id: cc-4091
+  source: cc
+  ref: "Антья 9.4–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 100.1
+  title: "Господь в Пури в волнах разлуки; к Нему в облике людей приходят обитатели всех миров — Прахлада, Бали, Вьяса, Шука"
+  summary: "Господь, внутри и снаружи охваченный разлукой с Кришной, днём пел и плясал перед Джаганнатхой, а ночью вкушал расы с Раманандой и Сварупой. Под видом людей к Нему приходили обитатели высших и низших миров, асуры и наги, жители девяти кханд и семи двип; Прахлада, Бали, Вьяса и Шука лишались чувств от премы. Толпы шумели у Его дома, и Он выходил и призывал всех петь имя Кришны."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@prahlada", "@vyasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Общее описание (вступление к главе)."
+  themes: [separation, celestial, kirtan]
+  cc: "Антья 9"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "4", to: "12"}
+
+- id: cc-4092
+  source: cc
+  ref: "Антья 9.13–54"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38
+  title: "Гопинатху Паттанаяка, брата Рамананды, за недоимку царевич хочет сбросить на мечи; Господь отказывается вмешиваться и отсылает преданных к Джаганнатхе; по слову Харичанданы царь отменяет казнь"
+  summary: "Люди сообщили Господу: сын Бхавананды Гопинатха Паттанаяк, сборщик податей Маладжатхья-Дандапата, задолжал казне двести пятьдесят миллионов каури, высмеял царевича, торговавшего его лошадей («мои кони не задирают голову»), и тот велел сбросить его с помоста на мечи; арестован и Ванинатха с семьёй. Господь с недовольством сказал: служащий царю должен сперва отдать долг, а не тратить на танцовщиц; Я санньяси — просить у царя такую милостыню? Ступайте молиться Джаганнатхе. Тем временем Харичандана убедил царя, что казнь бесполезна; царь, не знавший об этом, велел лишь взять лошадей по справедливой цене, и Гопинатху сняли с помоста. Ванинатха же при аресте бесстрашно повторял имя, отмечая счёт на теле, и Господь был доволен."
+  persons: ["@mahaprabhu", "@gopinatha-pattanayaka", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya", "@purushottama-jana", "@harichandana", "@prataparudra", "@svarupa-damodara", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, jagannatha]
+  teaching: [holy-name]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "13", to: "54"}
+
+- id: cc-4093
+  source: cc
+  ref: "Антья 9.55–79"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.1
+  title: "Господь хочет уйти в Алаланатху от мирских тревог; Каши Мишра: чистый преданный служит Тебе ради Твоего счастья, а семья Рамананды прибегла к Тебе, не имея иного прибежища"
+  summary: "Господь сказал Каши Мишре: Я уйду в Алаланатху — семья Бхавананды тратит царские деньги, а потом бежит ко Мне; Я нищий монах, мирские новости тревожат Мой ум. Каши Мишра ответил: кто служит Тебе ради мирского — глупец; ради Тебя Рамананда, Санатана и Рагхунатха всё оставили; Гопинатха не ждёт от Тебя мирского, это друзья его прибежали к Тебе; чистый преданный служит Тебе ради Твоего счастья и, терпя невзгоды, уповает на Твою милость. Останься: Джаганнатха, спасший его сегодня, спасёт и впредь."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@ramananda-raya", "@sanatana-gosvami", "@raghunatha-dasa", "@gopinatha-pattanayaka"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  themes: [teaching, sannyasa]
+  teaching: [bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 10.14.8"]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "55", to: "79"}
+
+- id: cc-4094
+  source: cc
+  ref: "Антья 9.80–115"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.2
+  title: "Пратапарудра, растирая стопы Каши Мишры, узнаёт о намерении Господа уйти и прощает Гопинатхе долг, удваивает ему жалованье и дарует шёлковую накидку"
+  summary: "Царь каждый день растирал стопы Каши Мишры и слушал отчёт о службе Джаганнатхе. Узнав, что Господь хочет уйти в Алаланатху, он опечалился: миг общения с Господом дороже миллионов чинтамани — что мне этот долг? Каши Мишра сказал, что Господь не желает прощения долга, но царь всё равно простил Гопинатхе долг из любви к семье Бхавананды, вернул ему сбор податей, удвоил жалованье и сам надел на него шёлковую накидку, велев идти к Господу. Господь не желал преданному мирских благ — лишь просьба спасти его от смерти дала такой плод."
+  persons: ["@prataparudra", "@kashi-mishra", "@mahaprabhu", "@gopinatha-pattanayaka", "@bhavananda-raya", "@purushottama-jana"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "80", to: "115"}
+
+- id: cc-4095
+  source: cc
+  ref: "Антья 9.116–152"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.3
+  title: "Господь упрекает Каши Мишру, но слышит о смирении царя; Бхавананда с сыновьями благодарит Господа; Гопинатха просит отрешённости, и Господь велит ему не тратить царские деньги"
+  summary: "Господь возмутился: ты вынудил Меня принять помощь царя; Каши Мишра передал слова царя: он прощает долг не ради Господа, а потому что любит сыновей Бхавананды как свою семью и не следил за их тратами — Рамананда в Раджамахендри, Гопинатха тратит до полумиллиарда каури. Господь обрадовался смирению царя. Бхавананда с пятью сыновьями поклонился Господу: Ты защитил нас, как Пандавов. Гопинатха в шёлковой накидке сказал: на эшафоте я помнил Твои стопы, и всё мирское — лишь тень этой милости; дай мне отрешённость, как Рамананде и Ванинатхе. Господь ответил: кто будет содержать семью? вы Мои слуги из жизни в жизнь; лишь сперва отдавай долг царю и не трать деньги на греховное. Так Господь, не прося никого, спас Гопинатху."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@prataparudra", "@bhavananda-raya", "@gopinatha-pattanayaka", "@ramananda-raya", "@vaninatha-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [vaishnava]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "116", to: "152"}
+
+- id: cc-4096
+  source: cc
+  ref: "Антья 9.153"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: PX
+  order: 995.18
+  title: "Колофон Антья 9"
+  summary: "Колофон: Кришнадас у стоп Рупы и Рагхунатхи рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "153", to: "153"}

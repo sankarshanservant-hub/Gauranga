@@ -319,3 +319,38 @@
   themes: [mercy, teaching]
   teaching: [associates-tattva, prema]
   notes: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; «Гададхара-прананатха»."
+
+# --- Антья 8 ---
+- id: ev-madhavendra-puri-departure
+  title: "Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури"
+  title_en: "Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri"
+  period: P05
+  order: 0.5
+  date_conf: оценка
+  cc: "Антья 8.16–35"
+  cb: ""
+  themes: [departure, separation, offense]
+  teaching: [prema]
+  notes: "Шлока «айи дина-даярдра натха»; время и место в ЧЧ не названы (до встречи Господа с Ишварой Пури)."
+
+- id: ev-ramachandra-puri-criticism
+  title: "Рамачандра Пури в Пури осуждает Господа, и Господь сокращает еду"
+  title_en: "Ramachandra Puri in Puri criticises the Lord, and the Lord reduces His eating"
+  period: P14
+  order: 37
+  cc: "Антья 8"
+  cb: ""
+  themes: [offense, prasada, sannyasa]
+  teaching: [sannyasa-teaching]
+  notes: "Муравьи и «любовь к сладостям»; Парамананда Пури и преданные упрашивают Господа есть хотя бы половину прежнего."
+
+# --- Антья 9 ---
+- id: ev-gopinatha-pattanayaka-pardoned
+  title: "Спасение Гопинатхи Паттанаяка: казнь отменена, царь прощает долг"
+  title_en: "The rescue of Gopinatha Pattanayaka: the execution cancelled, the king forgives the debt"
+  period: P14
+  order: 38
+  cc: "Антья 9"
+  cb: ""
+  themes: [mercy, jagannatha]
+  notes: "Господь отказывается просить царя и хочет уйти в Алаланатху; Пратапарудра прощает долг, узнав об этом от Каши Мишры."
