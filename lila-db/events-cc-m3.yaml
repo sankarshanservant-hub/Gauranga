@@ -53,3 +53,14 @@
   cc: "Мадхья 19.123–134"
   cb: ""
   themes: [sannyasa, kirtan]
+
+# Мадхья 20 — Санатана в Каши.
+- id: ev-sanatana-bhota-kantha
+  title: "Санатана принимает облик отречённого: бритьё, старое дхоти и обмен дорогого одеяла на ветхую накидку"
+  title_en: "Sanatana takes the renunciant's guise: shaving, an old dhoti and exchanging a costly blanket for a worn cloth"
+  period: P13
+  order: 184.7
+  cc: "Мадхья 20.67–93"
+  cb: ""
+  themes: [sannyasa]
+  teaching: [sannyasa-teaching]
