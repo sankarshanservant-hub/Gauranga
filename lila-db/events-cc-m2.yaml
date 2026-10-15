@@ -121,3 +121,76 @@
   cb: ""
   themes: [jagannatha, festival]
   notes: "ЧЧ Мадхья 14.248–253: Рамананда Васу и Сатьяраджа Хан ежегодно привозят верёвки («обитель Ананта-Шеши»); ср. ev-kulinagrama-glory."
+
+- id: ev-advaita-worships-lord-tulasi
+  title: "Адвайта поклоняется Господу, а Господь — Адвайте остатками туласи"
+  title_en: "Advaita worships the Lord, and the Lord worships Advaita with the remnants of tulasi"
+  period: P12
+  order: 77
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [pranks, deities]
+  notes: "ЧЧ Мадхья 15.7–12: «кем бы Ты ни был, Тебе поклоняюсь»; приглашения Адвайты автор отсылает к Вриндавану Дасу."
+
+- id: ev-vijaya-dashami-hanuman-lanka
+  title: "Виджая-дашами: Господь в бхаве Ханумана рушит «Ланку»"
+  title_en: "Vijaya-dashami: in Hanuman's mood the Lord storms 'Lanka'"
+  period: P12
+  order: 79
+  calendar: "Виджая-дашами"
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [festival, ecstasy]
+  notes: "ЧЧ Мадхья 15.32–36; там же упомянуты Раса-ятра, Дипавали и Уттхана-двадаши."
+
+- id: ev-lord-eats-shachi-offering
+  title: "Господь незримо вкушает подношение Шачи"
+  title_en: "The Lord invisibly eats Shachi's offering"
+  period: P12
+  order: 79.5
+  calendar: "Виджая-дашами"
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [family, separation, revelation]
+  notes: "ЧЧ Мадхья 15.47–66: рассказ Господа Шривасе с поручением передать Шачи прасад и просьбу о прощении. Ср. ev-avirbhava-four-places."
+
+- id: ev-raghava-pandita-seva-glory
+  title: "Слава служения Рагхавы Пандита: кокосы для Кришны"
+  title_en: "The glory of Raghava Pandita's service: coconuts for Krishna"
+  period: P12
+  order: 90.2
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [prasada, deities]
+  notes: "ЧЧ Мадхья 15.68–92: Господь описывает преданным чистоту его подношений; кокосы, коснувшиеся притолоки, выброшены."
+
+- id: ev-satyaraja-vaishnava-question
+  title: "Вопросы Сатьяраджи Хана: путь грихастхи и признаки вайшнава"
+  title_en: "Satyaraja Khan's questions: the path of a householder and the marks of a Vaishnava"
+  period: P12
+  order: 95.5
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [teaching]
+  teaching: [holy-name, vaishnava]
+  notes: "ЧЧ Мадхья 15.102–111 (первый год: «тот, кто хоть раз произнёс имя Кришны»); продолжение вопросов — в следующие годы (Мадхья 16)."
+
+- id: ev-farewell-gauda-devotees-instructions
+  title: "Прощание с бенгальскими преданными: поручения каждому"
+  title_en: "Farewell to the Bengali devotees: instructions to each"
+  period: P12
+  order: 89
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [separation, teaching]
+  notes: "ЧЧ Мадхья 15.39–183: сводное событие для поручений, не выделенных в отдельные события (Сарвабхаума и Вачаспати — Джаганнатха и Ганга; прощание; Гададхара в Ямешваре). Отдельно: ev-nityananda-sent-to-gauda, ev-lord-eats-shachi-offering, ev-raghava-pandita-seva-glory, ev-kulinagrama-glory, ev-satyaraja-vaishnava-question, ev-mukunda-dasa-peacock, ev-vasudeva-datta-prayer."
+
+- id: ev-murari-test-rama-devotion
+  title: "Испытание верности Мурари Гупты Раме"
+  title_en: "The test of Murari Gupta's fidelity to Rama"
+  period: P07
+  order: 104.5
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "ЧЧ Мадхья 15.137–157 (рассказ Господа в Пури): Мурари не может оставить Рагхунатху; «ты — Хануман». Ср. ev-murari-ramadasa."

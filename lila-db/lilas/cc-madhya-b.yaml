@@ -1392,3 +1392,350 @@
   cc: "Мадхья 14"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "255", to: "257"}
+
+# ---------------- Мадхья 15 ----------------
+
+- id: cc-2074
+  source: cc
+  ref: "Мадхья 15.1–3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: PX
+  order: 996
+  title: "Мангалачарана Мадхья 15: на пиру у Сарвабхаумы Господь принял оскорбителя Амогху"
+  summary: "На пиру в доме Сарвабхаумы Господь принял Своего оскорбителя Амогху, показав, как дороги Ему Его преданные; слава Чайтанье, Нитьянанде, Адвайте, преданным и слушателям «Чайтанья-чаритамриты»."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@amogha", "@sarvabhauma", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 15"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "1", to: "3"}
+
+- id: cc-2075
+  source: cc
+  ref: "Мадхья 15.4–14"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 77
+  title: "Распорядок дня Господа в Пури; Адвайта поклоняется Господу, а Господь — Адвайте остатками туласи"
+  summary: "Утром Господь видел Джаганнатху, пел и танцевал, во время подношения шёл к Харидасу, а дома воспевал имя. Адвайта приходил и совершал Ему пуджу — вода, сандал, гирлянда, туласи и молитвы, — а Господь оставшимися листьями туласи поклонялся Адвайте мантрой «кем бы Ты ни был, Тебе поклоняюсь» и смешил Его звуками ртом. Адвайта снова и снова приглашал Господа; об этом подробно написал Вриндаван Дас, поэтому автор рассказывает о приглашениях других преданных."
+  persons: ["@mahaprabhu", "@advaita", "@haridasa-thakura", "@jagannatha-deity", "@vrindavana-dasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [pranks, prasada, jagannatha]
+  cc: "Мадхья 15"
+  event: ev-advaita-worships-lord-tulasi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "4", to: "14"}
+
+- id: cc-2076
+  source: cc
+  ref: "Мадхья 15.15–16"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 78
+  title: "Четыре месяца дождей: Господь каждый день на трапезе у кого-либо из преданных"
+  summary: "День за днём Господь со спутниками обедал у одного из преданных; так все провели четыре месяца сезона дождей, видя праздники храма Джаганнатхи."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, festival]
+  calendar: "чатурмасья"
+  cc: "Мадхья 15"
+  event: ev-chaturmasya-puri-invitations
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "15", to: "16"}
+
+- id: cc-2077
+  source: cc
+  ref: "Мадхья 15.17–31"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 78.5
+  title: "Нанда-махотсава: Господь в наряде пастушка с горшками молока и йогурта; вращение посоха; Канаи Кхутия и Джаганнатха Махити — Нанда и Яшода"
+  summary: "На праздник явления Кришны Господь с преданными пришёл в наряде пастушков, неся на плечах горшки с молоком и йогуртом и восклицая «Хари!». Канаи Кхутия был Нандой, Джаганнатха Махити — Яшодой; присутствовали царь, Каши Мишра, Сарвабхаума и Туласи-падичха. Все плясали, обливаясь молоком, йогуртом и водой с куркумой. На шутку Адвайты: «Ты пастушок, только если умеешь крутить посох» — Господь так искусно вращал посох, что тот казался огненным кругом; крутил его и Нитьянанда. По велению царя головы Господа и преданных повязали тканью с Джаганнатхи; «Нанда» и «Яшода» раздали всё своё добро, и Господь почтил их как отца и мать."
+  persons: ["@mahaprabhu", "@kanai-khutiya", "@jagannatha-mahiti", "@prataparudra", "@kashi-mishra", "@sarvabhauma", "@tulasi-mishra", "@advaita", "@nityananda", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, krishna-lila, pranks]
+  bhava: [sakha]
+  calendar: "Джанмаштами — Нанда-махотсава"
+  cc: "Мадхья 15"
+  event: ev-gopa-vesha-dadhi-utsava
+  notes: "Туласи Падичха-патра (распорядитель храма) отнесён к @tulasi-mishra условно."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "17", to: "31"}
+
+- id: cc-2078
+  source: cc
+  ref: "Мадхья 15.32–36"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 79
+  title: "Виджая-дашами: Господь в бхаве Ханумана крушит «Ланку»; Раса-ятра, Дипавали, Уттхана-двадаши"
+  summary: "В день победы над Ланкой Господь с преданными оделись воинами-ванарами; в бхаве Ханумана Он с огромной ветвью рушил стены крепости, гневно крича: «Где злодей Равана, похитивший Ситу, мать мира?» — и все восклицали «Джая!». Так Господь участвовал во всех праздниках — Раса-ятре, Дипавали, Уттхана-двадаши."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, ecstasy]
+  calendar: "Виджая-дашами; Раса-ятра; Дипавали; Уттхана-двадаши"
+  cc: "Мадхья 15"
+  event: ev-vijaya-dashami-hanuman-lanka
+  notes: "Бхава Ханумана в реестре бхав отсутствует (bhava не указан)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "32", to: "36"}
+
+- id: cc-2079
+  source: cc
+  ref: "Мадхья 15.37–44"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 90
+  title: "Тайная беседа с Нитьянандой; прощание с бенгальцами; Адвайте — дарить бхакти даже низшим, Нитьянанде — проповедовать в Гауде"
+  summary: "Господь долго беседовал с Нитьянандой наедине; смысл беседы стал ясен позже. Затем Он простился с преданными, велев приходить каждый год к уборке Гундичи; Адвайте поручил даровать Кришна-бхакти всем, вплоть до низкорождённых, а Нитьянанде — идти в Гауду и безгранично являть силу премы и бхакти, дав Ему в помощь Рамадаса, Гададхару и других: «Порой Я незримо буду приходить смотреть Твой танец»."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@abhirama", "@gadadhara-dasa"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching, separation]
+  cc: "Мадхья 15"
+  event: ev-nityananda-sent-to-gauda
+  notes: "Рамадас — @abhirama, Гададхара — @gadadhara-dasa (спутники Нитьянанды; по ЧЧ Ади 11)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "37", to: "44"}
+
+- id: cc-2080
+  source: cc
+  ref: "Мадхья 15.45–67"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 90.1
+  title: "Поручение Шривасе: прасад и ткань для Шачи, просьба о прощении; Господь незримо съел подношение Шачи в Виджая-дашами"
+  summary: "Обняв Шривасу, Господь сказал: Он будет каждый день незримо танцевать в его доме на киртане. Он передал Шачи махапрасад и ткань с поклоном и просьбой простить: оставив служение матери ради санньясы, Он отступил от дхармы; её любовь — Его сокровище, и Он живёт в Пури по её наказу, но каждый день приходит к её стопам. В Виджая-дашами Шачи плакала над подношением для Нимая, и Он пришёл и всё съел; она в изумлении гадала, не привиделось ли ей, снова приготовила — и Он снова съел. «Спроси её и подтверди, что Я действительно приходил». Господь был глубоко взволнован."
+  persons: ["@mahaprabhu", "@srivasa", "@shachi", "@ishana-navadvipa"]
+  places: ["#puri", "#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [family, separation, revelation, prasada]
+  calendar: "Виджая-дашами"
+  cc: "Мадхья 15"
+  event: ev-lord-eats-shachi-offering
+  notes: "В нашем файле ст. 54–55 отсутствуют. Ср. ev-avirbhava-four-places (ЧЧ Антья 2)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "45", to: "67"}
+
+- id: cc-2081
+  source: cc
+  ref: "Мадхья 15.68–92"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 90.2
+  title: "Господь прославляет служение Рагхавы Пандита: кокосы, отброшенные за то, что коснулись притолоки"
+  summary: "Господь сказал Рагхаве Пандиту: «Твоя чистая любовь покорила Меня», — и описал преданным его служение: при сотнях своих пальм он ищет за десятки вёрст самые сладкие кокосы и платит за них огромные деньги; охлаждает, очищает и подносит Кришне, а Кришна порой выпивает их до дна и съедает мякоть. Когда слуга коснулся притолоки, на которую садится пыль от ног прохожих, а потом кокосов, Рагхава выбросил их за ограду. Так же он отбирает лучшие плоды, готовит блюда, соления, благовония, ткани и украшения — это услада для глаз."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@krishna"]
+  places: ["#panihati", "#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, deities]
+  teaching: [purity, vaishnava]
+  cc: "Мадхья 15"
+  event: ev-raghava-pandita-seva-glory
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "68", to: "92"}
+
+- id: cc-2082
+  source: cc
+  ref: "Мадхья 15.93–101"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 95
+  title: "Шивананде — опекать Васудеву Датту и вести паломников; Кулинаграме — верёвки; «Даже собаки вашей деревни Мне дороги»"
+  summary: "Шивананде Сену Господь поручил заботиться о делах щедрого Васудевы Датты, тратящего всё, что заработает (семьянину нужно иметь сбережения), и каждый год водить преданных к уборке Гундичи. Жителям Кулинаграмы велел привозить шёлковые верёвки и сказал: слова Гунараджи Хана в «Шри Кришна-виджае» — «Кришна, сын Нанды, — владыка моей жизни» — сделали Его должником его потомков; даже собаки их деревни Ему дороги."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@vasudeva-datta", "@gunaraja-khan", "@ramananda-vasu", "@satyaraja-khan"]
+  places: ["#puri", "#kulinagrama"]
+  kind: lila
+  authority: A
+  themes: [mercy, family]
+  teaching: [vaishnava]
+  cc: "Мадхья 15"
+  event: ev-kulinagrama-glory
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "93", to: "101"}
+
+- id: cc-2083
+  source: cc
+  ref: "Мадхья 15.102–111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 95.5
+  title: "Вопрос Сатьяраджи: путь грихастхи и признак вайшнава — «тот, кто хоть раз произнёс имя Кришны»"
+  summary: "Рамананда Васу и Сатьяраджа Хан спросили, каков путь погружённого в мирское семьянина; Господь ответил: служить Кришне и вайшнавам и всегда совершать Кришна-санкиртану. На вопрос, как узнать вайшнава, Он сказал: тот, кто хоть раз произнёс имя Кришны, — лучший из людей и достоин почтения; одно имя без оскорблений уничтожает все грехи и делает совершенными девять видов бхакти, не требуя ни посвящения, ни обрядов, спасает даже низшего и пробуждает прему (Падьявали 29)."
+  persons: ["@ramananda-vasu", "@satyaraja-khan", "@mahaprabhu"]
+  places: ["#puri", "#kulinagrama"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [holy-name, vaishnava]
+  scriptures: ["Падьявали, 29"]
+  cc: "Мадхья 15"
+  event: ev-satyaraja-vaishnava-question
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "102", to: "111"}
+
+- id: cc-2084
+  source: cc
+  ref: "Мадхья 15.112–132"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 95.7
+  title: "Жители Кханды: «Рагхунандана — мой отец»; Мукунда Дас падает при виде павлиньего опахала; кадамба у храма Рагхунанданы; наставления троим"
+  summary: "Господь спросил Мукунду Даса, кто кому отец — он Рагхунанданы или тот его; Мукунда ответил: Рагхунандана — его отец, ибо через него все обрели бхакти; Господь подтвердил: гуру — тот, от кого приходит Кришна-бхакти. Он рассказал: Мукунда, придворный лекарь мусульманского царя, при виде опахала из павлиньих перьев в преме упал с высокого сиденья; царь сам привёл его в чувство, и Мукунда сослался на падучую, но мудрый царь понял, что он — чистая душа. У храма, где служит Рагхунандана, у пруда круглый год цветёт кадамба, давая по два цветка для Кришны. Наставление: Мукунде — умножать дхарму и достаток, Рагхунандане — служить Кришне, Нарахари — оставаться с преданными."
+  persons: ["@mahaprabhu", "@mukunda-dasa", "@raghunandana", "@narahari-sarakara", "@gauda-sultan", "@krishna"]
+  places: ["#shrikhanda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy, muslims]
+  teaching: [vaishnava]
+  cc: "Мадхья 15"
+  event: ev-mukunda-dasa-peacock
+  notes: "«Мусульманский царь» отнесён к @gauda-sultan по традиционному толкованию (в тексте лишь «царь»). Ст. 112–117 (Рагхунандана — «отец») — отдельная тема, включена сюда."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "112", to: "132"}
+
+- id: cc-2085
+  source: cc
+  ref: "Мадхья 15.133–136"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 95.8
+  title: "Сарвабхауме и Видья-Вачаспати: Кришна в облике дерева — Джаганнатха — и в облике воды — Ганга"
+  summary: "Господь сказал братьям Сарвабхауме и Видья-Вачаспати: Кришна являет Себя в двух обликах — деревянном (Джаганнатха) и водном (Ганга), и, видя Его и омываясь в Нём, существа освобождаются; Сарвабхаума пусть служит Джаганнатхе, а Вачаспати — Ганге."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@vidya-vachaspati", "@jagannatha-deity", "@ganga-devi"]
+  places: ["#puri", "#ganga"]
+  kind: teaching
+  authority: A
+  themes: [teaching, jagannatha]
+  cc: "Мадхья 15"
+  event: ev-farewell-gauda-devotees-instructions
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "133", to: "136"}
+
+- id: cc-2086
+  source: cc
+  ref: "Мадхья 15.137–157"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P07
+  order: 104.5
+  title: "Испытание Мурари Гупты: Господь уговаривает его оставить Раму ради Кришны, но Мурари не может оставить стоп Рагхунатхи"
+  summary: "Обняв Мурари, Господь рассказал: когда-то Он вновь и вновь убеждал его поклоняться Кришне — источнику всех аватар, обители сладости и всех рас; Мурари согласился, но всю ночь плакал, не в силах оставить Раму, а утром молил: «Я продал себя стопам Рагхунатхи; оставить их — что отрубить себе голову; позволь мне умереть». Господь обнял его: Он испытывал его верность — такова подлинная любовь слуги, и Мурари — Сам Хануман, слуга Рамы."
+  persons: ["@mahaprabhu", "@murari-gupta", "@rama", "@krishna"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Мадхья 15"
+  event: ev-murari-test-rama-devotion
+  notes: "Рассказ Господа в Пури о прошлом (в Навадвипе). Ср. ev-murari-ramadasa (Мурари 2.7)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "137", to: "157"}
+
+- id: cc-2087
+  source: cc
+  ref: "Мадхья 15.158–180"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 88
+  title: "Молитва Васудевы Датты взять на себя грехи всех существ; ответ Господа: «Ты — Прахлада; Кришне не нужно, чтобы ты страдал»"
+  summary: "Прославленный Господом Васудева Датта, смущённый, молил: пусть грехи всех душ перейдут на него и он один вечно страдает в аду, а они освободятся. Господь, со слезами и дрожью, ответил: Васудева — Сам Прахлада; Кришна исполняет любое желание Своих преданных, и по одному его желанию все души освободятся без чьих-либо страданий; Кришна всемогущ и сжигает карму предавшихся (Брахма-самхита). Освобождение вселенной — для Кришны как упавший плод с дерева или горчичное зерно: бесчисленные вселенные — малость перед Его достоянием (Бхаг. 10.87.14)."
+  persons: ["@vasudeva-datta", "@mahaprabhu", "@prahlada", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [vaishnava, maya]
+  scriptures: ["Брахма-самхита, 5.54", "Бхаг. 10.87.14"]
+  cc: "Мадхья 15"
+  event: ev-vasudeva-datta-prayer
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "158", to: "180"}
+
+- id: cc-2088
+  source: cc
+  ref: "Мадхья 15.181–183"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 96
+  title: "Прощание: преданные уходят в Гауду в слезах; Гададхара Пандит остаётся при Господе в Ямешваре"
+  summary: "Прославив всех, Господь обнял каждого; преданные рыдали, и Господь тоже печалился о разлуке. Гададхара Пандит остался с Господом и по Его настоянию поселился в Ямешваре."
+  persons: ["@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation]
+  cc: "Мадхья 15"
+  event: ev-farewell-gauda-devotees-instructions
+  notes: "В нашем файле ст. 184–185 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "181", to: "183"}
+
+- id: cc-2089
+  source: cc
+  ref: "Мадхья 15.186–243"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 84
+  title: "Сарвабхаума уговаривает Господа принять приглашение на пять дней; пир у Сарвабхаумы и Шатхира-маты"
+  summary: "Когда бенгальцы ушли, Сарвабхаума просил Господа обедать у него месяц, но Господь, ссылаясь на дхарму санньяси, сократил срок до пяти дней; остальных санньяси Сарвабхаума звал отдельно, а Господа — одного или со Сварупой. Он и его жена Шатхира-мата, любившая Господа по-матерински, приготовили огромное угощение бенгальских и орийских блюд и поднесли Нараяне-шалаграме. Господь дивился, что всё готово за шесть часов и вкушено Радхой-Кришной, и не хотел садиться на асану Кришны; Сарвабхаума возразил: и пища, и асана — милость Кришны (Бхаг. 11.6.46), и шутливо напомнил, сколько Господь ест в Пури, Двараке, Вриндаване и на Говардхана-пудже."
+  persons: ["@sarvabhauma", "@mahaprabhu", "@shathira-mata", "@paramananda-puri", "@svarupa-damodara", "@radha", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, sannyasa]
+  teaching: [prasada-teaching, sannyasa-teaching]
+  scriptures: ["Бхаг. 11.6.46"]
+  cc: "Мадхья 15"
+  event: ev-amogha-cholera
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "186", to: "243"}
+
+- id: cc-2090
+  source: cc
+  ref: "Мадхья 15.244–296"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: P12
+  order: 85
+  title: "Амогха хулит Господа за обилие еды, заболевает холерой; Господь исцеляет его, и тот становится преданным"
+  summary: "Зять Сарвабхаумы Амогха, хулитель, проскользнул внутрь и сказал: «Еды на дюжину человек — для одного санньяси!»; Сарвабхаума с палкой погнался за ним, а Шатхира-мата прокляла его. Господь сказал: «Он прав, в чём твоя вина?» Сарвабхаума отрёкся от зятя и велел дочери оставить падшего мужа; ночью Амогха бежал и заболел холерой — «оскорбление великих приносит плоды сразу». Господь пришёл к нему, положил руку на грудь: «Сердце брахмана — трон Кришны; зависть осквернила его, но общение с Сарвабхаумой очистило; вставай и повторяй имя Кришны!» Амогха вскочил, запел «Кришна!» и плясал в преме, бил себя по щекам, моля о прощении; Господь сказал: всё в доме Сарвабхаумы, даже собаки, Ему дорого. Он упросил Сарвабхауму простить «ребёнка» и прервать пост, и Амогха стал непоколебимо предан Господу."
+  persons: ["@amogha", "@sarvabhauma", "@shathira-mata", "@shathi", "@mahaprabhu", "@gopinatha-acharya", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [offense, mercy, prasada]
+  teaching: [holy-name, vaishnava]
+  cc: "Мадхья 15"
+  event: ev-amogha-cholera
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "244", to: "296"}
+
+- id: cc-2091
+  source: cc
+  ref: "Мадхья 15.297–302"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md"
+  period: PX
+  order: 996.1
+  title: "Колофон Мадхья 15"
+  summary: "Так в доме Сарвабхаумы Господь явил лилу принятия прасада, прославил его любовь и любовь Шатхира-маты и по милости простил Амогху ради его родства с преданными; слушающий с верой скоро достигнет стоп Господа. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa", "@sarvabhauma", "@shathira-mata", "@amogha"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 15"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "297", to: "302"}
