@@ -1463,3 +1463,105 @@
   teaching: [associates-tattva, gaura-tattva]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya10.md", from: "299", to: "321"}
+
+# ---------- Мадхья 11. Игры Нитьянанды в настроении дитяти ----------
+
+- id: cb-1076
+  source: cb
+  ref: "Мадхья 11, 1–30"
+  file: "chaitanya-bhagavata/ed/CB_Madhya11.md"
+  period: P07
+  order: 109.7
+  title: "Нитьянанда-дитя у Шривасы; Господь укоряет Его за проказы"
+  summary: "После мангалы: Шриваса за свою искренность увидел махапракашу; у Малини, не имевшей молока, оно появилось для Нитьянанды; Господь говорит: «Не проказничай в доме Шривасы — Ты разбрасываешь еду»; Нитьянанда: «Не мерь Меня по Себе — Ты Сам ешь рис, а Мне не даёшь!» — и смеётся, а затем, забывшись, остаётся без одежды; Господь Сам одевает Его — лишь Его слово, как железный крюк, удерживает этого безумного льва; Малини кормит Его, как сына."
+  persons: ["@nityananda", "@mahaprabhu", "@malini", "@srivasa", "@gadadhara-pandita", "@haridasa-thakura", "@paramananda-puri", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 7–8, 21–22 в издании нет."
+  themes: [pranks, family]
+  bhava: [child]
+  event: ev-nityananda-child-malini
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya11.md", from: "1", to: "30"}
+
+- id: cb-1077
+  source: cb
+  ref: "Мадхья 11, 31–64"
+  file: "chaitanya-bhagavata/ed/CB_Madhya11.md"
+  period: P07
+  order: 109.75
+  title: "Ворона и горшочек Малини"
+  summary: "Ворона уносит у Малини медный горшочек, и та безутешно плачет; Нитьянанда улыбается: «Эй, ворона, верни горшочек!» — и ворона приносит его; Малини теряет сознание и славит Его: «Как Лакшмана, Ты охранял Ситу, не поднимая глаз от её стоп, и сразил Равану; Ямуна молилась Твоим стопам»; Нитьянанда, как дитя, просит есть, и у Малини течёт молоко; автор: кто называет Нитьянанду йогом, кто философом, — я храню в сердце Его стопы."
+  persons: ["@nityananda", "@malini"]
+  places: ["#house-srivasa"]
+  kind: miracle
+  authority: A
+  notes: "Ст. 34–35, 46–49 в издании нет. Ст. 63: резкость автора к хулителям Нитьянанды — так у автора."
+  themes: [pranks, revelation]
+  bhava: [child]
+  teaching: [associates-tattva]
+  event: ev-crow-ghee-pot-malini
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya11.md", from: "31", to: "64"}
+
+- id: cb-1078
+  source: cb
+  ref: "Мадхья 11, 65–99"
+  file: "chaitanya-bhagavata/ed/CB_Madhya11.md"
+  period: P07
+  order: 109.8
+  title: "Нитьянанда в доме Господа: ответы невпопад; сандеши Шачи"
+  summary: "Господь сидит с Лакшми (Вишнуприей), принимая бетель, на радость Шачи; входит нагой Нитьянанда и на все слова Господа отвечает невпопад — «Сегодня же пойду», «Я был там уже десять раз», — пока Господь Сам не одевает Его; Шачи видит в Нём Вишварупу; Он съедает один сандеш из пяти, а четыре выбрасывает, и Шачи находит их в комнате, а Он уже ест их: «Видя, что ты огорчилась, Я взял их снова»; Шачи: «Я знаю — Ты Верховный Господь, сними с меня покров иллюзии»; автор: даже Ганга бежит от оскорбителя Нитьянанды-Ананты."
+  persons: ["@nityananda", "@mahaprabhu", "@vishnupriya", "@shachi", "@vishvarupa", "@padmavati"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [pranks, revelation, family]
+  bhava: [child]
+  teaching: [associates-tattva]
+  event: ev-nityananda-sandesh-shachi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya11.md", from: "65", to: "99"}
+
+# ---------- Мадхья 12. Каупина Нитьянанды; вода с Его стоп ----------
+
+- id: cb-1079
+  source: cb
+  ref: "Мадхья 12, 1–31"
+  file: "chaitanya-bhagavata/ed/CB_Madhya12.md"
+  period: P07
+  order: 115
+  title: "Господь одевает Нитьянанду, славит Его и раздаёт куски Его каупины"
+  summary: "Нитьянанда, как дитя, бесстрашно плавает среди крокодилов в Ганге в настроении Ананты, по три-четыре дня лежит без чувств; однажды нагой предстаёт перед Господом, рыча: «Мой Владыка — Нимай Пандит из Надии!»; Господь обматывает Его тканью со Своей головы, умащает сандалом, надевает гирлянду и славит: «Ты — нитья-ананда, проявление Баларамы; где Ты, там Кришна»; Он разрывает каупину Нитьянанды на лоскуты и раздаёт вайшнавам: «Повяжите на голову и чтите дома — её жаждут и йоги; по милости Нитьянанды обретается Вишну-бхакти»."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#house-jagannatha-mishra", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.10.7–9; Лочан, Мадхья-кханда, «Встреча с Адвайтой и Харидасом» 70–80; Карнапура (ЧКМ) 7.53–57"
+  themes: [mercy, revelation]
+  bhava: [child]
+  teaching: [associates-tattva]
+  event: ev-nityananda-kaupina
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya12.md", from: "1", to: "31"}
+
+- id: cb-1080
+  source: cb
+  ref: "Мадхья 12, 32–63"
+  file: "chaitanya-bhagavata/ed/CB_Madhya12.md"
+  period: P07
+  order: 117
+  title: "Преданные пьют воду со стоп Нитьянанды; пляска двух Господ"
+  summary: "Господь велит: «Испейте воду, омывшую стопы Нитьянанды, — она укрепляет в преданности Кришне»; преданные пьют по пять и по десять раз, пьянеют от блаженства, пляшут, катаются и рычат, а Нитьянанда смеётся, словно не понимая; Господь и Нитьянанда весь день пляшут в объятиях, и земля качается под Его стопами; хлопнув трижды в ладоши, Господь говорит: «Кришна не оставит того, кого коснулся хотя бы ветерок от тела Нитьянанды»."
+  persons: ["@mahaprabhu", "@nityananda", "@vrindavana-dasa"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.10.18–23; Лочан, Мадхья-кханда, «Игры с преданными и спасение Джагая и Мадхая» 1–23; Карнапура (ЧКМ) 7.67–69"
+  notes: "Ст. 39–40, 55–57 в издании нет."
+  themes: [kirtan, ecstasy, mercy]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-nityananda-foot-water
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya12.md", from: "32", to: "63"}
