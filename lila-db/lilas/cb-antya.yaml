@@ -2038,3 +2038,196 @@
   event: ev-gauda-devotees-arrive-puri
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya08.md", from: "163", to: "174"}
+
+# ---------- Антья 9 ----------
+- id: cb-3108
+  source: cb
+  ref: "Антья 9, 1–2, 393–394"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: PX
+  order: 309
+  title: "Мангала и колофон Антья 9"
+  summary: "Слава Кришне Чайтанье, супругу Рамы и вечному Владыке вайшнавов; в конце — плоды слушания и подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "1", to: "2"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "393", to: "394"}
+
+- id: cb-3109
+  source: cb
+  ref: "Антья 9, 3–11"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 44
+  title: "Жёны вайшнавов готовят любимые блюда Господа"
+  summary: "Преданные, зная, что Господь любит с детства, готовят это и зовут Его; жёны вайшнавов — проявления Лакшми, со слезами и именем Кришны на устах — стряпают блюда, которые Он любил в Навадвипе, и Господь с любовью ест в домах преданных."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada]
+  event: ev-advaita-feeds-lord-alone-indra-storm
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "3", to: "11"}
+
+- id: cb-3110
+  source: cb
+  ref: "Антья 9, 12–88"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 45
+  title: "Буря Индры: Адвайта кормит Господа одного"
+  summary: "Господь принимает приглашение Адвайты: «Твой рис — Моя жизнь, Кришна ест всё, что Ты готовишь»; Адвайта с женой готовит десять видов шака и думает: «Если Он придёт с санньяси, то съест мало — хорошо бы Он пришёл один»; Индра насылает внезапную бурю с градом, санньяси блуждают во тьме, а у Адвайты лишь лёгкий дождь; Господь приходит один, ест всё — шак, йогурт, сандеш; Адвайта славит Индру: «Сегодня ты купил Меня»; Господь раскрывает: «Буря — по Твоей воле; даже Кришна не отвергнет Твоей просьбы»; Адвайта: «Моя сила — лишь от преданности Тебе; не покидай Меня»; автор: Чайтанья и Адвайта — как Хари и Хара."
+  persons: ["@mahaprabhu", "@advaita", "@sita-thakurani", "@indra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 75–76 в md отсутствуют. «Мать Кришнадаса» (ст. 25) — Сита Тхакурани (Кришнадас — Кришна Мишра, сын Адвайты)."
+  themes: [prasada, celestial, pranks]
+  teaching: [associates-tattva]
+  event: ev-advaita-feeds-lord-alone-indra-storm
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "12", to: "88"}
+
+- id: cb-3111
+  source: cb
+  ref: "Антья 9, 89–115"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 50
+  title: "Дамодара Пандит: «Твоя бхакти — от милости матери»"
+  summary: "Вернувшись от Шачи, Дамодара Пандит на вопрос Господа «Предана ли Моя мать Вишну?» гневно отвечает: «Что Ты говоришь? Вся Твоя бхакти — по её милости; она — олицетворение вишну-бхакти, а Ты спрашиваешь, будто не знаешь»; Господь обнимает его: «Ты купил Меня — Я покорён её любовью и всегда вижу её»; автор: Господь спрашивал ради урока миру — спросить о благе значит спросить о бхакти: с бхакти всё хорошо, без неё всё дурно, и бедняк с бхакти богаче всех."
+  persons: ["@mahaprabhu", "@damodara-pandita", "@shachi"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.20.1–4"
+  notes: "Ст. 98–99 в md отсутствуют."
+  themes: [family, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-damodara-shachi-devotion
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "89", to: "115"}
+
+- id: cb-3112
+  source: cb
+  ref: "Антья 9, 116–129"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 51
+  title: "«Лакшешвара» — тот, кто повторяет сто тысяч имён"
+  summary: "На приглашения Господь с улыбкой отвечает: «Я ем лишь у лакшешвары»; брахманы в отчаянии — у них нет и тысячи; Господь объясняет: лакшешвара — тот, кто ежедневно повторяет сто тысяч святых имён; обрадованные, все начинают повторять по сто тысяч; Господь учит держаться общества тех, в ком есть бхакти, и не смотрит в лицо не славящим бхакти."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, kirtan]
+  teaching: [holy-name]
+  event: ev-lakshesvara-hundred-thousand-names
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "116", to: "129"}
+
+- id: cb-3113
+  source: cb
+  ref: "Антья 9, 130–156"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 52
+  title: "Кешава Бхарати: «Бхакти выше гьяны»"
+  summary: "Господь спрашивает Своего гуру Кешаву Бхарати: «Что выше — гьяна или бхакти?»; подумав, тот отвечает: «Бхакти; санньяси, говорящие иначе, не знают заключения махаджан — Брахма молит быть слугой хоть в теле животного, Нанда и пастухи молят о любви к Кришне в любом рождении; путь махаджан — путь бхакти»; Господь в экстазе кричит «Хари!»: «Скажи ты, что гьяна выше, — Я сегодня вошёл бы в океан»; Он обнимает стопы гуру: «Без бесед о бхакти отказ от шикхи и шнура тщетен»."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@brahma", "@nanda"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 137–138 в md отсутствуют."
+  themes: [teaching, sannyasa]
+  teaching: [bhakti-supremacy, sannyasa-teaching]
+  scriptures: ["Махабхарата, Вана-парва 313.117", "Бхаг. 10.14.30", "Бхаг. 10.47.67"]
+  event: ev-keshava-bharati-bhakti-above-jnana
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "130", to: "156"}
+
+- id: cb-3114
+  source: cb
+  ref: "Антья 9, 157–234"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 40
+  title: "Адвайта велит славить Гауру; Шривас «закрывает солнце рукой»"
+  summary: "Адвайта говорит преданным: «Сегодня славим лишь Чайтанью — источник всех аватар», танцует и поёт Свою песнь: «Слава Гаурасундару, океану милости, Владыке Вриндавана, новому Пурандаре Навадвипы»; преданные, хоть и боятся гнева Господа, поют «Джая Шачинандана, Гаура-Нараяна!»; Господь, всегда называющий Себя лишь слугой Кришны, смущается, уходит и ложится; на Его упрёк Шривас отвечает: «Мы говорили, что Господь вдохновил», — и, показав жест, будто закрывает солнце руками: «Тебя не скрыть»; в тот же миг тысячи паломников из Трипуры, Читтагонга и Бенгалии за дверью поют славу Кришна Чайтанье; Господь: «Пандит, Я побеждён тобой»."
+  persons: ["@advaita", "@mahaprabhu", "@srivasa", "@govinda-servant", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.19.16–26"
+  notes: "Ст. 222–223, 232–233 в md отсутствуют. Ст. 229–230: Нитьянанда, Адвайта и великие преданные провозгласили Чайтанью Верховным Господом; называющий Кришной кого-то другого — несчастен."
+  themes: [kirtan, revelation]
+  bhava: [devotee]
+  teaching: [gaura-tattva]
+  event: ev-advaita-gaura-kirtan
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "157", to: "234"}
+
+- id: cb-3115
+  source: cb
+  ref: "Антья 9, 235–275"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P14
+  order: 7
+  title: "Рупа и Сакара Маллик у Господа; «Припадите к стопам Адвайты»"
+  summary: "Рупа и Сакара Маллик падают ниц издали с травой во рту: «Ты освобождаешь мир — почему не нас? Ты обманул нас, сделав министрами царя; дай нам жить под деревом с Твоим именем и доедать остатки в доме Твоего слуги»; Господь: «Вы удачливы — разорвали узы дома; чтобы обрести прему, припадите к стопам Адвайты — Он хранит сокровищницу бхакти»; Адвайта: «Хранитель раздаёт лишь по велению хозяина» — и по слову Господа благословляет их премой; Господь велит им побыть в Нилачале, а затем идти в Матхуру и дать бхакти людям Запада."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu", "@advaita", "@jagannatha-deity"]
+  places: ["#puri", "#mathura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Антья 1, 4 (иначе)"
+  divergence: "По ЧЧ Рупа и Санатана приходят в Пури порознь (Антья 1 и 4), после встреч в Праяге и Каши; по ЧБ — вместе, и Господь отсылает их в Матхуру после благословения Адвайты."
+  notes: "Ст. 272–273, 276–279 в md отсутствуют. Сакара Маллик — Санатана."
+  themes: [mercy, teaching]
+  teaching: [associates-tattva, sannyasa-teaching]
+  event: ev-rupa-sanatana-puri-advaita-blessing
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "235", to: "275"}
+
+- id: cb-3116
+  source: cb
+  ref: "Антья 9, 280–307"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P12
+  order: 53
+  title: "«Шука по сравнению с Надой — дитя»"
+  summary: "Господь спрашивает Шриваса: «Какого класса вайшнав Адвайта?»; тот отвечает: «Как Шукадева или Прахлада»; Господь в гневе шлёпает его, как отец сына, и с палкой гонится за ним: «Шука — дитя рядом с Моим Надой!»; Адвайта удерживает Его руку: «Отец учит детей из сострадания — кто достоин Твоего гнева?»; Господь утихает: «Лишь из-за Адвайты Я пришёл — Его зов пробудил Меня в молочном океане»; Шривас, радуясь славе Адвайты, просит прощения, и все трое снова садятся вместе."
+  persons: ["@mahaprabhu", "@srivasa", "@advaita", "@shukadeva", "@prahlada"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 304–305 в md отсутствуют."
+  themes: [teaching, offense]
+  teaching: [associates-tattva]
+  event: ev-srivasa-compares-advaita-to-shuka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "280", to: "307"}
+
+- id: cb-3117
+  source: cb
+  ref: "Антья 9, 310–392"
+  file: "chaitanya-bhagavata/ed/CB_Antya09.md"
+  period: P00
+  order: 920
+  title: "Рассказ «Бхагаваты»: Бхригу испытывает Брахму, Шиву и Вишну"
+  summary: "Чтобы показать, что качества вайшнавов непостижимы, автор пересказывает «Бхагавату»: мудрецы на Сарасвати посылают Бхригу узнать, кто высший; Брахма, которому сын не поклонился, вспыхивает гневом; Шива, которого Бхригу отверг как «повелителя духов», хватает трезубец, но Парвати удерживает его; Вишну, получив удар ногой в грудь, с Лакшми омывает стопы Бхригу и просит прощения, храня след его стопы рядом со Шриватсой; Бхригу в преме провозглашает: «Нараяна — высший, Кришна — Отец всего»; автор: Кришна Сам вошёл в Бхригу, чтобы явить славу бхакти; великого вайшнава понять можно лишь по милости Кришны — потому следует всех почитать и быть смиренным."
+  persons: ["@bhrigu", "@brahma", "@shiva", "@parvati", "@narayana", "@lakshmi"]
+  places: ["#brahmaloka", "#kailasa", "#vaikuntha"]
+  kind: pre-advent
+  authority: A
+  notes: "Ст. 373–374 в md отсутствуют. Ст. 375: Чайтанья — тот же Кришна, наслаждающийся санкиртаной. Гнев Брахмы и Шивы — ради славы Кришны (ст. 385)."
+  themes: [teaching, celestial]
+  teaching: [vaishnava, bhakti-supremacy]
+  scriptures: ["Бхаг. 10.89.1–19"]
+  event: ev-bhrigu-tests-trimurti
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "310", to: "392"}
