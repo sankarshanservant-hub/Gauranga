@@ -249,3 +249,195 @@
   event: ev-first-kirtan-with-students
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "403", to: "424"}
+
+# ---------- Мадхья 2. Начало Шри Кришна-санкиртаны (продолжение) ----------
+
+- id: cb-1014
+  source: cb
+  ref: "Мадхья 2, 1–32"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 15
+  title: "Сон Адвайты о «Гите»: Вишвамбхар объясняет стих"
+  summary: "После мангалы: преданные рассказывают Адвайте о преме Нимая, и Адвайта понимает, что пришёл Господь; Он рассказывает: накануне, не поняв стих «Гиты», Он лёг без ужина, и во сне Некто велел Ему поесть, объяснил смысл и предсказал, что имя Кришны будет звучать в каждом доме, а в доме Шривасы вайшнавы вкусят недоступное Брахме, — открыв глаза, Адвайта увидел Вишвамбхара; Он вспоминает, как маленький Вишвамбхар приходил за Вишварупой, и велит преданным идти в дом этого брахмана."
+  persons: ["@advaita", "@mahaprabhu", "@vishvarupa", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: A
+  parallels: "«Адвайта-пракаша» 14"
+  notes: "Ст. 6: истина об Адвайте трудна для понимания — Он то открывает, то скрывает Себя. Ст. 12–14 в издании нет."
+  themes: [revelation, kirtan]
+  bhava: [aishvarya]
+  teaching: [associates-tattva]
+  event: ev-advaita-gita-dream
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "1", to: "32"}
+
+- id: cb-1015
+  source: cb
+  ref: "Мадхья 2, 33–84"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 38
+  title: "Господь служит вайшнавам у Ганги; их благословения и печаль о безбожии"
+  summary: "По пути к Ганге Господь кланяется Шривасе и другим, а они благословляют Его: «Поклоняйся Кришне»; Господь отвечает: «Кришна милостив к тем, кто служит Его слугам», — и выжимает их мокрые одежды, носит глину, траву куша и корзины цветов; автор: ради преданных Кришна оставляет даже беспристрастность (Дурьодхана, Сатьябхама); вайшнавы жалуются, что учителя Надии немы к бхакти, и Господь, решив вскоре открыть Себя, просит: «Считайте Меня своим слугой»."
+  persons: ["@mahaprabhu", "@srivasa", "@satyabhama"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy]
+  bhava: [devotee]
+  teaching: [vaishnava]
+  event: ev-lord-serves-vaishnavas
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "33", to: "84"}
+
+- id: cb-1016
+  source: cb
+  ref: "Мадхья 2, 85–125"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 39
+  title: "«Я — Он!»; Шачи тревожится, Шриваса: «Хорошее у Тебя безумие»"
+  summary: "Узнав о страданиях преданных, Господь в настроении Вишну грозит безбожникам и восклицает «Я — Он!», смеётся, плачет, падает; Шачи думает, что это болезнь, соседи советуют связать Его, поить кокосовым соком и мазать голову маслом; придя по зову Шачи, Шриваса видит, как Господь, обходя туласи, при виде вайшнава лишается чувств, и говорит: «Это высшая према — я бы и сам хотел такого безумия»; Господь обнимает его: «Скажи ты, что Я болен, — Я бы утопился в Ганге»; Шриваса успокаивает Шачи и велит не рассказывать посторонним."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Ст. 87–88: порыв ударить Вишнуприю — проявление настроения Вишну (так у автора), не мирской гнев."
+  themes: [ecstasy, family]
+  bhava: [aishvarya, devotee]
+  event: ev-shrivasa-good-madness
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "85", to: "125"}
+
+- id: cb-1017
+  source: cb
+  ref: "Мадхья 2, 126–158"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 92
+  title: "Господь с Гададхарой у Адвайты: «Вор пойман»"
+  summary: "Господь с Гададхарой приходит к Адвайте, который с водой Ганги и туласи поклоняется Кришне, ревя, как лев; увидев Его, Господь падает без чувств, а Адвайта, поняв, что перед Ним Владыка, поклоняется Его стопам предметами пуджи со шлокой «намо брахманья-девайа»; Гададхара удивлён: «Не подобает старшему так чтить юношу», — Адвайта: «Однажды узнаешь, кто Он»; очнувшись, Господь, скрывая Себя, молит Адвайту о милости; Адвайта уходит в Шантипур испытать: «Если Он — Мой Господин, Он привяжет Меня любовью»."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@advaita"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.5.1–19; Лочан, Мадхья-кханда"
+  divergence: "По Мурари Господь посещает Адвайту в Шантипуре; по ЧБ — у Адвайты в Навадвипе, откуда Адвайта затем уходит в Шантипур."
+  themes: [revelation, deities]
+  bhava: [devotee]
+  teaching: [associates-tattva]
+  scriptures: ["Вишну-пур. 1.19.65"]
+  event: ev-visit-advaita
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "126", to: "158"}
+
+- id: cb-1018
+  source: cb
+  ref: "Мадхья 2, 159–201"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 39.5
+  title: "Ежедневный киртан; рассказ о юноше с флейтой в Канаи-Натшале"
+  summary: "Каждый день Господь поёт с вайшнавами; Его дрожь не удержать и сотне людей, слёзы — как реки, тело то застывает колонной, то мягко, как масло; преданные гадают — частица Господа, Шукадева, Прахлада или Сам Кришна; Господь со шлокой «Кришна-карнамриты» открывает близким сердечную боль: на обратном пути из Гаи в Канаи-Натшале Его обнял тёмный юноша с флейтой и павлиньим пером и исчез; с тех пор Он спрашивает каждого вайшнава «Где Кришна?», а преданные просят Его вести их киртан."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#navadvipa", "#kanai-natashala"]
+  kind: vision
+  authority: A
+  themes: [separation, ecstasy, kirtan]
+  bhava: [devotee, radha]
+  scriptures: ["Кришна-карнамрита 41"]
+  event: ev-kanai-natashala-vision-after-gaya
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "159", to: "201"}
+
+- id: cb-1019
+  source: cb
+  ref: "Мадхья 2, 202–214"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 39.7
+  title: "Гададхара: «Кришна в Твоём сердце»"
+  summary: "Гададхара приносит Господу бетель; «Где тёмный Кришна в жёлтых одеждах?» — спрашивает Господь; «Он всегда в Твоём сердце», — отвечает Гададхара, и Господь начинает раздирать ногтями грудь; Гададхара удерживает Его за руки: «Потерпи, Кришна сейчас придёт»; Шачи, боящаяся подойти к сыну, просит Гададхару всегда быть подле Него и уже не может считать Его обычным человеком."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@shachi"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [separation, ecstasy, family]
+  bhava: [radha]
+  event: ev-gadadhara-krishna-in-heart
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "202", to: "214"}
+
+- id: cb-1020
+  source: cb
+  ref: "Мадхья 2, 215–224"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 40
+  title: "Мукунда поёт в доме Господа: ночь киртана"
+  summary: "Вечером в доме Вишвамбхара собираются преданные; Мукунда своим сладким голосом поёт стихи о бхакти, Господь восклицает «Харибол!» и падает, являя все признаки премы, и ночь пролетает как миг; так начинается санкиртана, и громкие «Харибол!» будят безбожников."
+  persons: ["@mahaprabhu", "@mukunda-datta"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  event: ev-associates-gather
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "215", to: "224"}
+
+- id: cb-1021
+  source: cb
+  ref: "Мадхья 2, 225–243"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 39.8
+  title: "Хула безбожников; слух о царских лодках"
+  summary: "Разбуженные киртаном атеисты ругаются: «Безумцы мешают спать; за всем стоит Шриваса — четверо братьев кричат имена ради пропитания; разве не лучше повторять имя в уме?»; один уверяет, что царь послал две лодки схватить причастных к киртану, и предлагает сбросить дом Шривасы в Гангу; преданные, помня Говинду, не боятся, но простодушный Шриваса тревожится, и Господь решает открыться."
+  persons: ["@srivasa", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [offense, kirtan, muslims]
+  event: ev-rumour-king-boats-shrivasa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "225", to: "243"}
+
+- id: cb-1022
+  source: cb
+  ref: "Мадхья 2, 245–340"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: P07
+  order: 39.9
+  title: "Явление Шривасе в четырёхруком облике; молитва Шривасы; Нараяни плачет, повторяя имя"
+  summary: "Бесстрашно пройдя по городу к Ганге и увидев коров, Господь возвещает «Я — Нанда-нандана!», бьёт ногой в дверь комнаты, где Шриваса поклоняется Нрисимхе, и является четырёхруким в позе героя: «Твой киртан и зов Нары привели Меня с Вайкунтхи»; Шриваса славит Его молитвой Брахмы и своими стихами; вся семья и слуги поклоняются Его стопам; Господь обещает: если царь решит схватить Шривасу, Он заставит царя, слонов и птиц плакать, повторяя имя Кришны, — и по Его слову четырёхлетняя Нараяни плачет, восклицая «О Кришна!»; Господь велит хранить тайну."
+  persons: ["@mahaprabhu", "@srivasa", "@narayani", "@malini", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 264–265: «Нара» — Адвайта. Ст. 333–334: как Кришна родился у Васудевы, а играл у Нанды, так Господь, явившись у Джаганнатхи Мишры, играл в доме Шривасы. Ст. 283: слова Шривасы об «иллюзорной энергии» Господа — йогамайя, скрывающая Его от близких."
+  themes: [revelation, mercy, muslims]
+  bhava: [aishvarya, krishna]
+  teaching: [vaishnava, gaura-tattva]
+  scriptures: ["Бхаг. 10.14.1"]
+  event: ev-shrivasa-sees-chaturbhuja
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "245", to: "340"}
+
+- id: cb-1023
+  source: cb
+  ref: "Мадхья 2, 341–347"
+  file: "chaitanya-bhagavata/ed/CB_Madhya02.md"
+  period: PX
+  order: 172
+  title: "Колофон: Нитьянанда — Баларама"
+  summary: "Слушающий молитвы Шривасы станет слугой Кришны; Баларама в сердце велел автору писать; как Нарасимха и Ядусимха — имена одного Господа, так Нитьянанда и Баларама — одна Личность; далее — год киртанов Мадхья-кханды."
+  persons: ["@vrindavana-dasa", "@nityananda", "@balarama"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya02.md", from: "341", to: "347"}
