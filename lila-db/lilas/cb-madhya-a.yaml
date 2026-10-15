@@ -1,0 +1,251 @@
+# Вриндаван Дас Тхакур, «Шри Чайтанья-бхагавата» — Мадхья-кханда, главы 1–14 (исполнитель cb-m1), по порядку изложения.
+# Текст: chaitanya-bhagavata/ed/CB_MadhyaNN.md (метки «**N.**»). Источник — cb (A). Записи без комментариев.
+# Новые события — lila-db/events-cb-m1.yaml.
+
+# ---------- Мадхья 1. Начало Шри Кришна-санкиртаны ----------
+
+- id: cb-1001
+  source: cb
+  ref: "Мадхья 1, 1–9"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: PX
+  order: 171
+  title: "Мангалачарана Мадхья-кханды"
+  summary: "Поклон Гауре и Нитьянанде — отцам санкиртаны, спутникам и супругам Господа; слава Мадхья-кханды: её повествования — поток нектара, исцеляющий сердце от безбожия."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@advaita", "@jagadananda-pandita", "@vakreshvara", "@kashishvara", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "1", to: "9"}
+
+- id: cb-1002
+  source: cb
+  ref: "Мадхья 1, 10–50"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 5
+  title: "Возвращение из Гаи; слёзы при словах «Падападма-тиртха»"
+  summary: "Надия ликует: родные, Шачи, Лакшми (Вишнуприя) и вайшнавы встречают Господа, Он смиренно приветствует всех; наедине с близкими начинает рассказ о Гае, но при словах «Падападма-тиртха» плачет, дрожит и зовёт Кришну; Он велит Шриману, Садашиве и Мурари прийти наутро в дом Шукламбары, а дома Шачи в недоумении видит, как Он, взывая «Где Кришна?», заливает двор слезами."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya", "@shriman-pandita", "@sadashiva-pandita", "@murari-gupta", "@shuklambara"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.9–10; Мурари 2.1; Лочан, Мадхья-кханда (начало)"
+  notes: "Ст. 19: «Лакшми» — здесь Вишнуприя (вторая супруга; ср. ст. 137)."
+  themes: [ecstasy, family, separation]
+  bhava: [devotee]
+  event: ev-return-navadvipa-welcome
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "10", to: "50"}
+
+- id: cb-1003
+  source: cb
+  ref: "Мадхья 1, 51–77"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 28
+  title: "Шриман Пандит у дерева кунда: «Нимай Пандит стал великим вайшнавом!»"
+  summary: "Во дворе Шривасы растёт неоскудевающее дерево кунда, где преданные каждое утро собирают цветы и беседуют о Кришне; сияющий Шриман рассказывает Гададхаре, Шривасе, Рамаю и другим о слезах Нимая при воспоминании о Падападма-тиртхе: «Я больше не считаю Его простым смертным»; преданные восклицают «Хари!», а Шриваса благословляет: «Да умножит Кришна нашу семью»."
+  persons: ["@shriman-pandita", "@gadadhara-pandita", "@srivasa", "@srirama-pandita", "@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  themes: [revelation, ecstasy]
+  event: ev-shuklambara-house-prema
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "51", to: "77"}
+
+- id: cb-1004
+  source: cb
+  ref: "Мадхья 1, 78–119"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 30
+  title: "Према в доме Шукламбары: «Где Кришна?»; Гададхара в соседней комнате"
+  summary: "В доме Шукламбары на берегу Ганги собираются Садашива, Мурари, Шриман и Шукламбара, Гададхара прячется в соседней комнате; войдя, Господь читает стихи о бхакти, восклицает «Я обрёл Господа — куда Он ушёл?», обхватывает колонну, и та трескается; все падают без чувств; Господь хвалит Гададхару: «С детства ты предан Кришне, а Я растратил жизнь впустую», — и весь день плачет, моля вернуть Ему сына Нанды; преданные гадают, что Он увидел в Гае, и поют киртан."
+  persons: ["@mahaprabhu", "@shuklambara", "@gadadhara-pandita", "@sadashiva-pandita", "@murari-gupta", "@shriman-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 2.1.19–30; Лочан, Мадхья-кханда"
+  notes: "Ст. 99: «Я растратил жизнь впустую» — смирение Господа в настроении преданного."
+  themes: [ecstasy, separation, kirtan]
+  bhava: [devotee]
+  event: ev-shuklambara-house-prema
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "78", to: "119"}
+
+- id: cb-1005
+  source: cb
+  ref: "Мадхья 1, 120–133"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 31
+  title: "Поклон Гангадасу; Господь в доме Мукунды-Санджаи"
+  summary: "Полуочнувшись, Господь идёт к Гангадасу Пандиту и кланяется ему; учитель обнимает Его: «Ученики не хотят иного учителя — завтра же начинай занятия»; окружённый учениками, как луна звёздами, Господь приходит в дом Мукунды-Санджаи, обнимает Пурушоттаму Санджаю, и дом наполняется счастьем."
+  persons: ["@mahaprabhu", "@gangadasa-pandita", "@mukunda-sanjaya", "@purushottama-sanjaya"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [learning, family]
+  event: ev-return-visits-gangadasa-mukunda-sanjaya
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "120", to: "133"}
+
+- id: cb-1006
+  source: cb
+  ref: "Мадхья 1, 134–143"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 11
+  title: "Шачи молит Кришну за сына; бессонные ночи разлуки"
+  summary: "Не понимая перемены в сыне, Шачи молит Гангу, Вишну и Кришну, чтобы Вишвамбхара остался дома в здравом уме; она сажает рядом с Ним Вишнуприю, но Он не замечает её, повторяет шлоки и зовёт «Где Кришна?», так что Вишнуприя в страхе убегает; ночами, опьянённый разлукой, Он не может уснуть, а ученикам говорит только о Кришне."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Джаянанда (мольба Шачи после Гаи)"
+  themes: [separation, family]
+  bhava: [devotee]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "134", to: "143"}
+
+- id: cb-1007
+  source: cb
+  ref: "Мадхья 1, 144–186"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 10
+  title: "Первый урок после Гаи: каждое слово — о Кришне; игры в Ганге"
+  summary: "Ученики открывают книги со словами «Хари!», и Господь в экстазе толкует все сутры и комментарии как говорящие лишь о Кришне: «Имена Кришны — вечная истина; писания без преданности Ему — бремя осла; Он освободил Путану, Агхасуру, Аджамилу»; очнувшись, Он спрашивает, как Он толковал, — ученики не поняли ничего; Господь ведёт их купаться в Гангу, и Ганга-деви незримо ликует волнами, омывая Его."
+  persons: ["@mahaprabhu", "@ganga-devi"]
+  places: ["#navadvipa", "#ganga"]
+  kind: teaching
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.1.8; Лочан, Мадхья-кханда (начало)"
+  themes: [teaching, learning, ecstasy]
+  bhava: [devotee]
+  teaching: [bhakti-supremacy, holy-name, scripture]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "144", to: "186"}
+
+- id: cb-1008
+  source: cb
+  ref: "Мадхья 1, 189–249"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 33
+  title: "Наставление Шачи в настроении Капилы: молитва души в утробе"
+  summary: "За трапезой Шачи спрашивает, что Он читал сегодня; Господь отвечает: истинны лишь писания о преданности Кришне, чандала, воспевающий имя, — не чандала, а грешный брахман — не брахман; как Капила Девахути, Он описывает муки души в утробе и её молитву: «Пусть страдания приходят вновь, лишь бы помнить Тебя», — и забвение после рождения; «Поклоняйся Кришне в обществе преданных»; преданные гадают, не Сам ли Кришна проявился в Нём."
+  persons: ["@mahaprabhu", "@shachi", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 198, 241: Господь говорит «в настроении Капилы»."
+  themes: [teaching, family]
+  teaching: [bhakti-supremacy, vaishnava, maya]
+  scriptures: ["Бхаг. 3.31", "Бхаг. 3.31.32"]
+  event: ev-kapila-bhava-instruction-shachi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "189", to: "249"}
+
+- id: cb-1009
+  source: cb
+  ref: "Мадхья 1, 250–294"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 34
+  title: "«Нараяна в каждой букве»; Гангадас увещевает Нимая; вызов пандитам"
+  summary: "Ученикам Господь объясняет: в каждой букве пребывает Нараяна, алфавит совершенен по взгляду Кришны; смеясь — «доводы безумца», — они жалуются Гангадасу; тот наставляет Нимая: «Твои дед Ниламбара и отец Джаганнатха были учёными — без учёбы не стать брахманом-вайшнавом; учи без собственных толкований»; Господь обещает, что никто не опровергнет Его, и до ночи у ворот, в одежде как у санньяси, толкует и опровергает сутры, сбивая гордость пандитов, идущих к Ганге."
+  persons: ["@mahaprabhu", "@gangadasa-pandita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 283–284 — поклон автора Гангадасу, чьим учеником стал Владыка Вед."
+  themes: [learning, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-gangadasa-admonishes-nimai
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "250", to: "294"}
+
+- id: cb-1010
+  source: cb
+  ref: "Мадхья 1, 295–321"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 35
+  title: "Ратнагарбха Ачарья и шлока «Бхагаваты» о Кришне-танцоре"
+  summary: "У соседнего дома Ратнагарбха Ачарья, друг отца Господа из той же деревни, отец Кришнананды, Дживы и Ядунатхи Кавичандры, читает шлоку о тёмном Кришне в наряде танцора; Господь падает без чувств, катается по земле и просит: «Читай ещё!», обнимает брахмана, и тот, обретя прему, рыдает у Его стоп; Гададхара просит прекратить чтение; очнувшись, Господь спрашивает, не сделал ли Он чего неподобающего, и идёт к Ганге."
+  persons: ["@mahaprabhu", "@ratnagarbha-acharya", "@gadadhara-pandita", "@yadunatha-kavichandra"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Сыновья Ратнагарбхи — Кришнананда, Джива и Ядунатха Кавичандра (ст. 297); отдельных тегов для Кришнананды и Дживы нет. @yadunatha-kavichandra — по реестру поэт Ядунатх Дас Кавичандра; тождество — по совпадению имени."
+  themes: [ecstasy, krishna-lila]
+  bhava: [devotee]
+  teaching: [scripture]
+  scriptures: ["Бхаг. 10.23.22"]
+  event: ev-ratnagarbha-bhagavata-verse
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "295", to: "321"}
+
+- id: cb-1011
+  source: cb
+  ref: "Мадхья 1, 322–370"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 35.5
+  title: "Толкование дхату: корень — энергия Кришны"
+  summary: "На уроке Господь объясняет: «дхату» (корень) — это энергия Кришны в теле каждого; без неё прекрасные цари становятся прахом; поклоняйтесь стопам Кришны, освободившего Агхасуру, Путану и Аджамилу; очнувшись, Он спрашивает, верно ли толковал; ученики: «Всё истинно, но цель нашей учёбы иная; вчера Ты лишился чувств от шлоки «Бхагаваты», люди говорили — это Нараяна; уже десять дней учёба стоит»."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 344: в настроении слуги Господь говорит о Своей же славе."
+  themes: [teaching, learning, ecstasy]
+  bhava: [devotee]
+  teaching: [bhakti-supremacy, holy-name]
+  event: ev-return-from-gaya-teaching
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "322", to: "370"}
+
+- id: cb-1012
+  source: cb
+  ref: "Мадхья 1, 373–402"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 36
+  title: "Господь связывает книги и благословляет учеников"
+  summary: "«Я в каждом слове вижу лишь имена Кришны — учитесь у кого пожелаете», — говорит Господь и со слезами связывает книги; ученики тоже связывают свои: «Чему ещё учиться после Тебя?»; Господь благословляет: «Если Я служил Кришне хоть день, да исполнятся ваши желания; пусть на устах ваших будут имена Кришны; вы — Мои друзья в каждом рождении»; автор склоняется к стопам этих учеников и сожалеет, что не родился в то время."
+  persons: ["@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [learning, mercy]
+  teaching: [holy-name]
+  event: ev-lord-closes-school
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "373", to: "402"}
+
+- id: cb-1013
+  source: cb
+  ref: "Мадхья 1, 403–424"
+  file: "chaitanya-bhagavata/ed/CB_Madhya01.md"
+  period: P07
+  order: 37
+  title: "Первая санкиртана с учениками"
+  summary: "Так кончаются игры учёного и начинается санкиртана: на вопрос учеников, как петь, Господь, хлопая в ладоши, поёт «Хари, Кришна, Ядава, Гопала, Говинда, Рама, Мадхусудана — поклон Тебе», ученики вторят; вкушая сладость Своего имени, Он катается в пыли, на звуки сбегаются жители Надии и вайшнавы; некоторые ученики встают на путь отречения."
+  persons: ["@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17"
+  themes: [kirtan, ecstasy]
+  bhava: [devotee]
+  event: ev-first-kirtan-with-students
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya01.md", from: "403", to: "424"}

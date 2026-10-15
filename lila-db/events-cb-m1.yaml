@@ -1,0 +1,66 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Мадхья-кханда 1–14 (исполнитель cb-m1). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-return-navadvipa-welcome
+  title: "Возвращение из Гаи: встреча с родными; рассказ о Падападма-тиртхе и первые слёзы премы"
+  title_en: "Return from Gaya: welcome by relatives; the account of the Padapadma-tirtha and the first tears of prema"
+  period: P07
+  order: 5
+  cb: "Мадхья 1.10–50"
+  themes: [ecstasy, family]
+  notes: "Родные и вайшнавы встречают Господа; наедине с близкими Он начинает рассказ о Гае и при словах «Падападма-тиртха» плачет, дрожит, теряет самообладание; велит прийти наутро в дом Шукламбары."
+
+- id: ev-return-visits-gangadasa-mukunda-sanjaya
+  title: "После Гаи Господь кланяется Гангадасу и приходит в дом Мукунды-Санджаи"
+  title_en: "After Gaya the Lord bows to Gangadasa and visits the house of Mukunda-Sanjaya"
+  period: P07
+  order: 31
+  cb: "Мадхья 1.120–133"
+  themes: [learning, family]
+  notes: "Гангадас обнимает ученика и велит завтра же вернуться к преподаванию; в доме Мукунды-Санджаи Господь обнимает Пурушоттаму Санджаю."
+
+- id: ev-kapila-bhava-instruction-shachi
+  title: "Господь в настроении Капилы наставляет Шачи: страдания души в утробе и поклонение Кришне"
+  title_en: "In the mood of Kapila the Lord instructs Shachi: the soul's suffering in the womb and worship of Krishna"
+  period: P07
+  order: 33
+  cb: "Мадхья 1.189–241"
+  themes: [teaching, family]
+  notes: "За трапезой Шачи спрашивает, что Он читал; Господь отвечает: истинны лишь писания о бхакти, и, как Капила Девахути, рассказывает о молитве души в утробе (по Бхаг. 3.31)."
+
+- id: ev-gangadasa-admonishes-nimai
+  title: "Гангадас увещевает Нимая не оставлять учёбу; вызов пандитам Надии"
+  title_en: "Gangadasa admonishes Nimai not to abandon scholarship; the challenge to the pandits of Nadia"
+  period: P07
+  order: 34
+  cb: "Мадхья 1.250–294"
+  themes: [learning, teaching]
+  notes: "Ученики жалуются Гангадасу, что Нимай во всём толкует лишь Кришну; Гангадас: «Твои отец и дед не оставили учёбы ради преданности»; Господь обещает: «Никто в Навадвипе не опровергнет Моих толкований», — и до ночи толкует сутры у ворот, бросая вызов пандитам."
+
+- id: ev-ratnagarbha-bhagavata-verse
+  title: "Ратнагарбха Ачарья читает шлоку «Бхагаваты» — Господь падает в преме"
+  title_en: "Ratnagarbha Acharya recites a Bhagavata verse and the Lord falls in prema"
+  period: P07
+  order: 35
+  cb: "Мадхья 1.295–321"
+  themes: [ecstasy, krishna-lila]
+  notes: "Ратнагарбха, друг отца Господа из той же деревни, читает Бхаг. 10.23.22 (Кришна в облике танцора); Господь без чувств, просит «Читай ещё!», обнимает его — и тот обретает прему; Гададхара останавливает чтение."
+
+- id: ev-lord-closes-school
+  title: "Господь прекращает преподавание и связывает книги; благословение ученикам"
+  title_en: "The Lord stops teaching and ties up His books; blessing to the students"
+  period: P07
+  order: 36
+  cb: "Мадхья 1.322–402"
+  themes: [learning, teaching]
+  notes: "Десять дней Господь в каждом корне и сутре видит лишь Кришну; ученики признаются, что учёба остановилась; Господь отпускает их к другим учителям и связывает книги; ученики тоже отказываются учиться у других; Господь благословляет их: «Если Я хоть день служил Кришне…»."
+
+- id: ev-first-kirtan-with-students
+  title: "Первая санкиртана: Господь учит учеников петь «харайе намах кришна ядавайа намах»"
+  title_en: "The first sankirtana: the Lord teaches His students to sing 'haraye namah krishna yadavaya namah'"
+  period: P07
+  order: 37
+  cc: "Ади 17"
+  cb: "Мадхья 1.403–423"
+  themes: [kirtan, ecstasy]
+  notes: "Господь хлопает в ладоши и поёт имена, ученики вторят; Он катается в пыли; на звуки сбегаются жители Надии и вайшнавы. ЧЧ Ади 17 упоминает ту же песню, которой Господь научил учеников."
