@@ -383,3 +383,156 @@
   event: ev-chandrashekhara-drama
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya18.md", from: "226", to: "234"}
+
+# ---------- Мадхья 19. Санньяси в Лалитапуре; наказание Адвайты за прославление гьяны ----------
+
+- id: cb-2021
+  source: cb
+  ref: "Мадхья 19, 1–27"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.6
+  title: "Адвайта решает вызвать гнев Господа и толкует «Йога-Васиштху», прославляя гьяну"
+  summary: "Адвайта страдает, что Господь кланяется Ему и берёт пыль с Его стоп, и решает: «Отрину бхакти — и Господь в гневе забудется и Сам накажет Меня, оттаскав за волосы»; уйдя домой с Харидасом, Он, раскачиваясь от блаженства, толкует «Йога-Васиштху»: бхакти — зеркало, гьяна — глаза, гьяна — суть писаний; Харидас, зная Его, смеётся, а всеведущий Господь понимает Его замысел."
+  persons: ["@advaita", "@haridasa-thakura", "@mahaprabhu"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 12.39–42; Адвайта-пракаша, гл. 14"
+  notes: "Прославление гьяны у Адвайты — игра ради получения наказания Господа, а не Его убеждение (ст. 12–17, 25). Ст. 21–22 в издании пропущены."
+  themes: [teaching, offense]
+  teaching: [bhakti-supremacy, associates-tattva]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "1", to: "27"}
+
+- id: cb-2022
+  source: cb
+  ref: "Мадхья 19, 28–41"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.65
+  title: "Две луны на улицах Навадвипы: боги в смятении; Господь с Нитьянандой идут в Шантипур"
+  summary: "Господь с Нитьянандой гуляет по Навадвипе, как две луны; боги, глядя издалека, принимают свои планеты за Землю, а Землю за рай и гадают: одна луна — отражение? или это Меркурий, сын луны?; Господь говорит: «Пойдём в дом Адвайты в Шантипуре»."
+  persons: ["@mahaprabhu", "@nityananda", "@brahma"]
+  places: ["#navadvipa", "#svarga"]
+  kind: lila
+  authority: A
+  themes: [celestial]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "28", to: "41"}
+
+- id: cb-2023
+  source: cb
+  ref: "Мадхья 19, 42–98"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.7
+  title: "Санньяси-пьяница в Лалитапуре: «нет благословения выше бхакти»"
+  summary: "В Лалитапуре близ Муллука, на берегу Ганги, Господь кланяется грихастхе-санньяси, а тот благословляет Его богатством; Господь возражает: благословлять надо милостью Кришны — всё прочее приходит по карме и отнимается смертью; санньяси сердится, хвастает паломничествами, а Нитьянанда его успокаивает; приглашённые, Они омываются, подносят Кришне плоды и молоко и едят, но санньяси предлагает «ананду», и Нитьянанда поясняет, что это вино; со словами «Вишну, Вишну» Господь уходит, и Оба плывут по Ганге к Адвайте; автор поясняет: Господь милостив даже к пьяницам, но не к хулителям — этот санньяси достигнет совершенства в следующей жизни."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#lalitapura", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Санньяси и его жена по именам не названы. Ст. 47–48, 55–57, 64–67, 86–87 в издании пропущены."
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, maya]
+  event: ev-lalitapura-sannyasi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "42", to: "98"}
+
+- id: cb-2024
+  source: cb
+  ref: "Мадхья 19, 99–115"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: PX
+  order: 203
+  title: "Отступление автора: Господь не дал даршана ведантистам Каши"
+  summary: "Непреданные санньяси не видят Господа: придя в Каши (о чём — в Антья-кханде), Он два месяца тайно жил в ашраме Рамачандры Пури и ушёл за два дня до Вишварупа-кшауры, не дав даршана санньяси-ведантистам, проповедовавшим веданту без бхакти; те, лишённые разума из-за хулы, лишь роптали; Шива не принимает поклонения хулителей; Господь ел в доме пьяницы, но отказал в даршане ведантистам-хулителям."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@shiva"]
+  places: ["#kashi"]
+  kind: author
+  authority: A
+  notes: "Ссылка на эпизод Антья-кханды (Каши, по пути из Вриндавана); «Рамачандра Пури» — так в тексте."
+  themes: [author, offense]
+  teaching: [vaishnava, vedanta, bhakti-supremacy]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "99", to: "115"}
+
+- id: cb-2025
+  source: cb
+  ref: "Мадхья 19, 118–150"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.8
+  title: "Господь бьёт Адвайту, прославляющего гьяну, и возвещает Свою славу"
+  summary: "Плывя по Ганге, Господь гремит: «Нара пробудил Мой сон и привёл Меня, а теперь скрывает славу бхакти — посмотрим, как Он защитит гьяну!»; в доме Адвайты Харидас и Ачьюта кланяются, а Господь, сияя, как миллионы солнц, спрашивает: «Что выше — гьяна или бхакти?»; Адвайта: «Гьяна»; в гневе Господь вытаскивает Его во двор и бьёт Своей рукой, не слыша жены Адвайты, просящей пощадить старика, и, сев у порога, говорит: «Я убил Камсу, поднял Говардхану, обманул Бали, спас Прахладу»."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@haridasa-thakura", "@achyutananda", "@sita-thakurani"]
+  places: ["#ganga", "#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 12.39–42; Адвайта-пракаша, гл. 14"
+  notes: "Жена Адвайты в тексте по имени не названа (Сита — по традиции). Ст. 116–117 в издании пропущены."
+  themes: [revelation, offense]
+  bhava: [aishvarya]
+  teaching: [bhakti-supremacy]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "118", to: "150"}
+
+- id: cb-2026
+  source: cb
+  ref: "Мадхья 19, 151–220"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.85
+  title: "Адвайта ликует от наказания; рассказ о Судакшине; «избегайте оскорблений и воспевайте имя»"
+  summary: "Адвайта пляшет от счастья: «Я получил должное наказание — я не Дурваса и не Бхригу, а Твой слуга, ищущий остатков Твоей пищи»; Господь в слезах обнимает Его и благословляет; Адвайта отвечает: кто почитает Его, но не Гауру, того эта преданность погубит, — как Судакшина, сын царя Каши, чья абхичара против Двараки по воле Сударшаны сожгла его самого, как Сатраджит, Дурьодхана, Хираньякашипу и Равана; Господь подтверждает: оскорбивший Его слугу гибнет, и, подняв руки, возвещает: «Избегайте оскорблений и воспевайте имена Кришны — Я освобожу любого, кто хоть раз произнесёт имя без оскорблений»."
+  persons: ["@advaita", "@mahaprabhu", "@nityananda", "@haridasa-thakura", "@achyutananda", "@sita-thakurani", "@sudarshana", "@shiva", "@durvasa", "@satrajit"]
+  places: ["#shantipura", "#kashi", "#dvaraka"]
+  kind: lila
+  authority: A
+  notes: "Ст. 168–169, 202–203, 207–208 в издании пропущены. Ст. 218: Адвайта не отличен от Господа."
+  themes: [mercy, offense, teaching]
+  teaching: [vaishnava, holy-name, associates-tattva]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "151", to: "220"}
+
+- id: cb-2027
+  source: cb
+  ref: "Мадхья 19, 223–261"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 112.9
+  title: "Трапеза у Адвайты: Нитьянанда разбрасывает рис, Адвайта в шутку бранит Его"
+  summary: "Господь в шутку спрашивает, не был ли Он слишком озорным, и все смеются; называя жену Адвайты матушкой, Он велит приготовить подношение Кришне; после омовения в Ганге три Господа едят вместе, Харидас — у двери; в игривом настроении Нитьянанда разбрасывает рис по комнате, и Адвайта «в гневе» бранит Его — пьяница без касты и гуру, евший у западных людей, погубит всех, — а по сути славит Его; все хохочут и обнимаются: ссора двух рук Господа — лишь часть игр Кришны."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@haridasa-thakura", "@sita-thakurani"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Ст. 260: автор не знает точного хронологического порядка этих лил."
+  themes: [prasada, pranks]
+  teaching: [associates-tattva]
+  event: ev-nityananda-advaita-meal-quarrel
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "223", to: "261"}
+
+- id: cb-2028
+  source: cb
+  ref: "Мадхья 19, 262–274"
+  file: "chaitanya-bhagavata/ed/CB_Madhya19.md"
+  period: P07
+  order: 113
+  title: "Возвращение в Навадвипу с Нитьянандой, Адвайтой и Харидасом"
+  summary: "Погостив несколько дней в Шантипуре, Господь с Нитьянандой, Адвайтой и Харидасом возвращается в Навадвипу; вайшнавы в слезах падают к Его стопам и кланяются Адвайте, ради которого Господь нисшёл; Шачи с невесткой молится Говинде; колофон: Нитьянанда и Баладева — одно лицо."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@haridasa-thakura", "@shachi", "@vishnupriya", "@vrindavana-dasa"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [kirtan]
+  teaching: [associates-tattva]
+  event: ev-advaita-yoga-vasishtha-beating
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya19.md", from: "262", to: "274"}
