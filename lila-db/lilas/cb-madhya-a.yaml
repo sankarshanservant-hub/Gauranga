@@ -942,7 +942,6 @@
   places: ["#navadvipa"]
   kind: lila
   authority: A
-  parallels: "ЧЧ Ади 17"
   themes: [ecstasy, offense]
   teaching: [vaishnava]
   scriptures: ["Бхаг. 3.2.23", "Бхаг. 10.6.35"]
@@ -981,9 +980,187 @@
   places: ["#navadvipa"]
   kind: lila
   authority: A
-  parallels: "ЧЧ Ади 17"
   themes: [mercy, offense]
   teaching: [vaishnava]
   event: ev-gadadhara-initiation-pundarika
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya07.md", from: "148", to: "157"}
+
+# ---------- Мадхья 8. Испытание Шривасы; сон Шачи; начало ночного киртана ----------
+
+- id: cb-1052
+  source: cb
+  ref: "Мадхья 8, 2–27"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 107.5
+  title: "Господь испытывает Шривасу; Нитьянанда-дитя в Надии"
+  summary: "Чтобы испытать Шривасу, Господь говорит: «Зачем держишь в доме авадхуту, чьи род и сословие неизвестны? Выпроводи его, если дорожишь именем семьи»; Шриваса улыбается: «Не испытывай меня — Нитьянанда Твоё собственное тело, я видел это»; Господь с криком обнимает его и поручает ему Нитьянанду; Нитьянанда, как дитя, плывёт по Ганге, играет с детьми, ходит к Гангадасу и Мурари и пытается схватить за стопы Шачи, а та убегает."
+  persons: ["@mahaprabhu", "@srivasa", "@nityananda", "@malini", "@gangadasa-pandita", "@murari-gupta", "@shachi"]
+  places: ["#house-srivasa", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Ст. 15–16, 20–21 в издании нет."
+  themes: [teaching, family]
+  bhava: [child]
+  teaching: [associates-tattva, vaishnava]
+  event: ev-lord-tests-shrivasa-nityananda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "2", to: "27"}
+
+- id: cb-1053
+  source: cb
+  ref: "Мадхья 8, 28–50"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 107.8
+  title: "Сон Шачи: спор с Божествами Кришны и Баларамы"
+  summary: "Шачи рассказывает сыну сон: Он и Нитьянанда, пятилетние, вынесли из алтаря Божества Кришны и Баларамы, и Те гнали Их: «Самозванцы! Этот дом и сладости — Наши»; Нитьянанда: «Время пастушков прошло — настало время брахманов; Я не боюсь вашего Кришны, Мой Господин — Гаурачандра»; все четверо отнимали друг у друга пищу, и Нитьянанда позвал: «Мама, Я голоден»; Господь смеётся: сон благоприятен — половина подношений и впрямь исчезала, и Он подозревал невестку; Вишнуприя улыбается за стеной."
+  persons: ["@shachi", "@mahaprabhu", "@nityananda", "@krishna", "@balarama", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Ади 17 (сутра: Шачи видит двух братьев Рамой и Кришной)"
+  themes: [revelation, deities, family]
+  bhava: [child]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-shachi-dream-krishna-balarama-deities
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "28", to: "50"}
+
+- id: cb-1054
+  source: cb
+  ref: "Мадхья 8, 51–76"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 108
+  title: "Трапеза Нитьянанды у Шачи; видение двух четырёхруких отроков"
+  summary: "Господь зовёт Нитьянанду обедать: «Только не озорничай!» — «Вишну! Вишну! Лишь безумцы неугомонны»; Ишана подаёт воду для стоп, и два Господа едят рядом, как Рама и Лакшмана в доме Каушальи; Шачи, подавая, видит двух нагих четырёхруких отроков — белого и тёмного, с раковиной, диском, булавой и лотосом и с плугом и палицей, — а на груди сына — свою невестку, и падает без чувств; Господь поднимает её, она молча уходит в слезах."
+  persons: ["@mahaprabhu", "@nityananda", "@shachi", "@gadadhara-pandita", "@ishana-navadvipa", "@vishnupriya"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 2.8.18–19; Лочан, Мадхья-кханда, «Встреча с Нитьянандой» 79–90"
+  notes: "Ст. 62–63, 67–68, 73–74 в издании нет."
+  themes: [revelation, prasada, family]
+  bhava: [aishvarya, balarama]
+  event: ev-nityananda-meal-shachi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "51", to: "76"}
+
+- id: cb-1055
+  source: cb
+  ref: "Мадхья 8, 77–95"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 110.5
+  title: "Спутники стекаются в Навадвипу; Господь в образах аватар и в бхавах гопи, Уддхавы, Брахмы"
+  summary: "Спутники, родившиеся в разных краях, собираются в Навадвипе; Господь приходит в дома Гангадаса, Мурари, Ачарьяратны и являет четырёх- и шестирукие облики; преданные видят Его Матсьей, Курмой, Варахой, Ваманой, Нрисимхой; Он плачет в настроении гопи, бывает Уддхавой, Акрурой, Баларамой, Брахмой, Прахладой; Шачи боится, что и этот сын уйдёт, а на её слова Он отвечает лишь «Кришна»."
+  persons: ["@mahaprabhu", "@nityananda", "@gangadasa-pandita", "@murari-gupta", "@chandrashekhara-acharya", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya, gopi, balarama]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "77", to: "95"}
+
+- id: cb-1056
+  source: cb
+  ref: "Мадхья 8, 96–105"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 125
+  title: "Певец Шивы: «Я — тот самый Шанкара!»"
+  summary: "К дверям Господа приходит певец Шивы с барабанчиком и пляшет, прося подаяния; услышав славу Шанкары, Господь принимает его облик со спутанными волосами, вскакивает ему на плечи, трубит в рожок, бьёт в дамару и кричит: «Я — тот самый Шанкара! Пой!»; придя в Себя, кладёт подаяние в его суму; певец, славивший Шиву без оскорблений, получил награду."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17.99–100; Мурари 2.11.13–18; Лочан, Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана» 50–63; Карнапура (ЧКМ) 7.86–90"
+  themes: [revelation, mercy]
+  bhava: [shiva]
+  event: ev-shiva-singer
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "96", to: "105"}
+
+- id: cb-1057
+  source: cb
+  ref: "Мадхья 8, 106–137"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 112.9
+  title: "«Зачем тратим ночи впустую?» — начало ночного киртана"
+  summary: "Господь говорит: «Суть всех мантр — давайте каждую ночь петь имена вместе и освободим мир слушанием имён Кришны»; так каждую ночь в доме Шривасы или Чандрашекхары за закрытыми дверями поют лишь спутники; безбожники, вскакивая с постелей, ругаются: «Пьяницы читают по ночам мантры мадхумати»; Господь падает так, что Шачи закрывает глаза и молит Говинду, чтобы Он не чувствовал боли."
+  persons: ["@mahaprabhu", "@srivasa", "@chandrashekhara-acharya", "@shachi"]
+  places: ["#house-srivasa", "#house-chandrashekhara"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17"
+  notes: "Ст. 112–116, 121–122, 128–129, 131–132 в издании нет."
+  themes: [kirtan, offense]
+  teaching: [holy-name]
+  event: ev-closed-door-kirtan-scoffers
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "106", to: "137"}
+
+- id: cb-1058
+  source: cb
+  ref: "Мадхья 8, 138–228"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 113
+  title: "Пляска Господа в день Хари-васары во дворе Шривасы"
+  summary: "В день Хари-васары с рассвета Господь пляшет во дворе Шривасы, а три группы поют во главе со Шривасой, Мукундой и Говиндой Гхошем; Нитьянанда держит Его за руку, Адвайта тайком берёт пыль со стоп; автор описывает признаки премы: часами плач и смех, «Я победил!», тело то тяжёлое, то лёгкое — преданные носят Его на плечах, жар высушивает сандал, Он поднимает стопы, и преданные «крадут» с них пыль; Он то как дитя, то в изгибе Кришны с флейтой, то со соломинкой в зубах молит о служении; Он зовёт вайшнавов прежними именами — Халадхара, Шива, Шукадева, Нарада, Прахлада, Уддхава; Адвайта посыпает Себя соломой."
+  persons: ["@mahaprabhu", "@srivasa", "@mukunda-datta", "@govinda-ghosha", "@nityananda", "@advaita", "@gadadhara-pandita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 10.8–11; Мурари 2.4.27–32; Карнапура (ЧКМ) 5.119–129"
+  notes: "Ст. 194–197, 206–207, 210–211 в издании нет. Ст. 202–205: оставив Вайкунтху, Гаруду и ложе Ананты, Господь вкушает настроение слуги — автор славит служение выше всех видов счастья."
+  themes: [kirtan, ecstasy, festival]
+  bhava: [devotee, krishna, child]
+  teaching: [bhakti-supremacy]
+  calendar: "Хари-васара (экадаши)"
+  event: ev-dance-shrivasa-house
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "138", to: "228"}
+
+- id: cb-1059
+  source: cb
+  ref: "Мадхья 8, 229–280"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 113.1
+  title: "Толпа у запертых ворот: хула на киртан"
+  summary: "Двери заперты, и тысячи людей у ворот кричат: «Откройте, мы хотим видеть киртан!»; одни говорят, что преданные пьют вино, призывают мантрами пять дев и развлекаются с ними, что киртан навлёк засуху, грозят наутро связать Шривасу и Адвайту и бросить дом Шривасы в реку; одного, кто сказал «они удачливы, а мы нет», прогоняют; автор: даже эти хулители удачливы — они видели лилы Господа или слышали о них; а преданные, опьянённые расой, не слышат, и год пролетает, как миг, словно ночь расы."
+  persons: ["@srivasa", "@advaita", "@nityananda", "@mahaprabhu"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 233–234, 261–262 в издании нет."
+  themes: [offense, kirtan]
+  event: ev-closed-door-kirtan-scoffers
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "229", to: "280"}
+
+- id: cb-1060
+  source: cb
+  ref: "Мадхья 8, 281–326"
+  file: "chaitanya-bhagavata/ed/CB_Madhya08.md"
+  period: P07
+  order: 113.2
+  title: "Господь на симхасане с шалаграмами съедает все подношения"
+  summary: "За три часа до рассвета Господь кладёт на колени шалаграмы с алтаря и садится на симхасану; трон трещит, и Нитьянанда, коснувшись его, входит в него как Ананта; Господь возвещает: «В Кали Я — Кришна, Я — Нараяна, сын Деваки, вы — Мои слуги; несите всё, что есть!» — и ест йогурт, масло, сласти, кокосы, бананы, рисовые хлопья, а под конец камфару и бетель; зовёт «Нара!», и преданные в трепете видят в Нём Высшего Судию; Он предлагает всем благословения, затем падает без чувств, и преданные решают оставить тела, пока Он не встаёт с именем Хари."
+  persons: ["@mahaprabhu", "@nityananda", "@srivasa", "@advaita"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 316: «иллюзорная энергия», скрывающая Господа, — йогамайя."
+  themes: [revelation, prasada]
+  bhava: [aishvarya, krishna]
+  teaching: [gaura-tattva]
+  event: ev-lord-eats-offerings-throne
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya08.md", from: "281", to: "326"}
