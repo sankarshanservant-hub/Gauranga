@@ -241,12 +241,12 @@
   order: 134.95
   title: "Господь задумывает действо: распределение ролей и костюмы"
   summary: "Господь объявляет, что сегодня по всем правилам будет представление, и велит Садашиве и Буддхиманте Хану приготовить костюмы: Гададхара будет Рукмини, Брахмананда — её подругой Супрабхой, Нитьянанда — бабушкой, Харидас — стражем, Шриваса — Нарадой, Шриман — факельщиком; Сам Он будет танцевать в облике шакти Господа и допускает лишь владеющих чувствами, но обещает, что все станут великими йогами и не смутятся; в доме Чандрашекхары собираются преданные, Шачи с невесткой и семьи вайшнавов; Адвайта без костюма пляшет, как шут."
-  persons: ["@mahaprabhu", "@sadashiva-pandita", "@buddhimanta-khan", "@gadadhara-pandita", "@brahmananda-puri", "@nityananda", "@haridasa-thakura", "@srivasa", "@srirama-pandita", "@shriman-pandita", "@advaita", "@chandrashekhara-acharya", "@shachi", "@vishnupriya"]
+  persons: ["@mahaprabhu", "@sadashiva-pandita", "@buddhimanta-khan", "@gadadhara-pandita", "@brahmananda-bharati", "@nityananda", "@haridasa-thakura", "@srivasa", "@srirama-pandita", "@shriman-pandita", "@advaita", "@chandrashekhara-acharya", "@shachi", "@vishnupriya"]
   places: ["#house-chandrashekhara", "#navadvipa"]
   kind: lila
   authority: A
   parallels: "ЧЧ Ади 10.12–13; Мурари 2.15–2.17; Лочан, Мадхья-кханда, «Перед санньясой»; Карнапура (ЧКМ) 11.1–37"
-  notes: "Брахмананда (ст. 9) отождествлён с Брахманандой Пури предположительно; Садашива — вероятно, Садашива Пандит. Ст. 22–23 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  notes: "Брахмананда (ст. 9) предположительно — Брахмананда Бхарати, который по ЧБ Мадхья 28.11–12 был в Навадвипе среди пяти доверенных; Садашива — вероятно, Садашива Пандит. Ст. 22–23 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
   themes: [krishna-lila, kirtan]
   event: ev-chandrashekhara-drama
   verses:
@@ -297,7 +297,7 @@
   order: 134.98
   title: "Танец Гададхары в облике Рамы с «подругой» Брахманандой"
   summary: "Через три часа киртана выходит Гададхара с Брахманандой в роли старой подруги Супрабхи: «Идём в Матхуру»; Харидас, Шриваса и Гангадас шутливо расспрашивают их о мужьях и ночлеге, а Адвайта укоряет: «Чужих жён почитают как мать; потанцуйте — Мой Господь любит танцы»; Гададхара пляшет в облике богини удачи, и река его слёз радует Землю; Господь говорит: «На Вайкунтхе Гададхара — Моя жена»."
-  persons: ["@gadadhara-pandita", "@brahmananda-puri", "@haridasa-thakura", "@srivasa", "@gangadasa-pandita", "@advaita", "@mahaprabhu"]
+  persons: ["@gadadhara-pandita", "@brahmananda-bharati", "@haridasa-thakura", "@srivasa", "@gangadasa-pandita", "@advaita", "@mahaprabhu"]
   places: ["#house-chandrashekhara"]
   kind: lila
   authority: A
@@ -1313,3 +1313,156 @@
   event: ev-lord-consoles-shachi-before-sannyasa
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya27.md", from: "18", to: "52"}
+
+# ---------- Мадхья 28. Уход из Навадвипы и санньяса в Катве ----------
+
+- id: cb-2069
+  source: cb
+  ref: "Мадхья 28, 1–14"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P07
+  order: 152.5
+  calendar: "Макара-санкранти"
+  title: "Господь открывает Нитьянанде: в Макара-санкранти Он примет санньясу у Кешавы Бхарати в Катве"
+  summary: "Наедине Господь говорит Нитьянанде: «Приближается Макара-санкранти — Я уйду из дома; близ Индрани, в деревне Катва, живёт Кешава Бхарати, у него Я приму санньясу; скажи об этом лишь пятерым — Моей матери, Гададхаре, Брахмананде Бхарати, Чандрашекхаре Ачарье и Мукунде»; Нитьянанда передаёт это пятерым."
+  persons: ["@mahaprabhu", "@nityananda", "@keshava-bharati", "@shachi", "@gadadhara-pandita", "@brahmananda-bharati", "@chandrashekhara-acharya", "@mukunda-datta"]
+  places: ["#navadvipa", "#katwa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 11–12 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  divergence: "По ЧЧ и Мурари Кешава Бхарати прежде посещает Навадвипу (ev-keshava-bharati-navadvipa); в ЧБ этого нет."
+  themes: [sannyasa]
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "1", to: "14"}
+
+- id: cb-2070
+  source: cb
+  ref: "Мадхья 28, 15–44"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P07
+  order: 153
+  title: "Последний день дома: гирлянды и наставление «думайте лишь о Кришне»; тыква Шридхары"
+  summary: "В последний день Господь поёт киртан, вечером кланяется Ганге и сидит дома в сандале и гирляндах; несчётные люди приходят с гирляндами, и Он, давая каждому Свою, наставляет: «Если любите Меня, не говорите ни о чём, кроме Кришны — во сне, за едой, в пути»; Шридхара приносит тыкву, другой преданный — молоко, и, чтобы не пропал дар преданного, Господь просит мать сварить их вместе; поужинав, Он засыпает йога-нидрой, а Гададхара и Харидас спят рядом."
+  persons: ["@mahaprabhu", "@shridhara", "@shachi", "@gadadhara-pandita", "@haridasa-thakura"]
+  places: ["#house-jagannatha-mishra", "#ganga", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 43–44 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [teaching, prasada, sannyasa]
+  teaching: [holy-name]
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "15", to: "42"}
+
+- id: cb-2071
+  source: cb
+  ref: "Мадхья 28, 45–65"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P08
+  order: 10
+  title: "Уход в брахма-мухурту: прощание с Шачи у двери"
+  summary: "Шачи не спит и плачет; в брахма-мухурту Господь встаёт, Гададхара просится с Ним, но Он отвечает: «Я независим, такова Моя игра»; Шачи садится у двери, и Господь, взяв её за руки, говорит: «Мне не вернуть тебе долг и за миллион кальп; всё вершит Господь — уйду ли Я сейчас или через десять лет, не скорби; Я позабочусь и о мирских, и о духовных твоих нуждах»; Шачи молчит в слезах, как Земля; Господь кладёт на голову пыль с её стоп, обходит её и уходит."
+  persons: ["@mahaprabhu", "@shachi", "@gadadhara-pandita", "@haridasa-thakura"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  divergence: "В ЧБ о прощании с Вишнуприей не говорится (ср. ev-last-night-vishnupriya у Лочана)."
+  themes: [sannyasa, family, separation]
+  event: ev-leaving-navadvipa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "45", to: "65"}
+
+- id: cb-2072
+  source: cb
+  ref: "Мадхья 28, 66–101"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P08
+  order: 20
+  title: "Плач преданных и всей Навадвипы; Шачи раздаёт вайшнавам имущество Господа"
+  summary: "Утром преданные находят Шачи окаменевшей у двери; она говорит Шривасе: «Достояние Господа принадлежит вайшнавам — разделите его и отпустите меня»; узнав об уходе, Мукунда, Мурари, Шридхара, Гададхара, Гангадас, Шриваса, Чандрашекхара, Харидас падают без чувств и рыдают во дворе; сбегается вся Навадвипа, плачут и прежние хулители: «Мы были грешны и не поняли, кто Он»; кто-то хочет сжечь дом и стать странствующим йогом; змея разлуки ужалила даже завистников — так Господь освобождает всех."
+  persons: ["@shachi", "@srivasa", "@mukunda-datta", "@murari-gupta", "@shridhara", "@gadadhara-pandita", "@gangadasa-pandita", "@chandrashekhara-acharya", "@haridasa-thakura"]
+  places: ["#house-jagannatha-mishra", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 71–72 (сгруппированные) в ed-файле отсутствуют — текст в src/txt."
+  themes: [separation, mercy]
+  event: ev-lament-after-lord-leaves
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "66", to: "101"}
+
+- id: cb-2073
+  source: cb
+  ref: "Мадхья 28, 102–131"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P08
+  order: 38
+  title: "В Катве: Господь просит у Кешавы Бхарати посвящения и танцует; плач собравшихся"
+  summary: "Переплыв Гангу, Господь в тот же день приходит в Кантака-нагар (Катву), куда приходят Нитьянанда, Гададхара, Мукунда, Чандрашекхара и Брахмананда Бхарати; Кешава Бхарати цепенеет от Его сияния, а Господь падает ниц: «Кришна в твоём сердце — дай Мне Кришну»; под пение Мукунды Он танцует, омывая слезами миллионы собравшихся, с соломой в зубах просит всех служить Кришне; люди плачут: как переживут это мать и жена?; Бхарати говорит: «Ты — гуру мира, кто может быть Твоим гуру?» — «Не обманывай Меня, посвяти, чтобы Я стал слугой Кришны»; ночь проходит в беседах о Кришне."
+  persons: ["@mahaprabhu", "@keshava-bharati", "@nityananda", "@gadadhara-pandita", "@mukunda-datta", "@chandrashekhara-acharya", "@brahmananda-bharati"]
+  places: ["#ganga", "#katwa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 3.2; Лочан, Мадхья-кханда; Карнапура"
+  notes: "Ст. 103–104, 129–130 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 103–104: спутники приходят в Катву по просьбе Господа (ср. ev-nityananda-follows-to-katwa)."
+  themes: [sannyasa, ecstasy, separation]
+  bhava: [devotee]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "102", to: "131"}
+
+- id: cb-2074
+  source: cb
+  ref: "Мадхья 28, 132–168"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P08
+  order: 40
+  title: "Обряды санньясы: цирюльник не решается брить; мантра «из сна»; шафрановые одежды"
+  summary: "Утром Господь назначает Чандрашекхару Ачарью Своим представителем для ведических обрядов; окрестные жители несут молоко, йогурт, гхи, дал, ткани; цирюльник плачет и не может коснуться кудрей Господа, все рыдают, плачут и невидимые боги, а Господь под пение Мукунды танцует и кричит «Харибол!», так что голову обривают лишь к концу дня; омывшись в Ганге, Господь говорит Кешаве Бхарати: «Во сне махаджана сказал Мне мантру санньясы — она ли это?» и шепчет её ему на ухо, так делая его Своим учеником, а тот произносит её Господу; в шафране, с дандой и камандалу, Господь затмевает миллионы Камадев — исполняется сказанное в «Вишну-сахасра-наме»."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya", "@keshava-bharati", "@nityananda", "@mukunda-datta", "@vyasa"]
+  places: ["#katwa", "#ganga"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17; Мурари 3.2; Лочан, Мадхья-кханда; Карнапура"
+  notes: "Ст. 155–159: Господь Сам даёт мантру Бхарати — Он гуру мира. Ст. 168 — шлока «Махабхараты» (Вишну-сахасра-нама): «санньяса-крич чхамах шантах…»."
+  themes: [sannyasa, separation]
+  teaching: [sannyasa-teaching, gaura-tattva]
+  scriptures: ["Махабхарата, Анушасана-парва 149 (Вишну-сахасра-нама)"]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "132", to: "168"}
+
+- id: cb-2075
+  source: cb
+  ref: "Мадхья 28, 169–182"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: P08
+  order: 40.5
+  title: "Имя «Шри Кришна Чайтанья»"
+  summary: "Кешава Бхарати думает, что имя «Бхарати» не подходит столь небывалому вайшнаву; Сарасвати нисходит на его язык, и, положив руку на грудь Господа, он говорит: «Ты пробуждаешь мир петь имена Кришны и даёшь всем духовное сознание — Ты будешь Шри Кришна Чайтанья»; звучит «Джая!», льётся цветочный дождь, преданные кланяются Бхарати, и Господь доволен."
+  persons: ["@keshava-bharati", "@mahaprabhu", "@sarasvati-devi"]
+  places: ["#katwa"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, celestial]
+  teaching: [holy-name]
+  event: ev-sannyasa-katwa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "169", to: "182"}
+
+- id: cb-2076
+  source: cb
+  ref: "Мадхья 28, 183–200"
+  file: "chaitanya-bhagavata/ed/CB_Madhya28.md"
+  period: PX
+  order: 208
+  title: "Завершение Мадхья-кханды: источник — Нитьянанда; служить Нитьянанде"
+  summary: "Обо всех играх в Катве знал лишь Нитьянанда, по Его наставлениям автор кратко описал их, а миллионы Вьяс опишут подробно; кто скажет «я слуга Нитьянанды», увидит Господа Чайтанью; желающий переплыть океан рождений должен служить Нитьянанде; автор пишет, как кукла в руках Гаурачандры, и, как птица, летит насколько хватает сил; заключительная шлока-поклон Чайтанья-чандре."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya28.md", from: "183", to: "200"}
