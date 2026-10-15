@@ -1788,3 +1788,116 @@
   teaching: [associates-tattva]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "129", to: "143"}
+
+# ---------- Антья 7 ----------
+- id: cb-3095
+  source: cb
+  ref: "Антья 7, 1–5, 166"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: PX
+  order: 307
+  title: "Мангала Антья 7: слава Гауре и Его спутникам"
+  summary: "Слава Гаурачандре, Нитьянанде — олицетворению служения, Господу, любимому Адвайтой, Шривасом, Гададхарой, Джаганнандой, Парамананда Пури, Сварупой, Вакрешварой, Пундарикой Видьянидхи и привратником Говиндой; в конце — подпись автора."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@jagadananda-pandita", "@paramananda-puri", "@svarupa-damodara", "@vakreshvara", "@pundarika-vidyanidhi", "@govinda-servant"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "1", to: "5"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "166", to: "166"}
+
+- id: cb-3096
+  source: cb
+  ref: "Антья 7, 6–36"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: P14
+  order: 110
+  title: "Нитьянанда приходит в Нилачалу; Господь обходит Его, читая шлоку о Его славе"
+  summary: "С позволения Шачи Нитьянанда со спутниками идёт в Нилачалу, у Камалапура теряет сознание при виде храма и останавливается в цветочном саду; Господь, оставив преданных, приходит к Нему, погружённому в медитацию, и обходит Его, читая шлоку: «Даже если Нитьянанда возьмёт за руку женщину вне касты или войдёт в винную лавку, Его стопы чтит Брахма»; очнувшись, Нитьянанда падает, Они кланяются друг другу, обнимаются и катаются по земле, как Рама и Лакшмана."
+  persons: ["@nityananda", "@mahaprabhu", "@shachi"]
+  places: ["#kamalapura", "#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.24.15–30"
+  notes: "Ст. 8–9 в md отсутствуют."
+  themes: [ecstasy, revelation]
+  teaching: [associates-tattva]
+  event: ev-nityananda-returns-to-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "6", to: "36"}
+
+- id: cb-3097
+  source: cb
+  ref: "Антья 7, 37–72"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: P14
+  order: 110.5
+  title: "Взаимные молитвы: «Твои украшения — девять видов бхакти»"
+  summary: "Господь со сложенными руками славит Нитьянанду: «Ты — воплощение святого имени и вечного блаженства, прибежище вайшнавов, Ананта; Твои украшения — проявления бхакти; по Твоей милости спасутся падшие и торговцы; Ты можешь продать Кришну»; Нитьянанда отвечает: «Ты велел Мне взять данду и Ты же велел оставить её, надеть браслеты и взять посох, флейту, рог и верёвку — Я танцор в Твоих руках»; Господь: «Твои украшения — слушание, воспевание, памятование; люди не понимают этого, как не понимают змеи на шее Шивы — Ананты, которого он любит; Твои спутники — Шридама и Судама; Мне мило всё, что мило Тебе»."
+  persons: ["@mahaprabhu", "@nityananda", "@shiva"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  bhava: [sakha]
+  teaching: [associates-tattva, prema]
+  scriptures: ["Гопала-тапани-уп. 1.44", "Мундака-уп. 3.2.1", "Брахма-самхита 5.2"]
+  event: ev-nityananda-returns-to-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "37", to: "72"}
+
+- id: cb-3098
+  source: cb
+  ref: "Антья 7, 73–104"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: P14
+  order: 110.6
+  title: "Тайные беседы Гауры и Нитьянанды; автор о спорах вайшнавов"
+  summary: "Владыки беседуют наедине в саду — Господь всегда встречается с Нитьянандой без свидетелей и скрывает Его славу; каждый преданный думает, что Господь любит его больше всех; бхакти гопов и гопи Враджа — плод величайших аскез; любовные ссоры Гауры и Нитьянанды — лила, а вставший на сторону одного и хулящий другого — несчастнейший: преданные — части тела Господа; Господь не порицает Нитьянанду и Адвайту, даже если Они миллионы раз нарушат обычаи; затем Господь возвращается домой."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [associates-tattva, vaishnava, prema]
+  scriptures: ["Бхаг. 10.12.11", "Бхаг. 10.47.63"]
+  event: ev-nityananda-returns-to-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "73", to: "104"}
+
+- id: cb-3099
+  source: cb
+  ref: "Антья 7, 105–111"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: P14
+  order: 110.7
+  title: "Нитьянанда перед Джаганнатхой: «Он — брат Шри Кришны Чайтаньи»"
+  summary: "Увидев Джаганнатху, Баладеву, Субхадру и Сударшану, Нитьянанда катается по полу храма, и сотня людей не может Его удержать; брахманы снова и снова подносят Ему гирлянды Джаганнатхи; незнающим говорят: «Это брат Шри Кришны Чайтаньи»; Он обнимает всех, омывая слезами."
+  persons: ["@nityananda", "@jagannatha-deity", "@balarama", "@subhadra", "@sudarshana"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, ecstasy]
+  event: ev-nityananda-returns-to-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "105", to: "111"}
+
+- id: cb-3100
+  source: cb
+  ref: "Антья 7, 112–165"
+  file: "chaitanya-bhagavata/ed/CB_Antya07.md"
+  period: P14
+  order: 111
+  title: "Рис из Гауды для Гопинатхи: трапеза Гауры, Нитьянанды и Гададхары"
+  summary: "Нитьянанда приходит к Гададхаре, служащему Божеству Гопинатхи с флейтой (которого некогда обнял Господь); оставив чтение «Бхагаваты», Гададхара выходит, Они обнимаются и теряют сознание; Гададхара не смотрит на лицо хулящего Нитьянанду; Нитьянанда привёз из Бенгалии прекрасный белый рис и цветные ткани для Гопинатхи; Гададхара — «такой рис готовит лишь Лакшми» — варит его, добавив самосевный шак и кислое блюдо из листьев тамаринда; Господь приходит: «Почему не позвали Меня? Между Мной и вами нет различия — возьму силой!», — славит рис («его аромат дарует бхакти») и стряпню («ты повар с Вайкунтхи»), и Трое едят вместе; затем Они всегда вместе ходят к Джаганнатхе с санкиртаной."
+  persons: ["@nityananda", "@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 3.18.22–29"
+  themes: [prasada, deities, ecstasy]
+  teaching: [associates-tattva]
+  event: ev-gopinatha-prasada-gadadhara
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya07.md", from: "112", to: "165"}
