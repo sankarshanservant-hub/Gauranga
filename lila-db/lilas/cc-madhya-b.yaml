@@ -148,7 +148,7 @@
   themes: [pilgrimage, separation]
   cc: "Мадхья 10"
   event: ev-gauda-devotees-set-out-puri
-  notes: "В нашем файле ст. 81–84 отсутствуют (нумерация перевода переходит от 80 к 85)."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya10.md", from: "85", to: "90"}
 
@@ -421,7 +421,7 @@
   scriptures: ["Бхаг. 11.5.32", "Бхаг. 10.14.29", "Бхаг. 4.29.46"]
   cc: "Мадхья 11"
   event: ev-prataparudra-watches-devotees-roof
-  notes: "В нашем файле ст. 120–121 отсутствуют (за 119 следует 122)."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "97", to: "123"}
 
@@ -440,7 +440,7 @@
   themes: [mercy, learning]
   cc: "Мадхья 11"
   event: ev-gauda-devotees-arrive-puri
-  notes: "Две книги — «Брахма-самхита» и «Кришна-карнамрита» (ЧЧ Мадхья 9; ev-brahma-samhita-adikeshava, ev-krishna-karnamrita-found); в этой главе они не названы. В нашем файле ст. 135–136 отсутствуют."
+  notes: "Две книги — «Брахма-самхита» и «Кришна-карнамрита» (ЧЧ Мадхья 9; ev-brahma-samhita-adikeshava, ev-krishna-karnamrita-found); в этой главе они не названы."
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "124", to: "145"}
 
@@ -460,7 +460,7 @@
   scriptures: ["Стотра-ратна, 21"]
   cc: "Мадхья 11"
   event: ev-gauda-devotees-arrive-puri
-  notes: "В нашем файле ст. 159–160 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "146", to: "158"}
 
@@ -759,7 +759,7 @@
   teaching: [prasada-teaching]
   cc: "Мадхья 12"
   event: ev-gundicha-garden-feast
-  notes: "Туласи, распорядитель (парикшита) храма, отнесён к @tulasi-mishra (ория-спутник в Пури) — тождество вероятное. «Ачарьянидхи» (ст. 157) — без тега. В нашем файле ст. 163–164 отсутствуют."
+  notes: "Туласи, распорядитель (парикшита) храма, отнесён к @tulasi-mishra (ория-спутник в Пури) — тождество вероятное. «Ачарьянидхи» (ст. 157) — без тега."
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "151", to: "202"}
 
@@ -853,7 +853,7 @@
   themes: [festival, jagannatha]
   cc: "Мадхья 13"
   event: ev-ratha-yatra-gundicha
-  notes: "В нашем файле ст. 20–21 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "19", to: "28"}
 
@@ -912,7 +912,7 @@
   scriptures: ["Вишну-пурана, 1.19.65", "Мукунда-мала, 3", "Бхаг. 10.90.48", "Падьявали, 74"]
   cc: "Мадхья 13"
   event: ev-ratha-yatra-gundicha
-  notes: "В нашем файле ст. 73–74 (имена десяти певцов) отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "69", to: "81"}
 
@@ -1012,7 +1012,7 @@
   themes: [ecstasy, mercy, jagannatha]
   cc: "Мадхья 13"
   event: ev-ratha-yatra-gundicha
-  notes: "В нашем файле ст. 168–169 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "161", to: "179"}
 
@@ -1275,7 +1275,7 @@
   calendar: "Хера-панчами (Лакшми-виджая)"
   cc: "Мадхья 14"
   event: ev-hera-panchami
-  notes: "В нашем файле ст. 117–118 отсутствуют (за 116 следует 119)."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "106", to: "135"}
 
@@ -1525,7 +1525,7 @@
   calendar: "Виджая-дашами"
   cc: "Мадхья 15"
   event: ev-lord-eats-shachi-offering
-  notes: "В нашем файле ст. 54–55 отсутствуют. Ср. ev-avirbhava-four-places (ЧЧ Антья 2)."
+  notes: "Ср. ev-avirbhava-four-places (ЧЧ Антья 2)."
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "45", to: "67"}
 
@@ -1680,7 +1680,7 @@
   themes: [separation]
   cc: "Мадхья 15"
   event: ev-farewell-gauda-devotees-instructions
-  notes: "В нашем файле ст. 184–185 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya15.md", from: "181", to: "183"}
 
@@ -1792,7 +1792,7 @@
   themes: [pilgrimage, deities, prasada]
   cc: "Мадхья 16"
   event: ev-gauda-devotees-come-with-wives
-  notes: "В нашем файле ст. 14–17 (перечень идущих) отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "12", to: "47"}
 
@@ -1963,7 +1963,7 @@
   themes: [mercy, pilgrimage, prasada]
   cc: "Мадхья 16"
   event: ev-prataparudra-farewell-six-armed
-  notes: "Мангараджа — без тега. В нашем файле ст. 127–129 отсутствуют."
+  notes: "Мангараджа — без тега."
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya16.md", from: "110", to: "126"}
 
@@ -2229,7 +2229,7 @@
   scriptures: ["Бхавартха-дипика, 1.1.1"]
   cc: "Мадхья 17"
   event: ev-jharikhanda-animals
-  notes: "В нашем файле ст. 62–63 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya17.md", from: "55", to: "81"}
 
@@ -2402,6 +2402,6 @@
   authority: A
   themes: [author]
   cc: "Мадхья 17"
-  notes: "В нашем файле ст. 228–229 отсутствуют."
+  notes: ""
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya17.md", from: "230", to: "234"}
