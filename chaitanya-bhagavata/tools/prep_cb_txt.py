@@ -12,7 +12,7 @@ for f in sorted((R / 'src/txt').glob('CB_*[0-9][0-9].txt')):
     title = ''
     m = re.search(r'Глава \d+\.\s*(.+)', t) or re.search(r'^\s*Глава \d+\s*\n\s*(.+(?:\n\s*[а-яё].+)?)', t, re.M)
     if m: title = re.sub(r'\s+', ' ', m.group(1)).strip()
-    parts = re.split(r'^Текст (\d+(?:\s*[–-]\s*\d+)?)\s*$', t, flags=re.M)
+    parts = re.split(r'^Тексты? (\d+(?:\s*[–-]\s*\d+)?)\s*$', t, flags=re.M)
     out = ['“Шри Чайтанья-бхагавата”  ', f'{KH[kh]}  ', f'Глава {int(ch)}  ', f'**{title}**  ',
            '(Вриндаван Дас Тхакур; рус. пер.)', '',
            f'<!-- Стихи: транслитерация и перевод из src/txt/{f.name} без правок; пояснения не включены. '
