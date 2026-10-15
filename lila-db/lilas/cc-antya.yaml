@@ -457,3 +457,249 @@
   cc: "Антья 2"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "167", to: "172"}
+
+- id: cc-4025
+  source: cc
+  ref: "Антья 3.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.05
+  title: "Мангалачарана Антья 3"
+  summary: "Поклон гуру, вайшнавам, шастра-гуру, Чайтанье со спутниками, Радха-Говинде и гопи; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@radha", "@krishna"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "1", to: "2"}
+
+- id: cc-4026
+  source: cc
+  ref: "Антья 3.3–19"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 14.9
+  title: "Упрёк Дамодары Пандита: Господь ласков к сыну молодой вдовы-брахманки — «что скажут люди?»"
+  summary: "Красивый мальчик, сын умершего орисского брахмана, каждый день приходил к Господу, и Господь встречал его с любовью; Дамодара Пандит запрещал ему, но тот не слушал. Наконец Дамодара дерзко сказал Господу: Ты учитель всех, но люди станут судачить — мать мальчика благочестива, но молода и красива, а Ты молод и красив. Господь, внутренне довольный, подумал, что эти речи рождены чистой любовью и среди друзей Ему нет равного Дамодаре."
+  persons: ["@mahaprabhu", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, teaching]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 3"
+  event: ev-damodara-sent-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "3", to: "19"}
+
+- id: cc-4027
+  source: cc
+  ref: "Антья 3.21–48"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 15
+  title: "Господь посылает Дамодару в Надию охранять Шачи и передаёт тайное послание: «Я ел твои подношения на Макара-санкранти»"
+  summary: "Господь попросил Дамодару, самого беспристрастного друга, который может отчитать даже Его, жить в Надии у стоп Шачи и рассказывать ей о Нём. Он передал тайную весть: на недавний праздник Магха-санкранти, когда Шачи поднесла Кришне блюда и стала медитировать, Он явился и всё съел; она сочла это сном, увидела полные горшки на кухне и поднесла снова; привлечённый её любовью, Он всегда ест её подношения и живёт в Пури лишь по её слову. Дамодара отнёс Шачи и вайшнавам во главе с Адвайтой прасад Джаганнатхи и своей строгостью утвердил среди спутников нормы поведения. Деяния Господа глубже миллионов океанов."
+  persons: ["@mahaprabhu", "@damodara-pandita", "@shachi", "@advaita", "@jagannatha-deity"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  calendar: "магха, Макара-санкранти"
+  themes: [family, revelation, prasada]
+  cc: "Антья 3"
+  event: ev-damodara-sent-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "21", to: "48"}
+
+- id: cc-4028
+  source: cc
+  ref: "Антья 3.49–64"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 57
+  title: "Беседа с Харидасом: как спасутся яваны? — «харам» содержит имя Рамы; сила проблеска имени (намабхасы), пример Аджамилы"
+  summary: "Господь спросил Харидаса, как освободятся в век Кали те, кто отвергает Веды, убивает коров и брахманов. Харидас ответил: мусульмане говорят «харам», и в этом звучит имя Рамы — они спасутся проблеском имени (намабхасой); имя, произнесённое с иным смыслом или неправильно, сохраняет очищающую силу, как у Аджамилы, позвавшего сына «Нараяна»; проблеск имени без оскорблений уничтожает грехи и дарует освобождение."
+  persons: ["@mahaprabhu", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, muslims]
+  teaching: [holy-name]
+  scriptures: ["Нрисимха-пурана", "Хари-бхакти-виласа, 11.289", "Бхакти-расамрита-синдху, 2.1.103", "Бхаг. 6.2.49"]
+  cc: "Антья 3"
+  event: ev-haridasa-namabhasa-yavanas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "49", to: "64"}
+
+- id: cc-4029
+  source: cc
+  ref: "Антья 3.65–92"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 57.5
+  title: "Как освободятся движущиеся и неподвижные существа? — Харидас: санкиртаной Господа; «Твои игры — океан, мне не постичь и капли»"
+  summary: "На вопрос Господа Харидас ответил: Ты уже освободил всех, громко воспевая имя; подвижные существа спасены, а деревья откликаются эхом — это их прославление (как в Джхарикханде, по рассказу Балабхадры; по молитве Васудевы Датты Ты обещал спасти всех). На возражение «вселенная опустеет» Харидас сказал: Ты наполнишь её вновь, как Рама — Айодхью, и как Кришна во Врадже. Господь, удивлённый, что Харидас постиг Его сокровенное, обнял его, но более не касался этой темы: Он скрывает Своё величие, но не может утаить его от преданных; затем Он восхвалял Харидаса перед спутниками."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@balabhadra-bhattacharya", "@vasudeva-datta", "@rama"]
+  places: ["#puri", "#jharikhanda", "#ayodhya"]
+  kind: teaching
+  authority: A
+  themes: [teaching, kirtan, mercy]
+  teaching: [holy-name, gaura-tattva]
+  scriptures: ["Бхаг. 10.29.16", "Вишну-пурана, 4.15.17", "Стотра-ратна, 13"]
+  cc: "Антья 3"
+  event: ev-haridasa-sthavara-jangama-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "65", to: "92"}
+
+- id: cc-4030
+  source: cc
+  ref: "Антья 3.93–97"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.06
+  title: "Достоинства Харидаса неисчислимы; автор дополнит то, что Вриндаван Дас не описал подробно"
+  summary: "Господь радовался, прославляя вайшнавов, а Харидас — лучший из них; часть его качеств описал Вриндаван Дас в «Чайтанья-бхагавате», а автор расскажет о том, что там описано не подробно."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "93", to: "97"}
+
+- id: cc-4031
+  source: cc
+  ref: "Антья 3.98–142"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.6
+  title: "Блудница, подосланная Рамачандрой Ханом, слушает имя три ночи и становится вайшнави"
+  summary: "В лесу у Бенаполя Харидас жил в хижине, поклонялся туласи и повторял триста тысяч имён в день. Заминдар Рамачандра Хан, ненавидевший вайшнавов, подослал юную блудницу, чтобы опорочить его. Три ночи Харидас просил её подождать, пока он завершит обет имени, и она, слушая, сама стала повторять «Хари»; на третью ночь её сердце изменилось, она призналась в замысле и попросила спасти её. Харидас велел раздать имущество брахманам, жить в его хижине, повторять имя и служить туласи и ушёл; она обрила голову, повторяла триста тысяч имён в день, стала знаменитой вайшнави, к которой приходили великие преданные."
+  persons: ["@haridasa-thakura", "@ramachandra-khan"]
+  places: ["#benapola"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense]
+  teaching: [holy-name]
+  cc: "Антья 3"
+  event: ev-haridasa-prostitute
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "98", to: "142"}
+
+- id: cc-4032
+  source: cc
+  ref: "Антья 3.143–163"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 27
+  title: "Рамачандра Хан оскорбляет Нитьянанду, сев на которого место он велит перекопать; мусульманский чиновник разоряет его дом и деревню"
+  summary: "После оскорбления Харидаса Рамачандра Хан стал ещё демоничнее. Нитьянанда, странствуя по Бенгалии с проповедью премы и усмиряя безбожников, пришёл к нему и сел в Дурга-мандапе; Хан через слугу предложил Ему ночлег в коровнике пастуха. Нитьянанда, смеясь, ушёл, сказав, что этот дом годится лишь для мясоедов; Хан велел перекопать место и вымазать двор навозом. Вскоре мусульманский казначей за недоимки арестовал Хана с семьёй, три дня грабил деревню и варил говядину в храме Дурги; Хан лишился касты и богатства. За оскорбление великой души страдает вся округа."
+  persons: ["@nityananda", "@ramachandra-khan", "@haridasa-thakura"]
+  places: ["#benapola"]
+  kind: lila
+  authority: A
+  themes: [offense, muslims]
+  teaching: [vaishnava]
+  cc: "Антья 3"
+  event: ev-nityananda-ramachandra-khan
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "143", to: "163"}
+
+- id: cc-4033
+  source: cc
+  ref: "Антья 3.164–212"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P05
+  order: 1.5
+  title: "Харидас в Чандапуре у Баларамы Ачарьи; на собрании у Хираньи и Говардханы: плод имени — према, освобождение лишь побочно; Гопала Чакраварти, оскорбивший Харидаса, заболевает проказой"
+  summary: "Харидас жил в Чандапуре у Баларамы Ачарьи, жреца Хираньи и Говардханы; мальчик Рагхунатха Дас каждый день приходил к нему и получил милость, приведшую его к Господу. На собрании у братьев Харидас сказал: уничтожение грехов и освобождение — лишь побочный плод имени, как рассеивание тьмы до восхода; главный плод — према к стопам Кришны, а преданный не принимает освобождения. Главный сборщик податей Гопала Чакраварти поднял его на смех и поклялся отрезать нос, если проблеск имени даёт освобождение; Харидас ответил тем же. Собрание осудило Гопалу, и братья прогнали его; Харидас простил его, но через три дня Гопала заболел проказой, и нос его отпал. Преданные не обижаются на глупцов, но Кришна не терпит хулы на преданных; огорчённый, Харидас ушёл в Шантипур."
+  persons: ["@haridasa-thakura", "@balarama-acharya-chandapur", "@hiranya-majumdar", "@govardhana-majumdar", "@raghunatha-dasa", "@gopala-chakravarti"]
+  places: ["#chandapur-saptagrama", "#saptagrama"]
+  kind: lila
+  authority: A
+  notes: "Ст. 166: «Бхагаван Ачарья» — по контексту Баларама Ачарья. Ст. 168: Рагхунатха — «сын Говардханы» (ЧЧ; ср. PERSONS: по другим — сын Хираньи)."
+  themes: [teaching, offense]
+  teaching: [holy-name, bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 11.2.40", "Падьявали, 16", "Бхаг. 6.2.49", "Бхаг. 3.29.13", "Хари-бхакти-судходая, 14.36"]
+  cc: "Антья 3"
+  event: ev-haridasa-gopala-chakravarti
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "164", to: "212"}
+
+- id: cc-4034
+  source: cc
+  ref: "Антья 3.213–224"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.95
+  title: "Харидас у Адвайты в Шантипуре: пещера на берегу Ганги, шраддха-патра; молитвы Адвайты и имя Харидаса призывают Кришну"
+  summary: "Адвайта устроил Харидасу пещеру на берегу Ганги, объяснял ему «Бхагавату» и «Гиту» в свете бхакти и кормил его. Харидас спросил, зачем Адвайта, живя среди знатных брахманов, оказывает ему почести; Адвайта ответил, что поступает по шастрам: накормить Харидаса — всё равно что накормить десять миллионов брахманов, и дал ему шраддха-патру. Адвайта поклонялся Кришне водой Ганги с туласи, а Харидас воспевал имя, желая Его нисхождения; их преданность стала причиной явления Чайтаньи."
+  persons: ["@haridasa-thakura", "@advaita", "@mahaprabhu"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada, teaching]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Антья 3"
+  event: ev-shraddha-patra-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "213", to: "224"}
+
+- id: cc-4035
+  source: cc
+  ref: "Антья 3.225–258"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.97
+  title: "Майя-деви испытывает Харидаса три лунные ночи и получает от него имя Кришны"
+  summary: "Лунной ночью к пещере Харидаса пришла сияющая женщина, поклонилась туласи и Харидасу и стала искушать его. Харидас просил подождать, пока он завершит обет имени, и так прошли три ночи; тогда она открылась: «Я — Майя; я очаровываю даже Брахму, но тебя не смогла». Она сказала, что получила от Шивы имя Рамы, но теперь, в разливе премы с приходом Чайтаньи, желает имя Кришны, дающее прему; Харидас дал ей имя, и она ушла довольной."
+  persons: ["@haridasa-thakura", "@durga", "@shiva", "@mahaprabhu"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Майя (Махамайя, внешняя энергия Господа) — тег @durga. Место по тексту — «пещера» Харидаса (ср. ст. 214)."
+  themes: [celestial, mercy]
+  teaching: [holy-name]
+  cc: "Антья 3"
+  event: ev-maya-tests-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "225", to: "258"}
+
+- id: cc-4036
+  source: cc
+  ref: "Антья 3.259–266"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 117.2
+  title: "Почему Майя просит имя: ради премы, раздаваемой Чайтаньей, родились на земле Брахма, Шива, Кумары, Прахлада, Нарада, Лакшми — и пришёл Сам Кришна"
+  summary: "Чтобы обрести сокровище премы, раздаваемое Господом, на земле родились Брахма, Шива, Кумары, Прахлада, Нарада и энергии Кришны во главе с Лакшми, а Сам сын Нанды пришёл вкусить её; что удивительного, что Майя-служанка просит о ней. Без милости преданного и безоскорбительного имени премы не обрести; святое имя — сокровищница очарования, привлекающая даже Кришну."
+  persons: ["@mahaprabhu", "@durga", "@brahma", "@shiva", "@sanaka-kumaras", "@prahlada", "@narada", "@lakshmi", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, celestial]
+  teaching: [holy-name, gaura-tattva, prema]
+  cc: "Антья 3"
+  event: ev-maya-tests-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "259", to: "266"}
+
+- id: cc-4037
+  source: cc
+  ref: "Антья 3.267–270"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.07
+  title: "Источник рассказа — Рагхунатха Дас со слов Сварупы; колофон Антья 3"
+  summary: "Автор слышал об этих играх от Рагхунатхи Даса, которому рассказывал Сварупа Дамодара, и описывает их кратко по милости Господа. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@raghunatha-dasa", "@svarupa-damodara", "@haridasa-thakura"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "267", to: "270"}

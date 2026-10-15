@@ -95,3 +95,61 @@
   cb: ""
   themes: [departure, sannyasa, mercy]
   notes: "Через год после наказания (ev-chhota-haridasa-punished)."
+
+# --- Антья 3 ---
+- id: ev-haridasa-namabhasa-yavanas
+  title: "Беседа Господа с Харидасом: как спасутся яваны — проблеск имени (намабхаса)"
+  title_en: "The Lord's talk with Haridasa: how the yavanas will be delivered — namabhasa"
+  period: P14
+  order: 57
+  cc: "Антья 3.49–64"
+  cb: ""
+  themes: [teaching, muslims]
+  teaching: [holy-name]
+  notes: "«Харам» мусульман содержит имя Рамы; пример Аджамилы."
+
+- id: ev-haridasa-sthavara-jangama-deliverance
+  title: "Харидас: санкиртана Господа освобождает движущихся и неподвижных существ"
+  title_en: "Haridasa: the Lord's sankirtana delivers moving and nonmoving beings"
+  period: P14
+  order: 57.5
+  cc: "Антья 3.65–92"
+  cb: ""
+  themes: [teaching, kirtan, mercy]
+  teaching: [holy-name, gaura-tattva]
+  notes: "Ссылки на игры в Джхарикханде (Мадхья 17) и молитву Васудевы Датты (Мадхья 15)."
+
+- id: ev-nityananda-ramachandra-khan
+  title: "Рамачандра Хан оскорбляет Нитьянанду и разорён мусульманским чиновником"
+  title_en: "Ramachandra Khan offends Nityananda and is ruined by a Muslim official"
+  period: P14
+  order: 27
+  cc: "Антья 3.143–163"
+  cb: ""
+  themes: [offense, muslims]
+  notes: "Во время проповеди Нитьянанды в Бенгалии; не путать с Рамачандрой Ханом из Чхатрабхоги (ev-chhatrabhoga-ramachandra-khan)."
+
+- id: ev-haridasa-gopala-chakravarti
+  title: "Харидас в Чандапуре: спор о силе имени и наказание Гопалы Чакраварти"
+  title_en: "Haridasa at Chandapur: the debate on the power of the name and the punishment of Gopala Chakravarti"
+  period: P05
+  order: 1.5
+  years: [1500, 1506]
+  date_conf: оценка
+  date_basis: "Рагхунатха Дас ещё мальчик-школьник (ст. 168)"
+  cc: "Антья 3.164–212"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [holy-name, bhakti-supremacy, vaishnava]
+  notes: "Собрание в доме Хираньи и Говардханы; плод имени — према, освобождение лишь побочно."
+
+- id: ev-maya-tests-haridasa
+  title: "Майя испытывает Харидаса и получает от него имя Кришны"
+  title_en: "Maya tests Haridasa and receives the name of Krishna from him"
+  period: P01
+  order: 2.97
+  cc: "Антья 3.225–266"
+  cb: ""
+  themes: [celestial, mercy]
+  teaching: [holy-name]
+  notes: "Три лунные ночи у пещеры Харидаса; ЧЧ относит её ко времени разлива премы с приходом Господа (ст. 252)."
