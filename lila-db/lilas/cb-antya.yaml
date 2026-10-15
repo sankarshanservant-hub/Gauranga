@@ -2231,3 +2231,138 @@
   event: ev-bhrigu-tests-trimurti
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "310", to: "392"}
+
+# ---------- Антья 10 ----------
+- id: cb-3118
+  source: cb
+  ref: "Антья 10, 1–4, 181–182"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: PX
+  order: 310
+  title: "Мангала и колофон Антья 10 (последняя глава ЧБ)"
+  summary: "Слава Гаурачандре со знаком Шриватсы, олицетворению санатана-дхармы, Гауранга-гопалу, любящему санкиртану; в конце — плоды слушания о Пундарике Видьянидхи и подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "1", to: "4"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "181", to: "182"}
+
+- id: cb-3119
+  source: cb
+  ref: "Антья 10, 5–21"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P12
+  order: 141
+  title: "«Я вижу лишь лицо Джаганнатхи»: Адвайта побеждён"
+  summary: "Адвайта рассказывает, что после даршана обошёл Джаганнатху пять-семь раз; Господь объявляет Его побеждённым: «Когда Я вижу Джаганнатху, Мои глаза не видят ничего другого — Я не обхожу Его и не смотрю по сторонам, а лишь на Его прекрасное лицо»; Адвайта складывает ладони: «Пусть Я всегда буду так побеждён Тобой — никто, кроме Тебя, на это не способен»; вайшнавы смеются и поют «Хари»."
+  persons: ["@mahaprabhu", "@advaita", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 11 в md обрывок; ст. 13–14 отсутствуют."
+  themes: [jagannatha, pranks]
+  bhava: [devotee]
+  event: ev-advaita-circumambulates-lord-sees-face
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "5", to: "21"}
+
+- id: cb-3120
+  source: cb
+  ref: "Антья 10, 22–31"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P12
+  order: 142.5
+  title: "Гададхара просит заново дать ему мантру; «Твой гуру Пундарика скоро придёт»"
+  summary: "Гададхара говорит, что передал кому-то свою ишта-мантру и больше не чувствует её силы, и просит Господа дать её заново; Господь: «У тебя есть гуру — не совершай оскорбления; Я отдам тебе жизнь, но давать мантру при живом гуру неправильно»; на просьбу дать от его имени Господь предсказывает: «Пундарика Видьянидхи придёт через десять дней — это ты привлёк его»."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@pundarika-vidyanidhi"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.76–81"
+  themes: [teaching]
+  teaching: [vaishnava]
+  event: ev-pundarika-odana-shashthi-slap
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "22", to: "31"}
+
+- id: cb-3121
+  source: cb
+  ref: "Антья 10, 32–57"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P14
+  order: 12
+  title: "Гададхара читает «Бхагавату», Сварупа поёт; Сварупа и Парамананда Пури — две руки Господа"
+  summary: "Господь сотни раз слушает от Гададхары о Прахладе и Дхруве; как Гададхара искусен в «Бхагавате», так Сварупа Дамодара — в киртане: под его пение Господь танцует и падает; среди санньяси-спутников никто не равен Сварупе, Господь любит его, как Парамананду Пури; Пури всегда в медитации, Сварупа — в киртане, они — две руки Господа, принявшие санньясу ради Его санньяса-лилы; Сварупа (прежде Пурушоттама Ачарья, друг Пундарики) неотлучен от Господа и поддерживает Его, когда Тот падает в лесах и садах."
+  persons: ["@mahaprabhu", "@gadadhara-pandita", "@svarupa-damodara", "@paramananda-puri", "@pundarika-vidyanidhi"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 38–39 в md отсутствуют; ст. 45 оборван."
+  themes: [kirtan, ecstasy]
+  teaching: [associates-tattva]
+  event: ev-gadadhara-reads-bhagavata-puri
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "32", to: "57"}
+
+- id: cb-3122
+  source: cb
+  ref: "Антья 10, 58–66"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P12
+  order: 142
+  title: "Господь падает в колодец"
+  summary: "Однажды в сильном экстазе Господь падает в колодец; Адвайта и преданные в отчаянии хватаются за головы, а Он плавает там, как дитя, и колодец, словно масло, не ранит Его; вытащенный, Он спрашивает: «Что случилось? Почему вы плачете?» — и преданные ликуют от Его слов."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 61: «колодец стал подобно маслу и поцарапал» — по смыслу: не поцарапал. Ст. 65: Господь скрывает всеведение, погружённый в прему."
+  themes: [ecstasy]
+  bhava: [devotee]
+  event: ev-lord-falls-into-well
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "58", to: "66"}
+
+- id: cb-3123
+  source: cb
+  ref: "Антья 10, 67–87"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P12
+  order: 142.6
+  title: "«Мой отец пришёл»: Пундарика Видьянидхи в Нилачале; Гададхара заново получает мантру"
+  summary: "Едва Господь вспоминает о Пундарике, тот приходит; Господь, улыбаясь: «Мой отец пришёл!», обнимает Преманидхи и плачет; Пундарика и его друг Сварупа Дамодара, встретившись, в шутку борются за пыль стоп друг друга; Господь просит его остаться и даёт ему жилище в Ямешвара-тоте у океана; Гададхара снова получает мантру от Преманидхи; Пундарику славят Адвайта, Шривас, Мурари, Харидас, а он без тени гордыни служит вайшнавам; автор пишет со слов Гададхары."
+  persons: ["@mahaprabhu", "@pundarika-vidyanidhi", "@svarupa-damodara", "@gadadhara-pandita", "@advaita", "@srivasa", "@murari-gupta", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16.76–81"
+  notes: "Автор ссылается на рассказ Гададхары Пандита (ст. 84)."
+  themes: [mercy, ecstasy]
+  teaching: [vaishnava]
+  event: ev-pundarika-odana-shashthi-slap
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "67", to: "87"}
+
+- id: cb-3124
+  source: cb
+  ref: "Антья 10, 88–180"
+  file: "chaitanya-bhagavata/ed/CB_Antya10.md"
+  period: P12
+  order: 143
+  title: "Одана-шаштхи: Джаганнатха и Баларама во сне бьют Пундарику по щекам"
+  summary: "На празднике Одана-шаштхи Джаганнатху облачают в новые накрахмаленные, нестираные ткани; Господь — одновременно поклоняющийся и Почитаемый — смотрит на это в преме; Пундарика сомневается: «Почему слуги касаются нестираной ткани и не моют рук, а царь наматывает её на голову?»; Сварупа: «Таков обычай, Джаганнатха — Высший Брахман»; ночью во сне Джаганнатха и Баларама бьют Пундарику по щекам: «Мы и Наши слуги вне каст — Я Сам учредил этот праздник; хочешь сохранить касту — иди домой»; он молит о прощении, и Господь: «Наказав, Я даровал тебе милость»; наутро щёки опухли, Пундарика смеётся от счастья и показывает Сварупе следы; автор: Господь даже во сне не говорит с непреданными; Пундарика не входит в Гангу, боясь коснуться её стопами, а Гаура зовёт его, плача: «Отец Пундарика!»."
+  persons: ["@pundarika-vidyanidhi", "@svarupa-damodara", "@jagannatha-deity", "@balarama", "@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Мадхья 16.76–81"
+  notes: "Ст. 147–148, 152–155 в md отсутствуют. Сомнение Пундарики — по воле Господа, чтобы явить милость к нему (ст. 122–123)."
+  themes: [offense, jagannatha, celestial]
+  teaching: [vaishnava, purity]
+  calendar: "Одана-шаштхи (аграхаяна, шукла-шаштхи)"
+  event: ev-pundarika-odana-shashthi-slap
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya10.md", from: "88", to: "180"}
