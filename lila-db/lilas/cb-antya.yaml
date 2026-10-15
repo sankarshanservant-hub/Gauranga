@@ -1273,3 +1273,423 @@
   event: ev-madhavendra-puri-aradhana
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya04.md", from: "441", to: "515"}
+
+# ---------- Антья 5 ----------
+# В md Антья 5 в строки стихов вписаны пояснения (комментарий); записи — только по тексту стихов.
+- id: cb-3068
+  source: cb
+  ref: "Антья 5, 1–4, 757–759"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: PX
+  order: 304
+  title: "Мангала и колофон Антья 5: автор — последний слуга Нитьянанды, сын Нараяни"
+  summary: "Слава Гаурасундару, учителю всех; в конце автор называет себя последним слугой Нитьянанды, рождённым от Нараяни, получившей остатки пищи Господа, которую и поныне славят вайшнавы."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@nityananda", "@narayani"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "1", to: "4"}
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "757", to: "759"}
+
+- id: cb-3069
+  source: cb
+  ref: "Антья 5, 5–35"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P13
+  order: 7.1
+  title: "Кумарахатта: в доме Шриваса; «Я принадлежу Васудеве Датте»"
+  summary: "От Адвайты Господь идёт к Шривасу в Кумарахатту; Шривас обнимает Его стопы, вся семья плачет; приходит Пурандара Ачарья — Господь зовёт его отцом; приходят Васудева Датта и Шивананда Сена; о Васудеве, видящем во всех лишь достоинства, Господь говорит: «Моё тело принадлежит Васудеве — он может продать Меня; Кришна хранит того, кого коснулся ветерок от его тела»; Шривас и Шри Рама поют, Господь танцует."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@purandara-acharya", "@vasudeva-datta", "@shivananda-sena"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16; Карнапура (ЧЧд акт 9)"
+  themes: [mercy, kirtan]
+  teaching: [vaishnava]
+  event: ev-gauda-journey-ganga-villages
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "5", to: "35"}
+
+- id: cb-3070
+  source: cb
+  ref: "Антья 5, 38–74"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P13
+  order: 7.2
+  title: "«Раз, два, три»: Господь обещает Шривасу достаток"
+  summary: "Наедине Господь спрашивает: «Ты никуда не ходишь, не просишь подаяния и не берёшь санньясы — чем кормишь большую семью?»; Шривас трижды хлопает: «Раз, два, три» — три дня поста, а затем Ганга; Господь вскакивает: «Даже если Лакшми пойдёт просить подаяния, твой дом не узнает бедности — разве ты забыл Мои слова в Гите? Я Сам несу всё Своим преданным; Сударшана хранит их»; Он благословляет Шриваса и Адвайту не знать старости, велит Шри Раме служить брату как Господу, и с тех пор всё нужное само приходит в дом Шриваса."
+  persons: ["@mahaprabhu", "@srivasa", "@srirama-pandita", "@advaita"]
+  places: ["#kumarahatta"]
+  kind: lila
+  authority: A
+  notes: "Ст. 50–51 (объяснение «раз, два, три») в md отсутствуют; смысл — по ответу Господа (ст. 53)."
+  themes: [teaching, mercy]
+  teaching: [vaishnava, bhakti-supremacy]
+  scriptures: ["Гита 9.22", "Бхаг. 3.29.13"]
+  event: ev-srivasa-one-two-three
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "38", to: "74"}
+
+- id: cb-3071
+  source: cb
+  ref: "Антья 5, 75–109"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P13
+  order: 7.3
+  title: "Панихати: шак Рагхавы; «Нитьянанда неотличен от Меня»"
+  summary: "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве."
+  persons: ["@mahaprabhu", "@raghava-pandita", "@nityananda", "@gadadhara-dasa", "@raghunatha-vaidya-upadhyaya", "@makaradhvaja-kara"]
+  places: ["#panihati"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 16; Карнапура (ЧЧд акт 9); Джаянанда (Виджая-кханда)"
+  notes: "Ст. 95–96 в md отсутствуют."
+  themes: [prasada, teaching]
+  teaching: [associates-tattva]
+  event: ev-gauda-journey-ganga-villages
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "75", to: "109"}
+
+- id: cb-3072
+  source: cb
+  ref: "Антья 5, 110–121"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P13
+  order: 7.5
+  title: "Вараханагар: «Отныне ты — Бхагавата Ачарья»"
+  summary: "В Вараханагаре брахман, искусный чтец, при виде Господа читает «Бхагавату»; слыша стихи о бхакти, Господь кричит «Читай ещё!» и девять часов танцует, падая наземь; очнувшись, обнимает его: «Я не слышал такого толкования — отныне твоё имя Бхагавата Ачарья, толкуй «Бхагавату»»."
+  persons: ["@mahaprabhu", "@bhagavatacharya"]
+  places: ["#varahanagara"]
+  kind: lila
+  authority: A
+  notes: "Брахман в стихах не назван; по ЧЧ Ади 10.113 и комментариям — Рагхунатха (Бхагаватачарья)."
+  themes: [ecstasy, teaching]
+  teaching: [scripture]
+  event: ev-bhagavatacharya-varahanagara
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "110", to: "121"}
+
+- id: cb-3073
+  source: cb
+  ref: "Антья 5, 122–138"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P13
+  order: 230
+  title: "Возвращение в Нилачалу: «Движущийся Джаганнатха прибыл»"
+  summary: "Обойдя деревни у Ганги и исполнив желания преданных, Господь возвращается в Нилачалу; Сарвабхаума и спутники-ория с киртаном встречают Его; Господь живёт у Каши Мишры, встречает Джаганнатху при открытии дверей храма, танцует перед Ним и на берегу океана, и слёзы Его текут, как Ганга."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@kashi-mishra", "@jagannatha-deity"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  divergence: "По ЧБ Господь после Гауды прямо возвращается в Пури (поход во Вриндаван через Джхарикханду в ЧБ не описан)."
+  themes: [jagannatha, kirtan, ecstasy]
+  event: ev-puri-return-from-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "122", to: "138"}
+
+- id: cb-3074
+  source: cb
+  ref: "Антья 5, 139–185"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 299
+  title: "Пратапарудра тайно видит танец Господа; сон о Джаганнатхе в пыли"
+  summary: "Пратапарудра спешит из Каттака, но Господь не желает видеть царя; преданные, боясь Его, советуют царю тайно посмотреть на киртан; царь из укрытия видит небывалый танец — слёзы рекой, падения, громовые крики, — но в нём рождается сомнение при виде пыли, слюны и слизи на теле Господа; ночью во сне Джаганнатха, весь в пыли и слюне, не даёт коснуться Себя: «Ты умащён камфарой и мускусом, а Моё тело тебе противно»; затем на троне — Гаура с теми же словами; проснувшись, царь плачет: «Я оскорбитель — Чайтанья и есть Джаганнатха»."
+  persons: ["@prataparudra", "@mahaprabhu", "@jagannatha-deity", "@sarvabhauma"]
+  places: ["#puri", "#cuttack"]
+  kind: vision
+  authority: A
+  parallels: "ЧЧ Мадхья 11–14 (иначе)"
+  notes: "Ст. 166: сомнение царя — по воле Господа (йогамайя), ради урока и милости."
+  themes: [jagannatha, revelation, offense]
+  bhava: [devotee]
+  event: ev-prataparudra-dream-dusty-jagannatha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "139", to: "185"}
+
+- id: cb-3075
+  source: cb
+  ref: "Антья 5, 186–208"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 300
+  title: "Пратапарудра в саду у стоп Господа: «Я пришёл ради тебя, Сарвабхаумы и Рамананды»"
+  summary: "Однажды, когда Господь сидит в цветочном саду, царь приходит без свиты, падает к Его стопам и теряет сознание в преме; Господь поднимает его прикосновением; царь молится: «Спаси меня, о Кришна Чайтанья, украшение санньясы»; Господь благословляет: «Да будет твоим делом лишь служение Кришне; пой Кришна-санкиртану — Сударшана будет хранить тебя; Я пришёл сюда ради троих: тебя, Сарвабхаумы и Рамананды Рая; никому не открывай Меня, иначе Я уйду», — и дарит ему Свою гирлянду."
+  persons: ["@prataparudra", "@mahaprabhu", "@sarvabhauma", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 14; Мурари 4.16"
+  divergence: "По ЧЧ царь обнимает стопы Господа в саду во время Ратха-ятры, читая «Гопи-гиту»; по ЧБ — без упоминания Ратха-ятры."
+  themes: [mercy, revelation]
+  teaching: [holy-name]
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "186", to: "208"}
+
+- id: cb-3076
+  source: cb
+  ref: "Антья 5, 209–230"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 90
+  title: "Нитьянанда в Нилачале; Господь посылает Его в Гауду"
+  summary: "В Нилачале Прадьюмна Мишра, Парамананда Махапатра и Каши Мишра принимают Господа своей жизнью, сюда стекаются отречённые слуги; Нитьянанда бродит по Пури, повторяя лишь «Шри Кришна Чайтанья», и любит Господа, как Лакшмана Раму; наедине Господь велит Ему: «Иди скорее в Навадвипу — Я обещал, что глупые, падшие и нищие погрузятся в прему; Ты пришёл раздать любовь — если скроешь её, как исполнишь Свою миссию?»; Нитьянанда с спутниками тотчас отправляется в Бенгалию."
+  persons: ["@mahaprabhu", "@nityananda", "@pradyumna-mishra", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Мадхья 15; Мурари 4.21.6–11, 4.22.1–2"
+  notes: "Ст. 225–226, 231–233 в md отсутствуют."
+  themes: [mercy, teaching]
+  teaching: [associates-tattva]
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "209", to: "230"}
+
+- id: cb-3077
+  source: cb
+  ref: "Антья 5, 234–250"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 95
+  title: "Путь в Гауду: бхавы спутников Нитьянанды"
+  summary: "По дороге Нитьянанда пробуждает в спутниках бхавы Враджа: Рамадас в настроении пастушка стоит девять часов в трибханге, Гададхара Дас в бхаве гопи смеётся: «Кто купит йогурт?», Рагхунатха Вайдья — в бхаве Ревати, Кришнадас и Парамешвари Дас кричат, как пастушки, Пурандара прыгает с деревьев: «Я — Ангада!»; они сбиваются с пути, не замечая тел, голода и жажды."
+  persons: ["@nityananda", "@abhirama", "@gadadhara-dasa", "@raghunatha-vaidya-upadhyaya", "@parameshvara-dasa", "@purandara-pandita"]
+  places: []
+  kind: lila
+  authority: A
+  notes: "Рамадас — Абхирама (@abhirama), отождествление по традиции. Кришнадас (ст. 240) — тег не поставлен."
+  themes: [ecstasy, krishna-lila]
+  bhava: [balarama]
+  event: ev-nityananda-sent-to-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "234", to: "250"}
+
+- id: cb-3078
+  source: cb
+  ref: "Антья 5, 251–332"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 100
+  title: "Панихати: абхишека Нитьянанды, кадамба на лимонном дереве, аромат даманаки"
+  summary: "У Рагхавы Пандита Нитьянанда танцует под пение Мадхавы, Васудевы и Говинды Гхошей, садится на трон Божества и велит совершить абхишеку: тысячами кувшинов воды Ганги Его омывают, облачают, умащают сандалом, и Рагхава держит над Ним зонт; Он просит гирлянду из кадамбы не в сезон — и Рагхава находит кадамбу на лимонном дереве; разносится аромат даманаки — «Это Гаура пришёл из Нилачалы посмотреть киртан, прислонившись к дереву»; три месяца никто не ест, преданные вырывают деревья, и всё Панихати тонет в преме."
+  persons: ["@nityananda", "@raghava-pandita", "@makaradhvaja-kara", "@madhava-ghosha", "@vasu-ghosha", "@govinda-ghosha", "@mahaprabhu"]
+  places: ["#panihati"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.22.3–12; ЧЧ Антья 2 (явления Господа)"
+  notes: "Ст. 294–297: незримое присутствие Гауры в киртане (ср. ev-avirbhava-four-places)."
+  themes: [kirtan, revelation, festival]
+  bhava: [balarama]
+  event: ev-nityananda-panihati-abhisheka
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "251", to: "332"}
+
+- id: cb-3079
+  source: cb
+  ref: "Антья 5, 333–370"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 105
+  title: "Нитьянанда в украшениях; мальчики-пастушки вырывают деревья"
+  summary: "Нитьянанда желает украшений — и они являются: золотые браслеты, перстни, ожерелья из жемчуга и рудракши, серьги, шёлк, гирлянды, тюрбан; так Он обходит деревни по обоим берегам Ганги, и даже атеисты кланяются Ему; от Его взгляда дети вырывают деревья с криком «Я — пастушок!», месяц не едят и сильны как львы; Нитьянанда кормит их Сам, порой шлёпает и связывает, как Своих."
+  persons: ["@nityananda"]
+  places: ["#ganga"]
+  kind: lila
+  authority: A
+  notes: "Ст. 335–336, 350–353 в md отсутствуют. Украшения Нитьянанды — лила Баларамы (ст. 598), не мирская роскошь."
+  themes: [krishna-lila, mercy, kirtan]
+  bhava: [balarama]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "333", to: "370"}
+
+- id: cb-3080
+  source: cb
+  ref: "Антья 5, 371–394"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 111.5
+  title: "У Гададхары Даса: Бала-гопала на груди Нитьянанды и «Дана-кханда»"
+  summary: "Гададхара Дас в бхаве гопи носит на голове кувшин с водой Ганги, крича: «Кто купит молока?»; Нитьянанда прижимает к груди его Божество Бала-гопалы, танцует как пастушок, а под песнь Мадхавананды Гхоша о дана-лиле — несравненный танец со всеми признаками экстаза."
+  persons: ["@nityananda", "@gadadhara-dasa", "@madhava-ghosha"]
+  places: ["#ariadaha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 11.17–18"
+  themes: [kirtan, krishna-lila, deities]
+  bhava: [balarama]
+  event: ev-dana-khanda-gadadhara-dasa
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "371", to: "394"}
+
+- id: cb-3081
+  source: cb
+  ref: "Антья 5, 395–420"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 111.6
+  title: "Гададхара Дас у кази: «Пой имя Хари — сейчас, а не завтра»"
+  summary: "Ночью Гададхара Дас, воспевая имя, входит в дом кази, ненавидящего киртан, перед которым все трепещут: «Где кази? Пусть поёт имя Кришны, не то отрублю ему голову!»; кази, увидев его, смягчается и с улыбкой обещает петь завтра; «Зачем завтра? Произнеси сейчас — и все беды уйдут», — и Гададхара, хлопая в ладоши, танцует; автор: любящего Кришну не тронут ни огонь, ни змеи, ни звери."
+  persons: ["@gadadhara-dasa"]
+  places: ["#ariadaha"]
+  kind: lila
+  authority: A
+  notes: "Ст. 414–416, 418–419 в md отсутствуют. Деревня (Эндиядаха) названа лишь в пояснении к ст. 395."
+  themes: [muslims, kirtan, mercy]
+  teaching: [holy-name]
+  event: ev-gadadhara-dasa-kazi-harinama
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "395", to: "420"}
+
+- id: cb-3082
+  source: cb
+  ref: "Антья 5, 421–442"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 112.7
+  title: "Кхададаха: Пурандара на деревьях, Чайтанья Дас с тиграми и питоном"
+  summary: "Идя к Шачи, Нитьянанда приходит в дом Пурандары Пандита в Кхададахе и танцует; Пурандара рычит и лезет на деревья, Мурари Чайтанья Дас гонится за тигром, садится ему на спину, держит питона на коленях и днями пребывает под водой; ветерок от его тела пробуждает бхакти; автор обличает тех, кто зовётся «слугами Чайтаньи», но не славит Его, и тех, кто считает оскорблением для Адвайты, что Он славен милостью Чайтаньи."
+  persons: ["@nityananda", "@purandara-pandita", "@murari-chaitanya-dasa", "@advaita"]
+  places: ["#kharadaha"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 11; ванданы"
+  themes: [ecstasy, mercy]
+  teaching: [associates-tattva]
+  event: ev-associates-of-nityananda-wonders
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "421", to: "442"}
+
+- id: cb-3083
+  source: cb
+  ref: "Антья 5, 443–468"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 110
+  title: "Саптаграма: Тривени, Уддхарана Датта и спасение торговцев"
+  summary: "В Саптаграме, у Тривени, где сливаются Ганга, Ямуна и Сарасвати и где семь мудрецов достигли Говинды, Нитьянанда омывается и живёт у Уддхараны Датты, Своего вечного слуги; Он освобождает всё сословие торговцев — киртан в каждом их доме; даже яваны принимают прибежище у Его стоп, и брахманы, видя их слёзы, корят себя."
+  persons: ["@nityananda", "@uddharana-datta"]
+  places: ["#saptagrama"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.22.13–21; ЧЧ Ади 11"
+  themes: [mercy, kirtan, muslims]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "443", to: "468"}
+
+- id: cb-3084
+  source: cb
+  ref: "Антья 5, 469–495"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 115
+  title: "Нитьянанда и Адвайта в Шантипуре: молитва Адвайты Нитьянанде"
+  summary: "В Шантипуре Адвайта обходит Нитьянанду и кланяется, Они обнимаются, падают, стремясь прижать к груди стопы друг друга, и рычат, как миллионы львов; Адвайта молится: «Ты — воплощение качеств Чайтаньи, древо Его могущества, наставник Брахмы, Шивы и Нарады, Ананта, Лакшмана и Халадхара; лишь по Твоей милости обретается бхакти»; автор: Их мнимые ссоры — источник трансцендентной радости."
+  persons: ["@nityananda", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.22.22–25"
+  notes: "Ст. 483–484 в md отсутствуют."
+  themes: [ecstasy, teaching]
+  teaching: [associates-tattva]
+  event: ev-nityananda-advaita-meeting-shantipura
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "469", to: "495"}
+
+- id: cb-3085
+  source: cb
+  ref: "Антья 5, 496–505"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 120
+  title: "Нитьянанда у Шачи: «Ты пришёл, едва я пожелала»"
+  summary: "В Навадвипе Нитьянанда прежде всего кланяется Шачи; та говорит: «Ты — Высшая Душа: я лишь пожелала увидеть Тебя — и Ты здесь; останься в Навадвипе, чтобы я видела Тебя хоть раз в десять–тридцать дней»; Нитьянанда, зная её славу, с улыбкой соглашается остаться."
+  persons: ["@nityananda", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.23.1–12"
+  themes: [family, mercy]
+  event: ev-nityananda-visits-shachi
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "496", to: "505"}
+
+- id: cb-3086
+  source: cb
+  ref: "Антья 5, 506–526"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 121
+  title: "Киртан Нитьянанды по домам Навадвипы"
+  summary: "Нитьянанда ходит с киртаном из дома в дом по Навадвипе — в шёлковом тюрбане с гирляндами, жемчуге и золоте, с железным посохом, флейтой на поясе и звенящими колокольчиками на стопах, походкой царя слонов; Навадвипа подобна Матхуре: там много праведников, но и великих грешников — и по милости Нитьянанды и они вступают на путь бхакти; Чайтанья спас многих, а через Нитьянанду — всю вселенную."
+  persons: ["@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [kirtan, mercy, krishna-lila]
+  bhava: [balarama]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "506", to: "526"}
+
+- id: cb-3087
+  source: cb
+  ref: "Антья 5, 527–706"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 125
+  title: "Разбойники и украшения Нитьянанды: сон, незримая стража, слепота и буря; покаяние главаря"
+  summary: "Главарь разбойников, брахман лишь по рождению, решает похитить украшения Нитьянанды, жившего у бедного Хираньи Пандита: в первую ночь банду одолевает сон до рассвета; принеся Чанди вино и мясо, они приходят снова и видят дом окружённым могучими стражами в гирляндах, поющими имя; в третий раз они слепнут, падают во рвы и колючки, их бьёт ливень с градом, посланный Индрой; главарь понимает, что Нитьянанда — Бог, предаётся Ему в мыслях и прозревает; придя, он в слезах и экстазе кается; Нитьянанда велит: «Не греши больше, пой имя Хари и обрати остальных», — надевает на него Свою гирлянду и кладёт стопу на голову; все разбойники становятся вайшнавами, повторяя имя сотни тысяч раз."
+  persons: ["@nityananda", "@hiranya-pandita", "@indra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.23.13–18"
+  notes: "Ст. 595–596, 702–703 в md отсутствуют. Ст. 701: брахман, не принимающий Нитьянанду, не лучше вора."
+  themes: [mercy, offense, revelation]
+  teaching: [holy-name]
+  event: ev-nityananda-thieves
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "527", to: "706"}
+
+- id: cb-3088
+  source: cb
+  ref: "Антья 5, 707–717"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: P12
+  order: 126.5
+  title: "По деревням: Кханачауда, Бадагачхи, Догачхия, Кулия"
+  summary: "Нитьянанда с киртаном обходит деревни — Кханачауду, Бадагачхи, Догачхию, переправляется в Кулию; особенно славна Бадагачхи; Его спутники, всегда в бхаве пастушков, с посохами, флейтами, верёвками и ожерельями из гунджи, плачут, дрожат и поют санкиртану."
+  persons: ["@nityananda"]
+  places: ["#badagachhi", "#dogachhia", "#kulia"]
+  kind: lila
+  authority: A
+  parallels: "Мурари 4.23.19–25"
+  themes: [kirtan, krishna-lila]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "707", to: "717"}
+
+- id: cb-3089
+  source: cb
+  ref: "Антья 5, 718–756"
+  file: "chaitanya-bhagavata/ed/CB_Antya05.md"
+  period: PX
+  order: 305
+  title: "Перечень спутников Нитьянанды"
+  summary: "Автор перечисляет известных ему слуг Нитьянанды — проявления пастушков и пастушек из окружения Нанды, чьи прежние имена по запрету Нитьянанды не раскрывает: Рамадас (в его теле три месяца пребывал Кришна), Мурари Чайтанья Дас, Рагхунатха Вайдья Упадхьяя, Гададхара Дас, Сундарананда, Камалаканта (проповедник Саптаграмы), Гауридас, Пурандара, Парамешвари Дас, Дхананджая, Баларама Дас, Ядунатха Кавичандра, Джагадиш, Пурушоттама Пандит, Кришнадас из Радха-деши, Кала Кришнадас, Садашива Кавирадж и его сын Пурушоттама Дас, Уддхарана Датта, Махеша, Парамананда Упадхьяя, Гангадас, Вайшнавананда (прежде Рагхунатха Пури), Парамананда Гупта, Кришнадас из Бадагачхи, Мадхавананда и Васудева Гхоши, Джива Пандит и другие; у каждого — тысячи последователей."
+  persons: ["@vrindavana-dasa", "@nityananda", "@abhirama", "@murari-chaitanya-dasa", "@raghunatha-vaidya-upadhyaya", "@gadadhara-dasa", "@sundarananda", "@gauridasa-pandita", "@purandara-pandita", "@parameshvara-dasa", "@dhananjaya-pandita", "@yadunatha-kavichandra", "@jagadisha-pandita", "@kala-krishnadasa", "@sadashiva-kaviraja", "@uddharana-datta", "@mahesha-pandita", "@vaishnavananda", "@paramananda-gupta", "@krishnadasa-badagachhi", "@madhava-ghosha", "@vasu-ghosha", "@jiva-pandita"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 744 в md искажён (слит с пояснением)."
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "718", to: "756"}
