@@ -573,3 +573,229 @@
   cc: "Мадхья 11"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya11.md", from: "242", to: "243"}
+
+# ---------------- Мадхья 12 ----------------
+
+- id: cc-2031
+  source: cc
+  ref: "Мадхья 12.1–3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: PX
+  order: 995.4
+  title: "Мангалачарана Мадхья 12: Господь очистил храм Гундичи, как Своё сердце"
+  summary: "Господь с близкими преданными вымыл храм Гундичи и сделал его чистым, умиротворённым и светлым, как Своё сердце, достойным пребывания Кришны; слава Гаурачандре, Нитьянанде, Адвайте, Шривасе и преданным — автор просит сил описать деяния Господа."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "1", to: "3"}
+
+- id: cc-2032
+  source: cc
+  ref: "Мадхья 12.4–38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 8.45
+  title: "Письма царя; преданные заступаются за Пратапарудру; Господь, не встречаясь с ним, посылает ему Свою накидку"
+  summary: "Из Катаки царь писал Сарвабхауме: если Господь не будет милостив, он отречётся от царства и станет нищим. Сарвабхаума показал письмо преданным, и те, не решаясь просить, пришли к Господу; Нитьянанда рассказал о решимости царя. Внешне строгий Господь сказал, что встреча навлечёт насмешки и упрёки Дамодары; Дамодара ответил, что Господь независим и отвечает на любовь, а Нитьянанда, напомнив о жёнах брахманов-ягьиков, предложил послать царю накидку Господа. Господь согласился, и царь стал поклоняться накидке, как Самому Господу."
+  persons: ["@prataparudra", "@sarvabhauma", "@mahaprabhu", "@nityananda", "@damodara-pandita", "@govinda-servant"]
+  places: ["#cuttack", "#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa]
+  cc: "Мадхья 12"
+  event: ev-lord-refuses-to-see-king
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "4", to: "38"}
+
+- id: cc-2033
+  source: cc
+  ref: "Мадхья 12.39–56"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 63
+  title: "Рамананда просит за царя: «На белой ткани пятна не скроешь»; Господь велит привести царского сына"
+  summary: "Рамананда, приехав с царём, при каждом случае рассказывал Господу о его любви и смягчил Его сердце. На просьбу позволить царю увидеть Его стопы Господь ответил: санньяси, встретивший царя, теряет и эту жизнь, и следующую; простой санньяси должен беречься молвы — на белой ткани пятна не скроешь, капля вина портит кувшин молока; царь добродетелен, но царский титул всё портит. Однако, раз Рамананда настаивает, пусть приведёт царского сына: «отец являет себя в сыне»."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, mercy]
+  bhava: [sannyasi]
+  teaching: [sannyasa-teaching]
+  cc: "Мадхья 12"
+  event: ev-prataparudra-son-embraced
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "39", to: "56"}
+
+- id: cc-2034
+  source: cc
+  ref: "Мадхья 12.57–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 64
+  title: "Господь обнимает юного сына царя, напомнившего Ему Кришну"
+  summary: "Рамананда привёл царевича — смуглого, лотосоокого, в жёлтых одеждах и самоцветах, при виде которого вспоминался Кришна. Господь в преме назвал его маха-бхагаватой и обнял; в царевиче проявились испарина, дрожь, слёзы и оцепенение, он плясал и пел «Кришна! Кришна!». Господь велел ему приходить каждый день; царь, обняв сына, ощутил прему, словно коснулся Самого Господа, а царевич вошёл в круг близких преданных."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, ecstasy, krishna-lila]
+  cc: "Мадхья 12"
+  event: ev-prataparudra-son-embraced
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "57", to: "68"}
+
+- id: cc-2035
+  source: cc
+  ref: "Мадхья 12.69–71"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 64.5
+  title: "Дни киртана; Адвайта и другие приглашают Господа на трапезы"
+  summary: "Господь со спутниками проводил дни в санкиртане; лучшие преданные во главе с Адвайтой приглашали Его в свои дома, и так в счастье подошло время Ратха-ятры."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, prasada]
+  cc: "Мадхья 12"
+  event: ev-nilachala-sankirtana
+  notes: "Упоминание."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "69", to: "71"}
+
+- id: cc-2036
+  source: cc
+  ref: "Мадхья 12.72–121"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 65
+  title: "Уборка храма Гундичи: Господь метёт и моет храм, воспевая имя Кришны"
+  summary: "Перед Ратха-ятрой Господь попросил у Каши Мишры, распорядителя храма и Сарвабхаумы позволения убрать храм Гундичи; Ему дали сто кувшинов и сто мётел. Утром Он умастил преданных сандалом, раздал мётлы и сам вымел все покои, даже потолок и под троном, вынося мусор в подоле, и проверял, у кого куча больше; затем храм вымыли водой, которую носили сотни людей, а Господь вытер алтарь Своей одеждой. Всё время звучало лишь имя Кришны — им даже просили кувшины; Господь работал за сотню человек, хвалил старательных и мягко корил ленивых; вместе с храмом очистились сердца преданных."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@sarvabhauma", "@nityananda", "@advaita", "@damodara-pandita", "@brahmananda-bharati", "@paramananda-puri"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, kirtan, festival]
+  teaching: [holy-name]
+  cc: "Мадхья 12"
+  event: ev-gundicha-marjana
+  notes: "«Дамодара» в ст. 109 — вероятно, Сварупа Дамодара или Дамодара Пандит; отнесён к @damodara-pandita условно."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "72", to: "121"}
+
+- id: cc-2037
+  source: cc
+  ref: "Мадхья 12.122–135"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 65.1
+  title: "Простодушный бенгалец пьёт воду с ног Господа в храме; Господь «гневается» ради этикета"
+  summary: "Простодушный бенгальский вайшнав омыл в храме стопы Господа и выпил эту воду. Довольный в душе, Господь, оберегая этикет, сделал вид, что гневается: «Твой бенгалец навлёк на Меня беду», — и Сварупа вывел того из храма, а потом попросил простить. Затем Господь усадил всех рядами и сам собирал соломинки: у кого окажется меньше, уплатит дань сладким рисом. Вода из храма текла, как реки к океану, и дороги перед храмом стали чистыми."
+  persons: ["@mahaprabhu", "@svarupa-damodara"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, offense, pranks]
+  teaching: [purity]
+  cc: "Мадхья 12"
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "122", to: "135"}
+
+- id: cc-2038
+  source: cc
+  ref: "Мадхья 12.136–142"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 65.2
+  title: "Уборка храма Нрисимхи и танец Господа в санкиртане под пение Сварупы"
+  summary: "Господь вымыл и храм Нрисимхи, а затем танцевал в кругу поющих, как опьянённый лев: испарина, дрожь, бледность, ликующие крики и потоки слёз, омывавшие преданных; земля дрожала от Его прыжков. Особенно Он любил плясать под пение Сварупы Дамодары."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@nrisimha"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy, deities]
+  cc: "Мадхья 12"
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "136", to: "142"}
+
+- id: cc-2039
+  source: cc
+  ref: "Мадхья 12.143–150"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 66
+  title: "Гопала, сын Адвайты, лишается чувств в танце; «Гопала, вставай!»"
+  summary: "Господь велел танцевать Гопале, сыну Адвайты; тот в преме упал без чувств и перестал дышать. Адвайта и преданные пели мантру Нрисимхе и брызгали водой, но тщетно, и все плакали; тогда Господь положил руку ему на грудь и громко сказал: «Гопала, вставай!» — и мальчик очнулся. Подробно, говорит автор, это описал Вриндаван Дас."
+  persons: ["@gopala-dasa-advaita", "@advaita", "@mahaprabhu", "@vrindavana-dasa", "@nrisimha"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy]
+  cc: "Мадхья 12"
+  event: ev-gopala-dasa-revived
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "143", to: "150"}
+
+- id: cc-2040
+  source: cc
+  ref: "Мадхья 12.151–202"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 66.5
+  title: "Трапеза в саду у Гундичи: Господь вспоминает лесные трапезы Кришны; Сарвабхаума — «ворона стала Гарудой»; шутливая перебранка Адвайты и Нитьянанды"
+  summary: "После омовения Господь с преданными сел в саду; Ванинатха, Каши Мишра и Туласи принесли прасада на пятьсот человек. Харидас остался в стороне, ожидая остатков. Вспомнив лесные трапезы Кришны, Господь внутренне был в преме; Себе Он просил простых овощей, но Джагадананда и Сварупа подкладывали Ему лучшее, и Он ел из любви к ним. Гопинатха Ачарья радовался перемене Сарвабхаумы; тот сказал: «Господь превратил ворону в Гаруду — я, шакал-логик, теперь пою имя Кришны». Адвайта и Нитьянанда шутливо бранились — «авадхута неизвестного рода» и «монист» — прославляя друг друга под видом упрёков. Остатки Господа Говинда отнёс Харидасу, раздал всем и доел сам."
+  persons: ["@mahaprabhu", "@vaninatha-raya", "@kashi-mishra", "@tulasi-mishra", "@paramananda-puri", "@brahmananda-bharati", "@advaita", "@nityananda", "@chandrashekhara-acharya", "@srivasa", "@gadadhara-pandita", "@shankara-pandita", "@nandana-acharya", "@raghava-pandita", "@vakreshvara", "@sarvabhauma", "@haridasa-thakura", "@govinda-servant", "@svarupa-damodara", "@jagadananda-pandita", "@gopinatha-acharya", "@krishna"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  themes: [prasada, pranks, krishna-lila]
+  teaching: [prasada-teaching]
+  cc: "Мадхья 12"
+  event: ev-gundicha-garden-feast
+  notes: "Туласи, распорядитель (парикшита) храма, отнесён к @tulasi-mishra (ория-спутник в Пури) — тождество вероятное. «Ачарьянидхи» (ст. 157) — без тега. В нашем файле ст. 163–164 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "151", to: "202"}
+
+- id: cc-2041
+  source: cc
+  ref: "Мадхья 12.203–220"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: P12
+  order: 67
+  title: "Нетротсава: после двух недель разлуки Господь с преданными до полудня пьёт глазами красоту Джаганнатхи"
+  summary: "На другой день был праздник Нетротсава. Господь со спутниками — впереди Кашишвара, сзади Говинда с кувшином, рядом Адвайта и Сварупа — пошёл на даршан; преданные в нетерпении вошли даже в зал подношения бхоги. Глаза Господа, как пчёлы, пили мёд лотосного лица Джаганнатхи; дрожа и обливаясь слезами, Он созерцал Его до полудня, а во время подношений пел киртан, пока преданные не увели Его на трапезу. Наутро предстояла Ратха-ятра."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@kashishvara", "@govinda-servant", "@paramananda-puri", "@brahmananda-bharati", "@advaita", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, festival, ecstasy]
+  calendar: "Нетротсава, накануне Ратха-ятры"
+  cc: "Мадхья 12"
+  event: ev-netrotsava-darshan
+  notes: "Ст. 208 — «Парамананда Рай» (вероятно, описка перевода вместо «Парамананда Пури»)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "203", to: "220"}
+
+- id: cc-2042
+  source: cc
+  ref: "Мадхья 12.221–222"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md"
+  period: PX
+  order: 995.5
+  title: "Колофон Мадхья 12"
+  summary: "Кратко рассказано об уборке Гундичи; кто видит или слушает, даже грешник, обретает преданность Кришне. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "221", to: "222"}

@@ -70,3 +70,24 @@
   cb: ""
   themes: [mercy, kirtan]
   notes: "ЧЧ Мадхья 11.161–196: Харидас не идёт к храму; Господь обнимает его («касаюсь тебя, чтобы очиститься») и даёт уединённую хижину (традиционно — Сиддха-бакула)."
+
+- id: ev-gundicha-garden-feast
+  title: "Трапеза в саду после уборки Гундичи"
+  title_en: "The feast in the garden after the cleaning of Gundicha"
+  period: P12
+  order: 66.5
+  cc: "Мадхья 12"
+  cb: ""
+  themes: [prasada, pranks]
+  notes: "ЧЧ Мадхья 12.151–202: Господь вспоминает лесные трапезы Кришны; Сарвабхаума: «ворона стала Гарудой»; шутливая перебранка Адвайты и Нитьянанды (ср. похожую сцену в Шантипуре — ГКУ)."
+
+- id: ev-netrotsava-darshan
+  title: "Нетротсава: Господь созерцает Джаганнатху после анавасары"
+  title_en: "Netrotsava: the Lord beholds Jagannatha after anavasara"
+  period: P12
+  order: 67
+  calendar: "Нетротсава, накануне Ратха-ятры"
+  cc: "Мадхья 12"
+  cb: ""
+  themes: [jagannatha, festival, ecstasy]
+  notes: "ЧЧ Мадхья 12.203–220."
