@@ -91,3 +91,33 @@
   cb: ""
   themes: [jagannatha, festival, ecstasy]
   notes: "ЧЧ Мадхья 12.203–220."
+
+- id: ev-gundicha-nine-days-lilas
+  title: "Девять дней у Гундичи: киртаны и вриндаванские игры в саду Джаганнатха-валлабха"
+  title_en: "Nine days at Gundicha: kirtanas and Vrindavana pastimes in the Jagannatha-vallabha garden"
+  period: P12
+  order: 73
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [krishna-lila, kirtan, ecstasy]
+  notes: "ЧЧ Мадхья 14.70–74, 94–105: Господь чувствует, что Кришна вернулся во Вриндаван; пляски под деревьями под песни Васудевы Датты."
+
+- id: ev-indradyumna-jala-keli
+  title: "Водные игры в озере Индрадьюмна; Адвайта — ложе Шеши для Господа"
+  title_en: "Water pastimes in Indradyumna lake; Advaita becomes Shesha's bed for the Lord"
+  period: P12
+  order: 73.2
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [pranks, krishna-lila, revelation]
+  notes: "ЧЧ Мадхья 14.75–93: преданные сражаются парами, Сарвабхаума и Рамананда как дети; Шеша-шайи-лила."
+
+- id: ev-kulinagrama-silk-ropes
+  title: "Шёлковые верёвки для Джаганнатхи: служение жителей Кулинаграмы"
+  title_en: "Silk ropes for Jagannatha: the service of the residents of Kulinagrama"
+  period: P12
+  order: 76.5
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [jagannatha, festival]
+  notes: "ЧЧ Мадхья 14.248–253: Рамананда Васу и Сатьяраджа Хан ежегодно привозят верёвки («обитель Ананта-Шеши»); ср. ev-kulinagrama-glory."

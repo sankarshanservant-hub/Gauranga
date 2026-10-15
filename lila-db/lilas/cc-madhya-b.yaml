@@ -1089,3 +1089,306 @@
   cc: "Мадхья 13"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "205", to: "209"}
+
+# ---------------- Мадхья 14 ----------------
+
+- id: cc-2058
+  source: cc
+  ref: "Мадхья 14.1–3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: PX
+  order: 995.8
+  title: "Мангалачарана Мадхья 14: Гауранга на празднике Лакшми слушает о любви гопи и танцует"
+  summary: "Гауранга с близкими преданными пришёл на праздник богини Лакшми, с радостью слушал о несравненной любви гопи и танцевал в преме; слава Гаурачандре, Нитьянанде, Адвайте, Шривасе, преданным и читателям."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "1", to: "3"}
+
+- id: cc-2059
+  source: cc
+  ref: "Мадхья 14.4–22"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 72.6
+  title: "Милость к Пратапарудре в саду: царь в одежде вайшнава читает «Гопи-гиту», и Господь обнимает его — «Ты самый щедрый!»"
+  summary: "По совету Сарвабхаумы царь, сняв царские одежды и испросив позволения вайшнавов, вошёл в сад, где Господь лежал в преме с закрытыми глазами, стал растирать Ему стопы и читать «Раса-панчадхьяю» со слов «джайати те 'дхикам». Господь просил: «Читай ещё!», а на шлоке «тава катхамритам» (Бхаг. 10.31.9) поднялся и обнял его: «Ты подарил Мне бесценное сокровище; Ты самый щедрый!» — оба дрожали и плакали. Милость была дана за служение царя Джаганнатхе, ещё до вопроса, кто он; царь назвал себя слугой Его слуг, и Господь явил ему Своё величие, велев молчать."
+  persons: ["@prataparudra", "@mahaprabhu", "@sarvabhauma"]
+  places: ["#balagandi"]
+  kind: lila
+  authority: A
+  themes: [mercy, revelation, krishna-lila]
+  bhava: [gopi]
+  scriptures: ["Бхаг. 10.31.1", "Бхаг. 10.31.9"]
+  cc: "Мадхья 14"
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "4", to: "22"}
+
+- id: cc-2060
+  source: cc
+  ref: "Мадхья 14.23–46"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 72.7
+  title: "Пир прасадом Балаганди в саду; Говинда кормит нищих, и они, сказав «Харибол», обретают прему"
+  summary: "Ванинатха, а от царя — Сарвабхаума, Рамананда и Ванинатха — принесли бесчисленные яства, поднесённые Джаганнатхе в Балаганди (перечень молочных блюд, плодов и сладостей), заняв полсада; Господь радовался самому виду того, что вкусил Джаганнатха, и Сам раздавал утомлённым певцам — каждому по десять листьев-тарелок, пока Сварупа не упросил Его сесть. Остатки по велению Господа Говинда раздал нищим; Господь побуждал их петь «Харибол», и, произнеся имя, они погрузились в прему."
+  persons: ["@mahaprabhu", "@vaninatha-raya", "@sarvabhauma", "@ramananda-raya", "@prataparudra", "@svarupa-damodara", "@govinda-servant", "@jagannatha-deity"]
+  places: ["#balagandi"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy, kirtan]
+  teaching: [holy-name]
+  cc: "Мадхья 14"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "23", to: "46"}
+
+- id: cc-2061
+  source: cc
+  ref: "Мадхья 14.47–60"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 72
+  title: "Колесница не идёт даже за слонами; Господь толкает её головой, и она сама катится к Гундиче"
+  summary: "Колесница встала; ни гауды, ни борцы, ни сам царь, ни могучие слоны не могли её сдвинуть, и толпа досадовала. Господь велел отвязать слонов, дал канаты спутникам и сам толкнул колесницу сзади головой — она с грохотом покатилась сама, верёвки лишь держали. С криками «Слава Джаганнатхе!» и «Слава Гаурачандре!» колесница быстро достигла Гундичи; царь и свита были охвачены восторгом при виде могущества Господа."
+  persons: ["@mahaprabhu", "@prataparudra", "@jagannatha-deity"]
+  places: ["#puri", "#gundicha"]
+  kind: miracle
+  authority: A
+  themes: [jagannatha, revelation, festival]
+  cc: "Мадхья 14"
+  event: ev-lord-pushes-chariot
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "47", to: "60"}
+
+- id: cc-2062
+  source: cc
+  ref: "Мадхья 14.61–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 72.8
+  title: "Джаганнатха, Баларама и Субхадра восседают в Гундиче; Господь танцует перед храмом и отдыхает в Айтоте"
+  summary: "Джаганнатху перенесли с колесницы в храм Гундичи, Субхадра и Баларама воссели на троны; последовали омовение и подношение. Господь в великой преме танцевал перед храмом, вечером видел арати и ушёл отдыхать в Айтоту."
+  persons: ["@jagannatha-deity", "@balarama", "@subhadra", "@mahaprabhu"]
+  places: ["#gundicha", "#aitota"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, festival, kirtan]
+  cc: "Мадхья 14"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "61", to: "65"}
+
+- id: cc-2063
+  source: cc
+  ref: "Мадхья 14.66–69"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 73
+  title: "Приглашения: девять дней — девять главных спутников во главе с Адвайтой, а в сезон дождей — остальные"
+  summary: "Девять дней по очереди принимали Господа у себя девять главных спутников во главе с Адвайтой; остальные близкие преданные приглашали Его по одному дню в течение сезона дождей, иногда несколько вместе."
+  persons: ["@mahaprabhu", "@advaita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, festival]
+  calendar: "Ратха-ятра; чатурмасья"
+  cc: "Мадхья 14"
+  event: ev-chaturmasya-puri-invitations
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "66", to: "69"}
+
+- id: cc-2064
+  source: cc
+  ref: "Мадхья 14.70–74"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 73.1
+  title: "Киртаны во дворе Гундичи; Господь чувствует, что Кришна вернулся во Вриндаван"
+  summary: "Каждый день после омовения и даршана Господь танцевал в киртане, давая танцевать Адвайте, Нитьянанде, Харидасу, Ачьютананде и Вакрешваре; киртан шёл утром, днём и вечером. В эти дни Ему казалось, что Кришна вернулся во Вриндаван, и разлука исчезла; Он всё время думал об играх Радхи и Кришны."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@haridasa-thakura", "@achyutananda", "@vakreshvara", "@radha", "@krishna"]
+  places: ["#gundicha"]
+  kind: lila
+  authority: A
+  themes: [kirtan, krishna-lila, ecstasy]
+  bhava: [radha]
+  cc: "Мадхья 14"
+  event: ev-gundicha-nine-days-lilas
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "70", to: "74"}
+
+- id: cc-2065
+  source: cc
+  ref: "Мадхья 14.75–93"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 73.2
+  title: "Водные игры в озере Индрадьюмна: битвы преданных парами; Сарвабхаума и Рамананда как дети; Адвайта — ложе Шеши для Господа"
+  summary: "В озере Индрадьюмна Господь брызгал водой на преданных, те — на Него, водили хороводы и квакали, как лягушки; парами сражались Адвайта и Нитьянанда (проиграв, Адвайта бранил Нитьянанду), Видьянидхи и Сварупа, Мурари и Васудева, Шриваса и Гададхара, Рагхава и Вакрешвара, даже Сарвабхаума и Рамананда. Господь со смехом просил Гопинатху остановить степенных пандитов; тот ответил: в капле Его милости тонут и Сумеру, и Мандара, а сухой логик Бхаттачарья теперь пьёт нектар лилы. Затем Адвайта лёг на воду, Господь возлёг на Него, и так была явлена лила Шеша-шайи. После этого — трапеза у Адвайты с санньяси и прасад Ванинатхи для остальных."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@pundarika-vidyanidhi", "@svarupa-damodara", "@murari-gupta", "@vasudeva-datta", "@srivasa", "@gadadhara-pandita", "@raghava-pandita", "@vakreshvara", "@sarvabhauma", "@ramananda-raya", "@gopinatha-acharya", "@paramananda-puri", "@brahmananda-bharati", "@vaninatha-raya"]
+  places: ["#indradyumna-sarovara", "#aitota", "#gundicha"]
+  kind: lila
+  authority: A
+  themes: [pranks, krishna-lila, revelation, prasada]
+  bhava: [aishvarya]
+  cc: "Мадхья 14"
+  event: ev-indradyumna-jala-keli
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "75", to: "93"}
+
+- id: cc-2066
+  source: cc
+  ref: "Мадхья 14.94–105"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 73.3
+  title: "Вриндаванские игры в саду Джаганнатха-валлабха: Господь пляшет под каждым деревом под песни Васудевы Датты"
+  summary: "После даршанов Господь с преданными уходил в сад и предавался играм Кришны во Вриндаване: деревья и лианы ликовали, жужжали пчёлы, пели птицы. Под каждым деревом Васудева Датта пел новую песню, а Господь плясал; потом Он велел танцевать Вакрешваре и пел Сам со Сварупой и другими. Затем — игры в водах Нарендры и трапеза в саду; так девять дней, пока Джаганнатха был в Гундиче, Господь оставался в большом саду Джаганнатха-валлабха."
+  persons: ["@mahaprabhu", "@vasudeva-datta", "@vakreshvara", "@svarupa-damodara", "@jagannatha-deity"]
+  places: ["#jagannatha-vallabha", "#gundicha", "#narendra-sarovara"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, kirtan, ecstasy]
+  cc: "Мадхья 14"
+  event: ev-gundicha-nine-days-lilas
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "94", to: "105"}
+
+- id: cc-2067
+  source: cc
+  ref: "Мадхья 14.106–135"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 75
+  title: "Хера-панчами: по велению царя — пышный выезд Лакшми; её служанки «пленят» слуг Джаганнатхи"
+  summary: "Царь велел Каши Мишре устроить Хера-панчами (Лакшми-виджаю) пышнее Ратха-ятры, удвоить прасад и дать Господу и преданным свободно видеть Джаганнатху. Утром Господь, увидев Джаганнатху в Сундарачале, вернулся в Нилачалу и, сидя у Каши Мишры, спросил Сварупу, почему Джаганнатха не взял с Собой Лакшми; тот ответил: во вриндаванские игры у Лакшми нет доступа — лишь гопи; а гнев любящей естествен, когда ей кажется, что ею пренебрегли. Тут прибыла Лакшми на золотом паланкине с пышной свитой; её служанки связали главных слуг Джаганнатхи и бросили к её стопам, а спутники Господа смеялись, прикрывая лица."
+  persons: ["@prataparudra", "@kashi-mishra", "@mahaprabhu", "@svarupa-damodara", "@lakshmi", "@jagannatha-deity", "@subhadra", "@balarama"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha, krishna-lila]
+  calendar: "Хера-панчами (Лакшми-виджая)"
+  cc: "Мадхья 14"
+  event: ev-hera-panchami
+  notes: "В нашем файле ст. 117–118 отсутствуют (за 116 следует 119)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "106", to: "135"}
+
+- id: cc-2068
+  source: cc
+  ref: "Мадхья 14.136–202"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 75.1
+  title: "Сварупа Дамодара о мане гопи и украшениях Радхи: дхира, адхира, дхирадхира; кила-кинчита, виласа, лалита, куттамита"
+  summary: "Сварупа сказал: такой гордыни, как у Лакшми, нет нигде, а ман — достояние Сатьябхамы и гопи. По просьбе Господа он объяснил виды мана гопи — сдержанные (дхира), несдержанные (адхира) и смешанные, а также кроткие, дерзкие и средние; все они чисты и умножают счастье Кришны, Чья суть — раса; гопи левого и правого крыла едины в стремлении радовать Его (Бхаг. 10.33.25), а Радха, глава гопи, — левого крыла, и Её негодование погружает Кришну в блаженство (Уджвала-ниламани). Према Радхи — вершина, как очищенное золото; её украшения — саттвика- и вьябхичари-бхавы и двадцать аланкар; подробно описаны кила-кинчита (смесь восьми чувств, лежащая в основе махабхавы), виласа, лалита и куттамита с шлоками. Господь, ликуя, просил: «Продолжай!» — и обнимал Сварупу."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@radha", "@krishna", "@lakshmi", "@satyabhama"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Бхаг. 10.33.25", "Уджвала-ниламани, Шрингара-бхеда-катхана, 102", "Уджвала-ниламани (шлоки о кила-кинчите, виласе, лалите, куттамите)"]
+  cc: "Мадхья 14"
+  event: ev-hera-panchami
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "136", to: "202"}
+
+- id: cc-2069
+  source: cc
+  ref: "Мадхья 14.203–232"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 75.2
+  title: "Шриваса славит богатство «своей госпожи» Лакшми; Сварупа отвечает о богатстве Вриндавана — земля из чинтамани, коровы-сурабхи"
+  summary: "Шриваса, нравом подобный Нараде, шутил: богатство Вриндавана — цветы, листья, павлиньи перья и гунджа, а его госпожа Лакшми восседает на троне из самоцветов; когда Джаганнатха ушёл во Вриндаван, её служанки били палками колесницу и взяли со слуг Джаганнатхи слово привезти Его назавтра. Господь сказал: «Ты, Шриваса, как Нарада, впечатлён величием Господа, а Сварупа — в чистой преме Враджа». Сварупа напомнил: богатства Вайкунтхи и Двараки — капля перед океаном Враджа, где земля — чинтамани, деревья — калпаврикши, коровы — сурабхи, речь — песня, ходьба — танец, а гопи выше Лакшми (Брахма-самхита 5.56; Бхакти-расамрита-синдху 2.1.173). Шриваса заплясал, хлопая себя под мышками, а Господь танцевал, слушая о любви Радхи, и затопил Пури премой."
+  persons: ["@srivasa", "@svarupa-damodara", "@mahaprabhu", "@lakshmi", "@jagannatha-deity", "@narada", "@radha"]
+  places: ["#puri", "#vrindavana", "#vaikuntha", "#dvaraka"]
+  kind: teaching
+  authority: A
+  themes: [krishna-lila, pranks, teaching]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита, 5.56", "Бхакти-расамрита-синдху, 2.1.173"]
+  cc: "Мадхья 14"
+  event: ev-hera-panchami
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "203", to: "232"}
+
+- id: cc-2070
+  source: cc
+  ref: "Мадхья 14.233–243"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 75.3
+  title: "Господь в бхаве Радхи являет Её облик; Нитьянанда молится издали; Сварупа возвращает Его к внешнему сознанию"
+  summary: "Лакшми удалилась, а Господь всё танцевал; певцы устали, но Его према удвоилась: в бхаве Радхи Он явился в Её облике. Нитьянанда издали возносил Ему молитвы, не смея приблизиться; Сварупа указал Господу на усталость преданных, и Он пришёл во внешнее сознание. Затем — отдых в саду, прасад Джаганнатхи и Лакшми, даршан, игры в Нарендре и вечерняя трапеза; так прошли все восемь дней праздника."
+  persons: ["@mahaprabhu", "@nityananda", "@svarupa-damodara", "@radha", "@lakshmi", "@jagannatha-deity"]
+  places: ["#puri", "#narendra-sarovara"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, revelation, prasada]
+  bhava: [radha]
+  cc: "Мадхья 14"
+  event: ev-hera-panchami
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "233", to: "243"}
+
+- id: cc-2071
+  source: cc
+  ref: "Мадхья 14.244–247"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 76
+  title: "Возвращение колесниц (Бахуда): Джаганнатха едет обратно; Господь снова поёт и танцует"
+  summary: "На следующий день Джаганнатха вышел из храма и на колеснице вернулся в Свою обитель; Господь, как и прежде, пел и танцевал с преданными. Когда Джаганнатху переносили на колесницу, часть шёлковых верёвок порвалась, лопались и хлопковые подушки."
+  persons: ["@jagannatha-deity", "@mahaprabhu"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha, kirtan]
+  calendar: "Бахуда-ятра"
+  cc: "Мадхья 14"
+  event: ev-bahuda-return-chariots
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "244", to: "247"}
+
+- id: cc-2072
+  source: cc
+  ref: "Мадхья 14.248–254"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: P12
+  order: 76.5
+  title: "Господь поручает Рамананде Васу и Сатьярадже Хану привозить каждый год шёлковые верёвки для Джаганнатхи"
+  summary: "Господь отдал порванные верёвки жителям Кулинаграмы Рамананде Васу и Сатьярадже Хану и велел им впредь почитать эти верёвки и каждый год привозить новые, прочнее: «Эта верёвка — обитель Ананта-Шеши, служащего Бхагавану в десяти обликах». С тех пор они ежегодно с радостью привозили верёвки к уборке Гундичи. Джаганнатха вернулся на трон, а Господь — домой."
+  persons: ["@mahaprabhu", "@ramananda-vasu", "@satyaraja-khan", "@jagannatha-deity"]
+  places: ["#puri", "#kulinagrama"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, festival, mercy]
+  cc: "Мадхья 14"
+  event: ev-kulinagrama-silk-ropes
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "248", to: "254"}
+
+- id: cc-2073
+  source: cc
+  ref: "Мадхья 14.255–257"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md"
+  period: PX
+  order: 995.9
+  title: "Колофон Мадхья 14"
+  summary: "Так Господь показал преданным праздник колесниц и дал вкусить сладость игр Вриндавана; Его лилы безграничны — даже Шеша не опишет их. Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya14.md", from: "255", to: "257"}
