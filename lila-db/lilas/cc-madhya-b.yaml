@@ -799,3 +799,293 @@
   cc: "Мадхья 12"
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya12.md", from: "221", to: "222"}
+
+# ---------------- Мадхья 13 ----------------
+
+- id: cc-2043
+  source: cc
+  ref: "Мадхья 13.1–3"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: PX
+  order: 995.6
+  title: "Мангалачарана Мадхья 13: танец Господа перед колесницей изумил Самого Джаганнатху"
+  summary: "Слава Чайтанье, Чей танец перед колесницей Владыки мира очаровал вселенную и изумил Самого Джаганнатху; слава Чайтанье, Нитьянанде, Адвайте, преданным и всем, кто слушает рассказ об этом танце."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@jagannatha-deity"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 13"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "1", to: "3"}
+
+- id: cc-2044
+  source: cc
+  ref: "Мадхья 13.4–18"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69
+  title: "Панду-виджая: дайиты несут Джаганнатху к колеснице; царь Пратапарудра метёт дорогу золотой метлой"
+  summary: "До рассвета Господь с преданными омылся и пришёл на Панду-виджаю. Могучие дайиты несли Джаганнатху с трона к колеснице, перенося с подушки на подушку (тули), которые лопались, взметая хлопок; но Владыка движется лишь по Своей воле. Господь восклицал «Манима! Манима!». Царь Пратапарудра, как нижайший слуга, мёл дорогу метлой с золотой рукоятью и кропил её сандаловой водой, и Господь был доволен его смирением."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@prataparudra", "@advaita", "@nityananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha, mercy]
+  calendar: "Ратха-ятра; Панду-виджая"
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "4", to: "18"}
+
+- id: cc-2045
+  source: cc
+  ref: "Мадхья 13.19–28"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.1
+  title: "Колесницы Джаганнатхи, Баларамы и Субхадры; Джаганнатха с позволения Лакшми едет радовать преданных"
+  summary: "Золотая, высокая, как Сумеру, колесница; Джаганнатха взошёл на первую, Субхадра и Баларама — на другие. Пятнадцать дней Он был наедине с Лакшми и с её позволения выехал радовать преданных; дорога, усыпанная белым песком, напоминала берега Ямуны, сады — рощи Вриндавана. Гауды тянули колесницу, но она шла то быстро, то медленно, то вставала: её движение подвластно лишь воле Господа."
+  persons: ["@jagannatha-deity", "@balarama", "@subhadra", "@lakshmi"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "В нашем файле ст. 20–21 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "19", to: "28"}
+
+- id: cc-2046
+  source: cc
+  ref: "Мадхья 13.29–54"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.2
+  title: "Семь групп киртана перед колесницей; Господь одновременно в каждой из них"
+  summary: "Когда колесница встала, Господь украсил преданных гирляндами и сандалом и разделил киртан на четыре группы (запевалы — Сварупа, Шриваса, Мукунда, Говинда Гхош; танцоры — Адвайта, Нитьянанда, Харидас, Вакрешвара), а также группы Кулинаграмы (танцоры Рамананда и Сатьяраджа), Шантипура (танцор Ачьютананда) и Кханды (Нарахари и Рагхунандана); четырнадцать мриданг звучали разом. Восклицая «Хари!» и «Слава Джаганнатхе!», Господь силой Своего могущества оказался во всех семи группах сразу, и каждая думала, что Он лишь с ней; это постигают лишь близкие спутники."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@brahmananda-bharati", "@advaita", "@nityananda", "@svarupa-damodara", "@srivasa", "@govinda-datta", "@raghava-pandita", "@govindananda", "@gangadasa-pandita", "@shriman-pandita", "@shubhananda", "@srirama-pandita", "@vasudeva-datta", "@murari-gupta", "@mukunda-datta", "@shrikanta-sena", "@haridasa-thakura", "@govinda-ghosha", "@chhota-haridasa", "@madhava-ghosha", "@vasu-ghosha", "@vakreshvara", "@ramananda-vasu", "@satyaraja-khan", "@achyutananda", "@narahari-sarakara", "@raghunandana"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, revelation, festival]
+  bhava: [aishvarya]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "В перечне певцов также Нараяна, Харидас (во 2-й группе), Гопинатха, Валлабха Сен, Вишнудас, Рагхава (в 4-й группе) — без тегов, где тождество неочевидно."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "29", to: "54"}
+
+- id: cc-2047
+  source: cc
+  ref: "Мадхья 13.55–68"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.3
+  title: "Джаганнатха останавливает колесницу, чтобы смотреть киртан; царь, Сарвабхаума и Каши Мишра видят многоликость Господа"
+  summary: "Довольный киртаном, Джаганнатха остановил колесницу. Царь, потрясённый, рассказал Каши Мишре о величии Господа; лишь он и Сарвабхаума видели эту лилу. Господь, довольный тем, что царь мёл дорогу, даровал ему милость, хотя отказал во встрече. Как Кришна в расе, Гауранга силой Лила-шакти являлся то в одном, то во многих обликах; этот танец видели лишь преданные."
+  persons: ["@jagannatha-deity", "@prataparudra", "@kashi-mishra", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [revelation, mercy, jagannatha]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "55", to: "68"}
+
+- id: cc-2048
+  source: cc
+  ref: "Мадхья 13.69–81"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.4
+  title: "Господь Сам начинает танец: семь групп сливаются в одну; молитвы Джаганнатхе — «гопи-бхартух пада-камалайор даса-дасанудасах»"
+  summary: "Когда Господь пожелал танцевать Сам, семь групп слились в одну, и десять спутников пели вокруг Него. Поклонившись и сложив руки перед Джаганнатхой, Он прочёл молитвы: «Намо брахманья-девая» (Вишну-пурана 1.19.65), «Джайа джайа деваки-нандана» (Мукунда-мала 3), «Джайати джана-нивасо» (Бхаг. 10.90.48) и «Нахам випро» (Падьявали 74) — «я лишь слуга слуги слуги стоп Владыки гопи»."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, jagannatha]
+  bhava: [devotee]
+  scriptures: ["Вишну-пурана, 1.19.65", "Мукунда-мала, 3", "Бхаг. 10.90.48", "Падьявали, 74"]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "В нашем файле ст. 73–74 (имена десяти певцов) отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "69", to: "81"}
+
+- id: cc-2049
+  source: cc
+  ref: "Мадхья 13.82–100"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.5
+  title: "Экстатический танец Господа; три круга охраны; Шриваса и Харичандана: «Тебе повезло — тебя коснулся Шриваса»"
+  summary: "Господь кружился, как огненное колесо, земля дрожала; Он то цепенел, то плакал, дрожал и катался по земле, как золотая гора. Нитьянанда пытался удержать Его, Адвайта кричал «Харибол!». Преданные образовали три круга: Нитьянанда, затем Мукунда и Кашишвара, а внешний — царь со свитой. Царь, опираясь на плечо Харичанданы, смотрел на танец; Шриваса в экстазе стоял перед ним, Харичандана толкал его, тот оттолкнул Харичандану, и царь остановил его гнев: «Тебе повезло — тебя коснулся Шриваса». Джаганнатха, не мигая, смотрел на танец; Субхадра и Баларама улыбались."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@mukunda-datta", "@kashishvara", "@prataparudra", "@harichandana", "@srivasa", "@jagannatha-deity", "@subhadra", "@balarama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, kirtan, jagannatha]
+  teaching: [vaishnava]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "82", to: "100"}
+
+- id: cc-2050
+  source: cc
+  ref: "Мадхья 13.101–111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.6
+  title: "Восемь саттвика-бхав в теле Господа; Шубхананда пьёт пену с Его уст; неистовый танец (тандава)"
+  summary: "В танце в Господе разом проявились восемь саттвика-бхав: волосы встали дыбом, как шипы шимули, стучали зубы, пот выступал с кровью, голос срывался на «джаджа гага», слёзы мочили всех, цвет менялся, тело цепенело, дыхание останавливалось. Влагу и пену с Его уст испил удачливый Шубхананда, вкусив сладость премы. Так Господь некоторое время плясал неистовый танец (тандава), а затем Его ум погрузился в особую бхаву."
+  persons: ["@mahaprabhu", "@shubhananda"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, kirtan]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "Ст. 111: в оригинале «тандава-нритья» — здесь бурный, неистовый танец премы; перевод «танец Разрушения» может подсказать связь с разрушительной тандавой Шивы, которой здесь нет."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "101", to: "111"}
+
+- id: cc-2051
+  source: cc
+  ref: "Мадхья 13.112–134"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.7
+  title: "В бхаве Радхи на Курукшетре: «Сей то парана-натха» и «Йах каумара-харах» — состязание Господа с Джаганнатхой"
+  summary: "По знаку Господа Сварупа запел: «Наконец Я снова обрела Владыку жизни»; Господь плясал, жестами передавая смысл песни; когда Он уходил назад, колесница вставала, а когда шёл вперёд — двигалась: казалось, Он заставляет Джаганнатху ждать. Потом Он вновь и вновь читал шлоку «Тот, кто похитил Моё сердце в юности…» (Падьявали 386), смысл которой знал лишь Сварупа: при виде Джаганнатхи в Нём ожила бхава гопи, встретивших Кришну на Курукшетре, — Радха молит Кришну вернуться из мира колесниц, коней и царских одежд во Вриндаван, к флейте и пастушьему наряду. Этот смысл позже открыл всем Шри Рупа."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@jagannatha-deity", "@radha", "@krishna", "@rupa-gosvami"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, jagannatha]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Падьявали, 386"]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "112", to: "134"}
+
+- id: cc-2052
+  source: cc
+  ref: "Мадхья 13.135–160"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.8
+  title: "Шлока «ахуш ча те налина-набха» (Бхаг. 10.82.48) и её толкование: мольба Радхи вернуться во Врадж и ответ Кришны"
+  summary: "Танцуя, Господь читал шлоку гопи с Курукшетры (Бхаг. 10.82.48). Толкование: ум Радхи не отличен от Вриндавана — пусть Кришна явит стопы там; Его наставления в йоге через Уддхаву неуместны для гопи, не ищущих освобождения; как Он мог забыть Врадж, Ямуну, Говардхану, родителей и друзей; Яшода и Нанда живут лишь Им. Кришна, вспомнив любовь Враджа, отвечает: Он день и ночь помнит их и плачет, Радха — жизнь Его жизни; Он незримо приходит к Ней каждый день и скоро вернётся, покарав врагов Яду; шлока Бхаг. 10.82.44 утешает Радху. Господь со Сварупой дни и ночи вкушал смысл этих стихов."
+  persons: ["@mahaprabhu", "@radha", "@krishna", "@uddhava", "@yashoda", "@nanda", "@svarupa-damodara"]
+  places: ["#vrindavana", "#dvaraka"]
+  kind: teaching
+  authority: A
+  themes: [krishna-lila, separation, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Бхаг. 10.82.48", "Бхаг. 10.82.44"]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "Ст. 154 — «поклоняюсь Шри Нараяне» (слова Кришны в лиле; в оригинале «нараяна-сева»)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "135", to: "160"}
+
+- id: cc-2053
+  source: cc
+  ref: "Мадхья 13.161–179"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 69.9
+  title: "Сварупа Дамодара угадывает каждую бхаву Господа; буря бхав в Господе пробуждает прему во всех; колесницы останавливаются"
+  summary: "Удача Сварупы, всецело преданного Господу, неописуема: их чувства были едины, и Господь самозабвенно внимал его пению. Порой Господь садился на дорогу и что-то писал пальцем, а Сварупа осматривал Его руку; он мгновенно угадывал любой оттенок Его чувств и выражал его в песне. Бхавы в Господе сражались, как войска, и тело Его было как Гималаи, покрытые цветущими деревьями чувств; прему ощутили все — слуги Джаганнатхи, стража, паломники; Джаганнатха и Баларама остановили колесницы, чтобы смотреть на танец."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@jagannatha-deity", "@balarama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy, jagannatha]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  notes: "В нашем файле ст. 168–169 отсутствуют."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "161", to: "179"}
+
+- id: cc-2054
+  source: cc
+  ref: "Мадхья 13.180–188"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 70.5
+  title: "Господь падает перед царём; Пратапарудра поднимает Его — «Меня коснулся мирской человек!»"
+  summary: "Танцуя, Господь внезапно упал перед Пратапарудрой; царь подхватил Его, и Господь, придя в себя, воскликнул: «Горе Мне — Меня коснулся предающийся мирскому!» (Нитьянанда был в блаженстве, а Каши Мишры и Говинды рядом не было). В душе Господь был благосклонен к царю, видя его служение, но изобразил гнев, чтобы научить спутников. Сарвабхаума успокоил царя: Господь доволен им, и в удобный час он устроит встречу."
+  persons: ["@mahaprabhu", "@prataparudra", "@nityananda", "@kashi-mishra", "@govinda-servant", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa]
+  bhava: [sannyasi]
+  cc: "Мадхья 13"
+  event: ev-prataparudra-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "180", to: "188"}
+
+- id: cc-2055
+  source: cc
+  ref: "Мадхья 13.189–192"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 72
+  title: "Господь сдвигает колесницу Джаганнатхи головой"
+  summary: "Господь обошёл колесницу, упёрся в неё сзади головой — и она с грохотом пошла, а люди закричали «Хари! Хари!». Затем Он танцевал перед колесницами Субхадры и Баларамы и вновь перед Джаганнатхой."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@subhadra", "@balarama"]
+  places: ["#puri"]
+  kind: miracle
+  authority: A
+  themes: [jagannatha, revelation, festival]
+  cc: "Мадхья 13"
+  event: ev-lord-pushes-chariot
+  notes: "В ЧЧ этот эпизод — в Мадхья 13 (не 14, как указано в событии)."
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "189", to: "192"}
+
+- id: cc-2056
+  source: cc
+  ref: "Мадхья 13.193–204"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: P12
+  order: 72.5
+  title: "Балаганди: Джаганнатхе подносят бхогу все без различия; Господь отдыхает в саду"
+  summary: "В Балаганди, селении брахманов, Джаганнатха остановился посмотреть на рощи, напоминающие Вриндаван, и смотрел на танец Господа. По обычаю там все — царь с царицами, жители и паломники любого сословия — подносили Ему приготовленную с любовью пищу без особых правил. Завершив танец, Господь, утомлённый и в преме, лёг в саду на возвышении, наслаждаясь прохладным ветерком; преданные отдыхали под деревьями."
+  persons: ["@jagannatha-deity", "@mahaprabhu", "@prataparudra"]
+  places: ["#puri", "#balagandi"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, prasada, festival]
+  cc: "Мадхья 13"
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "193", to: "204"}
+
+- id: cc-2057
+  source: cc
+  ref: "Мадхья 13.205–209"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md"
+  period: PX
+  order: 995.7
+  title: "Шлока «Чайтаньяштаки» Рупы Госвами о танце перед колесницей; колофон Мадхья 13"
+  summary: "Так описана маха-санкиртана Господа перед колесницей; Шри Рупа в «Чайтаньяштаке» (Става-мала) молит вновь увидеть Его танец на главной дороге Пури. Слушающий достигнет Господа; Кришнадас, уповая на Рупу и Рагхунатху, рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Става-мала, Чайтаньяштака, 1.7"]
+  cc: "Мадхья 13"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya13.md", from: "205", to: "209"}
