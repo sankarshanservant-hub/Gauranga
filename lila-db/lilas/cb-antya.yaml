@@ -1693,3 +1693,98 @@
   teaching: [associates-tattva]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "718", to: "756"}
+
+# ---------- Антья 6 ----------
+- id: cb-3090
+  source: cb
+  ref: "Антья 6, 1–7"
+  file: "chaitanya-bhagavata/ed/CB_Antya06.md"
+  period: P12
+  order: 126.8
+  title: "Нитьянанда в Навадвипе в украшениях; не все верят Ему"
+  summary: "Нитьянанда с вечными спутниками бродит по Навадвипе, являя те же игры, что во Вриндаване, украшенный гирляндами и драгоценностями, с губами, красными от бетеля, и искренне обращает сердца к Кришне Чайтанье; люди радуются, но есть и не верящие в Него."
+  persons: ["@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, kirtan]
+  bhava: [balarama]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "1", to: "7"}
+
+- id: cb-3091
+  source: cb
+  ref: "Антья 6, 8–37"
+  file: "chaitanya-bhagavata/ed/CB_Antya06.md"
+  period: P12
+  order: 127
+  title: "Вопрос брахмана о Нитьянанде: «Почему санньяси жуёт бетель и носит золото?»"
+  summary: "Бывший соученик Господа, твёрдо верящий в Гауру, но не знающий могущества Нитьянанды, в Пури спрашивает: «Нитьянанда — санньяси, но жуёт бетель с камфарой, носит золото, серебро и шёлк вместо шафрана, железный посох вместо данды и живёт у шудр — почему Его поведение не согласно с ашрамом?»; Господь улыбается: «Великую личность не касаются мирские достоинства и пороки, как лепесток лотоса — вода; в теле Нитьянанды всегда играет Кришна; недостойный, подражая Ему, погибнет, как всякий, кроме Рудры, выпивший яд; хулящий Его страдает из рождения в рождение — даже смеяться над великим губительно»."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#puri", "#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 32–33 в md отсутствуют. Поведение Нитьянанды — вне правил ашрама (авадхута), подражать ему запрещено (ст. 30–31)."
+  themes: [teaching, offense, sannyasa]
+  teaching: [associates-tattva, vaishnava, sannyasa-teaching]
+  scriptures: ["Бхаг. 11.20.36"]
+  event: ev-brahmana-doubts-nityananda-conduct
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "8", to: "37"}
+
+- id: cb-3092
+  source: cb
+  ref: "Антья 6, 38–113"
+  file: "chaitanya-bhagavata/ed/CB_Antya06.md"
+  period: P00
+  order: 910
+  title: "Рассказ «Бхагаваты»: шесть сыновей Деваки, наказанные за насмешку над Брахмой"
+  summary: "Господь пересказывает «Бхагавату»: Кришна и Баларама, вернув гуру умершего сына из обители Ямы, по просьбе Деваки идут к Бали за шестью её сыновьями, убитыми Камсой; Бали в преме предлагает Им всё и молит сделать его слугой слуги; Кришна объясняет: эти шестеро, внуки Брахмы (сыновья Маричи), посмеялись над Брахмой и родились демонами у Хираньякашипу, затем Йогамайя поместила их в лоно Деваки; насмехающийся над вайшнавом страдает из рождения в рождение; поклоняющийся Мне без поклонения Моему преданному не обретёт Моей милости; испив молока Деваки, они освобождаются и, попросив прощения у Брахмы, возвращаются в свой мир."
+  persons: ["@krishna", "@balarama", "@devaki", "@brahma", "@yogamaya"]
+  places: []
+  kind: pre-advent
+  authority: A
+  notes: "Ст. 109: Брахма наделён могуществом Господа — даже его кажущиеся ошибки не следует порицать. Бали Махараджа — тег не заведён."
+  themes: [krishna-lila, offense, teaching]
+  teaching: [vaishnava]
+  scriptures: ["Бхаг. 10.45.30–46", "Бхаг. 10.85.30–58", "Бхаг. 3.12.28"]
+  event: ev-brahmana-doubts-nityananda-conduct
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "38", to: "113"}
+
+- id: cb-3093
+  source: cb
+  ref: "Антья 6, 114–128"
+  file: "chaitanya-bhagavata/ed/CB_Antya06.md"
+  period: P12
+  order: 127.1
+  title: "«Даже если Нитьянанда войдёт в винную лавку, Его стопы чтит Брахма»"
+  summary: "Господь заключает: «Оставь сомнения о Нитьянанде — Он пришёл спасти падших, Его деяния вне правил; хулящий Его, даже обретя бхакти Вишну, остановится; иди в Навадвипу и повтори всем Мои слова: даже если Нитьянанда возьмёт за руку женщину вне касты или войдёт в винную лавку, Его стопам поклоняется Брахма»; брахман, обретя веру, возвращается, признаётся Нитьянанде в своём оскорблении и получает Его милость."
+  persons: ["@mahaprabhu", "@nityananda", "@brahma"]
+  places: ["#puri", "#navadvipa"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 122–123 в md отсутствуют."
+  themes: [teaching, mercy, offense]
+  teaching: [associates-tattva]
+  event: ev-brahmana-doubts-nityananda-conduct
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "114", to: "128"}
+
+- id: cb-3094
+  source: cb
+  ref: "Антья 6, 129–143"
+  file: "chaitanya-bhagavata/ed/CB_Antya06.md"
+  period: PX
+  order: 306
+  title: "Автор о Нитьянанде: «Даже будь Он ничтожнейшим слугой Чайтаньи — Его стопы в моём сердце»"
+  summary: "Деяния Нитьянанды непостижимы даже для Вед: одни зовут Его Баларамой, другие — любимцем Чайтаньи, полным проявлением Господа, третьи не знают; пусть говорят что угодно — автор Его вечный слуга и готов ударить ногой по голове неисправимого хулителя; Гаурасундар — Господь его вечного Владыки; он молит о прибежище Нитьянанды и о том, чтобы не забывать стоп Гауры; подпись Вриндавана Даса."
+  persons: ["@vrindavana-dasa", "@nityananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  teaching: [associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Antya06.md", from: "129", to: "143"}
