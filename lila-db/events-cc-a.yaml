@@ -354,3 +354,25 @@
   cb: ""
   themes: [mercy, jagannatha]
   notes: "Господь отказывается просить царя и хочет уйти в Алаланатху; Пратапарудра прощает долг, узнав об этом от Каши Мишры."
+
+# --- Антья 10 ---
+- id: ev-jagamohana-dance-govinda-crosses
+  title: "Танец Господа в храме под песню «джагамохана»; Говинда переступает через спящего Господа"
+  title_en: "The Lord's dance in the temple to the Jagamohana song; Govinda steps over the sleeping Lord"
+  period: P14
+  order: 51
+  cc: "Антья 10.57–102"
+  cb: ""
+  themes: [kirtan, ecstasy, jagannatha]
+  teaching: [vaishnava]
+  notes: "Киртан семи групп вокруг храма; строка на ория «пусть моя голова склонится в джагамохане»."
+
+- id: ev-chaitanya-dasa-feast
+  title: "Приглашения бенгальских вайшнавов; пиры Шивананды и его сына Чайтаньи Даса"
+  title_en: "Invitations of the Bengali Vaishnavas; the feasts of Shivananda and his son Chaitanya Dasa"
+  period: P14
+  order: 52
+  cc: "Антья 10.132–157"
+  cb: ""
+  themes: [prasada, family]
+  notes: "«Что за имя такое — Чайтанья Дас?»; сын угадывает желание Господа."

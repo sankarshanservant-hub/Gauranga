@@ -1815,3 +1815,189 @@
   cc: "Антья 9"
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "153", to: "153"}
+
+- id: cc-4097
+  source: cc
+  ref: "Антья 10.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: PX
+  order: 995.19
+  title: "Мангалачарана Антья 10"
+  summary: "Поклон Чайтанье, всегда довольному тем, что с верой и любовью подносят Ему преданные; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "1", to: "2"}
+
+- id: cc-4098
+  source: cc
+  ref: "Антья 10.3–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 5
+  title: "Бенгальцы во главе с Адвайтой снова идут в Пури; Нитьянанда идёт вопреки велению Господа — любовь не признаёт правил"
+  summary: "На следующий год преданные во главе с Адвайтой, Чандрашекхарой, Пундарикой Видьянидхи и Шривасой пошли в Пури; Нитьянанда, хотя Господь велел Ему оставаться в Бенгалии, тоже пошёл из любви: любовь пренебрегает даже велением Господа, как гопи, не ушедшие домой перед расой, и это доставляет Кришне в миллионы раз больше радости. С ними шли Васудева Датта, Мурари, Гангадаса, Шриман Сена, Шриман Пандит, Акинчана Кришнадас, Гаруда Пандит, Буддхиманта Хан, Пурушоттама Санджая, Бхагаван Пандит, Шукламбара, Нрисимхананда, жители Кулинаграмы и Кханды; о всех заботился Шивананда Сен."
+  persons: ["@advaita", "@nityananda", "@chandrashekhara-acharya", "@pundarika-vidyanidhi", "@srivasa", "@vasudeva-datta", "@murari-gupta", "@gangadasa-pandita", "@shriman-sena", "@shriman-pandita", "@akinchana-krishnadasa", "@garuda-pandita", "@buddhimanta-khan", "@purushottama-sanjaya", "@bhagavan-pandita", "@shuklambara", "@nrisimhananda", "@shivananda-sena", "@mahaprabhu"]
+  places: ["#kulinagrama", "#shrikhanda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, festival]
+  teaching: [prema]
+  cc: "Антья 10"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "3", to: "12"}
+
+- id: cc-4099
+  source: cc
+  ref: "Антья 10.13–40"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 49
+  title: "«Рагхавера джхали»: Дамаянти, сестра Рагхавы Пандита, готовит для Господа на год вперёд сотни приправ и сладостей"
+  summary: "Рагхава вёз мешки угощений, приготовленных его сестрой Дамаянти: кашанди из манго и имбиря, лимон с имбирём, сушёные горькие овощи, которые Господь любил больше панчамриты, — Дамаянти, как о близком, заботилась о Его пищеварении; Господь принимает лишь любовь. Сотни приправ, непортящийся сыр, сладости из сливок, хлопья и шарики из риса шали с камфарой и специями, ароматная глина Ганги — всё в горшочках и двойных мешочках, на трёх носильщиков. Мешки, известные как «рагхавера джхали», охранял Макарадхваджа Кара."
+  persons: ["@raghava-pandita", "@damayanti", "@mahaprabhu", "@makaradhvaja-kara"]
+  places: ["#panihati", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 22–23, 25 в файле нет (после 21 сразу 24, затем 26)."
+  themes: [prasada]
+  scriptures: ["Кирата-арджуния"]
+  cc: "Антья 10"
+  event: ev-raghavera-jhali
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "13", to: "40"}
+
+- id: cc-4100
+  source: cc
+  ref: "Антья 10.41–56"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 6
+  title: "Бенгальцы встречают Господа на озере Нарендра в день водных игр Говинды; Господь играет в воде с преданными"
+  summary: "Преданные достигли Пури в день, когда праздничное Божество Говинда плавало в лодке по Нарендра-сароваре; Господь с преданными пришёл туда и встретил их, они пели имя и плакали от счастья, а затем Господь в ликовании играл с ними в воде — об этом подробно рассказал Вриндаван Дас. Потом Он повёл их к Джаганнатхе, накормил прасадом и поселил на прежних местах; мешки Рагхавы Говинда сложил в углу трапезной."
+  persons: ["@mahaprabhu", "@govinda-deity", "@vrindavana-dasa", "@raghava-pandita", "@govinda-servant"]
+  places: ["#narendra-sarovara", "#puri"]
+  kind: lila
+  authority: A
+  calendar: "Чандана-ятра"
+  themes: [festival, jagannatha, kirtan]
+  cc: "Антья 10"
+  event: ev-narendra-jala-keli
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "41", to: "56"}
+
+- id: cc-4101
+  source: cc
+  ref: "Антья 10.57–102"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 51
+  title: "Киртан семи групп вокруг храма; Господь пляшет под строку песни на ория «да склонится моя голова в джагамохане»; Говинда переступает через спящего Господа, чтобы служить, но не ради себя"
+  summary: "Утром после пробуждения Джаганнатхи Господь устроил вокруг храма киртан семи групп (Адвайта, Нитьянанда, Вакрешвара, Ачьютананда, Шриваса, Сатьяраджа Хан, Нарахари), переходя от одной к другой; смотрели царь и царицы с крыши. Господь велел Сварупе петь строку на ория «пусть моя голова склонится в джагамохане» и плясал в экстазе: падал без чувств, волосы вставали дыбом, с потом сочилась кровь, голос прерывался, зубы шатались. Нитьянанда постепенно остановил киртан. После омовения и прасада Господь лёг в дверях Гамбхиры; Говинда, не сумев войти, накрыл Его накидкой и переступил, растирал Ему стопы, пока Он спал, а потом не ушёл есть тем же путём: ради служения он готов на миллионы оскорблений, но ради себя — ни на тень. Так Господь явил качества вайшнава."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@vakreshvara", "@achyutananda", "@srivasa", "@satyaraja-khan", "@narahari-sarakara", "@prataparudra", "@svarupa-damodara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy, jagannatha]
+  teaching: [vaishnava]
+  cc: "Антья 10"
+  event: ev-jagamohana-dance-govinda-crosses
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "57", to: "102"}
+
+- id: cc-4102
+  source: cc
+  ref: "Антья 10.103–106"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P12
+  order: 65.5
+  title: "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде"
+  summary: "Как и прежде, Господь с преданными убрал Гундичу, пировал в саду, плясал перед колесницей и видел Хера-панчами; бенгальцы провели в Пури четыре месяца дождей и праздники, в том числе Джанмаштами."
+  persons: ["@mahaprabhu"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание ежегодных праздников."
+  themes: [festival, jagannatha]
+  cc: "Антья 10"
+  event: ev-gundicha-marjana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "103", to: "106"}
+
+- id: cc-4103
+  source: cc
+  ref: "Антья 10.107–131"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 50
+  title: "Господь за один раз съедает угощения, которые преданные месяц приносили через Говинду, и пробует мешки Рагхавы"
+  summary: "Каждый бенгалец передавал Говинде угощения для Господа, а Господь лишь велел их хранить; угол трапезной заполнился, и преданные спрашивали, понравилось ли Ему, так что Говинде приходилось лгать. Говинда взмолился, и Господь сел и, слушая, кто что принёс (Адвайта, Шриваса, Ачарьяратна, Ачарьянидхи, Васудева, Мурари, Буддхиманта, Шриман Сена, Шриман Пандит, Нандана, жители Кулинаграмы и Кханды), съел всё, хотя иное хранилось больше месяца, — по Его милости всё осталось свежим. На другой день Он в уединении открыл мешки Рагхавы, отведал всего и похвалил; их Сварупа подавал Ему понемногу целый год."
+  persons: ["@mahaprabhu", "@govinda-servant", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@vasudeva-datta", "@murari-gupta", "@buddhimanta-khan", "@shriman-sena", "@shriman-pandita", "@nandana-acharya", "@raghava-pandita", "@svarupa-damodara"]
+  places: ["#puri", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  notes: "Ст. 127 в файле нет."
+  themes: [prasada, mercy]
+  cc: "Антья 10"
+  event: ev-month-stored-prasada
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "107", to: "131"}
+
+- id: cc-4104
+  source: cc
+  ref: "Антья 10.132–141"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 51.5
+  title: "Приглашения вайшнавов во время чатурмасьи: брахманы готовят сами, небрахманы покупают прасад Джаганнатхи"
+  summary: "За чатурмасью Господа приглашали Адвайта и другие, готовя рис, овощи, горькую дыню, баклажаны с нимбом, патолу, мунг-дал, с добавлением прасада Джаганнатхи. Брахманы — Ачарьяратна, Ачарьянидхи, Нандана, Рагхава, Шриваса — готовили сами, а небрахманы — Васудева Датта, Гададхара Дас, Мурари, жители Кханды и Кулинаграмы — угощали купленным прасадом."
+  persons: ["@mahaprabhu", "@advaita", "@chandrashekhara-acharya", "@nandana-acharya", "@raghava-pandita", "@srivasa", "@vasudeva-datta", "@gadadhara-dasa", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, festival]
+  teaching: [purity]
+  cc: "Антья 10"
+  event: ev-chaitanya-dasa-feast
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "132", to: "141"}
+
+- id: cc-4105
+  source: cc
+  ref: "Антья 10.142–157"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 52
+  title: "Пир Шивананды и пир его сына Чайтаньи Даса: «что за имя?»; Господь переел у отца, а сын угадал Его желание — рис с йогуртом, лимоном и имбирём"
+  summary: "Шивананда подвёл к Господу старшего сына Чайтанью Даса; Господь удивился имени, и Шивананда сказал, что оно пришло изнутри. На пиру у Шивананды Господь из почтения съел всё дорогое угощение и переел; на другой день Чайтанья Дас, поняв Его желание, подал йогурт, лимон, имбирь, соль и лепёшки из дала; Господь был доволен и отдал ему остатки. Приглашений было так много, что не каждому выпадал черёд; в определённые дни Он ел у Гададхары и Сарвабхаумы, а Гопинатха Ачарья, Джагадананда, Кашишвара, Бхагаван, Рамабхадра, Шанкара и Вакрешвара готовили сами; из-за Рамачандры Пури цена приглашения уменьшилась вдвое. Через четыре месяца бенгальцы ушли."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@chaitanya-dasa-shivananda-son", "@gadadhara-pandita", "@sarvabhauma", "@gopinatha-acharya", "@jagadananda-pandita", "@kashishvara", "@bhagavan-acharya", "@shankara-pandita", "@vakreshvara", "@ramachandra-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, family]
+  cc: "Антья 10"
+  event: ev-chaitanya-dasa-feast
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "142", to: "157"}
+
+- id: cc-4106
+  source: cc
+  ref: "Антья 10.158–162"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: PX
+  order: 995.2
+  title: "Итог Антья 10 и колофон"
+  summary: "Так рассказано о приглашениях преданных, мешках Рагхавы и танце в храме; слушающий с верой обретёт любовь к стопам Господа. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "158", to: "162"}
