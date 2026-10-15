@@ -691,3 +691,135 @@
   themes: [author]
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya21.md", from: "83", to: "87"}
+
+# ---------- Мадхья 22. Оскорбление Шачи и его прощение; рассказ о Вишварупе ----------
+
+- id: cb-2037
+  source: cb
+  ref: "Мадхья 22, 1–12"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: PX
+  order: 205
+  title: "Вступление: Девананда после укора; вайшнава-апарадха преграждает путь к преме"
+  summary: "Наказав Девананду, Господь возвращается домой, а Девананда, несчастный из-за дурного общения, уходит к себе; Вишвамбхару достигают лишь по милости вайшнавов, и оскорбление вайшнава преграждает путь к према-бхакти даже получившему милость Кришны — это Господь показал на примере Своей матери."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@devananda-pandita", "@shachi"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: A
+  themes: [author, offense]
+  teaching: [vaishnava]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "1", to: "12"}
+
+- id: cb-2038
+  source: cb
+  ref: "Мадхья 22, 13–36"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: P07
+  order: 127.4
+  title: "Господь на троне раздаёт благословения, но отказывает Шачи в преме"
+  summary: "С шалаграмами на коленях Господь садится на трон Вишну: «Я — Кришна и Нараяна в Кали-югу; плач Адвайты прервал Мой сон; просите благословений!» — Нитьянанда держит над Ним зонт, Гададхара подносит бетель; преданные просят за отцов, гуру, учеников и жён, и Господь всех одаряет; когда Шриваса просит премы для Шачи, Господь отвечает: «Она оскорбила вайшнава; Я не могу уничтожить вайшнава-апарадху — простить может лишь тот вайшнав, как Амбариша простил Дурвасу; пусть она возьмёт пыль со стоп Адвайты»."
+  persons: ["@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@srivasa", "@shachi", "@advaita", "@durvasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17 (сутра); Карнапура, «Чайтанья-чандродая», акт 1"
+  divergence: "По Мурари 2.1, Лочану и Карнапуре (ЧКМ) Шачи обретает прему без упоминания оскорбления (ev-shachi-receives-prema); в «Чайтанья-чандродае» её оскорбление — перед Шривасой и другими."
+  themes: [offense, mercy, revelation]
+  bhava: [aishvarya]
+  teaching: [vaishnava]
+  event: ev-shachi-vaishnava-aparadha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "13", to: "36"}
+
+- id: cb-2039
+  source: cb
+  ref: "Мадхья 22, 37–59"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: P07
+  order: 127.5
+  title: "Адвайта славит Шачи; Шачи берёт пыль с Его стоп и обретает прему"
+  summary: "Узнав об этом, Адвайта восклицает: «Вы хотите меня погубить? Она — мать моего Господа и мать вселенной, равна Деваки и Яшоде, подобна Ганге; Я Сам жажду пыли с её стоп», — и от чувств теряет сознание; в этот миг Шачи кладёт на голову пыль с Его стоп и тоже лишается чувств; Господь с трона объявляет: «Теперь, свободная от оскорбления Адвайты, ты обрела бхакти»; так Господь предостерёг всех от вайшнава-апарадхи, хотя её проступок по сути и не был оскорблением."
+  persons: ["@advaita", "@shachi", "@mahaprabhu", "@devaki", "@yashoda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧЧ Ади 17 (сутра); Мурари 2.1.9–18 (ev-shachi-receives-prema)"
+  themes: [mercy, offense, ecstasy]
+  teaching: [vaishnava]
+  event: ev-shachi-vaishnava-aparadha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "37", to: "59"}
+
+- id: cb-2040
+  source: cb
+  ref: "Мадхья 22, 60–81"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: P04
+  order: 5
+  title: "Вишварупа в собрании бхаттачарьев: «Я обманул вас»"
+  summary: "Вишварупа, старший брат Господа, равный Нитьянанде, сияющий и знающий все шастры, идёт с отцом в собрание пандитов и на вопрос, что Он изучает, отвечает: «Понемногу всё»; Джаганнатха Мишра, сочтя ответ дерзким, по дороге шлёпает Его; Вишварупа возвращается: «Спросите Меня о чём угодно», блестяще толкует сутры, говорит: «Я вас обманул», опровергает сказанное и трижды подряд обосновывает и опровергает — но под влиянием Вишну-майи никто не постигает глубины Его слов."
+  persons: ["@vishvarupa", "@jagannatha-mishra"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Воспоминание (флешбэк) внутри рассказа об оскорблении Шачи."
+  themes: [learning, family]
+  event: ev-vishvarupa-pandits-assembly
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "60", to: "81"}
+
+- id: cb-2041
+  source: cb
+  ref: "Мадхья 22, 82–104"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: P04
+  order: 6
+  title: "Вишварупа у Адвайты; маленький Вишвамбхара каждый день зовёт брата обедать"
+  summary: "Печалясь, что учёные Навадвипы тратят жизнь на споры без бхакти, Вишварупа находит радость лишь у Адвайты, толкующего бхакти даже через «Йога-Васиштху», и становится неразлучен с Ним; Шачи посылает маленького Вишвамбхару с кудрявыми волосами позвать брата к обеду; при виде Его Адвайта замирает и думает: «Это дитя похитило Моё сердце — это Мой Господь», — и Господь, зная это, тотчас уходит домой."
+  persons: ["@vishvarupa", "@advaita", "@mahaprabhu", "@shachi", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  parallels: "ЧБ Ади 7.34–66"
+  themes: [family, revelation]
+  bhava: [child]
+  event: ev-nimai-in-advaita-assembly
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "82", to: "104"}
+
+- id: cb-2042
+  source: cb
+  ref: "Мадхья 22, 105–119"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: P07
+  order: 127.3
+  title: "Санньяса Вишварупы (Шанкараранья); Шачи называет Адвайту «Двайтой»"
+  summary: "Вскоре Вишварупа принимает санньясу под именем Шанкараранья, и Шачи, убитая горем, втайне винит Адвайту, но молчит; когда же Господь, явив Себя, оставляет мирское и почти не бывает дома, проводя время у Адвайты, она говорит: «Ачарья заберёт и этого сына; почему Его зовут Адвайтой — Он “Двайта”: одного сына увёл, а теперь и другого»; только в этом и было её оскорбление, из-за которого Господь не давал ей бхакти."
+  persons: ["@vishvarupa", "@shachi", "@advaita", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 113–119 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 105–106 — кратко о санньясе Вишварупы (ev-vishvarupa-sannyasa)."
+  themes: [offense, family, sannyasa]
+  teaching: [vaishnava]
+  event: ev-shachi-vaishnava-aparadha
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "105", to: "112"}
+
+- id: cb-2043
+  source: cb
+  ref: "Мадхья 22, 120–148"
+  file: "chaitanya-bhagavata/ed/CB_Madhya22.md"
+  period: PX
+  order: 206
+  title: "Слово автора: зачем Господь наказал мать; слава Нитьянанды"
+  summary: "Господь предвидел, что негодяи будут славить Адвайту как Кришну, пренебрегая другими вайшнавами, и, наказав мать при Адвайте, показал, что даже Адвайта не защитит оскорбителя вайшнавов; вайшнав не может защитить и своего последователя-оскорбителя; Нитьянанда — Ишвара, по Его милости приходит знание о Гауре и прощаются оскорбления; Нитьянанда и Вишварупа не отличны."
+  persons: ["@vrindavana-dasa", "@mahaprabhu", "@advaita", "@nityananda", "@vishvarupa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author, offense]
+  teaching: [vaishnava, associates-tattva]
+  verses:
+    - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "120", to: "148"}
