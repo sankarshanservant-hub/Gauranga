@@ -406,3 +406,145 @@ Those born into this lineage acknowledge Gaurasundara as their only Lord, Nityan
 strength, the feet of Radha-Govinda as their life, and Narahari as their companion in pastimes. When Narottama came to
 Puri, Tota-Gopinatha was served by Mamu Gosvami Thakura (the “Charitamrita” names him in Gadadhara's branch, Adi 12.81).
 <!-- F88 Q15 F89 -->
+
+## After the Lord's Disappearance
+Mahaprabhu's manifest pastimes lasted forty-eight years. According to a tradition cited in the “Bhakti-ratnakara,” at
+their close the Lord entered the temple of Gadadhara Pandita's Gopinatha and did not come out again — He disappeared
+into this Deity[^14]. <!-- F90 -->
+
+After this Gadadhara remained on earth only eleven months. Narahari Chakravarti in the “Bhakti-ratnakara” (3.142 ff.)
+describes his grief: with closed eyes he repeated the name of Gaurasundara, his sighs burned like flame, and his
+motionless body lived only in order to await Srinivasa Acharya and bestow mercy on him. <!-- F91 Q9 -->
+
+Srinivasa came to Puri and the next morning went to Gadadhara's house. With tears he fell at his feet; Gadadhara
+lovingly raised and embraced him, and Srinivasa wept in separation from Gauranga; both sank into an ocean of divine
+feeling. Gadadhara and the other associates of the Lord whom Srinivasa saw lived only by the name, form, qualities and
+pastimes of Gaura. Srinivasa spent a day in his house, then went to the other associates, walked round the Kshetra, saw
+Gadadhara's Gopinatha, and for some time heard the “Bhagavatam” from the lips of the Pandita Gosvami — only this helped
+him hold on to life. At his order Srinivasa returned to Gauda; it was then too that Gadadhara sent him to Mayapur, to
+Vishnupriya. <!-- F92 -->
+
+Soon the news came that Gadadhara had departed. Srinivasa, having returned to Gauda and come to Shrikhanda, decided to
+go again to Nilachala and stay with Gadadhara, even against his order; but on the way he heard from pilgrims returning
+from Nilachala of his departure — and fell unconscious. In a dream Sri Gaura-Gadadhara appeared to him, and at Their
+command he resolved to go to Vrindavana by way of Navadvipa[^15]. <!-- F93 -->
+
+Gadadhara departed in Puri[^16] on the new moon of the month of Jyeshtha in the year 1456 of the Shaka era (1534)[^17].
+On the same day, almost four centuries later, on 23 June 1914, Bhaktivinoda Thakura departed, “non-different from the
+Gaura-shakti Gadadhara.” In 1922 Srila Bhaktisiddhanta instituted at the Purushottama Matha (Bhakti-kuti in Puri) an
+annual festival in memory of Bhaktivinoda and Gadadhara Pandita. <!-- F94 F95 I8 F96 -->
+
+## Places of Remembrance
+Narottama Dasa Thakura, coming to Puri, on the advice of Gopinatha Acharya visited the samadhi of Haridasa Thakura, the
+Gambhira and the temple of Gadadhara Pandita's Gopinatha. He came to Gadadhara's house and cried aloud: “O life of
+Gauranga! O Gadadhara!” — and then received darshan of Tota-Gopinatha. He also approached that place of the Deity into
+which, according to tradition, the Lord had entered. <!-- F97 -->
+
+Since ancient times the Deity of Gadadhara has been worshipped daily to the left of Sri Gaurasundara. Witness to this
+are the ancient Deities of Sri Gaura-Gadadhara served by Dvija Vaninatha; they stand to this day in the village of
+Champahatta in Ritudvipa, one of the islands of Navadvipa. Whether this is the Vaninatha who was Gadadhara's younger
+brother is not said. <!-- F98 -->
+
+## Radha in Gaura-lila
+Who Gadadhara was in Krishna-lila is told by the “Gaura-ganoddesha-dipika” of Kavi Karnapura:
+
+“Sri Radha, love personified, formerly the Queen of Vrindavana, is Sri Gadadhara, dear to Gaura, called the Pandita. As
+Sri Svarupa determined, he is the Lakshmi of Vraja: ‘The Lakshmi who was once the beloved of Shyamasundara in Vrindavana
+is now the Lakshmi of Gaura's love, Sri Gadadhara Pandita.’ Since Lalita follows Radha, being ‘Anuradhika,’ she too
+entered into him, as is said in the ‘Gaura-chandrodaya.’” (GGD 147–150) <!-- F104 Q3 -->
+
+She who in Krishna-lila was the daughter of Vrishabhanu, Srimati Radharani, became Gadadhara in Gaura-lila; this is
+confirmed by the notes of Svarupa Damodara and the songs of Vasudeva Ghosha. That is why Pundarika, Vrishabhanu, is his
+guru and the Lord's “father” in the mood of Radha; that is why the Lord called him His consort in Vaikuntha, and in
+Navadvipa he and Gaura are what Radha and Krishna are in Vrindavana. One biography calls Gadadhara the embodiment of
+hladini, the Lord's pleasure energy. Kavi Karnapura in the “Gaura-ganoddesha” shows the distinction between the two
+Gadadharas: Gadadhara Pandita is the very form (svarupa) of the daughter of Vrishabhanu, while Gadadhara Dasa is the
+radiance of Her body; so too teaches Srila Bhaktisiddhanta: Gadadhara Pandita is Radha Herself, Gadadhara Dasa Her
+bodily effulgence. <!-- F105 F107 F103 -->
+
+All this is a transcendental mystery, and it must be understood as Bhaktisiddhanta teaches. Gaura is Krishna Himself,
+Who has taken the mood and radiance of Radha, and Gadadhara is Radha serving Him in the form of a devotee-brahmana. Their
+intimacy is not the worldly attachment of two people but the eternal play of the Lord with His own internal energy; even
+Gadadhara's feminine attire in the drama at Chandrashekhara's house is a revelation of this energy, not worldly
+play-acting[^18]. <!-- F49 F108 F34 -->
+
+## Two Gadadharas
+In the year 1340 of the Bengali era (1933–1934) a pamphlet appeared, “Dasa Gadadhara-tattva.” Its author, posing as an
+admirer of Gadadhara Dasa, in a sectarian spirit set Gadadhara Pandita against him. Supposedly the Pandita, having
+studied nyaya, at first did not wish to submit to Dasa Gadadhara, the expounder of the “Bhagavatam”; and, realizing that
+he was being deprived of the taste of Gauranga's pastimes, became a disciple of Pundarika Vidyanidhi — a “branch” in a
+sub-branch of Advaita, a manifestation of Gopeshvara-Shiva — and only then took shelter of the mood of Dasa Gadadhara;
+and therefore those who follow Pandita Gadadhara would do better to leave him and follow the Dasa. Such a view is the
+height of hostility toward Vaishnavas. <!-- F101 -->
+
+The two Gadadharas must not be separated and set against each other: both are associates of Gaura, His own people,
+eternal associates both in Gaura-lila and in Vraja-lila. To honor one and reject the other is exactly what the
+“Charitamrita” calls the logic of half a hen:
+
+“If you believe in one and are disrespectful to the other, your logic is in every way like accepting only one half of a
+hen (the one that lays eggs).” (CC, Adi 5.176)
+
+Such logic the gurus have not told us to accept; and the distinction spoken of by Kavi Karnapura and Bhaktisiddhanta
+(Radha Herself and Her radiance) is no ground for rivalry, but different services within one lila. <!-- F102 Q17 I7 -->
+
+## Significance
+The life of Gadadhara Pandita — from his childhood games with Nimai to the eleven months of separation in
+Yameshvara-tota — was wholly given to Gaura. He is His shakti, Radha serving Him; that is why the Lord is “the life of
+Gadadhara,” and whoever wishes to serve Radha-Govinda in madhura-rasa takes shelter of him. His life teaches humility
+before guru and Vaishnavas (Pundarika, the mantra in Puri), the simplicity and patience by which the Lord is “bought”
+(Vallabha Bhatta), and a love ready to abandon both vow and service only to be with the Lord — and obedience when the
+Lord orders him to return (Cuttack). And his “Bhagavata,” which resounded by Narendra lake, reminds us that the
+“Bhagavata” must be heard from a bhagavata. <!-- I1 I2 I3 I4 I5 -->
+
+Bhaktivinoda Thakura, who departed on the day of his departure, left an instruction in which Gaura and Gadadhara are
+one:
+
+“Remember the pastimes of Gaura-Gadadhara, become a servant of Gaura-Gadadhara, hear the wondrous narrations of
+Gaura-Gadadhara, and worship Gaura — the moon of the groves of Godruma” (“smara gaura-gadādhara keli-kalām…”).
+<!-- Q12 I8 -->
+
+[^1]: According to the “Prema-vilasa” (vilasa 22), Gadadhara was born in Navadvipa.
+[^2]: According to some accounts, Gadadhara was born in 1486, that is, in the same year as the Lord; according to others,
+    he was a year younger than Gaurahari.
+[^3]: According to one biography, at the sight of the Lord Gadadhara lost consciousness, overcome by sattvika-bhavas;
+    according to the “Chaitanya-bhagavata” (Madhya 1.97) and another biography, he lowered his head and wept loudly and
+    long.
+[^4]: One biography renders the Lord's words about Gadadhara more mildly — “he is of My Vaikuntha family”; the
+    “Chaitanya-bhagavata” (Madhya 18.116) says plainly: “In Vaikuntha Gadadhara is My wife.” The same passage (18.115)
+    explains that Gadadhara is a manifestation of Krishna's internal energy: these are not worldly ties but the eternal
+    service of the shakti to her Lord.
+[^5]: According to one biography, Mukunda introduced Gadadhara only after Pundarika had come to himself from his
+    ecstasy.
+[^6]: How many verses were sung is told differently: one verse of the “Bhagavatam” (3.2.23, about Putana); two verses
+    (3.2.23 and 10.6.35); a Bengali couplet about Putana together with two verses of the “Bhagavatam.” One biography in
+    different places speaks now of one verse, now of two.
+[^7]: According to one account, it was Mahaprabhu Himself who advised Gadadhara to atone for the offense by taking
+    initiation from Pundarika; according to others, Gadadhara decided this himself.
+[^8]: The Lord's companions on the way from Shantipura to Puri are named differently: according to the
+    “Chaitanya-bhagavata” — Nityananda, Gadadhara Pandita, Mukunda, Govinda, Brahmananda (and Jagadananda); according to
+    the “Chaitanya-charitamrita” — Nityananda, Jagadananda, Damodara and Mukunda, without Gadadhara. One biography names
+    “these four”: Nityananda, Jagadananda, Gadadhara Pandita and Mukunda Datta.
+[^9]: According to another retelling, at their invitation the Lord would set aside a previous invitation and eat as much
+    as was served.
+[^10]: One biography writes that the Lord was heading for Vrindavana by the route through Jharikhanda; but according to
+    the “Charitamrita” (Madhya 16) this was the route to Gauda, through Bengal, and the Lord took the forest route
+    through Jharikhanda later (Madhya 17).
+[^11]: According to the “Charitamrita” (Madhya 16.147), Gadadhara returned from Cuttack to Puri with Sarvabhauma; in the
+    list of the Lord's companions at Ramakeli (Madhya 1.219) there stands simply the name “Gadadhara.”
+[^12]: According to some accounts, Ananta Acharya and Haridasa Pandita were pujaris of Madana-mohana; according to
+    others, Virachandra was received in Vrindavana by Ananta Acharya, Haridasa Pandita and Krishnadasa Brahmachari — a
+    disciple of Gadadhara Pandita and servant of Madana-Gopala. According to the “Charitamrita” (Adi 8.60), Haridasa
+    Pandita served Govinda.
+[^13]: According to Bhaktisiddhanta's “Anubhashya,” Achyutananda is the first of Advaita's disciples.
+[^14]: Traditions about the Lord's disappearance differ; this is one of them.
+[^15]: How Srinivasa learned of his departure is told differently: according to one biography, having already taken
+    leave and set out on the road to Bengal, he heard that Gadadhara had disappeared, and that same night Gadadhara
+    appeared to him in a dream and consoled him; according to the “Prema-vilasa” (4), he learned of it in Yajpur, on the
+    way to Puri.
+[^16]: One biography, speaking of Gadadhara Dasa, says that “after the disappearance of Gadadhara Pandita Gosvami” a
+    samadhi was erected for him in Eriyadaha; from the context the reference is to Gadadhara Dasa, whose shripata is in
+    Eriyadaha, while Gadadhara Pandita departed in Puri.
+[^17]: The year 1456 of the Shaka era, in the month of Jyeshtha, corresponds to 1534; one biography gives 1535. The same
+    biography names as the day of his departure now the new moon of Jyeshtha, now the new moon of Ashadha.
+[^18]: The “Chaitanya-bhagavata” (Madhya 18.115) itself explains: “In truth, he is a manifestation of Krishna's internal
+    energy.” Gaura-lila is the Lord's play with His own energy, inaccessible to worldly interpretation.
