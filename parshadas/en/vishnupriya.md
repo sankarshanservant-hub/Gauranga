@@ -42,13 +42,13 @@ named Durgadasa Mishra[^2]; according to the “Prema-vilasa,” the descendants
 known as “Vishnupriya's parivara” — her family. <!-- F1 F2 F3 F4 F5 -->
 
 For his pure devotion to Vishnu, Sanatana was granted a daughter rich in every good quality — uncommonly gentle and
-well-mannered, like Lakshmi in person. From early childhood she was devoted to her parents and to Vishnu and bathed in
-the Ganga three times a day[^3]; she kept strictly to the injunctions of scripture, performed puja and archana, served
+well-mannered, like Lakshmi in person. Devotion to her parents and to Vishnu marked her from earliest childhood; three
+times a day she went to bathe in the Ganga[^3]; she kept strictly to the injunctions of scripture, performed puja and archana, served
 tulasi and observed many vows — from her very first years her life was service to Vishnu. <!-- F6 F7 F8 -->
 
-She appeared on the fifth lunar day of the bright fortnight of the month of Magha — shukla-panchami, or Sri-panchami. On this day those
-who seek perfection in worldly learning honour Sarasvati, the goddess of knowledge. But knowledge is of two kinds: apara,
-the worldly, and para, the transcendent; and Vishnupriya is honoured as the goddess and mistress of transcendent
+She appeared on the fifth lunar day of the bright fortnight of the month of Magha — shukla-panchami, or Sri-panchami. The same day is
+Sarasvati's festival, when those who seek mastery of worldly learning worship the goddess of knowledge. Yet there are two
+kinds of knowledge — apara, which concerns this world, and para, which transcends it — and Vishnupriya is honoured as the goddess and mistress of transcendent
 knowledge, para-vidya. The day of her appearance was determined by Jagannatha Dasa Babaji; he revealed it anew to the
 world through Bhaktivinoda Thakura, and, as the “Sarasvati-jaya-shri” writes, from Bhaktivinoda the custom of honouring
 her on this day spread through the whole Vaishnava world. The year of her birth, like the year of her departure, has not
@@ -379,7 +379,7 @@ the middle of the day, as if the swans had left the lake — where have they gon
 <!-- F163 F164 -->
 
 ## Separation
-When Mahaprabhu went to Katwa to take sannyasa, He was only twenty-four years old. On learning that He had swum across the
+Mahaprabhu was only twenty-four when He left for Katwa to take sannyasa. On learning that He had swum across the
 Ganga and gone to Keshava Bharati, Shachi and Vishnupriya fell senseless; Nityananda tried to console them. Later
 Chandrashekhara Acharya returned from Katwa with the news of the sannyasa, and both wept bitterly again (CM,
 Madhya-khanda, parts 16–18). <!-- F75 F76 -->
@@ -410,12 +410,12 @@ word — “Whoever takes My name will attain Me” — and then
 “all sat down to chant the name — Shachi, Vishnupriya and all the rest, children and old people, young men and maidens —
 sat down to chant the name, making Gauranga their shelter.” (CM, Madhya-khanda, part 18, vv. 39–40) <!-- F79 Q6 -->
 
-So began for her the long years of separation. According to the “Advaita-prakasha,” every morning she went with Shachi
-to bathe in the Ganga, and all day she remained in the house, allowing neither the sun nor the moon to see her; even the
-devotees saw only her feet and never heard her voice. She ate only the remnants of Shachi's food, grew pale and thin.
-All day in seclusion she chanted the holy name before a picture of Gauranga, serving it as the Lord Himself and
-surrendering at His feet. Her life in separation is the ideal of a devoted wife and of that forbearance of which the
-Lord's own verse speaks: “humbler than a blade of grass, more tolerant than a tree” (“trinad api sunichena”).
+So began for her the long years of separation. Her days, as the “Advaita-prakasha” describes them, began with a bath in
+the Ganga at dawn in Shachi's company; after that she kept within doors, hidden even from sun and moon. The devotees
+glimpsed no more of her than her feet and never heard her speak. Her only food was what Shachi left, and she became thin
+and pale. In solitude she spent the whole day chanting the holy name before a picture of Gauranga, which she served as the
+Lord Himself, surrendered at His feet. Such a life in separation shows what a devoted wife is, and what the forbearance is
+that the Lord praises in His own verse: “humbler than a blade of grass, more tolerant than a tree” (“trinad api sunichena”).
 <!-- F80 F81 I2 -->
 
 ## The Sacrifice of the Holy Name
@@ -451,9 +451,9 @@ instructed her: “In Him Krishna abides,” — and she served that Deity. Thus
 Deity of Vishvambhara and brought good to the world by singing the nectar of Gaura's name. <!-- F86 F87 Q8 -->
 
 The devotees of Mahaprabhu also tell this differently. Sri Rama, who had vowed to have one wife only, performed a
-sacrifice in exile together with a golden image of Sita but did not marry again; so too Vishnupriya in the pastimes of
-Gaura-Narayana paid her debt to her Lord: she had an image of Mahaprabhu made, so as to offer Him the sacrifice of the holy
-name. This Deity abides in Navadvipa to this day, and He is worshipped. At her wish the worship of the Deity of Mahaprabhu
+sacrifice in exile together with a golden image of Sita but did not marry again; in the same way, they say, Vishnupriya, in the
+pastimes of Gaura-Narayana, rendered her Lord what she owed Him: she commissioned a form of Mahaprabhu in order to worship
+Him with the offering of the holy name. Navadvipa still has this Deity, and His worship continues. At her wish the worship of the Deity of Mahaprabhu
 was established by Vamshivadana, and after her departure His service was moved to Kuliya, the present town of Navadvip;
 and when the descendants of Vamshi, having accepted Jahnava's mercy, settled in Baghnapara, the service in Kuliya remained
 with servitors from Malkhana[^17]. <!-- F88 F89 F90 -->
@@ -493,7 +493,7 @@ After the Lord's sannyasa Ishana Thakura took upon himself the care of Shachi, o
 Bhaktisiddhanta, in the “Gaudiya-bhashya” on the “Chaitanya-bhagavata” (Madhya 8.73), says that by serving the Lord's
 mother and wife even after His sannyasa, Ishana became “the most blessed of the blessed.” For service to a devotee is higher
 than service to the Lord Himself: Ishana served Shachi and Vishnupriya and received their love, and the Lord's mercy
-follows the mercy of the devotee. Ishana lived very long — he outlived Vishnupriya and all of Mahaprabhu's devotees in
+comes by way of the devotee's. Ishana lived very long — he outlived Vishnupriya and all of Mahaprabhu's devotees in
 Navadvipa. <!-- F99 I4 F100 -->
 
 Beside him Vamshivadana Thakura was blessed with service: he became the servant and protector of Vishnupriya and Shachi.
