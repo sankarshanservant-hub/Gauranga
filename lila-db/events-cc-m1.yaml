@@ -1,15 +1,5 @@
 # Новые события, заведённые при внесении лил ЧЧ Мадхья 2–9 (исполнитель cc-m1). Формат — events.yaml.
 
-- id: ev-garuda-stambha-tears
-  title: "Даршан Джаганнатхи у колонны Гаруды: канава наполняется слезами Господа"
-  title_en: "Darshan of Jagannatha from the Garuda pillar: the ditch fills with the Lord's tears"
-  period: P14
-  order: 100.5
-  cc: "Мадхья 2"
-  cb: ""
-  themes: [jagannatha, ecstasy, separation]
-  notes: "ЧЧ Мадхья 2.53–56: Господь видит Джаганнатху с Баларамой и Субхадрой как Кришну на Курукшетре; на обратном пути из храма — «Где Вриндаван?»"
-
 - id: ev-madhavendra-gopala-govardhana
   title: "Мадхавендра Пури открывает Гопалу на Говардхане: молоко от пастушка, сон и Аннакута"
   title_en: "Madhavendra Puri discovers Gopala at Govardhana: milk from the cowherd boy, the dream and the Annakuta"

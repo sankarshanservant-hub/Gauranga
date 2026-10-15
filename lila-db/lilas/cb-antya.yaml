@@ -128,7 +128,7 @@
   divergence: "По ЧЧ пастушки по наущению Нитьянанды указывают дорогу к Ганге, которую Господь принимает за Ямуну."
   themes: [kirtan, ecstasy]
   teaching: [holy-name]
-  event: ev-cowherd-boy-haribol-radha-desha
+  event: ev-radha-desha-wandering
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya01.md", from: "96", to: "108"}
 
@@ -1376,7 +1376,7 @@
   ref: "Антья 5, 122–138"
   file: "chaitanya-bhagavata/ed/CB_Antya05.md"
   period: P13
-  order: 230
+  order: 20.5
   title: "Возвращение в Нилачалу: «Движущийся Джаганнатха прибыл»"
   summary: "Обойдя деревни у Ганги и исполнив желания преданных, Господь возвращается в Нилачалу; Сарвабхаума и спутники-ория с киртаном встречают Его; Господь живёт у Каши Мишры, встречает Джаганнатху при открытии дверей храма, танцует перед Ним и на берегу океана, и слёзы Его текут, как Ганга."
   persons: ["@mahaprabhu", "@sarvabhauma", "@kashi-mishra", "@jagannatha-deity"]
@@ -1385,7 +1385,7 @@
   authority: A
   divergence: "По ЧБ Господь после Гауды прямо возвращается в Пури (поход во Вриндаван через Джхарикханду в ЧБ не описан)."
   themes: [jagannatha, kirtan, ecstasy]
-  event: ev-puri-return-from-gauda
+  event: ev-return-puri-after-gauda
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "122", to: "138"}
 
@@ -1541,7 +1541,7 @@
   notes: "Ст. 414–416, 418–419 в md отсутствуют. Деревня (Эндиядаха) названа лишь в пояснении к ст. 395."
   themes: [muslims, kirtan, mercy]
   teaching: [holy-name]
-  event: ev-gadadhara-dasa-kazi-harinama
+  event: ev-gadadhara-dasa-kazi-hari
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya05.md", from: "395", to: "420"}
 
@@ -2070,7 +2070,7 @@
   kind: lila
   authority: A
   themes: [prasada]
-  event: ev-advaita-feeds-lord-alone-indra-storm
+  event: ev-advaita-feeds-lord-hailstorm
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "3", to: "11"}
 
@@ -2089,7 +2089,7 @@
   notes: "Ст. 75–76 в md отсутствуют. «Мать Кришнадаса» (ст. 25) — Сита Тхакурани (Кришнадас — Кришна Мишра, сын Адвайты)."
   themes: [prasada, celestial, pranks]
   teaching: [associates-tattva]
-  event: ev-advaita-feeds-lord-alone-indra-storm
+  event: ev-advaita-feeds-lord-hailstorm
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "12", to: "88"}
 
@@ -2189,7 +2189,7 @@
   notes: "Ст. 272–273, 276–279 в md отсутствуют. Сакара Маллик — Санатана."
   themes: [mercy, teaching]
   teaching: [associates-tattva, sannyasa-teaching]
-  event: ev-rupa-sanatana-puri-advaita-blessing
+  event: ev-rupa-arrives-haridasa-puri
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Antya09.md", from: "235", to: "275"}
 

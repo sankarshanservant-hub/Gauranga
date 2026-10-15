@@ -728,7 +728,7 @@
   themes: [offense, mercy, revelation]
   bhava: [aishvarya]
   teaching: [vaishnava]
-  event: ev-shachi-vaishnava-aparadha
+  event: ev-shachi-receives-prema
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "13", to: "36"}
 
@@ -747,7 +747,7 @@
   parallels: "ЧЧ Ади 17 (сутра); Мурари 2.1.9–18 (ev-shachi-receives-prema)"
   themes: [mercy, offense, ecstasy]
   teaching: [vaishnava]
-  event: ev-shachi-vaishnava-aparadha
+  event: ev-shachi-receives-prema
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "37", to: "59"}
 
@@ -803,7 +803,7 @@
   notes: "Ст. 113–119 (сгруппированные) в ed-файле отсутствуют — текст в src/txt. Ст. 105–106 — кратко о санньясе Вишварупы (ev-vishvarupa-sannyasa)."
   themes: [offense, family, sannyasa]
   teaching: [vaishnava]
-  event: ev-shachi-vaishnava-aparadha
+  event: ev-shachi-receives-prema
   verses:
     - {file: "chaitanya-bhagavata/ed/CB_Madhya22.md", from: "105", to: "112"}
 

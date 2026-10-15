@@ -3101,7 +3101,7 @@
   themes: [revelation, sannyasa, teaching]
   bhava: [aishvarya]
   scriptures: ["Бхаг. 10.81.16"]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "lochana/ru/32.md", from: "93", to: "113"}
 

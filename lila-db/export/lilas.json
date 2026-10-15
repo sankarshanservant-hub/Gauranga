@@ -42740,6 +42740,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L36-L185"
    }
   ],
+  "cc": "Ади 17.71",
   "cb": "Мадхья 22",
   "years": [
    1509,
@@ -42751,7 +42752,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "kcm-0046",
@@ -42800,6 +42801,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1813-L2014"
    }
   ],
+  "cc": "Ади 17.71",
   "cb": "Мадхья 22",
   "years": [
    1509,
@@ -42811,7 +42813,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "lcm-0098",
@@ -42870,6 +42872,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/24.md?plain=1#L63-L117"
    }
   ],
+  "cc": "Ади 17.71",
   "cb": "Мадхья 22",
   "years": [
    1509,
@@ -42881,7 +42884,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "mkc-0065",
@@ -42937,6 +42940,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.01.md?plain=1#L21-L39"
    }
   ],
+  "cc": "Ади 17.71",
   "cb": "Мадхья 22",
   "years": [
    1509,
@@ -42948,7 +42952,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "cb-1003",
@@ -54158,7 +54162,7 @@
   ],
   "kind": "lila",
   "authority": "A",
-  "notes": "Сутра трёх эпизодов; по «Анубхашье»: према Шачи — ЧБ Мадхья 22 (ev-shachi-receives-prema, ev-shachi-vaishnava-aparadha; ср. ст. 71), встреча с Адвайтой — ЧБ Мадхья 6 (ev-advaita-comes-to-navadvipa), вишварупа — ЧБ Мадхья 24.",
+  "notes": "Сутра трёх эпизодов; по «Анубхашье»: према Шачи — ЧБ Мадхья 22 (ev-shachi-receives-prema, ev-shachi-receives-prema; ср. ст. 71), встреча с Адвайтой — ЧБ Мадхья 6 (ev-advaita-comes-to-navadvipa), вишварупа — ЧБ Мадхья 24.",
   "themes": [
    "revelation",
    "family"
@@ -58640,7 +58644,7 @@
   ],
   "kind": "lila",
   "authority": "A",
-  "notes": "Упоминание (воспоминание в речи Адвайты). Наказание Мукунды (ЧБ Мадхья 10) и Шачи (оскорбление Адвайты, ЧБ Мадхья 22; ev-shachi-vaishnava-aparadha) — упомянуты вскользь, отдельных записей нет.",
+  "notes": "Упоминание (воспоминание в речи Адвайты). Наказание Мукунды (ЧБ Мадхья 10) и Шачи (оскорбление Адвайты, ЧБ Мадхья 22; ev-shachi-receives-prema) — упомянуты вскользь, отдельных записей нет.",
   "themes": [
    "offense",
    "teaching",
@@ -59971,7 +59975,7 @@
   "kind": "lila",
   "authority": "A",
   "parallels": "ЧЧ Ади 17.11, 17.18; «Гаура-кришнодая»",
-  "divergence": "У Мурари и Карнапуры махапракаша с омовением Господа описана в связи со шлокой Судамы (ev-murari-sudama-verse-abhisheka); возможно, это то же событие.",
+  "divergence": "У Мурари и Карнапуры махапракаша с омовением Господа описана в связи со шлокой Судамы (ev-mahaprakasha-abhisheka); возможно, это то же событие.",
   "notes": "Служанка Духкхи (Сукхи) — без отдельного тега. Ст. 37–38 в издании нет.",
   "themes": [
    "revelation",
@@ -60008,7 +60012,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60019,7 +60023,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-2035",
@@ -60128,7 +60132,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L123-L123"
    }
   ],
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60139,7 +60143,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cc-0278",
@@ -60304,7 +60308,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/05.md?plain=1#L71-L71"
    }
   ],
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60315,7 +60319,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1062",
@@ -60368,7 +60372,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60379,7 +60383,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1063",
@@ -60430,7 +60434,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60441,7 +60445,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1064",
@@ -60548,7 +60552,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60559,7 +60563,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1068",
@@ -60806,7 +60810,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60817,7 +60821,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cc-0250",
@@ -60864,7 +60868,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L193-L193"
    }
   ],
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -60875,7 +60879,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1072",
@@ -61046,7 +61050,7 @@
    }
   ],
   "cc": "Ади 17",
-  "cb": "Мадхья 9",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -61057,7 +61061,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 8
  },
  {
   "id": "cb-1074",
@@ -67292,7 +67296,7 @@
    "Бхаг. 10.81.16"
   ],
   "cc": "Ади 17",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "chaitanya-charitamrita/ed/vcd/CC_Adi17.md",
@@ -67311,6 +67315,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L789-L803"
    }
   ],
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67321,7 +67326,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "ccd-0013",
@@ -67361,7 +67366,7 @@
    "gaura-tattva"
   ],
   "divergence": "Повествование — со стороны олицетворённых Кали и Адхармы; эпизода со шлокой Судамы (Мурари 2.12) нет.",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -67380,6 +67385,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L301-L440"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67390,7 +67397,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "ccd-0014",
@@ -67429,7 +67436,7 @@
    "Бхаг. 1.8.20",
    "Бхаг. 10.47.25"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -67448,6 +67455,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L442-L463"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67458,7 +67467,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "ccd-0020",
@@ -67494,7 +67503,7 @@
   "scriptures": [
    "Бг. 11.51"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -67513,6 +67522,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L601-L626"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67523,7 +67534,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "kcm-0044",
@@ -67561,7 +67572,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "Махакавья 5.14, 5.32–35, 5.125",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/05.md",
@@ -67580,11 +67591,13 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L725-L1167"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "age": [
    23,
    23
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "kcm-0045",
@@ -67615,7 +67628,7 @@
   "scriptures": [
    "Гита 9.34"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/05.md",
@@ -67634,6 +67647,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L1189-L1792"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67644,7 +67659,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "kcm-0047",
@@ -67672,7 +67687,7 @@
    "kirtan",
    "ecstasy"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/05.md",
@@ -67691,6 +67706,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/05.md?plain=1#L2035-L2631"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67701,7 +67718,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "kcm-0082",
@@ -67730,7 +67747,7 @@
   "scriptures": [
    "Бхаг. 10.81.16"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/07.md",
@@ -67749,6 +67766,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/karnapura-mahakavya/ru/07.md?plain=1#L2206-L2401"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67759,7 +67778,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "lcm-0145",
@@ -67797,7 +67816,7 @@
   "scriptures": [
    "Бхаг. 10.81.16"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "lochana/ru/32.md",
@@ -67818,6 +67837,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/lochana/en/32.md?plain=1#L99-L159"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67828,7 +67849,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "mkc-0110",
@@ -67868,7 +67889,7 @@
   "scriptures": [
    "Бхаг. 10.81.16"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "murari-gupta/ru/2.12.md",
@@ -67889,6 +67910,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/murari-gupta/en/2.12.md?plain=1#L13-L37"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67899,7 +67922,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0135",
@@ -67934,7 +67957,7 @@
   "bhava": [
    "aishvarya"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/07.md",
@@ -67955,6 +67978,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/07.md?plain=1#L440-L455"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -67965,7 +67990,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0002",
@@ -68001,7 +68026,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "Маджумдар: БР приводит паду как свидетельство очевидца абхишеки 1509 г.",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/01.md",
@@ -68022,11 +68047,13 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L45-L54"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "age": [
    23,
    23
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pvl-0155",
@@ -68271,7 +68298,7 @@
   "teaching": [
    "vaishnava"
   ],
-  "event": "ev-shachi-vaishnava-aparadha",
+  "event": "ev-shachi-receives-prema",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Madhya22.md",
@@ -68290,6 +68317,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L531-L566"
    }
   ],
+  "cc": "Ади 17.71",
+  "cb": "Мадхья 22",
   "years": [
    1509,
    1510
@@ -68300,7 +68329,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "pad-0003",
@@ -68336,7 +68365,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "Маджумдар: ПК 1536, 1537, 1571 — пады очевидца об абхишеке 1509 г.",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/01.md",
@@ -68357,11 +68386,13 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L68-L77"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "age": [
    23,
    23
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0339",
@@ -68398,7 +68429,7 @@
   "bhava": [
    "aishvarya"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/17.md",
@@ -68419,6 +68450,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/17.md?plain=1#L299-L320"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68429,7 +68462,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0340",
@@ -68460,7 +68493,7 @@
   "bhava": [
    "aishvarya"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/17.md",
@@ -68481,6 +68514,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/17.md?plain=1#L329-L350"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68491,7 +68526,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0341",
@@ -68521,7 +68556,7 @@
    "revelation",
    "family"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/17.md",
@@ -68542,6 +68577,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/17.md?plain=1#L359-L368"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68552,7 +68589,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "cb-2038",
@@ -68590,7 +68627,7 @@
   "teaching": [
    "vaishnava"
   ],
-  "event": "ev-shachi-vaishnava-aparadha",
+  "event": "ev-shachi-receives-prema",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Madhya22.md",
@@ -68609,6 +68646,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L72-L187"
    }
   ],
+  "cc": "Ади 17.71",
+  "cb": "Мадхья 22",
   "years": [
    1509,
    1510
@@ -68619,7 +68658,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "pad-0004",
@@ -68664,7 +68703,7 @@
   ],
   "date_conf": "вероятно",
   "date_basis": "Маджумдар: та же абхишека 1509 г., описание очевидцев",
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/01.md",
@@ -68685,11 +68724,13 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L88-L109"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "age": [
    23,
    23
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0291",
@@ -68725,7 +68766,7 @@
   "bhava": [
    "aishvarya"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/14.md",
@@ -68746,6 +68787,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L191-L200"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68756,7 +68799,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0292",
@@ -68788,7 +68831,7 @@
    "festival",
    "kirtan"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/14.md",
@@ -68809,6 +68852,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L217-L232"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68819,7 +68864,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0293",
@@ -68850,7 +68895,7 @@
    "festival",
    "celestial"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/14.md",
@@ -68871,6 +68916,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L246-L261"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68881,7 +68928,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0294",
@@ -68908,7 +68955,7 @@
    "revelation",
    "ecstasy"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/14.md",
@@ -68929,6 +68976,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L274-L286"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68939,7 +68988,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "pad-0295",
@@ -68966,7 +69015,7 @@
    "revelation",
    "festival"
   ],
-  "event": "ev-murari-sudama-verse-abhisheka",
+  "event": "ev-mahaprakasha-abhisheka",
   "verses": [
    {
     "file": "padas/ru/14.md",
@@ -68987,6 +69036,8 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/14.md?plain=1#L301-L310"
    }
   ],
+  "cc": "Ади 17",
+  "cb": "Мадхья 9.1–134; 10.166–173, 264–287",
   "years": [
    1509,
    1510
@@ -68997,7 +69048,7 @@
    23,
    24
   ],
-  "attestation": 6
+  "attestation": 8
  },
  {
   "id": "cb-2039",
@@ -69029,7 +69080,7 @@
   "teaching": [
    "vaishnava"
   ],
-  "event": "ev-shachi-vaishnava-aparadha",
+  "event": "ev-shachi-receives-prema",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Madhya22.md",
@@ -69048,6 +69099,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L192-L301"
    }
   ],
+  "cc": "Ади 17.71",
+  "cb": "Мадхья 22",
   "years": [
    1509,
    1510
@@ -69058,7 +69111,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "cc-0261",
@@ -69090,7 +69143,7 @@
   ],
   "cc": "Ади 17",
   "divergence": "В ЧЧ и ЧБ оскорбление Шачи — перед Адвайтой; у Карнапуры («Чайтанья-чандродая», акт 1) — перед Шривасой и другими преданными.",
-  "event": "ev-shachi-vaishnava-aparadha",
+  "event": "ev-shachi-receives-prema",
   "verses": [
    {
     "file": "chaitanya-charitamrita/ed/vcd/CC_Adi17.md",
@@ -69109,6 +69162,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L725-L725"
    }
   ],
+  "cb": "Мадхья 22",
   "years": [
    1509,
    1510
@@ -69119,7 +69173,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "ccd-0019",
@@ -69155,7 +69209,7 @@
   "scriptures": [
    "Бхаг. 10.3.31"
   ],
-  "event": "ev-shachi-vaishnava-aparadha",
+  "event": "ev-shachi-receives-prema",
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/01.md",
@@ -69174,6 +69228,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-chandrodaya/ru/01.md?plain=1#L556-L599"
    }
   ],
+  "cc": "Ади 17.71",
+  "cb": "Мадхья 22",
   "years": [
    1509,
    1510
@@ -69184,7 +69240,7 @@
    23,
    24
   ],
-  "attestation": 3
+  "attestation": 6
  },
  {
   "id": "pad-0342",
@@ -102306,7 +102362,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102370,7 +102426,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102432,7 +102488,7 @@
    1510
   ],
   "date_conf": "вероятно",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102495,7 +102551,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102554,7 +102610,7 @@
    1510
   ],
   "date_conf": "вероятно",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102612,7 +102668,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102676,7 +102732,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102740,7 +102796,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102804,7 +102860,7 @@
    1510
   ],
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102864,7 +102920,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -102897,7 +102953,7 @@
   "teaching": [
    "holy-name"
   ],
-  "event": "ev-cowherd-boy-haribol-radha-desha",
+  "event": "ev-radha-desha-wandering",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya01.md",
@@ -102920,13 +102976,14 @@
    1510,
    1510
   ],
+  "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1.96–108",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
   ],
-  "attestation": 1
+  "attestation": 9
  },
  {
   "id": "mkc-0141",
@@ -102984,7 +103041,7 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
-  "cb": "Антья 1",
+  "cb": "Антья 1.51–108",
   "age": [
    24,
    24
@@ -137103,7 +137160,7 @@
   "themes": [
    "prasada"
   ],
-  "event": "ev-advaita-feeds-lord-alone-indra-storm",
+  "event": "ev-advaita-feeds-lord-hailstorm",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya09.md",
@@ -137122,7 +137179,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L22-L60"
    }
   ],
-  "cb": "Антья 9.12–88",
+  "cc": "Мадхья 16.55–56",
+  "cb": "Антья 9.3–88",
   "years": [
    1512,
    1514
@@ -137133,7 +137191,7 @@
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 3
  },
  {
   "id": "cb-3110",
@@ -137164,7 +137222,7 @@
   "teaching": [
    "associates-tattva"
   ],
-  "event": "ev-advaita-feeds-lord-alone-indra-storm",
+  "event": "ev-advaita-feeds-lord-hailstorm",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya09.md",
@@ -137183,7 +137241,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L65-L428"
    }
   ],
-  "cb": "Антья 9.12–88",
+  "cc": "Мадхья 16.55–56",
+  "cb": "Антья 9.3–88",
   "years": [
    1512,
    1514
@@ -137194,7 +137253,7 @@
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 3
  },
  {
   "id": "cb-3111",
@@ -138337,65 +138396,6 @@
   "attestation": 4
  },
  {
-  "id": "cc-4006",
-  "source": "cc",
-  "ref": "Антья 1.62–64",
-  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
-  "period": "P12",
-  "order": 65,
-  "title": "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа",
-  "summary": "Господь с преданными убрал храм Гундичи и в саду Айтота вкусил с ними прасад; Харидас и Рупа радовались, видя это, и, получив от Говинды остатки Господа, плясали от радости.",
-  "persons": [
-   "@mahaprabhu",
-   "@haridasa-thakura",
-   "@rupa-gosvami",
-   "@govinda-servant"
-  ],
-  "places": [
-   "#gundicha",
-   "#aitota",
-   "#puri"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "notes": "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12); period P12 — по событию, сам эпизод — около 1516 г.",
-  "themes": [
-   "jagannatha",
-   "prasada"
-  ],
-  "cc": "Антья 1",
-  "event": "ev-gundicha-marjana",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
-    "from": "62",
-    "to": "64"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
-    "from": "62",
-    "to": "64",
-    "line": 464,
-    "line_to": 478,
-    "count": 3,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L464-L478"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 4
- },
- {
   "id": "gkd-0110",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 11, 44–47",
@@ -138610,61 +138610,6 @@
     "line_to": 1145,
     "count": 7,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya12.md?plain=1#L1097-L1145"
-   }
-  ],
-  "years": [
-   1512,
-   1514
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   26,
-   28
-  ],
-  "attestation": 4
- },
- {
-  "id": "cc-4102",
-  "source": "cc",
-  "ref": "Антья 10.103–106",
-  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
-  "period": "P12",
-  "order": 65.5,
-  "title": "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде",
-  "summary": "Как и прежде, Господь с преданными убрал Гундичу, пировал в саду, плясал перед колесницей и видел Хера-панчами; бенгальцы провели в Пури четыре месяца дождей и праздники, в том числе Джанмаштами.",
-  "persons": [
-   "@mahaprabhu"
-  ],
-  "places": [
-   "#gundicha",
-   "#puri"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "notes": "Упоминание ежегодных праздников.",
-  "themes": [
-   "festival",
-   "jagannatha"
-  ],
-  "cc": "Антья 10",
-  "event": "ev-gundicha-marjana",
-  "verses": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
-    "from": "103",
-    "to": "106"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
-    "from": "103",
-    "to": "106",
-    "line": 1243,
-    "line_to": 1276,
-    "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya10.txt?plain=1#L1243-L1276"
    }
   ],
   "years": [
@@ -146098,8 +146043,8 @@
    }
   ],
   "date_conf": "оценка",
-  "date_basis": "в ЧЧ время не названо; традиционно — в годы проповеди Нитьянанды в Гауде (ЧБ Антья-кханда)",
-  "cb": "Антья-кханда (рассказ о Гададхаре Дасе и кази)",
+  "date_basis": "в ЧЧ время не названо; ЧБ Антья 5 — в годы проповеди Нитьянанды в Гауде",
+  "cb": "Антья 5.395–420",
   "years": [
    1512,
    1514
@@ -146109,7 +146054,7 @@
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cb-3080",
@@ -146256,7 +146201,7 @@
   "teaching": [
    "holy-name"
   ],
-  "event": "ev-gadadhara-dasa-kazi-harinama",
+  "event": "ev-gadadhara-dasa-kazi-hari",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
@@ -146275,18 +146220,20 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L1866-L1964"
    }
   ],
+  "date_conf": "оценка",
+  "date_basis": "в ЧЧ время не названо; ЧБ Антья 5 — в годы проповеди Нитьянанды в Гауде",
+  "cc": "Ади 10.53",
   "cb": "Антья 5.395–420",
   "years": [
    1512,
    1514
   ],
-  "date_conf": "оценка",
   "years_from": "period",
   "age": [
    26,
    28
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "vv-0029",
@@ -148981,6 +148928,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L441-L465"
    }
   ],
+  "cb": "Антья 9.3–88",
   "years": [
    1512,
    1514
@@ -148991,7 +148939,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cb-3122",
@@ -157978,6 +157926,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L1964-L2012"
    }
   ],
+  "cb": "Антья 5.122–138",
   "years": [
    1514,
    1516
@@ -157988,7 +157937,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-2111",
@@ -158107,6 +158056,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/13.md?plain=1#L127-L131"
    }
   ],
+  "cb": "Антья 5.122–138",
   "years": [
    1514,
    1516
@@ -158117,7 +158067,67 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
+ },
+ {
+  "id": "cb-3073",
+  "source": "cb",
+  "ref": "Антья 5, 122–138",
+  "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
+  "period": "P13",
+  "order": 20.5,
+  "title": "Возвращение в Нилачалу: «Движущийся Джаганнатха прибыл»",
+  "summary": "Обойдя деревни у Ганги и исполнив желания преданных, Господь возвращается в Нилачалу; Сарвабхаума и спутники-ория с киртаном встречают Его; Господь живёт у Каши Мишры, встречает Джаганнатху при открытии дверей храма, танцует перед Ним и на берегу океана, и слёзы Его текут, как Ганга.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma",
+   "@kashi-mishra",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#house-kashi-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "divergence": "По ЧБ Господь после Гауды прямо возвращается в Пури (поход во Вриндаван через Джхарикханду в ЧБ не описан).",
+  "themes": [
+   "jagannatha",
+   "kirtan",
+   "ecstasy"
+  ],
+  "event": "ev-return-puri-after-gauda",
+  "verses": [
+   {
+    "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
+    "from": "122",
+    "to": "138"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
+    "from": "122",
+    "to": "138",
+    "line": 588,
+    "line_to": 668,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L588-L668"
+   }
+  ],
+  "cc": "Мадхья 16",
+  "cb": "Антья 5.122–138",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "attestation": 3
  },
  {
   "id": "cc-2112",
@@ -158163,6 +158173,7 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L2236-L2300"
    }
   ],
+  "cb": "Антья 5.122–138",
   "years": [
    1514,
    1516
@@ -158173,7 +158184,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "vlb-0005",
@@ -174879,65 +174890,6 @@
   "attestation": 3
  },
  {
-  "id": "cb-3073",
-  "source": "cb",
-  "ref": "Антья 5, 122–138",
-  "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
-  "period": "P13",
-  "order": 230,
-  "title": "Возвращение в Нилачалу: «Движущийся Джаганнатха прибыл»",
-  "summary": "Обойдя деревни у Ганги и исполнив желания преданных, Господь возвращается в Нилачалу; Сарвабхаума и спутники-ория с киртаном встречают Его; Господь живёт у Каши Мишры, встречает Джаганнатху при открытии дверей храма, танцует перед Ним и на берегу океана, и слёзы Его текут, как Ганга.",
-  "persons": [
-   "@mahaprabhu",
-   "@sarvabhauma",
-   "@kashi-mishra",
-   "@jagannatha-deity"
-  ],
-  "places": [
-   "#puri",
-   "#house-kashi-mishra"
-  ],
-  "kind": "lila",
-  "authority": "A",
-  "divergence": "По ЧБ Господь после Гауды прямо возвращается в Пури (поход во Вриндаван через Джхарикханду в ЧБ не описан).",
-  "themes": [
-   "jagannatha",
-   "kirtan",
-   "ecstasy"
-  ],
-  "event": "ev-puri-return-from-gauda",
-  "verses": [
-   {
-    "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
-    "from": "122",
-    "to": "138"
-   }
-  ],
-  "verses_resolved": [
-   {
-    "file": "chaitanya-bhagavata/ed/CB_Antya05.md",
-    "from": "122",
-    "to": "138",
-    "line": 588,
-    "line_to": 668,
-    "count": 17,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L588-L668"
-   }
-  ],
-  "cb": "Антья 5.122–138",
-  "years": [
-   1514,
-   1516
-  ],
-  "date_conf": "оценка",
-  "years_from": "period",
-  "age": [
-   28,
-   30
-  ],
-  "attestation": 1
- },
- {
   "id": "kcm-0162",
   "source": "karnapura-ckm",
   "ref": "Сарга 18, 17–45",
@@ -175099,7 +175051,7 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/stotras/en/01.md?plain=1#L15-L15"
    }
   ],
-  "cc": "Мадхья 11; Антья 14",
+  "cc": "Мадхья 2.53–56; 11; Антья 14",
   "years": [
    1516,
    1533
@@ -175110,7 +175062,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "gst-0019",
@@ -176222,7 +176174,8 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/advaita-prakash/18.md?plain=1#L62-L103"
    }
   ],
-  "cc": "Мадхья 15",
+  "cc": "Мадхья 16.55–56",
+  "cb": "Антья 9.3–88",
   "years": [
    1516,
    1533
@@ -176233,7 +176186,7 @@
    30,
    47
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-4100",
@@ -176497,7 +176450,7 @@
    "associates-tattva",
    "sannyasa-teaching"
   ],
-  "event": "ev-rupa-sanatana-puri-advaita-blessing",
+  "event": "ev-rupa-arrives-haridasa-puri",
   "verses": [
    {
     "file": "chaitanya-bhagavata/ed/CB_Antya09.md",
@@ -176516,18 +176469,18 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-bhagavata/ed/CB_Antya09.md?plain=1#L1122-L1311"
    }
   ],
-  "cb": "Антья 9.238–275",
   "years": [
    1516,
-   1533
+   1517
   ],
   "date_conf": "оценка",
-  "years_from": "period",
+  "cc": "Антья 1.45–64",
+  "cb": "Антья 9.235–275",
   "age": [
    30,
-   47
+   31
   ],
-  "attestation": 1
+  "attestation": 3
  },
  {
   "id": "cc-4119",
@@ -177044,11 +176997,71 @@
    1517
   ],
   "date_conf": "оценка",
+  "cb": "Антья 9.235–275",
   "age": [
    30,
    31
   ],
-  "attestation": 1
+  "attestation": 3
+ },
+ {
+  "id": "cc-4006",
+  "source": "cc",
+  "ref": "Антья 1.62–64",
+  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
+  "period": "P14",
+  "order": 10.6,
+  "title": "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа",
+  "summary": "Господь с преданными убрал храм Гундичи и в саду Айтота вкусил с ними прасад; Харидас и Рупа радовались, видя это, и, получив от Говинды остатки Господа, плясали от радости.",
+  "persons": [
+   "@mahaprabhu",
+   "@haridasa-thakura",
+   "@rupa-gosvami",
+   "@govinda-servant"
+  ],
+  "places": [
+   "#gundicha",
+   "#aitota",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12, ev-gundicha-marjana); около 1516 г.",
+  "themes": [
+   "jagannatha",
+   "prasada"
+  ],
+  "cc": "Антья 1",
+  "event": "ev-rupa-arrives-haridasa-puri",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
+    "from": "62",
+    "to": "64"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt",
+    "from": "62",
+    "to": "64",
+    "line": 464,
+    "line_to": 478,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L464-L478"
+   }
+  ],
+  "years": [
+   1516,
+   1517
+  ],
+  "date_conf": "оценка",
+  "cb": "Антья 9.235–275",
+  "age": [
+   30,
+   31
+  ],
+  "attestation": 3
  },
  {
   "id": "kcm-0156",
@@ -177082,7 +177095,7 @@
   "scriptures": [
    "na me ’bhaktaś catur-vedī…"
   ],
-  "event": "ev-rupa-sanatana-anupama-ratha-garden",
+  "event": "ev-rupa-arrives-haridasa-puri",
   "verses": [
    {
     "file": "karnapura-mahakavya/ru/17.md",
@@ -177103,15 +177116,16 @@
   ],
   "years": [
    1516,
-   1533
+   1517
   ],
   "date_conf": "оценка",
-  "years_from": "period",
+  "cc": "Антья 1.45–64",
+  "cb": "Антья 9.235–275",
   "age": [
    30,
-   47
+   31
   ],
-  "attestation": 1
+  "attestation": 3
  },
  {
   "id": "cc-4008",
@@ -184705,6 +184719,61 @@
   "attestation": 1
  },
  {
+  "id": "cc-4102",
+  "source": "cc",
+  "ref": "Антья 10.103–106",
+  "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
+  "period": "P14",
+  "order": 51.5,
+  "title": "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде",
+  "summary": "Как и прежде, Господь с преданными убрал Гундичу, пировал в саду, плясал перед колесницей и видел Хера-панчами; бенгальцы провели в Пури четыре месяца дождей и праздники, в том числе Джанмаштами.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gundicha",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Упоминание ежегодных праздников.",
+  "themes": [
+   "festival",
+   "jagannatha"
+  ],
+  "cc": "Антья 10",
+  "event": "ev-gauda-devotees-yearly-visit",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
+    "from": "103",
+    "to": "106"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt",
+    "from": "103",
+    "to": "106",
+    "line": 1243,
+    "line_to": 1276,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya10.txt?plain=1#L1243-L1276"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 6
+ },
+ {
   "id": "cc-4104",
   "source": "cc",
   "ref": "Антья 10.132–141",
@@ -191539,7 +191608,7 @@
    "radha"
   ],
   "cc": "Мадхья 2",
-  "event": "ev-garuda-stambha-tears",
+  "event": "ev-garuda-stambha-darshan",
   "verses": [
    {
     "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md",
@@ -191568,7 +191637,7 @@
    30,
    47
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "cc-4135",

@@ -94,18 +94,18 @@
   source: cc
   ref: "Антья 1.62–64"
   file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
-  period: P12
-  order: 65
+  period: P14
+  order: 10.6
   title: "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа"
   summary: "Господь с преданными убрал храм Гундичи и в саду Айтота вкусил с ними прасад; Харидас и Рупа радовались, видя это, и, получив от Говинды остатки Господа, плясали от радости."
   persons: ["@mahaprabhu", "@haridasa-thakura", "@rupa-gosvami", "@govinda-servant"]
   places: ["#gundicha", "#aitota", "#puri"]
   kind: lila
   authority: A
-  notes: "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12); period P12 — по событию, сам эпизод — около 1516 г."
+  notes: "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12, ev-gundicha-marjana); около 1516 г."
   themes: [jagannatha, prasada]
   cc: "Антья 1"
-  event: ev-gundicha-marjana
+  event: ev-rupa-arrives-haridasa-puri
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "62", to: "64"}
 
@@ -1914,8 +1914,8 @@
   source: cc
   ref: "Антья 10.103–106"
   file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
-  period: P12
-  order: 65.5
+  period: P14
+  order: 51.5
   title: "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде"
   summary: "Как и прежде, Господь с преданными убрал Гундичу, пировал в саду, плясал перед колесницей и видел Хера-панчами; бенгальцы провели в Пури четыре месяца дождей и праздники, в том числе Джанмаштами."
   persons: ["@mahaprabhu"]
@@ -1925,7 +1925,7 @@
   notes: "Упоминание ежегодных праздников."
   themes: [festival, jagannatha]
   cc: "Антья 10"
-  event: ev-gundicha-marjana
+  event: ev-gauda-devotees-yearly-visit
   verses:
     - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "103", to: "106"}
 

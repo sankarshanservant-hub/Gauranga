@@ -45,7 +45,7 @@ relations:
   - {type: neighbor, who: "@jagadisha-pandita", facts: [F15, F22], note: "Он и его жена Духкхини любили Нимая как родители (F22)."}
   - {type: neighbor, who: "@hiranya-pandita", facts: [F15]}
   # вайшнавы
-  - {type: other, who: "@advaita", facts: [F17, F27, F37, F38, F39, F40, F41, F73], event: ev-shachi-vaishnava-aparadha,
+  - {type: other, who: "@advaita", facts: [F17, F27, F37, F38, F39, F40, F41, F73], event: ev-shachi-receives-prema,
      note: "Оскорбила Адвайту лишь мысленно, из любви к сыну, и получила прощение, взяв пыль с его стоп. T: после прощения Господь показал ей Свой облик ≠ B: Господь сказал, что простить может лишь Адвайта; Шачи взяла прах его стоп и упала без чувств в преме (F40). Адвайта простился с ней перед путём в Нилачалу (F41)."}
   - {type: guru, who: "@advaita", event: ev-advaita-initiates-mishra-shachi,
      note: "Только «Адвайта-пракаша» (уровень D) в lila-db; в реестре нет."}
@@ -119,11 +119,10 @@ events:   # по порядку жизни (lila-db: period, order); ключе�
   - ev-return-from-east-bengal
   - ev-vishnupriya-matchmaking
   - ev-marriage-vishnupriya
-  - ev-shachi-receives-prema
   - ev-nityananda-meal-shachi
   - ev-dream-of-krishna
   - ev-mahaprakasha-abhisheka
-  - ev-shachi-vaishnava-aparadha
+  - ev-shachi-receives-prema
   - ev-chandrashekhara-drama
   - ev-lord-consoles-shachi-before-sannyasa
   - ev-lament-after-lord-leaves
@@ -151,7 +150,7 @@ places_facts: [F6, F32, F35, F39, F42, F43, F53, F94]
 character:
   - {trait: "материнская любовь, в которой она не допускала мысли о величии Сына", facts: [F11, F13, F112], events: [ev-footprints-gopala, ev-shachi-forgets-majesty]}
   - {trait: "служила санньяси и вайшнавам, как собственным сыновьям", facts: [F23, F26, F58, F100], events: [ev-madhavendra-puri-aradhana]}
-  - {trait: "без гордости тотчас пошла просить прощения у оскорблённого вайшнава", facts: [F40, I2, I3], events: [ev-shachi-vaishnava-aparadha]}
+  - {trait: "без гордости тотчас пошла просить прощения у оскорблённого вайшнава", facts: [F40, I2, I3], events: [ev-shachi-receives-prema]}
   - {trait: "чистая любовь, которой Господь незримо приходит вкушать её подношения", facts: [F60, F61, F63], events: [ev-damodara-sent-navadvipa, ev-avirbhava-four-places]}
   - {trait: "глубочайшая разлука после санньясы Сына", facts: [F86, F91, F108, F54], events: [ev-lament-after-lord-leaves]}
   - {trait: "в разлуке прибегла к святому имени", facts: [F108]}
