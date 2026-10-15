@@ -23,6 +23,7 @@ for f in sorted((R / 'src/txt').glob('CB_*[0-9][0-9].txt')):
         tr, translit, started = [], [], False
         for l in body:
             s = l.strip()
+            if started and re.match(r'^[ \t]{2,}\S', l): break   # пояснение издания начинается с отступа
             if not s:
                 if started: break
                 continue
