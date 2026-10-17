@@ -99,7 +99,7 @@ B — вероятно, больше сотни).
 | @ramananda-raya (013) | ✓ | ✓ (PDF) | — |
 | @bhugarbha (014) | ✓ | ✓ (PDF) | — |
 | @sundarananda (015) | ✓ | ✓ (PDF) | — |
-| @gopala-guru (016) | ✓ | — | — |
+| @gopala-guru (016) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
