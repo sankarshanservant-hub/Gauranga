@@ -1498,6 +1498,127 @@ concluding verses say that this rule of bathing Krishna on His birthday is set o
 Tenth Canto of the “Bhagavatam”; whoever performs it will become dear to Govinda, be filled with deep prema and serve Him
 ever directly in Vrindavana. The colophon of the Vrindavana manuscript names Sri Rupa Gosvami as the author. <!-- F407 F408 F409 F410 Q97 -->
 
+### “Ganoddesha-dipika”
+The full title of the book is “Sri Sri Radha-Krishna-ganoddesha-dipika,” “The Lamp Pointing Out the Associates of Radha
+and Krishna.” Why it is needed is explained by a well-known verse: the object of worship is the son of the king of Vraja
+together with His abode Vrindavana, and the highest way of service is the one shown by the maidens of Vraja. Those who
+walk the path of raga follow Krishna's ragatmika associates and their manner of service, and for that one must know all
+the members of His family. In our own nature (svarupa) we are Krishna's eternal intimates, and our eternal relationship is
+with His family; without knowing it one cannot be established in sambandha, abhidheya or prayojana. But this knowledge
+must be heard and realized from the lips of a transcendental guru — with an ear turned towards service, a pure heart and
+transcendental faith. <!-- F411 F412 F413 Q98 I30 -->
+
+The sadhus of old lovingly mentioned the names of Krishna's associates and facts about them briefly, like sutras; all
+this was kept in tradition and in the shastras. Rupa, as he says, gathered these facts from the traditions of
+Mathura-mandala, from the shastras, Puranas and Agamas and from the words of saintly devotees, and arranged them — for
+the joy of his friends and to lay out the path of raga in order (“Ganoddesha-dipika,” 3–5). The book also contains direct
+references, for example to the “Adi-purana,” the “Garuda-purana” and the “Sammohana-tantra.” Krishna's family are the
+Vrajavasis, and the book gives the names, appearance, qualities, retinue and service of all its members and their
+branches. The family is divided into cowherds (pashupala) of the Yadu line, brahmanas (vipra) and artisans (bahishtha);
+the cowherds into vaishyas who live by milk, abhiras who tend calves and buffaloes, and gurjaras who tend goats; and by
+the kind of relationship with Krishna into eight classes: revered elders, brothers and sisters, female messengers,
+servants, artisans, maidservants, friends of His own age and beloveds. Also described are the groups (yuthas), garments,
+ornaments, umbrellas, couches, canopies, kunjas, houses, carts and mounts of Radha-Krishna and Their retinue, the nature of
+the eight sakhis, their arts, bhavas, gatherings and much else; from the “Sammohana-tantra” two more groups of eight sakhis
+of Radha are given. <!-- F414 F415 F416 F417 F418 Q99 -->
+
+The book has two parts, a greater and a lesser. The greater (“Brihad-ganoddesha-dipika”) opens with obeisances to the feet
+of the guru with the devotees, to Chaitanya, who appeared together with Nityananda, to the son of Nanda with the gopis and
+Vrajavasis, and to the feet of Radhika. At its end (250–252) it says: the associates of the Lords of Vrindavana are
+countless, only a pointer is given here, and the rest — couches, food, drink, betel, swings, tilaka and so on — the wise
+will learn from the shastras and from the guru; knowledge of the names and forms of Krishna's associates had almost
+vanished, but Rupa's sight, illumined by Bhagavan's mercy like a lamp, beheld these names full of rasa. The last verse gives
+the time: the book was “lit” in the house of Nanda, king of Vraja, in 1472 Shaka (1550 CE), in the month of Shravana, on a
+Sunday, on the shashthi. The lesser part describes Krishna's form, qualities, sweetness and ages, His friends of every
+degree — companions, well-wishers, priya-sakhas and priya-narma-sakhas — Baladeva, servants, messengers male and female,
+Paurnamasi, Vrinda, Nandimukhi, His cows, deer, peacocks and parrots, the places of His pastimes — ghatas, hills, lakes,
+trees — and then Radhika: the marks on Her palms and soles, Her beauty, Her relatives and friends — the priya-, prana- and
+nitya-sakhis and the manjaris — Her worshipful deity, Her cows, heifer, doe, swan, myna, ornaments, flower garden, raga,
+dance and birthday. It too ends by pointing to the countlessness of the associates (250); in some manuscripts the closing
+verse of the greater part is repeated in the lesser, and the penultimate verse names the same year 1472 Shaka. <!-- F419 F420 F421 F422 F423 F424 F425 Q100 Q101 Q102 -->
+
+Attempts have been made to dispute Rupa's authorship of the book. The first argument: if it was written in 1550, why does
+Jiva not name it in the “Laghu-toshani” (1582)? But Krishnadasa Kaviraja in his list does not name the “Hamsa-duta” and
+“Uddhava-sandesha” either, nor quote a single verse from them, though he could not have been unaware of them: he quotes
+the “Bhakti-rasamrita-sindhu” and “Ujjvala-nilamani” abundantly, where both poems are cited more than once. Nor can one
+say that he omitted them as written before Rupa came to the Lord: their siddhanta fully agrees with Rupa's rasa-shastras,
+or Jiva would not have named them either, and in the conclusion of the “Uddhava-sandesha” (verse 130) Rupa calls himself by
+name — “shri-rupashraya-pada” — so the poem was certainly written after the meeting with the Lord. Nor is there any
+“copper-plate decree” obliging every later author to name all the books of his predecessor: the four books of Rupa that
+Jiva did not name could well have been mentioned by another, later witness. <!-- F426 F428 F429 F430 -->
+
+The second argument: the opening of the “Brihad-ganoddesha-dipika” names Nityananda, whereas nowhere else, not even in the
+three “Chaitanyashtakas,” does Rupa name Him explicitly. This argument is weak. Karnapura in the
+“Chaitanya-chandrodaya-nataka” names neither Gopala Bhatta nor Jiva, while in the “Gaura-ganoddesha-dipika” he names both
+and speaks of their position in Vraja; and in the openings of Jiva and Raghunatha, too, Nityananda is not named explicitly.
+The “Ujjvala-nilamani” has no obeisance to Mahaprabhu, though in the earlier “Vidagdha-madhava,” “Bhakti-rasamrita-sindhu”
+and “Lalita-madhava” He is specially glorified: Rupa received the subject of the “Ujjvala-nilamani” in Prayaga, briefly,
+“in sutras,” by the power of Gaurasundara's mercy, and in the second opening verse he says that here he unfolds the
+confidential truths of madhura-rasa told briefly in the “Bhakti-rasamrita-sindhu”; Jiva says the same in the
+“Lochana-rochani.” A mind relying on empirical knowledge alone does not penetrate such matters, and to declare the book
+someone else's because of Nityananda's name is to destroy one's own understanding. <!-- F427 F431 F432 F433 F434 -->
+
+The third argument: after verse 246 the names of Radhika's sakhis are given from the “Sammohana-tantra,” whereas Rupa
+supposedly never refers to tantras elsewhere. But he does refer to them by name: in the “Laghu-bhagavatamrita” to the
+“Sammohana-tantra,” the “Satvata-tantra” and the “Bhargava-tantra,” in the “Bhakti-rasamrita-sindhu” to the
+“Vaishnava-tantra” and simply to “the tantra,” and likewise in the “Ujjvala-nilamani.” Such arguments against the
+authenticity of Rupa's books are constructions of those to whom the realm of the acharyas is closed; they must be examined
+impartially, by hearing through succession (shrauta). <!-- F435 I31 -->
+
+### “Stavamala”
+The “many stavavalis” of which Kaviraja speaks (Madhya 1.39) are the “Stavamala,” “The Garland of Hymns,” compiled by Jiva.
+In his introduction Jiva says that he, insignificant, wholly dependent on Rupa — his chosen master, the author of the
+“Rasamrita” — has strung his stotras into a garland, and gives the order: stotras to Chaitanya, to Krishna, to Radhika and
+to the Divine Couple; then the “Virudavali”; the pastimes from the Nandotsava to the slaying of Kamsa in various metres;
+figured verses; songs (the “Gitavali”); and finally stotras to Lalita, the Yamuna, Mathura, Govardhana, Vrindavana and the
+names of Krishna. <!-- F436 F437 Q103 -->
+
+The “Stavamala” contains forty-nine works. It opens with three “Chaitanyashtakas.” Then come stotras to Krishna: the
+“Mahanandakhya-stotra,” “Lilamrita-nama-dashaka,” “Premendusagara” (a hundred and eight names of Krishna),
+“Keshavashtaka,” two “Kunjaviharyashtakas,” “Mukundashtaka,” “Vraja-nava-yuvaraj-ashtaka,” “Pranama-pranaya-stava,”
+“Hari-kusuma-stavaka,” “Gatha-chhandah-stava,” “Tribhangi-panchaka,” two untitled verses — on self-surrender and on the
+bonds of hope — and the “Mukunda-muktavali.” To Radha are dedicated the “Ananda-chandrika” (ten of Her names),
+“Premendusudhasava” (a hundred and eight names of Vrindavaneshvari), “Radhashtaka,” “Prarthana-paddhati,”
+“Chatu-pushpanjali” and “Gandharva-samprarthana-ashtaka”; to the Divine Couple the “Radha-Krishna-nama-yugala-ashtaka,” the
+“Vraja-navina-yuva-dvandva-ashtaka” with a verse of meditation, the “Karpanya-panjika-stotra,” the “Utkalika-vallari” and
+two verses on the night's-end (nishanta) pastimes. Next come the “Govinda-virudavali” with many kinds of viruda metres,
+the eighteen pastimes in metres (“Ashtadasha-chhandah”), the “Govardhanoddharana,” further accounts of the stealing of the
+garments and of the rasa-lila, the “Svayam-utprekshita-lila,” “Khandita” and “Lalitokta-totashtaka,” twelve figured verses
+(“Chitra-kavitvani”: of two letters and of one, in the shape of a wheel, a serpent, a lotus and so on), the forty-two songs of
+the “Gitavali” and finally the “Lalitashtaka,” “Yamunashtaka,” “Mathurashtaka,” two “Govardhanashtakas,”
+“Vrindavanashtaka” and “Krishna-namashtaka.” In different editions (Nirnaya-Sagara, 1903; Baharampur) a number of works
+are titled or divided differently. <!-- F438 F439 F440 F441 F443 -->
+
+When the Lord withdrew, Rupa, crushed by separation, constantly remembered and sang of His pastimes; they are preserved in
+the “Chaitanyashtakas,” where every verse ends with the same plea: “Will that Chaitanya come again before my eyes?” The
+time of one stotra Rupa gave himself: the “Utkalika-vallari” was written while he lived in Gokula, in the month of Pausha,
+1471 Shaka (at the turn of 1549 and 1550). How the “Govinda-virudavali” came about has been told above in Baladeva
+Vidyabhushana's words; Rupa used many of its virudas as examples in the “Samanya-virudavali-lakshana.” In the table of its
+kinds (kalikas) are virudas of short and long syllables named “achyuta,” “utpala,” “tilaka,” “turanga,” “purushottama” and
+others, “manjaris” of three kinds, tribhangis, and mixed and prose kalikas. <!-- F444 F445 F454 F456 Q104 -->
+
+The “Chhando-’shtadashaka,” “Eighteen Metres,” is named both by Jiva at the end of the “Laghu-toshani” and by Kaviraja
+(“the eighteen lila-chhandas”). The second verse of the “Nandotsavadi-charita” says that the great pastimes of Hari from the
+Nandotsava to the slaying of Kamsa are told in eighteen elegant metres: the Nandotsava; the slaying of Shakata,
+Trinavarta and other childhood pastimes; the yamala-arjuna trees; the herding of the calves; the stealing of the calves by
+Brahma; Talavana; the subduing of Kaliya; the pastimes in Bhandiravana; the pastimes of the rainy season and autumn; the
+stealing of the garments; the mercy to the brahmanas' wives; the abduction of Nanda by Varuna; the rasa-lila; the
+deliverance of Sudarshana; the song of the gopis; the slaying of Arishtasura and others; the pastimes in Kamsa's arena.
+These eighteen stotras Jiva included in the “Stavamala.” Baladeva Vidyabhushana wrote a commentary on them and at its end
+asks that Krishna, Rupa and the sadhus be pleased with it. The figured verses of the “Stavamala,” with their definitions,
+are quoted by Jiva in the “Bhakti-rasamrita-shesha” and by Baladeva in the “Sahitya-kaumudi.” <!-- F440 F446 F447 F448 F449 F450 Q105 Q106 -->
+
+At the end of every song of the “Gitavali” the name “Sanatana” stands as the signature (bhanita), and some consider it
+Sanatana's work, citing the “Dashama-charita” in the list of his books (CC, Madhya 1.35). But Baladeva at the end of his
+commentary calls these songs Rupa's work.[^57] The songs are in the gatha metre, with ten anushtubh verses added; their
+themes are the Nandotsava, Vasanta-panchami, the Dola-yatra and the rasa-lila, and within it the marks and examples of the
+eight kinds of heroine. For each song a raga is given — ashavari, karnata, kalyana, kedara, gaudi, dhanashri, bhairava,
+mallara, ramakeli, lalita, vasanta, saurashtri — while the tala (ekatali) is named only twice. <!-- F442 F451 F452 F455 Q107 -->
+
+Into the “Padyavali” Rupa took verses from the “Govinda-virudavali,” from the “Chhando-’shtadashaka” (on the herding of the
+cows and calves) and from the “Mathurashtaka.” Of the “Chatu-pushpanjali” and of the first “Govardhanashtaka,” whose verse
+Srila Bhaktisiddhanta Sarasvati constantly repeated, we have spoken above. <!-- F453 F457 -->
+
 <!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
      in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
@@ -1655,3 +1776,4 @@ ever directly in Vrindavana. The colophon of the Vrindavana manuscript names Sri
     “Utkalika-vallari”; Jiva's verse itself reads “stavasyotkalikavalli.”
 [^56]: In one of the biographies this verse is called now “the verse before the penultimate,” now verse 130; in a poem of
     131 verses that is indeed the penultimate verse, which contains the words “rupashraya-pada.”
+[^57]: Baladeva speaks of forty-one songs (gathas), while both printed editions of the “Stavamala” have forty-two.
