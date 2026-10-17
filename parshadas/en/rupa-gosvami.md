@@ -1086,8 +1086,7 @@ Sanatana himself, in the opening verse of his commentary “Dig-darshini” on t
 Chaitanya, “having taken shelter of whose Rupa” this low man obtained bhakti: the word “rupa” here means both the Lord's
 “form” and Rupa himself. Rupa always revered Sanatana, the acharya of sambandha, as his spiritual teacher — “Sanatana is the
 guru of Srila Rupa Gosvami,” says one biography; and Sanatana, as already mentioned, in his commentary on the
-“Brihad-bhagavatamrita” calls Rupa his beloved servant. The dedication of Sanatana's “Vaishnava-toshani” (“shrimach-
-chaitanya-rupasya prityai…”) can be understood in two ways: “for the pleasure of Sri Krishna Chaitanya” or “for the pleasure
+“Brihad-bhagavatamrita” calls Rupa his beloved servant. The dedication of Sanatana's “Vaishnava-toshani” (“shrimach-chaitanya-rupasya prityai…”) can be understood in two ways: “for the pleasure of Sri Krishna Chaitanya” or “for the pleasure
 of Srila Rupa Gosvami,” at whose bidding this commentary was written. Sanatana's literary contribution to the Gaudiya
 sampradaya is comparable only with that of Rupa and Raghunatha Dasa. <!-- F267 F268 F269 F270 F271 Q65 Q76 -->
 
@@ -1396,7 +1395,7 @@ The opening verse of the poem is an obeisance to Shyamasundara:
 playful smile on His face — may He appear in my heart.” (“Hamsa-duta,” 1)
 
 In the penultimate verse Rupa praises Sanatana: wholly loving Bhagavan, ever serving the “Bhagavata,” turned away from
-worldly rasa from birth, a sweet bhakta, known as “Sakara,” first among heroes — he is like the son of Vyasa, Shukadeva.
+worldly rasa from birth, full of the sweetness of bhakti, known as “Sakara,” first among heroes — he is like the son of Vyasa, Shukadeva.
 The last verse is a prayer for the poem's fruit: may sensitive rasikas find no flaw in it against rasa, bhava or
 ornaments of speech, and may it pour dense waves of bliss into the heart of Krishna, friend of the whole world, hero of
 the pastimes of rasa. <!-- F363 F364 F365 Q87 Q88 Q89 -->
@@ -1454,7 +1453,7 @@ gopis as “Krishna's counsellor in matters of love”; to console Chandravali, 
 Bhadra, Shaibya and the others, and to give Radha, crown of the maidens of Vraja, wasted by separation, His vaijayanti
 garland to bring Her back to consciousness. The two concluding verses are benedictions: may the “Uddhava-sandesha” again
 and again pour streams of joy into the hearts of the devotees of the Lord who delights in His pastimes in Vraja, who
-dances in Mathura out of guileless love and whose lotus feet are Rupa's shelter; and may young, merciful Krishna, who
+dances in Mathura out of guileless love and whose lotus feet are Rupa's shelter; and may the young, merciful Lord, who
 played in childhood with Shridama and others, performed the rasa-lila with the young gopis and slew many demons in play,
 carry the readers across the ocean of worldly existence. <!-- F392 F393 Q93 Q94 -->
 

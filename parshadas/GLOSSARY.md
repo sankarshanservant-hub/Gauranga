@@ -301,4 +301,4 @@
 | Гопишвара (Шива у Брахма-кунды) | Gopishvara (Shiva by Brahma-kunda) | во сне велел Рупе писать обе драмы |
 | адхьякшика — «исследователи, верящие лишь опыту» | adhyakshika — “scholars who trust only their own experience” | так передаём бенг. «адхьякшика-сампрадая» (эмпирики) |
 | Рати-манджари (Лаванга-манджари) | Rati-manjari (Lavanga-manjari) | Санатана по ГГД; ближайшая подруга Рупа-манджари |
-| Тери-кадамба; самадхи во дворе храма Радха-Дамодары | Teri-kadamba; samadhi in the courtyard of the Radha-Damodara temple | места памяти Рупы |
+| самадхи Рупы во дворе храма Радха-Дамодары | Rupa's samadhi in the courtyard of the Radha-Damodara temple | Вриндаван |
