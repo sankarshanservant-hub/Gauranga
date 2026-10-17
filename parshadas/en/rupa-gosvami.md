@@ -33,7 +33,7 @@ earth for seventy-five years — twenty-two at home and fifty-three in Vraja —
 1564 CE), on the twelfth day of the bright fortnight of the month of Shravana. The old manuscripts collected by the
 learned pandita of the shripata of Gopivallabhapura, Vishvambharananda Deva Gosvami, agree with this exactly.[^2]
 According to our Vaishnava calendar, the day of Rupa Gosvami's departure is the Gaura-dvadashi of the month of
-Shridhara, which falls the morning after the Gaura-ekadashi that begins the Jhulana-yatra (in 2026, on 24 August).[^3]
+Shridhara, which falls the morning after the Gaura-ekadashi that begins the Jhulana-yatra.[^3]
 <!-- F1 F2 F3 F4 F5 F6 F7 F8 -->
 
 ## Lineage
@@ -1318,6 +1318,186 @@ His disciple Bhakti Dayita Madhava Gosvami is called “dear to the followers of
 disciples to preach the message of Rupa and Raghunatha together, and the commentary of Srila B. R. Sridhara Maharaja on the
 gayatri is called a contribution to the Rupanuga-sampradaya. <!-- F349 -->
 
+## Works
+Rupa's books are listed by three witnesses whom the Gaudiya Vaishnavas trust without reservation. The first is his nephew
+and disciple Jiva Gosvami. In the conclusion of the “Laghu-vaishnava-toshani” he names the works of “the younger of the
+brothers”: the poems “Hamsa-duta” and “Uddhava-sandesha,” the “Chhando-’shtadashaka,” the “Utkalika-vallari,” the
+“Govinda-virudavali,” the “Premendu-sagara” and many other well-known stotras to Krishna; two plays, the
+“Vidagdha-madhava” and the “Lalita-madhava”; the bhanika “Dana-keli”; the “pair” of books on rasa, the
+“Bhakti-rasamrita-sindhu” and the “Ujjvala-nilamani”; the compilations “Mathura-mahima,” “Padyavali” and
+“Nataka-chandrika”; and finally the abridged “Bhagavatamrita.”[^55] <!-- F350 Q82 -->
+
+The second witness is Narahari Chakravarti. He quotes these verses of Jiva in the “Bhakti-ratnakara” (1.796–799) and then,
+taking a list from Krishnadasa Adhikari, a disciple of Jiva (his name stands in the guru-parampara kept in the temple of
+Radha-Damodara), adds four books that Jiva did not name: the “Krishna-janma-tithi-vidhi,” the greater and lesser
+“Ganoddesha-dipika” and the “Prayuktakhyata-chandrika.” In the verse list of the same first wave of the
+“Bhakti-ratnakara” Rupa's books number sixteen: the “Hamsa-duta,” “Uddhava-sandesha,” “Krishna-janma-tithi-vidhi,” the
+greater and lesser “Ganoddesha-dipika,” the “Stavamala” on Krishna and His intimates, the “Vidagdha-madhava,”
+“Lalita-madhava,” “Dana-keli-kaumudi,” “Bhakti-rasamrita-sindhu,” “Ujjvala-nilamani,” “Prayuktakhyata-chandrika,”
+“Mathura-mahima,” “Padyavali,” “Nataka-chandrika” and “Laghu-bhagavatamrita.” This count and order are followed in the
+biographies of Rupa, and the books are taken in the same order below. In Bengali verses (1.811–821) Narahari adds that
+Rupa wrote sixteen books, showing in them the limits of siddhanta together with lila; the “Lalita-madhava” is the summit of
+vipralambha, the rasa of separation; the “Dana-keli-kaumudi” (also called “Dana-lila-kaumudi”) is an ocean of bliss; the
+“Bhakti-rasamrita-sindhu” is incomparable, and the “Ujjvala-nilamani” is full of rasa. <!-- F351 F352 F353 F354 Q83 Q84 -->
+
+The third witness is Krishnadasa Kaviraja. One of his lists has already been given above, in the account of the
+brothers' life in Vraja (Antya 4.223–226); the other stands at the beginning of the “Madhya-lila”:
+
+“He devoted a hundred thousand shlokas to the Lord's pastimes in Vrindavana. The chief of Sri Rupa's books are these:
+‘Bhakti-rasamrita-sindhu,’ ‘Vidagdha-madhava,’ ‘Ujjvala-nilamani’ and ‘Lalita-madhava,’ ‘Dana-keli-kaumudi,’ ‘Stavavali,’
+the eighteen ‘Lila-chhandas’ and ‘Padyavali,’ ‘Govinda-virudavali,’ ‘Mathura-mahatmya’ and ‘Nataka-varnana.’ One cannot
+count all the books of Sri Rupa, such as the ‘Laghu-bhagavatamrita,’ in which he described in detail the pastimes of
+Vraja.” (CC, Madhya 1.37–41)
+
+“A hundred thousand” is in Bengali “laksha granthas”; a grantha here means a shloka or a stretch of text of a fixed
+number of syllables. Kaviraja's “Nataka-varnana” is the same as the “Nataka-chandrika,” and the “Stavavali” is the
+“Stavamala.” <!-- F357 Q85 Q86 -->
+
+Sometimes the “Upadeshamrita,” the “Namashtaka,” the “Siddhanta-ratna,” the “Kavya-kaustubha” and other books are also
+attributed to Rupa. The last two were in fact written by Baladeva Vidyabhushana; of the “Upadeshamrita” and of the other
+attributed works we shall speak below. <!-- F358 F359 -->
+
+### “Hamsa-duta”
+First in Jiva's list stands the “Hamsa-duta” (“The Swan Messenger”). It is a khanda-kavya — a short poem modelled on one
+part of a great poem (mahakavya) — and Rupa is held to have composed it before he met Sri Chaitanya. The poem has 142
+verses in the shikharini metre (seventeen syllables to the line); so many are in the edition of Jivananda Vidyasagara
+(“Kavya-sangraha,” part 1, Calcutta, 1888), while the Bengali “Basumati” edition, with a hundred and one verses, is full
+of errors and not to be trusted. Several old manuscripts survive, and the poem has been printed more than once in
+Devanagari. Later Rupa himself quoted its verses as examples in the “Bhakti-rasamrita-sindhu” (three verses) and in the
+“Ujjvala-nilamani” (more than ten). <!-- F360 F361 F362 -->
+
+The subject of the poem is Radha's separation from Krishna. When at Akrura's request Krishna left Nanda's house and went
+to Mathura, Radha, pining, came with Her friends to the bank of the Yamuna. The familiar kunjas reminded Her of Krishna
+still more keenly, and She fainted; the sakhis could barely keep life in Her. Seeing Her divine madness (divyonmada),
+Lalita notices a white swan floating on the Yamuna and decides to send it to Krishna — to tell Him how Radha is and bring
+Him back to Vraja. She describes the way to the swan: the kadamba by the ghata where Krishna stole the gopis' garments, the
+pool of Kaliya, Vrinda-devi, the forests full of the cries of peacocks — and the beauty of Mathura, capital of the Yadavas,
+the rapture of its women at the sight of Krishna, His chambers and the service rendered to Him, His form from feet to
+face. The swan should speak of the maidens of Vraja when the cuckoo sings or the scent of jasmine drifts by: let it remind
+Krishna of all that delighted Him in Vrindavana and tell Him that in Mathura, captivated by the service of the
+townspeople, He has grown cold to the simple wealth of the forest and to the forest maidens. <!-- F366 F367 F368 F369 -->
+
+Let the swan tell Him also of Radha's burning separation, of Kubja's good fortune, of how Radha worships Parvati and Shiva
+for the sake of meeting Krishna, and of how in adhirudha-mahabhava She at times takes Herself to be Krishna. Uddhava,
+whom Krishna had sent to console the gopis with knowledge of the Paramatma, only deepened their grief; a disciple of
+Brihaspati, a minister absorbed in affairs of state, he will not tell Krishna how the gopis suffer — so there remains only
+the guileless white swan. Lalita recounts to it Radha's laments in Her divine madness, speaks of her own ardent wish to see
+the Divine Couple together again in Vrindavana and to serve Them, addresses Krishna's forest garland, His makara earrings,
+the Kaustubha gem and His conch, praising their good fortune and asking their sympathy, and bids the swan convey the
+gopis' loving anger to Krishna in the guise of a tale of the ten avataras — Matsya, Kurma and the rest. In these verses
+(128–137) Rupa, through Lalita and the double meanings (shlesha) of loving anger, shows that the son of Nanda is the source
+of all avataras and the shelter of all; this is the essence of Gaudiya Vaishnava philosophy and the hidden secret of
+vraja-bhajana. The poem ends with an entreaty: the swan can separate milk from water — surely it will feel the grief of
+the maidens of Vraja, fly to Mathura and carry out its errand. <!-- F369 F370 F371 F372 F373 -->
+
+The opening verse of the poem is an obeisance to Shyamasundara:
+
+“Clad in garments brighter than powdered orpiment, His feet redder than hibiscus flowers, dark of body like the tamala, a
+playful smile on His face — may He appear in my heart.” (“Hamsa-duta,” 1)
+
+In the penultimate verse Rupa praises Sanatana: wholly loving Bhagavan, ever serving the “Bhagavata,” turned away from
+worldly rasa from birth, a sweet bhakta, known as “Sakara,” first among heroes — he is like the son of Vyasa, Shukadeva.
+The last verse is a prayer for the poem's fruit: may sensitive rasikas find no flaw in it against rasa, bhava or
+ornaments of speech, and may it pour dense waves of bliss into the heart of Krishna, friend of the whole world, hero of
+the pastimes of rasa. <!-- F363 F364 F365 Q87 Q88 Q89 -->
+
+That the poem was written before the meeting with Mahaprabhu is seen from two signs: its opening has no obeisance to Sri
+Krishna Chaitanya, and Sanatana is called in its conclusion by his court name, “Sakara Mallik.” Some propose to read
+instead of “viditah sakarataya” (“known as Sakara”) a supposedly corrupted “viditah sat-kavitaya” (“known for good
+poetry”), but the reading “sakarataya” is given by many manuscripts and several printed editions; the commentary in
+Jivananda's “Kavya-sangraha” explains it as “by the nobility of his family.” This verse also refutes the inventions of
+scholars who trust only their own experience (adhyakshika): that Sakara Mallik was formerly attached to the world and only
+circumstances brought him to renunciation, or that Dabir Khas and Sakara Mallik, living among mlechchhas, adopted their
+ways and lost caste. These offensive opinions are fabricated from beginning to end. Sanatana here is a stranger to worldly
+rasa from birth, wholly surrendered, full of prema and, like Shukadeva, the crown of paramahamsas, first among the heroes
+of knowledge, bhakti and renunciation. Thus the “Hamsa-duta” testifies that Rupa and Sanatana are eternally perfect
+associates of Bhagavan, not worldly men who came to renunciation later. <!-- F374 F375 F376 F377 F378 F379 I3 -->
+
+More wonderful still: the truth that the rasa of meeting is not nourished without separation, and all the states of
+Radha's adhirudha-mahabhava that Shachinandana, having taken Her feeling and radiance, would display — all this
+Gaurahari awakened in Rupa's heart even before, in the outward lila, Rupa came to the shelter of His feet, and Rupa
+expressed it in this short poem. Already here the hidden secret of krishna-bhajana is revealed: the only desirable service
+of a sakhi is service to the meeting of Radha and Govinda; desire for one's own enjoyment is no sign of krishna-prema; the
+heart is given to the ashraya-vigraha, the abode of love, and above all to Radha, crown of such abodes; vraja-lila is
+higher and more wonderful than the lila of the cities (pura-lila); bhajana is performed in the mood of separation. No
+worldly poet, however skilled in the rasa-shastras, could express such conclusions about transcendental separation; there
+is nothing like it in Kalidasa and the other poets who sing of the world. This is one more sign that Rupa is an eternal
+associate of the Lord. <!-- F380 F381 F382 I4 -->
+
+Two commentaries on the “Hamsa-duta” are known: by Gopala Chakravarti and by Madhu Mishra, son of Ananda (or of
+Purushottama). The second is described in the catalogue of the Madras Government Oriental Manuscripts Library, and its
+colophon calls it Madhu Mishra's commentary on the “Hamsa-duta” composed by “Rupa and Sanatana.” <!-- F383 F384 Q90 -->
+
+### “Uddhava-sandesha”
+The second poem is a mirror of the first. In the “Hamsa-duta” Lalita, on behalf of Radha, crown of heroines, sends a swan
+from Vraja to Mathura; in the “Uddhava-sandesha” Krishna Himself, crown of heroes, sends Uddhava, Brihaspati's disciple,
+from Mathura to Vraja to console the gopis suffering in separation. It is also called “Uddhava-duta,” but
+“Uddhava-sandesha” — “the message Uddhava carries” — is more exact: it is Krishna's own message. The basis of the plot is
+this: angered by the arrogant words of Kamsa that Akrura had conveyed, Krishna left Vraja for Mathura, lived there for a
+time and sent Uddhava to console the gopis, Nanda, Yashoda and all the Vrajavasis and to tell them about Himself. The title
+and subject come from the “Bhagavatam” (10.46.2–3), where Krishna in private takes Uddhava by the hand and sends him to
+Vraja to gladden His parents and with His message to ease the gopis' pain of separation. <!-- F385 F386 F387 F388 Q91 -->
+
+The poem opens thus: from the roof of His pleasure palace Krishna gazes at Mathura, beautiful with blossoming trees — and
+suddenly, deeply stirred, remembers the forests of Gokula. Overwhelmed by prema at the thought of the love of the beauties
+of Vraja, He chooses Uddhava, first among His close friends, as messenger, explains that He went to Mathura out of anger at
+Kamsa's words, says that Radha is His dearest and that She, Lalita and the sakhis barely bear the burden of life, holding
+on only by His consolations, and bids Uddhava revive Radha, bitten by the serpent of separation, with the mantra of His
+message. The forest of Vraja is dearer to Him than anything; the memory of even the shadow of His trouble pains the gopis
+more than their own troubles the size of Mount Sumeru. Krishna describes the road and the places of His pastimes,
+recalls the past at each and sinks into prema; when Uddhava's chariot reaches the slopes of Nandishvara, He says, Radha's
+friends will think Krishna Himself has come. <!-- F389 F390 F391 Q92 -->
+
+Uddhava is given errands: to bless the trees of Vraja, to ask after the welfare of the cows, to bow to the old cows as to
+mothers, to embrace the cowherd friends as His representative, to bow to Nanda and Yashoda, and to introduce himself to the
+gopis as “Krishna's counsellor in matters of love”; to console Chandravali, Vishakha, Dhanya, Shyamala, Padma, Lalita,
+Bhadra, Shaibya and the others, and to give Radha, crown of the maidens of Vraja, wasted by separation, His vaijayanti
+garland to bring Her back to consciousness. The two concluding verses are benedictions: may the “Uddhava-sandesha” again
+and again pour streams of joy into the hearts of the devotees of the Lord who delights in His pastimes in Vraja, who
+dances in Mathura out of guileless love and whose lotus feet are Rupa's shelter; and may young, merciful Krishna, who
+played in childhood with Shridama and others, performed the rasa-lila with the young gopis and slew many demons in play,
+carry the readers across the ocean of worldly existence. <!-- F392 F393 Q93 Q94 -->
+
+When the poem was written it does not say; neither the opening nor the concluding verses contain Krishna's name or an
+obeisance to Him. But in one of the last verses Rupa names himself (“rupashraya-pada,” “the feet that are Rupa's shelter”)
+and with the word “svami” his master, Sanatana or Krishna. The name “Sri Rupa” could not have been there before the
+meeting with Sri Chaitanya, and so the poem is assigned to the time after the meeting.[^56] It has 131 verses in the
+mandakranta metre (seventeen syllables); it was printed in Devanagari in the “Kavya-sangraha” edited by Haeberlin and in
+Jivananda Vidyasagara's “Kavya-sangraha” (part 3, Calcutta, 1888). Rupa quotes verses of the “Uddhava-sandesha” as examples
+in the “Bhakti-rasamrita-sindhu” (Uttara 5.7) and many times in the “Ujjvala-nilamani.” <!-- F394 F395 F396 F397 F398 -->
+
+### “Krishna-janma-tithi-vidhi”
+Jiva calls this book “The Rule for Krishna's Birthday” (“Krishna-janma-tither vidhih”); its full title is
+“Krishna-janma-tithi-mahotsava-vidhi,” and it is also known as “Krishnabhisheka.” The compilers of one of the biographies
+obtained one manuscript in Vrindavana and saw another, old one with Banamali Lala Gosvami. In the opening verse Rupa bows to
+the two Lords of Vrindavana and says that he records the rule for Krishna's birthday according to the shastras and custom
+— “at the command of prabhu.” The plural of respect here points to Sanatana: the book was written at his special command.
+Rupa speaks of Sanatana in the plural of respect — “prabhupada,” “prabhu” — in other openings as well, and in the
+“Padyavali” (verse 233; in some manuscripts, instead of “shrimat-prabhunam,” it says outright “to the feet of Shrimat
+Sanatana Gosvami”). <!-- F399 F400 F401 F402 Q95 -->
+
+The rules of the Janmashtami vow are set out in detail in the “Hari-bhakti-vilasa” (15.133–240): the obligation of the
+vow, its origin and greatness, the harm of neglecting it, the determination of the day (with the Rohini nakshatra, the
+“midnight” Janmashtami, the prohibition of a day touched by Saptami), the breaking of the fast, the morning sankalpa, the
+birth chamber and the whole puja — from bathing to the arghya to the moon, the worship of Devaki and Krishna and the
+prayer. Why, then, did Sanatana bid Rupa write another book? Either Rupa compiled a brief rule before the detailed rules
+entered the “Hari-bhakti-vilasa,” or he wrote the book later to describe specially the mahabhisheka on Krishna's
+birthday. It is precisely this that distinguishes Rupa's book: on the eve, on Saptami, the platform for the bathing is
+cleansed, a pit is dug in the courtyard, banana posts are set at the corners, with an awning and flags; on the morning of
+Janmashtami the Deity is carried with kirtana and dance to the platform adorned with lamps and pots, with umbrella and
+chamara; then come the svasti-vachana, the bhuta-shuddhi, the installation of the pot, the sankalpa, the puja, the bathing
+and abhisheka in various ways with mantras, the offering of the sacred thread, betel and garlands, the maha-niranjana and a
+stotra to Krishna. The day is spent with Hari's intimates, glorifying Govinda with Vedic and Puranic hymns; at midnight
+comes the auspicious abhisheka for the birth and a vigil with song and dance; in the morning, the great festival of the
+king of Vraja, the Nandotsava, and the honouring of mahaprasada with the Vaishnavas. <!-- F403 F404 F405 F406 Q96 -->
+
+The other rules of the vow Rupa directs to be taken from the “Bhavishyottara-purana” — on which the “Hari-bhakti-vilasa,”
+too, bases the origin of the vow (Yudhishthira asks, and Krishna tells) — while he himself describes in detail, with the
+applied mantras, only the abhisheka, more fully than the “Hari-bhakti-vilasa”; hence the book's second title. The
+concluding verses say that this rule of bathing Krishna on His birthday is set out in the mood of Vraja according to the
+Tenth Canto of the “Bhagavatam”; whoever performs it will become dear to Govinda, be filled with deep prema and serve Him
+ever directly in Vrindavana. The colophon of the Vrindavana manuscript names Sri Rupa Gosvami as the author. <!-- F407 F408 F409 F410 Q97 -->
+
 <!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
      in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
@@ -1471,3 +1651,7 @@ gayatri is called a contribution to the Rupanuga-sampradaya. <!-- F349 -->
 [^54]: One biography says that Srinivasa, Narottama and Duhkhi Krishnadasa (Shyamananda), studying the Gosvamis' scriptures
     at Jiva's feet, “thus lived with Rupa Gosvami, who taught these dear disciples everything”; probably Rupa's teaching
     transmitted through Jiva is meant, or it is a slip.
+[^55]: In the Bengali paraphrase of this verse in one of the biographies the “Stavamala” stands in place of the
+    “Utkalika-vallari”; Jiva's verse itself reads “stavasyotkalikavalli.”
+[^56]: In one of the biographies this verse is called now “the verse before the penultimate,” now verse 130; in a poem of
+    131 verses that is indeed the penultimate verse, which contains the words “rupashraya-pada.”
