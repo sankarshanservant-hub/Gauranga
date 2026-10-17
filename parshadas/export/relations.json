@@ -2177,6 +2177,399 @@
   ]
  },
  {
+  "from": "@narahari-sarakara",
+  "type": "father",
+  "who": "@narayana-dasa-shrikhanda",
+  "facts": [
+   "F12",
+   "F13",
+   "F16"
+  ]
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "mother",
+  "who": "@goyi-shrikhanda",
+  "facts": [
+   "F12"
+  ],
+  "note": "Дочь Мурари Сена (только T)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "sibling",
+  "who": "@mukunda-dasa",
+  "facts": [
+   "F13",
+   "F15",
+   "F16",
+   "F26",
+   "F27",
+   "F30",
+   "F34",
+   "F36",
+   "F38"
+  ],
+  "note": "Старший брат, придворный лекарь; устроил его учёбу в Навадвипе (F16)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "sibling",
+  "who": "@madhava-dasa-shrikhanda",
+  "facts": [
+   "F13",
+   "F27"
+  ],
+  "note": "Средний брат."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "nephew",
+  "who": "@raghunandana",
+  "facts": [
+   "F14",
+   "F20",
+   "F26",
+   "F29",
+   "F30",
+   "F31",
+   "F34",
+   "F36",
+   "F38",
+   "F39",
+   "F44",
+   "F55",
+   "F57",
+   "F59",
+   "F62",
+   "F64",
+   "F68",
+   "F69"
+  ],
+  "note": "Сын Мукунды; по строфе у B 284 — ученик Нарахари (F39); дядя воспитывал его с любовью (T). Вместе танцевали в группе Кханды на Ратха-ятре (F31); учредил праздник разлуки по Нарахари (F69). ⚠ T 200 ошибочно зовёт его сыном Нарахари (F14)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "disciple",
+  "who": "@raghunandana",
+  "facts": [
+   "F39"
+  ]
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "relative",
+  "who": "@kanai-shrikhanda",
+  "facts": [
+   "F43",
+   "F45"
+  ],
+  "note": "Внучатый племянник; по повелению Нарахари явил служение Гауранге и Вишнуприе (B 131)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "disciple",
+  "who": "@madana-raya-shrikhanda",
+  "facts": [
+   "F45"
+  ],
+  "note": "Сын Канаи, правнук Мукунды."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F21",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F28",
+   "F31",
+   "F33",
+   "F34",
+   "F40",
+   "F41",
+   "F75",
+   "Q7",
+   "Q9",
+   "Q11"
+  ],
+  "note": "Личное служение — чамара (F21); каждый год на Ратха-ятре — танцор группы Кханды (F31); поручение — «всегда оставаться в обществе Моих преданных» (ЧЧ Мадхья 15.132, F34). По «Бхаджанамрите» Господь явился ему во сне с Сарвабхаумой (F75)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "siksha-guru",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F5",
+   "F7",
+   "F18",
+   "F19",
+   "F20",
+   "I1"
+  ],
+  "note": "Последователь Гададхары (Бхактисиддханта, по T 45); вошёл в его общество в Навадвипе (T 70); «Гададхара — мой род» (Нароттама). Тип связи — по смыслу «ануга»: дикша от Гададхары в книгах не названа. (= @gadadhara-pandita:F7, @gadadhara-pandita:F74)"
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F40"
+  ],
+  "note": "Вместе с Махапрабху пришёл к нему в Шрикханду (предание о мёде, = @nityananda:F319)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "companion",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F27"
+  ],
+  "note": "Под его началом ходил с жителями Шрикханды и Кулинаграмы в Пури (B 178; ЧЧ Мадхья 1.132)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "friend",
+  "who": "@chiranjiva-sena",
+  "facts": [
+   "F30",
+   "F36",
+   "F37"
+  ],
+  "note": "Тесная дружба (B 176, «ГГД 197» ⚠ по нашему переводу — ГГД 209)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "companion",
+  "who": "@sulochana-shrikhanda",
+  "facts": [
+   "F30",
+   "F36"
+  ]
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "disciple",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F3",
+   "F6",
+   "F9",
+   "F20",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F51",
+   "F70",
+   "Q2",
+   "Q13"
+  ],
+  "note": "Посвятил его, учил киртану; T — велел написать жизнеописание Господа (F48); велел ему ехать к тестю (F49). Лочан называет гуру самым дорогим спутником Господа (F20) и славит его в «Чайтанья-мангале» (Q2)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "disciple",
+  "who": "@damodara-sena-kavi",
+  "facts": [
+   "F52"
+  ],
+  "note": "Дамодара Кавирадж из Кумаранагара, дед Рамачандры Кавираджа по матери."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "protege",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F54",
+   "F55",
+   "F56",
+   "F57",
+   "F58",
+   "F59",
+   "F60",
+   "F61",
+   "F64",
+   "F68",
+   "F69",
+   "F71"
+  ],
+  "events": [
+   "ev-srinivasa-meets-narahari",
+   "ev-srinivasa-shrikhanda",
+   "ev-srinivasa-sets-out-nilachala",
+   "ev-srinivasa-raghunandana-shrikhanda"
+  ],
+  "note": "Благословлял его ребёнком; от него Шриниваса узнал, что Господь скоро сокроется (T, B) ≠ велел подождать попутчиков (M) (F55). Сам — брихад-врати (B 181 по скану), уговорил Шринивасу жениться (F59). Шриниваса совершил обряды и праздник разлуки по нему (F69). По «Према-виласе» (lila-db) Нарахари указал ему гуру — Гопалу Бхатту."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@lakshmipriya-chakhandi",
+  "facts": [
+   "F59"
+  ],
+  "note": "Мать Шринивасы: Нарахари передал Шринивасе её желание видеть его женатым."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F62",
+   "F63",
+   "F7",
+   "Q6"
+  ],
+  "event": "ev-narottama-shrikhanda-yajigrama-katwa",
+  "note": "Благословил его в Шрикханде, любя его отца Кришнананду (M); Нароттама поёт «Нарахари — в моём сердце»."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@krishnananda-datta",
+  "facts": [
+   "F62"
+  ],
+  "note": "Нарахари очень любил его (M)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F69"
+  ],
+  "event": "ev-katwa-khanda-memorial-festivals",
+  "note": "Всю ночь танцевал на празднике разлуки по Нарахари (B 175; T — Вирачандра)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "deity-served",
+  "who": "@gaura-deity-shrikhanda",
+  "facts": [
+   "F41",
+   "F42",
+   "F43",
+   "F44"
+  ],
+  "note": "T: по повелению Господа во сне установил три Божества Господа — в Шрикханде, Катве и Ганганагаре ≠ B: из шести Божеств Шрикханды им, по преданию, установлены Божества Махапрабху и Нитьянанды (F41). M: «Божества Нарахари — Гауранга и Мадана-Гопала» (F44)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F46"
+  ],
+  "note": "Начал слагать пады о Гауранге, следуя Нарахари (B 189)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@rayashekhara",
+  "facts": [
+   "F17",
+   "Q18"
+  ],
+  "note": "Ученик Рагхунанданы; ему «некоторые» приписывают строку о том, что Нарахари пел о Врадже до рождения Гауранги (B; по M — слова Лочана)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F80"
+  ],
+  "note": "Тёзка (Гханашьяма Дас, автор БР, XVIII в.): пады двух Нарахари смешались из-за одной подписи; B 962 по оговорке называет БР сочинением Саркара Тхакура."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F24",
+   "F82",
+   "F84",
+   "F85",
+   "F86",
+   "I4",
+   "Q12",
+   "Q13"
+  ],
+  "note": "ЧБ не называет ни Нарахари, ни Шрикханду; B отвергает мнение сахаджиев о неприязни (F85); по «некоторым» — намёк в ЧБ Мадхья 9.45 (F24) и в песне Нарахари «кто напишет, ещё не родился» (F82)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@chandidasa",
+  "facts": [
+   "F81"
+  ],
+  "note": "Часть пад Нарахари, говорят, ходит с подписью Чандидаса."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F21",
+   "F74",
+   "F76",
+   "F77",
+   "I3",
+   "I5",
+   "Q7",
+   "Q10"
+  ],
+  "note": "Упоминает его в «Гаура-арати»; издал «Бхаджанамриту» с комментарием «Асвада-вистарини» (1899–1900)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F19"
+  ],
+  "note": "Нарахари — последователь Гададхары (по T 45)."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2",
+   "F29",
+   "Q5",
+   "Q14"
+  ],
+  "note": "ГГД 177 — Мадхумати; «Чайтанья-чандродая» 9 — жители Кханды в Пури."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F36",
+   "F84"
+  ],
+  "note": "ЧЧ Ади 10.78 — жители Кханды — великая ветвь."
+ },
+ {
+  "from": "@narahari-sarakara",
+  "type": "other",
+  "who": "@karnapura-kaviraja",
+  "facts": [
+   "F56",
+   "Q19"
+  ],
+  "note": "Строфа о поклоне Шринивасы Нарахари в Кханде."
+ },
+ {
   "from": "@nityananda",
   "type": "father",
   "who": "@hadai-pandita",
