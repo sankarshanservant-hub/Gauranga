@@ -253,6 +253,12 @@ So the “Laghu-toshani” came into being, of which more will be said later. At
 “Bhakti-ratnakara”, Jiva clashed with Vallabha Bhatta — of this, and of how the acharyas view the story, see below, in the
 section on slanders. <!-- F68 Q14 -->
 
+All his life Jiva saw the source of his strength not in learning or in his own sadhana but in the command and mercy of Rupa
+and Sanatana: he repeats this refuge at the beginning and end of many of his books. Nor did he consider the teaching of his
+“Sandarbhas” his own: it goes back to the words of Sri Gaurasundara heard by Rupa in Prayaga and by Sanatana in Kashi, and
+reached Jiva through the notes of Gopala Bhatta; he himself only arranged them, and calls himself “an insignificant Jiva”.
+More on this in the section on his writings. <!-- I3 I4 -->
+
 ## Head of the Vaishnavas of Vraja
 When Rupa, Sanatana and the other Gosvamis had disappeared, Jiva took the place of universal acharya of the Gaudiya
 Vaishnava sampradaya — in Utkala, Gauda and Mathura-mandala. He proclaimed to all the conclusions of pure bhakti preached
