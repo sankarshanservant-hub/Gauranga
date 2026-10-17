@@ -88,7 +88,7 @@ B — вероятно, больше сотни).
 | @nityananda (002) | ✓ | ✓ (PDF) | — |
 | @vishnupriya (003) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gadadhara-pandita (004) | ✓ | ✓ (PDF) | — |
-| @srivasa (005) | ✓ | — | — |
+| @srivasa (005) | ✓ | ✓ (PDF) | — |
 | @gauridasa-pandita (006) | ✓ | ✓ (PDF) | — |
 | @jahnava (007) | ✓ | ✓ (PDF) | — |
 | @narahari-sarakara (008) | ✓ | ✓ (PDF) | — |
