@@ -1515,7 +1515,97 @@ Jiva placed at the beginning of the “Shat-sandarbha”. But whoever wishes to 
 and Raghunatha, or that prema of Gaurasundara which had never been given before (anarpita-chari), will reach the goal by
 studying the “Shat-sandarbha” with a devotee who loves Gaura. <!-- F354 F355 F356 -->
 
-<!-- SECOND SHIFT -->
+## Testimonies of contemporaries and followers
+How Jiva was honoured by his elder contemporaries can be seen from the words of Raghunatha Dasa Gosvami. In the conclusion
+of the “Mukta-charita” he writes that he wove this cluster of “pearl stories”, following Rupa's complete instruction, when
+his mind had been awakened by the nectar of Jiva's command, — and asks:
+
+“May the bee-eyes of Jiva, my only life, thirsting for the nectar of the pastimes, again and again inhale the fragrance of
+this necklace and adorn it”.
+
+The Bengali retelling explains: the nectar of the pastimes of Sri Sri Radha-Madhava. <!-- F357 Q28 -->
+
+And in the ninth verse of the “Sva-niyama-dashaka” Raghunatha Dasa expressed the wish to leave his body on the bank of the
+most beloved Radha-kunda in the presence of Jiva:
+
+“I shall die by the most beloved pond — in the presence of Jiva and others”. (“Sva-niyama-dashaka”, 9) <!-- F358 Q29 -->
+
+The last verse of Raghunatha Dasa's “Manah-shiksha” promises: whoever sings it, following Rupa together with the whole
+group (yutha) of Sanatana, Gopala Bhatta, Raghunatha Bhatta, Jiva and others, will obtain in Vrindavana the treasure of the
+bhajana of Radha-Krishna. Jiva himself in the “Laghu-toshani” glorifies Raghunatha Dasa as equal to Rupa and Sanatana (see
+above). <!-- F359 F360 -->
+
+Krishnadasa Kaviraja in the “Chaitanya-charitamrita” calls Jiva his shiksha-guru (see above), and in every canto (sarga) of
+the “Govinda-lilamrita” says that he obtained the power to write it only as the fruit of association with Jiva. According
+to Srila Bhaktisiddhanta, the shiksha-guru-parampara down to Vishvanatha is: Mahaprabhu — Svarupa Damodara — Rupa and
+Sanatana (with them Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta) — Jiva — Krishnadasa Kaviraja — and onward.
+Narottama more than once glorified Jiva together with the Gosvami-gurus in the “Prarthana” and in various padas; so too did
+Vishvanatha Chakravarti. <!-- F361 F362 F363 -->
+
+One manuscript of the “Samskara-dipika” — a part of Gopala Bhatta's “Sat-kriya-sara-dipika” — says that the book was
+compiled at the command of those who hold to the teaching of Sri Krishna Chaitanya: Rupa and Sanatana, Jiva and Raghunatha
+Dasa, Raghunatha Bhatta. In the list of the guru-parampara in the same manuscript there is a verse absent from the printed
+edition: Sanatana and Rupa, Bhatta Raghunatha, Bhatta Gopala, Jiva, Raghunatha; whether it belongs to the author or to a
+copyist is unclear. <!-- F364 F365 -->
+
+## After Jiva: Vishvanatha and Baladeva
+Jiva explained the “Bhagavatam” in the “Sandarbhas”, but not in a continuous commentary; a continuous one was written only
+by Vishvanatha Chakravarti, who relied especially on the “Sandarbhas”. Indeed, after Jiva's departure, until Vishvanatha
+and Baladeva came, it was hard to find in Vraja a Gaudiya able to withstand the onslaught of other sampradayas.
+<!-- F366 F367 -->
+
+Baladeva Vidyabhushana, a shiksha-disciple of Vishvanatha, begins his commentary on the “Tattva-sandarbha” with praise of
+Jiva:
+
+“Krishna, whose radiance was dimmed by the mire of sankhya, the dust of false logic and the pit of vivarta, Jiva made pure
+again with the nectar of his words; may this master Jiva be our refuge”.
+
+The Bengali retelling renders this: Jiva proclaimed His greatness anew. And in his sub-commentary on the
+“Govinda-bhashya” Baladeva writes: “May Jiva, who delivered all opposing thinkers — the sankhyas, the pashupatas,
+vivarta-vada and other sampradayas — be my refuge”. <!-- F368 F369 Q30 -->
+
+Baladeva wrote a commentary on the “Shat-sandarbha”; it was published in Calcutta by Shyamlal.[^49] And it was the
+“Shat-sandarbha” itself that brought him into the Gaudiya sampradaya: under the guidance of Radha-Damodara Gosvami, a
+scholar from Kanauj, he studied it in detail and, convinced of the superiority of Gaudiya Vaishnava philosophy, accepted
+initiation from him.[^50] Sanatana in the “Brihad-bhagavatamrita” and Jiva in the “Sandarbhas” zealously upheld Sri
+Chaitanya's idea that the “Bhagavatam” is the true commentary on the Vedanta; Baladeva proved the same in his debate with
+the Ramanujas in Jaipur, supporting his words with Jiva's arguments from the “Shat-sandarbha”. <!-- F370 F371 F372 -->
+
+According to one modern scholar, in the sampradaya Baladeva is called an avatara of Jiva, “a second Jiva”: both were
+philosophers and excellent grammarians, both strong in poetry too; Jiva created the firm philosophy of the sampradaya, and
+Baladeva was as zealous in preaching as Jiva. <!-- F373 -->
+
+## Jiva in Bhaktivinoda and Bhaktisiddhanta
+Bhaktivinoda Thakura saw in Jiva one who abides within the bounds of the instructions of Rupa and Sanatana, the “king of
+vessels” (patra-raja) among the Rupanugas in the assembly of the Vishva-vaishnava-raja-sabha (see above), the tattva-acharya
+of the Gaudiya sampradaya and the embodiment of the guru's lotus feet. In the “Sajjana-toshani” he printed two articles
+about him — “Sri Jiva Gosvami” (1st year, 1288 of the Bengali era) and “Sri Jiva Gosvami Prabhu” (2nd year, 1292), and
+later the article “Shat-sandarbha” (11th year, no. 10, 1306). He also had a life of Jiva written in his own hand in
+English; the author of one of the biographies saw this manuscript, but it remains unpublished. <!-- F374 F375 F376 F377 -->
+
+In Puri Bhaktivinoda studied the “Bhagavatam”, Jiva's six “Sandarbhas”, and also Baladeva's “Govinda-bhashya”,
+“Siddhanta-ratna” and “Prameya-ratnavali”. Mahaprabhu named hearing the “Bhagavatam” one of the five principal limbs of
+bhakti, and Jiva pointed out that it is the best of all a devotee's activities; for the sake of this truth Bhaktivinoda
+founded in Puri the assembly “Bhagavata-samsad”. Among the articles of Srila Bhaktisiddhanta Sarasvati there is one titled
+“Sri Jiva Gosvami”; how he published the “Hari-namamrita-vyakarana” has been told above. <!-- F378 F379 F380 -->
+
+## Departure, samadhi, places of remembrance
+Jiva left this world in Vrindavana on the day which our calendar marks as Gaura-tritiya of the month of Narayana (on the
+years and the disagreement of sources see the beginning of the article). His samadhi stands in the grounds of the
+Radha-Damodara temple in Vrindavana, where Rupa's samadhi also is. Jiva's bhajana-kutira is preserved also at Radha-kunda,
+near Lalita-kunda; of his bhajana-kutira in Vrindavana, to which Duhkhi Krishnadasa came, we have spoken above.
+<!-- F381 F382 -->
+
+## Vilasa-manjari
+The early lives of Mahaprabhu — Murari Gupta's “Kadacha”, Vrindavana Dasa's “Chaitanya-bhagavata” and Lochana Dasa's
+“Chaitanya-mangala” — do not mention Jiva's name. But Kavi Karnapura in the “Gaura-ganoddesha-dipika” calls him both an
+associate of Gaura (Gaura-parshada) and an associate of the vraja-lila. Enumerating the friends of Radha whom She set to
+service and who, taking male bodies, played together with Gaura, Karnapura names among them Vilasa-manjari, and among
+Gaura's associates — in the same order — “the virtuous scholar Sriman Jiva, son of Sri Vallabha” (“Gaura-ganoddesha-dipika”,
+194–207).[^51] <!-- F383 F384 Q27 -->
+
+So in Krishna's eternal pastimes Jiva is Sri Vilasa-manjari; and Bhaktivinoda Thakura, calling him “our tattva-acharya”,
+says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
     the Radha-ramana temple in Vrindavana, gives 1580 Samvat as the year of appearance and 1665 Samvat as that of “attaining
@@ -1698,3 +1788,13 @@ studying the “Shat-sandarbha” with a devotee who loves Gaura. <!-- F354 F355
 [^48]: One of the biographies refers here to the “Notices of Sanskrit Manuscripts”, vol. I, p. 207, and to Aufrecht,
     vol. IV, pp. 303–305; the sources seem to be confused: vol. I, p. 207 is Aufrecht's “Catalogus Catalogorum” (the same
     place where the “Mukta-charita” and the “Stavamala” are mentioned), while vol. IV, pp. 303–305 is Mitra's “Notices”.
+
+[^49]: According to another biography, Baladeva wrote a commentary on the “Tattva-sandarbha” (cf. the verse from its
+    beginning quoted above).
+
+[^50]: According to another biography, Baladeva met in Puri the pandita Sri Radha-Damodara, one of the chief disciples of
+    Rasikananda Deva, received from him the Radha-Krishna mantra and at his feet began to study the “Shat-sandarbha”.
+
+[^51]: The biographies cite these places as shlokas 195 (Vilasa-manjari) and 203 (Jiva); in the edition on which our
+    translation of the “Gaura-ganoddesha-dipika” is based, shlokas 194–207 are grouped together, and the correspondence of
+    the gopis' names to Gaura's associates is given in the order of enumeration.
