@@ -678,3 +678,7 @@
 | @radha-vallabha-maheshpur | Радха-валлабха — Божество в Махешпуре | Radha-vallabha, the Deity of Maheshpur | Божество Сундарананды Тхакура; по преданию увезено госвами Саидабада (B 272–273; T 96) |
 | @radha-ramana-maheshpur | Радха-рамана — Божество в Махешпуре | Radha-ramana, the Deity of Maheshpur | Божество Сундарананды Тхакура (B 272; T 96); не путать с @radha-ramana-deity во Вриндаване |
 | @balarama-mangaldihi | Баларама Джиу — Божество в Мангалдихи | Balarama Jiu, the Deity of Mangaldihi | Бирбхум; служат потомки родни Сундарананды (B 273) |
+| @murari-pandita-utkala | Мурари Пандит (отец Гопалы Гуру) | Murari Pandita (father of Gopala Guru) | ориссийский брахман (T 201); не путать с @murari-gupta |
+| @adikanda-dasa | Адиканда Дас | Adikanda Dasa | составитель рукописи «Гуру-пранали» линии Гопалы Гуру (B 278–279) |
+| @radhavallabha-dasa-vrindavana | Радхаваллабха Дас (из линии Гопалы Гуру) | Radhavallabha Dasa (of Gopala Guru's line) | старый вайшнав в кундже Дживы во Вриндаване, дал Манохаре Дасу рукопись Гопалы Гуру («Анурага-валли» 8.15–18); не путать с @radhavallabha-chaudhuri |
+| @baladeva-vidyabhushana | Баладева Видьябхушана | Baladeva Vidyabhushana | автор «Говинда-бхашьи» и «Прамея-ратнавали»; не путать с @baladeva-mahiti |

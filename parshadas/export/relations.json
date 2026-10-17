@@ -1340,6 +1340,323 @@
   "note": "Божества Гаура-Нитай явлены почти одновременно с Божеством Господа у Вишнуприи (= @vishnupriya:F91)."
  },
  {
+  "from": "@gopala-guru",
+  "type": "guru",
+  "who": "@vakreshvara",
+  "facts": [
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F43",
+   "F46",
+   "F54"
+  ],
+  "note": "Главный и любимый ученик (B); с детства жил при нём (M); паддхати по указанию Вакрешвары (B)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F5",
+   "F6",
+   "F7",
+   "F9",
+   "F11",
+   "F13",
+   "F28",
+   "F29"
+  ],
+  "note": "Мальчиком служил Господу; Господь звал его «Гопала» и дал имя «Гуру»; защитил от поклона Абхирамы (T); по T — Сам передал ему служение Радхаканте."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "deity-served",
+  "who": "@radhakanta-puri",
+  "facts": [
+   "F25",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F48"
+  ],
+  "note": "При нём установлено (B) / установил после ухода Вакрешвары (M) / получил от Господа служение Божеству, привезённому из Канчи Пурушоттамой Девой (T); при нём добавлены Радха, Лалита, Гауранга, Нитьянанда (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "father",
+  "who": "@murari-pandita-utkala",
+  "facts": [
+   "F3"
+  ]
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "servant",
+  "who": "@govinda-servant",
+  "facts": [
+   "F4"
+  ],
+  "note": "Ребёнком служил Господу под началом Говинды (T); в БР Гопала Гуру вспоминает, как Говинда растирал стопы Господа (F36)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "siksha-guru",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F24",
+   "F44"
+  ],
+  "note": "Наследник внешнего пути расопасаны Сварупы (через Вакрешвару); M — обучен расе под началом Сварупы и Рагхунатхи; B 581 — «ученик Сварупы» (вероятно, опечатка)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "siksha-guru",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F19",
+   "F20"
+  ],
+  "note": "Только M: наставлен в расе под его руководством; по B — Рагхунатха хранит внутренний путь, параллельная линия."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "disciple",
+  "who": "@dhyanachandra",
+  "facts": [
+   "F53",
+   "F54",
+   "F56",
+   "F57",
+   "F58",
+   "F61",
+   "F62"
+  ],
+  "note": "Преемник в Радхаканта-матхе; автор «Дхьяначандра-паддхати»; по преданию T — молитвой вернул гуру с костра и поставил его шри-мурти из нима."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "lineage-successor",
+  "who": "@adikanda-dasa",
+  "facts": [
+   "F51",
+   "F54"
+  ],
+  "note": "Составитель «Гуру-пранали» линии (B)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "lineage-successor",
+  "who": "@radhavallabha-dasa-vrindavana",
+  "events": [
+   "ev-gopala-guru-mahamantra"
+  ],
+  "note": "Из его семьи (линии); хранил его рукопись во Вриндаване — только lila-db («Анурага-валли» 8, уровень C)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "met",
+  "who": "@abhirama",
+  "facts": [
+   "F12",
+   "F13"
+  ],
+  "note": "Абхирама пришёл испытать его поклоном; Господь защитил мальчика (только T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F35",
+   "F36",
+   "F37",
+   "F38"
+  ],
+  "event": "ev-narottama-puri",
+  "note": "Встреча в доме Каши Мишры (БР 8.382–392); событие lila-db — по НВ 4, без Гопалы Гуру."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F25",
+   "F27",
+   "F28",
+   "F30"
+  ],
+  "event": "ev-kashi-mishra-residence",
+  "note": "В его доме жил Господь; бездетный, завещал всё Господу; дом при Гопале Гуру — Радхаканта-матх (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@purushottama-deva",
+  "facts": [
+   "F27"
+  ],
+  "note": "Привёз Радхаканту из Канчи (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F25",
+   "F27"
+  ],
+  "note": "Каши Мишра — его пурохит (B) / гуру (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F32"
+  ],
+  "note": "Одеяло Господа в Гамбхире сшито Сварупой или Джагаданандой (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@lalita",
+  "facts": [
+   "F30",
+   "F42"
+  ]
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@radha",
+  "facts": [
+   "F30",
+   "F42",
+   "F48"
+  ]
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F30"
+  ],
+  "note": "Божество Нитьянанды установлено в Радхаканта-матхе при нём (T)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F23",
+   "F24",
+   "F44",
+   "F65"
+  ],
+  "note": "Последователь Сварупы и Рупы (B)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F19"
+  ]
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F18",
+   "F22",
+   "F23",
+   "F31",
+   "F41",
+   "Q7"
+  ],
+  "note": "«Джайва-дхарма», гл. 26; получил его паддхати с его гади, переписывал рукописи."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F41"
+  ],
+  "note": "Переписывал рукописи паддхати (B 277)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F35",
+   "Q1"
+  ],
+  "note": "Автор БР; песня-сучака подписана «Нарахари» (T) — какой Нарахари, не уточнено."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@govinda-deva-kavi",
+  "facts": [
+   "F55"
+  ],
+  "note": "«Гаура-кришнодая» его не называет (B)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@manohara-dasa-author",
+  "events": [
+   "ev-gopala-guru-mahamantra"
+  ],
+  "facts": [
+   "F48",
+   "F49"
+  ],
+  "note": "Нашёл его рукопись (АВ 8); B 981 — Баладева опирался и на сочинения Манохара Даса."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F49"
+  ],
+  "note": "Перечень ачарьев Мадхвы у Баладевы — и по «садхана-паддхати» Гопалы Гуру (B 981)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F47"
+  ],
+  "note": "Стих мангалачараны «Сара-санграхи» есть и в его «Харинамартха-нирнае» (B 581)."
+ },
+ {
+  "from": "@gopala-guru",
+  "type": "other",
+  "who": "@prabodhananda-sarasvati",
+  "facts": [
+   "F52"
+  ],
+  "note": "ГГД 163: Тунгавидья — Прабодхананда (к варианту M)."
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",
