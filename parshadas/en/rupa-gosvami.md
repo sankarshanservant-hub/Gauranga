@@ -120,6 +120,159 @@ days, and among them were great devotees: Keshava Vasu Khan, the city magistrate
 and Purandara Khan, first ministers; the physician Mukunda Kaviraja; and Keshava Chhatri, the royal diplomat and
 adviser. <!-- F27 F33 F34 F35 -->
 
+## Ramakeli
+The shripata of Ramakeli lies on the Ganga in the district of Malda (West Bengal), south of the present town of
+Malda.[^10] Here in Ramakeli, which Sultan Barbak made the capital of Bengal in 1486, Rupa and Sanatana had their
+headquarters; many well-known devotees lived here as well, among them Sri Nrisimha, the son of Advaita Acharya. Under
+the British, Ramakeli was a district centre. The place is also called Gupta-Vrindavana, “hidden Vrindavana.” <!-- F36 -->
+
+Rupa and Sanatana built large houses both in Ramakeli and in Fatehabad. Great scholars and brahmanas came to them from
+Bengal and beyond; many brahmanas from Karnata settled near their house, which stood on the Ganga near a small town
+that one biography calls Bhatravari; brahmana panditas from Navadvipa also came to serve the brothers. <!-- F43 F44 -->
+
+The memorial places of Rupa and Sanatana are shown here to this day. First of all there is Tamatala: on a high platform
+grows a spreading tamala tree, and beside it four keli-kadambas, two on each side. According to tradition, it was under
+this tree, at midnight, that Rupa and Sanatana first met Mahaprabhu; it is said that the Lord sat here during the
+meeting and distributed love for Krishna, and a shrine with the prints of His feet now stands on the spot. There is also
+in Ramakeli the Deity of Madana-mohana, known to have been installed by Rupa and Sanatana; there is the Sanatana-kunda,
+and next to it are shown Radha-kunda, Shyama-kunda and eight kundas named after the sakhis headed by Lalita. Nearby is
+the Rupa-sagara, a large pond said to have been dug at Rupa's order; it survives to this day. Here too is the
+Baraduari, a huge stone audience hall (darbar) with twelve doors; in 1801, in the time of “Krent Sahib” (the reading of
+the name is uncertain), its domes were covered with gold leaf, and tradition says that here Dabir Khas held his office.
+And finally there is the ghat of Havaskhana: according to tradition, it was from here that Sanatana, having given the
+jailer seven thousand coins, left his confinement and crossed the Ganga by night.[^11] <!-- F37 F38 F39 F40 F41 F42 -->
+
+## The Meeting under the Tamala
+On the pretext of a journey from Nilachala to Vrindavana, Sri Chaitanya came to Gauda-mandala and spent five days in
+the house of Vachaspati in Vidyanagara (in Jahnu-dvipa, near Kola-dvipa); from there He went to Kuliya and then, by way
+of Malda, to Ramakeli.[^12] When the rumour spread that from Kuliya the Lord would go to Vrindavana, Nrisimhananda
+Brahmachari began in meditation to pave for Him a road of precious stones from Kuliya to Vrindavana and to spread over it
+an unbroken bed of flowers. But when the road reached Kanai-natashala near Gauda, his mind was disturbed and the
+meditation broke off. “This time,” said Nrisimhananda, “the Lord will go only as far as Kanai-natashala, not to
+Vrindavana.” And so it happened. <!-- F45 F46 F47 -->
+
+Countless crowds followed the Lord, and so He came to Ramakeli on the Ganga, near Gauda. Even the badshah Hussain Shah
+was amazed at His influence and grew alarmed, suspecting Him of a political aim. At first the king was reassured by the
+devotee Keshava Chhatri, his adviser: this was only a mendicant sannyasi on pilgrimage with few people about Him, and
+there was nothing to fear; but the king did not believe him, for thousands were following the Lord. At the same time
+Keshava secretly sent the Lord advice to leave, since the king could not be trusted.[^13] <!-- F48 F49 -->
+
+Then the Sultan called Dabir Khas in private and asked him about the Lord. Krishnadasa Kaviraja Gosvami records Rupa's
+answer:
+
+“‘The person you have taken for a great prophet is the Supreme Lord Himself. How great is your fortune, that the Lord
+who granted you your power has Himself descended here, in your country. He always wishes you only good and grants
+success to your words. His blessings will make you successful in every undertaking. Why do you ask me? Ask your own
+heart! You are a king, a representative of God. Your heart already knows about Sri Chaitanya. The voice of your heart
+will itself confirm the truth of this knowledge.’ The king replied, ‘Listen, my heart tells me that Sri Chaitanya is
+the Supreme Lord Himself. Of this there is no doubt!’” (CC, Madhya 1.176–180)
+
+So diplomatically did Rupa glorify the Lord that the Shah was reassured. <!-- F50 Q8 Q9 -->
+
+Returning home, Dabir Khas took counsel with his elder brother. Both wished to see the Lord for themselves; concealing
+their royal dress, they slipped out of the palace and late at night came first to Nityananda and Haridasa Thakura, who
+told the Lord of their arrival.[^14] The brothers took straws between their teeth and tied cloth about their necks as a
+sign of humility, fell at the Lord's feet like rods and with tears began to entreat Him. The Lord bade them rise and
+blessed them, and they, with folded palms, glorified Sri Krishna Chaitanya, the merciful Saviour of the fallen, and said
+of themselves: by birth, occupation and association we are among the lowest of men; You have come to deliver the
+fallen — know then that there is no one in the world more sinful than we. You delivered Jagai and Madhai, but they were
+brahmanas from holy Navadvipa, they did not serve low people, and they were saved by the Name, uttered even in abuse;
+
+“whereas we are millions of times more sinful and lower than Jagai and Madhai. Our association with meat-eaters has
+made us like them, mlechchhas, and our deeds no longer differ from theirs. Our connection with them has become so
+strong that we ourselves have become enemies of the cows and of the whole brahminical culture. Our deeds have bound us
+hand and foot so tightly that we have been cast into the foul abyss of sense enjoyment. No one in the whole universe
+can save us but You, for You are the Saviour of the most fallen.” (CC, Madhya 1.196–199)
+
+If You save us, they said, the whole universe will learn the greatness of Your mercy. <!-- F52 Q11 -->
+
+These words are an expression of great Vaishnava humility (dainya), not an admission of any real fall. Rupa and
+Sanatana are the Lord's eternal associates, who stand above varnashrama, and to take their self-abasement literally,
+regarding them as men of low birth, is an offence. <!-- I2 -->
+
+The Lord answered:
+
+“‘Listen, Dabir Khas. You and your brother are both My servants from long ago. From now on your names are Rupa and
+Sanatana. Give up your humility now, for it breaks My heart. You sent Me several humble letters. From these letters I
+gained an understanding of your life. From your letters I understood your hearts. And to instruct you, I constantly
+quoted one verse: “A married woman attracted to another man only appears to be diligent in her household duties, while
+in her heart she anticipates the sweetness of a new meeting with her beloved.” I came to Bengal only to see the two of
+you. I had no other purpose. No one understands why I came to this village, Ramakeli. No one knows My intentions. It
+is very good that you both have come to Me. Now go home and do not worry about anything. You are both My servants birth
+after birth. Very soon Sri Krishna will certainly set you free.’” (CC, Madhya 1.207–215) <!-- F53 F54 Q10 Q12 -->
+
+The verse about the woman who, while doing her household duties, thinks in her heart of her beloved was the Lord's
+instruction to the brothers in reply to their letters: while serving at court, think of Krishna with all your heart.
+Then He lovingly placed His hands on their heads, and they placed His feet on their heads and, having received the
+mercy of His feet, began to look for a way to leave their service. Wishing to show that a conditioned soul is delivered
+by the mercy of devotees, the Lord told His associates to bless the brothers. Nityananda, Haridasa, Srivasa, Gadadhara
+Pandita, Mukunda, Jagadananda, Murari, Vakreshvara and others were there; at the Lord's bidding Rupa and Sanatana touched
+their feet, and the devotees, joyfully calling “Hari! Hari!”, congratulated them on their great good fortune.
+<!-- F55 F56 -->
+
+At that time the youngest brother, Vallabha, also received the Lord's mercy: Mahaprabhu met him for the first time when
+He came to Ramakeli and gave him the name “Anupama.” According to one biography, this meeting took place in 1513.
+Haridasa Thakura, who accompanied the Lord on this interrupted journey to Vrindavana, also met Rupa and Sanatana here for
+the first time, and from then on they knew one another's virtues well. And little Jiva, who was then living with his
+uncles in Ramakeli, secretly saw Mahaprabhu's feet, as the “Bhakti-ratnakara” relates. <!-- F57 F59 F60 F61 -->
+
+Srila Bhaktisiddhanta Sarasvati explains in his “Anubhashya” (on CC, Madhya 1.208): Mahaprabhu showed His mercy to Dabir
+Khas and Sakara Mallik by giving them the spiritual names Rupa and Sanatana. The giving of a name (nama-karana) is a
+samskara of the lowest stage, yet whoever disregards the mercy shown in a spiritual name will not attain krishna-bhakti
+and remains intoxicated with worldly position; the prakrita-sahajiyas, who wear neither the marks of a Vaishnava nor a
+name received from the guru, are not Gaudiya Vaishnavas. <!-- F58 -->
+
+Before leaving, the brothers gave the Lord their advice:
+
+“‘O Lord! Although the ruler of Bengal is respectful towards You, You should leave this place as soon as possible. He is
+a Muslim and should not be trusted. Nor is it right that such a crowd follows You. You are going to Vrindavana, and
+thousands of people are following You. That is not fitting for a pilgrim.’” (CC, Madhya 1.222–224)
+
+Vrindavana is a place of simplicity, not of pomp; the Lord's work here was done, and it was better for Him to leave
+before misfortune came. Having blessed the brothers, the Lord left Ramakeli. In the morning He came to Kanai-natashala,
+where He saw many pictures of Krishna's pastimes, and at night He pondered Sanatana's advice and decided: with such a
+crowd I shall spoil the simplicity of Vrindavana — I shall go there alone or with one companion. And having gone only
+as far as Kanai-natashala, He turned back to Puri.[^15] <!-- F62 -->
+
+The “Chaitanya-bhagavata” tells of the brothers' meeting with the Lord differently — as an event in Nilachala, where Rupa
+and Sanatana came after giving up their worldly affairs. The Lord told Sakara Mallik and Dabir Khas to beg for
+prema-bhakti at the feet of Advaita Acharya, and Advaita blessed them; then He told them to go to Mathura and give the
+sweetness of bhakti to the people of the West, and said:
+
+“I shall come to Mathura later. Prepare a secluded place for Me.” Then the Lord changed the name of Sakara Mallik to
+Sanatana. (CB, Antya 9.272–273)
+
+Vrindavana Dasa calls this change of name the “third samskara”: Sakara Mallik became “Sanatana the avadhuta.”[^16]
+<!-- F63 Q15 -->
+
+Already from the meeting in Ramakeli it is clear that Mahaprabhu intended to teach the world through Rupa and Sanatana.
+<!-- I5 -->
+
+## Leaving Royal Service
+Soon a strong spirit of renunciation awoke in the brothers. To be freed from service the sooner and join the Lord, they
+paid two brahmanas handsomely to perform a purashcharana of the Krishna mantra on their behalf.[^17] Rupa left his post
+and carried a great deal of wealth from Ramakeli by boat to his house in Fatehabad. There he divided it: half he gave to
+brahmanas and Vaishnavas, a quarter for the maintenance of his relatives, and the remaining quarter he entrusted to
+reliable brahmanas against future misfortune. For Sanatana he left ten thousand coins in Gauda.[^18] <!-- F64 F65 F66 -->
+
+Meanwhile Sanatana, pleading illness, stopped attending court and studied the “Bhagavatam” with a group of Sanskrit
+scholars. The Shah first sent him a physician, then, learning the truth, came himself, and when Sanatana flatly refused
+to return to his duties, had him imprisoned and set off on a campaign against Orissa. <!-- F67 -->
+
+Hearing that the Lord had returned from Gauda to Nilachala and would soon go to Vrindavana, Rupa sent two messengers to
+Puri to find out when Mahaprabhu would set out by the forest road through Jharikhanda; the messengers returned to Gauda
+with news of His journey. Rupa wrote to Sanatana that the Lord had gone to Vrindavana and that he himself was following
+Him with his younger brother Anupama, and begged his brother to free himself quickly by any means and come to the Lord's
+feet.[^19] Bhaktivinoda Thakura (“Amrita-pravaha-bhashya,” 2.20.3) reports that the letter consisted of a single Sanskrit
+verse:
+
+“Where is Mathura, the city of the lord of the Yadavas? Where is Uttara-Koshala of the lord of the Raghus? Remembering
+this, steady your mind: this world is not eternal.”
+
+Sanatana understood the hidden meaning — the Lord had gone to Mathura — and rejoiced. He bribed the jailer with seven
+thousand coins from the money Rupa had left, escaped from confinement and set out after his brothers.[^20]
+<!-- F68 F69 F70 Q16 F71 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -150,3 +303,33 @@ adviser. <!-- F27 F33 F34 F35 -->
 [^9]: Accounts of the posts differ. Rupa is also called a prominent minister — “perhaps the minister of finance,” as the
     “Gaudiya-vaishnava-abhidhana” puts it — or a revenue officer and treasurer; Sanatana is called the chief, first
     minister or the Sultan's personal secretary.
+[^10]: Different distances are given: about four kroshas south of Malda; about eight miles south of English Bazar and
+    five or six miles from Malda station; about five miles from the station, near the border.
+[^11]: According to one biography — affirmatively, without “according to tradition” and without “at midnight”:
+    Mahaprabhu first met Rupa and Sanatana in Ramakeli under kadamba and tamala trees; the same account mentions the
+    shrine and footprints. According to that description, the temple of Madana-mohana, whom Sanatana personally served,
+    also houses Nitai-Gauranga and Advaita, and the ponds are named thus: Radha-kunda, Shyama-kunda, Surabhi-kunda,
+    Lalita-kunda, Vishakha-kunda and Sanatana-sagara.
+[^12]: According to another account (retelling CC, Madhya 1), after spending five years in Puri the Lord went to Bengal
+    to see the Ganga and His mother, stayed several days with Advaita in Shantipura and from there went to Ramakeli.
+[^13]: He is also called Keshava Khatri and Keshava Kshatriya. According to one biography, he assured the king that the
+    Lord had only three or four companions.
+[^14]: According to one biography, the brothers came in the evening to a tree on the bank of the Ganga where the Lord was
+    resting with only His close associates.
+[^15]: According to one biography the advice was given by Sanatana, according to another by both brothers together; in
+    the CC both speak (Madhya 1.221–224), and the Lord then ponders “Sanatana's words” (Madhya 1.228). The pictures at
+    Kanai-natashala are mentioned by only one biography; one of them also refers here to the “Bhakti-ratnakara” (1.635).
+[^16]: According to the “Chaitanya-charitamrita,” the Lord gave the brothers their names in Ramakeli (Madhya 1.208);
+    Vrindavana Dasa tells the story in his own way, and it is his account that is given here.
+[^17]: Purashcharana, according to the “Hari-bhakti-vilasa” (17.11), is a rite of Deity worship, repetition of the
+    mantra, libations, fire sacrifice and feeding of brahmanas in the morning, at midday and in the evening for a
+    prescribed period. For the maha-mantra it is unnecessary: even a single utterance of the holy name brings all the
+    fruits of purashcharana.
+[^18]: According to one biography, the wealth was taken on two boats to Bakla-Chandradvipa, half was given to Vaishnavas
+    (or to Vaishnavas and brahmanas), and the ten thousand (gold) coins for Sanatana were deposited with a grocer in the
+    capital, Gauda.
+[^19]: According to one biography, the letter reached Sanatana in Ramakeli; according to another, Rupa, on receiving the
+    news, at once left Bakla.
+[^20]: According to one biography, the seven thousand rupees were brought to Sanatana by the grocer from the money Rupa
+    had left (ten thousand had been left in all); according to another, following the CC, Sanatana bought his release
+    with money “sent by Rupa.” Compare the tradition of the Havaskhana ghat.
