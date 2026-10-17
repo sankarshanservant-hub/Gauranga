@@ -3,7 +3,7 @@
 Статьи `parshadas/ru/raghunandana.md`, `parshadas/en/raghunandana.md` написаны только по реестру
 `parshadas/facts/raghunandana.md` (F1–F77, Q1–Q17, I1–I5) и карточке `parshadas/cards/raghunandana.yaml`; книги T/M/B и
 их переводы не открывались. `python3 parshadas/check.py raghunandana` → OK.
-Объём: RU ≈ 23 тыс. знаков, EN ≈ 22 тыс.; 13 разделов; 14 сносок (одинаковые в RU и EN). PDF —
+Объём: RU ≈ 21 тыс. знаков, EN ≈ 24 тыс.; 12 разделов; 14 сносок (одинаковые в RU и EN). PDF —
 `parshadas/Raghunandana-Thakura-ru.pdf`, 9 с.
 
 ## Цитаты (все — наши переводы)
