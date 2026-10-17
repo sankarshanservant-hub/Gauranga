@@ -1483,6 +1483,174 @@ Mahaprabhu he accepted yukta-vairagya — renunciation eternally joined to the r
 the ideal of such superhuman renunciation, the summit of transcendental vipralambha-bhava, the mood of separation. To
 praise his renunciation in a worldly way is not to understand him. <!-- F425 I33 -->
 
+## Friends and Heirs
+Of Rupa, Sanatana's younger brother and disciple, this whole article has spoken; here we speak of those who lived beside
+the brothers in Vraja and inherited their service. Much of this is told in more detail in the article on Rupa Gosvami.
+
+Gopala Bhatta, by his parents' instruction, came straight to Vrindavana (“Bhakti-ratnakara,” 1.163–165) and met Rupa and
+Sanatana there. They already knew of his coming and received him as a brother; he became very close to them. The brothers
+wrote to the Lord about him, and He replied, “Care for him as for a younger brother,” — and to Gopala Bhatta He sent a
+kaupina and upper garments. When Gopala Bhatta's shalagrama manifested Himself as a Deity, Gopala Bhatta called Rupa,
+Sanatana and the other Gosvamis and on the Vaishakha-purnima of 1599 Samvat (1542 AD) held a great festival of
+abhisheka; the Gosvamis named the Deity “Sri Radha-ramana.” Hearing of His appearance, Rupa and Sanatana hastened with the
+devotees to have His darshana.[^61] <!-- F375 F376 -->
+
+Old verses say of Gopala Bhatta:
+
+“I bow to Gopala Bhatta, whose heart is flooded with love for Sanatana, who is distinguished in all things by his
+friendship with Sri Rupa, whose only life is Radha-ramana, who grants their desires to those who worship.”
+(“Bhakti-ratnakara,” 1.208)
+
+And the “Vaishnava-vandana,” ascribed to Jiva, says:
+
+“Sanatana, seeking nothing for himself, composed the ‘Hari-bhakti-vilasa’ and other works — what devotees ought to do —
+under the name of Gopala Bhatta. And the wise Gopala Bhatta, living near Sanatana, devoted to the qualities of Hari,
+happily spent his days and nights here; constantly hearing what he told of the Lord's form and qualities, he truly
+counted himself blessed in every way.” (“Vaishnava-vandana,” 67–69)
+
+According to the description of the manuscript, Gopala Bhatta wrote his “Sat-kriya-sara-dipika” at the wish of Rupa,
+Sanatana and the other Gosvamis, and Jiva at the beginning of the “Tattva-sandarbha” calls him, a brahmana from the south,
+a close friend of Rupa and Sanatana: he had written a book but had not put it in order. <!-- F377 F378 F379 Q57 -->
+
+For Jiva, Sanatana was more than an uncle and shiksha-guru. Srila Bhaktisiddhanta Sarasvati writes (“Gaudiya,” year 1,
+no. 4) that Sanatana is the parama-guru of Jiva, a follower of Rupa, while the worshipful Lord of Jiva is Sri
+Chaitanya-chandra. Sanatana entrusted his nephew with correcting his chief work:
+
+“Sri Rupa composed the ‘Sri Hamsa-duta’ and other books, Sanatana wrote the ‘Bhagavatamrita’ and others. Having composed
+the ‘Sri Vaishnava-toshani,’ Sanatana ordered Sri Jiva to edit it.” (“Bhakti-ratnakara,” 1.791–792)
+
+After the departure of Rupa and Sanatana, Jiva became the chief teacher of siddhanta and the head of the sampradaya.
+<!-- F380 F381 F382 -->
+
+When Rupa, displeased at Jiva's debate with Vallabha Bhatta, sent him away, Sanatana, happening to come to Nanda-ghat,
+found Jiva weakened by austerities, brought him to Rupa and persuaded his brother to forgive him. And when a certain
+digvijayi demanded from Rupa and Sanatana a written admission of defeat, Jiva's gurus yielded to him without argument;
+the sahajiyas say that Rupa, because Jiva then debated with that proud man, sent Jiva away for a time and relented only
+at Sanatana's intercession. Both stories are examined in detail in the article on Rupa Gosvami. <!-- F383 F384 -->
+
+Jiva himself prays in the opening verses of the “Madhava-mahotsava”:
+
+“He who, known to all by the name ‘Sanatana,’ found his temple-abode in the groves of Vrindavana — may he place his feet
+upon my head.” (“Madhava-mahotsava,” 3)
+
+One of the biographies understands these words thus: to the very end Sanatana lived in Vrindavana and went nowhere
+else.[^62] And in the “Bhakti-sandarbha” Jiva discloses, with arguments and proofs, those conclusions about bhakti which
+Rupa and Sanatana, “churning” the ocean of the “Bhagavatam,” set out in the “Bhakti-rasamrita-sindhu” and the
+“Brihad-bhagavatamrita.” <!-- F385 F386 Q56 -->
+
+Soon after Lokanatha settled in Vrindavana, Rupa, Sanatana, Gopala Bhatta and others came to live there; they were all of
+one heart.[^63] Sanatana remembers Lokanatha in the opening verses of the “Hari-bhakti-vilasa” and in the
+“Vaishnava-toshani” commentary on the Tenth Canto (“vrindavana-priyan vande sri-govinda-padashritan…” — “I honour those
+who love Vrindavana and have taken shelter at the feet of Sri Govinda…”). And when Mahaprabhu and His intimates headed
+by Rupa and Sanatana withdrew from the world, Lokanatha could not bear the separation.[^64] <!-- F387 F388 F389 -->
+
+Shrinivasa Acharya heard of Sanatana from childhood: his father, Chaitanya Dasa, told the little Shrinivasa of the lives
+of Sanatana and Rupa and of their wondrous love for Gaura-Krishna. Mahaprabhu foretold of Shrinivasa: “Through Rupa,
+Sanatana and others I shall reveal the shastras, and through Shrinivasa I shall distribute them” (“Bhakti-ratnakara,”
+2.120–123). But when Shrinivasa came to Vraja, Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already withdrawn.
+<!-- F390 F391 F392 -->
+
+Narottama, wearied on his way to Vraja, dreamt of Rupa and Sanatana: they laid their hands on his chest and fed him milk
+from the Lord. In Mathura he remembered the six Gosvamis headed by Rupa and Sanatana and wept; “Where is Svarupa, where
+Rupa, where Sanatana?..” he laments in one of his songs. And in the song “jaya sanatana rupa…” he glorifies Rupa and
+Sanatana as bottomless wells of prema-bhakti-rasa, embodiments of madhura-rasa (ashraya-vigraha), and prays to them to
+pierce his heart with the arrows of love for Radha and Krishna. <!-- F393 F394 F395 -->
+
+Lochana Dasa in the “Chaitanya-mangala” relates that after visiting Mathura the Lord met Rupa and Sanatana and then
+wandered through Vraja with Balabhadra.[^65] The shiksha-guru-parampara, according to Srila Bhaktisiddhanta, is this:
+Mahaprabhu — Svarupa Damodara — Rupa and Sanatana (with Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta) — Jiva —
+Krishnadasa Kaviraja — and onwards. <!-- F397 F398 -->
+
+Rupa and Sanatana first met Haridasa Thakura in Ramakeli, and they knew one another's virtues. Among later acharyas,
+Vishvanatha Chakravarti accepted without objection Sanatana's interpretation in the “Vaishnava-toshani” of the verse of
+the rasa-panchadhyayi “gopinam tat-patinam cha…” (“Bhagavatam,” 10.33.35), and in his continuous commentary on the
+“Bhagavatam” he followed Sanatana's “Vaishnava-toshani” on the Tenth Canto. Sanatana in the “Brihad-bhagavatamrita,” like
+Jiva in the “Sandarbhas,” diligently upheld Sri Chaitanya's view that the “Bhagavatam” is the true commentary on the
+Vedanta. According to the “Gaudiya-vaishnava-abhidhana,” a follower of Sanatana was Uddhava Dasa of Nandagrama, who lived
+in a hut on the bank of Pavana-sarovara. <!-- F399 F400 F401 F402 F403 -->
+
+Srila Bhaktisiddhanta Sarasvati taught that fools who regard as an obstacle to bhajana the writing of books, as with
+Rupa, Sanatana, Jiva and Raghunatha Dasa, or having many disciples, as with Madhva, Ramanuja and Narottama, become
+offenders against pure preaching devotees. He himself, to establish the Vaishnava smriti, published Sanatana's
+“Hari-bhakti-vilasa” (together with Gopala Bhatta's “Sat-kriya-sara-dipika” and “Samskara-dipika”) and revived the
+Vishva-vaishnava-raja-sabha founded by Rupa and Sanatana (see above). And Srila B. R. Sridhara Maharaja in the
+“Prabhupada-padma-stavaka,” his hymn to Srila Bhaktisiddhanta, glorifies the service of Radha's feet, “approved by
+Gauranga, understood by Svarupa, honoured by Sanatana…” <!-- F404 F405 F406 -->
+
+## Legends and False Teachings
+Later on, people with ulterior desires (anyabhilashi) spread many legends about Sanatana and Rupa, and these must be
+received with great caution. One of them is Sanatana's former name “Amara” (see above). Others say that Sanatana whispered
+a mantra into the ear of his contemporary, the celebrated Oriya poet Achyuta Dasa. A pada of Achyuta Dasa himself sings
+that the Son of Shachi told Sanatana to go quickly and instruct Achyutananda; Sanatana gladly took him along, sat under a
+banyan tree, whispered into his ear the “shyama-panchakshara” mantra, initiated him into the maha-mantra, applied
+shyamanjana and Ganges clay to him and tied something round his neck. This Achyuta Dasa is spoken of in a book called
+“Nirakara Sarasvata,” and its very title betrays a book of the impersonalists (nirvishesha-vadi). <!-- F407 F408 F409 F410 Q67 -->
+
+Under cover of Sanatana's name many nirvishesha teachings were spread later, and the aul, baul, darvesh and other sects
+also appeal to Sanatana. Some of them arose by relying on the dervish dress that Sanatana put on to conceal himself and on
+the words he spoke to deceive the non-Hindu jailer: “I shall become a dervish, an ascetic, and go to Mecca” (CC, Madhya
+20.13; see above). <!-- F411 F412 Q16 -->
+
+## Caste and Titles
+Certain modern people who fancy themselves scholars and are proud of worldly caste, not understanding Sanatana's humble
+words, consider him “fallen from caste” or “a man of low caste” — and so fall into the mire of offence. The meaning of
+those words is disclosed by the “Bhakti-ratnakara”: immersed in an ocean of humility, Sanatana considered himself lower
+than the mlecchas, called himself “lower than the low” because he constantly dealt with people of low caste, and, though
+a king among brahmanas, with great sorrow in his heart never considered himself a brahmana (see above). For the scriptures
+say:
+
+“A twice-born man devoid of devotion to Hari is lower than a dog-eater (shva-pachi).” <!-- F413 F418 Q60 -->
+
+The evidence of the brothers' brahmana lineage, however, is clear. Sanatana himself, in his commentary on the third verse
+of the “Brihad-bhagavatamrita,” calls Rupa his dear servant born in a brahmana family, and in the “Sanatanashtaka,”
+ascribed to Rupa, Sanatana is praised as “the ornament of the line of brahmana-kings of the glorious south.” Even before
+manifesting the pastime of taking shelter at Mahaprabhu's feet, Sanatana received in his house in Ramakeli twenty or
+thirty pandita-bhattacharyas and studied the “Bhagavatam” with them:
+
+“He invited two or three dozen brahmanas learned in the Vedas, and together with them immersed himself in the study of
+the ‘Srimad-Bhagavatam.’” (CC, Madhya 19.17) <!-- F414 F415 F416 Q58 Q59 Q62 -->
+
+A certain “pandita,” proud of worldly caste, wrote that Rupa and Sanatana associated with Haridasa, who was born in a
+non-Hindu family. The “Chaitanya-charitamrita” shows the emptiness of this argument: Sanatana did not keep company with
+non-Hindu pirs, but gathered brahmana panditas at his home (see the verse above). And Advaita Acharya — the crown of
+acharyas, from a noble brahmana family in brahmanical Shantipur — by Mahaprabhu's command ate in one row with Haridasa
+Thakura and Mukunda:
+
+“Then the Acharya wished to massage Sri Chaitanya's feet, but the Lord indignantly stopped Him, saying: ‘In many ways You
+have made Me dance, but now, I pray, stop this dance. Go rather and eat together with Mukunda and Haridasa.’ The Acharya
+then partook of prasada together with Mukunda and Haridasa, thus fulfilling the desire of His heart.” (CC, Madhya
+3.105–107)
+
+More than that, honouring Haridasa as the guru of the best of brahmanas, Advaita fed him the dish offered to the
+ancestors on the day of His father's shraddha:
+
+“Advaita Acharya answered him thus: ‘Do not fear, dear Haridasa. I shall certainly act in full accord with the
+injunctions of the holy scriptures. You are so great that to feed you is equal to feeding ten million venerable
+brahmanas.’ Saying this, Advaita Acharya offered him to partake of the offering that He had made to His ancestors.”
+(CC, Antya 3.219–220) <!-- F417 F423 Q63 Q64 -->
+
+The brothers' court titles — “Dabir Khas” for Rupa and “Sakara Mallik” for Sanatana — were merely ranks conferred by
+Hussain Shah, not a sign that their ancestors had accepted Islam: otherwise Jiva would not have called their father “the
+best of the twice-born, the venerable Kumara” (dvija-varah shriman kumara); and in the names of Kumara-deva and of his
+father, “the accomplished Mukunda,” there is nothing un-Hindu. “Dabir,” according to the “Raja-vyavahara-kosha,” is one
+versed in nyaya and argument (“yuktabhijno dabirah syat” — “one who knows arguments is called a dabir”), and “khas”
+means “one's own”: Rupa was the sultan's private counsellor. The title “mallik,” like “chaudhuri” and similar ones, was
+received since the time of Muslim rule by many brahmanas and Hindus, and it is quite impossible to infer from it that
+they or their ancestors changed their faith; “mallik” is a corruption of the local word “mahallik,” “elder in knowledge”
+(jnana-vriddha).[^66] “Shukur,” according to the same dictionary, means “skilled in everything” (“kushalah shukurah”), and
+in the opinion of some “Sakara” is a corruption of this word; in any case the title “Sakara Mallik” speaks of skill and
+maturity of knowledge. <!-- F419 F420 F421 Q61 -->
+
+Sanatana was a Brihaspati in intellect — so Krishnadasa Kaviraja too says:
+
+“Sanatana Gosvami held the post of chief minister, and in sharpness of mind he was not inferior to Brihaspati (the guru
+of the gods).” (CC, Madhya 20.348) <!-- F422 -->
+
+But the main thing lies elsewhere. Rupa, Sanatana and the other Gosvamis are in the bodies of associates of Bhagavan
+(bhagavat-parshada-tanu). Whoever considers them living beings of some high or low caste, varna or ashrama has not heard a
+single true conclusion of Vaishnava dharma. Rupa and Sanatana are the crown of paramahamsas beyond varnashrama, gurus even
+for the jagad-gurus. <!-- F424 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: One of the biographies, citing the “Gaudiya-vaishnava-abhidhana,” puts it more cautiously: “about 1410 Shaka
@@ -1698,3 +1866,21 @@ praise his renunciation in a worldly way is not to understand him. <!-- F425 I33
 [^60]: One of the biographies speaks only of Sanatana reproaching himself, another only of the prohibition; the second adds
     ghee to the gifts and in one place names the scene as Teri-kadamba, where Rupa performed bhajana (near Nandagrama), in
     another as Pavana-sarovara.
+
+[^61]: The year of the festival is given here in the Samvat era. One of the biographies (in its account of Rupa) gives it
+    as “1599 AD” — a confusion of eras: 1599 Samvat is 1542 AD, within the lifetime of Rupa and Sanatana.
+
+[^62]: This interpretation cannot be taken literally: from Vrindavana Sanatana went to Mahaprabhu in Puri and then
+    returned (see above). What is meant is evidently his life in Vraja after his return.
+
+[^63]: According to another biography, Lokanatha, a few days after coming to Vrindavana, met Rupa, Sanatana, Gopala
+    Bhatta, Bhugarbha and others there; it does not say who came first.
+
+[^64]: One of the biographies says in one place that Lokanatha, coming to Vrindavana, learned that Rupa and Sanatana had
+    already withdrawn, and in another that Narottama found Rupa, Sanatana and Lokanatha in Vraja. The second does not
+    agree with the first: Narottama came to Vraja only after the brothers' departure (see below).
+
+[^65]: According to the “Chaitanya-charitamrita,” the Lord met the brothers in Ramakeli, Prayaga and Kashi, not in Vraja;
+    Sanatana came to Vraja only after Mahaprabhu had left it (see above).
+
+[^66]: Another biography explains “mallik” as “lord” (see above).
