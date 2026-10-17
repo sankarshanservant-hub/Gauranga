@@ -273,7 +273,7 @@ Vrindavana with other devotees. The heads of the Vaishnavas of Vraja came out to
 Lokanatha, Bhugarbha and Madhu Pandita; according to Parameshvari Dasa's account, “the renowned Sri Jiva” was among
 those who met her in Mathura and told her the names of the other Gosvamis. Going round Vraja-mandala, Jahnava listened to
 Jiva expounding the “Brihad-bhagavatamrita”. When she brought the five-year-old Kanu to Vrindavana, Jiva and the other
-Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^16] <!-- F77 F78 F79 F80 -->
+Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^16] <!-- F77 F78 F79 F80 Q25 -->
 
 When Nityananda's son Virachandra (Virabhadra) came to Vrindavana, the mahajanas of Vraja went out to meet him — Jiva,
 Krishnadasa Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari (a disciple of Gadadhara Pandita and
@@ -541,6 +541,147 @@ the still more desirable original truth. Thus the parakiya-bhava of Vraja proves
 Gokula, and their awareness of being “others'” and Krishna's awareness of being their “lover” are eternal for the sake of
 the highest rarity of rasa; it looks low only to worldly vision. <!-- F139 F140 I15 -->
 
+## Srinivasa, Narottama, Shyamananda
+When Srinivasa came to Vraja, Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already disappeared; Raghunatha Dasa,
+Gopala Bhatta and Jiva were still living, and he received the blessing of all three.[^26] Jiva had already heard of him.
+When Srinivasa bowed down, Jiva embraced him with great love, asked — himself a Bengali — about the welfare of the Gaudiya
+Vaishnavas, and arranged prasada and lodging for him. Srinivasa arrived in the afternoon, on vaishakha-purnima; that day
+his prasada was brought by Krishna Pandita, the servant of Govinda, and Srinivasa honoured it together with Jiva himself.
+Srinivasa became “one of his own” (nija-jana) for Jiva, and in a letter Jiva calls him “mahattama” — “the greatest”.
+<!-- F142 F143 F144 F145 -->
+
+Jiva lovingly gave Srinivasa lodging in a secluded place, entrusted him to the feet of Sri Radha-Damodara, introduced him to
+Lokanatha, Bhugarbha, Paramananda and Madhu Pandita, took him to Gopala Bhatta and let him see Radha-ramana. Later, at Gopala
+Bhatta's instruction, Jiva bathed Srinivasa in the Yamuna and himself brought him to Gopala Bhatta, who gave him
+initiation.[^27] The next day Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and
+Krishnadasa Kaviraja.[^28] So Srinivasa became the diksha disciple of Gopala Bhatta and the shiksha disciple of Jiva: it was
+from him that he received instruction in the Vaishnava scriptures. <!-- F146 F147 F148 -->
+
+Once Jiva was discussing a verse of the “Ujjvala-nilamani” on uddipana-vibhava — on what awakens loving feeling — and asked
+Srinivasa its meaning. By Rupa's mercy the explanation was so beautiful that Jiva and the Vaishnavas were amazed and
+admitted that without Rupa's mercy such an explanation would be impossible. With the consent of all the Vaishnavas Jiva
+joyfully gave Srinivasa the title “Acharya”, and at Jiva's command he from then on taught the Vaishnavas of Vraja the
+“Bhagavatam” and other shastras.[^29] <!-- F149 -->
+
+Narottama too came, from Kheturi; Jiva sent him to serve the feet of Lokanatha Gosvami, and later gave him the title
+“Thakura Mahashaya”. At Jiva's instruction Srinivasa and Narottama went round Vraja-mandala together with Raghava Gosvami,
+the southern brahmana of Govardhana.[^30] Narottama became the favourite of the three Gosvamis then still living — Gopala
+Bhatta, Jiva and Raghunatha Dasa; he lived on alms (madhukari) and under Jiva's guidance studied the works of the Gosvamis
+deeply. <!-- F150 F151 F152 -->
+
+Then Duhkhi Krishnadasa of Dandeshvara in Utkala, a disciple of Hridaya Chaitanya, came to Jiva.[^31] When he arrived,
+Narottama and Srinivasa had just returned from going round the forests; Jiva was delighted and asked him about each of the
+devotees of Bengal and Utkala. Hridaya Chaitanya had earlier himself asked Jiva: “I give you my disciple Duhkhi
+Krishnadasa; teach him Krishna consciousness well and, when his mind has become steady, after thorough study send him back
+to me”.[^32] In Vrindavana Duhkhi found out from local people where Jiva's bhajana-kutira was, came there, bowed down and
+told about himself. Jiva gladly took him under his protection, and Duhkhi served him zealously and studied the scriptures
+of the Gosvamis together with Srinivasa and Narottama. When he asked for a service that would bring him close to Jiva, Jiva
+told him to carry water every day from Kanana-kunja, and this service filled his life with meaning and bliss.
+<!-- F153 F154 F155 F156 F157 F158 -->
+
+Jiva taught Duhkhi Krishnadasa the “Bhagavatam”, made him an acharya of the bhakti-shastras and entrusted him to Srinivasa.
+He also gave him the name “Shyamananda” — “the joy of Shyama” — because he delighted Radha and Shyamasundara; seeing his
+longing to become a maidservant of Radha, Jiva gave him the inner readiness for it. Tradition tells that once, while
+sweeping the Rasa-mandala, Shyamananda found Radharani's anklet (nupura) and touched his forehead with it, and the mark
+became the tilaka of his line — the “nupura-tilaka”.[^33] So service to the guru became Shyamananda's path to Radha's
+mercy. <!-- F159 F160 F161 I8 -->
+
+Although Shyamananda had received initiation from Hridaya Chaitanya — a disciple of Gauridasa Pandita who worshipped Gaura
+and Nitai in sakhya-bhava — his guru himself entrusted him to Jiva's care. Through association with Jiva and service to him
+Shyamananda acquired a taste for serving Radha and Krishna in madhurya-rasa; that is why he later initiated Rasikananda in
+the worship of Radha and Krishna. There is no offence to the guru in this: sakhya is contained in madhurya, and the
+disciple's growth only increases the teacher's glory. A few days after Hridaya Chaitanya, rebuked by Radha in a dream, had
+been reconciled with his disciple and left Vraja, Jiva told Shyamananda to return to his homeland.[^34] <!-- F162 F163 I9 -->
+
+For some time Srinivasa, Narottama and Shyamananda lived with Jiva as his shiksha disciples, receiving detailed personal
+instruction; with his approval they arranged an order of kirtana (kirtana-paddhati). Jiva regaled all three with the rasa
+of bhakti from the books of Rupa and Sanatana, his own, and those of Raghunatha Dasa, Gopala Bhatta and others, and soon
+Shyamananda became as expert as the other two: training under Jiva made all three scholars in the philosophy and shastras
+of Mahaprabhu. They lived on alms and performed bhajana as one heart.[^35] Later, in Navadvipa, Narottama told Shuklambara
+Brahmachari that he had lived in Vrindavana under the care of Jiva and Lokanatha, and Shuklambara embraced him and asked
+about the welfare and doings of the Gosvamis; and in Khardaha Jahnava and Vasudha, understanding that Narottama had
+received the mercy of Lokanatha and Jiva, bestowed their own mercy on him. <!-- F164 F165 F166 -->
+
+Everyone who came from Gauda or Utkala Jiva embraced, asked about all the devotees, and provided with prasada and lodging —
+Bengali hospitality remained with him in Vraja too. <!-- I7 -->
+
+## The Books Leave for Gauda
+After Mahaprabhu's disappearance confusion set in in Gauda. In Prabhu's family there was no worthy successor; Virachandra,
+being independent by nature, did not embrace the whole of Gauda; discord arose among Advaita's descendants; the Lord's
+associates were departing one after another; and bauls, sahajiyas, darveshes, sais and others spread their own paths,
+taking cover under the names of Chaitanya and Nityananda. Jiva was then the only Vaishnava acharya. Living in Vraja and
+grieved by this news, he decided to make Srinivasa, Narottama and Shyamananda acharyas — restorers of pure bhakti in Gauda —
+and to send the books of siddhanta there. So Jiva restored pure bhakti in Gauda not by himself but through his disciples,
+training them and sending the books with them. The Gosvamis of Vraja, having discussed his proposal, decided to send all
+three.[^36] <!-- F167 F168 I6 -->
+
+Srila Bhaktisiddhanta writes in the “Anubhashya”: Jiva gave Srinivasa, Narottama and Duhkhi Krishnadasa, who had come from
+Gauda, the names “Acharya”, “Thakura Mahashaya” and “Sri Shyamananda” and sent them to Gauda to preach nama-prema — the Holy
+Name and love of Krishna — with all the books, his own and those of the other Gosvamis. <!-- F169 -->
+
+Before the departure Jiva prayed with the Vaishnavas in the temple of Govinda: “O Govindadeva, give Srinivasa the strength
+to preach the books”. At once a garland fell from Govinda's neck, and the pujari handed it to Srinivasa. Seeing this mercy,
+Jiva and the other acharyas fixed the departure for aghrahayana shukla-panchami, the fifth lunar day of the bright fortnight
+of the month of aghrahayana. This was in 1504 Shaka (1582–1583) — the same year in which Jiva completed the
+“Laghu-toshani”.[^37] <!-- F170 F171 -->
+
+Before many mahantas Jiva himself packed all the books into a wooden chest. A wealthy merchant of Mathura took upon himself
+the cost of the cart, a chest proof against rain, and foot guards. Having bowed to the three principal Deities of
+Vrindavana, the three disciples set out, and Jiva with a few companions accompanied the cart as far as Mathura; among those
+who blessed them was Uddhava Dasa (“Bhakti-ratnakara”, 6.514). <!-- F172 -->
+
+On the way the books were seized by the men of King Vira Hambira of Vana-Vishnupura. Later the king, hearing Srinivasa
+expound the “Bhagavatam”, became a Vaishnava and took initiation from him, and Srinivasa got the books back. The news of
+the loss, and then of the recovery, reached Jiva — it was sent with the drivers and the guards — and Jiva and the other
+Gosvamis rejoiced greatly and marvelled at Srinivasa's deeds. After this Narottama went to preach in North Bengal and
+Shyamananda in Orissa, so that the teaching of the books should spread through Bengal and Orissa; later Shyamananda,
+returning to Vrindavana, found Srinivasa already with Jiva. <!-- F171 F173 F174 -->
+
+Why does the “Chaitanya-charitamrita” name neither Srinivasa nor Narottama? Many answer thus: the Kaviraja finished the book
+before their preaching began. Jiva sent the “Chaitanya-charitamrita” to Gauda with Srinivasa together with the other books
+of the Gosvamis, and shortly before that Srinivasa had received from him the title “Acharya”. <!-- F175 -->
+
+## Srinivasa's Second Visit
+Srinivasa came to Vraja a second time when in Gauda Shuklambara, Gadadhara Dasa, Narahari and Dvija Haridasa had departed.
+Gopala Bhatta, Jiva, Bhugarbha and Lokanatha encouraged him and softened his grief; Jiva was already waiting for him,
+raised him up, embraced him tightly and asked about the Bengali Vaishnavas he had long not seen. At that time Shyamananda
+too came from Puri; Jiva embraced him as well and asked about the devotees of Puri, and soon news came of Dvija Haridasa's
+departure. <!-- F176 F177 -->
+
+Srinivasa and Shyamananda lived with Jiva, and he taught them the conclusions of the “Shat-sandarbha”, which he had just
+completed. At that time, says one of the biographies, Jiva began writing the “Gopala-champu” and read them its
+mangalacharana — the opening verses.[^38] <!-- F178 F179 -->
+
+Jiva gave the title “Kaviraja” to Srinivasa's disciple Ramachandra Sena and his younger brother Govinda Sena. Ramachandra
+used to visit Vrindavana and associated with Jiva and the other Vaishnavas; Jiva liked his verses very much, and Ramachandra
+became one of the eight kavirajas. The “Bhakti-ratnakara” relates:
+
+“Sri Paramananda Bhattacharya, a treasury of prema, Sri Jiva Gosvami and other residents of Vrindavana — all, hearing from
+his lips the verses he had composed, with great joy gave him the title «Kaviraja»”. (“Bhakti-ratnakara”, 1.267–268)[^39]
+<!-- F180 Q24 -->
+
+Ramachandra had been summoned from Gauda by Srinivasa, who then spent several months with Jiva and the other Gosvamis. He
+was presented to Jiva; Jiva raised him up, embraced him and told him to visit Radha-ramana, Govinda, Gopinatha and the feet
+of the Gosvamis, and the Gosvamis were very pleased with Ramachandra's humility. With the permission of Srinivasa and Jiva
+he saw the Deities and the samadhi of Sanatana, at Jiva's command went round the forests of Vrindavana, and at Radha-kunda
+saw Raghunatha Dasa and Krishnadasa Kaviraja. When Ramachandra visited the Radha-Damodara temple together with Jiva and saw
+Rupa's samadhi, he went into an ecstasy that amazed everyone (“Bhakti-ratnakara”, 9th wave). After this, at Jiva's command,
+Srinivasa and Shyamananda left for Gauda. <!-- F181 F182 F183 Q26 -->
+
+From Vrindavana Jiva wrote letters to Srinivasa; the “Bhakti-ratnakara” (14th wave) and the “Prema-vilasa” preserve them.
+In one he reports the departure of Bhugarbha and how the revision of the “Rasamrita-sindhu”, the “Madhava-mahotsava”, the
+“Uttara-champu” and the “Hari-namamrita-vyakarana” is progressing, and asks about the welfare of Srinivasa's eldest son,
+Vrindavana Dasa, and other disciples; the name “Vrindavana Dasa” had been given to the boy by Jiva himself as soon as news
+of his birth reached Vraja. Another letter Jiva opens with the address
+“samasta-guna-prashasta-bandhuvara-srinivasacharya-mahantameshu” — “to Srinivasa Acharya, most eminent, best of friends,
+praised for every virtue” — and writes:
+
+“He is now carrying there the revised and examined books «Vaishnava-toshani», «Durgama-sangamani» and «Sri Gopala-champu».
+Therefore you should engage with him in the revision of the books and of their interpretation <…>. And also: if the
+«Harinamamrita» grammar that was earlier sent to you is to be taught, then, consulting the bhashya, the vritti and so on,
+the errors and the like should be corrected. <…> The «Sri Uttara-gopala-champu» is now written, but it still has to be
+examined — this I report”. (“Prema-vilasa”, 25, letter 3) <!-- F184 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -643,3 +784,56 @@ the highest rarity of rasa; it looks low only to worldly vision. <!-- F139 F140 
 [^25]: The Bengali text here says “created by maya”. What is meant is Yogamaya — the Lord's spiritual power that arranges
     His pastimes — not the mundane maya that binds living beings: the Lord and His associates are not subject to it.
     Bhaktivinoda himself understands it so below: “all that Yogamaya manifests is pure”.
+
+[^26]: According to another biography, on the way Srinivasa learned from brahmanas that Raghunatha Bhatta and other great
+    devotees had just departed, and fell unconscious; the brahmanas brought him to the place where Jiva lived.
+
+[^27]: According to another biography, the next morning Srinivasa went with Jiva for the darshana of Radha-ramana, saw
+    Gopala Bhatta there, and the following day Gopala Bhatta initiated him.
+
+[^28]: According to another biography, Srinivasa was sent to Raghunatha Dasa at Radha-kunda; after three days there he
+    returned to Vrindavana, to Jiva's shelter.
+
+[^29]: According to another biography, Jiva taught Srinivasa the “Bhagavatam” and the books of the Gosvamis; soon he knew
+    all their conclusions by heart, and Jiva gave him the title “Acharya” for his knowledge of philosophy.
+
+[^30]: One of the biographies gives Narottama's title simply as “Thakura” and says that Jiva told only Srinivasa to go round
+    Vraja with Raghava Gosvami. According to another, Srinivasa first met Narottama in person in Jiva's ashrama, and Jiva
+    told both to go round the forests of Vrindavana with Raghava Gosvami.
+
+[^31]: Two biographies say that he was sent to Jiva by his guru, Hridaya Chaitanya (according to one, “to Jiva's school”);
+    one of them calls Jiva the foremost scholar of the sampradaya. According to a third, in its chapter on Shyamananda,
+    Duhkhi was sent to Jiva by Raghunatha Dasa.
+
+[^32]: According to another biography, Hridaya, learning of his disciple's zeal in Vraja, wrote Jiva a letter: let Duhkhi
+    regard Jiva as a continuation of himself.
+
+[^33]: One of the biographies says that Jiva named him “Shyamananda” because he had delighted Shyamasundara. Another tells
+    it differently: drawing water for Jiva, Duhkhi found Radha's anklet at Kanana-kunja; Radha Herself marked him with tilaka
+    using it and named him “Shyamananda”, and he returned to Jiva's feet. Jiva, seeing the shining tilaka, was struck dumb
+    with amazement and asked about it; on hearing the story he was overjoyed, told him not to reveal this miracle to people,
+    and said: “From this day your name is Shyamananda”. According to this account Jiva only confirmed the name given by
+    Radha.
+
+[^34]: According to one biography, to Gauda; according to another, to Orissa.
+
+[^35]: One of the biographies adds: “so they lived with Rupa Gosvami, who taught them everything”. But Rupa was no longer
+    present then; this is probably a slip, or refers to Rupa's teaching, which they received through Jiva.
+
+[^36]: The biographies describe this decision differently: all the Gosvamis of Vraja together with Jiva decided to send
+    the books soon with Srinivasa; Srinivasa was sent by Jiva at the wish of Gopala Bhatta; the Gosvamis of Vrindavana
+    decided to send the three; Jiva and the other Vaishnavas of Vraja told them to take the manuscripts. One more biography,
+    in its chapter on Narottama, relates that Jiva called all three and said: “In future you must preach Mahaprabhu's
+    message widely — take the books of the Gosvamis and go quickly to Bengal”, and they, accepting the guru's order, left.
+
+[^37]: Only one biography gives the year. According to it, they left on an ox-cart; according to another, on one of the
+    days of the bright fortnight of aghrahayana.
+
+[^38]: This does not agree with other testimonies: by its colophon the “Purva-champu” was completed in 1510 Shaka (on the
+    dates of the book see the section on his writings), by Jiva's own letters (see below) the “Uttara-champu” was still
+    being revised after Srinivasa's departure, and the “Karnananda” says that the “Gopala-champu” was already being relished
+    in Raghunatha Dasa's time at Radha-kunda (see above).
+
+[^39]: According to another biography, at Jiva's command Ramachandra visited Madana-mohana, Govinda, Gopinatha and the
+    samadhi of Sanatana, saw Lokanatha, Gopala Bhatta and Bhugarbha, and these three gave him the title for his verses. One
+    more biography, in its chapter on Jahnava, says that the title was given to Govinda by Jiva, Srinivasa and Jahnava.
