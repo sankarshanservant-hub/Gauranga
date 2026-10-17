@@ -245,3 +245,270 @@ gathered and sang sankirtana. <!-- F52 -->
 Once, while Nityananda was wandering about Nadia, the Lord revealed His universal form in Srivasa's house. Nityananda,
 knowing it within, came to Srivasa's door and roared, and the Lord showed Him the form of countless universes. <!-- F119 -->
 
+## The Nightly Kirtana Behind Closed Doors
+Mahaprabhu announced: from now on there would be unbroken sankirtana every night, followed by a bath in the Ganga. As
+the place of the nightly kirtana He chose Srivasa's house; sometimes the kirtana was held in the house of Chandrashekhara
+Acharya (CB, Madhya 8.110–112). It began on hari-vasara, the day of Ekadashi:[^12] on the blessed ground of Srivasa's
+courtyard rang out “Gopala! Govinda!” (CB, Madhya 8.77–78). Mahaprabhu would now sing the refrain “Hari o Rama Rama,” now
+cry out in joy “Jitam! Jitam!” — “Victory!” — and the devotees echoed Him. <!-- F53 Q9 -->
+
+They sang behind closed doors, only with intimates; no unbeliever in Nadia was admitted. Taking part in the kirtanas at
+Srivasa's were Haridasa, Mukunda, Gangadasa, Hiranya, Vanamali, Vijaya, Nandana, Jagadananda, Buddhimanta Khan, Pundarika
+Vidyanidhi, Sadashiva, Gopinatha, Jagadisha, Shriman, Shridhara, Vakreshvara, Shrigarbha, Shuklambara, Kashishvara,
+Govinda Ghosha, Vasudeva Datta and many others. When the Lord, after Gaya, gathered the devotees for kirtana in
+Srivasa-angana, Advaita brought Sita Thakurani to Mayapur as well. Srivasa, Haridasa and Vakreshvara danced in the
+kirtana. <!-- F54 F82 Q9 -->
+
+Thousands of hostile people clamoured at the locked doors. What was not said about the kirtana! That behind the door
+they chanted mantras, summoned five maidens and feasted; they threatened: “Tomorrow we shall drive this brahmana Srivasa
+out of Nadia, tear down his house and throw it into the river” (CB, Madhya 8.241–244, 265, 267–272). Mahaprabhu and His
+associates paid no attention to the abuse. Srivasa remained deaf to it, and day and night, absorbed with Gaura in the
+taste of Krishna, he sang: “Jaya Krishna Murari Mukunda Banamali.” <!-- F54 F56 Q10 -->
+
+As the night of the rasa-lila seemed a moment to the gopis, so the nights of kirtana at Srivasa's seemed short to the
+Lord and His associates, and the kirtanas behind locked doors went on every night for a whole year. Once, at the end of
+such a night, Mahaprabhu placed all the shalagramas on His lap, sat on the altar, revealed a wondrous form and accepted
+the devotees' offerings. <!-- F55 F57 -->
+
+## The Mahaprakasha
+The greatest revelation in this house was the Mahaprakasha. Gaura came to Srivasa together with Nityananda, and at His
+sign the kirtana began. After the night's kirtana He entered the Vishnu temple, took the shalagramas and sat on the couch
+of Vishnu; He cast off the mood of a devotee and declared openly that He is Vishnu, spoke of His present incarnation and
+asked for food. To accept the service of all who had taken shelter of Him, He sat for seven praharas — twenty-one hours,
+whence this pastime is called “sat-prahariya” — on the throne of Vishnu in Srivasa's temple. At His sign He was given,
+as the King of kings, an abhisheka according to all the injunctions, with the mantras of the “Purusha-sukta”; according
+to the “Chaitanya-mangala,” it was Srivasa himself who performed it. After the bath the Lord was worshipped and glorified
+with the ten-syllable Gopala-mantra. He stretched out His feet, accepted flowers and gifts, granted all their desires and
+appeared in the forms of all the previous avataras. <!-- F59 F128 -->
+
+To each He spoke of his past. He called Gangadasa and reminded him of the river crossing; Murari saw Him in the form of
+Rama; He called Shridhara too; Pundarika Vidyanidhi was there, and Gadadhara saw it all. Srivasa's servants and
+maidservants were blessed to carry water for Gaura-Hari's bath — the fruit of serving so pure a devotee as their
+master. <!-- F59 F60 F128 -->
+
+One of the maidservants was called Duhkhi, “the unhappy one.” Every morning she carried water from the Ganga for the
+Lord's bath and watched His dance with tears. The Lord, seeing her, said Himself: “More water, bring water!” — and asked
+Srivasa who was carrying the water. Then He gave her a new name — Sukhi, “the happy one”: she who serves Bhagavan and the
+Vaishnavas cannot be unhappy. From then on Srivasa ceased to see Sukhi as a servant and every day entrusted her with
+carrying Ganga water for Mahaprabhu's bath. <!-- F61 -->
+
+That day the Lord reminded Srivasa of an old incident. Before the Lord's appearance, Srivasa, a rasika-bhakta, had gone
+to hear the “Bhagavatam” from Devananda Pandita, and at the very first verse he fell to the ground in love and rolled on
+the floor weeping. Devananda's foolish students shouted, “A madman, out with him!” and dragged him out of the door; they
+came to their teacher only for learning and did not understand that the sattvika-bhavas in Srivasa's spiritual body
+purify the world, but took him for an ordinary emotional man. Devananda saw this and did not stop them — and so became a
+party to the offence. Srivasa told no one of his hurt and went home. Now the Lord asked him: “Do you remember?” — and
+Srivasa in amazement fell at His feet. Srivasa's ecstasy on hearing the “Bhagavatam” is a sign of the highest taste of
+devotion, and the mockery of the pashandis comes from want of faith. <!-- F62 F121 I11 -->
+
+The Lord called each of the devotees separately and blessed him with mercy — He did not call only Mukunda Datta, the
+constant singer of Srivasa-angana, the chief lead singer on hari-vasara and at the Mahaprakasha. Srivasa interceded for
+him. The Lord replied: “Mukunda is not worthy to see Me. He keeps company with every community and supports their
+doctrines: now he holds a straw between his teeth, now he takes up a stick — with one hand he grasps the feet, with the
+other the throat.” Mukunda resolved to give up his body if he did not receive Gaura's mercy, and through Srivasa asked
+whether he would ever see the Lord. Through Srivasa came the answer: “After ten million births.” Mukunda danced for joy —
+and the Lord said that those births had passed in a moment, and allowed him to see Him. <!-- F63 F128 -->
+
+All these manifestations of the “maha-maha-prakasha” took place in Srivasa's house. Vrindavana Dasa says: in Navadvipa
+hundreds of ascetics, sannyasis, yogis and jnanis study the “Gita” and the “Bhagavatam” in vain, while Srivasa with his
+wife, sons and servants — and even the dogs and cats of his house — received what sannyasis and ascetics will not attain
+even in a ten-millionth part. <!-- F64 -->
+
+Narayani, four years old, lived with Srivasa and was blessed with the remnants of Mahaprabhu's meal. That is why among
+Vaishnavas she is known to this day as “Sri-chaitanya-avashesha-patri,” “she who partakes of Chaitanya's remnants”; and
+by the mercy of that prasada, it is said, Vrindavana Dasa, an incarnation of Vyasa, was later born to her. <!-- F65 -->
+
+Srivasa's clothes were sewn by a Muslim tailor, and the Lord blessed him too:
+
+“A Muslim tailor sewed clothes for Srivasa Thakura. Lord Chaitanya bestowed special mercy on him by revealing His eternal
+form. The tailor cried ‘I see! I see!’ and began to dance like a madman, intoxicated with divine love. Thus he became the
+best of Vaishnavas.” (CC, Adi 17.231–232) <!-- F66 Q11 -->
+
+This house saw many other pastimes. Here the Lord revealed the four-armed form of Narayana and began calling for
+Garuda — Murari with a roar took the form of the king of birds, and the Lord sat on his shoulders. Here too Murari bowed
+first to the Lord and then to Nityananda, and the Lord pointed out his mistake. Here took place the pastime with
+Shuklambara's bag of rice (“Bhakti-ratnakara,” 12). The chief dancer in the performances in Srivasa's house was
+Vakreshvara; once he danced here without a break for seventy-two hours (CC, Adi 10.17). The “Chaitanya-mangala” tells how
+the Lord explained the hidden meaning of the name “Srivasa”; how, appearing in the form of Rama, He told Rama Pandita to
+serve Srivasa; how He spoke to Srivasa of the dharmas of the ages — in the age of Kali the best of them is sankirtana;
+how Srivasa asked about the greatness of Advaita, and the Lord expounded to him the Advaita-tattva. <!-- F67 -->
+
+## Those Who Offended Srivasa
+Gopala Chapala, a garrulous bhattacharya, one night, while the kirtana was going on behind Srivasa's locked doors,
+left at his door everything needed for the worship of Bhavani (Kali): banana leaves, hibiscus flowers, red sandalwood, a
+pot of wine and meat. In the morning Srivasa opened the door, saw this and, laughing, said loudly to the respectable
+people of Navadvipa: “Look, I worship Bhavani every night! Here is my glory — I am a shakta.” He said it in jest. The
+distressed neighbours called a sweeper, threw everything away and purified the place with water and cow dung. <!-- F68 -->
+
+For the offence at Srivasa's feet Gopala was struck with leprosy — festering sores covered his whole body. He lived
+under a tree by the Ganga, and when the Lord came there to bathe, he begged Him for deliverance. The Lord answered in
+anger:
+
+“‘O wicked envier of devotees! Expect no forgiveness from Me, I shall not save you! Let worms devour you for tens of
+millions of lives.’” (CC, Adi 17.51)
+
+For having made Srivasa out to be a worshipper of Bhavani, said the Lord, he would spend ten million births in the hell
+called Raurava (CC, Adi 17.52). <!-- F69 Q11 -->
+
+Years passed. After His sannyasa, on the way to Nilachala, the Lord came to Kuliya, and Gopala again begged for
+forgiveness. This time the Lord told him to ask forgiveness of Srivasa — and by Srivasa's mercy the offence was removed.
+That is why Kuliya is called “the place where offences are forgiven”; it is the present town of Navadvip (Koladvipa).
+Forgiveness must be asked of the very devotee one has offended. <!-- F70 -->
+
+A similar case took place in Shantipura, also on the way to Nilachala. A man tormented by leprosy came to the Lord. The
+Lord said that for an offence at Srivasa's feet he would suffer endlessly in the hell called Kumbhipaka; and when he
+repented, the Lord told him to ask Srivasa's forgiveness — the only remedy for vaishnava-aparadha. Srivasa forgave him.
+The “Chaitanya-mangala” too tells how an envious brahmana struck with leprosy begged forgiveness for an offence against a
+Vaishnava and was saved by Srivasa's mercy. <!-- F71 -->
+
+Devananda too had offended Srivasa. “Many days later” the Lord met him in the town — by the embankment of Visharada in
+Kuliya (“Bhakti-ratnakara” 12.2976–2977) — and rebuked him severely: a great expounder of the “Bhagavatam,” learned, an
+ascetic, renounced from birth — yet he had indulged students hostile to Srivasa and had lost the right to read the
+“Bhagavatam,” for he had no faith in the Vaishnavas:
+
+“Anyone who makes a distinction between Me, My servant and the book ‘Bhagavatam’ surely brings ruin upon himself.” (CB,
+Madhya 21.18)
+
+“One who reads the ‘Bhagavatam’ without glorifying bhakti is a fool; I shall tear up his manuscript,” the Lord went on
+(CB, Madhya 21.20–21). “To see such a devotee as Srivasa, even the Ganga came down from Hara's head to earth as a river;
+the offence you committed by driving him out through your students has turned you away from God.” The Lord, who had
+learned of the offence already at the Mahaprakasha, long remained indifferent to Devananda; later He told him to ask
+forgiveness at Srivasa's feet — for the book-Bhagavata and the devotee-Bhagavata are one. Devananda came to Srivasa, who
+embraced and forgave him.[^13] At the very time the Lord was rebuking Devananda, Saranga Thakura met Him in a street of
+Navadvipa. <!-- F75 F121 Q12 -->
+
+All these stories teach one thing: an offence against a Vaishnava is removed only by the forgiveness of the one
+offended — whether Gopala Chapala, the leper of Shantipura or Devananda. <!-- I6 -->
+
+## Who Has No Place at the Kirtana
+One evening Srivasa's mother-in-law, without telling him, hid in a corner of the room under an upturned basket (a
+dool), hoping to watch the kirtana. The Lord was dancing — and suddenly began to repeat: “Why is there no joy for Me
+today? Is an outsider hiding here?” Srivasa searched the room, found no one, and asked the Lord to sing and dance freely.
+Again the Lord said there was no joy, and some devotees began to blame themselves. Srivasa searched more carefully and
+found his mother-in-law; she was led out by the hair,[^14] and the Lord danced joyfully. <!-- F72 -->
+
+The Lord Himself sought out Srivasa's wife, sons, servants and maidservants, even his dogs and cats, to give them His
+prasada — but the mother-in-law, lacking simplicity, was left without the mercy of both the devotee and the Lord: the
+daughter received prasada, the mother did not. The lesson of this story: the Lord is merciful to the guileless; bodily
+kinship with a great devotee does not yet admit one to the society of devotees, and in bhakti bodily and social ties are
+no measure. Only those who have received His mercy may see the Lord's pastimes. <!-- F73 I4 -->
+
+There lived in Navadvipa a brahmachari, an ascetic of holy life who drank only milk. He earnestly begged Srivasa to let
+him see the Lord's dance, and Srivasa, considering him sinless, secretly left him in the house. The all-knowing Lord said:
+“There is no joy in My heart — there is an outsider in the house.” Srivasa answered in fear: there was no pashandi here,
+only a sinless milk-drinking brahmachari quietly waiting to see His dance. The Lord grew angry: “Take him out at once!
+Drinking milk gives no right to see My dance. A chandala who has taken shelter of Me will receive more mercy than a
+sannyasi without surrender. Asceticism, renunciation and celibacy are displayed even by asuras — only surrender leads to
+Me.” The brahmachari went out in fear, but begged at least to look upon the Lord. The rebuke opened his eyes; he praised
+his good fortune, and the Lord called him over, placed His feet on his head and told him not to be proud of his
+austerity. Neither asceticism, nor milk, nor celibacy gives the right to the Lord's dance — the path to Him is surrender
+alone. <!-- F74 I5 -->
+
+The “Chaitanya-mangala” tells it differently: a brahmana was not admitted to the nightly kirtana and cursed the Lord —
+“May You never know the joys of worldly life!” — and the Lord danced for joy. <!-- F74 -->
+
+## Other Pastimes in Navadvipa
+Gaurasundara wished to enact the pastimes of Vraja in the house of Chandrashekhara Acharya and said who would take
+which part; at His direction Buddhimanta Khan assigned the roles. The Lord took for Himself the part of Mahalakshmi and
+warned that only those who had conquered their senses might watch. Advaita and Srivasa answered sadly: “We have not
+conquered our senses — how then can we watch?” The Lord smiled and said that today all would become great yogis and
+nothing would disturb them — and that without Advaita and Srivasa He would not dance at all. <!-- F76 F129 -->
+
+Advaita was the jester (vidushaka), Haridasa the watchman (kotoval), Nityananda an old woman, Gadadhara a gopi; the Lord
+came out as Rukmini and at the end as Adya-shakti, the primordial energy. “Wake up — Srivasa will come out to dance as
+Narada!” (CB, Madhya 18.100). Srivasa came on stage as Narada, and Ramai as his disciple and companion; thus, under the
+guise of a play, they revealed their former forms and the truth about Gaura. Srivasa-Narada said: “I have travelled the
+universes wishing to see Krishna; in Vaikuntha the doors are shut and the house is empty. I heard that Krishna has come
+to Nadia and, dressed as Lakshmi, will dance.” Shachi came to watch with Vishnupriya, and the Vaishnavas with their
+families; and Shachi, seeing Srivasa in the form of Narada, fainted with wonder (“Bhakti-ratnakara” 12.1949–1952).
+According to the “Chaitanya-mangala,” Srivasa in the form of Narada also glorified Gadadhara Pandita. <!-- F76 F77 F129 Q19 -->
+
+Once Vishvambhara, walking through the town, smelled wine at a drunkard's house and, in the mood of Baladeva, called
+Srivasa: He wanted to go in. Srivasa seized His feet and would not let Him. “Are there prohibitions even for Me?” asked
+the Lord. Srivasa replied: “You are the father of the world. If You do not keep the rules to teach people, who will?
+Slanderers who do not understand Your pastimes will suffer birth after birth. Have pity on the souls — and if You go in,
+I shall throw myself into the Ganga.” And the Lord granted His devotee's request. <!-- F78 -->
+
+Another time the Lord ascended the throne of Vishnu in Srivasa's temple, spoke Himself of His nature and granted all
+their desires. Srivasa asked Him for love of God for Shachi. The Lord replied that she bore an offence against a
+Vaishnava — an offence at the feet of Advaita — and until she was freed of it she could not receive prema-bhakti. “If we
+hear such a thing once more,” said Srivasa, “the devotees will give up their lives,” and at his request the Lord explained
+how an offence against a Vaishnava is removed. Shachi went to Advaita and received forgiveness. <!-- F79 F126 -->
+
+Once, at the Lord's request, Srivasa was reading the “Vishnu-sahasranama.” At the name of Nrisimha the Lord entered the
+mood of Nrisimha, seized a club and went through the town to beat the pashandis. The townspeople were terrified; seeing
+their fear, the Lord restrained His anger, returned to Srivasa's house and threw down the club. <!-- F80 -->
+
+At the Lord's command all Navadvipa sang in the evenings in every home, “(Hare) Haraye namah, Krishna Yadavaya namah,
+Gopala Govinda Rama Sri Madhusudana” and “Hari o Rama Rama,” with mridangas, karatalas and conches. The Kazi, hearing it,
+beat people, broke mridangas and ran riot from house to house.[^15] Then the Lord organised a huge procession, dividing
+the devotees into groups, and in the town kirtana Srivasa, at the Lord's command, danced joyfully.[^16] The place where
+the Kazi broke the mridanga was later pointed out by Jagannatha Dasa Babaji: it is called “Khola-bhangar-danga,” “the
+place where the mridanga was broken,” and it is none other than Srivasa-angana. <!-- F81 F131 -->
+
+After Madhai wounded Nityananda, the Lord with the devotees brought the brothers Jagai and Madhai to Srivasa-angana, and
+there they became devotees. <!-- F130 -->
+
+Once the Lord displayed wondrous transformations in Shuklambara's house, and among those who saw them were Gadadhara,
+Sadashiva, Murari, Srivasa and Shriman; after Gaya, Shriman, Srivasa, Gadadhara and Sadashiva were with Shuklambara. <!-- F83 F139 -->
+
+In the time when Advaita lived in Navadvipa — from the Lord's self-revelation until His sannyasa — he came every day to
+the kirtana in Srivasa-angana. Once he danced there sadly, lamenting that he had not attained the highest. In loving
+delirium he said to the Lord: “You have made Nityananda the keeper of the treasures of prema, but You give it neither to
+me nor to Srivasa!” (CB, Madhya 17.16, 18). And when the Lord, having resolved to drown Himself, was saved by Nityananda
+and Haridasa and took refuge with Nandana, the devotees suffered without Him. The Lord asked Nandana to bring Srivasa
+alone;[^17] Srivasa told Him that Advaita in despair was fasting, and begged the Lord to appear to him and to the others
+who were suffering, and the Lord went with him to Advaita. <!-- F83 F125 Q21 -->
+
+Before the Lord's sannyasa Srivasa and Murari came to Him, and He consoled them (“Chaitanya-mangala”). A song of
+Vamshivadana laments that He will no longer dance with the devotees in Srivasa's temple. <!-- F84 -->
+
+## The Death of His Son
+To show what a true Vaishnava householder and pure devotee is, the Lord displayed this pastime in Srivasa's house. The
+kirtana was going on when, in the evening, about an hour after sunset, Srivasa's only son died of an illness; weeping was
+heard from the inner rooms. <!-- F85 -->
+
+Srivasa went in to the women, saw that his son had gone, and, deep in devotion and knowing the truth, began to comfort
+them: “Whoever hears His name even once before the end goes to Krishna's abode, be he even a great sinner. And here the
+Lord Himself is dancing with His associates — He Whose glory Brahma and Shiva sing. We should not grieve but wish such
+good fortune for ourselves.” Without Krishna's will, he said, not a blade of grass moves; Krishna gives life and Krishna
+takes it away, and to oppose His will brings only sorrow; listen to Krishna's name. “But if, giving way to worldly
+feeling, you cannot hold back your tears — weep later. If your weeping draws the Lord out of His ecstasy, I shall throw
+myself into the Ganga.” <!-- F86 -->
+
+His words calmed everyone: the women, forgetting the dead, listened to the kirtana till late at night, and Srivasa
+joyfully returned to the Lord and danced. <!-- F87 -->
+
+The Lord said: “Today something is wrong in My heart. Has some misfortune happened in the Pandita's house?” Srivasa
+replied: “What misfortune can there be where Your face is and Your sweet kirtana?” But other Vaishnavas told of the death.
+“Why did you not tell Me?” — “Srivasa forbade it, so as not to disturb Your joy in the kirtana.” And Srivasa said: “Only
+the body has died. Were the whole universe to die, I am happy looking at You; to interrupt Your kirtana would be worse
+than death to me.” <!-- F88 -->
+
+The Lord wept, calling the names “Govinda! Govinda!”, and said:
+
+“How can I part from one who does not grieve over his son's death out of love for Me?” (CB, Madhya 25.52)
+
+In these words there was a hint of the coming sannyasa and of separation from the devotees, and the intimate devotees
+understood it. <!-- F89 Q13 -->
+
+The Lord sat down beside the body, touched it and addressed the dead boy: “Why are you leaving Srivasa's house?” Life
+returned to the body, and the child answered: “No one has power against Your will. Who is whose father, who is whose son?
+Each receives a body according to his karma. As long as it was destined for me, I lived in the house of Srivasa-prabhu;
+now I go to another place. Be merciful, that I may not forget Your feet; I bow to You and Your associates. Many times I
+have been born and died, but this time I die seeing Your feet — and I go away happy.” <!-- F90 -->
+
+Hearing the truth from the child's lips, Srivasa's family forgot their grief and, weeping now with love, embraced the
+Lord's feet:
+
+“Birth after birth You are our father, mother, son and teacher. Never let us forget Your lotus feet. O Lord, it does not
+matter where we are born. Only keep in us forever loving devotion to Your lotus-like feet.” (CB, Madhya 25.70–71)
+
+Srivasa fell at the Lord's feet in tears of rapture. <!-- F91 Q13 -->
+
+The Lord said to him: “You know how the world is. These inevitable worldly sorrows will touch neither you nor anyone who
+sees you. From this day I and Nityananda are your eternal sons; We shall not leave you. Remember this, and you will know
+no grief for a son.” Thus Chaitanya and Nityananda became debtors to Their devotee. Then the Lord with all the devotees
+carried the dead boy with kirtana to the Ganga and performed the funeral rites. Service to the Lord and His joy were for
+Srivasa above his own grief — in this lies the example of a true Vaishnava householder. <!-- F92 F93 I7 F12 -->
+
