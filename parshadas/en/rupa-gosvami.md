@@ -149,7 +149,7 @@ of Malda, to Ramakeli.[^12] When the rumour spread that from Kuliya the Lord wou
 Brahmachari began in meditation to pave for Him a road of precious stones from Kuliya to Vrindavana and to spread over it
 an unbroken bed of flowers. But when the road reached Kanai-natashala near Gauda, his mind was disturbed and the
 meditation broke off. “This time,” said Nrisimhananda, “the Lord will go only as far as Kanai-natashala, not to
-Vrindavana.” And so it happened. <!-- F45 F46 F47 -->
+Vrindavana.” And so it happened. <!-- F45 F46 F47 F216 -->
 
 Countless crowds followed the Lord, and so He came to Ramakeli on the Ganga, near Gauda. Even the badshah Hussain Shah
 was amazed at His influence and grew alarmed, suspecting Him of a political aim. At first the king was reassured by the
@@ -832,6 +832,200 @@ Vrindavana by way of Gauda.[^39] In Gauda he divided his movable and immovable p
 kept there brought to him and distributed it to relatives, brahmanas and temples; because of this he was delayed in Gauda
 for nearly a year. <!-- F207 F208 F209 I17 -->
 
+## Life in Vraja
+Having settled in Vrindavana, the brothers carried out the Lord's command:
+
+“Having met in Vrindavana, the two brothers began to live together, carrying out the will of Sri Chaitanya. They
+collected many sacred scriptures and searched out all the forgotten holy places. At these places they built shrines and
+began the worship of Krishna there.” (CC, Antya 4.217–218)
+
+Of Rupa's books Kaviraja writes:
+
+“Rupa Gosvami too has many works. The most important of his books is the ‘Bhakti-rasamrita-sindhu.’ In it he described the
+essence of the bhakti-rasas, loving service to Krishna in various spiritual relationships with Him. He also wrote the book
+‘Ujjvala-nilamani,’ by which we can understand the greatness and essence of the loving relationships between Sri Radha and
+Sri Krishna. He also composed two plays: ‘Vidagdha-madhava’ and ‘Lalita-madhava.’ From them we can learn everything about
+the rasas with which Krishna's pastimes are filled. Sri Rupa wrote many books, such as the ‘Dana-keli-kaumudi.’ In all he
+composed more than a hundred thousand verses in Sanskrit. In all his books he described in detail the nature of
+transcendental loving relationships with Krishna in Vrindavana.” (CC, Antya 4.223–226)
+
+Of the books themselves we shall speak below, in the section “Works.” <!-- F210 F211 Q47 -->
+
+Describing the branches of Gaurasundara's tree of prema, Krishnadasa Kaviraja speaks also of the branch of Rupa and
+Sanatana:
+
+“By the sweet will of the gardener, Sri Chaitanya, the branches of Sri Rupa and Sanatana grew so much that they covered
+all the western lands. Spreading as far as the river Indus and the Himalayas, those branches embraced all of India,
+including all the holy places of pilgrimage such as Vrindavana, Mathura and Haridvara. The fruits of divine love that grew
+on these branches the devotees distributed generously everywhere. Having tasted the nectar of this love, all people became
+intoxicated. Usually the people of the western provinces were unprincipled and unwise. But the preaching of Sri Rupa and
+Sanatana Gosvami transformed them, giving them an understanding of how to live properly in devotion to Krishna. Acting in
+full accord with the instructions of the scriptures, these two Gosvamis discovered the forgotten holy places and
+established proper worship of the Deities in Vrindavana.” (CC, Adi 10.86–90) <!-- F212 Q48 -->
+
+How the brothers lived in Vrindavana, performing bhajana all eight praharas of the day, was told in Puri by Vaishnava
+eyewitnesses:
+
+“‘They live in the forest without a home of their own. Every night they sleep under a different tree. Sometimes they come
+to the houses of brahmanas and collect a little alms. Having given up all enjoyments, they eat only dry flatbread and
+roasted chickpeas. Their only possessions are a water pot, a patchwork blanket and a worn cloth. They constantly chant the
+names of Krishna, speak of Him and dance in jubilation. They worship Krishna all day and night and sleep only an hour and
+a half. And sometimes for several days without sleep they perform nama-sankirtana in the bliss of divine love. They write
+books devoted to bhakti-rasa. Sometimes they hear about Sri Chaitanya or become absorbed in thinking of Him.’ Hearing
+such words, Mahaprabhu's personal associates felt great happiness and exclaimed: ‘Can one be surprised at the deeds of one
+who has received Sri Chaitanya's mercy? For him nothing is impossible.’” (CC, Madhya 19.127–132)
+
+The alms spoken of here is madhukari: a handful of food from door to door, as a bee gathers honey from flowers.
+<!-- F213 Q49 Q50 -->
+
+Srila Bhaktisiddhanta Sarasvati explains (“Anubhashya” on CC, Madhya 19.131): the Gosvamis now chanted the Name, now
+worshipped the Lord by writing books on bhakti-rasa, now remembered and glorified Mahaprabhu. The view of the
+prakrita-sahajiyas that sadhana requires giving up the study and writing of the shastras for the sake of “ignorance” is
+foreign to the Rupanugas; but whoever studies or writes for money, fame and honour grows weeds and will not obtain the true
+fruit, and a genuine Rupanuga does not seek such petty gains. <!-- I19 -->
+
+Drawn by the bhajana of Rupa and Sanatana and by the Lord's earlier instructions, Raghunatha Bhatta, Gopala Bhatta and
+Raghunatha Dasa Gosvami came to Vrindavana, and Jiva Gosvami at Nityananda's merciful bidding. Following Rupa and Sanatana,
+they preached Gaurasundara's innermost desire; the brothers' example drew the other Gosvamis to Vrindavana, and all of them
+are followers of Rupa. Soon after Lokanatha had settled in Vrindavana at the Lord's bidding, Rupa, Sanatana, Gopala Bhatta
+and others began to come there to live, and their company gladdened Lokanatha; they were all of one mind and heart, and
+Lokanatha was the eldest among the Gosvamis.[^40] <!-- F214 F215 I18 -->
+
+Jiva recalls in the “Laghu-toshani” that Gopala Himself, in the form of a cowherd boy, appeared to the two brothers,
+bringing them milk (kshira-aharana-lila), and that Raghunatha Dasa was their renowned friend, whom the best of the Aryas
+regarded as their equal. Rupa and Sanatana were also the first to found the Sri Vishva-vaishnava-raja-sabha, “the assembly
+of the king of the Vaishnavas of the whole world”; it was founded anew on 5 February 1919 in Calcutta. <!-- F217 F218 -->
+
+## Sri Govinda-deva
+In Vrindavana Rupa established the service of Govindaji, and Sanatana that of Madana-mohana: as Madana-mohana was the
+treasure of Sanatana's life, so Govinda was the lord of Rupa's life. Krishnadasa Kaviraja, naming the three Deities of
+Vrindavana — Madana-mohana, Govinda and Gopinatha — says:
+
+“These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
+feet, for They are the Lords of my life.” (CC, Adi 1.19)[^41] <!-- F219 F220 Q50 -->
+
+Among the obeisances to the three lords of Vrindavana at the beginning of the “Chaitanya-charitamrita,” Kaviraja bows to
+Govinda as the lord of abhidheya:
+
+“I pray for the mercy that will help me constantly remember the Divine Couple, Sri Sri Gandharva-Govindasundara, seated on
+a throne adorned with shining jewels in the forest of Vraja, beneath a mind-enchanting wish-fulfilling tree and surrounded
+by Their closest maidservants (sakhis and manjaris).” (CC, Adi 1.16)
+
+Srila Bhaktisiddhanta Sarasvati explains: Madana-mohana is the Deity of sambandha, and the acharya of sambandha is Sanatana;
+Govinda is the Deity of abhidheya, who accepts service, and the acharya of abhidheya is Rupa; Gopinatha is the Deity of
+prayojana, and the acharya of prayojana is Raghunatha Dasa. Rupa shows how to serve Radha and Krishna, and therefore Rupa's
+feet are the highest goal even for the acharya of prayojana, Raghunatha Dasa. <!-- F221 Q57 I22 -->
+
+How Rupa revealed the service of Govinda is told in the “Bhakti-ratnakara” (2nd taranga, 422–453), following the verses of
+the “Sadhana-dipika” of Radhakrishna Gosvami, a disciple of Haridasa Pandita Gosvami, who lived in Vraja-mandala.[^42]
+Krishnadasa Kaviraja calls Haridasa Pandita the superintendent of Govinda's service (CC, Adi 8.54). Pandita Banamali Lala
+Gosvami of the Radha-ramana-ghera in Vrindavana spoke in 1940 of a “Sadhana-dipika” by Narayana Bhatta, but the
+“Sadhana-dipika” quoted in the “Bhakti-ratnakara” is the work of Radhakrishna Gosvami. This book beautifully glorifies
+following Rupa: “With those who stand outside the siddhanta of Rupa, the ocean of mercy, travellers on the path of raga
+should not converse about prema-rasa. I bow to the feet of Rupa, by whose mercy even an ignorant person grasps his
+teaching.” And again: “Tongue, always utter the name ‘Rupa’! Mind, remember Rupa, the embodiment of compassion! Head, bow
+before Rupa of the merciful glance — and before Raghunatha Dasa, his second body, who has no equal.”
+<!-- F222 F223 F224 F225 F226 Q51 Q52 -->
+
+According to the “Sadhana-dipika,” having come to Vrindavana at the Lord's bidding, Rupa found no Deity there and grieved
+deeply. He searched for his beloved Lord through the forests of Vraja, through the villages, in every house of the
+Vrajavasis, and, not finding Him, one day sat under a tree on the bank of the Yamuna and wept, burning in separation from
+Krishna. Then a handsome Vrajavasi came up to him and in a sweet voice asked why he was sad. Rupa told him of the Lord's
+instructions. The man led him to the hill of Goma-tila and said, “Every morning a cow (kamadhenu) comes here and pours out
+her milk of her own accord; understand what this means and do what is needed,” and vanished.[^43] At his words and his
+form Rupa fainted in prema, and on coming to himself understood: “Krishna came and spoke with me, and I did not recognise
+Him.” He understood the secret and announced to the Vrajavasis that here was the Yoga-pitha and here Govinda-deva lay
+hidden. All the Vrajavasis — children, old men, youths — with hearts melted by love began to dig and, by the mercy of
+Baladeva, beheld within the Yoga-pitha the face of Govinda, who enchants millions of Kamadevas.[^44] It is said that this
+Govinda was originally worshipped by Krishna's great-grandson Vajranabha.[^45] <!-- F227 F228 F229 F230 F231 -->
+
+Rupa informed Gaurasundara in Nilachala by letter, and the Lord, greatly pleased, told “the strong” Kashishvara to go to
+Vrindavana to help Rupa and Sanatana; Kashishvara did not want to leave the Lord. Then the Lord brought the Deity of
+Krishna that stood beside Jagannatha and said, “Know that He is non-different from Me.” The Deity and Mahaprabhu took food
+together, and Kashishvara, bowing down, carried the Deity of Sri Sri Gaura-Govinda to Vrindavana: this is Mahaprabhu
+standing beside Govinda. The “Sadhana-dipika” prays: “May Gaura-Govinda be merciful to me, whose feet by their radiance
+surpass Madana, whose face puts to shame the lotus and the jewel, at whose feet Rupa took shelter.”[^46]
+<!-- F232 F233 F234 F235 Q53 -->
+
+The “Bhakti-ratnakara” (6th taranga, 92–110, also following the verses of the “Sadhana-dipika”) tells of the Deity of Radha
+too. A South Indian brahmana, Brihadbhanu, a great Vaishnava, settled in the village of Radhanagara in Utkala; the Deity of
+Srimati Radharani came from Vrindavana to his house, and he served Her as a daughter, in vatsalya-rasa. After Brihadbhanu's
+passing, the king of Utkala, Prataparudra, hearing of this, himself came to Radhanagara for darshana, and at night in a
+dream Radhika told him to take Her to the temple of Jagannatha; there She was installed with great reverence at a place
+called Chakraveda (Chakraberha), and ordinary people honoured Her as Lakshmi. Then She gave a command in a dream to the
+prince Purushottama Jana, and the Deity with many people set out from Sri Kshetra for Vrindavana and was installed to the
+left of Govinda-deva (“Bhakti-ratnakara,” 6.107); all in Gauda, Utkala and other lands came to know of it.
+<!-- F236 F237 F238 Q54 -->
+
+The huge temple of Govinda-deva, with its seemingly broken summits, draws every eye; it stands on the high hill of
+Goma-tila, west of the broad road from Mathura to Vrindavana. Its construction is told of in various ways; it is said to
+have been built of red Jaipur sandstone by the famous Man Singh, king of Amber, who in 1590 renewed an earlier structure
+and added to it. Growse, the authority on Mathura, in “Mathura: A District Memoir,” called the temple of Gobind Deva not
+only the finest of its series but the most impressive religious edifice of Hindu art, at least in Northern India. The
+enclosure around the temple is called the “Govindera ghera.” On either side of the jagamohana stands a small temple; the
+interior of the southern one is called the Yoga-pitha — it is said that Govinda was found there. Going down the steps, one
+comes to a narrow dark place where the pujaris show by lamplight the Deity of Yogamaya; there too is a footprint of
+Krishna. On the north wall of this small temple there is an inscription in Devanagari: in the thirty-fourth year of
+Akbar's reign the maharajadhiraja Man Singh, son of Maharaja Bhagavan Dasa, of the line of Prithviraja, built the temple on
+the Yoga-pitha of Vrindavana for Govinda-deva; the work was supervised by Kalyana Dasa, the sculptor was Manikchand Chopang,
+the mason Govinda Dasa (Dilvali); at the end is what appears to be a signature — Ganesha Dasa Bimabala. From the date of the
+inscription it is clear that the temple was built many years after Govinda-deva's appearance.
+<!-- F239 F240 F243 F244 F245 F246 -->
+
+Govindaji, revealed on Goma-tila, was at first served in a simple hut. Krishnadasa Kaviraja writes of Raghunatha Bhatta,
+whose life was in Govinda alone:
+
+“Later he instructed his disciples to erect a temple for Lord Govinda. He personally made many different ornaments for the
+Deity of Govinda, such as a flute and earrings in the shape of the mythical sea creature.” (CC, Antya 13.131)
+
+The CC names neither this disciple of Raghunatha Bhatta nor the builder of the temple. <!-- F247 F248 Q55 -->
+
+Aurangzeb, it is said, destroyed the main temple and its five upper towers. Tradition relates that the badshah from his
+distant palace in Agra saw every day a bright light on the summit of Govinda's temple and out of envy could not bear that
+the temple stood higher than his pleasure palace; he sent troops to destroy the temples of Mathura and Vrindavana, but the
+priests, learning of it through spies, at once carried their Deities away by forest paths. So Govinda-deva came to Jaipur,
+where He is served to this day.[^47] But just as Ravana, having stolen only Sita's shadow, thought he had stolen Sita
+herself, the Lord's svarupa-shakti, so it was here: enemies touch only the outward. The almighty Lord plays at being
+helpless, the protector of Brahma and Shiva as if in need of protection; this wonderful pastime attracts the service of the
+devotees and bewilders those who have turned away from Him. <!-- F240 F241 F242 I20 -->
+
+According to the “Sadhana-dipika” (in the “Bhakti-ratnakara,” 2.449–453), at the Lord's bidding the merciful Rupa also
+revealed Vrinda-devi, on the bank of the Brahma-kunda. It is said that She resided in a small temple north of the
+Govinda-ghera and has now been moved to Kamyavana. <!-- F249 -->
+
+In the “Bhakti-rasamrita-sindhu” Rupa describes the “ruin” that the darshana of Govinda brings:
+
+“Friend, if you value the company of your kinsfolk, do not look at Govinda standing at Keshi-ghata — smiling, bent in three
+places, with sidelong glance, with the flute at His lips tender as young shoots, with a peacock feather in His hair.”
+(“Bhakti-rasamrita-sindhu,” 1.2.239)[^48]
+
+Its meaning is that the darshana of Govinda takes away the taste for everything else. <!-- F250 Q56 I21 -->
+
+Baladeva Vidyabhushana, at the beginning of his commentary on Rupa's “Govinda-virudavali,” tells how it came to be. A
+certain poet from the South recited a laudatory “deva-virudavali,” and Govinda, pleased with the elegance of its words and
+meaning, gave him the garland from His neck. Rupa wondered: how could Govinda, the Lord of all, be pleased on hearing a
+“deva-virudavali”? And one day, while Rupa slept, Govinda said to him, “Compose My virudavali with such-and-such
+characteristics.” <!-- F251 F252 -->
+
+In Krishnadasa Kaviraja's time Govinda was served by His beloved servants. The “Chaitanya-charitamrita” says:
+
+“In the most intimate temple of Vrindavana, beneath wish-fulfilling trees, there is a golden throne adorned with jewels. On
+that golden throne the son of Nanda Maharaja, Sri Govinda, the God of Love Himself, is ever seated. In that temple Sri
+Govinda is worshipped, served by the highest standard. His garments, ornaments and paraphernalia are divine and wholly
+spiritual. Thousands of servants serve Sri Govinda unceasingly. And even tens of thousands of mouths would not suffice
+merely to describe this worship. At that time the superintendent of this temple was Sri Haridasa Pandita. His virtues and
+fame were known to the whole world.” (CC, Adi 8.50–54)
+
+“Kashishvara Gosvami had a disciple named Govinda Gosvami, who was a dear servant of the Deity of Govinda in Vrindavana.”
+(CC, Adi 8.66)
+
+“And the disciple of Gadadhara Pandita named Bhugarbha Gosvami also spoke only of the deeds of Sri Chaitanya. Other topics
+did not interest him at all. The disciples of Bhugarbha Gosvami were Chaitanya Dasa (the servant of the Deity of Govinda),
+Mukundananda Chakravarti and Krishnadasa, full of divine love.” (CC, Adi 8.68–69)
+
+Haridasa Pandita was a disciple of Ananta Acharya, a disciple of Gadadhara Pandita; Govinda Gosani, a disciple of “the
+strong” Kashishvara, was a great servant of Sri Govinda. <!-- F253 F254 Q58 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -870,7 +1064,9 @@ for nearly a year. <!-- F207 F208 F209 I17 -->
     also houses Nitai-Gauranga and Advaita, and the ponds are named thus: Radha-kunda, Shyama-kunda, Surabhi-kunda,
     Lalita-kunda, Vishakha-kunda and Sanatana-sagara.
 [^12]: According to another account (retelling CC, Madhya 1), after spending five years in Puri the Lord went to Bengal
-    to see the Ganga and His mother, stayed several days with Advaita in Shantipura and from there went to Ramakeli.
+    to see the Ganga and His mother, stayed several days with Advaita in Shantipura and from there went to Ramakeli. The same account does not describe
+    separately Rupa's leaving royal service, Prayaga or Puri, and mentions the Lord's meeting with Rupa and Sanatana also
+    in its retelling of Lochana Dasa's “Chaitanya-mangala” (Shesha-khanda, ch. 2) — right after the Lord's visit to Mathura.
 [^13]: He is also called Keshava Khatri and Keshava Kshatriya. According to one biography, he assured the king that the
     Lord had only three or four companions.
 [^14]: According to one biography, the brothers came in the evening to a tree on the bank of the Ganga where the Lord was
@@ -938,3 +1134,26 @@ for nearly a year. <!-- F207 F208 F209 I17 -->
     same road for Vraja, and Rupa soon joined him, so that the brothers met again more than a year after parting; according
     to a third, having at last returned to Vrindavana, Sanatana met Rupa again, and both remained to carry out
     Mahaprabhu's commands.
+[^40]: The order in which they came to Vrindavana is told differently: according to one biography, Rupa and the others came
+    there after Lokanatha; according to another, a few days after coming to Vrindavana Lokanatha met Rupa, Sanatana, Gopala
+    Bhatta, Bhugarbha and others there.
+[^41]: One biography calls Gopinatha the Deity of Raghunatha Dasa; usually, however, the Gopinatha of Vrindavana is
+    associated with Madhu Pandita. This is apparently a transfer to the Deity of Srila Bhaktisiddhanta's scheme, in which
+    Raghunatha Dasa is the acharya of prayojana (see below).
+[^42]: One biography gives the account as “Bhakti-ratnakara” 2.404–437.
+[^43]: According to one biography, this Vrajavasi — a divine person in the form of a handsome resident of Vraja — did not
+    lead Rupa to the hill but consoled him: “Do not worry: Govinda is on the hill of Goma-tila, the Yoga-pitha of Vrindavana;
+    every morning a cow comes there and gladly gives Him milk,” and vanished.
+[^44]: According to another opinion, Rupa revealed Govinda-deva not from the Yoga-pitha near Goma-tila but from Sri
+    Govinda-kunda.
+[^45]: One biography calls Vajranabha Krishna's grandson; in fact he is Krishna's great-grandson.
+[^46]: According to one biography, when Madana-mohana appeared to Sanatana and Sanatana began to serve Him with an
+    abhisheka, Rupa, seeing the wonderful Deity, was filled with prema and informed Mahaprabhu in Puri of it through a
+    messenger.
+[^47]: The Deity's route is told differently: according to one biography, Govinda went straight to Jaipur; according to
+    another, first to Bharatpur, then to Jaipur; according to a third, a prince of Amber took Him to Galta near Amber, the
+    chief seat of the Ramanandis, and Raja Jai Singh built a large temple there and installed in it “the Govinda-deva of
+    Rupa, the guru of Man Singh”; later a dispute arose between the Ramanandis and the Gaudiya priests, in which Baladeva
+    Vidyabhushana took part. That it was Aurangzeb who destroyed the temple one biography puts in question; according to
+    another, the upper storey of the seven-storeyed temple was destroyed.
+[^48]: One biography gives Purva 2.111.
