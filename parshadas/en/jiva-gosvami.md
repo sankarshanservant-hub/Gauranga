@@ -941,6 +941,110 @@ may He appear in all our senses”.
 
 “Race” and “flute” are one word in Sanskrit, “vamsha”, and Jiva plays upon it. <!-- F227 Q49 -->
 
+### “Bhakti-rasamrita-shesha”
+The “Bhakti-rasamrita-shesha” is a supplement (parishishta) to Rupa's “Bhakti-rasamrita-sindhu”. Rupa had not set out the
+teaching on the ornaments of speech (alankaras), on the merits and faults of style, on diction (riti) and the like; Jiva
+briefly supplied this, taking as his basis the treatise “Sahitya-darpana” of Vishvanatha Kaviraja. The third, fifth and
+sixth chapters of the “Sahitya-darpana” he left out as unsuitable, but otherwise he follows its order exactly, giving all
+his examples in the spirit of bhakti. The book has seven “prakashas”: on the nature of poetry; on the nature of speech and
+related matters; on dhvani, suggestion; on the ornaments of sound and sense; on faults; on diction; on merits.
+<!-- F228 F229 F234 -->
+
+The introduction (verses 1–9) begins with the glory of Rupa. The beauty of the service of Rupa, who took shelter at the
+feet of Radha-Krishna, has spread wonderfully over the earth; from the wealth of his service appeared the
+“Bhakti-rasamrita-sindhu”, nourishing bhakti in countless worlds; and from this ocean of the nectar of rasa rose the
+“Ujjvala-nilamani” — a sapphire that seems to eclipse the radiance of Hari, who came forth from the Milk Ocean. This ocean
+also left behind a precious “ornament” (alankara), and Jiva gathered it for Hari to compose a “mirror of literature”.
+Given to the unworthy, to people without God, such an ornament grows dim; therefore the book is dedicated to Sri Murari —
+let it find its highest beauty in its proper place. Hari can accept literature full of descriptions of Himself as an
+ornament for His ear, and Jiva will fill it with descriptions of Bhagavan for His pleasure. <!-- F230 F231 -->
+
+There too Jiva defines poetry. Poetry is speech full of rasa: rasa is its soul, the words its body. Wonder (adbhutata)
+pervades all the rasas, for the essence of poetry is astonishment (chamatkriti); therefore wonder alone, like Brahman, is
+the soul of all the rasas, and poetry is speech that carries the wonderful through word and sense. The knowers of
+Krishna-bhakti distinguish mundane (prakrita) and transcendental (aprakrita) poetry by the difference of rasa: the first
+is utterly repellent or dreadful, the second grants every good. The one pure standard here is the
+“Srimad Bhagavatam”, the fifth Veda. Thus poetry about Bhagavan proves to be of an altogether different nature from
+mundane poetry. <!-- F232 F233 Q50 I20 -->
+
+When the book was written can be deduced from the book itself. In the second prakasha an example of suggestion based on
+the literal sense is given “as in the «Sri Gopala-champu»”; so the “Bhakti-rasamrita-shesha” was written after the
+“Gopala-champu”, which, by Jiva's own words in its conclusion, he completed in 1649 Samvat (1514 Shaka). Hence the
+“Bhakti-rasamrita-shesha” was composed after 1514 Shaka. <!-- F235 -->
+
+### “Madhava-mahotsava”
+The “Madhava-mahotsava” is a mahakavya, a great poem, describing in detail how Sri Sri Radharani was anointed (abhisheka)
+as queen in Vrindavana. The poem is called “the festival of Madhava” either because the anointing took place on the full
+moon of the month of madhu (chaitra), or because Sri Madhava Himself performed it. Its nine ullasas bear names of Radhika
+in different states: “Utsuka-”, “Unmanyu-”, “Utphulla-”, “Udyota-”, “Udita-”, “Unnata-”, “Utsikta-”, “Ujjvala-” and
+“Unmada-radhika”. <!-- F236 F237 -->
+
+The introduction of the first ullasa has eight verses. The first glorifies the rays of Sri Krishna, whose body Sri Radhika
+embraces and who has been sprinkled with the waters of Her anointing: as a cloud with peacocks delights people's eyes, so
+may the rays of Radha-Krishna, bathed in the water of the anointing, delight the eyes of the sakhis. The second verse is
+about Gaura:
+
+“He who is renowned as «Sri Krishna Chaitanya», who appeared in the ocean of Sri Shachi's womb, Himself an ocean of the
+nectar of pure bhakti-rasa, the golden Srimad Gaurachandra — may He spread in my heart the garland of His rays”.
+
+The third is about Sanatana:
+
+“He who, known to all by the name «Sanatana», found his temple-abode in the groves of Vrindavana — may he place his feet
+upon my head”. (“Madhava-mahotsava”, 3)
+
+One of the biographies understands these words thus: to the very end Sanatana lived in Vrindavana and went nowhere else
+(see the article on him). <!-- F239 F240 F241 Q52 -->
+
+In the fourth verse Jiva says that he undertook this transcendental book at Rupa's command: the mercy of his Prabhu, Sri
+Rupa Gosvami, joyful of heart, boundlessly merciful and honoured by all, is his only support; other strength — of learning
+or of sadhana — he has none. May the book please Hari's own. In the fifth he prays that speech bearing his Prabhu's command
+may appear of itself, without strain, as a new transcendental poem adorned with merits, rasa, bhava and alankaras, worthy of
+the great festival of Sri Radha-Madhava. The sixth is addressed to his father: may he be protected by his merciful father,
+Srila Vallabha, the own brother of Rupa and Sanatana, known to all for his firm devotion to the service of Sri Rama, and a
+sadhu very dear. In the seventh Jiva speaks again of his guru's command: inspired by it, he begins the book, and by Rupa's
+mercy his followers, having read it, will surely be pleased. And the eighth explains why what is described is no
+invention: the “Padma”, the “Brihad-gautamiya” and the “Matsya Purana” speak of the same, and “my Prabhu Srila Rupa”
+described this festival of anointing in the “Dana-keli-kaumudi”; therefore the author tells of it with joy.
+<!-- F242 F243 F244 F245 F246 -->
+
+The closing verse of the poem can be read in two ways: “I always worship Sri Krishna, the sole giver of the highest good
+to both worlds, whose feet are to be cherished like a treasure and who grants love for His feet”, or: “…Sri Rupa Prabhu,
+whose chosen Lord is Sri Krishna”. The time of completion is given in a verse: living in Vrindavana, Jiva finished this
+new poem, fulfilling his heart's desire, in 1477 Shaka (the Sanskrit “sapta-sapta-manau” — “seven, seven, fourteen”; about
+1555). <!-- F247 F248 Q53 Q54 -->
+
+Later Jiva revised the poem. In his first letter to Srinivasa (on which see above) he writes: “In the «Sri
+Rasamrita-sindhu», the «Sri Madhava-mahotsava», the «Uttara-champu» and the «Harinamamrita» some corrections still remain.
+Now that the rainy season has come they are not being sent; they will be sent later, when fate allows”.
+(“Bhakti-ratnakara”, 14.19) <!-- F238 Q51 -->
+
+### “Sankalpa-kalpadruma”
+Having written the “Gopala-champu” — a harmonization, a true conclusion and a commentary (bhashya) on Krishna's pastimes in
+the Tenth Canto of the “Bhagavatam” — Jiva issued as its table of contents (anukramanika) the “Sankalpa-kalpadruma”, or
+“Sankalpa-kalpa-vriksha”, in which he described the eternal pastimes of Sri Sri Radha-Govinda and others. The book is called
+“the wish-fulfilling tree for all resolves” because it fulfils every resolve connected with Bhagavan: whatever one asks of
+it about Him, one receives. It contains 275 verses on Krishna's birth and the pastimes that followed, 315 on the eternal
+pastimes of Sri Sri Radha-Madhava, 131 on the pastimes of Radha-Govinda in the six seasons, and 10 on attaining the fruit.
+<!-- F249 F250 F251 -->
+
+The mangalacharana begins with a verse that Jiva also places at the beginning of both parts of the “Gopala-champu” and in
+its conclusion:
+
+“O Sri Krishna, Sri Krishna Chaitanya with Sanatana and Rupa, Gopala, Raghunatha, my close friend, Vraja-vallabha —
+protect me”.
+
+The Bengali retelling explains: here Jiva calls for help on Krishna, Sri Krishna Chaitanya, Rupa, Sanatana, Gopala Bhatta,
+his supreme friend Raghunatha Dasa and his father Vallabha.[^44] Next comes a salutation to Krishna in the form of Gopala:
+to the son of Nanda and son of the cowherd woman, who increases the joy of the three worlds, the lord of the eternally
+perfect gopis, dark as a new cloud, lotus-eyed. <!-- F252 Q55 -->
+
+In the conclusion Jiva names as his shelter his two uncles, Rupa and Sanatana, peerless among true devotees — his Prabhus,
+who instructed him and showed him the right path, or, by the Sanskrit text, granted him service to themselves: may they
+for ever be his only refuge. Again and again he bows to Sri Madhusudana Krishna, who holds the flute: when Jiva lived by
+the Ganga, He gave him, in waking life, the shruti that bestows prema, and in Vrindavana — in dream and in other states —
+the highest “trayi”. As all his possessions are given to the feet of Sri Sri Radha-Krishna, so this book too, full of
+Their forms, qualities and pastimes, is given to the feet of the youthful divine Couple of Vraja. <!-- F253 F254 F255 Q56 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -1108,3 +1212,6 @@ may He appear in all our senses”.
 
 [^43]: According to another biography, Sanatana gave the “Vaishnava-toshani” to Jiva to revise, and Jiva completed the
     revised text, naming it the “Laghu-toshani”, in 1504 Shaka.
+
+[^44]: The address “vraja-vallabha” (“beloved of Vraja”) is taken by the Bengali retelling in one of the biographies to
+    refer to Jiva's father, Vallabha (Anupama).
