@@ -4129,6 +4129,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -5675,6 +5679,10 @@
     "type": "met"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "deity-served"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "deity-served"
    },
@@ -6021,6 +6029,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "deity-served"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "deity-served"
    }
@@ -6291,6 +6303,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "deity-served"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -14198,6 +14214,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -17558,6 +17578,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "friend"
    },
@@ -18670,6 +18694,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -19472,6 +19500,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "siksha-guru"
    },
    {
     "from": "@ramananda-raya",
@@ -21446,6 +21478,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "co-worker"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -22542,6 +22578,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "served-by"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "co-worker"
    }
@@ -23314,6 +23354,10 @@
     "type": "met"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "friend"
    },
@@ -23600,6 +23644,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "co-worker"
    },
@@ -23828,6 +23876,10 @@
   ],
   "related_by": [
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "co-worker"
    },
@@ -23892,6 +23944,10 @@
    "ev-raghunatha-bhatta-first-visit-puri"
   ],
   "related_by": [
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "father"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "host"
@@ -23967,6 +24023,198 @@
    "ev-prema-bhakti-chandrika",
    "ev-rupa-narayana"
   ],
+  "summary": "в Кришна-лиле — Рага-манджари (ГГД 185); происхождение — Восточная Бенгалия (Бангадеша); уход — шукла-двадаши месяца Ашвина; самадхи — Вриндаван",
+  "card": "parshadas/cards/raghunatha-bhatta.yaml",
+  "article": {
+   "ru": "parshadas/ru/raghunatha-bhatta.md",
+   "en": "parshadas/en/raghunatha-bhatta.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "puri",
+   "vrindavana",
+   "goswamis"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1505 (1427 Шака)",
+    "tithi": "",
+    "place": "#kashi?",
+    "conf": "1505 — старая кадача (B), M; T — около 1503; Бхактисиддханта — около 1425 Шака; место рождения книги не называют (семья жила в Каши); в нашем календаре дня явления нет",
+    "facts": [
+     "F17",
+     "F29",
+     "F30"
+    ]
+   },
+   "disappearance": {
+    "date": "1579 (1501 Шака)",
+    "tithi": "шукла-двадаши месяца Ашвина (по нашему календарю — Гаура-двадаши месяца Падманабха)",
+    "place": "#vrindavana",
+    "conf": "год — кадача (B), M; T — 1579 или 1580; титхи — навадвипская панджика (B) и наш календарь (общий день с Рагхунатхой Дасом и Кришнадасом Кавираджем, ср. B 504); кадача даёт джьештха шукла-дашами, что Бхактивинода счёл противоречащим альманаху",
+    "facts": [
+     "F29",
+     "F31",
+     "F32",
+     "F76"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#vrindavana",
+     "facts": [
+      "F77"
+     ],
+     "note": "Только T по «Бхакти-ратнакаре»; точное место не названо."
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Рага-манджари",
+    "source": "ГГД 185",
+    "level": "A",
+    "variants": [
+     "B и T добавляют «живущая в хижине у Радха-кунды»; по нашему переводу ГГД эти слова относятся к Рагхунатхе Дасу (ГГД 185–186)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@tapana-mishra"
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Мальчиком служил Ему в Каши; дважды по восемь месяцев в Пури; наставления (не жениться, служить родителям, изучать «Бхагавату»), посылка во Вриндаван, «передача силы» (песня Радхаваллабхи), гирлянда и бетель-прасад. Дикша-гуру книги не называют."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@rupa-gosvami",
+    "note": "Жил под его прибежищем, читал «Бхагавату» в его собрании; в его свите в Матхуре; B: неотличен от Рупы, венец рупануг."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@sanatana-gosvami"
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Один из шести шикша-гуру Кавираджа (ЧЧ Ади 1.36–37)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-dasa",
+    "note": "Двое Рагхунатх Госвами; общий день ухода (наш календарь, B 504); B сопоставляет наставления Господа им обоим."
+   },
+   {
+    "type": "companion",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami"
+   },
+   {
+    "type": "companion",
+    "who": "@svarupa-damodara",
+    "note": "Господь представил его Сварупе; уходя в Каши, взял позволение Сварупы и других (B 502 по скану)."
+   },
+   {
+    "type": "companion",
+    "who": "@ramadasa-vishvasa",
+    "note": "Спутник в пути в Пури, нёс его поклажу и служил ему."
+   },
+   {
+    "type": "served-by",
+    "who": "@govinda-servant",
+    "note": "По велению Господа дал ему жильё и прасад."
+   },
+   {
+    "type": "co-worker",
+    "who": "@jagadananda-pandita",
+    "note": "Помогал ему готовить для Господа (T)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-deity",
+    "note": "Стопы Говинды — сокровище его жизни; через ученика построил храм Говинды; украшения — ученик (B) или он сам (T, M)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "note": "Гирлянда туласи Джаганнатхи — его иштадева."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-vaidya"
+   },
+   {
+    "type": "other",
+    "who": "@anupama"
+   },
+   {
+    "type": "other",
+    "who": "@vitthalanatha"
+   },
+   {
+    "type": "other",
+    "who": "@shrinathji-deity",
+    "note": "Гопала-дева, увиденный в Матхуре со свитой Рупы."
+   },
+   {
+    "type": "other",
+    "who": "@balabhadra-bhattacharya",
+    "note": "Готовил для Господа в доме Тапаны (M)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Скрылись до прихода Шринивасы (вместе с Рупой и Санатаной)."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Пришёл во Врадж уже после его ухода; у его самадхи (T по БР)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "other",
+    "who": "@bhugarbha"
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta"
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Кадача из его собрания; заметка о дате ухода."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья»: явление около 1425 Шака; шикша-парампара (M)."
+   },
+   {
+    "type": "other",
+    "who": "@radhavallabha-dasa-poet",
+    "note": "Песня-«сучака» о нём (B 505–506); отождествление автора с учеником Шринивасы — по @sanatana-gosvami F426."
+   }
+  ],
   "related_by": [
    {
     "from": "@rupa-gosvami",
@@ -24028,6 +24276,10 @@
    "ev-narottama-path-vision"
   ],
   "related_by": [
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "host"
@@ -24618,6 +24870,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
    },
    {
     "from": "@rupa-gosvami",
@@ -25281,6 +25537,10 @@
    },
    {
     "from": "@raghunandana",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
     "type": "other"
    },
    {
@@ -27218,6 +27478,10 @@
     "type": "met"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "friend"
    },
@@ -27411,6 +27675,10 @@
    "ev-gosvamis-ancestry"
   ],
   "related_by": [
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "sibling"
@@ -27623,6 +27891,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
    },
    {
     "from": "@rupa-gosvami",
@@ -28157,6 +28429,10 @@
    {
     "from": "@raghunandana",
     "type": "protege"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -28743,6 +29019,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "lineage-successor"
    },
@@ -28986,6 +29266,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -29972,6 +30256,10 @@
    {
     "from": "@raghunandana",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "siksha-disciple"
    },
    {
     "from": "@ramananda-raya",
@@ -32319,6 +32607,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "host"
    }
@@ -32597,6 +32889,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -32657,6 +32953,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-bhatta",
     "type": "other"
    },
    {
@@ -39922,6 +40222,12 @@
   ],
   "events": [
    "ev-raghunatha-bhatta-first-visit-puri"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -40572,6 +40878,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "other"

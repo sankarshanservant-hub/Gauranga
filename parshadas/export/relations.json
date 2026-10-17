@@ -4862,6 +4862,346 @@
   "note": "⚠ M pdf 294: пада о киртане, где пляшут Рамаи и Рагхунандана, — тождество неясно."
  },
  {
+  "from": "@raghunatha-bhatta",
+  "type": "father",
+  "who": "@tapana-mishra",
+  "facts": [
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F24",
+   "F25",
+   "F54"
+  ],
+  "events": [
+   "ev-tapana-mishra-east-bengal",
+   "ev-kashi-tapana-mishra"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F19",
+   "F22",
+   "F23",
+   "F24",
+   "F36",
+   "F39",
+   "F42",
+   "F43",
+   "F47",
+   "F48",
+   "F49",
+   "F56",
+   "F57",
+   "F58",
+   "F59"
+  ],
+  "events": [
+   "ev-kashi-tapana-mishra",
+   "ev-raghunatha-bhatta-first-visit-puri",
+   "ev-raghunatha-bhatta-sent-vrindavana"
+  ],
+  "note": "Мальчиком служил Ему в Каши; дважды по восемь месяцев в Пури; наставления (не жениться, служить родителям, изучать «Бхагавату»), посылка во Вриндаван, «передача силы» (песня Радхаваллабхи), гирлянда и бетель-прасад. Дикша-гуру книги не называют."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "siksha-guru",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F6",
+   "F26",
+   "F48",
+   "F56",
+   "F61",
+   "F62",
+   "F63",
+   "F73"
+  ],
+  "events": [
+   "ev-gopala-mathura-vitthaleshvara"
+  ],
+  "note": "Жил под его прибежищем, читал «Бхагавату» в его собрании; в его свите в Матхуре; B: неотличен от Рупы, венец рупануг."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "siksha-guru",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F56",
+   "F61",
+   "F63"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "siksha-disciple",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F5",
+   "F32",
+   "Q14"
+  ],
+  "note": "Один из шести шикша-гуру Кавираджа (ЧЧ Ади 1.36–37)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F5",
+   "F7",
+   "F32",
+   "F46",
+   "I1"
+  ],
+  "note": "Двое Рагхунатх Госвами; общий день ухода (наш календарь, B 504); B сопоставляет наставления Господа им обоим."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F5",
+   "F7",
+   "F8",
+   "F62",
+   "F78"
+  ],
+  "event": "ev-vrindavana-two-teachers-rule"
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F5",
+   "F7",
+   "F62",
+   "F79"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F40",
+   "F50"
+  ],
+  "note": "Господь представил его Сварупе; уходя в Каши, взял позволение Сварупы и других (B 502 по скану)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "companion",
+  "who": "@ramadasa-vishvasa",
+  "facts": [
+   "F34",
+   "F35",
+   "F41"
+  ],
+  "event": "ev-raghunatha-bhatta-first-visit-puri",
+  "note": "Спутник в пути в Пури, нёс его поклажу и служил ему."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "served-by",
+  "who": "@govinda-servant",
+  "facts": [
+   "F38",
+   "F39",
+   "F40"
+  ],
+  "note": "По велению Господа дал ему жильё и прасад."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "co-worker",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F45"
+  ],
+  "event": "ev-jagadananda-sandal-oil",
+  "note": "Помогал ему готовить для Господа (T)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "deity-served",
+  "who": "@govinda-deity",
+  "facts": [
+   "F67",
+   "F68"
+  ],
+  "note": "Стопы Говинды — сокровище его жизни; через ученика построил храм Говинды; украшения — ученик (B) или он сам (T, M)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F39",
+   "F58",
+   "F71"
+  ],
+  "note": "Гирлянда туласи Джаганнатхи — его иштадева."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@chandrashekhara-vaidya",
+  "facts": [
+   "F22",
+   "F36",
+   "F38",
+   "F49"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@anupama",
+  "facts": [
+   "F26"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@vitthalanatha",
+  "facts": [
+   "F73"
+  ],
+  "event": "ev-gopala-mathura-vitthaleshvara"
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@shrinathji-deity",
+  "facts": [
+   "F73"
+  ],
+  "note": "Гопала-дева, увиденный в Матхуре со свитой Рупы."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F21"
+  ],
+  "note": "Готовил для Господа в доме Тапаны (M)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F76"
+  ],
+  "event": "ev-rupa-sanatana-departure",
+  "note": "Скрылись до прихода Шринивасы (вместе с Рупой и Санатаной)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F76",
+   "F77"
+  ],
+  "event": "ev-srinivasa-arrives-vrindavana",
+  "note": "Пришёл во Врадж уже после его ухода; у его самадхи (T по БР)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F78"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F73",
+   "F80"
+  ],
+  "event": "ev-lokanatha-life-vrindavana"
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@bhugarbha",
+  "facts": [
+   "F73",
+   "F75",
+   "F78"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F9",
+   "F19",
+   "Q2"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2",
+   "F3",
+   "Q13"
+  ]
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F29",
+   "F31"
+  ],
+  "note": "Кадача из его собрания; заметка о дате ухода."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F7",
+   "F30"
+  ],
+  "note": "«Анубхашья»: явление около 1425 Шака; шикша-парампара (M)."
+ },
+ {
+  "from": "@raghunatha-bhatta",
+  "type": "other",
+  "who": "@radhavallabha-dasa-poet",
+  "facts": [
+   "F22",
+   "F51",
+   "F59",
+   "F74",
+   "Q15"
+  ],
+  "note": "Песня-«сучака» о нём (B 505–506); отождествление автора с учеником Шринивасы — по @sanatana-gosvami F426."
+ },
+ {
   "from": "@ramananda-raya",
   "type": "father",
   "who": "@bhavananda-raya",
