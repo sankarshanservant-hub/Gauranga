@@ -1784,6 +1784,159 @@ the Lord, since it has no obeisance to Sri Chaitanya. Aufrecht's catalogue menti
 three verses under Raghunatha Dasa's name. Of the tradition that Rupa wrote this merry bhanika to draw Raghunatha out of the
 ocean of separation we have spoken above. <!-- F508 F509 F510 F511 F514 F515 Q79 -->
 
+### “Bhakti-rasamrita-sindhu” and “Ujjvala-nilamani”
+The “Bhakti-rasamrita-sindhu” (“The Ocean of the Nectar of Bhakti-rasa”) is the finest ripe fruit of the wish-fulfilling
+tree of Gaudiya rasa literature, the scientific shastra on bhakti-rasa; of how the Lord in Prayaga told Rupa to write it,
+and of its opening verse, we have spoken above. A detailed review of the book was printed in the journal “Gaudiya” (year
+12, nos. 47–49). Among its conclusions is that mental service (manasi-seva) is higher than service with physical
+articles: Rupa gives the example of a brahmana of Pratishthanapura who by mental service attained the company of Narayana
+in Vaikuntha (1.2.182). <!-- F516 F517 -->
+
+The “Ujjvala-nilamani” (“The Radiant Sapphire”) is the scientific shastra on the ujjvala, or madhura, rasa of Krishna, the
+embodiment of the nectar of all rasas; it unfolds what is said briefly about madhura-rasa in the “Bhakti-rasamrita-sindhu”
+(see above). A review of it was printed in the “Gaudiya” (year 12, nos. 40–41). <!-- F518 -->
+
+### “Prayuktakhyata-chandrika”
+This book has been sought, and is sought to this day, in Vrindavana and elsewhere, but there is no reliable information
+anywhere about a manuscript of it. The compilers of one of the biographies, with their guru and senior Vaishnavas, searched
+for it in the library of the temple at Jaipur (October 1927), in the book collection of the shripata of Gopivallabhapura
+together with Vishvambharananda Deva Gosvami (11 February 1925), in the library of the Ranganathaji temple in Vrindavana,
+in the Madras Government Oriental Manuscripts Library and in various shripatas of Bengal and Orissa — the search is not
+over. Judging by its title, it is, like Jiva's “Dhatu-sangraha,” a special treatise on Sanskrit grammar dealing with the
+akhyata — verbal forms and the use of roots. Colebrooke mentions a Vaishnava grammar, the “Sri Chaitanyamrita”; Baladeva
+Vidyabhushana's grammar “Vyakarana-kaumudi” is almost lost (its manuscript was with Radhacharana Vidyavagisha in
+Vrindavana); and the library of Dacca University holds a manuscript of sixteen leaves attributed to Rupa, the “Sri
+Harinamamrita-vyakarana-sankshepa.” <!-- F519 F520 F521 F522 F523 -->
+
+### “Mathura-mahatmya”
+Jiva calls this book “Mathura-mahima,” Kaviraja “Mathura-mahatmya,” Narahari Chakravarti again “Mathura-mahima”: it is a
+compilation by Rupa of testimonies to the glory of Mathura. It begins with an obeisance to Sri Mathura and the verse: “Hari
+usually grants liberation, but not bhakti, even to those who worship Him; to you, Mathura, who have vowed to give this
+highest gift — obeisance.” Then Rupa says that for the joy of fortunate hearts he gathers the glory of Mathura, crown of
+all tirthas, and cites testimonies to her purifying power — from the “Adi-varaha” (58.1: Mathura-mandala extends twenty
+yojanas, and one who bathes anywhere in it is freed from grave sins) and other shastras. <!-- F524 F526 Q125 -->
+
+The compilation then proceeds thus: Mathura destroys sins, contains countless tirthas, gives shelter to the shelterless,
+is attainable only by Bhagavan's mercy, grants liberation, Vishnu-loka and everything desired and is beyond the world; the
+fruits of residence there at special times — chaturmasya, the Janmashtami of the month of Bhadra, Karttika, Prabodhini,
+dvadashi, the Bhishma-panchaka; Madhupuri in Madhuvana, Krishna's birthplace, Keshavadeva, Bhuteshvara, Vishranti-tirtha
+and the twenty-four chief tirthas of the Yamuna; the brahmanas and residents of Mathura; the twelve forests and Govinda in
+Vrindavana; Brahma-kunda, Keshi-tirtha, the pool of Kaliya; the order of circling the twelve forests, the parikrama of
+Govardhana and bathing in the Manasi-ganga; Govardhana with Brahma-kunda and the tirthas of Indra, Varuna, Kubera and Yama
+at the four quarters, Govinda-kunda; and finally the great tirthas and Deities of Mathura — Narayana, Keshava, Svayambhu,
+Padmanabha, Dirgha-Vishnu, Govinda, Hari and Varaha. Rupa cites the “Adi-purana” most often, but also the
+“Gopalottara-tapani,” the “Gautamiya-tantra,” the “Padma,” “Brahma-vaivarta,” “Brahmanda,” “Bhavishya,” “Vamana,” “Vayu,”
+“Varaha,” “Vishnu” and “Skanda” Puranas, the “Bhagavatam,” the “Vishnu-dharmottara,” the “Brihan-naradiya” and others. <!-- F525 F536 -->
+
+The end of the compilation in the old Vrindavana manuscript runs thus: in the “Gopalottara-tapani” still more is glorified,
+and the Puranas name many tirthas of Mathura, but here only some, known today, are recorded; there follow the colophon, an
+obeisance to the Yamuna, a wish that by this compilation, the Yamuna's friend, the Enemy of Madhu may be pleased “with me,”
+and an obeisance to Vrindavana. In the manuscript described by Haraprasad Shastri the obeisances to the Yamuna and
+Vrindavana and the penultimate verse are absent, and the colophon calls the book compiled by “Shrimad Rupa Gosvami.” These
+words apparently belong to the copyist: Rupa, the embodiment of superhuman humility, calls himself in the
+“Bhakti-rasamrita-sindhu” and other books “wretched” and “little Rupa” and would never have called himself “Shrimad Rupa
+Gosvami”; the author's humility is a sign of authenticity, and grand titles in colophons come from copyists. Manuscripts of
+the compilation also exist at Dacca University (a copy of 1766, with the obeisance to the Yamuna, as in the Vrindavana one),
+in Jaipur, in the library of the Govindaji temple, and in Gopivallabhapura with Vishvambharananda Deva Gosvami — there they
+are kept separately from the “Mathura-mahatmya” of the “Varaha-purana.” <!-- F527 F528 F529 F530 F531 Q126 Q127 I37 -->
+
+Farquhar and some others asserted that Rupa's compilation was later inserted into the “Varaha-purana” as its chapters
+152–180; some build conjectures on seeing in the “Hari-bhakti-vilasa” (11.260) a reference to a “Mathura-mahatmya” in the
+“Varaha,” and perhaps misunderstand the CC as well:
+
+“He collected books on the greatness of Mathura and uncovered hidden places of the divine pastimes, wandering through the
+forests of Vraja.” (CC, Madhya 25.208)
+
+The compilation itself easily refutes this guess. Were it part of the “Varaha-purana,” Jiva and Kaviraja would not have
+named it as a separate book of Rupa, nor would separate manuscripts of it be found in the libraries of the old Gosvamis of
+Vraja; moreover, in the “Varaha-purana” the glory of Mathura-mandala fills whole chapters, 152–180, whereas Rupa takes from
+it only individual verses and cites verses from many other shastras. The wish to make an ancient testimony received
+through succession “modern” is the work of maya, which, knowingly or unknowingly to them, beguiles those who have turned
+away from the Lord. <!-- F532 F533 F534 F535 Q128 I38 -->
+
+### “Padyavali”
+The “Padyavali” (“A String of Verses”) is an anthology of verses on Hari and His pastimes: here are mahajanas,
+contemporaries of Rupa, and ancient “ordinary” poets — Amaru, Umapatidhara, Kshemendra, Bana, Bhavabhuti, Mayura and
+others. It shows that the worship of Radha-Govinda, the son of Nanda, in various rasas has from time without beginning
+adorned the lips of the Vaishnava mahajanas and been a subject of verse even for ordinary poets. The first verse explains
+the design: this “Padyavali,” composed by rasikas, beautiful with words about Mukunda, an ocean of waves of joy dispelling
+all darkness, is gathered for the pleasure of an assembly of the discerning. After an obeisance to the flute-playing
+Vanamali, Radha's beloved, and a blessing on the bhaktas come a hundred and twenty-four sections: Krishna's greatness, the
+glory of bhajana, prema, the glory of the holy name, krishna-katha, meditation, the devotees — their humility, entreaties,
+longing and disregard of liberation — the glory of Mathura and Vrindavana, Nanda and Yashoda, Krishna's childhood and
+boyhood, Radha's purva-raga, trysts and the kinds of heroine, the stealing of the flute, the lifting of Govardhana, the
+boat pastime, the rasa, Krishna's disappearance, the water pastimes, the eternal lila, the departure to Mathura, Radha's
+lament, messages through Uddhava, Krishna's separation in Dvaraka, Sudama, Kurukshetra. <!-- F537 F538 F539 Q129 -->
+
+In the conclusion Rupa says that besides verses of Jayadeva, Vishvamangala and others, other verses too are gathered here.
+Vishvamangala's “Krishna-karnamrita” Gaurasundara brought from the south, and Jayadeva's “Gita-govinda” circulated as a book
+anyway; but the verses of poets and mahajanas not collected in books were scattered or passed from mouth to mouth among
+devotee-rasikas with good memories, and Rupa set them in order. In some manuscripts and editions one more verse is added at
+the end — an entreaty to a wish-fulfilling tree like a young tamala, in blossoms of radiant ujjvala-rasa, surrounded by the
+protectresses of Gokula. <!-- F540 F541 F542 Q130 Q131 -->
+
+Some suppose that the “Padyavali” was compiled before Rupa met the Lord, since it has no obeisance to Gaura. But it
+includes the “Shikshashtaka” (under the name “Sri Bhagavatah”), a verse of Sanatana (under the name “Shrimat-prabhunam”),
+verses of Raghunatha Dasa and Gopala Bhatta — among them a verse on chanting the holy name — verses of Raghupati Upadhyaya
+that Rupa heard at Adaila (his complete verse on the highest rasa is no. 82), verses of Ramananda Raya and Karnapura, and two
+verses of a certain Manohara (274–275); so it was compiled after the meeting with Mahaprabhu. The CC proves this especially
+clearly (Madhya 1; Antya 1): the verse “priyah so ’yam,” which entered the “Padyavali,” was composed already by Gaura's
+mercy (on the numbering of the verse see above). <!-- F543 F544 F545 -->
+
+### “Nataka-chandrika”
+The “Nataka-chandrika” (“Moonlight of Drama”) is a treatise on dramaturgy: Rupa wrote it to bring together the
+definitions, examples and subjects of both his plays. Almost all the marks of drama are present in the “Lalita-madhava,”
+so the examples for them are almost always taken from it (some hundred and seventy-five times; from the
+“Vidagdha-madhava,” only a few). At the beginning Rupa says that he has studied the shastra of Bharata Muni and the fine
+“Rasa-sudhakara” of Shingabhupala and sets out the definition of drama very briefly, while for the most part not
+accepting the method of the “Sahitya-darpana,” as little suited to practice and contrary to Bharata. <!-- F546 F547 F551 Q132 -->
+
+The book examines the marks of drama; the three kinds of hero (divine, mixed and earthly); the three kinds of plot
+(known, invented and mixed); the three kinds of nandi (benediction, obeisance, indication of the subject); the prologue,
+the five elements of the plot, the five stages of action, the five junctures (sandhi) with their subdivisions, the
+thirty-six ornaments, the kinds of stage speech (aloud, aside, in confidence), the act and the interpolated act
+(garbhanka), the rules for Sanskrit and the Prakrits and the four styles (vritti) — with definitions and examples of which
+style suits which rasa. There is no concluding verse; the colophon calls the author “Srila Rupa Gosvamipada, the best of
+the teachers of the Gaudiya Vaishnava sampradaya, whose poetry is fragrant in the forest of the hearts of sadhus, first
+among the dear associates of Bhagavan Chaitanyadeva.” The compilers of one of the biographies saw an old manuscript of the
+book copied in Bhaktivinoda Thakura's own hand. <!-- F548 F549 F550 Q133 -->
+
+Besides his own plays and the “Padyavali,” Rupa quotes in the book verses from the “Dasha-rupaka,” the
+“Rasa-sudharnava,” the “Kamsa-vadha,” the “Keshava-charita,” the “Vira-charita” and the “Hari-vilasa,” and opinions of
+“others,” “some” and “the teachers”; the “Dasha-rupaka” and the “Rasa-sudhakara” he names also in the
+“Bhakti-rasamrita-sindhu” and the “Ujjvala-nilamani.” Verses of both plays and of the “Padyavali” are in the
+“Nataka-chandrika,” but not one from the “Dana-keli-kaumudi”; so it was written after the two plays and the “Padyavali”
+but before the bhanika, the “Bhakti-rasamrita-sindhu” and the “Ujjvala-nilamani.” In the “Bhakti-rasamrita-sindhu”
+(4.9.22) Rupa says that the styles, “the mothers of drama,” are described in “the marks of drama” — and Jiva in the
+“Durgama-sangamani” explains: “in his own work, the ‘Nataka-chandrika.’” The definition of pravartaka that Kaviraja gives is
+also from the “Nataka-chandrika”:
+
+“When the characters appear in the play separately and at the proper time, this is called pravartaka.” (CC, Antya 1.135)
+
+Many definitions from the “Nataka-chandrika” are also cited by the commentary on the “Lalita-madhava” that some attribute
+to Jiva Gosvami. <!-- F551 F552 F553 F554 F555 F556 Q134 -->
+
+### “Laghu-bhagavatamrita”
+The conclusions that Sanatana set out at length in narrative form in the “Brihad-bhagavatamrita,” Rupa set out briefly in
+the “Sankshepa-bhagavatamrita” and, out of humility and in respect for his elder brother's book, called it “the lesser” —
+the “Laghu-bhagavatamrita” (so Kaviraja too calls it). It is a special handbook of the concepts of the whole “Bhagavatam”
+and the Puranas, in which every conclusion is established by the testimony of shabda. In the introduction Rupa says that
+he sets out briefly what “the lotus feet of Shrimat Prabhu,” that is, Sanatana, unfolded in the “Bhagavatamrita”; that this
+amrita is twofold — by relation to Krishna and by relation to His bhaktas — and the “Krishnamrita” is served to the friends
+first; and that, giving up attachment to lengthy reasoning, he accepts of all the pramanas the chief one, shabda, for Vyasa
+in the “Vedanta-sutra” by the sutra “shastra-yonitvat” (1.1.3) recognized the sole authority of revelation and by the sutra
+“tarkapratishthanat” (2.1.11) rejected reasoning as having no foundation. <!-- F557 F558 F559 Q135 I39 -->
+
+Four verses of benediction glorify Sri Krishna Chaitanya — the avatara who purifies the Kali-yuga, who bestows love for
+Krishna's name and is worshipped in nama-sankirtana together with His associates (“krishna-varnam tvishakrishnam,”
+“Bhagavatam” 11.5.32) — the sound of Krishna's flute and Krishna's name: may the maha-mantra of thirty-two syllables that
+came from Sri Chaitanya's lips plunge the world into prema. The book is divided into the “Krishnamrita,” an examination of
+Krishna's forms and avataras, and the “Bhaktamrita,” on the supreme value of worshipping His intimates and on the grades of
+bhaktas. A description of it was printed in the “Gaudiya” (year 18, no. 46). Rupa relies above all on the “Bhagavatam,” and
+also on the “Padma,” “Vishnu,” “Brahmanda” and “Skanda” Puranas, the “Vishnu-dharmottara,” the “Brahma-samhita,” the
+“Hari-vamsha,” the “Mahabharata,” the “Brahma-sutras,” the “Gita,” the “Gopala-tapani,” the tantras and pancharatras, the
+“Brahma-tarka” and the words of Shridhara Svami. <!-- F560 F561 F562 Q136 -->
+
 <!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
      in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
