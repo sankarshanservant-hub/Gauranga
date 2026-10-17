@@ -200,7 +200,7 @@ Gaura the sannyasi. The gaura-nagari songs ascribed to him pure devotees reject.
 
 ## Last Years and Departure
 Of Vasudeva's later years the information is scanty and divergent. It is said that after the Lord's sannyasa, pained
-by separation from Him, the brothers parted: Madhava settled in Daihata, and Vasudeva in Tamluk (Tamoluk, in
+by separation from Him, the brothers parted: Madhava settled in Daihata, and Vasudeva in Tamoluk (Tamluk, in
 Midnapore); his shripat was there[^10]. <!-- F37 -->
 
 Vasudeva Ghosha departed on shukla-dvitiya — the second lunar day of the bright fortnight — of the month of Damodara
@@ -241,6 +241,6 @@ cannot sing the glories of the Lord. <!-- F2 F14 F19 I1 I2 I3 -->
 [^9]: The first line is known in several versions ("Had Gaura not come, what would have been then?"). In one old
     collection this pada bears the signature of Narahari.
 [^10]: The accounts diverge. According to one (with the reservation "some say" and a mark of doubt), Vasudeva settled in
-    Tamluk after the Lord's sannyasa, pained by separation from Him; elsewhere in the same book Tamluk is called his
-    shripat without reservation; according to another biography, he "in the end" settled in Tamluk; according to a
+    Tamoluk after the Lord's sannyasa, pained by separation from Him; elsewhere in the same book Tamoluk is called his
+    shripat without reservation; according to another biography, he "in the end" settled in Tamoluk; according to a
     third, the brothers parted after Mahaprabhu's departure, and Vasudeva settled in the village of Tamala.
