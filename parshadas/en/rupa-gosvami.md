@@ -1269,10 +1269,10 @@ solitary (viviktanandi) or preachers (goshthyanandi). <!-- F329 F330 -->
 Baladeva Vidyabhushana served Rupa's Govinda in Jaipur and was therefore called “Govinda-dasa.” Troubled by the dispute with
 the Ramanandis, at Vishvanatha's bidding he went to the temple of Sri Govinda, Rupa's Deity, told Him everything and in a
 dream received from Govinda the command to write a commentary on the “Vedanta-sutra” which He Himself would approve; the
-“Govinda-bhashya” is dedicated to Govinda and named after Him. From the date in his commentary on the “Stava-mala” it is
+“Govinda-bhashya” is dedicated to Govinda and named after Him. From the date in his commentary on the “Stavamala” it is
 clear that he lived after the battle of Plassey (1757). In the “Prameya-ratnavali” he bows to Shyamasundara, Chaitanya,
-Vyasa, Rupa and Sanatana, “risen like two moons.” On Rupa's books he wrote the “Stava-mala-vibhushana” (a commentary on the
-“Stava-mala”), a commentary on the “Nataka-chandrika,” the “Saranga-rangada” (a commentary on the “Laghu-bhagavatamrita”)
+Vyasa, Rupa and Sanatana, “risen like two moons.” On Rupa's books he wrote the “Stavamala-vibhushana” (a commentary on the
+“Stavamala”), a commentary on the “Nataka-chandrika,” the “Saranga-rangada” (a commentary on the “Laghu-bhagavatamrita”)
 and a commentary on the “Utkalika-vallari” (1686 Shaka, 1764 CE). <!-- F331 F332 -->
 
 Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's feet the chief thing in his life and often said that he
