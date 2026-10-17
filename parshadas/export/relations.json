@@ -1205,6 +1205,574 @@
   ]
  },
  {
+  "from": "@jahnava",
+  "type": "spouse",
+  "who": "@nityananda",
+  "facts": [
+   "F2",
+   "F3",
+   "F26",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "F38",
+   "I3",
+   "I4"
+  ],
+  "event": "ev-nityananda-marriage",
+  "note": "Шакти Нитьянанды; по M — Его «другое я», по B — сам Нитьянанда (F3). Подробности брака — @nityananda:F324."
+ },
+ {
+  "from": "@jahnava",
+  "type": "father",
+  "who": "@suryadasa-pandita",
+  "facts": [
+   "F13",
+   "F20",
+   "F21",
+   "F22",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F33"
+  ],
+  "event": "ev-nityananda-marriage",
+  "note": "Сурья дас Саркхел; по ГГД 65 — Какудми, отец Ревати (Q1). Жил в Шалиграме (T, M) ≠ в Амбике (T 87) (F20)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "mother",
+  "who": "@bhadravati",
+  "facts": [
+   "F14"
+  ],
+  "note": "T — по «Гаудия-вайшнава-абхидхане»; B — по скану (строка выпала из OCR)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "sibling",
+  "who": "@vasudha",
+  "facts": [
+   "F2",
+   "F15",
+   "F35",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "F44",
+   "F45",
+   "F91",
+   "F99"
+  ],
+  "note": "Старшая сестра (M, B); тоже супруга Нитьянанды; мать Вирабхадры и Ганги."
+ },
+ {
+  "from": "@jahnava",
+  "type": "grandfather",
+  "who": "@kamsari-mishra-shaligrama",
+  "facts": [
+   "F16"
+  ],
+  "note": "M: бабушка — Камала-деви; готра Ватса, фамилия Гхошал (T 87)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "uncle",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F17",
+   "F18",
+   "F30",
+   "F53",
+   "F73",
+   "F89"
+  ],
+  "note": "Младший брат отца; она плакала у его самадхи во Вриндаване (F73) и в Амбике после его ухода (F89)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "uncle",
+  "who": "@krishnadasa-sarakhela",
+  "facts": [
+   "F17",
+   "F19",
+   "F22",
+   "F32",
+   "F51"
+  ],
+  "note": "T 209 — «её дядя», был с ней в Кхетури ≠ M: «её дядя Кришна Мишра» ⚠ (F19)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "relative",
+  "who": "@virabhadra",
+  "facts": [
+   "F39",
+   "F91",
+   "F93",
+   "F94"
+  ],
+  "note": "Пасынок (сын Васудхи); T 201: «тётка и мачеха»."
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@virabhadra",
+  "facts": [
+   "F93"
+  ],
+  "note": "По «Према-виласе» принял её гуру, увидев четырёхрукой."
+ },
+ {
+  "from": "@jahnava",
+  "type": "relative",
+  "who": "@ganga-nityananda",
+  "facts": [
+   "F39",
+   "F91"
+  ],
+  "note": "Падчерица (дочь Васудхи)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@madhava-acharya-ganga",
+  "facts": [
+   "F51",
+   "F98"
+  ],
+  "note": "Зять Нитьянанды; был с ней в Кхетури (T); по одному из мнений — её ученик (B)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@krishnadasa-badagachhi",
+  "facts": [
+   "F27",
+   "F30",
+   "F32"
+  ],
+  "note": "Устроитель свадьбы (T, M); ⚠ M смешивает его с Кришнадасом Саркхелом."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F29"
+  ],
+  "note": "У него жил Нитьянанда, когда пришло сватовство (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F29",
+   "F37",
+   "F55"
+  ],
+  "note": "«Пусть это случится скорее» (M); у него новобрачные гостили в Шантипуре (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F35",
+   "F36",
+   "F54"
+  ],
+  "note": "Ласкала новобрачных (M 65); на пути в Кхетури Джахнава уже не застала её (M 66)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@sita-thakurani",
+  "facts": [
+   "F37",
+   "F55"
+  ],
+  "note": "Обняла новобрачных; к празднику в Кхетури уже ушла (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "host",
+  "who": "@uddharana-datta",
+  "facts": [
+   "F35",
+   "F37",
+   "F90"
+  ],
+  "note": "Саптаграм после свадьбы; его дом она посетила после его ухода (T 91, M 70)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@nityananda-dasa-author",
+  "facts": [
+   "F95"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@ramai-jahnava",
+  "facts": [
+   "F96"
+  ],
+  "note": "Рамачандра, внук Вамшиваданы: испросила, посвятила, обучила в Кхардахе («Гаудия» 22.30–37)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@shrimati-virachandra",
+  "facts": [
+   "F94"
+  ],
+  "note": "Невестка; T — её ученица; M — получила от неё мантру."
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@narayani-virachandra",
+  "facts": [
+   "F94"
+  ],
+  "note": "Невестка; дочь (T) ≠ приёмная дочь (M 13) Ядунанданы; её ученица."
+ },
+ {
+  "from": "@jahnava",
+  "type": "disciple",
+  "who": "@jnanadasa",
+  "facts": [
+   "F52",
+   "F97"
+  ],
+  "note": "Из Кандры; был с ней в Кхетури (B 1097; T 209; M 66)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "servant",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F38",
+   "F44",
+   "F45",
+   "F51",
+   "F52",
+   "F91",
+   "F99",
+   "F100",
+   "F104"
+  ],
+  "note": "Её дорогой слуга: служил в Кхардахе, по её милости увидел Гопинатху с Радхой, по её велению установил Радху-Гопинатху в Антпуре (F99); сопровождал изваяние Радхи для Говинды (B, F100); свидетель её ухода (T 89, F104)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "protege",
+  "who": "@kanu-thakura",
+  "facts": [
+   "F80",
+   "F52"
+  ],
+  "note": "Шишу Кришнадас: усыновила (T) / взяла пятилетним во Вриндаван (M, B); был с ней в Кхетури («Према-виласа»)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "patron",
+  "who": "@baru-gangadasa",
+  "facts": [
+   "F83",
+   "F102"
+  ],
+  "note": "По её слову женился на Хемалате, дочери Шьямадаса Чакраварти, и получил служение Шьямасундаре в Будхари (M 69)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "patron",
+  "who": "@govinda-kaviraja",
+  "facts": [
+   "F56",
+   "F101"
+  ],
+  "note": "Принимал её в Телия-Будхари (M); по B — вместе с Дживой и Шринивасом дала ему титул «кавираджа» ≠ T: титул дал Джива."
+ },
+ {
+  "from": "@jahnava",
+  "type": "siksha-disciple",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F40",
+   "F42",
+   "F44",
+   "F48",
+   "F49",
+   "F58",
+   "F61",
+   "F62",
+   "F65",
+   "F85",
+   "F86"
+  ],
+  "event": "ev-srinivasa-khardaha-jahnava",
+  "note": "Благословила стопами на голове и послала во Вриндаван (M); принял её как джагад-гуру (B); по её указанию совершил абхишеку в Кхетури (B 670); принимал её в Яджиграме."
+ },
+ {
+  "from": "@jahnava",
+  "type": "siksha-disciple",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F40",
+   "F42",
+   "F45",
+   "F46",
+   "F47",
+   "F49",
+   "F50",
+   "F60",
+   "F62",
+   "F82"
+  ],
+  "event": "ev-kheturi-festival",
+  "note": "Получил её милость в Кхардахе (M); праздник в Кхетури прошёл под её началом (T, B)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "siksha-disciple",
+  "who": "@shyamananda",
+  "facts": [
+   "F40",
+   "F58",
+   "F61",
+   "F65",
+   "F68"
+  ],
+  "note": "Принял её как джагад-гуру (B)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@gauranga-priya",
+  "facts": [
+   "F86"
+  ],
+  "note": "Молодая жена Шринивасы; Джахнава обняла её в Яджиграме (M pdf 235)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "host",
+  "who": "@santosha-datta",
+  "facts": [
+   "F46",
+   "F57",
+   "F65",
+   "F67"
+  ],
+  "event": "ev-kheturi-festival",
+  "note": "Раджа Кхетури, устроитель приёма."
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F40",
+   "F72",
+   "F78",
+   "F79",
+   "F101"
+  ],
+  "event": "ev-jahnava-vrindavana",
+  "note": "Дал ей место джагад-гуру (B); представил ей вайшнавов Враджа (M); она слушала его толкование «Брихад-бхагаватамриты» (T)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F76"
+  ],
+  "note": "У Радха-кунды; благословила его (T 187)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F72"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@lokanatha",
+  "facts": [
+   "F72"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@bhugarbha",
+  "facts": [
+   "F72"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@madhu-pandita",
+  "facts": [
+   "F72",
+   "F105"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "host",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F53"
+  ],
+  "note": "Принял её в Амбике по пути в Кхетури (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "host",
+  "who": "@achyutananda",
+  "facts": [
+   "F55",
+   "F61"
+  ],
+  "note": "Принял её в Шантипуре (M); по велению её и Ачьютананды Нароттама начал киртан (M 114)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "host",
+  "who": "@shripati",
+  "facts": [
+   "F51",
+   "F54"
+  ],
+  "note": "Шрипати и Шринидхи, братья Шривасы, — в её свите и приняли её в Навадвипе (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F87"
+  ],
+  "note": "Глубокий старик, когда она пришла в дом Махапрабху (M)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "met",
+  "who": "@yadunandana-acharya",
+  "facts": [
+   "F85"
+  ],
+  "note": "T: встретила в Катве на обратном пути. ⚠ тег — ученик Адвайты; отождествление с катвинским Ядунанданой не проверено."
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@minaketana-ramadasa",
+  "facts": [
+   "F51",
+   "F52"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@murari-chaitanya-dasa",
+  "facts": [
+   "F51"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@kamalakara-pippalai",
+  "facts": [
+   "F51",
+   "F52"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@kaliya-krishnadasa",
+  "facts": [
+   "F52"
+  ],
+  "note": "Присоединился в Катве (БР 10.409)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F52"
+  ],
+  "note": "С сыном Рагхунатхой (БР 10.382, у T). ⚠ тег — Бхагаван Ачарья из Пури; у T это он же (Халисахар)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "companion",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F51",
+   "F52",
+   "F68"
+  ]
+ },
+ {
+  "from": "@jahnava",
+  "type": "deity-served",
+  "who": "@gopinatha-deity-vrindavana",
+  "facts": [
+   "F8",
+   "F10",
+   "F74",
+   "F104",
+   "F105"
+  ],
+  "event": "ev-jahnava-gopinatha",
+  "note": "B: как Ананга-манджари пребывает справа от Гопинатхи ≠ НВВ (lila-db): по левую руку; T 89: вошла в тело Радхики в Его храме."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@gopinatha-deity-puri",
+  "facts": [
+   "F8",
+   "F105"
+  ],
+  "note": "B: справа от Тота-Гопинатхи пребывает как Ананга-манджари; Гададхара служит Гопинатхе с Радхой и Ананга-манджари (Джахнавой)."
+ },
+ {
+  "from": "@jahnava",
+  "type": "other",
+  "who": "@gaura-nitai-ambika",
+  "facts": [
+   "F53",
+   "F89"
+  ],
+  "note": "Готовила им подношения в Амбике; в киртане явились Гаура и Нитьянанда (M)."
+ },
+ {
   "from": "@madhavendra-puri",
   "type": "lineage-predecessor",
   "who": "@madhvacharya",
