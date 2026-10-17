@@ -653,3 +653,4 @@
 | @gangadasa-pujari-ambika | Бара Гангадас, пуджари в Амбике | Bara Gangadasa, the pujari of Ambika | жрец Божеств Гаура-Нитай у Гауридаса Пандита (B 170; M 39); не путать с @gangadasa-pandita |
 | @gopiramana-ambika | Гопирамана (из Амбики) | Gopiramana (of Ambika) | сын Аннапурны, ученик Хридаи Чайтаньи; его потомки владеют шрипатом в Амбике («Анубхашья», по T); не путать с @gopiramana-chakravarti |
 | @vamshidasa-babaji | Вамшидас Бабаджи | Vamshidasa Babaji | вайшнав-бабаджи XX в. (глава B 694–709); не путать с @vamshivadana |
+| @bhadravati | Бхадравати | Bhadravati | жена Сурьядаса Саркхела, мать Васудхи и Джахнавы (B 171; T 199 по «Гаудия-вайшнава-абхидхане») |
