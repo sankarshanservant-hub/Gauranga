@@ -100,7 +100,7 @@ B — вероятно, больше сотни).
 | @bhugarbha (014) | ✓ | ✓ (PDF) | — |
 | @sundarananda (015) | ✓ | ✓ (PDF) | — |
 | @gopala-guru (016) | ✓ | ✓ (PDF) | — |
-| @raghunandana (017) | ✓ | — | — |
+| @raghunandana (017) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
