@@ -1466,9 +1466,54 @@ by Jiva, as he himself says in the introduction:
 
 According to the catalogue of the Government Oriental Manuscripts Library in Madras (ed. Kuppuswami Shastri, vol. IV,
 pp. 4471–4472), the “Sri Jahnava-ashtaka” (manuscript R3053x) is also a work of Jiva: eight shlokas in glory of Jahnava
-Devi, daughter of Surya Dasa Sarkhela, the shakti of Nityananda. The first shloka addresses her as Ananga-manjari, Radhika's
+Devi, daughter of Surya Dasa Sarakhela, the shakti of Nityananda. The first shloka addresses her as Ananga-manjari, Radhika's
 younger sister in Vraja, and the last promises: whoever reads these verses will become a bee at the lotus feet of Sri
 Chaitanya (see the article on Jahnava). <!-- F345 Q89 -->
+
+### Works ascribed to Jiva
+Information on Jiva's manuscripts is scattered through catalogues — Theodor Aufrecht's “Catalogus Catalogorum”, Rajendralal
+Mitra's “Notices of Sanskrit Manuscripts”, the catalogue of the Madras Oriental Manuscripts Library, — and not everything
+recorded there under his name is his. One of the biographies tests each attribution: what Jiva himself confirms it
+accepts, while what is known only from catalogues or “according to some” it leaves in question. <!-- I26 -->
+
+Thus a manuscript of the “Sara-sangraha” is listed among Jiva's writings; it was described by Rajendralal Mitra.[^48] Its
+introduction has seven verses: glory to the syllables “Hare Krishna” that came from Sri Chaitanya's lips; a prayer, with a
+straw between the teeth, to be the dust of Sri Rupa's feet birth after birth; a salutation to Krishna's feet; a prayer for
+the mercy of Mukunda's feet; “I relish new meanings of Sri Rupa's books…”; the verse “Glory in the land of Mathura to Srila
+Rupa and Sanatana…”, as in the “Tattva-sandarbha”; and a prayer that the feet of Rupa, king of poets, may shine in the mind
+of “this dull and foolish one”. In the conclusion the author exclaims: when will my Prabhu named Mukunda, intoxicated with
+prema, pouring out in the assembly of rasikas the nectar of joy about the deeds of Radha's feet, again become the joy of my
+eyes by the pond of his Mistress! The colophon: “The «Sara-sangraha», compiled by Sri Jiva Gosvami, is completed”. Who this
+Mukunda — the author's guru — was is not known. <!-- F346 F347 F348 Q90 -->
+
+Whether the book belongs to Jiva, however, requires investigation. The first verse of the introduction is also found in
+the “Harinamartha-nirnaya” of Gopala Guru, a disciple of Svarupa Damodara (“Sri Chaitanya-shikshamrita”, p. 46), and the
+second (“adadanas trinam dantair…”) is the first verse of the conclusion of Raghunatha Dasa's “Mukta-charita”. The content
+of the book is mainly a refutation of svakiya-vada and an affirmation of the parakiya-siddhanta. <!-- F349 -->
+
+Some ascribe to Jiva a commentary on Rupa's bhanika “Sri Dana-keli-kaumudi”, but neither at its beginning nor at its end is
+the commentator named. The opening verse: I worship Radha and Madhava, who in the dispute of the dana-keli overstepped the
+bounds of dharma…; the closing: at the end of the dispute I worship the Couple Radha-Madhava, merged into one. The reason
+for this attribution is the commentary on Rupa's drama “Sri Lalita-madhava”, which begins with the words: “Srila Rupa
+Gosvami, the bearer of Sri Krishna Chaitanya's mercy, is my only shelter”; seeing this, people take it too for a work of
+Jiva. <!-- F350 F351 Q96 -->
+
+Some also call a long stotra, the “Vaishnava-vandana”, a work of Jiva (on its verses about Gopala Bhatta see above). It
+begins with a question: how can a certain Jiva, who does not know the proper order, accomplish their praise and
+remembrance — though bowing to them and remembering them bestow every perfection. It contains a salutation to Rupa and
+Sanatana, who live in Vrindavana: may Jiva serve them birth after birth. And it ends thus: this “Vaishnava-vandana”, which
+enumerates the community of Madhva's sampradaya, gives bhakti to Krishna and is full of the qualities of Sri Chaitanya
+Mahaprabhu, has been completed by me, Jiva, and laid at the feet of His devotees. M. Krishnamachariar in his “History of
+Classical Sanskrit Literature” (Madras, 1937, p. 1027) names as a work of Jiva also the “Bhringa-sandesha”.
+<!-- F352 F353 Q97 -->
+
+In academic, literary and archaeological circles many errors have been made about Jiva's books. The same Krishnamachariar
+(p. 289) included among his works Rupa's “Bhakti-rasamrita-sindhu” and “Sri Govinda-virudavali”; in the articles
+“Theology & Philosophy of Bengal Vaisnavism” (“Indian Culture”, 1935–1938) the criticism of the “Shat-sandarbha” is full of
+errors and of purely academic thinking. The cause, says one of the biographies, is the breach of the sworn prohibition that
+Jiva placed at the beginning of the “Shat-sandarbha”. But whoever wishes to touch the ocean of prema in the words of Rupa
+and Raghunatha, or that prema of Gaurasundara which had never been given before (anarpita-chari), will reach the goal by
+studying the “Shat-sandarbha” with a devotee who loves Gaura. <!-- F354 F355 F356 -->
 
 <!-- SECOND SHIFT -->
 
@@ -1649,3 +1694,7 @@ Chaitanya (see the article on Jahnava). <!-- F345 Q89 -->
 
 [^47]: In the retelling of another biography Jiva says that he arranges Gopala Bhatta's book, checking it against the
     teachings of the great — Madhva, Shridhara Svami and Ramanujacharya.
+
+[^48]: One of the biographies refers here to the “Notices of Sanskrit Manuscripts”, vol. I, p. 207, and to Aufrecht,
+    vol. IV, pp. 303–305; the sources seem to be confused: vol. I, p. 207 is Aufrecht's “Catalogus Catalogorum” (the same
+    place where the “Mukta-charita” and the “Stavamala” are mentioned), while vol. IV, pp. 303–305 is Mitra's “Notices”.
