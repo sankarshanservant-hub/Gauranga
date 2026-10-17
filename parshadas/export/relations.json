@@ -3879,6 +3879,453 @@
   ]
  },
  {
+  "from": "@ramananda-raya",
+  "type": "father",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F2",
+   "F5",
+   "F6",
+   "F38",
+   "F39",
+   "F87",
+   "F109"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu"
+  ],
+  "note": "В прежней лиле — Панду (ЧЧ Ади 10.132–134); по ДВН — учёный, достойный правитель."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "sibling",
+  "who": "@gopinatha-pattanayaka",
+  "facts": [
+   "F6",
+   "F9",
+   "F141"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Второй сын Бхавананды; помилован Пратапарудрой ради связи с Господом и Раманандой."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "sibling",
+  "who": "@kalanidhi",
+  "facts": [
+   "F6"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "sibling",
+  "who": "@sudhanidhi",
+  "facts": [
+   "F6"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "sibling",
+  "who": "@vaninatha-raya",
+  "facts": [
+   "F6",
+   "F10",
+   "F39",
+   "F141"
+  ],
+  "note": "Отдан отцом в постоянное служение Господу."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F6",
+   "F20",
+   "F21",
+   "F31",
+   "F33",
+   "F34",
+   "F35",
+   "F37",
+   "F41",
+   "F45",
+   "F48",
+   "F67",
+   "F68",
+   "F69",
+   "F70",
+   "F79",
+   "F80",
+   "F81",
+   "F130"
+  ],
+  "events": [
+   "ev-ramananda-raya-godavari",
+   "ev-return-visit-ramananda",
+   "ev-ramananda-comes-to-puri",
+   "ev-ramananda-farewell-remuna",
+   "ev-gambhira-divine-madness",
+   "ev-last-twelve-years-gambhira"
+  ],
+  "note": "«Рамананда и Я различны лишь телом»; Господь спрашивал, он отвечал; у него — шуддха-сакхья (ЧЧ Мадхья 2.78), как Субала у Кришны."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "ruler-of",
+  "who": "@prataparudra",
+  "facts": [
+   "F7",
+   "F40",
+   "F41",
+   "F44",
+   "F45",
+   "F46",
+   "F88",
+   "F121",
+   "F135",
+   "F136",
+   "F137",
+   "F139"
+  ],
+  "events": [
+   "ev-prataparudra-son-embraced",
+   "ev-prataparudra-mercy"
+  ],
+  "note": "Тип по CARDS.md: Пратапарудра — его государь; Рамананда — правитель на Годавари, позже министр (T); посредник царя перед Господом; лишь он сохранил царю жизнь после сокрытия Господа (БР 3.217–218)."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "friend",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F12",
+   "F13",
+   "F36",
+   "F49",
+   "F68",
+   "F69",
+   "F79",
+   "F80",
+   "F106",
+   "F107",
+   "F130",
+   "F131"
+  ],
+  "note": "«Одна душа» (B 233); вдвоём — сокровенные спутники Господа в разлуке (как Лалита и Вишакха у Радхи — M)."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "friend",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F11",
+   "F13",
+   "F14",
+   "F15",
+   "F103",
+   "F133",
+   "F134"
+  ],
+  "note": "Сперва насмехался над ним, затем признал «адхикари расика-бхактой» и послал к нему Господа."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "guru",
+  "who": "@raghavendra-puri",
+  "facts": [
+   "F113"
+  ],
+  "note": "Только T по «Бхаджана-нирнае» (уровень C); = @madhavendra-puri F135."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "siksha-disciple",
+  "who": "@pradyumna-mishra",
+  "facts": [
+   "F56",
+   "F57",
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F63",
+   "F64",
+   "F65",
+   "F127",
+   "F142"
+  ],
+  "events": [
+   "ev-pradyumna-mishra-hears-ramananda"
+  ],
+  "note": "Послан Господом слушать о Кришне; B 897: слушал «как ученик»."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F51",
+   "F52",
+   "F122",
+   "F123",
+   "F124",
+   "F144"
+  ],
+  "events": [
+   "ev-rupa-puri-dramas",
+   "ev-priyah-so-yam-rupa"
+  ],
+  "note": "Хвалил его драмы; услышанное Господом от Рамананды вложено в Рупу (ЧЧ Мадхья 19.115–116)."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F52",
+   "F53",
+   "F145",
+   "F148"
+  ],
+  "note": "Их вайрагью Господь назвал равной."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F67",
+   "F128"
+  ],
+  "events": [
+   "ev-vallabha-bhatta-puri"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "co-worker",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F49",
+   "F155"
+  ],
+  "events": [
+   "ev-departure-for-vrindavana"
+  ],
+  "note": "Вместе со Сварупой дал его Господу в спутники."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "companion",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F54",
+   "F143"
+  ],
+  "note": "«Три с половиной»."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "companion",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F54"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F103",
+   "F140"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F129"
+  ],
+  "events": [
+   "ev-haridasa-departure"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F42",
+   "F155"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F42",
+   "F72"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@brahmananda-bharati",
+  "facts": [
+   "F42"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F42",
+   "F155"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F38",
+   "F138",
+   "F143"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F133",
+   "F147"
+  ],
+  "note": "Шакти мадхура-расы — Гададхара, Сварупа, Рамананда."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@harichandana",
+  "facts": [
+   "F133",
+   "F141"
+  ],
+  "note": "Вместе провожали Господа за Читротпалу (T 46)."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F36",
+   "F65",
+   "F104"
+  ],
+  "note": "Развернул беседы Рамананды по кадче Сварупы."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F82",
+   "F101"
+  ],
+  "note": "Кадча Мурари — встреча в Канчи-нагаре."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F83",
+   "F84",
+   "F85",
+   "F94",
+   "F149"
+  ],
+  "note": "«Чайтанья-мангала»; бенгальские переложения ДВН."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F74",
+   "F95",
+   "F97",
+   "F98",
+   "F100"
+  ],
+  "note": "ГГД 120–124; «Чайтанья-чарита-махакавья»."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F97",
+   "F105",
+   "F126"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F97",
+   "F99",
+   "F110",
+   "F115",
+   "F127",
+   "F150"
+  ],
+  "note": "Записал предание о Бентпуре (1930); толкование песни; книга о Рамананде, Божества в Коввуре (1932)."
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F152"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "other",
+  "who": "@bhakti-vilasa-tirtha",
+  "facts": [
+   "F153"
+  ]
+ },
+ {
+  "from": "@ramananda-raya",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F43",
+   "F76",
+   "F88",
+   "F125",
+   "F126"
+  ],
+  "note": "Драма ставилась для Джаганнатхи (T); девадаси — служанки Джаганнатхи."
+ },
+ {
   "from": "@shachi",
   "type": "father",
   "who": "@nilambara-chakravarti",

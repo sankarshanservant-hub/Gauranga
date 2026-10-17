@@ -1,0 +1,190 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/ramananda-raya.md и lila-db.
+id: "@ramananda-raya"
+names:
+  ru: "Рамананда Рай"
+  en: "Ramananda Raya"
+  variants: ["Рай Рамананда", "Рама Рай (Рамарай)", "Рамананда Паттанаяк (род «Паттанаяк»)", "раджа Раджамахендри", "Рамананда-кавирай (бханиты)", "Рамананда Госвами-прабху (B)"]
+  facts: [F6, F18, F58, F92]
+kind: associate
+circle: [puri]
+period: [P11, P12, P13, P14, P15]
+period_note: "Лично: правитель на Годавари, встреча с Господом и беседы в Видьянагаре (P11); оставил службу и пришёл в Пури, посредник за Пратапарудру (P12); провожал Господа до Ремуны (Бхадраки) и Катаки, снаряжал Его во Вриндаван (P13); неотлучный спутник Господа в разлуке — в Гамбхире и в саду Джаганнатха-валлабха (P14); жил и после сокрытия Господа (P15: утешил Пратапарудру, встретил Шринивасу). P01 — только в перечнях нисхождения спутников (lila-db)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#bentpur"
+    conf: "только местное предание, переданное Бхактисиддханте в 1337 г. бенг. эры (через B); T — семья жила в Брахмагири (Алаланатхе); дня явления нет ни в книгах, ни в нашем календаре"
+    facts: [F3, F4, F111]
+  disappearance:
+    tithi: "кришна-панчами месяца Тривикрама (≈ джьештха; по нашему календарю — 7 мая 2026)"
+    date: ""
+    place: "#puri?"
+    conf: "T: два мнения — джьештха кришна-панчами или вайшакха кришна-панчами (вероятно, один день при пурниманта/аманта счёте); B дня не даёт; «оставил жизнь» в «Чайтанья-чарита-махакавье» — по B десятое состояние разлуки, не уход; по БР жил и после сокрытия Господа; год и место ухода не указаны"
+    facts: [F100, F101, F102, F103, F132]
+  samadhi: []
+origin:
+  places: ["#alalanatha", "#bentpur"]
+  family: ["@bhavananda-raya", "@gopinatha-pattanayaka", "@kalanidhi", "@sudhanidhi", "@vaninatha-raya"]
+  varna: "карана (орисская служилая община, общественно — шудры; B: «шаукра-карана» о Бхавананде)"
+  facts: [F2, F3, F5, F6, F14, F108, F109, F110]
+relations:
+  - {type: father, who: "@bhavananda-raya", facts: [F2, F5, F6, F38, F39, F87, F109], events: [ev-bhavananda-raya-pandu], note: "В прежней лиле — Панду (ЧЧ Ади 10.132–134); по ДВН — учёный, достойный правитель."}
+  - {type: sibling, who: "@gopinatha-pattanayaka", facts: [F6, F9, F141], events: [ev-gopinatha-pattanayaka-pardoned], note: "Второй сын Бхавананды; помилован Пратапарудрой ради связи с Господом и Раманандой."}
+  - {type: sibling, who: "@kalanidhi", facts: [F6]}
+  - {type: sibling, who: "@sudhanidhi", facts: [F6]}
+  - {type: sibling, who: "@vaninatha-raya", facts: [F6, F10, F39, F141], note: "Отдан отцом в постоянное служение Господу."}
+  - {type: companion, who: "@mahaprabhu", facts: [F6, F20, F21, F31, F33, F34, F35, F37, F41, F45, F48, F67, F68, F69, F70, F79, F80, F81, F130], events: [ev-ramananda-raya-godavari, ev-return-visit-ramananda, ev-ramananda-comes-to-puri, ev-ramananda-farewell-remuna, ev-gambhira-divine-madness, ev-last-twelve-years-gambhira],
+     note: "«Рамананда и Я различны лишь телом»; Господь спрашивал, он отвечал; у него — шуддха-сакхья (ЧЧ Мадхья 2.78), как Субала у Кришны."}
+  - {type: ruler-of, who: "@prataparudra", facts: [F7, F40, F41, F44, F45, F46, F88, F121, F135, F136, F137, F139], events: [ev-prataparudra-son-embraced, ev-prataparudra-mercy],
+     note: "Тип по CARDS.md: Пратапарудра — его государь; Рамананда — правитель на Годавари, позже министр (T); посредник царя перед Господом; лишь он сохранил царю жизнь после сокрытия Господа (БР 3.217–218)."}
+  - {type: friend, who: "@svarupa-damodara", facts: [F12, F13, F36, F49, F68, F69, F79, F80, F106, F107, F130, F131], note: "«Одна душа» (B 233); вдвоём — сокровенные спутники Господа в разлуке (как Лалита и Вишакха у Радхи — M)."}
+  - {type: friend, who: "@sarvabhauma", facts: [F11, F13, F14, F15, F103, F133, F134], note: "Сперва насмехался над ним, затем признал «адхикари расика-бхактой» и послал к нему Господа."}
+  - {type: guru, who: "@raghavendra-puri", facts: [F113], note: "Только T по «Бхаджана-нирнае» (уровень C); = @madhavendra-puri F135."}
+  - {type: siksha-disciple, who: "@pradyumna-mishra", facts: [F56, F57, F59, F60, F61, F62, F63, F64, F65, F127, F142], events: [ev-pradyumna-mishra-hears-ramananda], note: "Послан Господом слушать о Кришне; B 897: слушал «как ученик»."}
+  - {type: other, who: "@rupa-gosvami", facts: [F51, F52, F122, F123, F124, F144], events: [ev-rupa-puri-dramas, ev-priyah-so-yam-rupa], note: "Хвалил его драмы; услышанное Господом от Рамананды вложено в Рупу (ЧЧ Мадхья 19.115–116)."}
+  - {type: other, who: "@sanatana-gosvami", facts: [F52, F53, F145, F148], note: "Их вайрагью Господь назвал равной."}
+  - {type: other, who: "@vallabha-bhatta", facts: [F67, F128], events: [ev-vallabha-bhatta-puri]}
+  - {type: co-worker, who: "@balabhadra-bhattacharya", facts: [F49, F155], events: [ev-departure-for-vrindavana], note: "Вместе со Сварупой дал его Господу в спутники."}
+  - {type: companion, who: "@shikhi-mahiti", facts: [F54, F143], note: "«Три с половиной»."}
+  - {type: companion, who: "@madhavi-devi", facts: [F54]}
+  - {type: other, who: "@srinivasa-acharya", facts: [F103, F140], events: [ev-srinivasa-gadadhara-puri]}
+  - {type: other, who: "@haridasa-thakura", facts: [F129], events: [ev-haridasa-departure]}
+  - {type: other, who: "@nityananda", facts: [F42, F155]}
+  - {type: other, who: "@paramananda-puri", facts: [F42, F72]}
+  - {type: other, who: "@brahmananda-bharati", facts: [F42]}
+  - {type: other, who: "@jagadananda-pandita", facts: [F42, F155]}
+  - {type: other, who: "@kashi-mishra", facts: [F38, F138, F143]}
+  - {type: other, who: "@gadadhara-pandita", facts: [F133, F147], note: "Шакти мадхура-расы — Гададхара, Сварупа, Рамананда."}
+  - {type: other, who: "@harichandana", facts: [F133, F141], note: "Вместе провожали Господа за Читротпалу (T 46)."}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F36, F65, F104], note: "Развернул беседы Рамананды по кадче Сварупы."}
+  - {type: other, who: "@murari-gupta", facts: [F82, F101], note: "Кадча Мурари — встреча в Канчи-нагаре."}
+  - {type: other, who: "@lochana-dasa", facts: [F83, F84, F85, F94, F149], note: "«Чайтанья-мангала»; бенгальские переложения ДВН."}
+  - {type: other, who: "@kavi-karnapura", facts: [F74, F95, F97, F98, F100], note: "ГГД 120–124; «Чайтанья-чарита-махакавья»."}
+  - {type: other, who: "@bhaktivinoda", facts: [F97, F105, F126]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F3, F97, F99, F110, F115, F127, F150], note: "Записал предание о Бентпуре (1930); толкование песни; книга о Рамананде, Божества в Коввуре (1932)."}
+  - {type: other, who: "@bhakti-dayita-madhava", facts: [F152]}
+  - {type: other, who: "@bhakti-vilasa-tirtha", facts: [F153]}
+  - {type: deity-served, who: "@jagannatha-deity", facts: [F43, F76, F88, F125, F126], note: "Драма ставилась для Джаганнатхи (T); девадаси — служанки Джаганнатхи."}
+unnamed:
+  - {who: "две юные девадаси Джаганнатхи, которых он учил своей драме", type: other, facts: [F57, F58, F60, F125, F126], event: ev-pradyumna-mishra-hears-ramananda}
+  - {who: "юный сын Пратапарудры, приведённый к Господу", type: other, facts: [F45, F121], event: ev-prataparudra-son-embraced}
+  - {who: "Манохар Рай — потомок, автор истории рода (через T)", type: relative, facts: [F110]}
+  - {who: "потомки Бхавананды «Чаудхури Паттанаяк» в Бентпуре", type: relative, facts: [F3]}
+  - {who: "вайшнава-брахман у Годавари, принимавший Господа", type: other, facts: [F25, F26]}
+  - {who: "Акинчана Дас и Гопала Дас — переводчики ДВН; Нараяна Кави; Радхамохан Тхакур", type: other, facts: [F92, F94, F97]}
+identities:
+  - in: krishna-lila
+    as: "соединение двух Арджун — прия-нарма-сакхи Враджа и Пандавы (и гопи Арджунии)"
+    source: "ГГД 120–124"
+    level: A
+    facts: [F74, F105, Q21]
+    variants: ["Лалита — «некоторые», но спорно, раз отец — Панду (ГГД 122)", "B в пересказе ГГД добавляет «или Вишакха»"]
+  - in: krishna-lila
+    as: "Вишакха"
+    source: "ЧЧ Антья 15.11–12 (по B — «по некоторым толкованиям»); Бхактивинода к ЧЧ Мадхья 8.23 (через T); B 317"
+    level: C
+    facts: [F71, F75, F105, F107, Q18]
+    variants: ["Лалита — «некоторые» (ГГД; T)"]
+  - in: krishna-lila
+    as: "Субала — по сходству служения (дарит счастье Гауре, как Субала — Кришне)"
+    source: "ЧЧ Антья 6.9"
+    level: A
+    facts: [F73, Q20]
+    variants: ["сравнение, а не отождествление"]
+  - in: krishna-lila
+    as: "«пчела у лотосных стоп Радхики» (обращение Господа)"
+    source: "Кадча Мурари 3.15 (через B)"
+    level: B
+    facts: [F82, Q31]
+  - in: other
+    as: "Арджуна-Пандава (сын Панду; отец Бхавананда — Панду)"
+    source: "ЧЧ Ади 10.132–134; Мадхья 10.52–53; ГГД 120"
+    level: A
+    facts: [F5, F6, F38, F74, Q1, Q5]
+  - in: other
+    as: "Тумбуру"
+    source: "«Гаура-кришнодая» 1.44–49 (lila-db gkd-0005)"
+    level: C
+    events: [ev-associates-descend]
+    variants: ["в книгах T/M/B нет"]
+  - in: tattva
+    as: "нитья-сиддха паршада в «почти совершенном» теле; шакти мадхура-расы (с Гададхарой и Сварупой); «одно с Господом, различен лишь телом»"
+    source: "ЧЧ Ади 10.134, Антья 5.37–51 (через B); B 690; T 36"
+    level: A
+    facts: [F6, F60, F61, F147, Q1, Q11]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-departure-for-south
+  - ev-ramananda-raya-godavari
+  - ev-return-visit-ramananda
+  - ev-return-from-south
+  - ev-bhavananda-raya-pandu
+  - ev-ramananda-comes-to-puri
+  - ev-lord-narrates-jagannatha-glory
+  - ev-second-chaturmasya-ramananda
+  - ev-prataparudra-son-embraced
+  - ev-ratha-yatra-gundicha
+  - ev-prataparudra-mercy
+  - ev-departure-for-gauda
+  - ev-prataparudra-farewell-six-armed
+  - ev-ramananda-farewell-remuna
+  - ev-return-puri-after-gauda
+  - ev-departure-for-vrindavana
+  - ev-return-to-puri-from-vrindavana
+  - ev-priyah-so-yam-rupa
+  - ev-rupa-puri-dramas
+  - ev-vallabha-bhatta-puri
+  - ev-pradyumna-mishra-hears-ramananda
+  - ev-gopinatha-pattanayaka-pardoned
+  - ev-haridasa-departure
+  - ev-last-twelve-years-gambhira
+  - ev-gambhira-divine-madness
+  - ev-krishna-adharamrita-phela
+  - ev-krishna-ashoka-spring-garden
+  - ev-shikshashtaka-recitation
+  - ev-devotees-lament-after-disappearance
+  - ev-srinivasa-gadadhara-puri
+events_note: "По реестру (T/M/B со ссылками на ЧЧ, ЧБ, БР), кроме ev-lord-narrates-jagannatha-glory и ev-second-chaturmasya-ramananda (только lila-db: «Гаура-кришнодая», Карнапура — вторая чатурмасья на Годавари, расходится с ЧЧ) и ev-devotees-lament-after-disappearance (lila-db). Ещё ~40 эпизодов lila-db, где он лишь присутствует, не вынесены (query.py @ramananda-raya)."
+teachings_given:
+  - {topic: "садхья и садхана (Годавари): от варнашрамы до чистой бхакти; према Радхи; следование сакхи Враджа — единственное средство", facts: [F27, F28, F30, F118]}
+  - {topic: "вопросы-ответы о высшем знании, славе, богатстве, горе, благе, памятовании, месте жизни", facts: [F32]}
+  - {topic: "Кришна — Сам Бхагаван; према-бхакти — венец целей; чистая (кевала) бхава Враджа превыше айшварьи", facts: [F67, F128, Q15]}
+  - {topic: "Господь — вне предписаний и запретов (о встрече с царём)", facts: [F45]}
+  - {topic: "Рупе: в обществе вайшнавов нечего стыдиться читать о своём Божестве", facts: [F123]}
+teachings_received:
+  - {topic: "тайна облика Господа (Кришна в бхаве и сиянии Радхи) — не разглашать", facts: [F33, F34]}
+  - {topic: "«Кришна-карнамрита» и «Брахма-самхита» — доказательства его сиддхант", facts: [F37]}
+works:
+  - {title: "«Джаганнатха-валлабха-натака» («Рамананда-сангита-натака»): 5 актов, 21 песня; по приказу Пратапарудры, до встречи с Господом", facts: [F86, F87, F88, F89, F90, F93, F94, F149], note: "Наш перевод — jagannatha-vallabha/."}
+  - {title: "песня на браджабули «пахилехи рага…» (ЧЧ Мадхья 8.193 по ВЧД)", facts: [F29, F97, F98, F99]}
+  - {title: "стих «наанопачара-крита-пуджанам…» в «Падьявали»", facts: [F95]}
+  - {title: "«Кришна-бхакти-раса-бхавита матих…» — «кое-где» приписывается", facts: [F96]}
+  - {title: "сборник песен «Кшудра-гита-прабандха» (песня «Читрапада» — через «Сангита-сару» Нараяны Кави)", facts: [F92]}
+  - {title: "«Говинда-валлабха» (пятиактная драма) — приписывается «некоторыми» (Р. Митра, «Catalogus Catalogorum»)", facts: [F91]}
+places: ["#alalanatha", "#bentpur", "#godavari", "#kovvur", "#vidyanagara", "#simhachala", "#puri", "#house-kashi-mishra", "#cuttack", "#balagandi", "#remuna", "#bhadraka", "#jagannatha-vallabha", "#kanchi"]
+places_facts: [F1, F3, F7, F16, F17, F19, F37, F38, F40, F46, F48, F77, F78, F79, F82, F84, F116, F135, F150, F151, F152, F153]
+places_note: "#kanchi — «Канчи-нагара» у Мурари и Лочана (там — дворец Рамананды), по ЧЧ — Видьянагара на Годавари; #kovvur — нынешний Рамананда-Гаудия-матх."
+character:
+  - {trait: "глубокое смирение: зовёт себя шудрой, мирянином, «слугой слуг»; приписывает свои слова Господу", facts: [F20, F23, F63, F64]}
+  - {trait: "сердце впереди ног: идёт к Господу прежде Джаганнатхи", facts: [F43]}
+  - {trait: "неизменность ума в бхаве служанки Радхи (девадаси)", facts: [F58, F60, F61, F126, I3]}
+  - {trait: "юкта-вайрагья: внешне домохозяин и сановник, внутренне — отрекшийся", facts: [F53, F64, F148, I2]}
+  - {trait: "любящий посредник: смягчает сердце Господа к Пратапарудре, спасает царя в горе", facts: [F44, F45, F121, F136, F139]}
+  - {trait: "щедрый ценитель чужого дара (Рупа)", facts: [F51, F123]}
+  - {trait: "служение Господу в разлуке: стихи по настроению, беседы о Кришне ночами", facts: [F68, F69, F70, F130, I9]}
+  - {trait: "невыносимая разлука с Господом (Ремуна)", facts: [F48, F100, I7]}
+significance: {facts: [F6, F54, F55, F66, F104, F147, I1, I2, I3, I4, I5, I6, I7, I8, I9]}
+sources:
+  T: "122–128 (глава); 2, 3, 36, 46, 101, 102, 107, 108, 115, 117, 119, 121, 131–139, 142–146, 156, 159, 162, 194, 204, 226, 256, 257, 269, 273"
+  M: "глава нет; 72, 80, 90, 189, 229"
+  B: "232–264 (глава); 62, 103, 110, 198–231, 297, 300, 313–317, 362, 364, 383, 422, 616, 663, 689, 690, 764, 821, 889, 895–899, 906, 907, 948, 959, 1013, 1015, 1016, 1027–1033, 1040, 1135, 1145, 1165"
+  other: ["ЧЧ Ади 10.132–134; Мадхья 2.77–78, 7.61–67, 8 (1, 23, 26–27, 34–37, 44–45, 51–52, 68–70, 193, 245–258, 268–290, 296–297, 303–310), 10.52–53, 12.53–57, 16.154–155, 16.253–254, 19.115–116; Антья 1.199–201, 2.105–106, 5.19–85, 6.6–11, 7.23–37, 9.133–139, 11.50, 14.40–42, 15.11–12, 15.24–27, 20.3–11", "ЧБ Антья 3.183–184, 5.202", "ГГД 120–125", "БР 1.630–631, 3.155–158, 3.217–219", "Кадча Мурари 3.15.1–5, 4.15.1", "«Чайтанья-мангала», Шеша 101–113", "«Чайтанья-чарита-махакавья» 13 и др.", "«Джаганнатха-валлабха-натака»", "«Падьявали»", "Бхаг. 10.21.9, 10.31.14", "«Бхаджана-нирная» (через T)", "«Амрита-праваха-бхашья», «Анубхашья»"]
+article: {ru: "parshadas/ru/ramananda-raya.md", en: "parshadas/en/ramananda-raya.md"}
+open_questions:
+  - "Отождествление: соединение двух Арджун (+ Арджуния) по ГГД; Вишакха (B, Бхактивинода, ЧЧ Антья 15 по толкованию) или Лалита («некоторые») (F71, F74, F75, F105, F107)."
+  - "Место явления: Бентпур близ Алаланатхи — только местное предание (B) (F3)."
+  - "День ухода: джьештха или вайшакха кришна-панчами (T) — вероятно, один день; наш календарь — Тривикрама кришна-панчами; год и место неизвестны (F132)."
+  - "Где Господь простился с ним: Ремуна или Бхадрака (B под вопросом); T — проводил за Читротпалу; B 1016 — пришёл с Господом в Катаку (F48, F133, F135)."
+  - "Приезд в Пури: сначала к Господу (B) или сначала к царю в Катаке и Пури (T) (F40, F120)."
+  - "Встреча по Мурари и Лочану (во дворце в Канчи-нагаре, видение в медитации) ≠ ЧЧ (на берегу Годавари) (F82, F84, F85)."
+  - "Гуру: Рагхавендра Пури по «Бхаджана-нирнае» (только T) (F113)."
