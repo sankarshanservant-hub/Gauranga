@@ -512,3 +512,250 @@ no grief for a son.” Thus Chaitanya and Nityananda became debtors to Their dev
 carried the dead boy with kirtana to the Ganga and performed the funeral rites. Service to the Lord and His joy were for
 Srivasa above his own grief — in this lies the example of a true Vaishnava householder. <!-- F92 F93 I7 F12 -->
 
+## Kumarahatta
+Srivasa lived in Mayapur throughout Gaurasundara's Navadvipa pastimes. But when the Lord took sannyasa, Srivasa could not
+bear the separation: in Navadvipa everything was a painful reminder of the Lord. With his brothers and his whole family
+he left his house and settled in Kumarahatta (Halisahar),[^18] in the Mukhopadhyaya-para quarter, near the birthplace of
+Ishvara Puri — the “Chaitanya-doba.” A temple called “Devalaya,” facing the Chaitanya-doba, marks the place where he
+lived. In Kumarahatta lived also Shivananda Sena, Khanja Bhagavan Dasa, and Vasudeva Datta, the closest friend of Srivasa
+and Shivananda, who settled near them in Kanchanpalli. From here the brothers went every year to Nilachala to the Lord,
+and sometimes to Mayapur to Shachi, and then they would stay a few days in their old house. <!-- F11 F94 F124 -->
+
+The Lord came to Srivasa in Kumarahatta from Advaita's house in Shantipura.[^19] Having visited the birthplace of His
+guru, He took a handful of earth and tied it in the end of His cloth. Srivasa, seeing before his eyes the One on Whom he
+had meditated, fell prostrate, pressed the Lord's feet to his chest and wept aloud. Hearing of the Lord's arrival, there
+gathered Advaita Acharya, Shivananda Sena with his family, Vasudeva Datta Thakura and other associates of Gaura (CB, Antya
+5.18), and all of Srivasa's household joyfully served the Lord and His associates. <!-- F95 F124 Q20 -->
+
+The Lord stayed several days with Srivasa. Srivasa delighted Him with kirtana, with reading the “Bhagavatam,” and with
+jokes, like a vidushaka, and Ramai, following his brother, sang the Lord's glories. In Srivasa's house in Kumarahatta
+the Lord glorified Vasudeva Datta: “This body belongs to Vasudeva…”. From here He went to Panihati, to the house of
+Raghava Pandita. <!-- F96 F124 -->
+
+Once the Lord asked: “You never go anywhere to earn money — how do you maintain so large a family?” Srivasa answered: “I
+have no inclination to seek money. What is destined will be.” — “Then take sannyasa.” — “I cannot.” — “Neither sannyasa
+nor money — what will you do if nothing comes of itself?” Srivasa clapped his hands three times: “One, two, three. If
+after three days of fasting there is still no food, I shall tie a pot to my neck and enter the Ganga.” <!-- F97 -->
+
+The Lord roared: “What did you say, Srivasa? You, starve for want of money? Even if Lakshmi should go begging, one who
+has surrendered will know no want. Have you forgotten My promise in the ‘Gita’?” And He recalled it: to those who always
+think of Him and serve Him, He Himself brings what they lack and preserves what they have (Gita 9.22). “I Myself carry on
+My head all that is needed by those who have surrendered to Me and serve Me. To one who, forgetting body and home, always
+thinks of Me and does not go begging at others' doors, all perfections come. Dharma, wealth, desires and liberation come
+of themselves to serve My servant, but he does not ask for them. My Sudarshana guards him everywhere and always; he does
+not perish even at the great dissolution of the world; I sustain even one who remembers My servant. Sit at home and sing
+My glories — everything will come of itself.” Thus the Lord repeated the blessing He had given in Navadvipa: “There will
+never be want in your house.” And Ramai He told to serve his elder brother in every way. <!-- F98 Q20 I10 -->
+
+## In Nilachala
+While the Lord lived in Nilachala, Srivasa came there every year with the other devotees from Bengal and stayed for the
+four months of the rains. Krishnadasa Kaviraja lists them: Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva and
+Murari came every year and stayed there four months (CC, Madhya 1.255). The news that the Lord had returned from the
+South — brought by Kala Krishnadasa — brought back to life Shachi, Srivasa, Advaita and Haridasa, and they began to
+prepare for Puri. In the third year the wives went with their husbands — and Malini went with Srivasa; among the pilgrims
+of that year are named Acharyaratna, Vidyanidhi, Srivasa and Ramai (CC, Madhya 16.16, 22–23). <!-- F99 F133 F122 Q15 -->
+
+In Nilachala Srivasa danced in the Lord's kirtana and before the chariot, washed the Gundicha temple together with all
+the others, took part in the water pastimes in Narendra Lake and served the Lord in many ways, and the Lord sometimes took
+His meals in his house and in the houses of other householder devotees. <!-- F100 -->
+
+At the Ratha-yatra the Lord divided the devotees into groups:
+
+“Advaita Acharya was appointed the dancer of the first group. Then the Lord formed the second group, in which the lead
+singer was Srivasa. Gangadasa, Haridasa, Shriman, Shubhananda and Sri Rama Pandita were to sing with Srivasa, and the
+dancer was Sri Nityananda.” (CC, Madhya 13.38–39)
+
+The chief singers at the Ratha-yatra were Svarupa Damodara and Srivasa; there were four groups, with six singers and two
+mridangas in each. And when the Lord Himself danced, nine sang for Him: Srivasa, Ramai, Raghu, Mukunda, Haridasa,
+Govindananda, Madhava, Govinda and Govinda Ghosha (CC, Madhya 13.73). In the kirtana at the Lord's residence, in four
+groups, the dancers were Nityananda, Advaita, Vakreshvara and Srivasa, and each felt that the Lord was looking at him;
+in the great kirtana around the temple there were seven groups, each with its own dancer — Advaita, Nityananda,
+Vakreshvara, Achyutananda, Srivasa, Satyaraja and Narahari (CC, Antya 10.58–61).[^20] <!-- F101 F122 Q15 -->
+
+Once King Prataparudra was watching the Lord's dance, leaning on the shoulder of his minister Harichandana. Srivasa
+stood in ecstasy in front of the king, his eyes fixed on the Lord. Harichandana touched him again and again and asked
+him to move aside, but Srivasa did not understand; at last, vexed at this hindrance to his service, he slapped
+Harichandana. Harichandana grew angry and wanted to respond, but the king stopped him:
+
+“‘You should be happy that you have been blessed by Srivasa's touch. That good fortune has passed me by, and therefore
+you should be grateful to him.’” (CC, Madhya 13.97)
+
+Srivasa is an intimate associate of Gaura, and even a hurt or a blow from such a Vaishnava is good fortune and true
+honour. <!-- F102 I8 Q15 -->
+
+On the fifth day after the Ratha-yatra Hera-panchami is celebrated: Lakshmi goes to Gundicha to “see” (heriya)
+Jagannatha, and her maidservants bind His servants. Svarupa Damodara, wishing to show the superiority of the love of
+the residents of Vraja, told the Lord that he had never heard of such anger in love as Lakshmi's: an offended gopi takes
+off her ornaments and silently scratches the ground with her nail, while Lakshmi, flaunting her wealth, goes to war
+against her beloved. <!-- F103 -->
+
+Svarupa Damodara was a servant of Radha, and Srivasa a servant of Lakshmi-Narayana, and a dispute arose between them.
+Srivasa said laughing: “Look, Damodara, how much wealth my Lakshmi has! And what is there in Vrindavana? Flowers, shoots,
+minerals, peacock feathers and gunja. Jagannatha went off to Sundarachala to look at such a Vrindavana — no wonder
+Lakshmi is angry. Her maidservants have bound Jagannatha's servants and exacted bows and fines from them: your Master
+has left such wealth and gone off for leaves and fruits! Your mistress and her friends are cowherd girls who churn
+butter, while mine sits on a jewelled throne, served by crowds of servants.” The devotees of Gaura who follow the path of
+raga could not keep from laughing at the words of Srivasa, in whom was the nature of Narada. <!-- F104 F123 -->
+
+The Lord explained the difference: “Srivasa, in you is the nature of Narada — the sense of majesty, aishvarya; but
+Svarupa Damodara is a pure resident of Vraja, he knows nothing of majesty, his life is pure love.” And Svarupa answered
+Srivasa: “Listen carefully: you have forgotten the wealth of Vrindavana. The wealth of Maha-Vaikuntha is but a drop of its
+natural wealth; there Krishna, setting majesty aside, is rich in the sweetness of leaves and flowers, there is an eternal
+forest of spiritual wish-fulfilling trees…” — and he described the sweetness and majesty of Vraja with verses of the
+“Brahma-samhita.” Srivasa clapped his hands, roared with laughter and danced in the ecstasy of love. So this dispute
+revealed the superiority of the love of Vraja over reverential devotion. <!-- F105 F123 I9 -->
+
+Once in Nilachala Srivasa and other devotees began to sing the glories of the qualities of Gaurasundara Himself. The
+Lord grew angry: “You have abandoned the name and qualities of Krishna! You want to show your audacity — you are wilfully
+ruining the world.” At that moment cries rose on every side from countless people:
+
+“All glory to Mahaprabhu Sri Chaitanya, the son of King Nanda! You have descended to deliver this whole world. O Lord, we
+are very unfortunate. We have come from afar to see You. We beg You, shower Your mercy upon us!” (CC, Madhya 1.273–274)
+
+The Lord came out to them, and all began to glorify Him as Bhagavan. Srivasa did not miss his chance and reproached Him:
+“Why didn't You stay hidden in the house now? Who taught this crowd to glorify You? Cover all their mouths with Your
+hands! Can one hide the sunrise with a hand?” And the Lord, Who increases the glory of His devotees, admitted Himself
+defeated by His devotee. <!-- F106 Q14 I10 -->
+
+Even after the Lord settled in Puri, He still appeared in Bengal:
+
+“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always manifested
+Himself in four places: in the household temple of mother Shachi, in the place where Nityananda Prabhu dances, during the
+kirtana of Srivasa Thakura, and in the house of Raghava Pandita.” (CC, Antya 2.34) <!-- F107 F119 Q16 -->
+
+Svarupa Damodara was, in the words of Krishnadasa Kaviraja, “the soul of the whole community of devotees headed by
+Srivasa Thakura” (CC, Madhya 10.117). And when the Lord was in Ramakeli, His company included Nityananda, Haridasa,
+Srivasa, Gadadhara, Mukunda, Jagadananda, Murari and Vakreshvara; at the Lord's command Rupa and Sanatana touched their
+feet, and they blessed the brothers. Srivasa was also among the Lord's associates when Lokanatha came to Him. <!-- F108 F109 F135 Q15 -->
+
+In Puri Srivasa also asked the Lord about Junior Haridasa. Back in Navadvipa a Vaishnava from Prayaga had brought news
+that Haridasa had entered the Triveni, and Srivasa and the others were amazed. A year later, in Puri, Srivasa asked where
+Haridasa was now. “Each tastes the fruit of his own deeds,” the Lord replied; and when Srivasa told what he had heard, the
+Lord said with a smile: “That is the atonement for looking at a woman.” <!-- F132 -->
+
+## After the Lord's Disappearance
+Srivasa outlived the Lord. When Jiva Gosvami came to Navadvipa, he met Nityananda in Srivasa's house, and Nityananda told
+Srivasa and others to bless Jiva (“Bhakti-ratnakara,” 1). Srinivasa Acharya too saw him in Navadvipa before his journey
+to Vrindavana — together with Murari Gupta, Damodara Pandita, Sanjaya, Shuklambara, Gadadhara Dasa and others. Srinivasa's
+mother, Lakshmipriya, when he was still an infant, taught him to sing: “…Gadadhara's master, Srivasa's Lord…”. <!-- F110 F111 F137 -->
+
+When Narottama planned the festival at Kheturi, Srivasa was no longer in this world: his brothers Shripati and Shrinidhi
+came there from Navadvipa. They brought Jahnava Devi to their house in Navadvipa, and, finding there neither Srivasa nor
+Malini, she wept bitterly; on the way back she spent a night in Srivasa-angana, where the Lord had begun the sankirtana,
+and a maha-sankirtana went on all night. In Mayapur Narottama too came to the house of Srivasa Pandita and bowed to
+Shripati and Shrinidhi. Yet it is said that at the Kheturi festival Mahaprabhu, Nityananda, Advaita, Haridasa, Srivasa
+Thakura and others, long since withdrawn from view, appeared once more and sang with the devotees as in the Lord's time.
+The year and place of Srivasa's departure are unknown.[^21] <!-- F112 F136 -->
+
+## Srivasa-angana
+In time the site of Srivasa-angana was forgotten. It was rediscovered by Jagannatha Dasa Babaji, who identified the
+forgotten holy places of Mayapur — the Yogapitha, Srivasa-angana and others. The “Sajjana-toshani” of Bhaktivinoda
+Thakura relates that on the 20th of Phalguna in the year 1299 of the Bengali era (1893) the Babaji pointed out the
+place of the Lord's appearance, and then the place where the Kazi broke the mridanga — Srivasa-angana. It was decided to
+establish the service of Deities both at the birthplace and at Srivasa-angana, and the Babaji proposed installing the
+Deities of the Pancha-tattva here. <!-- F113 F81 -->
+
+Fulfilling the Lord's command of unbroken sankirtana, Srila Bhaktisiddhanta Sarasvati, at the wish of Bhaktivinoda
+Thakura and Jagannatha Dasa Babaji, opened at Srivasa-angana a centre for preaching sankirtana among pure devotees and for
+the service of Sri Pancha-tattva. At Bhaktivinoda's wish he installed the dancing Gaura in the house of Chandrashekhara
+Acharya, founded Sri Chaitanya Math as the main centre of sankirtana, and ordered that the “seven-tongued fire” of
+sankirtana be kept burning there always. In 1934 the temple buildings at Srivasa-angana were consecrated, and in 1936, on
+Bhaktisiddhanta's sixty-second birthday, his Vyasa-puja was held here. Srivasa-angana in Mayapur became one of the
+temples of the Gaudiya Math. Later Bhakti Vilasa Tirtha Maharaja, fulfilling Bhaktisiddhanta's wish, built at
+Srivasa-angana, next to the Advaita-bhavana, a temple of Gadadhara. <!-- F58 F114 F138 -->
+
+## Narada and the Pancha-tattva
+In Krishna's pastimes Srivasa is the sage Narada. The “Gaura-ganoddesha-dipika” says:
+
+“The wise Srivasa Pandita is the former sage Narada; the best of sages named Parvata, Narada's friend, is Sriman Rama
+Pandita, his younger brother.” (GGD 90)
+
+Malini in Vraja is Krishna's nurse Ambika: “The nurse in Vraja named Ambika, who once suckled Him, is this Malini,
+considered the wife of Srivasa” (GGD 42). And Narayani is Kilimbika, Ambika's younger sister, who partook of Krishna's
+remnants (GGD 43). Srivasa is also called an avatara of Narada Muni; the nature of Narada and the sense of majesty were
+recognised in him by the Lord Himself in the dispute at Hera-panchami, and he came on stage as Narada in the play at
+Chandrashekhara's. <!-- F115 Q3 F105 -->
+
+In the Pancha-tattva Srivasa is “the one called a devotee,” bhakta-akhya, a pure devotee. The
+“Gaura-ganoddesha-dipika” lists the five: Gaurachandra is “the devotee in form,” Nityananda “the devotee in essence,”
+Advaita “the incarnation of the devotee”; “Srivasa and the others are ‘those called devotees,’ for they have the form of
+devotees,” and “the potency of the devotee” is Gadadhara Pandita (GGD 11). Srila Bhaktisiddhanta Sarasvati, in his
+commentary on CC, Adi 1.14, explains: all five are one in essence and differ only in five moods; Gauranga, Nityananda and
+Advaita are vishnu-tattva, while the shaktis and the pure devotees are His energies. The chief shaktis are Gadadhara,
+Svarupa Damodara and Ramananda; the pure devotees are Srivasa and others who serve the Lord in the mood of friendship and
+service. So too Krishnadasa Kaviraja says that Srivasa and countless devotees belong to the pure devotee-servants, while
+Gadadhara and others are incarnations of energies (CC, Adi 7.94–97). <!-- F116 Q17 -->
+
+## The Glory of Srivasa
+The biographies call Srivasa the first of the pure devotees and a constant associate of the Lord, a participant in all
+His important pastimes. Lochana Dasa in the “Chaitanya-mangala” names him among the associates who descended with the
+Lord, and the “Chaitanya-bhagavata” calls the Lord “the sole refuge of Srivasa and Gadadhara.” Srivasa's name has entered
+prayers as well: “nāmi śrīmad-advaitācāryaṁ śrīvāsa-paṇḍitam…”; in the guru-parampara of the “Hari-bhakti-vilasa”
+Srivasa is mentioned among the authorities — “…gadādharaṁ śrīvāsaṁ bhakta-varyakam”; in explaining the “Bhagavatam”
+(11.5.32), Srivasa and others are named the “upangas,” the Lord's associates. Sarvabhauma's life as a householder is held
+up as an example by comparison with Advaita and Srivasa: for the sake of service to the Lord they set aside family and
+social concerns. His name stands forever in the row of the five names of the Pancha-tattva: “Krishna Chaitanya, Prabhu
+Nityananda, Advaita, Gadadhara, Srivasa.” <!-- F117 F118 F135 F139 -->
+
+Srivasa is mentioned also in a song of Vamshivadana about Srivasa's temple, and in the account of Yadunatha Dasa about
+Chandrashekhara, who came from Shrihatta together with Srivasa and Srirama. The biographies recall that Jagadananda,
+Nandana, Buddhimanta, Jagadisha and Shuklambara attended the kirtanas at Srivasa's, and that it was in Srivasa-angana
+that Murari received his lesson about the order of obeisances. <!-- F139 -->
+
+The whole meaning of this life lies in the words with which the account of him closes: the Lord, Who increases the glory
+of His devotees, was defeated by His devotee, and therefore we sing the glory of Srivasa. Gaurasundara Himself maintains
+one who has surrendered to Him: there is no need to go begging at others' doors. The home where no gods other than Gaura
+were known became the home of His pastimes; in it even the servants, dogs and cats attained what ascetics do not
+attain. <!-- I10 I1 F5 F64 -->
+
+[^1]: So the “Prema-vilasa” relates: Jaladhara Pandita had five sons, the eldest of whom was Nalina Pandita, and Srivasa
+    was the second. All other accounts speak of four brothers — Srivasa, Srirama, Shripati and Shrinidhi.
+[^2]: Whose daughter Narayani was is told differently: by some accounts, the eldest brother's, Nalina Pandita's; by
+    others, simply “one of the brothers'”; the “Chaitanya-bhagavata” calls her the daughter of Srivasa's brother.
+    Vrindavana Dasa himself nowhere says that he is the grandson of Srivasa's brother and that Srivasa is his
+    great-uncle, so as not to exalt himself. In one place, however, he is called the grandson of Srivasa's sister.
+[^3]: By another account (citing Srila Bhaktisiddhanta's commentary on the “Chaitanya-bhagavata”), as a boy Vrindavana
+    Dasa grew up in the ancestral home of Malini Devi.
+[^4]: Some biographies state plainly that Srivasa had only one son; others, describing his household, mention Srivasa's
+    “wife, sons and servants.”
+[^5]: Our calendar marks the appearance day of Srivasa Pandita on Krishna-ashtami of the month of Vishnu (≈ Chaitra); his
+    disappearance day is not in the calendar. One biography names the month of his departure Vamana, another Ashadha;
+    these are the same month.
+[^6]: The Lord's associates are not subject to maya, the illusory energy. What for a time keeps them from recognising Him
+    is yogamaya — the Lord's internal energy, which arranges His pastimes: not recognising God in Nimai, the devotees
+    prayed for Him with love, and so the tastes of these pastimes came to be.
+[^7]: By one biography, the impressionable Srivasa believed the rumours about the king's boats, grew alarmed and began to
+    worship Nrisimhadeva for protection; by another, nothing is said of fear — the Lord came because He knew the heart of
+    His devotee.
+[^8]: One of the biographies, telling of this in its chapter on Srivasa, says nothing of a search: Mahaprabhu knew that
+    Nityananda was at Nandana's and went there Himself with the devotees.
+[^9]: On Gaura's head, by one account, or round His neck, by another.
+[^10]: Srivasa is not saying that Nityananda acts in this way, but that no deeds of Nityananda — even those that might
+    seem inadmissible — would shake his faith: Nityananda is the Lord's second body, and His acts are not subject to
+    worldly judgement.
+[^11]: By another account, the crow carried off a vessel of ghee used for the worship of Vishnu in Srivasa's house.
+[^12]: When the kirtana began is told differently: by some accounts (so also the “Chaitanya-bhagavata,” Madhya 8.77–78),
+    in the evening of Ekadashi; by others, from the dawn of the day of hari-vasara.
+[^13]: One biography places the incident at Devananda's before the Lord's appearance; the others do not date it. How
+    Devananda was freed from his offence is also told differently: he received the Lord's mercy by serving Vakreshvara —
+    or he came to Srivasa and was forgiven by him.
+[^14]: By one account, Srivasa told another devotee to lead her out unnoticed by the rest; by another, all the devotees
+    searched, and Srivasa, finding his mother-in-law, was embarrassed and led her out by the hair himself.
+[^15]: According to one of the biographies, the Kazi (Sirajuddin, Chand Kazi) came to Srivasa's house in particular, broke
+    a mridanga there and ordered the devotees to be beaten.
+[^16]: The order of the procession is told differently: by one account, it was divided into three parts headed by Advaita,
+    Haridasa and Srivasa, while Nityananda was with the Lord; by another, Haridasa went in front, Advaita in the middle and
+    Gaurachandra Himself at the rear, and Srivasa together with Gadadhara, Vakreshvara, Murari, Gopinatha and countless
+    servants went with Him.
+[^17]: By one account, the Lord asked Nandana to bring Srivasa; by another, it was Haridasa who brought Srivasa to
+    Nandana's.
+[^18]: By one account, Srivasa moved to Kumarahatta not after the sannyasa but after Mahaprabhu's disappearance.
+[^19]: When this happened is told differently: by one account, soon after the sannyasa, from Advaita's house in
+    Shantipura; by another (so in the “Chaitanya-bhagavata”), when, five years after His sannyasa, the Lord came from Puri
+    to Bengal to see Shachi and the Ganga and, after staying a few days with Advaita, went to Kumarahatta.
+[^20]: These are different kirtanas, and Srivasa's roles in them differ: at the Ratha-yatra he was the lead singer of the
+    second group (CC, Madhya 13), while in the kirtana at the Lord's residence and in the great kirtana around the temple he
+    was the dancer of his group.
+[^21]: No biography names either the year or the place of his departure. His appearance at the Kheturi festival does not
+    contradict this: the eternal associates of the Lord, having withdrawn their pastimes from the world's sight, can
+    manifest themselves again whenever and wherever the Lord and His devotees wish.
