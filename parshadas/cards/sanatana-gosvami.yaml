@@ -1,0 +1,210 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/sanatana-gosvami.md и lila-db.
+id: "@sanatana-gosvami"
+names:
+  ru: "Санатана Госвами"
+  en: "Sanatana Gosvami"
+  variants: ["Сакара (Шакара) Маллик (титул при Хуссейн Шахе)", "Шри Санатана", "Санатана-авадхута (ЧБ)", "Рати-манджари / Лаванга-манджари (в Кришна-лиле)", "«Амара» (прежнее имя — по мнению некоторых, M; B — предание анйабхилаши)", "бхакти-сиддхантачарья (T)", "ачарья самбандха-гьяны (M)"]
+  facts: [F31, F57, F59, F488, F20, F4, F359]
+kind: acharya
+circle: [goswamis, vrindavana]
+period: [P05, P13, P14, P15]
+period_note: "Лично: юность и служба в Рамакели (сон с «Бхагаватам» — P05 по lila-db), Рамакели, заточение, Каши и первый Врадж (P13), Пури и Врадж при Господе (P14), Врадж после сокрытия Господа до ухода в 1558 г. (P15)."
+life:
+  appearance:
+    date: "1488 (1410 Шака, 1545 Самват)"
+    tithi: ""
+    place: ""
+    conf: "год — согласно B (три свидетельства), T и M; место рождения не названо"
+    facts: [F8, F9]
+  disappearance:
+    date: "1558 (1480 Шака, 1615 Самват)"
+    tithi: "Ашадха-пурнима (B, T); по нашему календарю — пурнима месяца Вамана, в день Гуру- (Вьяса-) пурнимы (29 июля 2026)"
+    place: "#vrindavana"
+    conf: "год и день по B и T совпадают и с нашим календарём; M об уходе молчит"
+    facts: [F10, F11, F485]
+  samadhi: [{place: "#dvadashaditya-tila", facts: [F485, F396]}]
+origin:
+  places: ["#karnata", "#naihati", "#chandradvipa", "#fatehabad", "#ramakeli"]
+  family: ["@kumara-deva", "@rupa-gosvami", "@anupama", "@jiva-gosvami"]
+  varna: "брахман из рода царей Карнаты; себя из смирения считал падшим"
+  facts: [F12, F13, F17, F15, F32, F38, F418, F419, F420]
+  note: "Родословная — по «Лагху-тошани» Дживы (B, M); кто переселился в Бакла-Чандрадвипу — Кумарадева (B) / Мукунда (M). Дед Мукунда служил при дворе Гауды, и Санатана занял его место (T, по ГВА)."
+relations:
+  - {type: father, who: "@kumara-deva", facts: [F17, F12]}
+  - {type: sibling, who: "@rupa-gosvami", facts: [F17, F31, F53, F68, F83, F247, F309, F437, F414, F369, F370], note: "Младший брат; Рупа освободил Санатану письмом и деньгами; во Врадже — вместе исполняли поручения Господа."}
+  - {type: siksha-disciple, who: "@rupa-gosvami", facts: [F360, F363, F449], note: "M: Рупа считал Санатану своим духовным учителем; «Лагху-бхагаватамрита» — сокращение книги Санатаны."}
+  - {type: sibling, who: "@anupama", facts: [F17, F265, F266]}
+  - {type: nephew, who: "@jiva-gosvami", facts: [F18, F324]}
+  - {type: siksha-disciple, who: "@jiva-gosvami", facts: [F380, F381, F477, F383, F384, F385, F386], note: "Джива сократил «Вайшнава-тошани» по велению Санатаны; Санатана заступился за Дживу перед Рупой (БР)."}
+  - {type: guru, who: "@mahaprabhu", facts: [F56, F57, F105, F124, F231, F232, F243, F273, F303, F306], events: [ev-ramakeli-rupa-sanatana, ev-sanatana-kashi-instruction, ev-sanatana-puri-sores], note: "Имя в Рамакели; два месяца наставлений в Каши и четыре поручения; год в Пури."}
+  - {type: guru, who: "@vidya-vachaspati", facts: [F24, F29], note: "Учитель шастр, брат Сарвабхаумы."}
+  - {type: guru, who: "@sarvabhauma", facts: [F29, F479], note: "Чтим как учитель в мангалачаране «Вайшнава-тошани»."}
+  - {type: siksha-disciple, who: "@raghunatha-dasa", facts: [F325, F326, F329, F327], events: [ev-raghunatha-dasa-radha-kunda], note: "«Третий брат»; удержан от самоубийства; дающий самбандха-гьяну («Вилапа-кусуманджали»)."}
+  - {type: companion, who: "@raghunatha-bhatta", facts: [F323], events: [ev-raghunatha-bhatta-sent-vrindavana]}
+  - {type: friend, who: "@gopala-bhatta", facts: [F375, F376, F377, F328, F457, F462, F463, F378], events: [ev-gopala-bhatta-comes-vrindavana, ev-hari-bhakti-vilasa, ev-radha-ramana-appearance], note: "ХБВ составлена Санатаной и издана под именем Гопала Бхатты (по ряду мнений — отредактирована им)."}
+  - {type: disciple, who: "@krishnadasa-kapur", facts: [F346, F349], note: "Построил храм Мадана-мохана; ученик — по T и M."}
+  - {type: servant, who: "@krishnadasa-brahmachari", facts: [F353], note: "Пуджари Мадана-гопала по «Сева-пракатье»."}
+  - {type: friend, who: "@haridasa-thakura", facts: [F261, F267, F278, F279, F399], note: "В Пури Санатана жил у Харидаса (T: в Сиддха-бакуле)."}
+  - {type: companion, who: "@jagadananda-pandita", facts: [F290, F291, F294, F296, F310, F314, F317, F319, F321, F320], events: [ev-jagadananda-advises-sanatana, ev-jagadananda-vrindavana-pilu]}
+  - {type: ruler-of, who: "@gauda-sultan", facts: [F31, F35, F36, F77, F78, F79, F81, F82, F73], events: [ev-rupa-sanatana-renunciation], note: "Хуссейн Шах: Санатана — первый министр (T, B) / личный секретарь (M); заточение за отказ служить."}
+  - {type: co-worker, who: "@keshava-vasu", facts: [F37, F52]}
+  - {type: in-law, who: "@shrikanta-hajipur", facts: [F101, F102, F100]}
+  - {type: servant, who: "@ishana-sanatana-servant", facts: [F90, F94, F98]}
+  - {type: host, who: "@chandrashekhara-vaidya", facts: [F103, F104, F110, F253]}
+  - {type: host, who: "@tapana-mishra", facts: [F108, F109, F110, F112, F253]}
+  - {type: met, who: "@maharashtra-vipra-kashi", facts: [F113, F253]}
+  - {type: other, who: "@prakashananda-sarasvati", facts: [F244]}
+  - {type: companion, who: "@subuddhi-raya", facts: [F248, F247], event: ev-sanatana-mathura-vraja-places}
+  - {type: companion, who: "@balabhadra-bhattacharya", facts: [F307]}
+  - {type: met, who: "@mukunda-sarasvati", facts: [F317, F319]}
+  - {type: other, who: "@vasudeva-vipra", facts: [F299]}
+  - {type: companion, who: "@svarupa-damodara", facts: [F263, F398]}
+  - {type: companion, who: "@nityananda", facts: [F53, F304, F324]}
+  - {type: companion, who: "@advaita", facts: [F304, F59]}
+  - {type: friend, who: "@lokanatha", facts: [F387, F388, F389, F464]}
+  - {type: companion, who: "@kashishvara", facts: [F464, F479]}
+  - {type: lineage-successor, who: "@srinivasa-acharya", facts: [F390, F391, F392], events: [ev-srinivasa-vision-rupa-sanatana]}
+  - {type: lineage-successor, who: "@narottama-dasa", facts: [F393, F394, F395], events: [ev-narottama-path-vision, ev-narottama-vrindavana-darshan]}
+  - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F3], note: "«Милостью Санатаны я узнал основы сиддханты бхакти» (ЧЧ Ади 5.203)."}
+  - {type: other, who: "@ramachandra-kaviraja", facts: [F396]}
+  - {type: other, who: "@chaitanya-dasa", facts: [F390]}
+  - {type: other, who: "@vishvanatha-chakravarti", facts: [F400, F401, F483]}
+  - {type: other, who: "@baladeva-vidyabhushana", facts: [F402, F474]}
+  - {type: other, who: "@bhaktivinoda", facts: [F8, F84, F315, F49, F456]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F6, F7, F58, F380, F469, F405, F355, F404]}
+  - {type: other, who: "@kavi-karnapura", facts: [F443]}
+  - {type: other, who: "@vrindavana-dasa", facts: [F59]}
+  - {type: other, who: "@radhavallabha-dasa-poet", facts: [F426, F427, F441], note: "«Санатана-сучака» — жизнь Санатаны в стихах."}
+  - {type: other, who: "@murari-gupta", facts: [F266]}
+  - {type: other, who: "@madhavendra-puri", facts: [F479, F251]}
+  - {type: other, who: "@shridhara-svami", facts: [F478, F479]}
+  - {type: other, who: "@prabodhananda-sarasvati", facts: [F457]}
+  - {type: other, who: "@vamshidasa-babaji", facts: [F487]}
+  - {type: deity-served, who: "@madana-mohana-vrindavana", facts: [F337, F338, F340, F343, F345, F346, F350, F351, F352, F353, F341, F342, F344, F357, F359, F354], events: [ev-madana-mohana-chaube], note: "Мадана-гопала — «сокровище жизни» Санатаны, Божество самбандхи; явление — четыре версии; ныне — в Караули."}
+  - {type: other, who: "@shrinathji-deity", facts: [F251, F252], note: "Даршан Гопала в Гатхоли (T) / у подножия холма (M)."}
+  - {type: other, who: "@radha-ramana-deity", facts: [F376], event: ev-radha-ramana-appearance}
+  - {type: other, who: "@radha", facts: [F369, F370], note: "Предания: коса-«змея» на Радха-кунде; сладкий рис."}
+  - {type: other, who: "@shiva", facts: [F336, F371], note: "Чакрешвара у Чакра-тиртхи избавил от комаров; Шива послал бедного брахмана к Санатане."}
+  - {type: other, who: "@sanaka-kumaras", facts: [F488], note: "По ГГД, в Санатану вошёл Санатана- (Санат-) кумара."}
+unnamed:
+  - {who: "предки: Сарвагья, Анируддха, Рупешвара, Падманабха, Мукунда-дева (дед; служил при дворе Гауды — T)", type: relative, facts: [F12, F15, F32]}
+  - {who: "мать (имя неизвестно); дядя по матери", type: relative, facts: [F19]}
+  - {who: "учителя по «Вайшнава-тошани»: Видьябхушана, Парамананда Бхаттачарья, Рамабхадра (и Вани-виласа)", type: guru, facts: [F29, F479]}
+  - {who: "двадцать–тридцать пандитов-бхаттачарий в доме Санатаны", type: companion, facts: [F76, F416]}
+  - {who: "Пурандара Кхан — преемник на посту министра (предание)", type: other, facts: [F75, F37]}
+  - {who: "тюремщик", type: other, facts: [F86, F88, F89, F87]}
+  - {who: "бхуинья — главарь разбойников у гор Патра, и его звездочёт", type: other, facts: [F91, F92, F96, F97, F99]}
+  - {who: "гаудиец, взявший бхота-камбалу в обмен на кантху", type: other, facts: [F115]}
+  - {who: "брахман-санория (обход Враджа)", type: companion, facts: [F247]}
+  - {who: "Ачьюта дас (ория-поэт; посвящение — предание)", type: other, facts: [F409]}
+  - {who: "Манохара дас — автор песни о Санатане", type: other, facts: [F442]}
+  - {who: "Шри Дживана Чакраварти из Манкара (философский камень)", type: other, facts: [F371, F374]}
+  - {who: "Уддхава Дас из Нандаграма — последователь", type: disciple, facts: [F403]}
+identities:
+  - in: krishna-lila
+    as: "Рати-манджари (Лаванга-манджари), любимейшая подруга Рупа-манджари"
+    source: "ГГД 181–182"
+    level: A
+    facts: [F488, Q66]
+    variants: []
+  - in: other-avatara
+    as: "в него вошёл Санатана- (Санат-) кумара, «драгоценность среди мудрецов»"
+    source: "ГГД 181–182 (вторая половина стиха; B, T)"
+    level: A
+    facts: [F488]
+    variants: ["M приводит лишь первую половину стиха"]
+  - in: tattva
+    as: "неотличный телом от Гауры (продолжение тела Шри Чайтаньи — M)"
+    source: "ГГД 181"
+    level: A
+    facts: [F488]
+  - in: other
+    as: "вечный спутник Господа в теле бхагават-паршады, выше варнашрамы; «низость» — слова смирения"
+    source: "B, T, M (толкование авторов)"
+    level: C
+    facts: [F424, F67, I1, I2, I3]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-sanatana-dream-bhagavata
+  - ev-ramakeli-rupa-sanatana
+  - ev-rupa-sanatana-renunciation
+  - ev-rupa-prayaga
+  - ev-sanatana-escape-kashi
+  - ev-sanatana-bhota-kantha
+  - ev-sanatana-kashi-instruction
+  - ev-sanatana-shiksha-aishvarya-madhurya
+  - ev-sanatana-shiksha-sadhana-bhakti
+  - ev-sanatana-shiksha-prema-rasa
+  - ev-atmarama-sixty-one
+  - ev-sanatana-vaishnava-smriti-plan
+  - ev-sanatana-mathura-vraja-places
+  - ev-sanatana-puri-sores
+  - ev-anupama-rama-devotion
+  - ev-sanatana-suicide-forbidden
+  - ev-sanatana-hot-sand-test
+  - ev-jagadananda-advises-sanatana
+  - ev-sanatana-returns-vrindavana-forest-path
+  - ev-madana-mohana-chaube
+  - ev-rupa-sanatana-books-vrindavana
+  - ev-gopala-milk-rupa-sanatana
+  - ev-gosvamis-reveal-lost-tirthas
+  - ev-rupa-sanatana-vrindavana-vairagya
+  - ev-jagadananda-vrindavana-pilu
+  - ev-raghunatha-bhatta-sent-vrindavana
+  - ev-gopala-bhatta-comes-vrindavana
+  - ev-hari-bhakti-vilasa
+  - ev-raghunatha-dasa-radha-kunda
+  - ev-jiva-exiled-by-rupa
+  - ev-radha-ramana-appearance
+  - ev-gosvami-works-vraja
+  - ev-rupa-sanatana-departure
+  - ev-srinivasa-vision-rupa-sanatana
+  - ev-narottama-path-vision
+  - ev-narottama-vrindavana-darshan
+events_note: "События — по реестру. ev-madana-mohana-chaube (Мадана-мохан из дома Дамодары Чаубе) — версия lila-db, в книгах-источниках реестра её нет (там — сон и приход Божества в хижину, или ребёнок в Махаване). В реестре нет и эпизодов lila-db ev-yukta-vairagya-sanatana-question («Према-виваррта»), ev-krishnadasa-kaviraja-revived, ev-rupa-narayana, ev-jiva-vallabha-dispute, ev-chaitanya-swoons-vallabha-words; ~60 эпизодов, где Санатана лишь упомянут, сюда не вынесены (query.py @sanatana-gosvami)."
+teachings_received:
+  - {topic: "самбандха, абхидхея, прайоджана; «кто я?»; облики Кришны; садхана- и рагануга-бхакти; према и расы — два месяца в Каши", facts: [F124, F127, F128, F135, F141, F183, F199, F210, F215, F219, F243]}
+  - {topic: "четыре поручения: сиддханта бхакти, утраченные тиртхи, служение Божеству, вайшнава-смрити; юкта-вайрагья", facts: [F232, F233, F242]}
+  - {topic: "Кришну обретают бхаджаном, а не оставлением тела; тело преданного — достояние Господа и неземное", facts: [F270, F273, F300, F301]}
+teachings_given:
+  - {topic: "сиддханта бхакти, самбандха-гьяна (бхакти-сиддхантачарья; ачарья самбандхи)", facts: [F3, F4, F359, F363, F274]}
+  - {topic: "юкта-вайрагья, а не показное отречение", facts: [F118, F233, F425, I33]}
+  - {topic: "марьяда и смирение поющего Имя (амани-манада)", facts: [F287, F288, I26, I27]}
+  - {topic: "ачара и прачара: Харидас — гуру всего мира", facts: [F279]}
+  - {topic: "«Бхагаватам» — истинный комментарий на Веданту; превосходство враджа-премы («Брихад-бхагаватамрита»)", facts: [F402, F452, F453]}
+works:
+  - {title: "«(Брихад-) бхагаватамрита» («Шри Бхагаватамрита») с «Диг-даршини»", facts: [F444, F446, F449, F450, F452, F453, F454, F455, F451, F274, F456]}
+  - {title: "«Хари-бхакти-виласа» (вайшнава-смрити; под именем Гопала Бхатты) с «Диг-даршини»", facts: [F240, F242, F457, F459, F460, F461, F462, F464, F465, F466, F467, F468, F470, F463, F469]}
+  - {title: "«Лила-става» («Дашама-чарита», «Кришна-лила-става»)", facts: [F473, F474, F475, F30]}
+  - {title: "«(Брихад-) вайшнава-тошани» («Дашама-типпани»), 1476 Шака", facts: [F477, F478, F479, F328]}
+  - {title: "спорные атрибуции: «Йогашатака-вьякхьяна», «Татпарья-дипика» на «Мегхадуту», «Бхакти-бинду», «Уджджвала-раса-кана», «Гопала-пуджа»", facts: [F481, F482, F483, F484]}
+places: ["#karnata", "#naihati", "#chandradvipa", "#fatehabad", "#ramakeli", "#gauda", "#maldah", "#sakurma", "#kanai-natashala", "#patra-hills", "#hajipur", "#kashi", "#etawah", "#prayaga", "#mathura", "#vrindavana", "#gokula", "#jharikhanda", "#puri", "#siddha-bakula", "#yameshvara-tota", "#govardhana", "#ganthuli", "#chakra-tirtha-govardhana", "#radha-kunda", "#radha-damodara-temple", "#pavana-sarovara", "#nandagrama", "#dvadashaditya-tila", "#jaipur", "#karauli"]
+places_facts: [F12, F13, F19, F42, F48, F65, F90, F100, F103, F119, F247, F257, F261, F283, F340, F332, F335, F365, F366, F322, F350, F351, F485, F352, F252, F487, F369]
+character:
+  - {trait: "глубочайшее смирение: не входил в храм Джаганнатхи, обходил Симха-двару, считал себя «ниже млеччхи»", facts: [F260, F268, F287, F418, F38, F5]}
+  - {trait: "отречение, соединённое со служением (юкта-вайрагья): старая ткань, мадхукари, обмен одеяла на кантху", facts: [F110, F113, F115, F118, F441, F425]}
+  - {trait: "хранитель марьяды, за что его особенно хвалил Господь", facts: [F287, F288]}
+  - {trait: "преданность гуру и «Бхагаватам» с юности", facts: [F24, F25, F27, F26]}
+  - {trait: "мудрость в мирских делах, служившая Господу (совет в Рамакели, побег)", facts: [F60, F94, I8]}
+  - {trait: "верность обету до старости (обход Говардхана)", facts: [F364]}
+  - {trait: "простота, за которую враджаваси считали его своим", facts: [F333]}
+significance: {facts: [F1, F2, F3, F4, F5, F359, F363, F274, I1, I2, I32]}
+sources:
+  T: "162–172 (глава); 24, 32–33, 43, 68, 83, 89, 97–98, 105, 107–111, 136–137, 150–151, 153, 155–156, 158, 160–161, 176–177, 186–190, 193, 204–210, 225, 231, 236, 240, 254, 257, 269"
+  M: "161–184 (глава); 46, 48, 90, 97–98, 105, 123–125, 187, 255"
+  B: "405–492 (глава); 507, 519, 522, 532, 552–553, 573, 598, 601, 609, 614, 625, 662, 694, 975, 991, 995, 1056, 1109, 1128"
+  other: ["ЧЧ Ади 1.15, 1.19, 1.69–70, 1.76, 5.203; Мадхья 1.35–36, 1.163–224, 16.261–269, 19.17, 19.127–131, 20–24, 25.158–208; Антья 4.5–222, 5.86–87, 6.220, 13.33–61", "ЧБ Антья 9.273", "ГГД 181–182", "«Бхакти-ратнакара» 1.197–208, 1.531–635, 1.791–810, 2.456–473, 5.728–741, 5.1311–1330, 5.1777–1780", "«Чайтанья-чандродая-натака» 9.45", "«Лагху-вайшнава-тошани» (заключение)", "«Вилапа-кусуманджали»", "«Санатана-сучака» Радхаваллабхи даса", "Мурари Гупта, «Карча» 3.18", "«Гаудия-вайшнава-абхидхана» (через T)", "«Саджджана-тошани»"]
+article: {ru: "parshadas/ru/sanatana-gosvami.md", en: "parshadas/en/sanatana-gosvami.md"}
+open_questions:
+  - "Должность при Хуссейн Шахе: первый министр (T, B — «два высших поста») или личный секретарь (M); смысл титула «Сакара Маллик» («махаллик», «шукур» — B / «господин» — M) (F32, F33, F420, F421)."
+  - "Кто переселился в Бакла-Чандрадвипу — Кумарадева (B) или Мукунда (M) (F13)."
+  - "Встреча в Рамакели: в полночь (B), ночью (T) или вечером (M); совет не идти с толпой — Санатаны (B, T) или обоих братьев (M) (F53, F60)."
+  - "Заточение до похода Шаха в Ориссу (B) или за отказ идти в поход (T, M); выкуп — сразу 7000 (B) или 5000, затем 7000 (T) (F82, F87)."
+  - "Горы на пути: Патра (B; T — в холмах Раджмахал) или Хазарибаг (M) (F90, F99)."
+  - "Ткань в Каши: старая ткань Тапаны Мишры (B, M) или своя (T) (F110)."
+  - "Где жил в Пури: у Харидаса по велению Господа (B) / по приглашению Харидаса (T) / встреча с Харидасом позже (M); весть об Анупаме — от Господа (B, T) или Харидаса (M) (F261, F265)."
+  - "M: гаудия-санньяси со слов Санатаны перешли на шафрановую ткань — ⚠ против ЧЧ Антья 13.61 (F320)."
+  - "Явление Мадана-мохана — четыре версии (B, T, M, lila-db: дом Дамодары Чаубе); Капур — купец (B, M) или военачальник (T) (F343, F341, F346)."
+  - "Шила Говардхана: обход «семь крош» / 14 / 4 мили; дающий — Кришна / Гопинатха / Гирираджа (F364)."
+  - "Сладкий рис: ответ Санатаны и место (F370)."
+  - "Авторство «Хари-бхакти-виласы» и «Диг-даршини» (F462, F467, F468, F444)."
+  - "ЧБ: имена даны в Нилачале — ⚠ против ЧЧ (F59)."

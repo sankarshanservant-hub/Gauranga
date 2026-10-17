@@ -5979,6 +5979,636 @@
   "note": "Предания (БР): Радха приносит продукты для сладкого риса; коса — «змея» в «Чату-пушпанджали»."
  },
  {
+  "from": "@sanatana-gosvami",
+  "type": "father",
+  "who": "@kumara-deva",
+  "facts": [
+   "F17",
+   "F12"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "sibling",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F17",
+   "F31",
+   "F53",
+   "F68",
+   "F83",
+   "F247",
+   "F309",
+   "F437",
+   "F414",
+   "F369",
+   "F370"
+  ],
+  "note": "Младший брат; Рупа освободил Санатану письмом и деньгами; во Врадже — вместе исполняли поручения Господа."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "siksha-disciple",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F360",
+   "F363",
+   "F449"
+  ],
+  "note": "M: Рупа считал Санатану своим духовным учителем; «Лагху-бхагаватамрита» — сокращение книги Санатаны."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "sibling",
+  "who": "@anupama",
+  "facts": [
+   "F17",
+   "F265",
+   "F266"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "nephew",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F18",
+   "F324"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "siksha-disciple",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F380",
+   "F381",
+   "F477",
+   "F383",
+   "F384",
+   "F385",
+   "F386"
+  ],
+  "note": "Джива сократил «Вайшнава-тошани» по велению Санатаны; Санатана заступился за Дживу перед Рупой (БР)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "guru",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F56",
+   "F57",
+   "F105",
+   "F124",
+   "F231",
+   "F232",
+   "F243",
+   "F273",
+   "F303",
+   "F306"
+  ],
+  "events": [
+   "ev-ramakeli-rupa-sanatana",
+   "ev-sanatana-kashi-instruction",
+   "ev-sanatana-puri-sores"
+  ],
+  "note": "Имя в Рамакели; два месяца наставлений в Каши и четыре поручения; год в Пури."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "guru",
+  "who": "@vidya-vachaspati",
+  "facts": [
+   "F24",
+   "F29"
+  ],
+  "note": "Учитель шастр, брат Сарвабхаумы."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "guru",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F29",
+   "F479"
+  ],
+  "note": "Чтим как учитель в мангалачаране «Вайшнава-тошани»."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "siksha-disciple",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F325",
+   "F326",
+   "F329",
+   "F327"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-radha-kunda"
+  ],
+  "note": "«Третий брат»; удержан от самоубийства; дающий самбандха-гьяну («Вилапа-кусуманджали»)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F323"
+  ],
+  "events": [
+   "ev-raghunatha-bhatta-sent-vrindavana"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "friend",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F375",
+   "F376",
+   "F377",
+   "F328",
+   "F457",
+   "F462",
+   "F463",
+   "F378"
+  ],
+  "events": [
+   "ev-gopala-bhatta-comes-vrindavana",
+   "ev-hari-bhakti-vilasa",
+   "ev-radha-ramana-appearance"
+  ],
+  "note": "ХБВ составлена Санатаной и издана под именем Гопала Бхатты (по ряду мнений — отредактирована им)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "disciple",
+  "who": "@krishnadasa-kapur",
+  "facts": [
+   "F346",
+   "F349"
+  ],
+  "note": "Построил храм Мадана-мохана; ученик — по T и M."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "servant",
+  "who": "@krishnadasa-brahmachari",
+  "facts": [
+   "F353"
+  ],
+  "note": "Пуджари Мадана-гопала по «Сева-пракатье»."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "friend",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F261",
+   "F267",
+   "F278",
+   "F279",
+   "F399"
+  ],
+  "note": "В Пури Санатана жил у Харидаса (T: в Сиддха-бакуле)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F290",
+   "F291",
+   "F294",
+   "F296",
+   "F310",
+   "F314",
+   "F317",
+   "F319",
+   "F321",
+   "F320"
+  ],
+  "events": [
+   "ev-jagadananda-advises-sanatana",
+   "ev-jagadananda-vrindavana-pilu"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "ruler-of",
+  "who": "@gauda-sultan",
+  "facts": [
+   "F31",
+   "F35",
+   "F36",
+   "F77",
+   "F78",
+   "F79",
+   "F81",
+   "F82",
+   "F73"
+  ],
+  "events": [
+   "ev-rupa-sanatana-renunciation"
+  ],
+  "note": "Хуссейн Шах: Санатана — первый министр (T, B) / личный секретарь (M); заточение за отказ служить."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "co-worker",
+  "who": "@keshava-vasu",
+  "facts": [
+   "F37",
+   "F52"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "in-law",
+  "who": "@shrikanta-hajipur",
+  "facts": [
+   "F101",
+   "F102",
+   "F100"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "servant",
+  "who": "@ishana-sanatana-servant",
+  "facts": [
+   "F90",
+   "F94",
+   "F98"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "host",
+  "who": "@chandrashekhara-vaidya",
+  "facts": [
+   "F103",
+   "F104",
+   "F110",
+   "F253"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "host",
+  "who": "@tapana-mishra",
+  "facts": [
+   "F108",
+   "F109",
+   "F110",
+   "F112",
+   "F253"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "met",
+  "who": "@maharashtra-vipra-kashi",
+  "facts": [
+   "F113",
+   "F253"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@prakashananda-sarasvati",
+  "facts": [
+   "F244"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@subuddhi-raya",
+  "facts": [
+   "F248",
+   "F247"
+  ],
+  "event": "ev-sanatana-mathura-vraja-places"
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F307"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "met",
+  "who": "@mukunda-sarasvati",
+  "facts": [
+   "F317",
+   "F319"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@vasudeva-vipra",
+  "facts": [
+   "F299"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F263",
+   "F398"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F53",
+   "F304",
+   "F324"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@advaita",
+  "facts": [
+   "F304",
+   "F59"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "friend",
+  "who": "@lokanatha",
+  "facts": [
+   "F387",
+   "F388",
+   "F389",
+   "F464"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "companion",
+  "who": "@kashishvara",
+  "facts": [
+   "F464",
+   "F479"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "lineage-successor",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F390",
+   "F391",
+   "F392"
+  ],
+  "events": [
+   "ev-srinivasa-vision-rupa-sanatana"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "lineage-successor",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F393",
+   "F394",
+   "F395"
+  ],
+  "events": [
+   "ev-narottama-path-vision",
+   "ev-narottama-vrindavana-darshan"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "siksha-disciple",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F3"
+  ],
+  "note": "«Милостью Санатаны я узнал основы сиддханты бхакти» (ЧЧ Ади 5.203)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F396"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@chaitanya-dasa",
+  "facts": [
+   "F390"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F400",
+   "F401",
+   "F483"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F402",
+   "F474"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F8",
+   "F84",
+   "F315",
+   "F49",
+   "F456"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F6",
+   "F7",
+   "F58",
+   "F380",
+   "F469",
+   "F405",
+   "F355",
+   "F404"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F443"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F59"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@radhavallabha-dasa-poet",
+  "facts": [
+   "F426",
+   "F427",
+   "F441"
+  ],
+  "note": "«Санатана-сучака» — жизнь Санатаны в стихах."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F266"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F479",
+   "F251"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@shridhara-svami",
+  "facts": [
+   "F478",
+   "F479"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@prabodhananda-sarasvati",
+  "facts": [
+   "F457"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F487"
+  ]
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "deity-served",
+  "who": "@madana-mohana-vrindavana",
+  "facts": [
+   "F337",
+   "F338",
+   "F340",
+   "F343",
+   "F345",
+   "F346",
+   "F350",
+   "F351",
+   "F352",
+   "F353",
+   "F341",
+   "F342",
+   "F344",
+   "F357",
+   "F359",
+   "F354"
+  ],
+  "events": [
+   "ev-madana-mohana-chaube"
+  ],
+  "note": "Мадана-гопала — «сокровище жизни» Санатаны, Божество самбандхи; явление — четыре версии; ныне — в Караули."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@shrinathji-deity",
+  "facts": [
+   "F251",
+   "F252"
+  ],
+  "note": "Даршан Гопала в Гатхоли (T) / у подножия холма (M)."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@radha-ramana-deity",
+  "facts": [
+   "F376"
+  ],
+  "event": "ev-radha-ramana-appearance"
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@radha",
+  "facts": [
+   "F369",
+   "F370"
+  ],
+  "note": "Предания: коса-«змея» на Радха-кунде; сладкий рис."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@shiva",
+  "facts": [
+   "F336",
+   "F371"
+  ],
+  "note": "Чакрешвара у Чакра-тиртхи избавил от комаров; Шива послал бедного брахмана к Санатане."
+ },
+ {
+  "from": "@sanatana-gosvami",
+  "type": "other",
+  "who": "@sanaka-kumaras",
+  "facts": [
+   "F488"
+  ],
+  "note": "По ГГД, в Санатану вошёл Санатана- (Санат-) кумара."
+ },
+ {
   "from": "@shachi",
   "type": "father",
   "who": "@nilambara-chakravarti",

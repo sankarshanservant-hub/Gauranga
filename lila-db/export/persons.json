@@ -4137,6 +4137,10 @@
     "type": "guru"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "guru"
+   },
+   {
     "from": "@shachi",
     "type": "son"
    },
@@ -5092,6 +5096,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    }
   ]
@@ -6059,6 +6067,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
    }
   ]
  },
@@ -6113,6 +6125,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "deity-served"
    }
   ]
  },
@@ -6278,6 +6294,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    }
   ]
@@ -10431,6 +10451,10 @@
     "type": "companion"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -11431,6 +11455,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "companion"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "companion"
    },
    {
@@ -13826,6 +13854,10 @@
     "type": "host"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "friend"
+   },
+   {
     "from": "@srivasa",
     "type": "companion"
    },
@@ -14167,6 +14199,10 @@
    },
    {
     "from": "@ramananda-raya",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -15950,6 +15986,10 @@
     "type": "other"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "guest"
    }
@@ -16334,6 +16374,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "guru"
    },
    {
     "from": "@svarupa-damodara",
@@ -17522,6 +17566,10 @@
     "type": "companion"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -18626,6 +18674,14 @@
     "type": "other"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "sibling"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@sundarananda",
     "type": "other"
    },
@@ -19017,6 +19073,388 @@
    "ev-gosvamis-ancestry",
    "ev-pradyumna-mishra-hears-ramananda",
    "ev-narada-mrigari-hunter"
+  ],
+  "summary": "в Кришна-лиле — Рати-манджари, любимейшая подруга Рупа-манджари (ГГД 181–182) и др.; гуру — Шри Чайтанья Махапрабху, Вачаспати (Видья-Вачаспати), Сарвабхаума Бхаттачарья; происхождение — Карната; уход — Ашадха-пурнима; самадхи — Двадашадитья-тила (Адитья-тила)",
+  "card": "parshadas/cards/sanatana-gosvami.yaml",
+  "article": {
+   "ru": "parshadas/ru/sanatana-gosvami.md",
+   "en": "parshadas/en/sanatana-gosvami.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "goswamis",
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1488 (1410 Шака, 1545 Самват)",
+    "tithi": "",
+    "place": "",
+    "conf": "год — согласно B (три свидетельства), T и M; место рождения не названо",
+    "facts": [
+     "F8",
+     "F9"
+    ]
+   },
+   "disappearance": {
+    "date": "1558 (1480 Шака, 1615 Самват)",
+    "tithi": "Ашадха-пурнима (B, T); по нашему календарю — пурнима месяца Вамана, в день Гуру- (Вьяса-) пурнимы (29 июля 2026)",
+    "place": "#vrindavana",
+    "conf": "год и день по B и T совпадают и с нашим календарём; M об уходе молчит",
+    "facts": [
+     "F10",
+     "F11",
+     "F485"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#dvadashaditya-tila",
+     "facts": [
+      "F485",
+      "F396"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«(Брихад-) бхагаватамрита» («Шри Бхагаватамрита») с «Диг-даршини»",
+    "facts": [
+     "F444",
+     "F446",
+     "F449",
+     "F450",
+     "F452",
+     "F453",
+     "F454",
+     "F455",
+     "F451",
+     "F274",
+     "F456"
+    ]
+   },
+   {
+    "title": "«Хари-бхакти-виласа» (вайшнава-смрити; под именем Гопала Бхатты) с «Диг-даршини»",
+    "facts": [
+     "F240",
+     "F242",
+     "F457",
+     "F459",
+     "F460",
+     "F461",
+     "F462",
+     "F464",
+     "F465",
+     "F466",
+     "F467",
+     "F468",
+     "F470",
+     "F463",
+     "F469"
+    ]
+   },
+   {
+    "title": "«Лила-става» («Дашама-чарита», «Кришна-лила-става»)",
+    "facts": [
+     "F473",
+     "F474",
+     "F475",
+     "F30"
+    ]
+   },
+   {
+    "title": "«(Брихад-) вайшнава-тошани» («Дашама-типпани»), 1476 Шака",
+    "facts": [
+     "F477",
+     "F478",
+     "F479",
+     "F328"
+    ]
+   },
+   {
+    "title": "спорные атрибуции: «Йогашатака-вьякхьяна», «Татпарья-дипика» на «Мегхадуту», «Бхакти-бинду», «Уджджвала-раса-кана», «Гопала-пуджа»",
+    "facts": [
+     "F481",
+     "F482",
+     "F483",
+     "F484"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Рати-манджари (Лаванга-манджари), любимейшая подруга Рупа-манджари",
+    "source": "ГГД 181–182",
+    "level": "A"
+   },
+   {
+    "in": "other-avatara",
+    "as": "в него вошёл Санатана- (Санат-) кумара, «драгоценность среди мудрецов»",
+    "source": "ГГД 181–182 (вторая половина стиха; B, T)",
+    "level": "A",
+    "variants": [
+     "M приводит лишь первую половину стиха"
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "неотличный телом от Гауры (продолжение тела Шри Чайтаньи — M)",
+    "source": "ГГД 181",
+    "level": "A"
+   },
+   {
+    "in": "other",
+    "as": "вечный спутник Господа в теле бхагават-паршады, выше варнашрамы; «низость» — слова смирения",
+    "source": "B, T, M (толкование авторов)",
+    "level": "C"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@kumara-deva"
+   },
+   {
+    "type": "sibling",
+    "who": "@rupa-gosvami",
+    "note": "Младший брат; Рупа освободил Санатану письмом и деньгами; во Врадже — вместе исполняли поручения Господа."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@rupa-gosvami",
+    "note": "M: Рупа считал Санатану своим духовным учителем; «Лагху-бхагаватамрита» — сокращение книги Санатаны."
+   },
+   {
+    "type": "sibling",
+    "who": "@anupama"
+   },
+   {
+    "type": "nephew",
+    "who": "@jiva-gosvami"
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@jiva-gosvami",
+    "note": "Джива сократил «Вайшнава-тошани» по велению Санатаны; Санатана заступился за Дживу перед Рупой (БР)."
+   },
+   {
+    "type": "guru",
+    "who": "@mahaprabhu",
+    "note": "Имя в Рамакели; два месяца наставлений в Каши и четыре поручения; год в Пури."
+   },
+   {
+    "type": "guru",
+    "who": "@vidya-vachaspati",
+    "note": "Учитель шастр, брат Сарвабхаумы."
+   },
+   {
+    "type": "guru",
+    "who": "@sarvabhauma",
+    "note": "Чтим как учитель в мангалачаране «Вайшнава-тошани»."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@raghunatha-dasa",
+    "note": "«Третий брат»; удержан от самоубийства; дающий самбандха-гьяну («Вилапа-кусуманджали»)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta"
+   },
+   {
+    "type": "friend",
+    "who": "@gopala-bhatta",
+    "note": "ХБВ составлена Санатаной и издана под именем Гопала Бхатты (по ряду мнений — отредактирована им)."
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnadasa-kapur",
+    "note": "Построил храм Мадана-мохана; ученик — по T и M."
+   },
+   {
+    "type": "servant",
+    "who": "@krishnadasa-brahmachari",
+    "note": "Пуджари Мадана-гопала по «Сева-пракатье»."
+   },
+   {
+    "type": "friend",
+    "who": "@haridasa-thakura",
+    "note": "В Пури Санатана жил у Харидаса (T: в Сиддха-бакуле)."
+   },
+   {
+    "type": "companion",
+    "who": "@jagadananda-pandita"
+   },
+   {
+    "type": "ruler-of",
+    "who": "@gauda-sultan",
+    "note": "Хуссейн Шах: Санатана — первый министр (T, B) / личный секретарь (M); заточение за отказ служить."
+   },
+   {
+    "type": "co-worker",
+    "who": "@keshava-vasu"
+   },
+   {
+    "type": "in-law",
+    "who": "@shrikanta-hajipur"
+   },
+   {
+    "type": "servant",
+    "who": "@ishana-sanatana-servant"
+   },
+   {
+    "type": "host",
+    "who": "@chandrashekhara-vaidya"
+   },
+   {
+    "type": "host",
+    "who": "@tapana-mishra"
+   },
+   {
+    "type": "met",
+    "who": "@maharashtra-vipra-kashi"
+   },
+   {
+    "type": "other",
+    "who": "@prakashananda-sarasvati"
+   },
+   {
+    "type": "companion",
+    "who": "@subuddhi-raya"
+   },
+   {
+    "type": "companion",
+    "who": "@balabhadra-bhattacharya"
+   },
+   {
+    "type": "met",
+    "who": "@mukunda-sarasvati"
+   },
+   {
+    "type": "other",
+    "who": "@vasudeva-vipra"
+   },
+   {
+    "type": "companion",
+    "who": "@svarupa-damodara"
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda"
+   },
+   {
+    "type": "companion",
+    "who": "@advaita"
+   },
+   {
+    "type": "friend",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "companion",
+    "who": "@kashishvara"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@srinivasa-acharya"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@krishnadasa-kaviraja",
+    "note": "«Милостью Санатаны я узнал основы сиддханты бхакти» (ЧЧ Ади 5.203)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@chaitanya-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti"
+   },
+   {
+    "type": "other",
+    "who": "@baladeva-vidyabhushana"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@radhavallabha-dasa-poet",
+    "note": "«Санатана-сучака» — жизнь Санатаны в стихах."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta"
+   },
+   {
+    "type": "other",
+    "who": "@madhavendra-puri"
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-svami"
+   },
+   {
+    "type": "other",
+    "who": "@prabodhananda-sarasvati"
+   },
+   {
+    "type": "other",
+    "who": "@vamshidasa-babaji"
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-mohana-vrindavana",
+    "note": "Мадана-гопала — «сокровище жизни» Санатаны, Божество самбандхи; явление — четыре версии; ныне — в Караули."
+   },
+   {
+    "type": "other",
+    "who": "@shrinathji-deity",
+    "note": "Даршан Гопала в Гатхоли (T) / у подножия холма (M)."
+   },
+   {
+    "type": "other",
+    "who": "@radha-ramana-deity"
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "Предания: коса-«змея» на Радха-кунде; сладкий рис."
+   },
+   {
+    "type": "other",
+    "who": "@shiva",
+    "note": "Чакрешвара у Чакра-тиртхи избавил от комаров; Шива послал бедного брахмана к Санатане."
+   },
+   {
+    "type": "other",
+    "who": "@sanaka-kumaras",
+    "note": "По ГГД, в Санатану вошёл Санатана- (Санат-) кумара."
+   }
   ],
   "related_by": [
    {
@@ -19879,6 +20317,10 @@
    },
    {
     "from": "@raghunandana",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -21008,6 +21450,10 @@
     "type": "other"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -21488,6 +21934,12 @@
   "events": [
    "ev-kurma-vasudeva",
    "ev-sanatana-puri-sores"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -22864,6 +23316,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "friend"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "friend"
    }
   ]
  },
@@ -22896,6 +23352,12 @@
    "ev-vidya-vachaspati-house",
    "ev-kulia-mass-kirtan",
    "ev-ramakeli-rupa-sanatana"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "guru"
+   }
   ]
  },
  {
@@ -23142,6 +23604,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "companion"
    }
@@ -23370,6 +23836,10 @@
     "type": "companion"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "other"
    }
@@ -23424,6 +23894,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "host"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "host"
    }
   ]
@@ -23499,6 +23973,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "other"
    }
@@ -23552,6 +24030,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "host"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "host"
    }
   ]
@@ -24142,6 +24624,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "siksha-disciple"
    },
@@ -24685,6 +25171,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "co-worker"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "co-worker"
    }
   ]
  },
@@ -24725,6 +25215,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "ruler-of"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "ruler-of"
    }
   ]
@@ -24795,6 +25289,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -26722,6 +27220,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "friend"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "friend"
    }
   ]
  },
@@ -26911,6 +27413,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "sibling"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "sibling"
    }
   ]
@@ -27127,6 +27633,14 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "nephew"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    }
@@ -27159,6 +27673,10 @@
   "related_by": [
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -27649,6 +28167,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -27715,6 +28237,12 @@
    "ev-srinivasa-meets-narahari",
    "ev-srinivasa-father-death-yajigrama",
    "ev-gati-govinda-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -28216,6 +28744,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "lineage-successor"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "lineage-successor"
    },
    {
@@ -28772,6 +29304,10 @@
    },
    {
     "from": "@raghunandana",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    }
   ]
@@ -29443,6 +29979,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "siksha-disciple"
    },
    {
@@ -32065,6 +32605,10 @@
     "type": "other"
    },
    {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -32121,6 +32665,10 @@
    },
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -32202,6 +32750,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    },
    {
@@ -32685,6 +33237,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    }
   ]
@@ -33300,6 +33856,12 @@
    "ev-maya-tests-haridasa",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -34634,6 +35196,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "companion"
    }
   ]
  },
@@ -34754,6 +35320,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "servant"
    }
   ]
  },
@@ -35402,6 +35972,10 @@
   "related_by": [
    {
     "from": "@rupa-gosvami",
+    "type": "father"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "father"
    }
   ]
@@ -36787,6 +37361,12 @@
   ],
   "events": [
    "ev-madana-mohana-chaube"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -37026,6 +37606,12 @@
    "ev-jharikhanda-animals",
    "ev-vallabha-bhatta-puri",
    "ev-vallabha-sridhara-svami"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -37329,6 +37915,12 @@
    "ev-murari-dream-nityananda-elder",
    "ev-prakashananda-mocks-lord-kashi",
    "ev-varanasi-sannyasis"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -38990,6 +39582,12 @@
   ],
   "events": [
    "ev-sanatana-escape-kashi"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "servant"
+   }
   ]
  },
  {
@@ -39003,6 +39601,12 @@
   ],
   "events": [
    "ev-sanatana-escape-kashi"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "in-law"
+   }
   ]
  },
  {
@@ -39212,6 +39816,12 @@
   ],
   "events": [
    "ev-prakashananda-mocks-lord-kashi"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "met"
+   }
   ]
  },
  {
@@ -39325,6 +39935,12 @@
   ],
   "events": [
    "ev-jagadananda-vrindavana-pilu"
+  ],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "met"
+   }
   ]
  },
  {
@@ -39419,6 +40035,10 @@
   "related_by": [
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
     "type": "other"
    }
   ]
@@ -39891,6 +40511,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
    }
   ]
  },
@@ -39936,6 +40560,21 @@
    {
     "from": "@raghunandana",
     "type": "relative"
+   }
+  ]
+ },
+ {
+  "id": "@radhavallabha-dasa-poet",
+  "ru": "Радхаваллабха Дас (ученик Шринивасы, поэт)",
+  "en": "Radhavallabha Dasa (Shrinivasa's disciple, poet)",
+  "note": "падакарта; переложил «Вилапа-кусуманджали» и написал «Санатана-сучаку» (B 461–465); не путать с @radhavallabha-dasa-vrindavana, @radhavallabha-chaudhuri",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@sanatana-gosvami",
+    "type": "other"
    }
   ]
  }
