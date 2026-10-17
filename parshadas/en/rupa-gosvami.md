@@ -430,6 +430,161 @@ Kaviraja begins the nineteenth chapter of the Madhya-lila, which tells of the te
 Mahaprabhu invested Sri Rupa with His divine power and empowered him to do so, just as earlier He had given Brahma the
 power to create all the worlds of this universe.” (CC, Madhya 19.1) <!-- F103 F104 F105 F106 F107 F108 Q26 Q27 -->
 
+## A Drop of the Ocean
+Krishnadasa Kaviraja sets out the teachings of Prayaga in the nineteenth chapter of the Madhya-lila; here we shall only
+trace their course. The Lord began thus:
+
+“‘Sri Rupa! I shall explain to you the science of bhakti-rasa briefly, for no one can describe it in its fullness. The
+ocean of bhakti-rasa is boundless; it simply cannot be measured. I shall help you taste just one drop of it, so that you
+can understand its essence.’” (CC, Madhya 19.136–137) <!-- F109 -->
+
+Countless living beings, said the Lord, wander through eight million four hundred thousand species of life as their
+karma dictates. The shrutis compare the soul to a particle of the tip of a hair divided into a hundred parts and then
+again into many hundreds (“Mundaka Upanishad” 3.1.9: “this atma is minute”). The prayers of the personified Vedas in the
+“Bhagavatam” (10.87.30) say: “If the countless embodied souls were all-pervading, they would not be subject to You, O
+Unchanging One; but they are minute, and therefore subject. You are their inseparable cause and ruler; and whoever
+fancies You their equal does not know, for his view is corrupt.” Souls come from the Lord like sparks from a fire, and
+He is their cause, ruler and inner witness; the doctrine of the identity of the soul and God is the fruit of a false
+teaching. <!-- F110 F111 Q28 Q29 -->
+
+Souls are eternally liberated or eternally conditioned. The conditioned are immobile (trees and plants) or mobile; the
+mobile are beasts and birds, creatures of the waters and of the land, and among the creatures of the land human beings
+are very few. If from among humans one excludes the barbarian mlechchhas, the Pulindas, the Buddhists and the Shabaras,
+there remain the followers of the Vedas; some of them follow dharma, others do not; of those who follow dharma many are
+devoted to rituals, others to knowledge, and of ten million knowers only one is truly liberated, that is, free of worldly
+understanding.[^27] Of all the liberated, one who has taken up the service of Krishna with faith is a krishna-bhakta: he
+has no desires other than service. All others, up to the liberated, are bound by the thirst for enjoyment (bhukti) or
+liberation (mukti): the pious and the ritualists seek enjoyment, the knowers liberation, others the siddhis of yoga. As
+long as these three desires are in the heart, there is no peace; only the selfless devotee of Krishna attains the highest
+peace. So Parikshit says to Shukadeva (“Bhagavatam” 6.14.4–5): “Of the pious only a few seek liberation, O best of the
+twice-born; of thousands who seek it hardly one is liberated and attains perfection; and among millions of the liberated
+and perfected a peaceful devotee of Narayana is the greatest rarity, O great sage.” <!-- F112 F113 F114 F115 F116 Q30 -->
+
+Then the Lord told Rupa about the creeper of bhakti:
+
+“Wandering throughout the universe, only immensely fortunate souls, by the mercy of Guru and Krishna, receive the rare
+opportunity to obtain the seed of loving service to God. <…> Such a fortunate soul should, like a gardener, carefully
+plant this seed in his heart. And it should be watered by hearing and chanting.” (CC, Madhya 19.151–152)
+
+The creeper grows, pierces the shell of the universe, passes the waters of the Viraja and the effulgence of Brahma-loka,
+reaches the spiritual sky and rises to Goloka-Vrindavana, where it climbs the wish-fulfilling tree of Krishna's feet and
+there bears the fruit of prema. This creeper blossoms not in this world, nor even in Vaikuntha, but only in Vrindavana,
+at Krishna's feet. But watering alone is not enough:
+
+“But if an offence against a Vaishnava is committed, it is like a mad elephant that uproots or tramples this sprout,
+and it dies and withers. <…> The devotee, like a careful gardener, must fence this sprout of devotion on all sides,
+protecting it from the mad elephant of offences.” (CC, Madhya 19.156–157)
+
+The leaves of the creeper can also be withered by scorching heat; but at the unripe stage the greatest obstacle on the
+path of sadhana is offence against a Vaishnava. Therefore the wise gardener puts up a fence — he hears hari-katha in the
+company of sadhus, and this destroys the anarthas. The verse about the mad elephant, says one biography, should always
+be remembered by one who seeks pure bhakti. <!-- F117 F118 F119 I9 -->
+
+The second danger is the weeds that grow beside the creeper: the thirst for enjoyment and liberation, forbidden acts,
+hypocrisy and fault-finding, a tendency to violence against living beings, the thirst for gain, the hope of worldly
+honour and position. It is they that are fed by offences in hearing and chanting, while the main stem withers; therefore
+they must be cut from the very beginning. Srila Bhaktisiddhanta Sarasvati (“Anubhashya” on CC, Madhya 19.160–161) lists
+what bad association leads to: the thirst for enjoyment, liberation and siddhis, deceit, illicit connection with women,
+the sham bhakti of the sahajiyas, the five abodes of Kali — gambling, intoxication, illicit sex, slaughter and the hoarding
+of gold — regarding Vaishnavas as a caste, dishonest collection of money, ostentatious seclusion for the sake of fame,
+concessions to non-devotees, and “discipleship” under a caste “guru” hostile to Vishnu and the Vaishnavas. Pull up the
+weeds at once, and the creeper will reach Goloka; otherwise there is the round of births in higher and lower worlds.
+Then the main stem will reach Vrindavana and yield the ripe fruit of prema, and the gardener, holding on to the creeper,
+will approach the tree of Krishna's feet and, serving them, will taste in the highest happiness the juice of that fruit.
+<!-- F120 F121 I10 -->
+
+Prema is the highest goal of the soul; the four aims of life — dharma, artha, kama and moksha — are like a blade of grass
+before it. It is born not from a semblance of bhakti (bhaktyabhasa) but only from pure bhakti. The mark of pure bhakti
+is that there is no desire other than the eternal satisfaction of the senses of Krishna, Adhokshaja; no worship of His
+other aspects — Brahman, Paramatma — in place of Krishna; no coverings of impersonal knowledge, of the obligatory and
+occasional rites of the smritis (these are not service), of the thirst for the siddhis of hatha- and raja-yoga, of bodily
+and mental renunciation for its own sake — austerities and vows. Free of all this, accepting in life only what is
+favourable to bhakti, to serve Krishna with all the senses — this is shuddha-bhakti. The “Narada-pancharatra,” which
+Rupa will quote at the beginning of the “Bhakti-rasamrita-sindhu,” defines it: “Service to Hrishikesha, the Lord of the
+senses, with one's senses — free of all designations (upadhis) and pure through devotion to Him alone — is called
+bhakti.” Service to Hrishikesha with all the senses is the essential characteristic of bhakti (svarupa-lakshana), and
+its two marginal characteristics (tatastha) are freedom from upadhis and orientation towards Krishna alone together with
+its own purity. <!-- F122 F123 F124 F125 F126 Q31 -->
+
+Bhakti tinged by the three gunas is saguna; but beyond it there is nirguna-bhakti, pure bhakti. Its mark is given in the
+“Bhagavatam” (3.29.11–14): as soon as one hears of the Lord's qualities, the mind flows to Him unceasingly, as the Ganga
+flows to the ocean; such bhakti is causeless and unobstructed; the devotees do not accept, even when offered, salokya,
+sarshti, samipya, sarupya or oneness with the Lord without service; this is the supreme (atyantika) bhakti-yoga, by which
+the soul crosses beyond the three gunas of maya and attains pure prema.[^28] But if desires for enjoyment, liberation and
+the like live in the heart, prema will not be born even from hundreds of sadhanas: the thirst for bhukti and mukti is
+two witches, and as long as they are in the heart, the happiness of bhakti will not come. <!-- F127 F128 F129 Q32 -->
+
+Bhakti has three stages — sadhana, bhava and prema; its nine forms, beginning with hearing and chanting, are first
+performed in sadhana-bhakti. As the anarthas diminish through hearing and chanting with faith, faith rises and is
+called nishtha, ruchi, asakti, and then bhava, or rati. Rati is born from sadhana-bhakti; thickening, it is called prema,
+and further sneha, mana, pranaya, raga, anuraga, bhava and mahabhava, just as the juice of the sugar cane becomes
+molasses (gur), then khanda-sara, sugar, sitopala and the finest candy, mishri. All the stages from rati to mahabhava are
+the sthayi-bhava, the abiding sentiment of krishna-bhakti-rasa. Rasa arises when vibhava, anubhava, sattvika and
+vyabhichari join the sthayi-bhava: the sthayi-bhava is its chief foundation, and the vyabhichari (sanchari) are its
+helpers. Vibhava is alambana and uddipana; alambana is vishaya and ashraya: in krishna-bhakti-rasa the devotee is the
+ashraya, Krishna the vishaya, and Krishna's qualities the uddipana. <!-- F130 F131 F132 F133 -->
+
+“One of these five rasas abides constantly in the devotee's heart, whereas the seven additional tastes may appear
+suddenly, owing to particular circumstances.” (CC, Madhya 19.188)
+
+The five principal rasas are shanta, dasya, sakhya, vatsalya and madhura; the seven secondary ones are hasya, adbhuta,
+vira, karuna, raudra, bhayanaka and bibhatsa. The secondary ones only nourish the principal: they come when occasioned
+and, having played their part, depart.[^29] Krishna-rati is twofold: mixed with awareness of majesty, and pure. In
+Dvaraka, Mathura and Vaikuntha bhakti is mixed with awareness of majesty, and prema there is constrained; but in Gokula
+the cowherds and gopis, in pure love, do not acknowledge Krishna's majesty even when they see it. <!-- F134 F135 I11 -->
+
+In shanta-rasa there is fidelity to Krishna and the giving up of thirst for anything else; as sound, the quality of
+ether, is present in all the elements, so the qualities of shanta are present in all the higher rasas. But in shanta
+there is no feeling of “He is mine”: its object is Parabrahman, Paramatma, worship in it is imbued with knowledge, and
+there is no service in it. In dasya this feeling is added to shanta — “He is my Lord, I am His eternal servant”; awareness
+of His lordship and reverence abound, and here service begins. In sakhya confidence (vishrambha) is added to the
+qualities of shanta and dasya, there is no reverence, and “mine” grows into “He is my equal.” In vatsalya service becomes
+care, and the informality of sakhya and an abundance of the feeling “mine” go as far as punishments and scoldings: the
+devotee regards himself as the guardian and Krishna as his ward. And in madhura, to fidelity, diligent service,
+informality and care is firmly joined service by the giving of oneself in the mood of the beloved (kanta-bhava); in it
+all five qualities meet, and as in earth the properties of all the elements beginning with ether are united, so in
+madhura-rasa the qualities of all the rasas are united. Thus the Lord established the supremacy of madhura-rasa.
+<!-- F136 F137 F138 F139 F140 -->
+
+In conclusion the Lord said:
+
+“‘Such is My general description of the various rasas of loving service to God. You should consider how this can be
+explained in more detail. In one who constantly thinks of Krishna, love for Him gradually manifests. By Krishna's mercy
+even an uneducated person can reach the far shores of the ocean of loving relationships with God.’” (CC, Madhya
+19.235–236) <!-- F141 -->
+
+## First Visit to Vrindavana
+“Having said this, Sri Chaitanya tenderly embraced Sri Rupa. Then He decided to set out for Benares. When the next
+morning Sri Chaitanya was ready to set out, Sri Rupa bowed before Him and made a humble request: ‘If You permit, I would
+like to go with You. I cannot bear these powerful waves of separation.’ Sri Chaitanya replied, ‘Your duty is to carry out
+My instructions. Vrindavana is not so far from here. Therefore go there. From Vrindavana you will come to Bengal, and
+from there go to Jagannatha Puri, where we shall meet.’ So Sri Chaitanya embraced Sri Rupa and boarded the boat, and Rupa
+fell unconscious on the spot. The brahmana from South India took Sri Rupa into his house, and then both brothers set out
+for Vrindavana.” (CC, Madhya 19.237–243) <!-- F142 F143 -->
+
+In Mathura, at Dhruva-ghata, Rupa met Subuddhi Raya. He had formerly been an official in Gauda; when Hussain Shah
+deprived him of caste, he came to Kashi and, rejecting the verdicts of the smarta panditas, at the Lord's bidding took
+complete shelter of Krishna's name and went to Vrindavana. In Mathura he gathered and sold dry firewood; he himself lived
+on a pice worth of roasted chickpeas, and with the rest he fed needy Vaishnavas, and to all the Bengalis who came there he
+gave rice with yoghurt and oil for massage. Serving the Vaishnavas, as his example shows, is not for the rich alone:
+whoever sincerely wishes to serve will be given the means by the Lord. Rupa had known Subuddhi Raya before, and with him
+he walked round the twelve forests of Vrindavana. <!-- F144 F145 F146 F147 I12 -->
+
+At the sight of the places of Krishna's pastimes, the plan of a drama about His pastimes was born in the heart of Rupa,
+“the crown of transcendental poets.” He began it right there in Vrindavana and then composed its nandi-shloka, the
+opening verse of benediction (and with it several verses of the prologue: obeisances, blessing, an indication of the
+subject). That time Rupa stayed in Vrindavana only a month. Looking for Sanatana, the brothers went to Prayaga by the road
+along the Ganga, while Sanatana was meanwhile going to Mathura by the great royal road — and they missed each other. In
+Mathura Sanatana learned about Rupa from Subuddhi Raya, and later, walking round the twelve forests with Subuddhi and a
+Sanoriya brahmana, heard from them that Rupa and Anupama had shortly before made this circuit and gone along the Ganga to
+Bengal. <!-- F148 F149 F150 -->
+
+In Kashi Rupa and Anupama met the Maharashtrian brahmana, Chandrashekhara and Tapana Mishra, took their meals in Tapana
+Mishra's house and heard from him the whole account of the Lord's teachings to Sanatana. At that time the boy Raghunatha,
+Tapana's son, saw Rupa and heard Mahaprabhu's teachings. After staying ten days in Kashi, the brothers went to Gauda; on
+the way Rupa pondered the events of the drama and made notes (kadchas). And in Gauda Anupama left his body on the bank of
+the Ganga (“attained the Ganga”) and went to the eternal abode of Ramachandra.[^30] <!-- F151 F152 F153 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -504,3 +659,13 @@ power to create all the worlds of this universe.” (CC, Madhya 19.1) <!-- F103 
     CC and CB in the story of Rupa are correct.
 [^26]: The verse is numbered 9.104 in one biography and 9.38 in another; the second takes “there” to mean “in
     Vrindavana.”
+[^27]: According to one biography — differently: of millions devoted to karma only one is a jnani, of millions of jnanis
+    only one is liberated, and among millions of the liberated a devotee of Krishna is hard to find; many people follow
+    the Vedas only in name, and of those who follow dharma many seek its fruits; the soul is there called an atomic spark
+    of consciousness, and mobile beings are divided into those of land, air and water.
+[^28]: One biography introduces this verse with the words “Sri Krishna said to Uddhava,” but in the “Bhagavatam” (3.29) it
+    is Kapila's instruction to Devahuti.
+[^29]: One biography speaks here of “twelve rasas,” that is, the five principal and seven secondary together.
+[^30]: According to one biography, Anupama passed away on the road, while the brothers were going along the Ganga to
+    Bengal. According to one account, Mahaprabhu Himself told Sanatana in Puri of Rupa's coming, of Anupama's devotion to
+    Rama and of his passing; according to another, Sanatana heard of his brother's passing from Haridasa Thakura.
