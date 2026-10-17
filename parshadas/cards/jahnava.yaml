@@ -83,7 +83,6 @@ relations:
   - {type: host, who: "@achyutananda", facts: [F55, F61], note: "Принял её в Шантипуре (M); по велению её и Ачьютананды Нароттама начал киртан (M 114)."}
   - {type: host, who: "@shripati", facts: [F51, F54], note: "Шрипати и Шринидхи, братья Шривасы, — в её свите и приняли её в Навадвипе (M)."}
   - {type: met, who: "@ishana-navadvipa", facts: [F87], note: "Глубокий старик, когда она пришла в дом Махапрабху (M)."}
-  - {type: met, who: "@yadunandana-acharya", facts: [F85], note: "T: встретила в Катве на обратном пути. ⚠ тег — ученик Адвайты; отождествление с катвинским Ядунанданой не проверено."}
   # спутники (свита в Кхетури)
   - {type: companion, who: "@minaketana-ramadasa", facts: [F51, F52]}
   - {type: companion, who: "@murari-chaitanya-dasa", facts: [F51]}
@@ -103,6 +102,7 @@ unnamed:
   - {who: "Шьямадас Чакраварти из Будхари", type: other, facts: [F83]}
   - {who: "безбожники и преступники богатой деревни на пути во Врадж", type: other, facts: [F70]}
   - {who: "Манохара дас, друг Джнянадаса", type: disciple, facts: [F97]}
+  - {who: "Ядунандана Ачарья, встреченный в Катве на обратном пути (T 200; отождествление с отцом невесток или с @yadunandana-acharya не установлено)", type: met, facts: [F85]}
 identities:
   - {in: krishna-lila, as: "Ревати (жена Баларамы)", source: "ГГД 65", level: B, facts: [F5],
      variants: ["M: «соответственно» — Васудха = Варуни, Джахнава = Ревати; T порядка не называет (F5, F31)"]}
