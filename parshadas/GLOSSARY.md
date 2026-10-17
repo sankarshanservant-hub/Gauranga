@@ -388,3 +388,20 @@
 | свасампрадая-сахасрадхидайва | svasampradaya-sahasradhidaiva | «Владыка тысяч в своей сампрадае» — Гаурасундара у Дживы |
 | Духкхи Кришнадас (Шьямананда) | Duhkhi Krishnadasa (Shyamananda) | @shyamananda; не путать со служанкой Духкхи (Сукхи) |
 | Вира Хамбир (Харичарана Дас) | Vira Hambira (Haricharana Dasa) | в статье о Дживе — по PERSONS.md; выше в глоссарии — «Бира Хамбира» (то же лицо) |
+| “Хари-намамрита-вьякарана” (“Хари-намамрита”, “Намамрита”); “Сутра-малика”; “(Гана-)дхату-санграха” | “Hari-namamrita-vyakarana” (“Hari-namamrita”, “Namamrita”); “Sutra-malika”; “(Gana-)dhatu-sangraha” | грамматика Дживы на именах Хари и приложения к ней; степень «Вьякарана-тиртха» (Бхактисиддханта) |
+| “Гопала-вирудавали”; вардхита, вирабхадра, самагра, ачьюта, утпала, туранга, гунарати, матанга-кхелита | “Gopala-virudavali”; vardhita, virabhadra, samagra, achyuta, utpala, turanga, gunarati, matanga-khelita | поэма Дживы и её вируда-размеры (названия размеров — строчными, в «ёлочках») |
+| “Бхакти-расамрита-шеша” (“Расамрита-шеша”); “Сахитья-дарпана”; пракаша | “Bhakti-rasamrita-shesha” (“Rasamrita-shesha”); “Sahitya-darpana”; prakasha | приложение Дживы к БРС по трактату Вишванатхи Кавираджи; пракаша — глава |
+| улласа | ullasa | глава “Мадхава-махотсавы” (девять уллас: «Утсука-радхика» и т. д.) |
+| “Санкалпа-калпадрума” (“Санкалпа-калпа-врикша”); “Бхавартха-сучака-чампу” | “Sankalpa-kalpadruma” (“Sankalpa-kalpa-vriksha”); “Bhavartha-suchaka-champu” | оглавление (анукраманика) “Гопала-чампу”; книга из перечня Кришнадаса Адхикари |
+| “Дургама-сангамани”; “Лочана-рочани” («Радующая очи») | “Durgama-sangamani”; “Lochana-rochani” (“Delight of the Eyes”) | комментарии Дживы на БРС и “Уджджвала-ниламани” |
+| “Гопала-чампу”: “Пурва-чампу”, “Уттара-чампу”; пурана (глава чампу); Мадхукантха, Снигдхакантха | “Gopala-champu”: “Purva-champu”, “Uttara-champu”; purana (chapter of the champu); Madhukantha, Snigdhakantha | махакавья Дживы; пураны склоняем («в 33 пуранах»); рассказчики поэмы |
+| “Шат-сандарбха” (“Бхагавата-сандарбха”): “Таттва-”, “Бхагават-”, “Параматма-”, “Кришна-”, “Бхакти-”, “Прити-сандарбха”; “Крама-сандарбха” | “Shat-sandarbha” (“Bhagavata-sandarbha”): “Tattva-”, “Bhagavat-”, “Paramatma-”, “Krishna-”, “Bhakti-”, “Priti-sandarbha”; “Krama-sandarbha” | сандарбхи склоняем (“Сандарбх”, “в “Сандарбхах”); карики Гопалы Бхатты — источник |
+| “Сарва-самвадини”; ану-вьякхья | “Sarva-samvadini”; anu-vyakhya | дополнительное толкование “Бхагавата-сандарбхи” |
+| “Кришнарча-дипика” (“Лагху Шри Шри Радха-кришнарчана-дипика”) | “Krishnarcha-dipika” (“Laghu Sri Sri Radha-krishnarchana-dipika”) | о поклонении Кришне вместе с Радхикой |
+| “Сукха-бодхини” | “Sukha-bodhini” | комментарий Дживы к “Гопала-тапани-упанишад” |
+| “Джахнава-аштака”; “Бхринга-сандеша” | “Jahnava-ashtaka”; “Bhringa-sandesha” | приписываемые Дживе (каталоги) |
+| “Catalogus Catalogorum” Теодора Ауфрехта; “Notices of Sanskrit Manuscripts” Раджендралала Митры; M. Krishnamachariar | Theodor Aufrecht's “Catalogus Catalogorum”; Rajendralal Mitra's “Notices of Sanskrit Manuscripts”; M. Krishnamachariar | каталоги рукописей; латинские названия — без перевода, в “лапках” |
+| “Мукта-чарита”; “Сва-нияма-дашака”; “Манах-шикша” | “Mukta-charita”; “Sva-niyama-dashaka”; “Manah-shiksha” | книги Рагхунатхи Даса (в каталоге стотр — “Мукта-чаритра”) |
+| “Говинда-бхашья”; “Сиддханта-ратна”; “Прамея-ратнавали” | “Govinda-bhashya”; “Siddhanta-ratna”; “Prameya-ratnavali” | книги Баладевы Видьябхушаны |
+| «Бхагавата-самсад» | “Bhagavata-samsad” | собрание, основанное Бхактивинодой в Пури |
+| Виласа-манджари | Vilasa-manjari | Джива Госвами по ГГД (в нашем переводе — блок 194–207) |
