@@ -253,6 +253,76 @@ So the “Laghu-toshani” came into being, of which more will be said later. At
 “Bhakti-ratnakara”, Jiva clashed with Vallabha Bhatta — of this, and of how the acharyas view the story, see below, in the
 section on slanders. <!-- F68 Q14 -->
 
+## Head of the Vaishnavas of Vraja
+When Rupa, Sanatana and the other Gosvamis had disappeared, Jiva took the place of universal acharya of the Gaudiya
+Vaishnava sampradaya — in Utkala, Gauda and Mathura-mandala. He proclaimed to all the conclusions of pure bhakti preached
+by Gaurasundara and drew everyone into Hari-bhajana. Srila Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 10.85) calls
+him the supreme teacher of siddhanta in the sampradaya, the undisputed head of the Gaudiya Vaishnavas of Mathura, Bengal
+and Orissa, and the “prime minister” of the universal assembly of Vaishnavas in Vrindavana — the Vishva-vaishnava-raja-sabha.
+A newspaper note from Srila Bhaktisiddhanta's time reports that this sabha was founded by Jiva Gosvami himself eleven years
+after Mahaprabhu's departure, and that Bhaktivinoda Thakura gave it new life; its revival was marked on the appearance day
+of Vishnupriya, and Srila Bhaktisiddhanta set out the history of the sabha in the “Sajjana-toshani” (vol. 21, no. 9).[^15]
+<!-- F72 F73 F74 -->
+
+From time to time Jiva went round Vraja with the devotees and went to Mathura — for the darshana of Sri Gopaladeva, who
+then resided in the house of Vitthaleshvara (Vitthalanatha), the son of Vallabha Bhatta. Krishnadasa Kaviraja wrote the
+“Chaitanya-charitamrita” while Jiva was still living. <!-- F75 F76 -->
+
+All who came from Gauda Jiva received with prasada and lodging. Jahnava-devi, the consort of Nityananda, also came to
+Vrindavana with other devotees. The heads of the Vaishnavas of Vraja came out to greet her — Jiva, Gopala Bhatta,
+Lokanatha, Bhugarbha and Madhu Pandita; according to Parameshvari Dasa's account, “the renowned Sri Jiva” was among
+those who met her in Mathura and told her the names of the other Gosvamis. Going round Vraja-mandala, Jahnava listened to
+Jiva expounding the “Brihad-bhagavatamrita”. When she brought the five-year-old Kanu to Vrindavana, Jiva and the other
+Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^16] <!-- F77 F78 F79 F80 -->
+
+When Nityananda's son Virachandra (Virabhadra) came to Vrindavana, the mahajanas of Vraja went out to meet him — Jiva,
+Krishnadasa Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari (a disciple of Gadadhara Pandita and
+servant of Madana-Gopala), Gopinatha Adhikari, Madhu Pandita and his fellow Madhavacharya. With the permission of Bhugarbha
+and Jiva, Virachandra went round Vraja: the twelve forests, Radha- and Shyama-kundas, Govardhana.[^17] <!-- F81 F82 -->
+
+Jiva's name appears in many other accounts of the Vaishnavas of that time as well. He is among those who teach the worship
+of Krishna together with the ashraya-vigraha, the shelter of devotion; together with other Gaudiya acharyas he gave
+Jahnava the place of jagad-guru; in relation to Bhugarbha Jiva is one of the juniors. Srila Bhaktisiddhanta in the
+“Anubhashya” (on CC, Madhya 7.130) calls fools those who consider writing books, such as occupied Rupa, Sanatana, Jiva and
+Raghunatha Dasa, an obstacle to bhajana. Baladeva names Jiva in his list of the acharyas of the sampradaya, and the
+“Vaishnava-vandana”, attributed to Jiva, glorifies Gopala Bhatta.[^18] Narottama in one of his songs, lamenting that he had
+not served the feet of the Gosvamis, names Jiva together with Svarupa Damodara, Sanatana, Raghunatha Bhatta, Raghunatha
+Dasa, Gopala Bhatta, Bhugarbha and Lokanatha. <!-- F83 F84 -->
+
+Jiva, following all the satvata-shastras, counts among the offences against the Holy Name instructing a faithless person
+(ashraddadhana) in Hari-nama. Therefore, when Gadadhara Dasa gave the Name to the kazi, his biography specially notes that
+he did not commit this offence. <!-- F85 -->
+
+## Sri Sri Radha-Damodara
+According to the “Bhakti-ratnakara” (4th wave), Rupa Gosvami himself revealed the Deity of Sri Sri Radha-Damodara and gave
+Him to Jiva. That Deity now resides in Jaipur, while in Vrindavana, in the Radha-Damodara temple near Shringara-vata,
+resides His manifestation (prakasha-murti).[^19] In one of the rooms of the Radha-Damodara temple many old manuscripts
+were kept, but because of long temple lawsuits the library was under lock, and where the books went no one can say.
+<!-- F86 F87 -->
+
+## The Ganga and the Yamuna
+The Hindi book “Bhakta-kalpadruma” tells the following story. Princes subject to Akbar, from the banks of the Ganga and
+from Rajputana, fell into a dispute as to which was higher — the Ganga or the Yamuna. Akbar respectfully invited Jiva to
+judge between them. Jiva replied that he would not spend a single night outside Vrindavana; so the princes posted relays
+of horses along the road, so that he could ride from Vrindavana to Agra and back in a single day. <!-- F88 -->
+
+With arguments from the shastras Jiva showed that the Ganga is the water that washed the feet of Vishnu and a shakti of
+Vishnu, whereas the Yamuna is Krishna's beloved and therefore higher than the Ganga on the ladder of rasa. The badshah and
+the princes fervently begged him to accept gifts, but he took nothing. At last, yielding to their insistence, he said
+that if they were set on giving something, let them send manuscripts of the shastras and Puranas from Varanasi and paper
+for writing books from Agra. Akbar and the princes gladly did so. Tradition says that Jiva was the first to have
+“tulat” paper brought from Agra and began the copying of manuscripts on it; before that books were written on birch bark,
+palm leaves and the like. <!-- F89 F90 F91 -->
+
+## Master of Vedanta
+Bhaktivinoda Thakura, in his article “Sri Sri Jiva Gosvami Prabhu” (“Sajjana-toshani”, year 2, pp. 220–221), writes that
+in the science of Vedanta Jiva had no equal in his day. It is “said” that Vallabha, the acharya of the Vishnusvami
+sampradaya, showed him his book “Tattva-dipa”; Jiva put forward many Vedantic arguments and showed the flaws in his views,
+and Vallabhacharya on his advice corrected a good deal in the book. Bhaktivinoda quotes four verses of the “Tattva-dipa”
+in which, he says, knowing Vaishnavas will easily recognise Jiva's hand.[^20] Jiva, he says, is a pandita and knower of
+Vedanta equal to Ramanuja; his “Shat-sandarbha” is a jewel of the world: whoever understands it well will find no Vedantic
+argument unknown to him. <!-- F92 F93 F94 F95 Q15 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -306,3 +376,25 @@ section on slanders. <!-- F68 Q14 -->
 [^14]: One of the biographies speaks only of the second dream, another (following Narahari) only of the first, with
     Mahaprabhu dancing in the sankirtana, after which Jiva, overcome with love, soon left home. In the
     “Bhakti-ratnakara” (1.712–738) the dreams follow one after the other.
+
+[^15]: According to another testimony (see the article on Sanatana Gosvami), the Vishva-vaishnava-raja-sabha was first
+    founded by Rupa and Sanatana.
+
+[^16]: According to another biography, the name was given by Jiva and the residents of Vraja.
+
+[^17]: According to the “Bhakti-ratnakara” (13th wave), as one of the biographies retells it, Virachandra went round Vraja
+    with the permission of his mother, Vasudha, and with the blessing of Bhugarbha and Jiva; according to another
+    biography, at their command.
+
+[^18]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
+    where Rupa and Vallabha were living, in 1434/1435 Shaka (1512–1513) and showed mercy to Vallabhacharya. This date is
+    earlier than the meeting in Ramakeli and does not agree with the course of events in the “Chaitanya-charitamrita”.
+
+[^19]: According to another biography, Jiva's Deity, Radha-Damodara, is worshipped to this day in the Radha-Damodara
+    temple in Vrindavana.
+
+[^20]: One of the biographies explains in a note that the third son of Vitthalacharya (the son of the original
+    Vallabhacharya, a contemporary of Gaurasundara), Gokulanatha, was also called “Vallabha”; he changed his grandfather's
+    views and created the new teaching of “Vallabha”, and through his efforts Madhavendra Puri's Gopaladeva was moved to
+    present-day Nathdwara. On another dispute between Jiva and Vallabha Bhatta, told by the “Bhakti-ratnakara”, see note
+    21 below.
