@@ -1440,7 +1440,7 @@ Sanatana, as already said, circumambulated Govardhana every day by vow. It is to
 manifested the pastime of infirmity and could no longer walk the seven kroshas round the hill each day, Krishna Himself,
 the lifter of Govardhana, came to him in the form of an unknown boy of Vraja. He gave Sanatana a govardhana-shila bearing
 the print of His foot, told him to circumambulate this stone instead of the hill, and vanished. To the last day of his
-manifest pastimes Sanatana circumambulated this shila.[^57] Today it is kept in the temple of Radha-Damodara.[^58]
+manifest pastimes Sanatana circumambulated this shila.[^57] Where it is kept today is told in different ways.[^58]
 <!-- F364 F365 Q53 -->
 
 In the mood of separation Sanatana searched for Krishna through the forests of Vraja. Once, in a secluded grove by
@@ -2164,8 +2164,9 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     principles of bhajana,” — and then Krishna gave him the shila with the print of His foot, and Sanatana understood
     that it was Giriraja Himself who had given it.
 
-[^58]: The biography that reports this places the temple of Radha-Damodara at Radha-kunda; but the temple of
-    Radha-Damodara, in whose courtyard stands Rupa's samadhi, is in Vrindavana (see the article on Rupa Gosvami).
+[^58]: One biography says that the shila is now in the temple of Radha-Damodara at Radha-kunda. According to a widespread
+    view it is worshipped in the temple of Radha-Damodara in Vrindavana, in whose courtyard is Rupa's samadhi (see the
+    article on Rupa Gosvami); there are other traditions as well. The question is disputed, and we do not decide it.
 
 [^59]: According to another biography, Krishna told Sanatana to build the hut himself and serve Him; according to a third,
     the Vrajavasis built it in the course of time.

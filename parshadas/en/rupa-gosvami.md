@@ -1285,10 +1285,10 @@ enter this dispute. <!-- F333 F334 F335 -->
 Jagannatha Dasa Babaji is called in a verse of obeisance “the best of Rupa's followers,” and his teaching, according to Srila
 Bhaktisiddhanta, accords with Rupa's. Bhaktivinoda Thakura is “the best of the Rupanugas”; his svarupa is Kamala-manjari, a
 maidservant of Rupa-manjari, the head of Lalita's retinue. In June 1868 Bhaktivinoda visited the house of Rupa and Sanatana
-in Ramakeli, and in Puri he studied the “Bhakti-rasamrita-sindhu” in detail. A Sanskrit prayer to the acharya in the
-biographies of the nineteenth century glorifies the service of Radha's feet, approved by Gauranga, understood by Svarupa,
-honoured by Sanatana, Rupa's elder brother, distributed by Rupa and others and tasted by Raghunatha and the other followers
-of Rupa. <!-- F336 F339 F341 F342 -->
+in Ramakeli, and in Puri he studied the “Bhakti-rasamrita-sindhu” in detail. And Srila B. R. Sridhar Maharaj, in the
+“Prabhupada-padma-stavaka,” his hymn to Srila Bhaktisiddhanta, glorifies the service of Radha's feet, approved by
+Gauranga, understood by Svarupa, honoured by Sanatana, Rupa's elder brother, distributed by Rupa and others and tasted by
+Raghunatha and the other followers of Rupa. <!-- F336 F339 F341 F342 -->
 
 Srila Bhaktisiddhanta Sarasvati worshipped Govardhana with the hymns of Rupa and Raghunatha and constantly repeated the words
 of Rupa's first “Govardhanashtaka” — “Govardhana, fulfil my hope” (pratyasham me tvam kuru govardhana purnam) — and those of
