@@ -1045,6 +1045,67 @@ the Ganga, He gave him, in waking life, the shruti that bestows prema, and in Vr
 the highest “trayi”. As all his possessions are given to the feet of Sri Sri Radha-Krishna, so this book too, full of
 Their forms, qualities and pastimes, is given to the feet of the youthful divine Couple of Vraja. <!-- F253 F254 F255 Q56 -->
 
+### Commentary on the “Brahma-samhita”
+Jiva's commentary on the fifth chapter of the “Brahma-samhita” opens with a prayer: may the greatness of Sri Krishna's
+form, by whose mercy he has undertaken to explain the “Brahma-samhita”, be ever honoured in his heart. The smritis of the
+rishis are at first sight hard to reconcile, yet their meaning is coherent, and in examining the books of the rishis his
+only shelter is Sri Rupa, venerable even to the rishis. The “Samhita” has a hundred chapters, but this fifth one, like a
+sutra, crowns the whole book; finding in it the same conclusions as in the “Bhagavatam”, Jiva was filled with joy, and
+here he explains again what he set out in detail in the “Krishna-sandarbha”. In the conclusion he repeats: the
+“Bhagavad-brahma-samhita” of a hundred chapters was spoken by Brahma, who gathered the essence of the Upanishads about
+Krishna; the learned remember many readings and interpretations, but these conclusions “we” have obtained by the right
+path. <!-- F256 F257 F259 Q57 Q58 -->
+
+Here too stands the verse with which Jiva later begins and ends many of his books:
+
+“He whose elder brother is Sriman Sanatana, venerable as the Eternal Hari Himself, and whose younger is Sri Vallabha — this
+Sri Rupa is the true refuge of Jiva”.
+
+The verse also stands at the beginning of the “Durgama-sangamani”, the “Lochana-rochani”, the exposition of the gayatri
+and the “Radha-krishnarchana-dipika”. The commentary on the “Brahma-samhita” bears no title in itself; in Theodor
+Aufrecht's “Catalogus Catalogorum” (vol. II, p. 42) it is called the “Dig-darshini”. <!-- F258 F260 -->
+
+Here too Jiva analyses the eighteen-syllable gopala-mantra; this analysis is known in Srila Bhaktisiddhanta's translation.
+The mantra has six parts: “Krishnaya” points to Krishna's very svarupa — Madana-mohana; the second part to the nature of
+His vraja-lila, Govinda; the third to Gopijana-vallabha, Gopinatha. And the verse of the “Brahma-samhita” about the sound
+of the flute which, entering Brahma, became the gayatri for him (“atha venu-ninadasya trayi-murti-mayi gatih…”, 5.27),
+Bhaktivinoda Thakura, relying on Jiva's commentary, explains thus: “trayi-murti” is sambandha, abhidheya and prayojana,
+that is, Madana-mohana, Govinda and Gopinatha; he supports this with the words of the “Brahma-samhita”, the commentaries of
+Jiva and Vishvanatha and the “Gopala-tapani”.[^45] <!-- F261 F262 Q59 -->
+
+### “Durgama-sangamani”
+The “Durgama-sangamani” is Jiva's commentary on the “Bhakti-rasamrita-sindhu”. “Sangamani” is that which leads to, or a
+bridge; so the “Durgama-sangamani” is the bridge by which one properly reaches the hard-to-reach (durgama) ocean of the
+nectar of bhakti-rasa. After the verse about Rupa, Sanatana and Vallabha Jiva writes in prose: the author, Rupa, wishing
+the good of all bhagavatas, enclosed the rasas of the “Bhagavatam” that played in the lotus of his heart in an
+unprecedented book — the “Bhakti-rasamrita-sindhu”, and by the very structure of its first verse showed its supreme
+excellence and complete auspiciousness. <!-- F263 F264 Q60 -->
+
+The conclusion says: Sri Krishna is the complete Truth. In vast Gokula He is manifestly the highest abode of sweetness and
+majesty, yet He always plays as the son of Nanda and Yashoda and the beloved of the beauties of Vraja; among Sri Radhika
+and Her friends He abides in a form full of wondrously sweet qualities, beauty and the rasa of pastimes. This glory of his
+chosen Lord is richly revealed in the “Bhakti-rasamrita-sindhu”. Though the commentary is not elegant in style, let the
+sadhus study it: it is a boat for crossing the ocean that came from the mouth of Sri Rupa; having studied it, the learned
+will understand the meaning of that book, otherwise most difficult. <!-- F265 F266 Q61 -->
+
+One explanation in the “Durgama-sangamani” is especially remembered. Rupa teaches: “yavat syat sva-nirvahah svikuryat tavad
+arthavit” — the wise accept only as much as is needed for “sva-nirvaha” (“Bhakti-rasamrita-sindhu”, 1.2.108). Jiva explains
+“sva-nirvaha” as “sva-sva-bhakti-nirvaha”: a devotee takes from the world only what helps him serve the Lord — according
+to his own needs in service. <!-- F267 Q62 -->
+
+### “Lochana-rochani”
+The “Lochana-rochani” (“Delight of the Eyes”) is Jiva's commentary on the “Ujjvala-nilamani”. After the same verse about
+Rupa Jiva says in the mangalacharana: in days gone by, when the “Hari-bhakti-rasamrita-sindhu” was still “duraloka” — hard
+to see, because the learned did not discuss it with due reverence — he composed this exposition of the
+“Ujjvala-nilamani”, “the Sapphire”, — the “Lochana-rochani”. At the end of the book the verse about Rupa, Sanatana and
+Vallabha stands again. On the purpose of this commentary and how Vishvanatha Chakravarti disclosed it, see above, in the
+section on svakiya and parakiya. <!-- F268 F269 Q63 -->
+
+### Exposition of the gayatri from the “Agni Purana”
+The exposition opens with the same verse as the “Durgama-sangamani”. It covers seventeen verses of the 216th chapter of
+the “Agni Purana”; explaining the first of them, Jiva discloses the meanings of the words “uk”, “tha”, “bharga”, “prana”,
+“gayatri”, “savitri” and others, and the sense of each word of the gayatri is explained simply. <!-- F270 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -1215,3 +1276,7 @@ Their forms, qualities and pastimes, is given to the feet of the youthful divine
 
 [^44]: The address “vraja-vallabha” (“beloved of Vraja”) is taken by the Bengali retelling in one of the biographies to
     refer to Jiva's father, Vallabha (Anupama).
+
+[^45]: One of the biographies calls this work of Bhaktivinoda the “Anubhashya”; but “Anubhashya” is the name of Srila
+    Bhaktisiddhanta Sarasvati's commentary (on the “Chaitanya-charitamrita”), so the titles are probably confused here
+    (cf. the article on Sanatana Gosvami).
