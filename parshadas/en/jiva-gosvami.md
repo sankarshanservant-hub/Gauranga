@@ -1106,6 +1106,108 @@ The exposition opens with the same verse as the “Durgama-sangamani”. It cove
 the “Agni Purana”; explaining the first of them, Jiva discloses the meanings of the words “uk”, “tha”, “bharga”, “prana”,
 “gayatri”, “savitri” and others, and the sense of each word of the gayatri is explained simply. <!-- F270 -->
 
+### “Gopala-champu”
+The “Gopala-champu” is a great poem (mahakavya) in prose and verse, that is, a champu, in two parts. The “Purva-champu”
+describes in thirty-three puranas (chapters) Krishna's pastimes from His birth to kishora, youth; the “Uttara-champu” in
+thirty-seven — from His departure for Mathura to the wedding of Sri Sri Radha-Madhava and the entry into Goloka. This book
+has already been spoken of above: how the “Karnananda” sees parakiya in it, when work on it began according to one of the
+biographies, and how Jiva revised the “Uttara-champu” according to his letters to Srinivasa. <!-- F271 -->
+
+Both parts begin with the verse “O Sri Krishna, Sri Krishna Chaitanya with Sanatana and Rupa…” — the same that opens the
+“Sankalpa-kalpadruma”. In the introduction to the “Purva-champu” Jiva explains his purpose: the nectar of conclusions
+gathered in the “Krishna-sandarbha” he wishes to relish again with the tongue of poetry — to describe the same
+Krishna-tattva as a poem; under the guise of versifying he makes his mind a tongue able to taste. And if a connoisseur who
+loves true poetry sees the book, it will be a gem set in gold. Each of the two parts is further divided into three, and
+all of them are like separate books: they can be read in any order. May the poem increase the joy of Krishna's own and of
+the cowherds headed by Nanda. Although the cowherds of Gokula headed by Nanda long ago disappeared together with Krishna,
+before the eyes of bhakti of the great souls (mahajanas) the people of Vraja eternally appear and triumph, and therefore
+their joy will surely grow. The Bengali retelling sees in these people of Vraja Rupa, Sanatana and others, though the
+Sanskrit verse names no one: Rupa and Sanatana themselves are vrajavasis. <!-- F272 F273 F274 F275 Q64 I22 -->
+
+The first thirteen puranas of the “Purva-champu” are the childhood pastimes: the nature of Goloka and the disclosure of its
+pastimes; Krishna's birth and the beginning of the conversation of the two narrators, Sri Madhukantha and Sri
+Snigdhakantha; the birth festival, the “Nanda-nandana-parva”; the killing of Putana; the overturned cart; the killing of
+Trinavarta and the eating of earth; the binding by His mother and the deliverance of the two arjuna trees; the entry into
+Vrindavana; childhood games and the killing of Vatsasura; the killing of Aghasura and Brahma's bewilderment; the beginning
+of tending the cows with His friends; the subduing of Kaliya and the quenching of the forest fire. <!-- F276 -->
+
+Puranas 14–25 tell of the pastimes of kishora: the killing of Gardabhasura (Dhenuka); the purva-raga of Radha-Krishna — the
+first awakening of Their love; the killing of Pralamba and again a forest fire; Krishna, under the pretext of teaching the
+flute, asks His beloved for love; instead of the sacrifice to Indra — the worship of Govardhana with the cows; Indra's power
+is broken, and the Holder of the hill receives the title “Gavendra”; Nanda in the world of Varuna and the vision of
+Goloka; the stealing of the gopis' garments; Krishna asks food of the brahmanas' wives; the beginning of the rasa-lila;
+Krishna's disappearance from the rasa and the account of Sri Radhika's good fortune; the gopis' praise in separation and
+the finding of Krishna. The last eight puranas are the expansion of the rasa pastimes; play in the water, wandering in the
+forest and the completion of the rasa; Krishna in Ambika-vana frees a Vidyadhara from a curse; playful sports in solitude;
+the killing of Shankhachuda and the Holi play of Krishna and Balarama; the killing of Vrishasura, the appearance of the two
+kundas and the pastimes of the tenth year; the killing of Keshi; and, finally, the fulfilment of all the desires of Krishna
+and His devotees. <!-- F277 F278 -->
+
+The conclusion of the “Purva-champu” says: in 1645 Samvat (1510 Shaka, about 1588) a certain “insignificant Jiva”, living
+in Vrindavana, wrote this whole “Gopala-champu”; may it spread throughout Vrindavana. Nearly all Hari's pastimes he has
+indicated in order — may the great souls worship them according to their taste. <!-- F279 Q65 -->
+
+The “Uttara-champu” begins with the same verse — the Bengali retelling renders it as “O Sri Sri Rupa-Sanatana, Sri Sri
+Gopala-Raghunatha, Sri Vallabha, protect me in Vraja always” — and with another: “He by whose mercy the «Purva-champu» was
+quickly completed and the begun «Uttara-champu» will be completed — whom but this wondrous chosen Lord should we worship?”
+<!-- F280 Q66 -->
+
+The first of its three parts, “Sri Uddhava increases the joy of Vraja” (puranas 1–12), begins with the overflowing ocean of
+the vrajavasis' anuraga and the gopis' weeping at the news of Akrura's cruelty; then come the departure of Rama and Krishna
+for Mathura, the entry into the city, the elephant, the wrestlers and the killing of Kamsa; Rama and Krishna send Nanda back
+to Vraja, and he returns; the brothers complete their study of the sixty-four arts and bring back their guru's son from the
+abode of Yama; Uddhava goes to Vraja; the wondrous bhavas of Sri Radhika, “agitation before the bee taken for a messenger”;
+and Krishna's joy when Uddhava tells Him about Vraja. <!-- F281 -->
+
+The second part (puranas 13–21) is called “The manifestation of the cowherd community, full of joy at Baladeva's coming”.
+In it are the capture of Jarasandha, the victory over Kalayavana and Jarasandha, Balarama's wedding, Krishna's marriage to
+Rukmini, then to the seven maidens headed by Satyabhama; the killing of Naraka, the taking of the parijata and the marriage
+to sixteen thousand maidens; the victory over Mahadeva and the battle with Banasura; Baladeva goes to Vraja and, hearing of
+Krishna's battles with Paundraka and others, returns to Dvaraka. <!-- F282 -->
+
+The third and last part (puranas 22–37, sixteen) — the killing of Dvivida by Balarama; the vrajavasis with Nanda go to
+Kurukshetra and after meeting Krishna return; Uddhava's counsel; the release of the kings imprisoned by Jarasandha; the
+rajasuya and the killing of Shishupala; the killing of Shalva; reasonings about the future; the killing of Dantavakra and
+Krishna's return to Vraja; Paurnamasi and others remove the obstacles in the way of Sri Radhika and the gopis; the wedding
+begins; Sri Sri Radha-Madhava put on Their ornaments; the wedding festival among the cowherds; the meeting of Krishna,
+Radhika and all; and Krishna's entry into Goloka. The part ends with a description of Vraja full of joy at Krishna's
+return. <!-- F283 -->
+
+In the conclusion of the “Uttara-champu” Jiva writes: while he was composing the two champus, telling the pastimes of
+Radha-Madhava, a wondrous nectar of rasa appeared in his heart, relished in this world and the next; through it “we” shall
+obtain, as the fruit of labour, wondrous joy and the highest goal. And he asks: when will his longing grow day by day to
+see the bees, birds and deer of Krishna, the Moon of Vrindavana; the farmers, brahmanas, kshatriyas and vaishyas; the
+servants Raktaka, Patraka and others; the cows headed by Surabhi; the friends headed by Shridama; Baladeva; Nanda and
+Yashoda; the beloveds headed by Chandravali and among them the dearest to Krishna — Sri Radhika with Lalita and the other
+foremost beauties of Vraja? <!-- F284 F285 Q67 -->
+
+Then follow five verses. The first: as a cook prepares dishes of the six tastes, so Krishnachandra, for the joy of the
+rasika devotees, brings rasa to fullness in due order; whoever relishes the pastimes in the book without breaking the order
+will be satisfied — to relish in order is the mark of a skilled connoisseur of rasa. The second verse is from the
+“Bhagavatam”:
+
+“Abiding beyond the world, You manifest on earth pastimes that appear like worldly ones, to increase the bliss of those who
+have surrendered to You”. (“Srimad Bhagavatam”, 10.14.37)
+
+In the third Jiva confesses: revealing the confidential pastimes of Krishna with Radhika and the beauties of Vraja, whom
+Shukadeva in the “Bhagavatam” concealed with the word “a certain one” (kachit), his heart trembles. In the fourth: by
+declaring that his poem contains all the rasas he has shown a boldness that embarrasses Krishna and His beloveds, and sober
+connoisseurs, at a glance, will take it for the flattery of a timid poet and refuse to read. And in the fifth he answers
+himself: such words are burdensome only to connoisseurs of transcendental rasa; it is mundane noble wives who feel shame,
+but the transcendental (aprakrita) are untouched by it; and for the mahajanas, who, far from all currents of worldly
+thought, serve Hari in solitude, such a description is no boldness, and there is no fault in it. Thus Krishna's pastimes in
+Vraja are worldly only in appearance: He is beyond the world and manifests them for the joy of the surrendered.
+<!-- F286 F287 F288 F289 F290 Q68 I21 -->
+
+The date of the “Uttara-champu” Jiva also set in a verse: a certain Jiva, living in Vrindavana, completed this champu in
+the month of vaishakha of the year “pavana-kala” — by the Bengali retelling, 1649 Samvat; but if the first line is read as
+“vidya-sharendhu-shaka”, the result is 1514 Shaka (about 1592). “A certain Jiva” are words of humility. <!-- F291 Q69 -->
+
+From this book one should apparently distinguish another “Gopala-champu” — by a certain Jivaraja, son of Brajaraja, with
+his own commentary “Rasavati”, on Krishna's childhood pastimes; it is mentioned in the “Catalogus Catalogorum” (vol. I,
+p. 208; vol. II, p. 32) and described by Rajendralal Mitra (“Notices of Sanskrit Manuscripts”, vol. I, pp. 41–42).
+<!-- F292 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
