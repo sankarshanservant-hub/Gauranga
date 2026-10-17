@@ -657,3 +657,10 @@
 | @jaladhara-pandita | Джаладхара Пандит | Jaladhara Pandita | отец Шривасы — только по «Према-виласе» (через «Гаудия-вайшнава-абхидхану», у T 36) |
 | @nalina-pandita | Налина Пандит | Nalina Pandita | старший брат Шривасы, отец Нараяни (T 36, B 1078 — по «Гаудия-вайшнава-абхидхане») |
 | @shridhara-maharaja | Шрила Б. Р. Шридхар Махарадж | Srila B. R. Sridhar Maharaj | Бхакти Ракшак Шридхар Дев-Госвами (1895–1988), ученик Бхактисиддханты, основатель Шри Чайтанья Сарасват Матха; его наследие — наше (CLAUDE.md); не путать с @shridhara, @shridhara-svami |
+| @narayana-dasa-shrikhanda | Нараяна Дас (Нараянадева Саркар), отец Нарахари | Narayana Dasa (Narayanadeva Sarakara), Narahari's father | из Шрикханды; отец Мукунды, Мадхавы и Нарахари Саркара (T 69; B 290) |
+| @goyi-shrikhanda | Гойи, мать Нарахари | Goyi, Narahari's mother | дочь Мурари Сена; жена Нараяны Даса из Шрикханды (T 69, по ГВА) |
+| @madhava-dasa-shrikhanda | Мадхава Дас (Шрикханда) | Madhava Dasa (of Shrikhanda) | средний брат Мукунды Даса и Нарахари Саркара; не путать с другими Мадхавами |
+| @sulochana-shrikhanda | Сулочана (Шрикханда) | Sulochana (of Shrikhanda) | житель Шрикханды, ветвь древа Чайтаньи (ЧЧ Ади 10.78; Мадхья 11.92); ГГД 209 — с Чирандживой |
+| @madana-raya-shrikhanda | Мадана Рай (Шрикханда) | Madana Raya (of Shrikhanda) | сын Канаи Тхакура, внук Рагхунанданы; ученик Нарахари Саркара (B 179, 290) |
+| @rayashekhara | Райшекхар (Кавишекхара Рай) | Rayashekhara (Kavishekhara Raya) | поэт, ученик Рагхунанданы из Шрикханды (B 182–183) |
+| @gaura-deity-shrikhanda | Божество Гауры, установленное Нарахари в Шрикханде | the Deity of Gaura installed by Narahari at Shrikhanda | БР 8.431–432 (по B 131); T 70 — одно из трёх Божеств (Шрикханда, Катва, Ганганагар) |
