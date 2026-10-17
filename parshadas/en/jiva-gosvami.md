@@ -1367,6 +1367,109 @@ commentary (tippani) on the Tenth Canto. May he be gladdened by the wish-fulfill
 Vrindavana, tended by the sakhis; and glory to Krishna in the form of Chaitanya, who descended to spread such bhava — the
 shelter of all, even of the wicked. <!-- F318 Q82 -->
 
+### “Krama-sandarbha”
+The “Krama-sandarbha” is Jiva's commentary on the whole “Bhagavatam”. Having composed the “Shat-sandarbha”, he manifested
+it as the seventh sandarbha, to show sambandha, abhidheya and prayojana in a sequential (krama) explanation, verse by
+verse. <!-- F320 -->
+
+The mangalacharana has five verses. Jiva bows to Sri Guru, who with the stick of the salve of knowledge opened eyes blinded
+by the darkness of ignorance, and to the “Bhagavatam”, by whose mercy even unknown scriptures are understood. Having
+examined the “Bhagavata-sandarbha” and the “Vaishnava-toshani”, he writes the commentary as it appeared to his mind; an
+error in the quotations is his, the compiler's, fault; and the Vaishnavas who encouraged him in this bold labour, merciful
+to the humble, are his only shelter. Then in prose he says: having begun the “Bhagavata-sandarbha” for the good of the
+devotees, the author glorifies with a verse of the “Bhagavatam” Bhagavan Sri Krishna Chaitanya — He whose divinity
+millions of great bhagavatas have determined, who through His devotees spread everywhere the truth about Bhagavan and the
+river of love for Him, the Lord of thousands in His sampradaya, whom the Vaishnavas worship in Kali (see above); now
+begins the seventh — the “Krama-sandarbha”. Bowing to Shridhara Svami and the other Vaishnavas — guardians of bhakti who
+wrote commentaries on the “Bhagavatam”, — Jiva adds: what Svami-pada did not disclose, or disclosed unclearly, should be
+understood from the “Krama-sandarbha”. <!-- F321 F322 F323 Q83 Q84 -->
+
+Explaining in the “Krama-sandarbha” the verses “krishna-varnam tvishakrishnam” (“Bhagavatam”, 11.5.32) and “asan varnas
+trayo hy asya” (10.8.13), Jiva writes that the same Krishna who descends at the end of the Dvapara-yuga appears in the
+following Kali as Gaura: Gauranga is a special avatara of Krishna, and only thus is the apparent contradiction removed
+between the verse about the “not dark” colour in Kali and the verse about four colours in the four yugas. <!-- F326 Q86 -->
+
+The book ends with three verses. The Name is chintamani, Krishna Himself, chit-rasa embodied, for the Name and the Bearer of
+the name are non-different. And He who is golden, anointed with sandal, who accepted sannyasa, equal to all, serene, named
+“Krishna Chaitanya” in the “Sahasranama” — may He protect the author from offences and nourish in him a particle of His
+prema. When the “Krama-sandarbha” was written is nowhere stated. <!-- F324 F325 Q85 -->
+
+### “Sarva-samvadini”
+The “Sarva-samvadini”, by Jiva's own words in the mangalacharana, is an anu-vyakhya, a supplementary explanation of the
+“Bhagavata-sandarbha”: “Having bowed to Sri Krishna, I compose the «Sarva-samvadini» — an anu-vyakhya of the «Sri
+Bhagavata-sandarbha»”. In essence it is an appendix completing it, although only the first four sandarbhas are explained
+in it. In the mangalacharana, as in the “Krama-sandarbha”, Jiva examines how Sri Krishna Chaitanya, the Lord of thousands in
+His sampradaya, is an avatara. <!-- F327 F328 Q87 -->
+
+The explanation of the “Tattva-sandarbha” speaks of the superiority of shabda-pramana, the testimony of the word, among the
+ten kinds of proof; of the power of the word and the doctrine of sphota-vada; of grasping the meaning of the great sayings
+(mahavakya); of the svarupa of Bhagavan; of creation; of the objections of the advaitins against Bhagavan's vigraha; of the
+teachings of Madhvacharya and Ramanujacharya. The explanation of the “Bhagavat-sandarbha” — on the siddhanta of shakti; on
+the reproach that accepting shakti brings duality into His nature; on the sutra “anandamayo 'bhyasat”; on the refutation of
+nirvishesha-vada, the doctrine of the attributeless; on the three kinds of difference; on the eternity of the vigraha, on
+how it is limited and yet unlimited; on the agreement of all the shastras in Krishna. The explanation of the
+“Paramatma-sandarbha” — on anubhuti, the experience of consciousness; on “I”-consciousness; on the jiva being atomic and
+being the knower and enjoyer; on the view that the jiva is Paramatma Himself; on the three views — pariccheda-vada and
+others; on the refutation of vivarta-vada; on parinama-vada; on achintya-bheda-abheda; on the chatur-vyuha; on the defence
+of the “Satvata-pancharatra”. Finally, the explanation of the “Krishna-sandarbha” — on avatara-tattva; on the refutation of
+the view that Krishna is an avatara from a hair; on His being Bhagavan Himself, for the name “Krishna” is supreme; on the
+confidentiality of worshipping Krishna and the supreme excellence of the gopis' worship. The siddhanta of
+achintya-bheda-abheda in the “Sarva-samvadini” has been discussed in detail above. <!-- F329 F330 F331 F332 -->
+
+### “Krishnarcha-dipika”
+The “Laghu Sri Sri Radha-krishnarchana-dipika”, or “Krishnarcha-dipika”, refutes statements supposedly contrary to the
+worship of Madhava together with Radhika and establishes the necessity of such worship. After the verse about Rupa,
+Sanatana and Vallabha Jiva says: the “Bhagavatam” together with the “Bhavishyottara”, “Varaha”, “Skanda”, “Matsya Purana”
+and other scriptures, and the eternal tantras, are weapons that crush the arguments of disputants about the worship of
+Radha-Damodara. Some do not accept that the worship of Krishna with Radhika is founded on the shastras; to them he
+answers: let us leave aside for now Radhika's primacy among the gopis established in the “Sandarbhas” — hear the shastras
+on the worship of Krishna with the gopi named Radhika; and first he cites the Puranas. <!-- F333 F334 F335 Q91 -->
+
+The conclusion says: as Radha is spoken of in Vrindavana, so is Gopala; in the “Narasimha” and other scriptures this pair is
+acknowledged; in the “Rik-parishishta” — Madhava shines with Radha, Radhika with Madhava; in the Kartika vow the paired
+Deities “Radha-Damodara” are seen both in custom and in the shastras; even a pair of ponds — Radha-kunda and Shyama-kunda —
+is accepted as Their pair, and therefore all the more is Their pairing proved. “Let some worship Uma and Maheshvara, others
+Lakshmi and Narayana; but we worship Radha and Damodara”. The colophon reads: “May the «Sri Radha-krishnarchana-dipika» of a
+certain Jiva, living in Vrindavana, shine for ever” — “a certain Jiva” being here too words of humility.
+<!-- F336 F337 Q92 -->
+
+### “Sukha-bodhini”
+Jiva's commentary on the “Sri Gopala-tapani Upanishad” is mentioned in the “Catalogus Catalogorum” (vol. III, pp. 35 and
+44). It is called the “Sri Sukha-bodhini” — “Easily Understood”. At the beginning of his explanation of the
+“Purva-tapani” Jiva explains the mantra of the kama-bija and comments on the mantra of worship of Krishna, whose form is
+sach-chid-ananda. The head of the shruti, he writes, says that the universe was created from “klim”: from “la” — earth,
+from “ka” — water; citing this as the basis of his tantra, Gautama-muni expounds: from “ka” — water, from “la” — earth,
+from “i” — fire, from the bindu — the moon, from their union — the sun. This shruti is the “Gopala-tapani”, recited in the
+Pippalada shakha of the “Atharva Veda” and received by the brahmanas of the Parashara gotra, known in Gurjara and other
+lands; it establishes Krishna as supreme and salutes Him with the word “namah” — “to Him whose form is
+sach-chid-ananda”. <!-- F338 F339 F340 Q93 -->
+
+The commentary cites the satvata-shastras — the “Bhagavatam”, the “Sama”, “Kena”, “Katha” and other Upanishads, the
+“Vishnu Purana”, the “Brahma-sutra”, the “Sanatkumara-samhita”, the “Brahma-samhita”, the “Gautamiya-tantra” and others;
+every mantra of the “Purva-” and “Uttara-tapani” is explained in detail; Krishna's supremacy is glorified; the worship of
+Krishna with His associates through the kama-bija and kama-gayatri and surrender at His feet are described. The
+explanation of the “Uttara-tapani” begins thus: the saying that concludes the “Purva-tapani” is “therefore Krishna is the
+supreme God”; the “Uttara-tapani” discloses the same in another way. In it the names and meaning of the twelve forests of
+Vraja are shown. The commentary ends with a salutation to Him who is beautiful with the fragrance of Gandharvi, the son of
+Nanda, who delights in the forests of Vrindavana; the “Uttara-tapani”, says Jiva, was explained variously by Vishveshvara,
+Janardana Bhatta and Prabodha-yati, but here it is explained taking these differences into account; and this easily
+understood commentary was completed by Jiva, who thirsts for the nectar of the feet of Sanatana and Rupa.
+<!-- F341 F342 F343 Q94 Q95 -->
+
+### “Stavamala” and “Jahnava-ashtaka”
+The “Catalogus Catalogorum” (vol. I, p. 207) ascribes to Jiva the “Mukta-charita” and the “Stavamala”. But the
+“Mukta-charita” is known only as a book of Raghunatha Dasa, and the “Stavamala” is a collection of Rupa's stotras compiled
+by Jiva, as he himself says in the introduction:
+
+“The «Stavamala», created by my lord Rupa, the author of the «Rasamrita», was gathered by Jiva, his follower”.
+<!-- F344 Q88 -->
+
+According to the catalogue of the Government Oriental Manuscripts Library in Madras (ed. Kuppuswami Shastri, vol. IV,
+pp. 4471–4472), the “Sri Jahnava-ashtaka” (manuscript R3053x) is also a work of Jiva: eight shlokas in glory of Jahnava
+Devi, daughter of Surya Dasa Sarkhela, the shakti of Nityananda. The first shloka addresses her as Ananga-manjari, Radhika's
+younger sister in Vraja, and the last promises: whoever reads these verses will become a bee at the lotus feet of Sri
+Chaitanya (see the article on Jahnava). <!-- F345 Q89 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
