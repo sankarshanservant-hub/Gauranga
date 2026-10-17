@@ -1937,8 +1937,191 @@ also on the “Padma,” “Vishnu,” “Brahmanda” and “Skanda” Puranas,
 “Hari-vamsha,” the “Mahabharata,” the “Brahma-sutras,” the “Gita,” the “Gopala-tapani,” the tantras and pancharatras, the
 “Brahma-tarka” and the words of Shridhara Svami. <!-- F560 F561 F562 Q136 -->
 
-<!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
-     in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
+### Eleven Verses on the Eightfold Lila
+According to the “Bhakti-ratnakara” (1.818–819), Rupa, at the wish of a certain Vaishnava, composed eleven verses on the
+eightfold (ashta-kaliya) lila — a treasure for the fortunate — and gave them to Krishnadasa Kaviraja to expand. In some
+manuscripts these verses are called “Ashta-kalika-shlokavali” or “Smarana-mangala-ekadasham.” In the Baharampur edition of
+the “Govinda-lilamrita” they stand at the beginning of the first sarga and open sargas 2, 5, 8, 19, 20 and 21; individual
+words of the last two verses coincide with the beginning of the 22nd sarga. Haraprasad Shastri describes a manuscript of
+the “Smarana-mangala” of thirty-five verses with the colophon “thus ends the ‘Smarana-mangala,’ the
+‘Ashta-kalika-shlokavali’ on Radha-Krishna, composed by Shrimad Rupa Gosvami”; the Bangiya Sahitya Parishad holds a
+manuscript of eleven verses. The report of the “Bhakti-ratnakara” is confirmed by Kaviraja himself at the end of the
+“Govinda-lilamrita”: he wrote this sequence of the eightfold pastimes of Radha and Her Lord following the path shown by Sri
+Rupa (23.54). <!-- F355 F563 F564 F565 F566 F567 Q137 Q138 Q139 -->
+
+### “Samanya-virudavali-lakshana”
+Listing Rupa's books, Kaviraja names the “Govinda-virudavali,” and Narahari Chakravarti adds that Rupa also briefly composed
+its “marks” (lakshana) but did not include them in the count of books: the example for them is the “Govinda-virudavali”
+itself, and the two form one whole. Baladeva Vidyabhushana in the introduction to his commentary on the
+“Govinda-virudavali” likewise says that the author himself composed the “marks of a virudavali” and that, having studied
+them, the reader will understand the “Govinda-virudavali” fully; there he also sets out how a general virudavali differs
+from the “Govinda-virudavali,” and quotes many verses of the “Lakshana.” <!-- F356 F568 F574 Q140 Q141 -->
+
+Rupa begins the book with an obeisance to Krishna — the highest bliss, lord of the forest of Vrindavana — and promises to
+set out briefly the marks of a virudavali: it contains kalikas, verses and virudas of various kinds, shines with the
+glorification of the hero's fame, might, valour and beauty, has verses at the beginning and end of the kalikas, is free of
+faults and is composed in a sonorous, rich style; its composer must be learned, steady of mind and free of envy, and both
+composer and reader must be devotees of Krishna. The main content of the book is the marks, kinds and examples of the
+kalika, the shloka and the viruda. Rhythmically ordered words are called “kala,” a group of kalas a “kalika” (no more than
+sixty-four kalas and no fewer than twelve); syllables are combined by five rules, each with short and long syllables, ten
+kinds in all; at the beginning and end of a kalika stand verses on the hero's virtues, and the description of these virtues
+poets call a “viruda.” Of earlier authors are named “some,” Bhujageshvara Pingala and one more whose name is unclear; almost
+all the examples Rupa took from his own “Govinda-virudavali.” The conclusion of the book: Vasudeva, praised with a fine
+virudavali bearing all the marks, rejoices and bestows mercy, but one who glorifies Him with a virudavali lacking the proper
+marks Hari does not accept, however well he may recite. Following this book and the “Govinda-virudavali,” Jiva Gosvami
+wrote the “Gopala-virudavali,” and Vishvanatha Chakravarti the “Nikunja-keli-virudavali.” <!-- F569 F570 F571 F572 F573 F575 Q142 Q143 -->
+
+### “Upadeshamrita”
+The “Upadeshamrita” (“The Nectar of Instruction”) is a little book of eleven verses in which instructions on bhajana, from
+the stage of the sadhaka to perfection, are set out in good order. Its first verse:
+
+“That steady person who can restrain the urge of speech, the urge of the mind, the urge of anger, the urge of the tongue,
+the urge of the belly and the urge of the genitals can instruct the whole world.” (“Upadeshamrita,” 1)
+
+A similar verse is found in the “Mahabharata,” in the instruction of Brahma, who had taken the form of a golden swan: one
+who withstands the urges of speech, mind, anger, the desire to retaliate, the belly and the genitals I consider a true
+brahmana and muni (Shanti-parva 305.14). <!-- F576 F579 F580 Q144 Q145 -->
+
+Then, in order: six tendencies hostile to bhakti — overeating or hoarding, excessive endeavour, idle talk, wrong adherence
+to rules, association with those averse to God, and fickleness and greed; six favourable ones — enthusiasm, confidence,
+patience, performing the limbs of bhakti (hearing, chanting and the rest), giving up bad company and following the conduct
+of the sadhus; six kinds of association with sadhus that nourish bhakti; the proper treatment of Vaishnavas of the
+beginning, middle and highest stages; the prohibition of looking at a Vaishnava with a worldly eye; the way of remembering
+Krishna's name and the rest; the way of bhajana, the place of residence and the conduct of the practitioner; a comparison
+of places of bhajana and the pre-eminence of Sri Radha-kunda, and in the last two verses its glory. To restrain the six
+urges is the essence of a true tridandi-gosvami. <!-- F578 -->
+
+Rupa's poetics, plays and teaching on the ornaments of speech are prized and discussed by the prakrita-sahajiyas and
+ordinary men of letters for the sake of enjoyment, but the “Upadeshamrita” enjoys no such esteem; some even doubt that Rupa
+wrote it. The reason is that it teaches the actual practice of pure bhakti — the sacrifice of the six urges and of all
+other desires. Yet it is an indispensable beacon on the path of pure bhakti: where it is unknown, ignorance and weakness
+obscure the understanding of the essence and practice of bhakti. <!-- F577 F581 I40 I41 -->
+
+Bhaktivinoda Thakura brought the “Upadeshamrita” from Vrindavana and published it in the ninth year of the
+“Sajjana-toshani” (1898) with the Sanskrit commentary “Upadeshamrita-prakashika” by Radharamana Dasa Gosvami of the
+Radha-ramana temple and his own Bengali commentary, the “Piyusha-varshini-vritti.” At its end he writes that he composed it
+for the joy of Shrimad Gosvami Banamali, the happiness of the devotee Prabhunatha and the prosperity of his own abode of
+bhajana, as a resident of Sri Godruma, on the bright ashtami in the year 412 of the Gaura era, and dedicates it to “the moon
+of Godruma.” The manuscript was given to him by Pandita Banamali Lala Gosvami, who had it copied for the purpose from the
+old book collection of his family. The compilers of one of the biographies met him in that collection in Vrindavana on 28
+October 1940; he told them that Bhaktivinoda, on reading the verses of the “Upadeshamrita,” was so amazed and delighted that
+he placed the manuscript on his head and, trembling with prema, in a faltering voice, said again and again that it would
+bring the world immeasurable good. Bhaktivinoda, who considered the book a priceless treasure for the true servants of Hari,
+also made a verse rendering of it (“Sri Upadeshamrita-bhasha”), set it to songs in the “Sharanagati,” and in the 10th–11th
+years of the “Sajjana-toshani” (1898–1899) wrote, on the basis of the second and third verses, twelve articles on the six
+things favourable and the six unfavourable to bhakti. <!-- F582 F583 F584 F585 F590 Q146 -->
+
+One edition with a translation into Brajabhasha (Vrindavana, 1924) attributes the “Upadeshamrita” to Raghunatha Dasa
+Gosvami, but Banamali Lala Gosvami firmly confirmed that it is Rupa's work. It is called Rupa's work also by a manuscript
+in the collection of Vishvambharananda Deva Gosvami at Gopivallabhapura and by Rajendralal Mitra. Mitra, it is true,
+describes under this title an instruction of Rupa to Jiva Gosvami in forty-three verses, with the colophon “thus ends the
+‘Upadeshamrita’ composed by Shriman Rupa Gosvami”; the first and last verses there are the same as in the Vrindavana
+manuscript, and nothing is known of the “extra” verses. Neither the Vrindavana manuscript nor the edition of the
+Radha-ramana temple has them: everywhere the “Upadeshamrita” is eleven verses. <!-- F586 F587 F588 F589 Q147 -->
+
+### Obeisances to Gaura and Sanatana
+An obeisance to Sri Gaurasundara is found in Rupa's books at the beginning of the greater “Ganoddesha-dipika,” in the three
+“Chaitanyashtakas,” in the second nandi verse of the “Vidagdha-madhava,” in the opening of the “Lalita-madhava,” in the
+“Bhakti-rasamrita-sindhu” (1.1.2), in the “Padyavali” (the verses of the “Shikshashtaka” and, in some manuscripts, other
+verses signed “Sri Bhagavatah”) and in the opening of the “Laghu-bhagavatamrita.” Sanatana Rupa remembers in the
+“Hamsa-duta” (“Sakara”), in the “Krishna-janma-tithi-vidhi” (“at the command of prabhu”), in the “Gitavali” (his name at
+the end of the songs), in the “Lalita-madhava” (1.7), in the “Bhakti-rasamrita-sindhu” (1.1.3, 5), in the “Padyavali”
+(“Shrimat-prabhu”) and in the opening of the “Laghu-bhagavatamrita.” For Rupa, Sanatana is an avatara of the Kumaras and
+the teacher of the world; and in the opening verses of his books Rupa remembers Gaura, Sanatana and Raghunatha Dasa. <!-- F591 F592 I36 -->
+
+### Works Attributed to Rupa
+Besides the books described, attested by Jiva, Kaviraja, Narahari Chakravarti and Krishnadasa Adhikari, many other works
+are attributed to Rupa; in Aufrecht's “Catalogus Catalogorum” and some other books certain hymns of Jiva and Raghunatha Dasa
+are also wrongly ascribed to him. The catalogue of the Madras Government Oriental Manuscripts Library (1927) lists under
+Rupa's name the “Ekanta-nikunja-vilasa” (a hymn on Radha and Krishnachandra in a secluded bower: one who reads it every
+night with concentrated mind will gain friendship among Radha's friends), the “Panchashloki” (its first verse is the fifth
+verse of the “Upadeshamrita,” its last an entreaty to Krishna that by the mercy of Lalita and others the author may be
+allowed to fan Him), the “Premandha-stava” (“though I am a vessel of offences, I await Your mercy — be merciful to me,
+Madhava”), the “Ujjvala-chandrika” (a conversation of Radhika with Lalita on the nature of love for Krishna) and the
+“Vaishnava-puja-vidhana” — an order of worship from the remembrance of Radha-Krishna and meditation on the siddha-deha to
+arati according to the rule of the “Brahmanda-purana” (four times at the feet, twice at the navel, once at the face, seven
+times around the whole body) and sprinkling with water from the conch. The colophons of all these manuscripts name Rupa as
+the author. <!-- F593 F594 F595 F596 F597 F598 Q148 Q149 Q150 Q151 -->
+
+Rajendralal Mitra describes a “Gangashtaka” and a “Sadhana-paddhati” attributed to Rupa. The “Gangashtaka,” written in the
+same metre as the “Yamunashtaka” of the “Stavamala,” is a hymn to Sri Ganga-devi, the daughter of Nityananda Prabhu; the
+“Sadhana-paddhati” is a hundred verses with prose on the method of sadhana to Radha-Krishna: to meditate on the guru, a
+follower of Shachinandana, His beloved servant, serving him, with his permission to meditate on the earlier teachers, and by
+Sri Chaitanya's mercy, the guru's word and the holy name to go to Vraja; its last verse is about Vilasa-manjari. Manuscripts
+of a “Sadhanamrita” (in Kathavate's report, 1904) and a “Shiksha-dashaka” (in Roth's Tübingen catalogue) are also
+mentioned. The Bengali journal “Sri Nityananda-dayini” (1870s) printed a “Sahasranama-stotra” of Sri Krishna Chaitanya
+Mahaprabhu “spoken by Shrimad Rupa Gosvami” — Raghunatha Dasa asks Rupa about the Lord's names, and Rupa tells of the reason
+for Gaurasundara's appearance and of His thousand names — as well as a “Navadvipashtaka” (its fruit is rare prema for
+Shachinandana's feet) and a “Vrindavanashtaka” (one who lives in Vrindavana free of attachments will attain rati and play
+with Him who is clad in yellow). The “Gadadhara-pandita-gosvami-dashaka,” supposedly composed by Rupa, was taken from a
+manuscript of the Madras library and printed in the “Gaudiya”; Gopivallabhapura holds copies of an “Upasana-vidhi” (1853)
+and a “Prema-samputa” “that came from the lips of Sri Rupa” (1684). Also attributed to Rupa are a
+“Hare-Krishna-maha-mantrartha-nirupana,” “Tulasyashtaka,” “Vrinda-devyashtaka,” “Nanda-nandanashtaka,”
+“Vrindavana-dhyana,” a “Sri Sanatanashtaka” (where Sanatana is praised as the ornament of the line of the royal brahmanas
+of the south, grandson of Mukunda-deva, son of Kumara-deva, elder brother of Rupa and of Vallabha, Jiva's father) and
+others; in some catalogues Rupa's well-known books appear under other titles. <!-- F599 F600 F601 F602 F603 F604 F605 F606 F607 F608 Q152 Q153 Q154 -->
+
+The prakrita-sahajiyas, for their part, in order to connect their invented teachings, contrary to the Rupanugas, with
+Rupa's name, vainly ascribe to him several Bengali books of recent date; such books are ascribed also to Jiva and to
+Krishnadasa Kaviraja, but to the seeker of truth it is clear that the acharyas of the rasa of pure bhakti could not have
+written them. The “Pancha-rasikas” and other sahajiyas also tell various legends about Rupa, the founder of the siddhanta of
+pure bhakti; the servants of the true Rupanugas accept them with special caution. <!-- F609 F610 I42 -->
+
+### Songs in Praise of Rupa
+Songs too were composed about Rupa. In one of them, signed by Radhavallabha, it is sung: no one proclaimed Gaura's moods as
+Rupa did; through him the world learned that Vrindavana is the eternal supreme abode, the son of Nanda the source of all
+avataras, Radhika the first and most revered of His beloveds, and the sakhis Her retinue; whoever has realized this on the
+path of raga has realized it by his mercy. Having received Sri Chaitanya's command and studied the “Bhagavatam,” Rupa drew
+from it the treasures of the siddhanta of bhakti, made them into his books and gave living beings the chintamani of prema;
+in plays, songs and verses on the rasa of Radha-Krishna he established the pure view of parakiya, established on earth Sri
+Chaitanya's innermost desire and tasted its sweetness; and at the end, in separation from Him, he bore the cruellest
+anguish — hence his raving and lament. <!-- F611 F612 F613 -->
+
+Two other songs are signed “Madho.” If Rupa had not taken a body in the Kali-yuga, the first sings, who would have opened the
+storehouse of the treasure of vraja-prema, who, like a swan, would have separated milk from water, who, giving up
+everything, would have worshipped Vrindavana, who would have told of Mathura and Vrindavana, the customs of Vraja, the deeds
+of Radha-Madhava and that love? By the mercy of his feet all sing and make others sing. The second glorifies Rupa, the ocean
+of the great rasa: his darshana, touch and words are nectar; he is deep, steadfast and merciful, a treasury of
+prema-bhakti, who revealed the great gem of ujjvala-prema; he renounced Gauda, is adorned with virtues, gladdens the
+learned, lives in Vrindavana, and his fame is pure. <!-- F614 F615 -->
+
+## Departure and Memorial Places
+Rupa left this world in Vraja, on the twelfth day of the bright fortnight of the month of Shravana; by our calendar this is
+the Gaura-dvadashi of the month of Shridhara, the morning after the Gaura-ekadashi that begins the Jhulana-yatra (on the
+years and the disagreement of sources see above, in the section “Years of His Life”). <!-- F616 -->
+
+Raghunatha Dasa poured out his separation from him in the “Prarthanashraya-chaturdashaka”:
+
+“Sri Rupa, my life, ever sprinkled me with the fragrant foam of an unprecedented ocean of prema; and now, by ill fate, at
+every step I burn in the fire of calamities and am without support — with whom but him shall I seek shelter?”
+
+“Without him the great pasture is empty, the king of hills is like a python, and the kunda like the jaws of a tiger.”
+(“Prarthanashraya-chaturdashaka”) <!-- F617 Q61 -->
+
+Rupa's samadhi temple stands in the courtyard of the Radha-Damodara temple in Vrindavana; there too he performed bhajana
+in the last years of his life. When Ramachandra Kaviraja came with Jiva to the Radha-Damodara temple and saw Rupa's samadhi,
+he was plunged into such ecstasy that he amazed everyone (“Bhakti-ratnakara,” 9th wave). Another memorial place of Rupa in
+Vraja is the place of his bhajana, Teri-kadamba (Ter-kadamba), near Nandagrama. <!-- F618 F619 -->
+
+## Rupa-manjari
+In Krishna's eternal pastimes Rupa is Rupa-manjari. The “Gaura-ganoddesha-dipika” says: “She who was formerly called
+Rupa-manjari in Vrindavana has now appeared as Rupa Gosvami” (180). Lalita is first among the sakhis of Radharani's
+retinue, and Rupa-manjari is first among those who follow Lalita; therefore in Gaura-lila too Rupa is the head of the six
+Gosvamis.[^62] Her closest friend is Rati-manjari, whom the wise also call Lavanga-manjari; according to the
+“Gaura-ganoddesha-dipika,” she appeared as Sanatana. <!-- F620 F621 F622 F625 -->
+
+Rupa and Sanatana are eternal associates of Krishna in Vrindavana: they came to enrich Gauranga's pastimes and only played
+the role of sadhakas striving for perfection. Therefore the words in which the brothers called themselves men of “low
+birth,” “consorting with the low” —
+
+“We have disgraced our birth by low deeds and association with base people. We are unworthy even to stand before You.” (CC,
+Madhya 1.189)
+
+— are the humility (dainya) of a Vaishnava, and to take them literally is an offence: Rupa and Sanatana are eternal
+associates of the Lord, above varnashrama, gurus even for paramahamsas. So Narottama in his songs prays for service under
+Rupa-manjari, and Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's feet the one desire of his life (see above).
+Information about Rupa is also found in the articles on Madhavendra Puri, Nityananda, Gadadhara Pandita, Svarupa Damodara,
+Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 F624 F626 -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
     Lord expounded the science of rasa to Rupa as to no one else, because Rupa was the dear friend of Svarupa Damodara,
@@ -2107,3 +2290,5 @@ also on the “Padma,” “Vishnu,” “Brahmanda” and “Skanda” Puranas,
     Karnapura composed a verse in the arya metre at the age of seven (CC, Antya 16) — but a request from Raghunatha Dasa,
     who had not yet appeared, would be outwardly impossible. The word “svara” can also mean “three” (the three tones of
     Vedic recitation), but that would give 1431 Shaka (1509), when Raghunatha was three years old.
+[^62]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
+    whom Ramananda is non-different.
