@@ -93,7 +93,7 @@ B — вероятно, больше сотни).
 | @jahnava (007) | ✓ | ✓ (PDF) | — |
 | @narahari-sarakara (008) | ✓ | ✓ (PDF) | — |
 | @vasu-ghosha (009) | ✓ | ✓ (PDF) | — |
-| @dhananjaya-pandita (010) | ✓ | — | — |
+| @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:** 011 Вакрешвара → 012 Сварупа Дамодара → 013 Рамананда Рай → 014 Бхугарбха →
