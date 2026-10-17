@@ -263,8 +263,8 @@ More on this in the section on his writings. <!-- I3 I4 -->
 When Rupa, Sanatana and the other Gosvamis had disappeared, Jiva took the place of universal acharya of the Gaudiya
 Vaishnava sampradaya — in Utkala, Gauda and Mathura-mandala. He proclaimed to all the conclusions of pure bhakti preached
 by Gaurasundara and drew everyone into Hari-bhajana. Srila Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 10.85) calls
-him the supreme teacher of siddhanta in the sampradaya, the undisputed head of the Gaudiya Vaishnavas of Mathura, Bengal
-and Orissa, and the “prime minister” of the universal assembly of Vaishnavas in Vrindavana — the Vishva-vaishnava-raja-sabha.
+him the supreme teacher of siddhanta in the sampradaya; he is also called the undisputed head of the Gaudiya Vaishnavas of
+Mathura, Bengal and Orissa and the “prime minister” of the universal assembly of Vaishnavas in Vrindavana — the Vishva-vaishnava-raja-sabha.
 A newspaper note from Srila Bhaktisiddhanta's time reports that this sabha was founded by Jiva Gosvami himself eleven years
 after Mahaprabhu's departure, and that Bhaktivinoda Thakura gave it new life; its revival was marked on the appearance day
 of Vishnupriya, and Srila Bhaktisiddhanta set out the history of the sabha in the “Sajjana-toshani” (vol. 21, no. 9).[^15]
