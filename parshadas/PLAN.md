@@ -104,7 +104,7 @@ B — вероятно, больше сотни).
 | @rupa-gosvami (018) | ✓ (из частей) | ✓ (PDF, 65 с.) | — |
 | @sanatana-gosvami (019) | ✓ (из частей) | ✓ (PDF) | — |
 | @raghunatha-bhatta (020) | ✓ | ✓ (PDF) | — |
-| @jiva-gosvami (021) | B1–B2 ✓, B3 в работе | — | — |
+| @jiva-gosvami (021) | B1–B3 ✓, B4 в работе | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
