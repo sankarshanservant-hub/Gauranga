@@ -1026,6 +1026,70 @@ Mukundananda Chakravarti and Krishnadasa, full of divine love.” (CC, Adi 8.68�
 Haridasa Pandita was a disciple of Ananta Acharya, a disciple of Gadadhara Pandita; Govinda Gosani, a disciple of “the
 strong” Kashishvara, was a great servant of Sri Govinda. <!-- F253 F254 Q58 -->
 
+## Gopala in Mathura
+Rupa revered the hill of Govardhana as Krishna Himself and therefore, following Mahaprabhu's command, together with
+Sanatana never climbed it. Just as Gopala once on some pretext gave Mahaprabhu darshana at the foot of the hill, so He
+showed mercy to Rupa and Sanatana as well. <!-- F255 -->
+
+In his old age Rupa enacted the pastime of no longer being able to reach Govardhana, and longed to see Gopala, the Deity
+of Madhavendra Puri. And Gopala, wishing to show Rupa His beauty — in fact, to show him mercy — on the pretext of fear of
+iconoclast mlechchhas came Himself from Govardhana to Mathura, to the house of Vitthalanatha (Vitthaleshvara), the younger
+son of Vallabhacharya, and accepted service there for a month. So Rupa with his companions gazed his fill on the beauty
+of Gopala-deva (CC, Madhya 18; “Bhakti-ratnakara,” 5.1333):
+
+“Sri Rupa with his companions also spent a whole month in Mathura, beholding this Deity. He was accompanied by Gopala
+Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami, Bhugarbha Gosvami, Sri Jiva
+Gosvami, Sri Yadava Acharya and Govinda Gosvami, Sri Uddhava Dasa, Madhava, Sri Gopala Dasa and Narayana Dasa. Also the
+great devotee Govinda, Vani Krishnadasa, Pundarikaksha, Ishana and Laghu Haridasa. With great joy Sri Rupa came for the
+darshana of Sri Gopala accompanied by all these eminent devotees.” (CC, Madhya 18.48–53)
+
+Ishana, a Vaishnava of Vrindavana, was also among those accompanying Rupa according to the “Bhakti-ratnakara.” The place
+in Mathura, in the Satghara quarter, where Rupa came for the darshana of Gopala was found in the mid-1930s by Srila
+Bhaktisiddhanta Sarasvati (on 29 October, in the month of Kartika). <!-- F256 F257 F258 Q59 -->
+
+## The Sweet Rice and Radha's Braid
+The “Bhakti-ratnakara” (5.1311–1330) relates that once Rupa wished to cook sweet rice for Sanatana and invite him to eat,
+but there was nothing needed in his hut. And Srimati Radharani, who fulfils the innermost desires of the devotees, in the
+form of a young cowherd girl brought milk, rice, sugar and ghee.[^49] Rupa opened the door and saw a beautiful cowherd girl
+with gifts. “Child, why have you come? Why did you trouble yourself?” “What trouble, baba? I have only come to render a
+little service to a saint.” Rupa accepted the gifts and invited her to sit down, but she said she had work to do and
+vanished, leaving Rupa perplexed. <!-- F259 F260 -->
+
+He cooked the sweet rice, offered it to his Deity, Govinda-deva, and gave the prasada to Sanatana when he came. Sanatana
+felt an extraordinary bliss and asked where the milk and rice had come from. “A cowherd girl came,” said Rupa. “I was just
+thinking how to cook sweet rice for Sanatana, and she appeared as if by magic.” Sanatana understood that it had been Sri
+Radha Thakurani Herself and with tears of love said, “By accepting service from Her we are ruined — we shall not reach our
+cherished goal”; for Radha is their Mistress and they Her servants, and the relationship of service had been reversed. Again
+and again he reproached himself for having accepted service from Her whom he longed to serve, and strictly forbade Rupa to
+accept such gifts in future.[^50] <!-- F261 F262 -->
+
+According to the “Bhakti-ratnakara,” Sanatana once came to Radha-kunda to Rupa and Raghunatha Dasa; they rose, showed him
+honour, seated him, and all three held an ishtagoshthi, a discussion about Krishna. Rupa had then written a hymn to
+Radharani, the “Chatu-pushpanjali” (“Offering of Four Flowers”), and one verse had lodged in Sanatana's mind: “You, O
+Gaurangi, of the colour of fresh gorochana, clad in garments the colour of the blue lotus, and Your long braid, glittering
+with clusters of jewels, is like a black serpent.” Sanatana had his doubts: is it fitting to compare Radharani's braid to a
+snake? That same day, bathing in Radha-kunda, he saw cowherd boys and girls playing at a distance; behind the head of one
+girl something black was swaying, and it seemed to him a poisonous snake. “Child, beware, there is a snake on your back!”
+he cried, but she did not hear. Running up, he saw that it was Sri Radha Herself, and the boys and girls laughed for a long
+time. Sanatana was struck dumb — and understood the rightness of Rupa's comparison. <!-- F263 F264 F265 Q60 -->
+
+## The Elder Brother
+Even when speaking of Sanatana, the Gaudiya acharyas call him again and again “Rupa's elder brother.” So write Kavi
+Karnapura (“Chaitanya-chandrodaya-nataka,” 9.45), Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
+“Manah-shiksha,” 3) and in the “Mukta-charita” (4), Jiva in the closing verse of the “Laghu-toshani,” and Krishnadasa
+Kaviraja, in the verse of obeisance to the shastra-gurus at the beginning of chapters of the Antya-lila, bows “before my
+shastra-gurus: Srila Rupa Gosvami and his elder brother Srila Sanatana Gosvami” (CC, Antya 2.1; likewise Antya 3.1).
+<!-- F266 -->
+
+Sanatana himself, in the opening verse of his commentary “Dig-darshini” on the “Brihad-bhagavatamrita,” bows to Sri
+Chaitanya, “having taken shelter of whose Rupa” this low man obtained bhakti: the word “rupa” here means both the Lord's
+“form” and Rupa himself. Rupa always revered Sanatana, the acharya of sambandha, as his spiritual teacher — “Sanatana is the
+guru of Srila Rupa Gosvami,” says one biography; and Sanatana, as already mentioned, in his commentary on the
+“Brihad-bhagavatamrita” calls Rupa his beloved servant. The dedication of Sanatana's “Vaishnava-toshani” (“shrimach-
+chaitanya-rupasya prityai…”) can be understood in two ways: “for the pleasure of Sri Krishna Chaitanya” or “for the pleasure
+of Srila Rupa Gosvami,” at whose bidding this commentary was written. Sanatana's literary contribution to the Gaudiya
+sampradaya is comparable only with that of Rupa and Raghunatha Dasa. <!-- F267 F268 F269 F270 F271 Q65 Q76 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -1157,3 +1221,10 @@ strong” Kashishvara, was a great servant of Sri Govinda. <!-- F253 F254 Q58 --
     Vidyabhushana took part. That it was Aurangzeb who destroyed the temple one biography puts in question; according to
     another, the upper storey of the seven-storeyed temple was destroyed.
 [^48]: One biography gives Purva 2.111.
+[^49]: Where this took place is told differently: according to one account, at Rupa's place of bhajana, Teri-kadamba near
+    Nandagrama; according to another, Sanatana was then living in a hut by Pavana-sarovara near Nandagrama. Ghee is
+    mentioned in only one account.
+[^50]: Sanatana's answer is reported differently: according to one account, he forbade Rupa ever to cook sweet rice again,
+    so that Radharani would not trouble Herself for his sake; according to another, he strictly forbade him to accept such
+    gifts in future, since the relationship of service had been reversed; according to a third, with tears of prema he
+    reproached himself for having accepted service from Her whom he longed to serve.
