@@ -184,7 +184,7 @@ strong that we ourselves have become enemies of the cows and of the whole brahmi
 hand and foot so tightly that we have been cast into the foul abyss of sense enjoyment. No one in the whole universe
 can save us but You, for You are the Saviour of the most fallen.” (CC, Madhya 1.196–199)
 
-If You save us, they said, the whole universe will learn the greatness of Your mercy. <!-- F52 Q11 -->
+If You save us, they said, the whole universe will learn the greatness of Your mercy. <!-- F51 F52 Q11 -->
 
 These words are an expression of great Vaishnava humility (dainya), not an admission of any real fall. Rupa and
 Sanatana are the Lord's eternal associates, who stand above varnashrama, and to take their self-abasement literally,
@@ -273,6 +273,163 @@ Sanatana understood the hidden meaning — the Lord had gone to Mathura — and 
 thousand coins from the money Rupa had left, escaped from confinement and set out after his brothers.[^20]
 <!-- F68 F69 F70 Q16 F71 -->
 
+## Prayaga
+Rupa and Anupama came to Prayaga and learned with great joy that the Lord was there. When He went for darshana of
+Bindu-madhava, crowds ran after Him, and the brothers kept their distance; but when the Lord came to take His meal in
+the house of a South Indian brahmana, they came there and, holding straws between their teeth, prostrated themselves at
+His feet, rising and falling down again and again and reciting verses of praise and humility. <!-- F72 -->
+
+“Sri Chaitanya was overjoyed to see Sri Rupa and asked him to rise and come to Him. ‘It is impossible to describe
+Krishna's mercy!’ He said. ‘By His mercy you have both been pulled out of the well of worldly pleasures.’ ‘One who is
+brilliantly educated and knows all the Vedas, but has not dedicated himself to unalloyed service to Me, should not be
+considered My devotee. On the other hand, a person, even if born in a family of dog-eaters, may be My dear devotee if he
+is not attracted by the fruits of karma and jnana. All should show respect to such a person, and whatever he offers
+should be accepted with respect. Such a devotee of Mine is worthy of the same worship that is offered to Me.’ Reciting
+this verse, He embraced both brothers and then mercifully touched their heads with His foot.” (CC, Madhya 19.48–51)
+
+The verse the Lord recited is from the “Itihasa-samuchchaya.” <!-- F73 F74 Q17 -->
+
+Having received this mercy, Rupa — a peerless poet whose poetry is not of this world — together with his younger
+brother, with folded palms, bowed to the Lord with a verse of his own:
+
+“O Krishna, I offer You my obeisances. Your name is Sri Krishna Chaitanya. The colour of Your body is golden yellow. You
+embody divine compassion. You are engaged in bestowing love for Krishna. And at the same time You are Krishna Himself! I
+offer You my humble obeisances.” (CC, Madhya 19.53) <!-- F75 Q18 -->
+
+This obeisance from Rupa's lips was accepted by the whole Rupanuga-sampradaya as its ever-revered prayer to Sri Gaura.
+In it are named at once the name, form, quality, associates and pastimes of Gaurasundara: the name — “Sri Krishna
+Chaitanya”; the form — golden radiance; the quality — supreme magnanimity; the associates — the parshadas who belong to
+Krishna Himself (Svarupa, Rupa, Ramananda Raya and others, and with them the sampradaya that follows them); the pastime —
+the bestowal of krishna-prema. Thus the whole of gaura-tattva is contained in a single verse. <!-- F76 F77 I6 -->
+
+The Lord seated Rupa beside Him and asked about Sanatana. “He is now the king's prisoner,” Rupa answered, “and will be
+freed only if You release him.” “Sanatana's bonds are already broken,” said the Lord; “he will soon come to Me.” That day,
+at the brahmana's invitation, the brothers stayed in his house and received the remnants of the Lord's meal. The Lord
+took up residence at Triveni, the confluence of the Ganga and the Yamuna, and Rupa and Anupama settled nearby.[^21]
+<!-- F78 F79 F80 -->
+
+## Vallabha Bhatta
+The learned Vallabha Bhatta was living at that time in the village of Arail (Adail), about a mile from the confluence,
+on the other bank of the Yamuna. The seat (baithak) of Vallabhacharya is shown today about a krosha from present-day
+Arail, at a place called Deorah: it is no longer in the village itself but in the Arail pargana, and according to local
+tradition Sri Chaitanya came there. The owner of this baithak is Muralidhara Lalji, the owner of the well-known Gopalji
+temple in Kashi. The very name “Deorah” is a corruption of “deva-rishi”: according to the books of the Vallabha
+sampradaya, gods and rishis lived there for the sake of Vallabhacharya's company. <!-- F81 F82 F83 F84 -->
+
+Hearing of the Lord's great influence and that He was at Triveni, Vallabha Bhatta hastened to Him and prostrated himself
+at His feet; the Lord embraced him and began to speak of Krishna. In this conversation His prema welled up, but,
+regarding Vallabha as an outsider (bahiranga), the Lord concealed His feeling, and Vallabha could only marvel at what he
+saw.[^22] Rupa and Anupama were at the Lord's feet, and He introduced His most beloved devotees to Vallabha. Out of
+humility the brothers bowed to the Bhatta from a distance; and when he moved towards them to embrace them, they —
+seeking no honour and honouring others (amani-manada) — drew back, calling themselves unworthy: “We are low and
+untouchable; do not defile yourself,” and sat at a distance. <!-- F85 F86 -->
+
+Pleased with their humility, the Lord, after showing Vallabha — a man of high family proud of his learning — outward
+worldly respect, decided to test his way of thinking:
+
+“‘Do not touch him, for he belongs to the lowest caste, whereas you are a brahmana of an ancient and noble family, of
+profound learning and experienced in performing many Vedic rites.’ Hearing that their lips were constantly repeating the
+names of Krishna, Vallabha Bhatta understood Sri Chaitanya's hints and said, ‘The constant chanting of Krishna's names
+makes them dance. Therefore they cannot be low; on the contrary, they are most exalted.’” (CC, Madhya 19.69–71)
+
+And Vallabha quoted a verse of the “Srimad-Bhagavatam” (3.33.7): “Glory and praise to those whose tongue repeats Your
+holy name! They are to be honoured even if they were born in families of dog-eaters…” (CC, Madhya 19.72)
+<!-- F87 F88 Q19 Q20 -->
+
+Vallabha passed the test: there was in him no offence of seeing a Vaishnava as an ordinary mortal; he had faith in the
+name of Hari and was not merely a smarta brahmana bound by rituals; the Vaishnava nature had largely awakened in him,
+and so his invitation could be accepted. The measure here is not birth or learning but one's attitude towards the
+devotee and faith in the holy name. Seeing that an understanding of the devotee's superiority had taken root in
+Vallabha's heart, the Lord praised him and, condemning the views of the ritualistic smartas, quoted verses of the
+“Hari-bhakti-sudhodaya” (3.11–12):
+
+“In the fire of the sacred practice of loving service to God, all the consequences of past sins, such as low birth, are
+burned away. Even one born in a family of dog-eaters may win the approval of great theologians by the power of his
+sincere service to God. Whereas even a knower of the Vedas is not recognised as such if he is an atheist.” “If someone
+has no loving devotion to the Supreme Lord, all his virtues, such as high birth, knowledge of the scriptures,
+repetition of Vedic mantras, as well as austerity and strict observance of vows, are like ornaments on a corpse. Such
+ornaments can bring only false joy to the unenlightened.” (CC, Madhya 19.74–75) <!-- F89 F90 Q21 I7 -->
+
+Vallabha invited the Lord and His companions to his home and at the Triveni ghat seated them in a boat; with the Lord
+were Rupa, Anupama, Balabhadra Bhattacharya and Krishnadasa the Rajput. As the boat was crossing the Yamuna, love seized
+Mahaprabhu at the sight of its dark waters, and He began to dance, frightening everyone:
+
+“With a loud cry He leapt into the waters of the Yamuna. At this sight everyone was seized with fear and trembling. In
+great haste the devotees pulled Him back into the boat, but, finding Himself there again, He began to dance.” (CC,
+Madhya 19.79–80) <!-- F91 -->
+
+Having brought the Lord to his home, Vallabha washed His feet with his own hands, and the whole family placed that water
+on their heads; he dressed the Lord in a new kaupina and upper cloth and performed a “great puja” with incense, flowers,
+fragrances and lamps. Then with great care he fed the Lord many dishes and gave the remnants of His meal to Rupa and
+Krishnadasa the Rajput;[^23] after the meal he offered Him spices, laid Him down to rest and himself began to massage His
+feet, and the Lord told him to go and eat too. <!-- F92 F93 -->
+
+There came the mahabhagavata Raghupati Upadhyaya from Tirhut,[^24] a disciple of Madhavendra Puri, and the Lord spoke
+with him at length about rasa. To the Lord's questions about the highest form, the highest abode, the age and the rasa,
+he answered thus:
+
+“Shyamasundara is the highest form of God, the city of Mathura is the highest divine abode, the beginning of blossoming
+youth is the highest time of life, and nothing can compare with the sweetness of the rasa of conjugal love.”
+(“Padyavali,” 82; CC, Madhya 19.106)
+
+The Lord embraced him. All the people of the village, on seeing Mahaprabhu, became devotees of Krishna, and Vallabha took
+the Lord back to Prayaga by boat. <!-- F94 F95 Q22 -->
+
+## Ten Days at Dashashvamedha
+Wary of the crowds at Triveni, the Lord went to the Dashashvamedha ghat. In all He remained in Prayaga only ten days,
+staying there unrecognised. <!-- F96 -->
+
+“Wary of the great gathering of people, Sri Chaitanya went to the Dashashvamedha ghat. There He instructed Sri Rupa
+Gosvami, investing him with His special power. There He revealed to Sri Rupa the highest truths about Krishna, teaching
+him the highest conclusions of the science of bhakti and rasa in full accord with the ‘Srimad-Bhagavatam.’ He imparted
+to him all the confidential conclusions He had earlier heard from Ramananda Raya. By His mercy Sri Rupa was able to
+grasp them perfectly.” (CC, Madhya 19.114–116)[^25] <!-- F97 Q155 -->
+
+Having invested His shakti in the heart of this most worthy disciple, the Lord made him mature and awakened all truths
+in his heart, so that Rupa became skilled in expounding them. These teachings are called the “Sri-rupa-shiksha.” Kavi
+Karnapura says in the “Chaitanya-chandrodaya-nataka”:
+
+“When in the course of time the accounts of the pastimes of Vrindavana had vanished from people's memory, the Lord, to
+glorify them again in all their fullness, bathed Rupa and Sanatana there in the nectar of His mercy.”
+(“Chaitanya-chandrodaya-nataka,” 9)[^26]
+
+And elsewhere in the same drama (9.70): Rupa, long bound fast by Gaura's beloved qualities and free of attachment to
+home, revealed his form like the highest rasa embodied, and in Prayaga the Lord bestowed His mercy on him and his younger
+brother Anupama with loving talks and tight embraces. <!-- F98 F99 F100 F101 Q23 Q24 -->
+
+Rupa himself recorded this in the opening verse of the “Bhakti-rasamrita-sindhu” (1.1.2), which Krishnadasa Kaviraja
+quotes:
+
+“I am the lowest of men and have no knowledge, yet the Lord has mercifully inspired me to write books on bhakti.
+Therefore I humbly bow down at the lotus feet of the Supreme Lord Sri Chaitanya Mahaprabhu, who has given me the ability
+to do this.” (CC, Madhya 19.134)
+
+“Lowest,” “wretched” are words of humility; and the inspiration in the heart of which Rupa speaks is the shakti
+invested by the Lord: He instructed Rupa not with words alone but revealed all truths within him. According to one
+biography, in Prayaga Mahaprabhu directly told Rupa to write the “Bhakti-rasamrita-sindhu.” <!-- F102 Q25 I8 -->
+
+For ten days in succession, having invested His shakti in Rupa, the Lord set forth to him in concise form, like sutras,
+the characteristics of bhakti-rasa. Giving him the plan of a future book on rasa, He described the characteristics of
+the various rasas, showed how to taste the bottomless ocean of rasa and explained how difficult it is to attain
+devotion to Krishna. Through Rupa, Mahaprabhu revealed to the world Krishna's pastimes in Vrindavana and the path to
+Krishna in Vrindavana. Krishnadasa Kaviraja testifies:
+
+“By the mercy of Sanatana Gosvami I learned the truths of bhakti. And by the mercy of Sri Rupa Gosvami I tasted the
+ambrosia of loving relationships with Sri Krishna.” (CC, Adi 5.203)
+
+And again:
+
+“Through Haridasa Thakura He revealed the greatness of the holy names of Krishna. And through Sanatana Gosvami He
+disclosed the essence of sacred devotion to God. Through Sri Rupa Gosvami He revealed the taste of transcendental loving
+relationships with Krishna in Vrindavana. Who is able to describe all the confidential deeds of Sri Chaitanya?” (CC,
+Antya 5.86–87)
+
+Kaviraja begins the nineteenth chapter of the Madhya-lila, which tells of the teachings given to Rupa, thus:
+
+“Wishing to revive the memory and knowledge of Sri Krishna's pastimes in Vrindavana, lost over time, Sri Chaitanya
+Mahaprabhu invested Sri Rupa with His divine power and empowered him to do so, just as earlier He had given Brahma the
+power to create all the worlds of this universe.” (CC, Madhya 19.1) <!-- F103 F104 F105 F106 F107 F108 Q26 Q27 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -333,3 +490,17 @@ thousand coins from the money Rupa had left, escaped from confinement and set ou
 [^20]: According to one biography, the seven thousand rupees were brought to Sanatana by the grocer from the money Rupa
     had left (ten thousand had been left in all); according to another, following the CC, Sanatana bought his release
     with money “sent by Rupa.” Compare the tradition of the Havaskhana ghat.
+[^21]: According to the chapter on Balabhadra Bhattacharya in one biography, in Prayaga, at Triveni (during the ten days
+    of bathing in the month of Makara), Balabhadra invited Rupa and Vallabha (Anupama) and fed them the remnants of
+    Mahaprabhu's meal. According to the CC, however, the brothers received the remnants of the Lord's meal in the house of
+    the South Indian brahmana (Madhya 19.58–59) and then at Vallabha Bhatta's (Madhya 19.88–89).
+[^22]: In the CC: “This conversation about Krishna aroused in Mahaprabhu the bliss of maha-prema, but in the presence of
+    the Bhattacharya He restrained His feelings” (Madhya 19.63); according to one biography, Vallabha marvelled at the
+    Lord's ecstatic symptoms.
+[^23]: So also in the CC (Madhya 19.89); according to another biography — to Rupa and Anupama.
+[^24]: The division of Tirhut today comprises four districts — Saran, Champaran, Muzaffarpur and Darbhanga.
+[^25]: One biography gives these verses with a wrong number (Madhya 19.105–107). The same biography's references to CC
+    Antya 1.73–86 (given as Madhya 13.66–72) and Antya 1.100 (given as 1.101) are inaccurate; its other references to the
+    CC and CB in the story of Rupa are correct.
+[^26]: The verse is numbered 9.104 in one biography and 9.38 in another; the second takes “there” to mean “in
+    Vrindavana.”
