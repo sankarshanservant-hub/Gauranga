@@ -682,6 +682,143 @@ Therefore you should engage with him in the revision of the books and of their i
 the errors and the like should be corrected. <…> The «Sri Uttara-gopala-champu» is now written, but it still has to be
 examined — this I report”. (“Prema-vilasa”, 25, letter 3) <!-- F184 -->
 
+## Lord of the Sampradaya, and Achintya-bheda-abheda
+At the beginning of the “Krama-sandarbha” and the “Sarva-samvadini” Jiva glorifies Gaurasundara as
+“svasampradaya-sahasradhidaiva” — the Lord of thousands in his own sampradaya — and shows in particular that Sri Krishna
+Chaitanya is the avatari, the source of the avataras, the purifier of the Age of Kali, and that the intelligent worship Him
+by the sacrifice of sankirtana. The teaching that Sri Krishna Chaitanya proclaimed to the world, harmonising the whole
+“Brahma-sutra” in its spiritual sense (chit-samanvaya) — achintya-bheda-abheda, “inconceivable oneness and difference” —
+Jiva set down clearly in his books, especially in the “Sarva-samvadini”, where he preached it on the basis of an analysis
+of Vedanta. <!-- F185 F186 -->
+
+Envious and self-seeking people want to present Jiva as the founder of the teaching of achintya-bheda-abheda and the
+teaching itself as new. The cause is their superficiality. Contrary to the sutra “tarka-apratishthanat” (“because reasoning
+has no firm ground”, “Brahma-sutra” 2.1.11), they set about applying logic to the self-evident, transcendental,
+inconceivable truth, which can be grasped only through the word of shruti, and therefore they do not understand the word
+“achintya”. Thus in the month of magha of the year 1347 of the Bengali era[^40] the monthly of a certain “brand-new akhara of
+avatara-vada” tried to pass off achintya-bheda-abheda as a new teaching — as a modified “anirvachaniya-vada” (the doctrine
+of the indescribable) of the kevala-advaitins, that is, as the same advaita-vada under another name. <!-- F187 F188 -->
+
+What does Jiva himself say? In the “Sarva-samvadini” on the “Bhagavat-sandarbha” he quotes a verse of the “Vishnu-purana”:
+
+“The shakti of Vishnu is called the higher; higher also is the one called kshetrajna; and the other, called ignorance and
+karma, is held to be the third shakti”. (“Vishnu-purana”, 6.7.61)
+
+And he explains: “the shakti of Vishnu” is Vishnu's own (svarupa-bhuta) higher spiritual shakti. According to the
+“Vishnu-purana” (6.7.53), the svarupa turned towards action is called “shakti”; shakti is the basis of the capacity to
+create the world, and it is eternal; and since it cannot be defined as wholly separate from the svarupa, it is the
+svarupa-shakti. The objection “there is only the thing itself — why shakti?” is not the view of the Vedantists (it is the
+naiyayikas who do not accept shakti); moreover, the power of a thing, while the thing remains, can be checked by a mantra
+and the like, so to deny shakti is against reason. Shakti cannot be thought of as identical with the svarupa — hence
+difference is seen; nor as separate from it — hence non-difference is seen. So, Jiva concludes, “difference and
+non-difference of the shakti and the Possessor of shakti are accepted, and both are inconceivable”. <!-- F189 F190 Q31 Q32 -->
+
+In the “Sarva-samvadini” on the “Paramatma-sandarbha” Jiva examines this siddhanta in detail. Some, like Bhaskara, teach
+difference and non-difference according to states — as of cause and effect, genus and individual: so clay and pot, bull
+and cow. Others, the naiyayikas, teach difference and ascribe non-difference only to a “qualified” thing, interpreting
+“tat tvam asi” otherwise. Still others, mindful of the sutra “tarka-apratishthanat” and seeing the flaws of both sides,
+accept inconceivable difference and non-difference. The Puranikas and the Shaivas hold bheda-abheda, as does Bhaskara; for
+the Mayavadis difference is only practical (vyavaharika) or apparent (pratitika); Gotama, Kanada, Jaimini, Kapila and
+Patanjali stand for difference (bheda), and so do Ramanuja and Madhva.[^41] “But in our view,” says Jiva, “there is only
+inconceivable difference and non-difference, for the Supreme Truth is full of inconceivable shakti”. <!-- F191 F192 Q33 -->
+
+This teaching is not new. A brand-new, self-willed community without a sampradaya (asampradayika-bruva), stricken by the
+hidden disease of slander, calls even the eternal truths — Krishna-bhakti and Krishna-tattva — “new”. In fact “our former
+acharya, the eldest Vaishnava” Anandatirtha (Madhva) in his bhashya cites testimonies of the “Brahma-tarka”, an eternal
+shastra composed by Vyasa — and from them achintya-bheda-abheda emerges as a beginningless siddhanta of shruti. The
+“Brahma-tarka” says that in Janardana the whole and its parts, the bearer of qualities and the qualities, the Possessor of
+shakti and the shakti, the doer and the deed, the whole and His own parts (svarupamsha) are eternally non-different; so also
+in the jivas and in the spiritual prakriti; therefore He is spoken of as “without parts, without qualities, without action,
+without limbs”. All this is possible through Vishnu's inconceivable shakti: by it are explained the eternity of action, the
+difference between the manifest and the unmanifest, talk of being and non-being, the non-difference of a particularity and
+its possessor; by the power of His shakti difference and non-difference coexist in the jivas and the spiritual prakriti; so
+also the difference and non-difference of effect and cause, except the efficient cause. In the opinion of a modern
+researcher, Jiva knew that the basis of his achintya-bheda-abheda lies in Madhva's “Bhagavata-tatparya”: at the beginning
+of the “Shat-sandarbha” he says that he followed Madhva's “Tatparya” and accepted the texts quoted there — the
+“Brahma-tarka” and others — as authoritative, though he could not study those sources themselves. <!-- F193 F194 F195 Q34 -->
+
+Between “achintya” (inconceivable) and “anirvachaniya” (indescribable) there is a difference as between heaven and the
+netherworld. “Anirvachaniya” rests on the impersonal teaching: what is beyond description is devoid of particularities. But
+the inconceivable is not impersonal: it is directly grasped by spiritual perception; it is described by senses turned to
+service and by a mind and speech obtained in spiritual samadhi; it is described on the levels of Vaikuntha and Goloka — but
+it cannot be thought by a limited nature or by a mind seized by maya. That is why the satvata-shastras call Bhagavat-tattva
+“achintya” and His svarupa-shakti “avichintya”. This siddhanta has been described from beginningless time in the Vedas, in
+other shastras and in the words of Vyasa; Mahaprabhu spread it through His closest associates — Rupa, Sanatana and others —
+and the best of the Rupanugas, Jiva, gave it special expression through Vedantic analysis and the arguments of shruti. Thus
+achintya-bheda-abheda proves to be neither an innovation of Jiva's nor a variety of the “indescribable” of advaita: it is
+eternal; Mahaprabhu completed with it the teachings of the earlier acharyas, and Jiva set it out with the arguments of
+Vedanta. <!-- F196 F197 I17 -->
+
+## Bhaktivinoda on Achintya-bheda-abheda
+Bhaktivinoda Thakura explains this teaching as follows. Having studied the Vedas and Vedanta, the acharyas arrived at
+conclusions of two kinds: Shankara, following the sages Dattatreya, Ashtavakra, Durvasa and others, preached kevala-advaita,
+while the Vaishnava acharyas, following Narada, Prahlada, Dhruva, Manu and others, preached the truth of pure bhakti. There
+are four kinds of bhakti-siddhanta. For Ramanuja, Ishvara is the one reality, endowed with two attributes, chit and achit;
+for Madhva, the jiva is different from Ishvara, but bhakti to Ishvara is its nature; for Nimbaditya, the jiva is at once
+different and non-different from Ishvara, and the difference too is eternal; for Vishnusvami, reality is one, but the state
+of Brahman and the state of the jiva are eternally distinct. For all their differences, they all accept the eternity of
+bhakti, the eternity of Bhagavan, the eternal service of the jiva and prema as the highest goal, and therefore all of them
+are fundamentally Vaishnavas. <!-- F198 F199 -->
+
+Vyasa's “Brahma-sutra” teaches parinama-vada — the doctrine of transformation — not vivarta-vada, the doctrine of
+appearance. Shankara, thinking that with parinama “Ishvara is changeable”, twisted the meaning of the sutras and established
+vivarta-vada. Both notions are defined in the “Vedanta-sara” of Sadananda Yogindra:
+
+“A different cognition when the essence itself has changed is called vikara; a different cognition without a change of
+essence is called vivarta”. (“Vedanta-sara”, 59)
+
+Parinama is like milk becoming yogurt; vivarta is like a rope being taken for a snake. The scholars of Shankara's school
+say: the world and the jiva cannot be a parinama of Ishvara, otherwise He would be changeable; the world does not exist,
+it is only through ignorance taken for reality. <!-- F200 Q35 -->
+
+But in Mahaprabhu's teaching there is no place for vivarta-vada. The example of rope and snake holds only for the jiva's
+identification of himself with the body — that is vivarta; but the body itself is not false, and to say that Ishvara
+became the body, the world or the svarupa of the jiva through vivarta is an unsound conclusion. Vyasa accepts parinama; to
+reject it is to call the omniscient Vyasa mistaken. Ishvara's inconceivable shakti, by His will, transformed into the jivas
+and matter, as milk into yogurt; but Ishvara (Brahman) Himself is not transformed, and the transformation of the shakti,
+by its wondrous power, does not make Him changeable. A worldly example cannot fully show a transcendental truth, but it
+illuminates one side of it: it is said that the chintamani stone produces heaps of jewels and remains unchanged; so too
+Parameshvara, having by the mere will of His inconceivable shakti created a world of countless jivas and countless universes,
+each with fourteen worlds, remains entirely unchanged. <!-- F201 F202 -->
+
+“Unchanging” does not mean “only impersonal”. Brahman is always the form of Bhagavan, full of the six opulences; to call
+Him only impersonal is to deny His chit-shakti. By His inconceivable shakti He is eternally both with particularities and
+without them; to accept only the latter is to accept half of His nature. The shrutis describe three roles in Him — the
+source (apadana), the instrument (karana) and the substratum (adhikarana):
+
+“That from which these beings are born, by which, once born, they live, into which, departing, they enter — know That: it
+is Brahman”. (“Taittiriya Upanishad”, 3.1)
+
+These are His particularities, and therefore Bhagavan is always savishesha — full of particularities — and never merely
+formless; His eternal transcendental form is sach-chid-ananda, full of the six opulences. So the “Chaitanya-charitamrita”
+teaches as well:
+
+“The direct meaning of the word «brahma» (Brahman) is Bhagavan, the Supreme Lord. The unsurpassed and incomparable Lord is
+full of all spiritual perfections”. (CC, Adi 7.111) <!-- F203 Q36 Q38 -->
+
+Jiva says in the “Bhagavat-sandarbha” (16): the Supreme Truth is one, but by Its natural inconceivable shakti It always
+abides in four aspects — as the svarupa, as its vaibhava (splendour), as the jivas and as pradhana — like the radiance within
+the sun, the solar disc, the rays issuing from it, and their distant reflection. The svarupa is a form made wholly of
+sach-chid-ananda; the spiritual abode, the name, the associates and all the paraphernalia of the pastimes are the
+svarupa-vaibhava; the countless eternally liberated and eternally conditioned souls are the jivas; maya, pradhana and all
+the worlds made of it are “pradhana”. How can what is eternally opposed coexist in one Truth? For the limited mind of the
+jiva it is impossible, but for the inconceivable shakti of Parameshvara it is possible. <!-- F204 Q37 -->
+
+In the “Sarva-samvadini” Jiva named this teaching “achintya-bheda-abheda”. The bheda-abheda (dvaita-advaita) of Nimbarka
+did not reach completeness; the Vaishnava world attained it on receiving Mahaprabhu's teaching. Mahaprabhu accepted the
+sampradaya of Madhva because the eternal sach-chid-ananda form acknowledged by Madhva is the root of
+achintya-bheda-abheda. The conclusions of all the earlier Vaishnava acharyas lacked something, and from this lack arose the
+differences between the sampradayas. Sri Chaitanya, the Supreme Truth Himself, by His omniscience supplied what was missing
+— Madhva's “eternal form of sach-chid-ananda”, Ramanuja's “doctrine of shakti”, Vishnusvami's “shuddhadvaita” and
+“belonging wholly to Him” (tadiya-sarvasvatva), Nimbarka's “eternal dvaita-advaita” — making them flawless and complete,
+and out of mercy gave the world His own most pure and rigorously grounded teaching of achintya-bheda-abheda. <!-- F205 F206 -->
+
+According to this siddhanta, the difference and non-difference of the jiva from Krishna and of the world from Krishna are
+true simultaneously. Limited human reason cannot reconcile them, and so this eternal principle is called “inconceivable”.
+Yet it is not contrary to reason: for Bhagavan, who possesses inconceivable shakti, it is reasonable, and what is
+established by this shakti is truth, obtained by mercy. The ancients taught not to apply logic to the inconceivable, for
+argument about it never becomes proof; for those who forget this there is no end of misfortune. <!-- F207 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -837,3 +974,8 @@ examined — this I report”. (“Prema-vilasa”, 25, letter 3) <!-- F184 -->
 [^39]: According to another biography, at Jiva's command Ramachandra visited Madana-mohana, Govinda, Gopinatha and the
     samadhi of Sanatana, saw Lokanatha, Gopala Bhatta and Bhugarbha, and these three gave him the title for his verses. One
     more biography, in its chapter on Jahnava, says that the title was given to Govinda by Jiva, Srinivasa and Jahnava.
+
+[^40]: About 1941 CE (our own conversion).
+
+[^41]: In the Bengali retelling of one of the biographies Ramanuja's teaching is called vishishtadvaita-vada and Madhva's
+    bheda-vada; in Jiva's Sanskrit text both are named as upholders of difference.
