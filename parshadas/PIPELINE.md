@@ -31,7 +31,9 @@
 2. **Реестр** `parshadas/facts/<тег>.md` — формат как `parshadas/facts/vishnupriya.md`; все факты всех трёх книг; «лишь
    присутствие» — одной строкой; в конце «Не взято (и почему)». Если в главе B много о другом лице (как глава 004 о
    Гададхаре дасе) — это в «Не взято» с указанием реестра того лица.
-3. **Карточка** `parshadas/cards/<тег>.yaml`; `python3 parshadas/tools/cards.py` → 0 ошибок; новые теги — в конец своих
+3. **Карточка** `parshadas/cards/<тег>.yaml`; `python3 parshadas/tools/cards.py` → 0 ошибок (он же обновляет справку
+   `{карточка: …}` в `lila-db/PERSONS.md`); затем `python3 lila-db/build.py` (обновит `lila-db/export/persons.json` для
+   сайта) и закоммитить `PERSONS.md`, `parshadas/export/*.json`, `lila-db/export/persons.json`, `places.json`; новые теги — в конец своих
    разделов `lila-db/PERSONS.md` / `PLACES.md`, дубли — `grep -o '^| @[a-z0-9-]*' lila-db/PERSONS.md | sort | uniq -d` → пусто.
 4. Очень большие главы (Рупа, Санатана): реестр по частям `parshadas/facts/parts/<тег>-B|T|M.md` (параллельно), затем
    слияние с таблицей соответствия (как у Нитьянанды).
