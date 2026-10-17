@@ -1208,6 +1208,165 @@ his own commentary “Rasavati”, on Krishna's childhood pastimes; it is mentio
 p. 208; vol. II, p. 32) and described by Rajendralal Mitra (“Notices of Sanskrit Manuscripts”, vol. I, pp. 41–42).
 <!-- F292 -->
 
+### “Shat-sandarbha”
+Jiva's principal work is the “Sri Bhagavata-sandarbha”, otherwise the “Shat-sandarbha”, “The Six Sandarbhas”. It was
+composed, at the instruction of Rupa and Sanatana, by a follower of the feet of Sri Krishna Chaitanya honoured by the
+assembly of Vaishnavas of the whole world. Its six parts are the “Tattva-”, “Bhagavat-”, “Paramatma-”, “Sri Krishna-”,
+“Sri Bhakti-” and “Sri Priti-sandarbha”. The first four establish sambandha-tattva, the truth of relationship; the
+“Bhakti-sandarbha” — abhidheya, the path; the “Priti-sandarbha” — prayojana, the goal. <!-- F293 F294 -->
+
+The foundation of the book goes back to Mahaprabhu Himself. Sanatana in Kashi and Rupa in Prayaga heard from Gaurasundara's
+lips about sambandha, abhidheya and prayojana according to the “Bhagavatam” and wrote many books on bhakti. These
+conclusions Gopala Bhatta, son of Venkata Bhatta from the bank of the Kaveri, received while studying with Rupa and
+Sanatana, and, gathering their essence anew, for their pleasure he wrote a book of karikas — brief propositions in verse.
+This book Jiva calls the source of the “Bhagavata-sandarbha”: Gopala Bhatta's contribution was notes, theses, which Jiva
+then developed in detail.[^46] In the introduction to the “Tattva-sandarbha” (verses 4–5) he says: the ancient Vaishnavas,
+Madhvacharya and others, wrote books about Bhagavan; gathering their essence, a book was composed by Gopala Bhatta — a Vedic
+brahmana from the south, a friend of Jiva's two elder uncles; but in it there was order in some places, while in others
+the order was broken or the exposition fragmentary, and “insignificant Jiva” sets it out in order.[^47] The same thought
+is repeated at the beginning of all the other five sandarbhas. Baladeva Vidyabhushana in his commentary explains: “the
+friend of those two” is Gopala Bhatta, “the ancient Vaishnavas” are Madhva and others; therefore the author calls Gopala
+Bhatta's book the source of the “Shat-sandarbha”, and Gopala Bhatta himself its brief compiler. <!-- F295 F296 F297 Q74 -->
+
+The first four sandarbhas are written on the subject of one verse of the “Bhagavatam”:
+
+“Those who have attained direct perception of the Absolute Truth say that this non-dual Knowledge is revealed in three
+principal aspects: the impersonal Brahman, Paramatma (the Supersoul) and Bhagavan (the Supreme God as a Person)”.
+(“Srimad Bhagavatam”, 1.2.11; CC, Adi 2.11) <!-- F298 Q70 -->
+
+The “Tattva-sandarbha” opens with a mangalacharana to the chosen Deity — a verse of the “Bhagavatam”:
+
+“In the age of Kali the wise will perform Sri-harinama-sankirtana, worshipping the Supreme Lord, whose lips never leave the
+holy names of Krishna. He is Sri Krishna Himself, though not dark in colour. With Him always are His weapons, servants,
+associates and close friends”. (“Srimad Bhagavatam”, 11.5.32; CC, Adi 3.51)
+
+The Bengali retelling explains: He always carries on His tongue the syllables “Krishna”, or describes Krishna's name, form
+and qualities; in colour He is not dark but golden; His angas are Nityananda and Advaita, His upangas Shrivasa and others,
+His weapon is Hari-nama, which destroys ignorance, His parshadas are Gadadhara, Govinda and others; the wise worship Him
+by sankirtana. The second verse explains the first: <!-- F299 Q71 -->
+
+“Within — Krishna, without — golden, who has displayed the glory of His angas and other associates — in Kali, by
+sankirtana and the like, we take refuge in Krishna Chaitanya”.
+
+Being Krishna Himself, He accepted a golden form. The third verse is about Rupa and Sanatana:
+
+“Glory in the land of Mathura to Srila Rupa and Sanatana — those who move me to write this little book proclaiming the
+truth”.
+
+The Bengali retelling specifies: the truth about Bhagavan and His associates, so that people may know it.
+<!-- F300 F301 Q72 Q73 -->
+
+The sixth verse is about adhikara, the right to read the book: let it be seen only by one whose sole desire is to serve
+the lotus feet of Sri Krishna; to all others — a sworn prohibition. The seventh is a salutation to the mantra-gurus
+(diksha-gurus) and to the gurus who teach the meaning of the “Bhagavatam”, and an announcement of the beginning of the
+“Bhagavata-sandarbha”. The eighth is a blessing and a brief summary of the whole book: Krishna, Bhagavan Himself, whose
+existence of pure consciousness is in places called Brahman in the Vedas; whose portion, the Purusha, the master of maya,
+manifests the lila-avataras, Matsya and others, and the guna-avataras, Brahma, Vishnu and others; whose form as Narayana
+sports in the paravyoma — may He grant His prema to those who serve His feet. <!-- F302 F303 F304 Q75 Q76 Q77 -->
+
+The right to read the “Sandarbhas”, then, is given not by learning but by the desire to serve Krishna's feet. Whoever
+approaches them with an academic yardstick breaks Jiva's sworn prohibition and falls into error; the “Shat-sandarbha” can
+be understood only by studying it with a devotee who loves Gaura (on the errors of scholars see below). <!-- I23 -->
+
+There are twenty-four principal topics in the “Tattva-sandarbha”. They are the paravyoma and Bhagavan; the work of the
+avataras; sambandha, abhidheya and prayojana; the powerlessness of mundane knowledge — perception and inference — to grasp
+the inconceivable and His shakti without Vedic testimony; the inadequacy of logic and the authority of the word
+(shabda); the appearance and disappearance of the Vedas and Puranas. The Puranas are the fifth Veda; they are of three
+kinds, and one must follow the sattvic ones; the “Bhagavatam” is the natural (akritrima) commentary on the Vedas, a
+nirguna, transcendental, pure Purana, the crown of all proofs. Further: the chief fruit of Krishna's name is prema-bhakti;
+the pre-eminence of Krishna Dvaipayana; an introduction to the “Bhagavatam” and its primacy in Kali; why Shankaracharya did
+not comment on the “Bhagavatam”; how Madhvacharya, Shridhara and others honour it; Vyasa's vision of Bhagavan; the
+non-difference of bhakti from svarupa-shakti; Bhagavan's mercy to the jiva; the opinion of devotee-advaitins; the
+refutation of the doctrine of a single jiva (ekajiva-vada); the necessity of sadhana-bhakti; the superiority of prema over
+impersonal knowledge; the difference of the atma from the body; ashraya-tattva — the truth of the highest shelter — and the
+refutation of the views that this shelter is merely the adhyatmika and the like; and finally — Bhagavan Krishna Himself
+is the chief shelter. <!-- F305 -->
+
+Every sandarbha ends with the same colophon: “Thus in the «Sri Bhagavata-sandarbha» — within which is the instruction-speech
+of Rupa and Sanatana, honoured in the royal assembly of Vaishnavas of the whole world, — written by a follower of the feet
+of Sri Sri Bhagavan Krishna Chaitanya, who appeared to distribute worship of Himself and to purify the Kali-yuga, the first
+sandarbha, the «Tattva-sandarbha», is completed”. <!-- F306 Q78 -->
+
+Jiva named the second book the “Bhagavat-” and not the “Brahma-sandarbha” because the mayavadi conception of a Brahman devoid
+of shakti is mistaken: in its principal meaning the word “Brahman” denotes Bhagavan, the possessor of shakti (CC, Adi
+7.111, see above). Its mangalacharana repeats the thought about Gopala Bhatta's book: for the pleasure of Rupa and
+Sanatana, who live in Vrindavana, it was composed by a Bhatta from the south; in places its order is broken, in places
+there are only fragments, and, having examined it, “insignificant Jiva” sets everything out in order; this second verse
+stands in all the following sandarbhas too. The topics of the book are Brahman and Paramatma; Vaikuntha and
+shuddha-sattva, pure goodness; Bhagavan by nature possesses shakti and is the support of opposite powers; the
+inconceivability and variety of shakti; the distinction of maya-shakti, the internal shakti and others. Sri Vigraha is
+eternal, all-pervading, the support of all, beyond the subtle and the gross, self-luminous, possessed of form, qualities
+and pastimes, transcendental and complete; His ornaments and paraphernalia are parts of His own nature (svarupamsha).
+Further — the transcendental nature of Vaikuntha, its associates and the tripad-vibhuti; the relation of Brahman and
+Bhagavan; the completeness of Bhagavan; He is the subject of all the Vedas; the svarupa-shakti; and that Bhagavan is known
+only through the Vedas and bhakti. <!-- F307 F308 F309 Q79 -->
+
+The third, the “Paramatma-sandarbha”, speaks of Paramatma, of the distinction of tattvas and of the gradation of the
+guna-avataras; of the jiva, maya and the world. It establishes parinama-vada, the doctrine of the transformation of
+shakti, examines vivarta and shows that the world is not separate from Paramatma; that the world is real — such is also the
+conclusion of Shridhara Svami; on the activity of Ishvara, who is beyond the gunas; on the deeds of the lila-avataras for
+the sake of the devotees; and on the six marks by which it is seen that the meaning of the scriptures is Bhagavan.
+<!-- F310 -->
+
+The fourth, the “Sri Krishna-sandarbha”, begins with the one knowledge being called Brahman, Paramatma and Bhagavan, speaks
+of the place, nature and form of Paramatma, of the lila-avataras, of the special position of Krishna and Balarama, and
+proves that Krishna is Bhagavan Himself. Further — the cause of His descent; the harmonization of apparent contradictions
+in the scriptures; the eternity of Krishna's form; the subject of the Gita is Krishna and the superiority of worshipping
+Him beyond varnashrama; two arms as the mark of Bhagavan Himself; the svarupa of Baladeva, Pradyumna and Aniruddha;
+Krishna's form and the nature of His abode; the oneness of Vrindavana and Goloka; the nature of His associates: the Yadavas
+are associates, the cowherds eternal associates; how to understand the words that some gopis left their bodies “made of
+the gunas”; Krishna is eternally the son of Nanda and Yashoda; the harmonization of the manifest and unmanifest lila; how
+long Krishna stayed in Vraja and how He returned there, and why the “Bhagavatam” says this unclearly; the states of the
+unmanifest lila; the nature of the maidens of Vraja; the nature and pre-eminence of Radha. <!-- F311 -->
+
+The “Sri Bhakti-sandarbha” is devoted to abhidheya. The conclusions about bhakti that Rupa and Sanatana revealed in the
+“Bhakti-rasamrita-sindhu”, the “Brihad-bhagavatamrita” and other books, Jiva clarified in it by the
+“chid-vaijnanika” method — with analysis, proofs and arguments. Without studying, teaching and discussing this book, says
+one of the biographies, one cannot gain the right to enter the dharma of the “Bhagavatam”. Its method is that of a
+physician: the suffering of samsara is born of turning away from Bhagavan, therefore turning towards Him is the only way
+both to the end of suffering and to eternal bliss; as a disease is cured by a remedy opposite to its cause, so the book
+teaches turning towards Bhagavan. <!-- F312 F313 F314 I24 -->
+
+The topics of the “Bhakti-sandarbha” are very many: bhakti is bliss and the highest dharma; the fruitlessness of karma,
+jnana and the rest without bhakti; association with sadhus and the gradualness of bhakti; the grades of worship of other
+gods and of Vishnu; the worthlessness of a life sustaining only the body, without Hari-kirtana; hari-bhajana in all the
+yugas; the condemnation of enmity towards living beings and of reviling them; the classes of jivas; bhakti as abhidheya by
+the six marks of meaning; the eternal presence of bhakti everywhere and always; bhakti destroys every calamity; a Vaishnava
+purifies his family; the jiva's praise of Bhagavan in the womb; attaining Vishnu's abode even by a shadow of bhakti
+(bhakti-abhasa); the superiority even of an offender against the Name over a brahmavadi; the consequences of disrespect to
+a Vaishnava; why bhakti weakens; why Ajamila remembered Narayana at the end; the marks of exclusive devotion; an analysis
+of shraddha, faith; who is worthy of bhakti and who is not; an ananya-bhakta, devoted to the Lord alone, has no misconduct;
+the censure of worshipping Brahman and Paramatma; the nature of the jiva; for those who have taken refuge in Bhagavan there
+is no suffering of samsara; satsanga and the mercy of sadhus; who is “sat” and who is “mahat”; kanishtha-, madhyama- and
+uttama-bhagavatas; faith and taste; the nature of Sri Guru; ahamgrahopasana — worship of oneself as God; the svarupa- and
+tatastha-lakshana of bhakti; bhakti by attribution (aropa-), by association (sanga-) and by nature (svarupa-siddha);
+bhakti with desires, with the desire for liberation and with the desire for bhakti alone; the six kinds of sharanagati;
+ninefold bhakti; the nature of raganuga-bhakti; the superiority of worshipping Krishna in the Gokula-lila; and in
+conclusion — the secret of sadhana and sadhya, attained by the mercy of Guru and Bhagavan, which may not be revealed even
+at the cost of one's life. <!-- F315 -->
+
+The last verse of the “Bhakti-sandarbha”:
+
+“The feet of Those two are my guru, shastra, faith, taste, following and perfection; Radha and Krishna, the way of the
+shelterless, whose lotus eyes are bathed in a stream of compassion, are my way”.
+
+So the highest secret of sadhana and sadhya is given by the mercy of Guru and Bhagavan, and Jiva himself sees in the feet
+of Radha-Krishna both guru and shastra and all perfection. <!-- F316 Q80 I25 -->
+
+The “Sri Priti-sandarbha” speaks of prayojana. The highest truth was established in the first four sandarbhas, worship of It
+in the fifth; now the goal is examined — the attainment of happiness and the cessation of suffering, which in love for
+Bhagavan (bhagavat-priti) are absolute. The topics of the book are the aims of human life (purusharthas); the nature of
+mukti; mukti as the highest purushartha, and priti as the very highest; the external and internal realization of Brahman
+and Bhagavan; the five kinds of mukti; the superiority of bhagavat-priti; the worship of Hari by the liberated; what a pure
+devotee prays for; the marks, stages and kinds of priti; the superiority of the priti of the cowherds and the gopis; priti
+as rasa; rasa in drama and poetry; alambana and the other bhavas; the twelve rasas; the nature of ujjvala-rasa.
+<!-- F317 F319 Q81 -->
+
+In the conclusion Jiva writes: what is not disclosed here for fear of prolixity the knowers of rasa will see in his
+commentary (tippani) on the Tenth Canto. May he be gladdened by the wish-fulfilling tree of the joy of Radha and Madhava in
+Vrindavana, tended by the sakhis; and glory to Krishna in the form of Chaitanya, who descended to spread such bhava — the
+shelter of all, even of the wicked. <!-- F318 Q82 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -1382,3 +1541,8 @@ p. 208; vol. II, p. 32) and described by Rajendralal Mitra (“Notices of Sanskr
 [^45]: One of the biographies calls this work of Bhaktivinoda the “Anubhashya”; but “Anubhashya” is the name of Srila
     Bhaktisiddhanta Sarasvati's commentary (on the “Chaitanya-charitamrita”), so the titles are probably confused here
     (cf. the article on Sanatana Gosvami).
+
+[^46]: One of the biographies says otherwise: Gopala Bhatta wrote a preface to Jiva's “Shat-sandarbha”.
+
+[^47]: In the retelling of another biography Jiva says that he arranges Gopala Bhatta's book, checking it against the
+    teachings of the great — Madhva, Shridhara Svami and Ramanujacharya.
