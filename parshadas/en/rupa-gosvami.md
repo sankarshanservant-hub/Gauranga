@@ -1619,6 +1619,171 @@ Into the “Padyavali” Rupa took verses from the “Govinda-virudavali,” fro
 cows and calves) and from the “Mathurashtaka.” Of the “Chatu-pushpanjali” and of the first “Govardhanashtaka,” whose verse
 Srila Bhaktisiddhanta Sarasvati constantly repeated, we have spoken above. <!-- F453 F457 -->
 
+### “Vidagdha-madhava”
+The “Vidagdha-madhava” is a play in seven acts on Krishna's vraja-lila. The marks of transcendental separation and meeting
+of hero and heroine that Rupa would later describe in the “Ujjvala-nilamani” he shows here through the pastimes of his
+chosen Deities, Radha and Govinda, and the “Ujjvala-nilamani” draws many examples from the play. The acts are titled:
+“The Play of the Flute's Sound,” “The Love Letter,” “Meeting with Radha,” “The Stealing of the Flute,” “Radha's Grace,”
+“Autumn Pastimes” and “Pastimes at Gauri's Shrine.” <!-- F458 F459 F460 -->
+
+Of the verses of benediction (nandi) that open the play, and of how Rupa read them in Puri, we have spoken above. The play
+itself, as the sutradhara says in the first act, was written at a command received in a dream from Bhagavan Shankaradeva,
+the bhakta-avatara; Vishvanatha Chakravarti explains in his commentary that this is Gopishvara, who dwells on the bank of
+Brahma-kunda. At Gopishvara's command the play was also presented to an assembly of scholars from many lands. These are his
+words: “The life of these devotees, in whom separation from Mukunda has awakened, is ready to leave the body. Save them by
+revealing the river of the nectar of His pastimes; My mercy will gather for you all that is needed.” <!-- F461 F462 F464 F465 Q108 Q109 -->
+
+Some, not understanding these words, raise objections: what separation is meant, if the play was being written in the
+Lord's presence? But separation from Mukunda is the natural trait of the Gaura-bhaktas who follow Rupa: they are always
+steeped in the rasa of separation. Besides, the Gosvamis sometimes revised their books long years afterwards. Jiva writes
+in a letter quoted in the “Bhakti-ratnakara” (14.19) that some corrections still remained in the “Rasamrita-sindhu,” the
+“Madhava-mahotsava,” the “Uttara-champu” and the “Harinamamrita”; he finished the “Uttara-champu” in 1592, while the
+“Madhava-mahotsava” is dated 1555 — so he was still revising his own book thirty-seven years later. Rupa, too, could have
+inserted these words during a revision. <!-- F466 F467 Q110 I32 -->
+
+Another objection from those who trust empirical knowledge alone: by the date at its end the play was completed in the year
+of Mahaprabhu's departure, while Kaviraja writes that the Lord Himself heard its verses — how can his account be true? The
+answer is simple: often most of a book is written at once and the remainder, for particular reasons, long afterwards; so
+it was with many mahajanas. Most of the “Vidagdha-madhava” was written in Mahaprabhu's presence, and He Himself relished it
+with Ramananda Raya and others; this is also indicated by Svarupa Damodara's words to the Bengali poet about Rupa's two
+plays, which refer only to their opening:
+
+“The two beautiful plays of Sri Rupa Gosvami are an example of this. Merely on hearing their opening alone, all the
+devotees feel the highest happiness.” (CC, Antya 5.108)
+
+In the year of Mahaprabhu's departure Rupa wrote the remainder, finished the revision and then put the date; to begin so
+large a play after the Lord's departure and finish it in the same year would have been impossible. The account that
+Kaviraja, Rupa's undivided servant, recorded from Raghunatha Dasa's words must not be declared a “poetic fiction” on the
+strength of the conjectures of modern scholars. <!-- F468 F469 F470 F471 F472 -->
+
+The characters of the play: Nanda, king of Vraja; Krishna, the hero; Balarama; the friends Shridama and Subala;
+Madhumangala, companion and jester (vidushaka); Abhimanyu, son of Jatila; the sutradhara — Rupa Gosvami himself — and his
+assistant (pariparshvika), a disciple of Rupa. The female roles: Yashoda, queen of Vraja; Radhika, the heroine; Her
+sakhis Lalita and Vishakha; the messenger Vrinda; Paurnamasi, mother of the muni Sandipani and disciple of Narada;
+Nandimukhi, Madhumangala's sister; Jatila; Mukhara, Radhika's maternal grandmother and Yashoda's nurse; Sarangi, a sakhi of
+Radhika; the old gopis Karala and Karalika; Chandravali, a group-leader (yutheshvari), and her sakhis Padma and Shaibya. <!-- F473 F474 -->
+
+The “Vidagdha-madhava” reveals one of the secrets of Gaudiya Vaishnava siddhanta. Paurnamasi explains how the group-leaders
+Radhika and Chandravali, deceiving Abhimanyu, Jatila's son, Govardhana, the overseer of Kamsa's cows, and others, always
+delight Krishna: for the sake of this deception Yogamaya Herself made everyone believe in the appearance of their
+marriages, whereas they are Krishna's eternal beloveds (“Vidagdha-madhava,” 1.24–25). <!-- F475 Q111 I33 -->
+
+The play ends with three verses: Rupa calls on the learned to study the “Vidagdha-madhava,” full of Sri Radha's pastimes and
+separation and adorned with the sixty-four arts; names the time and place of completion — Sri Gokula, at the close of 1589
+Samvat (1532 CE);[^58] and humbly says that as stars of feeble light adorn the night, so the peaceful, exalted bhagavatas
+turn even a heap of faults into virtues. The manuscript collection of the shripata of Gopivallabhapura holds a Bengali copy
+of the play on sixty-six leaves, made in 1657. Yadu-nandana Thakura, a disciple of Hemalata Thakurani, composed an elegant
+Bengali verse rendering of the play, the “Rasa-kadamba.” <!-- F463 F476 F477 F478 Q112 -->
+
+### “Lalita-madhava”
+The “Lalita-madhava” is a play in ten acts. The first four depict the sweet pastimes of Vrindavana, but from the fifth to
+the tenth the pastimes of Dvaraka are mingled with them, and so the play is considered devoted to dvaraka-lila. Rupa
+explains the title in the conclusion: here Hari, who captivates the mind of Kamadeva himself, by His own free will did not
+display the lofty (udatta) heroism befitting the heroes of plays, and by His pastimes took on the “lalita”-bhava — a
+playful, graceful mood.[^59] The acts are titled: “The Evening Festival,” “The Slaying of Shankhachuda,” “Radhika
+Maddened,” “Radha's Tryst,” “Chandravali Found,” “Lalita Found,” “Meeting in the New Vrindavana,” “Pastimes in the New
+Vrindavana,” “Gazing at the Picture” and “Desires Fulfilled.” <!-- F479 F480 F481 Q113 -->
+
+Like the “Vidagdha-madhava,” this play Rupa wrote at the command, given in a dream, of Gopishvara Shiva, who dwells on the
+bank of Brahma-kunda. At its beginning, in the role of the sutradhara, he relates that at the festival of Dipamalika,
+during the worship of Govardhana, he read the play to an assembly of Vaishnavas gathered to the east of the temple of
+Madhavi-Madhava on the bank of Radha-kunda, and pleased them; the command he had received in a dream from Gopishvara,
+crowned with the crescent moon, great lord of the land by Brahma-kunda adorned with lotuses, knower of the rasa of the vow
+to live by the bowers of Vrindavana (1.3). The opening of the play is a wish for the Vaishnavas' joy, an obeisance to
+Krishna, a mention of Gopishvara's command, a prayer for Gaura's mercy (“may the son of Shachi grant me good”), a confession
+of his own unworthiness, and praise of Sanatana Gosvami: <!-- F482 F483 F484 Q114 -->
+
+“He who once appeared in the world as the third of the perfected ones — Sanaka and the others — to instruct the
+paramahamsas, has now descended to place in the hearts of the bhaktas the whole secret of bhakti-rasa with all its parts.
+To him, the complete teacher of the world, obeisance.” (“Lalita-madhava,” 1.7)
+
+So Rupa calls Sanatana an avatara of the four Kumaras and the teacher of the world (vishva-guru). <!-- F485 F486 Q115 -->
+
+In the first act, in a conversation between Gargi and Paurnamasi, Rupa reveals a special secret: the semblance of Radha's
+marriage to Abhimanyu is only an appearance created by yogamaya;[^60] otherwise how could a lowly man take the hand of
+Radha — a vaijayanti garland woven of the flowers of Mount Vindhya's austerities, enriched with the nectar of Brahma's
+blessing, a nectar of sweetness that softens Madhava's heart (1.25)? In the plot of the play, two daughters, famed in the
+three worlds, were born to Vindhya by Brahma's blessing. Among the eight great shaktis full of sweetness — Radha,
+Chandravali, Lalita, Vishakha, Padma, Shaibya, Shyamala and Bhadra — these two are especially renowned as the abode of all
+virtues and as group-leaders. At Brahma's request Yogamaya transferred the girls from the wombs of the wives of Vrishabhanu
+and Chandrabhanu into the wombs of Vindhya's wives; Putana, the stealer of children, brought Vrishabhanu's daughter to
+Gokula, while Vindhya's elder daughter fell into a river flowing into Vidarbha and was found by Bhishmaka, king of
+Vidarbha. And the marriages of Chandravali and the others to the cowherds headed by Govardhana are only an appearance: the
+cowherds who fancy themselves husbands are left with nothing but the feeling “mine,” for even to see these girls is almost
+impossible for them (1.44). <!-- F487 F488 F489 Q116 Q117 -->
+
+In the fifth act, through Narada, Rupa briefly reveals also the secret of how the queens of Dvaraka are related to the
+maidens of Vraja: in essence they are one but different in body, and only in the interval, by the power of the same
+yogamaya, did they become as if quite other. The beauties of Vraja are still in Vraja, overwhelmed by prema; but Yogamaya,
+to give them even in separation the joy of their Beloved's company, gave them the sense of being the queens of the city,
+and they experienced this as in a long dream; while the sixteen thousand one hundred and eight queens whose deeds will be
+described at the pilgrimage to Kurukshetra are others. “Enough of revealing this secret,” Narada concludes (5.5). <!-- F490 Q118 I34 -->
+
+The penultimate verse of the play gives the time and place: 1459 Shaka (1537 CE), the month of Shukra (Jyeshtha), the
+fourth tithi, a Sunday; Rupa, bowing to Hari, completed it in Bhadravana. There are many more characters here: besides
+the dwellers of Vraja — Uddhava, Narada, Garuda, Sunanda, Bhishmaka, Shankhachuda, Vishvakarma, Suparna; among the female
+roles — Rohini, Kundalata, Madhavi, Nava-vrinda, Sukanthi, Tulasi, Malati, Pingala, Vindhyavasini (Ekanamsha), the
+doorkeeper Kanchuki, Bhargavi, Gargi, Bakula and others. There is a Bengali verse rendering of the play, the
+“Prema-kadamba,” made in imitation of the “Rasa-kadamba”; it is not known that Yadu-nandana himself translated the
+“Lalita-madhava.” <!-- F491 F492 F496 F497 Q119 -->
+
+Both plays, the “Dana-keli-kaumudi” and Rupa's rasa-shastras are beyond the reach not only of the ordinary human mind but
+even of the empirical judgement of extraordinary people: one who is in the grip of lust, anger and the other enemies will
+not, by learning alone, touch even the shore of these transcendental oceans. Therefore many who fancied themselves
+panditas, not grasping the meaning of the plays, fell into confusion — especially over the Lord's words to Rupa: “Krishna
+never leaves Vraja” (CC, Antya 1.66; see above). The true resolution was given by Bhaktivinoda Thakura in an article,
+“Remarks on the Plays ‘Vidagdha-madhava’ and ‘Lalita-madhava’”; he did not publish it in his lifetime, and it was printed
+later in the journal “Gaudiya” (year 20, no. 6). <!-- F493 F494 F495 I35 -->
+
+### “Dana-keli-kaumudi”
+The “Dana-keli-kaumudi” is a one-act play of the bhanika type, one of the minor dramas (uparupaka). According to the
+“Sahitya-darpana” of Vishvanatha Kaviraja (6.308–313), a bhanika has elegant costumes, two junctures of action (sandhi) —
+opening and conclusion — the kaishiki and bharati styles, one act, an exalted heroine and an excellent hero, and seven
+parts; Rupa's book comes still closer to the marks of a bhanika in Sharadatanaya's “Bhava-prakashana”: its subject is the
+deeds of Hari, its chief rasa is shringara, dance and song are subsidiary, and it is full of witty jests. <!-- F498 F499 F500 Q120 -->
+
+In the introduction Rupa wishes the Vaishnavas good from Radha's glance and victory for Her love for Krishna; the
+sutradhara speaks of Vaishnavas overwhelmed by prema in the valley of Mount Nandishvara: the lovers' quarrel of Nanda's son
+draws even the atmaramas away from the bliss of brahman. The opening verse of the bhanika has a double meaning: it
+glorifies Krishna, whose name attracts the knowers of rasa, whose conduct increases the joy of Nanda and of the sadhus,
+whose beauty bestows festivity, whose body is eternal (“sanatana”) — and at the same time “my master,” whose name attracts
+people, whose nature gladdens the sadhus, who gives festivity to Rupa and bears a body named “Sanatana,” that is, Sri
+Sanatana (11). <!-- F501 F502 Q121 -->
+
+The plot is this. Vasudeva, wishing good to Balarama and to his friend's son Krishna, son of the king of Vraja, began a
+sacrifice in the forest, appointing as his representative Bhaguri, Gargi's son-in-law. Radha and Her friends, with the
+elders' permission, carried fresh ghee (haiyangavina) to the sacrificial pavilion by Govinda-kunda. Paurnamasi had informed
+Krishna beforehand through Nandimukhi, and at Govardhana Krishna, posing as a toll collector (dana), demanded the toll from
+Radhika and Her friends; at the end Paurnamasi, acting as mediator, arranged a fitting payment. The characters are
+Krishna, Madhumangala, Arjuna, Subala, Ujjvala, the sutradhara and an actor, and among the female roles Radha, Lalita,
+Vishakha, Champakalata, Chitra, Nandimukhi, Vrinda and Paurnamasi. The dana-lila, the toll pastime, is described in this
+bhanika in detail. <!-- F503 F512 F513 -->
+
+Before the end Paurnamasi prays to Krishna in two verses. In the first she asks Madhava ever to play at the crossing with
+Radhika, best in virtues, surrounded by Her friends, and with His jesting companions; in the second she says:
+
+“Madhava, who by Your merciful glance fulfil the desires of all the dwellers of Vrindavana! He who lives in a hut on the
+bank of Radha-kunda, having given up all other affairs, and longs for direct service to You Two — quickly make the tree of
+his longing bear fruit.” (“Dana-keli-kaumudi,” 114)
+
+So Rupa points to Raghunatha Dasa Gosvami. The two concluding verses say that the bhanika, which gives joy to the sadhus,
+was woven at the command of “my dear friend” — may it adorn the bank of his kunda even for a moment — and written when Rupa
+lived at Nandishvara; the commentary that in the Baharampur edition is circulated as Jiva Gosvami's explains that the
+“dear friend” is Raghunatha Dasa, who lives by Radha-kunda. <!-- F504 F505 F506 F507 Q122 Q123 Q124 -->
+
+The year in the last verse is given in number-words (“manu-shata,” “chandra,” “svara”); by the rule “figures are read from
+right to left” this is 1471 Shaka, that is, 1549 CE. Another reading would give years when Rupa was a child and Raghunatha
+Dasa had not yet appeared or was an infant; Raghunatha appeared in 1506, and by 1549 his request is quite possible.[^61]
+That the “Bhakti-rasamrita-sindhu,” completed in 1541, quotes verses of the bhanika does not stand in the way: Rupa could
+have been writing both books at once and quoted verses from the finished part of the bhanika (the printed edition has 414
+sections, and the “Bhakti-rasamrita-sindhu” quotes sections up to the 117th), finishing it afterwards. Following Rupa's
+bhanika, Raghunatha Dasa wrote the “Dana-keli-chintamani” and says in it that “the blind one” gathered this gem only by the
+power of the dust of Rupa's feet. This also answers the question whether the bhanika was written before Raghunatha came to
+the Lord, since it has no obeisance to Sri Chaitanya. Aufrecht's catalogue mentions a commentary on the
+“Dana-keli-kaumudi” by a certain “Raghunathadasa” (whether this is the same Raghunatha is unknown); the “Padyavali” has
+three verses under Raghunatha Dasa's name. Of the tradition that Rupa wrote this merry bhanika to draw Raghunatha out of the
+ocean of separation we have spoken above. <!-- F508 F509 F510 F511 F514 F515 Q79 -->
+
 <!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
      in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
@@ -1777,3 +1942,15 @@ Srila Bhaktisiddhanta Sarasvati constantly repeated, we have spoken above. <!-- 
 [^56]: In one of the biographies this verse is called now “the verse before the penultimate,” now verse 130; in a poem of
     131 verses that is indeed the penultimate verse, which contains the words “rupashraya-pada.”
 [^57]: Baladeva speaks of forty-one songs (gathas), while both printed editions of the “Stavamala” have forty-two.
+[^58]: The Lord's withdrawal is usually dated 1533 (1455 Shaka); 1589 Samvat falls in 1532–1533 CE, so the words “in the
+    year of Mahaprabhu's departure” in the reasoning above should be taken as approximate.
+[^59]: The Bengali paraphrase of this verse in one of the biographies says “having displayed lofty heroism… took on the
+    lalita-bhava”; the verse itself has “aprakatayan,” “not displaying,” so the paraphrase apparently contains a misprint.
+[^60]: The original has “a transformation (vivarta) of maya.” What is meant is yogamaya, the Lord's internal potency that
+    arranges His pastimes: neither Radha nor Krishna nor Their associates are subject to the external maya, and the
+    gopis' “marriages” are only an appearance for those who have no part in the confidential pastime.
+[^61]: Without the rule of reading from right to left one would get 1417 Shaka (1495 CE), and Rupa, who appeared in 1489
+    or 1493, would then have been six or two years old. For a superhuman mahajana even this is not impossible — Kavi
+    Karnapura composed a verse in the arya metre at the age of seven (CC, Antya 16) — but a request from Raghunatha Dasa,
+    who had not yet appeared, would be outwardly impossible. The word “svara” can also mean “three” (the three tones of
+    Vedic recitation), but that would give 1431 Shaka (1509), when Raghunatha was three years old.
