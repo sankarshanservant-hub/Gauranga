@@ -292,6 +292,283 @@ the mantra and mercy from Gopinatha, and likewise served Radha-ramana; he lived 
 sons — Harinatha, Mathuranatha and Harirama. Today the service of Radha-ramana is in the hands of their descendants.[^13]
 <!-- F50 F52 -->
 
+## Among the Gosvamis
+When the Deity Gopala (Shrinathji) stayed for a month in Mathura with Vitthalanatha (Vitthaleshvara), Rupa came there
+with his closest companions to see and serve Him, and in that list of companions Gopala Bhatta is named first:
+
+“He was accompanied by Gopala Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa
+Gosvami.” (CC, Madhya 18.49) <!-- F79 Q28 -->
+
+The Gosvamis honoured him as a friend and an equal. Jiva, at the beginning of the “Shat-sandarbha”, calls him “Bhatta-pada,
+the friend of Rupa and Sanatana, born in a family of southern brahmanas”, and in the introduction to the
+“Gopala-champu” invokes: “O Krishna, Krishna Chaitanya, Rupa, Sanatana, Gopala Bhatta Prabhu…” Raghunatha Dasa, in the
+closing verse of the “Manah-shiksha”, promises that whoever sings these verses, following Rupa together with his group —
+Sanatana, Gopala Bhatta, Raghunatha Bhatta, Jiva — will attain the treasure of bhajana. And the “Bhakti-ratnakara”
+(6.310) says: “Gopala Bhatta is most merciful; Bhugarbha and Lokanatha are a mine of virtues.” <!-- F72 F75 F76 F73 Q46 -->
+
+## Gopala Bhatta's Verse and Songs
+Rupa Gosvami, in the “Padyavali” (verse 38), quotes a kirtana-verse of names ascribed to Gopala Bhatta:
+
+“O lord of Bhandiravana, adorned with a peacock feather, best of all, anointed with sandal, lord of Vrindavana, dark as
+a blue lotus, darling of the Kalindi, son of Nanda, highest bliss, lotus-eyed Govinda, Mukunda of beautiful form —
+gladden me, wretched as I am!” (“Padyavali”, 38) <!-- F38 Q16 -->
+
+According to the “Bhakti-ratnakara” (6.401–402), overwhelmed by separation, he would sit in solitude, his eyes and mind
+given to Radha-ramana, and sing this verse; and who, hearing these names, could keep his composure? Several songs in
+Brajabhasha on the pastimes of Radha-Govinda — on life in the bowers of Vrindavana, on the swing, on a lovers' quarrel —
+bearing Gopala Bhatta's signature (bhanita) also circulate as his; but whether they are genuine is hard to say.
+<!-- F39 Q17 F40 Q18 -->
+
+## Writings
+**The kadacha and the “Shat-sandarbha”.** From the lips of Rupa and Sanatana Gopala Bhatta heard how Sri Krishna
+Chaitanya had analysed sambandha, abhidheya and prayojana — and he set this down in a “kadacha”, a collection of
+aphoristic verses (karikas) on Gaudiya Vaishnava philosophy. From that kadacha Jiva compiled the “Shat-sandarbha” (the
+“Bhagavata-sandarbha”). At the beginning of each sandarbha Jiva writes that the southern Bhatta wrote this book to
+please the saintly Rupa and Sanatana, and that Jiva, having examined his first draft — in places orderly, in places
+disordered or broken off — sets everything out in order. The fourth verse of the introduction to the
+“Tattva-sandarbha” says that a certain Bhatta, their friend, of a family of southern brahmanas, wrote a book after
+examining the books of the ancient Vaishnavas; Baladeva Vidyabhushana explains: “their” means Rupa's and Sanatana's,
+the “friend” is Gopala Bhatta, the “ancient Vaishnavas” are Madhva and others. Thus Gopala Bhatta is the concise
+compiler of the “Bhagavata-sandarbha”, and his kadacha is the source of the “Shat-sandarbha”: he laid the foundation of
+the six theses that Jiva developed.[^14] More on this is told in the article on Jiva Gosvami. <!-- F80 Q29 Q30 -->
+
+**The “Sat-kriya-sara-dipika”.** This is a Vedic paddhati — a manual of marriage and the other samskaras — in Sanskrit,
+in prose and verse. Gopala Bhatta compiled it at the bidding of devotees of pure Krishna-bhakti — for brahmana
+householders and others who worship Govinda exclusively, and for devotees born in other classes — so as to protect their
+bhakti in every respect. The “Hari-bhakti-vilasa” says much about the duties of wealthy Vaishnava householders, but not
+about marriage and the other samskaras, while the existing paddhatis — those of Aniruddha Bhatta, Bhima Bhatta, Govinda
+Bhatta, Narayana Bhatta (for followers of the great rites) and Bhavadeva Bhatta (for Samavedins) — were written for
+people of karma. This book is for the devotees of Govinda, both within varnashrama and among the antyajas. Drawing on the
+Vedas, the Puranas, Manu and other smritis and examining the offences in service and against the holy name, it excludes
+the worship of the pitris and of other gods: shraddha and the cult of gods other than Vishnu are not enjoined for those
+wholly surrendered to Govinda and would be an offence for them. By serving Krishna they honour the pitris and the gods
+incidentally, and the kirtana of Hari's name makes up for all worship. (The ninth vilasa of the “Hari-bhakti-vilasa”
+likewise allows shraddha and the honouring of the gods only with the remnants of Vishnu's food, and forbids worshipping
+them independently.) <!-- F81 F82 I6 -->
+
+The book covers the duties of a householder and the meaning of renunciation, the rites before marriage and the
+prohibition of the smarta nandimukha-shraddha, the maha-vyahriti-homa, marriage and the rites that follow, garbhadhana,
+pumsavana, simantonnayana, jata-karma, nishkramana, name-giving, the first feeding, chudakarana, upanayana,
+brahmacharya, samavartana and more. In the introduction the author writes that he writes “at the bidding of the sadhus”,
+although it would not befit him to call himself the author, for fear of the fault of one who, “bewildered by false ego”,
+thinks himself the doer (Gita, 3.27); and in his own commentary he explains that “Sriman Gopala Bhatta” is a certain
+soul who always drinks the honey of Sri Krishna Chaitanya's feet and obeys the instructions of the sadhus.
+<!-- F83 F84 Q31 -->
+
+Part of the “Sat-kriya-sara-dipika” is the “Samskara-dipika”: on Vaishnavas of the sampradaya and tantric ones, on
+householders and sannyasis, on the ten-named sannyasa and the glory of paramahamsas and avadhutas, on attaining
+brahminhood through Vaishnava diksha, on the ashramas of women, on Vaishnava sannyasa for the wholly surrendered, even
+those born shudras, on the rites of sannyasa, the Hari-mandira tilaka, the nama-mudra, prana-pratishtha, acceptance of
+the achyuta-gotra, worship of the shalagrama, and the samadhi-mantra — the rites at the departure of a Vaishnava
+sannyasi. The closing verse of the printed edition says that the “Samskara-dipika”, accepted by the saints for the sake
+of sannyasa, was made for the exclusive dharma of Gaura's servants, and the colophon names Sri Gopala Bhatta Gosvami as
+compiler. The book also cites Advaita, Sri Krishna Chaitanya Mahaprabhu, Gadadhara, Nityananda, Srivasa, Haridasa,
+Raghunatha Dasa, Madhva, Ramanuja, Shankara and the author of the “Hari-bhakti-vilasa”. <!-- F86 Q32 -->
+
+Two manuscripts of these books were described by Hara Prasad Shastri in the “Notices of Sanskrit Manuscripts”.
+Bhaktivinoda Thakura copied their old manuscripts from Vrindavana in his own hand and was the first to print both books,
+in the “Sajjana-toshani” (vols. 15–17, 1903–1909). Another manuscript of the “Samskara-dipika”, in Bengali script and
+fragile in places, was obtained in Sanketa in Vraja, at Gopala Bhatta's place of bhajana, from a very old Vrajavasi.
+Unlike the printed edition, it has an introduction and many new verses. The introduction bows to Sri Chaitanya and
+Nityananda and says: by the instruction of Sri Krishna Chaitanya — Rupa and Sanatana; at their bidding — Sri Jiva and
+Raghunatha, and Raghunatha called Bhatta; and Sri Gopala Bhatta Gosvami diligently compiled the “Sat-kriya-sara-dipika”,
+having examined the views of Ramanuja and others and out of kindness to the noble in the Madhva sampradaya, while the
+“Samskara-dipika” included in it was composed by “Gopi-bhritya”, “the servant of the gopis”.[^15] In the list of the
+guru-parampara the manuscript also has a shloka absent from the printed edition: “Sanatana and Rupa, Bhatta Raghunatha,
+the one called Bhatta Gopala, Jiva and Raghunatha”; whether it belongs to the author or to a copyist is unclear. After
+the colophon the manuscript describes the seats and holy places of the four sampradayas, with obeisances to
+Ramanujacharya and Madhvacharya. According to the description of the manuscript, Gopala Bhatta, one of the six
+Gosvamis, compiled the “Sat-kriya-sara-dipika” at the wish of Rupa, Sanatana and the other Gosvamis.
+<!-- F85 F87 F88 Q33 F89 -->
+
+Srila Bhaktisiddhanta Sarasvati performed the last rites of Srila Gaurakishora Dasa Babaji according to Gopala Bhatta's
+“Samskara-dipika” and established his samadhi, and publishing the “Hari-bhakti-vilasa”, the “Sat-kriya-sara-dipika” and
+the “Samskara-dipika” was part of his plan to restore the Vaishnava smriti to use. <!-- F90 -->
+
+**A commentary on the “Krishna-karnamrita”.** The “Bhakti-ratnakara” says:
+
+“He wrote a commentary on the ‘Krishna-karnamrita’, hearing which the Vaishnavas feel supreme bliss.”
+(“Bhakti-ratnakara”, 1.228)
+
+The “Anuraga-valli” also speaks of this commentary on Bilvamangala's poem; Gopala Bhatta is said to have written many
+other books as well.[^16] <!-- F92 Q35 F93 F94 Q47 F95 -->
+
+## Disciples
+Only three of his disciples are especially well known, and some say he accepted only three. Two became famous for their
+service: Srinivasa Acharya in Gauda and Gopinatha Pujari in Vrindavana; the third, Harivamsha, is known “by contrast”:
+his guru rejected him. <!-- F53 -->
+
+Srinivasa came to Vraja when Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already withdrawn from sight, while
+Raghunatha Dasa, Gopala Bhatta and Jiva were still on earth. According to the “Nava-padya”, the departed Gosvamis told him
+in a dream: “This is no time for grief: Gopala Bhatta is here; receive from him the supreme Gopala-mantra and our books,
+and go to Gauda.” Jiva took Srinivasa to Gopala Bhatta and to Radha-ramana and introduced him to Lokanatha, Bhugarbha,
+Paramananda and Madhu Pandita; Gopala Bhatta was glad to see him, and Srinivasa humbly asked for initiation. At Gopala
+Bhatta's direction Jiva bathed Srinivasa in the Yamuna and brought him back, and the next morning in the Radha-ramana
+temple Gopala Bhatta gave him the diksha mantra and, seeing his thirst and sincerity, blessed him: “May every perfection
+be yours.”[^17] Thus Srinivasa, the companion of Narottama, by Jiva's mercy became the diksha-disciple of Gopala Bhatta
+and the shiksha-disciple of Jiva.
+
+“After some time Srinivasa came to him there, and the Bhatta mercifully fulfilled his hope. Having become his disciple,
+Srinivasa, by the Lord's command, came to Gauda and revealed there the books of bhakti.” (“Bhakti-ratnakara”,
+1.230–231) <!-- F54 -->
+
+At Gopala Bhatta's wish Jiva sent Srinivasa to Gauda to spread the books of the Gosvamis; before leaving, Srinivasa
+received the order and blessing of Raghunatha Dasa, Gopala Bhatta, Bhugarbha, Lokanatha, Madhu Pandita and others — each
+of them blessed the three envoys carrying the books. Srinivasa belonged to Rupa's own group: Gopala Bhatta heard
+Gaurasundara's teaching from the lips of Rupa and Sanatana and created a “casket of jewels” of Gaudiya philosophy and
+smriti, while Srinivasa, who took shelter at his feet, the shiksha-disciple of Jiva and friend of Narottama, showed
+himself by conduct and preaching to be the best of Rupanugas. More on this is told in the articles on Jiva Gosvami and
+Srinivasa Acharya. <!-- F55 F105 -->
+
+When Srinivasa came to Vrindavana a second time — after the departure of Shuklambara, Gadadhara Dasa, Narahari and
+Dvija Haridasa — Gopala Bhatta, Jiva, Bhugarbha and Lokanatha encouraged him, and he heard from them accounts of Gaura
+and Krishna. Srinivasa's disciple Ramachandra Kaviraja also received in Vrindavana the blessing of Gopala Bhatta,
+Lokanatha and Bhugarbha.[^18] Narottama was the darling of the three Gosvamis still living — Gopala Bhatta, Jiva and
+Raghunatha Dasa — and Jiva taught Shyamananda from his own books and those of Raghunatha Dasa, Gopala Bhatta and others.
+<!-- F59 F60 F61 -->
+
+When Jahnava came to Vraja, Gopala Bhatta was still alive: the leaders of the Vaishnavas — Jiva, Gopala Bhatta,
+Lokanatha, Bhugarbha, Madhu Pandita — came to honour her, and among those who met her in Mathura was “Gopala Bhatta
+Gosvami, a treasury of Gaura-prema”. <!-- F58 -->
+
+The third disciple, Harivamsha, a Gauda brahmana of the Kashyapa gotra, Gopala Bhatta rejected for some reason. Various
+stories are told about him; their gist is that Gopala Bhatta rejected him for breaking the rules of conduct. It is said
+that the name of the guru, Gopala Bhatta, was later maliciously inserted into the list of Harivamsha's own disciples.
+Banamali Lal Gosvami says that his family is related by marriage to the descendants of Harivamsha. <!-- F56 -->
+
+## Why the Early Books Are Silent About Him
+Some wonder: Kaviraja in the “Chaitanya-charitamrita” merely named Gopala Bhatta among his six shiksha-gurus and told
+nothing about him; Vrindavana Dasa in the “Chaitanya-bhagavata” does not mention him at all; the
+“Chaitanya-charita-mahakavya” and the “Chaitanya-chandrodaya-nataka” describe the four months in the house of Trimalla
+Bhatta but name neither Venkata nor his son; and the Sanskrit “Sri Krishna-chaitanya-charitamrita” ascribed to Murari
+Gupta speaks only of Trimalla and calls the boy Gopala his son:
+
+“When the Lord of the world was seated at His ease, the best of brahmanas named Trimalla, overflowing with love, served
+Him together with his wife, his sons and all his kinsfolk. His little boy named Gopala was then standing at the Lord's
+side. Seeing him, the Lord, His heart melting with compassion, placed His lotus foot on the boy's head and said, ‘Say
+“Hari”!’ And the boy, filled with joy, gave up his childish games and began to sing of Krishna and to dance.”
+(Murari Gupta's “Karcha”, 3.15.14–16) <!-- F96 F97 Q36 -->
+
+The “Chaitanya-charitamrita”, too, names the Lord's host as Trimalla in one place and Venkata in another, without
+stating their relationship or naming Gopala:
+
+“During the rainy season the Lord spent four months as the guest of the brahmana Trimalla Bhatta.” (CC, Madhya 1.108)
+
+This rather shows that the house was one and the brothers lived together: the Kaviraja recalled one brother in one
+place and the other in another (CC, Madhya 1.108–110; 9.82–165). The “Prema-vilasa” of Nityananda Dasa mentions Gopala
+Bhatta without naming either Venkata or Trimalla as his father; the later “Anuraga-valli” of Manohara Dasa, following
+the “Bhakti-ratnakara”, calls Trimalla the eldest brother, Venkata the middle and Prabodhananda the youngest, and Gopala
+the son of Venkata. The “Bhakti-ratnakara” itself says this not on its own authority but on that of an ancient verse
+(1.98); the “Vartika-prakasha” on Nabhaji's “Bhakta-mala” also calls him Venkata's son. Murari's printed kadacha exists
+in only one edition, whereas disputed questions call for several manuscripts and variant readings; besides, it does not
+mention Prabodhananda either. <!-- F98 Q40 F101 -->
+
+Narahari Chakravarti reveals the reason for the silence. Before writing the “Chaitanya-charitamrita”, the Kaviraja asked
+Gopala Bhatta's permission:
+
+“Sri Gopala Bhatta gladly gave his permission, but forbade him to describe in the book anything concerning himself.
+Why he forbade it — who can understand? He always considered himself the lowest of the low. The Kaviraja could not
+transgress his order: he writes only his name and makes nothing else known.” (“Bhakti-ratnakara”, 1.222–224)
+
+The order of the guru is carried out without deliberation — and that is why the “Chaitanya-charitamrita” does not say
+whose son he was. Prabodhananda, through Gopala Bhatta, likewise asked that his deeds not be described in it. It is the
+nature of pure Vaishnavas not to report, as worldly historians do, about the parents of their gurus; even when the
+parents are Vaishnavas, disciples keep silent about them at the guru's bidding, and worldly historians cannot understand
+this; there are exceptions, but they are not the rule. The intimate, renounced associates of Gaura — Prabodhananda,
+Gopala Bhatta and others — out of great humility themselves forbade others to write about them: that is why the early
+books are silent. <!-- F100 Q42 I4 I5 -->
+
+Some invent other reasons. It is said that Vrindavana Dasa, an opponent of the “Gaura-nagari” doctrine, did not name
+Prabodhananda — because of the words “gaura-nagara-vara” in his “Chaitanya-chandramrita” (132) — nor his
+shiksha-disciple Gopala Bhatta; the “Vishnupriya-patrika” even wrote that Prabodhananda had sheltered Harivamsha, whom
+Gopala Bhatta had rejected, and that this is why the biographers are silent about him. But none of Gaura's associates
+accepted such fabrications. The late “Advaita-prakasha” (ch. 17) and Lal Dasa's “Bhakta-mala” identify Prabodhananda
+with the mayavadi Prakashananda; this was refuted in the “Sajjana-toshani” (year 18, no. 5) and in Srila
+Bhaktisiddhanta's article “Sri Prabodhananda”. Srila Bhaktisiddhanta calls Prabodhananda the guru and uncle of Gopala
+Bhatta, an eternal associate of the Lord, and to call him a mayavadi is an offence. <!-- F102 F101 -->
+
+Some recent writers claim that Gopala Bhatta's ancestral village was “Bhattamari” in the South. But in the
+“Chaitanya-charitamrita” the bhattathari (their “bhattamari”) are a gang of false ascetics, not a place:
+
+“Then He came to Amlitala, where He saw the Deity of Sri Rama, and then went on to Mallara-desha, where the nomadic
+bhattathari lived.” (CC, Madhya 9.224; cf. 1.112; 9.226–233) <!-- F103 Q41 -->
+
+Narahari warns:
+
+“Of these events of Sri Gopala Bhatta's life some tell a little, and others tell nothing at all. Whoever, not grasping
+the essence, raises false arguments about this, in his heart the seed of offence sprouts.” (“Bhakti-ratnakara”,
+1.209–210)
+
+The seeming disagreements of Vaishnava books mislead worldly historians and the “burden-bearers” — those who carry the
+load of words without grasping their essence; and it was so that the “essence-takers” should not be confused that
+Narahari warned his readers. <!-- F99 Q38 I3 -->
+
+## Last Years and Departure
+After the departure of Rupa and Sanatana Gopala Bhatta remained in Vrindavana and, in unceasing separation, sang and
+recalled their virtues. His mind given to the feet of Radha-ramana, he would sometimes recite his verses, sometimes lose
+his composure while chanting the names, sometimes, repeating “Hare Krishna”, be bathed in tears, his voice breaking.
+<!-- F57 -->
+
+He departed in Vrindavana on the krishna-panchami of the month of Shridhara — so by our calendar.[^19] His samadhi is
+behind the present temple of Radha-ramana. Narottama Dasa cries out in a song of lament: “Where are Raghunatha Bhatta and
+Gopala Bhatta?” And the glory of the six Gosvamis, it is said, is best understood through Srinivasa Acharya's
+“Shad-gosvamy-ashtaka”. <!-- F5 F63 F62 F64 -->
+
+## Songs About Him
+The “Stava-panchaka” — five verses on his greatness ascribed to Krishnadasa Kaviraja — is quoted by Yadunandana Dasa in
+the “Karnananda” (fifth niryasa) and rendered into Bengali verse. His power is to proclaim bhakti for Hari without
+cease; his realization is always true, and he is detached from all that perishes; the place where he lived became
+famous through the coming of Mahaprabhu, Who lived joyfully in his house. In Vraja he is Guna-manjari, and he appeared
+out of compassion for the people of Kali to distribute the sweetness of madhura-rasa. Tears, perspiration, gooseflesh,
+trembling, a breaking voice at the name, fainting at the syllables “ha-ha-ha Hari”; intoxicated with the taste of his
+Vraja mood, he dances, laughs, sings and wanders like a madman, while outwardly acting on the command to deliver the
+people of Kali. He knows all the subtleties of rati and rasa, and whoever reads this hymn enters the circle of the
+manjaris. The Bengali rendering echoes the Kaviraja: “Sri Gopala Bhatta is a most excellent branch; he spoke of prema
+with Rupa and Sanatana.” <!-- F65 Q20 Q21 F66 -->
+
+Manohara Dasa's song begins with longing for his feet: his body is made of love, golden, his face a moon; Rupa and
+Sanatana are dearer to him than life, the two Raghunathas are his life; with Pandita Krishnadasa and Lokanatha he is one
+soul in different bodies; Radha-ramana is his all; he is a bee at Chaitanya's feet and is won over by mercy to Srinivasa;
+together with all he relishes rasa, mad with bhava — such is his eternal occupation; he is an ocean of raga and a friend
+of the lowly. Who this Manohara was is unclear: Rupa in the “Padyavali” (274–275) quotes two verses of a certain
+Manohara, the “Chaitanya-charitamrita” (Adi 11.46, 52) mentions a Manohara, and yet another Manohara Dasa is named among
+those at the festival in Kheturi. <!-- F69 Q24 -->
+
+Narahari Chakravarti composed a song about his whole life: the son of Venkata Bhatta, the crown of the brahmana line,
+the darling of Gaura, even as a child he was full of bhakti and intoxicated with Krishna-rasa. The Lord lived four months
+with Trimalla and Venkata, and the boy served Him at his father's bidding; the Lord gave him the nectar of prema,
+revealed His own truth and, taking his hand, said: “I am subject to your prema; soon you will go to Vraja and find Rupa
+and Sanatana there.” Gopala wept at His feet, and the Lord took him on His lap and bathed him in tears and, on leaving,
+comforted Venkata and Trimalla again and again. A few days later Gopala left home, came to Vraja and met Rupa, Sanatana
+and Lokanatha; from Nilachala came the dor and bahirvas. Day and night he sang of Gauranga, was always in Rupa's
+assembly, inseparable from Sanatana; Radha-ramana appeared from the shalagrama to show Who is subject to his prema. He
+lived in Vrindavana and visited Radha-kunda, Govardhana, Varshana, Nandishvara, Yavata — where he saw the former dwelling
+and drowned in bliss — Gokula-Mahavana in solitude, and Lokanatha; he loved the Vrajavasis and joyfully gave bhakti —
+“the guru of Srinivasa Acharya”. <!-- F70 Q25 -->
+
+And the ancient verse quoted by the “Bhakti-ratnakara”:
+
+“I bow to Gopala Bhatta, whose heart is flooded with love for Sanatana, who is distinguished in all things by his
+friendship with Sri Rupa, whose only life is Radha-ramana, who grants their desires to those who worship.”
+(“Bhakti-ratnakara”, 1.208) <!-- F71 Q26 -->
+
+Bhaktivinoda Thakura writes that on Gopala Bhatta lay the care that no one should distort the pure shringara-rasa or
+show groundless disregard for vaidhi-bhakti (“Jaiva-dharma”, ch. 39); together with Rupa and others he restored the lost
+holy places of Vrindavana and composed many books, among them a bhakti-smriti (“Sajjana-toshani”, 2.7). <!-- F91 Q34 -->
+
+## Ananga-manjari
+Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Gopala Bhatta was in Krishna's pastimes:
+
+“Ananga-manjari is now Gopala Bhatta; but some call Bhatta Gosvami Sri Guna-manjari.” (GGD 184)
+
+In the drama “Chaitanya-chandrodaya” Karnapura names neither Gopala Bhatta nor Jiva, but in the
+“Gaura-ganoddesha-dipika” he names both and speaks of their position in Vraja. The “Stava-panchaka”, too, calls him
+Guna-manjari. <!-- F67 Q22 -->
+
+Let us then bow to the dust of the feet of Gopala Bhatta, whose life is Radha-ramana and who is the friend of Rupa and
+Sanatana, and pray that we may not be deceived by the judgements of the “burden-bearers” but accept the judgement of the
+“essence-takers”, which is directed to the service of the Vaishnavas. <!-- I7 -->
+
 [^1]: According to the “Sri Radharamana-prakatya” (in Hindi) by Pandita Madhusudana Gosvami Sarvabhauma of the Radha-ramana
     enclosure in Vrindavana, he appeared in 1557 Samvat (1500), received the Lord's mercy in Ranga-kshetra at eleven, in
     1568 Samvat (1511), came to Vraja in 1588 Samvat (1531), and departed in 1642 Samvat (1585), at eighty-five. One of
@@ -332,3 +609,30 @@ sons — Harinatha, Mathuranatha and Harirama. Today the service of Radha-ramana
     year of the appearance as “1599 of the Christian era”; it is 1599 Samvat.
 [^13]: According to another report, the service of Radha-ramana is today in the line of Gopinatha Pujari himself. In one
     of the biographies Damodara's third son is called Harinama (probably a misprint).
+[^14]: According to other accounts, Gopala Bhatta's contribution was the preparation of notes on which Jiva relied, or
+    even a preface to the “Shat-sandarbha”.
+[^15]: Whether this was the name of the author of the “Samskara-dipika”, an epithet of Gopala Bhatta or his hidden name
+    remains unclear: the first and last verses of the “Samskara-dipika” are signed “Gopi-bhrita” or “Gopi-bhritya”.
+[^16]: According to one of the biographies, the commentary on the “Krishna-karnamrita” known under his name, the
+    “Krishna-vallabha”, is not his: it has no obeisance to Sri Krishna Chaitanya, and the author calls himself a
+    brahmana of Dravida, son of Harivamsha Bhatta and grandson of Nrisimha Bhatta; there are no such colophons in the
+    “Hari-bhakti-vilasa” or other books of the Gosvamis. The commentary quotes the “Bhagavatam”, Shridhara, the
+    “Gita-govinda”, the “Ujjvala-nilamani”, the “Bhakti-rasamrita-sindhu”, the “Padyavali” and the
+    “Jagannatha-vallabha”; the Kaviraja, who himself wrote on the “Karnamrita” (the “Saranga-rangada”), does not name it,
+    and the “Bhakti-ratnakara” neither mentions nor quotes the “Krishna-vallabha”. To the same son of Harivamsha Bhatta
+    belong the “Rasika-ranjani” on Bhanudatta's “Rasa-manjari”, the smriti “Samaya-kaumudi” (“Kala-kaumudi”) on the times
+    for rites, diksha, Janmashtami and the installation of Deities, and the incomplete “Rasa-tarangini” on Rudra's
+    “Shringara-tilaka”: had he been one of the Gosvamis, the Kaviraja would have named at least one of these books;
+    Aufrecht's catalogue lists several Gopala Bhattas. In the library of Madhusudana Gosvami Sarvabhauma in the
+    Radha-ramana Ghera there is also a manuscript of a commentary “Krishna-vallabha” on the “Gopala-tapani-shruti” with a
+    colophon of Prabodhananda Sarasvati, written “by the power of Sri Krishna Chaitanya”. And the Bhandarkar Institute in
+    Pune holds a manuscript of yet another commentary on the “Krishna-karnamrita”, the “Shravanahladini”: its author calls
+    himself “Gopala Bhatta, whose mind is attached to the feet of Radha-ramana”, and at first he seems to be Gopala Bhatta
+    Gosvami; but his guru is “Narayana”, his father “Uddhanphana (?)”, he wrote for his friend Banamali Dasa and his
+    younger brother Lakshmi-Narayana, following the Bengali text of the “Karnamrita”, and he quotes the
+    “Bhakti-rasamrita-sindhu” — that is, he wrote after it.
+[^17]: According to one account, the next day Gopala Bhatta himself sent Srinivasa to Raghunatha Dasa at Radha-kunda;
+    according to another, Srinivasa went there together with Jiva.
+[^18]: According to one of the biographies, these Gosvamis gave him the title “Kaviraja”; according to another, Jiva did.
+[^19]: According to one of the biographies, the krishna-shashthi (the month is not named). On the year of his departure
+    see note 1.
