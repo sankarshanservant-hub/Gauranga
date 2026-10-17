@@ -674,7 +674,16 @@ of Ramananda and Mahaprabhu on the spot where Sri Chaitanya’s footprints remai
 the Ramananda Gaudiya Math was solemnly celebrated in Kovvur. <!-- F150 F151 F152 F153 F154 -->
 
 ## In the Eternal Pastimes
-Kavi Karnapura in the “Gaura-ganoddesha-dipika” explains who Ramananda was in Krishna’s pastimes:
+In the line of Srila Bhaktivinoda Thakura, which the Gaudiya Math follows, Ramananda in the Vraja pastimes is Vishakha,
+just as Svarupa Damodara is Lalita (see the article on Svarupa Damodara). When the Lord, embracing Svarupa and Ramananda, spoke of how Radha reveals to
+Vishakha the cause of Her anguish (CC, Antya 15.11–12), by some interpretations He was addressing Ramananda as Vishakha.
+Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” (on CC, Madhya 8.23) remarks that the love that flared up
+between Ramananda and the Lord at their first meeting is the same as Vishakha’s love for Radha and Krishna; hence the
+Lord saw Vishakha in Ramananda. One of the biographies plainly calls the author of the “Jagannatha-vallabha-nataka”
+Vishakha-devi in the Vraja-lila, and Svarupa Lalita; and as Lalita and Vishakha are Radha’s intimate friends, so
+Svarupa and Ramananda are Sri Chaitanya’s intimate associates. <!-- F71 Q18 F75 F105 Q40 F107 F106 -->
+
+Kavi Karnapura in the “Gaura-ganoddesha-dipika” explains his nature differently:
 
 “A certain dear confidential friend [of Krishna], Arjuna, and Arjuna the son of Pandu, uniting together, became
 Ramananda Raya, dear to the Lord. Therefore the skilful Ramananda day after day described to Gaurachandra the essence of
@@ -688,14 +697,6 @@ wonder his father Bhavananda is Pandu); and the gopi Arjuniya.[^8] Hence in his 
 intimate closeness met: as the cowherd boy Subala gave joy to Krishna, so “Ramaraya” gives joy to Gaura (CC, Antya
 6.9), and in Kaviraja’s words his rasa is pure friendship. Murari Gupta records the Lord’s address to him: “bee at the
 lotus feet of Sri Radhika”. <!-- F74 Q21 F73 F72 F82 -->
-
-Many Vaishnavas also see in him Vishakha. When the Lord, embracing Svarupa and Ramananda, spoke of how Radha reveals to
-Vishakha the cause of Her anguish (CC, Antya 15.11–12), by some interpretations He was addressing Ramananda as Vishakha.
-Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” (on CC, Madhya 8.23) remarks that the love that flared up
-between Ramananda and the Lord at their first meeting is the same as Vishakha’s love for Radha and Krishna; hence the
-Lord saw Vishakha in Ramananda. One of the biographies plainly calls the author of the “Jagannatha-vallabha-nataka”
-Vishakha-devi in the Vraja-lila, and Svarupa Lalita; and as Lalita and Vishakha are Radha’s intimate friends, so
-Svarupa and Ramananda are Sri Chaitanya’s intimate associates. <!-- F71 Q18 F75 F105 Q40 F107 F106 -->
 
 ## “Sugar in Thickened Milk”
 Such is the life of Ramananda Raya — the governor and poet whom the Lord called one with Himself. Born in a family
@@ -733,7 +734,7 @@ Himself revealed to the world the truth about the transcendental rasas.” (CC, 
     months are counted from the full moon (purnimanta) and from the new moon (amanta), they probably coincide. Other
     biographies do not give the day of his departure.
 [^8]: There are other opinions. According to Srila Bhaktivinoda Thakura and several biographies, in the Vraja-lila
-    Ramananda is Vishakha (see below); “some”, as the “Gaura-ganoddesha-dipika” itself says, called him Lalita. One of
+    Ramananda is Vishakha (see above); “some”, as the “Gaura-ganoddesha-dipika” itself says, called him Lalita. One of
     the biographies, retelling Karnapura, adds “or Vishakha” to Arjuniya, but this is not in the text of the GGD.
     According to the “Gaura-krishnodaya” (1.46), Ramananda is the celestial singer Tumburu, who followed Narada
     (Srivasa).

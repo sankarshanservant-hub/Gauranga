@@ -633,14 +633,17 @@ Ratha-yatra — the shukla-dvitiya of the month of Ashadha. In our calendar this
 Vamana — the Disappearance Day of Srila Svarupa Damodara Gosvami, observed together with the Ratha-yatra[^10]. The
 biographies do not give the year of his departure, nor the day of his appearance. <!-- F101 F146 F147 -->
 
-## Vishakha and Lalita
-Who Svarupa is in Krishna's eternal pastimes is told by Kavi Karnapura:
+## Lalita and Vishakha
+Who Svarupa is in Krishna's eternal pastimes, Kaviraja Gosvami shows through his service in the Lord's last pastimes:
 
-“Vishakha, who once in Vraja taught Radha the arts, is now Svarupa Gosvami, who delights in those same moods.” (GGD
-160)
+“As formerly Lalita, Her chief friend, consoled Srimati Radharani, so now Svarupa Damodara sustained the life of Sri
+Chaitanya, who was living Radharani's heart-rending love.” (CC, Antya 6.10)
 
-So in Vraja he is Vishakha Devi, Radha's teacher in music and the other arts, and in Gaura-lila he keeps her moods and
-pastimes. No wonder he is compared to Radha's intimate friends: as Lalita and Vishakha are Radha's closest friends, so
+So the acharyas understand him too. According to Srila Bhaktivinoda Thakura, Svarupa — Gaurasundara's “second self” —
+is in the Vraja pastimes Lalita Devi, Radhika's “second self,” and Ramananda is Vishakha; this is called the
+prevailing view in the Gaudiya sampradaya. Srila B. R. Sridhar Maharaj, in “The Golden Volcano of Divine Love,” says
+that Svarupa Damodara Prabhu, Sri Chaitanya Mahaprabhu's personal secretary, is considered to be Lalita-sakhi, the
+nearest friend of Srimati Radharani in the pastimes of Krishna. As Lalita and Vishakha are Radha's closest friends, so
 Svarupa and Ramananda are Sri Chaitanya's closest companions[^11]. <!-- F99 Q3 F98 F138 F110 -->
 
 However his role in the eternal pastimes is named, one thing is clear: his nature is service in madhura-rasa, in the
@@ -666,9 +669,9 @@ why to him alone was revealed all that the Lord experienced in separation. <!-- 
     an image to be “brought to life.” The poet's mistake is that he divided Jagannatha and Gaura as a body and the soul
     living in it, as if Jagannatha were inert matter and Chaitanya one of the souls; but in God there is no difference
     between His body and Himself.
-[^6]: According to Bhaktivinoda Thakura, this sakhi is Lalita Devi, and Raghunatha served by entering her group.
-    According to the “Gaura-ganoddesha-dipika,” Svarupa is Vishakha; on this divergence see the section “Vishakha
-    and Lalita” and note 11.
+[^6]: According to Bhaktivinoda Thakura, this sakhi is Lalita Devi, and Raghunatha served by entering her group. On
+    Svarupa as Lalita and the other identification of the “Gaura-ganoddesha-dipika,” see the section “Lalita and
+    Vishakha” and note 11.
 [^7]: According to another account, Svarupa himself brought the prasada for the festival from the temple and served
     it together with Jagadananda and others; and over Haridasa's body Svarupa chanted the Names while Vakreshvara
     danced.
@@ -681,7 +684,7 @@ why to him alone was revealed all that the Lord experienced in separation. <!-- 
 [^10]: According to one biography, he departed “on the second day from the full moon of the month of Ashadha” —
     apparently a garbled “shukla-dvitiya”; another speaks only of the day of the Ratha-yatra, soon after the Lord's
     withdrawal.
-[^11]: According to Srila Bhaktivinoda Thakura and some biographies, Svarupa — Gaurasundara's “second self” — is in
-    the Vraja pastimes Lalita Devi, Radhika's “second self,” and Ramananda is Vishakha; one biography calls this the
-    prevailing view in the Gaudiya sampradaya. We give the identification of the “Gaura-ganoddesha-dipika” without
-    blending it with the other.
+[^11]: Kavi Karnapura in the “Gaura-ganoddesha-dipika” calls Svarupa Vishakha: “Vishakha, who once in Vraja taught
+    Radha the arts, is now Svarupa Gosvami, who delights in those same moods” (GGD 160). The comparison in the
+    “Chaitanya-charitamrita” (Antya 6.10) and the word of the acharyas point to Lalita; we give both identifications
+    without blending them.
