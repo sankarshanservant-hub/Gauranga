@@ -2,7 +2,7 @@
 
 Писано только по `parshadas/facts/sundarananda.md` и `parshadas/cards/sundarananda.yaml` (и lila-db для уточнения
 формулировок F30–F32); книги T/M/B и рабочие переводы B не открывались. Покрытие: `python3 parshadas/check.py
-sundarananda` → OK (F1–F32, Q1–Q7, I1–I2 в RU и EN). Объём: RU ≈ 1300 слов, 9 разделов, 6 сносок.
+sundarananda` → OK (F1–F32, Q1–Q7, I1–I2 в RU и EN). Объём: RU ≈ 1100 слов, 9 разделов, 6 сносок.
 
 ## План
 1. Сокровенный слуга Нитьянанды — F1, F2/Q1 (ЧЧ Ади 11.21), F3/F4/Q2 (ЧЧ Ади 11.23), F7/Q5 (ЧБ Антья 5.728), I1.
