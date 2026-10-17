@@ -586,6 +586,320 @@
   ]
  },
  {
+  "from": "@gauridasa-pandita",
+  "type": "father",
+  "who": "@kamsari-mishra-shaligrama",
+  "facts": [
+   "F7",
+   "F10",
+   "F14"
+  ]
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "sibling",
+  "who": "@suryadasa-pandita",
+  "facts": [
+   "F10",
+   "F11",
+   "F12",
+   "F19",
+   "F26",
+   "F57",
+   "Q6",
+   "Q13"
+  ],
+  "note": "Старший брат, отец Васудхи и Джахнавы; с его позволения Гауридас переселился в Амбику (F19). Его дом и храм — немного западнее шрипата Гауридаса (F26)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "sibling",
+  "who": "@krishnadasa-sarakhela",
+  "facts": [
+   "F10",
+   "F12",
+   "Q13"
+  ],
+  "note": "Младший брат."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "niece",
+  "who": "@jahnava",
+  "facts": [
+   "F11",
+   "F59",
+   "F60",
+   "F66"
+  ],
+  "note": "Дочь Сурьядаса; посещала его дом в Амбике, плакала у его самадхи во Врадже."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "niece",
+  "who": "@vasudha",
+  "facts": [
+   "F11"
+  ]
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "relative",
+  "who": "@krishnadasa-poet",
+  "facts": [
+   "Q11"
+  ],
+  "note": "Автор пады о прощании в Амбике (ПК 2358 и продолжение); по Маджумдару — младший брат Гауридаса (тождество с Кришнадасом Саркхелом не установлено)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "relative",
+  "who": "@gopiramana-ambika",
+  "facts": [
+   "F17"
+  ],
+  "note": "Внук (сын дочери Аннапурны) и ученик Хридаи Чайтаньи — по «Анубхашье» (T); его потомки владеют шрипатом."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F2",
+   "F3",
+   "F38",
+   "F39",
+   "F57",
+   "F63",
+   "F64",
+   "F65",
+   "Q3",
+   "Q5",
+   "Q15"
+  ],
+  "event": "ev-nityananda-marriage",
+  "note": "Спутник Нитьянанды, один из двенадцати гопалов; «Нитьянанда — его жизнь» (ЧБ Антья 5.730); отдал Ему касту, род и семью (ЧЧ Ади 11.27)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F22",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F34",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "Q7",
+   "Q8",
+   "Q9"
+  ],
+  "event": "ev-gauridasa-deities",
+  "note": "Господь приплыл к нему из Шантипура через Харинади, отдал весло и обнял (F28); по скану B — взял его с Собой в Навадвип (F30) и дал «Гитамриту», написанную Своей рукой (F31)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "deity-served",
+  "who": "@gaura-nitai-ambika",
+  "facts": [
+   "F33",
+   "F34",
+   "F35",
+   "F36",
+   "F37",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "F44",
+   "F45",
+   "F52",
+   "F53",
+   "Q12"
+  ],
+  "event": "ev-gauridasa-deities",
+  "note": "Как явились Божества: по повелению Господа Гауридас «явил» Их (B); Господа Сами дали Свои мурти (Мурари, B 130; M — пада); по преданию у T — вырезаны из дерева ним, где был сокрыт облик Господ (F34–F36)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "disciple",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F13",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F55",
+   "F56",
+   "F17"
+  ],
+  "note": "Взял его у Гададхары Пандита (B), дал дикшу, вверил служение Гаура-Нитаю; после праздника явления Господа дал имя «Хридая Чайтанья» (F54)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F46"
+  ],
+  "note": "По B отдал Гауридасу своего Хридаянанду (= @gadadhara-pandita:F87)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "lineage-successor",
+  "who": "@shyamananda",
+  "facts": [
+   "F56",
+   "F62"
+  ],
+  "note": "Ученик его ученика Хридаи Чайтаньи; «слуга слуги Субалы» (T 213); далее Расикананда → … → Баладева Видьябхушана (T 221)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "servant",
+  "who": "@gangadasa-pujari-ambika",
+  "facts": [
+   "F52"
+  ],
+  "note": "Пуджари Бара Гангадас, обнаруживший пустой трон."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "patron",
+  "who": "@krishnadasa-badagachhi",
+  "facts": [
+   "F18"
+  ],
+  "event": "ev-krishnadasa-badagachhi-separation",
+  "note": "M по комментарию Бхактивиноды: «царь Кришнадас, сын Хариходы» всегда поддерживал Гауридаса."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F58"
+  ],
+  "note": "Посетил дом Гауридаса по пути во Вриндаван (M 14)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F61"
+  ],
+  "note": "Посетил дом Гауридаса, где жил Хридая Чайтанья (M 107)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F1",
+   "Q1"
+  ],
+  "note": "ГГД 128 — Субала."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F63",
+   "Q5",
+   "Q13",
+   "Q14",
+   "Q15"
+  ]
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F64",
+   "Q3"
+  ]
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F69",
+   "Q2",
+   "Q4",
+   "Q6",
+   "Q7",
+   "Q8",
+   "Q10"
+  ],
+  "note": "Жизнь Гауридаса — в 7-й волне «Бхакти-ратнакары» (M 40)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F35",
+   "Q12"
+  ]
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F17"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 11.26 (по T): не принимал родства по ГВА; владельцы шрипата — потомки Гопираманы."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F14",
+   "F15",
+   "F16",
+   "F18"
+  ],
+  "note": "Комментарий о Шалиграме, сыновьях и Аннапурне (по M)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F68"
+  ],
+  "note": "Пел «Нитай и Гаура пляшут в доме Гауридаса» (B 698)."
+ },
+ {
+  "from": "@gauridasa-pandita",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F35"
+  ],
+  "note": "Божества Гаура-Нитай явлены почти одновременно с Божеством Господа у Вишнуприи (= @vishnupriya:F91)."
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",
