@@ -1090,6 +1090,106 @@ chaitanya-rupasya prityai…”) can be understood in two ways: “for the pleas
 of Srila Rupa Gosvami,” at whose bidding this commentary was written. Sanatana's literary contribution to the Gaudiya
 sampradaya is comparable only with that of Rupa and Raghunatha Dasa. <!-- F267 F268 F269 F270 F271 Q65 Q76 -->
 
+## Raghunatha Dasa
+Raghunatha Dasa lived for sixteen years in Puri with Mahaprabhu, in the care of Svarupa Damodara. When both had departed,
+he came in grief to Vrindavana to see the feet of Rupa and Sanatana one last time and then throw himself from
+Govardhana. The brothers spoke with him at length and held him back: his body was dedicated to Mahaprabhu's service and
+would yet fulfil many of His desires. They accepted him as their “third brother,” kept him always with them, and were
+themselves enriched by hearing from him the nectarean accounts of Mahaprabhu's pastimes. So being accepted by Rupa and
+Sanatana saved Raghunatha from perishing in separation. Rupa's two best servants were Raghunatha Dasa Gosvami and Jiva
+Gosvami. <!-- F272 F274 I23 -->
+
+The songs about Raghunatha Dasa say that he is “non-different from Rupa”; and when Rupa and Sanatana disappeared, “his
+eyes went blind,” and, not seeing Rupa and his companions, he wept. Raghunatha himself says at the end of the
+“Mukta-charita” that he wove this bouquet at Jiva's bidding, following the full instruction of Sri Rupa. There is also a
+tradition: reading Rupa's “Lalita-madhava,” a drama of separation, Raghunatha Dasa sank into such an ocean of separation
+that people began to fear for his life. Seeing this, Rupa wrote the short, merry “Dana-keli-kaumudi,” full of jests, gave
+it to Raghunatha and took back the “Lalita-madhava”; having read the new book, Raghunatha forgot his separation.
+<!-- F273 F275 F297 Q78 -->
+
+## Raghunatha Bhatta
+Mahaprabhu told Raghunatha Bhatta, the son of Tapana Mishra, not to marry, but after his parents' death to go to Vrindavana
+and, under the shelter of Rupa and Sanatana, perform bhajana all eight praharas of the day, following in Rupa's footsteps
+and studying the “Bhagavatam” and other scriptures under their guidance; and so he did. When he came to Vrindavana, Rupa and
+Sanatana were overjoyed and embraced him lovingly. Raghunatha Bhatta read the “Bhagavatam” in Rupa's assembly — “the
+assembly of the king of the Vaishnavas of the whole world” (shri-shri-vishva-vaishnava-raja-sabha) — and, overwhelmed by
+prema, sometimes could not go on:
+
+“Later, at Sri Chaitanya's bidding, he went to Vrindavana and stayed there to live, taking shelter of Sri Rupa Gosvami.
+Raghunatha Bhatta read the ‘Srimad-Bhagavatam’ aloud for Sri Rupa Gosvami. And so, by the mercy of Sri Chaitanya, he became
+intoxicated with divine love for Sri Krishna.” (CC, Adi 10.157–158) <!-- F276 F277 Q81 -->
+
+## Gopala Bhatta
+Gopala Bhatta, at his parents' behest, came straight to Vrindavana and settled with Rupa and Sanatana (“Karnananda,” 5th
+niryasa; “Bhakti-ratnakara,” 1.163–165). The brothers already knew that he would come and received him as a brother; from
+then on a lifelong friendship bound them. Rupa was just about to send word to Mahaprabhu in Puri with some devotees, and the
+brothers informed the Lord of Gopala Bhatta's arrival. The Lord, delighted, replied: “Regard Bhatta Gopala as your younger
+brother, look after him with love and from time to time send Me good news”; and with His answer He sent Gopala Bhatta the
+signs of renunciation — a dor, a kaupina and an upper garment.[^51] <!-- F278 -->
+
+Gopala Bhatta was very close to Rupa and Sanatana; Rupa held him as dear as his own life and entrusted him with the service
+of Radha-ramana. Hearing that Krishna had mercifully appeared to Gopala Bhatta as Radha-ramana from a shalagrama, Rupa and
+Sanatana with other devotees at once came for darshana and with tears of love beheld this world-enchanting Deity.[^52]
+Together with Rupa and others Gopala Bhatta restored the lost holy places of Vrindavana. And the “Hari-bhakti-vilasa,” as
+the book itself says (1.2), was compiled by Gopala Bhatta, a disciple of Prabodhananda, to please Raghunatha Dasa, Rupa
+and Sanatana. <!-- F279 F280 F281 F282 F283 Q73 -->
+
+## Jiva
+Jiva, having studied the scriptures in Kashi under Madhusudana Vachaspati, came to Vrindavana, took full shelter of Rupa
+and Sanatana and studied under them the whole “Bhagavata” and the scriptures on bhakti; both gurus entrusted him with
+revising their works. <!-- F284 -->
+
+The “Bhakti-ratnakara” (5th wave) tells of “Rupa's mercy to Jiva.” On a hot summer day, when Rupa was writing the
+“Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested
+correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of
+his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently
+reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went
+not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's
+forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his
+brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing.
+<!-- F285 F286 F287 -->
+
+Another incident is also told. A certain digvijayi, thirsting for worldly fame, obtained from Rupa and Sanatana a written
+acknowledgement of victory (jaya-patra): Jiva's gurus yielded to him without debate. The proud man began to revile them as
+ignoramuses and demanded the same from their disciple; Jiva engaged him in debate, defeated him and silenced the reviler
+of his gurus (Srila Bhaktisiddhanta Sarasvati, “Anubhashya” on CC, Adi 10.85). Thus Jiva showed what a true disciple should
+be. Ignorant sahajiyas say that Rupa reproached Jiva for this and banished him for a time, and only Sanatana's intercession
+restored Jiva to Rupa's company; Srila Bhaktisiddhanta rejects this interpretation: Jiva acted rightly in defending the
+honour of his gurus. Only by Krishna's mercy, seeing themselves as servants of the guru and the Vaishnavas, will such
+interpreters understand what it means to be “humbler than a blade of grass” and to “honour others.”
+<!-- F288 F289 I27 I29 -->
+
+After the departure of Rupa and Sanatana, writes Srila Bhaktisiddhanta, Jiva became the chief teacher of siddhanta, the
+undisputed head of the Gaudiya sampradaya in Mathura, Bengal and Orissa, and the “prime minister” of the
+Vishva-vaishnava-raja-sabha in Vrindavana; he is the best of Rupa's followers and one of the shiksha-gurus of Krishnadasa
+Kaviraja. And if Jiva, for the good of certain disciples, allowed svakiya-vada in his teaching, he acted as befits an
+acharya and was no opponent of parakiya-vada. <!-- F290 F291 I28 -->
+
+In the opening verses of his works Jiva remembers Rupa. In the “Madhava-mahotsava” — “my Prabhu Sri Rupa Gosvami, at whose
+bidding I undertook this work; his mercy is my only support”; in the “Gopala-champu” — “my uncles Rupa and Sanatana, my two
+Prabhus, who instructed me — may they be my shelter”; in the commentary on the “Brahma-samhita” — “Sri Rupa Prabhu is my only
+shelter”; in the “Durgama-sangamani” his commentary is a boat for crossing the “Bhakti-rasamrita-sindhu,” which came forth
+from Rupa's lips. And in several works a verse is repeated: “He whose elder brother is the venerable Sanatana, like the
+Eternal, and whose younger brother is Sri Vallabha — that Sri Rupa is the eternal shelter of Jiva.” <!-- F292 Q6 -->
+
+In the “Tattva-sandarbha” and at the beginning of each of the six “Sandarbhas” Jiva writes: “Glory in Mathura-mandala to
+Srila Rupa and Sanatana, who inspire me to write this book revealing the truth”; the colophons state that the books were
+written “by the instruction of Rupa and Sanatana.” As the basis of the “Sandarbhas” Jiva names the notes of Gopala Bhatta —
+a devotee from the South, of a brahmana family, a very close friend of Rupa and Sanatana (according to Baladeva, “the friend
+of them both”): he had written the book but not put it in order, and Jiva put it in order to please the two saints, Srila
+Rupa and Sanatana; its content, moreover, is what Sanatana heard from the Lord in Kashi and Rupa in Prayaga.
+<!-- F293 Q71 Q77 -->
+
+In the epic poem “Madhava-mahotsava” Jiva, at the end of each of its nine ullasas, honours Rupa as the guru's feet, a form
+non-different from Krishna. The verse at the end of the first ullasa can be read in two ways: “The Lord, full of compassion,
+rescued me, long burning in the forest fire of samsara, accepted me as His own and placed me at His pure feet — Him, the
+great Krishnadeva (or: Rupa, whose chosen Lord is Krishna), I worship here in Vrindavana.” The other eight such verses with
+a translation were printed in the article “Sri Sri Rupanuga-dhara” in the journal “Gaudiya” (20th year, no. 2). In the
+“Krishna-sandarbha” too Jiva calls Rupa his only shelter: in anuchchheda 178, “my revered feet by which I live”
+(upajibya-charana) concluded thus the account of the manifest pastimes of Radha and Govinda in the “Lalita-madhava”; and in
+anuchchheda 189, the eternal pastimes of Radha and Krishna are as described by the “younger brother” of those feet,
+Sanatana's — that is, by Rupa. <!-- F294 F295 F296 Q68 Q69 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -1228,3 +1328,10 @@ sampradaya is comparable only with that of Rupa and Raghunatha Dasa. <!-- F267 F
     so that Radharani would not trouble Herself for his sake; according to another, he strictly forbade him to accept such
     gifts in future, since the relationship of service had been reversed; according to a third, with tears of prema he
     reproached himself for having accepted service from Her whom he longed to serve.
+[^51]: According to one biography, the Lord replied by letter and sent Gopala Bhatta a dor, a kaupina and a bahirvasa;
+    according to another, He sent with a messenger to Rupa a kaupina and the upper garments of a babaji, and Rupa accepted
+    them with great joy.
+[^52]: One biography dates this to “1599 of the Christian era,” on a full-moon day; apparently 1599 Samvat (1542 CE) is
+    meant, for in 1599 CE Rupa was no longer on earth. According to some accounts, Sri Radha-Govinda revealed Gopala
+    Bhatta's cherished desire to Rupa in a dream, and it was Rupa who revealed the Deity of Radha-ramana; usually the
+    appearance of Radha-ramana is associated with Gopala Bhatta himself.
