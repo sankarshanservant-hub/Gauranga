@@ -354,6 +354,572 @@ sin — such is My power.” And Krishna says in the “Gita” (18.17): one who
 is unstained, even if he kills, does not kill and is not bound. On the other hand, outward piety for the sake of harming
 others is tamas, and chanting the Name for worldly ends is a sin. <!-- I8 Q19 Q20 -->
 
+## Across the Patra Hills
+With his servant Ishana, long his personal attendant, Sanatana walked day and night without rest — not by the high road
+but across fields and through villages: the former prime minister fled almost penniless. So he came to the Patra hills,
+which are considered part of the Rajmahal hills in the region of Chota Nagpur, now in the state of Bihar.[^24] <!-- F90 -->
+
+There he met a landholder, a bhuinya, who was a chief of robbers, and asked him to take him across the hills. The
+bhuinya had an astrologer who could tell by calculation how much money and goods a traveller was carrying, and the
+bhuinya himself would kill travellers and take their possessions. The astrologer said that Sanatana had eight gold
+mohurs, and the chief received him with special honour: he promised to take him across the hills that night with his
+men and gave him rice and everything needed for cooking.[^25] Sanatana bathed in the river and, after fasting for two
+days, cooked a meal and ate. <!-- F91 F92 F93 -->
+
+But the wise minister suspected something was wrong: why such honour, when he had nothing with him? He asked Ishana, and
+Ishana admitted that he was carrying seven mohurs. “Why did you bring this death along with you?” Sanatana gently
+reproached him. He himself took the seven mohurs to the bhuinya: “Take them and get me across the hills. I am a royal
+prisoner; if you help me across, you will earn merit.” The bhuinya laughed: “I already knew there were eight mohurs in
+your servant's bundle. It is well that I have been spared a sin — otherwise tonight I would have killed you both and
+taken them. I am pleased with your honesty: I will not take the mohurs and will take you across for the sake of piety.”
+“If you do not take them,” Sanatana answered, “someone else will kill me and take them. Take them and save my life.” He
+remembered the sayings: “Even the favour of a man of unsteady mind is dangerous,” and “How can one trust a rogue's
+words? Now truth, now falsehood — like the clouds of the month of shravana: now sunshine, now a downpour.” The bhuinya
+gave him four guards (paiks), and that same night they took him across the hills by a forest path. <!-- F94 F95 F96 F97 Q15 -->
+
+Beyond the hills Sanatana told Ishana that he knew he still had money left. Ishana, who had kept back the eighth coin,
+produced it. Sanatana told him to take that mohur for the road and go home, and he himself went on alone, with a
+karanga, a water-pot, in his hand and wearing a torn kantha.[^26] When causeless devotion appears in the heart, a person
+ceases to care for worldly happiness: renunciation is only a by-product of selfless devotion. And by sending away Ishana,
+who was attached to a gold coin, Sanatana showed that when the unready take up renunciation, the very order of
+renunciation is defiled. <!-- F98 F99 I9 I10 -->
+
+Walking on fearlessly, he came to Hajipur, on the northern bank of the Ganga opposite Patna, where the Ganga meets the
+Gandaki. There his sister's husband Shrikanta was buying horses for Hussain Shah. Seeing Sanatana from a high place, he
+came to him at night, heard his story and urged him to stay with him for a day or two, take off his dirty clothes, shave
+and dress decently.[^27] “I will not stay here for a moment,” Sanatana answered. “Take me across the Ganga quickly: I am
+leaving at once.” With difficulty Shrikanta persuaded him to accept a bhota-kambala, a costly Tibetan woollen blanket,
+and took him across the Ganga.[^28] <!-- F100 F101 F102 -->
+
+## In Kashi at Gaura's Feet
+A few days later Sanatana reached Varanasi and heard with great joy that Mahaprabhu was there. In Kashi the Lord was
+staying in the house of Chandrashekhara, a copyist of manuscripts, a vaidya by caste.[^29] Sanatana sat down by the door
+without entering the house. The omniscient Lord said to Chandrashekhara: “There is a Vaishnava at the door — call him
+in.” Sanatana had neither proper clothes nor the marks of a Vaishnava, and Chandrashekhara replied: “There is no
+Vaishnava there, only some dervish sitting.” But at the Lord's bidding he called in the “dervish” too. <!-- F103 F104 -->
+
+Seeing Sanatana in the courtyard, Mahaprabhu rushed to him, embraced him and was overwhelmed with prema. Sanatana,
+stammering with emotion, kept saying in his humility: “Do not touch me, Lord, I am very low.” Chandrashekhara watched in
+amazement as both wept with love. The Lord lovingly seated Sanatana beside Him and with His own hands began to wipe the
+dust of the road from him, and to his humble words He replied:
+
+“‘Touching you purifies Me Myself, for by the power of your bhakti you can purify the whole universe. <…> One who sees
+you, touches you and glorifies you uses his senses for their true purpose. Such is the verdict of the scriptures. <…>
+Sri Krishna is inexpressibly merciful. He is the Saviour of all fallen souls. He has rescued you from the pit of worldly
+life, which is like the hellish worlds. He is an ocean of compassion, and His deeds are deep, inconceivable and
+boundless.’” (CC, Madhya 20.56, 60, 62–63)[^30] <!-- F105 F106 Q17 -->
+
+Sanatana is an eternal associate of the Lord, and the words about rescue from hell are addressed to the world: worldly
+honour, measured by wealth and sense objects, is in truth a misfortune and leads to hell; rare is the householder who
+knows that the true enjoyer is Krishna and gives everything to Him. “I do not know Krishna,” said Sanatana. “I have been
+saved only by Your mercy.” At the Lord's request he told the whole story of his escape, and the Lord told him that He had
+met his brothers Rupa and Anupama in Prayaga and that both had gone to Vrindavana. At His word Sanatana made the
+acquaintance of Tapana Mishra and Chandrashekhara; Tapana Mishra invited him to a meal at his house. The Lord stayed with
+Chandrashekhara but took His meals with Tapana Mishra, and Sanatana received His remnants. <!-- I3 F107 F108 F109 F112 -->
+
+During the days of prison and travel Sanatana's hair and beard had grown long. The Lord told Chandrashekhara to take the
+dervish's clothes off him and have him shaved; Chandrashekhara had him shaved, bathed him in the Ganga and brought new
+clothes. Sanatana would not take them: “If you wish to give me clothing, give me your old cloth.” So Mishra gave him his
+worn cloth, and Sanatana divided it into two outer cloths (bahirvasa) and a proper belt and kaupina. The Lord was very
+pleased.[^31] Vaishnavas usually shave clean, except during chaturmasya, when they neither shave nor cut their nails,
+while Vaishnava sannyasis shave once a month, at the full moon: frequent shaving would be excessive care for the body.
+<!-- F110 I11 -->
+
+The Lord rejoiced in Sanatana's renunciation, for, as Krishnadasa Kaviraja says,
+
+“Mahaprabhu's devotees have many different virtues. But the chief quality that so greatly pleases Sri Chaitanya is their
+detachment from everything worldly.” (CC, Antya 6.220)[^32]
+
+When the desire to serve the Lord is genuine, a person is indifferent to fine clothes and food; the exception is the gifts
+of Vaishnavas and their remnants, which hold no poison of sense objects. Every act of Sanatana's here is a lesson to the
+sadhaka. <!-- F111 I12 Q87 -->
+
+The Lord introduced Sanatana to a brahmana from Maharashtra, who asked him always to eat at his house while he was in
+Kashi. But Sanatana declined such abundant alms: he wished to gather madhukari from different houses. The Lord was
+boundlessly pleased with his yukta-vairagya: a pure devotee does not seek bodily comfort. <!-- F113 I13 -->
+
+The Lord, however, kept glancing at the bhota-kambala. Understanding that it displeased Him, Sanatana resolved to give
+the blanket away. At midday by the Ganga a man from Gauda was drying his washed kantha, and Sanatana asked him to make an
+exchange. “You are a sensible man — why exchange a costly blanket for my torn kantha?” the man wondered. “I am telling the
+truth, I am not joking,” Sanatana replied, made the exchange and came to the Lord in the kantha, and when asked where the
+blanket was, told the whole story.[^33] The Lord said:
+
+“‘I have been thinking about this. Lord Sri Krishna is boundlessly merciful, and therefore He has destroyed all your
+worldly attachments. Why then would He leave in you anything worldly to which you might be even slightly attached? Having
+cured a patient, a good physician will not allow even the slightest trace of the disease to remain in his body. <…> This
+blanket, worth three gold coins, is not compatible with the life of an ascetic living on alms. For an ascetic to wear it
+violates the laws of dharma and gives occasion for ridicule.’” (CC, Madhya 20.90, 92)[^34] <!-- F114 F115 F116 Q18 -->
+
+If conduct and preaching do not agree, one's own dharma perishes and one becomes a laughing-stock; whomever Krishna
+favours without guile, He frees from the disease of worldliness completely, to the last trace. The Lord, though Bhagavan
+Himself, played the role of the supreme teacher and required of His associates what He taught and Himself practised:
+“Whatever the best do, others follow” (“Bhagavad-gita,” 3.21; cf. CC, Adi 3.20–21). And Sanatana replied: “By the will
+and mercy of Him who put an end to my wicked enjoyments, the last disease of worldliness too has gone.”
+<!-- F117 F118 I14 I15 -->
+
+It is said that at Etawah on the Yamuna, on the way from Prayaga to Mathura, a blanket is worshipped in a certain temple,
+and the local pujaris say that Sri Chaitanya gave it to a poor man. Some guess that this is the very blanket Sanatana
+gave away in Kashi: that man from Gauda, later learning the greatness of Chaitanya and Sanatana, worshipped it with love,
+while the uninformed, taking Sanatana for Chaitanya Himself, regarded the blanket as the Lord's gift. However, there is no
+such tradition in Bhaktivinoda Thakura's article “Etawah on the Bank of the Yamuna” (“Sajjana-toshani,” 4th year).
+<!-- F119 F120 F121 -->
+
+## Two Months in Kashi
+Pleased with Sanatana, the Lord showered His mercy on him and, investing him with power, moved him to ask questions for
+the good of all living beings. As formerly the Lord Himself had questioned Ramananda Raya and Ramananda had answered by
+His power, so now Sanatana asked by the Lord's power, and the Lord Himself answered. Without the Lord's mercy genuine
+questions about spiritual life do not arise: questions asked for the sake of argument are fruitless, while
+“pariprashna,” the humble inquiry the “Gita” speaks of (4.34), leads to surrender. An eternally liberated associate of
+the Lord, Sanatana showed what a sadhaka should ask his guru on the day he meets him. Krishnadasa Kaviraja set out these
+conversations in detail in the “Chaitanya-charitamrita” (Madhya 20–24); the biographies give them briefly, and here only
+their course and principal ideas will be named. <!-- F122 F124 I17 I18 -->
+
+They embraced the whole edifice of Vaishnava philosophy: the eternal nature of the jiva as Krishna's servant and the
+Lord's three energies — svarupa-shakti, maya-shakti and tatastha-shakti; the parable of the omniscient astrologer, in
+which the paths of karma, knowledge and bhakti are compared; Krishna as the goal of all the shastras; His forms,
+expansions and avataras; Goloka and Vaikuntha, the Lord's majesty and sweetness; the means of attaining prema and the two
+classes of living beings; the fruitlessness of karma, knowledge and yoga without bhakti and the worthlessness of
+varnashrama without Krishna; the guru who initiates, the guru who instructs and the inner guru; the growth of faith, the
+three grades of devotees and the twenty-six qualities of a Vaishnava; sadhu-sanga; bhakti according to rules and
+raganuga-bhakti, the sixty-four angas and the five best of them; bhava and prema, Krishna's sixty-four qualities; true
+and false renunciation; the story of Narada and the hunter and the sixty-one explanations of the “atmarama” verse.
+<!-- F123 -->
+
+With grass between his teeth, clasping the Lord's feet, Sanatana asked:
+
+“‘I am of low birth, unworthy and fallen. Having fallen into the well of sinful materialistic enjoyments, all my life I
+have been surrounded only by base people. I do not understand at all what is good for me and what is not. Yet ordinary
+people consider me a pandita, a knower of the scriptures, and even I have come to think so of myself. Since You have
+saved me by Your causeless mercy, kindly explain to me what my duty is now. Who am I? Why am I subject to the threefold
+miseries? I cannot understand this. How am I to attain the good? I know nothing of the goal of life or the means of
+attaining it. Be merciful and explain all these truths to me.’” (CC, Madhya 20.99–103) <!-- F125 -->
+
+The Lord answered: Krishna's full mercy is in you, you know all the truths, and the threefold miseries no longer exist for
+you; but a saint, though knowing everything, asks again in order to become firm in knowledge, and you are worthy to spread
+bhakti. Inquiry into the truth is the jiva's first step towards the good: one whose desire to awaken sambandha-jnana is
+firm soon reaches the goal, and the question “Who am I?” makes the jiva fit for this knowledge. A mistake in
+self-knowledge leads to a mistake in the goal, and then every effort is in vain: one who takes himself to be the gross
+body measures duty and morality by the good of the body; one who takes himself to be the subtle body, by the development
+of the mind; while one who knows himself to be the soul seeks the good of the soul and uses both bodies in the way that is
+favourable to it. <!-- F126 F127 I19 -->
+
+### “Who Am I?”
+“Being a manifestation of Sri Krishna's marginal energy, the living being is simultaneously one with the Lord and
+different from Him. Therefore his purpose is eternal loving service to Sri Krishna. The eternal relationship of the soul
+and God can be understood by the example of a ray and the sun, or of a spark and a bright flame.” (CC, Madhya
+20.108–109)
+
+The “I” is neither the gross body nor the subtle body (mind, intelligence and false ego): the true “I” is the eternal
+servant of Krishna, His tatastha-shakti. It stands on the border between the spiritual world and the world of maya and is
+therefore connected with both. As a shore lies between water and land and partakes of both, so this shakti bears in itself
+the properties of both sides: by nature the jiva is consciousness, but by its constitution it can fall under the sway of
+matter. The jiva and Krishna are simultaneously different and non-different. By spiritual nature the jiva, a separated
+particle of Krishna, is also full of being, consciousness and bliss; but it is atomic, its consciousness is small, while
+Krishna is all-pervading consciousness, and so the jiva is not complete as He is. The shruti says so too: “As tiny sparks
+fly out from a fire…” (“Brihad-aranyaka Upanishad,” 2.1.20): living beings issue from the Supreme like rays from the
+sun of Krishna or sparks from a blazing fire, yet keep their separate existence. <!-- F128 F129 F130 F131 Q21 -->
+
+Losing the awareness “I am Krishna's eternal servant,” the jiva falls into the bonds of maya: standing on the border, it
+desired to enjoy maya and entered it. The reckoning of material time begins with that entry, while aversion to Krishna
+arose before that reckoning — and that is why it is called “beginningless.” Such a jiva now suffers, now enjoys, now in
+heaven, now in hell, but both conditions are captivity: having turned away from Krishna, it sinks into maya, and fear and
+distorted memory are born in it. Seeing this, boundlessly merciful Krishna revealed the Vedas, the Puranas and other
+shastras, and Himself — in the form of the shastras, of gurus and sadhus who disclose their meaning, and as the Paramatma
+within — gives the jiva knowledge of its true nature. <!-- F132 F133 F134 -->
+
+“The Vedic scriptures speak of three truths: sambandha, abhidheya (the path) and prayojana (the highest goal). Sambandha
+means the eternal relationship of the soul and Krishna. The path to the highest goal is known as bhakti, loving service to
+God. Therefore bhakti and abhidheya are in essence one and the same. And the highest goal is prema (love of God), which is
+the supreme good and wealth of every soul.” (CC, Madhya 20.124–125) <!-- F135 -->
+
+The shrutis speak both of the oneness and of the difference of the jiva and God, and acharyas have explained this in
+different ways — as advaita-, dvaita-, vishishta-advaita-, shuddha-advaita-, dvaita-advaita-vada and so on. But in
+accepting scripture one must accept it whole and reconcile its apparent contradictions. The Lord's resolution is the
+teaching of achintya-bheda-abheda, inconceivable oneness and difference; accepting the whole of scripture and reconciling
+its apparent contradictions, it brought about a revolution in theistic thought. <!-- F136 I21 -->
+
+Then the Lord gave an example. An omniscient astrologer revealed to a poor brahmana that his father's treasure lay buried
+under his courtyard: “Do not dig from the south — wasps will sting you; from the north — a black python will swallow you;
+from the west a yaksha, the guardian of the treasure, will hinder you; dig a little from the east, and you will find it.”
+The south is the path of karma: those who seek fruits are stung by the wasps of desire for enjoyment. The north is the
+path of knowledge, merging into Brahman, which like a python swallows the soul. The west is the path of yoga: the yaksha
+of desire for siddhis lures with powers and wealth and likewise ruins the soul. The east is the path of bhakti: there the
+sun of prema rises. Release from poverty, that is, from the hardships of samsara, is not the fruit of prema: just as
+thieves and robbers flee already at dawn, before the sun has risen, so at the mere glimmer of prema all worldly hardships
+vanish easily and without remainder. Freedom from suffering is a by-product, not the goal. The three great treasures are
+Krishna, krishna-bhakti and prema. <!-- F137 F138 F139 I20 -->
+
+### Krishna and His Forms
+Directly and indirectly all the Vedas speak only of Krishna. Infinite Krishna has infinite energies, and His natural
+threefold shakti is chit-shakti, maya-shakti and jiva-shakti: from chit-shakti comes the spiritual world, from
+unconscious maya the material world. Krishna is the non-dual truth, all-embracing being, consciousness and bliss, the
+source of all avataras and the origin of all, the crown of youths with a body of consciousness and bliss, the son of the
+king of Vraja, Bhagavan Himself, eternally dwelling in Goloka. He is realised by three paths and in three aspects: by
+knowledge without distinctions, as the impersonal Brahman, the effulgence of His body; by eightfold yoga, as the
+Paramatma, the majesty of His portion; by pure bhakti, as the complete Bhagavan. <!-- F140 F141 F142 -->
+
+The Lord divided Krishna's forms into three kinds. The first is the svayam-rupa: Krishna Himself in Vraja, the son of the
+king of Vraja, in the dress and self-awareness of a cowherd boy, the Lila-purushottama; together with His
+svayam-prakashas — prabhava (one body in many, as in the rasa-lila and at the weddings with the queens) and vaibhava
+(Baladeva, and the two-armed and four-armed Devakinandana). The second is the tad-ekatma-rupa. These are the vilasas: the
+first chatur-vyuha — Vasudeva, four-armed, in the dress and self-awareness of a kshatriya, eternally dwelling in the city,
+and Sankarshana, Pradyumna and Aniruddha; the second chatur-vyuha in Vaikuntha; three forms from each of its members —
+the twelve lords of the months and of the twelve tilakas; and the eight vilasas — Purushottama, Achyuta, Nrisimha,
+Janardana, Hari, Krishna, Adhokshaja, Upendra. They are also the svamshas, of six kinds: the three purusha-avataras, the
+three guna-avataras, the twenty-five lila-avataras (from Matsya to Kalki), the four yuga-avataras, the fourteen
+manvantara-avataras and the shaktyavesha-avataras. The third kind is avesha: bhagavad-avesha (Kapila, Rishabha) and
+shaktyavesha (Narada, Vyasa, Prithu, Brahma, Sanaka and others). <!-- F143 F144 F145 F146 -->
+
+The svayam-rupa is Bhagavan Himself, and from His bhagavatta comes the bhagavatta of all others. The tad-ekatma is not
+different from the svayam-rupa but differs somewhat in form. Avesha is the entry of one of the shaktis, and only into the
+greatest jivas: of bhakti into Narada, of the power to sustain the world into Prithu, of knowledge into the
+Chatuhsana; those pervaded by Bhagavan Himself (Kapila, Rishabha) think, “I am Bhagavan,” while those pervaded by His
+shakti (Brahma, Narada, Vyasa) think, “I am Bhagavan's servant.” <!-- F147 -->
+
+“When the one Supreme Lord expands Himself into forms between which there is no difference at all, this is called
+‘prakasha.’ So did Krishna in order to marry sixteen thousand princesses in Dvaraka, or when He enjoyed the rasa dance.”
+(CC, Adi 1.69)
+
+“But the many forms of God between which there are some differences are known as ‘vilasa’ (sportive).” (CC, Adi 1.76)
+
+A prakasha is equal to the original in every respect; a vilasa is equal in power but different in form, colour and name,
+like Balarama in Vraja and Narayana in Vaikuntha; a svamsha is of lesser power, like Matsya or Kurma. Prabhava means
+sovereignty, vaibhava all-embracing greatness. The prabhava-prakasha of the svayam-rupa is Krishna Himself; the
+vaibhava-prakasha is Balarama in Vraja, the original Sankarshana, from whom the first chatur-vyuha proceeds: in Dvaraka,
+in Mathura (two-armed forms) and in the spiritual sky — four-armed Narayana. Special forms for special purposes, like the
+four-armed or two-armed Devakinandana, are also prakashas of the svayam-rupa. <!-- F148 F149 Q22 Q23 -->
+
+The purusha-avataras are these. Karanarnavashayi Maha-Vishnu is the inner controller of causal prakriti, the creator of
+the mahat-tattva, a portion of Maha-Sankarshana, the second of the vyuhas of Vasudeva, the Lord of the spiritual sky;
+Ananta, on whose couch He reclines, is the avatara Shesha, service to Krishna personified. Chit-shakti manifests
+Vaikuntha, Goloka and the other abodes, while maya-shakti creates Devi-dhama — the fourteen worlds. Garbhodakashayi is
+the inner controller of the subtle aggregate universe, the creator of Brahma, a portion of Pradyumna. Kshirodakashayi,
+the Paramatma, is the controller of the gross universe and of every jiva, a portion of Aniruddha. This successive
+manifestation shows the Lord's property of expanding (“charishnu-dharma”); therefore Ishvara is Vishnu alone, while the
+other two guna-avataras and all the devas are adhikarika-tattvas subordinate to Him. From Govinda, “the great lamp,”
+proceed the three purusha-avataras, and the svamsha-avataras, like Rama and Nrisimha, are like lamps lit from Him: equal
+to Him in qualities and in essence not different from Govinda, but different in pastimes. <!-- F150 F151 F152 -->
+
+Of the guna-avataras, Vishnu, Kshirodakashayi, maintains the world through sattva; He is of one nature with Govinda —
+pure sattva, equal qualities, beyond maya and the gunas, the Supreme, the master of maya. Brahma is born from the lotus of
+Garbhodakashayi's navel and creates through rajas; he is a separated particle, partly endowed with the power of a
+svamsha, agitated by rajas. In one kalpa the power of Bhagavan enters a worthy jiva, and Brahma is an avesha-avatara, but
+because of rajas he is not equal to Vishnu; in a kalpa where there is no such jiva, Vishnu Himself becomes Brahma. So it
+is too with Indra and the other appointed devas. Brahma is higher than ordinary jivas but is not Ishvara: he has the fifty
+qualities of a jiva in full and five more in part. The aggregate of the fourteen worlds from Patala to Satyaloka is his
+gross body, also called “Brahma”; the subtle jiva within it is Hiranyagarbha, and his inner controller is Garbhodakashayi.
+<!-- F153 F154 -->
+
+Shiva (Shambhu) is likewise a separated particle, partly endowed with the power of a svamsha, agitated by the tamas of
+maya. He is not an Ishvara separate from Krishna — one who thinks so offends Bhagavan — and his lordship is subordinate to
+Govinda. He is simultaneously different and non-different from Vishnu: different because of the transformation caused by
+contact with maya, non-different because, as a Vaishnava-tattva taking shelter in the spiritual vilasa, he is free from
+transformation. So milk, by the action of a culture, becomes curd: born of milk, it is no longer milk; Vishnu Himself, like
+milk, never changes, and wherever a transformation under the influence of maya is seen in the divine, there another
+guna-avatara is at work — Brahma or Shiva. The tamas of maya, the smallness of the tatastha-shakti and the samvit of the
+chit-shakti with a slight admixture of hladini form a special transformation; with it combines a reflection of the
+svamsha — this is Ishvara Sadashiva in the form of the radiant shambhu-linga, and from him Rudra appears.
+<!-- F155 F156 F157 -->
+
+The shastras call Shambhu the best of Vaishnavas (“Bhagavatam,” 12.13.16: “vaishnavanam yatha shambhuh”). By Govinda's
+will he unites by his power of time with Durga and, with the help of tamo-guna, carries out destruction. In the tantras
+and other shastras Shambhu gives instructions on dharma suited to different levels of jivas, as steps towards bhakti; by
+Govinda's will he also established mayavada and thereby guards the truth of pure bhakti. He has the fifty qualities of a
+jiva in full and five great ones, beyond the reach of a jiva, in part; therefore he cannot be called a jiva: he is a lord
+of jivas, though he belongs to the vibhinnamshas. In one kalpa a worthy jiva becomes Shiva the destroyer; in another, if
+there is no such jiva, Vishnu Himself assumes the form of Shiva; all these destroyers are guna-avataras. But Sadashiva,
+who dwells in Shivaloka within Vaikuntha, is not a guna-avatara: he is beyond the gunas and, like Narayana, is a vilasa of
+Krishna's svayam-rupa, the source of the guna-avatara Shiva; therefore he is higher than Brahma and not different from
+Vishnu. The Lord said: <!-- F158 F159 F160 F161 F162 Q24 -->
+
+“Brahma and Shiva are only executors of the Lord's will in the form of His devoted servants (bhaktas), while Vishnu
+Himself, as Krishna's personal manifestation, is the Maintainer of the whole creation.” (CC, Madhya 20.317) <!-- Q25 -->
+
+The yuga-avataras come white in the Satya-yuga, red in the Treta, dark in the Dvapara, and in the Kali-yuga yellow, as the
+preacher of prema for the Name: in Kali Krishna Himself, the source of avataras, descends and spreads the dharma of this
+age — nama-kirtana. And here Sanatana — knower of the truth of Gaura-lila, expert in bhajana, “a Brihaspati in intellect”
+— wished to hear from the Lord's own lips about His own descent and boldly asked: “I am a low, insignificant jiva; how am
+I to know who the avatara in Kali is?” The Lord answered: the avatara in Kali, like all others, is recognised through the
+shastras; an avatara never says of himself, “I am an avatara,” and the wise identify him by the svarupa-lakshana, the
+marks of his nature, and the tatastha-lakshana, the marks of his deeds. Then Sanatana, wishing the Lord to acknowledge His
+own pastime, said: in Kali the svarupa-lakshana of the yuga-avatara is a yellow form, the tatastha — sankirtana in the
+bliss of prema; “so tell me who this Krishna-avatara in Kali is, and dispel my doubt.” The Lord, somewhat abashed,
+answered: “Sanatana, give up your cleverness; listen rather about the shaktyavesha-avataras.” Here, says one biography,
+the devotee won and Bhagavan was defeated: Sanatana forced the Lord into silence, and He, guarding His concealment, moved
+on to another subject. <!-- F163 F164 F165 F166 F167 I22 -->
+
+Shaktyavesha-avataras are of two kinds: principal, when the shakti itself descends, and secondary, when only a reflection
+of the shakti is seen as a vibhuti. Before manifesting His pastimes, Krishna sends His servants into the world in the role
+of elders and teachers. In all the universes, uninterruptedly, like the flow of the Ganga, Krishna's manifold, ever-new
+pastimes on earth are revealed: in one universe they last one hundred and twenty-five years — from His birth to the
+mushala-lila — and are then withdrawn. When in one universe the first moment of the lila ends and the second begins, the
+pastimes of the first moment appear in another; thus in the endless universes the pastimes rise and set in order, without
+interruption, like the flow of the Ganga or the circle of fire made by a whirling torch. Krishna's birth, childhood,
+boyhood, youth and other pastimes take place eternally, and the simultaneous eternal manifestation of all the pastimes is
+the nitya-lila; in the world they are seen in sequence, and in a single universe their eternity is not visible, because
+the other pastimes are going on at that time in other universes. That is why the Vedas and Puranas speak of the eternal
+lila. <!-- F168 F169 F170 F171 F172 -->
+
+All the abodes of Vishnu are the spiritual opulence of Sankarshana, and each, by Krishna's will, descends into the world
+together with Hari. In Vraja Krishna displays all His majesty and sweetness — there He, the son of the king of Vraja, is
+“most complete” (purnatama); in Dvaraka and Mathura He is “more complete” (purnatara), and in Vaikuntha, in the spiritual
+sky, “complete” (purna). In the spiritual sky there eternally exist countless Vaikunthas of all the forms of Vishnu, and
+as the nature of each is eternal, so are His abode, associates and pastimes; the Lord's abode and form are of one
+shuddha-sattva, a spiritual nature inaccessible to the material senses, even to Brahma's. The spiritual world is like a
+lotus: in the middle, like the seed-pod, is Krishnaloka, and around it, like petals, are countless Vaikunthas. Krishna's
+three abodes are Gokula (Goloka), Mathura and Dvaraka, and He is the Lord of all three. <!-- F173 F174 F175 F176 F177 -->
+
+Krishna Himself is captivated by the sweetness of His human-like pastimes: of all pastimes the best is the spiritual
+nara-lila, of all forms the spiritual human-like body, the two-armed ever-youthful form with the flute. Krishna is the
+vishaya, the object of love, and the shaktis who depend on Him are the ashraya, its abode; the form of the vishaya
+captivates all: Narayana and Lakshmi are drawn by Krishna's form, and Krishna Himself longs to relish His own beauty. This
+sweetness is realised only by ardent bhakti following the ragatmika. Krishna is the shelter of all spiritual virtues, an
+ocean of the nectar of all rasas; in Vraja all the other aspects of Bhagavan proceed from the son of the king of Vraja
+Himself. The nectar of His lotus face never cloys, as worldly things do, and the ocean of the gopis' bliss grows at every
+moment. The kama-gayatri is Krishna Himself: each of its syllables is one of the parts of His body. <!-- F178 F179 F180 F181 F182 -->
+
+### Bhakti — the Path
+Having set out sambandha, the Lord passed on to abhidheya, the means by which it is attained: the Shruti, Smriti, Puranas
+and Pancharatra name this means krishna-bhakti. Shakti and the possessor of shakti are non-different; the svarupa-shakti,
+engaged solely in Krishna's service, is distinct from maya-shakti and abides inseparably with Him; the svamshas and
+vilasas — the chatur-vyuha and the avataras — are Krishna Himself, shaktiman-tattva, while the jiva is a separated
+particle, shakti-tattva. <!-- F183 F184 -->
+
+Jivas are of two kinds. The eternally liberated have never known maya; turned towards Krishna's feet in His abode, they
+are called His associates, and their only goal is the happiness of service. The eternally conditioned are turned away from
+Krishna and taste worldly joy and sorrow, heaven and hell. For this aversion maya, like a witch, binds them with gross and
+subtle coverings and punishes them with the three kinds of misery; in the power of the six enemies — lust, anger and the
+rest — they suffer from the disease of samsara, and the “swing” of karma carries them up and down. But if such a jiva
+receives the mercy of a sadhu, the skilled physician, maya flees from the mantra of his instruction, and the jiva attains
+krishna-bhakti and comes to Krishna's feet — to eternal service and lila. <!-- F185 F186 -->
+
+In places the shastras call karma, yoga or knowledge the means, but everywhere they name bhakti as the chief and eternal
+means: it alone leads directly to prema, while the fruits of the other paths depend on it — karma and hatha-yoga give
+enjoyment, knowledge and raja-yoga give liberation and siddhis only under its cover. When bhakti turned towards Krishna
+dawns, mukti comes of itself, without the labour of knowledge: mukti is the maidservant of bhakti. The eternal good lies
+only on the path of bhakti, and dry knowledge is wasted toil. The only way out of the bondage born of forgetting one's
+eternal service to Krishna is ninefold bhakti (hearing, chanting and the rest) together with service at the feet of a
+guru who is close to Krishna and sent by Him. Even faultless varnashrama without bhakti does not save one from the hell
+Raurava; but whoever even once, with body, mind and speech, says “Krishna, I am Yours” and surrenders to Him, him Krishna
+certainly frees from the bonds of maya. <!-- F187 F188 F189 F190 -->
+
+Bad company breeds desires for liberation, enjoyment and mystic powers; good company breeds renunciation of them and pure
+bhakti: one who began bhajana for some petty desire but in the company of sadhus took up pure bhajana loses that desire and
+attains krishna-rasa — so pure and powerful is the bhajana of Krishna. When the time of liberation comes, the jiva by good
+fortune meets a sadhu, and from that association rati for Krishna is born; and if at first such a pious person does not
+meet a great guru, Krishna Himself, as the inner guru, teaches him pure bhakti. Without bathing in the dust of the feet of
+the mahajanas, bhakti cannot be attained by austerity, Vedic worship, vows, household dharma, study of the Vedas or the
+worship of water, fire and sun; the good that comes from association with Bhagavan's associates cannot be compared with
+heaven or with liberation. <!-- F191 F192 F193 -->
+
+In the “Gita” Krishna gave the most confidential instruction: by the rule “the later injunction is stronger,” bhakti is
+higher than karma, knowledge and yoga, and He told us to abandon all dharmas and surrender to Him. Firm faith in this is
+the shraddha that gives the right to bhakti. Those who have it are of the highest, middle and beginning grades: the
+highest is versed in the shastras and in reasoning, and his faith is firm; the middle one does not know the firm
+arguments of the shastras but has faith; the beginner's faith is not yet firm, and knowledge and karma are mixed with it;
+when that admixture goes, the sadhaka becomes a middle devotee, and when his faith is strengthened by the arguments of the
+shastras, a highest one. By the degree of rati and prema one distinguishes the “bhakta,” the “bhaktatara” and the
+“bhaktatama”; a pure devotee is adorned with all Krishna's qualities. <!-- F194 F195 F196 -->
+
+A Vaishnava avoids the company of those attached to women and illicit connections and of Mayavadis hostile to Krishna,
+and associates with nishkinchana maha-bhagavatas; a nishkinchana gives up both kinds of bad company and even attachment
+to varnashrama and, possessing nothing, takes refuge in Krishna alone. The six signs of surrender (sharanagati) are these:
+to accept what is favourable to bhakti, to reject what is unfavourable, to believe that Krishna will protect, to choose
+Him as one's only protector, to entrust oneself to Him completely and, considering oneself insignificant, constantly and
+humbly to cry out within to the feet of Hari, guru and the Vaishnavas. One who has surrendered lives bodily in the places
+of Bhagavan's pastimes, says with his lips and knows with his mind, “Bhagavan, I am Yours,” and in that is his joy.
+<!-- F197 F198 -->
+
+Sadhana-bhakti is when the bhava-bhakti that is yet to be attained is practised with the senses of a conditioned jiva;
+its essence is hearing, chanting and remembering in a way favourable to bhakti, and, free from other desires and from any
+admixture of knowledge and karma, it gives birth to the treasure of prema. Krishna-prema is eternally perfect and only
+awakens in a heart purified by hearing and the rest; therefore sadhana-bhakti is above all pure hearing and chanting.
+Sadhana is of two kinds — according to rules (vaidhi) and raganuga. Vaidhi is bhajana by the command of the shastras in
+those in whom raga has not awakened; all injunctions and prohibitions come down to two rules: always remember Vishnu and
+never forget Him. <!-- F199 F200 F201 -->
+
+The angas, the limbs of bhajana, are sixty-four. The first ten: taking shelter at the guru's feet; initiation; service to
+the guru; inquiry into true dharma; following the path of the sadhus; giving up one's own pleasures for Krishna's joy;
+living in a holy place of Krishna; accepting only what is necessary for life; fasting on ekadashi; honouring the dhatri
+and ashvattha trees, cows, brahmanas and Vaishnavas. The next ten are kept by abstaining: avoiding offences in service
+and offences to the Name; not associating with non-Vaishnavas; not taking many disciples; not reading many books
+piecemeal and not arguing over interpretations; keeping equanimity in loss and gain; not yielding to grief; not
+disrespecting other devas and shastras; not listening to blasphemy of Vishnu and the Vaishnavas; not listening to village
+gossip; not troubling anyone. These twenty are the entrance to the temple of bhajana, and the chief of them are shelter at
+the guru's feet, initiation and service to the guru. <!-- F202 F203 -->
+
+Then come thirty-five more: hearing, chanting, remembering, worship, offering prayers, service, the attitude of a
+servant, friendship, self-surrender; dancing and singing before the Deity; petition; prostrating fully; rising to greet
+Bhagavan or His devotee and accompanying those who depart; visiting holy places and temples; circumambulation; reciting
+prayers; japa; sankirtana; smelling the fragrance of offered incense and garlands; honouring maha-prasada; seeing the
+arati and the Deity; offering the Lord what one loves; meditation; serving all that is “His” — Tulasi, the Vaishnavas,
+Mathura, the “Bhagavatam”; every effort for Krishna's sake; awaiting His mercy; celebrating the days of His appearance
+with the devotees; complete surrender; the vows of the month of Karttika and others. Four more belong to arcana: wearing
+the marks of a Vaishnava, the letters of Hari's name and remnants offered to the Lord, and drinking charanamrita. And
+the last five: association with sadhus, chanting the Name, hearing the “Bhagavatam,” living in Mathura and serving the
+Deity with faith and love. This is service with the body, the senses and the mind; some angas are quite separate, others
+merge with one another. <!-- F204 F205 -->
+
+These last five are the best. Some perform one anga, some many, and from steadiness in them prema dawns; Ambarisha and
+others performed many, while by a single anga Krishna's feet were attained by Parikshit — through hearing, Shukadeva —
+through chanting, Prahlada — through remembering Vishnu, Lakshmi — through serving His feet, Prithu — through worship,
+Akrura — through prayers, Hanuman — through service, Arjuna — through friendship, Bali — through self-surrender. A
+devotee who has surrendered completely owes nothing to the devas, sages, ancestors and the rest: leaving the dharma of
+injunctions, he serves Krishna; his mind is not drawn to what is forbidden, and an accidental sin committed in ignorance
+Krishna in His mercy removes entirely, purifying him as the inner guru. Knowledge and renunciation are not limbs of
+bhakti; they may be called two sons who follow in her train, and without bhakti they bring no good, while non-violence
+and other virtues come to a pure devotee of themselves. <!-- F206 F207 F208 F209 -->
+
+Ragatmika-bhakti is the natural bhakti, full of raga, of the eternally perfect residents of Vraja: the gopis, Nanda and
+Yashoda, Shridama, Sudama and others; there is no such bhakti anywhere else, and the bhakti that follows it is raganuga.
+The nature of ragatmika is deep thirst for the beloved object, its mark is complete absorption. Hearing of it, a rarely
+fortunate person acquires a longing (lobha) to follow it, and only this longing, born of hearing about the sweetness of
+the feelings of the Vrajavasis, gives the right to raganuga-bhakti: neither scripture nor reasoning produces it. One who
+longs for ragatmika follows the deeds of the Vrajavasis in the body of a sadhaka, relying on kirtana, while in a mental
+body fit for eternal service in the perfected form he serves under the guidance of the resident of Vraja he loves. A
+raganuga-bhakta always follows in the steps of Sri Gurudeva — a Vrajavasi dear to Krishna — and inwardly serves Krishna
+without cease; he remembers Krishna and the associate of His whom he has chosen, speaks of them, and always lives in Vraja
+— if not in body, then in a pure mind. <!-- F210 F211 F212 -->
+
+### Prema and the Rasas
+Then the Lord revealed prayojana, the goal that is attained — prema-bhakti. Bhava, or rati, is the still “liquid,”
+sprouting state of prema; when it thickens and ripens, it becomes prema. Bhava softens the heart with rays of ruchi, like
+the sun of prema, and its nature is shuddha-sattva; when it has softened the heart completely, become imbued with a deep
+sense of “mine” and thickened, that is prema. An undivided sense of “mine” towards Krishna — “Krishna alone is the object
+of my sense of ‘mine,’ and no one else” — joined with prema, the mahajanas call prema-bhakti. <!-- F213 F214 -->
+
+The way to it is this: from piety favourable to bhakti comes faith in bhakti that knows nothing else; then association
+with sadhus, pure devotees; hearing and chanting; removal of anarthas (according to the measure of hearing, and of the
+gross ones from the very beginning); steadiness; taste; attachment; and when attachment is purified, bhava, or rati, the
+sprout of love for Krishna; and at last, thickening, prema, the abode of all bliss. Up to taste and attachment it is
+sadhana-bhakti, then bhava-bhakti, and after it prema-bhakti. Sprouted bhava is known by nine signs: equanimity where
+there is cause for agitation; not a moment spent apart from what is connected with Krishna; detachment; absence of pride
+in an exalted position; firm hope of service; intense longing for the desired; a natural unfailing taste for chanting the
+Name; attachment to describing Krishna's qualities; love for the places where He dwells. The words, deeds and signs of
+those who love Krishna are incomprehensible even to learned knowers of the shastras: from love of repeating the name of
+the Beloved they now languish, now, forgetting public opinion, laugh, weep, cry out, sing and dance like madmen.
+<!-- F215 F216 F217 -->
+
+Prema deepens by stages — sneha, mana, pranaya, raga, anuraga, bhava and mahabhava — just as from molasses one gradually
+obtains khandasara, sugar, sugar-candy and the purest candy; in the same way the relishing of rasa differs with the stages
+of prema. According to the kind of rati it is fivefold — shanta, dasya, sakhya, vatsalya and madhura — and in these five
+rasas Krishna becomes subject to His devotees. Transcendental rati is the permanent sentiment (sthayi-bhava); when vibhava,
+anubhava, sattvika and vyabhichari combine with it, rasa is born, and in krishna-bhakti — krishna-bhakti-rasa. The
+sthayi-bhava is its root, vibhava the cause, anubhava the effect, sattvika a special effect, vyabhichari the helpers.
+Vibhava is divided into alambana (the support) and uddipana (that which awakens); in the alambana the abode of love
+(ashraya) is the devotee, its object (vishaya) is Krishna, and the uddipana is Krishna's qualities. <!-- F218 F219 F220 -->
+
+The outward expressions of love (anubhavas) are thirteen: dancing, rolling on the ground, singing, loud crying, twisting
+the body, loud exclamations, yawning, heavy breathing, disregard of public opinion, drooling, loud laughter, whirling and
+hiccups — and they do not all come at once but at different times. The spiritual transformations (sattvika-bhavas) are
+eight: stupor, perspiration, horripilation, faltering of the voice, trembling, change of colour, tears and fainting. The
+transitory feelings (vyabhicharis) are thirty-three: nirveda, vishada, dainya, glani, shrama, mada, garva, shanka, trasa,
+avega, unmada, apasmara, vyadhi, moha, mrityu, alasya, jadya, vrida, avahittha, smriti, vitarka, chinta, mati, dhriti,
+harsha, autsukya, augrya, amarsha, asuya, chapalya, nidra, supti and bodha. The ornament-bhavas are twenty: born of the
+body — bhava, hava and hela; arising without effort — shobha, kanti, dipti, madhurya, pragalbhata, audarya and dhairya; and
+natural — lila, vilasa, vichchhitti, vibhrama, kilakinchita, mottayita, kuttamita, vibboka, lalita and vikrita.
+<!-- F221 F222 F223 F224 -->
+
+In shanta-rasa rati grows up to prema, in dasya up to sneha, mana, pranaya and raga, in sakhya and vatsalya up to
+anuraga, while in Subala and those like him, though they are in sakhya-rasa, it reaches even bhava; in madhura — up to
+mahabhava. Rudha- and adhirudha-mahabhava exist only in madhura-rasa: rudha is seen in Dvaraka, adhirudha only in Gokula.
+Adhirudha is of two kinds — madana in union and mohana in separation — and in them manifold feelings appear; the
+extreme stage of divine madness is in separation. Union (sambhoga) is of countless kinds, separation (vipralambha) of
+four: purva-raga, pravasa, mana and prema-vaichittya; the first three are found in the gopis headed by Radhika, while
+prema-vaichittya is especially known in the queens of Dvaraka. <!-- F225 F226 F227 -->
+
+Bhagavan Krishna Himself, the son of the king of Vraja, is the crown of heroes, and Radha is the crown of heroines. Of
+Krishna's countless qualities sixty-four are chief: fifty are present as drops in all jivas and as an ocean in Krishna;
+five more, great ones, are present fully in Vishnu and partly in Shiva and other devas; Narayana, the Lord of Vaikuntha,
+has five more, sixty in all; and Krishna eternally and fully has four more special ones — sixty-four in all. Radha's
+twenty-five qualities attract even Krishna. Krishna-bhakti-rasa cannot be tasted by those devoid of bhakti: only Krishna's
+transcendental devotees are entitled to relish it. <!-- F228 F229 F230 -->
+
+## Four Commissions
+“Sanatana,” said the Lord, “I have briefly explained to you the prayojana-tattva. Earlier, in Prayaga, at the
+Dashashvamedha ghat, I invested your brother Rupa with power and told him of krishna-rasa.” And He gave Sanatana four
+commissions:
+
+“My dear Sanatana! I ask you too constantly to spread and preach the sacred scriptures devoted to the science of devotion
+to God, and also to revive throughout Mathura the forgotten places of pilgrimage connected with Krishna's pastimes. I
+entrust you with laying the foundation of how Sri Sri Radha-Krishna should properly be served in Vraja and how all
+Vaishnavas should conduct themselves. Establish this science of bhakti in your works and preach this teaching from
+Vrindavana.” (CC, Madhya 23.97–98)
+
+To establish in the world the siddhanta of pure bhakti; to restore the lost tirthas of Mathura-mandala and determine their
+locations; to manifest the Deity of Krishna in Vrindavana and show how He is to be served; to compile a Vaishnava smriti
+and introduce Vaishnava sadachara, thereby laying the foundations of Vaishnava society — these were the four tasks.
+<!-- F231 F232 -->
+
+The Lord also spoke of renunciation. What is desirable for the jiva is yukta-vairagya — renunciation in which the world is
+used in connection with Krishna; while phalgu-vairagya — dry renunciation which, regarding the world as maya, rejects as
+transient and illusory even what is used in Krishna's service — is always to be rejected. Sanatana questioned the Lord
+further and heard the true meaning of the accounts of the mushala-lila, Krishna's departure, His appearance “from a hair”
+of Vishnu and the abduction of the queens, as well as the most confidential conclusions of the “Bhagavata”:
+
+“Such descriptions as the destruction of the Yadu dynasty, Krishna's departure, the abduction of the queens or the
+appearance of Krishna and Balarama from hairs of Vishnu are products of illusion and wholly contradict all the conclusions
+of the science of devotion to Krishna. Then Sri Chaitanya explained to Sanatana Gosvami how all these stories are rightly
+to be understood.” (CC, Madhya 23.111)
+
+These accounts do not describe the eternal transcendental lila: they are given to bewilder people of demoniac nature who
+are hostile to Vishnu. <!-- F233 F234 F235 -->
+
+Then Sanatana, holding a straw between his teeth, said with great humility:
+
+“‘O my Lord! I am the lowest of men. I constantly served unworthy people and so lost all my former merits. And yet You
+have revealed to me knowledge so confidential that even the creator Brahma cannot grasp it. You have told me the highest
+truths, which lead to the boundless ocean of the nectar of immortality. But my mind cannot touch even one drop of this
+ambrosia of eternal life. If You wish me, a cripple, to begin to dance, then bless me and place Your lotus feet on my
+head. Please say, “May all that I have told you be revealed to you.” By blessing me so, You will give me the strength to
+set out this knowledge in my books.’ Then Sri Chaitanya Mahaprabhu touched Sanatana Gosvami's head with His hand and
+blessed him: ‘May all this be revealed to you!’” (CC, Madhya 23.114–118) <!-- F236 F237 -->
+
+At Sanatana's request the Lord gave sixty-one explanations of a verse of the “Bhagavata”:
+
+“Even sages who rejoice in the self (atmarama), free from all bonds, render selfless service to Urukrama: such are the
+qualities of Hari.” (“Bhagavatam,” 1.7.11)
+
+To Sarvabhauma the Lord had once given eighteen explanations of this verse, to Sanatana He gave sixty-one; along the way,
+telling the story of Narada and the hunter, He glorified association with sadhus. And when Sanatana offered Him praise, the
+Lord revealed the meaning and greatness of the “Bhagavata.” <!-- F238 F239 Q26 -->
+
+With joined palms Sanatana said: “You have ordered me to compile a Vaishnava smriti, but I am low and understand nothing of
+such judgments. Only if You teach me how to do it and Yourself enter my heart can an unworthy man accomplish this service.
+You are Ishvara: whatever You make one do will be accomplished.” The Lord answered: “Whatever you wish to write, Krishna
+will reveal to you; still, I shall give you a few sutras as a direction.” And He listed the subjects of the future book
+(CC, Madhya 24.325–345): shelter at the guru's feet; the characteristics of guru and disciple and their mutual testing; the
+object of worship; mantras, the right to a mantra, perfection in a mantra and purification; initiation; morning
+remembrance and morning duties; cleanliness, achamana, cleaning the teeth, bathing, sandhya-vandana; service to the guru;
+the urdhva-pundra, the marks of the disc and other symbols, gopi-chandana, wearing garlands offered to Krishna; gathering
+tulasi; preparing clothes, seat and house; awakening Krishna and worshipping Him with five, sixteen, fifty and sixty-four
+articles; service at the five times of day, arati, Krishna's meals and rest; the characteristics of the Deity and of the
+shalagrama; pilgrimage to Krishna's places and darshana of His Deities; the glory of the Name and the avoidance of
+offences to the Name; the characteristics of a Vaishnava; the removal of offences in service; the characteristics of the
+conch, water, fragrances, flowers and incense; japa, prayers, circumambulation and obeisances; the rules of purashcharana;
+honouring prasada and refusing what is unoffered; avoiding blasphemy of Vaishnavas; the characteristics of sadhus,
+association with them and service to them, rejection of bad company; hearing the “Bhagavata”; daily, fortnightly and
+monthly duties; Ekadashi, Janmashtami, Vamana-dvadashi, Rama-navami and Nrisimha-chaturdashi, observed on a pure rather
+than a “mixed” tithi, the sin of non-observance and the bhakti that comes from observance; the manifestation of Deities
+and the building of temples of Vishnu; general and Vaishnava sadachara, what should and should not be done, the customs of
+smriti. And everything was to be supported by sayings of the Satvata Puranas. Thus for two months in Kashi the Lord
+imparted the whole bhakti-siddhanta to “His own man,” Sanatana. <!-- F240 F241 F242 F243 Q27 -->
+
+At that same time the Lord delivered the Mayavadi sannyasis of Kashi headed by Prakashananda and taught them the
+unprecedented bhakti-siddhanta of the Brahma-sampradaya, explaining especially that the “Bhagavata” is the genuine,
+natural commentary on the “Brahma-sutra”; from that day the sannyasis of Kashi became devotees of Mahaprabhu.
+
+“All the inhabitants of Varanasi began to sing Krishna's holy name. Feeling a surge of love for Him, they all laughed,
+wept, sang and danced. From then on the sannyasi theologians took up the study of the ‘Srimad Bhagavatam.’ Thus Sri
+Chaitanya Mahaprabhu delivered all the inhabitants of Varanasi.” (CC, Madhya 25.158–159) <!-- F244 Q28 -->
+
+Then the Lord took leave of the devotees one by one and decided to go alone to Nilachala through Jharikhanda, while He
+told Sanatana to go to Vrindavana, to Rupa and Anupama.[^35] With great compassion He charged him with caring for the
+devotees who would come to Vrindavana:
+
+“All My devotees who come to Vrindavana are, as a rule, very poor. Please, Sanatana, take care of them all, for sometimes
+they have only a torn wrap and a water-pot.” (CC, Madhya 25.176) <!-- F245 F246 Q29 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: One of the biographies, citing the “Gaudiya-vaishnava-abhidhana,” puts it more cautiously: “about 1410 Shaka
@@ -437,3 +1003,40 @@ others is tamas, and chanting the Name for worldly ends is a sin. <!-- I8 Q19 Q2
 [^23]: According to another biography, Sanatana had the grocer bring the seven thousand from the money Rupa had left;
     according to a third, he bribed the jailer with money sent by Rupa. Only one biography says that the jailer ferried him
     across at night.
+
+[^24]: So according to two biographies; according to a third, the way lay through the Hazaribagh hills.
+
+[^25]: According to another biography, the landholder had a palmist, who discovered that it was Ishana who carried eight
+    coins.
+
+[^26]: The third biography tells it more briefly: on the way Sanatana and Ishana stopped at an inn; realising that the
+    host meant to kill them for Ishana's gold, Sanatana had him give the man his last coin and ask for help in getting
+    through the jungle, and the host, moved, a chief of the local robbers, led them through the jungle and the Hazaribagh
+    hills.
+
+[^27]: According to another biography, Shrikanta lived in Hajipur; the third does not name Hajipur.
+
+[^28]: According to the other biographies — a costly blanket of Bhutanese wool, or simply a fine woollen blanket.
+
+[^29]: According to another biography, Chandrashekhara was a physician.
+
+[^30]: One of the biographies names the hell here as Maharaurava, another as Raurava.
+
+[^31]: So according to two biographies: the old cloth was given by Tapana Mishra (in one of them “Mishra” is named in a
+    passage that had been speaking of Chandrashekhara). According to the third, Chandrashekhara wanted to give a new cloth,
+    but Sanatana took his own old one: formerly he had clothed thousands of beggars, and now he did not want new cloth for
+    himself; he tore it in two, into a bahirvasa and an uttariya. One of the biographies adds that Sanatana accepted the
+    dress of a babaji.
+
+[^32]: One of the biographies gives this verse as “2.6.220”; the correct reference is Antya 6.220. The other references of
+    that biography to the “Chaitanya-charitamrita” have been checked and are correct. Another biography gives the
+    instructions on the “Hari-bhakti-vilasa” as “Madhya 29.326–345” (correctly Madhya 24.325–345), and the description of
+    the Gosvamis' life in Vraja as Madhya 19.128–132 (19.127–132 in the translation from which the quotations here are
+    taken).
+
+[^33]: According to the other biographies, the blanket was taken by a Bengali beggar washing his kantha at the ghat, or by
+    a brahmana at a ghat of the Ganga.
+
+[^34]: So (“three gold coins”) also in one of the biographies; according to another, “worth three coins.”
+
+[^35]: According to another biography, the Lord went to Puri “by a little-frequented road.”
