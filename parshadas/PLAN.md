@@ -91,7 +91,7 @@ B — вероятно, больше сотни).
 | @srivasa (005) | ✓ | — | — |
 | @gauridasa-pandita (006) | ✓ | ✓ (PDF) | — |
 | @jahnava (007) | ✓ | ✓ (PDF) | — |
-| @narahari-sarakara (008) | ✓ | — | — |
+| @narahari-sarakara (008) | ✓ | ✓ (PDF) | — |
 | @vasu-ghosha (009) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
