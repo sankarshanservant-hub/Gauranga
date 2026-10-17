@@ -323,6 +323,224 @@ in which, he says, knowing Vaishnavas will easily recognise Jiva's hand.[^20] Ji
 Vedanta equal to Ramanuja; his “Shat-sandarbha” is a jewel of the world: whoever understands it well will find no Vedantic
 argument unknown to him. <!-- F92 F93 F94 F95 Q15 -->
 
+## Slanders and the Acharyas' Answer
+People of superficial vision, not grasping the line of thought of Jiva, the best of the Rupanugas, hold distorted
+opinions about him and so deprive themselves of the kingdom of pure bhakti. Srila Bhaktisiddhanta, in the “Anubhashya”
+(on CC, Adi 10.85), where Jiva's life is briefly told, warns the inexperienced: among the ignorant prakrita-sahajiyas three
+slanders about Jiva are current. Whoever yields to them becomes hostile to Krishna, the guru and the Vaishnavas, sinks ever
+deeper into offences and loses his taste for service. Only when by Krishna's mercy such people see themselves as eternal
+servants will they receive Jiva's blessing, understand what it means to be “humbler than a blade of grass” and to “honour
+all”, and be able to chant the Holy Name properly. <!-- F96 Q13 I11 -->
+
+The first slander concerns a pandita-digvijayi — a “conqueror of the quarters” — who sought worldly fame. He obtained from
+Sanatana and Rupa, the crown jewels of the unpretentious (nikinchana-shiromani), a certificate of victory (jaya-patra): the
+gurus of Jiva acknowledged defeat without debate, as though they were not learned. Then the proud man began to revile
+them as ignoramuses and demanded the same certificate from their disciple. Jiva entered into debate with him, defeated
+him, silenced the tongue of the reviler of his gurus, and revealed the glory of the effulgence of his teachers' toenails.
+By this he showed what a true disciple is — a “guru-devatma”, who sees in the guru his deity and his very life. <!-- F97 -->
+
+Those averse to Hari, failing to understand this, did not scruple to call Jiva a violator of the verse on humility —
+“trinad api sunichena” (“humbler than a blade of grass”) — and invented a story that his guru punished him for it.[^21]
+Srila Bhaktisiddhanta calls this story a slander of the sahajiyas: victory over the reviler of one's gurus is not a breach
+of humility but a model of a disciple's fidelity. Whoever sees anger and pride in it is like certain present-day worldly
+men of letters who, seeing Vrindavana Dasa Thakura's anger at the revilers of Nityananda, took even him, an avatara of
+Vyasa, to be subject to passions; a stream of such opinions about Jiva can be seen in the “Bhakta-mala” of Laladasa and
+similar books. <!-- F98 I10 F69 F70 F71 -->
+
+The second slander concerns a well. Certain envious people spread a story that Jiva threw the “Chaitanya-charitamrita” into
+a well, and that Krishnadasa Kaviraja, hearing of it, gave up his life; the book supposedly survived only because the
+Kaviraja's disciple Mukunda had copied it beforehand.[^22] Srila Bhaktisiddhanta calls this a contemptible fabrication,
+born of enmity towards the guru and the Vaishnavas and without any foundation. <!-- F99 F100 -->
+
+The falsity of this story is seen also from another tradition, itself apparently interpolated and contradictory. The
+“Prema-vilasa” (13th vilasa) says that when the books Jiva had sent to Gauda with Srinivasa, Narottama and Shyamananda
+were seized by King Vira Hambira of Vana-Vishnupura and the news reached Vraja, the Kaviraja left his body at Radha-kunda,
+calling on the mercy of the Lord's associates:
+
+“Lokanatha, Gopala Bhatta, Sri Jiva Gosani, show me mercy — I have no one”. (“Prema-vilasa”, 13.136)
+
+But if the Kaviraja died at the news of the theft even before Srinivasa, then still unmarried, first brought the books to
+Yajigrama, how could Jiva in a later letter, when Srinivasa already had sons and daughters, report: “From here — the
+obeisances of Sri Krishnadasa” (“Prema-vilasa”, 25, letter 6)? Such contradictions show that these traditions are
+malicious and were inserted later.[^23] <!-- F100 F101 Q16 I12 -->
+
+## Svakiya and Parakiya
+The third slander touches the most intimate realm — the rasa of the gopis. Worldly sahajiyas, devoted to gratifying the
+senses, say that Jiva did not follow Rupa in accepting the parakiya-rasa of the gopis of Vraja but approved svakiya-rasa —
+that in his treatises he rejected parakiya-vada, the teaching that the gopis of Vrindavana were “married to others” — and
+that he is therefore not a true Rupanuga and not a rasika-bhakta. This opinion is refuted by the very conduct and teachings
+of the disciples Jiva trained — Srinivasa Acharya, Narottama Thakura and Shyamananda. <!-- F102 F103 -->
+
+Srila Bhaktisiddhanta explains why Jiva spoke of svakiya. Already in his lifetime some of his followers inclined towards
+svakiya-vada. Seeing their limitations, Jiva, for their sake — and for the sake of those in future who would not grasp
+the transcendental nature of parakiya-vada and, imitating Krishna, would fall into adultery — gave room to the teaching of
+svakiya. That is just how an acharya should act. To conclude from this that Jiva opposed the transcendental parakiya-vada
+is impossible: he is the best of Rupa's followers and one of the shiksha-gurus of Krishnadasa Kaviraja. Bhaktivinoda Thakura
+writes the same: the “parakiya”-bhakti of worldly-minded people in many places degenerates into worldly lawlessness, and,
+seeing this, “our tattva-acharya” Jiva grew alarmed and spoke his words. To accept their essence is pure Vaishnavism; to try
+to establish another view by belittling the acharya is an offence. <!-- F104 F105 F141 I13 I14 -->
+
+That Jiva himself held to Rupa's intention is attested by his followers. Yadunandana Dasa Thakura, a disciple of Hemalata
+Thakurani, the eldest daughter of Srinivasa Acharya, tells in the “Karnananda” how Raghunatha Dasa settled at Radha-kunda:
+
+“Having settled all this, Sri Dasa Gosani made rules for himself and settled there, on the bank of the kunda. With him
+were Krishnadasa and Lokanatha Gosani; day and night — unceasing talk of Krishna. At that time the book called
+«Gopala-champu» they all relished together unceasingly. Relishing it, they rejoiced greatly at heart; but very hard to grasp
+is the intent of its verses: by the outward meaning it is understood as svakiya, but the inner meaning is parakiya alone.
+Not understanding Sri Jiva's deep heart, outsiders explain it as svakiya; but the inner meaning of the book points to
+parakiya. They were all immersed in bliss, relishing this”. (“Karnananda”, 4.431–437) <!-- F106 Q17 -->
+
+What Jiva intended in his commentary “Lochana-rochani” on the “Ujjvala-nilamani” was disclosed by Vishvanatha Chakravarti in
+his commentary “Ananda-chandrika”, and the purpose of that intention was explained by Narahari Chakravarti. In the
+“Narottama-vilasa” (in the verses about himself as author) he writes: in his commentary on the “Ujjvala-nilamani” Jiva gave
+many explanations for the sake of people of a bad disposition; the ill-intentioned do not understand his words and bring
+disquisitions on tattva into all the lilas. Jiva is a follower of Rupa; by his mercy the truth reveals itself in the heart
+— who, then, can understand the words of such a Jiva? And Vishvanatha is not different from Jiva in outlook: Rupa's intention
+was manifest in him, and together with Radhika and her friends he showed the world great mercy. <!-- F107 F108 Q18 -->
+
+The dispute over svakiya and parakiya did not die down later either. Tradition tells that the Jaipur pandita-digvijayi
+Krishnadeva Sharma, with a decree from the Delhi padishah Muhammad Shah, at the head of troops and vassals, appeared at the
+court of the Murshidabad nawab Jafar Ali and demanded a debate on svakiya and parakiya. Then Radhamohana Thakura, a
+descendant of Srinivasa Acharya, conducted the examination for six months, established the siddhanta of parakiya and made
+Krishnadeva his disciple. The dispute was decided in the month of vaishakha of the year 1128;[^24] the certificates of
+defeat (ajaya-patra) and of renunciation (istafa-patra) issued at that debate survive to this day. <!-- F109 F110 F111 -->
+
+## Goloka and Gokula: Bhaktivinoda's Explanation
+That Jiva's siddhanta always remains within the bounds of the instructions of Rupa and Sanatana, Bhaktivinoda Thakura
+showed with many arguments from shruti in his commentary “Prakashini” on the “Brahma-samhita” (on verse 5.37,
+“ananda-chinmaya-rasa…”). Jiva, he writes, is “our tattva-acharya” and therefore always within the bounds of the
+instructions of Rupa and Sanatana; more than that, in Krishna's lila he is a special manjari and knows every truth. Failing
+to grasp his intention, some interpret him at their whim and divide everyone into supporters and opponents. What follows
+is the course of that argument. <!-- F112 F114 -->
+
+In his explanation of the verse of the “Brahma-samhita”, in his commentary on the “Ujjvala-nilamani”, in the
+“Krishna-sandarbha” and elsewhere Jiva says: Krishna's manifest (prakata) lila is arranged by Yogamaya. Because it is in
+contact with mundane qualities, actions appear in it that cannot exist in the essential truth (svarupa-tattva) — the
+slaying of asuras, “possessing the wives of others”, birth and the like. The gopis belong to Krishna's svarupa-shakti and
+are therefore His own (svakiya); how could they be “wives of others”? Their “marriage to others” in the manifest lila is
+only an appearance, a notion created by Yogamaya.[^25] If the hidden meaning of these words of Jiva is disclosed, says
+Bhaktivinoda, no doubt will remain. <!-- F113 -->
+
+According to Rupa and Sanatana, the unmanifest (aprakata) and the manifest lilas are not different: one is manifest beyond
+the world, the other within it. In the transcendental manifestation both the seer and the seen are wholly pure. The full,
+pure lila of Goloka can be seen and relished only by one who by great fortune and Krishna's mercy has left all connection
+with the world and entered the spiritual world, and who moreover in the time of sadhana attained perfection in relishing
+the variety of rasa — and such a one is rare. But one who, while still in this world, has by perfection in bhakti and
+Krishna's mercy gained experience of the spiritual sees the lila of Goloka in the earthly lila of Gokula. Even here there is
+a difference: until full perfection (vastu-siddhi) is reached, obstacles from maya remain in the vision of Goloka, and the
+vision of devotees differs according to how far each has attained his spiritual form (svarupa-siddhi). Only those wholly
+bound by maya lack the eyes of bhakti: some are fettered by its variety, others, relying on knowledge turned away from
+Bhagavan, hope for “final annihilation”; even looking at the manifest lila, they see in it only the mundane, without any
+connection with the unmanifest. <!-- F115 F116 F117 F118 -->
+
+The subtle truth is that as Goloka is pure, so Gokula too is pure, without the slightest taint, though it is manifest in
+the world by Yogamaya — the Lord's spiritual (chit) shakti. In neither the manifest nor the unmanifest lila is there any
+taint of maya, any lowness or incompleteness; only according to the level of those who see does the lila appear otherwise.
+Taint, lowness, limitation, maya, ignorance, impurity, emptiness, insignificance, coarseness — all this lies in the worldly
+eyes, mind, reason and ego of the seer, not in what he sees; and the freer he is from these defects, the more he is able to
+see the pure truth. The truth revealed in shastra is free from taint; only in those who discuss it, according to their
+level, do notions “with taint” or “without it” arise. So too the sixty-four arts (chatuh-shashti-kala), spoken of earlier
+in the “Prakashini”, exist originally and in pure form in Goloka, and the impression of lowness and coarseness comes only
+from the level of those who discuss them. <!-- F119 F120 -->
+
+According to Rupa and Sanatana, all kinds of lila manifest in Gokula exist in Goloka as well — in integral form, without a
+whiff of maya. Therefore parakiya-bhava too must exist in Goloka in some inconceivably pure form. All that Yogamaya manifests
+is pure; “marriage to others” is created by Yogamaya and must therefore have its basis in some pure truth — and that is
+what must be investigated. Rupa in the “Ujjvala-nilamani” writes of the hero (nayaka): of his four kinds (dhirodatta and
+the others) “two divisions are known here — pati and upapati”, the husband and the lover of another's wife. The pati takes
+the maiden's hand in marriage; the upapati, out of passion (raga), seeking another's woman and counting her love as
+everything, transgresses dharma. But the “lowness” spoken of here belongs to the mundane hero, not to Krishna, who has
+descended to taste the essence of rasa; and what is said of heroines — that a married woman is unfit for the principal rasa
+of drama — refers to mundane, petty heroines. Having examined these verses many times, Jiva recognised “marriage to others”
+as a play of appearance (vibhrama-vilasa) created by Yogamaya, like the lilas of birth and the like; and yet he expressed
+his deep intention in the words: “tathapi patih pura-vanitanam dvitiyo vraja-vanitanam” — “and yet for the wives of the
+city He is the husband, and for the wives of Vraja the second”, that is, the upapati. The play of appearance created by
+Yogamaya is accepted by Rupa and Sanatana too; but since Jiva affirmed the oneness of Goloka and Gokula, it must be admitted
+that all the lilas of Gokula have an original, root truth. <!-- F121 F122 F123 F124 Q19 Q20 -->
+
+In Goloka there is no dharma of the marriage bond, and hence no “husbandhood” of Krishna in that sense; and since the
+gopis, who rest on His own svarupa, are not married to others, there is no “upapati-hood” of His either: there svakiya and
+parakiya cannot be established separately. But in the manifest lila in the world the dharma of marriage exists, and
+Krishna is above it; therefore the dharma that forms the circle of madhurya is arranged by Yogamaya, and by transgressing it
+Krishna relishes parakiya-rasa. This lila of transgressing dharma is seen in the world only by people whose eyes are veiled
+by the world; in truth there is no such lowness in Krishna's lila. Parakiya-rasa is the essence of all rasas; to say that it
+is absent in Goloka is to belittle Goloka: it cannot be that in the highest abode the highest rasa is not relished.
+Krishna, the source of the avataras, relishes it in one form in Goloka and in another in Gokula. Therefore, although
+“marriage to others” looks to worldly eyes like a transgression of dharma, some truth of it exists in Goloka as well.
+<!-- F125 F126 -->
+
+The words of the “Bhagavatam” — “atmaramo ’py ariramat” (“though He rejoices in Himself, He enjoyed pastimes”), “atmany
+avaruddha-sauratah” (“He held His amorous bliss within Himself”), “reme vraja-sundaribhir yatharbhakah
+pratibimba-vibhramah” (“He played with the beauties of Vraja as a child plays with his reflection”) (Srimad-Bhagavatam,
+10.29.42; 10.33.25; 10.33.16) — show that contentment in Himself (atmaramata) is Krishna's very nature. In the spiritual
+world full of majesty (aishvarya) He manifests His shakti as Lakshmi and enjoys with the awareness “she is Mine”; because
+this awareness is strong there, rasa flows only as far as dasya-rasa. But in Goloka He divides His shakti into hundreds and
+thousands of gopis and, forgetting that they are His own, eternally enjoys with them. In the awareness “she is one's own”
+rasa does not reach its utmost rarity; therefore the gopis have, from beginningless time, the natural awareness of being
+“married to another” (parora-abhimana), and Krishna, following it, takes on the awareness of a lover (aupapatya) and, with
+the help of His dear friend the flute, performs the rasa-lila and other pastimes. Goloka is the eternally perfect abode of
+rasa, beyond worldly notions, and rasa flows there by this awareness (abhimana) alone. <!-- F127 F128 Q21 -->
+
+So too vatsalya directed towards the source of the avataras is absent in Vaikuntha — such is the way of majesty; in Goloka
+there is only the original awareness of this rasa. Nanda and Yashoda are present there, but there is no event of birth:
+their fatherhood and motherhood are not a mundane fact but an awareness (abhimana), as it is said: “jayati jana-nivaso
+devaki-janma-vadah” — “glory to Him who dwells in all, of whom it is said that He was born of Devaki” (Srimad-Bhagavatam,
+10.90.48). This awareness is eternal for the sake of the perfection of rasa. If in shringara the awareness of being
+“married” and the awareness of being “the lover” are likewise eternal, there is no defect in this and no contradiction of
+shastra. When the truth of Goloka reveals itself in Vraja, both these awarenesses appear somewhat coarse to worldly vision:
+in vatsalya the awareness of Nanda and Yashoda appears as the lila of Krishna's birth, in shringara the gopis' awareness of
+being “married” appears as marriage to Abhimanyu, Govardhana and others. In truth the gopis have no husbands with separate
+existence either in Goloka or in Gokula; therefore shastra says: “na jatu vraja-devinam patibhih saha sangamah” — “never do
+the goddesses of Vraja have union with husbands”. <!-- F129 F130 Q22 Q23 -->
+
+Therefore Rupa, the acharya of the teaching on rasa, names two kinds of hero in ujjvala-rasa — “patish chopapatish cheti
+prabhedav iha vishrutau” — while Jiva, with the words “patih pura-vanitanam dvitiyo vraja-vanitanam”, acknowledges Krishna's
+“husbandhood” in Vaikuntha, Dvaraka and other abodes and His eternal upapati-hood in Goloka and Gokula: the marks of the
+upapati are fully seen in the Lord of Goloka and in the Lord of Gokula. Krishna, content in Himself, transgresses this
+dharma of His out of raga — the longing to meet the “married” ones; and the gopis' “marriage” is their eternal awareness:
+though they have no husbands with separate existence, this awareness makes them “others'” there. Therefore
+“ragenollanghayan dharmam” (“transgressing dharma out of raga”) and the other marks of the upapati are eternally present in
+the abode of madhurya, while in Vraja people with worldly eyes see them in a somewhat coarse form. <!-- F131 F132 -->
+
+In Goloka between parakiya- and svakiya-rasa there is inconceivable difference and non-difference: one may say there is no
+difference, and one may say there is no non-difference. The essence of parakiya lies in the cessation of the awareness of
+svakiya, the essence of svakiya in the cessation of parakiya — that is, in enjoyment with the svarupa-shakti without the
+rite of marriage; in this both are one rasa and the basis of both varieties. So also in Gokula — only those who see from the
+world have a different notion. In Govinda, the hero of Goloka, “husbandhood” and upapati-hood, free from dharma and adharma,
+abide in purity; in the hero of Gokula likewise, but Yogamaya creates a variety of notions. If it is asked: “Everything
+Yogamaya manifests is the highest truth, created by the chit-shakti; then is the notion of «marriage to others» true just as
+it is?” — the answer is this: in relishing rasa such an awareness may exist, and there is no defect in it, for it is not
+groundless; the defect lies only in the low notion born of the worldly mind, and that cannot exist in the pure world.
+<!-- F133 F134 -->
+
+So, Bhaktivinoda concludes, Jiva drew his conclusion rightly, and the conclusion of the other side is also inconceivably
+true; false and empty is only the barren worldly quarrel “svakiya-vada versus parakiya-vada”. Whoever impartially studies
+the commentaries of Jiva and of the other side will have no doubts left. All that pure Vaishnavas say is true; there are no
+parties among them, and in their “war of words” a mystery is hidden. People of worldly mind, devoid of pure Vaishnavism, do
+not understand this loving mystery and ascribe partisanship to the Vaishnavas. So too Sanatana's explanation in the
+“Vaishnava-toshani” of the verse of the rasa-panchadhyayi “gopinam tat-patinam cha” was accepted by Vishvanatha
+Chakravarti without objection, with reverence. <!-- F135 F136 I16 -->
+
+In every discussion of Goloka one must remember the teaching of Mahaprabhu and the Gosvamis: Bhagavat-tattva is always
+varied with spiritual particularities beyond the mundane and is never impersonal; Bhagavan's rasa — with vibhava, anubhava,
+sattvika- and vyabhichari-bhavas — is beautiful in its variety and abides eternally in Goloka and Vaikuntha. By the power of
+Yogamaya the rasa of Goloka is manifest in the world for the good of the devotees and is perceived as vraja-rasa.
+Everything seen in the rasa of Gokula exists clearly in Goloka too: the variety of lovers and relishers, land, water,
+rivers, hills, houses and doors, kunjas, cows — all the belongings of Gokula exist in Goloka in integral form; only the
+worldly notion of them is absent there. <!-- F137 F138 -->
+
+In the manifold lila of Vraja a different revelation (sphurti) of Goloka opens to each according to his level (adhikara);
+which parts of it come from maya and which are pure is hard to decide. The more the eyes of bhakti are washed by prema or
+lined with its collyrium, the clearer the revelation. There is no point in arguing: argument does not raise one's level,
+for the truth of Goloka is an inconceivable feeling (achintya-bhava); to seek it by speculation is like pounding empty
+husks. One must give up the efforts of jnana and gain experience by the effort of bhakti, and reject everything that in the
+end leads to an impersonal notion. Pure parakiya-rasa, free from the notions of maya, is extremely rare; it is described in
+the lila of Gokula. Relying on it, let raganuga-bhaktas practise sadhana — and at the time of perfection they will attain
+the still more desirable original truth. Thus the parakiya-bhava of Vraja proves to be no worldly liaison: the gopis'
+“marriage” is an appearance created by Yogamaya, they have no husbands with separate existence either in Goloka or in
+Gokula, and their awareness of being “others'” and Krishna's awareness of being their “lover” are eternal for the sake of
+the highest rarity of rasa; it looks low only to worldly vision. <!-- F139 F140 I15 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -398,3 +616,30 @@ argument unknown to him. <!-- F92 F93 F94 F95 Q15 -->
     views and created the new teaching of “Vallabha”, and through his efforts Madhavendra Puri's Gopaladeva was moved to
     present-day Nathdwara. On another dispute between Jiva and Vallabha Bhatta, told by the “Bhakti-ratnakara”, see note
     21 below.
+
+[^21]: The sahajiyas say that Rupa reproached Jiva for the debate with the digvijayi and rejected him for a time, and that
+    only Sanatana's intercession brought Jiva back into Rupa's company. A similar story, connected not with the digvijayi
+    but with Vallabha Bhatta, is told by the “Bhakti-ratnakara” (5th wave), and after it by one of the biographies (see also
+    the article on Rupa Gosvami). Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him; Vallabha Bhatta
+    came and proposed corrections to the opening verses. Jiva, angered by his presumption, followed him to the Yamuna, as if
+    to fetch water, and refuted all his objections. Vallabha told Rupa of the dispute; Rupa gently reproached Jiva and told
+    him to return to Bengal and come back only when he had calmed down. Jiva, however, went not home but to the
+    neighbouring village of Nanda-ghat, and there, to regain his guru's mercy, worshipped Krishna intently, fasted or ate
+    the merest morsel, and grew very weak in body. Sanatana, happening to come there, found him, brought him to Rupa and
+    begged forgiveness for him; Rupa and Jiva were reconciled. Another biography tells something different about Vallabha
+    Bhatta (see above, the section “Master of Vedanta”) and says nothing of any banishment.
+
+[^22]: The biographies name different motives: one, envy of the beauty of the “Chaitanya-charitamrita”; the other, Jiva's
+    fear for his reputation as a scholar after reading in it a clear exposition of vraja-bhava.
+
+[^23]: The argument of one of the biographies rests on Jiva's letters preserved in the “Prema-vilasa” and the
+    “Bhakti-ratnakara”. In our translation of the “Prema-vilasa” Srinivasa's son Vrindavana Dasa is mentioned in letter 3
+    (Jiva's second letter to Srinivasa), and Krishnadasa's obeisances stand at the end of letter 6 — Jiva's fourth letter,
+    addressed not to Srinivasa but to Govinda Kaviraja. The conclusion does not change: the Kaviraja was alive when
+    Srinivasa already had a family.
+
+[^24]: The era is not named; by the sense it is the Bengali era (about 1721 CE; our own conversion).
+
+[^25]: The Bengali text here says “created by maya”. What is meant is Yogamaya — the Lord's spiritual power that arranges
+    His pastimes — not the mundane maya that binds living beings: the Lord and His associates are not subject to it.
+    Bhaktivinoda himself understands it so below: “all that Yogamaya manifests is pure”.
