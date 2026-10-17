@@ -277,7 +277,7 @@ arrive. <!-- F38 Q5 F39 -->
 
 Meanwhile Ramananda, at the Lord’s bidding, had handed over his duties to a successor and petitioned the king for
 retirement, so as to spend the rest of his life with the Lord. A few days later Prataparudra, with Ramananda and other
-courtiers, came from his capital Kataka to Puri, and Ramananda hastened first of all to the Lord’s feet.[^4] He told
+courtiers, came from his capital Cuttack to Puri, and Ramananda hastened first of all to the Lord’s feet.[^4] He told
 Him that he had conveyed His will to the king: that he should leave the royal service. The king had gladly agreed,
 saying that no one is more fortunate than one who serves the feet of Chaitanya, and had promised to pay him his full
 salary even after retirement. “The king will be blessed by serving such a mahabhagavata,” the Lord replied. <!-- F136 F40 F41 F120 -->
@@ -314,9 +314,9 @@ Of the first years the Lord spent in Nilachala after sannyasa, two went to the j
 more He wished to go to Vrindavana but could not set out: Ramananda and Sarvabhauma, at the king’s special request, did
 all they could to keep Him in Puri and put various obstacles in His way. At last they gave in. <!-- F47 F133 F134 -->
 
-After Vijaya-dashami the Lord set out by way of Gauda. Ramananda came with Him to Kataka, where in a garden under a
+After Vijaya-dashami the Lord set out by way of Gauda. Ramananda came with Him to Cuttack, where in a garden under a
 bakula tree the Lord met Prataparudra; and then, when the Lord crossed the Chitrotpala, he went on after Him together
-with Mardaraja and Hari-chandana. Only at Remuna did the Lord send him back.[^5] That parting cannot be described in
+with Mardaraja and Harichandana. Only at Remuna did the Lord send him back.[^5] That parting cannot be described in
 words:
 
 “Unable to bear the pain of separation, Ramananda Raya lost consciousness and fell to the ground, and Sri Chaitanya
@@ -328,7 +328,7 @@ Shantipura, where He instructed Raghunatha dasa, came back to Nilachala. Among t
 Mishra, Ramananda, Pradyumna, Sarvabhauma, Vaninatha and Shikhi Mahiti (CC, Madhya 16.254). In the autumn the Lord again
 wished to go to Vrindavana and secretly consulted Ramananda and Svarupa. He wanted to go alone, by night, through the
 forests, but they persuaded Him to take companions and gave Him Balabhadra Bhattacharya and another brahmana. And when
-the Lord, having visited Vrindavana, Prayaga and Kashi, returned through Jharikhanda, Ramananda came from Kataka to
+the Lord, having visited Vrindavana, Prayaga and Kashi, returned through Jharikhanda, Ramananda came from Cuttack to
 see Him. <!-- F49 F143 F155 F50 -->
 
 ## Rupa and Sanatana
@@ -722,12 +722,12 @@ Himself revealed to the world the truth about the transcendental rasas.” (CC, 
     the biographies, citing the Madhya-khanda of the “Chaitanya-mangala”, speaks of a meeting on the Godavari and a
     vision of Rasaraja and Mahabhava; in the poem itself the meeting is told at the beginning of the Shesha-khanda and
     takes place in Kanchi.
-[^4]: According to another biography, Ramananda first met the king in Kataka, then in Puri, and only after that went
+[^4]: According to another biography, Ramananda first met the king in Cuttack, then in Puri, and only after that went
     to the Lord at Kashi Mishra’s house.
 [^5]: One of the biographies, naming Remuna, allows that it may have been Bhadrak; others say only that Ramananda came
-    with the Lord to Kataka and accompanied Him beyond the Chitrotpala.
+    with the Lord to Cuttack and accompanied Him beyond the Chitrotpala.
 [^6]: According to one account, Prataparudra pardoned Gopinatha remembering how close he was to the Lord and to
-    Ramananda; according to another, the execution was called off after the minister Hari-chandana told the king
+    Ramananda; according to another, the execution was called off after the minister Harichandana told the king
     everything.
 [^7]: One of the biographies gives both opinions — Jyeshtha krishna-panchami and Vaishakha krishna-panchami; when the
     months are counted from the full moon (purnimanta) and from the new moon (amanta), they probably coincide. Other
