@@ -826,7 +826,8 @@ established by this shakti is truth, obtained by mercy. The ancients taught not 
 argument about it never becomes proof; for those who forget this there is no end of misfortune. <!-- F207 -->
 
 ## Writings
-Jiva wrote so much that no authoritative source gives a complete list of his books. Krishnadasa Kaviraja, speaking of the
+This teaching Jiva set out in his books, and he wrote so much that no authoritative source gives a complete list of
+his writings. Krishnadasa Kaviraja, speaking of the
 books of the Gosvamis of Vraja, says of him:
 
 “Sri Rupa's nephew, named Sri Jiva Gosvami, also wrote many excellent works on bhakti. In his «Sri Bhagavat-sandarbha» he
