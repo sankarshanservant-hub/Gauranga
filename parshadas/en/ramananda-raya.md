@@ -458,6 +458,258 @@ his birth. Ramananda is the teacher of brahmanas and sannyasis, a guru even for 
 world. No wonder the “Bhakti-ratnakara” says that “through Ramananda” the Lord crushed the pride of Kandarpa, the god of
 love (“Bhakti-ratnakara”, 1.630–631). <!-- F127 F66 I1 I6 F146 Q37 -->
 
+## Vallabha Bhatta, Gopinatha, Haridasa
+When the learned Vallabha Bhatta came to Puri, the Lord, speaking of Himself with pointed humility, glorified Ramananda
+before him as His teacher:
+
+“And Srila Ramananda Raya is an unsurpassed knower of all kinds of relationship with Krishna (rasas). He explained to
+Me the supreme position of Krishna as the original Bhagavan, the source of all forms and moods of God. Ramananda Raya
+revealed to Me that unalloyed love for Krishna is the highest of life’s goals. And among all loving moods, the highest
+perfection is granted by the path of pure spontaneous attraction. <…> All these truths were told to Me by Sri
+Ramananda Raya, who possesses unsurpassed knowledge of the rasas (transcendental relationships with God). Truly, to
+hear him is the highest bliss. The power of Sri Ramananda Raya cannot be described in words. By his mercy the pure love
+of the residents of Vrindavana for Krishna was revealed to Me.” (CC, Antya 7.23–24, 36–37)
+
+Between these words the Lord explained that love born of awareness of Krishna’s majesty does not lead to Vrindavana,
+while the pure (kevala) love of Vraja forgets majesty and is therefore higher than it (CC, Antya 7.25–35). Thus for the
+Lord Ramananda was the knower both of the relationship with God and of the highest goal, the finest connoisseur of the
+pure rasas of Vrindavana. <!-- F67 F128 Q15 -->
+
+Others too saw the Lord’s mercy upon Ramananda. His brother Gopinatha Pattanayaka, whom the king pardoned when he was
+already on the scaffold,[^6] said to the Lord:
+
+“You have poured Your mercy in full upon Ramananda Raya and Vaninatha, freeing them from everything worldly. But I have
+not been granted such mercy. Please give me Your pure mercy, ridding me of attachment to the world.” (CC, Antya
+9.138–139) <!-- F141 Q35 -->
+
+Ramananda was in Nilachala also when Haridasa Thakura departed: “Before all these great devotees, such as Ramananda Raya
+and Sarvabhauma Bhattacharya, Sri Chaitanya began to glorify the saintly qualities of Haridasa” (CC, Antya 11.50). When
+Nityananda came to Nilachala, Ramananda, Svarupa and Haridasa bowed to Him with special reverence. <!-- F129 F155 -->
+
+## Intimate Companion in Separation
+Of all Gaura’s devotees only “three and a half” belonged to the innermost circle of Srimati Radharani:
+
+“In this whole universe only three and a half worthy devotees were of the closest personal entourage of Srimati
+Radharani. These three are Svarupa Damodara, Ramananda Raya and Shikhi Mahiti, and the half is his sister Madhavi.” (CC,
+Antya 2.105–106)
+
+The Lord Himself told Prataparudra that He had come to Purushottama for the sake of three: “I have come here for the
+sake of three persons: you, Sarvabhauma and Ramananda Raya” (CB, Antya 5.202). <!-- F54 Q8 F55 Q9 -->
+
+With the Lord, according to Kaviraja, different devotees were bound by different rasas:
+
+“Sri Chaitanya relished the feelings of parental love with Paramananda Puri, friendship with Ramananda Raya, servitude
+with Govinda and others, and the rasa of conjugal love with Gadadhara, Jagadananda and Svarupa Damodara.” (CC, Madhya
+2.78)
+
+At the same time Ramananda, Gadadhara and Svarupa are named the chief energies of madhura-rasa — the Lord’s helpers in
+tasting separation. <!-- F72 Q19 F147 -->
+
+In the last years, when the Lord lived day and night in separation from Krishna, by day He sang the names and went for
+darshana of Jagannatha, and by night He tasted the rasa of love for Krishna with two constant companions — Ramananda and
+Svarupa:
+
+“When Sri Chaitanya suffered the severe pangs of separation from Krishna, Ramananda Raya told Him about Krishna and
+Svarupa Damodara sang. And only this kept Him alive. <…> As the cowherd boy Subala once consoled Krishna in friendship,
+so Ramananda Raya consoled Sri Chaitanya, who was suffering separation from Krishna. <…> No one can describe the good
+fortune of Ramananda Raya and Svarupa Damodara. All people sang their praises as very close associates of Sri
+Chaitanya.” (CC, Antya 6.6, 9, 11)
+
+By night the Lord confided to them all that lay hidden in His heart:
+
+“With the coming of night Sri Chaitanya confided to Svarupa Damodara and Ramananda Raya all the intimate feelings of
+His heart. <…> Embracing Ramananda and Svarupa by the neck and wholly losing His peace and self-control, He lamented:
+‘Where is My Lord Hari? Where is He?’” (CC, Antya 14.40, 42) <!-- F68 Q16 F73 Q20 F69 Q17 I9 -->
+
+In Gaura, overwhelmed by Radha’s feeling in separation, all ten states of the gopis whose Beloved has gone away became
+manifest, and in those days Ramananda served the Lord by reciting shlokas suited to the moment. When the Lord vanished
+from His room and was found now at the Lion Gate with His body unnaturally lengthened, now in the coastal dunes, which
+He took for Govardhana, Ramananda and Svarupa were beside Him:
+
+“And with these words Sri Chaitanya embraced Svarupa Damodara and Ramananda Raya by the neck and asked them: ‘What am I
+to do now? Where shall I go and where seek Krishna? Tell Me, how can I attain Him?’ <…> These two devotees tried to
+console Him at least a little. Svarupa Damodara sang songs in tune with Sri Chaitanya’s feelings, and Ramananda Raya
+read aloud the poetry of the scriptures. And hearing those songs and quotations from Bilvamangala Thakura’s
+‘Krishna-karnamrita’, the poetry of Vidyapati and Jayadeva Gosvami’s ‘Sri Gita-govinda’, Sri Chaitanya felt the
+greatest bliss.” (CC, Antya 15.24, 26–27) <!-- F70 F130 -->
+
+As daily the Lord relished the songs of Vidyapati and Chandidasa and Bilvamangala’s “Krishna-karnamrita”, so too He
+relished Ramananda’s drama:
+
+“With great happiness, together with Ramananda Raya and Svarupa Damodara, He sang all day and night the songs of
+Chandidasa and Vidyapati, and verses from the ‘Gita-govinda’, the ‘Krishna-karnamrita’ and the
+‘Jagannatha-vallabha-nataka’.” (CC, Madhya 2.77) <!-- F81 Q22 -->
+
+Once, having received Jagannatha’s vallabha-bhoga, the Lord spoke of the glory of the nectar of Krishna’s lips, and at
+His bidding Ramananda recited verses of the “Bhagavatam” — “surata-vardhanam…” (10.31.14) and “gopyah kim acharad…”
+(10.21.9). With these two most intimate companions the Lord also relished, day and night in Purushottama, His own
+“Shikshashtaka”. And through Ramananda and Svarupa He proclaimed to the world that in the age of Kali there is no path
+higher than harinama-sankirtana:
+
+“In jubilation Sri Chaitanya exclaimed: ‘Svarupa, Ramaraya, listen! In the age of Kali the very highest spiritual path
+is nama-sankirtana!’” (CC, Antya 20.8) <!-- F76 Q32 F80 F131 Q38 -->
+
+All this lived on in the memory of the Vaishnavas: Ramananda sang and recited verses in tune with the Lord’s mood (CC,
+Madhya 2.77, 17.5–6) and was among His constant companions in Puri (CC, Madhya 1.252–254); and when Mahaprabhu, Svarupa,
+Ramananda and the Gosvamis had gone, a “dark age”, in the words of one biography, set in for the Vaishnavas. Srila
+Bhaktivinoda Thakura wrote in the “Sajjana-toshani” that false Vaishnavas slander Rupa and Ramananda, and another
+biography counts Svarupa, Rupa and Ramaraya among the associates who abide “within the svarupa” of the Lord. The
+episodes of the last years shared with Svarupa are told more fully in the article on Svarupa Damodara. <!-- F155 -->
+
+## The Jagannatha-vallabha Garden
+In Purushottama, roughly midway between the Gundicha and the temple of Jagannatha, there is the Jagannatha-vallabha
+garden. It is said to be Ramananda’s place; according to some, the Deity of Radha-Govinda who abides there was served
+by Ramananda, and his “Jagannatha-vallabha-nataka” was staged in this garden. Here Ramananda performed his bhajana, and
+the garden was very dear to the Lord: on entering it, He became absorbed in love for Krishna. Once He saw Krishna there
+beneath an ashoka tree; the vision vanished, and the Lord fell unconscious. During the days of the “nava-ratra-yatra”
+the Lord lived in Jagannatha-vallabha with His devotees. And once, on the full-moon night of the month of Vaishakha,
+He fell here into divine madness, and Svarupa and Ramananda brought Him back to outer consciousness by various means.
+<!-- F77 F78 F79 -->
+
+## Writings
+The incomparable monument to Ramananda’s glory is his musical drama, the “Jagannatha-vallabha-nataka”, or
+“Ramananda-sangita-nataka”; Kaviraja calls its songs “the songs of Raya’s drama”. Ramananda wrote it even before he met
+Sri Chaitanya, at the wish — and, as the prologue says, at the command — of Prataparudra; the king’s name and virtues are
+mentioned both in the prologue and in every song. The stage-director, opening the performance, names both the author and
+his father:
+
+“The poet Sri Ramananda Raya — son of Sri Bhavananda Raya, an ocean of jewel-virtues such as serenity, whose counsels,
+steeped in the many maxims of policy laid down by the preceptor of the gods, made the king upright and virtuous; a poet
+whose mind is adorned by the feet of Sri Hari — has composed and offered the musical drama of Ramananda called ‘Sri
+Jagannatha-vallabha’, dear to Gajapati Prataparudra and adorned with all these qualities.”
+(“Jagannatha-vallabha-nataka”, act 1, after verse 14)
+
+There too sounds the praise of the king himself: “Hearing even his name, Sekandhara hides in a cave; the ornament of the
+land of Kalavarga looks about with tears; the king of Gurjara has come to regard his own capital as an old forest; the
+lord of Gauda knows himself to be as one aboard a ship on a storm-tossed ocean” (ibid., 1.10). And the king asks for
+“a new work, not composed in another’s shadow” (ibid., 1.14): the plot of the drama is not an imitation of an old
+model but entirely new. <!-- F86 F87 F88 F89 Q24 -->
+
+The drama has five acts: in the first, the awakening of love (purva-raga); in the second and fifth, Radha’s union with
+Krishna. Each of its twenty-one Sanskrit songs, much like the songs of Jayadeva’s “Gita-govinda”, ends with a line
+naming the poet Ramananda and Gajapati Prataparudra — “Rudra”:
+
+“May this noble form of Madhu’s Enemy, sung by the poet Ramananda Raya, again and again give birth to joy in the heart
+of Gajapati Rudra, lord of men.” (Ibid., 1.22) <!-- F90 -->
+
+Since Ramananda is an eternally perfect devotee on the path of ragatmika-bhakti, only raganugas — those who walk the
+path of spontaneous love and are free of anarthas — are fit to relish his drama. Its verses were rendered into Bengali
+padas bearing Lochana Dasa’s signature; at the end of the sixteenth century one Akinchana Dasa made a verse translation of
+the drama (the manuscript is kept in the Calcutta University library, No. 1512); a manuscript of a translation by one
+Gopala Dasa is also known. The commentary “Krishna-vallabha” on the “Krishna-karnamrita” cites the drama by name.
+<!-- F93 I8 F94 F149 -->
+
+Other works too are ascribed to Ramananda. Rajendralal Mitra’s catalogue of Sanskrit manuscripts (“Notices of Sanskrit
+MSS.”, vol. IV, No. 1672) and the “Catalogus Catalogorum” (vol. 1, p. 169) mention another five-act drama, the
+“Govinda-vallabha”, which some regard as his. Narayana Kavi in his “Sangita-sara” cites the song “Chitrapada” from
+Ramananda’s collection of songs, the “Kshudra-gita-prabandha”; its signature line names “Ramananda-kaviraya” and
+“Rudra-gajesha”. <!-- F91 F92 -->
+
+One verse of Ramananda’s — “nanopachara-krita-pujanam…” — Sri Rupa included in the “Padyavali”; it is also cited in
+Kavi Karnapura’s “Chaitanya-charita-mahakavya” and in the “Chaitanya-charitamrita”, in the conversation on the
+Godavari (CC, Madhya 8.69). The presence in the “Padyavali” of verses by Ramananda and Karnapura is taken as evidence
+that Rupa compiled it after meeting the Lord. The verse “krishna-bhakti-rasa-bhavita matih…” is in some places also
+ascribed to Ramananda. <!-- F95 F96 F149 -->
+
+But his most famous song is “pahilehi raga nayana-bhange bhela…”, which he sang to the Lord on the Godavari (CC, Madhya
+8.193). It is the oldest song in Brajabuli and one of the brightest jewels of Vaishnava poetry; Ramananda was an
+incomparable poet both in Sanskrit and in Brajabuli — the “emperor of poets” of that language. Kavi Karnapura also
+cites the song in the thirteenth sarga of the “Chaitanya-charita-mahakavya”, with the signature “vardhana-rudra-
+naradhipa-mana / ramananda-raya kavi bhana”; Radhamohana Thakura included it in the “Padamrita-samudra” and wrote a
+Sanskrit commentary on it, and it was explained in detail by Srila Bhaktivinoda Thakura (“Amrita-pravaha-bhashya”) and
+Srila Bhaktisiddhanta Sarasvati (“Anubhashya”):
+
+“As soon as our eyes met, a strong attraction arose between us. Our bond grew day by day, knowing no bounds. It is not
+that Krishna is a youth craving enjoyment and I a maiden who grants it. Simply Cupid joined our hearts into one. O My
+friend! Perhaps Krishna has already forgotten Our love, but you will remind Him. <…> Now you will become the messenger,
+for the separation has become unbearable.” (CC, Madhya 8.193) <!-- F29 F97 F98 Q26 -->
+
+Srila Bhaktisiddhanta warns that the prakrita-sahajiyas cannot grasp the variety of pastimes and the “reversal of
+loving play” (vilasa-vivarta) in the highest mahabhava — in its states of mohana and madana, within “wondrous
+separation” (prema-vaichittya) — and drag the meaning of these lines towards impersonalism. That is why Gaurasundara
+covered with His hand the lips of Ramananda as they sang of Krishna — so that the secret of bhajana would not become
+the property of worldly philosophers. The words “neither is He the lover, nor am I the beloved” must not be taken as
+impersonal oneness (kevala-advaita): they only remove the suspicion of “impure duality”, a self-seeking division
+between the lovers. <!-- F99 I8 -->
+
+## After the Lord’s Disappearance
+The “Chaitanya-charita-mahakavya” relates that when the Lord left for Vrindavana, Ramananda, unable to bear the
+separation, grew ever weaker and “gave up his life”. But this “death” is not death in the ordinary sense: it is the
+tenth and last state of transcendental separation (dashami dasha, “marana”). According to the “Chaitanya-charitamrita”,
+when the Lord returned from Vrindavana, Ramananda was again with Him and took part in many pastimes in Nilachala; and
+Murari Gupta’s kadacha (4.15.1), describing the Lord’s return, says that the Gajapati summoned Sarvabhauma together
+with Ramananda, wishing to see the Lord. <!-- F100 F101 Q27 Q31 I7 -->
+
+Ramananda remained in this world after the Lord’s disappearance as well. The “Bhakti-ratnakara” tells how the news of
+it reached Prataparudra:
+
+“Then, hearing the news that the Lord had disappeared from sight, the king, flinging himself down, rolled on the
+ground. Striking his head with his hands, he fell unconscious; Raya Ramananda alone preserved his life. Unable to bear
+separation from the Lord, the king stayed some distance away from Nilachala.” (“Bhakti-ratnakara”, 3.217–219)
+<!-- F102 F139 Q28 -->
+
+Very soon after the Lord’s departure the young Srinivasa came to Purushottama. After spending a day with Gadadhara
+Pandita, he received the darshana of Ramananda, Sarvabhauma, Vakreshvara, Paramananda Puri, Shikhi Mahiti, Vaninatha,
+Govinda, Shankara and Gopinatha Acharya — all of them, forgetting food and sleep, were immersed in separation from
+Gaura:
+
+“All long to see Srinivasa; Srinivasa went to the house of Sarvabhauma. Sri Raya Ramananda came there too; sitting
+together, the two sing the virtues of Gaurachandra. <…> Both of them are drowning in an ocean of great grief, but seeing
+Srinivasa, they felt joy in their hearts.” (“Bhakti-ratnakara”, 3.155–156, 158) <!-- F103 F140 Q29 -->
+
+There are two traditions about the day of Ramananda’s departure: the krishna-panchami of the month of Jyeshtha or the
+krishna-panchami of the month of Vaishakha — very likely the same day reckoned by different counts of the months. By
+our calendar the Disappearance Day of Srila Ramananda Raya is the krishna-panchami of the month of Trivikrama.[^7]
+Neither the year nor the place of his departure is given in the biographies, and nothing is said of a samadhi. <!-- F132 -->
+
+## Places of Remembrance
+In 1932 Srila Bhaktisiddhanta Sarasvati completed at Udagamandalam a short book in English on the life of Ramananda
+Raya, and then came to Kovvur on the Godavari — the place of Ramananda’s first meeting with the Lord — and on 5 July,
+during the days of the Pushkara-yoga, installed the Deities in the Ramananda Gaudiya Math. The math appears in the list
+of temples of the Gaudiya Math (No. 43: Ramananda Gaudiya Math, P.O. Kovvur, West Godavari). The land at
+Goshpada-tirtha in the Rajamahendri district was bought for it, and the construction supervised, by Srila Bhakti Dayita
+Madhava Gosvami. On 2 September 1951 Srila Bhakti Vilasa Tirtha Gosvami laid the foundation stone of the temple, and on
+15 July 1976, having come to Kovvur the day before with forty-two sannyasis and brahmacharis, he installed the Deities
+of Ramananda and Mahaprabhu on the spot where Sri Chaitanya’s footprints remain. Later the seventy-fifth anniversary of
+the Ramananda Gaudiya Math was solemnly celebrated in Kovvur. <!-- F150 F151 F152 F153 F154 -->
+
+## In the Eternal Pastimes
+Kavi Karnapura in the “Gaura-ganoddesha-dipika” explains who Ramananda was in Krishna’s pastimes:
+
+“A certain dear confidential friend [of Krishna], Arjuna, and Arjuna the son of Pandu, uniting together, became
+Ramananda Raya, dear to the Lord. Therefore the skilful Ramananda day after day described to Gaurachandra the essence of
+devotion and love for Radha and Krishna. Some call him Lalita, but this is accepted by only a few: for Gaura said to
+Bhavananda: ‘You are Prithapati.’ The best say that Arjuna, the son of Pandu, having united with the gopi Arjuniya,
+became Raya Ramananda. ‘And Arjuna, the son of Pandu, at once became the gopi Arjuniya’ — this is clearly stated in the
+‘Padma Purana’, ‘Uttara-khanda’. Therefore the venerable Ramananda Raya is these three.” (GGD 120–124)
+
+Thus three were united in Ramananda: Arjuna, Krishna’s close friend in Vraja; Arjuna the Pandava, son of Pandu (no
+wonder his father Bhavananda is Pandu); and the gopi Arjuniya.[^8] Hence in his service to Gaura friendship and
+intimate closeness met: as the cowherd boy Subala gave joy to Krishna, so “Ramaraya” gives joy to Gaura (CC, Antya
+6.9), and in Kaviraja’s words his rasa is pure friendship. Murari Gupta records the Lord’s address to him: “bee at the
+lotus feet of Sri Radhika”. <!-- F74 Q21 F73 F72 F82 -->
+
+Many Vaishnavas also see in him Vishakha. When the Lord, embracing Svarupa and Ramananda, spoke of how Radha reveals to
+Vishakha the cause of Her anguish (CC, Antya 15.11–12), by some interpretations He was addressing Ramananda as Vishakha.
+Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” (on CC, Madhya 8.23) remarks that the love that flared up
+between Ramananda and the Lord at their first meeting is the same as Vishakha’s love for Radha and Krishna; hence the
+Lord saw Vishakha in Ramananda. One of the biographies plainly calls the author of the “Jagannatha-vallabha-nataka”
+Vishakha-devi in the Vraja-lila, and Svarupa Lalita; and as Lalita and Vishakha are Radha’s intimate friends, so
+Svarupa and Ramananda are Sri Chaitanya’s intimate associates. <!-- F71 Q18 F75 F105 Q40 F107 F106 -->
+
+## “Sugar in Thickened Milk”
+Such is the life of Ramananda Raya — the governor and poet whom the Lord called one with Himself. Born in a family
+humble by worldly measure, he became the teacher of sannyasis and pandits; living outwardly as a dignitary and a
+householder, he was more detached than hermits; serving Jagannatha’s young dancers, he remained unshaken, like wood and
+stone, for he saw in them only Radha’s friends. Through his lips the Lord revealed to the world the hidden science of
+rasa, while he himself, in his humility, ascribed everything to the Lord. Krishnadasa Kaviraja concludes the account of
+the conversations on the Godavari with these words:
+
+“The deeds of Sri Chaitanya may be compared to thickened milk, and Ramananda’s to a mountain of sugar. Their talks on
+the pastimes of Sri Sri Radha-Krishna are like camphor added to this sweetest thickened milk. Truly fortunate is the one
+who is blessed to taste it. <…> Millions of times I bow at the feet of Ramananda Raya, through whose lips the Lord
+Himself revealed to the world the truth about the transcendental rasas.” (CC, Madhya 8.303–304, 310) <!-- F104 Q30 I1 -->
+
 [^1]: One of the biographies places the meeting on the Godavari around 1512. By the chronology of the
     “Chaitanya-charitamrita”, the Lord left for the south in Vaishakha of the same year in which He took sannyasa —
     three months after it.
@@ -474,3 +726,14 @@ love (“Bhakti-ratnakara”, 1.630–631). <!-- F127 F66 I1 I6 F146 Q37 -->
     to the Lord at Kashi Mishra’s house.
 [^5]: One of the biographies, naming Remuna, allows that it may have been Bhadrak; others say only that Ramananda came
     with the Lord to Kataka and accompanied Him beyond the Chitrotpala.
+[^6]: According to one account, Prataparudra pardoned Gopinatha remembering how close he was to the Lord and to
+    Ramananda; according to another, the execution was called off after the minister Hari-chandana told the king
+    everything.
+[^7]: One of the biographies gives both opinions — Jyeshtha krishna-panchami and Vaishakha krishna-panchami; when the
+    months are counted from the full moon (purnimanta) and from the new moon (amanta), they probably coincide. Other
+    biographies do not give the day of his departure.
+[^8]: There are other opinions. According to Srila Bhaktivinoda Thakura and several biographies, in the Vraja-lila
+    Ramananda is Vishakha (see below); “some”, as the “Gaura-ganoddesha-dipika” itself says, called him Lalita. One of
+    the biographies, retelling Karnapura, adds “or Vishakha” to Arjuniya, but this is not in the text of the GGD.
+    According to the “Gaura-krishnodaya” (1.46), Ramananda is the celestial singer Tumburu, who followed Narada
+    (Srivasa).
