@@ -7957,6 +7957,605 @@
   ]
  },
  {
+  "id": "@vakreshvara",
+  "names": {
+   "ru": "Вакрешвара Пандит",
+   "en": "Vakreshvara Pandita",
+   "variants": [
+    "Шри Вакрешвара",
+    "Пандит Вакрешвара",
+    "Вакрешвара Госвами",
+    "Анируддха (вьюха)",
+    "Тунгавидья (во Врадже, по паддхати)"
+   ],
+   "facts": [
+    "F1",
+    "F3",
+    "F6",
+    "F11"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "period": [
+   "P07",
+   "P08",
+   "P09",
+   "P12",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично — в санкиртане Навадвипы (P07: Джагай и Мадхай, шествие к Кази, Шридхара, танец 72 часа); с Нитьянандой идёт за Господом после санньясы и в Шантипур — только по lila-db (P08–P09); в Пури — постоянный спутник, танцор групп киртана на Ратха-ятре (P12–P14); Рамакели и милость к Девананде (P13); после сокрытия — с Шринивасой в Пури, «поставлен в обители Господа» (P15, B 280 / lila-db). Время переселения в Пури: после санньясы (M) или ради последних игр (B).",
+  "life": {
+   "appearance": {
+    "tithi": "кришна-панчами месяца Ашадха (по нашему календарю — месяц Вамана)",
+    "date": "",
+    "place": "#guptipara?",
+    "conf": "титхи — B и M (M — по «Дхьяначандра-паддхати»), совпадает с нашим календарём (5 июля 2026); место — только M",
+    "facts": [
+     "F13",
+     "F14"
+    ]
+   },
+   "disappearance": {
+    "tithi": "шукла-шаштхи месяца Ашадха",
+    "place": "#puri?",
+    "conf": "только T и M (M — по «Дхьяначандра-паддхати»); B даты не даёт; в нашем календаре дня нет",
+    "facts": [
+     "F62"
+    ]
+   },
+   "samadhi": []
+  },
+  "origin": {
+   "places": [
+    "#guptipara",
+    "#navadvipa"
+   ],
+   "family": [],
+   "facts": [
+    "F14",
+    "F15",
+    "F16"
+   ],
+   "note": "О родителях и семье книги не говорят. Родина Гуптипара — только M; что прежде жил в Навадвипе — B, M."
+  },
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F1",
+     "F11",
+     "F17",
+     "F18",
+     "F33",
+     "F35",
+     "F37",
+     "F39",
+     "F43",
+     "F46"
+    ],
+    "events": [
+     "ev-vakreshvara-dance-kirtana",
+     "ev-nilachala-sankirtana"
+    ],
+    "note": "«Большой любимый слуга» (ЧЧ Ади 10.17); «одно Моё крыло» (Ади 10.20); «полная шакти Господа» (ЧБ Антья 3.494); приглашал Господа на трапезу в Нилачале."
+   },
+   {
+    "type": "disciple",
+    "who": "@gopala-guru",
+    "facts": [
+     "F51",
+     "F52",
+     "F53",
+     "F54",
+     "F55",
+     "F56",
+     "F58"
+    ],
+    "note": "Главный ученик, из Уткалы; через него — внешний путь расопасаны Сварупы и гаура-мантра (B)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@svarupa-damodara",
+    "facts": [
+     "F50"
+    ],
+    "note": "По «Джайва-дхарме» Бхактивиноды Сварупа передал ему внешний путь расопасаны (B 201, 229, 274; T 202)."
+   },
+   {
+    "type": "served-by",
+    "who": "@devananda-pandita",
+    "facts": [
+     "F23",
+     "F25",
+     "F26",
+     "F27",
+     "F28",
+     "F29",
+     "F30",
+     "F31",
+     "F32",
+     "F33",
+     "F34"
+    ],
+    "events": [
+     "ev-devananda-mercy"
+    ],
+    "note": "Служа Вакрешваре, Девананда освободился от оскорбления Шривасы и получил милость Господа (ЧБ Антья 3; ЧЧ Ади 10.77)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@dhyanachandra",
+    "facts": [
+     "F6",
+     "F9",
+     "F10",
+     "F55",
+     "F57"
+    ],
+    "note": "Ученик Гопалы Гуру; его «Паддхати» отождествляет Вакрешвару с Тунгавидьей."
+   },
+   {
+    "type": "co-worker",
+    "who": "@nityananda",
+    "facts": [
+     "F39",
+     "F40",
+     "F42",
+     "F43"
+    ],
+    "events": [
+     "ev-nilachala-sankirtana",
+     "ev-nityananda-follows-to-katwa"
+    ],
+    "note": "Танцоры групп киртана в Пури; идёт с Нитьянандой за Господом после санньясы — только по lila-db (Лочан)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@advaita",
+    "facts": [
+     "F38",
+     "F39",
+     "F42",
+     "F43"
+    ]
+   },
+   {
+    "type": "co-worker",
+    "who": "@srivasa",
+    "facts": [
+     "F19",
+     "F23",
+     "F39",
+     "F42"
+    ],
+    "note": "Киртаны в доме Шривасы; Девананда оскорбил Шривасу."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govinda-ghosha",
+    "facts": [
+     "F40",
+     "F63"
+    ],
+    "note": "Танцор группы Говинды Гхоша на Ратха-ятре (ЧЧ Мадхья 13.42–43)."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F11",
+     "F36",
+     "F38"
+    ],
+    "note": "Слушал его «Бхагаватам» в Тоте; по некоторым — ветвь Гададхары (T 62)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghava-pandita",
+    "facts": [
+     "F44"
+    ],
+    "event": "ev-indradyumna-jala-keli",
+    "note": "Пара в водных играх (ЧЧ Мадхья 14.81)."
+   },
+   {
+    "type": "companion",
+    "who": "@haridasa-thakura",
+    "facts": [
+     "F45"
+    ],
+    "event": "ev-haridasa-departure"
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya",
+    "facts": [
+     "F19",
+     "F20",
+     "F53"
+    ],
+    "note": "«Оба знают все дела Чайтаньи» (ЧБ Мадхья 13.240); по «Вакрешвара-чарите» — одна из пяти ветвей его линии (T 201)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "facts": [
+     "F48"
+    ],
+    "note": "Говорят, дом Каши Мишры позже получил Вакрешвара (B) / жил там (M)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radhakanta-puri",
+    "facts": [
+     "F48"
+    ],
+    "note": "Установлено при Гопале Гуру (B, M pdf 65) / самим Вакрешварой (M 238) / служение передано Господом Гопале Гуру, Вакрешвара на гади не садился (T 202)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F49"
+    ],
+    "event": "ev-srinivasa-gadadhara-puri"
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deva-kavi",
+    "facts": [
+     "F12",
+     "F60",
+     "F61"
+    ],
+    "note": "Поэт из его круга (паривары), автор «Гаура-кришнодаи»."
+   },
+   {
+    "type": "other",
+    "who": "@jagai-madhai",
+    "facts": [
+     "F20"
+    ],
+    "event": "ev-jagai-madhai-deliverance"
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi",
+    "facts": [
+     "F21"
+    ],
+    "event": "ev-nagara-kirtana-kazi"
+   },
+   {
+    "type": "other",
+    "who": "@shridhara",
+    "facts": [
+     "F22"
+    ],
+    "event": "ev-shridhara-kholavecha"
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F46",
+     "F60"
+    ],
+    "event": "ev-ramakeli-rupa-sanatana",
+    "note": "Рамакели; в «Гаура-кришнодае» 1.5 славятся вместе."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F46"
+    ],
+    "event": "ev-ramakeli-rupa-sanatana"
+   },
+   {
+    "type": "other",
+    "who": "@vallabha-bhatta",
+    "facts": [
+     "F47"
+    ],
+    "event": "ev-vallabha-bhatta-puri"
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "facts": [
+     "F50"
+    ],
+    "note": "Получил внутренний путь расопасаны от Сварупы."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "facts": [
+     "F1",
+     "F33",
+     "Q1",
+     "Q3"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "facts": [
+     "F11",
+     "F17",
+     "F18",
+     "F34",
+     "Q7"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "facts": [
+     "F3",
+     "F4",
+     "F5",
+     "Q2"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "facts": [
+     "F50",
+     "F58"
+    ],
+    "note": "«Джайва-дхарма», гл. 26, 39."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F31",
+     "F61"
+    ],
+    "note": "Гаудия-бхашья о Девананде (T); издал «Гаура-кришнодаю» (M)."
+   },
+   {
+    "type": "other",
+    "who": "@prabodhananda-sarasvati",
+    "facts": [
+     "F6"
+    ],
+    "note": "ГГД 163 называет Тунгавидьей его — иное отождествление, чем у Дхьяначандры."
+   }
+  ],
+  "unnamed": [
+   {
+    "who": "ветви линии: Шанкараранья Ачарья, Говинданада, Девананда (по «Вакрешвара-чарите», через T)",
+    "type": "lineage-successor",
+    "facts": [
+     "F53"
+    ]
+   },
+   {
+    "who": "посвящённые в его линии ориссцы, называющие себя гаудия-вайшнавами",
+    "type": "other",
+    "facts": [
+     "F59"
+    ]
+   },
+   {
+    "who": "царь Чакрадева из рода Гаджапати — получил мантру Радхи-Кришны (только lila-db, nvv-0022; хронологически сомнительно)",
+    "type": "disciple",
+    "event": "ev-virachandra-marriage"
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "Анируддха, четвёртый из чатур-вьюхи (вишну-таттва, по B)",
+    "source": "ГГД 71",
+    "level": "A",
+    "facts": [
+     "F3",
+     "Q2"
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "в него вошла Шаширекха (подруга Радхи)",
+    "source": "ГГД 73",
+    "level": "A",
+    "facts": [
+     "F4",
+     "Q2"
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Тунгавидья, сакхи Радхи",
+    "source": "«Дхьяначандра-паддхати»; «Сева-смарана-паддхати» Гопалы Гуру; «Гуру-пранали» (по B, M)",
+    "level": "C",
+    "facts": [
+     "F6",
+     "F7",
+     "F8",
+     "F9",
+     "F10",
+     "Q17",
+     "Q18",
+     "Q19"
+    ],
+    "variants": [
+     "ГГД 163: Тунгавидья — Прабодхананда Сарасвати"
+    ]
+   }
+  ],
+  "events": [
+   "ev-associates-gather",
+   "ev-jagai-madhai-deliverance",
+   "ev-vakreshvara-dance-kirtana",
+   "ev-nagara-kirtana-kazi",
+   "ev-shridhara-kholavecha",
+   "ev-nityananda-follows-to-katwa",
+   "ev-shantipura-reunion",
+   "ev-gauda-devotees-arrive-puri",
+   "ev-nilachala-sankirtana",
+   "ev-ratha-yatra-gundicha",
+   "ev-gundicha-nine-days-lilas",
+   "ev-indradyumna-jala-keli",
+   "ev-devananda-mercy",
+   "ev-ramakeli-rupa-sanatana",
+   "ev-return-to-puri-from-vrindavana",
+   "ev-vallabha-bhatta-puri",
+   "ev-jagamohana-dance-govinda-crosses",
+   "ev-haridasa-departure",
+   "ev-devotees-lament-after-disappearance",
+   "ev-srinivasa-gadadhara-puri",
+   "ev-virachandra-marriage",
+   "ev-gopala-guru-mahamantra"
+  ],
+  "events_note": "По T/M/B: Джагай и Мадхай, шествие к Кази, Шридхара (B 196), танец 72 часа, группы киртана в Пури, Ратха-ятра, Гундича, водные игры, Девананда, Рамакели, Валлабха Бхатта, бера-киртан (ЧЧ Антья 10.58–61 — ev-jagamohana-dance-govinda-crosses), уход Харидаса, Шриниваса в Пури. Только по lila-db (F65): ev-associates-gather («Гаура-кришнодая» 5.30), ev-nityananda-follows-to-katwa, ev-shantipura-reunion, ev-gauda-devotees-arrive-puri, ev-return-to-puri-from-vrindavana, ev-devotees-lament-after-disappearance (ср. F12), ev-virachandra-marriage, ev-gopala-guru-mahamantra.",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [],
+  "places": [
+   "#guptipara",
+   "#navadvipa",
+   "#kulia",
+   "#puri",
+   "#house-kashi-mishra",
+   "#tota",
+   "#gundicha",
+   "#indradyumna-sarovara",
+   "#ramakeli"
+  ],
+  "places_facts": [
+   "F14",
+   "F15",
+   "F23",
+   "F25",
+   "F32",
+   "F35",
+   "F38",
+   "F43",
+   "F44",
+   "F46",
+   "F48"
+  ],
+  "character": [
+   {
+    "trait": "неутомимый экстатический танец — двадцать четыре прахары подряд; «одно крыло» Господа",
+    "facts": [
+     "F17",
+     "F18",
+     "F3",
+     "Q7"
+    ],
+    "events": [
+     "ev-vakreshvara-dance-kirtana"
+    ]
+   },
+   {
+    "trait": "главный танцор киртанов Махапрабху в Навадвипе и Пури",
+    "facts": [
+     "F19",
+     "F39",
+     "F40",
+     "F42",
+     "F43",
+     "F45"
+    ],
+    "events": [
+     "ev-nilachala-sankirtana",
+     "ev-ratha-yatra-gundicha"
+    ]
+   },
+   {
+    "trait": "беспричинная милость к оскорбителю — Девананда через служение ему обрёл веру в Господа",
+    "facts": [
+     "F25",
+     "F30",
+     "F33",
+     "F34",
+     "I1"
+    ],
+    "events": [
+     "ev-devananda-mercy"
+    ]
+   },
+   {
+    "trait": "в сердце его — дом Кришны; где он — там все тиртхи",
+    "facts": [
+     "F33",
+     "Q3"
+    ]
+   },
+   {
+    "trait": "хранитель внешнего пути расопасаны Сварупы, переданного через Гопалу Гуру",
+    "facts": [
+     "F50",
+     "F51",
+     "F56",
+     "F57"
+    ]
+   },
+   {
+    "trait": "в разлуке после сокрытия Господа — только воспевание Гауры",
+    "facts": [
+     "F49"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F1",
+    "F3",
+    "F11",
+    "F12",
+    "F33",
+    "F50",
+    "I1",
+    "I2",
+    "I3",
+    "I4",
+    "I5"
+   ]
+  },
+  "sources": {
+   "T": "61–62 (глава); 38, 40, 51, 57, 63, 64, 77, 78, 106, 107, 109, 137, 154, 164, 201–204",
+   "M": "236–239 (глава); 19–20, pdf 65, 193, 215, 299",
+   "B": "196–202 (глава); 193, 229, 274–281, 663, 741, 819, 837–838, 847–848, 1059",
+   "other": [
+    "ЧБ Антья 3.469–470, 3.492–496; Мадхья 8.116, 13.240, 23.209",
+    "ЧЧ Ади 10.17–20, 10.77, 10.125–127; Мадхья 1.252–254, 11.226–231, 13.42–43, 14.70–72, 14.81, 14.100–101; Антья 7.48–50, 10.58–61",
+    "ГГД 71–73 (и 163)",
+    "«Дхьяначандра-паддхати», «Сева-смарана-паддхати», «Гуру-пранали» (по B)",
+    "«Шри Гаура-кришнодая» 1.5, 18.60 (по B)",
+    "«Джайва-дхарма» гл. 26, 39",
+    "«Вакрешвара-чарита» (по T)",
+    "БР 3"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/vakreshvara.md",
+   "en": "parshadas/en/vakreshvara.md"
+  },
+  "open_questions": [
+   "Место рождения — Гуптипара (только M) (F14).",
+   "Дата ухода — шукла-шаштхи Ашадхи (T, M); B молчит, в нашем календаре дня нет (F62).",
+   "Как он пришёл к Девананде: сам, из милости (B), «по воле судьбы» (T) или Девананда пришёл на киртан в дом другого преданного (M) (F25).",
+   "Кто установил Радхаканту в доме Каши Мишры: при Гопале Гуру (B; M pdf 65), сам Вакрешвара (M 238) или Господь передал служение Гопале Гуру (T) (F48).",
+   "Отождествление: Анируддха с вошедшей Шаширекхой (ГГД) и Тунгавидья (паддхати; ГГД 163 — Тунгавидья = Прабодхананда) (F3–F8).",
+   "Время написания «Гаура-кришнодаи»: конец XVII в. Шака, 1680 Шака (B) — у M «17-й год эры Гауры» (F60, F61).",
+   "Ветвь Чайтаньи или Гададхары (T 62) (F11)."
+  ]
+ },
+ {
   "id": "@vasu-ghosha",
   "names": {
    "ru": "Васу Гхош",

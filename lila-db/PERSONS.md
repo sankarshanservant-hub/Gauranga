@@ -670,3 +670,5 @@
 | @gopinatha-shitala | Гопинатха — Божество в Шиталаграме | Gopinatha, the Deity of Shitalagrama | Божество Дхананджаи Пандита (B 195; T 95) |
 | @nitai-gaura-shitala | Нитай-Гаура — Божества в Шиталаграме | Nitai-Gaura, the Deities of Shitalagrama | служил Дхананджая Пандит (B 195; T 95) |
 | @damodara-shitala | Дамодара (шалаграма) в Шиталаграме | Damodara (shalagrama) of Shitalagrama | Божество Дхананджаи Пандита (B 195; M 22) |
+| @dhyanachandra | Дхьяначандра Госвами | Dhyanachandra Gosvami | ученик Гопалы Гуру, автор «Дхьяначандра-паддхати»; Радхаканта-матх в Пури (B 201, 279; T 202) |
+| @radhakanta-puri | Радхаканта — Божество в Пури (дом Каши Мишры) | Radhakanta, the Deity in Puri (house of Kashi Mishra) | Радхаканта-матх; установлено при Гопале Гуру, ученике Вакрешвары (B 198, 275; T 202; M 238) |
