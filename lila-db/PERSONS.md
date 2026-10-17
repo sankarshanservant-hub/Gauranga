@@ -664,3 +664,9 @@
 | @madana-raya-shrikhanda | Мадана Рай (Шрикханда) | Madana Raya (of Shrikhanda) | сын Канаи Тхакура, внук Рагхунанданы; ученик Нарахари Саркара (B 179, 290) |
 | @rayashekhara | Райшекхар (Кавишекхара Рай) | Rayashekhara (Kavishekhara Raya) | поэт, ученик Рагхунанданы из Шрикханды (B 182–183) |
 | @gaura-deity-shrikhanda | Божество Гауры, установленное Нарахари в Шрикханде | the Deity of Gaura installed by Narahari at Shrikhanda | БР 8.431–432 (по B 131); T 70 — одно из трёх Божеств (Шрикханда, Катва, Ганганагар) |
+| @sanjaya-jalandi | Санджая (из Джаланди) | Sanjaya (of Jalandi) | брат (по иным — ученик) Дхананджаи Пандита; шрипат в Джаланди, Радха-Говинда (B 195; T 95); не путать с @mukunda-sanjaya |
+| @ramakanai-thakura | Рамаканаи Тхакур | Ramakanai Thakura | сын Санджаи, племянник Дхананджаи Пандита; шрипат в Мулуке близ Болпура (B 195; M 22) |
+| @jivana-krishna | Дживана Кришна (Джива Кришна) | Jivana Krishna (Jiva Krishna) | ученик Дхананджаи Пандита; установил Шьямасундару, ныне в доме Гопала Рая Чаудхури (B 195; M 23) |
+| @gopinatha-shitala | Гопинатха — Божество в Шиталаграме | Gopinatha, the Deity of Shitalagrama | Божество Дхананджаи Пандита (B 195; T 95) |
+| @nitai-gaura-shitala | Нитай-Гаура — Божества в Шиталаграме | Nitai-Gaura, the Deities of Shitalagrama | служил Дхананджая Пандит (B 195; T 95) |
+| @damodara-shitala | Дамодара (шалаграма) в Шиталаграме | Damodara (shalagrama) of Shitalagrama | Божество Дхананджаи Пандита (B 195; M 22) |

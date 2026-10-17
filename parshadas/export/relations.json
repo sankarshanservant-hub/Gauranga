@@ -1,5 +1,145 @@
 [
  {
+  "from": "@dhananjaya-pandita",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F1",
+   "F3",
+   "F4",
+   "F36"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi",
+   "ev-nityananda-preaching-gauda"
+  ],
+  "note": "Один из двенадцати гопалов; «любимый слуга Нитьянанды» (ЧЧ Ади 11.31); Нитьянанда всегда в его сердце (ЧБ Антья 5.733)."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F16",
+   "F17"
+  ],
+  "events": [
+   "ev-dhananjaya-renunciation"
+  ],
+  "note": "Отдал Господу всё и взял лишь горшок для подаяния (ванданы; T); участвовал в санкиртане в Навадвипе."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "sibling",
+  "who": "@sanjaya-jalandi",
+  "facts": [
+   "F14",
+   "F34"
+  ],
+  "note": "По иным мнениям — его ученик (B, T, M)."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "nephew",
+  "who": "@ramakanai-thakura",
+  "facts": [
+   "F15",
+   "F35"
+  ]
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "disciple",
+  "who": "@jivana-krishna",
+  "facts": [
+   "F33"
+  ],
+  "note": "Установил Божество Шьямасундары."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "deity-served",
+  "who": "@gopinatha-shitala",
+  "facts": [
+   "F30",
+   "F25"
+  ]
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "deity-served",
+  "who": "@nitai-gaura-shitala",
+  "facts": [
+   "F30",
+   "F24",
+   "F25"
+  ],
+  "note": "B: в Шиталаграме явил служение Шри Гауранге; M ставит Божества в Джаланди (F25)."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "deity-served",
+  "who": "@damodara-shitala",
+  "facts": [
+   "F30",
+   "F25"
+  ],
+  "note": "Шалаграма-шила (M)."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "co-worker",
+  "who": "@sundarananda",
+  "facts": [
+   "F1",
+   "Q1"
+  ],
+  "note": "Тоже из двенадцати гопалов; ГГД 127 называет их в одном стихе."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F3",
+   "Q2"
+  ]
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F4",
+   "Q3"
+  ]
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2",
+   "Q1"
+  ]
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F9"
+  ],
+  "note": "В «Анубхашье» принимает мнение о рождении в Джараграме (по T)."
+ },
+ {
+  "from": "@dhananjaya-pandita",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "event": "ev-panihati-chida-dadhi",
+  "note": "Праздник чида-дадхи в Панихати (ЧЧ Антья 6) — только по lila-db."
+ },
+ {
   "from": "@gadadhara-pandita",
   "type": "father",
   "who": "@madhava-mishra",
