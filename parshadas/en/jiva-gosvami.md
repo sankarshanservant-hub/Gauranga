@@ -825,6 +825,122 @@ Yet it is not contrary to reason: for Bhagavan, who possesses inconceivable shak
 established by this shakti is truth, obtained by mercy. The ancients taught not to apply logic to the inconceivable, for
 argument about it never becomes proof; for those who forget this there is no end of misfortune. <!-- F207 -->
 
+## Writings
+Jiva wrote so much that no authoritative source gives a complete list of his books. Krishnadasa Kaviraja, speaking of the
+books of the Gosvamis of Vraja, says of him:
+
+“Sri Rupa's nephew, named Sri Jiva Gosvami, also wrote many excellent works on bhakti. In his «Sri Bhagavat-sandarbha» he
+set out the principal conclusions concerning the highest goal of bhakti. In the famous book «Gopala-champu» he described
+the essence of Sri Krishna's eternal pastimes and all the rasas of Vraja”. (CC, Madhya 1.42–44)
+
+In Bengali the first line runs: “how many books on bhakti he wrote — there is no end to them”; yet Kaviraja names only
+two of them. Narahari Chakravarti in the “Bhakti-ratnakara” gives a list both in Sanskrit and in Bengali verse, but it too
+is incomplete: it ends with the words “and others”, and it lacks, for example, the “Sarva-samvadini”. <!-- F211 Q39 -->
+
+The earliest list was made by Jiva's disciple Krishnadasa Adhikari, who enumerated in Sanskrit verse the writings of
+Sanatana, of Rupa and of his own teacher. Narahari quotes these verses; of Jiva's books they say:
+
+“Among the works of Sri Jiva, the son of Sriman Vallabha, are named: the grammar called «Hari-namamrita», its
+«Sutra-malika», the «Dhatu-sangraha» used in it, the subtle «Krishnarcha-dipika», the «Gopala-virudavali», the
+«Rasamrita-shesha», the «Sri Madhava-mahotsava», the «Sankalpa-kalpa-vriksha», the champu «Bhavartha-suchaka», the
+commentaries on the «Gopala-tapani», on Brahma's «Samhita», on the «Rasamrita», on the «Ujjvala» and on the
+«Yoga-sara-stava», and also an exposition of the Gayatri in the «Agni Purana», [a description] of the marks on Sri
+Krishna's feet named in the «Padma», and a collection of the marks on the hands and feet of Her who is a special form of
+Lakshmi — Sri Vrindavaneshvari; the two champus, the former and the latter; and the seven famous «Sandarbhas» on the
+«Srimad Bhagavatam», named «Tattva-», «Bhagavat-», «Paramatma-», «Krishna-», «Bhakti-» and «Priti-», and the seventh called
+«Krama-»; in them the noble [authors] have revealed sambandha, abhidheya and prayojana — all three — like an amalaka fruit
+on the palm”. (“Bhakti-ratnakara”, 1.843–851) <!-- F208 F209 Q40 -->
+
+In the Bengali verses just before this quotation (1.833–842) Narahari counts twenty-five books of Jiva. The list is the
+same: the “Hari-namamrita-vyakarana”, “Sutra-malika”, “Dhatu-sangraha”, “Krishnarchana-dipika”, “Gopala-virudavali”,
+“Rasamrita-shesha”, “Sri Madhava-mahotsava”, “Sri Sankalpa-kalpa-vriksha”, “Bhavartha-suchaka-champu”; the commentaries
+on the “Gopala-tapani”, the “Brahma-samhita”, the “Bhakti-rasamrita-sindhu”, the “Ujjvala-nilamani” and the
+“Yoga-sara-stava”; the exposition of the Gayatri from the “Agni Purana”; the marks on Krishna's feet according to the
+“Padma Purana” and the marks on Radhika's hands and feet; the “Gopala-champu” in two parts — and the seven “Sandarbhas”,
+the seventh of which is the “Krama-sandarbha”.[^42] <!-- F210 Q41 -->
+
+Only some of Jiva's books are dated. Sanatana finished the “Vaishnava-toshani” in 1476 Shaka, and Jiva, at his command,
+made its abridged exposition, the “Laghu-toshani”, in 1504 Shaka (about 1582; see above).[^43] The earliest date among all
+Jiva's dated books is 1477 Shaka, the year of the “Madhava-mahotsava”; the “Uttara-champu”, the second part of the
+“Gopala-champu”, was completed in 1649 Samvat (1514 Shaka). Thirty-seven years separate these two books. Below the books
+are described in the order of Narahari's list, followed by what that list does not name and by what is only ascribed to
+Jiva. <!-- F212 F213 -->
+
+### “Hari-namamrita-vyakarana”
+On His return from Gaya Mahaprabhu wished to show that the sole meaning of all the sciences of language is Sri Krishna,
+and, teaching grammar to His students, He saw the holy names in everything He explained:
+
+“Absorbed in thoughts of Krishna, Nimai Pandita explained the hidden meanings of the holy names of God in all the sutras,
+aphorisms and commentaries”. (CB, Madhya 1.147)
+
+On this Jiva's grammar is founded. A Gaura-parshada, an associate of Gaura, he composed by His inspiration the
+“Hari-namamrita-vyakarana” — “the grammar of the nectar of Hari's names”, in which every rule is adorned with names of the
+Lord. <!-- F214 Q42 -->
+
+Why it was written Jiva explains in the mangalacharana. Devotees worshipping Krishna turn their beads, repeating the name
+on each one; just so he strings the names of Bhagavan on the thread of the sutras. This garland of names at once grants the
+joy of Krishna's company — and with it the ability to relish transcendental literature, the “Bhagavatam” and other books.
+Other grammars he finds full of idle talk: they are fit only for disputes and teach a difficult, mixed knowledge.
+Therefore for the Vaishnavas he gathers a grammar built on Hari's names: let those who languish with thirst in the desert
+of such grammars drink this nectar and bathe in it a hundred times. <!-- F215 Q43 -->
+
+The book has 3186 sutras. The first forty-three introduce the terms; then come the rules for joining sounds (sandhi), and
+the names of their sections too are names of the Lord: “Sarveshvara-sandhi” for vowels, “Vishnujana-sandhi” for
+consonants, “Vishnusarga-sandhi” for the visarga. The section on nouns, “Vishnupada”, divides them by gender: the
+masculine is called “Purushottama-linga”, the feminine “Lakshmi-linga”, the neuter “Brahma-linga”, first for stems in
+vowels, then in consonants; after them come adjectives and the pronouns, named “Krishna-nama”. The largest section is on
+verbs (sutras 365–948); then come the tenses and moods, which Jiva calls the meanings of “Achyuta”, the voices, the krit
+suffixes, compounds and, finally, the taddhita suffixes (sutras 2060–3186). <!-- F216 -->
+
+In the conclusion Jiva writes: the book was made for Krishna, and not one mora in it is wasted — like a poem about His
+pastimes, it triumphs, bearing great fruit; and whatever in it is unclear or mistaken, let the learned clarify and
+correct by the scholarly shastras. In the same spirit he puts learning in its place in a verse addressed to the goddess of
+speech:
+
+“O Vani, if through you Govinda is not attained, then even the grammar of Panini, full of rasa, should be abandoned; the
+dry «Kalapa» is the cawing of crows, the «Sarasvata» is without substance, the celebrated «Vistara» is knowledge without
+purpose, the «Chandra» is weighed down with misery, and the other shastras do not deserve even praise”.
+
+The Bengali retelling explains: Vani is wound about the neck of Sri Sri Radha-Govinda, and therefore she alone can reveal
+the beauty of Their feet. <!-- F217 F218 Q44 Q45 -->
+
+At the end Jiva asks the devotees who serve Bhagavan to accept this book adorned with His names — the work of Jiva, who
+lives in Vrindavana. It is written without Vedic and rare words, in plain, intelligible speech, and whoever needs such
+words should look for them in other books. The “Hari-namamrita” was revealed, he says, for the sake of a certain
+Gopaladasa — may he be the author's friend “in both worlds”: in the worldly and in the higher, or, as the Bengali
+retelling interprets, in the manifest and in the unmanifest state. Who this Gopaladasa was is not known. <!-- F219 F220 Q46 -->
+
+Much later Srila Bhaktisiddhanta Sarasvati, for the sake of Vaishnava education, published the
+“Hari-namamrita-vyakarana”, founded a Sanskrit school for its study and introduced the degree of “Vyakarana-tirtha”. Even
+grammar is service for Jiva: it was made for Krishna, so that the student, while learning the language, repeats His names.
+For Jiva all learning — be it grammar or poetics — is valuable only when it leads to Govinda; without that the best
+shastras do not deserve praise. Therefore he builds both his grammar and, as we shall see, his manual of poetics on the
+names and pastimes of Hari. <!-- F221 I18 I19 -->
+
+### “Dhatu-sangraha”
+Next to the grammar stands the “Gana-dhatu-sangraha”, or simply “Dhatu-sangraha”, — a list of verbal roots in the ten
+classes (gana) with their meanings, like Panini's “Dhatupatha”. Its first verse says: I briefly set out the classes of
+roots — seeds for the narration of Krishna's pastimes; may Krishna be pleased by this. The last: thus the order of the
+roots has been briefly compiled for the “Namamrita”; here and there roots in common use have been omitted. This is the
+“Dhatu-sangraha used in it” of Krishnadasa Adhikari's list. <!-- F222 Q47 -->
+
+### “Gopala-virudavali”
+The “Gopala-virudavali” is a poem of praise in virudas (viruda-kavya) about Sri Sri Gopaladeva; Jiva wrote it on the
+model of two books by Rupa — the “Govinda-virudavali” and the “Samanya-virudavali-lakshana”. It opens with a blessing: may
+the “Gopala-virudavali”, which gives joy even to Gopala Himself, rise like a row of wish-fulfilling creepers for the sake
+of man's highest goal — love for Krishna. The poem has thirty-eight verses in eight viruda metres: “vardhita”,
+“virabhadra”, “samagra”, “achyuta”, “utpala”, “turanga”, “gunarati” and “matanga-khelita”. With virudas Jiva also glorified
+Gopaladeva at the very end of the “Gopala-champu” (“Uttara-champu”, 37th purana, verses 148–154). <!-- F223 F224 F225 F226 Q48 -->
+
+The closing verse of the poem:
+
+“Renowned for crushing the asuras, the Destroyer of Kamsa; He who ended the samsara of wise devotees and granted them the
+highest good; a treasury of manifold glory; He whose dust in Vraja Brahma and others long for; who in Vraja considers
+Himself born in the race of cowherds, and in the city in the race of Yadu; Sri Krishna, who loves His race and His flute —
+may He appear in all our senses”.
+
+“Race” and “flute” are one word in Sanskrit, “vamsha”, and Jiva plays upon it. <!-- F227 Q49 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -985,3 +1101,10 @@ argument about it never becomes proof; for those who forget this there is no end
 
 [^41]: In the Bengali retelling of one of the biographies Ramanuja's teaching is called vishishtadvaita-vada and Madhva's
     bheda-vada; in Jiva's Sanskrit text both are named as upholders of difference.
+
+[^42]: One of the biographies, retelling this list, places the “Krama-sandarbha” first among the “Sandarbhas” and calls
+    the “Krishnarchana-dipika” the “Radha-krishnarchana-dipika”; in the “Bhakti-ratnakara” itself the “Krama-sandarbha” is
+    named seventh (1.842).
+
+[^43]: According to another biography, Sanatana gave the “Vaishnava-toshani” to Jiva to revise, and Jiva completed the
+    revised text, naming it the “Laghu-toshani”, in 1504 Shaka.
