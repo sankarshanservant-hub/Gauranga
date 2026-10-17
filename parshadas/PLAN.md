@@ -90,7 +90,7 @@ B — вероятно, больше сотни).
 | @gadadhara-pandita (004) | ✓ | ✓ (PDF) | — |
 | @srivasa (005) | ✓ | — | — |
 | @gauridasa-pandita (006) | ✓ | ✓ (PDF) | — |
-| @jahnava (007) | ✓ | в работе | — |
+| @jahnava (007) | ✓ | ✓ (PDF) | — |
 | @narahari-sarakara (008) | в работе | — | — |
 | @vasu-ghosha (009) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
