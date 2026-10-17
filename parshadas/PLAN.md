@@ -98,7 +98,7 @@ B — вероятно, больше сотни).
 | @svarupa-damodara (012) | ✓ | ✓ (PDF) | — |
 | @ramananda-raya (013) | ✓ | ✓ (PDF) | — |
 | @bhugarbha (014) | ✓ | ✓ (PDF) | — |
-| @sundarananda (015) | ✓ | — | — |
+| @sundarananda (015) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
