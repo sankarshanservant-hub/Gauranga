@@ -1309,6 +1309,180 @@ north. When Sanatana first came to Chakra-tirtha, mosquitoes would not let him e
 decided to leave. But that night in a dream Chakreshvara told him not to worry: there would be no more disturbance. Since
 that night there have been no mosquitoes at Chakra-tirtha. <!-- F334 F335 F336 -->
 
+## Madana-mohana
+One of the Lord's four commissions was the service of the Deity (see above), and Sanatana fulfilled it: the
+“Bhakti-ratnakara” and other books tell how he revealed in Vrindavana the service of Sri Madana-gopala. In the
+“Brihad-bhagavatamrita” he again and again calls Madana-gopala his chosen Deity, his ishta-deva. Having spent much time
+searching out the holy places of Vraja, he established the service of Madana-mohana, as Rupa established that of
+Govindaji: in Vrindavana Rupa built the temple of Govinda, and Sanatana the temple of Madana-mohana. <!-- F337 F339 -->
+
+Krishnadasa Kaviraja speaks of the three Deities of Vrindavana — Madana-mohana, Govinda and Gopinatha:
+
+“These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
+feet, for They are the Lords of my life.” (CC, Adi 1.19)
+
+They are Krishna, Govinda and Gopijana-vallabha, to whom the mantras of the Gaudiyas are addressed — the Lords of
+sambandha-jnana, abhidheya and prayojana. Madana-mohana, the Lord of Vrindavana, is the treasure of Sanatana's life, as
+Govinda is the Lord of Rupa's life (see the article on Rupa Gosvami).[^52] <!-- F338 Q51 -->
+
+How Madana-gopala came to Sanatana is told by the “Bhakti-ratnakara”:
+
+“Wondrous are the pastimes of Sanatana Gosvami: from time to time he lives in Sri Mahavana. There he sees with his own
+eyes how Madana-gopala plays with the boys on the sandbank of the Yamuna. Madana-gopala, subject to Sanatana's love, one
+day in the guise of a dream says to Sanatana: ‘Sanatana, your hut pleases Me; I shall come here from Mahavana.’ Saying
+this, the Lord vanished; Sanatana was beside himself with prema. The devotee knows well the Lord's designs: at dawn
+Madana-gopala came. Sanatana's heart became boundlessly glad; in a hut of leaves he serves the Lord.”
+(“Bhakti-ratnakara,” 2.455–461)[^53] <!-- F340 F341 F343 Q52 -->
+
+The story is also told in more detail. In Mahavana, near the birthplace of Krishna, Sanatana made himself a grass hut and
+performed his bhajana there. One day, while begging alms, he came to a hamlet on the Yamuna where Madana-mohana was
+playing with the cowherd boys. Seeing Sanatana, the boy cried, “Baba!” — ran up, caught him by the hand and begged to go
+with him. “I eat only dry flatbread and coarse rice,” said Sanatana. “Then I will eat the same,” the boy replied; but
+Sanatana sent him back to his parents. That night the boy, laughing, appeared to him in a dream: “Baba, My name is
+Madana-mohana; tomorrow I shall come to you.” Sanatana woke in ecstasy, opened the door of his hut — and saw on the
+threshold a wondrous Deity illumining all the directions. Coming to himself, with tears of love he began the worship
+with abhisheka. Rupa, seeing the Deity, was filled with prema and sent word by messenger to the Lord in Puri. Thus,
+having received power from Mahaprabhu (shakti-sanchara) and His command, Sanatana revealed Madana-gopala from Mahavana —
+as Rupa revealed Govinda from the Yoga-pitha at Goma-tila. <!-- F342 F344 F354 -->
+
+But one thing grieved Sanatana:
+
+“Sri Madana-mohana is the son of a great king, yet He eats dry flatbread — Sanatana grieves.” (“Bhakti-ratnakara,” 2.462)
+
+The whole day went in begging, and in the evening Sanatana offered the Deity the flatbreads (ruti) he had gathered,
+sometimes with shak or other vegetables, but he never cooked with oil and salt: there was no time to beg for them, for
+the Lord had given him the service of writing books. Madana-mohana saw that Sanatana wished to serve Him royally and
+was grieving, and He Himself arranged for His service to increase:
+
+“Knowing Sanatana's thoughts, Madana-gopala at once wished His service to be enlarged.” (“Bhakti-ratnakara,” 2.463)
+<!-- F345 -->
+
+At that time Krishnadasa Kapur, a wealthy merchant (sheth) from Multan, “the best of kshatriyas,” was sailing along the
+Yamuna to Mathura on business. His boat ran aground, and the local people told him of the great sadhu Sanatana.[^54]
+Inspired by Bhagavan, he left the boat and came to the Gosvami. Sanatana was sitting in his hut writing — wearing only a
+kaupina, emaciated by austerity. Kapur fell at his feet with great humility and begged for mercy — for some service to
+Madana-mohana. Sanatana touched him with his hand, seated him on a grass mat and said, “I am a beggar; tell everything to
+Madana-mohana.” Kapur bowed to the Deity and promised to give all his profit to His service. That same day a storm and a
+downpour raised the water of the Yamuna, the boat floated free, and Kapur understood that this was Madana-mohana's
+mercy. <!-- F346 F347 F348 -->
+
+“He fell at the Gosvami's feet, rolling on the ground, and humbled himself greatly, bathed in tears. Sanatana showed him
+great mercy and entrusted him to the feet of Sri Madana-mohana. <…> That very day he began to build the temple and had
+[the Deity] adorned with various jewels. Garments and other things of every kind he had carefully kept in a separate
+storeroom. He prepared all kinds of provisions for offerings: ‘The Lord will eat,’ — and he was very glad.”
+(“Bhakti-ratnakara,” 2.466–470)
+
+Kapur gave the whole profit of his successful trading for a splendid temple with a bhoga-shala — a storeroom for the
+finest foods — and arranged daily offerings of many dishes. From then on Madana-mohana was served royally, and Sanatana
+was very glad; soon he accepted Krishnadasa Kapur as his disciple and gave him initiation.
+
+“Who, seeing Madana-gopala, can keep his composure? The people of Vraja float in an ocean of happiness. I have told this
+healing story briefly: Madana-mohana is the life of Sanatana.” (“Bhakti-ratnakara,” 2.471–472) <!-- F348 F349 -->
+
+The hut where Sanatana served Madana-gopala stood on the Dvadashaditya-tila (also called the Aditya-tila) — the highest
+hill by the Yamuna in Vrindavana, where, as told above, Sanatana prepared a dwelling for Mahaprabhu; on this spot
+Krishnadasa built the temple.[^55] The old temple of Madana-mohana stands there to this day, about forty feet above the
+bed of the Yamuna; it is some sixty feet high, and on the door of the natya-mandira on the north side an inscription
+survives: “Samvat 1684, Shravana” (1627 AD). All Gaudiya Vaishnavas honour this temple as one of their chief places of
+pilgrimage. <!-- F350 F351 -->
+
+In the manuscript “Seva-prakatya,” kept by Pandita Banamali Lala Gosvami of the Radha-ramana-ghera, it is recorded that
+Sanatana installed the Deity of Madana-gopala in Vrindavana in 1590 Samvat (1533 AD), on the second lunar day of the
+bright fortnight (shukla-dvitiya) of the month of Magha, and entrusted the service to the pujari Krishnadasa
+Brahmachari. <!-- F353 -->
+
+Later, to save the Deity from the oppression of the padishah, Madana-mohana was taken from Vrindavana to Jaipur; then the
+Maharaja of Jaipur gave Him to his brother-in-law, Gopala Singh, the Raja of Karauli, and today Madana-mohana is served in
+a temple built by the king of Karauli. And on 4 October (apparently in 1922) the old temple of Madana-mohana in
+Vrindavana was visited by Srila Bhaktisiddhanta Sarasvati. <!-- F352 F355 -->
+
+Srila Bhaktivedanta Swami calls Sanatana the ideal spiritual master, because he leads one to the feet of Madana-mohana:
+by his mercy even one who has forgotten his relationship with the Lord can live in Vrindavana and obtain every spiritual
+good. <!-- I31 -->
+
+## The Deity of Sambandha
+The “Chaitanya-charitamrita” opens with obeisances to the three Deities of Vrindavana, and first of all Krishnadasa
+Kaviraja glorifies Madana-mohana:
+
+“O Sri Sri Radha-Madana-mohana! I am lame and of meagre intelligence, and my sinful mind is captured by base objects. I
+pray to You: grant me attachment to the priceless wealth of my life — Your lotus feet. And may Your Lordships, so
+compassionate and loving, be ever and everywhere victorious!” (CC, Adi 1.15) <!-- F356 Q54 -->
+
+Srila Bhaktivedanta Swami explains: Kaviraja first bows to Madana-mohana, Sanatana's Deity, who establishes our
+relationship with the Lord (sambandha); then to Govinda, Rupa's Deity — the “acting” Deity, who accepts service; and
+finally to Gopinatha. Following Srila Bhaktisiddhanta Sarasvati, he teaches that the three Deities are worshipped at
+three stages of the path: Madana-mohana restores the forgotten relationship with the Lord and is therefore needed by
+beginners, Govinda accepts service, and Gopijana-vallabha — Gopinatha — is realised in perfection. <!-- F357 F358 -->
+
+Jiva Gosvami, in his commentary on the “Brahma-samhita” (translated by Srila Bhaktisiddhanta), discloses the three key
+words of the eighteen-syllable Gopala-mantra: “Krishnaya” points to Madana-mohana, the object of sambandha-jnana, whose
+acharya is Sanatana; “Govindaya” to the Deity of abhidheya, whose acharya is Rupa; “Gopijana-vallabhaya” to Gopinatha,
+the Deity of prayojana, whose acharya is Raghunatha Dasa. Therefore Raghunatha Dasa, the acharya of prayojana, sees the
+highest goal in the feet of Rupa, the acharya of abhidheya, while Rupa always honours Sanatana, the acharya of
+sambandha, as his spiritual master. <!-- F359 F360 -->
+
+So too Bhaktivinoda Thakura, explaining the Lord's conversation with Ramananda Raya, finds the three Deities in the
+kama-gayatri: Krishna-Kamadeva is Madana-mohana, who establishes the relationship; Pushpa-bana is Govinda, who accepts
+service; Ananga is Gopijana-vallabha, the highest goal. And in the commentary on the verse of the “Brahma-samhita” about
+the sound of Krishna's flute entering Brahma (“atha venu-ninadasya trayi-murti-mayi gatih…,” 5.27),[^56] it is said that
+this sound is the gayatri, the basis of sambandha, abhidheya and prayojana, and that the word “trayi-murti” points to the
+three murtis — Madana-mohana, Govinda and Gopinatha; hearing it, Brahma became twice-born and offered the prayers
+“chintamani-prakara-sadmasu…” (5.29). <!-- F361 F362 Q55 -->
+
+The order “Madana-mohana — Govinda — Gopinatha” is the very path of the sadhaka: relationship, service, the highest goal.
+Sanatana, the acharya of sambandha-jnana, stands at the beginning of this path, and his Deity helps one to conquer the
+senses and fix the mind in service. Therefore, in the words of one of the biographies, Sanatana holds a special place in
+the sampradaya: his books are a storehouse of nectar, his humility is indescribable, and he is an intimate associate of
+Mahaprabhu and of Radha-Krishna and the guru of Rupa. <!-- F363 I32 -->
+
+## Wondrous Stories of Vraja
+Sanatana, as already said, circumambulated Govardhana every day by vow. It is told that in his old age, when he
+manifested the pastime of infirmity and could no longer walk the seven kroshas round the hill each day, Krishna Himself,
+the lifter of Govardhana, came to him in the form of an unknown boy of Vraja. He gave Sanatana a govardhana-shila bearing
+the print of His foot, told him to circumambulate this stone instead of the hill, and vanished. To the last day of his
+manifest pastimes Sanatana circumambulated this shila.[^57] Today it is kept in the temple of Radha-Damodara.[^58]
+<!-- F364 F365 Q53 -->
+
+In the mood of separation Sanatana searched for Krishna through the forests of Vraja. Once, in a secluded grove by
+Pavana-sarovara, absorbed in the rasa of love for Krishna, he was performing bhajana without taking food or water. Then a
+cowherd boy came to him with a pot of milk: “You are eating nothing — the cowherd girls told me.” “Why did they not come
+themselves?” “They have work at home.” The boy would not sit down: he had to milk the cows, and he would fetch the pot
+tomorrow — and he vanished. Sanatana understood that it was Krishna, and drank the milk, drowning in tears. From that
+day he lived by madhukari, taking a little food from many residents of Vrindavana. And on the bank of Pavana-sarovara
+Krishna, through the hands of the Vrajavasis and without Sanatana's knowledge, built him a hut.[^59] Thus in separation
+Sanatana sought Krishna, and Krishna Himself took care of him: the milk, the hut at Pavana-sarovara, the shila from
+Govardhana. <!-- F366 F367 F368 I34 -->
+
+Two more stories are connected with Radha-kunda and Rupa; they are told in detail in the article on Rupa Gosvami. Once
+Sanatana came to Radha-kunda to Rupa and Raghunatha Dasa, and he was troubled by a verse of Rupa's “Chatu-pushpanjali”
+that compares Radha's braid to a black serpent. Bathing in Radha-kunda, he saw cowherd boys and girls at play, and behind
+one girl's back he thought he saw a venomous snake; he cried out, ran up — and saw Sri Radha Herself. The children
+laughed for a long time, while Sanatana stood speechless and understood the truth of Rupa's comparison. <!-- F369 -->
+
+Another time Radha, in the form of a young cowherd girl, brought Rupa milk, rice and sugar; Rupa cooked sweet rice,
+offered it to Govinda-deva and gave the prasada to Sanatana. Sanatana understood who had come, and with tears reproached
+himself: “Having accepted service from Her whom we long to serve, we are ruined,” — and he forbade Rupa ever again to
+cook sweet rice and accept such gifts, so that Radharani should not trouble Herself.[^60] <!-- F370 -->
+
+There is also the story of the touchstone. A poor worshipper of Shiva — according to the “Bhakta-mala” and the
+“Gaudiya-vaishnava-abhidhana,” Sri Jivana Chakravarti of the village of Mankar in the Burdwan district — prayed to Shiva
+in Benares for many years for wealth. Shiva in a dream sent him to Vrindavana, to Sanatana: he has great wealth. The
+brahmana found Sanatana in meditation — emaciated, in a worn kaupina — and was filled with doubt. Having heard him,
+Sanatana replied that he himself lived on alms — how could he give wealth? The disappointed brahmana went away. But
+Sanatana, thinking it over, remembered a touchstone that had long been lying on a rubbish heap, sent for the brahmana and
+told him to take the stone. The brahmana was overjoyed, but, having gone a little way, he began to reflect: if Sanatana
+had so forgotten such a treasure, he must possess something more precious. He returned and asked about it. “There is no
+wealth higher than love for Krishna,” said Sanatana. “Worldly things are worthless and only multiply sorrow.” The
+brahmana bowed at his feet and began to beg for that wealth, and Sanatana, moved, bestowed on him krishna-prema.
+<!-- F371 F372 F373 F374 -->
+
+Another biography, however, gives a warning: verses like the “Sparshamani” (“The Touchstone”), written in Sanatana's
+name by certain modern worldly poets who wished to praise his renunciation, do not convey his renunciation. Sanatana
+neither held to nor preached phalgu-vairagya — the showy, false renunciation that dazzles people bent on enjoyment. From
+Mahaprabhu he accepted yukta-vairagya — renunciation eternally joined to the rasa of service to Krishna — and he showed
+the ideal of such superhuman renunciation, the summit of transcendental vipralambha-bhava, the mood of separation. To
+praise his renunciation in a worldly way is not to understand him. <!-- F425 I33 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: One of the biographies, citing the “Gaudiya-vaishnava-abhidhana,” puts it more cautiously: “about 1410 Shaka
@@ -1486,3 +1660,41 @@ that night there have been no mosquitoes at Chakra-tirtha. <!-- F334 F335 F336 -
     “Chaitanya-charitamrita” says otherwise: Sanatana said that it is precisely saffron sannyasi cloth that is not fitting
     for a Vaishnava (Antya 13.61), and the Lord did not approve of it on him; there is no contrast between “red” and
     “saffron” cloth in the CC.
+
+[^52]: One of the biographies calls Gopinatha the Deity of Raghunatha Dasa — evidently in the sense that Raghunatha Dasa is
+    the acharya of prayojana, whose Deity is Gopinatha (see below). The service of Gopinatha in Vrindavana, however, is
+    usually connected with Madhu Pandita.
+
+[^53]: Another biography, citing the “Bhakti-ratnakara” (by its count 5.1777–1780; the numbering of the editions evidently
+    differs), tells it otherwise: living in Gokula-Mahavana, Sanatana saw Madana-gopala playing with the cowherd boys on
+    the Raman-reti, the sandy bank of the Yamuna, while the people of Mahavana came to life on seeing Sanatana himself.
+    One day, watching the play, he thought, “This is no ordinary child,” and followed; the boy entered a temple, and
+    Sanatana, going in after Him, saw only the Deity of Madana-mohana, bowed down and silently returned home. Thus
+    Madana-mohana showed that He was conquered by Sanatana's love. There is also a tradition that Sanatana received the
+    Deity from the house of a Mathura brahmana, Damodara Chaube.
+
+[^54]: According to another biography, Kapur was not a merchant but, “as they say,” a wealthy commander in the sultan's
+    army; he built the temple and the kitchen.
+
+[^55]: According to another account, a temple was built on this hill first. One and the same biography names the hill now
+    “Aditya-tila,” now “Dvadashaditya-tila.”
+
+[^56]: One of the biographies attributes this commentary to Bhaktivinoda Thakura and calls it the “Anubhashya”; but
+    “Anubhashya” is the name of Srila Bhaktisiddhanta Sarasvati's commentary, so the names are probably confused here.
+
+[^57]: According to one biography, citing the “Bhakti-ratnakara” (5.728–741), the circuit was fourteen miles; Gopinatha in
+    the form of a cowherd boy first fanned the tired Sanatana, then climbed the hill and brought the stone, and Sanatana
+    wept at losing sight of Him. According to another, also citing the “Bhakti-ratnakara,” the circuit was “four miles”;
+    the cowherd boy urged him, “Baba, you are old, give up this rule,” — Sanatana answered, “I will not give up the
+    principles of bhajana,” — and then Krishna gave him the shila with the print of His foot, and Sanatana understood
+    that it was Giriraja Himself who had given it.
+
+[^58]: The biography that reports this places the temple of Radha-Damodara at Radha-kunda; but the temple of
+    Radha-Damodara, in whose courtyard stands Rupa's samadhi, is in Vrindavana (see the article on Rupa Gosvami).
+
+[^59]: According to another biography, Krishna told Sanatana to build the hut himself and serve Him; according to a third,
+    the Vrajavasis built it in the course of time.
+
+[^60]: One of the biographies speaks only of Sanatana reproaching himself, another only of the prohibition; the second adds
+    ghee to the gifts and in one place names the scene as Teri-kadamba, where Rupa performed bhajana (near Nandagrama), in
+    another as Pavana-sarovara.
