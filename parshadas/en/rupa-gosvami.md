@@ -1318,8 +1318,8 @@ His disciple Bhakti Dayita Madhava Gosvami is called “dear to the followers of
 disciples to preach the message of Rupa and Raghunatha together, and the commentary of Srila B. R. Sridhara Maharaja on the
 gayatri is called a contribution to the Rupanuga-sampradaya. <!-- F349 -->
 
-<!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (F350–F626, I30–I42, Q61,
-     Q82–Q154; see review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
+<!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (list of items
+     in review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
     Lord expounded the science of rasa to Rupa as to no one else, because Rupa was the dear friend of Svarupa Damodara,
