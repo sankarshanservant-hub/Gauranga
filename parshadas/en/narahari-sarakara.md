@@ -22,7 +22,7 @@ Shachinandana, Jagadananda and many other Vaishnavas. <!-- F35 -->
 ## A Family of Vaidyas
 Shrikhanda lies in the present district of Bardhaman, about four miles west of Katwa. On the railway from Katwa to
 Bardhaman the first station west of Katwa is called Shripat Shrikhanda and the second Shrikhanda; Narahari's house stands
-about a mile from the station. In the “Chandraprabha” Bharata Mallika praises Shrikhanda as a famous town of Radha, that
+about a mile from the station. In the “Chandraprabha” Bharata Mallika praises Shrikhanda as a famous town of the region of Rarh (Radha), that
 is, of western Bengal, a refuge of all the clans of vaidyas, hereditary physicians: they gathered there, and the town
 became the favourite home of the noblest among them, the kulinas. <!-- F8 F10 Q20 -->
 
@@ -34,7 +34,7 @@ Raghunandana was Narahari's nephew.[^3] <!-- F9 F11 F12 F13 F14 -->
 
 Mukunda served as a court physician, a raja-vaidya; it is said that at times he also attended the family of the Bengal
 Shah. But this service was only outward: in the guise of a Vaishnava householder lived a mahabhagavata, a paramahamsa,
-though ordinary people did not see it. The “Chaitanya-charitamrita” records the Lord's own words about him:
+though ordinary people did not see it. The “Chaitanya-charitamrita” says of him:
 
 “Outwardly he is a court physician in the service of the state. But who can understand how great is his love for God?”
 (CC, Madhya 15.120) <!-- F15 -->
@@ -254,15 +254,24 @@ Haridasa, the grieving Srinivasa set out once more for Vrindavana. <!-- F70 F71 
 ## Songs and Books
 Narahari composed sweet songs in Bengali and Brajabuli, and also wrote on bhakti in Sanskrit — elegant and at the same
 time simple. Many of his poems and songs are devoted to the pastimes of Gauranga and Nityananda. In one of them the
-devotees of Navadvipa speak, longing for the Lord: “If only Gaura would come to Nadia again…”; another, preserved in the
-anthology “Padakalpataru,” begins with the words “Merciless is this world…” <!-- F72 F73 -->
+devotees of Navadvipa speak, longing for the Lord, who now lives in Puri:
+
+“Gaura will come again to the town of Nadia — and the heart will be filled with joy. Shall we really see again that
+fountain of bliss, His play in kirtana?” (“Padakalpataru,” 1970)
+
+Another song preserved in the same anthology begins with the words “Merciless is this world…” <!-- F72 F73 -->
 
 In some places there is a tradition that he was the first to sing of Gaura-lila in Bengali and Brajabuli. In support of
-it a song ascribed to him is quoted. The poet would like to write down Gaura's pastimes in his mother tongue, which
-everyone understands, but he does not know where to begin or in what order to tell the story: the one who will write this
-book is not yet born. The pastimes of Gaura and Gadadhara melt even stone; neither Sarasvati nor five-faced Sadashiva could
-describe them; and still he composes a few padas in the hope that someday someone will unfold the Lord's pastimes from
-them. Some see in the words “the one who will write it is not yet born” a hint at Vrindavana Dasa. <!-- F82 Q17 -->
+it a song ascribed to him is quoted:
+
+“Seeing Gaura's lila, I greatly long in my heart to write it all down in our own tongue; but I am most lowly, I do not
+know how to write in due order — how then shall I write it? He who will write this book is not yet born — long yet is the
+delay before his birth; when it is composed in our own tongue, all people will understand… The lila of Gaura and
+Gadadhara softens stone — who has the power to describe it? Even if Sharada were to write ceaselessly, without end, and
+five-faced Sadashiva with her… If, seeing the few songs I write, someone reveals to the world the Lord's lila — Narahari
+will find happiness, the grief of his heart will go: at the singing of that book stones will melt.”
+
+Some see in the words “he who will write this book is not yet born” a hint at Vrindavana Dasa. <!-- F82 Q17 -->
 
 Narahari's principal work is the “Sri Bhajanamrita” (or “Sri-Krishna-bhajanamrita”), a book on siddhanta especially
 honoured by Vaishnavas. It is written in a plain, “soft” style so that ordinary people too might understand it.[^17]
@@ -401,7 +410,7 @@ Vaishnava tradition rejects the imitation of Krishna's pastimes in Gaura-lila an
 Krishna, without a trace of worldly feeling or personal enjoyment. Lochana's words “now Krishna, now Radha” mean that in
 kirtana Narahari was wholly absorbed in the bhavas of Radha and Krishna — in the spiritual feelings of Their pastimes;
 they do not mean that he is himself the Lord.
-[^22]: Elsewhere the biography quotes the same couplet with a reference to the “Pada-samudra.”
+[^22]: Elsewhere the biography quotes the same couplet with a reference to the “Padasamudra.”
 [^23]: The biography does not name the source of these verses; the “Bhakti-ratnakara” (2.222–223) quotes the first as a
 verse of Sriman Rupa and the second as a verse of Sri Karnapura. “Shri-khanda” means both the name of the village and
 sandalwood: hence “ever anointed with sandal.”
