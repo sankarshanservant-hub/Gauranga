@@ -85,7 +85,8 @@ brothers behaved as sadhakas striving for perfection, to show people how one oug
 
 The names “Rupa” and “Sanatana” were given to the brothers by Sri Chaitanya Himself when they became His disciples;
 their earlier names are unknown, though some hold that Sanatana was called Amara and Rupa Santosha. Vallabha too
-received the name “Anupama” from the Lord. At court, however, the brothers were known by their titles — Sakara
+received the name “Anupama” from the Lord; Krishnadasa Kaviraja says of him: “Sri Rupa's brother was also a great
+Vaishnava. His name was Sri Vallabha, but he was better known as Anupama Mallik” (CC, Madhya 19.36). At court, however, the brothers were known by their titles — Sakara
 Mallik and Dabir Khas. Vrindavana Dasa Thakura confirms this as well, anticipating the story at the very beginning
 of the “Chaitanya-bhagavata”:
 
@@ -95,7 +96,7 @@ attain liberation and receive new names — Rupa and Sanatana.” (CB, Adi 1.171
 And in the story itself he says:
 
 “At that time two fortunate souls came before Sri Chaitanya. The Lord cast His merciful glance on these two brothers,
-Sakara Mallik and Rupa.” (CB, Antya 9.238–239) <!-- F24 F25 F26 Q13 Q14 -->
+Sakara Mallik and Rupa.” (CB, Antya 9.238–239) <!-- F24 F25 F26 Q7 Q13 Q14 -->
 
 ## At the Court of Hussain Shah
 The brothers' learning, intelligence and noble character drew the attention of the ruler of Gauda, Hussain Shah, and
@@ -1190,7 +1191,135 @@ a translation were printed in the article “Sri Sri Rupanuga-dhara” in the jo
 anuchchheda 189, the eternal pastimes of Radha and Krishna are as described by the “younger brother” of those feet,
 Sanatana's — that is, by Rupa. <!-- F294 F295 F296 Q68 Q69 -->
 
-<!-- SHIFT 1 CONTINUES HERE -->
+## Lokanatha, Narottama and Srinivasa
+When Mahaprabhu and His intimates headed by Rupa and Sanatana disappeared, Lokanatha could not bear the separation. Coming
+again to Vrindavana, he learned that Rupa and Sanatana had already departed, and grieved bitterly; it was then that
+Narottama came to him.[^53] Narottama Dasa Thakura prays in the “Prarthana”: “When will my master Lokanatha take me with him
+and give me to Rupa's feet?” <!-- F298 F299 F300 Q67 -->
+
+Narottama Thakura, the servant of Rupa, Raghunatha and Jiva, sang Rupa's greatness “with a million mouths” and chose him as
+his cherished krishna-prema. He is the first of the later followers of Rupa, the intimate associate of Mahaprabhu; in the
+eternal pastimes he is Champaka-manjari, who ever assists Rupa-manjari in the service of Radha and Krishna. In his four songs
+about Rupa-manjari (one of them, “shri rupa-manjari pada…” from the “Prarthana,” was much loved by Srila Bhaktisiddhanta
+Sarasvati) the feet of Rupa-manjari are Narottama's whole wealth, his bhajana, life, ornament, desired perfection, dharma,
+vow and japa; he longs for her darshana; “by Rupa's mercy one attains the feet of the Couple,” he has heard from the sadhus;
+he prays to Sanatana and the whole family of Gaura to fulfil his desire, to Lokanatha to give him to Rupa, and to the
+narma-sakhis to instruct him. In the third and fourth songs Narottama sees himself as a new maidservant (nava-dasi): Rupa
+tells her to prepare everything for the service, and she carries to the Couple on a jewelled tray the paraphernalia and a
+golden pitcher of fragrant water, standing timidly behind Rupa. The Couple, smiling, ask, “Rupa, where did you find this new
+maidservant?” — and Rupa-manjari answers that Manjunali brought her and gave her, and sets Narottama to service.
+<!-- F301 F302 F303 F304 F305 Q70 -->
+
+On the way to Vraja the weary Narottama dreamed of Rupa and Sanatana: they placed their hands on his chest and fed him milk
+brought by Mahaprabhu Himself, and his weariness vanished. Reaching Mathura and seeing the Yamuna, Narottama remembered the
+names of the six Gosvamis headed by Rupa and Sanatana and wept; and in one of his songs he laments: “Where are my Svarupa
+and Rupa, where are Sanatana, Raghunatha Dasa?..” In another song he sings: “Glory to Sanatana and Rupa — bottomless wells of
+prema-bhakti-rasa, embodiments of ujjvala-rasa, wish-fulfilling trees! Their books clearly set forth prema-bhakti; they are
+the shelter of madhura-rasa. Rupa and Sanatana, pierce my heart with the precious arrows of love for Radha and Krishna!”
+<!-- F306 F307 F308 F309 Q72 Q74 -->
+
+Mahaprabhu foretold the birth of Srinivasa: “Through Rupa, Sanatana and others I shall reveal the scriptures of bhakti, and
+through Srinivasa they will be distributed” (“Bhakti-ratnakara,” 2.120–123). When Srinivasa came to Vraja, Rupa, Sanatana,
+Kashishvara and Raghunatha Bhatta had already disappeared, while Raghunatha Dasa, Gopala Bhatta and Jiva were still on earth.
+According to the “Nava-padya” of Nrisimha Kaviraja, Rupa and the others headed by Sanatana said to Srinivasa in a dream:
+“This is no time to grieve: Gopala Bhatta is here; receive the mantra from him and our books, go to Gauda and preach.”[^54]
+Jiva entrusted Srinivasa, Narottama and Shyamananda with taking to Gauda the books of Rupa and Sanatana, and also of
+Raghunatha Dasa, Gopala Bhatta and others. And when the robber-king of Vana-Vishnupura, Bira Hambira, opened the stolen chest
+of the Gosvamis' books, he saw on a palm leaf the name “Sri Rupa Gosvami” — and at the mere sight of Rupa's flawlessly
+beautiful handwriting the sins of his whole long life flew away, his heart was purified, and krishna-prema awoke in it.
+<!-- F310 F311 F312 F313 Q80 -->
+
+## The Rupanugas
+Raghunatha Dasa Gosvami in the “Mukta-charita,” proclaiming the incomparable glory of the dust of Rupa's feet, prays:
+“Holding a straw between my teeth, again and again I beg: may I be, birth after birth, the dust of Sri Rupa's lotus feet.” In
+the “Sva-niyama-dashaka” and the “Manah-shiksha” he proclaims that to be initiated as a follower of Rupa (a Rupanuga) is the
+highest, the only goal of the soul's life, and in the “Manah-shiksha” (3) he instructs the whole Rupanuga-sampradaya that
+wishes to live in Vraja: “If you wish, birth after birth, to live with love in the land of Vraja and serve the youthful
+Couple, then, O mind, always remember and honour with love Svarupa, Rupa with his companions and his elder brother
+Sanatana.” <!-- F319 F320 F321 Q64 Q66 I25 -->
+
+Of the incomparable greatness of following Rupa Raghunatha Dasa speaks many times in other places of the “Stavavali” too: in
+the “Vraja-vilasa-stava” (38), “Vilapa-kusumanjali” (1, 14, 72), “Sva-niyama-dashaka” (1, 10),
+“Radha-krishna-ujjvala-kusuma-keli” (44), “Prarthanamrita” (opening verse and 20), “Madana-gopala-stotra” (21),
+“Vishakhananda-stotra” (134), “Prarthanashraya-chaturdashaka” (4, 10, 11, 14) and “Abhishta-suchana” (1, 2, 13); the
+“Dana-keli-chintamani,” he says, he wrote by the power of the dust of Sri Rupa's lovely lotus feet. In the opening verse of
+the “Mukta-charita” he says that by the mercy of his guru Yadunandana Acharya he obtained Svarupa, Rupa and his elder brother
+Sanatana. Thus the highest acharyas — Raghunatha Dasa, Jiva, Narottama — define themselves by following Rupa.
+<!-- F322 F323 Q79 I26 -->
+
+Krishnadasa Kaviraja begins each chapter of the “Chaitanya-charitamrita” with obeisances to Mahaprabhu and His associates and
+ends it with a prayer for service at the feet of Rupa and Raghunatha:
+
+“Praying for mercy at the feet of Sri Rupa and Sri Raghunatha, I, Krishnadasa, narrate this ‘Sri Chaitanya-charitamrita.’”
+(CC, Adi 1.110)
+
+Kaviraja is honoured as the best of Rupa's followers. Vishvanatha Chakravarti followed Rupa's example, going to live in
+Vrindavana for the sake of bhajana, and with detailed commentaries explained Rupa's confidential works on rasa, difficult
+for ordinary people: his “Ananda-chandrika” is a commentary on the “Ujjvala-nilamani,” and he also commented on the
+“Vidagdha-madhava.” The Vaishnavas speak of three of his works — summaries of Rupa's books, the “Ujjvala-nilamani-kirana,”
+the “Bhakti-rasamrita-sindhu-bindu” and the “Bhagavatamrita-kana”: “kirana, bindu, kana — with these three you will become a
+Vaishnava.” Govinda Kaviraja composed songs on shanta, dasya, sakhya, vatsalya and madhurya following Rupa's
+“Bhakti-rasamrita-sindhu” and “Ujjvala-nilamani.” <!-- F324 F325 F326 F327 F328 -->
+
+The shiksha-guru-parampara from Mahaprabhu to Vishvanatha, according to Srila Bhaktisiddhanta, is this: Mahaprabhu — Svarupa
+Damodara — Rupa and Sanatana (with Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta) — Jiva — Krishnadasa Kaviraja — and so
+on. This Madhva-Gaudiya succession in the spirit of Rupa was not broken even in “periods of darkness”: acharyas may be
+solitary (viviktanandi) or preachers (goshthyanandi). <!-- F329 F330 -->
+
+Baladeva Vidyabhushana served Rupa's Govinda in Jaipur and was therefore called “Govinda-dasa.” Troubled by the dispute with
+the Ramanandis, at Vishvanatha's bidding he went to the temple of Sri Govinda, Rupa's Deity, told Him everything and in a
+dream received from Govinda the command to write a commentary on the “Vedanta-sutra” which He Himself would approve; the
+“Govinda-bhashya” is dedicated to Govinda and named after Him. From the date in his commentary on the “Stava-mala” it is
+clear that he lived after the battle of Plassey (1757). In the “Prameya-ratnavali” he bows to Shyamasundara, Chaitanya,
+Vyasa, Rupa and Sanatana, “risen like two moons.” On Rupa's books he wrote the “Stava-mala-vibhushana” (a commentary on the
+“Stava-mala”), a commentary on the “Nataka-chandrika,” the “Saranga-rangada” (a commentary on the “Laghu-bhagavatamrita”)
+and a commentary on the “Utkalika-vallari” (1686 Shaka, 1764 CE). <!-- F331 F332 -->
+
+Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's feet the chief thing in his life and often said that he
+desired nothing else. He taught: many fools think that teaching through books, as Rupa, Sanatana, Jiva and Raghunatha Dasa
+did, or accepting many disciples, as Madhva, Ramanuja and Narottama did, is an obstacle to sadhana and a worldly
+entanglement; this is a delusion. Some Rupanuga Vaishnavas say that Prabodhananda inclines to the svakiya doctrine and do not
+care to read his books, considering Rupa's parakiya-vada higher; one biography, following Narahari Chakravarti, declines to
+enter this dispute. <!-- F333 F334 F335 -->
+
+## Acharyas of the Nineteenth and Twentieth Centuries and the Rupanugas
+Jagannatha Dasa Babaji is called in a verse of obeisance “the best of Rupa's followers,” and his teaching, according to Srila
+Bhaktisiddhanta, accords with Rupa's. Bhaktivinoda Thakura is “the best of the Rupanugas”; his svarupa is Kamala-manjari, a
+maidservant of Rupa-manjari, the head of Lalita's retinue. In June 1868 Bhaktivinoda visited the house of Rupa and Sanatana
+in Ramakeli, and in Puri he studied the “Bhakti-rasamrita-sindhu” in detail. A Sanskrit prayer to the acharya in the
+biographies of the nineteenth century glorifies the service of Radha's feet, approved by Gauranga, understood by Svarupa,
+honoured by Sanatana, Rupa's elder brother, distributed by Rupa and others and tasted by Raghunatha and the other followers
+of Rupa. <!-- F336 F339 F341 F342 -->
+
+Srila Bhaktisiddhanta Sarasvati worshipped Govardhana with the hymns of Rupa and Raghunatha and constantly repeated the words
+of Rupa's first “Govardhanashtaka” — “Govardhana, fulfil my hope” (pratyasham me tvam kuru govardhana purnam) — and those of
+Raghunatha: “Govardhana, grant me a dwelling near you” (nija-nikata-nivasam dehi govardhana tvam). During a journey to
+Vrindavana, on 3 October, he had the darshana of Rupa's beloved Deities, Radha-Govinda. He began a commentary on Rupa's
+“Upadeshamrita” but stopped after eight verses, and lectured on the “Upadeshamrita” in Vraja. In Prayaga, around 1924–1925,
+he pointed out the exact place where Rupa received Mahaprabhu's teachings; at the Purna-kumbha-mela in January 1930 he
+installed at Triveni the Deities of Radha-Govinda, “the life and soul of Sri Rupa,” and spoke of the teachings given to Rupa;
+on 21 November 1932 the Sri Rupa Gaudiya Math was founded in Prayaga (Allahabad), and on 30 December 1935 he spoke there again
+of the teachings given to Rupa; and in the mid-1930s he found in Mathura the place where Rupa came for the darshana of
+Gopala. <!-- F337 F338 F343 F344 F348 Q75 -->
+
+The followers of Rupa, he wrote in his letters, do not preach faith in their own strength but attribute everything to the
+source of strength: “we do everything for the sake of Sri Krishna Chaitanya, Sri Rupa, Bhaktivinoda and our guru.” His last
+instructions: preach the message of Rupa and Raghunatha; the highest goal is to become dust at the feet of Rupa's followers;
+our essence is a speck of dust at Sri Rupa's feet birth after birth; may the current of Rupa's ideas flow through the world;
+Narottama accepted the understanding of Rupa and Raghunatha. His sayings: the followers of Rupa do not trust in their own
+strength; the intimate devotee longs only for service to Rupa's followers; the one desire is the dust of the feet of Rupa,
+who embodied on earth the desires of Chaitanya; may this institution of Rupa's followers be ever engaged in service.
+Bhaktisiddhanta himself is glorified as “the destroyer of unorthodox teachings contrary to the conclusions of Rupa and his
+followers,” “the best of the followers of Svarupa and Rupa,” through whom flows the current of Svarupa, Rupa and
+Bhaktivinoda; “be a servant of the followers of Svarupa and Rupa,” say the verses dedicated to him, and service to the gopis
+and Gopinatha in them follows Rupa-manjari. <!-- F340 F345 F346 F347 -->
+
+His disciple Bhakti Dayita Madhava Gosvami is called “dear to the followers of Rupa”; Srila Bhaktisiddhanta told his
+disciples to preach the message of Rupa and Raghunatha together, and the commentary of Srila B. R. Sridhara Maharaja on the
+gayatri is called a contribution to the Rupanuga-sampradaya. <!-- F349 -->
+
+<!-- SECOND SHIFT: sections “Works,” “Departure and Memorial Places,” “Rupa-manjari” go here (F350–F626, I30–I42, Q61,
+     Q82–Q154; see review/rupa-gosvami-notes.md). Continue footnotes from number 55. Then delete this comment. -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
     Lord expounded the science of rasa to Rupa as to no one else, because Rupa was the dear friend of Svarupa Damodara,
@@ -1335,3 +1464,10 @@ Sanatana's — that is, by Rupa. <!-- F294 F295 F296 Q68 Q69 -->
     meant, for in 1599 CE Rupa was no longer on earth. According to some accounts, Sri Radha-Govinda revealed Gopala
     Bhatta's cherished desire to Rupa in a dream, and it was Rupa who revealed the Deity of Radha-ramana; usually the
     appearance of Radha-ramana is associated with Gopala Bhatta himself.
+[^53]: The same biography says elsewhere that in Vraja Narottama met Rupa, Sanatana and Lokanatha — it contradicts itself:
+    Rupa departed before Narottama came. And the chapter on Lokanatha in one biography says that even before His own coming
+    to Vrindavana the Lord sent Rupa and Sanatana there; this contradicts the CC, where Rupa is sent to Vrindavana in Prayaga,
+    after the Lord's visit to Vrindavana — evidently a careless retelling.
+[^54]: One biography says that Srinivasa, Narottama and Duhkhi Krishnadasa (Shyamananda), studying the Gosvamis' scriptures
+    at Jiva's feet, “thus lived with Rupa Gosvami, who taught these dear disciples everything”; probably Rupa's teaching
+    transmitted through Jiva is meant, or it is a slip.
