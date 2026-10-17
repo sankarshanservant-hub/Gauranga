@@ -5533,6 +5533,181 @@
   "note": "Шриваса поклонялся Нрисимхадеве за затворённой дверью, когда пришёл Господь (F30–F31)."
  },
  {
+  "from": "@sundarananda",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F1",
+   "F3",
+   "F7",
+   "F20",
+   "F25",
+   "Q2",
+   "Q5",
+   "Q6"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi",
+   "ev-nityananda-preaching-gauda",
+   "ev-chandrashekhara-sent-back",
+   "ev-nityananda-panihati-abhisheka",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Один из двенадцати гопалов; сокровенный слуга (ЧЧ Ади 11.23); глава спутников Нитьянанды (ЧБ Антья 5.728)."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "companion",
+  "who": "@balarama",
+  "facts": [
+   "F4"
+  ],
+  "note": "Вечный спутник Баладевы во враджа-лиле (B)."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "events": [
+   "ev-goshtha-lila-navadvipa",
+   "ev-nanda-utsava-navadvipa"
+  ],
+  "facts": [
+   "F30"
+  ],
+  "note": "Только по падам (lila-db)."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "co-worker",
+  "who": "@dhananjaya-pandita",
+  "facts": [
+   "F1",
+   "Q3"
+  ],
+  "note": "Тоже из двенадцати гопалов; ГГД 127 называет их в одном стихе."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "co-worker",
+  "who": "@abhirama",
+  "facts": [
+   "F1",
+   "F31"
+  ],
+  "events": [
+   "ev-chandrashekhara-sent-back",
+   "ev-associates-of-nityananda-wonders"
+  ]
+ },
+ {
+  "from": "@sundarananda",
+  "type": "co-worker",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F1"
+  ]
+ },
+ {
+  "from": "@sundarananda",
+  "type": "deity-served",
+  "who": "@radha-vallabha-maheshpur",
+  "facts": [
+   "F14",
+   "F15"
+  ],
+  "note": "Установил сам; по преданию увезено в Саидабад (B); T — увезены оба Божества, в Махешпуре — деревянное."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "deity-served",
+  "who": "@radha-ramana-maheshpur",
+  "facts": [
+   "F14",
+   "F15",
+   "F21"
+  ],
+  "note": "T: цветы кадамбы с лимонного дерева — в служении Радха-рамане."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@balarama-mangaldihi",
+  "facts": [
+   "F17"
+  ],
+  "note": "Служат потомки его родни."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "companion",
+  "who": "@jahnava",
+  "event": "ev-jahnava-ekachakra",
+  "facts": [
+   "F32"
+  ],
+  "note": "Только по lila-db (НВВ)."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "companion",
+  "who": "@virabhadra",
+  "event": "ev-virachandra-pilgrimage",
+  "facts": [
+   "F32"
+  ],
+  "note": "Только по lila-db (НВВ)."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F7",
+   "Q5"
+  ]
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F2",
+   "F3",
+   "Q1",
+   "Q2",
+   "Q6"
+  ]
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F5",
+   "Q3"
+  ]
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F6",
+   "Q4"
+  ],
+  "note": "Описание Судамы в «Радха-Кришна-ганоддеша-дипике»."
+ },
+ {
+  "from": "@sundarananda",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F13"
+  ],
+  "note": "Посетил Махешпур с преданными в Гауда-мандала-парикраму, 10 пхальгуна 1331 б. э."
+ },
+ {
   "from": "@svarupa-damodara",
   "type": "father",
   "who": "@padmagarbha-acharya",

@@ -9423,6 +9423,387 @@
   ]
  },
  {
+  "id": "@sundarananda",
+  "names": {
+   "ru": "Сундарананда Тхакур",
+   "en": "Sundarananda Thakura",
+   "variants": [
+    "Сундарананда-гопал",
+    "Тхакур Сундара",
+    "Сундара",
+    "Судама (во Врадже)"
+   ],
+   "facts": [
+    "F1",
+    "F3",
+    "F5",
+    "Q3"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "panca-tattva"
+  ],
+  "period": [
+   "P07",
+   "P09",
+   "P12",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Только по lila-db: игры в Навадвипе (пады, P07), уход с Нитьянандой после санньясы (Джаянанда, P09), проповедь Нитьянанды в Гауде и Панихати (P12), чида-дадхи (ЧЧ Антья 6, P14), с Джахнавой и Вирачандрой (P15). T и B событий не датируют.",
+  "life": {
+   "appearance": {
+    "place": "#maheshpur",
+    "conf": "место — B и T согласны; дата не названа",
+    "facts": [
+     "F8",
+     "F11"
+    ]
+   },
+   "disappearance": {
+    "tithi": "пурнима месяца Картика (Дамодара) — день Раса-ятры",
+    "conf": "по T и нашему календарю; B: мнения расходятся — Магха-пурнима, кришна-экадаши Пауши (так празднуют в Махешпуре), Картика-пурнима",
+    "facts": [
+     "F26",
+     "F27",
+     "F28"
+    ]
+   },
+   "samadhi": []
+  },
+  "origin": {
+   "places": [
+    "#maheshpur"
+   ],
+   "facts": [
+    "F8",
+    "F9",
+    "F16",
+    "F17"
+   ],
+   "note": "T: не был женат, потомков нет (F16); потомки родни — в Мангалдихи (F17)."
+  },
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "facts": [
+     "F1",
+     "F3",
+     "F7",
+     "F20",
+     "F25",
+     "Q2",
+     "Q5",
+     "Q6"
+    ],
+    "events": [
+     "ev-panihati-chida-dadhi",
+     "ev-nityananda-preaching-gauda",
+     "ev-chandrashekhara-sent-back",
+     "ev-nityananda-panihati-abhisheka",
+     "ev-tattva-bhakti-kalpataru"
+    ],
+    "note": "Один из двенадцати гопалов; сокровенный слуга (ЧЧ Ади 11.23); глава спутников Нитьянанды (ЧБ Антья 5.728)."
+   },
+   {
+    "type": "companion",
+    "who": "@balarama",
+    "facts": [
+     "F4"
+    ],
+    "note": "Вечный спутник Баладевы во враджа-лиле (B)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "events": [
+     "ev-goshtha-lila-navadvipa",
+     "ev-nanda-utsava-navadvipa"
+    ],
+    "facts": [
+     "F30"
+    ],
+    "note": "Только по падам (lila-db)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@dhananjaya-pandita",
+    "facts": [
+     "F1",
+     "Q3"
+    ],
+    "note": "Тоже из двенадцати гопалов; ГГД 127 называет их в одном стихе."
+   },
+   {
+    "type": "co-worker",
+    "who": "@abhirama",
+    "facts": [
+     "F1",
+     "F31"
+    ],
+    "events": [
+     "ev-chandrashekhara-sent-back",
+     "ev-associates-of-nityananda-wonders"
+    ]
+   },
+   {
+    "type": "co-worker",
+    "who": "@gauridasa-pandita",
+    "facts": [
+     "F1"
+    ]
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-vallabha-maheshpur",
+    "facts": [
+     "F14",
+     "F15"
+    ],
+    "note": "Установил сам; по преданию увезено в Саидабад (B); T — увезены оба Божества, в Махешпуре — деревянное."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-ramana-maheshpur",
+    "facts": [
+     "F14",
+     "F15",
+     "F21"
+    ],
+    "note": "T: цветы кадамбы с лимонного дерева — в служении Радха-рамане."
+   },
+   {
+    "type": "other",
+    "who": "@balarama-mangaldihi",
+    "facts": [
+     "F17"
+    ],
+    "note": "Служат потомки его родни."
+   },
+   {
+    "type": "companion",
+    "who": "@jahnava",
+    "event": "ev-jahnava-ekachakra",
+    "facts": [
+     "F32"
+    ],
+    "note": "Только по lila-db (НВВ)."
+   },
+   {
+    "type": "companion",
+    "who": "@virabhadra",
+    "event": "ev-virachandra-pilgrimage",
+    "facts": [
+     "F32"
+    ],
+    "note": "Только по lila-db (НВВ)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "facts": [
+     "F7",
+     "Q5"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "facts": [
+     "F2",
+     "F3",
+     "Q1",
+     "Q2",
+     "Q6"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "facts": [
+     "F5",
+     "Q3"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F6",
+     "Q4"
+    ],
+    "note": "Описание Судамы в «Радха-Кришна-ганоддеша-дипике»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F13"
+    ],
+    "note": "Посетил Махешпур с преданными в Гауда-мандала-парикраму, 10 пхальгуна 1331 б. э."
+   }
+  ],
+  "unnamed": [
+   {
+    "who": "ученик (по T — ученики); госвами Саидабада — его потомки",
+    "type": "disciple",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "who": "слуга (ученик), приводивший тигра слушать имя Хари (ванданы)",
+    "type": "servant",
+    "facts": [
+     "F24"
+    ]
+   },
+   {
+    "who": "потомки родни в Мангалдихи (Бирбхум)",
+    "type": "relative",
+    "facts": [
+     "F17"
+    ]
+   },
+   {
+    "who": "заминдары Махешпура, ведающие служением Божествам",
+    "type": "patron",
+    "facts": [
+     "F12",
+     "F14"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Судама — друг (сакха) Кришны и Баларамы; один из двенадцати гопалов",
+    "source": "ГГД 127",
+    "level": "A",
+    "facts": [
+     "F1",
+     "F5",
+     "Q3"
+    ],
+    "variants": [
+     "облик Судамы — по «Радха-Кришна-ганоддеша-дипике» Рупы Госвами (F6, Q4)"
+    ]
+   }
+  ],
+  "events": [
+   "ev-goshtha-lila-navadvipa",
+   "ev-nanda-utsava-navadvipa",
+   "ev-chandrashekhara-sent-back",
+   "ev-nityananda-panihati-abhisheka",
+   "ev-nityananda-preaching-gauda",
+   "ev-associates-of-nityananda-wonders",
+   "ev-panihati-chida-dadhi",
+   "ev-nityananda-marriage",
+   "ev-jahnava-ekachakra",
+   "ev-virachandra-pilgrimage",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "events_note": "Все события — по lila-db (F20, F23, F24, F30–F32). ev-nityananda-panihati-abhisheka включает vv-0048 (кадамба на лимонном дереве по Девакинандане; ⚠ по ЧБ — чудо Нитьянанды, F21); ev-nityananda-marriage — крокодил у Джаянанды (F23).",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [],
+  "places": [
+   "#maheshpur",
+   "#majdiya",
+   "#kotchandpur",
+   "#mangaldihi",
+   "#saidabad",
+   "#panihati",
+   "#navadvipa"
+  ],
+  "places_facts": [
+   "F8",
+   "F9",
+   "F10",
+   "F11",
+   "F13",
+   "F14",
+   "F15",
+   "F17",
+   "F18",
+   "F20",
+   "F30"
+  ],
+  "character": [
+   {
+    "trait": "безумие премы: ловил крокодилов и тигров, давая им слушать имя Хари",
+    "facts": [
+     "F23",
+     "F24",
+     "I2"
+    ],
+    "events": [
+     "ev-associates-of-nityananda-wonders"
+    ]
+   },
+   {
+    "trait": "с детства — авадхута, как Нитьянанда; странствующий проповедник киртана",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "trait": "сокровенный слуга Нитьянанды, знающий Его сердце",
+    "facts": [
+     "F3",
+     "F7",
+     "Q2",
+     "Q5"
+    ]
+   },
+   {
+    "trait": "явленная сила: кадамба расцвела на лимонном дереве",
+    "facts": [
+     "F21",
+     "F22",
+     "Q7"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F1",
+    "F3",
+    "F5",
+    "F7",
+    "I1",
+    "I2"
+   ]
+  },
+  "sources": {
+   "T": "96 (глава)",
+   "M": "",
+   "B": "271–273 (глава); 115 (перечень гопалов)",
+   "other": [
+    "ЧЧ Ади 11.21, 11.23; Антья 6.61",
+    "ЧБ Антья 5.728",
+    "ГГД 127",
+    "«Радха-Кришна-ганоддеша-дипика» Лагху 40–41",
+    "«Вайшнава-вандана» Девакинанданы 84; вандана в трипади 73–74; санскр. вандана 96",
+    "журнал «Гаудия», 4-й год, № 45 (по B)"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/sundarananda.md",
+   "en": "parshadas/en/sundarananda.md"
+  },
+  "open_questions": [
+   "День ухода: Картика-пурнима (T, наш календарь), кришна-экадаши Пауши (праздник в Махешпуре, B), Магха-пурнима (B «где-то») (F26–F28).",
+   "Божества: оба увезены в Саидабад, в Махешпуре — деревянное (T) или увезён лишь Радха-валлабха, а Радха-валлабха и Радха-рамана служат в Махешпуре и ныне (B) (F14, F15).",
+   "Кадамба на лимонном дереве: чудо Сундарананды (Девакинандана, B, T) или Нитьянанды (ЧБ Антья 5) (F21).",
+   "Тигры: ловил сам (B) или его слуга (ванданы) (F24).",
+   "Расстояние от Мадждии: 13 (B) или 14 миль (T) (F9); где самадхи — не сказано (F29)."
+  ]
+ },
+ {
   "id": "@svarupa-damodara",
   "names": {
    "ru": "Сварупа Дамодара Госвами",
