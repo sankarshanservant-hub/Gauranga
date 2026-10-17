@@ -174,6 +174,124 @@ Bhatta's name — says, and the “Bhakti-ratnakara” repeats:
 bhakti, pleasing Raghunatha Dasa, Rupa and Sanatana.” (“Hari-bhakti-vilasa”, 1.2; “Bhakti-ratnakara”, 1.151)[^8]
 <!-- F104 Q39 -->
 
+## In Vrindavana
+Gopala's parents gave their minds and lives to the feet of Sri Chaitanya. Before leaving the world, absorbed in
+remembrance of the Lord, they told their son: “When we are gone, go to Vrindavana and take shelter of Mahaprabhu's
+feet.”
+
+“Having allowed their son to go to Vrindavana, both of them, remembering the Lord, left this world. After some time
+Gopala came to Vrindavana and met Rupa and Sanatana.” (“Bhakti-ratnakara”, 1.164–165)
+
+So, at the bidding of his parents and of Mahaprabhu, he went straight to Vrindavana. Prabodhananda also came to Vraja,
+but when is not known. <!-- F27 Q44 -->
+
+“When Bhatta Gosvami came to Vrindavana, he lived with Rupa and Sanatana,” says the “Karnananda” (fifth niryasa). The
+brothers already knew he was coming and received him as a brother; from then on a lifelong friendship bound them. Rupa
+was just about to send word to Mahaprabhu in Puri with some devotees, and Rupa and Sanatana wrote to the Lord of Gopala
+Bhatta's arrival. According to the “Bhakti-ratnakara”, the Lord in Nilachala, sitting in the house of Gadadhara
+Pandita, said that He had long had no news from Vraja and wished to send a letter there — and just then a letter arrived
+from Vrindavana. Mahaprabhu was delighted and told the devotees how He had lived four months in Venkata Bhatta's house
+and how his son had served Him. In His reply He wrote to Rupa and Sanatana:
+
+“‘I am glad at Gopala's arrival. Regard Bhatta Gopala as your own brother, and send good news from time to time.’”
+(“Bhakti-ratnakara”, 1.189–190) <!-- F28 Q12 F29 Q13 -->
+
+It is said that with the letter the Lord sent Gopala Bhatta tokens of His affectionate blessing — His cord-belt (dor),
+kaupina and outer cloth (bahirvas). Narahari Chakravarti sings that Sanatana and all who were gathered there, on
+receiving them, rejoiced, wept and rolled on the ground in prema, and then handed them to Gopala Bhatta, who joyfully
+served them as enjoined.[^9] More about the meeting and the letter is told in the article on Rupa Gosvami. <!-- F30 -->
+
+In Vrindavana he lived beside Rupa and Sanatana, delighting in talks about Krishna. His nights he spent at various
+kundas, his days in studying the shastras and writing. Rupa loved him as his own life and entrusted him with the service
+of Radha-ramana. Gopala Bhatta came to Vrindavana as one of those drawn by the bhajana of Rupa and Sanatana and by the
+Lord's earlier command — Raghunatha Bhatta and Raghunatha Dasa came as well, while Lokanatha was living there already.
+<!-- F31 -->
+
+## The “Hari-bhakti-vilasa”
+In the South Gopala Bhatta had himself seen the good conduct — sadachara — of the Vaishnavas of Ramanuja's school, while
+there was as yet no Gaudiya code of sadachara. From Sanatana he heard that Mahaprabhu had directly ordered a Vaishnava
+smriti to be compiled, and he himself became eager to compile one for the benefit of future Gaudiya Vaishnavas.
+
+“In the Bhatta's mind arose the wish to compose a Vaishnava smriti; Sanatana Gosvami knew of it at that very moment. And
+in Gopala's name Sri Sanatana Gosvami composed the ‘Sri Hari-bhakti-vilasa’.” (“Bhakti-ratnakara”, 1.197–198)
+
+Thus, by Mahaprabhu's wish, the code and its commentary, the “Dig-darshini”, were compiled by Sanatana himself, who out
+of humility hid his own name and in the opening verse named Gopala Bhatta as compiler; perhaps that verse was written by
+Gopala Bhatta himself, who thus began the book. According to another opinion, Sanatana compiled the book together with
+Gopala Bhatta, who edited it, and out of great love published it under his name. Srila Bhaktisiddhanta Sarasvati
+teaches that the present text of the “Hari-bhakti-vilasa” was edited by Gopala Bhatta: the colophon at the end of each
+vilasa names him as author, and Gadadhara's “Kala-sara”, Raghunandana's “Ekadashi-tattva” and other books quote it as the
+“Hari-bhakti”. It is also said that the book is based on notes collected by Gopala Bhatta, and that his contribution
+was the editing. The “Hari-bhakti-vilasa” cites many proofs from Keshava Bhatta's “Krama-dipika”. The book is described
+in detail in the article on Sanatana Gosvami. <!-- F32 Q14 F33 F37 -->
+
+In the fifteenth vilasa (verse 39), in the karika on wearing the tapta-mudra, a “Sri Venkata Acharya-pada” is mentioned:
+“many wise men headed by Venkata Acharya-pada know and cite here other shrutis and smritis as well”; the commentary
+explains that he was the head of the Shri Vaishnava community. Whether this was Gopala Bhatta's father cannot be said:
+several Venkata Acharyas are known. It is also said that the Gajapati Prataparudra (1497–1540) wrote a smriti, the
+“Sarasvati-vilasa”, manuscripts of which survive, and some suppose that the “Bhagavad-bhakti-vilasa” and the
+“Hari-bhakti-vilasa” are named after its model. The book was rendered into Bengali verse by Dvija Kshetranatha
+Tarkavagisha of the village of Rayan near Bardhaman (the manuscript was copied in 1237, probably of the Bengali era)
+and, briefly, by Kanai Dasa, whose complete manuscript is kept in the collection of Dhaka University. <!-- F34 Q15 F35 F36 -->
+
+Sanatana, in the introduction to his “Vaishnava-toshani”, names him as his helper:
+
+“Where Gopala Bhatta and Raghunatha Dasa, nourished by a special love for Radha, give their help, every aim is
+achieved.” (“Vaishnava-toshani”, 13)
+
+Together the six Gosvamis founded the “Vishva-vaishnava-raja-sabha”, the royal assembly of the Vaishnavas of the whole
+world. And the “Vaishnava-vandana” ascribed to Jiva says that Sanatana compiled the “Hari-bhakti-vilasa” at Gopala
+Bhatta's wish, and that Gopala Bhatta, living beside Sanatana and hearing from him about the Lord, counted himself the
+most fortunate of men. <!-- F74 Q45 F71 Q27 -->
+
+## The Appearance of Radha-ramana
+After 1455 Shaka (1533) Gopala Bhatta set out to preach pure bhakti in the lands of present-day Uttar Pradesh. Near
+Haridvar, by the village of Deoband (Devaband) in the district of Saharanpur, where a family of learned Gauda brahmanas
+lived, a storm with heavy rain overtook him. The villagers welcomed him joyfully, and one brahmana, a devotee of Krishna,
+received him in his house. The brahmana had no children; Gopala Bhatta, learning his desire, blessed him: “May you have
+a son who will be a great devotee of Krishna.” The brahmana humbly served his guest and promised to give him his
+firstborn as a servant and disciple, for the service of Krishna. For several days Gopala Bhatta preached the name of Hari
+there. <!-- F41 -->
+
+On the way back he took twelve shalagrama-shilas from the river Gandaki — the Lord Himself, manifest in the sacred
+shilas of the Gandaki — and carried them in a cloth bag on his neck, serving them as Vrajendra-nandana Himself.[^10] One
+day, returning from his bath in the Yamuna, he saw a boy at his hut. “I am from Deoband in Saharanpur,” the boy said.
+“My father has sent me to serve you. My name is Gopinatha.” It was the son of that brahmana, and from then on he served
+Gopala Bhatta with great devotion.[^11] <!-- F42 F43 -->
+
+Gopala Bhatta longed to serve the Lord in a Deity form, so that his service might be fuller. Once some wealthy merchants
+brought clothes and ornaments to his hut. All night he wondered: how would the shalagrama wear these clothes and
+ornaments, made for Krishna's body? He offered them to the shilas, performed arati, offered bhoga and laid the shilas to
+rest in their basket. In the morning, after bathing in the Yamuna, he opened the basket and saw that one of the twelve
+shalagramas had revealed Himself as the sweet, dark young cowherd of Vraja — two-armed, holding the flute, standing in
+the threefold bend. The Lord had fulfilled His devotee's desire. Gopala Bhatta, as if in an ocean of joy, bowed before
+Him and began to offer hymns. <!-- F44 -->
+
+Overjoyed, he called Rupa, Sanatana and the other Gosvamis. Hearing that Krishna had appeared to him, they came at once
+with the devotees and, seeing the Deity, were filled with prema and tears of love. On the vaishakha-purnima of 1599
+Samvat (1542) Gopala Bhatta held a great festival of abhisheka, and the Gosvamis named the Deity “Sri Radha-ramana”.[^12]
+Since then the festival of His appearance, when the Deity is bathed before all, is celebrated every year on the full
+moon of Vaishakha. Radha-ramana stands alone, without Radha: on His left, in Her place, is a silver crown, the sign of
+Radharani. His temple is among the foremost in Vrindavana. <!-- F45 F46 F47 -->
+
+Seeing Gopala Bhatta's tears of love, Radha-ramana also granted him the sight of Gauranga Himself: “when Bhatta Gosvami
+was overwhelmed with Krishna-prema, Sri Radha-ramana revealed Himself as Sri Gauranga” (“Bhakti-ratnakara”, fourth
+wave). <!-- F49 Q19 -->
+
+The “Seva-prakatya” likewise dates the appearance of Radha-ramana to 1599 Vikrama — twelve years after the departure of
+Vallabha. The Vallabhite “Chaurasi Baithak” invents the story that Vallabha revealed the Deity and that Gopala Bhatta in
+his next life became a Pushtimargi named “Gopala Naga”; this is a fabrication, and Vaishnavas reject it. The lands for
+Radha-ramana's service Gopala Bhatta obtained in exchange for one maund of wheat and one bullock; they are what is called
+the “Ghera”, the enclosure. <!-- F48 F51 -->
+
+## Gopinatha Pujari and the Servants of Radha-ramana
+When Gopinatha of Deoband grew up, Gopala Bhatta gave him diksha and entrusted him with the service of Radha-ramana. He
+remained a brahmachari, served Radha-ramana to the end of his life and became known as Gopinatha Pujari Gosvami. He was a
+Gauda brahmana of the Shandilya gotra. His younger brother Damodara Dasa also came from Deoband to Vrindavana, received
+the mantra and mercy from Gopinatha, and likewise served Radha-ramana; he lived in Vrindavana with his wife and had three
+sons — Harinatha, Mathuranatha and Harirama. Today the service of Radha-ramana is in the hands of their descendants.[^13]
+<!-- F50 F52 -->
+
 [^1]: According to the “Sri Radharamana-prakatya” (in Hindi) by Pandita Madhusudana Gosvami Sarvabhauma of the Radha-ramana
     enclosure in Vrindavana, he appeared in 1557 Samvat (1500), received the Lord's mercy in Ranga-kshetra at eleven, in
     1568 Samvat (1511), came to Vraja in 1588 Samvat (1531), and departed in 1642 Samvat (1585), at eighty-five. One of
@@ -199,3 +317,18 @@ bhakti, pleasing Raghunatha Dasa, Rupa and Sanatana.” (“Hari-bhakti-vilasa�
     the text of the “Bhakti-ratnakara” (1.99–124) it took place when the Lord was already living in Venkata's house.
 [^8]: By this verse Prabodhananda is his diksha-guru, and some biographies take it so. Others call Prabodhananda his
     teacher of the shastras and Gopala his shiksha-disciple.
+[^9]: So according to the “Bhakti-ratnakara” (1.194) and one of the biographies; Narahari's song names the cord-belt and
+    the outer cloth. According to another biography, the Lord sent Rupa by messenger a kaupina and the outer garments of a
+    babaji as tokens of renunciation; Rupa received them with great joy, and Gopala Bhatta accepted them as the Lord's mercy
+    and prasada. According to a third, the Lord out of love sent him His own belt, kaupina and the wooden seat He used to
+    sit on; these are honoured to this day by the servants of the Radha-ramana temple.
+[^10]: According to one of the biographies, he found a single shalagrama-shila on the bank of the Gandaki and carried it
+    with him everywhere; in another of its accounts, he worshipped twelve.
+[^11]: So according to one biography: the boy came before the Deity appeared. According to another, he came after the
+    appearance, almost ten years after the blessing given to his father.
+[^12]: According to some reports, Sri Radha-Govinda revealed Gopala Bhatta's desire to Rupa in a dream, and Rupa himself
+    manifested the Deity of Radha-ramana; the “Bhakti-ratnakara” (1.199–200) also says that Govinda gave Rupa a command in
+    a dream and that Rupa entrusted Gopala Bhatta with the service of Radha-ramana. ⚠ One of the biographies gives the
+    year of the appearance as “1599 of the Christian era”; it is 1599 Samvat.
+[^13]: According to another report, the service of Radha-ramana is today in the line of Gopinatha Pujari himself. In one
+    of the biographies Damodara's third son is called Harinama (probably a misprint).
