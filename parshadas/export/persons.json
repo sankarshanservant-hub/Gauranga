@@ -1,5 +1,526 @@
 [
  {
+  "id": "@bhugarbha",
+  "names": {
+   "ru": "Бхугарбха Госвами",
+   "en": "Bhugarbha Gosvami",
+   "variants": [
+    "Бхугарбха Госани",
+    "Бхугарбха Тхакур",
+    "Бхугарбха Прабху",
+    "восьмой Госвами",
+    "Према-манджари (во Врадже, ГГД 187)"
+   ],
+   "facts": [
+    "F1",
+    "F3",
+    "F6",
+    "F25"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "vrindavana",
+   "goswamis"
+  ],
+  "period": [
+   "P07",
+   "P11",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично — в Навадвипе при Гададхаре, уходит с Локанатхой во Врадж ещё до санньясы Господа (P07, B 1073; T 150); с Локанатхой уходит на Юг искать Господа (B; в T и M — один Локанатха) и пропускает Его пребывание во Вриндаване (P11–P13); живёт у Чир-гхата, в «круге Рупы» (P14); после сокрытия — один из старейшин Вриндавана при Шринивасе, Нароттаме, Джахнаве, Вирачандре и Рамачандре Кавирадже; уход — при жизни Дживы (письмо Шринивасе) (P15).",
+  "sampradaya": {
+   "name": "ветвь Гададхары Пандита",
+   "facts": [
+    "F2",
+    "F3"
+   ]
+  },
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "авторы не сообщают; в нашем календаре дня явления нет",
+    "facts": [
+     "F11"
+    ]
+   },
+   "disappearance": {
+    "tithi": "шукла-чатурдаши месяца Карттика (по нашему календарю — Гаура-чатурдаши месяца Дамодара)",
+    "date": "",
+    "place": "#vrindavana",
+    "conf": "только M; совпадает с нашим календарём (23 ноября 2026, в один день с Кашишварой Пандитом); уход во Врадже — B 674 (письмо Дживы)",
+    "facts": [
+     "F42",
+     "F43"
+    ]
+   },
+   "samadhi": []
+  },
+  "origin": {
+   "places": [
+    "#navadvipa"
+   ],
+   "family": [],
+   "facts": [
+    "F10",
+    "F11",
+    "F15"
+   ],
+   "note": "Место рождения и родители не названы; в Навадвипе — ученик Гададхары (B 1073). По «Садхана-дипике» (только T) — дядя Локанатхи по отцу."
+  },
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F2",
+     "F3",
+     "F15"
+    ],
+    "event": "ev-lokanatha-sent-to-vrindavana",
+    "note": "Посвящение (T); с его позволения и одобрительного взгляда Господа ушёл с Локанатхой во Вриндаван (B 1073)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F14",
+     "F15",
+     "F21",
+     "F22"
+    ],
+    "event": "ev-lokanatha-sent-to-vrindavana",
+    "note": "Послан во Врадж повелением Господа (B 265; M 11; T 208); сон-утешение о Его прежнем облике (B 1074)."
+   },
+   {
+    "type": "friend",
+    "who": "@lokanatha",
+    "facts": [
+     "F10",
+     "F12",
+     "F13",
+     "F14",
+     "F15",
+     "F16",
+     "F17",
+     "F18",
+     "F19",
+     "F20",
+     "F21",
+     "F23",
+     "F24",
+     "F34",
+     "Q7",
+     "Q8"
+    ],
+    "events": [
+     "ev-lokanatha-sent-to-vrindavana",
+     "ev-lokanatha-bhugarbha-in-vraja",
+     "ev-lokanatha-life-vrindavana"
+    ],
+    "note": "Неразлучный друг, «тела лишь разные» (БР 1.317); седьмой и восьмой Госвами; по «Садхана-дипике» (T) — его дядя по отцу. M 97: Локанатха лишь «встретил» его во Вриндаване."
+   },
+   {
+    "type": "friend",
+    "who": "@bhagavata-dasa-gadadhara",
+    "facts": [
+     "F3",
+     "F4",
+     "Q2",
+     "Q5"
+    ],
+    "note": "Соученик по Гададхаре (T); «спутник Бхугарбхи» («Шакха-нирная» 31)."
+   },
+   {
+    "type": "disciple",
+    "who": "@chaitanya-dasa-pujari",
+    "facts": [
+     "F30",
+     "F31",
+     "Q1"
+    ],
+    "note": "Пуджари Говиндадевы (ЧЧ Ади 8.69; B 331)."
+   },
+   {
+    "type": "disciple",
+    "who": "@mukundananda-chakravarti",
+    "facts": [
+     "F30",
+     "Q1"
+    ]
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnadasa-premi",
+    "facts": [
+     "F30",
+     "Q1"
+    ]
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-deity",
+    "facts": [
+     "F5",
+     "F26",
+     "F27"
+    ],
+    "note": "«Находит счастье в служении Говиндадеве» («Шакха-нирная»); жил в храме-кундже Шри Говинды («Вартика-пракаша»)."
+   },
+   {
+    "type": "companion",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F7",
+     "F14",
+     "F17",
+     "Q3"
+    ],
+    "event": "ev-gopala-mathura-vitthaleshvara",
+    "note": "Из «круга Рупы»: месяц с ним в Матхуре у Гопалы (ЧЧ Мадхья 18.50); пришёл во Врадж раньше Рупы и Санатаны."
+   },
+   {
+    "type": "other",
+    "who": "@shrinathji-deity",
+    "facts": [
+     "F7",
+     "Q3"
+    ],
+    "event": "ev-gopala-mathura-vitthaleshvara",
+    "note": "Видел Гопалу в доме Виттхалы в Матхуре."
+   },
+   {
+    "type": "other",
+    "who": "@vitthalanatha",
+    "facts": [
+     "F7"
+    ],
+    "note": "В его доме в Матхуре — даршан Гопалы (B 331)."
+   },
+   {
+    "type": "companion",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F14",
+     "F17"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@gopala-bhatta",
+    "facts": [
+     "F17",
+     "F37",
+     "F38",
+     "F39",
+     "F41",
+     "Q8"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "facts": [
+     "F36",
+     "F37",
+     "F38",
+     "F39",
+     "F40",
+     "F42"
+    ],
+    "event": "ev-jiva-srinivasa-letters",
+    "note": "Джива сообщил Шринивасе о его уходе (B 674)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "facts": [
+     "F32",
+     "F33",
+     "F34",
+     "Q1"
+    ],
+    "event": "ev-kaviraja-ordered-to-write-cc",
+    "note": "С его разрешения и благословения Кавираджа начал писать антья-лилу; запретил упоминать себя (B)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "facts": [
+     "F35"
+    ],
+    "note": "ЧБ его не называет."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@narottama-dasa",
+    "facts": [
+     "F8",
+     "F9",
+     "Q9"
+    ],
+    "note": "Чтит его в «Прартхане» среди девяти Госвами (B); тесное общение (M)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F36",
+     "F37",
+     "F38",
+     "F42"
+    ],
+    "events": [
+     "ev-srinivasa-arrives-vrindavana",
+     "ev-books-mission-decision",
+     "ev-srinivasa-second-vrindavana",
+     "ev-jiva-srinivasa-letters"
+    ]
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "facts": [
+     "F37"
+    ],
+    "event": "ev-books-mission-decision"
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "facts": [
+     "F39"
+    ],
+    "event": "ev-jahnava-vrindavana"
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "facts": [
+     "F40"
+    ],
+    "event": "ev-virachandra-jiva-vrindavana",
+    "note": "С его позволения (M: по повелению) обошёл Врадж."
+   },
+   {
+    "type": "met",
+    "who": "@ramachandra-kaviraja",
+    "facts": [
+     "F41"
+    ],
+    "note": "Милость/благословение; по M — вместе с Локанатхой и Гопалой Бхаттой дал титул «Кавираджа» (B: Джива)."
+   },
+   {
+    "type": "met",
+    "who": "@madhu-pandita",
+    "facts": [
+     "F36",
+     "F37",
+     "F39"
+    ]
+   },
+   {
+    "type": "met",
+    "who": "@raghunatha-dasa",
+    "facts": [
+     "F37"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "facts": [
+     "F1",
+     "Q4"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "facts": [
+     "F13",
+     "Q7",
+     "Q8"
+    ]
+   }
+  ],
+  "unnamed": [
+   {
+    "who": "прочие ученики — «каждый — маха-бхагавата» (B 267)",
+    "type": "disciple",
+    "facts": [
+     "F30"
+    ]
+   },
+   {
+    "who": "Набхаджи, «Бхакта-мала», и автор «Вартика-пракаши» — хвала Бхугарбхе",
+    "type": "other",
+    "facts": [
+     "F26",
+     "F27",
+     "F28",
+     "F29",
+     "Q10"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Према-манджари",
+    "source": "ГГД 187",
+    "level": "A",
+    "facts": [
+     "F1",
+     "Q4"
+    ],
+    "variants": [
+     "Нандимукхи, подруга Манджулали (= Локанатхи) — по «Према-виласе» 7 (только lila-db, pvl-0045; уровень C)"
+    ]
+   }
+  ],
+  "events": [
+   "ev-lokanatha-sent-to-vrindavana",
+   "ev-lokanatha-bhugarbha-in-vraja",
+   "ev-lokanatha-searches-lord",
+   "ev-lokanatha-life-vrindavana",
+   "ev-gopala-mathura-vitthaleshvara",
+   "ev-srinivasa-arrives-vrindavana",
+   "ev-books-mission-decision",
+   "ev-kaviraja-ordered-to-write-cc",
+   "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana",
+   "ev-virachandra-jiva-vrindavana",
+   "ev-jiva-srinivasa-letters"
+  ],
+  "events_note": "По T/M/B: уход во Врадж с Локанатхой, поиски Господа на Юге (B — оба; lila-db ev-lokanatha-searches-lord — только Локанатха), жизнь у Чир-гхата, Гопала в Матхуре, благословение Кавирадже, Шриниваса (знакомство, отправка книг, второй приезд), Джахнава, Вирачандра, письмо Дживы о его уходе. Рамачандра Кавираджа во Вриндаване (F41) — отдельного события в lila-db нет. Только по lila-db: Нароттама у Бхугарбхи (nvl-0017, ev-narottama-vrindavana-darshan), посланцы Госвами в Гауду (pvl-0116, ev-vrindavana-messengers-gauda).",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [],
+  "places": [
+   "#navadvipa",
+   "#rajmahal",
+   "#purnia",
+   "#ayodhya",
+   "#lucknow",
+   "#agra",
+   "#gokula",
+   "#vrindavana",
+   "#chira-ghata",
+   "#mathura"
+  ],
+  "places_facts": [
+   "F15",
+   "F18",
+   "F19",
+   "F23",
+   "F26",
+   "F7",
+   "F43"
+  ],
+  "character": [
+   {
+    "trait": "уединённый бхаджанананди; в устах — только гаура-катха",
+    "facts": [
+     "F24",
+     "F25",
+     "Q1"
+    ]
+   },
+   {
+    "trait": "сострадание к другу: не отпустил Локанатху одного во Врадж",
+    "facts": [
+     "F15",
+     "F16"
+    ],
+    "events": [
+     "ev-lokanatha-sent-to-vrindavana"
+    ]
+   },
+   {
+    "trait": "отречение и самоотдача: пешком, без денег, на подаянии; день и ночь — имя Кришны у Чир-гхата",
+    "facts": [
+     "F11",
+     "F18",
+     "F20",
+     "F23"
+    ],
+    "events": [
+     "ev-lokanatha-bhugarbha-in-vraja"
+    ]
+   },
+   {
+    "trait": "бегство от славы: запретил Кавирадже писать о себе",
+    "facts": [
+     "F34",
+     "I1"
+    ]
+   },
+   {
+    "trait": "непрестанное мысленное служение и созерцание Гауры-Шьямы",
+    "facts": [
+     "F28",
+     "F29"
+    ]
+   },
+   {
+    "trait": "верность дхаме и Говиндадеве",
+    "facts": [
+     "F5",
+     "F26",
+     "F27"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F1",
+    "F6",
+    "F8",
+    "F14",
+    "F25",
+    "F33",
+    "I1",
+    "I2",
+    "I3",
+    "I4"
+   ]
+  },
+  "sources": {
+   "T": "150–151 (общая глава с Локанатхой, 150–152); 200, 201, 206, 208, 212",
+   "M": "11–12 (глава); 15, 68, 97, pdf 182",
+   "B": "265–270 (глава); 52, 180, 331, 665, 668, 670, 674, 1073–1074, 1095, 1104, 1109, 1111",
+   "other": [
+    "ЧЧ Ади 8.68–72, 12.81 (ВЧД 12.82); Мадхья 18.47–50; Антья 13.126, 131",
+    "ГГД 187",
+    "БР 1.317, 6.310 (и 9, 11, 13 — по T)",
+    "«Шакха-нирная» 31 и стих без номера",
+    "Нароттама, «Прартхана»",
+    "«Вартика-пракаша» к «Бхакта-мале» Набхаджи",
+    "«Садхана-дипика» (по T)",
+    "«Према-виласа» 7, 25 (lila-db / наш перевод)"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/bhugarbha.md",
+   "en": "parshadas/en/bhugarbha.md"
+  },
+  "open_questions": [
+   "Шёл ли он с Локанатхой из Навадвипы (B, T) или Локанатха встретил его уже во Вриндаване (M 97) (F14–F17).",
+   "Причина ухода: позволение Гададхары и взгляд Господа (B) или сострадание к горю Локанатхи (T) (F15, F16).",
+   "Ходил ли и он на Юг искать Господа (только B) (F21).",
+   "Родство с Локанатхой — дядя по отцу (только T по «Садхана-дипике») (F10).",
+   "Кто запретил Кавирадже писать о себе: оба (B) или один Локанатха (T) (F34).",
+   "Отождествление: Према-манджари (ГГД 187) — Нандимукхи (ПВ 7, lila-db).",
+   "Место самадхи авторы не называют (F44)."
+  ]
+ },
+ {
   "id": "@dhananjaya-pandita",
   "names": {
    "ru": "Дхананджая Пандит",
