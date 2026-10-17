@@ -4496,6 +4496,372 @@
   ]
  },
  {
+  "from": "@raghunandana",
+  "type": "father",
+  "who": "@mukunda-dasa",
+  "facts": [
+   "F10",
+   "F15",
+   "F16",
+   "F17",
+   "F20",
+   "F24",
+   "F46"
+  ],
+  "note": "«Рагхунандана — мой отец»: Мукунда назвал сына своим гуру, ибо от него пришла Кришна-бхакти (ЧЧ Мадхья 15.113–117)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "relative",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F10",
+   "F19",
+   "F33",
+   "F36",
+   "F57",
+   "F58"
+  ],
+  "note": "Дядя (младший брат отца); воспитывал его с любовью (T); вместе — танцоры группы Кханды на Ратха-ятре; провёл праздник разлуки по нему (F58). ⚠ T 200 ошибочно зовёт Рагхунандану сыном Нарахари."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "guru",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F9",
+   "F19"
+  ]
+ },
+ {
+  "from": "@raghunandana",
+  "type": "relative",
+  "who": "@madhava-dasa-shrikhanda",
+  "facts": [
+   "F10"
+  ],
+  "note": "Дядя, средний брат Мукунды."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "relative",
+  "who": "@narayana-dasa-shrikhanda",
+  "facts": [
+   "F11"
+  ],
+  "note": "Дед по отцу (B: Нараянадева Саркар)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "son",
+  "who": "@kanai-shrikhanda",
+  "facts": [
+   "F35",
+   "F66",
+   "F69",
+   "F70"
+  ],
+  "note": "Перед уходом передал ему служение Гаура-Гопале (T); Канаи со Шринивасой устроил праздник разлуки."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "relative",
+  "who": "@madana-raya-shrikhanda",
+  "facts": [
+   "F71",
+   "F72"
+  ],
+  "note": "Внук (сын Канаи), ученик Нарахари (B 290 по скану)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "relative",
+  "who": "@vamshi-raya-shrikhanda",
+  "facts": [
+   "F71"
+  ],
+  "note": "Внук (сын Канаи); у M — Вамшивадана."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F20",
+   "F30",
+   "F31",
+   "F32",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "F40"
+  ],
+  "note": "Поручение — только служение Кришне (ЧЧ Мадхья 15.131); каждый год на Ратха-ятре; «Ты — Моя жизнь» (ЧМ); по T — «приёмный сын», которому Господь дал право гирлянды в адхиваса санкиртаны (F31)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "deity-served",
+  "who": "@gopinatha-shrikhanda",
+  "facts": [
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F28"
+  ],
+  "event": "ev-raghunandana-feeds-gopinatha",
+  "note": "С пяти лет; накормил Божество ладду — половина ладду и ныне в руке Гопинатхи (B, T, M). В строфе и «Вайшнава-вандане» — «Гопала»."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "deity-served",
+  "who": "@gaura-deity-shrikhanda",
+  "facts": [
+   "F34",
+   "F35",
+   "F66"
+  ],
+  "note": "B (по БР 9): в его храме установлено Божество Гауранги, он смотрел арати; T — Гаура-Гопала; M — свои Божества «Гопал-Гауранга» и Божества Нарахари «Гауранга и Мадана-Гопала». Тождество Божеств в книгах не прояснено."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "companion",
+  "who": "@abhirama",
+  "facts": [
+   "F4",
+   "F45",
+   "F46",
+   "F47"
+  ],
+  "note": "Абхирама возвестил его аватарой Маданы (ЧМ); встреча и совместный танец — в Шрикханде (T) или Бараданги (B, M); тогда упала нупура (T, M)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "companion",
+  "who": "@chiranjiva-sena",
+  "facts": [
+   "F38",
+   "F42"
+  ]
+ },
+ {
+  "from": "@raghunandana",
+  "type": "companion",
+  "who": "@sulochana-shrikhanda",
+  "facts": [
+   "F38",
+   "F41"
+  ]
+ },
+ {
+  "from": "@raghunandana",
+  "type": "disciple",
+  "who": "@rayashekhara",
+  "facts": [
+   "F74"
+  ],
+  "note": "Известен как его «ученик»; многие пады на браджабули под этим именем принимать без разбора нельзя (B)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "disciple",
+  "who": "@krishnadasa-akaihat",
+  "facts": [
+   "F47",
+   "F76"
+  ],
+  "note": "⚠ только T 72: «ученик Кришнадас» в Акаи-хате; другие книги учеником его не называют."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "protege",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F49",
+   "F50",
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F55",
+   "F58",
+   "F62",
+   "F64",
+   "F65",
+   "F69"
+  ],
+  "events": [
+   "ev-srinivasa-shrikhanda",
+   "ev-srinivasa-raghunandana-shrikhanda",
+   "ev-srinivasa-marriage",
+   "ev-katwa-khanda-memorial-festivals"
+  ],
+  "note": "Отеческая любовь; позвал его в Шрикханду после кончины Вишнуприи (M); устроил его свадьбу с Драупади (B, M); перед уходом благословил на проповедь и предсказал сомнения людей (T по БР 13; B 673)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@draupadi-ishvari",
+  "facts": [
+   "F55"
+  ],
+  "note": "Устроил её брак со Шринивасой; день: кришна-трития (B) ≠ акшая-трития (M) вайшакхи."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F56",
+   "F59",
+   "F62"
+  ],
+  "event": "ev-narottama-shrikhanda-yajigrama-katwa",
+  "note": "Обнял Нароттаму в Шрикханде; пел мангалачарану на празднике в Кхетури по его просьбе (M)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F62",
+   "F63"
+  ],
+  "note": "Дал ему дозволение идти во Вриндаван (M, B)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F62"
+  ],
+  "note": "Шриниваса с друзьями шли от Ишаны к нему в Шрикханду."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F59",
+   "F61"
+  ],
+  "events": [
+   "ev-kheturi-festival",
+   "ev-jahnava-returns-through-kheturi"
+  ],
+  "note": "Вместе в Кхетури; на обратном пути она посетила его дом (T 200)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@shyamananda",
+  "facts": [
+   "F60"
+  ],
+  "note": "Останавливался у него в Шрикханде по пути из Кхетури."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@uddhava-dasa-padakarta",
+  "facts": [
+   "F5",
+   "F24",
+   "F46",
+   "Q7",
+   "Q8"
+  ],
+  "note": "Пады о ладду Гопинатхе и о встрече с Абхирамой."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F4",
+   "F27",
+   "F32",
+   "F33",
+   "F44",
+   "Q6"
+  ],
+  "note": "Славит его в «Чайтанья-мангале» (Сутра-кханда 647–656)."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2",
+   "F39",
+   "Q1",
+   "Q12"
+  ],
+  "note": "ГГД 70 — Прадьюмна; «Чайтанья-чандродая» 9.1."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F40",
+   "Q13"
+  ],
+  "note": "«Кадача» 4.1.5."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F18",
+   "F29",
+   "F30",
+   "F41",
+   "Q2",
+   "Q5"
+  ]
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@karnapura-kaviraja",
+  "facts": [
+   "F51",
+   "Q16"
+  ]
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F7",
+   "F26",
+   "F34",
+   "F65",
+   "F67",
+   "Q9",
+   "Q10",
+   "Q15"
+  ],
+  "note": "Автор БР — главный источник о его поздних годах и уходе."
+ },
+ {
+  "from": "@raghunandana",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F77"
+  ],
+  "note": "⚠ M pdf 294: пада о киртане, где пляшут Рамаи и Рагхунандана, — тождество неясно."
+ },
+ {
   "from": "@ramananda-raya",
   "type": "father",
   "who": "@bhavananda-raya",

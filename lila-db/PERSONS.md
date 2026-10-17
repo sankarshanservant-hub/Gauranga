@@ -682,3 +682,6 @@
 | @adikanda-dasa | Адиканда Дас | Adikanda Dasa | составитель рукописи «Гуру-пранали» линии Гопалы Гуру (B 278–279) |
 | @radhavallabha-dasa-vrindavana | Радхаваллабха Дас (из линии Гопалы Гуру) | Radhavallabha Dasa (of Gopala Guru's line) | старый вайшнав в кундже Дживы во Вриндаване, дал Манохаре Дасу рукопись Гопалы Гуру («Анурага-валли» 8.15–18); не путать с @radhavallabha-chaudhuri |
 | @baladeva-vidyabhushana | Баладева Видьябхушана | Baladeva Vidyabhushana | автор «Говинда-бхашьи» и «Прамея-ратнавали»; не путать с @baladeva-mahiti |
+| @gopinatha-shrikhanda | Гопинатха — Божество в Шрикханде | Gopinatha, the Deity of Shrikhanda | домашнее Божество Мукунды Даса; мальчик Рагхунандана накормил Его ладду, половина ладду — в руке Божества (B 287–288; T 71; M 142–144) |
+| @uddhava-dasa-padakarta | Уддхава Дас, падакарта | Uddhava Dasa, the song-poet | автор пад о ладду Рагхунанданы и о встрече Рагхунанданы с Абхирамой (B 287–288; T 71; M 142); не путать с @uddhava-dasa-gadadhara |
+| @vamshi-raya-shrikhanda | Вамши Рай (Шрикханда) | Vamshi Raya (of Shrikhanda) | сын Канаи Тхакура, внук Рагхунанданы (B 290; M pdf 170 — «Вамшивадана»); не путать с @vamshivadana |
