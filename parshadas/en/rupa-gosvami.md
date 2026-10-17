@@ -706,6 +706,132 @@ Hearing it, the nama-acharya Haridasa Thakura in rapture began to glorify the me
 dance: he had heard of the glory of the Name from many scriptures and sadhus, but never such a description of its
 sweetness (CC, Antya 1.100–101). <!-- F182 -->
 
+## The Gathering at Rupa's
+On another day, after the darshana of Jagannatha, the Lord came to Rupa at Siddha-bakula with all His associates —
+Sarvabhauma, Ramananda Raya, Svarupa and others. On the way He praised to them Rupa's verses “priyah so ’yam” and “tunde
+tandavini” and glorified his virtues in every way. This gathering is also described in the article on Ramananda Raya;
+here we tell of it from Rupa's side. <!-- F183 -->
+
+At Rupa's the Lord told him to read “priyah so ’yam.” Out of respect Rupa was abashed and kept silent, and Svarupa read
+the verse; all were amazed, and Ramananda and Sarvabhauma said to the Lord that the power to disclose what is hidden in
+His heart can be obtained only by His mercy. Svarupa explained that by Mahaprabhu's special mercy Rupa had understood
+what neither Brahma nor the demigods comprehend. Then the Lord told him to read “tunde tandavini.” Rupa was shy of reading
+his own verse, but did not dare disobey the repeated commands:
+
+“When the devotees, and especially Ramananda Raya, heard this verse, they felt unprecedented bliss and amazement. All
+agreed that although they had heard many descriptions of the glory of God's holy name, it had never been so sweet as with
+Rupa Gosvami.” (CC, Antya 1.121–122) <!-- F184 F185 -->
+
+Ramananda asked what book Rupa was writing, that it held such a treasury of unprecedented truths, and Svarupa told of the
+two dramas: the “Vidagdha-madhava,” about the pastimes in Vraja, and the “Lalita-madhava,” about the pastimes in the
+cities (pura-lila). At Ramananda's request Rupa read the nandi-shloka of the “Vidagdha-madhava”:
+
+“May these pastimes of Krishna lessen all the sufferings of this world and dispel all unworthy desires. These pastimes
+are as sweet as shikharini (a mixture of yoghurt and sugar candy). They bring to nothing the pride even of the nectar made
+on Chandra-loka, for they spread so strong and enchanting a fragrance of the loving relationships of Srimati Radharani and
+the other gopis.” (“Vidagdha-madhava,” 1.1; CC, Antya 1.128) <!-- F186 F187 Q38 -->
+
+Then Ramananda asked him to read the verse of benediction describing Rupa's chosen Deity. Rupa was abashed and silent: the
+subject of the verse was the Lord Himself, seated beside him. “In an assembly of Vaishnavas there is nothing to be shy of
+in reading the very essence of one's book,” said Ramananda, and at the Lord's insistence Rupa read:
+
+“May the Supreme Lord, who has come as the son of Srimati Shachidevi, abide for ever in the innermost region of your
+heart. Shining with the colour of molten gold, He has by His causeless mercy descended in this age of Kali to give what no
+Avatara offered before — the most exalted mood of loving service to God, the rasa of conjugal love.”
+(“Vidagdha-madhava,” 1.2; CC, Antya 1.132) <!-- F188 F189 Q39 -->
+
+Ramananda asked about the various parts of the “Vidagdha-madhava,” and Rupa answered every question with great humility,
+quoting verses from each part. Admiring his transcendental poetry, Ramananda wished to hear the nandi and the obeisance
+to the chosen Deity in the second drama, the “Lalita-madhava.” Rupa, humbly speaking of Ramananda's greatness and his own
+insignificance, read the nandi and then the prayer for blessing to his ishtadeva, Sri Krishna Chaitanya:
+
+“The moon-faced Supreme Lord has come as the son of mother Shachi to spread loving devotion to Himself. He is the emperor
+of the whole community of brahmanas. He drives away the darkness of ignorance and governs the mental faculties of each and
+every one. May this waxing moon, Sri Chaitanya, grant us all well-being and happiness.” (CC, Antya 1.177)
+<!-- F190 F191 Q40 -->
+
+In His heart the Lord rejoiced, but to teach people He outwardly showed anger:
+
+“‘Your poetic descriptions are full of the sweetness of Krishna's rasas and are therefore like an ocean of nectar. But why
+have you inserted unjustified praise of Me? It is like a spoonful of tar in a barrel of honey.’ ‘It is not tar,’ objected
+Ramananda Raya. ‘It is a little camphor, with which he has only enhanced the taste of his exalted poetry.’ ‘Ramananda
+Raya,’ answered Mahaprabhu, ‘you are glad to hear these verses, but I am ashamed, for people will laugh at them.’ ‘On the
+contrary, they will be very happy to hear these verses,’ said Ramananda Raya, ‘for remembering one's beloved Deity at the
+beginning of any undertaking attracts good fortune.’” (CC, Antya 1.179–182)
+
+The Lord's anger was only an appearance meant to teach people, and Rupa, by remembering his Deity at the beginning of his
+book, had done nothing contrary to the shastras and siddhanta.[^36] <!-- F192 F193 Q41 I14 -->
+
+Ramananda asked about each part of the “Lalita-madhava” too, and Rupa answered, quoting the relevant verses. Having gone
+through both dramas, Ramananda turned to Mahaprabhu's feet and began, as if with a thousand mouths, to extol Rupa's
+poetry:
+
+“‘This is not verse but an endless stream of nectar. It is the essence of all the highest truths presented in the form of
+a play. Rupa Gosvami's wonderful poetry is the highest example of the description of loving relationships. These verses
+can draw anyone into a whirlpool of spiritual bliss.’” (CC, Antya 1.193–194)
+
+And he added: what use are a poet's poetry and an archer's arrow if, entering another's heart, they do not make the head
+spin? Without the Lord's mercy an ordinary person could not write such verses: in them all the characteristics of drama
+are observed and the essence of siddhanta is expressed, and the love of Radha and Krishna is depicted so that mind and ear
+reel with delight. <!-- F194 F195 F196 Q42 Q43 -->
+
+“‘I met Rupa Gosvami in Prayaga,’ replied Mahaprabhu. ‘He attracted Me by his extraordinary qualities, which gave Me great
+joy. This poetry is endowed with such wonderful and sweet metaphors, and with many other literary ornaments. Without these
+poetic virtues the preaching of the spiritual rasas is simply impossible. I ask you all to bless Rupa Gosvami, so that he
+may ceaselessly describe these pastimes of Vrindavana, full of the divine rasas of love for Krishna. His elder brother,
+Sanatana, is so wise and learned that there is no one who can compare with him. His detachment from everything worldly is
+as strong as yours, Ramananda. In him humility, detachment and unsurpassed learning are united. I empower these two
+brothers to go to Vrindavana and write literary works on bhakti.’” (CC, Antya 1.197–202)
+
+“Then Sri Chaitanya embraced Rupa Gosvami and asked him to offer prayers at the lotus feet of all the devotees present.
+Advaita Acharya, Nityananda Prabhu and all the other devotees poured their causeless mercy on Rupa Gosvami and embraced
+him. All the devotees were immensely astonished at the special mercy Sri Chaitanya had shown Rupa Gosvami, and at the
+unsurpassed virtues of Rupa himself.” (CC, Antya 1.206–208) <!-- F197 F198 F199 -->
+
+Sri Gaurasundara is Himself the lord of Sarasvati; Ramananda, the author of the “Jagannatha-vallabha-nataka,” is
+Vishakha-devi in the pastimes of Vraja; Svarupa Damodara, Gaurasundara's “second self” and an ocean of transcendental
+rasa, is Lalita-devi. Both they and all the devotees who know rasa praised Rupa's poetry: it cannot be compared with the
+verses of worldly, “village” poets. Worldly men of letters, for their part, place Rupa on a level with Kalidasa, or below
+or above him. But just as neither a piece of glass nor even the Koh-i-noor can be compared with the transcendental
+Kaustubha gem, so no worldly poet celebrated by the crowd can be compared even with the radiance of the toenails of
+Rupa's feet.[^37] <!-- F200 F201 -->
+
+The “Srimad-Bhagavatam” (1.5.10) says: “Speech, however colourful its words, that does not sing the glory of Hari, which
+purifies the world, is a place of pilgrimage for crows; the swans find no joy in it.” Poetry that does not serve with
+undeviating devotion the one transcendental Madana, Krishna, is the delight of “crow-like” seekers of pleasure; but the
+bhagavata-paramahamsas, like the royal swans of Lake Manasa, reject poetry without the taste of hari-katha, however full
+of verbal brilliance. Worldly poets sometimes bow to Hari by custom at the beginning of a book, but their devotion is not
+undivided: now they glorify Parvati and Shiva as the mother and father of the world, now they describe their love-play
+and the birth of Kumara, as in the “Kumara-sambhava.” But the poetry of Rupa, the crown of transcendental poets, is ever
+honoured by the undividedly devoted paramahamsas, for it serves Krishna's pleasure alone. <!-- F202 F203 Q44 I16 -->
+
+Once in the same Nilachala, Svarupa Damodara, the Lord's “second self” and the best judge of the siddhanta of
+bhakti-rasa, on hearing words contrary to siddhanta in the nandi-shloka of a village poet from Bengal, held up as an
+example the opening verses of Rupa's two dramas:
+
+“Poetry that describes the contradictory relationships of worldly people cannot give anyone joy. But the poetry of one
+who is absorbed in love of God and skilled in describing pure loving feelings gives true happiness. The two beautiful
+plays of Sri Rupa Gosvami are an example of this. Merely on hearing their introduction all the devotees feel the highest
+happiness.” (CC, Antya 5.107–108) <!-- F204 Q45 -->
+
+## The Command to Go to Vrindavana
+“So all the devotees spent the four months of the rainy season in Sri Chaitanya's company. Then the Lord bade them
+farewell, and they returned to Bengal. But Rupa Gosvami remained at Sri Chaitanya's lotus feet until the festival of
+Dola-yatra, which he happily witnessed together with Mahaprabhu. After Dola-yatra Sri Chaitanya took leave of Rupa
+Gosvami too. The Lord endowed him with His mercy and spiritual power and gave him this command: ‘Now go to Vrindavana and
+stay there. And send your elder brother Sanatana here. Having come to Vrindavana, live there, write books on the treasure
+of the spiritual rasas and restore the forgotten holy places. Serve Krishna and preach rasa-bhakti. I too shall soon come
+to Vrindavana again.’ With these words Sri Chaitanya embraced Rupa Gosvami, and he then placed the Lord's lotus feet on
+his head. Rupa Gosvami took leave of all Sri Chaitanya's devotees and returned to Vrindavana by way of Bengal.” (CC,
+Antya 1.214–221) <!-- F205 F206 -->
+
+This command is called fourfold: to write the scriptures of bhakti-rasa, to find the lost holy places, to establish the
+service of Deities and temples, and to preach transcendental bhakti-rasa — and so to establish the Lord's innermost
+desire. Rupa and Sanatana fulfilled it.[^38] Taking leave of the Lord, Rupa placed His feet on his head and went to
+Vrindavana by way of Gauda.[^39] In Gauda he divided his movable and immovable property among his relatives, had the money
+kept there brought to him and distributed it to relatives, brahmanas and temples; because of this he was delayed in Gauda
+for nearly a year. <!-- F207 F208 F209 I17 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -799,3 +925,16 @@ sweetness (CC, Antya 1.100–101). <!-- F182 -->
 [^34]: According to another account, Rupa did not go to bathe but came when the Lord was already in ecstasy and fell
     before Him like a rod; and the Lord, embracing him, gave him His blessing.
 [^35]: In another numbering — “Vidagdha-madhava” 1.33.
+[^36]: According to one biography, the Lord's displeasure was aroused by the verse of the “Vidagdha-madhava” (1.2): the
+    Lord said that its praise was excessive, while the other devotees were overwhelmed with prema. In the CC, after this
+    verse is read, the Lord only “did not praise it” and considered it too embellished (Antya 1.131), and He reproaches Rupa
+    after the verse of the “Lalita-madhava.”
+[^37]: According to one biography, Kalidasa was once considered the greatest Sanskrit poet — until Rupa began to write his
+    transcendental poetry, imbued with divine feelings.
+[^38]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing;
+    what it was is not said.
+[^39]: Accounts differ as to where Sanatana was then. According to one biography, he was already in Vraja by that time;
+    according to another, Sanatana came to Puri by the forest road through Jharikhanda, a year after Dola-yatra left by the
+    same road for Vraja, and Rupa soon joined him, so that the brothers met again more than a year after parting; according
+    to a third, having at last returned to Vrindavana, Sanatana met Rupa again, and both remained to carry out
+    Mahaprabhu's commands.
