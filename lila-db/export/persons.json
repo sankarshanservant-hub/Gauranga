@@ -4113,6 +4113,10 @@
     "type": "son"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "met"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -6029,6 +6033,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "deity-served"
    },
@@ -6076,6 +6084,10 @@
    "ev-virachandra-pilgrimage"
   ],
   "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "other"
@@ -6298,6 +6310,10 @@
   "related_by": [
    {
     "from": "@bhugarbha",
+    "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
     "type": "other"
    },
    {
@@ -10447,6 +10463,10 @@
     "type": "spouse"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "met"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -12579,6 +12599,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -13410,6 +13434,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    },
@@ -14203,6 +14231,10 @@
   "related_by": [
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
     "type": "other"
    },
    {
@@ -15289,6 +15321,10 @@
   "related_by": [
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
     "type": "other"
    }
   ]
@@ -16382,6 +16418,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "lineage-predecessor"
    },
    {
     "from": "@nityananda",
@@ -18690,6 +18730,14 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "uncle"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -19492,6 +19540,14 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "uncle"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "siksha-guru"
    },
    {
     "from": "@madhavendra-puri",
@@ -20338,6 +20394,10 @@
    {
     "from": "@jahnava",
     "type": "companion"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    },
    {
     "from": "@narahari-sarakara",
@@ -23354,6 +23414,10 @@
     "type": "met"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "friend"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -24217,6 +24281,10 @@
   ],
   "related_by": [
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "siksha-disciple"
    },
@@ -24866,6 +24934,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "friend"
    },
    {
     "from": "@nityananda",
@@ -25532,6 +25604,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -25977,6 +26053,10 @@
    {
     "from": "@jahnava",
     "type": "disciple"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "met"
    },
    {
     "from": "@narahari-sarakara",
@@ -26477,6 +26557,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "niece"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -27478,6 +27562,10 @@
     "type": "met"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "other"
    },
@@ -27675,6 +27763,10 @@
    "ev-gosvamis-ancestry"
   ],
   "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "father"
+   },
    {
     "from": "@raghunatha-bhatta",
     "type": "other"
@@ -27874,6 +27966,610 @@
    "ev-jiva-gosvami-writings",
    "ev-gosvamis-ancestry",
    "ev-tattva-gaura-scripture-proofs"
+  ],
+  "summary": "в Кришна-лиле — Виласа-манджари (ГГД 195) и др.; гуру — Мадхусудана Вачаспати; происхождение — Карната; явление — бхадра шукла-двадаши; уход — пауша шукла-трития; самадхи — Храм Радха-Дамодары (Вриндаван)",
+  "card": "parshadas/cards/jiva-gosvami.yaml",
+  "article": {
+   "ru": "parshadas/ru/jiva-gosvami.md",
+   "en": "parshadas/en/jiva-gosvami.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "goswamis",
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "по пяти версиям: 1455 Шака / ≈1533 (Бхактивинода; рукопись Вишвамбхарананды; T «по другим источникам»), 1580 Самват = 1445 Шака / ≈1523 (рукопись Ванамали Лала), 1511 (1433 Шака; ГВА, по T)",
+    "tithi": "бхадра шукла-двадаши (T); по нашему календарю — Гаура-двадаши месяца Хришикеша (≈ бхадра), в день явления Ваманадевы (23 сентября 2026)",
+    "place": "#chandradvipa",
+    "conf": "место: Бакла-Чандрадвипа (B) / Рамакели (T, по Анубхашье); год спорен — пять версий; срок жизни 85 лет (B, T)",
+    "facts": [
+     "F8",
+     "F9",
+     "F10",
+     "F11",
+     "F12",
+     "F13",
+     "F14",
+     "F15",
+     "F16",
+     "F17",
+     "F40",
+     "F50"
+    ]
+   },
+   "disappearance": {
+    "date": "1540 Шака / ≈1618 (Бхактивинода, Вишвамбхарананда; T «по другим»), 1665 Самват = 1530 Шака / ≈1608 (Ванамали Лал), 1596 (1518 Шака; ГВА, по T)",
+    "tithi": "пауша шукла-трития (B, T); по нашему календарю — Гаура-трития месяца Нараяна (≈ пауша); ближайший — 10 января 2027 (в день ухода Джагадиши Пандита)",
+    "place": "#vrindavana",
+    "conf": "день по B и T совпадает с нашим календарём; год — по той же версии, что и явление",
+    "facts": [
+     "F18",
+     "F9",
+     "F11",
+     "F13",
+     "F15",
+     "F16",
+     "F381"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-damodara-temple",
+     "facts": [
+      "F381"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Хари-намамрита-вьякарана» (3186 сутр) с «Сутра-маликой»",
+    "facts": [
+     "F209",
+     "F210",
+     "F214",
+     "F215",
+     "F216",
+     "F217",
+     "F218",
+     "F219",
+     "F220",
+     "F221"
+    ]
+   },
+   {
+    "title": "«Гана-дхату-санграха» («Дхату-санграха»)",
+    "facts": [
+     "F222"
+    ]
+   },
+   {
+    "title": "«Гопала-вирудавали»",
+    "facts": [
+     "F223",
+     "F224",
+     "F225",
+     "F226",
+     "F227"
+    ]
+   },
+   {
+    "title": "«Бхакти-расамрита-шеша» (после 1514 Шака)",
+    "facts": [
+     "F228",
+     "F229",
+     "F230",
+     "F231",
+     "F232",
+     "F233",
+     "F234",
+     "F235"
+    ]
+   },
+   {
+    "title": "«Мадхава-махотсава» (1477 Шака)",
+    "facts": [
+     "F236",
+     "F237",
+     "F238",
+     "F239",
+     "F240",
+     "F242",
+     "F243",
+     "F244",
+     "F245",
+     "F246",
+     "F247",
+     "F248",
+     "F213"
+    ]
+   },
+   {
+    "title": "«Санкалпа-калпадрума» («Санкалпа-калпа-врикша»)",
+    "facts": [
+     "F249",
+     "F250",
+     "F251",
+     "F252",
+     "F253",
+     "F254",
+     "F255"
+    ]
+   },
+   {
+    "title": "комментарий к «Брахма-самхите» (у Ауфрехта — «Диг-даршини»)",
+    "facts": [
+     "F256",
+     "F257",
+     "F258",
+     "F259",
+     "F260",
+     "F261",
+     "F262"
+    ]
+   },
+   {
+    "title": "«Дургама-сангамани» (на «Бхакти-расамрита-синдху»)",
+    "facts": [
+     "F263",
+     "F264",
+     "F265",
+     "F266",
+     "F267"
+    ]
+   },
+   {
+    "title": "«Лочана-рочани» (на «Уджджвала-ниламани»)",
+    "facts": [
+     "F268",
+     "F269",
+     "F107",
+     "F108"
+    ]
+   },
+   {
+    "title": "толкование гаятри из «Агни-пураны»",
+    "facts": [
+     "F270"
+    ]
+   },
+   {
+    "title": "«Гопала-чампу» (Пурва — 1510 Шака; Уттара — вайшакха 1514 Шака)",
+    "facts": [
+     "F271",
+     "F272",
+     "F273",
+     "F276",
+     "F279",
+     "F280",
+     "F281",
+     "F284",
+     "F291",
+     "F292",
+     "F106",
+     "F179"
+    ]
+   },
+   {
+    "title": "«Шат-сандарбха» («Бхагавата-сандарбха»): Таттва-, Бхагават-, Параматма-, Кришна-, Бхакти-, Прити-",
+    "facts": [
+     "F293",
+     "F294",
+     "F295",
+     "F296",
+     "F297",
+     "F305",
+     "F306",
+     "F307",
+     "F309",
+     "F310",
+     "F311",
+     "F312",
+     "F315",
+     "F317",
+     "F319",
+     "F178"
+    ]
+   },
+   {
+    "title": "«Крама-сандарбха» (комментарий на весь «Бхагаватам»)",
+    "facts": [
+     "F320",
+     "F321",
+     "F322",
+     "F323",
+     "F324",
+     "F325",
+     "F326"
+    ]
+   },
+   {
+    "title": "«Сарва-самвадини» (ану-вьякхья первых четырёх сандарбх)",
+    "facts": [
+     "F327",
+     "F328",
+     "F329",
+     "F330",
+     "F331",
+     "F332",
+     "F186",
+     "F189",
+     "F191"
+    ]
+   },
+   {
+    "title": "«Лагху-тошани» (сокращение «Вайшнава-тошани» Санатаны, 1504 Шака)",
+    "facts": [
+     "F20",
+     "F36",
+     "F37",
+     "F68",
+     "F212",
+     "F359"
+    ]
+   },
+   {
+    "title": "«Радха-кришнарчана-дипика»",
+    "facts": [
+     "F333",
+     "F334",
+     "F335",
+     "F336",
+     "F337"
+    ]
+   },
+   {
+    "title": "«Сукха-бодхини» (на «Гопала-тапани»)",
+    "facts": [
+     "F338",
+     "F339",
+     "F340",
+     "F341",
+     "F342",
+     "F343"
+    ]
+   },
+   {
+    "title": "составил «Става-малу» Рупы",
+    "facts": [
+     "F344"
+    ]
+   },
+   {
+    "title": "«Джахнава-аштака» (по каталогу)",
+    "facts": [
+     "F345"
+    ]
+   },
+   {
+    "title": "перечни БР и Кришнадаса Адхикари (знаки стоп Кришны, знаки Радхики, «Бхавартха-сучака-чампу», комментарий к «Йога-сара-ставе» и др.)",
+    "facts": [
+     "F209",
+     "F210",
+     "F211",
+     "F67"
+    ]
+   },
+   {
+    "title": "приписываемые и сомнительные: «Сара-санграха», комментарии к «Дана-кели-каумуди» и «Лалита-мадхаве», «Вайшнава-вандана», «Бхринга-сандеша», «Мукта-чарита» (у Ауфрехта; на деле — Рагхунатхи Даса)",
+    "facts": [
+     "F346",
+     "F347",
+     "F348",
+     "F349",
+     "F350",
+     "F351",
+     "F352",
+     "F353",
+     "F344",
+     "F354"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Виласа-манджари",
+    "source": "ГГД 195 (по B и T; в нашем переводе — блок 194–207)",
+    "level": "A",
+    "variants": [
+     "Бхактивинода: «в лиле Кришны — особая манджари» (F114)"
+    ]
+   },
+   {
+    "in": "other",
+    "as": "гаура-паршада и спутник враджа-лилы: «благонравный учёный Шриман Джива, сын Валлабхи»",
+    "source": "ГГД 203",
+    "level": "A"
+   },
+   {
+    "in": "other",
+    "as": "Баладева Видьябхушана — «второй Джива», его аватара (так говорят в сампрадае)",
+    "source": "B (пересказ современного исследователя)",
+    "level": "C"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@anupama",
+    "note": "Валлабха — Анупама; твёрдо предан Раме; ушёл у Ганги по пути в Нилачалу (1436 Шака по B, ⚠)."
+   },
+   {
+    "type": "uncle",
+    "who": "@rupa-gosvami"
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@rupa-gosvami",
+    "note": "Джива — ануга Рупы; Рупа отдал ему Радха-Дамодару (БР); эпизод с Валлабхой и изгнание — по T (БР 5); Анубхашья называет рассказ о наказании клеветой сахаджиев."
+   },
+   {
+    "type": "uncle",
+    "who": "@sanatana-gosvami"
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@sanatana-gosvami",
+    "note": "Парама-гуру (Бхактисиддханта); Джива сократил его «Вайшнава-тошани» («Лагху-тошани», 1504 Шака); Санатана упросил Рупу простить Дживу (T)."
+   },
+   {
+    "type": "grandfather",
+    "who": "@kumara-deva"
+   },
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "По БР — ребёнком тайком видел Господа в Рамакели (T сомневается во встрече); во сне Гаура вручил его Нитьянанде (B) / танцевал в киртане (T); Джива славит Его как Владыку тысяч в своей сампрадае."
+   },
+   {
+    "type": "met",
+    "who": "@nityananda",
+    "note": "Благословил в доме Шриваса, послал во Врадж: «Господь отдал это место вашему роду»; провёл по Навадвипе."
+   },
+   {
+    "type": "met",
+    "who": "@srivasa"
+   },
+   {
+    "type": "guru",
+    "who": "@madhusudana-vachaspati",
+    "note": "Учитель шастр в Каши; по преданию передал Дживе веданта-сиддханты Махапрабху, слышанные Сарвабхаумой."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@sarvabhauma",
+    "note": "Через ученика (Мадхусудану) передал Дживе дело проповеди таттвы (предание; «Джайва-дхарма»)."
+   },
+   {
+    "type": "friend",
+    "who": "@gopala-bhatta",
+    "note": "Его карики — источник «Шат-сандарбхи»; дикша-гуру Шринивасы."
+   },
+   {
+    "type": "friend",
+    "who": "@raghunatha-dasa",
+    "note": "Два мула-гуру рупануг; Рагхунатха Дас хотел оставить тело перед лицом Дживы и называл его «моей единственной жизнью»."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Джива — его шикша-гуру; клевета о «колодце» и о смерти Кавираджа от вести о краже отвергнута (B, T)."
+   },
+   {
+    "type": "companion",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@srinivasa-acharya",
+    "note": "Титул «Ачарья» (за толкование стиха «Уджджвала-ниламани» — B, T; за знание философии — M); послан с книгами в Гауду; письма Дживы (БР 14)."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@narottama-dasa",
+    "note": "Титул «Тхакур Махашая»; Джива послал его служить Локанатхе (M)."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@shyamananda",
+    "note": "Имя «Шьямананда» дал Джива (B, T) / дала Радха, Джива подтвердил (M); носил воду для Дживы (M)."
+   },
+   {
+    "type": "other",
+    "who": "@hridaya-chaitanya",
+    "note": "Вверил Дживе своего ученика Дукхи Кришнадаса (письмо — T; устно — M)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-kaviraja",
+    "note": "Титул «Кавираджа» — от Дживы (B, T) / многих враджаваси (БР) / Локанатхи, Гопалы Бхатты, Бхугарбхи (M)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-bhattacharya"
+   },
+   {
+    "type": "companion",
+    "who": "@raghava-gosvami-govardhana"
+   },
+   {
+    "type": "other",
+    "who": "@krishna-pandita-govinda"
+   },
+   {
+    "type": "met",
+    "who": "@jahnava",
+    "note": "Встретил её у Матхуры; она слушала его «Брихад-бхагаватамриту»; «Джахнава-аштака» приписана Дживе (каталог)."
+   },
+   {
+    "type": "other",
+    "who": "@kanu-thakura",
+    "note": "Джива и Госвами назвали его «Канаи Тхакуром»."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra"
+   },
+   {
+    "type": "companion",
+    "who": "@bhugarbha"
+   },
+   {
+    "type": "companion",
+    "who": "@madhu-pandita"
+   },
+   {
+    "type": "companion",
+    "who": "@ananta-acharya"
+   },
+   {
+    "type": "companion",
+    "who": "@haridasa-pandita-govinda"
+   },
+   {
+    "type": "companion",
+    "who": "@krishnadasa-brahmachari"
+   },
+   {
+    "type": "met",
+    "who": "@vallabha-bhatta",
+    "note": "Две истории: поправки Валлабхи к БРС и спор у Ямуны (T, по БР 5) / Джива указал ошибки в «Таттва-дипе», Валлабха исправил книгу (B, по Бхактивиноде)."
+   },
+   {
+    "type": "met",
+    "who": "@vitthalanatha"
+   },
+   {
+    "type": "other",
+    "who": "@akbar",
+    "note": "Спор о Ганге и Ямуне («Бхакта-калпадрума»); вместо даров — рукописи из Варанаси и бумага из Агры."
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnadasa-adhikari-vraja",
+    "note": "Составил стихотворный перечень сочинений Санатаны, Рупы и Дживы."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Раскрыл замысел «Лочана-рочани» в «Ананда-чандрике»; «по воззрению не отличен от Дживы» (Нарахари)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Комментатор «Шат-сандарбхи» / «Таттва-сандарбхи»; «второй Джива»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Пракашини»: учение Дживы — в пределах наставлений Рупы и Санатаны; статьи о Дживе в «Саджджана-тошани»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Анубхашья к ЧЧ Ади 10.85 — три клеветы сахаджиев и их опровержение; издал «Хари-намамриту»."
+   },
+   {
+    "type": "other",
+    "who": "@radhamohana-thakura",
+    "note": "Потомок Шринивасы; утвердил паракию в диспуте при наваб-дворе (1128 г.)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadeva-sharma"
+   },
+   {
+    "type": "other",
+    "who": "@hemalata"
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-dasa-author",
+    "note": "«Карнананда»: «Гопала-чампу» по внутреннему смыслу — паракия."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@madhvacharya",
+    "note": "«Брахма-тарка» в бхашье Мадхвы — основа ачинтья-бхедабхеды; сампрадая Мадхвы."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-svami"
+   },
+   {
+    "type": "other",
+    "who": "@shankaracharya"
+   },
+   {
+    "type": "other",
+    "who": "@shuklambara"
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru"
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta"
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta"
+   },
+   {
+    "type": "other",
+    "who": "@subuddhi-raya"
+   },
+   {
+    "type": "other",
+    "who": "@uddhava-dasa-gadadhara"
+   },
+   {
+    "type": "other",
+    "who": "@vira-hambira"
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa"
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-damodara-deity",
+    "note": "Явлено Рупой и отдано Дживе (БР); изначальное Божество ныне в Джайпуре, во Вриндаване — пракаша (B) / поклоняются во Вриндаване (T)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-deity",
+    "note": "Гирлянда Говинды — знак милости Шринивасе перед отъездом."
+   },
+   {
+    "type": "other",
+    "who": "@radha-ramana-deity"
+   },
+   {
+    "type": "other",
+    "who": "@shrinathji-deity",
+    "note": "Даршан Гопаладевы в доме Виттхалешвары в Матхуре."
+   }
   ],
   "related_by": [
    {
@@ -28416,6 +29112,10 @@
    },
    {
     "from": "@jahnava",
+    "type": "siksha-disciple"
+   },
+   {
+    "from": "@jiva-gosvami",
     "type": "siksha-disciple"
    },
    {
@@ -29007,6 +29707,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -29266,6 +29970,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "companion"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -29587,6 +30295,10 @@
     "type": "met"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -29686,6 +30398,10 @@
    {
     "from": "@jahnava",
     "type": "patron"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    }
   ]
  },
@@ -29908,6 +30624,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -29972,6 +30692,10 @@
    {
     "from": "@jahnava",
     "type": "host"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -30246,6 +30970,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -30358,6 +31086,12 @@
    "ev-gopala-champu-dispute",
    "ev-jiva-srinivasa-letters",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -31316,6 +32050,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -31945,6 +32683,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    }
@@ -32178,6 +32920,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "companion"
    }
   ]
  },
@@ -32251,6 +32997,10 @@
    {
     "from": "@jahnava",
     "type": "protege"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -32557,6 +33307,10 @@
     "type": "disciple"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "met"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -32601,6 +33355,10 @@
    {
     "from": "@bhugarbha",
     "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "met"
    },
    {
     "from": "@madhavendra-puri",
@@ -32885,6 +33643,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -32949,6 +33711,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@jiva-gosvami",
     "type": "other"
    },
    {
@@ -33048,6 +33814,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "lineage-successor"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "other"
@@ -33171,6 +33941,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    }
   ]
  },
@@ -35494,6 +36268,10 @@
   ],
   "related_by": [
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "companion"
    },
@@ -35571,6 +36349,12 @@
    "ev-srinivasa-acharya-title",
    "ev-govinda-commands-srinivasa",
    "ev-jahnava-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -35599,6 +36383,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "companion"
    }
   ]
  },
@@ -35622,6 +36410,10 @@
     "type": "disciple"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "companion"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "servant"
    }
@@ -35638,6 +36430,12 @@
   ],
   "events": [
    "ev-narottama-vrindavana-darshan"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -35683,6 +36481,12 @@
    "ev-srinivasa-narottama-shyamananda-vrindavana",
    "ev-jahnava-vrindavana",
    "ev-srinivasa-second-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "deity-served"
+   }
   ]
  },
  {
@@ -35801,6 +36605,12 @@
    "ev-ramachandra-instructs-vira-hambira",
    "ev-srinivasa-disciples",
    "ev-karnananda-composed"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -35835,6 +36645,12 @@
    "ev-hemalata-radha-ramana",
    "ev-srinivasa-disciples",
    "ev-karnananda-composed"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -36271,6 +37087,10 @@
   ],
   "related_by": [
    {
+    "from": "@jiva-gosvami",
+    "type": "grandfather"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "father"
    },
@@ -36291,6 +37111,12 @@
   ],
   "events": [
    "ev-jiva-comes-to-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "guru"
+   }
   ]
  },
  {
@@ -36317,6 +37143,12 @@
   ],
   "events": [
    "ev-jiva-gosvami-writings"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -37647,6 +38479,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
    }
   ]
  },
@@ -37803,6 +38639,10 @@
   ],
   "related_by": [
    {
+    "from": "@jiva-gosvami",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-predecessor"
    }
@@ -37908,6 +38748,10 @@
    "ev-vallabha-sridhara-svami"
   ],
   "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "other"
@@ -39174,6 +40018,10 @@
   ],
   "related_by": [
    {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "lineage-successor"
    },
@@ -39869,6 +40717,12 @@
    "ev-south-conversions",
    "ev-shringeri-debate",
    "ev-varanasi-sannyasis"
+  ],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
   ]
  },
  {
@@ -40815,6 +41669,10 @@
     "type": "other"
    },
    {
+    "from": "@jiva-gosvami",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    },
@@ -40884,6 +41742,51 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@radhamohana-thakura",
+  "ru": "Радхамохана Тхакур",
+  "en": "Radhamohana Thakura",
+  "note": "потомок Шринивасы Ачарьи; шесть месяцев вёл при дворе муршидабадского наваба диспут о свакии и паракии, утвердил паракию и сделал Кришнадеву Шарму своим учеником (B 527–528; 1128 г., вероятно, Б. э.)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@krishnadeva-sharma",
+  "ru": "Кришнадева Шарма",
+  "en": "Krishnadeva Sharma",
+  "note": "джайпурский пандит-дигвиджайи; с указом Мухаммад-шаха потребовал диспута о свакии и паракии, побеждён Радхамоханой Тхакуром и стал его учеником (B 527–528)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@akbar",
+  "ru": "Акбар (падишах)",
+  "en": "Akbar (the Mughal emperor)",
+  "note": "по «Бхакта-калпадруме» — призвал Дживу Госвами рассудить спор о Ганге и Ямуне; по его просьбе прислал рукописи из Варанаси и бумагу из Агры (B 525–526)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jiva-gosvami",
     "type": "other"
    }
   ]

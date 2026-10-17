@@ -2521,6 +2521,792 @@
   "note": "Готовила им подношения в Амбике; в киртане явились Гаура и Нитьянанда (M)."
  },
  {
+  "from": "@jiva-gosvami",
+  "type": "father",
+  "who": "@anupama",
+  "facts": [
+   "F32",
+   "F42",
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F244"
+  ],
+  "note": "Валлабха — Анупама; твёрдо предан Раме; ушёл у Ганги по пути в Нилачалу (1436 Шака по B, ⚠)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "uncle",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F31",
+   "F32",
+   "F50",
+   "F253"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-guru",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F2",
+   "F66",
+   "F68",
+   "F242",
+   "F245",
+   "F253",
+   "F256",
+   "F260",
+   "F266",
+   "F293",
+   "F301",
+   "F69",
+   "F70",
+   "F71",
+   "I3"
+  ],
+  "events": [
+   "ev-jiva-comes-to-vrindavana",
+   "ev-jiva-exiled-by-rupa"
+  ],
+  "note": "Джива — ануга Рупы; Рупа отдал ему Радха-Дамодару (БР); эпизод с Валлабхой и изгнание — по T (БР 5); Анубхашья называет рассказ о наказании клеветой сахаджиев."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "uncle",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F31",
+   "F32",
+   "F253"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-guru",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F2",
+   "F36",
+   "F37",
+   "F68",
+   "F71",
+   "F212",
+   "F241",
+   "F253",
+   "F260",
+   "F264",
+   "F343"
+  ],
+  "note": "Парама-гуру (Бхактисиддханта); Джива сократил его «Вайшнава-тошани» («Лагху-тошани», 1504 Шака); Санатана упросил Рупу простить Дживу (T)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "grandfather",
+  "who": "@kumara-deva",
+  "facts": [
+   "F30",
+   "F31"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F50",
+   "F56",
+   "F2",
+   "F185",
+   "F214",
+   "F240",
+   "F299",
+   "F300",
+   "F324"
+  ],
+  "event": "ev-ramakeli-rupa-sanatana",
+  "note": "По БР — ребёнком тайком видел Господа в Рамакели (T сомневается во встрече); во сне Гаура вручил его Нитьянанде (B) / танцевал в киртане (T); Джива славит Его как Владыку тысяч в своей сампрадае."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@nityananda",
+  "facts": [
+   "F56",
+   "F58",
+   "F59",
+   "F60",
+   "F61",
+   "F62"
+  ],
+  "event": "ev-jiva-meets-nityananda-navadvipa",
+  "note": "Благословил в доме Шриваса, послал во Врадж: «Господь отдал это место вашему роду»; провёл по Навадвипе."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@srivasa",
+  "facts": [
+   "F58",
+   "F59"
+  ],
+  "event": "ev-jiva-meets-nityananda-navadvipa"
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "guru",
+  "who": "@madhusudana-vachaspati",
+  "facts": [
+   "F63",
+   "F64"
+  ],
+  "note": "Учитель шастр в Каши; по преданию передал Дживе веданта-сиддханты Махапрабху, слышанные Сарвабхаумой."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "lineage-predecessor",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F64",
+   "F65"
+  ],
+  "note": "Через ученика (Мадхусудану) передал Дживе дело проповеди таттвы (предание; «Джайва-дхарма»)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "friend",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F295",
+   "F296",
+   "F297",
+   "F308",
+   "F146",
+   "F148",
+   "F152",
+   "F168",
+   "F176",
+   "F364"
+  ],
+  "events": [
+   "ev-srinivasa-initiation"
+  ],
+  "note": "Его карики — источник «Шат-сандарбхи»; дикша-гуру Шринивасы."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "friend",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F7",
+   "F34",
+   "F106",
+   "F357",
+   "F358",
+   "F359",
+   "F360",
+   "F152",
+   "I5"
+  ],
+  "note": "Два мула-гуру рупануг; Рагхунатха Дас хотел оставить тело перед лицом Дживы и называл его «моей единственной жизнью»."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-disciple",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F105",
+   "F361",
+   "F362",
+   "F6",
+   "F76",
+   "F99",
+   "F100",
+   "F101",
+   "F175"
+  ],
+  "events": [
+   "ev-krishnadasa-kaviraja-departure"
+  ],
+  "note": "Джива — его шикша-гуру; клевета о «колодце» и о смерти Кавираджа от вести о краже отвергнута (B, T)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@lokanatha",
+  "facts": [
+   "F106",
+   "F151",
+   "F165",
+   "F166",
+   "F176"
+  ],
+  "event": "ev-narottama-meets-lokanatha"
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-disciple",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F142",
+   "F143",
+   "F144",
+   "F145",
+   "F146",
+   "F147",
+   "F148",
+   "F149",
+   "F164",
+   "F168",
+   "F169",
+   "F170",
+   "F172",
+   "F174",
+   "F176",
+   "F178",
+   "F181",
+   "F184",
+   "F101"
+  ],
+  "events": [
+   "ev-srinivasa-arrives-vrindavana",
+   "ev-srinivasa-acharya-title",
+   "ev-books-leave-vrindavana",
+   "ev-srinivasa-second-vrindavana",
+   "ev-jiva-srinivasa-letters"
+  ],
+  "note": "Титул «Ачарья» (за толкование стиха «Уджджвала-ниламани» — B, T; за знание философии — M); послан с книгами в Гауду; письма Дживы (БР 14)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-disciple",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F150",
+   "F151",
+   "F152",
+   "F164",
+   "F165",
+   "F166",
+   "F169",
+   "F363"
+  ],
+  "events": [
+   "ev-narottama-meets-lokanatha",
+   "ev-narottama-thakura-mahashaya",
+   "ev-books-leave-vrindavana"
+  ],
+  "note": "Титул «Тхакур Махашая»; Джива послал его служить Локанатхе (M)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "siksha-disciple",
+  "who": "@shyamananda",
+  "facts": [
+   "F153",
+   "F154",
+   "F155",
+   "F156",
+   "F157",
+   "F158",
+   "F159",
+   "F160",
+   "F161",
+   "F162",
+   "F163",
+   "F164",
+   "F169",
+   "F177",
+   "F178",
+   "I8",
+   "I9"
+  ],
+  "events": [
+   "ev-shyamananda-comes-to-vrindavana",
+   "ev-shyamananda-nupura"
+  ],
+  "note": "Имя «Шьямананда» дал Джива (B, T) / дала Радха, Джива подтвердил (M); носил воду для Дживы (M)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F153",
+   "F154",
+   "F156",
+   "F162",
+   "F163"
+  ],
+  "note": "Вверил Дживе своего ученика Дукхи Кришнадаса (письмо — T; устно — M)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F180",
+   "F181",
+   "F182",
+   "F183"
+  ],
+  "note": "Титул «Кавираджа» — от Дживы (B, T) / многих враджаваси (БР) / Локанатхи, Гопалы Бхатты, Бхугарбхи (M)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@govinda-kaviraja",
+  "facts": [
+   "F180"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@paramananda-bhattacharya",
+  "facts": [
+   "F180"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@raghava-gosvami-govardhana",
+  "facts": [
+   "F147",
+   "F150"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@krishna-pandita-govinda",
+  "facts": [
+   "F144"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@jahnava",
+  "facts": [
+   "F77",
+   "F78",
+   "F79",
+   "F80",
+   "F83",
+   "F166",
+   "F345"
+  ],
+  "event": "ev-jahnava-vrindavana",
+  "note": "Встретил её у Матхуры; она слушала его «Брихад-бхагаватамриту»; «Джахнава-аштака» приписана Дживе (каталог)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@kanu-thakura",
+  "facts": [
+   "F80"
+  ],
+  "note": "Джива и Госвами назвали его «Канаи Тхакуром»."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@virabhadra",
+  "facts": [
+   "F81",
+   "F82"
+  ],
+  "event": "ev-virachandra-jiva-vrindavana"
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@bhugarbha",
+  "facts": [
+   "F78",
+   "F82",
+   "F83",
+   "F176",
+   "F184"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@madhu-pandita",
+  "facts": [
+   "F78",
+   "F81"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@ananta-acharya",
+  "facts": [
+   "F81"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@haridasa-pandita-govinda",
+  "facts": [
+   "F81"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "companion",
+  "who": "@krishnadasa-brahmachari",
+  "facts": [
+   "F81"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F69",
+   "F70",
+   "F93",
+   "F75"
+  ],
+  "event": "ev-jiva-vallabha-dispute",
+  "note": "Две истории: поправки Валлабхи к БРС и спор у Ямуны (T, по БР 5) / Джива указал ошибки в «Таттва-дипе», Валлабха исправил книгу (B, по Бхактивиноде)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "met",
+  "who": "@vitthalanatha",
+  "facts": [
+   "F75",
+   "F94"
+  ],
+  "event": "ev-gopala-mathura-vitthaleshvara"
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@akbar",
+  "facts": [
+   "F88",
+   "F89",
+   "F90",
+   "F91"
+  ],
+  "note": "Спор о Ганге и Ямуне («Бхакта-калпадрума»); вместо даров — рукописи из Варанаси и бумага из Агры."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "disciple",
+  "who": "@krishnadasa-adhikari-vraja",
+  "facts": [
+   "F208",
+   "F209"
+  ],
+  "note": "Составил стихотворный перечень сочинений Санатаны, Рупы и Дживы."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "lineage-successor",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F107",
+   "F108",
+   "F363",
+   "F366",
+   "F367"
+  ],
+  "note": "Раскрыл замысел «Лочана-рочани» в «Ананда-чандрике»; «по воззрению не отличен от Дживы» (Нарахари)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F21",
+   "F56",
+   "F107",
+   "F108"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "lineage-successor",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F368",
+   "F369",
+   "F370",
+   "F371",
+   "F372",
+   "F373"
+  ],
+  "note": "Комментатор «Шат-сандарбхи» / «Таттва-сандарбхи»; «второй Джива»."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F4",
+   "F9",
+   "F10",
+   "F62",
+   "F65",
+   "F92",
+   "F93",
+   "F95",
+   "F112",
+   "F113",
+   "F114",
+   "F135",
+   "F141",
+   "F198",
+   "F374",
+   "F375",
+   "F376",
+   "F377",
+   "F378",
+   "F379"
+  ],
+  "note": "«Пракашини»: учение Дживы — в пределах наставлений Рупы и Санатаны; статьи о Дживе в «Саджджана-тошани»."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F1",
+   "F2",
+   "F3",
+   "F5",
+   "F6",
+   "F7",
+   "F74",
+   "F96",
+   "F100",
+   "F104",
+   "F105",
+   "F221",
+   "F362",
+   "F380"
+  ],
+  "note": "Анубхашья к ЧЧ Ади 10.85 — три клеветы сахаджиев и их опровержение; издал «Хари-намамриту»."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@radhamohana-thakura",
+  "facts": [
+   "F110"
+  ],
+  "note": "Потомок Шринивасы; утвердил паракию в диспуте при наваб-дворе (1128 г.)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@krishnadeva-sharma",
+  "facts": [
+   "F109",
+   "F110",
+   "F111"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@hemalata",
+  "facts": [
+   "F106"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@yadunandana-dasa-author",
+  "facts": [
+   "F106"
+  ],
+  "note": "«Карнананда»: «Гопала-чампу» по внутреннему смыслу — паракия."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F384",
+   "F385"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "lineage-predecessor",
+  "who": "@madhvacharya",
+  "facts": [
+   "F193",
+   "F194",
+   "F195",
+   "F205",
+   "F206",
+   "F297"
+  ],
+  "note": "«Брахма-тарка» в бхашье Мадхвы — основа ачинтья-бхедабхеды; сампрадая Мадхвы."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@shridhara-svami",
+  "facts": [
+   "F323",
+   "F297",
+   "F310"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@shankaracharya",
+  "facts": [
+   "F198",
+   "F200",
+   "F305"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@shuklambara",
+  "facts": [
+   "F165"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@gopala-guru",
+  "facts": [
+   "F349"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F142",
+   "F360",
+   "F364"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F98",
+   "F383"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F44",
+   "F383"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@subuddhi-raya",
+  "facts": [
+   "F47"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@uddhava-dasa-gadadhara",
+  "facts": [
+   "F172"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@vira-hambira",
+  "facts": [
+   "F100",
+   "F173",
+   "F174"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura",
+   "ev-vira-hambira-conversion"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F85"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "deity-served",
+  "who": "@radha-damodara-deity",
+  "facts": [
+   "F86",
+   "F87",
+   "F146",
+   "F183",
+   "F336",
+   "F381"
+  ],
+  "note": "Явлено Рупой и отдано Дживе (БР); изначальное Божество ныне в Джайпуре, во Вриндаване — пракаша (B) / поклоняются во Вриндаване (T)."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@govinda-deity",
+  "facts": [
+   "F170"
+  ],
+  "event": "ev-govinda-commands-srinivasa",
+  "note": "Гирлянда Говинды — знак милости Шринивасе перед отъездом."
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@radha-ramana-deity",
+  "facts": [
+   "F146"
+  ]
+ },
+ {
+  "from": "@jiva-gosvami",
+  "type": "other",
+  "who": "@shrinathji-deity",
+  "facts": [
+   "F75",
+   "F94"
+  ],
+  "note": "Даршан Гопаладевы в доме Виттхалешвары в Матхуре."
+ },
+ {
   "from": "@madhavendra-puri",
   "type": "lineage-predecessor",
   "who": "@madhvacharya",
