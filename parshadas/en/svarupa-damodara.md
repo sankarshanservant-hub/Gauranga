@@ -156,3 +156,122 @@ Sri Chaitanya always danced in bliss and leapt high” (CC, Madhya 12.141). In P
 water pastimes — at Narendra-sarovara during the Chandana-yatra and at Indradyumna after the cleaning of the
 Gundicha; there he and his friend Pundarika Vidyanidhi, laughing, splashed water on each other (CB, Antya 8.124).
 <!-- F24 Q4 F116 Q35 -->
+
+## The Ratha-yatra
+At the Ratha-yatra the chief lead singers of the kirtana groups were Svarupa Damodara and Srivasa Pandita. At first
+there were four groups; in the first Svarupa sang and Advaita was the chief dancer. With the groups of Shantipura,
+Shrikhanda and Kulina there were seven, each with two drummers, and the Lord appeared in all of them at once — just
+as, Srila Bhaktivinoda Thakura explains, Krishna appeared in the rasa dance. When the Lord wished to dance in full
+abandon, He brought the groups together and set Svarupa at the head of nine singers; Damodara Pandita too sang in his
+choir. <!-- F25 F119 -->
+
+The Lord danced to his singing, and Svarupa understood His every sign and sang following the movements of His
+heart. The Lord was especially delighted by the song with the refrain “sei ta parana-natha painu / jaha lagi
+madana-dahane jhuri genu”:
+
+“At last I have found again the Lord of My life! In separation from Him I pined with grief, burning from the arrows
+of love.” (CC, Madhya 13.113)
+
+This song of meeting the Beloved after long separation, says Bhaktivinoda Thakura, came of itself to Svarupa's lips
+when at the end of the dance the Lord was absorbed in Radha's mood at Kurukshetra. For the Lord the temple of
+Jagannatha was Kurukshetra and the Gundicha was Vrindavana, and Svarupa understood everything He was experiencing at
+the Ratha-yatra. <!-- F26 Q5 F120 -->
+
+Before Jagannatha the Lord, dancing, acted out the song with His hands. When Gaura stepped back, Shyama stopped;
+when He went forward, the chariot slowly moved forward: Gaurasundara, as it were, seated Shyamasundara on the
+chariot of His heart. Raising His arms, He recited again and again the verse “yah kaumara-harah….” This verse comes
+from the books on poetics (“Kavya-prakasha,” “Sahitya-darpana”; it is also in the “Padyavali,” 380) and on the
+surface speaks of earthly lovers, but in the Lord's mouth it expressed the feeling of Radha meeting Krishna at
+Kurukshetra. No one but Svarupa knew its meaning, and day and night the Lord relished it alone with Svarupa.
+<!-- F27 Q6 F28 F121 -->
+
+Krishnadasa Kaviraja finds no words for Svarupa's happiness:
+
+“Who can describe the great fortune of Svarupa Damodara, who in body, heart and words was wholly devoted to Sri
+Chaitanya? Their feelings were truly fused into one, and so the Lord listened to Svarupa Damodara's singing in
+self-forgetfulness. Sometimes Sri Chaitanya, overcome by intense prema, would sit on the road and, bending down,
+write something on it with His finger. Then Svarupa, fearing that the Lord might hurt Himself, would carefully
+examine His hand. He was so sensitive to the slightest change in Sri Chaitanya's feelings that he could at once
+foresee their subtlest shade and instantly embody it in song.” (CC, Madhya 13.163–167)
+
+Through Svarupa's senses the Lord Himself relished the singing, and Svarupa's kirtana gave form in the Lord's heart
+now to one, now to another feeling of Radha suffering in separation from Krishna. <!-- F29 Q7 F30 -->
+
+## Hera-panchami
+On Hera-panchami, having returned from the Gundicha, the Lord asked Svarupa with a smile why Jagannatha, going to
+Sundarachala, whose groves resemble Vrindavana, does not take Lakshmi with Him. Svarupa answered that in the
+pastimes of Vrindavana there is no place for Lakshmi: there Krishna's companions are the gopis alone, and no one but
+they can steal His mind. “Then why is she so angry?” “Such is the nature of a loving woman: she cannot bear even a
+shadow of indifference from her beloved, and from this is born mana — the anger of loving pique.” <!-- F31 -->
+
+At that moment Lakshmi, in her anger, came out of the inner chambers to the Lion Gate — on a golden palanquin,
+under an umbrella, with chamaras and flags, with betel boxes and pitchers, to music, with dancing devadasis and
+hundreds of maidservants. Her maids seized the chief servants of Jagannatha and began to beat them, while the
+devotees laughed, covering their mouths. Svarupa, the first among the intimate devotees, said: “Such mana we have
+never heard of or seen in the three worlds. A piqued beloved loses her ardor, takes off her ornaments, sits on the
+ground with darkened face and draws lines on the earth with her nail. Such is the mana of the gopis of Vraja and
+even of Satyabhama, the lady of the city. But Lakshmi does the opposite: she has put her riches on show, gathered an
+army and marches to war against her beloved.” <!-- F32 F33 -->
+
+The Lord began to question him about the kinds of mana in Vraja and heard from his lips the secret truths of
+Vraja-prema. Listening to Svarupa's explanation of Radha's feelings, He embraced him in rapture, and then asked
+again — about the vilasas and her other moods. <!-- F34 -->
+
+Here Srivasa Pandita joined in. He extolled the wealth of his Lakshmi and teased Vrindavana for its poverty and
+“your mistress” for churning butter. The Lord remarked that each has his own particular way of bhajana, and Svarupa
+answered with the natural wealth of Vrindavana: all the majesty of Maha-Vaikuntha is but a small part of it; there
+Krishna sets aside His majesty; there the trees are wish-fulfilling kalpa-vrikshas, the earth is chintamani, the
+water nectar, speech song, every step a dance, the flute a dear friend, and the Lakshmis there are countless and full
+of sweetness. This dispute is told more fully in the article on Srivasa Pandita. <!-- F35 Q8 -->
+
+Hearing from Svarupa's lips of the highest rasa of service to Radha, the Lord danced for joy. When Svarupa sang songs
+of Vraja-rasa, He kept saying, “Go on, go on!” and bent His ear to his lips, and a wave of divine love flooded all
+Purushottama. <!-- F36 -->
+
+## Nilachala and the Road to Vrindavana
+So in Nilachala the Lord lived with Puri Gosvami (Paramananda Puri), Svarupa, Jagadananda, Damodara Pandita, Govinda
+and Kashishvara, and every morning went for darshana of Jagannatha, while Gadadhara He had appointed to serve
+Gopinatha in Yameshvara-tota. <!-- F38 -->
+
+Svarupa was bound by friendship to Pundarika Vidyanidhi. Whenever Vidyanidhi came to Nilachala he stayed with
+Svarupa, and they talked of Krishna; Krishnadasa Kaviraja calls him Svarupa's close friend (CC, Madhya 16.77). Once,
+on Odana-shashthi, Pundarika disapproved that the pujaris dressed Jagannatha in starched cloth and asked Svarupa's
+opinion. Svarupa replied, “The Lord is independent and not subject to the rules of smriti.” “Jagannatha is
+independent, but the pujaris are not,” Pundarika objected. That night Jagannatha and Balarama came to him in a dream
+and slapped his cheeks. Seeing his friend's swollen cheeks, Svarupa rejoiced at his good fortune:
+
+“Listen, brother. I have never seen such an amazing punishment, nor heard of anything like it. The Lord came to you in
+a dream and punished you personally.” (CB, Antya 10.175–176) <!-- F39 F117 Q35 -->
+
+On Vijaya-dashami the Lord set out for Vrindavana, and His chief companions were Puri Gosvami and Svarupa Damodara.
+That year He did not reach Vrindavana; He returned to Nilachala and began to think of going alone. The next year,
+after the Ratha-yatra, He made up His mind; Ramananda and Svarupa pleaded with Him at length and gave Him Balabhadra
+Bhattacharya and one servant as companions. In the morning the devotees, not finding the Lord, rushed in anguish to
+search for Him, but Svarupa held them back. And when the Lord came back from Vrindavana, Svarupa and others met Him
+at Narendra-sarovara, and he sent word of His return to Gauda. <!-- F40 F41 F42 F43 -->
+
+## Rupa's Verse
+The secret meaning of the verse “yah kaumara-harah” was known to Svarupa alone, and he sang padas in the same mood,
+delighting the Lord. But in Puri Rupa Gosvami too caught this mood. He wrote on a palm leaf a verse revealing the
+true meaning of the verse and tucked the leaf under the thatch of his hut. The Lord came while Rupa was bathing in
+the sea, read it and was overwhelmed with ecstasy; when Rupa returned and prostrated himself, the Lord slapped him:
+“How did you know what is hidden in My heart?” <!-- F44 F45 -->
+
+Then the Lord showed the verse to Svarupa and, as if not knowing the answer, asked how Rupa had entered into His
+thoughts. Svarupa replied:
+
+“As I understand it, You are especially favorable to him. No one could grasp this secret meaning. I think You have
+fully endowed him with Your causeless mercy.” (CC, Antya 1.86–87)
+
+And he added that the moment he saw the verse he understood it was anointed with the Lord's special mercy, for the
+cause is known by its effect. <!-- F46 -->
+
+Another time the Lord came with Svarupa, Ramananda and Sarvabhauma to Rupa, who was staying with Haridasa near the
+Siddha-bakula, and told him to recite his verse “priyah so 'yam…” (it is also given in the “Padyavali,” 383). Rupa
+was silent out of reverence, so Svarupa recited the verse, astonishing everyone, and then explained that Rupa had
+understood the Lord's heart by His special mercy. Rupa became Svarupa's dear friend; later, speaking of worldly
+poets, Svarupa would hold up as an example the way Rupa had begun his two plays — and from this it is concluded that
+Rupa's plays were largely written while the Lord was still present. <!-- F47 Q9 F122 F139 -->
+
+In Puri Sanatana Gosvami too was introduced to Svarupa, as to all the devotees, and later Raghunatha Bhatta, when he
+first came to the Lord. <!-- F125 -->
