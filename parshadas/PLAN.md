@@ -95,7 +95,7 @@ B — вероятно, больше сотни).
 | @vasu-ghosha (009) | ✓ | ✓ (PDF) | — |
 | @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | — |
 | @vakreshvara (011) | ✓ | ✓ (PDF) | — |
-| @svarupa-damodara (012) | ✓ | — | — |
+| @svarupa-damodara (012) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:** 013 Рамананда Рай → 014 Бхугарбха →
