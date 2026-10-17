@@ -1799,7 +1799,166 @@ devotees, and prays that Bhagavan may be pleased with it — “Shrimach-Chaitan
 Krishna, or Rupa Gosvami). In 1898 Bhaktivinoda Thakura published a Bengali translation of the “Brihad-bhagavatamrita” in
 two volumes. <!-- F455 F456 Q79 -->
 
-<!-- SECOND SHIFT -->
+### “Hari-bhakti-vilasa” and “Dig-darshini”
+By its opening verses and colophons the “Hari-bhakti-vilasa” is a book of Gopala Bhatta. Already the second verse of the
+first vilasa says that Gopala Bhatta, a disciple of Prabodhananda, dear to Bhagavan, gathers the “vilasas (pastimes) of
+bhakti” to please Raghunatha Dasa and Rupa-Sanatana. There are four opening verses in all: the author takes shelter of
+Bhagavan Chaitanya-deva; having consulted the sadhus, he gathers from all the shastras the necessary duties for the
+pleasure of the Vaishnavas; the book “Bhakti-vilasa” was born of the pastimes of prema-bhakti for the feet of the Lord of
+Mathura — may His devotees follow it; and may the Vaishnavas devoted to exclusive bhakti live long in Mathura-mandala, and
+may Kashishvara, Krishnadasa and Lokanatha shine in Krishna's forest. In the closing verses the author prays: when will my
+lowly head turn grey with the dust from the feet of those who always keep to good conduct for the sake of bhakti to
+Damodara? may I become a bee at the feet of those whose minds are full of the nectar ocean of love for Mukunda's feet and
+who seek nothing for themselves. <!-- F457 F464 Q80 Q84 -->
+
+The “Bhakti-ratnakara,” however, says plainly:
+
+“In the Bhatta's mind arose the wish to compose a Vaishnava smriti; Sanatana Gosvami knew of it at that very moment. And
+in Gopala's name Sri Sanatana Gosvami composed the ‘Sri Hari-bhakti-vilasa.’” (“Bhakti-ratnakara,” 1.197–198)
+
+Krishnadasa Kaviraja too calls the “Hari-bhakti-vilasa” a work of Sanatana (CC, Madhya 1.35; Antya 4.221; see above) and
+describes the “sutras” of this book which Mahaprabhu gave Sanatana in Kashi (see above, “Four Commissions”); and Jiva, in
+the conclusion of his “Vaishnava-toshani,” listing Sanatana's works, names the “Hari-bhakti-vilasa” and its commentary.
+<!-- F460 F461 Q82 -->
+
+How is this to be reconciled? Gopala Bhatta had seen in the south the good conduct (sadachara) of the Vaishnavas of
+Ramanuja, while there was as yet no Gaudiya compendium of smriti. From Sanatana himself he heard of Mahaprabhu's direct
+command to compile a Vaishnava smriti and of the Lord's instructions, and a desire arose in him to compile such a
+compendium for the good of future Gaudiya Vaishnavas. At Mahaprabhu's wish the compendium and its commentary were
+composed by Sanatana himself; but since the compendium was regarded as collected by Gopala Bhatta, and since he himself
+out of humility wished to hide his name, he declared Gopala Bhatta's name in the opening verse; perhaps Gopala Bhatta
+himself wrote that verse, making a beginning of the book. In the opinion of some, Gopala Bhatta gave Sanatana special
+help in the work, and therefore Sanatana out of humility named in the book not himself but him.[^70] <!-- F462 F463 -->
+
+Many consider this conclusion correct: by Mahaprabhu's command Sanatana first compiled the “Hari-bhakti-vilasa,” and its
+present text was edited (sampadita) by Gopala Bhatta. So too teaches Srila Bhaktisiddhanta Sarasvati: the colophons at the
+end of each vilasa show that the book was written down by Gopala Bhatta. Its content closely follows the Lord's
+instructions, and it is known as the Vaishnava smriti. Some even recognise two books — the large “Bhagavad-bhakti-vilasa”
+of Gopala Bhatta and a concise compendium of Vaishnava smriti, Sanatana's “Hari-bhakti-vilasa”; for in the colophon of
+every vilasa of the present edition stand the words: “Thus in the ‘Bhagavad-bhakti-vilasa’ written by Sri Gopala
+Bhatta…” <!-- F467 F468 F469 -->
+
+Sanatana's humility can be seen here too. In the “Hari-bhakti-vilasa” he put Gopala Bhatta's name; at the beginning of
+the third vilasa he bows to Sri Chaitanya Mahaprabhu, whose power is boundless and wondrous — “by His mercy even a lowly
+man becomes an establisher of good conduct.” And in the commentary “Dig-darshini” on the “Hari-bhakti-vilasa” he is
+wholly silent about his own name: only in the opening verses does he take shelter of Chaitanya-deva, who gives power to
+Brahma and others (the power to reveal the Vedas and other shastras), who descended in mercy to give His bhakti, by whose
+mercy every meaning of the shastras becomes accessible, and he says that he writes “according to his understanding” the
+commentary “Dig-darshini,” explaining part of the meaning of the “Bhagavad-bhakti-vilasa.” This brief commentary is
+reputed to be Sanatana's, but the commentator's name does not appear in it.[^71] <!-- F458 F459 Q81 Q83 I35 -->
+
+The “Hari-bhakti-vilasa” consists of twenty vilasas, each with its own name: Gaurava, Daikshika, Shauchiya, Sri
+Vaishnava-alankara, Adhishthanika, Snapanika, Paushpika, Pratar-archa-samapana, Mahaprasada, Sat-sangama, Nitya-kritya,
+Ekadashi-nirnaya, Vishnu-vrata-utsava, Shanmasika, Divya-avirbhava, Sri Damodara-priya, Paurashcharanika, Sri
+Murti-pradurbhava, Pratishthita and Prasadika. They speak of the guru and the disciple and of mantras; of diksha; of
+conduct, purity and remembrance; of the samskaras, tilaka on twelve places of the body, mudras, the mala and guru-puja; of
+the seat, breathing, meditation and the shalagrama; of invoking and bathing the Deity; of flowers; of incense, lamps,
+offerings, dance, music, garlands, prayers and offences in service; of mahaprasada and the devotees; of the worship of the
+Deity, the glory of the Name, offences against the Name and self-surrender; of ekadashi, fasts and Maha-dvadashi; of
+monthly duties; of festivals — the waterless ekadashi, chaturmasya, Janmashtami, Rama-navami, Vijaya-dashami and others;
+of the month of Karttika, lamps, Govardhana-puja and Ratha-yatra; of preparation for worship, the maha-mantra and japa; of
+the forms of Vishnu; of the installation of the Deity and the building of temples.[^72] <!-- F466 -->
+
+The conclusion of the book says: what needs to be known in more detail, learn from the relevant shastra or from the lips
+of the guru; many customs prescribed by the shastra are not written down, since there is now no one to observe them. The
+book sets out chiefly the duties of virtuous wealthy householders, for without steadiness on the path of archana they
+cannot attain the good; but for the nishkinchana mahatmas who have renounced everything the pomp of archana is not
+needed: such solitary devotees sing of and remember Krishna and desire nothing else, and the merits and sins arising from
+injunctions and prohibitions do not touch them. <!-- F465 -->
+
+The “Hari-bhakti-vilasa” is older than Rupa's “Bhakti-rasamrita-sindhu”: in the “Bhakti-rasamrita-sindhu” (Purva-vibhaga,
+second lahari, verses 42 and 94) proof-verses are quoted with reference to the “Hari-bhakti-vilasa.” Some half a century
+after it Raghunandana Bhattacharya wrote his smriti compendium, the “Ashtavimshati-tattva.” Gadadhara's smriti
+“Kala-sara” quotes the “Hari-bhakti-vilasa,” and Raghunandana's “Ekadashi-tattva” and other works quote a book called
+“Hari-bhakti.” The “Hari-bhakti-vilasa” itself rests on a vast number of authorities — Puranas, Samhitas, smritis,
+Pancharatras and Tantras, and also Krishnadevacharya, Venkatacharya, Shankaracharya and others. <!-- F469 F470 F471 F472 -->
+
+### “Lila-stava”
+Narahari Chakravarti also calls the “Lila-stava” the “Dashama-charita,” and Sanatana's “Dashama-charita” is mentioned in
+the “Chaitanya-charitamrita” too (Madhya 1.35). This book, known also as the “Krishna-lila-stava,” describes Krishna's
+pastimes up to His departure for Mathura; one of its verses — Sanatana's address to the “Bhagavata” — was quoted above.
+<!-- F473 F476 -->
+
+Many considered the “Lila-stava” lost. Some see it in the “Gitavali” — the forty-one songs of the “Stava-mala” on the
+pastimes of the Tenth Canto, beginning with the Nandotsava, in each of which Sanatana's name appears in one way or another;
+but Baladeva Vidyabhushana at the end of his commentary on the “Gitavali” calls its songs “taught by Rupa” (see the
+article on Rupa Gosvami). In the Berhampur edition of Rupa's “Stava-mala” the name “Sanatana” stands in the closing lines
+(bhanita) of the songs “Saurabha-sevita-pushpa-vinirmita,” “Apaghana-ghatita” and “Damodara-rati-vardhana-veshe.”
+Radhamohana Thakura included them in the “Padamrita-samudra” and in his commentary interprets the name in two ways:
+“Krishna, who is worshipped by Girisha, Sanaka and others together with Sanatana Gosvami,” or “Sarasvati praises Sanatana
+Gosvami” — that is, the pastimes described by the Gosvami named Sanatana, honoured by Sanaka and others.
+<!-- F474 F475 Q75 Q76 -->
+
+### “Vaishnava-toshani”
+Sanatana completed his commentary on the Tenth Canto — the “Vaishnava-toshani,” or “Dashama-tippani” — in 1476 Shaka and
+gave it to Jiva to correct. At his command Jiva abridged it into his own “Vaishnava-toshani,” or “Laghu-toshani,” finished
+in 1504 Shaka (1582 AD); hence the name of Sanatana's commentary, the “Brihad-vaishnava-toshani.” Both dates are given by
+a verse of the “Laghu-toshani” quoted in the “Bhakti-ratnakara”:
+
+“This auspicious commentary was completed in [Shaka] 1476, and abridged in 1504.” (“Bhakti-ratnakara,” 1.803)
+
+And in the conclusion of his book Jiva says that he, the insignificant Jiva, abridged the “Vaishnava-toshani” at
+Sanatana's command. <!-- F477 Q74 Q86 -->
+
+The “Toshani” discloses the hidden meaning of the pastimes of the “Bhagavatam” and the essence of siddhanta: it was
+written to set out clearly what Shridhara Svami had not expressly stated in his commentary. Its fifteen opening verses
+are a prayerful roll of Sanatana's whole lineage. He surrenders to Madana-gopala, the Lord of Vrindavana, and to Govinda,
+whose heart aches for the unfortunate; he honours Sri Krishna-Chaitanya, who descended in Gauda to distribute
+prema-bhakti; Madhavendra Puri with his disciples, through whom the immortal tree of Krishna-bhakti sprouted in the world;
+Shridhara Svami, the sole guardian of bhakti; his own teachers (see above); Advaita, Shrivasa Pandita, Nityananda the
+avadhuta, Gadadhara Pandita, Svarupa Damodara and the other associates of Chaitanya, by the touch of the dust of whose
+feet even the lowly become exalted; and those who love Vrindavana and have taken shelter at Govinda's feet —
+Kashishvara, Lokanatha and Krishnadasa. Then he writes that he has set out a little, according to Vaishnava siddhanta,
+for the pleasure of the Vaishnavas; that his shelter is the Vaishnavas whose encouragement pushed him into this bold
+work, and that where the two friends Gopala Bhatta and Raghunatha Dasa help, every goal is attained (see above); that
+this work is for the pleasure of “Shrimach-Chaitanya-rupa,” and that only Vaishnavas who know the fragrance of Sri
+Chaitanya's feet can taste the “Vaishnava-toshani.” The commentary ends with the words: the tippani on the Tenth Canto is
+completed for the pleasure of Bhagavan in the form of Sri Chaitanya — that is, of Krishna in the form of
+Krishna-Chaitanya (or of Rupa Gosvami). <!-- F478 F479 F480 Q85 -->
+
+### Disputed Attributions
+Other works are known under Sanatana's name, but their authorship is doubtful. Rayamukuta, in his commentary
+“Padachandrika” on the “Amara-kosha,” mentions a “Yogashataka-vyakhyana” of Sanatana; but the “Padachandrika” was written
+in 1431, and Sanatana appeared in 1488 — so this is another, earlier Sanatana. Eggeling in the India Office catalogue
+(vol. VII, pp. 1422–1423, nos. 1584 and 1570) records a commentary by Sanatana Gosvami, the “Tatparya-dipika,” on
+Kalidasa's “Meghaduta”; perhaps Sanatana wrote it before meeting Gaurasundara. Aufrecht in the “Catalogus Catalogorum”
+names two books under Sanatana's name — the “Bhakti-bindu” and the “Ujjvala-rasa-kana”; but no earlier acharya ascribes
+such works to Sanatana, and Aufrecht probably confused them with Vishvanatha Chakravarti's
+“Bhakti-rasamrita-sindhu-bindu” and “Ujjvala-nilamani-kirana.” <!-- F481 F482 F483 -->
+
+And in the “Triennial Catalogue” of the Government Oriental Manuscripts Library in Madras (ed. Mahamahopadhyaya Kuppuswami
+Shastri; vol. IV, part I, Sanskrit A, R. No. 3053) a small book, the “Gopala-puja,” is described as a work of Sanatana. It
+begins with the removal of obstructing beings “by the command of Shiva” and the viniyoga of the seat (its deity is Sri
+Kurma, its bija Ananta, its shakti the Earth), and ends with the instruction that, when offering naivedya, one should show
+the grasa-mudra, like a blossoming lotus, utter the mula-mantra with the words “shri-krishnaya naivedyam svaha,” give
+Krishna water for achamana, repeat the mula-mantra a hundred and eight times, offer three handfuls of flowers and
+circumambulate. The colophon reads: “Thus ends the ‘Gopala-puja’ composed by Sri Sanatana Gosvami.” <!-- F484 Q77 -->
+
+## Passing and Places of Remembrance
+Sanatana's years and the day of his passing — the full moon of the month of Vamana — were spoken of at the beginning of
+this article. Behind the temple of Madana-mohana, on lower ground, in a small building of red stone, Sanatana's samadhi is
+shown; beside it is a well of sweet water, the “Sanatana-kupa.” Every year on the day of Sanatana's passing a great
+festival is held here. When Ramachandra Kaviraja came to Vrindavana, by the direction of Shrinivasa and Jiva he had
+darshana of Govinda, Gopinatha and Madana-mohana and visited Sanatana's samadhi. <!-- F485 F486 F396 -->
+
+Sanatana is remembered in Kashi as well. The place on the bank of the Ganga where he received Mahaprabhu's instructions is
+called “Sri Sanatana-shiksha-lila-kshetra”; there stands the Sri Sanatana Gaudiya Math, where Vamshidasa Babaji lived for
+a time. Srila Bhaktisiddhanta Sarasvati spoke in Kashi about Mahaprabhu's instructions to Sanatana, and in the Sanatana
+Gaudiya Math of Benares the Deities of Radha-Govinda were installed on the 24th (apparently of November 1932). <!-- F487 -->
+
+## Rati-manjari
+In Krishna's eternal pastimes Sanatana is Rati-manjari, the closest friend of Rupa-manjari. The “Gaura-ganoddesha-dipika”
+says:
+
+“Rati-manjari, the dearest friend of Rupa-manjari, is also called by the wise by another name, Lavanga-manjari. She is now
+Sanatana, whose body is non-different from Gaura, worthy of worship by all; for the sake of the work Sanatana, the jewel
+among sages, also entered into him.” (“Gaura-ganoddesha-dipika,” 181–182) <!-- F488 Q66 -->
+
+The second “Sanatana” in this verse is the sage Sanatana- (Sanat-) kumara, one of the four Kumaras; and Rupa in the
+“Laghu-bhagavatamrita” calls his brother an avatara of the Kumaras.[^73] Sanatana, “whose body is non-different from
+Gaura,” is regarded as an extension, as it were, of Sri Chaitanya's own body. He is called the bhakti-siddhantacharya and
+the acharya of sambandha-jnana: through him Mahaprabhu disclosed to the world the essence of the siddhanta of bhakti, and
+his Madana-mohana to this day restores in souls their forgotten relationship with Krishna. <!-- F489 -->
 
 [^1]: One of the biographies, citing the “Gaudiya-vaishnava-abhidhana,” puts it more cautiously: “about 1410 Shaka
     (1488).” Another gives only the year of his appearance, 1488, and says nothing of Sanatana's departure. No one gives
@@ -2044,3 +2203,16 @@ two volumes. <!-- F455 F456 Q79 -->
     “Hari-bhakti-vilasa,” though elsewhere it ascribes the book itself to Sanatana as well; another names as Sanatana's
     “most important works” the “Hari-bhakti-vilasa,” the “Brihad-bhagavatamrita,” the “Dashama-tippani”
     (“Brihad-vaishnava-toshani”) and the “Dashama-charita.”
+
+[^70]: One of the biographies says simply that Sanatana compiled the “Hari-bhakti-vilasa” and published it under Gopala
+    Bhatta's name. Another says that he compiled it together with Gopala Bhatta, who edited the book, and out of great love
+    for him published it under his name; elsewhere the same biography writes that the book is based on notes collected by
+    Gopala Bhatta.
+
+[^71]: Another biography regards the “Dig-darshini” on the “Hari-bhakti-vilasa” as beyond any doubt a work of Sanatana.
+
+[^72]: The contents of the vilasas are given after one of the biographies (in Srila Bhaktivedanta Swami's summary); the
+    tenth vilasa is omitted there.
+
+[^73]: One of the biographies quotes only the first half of the verse of the “Gaura-ganoddesha-dipika” and does not speak
+    of the Kumara entering him.
