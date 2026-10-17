@@ -4253,6 +4253,241 @@
   "note": "Шриваса поклонялся Нрисимхадеве за затворённой дверью, когда пришёл Господь (F30–F31)."
  },
  {
+  "from": "@vasu-ghosha",
+  "type": "sibling",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F7",
+   "F29",
+   "F31",
+   "F35",
+   "F36"
+  ],
+  "note": "Ведущий певец их группы на Ратха-ятре (ЧЧ Мадхья 13.42–43); остался с Господом, когда Васудева и Мадхава ушли с Нитьянандой."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "sibling",
+  "who": "@madhava-ghosha",
+  "facts": [
+   "F7",
+   "F29",
+   "F31",
+   "F33",
+   "F34",
+   "F37"
+  ],
+  "note": "Вместе служили Нитьянанде киртаном в Гауде (F33); B называет Мадхавананду «братом Васудевы Гхоша» (F34)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F4",
+   "F24",
+   "F29",
+   "F31",
+   "F32",
+   "F33"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda",
+   "ev-nityananda-panihati-abhisheka"
+  ],
+  "note": "В обеих ганах — Гауры и Нитьянанды (ЧЧ Ади 11.15); по ЧЧ Ади 10.117–118 пошёл с Ним в Гауду; песня о Нитьянанде (F24)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F2",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F35",
+   "F36",
+   "F39"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha",
+   "ev-gauda-devotees-come-with-wives"
+  ],
+  "note": "Пел в четвёртой группе на Ратха-ятре; ежегодно приходил в Пури. Все подлинные пады — о Гауре."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "siksha-guru",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F17",
+   "F2"
+  ],
+  "note": "Начал слагать пады, следуя Нарахари («Падасамудра»); не посвящение — образец поэта."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "co-worker",
+  "who": "@vakreshvara",
+  "facts": [
+   "F35"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "note": "Танцор их группы на Ратха-ятре."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "co-worker",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F35"
+  ],
+  "note": "Подпевал в четвёртой группе (с ним — Вишнудас; какой именно Вишнудас — не сказано)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "co-worker",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F35",
+   "F32"
+  ],
+  "note": "Подпевал в той же группе; в его доме в Панихати братья пели для Нитьянанды."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "companion",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F36"
+  ],
+  "note": "С ним братья ежегодно ходили из Гауды в Пури."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F4",
+   "F31"
+  ],
+  "note": "Как и он, в обеих ганах; вместе ушли с Нитьянандой в Гауду (ЧЧ Ади 10.117–118)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F4",
+   "F34"
+  ]
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F26"
+  ],
+  "note": "Его песни подтверждают, что Гададхара — Радха (M)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F20"
+  ],
+  "note": "Пада о пляске младенца во дворе Шачи."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F20"
+  ]
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F39"
+  ],
+  "events": [
+   "ev-kheturi-festival",
+   "ev-kheturi-mahantas-depart"
+  ],
+  "note": "На киртане Нароттамы в Кхетури (БР 10, по M); по НВ 8 (lila-db) — Нароттама пел паду Васу Гхоша."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F3"
+  ],
+  "note": "Назвал его в «Гаура-арати»."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@mukunda-sanjaya",
+  "facts": [
+   "F3"
+  ],
+  "note": "«Санджая, Мукунда, Васу Гхош поют» («Гаура-арати»)."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F14"
+  ],
+  "note": "Братья — кая-вьюха ашрая-виграхи мадхура-расы."
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F19",
+   "Q4"
+  ]
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F29",
+   "Q3"
+  ]
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F13",
+   "Q1"
+  ]
+ },
+ {
+  "from": "@vasu-ghosha",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "I1"
+  ],
+  "note": "Толкование песни «йади гаура на ха’та» (по M)."
+ },
+ {
   "from": "@vishnupriya",
   "type": "spouse",
   "who": "@mahaprabhu",
