@@ -3,7 +3,8 @@
 Проверяет parshadas/cards/*.yaml: тег лица и все @-теги — в lila-db/PERSONS.md, #-теги — в PLACES.md,
 события ev-… — в lila-db/events*.yaml, номера F/Q/I — в parshadas/facts/<тег>.md (реестр самого лица; чужой
 реестр — как "@тег:F12"), типы связей — из списка ниже.
-Собирает parshadas/export/persons.json, relations.json (рёбра графа), identities.json.
+Собирает parshadas/export/persons.json, relations.json (рёбра графа), identities.json; обновляет справки
+{карточка: …} в lila-db/PERSONS.md (persons_desc.py).
 Запуск: python3 parshadas/tools/cards.py [-q]"""
 import json, re, sys
 from pathlib import Path
@@ -83,6 +84,11 @@ def main():
     out = P / 'export'; out.mkdir(exist_ok=True)
     for name, data in (('persons', persons), ('relations', rels), ('identities', idents)):
         (out / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=1))
+    if not allerr:  # справка о лице в PERSONS.md ({карточка: …}) — из карточек, см. persons_desc.py
+        sys.path.insert(0, str(Path(__file__).parent))
+        import persons_desc
+        n = persons_desc.update()
+        if n and not quiet: print(f'PERSONS.md: обновлено справок — {n}')
     if DUP: print('предупреждения:\n  ' + '\n  '.join(DUP))
     if allerr: print('\n'.join(allerr))
     if not quiet or allerr: print(f'{len(files)} карточек, {len(rels)} связей, {len(idents)} отождествлений; ошибок: {len(allerr)}')

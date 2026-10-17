@@ -172,6 +172,70 @@ def resolve(e, ev):
     return r
 
 
+def table_rows(path, ch):
+    """Строки реестра тегов: тег, RU, EN, примечание, раздел (жирная строка-заголовок над ним)."""
+    rows, section = [], ''
+    for l in read(path).splitlines():
+        m = re.match(r'^\| \*\*(.+?)\*\*', l)
+        if m:
+            section = m.group(1)
+            continue
+        m = re.match(rf'^\| ({re.escape(ch)}[a-z0-9-]+) \|([^|]*)\|([^|]*)\|([^|]*)\|', l)
+        if m:
+            rows.append([m.group(1)] + [x.strip() for x in m.groups()[1:]] + [section])
+    return rows
+
+
+def export_people(full, evout):
+    """export/persons.json и places.json для сайта: реестр тегов + карточки паршад (parshadas/) + где встречается."""
+    pdir = os.path.join(HERE, '..', 'parshadas')
+    def pj(name):
+        f = os.path.join(pdir, 'export', name)
+        return json.load(open(f, encoding='utf-8')) if os.path.exists(f) else []
+    cards = {c['id']: c for c in pj('persons.json') if c.get('id')}
+    idents, rels = {}, {}
+    for i in pj('identities.json'):
+        idents.setdefault(i['person'], []).append({k: i.get(k) for k in ('in', 'as', 'source', 'level', 'variants') if i.get(k)})
+    for r in pj('relations.json'):
+        rels.setdefault(r['from'], []).append({k: r.get(k) for k in ('type', 'who', 'note') if r.get(k)})
+    lil, evs = {}, {}
+    for e in full:
+        for t in (e.get('persons') or []) + (e.get('places') or []):
+            lil.setdefault(t, []).append(e['id'])
+    for e in full:  # у событий нет своих тегов — берём из их записей
+        if e.get('event'):
+            for t in (e.get('persons') or []) + (e.get('places') or []):
+                if e['event'] not in evs.setdefault(t, []):
+                    evs[t].append(e['event'])
+    seg = re.compile(r'\s*(?:·\s*)?\{карточка: ([^{}]*)\}')
+    persons = []
+    for tag, ru, en, note, section in table_rows('PERSONS.md', '@'):
+        m = seg.search(note)
+        p = {'id': tag, 'ru': ru, 'en': en, 'note': seg.sub('', note).strip(), 'section': section,
+             'lilas': lil.get(tag, []), 'events': evs.get(tag, [])}
+        if m: p['summary'] = m.group(1)
+        c = cards.get(tag)
+        if c:
+            p['card'] = f'parshadas/cards/{tag[1:]}.yaml'
+            p['article'] = c.get('article') or {}
+            for k in ('kind', 'circle', 'life', 'works'):
+                if c.get(k): p[k] = c[k]
+            p['identities'] = idents.get(tag, [])
+            p['relations'] = rels.get(tag, [])
+        persons.append(p)
+    # обратные связи: кто ссылается на лицо в своей карточке
+    back = {}
+    for src, rs in rels.items():
+        for r in rs:
+            back.setdefault(r['who'], []).append({'from': src, 'type': r['type']})
+    for p in persons:
+        if back.get(p['id']): p['related_by'] = back[p['id']]
+    places = [{'id': t, 'ru': ru, 'en': en, 'note': note, 'section': s, 'lilas': lil.get(t, []), 'events': evs.get(t, [])}
+              for t, ru, en, note, s in table_rows('PLACES.md', '#')]
+    for name, data in (('persons', persons), ('places', places)):
+        json.dump(data, open(os.path.join(HERE, 'export', f'{name}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+
+
 def build():
     errors = []
     events = load_events(errors)
@@ -200,6 +264,7 @@ def build():
     meta = {'periods': PERIODS, 'period_years': PERIOD_YEARS, 'sources': SOURCES, 'themes': sorted(THEMES),
             'bhava': sorted(BHAVAS), 'teaching': sorted(TEACHINGS), 'persons': sorted(PERSONS), 'places': sorted(PLACES)}
     json.dump(meta, open(os.path.join(HERE, 'export', 'meta.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    export_people(full, evout)
 
     out = ['# Временная шкала лил Шри Чайтаньи (сводка)', '',
            '*Собрано автоматически из `lilas/*.yaml` и `events.yaml` скриптом `build.py`; не править вручную.*', '',
