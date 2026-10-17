@@ -102,7 +102,7 @@ B — вероятно, больше сотни).
 | @gopala-guru (016) | ✓ | ✓ (PDF) | — |
 | @raghunandana (017) | ✓ | ✓ (PDF) | — |
 | @rupa-gosvami (018) | ✓ (из частей) | ✓ (PDF, 65 с.) | — |
-| @sanatana-gosvami (019) | B1–B2 ✓, B3 в работе | — | — |
+| @sanatana-gosvami (019) | B1–B3 ✓, B4 в работе | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
