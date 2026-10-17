@@ -4786,6 +4786,521 @@
   "note": "Шриваса поклонялся Нрисимхадеве за затворённой дверью, когда пришёл Господь (F30–F31)."
  },
  {
+  "from": "@svarupa-damodara",
+  "type": "father",
+  "who": "@padmagarbha-acharya",
+  "facts": [
+   "F102"
+  ],
+  "note": "T; lila-db pvl-0267."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "grandfather",
+  "who": "@jayarama-chakravarti",
+  "facts": [
+   "F102"
+  ],
+  "note": "Дед по матери (T)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "sibling",
+  "who": "@lakshminatha-lahiri",
+  "event": "ev-purushottama-acharya-sannyasa",
+  "note": "Сводный брат (сын Падмагарбхи от другой жены) — только lila-db, «Према-виласа» 24 (уровень C)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "sannyasa-guru",
+  "who": "@chaitanyananda",
+  "facts": [
+   "F6",
+   "F7",
+   "F12",
+   "Q1"
+  ],
+  "note": "Чайтанъянанда Бхарати, Каши; велел учить веданте; отпустил в Пури."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F18",
+   "F26",
+   "F28",
+   "F29",
+   "F53",
+   "F69",
+   "F81",
+   "F88",
+   "F96",
+   "F112",
+   "F114"
+  ],
+  "events": [
+   "ev-svarupa-paramananda-arrive",
+   "ev-gambhira-divine-madness",
+   "ev-last-twelve-years-gambhira"
+  ],
+  "note": "«Второе я» Господа; проверяющий всё, что читают Господу; певец Его настроений; в Гамбхире неотлучно."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "siksha-disciple",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F61",
+   "F62",
+   "F63",
+   "F64",
+   "F65",
+   "F66",
+   "F111",
+   "F126",
+   "F127",
+   "F128"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-joins-lord",
+   "ev-raghunatha-lord-instructions",
+   "ev-raghunatha-rotten-rice"
+  ],
+  "note": "«Сварупов Рагху»; Господь назначил Сварупу его шикша-гуру; Рагхунатха хранил кадчу Сварупы наизусть (внутренний путь расопасаны)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "siksha-disciple",
+  "who": "@vakreshvara",
+  "facts": [
+   "F92",
+   "F144"
+  ],
+  "note": "По «Джайва-дхарме» — передал ему внешний путь расопасаны (= @vakreshvara F50)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "lineage-successor",
+  "who": "@gopala-guru",
+  "facts": [
+   "F144"
+  ],
+  "note": "Через Вакрешвару (B, T); M — обучался под началом Сварупы и Рагхунатхи; B 581 — «ученик Сварупы» (вероятно, опечатка)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "lineage-successor",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F45",
+   "F46",
+   "F47",
+   "F100",
+   "F122",
+   "F139",
+   "F145"
+  ],
+  "events": [
+   "ev-priyah-so-yam-rupa"
+  ],
+  "note": "Друг; «сварупа-рупануга»; в шикша-парампаре Бхактисиддханты — после Сварупы."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "friend",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F19",
+   "F88",
+   "F95",
+   "F108",
+   "F110",
+   "F114",
+   "F137"
+  ],
+  "events": [
+   "ev-ramananda-comes-to-puri"
+  ],
+  "note": "«Одна душа» (B 233); вдвоём — сокровенные спутники Господа в разлуке."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "friend",
+  "who": "@pundarika-vidyanidhi",
+  "facts": [
+   "F39",
+   "F116",
+   "F117"
+  ],
+  "events": [
+   "ev-pundarika-odana-shashthi-slap",
+   "ev-narendra-jala-keli"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "friend",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F48",
+   "F49",
+   "F50",
+   "F55",
+   "F56"
+  ],
+  "events": [
+   "ev-gopala-bhattacharya-mayavada",
+   "ev-bengali-poet-drama-svarupa"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "co-worker",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F17",
+   "F112",
+   "F113",
+   "F115",
+   "F124"
+  ],
+  "note": "Двое, что были сердцем Господа в Пури; «две руки» санньяса-облика Господа (ЧБ)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "co-worker",
+  "who": "@govinda-servant",
+  "facts": [
+   "F20",
+   "F62",
+   "F67",
+   "F75",
+   "F77",
+   "F81"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "co-worker",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F74",
+   "F75",
+   "F76",
+   "F123",
+   "F132"
+  ],
+  "events": [
+   "ev-jagadananda-bed-banana"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "co-worker",
+  "who": "@srivasa",
+  "facts": [
+   "F25",
+   "F35",
+   "F54"
+  ],
+  "events": [
+   "ev-hera-panchami"
+  ],
+  "note": "Спор о Лакшми и Вриндаване (= @srivasa F104–F105)."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "co-worker",
+  "who": "@advaita",
+  "facts": [
+   "F21",
+   "F54",
+   "F119"
+  ],
+  "note": "Главный танцор в его группе киртана на Ратха-ятре."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F17",
+   "F21",
+   "F54",
+   "F123",
+   "F142"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F70",
+   "F113",
+   "F115",
+   "F140"
+  ],
+  "events": [
+   "ev-gadadhara-vallabha-initiation"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@kashishvara",
+  "facts": [
+   "F38",
+   "F74"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@shankara-pandita",
+  "facts": [
+   "F17",
+   "F74"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F38",
+   "F119",
+   "F123"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "companion",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F17",
+   "F124",
+   "F137"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F52",
+   "F71",
+   "F129"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished",
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Утешал, заступался; заключил, что тот обрёл место среди спутников."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F73",
+   "F74",
+   "F131"
+  ],
+  "event": "ev-haridasa-departure"
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@gopala-bhattacharya",
+  "facts": [
+   "F49",
+   "F50"
+  ],
+  "event": "ev-gopala-bhattacharya-mayavada"
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F69"
+  ],
+  "event": "ev-vallabha-bhatta-puri"
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F80",
+   "F99",
+   "F141"
+  ],
+  "event": "ev-karnapura-child-mercy",
+  "note": "Мальчик Парамананда Пури-дас; ГГД 160 о Сварупе."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F80"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F41"
+  ],
+  "event": "ev-departure-for-vrindavana"
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F130"
+  ],
+  "event": "ev-gopinatha-pattanayaka-pardoned"
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@gopinatha-pattanayaka",
+  "facts": [
+   "F71",
+   "F130"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F125"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F125"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F89"
+  ],
+  "note": "«Три с половиной» из группы Радхи."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F89"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F90",
+   "F94",
+   "F135",
+   "F141"
+  ],
+  "note": "Мурари записал начальные игры, Сварупа — последние."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F29",
+   "F83",
+   "F91",
+   "F94",
+   "F96",
+   "F97",
+   "F135",
+   "F136"
+  ],
+  "note": "Развернул кадчу Сварупы (через Рагхунатху) в ЧЧ."
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F94",
+   "F115"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F90",
+   "F94"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F64",
+   "F92",
+   "F120",
+   "F135"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F9",
+   "F105",
+   "F106",
+   "F113",
+   "F145"
+  ]
+ },
+ {
+  "from": "@svarupa-damodara",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F26",
+   "F27",
+   "F38",
+   "F72"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha"
+  ]
+ },
+ {
   "from": "@vakreshvara",
   "type": "companion",
   "who": "@mahaprabhu",
