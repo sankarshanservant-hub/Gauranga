@@ -37,7 +37,7 @@ eighty-five years on earth — twenty at home and sixty-five in Vrindavana. An o
 late Vishvambharananda Deva Gosvami, the pandita of the shripata of Gopivallabhapura, gives the same figures, and other
 researches arrive at them too. Yet Bhaktivinoda himself remarked that some dates in his source seem certain and others
 doubtful, and that by this record Jiva would have been born in the very year of Mahaprabhu's disappearance, which is
-hardly correct.[^2] <!-- F8 F9 F10 F11 F16 -->
+hardly correct.[^2] <!-- F8 F9 F10 F11 F12 F13 F14 F15 F16 -->
 
 According to our Vaishnava calendar, the appearance day of Srila Jiva Gosvami is Gaura-dvadashi of the month of
 Hrishikesha — the same day on which the appearance of Sri Vamanadeva is celebrated. His departure day, honoured by
@@ -156,6 +156,103 @@ Having settled their worldly affairs in Gauda, both went to Nilachala at Mahapra
 of the Ganga, Anupama attained the abode of Sri Ramachandra.[^11] Jiva himself, as we have seen, writes of this in the
 “Laghu-toshani”: “my father soon attained Sri Rama on the Ganga”. <!-- F48 F49 -->
 
+## Childhood
+Jiva spent his childhood with his uncles in Ramakeli. The “Bhakti-ratnakara” preserves the tradition that when
+Mahaprabhu came there to accept Rupa and Sanatana, little Jiva secretly saw His feet:
+
+“Sri Jiva and others saw the Lord in secret; this I heard from the lips of very old people”. (“Bhakti-ratnakara”,
+1.638)[^12]
+
+By the Lord's will the same spirit of renunciation that awoke in his uncles then touched Jiva's heart as well.
+<!-- F50 F51 Q8 -->
+
+From early childhood an inclination to service could be seen in him: even when playing with friends he chose only games
+connected with Krishna. Narahari Chakravarti relates:
+
+“In his childhood Sri Jiva, with other boys, knew no games but those connected with Sri Krishna. Making figures of Krishna
+and Balarama, he would worship Them with flowers, sandal and the like. In various ornaments and garments They were very
+beautiful; gazing at Them without blinking, he rejoiced at heart. Falling to the ground like a golden doll, he bowed to
+Them and was bathed in tears. Offering Them various sweets with great care, he would eat the prasada together with the
+boys”. (“Bhakti-ratnakara”, 1.719–723) <!-- F52 F53 I2 Q10 -->
+
+From childhood Jiva loved the “Bhagavatam”, and very soon he became foremost in grammar, poetry, rhetoric and the other
+shastras; his incomparable beauty and transcendental qualities amazed everyone. <!-- F54 -->
+
+When Rupa and Sanatana left for Vraja, Jiva lost all peace:
+
+“From the time the Gosvamis went to Vrindavana, what came over Sri Jiva's heart! Various jewelled ornaments, fine
+garments, wondrous beds and luxurious meals — all this he gave up, nothing pleases him, and of kingdoms and worldly
+affairs he cannot bear to hear”. (“Bhakti-ratnakara”, 1.686–688)
+
+And when Gaurasundara too disappeared, Jiva's heart ached with separation: day and night, thinking of the feet of Rupa,
+Sanatana and Gaurasundara, he swam in an ocean of tears of love.[^13] <!-- F55 Q9 -->
+
+## Two Dreams and Navadvipa
+Once, during nama-kirtana, singing the names of Gaurasundara, Jiva wept and lost all composure. Dozing off at the end of
+the night, he had a dream: “In the midst of the sankirtana Gaura-raya dances, intoxicating the world with prema
+unattainable even for Brahma” (“Bhakti-ratnakara”, 1.714). The vision vanished, Jiva woke in turmoil — and fell asleep
+again, and saw a second dream. Krishna and Balarama appeared before him, and then the same Two, golden in hue, Gaura and
+Nityananda. They placed Their feet on his head, embraced him with fatherly love and comforted him, and then
+
+“Sri Gaurasundara, overcome with great prema, entrusted him to the feet of Prabhu Nityananda. Nityananda says to Sri Jiva
+again and again: «Let this Lord of Mine be everything to you»”. (“Bhakti-ratnakara”, 1.736–737)[^14] <!-- F56 -->
+
+On waking, Jiva soon left home. From Bakla-Chandradvipa he set out by way of Fatehabad for Sri Mayapur-Navadvipa: as far
+as Fatehabad companions saw him off, and from there he went on without them. In Navadvipa, in the house of Srivasa
+Pandita, Nityananda Prabhu was waiting for him:
+
+“Prabhu Nityananda, overwhelmed with great parental love, placed both His feet on Sri Jiva's head. He showed Sri Jiva the
+utmost mercy: raising him from the ground, He embraced him tightly. In the rapture of prema the Lord says: «For your sake
+I hastened here from Khardaha». Saying many such things, He calmed Sri Jiva and had Srivasa and the other devotees show
+him mercy. Having kept him by His side in great joy, He sends Sri Jiva off to the western country. <…> The Lord says: «Go
+quickly to Vraja: the Lord has given that place to your family»”. (“Bhakti-ratnakara”, 1.765–769, 772)
+<!-- F57 F58 F59 Q11 -->
+
+Krishnadasa Kaviraja writes of the same:
+
+“Having decided to go from Bengal to Mathura, Sri Jiva Gosvami asked Srila Nityananda Prabhu for permission. Since Sri
+Jiva was the nephew of Sanatana and Rupa Gosvami, who were especially dear to Sri Chaitanya Mahaprabhu, Sri Nityananda
+bestowed His mercy on him, touching his head with His foot and clasping him in His embrace. Then Nityananda Prabhu gave
+Sri Jiva this order: «Go to Vrindavana at once. Sri Chaitanya has made the holy land of Vraja a special place for your
+whole family». At His command Sri Jiva went to Vrindavana and there obtained the fruit of fulfilling the will of God: he
+composed many spiritual books and successfully preached from there the teaching of bhakti”. (CC, Antya 4.232–235)
+<!-- F60 Q12 -->
+
+Before leaving, Jiva, following Nityananda and by His mercy, went round all the holy places of Navadvipa-dhama. In
+Bhaktivinoda Thakura's “Navadvipa-dhama-mahatmya” it is Nityananda Himself who leads Jiva through the dhama. At the house
+of Sridhara Pandita Nityananda tells him that here Mahaprabhu used to stop the kirtana so that the devotees could rest —
+this is the “vishrama-sthana”, the place of rest — and invites the two of them to rest as well. <!-- F61 F62 -->
+
+## Studies in Kashi
+From Navadvipa Jiva went to Kashi (Benares) and for some time studied all the shastras under Madhusudana Vachaspati.
+Tradition links this teacher with Mahaprabhu Himself: in Nilachala Sarvabhauma Bhattacharya had heard from Sri Krishna
+Chaitanya Vedanta conclusions full of spiritual play, and he passed them on to his disciple Madhusudana. So Jiva, coming
+to Madhusudana Vachaspati at Nityananda's command and studying nyaya, Vedanta and other shastras with him, heard these
+teachings of Mahaprabhu. In the “Jaiva-dharma” (ch. 39) Bhaktivinoda says the same: the burden of preaching the tattva lay
+on Sarvabhauma, and he passed this task on to Jiva through one of his disciples. <!-- F63 F64 F65 -->
+
+## At the Feet of Rupa and Sanatana
+From Kashi Jiva came to Vrindavana, took full shelter of Rupa and Sanatana, studied with them the whole “Bhagavata” and the
+shastras of bhakti, and from then on never left Vraja-mandala. Krishnadasa Kaviraja writes:
+
+“The son of Sri Vallabha (Anupama), the younger brother of Rupa Gosvami, was the greatest knower of the sacred scriptures.
+His name was Sri Jiva Gosvami. Sri Jiva Gosvami came to Vrindavana, completely leaving his worldly life. He also wrote many
+books on pure devotion to God and helped to spread them. He wrote the book “Bhagavat-sandarbha”, in which he revealed the
+essence of all the scriptures. In it we find the deepest explanation of the nature of God and of loving service to Him.
+He also wrote the “Gopala-champu”, in which he explained the nature of the loving pastimes of Sri Sri Radha-Krishna in
+Vrindavana. In the “Shat-sandarbha” he set out all the highest truths about divine love for Krishna. In his works one can
+find more than four hundred thousand Sanskrit verses”. (CC, Antya 4.227–231) <!-- F66 F67 -->
+
+Rupa and Sanatana were so pleased with Jiva's transcendental learning and his inborn grasp of the conclusions of bhakti
+that they even gave him their own books to correct:
+
+“Sri Rupa composed the «Sri Hamsa-duta» and other books, Sanatana wrote the «Bhagavatamrita» and others. Having composed
+the «Sri Vaishnava-toshani», Sanatana ordered Sri Jiva to edit it”. (“Bhakti-ratnakara”, 1.791–792)
+
+So the “Laghu-toshani” came into being, of which more will be said later. At that time too, according to the
+“Bhakti-ratnakara”, Jiva clashed with Vallabha Bhatta — of this, and of how the acharyas view the story, see below, in the
+section on slanders. <!-- F68 Q14 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
@@ -198,3 +295,14 @@ of the Ganga, Anupama attained the abode of Sri Ramachandra.[^11] Jiva himself, 
 [^11]: One of the biographies gives the year — 1436 Shaka (1514–1515). But by the course of events in the
     “Chaitanya-charitamrita” — Rupa went to Vrindavana after the Lord had returned from there, spent a month in Vraja, then
     came Kashi and Gauda — Anupama's departure apparently falls in 1437 Shaka.
+
+[^12]: Another biography is more cautious: it is unclear whether Jiva met Mahaprabhu in person, though the
+    “Bhakti-ratnakara” hints that when the Lord came to Ramakeli Jiva was an infant. On how this tradition fits Jiva's
+    dates, see note 1.
+
+[^13]: The biographies connect this grief with different events: one with Rupa and Sanatana settling in Vraja and
+    Gaurasundara's disappearance; the other, following the “Bhakti-ratnakara”, with the uncles' departure for Vrindavana.
+
+[^14]: One of the biographies speaks only of the second dream, another (following Narahari) only of the first, with
+    Mahaprabhu dancing in the sankirtana, after which Jiva, overcome with love, soon left home. In the
+    “Bhakti-ratnakara” (1.712–738) the dreams follow one after the other.
