@@ -1651,6 +1651,154 @@ But the main thing lies elsewhere. Rupa, Sanatana and the other Gosvamis are in 
 single true conclusion of Vaishnava dharma. Rupa and Sanatana are the crown of paramahamsas beyond varnashrama, gurus even
 for the jagad-gurus. <!-- F424 -->
 
+## The Testimony of the Poets
+Sanatana's life was sung by Bengali poets as well. Radhavallabha Dasa, known as a disciple of Shrinivasa Acharya, a
+padakarta who rendered Raghunatha Dasa's “Vilapa-kusumanjali” into Bengali verse, wrote the “Srila Sanatana Gosvamir
+suchaka” — Sanatana's life in condensed, “sutra” form, in the tripadi metre, in two songs. The poet's account is poetic
+and does not agree with the “Chaitanya-charitamrita” in everything, but it conveys Sanatana's heart vividly. <!-- F426 -->
+
+The first song begins with Sanatana's lament in prison after Rupa had renounced the world: “Gaurahari in His mercy saved
+Rupa, but me, the lowly one, He did not remember. With the noose of the rope of my karma they bound my hands and neck and
+threw me into prison; so with the noose of Your mercy seize me firmly by the hair and lift me up to Your feet.” Sanatana
+compares himself to a doe caught in a trap: behind is bottomless water, on either side a forest fire, in front the hunter
+has set his arrow to the string. “You easily saved Jagai and Madhai, Vasudeva and Ajamila — give Sanatana too some glimmer
+of mercy, the boat of Your feet; save me from this ocean of sorrow, I have no one but You.” And at that very moment
+someone secretly passed him a letter from Rupa; overjoyed, constantly remembering Gauranga, Sanatana set out.
+<!-- F427 F428 F429 -->
+
+In the second song Sanatana, Rupa's elder brother and the padishah's vizier (ujir), receiving Rupa's letter, escapes from
+captivity and meets Gauranga in Kashi. He approaches stooping — in a torn kantha, with long nails and grown hair — with
+two bunches of grass in his hands and one in his teeth, and falls at Chaitanya's feet. Seeing him in the guise of a
+dervish, the Lord rushes to him in tears with open arms and embraces him. “Why touch a fallen man?” Sanatana grieves. “I
+am untouchable, despicable, wretched, of bad conduct, without understanding, of low birth and low deeds, unworthy of Your
+touch.” “Sanatana, why do you humble yourself so?” the Lord replies. “Your humility breaks My heart. Krishna's mercy does
+not distinguish good from bad; I touch you to purify Myself.” The Lord glances again and again at the costly blanket
+(bhota-kambala), and the embarrassed Sanatana gives it to a man of Gauda, takes a torn kantha in exchange and returns to
+the Lord. <!-- F430 F431 F432 F433 F434 -->
+
+“You will meet Rupa in Vrindavana,” says the Lord, and at His command Sanatana goes; in His mercy Gauranga taught him the
+sweetness of the names of Radha and Krishna. On the way he wears a torn kantha and a worn bahirvasa, his head is shaven,
+on his lips is the tale of Krishna's qualities; now he weeps, now laughs, now floats in the bliss of prema, now begs alms,
+now fasts. In Vrindavana he meets Rupa, and Rupa, his eyes full of tears of love, embraces him and speaks in a broken
+voice.[^67] In Vraja Sanatana lives by madhukari, from house to house, and later gives up even this: he lies now in one
+grove, now in another, and lives on fruits and roots. He calls aloud, “Radha-Krishna! O Lord, O Lord!” — and the brothers
+pass the time speaking of Gauranga's qualities. <!-- F435 F436 F437 F438 F439 -->
+
+At times, absorbed within, Sanatana spends fifty-six dandas in meditation and sleeps only four dandas under a tree; he
+sings Krishna's name, and in sleep he sees Radha and Krishna — not a moment of idleness. Having given up every desire for
+enjoyment, he lives under the trees, fasts for two to four days, sometimes boils forest greens without salt and puts a
+mouthful or two into his mouth; a thin cloth on his body, his body grey with dust, his sides pricked with thorns. “When
+shall I become his servant?” Radhavallabha concludes. <!-- F440 F441 -->
+
+A song of Manohara Dasa about Sanatana is also sung. All the worlds praise his qualities; leaving boundless happiness and
+wealth, he made the feet of Sri Chaitanya the essence of his life. He lived in Vrindavana and uncovered all the lost
+tirthas, spread the service of Sri Govinda, expounded the meaning of the “Bhagavatam,” and in incomparable books disclosed
+the bhajana of the Divine Couple, Their pastimes, qualities and names. His body trembled ceaselessly with love for Gaura;
+finding no rest, he roamed through Vrindavana and along the bank of the Yamuna, and, all trembling, in tears, crying
+“Rai-Kanu!”, fell exhausted — his whole body was adorned with bhavas. By his mercy one attains Vrindavana, and on him, the
+Gosai, Manohara meditates. <!-- F442 -->
+
+Kavi Karnapura, the son of Shivananda Sena, also wrote of Sanatana in the “Chaitanya-chandrodaya-nataka”:
+
+“…he who was the jewelled ornament of the assembly of the lord of Gauda — Rupa's elder brother — leaving flourishing
+wealth, took to wife the young Lakshmi of renunciation. Within, his heart is full of the rasa of bhakti, while outwardly
+he bears the look of an avadhuta; like a great lake covered with duckweed, he gives joy to those who know his worth.”
+(“Chaitanya-chandrodaya-nataka,” 9.34)[^68]
+
+The “Bhakti-ratnakara” recalls this too: “Kavi Karnapura, dear to the Lord, wrote a book and told of the grace shown to
+Sanatana” (1.657). <!-- F443 Q65 -->
+
+## Writings
+Sanatana left four books: the “Brihad-bhagavatamrita” with the commentary “Dig-darshini”; the “Hari-bhakti-vilasa,” also
+with the commentary “Dig-darshini”; the “Lila-stava,” or “Dashama-charita”; and the “Vaishnava-toshani”
+(“Dashama-tippani,” “Brihad-vaishnava-toshani”), a commentary (tippani) on the Tenth Canto of the “Bhagavatam.”[^69]
+<!-- F444 -->
+
+Krishnadasa Kaviraja names them twice:
+
+“‘Hari-bhakti-vilasa,’ ‘Brihad-bhagavatamrita,’ ‘Dashama-tippani’ and ‘Dashama-charita.’ All these important spiritual
+works were written by Sanatana Gosvami.” (CC, Madhya 1.35–36)
+
+“Srila Sanatana Gosvami compiled the ‘Brihad-Bhagavatamrita.’ From this book we know all the highest truths about the path
+of bhakti, about Krishna and about His devotees. He also wrote a commentary on the Tenth Canto of the
+‘Srimad-Bhagavatam,’ calling it the ‘Dashama-tippani.’ Thanks to this work we can understand the nature of Krishna's
+transcendental pastimes and of pure love for Him. He also compiled the book ‘Hari-bhakti-vilasa,’ in which he described
+in detail the code of conduct and all the duties of Vaishnavas. And how many other Vaishnava books he wrote! No one can
+even list them all. In them he explained the essence of the worship of Madana-mohana and Govindaji.” (CC, Antya
+4.219–222) <!-- F445 F446 Q69 Q70 -->
+
+The “Bhakti-ratnakara” lists them likewise, saying that Jiva's disciple Krishnadasa Adhikari told of the Gosvamis' books
+in detail:
+
+“Sanatana Gosvami has four books: the ‘Bhagavatamrita’ in two parts with a commentary, the ‘Hari-bhakti-vilasa’ with the
+commentary ‘Dik-pradarshini,’ the commentary on the Tenth Canto called the ‘Vaishnava-toshani,’ and the ‘Lila-stava,’
+which is called the ‘Dashama-charita’: these are the four books of Sanatana Gosvami.” (“Bhakti-ratnakara,” 1.806–808)
+
+Sanskrit verses are quoted there as well: “The list of compilations of conclusions among the works of the elder of them,
+named Sri Sanatana, is this: first, the ‘Bhagavatamrita’ in two parts, the ‘Hari-bhakti-vilasa’ with its commentary
+‘Dik-pradarshini,’ the ‘Lila-stava,’ and the commentary called the ‘Vaishnava-toshani’” (1.809–810). Through these books,
+through the service of the Deity and the restoration of the tirthas the Lord accomplished through Sanatana what was said
+above: He established the truths about the devotee, bhakti and Krishna-prema, the duties and good conduct (sadachara) of a
+Vaishnava, the service of the Deity and the inner service in Vraja (manasi vraja-bhajana), and taught pure devotees the
+renounced life full of the rasa of bhakti. <!-- F447 F448 Q71 Q72 -->
+
+### “Brihad-bhagavatamrita”
+Sanatana himself called the book the “Bhagavatamrita.” Rupa, taking its essence, wrote the “Sankshepa-bhagavatamrita” and
+out of humility named it the “Laghu-bhagavatamrita,” the “lesser”; that is why Sanatana's book came to be called
+“Brihad-,” the “greater.” At the beginning of his book (Purva-khanda, 5) Rupa says that he briefly sets out what his
+Prabhu-pada Sanatana set out at length in the “Bhagavatamrita.” <!-- F449 Q73 -->
+
+The “Brihad-bhagavatamrita” discloses the ontology and metaphysics of the Lord's teaching, while the “Hari-bhakti-vilasa”
+deals with conduct and ritual. It has two parts of seven chapters each. The first is the “Sri
+Bhagavat-kripa-bhara-nirdhara-khanda,” “the determination of who possesses Bhagavan's highest mercy”; its chapters are
+Bhauma, Divya, Prapanchatita, Bhakta, Priya, Priyatama and Purna. The second is the “Goloka-mahatmya-nirupana-khanda,”
+“the description of the glory of Goloka”; its chapters are Vairagya, Jnana, Bhajana, Vaikuntha, Prema, Abhishta-labha and
+Jagad-ananda. <!-- F450 F451 -->
+
+The first part is a conversation between Parikshit and his mother Uttara after he has heard the “Bhagavatam” from
+Shukadeva. Parikshit tells how Narada searched for the one who possesses Bhagavan's highest mercy: from a brahmana of
+Prayaga and a king of the south to Indra, to Brahma in Brahmaloka, to Shambhu, dear to Vishnu, to the inhabitants of
+Vaikuntha, to Prahlada, Hanuman, the Pandavas, the Yadavas and at last to Uddhava, who longs for a place in Vrindavana and
+reveals the love of the gopis as the last word of bhakti. The book opens with praise of Krishna, the gopis, Sri
+Krishna-Chaitanya, Mathura, Vrindavana, the Yamuna, Govardhana, Krishna-bhakti and the Name; it tells of Krishna's journey
+to the earthly Vrindavana and His return to Dvaraka, of the glory of Nanda and Yashoda and of the prema of the gopis, and
+explains why devotees are not satisfied with the bhakti they have attained and why Radhika's name is not mentioned in the
+“Bhagavatam.” <!-- F452 -->
+
+The second part tells how the abode is attained through sadhana. A brahmana boy from Kamarupa, instructed by
+Kamakhya-devi, goes to Gangasagara and to Kashi; seeing the ways of Kashi, he wishes to take sannyasa, but at the word of
+Kamakhya and Shiva gives it up and goes on to Mathura. In Vrindavana he meets Gopa-kumara, who tells him of his own
+experience. Having received a mantra from a Vrajavasi, Gopa-kumara passed through the earth (the bank of the Ganga,
+Sri-kshetra, Vrindavana), Svarga, where he saw Vamana-deva, Maharloka, Janaloka, Tapaloka (where Pippalayana, the son of
+Rishabhadeva, instructed him about the darshana of Bhagavan through sahaja-samadhi) and Satyaloka, Shivaloka, Vaikuntha,
+Ayodhya and Dvaraka. Along the way are disclosed the difference between mukti and bhakti and the superiority of bhakti,
+the marks of karma, jnana, vairagya, samadhi and bhakti, ninefold bhakti and the pre-eminence of sankirtana, the avataras,
+the transcendental nature of Bhagavan's murti and His shaktis; Krishna is Bhagavan Himself, the source of all portions;
+the meaning of the names Goloka and Vrindavana is explained and Krishna's merciful pastimes in Vraja are described. The
+jiva rises gradually, and at the end of sadhana is Goloka; so Gopa-kumara in Vraja sees Madana-gopala, hears Krishna's
+flute, sees Goloka and its Lord, and realises his eternal service in sakhya-rasa. <!-- F453 -->
+
+The nine opening verses of the book glorify the youthful Lord, the ocean of sweetness, who descended to give love for His
+feet: through His form as Chaitanya the eternal prema of the gopis became accessible to experience. The words
+“chaitanya-rupat” are understood in two ways — “from His form as Sri Krishna-Chaitanya” or “from Sri Rupa Gosvami, who is
+close to Chaitanya” — and thus even the poor and lowly could taste the highest prema of the gopis. Then are glorified
+Radhika and the gopis, dearest to Bhagavan; the Son of Shachi — Hari in the dress of a sannyasi, golden, named
+Krishna-Chaitanya, who realised the sweetness of His devotees' love for Him and out of longing (lobha) descended to earth
+— to Gauda, to Navadvipa — in the form of a devotee; Mathura, Vrindavana, the Yamuna, Govardhana; Krishna-prema-bhakti, at
+whose feet even mukti seeks shelter; and the Name of Murari. The closing verse is an obeisance to the son of the king of
+the cowherds, the best of gurus, who Himself gives bhakti, makes a person His servant and rejoices in him as in a great
+benefactor. <!-- F454 Q78 -->
+
+In his commentary “Dig-darshini” on his own book Sanatana bows to prema-bhakti — the mother of all goals, bestowing bliss
+beyond the realisation of Brahman and freeing one from the taste for worldly things, whose shelter is the feet of Sri
+Radha-ramana and which reveals itself through following the love of the residents of Vraja; he bows to Chaitanya-chandra,
+who tastes the nectar of His own Name, “taking shelter of whose rupa” people attain bhakti (here too “rupa” means both the
+Lord's form and His dear associate Rupa); and he says that he himself is writing this commentary, the “Dig-darshini,”
+which shows only a part of the desired meanings. In the conclusion he writes that this work was prompted by all the
+devotees, and prays that Bhagavan may be pleased with it — “Shrimach-Chaitanya-rupa” (Krishna-Chaitanya Himself, Sri
+Krishna, or Rupa Gosvami). In 1898 Bhaktivinoda Thakura published a Bengali translation of the “Brihad-bhagavatamrita” in
+two volumes. <!-- F455 F456 Q79 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: One of the biographies, citing the “Gaudiya-vaishnava-abhidhana,” puts it more cautiously: “about 1410 Shaka
@@ -1884,3 +2032,15 @@ for the jagad-gurus. <!-- F424 -->
     Sanatana came to Vraja only after Mahaprabhu had left it (see above).
 
 [^66]: Another biography explains “mallik” as “lord” (see above).
+
+[^67]: According to the “Chaitanya-charitamrita,” when Sanatana first came to Vraja he did not find Rupa there: the
+    brothers missed each other and met in Vrindavana only after Sanatana's return from Puri (see above). The poet brings
+    these events together.
+
+[^68]: In one of the biographies this verse is cited as 9.45; in the translation used here it is 9.34 (the numbering of
+    the editions differs).
+
+[^69]: One of the biographies names under the second heading only the commentary “Dig-darshini” on the
+    “Hari-bhakti-vilasa,” though elsewhere it ascribes the book itself to Sanatana as well; another names as Sanatana's
+    “most important works” the “Hari-bhakti-vilasa,” the “Brihad-bhagavatamrita,” the “Dashama-tippani”
+    (“Brihad-vaishnava-toshani”) and the “Dashama-charita.”
