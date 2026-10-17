@@ -1340,6 +1340,439 @@
   "note": "Божества Гаура-Нитай явлены почти одновременно с Божеством Господа у Вишнуприи (= @vishnupriya:F91)."
  },
  {
+  "from": "@gopala-bhatta",
+  "type": "father",
+  "who": "@venkata-bhatta",
+  "facts": [
+   "F6",
+   "F10",
+   "F12",
+   "F16",
+   "F17",
+   "F19",
+   "F25",
+   "F98"
+  ],
+  "events": [
+   "ev-srirangam-chaturmasya"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "uncle",
+  "who": "@trimalla-bhatta",
+  "facts": [
+   "F12",
+   "F13",
+   "F15",
+   "F70",
+   "F96",
+   "F97",
+   "F98"
+  ],
+  "note": "У Мурари — отец (F97); у Нарахари — дом Трималлы и Венкаты."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "guru",
+  "who": "@prabodhananda-sarasvati",
+  "facts": [
+   "F12",
+   "F13",
+   "F15",
+   "F23",
+   "F25",
+   "F101",
+   "F102",
+   "F104"
+  ],
+  "note": "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F7",
+   "F10",
+   "F11",
+   "F16",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F25",
+   "F26",
+   "F29",
+   "F30",
+   "F70"
+  ],
+  "events": [
+   "ev-srirangam-chaturmasya",
+   "ev-gopala-bhatta-dream-vision",
+   "ev-lord-sends-seat-gopala-bhatta"
+  ],
+  "note": "Мальчиком служил Ему в доме отца четыре месяца; обещание Вриндавана; письмо и дары (дор, каупина, бахирвас; по T — и сиденье) из Нилачалы."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "friend",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F28",
+   "F29",
+   "F31",
+   "F47",
+   "F71",
+   "F79",
+   "F80",
+   "F91"
+  ],
+  "events": [
+   "ev-gopala-bhatta-comes-vrindavana",
+   "ev-gopala-mathura-vitthaleshvara",
+   "ev-radha-ramana-appearance"
+  ],
+  "note": "Рупа поручил ему служение Радха-раману (T); в свите Рупы назван первым (ЧЧ Мадхья 18.49)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "friend",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F28",
+   "F29",
+   "F32",
+   "F57",
+   "F71",
+   "F74",
+   "F80"
+  ],
+  "events": [
+   "ev-hari-bhakti-vilasa"
+  ],
+  "note": "«Хари-бхакти-виласа»: составил Санатана под его именем / вместе с ним (M) / отредактирована им (Бхактисиддханта)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F61",
+   "F74",
+   "F76",
+   "F104"
+  ],
+  "note": "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F1",
+   "F62",
+   "F76",
+   "F88"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F54",
+   "F55",
+   "F58",
+   "F59",
+   "F61",
+   "F72",
+   "F75",
+   "F80",
+   "F88"
+  ],
+  "events": [
+   "ev-srinivasa-arrives-vrindavana",
+   "ev-books-mission-decision"
+  ],
+  "note": "Джива упорядочил его «кадачу» в «Шат-сандарбху»; по его желанию послал Шринивасу в Гауду."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "siksha-disciple",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F1",
+   "F65",
+   "F100"
+  ],
+  "event": "ev-lokanatha-forbids-mention",
+  "note": "Один из шести шикша-гуру Кавираджа; позволил писать ЧЧ, но запретил писать о себе; «Става-панчака» приписывается Кавираджу."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "disciple",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F53",
+   "F54",
+   "F55",
+   "F59",
+   "F105"
+  ],
+  "events": [
+   "ev-srinivasa-initiation",
+   "ev-srinivasa-second-vrindavana"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "disciple",
+  "who": "@gopinatha-pujari",
+  "facts": [
+   "F41",
+   "F43",
+   "F50",
+   "F52",
+   "F53"
+  ],
+  "note": "Обещанный отцом первенец из Деобанда; брахмачари, служитель Радха-раманы."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "disciple",
+  "who": "@harivamsha",
+  "facts": [
+   "F53",
+   "F56",
+   "F102"
+  ],
+  "event": "ev-harivamsha-fall",
+  "note": "Отвергнут за нарушение правил поведения (B); имя гуру вставлено в его список учеников со злым умыслом (по преданию)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@damodara-dasa-radharamana",
+  "facts": [
+   "F50"
+  ],
+  "note": "Брат Гопинатхи Пуджари; его потомки — служители Радха-раманы (B 601) ≠ род Гопинатхи (B 666)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "deity-served",
+  "who": "@radha-ramana-deity",
+  "facts": [
+   "F39",
+   "F44",
+   "F45",
+   "F46",
+   "F47",
+   "F49",
+   "F50",
+   "F51",
+   "F57"
+  ],
+  "event": "ev-radha-ramana-appearance",
+  "note": "Явился из шалаграмы в вайшакха-пурниму 1599 Самват (1542); M ошибочно — «1599 н. э.»; по некоторым — явлен Рупой по сну (F47)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@lokanatha",
+  "facts": [
+   "F31",
+   "F55",
+   "F58",
+   "F59",
+   "F60",
+   "F69",
+   "F70",
+   "F73"
+  ],
+  "event": "ev-lokanatha-life-vrindavana"
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "companion",
+  "who": "@bhugarbha",
+  "facts": [
+   "F55",
+   "F58",
+   "F59",
+   "F60",
+   "F73",
+   "F77"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F61",
+   "F62"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F58"
+  ],
+  "event": "ev-jahnava-vrindavana"
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F60"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@shyamananda",
+  "facts": [
+   "F55",
+   "F61"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@yadunandana-dasa-author",
+  "facts": [
+   "F26",
+   "F28",
+   "F65"
+  ],
+  "note": "«Карнананда» 5 — источник B о детстве и приходе во Вриндаван."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F15",
+   "F17",
+   "F18",
+   "F70",
+   "F98",
+   "F99"
+  ],
+  "note": "БР и песня о его жизни."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F67"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F3",
+   "F85",
+   "F91"
+  ],
+  "note": "Даты; рукописи и первое издание «Сат-крия-сара-дипики»."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F33",
+   "F78",
+   "F90",
+   "F101"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F80"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F96",
+   "F97",
+   "F101"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@vitthalanatha",
+  "facts": [
+   "F48",
+   "F79"
+  ],
+  "event": "ev-gopala-mathura-vitthaleshvara"
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@vallabhacharya",
+  "facts": [
+   "F48"
+  ],
+  "note": "Валлабхитская выдумка о Радха-рамане (B 35–36) отвергнута."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@banamali-lal-gosvami",
+  "facts": [
+   "F41",
+   "F48",
+   "F56"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@madhusudana-gosvami-sarvabhauma",
+  "facts": [
+   "F4",
+   "F94"
+  ]
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@gopala-bhatta-dravida",
+  "facts": [
+   "F92",
+   "F93"
+  ],
+  "note": "Тёзка — автор «Кришна-валлабхи» к «Кришна-карнамрите»; по B — другое лицо (T и M приписывают комментарий Гопале Бхатте Госвами)."
+ },
+ {
+  "from": "@gopala-bhatta",
+  "type": "other",
+  "who": "@ranganatha-deity",
+  "facts": [
+   "F9",
+   "F10",
+   "F11"
+  ]
+ },
+ {
   "from": "@gopala-guru",
   "type": "guru",
   "who": "@vakreshvara",

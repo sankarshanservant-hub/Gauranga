@@ -4105,6 +4105,10 @@
     "type": "companion"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@gopala-guru",
     "type": "companion"
    },
@@ -5868,6 +5872,12 @@
   "events": [
    "ev-gita-reading-brahmana",
    "ev-srirangam-chaturmasya"
+  ],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   }
   ]
  },
  {
@@ -6084,6 +6094,10 @@
    "ev-virachandra-pilgrimage"
   ],
   "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "deity-served"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "other"
@@ -14234,6 +14248,10 @@
     "type": "other"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -18726,6 +18744,10 @@
     "type": "other"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "friend"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -19540,6 +19562,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "friend"
    },
    {
     "from": "@jiva-gosvami",
@@ -20676,6 +20702,10 @@
    "ev-marriage-lakshmipriya"
   ],
   "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
    {
     "from": "@shachi",
     "type": "in-law"
@@ -22086,6 +22116,12 @@
   ],
   "events": [
    "ev-srirangam-chaturmasya"
+  ],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "uncle"
+   }
   ]
  },
  {
@@ -23251,7 +23287,7 @@
   "id": "@gopala-bhatta",
   "ru": "Гопала Бхатта (Госвами)",
   "en": "Gopala Bhatta (Gosvami)",
-  "note": "из Шрирангама; у Мурари 3.15.15 — сын Трималлы Бхатты (по ЧЧ — сын Венкаты Бхатты); один из шести Госвами",
+  "note": "из Шрирангама; у Мурари 3.15.15 — сын Трималлы Бхатты (по БР 1.98 — сын Венкаты Бхатты; ЧЧ отца не называет); один из шести Госвами",
   "section": "Спутники",
   "lilas": [
    "pvl-0044",
@@ -23403,6 +23439,266 @@
    "ev-virachandra-pilgrimage",
    "ev-jiva-srinivasa-letters",
    "ev-srinivasa-disciples"
+  ],
+  "summary": "в Кришна-лиле — Ананга-манджари (ГГД 184); гуру — Прабодхананда Сарасвати; происхождение — Ранга-кшетра (Шрирангам); явление — кришна-трития месяца Мадхава — по нашему календарю; уход — кришна-панчами месяца Шридхара — по нашему календарю и T; самадхи — Вриндаван",
+  "card": "parshadas/cards/gopala-bhatta.yaml",
+  "article": {
+   "ru": "parshadas/ru/gopala-bhatta.md",
+   "en": "parshadas/en/gopala-bhatta.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "vrindavana",
+   "goswamis"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1503 (1425 Шака) или 1500 (1557 Самват)",
+    "tithi": "кришна-трития месяца Мадхава (≈ пауша) — по нашему календарю",
+    "place": "#ranga-kshetra",
+    "conf": "1503 — Бхактивинода («Саджджана-тошани») и рукописи Гопиваллабхапура (B), M; 1500 — «Радхарамана-пракатья» (B), T (по некоторым — 1503); титхи: M — пауша кришна-трайодаши, наш календарь — кришна-трития Мадхавы; T: дом семьи — деревня Белгунди близ Шрирангама",
+    "facts": [
+     "F3",
+     "F4",
+     "F5",
+     "F6"
+    ]
+   },
+   "disappearance": {
+    "date": "1578 (1500 Шака) или 1585 (1507 Шака / 1642 Самват)",
+    "tithi": "кришна-панчами месяца Шридхара (≈ ашадха) — по нашему календарю и T",
+    "place": "#vrindavana",
+    "conf": "1578 — Бхактивинода (B), M (75 лет); 1585 — «Радхарамана-пракатья» (B, 85 лет), T (ашадха кришна-панчами 1507 Шака); M — кришна-шаштхи",
+    "facts": [
+     "F3",
+     "F4",
+     "F5"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#vrindavana",
+     "facts": [
+      "F63"
+     ],
+     "note": "Только T: за нынешним храмом Радха-раманы."
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Хари-бхакти-виласа» (под его именем; составил Санатана / вместе с ним / отредактирована им)",
+    "facts": [
+     "F32",
+     "F33",
+     "F34",
+     "F35",
+     "F36"
+    ]
+   },
+   {
+    "title": "«кадача» (карики) — основа «Шат-сандарбхи» Дживы",
+    "facts": [
+     "F80"
+    ]
+   },
+   {
+    "title": "«Сат-крия-сара-дипика» с «Самскара-дипикой»",
+    "facts": [
+     "F81",
+     "F82",
+     "F83",
+     "F84",
+     "F85",
+     "F86",
+     "F87",
+     "F88",
+     "F89",
+     "F90"
+    ]
+   },
+   {
+    "title": "стих 38 «Падьявали»; песни на браджабхаше (приписываются)",
+    "facts": [
+     "F38",
+     "F39",
+     "F40"
+    ]
+   },
+   {
+    "title": "комментарий к «Кришна-карнамрите» (БР, T, M; B: «Кришна-валлабха» — тёзки)",
+    "facts": [
+     "F92",
+     "F93",
+     "F95"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Ананга-манджари",
+    "source": "ГГД 184",
+    "level": "A",
+    "variants": [
+     "Гуна-манджари — по «иным» (ГГД 184) и «Става-панчаке», приписываемой Кавираджу (F65)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@venkata-bhatta"
+   },
+   {
+    "type": "uncle",
+    "who": "@trimalla-bhatta",
+    "note": "У Мурари — отец (F97); у Нарахари — дом Трималлы и Венкаты."
+   },
+   {
+    "type": "guru",
+    "who": "@prabodhananda-sarasvati",
+    "note": "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Мальчиком служил Ему в доме отца четыре месяца; обещание Вриндавана; письмо и дары (дор, каупина, бахирвас; по T — и сиденье) из Нилачалы."
+   },
+   {
+    "type": "friend",
+    "who": "@rupa-gosvami",
+    "note": "Рупа поручил ему служение Радха-раману (T); в свите Рупы назван первым (ЧЧ Мадхья 18.49)."
+   },
+   {
+    "type": "friend",
+    "who": "@sanatana-gosvami",
+    "note": "«Хари-бхакти-виласа»: составил Санатана под его именем / вместе с ним (M) / отредактирована им (Бхактисиддханта)."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-dasa",
+    "note": "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta"
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "note": "Джива упорядочил его «кадачу» в «Шат-сандарбху»; по его желанию послал Шринивасу в Гауду."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Один из шести шикша-гуру Кавираджа; позволил писать ЧЧ, но запретил писать о себе; «Става-панчака» приписывается Кавираджу."
+   },
+   {
+    "type": "disciple",
+    "who": "@srinivasa-acharya"
+   },
+   {
+    "type": "disciple",
+    "who": "@gopinatha-pujari",
+    "note": "Обещанный отцом первенец из Деобанда; брахмачари, служитель Радха-раманы."
+   },
+   {
+    "type": "disciple",
+    "who": "@harivamsha",
+    "note": "Отвергнут за нарушение правил поведения (B); имя гуру вставлено в его список учеников со злым умыслом (по преданию)."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-dasa-radharamana",
+    "note": "Брат Гопинатхи Пуджари; его потомки — служители Радха-раманы (B 601) ≠ род Гопинатхи (B 666)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-ramana-deity",
+    "note": "Явился из шалаграмы в вайшакха-пурниму 1599 Самват (1542); M ошибочно — «1599 н. э.»; по некоторым — явлен Рупой по сну (F47)."
+   },
+   {
+    "type": "companion",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "companion",
+    "who": "@bhugarbha"
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@jahnava"
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@shyamananda"
+   },
+   {
+    "type": "other",
+    "who": "@yadunandana-dasa-author",
+    "note": "«Карнананда» 5 — источник B о детстве и приходе во Вриндаван."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "БР и песня о его жизни."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Даты; рукописи и первое издание «Сат-крия-сара-дипики»."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   },
+   {
+    "type": "other",
+    "who": "@baladeva-vidyabhushana"
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta"
+   },
+   {
+    "type": "other",
+    "who": "@vitthalanatha"
+   },
+   {
+    "type": "other",
+    "who": "@vallabhacharya",
+    "note": "Валлабхитская выдумка о Радха-рамане (B 35–36) отвергнута."
+   },
+   {
+    "type": "other",
+    "who": "@banamali-lal-gosvami"
+   },
+   {
+    "type": "other",
+    "who": "@madhusudana-gosvami-sarvabhauma"
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta-dravida",
+    "note": "Тёзка — автор «Кришна-валлабхи» к «Кришна-карнамрите»; по B — другое лицо (T и M приписывают комментарий Гопале Бхатте Госвами)."
+   },
+   {
+    "type": "other",
+    "who": "@ranganatha-deity"
+   }
   ],
   "related_by": [
    {
@@ -24281,6 +24577,10 @@
   ],
   "related_by": [
    {
+    "from": "@gopala-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -24926,6 +25226,10 @@
    {
     "from": "@dhananjaya-pandita",
     "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "companion"
    },
    {
     "from": "@gopala-guru",
@@ -25601,6 +25905,10 @@
    },
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
     "type": "other"
    },
    {
@@ -26557,6 +26865,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "niece"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
    },
    {
     "from": "@jiva-gosvami",
@@ -27556,6 +27868,10 @@
    {
     "from": "@bhugarbha",
     "type": "friend"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "companion"
    },
    {
     "from": "@jahnava",
@@ -28577,6 +28893,10 @@
     "type": "companion"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "companion"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -28639,6 +28959,10 @@
    "ev-hari-bhakti-vilasa"
   ],
   "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "guru"
+   },
    {
     "from": "@gopala-guru",
     "type": "other"
@@ -29109,6 +29433,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "protege"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "disciple"
    },
    {
     "from": "@jahnava",
@@ -29699,6 +30027,10 @@
     "type": "other"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "met"
    },
@@ -29966,6 +30298,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "companion"
    },
    {
     "from": "@jahnava",
@@ -30295,6 +30631,10 @@
     "type": "met"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -30618,6 +30958,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
    },
    {
     "from": "@jahnava",
@@ -30964,6 +31308,10 @@
    {
     "from": "@gauridasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
+    "type": "siksha-disciple"
    },
    {
     "from": "@gopala-guru",
@@ -31465,6 +31813,12 @@
   ],
   "events": [
    "ev-harivamsha-fall"
+  ],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -32043,6 +32397,10 @@
    },
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
     "type": "other"
    },
    {
@@ -33357,6 +33715,10 @@
     "type": "other"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "met"
    },
@@ -33639,6 +34001,10 @@
     "type": "other"
    },
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -33707,6 +34073,10 @@
    },
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gopala-bhatta",
     "type": "other"
    },
    {
@@ -36512,6 +36882,12 @@
   "events": [
    "ev-srirangam-chaturmasya",
    "ev-hari-bhakti-vilasa"
+  ],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "father"
+   }
   ]
  },
  {
@@ -36607,6 +36983,10 @@
    "ev-karnananda-composed"
   ],
   "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "other"
@@ -40058,6 +40438,12 @@
   ],
   "events": [
    "ev-srinivasa-marriage-untruth"
+  ],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -41665,6 +42051,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -41787,6 +42177,66 @@
   "related_by": [
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@gopala-bhatta-dravida",
+  "ru": "Гопала Бхатта из Дравиды (сын Харивамши Бхатты)",
+  "en": "Gopala Bhatta of Dravida (son of Harivamsha Bhatta)",
+  "note": "автор «Кришна-валлабхи» к «Кришна-карнамрите», «Расика-ранджани», «Кала-каумуди»; по B (615–618) — не @gopala-bhatta",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@damodara-dasa-radharamana",
+  "ru": "Дамодара Дас (брат Гопинатхи Пуджари)",
+  "en": "Damodara Dasa (Gopinatha Pujari's brother)",
+  "note": "из Деобанда; ученик @gopinatha-pujari; его сыновья Харинатха, Матхуранатха, Харирама — род служителей Радха-раманы (B 601; M 47)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@banamali-lal-gosvami",
+  "ru": "Банамали Лал Госвами (Видьябхушана)",
+  "en": "Banamali Lal Gosvami (Vidyabhushana)",
+  "note": "учёный из Радха-рамана-гхеры во Вриндаване, собеседник авторов B (B 36, 406, 600, 602)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@madhusudana-gosvami-sarvabhauma",
+  "ru": "Мадхусудана Госвами Сарвабхаума",
+  "en": "Madhusudana Gosvami Sarvabhauma",
+  "note": "пандит из ограды Радха-раманы, автор «Шри Радхарамана-пракатьи» (хинди); его библиотека (B 588, 617)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gopala-bhatta",
     "type": "other"
    }
   ]
