@@ -585,6 +585,127 @@ Tapana's son, saw Rupa and heard Mahaprabhu's teachings. After staying ten days 
 the way Rupa pondered the events of the drama and made notes (kadchas). And in Gauda Anupama left his body on the bank of
 the Ganga (“attained the Ganga”) and went to the eternal abode of Ramachandra.[^30] <!-- F151 F152 F153 -->
 
+## Satyabhamapura and Puri
+After Anupama's passing, Rupa, burning with longing, set out for Nilachala, to the Lord's feet. Because of his
+brother's passing he was delayed on the road longer than he expected and no longer found the Gaudiyas led by Shivananda
+Sena — they had gone to Nilachala earlier; so Rupa missed their annual journey and reached Puri much later. <!-- F154 -->
+
+“In the province of Orissa there is a village called Satyabhama-pura. On his way to Puri he stopped there for the night.
+There in a dream he saw a maiden of unearthly beauty, who showed him her special favour. ‘Dedicate a whole play to Me,’
+she commanded him. ‘By My mercy it will turn out extraordinarily beautiful.’ On waking, Sri Rupa thought: ‘Satyabhama
+tells me to write a separate play. I intended to describe Krishna's pastimes in Vrindavana and in Dvaraka in one play.
+Now I must divide them into two parts.’” (CC, Antya 1.40–44)
+
+So Rupa understood that the maiden who had appeared to him was Satyabhama-devi, and decided to write the vraja-lila
+and the dvaraka-lila separately, as two dramas. <!-- F155 F156 -->
+
+“Absorbed in these thoughts, he soon reached Jagannatha Puri. Arriving there, he went to the hut of Haridasa Thakura.
+With boundless love Haridasa Thakura received Rupa and said, ‘Mahaprabhu told me that you would come.’ Every day Sri
+Chaitanya came to Haridasa after seeing the upala-bhoga ceremony in the temple of Jagannatha. Unexpectedly He appeared
+before them. Rupa Gosvami prostrated himself. ‘This is Rupa offering You dandavat,’ said Haridasa. Having greeted
+Haridasa, the Lord embraced Rupa.” (CC, Antya 1.45–48)
+
+Drawn by Rupa's humble and pure devotion, the Lord seated them both beside Him, asked about their welfare and talked
+with them at length. Asked about Sanatana, Rupa replied, “We did not meet: I went along the Ganga, he by the high road;
+in Prayaga I heard that he had gone to Vrindavana.” He also told of Anupama's passing. <!-- F157 F158 F159 -->
+
+Rupa met the Lord's other devotees, and one day the Lord came with all His associates and introduced Rupa to them; Rupa
+bowed at the feet of each, and all embraced him. Out of love for Rupa the Lord asked Nityananda and Advaita to pour Their
+mercy on him with all Their hearts: “By Your mercy may Rupa obtain the power to spread krishna-rasa-bhakti in the
+world.” Thus Mahaprabhu arranged for Rupa, and later Sanatana too, to meet Advaita and Nityananda. Rupa became dear to
+all the Lord's devotees — both the Gaudiyas and the people of Utkala. <!-- F160 F161 F162 -->
+
+Every day the Lord visited Haridasa, spoke intimately with Rupa and gave them both mahaprasada received from the temple;
+He sent them the remnants of His own meal with Govinda. For Haridasa, Rupa and Sanatana, though they were gurus even for
+the best of transcendental brahmanas, did not go into the temple of Jagannatha: out of great humility and for the sake of
+propriety, after their long closeness to the Muslim court, they considered themselves no better than mlechchhas.[^31]
+
+“Haridasa Thakura, Sri Rupa and Sri Sanatana never entered the temple of Jagannatha. After seeing the upala-bhoga
+ceremony, Mahaprabhu would visit these three saints and only then go home. So the Lord came to these devotees every day,
+even if one of them was not there.” (CC, Madhya 1.63–65)
+
+Thus Sri Chaitanya, the “moving Jagannatha,” came to them Himself, and this was His constant rule. Rupa did not even enter
+the house of Kashi Mishra to see the Lord, though nothing prevented him, and lived with Haridasa at Siddha-bakula.
+Mahaprabhu respected his decision and never told him to go to Jagannatha: Rupa's humility attracted the Lord, and through
+his example He wished to teach the world humility. The “Bhakti-ratnakara” says that the Lord “through Ramananda revealed
+the crushing of Kandarpa's pride, through Damodara revealed detachment, through Haridasa showed forbearance, through
+Sanatana and Rupa revealed humility” (“Bhakti-ratnakara,” 1.630–631).[^32] <!-- F163 F164 F165 F166 Q46 I15 -->
+
+## “Do Not Take Krishna out of Vraja”
+“The next day the omniscient Lord Sri Chaitanya came to Rupa Gosvami and said to him: ‘Do not try to take Krishna out of
+Vrindavana, for He never wishes to go beyond it. “The Krishna who is called Yadu-kumara is Vasudeva-Krishna. He is
+different from Krishna, the son of Nanda Maharaja. Krishna Yadu-kumara performs His pastimes in Mathura and Dvaraka, but
+Krishna Nanda-nandana never leaves Vrindavana.”’” (CC, Antya 1.65–67)
+
+The verse the Lord quoted is from the “Yamala.” Krishna, the son of Yadu, is Vasudeva, who plays in Mathura and Dvaraka;
+but the son of the king of the cowherds, Gopendra-nandana, does not leave Vrindavana. <!-- F167 F168 Q33 Q34 -->
+
+Hearing this, Rupa was amazed. Now he was firmly convinced that Satyabhama-devi and the Lord were separately telling him
+to write two dramas: the “Lalita-madhava,” about the pastimes in Dvaraka, and the “Vidagdha-madhava,” solely about the
+pastimes in Vraja. And the dramas, formerly conceived as one, he began to plan and write separately — each with its own
+nandi, prologue (prastava) and plot. <!-- F169 -->
+
+## “Priyah So ’yam”
+The Ratha-yatra came. In divine madness the Lord danced before the chariot in the mood of separation and repeated a verse
+by an ordinary poet, seemingly about quite worldly lovers; no one understood why He loved this verse so much. Only Svarupa
+Damodara knew its hidden meaning and delighted the Lord with padas in the same mood. But by Mahaprabhu's mercy Rupa
+understood His inner states: the Lord looked at Jagannatha and spoke the verse in the mood of Radha — and Rupa, the only
+one besides Svarupa, grasped His intention and at once composed a verse after His heart, revealing its deeper meaning.
+This is told in detail in the article on Svarupa Damodara. <!-- F170 F171 -->
+
+The verse the Lord repeated:
+
+“He who in youth stole My heart is again My Lord. Again there are the clear moonlit nights of the month of Chaitra, the
+malati flowers smell just the same, and the same gentle breeze blows from the kadamba groves. Nothing has changed in
+Our intimate relationship: I am the same beloved, yet I find no happiness here. My heart longs to return to the bank of
+the Reva, to the shelter of the vetasi tree.” (CC, Antya 1.78)
+
+And Rupa's verse:
+
+“Dear friend, at last on the field of Kurukshetra I have met My long-dear sweet friend Krishna. I am the same Radhika,
+and We are together again. How sweet is the magical moment of Our meeting! Yet I want to be again on the bank of the
+Yamuna, beneath the shade of the groves of Vrindavana, and hear again His flute sounding the fifth note and driving Me
+mad.” (CC, Antya 1.79)[^33] <!-- F172 F173 Q35 Q36 -->
+
+Rupa wrote his verse on a palm leaf, tucked the leaf into the thatched roof of the hut and went to bathe in the sea.
+Meanwhile the Lord came, happened to look up, saw the leaf, read the verse — and was plunged into prema, marvelling at
+how clearly Rupa had grasped His innermost feelings. On returning, Rupa saw the Lord in prema and prostrated himself
+before Him.[^34] The Lord slapped him: “How did you know the most secret thing in My heart?” — and embraced him tightly.
+<!-- F174 F175 -->
+
+Then the Lord, as if not knowing the answer, playfully showed the verse to Svarupa, asking him to check whether it had
+any faults, and asked how Rupa had entered His thoughts.
+
+“‘As I understand it,’ replied Svarupa Damodara, ‘You are especially favourable to him. No one is able to understand this
+confidential meaning. I think You have fully endowed him with Your causeless mercy.’ Sri Chaitanya said, ‘I met Rupa
+Gosvami in Prayaga. I could not help granting him My mercy, seeing that he was supremely worthy of it. I endowed him with
+My spiritual power. Now you too must instruct him. In particular, enlighten him in the science of spiritual rasas.’
+Svarupa said, ‘As soon as I saw his unique verse, I understood that You had given him Your special mercy. Seeing the
+effect, one can understand its cause.’” (CC, Antya 1.86–91)
+
+Rupa's poetry disclosed the Lord's most intimate mood — the mood of Radha longing for Vraja; it can be understood only by
+His mercy, and by the effect the cause is known. <!-- F176 F177 I13 -->
+
+## “Tunde Tandavini”
+“So the Chaturmasya ended, and all the Vaishnavas of Bengal went home, but Rupa Gosvami remained in Jagannatha Puri in
+the shelter of Mahaprabhu's lotus feet. One day, when he was writing his book, Sri Chaitanya suddenly came. Seeing the
+Lord, Haridasa and Rupa sprang to their feet and fell before Him in dandavat. Sri Chaitanya embraced them both and sat
+down. ‘What book are you writing?’ He asked. Taking one of the palm leaves, He was very pleased to see the beautiful
+handwriting. ‘Rupa's handwriting is like strings of pearls,’ He praised him.” (CC, Antya 1.93–97)
+
+Rupa was then writing the “Vidagdha-madhava.” On the leaf the Lord read a newly composed verse in glory of the Name —
+and was plunged into prema:
+
+“How much sweetness these two syllables ‘Krish-na’ contain! I cannot even imagine it. As soon as one utters Krishna's
+name, it seems to dance on the tongue, and then one wishes to have thousands of mouths. When this name enters the ears,
+one wishes to have millions of ears. And when the holy name of Krishna begins to dance in the courtyard of the heart, it
+conquers the mind, and all the senses fall still.” (“Vidagdha-madhava,” 1.15; CC, Antya 1.99)[^35]
+<!-- F178 F179 F180 F181 Q37 -->
+
+Hearing it, the nama-acharya Haridasa Thakura in rapture began to glorify the meaning of the verse and broke into a
+dance: he had heard of the glory of the Name from many scriptures and sadhus, but never such a description of its
+sweetness (CC, Antya 1.100–101). <!-- F182 -->
+
 <!-- SHIFT 1 CONTINUES HERE -->
 
 [^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
@@ -669,3 +790,12 @@ the Ganga (“attained the Ganga”) and went to the eternal abode of Ramachandr
 [^30]: According to one biography, Anupama passed away on the road, while the brothers were going along the Ganga to
     Bengal. According to one account, Mahaprabhu Himself told Sanatana in Puri of Rupa's coming, of Anupama's devotion to
     Rama and of his passing; according to another, Sanatana heard of his brother's passing from Haridasa Thakura.
+[^31]: According to one biography, all three were born into a high, respected brahmana caste; according to another, they
+    were gurus even for the best of transcendental brahmanas.
+[^32]: One biography gives the verse as “Bhakti-ratnakara” 1.631, another as 1.630–631.
+[^33]: The Lord's verse “yah kaumara-harah” is included in the “Padyavali” (386 in the Russian translation of the CC used
+    here, 382 in another numbering), and also in the “Sahitya-darpana” (1.2) and the “Kavya-prakasha” (1.4). Rupa's verse
+    “priyah so ’yam” is “Padyavali” 387 in the same translation, 383 in the other numbering.
+[^34]: According to another account, Rupa did not go to bathe but came when the Lord was already in ecstasy and fell
+    before Him like a rod; and the Lord, embracing him, gave him His blessing.
+[^35]: In another numbering — “Vidagdha-madhava” 1.33.
