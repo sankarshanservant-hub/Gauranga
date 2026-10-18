@@ -110,6 +110,7 @@ B — вероятно, больше сотни).
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
 | @rasikananda (T + M 158–160) | ✓ | ✓ (PDF) | — |
 | @bhakti-dayita-madhava (только T) | ✓ | ✓ (PDF) | — |
+| @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-pramoda-puri, @bhakti-ballabha-tirtha (только T) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
