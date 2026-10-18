@@ -108,6 +108,7 @@ B — вероятно, больше сотни).
 | @gopala-bhatta (022) | ✓ | ✓ (PDF) | — |
 | @raghunatha-dasa (023) | ✓ | ✓ (PDF) | — |
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
+| @rasikananda (только T/M) | в работе | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
